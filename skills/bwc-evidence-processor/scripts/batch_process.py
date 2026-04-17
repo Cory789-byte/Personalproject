@@ -299,6 +299,22 @@ def main() -> int:
     except Exception:
         traceback.print_exc()
 
+    print("== Building evidence engagement findings")
+    try:
+        from evidence_engagement import analyze as analyze_eng, save as save_eng
+        eng = analyze_eng(out_dir)
+        save_eng(eng, out_dir)
+        print(f"   {len(eng)} engagement findings")
+    except Exception:
+        traceback.print_exc()
+
+    print("== Visual keyword sweep (frame extraction at evidence keywords)")
+    try:
+        from visual_sweep import run as run_visual
+        run_visual(root, dry_run=not args.screenshots)
+    except Exception:
+        traceback.print_exc()
+
     print("== Building master issues log (with seek commands)")
     try:
         from issues_log import build as build_issues_log
