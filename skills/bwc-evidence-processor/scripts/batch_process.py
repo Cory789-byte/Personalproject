@@ -85,6 +85,10 @@ def main() -> int:
                     help="Reprocess files even if artefacts already exist")
     ap.add_argument("--videos-only", action="store_true")
     ap.add_argument("--docs-only", action="store_true")
+    ap.add_argument("--limit", type=int, default=0,
+                    help="Process at most N media files this run (0 = no limit)")
+    ap.add_argument("--only-containing", default=None,
+                    help="Process only media whose filename contains this substring")
     args = ap.parse_args()
 
     sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -128,6 +132,12 @@ def main() -> int:
 
     # ---- Stage B: videos + audio -> full pipeline ----
     media_files = [] if args.docs_only else buckets["video"] + buckets["audio"]
+    if args.only_containing:
+        media_files = [m for m in media_files if args.only_containing.lower() in m.name.lower()]
+    if args.limit and len(media_files) > args.limit:
+        # Prefer unprocessed files first, then smallest -> largest
+        media_files.sort(key=lambda m: (already_done(m, out_dir), m.stat().st_size))
+        media_files = media_files[: args.limit]
     print(f"\n== Processing {len(media_files)} media files")
     per_file_log: list[dict] = []
 
@@ -166,9 +176,16 @@ def main() -> int:
         print(f"{label}  DONE in {dur}s ({status})")
         per_file_log.append({"file": str(m), "status": status, "seconds": dur})
 
-    # ---- Stage C: matter-wide master index ----
+    # ---- Stage C: matter-wide master index + case theory ----
     print("\n== Building matter-wide master index")
     build_matter_index(root, out_dir, buckets, per_file_log, time.time() - t0)
+
+    print("== Building case theory synthesis")
+    try:
+        from case_theory import render as render_case_theory
+        render_case_theory(root)
+    except Exception:
+        traceback.print_exc()
 
     print(f"\n== Batch complete in {round(time.time() - t0, 1)}s")
     return 0
