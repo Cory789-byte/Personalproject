@@ -178,6 +178,141 @@ def _load_docs(output_dir: Path) -> dict[str, str]:
 # --------- Section builders ----------------------------------------------
 
 
+TURNOFF_CUES = [
+    "turn this off", "turn the camera off", "stop the recording",
+    "pause the camera", "camera's off", "off the record",
+    "turn it off", "shut it off",
+]
+
+
+def _collect_cut_events(
+    transcripts: dict[str, list[dict]],
+    integrity: dict[str, dict],
+) -> dict:
+    """Gather every cut / black / freeze / turnoff signal across exhibits."""
+    cuts_per_exhibit: dict[str, int] = {}
+    black_per_exhibit: dict[str, int] = {}
+    freeze_per_exhibit: dict[str, int] = {}
+    turnoff_per_exhibit: dict[str, int] = defaultdict(int)
+    turnoff_rows: list[dict] = []
+    per_cut_context: dict[str, list[dict]] = defaultdict(list)
+
+    for stem, integ in integrity.items():
+        cuts = integ.get("scene_cuts") or []
+        blacks = integ.get("black_frames") or []
+        freezes = integ.get("freeze_frames") or []
+        cuts_per_exhibit[stem] = len(cuts)
+        black_per_exhibit[stem] = len(blacks)
+        freeze_per_exhibit[stem] = len(freezes)
+        segs = transcripts.get(stem, [])
+        for t in cuts:
+            before = next((s for s in reversed(segs)
+                           if float(s.get("end", 0)) <= t), None)
+            after = next((s for s in segs
+                          if float(s.get("start", 0)) >= t), None)
+            per_cut_context[stem].append({
+                "at": float(t),
+                "before": before.get("text", "") if before else "",
+                "before_time": float(before.get("end", 0)) if before else None,
+                "after": after.get("text", "") if after else "",
+                "after_time": float(after.get("start", 0)) if after else None,
+            })
+
+    for stem, segs in transcripts.items():
+        for s in segs:
+            lt = (s.get("text") or "").lower()
+            for cue in TURNOFF_CUES:
+                if cue in lt:
+                    turnoff_per_exhibit[stem] += 1
+                    turnoff_rows.append({
+                        "exhibit": stem, "at": float(s.get("start", 0)),
+                        "text": s.get("text", ""), "cue": cue,
+                    })
+                    break
+
+    dated: list[tuple[datetime, str]] = []
+    for stem, integ in integrity.items():
+        tags = (integ.get("format") or {}).get("tags") or {}
+        dt = _parse_creation(tags.get("creation_time", ""))
+        if dt:
+            dated.append((dt, stem))
+    dated.sort()
+    creation_gaps: list[dict] = []
+    for (a_dt, a), (b_dt, b) in zip(dated, dated[1:]):
+        delta_s = int((b_dt - a_dt).total_seconds())
+        if delta_s > 1800 and a_dt.date() == b_dt.date():
+            creation_gaps.append({
+                "from": a, "to": b, "from_dt": a_dt, "to_dt": b_dt,
+                "gap_minutes": delta_s // 60,
+            })
+
+    return {
+        "cuts_per_exhibit": cuts_per_exhibit,
+        "black_per_exhibit": black_per_exhibit,
+        "freeze_per_exhibit": freeze_per_exhibit,
+        "turnoff_per_exhibit": dict(turnoff_per_exhibit),
+        "turnoff_rows": turnoff_rows,
+        "per_cut_context": dict(per_cut_context),
+        "creation_gaps": creation_gaps,
+        "total_cuts": sum(cuts_per_exhibit.values()),
+        "total_black": sum(black_per_exhibit.values()),
+        "total_freeze": sum(freeze_per_exhibit.values()),
+        "total_turnoff": sum(turnoff_per_exhibit.values()),
+    }
+
+
+def _section_top_summary(cut_events: dict) -> list[str]:
+    lines: list[str] = [
+        "## 0. BWC integrity summary (top-line)",
+        "",
+        "| Metric | Count |",
+        "|--------|-------|",
+        f"| Total scene cuts across all exhibits | **{cut_events['total_cuts']}** |",
+        f"| Total black-frame intervals | **{cut_events['total_black']}** |",
+        f"| Total freeze-frame intervals | **{cut_events['total_freeze']}** |",
+        f"| Audible camera-off / stop-recording mentions | **{cut_events['total_turnoff']}** |",
+        f"| Creation-time gaps > 30 min same day | **{len(cut_events['creation_gaps'])}** |",
+        "",
+    ]
+    # Rank exhibits by cut count
+    ranked = sorted(cut_events["cuts_per_exhibit"].items(),
+                    key=lambda kv: -kv[1])
+    top = [r for r in ranked if r[1] > 0][:10]
+    if top:
+        lines.append("### Most-cut exhibits (scene cuts)")
+        lines.append("")
+        lines.append("| Exhibit | Scene cuts | Black | Freeze | Turn-off mentions |")
+        lines.append("|---------|-----------:|------:|-------:|------------------:|")
+        for ex, n in top:
+            lines.append(
+                f"| `{ex}` | {n} | "
+                f"{cut_events['black_per_exhibit'].get(ex, 0)} | "
+                f"{cut_events['freeze_per_exhibit'].get(ex, 0)} | "
+                f"{cut_events['turnoff_per_exhibit'].get(ex, 0)} |"
+            )
+        lines.append("")
+    if cut_events["turnoff_rows"]:
+        lines.append("### Every audible camera-off / stop-recording mention")
+        lines.append("")
+        for r in cut_events["turnoff_rows"][:30]:
+            lines.append(
+                f"- `{r['exhibit']}` at {_hms(r['at'])}: _\"{_clip(r['text'], 200)}\"_"
+            )
+        if len(cut_events["turnoff_rows"]) > 30:
+            lines.append(f"- ... {len(cut_events['turnoff_rows']) - 30} more")
+        lines.append("")
+    if cut_events["creation_gaps"]:
+        lines.append("### Creation-time gaps same day, > 30 min")
+        lines.append("")
+        for g in cut_events["creation_gaps"]:
+            lines.append(
+                f"- **{g['gap_minutes']} min** gap between `{g['from']}` "
+                f"({_fmt_dt(g['from_dt'])}) and `{g['to']}` ({_fmt_dt(g['to_dt'])})"
+            )
+        lines.append("")
+    return lines
+
+
 def _section_personae(
     transcripts: dict[str, list[dict]],
     integrity: dict[str, dict],
@@ -212,44 +347,74 @@ def _section_personae(
 def _section_chronology(
     transcripts: dict[str, list[dict]],
     integrity: dict[str, dict],
-    limit: int = 300,
 ) -> list[str]:
     lines: list[str] = [
         "## 2. Unified chronological feed",
         "",
         "_Every transcript segment across all processed exhibits, sorted by "
-        "absolute time (BWC creation_time + offset). Exhibits without "
-        "creation_time are appended at the end with relative offsets only._",
+        "absolute time (BWC creation_time + offset). No cap - this is the "
+        "canonical time log. Exhibits without creation_time are appended at "
+        "the end with relative offsets only._",
         "",
     ]
-    events: list[tuple[datetime | None, str, float, str]] = []
+    events: list[tuple[datetime | None, str, float, float, str]] = []
     for stem, segs in transcripts.items():
         integ = integrity.get(stem, {})
         creation = ((integ.get("format") or {}).get("tags") or {}).get("creation_time", "")
         base = _parse_creation(creation)
         for s in segs:
             start = float(s.get("start", 0))
+            end = float(s.get("end", 0))
             dt = base + timedelta(seconds=start) if base else None
-            events.append((dt, stem, start, (s.get("text") or "").strip()))
+            events.append((dt, stem, start, end, (s.get("text") or "").strip()))
     events.sort(key=lambda e: (e[0] is None, e[0] or datetime.min.replace(tzinfo=timezone.utc),
                                e[1], e[2]))
 
     current_scene = None
-    shown = 0
-    for dt, stem, start, text in events:
-        if shown >= limit:
-            lines.append(f"... (truncated at {limit} utterances - full detail in per-exhibit files) ...")
-            break
-        scene_id = f"{stem}"
-        if scene_id != current_scene:
-            current_scene = scene_id
+    for dt, stem, start, end, text in events:
+        if stem != current_scene:
+            current_scene = stem
             lines.append("")
-            lines.append(f"### {stem}  ({_fmt_dt(dt)} start)")
+            lines.append(f"### {stem}  (start {_fmt_dt(dt)})")
             lines.append("")
-        stamp = _fmt_dt(dt) if dt else f"+{_hms(start)}"
-        lines.append(f"- `{stamp}`  {_clip(text, 280)}")
-        shown += 1
+        if dt is not None:
+            stamp = f"{dt.strftime('%H:%M:%S')} (+{_hms(start)})"
+        else:
+            stamp = f"+{_hms(start)}"
+        lines.append(f"- `{stamp}` - `{_hms(end)}` {_clip(text, 300)}")
     lines.append("")
+    return lines
+
+
+def _section_per_cut_context(cut_events: dict) -> list[str]:
+    lines: list[str] = [
+        "## 2b. Per-cut context (what was said around each BWC scene cut)",
+        "",
+        "_Every detected scene cut with the last utterance before it and the "
+        "first utterance after it. Sudden subject changes or cuts in the "
+        "middle of a sentence are worth scrutiny._",
+        "",
+    ]
+    per_cut = cut_events.get("per_cut_context", {}) or {}
+    if not any(per_cut.values()):
+        lines.append("_No scene cuts detected across processed exhibits._")
+        lines.append("")
+        return lines
+    for stem, cuts in per_cut.items():
+        if not cuts:
+            continue
+        lines.append(f"### {stem}  ({len(cuts)} cut{'s' if len(cuts) != 1 else ''})")
+        lines.append("")
+        for c in cuts:
+            at = _hms(c["at"])
+            before = _clip(c["before"], 160) if c["before"] else "_(no prior utterance within scene)_"
+            after = _clip(c["after"], 160) if c["after"] else "_(no subsequent utterance)_"
+            before_t = _hms(c["before_time"]) if c["before_time"] is not None else "-"
+            after_t = _hms(c["after_time"]) if c["after_time"] is not None else "-"
+            lines.append(f"- **Cut at {at}**")
+            lines.append(f"  - Before ({before_t}): _\"{before}\"_")
+            lines.append(f"  - After  ({after_t}): _\"{after}\"_")
+        lines.append("")
     return lines
 
 
@@ -546,6 +711,8 @@ def build(matter_root: Path) -> Path:
     bias = _load_bias(output_dir)
     docs_text = _load_docs(output_dir)
 
+    cut_events = _collect_cut_events(transcripts, integrity)
+
     lines: list[str] = [
         "# Forensic Narrative Log",
         "",
@@ -555,8 +722,10 @@ def build(matter_root: Path) -> Path:
         "> statements before any forensic or tactical use.",
         "",
     ]
+    lines += _section_top_summary(cut_events)
     lines += _section_personae(transcripts, integrity, docs_text)
     lines += _section_chronology(transcripts, integrity)
+    lines += _section_per_cut_context(cut_events)
     lines += _section_per_exhibit(transcripts, integrity, bias, output_dir)
     lines += _section_contradictions(output_dir)
     lines += _section_integrity(transcripts, integrity, output_dir)
