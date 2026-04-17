@@ -16,6 +16,10 @@ from dataclasses import asdict, dataclass, field
 from pathlib import Path
 from typing import Any
 
+from _path_helper import ensure_tools_on_path
+
+ensure_tools_on_path()
+
 HEADER = "MACHINE-GENERATED - UNVERIFIED"
 SUPPORTED = {".pdf", ".docx", ".xlsx", ".xls", ".txt", ".rtf", ".md"}
 

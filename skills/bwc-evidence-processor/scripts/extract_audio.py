@@ -6,6 +6,10 @@ import shutil
 import subprocess
 from pathlib import Path
 
+from _path_helper import ensure_tools_on_path
+
+ensure_tools_on_path()
+
 
 class FFmpegMissingError(RuntimeError):
     pass

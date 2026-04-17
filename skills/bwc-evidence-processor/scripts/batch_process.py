@@ -40,6 +40,11 @@ import time
 import traceback
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _path_helper import ensure_tools_on_path  # noqa: E402
+
+ensure_tools_on_path()
+
 VIDEO_EXT = {".mp4", ".mov", ".mkv", ".avi", ".webm", ".m4v", ".mpg", ".mpeg"}
 AUDIO_EXT = {".wav", ".mp3", ".m4a", ".flac", ".ogg", ".aac", ".wma"}
 DOC_EXT = {".pdf", ".docx", ".xlsx", ".xls", ".txt", ".rtf", ".md"}
