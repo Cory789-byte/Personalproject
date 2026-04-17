@@ -323,6 +323,16 @@ def main() -> int:
     except Exception:
         traceback.print_exc()
 
+    print("== Cross-officer triangulation + tampering tally")
+    try:
+        from triangulation import analyze as analyze_tri, save as save_tri
+        rep = analyze_tri(root)
+        save_tri(rep, out_dir)
+        total_score = sum(t.score for t in rep["tally"])
+        print(f"   {len(rep['mentions'])} event mentions, tampering score {total_score}")
+    except Exception:
+        traceback.print_exc()
+
     if args.screenshots:
         print("== Extracting frames at every scene cut")
         try:

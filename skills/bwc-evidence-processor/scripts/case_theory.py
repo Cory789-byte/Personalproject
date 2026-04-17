@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
@@ -347,6 +348,25 @@ def render(matter_root: Path) -> Path:
                 )
     else:
         lines.append("_No competency findings register yet - run batch_process.py._")
+
+    lines += ["", "## 6d. Cross-officer triangulation + tampering tally", ""]
+    tri_md = output_dir / "TRIANGULATION.md"
+    tamper_md = output_dir / "TAMPERING_TALLY.md"
+    if tri_md.is_file():
+        lines.append(f"Full event matrix: [`TRIANGULATION.md`]({tri_md.name})")
+    if tamper_md.is_file():
+        # Extract the totals header from TAMPERING_TALLY.md
+        try:
+            text = tamper_md.read_text(encoding="utf-8")
+            m = re.search(r"Aggregate tampering score across all exhibits: \*\*(\d+)\*\*", text)
+            if m:
+                lines.append(f"Aggregate tampering score: **{m.group(1)}**")
+        except Exception:
+            pass
+        lines.append(f"Per-camera tally: [`TAMPERING_TALLY.md`]({tamper_md.name})")
+    if not (tri_md.is_file() or tamper_md.is_file()):
+        lines.append("_Triangulation not yet run._")
+    lines.append("")
 
     lines += ["", "## 7. Suggested cross-examination lines", ""]
     suggestions = _cross_ex_suggestions(findings)
