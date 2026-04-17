@@ -36,6 +36,7 @@ import argparse
 import csv
 import json
 import sys
+import threading
 import time
 import traceback
 from pathlib import Path
@@ -44,6 +45,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from _path_helper import ensure_tools_on_path  # noqa: E402
 
 ensure_tools_on_path()
+
+
+def _make_lock():
+    return threading.Lock()
 
 VIDEO_EXT = {".mp4", ".mov", ".mkv", ".avi", ".webm", ".m4v", ".mpg", ".mpeg"}
 AUDIO_EXT = {".wav", ".mp3", ".m4a", ".flac", ".ogg", ".aac", ".wma"}
@@ -89,6 +94,12 @@ def main() -> int:
                     help="Process at most N media files this run (0 = no limit)")
     ap.add_argument("--only-containing", default=None,
                     help="Process only media whose filename contains this substring")
+    ap.add_argument("--gpu-workers", type=int, default=0,
+                    help="Number of parallel workers using --device cuda "
+                         "(Quadro P400: keep at 1 max due to 2GB VRAM)")
+    ap.add_argument("--cpu-workers", type=int, default=1,
+                    help="Number of parallel workers using --device cpu "
+                         "(1-2 is usually optimal; Whisper is already multi-threaded)")
     args = ap.parse_args()
 
     sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -138,16 +149,39 @@ def main() -> int:
         # Prefer unprocessed files first, then smallest -> largest
         media_files.sort(key=lambda m: (already_done(m, out_dir), m.stat().st_size))
         media_files = media_files[: args.limit]
-    print(f"\n== Processing {len(media_files)} media files")
+    # Filter out already-processed files if resume is on
+    if not args.no_resume:
+        pre = len(media_files)
+        media_files = [m for m in media_files if not already_done(m, out_dir)]
+        skipped = pre - len(media_files)
+        if skipped:
+            print(f"== Skipping {skipped} already-processed files (resume)")
+
+    total = len(media_files)
+    print(f"== Processing {total} media files")
     per_file_log: list[dict] = []
 
-    for i, m in enumerate(media_files, 1):
-        label = f"[{i}/{len(media_files)}] {m.relative_to(source)}"
-        if not args.no_resume and already_done(m, out_dir):
-            print(f"{label}  SKIP (already processed)")
-            per_file_log.append({"file": str(m), "status": "skipped"})
-            continue
+    # Decide worker plan. If user didn't set --gpu-workers explicitly but passed
+    # --device cuda, give them 1 GPU worker. Likewise for cpu.
+    gpu_workers = args.gpu_workers
+    cpu_workers = args.cpu_workers
+    if args.device == "cuda" and gpu_workers == 0 and cpu_workers == 1:
+        gpu_workers, cpu_workers = 1, 0
+    total_workers = max(1, gpu_workers + cpu_workers)
 
+    # Sort: largest first so big files go to GPU workers when they become free.
+    media_files.sort(key=lambda m: -m.stat().st_size)
+
+    worker_devices: list[str] = (["cuda"] * gpu_workers) + (["cpu"] * cpu_workers)
+    if not worker_devices:
+        worker_devices = [args.device or "cpu"]
+    print(f"== Worker plan: {gpu_workers} GPU + {cpu_workers} CPU "
+          f"= {total_workers} concurrent (sorted largest-first)")
+
+    log_lock = _make_lock()
+
+    def run_one(i: int, m: Path, device: str) -> dict:
+        label = f"[{i}/{total}] {m.relative_to(source)} ({device})"
         cmd = [
             sys.executable,
             str(Path(__file__).with_name("process_video.py")),
@@ -155,7 +189,7 @@ def main() -> int:
             "--output-dir", str(out_dir),
             "--model", args.model,
             "--language", args.language,
-            "--device", args.device,
+            "--device", device,
         ]
         if args.matter_config:
             cmd += ["--matter-config", args.matter_config]
@@ -164,17 +198,52 @@ def main() -> int:
         if args.ocr:
             cmd += ["--ocr"]
 
-        print(f"{label}  RUN")
+        with log_lock:
+            print(f"{label}  RUN")
         start = time.time()
+        import subprocess
         try:
-            import subprocess
-            r = subprocess.run(cmd, capture_output=False)
+            r = subprocess.run(cmd, capture_output=True, text=True)
             status = "ok" if r.returncode == 0 else f"exit_{r.returncode}"
+            tail = (r.stderr or "")[-400:] if r.returncode != 0 else ""
         except Exception as e:
             status = f"error:{e}"
+            tail = str(e)[-400:]
         dur = round(time.time() - start, 1)
-        print(f"{label}  DONE in {dur}s ({status})")
-        per_file_log.append({"file": str(m), "status": status, "seconds": dur})
+        with log_lock:
+            print(f"{label}  DONE in {dur}s ({status})")
+            if tail:
+                print(f"    stderr tail: {tail}")
+        return {"file": str(m), "status": status, "seconds": dur, "device": device}
+
+    if total_workers <= 1:
+        # Serial path (preserves tidy live output)
+        device = worker_devices[0]
+        for i, m in enumerate(media_files, 1):
+            per_file_log.append(run_one(i, m, device))
+    else:
+        # Parallel path using a thread pool (subprocesses do the heavy lifting)
+        from concurrent.futures import ThreadPoolExecutor, as_completed
+        # Assign device per worker slot by round-robin within the pool.
+        # ThreadPoolExecutor does not expose slot indices, so we mimic it
+        # with a queue of available device tokens.
+        import queue
+        dev_q: "queue.Queue[str]" = queue.Queue()
+        for d in worker_devices:
+            dev_q.put(d)
+
+        def worker(idx_file):
+            i, m = idx_file
+            dev = dev_q.get()
+            try:
+                return run_one(i, m, dev)
+            finally:
+                dev_q.put(dev)
+
+        indexed = list(enumerate(media_files, 1))
+        with ThreadPoolExecutor(max_workers=total_workers) as pool:
+            for res in pool.map(worker, indexed):
+                per_file_log.append(res)
 
     # ---- Stage C: matter-wide master index + case theory ----
     print("\n== Building matter-wide master index")
