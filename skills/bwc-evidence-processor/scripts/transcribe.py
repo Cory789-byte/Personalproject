@@ -30,19 +30,36 @@ def transcribe(
     model_size: str = "small.en",
     language: str = "en",
     device: str = "auto",
+    initial_prompt: str | None = None,
+    word_corrections: dict[str, str] | None = None,
 ) -> list[Segment]:
     from faster_whisper import WhisperModel
 
     compute_type = "int8" if device in ("cpu", "auto") else "float16"
     model = WhisperModel(model_size, device=device, compute_type=compute_type)
 
-    raw_segments, _info = model.transcribe(
-        str(audio_path),
+    kwargs: dict = dict(
         language=language,
         word_timestamps=True,
         vad_filter=True,
         beam_size=5,
     )
+    if initial_prompt:
+        kwargs["initial_prompt"] = initial_prompt
+
+    raw_segments, _info = model.transcribe(str(audio_path), **kwargs)
+
+    import re as _re
+    def _apply_corr(text: str) -> str:
+        if not word_corrections:
+            return text
+        out = text
+        for wrong, right in word_corrections.items():
+            if not wrong or not right:
+                continue
+            out = _re.sub(rf"\b{_re.escape(wrong)}\b", right, out,
+                          flags=_re.IGNORECASE)
+        return out
 
     segments: list[Segment] = []
     for i, seg in enumerate(raw_segments):
@@ -50,7 +67,7 @@ def transcribe(
             Word(
                 start=float(w.start),
                 end=float(w.end),
-                text=w.word,
+                text=_apply_corr(w.word),
                 probability=float(getattr(w, "probability", 0.0)),
             )
             for w in (seg.words or [])
@@ -60,7 +77,7 @@ def transcribe(
                 index=i,
                 start=float(seg.start),
                 end=float(seg.end),
-                text=seg.text.strip(),
+                text=_apply_corr(seg.text.strip()),
                 words=words,
             )
         )

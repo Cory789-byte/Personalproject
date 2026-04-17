@@ -193,6 +193,7 @@ def main() -> int:
             "--model", args.model,
             "--language", args.language,
             "--device", device,
+            "--matter-root", str(root),
         ]
         if args.matter_config:
             cmd += ["--matter-config", args.matter_config]

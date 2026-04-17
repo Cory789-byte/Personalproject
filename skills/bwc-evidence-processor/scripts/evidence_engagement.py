@@ -88,6 +88,23 @@ RESIDENCY_CUES = [
     "bills in my name", "bill in my name",
 ]
 
+# Phrases that would indicate an officer actually preserved the evidence.
+SEIZURE_CUES = [
+    "i'll take these", "i'll take that", "i'll take this",
+    "i'll bag this", "i'll seize", "we'll seize",
+    "into evidence", "property receipt", "exhibit number",
+    "tag this", "log this", "photograph that",
+    "i'll hold on to this", "let me keep that",
+    "i'm taking this as evidence", "we'll take that with us",
+    "sign for these", "custody of",
+]
+
+DEPARTURE_CUES = [
+    "let's go", "we're leaving", "we're done here",
+    "we'll head off", "on our way", "getting going",
+    "good luck", "take care",
+]
+
 
 @dataclass
 class EngagementFinding:
@@ -251,6 +268,47 @@ def _scan_residency(exhibit: str, segments: list[dict]) -> list[EngagementFindin
     return findings
 
 
+def _scan_preservation_failure(
+    exhibit: str, segments: list[dict],
+) -> list[EngagementFinding]:
+    """Detect offers/handovers where the officer did not state seizure
+    language anywhere in the remaining transcript AND departed the scene."""
+    findings: list[EngagementFinding] = []
+    for i, s in enumerate(segments):
+        text = s.get("text", "") or ""
+        lt = text.lower()
+        # If the speaker of THIS segment is clearly the officer (starts with
+        # "I'll take" / "we'll take" / "I'm taking") and uses seizure
+        # language, treat it as a seizure, not an offer.
+        if any(cue in lt for cue in SEIZURE_CUES):
+            continue
+        offer_hits = _contains(text, OFFER_PHRASES_SUBJECT + OFFER_PHRASES_THIRD_PARTY)
+        if not offer_hits:
+            continue
+        tail = segments[i + 1 :]
+        tail_text_lower = " ".join((w.get("text") or "").lower() for w in tail)
+        has_seizure = any(cue in tail_text_lower for cue in SEIZURE_CUES)
+        has_departure = any(cue in tail_text_lower for cue in DEPARTURE_CUES)
+        if not has_seizure and (has_departure or not tail):
+            findings.append(EngagementFinding(
+                kind="EVIDENCE_LEFT_AT_SCENE",
+                severity="critical",
+                exhibit=exhibit,
+                timestamp=_hms(float(s.get("start", 0))),
+                offered_by="subject_or_third_party",
+                offered_text=text.strip(),
+                officer_response="(no seizure / preservation language detected)",
+                detail=(
+                    f"Evidence offered ({', '.join(offer_hits)}); "
+                    "officer left / ended the interaction without "
+                    "seizing, photographing, or logging the documents. "
+                    "Presumption: documents remained at the scene and "
+                    "were available to third parties after departure."
+                ),
+            ))
+    return findings
+
+
 def analyze(output_dir: Path) -> list[EngagementFinding]:
     transcripts = _load_transcripts(Path(output_dir))
     findings: list[EngagementFinding] = []
@@ -258,6 +316,7 @@ def analyze(output_dir: Path) -> list[EngagementFinding]:
         findings += _scan_offers(stem, segs)
         findings += _scan_physical(stem, segs)
         findings += _scan_residency(stem, segs)
+        findings += _scan_preservation_failure(stem, segs)
     return findings
 
 
@@ -285,8 +344,8 @@ def save(findings: list[EngagementFinding], output_dir: Path) -> tuple[Path, Pat
     by_kind: dict[str, list[EngagementFinding]] = defaultdict(list)
     for fd in findings:
         by_kind[fd.kind].append(fd)
-    kind_order = ["RESIDENCY_EVIDENCE_IGNORED", "OFFERED_AND_IGNORED",
-                  "PHYSICAL_REFERENCE_UNEXAMINED",
+    kind_order = ["EVIDENCE_LEFT_AT_SCENE", "RESIDENCY_EVIDENCE_IGNORED",
+                  "OFFERED_AND_IGNORED", "PHYSICAL_REFERENCE_UNEXAMINED",
                   "OFFERED_ACKNOWLEDGED_ONLY", "OFFERED_AND_DISCUSSED"]
 
     lines: list[str] = [

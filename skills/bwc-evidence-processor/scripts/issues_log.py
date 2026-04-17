@@ -262,6 +262,25 @@ def build(matter_root: Path) -> tuple[Path, Path]:
     sources = _load_source_paths(source_dir)
     issues = _collect(output_dir)
 
+    # Apply suppressions from corrections.json if present
+    try:
+        import sys as _sys
+        _sys.path.insert(0, str(Path(__file__).resolve().parent))
+        from corrections import MatterCorrections  # type: ignore
+        mc = MatterCorrections.load(matter_root)
+        before = len(issues)
+        issues = [
+            i for i in issues
+            if not mc.is_suppressed(
+                i.exhibit, i.kind, i.category, _hms(i.start_seconds)
+            )
+        ]
+        suppressed = before - len(issues)
+        if suppressed:
+            print(f"   {suppressed} issues suppressed by corrections.json")
+    except Exception:
+        pass
+
     # Sort by severity then absolute time
     def sort_key(i: Issue):
         integ = integrity.get(i.exhibit) or {}

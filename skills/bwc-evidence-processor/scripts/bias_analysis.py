@@ -151,16 +151,22 @@ def infer_role(text: str) -> str:
     return "UNKNOWN"
 
 
-def score_segments(segments: list[dict]) -> list[SegmentScore]:
+def score_segments(
+    segments: list[dict],
+    role_overrides: dict[int, str] | None = None,
+) -> list[SegmentScore]:
     out: list[SegmentScore] = []
+    role_overrides = role_overrides or {}
     for seg in segments:
         text = seg["text"]
+        idx = seg.get("index", 0)
+        role = role_overrides.get(idx) or infer_role(text)
         out.append(SegmentScore(
-            index=seg.get("index", 0),
+            index=idx,
             start=float(seg["start"]),
             end=float(seg["end"]),
             text=text,
-            speaker_role=infer_role(text),
+            speaker_role=role,
             is_question=_is_question(text),
             word_count=_word_count(text),
             aggressive_hits=_hit(text, AGGRESSIVE_TOKENS),

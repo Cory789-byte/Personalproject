@@ -53,6 +53,10 @@ def main() -> int:
     parser.add_argument("--skip-transcription", action="store_true")
     parser.add_argument("--transcript", default=None,
                         help="Use an existing transcript JSON and skip stages 1-3")
+    parser.add_argument("--matter-root", default=None,
+                        help="If supplied, load vocabulary + corrections from "
+                             "<matter-root>/config/ and bias Whisper toward "
+                             "matter-specific names / terms")
     args = parser.parse_args()
 
     sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -72,6 +76,25 @@ def main() -> int:
     stem = source.stem
     transcript_path = out_dir / f"{stem}.transcript.json"
     skipped: list[str] = []
+
+    # Corrections + vocabulary from matter config (if any)
+    initial_prompt = None
+    word_corrections: dict[str, str] = {}
+    matter_corrections = None
+    if args.matter_root:
+        try:
+            from corrections import MatterCorrections
+            matter_corrections = MatterCorrections.load(Path(args.matter_root))
+            initial_prompt = matter_corrections.whisper_prompt() or None
+            word_corrections = matter_corrections.vocabulary.get("word_corrections") or {}
+            if initial_prompt:
+                print(f"[*] Whisper prompt primed from vocabulary.json "
+                      f"({len(initial_prompt)} chars)")
+            if word_corrections:
+                print(f"[*] {len(word_corrections)} post-transcription word "
+                      "corrections loaded")
+        except Exception:
+            traceback.print_exc()
 
     if args.transcript:
         transcript_path = Path(args.transcript).resolve()
@@ -96,7 +119,11 @@ def main() -> int:
                 with tempfile.TemporaryDirectory() as tmp:
                     wav = extract_audio(source, Path(tmp) / f"{stem}.wav")
                     print(f"[3] Transcribing ({args.model})")
-                    segs = transcribe(wav, args.model, args.language, args.device)
+                    segs = transcribe(
+                        wav, args.model, args.language, args.device,
+                        initial_prompt=initial_prompt,
+                        word_corrections=word_corrections or None,
+                    )
                     save_transcript_json(segs, transcript_path)
             except Exception as e:
                 skipped.append(f"transcription: {e}")
@@ -132,7 +159,11 @@ def main() -> int:
     save_findings(findings, out_dir / f"{stem}.compliance.csv")
 
     print("[9] Bias analysis")
-    scored = score_segments(data["segments"])
+    role_overrides = {}
+    if matter_corrections is not None:
+        raw = (matter_corrections.corrections.get("role_overrides") or {}).get(stem) or {}
+        role_overrides = {int(k): v for k, v in raw.items()}
+    scored = score_segments(data["segments"], role_overrides=role_overrides)
     save_bias_csv(scored, out_dir / f"{stem}.bias.csv")
     save_bias_summary(scored, out_dir / f"{stem}.bias_summary.json")
 
