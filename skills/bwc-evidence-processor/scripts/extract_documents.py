@@ -56,24 +56,78 @@ def _read_rtf(path: Path) -> tuple[str, list[str]]:
         return "", [f"striprtf unavailable: {e}"]
 
 
+def _ocr_pdf(path: Path, dpi: int = 300) -> tuple[str, int, list[str]]:
+    """OCR fallback for scanned PDFs with no embedded text layer.
+
+    Requires PyMuPDF (fitz), pytesseract, Pillow, and tesseract on PATH.
+    No page cap, no character truncation - returns the full OCR'd text.
+    """
+    warnings: list[str] = []
+    try:
+        import io
+        import fitz  # type: ignore
+        import pytesseract  # type: ignore
+        from PIL import Image  # type: ignore
+    except Exception as e:
+        return "", 0, [f"OCR backend unavailable: {e}"]
+
+    import shutil
+    if shutil.which("tesseract") is None:
+        return "", 0, ["tesseract not on PATH"]
+
+    try:
+        doc = fitz.open(str(path))
+    except Exception as e:
+        return "", 0, [f"fitz failed to open: {e}"]
+
+    parts: list[str] = []
+    num_pages = len(doc)
+    for i, page in enumerate(doc):
+        try:
+            pix = page.get_pixmap(dpi=dpi)
+            img = Image.open(io.BytesIO(pix.tobytes("png")))
+            text = pytesseract.image_to_string(img, config="--psm 6")
+            if text.strip():
+                parts.append(text)
+        except Exception as e:
+            warnings.append(f"OCR failed page {i + 1}: {e}")
+    doc.close()
+    return "\n".join(parts), num_pages, warnings
+
+
 def _read_pdf(path: Path) -> tuple[str, int, list[str]]:
     warnings: list[str] = []
     # Try pdfminer.six first (best layout fidelity)
+    text = ""
+    pages = 0
     try:
         from pdfminer.high_level import extract_text  # type: ignore
         text = extract_text(str(path)) or ""
         pages = text.count("\x0c") + (1 if text else 0)
-        return text, pages, warnings
     except Exception as e:
         warnings.append(f"pdfminer failed: {e}")
-    try:
-        from pypdf import PdfReader  # type: ignore
-        reader = PdfReader(str(path))
-        parts = [p.extract_text() or "" for p in reader.pages]
-        return "\n".join(parts), len(reader.pages), warnings
-    except Exception as e:
-        warnings.append(f"pypdf failed: {e}")
-    return "", 0, warnings + ["no PDF backend available (pip install pdfminer.six or pypdf)"]
+
+    if not text.strip():
+        try:
+            from pypdf import PdfReader  # type: ignore
+            reader = PdfReader(str(path))
+            parts = [p.extract_text() or "" for p in reader.pages]
+            text = "\n".join(parts)
+            pages = len(reader.pages)
+        except Exception as e:
+            warnings.append(f"pypdf failed: {e}")
+
+    # If embedded text layer is empty or trivial, fall back to OCR
+    if len(text.strip()) < 50:
+        warnings.append("no usable text layer - falling back to OCR")
+        ocr_text, ocr_pages, ocr_warns = _ocr_pdf(path)
+        warnings.extend(ocr_warns)
+        if ocr_text.strip():
+            return ocr_text, ocr_pages or pages, warnings
+
+    if not text.strip():
+        warnings.append("no PDF backend produced text")
+    return text, pages, warnings
 
 
 def _read_docx(path: Path) -> tuple[str, list[str]]:
