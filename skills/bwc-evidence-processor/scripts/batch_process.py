@@ -172,7 +172,7 @@ def main() -> int:
 def _read_csv(path: Path) -> list[dict]:
     if not path.is_file():
         return []
-    text = path.read_text().splitlines()
+    text = path.read_text(encoding="utf-8", errors="replace").splitlines()
     if text and text[0].startswith("#"):
         text = text[1:]
     return list(csv.DictReader(text))
@@ -262,7 +262,7 @@ def build_matter_index(
             f"| {entry['file']} | {entry.get('status','')} | "
             f"{entry.get('seconds','')} |"
         )
-    dest.write_text("\n".join(lines) + "\n")
+    dest.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return dest
 
 

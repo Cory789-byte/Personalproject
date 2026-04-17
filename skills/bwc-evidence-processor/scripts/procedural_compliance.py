@@ -333,7 +333,7 @@ if __name__ == "__main__":
     parser.add_argument("--transcript", required=True)
     parser.add_argument("--output", required=True)
     args = parser.parse_args()
-    data = json.loads(Path(args.transcript).read_text())
+    data = json.loads(Path(args.transcript).read_text(encoding="utf-8"))
     findings = check(data["segments"])
     save_findings(findings, Path(args.output))
     print(f"{len(findings)} compliance findings written to {args.output}")

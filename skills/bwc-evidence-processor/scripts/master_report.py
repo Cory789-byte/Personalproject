@@ -16,7 +16,7 @@ HEADER = "MACHINE-GENERATED - UNVERIFIED"
 def _read_csv(path: Path) -> list[dict]:
     if not path.is_file():
         return []
-    text = path.read_text().splitlines()
+    text = path.read_text(encoding="utf-8", errors="replace").splitlines()
     if text and text[0].startswith("#"):
         text = text[1:]
     return list(csv.DictReader(text))
@@ -48,7 +48,7 @@ def render(
     ]
 
     if integrity_path.is_file():
-        integ = json.loads(integrity_path.read_text())
+        integ = json.loads(integrity_path.read_text(encoding="utf-8"))
         fmt = integ.get("format", {})
         lines += [
             f"- SHA-256: `{integ.get('sha256', '')}`",
@@ -92,7 +92,7 @@ def render(
 
     lines += ["## 3. Bias and power dynamics", ""]
     if bias_summary_path.is_file():
-        bs = json.loads(bias_summary_path.read_text())
+        bs = json.loads(bias_summary_path.read_text(encoding="utf-8"))
         summary = bs.get("summary", {})
         interruptions = bs.get("interruptions", [])
         lines.append("| Metric | Value |")
@@ -164,5 +164,5 @@ def render(
         "",
     ]
 
-    dest.write_text("\n".join(lines) + "\n")
+    dest.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return dest

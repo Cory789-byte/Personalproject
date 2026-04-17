@@ -233,7 +233,7 @@ def run_integrity(
 def save_integrity(report: IntegrityReport, dest: Path) -> Path:
     dest = Path(dest)
     dest.parent.mkdir(parents=True, exist_ok=True)
-    dest.write_text(json.dumps(report.to_dict(), indent=2, ensure_ascii=False))
+    dest.write_text(json.dumps(report.to_dict(), indent=2, ensure_ascii=False), encoding="utf-8")
     return dest
 
 

@@ -52,7 +52,7 @@ class KeywordBank:
     def load(cls, path: Path | None) -> "KeywordBank":
         if path is None:
             return cls()
-        data = json.loads(Path(path).read_text())
+        data = json.loads(Path(path).read_text(encoding="utf-8"))
         return cls(
             categories=data.get("categories", {}),
             matter_refs=data.get("matter_refs", []),
@@ -89,7 +89,7 @@ def build_evidence_matrix(
     bank: KeywordBank,
     dest: Path,
 ) -> Path:
-    data = json.loads(Path(transcript_json).read_text())
+    data = json.loads(Path(transcript_json).read_text(encoding="utf-8"))
     segments = data["segments"]
 
     dest = Path(dest)
@@ -170,10 +170,10 @@ def build_contradictions(
 
         sworn_sentences = [
             s.strip() for s in re.split(
-                r"(?<=[.!?])\s+", Path(sworn_corpus).read_text()
+                r"(?<=[.!?])\s+", Path(sworn_corpus).read_text(encoding="utf-8", errors="replace")
             ) if s.strip()
         ]
-        data = json.loads(Path(transcript_json).read_text())
+        data = json.loads(Path(transcript_json).read_text(encoding="utf-8"))
         segments = data["segments"]
 
         row_no = 0
@@ -209,7 +209,7 @@ def build_viewing_log(
 ) -> Path:
     dest = Path(dest)
     dest.parent.mkdir(parents=True, exist_ok=True)
-    data = json.loads(Path(transcript_json).read_text())
+    data = json.loads(Path(transcript_json).read_text(encoding="utf-8"))
     segments = data["segments"]
 
     lines = [
@@ -223,7 +223,7 @@ def build_viewing_log(
     for i, seg in enumerate(segments, start=1):
         safe = seg["text"].replace("|", "\\|")
         lines.append(f"| {i} | {_hms(seg['start'])} | {safe} |  |  |")
-    dest.write_text("\n".join(lines) + "\n")
+    dest.write_text("\n".join(lines) + "\n", encoding="utf-8")
     return dest
 
 

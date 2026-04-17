@@ -264,7 +264,7 @@ def save_bias_summary(scores: list[SegmentScore], dest: Path) -> Path:
         "summary": summarise(scores),
         "interruptions": detect_interruptions(scores),
     }
-    dest.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    dest.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     return dest
 
 
@@ -275,7 +275,7 @@ if __name__ == "__main__":
     p.add_argument("--csv")
     p.add_argument("--summary")
     args = p.parse_args()
-    data = json.loads(Path(args.transcript).read_text())
+    data = json.loads(Path(args.transcript).read_text(encoding="utf-8"))
     scored = score_segments(data["segments"])
     if args.csv:
         save_bias_csv(scored, Path(args.csv))

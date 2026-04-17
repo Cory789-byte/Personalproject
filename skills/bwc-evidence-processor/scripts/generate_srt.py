@@ -9,7 +9,7 @@ HEADER = "MACHINE-GENERATED - UNVERIFIED"
 
 
 def _load_segments(transcript_json: Path) -> list[dict]:
-    data = json.loads(Path(transcript_json).read_text())
+    data = json.loads(Path(transcript_json).read_text(encoding="utf-8"))
     return data["segments"]
 
 
@@ -42,7 +42,7 @@ def write_srt(transcript_json: Path, dest: Path) -> Path:
             f"{i}\n{_srt_ts(seg['start'])} --> {_srt_ts(seg['end'])}\n"
             f"{seg['text']}\n"
         )
-    dest.write_text("\n".join(blocks))
+    dest.write_text("\n".join(blocks), encoding="utf-8")
     return dest
 
 
@@ -56,7 +56,7 @@ def write_vtt(transcript_json: Path, dest: Path) -> Path:
         lines.append(f"{_vtt_ts(seg['start'])} --> {_vtt_ts(seg['end'])}")
         lines.append(seg["text"])
         lines.append("")
-    dest.write_text("\n".join(lines))
+    dest.write_text("\n".join(lines), encoding="utf-8")
     return dest
 
 

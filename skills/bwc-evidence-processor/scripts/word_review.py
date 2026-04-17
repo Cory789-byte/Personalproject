@@ -48,7 +48,7 @@ def _match_categories(segment_text: str) -> list[str]:
 
 
 def build(transcript: Path, dest: Path, low_conf_threshold: float = 0.5) -> Path:
-    data = json.loads(Path(transcript).read_text())
+    data = json.loads(Path(transcript).read_text(encoding="utf-8"))
     segments = data["segments"]
 
     dest = Path(dest)

@@ -122,7 +122,7 @@ def main() -> int:
 
     print("[8] Procedural compliance")
     import json
-    data = json.loads(transcript_path.read_text())
+    data = json.loads(transcript_path.read_text(encoding="utf-8"))
     findings = compliance_check(data["segments"])
     save_findings(findings, out_dir / f"{stem}.compliance.csv")
 

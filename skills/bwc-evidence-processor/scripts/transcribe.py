@@ -74,7 +74,7 @@ def save_transcript_json(segments: Iterable[Segment], dest: Path) -> Path:
         "header": "MACHINE-GENERATED - UNVERIFIED",
         "segments": [asdict(s) for s in segments],
     }
-    dest.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    dest.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     return dest
 
 

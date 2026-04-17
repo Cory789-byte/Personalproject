@@ -138,7 +138,7 @@ def save_record(record: DocRecord, dest_dir: Path) -> Path:
     dest_dir.mkdir(parents=True, exist_ok=True)
     out = dest_dir / f"{record.stem}.doc.json"
     payload: dict[str, Any] = {"header": HEADER, **asdict(record)}
-    out.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
+    out.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     return out
 
 
