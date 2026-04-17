@@ -265,6 +265,30 @@ def main() -> int:
     except Exception:
         traceback.print_exc()
 
+    print("== Building QPS competency findings")
+    try:
+        from qps_competency import analyze as analyze_comp, save as save_comp
+        comp_findings = analyze_comp(out_dir)
+        save_comp(comp_findings, out_dir)
+        print(f"   {len(comp_findings)} competency findings")
+    except Exception:
+        traceback.print_exc()
+
+    print("== Running validation / sanity pass")
+    try:
+        from validation import validate_matter, save as save_validation
+        report = validate_matter(root)
+        save_validation(report, out_dir)
+        counts = report["status_counts"]
+        print(f"   Overall: {report['overall']}  "
+              f"(PASS={counts.get('PASS', 0)} "
+              f"WARN={counts.get('WARN', 0)} "
+              f"FAIL={counts.get('FAIL', 0)})")
+        if report["uncovered"]:
+            print(f"   {len(report['uncovered'])} source media still uncovered")
+    except Exception:
+        traceback.print_exc()
+
     print(f"\n== Batch complete in {round(time.time() - t0, 1)}s")
     return 0
 

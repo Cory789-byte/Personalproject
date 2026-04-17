@@ -314,6 +314,40 @@ def render(matter_root: Path) -> Path:
         lines.append("_No deep contradictions register yet - run `batch_process.py` "
                      "or `python scripts/deep_contradictions.py --output-dir <output>`._")
 
+    lines += ["", "## 6c. QPS competency & decision-making findings", ""]
+    comp_md = output_dir / "COMPETENCY_FINDINGS.md"
+    comp_csv = output_dir / "COMPETENCY_FINDINGS.csv"
+    if comp_csv.is_file():
+        comp_rows = _read_csv(comp_csv)
+        by_kind: Counter[str] = Counter(r.get("kind", "") for r in comp_rows)
+        lines.append(f"Total competency findings: **{len(comp_rows)}**")
+        for k in ("BWC_COMPLIANCE_GAP", "RUSH_TO_JUDGMENT", "ESCALATION_FAILURE",
+                  "IDENTITY_MIX_UP", "MENTAL_HEALTH_UNCONSIDERED",
+                  "CHARGE_CONFUSION", "DV_HANDLING_FAILURE",
+                  "CONTRADICTORY_OFFICERS", "IGNORED_EXCULPATION",
+                  "SUPERVISOR_ABSENT", "UNCERTAINTY"):
+            n = by_kind.get(k, 0)
+            if n:
+                lines.append(f"- {k}: {n}")
+        lines.append("")
+        lines.append(f"Full register: [`COMPETENCY_FINDINGS.md`]({comp_md.name})")
+        lines.append("")
+        sev_order = {"critical": 0, "high": 1, "medium": 2, "low": 3}
+        top = sorted(comp_rows, key=lambda r: sev_order.get(r.get("severity", "low"), 9))[:15]
+        if top:
+            lines.append("### Top competency findings")
+            lines.append("")
+            lines.append("| Severity | Kind | Exhibit | Time | Detail |")
+            lines.append("|----------|------|---------|------|--------|")
+            for r in top:
+                detail = (r.get("detail") or "").replace("|", "\\|")
+                lines.append(
+                    f"| {r.get('severity','')} | {r.get('kind','')} | "
+                    f"{r.get('exhibit','')} | {r.get('timestamp','')} | {detail} |"
+                )
+    else:
+        lines.append("_No competency findings register yet - run batch_process.py._")
+
     lines += ["", "## 7. Suggested cross-examination lines", ""]
     suggestions = _cross_ex_suggestions(findings)
     if not suggestions:
