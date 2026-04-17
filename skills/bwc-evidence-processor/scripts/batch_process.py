@@ -289,6 +289,13 @@ def main() -> int:
     except Exception:
         traceback.print_exc()
 
+    print("== Building forensic narrative log")
+    try:
+        from narrative_log import build as build_narrative
+        build_narrative(root)
+    except Exception:
+        traceback.print_exc()
+
     print(f"\n== Batch complete in {round(time.time() - t0, 1)}s")
     return 0
 
