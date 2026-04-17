@@ -100,6 +100,9 @@ def main() -> int:
     ap.add_argument("--cpu-workers", type=int, default=1,
                     help="Number of parallel workers using --device cpu "
                          "(1-2 is usually optimal; Whisper is already multi-threaded)")
+    ap.add_argument("--screenshots", action="store_true",
+                    help="Auto-extract frames at every detected scene cut "
+                         "into output/frames/ for visual review")
     args = ap.parse_args()
 
     sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -295,6 +298,40 @@ def main() -> int:
         build_narrative(root)
     except Exception:
         traceback.print_exc()
+
+    print("== Building master issues log (with seek commands)")
+    try:
+        from issues_log import build as build_issues_log
+        build_issues_log(root)
+    except Exception:
+        traceback.print_exc()
+
+    if args.screenshots:
+        print("== Extracting frames at every scene cut")
+        try:
+            from frame_extract import extract_frame
+            import json as _json
+            frames_dir = out_dir / "frames"
+            frames_dir.mkdir(parents=True, exist_ok=True)
+            for integ_path in out_dir.glob("*.integrity.json"):
+                stem = integ_path.stem.removesuffix(".integrity")
+                integ = _json.loads(integ_path.read_text(encoding="utf-8", errors="replace"))
+                src_path = integ.get("source") or ""
+                if not src_path or not Path(src_path).is_file():
+                    continue
+                for t in integ.get("scene_cuts") or []:
+                    t = float(t)
+                    for offset, tag in ((-0.5, "before"), (0.5, "after")):
+                        ts = max(0.0, t + offset)
+                        out_png = frames_dir / f"{stem}_cut_{int(t)}_{tag}.png"
+                        if out_png.is_file():
+                            continue
+                        try:
+                            extract_frame(Path(src_path), ts, out_png)
+                        except Exception as e:
+                            print(f"   frame extract failed @{ts:.2f}s: {e}")
+        except Exception:
+            traceback.print_exc()
 
     print(f"\n== Batch complete in {round(time.time() - t0, 1)}s")
     return 0
