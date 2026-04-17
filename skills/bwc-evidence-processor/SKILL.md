@@ -1,14 +1,20 @@
 ---
 name: bwc-evidence-processor
 description: >
-  Body-worn camera and audio/video evidence processor for defence teams.
-  Extracts audio from MP4/MOV/MKV/WAV, transcribes with Whisper producing
-  word-level timestamps, emits SRT/VTT subtitles, and builds a timestamped
-  evidence matrix that cross-references transcript segments against
-  configurable keyword banks (OPM clauses, Form 24 admissions, sworn-statement
-  contradictions, QPP/Form 29 breach markers, PID/CO/WC matter identifiers).
-  All generated output is labelled machine-generated, unverified and includes
-  a mandatory human-verification column.
+  Deep forensic processor for body-worn camera and audio/video evidence,
+  built for defence teams. Produces a full analytical stack per file:
+  integrity and tamper flags, word-level transcripts, subtitles, evidence
+  matrix against configurable keyword banks, contradictions register against
+  sworn statement corpus, procedural compliance findings (cautions, rights,
+  arrest grounds, search authority, post-invocation questioning, inducements,
+  leading questions), bias and power-dynamics analysis (role inference,
+  talk-time, interruption detection, aggressive/dehumanising/presumptive/
+  confirmation-bias lexicon density, one-sided framing), and a master
+  markdown report consolidating everything.
+
+  Every artefact is labelled MACHINE-GENERATED - UNVERIFIED. The skill
+  SURFACES concerns for counsel to verify; it does not make legal
+  determinations.
 triggers:
   - body-worn camera
   - BWC footage
@@ -19,100 +25,129 @@ triggers:
   - evidence matrix
   - forensic viewing log
   - transcript cross-reference
+  - procedural compliance
+  - abuse of process
+  - police misconduct review
+  - interrogation analysis
+  - caution compliance
+  - right to silence
+  - use of force review
 inputs:
-  - path: local path to an MP4/MOV/MKV/WAV/MP3/M4A file
-  - matter_config: optional path to a JSON file with matter-specific keywords
-  - output_dir: directory to write transcript, SRT, and evidence matrix
+  - input: local path to MP4 / MOV / MKV / WAV / MP3 / M4A / WebM
+  - matter_config: optional JSON with matter-specific keywords and annexure map
+  - sworn_corpus: optional plain-text sworn statement corpus for contradictions
+  - ocr: optional flag to OCR burnt-in timestamps on keyframes
 outputs:
-  - <basename>.srt - machine-generated subtitle track
-  - <basename>.vtt - WebVTT subtitle track
-  - <basename>.transcript.json - word-level timestamps
-  - <basename>.evidence_matrix.csv - Scott-schedule-compatible matrix
-  - <basename>.viewing_log.md - forensic viewing log
-  - <basename>.contradictions.csv - conflicts with sworn-statement corpus
+  - <stem>.integrity.json    file hash, ffprobe metadata, scene cuts, anomalies
+  - <stem>.transcript.json   word-level Whisper transcript
+  - <stem>.srt / .vtt        machine-generated subtitle tracks
+  - <stem>.evidence_matrix.csv
+  - <stem>.viewing_log.md
+  - <stem>.contradictions.csv
+  - <stem>.compliance.csv    cautions, rights, arrest grounds, inducements
+  - <stem>.bias.csv          per-segment bias/role/question metrics
+  - <stem>.bias_summary.json aggregate bias + interruption list
+  - <stem>.word_review.csv   one row per word with confidence + flags
+  - <stem>.master_report.md  consolidated human-readable report
 ---
 
 # BWC Evidence Processor
 
 ## Purpose
 
-This skill assists defence teams preparing audio/video evidence for review.
-It is NOT a certified transcription service. Every output file is stamped
-`MACHINE-GENERATED - UNVERIFIED` and every row in the evidence matrix carries
-an empty `human_verified` column that must be signed off by counsel or an
-instructing solicitor before tender.
+Defence-side analytical pipeline for police body-worn-camera footage and
+related audio/video exhibits. It produces the artefacts a solicitor or
+barrister needs to run a granular cross-examination: a certified-adjacent
+transcript, a scene-cut / integrity report, per-utterance procedural-
+compliance flags, a role-attributed bias analysis, and a word-by-word
+review sheet with confidence scores.
+
+This is NOT a court-certified transcript. Every artefact carries a
+`MACHINE-GENERATED - UNVERIFIED` banner and a mandatory `human_verified`
+column. Counsel must verify every flag against the underlying footage.
 
 ## When to use
 
-Use this skill when:
+- Review of BWC / in-car / station-camera / covert audio
+- Drafting cross-examination on caution timing, arrest grounds, search
+  authority, detention limits
+- Identifying inducements (promises / threats), leading questions,
+  questioning after invocation of rights
+- Producing a Scott-schedule-compatible evidence matrix for a brief
+- Detecting integrity anomalies in disclosed footage (container edits,
+  re-encoding, unusual scene cuts, black/freeze intervals)
 
-- A user references body-worn camera footage, MP4/MOV evidence, or similar
-- A user asks for subtitles, an SRT, or a transcript of an audio/video file
-- A user asks for an evidence matrix, forensic viewing log, or contradiction
-  register
-- A user references sworn-statement cross-referencing against video/audio
+## When NOT to use
 
-Do NOT use this skill:
-
-- For producing court-tendered certified transcripts (direct the user to a
-  NAATI-accredited transcriber)
-- When the source file cannot be verified as lawfully disclosed evidence
+- Producing a court-tendered transcript (use a NAATI-accredited transcriber)
+- Any matter where the source file is not a lawfully disclosed exhibit
+- As the sole basis for any allegation of misconduct or abuse of process
 
 ## How to run
 
-The primary entry point is `scripts/process_video.py`:
-
 ```bash
 python scripts/process_video.py \
-    --input /path/to/evidence.mp4 \
-    --output-dir /path/to/output \
+    --input /path/to/bwc.mp4 \
+    --output-dir /path/to/out \
     --matter-config keywords/matter_generic.json \
+    --sworn-corpus /path/to/sworn.txt \
     --model small.en \
-    --sworn-corpus /path/to/statements.txt
+    --ocr
 ```
 
-Arguments:
+Options:
 
-- `--input` (required): absolute path to the source media file
-- `--output-dir` (required): directory for generated artefacts
-- `--matter-config` (optional): matter-specific keyword bank JSON
-- `--model` (optional): Whisper model size (`tiny.en`, `base.en`, `small.en`,
-  `medium.en`, default `small.en`)
-- `--sworn-corpus` (optional): plain-text file of sworn statements for
-  contradiction analysis
+- `--input` (required): local media path
+- `--output-dir` (required): artefact destination
+- `--matter-config` (optional): per-matter keyword bank JSON
+- `--sworn-corpus` (optional): plain-text sworn statements for contradictions
+- `--model` (optional): Whisper size — `tiny.en`, `base.en`, `small.en`,
+  `medium.en`, `large-v3` (default `small.en`)
 - `--language` (optional): ISO language code, default `en`
+- `--device` (optional): `cpu`, `cuda`, `auto` (default `auto`)
+- `--ocr`: enable OCR of burnt-in timestamps on keyframes (needs tesseract)
+- `--skip-integrity`, `--skip-transcription`: skip stages
+- `--transcript`: reuse an existing transcript JSON
 
 ## Dependencies
 
 System:
 
-- `ffmpeg` (for audio extraction)
+- `ffmpeg`, `ffprobe` (required)
+- `tesseract` (optional — only for OCR)
 
-Python (see `requirements.txt`):
+Python:
 
 - `faster-whisper>=1.0.0`
-- `srt>=3.5.0`
-- `webvtt-py>=0.5.0`
 - `rapidfuzz>=3.9.0`
+- `pytesseract` and `Pillow` (optional, for `--ocr`)
 
-Install:
+## Analytical modules
 
-```bash
-pip install -r requirements.txt
-# Debian/Ubuntu:
-sudo apt-get install -y ffmpeg
-```
+| Module | Produces |
+|--------|----------|
+| `frame_analysis.py` | hash, ffprobe metadata, scene cuts, black/freeze intervals, anomaly flags, optional keyframe OCR |
+| `extract_audio.py` | 16 kHz mono WAV via ffmpeg |
+| `transcribe.py` | word-level Whisper transcript JSON |
+| `generate_srt.py` | SRT + WebVTT subtitle files |
+| `evidence_map.py` | evidence matrix, contradictions register, viewing log |
+| `procedural_compliance.py` | missing/late caution, right-to-counsel, post-invocation questioning, arrest without grounds, search without warrant/consent, inducements, leading questions |
+| `bias_analysis.py` | role inference, talk-time, Q/A ratio, aggressive/dehumanising/presumptive/confirmation-bias/one-sided lexicon hits, interruption detection |
+| `word_review.py` | one-row-per-word CSV with confidence, gap, flagged categories |
+| `master_report.py` | consolidated markdown master report |
 
-## Evidentiary caution
+## Forensic hygiene
 
-Whisper timestamp accuracy is typically within 200ms but can drift on long
-silences or overlapping speech. Counsel must verify any passage intended for
-cross-examination against the original media. The skill's output format makes
-this explicit; do not strip the `MACHINE-GENERATED - UNVERIFIED` banner.
+- All outputs: `MACHINE-GENERATED - UNVERIFIED`
+- Every CSV: `human_verified` column (empty by default)
+- Speaker role inference is heuristic — verify against footage
+- Whisper timestamps drift on overlapping speech and long silences — verify
+  any passage intended for cross-examination
+- `integrity.json` SHA-256 must be compared against the hash on the
+  disclosure receipt to confirm chain of custody
 
-## Keyword banks
+## Matter configuration
 
-See `keywords/` for the configurable phrase banks. `matter_generic.json` is
-the starter template; create per-matter copies (e.g. `matter_CO-25-2722.json`)
-and pass via `--matter-config`. Never commit matter-specific files containing
-client data to a shared repository.
+Never commit a matter file containing client identifiers to a shared repo.
+`.gitignore` blocks `matter_*.json` except `matter_generic.json` and
+`matter_template.json`. Create per-matter files locally.
