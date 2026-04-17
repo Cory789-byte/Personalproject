@@ -256,6 +256,15 @@ def main() -> int:
     except Exception:
         traceback.print_exc()
 
+    print("== Building deep contradictions register")
+    try:
+        from deep_contradictions import analyze as analyze_deep, save as save_deep
+        findings = analyze_deep(out_dir)
+        save_deep(findings, out_dir)
+        print(f"   {len(findings)} deep findings")
+    except Exception:
+        traceback.print_exc()
+
     print(f"\n== Batch complete in {round(time.time() - t0, 1)}s")
     return 0
 

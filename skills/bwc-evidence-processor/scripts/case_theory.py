@@ -283,6 +283,37 @@ def render(matter_root: Path) -> Path:
                 f"{c.get('similarity','')} | {t} | {s} |"
             )
 
+    lines += ["", "## 6b. Deep contradictions register", ""]
+    deep_md = output_dir / "DEEP_CONTRADICTIONS.md"
+    deep_csv = output_dir / "DEEP_CONTRADICTIONS.csv"
+    if deep_csv.is_file():
+        deep_rows = _read_csv(deep_csv)
+        by_kind: Counter[str] = Counter(r.get("kind", "") for r in deep_rows)
+        lines.append(f"Total deep findings: **{len(deep_rows)}**")
+        for k in ("DATE_MISMATCH", "IDENTITY_VARIANT",
+                  "PROCEDURAL_CLAIM_UNSUPPORTED", "SEQUENCE_MISMATCH"):
+            lines.append(f"- {k}: {by_kind.get(k, 0)}")
+        lines.append("")
+        lines.append(f"Full register: [`DEEP_CONTRADICTIONS.md`]({deep_md.name})")
+        lines.append("")
+        # Show top 20 highest-severity rows inline
+        sev_order = {"critical": 0, "high": 1, "medium": 2, "low": 3}
+        top = sorted(deep_rows, key=lambda r: sev_order.get(r.get("severity", "low"), 9))[:20]
+        if top:
+            lines.append("### Top deep findings")
+            lines.append("")
+            lines.append("| Severity | Kind | Source | Detail |")
+            lines.append("|----------|------|--------|--------|")
+            for r in top:
+                detail = (r.get("detail") or "").replace("|", "\\|")
+                lines.append(
+                    f"| {r.get('severity','')} | {r.get('kind','')} | "
+                    f"{r.get('source','')} | {detail} |"
+                )
+    else:
+        lines.append("_No deep contradictions register yet - run `batch_process.py` "
+                     "or `python scripts/deep_contradictions.py --output-dir <output>`._")
+
     lines += ["", "## 7. Suggested cross-examination lines", ""]
     suggestions = _cross_ex_suggestions(findings)
     if not suggestions:
