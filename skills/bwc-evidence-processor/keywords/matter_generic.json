@@ -1,0 +1,58 @@
+{
+  "fuzzy_threshold": 85,
+  "matter_refs": [],
+  "annexure_map": {
+    "opm_clause": "Annexure A",
+    "form24_admission": "Annexure B",
+    "arrest_statement_contradiction": "Annexure C",
+    "form29_breach": "Annexure D",
+    "qpp_breach": "Annexure E"
+  },
+  "categories": {
+    "opm_clause": [
+      "operational procedures manual",
+      "OPM",
+      "use of force",
+      "reasonable suspicion",
+      "lawful direction",
+      "caution",
+      "right to silence"
+    ],
+    "form24_admission": [
+      "Form 24",
+      "admit",
+      "I acknowledge",
+      "I accept",
+      "I did",
+      "that is correct"
+    ],
+    "arrest_statement_contradiction": [
+      "you are under arrest",
+      "for the purpose of",
+      "grounds are",
+      "reasonable grounds",
+      "reason for arrest"
+    ],
+    "form29_breach": [
+      "Form 29",
+      "bail",
+      "breach of",
+      "undertaking",
+      "condition"
+    ],
+    "qpp_breach": [
+      "Queensland Police Powers",
+      "QPP",
+      "section 365",
+      "section 391",
+      "section 635",
+      "search warrant"
+    ],
+    "miranda_equivalent": [
+      "you do not have to say anything",
+      "anything you do say",
+      "may be used in evidence",
+      "right to a lawyer"
+    ]
+  }
+}

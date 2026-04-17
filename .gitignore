@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Matter-specific keyword banks may contain client data
+skills/*/keywords/matter_[A-Z0-9]*.json
+!skills/*/keywords/matter_generic.json
+!skills/*/keywords/matter_template.json
+
+# Generated evidence artefacts
+*.srt
+*.vtt
+*.transcript.json
+*.evidence_matrix.csv
+*.viewing_log.md
+*.contradictions.csv

@@ -1,0 +1,28 @@
+{
+  "_comment": "Copy this file to matter_<ID>.json and fill in matter-specific identifiers. Do NOT commit matter files containing client data to shared repos.",
+  "fuzzy_threshold": 85,
+  "matter_refs": [
+    "PID XX-XXX-XXXX",
+    "CO-XX-XXXX",
+    "WC/XXXX/XXX",
+    "Exhibit AX"
+  ],
+  "annexure_map": {
+    "opm_clause": "Annexure A",
+    "form24_admission": "Annexure B",
+    "arrest_statement_contradiction": "Annexure C",
+    "form29_breach": "Annexure D",
+    "qpp_breach": "Annexure E",
+    "named_persons": "Annexure F"
+  },
+  "categories": {
+    "named_persons": [
+      "SURNAME, Firstname"
+    ],
+    "opm_clause": [],
+    "form24_admission": [],
+    "arrest_statement_contradiction": [],
+    "form29_breach": [],
+    "qpp_breach": []
+  }
+}
