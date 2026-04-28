@@ -209,7 +209,121 @@ narrative synthesis.
 
 ---
 
-## 8. What this pipeline is **not**
+## 8. Screenshot workflow (strict QLD interpretation)
+
+For folders that are predominantly screenshots — e.g. `OneDrive\002 SIBLEY`
+— the pipeline has a dedicated path that uses an image-specific framework
+(`prompts/screenshot_strict_interpretation.md`) and a categorising index
+generator. Use this when the question is *"what does each screenshot mean
+under QLD law and how do they group?"* rather than *"build a full case
+theory across mixed evidence."*
+
+### 8.1 Ingest from a local folder
+
+```powershell
+python skills/bwc-evidence-processor/scripts/local_ingest.py `
+    --source       "C:\Users\User\OneDrive\002 SIBLEY" `
+    --dest         C:\Evidence\CO-25-2722\screenshots\incoming `
+    --images-only
+```
+
+`local_ingest.py` walks the folder, hashes every file, and writes a
+`manifest.json` in the same shape as `gdrive_ingest.py`. Files are
+referenced in place — nothing is copied or moved (preserves chain of
+custody). `--images-only` filters to JPG/PNG/WEBP/GIF/TIFF/HEIC/BMP.
+
+### 8.2 Per-screenshot strict-interpretation analysis
+
+```powershell
+python skills/bwc-evidence-processor/scripts/screenshot_analysis.py `
+    --manifest    C:\Evidence\CO-25-2722\screenshots\incoming\manifest.json `
+    --framework   skills\bwc-evidence-processor\prompts\screenshot_strict_interpretation.md `
+    --output      C:\Evidence\CO-25-2722\output\screenshot_analysis `
+    --resume
+```
+
+For each image, Claude Opus 4.7 (adaptive thinking, effort=high,
+framework cached) returns:
+
+- **Primary category** (one of 21 — `comm.whatsapp`, `comm.sms`,
+  `comm.email`, `comm.dm`, `social.public`, `doc.court`, `doc.legal`,
+  `doc.medical`, `scene.injury`, `scene.location`, `web.news`,
+  `app.location`, `app.payment`, `meta.system`, etc.)
+- **Secondary tags** (`threat`, `coercion`, `economic_abuse`,
+  `monitoring`, `harassment`, `admission`, `contradiction`,
+  `redaction_required`, `chain_of_custody_concern`, …)
+- **Source platform**, UI version hints, device hints
+- **Participants** with redaction flags for third parties
+- **Every visible timestamp** classified as platform-UI vs
+  device-clock vs handwritten
+- **Verbatim transcript** of all readable content (speaker-attributed
+  where possible)
+- **Statutory engagement** — every QLD provision the content engages,
+  with the operative wording, the element engaged, the interpretive
+  step applied (literal / golden / mischief / purposive AIA s 14A /
+  strict construction of penal / etc.) and the reasoning, plus the
+  alternative construction where one exists
+- **Authentication concerns** under common-law authentication and
+  *Evidence Act 1977* (Qld) ss 95 and 97
+- **Privilege / publication concerns** (*Family Law Act* s 121,
+  suppression orders, third-party PII)
+- **Priority** (H / M / L)
+
+Statutory framework covers *Acts Interpretation Act 1954* (Qld) ss 14,
+14A, 14B, 32A, 32C, 35, 36; *Evidence Act 1977* (Qld) ss 95, 97, 130,
+132A; *Domestic and Family Violence Protection Act 2012* (Qld) ss 8,
+11, 12, 37, 100; *Criminal Code* (Qld) ss 359B, 408E; *Criminal Code*
+(Cth) s 474.17 / 474.17A; *Family Law Act 1975* (Cth) ss 4AB, 60CC,
+121; *Telecommunications (Interception and Access) Act 1979* (Cth);
+and the relevant common-law principles (*Beckwith*; *Coco*; *Heydon's
+Case*; ejusdem generis; expressio unius).
+
+### 8.3 Categorised index
+
+```powershell
+python skills/bwc-evidence-processor/scripts/screenshot_index.py `
+    --analyses C:\Evidence\CO-25-2722\output\screenshot_analysis `
+    --output   C:\Evidence\CO-25-2722\output\SCREENSHOT_INDEX.md
+```
+
+Pure aggregation — no Claude call, cheap to re-run. Produces:
+
+1. Summary (count, parse errors, authentication concerns, redaction
+   load)
+2. Category counts (most-populated category first)
+3. Most-engaged statutes (ranked)
+4. Participants by frequency
+5. Secondary tag distribution
+6. **Per category** — a table of every screenshot with date,
+   participants, priority, tags, engaged statutes, and authentication
+   concerns; followed by a per-screenshot detail block with the full
+   transcript and statutory reasoning. Counsel can read one category
+   at a time.
+
+### 8.4 What "strict interpretation" means here
+
+The framework forces the model to:
+
+- Apply **AIA s 14A purposive construction** as the primary rule.
+- Use **s 14B** to reach extrinsic material only where the provision
+  is ambiguous, obscure, or absurd.
+- Apply the **common-law literal rule first**, the **golden rule** to
+  cure absurdity, the **mischief rule** to identify the defect.
+- **Strictly construe penal statutes** in favour of the accused
+  (*Beckwith v The Queen* (1976) 135 CLR 569).
+- Apply the **presumption against altering common-law rights**
+  (*Coco v The Queen* (1994) 179 CLR 427).
+- For each finding, **name the interpretive step it relied on** and
+  state the **alternative construction** where one exists. Counsel can
+  then test both.
+
+This is interpretive scaffolding. **A QLD legal practitioner must
+verify every citation, every interpretive call, and every redaction
+flag before any output leaves the file.**
+
+---
+
+## 9. What this pipeline is **not**
 
 - **Not a substitute for counsel.** It surfaces material; a QLD criminal
   barrister must decide what to run.
