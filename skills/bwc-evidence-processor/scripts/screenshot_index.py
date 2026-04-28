@@ -196,6 +196,73 @@ def render(records: list[dict[str, Any]]) -> str:
         lines.append(f"| `{t}` | {n} |")
     lines.append("")
 
+    lines.append("## Quotes register — every operative utterance, ranked")
+    lines.append("")
+    lines.append(
+        "*Each row is one statutory engagement tied to a verbatim quote. "
+        "Sorted by priority of the source screenshot, then confidence of the "
+        "engagement, then citation. This is the table to read first.*"
+    )
+    lines.append("")
+    lines.append("| Priority | Citation | Speaker → Addressee | Quoted utterance | Element | Test | Pattern | Confidence | Source |")
+    lines.append("|----------|----------|----------------------|------------------|---------|------|---------|------------|--------|")
+    quote_rows: list[tuple[int, int, str, str, str, str, str, str, str, str, str]] = []
+    for r in records:
+        analysis = r.get("analysis") or {}
+        prio = analysis.get("priority", "L")
+        prio_w = PRIORITY_RANK.get(prio, 1)
+        for s in analysis.get("statutory_engagement") or []:
+            conf = s.get("confidence", "low")
+            conf_w = CONFIDENCE_RANK.get(conf, 1)
+            speaker = s.get("speaker", "") or "—"
+            addressee = s.get("addressee", "") or "—"
+            quote_rows.append(
+                (
+                    -prio_w,
+                    -conf_w,
+                    s.get("citation", ""),
+                    prio,
+                    s.get("citation", ""),
+                    f"{speaker} → {addressee}",
+                    s.get("quoted_utterance", ""),
+                    s.get("element_engaged", ""),
+                    s.get("test_applied", ""),
+                    s.get("pattern_or_single", ""),
+                    conf,
+                )
+            )
+    quote_rows.sort(key=lambda t: (t[0], t[1], t[2]))
+    for row in quote_rows:
+        _, _, _, prio, cit, sa, quote, el, test, pat, conf = row
+        src_path = ""
+        for r in records:
+            for s in (r.get("analysis") or {}).get("statutory_engagement") or []:
+                if (
+                    s.get("citation") == cit
+                    and (s.get("quoted_utterance") or "") == quote
+                ):
+                    src_path = r.get("drive_path") or r.get("name") or ""
+                    break
+            if src_path:
+                break
+        quote_disp = quote if len(quote) <= 200 else quote[:197] + "…"
+        lines.append(
+            "| {prio} | {cit} | {sa} | “{quote}” | {el} | {test} | {pat} | {conf} | {src} |".format(
+                prio=prio,
+                cit=_md_escape(cit),
+                sa=_md_escape(sa),
+                quote=_md_escape(quote_disp),
+                el=_md_escape(el),
+                test=_md_escape(test),
+                pat=pat,
+                conf=conf,
+                src=_md_escape(src_path),
+            )
+        )
+    if not quote_rows:
+        lines.append("| — | — | — | *no statutory engagements recorded* | — | — | — | — | — |")
+    lines.append("")
+
     lines.append("---")
     lines.append("")
     lines.append("## By category")
@@ -267,18 +334,46 @@ def render(records: list[dict[str, Any]]) -> str:
                                  f"{f' [{_md_escape(ts)}]' if ts else ''}: {_md_escape(txt)}")
             stats = analysis.get("statutory_engagement") or []
             if stats:
-                lines.append("- **Statutory engagement:**")
+                lines.append("- **Statutory engagement (quote → element):**")
                 for s in stats:
+                    quote = (s.get("quoted_utterance") or "").strip()
+                    speaker = s.get("speaker", "") or "—"
+                    addressee = s.get("addressee", "") or ""
+                    addr = f" → **{_md_escape(addressee)}**" if addressee else ""
                     lines.append(
                         f"  - **{_md_escape(s.get('citation', ''))}** "
                         f"({_md_escape(s.get('interpretive_step', ''))}, "
-                        f"{s.get('confidence', 'low')}): "
-                        f"{_md_escape(s.get('element_engaged', ''))} — "
-                        f"{_md_escape(s.get('interpretive_reasoning', ''))}"
+                        f"{s.get('pattern_or_single', '')}, "
+                        f"{s.get('confidence', 'low')})"
                     )
+                    if quote:
+                        lines.append(
+                            f"    - **Quoted utterance** — *{_md_escape(speaker)}*"
+                            f"{addr}: “{_md_escape(quote)}”"
+                        )
+                    if s.get("context_relied_on"):
+                        lines.append(
+                            f"    - **Context relied on:** {_md_escape(s.get('context_relied_on', ''))}"
+                        )
+                    if s.get("meaning_in_context"):
+                        lines.append(
+                            f"    - **Meaning in context:** {_md_escape(s.get('meaning_in_context', ''))}"
+                        )
+                    if s.get("element_engaged"):
+                        lines.append(
+                            f"    - **Element engaged:** {_md_escape(s.get('element_engaged', ''))}"
+                        )
+                    if s.get("test_applied"):
+                        lines.append(
+                            f"    - **Test applied:** {_md_escape(s.get('test_applied', ''))}"
+                        )
+                    if s.get("interpretive_reasoning"):
+                        lines.append(
+                            f"    - **Reasoning:** {_md_escape(s.get('interpretive_reasoning', ''))}"
+                        )
                     if s.get("alternative_construction"):
                         lines.append(
-                            f"    - *Alternative:* {_md_escape(s.get('alternative_construction', ''))}"
+                            f"    - **Alternative construction:** {_md_escape(s.get('alternative_construction', ''))}"
                         )
             ac = analysis.get("authentication_concerns") or []
             if ac:

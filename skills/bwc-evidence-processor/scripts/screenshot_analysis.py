@@ -45,10 +45,11 @@ PRIMARY_CATEGORIES = [
 
 SECONDARY_TAGS = [
     "threat", "coercion", "economic_abuse", "monitoring", "harassment",
-    "admission", "denial", "contradiction", "corroboration",
-    "identification", "timestamp_visible", "metadata_visible",
-    "redaction_required", "chain_of_custody_concern",
-    "authenticity_concern", "third_party_present",
+    "gaslighting", "derogation", "admission", "denial", "contradiction",
+    "corroboration", "identification", "timestamp_visible",
+    "metadata_visible", "redaction_required", "chain_of_custody_concern",
+    "authenticity_concern", "third_party_present", "pattern_one_of_n",
+    "single_utterance_sufficient", "quoted_or_forwarded", "voice_note",
 ]
 
 INTERPRETIVE_STEPS = [
@@ -134,8 +135,17 @@ SCREENSHOT_SCHEMA: dict[str, Any] = {
                 "additionalProperties": False,
                 "properties": {
                     "citation": {"type": "string"},
-                    "operative_wording": {"type": "string"},
+                    "quoted_utterance": {"type": "string"},
+                    "speaker": {"type": "string"},
+                    "addressee": {"type": "string"},
+                    "context_relied_on": {"type": "string"},
+                    "meaning_in_context": {"type": "string"},
                     "element_engaged": {"type": "string"},
+                    "test_applied": {"type": "string"},
+                    "pattern_or_single": {
+                        "type": "string",
+                        "enum": ["single", "pattern_contributor"],
+                    },
                     "interpretive_step": {"type": "string", "enum": INTERPRETIVE_STEPS},
                     "interpretive_reasoning": {"type": "string"},
                     "alternative_construction": {"type": "string"},
@@ -143,7 +153,13 @@ SCREENSHOT_SCHEMA: dict[str, Any] = {
                 },
                 "required": [
                     "citation",
+                    "quoted_utterance",
+                    "speaker",
+                    "context_relied_on",
+                    "meaning_in_context",
                     "element_engaged",
+                    "test_applied",
+                    "pattern_or_single",
                     "interpretive_step",
                     "interpretive_reasoning",
                     "confidence",
