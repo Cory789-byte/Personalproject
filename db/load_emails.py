@@ -35,8 +35,13 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 from email.message import EmailMessage
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import pymysql
+
+from _pc_user import pc_user
 
 
 def imap_connect() -> imaplib.IMAP4_SSL:
@@ -131,7 +136,7 @@ def parse_sent_on(msg: EmailMessage) -> datetime | None:
     return dt
 
 
-def upsert(cur, matter_id: int, msg: EmailMessage) -> bool:
+def upsert(cur, matter_id: int, msg: EmailMessage, ingested_by: str) -> bool:
     message_id = (msg.get("Message-ID") or "").strip()
     if not message_id:
         return False
@@ -140,8 +145,9 @@ def upsert(cur, matter_id: int, msg: EmailMessage) -> bool:
         """
         INSERT INTO emails
           (matter_id, message_id, thread_id, subject, from_addr, to_addrs,
-           cc_addrs, sent_on, body_text, body_html, has_attachments)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+           cc_addrs, sent_on, body_text, body_html, has_attachments,
+           ingested_by, source)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, 'imap')
         ON DUPLICATE KEY UPDATE
           thread_id = VALUES(thread_id),
           subject = VALUES(subject),
@@ -151,7 +157,9 @@ def upsert(cur, matter_id: int, msg: EmailMessage) -> bool:
           sent_on = VALUES(sent_on),
           body_text = VALUES(body_text),
           body_html = VALUES(body_html),
-          has_attachments = VALUES(has_attachments)
+          has_attachments = VALUES(has_attachments),
+          ingested_by = VALUES(ingested_by),
+          source = VALUES(source)
         """,
         (
             matter_id,
@@ -165,6 +173,7 @@ def upsert(cur, matter_id: int, msg: EmailMessage) -> bool:
             text,
             html,
             1 if has_attach else 0,
+            ingested_by,
         ),
     )
     return True
@@ -205,6 +214,7 @@ def main() -> int:
 
     criteria = build_search(args.field, args.query, args.since_days)
 
+    user = pc_user()
     imap = imap_connect()
     conn = mysql_connect(args.database)
     loaded = skipped = 0
@@ -212,7 +222,7 @@ def main() -> int:
         with conn.cursor() as cur:
             matter_id = get_matter_id(cur, args.matter_ref)
             for msg in fetch_messages(imap, args.mailbox, criteria):
-                if upsert(cur, matter_id, msg):
+                if upsert(cur, matter_id, msg, ingested_by=user):
                     loaded += 1
                 else:
                     skipped += 1
@@ -226,7 +236,8 @@ def main() -> int:
         conn.close()
 
     print(f"emails loaded={loaded} skipped={skipped} (matter {args.matter_ref}, "
-          f"mailbox {args.mailbox}, field {args.field}, query {args.query!r})")
+          f"mailbox {args.mailbox}, field {args.field}, query {args.query!r}, "
+          f"ingested_by {user})")
     return 0
 
 

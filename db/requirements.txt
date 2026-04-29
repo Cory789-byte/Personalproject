@@ -1,1 +1,3 @@
 PyMySQL>=1.1.0
+# Optional: only needed for db/load_outlook.py (Windows-signed-in Outlook).
+pywin32>=306; sys_platform == "win32"

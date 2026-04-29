@@ -145,6 +145,8 @@ CREATE TABLE emails (
   body_html       MEDIUMTEXT    NULL,
   has_attachments TINYINT(1)    NOT NULL DEFAULT 0,
   document_id     INT UNSIGNED  NULL,                      -- optional link if also stored as a document
+  ingested_by     VARCHAR(128)  NULL,                      -- Windows %USERNAME% of who ran the loader
+  source          ENUM('imap','outlook','manual') NOT NULL DEFAULT 'imap',
   notes           TEXT          NULL,
   created_at      TIMESTAMP     NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (id),
@@ -177,6 +179,7 @@ CREATE TABLE cloud_files (
   sha256        CHAR(64)      NULL,
   modified_on   DATETIME      NULL,
   document_id   INT UNSIGNED  NULL,
+  ingested_by   VARCHAR(128)  NULL,                        -- Windows %USERNAME% of who ran the loader
   notes         TEXT          NULL,
   created_at    TIMESTAMP     NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (id),
