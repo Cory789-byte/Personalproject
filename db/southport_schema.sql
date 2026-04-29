@@ -15,11 +15,15 @@ CREATE DATABASE IF NOT EXISTS southport_matter
 USE southport_matter;
 
 -- Drop in reverse-dependency order so the script is idempotent.
+DROP VIEW  IF EXISTS v_cloud_unlinked;
+DROP VIEW  IF EXISTS v_emails_by_thread;
 DROP VIEW  IF EXISTS v_matter_counts;
 DROP VIEW  IF EXISTS v_issues_by_document;
 DROP VIEW  IF EXISTS v_issues_by_exhibit;
 DROP VIEW  IF EXISTS v_issues_open;
 DROP VIEW  IF EXISTS v_exhibits_by_officer;
+DROP TABLE IF EXISTS cloud_files;
+DROP TABLE IF EXISTS emails;
 DROP TABLE IF EXISTS issues;
 DROP TABLE IF EXISTS documents;
 DROP TABLE IF EXISTS exhibits;
@@ -124,6 +128,70 @@ CREATE TABLE issues (
 ) ENGINE=InnoDB;
 
 -- ---------------------------------------------------------------------------
+-- 5. emails — ingested mailbox messages linked to the matter. Populated by
+--    db/load_emails.py (IMAP) or by hand-loading from .eml files.
+-- ---------------------------------------------------------------------------
+CREATE TABLE emails (
+  id              INT UNSIGNED  NOT NULL AUTO_INCREMENT,
+  matter_id       INT UNSIGNED  NOT NULL,
+  message_id      VARCHAR(255)  NOT NULL,                  -- RFC 2822 Message-ID
+  thread_id       VARCHAR(255)  NULL,                      -- IMAP X-GM-THRID or References hash
+  subject         VARCHAR(512)  NULL,
+  from_addr       VARCHAR(255)  NULL,
+  to_addrs        TEXT          NULL,
+  cc_addrs        TEXT          NULL,
+  sent_on         DATETIME      NULL,
+  body_text       MEDIUMTEXT    NULL,
+  body_html       MEDIUMTEXT    NULL,
+  has_attachments TINYINT(1)    NOT NULL DEFAULT 0,
+  document_id     INT UNSIGNED  NULL,                      -- optional link if also stored as a document
+  notes           TEXT          NULL,
+  created_at      TIMESTAMP     NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (id),
+  UNIQUE KEY uq_emails_matter_msg (matter_id, message_id),
+  KEY ix_emails_thread (thread_id),
+  KEY ix_emails_sent (sent_on),
+  KEY ix_emails_from (from_addr),
+  CONSTRAINT fk_emails_matter
+    FOREIGN KEY (matter_id) REFERENCES matters (id)
+    ON DELETE CASCADE,
+  CONSTRAINT fk_emails_document
+    FOREIGN KEY (document_id) REFERENCES documents (id)
+    ON DELETE SET NULL
+) ENGINE=InnoDB;
+
+-- ---------------------------------------------------------------------------
+-- 6. cloud_files — every file seen in a synced cloud folder (OneDrive,
+--    SharePoint local mirror, Google Drive, Dropbox, or just a local path).
+--    Populated by db/load_onedrive.py. May link to a documents row once
+--    a file has been formally indexed.
+-- ---------------------------------------------------------------------------
+CREATE TABLE cloud_files (
+  id            INT UNSIGNED  NOT NULL AUTO_INCREMENT,
+  matter_id     INT UNSIGNED  NOT NULL,
+  provider      ENUM('onedrive','sharepoint','gdrive','dropbox','local')
+                              NOT NULL DEFAULT 'onedrive',
+  relative_path VARCHAR(1024) NOT NULL,
+  file_name     VARCHAR(255)  NOT NULL,
+  size_bytes    BIGINT UNSIGNED NULL,
+  sha256        CHAR(64)      NULL,
+  modified_on   DATETIME      NULL,
+  document_id   INT UNSIGNED  NULL,
+  notes         TEXT          NULL,
+  created_at    TIMESTAMP     NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (id),
+  UNIQUE KEY uq_cloud_matter_path (matter_id, provider, relative_path(512)),
+  KEY ix_cloud_sha256 (sha256),
+  KEY ix_cloud_modified (modified_on),
+  CONSTRAINT fk_cloud_matter
+    FOREIGN KEY (matter_id) REFERENCES matters (id)
+    ON DELETE CASCADE,
+  CONSTRAINT fk_cloud_document
+    FOREIGN KEY (document_id) REFERENCES documents (id)
+    ON DELETE SET NULL
+) ENGINE=InnoDB;
+
+-- ---------------------------------------------------------------------------
 -- Views — read-only convenience queries.
 -- ---------------------------------------------------------------------------
 
@@ -183,19 +251,47 @@ SELECT m.matter_ref,
        (SELECT COUNT(*) FROM documents d WHERE d.matter_id  = m.id) AS documents,
        (SELECT COUNT(*) FROM issues    i WHERE i.matter_id  = m.id) AS issues,
        (SELECT COUNT(*) FROM issues    i WHERE i.matter_id  = m.id
-                                          AND i.status IN ('open','in_review')) AS open_issues
+                                          AND i.status IN ('open','in_review')) AS open_issues,
+       (SELECT COUNT(*) FROM emails    e WHERE e.matter_id  = m.id) AS emails,
+       (SELECT COUNT(*) FROM cloud_files c WHERE c.matter_id = m.id) AS cloud_files
 FROM matters m;
 
+CREATE VIEW v_cloud_unlinked AS
+SELECT m.matter_ref,
+       c.provider,
+       c.relative_path,
+       c.file_name,
+       c.size_bytes,
+       c.modified_on
+FROM cloud_files c
+JOIN matters m ON m.id = c.matter_id
+WHERE c.document_id IS NULL
+ORDER BY c.modified_on DESC;
+
+CREATE VIEW v_emails_by_thread AS
+SELECT m.matter_ref,
+       e.thread_id,
+       COUNT(*)        AS message_count,
+       MIN(e.sent_on)  AS first_sent,
+       MAX(e.sent_on)  AS last_sent,
+       GROUP_CONCAT(DISTINCT e.from_addr ORDER BY e.from_addr SEPARATOR ', ') AS senders
+FROM emails e
+JOIN matters m ON m.id = e.matter_id
+WHERE e.thread_id IS NOT NULL
+GROUP BY m.matter_ref, e.thread_id;
+
 -- ---------------------------------------------------------------------------
--- Seed row — replace the <<FILL IN>> markers with the real Southport matter
--- details, then re-run this script (or just this INSERT) on your MySQL.
+-- Seed row — usable defaults so the schema runs cleanly. Update once the real
+-- matter ref / parties are known, e.g.:
+--   UPDATE matters SET matter_ref='CO-25-XXXX', parties='Surname v QPS'
+--   WHERE matter_ref='SOUTHPORT-001';
 -- ---------------------------------------------------------------------------
 INSERT INTO matters (matter_ref, parties, court, evidence_root, opened_on, notes)
 VALUES (
-  '<<FILL IN: matter_ref e.g. CO-25-XXXX>>',
-  '<<FILL IN: parties e.g. Surname v QPS>>',
-  '<<FILL IN: court e.g. Magistrates Court of Queensland, Southport>>',
-  '<<FILL IN: evidence_root e.g. C:\\Evidence\\Southport>>',
+  'SOUTHPORT-001',
+  'TBC',
+  'Magistrates Court of Queensland, Southport',
+  'C:\\Evidence\\Southport',
   NULL,
   'Southport matter — scaffolded from db/southport_schema.sql'
 );

@@ -1,27 +1,129 @@
 {
-  "_comment": "Southport matter keyword set. Fill in matter_refs and named_persons before running the pipeline. Do NOT commit any version of this file containing client identifiers to a shared repo.",
+  "_comment": "Southport matter keyword set. Inherits the generic QPS/PPRA category keywords so the pipeline works immediately. Add matter-specific identifiers to matter_refs and named_persons as they become known. Do NOT commit any version of this file containing client identifiers to a shared repo.",
   "fuzzy_threshold": 85,
-  "matter_refs": [
-    "<<FILL IN: matter_ref e.g. CO-25-XXXX>>",
-    "<<FILL IN: PID e.g. PID XX-XXX-XXXX>>",
-    "<<FILL IN: court file e.g. WC/XXXX/XXX>>"
-  ],
+  "matter_refs": [],
   "annexure_map": {
     "opm_clause": "Annexure A",
     "form24_admission": "Annexure B",
     "arrest_statement_contradiction": "Annexure C",
     "form29_breach": "Annexure D",
     "qpp_breach": "Annexure E",
-    "named_persons": "Annexure F"
+    "miranda_equivalent": "Annexure F",
+    "use_of_force": "Annexure G",
+    "search_and_seizure": "Annexure H",
+    "identification_compliance": "Annexure I",
+    "detention_compliance": "Annexure J",
+    "named_persons": "Annexure K"
   },
   "categories": {
-    "named_persons": [
-      "<<FILL IN: SURNAME, Firstname>>"
+    "named_persons": [],
+    "opm_clause": [
+      "operational procedures manual",
+      "OPM",
+      "use of force continuum",
+      "reasonable suspicion",
+      "lawful direction",
+      "caution",
+      "right to silence",
+      "support person",
+      "independent person"
     ],
-    "opm_clause": [],
-    "form24_admission": [],
-    "arrest_statement_contradiction": [],
-    "form29_breach": [],
-    "qpp_breach": []
+    "form24_admission": [
+      "Form 24",
+      "admit",
+      "I acknowledge",
+      "I accept",
+      "I did that",
+      "that is correct",
+      "yes I did",
+      "yeah I did"
+    ],
+    "arrest_statement_contradiction": [
+      "you are under arrest",
+      "you're under arrest",
+      "for the purpose of",
+      "grounds are",
+      "reasonable grounds",
+      "reason for arrest",
+      "arresting you for"
+    ],
+    "form29_breach": [
+      "Form 29",
+      "bail",
+      "breach of",
+      "undertaking",
+      "condition",
+      "conditional bail"
+    ],
+    "qpp_breach": [
+      "Queensland Police Powers",
+      "Police Powers and Responsibilities Act",
+      "PPRA",
+      "QPP",
+      "section 365",
+      "section 391",
+      "section 415",
+      "section 431",
+      "section 436",
+      "section 635",
+      "search warrant",
+      "emergent search"
+    ],
+    "miranda_equivalent": [
+      "you do not have to say anything",
+      "you are not obliged",
+      "anything you do say",
+      "may be used in evidence",
+      "may be given in evidence",
+      "right to a lawyer",
+      "right to legal advice",
+      "contact a friend or relative"
+    ],
+    "use_of_force": [
+      "get on the ground",
+      "hands behind your back",
+      "stop resisting",
+      "stop moving",
+      "taser",
+      "spray",
+      "OC spray",
+      "capsicum",
+      "handcuff",
+      "pepper spray",
+      "deploy",
+      "strike",
+      "knee on",
+      "go hands on"
+    ],
+    "search_and_seizure": [
+      "empty your pockets",
+      "turn around",
+      "pat down",
+      "pat you down",
+      "search your car",
+      "search your vehicle",
+      "search your bag",
+      "do you consent",
+      "consent to a search",
+      "search warrant"
+    ],
+    "identification_compliance": [
+      "my name is",
+      "constable",
+      "senior constable",
+      "sergeant",
+      "badge number",
+      "my rank is",
+      "station I'm from",
+      "QPS"
+    ],
+    "detention_compliance": [
+      "you are being detained",
+      "you're being detained",
+      "for the purpose of",
+      "reasonable time",
+      "extension of questioning",
+      "detention warrant"
+    ]
   }
 }
