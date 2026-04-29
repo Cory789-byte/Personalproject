@@ -1,0 +1,27 @@
+{
+  "_comment": "Southport matter keyword set. Fill in matter_refs and named_persons before running the pipeline. Do NOT commit any version of this file containing client identifiers to a shared repo.",
+  "fuzzy_threshold": 85,
+  "matter_refs": [
+    "<<FILL IN: matter_ref e.g. CO-25-XXXX>>",
+    "<<FILL IN: PID e.g. PID XX-XXX-XXXX>>",
+    "<<FILL IN: court file e.g. WC/XXXX/XXX>>"
+  ],
+  "annexure_map": {
+    "opm_clause": "Annexure A",
+    "form24_admission": "Annexure B",
+    "arrest_statement_contradiction": "Annexure C",
+    "form29_breach": "Annexure D",
+    "qpp_breach": "Annexure E",
+    "named_persons": "Annexure F"
+  },
+  "categories": {
+    "named_persons": [
+      "<<FILL IN: SURNAME, Firstname>>"
+    ],
+    "opm_clause": [],
+    "form24_admission": [],
+    "arrest_statement_contradiction": [],
+    "form29_breach": [],
+    "qpp_breach": []
+  }
+}
