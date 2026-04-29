@@ -104,6 +104,7 @@ CREATE TABLE documents (
 CREATE TABLE issues (
   id           INT UNSIGNED  NOT NULL AUTO_INCREMENT,
   matter_id    INT UNSIGNED  NOT NULL,
+  external_ref VARCHAR(128)  NULL,                         -- stable user-supplied key for re-runs
   severity     ENUM('low','medium','high','critical') NOT NULL DEFAULT 'medium',
   status       ENUM('open','in_review','resolved','dismissed') NOT NULL DEFAULT 'open',
   title        VARCHAR(255)  NOT NULL,
@@ -115,6 +116,7 @@ CREATE TABLE issues (
   notes        TEXT          NULL,
   created_at   TIMESTAMP     NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (id),
+  UNIQUE KEY uq_issues_matter_extref (matter_id, external_ref),
   KEY ix_issues_status_severity (status, severity),
   CONSTRAINT fk_issues_matter
     FOREIGN KEY (matter_id) REFERENCES matters (id)

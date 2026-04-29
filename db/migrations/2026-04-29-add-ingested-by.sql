@@ -12,3 +12,10 @@ ALTER TABLE emails
 
 ALTER TABLE cloud_files
   ADD COLUMN ingested_by VARCHAR(128) NULL AFTER document_id;
+
+-- Idempotency for the issues loader: stable user-supplied key + unique index.
+-- MySQL treats multiple NULLs as not-equal, so legacy rows without an
+-- external_ref keep working unchanged.
+ALTER TABLE issues
+  ADD COLUMN external_ref VARCHAR(128) NULL AFTER matter_id,
+  ADD UNIQUE KEY uq_issues_matter_extref (matter_id, external_ref);

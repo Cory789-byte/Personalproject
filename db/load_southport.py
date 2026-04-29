@@ -110,11 +110,23 @@ def load_documents(cur, matter_id: int, rows: list[dict]) -> int:
 
 
 def load_issues(cur, matter_id: int, rows: list[dict]) -> int:
-    sql = """
+    # Rows with external_ref upsert idempotently; rows without are append-only
+    # (MySQL allows multiple NULLs in a UNIQUE index).
+    upsert_sql = """
         INSERT INTO issues
-          (matter_id, severity, status, title, description,
+          (matter_id, external_ref, severity, status, title, description,
            exhibit_id, document_id, opm_ref, created_on, notes)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+          severity = VALUES(severity),
+          status = VALUES(status),
+          title = VALUES(title),
+          description = VALUES(description),
+          exhibit_id = VALUES(exhibit_id),
+          document_id = VALUES(document_id),
+          opm_ref = VALUES(opm_ref),
+          created_on = VALUES(created_on),
+          notes = VALUES(notes)
     """
     for r in rows:
         exhibit_pk = None
@@ -135,8 +147,9 @@ def load_issues(cur, matter_id: int, rows: list[dict]) -> int:
             row = cur.fetchone()
             document_pk = row[0] if row else None
 
-        cur.execute(sql, (
-            matter_id, r.get("severity") or "medium", r.get("status") or "open",
+        cur.execute(upsert_sql, (
+            matter_id, r.get("external_ref"),
+            r.get("severity") or "medium", r.get("status") or "open",
             r["title"], r.get("description"), exhibit_pk, document_pk,
             r.get("opm_ref"), r.get("created_on"), r.get("notes"),
         ))
