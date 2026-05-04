@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Lockout night — Shepherd v QPS</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root {
+  --bg:#0e1116; --panel:#161b22; --panel2:#1c232c; --fg:#e6edf3;
+  --muted:#8b949e; --accent:#7ee787; --warn:#f0883e; --danger:#ff7b72;
+  --link:#58a6ff; --border:#30363d;
+  --mono: 'SFMono-Regular','Consolas','Liberation Mono','Menlo','monospace';
+  --sans: 'Inter','SF Pro Display','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','sans-serif';
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.45}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+header.topbar{position:sticky;top:0;background:var(--panel);border-bottom:1px solid var(--border);padding:.6rem 1rem;z-index:5;display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
+header.topbar .brand{font-weight:700;color:var(--accent)}
+header.topbar nav a{margin-right:.6rem;font-size:.92rem;color:var(--muted)}
+header.topbar nav a:hover{color:var(--fg)}
+main{max-width:1280px;margin:0 auto;padding:1.4rem 1.2rem 4rem}
+h1,h2,h3,h4{font-weight:600;letter-spacing:-0.01em}
+h1{margin:.6rem 0 .8rem;font-size:1.6rem}
+h2{margin:1.6rem 0 .6rem;font-size:1.25rem;border-bottom:1px solid var(--border);padding-bottom:.3rem}
+h3{margin:1.1rem 0 .4rem;font-size:1.05rem;color:var(--accent)}
+.muted{color:var(--muted)}
+.tag{display:inline-block;padding:.06rem .42rem;border-radius:8px;font-size:.7rem;background:var(--panel2);border:1px solid var(--border);color:var(--muted);margin-right:.25rem}
+.tag.ok{color:var(--accent);border-color:var(--accent)}
+.tag.warn{color:var(--warn);border-color:var(--warn)}
+.tag.danger{color:var(--danger);border-color:var(--danger)}
+.tag.info{color:var(--link);border-color:var(--link)}
+table{width:100%;border-collapse:collapse;font-size:.92rem;margin:.4rem 0 1rem}
+th,td{padding:.45rem .6rem;border-bottom:1px solid var(--border);vertical-align:top;text-align:left}
+th{color:var(--muted);font-weight:600;background:var(--panel)}
+tr:hover td{background:#1a2330}
+tr.row-dispositive td{background:#1a2a1a}
+tr.row-disputed td{background:#2a1a1a}
+.card{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:.9rem 1rem;margin:.6rem 0}
+.card.bordered{border-left:3px solid var(--accent)}
+.card.bordered.warn{border-left-color:var(--warn)}
+.card.bordered.danger{border-left-color:var(--danger)}
+.card.bordered.info{border-left-color:var(--link)}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:.2rem 1rem;font-size:.92rem;margin:.4rem 0}
+.kv .k{color:var(--muted)}
+blockquote{border-left:3px solid var(--accent);padding:.4rem .8rem;margin:.4rem 0;color:#dbe1e6;background:var(--panel2)}
+code{font-family:var(--mono);background:var(--panel2);padding:.05rem .35rem;border-radius:4px;font-size:.86rem}
+pre{font-family:var(--mono);background:var(--panel2);padding:.7rem .9rem;border-radius:8px;overflow-x:auto}
+ul,ol{padding-left:1.4rem}
+.grid{display:grid;gap:1rem}
+.grid.cols-2{grid-template-columns:1fr 1fr}
+.grid.cols-3{grid-template-columns:repeat(3,1fr)}
+.grid.cols-4{grid-template-columns:repeat(4,1fr)}
+@media (max-width:900px){.grid.cols-2,.grid.cols-3,.grid.cols-4{grid-template-columns:1fr}}
+.search-box{width:100%;max-width:540px;padding:.5rem .7rem;background:var(--panel2);border:1px solid var(--border);color:var(--fg);border-radius:6px;font-family:var(--sans);font-size:.95rem}
+details{margin:.4rem 0}
+summary{cursor:pointer;color:var(--link)}
+.banner{background:#3a2f10;border:1px solid var(--warn);color:#f0c584;padding:.7rem 1rem;border-radius:8px;margin:1rem 0;font-size:.92rem}
+.copy{cursor:pointer;font-size:.78rem;color:var(--muted)}
+.copy:hover{color:var(--accent)}
+.crumbs{font-size:.85rem;margin:.2rem 0 .8rem}
+.crumbs a{color:var(--muted)}
+.status-badge{display:inline-block;padding:.1rem .5rem;border-radius:6px;font-size:.78rem;font-weight:600}
+.status-disputed{background:#3a1a1a;color:#ff9b9b;border:1px solid #ff7b72}
+.status-agreed{background:#1a3a1a;color:#9bff9b;border:1px solid #7ee787}
+.status-partial{background:#3a2f10;color:#f0c584;border:1px solid var(--warn)}
+.status-dispositive{background:#0d2640;color:#9bd0ff;border:1px solid var(--link);font-weight:700}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <span class="brand">Shepherd v QPS</span>
+  <nav><a href="index.html">Index</a><a href="timeline.html">Timeline</a><a href="charges/index.html">Charges</a><a href="lockout_night.html">Lockout night</a><a href="statements/index.html">Statements</a><a href="evidence/index.html">Evidence</a><a href="corrections.html">Corrections</a><a href="quote_diff.html">Quote diff</a><a href="iterations.html">Iterations</a><a href="ware.html">Ware schedule</a><a href="validation.html">Validation</a><a href="actors/index.html">Actors</a></nav>
+</header>
+<main>
+<div class="crumbs"><a href="index.html">Index</a> &raquo; Lockout night</div>
+<h1>Lockout-night card — 14 rows</h1><table><thead><tr><th>#</th><th>Time</th><th>Actor</th><th>Event</th><th>Defeats</th></tr></thead><tbody><tr id='row-01'><td>1</td><td>2025-02-19 04:36</td><td>Property Manager Constable</td><td><a href='events/lockout-row-01.html'>Form 9 Entry Notice issued to Cory by email — explicit lessor&#x27;s-agent grant of entry for property recovery 4 days before the alleged breach</a></td><td class='muted'>Element 4 (entry was lawful) + Element 5 (knowledge / recklessness — Cory had express written entry permission from the lessor&#x27;s agent)</td></tr><tr id='row-02'><td>2</td><td>2025-02-19 09:29</td><td>Negro (from Perth)</td><td><a href='events/lockout-row-02.html'>Negro emails Constable from Perth: &#x27;a legal civil case that he is required to obtain a lawyer for and dispute me for these items&#x27; — Negro herself characterises the dispute as civil, not DV</a></td><td class='muted'>The DV-criminal characterisation of the property dispute — Negro&#x27;s own pre-incident written framing was civil-property</td></tr><tr id='row-03'><td>3</td><td>2025-02-23 19:51</td><td>Cory Shepherd</td><td><a href='events/lockout-row-03.html'>Cory calls Police Link (131444). Call duration 36 minutes (until ~20:27). Cory entered the unit during this call, with key + Tom Balsey filming as independent witness.</a></td><td class='muted'>Element 4 (entry without authority) + the &#x27;forced entry&#x27; framing — entering with a master key while contemporaneously on the phone to Police Link is regulated approach</td></tr><tr id='row-04'><td>4</td><td>2025-02-23 19:51</td><td>Laura Phillips</td><td><a href='events/lockout-row-04.html'>Phillips texts Negro: &#x27;Cory&#x27;s here, he opened the door. he came in and took Romeo (the dog).&#x27; — note &#x27;opened&#x27;, not &#x27;burst&#x27; or &#x27;broke&#x27;</a></td><td class='muted'>The &#x27;burst the door&#x27; / &#x27;broke in&#x27; framing in Phillips&#x27;s later sworn statement — Phillips&#x27;s own contemporaneous text said &#x27;opened the door&#x27;</td></tr><tr id='row-05'><td>5</td><td>2025-02-23 19:55-20:00</td><td>Laura Phillips</td><td><a href='events/lockout-row-05.html'>Phillips calls 000 (her own admission ¶11). Cory continues his Police Link call until ~20:27. Phillips begins filming after her 000 call (her own admission ¶13).</a></td><td class='muted'>The genuine-fear element — Phillips&#x27;s filming while on the phone to police, narrating events, demanding the key, arguing with Cory, and self-asking &#x27;Are we fucking scared?&#x27; are incompatible with imminent-fear</td></tr><tr id='row-06'><td>6</td><td>2025-02-23 ~20:00 onwards</td><td>Cory Shepherd + Tom Balsey</td><td><a href='events/lockout-row-06.html'>Cory leaves unit with Romeo + a van of personal property. Tom drives back to Tom&#x27;s house. Cory waits there for police to attend (police 500m away). Police do NOT arrive for ~6 hours.</a></td><td class='muted'>The &#x27;fled the scene&#x27; / &#x27;evaded police&#x27; framing — Cory was waiting at a known address (Tom&#x27;s house) for police to attend</td></tr><tr id='row-07'><td>7</td><td>2025-02-24 01:35</td><td>Const. BICKERY (+ Const. DAVIES + Const. EASTHOPE)</td><td><a href='events/lockout-row-07.html'>Police attend Cory at his mother&#x27;s house (or proximate). Bickery records &#x27;Aggrieved was in Perth and currently on a flight&#x27;.</a></td><td class='muted'>The &#x27;Negro in fear locally&#x27; framing — Negro was on a flight 3,500km away at the time of the alleged operative decisions</td></tr><tr id='row-08'><td>8</td><td>2025-02-24 01:50</td><td>Police force entry to Unit 104</td><td><a href='events/lockout-row-08.html'>Police force entry to Unit 104 to retrieve Phillips. Phillips&#x27;s barricade gives way.</a></td><td class='muted'>Anything depending on a Cory-broke-the-door narrative — the door broken at 1:50am was broken by police entry, not Cory&#x27;s earlier key entry</td></tr><tr id='row-09'><td>9</td><td>2025-02-24 01:54</td><td>Property Manager Constable</td><td><a href='events/lockout-row-09.html'>Constable telephones Bickery and Harmer DURING the lockout — explicitly stating &#x27;Form 13 does NOT terminate the lease.&#x27; Police on express notice.</a></td><td class='muted'>Element 4 (entry was unlawful) — police on express notice the lockout was unlawful BEFORE completing it</td></tr><tr id='row-10'><td>10</td><td>2025-02-24 02:00</td><td>Const. EASTHOPE (BWC arrival briefing)</td><td><a href='events/lockout-row-10.html'>Arrival briefing on tape: &#x27;going to enter the property he&#x27;s got the key and he&#x27;s got a lease who does corey the guy is up there now okay it&#x27;s his lease it&#x27;s his bottom and it&#x27;s his key so he&#x27;s entering the property to get stuff out&#x27;</a></td><td class='muted'>Element 4 + Element 5 — officer on tape acknowledges Cory had key, lease, bond at the moment of the operative decision</td></tr><tr id='row-11'><td>11</td><td>2025-02-24 03:26</td><td>Police call Property Manager</td><td><a href='events/lockout-row-11.html'>Police call Constable to ASK HIM to reactivate Cory&#x27;s fob — implicit admission Cory still controlled occupancy at the moment of the lockout</a></td><td class='muted'>The structural coherence of the lockout — police cannot lockout while admitting Cory controls the security access by asking the property manager to reactivate fobs Cory had requested be deactivated</td></tr><tr id='row-12'><td>12</td><td>2025-02-24 morning</td><td>Multiple officers</td><td><a href='events/lockout-row-12.html'>Cory arrested. Phone seized but DELIBERATELY OMITTED from Field Property Receipt 137237 (which lists &#x27;1 x dog&#x27; only). Tom Balsey gave Bickery a full printed packet of email threads, communications, TPO terms, supporting evidence — Bickery left the packet at Unit 104 with Phillips (the alleged-victim&#x27;s friend).</a></td><td class='muted'>The integrity of the brief — exculpatory documentary evidence (printed packet) and exculpatory device (phone) were operationally disposed of into the prosecution-aligned witness&#x27;s custody and into undocumented retention respectively</td></tr><tr id='row-13'><td>13</td><td>2025-02-24 evening (the night before strike-out)</td><td>Const. DAVIES + Const. BICKERY (at Cory&#x27;s mother&#x27;s house)</td><td><a href='events/lockout-row-13.html'>Davies in Bickery&#x27;s presence: &#x27;we have to defer to the judgment of our other police... we don&#x27;t reinvestigate that... That&#x27;s not how it works.&#x27; On the same tape Davies recites the dispositive defeating facts: &#x27;alexia was 2 000 kilometers away... His name&#x27;s still in the lease. His belongings are still there.&#x27; Davies acknowledges Negro&#x27;s invitation messages: &#x27;i&#x27;ve seen the messages she said two to three weeks can cory come and stay&#x27;. Davies acknowledges Negro&#x27;s US DV criminal history: &#x27;i&#x27;ve been told about that yeah&#x27;. Davies admits no theft intent: &#x27;doesn&#x27;t sound like he had the intent of taking the dog&#x27;. Davies admits stalking is just emails to Negro and family. Cory&#x27;s mother on tape: Negro had been &#x27;sleeping in that room with corey... having dinners here cooking together&#x27;. Cory&#x27;s mother on tape: one of Negro&#x27;s 1 December friends said &#x27;I&#x27;ll try and get cory charged about the animals&#x27;. THIS BWC WAS DELIBERATELY EXCLUDED FROM THE FBOE.</a></td><td class='muted'>Every element. The arresting officers themselves on tape admit (a) the prosecution rationale is policy-deference not facts, (b) the dispositive defeating facts are present, (c) Negro&#x27;s invitation messages exist, (d) no theft mens rea, (e) the stalking is emails. The brief was curated to exclude this admission.</td></tr><tr id='row-14'><td>14</td><td>2025-02-25</td><td>Magistrate Brunello</td><td><a href='events/lockout-row-14.html'>Magistrate strikes out / withdraws the TPO application — on substantive &#x27;no evidence&#x27; grounds (per Yaun&#x27;s later admission email of 21 August 2025)</a></td><td class='muted'>Element 1 (order in force) + the entire prosecutorial foundation — the foundational order was judicially undone on substantive merits</td></tr></tbody></table>
+<footer class="muted" style="margin-top:3rem;border-top:1px solid var(--border);padding-top:1rem;font-size:.8rem">
+  Generated 2026-05-04 11:16 UTC from <code>case.db</code>.
+  Built by <code>legal_system/build/build_html.py</code> over the 7 ingested source documents.
+</footer>
+</main>
+<script>
+function tableSearch(tableId, inputId){
+  const inp=document.getElementById(inputId);
+  if(!inp)return;
+  inp.addEventListener('input',()=>{
+    const q=inp.value.toLowerCase().trim();
+    const tbl=document.getElementById(tableId);
+    if(!tbl)return;
+    [...tbl.tBodies[0].rows].forEach(r=>{
+      r.style.display = r.innerText.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
+}
+function copyText(t){navigator.clipboard.writeText(t);}
+</script>
+</body>
+</html>

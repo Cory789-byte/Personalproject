@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Phases — Shepherd v QPS</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root {
+  --bg:#0e1116; --panel:#161b22; --panel2:#1c232c; --fg:#e6edf3;
+  --muted:#8b949e; --accent:#7ee787; --warn:#f0883e; --danger:#ff7b72;
+  --link:#58a6ff; --border:#30363d;
+  --mono: 'SFMono-Regular','Consolas','Liberation Mono','Menlo','monospace';
+  --sans: 'Inter','SF Pro Display','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','sans-serif';
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.45}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+header.topbar{position:sticky;top:0;background:var(--panel);border-bottom:1px solid var(--border);padding:.6rem 1rem;z-index:5;display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
+header.topbar .brand{font-weight:700;color:var(--accent)}
+header.topbar nav a{margin-right:.6rem;font-size:.92rem;color:var(--muted)}
+header.topbar nav a:hover{color:var(--fg)}
+main{max-width:1280px;margin:0 auto;padding:1.4rem 1.2rem 4rem}
+h1,h2,h3,h4{font-weight:600;letter-spacing:-0.01em}
+h1{margin:.6rem 0 .8rem;font-size:1.6rem}
+h2{margin:1.6rem 0 .6rem;font-size:1.25rem;border-bottom:1px solid var(--border);padding-bottom:.3rem}
+h3{margin:1.1rem 0 .4rem;font-size:1.05rem;color:var(--accent)}
+.muted{color:var(--muted)}
+.tag{display:inline-block;padding:.06rem .42rem;border-radius:8px;font-size:.7rem;background:var(--panel2);border:1px solid var(--border);color:var(--muted);margin-right:.25rem}
+.tag.ok{color:var(--accent);border-color:var(--accent)}
+.tag.warn{color:var(--warn);border-color:var(--warn)}
+.tag.danger{color:var(--danger);border-color:var(--danger)}
+.tag.info{color:var(--link);border-color:var(--link)}
+table{width:100%;border-collapse:collapse;font-size:.92rem;margin:.4rem 0 1rem}
+th,td{padding:.45rem .6rem;border-bottom:1px solid var(--border);vertical-align:top;text-align:left}
+th{color:var(--muted);font-weight:600;background:var(--panel)}
+tr:hover td{background:#1a2330}
+tr.row-dispositive td{background:#1a2a1a}
+tr.row-disputed td{background:#2a1a1a}
+.card{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:.9rem 1rem;margin:.6rem 0}
+.card.bordered{border-left:3px solid var(--accent)}
+.card.bordered.warn{border-left-color:var(--warn)}
+.card.bordered.danger{border-left-color:var(--danger)}
+.card.bordered.info{border-left-color:var(--link)}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:.2rem 1rem;font-size:.92rem;margin:.4rem 0}
+.kv .k{color:var(--muted)}
+blockquote{border-left:3px solid var(--accent);padding:.4rem .8rem;margin:.4rem 0;color:#dbe1e6;background:var(--panel2)}
+code{font-family:var(--mono);background:var(--panel2);padding:.05rem .35rem;border-radius:4px;font-size:.86rem}
+pre{font-family:var(--mono);background:var(--panel2);padding:.7rem .9rem;border-radius:8px;overflow-x:auto}
+ul,ol{padding-left:1.4rem}
+.grid{display:grid;gap:1rem}
+.grid.cols-2{grid-template-columns:1fr 1fr}
+.grid.cols-3{grid-template-columns:repeat(3,1fr)}
+.grid.cols-4{grid-template-columns:repeat(4,1fr)}
+@media (max-width:900px){.grid.cols-2,.grid.cols-3,.grid.cols-4{grid-template-columns:1fr}}
+.search-box{width:100%;max-width:540px;padding:.5rem .7rem;background:var(--panel2);border:1px solid var(--border);color:var(--fg);border-radius:6px;font-family:var(--sans);font-size:.95rem}
+details{margin:.4rem 0}
+summary{cursor:pointer;color:var(--link)}
+.banner{background:#3a2f10;border:1px solid var(--warn);color:#f0c584;padding:.7rem 1rem;border-radius:8px;margin:1rem 0;font-size:.92rem}
+.copy{cursor:pointer;font-size:.78rem;color:var(--muted)}
+.copy:hover{color:var(--accent)}
+.crumbs{font-size:.85rem;margin:.2rem 0 .8rem}
+.crumbs a{color:var(--muted)}
+.status-badge{display:inline-block;padding:.1rem .5rem;border-radius:6px;font-size:.78rem;font-weight:600}
+.status-disputed{background:#3a1a1a;color:#ff9b9b;border:1px solid #ff7b72}
+.status-agreed{background:#1a3a1a;color:#9bff9b;border:1px solid #7ee787}
+.status-partial{background:#3a2f10;color:#f0c584;border:1px solid var(--warn)}
+.status-dispositive{background:#0d2640;color:#9bd0ff;border:1px solid var(--link);font-weight:700}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <span class="brand">Shepherd v QPS</span>
+  <nav><a href="../index.html">Index</a><a href="../timeline.html">Timeline</a><a href="../charges/index.html">Charges</a><a href="../lockout_night.html">Lockout night</a><a href="../statements/index.html">Statements</a><a href="../evidence/index.html">Evidence</a><a href="../corrections.html">Corrections</a><a href="../quote_diff.html">Quote diff</a><a href="../iterations.html">Iterations</a><a href="../ware.html">Ware schedule</a><a href="../validation.html">Validation</a><a href="../actors/index.html">Actors</a></nav>
+</header>
+<main>
+
+<h1>Phases</h1><table><thead><tr><th>#</th><th>Phase</th><th>Events</th></tr></thead><tbody><tr><td>0.5</td><td><a href='phase-0_5.html'>Phase 0.5 — Negro&#x27;s pre-Cory pattern — animals, criminal history, US deportation</a><br><span class='muted'>Established documentary background that pre-dates the relationship: Negro had a documented June 2018 Miami-Dade arrest for misdemeanor battery (Court Case M18017586) with stay-away order against named</span></td><td>3</td></tr><tr><td>1.0</td><td><a href='phase-1.html'>Phase 1 — Background — the relationship, the lease, the dog (2019-2024)</a><br><span class='muted'>Cory and Alexia Negro met in May 2019 (per WhatsApp Full Chat 18/5/2019). Negro moved to Australia and entered a 5-year relationship with Cory. The relationship was characterised, on the documentary r</span></td><td>7</td></tr><tr><td>2.0</td><td><a href='phase-2.html'>Phase 2 — December 2023 — the predicate PID-protected disclosure</a><br><span class='muted'>The retaliation matrix begins approximately 12 months before the Negro relationship breakdown. Cory lodges a Service Delivery Complaint about Southport Police Station, which the OIC of that very stati</span></td><td>4</td></tr><tr><td>3.0</td><td><a href='phase-3.html'>Phase 3 — February 2025 — the lead-up to the lockout</a><br><span class='muted'>Cory attempts a formal civil-partnership separation. Property manager Constable acknowledges Cory&#x27;s tenancy. Negro is on holiday in Perth. The legal characterisation by all parties at this point is &#x27;c</span></td><td>8</td></tr><tr><td>4.0</td><td><a href='phase-4.html'>Phase 4 — 23 February 2025 evening — what actually happened (with Negro 3,500km away in WA, not reporting locally)</a><br><span class='muted'>Cory&#x27;s lawful entry to his own leased premises while contemporaneously on the phone to Police Link — precisely the regulated approach a person in his position should make. The 7:51 PM coincidence betw</span></td><td>8</td></tr><tr><td>5.0</td><td><a href='phase-5.html'>Phase 5 — 24 February 2025 early hours — the lockout and arrest</a><br><span class='muted'>Police arrive at 1:50 AM. Officer briefing on arrival explicitly notes Cory&#x27;s lawful tenancy. Officers nevertheless proceed to arrest after officers attend Cory&#x27;s mother&#x27;s house at 1:35 AM. Throughout</span></td><td>26</td></tr><tr><td>6.0</td><td><a href='phase-6.html'>Phase 6 — 25 February 2025 — the foundational order is struck out on substantive merits-based grounds</a><br><span class='muted'>Less than 48 hours after the arrest, the Magistrates Court strikes out the TPO. The strike-out was on substantive grounds — there was no evidence that the incidents Negro had stated in support of the </span></td><td>4</td></tr><tr><td>7.0</td><td><a href='phase-7.html'>Phase 7 — 22 March 2025 — Romeo seizure at Supercheap</a><br><span class='muted'>Cory followed into a Supercheap carpark. Romeo seized. The seizure proceeds on &#x27;it has been stated&#x27; hearsay rather than independent verification of title. The seizing officer admits &#x27;regardless of wha</span></td><td>5</td></tr><tr><td>8.0</td><td><a href='phase-8.html'>Phase 8 — May 2025 — RTI lodgement and the 11-day pattern</a><br><span class='muted'>Cory lodges a Right to Information application on 13 May 2025. Eleven days later, on 24 May 2025, he is &#x27;randomly&#x27; subjected to a saliva test at a petrol station. The same 11-day pattern recurs in the</span></td><td>5</td></tr><tr><td>9.0</td><td><a href='phase-9.html'>Phase 9 — August 2025 — the Form 5 Originating Application + procedural ambush</a><br><span class='muted'>Cory files a substantive court application against the Commissioner of Police for return of his dog and phone. Receipt 005267553. QPS files no response. At the hearing, QPS makes the dispositive &#x27;we a</span></td><td>3</td></tr><tr><td>9.5</td><td><a href='phase-9_5.html'>Phase 9.5 — Throughout 2025-26 — family-targeted retaliation matrix</a><br><span class='muted'>The retaliation pattern extends beyond Cory to his family. A QPS Southport member unilaterally changed Cory&#x27;s QPRIME residence to his mother Leanne&#x27;s address (207W 1 Marina Drive, Benowa) without veri</span></td><td>2</td></tr><tr><td>10.0</td><td><a href='phase-10.html'>Phase 10 — March 2026 — CCC s 35(3) reassessment + new evidence</a><br><span class='muted'>Cory consolidates the documentary record into a CCC reassessment request under s 35(3), identifying three specific BWC serial numbers, the &#x27;Constable SHEPHERD&#x27; perjury anomaly, and the 24h:37m tempora</span></td><td>2</td></tr></tbody></table>
+<footer class="muted" style="margin-top:3rem;border-top:1px solid var(--border);padding-top:1rem;font-size:.8rem">
+  Generated 2026-05-04 11:16 UTC from <code>case.db</code>.
+  Built by <code>legal_system/build/build_html.py</code> over the 7 ingested source documents.
+</footer>
+</main>
+<script>
+function tableSearch(tableId, inputId){
+  const inp=document.getElementById(inputId);
+  if(!inp)return;
+  inp.addEventListener('input',()=>{
+    const q=inp.value.toLowerCase().trim();
+    const tbl=document.getElementById(tableId);
+    if(!tbl)return;
+    [...tbl.tBodies[0].rows].forEach(r=>{
+      r.style.display = r.innerText.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
+}
+function copyText(t){navigator.clipboard.writeText(t);}
+</script>
+</body>
+</html>
