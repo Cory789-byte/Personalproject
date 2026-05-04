@@ -25,7 +25,7 @@ from legal_system.ingest import (  # noqa: E402
     parse_underlying_facts,
     seed_actors,
 )
-from legal_system.ingest.utils import file_sha256, now_iso  # noqa: E402
+from legal_system.ingest.utils import file_sha256  # noqa: E402
 
 REPO = ROOT
 SRC = REPO / "source_documents"
@@ -80,17 +80,23 @@ def main() -> int:
     with open(SCHEMA_PATH, "r") as f:
         conn.executescript(f.read())
 
-    # Register source documents
+    # Register source documents. Use the file's own mtime as ingested_at so
+    # re-running on unchanged sources yields byte-identical artefacts.
     cur = conn.cursor()
+    from datetime import datetime as _dt
     for sd in SOURCE_DOCS:
         path = SRC / sd["filename"]
         sha = file_sha256(path) if path.exists() else ""
         size = path.stat().st_size if path.exists() else 0
+        if path.exists():
+            ingested = _dt.utcfromtimestamp(path.stat().st_mtime).strftime("%Y-%m-%dT%H:%M:%SZ")
+        else:
+            ingested = ""
         cur.execute(
             """INSERT INTO source_documents
                (id, filename, title, generated_at, ingested_at, sha256, bytes, notes)
                VALUES (?,?,?,?,?,?,?,?)""",
-            (sd["id"], sd["filename"], sd["title"], None, now_iso(), sha, size, None),
+            (sd["id"], sd["filename"], sd["title"], None, ingested, sha, size, None),
         )
     conn.commit()
 

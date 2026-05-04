@@ -43,6 +43,21 @@ if str(ROOT) not in sys.path:
 
 DB_PATH = ROOT / "legal_system" / "db" / "case.db"
 OUT_DIR = ROOT / "legal_system" / "output" / "site"
+SRC_DIR = ROOT / "source_documents"
+
+
+def _deterministic_timestamp() -> str:
+    """Return a generation timestamp tied to source-document mtimes so the
+    generator is idempotent — re-running on unchanged inputs yields
+    byte-identical HTML and git stays clean."""
+    if SRC_DIR.exists():
+        mtimes = [p.stat().st_mtime for p in SRC_DIR.iterdir() if p.is_file()]
+        if mtimes:
+            return datetime.utcfromtimestamp(max(mtimes)).strftime("%Y-%m-%d %H:%M UTC")
+    return datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+
+
+GENERATED_AT = _deterministic_timestamp()
 
 
 # ---------------------------------------------------------------------------
@@ -189,7 +204,7 @@ def _page(title: str, body_html: str, out_path: Path, *, breadcrumb: list[tuple[
 {crumbs_html}
 {body_html}
 <footer class="muted" style="margin-top:3rem;border-top:1px solid var(--border);padding-top:1rem;font-size:.8rem">
-  Generated {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')} from <code>case.db</code>.
+  Generated {GENERATED_AT} from <code>case.db</code>.
   Built by <code>legal_system/build/build_html.py</code> over the 7 ingested source documents.
 </footer>
 </main>

@@ -5,7 +5,7 @@
       "filename": "ALTERNATIVE_CASE.md",
       "title": "Alternative Case (10 phases — affirmative chronology)",
       "generated_at": null,
-      "ingested_at": "2026-05-04T11:16:05Z",
+      "ingested_at": "2026-05-04T11:02:40Z",
       "sha256": "0c61f7d055c6cad72de6d5a661261b1c8abefa7d56297287d266ab0b67555435",
       "bytes": 53639,
       "notes": null
@@ -15,7 +15,7 @@
       "filename": "CHARGES_SUMMARY.md",
       "title": "Charges Summary (per-charge element-by-element rebuttal)",
       "generated_at": null,
-      "ingested_at": "2026-05-04T11:16:05Z",
+      "ingested_at": "2026-05-04T11:02:40Z",
       "sha256": "68d6eda18f5e9df8a59ecd4fe62c5ec1a6a453aee1e850fa248940f5b5638b76",
       "bytes": 23815,
       "notes": null
@@ -25,7 +25,7 @@
       "filename": "CORRECTION_REGISTER.md",
       "title": "Speaker Mis-Attribution Correction Register",
       "generated_at": null,
-      "ingested_at": "2026-05-04T11:16:05Z",
+      "ingested_at": "2026-05-04T11:02:40Z",
       "sha256": "0a9455b0d3977ec8d43b17b1afd07b6d10d84bb1a9ed94949b4b855e14915795",
       "bytes": 13763,
       "notes": null
@@ -35,7 +35,7 @@
       "filename": "LOCKOUT_NIGHT_TIMELINE_CARD.md",
       "title": "Lockout-Night Timeline Card (14-row exhibit)",
       "generated_at": null,
-      "ingested_at": "2026-05-04T11:16:05Z",
+      "ingested_at": "2026-05-04T11:02:40Z",
       "sha256": "d1dcea1d5717f43363bf4172d6c55845a94093f76bbfa876f28f2262f59a3d29",
       "bytes": 17063,
       "notes": null
@@ -45,7 +45,7 @@
       "filename": "SUBMISSION_QUOTE_DIFF.md",
       "title": "Submission Quote Diff (large-v3 vs Submission text)",
       "generated_at": null,
-      "ingested_at": "2026-05-04T11:16:05Z",
+      "ingested_at": "2026-05-04T11:02:40Z",
       "sha256": "d75418be6d24afdc9d186cc14b84c3f9af09621ae53b9ed47fde71b10df14c3e",
       "bytes": 43117,
       "notes": null
@@ -55,7 +55,7 @@
       "filename": "UNDERLYING_FACTS_REBUTTAL.md",
       "title": "Underlying Facts Rebuttal (paragraph-by-paragraph)",
       "generated_at": null,
-      "ingested_at": "2026-05-04T11:16:05Z",
+      "ingested_at": "2026-05-04T11:02:40Z",
       "sha256": "efb31a76ead2e3221856cccf5464e7ab4c5d4da92749d9b76841cb6ed4ba5038",
       "bytes": 254499,
       "notes": null
@@ -65,7 +65,7 @@
       "filename": "Shepherd_v_QPS_Forensic_Analysis_4May2026.docx",
       "title": "Forensic Analysis — Three Iterations + Ware Schedule",
       "generated_at": null,
-      "ingested_at": "2026-05-04T11:16:05Z",
+      "ingested_at": "2026-05-04T11:02:40Z",
       "sha256": "124114dcade87bf7760535517adfc0ef337092894734c00c2bb75829ea902b68",
       "bytes": 32886,
       "notes": null
