@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ware schedule — Shepherd v QPS</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root {
+  --bg:#0e1116; --panel:#161b22; --panel2:#1c232c; --fg:#e6edf3;
+  --muted:#8b949e; --accent:#7ee787; --warn:#f0883e; --danger:#ff7b72;
+  --link:#58a6ff; --border:#30363d;
+  --mono: 'SFMono-Regular','Consolas','Liberation Mono','Menlo','monospace';
+  --sans: 'Inter','SF Pro Display','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','sans-serif';
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.45}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+header.topbar{position:sticky;top:0;background:var(--panel);border-bottom:1px solid var(--border);padding:.6rem 1rem;z-index:5;display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
+header.topbar .brand{font-weight:700;color:var(--accent)}
+header.topbar nav a{margin-right:.6rem;font-size:.92rem;color:var(--muted)}
+header.topbar nav a:hover{color:var(--fg)}
+main{max-width:1280px;margin:0 auto;padding:1.4rem 1.2rem 4rem}
+h1,h2,h3,h4{font-weight:600;letter-spacing:-0.01em}
+h1{margin:.6rem 0 .8rem;font-size:1.6rem}
+h2{margin:1.6rem 0 .6rem;font-size:1.25rem;border-bottom:1px solid var(--border);padding-bottom:.3rem}
+h3{margin:1.1rem 0 .4rem;font-size:1.05rem;color:var(--accent)}
+.muted{color:var(--muted)}
+.tag{display:inline-block;padding:.06rem .42rem;border-radius:8px;font-size:.7rem;background:var(--panel2);border:1px solid var(--border);color:var(--muted);margin-right:.25rem}
+.tag.ok{color:var(--accent);border-color:var(--accent)}
+.tag.warn{color:var(--warn);border-color:var(--warn)}
+.tag.danger{color:var(--danger);border-color:var(--danger)}
+.tag.info{color:var(--link);border-color:var(--link)}
+table{width:100%;border-collapse:collapse;font-size:.92rem;margin:.4rem 0 1rem}
+th,td{padding:.45rem .6rem;border-bottom:1px solid var(--border);vertical-align:top;text-align:left}
+th{color:var(--muted);font-weight:600;background:var(--panel)}
+tr:hover td{background:#1a2330}
+tr.row-dispositive td{background:#1a2a1a}
+tr.row-disputed td{background:#2a1a1a}
+.card{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:.9rem 1rem;margin:.6rem 0}
+.card.bordered{border-left:3px solid var(--accent)}
+.card.bordered.warn{border-left-color:var(--warn)}
+.card.bordered.danger{border-left-color:var(--danger)}
+.card.bordered.info{border-left-color:var(--link)}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:.2rem 1rem;font-size:.92rem;margin:.4rem 0}
+.kv .k{color:var(--muted)}
+blockquote{border-left:3px solid var(--accent);padding:.4rem .8rem;margin:.4rem 0;color:#dbe1e6;background:var(--panel2)}
+code{font-family:var(--mono);background:var(--panel2);padding:.05rem .35rem;border-radius:4px;font-size:.86rem}
+pre{font-family:var(--mono);background:var(--panel2);padding:.7rem .9rem;border-radius:8px;overflow-x:auto}
+ul,ol{padding-left:1.4rem}
+.grid{display:grid;gap:1rem}
+.grid.cols-2{grid-template-columns:1fr 1fr}
+.grid.cols-3{grid-template-columns:repeat(3,1fr)}
+.grid.cols-4{grid-template-columns:repeat(4,1fr)}
+@media (max-width:900px){.grid.cols-2,.grid.cols-3,.grid.cols-4{grid-template-columns:1fr}}
+.search-box{width:100%;max-width:540px;padding:.5rem .7rem;background:var(--panel2);border:1px solid var(--border);color:var(--fg);border-radius:6px;font-family:var(--sans);font-size:.95rem}
+details{margin:.4rem 0}
+summary{cursor:pointer;color:var(--link)}
+.banner{background:#3a2f10;border:1px solid var(--warn);color:#f0c584;padding:.7rem 1rem;border-radius:8px;margin:1rem 0;font-size:.92rem}
+.copy{cursor:pointer;font-size:.78rem;color:var(--muted)}
+.copy:hover{color:var(--accent)}
+.crumbs{font-size:.85rem;margin:.2rem 0 .8rem}
+.crumbs a{color:var(--muted)}
+.status-badge{display:inline-block;padding:.1rem .5rem;border-radius:6px;font-size:.78rem;font-weight:600}
+.status-disputed{background:#3a1a1a;color:#ff9b9b;border:1px solid #ff7b72}
+.status-agreed{background:#1a3a1a;color:#9bff9b;border:1px solid #7ee787}
+.status-partial{background:#3a2f10;color:#f0c584;border:1px solid var(--warn)}
+.status-dispositive{background:#0d2640;color:#9bd0ff;border:1px solid var(--link);font-weight:700}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <span class="brand">Shepherd v QPS</span>
+  <nav><a href="index.html">Index</a><a href="timeline.html">Timeline</a><a href="charges/index.html">Charges</a><a href="lockout_night.html">Lockout night</a><a href="statements/index.html">Statements</a><a href="evidence/index.html">Evidence</a><a href="corrections.html">Corrections</a><a href="quote_diff.html">Quote diff</a><a href="iterations.html">Iterations</a><a href="ware.html">Ware schedule</a><a href="validation.html">Validation</a><a href="actors/index.html">Actors</a></nav>
+</header>
+<main>
+<div class="crumbs"><a href="index.html">Index</a> &raquo; Ware schedule</div>
+<h1>Ware disclosure schedule (33 items)</h1><p class='muted'>From Nick Ware's letter to QPS Prosecutions, 25 September 2025. Status as at 4 May 2026 (per the forensic analysis).</p><input id="w-q" class="search-box" placeholder="Filter…"><table id="w-tbl"><thead><tr><th>ID</th><th>Part</th><th>Description</th><th>Status now</th><th>Days out</th><th>Legal consequence</th></tr></thead><tbody><tr id='A1' class=''><td><a href='#A1'>A1</a></td><td>A</td><td>NEGRO statement</td><td><strong>Received</strong></td><td></td><td>Statement signed day after TPO vacated; founds credibility challenge</td></tr><tr id='A10' class='row-disputed'><td><a href='#A10'>A10</a></td><td>A</td><td>Harmer BWCF disc</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Continuing non-disclosure</td></tr><tr id='A11' class=''><td><a href='#A11'>A11</a></td><td>A</td><td>Easthope BWCF disc</td><td><strong>Received</strong></td><td></td><td>Easthope para 13 confirms he downloaded recording to disc</td></tr><tr id='A12' class='row-disputed'><td><a href='#A12'>A12</a></td><td>A</td><td>Davies BWCF disc</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Davies central participant; absence of footage significant</td></tr><tr id='A13' class='row-disputed'><td><a href='#A13'>A13</a></td><td>A</td><td>Butler BWCF disc</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Continuing non-disclosure</td></tr><tr id='A14' class=''><td><a href='#A14'>A14</a></td><td>A</td><td>Temporary Protection Order</td><td><strong>Received (vacated 25/2/2025)</strong></td><td></td><td>Prosecution exhibits the very order it knows was withdrawn day after alleged offence</td></tr><tr id='A15' class='row-disputed'><td><a href='#A15'>A15</a></td><td>A</td><td>Section 95 certificate (Bickery)</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Without it, prosecution cannot tender underlying TPO</td></tr><tr id='A16' class=''><td><a href='#A16'>A16</a></td><td>A</td><td>DV History Report (Ware: improper)</td><td><strong>Retained — Ware flagged improper; ignored</strong></td><td>222</td><td>Bad-character material flagged improper by solicitor of record; retained without explanation</td></tr><tr id='A17' class=''><td><a href='#A17'>A17</a></td><td>A</td><td>Criminal History Report (Ware: improper)</td><td><strong>Retained — Ware flagged improper; ignored</strong></td><td>222</td><td>Bad-character material; engages prosecutorial duty of candour</td></tr><tr id='A18' class=''><td><a href='#A18'>A18</a></td><td>A</td><td>Traffic History Report (Ware: improper)</td><td><strong>Retained — Ware flagged improper; ignored</strong></td><td>222</td><td>Wholly irrelevant to charges; founds objection</td></tr><tr id='A19' class=''><td><a href='#A19'>A19</a></td><td>A</td><td>Video of Shepherd at dwelling with Romeo</td><td><strong>Received</strong></td><td></td><td>Phillips&#x27;s mobile recording; her statement at para 13 says &#x27;I am able to tender these videos as evidence in court&#x27;</td></tr><tr id='A2' class='row-disputed'><td><a href='#A2'>A2</a></td><td>A</td><td>PHILLIPS — page 3 of 4 missing</td><td><strong>OUTSTANDING — page 3 has never been produced</strong></td><td>222</td><td>7+ months written notice of defect ignored. Continuing s 590AB breach. Founds Mallard miscarriage of justice argument.</td></tr><tr id='A20' class=''><td><a href='#A20'>A20</a></td><td>A</td><td>Change of ownership document — Romeo</td><td><strong>Received</strong></td><td></td><td>Bears on s 22 Code claim-of-right defence to stealing anchor</td></tr><tr id='A21' class='row-disputed'><td><a href='#A21'>A21</a></td><td>A</td><td>23 pages — emails Negro/Shepherd/property manager</td><td><strong>OUTSTANDING — never disclosed</strong></td><td>222</td><td>Likely contains exculpatory property-management correspondence</td></tr><tr id='A22' class='row-disputed'><td><a href='#A22'>A22</a></td><td>A</td><td>22 pages — text messages Negro/Shepherd</td><td><strong>OUTSTANDING — never disclosed</strong></td><td>222</td><td>Full corpus needed to test Negro selection bias in statement</td></tr><tr id='A23' class=''><td><a href='#A23'>A23</a></td><td>A</td><td>Form 13 RTA form (e-signed by Shepherd)</td><td><strong>Received</strong></td><td></td><td>Form 13 can only be filed by tenant of record. Confirms tenancy interest. Defeats unlawful-entry premise.</td></tr><tr id='A3' class=''><td><a href='#A3'>A3</a></td><td>A</td><td>Bickery statement</td><td><strong>Received</strong></td><td></td><td>Para 2 admits statement &#x27;refreshed&#x27; from QPRIME database — not independent recollection</td></tr><tr id='A4' class='row-disputed'><td><a href='#A4'>A4</a></td><td>A</td><td>Davies statement (5 pages)</td><td><strong>OUTSTANDING — never disclosed</strong></td><td>222</td><td>Longest police statement in brief, by central participant. Continuing s 590AB non-disclosure.</td></tr><tr id='A5' class=''><td><a href='#A5'>A5</a></td><td>A</td><td>Easthope statement</td><td><strong>Received</strong></td><td></td><td>Records day of week as &#x27;Saturday&#x27; — incorrect (was Sunday)</td></tr><tr id='A6' class=''><td><a href='#A6'>A6</a></td><td>A</td><td>Harmer statement</td><td><strong>Received</strong></td><td></td><td>Records day of week as &#x27;Tuesday&#x27; — incorrect; unintelligible arrest sentence naming defendant as constable</td></tr><tr id='A7' class='row-disputed'><td><a href='#A7'>A7</a></td><td>A</td><td>Butler statement (3 pages)</td><td><strong>OUTSTANDING — never disclosed</strong></td><td>222</td><td>Continuing non-disclosure</td></tr><tr id='A8' class='row-disputed'><td><a href='#A8'>A8</a></td><td>A</td><td>Contacos statement</td><td><strong>OUTSTANDING — no statement ever taken</strong></td><td>222</td><td>Scene officer with no statement; founds Mahmood adverse inference</td></tr><tr id='A9' class='row-disputed'><td><a href='#A9'>A9</a></td><td>A</td><td>Bickery BWCF disc</td><td><strong>OUTSTANDING — disc not disclosed unedited</strong></td><td>222</td><td>Primary contemporaneous footage of arrest; non-disclosure engages s 590AB</td></tr><tr id='B1' class='row-disputed'><td><a href='#B1'>B1</a></td><td>B</td><td>All BWC footage from any officer</td><td><strong>OUTSTANDING (4 of 5 missing)</strong></td><td>222</td><td>Continuing s 590AB breach</td></tr><tr id='B10' class='row-disputed'><td><a href='#B10'>B10</a></td><td>B</td><td>Negro–property management messages</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Critical to test the lockout narrative</td></tr><tr id='B2' class='row-disputed'><td><a href='#B2'>B2</a></td><td>B</td><td>Police notebook entries</td><td><strong>OUTSTANDING — never produced</strong></td><td>222</td><td>Officers&#x27; contemporaneous notebooks are primary record</td></tr><tr id='B3' class='row-disputed'><td><a href='#B3'>B3</a></td><td>B</td><td>QPRIME records of this matter</td><td><strong>OUTSTANDING — audit trail never produced</strong></td><td>222</td><td>QPRIME audit trail would identify every modification, supervisor approval, and production-pipeline timeline</td></tr><tr id='B4' class='row-disputed'><td><a href='#B4'>B4</a></td><td>B</td><td>QPRIME records of defendant as informant at unit</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Bears on prior occupancy and earlier complaints concerning the property</td></tr><tr id='B5' class='row-disputed'><td><a href='#B5'>B5</a></td><td>B</td><td>Statement from property manager Dennis Constable</td><td><strong>OUTSTANDING — Beck 29/4/2026 admits no statement yet taken</strong></td><td>222</td><td>Material civilian witness identified at scene; engages Mahmood adverse inference</td></tr><tr id='B6' class='row-disputed'><td><a href='#B6'>B6</a></td><td>B</td><td>Property manager / CCTV statement and BWC</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>CCTV footage of common areas would corroborate or refute police account</td></tr><tr id='B7' class='row-disputed'><td><a href='#B7'>B7</a></td><td>B</td><td>Witness correspondence</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Directly relevant to credit and witness coaching issues</td></tr><tr id='B8' class='row-disputed'><td><a href='#B8'>B8</a></td><td>B</td><td>Complainant criminal history (Qld, Aus, Italy, USA, any country)</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Complainant has international connections; any prior history bears on credit</td></tr><tr id='B9' class='row-disputed'><td><a href='#B9'>B9</a></td><td>B</td><td>Negro–Shepherd messages held by police</td><td><strong>OUTSTANDING</strong></td><td>222</td><td>Prosecution holds full corpus; Negro statement extracts selected portions</td></tr></tbody></table><script>tableSearch('w-tbl','w-q');</script>
+<footer class="muted" style="margin-top:3rem;border-top:1px solid var(--border);padding-top:1rem;font-size:.8rem">
+  Generated 2026-05-04 11:02 UTC from <code>case.db</code>.
+  Built by <code>legal_system/build/build_html.py</code> over the 7 ingested source documents.
+</footer>
+</main>
+<script>
+function tableSearch(tableId, inputId){
+  const inp=document.getElementById(inputId);
+  if(!inp)return;
+  inp.addEventListener('input',()=>{
+    const q=inp.value.toLowerCase().trim();
+    const tbl=document.getElementById(tableId);
+    if(!tbl)return;
+    [...tbl.tBodies[0].rows].forEach(r=>{
+      r.style.display = r.innerText.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
+}
+function copyText(t){navigator.clipboard.writeText(t);}
+</script>
+</body>
+</html>

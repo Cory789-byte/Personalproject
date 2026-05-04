@@ -1,0 +1,64 @@
+name: Build & deploy legal_system site to Pages
+
+on:
+  push:
+    branches:
+      - claude/legal-document-system-KAiP5
+      - main
+    paths:
+      - "source_documents/**"
+      - "legal_system/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r legal_system/requirements.txt
+
+      - name: Build site
+        run: python3 -m legal_system.build.run_all
+
+      - name: Verify site contents
+        run: |
+          test -f legal_system/output/site/index.html
+          n=$(find legal_system/output/site -type f -name '*.html' | wc -l)
+          echo "Built $n HTML pages"
+          test "$n" -gt 100
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: legal_system/output/site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>stmt-romeo-seizure-22mar2025-supercheap — Shepherd v QPS</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root {
+  --bg:#0e1116; --panel:#161b22; --panel2:#1c232c; --fg:#e6edf3;
+  --muted:#8b949e; --accent:#7ee787; --warn:#f0883e; --danger:#ff7b72;
+  --link:#58a6ff; --border:#30363d;
+  --mono: 'SFMono-Regular','Consolas','Liberation Mono','Menlo','monospace';
+  --sans: 'Inter','SF Pro Display','-apple-system','BlinkMacSystemFont','Segoe UI','Roboto','sans-serif';
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--sans);line-height:1.45}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+header.topbar{position:sticky;top:0;background:var(--panel);border-bottom:1px solid var(--border);padding:.6rem 1rem;z-index:5;display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
+header.topbar .brand{font-weight:700;color:var(--accent)}
+header.topbar nav a{margin-right:.6rem;font-size:.92rem;color:var(--muted)}
+header.topbar nav a:hover{color:var(--fg)}
+main{max-width:1280px;margin:0 auto;padding:1.4rem 1.2rem 4rem}
+h1,h2,h3,h4{font-weight:600;letter-spacing:-0.01em}
+h1{margin:.6rem 0 .8rem;font-size:1.6rem}
+h2{margin:1.6rem 0 .6rem;font-size:1.25rem;border-bottom:1px solid var(--border);padding-bottom:.3rem}
+h3{margin:1.1rem 0 .4rem;font-size:1.05rem;color:var(--accent)}
+.muted{color:var(--muted)}
+.tag{display:inline-block;padding:.06rem .42rem;border-radius:8px;font-size:.7rem;background:var(--panel2);border:1px solid var(--border);color:var(--muted);margin-right:.25rem}
+.tag.ok{color:var(--accent);border-color:var(--accent)}
+.tag.warn{color:var(--warn);border-color:var(--warn)}
+.tag.danger{color:var(--danger);border-color:var(--danger)}
+.tag.info{color:var(--link);border-color:var(--link)}
+table{width:100%;border-collapse:collapse;font-size:.92rem;margin:.4rem 0 1rem}
+th,td{padding:.45rem .6rem;border-bottom:1px solid var(--border);vertical-align:top;text-align:left}
+th{color:var(--muted);font-weight:600;background:var(--panel)}
+tr:hover td{background:#1a2330}
+tr.row-dispositive td{background:#1a2a1a}
+tr.row-disputed td{background:#2a1a1a}
+.card{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:.9rem 1rem;margin:.6rem 0}
+.card.bordered{border-left:3px solid var(--accent)}
+.card.bordered.warn{border-left-color:var(--warn)}
+.card.bordered.danger{border-left-color:var(--danger)}
+.card.bordered.info{border-left-color:var(--link)}
+.kv{display:grid;grid-template-columns:max-content 1fr;gap:.2rem 1rem;font-size:.92rem;margin:.4rem 0}
+.kv .k{color:var(--muted)}
+blockquote{border-left:3px solid var(--accent);padding:.4rem .8rem;margin:.4rem 0;color:#dbe1e6;background:var(--panel2)}
+code{font-family:var(--mono);background:var(--panel2);padding:.05rem .35rem;border-radius:4px;font-size:.86rem}
+pre{font-family:var(--mono);background:var(--panel2);padding:.7rem .9rem;border-radius:8px;overflow-x:auto}
+ul,ol{padding-left:1.4rem}
+.grid{display:grid;gap:1rem}
+.grid.cols-2{grid-template-columns:1fr 1fr}
+.grid.cols-3{grid-template-columns:repeat(3,1fr)}
+.grid.cols-4{grid-template-columns:repeat(4,1fr)}
+@media (max-width:900px){.grid.cols-2,.grid.cols-3,.grid.cols-4{grid-template-columns:1fr}}
+.search-box{width:100%;max-width:540px;padding:.5rem .7rem;background:var(--panel2);border:1px solid var(--border);color:var(--fg);border-radius:6px;font-family:var(--sans);font-size:.95rem}
+details{margin:.4rem 0}
+summary{cursor:pointer;color:var(--link)}
+.banner{background:#3a2f10;border:1px solid var(--warn);color:#f0c584;padding:.7rem 1rem;border-radius:8px;margin:1rem 0;font-size:.92rem}
+.copy{cursor:pointer;font-size:.78rem;color:var(--muted)}
+.copy:hover{color:var(--accent)}
+.crumbs{font-size:.85rem;margin:.2rem 0 .8rem}
+.crumbs a{color:var(--muted)}
+.status-badge{display:inline-block;padding:.1rem .5rem;border-radius:6px;font-size:.78rem;font-weight:600}
+.status-disputed{background:#3a1a1a;color:#ff9b9b;border:1px solid #ff7b72}
+.status-agreed{background:#1a3a1a;color:#9bff9b;border:1px solid #7ee787}
+.status-partial{background:#3a2f10;color:#f0c584;border:1px solid var(--warn)}
+.status-dispositive{background:#0d2640;color:#9bd0ff;border:1px solid var(--link);font-weight:700}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <span class="brand">Shepherd v QPS</span>
+  <nav><a href="../index.html">Index</a><a href="../timeline.html">Timeline</a><a href="../charges/index.html">Charges</a><a href="../lockout_night.html">Lockout night</a><a href="../statements/index.html">Statements</a><a href="../evidence/index.html">Evidence</a><a href="../corrections.html">Corrections</a><a href="../quote_diff.html">Quote diff</a><a href="../iterations.html">Iterations</a><a href="../ware.html">Ware schedule</a><a href="../validation.html">Validation</a><a href="../actors/index.html">Actors</a></nav>
+</header>
+<main>
+<div class="crumbs"><a href="../index.html">Index</a> &raquo; <a href="../statements/index.html">Statements</a> &raquo; stmt-romeo-seizure-22mar2025-supercheap</div>
+<h1>stmt-romeo-seizure-22mar2025-supercheap</h1><div class='card'><div class='kv'><span class='k'>taken</span><span>2025-03-22</span><span class='k'>qprime</span><span>QP2402065947</span><span class='k'>source</span><span><code>Multiple BWCs: RTI56733-ReleaseundertheRTIAct-AxonBody3Video2025-03-220806X60J0351B.m4a (×2 versions, 15 KB each) + JoBWC-FurtherspeakingtoCorypreparingtoseizedog.m4a (11 KB) + Seizingdog.m4a (6 KB) + seizingofdog.m4a (4 KB) + extractingstolenproperty.m4a (5 KB) + CONTACOSBWC-Seizureofdog.m4a (3 KB) + CONTACOSBWC-InteractionswithSHEPHERD.m4a (6 KB) + JoBWC-TacosinformsCorydogbeingseized.m4a (4 KB) + TRILFORD-SpeakingtoCory.m4a (37 KB)</code></span></div></div><h2>Paragraphs</h2><table><thead><tr><th>¶</th><th>Status</th><th>Verbatim / topic</th><th>Effect</th></tr></thead><tbody><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-officer-patrolling-caught-sitting-in-car.html'>¶Officer-Patrolling-Caught-Sitting-In-Car</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_How did you guys know I was waiting at Super [Cheap]? … We were just patrolling and I saw the car, saw you sitting in it and we were just making sure you weren&#x27;t up to no good, that&#x27;s all._</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-cory-establishes-negro-in-perth-at-time-of-foundational-allegation.html'>¶Cory-Establishes-Negro-In-Perth-At-Time-Of-Foundational-Allegation</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_I mean, she says that she was away for four days hiding, but she was with me every single day. I mean, she basically got her friends to do a false BPO. … But this was the CCTV, so they actually came </td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-officer-it-was-stated-dog-taken-in-dv-breach.html'>¶Officer-It-Was-Stated-Dog-Taken-In-DV-Breach</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_It was, so she&#x27;s, it&#x27;s been stated that the dog was taken in a BV breach. So regardless of what paperwork he has, we&#x27;ve got to seize the dog and then he&#x27;s got to go through the courts to get the dog </td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-cory-it-wasnt-a-dv-breach-she-was-in-perth.html'>¶Cory-It-Wasnt-A-DV-Breach-She-Was-In-Perth</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_It wasn&#x27;t a DV breach, look. She was in Perth. I was allowed to be in my place. I was breached on false information. She was in Perth._</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-cory-that-first-order-has-been-removed.html'>¶Cory-That-First-Order-Has-Been-Removed</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_[Q: &#x27;so what was the team what was that first temple order can you remember&#x27;] &#x27;yeah it was that she vacates and collects uncontested items since then that first temp order has been removed&#x27; [Q: &#x27;so w</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-officer-you-need-a-warrant-denied-lawyer-access-denied.html'>¶Officer-You-Need-A-Warrant-Denied-Lawyer-Access-Denied</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_Let me call my solicitor. … Can I just please call my solicitor? … I&#x27;m just letting you know that the vehicle is detained. You&#x27;re detained, the vehicle is detained, in relation to that search. That m</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-officer-admits-no-positive-id-of-romeo.html'>¶Officer-Admits-No-Positive-ID-Of-Romeo</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_[Cory:] How do you know that&#x27;s that dog? It&#x27;s not that dog. [Officer:] I&#x27;ve got pictures of it, alright?_</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-cory-civil-partnership-co-owners.html'>¶Cory-Civil-Partnership-Co-Owners</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_[Officer:] So what&#x27;s this where it says you&#x27;ve changed your ownership from yourself to her? [Cory:] That is just a registration name. That is not ownership completely. If you&#x27;re in a civil partnershi</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-cory-she-said-you-can-trust-me-wont-restrict.html'>¶Cory-She-Said-You-Can-Trust-Me-Wont-Restrict</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_She said, you can put three animals in my name, so she&#x27;s trying to coerce me to do it, on the 16th or the 12th, and she says, I won&#x27;t restrict you from the animals, that&#x27;s what she writes, and you ca</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-cory-tells-jo-negro-criminal-history-three-countries.html'>¶Cory-Tells-Jo-Negro-Criminal-History-Three-Countries</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_[Officer: &#x27;What&#x27;s her criminal history? Over there or here?&#x27;] &#x27;No, she&#x27;s got criminal history in Spain, she&#x27;s got criminal history in Italy, she has criminal history in America.&#x27; … &#x27;She built a JBL i</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-cory-sponsor-for-pr-exploited.html'>¶Cory-Sponsor-For-PR-Exploited</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_I was a sponsor as well for Fever, I feel like she was just exploiting me, I was a sponsor to get a permanent residency here, so I just feel like she basically exploited me._</td><td class='muted'></td></tr><tr class=''><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-officer-calls-sign-coming-up-under-duress-anomaly.html'>¶Officer-Calls-Sign-Coming-Up-Under-Duress-Anomaly</a></td><td><span class='status-badge status-partial'>⚠ partial</span></td><td>_The, um, our call sign&#x27;s coming up under duress again, look. … yeah this is what happened the other day this is what your call sign was showing the other day maybe it&#x27;s never been deleted the court l</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-trilford-cory-charged-for-having-his-own-dog-while-negro-in-perth.html'>¶Trilford-Cory-Charged-For-Having-His-Own-Dog-While-Negro-In-Perth</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_I got charged for having my own dog when my partner was in pet [Perth]. … My dog while my partner was in pet [Perth]. … That was the breach._</td><td class='muted'></td></tr><tr class='row-dispositive'><td><a href='../paragraphs/stmt-romeo-seizure-22mar2025-supercheap-p-trilford-i-downloaded-the-footage-police-wouldnt-see-it.html'>¶Trilford-I-Downloaded-The-Footage-Police-Wouldnt-See-It</a></td><td><span class='status-badge status-dispositive'>🎯 dispositive</span></td><td>_I downloaded all the video footage. The police didn&#x27;t even want to see it. … I gave the police 20 pieces of paper before they even came. I called the police to come to my apartment._</td><td class='muted'></td></tr></tbody></table>
+<footer class="muted" style="margin-top:3rem;border-top:1px solid var(--border);padding-top:1rem;font-size:.8rem">
+  Generated 2026-05-04 11:02 UTC from <code>case.db</code>.
+  Built by <code>legal_system/build/build_html.py</code> over the 7 ingested source documents.
+</footer>
+</main>
+<script>
+function tableSearch(tableId, inputId){
+  const inp=document.getElementById(inputId);
+  if(!inp)return;
+  inp.addEventListener('input',()=>{
+    const q=inp.value.toLowerCase().trim();
+    const tbl=document.getElementById(tableId);
+    if(!tbl)return;
+    [...tbl.tBodies[0].rows].forEach(r=>{
+      r.style.display = r.innerText.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
+}
+function copyText(t){navigator.clipboard.writeText(t);}
+</script>
+</body>
+</html>
