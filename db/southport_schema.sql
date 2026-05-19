@@ -15,6 +15,7 @@ CREATE DATABASE IF NOT EXISTS southport_matter
 USE southport_matter;
 
 -- Drop in reverse-dependency order so the script is idempotent.
+DROP VIEW  IF EXISTS v_screenshots_by_strand;
 DROP VIEW  IF EXISTS v_cloud_unlinked;
 DROP VIEW  IF EXISTS v_emails_by_thread;
 DROP VIEW  IF EXISTS v_matter_counts;
@@ -22,6 +23,7 @@ DROP VIEW  IF EXISTS v_issues_by_document;
 DROP VIEW  IF EXISTS v_issues_by_exhibit;
 DROP VIEW  IF EXISTS v_issues_open;
 DROP VIEW  IF EXISTS v_exhibits_by_officer;
+DROP TABLE IF EXISTS screenshots;
 DROP TABLE IF EXISTS cloud_files;
 DROP TABLE IF EXISTS emails;
 DROP TABLE IF EXISTS issues;
@@ -197,6 +199,37 @@ CREATE TABLE cloud_files (
 ) ENGINE=InnoDB;
 
 -- ---------------------------------------------------------------------------
+-- 7. screenshots — curated image evidence (text / chat / form captures) with
+--    dual-frame tagging so the same image can be retrieved under either
+--    narrative for cross-examination prep. `strand` is short-label free text
+--    (e.g. 'B1_lease_displacement', 'A_curated_against_respondent', 'gap').
+-- ---------------------------------------------------------------------------
+CREATE TABLE screenshots (
+  id            INT UNSIGNED  NOT NULL AUTO_INCREMENT,
+  matter_id     INT UNSIGNED  NOT NULL,
+  file_id       VARCHAR(255)  NOT NULL,                     -- Drive ID / cloud_file id / SHA-256
+  filename      VARCHAR(512)  NOT NULL,
+  captured_on   DATE          NULL,                         -- date on the screen, when discernible
+  sender        VARCHAR(128)  NULL,
+  verbatim_text MEDIUMTEXT    NULL,                         -- key quoted content (not full OCR dump)
+  frame_a_tag   VARCHAR(64)   NULL,                         -- curator's framing (against respondent)
+  frame_b_tag   VARCHAR(64)   NULL,                         -- counter-frame
+  strand        VARCHAR(64)   NULL,                         -- B1..B7 / A / gap
+  source_path   VARCHAR(512)  NULL,
+  sha256        CHAR(64)      NULL,
+  ingested_by   VARCHAR(128)  NULL,
+  notes         TEXT          NULL,
+  created_at    TIMESTAMP     NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (id),
+  UNIQUE KEY uq_screenshots_matter_file (matter_id, file_id),
+  KEY ix_screenshots_strand (strand),
+  KEY ix_screenshots_captured (captured_on),
+  CONSTRAINT fk_screenshots_matter
+    FOREIGN KEY (matter_id) REFERENCES matters (id)
+    ON DELETE CASCADE
+) ENGINE=InnoDB;
+
+-- ---------------------------------------------------------------------------
 -- Views — read-only convenience queries.
 -- ---------------------------------------------------------------------------
 
@@ -258,8 +291,22 @@ SELECT m.matter_ref,
        (SELECT COUNT(*) FROM issues    i WHERE i.matter_id  = m.id
                                           AND i.status IN ('open','in_review')) AS open_issues,
        (SELECT COUNT(*) FROM emails    e WHERE e.matter_id  = m.id) AS emails,
-       (SELECT COUNT(*) FROM cloud_files c WHERE c.matter_id = m.id) AS cloud_files
+       (SELECT COUNT(*) FROM cloud_files c WHERE c.matter_id = m.id) AS cloud_files,
+       (SELECT COUNT(*) FROM screenshots s WHERE s.matter_id = m.id) AS screenshots
 FROM matters m;
+
+CREATE VIEW v_screenshots_by_strand AS
+SELECT m.matter_ref,
+       s.strand,
+       s.captured_on,
+       s.sender,
+       s.filename,
+       LEFT(s.verbatim_text, 240) AS preview,
+       s.notes
+FROM screenshots s
+JOIN matters m ON m.id = s.matter_id
+WHERE s.strand IS NOT NULL
+ORDER BY s.strand, s.captured_on;
 
 CREATE VIEW v_cloud_unlinked AS
 SELECT m.matter_ref,

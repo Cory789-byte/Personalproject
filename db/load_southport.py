@@ -8,16 +8,17 @@ Usage:
     python db/load_southport.py --matter-ref SOUTHPORT-001
 
 Reads, in order, from db/templates/ (override with --csv-dir):
-    exhibits.csv   -> exhibits
-    documents.csv  -> documents
-    issues.csv     -> issues
+    exhibits.csv     -> exhibits
+    documents.csv    -> documents
+    issues.csv       -> issues
+    screenshots.csv  -> screenshots (optional)
 
 CSVs use the column names from each table. Foreign-key columns in issues.csv
 should reference the human-readable IDs (exhibit_id like 'BWC-001', doc_id
 like 'DOC-0001'); the loader resolves them to internal row IDs.
 
-Rows with a duplicate (matter_id, exhibit_id) or (matter_id, doc_id) are
-skipped — re-running the loader is safe.
+Rows with a duplicate (matter_id, exhibit_id) or (matter_id, doc_id) or
+(matter_id, file_id) are upserted — re-running the loader is safe.
 """
 
 from __future__ import annotations
@@ -156,12 +157,40 @@ def load_issues(cur, matter_id: int, rows: list[dict]) -> int:
     return len(rows)
 
 
+def load_screenshots(cur, matter_id: int, rows: list[dict]) -> int:
+    sql = """
+        INSERT INTO screenshots
+          (matter_id, file_id, filename, captured_on, sender, verbatim_text,
+           frame_a_tag, frame_b_tag, strand, source_path, sha256, notes)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+          filename      = VALUES(filename),
+          captured_on   = VALUES(captured_on),
+          sender        = VALUES(sender),
+          verbatim_text = VALUES(verbatim_text),
+          frame_a_tag   = VALUES(frame_a_tag),
+          frame_b_tag   = VALUES(frame_b_tag),
+          strand        = VALUES(strand),
+          source_path   = VALUES(source_path),
+          sha256        = COALESCE(VALUES(sha256), sha256),
+          notes         = VALUES(notes)
+    """
+    for r in rows:
+        cur.execute(sql, (
+            matter_id, r["file_id"], r["filename"], r.get("captured_on"),
+            r.get("sender"), r.get("verbatim_text"),
+            r.get("frame_a_tag"), r.get("frame_b_tag"), r.get("strand"),
+            r.get("source_path"), r.get("sha256"), r.get("notes"),
+        ))
+    return len(rows)
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("--matter-ref", default="SOUTHPORT-001")
     p.add_argument("--database", default="southport_matter")
     p.add_argument("--csv-dir", default="db/templates",
-                   help="directory containing exhibits.csv, documents.csv, issues.csv")
+                   help="directory containing exhibits.csv, documents.csv, issues.csv, screenshots.csv")
     args = p.parse_args()
 
     if "MYSQL_USER" not in os.environ or "MYSQL_PASSWORD" not in os.environ:
@@ -169,9 +198,10 @@ def main() -> int:
         return 2
 
     csv_dir = Path(args.csv_dir)
-    exhibits_rows  = read_csv(csv_dir / "exhibits.csv")
-    documents_rows = read_csv(csv_dir / "documents.csv")
-    issues_rows    = read_csv(csv_dir / "issues.csv")
+    exhibits_rows    = read_csv(csv_dir / "exhibits.csv")
+    documents_rows   = read_csv(csv_dir / "documents.csv")
+    issues_rows      = read_csv(csv_dir / "issues.csv")
+    screenshots_rows = read_csv(csv_dir / "screenshots.csv")
 
     conn = connect(args.database)
     try:
@@ -180,11 +210,13 @@ def main() -> int:
             n_ex = load_exhibits(cur, matter_id, exhibits_rows)
             n_dc = load_documents(cur, matter_id, documents_rows)
             n_is = load_issues(cur, matter_id, issues_rows)
+            n_ss = load_screenshots(cur, matter_id, screenshots_rows)
         conn.commit()
     finally:
         conn.close()
 
-    print(f"loaded: exhibits={n_ex} documents={n_dc} issues={n_is} (matter {args.matter_ref})")
+    print(f"loaded: exhibits={n_ex} documents={n_dc} issues={n_is} "
+          f"screenshots={n_ss} (matter {args.matter_ref})")
     return 0
 
 
