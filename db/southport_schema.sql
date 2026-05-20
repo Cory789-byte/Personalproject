@@ -16,6 +16,7 @@ USE southport_matter;
 
 -- Drop in reverse-dependency order so the script is idempotent.
 DROP VIEW  IF EXISTS v_screenshots_by_strand;
+DROP VIEW  IF EXISTS v_cloud_by_provider;
 DROP VIEW  IF EXISTS v_cloud_unlinked;
 DROP VIEW  IF EXISTS v_emails_by_thread;
 DROP VIEW  IF EXISTS v_matter_counts;
@@ -175,7 +176,7 @@ CREATE TABLE emails (
 CREATE TABLE cloud_files (
   id            INT UNSIGNED  NOT NULL AUTO_INCREMENT,
   matter_id     INT UNSIGNED  NOT NULL,
-  provider      ENUM('onedrive','sharepoint','gdrive','dropbox','local')
+  provider      ENUM('onedrive','sharepoint','gdrive','dropbox','local','samsung_adb','phone_link')
                               NOT NULL DEFAULT 'onedrive',
   relative_path VARCHAR(1024) NOT NULL,
   file_name     VARCHAR(255)  NOT NULL,
@@ -319,6 +320,17 @@ FROM cloud_files c
 JOIN matters m ON m.id = c.matter_id
 WHERE c.document_id IS NULL
 ORDER BY c.modified_on DESC;
+
+CREATE VIEW v_cloud_by_provider AS
+SELECT m.matter_ref,
+       c.provider,
+       COUNT(*)              AS file_count,
+       SUM(c.size_bytes)     AS total_bytes,
+       SUM(c.sha256 IS NULL) AS unhashed_count,
+       MAX(c.modified_on)    AS latest_mtime
+FROM cloud_files c
+JOIN matters m ON m.id = c.matter_id
+GROUP BY m.matter_ref, c.provider;
 
 CREATE VIEW v_emails_by_thread AS
 SELECT m.matter_ref,
