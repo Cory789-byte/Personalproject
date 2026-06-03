@@ -148,6 +148,58 @@ def process_clip(path, side, seconds, fps_sample, crop, outdir, do_ocr, writer, 
     return parsed
 
 
+def parse_crop(crop_str):
+    """Turn a 'left,top,right,bottom' string into a 4-tuple, or None if empty."""
+    if not crop_str:
+        return None
+    crop = tuple(float(x) for x in crop_str.split(","))
+    if len(crop) != 4:
+        raise ValueError("--crop needs 4 comma-separated fractions: left,top,right,bottom")
+    return crop
+
+
+def run_pair(clip_a, clip_b, tail_seconds=20.0, head_seconds=5.0, fps_sample=2.0,
+             crop=None, outdir="./clock_frames", do_ocr=True):
+    """Render + OCR the boundary frames of two clips; returns (pa, pb, regression).
+
+    `regression` is clip_A_last_clock - clip_B_first_clock in seconds (positive =
+    the burnt-in clock runs backwards across the cut), or None if not computable.
+    Reusable entry point for orchestrators (see fetch_and_clock_ocr.py).
+    """
+    os.makedirs(outdir, exist_ok=True)
+    csv_path = os.path.join(outdir, "clock_ocr_results.csv")
+    with open(csv_path, "w", newline="") as fh:
+        writer = csv.writer(fh)
+        writer.writerow(["clip", "frame_pts_seconds", "ocr_text", "parsed_clock"])
+        print(f"== Clip A (tail {tail_seconds}s): {clip_a}")
+        pa = process_clip(clip_a, "tail", tail_seconds, fps_sample,
+                          crop, outdir, do_ocr, writer, "A")
+        print(f"== Clip B (head {head_seconds}s): {clip_b}")
+        pb = process_clip(clip_b, "head", head_seconds, fps_sample,
+                          crop, outdir, do_ocr, writer, "B")
+
+    print(f"\nFrames + CSV written to: {outdir}")
+    regression = None
+    if do_ocr and pa and pb:
+        a_last = max(pa, key=lambda x: x[0])      # latest-pts frame of clip A
+        b_first = min(pb, key=lambda x: x[0])     # earliest-pts frame of clip B
+        print(f"\nClip A last burnt-in clock read : {a_last[2]} (at file pts {a_last[0]:.3f}s)")
+        print(f"Clip B first burnt-in clock read: {b_first[2]} (at file pts {b_first[0]:.3f}s)")
+        regression = a_last[1] - b_first[1]
+        if regression > 0:
+            print(f"\n*** BURNT-IN CLOCK REGRESSION: clip B's clock starts ~{regression}s "
+                  f"BEFORE clip A's clock ends — the timecode runs BACKWARDS across the cut. ***")
+        else:
+            print(f"\nNo backward regression detected at the sampled frames "
+                  f"(delta {regression}s). Widen --tail-seconds/--head-seconds or set --crop "
+                  f"to the clock region and re-run.")
+    elif do_ocr:
+        print("\nOCR did not parse a clock in one or both clips. "
+              "Set --crop to the burnt-in clock region (bottom strip) and re-run, "
+              "or inspect the dumped PNGs manually.")
+    return pa, pb, regression
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -166,45 +218,13 @@ def main():
     ap.add_argument("--no-ocr", action="store_true", help="Only dump frames, skip OCR")
     args = ap.parse_args()
 
-    crop = None
-    if args.crop:
-        crop = tuple(float(x) for x in args.crop.split(","))
-        if len(crop) != 4:
-            sys.exit("--crop needs 4 comma-separated fractions: left,top,right,bottom")
+    try:
+        crop = parse_crop(args.crop)
+    except ValueError as e:
+        sys.exit(str(e))
 
-    os.makedirs(args.outdir, exist_ok=True)
-    csv_path = os.path.join(args.outdir, "clock_ocr_results.csv")
-    do_ocr = not args.no_ocr
-
-    with open(csv_path, "w", newline="") as fh:
-        writer = csv.writer(fh)
-        writer.writerow(["clip", "frame_pts_seconds", "ocr_text", "parsed_clock"])
-
-        print(f"== Clip A (tail {args.tail_seconds}s): {args.clip_a}")
-        pa = process_clip(args.clip_a, "tail", args.tail_seconds, args.fps_sample,
-                          crop, args.outdir, do_ocr, writer, "A")
-        print(f"== Clip B (head {args.head_seconds}s): {args.clip_b}")
-        pb = process_clip(args.clip_b, "head", args.head_seconds, args.fps_sample,
-                          crop, args.outdir, do_ocr, writer, "B")
-
-    print(f"\nFrames + CSV written to: {args.outdir}")
-    if do_ocr and pa and pb:
-        a_last = max(pa, key=lambda x: x[0])      # latest-pts frame of clip A
-        b_first = min(pb, key=lambda x: x[0])     # earliest-pts frame of clip B
-        print(f"\nClip A last burnt-in clock read : {a_last[2]} (at file pts {a_last[0]:.3f}s)")
-        print(f"Clip B first burnt-in clock read: {b_first[2]} (at file pts {b_first[0]:.3f}s)")
-        regression = a_last[1] - b_first[1]
-        if regression > 0:
-            print(f"\n*** BURNT-IN CLOCK REGRESSION: clip B's clock starts ~{regression}s "
-                  f"BEFORE clip A's clock ends — the timecode runs BACKWARDS across the cut. ***")
-        else:
-            print(f"\nNo backward regression detected at the sampled frames "
-                  f"(delta {regression}s). Widen --tail-seconds/--head-seconds or set --crop "
-                  f"to the clock region and re-run.")
-    elif do_ocr:
-        print("\nOCR did not parse a clock in one or both clips. "
-              "Set --crop to the burnt-in clock region (bottom strip) and re-run, "
-              "or inspect the dumped PNGs manually.")
+    run_pair(args.clip_a, args.clip_b, args.tail_seconds, args.head_seconds,
+             args.fps_sample, crop, args.outdir, do_ocr=not args.no_ocr)
 
 
 if __name__ == "__main__":
