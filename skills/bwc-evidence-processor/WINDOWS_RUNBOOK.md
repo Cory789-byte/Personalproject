@@ -94,6 +94,20 @@ The batch:
 4. Writes `output\MATTER_INDEX.md` with severity-ranked highlights,
    aggregate counts, and links to per-exhibit master reports
 
+## 6a. (Optional) Pull exhibits from OneDrive links
+
+If the exhibits are OneDrive / 1drv.ms share links rather than files on disk,
+download and process them in one command instead of steps 4-6:
+
+```powershell
+.\run_links.ps1 -MatterRoot C:\Evidence\CO-25-2722 `
+    "https://1drv.ms/v/c/...." "https://1drv.ms/v/c/...."
+```
+
+Links must be shared as "Anyone with the link can view"; a sign-in-only link
+reports 401/403, in which case download it manually into `source\` and use the
+normal step 6. See `ONEDRIVE_LINKS.md` for detail.
+
 ## 7. Review
 
 Start here:

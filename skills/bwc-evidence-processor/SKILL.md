@@ -34,6 +34,8 @@ triggers:
   - use of force review
 inputs:
   - input: local path to MP4 / MOV / MKV / WAV / MP3 / M4A / WebM
+  - onedrive_links: optional OneDrive / 1drv.ms share links (anonymously
+    shared) auto-downloaded into the matter source folder before processing
   - matter_config: optional JSON with matter-specific keywords and annexure map
   - sworn_corpus: optional plain-text sworn statement corpus for contradictions
   - ocr: optional flag to OCR burnt-in timestamps on keyframes
@@ -108,6 +110,30 @@ Options:
 - `--ocr`: enable OCR of burnt-in timestamps on keyframes (needs tesseract)
 - `--skip-integrity`, `--skip-transcription`: skip stages
 - `--transcript`: reuse an existing transcript JSON
+
+## Processing OneDrive / 1drv.ms links
+
+Exhibits disclosed as OneDrive share links can be pulled straight into a matter
+and processed in one command (Windows GPU box):
+
+```powershell
+.\run_links.ps1 -MatterRoot C:\Evidence\001_SIBLEY `
+    "https://1drv.ms/v/c/...." "https://1drv.ms/v/c/...."
+```
+
+This downloads each link into `<MatterRoot>\source\`, then hands off to
+`run_all.ps1` (GPU probe → batch pipeline → Google Drive sync).
+
+To download only (no processing), or from any platform:
+
+```bash
+python scripts/onedrive_fetch.py --dest <MatterRoot>/source URL [URL ...]
+```
+
+Only links shared as **"Anyone with the link can view"** can be fetched
+unattended. A sign-in-only link returns 401/403; the tool then tells you to
+either re-share it anonymously or download it manually into `source\`. See
+`ONEDRIVE_LINKS.md`.
 
 ## Dependencies
 
