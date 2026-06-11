@@ -223,6 +223,19 @@ Duplicates received and skipped: a second copy of the 3 Jun 2025 order
 scan, same content); `submission_sainsindex.pdf` (a clean copy of AFDO-2 of
 16 Jul 2025); `peter_haws_work_cover_valid_5.bin` (byte-identical to the .jpg).
 
+## Part 3C — Batch 4 (integrated 11 June 2026): draft order, Form 29, pleadings, guides
+
+| File | Facts |
+|---|---|
+| `drafts/WC2024227_Rule64G_Draft_Order.docx` + `.pdf` | **The v5 build's separate draft order — verified against the `documents-and-64g.md` spec and consistent**: recites "the Appellant's application dated 11 June 2026" under r 64G(1) re MSH's 5 June objection; orders — overrule Items 3(a), 3(b), 8, 9, 10, 19; Schedule A production in 14 days, native format; MET-call spreadsheet 17–18 Mar 2024; Items 8–9 regime (Registry-marked Confidential, parties-only inspection, proceeding-only use, credential/date/timestamp fields with redactions); Item 19 effective 7 days after written notice to Together Queensland with liberty to apply; direct-knowledge verification affidavit (non-existence items 1–2/3(c)/4/5/7/14/20 incl. SPOK non-retention, Item 14 device date, Item 16 process-reference correspondence, Item 18 destruction concession); own costs r 64G(3); liberty to apply on 3 days' notice. **The v5 APPLICATION itself remains the only missing build output** |
+| `filings/2026-04-22_Form29_Notice_NonParty_Disclosure_sealed.pdf` | **Cory's Form 29 as sealed** (15 pp): filed in Registry **22/04/2026**, signed Senior Registry Officer with official seal; Applicant self-represented; Respondent c/- Appeals Unit, OIR; address 15 Edmond Street, Coomera 4209 |
+| `filings/2026-04-08_Amended_Form9A_SOFC_Appellant.pdf` | The Appellant's **Amended Statement of Facts and Contentions** (5 pp, filed pursuant to leave — the 7–8 Apr 2026 filing). Operative stressor structure: **Stressor 1** hostile course of management conduct/reprisal/suppression — **1(a) "Dereliction of Clinical Governance… erratic physical presence"** (the Items 8–9 anchor); **Stressor 2** systemic remuneration failures Feb–Apr 2024; **Stressor 3** admitted fatigue-management breaches (17–18 Mar 2024 7-hour break; *Mahaffey* single-unreasonable-stressor argument) |
+| `B4_EXHIBIT_Form9C_Statement_of_Reasons.pdf` | Exhibit B4 (7 pp): the original decision-maker's Form 9C Statement of Reasons — WorkCover's grounds for the initial rejection |
+| `guides/` | QIRC official guides (reference): Public Sector Appeal Guide (Oct 2020, 38 pp); Workers' Compensation Appeal Guide (Jul 2020, 50 pp) |
+
+Duplicate received and skipped: a byte-identical second copy of the 11 June
+Regulator disclosure.
+
 ---
 
 ## Part 4 — Inferences (NOT extracted fact — keep out of filings as assertion)

@@ -55,6 +55,7 @@ Keep **confirmed-against-source** strictly separate from **working-theory**. A m
 
 ## Current status (UPDATE CONSTANTLY)
 
+- **2026-06-11 (git integration session):** the matter corpus now lives in the `Cory789-byte/Personalproject` repo under `wc2024227/` — the Form 24 response, Review Decision 69983, the Quatrix production, the sealed Form 29, the Amended Form 9A, the four directions orders, the 11 June bundle (metadata extraction confirmed + extended — see `documents/METADATA_REGISTER.md`), and the **v5 Draft Order** (verified against spec, in `drafts/`). **The v5 APPLICATION FINAL is still NOT in the repo** — only the earlier Application2 draft (uncorrected onus, no Section G). Recover or rebuild before filing.
 - **Stage:** Rule 64G application v5 (no case law; full-scale Section G on the 11 June disclosure; onus corrected to Appellant; Annexure C = single headed McGinley page). Validated, in `/mnt/user-data/outputs/`. **Filing deadline 12 June 2026** (day 7 after MSH's 5 June objection). As of last session: NOT YET FILED — Cory on night shift, filing in the morning.
 - **Immediate task:** the four pre-filing verifications (`sub-skills/drafting.md` → filing checklist).
 - **Settlement:** ~85–90% on the appeal once production lands; ~7 of 8 contested items expected; dominant outcome ~80–83%; downside <2%.
