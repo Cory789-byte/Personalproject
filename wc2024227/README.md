@@ -62,6 +62,11 @@ Full detail per file in `documents/METADATA_REGISTER.md` Part 3A.
 | `documents/correspondence/` | Feb→Mar 2026 listing .msg chain (Form 24 service dates; the 26→27 Feb mention reschedule); Quatrix portal screenshots (Review 69983 re-send 16 Apr 2025) |
 | `documents/evidence/` | `Individual_monthly_stats_April2025.xlsx` — switchboard call stats (load-profile anchor; author Sonya Willmann) |
 | `documents/provenance/` | Cory's QIRC mailbox export manifest (159 items, SHA-256 per file) + export log — provenance for the `YYYYMMDD_HHMM__` filenames |
+| `documents/disclosure-2025-07/` | The 14 July 2025 Quatrix production: QH Payroll bundle (24 pp), witness-conferencing **Tammy Reese** bundle (50 pp — contradiction-matrix source), FRMS-content part (47 pp) |
+| `documents/medical/` | Hawes Work Capacity Certificate (signed 8 Sep 2024; first-seen-for-injury **1 Jul 2024** — resolves the stray "1 July 2024" reference) |
+| `documents/related-matters/` | **TD/2024/110** — Form 12 Application for reinstatement (stamped 25 Oct 2024, v Queensland Health Logan Hospital). Separate matter; parallel track |
+| `documents/2025-07_Regulator_SOFC_Form9C_original.pdf` | The Regulator's original Form 9C SOFC (superseded 13 May 2026) |
+| `documents/2024-05-13_ESU_PID_Complaint_Form_E5_Att1.pdf` | The ESU PID complaint form (the McGinley-chain attachment) |
 
 ## drafts/
 

@@ -26,8 +26,12 @@ Running log. APPEND newest entries at the top. Each entry: date | what was done 
 - Procedural spine in confirmed-record.md substantially extended (review decision → 22 May 2026 mention).
 - **⚠ Representation-timeline tension flagged in confirmed-record:** Form 35 (Saines/Conrad) carries a 22 Aug 2025 export timestamp and the 22 Aug 2025 order responds to the Appellant's OWN 21 Aug correspondence — vs the record's previous "self-rep since ~9 Feb 2026". Resolve before anything relies on it.
 
+**Batch 3 (same session, later still):**
+- Integrated the 14 July 2025 Quatrix production (QH Payroll 24 pp; witness-conferencing **Tammy Reese** 50 pp; FRMS part 47 pp) → `documents/disclosure-2025-07/` — contradiction-matrix source now local. Original Regulator Form 9C SOFC (6 pp). **Hawes Work Capacity Certificate images** — resolves the "1 July 2024" mystery: that is the certificate's *first seen for this injury* date; signed 8 Sept 2024 ✓. ESU PID complaint form (E5 Att 1). **TD/2024/110** reinstatement application (stamped 25 Oct 2024, v Queensland Health Logan Hospital) → `related-matters/` — separate matter, parallel track. "Chloe Work" text-message evidence (incl. 4 Apr 2023 roster board). Dups skipped (3 Jun order copy; 22 Aug order alt scan; sainsindex = AFDO-2 copy; .bin = .jpg).
+
 **Next:**
 - File the 64G (12 June) per the drafting.md checklist. Locate/rebuild v5 first — the Form 24 pinpoint check can now run against the in-repo response document.
+- Post-order: build the contradiction matrix from the Reese witness-conferencing bundle (now in `disclosure-2025-07/`).
 
 ---
 

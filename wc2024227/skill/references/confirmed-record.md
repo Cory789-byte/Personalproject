@@ -108,9 +108,19 @@
 - **Item 11 myHR report:** Author Myla Ruttan, printed 29 May 2026 13:47 **from a native .xlsx**; seven submissions Feb–May 2024 (full table in the register); **PRNs 15397775 / 15605601 absent**; row 16450619 = the 28 May 2024 AVAC, effective 30.03.2024, status **Part Completed**.
 - **22 May 2026 direction (Outlook_Document99, QIRC Registry 1:45 PM, on behalf of Dwyer's chambers):** MSH **did not attend the mention that morning**; Cory had withdrawn his objection to MSH's extension request; objections directed by 4:00 PM Friday 5 June 2026. MSH objection served by **Ruttan email Fri 5 June 2026 15:02**.
 
+## Batch 3 — now in repo (sources: the documents themselves; detail in `documents/METADATA_REGISTER.md` Part 3B)
+
+- **Hawes Work Capacity Certificate (images, `documents/medical/`):** claim **S23LW142013**; injury 18/06/2024; **first seen for this injury 01/07/2024** ← the stray "1 July 2024" reference RESOLVED — it is the first-presentation date on the certificate's face, not the signing date; signed **08/09/2024** (✓ ¶33); mechanism "ongoing breaking of workplace rules by bosses, victimizing him"; no functional capacity; review 06/10/2024; referral psychiatrist; Peter Hawes, Our Medical Ashmore.
+- **The 14 July 2025 Quatrix production is (partly) in repo** (`documents/disclosure-2025-07/`): QH Payroll bundle (24 pp; assembled from Outlook 4 Jul 2025, finalised 14 Jul); witness-conferencing bundle — **Tammy Reese** (50 pp); FRMS-content part (47 pp). The contradiction-matrix source material is now available locally.
+- **Original Regulator Form 9C SOFC** (6 pp) in repo (`2025-07_Regulator_SOFC_Form9C_original.pdf`).
+- **ESU PID complaint form** (E5 Att 1, 2 pp — the "Chloe Taylor scc-complaint-form" from the McGinley chain) in repo; PDF conversion dated 15 Aug 2024.
+- **TD/2024/110 — separate QIRC matter:** Form 12 Application for reinstatement, stamped **25 Oct 2024**, Shepherd v **Queensland Health Logan Hospital** (34 pp corrected copy in `documents/related-matters/`). Covered by the Saines costs agreement. Parallel track — keep out of WC filings.
+- **Text-message evidence** ("Chloe Work", incl. 4 Apr 2023 roster-board photo) in `documents/evidence/`.
+
 ## Key dates locked
 
 - PID complaint to ESU: **13 May 2024** (source: PID form).
+- Hawes certificate: first seen for injury **1 July 2024**; signed **8 September 2024** (source: the certificate itself, now in repo).
 - ESU closing letter (Janelle Loader): **24 December 2024** (source: letter image).
 - Reese retraction direction: 15 May 2024 (admitted ¶21); Reese also emailed re retraction 21 May 2024 (per ¶21 response).
 - AVAC submitted: 28 May 2024 (admitted ¶38).

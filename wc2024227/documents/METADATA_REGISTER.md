@@ -185,6 +185,44 @@ equitable" ✓ — the source document for the Form 24 schedule is now IN this r
 
 - `Individual_monthly_stats_April2025.xlsx` — switchboard individual monthly stats, sheet "APRIL 2025" (columns: Staff, Shift Start/Finish, Calls Taken, Call Share, Call Difference, % Taken, Month to Date; row "Cory"). xlsx core properties: **creator/lastModifiedBy Sonya Willmann**, created 2024-09-02, modified 2025-05-06. Load-profile anchor (evidence sub-skill) — do not send to the Regulator pre-emptively.
 
+## Part 3B — Batch 3 (integrated 11 June 2026): Quatrix production, Hawes certificate, TD/2024/110
+
+### The 14 July 2025 Quatrix production (`disclosure-2025-07/`)
+
+| File | Contents | Metadata |
+|---|---|---|
+| `Disclosure_witness_conferencing_QldHealth_Payroll.pdf` | 24 pp, WCRS cover "Disclosure from witness conferencing Qld Health Payroll"; component titles incl. "APP pay advice – 05/06/2024", "APP pay advice – 02/07/2025" | Assembled via **Acrobat PDFMaker 17 for Microsoft Outlook**; component CreationDates **4 Jul 2025 15:02–15:03**; ModDates 11 Jul 15:53 + **14 Jul 2025 17:18** (the Quatrix send day) |
+| `Disclosure_witness_conferencing_Tammy_Reese.pdf` | 50 pp, WCRS cover "Disclosure from witness conferencing — Tammy Reese"; component titles incl. "Communications Book issues", "Email C Taylor to APP – Acknowle…" — **contradiction-matrix priority source** | Producer iLovePDF, ModDate 25 Aug 2025 09:28 (Cory's split of the original 52 MB bundle) |
+| `Disclosure_from_witnesses_part_FRMS_content.pdf` | 47 pp part of the witness bundle — Fatigue Risk Management content (prior-wake-time risk tables/controls) | Producer iLovePDF, ModDate 24 Aug 2025 |
+
+### Hawes Work Capacity Certificate (`medical/` — 3 image copies)
+
+Work capacity certificate — workers' compensation (Form 132M): Cory Shepherd,
+DOB 11/01/1991, **claim S23LW142013** (= the insurer ref in Review Decision
+69983), employer Qld Health. Date of injury **18/06/2024**; **"Patient was
+first seen at this practice/hospital for this injury/disease on 01/07/2024"**
+— this resolves the stray "1 July 2024" date: it is the first-presentation
+date, NOT the signing date. Provisional diagnosis anxiety, stress; mechanism
+"ongoing breaking of workplace rules by bosses, victimizing him"; consistent
+with clinical findings: Yes; **no functional capacity** for any type of work;
+treatment 08/09/2024–06/10/2024, review 06/10/2024; referral psychiatrist.
+Practitioner **Peter Hawes**, Our Medical Ashmore, 568 Olsen Ave Ashmore,
+ph 0756475000 — **signed 08/09/2024** (✓ Form 24 ¶33).
+
+### Other batch-3 documents
+
+| File | Facts |
+|---|---|
+| `2025-07_Regulator_SOFC_Form9C_original.pdf` | The Regulator's ORIGINAL Form 9C SOFC (6 pp; the one due 23 Jul 2025 under AFDO-2, served on solicitors 22 Jul 2025; superseded by the amended SOFC of 13 May 2026) |
+| `2024-05-13_ESU_PID_Complaint_Form_E5_Att1.pdf` | The ESU corrupt-conduct/PID complaint form (2 pp; same content as bundle pp 9–10) — i.e. the "Chloe Taylor scc-complaint-form" attachment from the McGinley chain. PDF created **15 Aug 2024** (PDFTron office converter — docx→pdf conversion date) |
+| `related-matters/TD2024-110_Form12_Application_for_reinstatement_stamped_25.10.2024.pdf` | **Separate QIRC matter TD/2024/110**: Form 12 Application for reinstatement, Industrial Registrar stamp **25 OCT 2024**, Cory Lea Shepherd v **Queensland Health Logan Hospital** (34 pp corrected copy; scan 20 Nov 2024, iOS re-save 28 Nov 2024). Parallel track — covered by the Saines costs agreement ("appeal… and his application for reinstatement") |
+| `evidence/Chloe_Work_text_messages_incl_2023-04-04_roster_board.pdf` | 3 pp iPhone text-message captures with "Chloe Work": shift-coverage messages ("All good I've covered your shift for tonight"), photo of the roster whiteboard 4 Apr 2023 1:40 PM, "Definitely needs amendment prior to the 4 public holidays", "Did I give you a weekend on that roster?" (iOS Photos export 11 Sep 2024) |
+
+Duplicates received and skipped: a second copy of the 3 Jun 2025 order
+(byte-identical); an "Up to date" copy of the 22 Aug 2025 order (different
+scan, same content); `submission_sainsindex.pdf` (a clean copy of AFDO-2 of
+16 Jul 2025); `peter_haws_work_cover_valid_5.bin` (byte-identical to the .jpg).
+
 ---
 
 ## Part 4 — Inferences (NOT extracted fact — keep out of filings as assertion)
