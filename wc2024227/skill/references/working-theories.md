@@ -1,0 +1,84 @@
+# Working Theories — WC/2024/227
+
+**Everything here is hypothesis, not confirmed fact.** Each carries a confidence level. These frames are analytically useful and shape strategy, but NONE may enter a filing as an asserted fact. When a theory is confirmed against a source, move it to `confirmed-record.md` and note it there. Keep this separation absolute — it is the point of the skill.
+
+---
+
+## 1. Two-stream disclosure model (confidence: moderate–high, but UNSETTLED by the Form 29 finding)
+
+**Theory:** MSH produced in two streams. Stream 1 (to the Regulator): full, informal collection in Cory's Form 29 compliance window (22 Apr–6 May), flowing to WCRS, supplemented by conferencing — complete, uncurated. Stream 2 (to Cory): triggered not by the Form 29 but by the Commission's 22 May direction — partial, lawyer-assembled, curated, late. Collected early, packaged late, completeness to the Respondent, selectivity to the Appellant.
+
+**Support:** metadata (see below) — WCRS bundle container 6 May 1:31 PM (= day 14 from Form 29 service); payroll report run 8 May 9:53 AM by operator 105777; then NO Cory-facing artifact until after 22 May (prints by "Renee Dawson" 25 May, Ruttan 29 May & 2 June, letter 5 June).
+
+**CAUTION — the Form 24 ¶23 finding complicates this.** There demonstrably IS a Form 29 mechanism in this matter (the medical-records Form 29, Registry-signed 4 July 2025). So Matheson's "Notice of Non-Party Disclosure request" in her 11 June email is NOT as certainly a reference to Cory's own Form 29 as earlier sessions concluded. It could be: (a) Cory's Form 29; (b) a separate Regulator-issued Form 29 to QH; (c) loose drafting. **Resolve via the index email — do not treat as settled.**
+
+## 2. Metadata findings (confidence: high — extracted from the actual PDF; but inferences about MOTIVE are lower)
+
+> **UPDATE 11 June 2026 — extraction re-run in-repo and CONFIRMED; migrated to
+> `confirmed-record.md` + `documents/METADATA_REGISTER.md`.** New extracted
+> facts beyond the original session: the bundle is **10 pages** (not 23);
+> revision-1 page-tree `/Count` = **4** (the 6 May container), expanded to 10
+> in the 11 June 10:56 re-save — i.e. the Outlook prints + ESU form pages
+> appear to have been APPENDED on 11 June (which-pages identification: high
+> confidence inference, not read from revision 1 directly). The Item 11 AVAC
+> history print shows myHR session user **"Estelle Bain"** — a new unknown
+> name for the access-log request, alongside operator 105777 and "Renee
+> Dawson".
+
+**Extracted facts (these are real, from file properties):**
+- Regulator's 11 June bundle: container created 6 May 2026 1:31 PM (Word, "WCRS FactSheet PortraitWide" template); ModDate 11 June 10:56 AM (7 min before Matheson's 11:03 email). Three font families = three sources: screenshot pages in current M365 (Aptos); email prints as a single Outlook batch from Matheson's mailbox; ESU form pages.
+- The screenshot pages show a LIVE administrative session with EDIT rights (Upload link, Document Type dropdown, delete × on Cory's own attachment) — i.e. someone with admin access recently walked all five tabs of Cory's leave record (Request, Attachments, Comments, Process Flow, History).
+- The **McGinley email (16 May 2024) was never addressed to Cory** (To: Reese, Tracey Smith; Cc: Punch, Pritchard, McNamee) — so it cannot have come from Cory; an MSH-side custodian supplied it. **Provenance kill-shot for the conferencing channel.**
+- MSH enclosures: Leave Takings Report generated 8 May 9:53 AM by operator 105777; leave form printed by "Renee Dawson" 25 May 1:06 PM (edited ~2 hrs later); myHR report printed by Ruttan 29 May FROM AN .xlsx (native exists); Role/AVAC prints 2 June; MSH letter created 5 June 2:57 PM, internal title "Attachment 4… Letter to Court response to Non production order Shepherd FINAL" (attachments 1–3 exist somewhere); Cridland signature 2:54, served 3:02.
+
+**Inferences (LOWER confidence — do not assert):**
+- That the searches were complete by early May and the file then "slept" until the direction. (Plausible; print dates prove package-assembly timing, not search timing — but the early artifacts carry the search-date burden.)
+- "Renee Dawson" identity is UNKNOWN — do not assume any connection to anyone. Target of the IP access-log request.
+
+## 3. Motive of Renee Matheson's 11 June disclosure (confidence: individual self-protection ~dominant)
+
+**Theory:** Matheson disclosed primarily to clear her OWN professional position before Cory's 64G could implicate her — the continuing disclosure duty and model-litigant obligation are personally hers, and she has direct experience (the Feb application) that Cory attacks disclosure conduct. Not goodwill toward Cory (price none); not coordination with MSH against him (the no-CC to MSH and the metadata cut against it). The careful provenance clause is an experienced officer being accurate-but-careful.
+
+**Operational consequence:** she will answer a *written* request because not answering recreates the exposure she just moved to avoid. The index email works on her specifically.
+
+## 4. Coordination + the seam (confidence: high on coordination, high on the seam)
+
+**Confirmed-ish:** MSH and the Regulator run a coordinated defence (conferencing channel, witness supply, the 52MB witness file, the Willson meeting). This is lawful and ordinary, not sinister.
+
+**The seam (the useful part):** coordination holds until it threatens the Regulator's OWN standing with the Commission. Holding responsive documents past that line becomes the Regulator's individual disclosure breach — so the Regulator will not burn its standing with the court to protect MSH. The 11 June disclosure is where the seam opened. **Exploit via process (the served application forces responses coordination can't absorb privately), never via accusation.**
+
+## 5. Liability layers / distancing model (confidence: structural, persuasive)
+
+**Theory:** institutions are shielding the institution from the point its records convert Cory's allegations into its obligations — not shielding the manager.
+- Layer 1 (certain): WC + s 40–42 PID reprisal tort (MSH vicariously liable; facts largely admitted).
+- Layer 2 (real, contingent): individual criminal — s 41 reprisal is Reese's personal exposure (welded to MSH's vicarious liability, hence shielded); Chloe's fraud-allegation exposure is individual misconduct the institution can disown (hence Chloe-adverse material surrendered). Possible s 38 CC Act referral duty on Cridland if the logs confirm.
+- Layer 3 (created by the 64G): false-verification exposure on the affidavit deponent.
+
+**Distancing tells (watch, each a free model update):** who swears the verification affidavit (corporate officer = distancing confirmed; Chloe/Reese = institution backing them); whether MSH's response defends the *merits* of Chloe's conduct anywhere (predict: never — confirmation by silence); how hard Item 9 is fought (ferocity = the unproven fact still feared; soft fold = distancing complete).
+
+**Endgame read:** settlement IS the shield — a heard appeal produces portable findings; a settled appeal produces payment and no findings. Hence the release-scope discipline rule.
+
+## 6. Severity / injury theory (confidence: high as a frame; it is Cory's case)
+
+The injury is the cumulative institutional response to raising concerns: union delegate (offered, blocked), rostering (6 differential cyclic patterns authored, declined), manager grievances (dismissed, treated badly), director escalation (declined), PID (routed back to subjects, retraction in 48 hrs), pay withheld — every channel closed, and using them made Cory "the problem." Degree/duration/density. Belongs to evidence-in-chief, the medical case (Hawes mechanism), and closing — NOT the 64G.
+
+**Roster-seam discovery:** the 7-hour break sits in the SEAM between two fortnightly rosters (variance forms run 5–18 Feb, 19 Feb–3 Mar; 17 March = last day of the 4–17 March period, 18 March = day one of the next). The breach lived where two rosters met and no system existed to look there. Manager works Mon–Fri, so the weekend keystone shows STRUCTURAL supervision vacuum by design; the Monday (18 March) is the probative weekday inside the floor.
+
+## 7. Reserve weapon — the asymmetry reply (DRAWER, not in the application)
+
+Deploy ONLY if MSH maintains the expense ground (r 64E(4)(a)) in its responsive submissions. Trigger probability ~12.5% (Section G is the expense rebuttal pre-deployed). Full drafted text:
+
+> "The expense grounds are maintained in the terms of the response of 5 June 2026: Chief Executive approval, engagement of eHealth Queensland, diversion from the delivery of health care. The Respondent's disclosure of 11 June 2026 records what production from these custodians involves in practice: correspondence from the Director's own mailbox, and the complete tabs of a form produced to the Appellant only in part, were provided to the Respondent through its conferencing of MSH officers — without, so far as appears, any of the apparatus the objection describes. The documents are the same; the custodians are the same; only the requester differs. A burden that varies with the identity of the party asking is not a burden within rule 64E(4)(a); and to the extent any real expense attends production under the Notice, rule 64I meets it."
+
+Also available: the **differential-answer inference** — MSH answered "not retained" freely for seven items (incl. SPOK) and gave no such answer for Items 8–9; you don't object on privacy to records you haven't confirmed exist. Same trigger.
+
+## 8. Post-filing target list (sequenced behind settlement)
+
+- Index email to Matheson (post-service): Form 29 question (is it Cory's? date/source received? more coming? Form 29 for records about Cory?).
+- IP access-log request: myHR/AVAC audit log Feb–Jun 2026 (names operator 105777, "Renee Dawson," the walkthrough session operator/date).
+- Contradiction matrix from the 52MB July 2025 witness bundle — extract every attendance/supervision/presence assertion BEFORE Items 8–9 land (statements locked blind in 2025).
+- July 2025 diff: was the McGinley chain / full tabs in the 2025 bundles? (If yes, Regulator held them 11 months; if no, 2026 conferencing.)
+- Load-profile witness statement (Cory's evidence): ~400 calls/shift, ~20 emergency codes, pathology/Dr-to-Dr/hospital-to-hospital — anchored to the produced MET spreadsheet, NOT sent to the Regulator early.
+- Psychiatrist report: commission AFTER production; structured as instructed-assumptions on Cory's statement; treating notes meanwhile to capture work context.
+- Six cyclic rostering proposals + decline responses → matrix anchor rows.
+- February residue supplement (post-production): COVID decline dates 20–29 Feb + the 4–17 March roster authoring fortnight — one targeted notice, justified by two pleaded events.
