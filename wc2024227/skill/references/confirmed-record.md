@@ -13,7 +13,17 @@
 
 ## Procedural spine (source: filings + notices on file)
 
+- WorkCover rejection; review application received **16 Sep 2024**; **Review Decision 69983**: decision 22 Oct 2024, reasons dated 24 Oct 2024 (28 pp; insurer ref S23LW142013) — factor 4 (17–18 Mar 2024 rostering) found UNREASONABLE but s 32(5) applied on the *Delaney* global evaluation; 8-hour agreement recorded as signed **17 June 2020** (source: the decision, now in `documents/`).
 - Appeal filed 2024; s 550(4) WCRA; Member Commissioner Dwyer.
+- **26 Nov 2024** — Saines Legal costs agreement (ref BH:FG:147637) covering the appeal + reinstatement application (source: the agreement).
+- **3 Jun 2025** — Amended Further Directions Order (by consent): 30 Apr 2025 conference vacated; Appellant SOFC 11 Jun; Respondent SOFC 16 Jul; witness lists/outlines 6 + 27 Aug 2025 (source: the order).
+- **16 Jul 2025** — AFDO (2) (by consent): Respondent SOFC 23 Jul; Appellant list/outline 13 Aug; Respondent's 3 Sep 2025 (source: the order).
+- **22 Aug 2025** — Directions Order, further to **the Appellant's own correspondence of 21 Aug 2025**: AFDO (2) **vacated** (source: the order). A Form 35 withdrawing **Saines Legal / Paul Conrad** exists with export timestamp 22 Aug 2025 (source: the form; undated on its face). **⚠ TENSION: this file previously recorded self-representation "since Saines withdrew ~9 Feb 2026." The documents indicate Cory was corresponding with the Commission directly from 21 Aug 2025. Resolve before any filing relies on the representation timeline.**
+- **11 Feb 2026** — Form 24 Notice to Admit served; receipt confirmed 12 Feb 2026 (source: Cory's listing email in the 5 Mar 2026 .msg).
+- **17 Feb 2026** — Matheson requests rescheduling of the 26 Feb mention (Counsel before DP Hartigan); Cory consents to **27 Feb 2026 (PM)** expressly reserving the r 49(2) 14-day clock (source: the .msg chain).
+- **25–27 Feb 2026** — supplementary Form 4 + Form 20 affidavits; supplementary affidavit **stamped 26 Feb 2026**; Form 4 (Disclosure) + supporting affidavit **stamped 27 Feb 2026** (rr 8, 49, 64C–64F, 226 cited) (source: the stamped filings).
+- **7 Apr 2026** — Further Directions Order after the mention: amended Appellant SOFC by 8 Apr; Respondent amended SOFC by 13 May; further mention not before 13 May 2026 (source: the order).
+- **7 May 2026** — Notice of Listing: mention 10 AM **22 May 2026** before Dwyer (source: the notice).
 - SOFC directions: due 16 July 2025, extended by consent to 23 July 2025 (source: Matheson/Conrad emails 14–15 July 2025).
 - **14 July 2025** — Quatrix disclosure: "Disclosure from Qld Health Payroll.pdf" (3.5 MB) and "Disclosure from witnesses(1).pdf" (52 MB) (source: Quatrix notification email). Links expired after 29 days.
 - **9 Feb 2026** — Appellant's urgent filing (source: the filing itself): Form 4 (exclusion of unlawfully obtained medical records + sealing of Exhibit A5 under s 580 IR Act 2016 and r 94), Form 20 affidavit (381-page exhibit bundles, hand-delivered per PD 3/2021), Form 24 Notice to Admit 50 facts.
@@ -33,7 +43,7 @@
 - Review Decision dated **24 October 2024** (p. 27): Review Officer found the 7-hour rostering... [the IRO finding]. **Resp ¶34 admits the contents of the review decision BUT says the fact "is not relevant because the appeal is a hearing de novo and it is for the Commission to determine."** → The IRO finding is admitted **as a document, persuasive, NOT as a binding determination.** Do not overstate it as conclusive in filings.
 - Resp ¶4 **denies** the no-written-agreement fact: "in June 2020 the Appellant signed an agreement allowing an 8 hour break between shifts" (also at SOFC ¶34). **This is a live contest — there IS an asserted 8-hour agreement.** Flag for hearing.
 
-## Form 24 — Regulator's responses (source: the actual response document, read in full)
+## Form 24 — Regulator's responses (source: the actual response document, read in full — NOW IN REPO: `documents/2026-02-18_Form24_Response_and_email_communication.pdf`; response dated 18/02/2026, contact Matheson; PDF author "Stephen Gray", created 18 Feb 2026)
 
 **Numbering note:** the Notice paragraphs and the Response paragraphs drift out of alignment from the medical-records section onward (Resp ¶34 answers Notice ¶37, etc.). Always confirm which numbering a pinpoint refers to.
 

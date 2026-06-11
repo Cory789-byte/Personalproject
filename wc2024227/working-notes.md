@@ -21,8 +21,13 @@ Running log. APPEND newest entries at the top. Each entry: date | what was done 
 - The v5 FINAL filing files are NOT in this repo — they were in a prior session's `/mnt/user-data/outputs/`. **Recover or rebuild before the 12 June deadline — do not file from Application2.docx.**
 - The four pre-filing verifications from the filing checklist still require the Form 24 response document (not in this upload batch).
 
+**Batch 2 + Form 24 (same session, later):**
+- Integrated: 4 directions orders (3 Jun / 16 Jul / 22 Aug 2025, 7 Apr 2026), Notice of Listing 22 May 2026, the 25–27 Feb 2026 stamped filings (supplementary Form 4 + affidavits; Form 4 Disclosure + affidavit), **Review Decision 69983 in full** (factor-4 unreasonableness; *Delaney* global evaluation; 8-hour agreement signed 17 June 2020), Saines costs agreement (26 Nov 2024), Form 35 (withdrawal of Saines/Conrad), listing .msg chain (Form 24 served 11 Feb, receipt 12 Feb; mention 26→27 Feb at Matheson's request, r 49(2) reserved), Quatrix screenshots, April-2025 switchboard stats xlsx (load profile — hold, do not serve), mailbox export manifests (provenance), **and the Form 24 response itself (dated 18/02/2026; PDF author "Stephen Gray")** — the pinpoint-verification source is now in-repo.
+- Procedural spine in confirmed-record.md substantially extended (review decision → 22 May 2026 mention).
+- **⚠ Representation-timeline tension flagged in confirmed-record:** Form 35 (Saines/Conrad) carries a 22 Aug 2025 export timestamp and the 22 Aug 2025 order responds to the Appellant's OWN 21 Aug correspondence — vs the record's previous "self-rep since ~9 Feb 2026". Resolve before anything relies on it.
+
 **Next:**
-- File the 64G (12 June) per the drafting.md checklist. Locate/rebuild v5 first.
+- File the 64G (12 June) per the drafting.md checklist. Locate/rebuild v5 first — the Form 24 pinpoint check can now run against the in-repo response document.
 
 ---
 

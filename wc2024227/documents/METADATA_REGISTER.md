@@ -132,6 +132,61 @@ WCRS/OIR signature block.
 
 ---
 
+## Part 3A — Batch 2 (integrated 11 June 2026): orders, filings, Review Decision, correspondence
+
+### Directions orders (`orders/`) — all signed J.C. Dwyer, Industrial Commissioner; scans produced on a KONICA MINOLTA bizhub C658
+
+| Order | Dated | Effect | Scan CreationDate |
+|---|---|---|---|
+| Amended Further Directions Order | **3 Jun 2025** (issued 4 Jun per AFDO-2 recital) | By consent: 30 Apr 2025 2 PM conference vacated; Appellant SOFC by 11 Jun 2025 (List of Stressors note); Respondent SOFC by 16 Jul 2025; Appellant witness list + outline/expert reports by 6 Aug 2025; Respondent's by 27 Aug 2025; then second s 552A conference or hearing | 2025-06-03 16:47 +10 |
+| Amended Further Directions Order (2) | **16 Jul 2025** | By consent (further to Respondent's 15 Jul correspondence): Respondent SOFC by 23 Jul 2025; Appellant witness list + outline by 13 Aug 2025; Respondent's by 3 Sep 2025 | 2025-07-16 16:33 +10 |
+| Directions Order | **22 Aug 2025** | Further to **the Appellant's own correspondence of 21 Aug 2025**, by consent: AFDO-2 of 16 Jul 2025 **vacated** | 2025-08-25 10:21 +10 |
+| Further Directions Order | **7 Apr 2026** | After the 7 Apr 2026 mention: Appellant leave to file amended SOFC (same form as 7 Apr draft) by 8 Apr 2026; Respondent amended SOFC by 13 May 2026; further mention not before 13 May 2026 | 2026-04-08 09:28 +10 |
+| Notice of Listing (docx) | issued **7 May 2026** | Mention 10:00 AM **22 May 2026**, Level 21, 66 Eagle St, Commissioner Dwyer | — |
+
+### Appellant filings (`filings/`)
+
+| File | What it is | Notes / metadata |
+|---|---|---|
+| `2025-08_Form35_Withdrawal_of_Saines_Legal_Paul_Conrad.pdf` | Form 35 — Appellant withdraws the appointment of **Saines Legal / Paul Conrad** (self-representation) | No Info-dict metadata; export filename timestamp 2025-08-22. **Tension with the record's "self-rep since ~9 Feb 2026" — see confirmed-record flag** |
+| `2026-02-25_Supplementary_Form4.pdf` | Form 4 application in existing proceedings (ss 536, 539, 541, 545, 580 IR Act; rr 8, 49, 64C, 64D, 64E, 64F, 226), unstamped copy | scanned, no text layer |
+| `2026-02-25_Supplementary_Affidavit_Form20.pdf` | Form 20 affidavit supporting the above, unstamped | — |
+| `2026-02-26_Supplementary_Affidavit_stamped.pdf` | Form 20 supplementary affidavit of Cory Shepherd — **Industrial Registrar stamp 26 FEB 2026** | scanner title "SLibrary Sc260225…" |
+| `2026-02-27_Form4_Application_Disclosure_stamped.pdf` | Form 4 — Application (Disclosure) — **stamped 27 FEB 2026** | KONICA C658, 2026-02-27 11:31 (+09:30 device TZ) |
+| `2026-02-27_Affidavit_for_Form4_Disclosure_stamped.pdf` | Form 20 affidavit for the Disclosure Form 4 — **stamped 27 FEB 2026** | KONICA C658, 2026-02-27 11:30 (+09:30 device TZ) |
+
+### Review Decision and costs agreement
+
+| File | Facts |
+|---|---|
+| `Review_Decision_69983_24.10.2024.pdf` | 28 pp, ref 69983, insurer ref S23LW142013. Review application received **16 Sep 2024**; review decision **22 Oct 2024**; reasons dated **24 Oct 2024** — confirms WorkCover rejection under s 32. Conclusion (pp 26–27): psychiatric injury sustained; employment significant contributing factor via factors 2–4; factors 2–3 reasonable management action; **factor 4 (the 17–18 Mar 2024 rostering) UNREASONABLE management action "in direct contradiction to the award and the 8-hour agreement"**; global evaluation per *Delaney v Q-COMP* → injury "mainly arose out of" reasonable management action → s 32(5) enlivened. Records the **8-hour agreement signed 17 June 2020**; employer response 6 Sep 2024 (pay period 20 from 4 Mar 2024; 15-min late arrival 17 Mar; no mention of the 18 Mar shift); Cory's response 9 Aug 2024. **PDF Author field: "HopgoodGanim Lawyers"**; created 2024-10-24 15:38Z (iOS Quartz re-save) |
+| `2024-11-26_Saines_Cost_Agreement.pdf` | Saines Legal costs agreement, letter dated **26 Nov 2024**, ref BH:FG:147637, re "Corey's Appeal against the Review of his Workcover claim and his application for reinstatement". PDF Author **Zach Joubert**, created 2024-11-28 (iOS Quartz, append-mode saves) |
+
+### Correspondence (`correspondence/`) + provenance (`provenance/`)
+
+- `2026-03-05_Listing_correspondence_27Feb_mention.msg`: chain — Notice of listing for a **26 Feb 2026 mention**; Matheson 17 Feb 2026 11:51 AM requests rescheduling (Counsel before DP Hartigan); Cory consents to **Fri 27 Feb 2026 (PM)** while expressly reserving the **r 49(2)** clock: **Form 24 served 11 Feb 2026, receipt confirmed 12 Feb 2026**; consent "does not constitute an agreement to an enlargement of time"; facts not disputed by the statutory deadline "stand admitted by default".
+- `2026-03-05_Notice_of_Amended_Listing.msg`: Registry automated notice of amended listing (attachment within the .msg).
+- Quatrix screenshots (15 Jul 2025): OIR portal inbox — shares incl. "WC/2024/227 — Disclosure and Request for extension"; "Re-Sending File — Information Release Review 69983" (event info: **16 Apr 2025 10:17**, public link, no PIN); the re-sent 69983 letter dated 16 Apr 2025; "Admin Release — Release to Applicant".
+- `provenance/`: Cory's QIRC mailbox export manifest (**159 items**, run 2026-05-14 22:47, filter "QIRC", with received-timestamps, sender addresses, Internet message-IDs and **SHA-256 per file**) — the provenance layer for the `YYYYMMDD_HHMM__` filenames across this folder.
+
+### The Form 24 response — `2026-02-18_Form24_Response_and_email_communication.pdf`
+
+13 pp. The Regulator's response to the Notice to Admit Facts: **dated 18/02/2026**,
+contact Renee Matheson (with email communication appended). PDF metadata: Author
+**Stephen Gray**, Adobe PDF Library 25.1.192, created 2026-02-18 03:05:31 UTC
+(1:05 PM AEST). Served within the r 49(2) window (Form 24 served 11 Feb;
+day 14 = 25 Feb). Spot-verified against `confirmed-record.md` pinpoints:
+¶34 "de novo… for the Commission" ✓; ¶23 Form 29 Registry-signed 4 July 2025 ✓;
+¶33 Hawes certificate signed 8 September 2024 ✓; ¶39 "the roster was
+equitable" ✓ — the source document for the Form 24 schedule is now IN this repo
+(the filing checklist's pinpoint verification can be run against it directly).
+
+### Evidence (`evidence/`)
+
+- `Individual_monthly_stats_April2025.xlsx` — switchboard individual monthly stats, sheet "APRIL 2025" (columns: Staff, Shift Start/Finish, Calls Taken, Call Share, Call Difference, % Taken, Month to Date; row "Cory"). xlsx core properties: **creator/lastModifiedBy Sonya Willmann**, created 2024-09-02, modified 2025-05-06. Load-profile anchor (evidence sub-skill) — do not send to the Regulator pre-emptively.
+
+---
+
 ## Part 4 — Inferences (NOT extracted fact — keep out of filings as assertion)
 
 1. **Which 4 pages were in the 6 May revision:** almost certainly pages 1–4

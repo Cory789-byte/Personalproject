@@ -48,6 +48,21 @@ top). Keep the verified/working-theory separation absolute.
 | `Outlook_Document99.pdf` | Email chain print (Cory, 6 Jun 2026): Ruttan's 5 June 15:02 objection-service email + the QIRC Registry 22 May 1:45 PM direction (Dwyer's chambers; MSH non-attendance at the mention; objections due 5 June 4 PM) | 6 Jun 2026 |
 | `Prizeman_v_QComp_2005_QIC_53.pdf` | Authority: *Prizeman v Q-COMP* [2005] QIC 53 (BarNet Jade export 7 Jun 2026; reference only — v5 strips all case law per instruction) | 2005 |
 
+## Batch 2 (integrated 11 June 2026) — subfolders
+
+Full detail per file in `documents/METADATA_REGISTER.md` Part 3A.
+
+| Path | Contents |
+|---|---|
+| `documents/orders/` | Directions orders 3 Jun 2025, 16 Jul 2025 (AFDO-2), 22 Aug 2025 (vacating AFDO-2), 7 Apr 2026 + Notice of Listing for the 22 May 2026 mention |
+| `documents/filings/` | Form 35 (withdrawal of Saines Legal / Paul Conrad); supplementary Form 4 + Form 20 affidavits (stamped 26 Feb 2026); Form 4 Disclosure application + affidavit (stamped 27 Feb 2026) |
+| `documents/2026-02-18_Form24_Response_and_email_communication.pdf` | **The Form 24 response** (dated 18/02/2026; the source for the confirmed-record schedule — pinpoint verification can run against it) |
+| `documents/Review_Decision_69983_24.10.2024.pdf` | The keystone Review Decision (factor-4 unreasonableness finding; *Delaney* global evaluation; s 32(5)) |
+| `documents/2024-11-26_Saines_Cost_Agreement.pdf` | Saines Legal costs agreement (ref BH:FG:147637) |
+| `documents/correspondence/` | Feb→Mar 2026 listing .msg chain (Form 24 service dates; the 26→27 Feb mention reschedule); Quatrix portal screenshots (Review 69983 re-send 16 Apr 2025) |
+| `documents/evidence/` | `Individual_monthly_stats_April2025.xlsx` — switchboard call stats (load-profile anchor; author Sonya Willmann) |
+| `documents/provenance/` | Cory's QIRC mailbox export manifest (159 items, SHA-256 per file) + export log — provenance for the `YYYYMMDD_HHMM__` filenames |
+
 ## drafts/
 
 | File | Status |

@@ -1,0 +1,151 @@
+
+=== 2026-05-14T22:47:33  QIRC advanced-search export ===
+OUT_DIR: C:\Users\corys\OneDrive\001 - QIRC
+FILTER: @SQL="urn:schemas:httpmail:subject" ci_phrasematch 'QIRC' OR "urn:schemas:httpmail:textdescription" ci_phrasematch 'QIRC' OR "urn:schemas:httpmail:fromname" ci_phrasematch 'QIRC' OR "urn:schemas:httpm...
+
+=== STORE: coryshepherd1@hotmail.com ===
+  \\coryshepherd1@hotmail.com\Deleted Items  hits=1
+    saved: 20260305_1945__image003.png  <- Fw: URGENT [STRICTLY CONFIDENTIAL] WC/2024/227 – Notice of M
+  \\coryshepherd1@hotmail.com\Inbox  hits=85
+    saved: 20260513_1557__image001.png  <- WC/2024/227 - Cory Shepherd v Workers Compensation Regulator
+    saved: 20260513_1557__WC.2024.227 Shepherd - Regulator Statement of facts and contentions 13.05.2026.pdf  <- WC/2024/227 - Cory Shepherd v Workers Compensation Regulator
+    saved: 20260513_1334__img-f6f5945e-e351-419e-af14-97265df6b962  <- Re: APPOINTMENT Cory Shepherd
+    saved: 20260507_1557__image002.png  <- WC/2024/227 - Shepherd, Cory Lea
+    saved: 20260507_1557__260507 WC227[2024] Notice of Listing for 22.05.26.docx  <- WC/2024/227 - Shepherd, Cory Lea
+    saved: 20260507_1552__image004.png  <- RE: KLM26/729; QIRC Matter WC/2024/227 – Cory Lea Shepherd v
+    saved: 20260507_1552__image005.png  <- RE: KLM26/729; QIRC Matter WC/2024/227 – Cory Lea Shepherd v
+    saved: 20260507_1552__image006.png  <- RE: KLM26/729; QIRC Matter WC/2024/227 – Cory Lea Shepherd v
+    saved: 20260507_1552__image007.png  <- RE: KLM26/729; QIRC Matter WC/2024/227 – Cory Lea Shepherd v
+    saved: 20260501_1628__WC2024-227_Outline_of_Submissions-1.pdf  <- Re: KLM26/729; QIRC Matter WC/2024/227 – Cory Lea Shepherd v
+    saved: 20260430_1600__260422 WC227[2024] [A] Notice of non-party disclosure (Metro South Hospital & Health Service).pdf  <- FW: KLM26/729; QIRC Matter WC/2024/227 – Cory Lea Shepherd v
+    saved: 20260423_1342__image001.png  <- Re: QIRC Matter WC/2024/227 – Cory Lea Shepherd v Workers’ C
+    saved: 20260413_1018__image001.png  <- RE: Party:195438787 Claim:CLM-317073
+    saved: 20260413_1018__image002.jpg  <- RE: Party:195438787 Claim:CLM-317073
+    saved: 20260408_1059__260407 WC227[2024] Further Directions Order (2).pdf  <- WC/2024/227 – Cory Lea Shepherd v Workers' Compensation Regu
+    att err: 'charmap' codec can't encode character '\u200b' in position 79: character maps to <undefined>
+    att err: 'charmap' codec can't encode character '\u200b' in position 67: character maps to <undefined>
+    att err: 'charmap' codec can't encode character '\u200b' in position 76: character maps to <undefined>
+    att err: 'charmap' codec can't encode character '\u200b' in position 76: character maps to <undefined>
+    att err: 'charmap' codec can't encode character '\u200b' in position 81: character maps to <undefined>
+    saved: 20260331_1605__WComp01-WCompNoticeofListing -_0.docx  <- WC/2024/227 - Cory Shepherd v Workers' Compensation Regulato
+    saved: 20260325_1110__WComp01-WCompNoticeofListing -_0.docx  <- Notice of Listing for WC/2024/227.
+    saved: 20260320_1714__Workers_Compensation_Guide (1).pdf  <- RE: WC/2024/227 – Appellant’s Update Pursuant to s552A Confe
+    saved: 20260310_1052__WComp01-WCompNoticeofListing -_0.docx  <- WC/2024/227 - Cory Shepherd v Workers' Compensation Regulato
+    saved: 20260304_1745__Retainer Cory Lea Shepherd.pdf  <- Retainer Cory Lea Shepherd
+    saved: 20260304_1745__Form 1 Legal Disclosure Notice.pdf  <- Retainer Cory Lea Shepherd
+    saved: 20260304_1745__New Retainer - (Simple Signature) To Accompany.pdf  <- Retainer Cory Lea Shepherd
+    saved: 20260304_1745__Sibley Lawyers - Brochure Criminal Proceedings in the District or Supreme Court.pdf  <- Retainer Cory Lea Shepherd
+    saved: 20260304_1745__Sibley Lawyers  - Brochure - Criminal Proceedings in the Magistrates Court.pdf  <- Retainer Cory Lea Shepherd
+    saved: 20260302_1159__WComp01-WCompNoticeofListing -_0.docx  <- Notice of Listing for WC/2024/227.
+    saved: 20260227_1126__WC2024227_MINUTE ORDER_DISCOVERY.pdf  <- Subject: DRAFT MINUTE OF PROPOSED ORDER & NEW EVIDENCE – WC/
+    saved: 20260227_1126__Evidence_OIR_ESU_Outcome_Ref_4822_23Feb2026.pdf  <- Subject: DRAFT MINUTE OF PROPOSED ORDER & NEW EVIDENCE – WC/
+    saved: 20260227_1126__Evidence_WCRS_Manager_Issue_4712_23Feb2026.pdf  <- Subject: DRAFT MINUTE OF PROPOSED ORDER & NEW EVIDENCE – WC/
+    saved: 20260227_1117__260227 WC227[2024] [A] Form 4 Application (Disclosure).pdf  <- WC/2024/227 - Shepherd, Cory Lea
+    saved: 20260227_1117__260227 WC227[2024] [A] Affidavit (for Form 4 Application - Disclosure).pdf  <- WC/2024/227 - Shepherd, Cory Lea
+    saved: 20260226_1608__image002.png  <- RE: Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepher
+    saved: 20260226_1608__image003.png  <- RE: Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepher
+    saved: 20260225_1444__260225 WC227[2024] [A] Supplementary Application in existing proceedings.pdf  <- WC/2024/227 - Shepherd, Cory Lea
+    saved: 20260225_1444__260225 WC227[2024] [A] Supplementary Affidavit of Cory Shepherd.pdf  <- WC/2024/227 - Shepherd, Cory Lea
+    saved: 20260225_1406__Without Prejudice Save as to Costs – WC2024227.pdf  <- Subject: URGENT REMINDER: EXPIRY OF CALDERBANK OFFER / WC/20
+    saved: 20260225_1341__image003.png  <- Subject: NOTICE OF STRUCTURAL BIAS & REJECTION OF INTERNAL P
+    saved: 20260225_1324__WC202422SUPPLEMENTARY AFFIDAVIT FORM 20.pdf  <- Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepherd v 
+    saved: 20260225_1324__WC2024227 supplementary form 4.pdf  <- Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepherd v 
+    saved: 20260225_1324__WC2024227_EXHIBIT H1pdf.pdf  <- Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepherd v 
+    saved: 20260224_1337__WComp02-WCompNoticeofAmendedLi_0.docx  <- WC/2024/227 - Cory Shepherd v Workers' Compensation Regulato
+    saved: 20260223_1326__Exhibit A5 (Annotated Footer).pdf  <- Issue 4712: Complaint by Cory Shepherd
+    saved: 20260223_1326__Exhibit E3 (PID Determination).pdf  <- Issue 4712: Complaint by Cory Shepherd
+    saved: 20260223_1326__HI (Matheson email).pdf  <- Issue 4712: Complaint by Cory Shepherd
+    saved: 20260223_1326__OIR Customer complaints and grievance management policy v1.1.docx  <- Issue 4712: Complaint by Cory Shepherd
+    saved: 20260223_1326__OIR Customer complaints management procedure v1.1.docx  <- Issue 4712: Complaint by Cory Shepherd
+    saved: 20260219_1011__Outlook-vh1gsool.png  <- Re: RE URGENT: Requesting for Access to Correspondence/Relea
+    saved: 20260218_1318__WC.2024.227 Shepherd v WCR - REG Response to APP Notice to admit - 18.02.2026.pdf  <- WC/2024/227 - Cory Shepherd v Workers' Compensation Regulato
+    saved: 20260218_1201__WComp02-WCompNoticeofAmendedLi_0.docx  <- Notice of Amended Listing for WC/2024/227.
+    saved: 20260218_0944__Without Prejudice Save as to Costs – WC2024227.pdf  <- Subject: Without Prejudice Save as to Costs – WC/2024/227
+    saved: 20260217_1051__WComp01-WCompNoticeofListing -_0.docx  <- Re: WC/2024/227 - Cory Shepherd v Workers' Compensation Regu
+    saved: 20260217_1009__WComp01-WCompNoticeofListing -_0.docx  <- Notice of Listing for WC/2024/227.
+    saved: 20260212_1622__image001.png  <- RE: WC/2024/227 – Service & Carriage ES to CS 12/02/2026
+    saved: 20260212_0801__WC2024227_E1-LTR PART 2 PAGES 266-381  <- ADDITIONAL PAGES Re: EMAIL PT 3 Re: URGENT FILING: WC/2024/2
+    saved: 20250901_0935__image001.png  <- RE: WC/2024/227 – Cory Lea Shepherd v Workers' Compensation 
+    saved: 20250901_0935__image003.png  <- RE: WC/2024/227 – Cory Lea Shepherd v Workers' Compensation 
+    saved: 20250901_0935__Form 35 – Notice of withdrawal of appointment of lawyer or agent (Draft to Be Signed).pdf  <- RE: WC/2024/227 – Cory Lea Shepherd v Workers' Compensation 
+    saved: 20250825_1051__250822 WC227[2024] Directions Order.pdf  <- WC/2024/227 – Cory Lea Shepherd v Workers' Compensation Regu
+    saved: 20250824_2012__image001.png  <- FINAL REMINDER: Qld Health EB12 - Protected Action Ballot
+    saved: 20250822_1137__(To be signed) Form 35 - Notice of withdrawal of appointment of lawyer - Shepherd v Workers' Compensation Regulator.pdf  <- FW: WC/2024/227 – Cory Lea Shepherd v Workers' Compensation 
+    saved: 20250820_1236__URGENT - Request for Temporary Stay of Proceedings - WC2024227 IMPORTANCE- HIG.pdf  <- RE: WC/2024/227 - Cory Shepherd v Workers' Compensation Regu
+    saved: 20250820_1117__250716 WC227[2024] Amended Further Directions Order (2).pdf  <- WC/2024/227 - Cory Shepherd v Workers' Compensation Regulato
+    saved: 20250729_1630__Form 35 – Notice of withdrawal of appointment of lawyer or agent.pdf  <- RE: Termination of retainer and account - Saines Legal 
+  \\coryshepherd1@hotmail.com\Sent Items  hits=49
+    saved: 20260512_1109__Screenshot_20260512_094559_OneDrive.jpg  <- Re: APPOINTMENT Cory Shepherd
+    saved: 20260512_1109__Conciliation date _ Your QHRC Complaint _ EDR19098.eml  <- Re: APPOINTMENT Cory Shepherd
+    saved: 20260422_1609__FORM 29 C.SHEPHERD WC2024227.pdf  <- Filing of Form 29 — WC/2024/227 — Cory Lea Shepherd v Worker
+    saved: 20260305_2020__WC2024227_FORM_24 C Shepherd.pdf  <- Notice to admit form 24 - Response to notice to admit 
+    saved: 20260305_2012__Notice of Amended Listing for WC2024227.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__WC2024227 - Shepherd Cory Lea.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__Subject NOTICE OF STRUCTURAL BIAS  REJECTION OF INTERNAL PROCESS  WC2024227.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__WC2024227 - Cory Shepherd v Workers' Compensation Regulator.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__RE ADDITIONAL PAGES Re EMAIL PT 3 Re URGENT FILING WC2024227  Shepherd v Workers' Compensation Regulator PART 1 EMAIL.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__Subject URGENT REMINDER EXPIRY OF CALDERBANK OFFER  WC2024227.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__Re WC2024227  Cory Lea Shepherd v Workers' Compensation Regulator.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__Re WC2024227 - Cory Shepherd v Workers' Compensation Regulator - Notice of listing.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__URGENT FILING WC2024227  Shepherd v Workers' Compensation Regulator PART 1 EMAIL.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__Re WC2024227 - Cory Shepherd v Workers' Compensation Regulator - Notice of listing_1.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__WC2024227_FORM 4_FORM 20_LEGAL FRAMEWORK_CShepherd.pdf  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260305_2012__Notice of Listing for WC2024227.msg  <- Fw: Notice of Amended Listing for WC/2024/227.
+    saved: 20260304_2005__C.SHEPHERD RETAINER SIGNATURE RETURN.pdf  <- Re: Retainer Cory Lea Shepherd
+    saved: 20260227_0635__WC2024227_EXHIBIT_H1_MATHERSON COMMUNICATION_RESCANpdf.pdf  <- Re: Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepher
+    saved: 20260227_0635__WC2024227_FORM 4_SUPPORTING_RESCANpdf.pdf  <- Re: Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepher
+    saved: 20260227_0635__WC2024227_FORM 20_SUPPORTING_AFFIDAVIT_RESCANpdf.pdf  <- Re: Subject: URGENT FILING & SERVICE – WC/2024/227 – Shepher
+    saved: 20260211_1509__05 WC2024227_E1-LTR.pdf  <- EMAIL PT 2 Re: URGENT FILING: WC/2024/227 – Shepherd v Worke
+    saved: 20260211_1501__01 Filing Notice_ Self-Representation & Urgent Applic.PDF  <- URGENT FILING: WC/2024/227 – Shepherd v Workers' Compensatio
+    saved: 20260211_1501__04 WC2024227_A1_D3 V.pdf  <- URGENT FILING: WC/2024/227 – Shepherd v Workers' Compensatio
+    saved: 20250826_1532__9c response WC.2024.227 Shepherd - Respondent Statement of Facts and Contentions.pdf  <- Ref: 6569064 Shepherd
+    saved: 20250826_1532__Review Decision 69983 (1).pdf  <- Ref: 6569064 Shepherd
+    saved: 20250826_1532__WC.2024.227 Shepherd - Disclosure from Qld Health Payroll.pdf  <- Ref: 6569064 Shepherd
+    saved: 20250814_1600__Draft email for legal review Commissioner Dwyer.docx  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__Respondant-Self-Defeat.pdf  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__Fatigue qh-pol-171.pdf  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__Draft for legal review A09-Form-9C-Contradictions.docx  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__Draft for legal review and attachment to be placed A15-Mind-Memory-Report-EXCLUSION.docx  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__Draft for legal review LSC-Complaint-Form.docx  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__Legal review and adjustments A24-Costs-Calculation-Rogers.docx  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__submission sainsindex.pdf  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__roster and pay 3 WhatsApp Image 2025-08-14 at 12.28.39_c7973318.jpg  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__roster 2 WhatsApp Image 2025-08-14 at 12.23.00_4764aa0e.jpg  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__roster and pay WhatsApp Image 2025-08-14 at 12.28.38_9b775600.jpg  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__roster WhatsApp Image 2025-08-14 at 12.22.59_bacfc274.jpg  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250814_1600__Form 9A - Appellant's Statement of Facts & Contentions - Cory Lea Shepherd v Workers' Compensation Regulator.pdf  <- Fw: Complex Workers' Compensation Strike-Out Application - W
+    saved: 20250715_1246__image003.png  <- Re: Quatrix: WC/2024/227 - Cory Shepherd v WCR - Disclosure 
+    saved: 20250715_1246__IMG_1848.jpeg  <- Re: Quatrix: WC/2024/227 - Cory Shepherd v WCR - Disclosure 
+    saved: 20250715_1246__IMG_1849.jpeg  <- Re: Quatrix: WC/2024/227 - Cory Shepherd v WCR - Disclosure 
+    saved: 20250715_1246__IMG_1850.jpeg  <- Re: Quatrix: WC/2024/227 - Cory Shepherd v WCR - Disclosure 
+    saved: 20250604_1511__image001.png  <- Re: WC/2024/227 – Cory Lea Shepherd v Workers' Compensation 
+  \\coryshepherd1@hotmail.com\Archive\Notification  hits=1
+  \\coryshepherd1@hotmail.com\E1 Missing Emails - Forensic Gaps  hits=1
+    saved: 20251010_1517__image001.png  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+    saved: 20251010_1517__image002.png  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+    saved: 20251010_1517__image003.png  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+    saved: 20251010_1517__image004.png  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+    saved: 20251010_1517__image005.png  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+    saved: 20251010_1517__image006.png  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+    saved: 20251010_1517__(ROSTER 1) - Original Proposal for Switch Roster.xlsx  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+    saved: 20251010_1517__(ROSTER 2) - Amended Proposal for Switch Roster.xlsx  <- ATTN: Logan Switchboard Members - Additional Vote for Logan 
+  \\coryshepherd1@hotmail.com\Marketing  hits=1
+  \\coryshepherd1@hotmail.com\QIRC appeal\LEGAL EMPLOYMENT\SAINS LEGAL  hits=4
+    saved: 20250604_1428__250603 WC227[2024] Amended Further Directions Order.pdf  <- FW: WC/2024/227 – Cory Lea Shepherd v Workers' Compensation 
+  \\coryshepherd1@hotmail.com\Drafts  hits=16
+    saved: 20260311_1128__image004.jpg  <- Fw: WC/2024/227 – Cory Lea Shepherd v Workers' Compensation 
+    saved: 20260306_0601__image001.png  <- Fw: MAG-00100263/25(4):   SHEPHERD v QPS BREACH NOTICE 
+    saved: 20250220_1329__image003.png  <- Re: Your Employment Law Matter - Return to Work
+    saved: 20250220_1329__image004.png  <- Re: Your Employment Law Matter - Return to Work
+    saved: 20250212_1323__image001.jpg  <- Re: Your employment dispute cases
+    saved: 20250212_1323__image002.png  <- Re: Your employment dispute cases
+    saved: 20250212_1323__image003.png  <- Re: Your employment dispute cases
+    saved: 20250212_1323__image004.png  <- Re: Your employment dispute cases
+    saved: 20250212_1323__image005.png  <- Re: Your employment dispute cases
+    saved: 20250212_1323__image006.png  <- Re: Your employment dispute cases
+    saved: 20250212_1323__image007.png  <- Re: Your employment dispute cases
+    saved: 20250212_1323__Cost Agreement - Litigation to Mr Cory Shepherd.pdf  <- Re: Your employment dispute cases
+    saved: 20250206_1656__image002.png  <- Re:   Workers’ Compensation Regulator ats Cory Lea Shepherd 
+    saved: 20250206_1656__image003.png  <- Re:   Workers’ Compensation Regulator ats Cory Lea Shepherd 
+
+Done. Saved 135 attachments. Manifest rows: 159
