@@ -37,6 +37,19 @@
 
 ## 3. Motive of Renee Matheson's 11 June disclosure (confidence: individual self-protection ~dominant)
 
+> **UPDATE 11 June 2026 — timing refinement (theory, but anchored to extracted
+> facts):** "never identified" stopped being a safe assumption the moment MSH
+> objected (5 June) asserting Item 20 documents "do not exist" while the
+> Regulator held responsive internal MSH correspondence (container 6 May).
+> Once the 64G compelled production, anything MSH produced became comparable
+> against the Regulator's file — a dated, provable hold. The 5–12 June window
+> was the last moment disclosure could read as voluntary discharge rather than
+> compelled surrender; the 11 June 10:56 re-save (appending the email prints,
+> 7 minutes before sending) is consistent with a same-morning decision about
+> exactly what to put on the record before the application landed. Disclosure
+> also moved the Regulator to the right side of the foreseeable verification-
+> affidavit contradiction before MSH swore anything.
+
 **Theory:** Matheson disclosed primarily to clear her OWN professional position before Cory's 64G could implicate her — the continuing disclosure duty and model-litigant obligation are personally hers, and she has direct experience (the Feb application) that Cory attacks disclosure conduct. Not goodwill toward Cory (price none); not coordination with MSH against him (the no-CC to MSH and the metadata cut against it). The careful provenance clause is an experienced officer being accurate-but-careful.
 
 **Operational consequence:** she will answer a *written* request because not answering recreates the exposure she just moved to avoid. The index email works on her specifically.

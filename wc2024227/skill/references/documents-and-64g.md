@@ -19,10 +19,10 @@ The Appellant bears the onus of establishing the injury within s 32 — that emp
 
 ## The 64G application — v5 (current filing version)
 
-**Files in `/mnt/user-data/outputs/`:**
-- `WC2024-227_Rule64G_FILING_v5_FINAL.pdf` — THE LODGEMENT DOC (8 pp: 5 prose + Schedule A + Annexure B + headed Annexure C).
-- `WC2024-227_Rule64G_Application_v5_NOCASELAW.docx` — editable master.
-- `WC2024-227_Rule64G_Draft_Order.pdf` / `.docx` — separate 1-page draft order.
+**Files (UPDATED 11 June 2026 — the original `/mnt/user-data/outputs/` v5 files were never recovered; the application was rebuilt as v5R in the repo):**
+- `wc2024227/drafts/WC2024-227_Rule64G_FILING_v5R_FINAL.pdf` — THE LODGEMENT DOC (7 pp A4: Sections A–J + Schedule A + Annexure B + headed Annexure C). Validated 33/33 against the in-repo Form 24 response; see `drafts/VALIDATION_REPORT_v5R.md`.
+- `wc2024227/drafts/WC2024-227_Rule64G_Application_v5R_NOCASELAW.docx` — editable master (body; Annexure C merged in the PDF).
+- `wc2024227/drafts/WC2024227_Rule64G_Draft_Order.pdf` / `.docx` — separate 1-page draft order (original v5 output, recovered).
 
 **v5 changes from v4.2:** all case law stripped (Robson removed; standard stated as rule-text); full-scale Section G added (the 11 June disclosure argument); onus corrected to Appellant; Annexure C headed and trimmed to the single McGinley page. Sections A–J continuous. ~7 pages accepted.
 
