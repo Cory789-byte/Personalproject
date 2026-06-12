@@ -31,9 +31,16 @@
 - The **McGinley email (16 May 2024) was never addressed to Cory** (To: Reese, Tracey Smith; Cc: Punch, Pritchard, McNamee) — so it cannot have come from Cory; an MSH-side custodian supplied it. **Provenance kill-shot for the conferencing channel.**
 - MSH enclosures: Leave Takings Report generated 8 May 9:53 AM by operator 105777; leave form printed by "Renee Dawson" 25 May 1:06 PM (edited ~2 hrs later); myHR report printed by Ruttan 29 May FROM AN .xlsx (native exists); Role/AVAC prints 2 June; MSH letter created 5 June 2:57 PM, internal title "Attachment 4… Letter to Court response to Non production order Shepherd FINAL" (attachments 1–3 exist somewhere); Cridland signature 2:54, served 3:02.
 
+**RESOLVED 12 June 2026 — MSH "For disclosure" folder metadata (Shepherd_1.zip); full forensic timeline in `documents/disclosure-2026-06_MSH_production/METADATA_FORENSIC_TIMELINE.md`:**
+- **"Renee Dawson" is MSH-side** — dc:creator of Cory's leave-form PDF (Item 11), created 25 May 13:06, modified 25 May 15:09. The unknown name is resolved: an MSH custodian who handled the leave record after the 22 May direction. (NO assumed link to Renee Matheson — different surname, MSH vs Regulator.)
+- **operator 105777 is a myHR/SAP operator ID**, not a person — sole artifact is the 8 May Leave Takings Report export (PDF Engine winx64h). The early artifact, in the Form 29 window.
+- **Myla Ruttan** assembled the package by Print-To-PDF, 29 May–2 June.
+- **TRIM/Content Manager marker (3 June) confirms records-system provenance** — the production was exported from a managed records system, which strengthens the "production is frictionless" limb (asymmetry reply, reserve).
+- **Assembly window 25 May–4 June** (after the direction), except the 8 May export — corroborates and sharpens the two-stream model. Redacted Items 12/16 added last (2–4 June) with all metadata flattened.
+
 **Inferences (LOWER confidence — do not assert):**
 - That the searches were complete by early May and the file then "slept" until the direction. (Plausible; print dates prove package-assembly timing, not search timing — but the early artifacts carry the search-date burden.)
-- "Renee Dawson" identity is UNKNOWN — do not assume any connection to anyone. Target of the IP access-log request.
+- "Renee Dawson" — RESOLVED as MSH-side custodian (see 12 June update above); still a target of the IP/access-log request for the 25 May edit session, but no longer an unknown.
 
 ## 3. Motive of Renee Matheson's 11 June disclosure (confidence: individual self-protection ~dominant)
 
