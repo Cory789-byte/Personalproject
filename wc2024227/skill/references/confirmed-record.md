@@ -117,6 +117,13 @@
 - **TD/2024/110 — separate QIRC matter:** Form 12 Application for reinstatement, stamped **25 Oct 2024**, Shepherd v **Queensland Health Logan Hospital** (34 pp corrected copy in `documents/related-matters/`). Covered by the Saines costs agreement. Parallel track — keep out of WC filings.
 - **Text-message evidence** ("Chloe Work", incl. 4 Apr 2023 roster-board photo) in `documents/evidence/`.
 
+## The MSH 5 June objection (source: the letter itself — `documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf`)
+
+- 5 pp, ref K-LM26/729, signed Noelle Cridland (CE); PDF author Myla Ruttan, created 5 Jun 2026 2:57 PM, served 3:02 PM. Enclosures: items 6, 11, 12, 13, 15, 16.
+- Complied: 6, 11, 12 (audit trail; balance objected on privacy/effect), 13, 15, 16. Non-existence/cannot-comply: 1–2 (SPOK upgrade, not retained; MET-call spreadsheet for 17–18 Mar 2024 identified), 3(c), 4, 5 (**FRMS assessment at Switchboard implemented only "after 30 June 2024"**), 7, 14 (no QH device to LM; personal mobile; QH device issued "in or around the third quarter of 2024"), 20 (PID 24-ESU-1130 "commenced in November 2024", outside 13–31 May window). Objections: 3(a)/3(b)/10 expense (CE approval + eHealth + health-care diversion formula); 8 expense + particularity (the expense text repeats the email-search wording); 9 relevance/particularity/effect (Switchboard collocated; no dedicated swipe); 17 privacy (64E(4)(e)); 18 irrelevance — destruction "appears to have already been conceded"; 19 expense + effect (20,006 MOHRI headcount), **with MSH's own narrowing proposal on p 5** (17–18 Mar; LM/Director/HR recipients) — adopted as the application's Schedule A row 6.
+- Preliminary point: MSH states it is **"not in receipt of" the Amended Form 9A** → serve a courtesy copy with the application.
+- Restates the matter in issue as "consecutive shifts of 17 to 18 March 2024" (verbatim) — the confined reading Section D answers.
+
 ## Key dates locked
 
 - PID complaint to ESU: **13 May 2024** (source: PID form).

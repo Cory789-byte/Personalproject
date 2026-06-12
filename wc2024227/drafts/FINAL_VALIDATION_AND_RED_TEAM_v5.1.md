@@ -83,3 +83,37 @@ Phone 0417 400 227; email coryshepherd1@hotmail.com. Dated 12 June 2026.
 
 **VERDICT: lodge.** (Remaining human-only check: none — Schedule A has now been verified
 against the Form 29 as served, in full.)
+
+---
+
+## ADDENDUM (12 June, pre-lodgement) — Section 4 closed: the MSH letter verified
+
+The 5 June letter itself was obtained and filed
+(`documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf`, 5 pp; Author
+Myla Ruttan; created 5 Jun 2026 2:57 PM; signed Noelle Cridland, CE). Every
+application recital about the letter verified against it — 16/16, including
+verbatim: the "consecutive shifts of 17 to 18 March 2024" restatement; the
+CE-approval / eHealth / health-care-diversion expense formula; the Items 1–2
+SPOK non-retention + MET-spreadsheet identification; Item 8's particularity
+ground; Item 9's collocated-office/no-dedicated-swipe clarification; Item 14's
+personal-device answer (QH device "in or around the third quarter of 2024");
+Item 18's conceded-on-the-pleadings ground; the Item 19 narrowing proposal
+(on page 5, adopted as Schedule A row 6 in MSH's own terms); Item 20's
+November-2024 PID-reference explanation; the enclosure list (= the complied
+items 6, 11, 12, 13, 15, 16). The C-section three-way map is exact.
+
+New facts from the letter (for the record, not the application):
+1. **MSH's preliminary point: it is "not in receipt of" the Amended Form 9A**
+   and says its relevance assessment was limited. → At service, include a
+   courtesy copy of the Amended Form 9A with the application — it moots their
+   only procedural-fairness complaint at no cost.
+2. **Item 8's expense paragraph is a copy-paste of the email-search ground**
+   ("review and search individual staff member email accounts") — facially
+   inapposite to an AD/Entra sign-in export. Leave for Dwyer to discover.
+3. **Item 5 answer concedes FRMS assessment at Switchboard was implemented
+   only "after 30 June 2024"** — structural-FRMS-vacuum confirmation;
+   evidence-in-chief track, not the 64G.
+4. MSH headcount figure for the Item 19 burden claim: "20,006 MOHRI occupied
+   headcount."
+
+**There is now no unverified recital in the application.**
