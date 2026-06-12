@@ -117,3 +117,36 @@ New facts from the letter (for the record, not the application):
    headcount."
 
 **There is now no unverified recital in the application.**
+
+---
+
+## ADDENDUM 2 (12 June) — rule-by-rule citation audit against the Rules as in force
+
+Every rule citation verified against the Industrial Relations (Tribunals)
+Rules 2011 (current, legislation.qld.gov.au) and the official QIRC form
+texts. Verified correct: 64B(1) (production within 14 days; directly
+relevant/possession/producible), 64B(2) ("another reasonably simple and
+inexpensive way"), 64C(1)(a) (notice must state the matter in issue),
+64E(1) (objection within 7 days or later with leave), 64E(4)(a)–(g)
+grounds as attributed per item, 64F (objection stays the notice), 64G(1)
+(apply within 7 days), 64G(2) (any order incl. lift/vary/set aside),
+64G(3) (own costs unless otherwise ordered), 64I (reasonable expenses;
+1-month notice). The QIRC WC Appeal Guide confirms de novo conduct and
+Appellant onus. The application cites neither s 549 nor s 550, avoiding
+the labelling divergence between the guide/orders (s 549) and the
+Registry listing ("S550(4)").
+
+**Four citation corrections applied (v5.5):**
+1. Header basis corrected from "rule 4(2)" (which concerns references to
+   appeal notices) to the official Form 4 basis: IR Act 2016 ss 527, 989;
+   Rules r 8 — exactly as printed on the QIRC form.
+2. "(rule 64D)" → "(rule 64B(1))" for the production obligation — r 64D
+   is "Others affected by notice" (service), not production.
+3. Ground (e) gloss corrected "privacy" → "confidentiality" (the rule's
+   own word; MSH's letter used (e) for privacy, which the per-item
+   passages still describe accurately).
+4. Rule 64F sentence aligned to the rule text: "Service of the objection
+   operates as a stay of the Notice (rule 64F)".
+
+Page references unchanged (Schedule A p 8, Annexure B p 9, Annexure C
+p 10) — the lodgement email's bold page numbers remain correct.
