@@ -64,6 +64,12 @@
 
 **Operational consequence:** she will answer a *written* request because not answering recreates the exposure she just moved to avoid. The index email works on her specifically.
 
+## 3A. Regulator posture on the 64G — counsel stood down (confidence: moderate)
+
+**Observed pattern (Appellant recollection + documented spine):** Willson (WHS-specialist panel counsel) appeared at every contested-phase listing — 27 Feb mention, 13 Mar conference, 7 Apr mention — through the pleading fight, sought 5 weeks to answer the Neville pleading, and then did not appear at the 22 May mention, the first listing after the Regulator's amended SOFC was filed (13 May).
+
+**Theory:** counsel was briefed for the pleading contest and stood down once the responsive pleading was in — i.e. the Regulator does not intend to fight the disclosure phase. Consistent with: the 22 May mention being MSH's timetable issue (MSH absent too); the reception model (Regulator abide ~62% on the 64G); and the 11 June disclosure (a party planning to oppose does not volunteer the McGinley page). **Predictive use:** expect the Regulator to abide or consent on the 64G; expect Willson to reappear only if the matter moves toward hearing or settlement-conference territory — her reappearance is itself a signal worth logging. Do not rely on absence as fact at hearing; it is posture-reading only.
+
 ## 4. Coordination + the seam (confidence: high on coordination, high on the seam)
 
 **Confirmed-ish:** MSH and the Regulator run a coordinated defence (conferencing channel, witness supply, the 52MB witness file, the Willson meeting). This is lawful and ordinary, not sinister.
