@@ -19,8 +19,11 @@
 > facts beyond the original session: the bundle is **10 pages** (not 23);
 > revision-1 page-tree `/Count` = **4** (the 6 May container), expanded to 10
 > in the 11 June 10:56 re-save — i.e. the Outlook prints + ESU form pages
-> appear to have been APPENDED on 11 June (which-pages identification: high
-> confidence inference, not read from revision 1 directly). The Item 11 AVAC
+> were APPENDED on 11 June (CONFIRMED 12 June by splitting the file at its
+> revision boundary: revision 1, as it stood on 6 May, holds ONLY the 4
+> leave-form screenshot pages; pages 5–10 = the May-2024 emails + ESU form
+> were added in the 11 June 10:56 re-save — see
+> `documents/disclosure-2026-06_MSH_production/CROSS_SOURCE_TIMELINE.md`). The Item 11 AVAC
 > history print shows myHR session user **"Estelle Bain"** — a new unknown
 > name for the access-log request, alongside operator 105777 and "Renee
 > Dawson".
