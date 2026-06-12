@@ -124,6 +124,17 @@
 - Preliminary point: MSH states it is **"not in receipt of" the Amended Form 9A** → serve a courtesy copy with the application.
 - Restates the matter in issue as "consecutive shifts of 17 to 18 March 2024" (verbatim) — the confined reading Section D answers.
 
+## July 2025 diff — CONFIRMED: the Item 20 subject-matter was disclosed to the Regulator in 2025 (source: the 14 July 2025 witness-conferencing bundle, `documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf`, text layer)
+
+The May-2024 HR-routing correspondence around Cory's disclosures — the exact Item 20 subject matter — was **already in the witness-conferencing bundle MSH provided to the Regulator on 14 July 2025**, eleven months before MSH answered the Notice's Item 20 "documents do not exist" (5 June 2026). Email headers extracted verbatim from the 2025 bundle:
+- 15 May 2024 1:15 PM — "Office Hours and Departmental Directives" (Cory's email) — **same email appended as page 6 of the Regulator's 11 June 2026 disclosure**
+- 15 May 2024 6:23 PM — "RE: Office Hours and Departmental Directives" (Reese retraction) — **same email as page 5 of the 11 June 2026 disclosure**
+- 15 May 2024 7:09 PM — "Re: Office Hours and Departmental Directives"
+- **17 May 2024 1:20 PM — Chloe Taylor → Adriana McNamee, "FW: Office Hours and Departmental Directives", "as requested"** (internal HR routing of the disclosure)
+- 10 May 2024 2:08 PM — Tammy Reese → Mackenzie Pritchard, "FW: Roster Concerns"
+
+**Consequence:** the Regulator has held this correspondence since July 2025 (not merely since the 6 May 2026 container); and MSH produced the Item 20 subject-matter to the Regulator in 2025, then answered "does not exist" on it in 2026. The contradiction to the Item 20 answer is provable from MSH's OWN prior production, independent of the 11 June disclosure. **Reserve / order-6 + hearing material — NOT pleaded in the 64G.** (The McGinley 16 May email specifically sits among image pages not yet OCR-confirmed; the HR-routing cluster around it is confirmed by text.)
+
 ## Key dates locked
 
 - PID complaint to ESU: **13 May 2024** (source: PID form).
