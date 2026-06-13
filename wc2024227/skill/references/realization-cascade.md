@@ -168,3 +168,48 @@ in which everyone signs honestly AND consistently. Someone must sign against
 someone. **That internal collision — not just the external case — is what makes
 settlement (before any affidavit is sworn) the only exit that keeps the alliance
 intact.** Sprung by the order + the record; never argued (rules 1, 5).
+
+═══════════════════════════════════════════════════════════════════════
+## CRITICAL CORRECTION (Cory, 13 Jun) — MSH is the NON-PARTY; it cannot settle the appeal
+
+The roles, precisely:
+- **Appeal = Cory (Appellant) v Workers' Compensation Regulator (Respondent).**
+  Settles between THESE two only. (Regulator officer: Matheson; counsel: Willson.)
+- **MSH = NON-PARTY** (employer holding the records; legal: Ruttan/Cridland). MSH
+  is subject to the Form 29/64G disclosure but is NOT a party to the appeal and
+  **CANNOT settle it.** The affidavit fractures are MSH's, but MSH has no settle
+  button on the WC matter.
+
+**So how the pressure actually flows:**
+1. The 64G is Cory v MSH (a disclosure dispute). It compels MSH to PRODUCE.
+2. The produced records feed the APPEAL (Cory v Regulator) — they arm Cory's case
+   AGAINST THE REGULATOR, whose s 32(5)(a) defence DEPENDS on MSH's conduct being
+   reasonable.
+3. When MSH's forced production/affidavit documents the vacuum + fractures its own
+   evidence, the REGULATOR's defence becomes unsustainable.
+4. **The REGULATOR settles the appeal** (accepts the claim by consent) — NOT MSH.
+   MSH's fractures are the LEVER; the Regulator is the one who can resolve.
+
+**THE KEY CONSEQUENCE — the Regulator can SHORT-CIRCUIT the fractures:**
+The Regulator can concede the appeal BEFORE the 64G production happens, to spare
+MSH (the ally) the damaging production and the affidavit fractures. If the appeal
+settles first, the 64G may become MOOT — MSH never produces, never swears, never
+fractures. This PROTECTS THE ALLIANCE and resolves the WC matter — but it DEPRIVES
+Cory of the production that would arm the PARALLEL tracks.
+
+**THE STRATEGIC FORK FOR CORY:**
+- **(A) Production-then-settle:** push for the 64G production to LAND before any WC
+  settlement → arms the parallel reprisal/PID tracks (where MSH IS a defendant and
+  the fractures actually bite) → but slower, and the Regulator may concede to avoid it.
+- **(B) Settle the WC early:** take the compensation outcome now → but may forgo the
+  production. MSH's fractures then live ONLY in the parallel tracks, which must be
+  re-litigated to get the records.
+- **RELEASE-SCOPE DISCIPLINE (rule 9):** whichever path, the WC settlement deed must
+  release the COMPENSATION CLAIM ONLY — never MSH, never the reprisal tort — or the
+  WC settlement buys MSH's escape from the fractures with Cory's compensation money.
+
+**WHERE MSH'S FRACTURES ACTUALLY BITE:** not the WC appeal (MSH isn't a party) — the
+PARALLEL tracks (s 40–42 PID tort, Issue 4712), where MSH IS a party/defendant and
+the same production + affidavit fractures are sought again. The WC settlement does
+NOT make MSH's affidavit problem disappear; it DEFERS it to the forum where MSH is
+actually on the hook. (Sprung by the record; never argued — rules 1, 5.)
