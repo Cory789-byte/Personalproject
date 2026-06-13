@@ -24,6 +24,7 @@ Parent skill for Cory Shepherd's QIRC psychiatric-injury appeal. This file route
 2. **`references/confirmed-record.md`** — verified facts only. Load before anything goes to the Commission. NEVER rely on memory for a pinpoint; confirm here or in the source.
 3. **The relevant sub-skill** (below) for the task at hand.
 4. **`references/case-theory-synthesis.md`** — the structural capstone: what the case is becoming + how to plead it (keystone-not-catalogue).
+4. **`references/comparable-cases-64G.md`** — comparable QIRC disclosure decisions (Scott, Taylor, Bunney) vs this matter.
 4. **`references/case-law-and-directions.md`** — authorities + direction stress-test (HEARING/strategy only; the 64G stays case-law-free).
 4. **`references/working-theories.md`** — the analytical frames, as *hypotheses with confidence*, never asserted as fact.
 
