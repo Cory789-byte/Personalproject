@@ -176,3 +176,48 @@ concrete and on the face of the documents:
 **Double function:** curing her privacy and proving the Appellant is not
 retributive are THE SAME ACT. Field-confinement protects her AND demonstrates the
 seeker wants a system fact, not revenge. The cure is the character reference.
+
+═══════════════════════════════════════════════════════════════════════
+## V. THE OBJECTION PATTERN — what MSH resisted vs produced (a TELL, held in reserve)
+
+**The pattern (objective, on the record):**
+- **PRODUCED readily:** Items 6, 11, 12(part), 13, 15, 16 — the neutral admin
+  records (leave forms, payroll, role description, directives). Nothing adverse.
+- **OBJECTED / resisted:** Items 3 (complaints + phrase-lexicon), 10 (directives),
+  8 & 9 (manager presence), 19 (Together/union suppression) — i.e. **exactly the
+  items that prove the operational dysfunction, the supervisory vacuum, and the
+  suppression.** And the "do not exist" answers cluster on the items whose absence
+  is itself damaging (3(c) no SOP change; 4/5/7 no FRMS).
+
+So MSH produced the neutral and resisted the probative. The **differential tell**
+is the hardest objective evidence: MSH never said "not retained" for 8/9 (the
+records exist and are identified), and it objected — rather than denied existence
+— on the dysfunction items.
+
+**FACT vs INFERENCE (discipline):**
+- FACT: the objections cluster on the probative items; the productions are neutral.
+- INFERENCE (Cory): "they resisted because they know what it would show." PLAUSIBLE
+  — and consistent with the "ferocity = the unproven fact still feared" tell
+  (working-theories §5: how hard Item 9 is fought measures how much the absence is
+  feared). BUT it is a motive inference, NOT provable fact. The expense grounds have
+  a colourable basis (email-account searches are work). **Do not assert
+  concealment** — that revives the conspiracy framing (rule 1) and is discounted
+  argument (rule 5).
+
+**How it deploys (reserve only):**
+1. Let the Commission DISCOVER the pattern — a party that produces the neutral and
+   resists the probative tells the bench where the evidence lies. Discovered, not
+   stated.
+2. The **verification affidavit (order 6) is the lever:** it forces produce-or-swear
+   on exactly the items MSH least wants to produce. They cannot resist on "expense"
+   AND maintain "does not exist" — the affidavit collapses the evasion into a sworn
+   choice.
+3. The resistance pattern CONFIRMS the spine: MSH fights hardest at the vacuum
+   (8/9) and the dysfunction (3/10) — which is where the case's strength is. Useful
+   confirmation; never an argument.
+
+**Item 19 (union/suppression) caveat:** real, but it sits in the SECONDARY grievance
+strand (Stressor 1(g)), not the clean spine. MSH's "proposed narrowing" to 17–18 Mar
+is itself content-management (confines the suppression evidence to the keystone
+window). Take the production, but do NOT elevate suppression to the spine — it
+carries the vexatious-framing risk. The vacuum + dysfunction items are the prize.
