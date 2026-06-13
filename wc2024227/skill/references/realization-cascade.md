@@ -126,3 +126,45 @@ BALK, seek advice, and the institution will prefer to RESOLVE before the affidav
 must be sworn. The affidavit's un-signability IS the settlement engine. (Sprung by
 the RECORD + the affidavit, discovered by the Commission — NEVER argued as perjury;
 rules 1, 5.)
+
+═══════════════════════════════════════════════════════════════════════
+## WHERE TWO PEOPLE SIGN AGAINST EACH OTHER (Cory, 13 Jun) — the fractures
+
+YES — the verification affidavit doesn't just trap one deponent; it forces FRACTURES
+between deponents and between the allied parties. Three:
+
+**FRACTURE 1 — the corporate officer vs the Line Manager (the distancing fracture; the sharpest).**
+- Order 6 needs a deponent with DIRECT KNOWLEDGE to verify the searches/records
+  honestly (false-verification exposure if not).
+- The records that officer verifies — sign-in/swipe (absence), the directives
+  (Item 10), the no-FRMS (4/5/7), the no-changes (3(c)) — CONTRADICT the Line
+  Manager's account of her own conduct ("I was present / the roster was equitable
+  / I managed properly").
+- So a corporate officer who verifies the records HONESTLY (to avoid personal
+  exposure) **signs against the manager**. The institution's self-protection
+  throws its own manager under the bus.
+- MSH CANNOT have BOTH a clean verification affidavit (records) AND clean witness
+  statements (conduct) — the records impeach the conduct account. **One signs
+  against the other.** This is BIND 7 made literal.
+
+**FRACTURE 2 — MSH vs the Regulator (the seam, sworn).**
+- MSH's order-6 affidavit on Item 20 ("does not exist") vs the REGULATOR's own
+  disclosure of the McGinley routing (= the Item 20 subject matter) + its July
+  2025 production of the same. The two NOMINALLY-ALLIED parties end up on opposite
+  sides of a sworn-vs-documentary record. The joint defence cannibalises itself at
+  the obligation layer (working-theories §4 — the seam).
+
+**FRACTURE 3 — the 2025 witnesses vs the 2026 records (the contradiction matrix).**
+- The 52MB July 2025 witness statements (Donovan-Taylor, Reese; "roster equitable")
+  were committed BLIND, before the records existed. The Item 8/9 attendance records
+  produced in 2026 IMPEACH them. The witnesses' sworn 2025 accounts vs the
+  documentary record = the same person's earlier oath contradicted by the
+  production an officer now verifies.
+
+**THE STRUCTURAL CONSEQUENCE:** order 6 does not present MSH with one bad signature.
+It forces the JOINT DEFENCE to fracture — corporate officer vs manager, MSH vs
+Regulator, 2025 witnesses vs 2026 records. There is no configuration of deponents
+in which everyone signs honestly AND consistently. Someone must sign against
+someone. **That internal collision — not just the external case — is what makes
+settlement (before any affidavit is sworn) the only exit that keeps the alliance
+intact.** Sprung by the order + the record; never argued (rules 1, 5).
