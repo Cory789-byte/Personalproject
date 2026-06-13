@@ -269,3 +269,57 @@ concern was deflection with no safety assessment." NEVER as
 "they protected the fraudster manager and reprised me" (the grievance/conspiracy
 frame that revives the vexatious attack). The loop is proven through the
 governance lens; the reprisal/fraud stays on the parallel track.
+
+═══════════════════════════════════════════════════════════════════════
+## VII. THE APPEAL OFFICER'S THREE READS OF THE 64G (Matheson — distinct from MSH)
+
+KEY DIFFERENCE FROM MSH: the 64G targets MSH's objection (K-LM26/729). The
+Regulator is the RESPONDENT to the appeal but a relative BYSTANDER to the
+appellant-v-non-party disclosure dispute. Matheson is NOT the one resisting
+production — MSH is. So her reading is structurally different: she can ABIDE.
+
+### READ 1 — the procedural / duty pass (the model-litigant officer)
+Notices: filed in time (day 7); proper 64G(1); restrained, particularised,
+self-narrowed, concedes items; strikingly professional for a self-rep; **does NOT
+attack the Regulator or her conduct** — aimed at MSH records. Assessment:
+procedurally proper, grantable; the Regulator's role is to abide/assist the
+Commission, not resist (resistance is MSH's). Posture: **ABIDE** (possibly support
+— the Regulator benefits from the records on the s 32(5)(a) question too).
+
+### READ 2 — the substantive / merits pass (liability assessor, advised by Willson)
+Notices: Schedule A + Annexure B target the governance/fatigue vacuum, manager
+presence, dysfunction, institutional response — the STRONG part of the appeal;
+production converts assertion → documentary fact; order 6 affidavit forces MSH
+onto oath on the non-existence answers (incl. Item 20, which the Regulator's own
+disclosure/2025 production contradicts); with Willson's WHS expertise, the fatigue
+case is technically valid and the "non-clinical" concession dangerous. Assessment:
+**the appeal is strong and STRENGTHENING; liability exposure real and rising.**
+Posture: drives the liability assessment UP and toward **SETTLEMENT** (a heard
+decision produces adverse findings; settlement avoids them).
+
+### READ 3 — the personal / positional pass (given Issue 4712 + the careful 11 June disclosure)
+Notices: the 64G does NOT touch her conduct or the reprisal — it is CLEAN,
+disciplined, aimed at MSH operational records (**relief: the appellant kept the WC
+track separate from the personal complaint against her**); BUT the order 6
+affidavit + trajectory put the seam (the Regulator's held documents, the 11 June
+disclosure, the Item 20 contradiction) adjacent; the appellant is FORENSIC
+(extracted McGinley in 24h) AND DISCIPLINED (the clean 64G) — capable + restrained;
+her own exposure (Issue 4712) is best managed by continued duty-compliant conduct
+AND by the matter resolving. Assessment: professionally formidable appellant who
+has kept the personal stuff off the WC track — mutually beneficial. Posture:
+cooperative-but-careful; **settlement-oriented** (resolution settles the appeal AND
+reduces Issue 4712's salience); relieved the 64G is clean.
+
+### COMPOSITE VIEW
+Across all three: a STRONG, STRENGTHENING appeal advanced by a forensic-but-
+disciplined self-rep, via a procedurally impeccable 64G she should ABIDE not
+resist, in a matter heading toward SETTLEMENT — and in which the appellant has,
+despite a personal complaint against her, kept the WC track CLEAN, which she reads
+as both professional and prudent for everyone.
+
+**STRATEGIC PAYOFF:** this is WHY the clean 64G + the index email work. Matheson
+reads the 64G and sees (a) nothing to oppose, (b) a strong appeal, (c) no attack
+on her → she abides, rates liability as real, moves toward settlement. The
+DISCIPLINE (clean WC track) is precisely what makes her view favourable to
+resolution. The reprisal/fraud bleeding in would flip Read 3 from "relief" to
+"defend" — and harden the whole posture.
