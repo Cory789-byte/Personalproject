@@ -305,3 +305,52 @@ systemic safety one) + the persistence (still unfixed 2 years on) together make
 the strongest available answer to BOTH the vexatious framing AND the
 reasonable-management-action defence — deployed through the safety/governance
 frame, never the fraud frame.
+
+
+---
+
+## 11. THE NERVE-CENTRE POINT (Cory, 13 Jun) — why he knows, and why it destroys "non-clinical"
+
+**Cory's point:** he knows about all the complaints/errors because **he IS the
+Switchboard** — the convergence node through which every Code Blue, MET call,
+doctor-to-doctor, pathology result, ward complaint, paging request and
+operational error flows, daily, from every direction. This is structurally the
+single most useful fact for several limbs at once:
+
+1. **Destroys the "non-clinical staff" defence (the closing line).** MSH exempted
+   from fatigue management the ONE position through which every clinical
+   emergency in the hospital is coordinated. *"The person they classified as
+   non-clinical is the person the entire clinical-emergency response depends on
+   being awake."* You cannot coherently call the Code Blue/MET coordination node
+   "non-clinical" — the role IS clinical-emergency infrastructure. This is the
+   answer to Items 4/5/7 ("non-clinical, so no FRMS").
+2. **Makes Cory a UNIQUELY QUALIFIED WITNESS, not a busybody.** His knowledge of
+   systemic dysfunction is not gossip or grievance-collecting — it is **first-hand
+   operational data received by virtue of the role.** When the Regulator asks
+   "how would a switchboard operator know about complaints across the hospital?"
+   the answer is: because the switchboard is where they all converge. He observes
+   the dysfunction live.
+3. **The daily complaint flow is THREE things at once:**
+   - the **cognitive/fatigue LOAD** (he absorbs the operational dysfunction of the
+     whole hospital, unmediated) — supports causation;
+   - the **manager-absence made concrete** — the complaints landed on HIM because
+     no manager was present to triage/escalate them (the supervisory vacuum);
+   - the **patient-safety OBSERVATION** — he watches mis-paging, wrong-contact,
+     wrong-location clinical events happen in real time, which is WHY his PID said
+     "directly affect service delivery and patient outcomes." His safety concern
+     is grounded in direct operational observation, not speculation.
+
+**Limit (honesty):** the CONTENT of third-party complaints (a doctor's complaint
+about being mis-paged) may be hearsay if used to prove the underlying fact. But
+it is admissible to prove (a) Cory's cognitive load/volume, (b) the existence and
+density of a dysfunction pattern, and (c) his state of knowledge/stress — which
+is what matters for causation and the manner limb. Corroborate the volume with
+the call/paging/MET records (the production helps here). Use the flow to prove
+LOAD + PATTERN + his grounded knowledge; do not over-claim it to prove each
+underlying third-party fact.
+
+**Combined:** the nerve-centre fact ties the spine together — life-safety
+criticality (defeats non-clinical) + the load (causation) + the manager-absence
+(complaints unmediated because no one was there) + grounded patient-safety
+observation. It is Cory's single most powerful piece of his own evidence and the
+core of the load-profile witness statement (already flagged in evidence.md).
