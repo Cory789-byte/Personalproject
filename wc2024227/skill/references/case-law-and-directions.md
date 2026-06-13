@@ -146,3 +146,25 @@ stressor to the injury, with the patient-safety/PID failure as a corroborating
 institutional-response strand surfaced through Item 20 + the verification
 affidavit. The 64G is the instrument that produces the records all of this needs.
 Nothing here changes the lodged application.
+
+
+---
+
+## 7. The "no safety assessment" affidavit scenario — strength + the trap (13 Jun)
+
+**Premise (Cory):** order 6 affidavit confirms no patient-safety assessment / no safety notes were made in response to the 13 May PID; they cannot manufacture a contemporaneous record that does not exist.
+
+**Sound premise — but expect characterisation, not fabrication.** An officer will not swear false; a contemporaneous record cannot be back-dated without detection. BUT the affidavit's WORDING will be chosen as carefully as the 11 June disclosure was. Expect a technically-true reframing, e.g. "the matter was assessed by ESU as a [conduct/PID] complaint" — which converts "no safety assessment" into "assessed through a different channel." The absence is the fact; its CHARACTER is the fight.
+
+**Layered case strength:**
+- **Layer 1 (already strong, independent of this):** the admitted 7-hour break, already found unreasonable by the Review Officer, sufficient alone under *Mahaffey*/*Carr*. This is the spine and it does NOT need the safety-assessment finding.
+- **Layer 2 (what the finding adds):** corroborates Stressor 1 (cumulative institutional response) — a safety-grounded disclosure handled as conduct-only, no safety assessment = "every channel closed" proven on paper. Makes the *global-reasonableness* defence harder and the *manner/severity* case stronger.
+- **Layer 3:** every adverse sworn fact raises the cost of a heard decision (portable findings) vs settlement → leverage.
+
+**What they CAN still do (even unable to manufacture):**
+1. Characterise the absence as reasonable ("no formal safety assessment was required; handled appropriately via ESU").
+2. Sever relevance — argue the PID-response is the reprisal track, not the s 32(5)(a) reasonableness of the *rostering* action.
+3. Contest causation — poor institutional response ≠ significant contributor to the injury vs the admitted stressors.
+4. **THE TRAP:** the safety strand is welded to a PID that names "fraud" against Chloe Taylor. Leaning on the PID invites the **collateral-purpose / vexatious framing** — recasting Cory's disclosures as a personal campaign, not protected disclosures. This is the single biggest risk in pulling this thread, and it is why discipline rules 1–2 quarantine "fraud" from the WC track.
+
+**Net:** the case is ALREADY strong on Layer 1 alone (admitted + found-unreasonable single stressor + ICQ authority). The no-safety-assessment finding is a **force multiplier on severity + settlement value, not a silver bullet** — and it must be deployed via the clean institutional-response/governance angle (FRMS/patient-safety), NEVER via the fraud allegation. Strength with the finding: materially raises an already-strong position and pushes settlement value up; does not change that medical causation (injury ↔ the stressors) remains the one element Cory must still prove independently.
