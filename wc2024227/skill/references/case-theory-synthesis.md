@@ -354,3 +354,54 @@ criticality (defeats non-clinical) + the load (causation) + the manager-absence
 (complaints unmediated because no one was there) + grounded patient-safety
 observation. It is Cory's single most powerful piece of his own evidence and the
 core of the load-profile witness statement (already flagged in evidence.md).
+
+
+---
+
+## 12. THE FORM 29 PHRASE LEXICON = documentary proof of the nerve-centre (Cory, 13 Jun)
+
+The Form 29 Item 3 filter is a **four-category lexicon of how Switchboard failure
+is actually reported by clinicians:** Location-error ('wrong ward/patient/
+theatre/ED/unit/bay'...), Directive-error ('switchboard sent me to', 'paged to
+the wrong', "shouldn't have been paged"...), Clinician-role error ('wrong
+doctor/registrar', 'not my patient', 'not on call', 'paged me instead of'...),
+and Operational/directory error ('paging error', 'misdirected', 'misrouted',
+'on-call list', 'update the directory', 'list is out of date'...). Item 10 adds
+the directive sub-sets ('effective immediately'; pathology/doctor-paging/
+call-routing). The integration with the nerve-centre point:
+
+1. **The breadth IS the proof of knowledge.** Only the person AT the convergence
+   node could compile this exhaustive, precise vocabulary of switchboard
+   dysfunction. The lexicon is, in effect, Cory transcribing from memory the
+   actual language of the complaints he received daily. It demonstrates
+   first-hand operational fluency, not speculation — the documentary counterpart
+   to "I know because I AM the Switchboard."
+
+2. **Every phrase is a PATIENT-SAFETY event.** A doctor paged to the "wrong ward"
+   or "wrong patient", urgent pathology delayed, the wrong clinician called to an
+   emergency — these are clinical near-misses. The lexicon is a CATALOGUE of
+   patient-safety failures flowing through the Switchboard. This is the
+   documentary grounding of the PID's asserted "directly affect service delivery
+   and patient outcomes" — the safety concern was eyewitness, and here is its
+   precise vocabulary.
+
+3. **The breadth is also the LEGAL particularity-cure (anti-fishing).** The
+   server-side filter bounded by identified phrase-families is "objectively
+   bounded" — a structured proxy for the pleaded dysfunction, not a free-text
+   trawl. This is the answer to MSH's particularity objection and the r 64E
+   pre-emption (the Form 29 says exactly this).
+
+4. **It maps to the spine (Stressor 1(a) / the vacuum).** The Form 29's own
+   relevance note: the Line Manager's unilateral directives "bottlenecked
+   emergency workflows and directly caused verifiable delays to the communication
+   of urgent pathology results to clinical staff." So the causal chain is
+   documentary: manager-absence/disruption → switchboard misfires (the lexicon)
+   → patient-safety events → Cory witnesses + raises them → unheard → injury. The
+   phrase-lists are the documentary spine of that whole chain.
+
+**Net:** the Form 29's breadth of naming is not just a search spec — it is
+(a) proof of Cory's nerve-centre knowledge, (b) a catalogue of patient-safety
+near-misses grounding the safety case, (c) the particularity-cure for Item 3, and
+(d) the documentary manifestation of the supervisory vacuum (the directives that
+bottlenecked the workflow). The same forensic fluency as the metadata work,
+applied to the operational reality of the role.
