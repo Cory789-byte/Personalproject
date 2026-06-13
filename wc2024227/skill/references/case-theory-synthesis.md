@@ -205,3 +205,55 @@ failures, and an absent structure that could not respond when concerns were
 raised. Plead the VACUUM as the spine (Items 8/9 the proof), run the s 32(5)(a)
 fork, own the absence and never the motive, point the medical case at the
 structural failure.
+
+
+---
+
+## 9. Two clarifications (Cory, 13 Jun) — one strengthens, one is a trap
+
+### 9.1 "Victimisation" = objective differential detriment (STRENGTHENS causation)
+Cory clarifies the Hawes "victimising" mechanism is NOT a vague feeling — it is
+concrete, documentable detriment: **pay withheld** (the AVAC/payroll delay,
+partly admitted at Form 24 ¶38) and **differential treatment** (the COVID leave
+obstruction, 1(d) — the disclosure shows the leave form declined twice; the
+"Mode A vs Mode B" disparity). This RE-ANCHORS the medical-causation pathway to
+**objective facts**, not subjective perception — much stronger. In the
+supervisory-vacuum frame these are downstream too: an absent manager who does not
+process pay or handle leave correctly. Use as the SEVERITY/cumulative limb,
+anchored to the documents (pay records, leave-form declines). Caveat: the
+Regulator will characterise the pay delay ("waiting payroll confirmation") and
+leave decline ("policy") as reasonable — contestable, so it supports rather than
+carries the case. The SPINE stays the supervisory vacuum + admitted roster.
+
+### 9.2 The fraud escalation — why he used it, and why it STILL can't enter the WC track
+Cory explains the "fraud" word in the PID was **the strongest language available
+because the patient-safety concerns were never heard** — an escalation forced by
+institutional deafness, not a vendetta. This is TRUE, HUMAN, and the coherent
+causal sequence: safety concern → not heard / no assessment → escalation to
+strongest language → differential detriment → injury.
+
+**But the explanation does NOT immunise the word in the WC track — and explaining
+it re-arms the grenade:**
+- To justify "why I said fraud," you must foreground the fraud allegation again.
+- The Regulator's answer to "I escalated to fraud because I was unheard" is still
+  "he made a serious unproven criminal allegation against a named colleague" —
+  and "I used the strongest word I could" can be spun as deliberate escalation,
+  FEEDING the vexatious frame, not defusing it.
+
+**The refinement (important — the explanation has a HOME, just not this one):**
+- **DEPLOY in the WC track:** "I raised patient-safety concerns repeatedly and
+  they were not heard." The institution's DEAFNESS is the wrong — it is the
+  institutional-response failure, the s 32(5)(a) manner limb, the "every channel
+  closed" severity. Point at their failure to hear, never at your escalation.
+- **DO NOT deploy in the WC track:** "...so I alleged fraud" / "the fraud was
+  justified." The escalation is the SYMPTOM; you never defend it here.
+- **The fraud-escalation explanation IS valuable — in the PID/reprisal track**,
+  where "I escalated a genuine safety concern in good faith because it was
+  ignored, then suffered detriment" is protective (good-faith disclosure under
+  s 40–42 PID Act). It is an ASSET there, a LIABILITY in the WC appeal.
+  Track-specific: save it, do not burn it in the wrong forum.
+
+**Net:** the "safety concerns not heard" sequence is gold for the WC case — it is
+the institutional-response failure feeding the cumulative/manner limb. The fraud
+escalation that the deafness PROVOKED is the symptom you keep on the reprisal
+track. Own the unheard safety concern; never defend the fraud word in this forum.
