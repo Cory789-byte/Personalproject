@@ -105,3 +105,57 @@ everything. An officer hedges that precisely only for a reader she expects to
 examine the seams. The anticipation is not actionable, but it confirms the
 operational read: a written index request will be answered, because non-answer
 recreates the exposure the careful disclosure was designed to avoid.
+
+---
+
+## 7. THROUGH WILLSON'S EYES — what the WHS-expert counsel comes to understand
+
+Willson is uniquely positioned: a WHS specialist (B.App.Sc. OHS; author, LexisNexis
+"National Work Health and Safety Law"; ex-Aussafe; UQ OHS adjunct) reading WHS
+materials. She does not read this as a generalist. What she perceives, through her
+expert lens, across the three documents:
+
+**The Form 29 (Cory's notice):** drafted with WHS LITERACY — the 16/4/4 fatigue
+arithmetic, the FRMS framework, the Neville governance anchor, the operational
+phrase-lexicon. An OHS expert sees this is NOT a layperson's grievance; it is a
+WHS-literate forensic instrument. → the appellant knows her field. Unusual and
+dangerous.
+
+**The MSH response (Items 4/5/7):** read by an expert, "non-clinical, no FRMS,
+implemented after 30 June 2024" is not a clever defence — it is a GENUINE
+fatigue-management governance gap. She knows the nature-of-work argument (Code
+Blue/MET = clinical-emergency infrastructure) defeats the "non-clinical" label.
+She sees the defence's central plank is cracked, on her own expertise.
+
+**The disclosure / McGinley page in hand:** a WHS expert knows a safety-grounded
+disclosure should trigger a safety/risk assessment, not just a conduct process.
+Holding the McGinley routing, she sees a safety concern handled as conduct with
+no safety assessment — a WHS-governance failure she is professionally equipped to
+recognise instantly.
+
+**What she comes to understand:** a technically VALID, largely-CONCEDED
+WHS-governance-failure case, where her client's "reasonable management action /
+non-clinical" defence is weak. **Her expertise makes her unable to OVERESTIMATE
+the defence** — she cannot talk herself into a weak case the way a generalist
+might. This drives toward an early, REALISTIC assessment → abide/settle. (Consistent
+with the appearance arc: appeared through the pleadings, stood down after the SOFC.)
+
+**HONEST FRAME (same discipline as the Matheson read):** this is RISK ASSESSMENT,
+not conscience. Her perceiving the WHS failure does NOT mean she acknowledges the
+betrayal or defects — her duty is to her client. WHS expertise = ACCURATE rating
+of a strong case = settlement pressure. An expert opponent who correctly rates
+your strong case is BETTER for Cory than a generalist who might gamble — the
+expert can't fool herself into fighting.
+
+**THE DOUBLE-EDGE (critical for Cory):** the same expert who will advise
+settlement is the best-equipped to DISMANTLE a weak case at hearing. Willson will
+probe exactly the soft spots — (1) medical CAUSATION (does the fatigue tie to the
+injury, or only the cumulative conduct?), (2) the "non-clinical" characterisation
+(is there a defensible basis?), (3) the directives' reasonableness. **So the
+medical-causation case must be AIRTIGHT — Willson reads it with expert eyes.** Her
+expertise is a settlement driver on liability AND a scalpel on causation. The
+governance/fatigue spine survives her; a loose medical link does not.
+
+**Betrayal-frame note:** she is defending the kind of systemic safety failure her
+profession exists to prevent. Professionally uncomfortable — but barristers defend
+uncomfortable cases; that informs REALISM, not defection. Do not over-read it.
