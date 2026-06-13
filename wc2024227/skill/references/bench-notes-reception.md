@@ -221,3 +221,51 @@ strand (Stressor 1(g)), not the clean spine. MSH's "proposed narrowing" to 17–
 is itself content-management (confines the suppression evidence to the keystone
 window). Take the production, but do NOT elevate suppression to the spine — it
 carries the vexatious-framing risk. The vacuum + dysfunction items are the prize.
+
+═══════════════════════════════════════════════════════════════════════
+## VI. ITEM 20 EXPOSED — the failure loop it closes (Cory, 13 Jun)
+
+**The two routings (the asymmetry Cory identifies):**
+- **Operational complaints went THROUGH the manager** — Item 3: MSH's own answer
+  says "all employee complaints relating to Switchboard operational errors are
+  made directly to the Line Manager." Her mailbox is the convergence point.
+- **The disclosure ABOUT the manager was routed AROUND her** — Item 20 / the
+  McGinley chain: when Cory escalated (13–15 May), the response went to ESU / HR /
+  the Director, at arm's length from her. Handled as a conduct/HR matter, kept at
+  a distance from the manager herself.
+
+**The failure LOOP this closes (the documents interlock):**
+1. **Item 3** — complaints flow IN to the manager's mailbox (admitted by MSH).
+2. **Item 3(c)** — "no consequential changes" — nothing comes OUT. No SOP change,
+   no fix. The manager's mailbox is where complaints went to die.
+3. **Items 8/9** — the manager was ABSENT (the vacuum) — which is WHY nothing came
+   out: no one was there to act on what came in.
+4. **Item 20** — when Cory escalated past the black hole, the response was
+   DEFLECTION (routed to HR/ESU as conduct) + REPRISAL (the 48-hour retraction) +
+   NO safety assessment. Not a fix — a deflection.
+
+So Item 3 + 3(c) + 8/9 + 20 together prove: **a system fed all its failures into
+one absent manager, nothing was done, and when someone escalated, the institution
+deflected and reprised rather than fix it.** That is the vacuum, proven end to end.
+
+**What exposing Item 20 BREAKS OPEN:**
+- **MSH's "does not exist" collapses** — the McGinley routing (and MSH's OWN July
+  2025 production of it) proves the Item 20 response existed. The technical
+  reference-number answer is shown false. Credibility hit + verification-affidavit
+  exposure (order 6).
+- **The institutional-response failure becomes documentary** — a safety-grounded
+  disclosure answered by deflection, with no safety assessment. The "every channel
+  closed" manner limb, proven.
+- **The seam opens** — the McGinley page came via conferencing; the Regulator held
+  it; the cross-defendant contradiction is live.
+- **It links to the spine** — Item 20 deflection is the institutional mirror of
+  the supervisory vacuum: the same absence of functioning management that ignored
+  the complaints (Item 3/3(c)) also could not respond to the escalation (Item 20).
+
+**DISCIPLINE (critical):** Item 20 sits in the institutional-response strand —
+it supports the MANNER/SEVERITY limb, NOT the spine, and it is FRAUD-ADJACENT (the
+PID response). Deploy it as GOVERNANCE/DEAFNESS — "the response to my safety
+concern was deflection with no safety assessment." NEVER as
+"they protected the fraudster manager and reprised me" (the grievance/conspiracy
+frame that revives the vexatious attack). The loop is proven through the
+governance lens; the reprisal/fraud stays on the parallel track.
