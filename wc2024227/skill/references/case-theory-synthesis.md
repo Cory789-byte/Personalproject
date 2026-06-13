@@ -405,3 +405,79 @@ near-misses grounding the safety case, (c) the particularity-cure for Item 3, an
 (d) the documentary manifestation of the supervisory vacuum (the directives that
 bottlenecked the workflow). The same forensic fluency as the metadata work,
 applied to the operational reality of the role.
+
+---
+
+## 13. THE COMPLETE TELLING — the unified theory, end to end (the north star)
+
+**The work and the two vacuums.** Cory Shepherd worked the Logan Hospital
+Switchboard — the nerve centre through which every clinical emergency in the
+hospital is coordinated: Code Blue, MET calls, doctor-to-doctor, urgent
+pathology, ward-to-ward. ~400 calls a shift, ~20 emergency codes. Life-safety
+infrastructure. Yet the employer ran this function inside two vacuums at once:
+**no fatigue-management framework** applied to it (MSH concedes FRMS arrived only
+after 30 June 2024 — after the injury), and **no manager was present** to
+supervise it (the Line Manager worked Mon–Fri, absent through the nights and
+weekends when the emergencies do not stop).
+
+**The dysfunction that flowed through him.** Into that vacuum fell the daily
+evidence of failure: doctors paged to the wrong ward, the wrong patient; urgent
+pathology delayed; the on-call list out of date; the wrong clinician called to an
+emergency. Cory knew because he WAS the convergence point — he received those
+complaints in the exact vocabulary he later reconstructed, from memory, in the
+Form 29 phrase-lexicon. Every one was a patient-safety near-miss. And there was no
+manager present to triage or fix any of it.
+
+**The raising — every channel.** He raised it, repeatedly: safety, fatigue, the
+roster — through emails, the union, escalation to the Director. The 7-hour break
+(finish 23:00, start 06:00) fell in the seam between two fortnightly rosters, in
+the weekend/night window where no Mon–Fri manager was looking. Overwhelmingly what
+he raised was safety; overwhelmingly it went unheard.
+
+**The escalation, and the asymmetry.** When safety was not heard, he escalated to
+the strongest framing he had — a PID. He *hedged* the financial suspicion ("it
+appears", "I suspect") but *asserted* the patient impact ("is now affecting
+service delivery and patient outcomes"). The institution then revealed its
+priorities: the allegation that touched the manager personally was actioned — a
+referral, a process — and within 48 hours, a direction to retract. The safety
+concerns that affected patients got nothing: no assessment, no change.
+
+**The harm.** Pay withheld. Treated differently. The retraction direction. And on
+18 June 2024, a psychiatric injury — major depressive disorder. The mechanism, per
+the treating evidence: the cumulative failure of an institution to hear a man
+reporting that its life-safety system was failing.
+
+**The proof it was systemic.** Two years on: the same roster, the same manager,
+the team triangulated, union and HR still unable to mediate, more errors, more
+complaints, no change. A vulnerable man's misperception does not persist,
+independent of him, for two years. A structural vacuum does.
+
+**How it has played out — the litigation.** WorkCover rejected. The Review Officer
+applied *Delaney* (global evaluation): conceded the 7-hour break was unreasonable,
+then diluted it among "mostly reasonable" factors. Cory appealed — de novo, before
+Commissioner Dwyer — and self-represented from ~Aug 2025. He served a Form 24 that
+locked ~50 admissions. He built a Form 29 of forensic precision. Then the
+disclosure war: MSH objected on expense, particularity, and that key records "do
+not exist" — yet its own letter conceded the fatigue vacuum; its own July 2025
+production already held the documents it now said did not exist; and the
+Regulator's own appeals officer, watching it all, disclosed — seven minutes before
+sending, the day before his deadline — the one internal email proving his safety
+disclosure was routed into an HR/conduct channel. The seam between the two
+defendants opened. The metadata told the rest.
+
+**Where it stands.** The case is no longer a grievance catalogue. It is one
+coherent proposition: *an absent supervisor ran a life-safety function with no
+fatigue framework; the admitted, already-found-unreasonable roster fell into that
+vacuum; the worker raised the safety failures through every channel and was met
+with deafness and detriment; and he was injured doing the job they said did not
+need protecting.* The s 32(5)(a) defence sits on a fork it cannot escape: you
+cannot defend the reasonableness of a vacuum, and you cannot call a vacuum
+"management action" that excludes the injury. The Rule 64G is the instrument about
+to compel the records that turn every limb of this from his word into their
+documents.
+
+**The discipline that holds it.** Told this way, it needs no villain, no "fraud",
+no reprisal narrative to win — those stay on the parallel track. The WC case is
+systems and classifications: a vacuum, an admitted breach, an unheard safety
+voice, a measurable detriment, an injury. Clean, largely admitted, hard to
+dilute, and impossible to call a vendetta.
