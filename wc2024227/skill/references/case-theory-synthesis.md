@@ -481,3 +481,35 @@ no reprisal narrative to win — those stay on the parallel track. The WC case i
 systems and classifications: a vacuum, an admitted breach, an unheard safety
 voice, a measurable detriment, an injury. Clean, largely admitted, hard to
 dilute, and impossible to call a vendetta.
+
+---
+
+## 14. CORRECTION (Cory, 13 Jun) — her response does NOT cure the absence; the directives ARE the disruption
+
+I had flagged a "double-edge" — that production might surface emails showing the
+manager *did* respond, complicating the absent-manager picture. Cory rebuts,
+correctly: **her response does not cure the absence — her response is the cause of
+the bottleneck.** The failure is not "absent and inert." It is "absent AND managing
+by remote unilateral directive" — directives issued without being present to
+implement, triage or supervise them, which is precisely what bottlenecked the
+department. ALREADY PLEADED (9A Stressor 1(a) / Form 29 Item 3 relevance: the Line
+Manager's "unilateral directives bottlenecked emergency workflows and directly
+caused verifiable delays to the communication of urgent pathology results").
+
+**Two-pronged failure (combine, not compete):** (1) physical absence — Items 8/9;
+(2) disruptive remote directives — Item 10. Management by absence AND decree.
+
+**Strengthens s 32(5)(a):** the directives ARE affirmative management ACTION,
+squarely within s 32(5)(a) — and the case is they were UNREASONABLE (issued
+remotely, bottlenecking an emergency workflow). Closes the "absence isn't action"
+escape: Dwyer has affirmative unreasonable action to hang the finding on.
+
+**Corrected causal chain:** Item 10 directives = CAUSE; Items 8/9 absence = no
+supervision/correction; Item 3 complaints = EFFECT (bottleneck + safety
+near-misses); Item 3(c) = nothing fixed; Item 20 = escalation deflected.
+
+**Closes the double-edge:** every Item 10 directive is evidence FOR the case — the
+more she managed by remote decree, the worse it looks. **Honest limit:** the
+directives' unreasonableness stays contestable, but the battleground is now
+correctly "was this ACTION reasonable," not "was absence action" — the right fight,
+and Cory holds the nature-of-work evidence.
