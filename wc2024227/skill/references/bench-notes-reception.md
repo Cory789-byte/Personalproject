@@ -129,3 +129,50 @@ having regard to the contemporaneous correspondence.*
 that are partly concessions, partly privacy (accommodated), partly expense (met by
 confinement); records that exist or must be verified; disposition = partial
 production order plus verification affidavit, own costs. Grantable as drafted.*
+
+═══════════════════════════════════════════════════════════════════════
+## IV. THE MANAGER'S PRIVACY — how it is cured, and where retribution is foreclosed
+
+The Line Manager is (a) the person whose Items 8/9/3/10 records are sought, AND
+(b) the person the PID named. So the Commission is acutely alert to whether the
+disclosure is retribution-by-other-means. The application cures it FOUR ways, all
+concrete and on the face of the documents:
+
+1. **Field-confinement (the core cure) — draft order ¶4(d):** records produced in
+   answer to Items 8/9 are "confined to credential, date and time-stamp fields,
+   with non-responsive personal information redacted." → This **de-personalises**
+   her record into an objective presence/absence time-series. The application does
+   not want anything *private* about her — not content, not reasons, not conduct —
+   only "did the credential register, when." Her attendance becomes data points,
+   not a dossier.
+2. **The protective regime — order ¶4(a)–(c):** Registry-marked "Confidential";
+   inspected only by parties/representatives; used only for this proceeding. → No
+   publication, no leverage, no life beyond the appeal. The records cannot be
+   weaponised against her elsewhere.
+3. **Anchoring to a PLEADED FACT, not the person (Annexure B / Section D5):**
+   Items 8/9 go ONLY to the pleaded "erratic physical presence" (Stressor 1(a))
+   and the "roster was equitable" denial (Form 24 ¶39). The application states
+   **"No broader use is made of these Items."** The records measure a SYSTEM fact
+   (was the supervisor present) against a contested pleading — not her character,
+   integrity, or the fraud suspicion.
+4. **The withdrawals (the anti-retribution SIGNAL):** the Appellant does NOT press
+   the items that would expose the manager/comparators personally — Item 17
+   (comparator payroll), Item 12-balance (comparator leave evidence). A retributive
+   applicant presses those hardest; the Appellant drops them.
+
+**Where retribution is foreclosed — the structural proof:**
+- The 64G never mentions the fraud, never characterises her conduct, never seeks a
+  record to prove she did anything *wrong* personally. It seeks PRESENCE and the
+  OPERATIONAL response. The instrument does not pursue her.
+- The MINIMALISM is itself the proof: the narrower and more de-personalised the
+  request, the more plainly it seeks the fact, not the person. You do not field-
+  confine and redact and seal records you intend to use as retribution — you
+  field-confine precisely to show you want only the metadata of presence.
+- **Critical corollary:** the cure stays robust ONLY because the fraud is kept
+  OUT of the 64G. The moment the application touched the fraud/conduct, the
+  "retribution-by-disclosure" framing would revive and the privacy cure would look
+  pretextual. Discipline rules 1–2 are what make the privacy cure credible.
+
+**Double function:** curing her privacy and proving the Appellant is not
+retributive are THE SAME ACT. Field-confinement protects her AND demonstrates the
+seeker wants a system fact, not revenge. The cure is the character reference.
