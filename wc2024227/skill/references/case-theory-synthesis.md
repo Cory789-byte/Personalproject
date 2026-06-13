@@ -139,3 +139,69 @@ vacuum, with a dismissive institutional response as the manner/severity. Plead
 it as keystone-not-catalogue; hold the reprisal/fraud on the parallel track;
 reconcile the medical pathway to the governance frame. That structure is hard to
 dilute, hard to call vexatious, and largely already admitted.
+
+
+---
+
+## 8. REFRAME (Cory, 13 Jun) — the SUPERVISORY VACUUM is the spine, not the fatigue framework
+
+**Cory's correction (accepted):** the unifying root of the whole case is **the
+Line Manager's chronic physical absence and consequent disruption of the
+system.** Every other strand — the 7-hour fatigue break, union suppression, the
+Director escalation, paging errors, doctor-contact-detail failures, ward
+complaints, directives left unassessed — is a **downstream manifestation of one
+root: no one was supervising the function.** Each strand alone is small and
+individually defensible; UNIFIED by the manager-absence they become a pattern.
+Test: remove the other strands and the absence still carries the case; remove
+the absence and each strand is defensible in isolation → the absence is the
+load-bearing fact. **This supersedes the "fatigue-framework vacuum" as the
+primary spine; the two combine (no supervisor + no framework = total vacuum).**
+
+**Why this is the better spine — the s 32(5)(a) FORK (the key insight):**
+the defence is "reasonable management *action* taken in a reasonable *way*."
+A chronic supervisory absence puts the Regulator on the horns of a dilemma:
+- If the absence was a management *choice* → defend its reasonableness →
+  impossible: you cannot reasonably leave a life-safety clinical-coordination
+  function (Code Blue/MET) unsupervised. The rostering done in that vacuum
+  (the admitted 7-hour break, in the Mon–Fri/weekend roster-seam) is then
+  unreasonable *action*.
+- If the absence was NOT management action ("just absence, neutral") → then
+  s 32(5)(a) does not *exclude* an injury arising from the unsupervised,
+  dysfunctional system, because that injury did not arise from *management
+  action* at all.
+**Either fork defeats the exclusion.** The more the Regulator characterises the
+absence as "not action," the more it concedes the injury did not arise from
+reasonable management action. This is the structural trap.
+
+**The evidentiary spine is Items 8 & 9** (the sign-in / swipe records) — which
+is exactly what MSH fights hardest (the differential tell: never "not retained"
+for 8–9). The 64G's most-contested items ARE the proof of the spine. The
+roster-seam analysis already connects it: manager works Mon–Fri, the 7-hour
+break falls in the weekend/night supervisory vacuum.
+
+**THE DISCIPLINE LINE — own the absence, NOT the motive (critical).**
+There are two manager-absence stories and only one is safe:
+- **OWN (clean, structural):** "the manager was not present to supervise the
+  system, and the attendance records prove it" — an operational FACT from Items
+  8/9. No villain; a structural supervision failure.
+- **NEVER (the trap):** "the manager was committing fraud / stealing / lazy /
+  victimising me" — the PID-content, the character attack, vexatious-bait.
+The attendance records prove ABSENCE (clean). They do NOT prove fraud or malice.
+"Own it" = own the *vacuum*, never the *motive*. The injury pathway is
+"unsupervised dysfunctional system + no one to respond when I raised it," NOT
+"she victimised me."
+
+**Causation reconciliation (updates §7 of case-law doc):** the psychiatrist
+report should tie the injury to *operating a life-safety function in a
+supervisory vacuum, and the failure of an absent management structure to respond
+when concerns were raised* — framed as systemic/structural, not personal
+victimisation. This keeps the Hawes "victimising" mechanism re-anchored to the
+clean vacuum frame.
+
+**Net structural verdict:** the case is a **management-vacuum** appeal — a
+chronically absent supervisor running a life-safety function with no fatigue
+framework, into which fell the admitted unreasonable roster and the operational
+failures, and an absent structure that could not respond when concerns were
+raised. Plead the VACUUM as the spine (Items 8/9 the proof), run the s 32(5)(a)
+fork, own the absence and never the motive, point the medical case at the
+structural failure.
