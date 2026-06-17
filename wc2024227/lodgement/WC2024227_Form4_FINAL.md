@@ -6,6 +6,9 @@
 
 **APPLICATION IN EXISTING PROCEEDINGS** *(Industrial Relations (Tribunals) Rules 2011, r 64G)*
 
+## OVERVIEW
+This is an application under r 64G for the Commission to decide MSH's objection to a sealed Notice of Non-Party Disclosure. The Appellant has narrowed the Notice, withdrawn what the record does not need, and seeks production by a single self-executing step — a server-side export of records MSH already holds, bounded by identified custodian, date-range and phrase-family, requiring no review or reading of any email. Where a record is said not to exist, the Appellant asks only that the non-existence be stated on oath after a defined search. The objection therefore reduces to one question: whether that bounded export and produce-or-swear verification should be ordered, or whether a non-party's un-sworn assertion that its emergency-code paging logs and fatigue records "do not exist" should instead be accepted. The grounds below address relevance, possession, proportionality, and each ground of objection in turn; the relief sought is at Part B and in the Draft Order.
+
 ## PART A — APPLICANT
 Applicant: Cory Lea Shepherd, Appellant (Self-Represented). This application is supported by the Affidavit of Cory Lea Shepherd affirmed [date] ("the Affidavit"), and is made in respect of the Notice of Non-Party Disclosure (Form 29) sealed by the Industrial Registry on 22 April 2026 ("the Form 29"), served on Metro South Hospital and Health Service ("MSH") as the 2nd and 3rd Affected Parties.
 
