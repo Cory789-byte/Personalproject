@@ -47,6 +47,20 @@
 
 **Numbering note:** the Notice paragraphs and the Response paragraphs drift out of alignment from the medical-records section onward (Resp ¶34 answers Notice ¶37, etc.). Always confirm which numbering a pinpoint refers to.
 
+**⚠ DEFINITIVE CONVENTION (verified 17 Jun 2026 against the response PDF read paragraph-by-paragraph): the Form 4 and Form 20 cite NOTICE numbering.** Proof: the filing cites "Para 40" for the payroll directive and "Para 41" for the AVAC delay — those match the *Notice* numbers (Resp ¶37 answers Notice ¶40; Resp ¶38 answers Notice ¶41). Keep all "Form 24, Para N" cites in NOTICE numbering. The Response document is physically numbered 1–44; each item opens "With respect to paragraph [Notice#]…". Alignment is 1:1 for Notice ¶¶1–25, then drifts (Resp ¶26 = Notice ¶¶26–29; thereafter Resp ¶N = Notice ¶(N+3)).
+
+**Key Notice-paragraph pinpoints (the ones that bite):**
+- **Notice ¶2** = the 7-hr roster *as unreasonable management action* — Resp ¶2 **does NOT admit** (de novo). Never tag ¶2 "admitted".
+- **Notice ¶4** = no written agreement — Resp ¶4 **DENIES** (asserts a June 2020 8-hr agreement). Live contest; never tag "admitted".
+- **Notice ¶7** = the removed entry's *contents* — Resp ¶7 **does not admit** ("no copy of the document"). Only the *removal* (¶6) is admitted.
+- **Notice ¶18** = the delegate-intention text — Resp ¶18 admits the text was *sent* but "not a formal notification".
+- **Notice ¶19** = failure to facilitate the delegate appointment — Resp ¶19 **DENIES** on three grounds. Item 19's target; never tag "admitted".
+- **Notice ¶22** = the comparator email — Resp ¶22 **DENIES** ("circumstances were different"). Disparate-treatment fact Items 8–10 target.
+- **Notice ¶34** = the adverse medical *entry* ("admits the entry is listed… does not admit accuracy"). NOT the review decision.
+- **Notice ¶37** = the Review/IRO decision: **admits the contents, relevance reserved** (de novo). ← the affidavit's Review-Officer-findings cite belongs HERE, not ¶34.
+- **Notice ¶40** = payroll "submit an AVAC" directive — admitted. **Notice ¶41** = AVAC submitted 28 May 2024 — admitted (delay admitted, justification contested).
+- **Notice ¶50** = Resp ¶44: Review Unit decision contents admitted, relevance reserved; does not admit Taylor made a misleading statement.
+
 ### ADMITTED outright
 - **¶1** — 7-hour break. Admitted.
 - **¶3** — 10-hour minimum. Admitted.
