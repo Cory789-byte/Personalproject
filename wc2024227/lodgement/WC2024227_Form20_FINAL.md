@@ -5,7 +5,7 @@
 
 **BETWEEN:** CORY LEA SHEPHERD — **Appellant**
 **AND:** WORKERS' COMPENSATION REGULATOR — **Respondent**
-**NOMINATED PARTY (Notice of Non-Party Disclosure, Form 29):** METRO SOUTH HOSPITAL AND HEALTH SERVICE (the Line Manager and Director being the affected parties, by position title)
+**NOMINATED PARTY (Notice of Non-Party Disclosure, Form 29):** METRO SOUTH HOSPITAL AND HEALTH SERVICE (the Line Manager and Director being the persons affected by the notice, by position title)
 
 **AFFIDAVIT OF CORY LEA SHEPHERD** *(Form 20 — filed on behalf of the Appellant, in support of the Application in Existing Proceedings (Form 4) under r 64G)*
 
@@ -104,7 +104,7 @@ I, CORY LEA SHEPHERD, of 15 Edmond Street, Coomera in the State of Queensland, A
 
 43. **Termination and reinstatement.** On 8 October 2024 my employment was terminated on the basis of "abandonment of employment." I applied for reinstatement (matter TD/2024/110) and was reinstated.
 
-44. **Medical records obtained without a Notice served on me.** In the course of the proceeding, the Respondent obtained my medical records under a Notice of Non-Party Disclosure (Form 29) that was never served on me. The Respondent admits that no Form 29 was served on me before it obtained those records (Admitted Fact: Form 24, Para 25); it says it was not required to serve one (relying on r 64D of the *Industrial Relations (Tribunals) Rules 2011*) and denies any breach of r 64E.
+44. **Medical records obtained without a Notice served on me.** In the course of the proceeding, the Respondent obtained my medical records under a Notice of Non-Party Disclosure (Form 29) that was never served on me. The Respondent admits that it did not serve any such Notice on me before it obtained those records (Admitted Fact: Form 24, Para 25). I was not notified of that Notice before the records were obtained.
 
 ## PART G — MY INJURY AND CURRENT CAPACITY
 45. **Injury and current capacity.** As pleaded in the Amended 9A, I suffered the onset of a psychiatric injury (Major Depressive Disorder with Anxious Distress) on 18 June 2024. I returned to work on medical advice and am currently working at 0.5 FTE, and I remain unable to perform the full duties of the role described above. The diagnosis, onset and causation of my injury are addressed in the medical evidence in the substantive appeal and in the Amended 9A; I do not annex or repeat that evidence here.
