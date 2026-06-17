@@ -81,8 +81,8 @@ h3 { font-size: 11pt; margin-top:9pt; margin-bottom:3pt; }
 p, li { text-align: justify; }
 blockquote { border-left:3px solid #999; margin:6pt 0; padding:4pt 10pt; background:#f4f4f4; font-size:10pt; }
 hr { border:0; border-top:1px solid #000; margin:9pt 0; }
-table { border-collapse: collapse; width:100%; font-size:9pt; margin:6pt 0; }
-th, td { border:1px solid #444; padding:2.5pt 5pt; vertical-align:top; text-align:left; }
+table { border-collapse: collapse; width:100%; font-size:9pt; margin:6pt 0; border:1.5pt solid #000; }
+th, td { border:0.75pt solid #000; padding:3pt 5pt; vertical-align:top; text-align:left; }
 th { background:#e8e8e8; }
 ol, ul { margin:4pt 0; padding-left:20pt; }
 li { margin-bottom:2.5pt; }
