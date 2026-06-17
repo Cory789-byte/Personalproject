@@ -159,21 +159,4 @@ Before me:
 
 *This affidavit comprises numbered paragraphs 1 to 53 and exhibits CS-1 to CS-4, set out under the same structure as the Amended 9A. The MSH letter of 5 June 2026 — and the documents disclosed with it, including the Item 11 myHR leave records and AVAC history — are referred to, not annexed (already before the Commission). The Respondent's disclosure of 11 June 2026 (the 15–16 May 2024 correspondence) is likewise referred to, not annexed.*
 
----
-
-## NOT PART OF THE AFFIDAVIT — PRE-LODGEMENT CHECKLIST (working aid; remove before swearing)
-
-**Completed at the moment of swearing (do not pre-fill):**
-- ☐ Date and place in the jurat
-- ☐ Deponent + witness signature at the foot of every page
-- ☐ Form 21 certificate signed by the witness on each annexed exhibit (CS-1 to CS-4)
-
-**Verify before lodging:**
-- ☒ Amended 9A filing date — resolved. The Amended 9A was lodged across 7–8 April 2026; "filed 7 April 2026" stands.
-- ☐ **Form 24 paragraph numbers — verify every one against the SOFC PDF before swearing.** The body cites: Para 1 and Paras 3–4 (7-hour break / 10-hour minimum, ¶38); Para 5 (rostering-error acknowledgment, ¶32); Paras 6 and 7 (communication-book removal and contents, ¶31); Para 8 (patient-safety function, ¶6); Paras 17, 18 and 19 (union policy / notification / failure to facilitate, ¶36); Para 20 (PID determination, ¶34); Paras 21 and 22 (retraction direction / comparator email, ¶35); Para 25 (medical records — non-service, ¶44); Para 34 (Review Decision contents admitted, ¶41); Paras 40 and 41 (AVAC instruction / 25-day delay, ¶37). The confirmed record warns the Notice/Response numbering drifts — confirm each.
-- ☐ New facts to confirm: ¶33 (four submissions, once by text, three via myHR; two declines by Ms Taylor; her lack of delegated authority — confirm against the Item 11 myHR audit trail and the Item 13 HR delegation instrument; confirm the delegation date: the Instrument states effective 5 December 2022, while MSH's letter referred to it as "signed 23 November 2022"); ¶42 (meetings 12 & 16 July 2024 while on certified leave); ¶43 (8 Oct 2024 abandonment termination and reinstatement, TD/2024/110).
-- ☒ **¶40 — resolved.** Rendered factually ("Ms Taylor relied on a 2020 agreement to deny paid fatigue leave…"); the contested words "superseded" and "casual" have been removed. A 7-hour break breaches even an 8-hour agreement, so this paragraph is not load-bearing.
-- ☐ Discipline (standing): the 11 July 2024 email carries barred collateral-purpose allegations and personal/family detail — it must not go on the WC track in any form (it is no longer annexed, the consultation correspondence now being deposed, not annexed).
-- ☐ ¶14 pathologist episode — confirm date (~early July 2024, post-injury; illustrative only). No patient/pathologist/registrar named. Cut if not certain.
-- ☐ Medical evidence (Krishnaiah report; Hawes Work Capacity Certificates) is NOT annexed to this affidavit — it belongs to the substantive appeal and is covered by the s 580 order sought.
-- ☐ Bundle exceeds 30 pages → lodge in hard copy; serve on the Respondent (OIR) and on MSH (affected non-party).
+*— End of affidavit —*
