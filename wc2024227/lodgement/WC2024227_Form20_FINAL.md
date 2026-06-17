@@ -14,7 +14,7 @@
 **1. Matter details** — Applicant: Cory Lea Shepherd v Respondent: Workers' Compensation Regulator. Filed for: ☒ Applicant/Appellant.
 **2. Contact details of party filing** — Mr Cory Lea Shepherd, 15 Edmond Street, Coomera QLD 4209; Mobile 0417 400 227; coryshepherd1@hotmail.com.
 **3. Deponent's details** — Mr Cory Lea Shepherd, 15 Edmond Street, Coomera QLD 4209.
-**4. Evidence** — *"I do solemnly and sincerely affirm and declare that I affirm the matters set out in the affidavit annexed hereto, comprising numbered paragraphs 1 to 19 on the pages that follow, each of which is signed by me and by the witness."*
+**4. Evidence** — *"I do solemnly and sincerely affirm and declare that I affirm the matters set out in the affidavit annexed hereto, comprising numbered paragraphs 1 to 18 on the pages that follow, each of which is signed by me and by the witness."*
 **5. Signature** — affirmed at [place] on [date]; deponent Cory Lea Shepherd; before [witness — JP / Cdec / Lawyer].
 
 ---
@@ -43,7 +43,7 @@
 9. On 12 June 2026 I made an application under rule 64G(1) for the Commission to decide the objection, within the seven-day period. On 15 June 2026 the Registry declined to accept that application on format grounds. This Form 4 and this affidavit are the corrected re-filing in the approved form.
 
 **The documents exist and are within MSH's control**
-10. The records I seek are within MSH's exclusive possession or control — its email system, its Active Directory / Entra / Citrix identity-management environment, its Security Access swipe-card system, its meeting and governance records, and its roster and HR systems. As the Switchboard operator I cannot produce them. The Switchboard office is collocated with other departments and is entered through building and floor swipe-card access points; the records I seek at Item 9 are the Line Manager's entry and exit records at those access points, which bear on the Line Manager's physical presence (Stressor 1(a)). I do not seek a dedicated reader on the Switchboard office door.
+10. The records I seek are within MSH's exclusive possession or control — its email system, its Active Directory / Entra / Citrix identity-management environment, its Security Access swipe-card system, its meeting and governance records, and its roster and HR systems. As the Switchboard operator I cannot produce them. The Switchboard office is collocated with other departments and is entered through building and floor swipe-card access points; the records I seek at Item 9 are the Line Manager's entry and exit records at those access points, which record when the Line Manager was physically on site. I do not seek a dedicated reader on the Switchboard office door.
 
 11. On 11 June 2026 the Respondent disclosed to me a bundle it described as "received through Notice of Non-Party Disclosure request and conferencing." That bundle included screenshots of my myHR leave record (Process Reference 15480560) — the same leave record that MSH separately produced, in formal form, on 5 June 2026 in compliance with Item 11. The Respondent obtained that record, held within MSH's systems, through the conferencing channel and without itself issuing a Form 29 (Admitted Fact: Form 24, Para 25). This confirms that the records I seek are real, are held within MSH's systems, and are retrievable. I do not annex that bundle.
 
@@ -58,17 +58,15 @@
 
 14. To my knowledge MSH did not act on that delegate request between 18 May 2024 and the date of my injury, 18 June 2024. Item 19 of the Form 29 seeks MSH's receipt and handling (or non-handling) of that request over that period.
 
-15. Item 19 of the Form 29 had, in error, anchored the union-delegate matter to a text message of 5 March 2024 and a date range commencing 1 March 2024. The correct anchor is my request to Together of **18 May 2024**, and the period pressed is confined to **18 May 2024 to 18 June 2024**. This narrows Item 19; it does not expand it. It was always confined to identified custodians (the Line Manager, the Director, the Logan Hospital health-team mailbox and HR), not a search of all staff.
+15. Item 19 of the Form 29 had, in error, anchored the union-delegate matter to a text message of 5 March 2024 and a date range commencing 1 March 2024. My actual request to Together (Ms Heather Hayes) was made on **18 May 2024**, and the documents I seek concern the period from **18 May 2024 to 18 June 2024**.
 
-**The emergency-code and patient-safety context**
-16. The records sought at Items 1, 2, 3(a) and 8–10 bear on whether time-critical clinical and emergency communications were delayed or misdirected during the pleaded period. The aggregate code figures I summarise are drawn from the monthly emergency-code statistics at **Exhibit CS-8**; the underlying source records are within MSH's systems.
+**The emergency-code records**
+16. The aggregate emergency-code figures I summarise are drawn from the monthly emergency-code statistics at **Exhibit CS-8**; the underlying source records are within MSH's systems.
 
-17. I have followed the non-party disclosure process required by the Rules. I am informed and believe that the Respondent obtained my primary medical records without itself issuing a Form 29 (Admitted Fact: Form 24, Para 25).
+17. I am informed and believe that the Respondent obtained my primary medical records without itself issuing a Form 29 (Admitted Fact: Form 24, Para 25).
 
 **Verification**
-18. I make this affidavit to prove the facts on which my application relies. I do not seek the review, reading or relevance-assessment of any email by MSH; I seek only the native electronic export of the records returned by the server-side filters described in the Form 29, or, where a record does not exist, a statement on oath to that effect by MSH's Chief Executive or a delegated Director after a defined search.
-
-19. The matters in this affidavit are true and correct. Where based on information and belief, I have stated the source. I understand that it is a criminal offence to provide a false matter in an affidavit, including the offence of perjury under s 123 of the *Criminal Code*.
+18. The matters in this affidavit are true and correct. Where based on information and belief, I have stated the source. I understand that it is a criminal offence to provide a false matter in an affidavit, including the offence of perjury under s 123 of the *Criminal Code*.
 
 **AFFIRMED** at [place] on [date]
 
