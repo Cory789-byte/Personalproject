@@ -44,7 +44,7 @@ def render(md):
             out.append('<blockquote>' + '<br>'.join(buf) + '</blockquote>'); continue
         # numbered paragraph — preserve the LITERAL number (legal affidavit / grounds
         # paragraphs must keep their authored numbers; do NOT auto-renumber via <ol>)
-        m2 = re.match(r'^(\d+)\.\s+(.*)$', ln)
+        m2 = re.match(r'^(\d+[A-Z]?)\.\s+(.*)$', ln)
         if m2:
             num, item = m2.group(1), m2.group(2)
             i += 1
@@ -67,7 +67,7 @@ def render(md):
             i += 1; continue
         # paragraph (gather until blank)
         buf = [ln]; i += 1
-        while i < n and lines[i].strip() != '' and not re.match(r'^(#{1,6}\s|>|---+\s*$|\d+\.\s|[-*]\s|\|)', lines[i]):
+        while i < n and lines[i].strip() != '' and not re.match(r'^(#{1,6}\s|>|---+\s*$|\d+[A-Z]?\.\s|[-*]\s|\|)', lines[i]):
             buf.append(lines[i]); i += 1
         out.append('<p>' + inline(' '.join(buf)) + '</p>')
     return '\n'.join(out)
