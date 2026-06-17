@@ -3,9 +3,9 @@
 **Industrial Relations Act 2016, s 989; Industrial Relations (Tribunals) Rules 2011, rr 52, 53, 55**
 *Filed in support of the Form 4 — Application in Existing Proceedings (rule 64G), WC/2024/227.*
 
-> ⚠ **Two items only you can supply before swearing** (everything else is final):
-> 1. **The exhibit mapping CS-1 to CS-9** — confirm which document is which (I have CS-8 = monthly statistics/emergency-code data; CS-9 = MSH's 5 June 2026 letter; the rest mapped provisionally below — adjust to match your Form 21 certificates).
-> 2. If you already hold your **35-paragraph body** (the version referenced in the official Form 20 — paras 1–35 + 18A/20A/20B/24A/35A), use that and apply **only the union-date fix** to its Item-19 paragraph (5 March → **18 May 2024**). This body is a clean, complete alternative if you don't.
+> ⚠ **Pre-swear checklist** (everything else is final):
+> 1. **Exhibit mapping CS-1 to CS-9** — confirm each against your Form 21 certificates. Confirmed provenance: **CS-8 = monthly emergency-code statistics**; **CS-9 = MSH's 5 June 2026 letter (K-LM26/729)**. CS-5/6/7 are your further individual examples — confirm contents.
+> 2. **Do NOT annex the Respondent's 11 June 2026 bundle.** Pages 5–10 of it (the Reese/McGinley emails and the ESU/PID material) are reserved and stay off the WC paper. Paragraph 9 refers to that disclosure without annexing it.
 
 ---
 
@@ -14,7 +14,7 @@
 **1. Matter details** — Applicant: Cory Lea Shepherd v Respondent: Workers' Compensation Regulator. Filed for: ☒ Applicant/Appellant.
 **2. Contact details of party filing** — Mr Cory Lea Shepherd, 15 Edmond Street, Coomera QLD 4209; Mobile 0417 400 227; coryshepherd1@hotmail.com.
 **3. Deponent's details** — Mr Cory Lea Shepherd, 15 Edmond Street, Coomera QLD 4209.
-**4. Evidence** — *"I do solemnly and sincerely affirm and declare that I affirm the matters set out in the affidavit annexed hereto, comprising numbered paragraphs 1 to 30 on the pages that follow, each of which is signed by me and by the witness."*
+**4. Evidence** — *"I do solemnly and sincerely affirm and declare that I affirm the matters set out in the affidavit annexed hereto, comprising numbered paragraphs 1 to 17 on the pages that follow, each of which is signed by me and by the witness."*
 **5. Signature** — affirmed at [place] on [date]; deponent Cory Lea Shepherd; before [witness — JP / Cdec / Lawyer].
 
 ---
@@ -39,9 +39,9 @@
 7. On 12 June 2026 I made an application under rule 64G(1) for the Commission to decide the objection, within the seven-day period. On 15 June 2026 the Registry declined to accept that application on format grounds. This Form 4 and this affidavit are the corrected re-filing in the approved form.
 
 **The documents exist and are within MSH's control**
-8. The records I seek are within MSH's exclusive possession or control — its email system, its Active Directory / Entra / Citrix identity-management environment, its Security Access swipe-card system, its meeting and governance records, and its roster and HR systems. As the Switchboard operator I cannot produce them.
+8. The records I seek are within MSH's exclusive possession or control — its email system, its Active Directory / Entra / Citrix identity-management environment, its Security Access swipe-card system, its meeting and governance records, and its roster and HR systems. As the Switchboard operator I cannot produce them. The Switchboard office is collocated with other departments and is entered through building and floor swipe-card access points; the records I seek at Item 9 are the Line Manager's entry and exit records at those access points, which bear on the Line Manager's physical presence (Stressor 1(a)). I do not seek a dedicated reader on the Switchboard office door.
 
-9. On 11 June 2026 the Respondent disclosed to me documentation it described as "received through Notice of Non-Party Disclosure request and conferencing," including the myHR audit trail at Process Reference 15480560. That material is of the same character as documents MSH's 5 June letter stated did not exist. A true copy of the 11 June disclosure is **Exhibit CS-8** *(confirm exhibit number)*.
+9. On 11 June 2026 the Respondent disclosed to me a bundle it described as "received through Notice of Non-Party Disclosure request and conferencing." That bundle included screenshots of my myHR leave record (Process Reference 15480560) — the same leave record that MSH separately produced, in formal form, on 5 June 2026 in compliance with Item 11. The Respondent obtained that record, held within MSH's systems, through the conferencing channel and without itself issuing a Form 29 (Admitted Fact: Form 24, Para 25). This confirms that the records I seek are real, are held within MSH's systems, and are retrievable. I do not annex that bundle.
 
 10. I have been able to obtain individual examples of the classes of document I seek, which I exhibit to show the documents are real, while the complete corpus remains only within MSH's systems:
     - the Line Manager's email of 9 May 2024 recording that a doctor's hours were "not provided on the rosters" and that a contact number was "switched off" — **Exhibit CS-1**;
@@ -57,7 +57,7 @@
 13. Item 19 of the Form 29 had, in error, anchored the union-delegate matter to a text message of 5 March 2024 and a date range commencing 1 March 2024. The correct anchor is my request to Together of **18 May 2024**, and the period pressed is confined to **18 May 2024 to 18 June 2024**. This narrows Item 19; it does not expand it. It was always confined to identified custodians (the Line Manager, the Director, the Logan Hospital health-team mailbox and HR), not a search of all staff.
 
 **The emergency-code and patient-safety context**
-14. The Switchboard coordinates Code Blue and MET activations. The records sought at Items 1, 2, 3(a) and 8–10 bear on whether time-critical clinical and emergency communications were delayed or misdirected during the pleaded period. The aggregate call and code figures I refer to are stated in this affidavit; the underlying records are within MSH's systems.
+14. The Switchboard coordinates Code Blue and MET activations. The records sought at Items 1, 2, 3(a) and 8–10 bear on whether time-critical clinical and emergency communications were delayed or misdirected during the pleaded period. The aggregate call and code figures I summarise are drawn from the monthly emergency-code statistics at **Exhibit CS-8**; the underlying source records are within MSH's systems.
 
 15. I have followed the non-party disclosure process required by the Rules. I am informed and believe that the Respondent obtained my primary medical records without itself issuing a Form 29 (Admitted Fact: Form 24, Para 25).
 
@@ -80,5 +80,7 @@ Before me: ____________________  [Justice of the Peace / Commissioner for Declar
 - **CS-3** — "effective immediately" operational directives (examples)
 - **CS-4** — Together union correspondence, **18–20 May 2024** (Ms Heather Hayes)
 - **CS-5 / CS-6 / CS-7** — [your further individual examples — confirm]
-- **CS-8** — Respondent's disclosure of 11 June 2026 (myHR audit trail, Process Ref 15480560) / monthly emergency-code statistics
+- **CS-8** — Monthly emergency-code statistics (Code Blue/MET activation counts), Logan Switchboard
 - **CS-9** — MSH's letter of 5 June 2026 (K-LM26/729)
+
+*The Respondent's 11 June 2026 disclosure is referred to at paragraph 9 but is **not annexed** (it carries reserved material on pp 5–10).*
