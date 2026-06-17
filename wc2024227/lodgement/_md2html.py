@@ -42,20 +42,19 @@ def render(md):
             while i < n and lines[i].strip().startswith('>'):
                 buf.append(inline(re.sub(r'^\s*>\s?', '', lines[i]))); i += 1
             out.append('<blockquote>' + '<br>'.join(buf) + '</blockquote>'); continue
-        # ordered list
-        if re.match(r'^\d+\.\s+', ln):
-            out.append('<ol>')
-            while i < n and re.match(r'^\d+\.\s+', lines[i]):
-                item = re.sub(r'^\d+\.\s+', '', lines[i]); i += 1
-                # gather nested bullets / continuation
-                sub = []
-                while i < n and re.match(r'^\s{2,}[-*]\s+', lines[i]):
-                    sub.append(inline(re.sub(r'^\s+[-*]\s+', '', lines[i]))); i += 1
-                cell = inline(item)
-                if sub:
-                    cell += '<ul>' + ''.join(f'<li>{s}</li>' for s in sub) + '</ul>'
-                out.append(f'<li>{cell}</li>')
-            out.append('</ol>'); continue
+        # numbered paragraph — preserve the LITERAL number (legal affidavit / grounds
+        # paragraphs must keep their authored numbers; do NOT auto-renumber via <ol>)
+        m2 = re.match(r'^(\d+)\.\s+(.*)$', ln)
+        if m2:
+            num, item = m2.group(1), m2.group(2)
+            i += 1
+            sub = []
+            while i < n and re.match(r'^\s{2,}[-*]\s+', lines[i]):
+                sub.append(inline(re.sub(r'^\s+[-*]\s+', '', lines[i]))); i += 1
+            out.append(f'<p class="num"><span class="n">{num}.</span> {inline(item)}</p>')
+            if sub:
+                out.append('<ul class="sub">' + ''.join(f'<li>{s}</li>' for s in sub) + '</ul>')
+            continue
         # unordered list
         if re.match(r'^[-*]\s+', ln):
             out.append('<ul>')
@@ -88,6 +87,9 @@ th { background:#e8e8e8; }
 ol, ul { margin:6pt 0; padding-left:22pt; }
 li { margin-bottom:4pt; }
 strong { font-weight:bold; }
+p.num { margin:6pt 0; padding-left:2.2em; text-indent:-2.2em; text-align:justify; }
+p.num .n { font-weight:bold; }
+ul.sub { margin:2pt 0 6pt 0; }
 """
 
 src, dst = sys.argv[1], sys.argv[2]
