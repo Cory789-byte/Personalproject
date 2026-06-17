@@ -5,7 +5,7 @@
 
 **BETWEEN:** CORY LEA SHEPHERD — **Appellant**
 **AND:** WORKERS' COMPENSATION REGULATOR — **Respondent**
-**AFFECTED NON-PARTY (Notice of Non-Party Disclosure, Form 29):** METRO SOUTH HOSPITAL AND HEALTH SERVICE
+**NOMINATED PARTY (Notice of Non-Party Disclosure, Form 29):** METRO SOUTH HOSPITAL AND HEALTH SERVICE (the Line Manager and Director being the affected parties, by position title)
 
 **AFFIDAVIT OF CORY LEA SHEPHERD** *(Form 20 — filed on behalf of the Appellant, in support of the Application in Existing Proceedings (Form 4) under r 64G)*
 
@@ -65,7 +65,7 @@ I, CORY LEA SHEPHERD, of 15 Edmond Street, Coomera in the State of Queensland, A
 25. That standing condition (bearing the patient-safety load of a hospital's communications, at constant volume, while absorbing the blame for failures across the whole system, and while the support above me was absent or unmaintained) is the condition in which I performed every duty described above.
 
 ## PART C — STRESSOR 1: COURSE OF MANAGEMENT CONDUCT (Amended 9A, Stressor 1)
-26. **Erratic presence and unilateral directives without consultation [1(a)].** Throughout 2023 and 2024 my Line Manager, Ms Chloe Donovan-Taylor ("Ms Taylor"), maintained an erratic physical presence and imposed unilateral directives without consultation. Those directives were sent from her email account to the Switchboard's generic (shared) mailbox, and were frequently expressed to take effect "effective immediately". The objective record of her working presence is held in MSH's security-access system (Item 9 of the Form 29).
+26. **Erratic presence and unilateral directives without consultation [1(a)].** Throughout 2023 and 2024 my Line Manager, Ms Chloe Donovan-Taylor ("Ms Taylor"), maintained an erratic physical presence and imposed unilateral directives without consultation. Those directives were sent from her email account to the Logan Hospital Switchboard group distribution list (the shared Switchboard mailbox), and were frequently expressed to take effect "effective immediately" or with immediate effect. The objective record of her working presence is held in MSH's security-access system (Item 9 of the Form 29).
 
 27. **The MASPER directive [1(a)].** The misrouted-call issues raised by the MASPER registrar and the medical department in May 2024 were, in substance, a problem of the roster not reflecting doctors' actual availability — a doctor, roster and coordination problem, not an error of the operators. Ms Taylor's own email of 9 May 2024 records that a doctor's hours were "not provided on the rosters" and that the contact number was "switched off." Rather than consult the switchboard (which could have identified the cause) or check the roster herself, she directed a change to the switchboard's call-handling process. Annexed and marked "CS-3" is that email chain.
 
