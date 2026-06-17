@@ -38,6 +38,7 @@ Parent skill for Cory Shepherd's QIRC psychiatric-injury appeal. This file route
 | analysing the disclosure dispute — objection grounds, metadata, provenance, who-reads-it | `sub-skills/disclosure-mechanics.md` |
 | weighing settlement, Calderbank, the deed, release scope | `sub-skills/settlement.md` |
 | touching PID/reprisal, QHRC, CCC, QCAT, or any non-WC track | `sub-skills/parallel-tracks.md` |
+| framing or wording an argument — how to structure submissions, persuade, sentence craft, Bar-table technique, the established voice | `sub-skills/advocacy-and-persuasion.md` |
 
 When in doubt, load the parent + confirmed-record and ask which task. Several sub-skills may apply to one request — load all that fit.
 
