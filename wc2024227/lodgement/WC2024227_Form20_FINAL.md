@@ -155,7 +155,7 @@ Before me:
 | CS-7 | Medical certificates: MDD with Anxious Distress; onset 18 June 2024; currently 0.5 FTE (to encompass the Psychiatric Report of Dr Ravikumar Krishnaiah and the Work Capacity Certificates of Dr Peter Hawes) | 45 | s 580 non-publication |
 | CS-8 | Monthly call statistics ("Individual monthly stats"), maintained and authored by the deponent | 9 | emergency-code data — s 580 |
 
-**Referred to, not annexed** (already before the Commission / disclosed in the proceeding): the MSH letter of 5 June 2026 (ref K-LM26/729) and the documents disclosed with it (Items 6, 11, 12, 13, 15, 16) — at ¶29, ¶49 and ¶51; and the Respondent's disclosure of 11 June 2026 (the 15–16 May 2024 correspondence concerning the complaint) — at ¶52.
+**Referred to, not annexed** (already before the Commission / disclosed in the proceeding): the MSH letter of 5 June 2026 (ref K-LM26/729) and the documents disclosed with it (Items 6, 11, 12, 13, 15, 16) — at ¶49 and ¶51; and the Respondent's disclosure of 11 June 2026 (the 15–16 May 2024 correspondence concerning the complaint) — at ¶52.
 
 **FILED BY:** Cory Lea Shepherd, Appellant (Self-Represented) — 15 Edmond Street, Coomera QLD 4209 · 0417 400 227 · coryshepherd1@hotmail.com
 
@@ -173,7 +173,7 @@ Before me:
 
 **Verify before lodging:**
 - ☒ Amended 9A filing date — resolved. The Amended 9A was lodged across 7–8 April 2026; "filed 7 April 2026" stands.
-- ☐ New admitted-fact citations — confirm against the Respondent's Form 24 (SOFC) PDF before swearing: ¶34 (PID, Para 20), ¶35 (retraction, Para 21), ¶44 (medical records without a Notice, Para 25). Existing citations Paras 1, 3, 5, 14, 17, 18, 37, 40, 41 also to be re-checked.
+- ☐ **Form 24 paragraph numbers — verify every one against the SOFC PDF before swearing.** The body cites: Para 1 and Paras 3–4 (7-hour break / 10-hour minimum, ¶38); Para 5 (rostering-error acknowledgment, ¶32); Paras 6 and 7 (communication-book removal and contents, ¶31); Para 8 (patient-safety function, ¶6); Paras 17, 18 and 19 (union policy / notification / failure to facilitate, ¶36); Para 20 (PID determination, ¶34); Paras 21 and 22 (retraction direction / comparator email, ¶35); Para 25 (medical records — non-service, ¶44); Para 34 (Review Decision contents admitted, ¶41); Paras 40 and 41 (AVAC instruction / 25-day delay, ¶37). The confirmed record warns the Notice/Response numbering drifts — confirm each.
 - ☐ New facts to confirm: ¶33 (four submissions, once by text, three via myHR; two declines by Ms Taylor; her lack of delegated authority — confirm against the Item 11 myHR audit trail and the Item 13 HR delegation instrument; confirm the delegation date: the Instrument states effective 5 December 2022, while MSH's letter referred to it as "signed 23 November 2022"); ¶42 (meetings 12 & 16 July 2024 while on certified leave); ¶43 (8 Oct 2024 abandonment termination and reinstatement, TD/2024/110).
 - ☒ **¶40 — resolved.** Rendered factually ("Ms Taylor relied on a 2020 agreement to deny paid fatigue leave…"); the contested words "superseded" and "casual" have been removed. A 7-hour break breaches even an 8-hour agreement, so this paragraph is not load-bearing.
 - ☐ CS-5 must be curated — annex only the 15–21 May 2024 exchange (pp 1–6). Excise the 11 July 2024 email (pp 7–8): fraud/corruption allegations and personal/family detail, barred and prejudicial.
