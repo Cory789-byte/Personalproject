@@ -14,8 +14,14 @@ def render(md):
     lines = md.split('\n')
     out, i = [], 0
     n = len(lines)
+    pending_cols = None
     while i < n:
         ln = lines[i]
+        # column-width hint for the next table, e.g. <!--cols:6,28,16,26,24-->
+        mcols = re.match(r'^\s*<!--\s*cols:\s*([\d,\s.]+)\s*-->\s*$', ln)
+        if mcols:
+            pending_cols = [w.strip() for w in mcols.group(1).split(',') if w.strip()]
+            i += 1; continue
         # table block
         if ln.strip().startswith('|') and i+1 < n and re.match(r'^\s*\|[\s:|-]+\|\s*$', lines[i+1]):
             header = [c.strip() for c in ln.strip().strip('|').split('|')]
@@ -24,7 +30,13 @@ def render(md):
             while i < n and lines[i].strip().startswith('|'):
                 rows.append([c.strip() for c in lines[i].strip().strip('|').split('|')])
                 i += 1
-            out.append('<table><thead><tr>' + ''.join(f'<th>{inline(h)}</th>' for h in header) + '</tr></thead><tbody>')
+            ncol = len(header)
+            widths = pending_cols if (pending_cols and len(pending_cols) == ncol) else None
+            pending_cols = None
+            if widths is None:
+                widths = ['6', '28', '16', '26', '24'] if ncol == 5 else [str(round(100 / ncol, 2))] * ncol
+            colgroup = '<colgroup>' + ''.join(f'<col style="width:{w}%">' for w in widths) + '</colgroup>'
+            out.append('<table>' + colgroup + '<thead><tr>' + ''.join(f'<th>{inline(h)}</th>' for h in header) + '</tr></thead><tbody>')
             for r in rows:
                 out.append('<tr>' + ''.join(f'<td>{inline(c)}</td>' for c in r) + '</tr>')
             out.append('</tbody></table>')
@@ -81,9 +93,11 @@ h3 { font-size: 11pt; margin-top:9pt; margin-bottom:3pt; }
 p, li { text-align: justify; }
 blockquote { border-left:3px solid #999; margin:6pt 0; padding:4pt 10pt; background:#f4f4f4; font-size:10pt; }
 hr { border:0; border-top:1px solid #000; margin:9pt 0; }
-table { border-collapse: collapse; width:100%; font-size:9pt; margin:6pt 0; border:1.5pt solid #000; }
-th, td { border:0.75pt solid #000; padding:3pt 5pt; vertical-align:top; text-align:left; }
+table { border-collapse: collapse; width:100%; font-size:8.5pt; margin:6pt 0; border:1.5pt solid #000; table-layout: fixed; }
+th, td { border:0.75pt solid #000; padding:3pt 5pt; vertical-align:top; text-align:left; word-wrap:break-word; overflow-wrap:break-word; line-height:1.2; }
 th { background:#e8e8e8; }
+thead { display: table-header-group; }
+tr { page-break-inside: avoid; }
 ol, ul { margin:4pt 0; padding-left:20pt; }
 li { margin-bottom:2.5pt; }
 strong { font-weight:bold; }

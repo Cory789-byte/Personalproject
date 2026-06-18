@@ -34,6 +34,7 @@ The Appellant does not press the Form 29 in full. He has narrowed and disposed o
 
 **Disposition of all twenty Items (overview):**
 
+<!--cols:7,23,70-->
 | Item | Disposition | Scope / basis |
 |---|---|---|
 | 1 | Pressed (produce or swear) | SPOK emergency-paging export, 17–18 Mar 2024 |
@@ -120,6 +121,7 @@ MSH's objections reduce to three refrains, each of which the Notice already answ
 ## SCHEDULE B — RELEVANCE MAP
 Each pressed Item is tied below to the document sought, the matter in issue (Amended 9A), the admitted Form 24 fact, and the s 32(5)(a) element it tends to prove — demonstrating, on the face of the application, that it is the documents (not merely the allegations) that are directly relevant (*State of Queensland (Department of Families) v Workers' Compensation Regulator* [2025] QIRC 179 [46]–[48]; and, by analogy under the UCPR, *Chenoweth v ING* [2004] QSC 143).
 
+<!--cols:6,26,15,28,25-->
 | Item | Document sought | Matter in issue (Amended 9A) | Anchor (Form 24 admitted facts) | What the document tends to prove on s 32(5)(a) |
 |---|---|---|---|---|
 | 1 | SPOK emergency-paging export, 17–18 Mar 2024 (code/MET activations; response-acknowledgement timestamps; clinician/patient identifiers may be redacted) | Stressor 3: managing life-safety codes under the 7-hour-break exhaustion | Para 1 (7-hr break, admitted); Para 37 (the Regulator admits the contents of its own Review Officer's decision, including the "unreasonable management action" finding; relevance reserved to the Commission on the de novo hearing); Para 8 (Switchboard patient-safety function, admitted) | Whether the rostering, and the safety-critical load coordinated under exhaustion, was reasonable management action taken in a reasonable way |

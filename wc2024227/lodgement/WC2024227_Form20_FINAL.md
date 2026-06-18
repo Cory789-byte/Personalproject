@@ -144,6 +144,7 @@ Before me:
 
 ## EXHIBIT INDEX (Form 21 certificate on each annexed exhibit)
 
+<!--cols:10,78,12-->
 | Mark | Document | Para |
 |---|---|---|
 | CS-1 | Email chain re the MASPER directive, including the Line Manager's email of 9 May 2024 | 27 |
