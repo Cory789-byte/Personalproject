@@ -122,9 +122,8 @@ I, CORY LEA SHEPHERD, of 15 Edmond Street, Coomera in the State of Queensland, A
 
 51. With its letter of 5 June 2026, MSH also disclosed documents in answer to Items 6, 11, 12, 13, 15 and 16 of the Form 29. Those documents are before the Commission and I refer to them rather than annex them. They include: the Role Description for the Manager of Switchboard Services (Item 6); the HR sub-delegation instrument for paid special pandemic leave (the COVID-19 Pandemic Event Instrument) together with Pandemic Directive 01/20 and its Implementation Guideline (Item 13); my myHR leave records and AVAC history for the pandemic-leave period (Item 11); the pandemic-leave audit trail for the Logan Hospital Switchboard team (Item 12); my leave-takings report for 19 March 2024 (Item 15); and the daily staffing-variance forms for the periods 5–18 February and 19 February–3 March 2024 (Item 16).
 
-52. On 11 June 2026 the Respondent disclosed in this proceeding, under cover of an email describing the material as "received through Notice of Non-Party Disclosure request and conferencing," correspondence dated 15–16 May 2024 concerning my complaint and the operational and human-resources response to it. That correspondence is contemporaneous operational and human-resources material falling within the 13–31 May 2024 date range that is the subject of Item 20 — the material MSH's letter states "does not exist" on the basis that the reference "PID24-ESU-1130" "commenced in November 2024"; the correspondence is dated within the Item 20 window irrespective of when that reference number was later assigned. I rely on that disclosure in support of the matters deposed in Parts C to F; its significance for Item 20 is addressed in my submissions.
+52. On 11 June 2026 the Respondent disclosed in this proceeding, under cover of an email describing the material as "received through Notice of Non-Party Disclosure request and conferencing," correspondence dated 15–16 May 2024 concerning my complaint and the operational and human-resources response to it. That correspondence is contemporaneous operational and human-resources material falling within the 13–31 May 2024 date range that is the subject of Item 20 — the material MSH's letter states "does not exist" on the basis that the reference "PID24-ESU-1130" "commenced in November 2024"; the correspondence is dated within the Item 20 window irrespective of when that reference number was later assigned. Annexed and marked "CS-4" is the Respondent's covering email of 11 June 2026 (the covering email only). I rely on that disclosure in support of the matters deposed in Parts C to F; its significance for Item 20 is addressed in my submissions.
 
-53. Material has also been disclosed through the witness-conferencing process in this proceeding (the emails I have previously described as the "Disclosure from witness conferencing"). That material is confidential and is before the Commission; I refer to it and do not annex it.
 
 ---
 
@@ -140,7 +139,7 @@ Before me:
 
 ………………………………………… (full name and qualification of witness — Justice of the Peace / Commissioner for Declarations / Lawyer)
 
-*(The deponent and the witness sign the foot of every page of this affidavit. Each annexed exhibit, CS-1 to CS-3, is to bear a Form 21 exhibit certificate completed and signed by the witness.)*
+*(The deponent and the witness sign the foot of every page of this affidavit. Each annexed exhibit, CS-1 to CS-4, is to bear a Form 21 exhibit certificate completed and signed by the witness.)*
 
 ## EXHIBIT INDEX (Form 21 certificate on each annexed exhibit)
 
@@ -150,10 +149,11 @@ Before me:
 | CS-1 | Email chain re the MASPER directive, including the Line Manager's email of 9 May 2024 | 27 |
 | CS-2 | Correspondence 18–20 May 2024 — the Appellant's email to Together (Ms Heather Hayes) and the union's 20 May confirmation it passed the correspondence to the Health team | 36 |
 | CS-3 | The Appellant's application of 31 August 2023 to increase to full time, recording his intention to become the Switchboard union delegate | 5 |
+| CS-4 | The Respondent's covering email of 11 June 2026 (disclosure "received through Notice of Non-Party Disclosure request and conferencing") — the covering email only | 52 |
 
 **Deposed, not annexed.** To keep the annexures to the minimum, all other matters are deposed in the affidavit and held by the Appellant (producible if the Commission requires): the myHR movement/classification record (¶4); the monthly call statistics (¶9); the 16 June 2023 and 15/21 May 2024 consultation correspondence (¶¶20, 28); and the medical evidence, which is dealt with in the substantive appeal (¶45). No medical material is annexed to this affidavit.
 
-**Referred to, not annexed** (already before the Commission / disclosed in the proceeding): the MSH letter of 5 June 2026 (ref K-LM26/729) and the documents disclosed with it (Items 6, 11, 12, 13, 15, 16) — at ¶49 and ¶51; and the Respondent's disclosure of 11 June 2026 (the 15–16 May 2024 correspondence concerning the complaint) — at ¶52.
+**Referred to, not annexed** (already before the Commission / disclosed in the proceeding): the MSH letter of 5 June 2026 (ref K-LM26/729) and the documents disclosed with it (Items 6, 11, 12, 13, 15, 16) — at ¶49 and ¶51; and, as to the Respondent's disclosure of 11 June 2026, the covering email is annexed (CS-4) while the 15–16 May 2024 correspondence it transmitted is referred to, not annexed — at ¶52.
 
 **FILED BY:** Cory Lea Shepherd, Appellant (Self-Represented) — 15 Edmond Street, Coomera QLD 4209 · 0417 400 227 · coryshepherd1@hotmail.com
 
