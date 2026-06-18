@@ -43,25 +43,6 @@ Dated: ………………………………
 
 This is the exhibit marked **"CS-3"** referred to in the affidavit of CORY LEA SHEPHERD affirmed 18 June 2026.
 
-*The Respondent's covering email of 11 June 2026 (disclosure "received through Notice of Non-Party Disclosure request and conferencing") — the covering email only (Affidavit ¶52).*
-
-Before me:
-
-…………………………………………………………………  *(signature of witness)*
-
-…………………………………………………………………  *(full name and qualification — Justice of the Peace / Commissioner for Declarations / Lawyer)*
-
-Dated: ………………………………
-
-[newpage]
-
-# FORM 21 — CERTIFICATE OF EXHIBIT
-
-**QUEENSLAND INDUSTRIAL RELATIONS COMMISSION** — Matter No: WC/2024/227
-**BETWEEN:** CORY LEA SHEPHERD (Appellant) **and** WORKERS' COMPENSATION REGULATOR (Respondent)
-
-This is the exhibit marked **"CS-4"** referred to in the affidavit of CORY LEA SHEPHERD affirmed 18 June 2026.
-
 *The Appellant's application of 31 August 2023 to increase to full-time hours, recording his intention to become the Switchboard union delegate (Affidavit ¶5).*
 
 Before me:

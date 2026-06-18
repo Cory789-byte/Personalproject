@@ -5,7 +5,8 @@
 ## Completed at the moment of swearing (do not pre-fill)
 - ☐ Date and place in the jurat
 - ☐ Deponent + witness signature at the foot of every page
-- ☐ Form 21 certificate signed by the witness on each annexed exhibit (CS-1 to CS-4)
+- ☐ Form 21 certificate signed by the witness on each annexed exhibit (CS-1 to CS-3)
+- ☐ The 11 June 2026 covering email is no longer annexed (CS-3 removed); the 11 June disclosure is referred to, not annexed (it is the Respondent's disclosure, before the Commission). You hold the covering email and can produce it if the Commission requires.
 
 ## Verify before lodging
 - ☒ **Amended 9A filing date — resolved.** Lodged across 7–8 April 2026; "filed 7 April 2026" stands.
