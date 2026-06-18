@@ -143,13 +143,13 @@ Before me:
 
 ## EXHIBIT INDEX (Form 21 certificate on each annexed exhibit)
 
-<!--cols:10,78,12-->
-| Mark | Document | Para |
-|---|---|---|
-| CS-1 | Email chain re the MASPER directive, including the Line Manager's email of 9 May 2024 | 27 |
-| CS-2 | Correspondence 18–20 May 2024 — the Appellant's email to Together (Ms Heather Hayes) and the union's 20 May confirmation it passed the correspondence to the Health team | 36 |
-| CS-3 | The Appellant's application of 31 August 2023 to increase to full time, recording his intention to become the Switchboard union delegate | 5 |
-| CS-4 | The Respondent's disclosure of 11 June 2026 (the 15–16 May 2024 correspondence concerning the complaint) | 52 |
+<!--cols:8,64,14,14-->
+| Mark | Document | Para | Pages |
+|---|---|---|---|
+| CS-1 | Email chain re the MASPER directive, including the Line Manager's email of 9 May 2024 | 27 | 4 |
+| CS-2 | Correspondence 18–20 May 2024 — the Appellant's email to Together (Ms Heather Hayes) and the union's 20 May confirmation it passed the correspondence to the Health team | 36 | 3 |
+| CS-3 | The Appellant's application of 31 August 2023 to increase to full time, recording his intention to become the Switchboard union delegate | 5 | 2 |
+| CS-4 | The Respondent's disclosure of 11 June 2026 (the 15–16 May 2024 correspondence concerning the complaint) | 52 | 2 |
 
 **Deposed, not annexed.** To keep the annexures to the minimum, all other matters are deposed in the affidavit and held by the Appellant (producible if the Commission requires): the myHR movement/classification record (¶4); the monthly call statistics (¶9); the 16 June 2023 and 15/21 May 2024 consultation correspondence (¶¶20, 28); and the medical evidence, which is dealt with in the substantive appeal (¶45). No medical material is annexed to this affidavit.
 
