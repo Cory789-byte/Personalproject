@@ -130,7 +130,7 @@ I, CORY LEA SHEPHERD, of 15 Edmond Street, Coomera in the State of Queensland, A
 
 **AFFIRMED** by the deponent CORY LEA SHEPHERD
 
-at ………………………………………… (place) in the State of Queensland on ………………………………………… (date) 2026
+at ………………………………………… (place) in the State of Queensland on 18 June 2026
 
 ………………………………………… (signature of deponent)
 
