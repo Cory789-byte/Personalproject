@@ -15,6 +15,7 @@ def render(md):
     out, i = [], 0
     n = len(lines)
     pending_cols = None
+    pending_break = False
     while i < n:
         ln = lines[i]
         # column-width hint for the next table, e.g. <!--cols:6,28,16,26,24-->
@@ -22,6 +23,9 @@ def render(md):
         if mcols:
             pending_cols = [w.strip() for w in mcols.group(1).split(',') if w.strip()]
             i += 1; continue
+        # forced page break — applied to the next block element
+        if re.match(r'^\[newpage\]\s*$', ln):
+            pending_break = True; i += 1; continue
         # table block
         if ln.strip().startswith('|') and i+1 < n and re.match(r'^\s*\|[\s:|-]+\|\s*$', lines[i+1]):
             header = [c.strip() for c in ln.strip().strip('|').split('|')]
@@ -44,7 +48,10 @@ def render(md):
         # headings
         m = re.match(r'^(#{1,6})\s+(.*)$', ln)
         if m:
-            lvl = len(m.group(1)); out.append(f'<h{lvl}>{inline(m.group(2))}</h{lvl}>'); i += 1; continue
+            lvl = len(m.group(1))
+            brk = ' style="page-break-before:always"' if pending_break else ''
+            pending_break = False
+            out.append(f'<h{lvl}{brk}>{inline(m.group(2))}</h{lvl}>'); i += 1; continue
         # hr
         if re.match(r'^---+\s*$', ln):
             out.append('<hr>'); i += 1; continue
@@ -104,6 +111,8 @@ strong { font-weight:bold; }
 p.num { margin:4pt 0; padding-left:2.2em; text-indent:-2.2em; text-align:justify; }
 p.num .n { font-weight:bold; }
 ul.sub { margin:2pt 0 4pt 0; }
+.newpage { page-break-before: always; }
+.sig { margin-top:14pt; }
 """
 
 src, dst = sys.argv[1], sys.argv[2]
