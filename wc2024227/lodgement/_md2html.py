@@ -26,6 +26,10 @@ def render(md):
         # forced page break — applied to the next block element
         if re.match(r'^\[newpage\]\s*$', ln):
             pending_break = True; i += 1; continue
+        # red banner: [[banner:TEXT]]
+        mb = re.match(r'^\[\[banner:(.+)\]\]\s*$', ln)
+        if mb:
+            out.append(f'<p class="banner">{inline(mb.group(1))}</p>'); i += 1; continue
         # table block
         if ln.strip().startswith('|') and i+1 < n and re.match(r'^\s*\|[\s:|-]+\|\s*$', lines[i+1]):
             header = [c.strip() for c in ln.strip().strip('|').split('|')]
@@ -113,6 +117,7 @@ p.num .n { font-weight:bold; }
 ul.sub { margin:2pt 0 4pt 0; }
 .newpage { page-break-before: always; }
 .sig { margin-top:14pt; }
+.banner { color:#c00000; font-weight:bold; text-align:center; border:1.5pt solid #c00000; padding:5pt; margin:4pt 0 8pt 0; font-size:11pt; }
 """
 
 src, dst = sys.argv[1], sys.argv[2]

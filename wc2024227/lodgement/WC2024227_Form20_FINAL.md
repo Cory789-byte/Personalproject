@@ -97,7 +97,7 @@ I, CORY LEA SHEPHERD, of 15 Edmond Street, Coomera in the State of Queensland, A
 
 40. **Fatigue-leave refusal.** When I required recovery time, Ms Taylor relied on the 8-hour-break agreement I had signed on 17 June 2020 to deny paid fatigue leave, requiring me to exhaust my own personal leave on 19 March 2024.
 
-41. **The Reviewing Officer's findings.** In the Review Decision dated 24 October 2024 the Regulator's own Reviewing Officer found that rostering me with the 7-hour break "amounted to unreasonable management action", and was "satisfied [my] employment was a significant contributing factor to the psychological injury". That Review Decision is before the Commission; its relevance falls to be determined by the Commission on the hearing de novo.
+41. **The Reviewing Officer's findings.** In the Review Decision dated 24 October 2024 the Regulator's own Reviewing Officer found that rostering me with the 7-hour break "amounted to unreasonable management action", and was "satisfied [my] employment was a significant contributing factor to the psychological injury". The Respondent admits the contents of that Review Decision — both findings — reserving only its relevance on the hearing de novo (Admitted Fact: Form 24, Para 37).
 
 ## PART F — POST-INJURY AGGRAVATION (Amended 9A)
 42. **Meetings while on certified leave.** After the onset of my injury, and while I was on certified leave, I was required to attend meetings convened by management on 12 and 16 July 2024.

@@ -1,4 +1,6 @@
-# DRAFT ORDER *(proposed by the Appellant)*
+[[banner:VERSION 2 — supersedes the draft order dated 12 June 2026]]
+
+# DRAFT ORDER (v2) *(proposed by the Appellant)*
 
 **QUEENSLAND INDUSTRIAL RELATIONS COMMISSION** — *Workers' Compensation and Rehabilitation Act 2003 (Qld)* — Matter No: WC/2024/227
 
@@ -28,7 +30,7 @@
 
 5. If any question of privacy or confidentiality is raised in respect of the production, the documents be produced to the Commission for its inspection in the first instance, with access to the parties as the Commission directs, and subject to any order under s 580 of the *Industrial Relations Act 2016*.
 
-6. Pursuant to s 580 of the *Industrial Relations Act 2016*: (a) there be no publication of any information identifying the fact or content of the Public Interest Disclosure (reference 24-ESU-1130) or the Ethical Standards Unit determination, giving effect to s 65 of the *Public Interest Disclosure Act 2010* (Qld); and (b) the witness-conferencing material before the Commission is received subject to its existing confidentiality and is not to be published.
+6. Pursuant to s 580 of the *Industrial Relations Act 2016*: (a) there be no publication of any information identifying the fact or content of the Public Interest Disclosure (reference PID 24-ESU-1130) or the Ethical Standards Unit determination, giving effect to s 65 of the *Public Interest Disclosure Act 2010* (Qld); and (b) the witness-conferencing material before the Commission is received subject to its existing confidentiality and is not to be published.
 
 7. Costs reserved.
 
@@ -54,7 +56,7 @@ The verification affidavit is directed only to verifying, after a defined search
 **Part 2 — Item-specific matters, in addition to Part 1:**
 
 - **Items 1–2 (SPOK emergency-code / paging records):** the date and nature of the SPOK "upgrade"; whether the pre-upgrade records were migrated to, retained in, or are retrievable from the upgraded system or any successor or backup, with the production of any that are retrievable and, for any that are not, the reason they are said to be irretrievable and the date and authority on which they ceased to be retained. As to the "spreadsheet of recorded MET calls" for 17–18 March 2024 — its identity, author, custodian and source system, and whether it is (a) an export from the SPOK system itself, (b) an MSH-maintained administrative record, or (c) the Appellant's own monthly call-statistics sheet (volume only) — together with its production. If it is (c), the affidavit must confirm that the SPOK system-level records (which clinician was paged, whether each page was received or acknowledged, whether any page was misdirected, and the associated timestamps) have been separately searched.
-- **Item 3(c) (consequential changes):** each change to Switchboard operating procedures, reporting lines or systems over the noticed period, with its date — addressing in terms the SPOK upgrade, the Switchboard reporting-line reorganisation, the issue of a Queensland Health device to the Line Manager, and the introduction of a separate telecommunications management role together with any restriction of contact-number and directory-database updates to that role — or, if there was no such change, a statement to that effect on oath; and in either case the reconciliation of the answer with the statement that there were "no consequential changes".
+- **Item 3(c) (consequential changes):** each change to Switchboard operating procedures, reporting lines or systems over the noticed period, with its date — addressing in terms the SPOK upgrade, the Switchboard reporting-line reorganisation, the issue of a Queensland Health device to the Line Manager, and the introduction of a separate Switchboard Telecommunications Coordinator role together with any restriction of contact-number and directory-database updates to that role — or, if there was no such change, a statement to that effect on oath; and in either case the reconciliation of the answer with the statement that there were "no consequential changes".
 - **Items 4 and 7 (fatigue risk-assessment / register):** whether any fatigue risk-assessment or register record referable to the Switchboard work area existed as at 17–18 March 2024 (as distinct from training records); if so, its production; if not, a statement on oath that none existed.
 - **Item 5 (fatigue framework):** each fatigue-risk-management policy, directive, guideline or framework (including any under the Queensland Health Fatigue Risk Management System) that applied to the Switchboard work area, or to its non-clinical administrative staff, as at 17–18 March 2024 — identified by name and number — or, if none applied, a statement on oath to that effect; and in either case the date on which fatigue risk management was implemented at the Switchboard.
 - **Item 18 (communication book; 15 November 2023 business-case minutes):** whether each record exists; and if either was destroyed, when, by whom, and under what authority.
