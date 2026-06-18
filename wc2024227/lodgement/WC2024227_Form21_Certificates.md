@@ -62,7 +62,7 @@ Dated: ………………………………
 
 This is the exhibit marked **"CS-4"** referred to in the affidavit of CORY LEA SHEPHERD affirmed 18 June 2026.
 
-*The Respondent's covering email of 11 June 2026 (disclosure "received through Notice of Non-Party Disclosure request and conferencing") — the covering email only (Affidavit ¶52).*
+*The Respondent's disclosure of 11 June 2026 (the 15–16 May 2024 correspondence concerning the complaint) (Affidavit ¶52).*
 
 Before me:
 

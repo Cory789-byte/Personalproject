@@ -30,7 +30,7 @@
 
 5. If any question of privacy or confidentiality is raised in respect of the production, the documents be produced to the Commission for its inspection in the first instance, with access to the parties as the Commission directs, and subject to any order under s 580 of the *Industrial Relations Act 2016*.
 
-6. Pursuant to s 580 of the *Industrial Relations Act 2016*: (a) there be no publication of any information identifying the fact or content of the Public Interest Disclosure (reference PID 24-ESU-1130) or the Ethical Standards Unit determination, giving effect to s 65 of the *Public Interest Disclosure Act 2010* (Qld); and (b) the witness-conferencing material before the Commission is received subject to its existing confidentiality and is not to be published.
+6. Pursuant to s 580 of the *Industrial Relations Act 2016*, there be no publication of any information identifying the fact or content of the Public Interest Disclosure (reference PID 24-ESU-1130) or the Ethical Standards Unit determination, giving effect to s 65 of the *Public Interest Disclosure Act 2010* (Qld).
 
 7. Costs reserved.
 
