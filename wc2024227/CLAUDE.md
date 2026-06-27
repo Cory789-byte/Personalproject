@@ -38,6 +38,7 @@ Keep **confirmed-against-source** strictly separate from **working-theory**. A m
 
 ## Current status (UPDATE EACH SESSION)
 
+- **2026-06-27 (LIVE):** Rule 64G application **FILED & SEALED 23 June 2026**, served on MSH 24 June; **hearing listed 7 August 2026 before Dwyer, MSH required to attend.** Matter correspondence + the OneDrive "01 FINISHED APPEAL" folder ingested into `evidence-index/`. Full picture + de novo demolition in `skill/references/case-theory-synthesis.md` §15. Renewed Calderbank held until post-production. Evidence source = Gmail + M365/OneDrive connectors (NOT the Trustandcollectiveco Outlook).
 - 64G application v5 built and validated (no case law; full-scale Section G; onus corrected to Appellant; Annexure C = single headed McGinley page). **Filing deadline 12 June 2026.** As of last session: NOT YET FILED.
 - Immediate task: the four pre-filing verifications (Form 24 pinpoints; IRO-as-persuasive-not-binding; onus paragraph; Hawes date 8 Sept not 1 July) + fill address/phone + lodge.
 - Next after filing: index email to Matheson (post-service, written).

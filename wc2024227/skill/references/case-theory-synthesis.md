@@ -513,3 +513,57 @@ more she managed by remote decree, the worse it looks. **Honest limit:** the
 directives' unreasonableness stays contestable, but the battleground is now
 correctly "was this ACTION reasonable," not "was absence action" — the right fight,
 and Cory holds the nature-of-work evidence.
+
+
+---
+
+## 15. LIVE STATE & EVIDENCE INDEX (2026-06-27) — the full picture, current
+
+**This is the live anchor for the full picture. Read with the evidence-index.**
+
+### Where it actually stands (procedural)
+- **Rule 64G application FILED & SEALED 23 June 2026** (Form 4 + Form 20), circulated
+  by Registry 24 June, **served on MSH 24 June**. (The 12 June attempt was bounced by
+  Registry on 14 June for format; refiled 23 June.)
+- **Listing: 7 August 2026 before Commissioner Dwyer — MSH (Myla Ruttan) REQUIRED to
+  attend.** This is the hearing of the objection / the 64G.
+- The disclosure sequence we are driving toward: 7 Aug objection heard → production
+  ordered → production + verification affidavit land → THEN settle on the fat record.
+
+### The evidence index (the ingested corpus — `wc2024227/evidence-index/`)
+- `communications-register.md` — full QIRC/Regulator/MSH correspondence timeline +
+  cadence/signal analysis + the orders spine (the procedural full picture).
+- `sources-text/correspondence-bodies.md` — verbatim email bodies (Calderbank #1 +
+  Matheson's rejection, the 11 June disclosure cover, the 22 May direction, MSH's
+  objection cover + extension app, the s552A update, attendance confirmations).
+- `sources-text/2026-06-05_MSH_Objection_KLM26-729.txt` — the full MSH objection text.
+- `01-FINISHED-APPEAL.md` — the OneDrive "finished appeal" folder manifest (4 image-only
+  correspondence PDFs pending OCR: pay/Factor 3, roster-FRMS/Factor 4, redaction/Item 10).
+- Live evidence source = the **Gmail** connector (mailbox coryshepherd1@hotmail.com) and
+  the **M365** connector (OneDrive/SharePoint). The legal mail is NOT in the
+  CoryShepherd@Trustandcollectiveco Outlook (that's a near-empty admin mailbox).
+
+### The de novo demolition (hearing/strategy spine — built 2026-06-27; NOT on the 64G)
+The Review Decision (Squires, 24 Oct 2024) is undercut from the inside:
+1. **Denominator collapse:** the doctor gave FOUR causative factors; she listed four;
+   the conclusion counts "two of THREE" — Factor 1 (rules/union) silently dropped at the
+   substantiation gate **against the evidence** (union policy held + union forwarded the
+   delegate forms; EB11 s 1.9 never obtained). Restore it → 2-of-4 → no majority.
+2. **Pay/Covid mislabelled "blemished but resolved":** the duty is *timely* correct
+   payment, so the delay + 3× Covid declines ARE the breach, not cured by the fix — and
+   they are Factor 1 (rule non-adherence), not just Factor 3.
+3. **Tally:** one breach conceded (the 10-hr break); **≥7 actual** across five instruments
+   (Award, fatigue-leave policy, FRMS policy, union policy, EB11) + timeliness + Covid.
+- Frame stays **error, not bias**; **de novo cures the thin record**; none of it touches
+  the 64G (argument-free). MSH's 5 June letter also self-contradicts (Item 3(c) "no
+  consequential changes" vs Item 5 "organisational change to the reporting lines").
+
+### Settlement / Calderbank conclusion (current)
+- Calderbank #1 (17 Feb 2026) was flatly rejected (Matheson, 18 Feb: "defending the
+  appeal"). The present question is a **renewed** offer.
+- **Hold it until post-production** (after 7 Aug → order → production + verification
+  affidavit in hand). An offer before disclosure is the escape hatch that lets them avoid
+  producing; an offer after locks in the records as durable parallel-track ammunition.
+  Because the WC win is *statutory* (not common-law damages), settle-vs-hear is roughly
+  money-neutral — the only thing a hearing adds is judicial findings (accountability),
+  which belong on the parallel track. Release the **compensation claim only**.
