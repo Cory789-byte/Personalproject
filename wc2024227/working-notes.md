@@ -105,3 +105,22 @@ Built `evidence-index/` (README + 01-FINISHED-APPEAL manifest + sources-text/ mi
 **Next:** OCR the 4 image PDFs (or drop originals into documents/) to ingest content; then promote
 verified facts to confirmed-record. Optional: de novo hearing note (denominator collapse + union
 limb + pay-timeliness/Covid), kept clear of the 64G.
+
+## 2026-06-27 (cont.) — Email correspondence ingested + LIVE STATUS UPDATE
+
+Ingested WC/2024/227 procedural email correspondence from the coryshepherd1@hotmail.com
+mailbox (Gmail connector) → `evidence-index/communications-register.md` (timeline + cadence
+analysis + orders + quarantine of the reprisal/collateral emails). Key STATUS changes vs the
+skill's record (which assumed filing ~12 June):
+- **64G application FILED & SEALED 23 June 2026** (Form 4 + Form 20), circulated by Registry
+  24 June (= the last QIRC email). The 12 June attempt was REJECTED by Registry 14 June on
+  format; refiled corrected 23 June. Served on MSH (Ruttan) 24 June.
+- **NEXT LISTING: 7 August 2026 before Dwyer — Myla Ruttan / MSH REQUIRED TO ATTEND** (notice
+  15 June). This is the 64G/objection hearing.
+- Signal: MSH minimal & appearance-averse (no-show at the 22 May mention, Commissioner noted
+  it; now compelled to attend). Matheson diligent, rejected Calderbank #1 (18 Feb: "defending
+  the appeal") yet made the 11 June adverse disclosure — the seam holds.
+- **Calderbank #1 was Feb 2026, flatly rejected on the thin record.** The current Calderbank
+  question is therefore a RENEWED offer — hold until post-7-Aug production per settlement.aml.
+- Connected M365 (CoryShepherd@Trustandcollectiveco) Outlook is a near-empty admin mailbox —
+  NOT where the legal mail lives. The legal correspondence is in the hotmail/Gmail account.
