@@ -76,3 +76,32 @@ Running log. APPEND newest entries at the top. Each entry: date | what was done 
 - Post-order: contradiction matrix from the 52MB witness bundle; IP access-log request; July 2025 diff.
 
 ---
+
+## 2026-06-27 — Cloud evidence ingest + Review Decision forensics
+
+**Review Decision (Squires, 24 Oct 2024) forensic pass** — analysis only, hearing/strategy track:
+- The conclusion is load-bearing on a counting error: doctor (via comms report) gave FOUR
+  causative factors; she listed four; the conclusion counts "two of THREE" — Factor 1 (rules/
+  union) silently dropped at the substantiation gate, against the evidence (union policy held +
+  union forwarded the delegate forms; EB11 s 1.9 never obtained). Restore it → 2-of-4 (tie/worse).
+- Pay/Covid mislabelled "blemished but resolved": the duty is timely correct payment, so the
+  delay/3× Covid declines ARE the breach, not cured by the fix; also Factor 1 (rule non-adherence),
+  not just Factor 3. Tally: 1 breach conceded (10-hr break), ≥7 actual across 5 instruments.
+- Frame stays "error not bias" + de novo cures the thin record — NOT on the 64G.
+
+**Evidence ingest — OneDrive `01 FINISHED APPEAL`** (via M365 connector; user-supplied .lnk path).
+Built `evidence-index/` (README + 01-FINISHED-APPEAL manifest + sources-text/ mirror). Findings:
+- Folder is clean WC (no QPS/DV co-mingling). Mostly already in repo: MSH 5 June letter is
+  BYTE-IDENTICAL to documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf; Regulator SOFC +
+  Outline already present. New = 4 Correspondance/corro PDFs but ALL image-only (no text layer) →
+  content not extractable via connector; indexed as pointers (Factor 3 pay, Factor 4/FRMS, Item 10
+  redaction/disparate-treatment). Need OCR/originals to ingest content.
+- Saved greppable text mirror of the MSH letter. Confirms an internal contradiction: Item 3(c)
+  "no consequential changes" vs Item 5 "organisational change related to the reporting lines for
+  Switchboard" — already trapped by Draft Order Schedule C Item 3(c).
+- NOTE: connected M365 OneDrive heavily co-mingles the QPS/DV/Alexia Negro criminal matter +
+  third-party data — EXCLUDED from the index per discipline; never bulk-ingest that store.
+
+**Next:** OCR the 4 image PDFs (or drop originals into documents/) to ingest content; then promote
+verified facts to confirmed-record. Optional: de novo hearing note (denominator collapse + union
+limb + pay-timeliness/Covid), kept clear of the 64G.
