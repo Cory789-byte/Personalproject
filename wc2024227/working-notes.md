@@ -124,3 +124,36 @@ skill's record (which assumed filing ~12 June):
   question is therefore a RENEWED offer — hold until post-7-Aug production per settlement.aml.
 - Connected M365 (CoryShepherd@Trustandcollectiveco) Outlook is a near-empty admin mailbox —
   NOT where the legal mail lives. The legal correspondence is in the hotmail/Gmail account.
+
+## 2026-06-27 — FULL-PICTURE ASSESSMENT (6-agent workflow + adversarial red-team)
+
+Grades: merits 7 (unreasonableness limb ~70-80%, but OVERALL ~50-65%); disclosure/64G 8
+(~80-85% some production, likely VARIED); settlement 8 (acceptance ~10-20% now / ~60-80%
+post-production); risk 6; procedural 7. Modal path = settle post-production.
+
+THE ONE THING THAT COULD LOSE IT = MEDICAL CAUSATION (red-team, verified):
+- Hawes WCC (08.09.2024) diagnoses "anxiety, stress" — NOT MDD as the north star/CB draft say
+  — and mechanism is "bosses victimising him," roster mentioned NOWHERE.
+- Regulator operative SOFC (13.05.2026) para 22(f) expressly DENIES causation; pleads
+  pre-injury anxiety/ADHD; seeks COSTS vs the self-rep. Onus on Cory (Davis v Blackwood);
+  Mahaffey needs the 7-hr break a SIGNIFICANT contributor. Psychiatrist report does not exist.
+  Causation currently points the WRONG way. Everything funnels through it.
+
+CORRECTIONS (I/we were overconfident this session):
+- "Denominator collapse" is NOT a counting error: Squires gave a REASONED non-substantiation
+  of Factor 1 (union delegate = union's responsibility; recruitment complied). It's a merits
+  fight to OVERTURN at hearing, can be lost — not arithmetic. (Underlying critique survives.)
+- It's an 8-HOUR minimum, not 10: Review Officer found the breach on "award AND the 8-hr
+  agreement" (assumed 8-hr applied, still breach). Regulator pleads "7 rather than 8." Fixed
+  in Calderbank draft para 6.
+- MDD vs "anxiety, stress" discrepancy — resolve in the medical evidence.
+
+ACTION ITEMS (new, surfaced by red-team — none previously flagged):
+1. 64G TIMELINESS: operative app sealed 23 June = 18 days after the 5 June objection; r 64G(1)
+   wants 7 days. 12 June attempt bounced for format. Relation-back/leave is DISCRETIONARY.
+   Verify it's properly on foot before 7 Aug.
+2. ITEM 8 WITHDRAWN in the operative filing ("duplicates Item 9") — but Item 8 (AD/Entra
+   sign-in) was the load-bearing ABSENCE proof. Confirm intended; confirm CS-1..CS-4 vetted.
+3. s 42 PID LIMITATION CLOCK — still uncomputed; events ~2 yrs old; may already be barred.
+   Compute TODAY, independent of WC timing. Deferral premise is asserted, not proven.
+4. Calderbank draft 10hr->8hr — DONE.

@@ -76,12 +76,13 @@ Dear Ms Matheson,
     the determination of the matters in issue, in return for the prompt and
     certain resolution of the appeal.
 
-6.  I do not rehearse the merits, but note only that they rest on facts already on
-    the record rather than in contest: the seven-hour break between the shifts of
-    17 and 18 March 2024 and the applicable ten-hour minimum are admitted in the
-    Response to the Notice to Admit Facts; the Respondent's own Reviewing Officer
-    found the rostering of those shifts to have amounted to unreasonable
-    management action; and the non-party's correspondence of 5 June 2026 records
+6.  I do not rehearse the merits, but note only that they rest substantially on
+    facts already on the record rather than in contest: the seven-hour break
+    between the shifts of 17 and 18 March 2024 is admitted in the Response to the
+    Notice to Admit Facts, and fell short of the applicable minimum break on
+    either the ten-hour standard or the eight-hour agreement; the Respondent's own
+    Reviewing Officer found the rostering of those shifts to have amounted to
+    unreasonable management action; and the non-party's correspondence of 5 June 2026 records
     that no fatigue-risk-management framework applied to the Logan Hospital
     Switchboard, that assessment being implemented only after 30 June 2024 —
     after the injury. If the appeal is not resolved, it will require the
