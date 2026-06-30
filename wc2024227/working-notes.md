@@ -157,3 +157,28 @@ ACTION ITEMS (new, surfaced by red-team — none previously flagged):
 3. s 42 PID LIMITATION CLOCK — still uncomputed; events ~2 yrs old; may already be barred.
    Compute TODAY, independent of WC timing. Deferral premise is asserted, not proven.
 4. Calderbank draft 10hr->8hr — DONE.
+
+## 2026-06-27 — Ingested "Qirc REG Filed forms" (operative filed instruments)
+
+Ingested the filed-forms OneDrive folder. New greppable sources: Regulator SOFC (13.05.2026),
+Amended 9A (07.04.2026), the 23 June Form-4 covering email. Manifest: evidence-index/QIRC-REG-FILED-FORMS.md.
+Quarantined the E1-LTR collateral bundle (reprisal/PID) — off the WC track.
+
+ASSESSMENT UPDATES (the filed forms resolve 3 of the 4 red-team action items):
+1. 64G TIMELINESS — SUBSTANTIALLY DE-RISKED. Covering email: "the corrected re-filing... of the
+   application made on 12 June 2026." 5 June objection + 7 days = 12 June = day 7 = ON TIME. The
+   23 June seal is a format re-file of an on-time app, relation-back framing on the record. (Still
+   Commission's discretion to accept relation-back, not automatic.)
+2. ITEM 8 — CONFIRMED WITHDRAWN. Operative Draft Order v2 presses 1,2,3(a),3(b),9,10,19. Item 8
+   (AD/Entra sign-in) OUT; Item 9 (building access, MSH's hardest objection) is the only presence proof.
+3. MDD DIAGNOSIS EXISTS (Krishnaiah; 9A injury = MDD DSM-5 296.23) — red-team's "no psychiatrist"
+   overstated. BUT Regulator SOFC ¶9 does NOT admit it; no medical yet ties injury to the ROSTER.
+4. s 42 LIMITATION — still uncomputed (not addressed by these docs). STILL OPEN.
+
+SOFC (operative defence) confirms the hard line: ¶8 pre-injury anxiety history (attacks clean baseline);
+¶10 admits Hawes SAYS "victimising" but denies it as fact; ¶16 "Ms Reese was UNAWARE of the PID" (defeats
+the reprisal causal link); ¶22(a) 7-hr "rather than 8-hr... human error, not intentional or repeated",
+22(b) "could refuse shifts at anytime", 22(e) signed June 2020 8-hr agreement, 22(f) "NOT causative";
+¶24(b) cl 18.10 Award denies fatigue leave (no overtime); decision sought incl. COSTS against the self-rep.
+NOTE: the 9A itself overstates "10-hour minimum (Form 24 Para 3)" — same error as the Calderbank (now fixed);
+live minimum is contested/8-hr.
