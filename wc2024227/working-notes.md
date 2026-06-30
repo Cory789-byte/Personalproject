@@ -182,3 +182,26 @@ the reprisal causal link); ¶22(a) 7-hr "rather than 8-hr... human error, not in
 ¶24(b) cl 18.10 Award denies fatigue leave (no overtime); decision sought incl. COSTS against the self-rep.
 NOTE: the 9A itself overstates "10-hour minimum (Form 24 Para 3)" — same error as the Calderbank (now fixed);
 live minimum is contested/8-hr.
+
+## 2026-06-27 — PID/REPRISAL TRACK research + integration (PARALLEL TRACK — off the WC track)
+
+New file: skill/references/pid-reprisal-track.md. Pulled the PID materials from OneDrive (ESU
+outcome letter 24-ESU-1130, 24 Dec 2024; ESU complaint; reprisal narrative) and integrated with
+the statutory framework.
+
+PID determined a PID 24 Dec 2024 (Janelle Loader, ESU) on the 30 Aug 2024 CCC complaint (referred
+to MSH 22 Nov 2024); plus the 13 May 2024 ESU complaint also a PID. Reprisal protection = ss 40-42
+PID Act. s 42 = reprisal IS A TORT, damages incl. exemplary, District/Supreme Court, WCRA does NOT
+apply (so the tort survives a WC settlement unless a deed releases it).
+
+LIMITATION — the standing "verify soon" action item, now COMPUTED (research, not formal advice):
+- 3-YEAR limitation (Limitation of Actions Act s 11, personal injury) is OPEN — cause accrued
+  ~mid-2024 (reprisal 15 May / injury 18 June / termination 8 Oct 2024) → runs to ~May-Oct 2027.
+  NOT time-barred. (Red-team's "possibly already fatal" was too pessimistic on the core clock.)
+- PIPA Part 1 Notice of Claim (if PIPA applies) = 9 months from the incident → ~Feb 2025 / Jul 2025
+  = LIKELY ALREADY PASSED. Late notice possible with reasonable excuse (PIPA s 9A); late != barred.
+- Whether PIPA applies to a PID reprisal psych-injury claim is genuinely arguable — needs a
+  SPECIALIST. Action: get personal-injuries/whistleblower advice NOW; give any PIPA notice promptly.
+- The psychiatrist causation report serves BOTH tracks (reprisal needs the same injury causation).
+- DEED RESERVATION (ss 40-42 + MSH) is non-negotiable in any WC settlement (rule 9) — already in
+  the Calderbank para 3.
