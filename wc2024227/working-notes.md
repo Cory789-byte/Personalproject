@@ -205,3 +205,24 @@ LIMITATION — the standing "verify soon" action item, now COMPUTED (research, n
 - The psychiatrist causation report serves BOTH tracks (reprisal needs the same injury causation).
 - DEED RESERVATION (ss 40-42 + MSH) is non-negotiable in any WC settlement (rule 9) — already in
   the Calderbank para 3.
+
+## 2026-07-01 — Calderbank #2 SENT + a COSTS CORRECTION I owe the record
+Cory SENT a renewed, counsel-grade Calderbank on 1 July 2026 (open 21 days, ~22 July), to the
+Regulator only. Text: evidence-index/sources-text/Calderbank_SENT_2026-07-01.txt. Assessment:
+- STRONGER than the held template: full legal argument (inaction/omissions -> s 32(5)(a) not engaged,
+  Read/Allwood; the onus fork; single-stressor Hochen/Mahaffey/Adams; Delaney/Carr), built on the
+  ADMITTED record + MSH concessions + the Review Officer's UMA finding — so the "thin record" objection
+  to a pre-production offer is largely answered (it doesn't need production to argue).
+- SCOPE HELD where it matters: the s 40-42 reprisal tort is NOT released; only the narrow medical-info-
+  handling complaint (6.2(d), SEVERABLE) is. WATCH: 6.2(c) offers to DISCONTINUE the 64G (severable) =
+  the disclosure/citable-decision escape; conscious call if the Regulator accepts core + (c).
+- CAUSATION stronger than the red-team assessed: a Krishnaiah PSYCHIATRIST REPORT EXISTS (Exhibit A4,
+  dated 13 Feb 2025; diagnosed 24 Oct 2024; referred by Hawes Sept 2024). Not "no psychiatrist."
+- **COSTS CORRECTION (I was WRONG earlier):** WC APPEALS are NOT the general QIRC own-costs default.
+  s 558(3) WCRA gives the Commission a costs discretion and costs "ordinarily follow the event" (Canton
+  v WCR [2019] QIRC 145 [33], applying Latoudis v Casey), on the s 191 scale, with up to 1.5x uplift
+  (s 191(3)). So the Calderbank has REAL teeth — a self-rep who briefs counsel + expert and wins can
+  recover those costs, and unreasonable rejection triggers uplift. Update settlement.md L21 accordingly.
+- POSTURE: offer live to ~22 July. If accepted -> resolved. If rejected/lapsed -> proceed to 7 Aug with
+  the costs reservation banked. Discipline: written only, no chasing; say NO to any "release everything"
+  counter (reprisal tort stays reserved).

@@ -77,3 +77,13 @@ complaint) are listed by existence only — see the quarantine note.
 
 ## Implication for the Calderbank timing question
 The 64G is heard **7 August 2026**, MSH compelled to attend. On the settlement analysis already given, the renewed Calderbank does **not** go out before then — it waits until the objection is decided, production is ordered, and the records + verification affidavit are actually in hand (post-7-August). Calderbank #1 (Feb) was made and flatly rejected on the thin record; the renewed offer must be priced off the enlarged record, not repeated into the same wall.
+
+---
+## UPDATE 2026-07-01 — Calderbank #2 SENT (renewed offer)
+Cory sent a renewed Calderbank to the Regulator (Appeals@oir; Attn Matheson) on **1 July 2026**,
+**open 21 days → lapses ~22 July 2026** (before the 7 Aug mention). Full text mirror:
+`sources-text/Calderbank_SENT_2026-07-01.txt`. Core (6.1): consent to appeal allowed/claim accepted
+(or set aside+remit) + costs under s 558(3) WCRA / s 191 scale. Severable (6.2): discontinue the 64G
+(vacate 7 Aug); release ONLY the medical-info-handling complaint (QCAT/OIC); confidentiality; walk-away.
+**s 40-42 PID reprisal tort NOT released.** Sent pre-production, but built on the ADMITTED record
+(Form 24, MSH 5 June concessions, the Review Officer's UMA finding) — not the thin Feb record.
