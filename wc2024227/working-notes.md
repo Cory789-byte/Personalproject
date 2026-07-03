@@ -226,3 +226,18 @@ Regulator only. Text: evidence-index/sources-text/Calderbank_SENT_2026-07-01.txt
 - POSTURE: offer live to ~22 July. If accepted -> resolved. If rejected/lapsed -> proceed to 7 Aug with
   the costs reservation banked. Discipline: written only, no chasing; say NO to any "release everything"
   counter (reprisal tort stays reserved).
+
+## 2026-07-03 — Employee Capability Checklist (Dr Day Hong Ma, 3.7.26) ingested + PDF built
+Built metadata-scrubbed 5pp A4 PDF from Cory's 6 photos (deduped the double scan of p1) →
+documents/medical/Employee_Capability_Checklist_CShepherd_03-07-2026.pdf. For the LBH Injury
+Management team (lbh_injurymanagement@health.qld.gov.au per the form). Key content: MDD w/ anxious
+distress ongoing; modified duties 6x8h shifts/fortnight (max 2 weekday day/aft + 2 night + 2 weekend),
+"continuation of the reduced pattern sustained since 2025"; fit from 3 July 2026; review 28 Aug 2026;
+NO complaint-handling duties; predictable rostering + MIN 10-HOUR BREAK "consistent with the Award and
+fatigue risk management standards"; stressors named = complaint handling, being blamed for others'
+failures, rostering/fatigue practices, unresolved line-management matters; cites the treating
+psychiatrist report 13-Feb-2025; meds fluoxetine 60mg + lisdexamfetamine (Vyvanse) 30mg, quetiapine
+ceased. CLAIM IMPACT: proves ongoing injury/partial incapacity (quantum continuity), corroborates the
+pleaded stressors + the 10-hr control, reinforces the Krishnaiah chain; DOUBLE-EDGE = Vyvanse feeds the
+Regulator's pre-existing ADHD/anxiety causation attack (SOFC ¶8); goes into MSH's records via Injury
+Management (clean — no collateral content).
