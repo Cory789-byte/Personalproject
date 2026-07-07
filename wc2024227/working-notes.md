@@ -241,3 +241,28 @@ ceased. CLAIM IMPACT: proves ongoing injury/partial incapacity (quantum continui
 pleaded stressors + the 10-hr control, reinforces the Krishnaiah chain; DOUBLE-EDGE = Vyvanse feeds the
 Regulator's pre-existing ADHD/anxiety causation attack (SOFC ¶8); goes into MSH's records via Injury
 Management (clean — no collateral content).
+
+## 2026-07-07 — MSH HR (Forrest) letter: RTW withheld, 7-day information demand — EVIDENCE-GRADE
+Lyndelle Forrest (Senior Consultant HR, LBH) 7 July 10:54am: ECC "reviewed and carefully
+considered" BUT return withheld pending "further information" within 7 CALENDAR DAYS (→ 14 July):
+(1) further info re the psych injury + A COPY OF THE KRISHNAIAH REPORT (13 Feb 2025) — the
+litigation causation centrepiece, requested through the HR/RTW channel while MSH (non-party)
+fights the 64G and the Regulator's SOFC ¶9 does not admit the diagnosis; (2) "clarify" the
+complaint-handling restriction; (3) "clarify" rostering/10-hr concerns — claims "not aware of
+breaching this provision", "not received any Workload Concerns"; (4) "unclear what matters you are
+being held accountable for... not aware of any concerns being raised" — from the institution served
+with the appeal, amended SOFC, Form 24, Form 29 and the sealed 64G.
+
+**BANKED (quietly — do NOT flag to them): the 8-HOUR AGREEMENT ADMISSION.** Forrest in writing:
+the 17 June 2020 8-hr agreement "is ONLY APPLIED WHERE STAFF INITIATED SHIFT SWAPS HAVE OCCURRED."
+The 17-18 March 2024 shifts were rostered by the manager, NOT a staff-initiated swap → on MSH's own
+statement the 8-hr agreement did NOT apply → the applicable minimum was 10 hours → undercuts the
+Regulator's SOFC ¶22(e) reliance and the employer's Sept-2024 "agreement remained current" position.
+Contradicts their own prior account; goes to the contradiction matrix / hearing, never to this thread.
+
+Also: rolling return date (Fri "review Mon, answer Tue COB" → Tue = 7 more days of questions);
+gatekeeper escalated from Injury Management Consultant to Senior HR Consultant; leave still being
+docked. Cory's "held out while they decide what to do about my submissions" theory materially
+strengthened. Response strategy: cooperative-in-form, boundaried-in-substance (practitioner-channel
+clarification w/ consent; DECLINE the psychiatrist report via HR; litigation matters → Metro South
+Legal; renew the paid-time request). Letter saved: documents/2026-07-07_MSH_HR_Forrest_ECC_further_information.pdf
