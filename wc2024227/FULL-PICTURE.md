@@ -169,3 +169,37 @@ August creates fresh pressure and a renewed post-production offer remains availa
 - Filed forms manifest: `evidence-index/QIRC-REG-FILED-FORMS.md`.
 - Reprisal track: `skill/references/pid-reprisal-track.md`.
 - Held Calderbank template: `drafts/Calderbank_HELD_TEMPLATE.md`. Running log: `working-notes.md`.
+
+---
+
+## 15. JULY 2026 ESCALATION — the RTW lockout, the fund, and the line (added 13 July)
+
+**The stack (all dated, all preserved):** ECC certifying fitness lodged 3 July → held out same
+day → Forrest 7 July: 7-day info demand (incl. the Krishnaiah report), "not aware of any concerns,"
+the 8-hr-agreement swap-only admission, restrictions-already-accommodated admissions → hold-out
+continues as a "Graduated RTW Plan" assessment → pay never answered, deflected to a CLOSED QSuper
+claim → Harrison→Zappia (ART) 13 July: "unable to facilitate return," ECC attached, paced to the
+28 Aug review → same day, colleague (C. Jeffrey, existing witness) texts unprompted: "have you been
+dismissed is that why Chloe is saying she will have a full time line available?"
+
+**Three readings (calibrated):**
+1. *Innocent bureaucracy* (~20-25%): risk-averse process + temporary backfill of his shifts.
+2. *Strategic delay* (~35-40%): held out while the litigation (64G/7 Aug; offer to 22 July) plays out.
+3. **Ill-health/incapacity EXIT PATHWAY (~35-40%, rising):** the tell is Forrest/Harrison's framing —
+   the Request for Medical Information will probe "the reduction in hours from Cory's SUBSTANTIVE
+   position." That is the first question of a medical-incapacity exit case ("cannot fulfil substantive
+   role; no suitable duties → ill-health process"), assembled while the line manager plans a full-time
+   line. SHIELD: the ECC itself says the condition is EPISODIC and restrictions are expected for 3-6
+   MONTHS subject to review — a temporary partial limitation does not ground an incapacity exit; his
+   alternative-duties offer already on record cuts "no suitable duties"; Dr Ma's response must speak
+   to capacity + trajectory, not just restrictions.
+
+**Discriminator events (watch):** (a) SmartJobs ad for a full-time Logan Switchboard AO3 line;
+(b) the actual questions in the Request to Dr Ma (any "permanently incapable of substantive role"
+question = the ill-health tell — send to case file immediately); (c) the pay answer / basis in
+writing; (d) the union's answer on the substantive line.
+
+**Track routing:** none of this touches the 64G/7 Aug mention. It feeds: severity + institutional-
+response (hearing/medical case), the reprisal track (fresh post-PID, post-64G detriments with fresh
+dates), settlement leverage (the Regulator prices an opponent whose employer arm is manufacturing
+new liability weekly), and — if the exit pathway crystallises — union/IR-dispute response.
