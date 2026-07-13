@@ -266,3 +266,27 @@ docked. Cory's "held out while they decide what to do about my submissions" theo
 strengthened. Response strategy: cooperative-in-form, boundaried-in-substance (practitioner-channel
 clarification w/ consent; DECLINE the psychiatrist report via HR; litigation matters → Metro South
 Legal; renew the paid-time request). Letter saved: documents/2026-07-07_MSH_HR_Forrest_ECC_further_information.pdf
+
+## 2026-07-10/13 — Harrison reply: hold-out continues, pay dodged, QSuper deflection (WRONG premise)
+Cory sent his RTW reply 10 July 8:35am (variant: DIRECT consent for Health Service to contact Dr Ma,
+capacity-limited; "will not provide further particulars" re WC matters; report declined; paid-time
+request renewed). Harrison (IM Consultant) replied:
+- Hold-out CONTINUES ("unable to safely support or accommodate a Graduated RTW Plan") pending
+  "further medical clarification" from Dr Ma. No timeframe ("as soon as practicable").
+- PAY REQUEST NOT ANSWERED — deflected: "you currently have an active open QSuper Income Protection
+  claim... contact your claim manager James Zappia at QSuper and inform them that WE ARE UNABLE TO
+  SUPPORT A RETURN TO WORK at this time."
+- **PREMISE WRONG (per Cory): the IP claim/fund is CLOSED** (QSuper is ART since 2022; the ART claim
+  has since closed — cf. May 2026 Mind&Memory emails "waiting on confirmation from ART"). So the
+  employer's proposed income path is ILLUSORY: certified fit + willing + employer-directed absence +
+  leave exhausted + NO income from any source.
+- Also conceptually broken: IP responds to INCAPACITY; he is certified FIT — the loss is caused by the
+  employer's refusal to roster, not incapacity. CAUTION: he must NOT lodge an incapacity-based IP claim
+  while certified fit (inconsistent-statements trap).
+- RECORD GAINS: (1) Harrison's own words "we are unable to support a return to work at this time" =
+  written admission the barrier is the employer; (2) she formally names "the WorkCover matter" — the
+  HR/legal silo is now CLOSED on the record; (3) they accept the Dr Ma clarification channel.
+- ACTIONS: brief Dr Ma urgently (they will write; scope = capacity+adjustments; key point = pattern
+  unchanged 12 months, safe to return; respond fast); union (Together) NOW; correct the QSuper premise
+  in writing + renew pay request + ask basis-in-writing if refused; optionally obtain ART written
+  confirmation the claim is closed (artifact proving the deflection illusory).
