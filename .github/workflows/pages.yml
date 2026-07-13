@@ -3,6 +3,7 @@ name: Build & deploy legal_system site to Pages
 on:
   push:
     branches:
+      - claude/build-evidence-processor-skill-Y1QgE
       - claude/legal-document-system-KAiP5
       - main
     paths:
