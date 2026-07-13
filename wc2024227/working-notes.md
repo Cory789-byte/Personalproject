@@ -295,3 +295,7 @@ request renewed). Harrison (IM Consultant) replied:
   never wage replacement for a total employer-directed absence. He is NOT totally incapacitated
   (certified fit). So the Harrison deflection fails 3 ways: claim closed; benefit design = partial
   top-up only; no incapacity basis exists. Reply para 1 updated accordingly.
+- WORDING CORRECTION (Cory): the precise point is the SUPPORTING DOCUMENTATION would only support a
+  PARTIAL payment — the ECC certifies fitness for the reduced pattern, so no medical evidence exists
+  that could ground total-incapacity income support; the total loss flows from the employer's
+  non-rostering. Reply para 1 recast on that basis (documentation-driven, not benefit-history).
