@@ -341,3 +341,36 @@ Cory; reject 28-Aug pacing; renew pay); Cory to contact Zappia himself in writin
   substantive Switchboard position" (the words "without prejudice" dropped). Substance survives
   ("interim... as an alternative... to which I remain ready to return") but the new reply must
   restore the full "made without prejudice to" formula.
+
+## 2026-07-13 — ART/QSuper claim file history surfaces (CLM-317073, Party 195438787) — GOLD + CAUTIONS
+Cory produced the fund correspondence history:
+- Dec 2024 (Louise Ings, ART claims mgr): monthly IP claim management; fund file already holds the
+  litigation narrative (Form 12 reinstatement + deed negotiation, Form 9 appeal, lawyer); Krishnaiah
+  + psychologist (Helen Morris) + GP treating team documented; fund sought medical reports.
+- "Hey Louise" follow-up email (date TBC — confirm if SENT and when): **"I have returned to work and
+  against medical advice... approximately 50-60% of my hours over the year... I basically RETURNED DUE
+  TO NOT WANTING TO LOSE MY JOB. Most days are a struggle."** Asked the super to STOP paying him +
+  how WC acceptance would pay back into super.
+- April 2026 (Gavin, QSuper Resolutions, ref cf15866300-446968946): Cory complained re his MEDICAL
+  INFORMATION causing harm (a SECOND medical-info grievance — against the FUND, separate from MSH);
+  and an **OVERPAYMENT** exists which Cory accepts "needs to be addressed" (IP benefits paid while
+  working). Claim since closed.
+KEY INTEGRATIONS:
+1. **The contemporaneous fear record ALREADY EXISTS**: "returned due to not wanting to lose my job"
+   written to a third-party financial institution, dated, in their file — corroborates the fear-driven
+   premature return post-Oct-2024 termination. Severity + reprisal-detriment evidence. PRESERVE AS IS.
+2. **Two-period reconciliation (critical discipline)**: 2025 = returned early AGAINST medical advice
+   out of fear; 2026 = the same pattern now MEDICALLY CERTIFIED (ECC: "sustained since 2025 without
+   deterioration"). Never blend the two framings: today's correspondence says "certified fit" ONLY.
+   If the fund file ever surfaces (summons), the reconciliation is coherent and actually strengthens
+   severity/causation (worked hurt for a year because they'd fired him once).
+3. **Overpayment ↔ WC interplay**: WC acceptance arrears would likely offset/repay the IP overpayment
+   (standard offset mechanics + he already asked "how WC would pay back into the super"). The
+   Calderbank resolution CLEANS UP the fund debt — settlement mechanics note: part of arrears may
+   flow to ART, not to pocket.
+4. Zappia letter to be REVISED: reference the Ings history, the stop-payment request, the overpayment
+   resolution; framing stays "closed at my request on RTW; employer now refuses to roster; what does
+   the policy provide; confirm what MSH sent."
+5. The fund is NOT "the State/its entities" → the April fund complaint sits OUTSIDE Calderbank 6.2(d).
+CONFIRM WITH CORY: (a) was "Hey Louise" sent + date; (b) status of the Gavin resolution/overpayment;
+(c) the four-point-vs-Harrison-disclosure timestamp (still outstanding).
