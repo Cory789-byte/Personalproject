@@ -330,3 +330,14 @@ Cory; reject 28-Aug pacing; renew pay); Cory to contact Zappia himself in writin
   entities"... "manner in which his medical and personal information was obtained and disseminated")
   could arguably catch the NEW 13 July QSuper disclosure if accepted post-13-July. If acceptance
   arrives incl. 6.2(d), CONSCIOUSLY decide: carve out the QSuper disclosure or release it. Not by accident.
+- HEADERS NOW VISIBLE (Zappia email, Mon 13 July 4:20pm): To james.zappia@ART.COM.AU (Australian
+  Retirement Trust — confirms QSuper→ART); Cc notes@solv.com.au AND CORY (disclosure was transparent,
+  not covert — softens optics, doesn't create authority); Subject carries claim ref "[CLM-317073]"
+  — the fund retains a claim record; status per Cory = closed. TIMING: thread order suggests Cory's
+  four-point correction ("claim is now closed") was sent BEFORE Harrison's 4:20pm disclosure —
+  CONFIRM the sent timestamp; if confirmed, the good-faith timing defence dies (disclosure made
+  after written notice the claim was closed).
+- SENT four-point email: point 3's fence got garbled in sending — "This offer is made to my
+  substantive Switchboard position" (the words "without prejudice" dropped). Substance survives
+  ("interim... as an alternative... to which I remain ready to return") but the new reply must
+  restore the full "made without prejudice to" formula.
