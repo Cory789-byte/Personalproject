@@ -320,3 +320,13 @@ ACTIONS: send the 4-point email if not yet sent (unchanged — still fully apt);
 the Zappia email (confirm what was shared + authority; press a date for the Ma request + copy to
 Cory; reject 28-Aug pacing; renew pay); Cory to contact Zappia himself in writing; brief Ma hard
 (the hours-reduction probe is coming; hold the certified line; copy Cory); union URGENT.
+- PRIVACY POINT (calibrated): the ECC disclosure to Zappia is ARGUABLY unauthorised (claim closed;
+  ECC provided for RTW not insurance) but MSH has 3 candidate answers (old claim authority; good-faith
+  timing; related-purpose limb). The follow-up email's "what authority" question extracts their
+  position first — do NOT characterise a breach before their answer. TIMING TO PIN: did Cory's
+  "claim is closed" correction land BEFORE Harrison's 13 July call/email to Zappia? If yes, good-faith
+  dies. Escalation ladder (banked, rule 8): MSH privacy officer → OIC Qld.
+- **CALDERBANK 6.2(d) INTERACTION FLAG:** the severable release ("the State of Queensland and its
+  entities"... "manner in which his medical and personal information was obtained and disseminated")
+  could arguably catch the NEW 13 July QSuper disclosure if accepted post-13-July. If acceptance
+  arrives incl. 6.2(d), CONSCIOUSLY decide: carve out the QSuper disclosure or release it. Not by accident.
