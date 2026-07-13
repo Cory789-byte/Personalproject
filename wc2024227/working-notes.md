@@ -299,3 +299,24 @@ request renewed). Harrison (IM Consultant) replied:
   PARTIAL payment — the ECC certifies fitness for the reduced pattern, so no medical evidence exists
   that could ground total-incapacity income support; the total loss flows from the employer's
   non-rostering. Reply para 1 recast on that basis (documentation-driven, not benefit-history).
+
+## 2026-07-13 — Harrison writes to QSuper/ART claim manager (James Zappia) — EVIDENCE-GRADE
+Harrison phoned then emailed Zappia (Cory in receipt of copy): "we are unable to facilitate Cory's
+return to work in accordance with the restrictions outlined in the attached ECC" — the ECC ATTACHED
+(his medical document shared with the fund; claim per Cory is CLOSED — verify what authority/consent
+covered that disclosure). They will send Dr Ma a "Request for Medical Information" "over the coming
+days," expressly probing "the reduction in hours from Cory's substantive position," and note Ma's
+28 Aug review date — pacing risk: drift toward ~8 weeks held out unpaid.
+KEY READS: (1) third written admission the barrier is MSH, now published to an independent third
+party; (2) LITIGATION TENSION BANKED: MSH now asserts it "cannot safely support" the very pattern
+it ran for 12 months (and that Forrest's letter said was already accommodated by existing practice)
+— irreconcilable with both their own prior letter and the reasonableness narrative; (3) POLICY
+OPPORTUNITY: many group IP policies treat "partial capacity + employer unable to provide suitable
+duties" as a payable benefit — MSH's written "cannot accommodate" + the fit-for-reduced-pattern ECC
+is the classic evidentiary pair; Cory to ask Zappia (truthfully framed: NOT incapacity — employer
+non-accommodation) whether the policy responds + what MSH provided; (4) privacy check: how was the
+ECC's disclosure to the fund authorised, claim being closed.
+ACTIONS: send the 4-point email if not yet sent (unchanged — still fully apt); short follow-up re
+the Zappia email (confirm what was shared + authority; press a date for the Ma request + copy to
+Cory; reject 28-Aug pacing; renew pay); Cory to contact Zappia himself in writing; brief Ma hard
+(the hours-reduction probe is coming; hold the certified line; copy Cory); union URGENT.
