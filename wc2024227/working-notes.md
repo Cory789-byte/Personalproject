@@ -290,3 +290,8 @@ request renewed). Harrison (IM Consultant) replied:
   unchanged 12 months, safe to return; respond fast); union (Together) NOW; correct the QSuper premise
   in writing + renew pay request + ask basis-in-writing if refused; optionally obtain ART written
   confirmation the claim is closed (artifact proving the deflection illusory).
+- REFINEMENT (Cory): the QSuper/ART IP benefit was only ever a PARTIAL TOP-UP premised on partial
+  incapacity while WORKING the reduced hours (topping up 0.6 earnings toward pre-injury income) —
+  never wage replacement for a total employer-directed absence. He is NOT totally incapacitated
+  (certified fit). So the Harrison deflection fails 3 ways: claim closed; benefit design = partial
+  top-up only; no incapacity basis exists. Reply para 1 updated accordingly.
