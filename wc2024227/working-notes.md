@@ -374,3 +374,24 @@ KEY INTEGRATIONS:
 5. The fund is NOT "the State/its entities" → the April fund complaint sits OUTSIDE Calderbank 6.2(d).
 CONFIRM WITH CORY: (a) was "Hey Louise" sent + date; (b) status of the Gavin resolution/overpayment;
 (c) the four-point-vs-Harrison-disclosure timestamp (still outstanding).
+
+## 2026-07-13 — Carolyn Jeffrey text (17:21): "have you been dismissed... Chloe is saying she will
+have a full time line available?" — EVIDENCE-GRADE, handle with care
+Colleague (and existing WC witness — her two 2024 statements are in the Review Decision record)
+texts Cory unprompted: "Hi Cory have you been dismissed is that why Chloe is saying she will have a
+full time line available?" Screenshot preserved: documents/evidence/2026-07_Carolyn_Jeffrey_text_
+dismissed_fulltime_line.jpg (confirm exact date of the 17:21 message).
+READS: (1) while HR holds him out "pending assessment," the LINE MANAGER is telling the team a
+full-time line will be available — the team infers dismissal. Corroborates the "held out while they
+decide what to do" theory; possible backfill of his substantive line. (2) CAUTION: hearsay of
+Chloe's words; innocent readings exist (temporary coverage of his shifts; another vacancy).
+(3) The workplace-believes-he's-dismissed fact is itself: reputational harm + PID-detriment-adjacent
++ external corroboration that his fear of re-termination is reasonable (a colleague spontaneously
+asks it). (4) Chloe making roster/line statements about him while RTW comms are supposed to run
+through Injury Management.
+ACTIONS: reply to Carolyn calm/minimal (correct the rumour: NOT dismissed, certified fit, awaiting
+HR; ask naturally what exactly was said/when); PROTECT CAROLYN — do not name her in any
+correspondence; route the position-status question through TOGETHER (union asks about
+backfill/vacancy plans without sourcing); **MONITOR SmartJobs/QH recruitment for Logan Switchboard
+AO3 full-time postings** — an advertisement converts hearsay into documentary proof; do NOT confront
+HR/Chloe directly yet.
