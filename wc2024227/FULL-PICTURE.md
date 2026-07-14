@@ -251,3 +251,19 @@ The live offer lapses **4:00pm Wednesday 22 July 2026**. If acceptance comes:
 worked silence; the 7 Aug dynamics; the production timetable), not measured frequencies. Movers:
 any Matheson engagement before 22 July (shifts everything left); the 7 Aug room; the updated
 Krishnaiah report (accelerates every pathway).*
+
+### §16 ADDENDUM (v2, same day) — the mention-avoidance correction
+Cory's challenge ("they have every reason to make the mention not happen") exposed a missing
+pathway. The mention is MSH's pain, and MSH's CHEAPEST escape is not the Calderbank (which it
+cannot accept) but **folding on the objection — consenting to production pre-7-Aug**, collapsing
+the listing into consent orders with no compelled appearance and no citable ruling. Model v2:
+- **P(settle) ~86%; median deal 16 AUG; IQR 1 Aug – 25 Sept.**
+- **Acceptance by 22 July: 13% → 18%** (mention-avoidance pressure via the Regulator; your 6.2(c)
+  is the only mechanism killing both mention AND appeal). July overall ~21%.
+- **NEW pathway — MSH consents to production pre-mention: ~12%**, deal ~mid-Sept (production lands
+  earlier → renewed offer earlier). **TELL:** a Ruttan/Registry letter consenting to production and
+  seeking to vacate/consent-order the listing. **RESPONSE IF IT FIRES:** take the production, but
+  insist the VERIFICATION AFFIDAVIT survives the consent order (the sworn non-existence answers are
+  what they'll try to drop); renewed Calderbank goes out early Sept off the fat record.
+- Remaining: engage-pre-lapse 16%; mention-driven 15%; post-production 21%; hearing-door 4%;
+  no settlement 14%.
