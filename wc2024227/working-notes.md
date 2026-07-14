@@ -395,3 +395,36 @@ correspondence; route the position-status question through TOGETHER (union asks 
 backfill/vacancy plans without sourcing); **MONITOR SmartJobs/QH recruitment for Logan Switchboard
 AO3 full-time postings** — an advertisement converts hearsay into documentary proof; do NOT confront
 HR/Chloe directly yet.
+
+## 2026-07-14 — QSuper/ART correspondence bundle ingested (30pp, assembled 14 July) — DATES LOCKED
+Saved: documents/2026-07-14_QSuper_IP_RTW_Correspondence_Bundle.pdf. Contents & key extractions:
+1. Ings thread 4–29 Oct 2024 (claim assessment).
+2. **"Hey Louise" = 13 MARCH 2026** (RTW against medical advice; request to CEASE benefit).
+3. **21 MARCH 2026 11:30am, to Jennifer Chen cc Ings — THE FEAR RECORD, verbatim:** "During the
+   workcover I was actually dismissed from my employment and then reinstated at Queensland Health,
+   I returned to work against medical advice because I was DEEPLY AFRAID OF LOSING MY JOB AGAIN.
+   I tried to keep going and manage the hours, but I was not coping, and the level of overwhelm...
+   ultimately resulted in A CAR CRASH ON THE MOTORWAY." Also "~55% reduction in my pay."
+   → Answers the "did I write it" question: YES, with "again", dated, in ART's file, 4 months
+   before the July lockout.
+4. **Ings (Senior Claims Mgr) in writing:** benefit was paid as FULL benefit on a "Totally and
+   Temporarily Disabled" basis; RTW → reassessment to "Partially and Temporarily Disabled";
+   overpayment "will need to be recouped" + fund requested payslips, RTW medical docs, WC status.
+5. Overpayment response + medical-info complaint (13 Apr 2026, Chen/Ings); Gavin reply 13 Apr.
+6. Four-point ECC email = **13 July 2026 4:39PM**; Harrison QSuper deflection = 13 July 15:53;
+   Harrison→Zappia = 13 July 16:20.
+
+**TIMING CORRECTION (against my earlier hope): Harrison's Zappia disclosure (16:20) PRECEDED
+Cory's "claim is closed" correction (16:39) by 19 minutes.** The "disclosed after being told"
+angle is DEAD — drop it. The neutral what-authority question stands (already sent in that form).
+**"CLOSED" NUANCE:** benefits ceased at Cory's request (13 Mar) but the claim file remains open
+for OVERPAYMENT recoupment — expect MSH/fund to say "not closed"; his substantive point (no income
+support available from that source) survives regardless. Zappia letter should say "benefits ceased
+at my request; I understand the claim is closed subject to the overpayment resolution."
+**TENSION TO MANAGE:** Mar 2026 "I was not coping" + the (2025) motorway crash vs Jul 2026 ECC
+"sustained without deterioration" — the psychiatrist report must OWN the whole arc (fear-driven
+premature return → crash/struggle → stabilisation → certified pattern). Also the crash = severity/
+consequence evidence (MVA 2025 exhibit exists in the archive) but invites an intervening-event
+argument — handle via the medical evidence, never volunteered in correspondence.
+**CREDIBILITY ASSET:** the bundle shows Cory self-reported his RTW, asked payments to STOP, and
+cooperated on recoupment — the opposite of a malingerer; powerful against any exaggeration attack.
