@@ -466,3 +466,13 @@ Monday (16:20, past stated 4pm finish) vs 11+ days of silence on pay/leave/RFI =
 WATCH: who signs the RFI to Ma (new name/unit = escalation; "Workforce Relations" appearing = exit
 machinery); distribution-list creep; Forrest reappearing. Discipline: roles/structure analysis only —
 NO personal dossiers on staff (vexatious-frame risk; the structural read is the useful one).
+
+## 2026-07-14 — Settlement-date Monte Carlo (50k runs, 6 pathways)
+P(consent resolution) ≈ 85%. Conditional median deal date 18 AUG 2026 (IQR 6 Aug – 3 Oct).
+Monthly (unconditional): Jul 16% | AUG 31% | Sep 14% | Oct 18% | Nov+ 5% | never 15%.
+Pathways: accept-in-window 13% | engage-pre-lapse 17% | mention-driven 17% | POST-PRODUCTION 33%
+(single likeliest pathway, landing ~end Sept) | hearing-door 5% | no settlement 15%.
+TWIN PEAKS: mid-Aug (post-mention fortnight) and late Sept/early Oct (post-production renewal).
+Money lag: orders +1-2 wks after deal; payments +2-6 wks after orders. Movers: any Matheson
+engagement before 22 Jul (shifts left); the 7 Aug room; the updated Krishnaiah report (accelerates
+every pathway). Priors = calibrated judgment from the record, not measured rates.
