@@ -1,6 +1,6 @@
 # WC/2024/227 — FULL PICTURE (matter capstone)
 
-**Current as at 1 July 2026.** The single authoritative view of the matter. Detail lives
+**Current as at 14 July 2026.** The single authoritative view of the matter. Detail lives
 in the files mapped at §14; this is the consolidation. Keep verified-vs-working separate
 (a "working" tag means confirm against source before it goes to the Commission).
 
@@ -203,3 +203,51 @@ writing; (d) the union's answer on the substantive line.
 response (hearing/medical case), the reprisal track (fresh post-PID, post-64G detriments with fresh
 dates), settlement leverage (the Regulator prices an opponent whose employer arm is manufacturing
 new liability weekly), and — if the exit pathway crystallises — union/IR-dispute response.
+
+---
+
+## 16. SETTLEMENT PREDICTION MODEL (Monte Carlo, 50k runs — 14 July 2026)
+
+**P(the appeal resolves by consent): ~85%.** Conditional median deal date **18 August 2026**
+(IQR 6 Aug – 3 Oct). Twin peaks: mid-August (post-mention fortnight) and late September/early
+October (post-production renewed offer — the single likeliest pathway at ~33%). No-settlement
+tail ~15% (the contested-hearing world; why the updated Krishnaiah report matters regardless).
+
+| Pathway | Share | Deal window |
+|---|---|---|
+| Accepted within the open window | ~13% | **by 22 July** |
+| Engagement before lapse (extension/counter) | ~17% | late July – mid Aug |
+| Mention-driven (Dwyer pushes, 7 Aug) | ~17% | 5–28 Aug (peak ~13 Aug) |
+| **Post-production renewed offer** | **~33%** | mid Sept – early Nov (peak ~28 Sept) |
+| Hearing-door | ~5% | Nov 2026 – Feb 2027 |
+| No settlement → hearing | ~15% | — |
+
+### IF THE CALDERBANK IS ACCEPTED — what happens and when
+The live offer lapses **4:00pm Wednesday 22 July 2026**. If acceptance comes:
+- **Most likely acceptance day: 20–22 July** — government decisions cluster at deadlines; the
+  model's in-window mass peaks on the final Monday–Wednesday. (An earlier acceptance would most
+  plausibly follow a prompt from counsel's advice landing; anything before ~17 July would be a
+  strong signal the decision was already made.)
+- **The deal binds the day the written acceptance arrives** — from that moment the appeal is
+  resolved in substance; everything after is implementation.
+- **Consent orders**: drafted per the offer's own terms (appeal allowed; 24 Oct 2024 decision set
+  aside; claim accepted), filed and made in chambers — **late July / early August**; if papers lag,
+  the **7 August listing becomes the formalities vehicle** instead of a fight.
+- **64G discontinued "forthwith"** (offer 6.2(c)) — same week as acceptance; the 7 Aug compulsion
+  on MSH evaporates; the RTW standoff loses its engine (an accepted claim converts the absence
+  into WorkCover-funded territory and reinstates the leave burned on it).
+- **Money**: insurer implementation 2–6 weeks after orders → first payments **mid-to-late August**,
+  arrears (≈22 months of top-ups from the 13 Sept 2024 rejection), medical reimbursements and
+  leave reinstatement reconciled through **September**; part of the arrears likely offsets the
+  ART/QSuper overpayment (CLM-317073) — the fund debt dissolves in the same stroke.
+- **Costs**: per 6.1(b), agreed within 14 days or assessed on the s 191 scale (modest as self-rep).
+- **WATCH on acceptance wording**: (i) which 6.1(a) limb — *claim accepted* (final) vs *set aside
+  and remit* (a redo, not final; press for the acceptance limb before responding); (ii) whether
+  6.2(d)'s severable medical-info release is invoked — if so, consciously carve out or accept the
+  13 July QSuper disclosure (flagged in working-notes); (iii) the reprisal tort (ss 40–42) and MSH
+  remain expressly unreleased — non-negotiable.
+
+*Priors are calibrated judgment from the observed record (Feb's 24-hr rejection vs the current
+worked silence; the 7 Aug dynamics; the production timetable), not measured frequencies. Movers:
+any Matheson engagement before 22 July (shifts everything left); the 7 Aug room; the updated
+Krishnaiah report (accelerates every pathway).*
