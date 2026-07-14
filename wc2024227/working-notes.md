@@ -476,3 +476,18 @@ TWIN PEAKS: mid-Aug (post-mention fortnight) and late Sept/early Oct (post-produ
 Money lag: orders +1-2 wks after deal; payments +2-6 wks after orders. Movers: any Matheson
 engagement before 22 Jul (shifts left); the 7 Aug room; the updated Krishnaiah report (accelerates
 every pathway). Priors = calibrated judgment from the record, not measured rates.
+
+## 2026-07-14 — External second opinion (sanitised brief → Grok) cross-checked
+Brief was de-identified; banked evidence EXCLUDED by design → external numbers are a FLOOR.
+Grok: consent-resolution 68-74% (vs our 86%); in-window acceptance 11%; no-settle 22-26%.
+RECONCILED BAND: ~78-84% consent, in-window ~14%, no-settle ~16-18%; median date CI widened ±2wks.
+LANDED: (1) timetable-compression risk at the 7 Aug mention (not "bifurcation" — mechanism wrong,
+worry right) → Krishnaiah report before timetables; at mention ask sequencing = production before
+evidence directions. (2) Priors humility. VALIDATED: produce-or-swear "judicially palatable";
+expiry-before-mention "strategically optimal"; staged-production fallback already in the application.
+REJECTED: WPSATC costs-threat letter to MSH cc insurer (torches restraint posture, merges channels);
+lay supplementary statement on causation (expert's job — the report); GP subpoena (procedurally
+confused). ADAPTED: obtain Dr Ma's clinical notes for key dates (esp. 3 July consult) voluntarily —
+evidence preservation, added to list. DECLINED: offer auto-extension 7 days post-orders (gives the
+Regulator a free look at the mention outcome at the old price; lapse-then-renew keeps option value).
+No repo access was granted at any point; assessment ran on the pasted brief only.
