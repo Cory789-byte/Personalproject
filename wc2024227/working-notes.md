@@ -449,3 +449,20 @@ cooperated on recoupment — the opposite of a malingerer; powerful against any 
    out until review, shifts "paid out of your available sick leave." **58 MINUTES between the fit
    certificate arriving and the decision to hold him out and charge his leave** — the "review"
    posture was adopted before any review was possible.
+
+## 2026-07-14 — HR personnel/roles map + structural signals (from signature blocks & distribution lists)
+Taylor (Switchboard Mgr, line) → Harrison (Injury Mgmt Consultant, "LBHS HR Team 1" — the case
+admin) → Forrest (SENIOR Consultant HR — appeared ONCE, for the 7 July four-demand set-piece, then
+file returned to Harrison) → Griffin (MSH HR — ON THE QIRC DISTRIBUTION LIST, receives all listing
+notices; procedurally fluent: re-routed Ruttan's April extension app + effected service) → Thorburn
+(ED Clinical Governance Risk & Legal — routed the Form 29 to the Chief People & Partnerships Officer
+in April). SIGNALS: (1) escalation gradient — senior signs the demand letter, junior runs the file =
+set-piece fingerprint; WHS-flavoured drafting; (2) HR-as-a-unit cannot claim ignorance — Griffin on
+the Commission's list + CPPO holding the Form 29 since April makes Forrest's "not aware of any
+concerns" false WITHIN her own unit; (3) IM sits INSIDE HR — the RTW desk and any future exit desk
+are the same shop; (4) URGENCY ASYMMETRY — lockout in 58 min, fund contact in the last hour of a
+Monday (16:20, past stated 4pm finish) vs 11+ days of silence on pay/leave/RFI = pacing is policy;
+(5) Solv case MSH-INJ-5795 is a self-contained extractable file containing their own adverse letters.
+WATCH: who signs the RFI to Ma (new name/unit = escalation; "Workforce Relations" appearing = exit
+machinery); distribution-list creep; Forrest reappearing. Discipline: roles/structure analysis only —
+NO personal dossiers on staff (vexatious-frame risk; the structural read is the useful one).
