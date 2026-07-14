@@ -428,3 +428,24 @@ consequence evidence (MVA 2025 exhibit exists in the archive) but invites an int
 argument — handle via the medical evidence, never volunteered in correspondence.
 **CREDIBILITY ASSET:** the bundle shows Cory self-reported his RTW, asked payments to STOP, and
 cooperated on recoupment — the opposite of a malingerer; powerful against any exaggeration attack.
+
+## 2026-07-14 — Docs 122/123/124 cross-referenced against the master timeline — NO CONTRADICTIONS
+1. **Doc 123 — Form 29 service on Matheson (AP1), Wed 22 Apr 2026 16:52** — expressly invoking
+   r 64C(4): served on the Affected Party BEFORE the Nominated Party, 7-day objection window stated.
+   CONFIRMS the register (22 Apr seal + service) and DOCUMENTS the service-sequence compliance —
+   the clean answer to any procedural attack on the Form 29 at the 7 Aug hearing.
+2. **Doc 124 — Postmaster delivery receipt, 64G service on Ruttan, Thu 25 June 08:31 (AEST).**
+   Reconciles with the Gmail-ingest receipts stamped 24 June 22:31 (UTC) = 25 June 08:31 AEST —
+   SAME EVENT, timezone rendering. Service on MSH proven delivered.
+3. **Doc 122 — the Chloe "ECC/Leave Type" thread, closing with Cory 3 July 15:18**: annual-leave-
+   not-unpaid-sick request for the past period + "certifies me fit to resume from 3 July...
+   confirm I'm right to attend." **NEVER ANSWERED by Chloe (11+ days)** — add to the unanswered
+   ledger: (a) 3 Jul annual-leave request [Chloe]; (b) pay for employer-directed period ×5 [IM/HR];
+   (c) interim duties offer [IM/HR]; (d) QSuper what-authority question [IM]; (e) 3-business-day
+   Ma-request ask [IM].
+4. **THE 3 JULY MICRO-TIMELINE (now minute-stamped):** 14:32 ECC lodged with IM → 14:35 Chloe told
+   → 14:49 Chloe: "sick leave / sick leave no pay" → 14:50 Harrison: resend p2 → 15:06/15:09 p2
+   resent → 15:18 Cory to Chloe: certified fit, ready, annual leave please → 15:30 Harrison: held
+   out until review, shifts "paid out of your available sick leave." **58 MINUTES between the fit
+   certificate arriving and the decision to hold him out and charge his leave** — the "review"
+   posture was adopted before any review was possible.
