@@ -528,3 +528,54 @@ NOW if not sent — the written closure confirmation is the pin; on receipt forw
 pay in one line. (2) TOGETHER — this letter IS the exhibit (fit worker, no duties in any capacity, no
 timeframe, "discretion," Health Management naming). (3) Brief Ma to turn the RFI fast whenever it
 lands. (4) Exit-pathway watch: escalated from ~35-40% toward ~45-50% on the "Health Management" naming.
+
+## 2026-07-15 — FULL RE-READ of the Harrison chain — the "what are they clarifying" question is ANSWERED IN THE LETTER
+Close re-read of documents/2026-07-15_Harrison_reply_pay_refused_discretion.pdf (whole chain incl.
+the embedded 13 Jul Harrison→Zappia email). New findings beyond the first-pass log:
+1. **THE RFI'S SUBJECT IS STATED — and it is the CONDITION, not the restrictions.** Interim-duties
+   paragraph: further medical information is required "to understand the NATURE OF THE MATTERS
+   identified by Dr Ma and to assess whether they present any PSYCHOSOCIAL HAZARDS OR RISKS that may
+   affect your proposed return to work IN ANY CAPACITY." That is the reading-3 discriminator we said
+   to watch for, present in advance: the clarification goes to the underlying psychiatric condition
+   ("nature of the matters"), framed as a potential workplace HAZARD. THE INVERSION: he raised
+   psychosocial hazards (fatigue/governance); his own condition is now cast as the psychosocial
+   hazard justifying blanket exclusion. Same WHS-flavoured drafting fingerprint as the Forrest
+   7 July letter (continuity of hand).
+2. **DECISION-BEFORE-EVIDENCE sequencing:** the 13 Jul Zappia email states "we are UNABLE to
+   facilitate Cory's return" FIRST, then says clarification will be sought — conclusion announced to
+   the fund before the evidence-gathering begins. Undermines the innocent-caution reading.
+3. **One concrete RFI topic exists but was told to the FUND, not Cory:** "the reduction in hours from
+   Cory's substantive position" (Zappia email). So the ECC's reduced-hours restriction is the one
+   named operational issue; to Cory the scope is the open-ended "nature of the matters."
+4. **Identity assignment:** Cory processed as "a QSuper Claimant request[ing] to return to duties" —
+   not an employee with a fit certificate. "Safe and SUSTAINABLE return" = health-management
+   vocabulary.
+5. **Pay premise wording:** "as WE HAVE BEEN PROVIDED INFORMATION that you do hold a current QSuper
+   Income Protection Claim" — passive, unattributed, and maintained AFTER Cory's 13 Jul 16:39 closed-
+   claim advice (his own statement disregarded in favour of unnamed "information"). Falsifiable
+   premise stands; checkmate path unchanged (ART written closure confirmation).
+6. **Direction-of-flow gap in their own words:** consent para says the p7 authorisation "permits
+   QSUPER TO REQUEST relevant information FROM your employer" — but the 13 Jul disclosure was an
+   employer-initiated push after Harrison phoned Zappia ("Thank you for taking the time to speak with
+   me"). Their stated authority describes the opposite flow. BANKED (not worth fighting now).
+7. **Unanswered ledger updated:** pay = now ANSWERED (refused, basis in writing); interim duties =
+   ANSWERED (refused "at this stage"). STILL UNANSWERED/REFUSED: (a) the 3-business-day RFI ask
+   (refused — "unable to commit"); (b) "advise the timeframe within which my RTW will be decided once
+   Ma's response is received" (IGNORED entirely); (c) the 28-Aug pacing point (met with SILENCE — no
+   assurance the process won't run to the review date); (d) Chloe annual-leave request (11+ days).
+8. **Signal tally / track assessment:** health-management-track signals now: track named; condition-
+   as-hazard framing; "in any capacity"; "nature of the matters" RFI scope; "sustainable"; no
+   timeframe + silence on 28-Aug pacing; decision-before-evidence to the fund; claimant identity
+   assignment; channels merged (Zappia joint-addressee, Solv cc). Innocent-caution residue: the
+   reduced-hours topic is a genuine operational specific; consent explanation procedurally coherent;
+   "endeavour... expeditiously." NET: exit/health-management operating frame FIRMED — hold at the
+   top of the 45-50% band; do not raise further until a hard step (IME direction, PSA ill-health
+   citation, Workforce Relations appearance, show-cause).
+9. **AD Act sharpening for the union brief:** blanket exclusion "in any capacity" based on
+   unparticularised risk from an impairment, against a treating doctor's fit-with-restrictions
+   certificate and with no timeframe, is the classic reasonable-adjustment failure pattern. The
+   condition-as-hazard framing makes the discrimination angle CRISPER, not weaker.
+Actions unchanged and sharpened: (1) Together NOW — before the RFI lands (step-zero representation);
+(2) Zappia/ART written closure confirmation; (3) Ma briefing must anticipate CONDITION-scope
+questions — answer within consent scope, restrictions-and-capacity focus, copy Cory, fast turn;
+(4) NO reply-war with Harrison.
