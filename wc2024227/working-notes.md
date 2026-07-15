@@ -491,3 +491,40 @@ confused). ADAPTED: obtain Dr Ma's clinical notes for key dates (esp. 3 July con
 evidence preservation, added to list. DECLINED: offer auto-extension 7 days post-orders (gives the
 Regulator a free look at the mention outcome at the old price; lapse-then-renew keeps option value).
 No repo access was granted at any point; assessment ran on the pasted brief only.
+
+## 2026-07-15 — Harrison reply (13:10, to Cory AND Zappia, cc Solv) — THE DISCRETION LETTER
+Saved: documents/2026-07-15_Harrison_reply_pay_refused_discretion.pdf. Answers everything, badly:
+1. DISCLOSURE: only the 13 July email+ECC went to ART; calls confined to RTW-support + claim status.
+   AUTHORITY CLAIMED: the declaration/authorisation at "page 7 of your Income Protection Application"
+   (permits QSUPER TO REQUEST from the employer — note the direction-of-flow gap: this was employer-
+   initiated push on a closed claim; arguable, banked, NOT worth fighting now).
+2. RFI TO MA: "unable to commit to a timeframe" — after telling the fund "over the coming days."
+   The gate to his return now has NO CLOCK. Open-ended lockout formalised in writing.
+3. PAY: REFUSED — "we are not responsible for your payments whilst on this claim... sits with your
+   QSuper Claim Manager"; demands HE provide written proof of closure. THE BASIS-IN-WRITING HAS
+   ARRIVED and it is FALSIFIABLE: rests entirely on a claim that pays nothing. CHECKMATE PATH:
+   ART written closure confirmation (Zappia letter Q1) → forward to Harrison → basis evaporates →
+   pay or a fresh artifact refusing a disproven basis.
+4. INTERIM DUTIES: REFUSED "in any capacity" pending the un-timetabled RFI. Fit worker, no duties
+   anywhere in a hospital-and-health-service, indefinitely.
+5. **THE DISCRETION PARAGRAPH (lawyered; the month's biggest own goal):** WCRA rehab/suitable-duties
+   obligations "apply to workers with ACCEPTED claims... does not extend to employees being managed
+   through HEALTH MANAGEMENT PROCESSES or those receiving QSuper IP benefits... remains at the
+   discretion of the Employer."
+   (a) NAMES THE TRACK: "Health Management processes" = the QH pathway that can end in ill-health
+       retirement — the exit-pathway watch item CONFIRMED as the operating frame (probability up).
+   (b) OWN GOAL: they formally state his lack of rehabilitation rights flows from the CLAIM REJECTION
+       UNDER APPEAL — i.e., the July lockout is a direct consequence of the wrongful rejection.
+       Quantifies acceptance stakes: acceptance converts him from discretionary exclusion to statutory
+       rehab/suitable-duties rights. STRENGTHENS the Calderbank/settlement narrative + severity.
+   (c) LEGALLY INCOMPLETE: WCRA silence ≠ pure discretion — AD Act reasonable-adjustment duties
+       (impairment), WHS duty of care, general protections, and QH's OWN health-management/RTW
+       policies all constrain "discretion." Refusing ANY duties to a worker with certified capacity,
+       indefinitely, without timeframe = the union brief writes itself; AD Act angle flagged for Together.
+6. Reply now addressed to Cory AND Zappia jointly — employer keeping the fund looped into employment
+   correspondence.
+ACTIONS: NO reply-war with Harrison (they've answered; arguing = badgering). (1) Zappia/ART letter
+NOW if not sent — the written closure confirmation is the pin; on receipt forward to Harrison + renew
+pay in one line. (2) TOGETHER — this letter IS the exhibit (fit worker, no duties in any capacity, no
+timeframe, "discretion," Health Management naming). (3) Brief Ma to turn the RFI fast whenever it
+lands. (4) Exit-pathway watch: escalated from ~35-40% toward ~45-50% on the "Health Management" naming.
