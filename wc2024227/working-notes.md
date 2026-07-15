@@ -625,3 +625,33 @@ later, separate consideration; first preference is a willing witness. WITNESS AP
 factual, zero pressure, no coaching — "do you remember the bums-on-a-seat comment and the apology?
 would you be comfortable putting what you remember in a short statement?" Nothing about this in ANY
 correspondence with MSH/HR.
+
+## 2026-07-15 — STATUS CORRECTION (from Cory): he is NOT a "return to work" case — he was WORKING
+Cory's correction (adopt everywhere): he has been WORKING for the past year (2025 return → continuous
+service; QSuper benefits ceased at his request Mar 2026 BECAUSE he was working; rostered and working
+right up to 3 July 2026 14:32). The reduced shifts over that year were HIS OWN self-managed adjustment
+to an unresolved, mismanaged psychosocial environment — not an absence. On 3 July he submitted updated
+medical restrictions (the ECC) as a WORKING employee; MSH responded by REMOVING him from the roster.
+WHY "RETURN TO WORK" IS THEIR LOAD-BEARING MISLABEL (Harrison to Zappia: "a QSuper Claimant requests
+to return to duties"; to Cory: "your proposed return to work"):
+1. Recasts the lockout as the DEFAULT STATE (absent worker seeking entry) instead of what happened
+   (working employee ejected in 58 minutes). The onus flips with the label.
+2. Feeds the PS Act s 103 health-management gateway ("absent from duty") — but the ONLY absence is
+   12 days old and WHOLLY EMPLOYER-CREATED. Before 3 July: no absence, just a working employee.
+   Gateway even more fragile than previously noted.
+3. Positions the ECC as an APPLICATION for a privilege rather than routine updated medical info from
+   a serving employee. In substance the situation is a SUSPENSION WITHOUT PAY with no power invoked.
+4. It was also said to the FUND — factually wrong twice over (claim closed + not "returning") — banked
+   with the other fund-communication inaccuracies.
+LANGUAGE DISCIPLINE (all future drafts/analysis): never "return to work" — use "resume my rostered
+shifts" / "continue working" / "reinstatement to the roster." Cory's own sent emails already mostly
+hold this line ("held out of work since 3 July while certified fit").
+DOUBLE EDGE — handle with care: "I dropped shifts to manage the psychosocial environment" is TRUE and
+powerful (worker performing the employer's unperformed WHS duty; the restrictions measure THEIR
+unmanaged hazard, not his incapacity) BUT stated carelessly it hands MSH "he says the workplace harms
+him" for the incapacity file. Correct articulation (union brief/evidence only, never correspondence):
+the hazards are the employer's and remain unmanaged; his adjusted hours were a reasonable interim
+CONTROL he implemented himself; the lawful fix is managing the hazard, not removing the worker. In
+correspondence the only position is: CERTIFIED FIT WITH RESTRICTIONS, working until excluded.
+Consistency bonus: the year of self-adjusted partial hours ↔ partial QSuper benefits ↔ payslip-driven
+partial-payment position — one coherent, documented story of a worker managing honestly.
