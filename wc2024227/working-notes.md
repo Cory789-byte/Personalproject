@@ -579,3 +579,31 @@ Actions unchanged and sharpened: (1) Together NOW — before the RFI lands (step
 (2) Zappia/ART written closure confirmation; (3) Ma briefing must anticipate CONDITION-scope
 questions — answer within consent scope, restrictions-and-capacity focus, copy Cory, fast turn;
 (4) NO reply-war with Harrison.
+
+## 2026-07-15 — Cory's articulation of the INVERSION + two new evidence leads (provenance needed)
+Cory's own framing (verbatim substance): ~2 years before the injury he raised psychosocial risks —
+pay, fatigue, the environment, and DELAYED MANAGEMENT UPDATES OF PHONE NUMBERS (routing changes fed
+through a "second information manager" instead of real-time updates, with access to that information
+RESTRICTED FROM THE SWITCHBOARD ITSELF); the employer now inverts the psychosocial-hazard framework
+against him post-injury, while he has had to SELF-MANAGE his psychological risk in a workplace that
+treats Switchboard as "picks up a phone, answers it, transfers it" and a manager (Taylor) who is
+erratic and referred to switchboard employees as **"bums on a seat."**
+TWO NEW LEADS needing provenance before use anywhere:
+1. **"Bums on a seat" (Taylor):** when said, to whom, witnesses, any writing (email/comm book/minutes)?
+   If memory-only → Cory writes a dated statement NOW (who/when/where/who heard it). If documented →
+   locate in archive. USE: Stressor 1(a) colour + the institutional-attitude thread (severity /
+   evidence-in-chief / Krishnaiah context). NEVER in correspondence.
+2. **Phone-number/directory update failure:** routing/contact changes held by a second information
+   manager, not pushed real-time to Switchboard; access restricted. Fits Stressor 1(a) "bottlenecked
+   emergency workflows / delayed urgent pathology results" and the CS-1 misrouting-misdiagnosis
+   pattern (info needed to route life-safety calls withheld from the desk that routes them). CHECK:
+   is this in the master complaint email / 7 Aug 2023 grievance / comm book / CS-3?
+THE INVERSION, dated: 2023–24 he named the hazards (grievance 7 Aug 2023 dismissed same day; comm-book
+entry removed 6 June 2023; PID 13 May 2024) → duties to manage psychosocial hazards sat with MSH and
+went unperformed (the course-of-INACTION theory in miniature) → injury 18 June 2024 → JULY 2026: the
+employer's first enthusiastic documented use of psychosocial-hazard vocabulary is AGAINST the injured
+worker (his condition as the hazard), not the hazards he named. Placement: Krishnaiah report arc +
+evidence-in-chief + union brief + closing. NOT to Harrison; NOT the 64G.
+Self-management thread: he carried the psychosocial risk himself (fear-driven 2025 return against
+advice → crash; 21 Mar 2026 fear record; certified-fit-and-excluded July 2026) — severity +
+credibility, pairs with the "opposite of a malingerer" QSuper-bundle finding.
