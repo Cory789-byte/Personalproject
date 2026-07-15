@@ -607,3 +607,21 @@ evidence-in-chief + union brief + closing. NOT to Harrison; NOT the 64G.
 Self-management thread: he carried the psychosocial risk himself (fear-driven 2025 return against
 advice → crash; 21 Mar 2026 fear record; certified-fit-and-excluded July 2026) — severity +
 credibility, pairs with the "opposite of a malingerer" QSuper-bundle finding.
+
+## 2026-07-15 — "Bums on a seat" PROVENANCE (from Cory): said to TRISH; Taylor made to APOLOGISE via JACKIE (HR)
+Cory's account: the "bums on a seat" remark was said by Chloe Taylor TO TRISH (switchboard colleague);
+Taylor WAS MADE TO APOLOGISE, the apology RELAYED THROUGH JACKIE in HR.
+WHY THIS UPGRADES THE LEAD: (1) an HR-mediated apology = the incident was COMPLAINED OF, HANDLED, and
+likely FILE-NOTED inside HR — MSH's own records probably confirm both the remark and the apology;
+(2) an apology is an implied ADMISSION the remark was made; (3) TWO named corroborators exist — Trish
+(recipient/witness) and Jackie (HR handler); (4) yet another datapoint that the HR unit KNEW of
+switchboard-culture concerns (compounds the Forrest "not aware of any concerns" problem).
+STILL TO PIN: Trish's surname; Jackie's surname/role in HR; approximate DATE; apology written or
+verbal; how Cory learned of it (did he hear the remark himself, or via Trish?); whether Trish would
+confirm if asked.
+USE/DISCIPLINE: evidence-in-chief + witness-statement territory (Trish as potential witness) +
+severity/attitude thread. The 64G is FILED — do NOT expand it for this. If ever compelled, it's a
+later, separate consideration; first preference is a willing witness. WITNESS APPROACH RULES: casual,
+factual, zero pressure, no coaching — "do you remember the bums-on-a-seat comment and the apology?
+would you be comfortable putting what you remember in a short statement?" Nothing about this in ANY
+correspondence with MSH/HR.
