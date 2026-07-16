@@ -1085,3 +1085,35 @@ without Form 29 (2024-25, admitted Form 24 ¶25 — OLDER, window may be closing
 conduct's clock is closing, PRESERVE quietly (minimal internal agency complaint, administrative
 tone, no publicity, no linkage to the appeal) — preservation ≠ pressure campaign. Distinguish
 preserving rights from launching fronts.
+
+## 2026-07-16 — TWO NEW DISCLOSURES FROM CORY (privacy track inventory)
+**1. TAYLOR SHARED A SENSITIVE PERSONAL LEGAL MATTER (DV-adjacent).** Cory reports manager Taylor
+shared information about a domestic/family legal matter involving him and his younger sister —
+which he describes as a LESSER order/matter than a DV order (exact instrument TBC). Logged
+deliberately at LOW DETAIL (dignity + privacy; detail only as/if evidentially needed).
+PROVENANCE NEEDED before any use: (a) when shared, (b) to whom, (c) how Cory knows (who told him /
+did he hear it), (d) witnesses, (e) HOW TAYLOR KNEW — critical fork: if she learned it through
+employment systems/disclosures (leave forms, EAP, HR file, police-check paperwork) → IP Act/privacy
+breach territory + serious misconduct; if private/social knowledge shared at work → conduct/
+bullying/dignity issue (still union brief material, different instrument). (f) approx date.
+USES: union brief (conduct pattern re Taylor); severity/institutional-attitude thread; privacy
+complaint inventory IF the employment-systems fork is confirmed. NEVER in correspondence; NEVER on
+the WC/64G track. Cory to write a dated private statement (who/what/when/how known) THIS WEEK.
+**2. THE QSUPER MEDICAL-RECORDS SCOPE POINT SHARPENED.** Cory's own request to the fund was a
+PAYSLIP-BASED reassessment (partial payments) — payslips only. He had HIMSELF already told the fund
+he was working at reduced amounts (and the prior against-advice year). The 13 Jul push of the ECC
+(medical information) to ART by Harrison therefore: (a) exceeded the object of HIS request
+(payslips); (b) supplied medical info the fund did not need for anything he asked; (c) rests on the
+p7 authorisation which permits the FUND TO REQUEST info "in relation to your claim" — direction-of-
+flow gap + closed-claim gap (both already banked). NUANCE preserved for honesty: the earlier
+recoupment thread (Ings) included a fund request for payslips/RTW docs/WC status — any MSH reliance
+on THAT request must still fail the 13 Jul context (different purpose: "return to duties" support,
+claim closed, employer-initiated call). ZAPPIA LETTER ADDITION: ask the fund to confirm IN WRITING
+(i) what information ART requested from MSH and when, (ii) what ART received from MSH and when —
+the fund-side mismatch artifact (what was requested vs what was pushed).
+IP ACT FRAME (post-1 Jul 2025 QPPs): agency disclosure of personal (incl. health) information
+requires purpose-consistency or an exception (consent/scope; reasonably-expected directly-related
+secondary purpose; authorised by law). Scope of a claim-application authorisation ≠ standing
+authority to volunteer medical records post-closure. FRESH complaint window runs from 13 Jul 2026.
+All of it: INVENTORY (banked) — no new letters now; the what-authority answer (p7) is already an
+artifact; deed chip + union brief + possible preserved complaint per the limitation check.
