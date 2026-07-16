@@ -798,3 +798,19 @@ Cory asked whether to call the union (Heath) as a witness in WC/2024/227. CONCLU
    first; testimony only if a specific person saw specific pleaded facts.
 7. **July 2026 events (lockout) are NOT before the QIRC in this appeal** — union witnesses about the
    lockout belong to a future general-protections/reprisal proceeding, where they are standard.
+
+## 2026-07-16 — Addendum: the UNCHANGED-ENVIRONMENT BRIDGE (union-derived hearing evidence, upgraded)
+Cory pressed the union-as-witness value at a substantive hearing. The push surfaced a real upgrade:
+IF Together's collective action produces a FORMAL 2026 psychosocial risk assessment of the
+switchboard (or WHSQ findings), that document CAN reach back to the injury period — because **MSH's
+own 5 June 2026 letter confirms no consequential changes to switchboard practices (Item 3(c)) and
+no FRMS applied until after 30 June 2024 (Items 4-5)**. Unchanged environment = a 2026 assessment
+of the same conditions that existed in 2023-24. A union-triggered assessment finding hazards would
+arrive at hearing as a DOCUMENT (tendered, objective, regulator-adjacent), not as Heath's opinion —
+immune to the which-members/when cross that kills the testimonial version. The union's collective
+WHS push is therefore ALSO an evidence-generation engine for the hearing, not just industrial
+pressure. Sequencing unchanged: union acts in its own name; Cory never commissions it as a
+litigation exercise (collateral-purpose optics); if the document comes to exist, tender-decision
+made then with the timeline bridge (5 June letter) alongside. Heath-in-the-box position unchanged
+(no first-hand 2023-24 knowledge); the two Friday asks stand: (1) 2023-24 Together records re
+switchboard/delegate interest; (2) willing member witnesses.
