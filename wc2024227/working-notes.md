@@ -1017,3 +1017,21 @@ treating doctor certified fit FOR THAT ROLE; the role's criticality was identica
 they rostered him; caution unattached to an assessment is not a safety issue, it is a decision
 looking for a justification. DRAFTING RULE: never "they never raised safety" — always "no genuine
 safety issue has been identified, particularised, or assessed."
+
+## 2026-07-16 — Channel discipline CLARIFIED: appeal-as-motive is UNION-CHANNEL material (correctly placed)
+Cory flagged he has already put the appeal facts to Heath as possible cause of MSH's motive (14 Jul
+email: "concerned this may be connected to my current WorkCover appeal... injury and subsequent
+reprisal"). CORRECT PLACEMENT — the rule is channel-specific, not content-suppression:
+✅ TO THE UNION (his representative, in confidence): the suspected motive is necessary background,
+   and stating it on 14 July created a DATED CONTEMPORANEOUS RECORD of the belief — valuable if a
+   general-protections case is ever run (belief formed in real time, not reverse-engineered).
+✅ IN A FUTURE GP/reprisal FORUM: motive is the pleaded case; reverse onus makes MSH disprove it.
+❌ TO MSH/HR (any letter, incl. the dispute letter): never — the IO's letter stays facts/instruments
+   (roster, pay, leave, particulars); motive in an MSH-facing letter converts a clean dispute into
+   a war of allegations and hands them "vexatious" framing.
+❌ TO THE COMMISSION in the 64G/appeal files: never (collateral-purpose gift).
+NUANCE for the IO: the motive brief sits BEHIND their letter, not in it — IOs know this; if the
+union escalates to GP, it surfaces there with the onus doing the work.
+NOTE: union correspondence is confidential but not legal-professional-privileged per se — keep
+union emails factual and dated (his are), assertions framed as belief/concern (his was: "I am
+concerned that this MAY be connected").
