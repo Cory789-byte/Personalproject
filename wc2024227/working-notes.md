@@ -772,3 +772,29 @@ DISCIPLINES: the union campaigns on the HAZARD, not on Cory's case (privacy + ap
 Cory never states "the union agrees with me" in correspondence to MSH (it's Heath's card to play,
 in Together's name, with more force); the ask to Heath after Friday = "would the union consider
 raising the switchboard psychosocial risk assessment as a collective issue" — a question, his call.
+
+## 2026-07-16 — "Call the union as a witness?" — NO (analysed); the narrow exception; better vehicles
+Cory asked whether to call the union (Heath) as a witness in WC/2024/227. CONCLUSION: no.
+1. **Temporal mismatch:** the appeal turns on Jun 2023–Jun 2024 conduct + 18 Jun 2024 onset. Heath's
+   involvement began 14 JULY 2026. He has zero first-hand knowledge of the injury-period conditions.
+2. **Hearsay of near-zero weight:** "a recurring theme raised by members" in the box = unnamed
+   members, unspecified dates/content. Cross by Willson: which members? when? did any complaint
+   predate June 2024? were you even the organiser then? Evidence evaporates in four questions —
+   QIRC's relaxed evidence rules go to admissibility, not weight.
+3. **Confidentiality wall:** Heath cannot and will not name members or disclose their complaints;
+   a guarded witness protecting confidences reads worse than no witness.
+4. **STRATEGIC COST (decisive):** putting the union in Cory's witness list re-personalises the
+   collective frame — the exact inversion we're running the other way. It also drags Together into
+   the litigation as HIS instrument, constraining their freedom to act collectively (WHS demand,
+   WHSQ) and cooling the relationship at the moment the industrial team is engaging.
+5. **THE SAME PROBATIVE CONTENT ARRIVES BETTER AS:** (a) MEMBER witnesses with first-hand 2023-24
+   knowledge (Trish, Carolyn, others the union may encourage VOLUNTARILY); (b) DOCUMENTS — other
+   members' complaints/grievances TO MSH are MSH records (management knowledge proved from their own
+   files); union-held 2023-24 correspondence if any exists; (c) Cory's own contemporaneous records.
+6. **NARROW EXCEPTION:** a Together official with FIRST-HAND 2023-24 involvement — especially the
+   Stressor 1(g) delegate-suppression (April 2023 delegate interest; QH-POL-248; 13 months) — would
+   be a percipient FACT witness who happens to be union. ASK HEATH (after Friday): does Together
+   hold any 2023-24 records touching Logan switchboard / Cory's delegate expression? Documents
+   first; testimony only if a specific person saw specific pleaded facts.
+7. **July 2026 events (lockout) are NOT before the QIRC in this appeal** — union witnesses about the
+   lockout belong to a future general-protections/reprisal proceeding, where they are standard.
