@@ -1117,3 +1117,24 @@ secondary purpose; authorised by law). Scope of a claim-application authorisatio
 authority to volunteer medical records post-closure. FRESH complaint window runs from 13 Jul 2026.
 All of it: INVENTORY (banked) — no new letters now; the what-authority answer (p7) is already an
 artifact; deed chip + union brief + possible preserved complaint per the limitation check.
+
+## 2026-07-16 — THE ECC'S PURPOSE (Cory's point): a partial-payment instrument PRESUPPOSES working
+Cory's clarification: the fund's interest in the ECC does not signify absence from work. The ECC in
+the QSuper context is the fund's instrument for PARTIAL injury benefit arithmetic — certifying
+capacity/restrictions so the fund can pay a PARTIAL top-up while the member WORKS reduced hours
+(and/or retrospectively document capacity for the payslip-based recoupment reassessment). Work-half
++ half-top-up is the DESIGN of partial IP benefits.
+THE INVERSION OF THE DOCUMENT: MSH took a work-support instrument (exists BECAUSE the member works)
+and read it as an exclusion trigger ("unable to facilitate... return"). The document presupposes
+work; they used it to end work.
+THE TAXONOMY DEFECT in the 15 Jul discretion paragraph: MSH classes "those receiving QSuper IP
+benefits" alongside "Health Management processes" as non-WCRA management categories — implicitly
+treating benefit recipients as non-working. WRONG BY SCHEME DESIGN: partial IP benefits exist
+precisely FOR working people on reduced hours. Even on an ACTIVE claim, working + partial top-up
+coexist by design — so "QSuper arrangement → employer discretion → no duties in any capacity" is
+incoherent: the exclusion DEFEATS the very arrangement cited to justify it.
+FORMULATION (for the IO, union brief): "The letter treats my QSuper arrangement as a reason I
+cannot work. The arrangement is the opposite — partial income protection exists to support people
+who ARE working reduced hours. The exclusion doesn't respect that arrangement; it destroys it."
+STATUS: IO talking point + union brief; Heath email already carries the serving-employee framing
+(Issue 1) — no reopening; correspondence unchanged.
