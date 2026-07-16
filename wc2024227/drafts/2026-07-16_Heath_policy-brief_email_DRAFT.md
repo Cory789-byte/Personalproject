@@ -36,8 +36,10 @@ and the issues as I understand them.
 
 **Issue 1 — the situation is being mischaracterised as a "return to work."** I have been
 continuously employed and working my shifts for the past year, on hours I adjusted within my
-certified capacity (my income protection payments stopped at my own request, to prevent
-overpayment, because I was working). On 3 July at about 2:32pm I provided the Employee Capability
+certified capacity. Throughout that period I kept the fund side correct myself: while the appeal
+was ongoing I asked QSuper to assess my payslips and adjust my benefit to partial payments
+reflecting the hours I was actually working, and ultimately my income protection payments stopped
+at my own request, to prevent overpayment, because I was working. On 3 July at about 2:32pm I provided the Employee Capability
 Checklist my GP completed certifying me **fit to work with identified restrictions** — as a serving
 employee updating my medical information while finalising my super matters, not as an application
 for permission to work. By about 3:30pm the same day — under an hour — I was held out of the
