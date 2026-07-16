@@ -881,3 +881,22 @@ on a life-safety desk) justifies collective WHS action; urgency from the reprisa
 employer's own documents carry the case. EXPECTED CAUTION: don't cut across the live QIRC appeal —
 coordination conversation likely. Watch: this simulation is a PREDICTION, not their view — update
 against what actually comes back after Friday.
+
+## 2026-07-16 — Simulation COMPLETED: the officer's read WITH Form 24 (admissions) + the PID letter
+Adding Form 24/responses + the PID outcome letter to the Friday bundle transforms the file's NATURE:
+(1) ALLEGATION → ADMISSION: the opposing government party formally admits the spine — 7-hr break
+(¶1); comm-book removal "I took it out last week" (¶14); same-day grievance dismissal (¶5); PID
+determination (¶20); 48-hr retraction direction (¶21); delegate interest (¶18) vs QH-POL-248 (¶17);
+payroll "IMMEDIATELY" + 25-day delay (¶¶40-41); clean 16 Nov 2023 baseline (¶34); Krishnaiah MDD
+diagnosis (¶38) + deterioration warning (¶39); Review Decision contents incl. unreasonable-
+management-action finding (¶37); records obtained without Form 29 (¶25). Virtually nothing rests
+on the member's word alone — the officer cross-checks his account against his OPPONENT'S pleading.
+(2) MEMBER → PROTECTED DISCLOSER: the ESU letter is a formal statutory determination (24 Dec 2024)
+with the protections recited — incl. that reprisal is a CRIMINAL OFFENCE (ss 40-41) and a tort
+(s 42), detriment defined to include adverse treatment re employment. The officer now reads the
+July lockout not merely as unfair but as adverse treatment of a STATUTORILY PROTECTED person with
+a PARTIALLY ADMITTED prior reprisal chronology — the highest-duty-of-care category a union has.
+EXPECTED EFFECTS: urgency up; handling care up (s 65 confidentiality; criminal-adjacent dimension
+means the union treads deliberately, likely pulls industrial leadership/legal in); the "impunity or
+blindness" read — MSH doing this WHILE the admissions sit on a court record — hardens resolve.
+Prediction discipline: test against actual Friday outcome.
