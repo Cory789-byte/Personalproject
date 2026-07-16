@@ -267,3 +267,14 @@ the listing into consent orders with no compelled appearance and no citable ruli
   what they'll try to drop); renewed Calderbank goes out early Sept off the fat record.
 - Remaining: engage-pre-lapse 16%; mention-driven 15%; post-production 21%; hearing-door 4%;
   no settlement 14%.
+
+### §16 addendum v3 (16 July 2026) — Calderbank #2 REJECTED in-window
+Matheson, 16 Jul 15:54: "position remains to defend... Should our position change at any point, we
+will advise you as soon as possible." No reasons, no counter, no conference despite invitation —
+banked as the unreasonable-rejection costs artifact. In-window acceptance/engagement pathways are
+dead; consent-resolution probability ~74-80%; dominant pathway is now POST-PRODUCTION (~36-38%,
+landing late Sept/early Oct), secondary post-mention (~20%, mid-Aug); no-consent ~18-22%. Median
+deal date moves to mid-late September; funds likelier October. Plan unchanged: no reply; offer
+lapses 22 July; renew post-production on stiffer terms; critical path = 7 Aug mention + Krishnaiah
+report. The door-line ("should our position change... advise you as soon as possible") marks the
+Regulator's own expectation that the decision nodes ahead may move them.

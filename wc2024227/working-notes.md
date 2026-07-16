@@ -695,3 +695,37 @@ CONSEQUENCES FOR THE PLAN:
 - NEW LEAD: the full-time-position rumor (Taylor, pre-advertisement) — if the exclusion runs while a
   full-time switchboard role is advertised/filled, the adverse-action inference sharpens materially.
   WATCH SmartJobs daily.
+
+## 2026-07-16 — CALDERBANK #2 REJECTED (Matheson, 15:54) — the expected posture; the door-line noted
+Saved: documents/2026-07-16_Matheson_Calderbank2_rejection.pdf. Full text of the operative part:
+"I refer to your email and attached correspondence dated 1 July 2026 and note its contents. The
+Respondent's position remains to defend the appeal as outlined in our Statement of Facts and
+Contentions. Should our position change at any point, we will advise you as soon as possible."
+ANALYSIS:
+1. **Day 15 of 21** (offer lapses 22 Jul 4pm). Terse, no reasons, no counter, no request to confer —
+   despite Cory's cover expressly inviting clarification/conference. Compare Calderbank #1 rejection
+   (18 Feb): "does not accept your offer, and we will be defending the appeal." Same family, BUT:
+2. **THE DOOR LINE:** "Should our position change at any point, we will advise you as soon as
+   possible." Unnecessary in a flat rejection; it (a) acknowledges the position MAY change, (b)
+   promises proactive notice, (c) reads as written-for-the-file by a party aware the offer will be
+   produced on costs. Consistent with defend-as-instructed NOW + revalue at the known decision
+   nodes (7 Aug mention; production). NOT an engagement signal; a keep-options-open signal.
+3. **COSTS ARTIFACT BANKED:** a bare no-reasons rejection of a detailed 8-part offer (own-review
+   adverse finding, ultra vires, Form 24 admissions itemised) is strong material for the
+   unreasonable-rejection limb if the outcome ≥ offer: costs from 16 Jul/lapse, s 191(3) uplift ask,
+   model-litigant point (no engagement, no counter, no conference despite invitation). Preserve the
+   email + attachments chain intact.
+4. **MODEL UPDATE (v3):** in-window acceptance (was 13%) and engage-pre-lapse (was 17%) are DEAD
+   (~0-2% residual before 22 Jul). Mass redistributes: mention-driven ~20% | post-production ~36-38%
+   (now clearly dominant, landing ~late Sept/early Oct) | MSH-folds-pre-mention ~10% | hearing-door
+   ~6% | no consent resolution ~18-22%. P(consent resolution overall) ~74-80% (from 78-84 —
+   modest haircut; rejection-before-mention was substantially priced). Median deal date shifts RIGHT:
+   ~mid-late SEPTEMBER (post-production peak), secondary peak mid-Aug (post-mention). Money
+   likelier Oct than Aug now.
+5. **NO REPLY to Matheson.** Nothing to say; arguing re-opens nothing and cheapens the costs record.
+   Let the offer LAPSE 22 Jul (lapse-then-renew keeps option value; auto-extension already declined).
+   Renewal consideration point = post-production (or post-mention if the room shifts).
+6. **CRITICAL PATH unchanged and now singular:** the 7 Aug mention (produce-or-swear) + the updated
+   Krishnaiah report. Every settlement pathway that remains runs THROUGH production. The union/
+   lockout front is unaffected (separate track) — and every extra lockout week keeps compounding
+   the severity narrative that prices the eventual deal.
