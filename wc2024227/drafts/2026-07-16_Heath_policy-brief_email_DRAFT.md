@@ -79,6 +79,21 @@ and their letter describes its subject as "the nature of the matters identified 
 reads wider than the restrictions themselves. I want any request to my GP copied to me and confined
 to my capacity, restrictions and their operational application, and I've said so.
 
+**Issue 6 — the two-year reversal on "psychosocial risk."** The psychosocial concerns in this
+workplace were raised **by me**, beginning more than two years ago: fatigue and rest-break breaches
+(including the March 2024 rostering that left me a 7-hour break between shifts), unresolved pay
+failures, and switchboard workload and communication-flow issues — including in a written grievance
+on 7 August 2023 that was dismissed the same day it was lodged, and later in the disclosure I
+mentioned in my first email. To my knowledge, no psychosocial risk assessment of the switchboard
+was ever undertaken in response to any of it, and I managed my own exposure over the past year by
+adjusting my hours within my certified capacity. The first time the Health Service has applied
+psychosocial-risk language to this workplace in writing is the 15 July letter — and its subject is
+not the hazards I raised, but **me**: whether the "matters identified by Dr Ma" (that is, my
+medical condition) "present any psychosocial hazards or risks." Two years on, the hazards remain
+unassessed, and the worker who raised them — and was injured — has become the subject of the
+assessment. Given you mentioned switchboard hazards are a recurring theme from members, I'd
+particularly value the industrial team's view on that sequence.
+
 I had prepared a full response to HR raising all of this (with the policy citations) — I'm holding
 it and won't send anything until you and the industrial team have advised. Also for awareness: the
 full-time position I mentioned in my first email hasn't been advertised yet as far as I can see;
