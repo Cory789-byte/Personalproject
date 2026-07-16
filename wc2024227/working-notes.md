@@ -978,3 +978,24 @@ WHERE THE INFERENCE LIVES (its native forums):
     lockout to the rejection under appeal.
 (d) 7 AUG HEARING: volunteer NOTHING about the lockout; if Dwyer asks about circumstances, answer
     honestly and briefly. Engineered mentions = discounted argument + collateral-purpose gift.
+
+## 2026-07-16 — STATUS QUO applied to Cory's facts + the IO briefing script
+MECHANICS: QLD public health sector certified-agreement dispute clauses provide (in substance) that
+once a dispute is notified under the dispute-settling procedure, the STATUS QUO existing immediately
+BEFORE the dispute continues while the procedure runs (local resolution → escalation → QIRC), work
+continuing as normal — typically subject to a GENUINE-SAFETY exception. (Exact clause number/wording
+to be confirmed by the IO against the operative agreement — do not assert a clause number.)
+APPLIED HERE: the dispute = the 3 JULY decisions (exclusion + leave-debit). Status quo immediately
+prior = ROSTERED AND WORKING (12 months, same role, adjusted hours). Union notifies dispute →
+status quo argument = restore to roster + stop debiting leave until resolved.
+MSH'S PREDICTABLE COUNTER: the safety exception ("pending medical clarification"). ANSWERS: (1)
+treating GP certifies FIT with restrictions — on their own instrument (the ECC they required);
+(2) 12 months working the same role; (3) NO risk assessment exists (they cannot invoke safety
+having never assessed it); (4) Forrest 7 Jul letter acknowledged restrictions already being
+accommodated (usable with the union — distinct from the banked 8-hr item); (5) even if exclusion
+is maintained on claimed safety grounds, the safety exception does not authorise charging HIS
+accruals — the orthodox compromise is exclusion ON PAID SPECIAL LEAVE pending resolution.
+REALISTIC OUTCOMES ladder: best = restored to roster; middle (likelier fast win) = held out ON PAY,
+leave re-credited, pending the RFI; floor = dispute escalates to QIRC with the pay question live.
+IO SCRIPT delivered to Cory (ask-not-instruct tone; IO owns the running; confirm operative
+certified agreement + clause; appeal demarcation one line only).
