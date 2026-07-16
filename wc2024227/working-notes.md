@@ -858,3 +858,26 @@ angle). The file he handed Heath IS that pitch. Let the industrial team read it 
 of labour locked: UNION = lockout/pay/WHS collective flank; CORY = the appeal (built strategy,
 counsel plan); the flanks reinforce (union action raises MSH systemic exposure → settlement
 pressure; appeal acceptance dissolves the lockout's stated basis).
+
+## 2026-07-16 — Simulation: the INDUSTRIAL OFFICER'S Friday read (Form 29 + Form 20 + Form 4/64G +
+## MSH objection + Heath's member-theme knowledge + the patient-safety dimension)
+Composite the officer assembles: (1) a LIFE-SAFETY desk (Code Blue/MET routing) run without fatigue
+governance — ADMITTED in MSH's own 5 June objection (no FRMS applied, Item 4; implemented only
+after 30 Jun 2024, Item 5; no consequential change, 3(c)); (2) a member who used EVERY proper
+channel (comm book → same-day-dismissed grievance → PID → suppressed delegate interest) and whose
+channel-records are the exact documents MSH resists producing (the Form 29/64G fight itself
+becomes evidence of the culture); (3) RECORD-KEEPING failures on a safety desk — comm-book page
+removed by the manager (admitted), paging records not retained, management texts off-system;
+(4) injury after the 7-hr break with the Regulator's OWN review finding unreasonable management
+action; (5) the arc AFTER raising issues: abandonment dismissal on certificates → reinstated →
+Jul 2026 certified-fit lockout, leave-docked, no timeframe, "Health Management processes" named —
+reprisal-shaped to any industrial eye; (6) Heath's overlay: RECURRING member theme + full-time
+role discussed with casuals while the full-timer is excluded (casualisation lens); (7) PATIENT
+dimension: misrouted codes/delayed urgent pathology = the hazard extends past members to patients —
+the public-interest frame unions escalate on; (8) the member himself: counsel-grade filed forms,
+disciplined tone, organised file = low-cost, high-credibility intervention. EXPECTED CONCLUSIONS:
+individual matter (pay/lockout) quickly winnable; collective matter (unassessed psychosocial hazard
+on a life-safety desk) justifies collective WHS action; urgency from the reprisal pattern; the
+employer's own documents carry the case. EXPECTED CAUTION: don't cut across the live QIRC appeal —
+coordination conversation likely. Watch: this simulation is a PREDICTION, not their view — update
+against what actually comes back after Friday.
