@@ -1035,3 +1035,24 @@ union escalates to GP, it surfaces there with the onus doing the work.
 NOTE: union correspondence is confidential but not legal-professional-privileged per se — keep
 union emails factual and dated (his are), assertions framed as belief/concern (his was: "I am
 concerned that this MAY be connected").
+
+## 2026-07-16 — Calderbank economics clarified for Cory: the concessions were CONDITIONAL and now REVERT
+Cory processing the rejection: he conceded the privacy/medical-info complaint (6.2(d)) and laid out
+the full merits roadmap, and they still declined. CLARIFICATIONS LOGGED:
+1. **The 6.2(d) release DIED WITH THE REJECTION.** Releases in a rejected/lapsed offer never take
+   effect — the privacy-handling complaint is FULLY PRESERVED (as is the 64G, per 6.2(c) never
+   operating). He offered generosity; declined generosity evaporates; the RECORD of having offered
+   it remains — for costs and for the model-litigant point.
+2. **The merits roadmap cost almost nothing:** paras 2-5.4 are the pleaded/admitted public record
+   (9A, Form 24, Review Decision, MSH 5 Jun letter) — they already had every document. The two NEW
+   arguments shown (5.5 Reese FTE misrepresentation; 5.6 ultra vires delegation) were deliberate
+   pressure levers built on documents BOTH sides hold (Item 13 instrument; 10 May email) — new
+   argument, not new evidence. The BANKED items (8-hr admission, direction-of-flow, timing
+   inference, Forrest set) were NOT in the offer and remain banked.
+3. **A reasoned offer is the POINT of a Calderbank:** a bare offer has weak costs consequences; an
+   offer the offeree could fully evaluate — merits + authorities + concessions — makes rejection
+   maximally "unreasonable" on assessment. Their no-reasons rejection of a fully-reasoned,
+   concession-laden offer ≈ the strongest costs posture available to an appellant.
+4. NEXT-OFFER NOTE: the lapsed concessions do NOT have to reappear. The post-production renewal can
+   drop 6.2(d) (keep the complaint), drop or reprice 6.2(c), and raise the costs ask — the price of
+   saying no is the offer getting worse, and the July offer documents they were warned.
