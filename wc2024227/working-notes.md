@@ -729,3 +729,20 @@ ANALYSIS:
    Krishnaiah report. Every settlement pathway that remains runs THROUGH production. The union/
    lockout front is unaffected (separate track) — and every extra lockout week keeps compounding
    the severity narrative that prices the eventual deal.
+
+## 2026-07-16 — Rejection LATENCY signal (Cory's catch): 24 hours (Feb) vs 15 days (July)
+Calderbank #1: rejected NEXT DAY (18 Feb) — "does not accept your offer, and we will be defending
+the appeal." Calderbank #2: rejected day 15 of 21 — "position remains to defend... should our
+position change at any point, we will advise you as soon as possible."
+READ: (1) a one-line answer doesn't take 15 days to WRITE — it takes 15 days to AUTHORISE:
+consistent with referral up/advice (counsel briefed for 7 Aug; possibly consultation with MSH given
+term 6.2(c) directly affects MSH) before instructions came back "hold the line." The Feb rejection
+was reflexive; this one was considered. (2) They ANSWERED rather than letting it lapse silently
+(lapse was free and 6 days away) — affirmative rejection + door line = managing the costs record,
+which itself concedes the offer has costs teeth. (3) WORDING DELTA: Feb categorical ("we will be
+defending") → July conditional ("position REMAINS... SHOULD our position change... as soon as
+possible") — from fighting words to holding words. Direction of travel across the two rejections is
+the signal, not either letter alone. CAUTION: latency partly explainable by leave/July workload/
+using the window; door line could be house politeness. Treat as a LEAN (posture = hold until the
+7 Aug mention + production, with a pre-authorised path back to the table), not proof. Consistent
+with v3 model (post-mention/post-production pathways dominant).
