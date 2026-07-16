@@ -999,3 +999,21 @@ REALISTIC OUTCOMES ladder: best = restored to roster; middle (likelier fast win)
 leave re-credited, pending the RFI; floor = dispute escalates to QIRC with the pay question live.
 IO SCRIPT delivered to Cory (ask-not-instruct tone; IO owns the running; confirm operative
 certified agreement + clause; appeal demarcation one line only).
+
+## 2026-07-16 — The "genuine safety issue" exception: PRECISION on Cory's point
+Cory: "there is no real genuine safety issue because MSH has never raised it." REFINED — they HAVE
+used safety VOCABULARY ("psychosocial hazards or risks," "safely accommodate," "safe and
+sustainable") so "never raised it" is quotable-against-us. The accurate, unanswerable version:
+**MSH has never IDENTIFIED or PARTICULARISED a genuine safety issue** — no specific hazard named,
+no incident cited, no risk assessment conducted, no connection drawn between any restriction and
+any danger. Generic references to unassessed "potential" risks are not a genuine safety issue; the
+status-quo exception requires specificity and is construed narrowly (real/immediate, not
+speculative caution). THE PROOF SET: (1) decision inside 58 minutes — no assessment could have
+occurred; (2) 12 months working the same role — if a genuine issue existed it existed all year,
+unraised; (3) Forrest 7 Jul: restrictions already accommodated; (4) the ECC is THEIR OWN instrument
+for answering the safety question and it answered it: fit with restrictions; (5) no incident ever
+cited. PRE-EMPT their best card ("safety-critical emergency-codes role justifies caution"): the
+treating doctor certified fit FOR THAT ROLE; the role's criticality was identical for the 12 months
+they rostered him; caution unattached to an assessment is not a safety issue, it is a decision
+looking for a justification. DRAFTING RULE: never "they never raised safety" — always "no genuine
+safety issue has been identified, particularised, or assessed."
