@@ -838,3 +838,23 @@ carriage handover mid-stream (64G filed, mention 7 Aug, Calderbank lapsing 22 Ju
 strategy is built and validated; union lawyers reviewing/adopting it ≠ restarting it. Friday asks
 now THREE: (1) legal assistance/representation for the appeal; (2) collective WHS action on the
 switchboard hazard; (3) 2023-24 records + willing member witnesses.
+
+## 2026-07-16 — Together's demarcation: NO involvement at appeal stage (per Cory) — plan adjusted
+Cory reports the union's position is not to get involved at the WC APPEAL stage (standard
+demarcation for many unions: assist claim/review, refer appeals out). Effect on the Friday asks:
+- Ask #1 (representation/funding for the appeal) — likely OFF the table; do not re-pitch it.
+  RESOURCE PLAN UNCHANGED: counsel at own cost per the existing plan; recoverable on the s 558(3)/
+  Calderbank costs track (offer already foreshadows counsel + solicitor; rejection 16 Jul banked).
+- Ask #2 (collective WHS action on the switchboard hazard) — UNAFFECTED and now THE primary ask:
+  it is industrial/WHS work squarely inside what unions DO do, and it's where Heath already
+  escalated urgently. The lockout/pay fight is likewise industrial, not appeal-stage.
+- Ask #3 (2023-24 records + willing member witnesses) — still fine: facilitation is not appeal-
+  stage REPRESENTATION; member witnesses are voluntary individuals; a records question is modest.
+CORY'S "UNIQUE MATTER" INSTINCT — channel, don't pitch: the exception-maker for a union is never
+one member's appeal; it is the COLLECTIVE frame (whole switchboard, recurring member theme,
+unassessed psychosocial hazard, patient-safety dimension, the full-time-position/casualisation
+angle). The file he handed Heath IS that pitch. Let the industrial team read it Friday and reach
+"this is bigger than one member" themselves — a conclusion they form is one they act on. Division
+of labour locked: UNION = lockout/pay/WHS collective flank; CORY = the appeal (built strategy,
+counsel plan); the flanks reinforce (union action raises MSH systemic exposure → settlement
+pressure; appeal acceptance dissolves the lockout's stated basis).
