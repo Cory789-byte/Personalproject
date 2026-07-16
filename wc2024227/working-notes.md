@@ -814,3 +814,27 @@ litigation exercise (collateral-purpose optics); if the document comes to exist,
 made then with the timeline bridge (5 June letter) alongside. Heath-in-the-box position unchanged
 (no first-hand 2023-24 knowledge); the two Friday asks stand: (1) 2023-24 Together records re
 switchboard/delegate interest; (2) willing member witnesses.
+
+## 2026-07-16 — Union involvement in WC appeals: the ROLES map (Cory's question — what's different here)
+Cory correctly notes unions routinely involve themselves in WC reviews/appeals. The distinction is
+ROLE, not involvement:
+1. **REPRESENTATIVE/ADVOCATE** — the standard union role: industrial advocates appear for members
+   at QIRC (IR Act agent-representation), and unions refer/fund members to their legal panel for WC
+   appeals. THIS role is open NOW and is the high-value ask: Together-funded solicitor/counsel for
+   the 7 Aug mention + hearing would transform resources and the costs equation (Calderbank already
+   foreshadows counsel + instructing solicitor).
+2. **FUNDER** — union legal-assistance schemes for work-related matters; ask Friday what Together
+   provides for WC appeals at hearing stage.
+3. **FACILITATOR/SUPPORTER** — member witnesses, records, collective WHS action (the engine already
+   mapped), RTW/industrial pressure on the lockout.
+4. **WITNESS** — the only role analysed and rejected (no first-hand 2023-24 knowledge; hearsay;
+   confidentiality wall).
+KEY RULE: **advocate and witness are incompatible** — a union that represents Cory cannot also
+testify for him; choosing the witness box forfeits the far more valuable advocacy seat.
+STAGE NOTE: review-stage union involvement (helping lodge/argue the review) is standard but that
+stage passed (Oct 2024, pre-union). Arriving at appeal stage, the union's natural entries are
+representation/funding + the industrial flank. TRANSITION CAUTION if representation is offered:
+carriage handover mid-stream (64G filed, mention 7 Aug, Calderbank lapsing 22 Jul) needs care —
+strategy is built and validated; union lawyers reviewing/adopting it ≠ restarting it. Friday asks
+now THREE: (1) legal assistance/representation for the appeal; (2) collective WHS action on the
+switchboard hazard; (3) 2023-24 records + willing member witnesses.
