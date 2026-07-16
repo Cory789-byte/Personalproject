@@ -95,9 +95,12 @@ assessment. Given you mentioned switchboard hazards are a recurring theme from m
 particularly value the industrial team's view on that sequence.
 
 I had prepared a full response to HR raising all of this (with the policy citations) — I'm holding
-it and won't send anything until you and the industrial team have advised. Also for awareness: the
-full-time position I mentioned in my first email hasn't been advertised yet as far as I can see;
-I'm watching for it.
+it and won't send anything until you and the industrial team have advised. One further matter for
+awareness: while I have been held out, a colleague (Caroline, a casual switchboard employee) has
+contacted me asking whether I have been dismissed, and I understand the upcoming full-time position
+I mentioned in my first email has been communicated to casual staff. I have kept her message. So
+while I am excluded from the workplace with no timeframe, my absence is being noticed by
+colleagues, and a full-time role in my line of work is being discussed with casuals.
 
 Happy to talk any time after your Friday review. Thanks again for moving quickly on this.
 
