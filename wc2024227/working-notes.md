@@ -946,3 +946,35 @@ WHSQ (external regulator); the appeal sits with the Commission; the reprisal tor
 with the courts. The node that absorbed every complaint for two years is now surrounded by forums
 it cannot absorb. CONVERGENCE MAP: appeal=Cory (+counsel); lockout/pay/process=union; hazard=union
 collective/WHSQ; reprisal=reserved behind settlement (rule 8).
+
+## 2026-07-16 — "Write to the Commission about the lockout timing?" — NO in the 64G/appeal file; the
+## inference's proper homes; the status-quo lever
+THE TIMELINE CLUSTER (real, banked): 5 Jun MSH objection to Form 29 → 23 Jun 64G filed (produce-or-
+swear) → 24-25 Jun served on MSH → **3 Jul lockout (8 days after service)** → 15 Jul "discretion"
+letter → 16 Jul Calderbank rejected. Inference-capable either way (intent OR effect: pressure on a
+self-represented litigant with a listed application against the same entity).
+WHY NOT A LETTER TO THE COMMISSION IN WC/2024/227 or the 64G file:
+1. WRONG VEHICLE: the 64G proceeding is about production; there is no order available in it about
+   his employment. A registry letter raising the lockout = grievance in the wrong file.
+2. HANDS MSH THE COLLATERAL-PURPOSE NARRATIVE: MSH's defence to the 64G is easiest if Cory looks
+   like he's using the proceeding as leverage in an industrial fight. A letter linking the two
+   MERGES the channels HE has kept separate — it would damage the application it rode in on.
+3. TONE DISCIPLINE (rules 1/5): a stated pattern is discounted argument; Dwyer discovering MSH's
+   conduct himself is evidence. The letter would spend the asymmetry for nothing.
+4. NO PRESENT PREJUDICE TO CURE: he can still prosecute the application. If MSH's conduct ever
+   actually impedes the proceeding, different question.
+WHERE THE INFERENCE LIVES (its native forums):
+(a) GENERAL PROTECTIONS (IR Act) — the "even if no intent" insight is CODIFIED there: adverse
+    action + workplace right (party to proceedings, WC claim/appeal, complaints) + REVERSE ONUS =
+    the employer must disprove the reason; effect establishes the action, timing feeds the
+    inference. Reserved track; union/advice-led; interim orders possible if escalation (IME/show-
+    cause) occurs mid-proceedings.
+(b) UNION DISPUTE ROUTE — certified-agreement dispute-settling procedure exits to QIRC lawfully
+    (the lockout before the Commission through the PROPER door). **STATUS QUO LEVER: QLD public
+    sector certified agreements' dispute clauses typically preserve/restore the pre-dispute status
+    quo while the dispute is processed — i.e., notification of a dispute may itself require
+    restoring him to the roster/pay.** FLAG TO THE INDUSTRIAL OFFICER (they will know the clause).
+(c) SETTLEMENT/SEVERITY NARRATIVE — the cluster prices the deal; their own 15 Jul letter ties the
+    lockout to the rejection under appeal.
+(d) 7 AUG HEARING: volunteer NOTHING about the lockout; if Dwyer asks about circumstances, answer
+    honestly and briefly. Engineered mentions = discounted argument + collateral-purpose gift.
