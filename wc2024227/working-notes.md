@@ -655,3 +655,43 @@ CONTROL he implemented himself; the lawful fix is managing the hazard, not remov
 correspondence the only position is: CERTIFIED FIT WITH RESTRICTIONS, working until excluded.
 Consistency bonus: the year of self-adjusted partial hours ↔ partial QSuper benefits ↔ payslip-driven
 partial-payment position — one coherent, documented story of a worker managing honestly.
+
+## 2026-07-16 — TOGETHER IS ENGAGED (Heath Moran thread, 14–15 July) — URGENT INDUSTRIAL REFERRAL
+Saved: documents/2026-07-15_Together_Heath-Moran_thread_urgent-industrial-referral.pdf.
+The union action item is DONE — Cory had already made contact on 14 July (before my repeated urging
+resolved; he was ahead of the plan). Thread:
+1. **14 Jul 10:50 Cory → Heath Moran (Organiser, South Team, 0414 225 851):** raises (a) TAYLOR HAS
+   TOLD OTHERS A FULL-TIME POSITION IS COMING SOON in his line of work — asks his status re it (the
+   SmartJobs watch item + the Carolyn Jeffrey "dismissed full-time line" text now CORROBORATED as a
+   live vacancy rumor, on record with the union BEFORE any ad); (b) the ECC requirement is NOVEL —
+   not required on his previous resumption after the 2024 dismissal/reinstatement, despite 12 months
+   performing the role on self-managed reduced hours (DIFFERENTIAL-TREATMENT datapoint); (c) directed
+   out until ECC complete → completed → STILL excluded; (d) his contemporaneous stated belief the
+   exclusion may connect to the WC appeal/systemic patient-safety risks/reprisal (adverse-action
+   belief now on record with the union, dated 14 July).
+2. **14 Jul 16:04 Heath → Cory: "this is VERY SERIOUS... URGENT REFERRAL to our industrial team...
+   if you've been put on an ECC, completed it and are still being told you cannot return, I need to
+   make sure an industrial officer looks over this BEFORE ANYTHING IS ACTIONED."** Plus the gold:
+   **"your ongoing concerns for the hazards in switchboard... this is a RECURRING THEME RAISED BY
+   MEMBERS"** — the union already holds a switchboard-hazard file; Cory is corroborated, not alone.
+3. **14 Jul 17:03 Cory → Heath:** handed over appeal submissions (expressly: to identify the
+   unassessed psychosocial risks, NOT to run the appeal; not to be shared). Stated "no grievances
+   with Ms Taylor personally" (good restraint). Form 20 affidavit describes role/workplace. Will
+   send the ECC + HR's refusal.
+4. **15 Jul 15:27 Heath → Cory:** "significant material... I'll have time to go through these on
+   FRIDAY [17 July]... won't comment until reviewed... then I'll get back with my thoughts."
+CONSEQUENCES FOR THE PLAN:
+- **THE RECORD-CORRECTION LETTER TO HARRISON IS ON HOLD** — Heath expressly asked that nothing be
+  actioned before an industrial officer reviews. The draft (drafts/2026-07-15_Harrison_record-
+  correction_union-cc_DRAFT.md) + the discretion-logic research note become the UNION BRIEF handover.
+- Union advice expected ~Fri 17 – early week of 20 July — landing RIGHT AT the Calderbank window
+  close (22 Jul 4pm). Separate tracks; no conflict; if the industrial officer proposes anything
+  touching the WC track, sequence carefully.
+- ONE addition should go to Heath before Friday (single attachment, two lines): the 15 July Harrison
+  discretion letter — it is THE exhibit (pay refused, no duties in any capacity, no timeframe,
+  "discretion," "Health Management processes"). Also the ECC if not yet sent (he flagged he would).
+- "He knows who i am" (Cory): Heath/Together recognise him and the switchboard issue — consistent
+  with "recurring theme raised by members" + the 2024 unfair-dismissal history.
+- NEW LEAD: the full-time-position rumor (Taylor, pre-advertisement) — if the exclusion runs while a
+  full-time switchboard role is advertised/filled, the adverse-action inference sharpens materially.
+  WATCH SmartJobs daily.
