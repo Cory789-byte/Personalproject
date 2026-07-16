@@ -1056,3 +1056,32 @@ the full merits roadmap, and they still declined. CLARIFICATIONS LOGGED:
 4. NEXT-OFFER NOTE: the lapsed concessions do NOT have to reappear. The post-production renewal can
    drop 6.2(d) (keep the complaint), drop or reprice 6.2(c), and raise the costs ask — the price of
    saying no is the offer getting worse, and the July offer documents they were warned.
+
+## 2026-07-16 — "Start the privacy complaint / the proceeding NOW as pressure?" — NO (analysed); limitation caveat
+RECOMMENDATION: do NOT commence the privacy complaint or any reprisal proceeding now as settlement
+pressure. Reasons:
+1. **OPTICS TORCH THE COSTS POSTURE JUST BUILT:** a complaint filed within days of the 16 Jul
+   rejection reads as retaliation for non-acceptance — undermines "genuine good-faith offeror" and
+   hands the Regulator a pressure-campaign/vexatious narrative for both the costs fight and the
+   settlement table. The offer's model-litigant framing works BECAUSE he has been restrained.
+2. **PRESSURE ASYMMETRY (the maths fail):** OIC privacy processes are slow (agency-first step,
+   ~45 business days, then OIC, months+), remedies modest, handled by a different unit — LOW felt
+   pressure on the appeals/legal decision-makers. Cost to him: bandwidth before 7 Aug (critical
+   path = mention + Krishnaiah), hardened respondent (multi-front attack → wagons circle →
+   P(settle) DOWN not up), muddied restraint posture before Dwyer.
+3. **RULE 8 (sequencing) + DEAL INVENTORY:** the complaint's HIGHEST value is as the 6.2(d)-style
+   release chip in the eventual deed — spent now, it can't sweeten the renewal offer. The rejection
+   REVERTED the chip to him; launching it burns it.
+4. **REPRISAL TORT ("the proceeding"):** hard no now — rule 8 sequenced behind WC settlement;
+   requires specialist advice first (PIPA applicability/late-notice s 9A — standing action item);
+   3-yr limitation open to ~mid-2027; premature commencement is the collateral grenade.
+5. **THE REAL PRESSURE IS ALREADY SCHEDULED:** 7 Aug produce-or-swear; Krishnaiah report; counsel
+   appearance; union flank (dispute/status quo; possible WHS collective action). Each moves the
+   Regulator/MSH more than an OIC complaint could.
+⚠️ **CAVEAT — VERIFY THE PRIVACY COMPLAINT CLOCK:** IP Act complaint pathway is agency-first, then
+OIC, with time limits (commonly 12 months from the conduct). Conduct spans: records obtained
+without Form 29 (2024-25, admitted Form 24 ¶25 — OLDER, window may be closing/closed) vs the 13 Jul
+2026 QSuper disclosure (FRESH window). ACTION: verify the applicable window(s); if the older
+conduct's clock is closing, PRESERVE quietly (minimal internal agency complaint, administrative
+tone, no publicity, no linkage to the appeal) — preservation ≠ pressure campaign. Distinguish
+preserving rights from launching fronts.
