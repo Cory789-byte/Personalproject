@@ -1138,3 +1138,18 @@ cannot work. The arrangement is the opposite — partial income protection exist
 who ARE working reduced hours. The exclusion doesn't respect that arrangement; it destroys it."
 STATUS: IO talking point + union brief; Heath email already carries the serving-employee framing
 (Issue 1) — no reopening; correspondence unchanged.
+
+## 2026-07-16 — Further sharpened: his actual ask to QSuper was SELF-SERVE ARITHMETIC
+Cory's clarification of the fund request: he asked QSuper to calculate his benefit position from
+data THE FUND ALREADY HOLDS — his contribution flows (~15% from wage), which map to earnings — and
+said if they needed every payslip they should REQUEST it. Context: he was struggling mentally with
+the volume of admin and reasonably delegated the arithmetic to the fund.
+EFFECT: the request-vs-received gap is now MAXIMAL: he asked for (a) a calculation from the fund's
+own records, (b) at most a payslip request if needed. What MSH pushed (13 Jul): MEDICAL RECORDS.
+Nothing in his ask required, invited, or touched medical information. Zappia-letter questions
+already cover it (what was requested vs received; calculation basis/provision/period).
+HANDLING NOTE: the "struggling mentally at too many things" context is honest and humanising —
+UNION/inventory/severity material only. NEVER volunteered in correspondence with MSH or the fund
+(incapacity-file risk). In letters the admin-delegation point, if ever needed, is framed as:
+"I asked the fund to calculate from its own contribution records and to request any payslips it
+required" — reasonable, complete, no health commentary.
