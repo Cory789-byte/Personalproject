@@ -900,3 +900,16 @@ EXPECTED EFFECTS: urgency up; handling care up (s 65 confidentiality; criminal-a
 means the union treads deliberately, likely pulls industrial leadership/legal in); the "impunity or
 blindness" read — MSH doing this WHILE the admissions sit on a court record — hardens resolve.
 Prediction discipline: test against actual Friday outcome.
+
+## 2026-07-16 — Emily Petering (Together industrial officer — presumably the referral recipient)
+Cory asked for research. THREE web searches: no public professional footprint found — no QIRC
+reported-decision appearances surfaced, no accessible profile. NOTE: absence of reported QIRC
+appearances is NORMAL for union IOs (most industrial work is correspondence/conciliation, never
+reported; agents appear via Form 33 and only surface in published decisions). Together does run
+junior/trainee IO roles (qldunions.com posting), so seniority unknown — could be junior or simply
+low-profile. IMPLICATIONS: (1) the brief must carry itself regardless of reader seniority — it
+does (built for exactly that); (2) verify role/seniority the polite way: ask Heath "who will be
+looking after it and what's their background?" — normal member question; (3) if she acts as agent
+in anything QIRC-facing a Form 33 would be filed and her appearances would become checkable.
+Discipline: professional information only — no personal research on union staff (same rule as HR
+staff, and she's on OUR side).
