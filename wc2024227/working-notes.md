@@ -913,3 +913,36 @@ looking after it and what's their background?" — normal member question; (3) i
 in anything QIRC-facing a Form 33 would be filed and her appearances would become checkable.
 Discipline: professional information only — no personal research on union staff (same rule as HR
 staff, and she's on OUR side).
+
+## 2026-07-16 — THE CLOSED LOOP (Cory's observation) + what union engagement means for each track
+CORY'S POINT, verified against the record: every channel he ever used TERMINATED IN THE SAME UNIT.
+(a) 7 Aug 2023 grievance → dismissed same day by the local chain (admitted, Form 24 ¶5);
+(b) 13 May 2024 PID → ESU: no corrupt-conduct suspicion BUT "other administrative issues identified"
+→ REFERRED TO HR LOGAN & BEAUDESERT (ESU letter 24 Dec 2024) — i.e. remediation of the issues was
+handed to the unit whose conduct raised them; (c) NO DOCUMENTED OUTCOME of that referral has ever
+been provided to Cory, and MSH's own 5 June 2026 letter confirms NO consequential changes (Item
+3(c)) and FRMS only after 30 Jun 2024 (Items 4-5) — so whatever HR did with the referral, the
+environment did not change; (d) injury management = IM desk INSIDE HR (roles map); (e) the July
+2026 lockout decision = the same HR team. HR has been investigator, remediator, case manager and
+gatekeeper of the same set of facts. DISCIPLINE: "covered up" stays working-theory; the ON-PAPER
+version is the provable chain: referred → no documented outcome → admitted no change.
+NEW FRIDAY ASK (add): the union should demand particulars of WHAT ACTIONS followed the ESU's
+24 Dec 2024 referral of "administrative issues" to HR L&B — the answer is either "nothing"
+(devastating) or a document trail that then exists and can be pursued.
+WHAT UNION ENGAGEMENT MEANS —
+FOR THE APPEAL (WC/2024/227): no direct legal effect (separate proceedings; demarcation holds).
+Indirect, all favourable: (1) attrition neutralised — the lockout reads (on one view) as pressure
+on an unrepresented appellant; a union-defended appellant can't be starved into a cheap settlement;
+(2) settlement pressure UP — union activity raises MSH systemic exposure feeding the post-mention/
+post-production revaluation nodes; (3) evidence generation — possible risk assessment (unchanged-
+environment bridge), member witnesses, records; (4) severity/consequences record grows while the
+lockout persists (their own letter ties the lockout to the rejection under appeal); (5) exit-
+pathway suppression protects the appellant's status while the appeal runs. Models: no change to
+v3 numbers yet; union's first move may shift MSH-folds up.
+FOR THE HR ISSUES / FULL OUTLOOK: the structural meaning is EXTERNALISATION. For the first time,
+every fight exits the loop: union letters go over the unit (Workforce Relations/ED People); the
+certified-agreement dispute procedure exits to the QIRC (external umpire); the WHS route exits to
+WHSQ (external regulator); the appeal sits with the Commission; the reprisal tort (reserved) sits
+with the courts. The node that absorbed every complaint for two years is now surrounded by forums
+it cannot absorb. CONVERGENCE MAP: appeal=Cory (+counsel); lockout/pay/process=union; hazard=union
+collective/WHSQ; reprisal=reserved behind settlement (rule 8).
