@@ -746,3 +746,29 @@ the signal, not either letter alone. CAUTION: latency partly explainable by leav
 using the window; door line could be house politeness. Treat as a LEAN (posture = hold until the
 7 Aug mention + production, with a pre-authorised path back to the table), not proof. Consistent
 with v3 model (post-mention/post-production pathways dominant).
+
+## 2026-07-16 — Integrating THE UNION'S OWN VIEW of the switchboard psychosocial hazard (strategy)
+Heath's written line ("hazards in switchboard... a recurring theme raised by members") = independent
+institutional confirmation the hazard is COLLECTIVE, not personal. Integration map:
+1. **Industrial/WHS track (primary, union acts in ITS name):** Together can demand the psychosocial
+   risk assessment that never happened — as a COLLECTIVE issue (HSR involvement; WHS Act right-of-
+   entry powers; escalation to WHSQ, whose inspectors can compel assessment under the 2022
+   psychosocial Code/Reg). Depersonalises: "Cory's condition" becomes "the switchboard's conditions."
+2. **Anti-exit shield:** an ill-health/IME move against a member whose hazard complaints the union
+   has formalised collectively becomes far costlier — the "he is the hazard" individualisation
+   collapses against a union-endorsed collective frame. IF the union formally engages on the hazard,
+   exit-pathway watch drops ~45-50% → ~30-35%.
+3. **Appeal (careful, indirect only):** the union's VIEW is not admissible opinion, but (a) member
+   witnesses could corroborate Stressor 1(a) conditions voluntarily (ask Heath IF members would
+   assist — never fish in the union's confidential file); (b) evidence other members raised the same
+   hazards = management knowledge + notoriety, counters individualisation at hearing; (c) supports
+   severity/course-of-inaction narrative. Nothing union-sourced goes to the Regulator/QIRC without
+   deliberate decision; the 64G stays untouched.
+4. **Settlement pricing:** union WHS engagement raises MSH's systemic exposure (WHSQ attention,
+   collective grievance, publicity risk of a public hearing) → nudges MSH-folds + post-production
+   settlement pathways up; doesn't change the Regulator's legal analysis but raises the
+   embarrassment cost of defending MSH's file in public.
+DISCIPLINES: the union campaigns on the HAZARD, not on Cory's case (privacy + appeal restraint);
+Cory never states "the union agrees with me" in correspondence to MSH (it's Heath's card to play,
+in Together's name, with more force); the ask to Heath after Friday = "would the union consider
+raising the switchboard psychosocial risk assessment as a collective issue" — a question, his call.
