@@ -1224,3 +1224,20 @@ PREP PLAN (build the MEETING PACK by ~25 Jul, updated for anything that lands be
 5. ONE-LINE DEMARCATION: appeal is separate, counsel-run; this consult = roster/pay/leave/process.
 6. EVENTS BETWEEN NOW AND THEN feed the pack: Calderbank lapse (22nd, no action); possible RFI to
    Ma (if it lands: to Ma briefed + union same day); ART/Zappia reply; payslip; SmartJobs.
+
+## 2026-07-17 — What ACTUALLY landed on the union's desk (Cory's category analysis — adopted)
+Cory's point, adopted into the read: the review is slow because the file contains OBJECTS OUTSIDE
+AN ORGANISER'S PROFESSIONAL CATEGORY SET, not just volume: (1) a VERIFIED PID — statutory
+protected-discloser status, formally determined, protections recited on MSH letterhead (organisers
+handle grievances; almost never a determined PID with a partially-admitted reprisal chronology);
+(2) the ENTIRE SWITCHBOARD INFRASTRUCTURE documented — comm book, paging retention, FRMS absence,
+directory/information-flow restriction — a system-level anatomy converting their "recurring theme"
+anecdotes into a documented case study; (3) the PATIENT-SAFETY dimension (misrouted codes, delayed
+urgent pathology) — a card unions rarely hold; transforms industrial issue → public-interest issue;
+(4) the MANAGEMENT-CONDUCT pattern they'd sensed but never had paper for; (5) a Form 29 NNPD +
+64G produce-or-swear — instruments an organiser may literally never have seen. CONSEQUENCE: a
+TRANSLATION task — Heath must explain to the industrial team what he's even holding; explains the
+observed behaviour (careful, escalating, parallel review). IMPLICATION FOR THE 28th PACK: include a
+half-page "WHAT THIS FILE IS" orientation map (the five objects, one line each + which forum each
+belongs to) — do not assume IO familiarity with NNPD/64G mechanics; Cory may know the disclosure
+machinery better than anyone in the room, and the pack should make that easy, not awkward.
