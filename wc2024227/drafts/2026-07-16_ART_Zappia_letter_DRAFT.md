@@ -20,6 +20,11 @@ I refer to my income protection claim CLM-317073 and to recent correspondence. S
 are complete and accurate, I ask for the following in writing. These are administrative requests
 only.
 
+As the confirmations at points 1, 3, 4, 5 and 6 should be available from the fund's existing
+records, I would appreciate those as a matter of priority. The reassessment and calculation at
+point 2 can follow once the necessary information has been collated — I would ask for that within
+14 days if possible.
+
 **1. Claim status.** Please confirm: (a) that my income protection benefit payments ceased in
 March 2026 at my own request, following my advice that I had returned to work; (b) that no benefit
 is currently payable and no active claim for ongoing benefits exists; and (c) that the file remains
