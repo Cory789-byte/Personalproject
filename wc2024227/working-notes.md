@@ -1153,3 +1153,33 @@ UNION/inventory/severity material only. NEVER volunteered in correspondence with
 (incapacity-file risk). In letters the admin-delegation point, if ever needed, is framed as:
 "I asked the fund to calculate from its own contribution records and to request any payslips it
 required" — reasonable, complete, no health commentary.
+
+## 2026-07-17 — External-AI revision of the Zappia letter REVIEWED — REJECTED in key parts
+Cory pasted an externally-revised Zappia letter ("ready to send immediately"). Red-team verdict:
+ADOPT: the priority-split (Q1/3/4/5/6 immediate; Q2 calculation within 14 days) — good mechanics.
+REJECT (each logged):
+1. **Point 5 second paragraph = STRATEGIC BREACH.** Adds WHS Act duty-of-care + "Fair Work Act 2009
+   (Cth) adverse action" + "employer accountability" + "recent attempts by the employer to place me
+   out of work" to a FUND letter. (a) THE FUND CHANNEL IS NOT PRIVATE — Harrison corresponds with
+   Zappia and the 15 Jul letter was JOINTLY ADDRESSED; anything sent to ART must be assumed readable
+   by MSH within days. This paragraph would: preview the adverse-action theory (tips off the
+   reverse-onus play), volunteer "recovery phase" self-description + "against medical advice" +
+   "unfair dismissal" history IN WRITING (incapacity-file gifts), and convert the neutral
+   administrative letter into advocacy — killing the blandness that makes Q4 deadly. (b) **FWA 2009
+   (Cth) DOES NOT APPLY to Qld public sector employees** — QH employees are state-system (IR Act
+   2016 (Qld)). The citation is flatly wrong and would mark the letter as boilerplate.
+2. **Unverified policy citations REJECTED (rule: verified-only).** "Super Savings Insurance Guide"/
+   "Income Protection Benefit Guide 1 July 2026" + quoted definitions were never verified against
+   HIS product — and "Super Savings" is the ex-Sunsun/ART product line; QSuper members typically
+   remain on QSuper-branded insurance guides post-merger. Wrong-product citations = easy deflection
+   + credibility hit. The stronger move stands: ASK THE FUND to cite its provisions (Q2(b)).
+3. **The inserted partial-disability definition is an OWN GOAL:** "partial payments do not apply to
+   an employee who is fit to work and able to perform all duties" — he is NOW certified fit with
+   minor restrictions; arguing definitions invites the fund to shrink the partial entitlement and
+   GROW the overpayment. The recoupment position stays documentation-driven, not definition-argued.
+4. Q4 preamble "to confirm the employer's compliance..." — accusation vector removed; Q4's power is
+   its administrative blandness.
+5. Posted-letter format dropped — email to Zappia keeps the established channel and speed.
+FINAL letter (v2) written to drafts/2026-07-16_ART_Zappia_letter_DRAFT.md: original six questions +
+priority split + 14-day overall ask. CHANNEL RULE RESTATED: write every fund letter as if MSH reads
+it the same afternoon.
