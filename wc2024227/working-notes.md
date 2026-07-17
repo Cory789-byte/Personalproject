@@ -1183,3 +1183,23 @@ REJECT (each logged):
 FINAL letter (v2) written to drafts/2026-07-16_ART_Zappia_letter_DRAFT.md: original six questions +
 priority split + 14-day overall ask. CHANNEL RULE RESTATED: write every fund letter as if MSH reads
 it the same afternoon.
+
+## 2026-07-17 — Heath status update: brief DELIVERED in full; industrial team ACTIVELY engaged
+Saved: documents/2026-07-17_Heath_still-reviewing_industrial-team.pdf.
+1. **The six-issue policy brief WENT on Thu 16 Jul 16:42** — verified complete against the draft:
+   all six issues intact (incl. Issue 6 inversion + the Caroline/full-time paragraph + the held-
+   response line). Cory's own tweaks: "I will however include you in any further correspondence";
+   Issue 1 adds "as requested by my employer" (accurate — the ECC was their requirement); Caroline
+   paragraph lightly trimmed. All fine.
+2. **Heath, Fri 17 Jul 15:27:** "still reviewing this information and I'm speaking to our industrial
+   team about best steps forward. Once I have more I'll let you know." READ: active engagement —
+   the industrial-team conversation is LIVE and concerns the SHAPE of intervention ("best steps
+   forward"), not whether to intervene. A Friday-afternoon unprompted status update from an
+   organiser = the file is being worked, not parked.
+3. CADENCE: expect substantive word early-mid week of 20 Jul. NO CHASING before ~Wed 22; if quiet
+   by then, one polite line — or tie any contact to a NEW event (next payslip debit; the RFI
+   landing; a SmartJobs ad).
+4. HOLDS unchanged: nothing to HR; held letter stays held; Zappia letter GOES (fund admin ≠
+   employer action); payslip to obtain; SmartJobs daily; if the Ma RFI lands → brief Ma, copy to
+   union same day. Critical path unchanged: Krishnaiah report + 7 Aug mention. Calderbank lapses
+   Wed 22 Jul 4pm — no action, let it lapse.
