@@ -1261,3 +1261,21 @@ the MSH-FOLDS pathway (consent to production to avoid the affidavit) — WATCH f
 letter pre-7 Aug; protect the verification affidavit in any consent order (per §16 v2).
 POSTURE RULE unchanged: at the mention this is presented as ordinary machinery, neutrally — the
 Commission should see a tidy application, not a trap being savoured.
+
+## 2026-07-17 — Form 20 re-read against the "bigger picture" standard + open lead CLOSED
+1. **LEAD CLOSED:** the phone-directory restriction Cory raised on 15 Jul ("second information
+   manager... access restricted from Switchboard") is ALREADY IN EVIDENCE — Form 20 ¶22: the
+   Telecommunications Coordinator role (Stibbard), her 18 Jul 2023 email "removing everyone's
+   access to the database," updates funnelled through her part-week attendance, numbers falling
+   out of date, complaints landing at the Switchboard. Provenance question answered — documented,
+   sworn, with the records gap tied to Form 29 Items 3(a)-(c).
+2. **Assessment (for the register):** the Form 20 performs the panorama function by construction —
+   Part B builds the world (¶6 "the point at which urgent help is summoned"; ¶19-22 the complaints
+   funnel incl. complaints about the manager routing to the person who'd escalate to her — the
+   closed loop in miniature; ¶23-25 the "standing condition" baseline); Parts C-F drop dated,
+   admission-anchored facts into that world; the reader assembles the pattern unassisted. Every
+   evidentiary hole is tied to a Form 29 item (¶9, ¶22, ¶26, ¶29) — the picture and the necessity
+   case are the same text. ¶50 (SPOK upgrade-vs-disposal reconciliation on oath) is the sharpest
+   paragraph in the file. Empirical validation: Heath's one-pass escalation.
+3. Note: ¶45 ("currently working at 0.5 FTE") was accurate when affirmed 18 Jun 2026 — the July
+   lockout post-dates it; the ONE-PAGER carries the spine to the present for the IO meeting.
