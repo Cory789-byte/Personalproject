@@ -1241,3 +1241,23 @@ observed behaviour (careful, escalating, parallel review). IMPLICATION FOR THE 2
 half-page "WHAT THIS FILE IS" orientation map (the five objects, one line each + which forum each
 belongs to) — do not assume IO familiarity with NNPD/64G mechanics; Cory may know the disclosure
 machinery better than anyone in the room, and the pack should make that easy, not awkward.
+
+## 2026-07-17 — The 5 June letter → oath conversion (the produce-or-swear trap, restated sharp)
+Cory's framing adopted: the MSH objection letter we have dismantled analytically is now the
+document MSH must STAND BEHIND ON OATH at 7 Aug. Mechanism: the letter's assertions were FREE
+(lawyer-drafted, unsworn, no personal exposure): no FRMS applied (Item 4); implemented only after
+30 Jun 2024 (Item 5); no consequential change (3(c)); paging records not retained (Items 1-2);
+texts off-system (Item 14). The 64G verification-affidavit structure forks them: PRODUCE (the
+records arrive — his case builds) or SWEAR (a named deponent verifies searches + non-existence on
+personal oath, exposed to cross-examination). Each branch serves the appellant:
+- Sworn "no FRMS existed / not retained / nothing changed" = the course-of-inaction case PROVED BY
+  THEIR OATH — and sworn non-retention of paging records for a life-safety desk raises its own
+  records-governance problem (Public Records Act obligations) the deponent personally owns.
+- Production = the documents themselves.
+DEPONENT PROBLEM (theirs): someone at MSH must put their name and oath on statements a lawyer
+wrote — the letter's author (Ruttan) can't swear to operational facts; an operational witness may
+not adopt the letter's confident wording once personal exposure attaches. This gap is the engine of
+the MSH-FOLDS pathway (consent to production to avoid the affidavit) — WATCH for a consent-order
+letter pre-7 Aug; protect the verification affidavit in any consent order (per §16 v2).
+POSTURE RULE unchanged: at the mention this is presented as ordinary machinery, neutrally — the
+Commission should see a tidy application, not a trap being savoured.
