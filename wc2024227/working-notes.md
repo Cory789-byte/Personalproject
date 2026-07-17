@@ -1203,3 +1203,24 @@ Saved: documents/2026-07-17_Heath_still-reviewing_industrial-team.pdf.
    employer action); payslip to obtain; SmartJobs daily; if the Ma RFI lands → brief Ma, copy to
    union same day. Critical path unchanged: Krishnaiah report + 7 Aug mention. Calderbank lapses
    Wed 22 Jul 4pm — no action, let it lapse.
+
+## 2026-07-17 — INDUSTRIAL OFFICER CONSULT BOOKED: 12pm, 28 JULY 2026
+Timing map: Calderbank lapses 22 Jul → IO consult 28 Jul → 64G mention 7 Aug (10 days later). If
+the union moves in the week after the consult (letter/dispute notification), MSH faces union
+pressure and the mention in the same fortnight — maximal compounding, aligned with the v3
+settlement model's post-mention pathway.
+PREP PLAN (build the MEETING PACK by ~25 Jul, updated for anything that lands between):
+1. ONE-PAGE CHRONOLOGY (3 Jul 14:32→15:30 lockout; the four unanswered/refused asks; 15 Jul
+   discretion letter; leave debits running).
+2. DOCUMENT SET (in order): 15 Jul Harrison letter; ECC; 3 Jul emails; Forrest 7 Jul letter;
+   CURRENT PAYSLIP (⚠️ obtain before the 28th — Exhibit A); the six-issue brief (already with
+   Heath); Zappia letter + any ART reply by then.
+3. THE THREE ASKS: (a) dispute notification + STATUS QUO (restore roster / stop debits);
+   (b) fallback: exclusion on PAID SPECIAL LEAVE (Directive 12/24), leave re-credited;
+   (c) particulars: which Health Management process/instrument/decision-maker + what followed the
+   ESU 24 Dec 2024 referral to HR L&B.
+4. THE QUESTIONS: operative agreement + clause number; dispute timeline/local step; notification
+   recipient; what they need from him; their QH health-management experience.
+5. ONE-LINE DEMARCATION: appeal is separate, counsel-run; this consult = roster/pay/leave/process.
+6. EVENTS BETWEEN NOW AND THEN feed the pack: Calderbank lapse (22nd, no action); possible RFI to
+   Ma (if it lands: to Ma briefed + union same day); ART/Zappia reply; payslip; SmartJobs.
