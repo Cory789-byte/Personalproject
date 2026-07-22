@@ -1337,3 +1337,23 @@ PROVABLE: ¶¶19-22 sworn; the 15 May 2024 email; the escalated-complaint record
 Manager's mailbox (Form 29 Items 3(a),(b)) — disclosure. Feeds the Krishnaiah brief: the injury is
 CUMULATIVE (global evaluation / Delaney) — not one event but a standing condition of unrelieved,
 unresolvable responsibility. Keep WC-clean; corrupt-conduct content stays parallel-track.
+
+## 2026-07-17 — Causation dimension 3: DURATION — "unresolved for prolonged time" (the injury variable)
+The temporal amplifier that unifies dimensions 1-2. Transient stress resolves; PROLONGED UNRESOLVED
+exposure is what converts stress into injury (sustained allostatic load with no return to baseline).
+The duration IS the pleaded "course" (~June 2023 - June 2024). LEGAL FORCE:
+1. Defeats the Regulator's ATOMISATION defence — the 9C tries to isolate events as one-off "human
+   error... NOT intentional or repeated" (¶22a). Duration/persistence is the answer: these were not
+   isolated errors but a sustained unremedied condition. Global evaluation (Delaney) looks at the
+   whole course, not discrete incidents.
+2. The Regulator's OWN material proves the prolongation: the 9C grievance narrative runs Aug→Nov
+   2023 (¶13, "14 Nov re shift/break compliance"); delegate suppression ran >9 months (Form 24
+   ¶19 disputed, Item 19); pay issues Feb-May 2024; MSH 5 June confirms no change until AFTER 30
+   Jun 2024. The failure to resolve OVER TIME is on their record.
+3. THIS IS THE 64G NECESSITY RATIONALE (affidavit ¶47): individual examples show conduct OCCURRED;
+   only the complete export shows the CUMULATIVE VOLUME AND FREQUENCY across the whole period — i.e.
+   the prolongation. The disclosure is sought precisely to prove duration/extent, which is the
+   injury-producing variable. Duration ties the medical case and the disclosure case together.
+Krishnaiah brief: frame the injury as the product of PROLONGED UNRESOLVED exposure (chronicity),
+not any single stressor — this is what makes it clinically an MDD and legally a course-of-conduct
+injury that survives Willson. Keep WC-clean.
