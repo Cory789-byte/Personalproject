@@ -1279,3 +1279,17 @@ Commission should see a tidy application, not a trap being savoured.
    paragraph in the file. Empirical validation: Heath's one-pass escalation.
 3. Note: ¶45 ("currently working at 0.5 FTE") was accurate when affirmed 18 Jun 2026 — the July
    lockout post-dates it; the ONE-PAGER carries the spine to the present for the IO meeting.
+
+## 2026-07-17 — 9C (Regulator SOFC) contradiction matrix built
+Cory's insight — the 9C contradicts itself and the record — validated and structured into
+skill/references/9C-contradiction-matrix.md. TIER 1 (provable now): (A) "not causative"/"reasonable"
+vs the Regulator's OWN admitted Review Decision (7-hr = UMA; employment = significant contributing
+factor; Form 24 ¶37) while asking to CONFIRM that decision; (B) 7<8 breach CONCEDED on their pleading
+(¶22a + ¶22e); (C) "human error" ≠ reasonable management action (¶22a, ¶14); (D) COVID decline reason
+conceded wrong — attachments "WERE present" (¶14); (E) "timely manner" vs admitted 25-day AVAC delay
+(¶20 vs Form 24 ¶40-41); (F) cherry-picked medical records (¶8 relies on records for anxiety history /
+¶9 won't admit diagnosis; admitted clean 16 Nov 2023 record). TIER 2: (G) "reasonable" fatigue action
+vs MSH 5 June admission NO FRMS until after 30 Jun 2024. TIER 3 (disclosure tests): (H) "Reese unaware
+of PID" vs 15-16 May correspondence; (I) "equitable roster" vs Items 8-9; (J) grievance Aug-Nov
+timeline corroborates the unresolved issue. Discipline: T3 = working; not for the 64G; feeds hearing
+submissions + settlement + reception model. Note the defence is at v4.4 (repeatedly redrafted).
