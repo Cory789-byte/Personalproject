@@ -1321,3 +1321,19 @@ KRISHNAIAH BRIEF + evidence-in-chief (NOT the 64G). Structure:
    brief must connect: safety concerns raised → institutional non-response → powerlessness in a
    life-safety role → MDD onset 18 Jun 2024. Keep corrupt-conduct/PID-qua-fraud OFF; use the WHS/
    patient-safety non-investigation framing.
+
+## 2026-07-17 — Causation dimension 2: the complaints load "I could never put down" (no-recovery mechanism)
+Distinct from the ignored-safety-concerns stressor: the CHRONIC, CYCLICAL, UNDISCHARGEABLE load —
+affidavit ¶¶19-22. Complaints from public/clinicians/staff arrive at the Switchboard FIRST, to Cory;
+he actions/resolves a substantial proportion himself; those he escalates to the Line Manager return
+UNACTIONED (she was frequently unavailable) and accumulate BACK at the Switchboard — including
+complaints ABOUT the manager herself, i.e. he managed complaints concerning the very person he'd
+escalate to. The 15 May 2024 email (his words): matters "often left unresolved due to ambiguity
+around when [Ms Taylor] is available." MECHANISM (psychiatrist's to develop): the absence of any
+OFFLOAD POINT or CLOSURE — a terminal accountability sink with no boundary and no recovery state —
+is the chronic-load / no-detachment pathway (allostatic load; entrapment), compounding the acute
+stressors (fatigue, ignored safety concerns) into the cumulative COURSE that produced the injury.
+PROVABLE: ¶¶19-22 sworn; the 15 May 2024 email; the escalated-complaint records held in the Line
+Manager's mailbox (Form 29 Items 3(a),(b)) — disclosure. Feeds the Krishnaiah brief: the injury is
+CUMULATIVE (global evaluation / Delaney) — not one event but a standing condition of unrelieved,
+unresolvable responsibility. Keep WC-clean; corrupt-conduct content stays parallel-track.
