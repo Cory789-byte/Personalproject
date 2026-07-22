@@ -1293,3 +1293,31 @@ vs MSH 5 June admission NO FRMS until after 30 Jun 2024. TIER 3 (disclosure test
 of PID" vs 15-16 May correspondence; (I) "equitable roster" vs Items 8-9; (J) grievance Aug-Nov
 timeline corroborates the unresolved issue. Discipline: T3 = working; not for the 64G; feeds hearing
 submissions + settlement + reception model. Note the defence is at v4.4 (repeatedly redrafted).
+
+## 2026-07-17 — Causation/severity: the injury mechanism of raising safety concerns and being ignored
+Cory's point — how acute is the effect of raising a patient-safety concern and having it not taken
+seriously/not investigated, in a life-safety environment. This is a CAUSATION spine point for the
+KRISHNAIAH BRIEF + evidence-in-chief (NOT the 64G). Structure:
+1. ROUTE IT CLEANLY — separate the two things: (a) the corrupt-conduct PID (13 May 2024, determined)
+   = REPRISAL/parallel track, keep the "fraud" content off the WC record; (b) the repeated
+   PATIENT-SAFETY/WHS concerns (comm-book on-call-contact entry; 7 Aug 2023 grievance re unsafe
+   rostering/fatigue; misrouting/roster/directory failures; fatigue) raised through proper channels
+   and NOT investigated or actioned = the clean WC COURSE-OF-INACTION spine. The severity/causation
+   power lives in (b); it does not need the corrupt-conduct allegation.
+2. MECHANISM (for the psychiatrist to develop, not for me to assert as medico-legal fact): the
+   specific stressor of holding RESPONSIBILITY for a life-safety function WITHOUT AUTHORITY or
+   support (affidavit ¶¶23-25 "standing condition"), raising the danger repeatedly, and being met
+   with dismissal/non-investigation/no change — a recognised psychological injury pathway
+   (powerlessness/entrapment; the moral weight of a foreseeable-harm concern ignored where patients
+   are at risk). Hawes already recorded the mechanism ("ongoing breaking of workplace rules by
+   bosses, victimizing him" — Form 24 ¶36 admits the certificate states it).
+3. PROVABLE FROM THEIR OWN ADMISSIONS: PID determined (admitted, Form 24 ¶20); grievance
+   acknowledged a rostering error (Form 24 ¶5); NO FRMS until after 30 Jun 2024 + no consequential
+   changes (MSH 5 June, Items 4-5, 3(c)); comm-book page removed (admitted ¶6). So "raised it →
+   nothing investigated/changed" is largely PROVEN, not merely asserted — the non-action is on the
+   record. The acuteness follows from the environment being LIFE-SAFETY (their own admission ¶8).
+4. DISCIPLINE: this is the psychiatrist's causal opinion to make; I articulate the mechanism, the
+   report proves the link (Willson probes causation hardest — see comparable-cases §7). Krishnaiah
+   brief must connect: safety concerns raised → institutional non-response → powerlessness in a
+   life-safety role → MDD onset 18 Jun 2024. Keep corrupt-conduct/PID-qua-fraud OFF; use the WHS/
+   patient-safety non-investigation framing.
