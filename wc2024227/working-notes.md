@@ -1357,3 +1357,16 @@ The duration IS the pleaded "course" (~June 2023 - June 2024). LEGAL FORCE:
 Krishnaiah brief: frame the injury as the product of PROLONGED UNRESOLVED exposure (chronicity),
 not any single stressor — this is what makes it clinically an MDD and legally a course-of-conduct
 injury that survives Willson. Keep WC-clean.
+
+## 2026-07-17 — Medical causation framework built (Krishnaiah brief + pre-existing-anxiety rebuttal)
+Built skill/references/medical-causation-framework.md. Answers Cory's "most defensible diagnosis +
+mechanism vs the displaced/undiagnosed anxiety" question. BOUNDARY stated: diagnosis = Krishnaiah's
+independent judgment; I supply questions/foundation/legal tests, not a scripted conclusion.
+FOUR independent answers to the 9C ¶8 "past history of anxiety" displacement: (a) admitted clean
+16 Nov 2023 baseline + symptom-mention ≠ diagnosed disorder; (b) NEW discrete MDD onset 18 Jun 2024;
+(c) AGGRAVATION compensable even if pre-existing (significant contributing factor to the aggravation);
+(d) eggshell-skull. Mechanism = the 3-dimensional course (acute powerlessness / chronic no-recovery /
+temporal prolongation) anchored in admitted facts. Whole-arc requirement: own the 2025 against-advice
+return + crash as SEQUELAE/severity, not intervening cause. Letter-of-instruction question set drafted.
+⚠️ VERIFY operative s 32 threshold + aggravation subsection as at the mid-2024 claim before filing.
+Critical path: this is the report that converts the admitted CONDUCT record into proven CAUSATION.
