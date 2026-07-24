@@ -1370,3 +1370,55 @@ temporal prolongation) anchored in admitted facts. Whole-arc requirement: own th
 return + crash as SEQUELAE/severity, not intervening cause. Letter-of-instruction question set drafted.
 ⚠️ VERIFY operative s 32 threshold + aggravation subsection as at the mid-2024 claim before filing.
 Critical path: this is the report that converts the admitted CONDUCT record into proven CAUSATION.
+
+## 2026-07-17 — QSuper medical-disclosure complaint DRAFT — ADVISE DO NOT SEND AS DRAFTED + big findings
+Files saved: 2026-05-28_QSuper_Resolutions_complaint_response_Beck.pdf; medical/2025-02-13_
+MindAndMemory_report_QSuper_LouiseIngs.pdf; medical/2025-07-22_OurMedicalAshmore_GP_records_via_
+Saines.PDF; 2025-07-22_Regulator_SOFC_served_via_Saines.pdf; evidence/ two payslip xlsx.
+
+### FINDING 1 — the cornerstone psych report IS a QSuper document "not for medico-legal use"
+The "Mind and Memory Service" report, 13 Feb 2025, addressed to Louise Ings (QSuper Claims Manager),
+MDD 296.23 — is the SAME 13 Feb 2025 report the Calderbank called "Exhibit A4 Krishnaiah report."
+Marked TWICE on its face: "disclosed for Qsuper and not for medico-legal use." IMPLICATION: the
+appeal's cornerstone medical evidence is a QSUPER IP-claim report NOT prepared as a WC medico-legal
+report. This is a WEAK medico-legal foundation and REINFORCES the critical-path action: commission a
+PROPER, properly-instructed UPDATED medico-legal report (per medical-causation-framework.md). Do NOT
+spotlight the QSuper report's status publicly.
+
+### FINDING 2 — QSuper's 28 May letter (Beck) already DENIES disclosure + gives live admin facts
+"ART Life... no indication that medical reports... disclosed... to any external parties... no medical
+information has been released from your claim file." Invited specifics. ALSO: IP payments placed ON
+HOLD from 1 June 2026 pending recalc; Zappia appointed; overpayment recalc underway; AFCA named as
+escalation. So QSuper has ALREADY said "we released nothing" — a formal accusation contradicting that,
+without proof of the path, is high-risk.
+
+### FINDING 3 — the likely path is the REGULATOR'S NNPD, not a QSuper release
+The report appeared in Matheson's (Regulator) 22 Jul 2025 email to Saines, attached to NNPD docs.
+Most probable path: the Regulator's Notice of Non-Party Disclosure — the one NEVER SERVED ON CORY
+(admitted Form 24 ¶25; affidavit ¶44) — obtained his medical records from the GP (Our Medical
+Ashmore) or the provider, sweeping up a copy of the QSuper-addressed report the psychiatrist had
+sent the GP. If so, QSuper disclosed NOTHING; the GP produced under legal compulsion. The REAL
+privacy grievance is against the REGULATOR (unserved NNPD), which is ALREADY pleaded/admitted and
+BANKED (Calderbank 6.2(d) medical-info-handling complaint; reserved, WC/reprisal track).
+
+### ADVICE — do NOT send the accusatory complaint. Reasons:
+1. Wrong target / likely-wrong premise (QSuper said no release; path points to Regulator NNPD).
+2. Antagonises QSuper mid-recalculation — need their cooperation (closure confirmation, payment
+   history, fair overpayment recalc). Sours it; may trigger AFCA-on-wrong-premise / lawyer-up.
+3. Merges channels (privacy + overpayment + employment "losing my employment") + fires a reserved,
+   off-sequence privacy item (rule 8).
+4. Spotlights own-case vulnerability (cornerstone report = QSuper doc not for medico-legal use).
+INSTEAD: answer Beck's invitation NARROWLY + NEUTRALLY (a QUESTION, not an accusation) — did ART/
+QSuper RELEASE the report to any third party, OR PRODUCE it under any NNPD/legal compulsion? (that
+distinction is the nuance behind their "released nothing"). Keep the real grievance banked vs the
+Regulator. Overpayment stays in the Zappia admin channel. Employment stays with the union. Commission
+the proper updated report.
+
+### FINDING 4 — PAYSLIP DATA = Exhibit A gold (union + overpayment)
+FY2025-26 (26 fns): avg 5.8 work days/fn (~58% FTE), 34.33 unpaid days, 16.32 sick; recent slips
+show declining work + rising unpaid (e.g. 20/05/2026: 3 work / 4 unpaid). Corroborates "managing
+almost 60% of my hours."  2025 RTW 7 fns (26 Mar-18 Jun 2025, the against-advice return): avg 29.3%
+of full-time — documents the reduced-capacity self-managed return. 26 Mar 2025 lump = unfair-
+dismissal payment $29,390.05 (NOT back pay) — keep classified separately for the overpayment recalc.
+USE: build the leave-debit/FTE exhibit for the 28 Jul IO meeting + give Zappia the FTE basis for the
+recalc. NOTE: still need the LATEST payslip showing the 3 July+ sick-leave debits specifically.
