@@ -1486,3 +1486,19 @@ can; the 22 Jul 2025 package + covering index likely names the NNPD recipients) 
     HEALTH RECORDS (not the Form 29), he has a statutory right of access (privacy law; provider may
     charge a fee / take ~30 days; refusal → OAIC/OIC complaint) — but records-access is a side issue,
     not the Form 29 recipient question.
+
+## 2026-07-17 — CORRECTION (Cory, fact): Saines was NEVER served the Regulator's Form 29
+Kills the Saines-file route for the recipient list (Email 1 withdrawn for that purpose). Reinforces
+the pleaded ¶44/¶25 point AND ENRICHES it: the Regulator obtained his medical records — INCLUDING the
+QSuper-addressed psychiatric report the GP never held — via a Form 29 served on NEITHER Cory NOR his
+solicitors. That is a significant over-collection, entirely the REGULATOR's conduct → strong material
+for the RESERVED privacy/reprisal track (banked; not fired now).
+REVISED SOURCE ORDER for "who produced the report":
+(1) **QSuper item 2(b)** — was an NNPD served on ART? ART is the report's ADDRESSEE = the single most
+    likely source. If ART says "served + produced," path = Regulator→NNPD→QSuper→report. DONE, no
+    Regulator letter needed.
+(2) **Regulator (Email 2, neutral)** — the authoritative source; now the real fallback since Saines
+    and the clinic are both out. Guardrails unchanged: neutral routine-disclosure framing (no report/
+    QSuper/privacy mention), ideally AFTER 22 Jul lapse. Not urgent — the recipient list feeds the
+    RESERVED track, not the critical path.
+No urgency to break silence: nothing on the 64G/report critical path needs the recipient list now.
