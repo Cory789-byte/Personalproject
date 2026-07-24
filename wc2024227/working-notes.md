@@ -1472,3 +1472,17 @@ LOW-SIGNAL SOURCES FIRST (get these before any Regulator approach):
 ONLY IF (a)+(b) inconclusive: a Regulator request later, framed as ROUTINE DISCLOSURE within the
 proceeding (not a standalone grievance letter), and timed AFTER the lapse/mention — never as
 reprisal-building. Preserve silence + critical-path focus now.
+
+## 2026-07-17 — Medical centre refused Cory's request (for the report/Form 29/disclosure info)
+Cory: "my medical centre wont give me it i asked already." So the low-signal medical-provider route is
+blocked. NOTE: the medical centre was never the right source for the Form 29 anyway — the REGULATOR
+issued it; the medical centre isn't obliged to hand a patient litigation/third-party-disclosure
+documents. Do NOT burn energy fighting them (distraction from critical path). REVISED source order:
+(1) **Saines file** (his own former-solicitor file — they can't refuse his own file the way the clinic
+can; the 22 Jul 2025 package + covering index likely names the NNPD recipients) — SEND Email 1.
+(2) **QSuper item 2(b)** (was an NNPD served on ART).
+(3) **Regulator disclosure list** (Email 2) — now more likely needed given the clinic refusal;
+    send as neutral routine disclosure request, ideally AFTER the 22 Jul lapse. If "it" = his own
+    HEALTH RECORDS (not the Form 29), he has a statutory right of access (privacy law; provider may
+    charge a fee / take ~30 days; refusal → OAIC/OIC complaint) — but records-access is a side issue,
+    not the Form 29 recipient question.
