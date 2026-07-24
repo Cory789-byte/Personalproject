@@ -1422,3 +1422,25 @@ of full-time — documents the reduced-capacity self-managed return. 26 Mar 2025
 dismissal payment $29,390.05 (NOT back pay) — keep classified separately for the overpayment recalc.
 USE: build the leave-debit/FTE exhibit for the 28 Jul IO meeting + give Zappia the FTE basis for the
 recalc. NOTE: still need the LATEST payslip showing the 3 July+ sick-leave debits specifically.
+
+## 2026-07-17 — UPDATE: Cory confirms his GP was NEVER in receipt of the Mind and Memory report
+This EXCLUDES the benign "GP-held copy swept up by the Regulator's NNPD to Our Medical Ashmore" path
+I posited. Remaining candidate sources for the copy in the Regulator's 22 Jul 2025 disclosure to
+Saines (report was addressed to Louise Ings, QSuper):
+  (i) QSuper/ART (the ADDRESSEE) — produced under NNPD served on ART, OR released; OR
+  (ii) Mind and Memory Service (the AUTHOR) — produced under NNPD served on the psychiatrist; OR
+  (iii) already in Cory's/Saines' possession and re-circulated.
+KEY: compelled production under an NNPD is LAWFUL, not a breach — likely what QSuper's "we released
+nothing" carefully means (voluntary release ≠ compelled production). So this still does NOT establish
+a QSuper voluntary breach; it makes the PATH the thing to establish.
+THE DECISIVE DOCUMENT: the REGULATOR'S Form 29 / NNPD(s) — the recipient list answers "who produced
+this report." Cory's own affidavit ¶44 + Form 24 ¶25: the Regulator obtained his medical records
+under a Form 29 NEVER SERVED ON HIM. ACTION: obtain the Regulator's Form 29(s) recipient list (Saines
+file / Regulator disclosure index) — that names who was served (GP? psychiatrist? QSuper?).
+NET EFFECT: (a) strengthens the grievance against the REGULATOR (unserved Form 29 swept up a QSuper-
+purpose report the GP never even held — breadth of over-collection) — the banked WC/reprisal-track
+point; (b) justifies a POINTED-BUT-NEUTRAL inquiry to QSuper AND obtaining the Form 29 list; (c) does
+NOT yet justify the accusatory complaint. Advice unchanged: establish path first (neutral), keep the
+real grievance banked vs the Regulator, don't spotlight the report's "not for medico-legal use" status.
+Add to the QSuper neutral inquiry: "Was any Notice of Non-Party Disclosure served on ART/QSuper in
+WC/2024/227, and if so what did ART produce and when?"
