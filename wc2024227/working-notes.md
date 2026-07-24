@@ -1444,3 +1444,31 @@ NOT yet justify the accusatory complaint. Advice unchanged: establish path first
 real grievance banked vs the Regulator, don't spotlight the report's "not for medico-legal use" status.
 Add to the QSuper neutral inquiry: "Was any Notice of Non-Party Disclosure served on ART/QSuper in
 WC/2024/227, and if so what did ART produce and when?"
+
+## 2026-07-17 — "Ask the Regulator to supply their Form 29?" — NOT NOW; use low-signal sources first
+Cory asked whether to write to the Regulator for its Form 29/NNPD (the one that obtained his medical
+records, never served on him). RECOMMENDATION: do NOT send a standalone request to the Regulator now.
+REASONS:
+1. **Breaks the deliberate silence during the Calderbank lapse window.** Posture is: let the offer
+   lapse 22 Jul in silence, no communication with Matheson. A letter now — even on a different topic
+   — gives Matheson a reason to engage and muddies the clean lapse.
+2. **Tips the privacy/reprisal hand (rule 8).** A pointed "supply your Form 29" request signals he is
+   investigating the medical-records disclosure = building the medical-info-handling / reprisal angle.
+   That is the RESERVED track, sequenced BEHIND settlement. Signalling it now could firm the
+   Regulator's "post-injury / not relevant" defence (SOFC ¶25) and make them defensive pre-production.
+3. **Off critical path + settlement-architecture risk.** Critical path = 64G mention (7 Aug) +
+   Krishnaiah report. The medical-info-handling complaint is the very thing he OFFERED TO RELEASE at
+   Calderbank 6.2(d); actively pursuing it now complicates the post-production renewal.
+4. **Already admitted; no need to prove it happened.** Form 24 ¶25 admits the Regulator obtained his
+   records under a Form 29 not served on him (affidavit ¶44). He needs only the RECIPIENT LIST to
+   trace THIS report — a narrow need better served by low-signal routes.
+LOW-SIGNAL SOURCES FIRST (get these before any Regulator approach):
+(a) **His own SAINES FILE** — Paul Conrad forwarded the Regulator disclosure package 22 Jul 2025
+    ("Your WorkCover Matter"). The covering material / disclosure index likely names the NNPD(s) and
+    recipients. It is HIS file, free, no signal. Request the full file from Saines.
+(b) **The QSuper letter item 2(b)** — asks ART directly whether an NNPD was served on QSuper and what
+    was produced. If yes → path established (Regulator→NNPD→QSuper→report) without asking the
+    Regulator at all.
+ONLY IF (a)+(b) inconclusive: a Regulator request later, framed as ROUTINE DISCLOSURE within the
+proceeding (not a standalone grievance letter), and timed AFTER the lapse/mention — never as
+reprisal-building. Preserve silence + critical-path focus now.
