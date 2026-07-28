@@ -1646,3 +1646,49 @@ RECOMMENDED SEQUENCE (do NOT lodge today):
 - **Do NOT** run all four routes at once (fragments effort, hardens MSH, and the WC settlement is
   sequenced first — rule 8). The QHRC discrimination route stays reserved unless the union route
   stalls or an exit/IME step occurs.
+
+## 2026-07-28 — Oct 2024 abandonment-reply draft filed — THE MEDICAL-EVIDENCE ASYMMETRY (two-year proof)
+Saved: documents/2024-10-09_Cory_reply_DRAFT_to_abandonment_letter_Firoz_Johns.pdf.
+PROVENANCE: Outlook shows "[Draft] Re: Correspondence from the Executive Director..." — reply to LBH_HR
+(Faiza Firoz, HR Consultant) email of **Wed 9 Oct 2024 4:10pm** forwarding the abandonment
+correspondence from **Steven Johns, Acting Executive Director, Logan & Beaudesert HS**. Header shows
+"Draft saved Tue 28/07/2026 7:45 PM". ⚠️ **STATUS TO CONFIRM WITH CORY: was this ever SENT in Oct 2024,
+or does it remain an unsent draft?** Materially different: SENT = the employer was on written notice of
+every point in Oct 2024; UNSENT = a contemporaneous record of his state of mind only. Do not assert
+notice until confirmed.
+### THE INTEGRATION — "medical evidence counts only when it suits them"
+The document proves the ASYMMETRY across two years, same employer, same HR unit:
+- **OCT 2024** — medical evidence said INJURED/UNFIT. He held continuous certificates and a **work
+  capacity certificate**; WorkCover had given QH an outcome letter acknowledging a personal injury.
+  MSH's response: **ignored them and purported to terminate for "ABANDONMENT OF EMPLOYMENT."** His
+  words: "I am a protected employee who has provided a work capacity certificate"; QH "acknowledg[ed]
+  a 'personal injury' while making no accommodations for me and **disregarding any injury or work
+  capacity certificates supplied to Human Resources**"; Taylor had been advised HR would receive
+  updates through WorkCover "including a work capacity certificate."
+- **JUL 2026** — medical evidence says FIT WITH RESTRICTIONS (the ECC, on their own form, by the
+  treating GP). MSH's response: **refuse to act on it and demand further medical information**, with no
+  timeframe, excluding him "in any capacity."
+→ **Same outcome both times: he is out of the workplace.** When the certificate would keep him
+EMPLOYED, it is disregarded; when it would return him to WORK, it is insufficient. Medical evidence
+functions in this unit only as a reason to EXCLUDE, never a reason to INCLUDE. That is the
+"reasonable management action" defence collapsing into a pattern.
+### OTHER VALUE IN THE DOCUMENT
+1. **He raised the SAME frameworks in Oct 2024** — "Fair Work Act, Industrial Relations Act, Human
+   Rights, and the **EB11 HHS agreement**" — i.e. the 28 Jul 2026 letter is not novel escalation; it is
+   the same complaint he has been making for two years. (Note: FWA reference was wrong then as now —
+   state system; harmless historically, do not repeat.)
+2. **Fatigue pay demand** already made to Taylor/Reece/Stibbard/Amy Mo: "allowing an employee less than
+   10 hours between shifts. Chloe allowed me only 7 hours, not including travel time."
+3. **Delay pattern documented**: "correspondence twice exceeding a month over the 5 days allowed."
+4. **Bereavement leave weaponised**: the abandonment letter counted leave taken when his grandfather
+   died — severity/dignity material.
+5. **Steven Johns (A/Executive Director) named as the decision-maker** for the 2024 abandonment
+   decision; Firoz the HR conduit — the escalation-gradient pattern (senior signs, junior conveys)
+   already present in 2024, identical to the Forrest/Harrison set-piece in 2026.
+### DISCIPLINE
+⚠️ The draft contains "crime and corruption complaint" and "wage theft" language — the collateral
+grenade. USE THE DOCUMENT AS A RECORD; never re-send it, never quote those passages into the WC track
+or any current correspondence. The usable content is the CERTIFICATES-DISREGARDED evidence.
+PLACEMENT: the asymmetry goes to the UNION BRIEF (pattern), the KRISHNAIAH BRIEF (institutional
+response as stressor), severity/evidence-in-chief, and — carefully — the s 32(5)(a) reasonableness
+argument at hearing. NOT the 64G.
