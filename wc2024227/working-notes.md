@@ -1611,3 +1611,38 @@ BONUS CLAUSES NOT CITED (available for the follow-up):
    preferable if re-sent.
 NET: the letter's legal scaffolding is SOUND — every pinpoint lands. The single soft point is the
 special-leave "must", which is a wording fix, not a structural flaw.
+
+## 2026-07-28 — "Can I make an official complaint?" — YES; four routes; the QHRC GATEWAY RULE; timing
+**KEY PROCEDURAL FINDING (verified, QHRC):** the QHRC **cannot deal with a Human Rights Act complaint
+until (i) an INTERNAL complaint has been made to the public entity itself, in accordance with that
+entity's complaints procedure, AND (ii) 45 BUSINESS DAYS have elapsed** since the internal complaint
+(waivable only in exceptional circumstances, and only where an internal complaint was still made).
+→ So the internal MSH complaint is the **GATEWAY** to the external human-rights route, and lodging it
+starts a ~9-week clock. That is an argument for lodging it reasonably soon — but not before the
+28 July letter's own deadline runs.
+FOUR ROUTES (ranked by teeth):
+1. **QIRC dispute via the certified agreement (UNION)** — the only route with orders/enforcement +
+   the status quo lever. THE PRIMARY ROUTE. IO-led.
+2. **AD Act / QHRC discrimination complaint** (impairment; failure to adjust; positive duty from
+   1 Jul 2025) — independently actionable; work-related complaints can go to QIRC.
+3. **Internal MSH complaint** (QH-POL-140 Individual employee grievances, HR Policy E12) — modest
+   teeth on its own (⚠️ THE CLOSED LOOP: it returns to the same HR unit — cf. the ESU's Dec 2024
+   referral of "administrative issues" to HR L&B, outcome never advised), BUT it is the mandatory
+   GATEWAY for route 4 and it creates a dated record.
+4. **QHRC human-rights complaint (HRA s 58)** — conciliation only, **no damages (s 59(3))**; strong
+   institutional/compliance pressure on a public health service.
+RECOMMENDED SEQUENCE (do NOT lodge today):
+- **Now → 4 Aug:** let the 28 July letter's 5-business-day deadline run. Lodging a complaint now lets
+  MSH answer the COMPLAINT instead of the LETTER, splits the process, and forfeits the cleanest
+  artifact (an unanswered instrument-by-instrument demand).
+- **~5 Aug (if unresolved/no response):** put it to the IO first — "do we notify a dispute, and do you
+  want me to lodge an internal complaint to preserve the QHRC route?" Union route leads; the internal
+  complaint is filed alongside it purely to open the gateway and start the 45-business-day clock.
+- **Content of the internal complaint (when lodged):** narrow, factual, instrument-based — the same
+  spine as the 28 July letter + expressly state it is a complaint under QH-POL-140 AND a human-rights
+  complaint under s 58 HRA (identifying equality s 15 and privacy s 25, and the failure to give
+  proper consideration under s 58(1)(b)). Naming the HRA expressly is what makes it count as the
+  gateway complaint.
+- **Do NOT** run all four routes at once (fragments effort, hardens MSH, and the WC settlement is
+  sequenced first — rule 8). The QHRC discrimination route stays reserved unless the union route
+  stalls or an exit/IME step occurs.
