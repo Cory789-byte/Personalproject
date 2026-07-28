@@ -1652,10 +1652,11 @@ Saved: documents/2024-10-09_Cory_reply_DRAFT_to_abandonment_letter_Firoz_Johns.p
 PROVENANCE: Outlook shows "[Draft] Re: Correspondence from the Executive Director..." — reply to LBH_HR
 (Faiza Firoz, HR Consultant) email of **Wed 9 Oct 2024 4:10pm** forwarding the abandonment
 correspondence from **Steven Johns, Acting Executive Director, Logan & Beaudesert HS**. Header shows
-"Draft saved Tue 28/07/2026 7:45 PM". ⚠️ **STATUS TO CONFIRM WITH CORY: was this ever SENT in Oct 2024,
-or does it remain an unsent draft?** Materially different: SENT = the employer was on written notice of
-every point in Oct 2024; UNSENT = a contemporaneous record of his state of mind only. Do not assert
-notice until confirmed.
+"Draft saved Tue 28/07/2026 7:45 PM". ✅ **CONFIRMED BY CORY (28 Jul 2026): THIS WAS SENT in October 2024.** (The "draft saved 28/07/2026"
+stamp is an artifact of re-opening the item in Outlook, not evidence it was unsent.) EFFECT: the
+employer was **ON WRITTEN NOTICE** in Oct 2024 of every matter in it. ACTION: retrieve the SENT-ITEMS
+copy (with sent timestamp + recipients) to prove despatch — the draft-stamped export is weaker
+evidence than the sent copy. Also check for any MSH reply.
 ### THE INTEGRATION — "medical evidence counts only when it suits them"
 The document proves the ASYMMETRY across two years, same employer, same HR unit:
 - **OCT 2024** — medical evidence said INJURED/UNFIT. He held continuous certificates and a **work
@@ -1692,3 +1693,28 @@ or any current correspondence. The usable content is the CERTIFICATES-DISREGARDE
 PLACEMENT: the asymmetry goes to the UNION BRIEF (pattern), the KRISHNAIAH BRIEF (institutional
 response as stressor), severity/evidence-in-chief, and — carefully — the s 32(5)(a) reasonableness
 argument at hearing. NOT the 64G.
+
+## 2026-07-28 — CONFIRMED SENT (Oct 2024) — what the notice point unlocks
+Cory confirms the reply to the abandonment letter WAS SENT in Oct 2024. Consequences:
+1. **NOTICE, not just belief.** As at Oct 2024 MSH/HR were told in writing that: he held a WORK
+   CAPACITY CERTIFICATE and continuous certificates; WorkCover had issued an outcome letter
+   acknowledging a personal injury; HR had been told updates would come via WorkCover; no
+   accommodations had been made; the 7-hour break and fatigue pay were unresolved; and he invoked
+   the IR Act, HUMAN RIGHTS and the EB11 HHS agreement. They proceeded anyway → REINSTATEMENT
+   followed (TD/2024/110), which itself concedes the abandonment decision could not stand.
+2. **Kills the "unaware / human error" family of defences for the 2024 conduct** — the same family the
+   9C uses in 2026 (¶14 "human error by Ms Taylor"; ¶16 "Ms Reese was unaware"). A decision maintained
+   AFTER written notice is not inadvertence.
+3. **The 2026 mirror is now evidentially symmetrical:** Oct 2024 — certificates held, disregarded,
+   excluded (abandonment); Jul 2026 — certificate held, declared insufficient, excluded (no duties in
+   any capacity). Both after written notice invoking the same instruments. The unifying proposition
+   for the union brief/hearing: medical evidence in this unit produces exclusion regardless of its
+   content — which is the antithesis of "reasonable management action taken reasonably."
+4. **Institutional-response severity (Krishnaiah brief):** he wrote that letter while injured, and was
+   dismissed anyway; reinstatement came only after he pursued it (TD/2024/110). That sequence —
+   raise → ignored → dismissed → had to fight back in → repeated in 2026 — is the "prolonged
+   unresolved exposure" mechanism in its most concrete form.
+ACTIONS: (a) pull the SENT-ITEMS copy + any reply; (b) add to the union brief as the two-year pattern
+exhibit; (c) supply to Krishnaiah in the report pack; (d) 9C cross-reference — the 2024 notice
+undercuts the unawareness/error framing. DISCIPLINE UNCHANGED: never re-send/quote the "crime and
+corruption"/"wage theft" passages; the usable content is certificates-disregarded + notice.
