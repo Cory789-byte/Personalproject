@@ -1532,3 +1532,38 @@ APPLY") — fine for the industrial channel with the union cc'd, and it is instr
 accusatory.
 NEXT: response due ~4 Aug. Non-response is itself the artifact (5 business days, 8 instruments, no
 answer). Whatever comes back goes to Heath/the IO same day. Mention 7 Aug unaffected.
+
+## 2026-07-28 — VERIFICATION PASS on the 28 July letter's attachments (partial — one real correction)
+VERIFIED ✅
+- **Directive 12/24 (Special Leave)** — downloaded in full. Effective 30 Sept 2024, supersedes 05/17.
+  **APPLIES to Cory**: cl 4.1(b)(ii) covers Hospital and Health Services employees who are industrial-
+  instrument employees. So the instrument is correctly identified and correctly applicable.
+  ⚠️ **CORRECTION TO THE LETTER (real, flag to the IO):** the letter says special leave on full pay
+  "**must** be applied." Directive 12/24 is **DISCRETIONARY**, not mandatory, for this situation:
+  cl 6.1 "A chief executive **may** approve paid leave for employees for **any purpose**" — and
+  cl 6.1(a) caps it at 5 working days/yr per reason "unless the chief executive considers that
+  circumstances warrant the granting of additional paid leave." Schedule One (non-discretionary,
+  "must be granted") lists only election/local-government/defence-type categories — nothing covering
+  employer-directed exclusion. THE USABLE HOOK IS cl 6.5: in determining an application under 6.1/6.2
+  the CE **must consider** (a) the reason, (b) the duration, (c) [fixed-term only], (d) **the impact
+  on the employee if the requested leave is not approved**. So the correct formulation is: "I REQUEST
+  special leave on full pay under cl 6.1; in determining it you must consider the cl 6.5 factors,
+  including the impact on me of refusal." NOTE: the stronger argument is NOT special leave at all —
+  it is that no power has been identified to direct a ready-willing-and-able employee off work
+  WITHOUT pay (special leave is the mechanism, not the entitlement).
+- **QH-IMP-401-5** (rehab/suitable duties available WITHOUT an accepted claim, where operationally
+  reasonable) and **QH-POL-210** (reasonable adjustment) — verified earlier; correctly cited.
+- **Psychosocial Code of Practice 2022 (Qld)** + WHS Act ss 47-49 consultation — verified earlier.
+NOT VERIFIED ❌ (sites blocked/timed out through the proxy: qirc.qld.gov.au 503/timeout;
+careers.health.qld.gov.au 403)
+- **EB12 (Certified Agreement No. 12) 2025 clause numbers**: cl 6.1 employment security; 7.1.5 injury
+  management; 7.1.11 WHS feedback; 7.2 psychosocial risk assessment; **9.12 special leave → Directive
+  12/24**. Existence/effect of EB12 confirmed (certified by QIRC as CB/2025/157, effective 23 Dec
+  2025) but the CLAUSE NUMBERING IS UNVERIFIED. ACTION: ask the industrial officer to confirm each
+  pinpoint against the operative agreement (she will have it); or obtain the PDF via the Together
+  member portal. If a number is wrong, correct it in the follow-up letter BEFORE they use it.
+- **HHS General Employees (Queensland Health) Award – State 2015** — not retrieved; ask the IO.
+- **QH-POL-231 (Special leave, HR Policy C7)** — not retrieved; ask the IO.
+NET: the letter's FRAMEWORK is sound and its two policy pillars (QH-IMP-401-5, QH-POL-210) are
+verified. The exposure is (i) the "must be applied" special-leave overstatement and (ii) unverified
+EB12 pinpoints — both fixable in the follow-up, both worth raising with the IO first.
