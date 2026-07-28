@@ -1502,3 +1502,33 @@ REVISED SOURCE ORDER for "who produced the report":
     QSuper/privacy mention), ideally AFTER 22 Jul lapse. Not urgent — the recipient list feeds the
     RESERVED track, not the critical path.
 No urgency to break silence: nothing on the 64G/report critical path needs the recipient list now.
+
+## 2026-07-28 — CORY'S OWN LETTER SENT to HR (17:39) — "incorrect application of EB12, Award and QH policies"
+Saved: documents/2026-07-28_Cory_to_HR_incorrect-application-EB12-Award-policies_SENT.pdf.
+To Injury Management + Forrest; **cc Heath Moran (Together) AND Zappia (ART)**. Sent the same day as
+the 12pm IO intro call. SUPERSEDES the held record-correction draft — this is the operative letter and
+it is materially STRONGER than the held draft in three ways: (1) it is INSTRUMENT-ANCHORED with 8
+numbered attachments (EB12 No.12 2025; HHS Award 2015; Psychosocial Code 2022; QH-IMP-401-5;
+QH-POL-210; Directive 12/24; QH-POL-231; AO3 role description) and demands response "by reference to
+each attachment"; (2) it demands a TASK-BY-TASK match of the role description to the ECC — converting
+"we can't facilitate" from a conclusion into an itemised justification they must produce; (3) it
+demands the DELEGATE AND INSTRUMENT for each day's coding since 3 July — no anonymous decisions.
+STRUCTURAL WINS: special-leave demand under EB12 cl 9.12 + Directive 12/24 + QH-POL-231 (the paid
+route, correctly located in the agreement); abandonment protection sought (cl 6.1) — pre-empts the
+2024 "abandonment" playbook; workplace psychosocial risk assessment demanded under cl 7.2 + the Code
+(REVERSES the inversion — assessment of the WORKPLACE, not of him); decision-maker identification;
+5-business-day deadline (lands ~4 Aug, i.e. BEFORE the 7 Aug mention); appeal expressly fenced
+("My QIRC appeal WC/2024/227 is separate"); union involvement stated ("taking industrial advice
+through Together").
+WATCH ITEMS (not fatal, for follow-up): (a) EB12 clause numbers (6.1, 7.1.5, 7.1.11, 7.2, 9.12) must
+be VERIFIED against the operative agreement — ask the IO to confirm; a wrong pinpoint is the one thing
+that lets them deflect. (b) Point 1 bullet 2 is garbled ("On the material available to me notified by
+employee (myself)... ART put benefit payments are not applied from 1 June 2026") — meaning survives
+but it is the weakest sentence; if they seize on it, restate simply: benefits ceased at my request /
+on hold from 1 June 2026; the fund is not paying me. (c) ZAPPIA CC'd — puts the fund on employment
+correspondence (against my earlier advice); consequence: ART now sees the employment dispute and MSH
+sees the union. Accepted as his call; do not repeat by default. (d) Tone is firm ("WHAT YOU MUST
+APPLY") — fine for the industrial channel with the union cc'd, and it is instrument-based rather than
+accusatory.
+NEXT: response due ~4 Aug. Non-response is itself the artifact (5 business days, 8 instruments, no
+answer). Whatever comes back goes to Heath/the IO same day. Mention 7 Aug unaffected.
