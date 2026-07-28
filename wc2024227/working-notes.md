@@ -1567,3 +1567,47 @@ careers.health.qld.gov.au 403)
 NET: the letter's FRAMEWORK is sound and its two policy pillars (QH-IMP-401-5, QH-POL-210) are
 verified. The exposure is (i) the "must be applied" special-leave overstatement and (ii) unverified
 EB12 pinpoints — both fixable in the follow-up, both worth raising with the IO first.
+
+## 2026-07-28 — ATTACHMENTS VERIFIED AGAINST SOURCE — EVERY EB12 PINPOINT IS CORRECT
+All 8 attachments saved to documents/instruments/. EB12 = the CERTIFIED agreement (QIRC s 193
+certification; parties incl. Together Queensland). Clause-by-clause verification of the 28 July letter:
+✅ **6.1 Employment Security** — correct (6.1.1-6.1.8; Employment Security Policy applies; no forced
+   retrenchment; "no downgrading of positions").
+✅ **7.1.5** — correct AND BETTER THAN CITED. Heading: "the parties agree to address the following
+   hazards and issues" — the list expressly includes **(b) fatigue risk management; (f) INJURED
+   WORKERS TO HAVE THE OPPORTUNITY TO BE RE-TRAINED IN ALTERNATIVE AREAS/DEPARTMENTS; (g) injury
+   management; (h) management of ill or injured employees; (j) psychosocial issues and implementation
+   of the Managing the risk of psychosocial hazards at work Code of Practice 2022; (k) security for
+   administrative staff in frontline positions.** 7.1.5(f) is directly on point for the alternative-
+   duties refusal and is the strongest single sub-clause in the letter.
+✅ **7.1.11** — correct, verbatim: "The parties commit to ensure that appropriate feedback is provided
+   to employees who raise workplace health and safety matters." (Two years of unanswered concerns.)
+✅ **7.2 Psychosocial Risk Assessments** — correct. 7.2.1: committed to support workplace audits and
+   risk assessments "as requested through a HCF either by an employer OR A UNION PARTY" → the UNION
+   can request the assessment (route confirmed). 7.2.2: use the Code 2022; "in consultation with
+   workers and HSRs." 7.2.3: audits review adequacy/effectiveness of controls.
+✅ **9.12 Special Leave** — correct, verbatim: "The parties agree the Minister for Employment and
+   Industrial Relations Directive 12/24: Special Leave applies to all employees covered by this
+   Agreement." So the EB12→Directive 12/24 chain is exact.
+BONUS CLAUSES NOT CITED (available for the follow-up):
+- **7.1.10** fatigue risk management is a health and safety issue, to be managed accordingly.
+- **7.3 Workplace Mental Health** — QH commitment to mentally healthy workplaces "through attention to
+  safe work design, work systems and practices, and workplace environments."
+- **9.23 / 9.24 Paid Meal Breaks for Switch Attendants** (continuous shift workers / sole operators) —
+  the agreement expressly contemplates SWITCHBOARD roles.
+- Note cl 8.2 excludes 7.1.3-7.1.11 for **FSQ** employees only — irrelevant to an HHS employee.
+✅ **ATT10 QH-POL-210** verified from source: "applies to ALL Queensland Health (the department and
+   Hospital and Health Services) employees"; expressly covers employees in workplace rehabilitation/
+   RTW needing **temporary** reasonable adjustment AND employees with capacity restriction needing
+   ongoing adjustment. Nothing limits it to accepted WC claims. Directly refutes the 15 July
+   "discretion" paragraph.
+✅ **ATT12 Directive 12/24** verified (see prior entry). ⚠️ Only correction stands: it is
+   DISCRETIONARY (cl 6.1 "may approve... for any purpose"; 5-day/yr guide) with cl 6.5 mandatory
+   CONSIDERATIONS (reason, duration, impact of refusal) — reframe "must be applied" → "I request it;
+   you must consider cl 6.5 factors."
+⚠️ **ATT09 QH-IMP-401-5** — the PDF is a SCANNED/IMAGE file (no extractable text). Content confirmed
+   from the published source earlier (rehab may be provided to employees WITHOUT a current accepted
+   claim where operationally reasonable). Fine, but note MSH may claim difficulty; a text copy is
+   preferable if re-sent.
+NET: the letter's legal scaffolding is SOUND — every pinpoint lands. The single soft point is the
+special-leave "must", which is a wording fix, not a structural flaw.
