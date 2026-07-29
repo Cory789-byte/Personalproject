@@ -1780,3 +1780,38 @@ we say" but "who has to deal with this now" — which is exactly the intended ef
    supersedes 05/17 and applies via EB12 cl 9.12 — no damage done.
 NET: every load-bearing proposition in the clarification email is verified from source. The only
 adjustment is to not rest any weight on QH-POL-231.
+
+## 2026-07-29 16:10 — MSH REPLY to the 28 July letter (Harrison) — movement on ONE item, silence on eight
+Saved: documents/2026-07-29_Harrison_reply_EAF_WHS-basis.pdf. To Cory + Forrest, cc Heath + Zappia.
+**SPEED: <24 hours** — after 11+ days of prior silence. The letter produced immediate movement. Note
+the 5-business-day period does NOT expire until ~4 Aug, so this may be interim, not their full answer.
+WHAT THEY DID:
+1. **The RFI mechanism FINALLY appears** — 26 days after the ECC. Attached an **Employee Authority
+   Form (EAF)** and offered a CHOICE: (a) Cory takes their request to Dr Ma himself, or (b) he signs
+   the EAF authorising IM to write directly, **with Cory copied into the correspondence**. Predicted
+   exactly ("watch for the RFI to suddenly appear this week") — and it appeared the day after the letter.
+2. **NEW LEGAL BASIS — the WHS Act.** "This request is consistent with Metro South Health's
+   obligations under the Work Health and Safety Act 2011 (Qld)... Queensland Health has an
+   INDEPENDENT OBLIGATION to assess the medical information provided alongside the INHERENT
+   REQUIREMENTS OF THE ROLE." This is their **strongest argument to date** and it is orthodox: an
+   employer is not bound to accept a treating GP's certificate at face value and has its own duty.
+   Do NOT dismiss it. The vulnerability is not the principle but its APPLICATION — the duty is to
+   assess, and no assessment (task match, risk assessment, consultation) has been done in 26 days.
+3. **"INHERENT REQUIREMENTS OF THE ROLE"** — NEW language, and a WATCH ITEM. That is the phrase used
+   in incapacity/ill-health and reasonable-adjustment analysis. Consistent with (not proof of) the
+   health-management frame. Flag to the union.
+WHAT THEY DID NOT DO — none of the eight requests answered:
+no task-by-task match; no delegate identified; no instrument for the direction; no consideration of
+EB12 9.12/Directive 12/24 (the clarification email's question, unanswered); no pay answer; no leave
+re-crediting; no abandonment confirmation; no psychosocial risk assessment; **STILL NO TIMEFRAME.**
+IMMEDIATE ACTIONS (time-critical — respond within 1-2 days so delay cannot be attributed to Cory):
+(a) **READ THE EAF BEFORE SIGNING** — scope is everything. If it authorises open-ended access to
+    medical records, do not sign as-is; qualify it or decline in favour of option (a).
+(b) **ASK FOR THE QUESTIONS FIRST** — request a copy of the proposed request/questions before
+    electing, so scope can be checked against "capacity, restrictions, operational application."
+(c) **PREFER the option that keeps the delay THEIRS** (they write directly, Cory copied) — provided
+    the EAF scope is confined. Taking it himself transfers the delay risk to him.
+(d) **Send to Heath/the IO TODAY** — this is exactly what the industrial officer needs before the
+    28 July consult follow-up; the WHS-basis argument is the one they must answer.
+(e) Do NOT let this displace the outstanding eight requests — respond on the EAF AND note the
+    5-business-day items remain outstanding.
