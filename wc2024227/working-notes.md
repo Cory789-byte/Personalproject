@@ -1841,3 +1841,32 @@ MC: adding the task map + 24/7 pre-emption + meeting offer lifted the letter fro
 to rank 1/32 (0.846), +0.230 — the largest single improvement modelled this session. Confirmed: do NOT
 expand with further instruments (-0.021); PDF slightly worse than email body for speed (-0.026) but
 acceptable at this length.
+
+## 2026-07-30 — GP INVOICE + who pays for employer-required medical information (researched)
+INVOICE FILED: documents/evidence/2026-07-03_Invoice574370_DrMa_ECC_150.pdf — My Doctors Clinic
+Surfers, Dr Day Hong Ma, **Invoice 574370, dated 3 JULY 2026 (the ECC date), item "WCO002 Case
+Conference", $150.00, no GST, "Total outstanding: 150.00", payable within 30 days.** Account to Cory.
+The invoice date matches the day the ECC was provided — directly attributable to the employer-required
+capability assessment.
+POLICY RESEARCH (Independent medical examinations guideline, Qld public sector, downloaded — saved as
+ATT18). The guideline establishes the QLD public-sector principle that **COST FOLLOWS WHO REQUIRES THE
+INFORMATION**:
+- where the entity directs the examination, the written direction should state "**that the entity will
+  meet all reasonable costs of the employee attending the appointment**";
+- where a report is released via a nominated doctor, the chief executive must "**pay the reasonable
+  costs of the employee's visit to their nominated doctor to discuss the contents of the report**";
+- BY CONTRAST, where the EMPLOYEE volunteers additional material in response to proposed action,
+  "**Employees who seek such additional advice are to meet the associated costs**."
+APPLIED: the ECC was **employer-required** (Taylor, 2 Jul: cannot facilitate return until a completed
+ECC), not employee-volunteered. On the guideline's own principle the cost sits with MSH. CAUTION: the
+guideline governs IMEs specifically, not treating-practitioner reports — so cite the PRINCIPLE by
+analogy, do NOT assert it as a binding clause.
+AD ACT VERIFIED (ATT16, current as at 19 May 2025): s 5 (meaning of unjustifiable hardship — cost,
+financial circumstances, disruption, benefit/detriment); **s 34 (special terms if job capacity is
+restricted by impairment — a person may fix REASONABLE TERMS where a person has restricted capacity or
+requires special conditions)**; s 35 (special services/facilities — exemption only where unjustifiable
+hardship); s 36 (circumstances of impairment). NOTE FOR ACCURACY: the Qld AD Act does not use the
+phrase "reasonable adjustments" — the operative concepts are **reasonable terms (s 34)** and **special
+services or facilities (s 35)**, with unjustifiable hardship as the employer's exemption, assessed
+against s 5. The letter's wording should be adjusted accordingly.
+Also saved: ATT17 WHS Act 2011 (Qld) full text.
