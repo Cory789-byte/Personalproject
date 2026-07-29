@@ -1870,3 +1870,37 @@ phrase "reasonable adjustments" — the operative concepts are **reasonable term
 services or facilities (s 35)**, with unjustifiable hardship as the employer's exemption, assessed
 against s 5. The letter's wording should be adjusted accordingly.
 Also saved: ATT17 WHS Act 2011 (Qld) full text.
+
+## 2026-07-30 — THE TRIGGER IDENTIFIED (Cory): the ECC was demanded in response to HIS OWN request to
+## temporarily reduce hours from 0.6 to 0.5 FTE for TWO WEEKS
+This answers "what justified the ECC" and recasts the whole July sequence.
+SEQUENCE AS NOW UNDERSTOOD: Cory requests a TEMPORARY reduction 0.6 -> 0.5 FTE for 2 weeks (~7.6 hrs
+per fortnight less) -> Taylor (2 Jul) responds that she cannot facilitate his return until a completed
+ECC, shifts to be processed as sick leave / sick leave no pay -> Cory provides ECC 3 Jul (fit with
+restrictions) -> excluded entirely from 3 Jul, 27+ days and counting.
+TWO CONSEQUENCES:
+1. **PROPORTIONALITY (needs no clause).** He asked to work ~0.1 FTE less for two weeks. The response
+   was 0 FTE, indefinitely. The measure imposed is vastly more restrictive than the request that
+   prompted it - and it was imposed on a worker who was working, certified, and had raised nothing.
+2. **EB12 cl 10.3 IS SQUARELY ENGAGED (verified text).** 10.3.2: an employee "may ask the employer for
+   a change in the way the employee works, INCLUDING THE EMPLOYEE'S ORDINARY HOURS OF WORK."
+   10.3.4: the employer may grant, grant in part, grant subject to conditions, or refuse.
+   10.3.5: may grant in part/subject to conditions/refuse "ONLY ON REASONABLE GROUNDS."
+   10.3.6: "The employer MUST give the employee WRITTEN NOTICE about its decision WITHIN 21 DAYS after
+   receiving the request", and if granted in part/conditionally/refused the notice "must state the
+   REASONS for the decision, outlining the reasonable grounds."
+   -> If the request was made on/about 1-2 July, the 21-day period expired ~22-23 July. As at 30 July
+   there is NO written decision and NO reasons. On the face of it that is a breach of a certified
+   agreement clause, dated and verifiable.
+   -> Requiring a full capability assessment, and then excluding him from all work, as the response to
+   a 2-week 0.1 FTE request, is at least arguably not "reasonable grounds" within 10.3.5.
+3. **It destroys the risk narrative's origin.** The ECC requirement did NOT arise from any incident,
+   observation, complaint or performance concern. It arose from the employee asking to work slightly
+   less, temporarily. Every "psychosocial hazard / safety / inherent requirements" formulation post-
+   dates it (13, 15, 29 Jul) and was therefore constructed AFTER the requirement, not as its basis.
+VERIFICATION NEEDED FROM CORY BEFORE ASSERTING cl 10.3 (do not put in the letter until confirmed):
+(a) the DATE the request was made; (b) whether it was IN WRITING (10.3.3(a)); (c) whether it STATED
+THE CHANGE in sufficient detail (10.3.3(b)); (d) whether it STATED REASONS (10.3.3(c)); (e) to whom it
+was made (Taylor?); (f) whether any written decision has ever been received.
+If (a)-(d) are satisfied, this becomes the strongest single point in the employment matter and the
+lead item for the union dispute notification.
