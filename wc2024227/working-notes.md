@@ -1815,3 +1815,29 @@ IMMEDIATE ACTIONS (time-critical — respond within 1-2 days so delay cannot be 
     28 July consult follow-up; the WHS-basis argument is the one they must answer.
 (e) Do NOT let this displace the outstanding eight requests — respond on the EAF AND note the
     5-business-day items remain outstanding.
+
+## 2026-07-30 — FINAL response letter to HR built (PDF, scrubbed) + two new verified citations
+Files: drafts/2026-07-30_HR_response_FINAL_letter.txt (source);
+drafts/out/Shepherd_response_30July2026_MSH-INJ-5795.pdf (4pp A4, no Info dict, no XMP, 9,539 bytes).
+NEW VERIFIED CITATIONS (from the source PDFs):
+- **EB12 cl 10.3 Flexible Working Arrangements** — employee may request a change in the way they work
+  "including the employee's ordinary hours of work"; employer may refuse "only on reasonable grounds";
+  **must give written notice of the decision, with reasons, within 21 DAYS.** (Day 27 and counting with
+  no written decision and no reasons — a live obligation, not just an analogy.)
+- **HHS General Employees Award 2015 cl 8.2 Part-time employment** — regular ordinary hours up to 64
+  per fortnight, pro rata conditions, **minimum 8 ordinary hours per fortnight**, min 4-hour payment on
+  any day worked. Reduced hours are expressly contemplated by the industrial instruments.
+THE DECISIVE NEW SECTION (§4 THE RESTRICTIONS AND THE DUTIES) — built from the AO3 role description
+(ATT14) read for the first time: the role's listed key responsibilities are telephone enquiries/call
+queues; Omnivista + SharePoint; pager allocation/coordination/fault repair; emergency response process;
+networks and records; discretion/judgement; interaction with public/service providers; multitasking
+under pressure; team contribution; limited supervision; fair treatment; safety policies.
+**COMPLAINT-HANDLING IS NOT A LISTED RESPONSIBILITY** — so the ECC's central restriction excludes a
+duty the role description does not require. The remaining restrictions go to WHEN he works, not WHICH
+duties. Counterweight (flagged honestly in the letter): the RD twice states the role is continuous
+24/7 shift work — their best ground — answered by 12 months of practice + the 7 July accommodation
+acknowledgment.
+MC: adding the task map + 24/7 pre-emption + meeting offer lifted the letter from rank 28/32 (0.616)
+to rank 1/32 (0.846), +0.230 — the largest single improvement modelled this session. Confirmed: do NOT
+expand with further instruments (-0.021); PDF slightly worse than email body for speed (-0.026) but
+acceptable at this length.
