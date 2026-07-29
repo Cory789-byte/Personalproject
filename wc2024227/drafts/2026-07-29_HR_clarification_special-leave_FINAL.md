@@ -6,6 +6,9 @@
 > publication; cites superseded PSC Directive 05/17; closed catalogue with no general discretionary
 > paid-leave power and no employer-directed-exclusion category). ATT13 remains in the 28 July
 > attachment list — harmless, but no argument rests on it.
+> OFF-RAMP added before the closing line (MC-optimised: only change with positive marginal value,
+> +0.060; moves draft from rank 22/1944 to rank 1). Guard clause prevents a meeting substituting for
+> the written response.
 
 Subject: Clarification of my email of 28 July 2026 — special leave and pay treatment (MSH-INJ-5795) — response date unchanged
 
@@ -36,6 +39,8 @@ The consideration is not discretionary. The outcome is.
 REQUEST
 
 Please confirm whether Directive 12/24 and EB12 clause 9.12 have been considered in relation to my absence from 3 July 2026 — as distinct from the QSuper claim — and if so, by whom and with what result. If they have not been considered, I ask that they now be considered, and that I be advised of the outcome and the delegate who determined it.
+
+If it would assist, I am willing to meet at short notice to work through the Employee Capability Checklist and a suitable duties plan. I would ask that any meeting occur alongside, rather than in place of, a written response to the matters raised.
 
 This clarification is to be read with my email of 28 July 2026.
 
