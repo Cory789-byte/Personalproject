@@ -1747,3 +1747,36 @@ holding line. The 28 July letter cannot be answered by that person, in that tone
 timeframe — it requires (a) someone senior, (b) work product that does not exist, (c) a named
 delegate, and (d) awareness that a union is reading. The recipient's first thought is not "what do
 we say" but "who has to deal with this now" — which is exactly the intended effect.
+
+## 2026-07-28 — SOURCE VERIFICATION of the clarification email — one issue found (QH-POL-231)
+✅ **Directive 12/24 cl 6.1** — "A chief executive **may** approve paid leave for employees for any
+   purpose" — discretion CONFIRMED verbatim.
+✅ **Directive 12/24 cl 6.5** — verbatim: "In determining an application for leave under clause 6.1 or
+   clause 6.2, a chief executive **must consider**: (a) the reason the leave is requested; (b) the
+   duration of the requested leave; (c) [fixed term temporary only]; (d) **the impact on the employee
+   if the requested leave is not approved.**" — the email's characterisation is EXACT.
+✅ **Directive 12/24 cl 4.1(b)(ii)** — applies to Hospital and Health Services employees. Applies to Cory.
+✅ **EB12 cl 9.12.1** — verbatim: "The parties agree the Minister for Employment and Industrial
+   Relations Directive 12/24: Special Leave applies to all employees covered by this Agreement."
+✅ **QSuper/ART hold** — Beck letter 28 May 2026 verbatim: "ART Life has also advised that your IP
+   benefit payments **will be placed on hold effective 1 June 2026**, while this information is
+   obtained and the recalculation is completed." Attribution correct (ART's decision, NOT his request).
+✅ **March 2026 cessation at his request** — sourced to the QSuper bundle (13 Mar 2026 self-reported
+   RTW + request to stop payments). Sound, though it rests on the March correspondence rather than the
+   Beck letter; ART's written confirmation (Zappia letter) would put it beyond argument.
+⚠️ **QH-POL-231 (ATT13) — ISSUE FOUND.** The attached version repeatedly references the SUPERSEDED
+   **PSC Directive 05/17 – Special Leave** (Directive 12/24 expressly "Supersedes: 05/17"). Its History
+   note refers to revisions effective 1 March 2017. TWO consequences:
+   (a) The version he attached appears OUT OF DATE — MSH could say ATT13 is superseded.
+   (b) More importantly, QH-POL-231's structure is a list of SPECIFIC categories (blood donation,
+       cultural leave, emergency attendance, elections, reserve forces, sporting competitions, leave
+       without pay in other cases, etc.). It contains **no general discretionary paid-leave provision**
+       equivalent to Directive 12/24 cl 6.1, and **no category covering employer-directed exclusion.**
+   → SO: QH-POL-231 adds NOTHING to the argument and carries a small currency risk. The operative
+   instruments are EB12 cl 9.12 + Directive 12/24 cl 6.1/6.5. RECOMMENDATION: it is already in the
+   28 July attachment list (harmless); do NOT lean on it in the clarification email — either drop the
+   QH-POL-231 reference from the clarification, or keep it only as a trailing "and QH-POL-231" without
+   argument attached. If MSH points out it references 05/17, the answer is simply that Directive 12/24
+   supersedes 05/17 and applies via EB12 cl 9.12 — no damage done.
+NET: every load-bearing proposition in the clarification email is verified from source. The only
+adjustment is to not rest any weight on QH-POL-231.
