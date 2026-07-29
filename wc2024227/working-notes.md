@@ -1718,3 +1718,32 @@ ACTIONS: (a) pull the SENT-ITEMS copy + any reply; (b) add to the union brief as
 exhibit; (c) supply to Krishnaiah in the report pack; (d) 9C cross-reference — the 2024 notice
 undercuts the unawareness/error framing. DISCIPLINE UNCHANGED: never re-send/quote the "crime and
 corruption"/"wage theft" passages; the usable content is certificates-disregarded + notice.
+
+## 2026-07-28 — THE REGISTER SHIFT: 13 July email vs 28 July letter (side by side)
+Docs 141/142 confirm the pair. THE SHIFT IS THE POINT — it is legible and deliberate.
+**13 JULY (16:39)** — To: LBH Injury Management ONLY. Cc: Notes-IPEC (Solv) only.
+Register: SUPPLICANT-COOPERATIVE. "Thank you for your email." "could you please confirm."
+"I would welcome a discussion about how my experience can be used to the benefit of the Service."
+Consent volunteered ("My consent... stands"). Offers to work in finance/scanning. No instruments
+cited, no deadline, no decision-maker named. Four requests, all phrased as asks.
+**28 JULY (17:39)** — To: LBH Injury Management AND **Lyndelle Forrest (Senior HR Consultant)**.
+Cc: **Heath Moran (Together)** AND **James Zappia (ART)**.
+Register: INSTRUMENT-COMPLIANCE. 8 attachments, clause pinpoints, "Wrong application", "WHAT YOU
+MUST APPLY", 8 numbered requests, **5-business-day deadline**, delegate-and-instrument demand.
+WHAT THE SHIFT ACHIEVES (the three signals):
+1. **ESCALATION IN ADDRESSEE** — adding Forrest to the To line moves it above the case officer. It
+   says: the person who has been answering can no longer answer this.
+2. **WITNESS IN THE CC** — Heath = the correspondence is now observed by an institution with
+   standing and its own escalation path. Informal handling is over; anything written now is written
+   for a third party.
+3. **THE COOPERATION RECORD IS COMPLETE** — 13 July is the exhibit that proves he asked politely
+   first, offered alternative duties, volunteered consent, and thanked them. 28 July is only
+   reasonable BECAUSE 13 July exists. The pair reads as escalation-after-exhaustion, not aggression.
+   (Standing rule: restraint first makes firmness grantable — the same logic as the 64G concessions.)
+ZAPPIA CC — noted again as his call, against my advice: puts the fund on employment correspondence.
+Defensible rationale (the closed-claim premise is visible to both at once) but do not repeat by default.
+RECIPIENT'S-EYE READ (for the file): the 13 July email could be managed by one consultant with a
+holding line. The 28 July letter cannot be answered by that person, in that tone, or within that
+timeframe — it requires (a) someone senior, (b) work product that does not exist, (c) a named
+delegate, and (d) awareness that a union is reading. The recipient's first thought is not "what do
+we say" but "who has to deal with this now" — which is exactly the intended effect.
