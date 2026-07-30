@@ -1955,3 +1955,30 @@ D. Their closing: "Until this information is available and has been appropriatel
 forward the response. The record now shows: deadline set against a booked appointment → answered
 with "cannot guarantee"; delegate admitted but unnamed; questions non-existent in approved form.
 4 AUGUST remains the union trigger day.
+
+## 2026-07-31 — VALUATION MEMO (calibrated ranges, NOT advice; all contingent on the updated
+## psychiatric report, DPI/election thresholds, offsets and specialist PI advice)
+Benchmark verified: **Robinson v State of Queensland [2017] QSC 165 — $1,468,991 + costs** (Qld
+Health, nurse/District Director, psychiatric injury from managerial mistreatment; career loss).
+Inputs: age ~35; FTE gross incl. penalties est. ~$95-110k (hourly ~$43.17 base + heavy loadings);
+current certified capacity 0.5-0.6 FTE; injury MDD w/ anxious distress, onset 18 Jun 2024.
+- **T1 WC statutory (appeal won):** weekly comp back-pay net of earnings/ART offsets ~$25-70k;
+  medicals/rehab ~$10-30k; s 558 costs (scale + possible 1.5x uplift) ~$20-50k. **~$55-150k.**
+- **T2 Common law negligence (gateway = accepted claim):** past econ ~$40-90k; future econ (40-50%
+  differential ~$32-38k net/yr, 5% tables ~32 yrs, less 15-20% vicissitudes) ~$430-520k; super
+  ~$55-70k; general damages ISV serious-psych band ~$30-60k. Gross claim ~$600-800k mid; Robinson-
+  style ceiling >$1M if career loss made out. **Realistic settlement band $300-650k** (less WorkCover
+  refund, litigation risk). Everything turns on the report's prognosis.
+- **T3 PID reprisal tort:** compensatory overlaps T2; exemplary damages the distinct head
+  (~$20-100k if run). Function = deed leverage more than expected judgment. **$50-250k leverage value.**
+- **T4 AD Act (lockout/impairment):** Qld trend rising (Golding v Sippel ICQ ~$158k high-water);
+  impairment/adjustment matters typically **$30-100k** incl. hurt + wage overlap.
+- **T5 GP lockout:** wages ~$6-8k+ accruing; general ~$10-30k; penalties possible; if ripens to
+  dismissal → uncapped + reinstatement. **$15-45k standalone, uncapped on dismissal.**
+- **Patient-safety dimension:** not a damages head — an AGGRAVATOR (institutional-response evidence,
+  exemplary-damages support in T3, settlement optics).
+- **No double recovery:** T2/T3 overlap on the injury; lockout loss (fit period) cleanly separate.
+- **GLOBAL DEED VIEW:** statutory floor ~$150-250k (T1 + modest deed) vs properly-run global
+  post-acceptance with strong report **~$350-750k+ plus statutory**, releases confined per rule 9.
+Discipline: ranges are planning tools; the Krishnaiah report is the single biggest value lever;
+election (lump sum vs common law) is irreversible and specialist-only.
