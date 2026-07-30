@@ -2035,3 +2035,47 @@ SIGNIFICANCE:
    knowledge + repetition = reasons harder to disprove); Krishnaiah brief (2024 as aggravation,
    already pleaded).
 ACTION: verify Coccetti's authorship from the show-cause letter in the bundle before any use.
+
+## 2026-07-31/08-01 — MATHESON SILENCE: the 24 July disclosure-list request is UNANSWERED
+FILED: documents/2026-07-24_Cory_to_Matheson_disclosure_list_request.pdf
+**SENT: Friday 24 July 2026, 19:08** — to Matheson only. Text (verbatim): "(1) an up-to-date list of
+the documents disclosed by the Respondent in the proceeding; and (2) copies of the form 29 Notice of
+Non-Party Disclosure issued by the Respondent, together with the documents produced in response to
+each."
+STATUS: **no response. 7 calendar days / 5 business days as at 31 July.** Mention is 7 August.
+### WHY THIS REQUEST IS NOT ROUTINE FOR THEM (though it reads as routine)
+Limb (2) is the pin. The Regulator's own Form 29 is the notice that obtained Cory's MEDICAL RECORDS
+**and was never served on him** — admitted, Form 24 ¶25; sworn, affidavit ¶44. Producing it would
+disclose, in one document: (a) WHO was served (GP? psychiatrist? ART/QSuper?) — the answer to how the
+Mind & Memory report (marked "not for medico-legal use", never held by his GP) reached the 22 Jul 2025
+Saines package; (b) WHAT was produced; (c) that Cory was NOT among the served parties — documenting
+the r 64C(4) affected-party failure in the Regulator's own paperwork.
+Limb (1) is also live: an "up-to-date list" is testable against what he actually holds; any gap =
+ongoing-disclosure problem two weeks before a mention.
+### READINGS (ranked)
+1. **Referred up / to counsel (most likely, ~45%).** Willson is briefed for 7 Aug; with a mention
+   pending, a request touching the Respondent's own NNPD conduct would not be answered by an appeals
+   officer unilaterally. Consistent with the 15-day Calderbank authorisation loop — this office
+   escalates anything with consequences.
+2. **Answer is uncomfortable / being curated (~30%).** The list/notice documents the non-service and
+   the medical-records route. Producing it hands Cory the privacy trail; refusing it is worse. Delay
+   is the least-bad interim.
+3. **Ordinary administrative lag / leave (~20%).** Friday-evening receipt; possible.
+4. **Deliberate stonewall (~5%).** Unlikely — the Regulator has an overriding duty to the Commission
+   and has shown it (11 June MSH-adverse disclosure). Stonewalling a disclosure request pre-mention
+   would be out of character and risky.
+### COMPARATIVE LATENCY — the two respondents now behave IDENTICALLY
+- MSH: answers fast, says nothing (30 Jul: 3.5 hrs, zero substance).
+- Regulator: says nothing at all (7 days, no acknowledgment).
+Both have converged on the same posture: **no new positions on paper before 7 August.** That is a
+litigation-management signal, not indifference.
+### SIGNIFICANCE FOR 7 AUGUST
+Non-production of the disclosure list before the mention is itself a modest procedural point Cory
+holds in reserve — NOT to be raised as grievance, but available if the Commissioner asks about the
+state of disclosure. It also means the Form 29 recipient list may only surface via order or at the
+mention — i.e. the privacy-trail question stays open until the disclosure question is dealt with.
+### ACTION
+NO chase before the mention. A second email would (a) convert a clean unanswered request into a
+back-and-forth, (b) signal the privacy interest, and (c) spend a point better made by the record.
+The 24 July email stands as a dated, unanswered, entirely reasonable request. If disclosure is
+canvassed on 7 Aug and it is proper to do so, the fact of the request can be mentioned neutrally.
