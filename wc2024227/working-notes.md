@@ -1982,3 +1982,28 @@ current certified capacity 0.5-0.6 FTE; injury MDD w/ anxious distress, onset 18
   post-acceptance with strong report **~$350-750k+ plus statutory**, releases confined per rule 9.
 Discipline: ranges are planning tools; the Krishnaiah report is the single biggest value lever;
 election (lump sum vs common law) is irreversible and specialist-only.
+
+## 2026-07-31 — THE SECOND-CLAIM TRAP (Cory's read: they want to push him into a NEW claim they can accept)
+Mechanics check out. If a fresh 2026 psych claim were lodged and ACCEPTED:
+1. **Pay problem solved — for them.** WorkCover pays, not MSH; the unlawful unpaid exclusion is
+   retrospectively sanitised into "absence on a compensable injury." The lockout record loses its teeth.
+2. **Keystone reversed.** "Certified fit and refused work" becomes "incapacitated on a claim" — the
+   status quo argument dies; the incapacity file they've been building gets its foundation document,
+   signed by HIM.
+3. **Causation fragmented.** A new 2026 injury lets them attribute current and future loss to the NEW
+   injury — muddying the 2024 appeal's damages tail and the common-law claim (which injury caused the
+   32-year loss?).
+4. **Scrutiny foreclosed.** Accepted claims are never adjudicated: no hearing, no findings on the July
+   conduct, no RMA test it would fail. GP/AD claims weaken practically ("already compensated").
+5. **Lawful structure gifted retroactively.** An accepted claim makes them the rehab employer with a
+   statutory RTW framework — converting the powerless exclusion into a lawful managed absence.
+TELL: the EAF extended to "authorised WorkCover Queensland representatives" — consent to exchange
+info with WorkCover, for an employee with NO accepted claim. Consistent with (not proof of) a file
+being shaped toward a claimable event.
+COUNTER-DOCTRINE (if incapacity ever genuinely occurs and a claim becomes necessary):
+**plead AGGRAVATION OF THE EXISTING 18 JUNE 2024 INJURY, never a fresh discrete 2026 injury** —
+same injury continuum, exacerbated by the July conduct. Keeps causation unified with the appeal and
+the common-law claim; defeats the fragmentation play; the July conduct becomes aggravation evidence
+inside the existing matter rather than a separate acceptable parcel. Krishnaiah/Ma documentation to
+frame the July period accordingly (aggravating stressor on the existing injury).
+RULE: no claim is lodged on THEIR timetable. Only he can lodge; the push only works if he moves.
