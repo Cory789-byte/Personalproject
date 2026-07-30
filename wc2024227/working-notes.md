@@ -2007,3 +2007,31 @@ the common-law claim; defeats the fragmentation play; the July conduct becomes a
 inside the existing matter rather than a separate acceptable parcel. Krishnaiah/Ma documentation to
 frame the July period accordingly (aggravating stressor on the existing injury).
 RULE: no claim is lodged on THEIR timetable. Only he can lodge; the push only works if he moves.
+
+## 2026-07-31 — NEW FACT (Cory): the 2024 abandonment sequence — Coccetti initiated, Johns signed
+Per Cory (⚠️ verify against the LTR_Abandonment_ShowCause document in the filed bundle):
+**Anne Coccetti** wrote the FIRST letter — the show-cause asking him to give cause why he had not
+abandoned his employment. **He responded stating his intention to return to work** (while holding
+continuous medical certificates). The termination for abandonment then proceeded anyway — signed by
+**Steven Johns as ACTING Executive Director** (confirmed: Firoz email 9 Oct 2024 conveys
+"correspondence from Mr Steven Johns, Acting Executive Director"). Reinstated via TD/2024/110.
+SIGNIFICANCE:
+1. **The show-cause was answered and disregarded.** Abandonment requires an inference of intention
+   to abandon; a written statement of intention to return + continuous certificates directly negates
+   the element. Terminating anyway = the process was run as a formality over its own answer — which
+   is why it could not survive and was reversed.
+2. **Coccetti is NOW the substantive ED of LBHS** — the office that initiated the 2024 exclusion
+   event heads the facility running the 2026 one. Continuity of decision-makers across both events;
+   "unaware at the top" is unavailable — the ED's office carries institutional memory of having run
+   this play once and LOST (reinstatement).
+3. **The authorship-diffusion pattern repeats**: 2024 — senior initiates (Coccetti), stand-in signs
+   the consequential act (Johns, acting). 2026 — line manager initiates (Taylor), junior runs it
+   (Harrison), delegate unnamed. Consequential documents consistently signed by acting/junior
+   figures; initiators consistently absent from the operative signature.
+4. **Section 7.4 reach**: the 2024 termination is pleaded (9A Part F; affidavit ¶43) — if the 2026
+   delegate chain runs to the ED's office, the "person without involvement in those proceedings"
+   request arguably catches Coccetti's office too.
+5. Feeds: union brief (the two-exclusion pattern, same office); GP/reprisal reserve (top-level
+   knowledge + repetition = reasons harder to disprove); Krishnaiah brief (2024 as aggravation,
+   already pleaded).
+ACTION: verify Coccetti's authorship from the show-cause letter in the bundle before any use.
