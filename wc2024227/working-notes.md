@@ -1904,3 +1904,54 @@ THE CHANGE in sufficient detail (10.3.3(b)); (d) whether it STATED REASONS (10.3
 was made (Taylor?); (f) whether any written decision has ever been received.
 If (a)-(d) are satisfied, this becomes the strongest single point in the employment matter and the
 lead item for the union dispute notification.
+
+## 2026-07-30 14:33 — HARRISON HOLDING REPLY (doc 147) + the FULL 7 July Forrest letter (doc 149)
+FILED: 2026-07-30_Harrison_holding_reply_RFMI_delegate_approval.pdf;
+2026-07-07_Forrest_ECC_further_information_FULL.pdf (full text now in hand).
+### TODAY'S REPLY (30 Jul 14:33, ~3.5 hrs after his email): pure holding line.
+1. RFMI "progressing for DELEGATE APPROVAL... unable to guarantee when the approved documentation
+   will be available" → NO questions before the 2pm Friday appointment; deadline will NOT be met.
+2. **FIRST ADMISSION THAT A DELEGATE EXISTS** — still unnamed. Also implicitly concedes the questions
+   do not yet exist in approved form, 27 days after the exclusion.
+3. "Usual process: approved RFMI sent DIRECTLY TO THE EMPLOYEE, who arranges the appointment" —
+   accepts his self-carry election; and NOTE: by their own usual process the EAF was never needed.
+4. **AUDIENCE NARROWED**: reply To Cory, Cc Solv only — Forrest, Heath, Zappia all dropped. (He keeps
+   the full cc list in HIS sends regardless.)
+5. ADDRESSES NONE of: the forms, costs/reimbursement, sequence, origin/10.3, COI, pay, roster,
+   decision-maker. Zero of the asks.
+### THE FULL 7 JULY FORREST LETTER — three significant new items:
+A. **DECISION-BEFORE-REVIEW IN THEIR OWN WORDS**: "As the completed ECC was received late on Friday,
+   3 July 2026, the Health Service was unable to review Dr Hong Ma's medical recommendations at that
+   time" — yet the hold-out was imposed ~3:30pm THAT DAY. Their own letter confirms the exclusion
+   preceded any review. Also: "you have been certified fit to return to work effective from 3 July
+   2026" — CERTIFIED FIT ACKNOWLEDGED IN WRITING.
+B. **THEY ASKED HIM FOR THE 13 FEB 2025 PSYCHIATRIST REPORT** (Dr Ma referenced it in the ECC):
+   "the Health Service has not been provided with, nor had the opportunity to review, this report."
+   ⚠️ This is the Mind & Memory/QSuper report marked "not for medico-legal use" — the same report
+   that surfaced in the Regulator's NNPD package. (i) DO NOT PROVIDE IT — condition-level scope,
+   QSuper purpose, appeal medical evidence; consent stands confined to capacity/restrictions.
+   (ii) MSH stating it has NEVER seen it = more evidence the NNPD copy came from ART/psychiatrist,
+   not MSH; useful for the privacy trail. (iii) Their request confirms the inquiry reaches diagnosis/
+   history, past the restrictions.
+C. **ECC CONTENT NOW VISIBLE (via their table)**: ECC records MDD w/ anxious distress, work-related,
+   onset 18 Jun 2024, symptoms exacerbated by identified workplace stressors: complaint handling;
+   being held accountable/blamed for failures of others; unpredictable rostering. Their responses:
+   - Complaint handling: "no expectation for Switchboard operators to manage or deal with these
+     matters" (redirect to CLS/Manager) → THEY EFFECTIVELY CONCEDE complaint-handling is NOT an
+     inherent requirement — which UNDERMINES any incompatibility case on that restriction AND
+     contradicts the lived practice sworn in the Form 20 (¶¶19-22: complaints came to him and fell
+     to him when the manager was unavailable). Their "process" description vs his sworn reality =
+     the work-as-imagined vs work-as-done gap; for the union/hearing, not correspondence.
+   - Rostering: "not aware of breaching this provision"; rosters 4-week rotation, min 2 weeks'
+     notice; **REPEATS THE 8-HOUR AGREEMENT ADMISSION**: signed 17 Jun 2020, "this is only applied
+     where staff initiated shift swaps have occurred" — the BANKED Form 24-contradicting admission
+     now made TWICE in writing.
+   - Accountable/blamed: "not aware of any concerns being raised" — against the 2023-24 record
+     (grievance, comm book, PID, Form 24 admissions) this is the "no concerns" problem again.
+D. Their closing: "Until this information is available and has been appropriately assessed, the
+   Health Service is not in a position to safely facilitate your return to NORMAL duties" — note
+   "normal duties" (not "any capacity") in the 7 Jul letter; the "any capacity" hardening came later.
+### NET POSITION FOR TOMORROW: attend 2pm as planned; Dr Ma addresses capacity vs the 12 duties;
+forward the response. The record now shows: deadline set against a booked appointment → answered
+with "cannot guarantee"; delegate admitted but unnamed; questions non-existent in approved form.
+4 AUGUST remains the union trigger day.
