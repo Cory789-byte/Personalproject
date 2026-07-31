@@ -38,10 +38,21 @@ Keep **confirmed-against-source** strictly separate from **working-theory**. A m
 
 ## Current status (UPDATE EACH SESSION)
 
-- **2026-06-27 (LIVE):** Rule 64G application **FILED & SEALED 23 June 2026**, served on MSH 24 June; **hearing listed 7 August 2026 before Dwyer, MSH required to attend.** Matter correspondence + the OneDrive "01 FINISHED APPEAL" folder ingested into `evidence-index/`. Full picture + de novo demolition in `skill/references/case-theory-synthesis.md` §15. Renewed Calderbank held until post-production. Evidence source = Gmail + M365/OneDrive connectors (NOT the Trustandcollectiveco Outlook).
-- 64G application v5 built and validated (no case law; full-scale Section G; onus corrected to Appellant; Annexure C = single headed McGinley page). **Filing deadline 12 June 2026.** As of last session: NOT YET FILED.
-- Immediate task: the four pre-filing verifications (Form 24 pinpoints; IRO-as-persuasive-not-binding; onus paragraph; Hawes date 8 Sept not 1 July) + fill address/phone + lodge.
-- Next after filing: index email to Matheson (post-service, written).
+**As at 2026-07-31.**
+
+- **64G / Form 29 — ✅ FILED AND SEALED 23 June 2026** (confirmed by Cory 31 July 2026), served on MSH 24–25 June. MSH's objection (ref K-LM26/729, 5 June 2026, signed Noelle Cridland CE; enquiries Myla Ruttan, Principal Lawyer) is on file, mined, and mirrored at `evidence-index/sources-text/`. **Mention 7 August 2026 before Dwyer; MSH required to attend.** Posture at the mention: ordinary procedural machinery — volunteer nothing about the employment dispute.
+- **Settlement:** Calderbank #2 served **1 July 2026 at 12:16**, addressed to Matheson *and* the OIR appeals registry (service proof filed at `documents/2026-07-01_Cory_Calderbank2_covering_email_SERVICE_PROOF.pdf`); rejected 16 July 2026. Without-prejudice "material development" letter to Matheson **sent** 30–31 July.
+- **Employment track — now the live front.** Excluded from the workplace since 3 July 2026: five weeks, no wages, accrued leave debited, medical costs self-funded. Six-plus position shifts; no instrument ever identified. **31 July 2026, 11:43 — Request for Medical Information (nine questions to Dr Ma), signed Scott Hughes, Director Corporate Services.** Response package built and ready at `drafts/SEND_31JUL/`.
+- **Union:** Together Queensland — Heath Moran (background), Emily Petering (industrial officer). Not engaged on the appeal by their own demarcation; engaged on roster, pay and leave.
+- Matter correspondence + the OneDrive "01 FINISHED APPEAL" folder ingested into `evidence-index/`. Full picture + de novo demolition in `skill/references/case-theory-synthesis.md` §15. Evidence source = Gmail + M365/OneDrive connectors (NOT the Trustandcollectiveco Outlook).
+
+### Immediate tasks
+1. Send the 31 July RFMI response — fill the response date; confirm the February 2026 complaint description at Part 5.2.
+2. Forward the RFMI bundle and the response to Petering and Moran the same day.
+3. **7 August 2026** — 64G mention before Dwyer.
+4. Psychiatrist: **Report A** (MSH-funded — current capacity, functional restrictions, adjustments only) and **Report B** (appeal — causation and chronology) from one shared attendance. Scopes stay separate; Report A is silent on aetiology, as declared to MSH.
+5. Obtain: the clinical note for 24 October 2024 *with consultation time*; the delivery email/timestamp for Review Decision 69983; the psychiatrist referral document and its date.
+6. Verify the last shift actually worked before 2 July 2026 (the 2 July origin document implies the stoppage may predate it).
 
 ## Tooling notes
 
