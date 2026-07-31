@@ -2917,3 +2917,39 @@ prospective identification of external recipients, and the internal handling reg
 ⇒ (d) is the quiet one: it converts the Part 6 conflict question from a procedural inquiry into a
 condition on the provision of his health information. If MSH wants the report, it has to engage with
 who reads it. Document now 8 pages.
+
+## 31 JUL 2026 — PART 6 RESTRUCTURED: NAME THE DELEGATE, DON'T ASK WHO HE IS
+
+Cory's edit: Hughes signed both letters, so asking "who is the delegate" reads as coy, and Hughes
+sits in the direct evidentiary line of the conflict already raised by email.
+
+**RESTRUCTURED.** Was: "(a) who is the delegate...". Now:
+    "I therefore understand Mr Hughes to be the delegate for the decisions those letters describe.
+    **If that is not correct, please identify the officer who is**, and explain who exercises which
+    function."
+⇒ States the apparent position and puts the burden of correction on MSH. They must either CONFIRM
+Hughes (which locks in the conflict) or NAME SOMEONE ELSE (which then requires explaining why the
+letters asserting the decision-making power are signed by someone who is not the decision-maker).
+No vague third answer is available.
+
+**THE CHAIN NOW SET OUT AS THREE NUMBERED FACTS (a)-(c):** Q3 asks the GP about reporting
+arrangements within Corporate Services, of which Hughes is Director; the Manager, Switchboard
+Services who gave the 2 July direction reports within that same directorate; and Hughes is asked at
+Part 4 to determine whether those arrangements are safe and whether adjustments can be accommodated.
+
+**THE LINE THAT LANDS IT:** "The officer determining my return to duty is therefore the Director of
+the directorate in which the direction of 2 July 2026 was given, and the officer to whom the manager
+who gave it reports. **He is not adjacent to the matters in issue; he sits within them.**"
+Still no allegation — every element is a fact about the org chart and about what the letters say.
+
+**QUESTIONS RENUMBERED (d)-(f):** source/instrument of the delegation; whether a conflict has been
+identified, declared and managed; and whether the 2 July direction and the 3 July exclusion were
+made with the knowledge or approval of the officer now determining the return.
+
+**REASSIGNMENT ASK STRENGTHENED:** was conditional ("if a conflict is identified"); now unconditional
+— "I ask that any decision concerning my capacity or my return to duty be made by an officer outside
+Corporate Services."
+
+⚠️ **[DATE] PLACEHOLDER** in the first line — insert the date of the earlier email in which the
+conflict/delegation question was raised. Specific and provable beats "previously". Document now
+8 pages.
