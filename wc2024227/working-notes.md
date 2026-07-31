@@ -2641,3 +2641,47 @@ rebook and hold the Dr Ma consult → Dr Ma answers within scope and, if Q7 is p
 referral → psychiatrist appointment obtained → opinion follows. **None of that occurs within seven
 calendar days, and the first step cannot sensibly occur until MSH confirms which questions it
 presses.** Makes the seven-day deadline impossible on its own terms, without argument.
+
+## 31 JUL 2026 — CORRECTION: THE 24 OCTOBER COINCIDENCE IS DEFEATABLE, AND THE CLAIM DATES
+
+Cory clarifies: the MDD diagnosis was made on 24 October 2024 **before** he received the review
+decision. Same-day coincidence only.
+
+**WHAT THE DOCUMENT ACTUALLY SHOWS** (documents/Review_Decision_69983_24.10.2024.pdf):
+- **Review decision MADE 22 October 2024**; **"Reasons for decision" letter DATED 24 October 2024.**
+  So the decision PREDATES the diagnosis by two days; what coincides is the DATE ON THE LETTER.
+- Issued by **Victoria Squires, Senior Reviewing Officer, Review Unit, Workers' Compensation
+  Regulatory Services**, PO Box 10119 Brisbane. 28 pages.
+- ⚠️ **cc Metro South Hospital And Health Service** and cc WorkCover Queensland. MSH receives the
+  Regulator's decisions in his matter as a matter of course — an established routine channel.
+  CHRONOLOGY ONLY; nothing to be drawn from it, and nothing to be asserted anywhere.
+
+**WHY THE ATTACK FAILS — BUT ONLY ON EVIDENCE:** the letter issued from a Brisbane PO Box. Unless
+emailed early that morning, receipt could not precede a same-day consultation. The "diagnosed in
+reaction to the decision" argument requires a practically impossible sequence.
+**OBTAIN NOW (both easy today, harder later):**
+[ ] The clinical note for 24 October 2024 — time of consultation, presenting complaint, what was
+    recorded.
+[ ] Proof of actual service of the reasons — covering email with timestamp, or envelope/postmark.
+⇒ Once the sequence is documented to the hour, the coincidence becomes an own-goal for whoever
+raises it. Cory cannot prove it by assertion; the CLINICAL RECORD proves it — which is exactly why
+Q1(a) must reach MSH from the practitioner with the course of the condition attached. Drafting
+decision unchanged, now for a better reason.
+
+**CLAIM CHRONOLOGY CORRECTED (from the review decision itself):**
+- Psychological injury **sustained 18 June 2024** — "workplace stress and bullying". Employed
+  full-time as an Administration Officer, Logan Hospital.
+- Application for compensation lodged with WorkCover **1 July 2024**.
+- WorkCover rejected **13 September 2024** (s 32). Four causative factors identified: manager's
+  failure to follow rules; management's failure to take action on an ethical complaint made by him;
+  his payment being withheld; roster guidelines not followed. 1st and 3rd "unable to be
+  substantiated"; 2nd and 4th held to be reasonable management action taken reasonably ⇒ s 32(5)
+  exclusion enlivened.
+- Application for review received by the Regulator **16 September 2024**.
+- Review decision **22 October 2024**; reasons dated **24 October 2024**; WorkCover's rejection
+  confirmed.
+⇒ The 17–18 March 2024 shifts (the "Matter in Issue" pleaded in the Form 29) are STRESSOR EVENTS
+within the claim, NOT the injury date. Earlier working notes loosely treated this as a "March 2024
+injury" — correct that wherever it appears.
+⇒ **FOR THE PSYCHIATRIST BRIEF: the gap to explain is 18 June 2024 → 24 October 2024, ~4 months,
+not 7.** Materially easier to account for clinically.
