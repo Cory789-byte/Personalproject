@@ -1,0 +1,196 @@
+# FORENSIC ANALYSIS — the 2025 Hughes/Taylor history (DFV leave, attendance letter, complaint)
+
+> Source documents supplied 31 July 2026: Att A (DV Aggrieved Confidential Address Form), Att B
+> (leave request chain 12 Mar 2025), Att C (Hughes response 28 Mar 2025), Att D (Magistrates Court
+> Form 44), Att E (meeting cancellation chain 27 Aug 2025), Att F (Hughes letter 8 Sep 2025,
+> 5 pp + attachments), Outlook Doc 155 (Roberts 8 Apr 2025), Outlook Doc 156 (complaint 4 Oct 2025).
+> ⚠️ SENSITIVE — contains domestic violence and court material. Handle accordingly.
+
+## 1. CHRONOLOGY ESTABLISHED ON THE DOCUMENTS
+
+| Date | Event | Source |
+|---|---|---|
+| **2 Dec 2024** | Police Protection Notice lodged against Cory, s 101 DFVPA 2012, Southport Magistrates Court. Case MAG-00196566/24(4) | Att D |
+| **4 Feb 2025** | Chloe Taylor issues "Logan Hospital Switchboard Sick Leave Process" V1.1 | Att F p1 |
+| **24–26 Feb 2025** | Period for which Cory requests DFV leave | Att C |
+| **25 Feb 2025** | Magistrate M Brunello: **"DV APPLICATION IS WITHDRAWN — Conviction not applicable. APPLICATION IS WITHDRAWN, TPO VACATED."** Proper Officer 26/02/2025 | Att D |
+| **12 Mar 2025** | 05:43 Cory → Hughes "Leave request \| confidential attachment", High importance. 06:37 Hughes: "what sort of leave are you requesting?" 07:19 Cory: "Could I please access DV domestic violence leave." 08:38 Hughes: **"Noted thanks"** | Att B |
+| **18–24 Mar 2025** | Absence covered by medical certificate | Att C |
+| **28 Mar 2025 16:03** | Hughes's substantive response — below | Att C |
+| **8 Apr 2025** | Jacqui Roberts has carriage — "Cory Shepherd Reinstatement process". Cory: "I am in the **security office**" | Doc 155 |
+| **14 Apr 2025** | Taylor + Sonya Willmann meet Cory re absence notification process | Att F |
+| **17 Apr – 29 May 2025** | 14 alleged process failures | Att F pp 1–2 |
+| **10 Jun 2025** | Taylor meets Cory again re process | Att F p2 |
+| **22–25 Jun 2025** | 4 further alleged failures | Att F p2 |
+| **25 Jun 2025** | Taylor meets Cory again | Att F p3 |
+| **1 Jul – 17 Aug 2025** | 16 further alleged failures (several court-related) | Att F pp 3–4 |
+| **27 Aug 2025 09:15** | Carla Abbott (Senior Director Support Officer): **"Scott is unwell today and not in the office… we will need to reschedule your meeting today."** 10:41 rescheduled to 3 Sep | Att E |
+| **8 Sep 2025** | **Hughes signs** the attendance/conduct letter (handwritten 08/09/2025). Ref K-FILE-25/2113, enquiries Lyndelle Forrest | Att F p5 |
+| **4 Oct 2025** | **Cory's formal complaint about Hughes** to Ms Jacquie Roberts, A/Director HR Business Partnering, **copied to Heath Moran (Together)** | Doc 156 |
+
+---
+
+## 2. ⭐ FINDING ONE — THE MEETING ATTRIBUTION IS CONTRADICTED BY MSH'S OWN EMAIL
+
+**Hughes, 8 Sep 2025 letter, p4:**
+> "To address these concerns with you and put in strategies to support and assist and improvement,
+> I have attempted to arrange to meet with you on a number of occasions. However, **these meetings
+> have not taken place due to you not being in the workplace**."
+
+**Carla Abbott, Hughes's own office, 27 Aug 2025 09:15:**
+> "Please be advised unfortunately **Scott is unwell today and not in the office**. Apologies for
+> the inconvenience but we will need to reschedule your meeting today."
+
+⇒ At least one meeting did not proceed **because Hughes was absent**, not because Cory was.
+
+⚠️ **CALIBRATE — DO NOT OVERSTATE.** Hughes's own letter lists several meetings (1, 4, 5, 6, 7 Aug
+2025) that were rescheduled because Cory did not attend his shift. So the accurate finding is that
+the statement is **a universal attribution that is materially incomplete and, as to at least one
+occasion, wrong** — not that every meeting failed because of Hughes.
+That is still the point Cory made in his 4 Oct complaint, and it is documented.
+
+---
+
+## 3. FINDING TWO — THE "PERPETRATOR" CHARACTERISATION, AND WHAT THE COURT RECORD SHOWS
+
+**Hughes, 28 Mar 2025:**
+> "You subsequently shared with me you are the respondent in relation to an order against you from
+> your ex-partner. Based on this information, it would appear you may not be entitled to access
+> DFVL. **If you are the respondent to such matters, under our policies, you may be deemed as the
+> perpetrator**, and approval of DFVL in these circumstances is only applicable in certain
+> circumstances."
+
+**What the documents show as at 28 March 2025:**
+- The application against Cory had been **WITHDRAWN** and the **TPO VACATED on 25 February 2025** —
+  31 days earlier (Att D).
+- Cory was separately the **AGGRIEVED**, with Alexia Negro as respondent (Att A, DV Aggrieved
+  Confidential Address Form).
+
+⚠️ **THE CRUCIAL UNRESOLVED QUESTION — ASK CORY:**
+**Did the "confidential attachment" sent to Hughes at 05:43 on 12 March 2025 include the court
+outcome of 25 February 2025?**
+- **If yes** — Hughes had the withdrawal in hand and characterised him as a possible perpetrator
+  anyway. That is serious.
+- **If no** — Hughes acted on what Cory had told him, and the error is explicable, though he should
+  have asked before reaching for "perpetrator".
+This single fact determines how strong the point is. **Do not deploy until answered.**
+
+⚠️ **ALSO UNVERIFIED: Directive 03/20.** Cory's complaint asserts the advice "contravenes the
+directive". **I have not read Directive 03/20 and cannot confirm it.** Some DFV directives address
+employees who use violence separately, and may provide for support rather than exclusion. The
+position may be more nuanced than "factually incorrect". **Read the directive before relying on
+this.**
+
+---
+
+## 4. FINDING THREE — HUGHES IS THE SUBJECT OF A DOCUMENTED COMPLAINT BY CORY
+
+On **4 October 2025** Cory made a formal written request for review to **Ms Jacquie Roberts,
+A/Director HR Business Partnering**, expressly concerning the process "initiated by my Director,
+Mr. Scott Hughes", **copied to Heath Moran of Together**. It sought, among other things, "an
+independent review into management's handling of my confidential disclosure and request for DFV
+Leave".
+
+⇒ **Hughes is the subject of a formal complaint made by the employee whose capacity and return he
+is now determining.** That is no longer an inference from the org chart. It is a dated document
+with an addressee and a union witness.
+
+**This is the strongest available basis for the reassignment request in Part 6 of the 31 July
+response.**
+
+---
+
+## 5. ⚠️ FINDING FOUR — TWO ERRORS IN CORY'S OWN 4 OCTOBER COMPLAINT
+
+These must be corrected before any of this is relied on again.
+
+1. **The 8 September letter is NOT a Performance Improvement Plan.** The complaint calls it "a
+   performance improvement plan initiated by my Director". The letter itself says only that
+   continued non-adherence "**may be grounds to consider initiating** a Performance Improvement
+   Plan (PIP)". It is a letter raising attendance and conduct concerns, directing training, and
+   foreshadowing a PIP. Describing it as a PIP is a mischaracterisation MSH could exploit.
+2. **The date.** The complaint says the plan was initiated "September 10, 2025"; the letter is
+   signed **08/09/2025**. Probably receipt vs signature — but use the signed date.
+
+---
+
+## 6. ⚠️ THE HONEST WEAKNESS — THE 34 OCCASIONS
+
+Cory has said candidly that not every assertion is true but that he was struggling with lateness
+and with the change in who to notify. The documents must be read with that in mind.
+
+Att F documents **34 alleged process failures** between 17 April and 17 August 2025, each with a
+date, a time, and an attachment reference. Many are corroborated by Cory's own texts and calls.
+
+**This is a real vulnerability.** If the Feb–Aug 2025 period is ever put in issue, MSH holds a
+detailed, contemporaneous, attachment-backed attendance record.
+
+⭐ **BUT THE REFRAME IS AVAILABLE, AND IT IS HONEST.** Several listed "failures" are expressly
+court-related — 21 Jul ("due to court"), 1 Aug ("you had won your court case"), 4 Aug ("you were at
+the courthouse"). And on 1 Jul 2025 a fatigue-leave request was **declined "on the grounds that the
+'fatigue' experienced was due to personal circumstances and not work related"**.
+
+So during a disclosed DV and court period, MSH: applied recreational leave rather than the leave
+requested; declined fatigue leave; counted court attendances among 34 "failures"; and warned about
+disciplinary action under HR Policy E4.
+
+**The point is not that there were no attendance problems. There were. The point is that the
+employer's response to a disclosed crisis was to count its consequences as performance failures.**
+
+---
+
+## 7. WHAT THE DOCUMENTS DO *NOT* ESTABLISH
+
+- **The "isolation in another department".** Doc 155 (8 Apr 2025) records Cory writing "I am in the
+  security office", in a thread headed "Cory Shepherd Reinstatement process" with Jacqui Roberts.
+  That corroborates that he was located outside Switchboard in April 2025. It does **not** document
+  who decided it, why, or that Hughes and Taylor acted together to bring it about.
+  [ ] If that decision exists in writing, it has not been supplied. Look for it.
+- **"Immediately following this offer, the meeting was cancelled."** The complaint asserts Cory
+  offered documentation on 27 Aug and the meeting was then cancelled. The Att E chain supplied
+  begins with the 09:15 cancellation. **Cory's offer email is not in what was provided.**
+  [ ] Locate it, or drop the "immediately following" framing.
+
+---
+
+## 8. WHAT THIS CHANGES FOR THE 31 JULY 2026 RESPONSE
+
+**RECOMMENDED — one sentence into Part 6**, resting only on the fact of the complaint:
+
+> "I should record, so that the conflict can be properly assessed, that on 4 October 2025 I made a
+> formal written request for review to the A/Director, Human Resources Business Partnering,
+> concerning a process initiated by the officer who has signed the letters of 31 July 2026. My
+> union was copied. I do not seek to reopen that matter and make no submission about it here. I
+> record it only because it bears on whether a conflict of interest exists and how it must be
+> managed."
+
+**⚠️ THE RISK, STATED PLAINLY:** raising the complaint may prompt MSH to reach for the 8 September
+2025 letter and its 34 occasions. Against that: **MSH already holds that letter** — it is on his
+file and available to them whether or not he mentions the complaint. And the complaint is a fact
+about *conflict*, not about attendance.
+
+**❌ WHAT MUST NOT GO IN:** the DFV history, the court material, Attachments A–D, the "perpetrator"
+characterisation, and the attendance allegations. All of it is personal, contested, and irrelevant
+to a reasonable adjustment inquiry. It belongs with the union and in the reserved general
+protections file.
+
+---
+
+## 9. FOR THE UNION BRIEF (Petering / Moran)
+
+Moran was copied on the 4 October 2025 complaint — **Together already holds this history.** That is
+significant: Petering can be brought up to speed from her own organisation's file rather than from
+Cory's account.
+
+The industrial narrative is now continuous: **Mar 2025** DFV leave refused and recreational leave
+applied instead → **Apr–Aug 2025** attendance counted against him through the crisis → **Sep 2025**
+letter signed by Hughes → **Oct 2025** complaint about Hughes, unresolved so far as the documents
+show → **Jul 2026** the same officer excludes him for five weeks and signs the request determining
+his return.
+
+## 10. TO ESTABLISH
+- [ ] Did the 12 Mar 2025 confidential attachment include the 25 Feb 2025 court outcome?
+- [ ] Read Directive 03/20 before asserting the DFVL advice was wrong.
+- [ ] Jacquie Roberts's response to the 4 Oct 2025 complaint — was there one? Any outcome?
+- [ ] Anything in writing recording the decision to place him outside Switchboard in Apr 2025.
+- [ ] Cory's 27 Aug 2025 offer-of-documentation email.
