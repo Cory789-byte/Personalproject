@@ -1,3 +1,7 @@
+*** SUPERSEDED — DO NOT SEND ***
+Replaced by RFMI_RESPONSE_EMAIL.txt + RFMI_Response_and_Allocation_MSH-INJ-5795.pdf.
+Kept only for drafting history.
+
 To: lbh_InjuryManagement@health.qld.gov.au
 Cc: LBH.HRTeam1@health.qld.gov.au
 Subject: Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073] — scope of the request, delegation, and continuation of exclusion
