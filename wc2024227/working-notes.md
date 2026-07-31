@@ -2551,3 +2551,45 @@ work, being the purpose MSH itself stated.
 ⚠️ WORDING DISCIPLINE PRESERVED: uses the safe formulation "I was told on 2 July 2026 that my return
 to work could not be facilitated until a completed ECC was provided" — NOT a claim about which shift
 was last worked, which remains unresolved (see the 2 July origin-document note).
+
+## 31 JUL 2026 — HUGHES IS ANSWERABLE FOR TAYLOR: THE CONFLICT BECOMES SPECIFIC
+
+Cory's point: Chloe Taylor's line runs to Scott Hughes. He approves her actions. He is answerable
+for them. That converts the conflict from structural to specific, and it is the version that cannot
+be answered.
+
+**THE FINDING HE WOULD HAVE TO MAKE.** To decide this matter correctly, Hughes must find that a
+direction issued within his own reporting line — requiring a document so that Cory could work — was
+then used to refuse him work. **No decision-maker can be expected to make that finding against his
+own direct reports.** That is not a theoretical apprehension of bias; it is a specific, identifiable
+finding, adverse to his own directorate, that the decision requires.
+
+**RATIFICATION.** Before 31 July the exclusion was arguably the act of subordinates. By signing the
+two letters, a **Director** has adopted its continuation. He held the authority to end it — he could
+have directed a return to roster — and instead signed a request for further medical information.
+From 31 July the position is his.
+
+**CONSTRUCTIVE KNOWLEDGE.** Even on the most favourable view (arrived during the restructure,
+briefed one-sidedly), a Director who signs a letter to an employee's treating doctor is taken to
+have satisfied himself of its contents — including "the Health Service is not aware of any concerns
+being raised."
+
+**WHAT WENT INTO THE DOCUMENT (Part 6):**
+- The factual chain, asserting nothing: the Manager, Switchboard Services who issued the 2 July
+  direction reports within Corporate Services; the signatory of the 31 July letters is the Director
+  of that directorate; the officer now determining the return is therefore the officer to whom the
+  manager who issued the direction reports.
+- NEW question (d): **"whether the direction of 2 July 2026, and the decision of 3 July 2026 by
+  which I was excluded from the workplace, were made with the knowledge or approval of the officer
+  now determining my return to duty."**
+  ⭐ Cannot be answered well: "yes" ⇒ he is a participant, not an independent delegate; "no" ⇒ he is
+  deciding on conduct in his own line he was unaware of; no answer ⇒ the failure to manage under
+  cl 1.2 is documented.
+- The remedy asked for: **that any decision concerning capacity or return to duty be made by an
+  officer outside Corporate Services** — "Metro South Health is a large organisation and I do not
+  anticipate that this would present any difficulty." (Forecloses "no one else available." NOTE for
+  the union brief only: MSH's own 5 June objection puts its headcount at ~20,006 MOHRI.)
+- Added to the Part 10 response list as item 2.
+
+⚠️ DISCIPLINE: nowhere asserted that Hughes approved the 2 July direction — that is unknown, and is
+put as a question. The reporting relationship is stated as fact because it is one.
