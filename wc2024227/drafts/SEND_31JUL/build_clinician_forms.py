@@ -158,11 +158,11 @@ build(OUT+"FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf",
        ("8", "Are there specific tasks, situations or environments (for example high-pressure settings, "
              "shift work, patient acuity) that may exacerbate Mr Shepherd's condition or symptoms?",
         "The role is a continuous shift working role covering multiple shifts over a 24/7 period.", 36*mm),
-       ("9", "Mr Shepherd reports that his anxiety rises as a rostered shift approaches and peaks at the "
+       ("9", "Mr Shepherd reports that distress rises as a rostered shift approaches and peaks at the "
              "point of entering the workplace, and that this has resulted in lateness and in late notice "
-             "of absence. Could you please address, in functional terms, whether anticipatory anxiety of "
-             "that kind is a feature of his condition, and what its effect on attendance and punctuality "
-             "would be expected to be.", None, 40*mm),
+             "of absence. Could you please address, in functional terms, whether distress of that kind "
+             "in anticipation of attendance is a feature of his condition, and what its effect on "
+             "attendance and punctuality would be expected to be.", None, 40*mm),
        ("10", "Having regard to your answer to question 9, Mr Shepherd has raised for consideration a "
               "sequence of (i) a telephone call one hour before each rostered shift to confirm "
               "attendance, (ii) a second call if the first is not answered or attendance is not "
