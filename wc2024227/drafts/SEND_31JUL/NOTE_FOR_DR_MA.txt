@@ -26,14 +26,26 @@ Question 2 on its current premise.
 
 2. THERE IS A LIVE LEGAL PROCEEDING.
 
-WC/2024/227 concerns whether my psychological injury is work-related. Several of the questions —
-in particular the date of first diagnosis, and whether the workplace stressors rest on my
-self-report or on your clinical assessment — go to the issues in that proceeding rather than to
-any workplace adjustment. I have asked that those be withdrawn.
+WC/2024/227 concerns whether my psychological injury is work-related.
 
-Anything you write in answer to this request becomes a document in the employer's hands. Please
-keep your answers to what is clinically necessary for the stated purpose, which is identifying
-workplace controls and adjustments.
+I have asked that only one question be withdrawn — Question 1(b), which asks for the clinical
+basis on which the workplace stressors are identified as contributing to my condition. That is
+the very issue in the proceeding, it is a psychiatric question rather than a general practice
+one, and it is not needed to work out what adjustments I require. Please do not answer it unless
+the Health Service confirms it presses it, and I will tell you if it does.
+
+I have answered Question 1(a) myself: the diagnosis was made on 24 October 2024.
+
+I have consented to Question 1(c). You can say whether your view rests on what I have reported or
+on your own clinical assessment, and confirm what reports you hold and have relied on. Please
+answer only as to your own file — you are not in a position to say what material others may hold,
+and you should not be asked to.
+
+Anything you write in answer to this request becomes a document in the employer's hands, and may
+be seen by other parties. Please keep your answers to what is clinically necessary for the stated
+purpose, which is identifying workplace controls and adjustments, and please do not offer an
+opinion on the cause or origin of my condition. If a question invites one, it is enough to say
+that it falls outside the scope of this report.
 
 3. SOME QUESTIONS ARE NOT PROPERLY YOURS TO ANSWER.
 
@@ -42,19 +54,21 @@ functional cognitive opinion is properly a psychiatrist's. If you consider any q
 your scope, the correct and complete answer is to say so and to indicate what specialist input
 would be required — please do not answer beyond your scope to be helpful.
 
-I have told the Health Service I am willing to obtain a treating psychiatrist's opinion on those
-questions, at their cost, and have asked them to confirm which they press. If a referral is
-appropriate, I would be grateful for one — but the referral should be confined to my current
-capacity, my functional restrictions and the adjustments I need. It should not extend to the
-cause or origin of my condition, which is the subject of the legal proceeding and is being dealt
-with separately.
+I already have a treating psychiatrist and have told the Health Service I will obtain his opinion
+on the questions that need one — Question 7, the clinical context for Question 1(a), and Question
+1(c) as it applies to his own assessment. That is at their cost. No referral from you is needed
+for that, but if you consider one appropriate I would be grateful.
 
 WHAT I AM ASKING OF YOU
 
-Only the four questions that genuinely concern adjustment: Q1(d) foreseeable risk and the controls
-you consider medically necessary; Q4 the restrictions or adjustments you recommend, in functional
-terms, with duration and review date; Q5 what "complaint handling" means; and Q8 what tasks or
-environments may exacerbate my condition.
+Five questions:
+  Q1(c)  whether your view rests on my report or on your own clinical assessment, and what
+         reports you hold and have relied on (your own file only);
+  Q1(d)  foreseeable risk on return, and the controls you consider medically necessary;
+  Q4     the restrictions or adjustments you recommend, in functional terms, with anticipated
+         duration and a review date;
+  Q5     what "complaint handling" means as a clinical restriction; and
+  Q8     what tasks, situations or environments may exacerbate my condition.
 
 On Q5, it may assist to know that the Health Service has itself stated, in the same letter, that
 complaints received by Switchboard staff are escalated to the Client Liaison Officer and/or the
