@@ -28,8 +28,9 @@ IN SUMMARY
      operates, and which the Role Description does not require of me in any event.
   6. I ask for an extension of the seven days, and explain at Part 8 why that period cannot be
      met on the Health Service's own question set.
-  7. I ask who the delegate is, and that any decision about my return be made by an officer
-     outside Corporate Services.
+  7. I ask who the delegate is, and propose at Part 6.1 how the conflict can be managed: the
+     medical information held exclusively by Injury Management, the decision made outside
+     Corporate Services, and implementation retained within it.
   8. My proposal for returning to work is at Part 7. Part 10 lists what I ask the Health
      Service to confirm.
 
@@ -488,9 +489,30 @@ So far as I am aware, every decision concerning my attendance, my pay and my ret
 since 2 July 2026 has been made within Corporate Services. If that is not correct, I would be
 grateful to be told who else has been involved.
 
-I ask that any decision concerning my capacity or my return to duty be made by an officer
-outside Corporate Services. I am not asking that anyone be found to have done anything wrong. I
-am asking that the decision be made by someone who is not within the arrangements it concerns.
+6.1  A PROPOSED MANAGEMENT OF THE CONFLICT
+
+I do not ask that Corporate Services be removed from the management of my employment. I propose
+that two functions be separated, which is the ordinary way a conflict of this kind is managed:
+
+  (a) **THE MEDICAL INFORMATION** — held exclusively by the Injury Management team, Human
+      Resources, on a medical-in-confidence basis. Corporate Services would not hold, and would
+      not have access to, the clinical material. This is also what the Employee Capabilities
+      Checklist itself recommended on 3 July 2026, at Additional Comments 4(c): "return-to-work
+      coordination and correspondence through the Injury Management team, Human Resources."
+
+  (b) **THE DECISION** — any decision concerning my capacity or my return to duty made by an
+      officer outside Corporate Services.
+
+  (c) **IMPLEMENTATION** — Corporate Services retains the operational role: rostering me,
+      putting in place whatever adjustments are decided, and the ordinary day-to-day management
+      of my work. My line manager would receive the adjustments to be implemented, not the
+      clinical information behind them.
+
+The officer steps out of the decision, not out of the workplace. This requires no restructuring,
+removes no one from the management of my employment, and requires no finding to be made about
+anyone. I am not asking that anyone be found to have done anything wrong. I am asking that the
+decision be made by someone who is not within the arrangements it concerns.
+
 Metro South Health is a large organisation and I do not anticipate that this would present any
 difficulty.
 
@@ -686,7 +708,8 @@ I ask accordingly that any medical information I provide be:
   (c) accessible within the Health Service only to those who require it in order to determine
       what adjustments can be made; and
   (d) considered, for the purpose of any decision about my capacity or my return to duty, by an
-      officer in relation to whom no conflict of interest arises, consistent with Part 6 above.
+      officer in relation to whom no conflict of interest arises, consistent with the separation
+      of functions proposed at Part 6.1.
 
 I raise this in the ordinary way, and not as a criticism of anyone's handling to date.
 
@@ -718,8 +741,9 @@ I ask for a written response confirming:
      exclusion and whether the period will be treated as paid special leave with my leave
      re-credited;
   2. the delegate, the source of the delegation, how any conflict of interest has been
-     identified and managed, and that any decision concerning my capacity or my return to duty
-     will be made by an officer outside Corporate Services;
+     identified and managed, and whether the separation of functions proposed at Part 6.1 is
+     agreed — the medical information held exclusively by Injury Management, the decision made
+     outside Corporate Services, and implementation retained within it;
   3. whether any performance or conduct process concerning me is on foot or contemplated;
   4. which duties of my role the Health Service says are genuine occupational requirements;
   5. whether the Health Service will conduct the workplace risk assessment;
