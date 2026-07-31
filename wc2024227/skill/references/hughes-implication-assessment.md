@@ -49,8 +49,8 @@ verify.
 | 5 | In the same letter he **substituted recreational leave** — *"I have applied recreational leave"* | AttC |
 | 6 | In the same letter he **routed approval of that substitute to Taylor** — *"many factors **Chloe** does need to take into consideration"* | AttC |
 | 7 | In the same letter he raised **HR Policy E4** and warned *"this may result in **disciplinary action**"* | AttC |
-| 8 | He held **Attachment A naming Cory the aggrieved from 12 March** — **16 days** before writing "perpetrator" | AttA + AttB |
-| 9 | The application against Cory had been **withdrawn and the TPO vacated on 25 Feb 2025** — **31 days** before | AttD |
+| 8 | ⛔ ~~He held Attachment A naming Cory the aggrieved from 12 March — **16 days** before writing "perpetrator"~~ **SUSPENDED — see §3D.3** | AttA + AttB |
+| 9 | ⛔ ~~The application had been **withdrawn and the TPO vacated on 25 Feb 2025** — **31 days** before~~ **SUSPENDED — Cory told Hughes on 23 Mar of a *final court date on 4 April*. Something was still on foot. DO NOT RUN until the court chronology is established.** | AttD + 23 Mar email |
 | 10 | He signed the **8 Sep 2025 attendance letter**: 34 dated entries, foreshadowing a performance plan | AttF |
 | 11 | That letter contains a **material misattribution** — *"these meetings have not taken place **due to you not being in the workplace**"*, when the 27 Aug meeting was cancelled because **"Scott is unwell today"** | AttE + AttF |
 | 12 | He is the **subject of the 4 Oct 2025 complaint** to the A/Director HR Business Partnering | complaint, filed |
@@ -294,6 +294,72 @@ in the access system** — the systems counterpart to "supernumerary" (§3B.2). 
 went to **Hughes** and **Chloe Tyler** *(note: Tyler, not Taylor — a different person)*.
 [ ] **Was a position ever assigned, and to which cost centre / location?** That record would answer
 the placement question directly.
+
+---
+
+## 3D. ⚠️⚠️ MARCH 2025 READ IN FULL — ONE FLAG CLEARED, ONE SERIOUS PROBLEM
+
+### 3D.1 ✅ THE 19 MARCH "PROPOSED ROSTER" IS INNOCUOUS — FLAG WITHDRAWN
+I flagged this as sitting ominously in the window before the perpetrator letter. **It is benign.**
+> **Hughes → Cory, 19 Mar 2025 15:01, cc Taylor:** "Good afternoon, Cory. **I received your sick cert
+> Thanks. Your roster attached, hope you are feeling better see you Monday.**"
+
+It is the roster **Cory asked him to send to his personal email on 3 March**, delivered as promised,
+with a get-well line. ❌ **Withdraw the flag. It supports nothing adverse.**
+
+### 3D.2 ✅ TC ALFRED IS CORROBORATED — DO NOT TREAT THE 16-DAY GAP AS INDIFFERENCE
+> **Cory → Hughes, 10 Mar 2025:** "I live on the Gold Coast and **just got power back**. **My car was
+> completely submerged in the underground car park at Royal Pines** and… the trains are not running
+> due to the weather."
+
+Hughes's 28 March explanation — *"I have been fully immersed in everything **TC Alfred** across the
+Health Service"* — is **corroborated by Cory's own email**. ⚠️ **The 12→28 March delay has an
+innocent explanation on the record. Do not press it as neglect.**
+
+### 3D.3 ⚠️⚠️ THE COURT CHRONOLOGY IS UNRESOLVED — AND THE "PERPETRATOR" FINDING DEPENDS ON IT
+> **Cory → Hughes, 23 Mar 2025:** "I am still under extreme emotional distress and will need more
+> time to recover. **I have the final court date on the 4th of April 2025.** I will need time off
+> until after this and everything has passed."
+
+**The record now contains at least four distinct court events:**
+| 25 Feb 2025 | Court hearing (*"I have a court hearing tomorrow"*, 24 Feb) — and **AttD: application withdrawn, TPO vacated** |
+| 10 Mar 2025 | *"My case today was also **canceled**"* |
+| **4 Apr 2025** | *"the **final court date**"* |
+| Later 2025 | Att F, 1 Aug: *"you had **won your court case**"* |
+
+⛔ **THIS BREAKS A FINDING I RECORDED.** I stated that when Hughes wrote *"you are the respondent in
+relation to an order against you from your ex-partner"* on **28 March 2025**, the matter had been
+**concluded on 25 February** — and built a **31-day interval** on it.
+
+**That is not safe.** Cory's own email of **23 March** tells Hughes there is a **final court date on
+4 April** — i.e. **something was still on foot five days after the perpetrator letter.** If a
+proceeding in which Cory was the respondent remained live on 28 March, then **Hughes's statement may
+have been accurate as at that date**, and the interval argument collapses.
+
+**Possible reconstructions — none established:**
+1. **Two proceedings** — one against Cory (withdrawn 25 Feb) and a separate or cross-application
+   running to 4 April. Then the interval point survives **only if Hughes was referring to the
+   withdrawn one**.
+2. **One proceeding**, part-heard: TPO vacated 25 Feb but the substantive application adjourned to
+   4 April. Then **Hughes was describing a live matter and the finding fails.**
+3. Something else.
+
+### ⛔ INSTRUCTION
+**Do not run the "perpetrator" point — the 16-day and 31-day intervals, or the claim that the matter
+was over — until the court chronology is established from the court record itself.**
+It is currently the most-cited finding in this file and **it rests on an assumption the record now
+contradicts.** If it is put and it is wrong, it discredits everything around it.
+
+[ ] ⭐ **PRIORITY — obtain the Magistrates Court file:** every application, respondent/aggrieved on
+each, filing dates, and the **outcome of 4 April 2025**.
+[ ] Re-read **Attachment A** (naming Cory the aggrieved) and **Attachment D** and establish **which
+application each relates to**.
+[ ] Only then decide whether §2 items 8 and 9 survive.
+
+⚠️ **What survives regardless:** the **substitution** of recreational leave for DFVL (§3.3 of
+`taylor-DFV-disclosure-to-Matheson.md`), the **routing to Taylor**, the **E4 disciplinary warning**,
+the **absence of any Directive 03/20 support response**, and the **email-recovery inaction (§3A)**.
+**None of those depend on the court chronology.**
 
 ---
 
