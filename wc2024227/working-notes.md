@@ -2778,3 +2778,56 @@ advance objection is there.
 **HOUSEKEEPING:** removed a stale cross-reference ("paragraph 3 of my letter") left over from the
 earlier single-letter draft; corrected the covering email's pointer to the proposal from Part 6 to
 Part 7. All remaining cross-references verified against the current structure.
+
+## 31 JUL 2026 — ASSUME REPORT A REACHES THE REGULATOR. THE SCOPE LIMIT IS A FILTER, NOT A SHIELD.
+
+Cory's point, and it corrects an earlier framing of mine: whatever goes to MSH will reach the
+Respondent regardless.
+
+**HE IS RIGHT. THE BASIS:**
+- Review Decision 69983 is **cc'd to Metro South Hospital And Health Service** — the Regulator sends
+  MSH its decisions in this matter as a matter of course.
+- MSH is an active participant in the proceeding as a non-party (5 June 2026 Form 29 objection, CE
+  signature, Metro South Legal engaged).
+- A medical report about him has already reached this proceeding once (the 13 Feb 2025 Mind and
+  Memory report, surfaced in another party's disclosure material).
+- Disclosure runs both ways; an NNPD to MSH for his employment/medical file is available to anyone.
+⇒ **Assume anything MSH holds is available to the Regulator.**
+
+**CORRECTED FRAMING.** The scope limit on Report A was earlier justified partly as keeping it out of
+their hands. Wrong. The real protection is: **not that they won't see it — that there is nothing in
+it for them to use.** Confined to current capacity, functional restrictions and adjustments, Report
+A says nothing about the contested s 32 question. They can read every word and be no further
+forward.
+⇒ This makes the scope limit MORE important, not less. The alternative — a causation-ranging report,
+generated inside MSH's framing, answering questions designed to test whether the stressors are
+"solely self-report", landing with the Respondent — would be his own document damaging his case.
+
+**REPORT B IS GENUINELY PROTECTED.** Commissioned by Cory for the dominant purpose of the
+litigation ⇒ **litigation privilege**. MSH never holds it and cannot pass on what it does not have.
+Disclosable only if he elects to rely on it. ⚠️ If an NNPD were ever served on the psychiatrist for
+"all records concerning Cory Shepherd", there would be a privilege claim to make — manageable, not
+costless. Two-report structure survives the assumption that Report A goes everywhere.
+
+**⭐ THE CONTROL THAT NOW MATTERS MOST IS THE BRIEF TO THE PSYCHIATRIST.**
+Report A must be instructed expressly: answer capacity and adjustment questions ONLY; **do not
+comment on cause or origin, even in passing**; if a question invites it, state that it falls outside
+the scope of the report.
+A well-meant throwaway ("his condition arose from workplace bullying") would FEEL helpful and would
+be dangerous — an unreasoned causation statement in a document not prepared for that purpose, later
+sitting beside the reasoned opinion in Report B. That inconsistency is exactly what gets read to a
+witness in cross-examination.
+
+**ADDED TO PART 9 — "USE OF THE INFORMATION":** asks MSH to confirm the information will be used
+only for the stated purpose, and to **identify any person or entity outside the Health Service to
+whom it is proposed to be provided** — prospectively, "before the information is obtained rather
+than after." Framed as an ordinary question about the handling of health information; no reference
+to the Mind and Memory history.
+⇒ Either-way value: confirmation gives a written use limitation; refusal or silence is itself a
+document, and signals what is coming.
+
+**THE UPSIDE, WHICH IS REAL:** a properly scoped Report A that finds him FIT TO WORK WITH ADJUSTMENTS
+and identifies workplace features as what require control is (a) evidence the condition is real and
+ongoing, (b) evidence he is fit and willing to return — which supports the ongoing-detriment framing
+and forecloses any suggestion he is not trying — and (c) funded by MSH. Reaching the Regulator is
+not necessarily bad; it is bad only if it is unscoped.
