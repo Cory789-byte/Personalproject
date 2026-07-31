@@ -257,3 +257,99 @@ authority for something already done.**
       speaks of a *"return to work"*. **The gap between is undetermined and matters.**
 - [ ] Confirm whether the 3 July 15:18 question was ever answered in any channel.
 - [ ] The **7 July Forrest letter** — read against §2.6(3).
+
+---
+
+# PART 5 — THE 30/31 JULY METADATA, RESOLVED (added 31 Jul 2026)
+
+## 5.1 The base layer proves the PDF did not exist before 11:10:27
+Recovered `rev1` — the layer beneath any signature — for both letters:
+
+| | GP letter | Employee letter |
+|---|---|---|
+| **Producer / CreatorTool** | Microsoft® Word for Microsoft 365 | Microsoft® Word for Microsoft 365 |
+| **CreateDate** | **31 Jul 2026 11:10:27 +10:00** | **11:11:02 +10:00** |
+| **ModifyDate** | **11:10:27** — *identical* | **11:11:02** — *identical* |
+| **DocumentID** | `uuid:9398CC9E-…` | `uuid:CC55D510-…` |
+| **InstanceID** | `uuid:9398CC9E-…` — ***identical to DocumentID*** | `uuid:CC55D510-…` — ***identical*** |
+
+**CreateDate == ModifyDate and DocumentID == InstanceID is the signature of a virgin export.**
+
+⇒ ❌ **"Hughes had the PDF and could have signed it earlier" is NOT established, and should not be
+asserted.** No PDF existed before 11:10:27 on 31 July. What existed on 30 July was a **Word file**.
+⇒ ❌ **It was not a "re-save".** It was a **fresh export from Word**.
+
+## 5.2 `rev3` — the signature, 75 seconds later
+| | GP | Employee |
+|---|---|---|
+| CreateDate | **11:10:27** *(unchanged)* | **11:11:02** *(unchanged)* |
+| **ModifyDate / MetadataDate** | **11:11:42** | **11:11:27** |
+| DocumentID | unchanged | unchanged |
+| **InstanceID** | **changed** → `uuid:4cc5e3fb-…` | **changed** → `uuid:54bc187e-…` |
+
+⇒ The same PDF, modified 75 / 25 seconds after its own creation. `/ADBE_FillSignInfo` added; a
+**stored 1000×398 px JPEG at 624 dpi, byte-identical in both files**, placed on the signature page.
+
+## 5.3 ⭐ THE PROVABLE FINDING — the whole lifecycle is 31 minutes 11 seconds
+| 11:10:27 | GP letter exported from Word |
+| 11:11:02 | Employee letter exported — **35 seconds later** |
+| 11:11:27 | Employee letter signed |
+| 11:11:42 | GP letter signed |
+| 11:41:38 | Both transmitted |
+
+Two documents exported 35 seconds apart and signed within 75 seconds of their own creation:
+**one person, one machine, one continuous sitting.**
+
+## 5.4 ⭐⭐ AND THE "DELEGATE APPROVAL" HAS NO FOOTPRINT
+> **Harrison, 30 Jul 2026 14:33:** "we are currently progressing the Request for Medical Information
+> (RFMI) correspondence **for delegate approval**… **we are unable to guarantee when** the approved
+> documentation will be available for release."
+
+There is **no PDF from 30 July**, **no earlier revision**, and **no evidence the document was ever
+rendered and circulated for approval**. Text is **identical across all three revisions**.
+
+⇒ **Whatever that process was, it left nothing in the file, and it produced no amendment.** The
+delegate's approval, when it came, was a **stored signature image applied 75 seconds after the
+document was first rendered.**
+⇒ **This is the version to run.** It needs no inference about anyone's motive, and it is airtight.
+
+⚠️ **The fair question, put neutrally:** *on 30 July the Health Service was unable to indicate when
+the documentation would be available; it issued the following morning. Please confirm what the
+delegate approval step involved and on what date it occurred.* Either they date it — which invites
+the 75 seconds — or they decline.
+
+---
+
+## 5.5 ⛔ WT-2026-07-31 — REMAINS CLOSED, IN BOTH ITS FORMS
+
+**Form 1 (forwarded email):** requires Matheson to have forwarded the WP letter to MSH within 24
+minutes. **No evidence. Closed.**
+
+**Form 2 (telephone call), raised 31 Jul 2026:** that Matheson read the 10:46 letter and telephoned
+MSH. ⚠️ **Mechanically plausible — 24 min 27 sec is ample — but it is a WEAKER forensic position,
+not a stronger one:**
+
+1. **It is unfalsifiable on the documents.** A forwarded email leaves a header, a timestamp and a
+   recipient. **A call leaves nothing.** A hypothesis reformulated so that no document can test it
+   has stopped being a forensic finding.
+2. ⚠️⚠️ **It is a grave allegation against the Regulator, not against MSH.** It asserts that the
+   **Senior Appeals Officer** read a **without-prejudice settlement communication** in a live appeal
+   from a self-represented appellant and immediately telephoned the **employer — a non-party** — to
+   prompt action against him. That engages **model litigant obligations**, **without-prejudice
+   privilege**, and the **Regulator's independence**. **It cannot be advanced on a coincidence.**
+3. **The innocent explanation is very strong.** Thursday afternoon: "we can't say when." Friday
+   morning: the delegate clears his queue. **That is the most ordinary sequence in any bureaucracy**,
+   and it fits every byte of the metadata.
+4. **The cost of being wrong is severe** — Matheson holds carriage of the appeal and is the
+   counterparty to the settlement. An unfounded allegation of this kind forfeits the restrained
+   posture that is currently working.
+
+### [ ] WHAT WOULD ACTUALLY EVIDENCE A CALL — obtain before ever forming a view
+- [ ] **Matheson's file notes for 31 July 2026.** Regulators routinely file-note calls. **The
+      Regulator's file is disclosable in the appeal.** This is the single cleanest test.
+- [ ] **MSH's Solv / injury management case notes for MSH-INJ-5795, 30–31 July 2026** — a
+      contemporaneous entry would show what prompted release and when approval occurred.
+- [ ] Telephone records — theoretically available, practically a fishing expedition. **Do not seek.**
+
+⇒ **Until a file note or case note says otherwise: record, do not assert. Not in correspondence,
+not in a filing, not to the union.**

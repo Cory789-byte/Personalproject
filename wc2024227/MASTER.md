@@ -225,7 +225,19 @@ guidelines and procedures**".
 ⇒ Now in the response at **Part 4.2** — with no reference to patient safety, the PID, or the subject
 matter of any complaint.
 
-### 3.13 ⛔ THE 31 JULY TIMING INFERENCE — CLOSED
+### 3.13 ⛔ THE 31 JULY TIMING INFERENCE — CLOSED IN BOTH FORMS
+⚠️ **Form 2 raised 31 Jul 2026 — that Matheson *telephoned* MSH rather than forwarding.**
+Mechanically plausible (24 min 27 sec is ample) but **forensically weaker**: a call leaves **no
+artefact**, so the theory has been reformulated into a shape **no document can test**. And it is a
+**grave allegation against the Regulator, not MSH** — that the Senior Appeals Officer read a
+**without-prejudice** communication in a live appeal and telephoned a **non-party employer**.
+**Do not advance it.** Test it first against **Matheson's 31 July file notes** (disclosable) and
+**MSH's Solv case notes for MSH-INJ-5795**. Detail at `FORENSIC-the-request-and-its-authority.md` §5.5.
+⭐ **The provable point needs none of it:** the RFMI's entire lifecycle — export, signature,
+dispatch — is **31 minutes 11 seconds**, and the "delegate approval" that could not be timed on
+30 July **left no PDF, no prior revision and no amendment** (§5.1–5.4).
+
+### 3.13a THE ORIGINAL CLOSURE
 Cory's WP letter to Matheson went **10:46**; the first RFMI export was **11:10:27** — **24 minutes**.
 **But MSH's holding reply of 30 July at 14:33 said the request was "progressing for delegate
 approval."** The document existed ~20 hours before the email. **Record as closed on causation.**
