@@ -23,6 +23,13 @@
 root. Metadata is scrubbed automatically — verify with `pdfinfo` that Custom Metadata and Metadata
 Stream both read "no".)*
 
+## Optional cut
+
+- [ ] **Part 5.1, the AD Act s 124 paragraph.** Now points at a single question. Keep it (it is the
+      one provision placing an onus on MSH, and it is framed as a self-check, not a complaint), or
+      cut it if you want the document to read as purely cooperative. It is self-contained — removing
+      it changes nothing else.
+
 ## Before you send — 1 fact to confirm
 
 - [ ] **Part 5.2** lists "a formal complaint in February 2026" among the concerns raised. Confirm
@@ -42,8 +49,9 @@ Stream both read "no".)*
 ## Do not
 
 - ❌ Do not sign the **option 2** authority (direct access to your practitioners).
-- ❌ Do not volunteer the **24 October 2024** diagnosis date as a bare fact. It reaches them via the
-      reframed Q1(a), from the clinician, with the course of the condition attached.
+- ❌ Do not add anything to the **24 October 2024** diagnosis date beyond what Part 3.2 says. The date
+      is disclosed openly; the clinical context comes from the psychiatrist. Do not explain the
+      sequence with the review decision — that belongs in the appeal file, not in HR correspondence.
 - ❌ Do not use the word **"privileged"** about anything going to MSH. Report A is
       *medical-in-confidence*, not privileged. (Report B — the appeal report — is privileged.)
 - ❌ Do not connect the **1 July** and **2 July** dates anywhere in correspondence.
