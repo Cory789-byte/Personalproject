@@ -1,3 +1,45 @@
+# ⚠️ CORRECTION — READ FIRST (recorded 31 Jul 2026, on Cory's instruction)
+
+**The 14 January 2024 QPS matter was NOT an intimate-partner matter, and it was not about Cory.**
+
+Cory's account **[A]**: it concerned his **sister, then 15**, who was acting out. The police issued
+something **less than a Police Protection Notice** — a good-behaviour direction — **against her**.
+He attended the police station at police direction in relation to a **family** matter involving a
+child.
+
+⇒ **It is a wholly separate matter from the ex-partner matter of February–March 2025**, which is what
+Hughes wrote about on 28 March 2025. **The two are unconnected.**
+
+## What this corrects in the analysis below
+- ❌ **§3.1 as originally written is WRONG and must not be used.** I inferred that the January 2024
+  record showed "complainant conduct" that answered Hughes's March 2025 "perpetrator"
+  characterisation. **That inference assumed the two matters were the same subject. They are not.**
+  January 2024 proves nothing about the March 2025 respondent/aggrieved question. **Withdrawn.**
+- ✅ **§3.2 (Taylor's knowledge from 14 Jan 2024) stands** — though what she knew of was a **family
+  matter involving a child**, not partner violence.
+- ✅ **§3.3 (the leave substitution) stands**, and is arguably stronger: a **sibling** is a family
+  relationship, so DFV leave was capable of being available, and Taylor answered "A/L or S/L".
+
+## ⭐ AND IT MAKES THE OVER-SUPPLY POINT MUCH STRONGER
+With the partner-violence reading gone, **the material has no connection to any pleaded workplace
+event at all.** What Taylor sent the Regulator was information about **a police matter concerning a
+15-year-old child**, in answer to a request for *"a text saying he was going to be late"*.
+
+**And it lands in a file where the Regulator is running a pre-existing/non-work line.**
+> **Regulator's SOFC, 13 May 2026, para 8:** "The respondent does not admit the allegations contained
+> in paragraphs 1.2 appellant's statement **because medical records identify a past medical history
+> of anxiety**."
+
+⇒ Whatever Taylor intended, the **effect** of supplying unrequested family and police material into
+the appeal file is to furnish the Regulator with non-work stressor material in a matter where it has
+already pleaded a pre-existing condition. **That is the "used against me" — and it is a precise,
+provable forensic point, not a grievance.**
+
+⚠️ **The privacy assessment at §4.4 below is upgraded from "rejected" to "arguable — preserve, do not
+yet run".** The relevance basis I relied on to justify the over-supply has collapsed. See §4A.
+
+---
+
 # ⭐ FOUND — TAYLOR PUT THE DFV DISCLOSURE INTO THE REGULATOR'S APPEAL FILE
 
 > Source: `documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf`, pp 24, 33–35.
@@ -116,16 +158,51 @@ authentication fight and no hearsay objection available to anyone.
    about your family situation"; she explains the two-on-the-board requirement and the night-shift
    impact. A Commissioner will read that as a manager handling a roster problem reasonably.
    **The value of this document is knowledge and the leave substitution — not her tone.**
-4. **The privacy point is weak — do not run it.** QPP 6.1 governs disclosure for a secondary
-   purpose, but the content is probably **not "sensitive information"** under IP Act sch 5 (which
-   captures *criminal record* and *health information*, neither of which this plainly is), and
-   **QPP 6.2(b)** — "required or authorised under an Australian law" — is available given the
-   Regulator's role in the appeal. **Flagged and rejected.**
+4. **The privacy point — UPGRADED. See §4A.** Originally rejected; the correction above removes the
+   relevance basis that made the over-supply defensible.
 5. **The A/L-or-S/L offer was framed helpfully**, not as a refusal. The point is that the DFV
    entitlement was never put on the table — not that she said no to it.
 
-⇒ **Deploy this as evidence, not as a complaint about Taylor.** Its power is that it is
-contemporaneous, unchallengeable, and directly contradicts Hughes's March 2025 characterisation.
+⇒ **Deploy this as evidence, not as a complaint about Taylor's tone.** Its power is the knowledge
+element, the leave substitution, and the over-supply — **not** the perpetrator point, which is
+withdrawn.
+
+---
+
+## 4A. THE OVER-SUPPLY — REASSESSED
+
+### What is now established
+| | |
+|---|---|
+| **What was asked** | *"if there is an email or text from Mr Shepherd saying that he **was going to be late**"* (para 9 SOFAC) |
+| **What was sent** | Two full screenshots of the whole thread, including a police attendance and a family matter concerning **a 15-year-old child** |
+| **Relevance of the extra content to any pleaded issue** | **None** |
+| **Was Taylor on notice of what it was?** | Yes — she replied *"I'm sorry to hear about your family situation"* and reported it to Reese the same morning |
+| **Was a narrower response available?** | Yes — a cropped screenshot of the lateness message, or a transcription. Ordinary practice |
+
+### The privacy analysis, honestly
+- **IP Act sch 5** — the content is probably **not "sensitive information"**: it is not *criminal
+  record* (no charge, no conviction, and not Cory's in any event) and not *health information*.
+  It is plainly **personal information**.
+- **QPP 6.1** — the text was collected for a **rostering/attendance** purpose. Disclosure to the
+  Regulator for an **appeal** is a **secondary purpose**.
+- **QPP 6.2(a)(ii)** — "the individual would reasonably expect… and the secondary purpose is
+  **related to** the primary purpose". Arguable for the lateness message. **Much harder for the
+  family and police content, which relates to nothing in the primary purpose.**
+- **QPP 6.2(b)** — "**required or authorised** under an Australian law". The conferencing was
+  **voluntary**, not compulsory, so "required" does not apply. "Authorised" is arguable but
+  undecided.
+
+### ⚠️ THE HONEST WEAKNESS — state it before anyone else does
+**Cory put paragraph 9 in issue himself.** Matheson was entitled to ask; Taylor was obliged to
+answer. An employer over-supplying in a litigation response is a common and usually forgiven fault,
+and the OIC remedy would be limited. **This will not win anything on its own.**
+
+### ⇒ WHERE IT ACTUALLY EARNS ITS KEEP
+Not as a privacy complaint. **As the answer if the Regulator ever deploys non-work stressors on
+causation** — because the material only reached the file through MSH's own over-supply, in response
+to a narrow request that did not seek it, about a matter with no connection to any pleaded event.
+**Preserve it. Do not lead with it.**
 
 ---
 

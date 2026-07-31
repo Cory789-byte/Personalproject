@@ -258,22 +258,36 @@ be late**"*. Taylor supplied **two full screenshots of the whole 14 Jan 2024 tex
 everything?"* · *"**I'm sorry to hear about your family situation**."* Reported it to **Tammy Reese**
 the same morning.
 
-⇒ **Three findings:**
-1. **It destroys the "perpetrator" characterisation.** Hughes, 28 Mar 2025: *"you may be deemed as
-   the perpetrator."* Fourteen months earlier Cory attended a police station **at police direction**
-   and offered a **QPS report number** — complainant conduct — and MSH held the record throughout.
-2. **Taylor knew of the DV from 14 January 2024** — five months before the 18 June 2024 injury date
-   and across the whole stressor period. Knowledge element for **IR Act s 296**.
-3. ⭐ **The same substitution, twice.** Taylor 14 Jan 2024: *"A/L or S/L"*. Hughes 28 Mar 2025:
-   *"I have applied recreational leave"*. **Two managers, fourteen months apart, both replaced the
-   DFV entitlement with an ordinary or discretionary leave type.**
+### ⚠️ CORRECTED 31 Jul 2026 — WHAT THE JANUARY 2024 MATTER ACTUALLY WAS
+**[A]** It was **not** an intimate-partner matter and **not about Cory**. It concerned his **sister,
+then 15**, who was acting out; police issued **something less than a PPN — a good-behaviour
+direction — against her**. He attended at police direction over a **family matter involving a child**.
+⇒ **Wholly separate from the ex-partner matter of Feb–Mar 2025.** The two are unconnected.
 
-⚠️ **Provenance is unimpeachable** — supplied by MSH's manager, to the Regulator, and served on Cory
-through the Regulator's own disclosure. **But do not characterise this as Taylor leaking his DV.**
-Matheson's request was legitimate (para 9 SOFAC is Cory's own pleading), supplying the thread was
-defensible, her texts read as measured, and the privacy point under QPP 6 is weak and rejected.
-**Deploy as evidence, not as a complaint about Taylor.** ❌ **Not for the WC track** — it cuts both
-ways on causation.
+⇒ **The findings, as corrected:**
+1. ❌ **WITHDRAWN.** I had inferred the Jan 2024 record answered Hughes's "perpetrator" line by
+   showing complainant conduct. **That assumed one subject matter where there are two.** It proves
+   nothing about the Mar 2025 respondent/aggrieved question. **Do not use.**
+2. ✅ **Taylor knew of a significant family/police stressor from 14 January 2024** — five months
+   before the 18 June 2024 injury date and across the whole stressor period.
+3. ✅ ⭐ **The same substitution, twice.** Taylor 14 Jan 2024: *"A/L or S/L"*. Hughes 28 Mar 2025:
+   *"I have applied recreational leave"*. **Two managers, fourteen months apart, both replaced the
+   DFV entitlement with an ordinary or discretionary leave type.** A **sibling is a family
+   relationship**, so the entitlement was capable of being available.
+4. ⭐ **THE OVER-SUPPLY — now the strongest point.** With the partner-violence reading gone, the
+   material has **no connection to any pleaded workplace event**. Matheson asked only for *"a text
+   saying he was going to be late"*; Taylor sent a police matter concerning a **15-year-old child**.
+   **And the Regulator's SOFC (13 May 2026) para 8 pleads:** *"does not admit… **because medical
+   records identify a past medical history of anxiety**."* ⇒ Whatever was intended, the **effect** is
+   to furnish the Regulator with non-work stressor material in a file where it has already pleaded a
+   pre-existing condition. **That is the "used against me", and it is provable.**
+
+⚠️ **Provenance is unimpeachable** — supplied by MSH's manager, to the Regulator, served on Cory
+through the Regulator's own disclosure. **But the honest weakness must be stated first: Cory put
+para 9 in issue himself**, Matheson was entitled to ask, and employer over-supply in litigation is a
+commonly forgiven fault. The QPP 6 point is **arguable, not strong** — preserve it, do not lead with
+it. ❌ **Not for the WC track as a complaint** — it is already *in* the WC file. **Its use is as the
+answer if the Regulator deploys non-work stressors on causation.**
 
 ### 3.16 THE 31 JULY SEND TIME, EXACT
 The Graph export (`correspondence-2026/2026-07-31_HR_PACK_RFMI_consolidated_export_21pp.pdf`) gives
