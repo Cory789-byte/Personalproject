@@ -37,10 +37,17 @@ proposal for my return to work. In summary:
     and note that the question as framed asks my general practitioner to certify that no other
     diagnosis exists, which is beyond his scope.
 
-  - I consent to Question 1(c). Dr Ma can say whether his view rests on my report or on his own
-    clinical assessment, and can confirm what reports he holds and has relied on. I ask only
-    that it be understood as directed to his own file, not to material held by others, which he
-    is not in a position to answer.
+  - I consent to Question 1(c), and I can tell you the answer now. Dr Ma's understanding of my
+    psychiatric condition derives from my treating psychiatrist's correspondence to him. His
+    view of the identified stressors therefore rests on the specialist reports available to
+    him, not on my self-report alone. He can confirm that from his own file. I ask only that
+    the question be understood as directed to his file, not to material held by others.
+
+  - That derivation matters for the other questions too. Dr Ma completed the Employee
+    Capabilities Checklist and can answer within general practice, but on the questions which
+    turn on the nature of the condition he answers from the specialist documentation he holds.
+    That is how my care is arranged, and it is why those questions are better put to my
+    psychiatrist directly.
 
   - Question 1(b) alone I ask be withdrawn. G03 clause 3 permits supporting medical information
     "where necessary, to either identify required workplace adjustments and/or assess the

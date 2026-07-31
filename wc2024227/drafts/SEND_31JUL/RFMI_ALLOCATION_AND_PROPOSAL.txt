@@ -17,7 +17,9 @@ IN SUMMARY
      which the properly medical part of each can be put to my practitioners.
   3. Of the remainder, Questions 1(c), 1(d), 4, 5 and 8 are for my general practitioner, and
      Questions 1(a), 1(d), 7 and 8 require or are better answered by my treating psychiatrist.
-     I will obtain all of them.
+     I will obtain all of them. Dr Ma's understanding of my psychiatric condition derives from
+     my psychiatrist's correspondence to him, which is why several questions are better put to
+     the specialist directly — and is the answer to Question 1(c).
   4. Question 1(a) I answer openly in this document. Question 1(b) alone I ask be withdrawn: it
      asks a general practitioner for a psychiatric causal formulation, and it goes to a matter
      in issue in WC/2024/227.
@@ -149,12 +151,30 @@ must answer itself before any clinician can usefully be asked anything.
 PART 3 — QUESTIONS FOR MY PRACTITIONERS
 --------------------------------------------------------------------------------
 
+WHO HOLDS THE CLINICAL PICTURE
+
+Dr Ma is my general practitioner and completed the Employee Capabilities Checklist. He can
+answer within the scope of general practice, and he can confirm what is on his own file.
+
+My psychiatric condition, however, is managed by my treating psychiatrist, and Dr Ma's
+understanding of it derives from that specialist's correspondence to him. On the questions which
+turn on the nature of the condition — its clinical basis, the risk it presents, what exacerbates
+it, and how it affects function — Dr Ma answers from the specialist documentation he holds, and
+not from his own psychiatric assessment.
+
+That is not a limitation I have created. It is how my care is arranged, and it is the reason
+several of these questions are better put to the psychiatrist directly.
+
+It is also, in substance, the answer to Question 1(c). Dr Ma's view of the identified stressors
+does not rest solely on my self-report. It rests on the specialist reports available to him.
+
 3.1  FOR DR MA — I will obtain answers to these
 
 Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk to my health
        or safety on return, and what specific workplace controls or adjustments are medically
-       necessary to manage that risk. Dr Ma will address this. Because the risk in question is
-       a psychiatric one, I will also put it to my treating psychiatrist — see Part 3.2.
+       necessary to manage that risk. Dr Ma will address this from the specialist documentation
+       he holds. Because the risk in question is a psychiatric one, I will also put it to my
+       treating psychiatrist — see Part 3.2.
 
 Q4     The restrictions or adjustments recommended, the clinical basis in functional terms, and
        the anticipated duration and review date.
@@ -164,16 +184,16 @@ Q5     What specific activities are encompassed within "complaint handling" — 
        Service and is dealt with at Part 4.3.
 
 Q8     Specific tasks, situations or environments which may exacerbate my condition. Dr Ma will
-       address this. As with Question 1(d), what exacerbates a psychiatric condition is a
-       psychiatric question, and I will put it to my treating psychiatrist as well — see Part
-       3.2.
+       address this from the specialist documentation he holds. What exacerbates a psychiatric
+       condition is a psychiatric question, and I will put it to my treating psychiatrist as
+       well — see Part 3.2.
 
 Q1(c)  Whether the identified stressors are based "solely on Mr Shepherd's self-report, your own
        clinical assessment, or other medical information/reports available to you."
-       I do not object to this question and I consent to it being answered. Dr Ma can say
-       whether his view rests on my report or on his own clinical assessment, and he can confirm
-       what medical reports he holds and has relied on. I am content for him to verify and
-       confirm that.
+       I do not object to this question and I consent to it being answered. Dr Ma can confirm
+       what medical reports he holds and has relied on, and I am content for him to verify and
+       confirm that. As set out above, the answer is that his understanding rests on the
+       correspondence he holds from my treating psychiatrist, and not on my self-report alone.
        I ask only that the question be understood as directed to what Dr Ma holds and has relied
        upon — his own file — and not as an inquiry into material held by others, which he is not
        in a position to answer.

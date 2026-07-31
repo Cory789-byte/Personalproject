@@ -41,6 +41,10 @@ on your own clinical assessment, and confirm what reports you hold and have reli
 answer only as to your own file — you are not in a position to say what material others may hold,
 and you should not be asked to. This question is for you, not my psychiatrist.
 
+Where a question turns on the nature of my psychiatric condition rather than on general practice,
+please say that you are answering from the specialist correspondence you hold, and identify it as
+such. That is accurate, and it tells the Health Service where the clinical authority actually sits.
+
 Anything you write in answer to this request becomes a document in the employer's hands, and may
 be seen by other parties. Please keep your answers to what is clinically necessary for the stated
 purpose, which is identifying workplace controls and adjustments, and please do not offer an
@@ -63,7 +67,10 @@ WHAT I AM ASKING OF YOU
 
 Five questions:
   Q1(c)  whether your view rests on my report or on your own clinical assessment, and what
-         reports you hold and have relied on (your own file only);
+         reports you hold and have relied on (your own file only). I have told the Health
+         Service that your understanding of my psychiatric condition comes from my
+         psychiatrist's correspondence to you — so the answer is the specialist reports you
+         hold, not my self-report alone. Please say so plainly if that is right;
   Q1(d)  foreseeable risk on return, and the controls you consider medically necessary. I am
          also putting this to my psychiatrist, since the risk is a psychiatric one — your view
          is still wanted, and the two are complementary rather than duplicative;
