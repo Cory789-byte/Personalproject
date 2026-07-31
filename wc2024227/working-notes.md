@@ -3250,3 +3250,53 @@ review.
 ### ⚠️ AND "SO LEGAL COULDN'T REVIEW" IS A FURTHER, WEAKER INFERENCE
 Rushing a document is not evidence of rushing it TO AVOID review. Equally consistent with perceived
 urgency. Do not conflate the two.
+
+## 31 JUL 2026 — ⭐ THE MATHESON TIMESTAMP: 10:46. AND MSH'S OWN LETTER CLOSES THE INFERENCE
+
+Filed: documents/correspondence-2026/2026-07-31_1046_Cory_WP_material-development_to_Matheson_SENT.pdf
+Subject: "WITHOUT PREJUDICE SAVE AS TO COSTS — WC/2024/227 Shepherd — material development".
+To Renee Matheson only. **Sent Friday 31 July at 10:46 AEST.** 3 pp.
+
+### THE MEASURED SEQUENCE (all AEST, Fri 31 Jul 2026)
+| Time | Event | Source |
+|---|---|---|
+| **10:46** | Cory's WP letter to Matheson sent | the email itself |
+| 11:10:27 | GP letter PDF created | PDF metadata |
+| 11:11:02 | Employee letter PDF created | PDF metadata |
+| 11:11:27 / 11:11:42 | Signature image applied (Fill & Sign) | recovered revision 3 |
+| 11:43 | RFMI transmitted | covering email |
+
+**24 minutes** email → first PDF. **57 minutes** email → transmission.
+
+### ⛔ THE INFERENCE IS CLOSED — BY MSH'S OWN DOCUMENT
+**30 July 14:33** — twenty hours EARLIER — Harrison wrote the request was "**progressing for
+delegate approval**" and MSH was "**unable to guarantee**" when it would be available.
+⇒ **The RFMI already existed on 30 July.** The 10:46 email cannot have caused a document that was
+awaiting delegate approval the previous afternoon.
+⇒ Corroborated by the revision analysis: **the text was final at PDF creation**. The Word documents
+were complete before 11:10; the export was only the export.
+
+For the 24 minutes to mean anything the chain would have to be: Regulator receives 10:46 → forwards
+→ MSH receives, reads, decides to expedite → Hughes signs → sent 11:43. Inside 57 minutes, on a
+Friday, on a document already at delegate approval. Possible; unproven at every link; and it would
+explain only the timing of RELEASE, not the document's existence.
+
+### ⭐ WHY THIS MATTERS FOR THE OTHER TWO
+This is the **third** measured proximity identified today — 1 Jul → 2 Jul; 30 Jul → 31 Jul; and now
+10:46 → 11:10. Each is real. Each needs the same unproven middle link (the Regulator passing
+something to MSH).
+**What distinguishes this one: MSH's own letter rules it out.** The other two remain open only
+because nothing rules them out.
+⇒ **Record this one as CLOSED.** Doing so protects the other two: a set of inferences in which one
+has been tested and abandoned reads as observation. A set in which all are asserted reads as habit.
+
+### ALSO NOTED — THE WP LETTER'S CONTENT (as sent)
+Confirms the drafting recorded pre-compaction: does not revive the 1 July offer (lapsed 22 July);
+the 2 July condition; the 3 July ECC; MSH's written acknowledgment of being "certified fit to return
+to work effective from 3 July 2026"; four weeks without wages; leave debited; medical costs
+self-funded; the deliberately ambiguous QSuper sentence ("At my direction earlier this year, my
+income protection benefits were reduced to partial payments and subsequently stopped altogether, as
+I had returned to work"); "**I therefore have no income from any source**"; and the 30 July
+"progressing for delegate approval… unable to guarantee" admission.
+⚠️ Note: it says the direction "has now continued for four weeks" — the RFMI response says five.
+Both were accurate when written (28 days vs the fifth week). No inconsistency, but be aware of it.
