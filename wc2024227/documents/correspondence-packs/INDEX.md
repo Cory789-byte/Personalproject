@@ -16,8 +16,13 @@
 | `03_Scott_Hughes_PACK_376pp_196sections.pdf` | 376 | 196 | **Scott Hughes mailbox**, Jan 2025 – 31 Jul 2026 |
 | `04_Human_Resources_PACK_21pp_2026-07-31.pdf` | 21 | 6 | **LBH HR Team 1 + HR mailboxes** — the 31 Jul 2026 RFMI |
 | `05_Jacqui_Roberts_PACK_64pp.pdf` | 64 | 28 | **Jacqui Roberts** correspondence, Feb 2025 – Oct 2025 |
+| `02_Chloe_Taylor_PACK_462pp.pdf` | **462** | **275** | ⭐ **Chloe Taylor**, Aug 2020 – 17 Jul 2026 — **the largest pack** |
 
-**Missing: pack 02**, and anything numbered 06 or higher.
+**Missing: anything numbered 06 or higher**, if the export ran further.
+
+⚠️ **The grouping is looser than "correspondence with X".** Pack 02 contains Cory's July 2024 emails
+to **Amy Mo at WorkCover Queensland**, to which Taylor was not a party. Treat the pack name as a
+theme, not a party filter.
 
 ---
 
@@ -94,6 +99,75 @@ resolved" point, and it is now evidenced rather than asserted.
 
 ⇒ Confirms the security-office placement on **8 April 2025**, and that Roberts met him that
 afternoon — the meeting that preceded the reversal.
+
+---
+
+## 02 — CHLOE TAYLOR (462 pp, 275 sections) — ⭐⭐ TWO CORRECTIONS TO THE RECORD
+
+| Ref | Date | Item |
+|---|---|---|
+| 001–004, 006, 019–021, 023–028 | 2020–2023 | Roster corpus, overlapping pack 01 |
+| **005, 007–018** | **Apr–May 2022** | ⭐ **"Leave — Cory Shepherd"** — a **14-message** thread |
+| 022 | 26 Aug 2022 | **"Returning back to Switchboard"** |
+| 029 | 4 Sep 2023 | Roster |
+| **030** | **12 Jul 2024** | ⭐ **"Cory Shepherd Events"** — Cory → **Amy Mo, WorkCover Qld**: *"this 'overview' ended up being **10 pages**… I'll attach all the supporting evidence"* |
+| **033** | **15 Jul 2024 12:38** | ⭐ **"Cory shepherd work cover statement"** → Amy Mo. Body empty; **attachments only** |
+| **034** | **15 Jul 2024 13:17** | ⭐ **"Cory Shepherd statement update"** → Amy Mo. Body empty; **attachments only** |
+| 031, 032, 035 | Jul 2024 | "Fw: issues"; validation of claims; "email" |
+| 030, 031 | 19–24 Sep 2024 | **"Return to Work — Cory Shepherd"** |
+| 032–040 | Mar–Apr 2025 | The March 2025 leave/roster/return sequence (mirrors pack 03) |
+| 041–055 | May–Oct 2025 | Catch-ups 10 Jun, 25 Jun; team meeting 3 Jul; **on-call process acknowledgement 29 Sep** |
+| **056** | **15 Dec 2025** | **"Attendance clarification — Confidential"** |
+| **057–061** | **5–21 May 2026** | ⭐ **"Medical certificate Cory"** — **five** messages. **This is where the medical-information chain actually begins** |
+| 062 | 31 May 2026 | EMR approval |
+| **063** | **26 Jun 2026 10:42** | ⭐⭐ **"Cory Shepherd — ECC"** — **THE TRUE ORIGIN DOCUMENT** |
+| 064–067 | 2–3 Jul 2026 | "Cory — ECC/Leave Type" + **three** replies on 3 July |
+| 068 | 17 Jul 2026 | Leave Type — MyHR |
+
+### ⭐⭐ CORRECTION 1 — THE ORIGIN DOCUMENT IS 26 JUNE 2026, NOT 2 JULY
+> **Taylor → Cory, 26 June 2026 10:42 AEST:**
+> "**Until we receive appropriate medical clearance, including a completed Employee Capacity
+> Certificate (ECC), we are unable to facilitate your return to work.** This is to ensure that any
+> return to duties is safe for you. As your employer, we have a legal obligation under **section 19
+> of the Queensland Work Health and Safety Act 2011**, which sets out the primary duty of care to
+> ensure, **so far as is reasonably practicable**, the health and safety of workers…"
+> "Please note regards to your shifts this weekend — **if we have not received the documentation with
+> adequate time to review, you will be unable to return to work. Please wait for my advice to when
+> your next returning shift will be.**"
+
+⇒ **The exclusion condition was imposed on 26 June 2026 — six days before the email previously
+recorded as the origin, and a week before the ECC was provided on 3 July.**
+⇒ It also names the real starting point: *"the medical information that was **requested via email on
+5 May 2026**"* — items 057–061. **The chain begins 5 May 2026, not 2 July.**
+
+**And the 2 July email is a recycling of it.** Sentence for sentence:
+| 26 June | 2 July |
+|---|---|
+| "I just wanted to check in to see how you are doing and how things have been progressing for you" | **identical** |
+| "Until we receive appropriate medical clearance, including a completed Employee Capacity Certificate (ECC), we are unable to facilitate your return to work" | **verbatim** |
+| "Please wait for my advice to when your next returning shift will be" | **verbatim — same grammatical error** |
+
+⇒ This explains the "Monday 29th **July**" error in the 2 July email: **it is recycled text.**
+⇒ ⚠️ **And the 2 July version DROPPED the legal basis.** WHS s 19 appears on 26 June and is **absent**
+from the 2 July email entirely.
+
+### ⭐⭐ CORRECTION 2 — THE WHS ACT WAS FIRST CITED ON 26 JUNE, NOT 29 JULY
+**This corrects `msh-citations-complete-list.md` and MASTER §3.14.** I had recorded the WHS Act as
+first appearing on **29 July 2026**, the day after Cory's 28 July letter, and drew the inference that
+the citations were reasoned backwards from an act already taken.
+
+**That inference is wrong as to the WHS Act.** Taylor cited **s 19, correctly formulated**, on
+**26 June 2026** — before any challenge. **Say so plainly; do not run the "reasoned backwards"
+framing on the WHS Act.**
+
+**What survives, and is now sharper:**
+- **G03 still first appears on 31 July** — five weeks in, and only for the *information request*.
+- **Nothing has ever been cited for the exclusion itself.** WHS s 19 is a **duty**, not a power, and
+  Taylor's own 26 June email treats it as the reason she *cannot* facilitate a return — which is
+  precisely the inversion: a duty to ensure safety deployed as authority to exclude.
+- **The citation then disappeared.** WHS s 19 on 26 June → **nothing** on 2 July, 7 July, 15 July →
+  reappears 29 July. **An employer that knew the provision on 26 June stopped citing it for five
+  weeks.**
 
 ---
 

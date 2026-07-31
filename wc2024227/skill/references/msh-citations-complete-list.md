@@ -1,5 +1,44 @@
 # EVERY POLICY AND EVERY PIECE OF LEGISLATION MSH HAS CITED
 
+---
+
+# ⚠️⚠️ CORRECTION — 31 JULY 2026, ON READING PACK 02 (Chloe Taylor, 462 pp)
+
+**Taylor cited the WHS Act on 26 JUNE 2026, not 29 July.** Verbatim:
+
+> **Taylor → Cory, 26 June 2026 10:42 AEST, "Cory Shepherd — ECC":**
+> "Until we receive appropriate medical clearance, including a completed Employee Capacity
+> Certificate (ECC), **we are unable to facilitate your return to work**… As your employer, we have
+> a legal obligation under **section 19 of the Queensland Work Health and Safety Act 2011**, which
+> sets out the primary duty of care to ensure, **so far as is reasonably practicable**, the health
+> and safety of workers…"
+
+## What this corrects
+❌ **The finding that "the WHS Act first appears on 29 July, the day after Cory's 28 July letter" is
+WRONG.** It first appears **26 June 2026**, five weeks earlier, from the line manager, **before any
+challenge**, and in the correct statutory formulation.
+❌ **The inference that the citations were "reasoned backwards from an act already taken" does NOT
+hold for the WHS Act.** Do not run it. State the 26 June citation plainly if the point is ever put.
+
+## What survives — and is sharper
+1. **G03 still first appears on 31 July 2026** — five weeks in, and only for the *information
+   request*, never the exclusion.
+2. ⭐ **Nothing has ever been cited for the exclusion.** WHS s 19 is a **duty on MSH**, not a power
+   over a worker — and Taylor's own 26 June email deploys it as the reason she *cannot* facilitate a
+   return. **That is the inversion in its purest form: a duty to ensure safety used as authority to
+   exclude.**
+3. ⭐ **The citation then vanished for five weeks.** WHS s 19 on **26 June** → **nothing** in the
+   2 July email (which is otherwise a near-verbatim recycling of the 26 June text) → **nothing** on
+   7 July, 15 July → reappears **29 July**. **An employer that knew the provision on 26 June stopped
+   citing it for five weeks while the exclusion ran.**
+4. **The origin date moves.** The exclusion condition dates from **26 June 2026**, not 2 July — and
+   the medical-information request from **5 May 2026**.
+
+⇒ Full detail and the sentence-by-sentence comparison of the 26 June and 2 July emails at
+`documents/correspondence-packs/INDEX.md`, pack 02.
+
+---
+
 > Complete extraction across all MSH correspondence in the exclusion sequence
 > (2 July – 31 July 2026), plus the 2025 Hughes letters. Verified by full-text
 > extraction of each source PDF, 31 July 2026. Nothing here is reconstructed.

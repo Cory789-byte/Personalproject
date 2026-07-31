@@ -74,7 +74,11 @@ description at Part 5.2.
 > "your recently completed Employee Capabilities Checklist … **which was provided to us to
 > facilitate a Return to Work Plan**." — Hughes, 31 July 2026
 
-**2 Jul** Taylor requires the ECC, return "cannot be facilitated" without it, deadline 2:00pm 3 Jul →
+⚠️ **CORRECTED 31 Jul 2026 — the sequence starts earlier.** **5 May 2026** medical information
+requested → **26 Jun 2026 10:42** Taylor: *"Until we receive appropriate medical clearance, including
+a completed [ECC], **we are unable to facilitate your return to work**"*, citing **WHS s 19**, and
+*"if we have not received the documentation… **you will be unable to return to work**"* →
+**2 Jul** Taylor recycles that text near-verbatim (dropping the WHS citation), deadline 2:00pm 3 Jul →
 **3 Jul 14:32** provided, certifying **fit with restrictions** → **~15:30** held out (**~58 minutes**)
 → shifts charged to accrued leave. The document required so he could work became the basis for
 refusing work.
@@ -215,7 +219,8 @@ Full-text extraction of every MSH item, 2–31 July 2026. Detail at
 
 | Date | Author | Instruments cited **by MSH** |
 |---|---|---|
-| 2 Jul | Taylor *(the origin direction)* | **NONE** |
+| **26 Jun** | **Taylor** ⭐ *(the TRUE origin — corrected 31 Jul)* | **WHS Act 2011 s 19**, correctly formulated |
+| 2 Jul | Taylor *(a near-verbatim recycling of 26 Jun)* | **NONE — the legal basis was dropped** |
 | 7 Jul | Forrest | **NONE** — "work health and safety legislation", unnamed |
 | 15 Jul | Harrison *(pay refused)* | **NONE** |
 | 29 Jul | Harrison | **WHS Act 2011** — first correct formulation |
