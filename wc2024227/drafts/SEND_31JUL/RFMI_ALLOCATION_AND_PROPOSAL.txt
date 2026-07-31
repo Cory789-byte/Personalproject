@@ -654,22 +654,22 @@ Second, question 1(d) of the Health Service's own request asks my practitioner w
 What follows is offered as matters the Health Service and my practitioners may wish to consider,
 not as a settled proposal.
 
-  (a) A pre-shift confirmation call. An operator on the preceding shift, or the on-call
-      operator, contacts me at an agreed time before each rostered shift to confirm that I am
-      attending. This is a rostering confirmation, not an assessment of my condition. Its purpose
-      is that where I am not able to attend, that is known early enough for cover to be arranged,
-      rather than at the last minute.
+  (a) A telephone call one hour before each rostered shift, to confirm that I am attending.
 
-  (b) On-call cover for the shifts I am rostered on, so that the board is not left short if I am
-      unable to attend.
+  (b) If that call is not answered, or attendance is not confirmed, a second call.
 
-      I ask that (a) and (b) be considered together, because the difficulty they address is a
-      practical one. There have been occasions where distress has peaked shortly before a shift
-      and I have called in at short notice. What makes that worse — for the service and for me —
-      is knowing that a late call leaves the board short and the preceding shift unable to leave.
-      A confirmation call and a rostered on-call remove that consequence. The absence becomes a
-      managed one, cover is arranged with notice, and the pressure to attend regardless of
-      condition, which is itself a hazard, is reduced.
+  (c) If attendance is still not confirmed after the second call, the on-call operator is
+      contacted and cover is arranged for the shift.
+
+      The purpose of the sequence is that where I am not going to attend, that is established
+      about an hour ahead rather than at or after start time. Distress rises as a shift
+      approaches, and there have been occasions where I have called in at short notice as a
+      result. What makes that worse — for the service and for me — is that a late call leaves the
+      board short and the preceding shift unable to leave.
+
+      The measure is contingent, not standing. The on-call is engaged only if the two calls do
+      not produce a confirmation, so it carries no cost on any shift I attend. On the shifts I do
+      attend, which is most of them, the arrangement costs one telephone call.
 
       I note that this is a control which, had it been in place, would have addressed a
       substantial part of the attendance history recorded in the correspondence of 8 September
