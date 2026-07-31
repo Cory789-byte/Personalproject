@@ -173,6 +173,11 @@ PART 2 — PROPOSED ALLOCATION
 Of the nine questions, four are not medical questions. They are questions the Health Service
 must answer itself before any clinician can usefully be asked anything.
 
+This allocation applies to whatever question set the Health Service confirms. If questions are
+withdrawn, amended or added, I will allocate the confirmed set on the same basis — each medical
+question to whichever of my practitioners is the right person to answer it, and the questions at
+Part 4 to the Health Service.
+
 --------------------------------------------------------------------------------
 PART 3 — QUESTIONS FOR MY PRACTITIONERS
 --------------------------------------------------------------------------------
@@ -274,10 +279,8 @@ whether it presses Question 7, and identify any part of Questions 1(d), 4 or 8 o
 requires a specialist rather than a general practitioner's opinion.
 
 I will then instruct my treating psychiatrist. The invoice for the consultation and the report
-will be directed to you, on the basis of the Health Service's written confirmation that it will
-meet my reasonable costs of preparing this report. If the Health Service contends that its
-undertaking does not extend to specialist input which its own questions require, I ask that it
-say so now, rather than after the cost has been incurred.
+will be directed to you, consistent with the Health Service's confirmation that it will meet my
+reasonable costs of preparing this report.
 
 Consistent with option 1, I will obtain that opinion and provide it. It will be directed to my
 current capacity, functional restrictions and the adjustments recommended — that is, to the
@@ -698,7 +701,7 @@ preparing this report."
       address nominated.
   (c) Where specialist input is required to answer the Health Service's questions, the invoice
       for the psychiatrist's consultation and report will likewise be directed to you, on the
-      same basis. If the Health Service contends otherwise, I ask that it say so promptly.
+      same basis.
 
 RECORDS. The covering email is copied to notes@solv.com.au and refers to a transition to "Solv,
 a new Injury Management Case System." Please confirm what personal and health information
