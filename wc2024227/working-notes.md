@@ -2880,3 +2880,40 @@ Commission. One attendance. Decision on the supplementary deferred until the fir
 **RESIDUAL RISK (accepted by Cory, stated once):** a report in MSH's hands cannot be withdrawn if
 part of it is unhelpful. He has weighed it and formed the view the content will favour him; on what
 the ECC already records, that is a reasonable bet.
+
+## 31 JUL 2026 — HANDLING OF THE MEDICAL INFORMATION: MEDICAL-IN-CONFIDENCE + NO CONFLICTED READER
+
+Cory's point: the report should go to someone with no conflict of interest, and be "privileged."
+
+⚠️ **TERMINOLOGY — DO NOT USE "PRIVILEGED" FOR REPORT A.** Legal privilege attaches to
+communications for the dominant purpose of litigation or legal advice. A report prepared for an
+employment adjustment purpose is NOT privileged, and asserting it is invites a correction that costs
+credibility on a point he does not need. (Report B — commissioned for the appeal — IS privileged.
+Keep the two straight.)
+✅ **CORRECT FRAME: "medical-in-confidence" + need-to-know.** Orthodox public sector practice —
+medical reports are held by the injury management / occupational health function, and line managers
+receive THE ADJUSTMENTS TO IMPLEMENT, not the underlying clinical detail.
+
+**GROUNDED IN THEIR OWN POLICY (G03 cl 3, already verified):**
+- "Queensland Health acknowledges the right of the person with disability, condition, cultural
+  considerations or neurodivergence to **choose how disclosure of information occurs**."
+- "**It may only be necessary to share information when** the ability to meet genuine occupational
+  requirements and or individual safety is at risk and reasonable adjustment is required."
+⇒ A need-to-know limit in MSH's own instrument.
+
+**ADDED TO PART 9 — "HANDLING WITHIN THE HEALTH SERVICE".** Asks that any medical information be:
+  (a) held by the Injury Management Consultant on a **medical-in-confidence** basis;
+  (b) **not provided to the line manager or Switchboard Services** — "a line manager requires the
+      adjustments to be implemented, not the underlying clinical information" (constructive framing:
+      concedes the operational need while excluding the clinical detail);
+  (c) accessible only to those who require it to determine what adjustments can be made; and
+  (d) **considered, for any decision about capacity or return to duty, by an officer in relation to
+      whom no conflict of interest arises** — expressly linked to Part 6.
+Closes: "I raise this in the ordinary way, and not as a criticism of anyone's handling to date."
+
+**PART 10 RESPONSE LIST EXPANDED to 8 items** — new item 7 folds together the purpose limitation,
+prospective identification of external recipients, and the internal handling regime.
+
+⇒ (d) is the quiet one: it converts the Part 6 conflict question from a procedural inquiry into a
+condition on the provision of his health information. If MSH wants the report, it has to engage with
+who reads it. Document now 8 pages.
