@@ -325,6 +325,36 @@ being characterised as inappropriate contact, and exposes the members approached
 officer can approach members in a way an excluded employee cannot. That is a property of the
 evidence class, not advice about what to do with it.
 
+### G3.2A — ⭐ THE REVERSAL (supersedes the "ambiguous" grading at B2A)
+
+Cory advises, 31 Jul 2026:
+- **Jacqui Roberts caused him to be put back into the Switchboard office.**
+- **The employee put on full-time was revoked entirely and returned to their previous job.**
+
+⇒ **A REVERSAL IS AN ADMISSION BY CONDUCT.** A properly made placement and a properly made
+appointment do not require undoing. That an **A/Director, HR Business Partnering** intervened and
+reversed both is itself evidence that the original acts were not soundly made.
+⇒ The earlier grading of the security office as three-way ambiguous (isolation / pending
+reinstatement / attempted redeployment) is **superseded**: a pending reinstatement does not get
+reversed by an HR Director, and neither does a properly made full-time appointment.
+
+⭐ **AND THE CORRECTION LEFT RECORDS EVEN THOUGH THE ORIGINAL DID NOT.** Restoring an employee to a
+work area and revoking another's full-time appointment both require system actions. **Obtainable
+from MSH:**
+- MyHR employment movement entries, April 2025 — Cory's restoration to Switchboard **and** the other
+  employee's revocation
+- Payroll / AVAC showing the other employee's hours reverting
+- Roster records across both
+- Any written direction from Ms Roberts
+
+⇒ **The sequence — placement, full-time appointment, intervention by HR at Director level, both
+reversed — is provable from MSH's own systems without a single witness.**
+
+⚠️ **KEEP OUT OF ANY DOCUMENT: the friendship.** The provable facts are the appointment and its
+revocation. Characterising the appointee as the manager's friend converts a documented sequence into
+an allegation of favouritism — deniable, and it shifts the contest onto motive, which must then be
+proved.
+
 ### G3.3 — WHAT REMAINS DOCUMENT-ONLY
 Rosters, AVAC and payroll for 3–31 Jul 2026 (whether the shifts are being worked) and any MyHR
 movement record for Apr 2025 are obtainable only from MSH. No witness substitutes for them.
