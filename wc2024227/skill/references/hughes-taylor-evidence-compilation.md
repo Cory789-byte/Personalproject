@@ -89,8 +89,9 @@ running at A/Director level; a formal process warning; and the counting begins.*
    Switchboard and the area of placement.
    [ ] **RESOLVES ON:** an org chart or structure document showing Security under Corporate
    Services. Two-minute check; converts **[A]** → **[D]**.
-   [ ] **THE PLACEMENT ITSELF RESOLVES ON:** an expression of interest, a proposed role description,
-   a MyHR employment movement record, or an email proposing the role. **None is in the file.**
+   ⭐ **CORY CONFIRMS 31 JUL 2026: THERE WAS NO FORMAL PROCESS.** No expression of interest, no
+   proposed role description, no movement record — "it was Chloe and Scott together doing this."
+   ⇒ **THE ABSENCE OF A DOCUMENT IS THE FINDING, NOT A GAP IN IT.** See §E1c below.
 3. **The 14 Apr concerns may relate to the pre-return absence period** (Feb–Mar 2025), not to
    conduct after 31 Mar. The letter does not particularise which.
 
@@ -173,6 +174,7 @@ executes and fields. In both, a **seven-day** compliance period with a consequen
 | E1 | Hughes and Taylor "acted together to have me moved and isolated in another department" | **No document.** Doc 155 records Cory writing "I am in the security office" on 8 Apr 2025 during a "Reinstatement process" — it does not record who decided it, why, or any joint action |
 | E1a | The placement was an attempted redeployment to **administration within the security office** | **[A].** No expression of interest, proposed role description, movement record or proposing email in the file |
 | E1b | The security office is run by **Corporate Services** | **[A] — verify against an org chart.** If confirmed, the placement was within Hughes's own directorate, which is structurally significant |
+| E1c | ⭐ **No documented basis exists for the April 2025 placement** | **ESTABLISHABLE — by proving the absence.** A proper redeployment generates an EOI, a movement form, a role description, a consultation record, a MyHR entry. Cory confirms none was created. **Ask MSH to produce all records of any proposed or actual change to his position, work location or duties between 31 Mar and 30 Apr 2025.** A nil return puts the absence on the record, and a placement without a documented basis is a process failure irrespective of who decided it |
 | E2 | The police officer withdrew "because of claims that were untrue" | The Form 44 proves the **withdrawal**; it does **not** state the reason. **[A]** |
 | E3 | The DFVL advice "contravenes the directive" | **Directive 03/20 unread.** Cannot be verified either way |
 | E4 | The 8 Sep 2025 letter was a "performance improvement plan" | **Incorrect.** The letter foreshadows a PIP; it does not initiate one (Att F p4) |
@@ -244,6 +246,24 @@ executes and fields. In both, a **seven-day** compliance period with a consequen
 2026-07-31   11:43  HUGHES SIGNS the RFMI — 9 questions, 7 days, consequence            [D]
                     premise: "not aware of any concerns being raised"                   [D]
 ```
+
+---
+
+## SECTION G2 — ⭐ THE REPEATED DEFECT: ACTION WITHOUT A DOCUMENTED BASIS
+
+| | **April 2025** | **July 2026** |
+|---|---|---|
+| Action | Located outside Switchboard (security office) | Excluded from the workplace |
+| Documented basis | **None** — no EOI, role description or movement record created **[A, establishable by nil return]** | **None** — no instrument identified in five weeks, after three written requests **[D]** |
+| Decision-maker | Not recorded | **Not identified** |
+| Directorate | Corporate Services | Corporate Services |
+| Officers | Taylor, Hughes **[A]** | Taylor (2 Jul), Hughes (31 Jul) **[D]** |
+| Duration | ~3 weeks, then returned to position **[A]** | 5 weeks and continuing **[D]** |
+
+⇒ **The pattern does not require the 2025 placement to be proved.** It requires the ABSENCE of a
+documented basis to be proved. In 2026 that is already established: MSH has been asked three times
+and has not identified an instrument. In 2025 it is establishable by a nil return to a records
+request.
 
 ---
 
