@@ -170,9 +170,11 @@ build(OUT+"FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf",
               "records as having been “worked and tolerated… without deterioration”. In your opinion, is "
               "a pattern of that kind sustainable for him, and what rostered pattern would you consider "
               "appropriate going forward?",
-        "The Health Service set and accepted that roster over the period. Mr Shepherd has asked it to "
-        "produce its own record of the pattern. Your opinion is sought on what is sustainable, not on "
-        "what has been rostered.", 34*mm),
+        "The Health Service set and accepted that roster over the period. Where his condition was "
+        "exacerbated and he could not attend a rostered shift, Mr Shepherd managed that himself by "
+        "taking sick leave or annual leave; no further adjustment was sought or provided, and his paid "
+        "sick leave is now exhausted. Your opinion is sought on what is sustainable, not on what has "
+        "been rostered.", 34*mm),
        ("11", "Having regard to your answer to question 9, Mr Shepherd has raised for consideration a "
               "sequence of (i) a telephone call one hour before each rostered shift to confirm "
               "attendance, (ii) a second call if the first is not answered or attendance is not "
