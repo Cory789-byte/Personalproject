@@ -3206,3 +3206,47 @@ exposes them. The clean routes to the same facts:
 Colleagues asking whether he was **fired** is itself a harm and evidence of how a five-week
 unexplained absence is being read in the workplace. Part 11(c) records it neutrally. Fuller
 treatment belongs in the union brief and the general protections file, not here.
+
+## 31 JUL 2026 — CORY'S THEORY: THE WP LETTER FORWARDED → RFMI RUSHED BEFORE LEGAL REVIEW
+
+Theory as put: Chloe and Scott working together; Scott, Corporate Services and Legal; the WP letter
+to the appeal officer was forwarded so Legal could not review what Scott was finishing, which rushed
+the sending.
+
+### ❌ THE PART THE EVIDENCE CONTRADICTS
+**"Scott and Legal working together" is NOT supported — the drafting evidence says the opposite.**
+5 Jun objection: institutional third person, pinpoint Rule 64E(4) sub-provisions, submission
+register, clean across 28 pp. RFMI: first person, "the provisions of", "cab be found out their
+website", "Mr Shepherds", "fulfill", **he/their pronoun drift between adjacent questions**. Plus the
+false premise, which **Ruttan cannot have approved** having drafted Item 20 addressing PID
+24-ESU-1130 by reference number.
+⇒ **Legal was not involved.** Record it that way.
+
+### ✅ THE PART THAT IS COHERENT — AND TESTABLE TODAY
+"Rushed before Legal could review" is consistent with Legal not being involved. It needs a trigger.
+
+**⭐ THE DECISIVE TEST — ONE TIMESTAMP:**
+Harrison's holding reply is filed at **30 July 14:33** ("progressing for delegate approval… unable to
+guarantee").
+[ ] **What time did the WP letter to Matheson go?**
+- **Before 14:33 on 30 Jul** → theory stays open.
+- **After 14:33 on 30 Jul, or on 31 Jul** → the holding reply PREDATES it, the RFMI was already in
+  train, and the theory CLOSES.
+Two minutes in the sent items. Record the time either way.
+
+### ⚠️ EVEN IF THE TIMING WORKS, IT ESTABLISHES PROXIMITY, NOT CAUSATION
+Three unproven links remain: (a) the Regulator forwarded it; (b) MSH received it before the RFMI
+issued; (c) that caused Hughes to expedite. Identical structure to the 1 Jul → 2 Jul inference — a
+pathway that exists but has not been shown to have carried anything.
+**Same discipline: record the sequence, assert nothing.** A second inference built on the same
+unproven pathway does not strengthen the first; asserting either weakens both.
+
+### THE SIMPLER EXPLANATION STILL FITS EVERYTHING
+**His own 28 and 30 July letters.** Documented, sufficient, no external pathway needed. Detailed
+letter citing EB12, the Award and the policies → 29 Jul basis changes to WHS → 30 Jul they stop
+answering → 31 Jul a formal process. Accounts for the sequence, the haste, and the absence of legal
+review.
+
+### ⚠️ AND "SO LEGAL COULDN'T REVIEW" IS A FURTHER, WEAKER INFERENCE
+Rushing a document is not evidence of rushing it TO AVOID review. Equally consistent with perceived
+urgency. Do not conflate the two.
