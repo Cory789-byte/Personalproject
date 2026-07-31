@@ -153,14 +153,15 @@ This is a legitimate adjustment question, but a functional cognitive opinion is 
 psychiatrist's rather than a general practitioner's. Dr Ma can address it in general terms
 only.
 
-So that it can be arranged, please confirm:
+So that it can be arranged, please confirm which questions the Health Service presses — that is,
+whether it presses Question 7, and identify any part of Questions 1(d), 4 or 8 on which it
+requires a specialist rather than a general practitioner's opinion.
 
-  (a) that the Health Service presses Question 7, and identify any part of Questions 1(d), 4
-      or 8 on which it requires a specialist rather than a general practitioner's opinion;
-  (b) that the Health Service will meet the cost, consistent with its confirmation that it
-      will meet my reasonable costs; and
-  (c) that it accepts the resulting timeframe. A psychiatric review cannot be arranged within
-      seven days and in the ordinary course will take considerably longer.
+I will then instruct my treating psychiatrist. The invoice for the consultation and the report
+will be directed to you, on the basis of the Health Service's written confirmation that it will
+meet my reasonable costs of preparing this report. If the Health Service contends that its
+undertaking does not extend to specialist input which its own questions require, I ask that it
+say so now, rather than after the cost has been incurred.
 
 Consistent with option 1, I will obtain that opinion and provide it. Its scope will address my
 current capacity, functional restrictions and recommended adjustments. It will not address the
@@ -487,11 +488,9 @@ preparing this report."
   (b) The rebooked consultation with Dr Ma, and any further consultation required to answer the
       Health Service's questions, will be invoiced to the Injury Management Consultant at the
       address nominated.
-  (c) If specialist input is required, the invoice for the psychiatrist's consultation and
-      report will likewise be directed to you. Please confirm the Health Service will meet that
-      cost on the same basis. I ask that this be confirmed before the appointment is made, so
-      that I am not required to fund it in advance as I was required to fund the Employee
-      Capabilities Checklist.
+  (c) Where specialist input is required to answer the Health Service's questions, the invoice
+      for the psychiatrist's consultation and report will likewise be directed to you, on the
+      same basis. If the Health Service contends otherwise, I ask that it say so promptly.
 
 RECORDS. The covering email is copied to notes@solv.com.au and refers to a transition to "Solv,
 a new Injury Management Case System." Please confirm what personal and health information

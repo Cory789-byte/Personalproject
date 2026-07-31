@@ -2750,3 +2750,31 @@ objective contemporaneous marker of clinical escalation, and what the GP wrote a
 referral is often more valuable than the date. A referral dated between 18 June 2024 and
 24 October 2024 would defeat the "reaction to the review decision" point on its own, without needing
 consultation timestamps.
+
+## 31 JUL 2026 — SPECIALIST COSTS: NOTIFICATION, NOT REQUEST
+
+Cory's call: don't seek MSH's confirmation before the psychiatrist appointment — just have the
+invoice directed to them. Correct, because MSH has already committed in writing ("MSH will meet
+your reasonable costs of preparing this report") and asking permission to rely on their own
+undertaking both delays him and weakens the position.
+
+**REDRAFTED AS A NOTIFICATION.** Part 3.2 now asks MSH to confirm only the SCOPE (which questions
+it presses), then states:
+    "I will then instruct my treating psychiatrist. The invoice for the consultation and the report
+    will be directed to you, on the basis of the Health Service's written confirmation that it will
+    meet my reasonable costs of preparing this report. **If the Health Service contends that its
+    undertaking does not extend to specialist input which its own questions require, I ask that it
+    say so now, rather than after the cost has been incurred.**"
+Part 9(c) mirrors it.
+
+⇒ Nothing blocks him; the record exists; any objection must be made in advance. If MSH later
+refuses, the refusal is a document — and it would be a refusal to fund specialist input required by
+its own question set, after committing in writing to meet reasonable costs.
+
+**RESIDUAL RISK (accepted, and small):** MSH could argue "this report" meant the GP report only. The
+answer is that the specialist opinion answers ITS questions, which is why the sentence inviting an
+advance objection is there.
+
+**HOUSEKEEPING:** removed a stale cross-reference ("paragraph 3 of my letter") left over from the
+earlier single-letter draft; corrected the covering email's pointer to the proposal from Part 6 to
+Part 7. All remaining cross-references verified against the current structure.
