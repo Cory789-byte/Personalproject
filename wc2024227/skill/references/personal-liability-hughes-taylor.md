@@ -277,3 +277,67 @@ law was ever identified.**
       application, and whether they will name individuals.
 - [ ] Whether the **February 2026** complaint and the **4 October 2025** complaint were validated as
       PIDs (PID 24-ESU-1130 is the one confirmed by reference number in MSH's 5 June 2026 objection).
+
+---
+
+# 7. ⭐⭐ INDIRECT DISCRIMINATION — THE FOUNDATION LAID 31 JUL 2026, THE ALLEGATION NOT MADE
+
+## 7.1 The provision, verified
+> **AD Act 1991 s 11(1):** "Indirect discrimination on the basis of an attribute happens if a person
+> imposes, or proposes to impose, a **term**— (a) with which a person with an attribute **does not or
+> is not able to comply**; and (b) with which a **higher proportion of people without the attribute**
+> comply or are able to comply; and (c) **that is not reasonable**."
+> **s 11(2):** "Whether a term is reasonable depends on all the relevant circumstances… including—
+> (a) **the consequences of failure to comply with the term**; and (b) **the cost of alternative
+> terms**; and (c) the financial circumstances of the person who imposes… the term."
+> ⭐ **s 11(3):** "It is **not necessary that the person imposing… the term is aware** of the indirect
+> discrimination."
+> **s 11(4):** "**term** includes condition, requirement or practice, **whether or not written**."
+
+## 7.2 How it fits — Cory's own analysis, and it holds
+| Element | On this record |
+|---|---|
+| **The term** | Attend all rostered shifts without any support arrangement. Unwritten — s 11(4) covers it |
+| **Cannot comply** | Attendance and lateness arising from MDD with anxious distress. **Impairment is an attribute — s 7(h)** |
+| **Higher proportion without the attribute comply** | Self-evident |
+| ⭐ **Not reasonable — s 11(2)(a) consequences of failure** | A **34-entry** attendance letter, a foreshadowed performance plan, and **five weeks' unpaid exclusion** |
+| ⭐⭐ **Not reasonable — s 11(2)(b) cost of alternatives** | **A phone call, and an on-call roster the unit already operates** (Taylor to all staff, 15 Apr 2024) |
+| **s 11(3)** | ⭐ **No intent needs to be proved.** Nobody has to have meant anything |
+
+⇒ **Cory's instinct is right: refusing these measures, while relying on the very failure they would
+prevent, is the classic shape of failure-to-accommodate.** And **the only matter ever put to him
+about his conduct is attendance** — the 31 July letter itself says the Health Service is *"not aware
+of any concerns being raised for appropriate management"*.
+
+## 7.3 ⛔ BUT THE ALLEGATION IS NOT MADE, AND MUST NOT BE
+1. **The refusal has not happened.** The argument is currently about a hypothetical.
+2. **"Discriminatory" is an accusation and it breaks the register.** The Monte Carlo puts accusation
+   framings at **−16 to −26 points of settlement position** for no gain in the employment outcome.
+3. ⭐ **s 11(3) means nothing is lost by waiting.** Intent is irrelevant, so there is no advantage in
+   asserting purpose early.
+
+⇒ **What the response does instead:** it records, neutrally, that the measures are directed at the
+only matter ever raised, and asks that any refusal identify the basis **"having regard to the
+consequences that have followed from the matter to date and to the cost of the alternative
+arrangements proposed."**
+⭐ **That recites s 11(2)(a) and (b) without citing the section.** If they refuse, the reasonableness
+elements are already on the record in their own correspondence file — and the complaint writes
+itself later.
+
+## 7.4 ⚠️ LIMITATION — THIS ONE IS SHORT
+> **AD Act s 138:** a complaint must be made **within 1 year** of the alleged contravention;
+> out of time, the commissioner may accept it **only if "good cause"** is shown.
+
+⚠️ **One year, not six.** Compare **IR Act s 310(3) — six years.**
+| Event | 1-year AD Act window closes |
+|---|---|
+| 8 Sep 2025 attendance letter | **~8 Sep 2026** — ⚠️ five weeks away |
+| Exclusion from 3 Jul 2026 | 3 Jul 2027 |
+| The RFMI, 31 Jul 2026 | 31 Jul 2027 |
+
+⇒ **The 2025 attendance letter is close to falling out of the AD Act window.** ⚠️ **That is a real
+sequencing constraint and it cuts against the "sequence everything behind the WC settlement"
+discipline for this route only.**
+[ ] **Raise the limitation question with Together (Petering) before 8 September 2026.**
+[ ] Note s 141A and the "within-time contravention" provision at s 138(3) — a continuing course of
+conduct with at least one in-time contravention may carry earlier ones. **Verify before relying.**
