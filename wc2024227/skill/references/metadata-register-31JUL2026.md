@@ -34,6 +34,44 @@ fixes the **finalisation** window, not the drafting or decision window.
 ⚠️ **Author field is blank** (`dc:creator = '-'`) on both. No individual is named in the metadata.
 The letters cannot be attributed to a drafter from this source.
 
+### 1.1A ⭐ BOTH HUGHES LETTERS WERE MODIFIED AFTER CREATION — AND ONLY THOSE TWO
+
+| | Employee letter | GP letter | Role Description | Authorisation Form |
+|---|---|---|---|---|
+| Created | 11:11:02 | 11:10:27 | 5 May 2026 14:29:55 | 20 Jan 2026 11:39:39 |
+| Modified | **11:11:27** | **11:11:42** | 14:29:55 (same) | 12:01:20 |
+| Gap | **25 sec** | **75 sec** | none | 22 min |
+| `/Root` has `/ADBE_FillSignInfo` | **YES** | **YES** | no | no |
+| Trailer `/ID` original vs current | **DIFFER** | **DIFFER** | identical | identical |
+| `xmpMM:DocumentID` vs `InstanceID` | **differ** | **differ** | identical | differ |
+
+**Two independent indicators that the two letters were altered after generation:**
+1. **`/ADBE_FillSignInfo`** in `/Root` — an artefact of Adobe Acrobat's **Fill & Sign** tool. Its
+   presence means that feature touched the file. Absent from the other two documents.
+2. **The trailer `/ID` array** holds an original and a current value. **They differ on both Hughes
+   letters and are identical on the Role Description and Authorisation Form.** A differing pair means
+   the file changed after creation.
+
+⇒ **Consistent with a stored signature image applied via Fill & Sign within 25–75 seconds of the PDF
+being generated.**
+
+⚠️ **STATED NO HIGHER THAN THAT.** `/ADBE_FillSignInfo` does not record WHO used the tool. This is
+not a document examiner's opinion. What is established is that both letters were modified within
+75 seconds of creation and carry a Fill & Sign artefact the other documents do not.
+⇒ If it holds, the signature was not a separate deliberative act — it was part of the same
+sub-75-second operation that produced the document, 32 minutes before transmission.
+
+**Full document identifiers, for the record:**
+- Employee letter — `DocumentID uuid:CC55D510-74D3-4FFE-A46B-5F84A422D1F1` ·
+  `InstanceID uuid:54bc187e-8e1e-439d-b047-6edc6334202d` ·
+  trailer `/ID` `10d555ccd374fe4fa46b5f84a422d1f1` | `fe2037327737af43badc3219693489de`
+- GP letter — `DocumentID uuid:9398CC9E-5304-430E-9507-F6ACAE75D11A` ·
+  `InstanceID uuid:4cc5e3fb-d3ec-4ec3-a78d-28fcd33a4618` ·
+  trailer `/ID` `9ecc989304530e439507f6acae75d11a` | `ce48830372c190438e1983dff2e19a19`
+- Both: PDF 1.7, Tagged, XMP toolkit `Adobe XMP Core 5.6-c018 91.98c2f96, 2021/06/15`,
+  `/Root` = `/MarkInfo /StructTreeRoot /Metadata /ADBE_FillSignInfo /Type /Lang /ViewerPreferences
+  /OCProperties /Pages`, `/Author = "-"`, no Title, no Keywords
+
 ### 1.2 THE ROLE DESCRIPTION (their Attachment 2)
 
 | | |
@@ -61,10 +99,13 @@ in that window, not years earlier.
 ⇒ **Confirms it is a standard MSH template**, not bespoke. "RRTW" = Rehabilitation and Return to
 Work. Supports the template-plus-customisation reading of the whole request.
 
-### 1.4 THE ECC (their Attachment 1)
+### 1.4 THE ECC (their Attachment 1) — COMPLETELY STRIPPED
 
-**No metadata at all** — no creator, producer, author or dates. Consistent with a scan flattened of
-identifying information. Nothing to extract.
+**No `/Info` dictionary at all. No XMP stream.** No author, creator, producer, title or dates.
+`/Root` contains only `/Type` and `/Pages`. **PDF version 1.3** against 1.7 for every other document
+in the bundle. Trailer `/ID` pair identical (`be66735d…` twice) — unmodified since creation.
+⇒ A flat scan carrying nothing. Nothing to extract, and nothing to infer beyond that it was scanned
+rather than generated.
 
 ---
 
@@ -108,7 +149,9 @@ these will not suffice. The originals sit in his mailbox.
 
 | Proposition | Metadata says |
 |---|---|
-| The 31 July request was rushed | **Supports it** — exported 11:10/11:11, sent 11:43, no editing between |
+| The 31 July request was rushed | **Supports it** — exported 11:10/11:11, sent 11:43 |
+| The letters were modified after generation | **Establishes it** — `/ADBE_FillSignInfo` present and trailer `/ID` pairs differ on both letters, and on neither of the other two documents |
+| The signature was applied digitally, in seconds | **Consistent with it** — Fill & Sign artefact plus a 25–75 second create-to-modify gap. Not proof, and the tool does not record who used it |
 | It was not legally reviewed | **Consistent** — no revision cycle between export and transmission |
 | Hughes drafted it | **Silent** — author field blank on both letters |
 | The decision was made that morning | **Does not establish** — export ≠ drafting. The Word file may predate 31 July |
