@@ -2685,3 +2685,31 @@ within the claim, NOT the injury date. Earlier working notes loosely treated thi
 injury" — correct that wherever it appears.
 ⇒ **FOR THE PSYCHIATRIST BRIEF: the gap to explain is 18 June 2024 → 24 October 2024, ~4 months,
 not 7.** Materially easier to account for clinically.
+
+## 31 JUL 2026 — CORRECTED AGAIN: THE 24 OCTOBER SEQUENCE IS SAME-DAY, APPOINTMENT FIRST
+
+Supersedes the framing in the preceding note, which wrongly treated the DECISION DATE (22 Oct) as
+the relevant date. The relevant date is **RECEIPT**.
+
+**THE ACTUAL SEQUENCE — 24 October 2024:**
+1. Appointment with the doctor; **MDD diagnosed**.
+2. **Later the same day**, the review decision (reasons dated 24 October 2024) arrived.
+
+⇒ The diagnosis CANNOT have been caused by the decision — he did not have it yet.
+⇒ BUT this is a SAME-DAY sequence. **The date proves nothing; the TIME proves everything.**
+
+**THE SINGLE HIGHEST-VALUE DOCUMENT:**
+[ ] **The email delivering the reasons on 24 October 2024, with its timestamp.** He was
+    self-represented at that point (Saines cost agreement not until 26 Nov 2024), so it came to him
+    directly — his own inbox, Oct 2024, from Workers' Compensation Regulatory Services /
+    worksafe.qld.gov.au, ref 69983, 28 pages.
+[ ] **The consultation time on the clinical note for 24 October 2024.**
+
+⭐ **WITH BOTH TIMES DOCUMENTED THE POINT INVERTS.** It stops being a defence and becomes evidence
+FOR him: on 24 October 2024 he sought medical help and was diagnosed BEFORE knowing any outcome —
+a condition live and deteriorating independent of the litigation, which is the opposite of what the
+coincidence would otherwise suggest.
+
+Risk assessment: modest. The Regulator may never run it. But it is the kind of point that sounds
+damaging if unanswered and is embarrassing to raise if answered. Worth ~20 minutes, not more.
+No change to the RFMI drafting — Q1(a) still routes through the clinician with clinical context.
