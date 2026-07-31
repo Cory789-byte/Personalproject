@@ -3,7 +3,8 @@
 > Extracted with `pdfinfo` + `pikepdf` XMP. All UTC timestamps converted to **AEST (UTC+10)**.
 > ⚠️ **CRITICAL DISTINCTION:** some metadata belongs to **MSH's originals**; most belongs to
 > **Cory's own exports** and says nothing about MSH. Marked throughout.
-> (`exiftool` is not installed on this box — `pdfinfo` and `pikepdf` cover the same ground.)
+> Tools used: **`pdfinfo`**, **`pikepdf`**, **`exiftool` 12.76** (installed 31 Jul), **`qpdf`**,
+> **`pdfimages`**, and **manual incremental-revision recovery** by truncation at each `%%EOF`.
 
 ---
 
@@ -55,11 +56,45 @@ The letters cannot be attributed to a drafter from this source.
 ⇒ **Consistent with a stored signature image applied via Fill & Sign within 25–75 seconds of the PDF
 being generated.**
 
-⚠️ **STATED NO HIGHER THAN THAT.** `/ADBE_FillSignInfo` does not record WHO used the tool. This is
-not a document examiner's opinion. What is established is that both letters were modified within
-75 seconds of creation and carry a Fill & Sign artefact the other documents do not.
-⇒ If it holds, the signature was not a separate deliberative act — it was part of the same
-sub-75-second operation that produced the document, 32 minutes before transmission.
+### 1.1B ✅ INCREMENTAL REVISIONS RECOVERED — AND NOTHING WAS HIDDEN
+
+Both letters carry **3 `%%EOF` markers and 2 `/Prev` entries** = three saved generations. Each was
+recovered by truncating at the byte offset of each `%%EOF`. All opened cleanly.
+
+| Step | Change | Significant? |
+|---|---|---|
+| **rev1 → rev2** | +185 bytes; adds `/StructTreeRoot`. **Text identical.** | **NO** — standard Word output. The Role Description does exactly the same (2 EOF, 1 `/Prev`) |
+| **rev2 → rev3** | **+99,121 bytes** (employee) / **+101,021** (GP); adds `/OCProperties` **and** `/ADBE_FillSignInfo`; ModDate advances 25s / 75s. **Text identical.** | **YES — and only on the two letters** |
+
+**What rev3 added, per `pdfimages` on the recovered revisions:**
+> A **1000 × 398 px JPEG at 624 dpi** plus its transparency mask (~87 KB together, matching the size
+> increase), placed on the page carrying the signature block in each letter.
+> **1000 ÷ 624 = 1.60 in wide · 398 ÷ 624 = 0.64 in high.**
+> **Identical dimensions and byte sizes in both files** — the same stored signature image, applied to
+> both documents.
+
+### ⇒ WHAT IS NOW ESTABLISHED
+1. **The text of both letters was FINAL at PDF creation.** Identical across all three revisions.
+2. A **stored signature image** was applied **25 seconds** (employee) and **75 seconds** (GP) after
+   creation, via Adobe Fill & Sign.
+3. **Nothing was edited between signing and transmission.**
+4. The Role Description has **no third revision** — the signing step is what distinguishes the two
+   letters from every other document in the bundle.
+
+### ⚠️ THIS IS A NEGATIVE FINDING ON CONCEALMENT — RECORD IT AS SUCH
+The incremental updates were flagged as potentially revealing earlier drafts. **They were recovered,
+and they show nothing was changed.** There is no hidden or superseded text. The letters as sent are
+the letters as generated.
+
+**It cuts both ways and both should be recorded:**
+- **Against MSH** — the whole production (generate → sign → send) occupied ~33 minutes, and the
+  signing was a stored image dropped in within 75 seconds. Not a document drafted, reviewed,
+  circulated and wet-signed.
+- **Against any suggestion of alteration** — there is none. If that was ever a line of attack, it is
+  closed. Do not advance it.
+
+⚠️ **STILL NOT ESTABLISHED:** who applied the signature (`/ADBE_FillSignInfo` does not record it),
+and when the underlying Word document was drafted.
 
 **Full document identifiers, for the record:**
 - Employee letter — `DocumentID uuid:CC55D510-74D3-4FFE-A46B-5F84A422D1F1` ·
@@ -151,7 +186,9 @@ these will not suffice. The originals sit in his mailbox.
 |---|---|
 | The 31 July request was rushed | **Supports it** — exported 11:10/11:11, sent 11:43 |
 | The letters were modified after generation | **Establishes it** — `/ADBE_FillSignInfo` present and trailer `/ID` pairs differ on both letters, and on neither of the other two documents |
-| The signature was applied digitally, in seconds | **Consistent with it** — Fill & Sign artefact plus a 25–75 second create-to-modify gap. Not proof, and the tool does not record who used it |
+| The signature was applied digitally, in seconds | **ESTABLISHED** — revision 3 adds a 1000×398 px signature image at 624 dpi via Fill & Sign, 25s/75s after creation, identical image in both letters |
+| The letters were altered or earlier drafts concealed | **DISPROVED** — all three revisions recovered; text identical throughout |
+| Who applied the signature | **Not established** — the artefact does not record it |
 | It was not legally reviewed | **Consistent** — no revision cycle between export and transmission |
 | Hughes drafted it | **Silent** — author field blank on both letters |
 | The decision was made that morning | **Does not establish** — export ≠ drafting. The Word file may predate 31 July |
