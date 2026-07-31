@@ -44,7 +44,8 @@ S = {
 }
 
 def esc(t):
-    return t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    t = t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    return re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", t)
 
 ALLOC = [
  ("1(a)", "Date of first diagnosis", "Answered openly; clinical context from the psychiatrist"),

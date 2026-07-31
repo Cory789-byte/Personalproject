@@ -23,8 +23,9 @@ IN SUMMARY
   4. Question 1(a) I answer openly in this document. Question 1(b) alone I ask be withdrawn: it
      asks a general practitioner for a psychiatric causal formulation, and it goes to a matter
      in issue in WC/2024/227.
-  5. I ask to be returned to my roster now. The Health Service has confirmed in its own letter
-     that the restriction in issue concerns a duty which is not part of my role.
+  5. I ask to be returned to my roster now. The restriction in issue asks that complaints be
+     redirected rather than absorbed — which is the process the Health Service says it already
+     operates, and which the Role Description does not require of me in any event.
   6. I ask for an extension of the seven days, and explain at Part 8 why that period cannot be
      met on the Health Service's own question set.
   7. I ask who the delegate is, and that any decision about my return be made by an officer
@@ -89,38 +90,63 @@ right person to answer it?
 Applying that test, the nine questions divide four ways. I am not declining to provide
 information. I am proposing that each question be directed to whoever is able to answer it.
 
-1.3  INFORMATION THE HEALTH SERVICE ALREADY HOLDS
+1.3  THE CHECKLIST ALREADY ANSWERS MOST OF WHAT IS NOW ASKED
 
-Much of what is sought is already in the Health Service's possession.
+The Employee Capabilities Checklist is Attachment 1 to the Health Service's own letter. Read in
+full, it already answers, in substance, most of the nine questions.
 
-The Employee Capabilities Checklist of 3 July 2026 states — as quoted in the Health Service's
-own letter of 31 July 2026 — that I have a diagnosis of Major Depressive Disorder with anxious
-distress, "with symptoms exacerbated on exposure to identified workplace stressors, including
-complaint handling, being held accountable and blamed for the failures of others, and
-unpredictable rostering"; that the injury is a "work-related psychological injury"; that
-"unresolved workplace matters involving line management" is a further stressor; that my
-"working memory is affected under stress"; and that I should not undertake complaint-handling
-duties.
+  Q1(d)  foreseeable risk and necessary controls — answered at Additional Comments 3 and 4,
+         which set out the recommended work pattern with clinical reasoning for each shift type,
+         and five specific workplace modifications.
 
-In addition:
+  Q4     restrictions, clinical basis in functional terms, duration and review — answered at
+         Additional Comments 2: "Episodic, with symptom exacerbation linked to stressor
+         exposure. The restrictions below are expected to remain necessary for at least the next
+         3-6 months, subject to treatment response and 8-weekly review." The review date is
+         given on the first page as 28 August 2026.
 
-  (a) Attachment 2 to the letter to Dr Ma is the Health Service's own Role Description for the
-      position. It contains no complaint-handling responsibility.
-  (b) The letter of 31 July 2026 states the Health Service's own position that complaints
-      received by Switchboard employees are escalated to the Client Liaison Officer and/or the
-      Manager, Switchboard Services.
-  (c) The letter of 7 July 2026 acknowledged that my restrictions were already being
-      accommodated.
-  (d) I worked in my substantive role, under the existing reporting arrangements and on
-      adjusted hours, for approximately twelve months to 3 July 2026. The Health Service's own
-      rosters and payroll records evidence that period.
+  Q5     what "complaint handling" encompasses — answered: "complaints received at the
+         Switchboard are to be logged and redirected to management/the dedicated complaints
+         area, not actioned, resolved or absorbed by Mr Shepherd."
 
-That material already answers Question 5, and goes a considerable way toward answering
-Questions 1(d), 3, 4, 6 and 8. What genuinely remains outstanding is narrow, and I identify it
-at Part 3.
+  Q6     the requirements of the role — answered: "Usual switchboard operational duties remain
+         suitable; complaint-handling duties are excluded as below."
 
-I raise this because I have now been excluded from the workplace for five weeks while
-information the Health Service largely already holds is sought again.
+  Q7     working memory in functional terms — addressed under Memorising information ("Working
+         memory affected under stress") and at Additional Comments 1 ("reduced concentration and
+         working memory under sustained high-demand load"), with the roster controls which
+         manage it.
+
+  Q8     tasks and environments which exacerbate the condition — answered at Additional Comments
+         1 and in the foreseeable-stressors response.
+
+  Q2     capacity to follow a direction — the checklist records "Understanding instructions:
+         Normal" and "Carrying out instructions accurately: Normal."
+
+I do not raise this to refuse further clarification. I have set out at Part 3 what my
+practitioners will provide. I raise it because I have been excluded from the workplace for five
+weeks while information the Health Service has held since 3 July 2026 is sought again.
+
+1.4  THREE MATTERS ON THE FACE OF THE CHECKLIST
+
+  (a) **It records a continuation, not a return.** The first page states: "Fit to commence the
+      above from: 3 July 2026 (continuation of existing arrangement)."
+
+  (b) **It records twelve months of sustained work.** At Additional Comments 3: "This reduced
+      pattern of approximately six shifts per fortnight is the pattern Mr Shepherd has in fact
+      worked and tolerated over the past twelve months without deterioration, and maintaining
+      rather than increasing it best supports recovery while minimising risk of exacerbation."
+
+  (c) **The restriction in issue asks for nothing the Health Service does not already do.** The
+      checklist asks that complaints be "logged and redirected to management/the dedicated
+      complaints area." The letter of 31 July states that the established process is "immediate
+      escalation and management by the Health Service Client Liaison Officer and/or Manager,
+      Switchboard Services." Those are the same arrangement. The Role Description at
+      Attachment 2 contains no complaint-handling responsibility.
+
+I record also that the checklist recommends, at Additional Comments 4(c), "return-to-work
+coordination and correspondence through the Injury Management team, Human Resources." That is
+the substance of what I propose at Part 7(e).
 
 --------------------------------------------------------------------------------
 PART 2 — PROPOSED ALLOCATION

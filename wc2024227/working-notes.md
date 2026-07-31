@@ -3001,3 +3001,85 @@ concerns."
 ⇒ Qualified by "so far as I am aware" so it invites correction rather than argument. Converts the
 reassignment request from a procedural nicety into a request for **the first independent look the
 matter has had in five weeks.**
+
+## 31 JUL 2026 — ⭐⭐ THE ECC READ IN FULL (5 pp, image-only PDF read page-by-page as images)
+
+Source: documents/2026-07-31_RFMI_Attachment1_ECC_3July_asServed.pdf. Signed **3.7.26**, Dr Day Hong
+Ma, MBBS FRACGP FACRRM, Provider No 4696842K, My Doctors Clinic, 16/3221 Surfers Paradise Blvd.
+(No OCR on this box — extracted via `pdfimages -png` and read as images. Repeat that method for any
+other scanned PDF.)
+
+### ⭐ THE HEADLINE: THE RESTRICTION AND MSH'S OWN PROCESS ARE THE SAME THING
+**ECC:** "No complaint-handling duties: complaints received at the Switchboard are to be logged and
+redirected to management/the dedicated complaints area, not actioned, resolved or absorbed by
+Mr Shepherd."
+**MSH 31 Jul:** "established process for client complaints received by Switchboard employees is for
+immediate escalation and management by the Health Service Client Liaison Officer and/or Manager,
+Switchboard Services."
+⇒ **The sole restriction driving five weeks of unpaid exclusion asks MSH to do exactly what MSH says
+it already does.**
+
+### THE ECC ALREADY ANSWERS 7 OF THE 9 RFMI QUESTIONS
+- **Q4** ← AC2: "Episodic, with symptom exacerbation linked to stressor exposure. The restrictions
+  below are expected to remain necessary for at least the next 3-6 months, subject to treatment
+  response and 8-weekly review." Review date on p1: **28 August 2026**.
+- **Q1(d)** ← AC3 (work pattern with clinical reasoning per shift type) + AC4 (five modifications).
+- **Q5** ← the complaint restriction, defined verbatim.
+- **Q6** ← "**Usual switchboard operational duties remain suitable**; complaint-handling duties are
+  excluded as below."
+- **Q7** ← "Memorising information — Restricted. **Working memory affected under stress (treating
+  psychiatrist report 13-Feb-2025)**" + AC1.
+- **Q8** ← AC1 + the foreseeable-stressors box.
+- **Q2** ← p2 grid: "**Understanding instructions: Normal**"; "**Carrying out instructions
+  accurately: Normal**."
+
+### THREE MORE FINDINGS ON THE FACE OF IT
+1. p1: "Fit to commence the above from: 3 July 2026 **(continuation of existing arrangement)**."
+2. AC3: "This reduced pattern of approximately six shifts per fortnight is the pattern Mr Shepherd
+   has in fact **worked and tolerated over the past twelve months without deterioration**."
+   (p1 table note: "continuation of the reduced pattern Mr Shepherd has sustained since 2025".)
+3. AC4(c): "**return-to-work coordination and correspondence through the Injury Management team,
+   Human Resources**" — the ECC recommended on 3 July what he now proposes at Part 7(e). The 31 July
+   letters are signed by a **Director of Corporate Services**.
+
+### COGNITIVE/RELATIONAL GRID — MOSTLY NORMAL
+NORMAL: learning new tasks; initiating tasks independently; understanding instructions; carrying out
+instructions accurately; executing tasks in reasonable timeframe; **working autonomously without
+supervision**; prioritising tasks; making decisions; communicating with internal/external customers;
+working in a team environment; supervising others ("Not a requirement of the AO3 role");
+interacting appropriately with others.
+RESTRICTED: maintain focus/concentration; multi-tasking; memorising information; working in a high
+demand environment; handling conflict.
+
+### ⚠️ TWO CORRECTIONS TO EARLIER ANALYSIS
+1. **Q2 HAS AN INNOCENT ORIGIN.** The ECC p1 has a checkbox under "It is my opinion that they are
+   fit to resume:" — "☐ **Workplace Performance Discussions**" — **left UNTICKED**. MSH is chasing an
+   unticked box on its own form. The question as framed still overreaches and the premise is still
+   false, but **the inference that a conduct process is contemplated is much weaker than previously
+   recorded. Do not build on it.**
+2. **Q1(c) WAS NEVER A FISHING EXPEDITION.** The ECC itself names "treating psychiatrist report
+   13-Feb-2025". MSH has known a psychiatrist report exists since 3 July — from Cory's own document.
+   Consenting to Q1(c) was right. ⚠️ NOTE: 13 Feb 2025 is also the date of the Mind and Memory
+   Service report referenced in the QSuper correspondence. Same document. It is disclosed on the
+   face of the ECC.
+3. **Q1(a) has a legitimate origin too** — the ECC gives ONSET (18 June 2024), not date of
+   diagnosis. So the question asks for something the ECC does not state. Still not necessary for
+   adjustment purposes; but not baseless.
+
+### OTHER DETAIL CAPTURED
+- Diagnosis: **Major Depressive Disorder with anxious distress (DSM-5 296.23) — work-related
+  psychological injury, onset 18 June 2024**. Matches the WC claim injury date exactly.
+- Medications: fluoxetine 60mg mane; lisdexamfetamine (Vyvanse) 30mg mane; quetiapine 25mg nocte
+  **ceased**. Functional consequence: limit nights to ≤2/fortnight; predictable rostering published
+  in advance; **minimum 10-hour break between shifts consistent with the Award and fatigue risk
+  management standards**.
+- Dr Ma ticked BOTH "I have viewed the worker's Position Description (attached)" AND "I am aware of
+  the requirements of their role" — he assessed against the AO3 RD.
+- Form note: "**a separate medical certificate is also required to support the completed Capability
+  Checklist**" — [ ] CHECK whether one was provided; if not, MSH may raise it.
+
+### DOCUMENT UPDATED
+Part 1.3 rebuilt as "THE CHECKLIST ALREADY ANSWERS MOST OF WHAT IS NOW ASKED" (question-by-question
+mapping), and new **Part 1.4 "THREE MATTERS ON THE FACE OF THE CHECKLIST"** (continuation; twelve
+months tolerated; the restriction matching MSH's own process). Summary item 5 rewritten.
+Builder patched to render **bold** properly.
