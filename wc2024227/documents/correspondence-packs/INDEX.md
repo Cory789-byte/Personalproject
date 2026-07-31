@@ -17,8 +17,9 @@
 | `04_Human_Resources_PACK_21pp_2026-07-31.pdf` | 21 | 6 | **LBH HR Team 1 + HR mailboxes** — the 31 Jul 2026 RFMI |
 | `05_Jacqui_Roberts_PACK_64pp.pdf` | 64 | 28 | **Jacqui Roberts** correspondence, Feb 2025 – Oct 2025 |
 | `02_Chloe_Taylor_PACK_462pp.pdf` | **462** | **275** | ⭐ **Chloe Taylor**, Aug 2020 – 17 Jul 2026 — **the largest pack** |
+| `10_Amy_Mo_WorkCover_EMAILS_PACK_84pp.pdf` | 84 | 32 | ⭐ **Amy Mo, WorkCover Qld** — the **complete original claim chain**, 4 Jul – 10 Oct 2024 |
 
-**Missing: anything numbered 06 or higher**, if the export ran further.
+**Missing: 06, 07, 08, 09**, and anything above 10.
 
 ⚠️ **The grouping is looser than "correspondence with X".** Pack 02 contains Cory's July 2024 emails
 to **Amy Mo at WorkCover Queensland**, to which Taylor was not a party. Treat the pack name as a
@@ -99,6 +100,56 @@ resolved" point, and it is now evidenced rather than asserted.
 
 ⇒ Confirms the security-office placement on **8 April 2025**, and that Roberts met him that
 afternoon — the meeting that preceded the reversal.
+
+---
+
+## 10 — AMY MO, WORKCOVER QUEENSLAND (84 pp, 32 sections) — ⭐ THE ORIGINAL CLAIM CHAIN
+
+**Claim ref: S23LW142013.** Complete, both directions, 4 July – 10 October 2024. This is the
+decision-making record behind the rejection now under appeal.
+
+| Date | From | Item |
+|---|---|---|
+| **4 Jul 2024** | Amy Mo | **"Request for Statement of Events"** — the chain opens |
+| 10–11 Jul 2024 | both | Three exchanges on the statement request |
+| **12 Jul 2024** | Cory | ⭐ **"Cory Shepherd Events"** — *"this 'overview' ended up being **10 pages**… I'll attach all the supporting evidence, which has taken some time to compile"* |
+| **15 Jul 2024 12:38 / 13:17** | Cory | **"work cover statement"** and **"statement update"** — **attachment-only** |
+| 18 Jul 2024 | both | Four exchanges under "Our ref: S23LW142013" |
+| 16–29 Aug 2024 | both | Incl. **"Union D…"** (26 Aug), **"Business Case for change Letter"** (29 Aug), **"Afterhours Oncall Process — Switchboard"** (29 Aug) |
+| **30 Aug 2024** | Cory | ⭐ **"Failure to consult putting patients at risk…"** |
+| 30 Aug 2024 | Jack Cain / Amy Mo | **"Treatment cost coverage"** — four exchanges |
+| 2–4 Sep 2024 | both | Further exchanges |
+| ⭐ **6 Sep 2024 22:27** | Amy Mo | **"Employer additional response \| S23LW142013"** — *"Please see attached **additional response from your employer**. Should you have any further factual information, please provide **by 10 September 2024**, otherwise I will be proceeding to making a decision."* |
+| 11 Sep 2024 | both | Three exchanges |
+| ⭐ **13 Sep 2024 16:59 AEST** | Amy Mo | **"Reasons for decision"** — the rejection. *"You have **3 months** from receipt of this notice to lodge an application for an external review."* |
+| **13 Sep 2024 18:47** | Cory | Immediate reply — 1h 48m later |
+| 10 Oct 2024 | Cory | **"Cory Shepherd Employment matters"** → **automatic reply** |
+
+### ⭐ FINDINGS
+1. **Seven days from the employer's additional response to the decision.** MSH's further material
+   reached Cory on **6 September at 22:27**; his window closed **10 September**; the decision issued
+   **13 September**.
+   [ ] **The employer's additional response is an attachment and is NOT in this export. Obtain it.**
+   It is the document that most directly preceded the rejection.
+2. **The 12 July 2024 ten-page overview and the 15 July statement + update are all attachment-only.**
+   **None of the attachments survive in any export held.** [ ] **Obtain — these are his primary
+   account, made contemporaneously, seven weeks after the injury date.**
+3. **Review timing confirmed** — decision 13 Sep 2024, three-month window, **Review Decision 69983
+   issued 24 Oct 2024**. The review was sought promptly.
+
+### ⚠️⚠️ VULNERABILITY — READ BEFORE ANY CROSS-EXAMINATION PREPARATION
+Cory's reply of **13 September 2024 18:47**, on the WorkCover file, contains:
+> "How has my employer provided evidence that my signature **was not fraudulently applied** to the
+> document, especially when I have stated that **I did not sign any payment documents**?"
+
+⚠️ **MASTER discipline rule 2 is that the word "fraud" never appears in the WC track.** It is
+**already on the WorkCover file**, in his own words, from **13 September 2024** — and the Regulator
+holds it.
+⇒ **This is not something that can be kept out. It must be prepared for.** The reply also records
+*"you mentioned that **HR closed my cases**"* and a rostering allegation — *"a breach of rostering
+rules by allowing only **7 hours between shifts**, my employer claims they provided 8"*.
+[ ] Reconcile the 7-hour allegation against the roster corpus in packs 01 and 02.
+[ ] Prepare the answer on the signature point **before** it is put.
 
 ---
 
