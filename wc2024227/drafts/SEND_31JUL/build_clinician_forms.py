@@ -165,7 +165,15 @@ build(OUT+"FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf",
              "of absence. Could you please address, in functional terms, whether distress of that kind "
              "in anticipation of attendance is a feature of his condition, and what its effect on "
              "attendance and punctuality would be expected to be.", None, 40*mm),
-       ("10", "Having regard to your answer to question 9, Mr Shepherd has raised for consideration a "
+       ("10", "Over the twelve months preceding the Employee Capabilities Checklist Mr Shepherd was "
+              "rostered and worked in the order of six shifts per fortnight, a pattern the Checklist "
+              "records as having been “worked and tolerated… without deterioration”. In your opinion, is "
+              "a pattern of that kind sustainable for him, and what rostered pattern would you consider "
+              "appropriate going forward?",
+        "The Health Service set and accepted that roster over the period. Mr Shepherd has asked it to "
+        "produce its own record of the pattern. Your opinion is sought on what is sustainable, not on "
+        "what has been rostered.", 34*mm),
+       ("11", "Having regard to your answer to question 9, Mr Shepherd has raised for consideration a "
               "sequence of (i) a telephone call one hour before each rostered shift to confirm "
               "attendance, (ii) a second call if the first is not answered or attendance is not "
               "confirmed, and (iii) engagement of the on-call operator to cover the shift if attendance "
