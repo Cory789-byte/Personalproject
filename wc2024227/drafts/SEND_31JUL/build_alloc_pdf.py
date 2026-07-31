@@ -128,7 +128,7 @@ while i < len(lines):
     if not s:
         flush(); continue
 
-    if re.match(r"^PART \d+ —|^PART \d+ —", s) or re.match(r"^PART \d+", s):
+    if s == "IN SUMMARY" or re.match(r"^PART \d+", s):
         flush()
         flow.append(Paragraph(esc(s), S["h1"]))
         continue
