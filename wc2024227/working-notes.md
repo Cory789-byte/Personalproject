@@ -2342,3 +2342,66 @@ attached to the power asserted. A **Director's signature on a letter to the trea
 - IR Act general protections: a person **involved in** a contravention can be **personally liable**.
 - PID Act ss 40-42: reprisal is a **tort**; it attaches to individuals; exemplary damages available.
 An institution absorbs a finding. A named Director with a paper trail does not.
+
+## 31 JUL 2026 — THE CONFLICT OF INTEREST IN THE SIGNATORY: HOW TO FRAME IT PROPERLY
+
+### DO NOT RUN THE WEAK VERSION
+"He is the Director of the directorate, therefore conflicted" FAILS. In any HHS the Director is the
+natural delegate for HR decisions about staff in that directorate — that is delegation working
+normally. Proximity alone is not conflict. Build on the four specific strands instead.
+
+### THE FOUR STRANDS
+1. ⭐ **THE QUESTION IS ABOUT HIMSELF.** Q3 asks the GP whether Cory is fit "under the existing
+   reporting arrangements, including working with and reporting to their current line manager."
+   Those arrangements ARE Hughes's — Switchboard reports into Corporate Services; Corporate Services
+   is him. Only two answers exist and one is a finding against his own directorate. He has a direct
+   interest in the answer being "the employee cannot tolerate the arrangements" rather than "the
+   arrangements are unsafe."
+2. **THE CONDUCT IN ISSUE IS HIS SUBORDINATE'S** — Chloe Taylor reports to him. Whether her conduct
+   was ever addressed is a question about HIS supervision. Delegate assessing his own direct report.
+3. **HE IS A POTENTIAL RESPONDENT, NOT A BYSTANDER** (subject to the prior-conduct documents being
+   located) — a participant in the dispute exercising decision-making power over the other party.
+4. **THE RESTRUCTURE** — he was hired into the Corporate Services takeover of Switchboard. MSH's own
+   5 June 2026 objection ties the fatigue-management gap to "an organisational change related to the
+   reporting lines for Switchboard." He has an interest in that restructure reading as successful.
+
+### THE POINT THAT DOES THE WORK — cl 1.2 DOES NOT PROHIBIT CONFLICTS
+QPS Code of Conduct cl 1.2: a conflict is "not wrongdoing in itself"; "failing to disclose and manage"
+is "likely to be wrongdoing."
+⇒ The question is never "was he conflicted" but "**was it identified, declared and managed**."
+On the face of both 31 July letters: **NOTHING**. No acknowledgment that the signatory heads the
+directorate, supervises the manager, or owns the reporting line the doctor is asked to bless. Both are
+drafted to read as neutral machinery from an uninvolved senior officer.
+NOT an oversight: two years of complaints about this directorate, a PID, a live QIRC appeal, and a
+**Chief Executive who personally signed the 5 June objection**. Selecting this delegate was a CHOICE.
+
+### THE PATTERN — THIRD INSTANCE OF THE SAME STRUCTURE
+1. PID → referred to **HR**, which was part of what was complained about.
+2. Complaints about line management → handled by **line management**.
+3. Assessment of whether the reporting arrangements are safe → delegated to **the owner of the
+   reporting arrangements**.
+Every time, the body assessing the problem IS the problem. Not an isolated governance lapse — a
+structural absence of independence, repeated.
+⭐ **Psychosocial Code of Practice 2022 names "poor organisational justice" (lack of procedural
+fairness) as a HAZARD IN ITSELF.** So the conflict is not merely a defect in how the decision was
+made; it is another instance of the very hazard he raised, now operating on the process built to
+assess whether that hazard exists.
+
+### THE FRAME TO USE: APPREHENDED, NOT ACTUAL, BIAS
+Test: whether a fair-minded observer might reasonably apprehend that the decision-maker might not
+bring an impartial mind. Does NOT require proving partiality — only that the apprehension is
+reasonable. **Met on the UNDISPUTED facts alone**, before any prior-conduct evidence: Director of the
+affected directorate; supervisor of the manager whose conduct is in issue; owner of the reporting line
+under assessment; live QIRC proceeding; no disclosure. Lower bar = harder to answer. Choose it.
+
+### THEIR BEST ANSWER — AND THE REBUTTAL
+Expect: "Hughes is the RIGHT delegate BECAUSE he is new — arrived after the 2024 events, no history
+with Mr Shepherd, a fresh pair of eyes. That is independence."
+REBUTTAL: **freshness is only independence if the information is fresh too.** A Director briefed
+exclusively by the parties in dispute is not an independent mind; he is their account carried by a
+more senior signature. And the letter proves it — "As the Health Service is not aware of any concerns
+being raised for appropriate management," written in a matter with a PID, the PT safety report, a
+Form 24, a live appeal and a CE-signed objection before the Commission. That is not the error of an
+independent decision-maker who read the file; it is precisely the error of a person whose entire
+picture came from one side.
+⇒ Their best argument for his independence is the thing that demonstrates its absence.
