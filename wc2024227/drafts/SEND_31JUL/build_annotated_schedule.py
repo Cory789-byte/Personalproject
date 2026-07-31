@@ -105,7 +105,7 @@ F.append(para("Response to the correspondence of Metro South Health dated 31 Jul
               "Ref MSH-INJ-5795 &nbsp;·&nbsp; CLM-317073", "sub"))
 F.append(Table([[Paragraph("<b>Prepared by:</b> Cory Shepherd, Administration Officer (AO3), "
                            "Switchboard Services, Logan Hospital", S["meta"]),
-                 Paragraph("<b>Date:</b> [DATE]", S["meta"])]],
+                 Paragraph("<b>Date:</b> 31 July 2026", S["meta"])]],
                colWidths=[125*mm, 45*mm],
                style=TableStyle([("VALIGN",(0,0),(-1,-1),"TOP"),
                                  ("LEFTPADDING",(0,0),(-1,-1),0),
@@ -229,6 +229,29 @@ for n, t in [
        "on 3 July 2026 without objection."),
 ]:
     F.append(para("<b>%s.</b>&nbsp; %s" % (n, t), "body"))
+
+F.append(para("PART E — FOR COMPLETION BY THE HEALTH SERVICE", "h1"))
+F.append(para("The correspondence of 31 July 2026 records that a decision will be made regarding my "
+              "ability to perform my role. So that the decision-maker is identified on the record, and "
+              "having regard to the matters raised at Part 6 of my response of today's date, I ask that "
+              "the officer exercising the delegation complete the following.", "body"))
+_rows = [
+ [Paragraph("<b>Name of delegate</b>", S["cell"]), "", Paragraph("<b>Position</b>", S["cell"]), ""],
+ [Paragraph("<b>Instrument or schedule of delegation relied on</b>", S["cell"]), "", "", ""],
+ [Paragraph("<b>Date approval given</b>", S["cell"]), "",
+  Paragraph("<b>Directorate</b>", S["cell"]), ""],
+ [Paragraph("<b>Signature</b>", S["cell"]), "", Paragraph("<b>Date</b>", S["cell"]), ""],
+]
+_t = Table(_rows, colWidths=[46*mm, 44*mm, 26*mm, 54*mm],
+           rowHeights=[11*mm, 13*mm, 11*mm, 13*mm])
+_t.setStyle(TableStyle([("GRID",(0,0),(-1,-1),0.5,colors.HexColor("#BBBBBB")),
+                        ("SPAN",(1,1),(3,1)),
+                        ("VALIGN",(0,0),(-1,-1),"TOP"),
+                        ("LEFTPADDING",(0,0),(-1,-1),4),
+                        ("TOPPADDING",(0,0),(-1,-1),4)]))
+F.append(_t)
+F.append(Spacer(1, 4))
+F.append(para("I make no assumption as to who holds the delegation. I ask only that it be identified.", "note"))
 
 F.append(rule())
 F.append(para("This schedule is provided so that the questions may be directed to the practitioners "

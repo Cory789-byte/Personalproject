@@ -93,8 +93,8 @@ flow.append(Paragraph("Response and Proposed Allocation of Questions", S["title"
 flow.append(Paragraph("Request for Medical Information dated 31 July 2026", S["sub"]))
 meta = ("<b>Employee:</b> Cory Lea Shepherd, AO3, Switchboard Services, Logan Hospital<br/>"
         "<b>Reference:</b> MSH-INJ-5795 &#183; CLM-317073<br/>"
-        "<b>Request signed by:</b> Mr Scott Hughes, Director, Corporate Services, LBHS &#8212; 31 July 2026<br/>"
-        "<b>Response date:</b> ______________________")
+        "<b>Request issued by:</b> Human Resources, Logan and Beaudesert Health Service &#8212; 31 July 2026<br/>"
+        "<b>Response date:</b> 31 July 2026")
 flow.append(Paragraph(meta, S["meta"]))
 flow.append(Spacer(1, 5))
 flow.append(HRFlowable(width="100%", thickness=0.8, color=RULE, spaceAfter=2))

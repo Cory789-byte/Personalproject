@@ -58,7 +58,7 @@ def header(F, who, addr, formref):
                                "<b>Employer:</b> Metro South Health — Logan and Beaudesert Health Service<br/>"
                                "<b>Role:</b> Administration Officer (AO3), Switchboard Services, Logan Hospital "
                                "(permanent full-time, 76 hours per fortnight)", S["meta"]),
-                     Paragraph("<b>To:</b> %s<br/>%s<br/><br/><b>Date:</b> [DATE]" % (who, addr), S["meta"])]],
+                     Paragraph("<b>To:</b> %s<br/>%s<br/><br/><b>Date:</b> 31 July 2026" % (who, addr), S["meta"])]],
                    colWidths=[100*mm, 70*mm],
                    style=TableStyle([("VALIGN",(0,0),(-1,-1),"TOP"),
                                      ("LEFTPADDING",(0,0),(-1,-1),0)])))
