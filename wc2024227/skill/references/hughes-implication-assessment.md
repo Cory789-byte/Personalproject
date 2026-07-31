@@ -66,7 +66,8 @@ verify.
 | Proposition | Status |
 |---|---|
 | Hughes was **hired while Cory was absent**, and they had **never met** | **[A]** — plausible and consistent with the 21 Feb "where Switchboard is now reporting", but **his start date is not held**. [ ] Obtain. |
-| Over **~3 weeks from 24 Feb 2025**, Hughes and Taylor **acted together to move and isolate him** into another department | **[D/A]** — that he **was** outside Switchboard is proved (*"I am in the security office"*, 8 Apr 2025). **Who decided it, and why, is not in any document held.** [ ] The 3 Mar "Network User Access" thread is unread and may bear on it. |
+| Over **~3 weeks from 24 Feb 2025**, Hughes and Taylor **acted together to move and isolate him** into another department | **[D/A]** — **UPGRADED, see §3B.1.** That he **was** outside Switchboard is proved (*"I am in the security office"*, 8 Apr 2025), and it is now proved that **the location decision sat with Corporate Services and was still unmade on 21 Feb** (Bain). **What was decided, and why, is still not in any document held.** [ ] The 3 Mar "Network User Access" thread is unread. |
+| On his return another employee was **approved to full-time hours** | **[A] — no document. See §3B.4.** ⛔ Not assertable. Provable from rosters PP04–PP06 and the establishment/FTE report, **neither held**. |
 | Hughes **adopted Taylor's posture** toward him | **[A]** — **no document supports this.** ⚠️ It is a state-of-mind claim about a person who barely wrote to him. **Unprovable as framed.** |
 | Hughes **never speaks to him in the office** | **[A]** as a social fact — but **see §1: provable as an absence of consultation.** ⭐ **Reframe it; do not plead it.** |
 | Hughes **deflected all raised concerns** | **[D/A]** — partly supported: *"Noted thanks"* to a DV disclosure, and **no answer ever to the October complaint**. But *"all"* overstates: he answered leave and roster emails promptly and repeatedly through March 2025. |
@@ -140,6 +141,80 @@ suggestion the 64G was a fishing expedition.
       hold applied. **The WC appeal was already on foot** — Review Decision 69983 issued
       **24 Oct 2024**, six weeks earlier.
 - [ ] Whether a **second** approver was nominated ("approver**s**", plural, in the expiry notice).
+
+---
+
+## 3B. ⭐⭐ THE RETURN — 21–24 FEBRUARY 2025, FROM THE HR DIRECTOR'S OWN EMAILS
+
+Source: the five-message thread of **21 Feb 2025**, *"Confirming your return to Logan Hospital
+Switchboard"*, from **Estelle Bain, Senior Director Human Resources, LBHS**, cc **Jacqui Roberts**.
+Pack 05 pp 3–7, pack 03 pp 13–26.
+
+### 3B.1 ⭐⭐ THE LOCATION DECISION WAS CORPORATE SERVICES' — AND UNMADE THREE DAYS OUT
+> **Bain, 21 Feb 2025 11:47:** "My colleague Jacqui and I are communicating with the relevant leaders
+> in **Corporate Services (where Switchboard is now reporting)** to confirm the practical details of
+> your return…
+> **At this stage we are just waiting for some detail from Corporate Services as to where you will be
+> located on Monday, and we'll confirm that as soon as possible.**"
+
+⇒ **The Senior Director HR did not know where he would be sitting three days before he returned, and
+was waiting on Hughes's directorate to tell her.**
+⇒ ⭐ **This is the documentary foundation the "isolation" proposition previously lacked.** It does
+**not** prove what Corporate Services decided or why — but it proves **whose decision it was**, and
+that it was **still open on 21 February**. Read with *"I am in the security office"* (8 Apr 2025),
+the placement is now bracketed at both ends.
+
+### 3B.2 ⭐ HE RETURNED SUPERNUMERARY — NOT ROSTERED, NOT ON PAYROLL
+> "**For the first week you will be supernumerary** as we do need to re-integrate you back into the
+> workplace after a relatively long break, **so you won't be working shifts in that first week**."
+> "Jacqui and I are also liaising with the relevant leaders to work through the practicalities of
+> **getting you back onto the Payroll system** and while this won't be immediate…"
+> "Other practical elements, **such as your roster beyond the first week**, will also be worked
+> through as soon as possible."
+
+⇒ On the day he returned to a **permanent full-time** position he was: **supernumerary**, **not
+rostered**, **not on payroll**, and **without a confirmed location**.
+⚠️ **Bain's stated reason is benign and should be quoted, not fought** — re-integration after a long
+absence, mandatory training, no ID or proximity card yet. **That is ordinary and humane.**
+⭐ **But it is the factual hook for the establishment question at §3B.4** — because a substantive
+full-time occupant who is supernumerary is, for that period, not filling his own line.
+
+### 3B.3 ⭐ HUGHES WAS TO MEET HIM PERSONALLY AT 7AM ON 24 FEBRUARY
+> "**Scott Hughes is the Director of Corporate Services and he would like to welcome you back on
+> Monday**, and fill you in on the various updates… how about I suggest to Scott that **he meet you in
+> the Logan Hospital lobby at the front entrance at 7am**, and then **he can get you settled in**."
+> Cory, 21 Feb 12:39: *"Please forward on his contact details and I will be there at 7am."*
+
+⇒ **The record shows exactly one occasion on which Hughes was scheduled to engage with him
+personally — the first morning.** Given §1 (26 emails, none about the work, none after Aug 2025),
+**what happened at 7am on 24 February 2025 is now a very sharp question.**
+[ ] **[W]** Did the meeting occur? What was said? What was he told about location and roster?
+**This is witness evidence Cory can give directly, and it is the single most answerable open
+question about Hughes.**
+
+### 3B.4 ⚠️ THE "ANOTHER STAFF MEMBER MADE FULL-TIME" CLAIM — **[A], NOT YET EVIDENCED**
+**Proposition:** that on or about the day of his return, another Switchboard employee was approved
+to move to full-time hours.
+
+**Status: no document in the corpus, the packs or the disclosure records this.** The roster corpus
+in pack 01 jumps **March 2023 → June 2025**; pack 02 has no February–March 2025 roster.
+**⛔ It cannot be asserted on the present record.**
+
+⭐ **But it is provable if true, and the records exist:**
+- [ ] **Switchboard rosters PP04–PP06 FY2024-25** (Feb–Mar 2025) — **not held**. The obvious first
+      target; the same series is otherwise well represented in packs 01 and 02.
+- [ ] **Establishment / MOHRI FTE report for Logh-Switchboard**, Dec 2024 – Apr 2025. MSH's own
+      objection cites *"approximately 20,006 MOHRI occupied headcount"* — **the data exists and MSH
+      uses it.**
+- [ ] Any **hours-increase or contract-variation approval** for a Switchboard employee in that window
+      — and **who approved it**.
+- [ ] **Who covered the substantive line while he was supernumerary**, and on whose approval.
+
+⚠️ **The pattern-claim is the more careful framing, and it is already half-proved.** Cory's account is
+that the same thing occurred on the **February 2025** return as in **July 2026**. The July 2026 limb
+is **already in the RFMI response at Part 11**, which asks whether his shifts are being worked by
+another employee. **If the answer to Part 11 comes back yes, the February 2025 limb becomes worth
+proving. Sequence it that way — do not lead with the unprovable half.**
 
 ---
 
