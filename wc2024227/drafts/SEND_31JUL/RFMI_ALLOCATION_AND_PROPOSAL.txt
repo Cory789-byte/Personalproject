@@ -654,13 +654,31 @@ Second, question 1(d) of the Health Service's own request asks my practitioner w
 What follows is offered as matters the Health Service and my practitioners may wish to consider,
 not as a settled proposal.
 
-  (a) A named contact point outside Corporate Services whom I may contact before a rostered
-      shift if I am unwell or in acute distress, so that a decision about attendance can be made
-      at the time rather than becoming a leave dispute afterwards.
+  (a) A pre-shift confirmation call. An operator on the preceding shift, or the on-call
+      operator, contacts me at an agreed time before each rostered shift to confirm that I am
+      attending. This is a rostering confirmation, not an assessment of my condition. Its purpose
+      is that where I am not able to attend, that is known early enough for cover to be arranged,
+      rather than at the last minute.
 
-  (b) A defined escalation pathway which I may initiate during a shift if my condition is
-      acutely exacerbated — including who assumes the board, and how the shift is closed out —
-      so that the response is planned rather than improvised.
+  (b) On-call cover for the shifts I am rostered on, so that the board is not left short if I am
+      unable to attend.
+
+      I ask that (a) and (b) be considered together, because the difficulty they address is a
+      practical one. There have been occasions where distress has peaked shortly before a shift
+      and I have called in at short notice. What makes that worse — for the service and for me —
+      is knowing that a late call leaves the board short and the preceding shift unable to leave.
+      A confirmation call and a rostered on-call remove that consequence. The absence becomes a
+      managed one, cover is arranged with notice, and the pressure to attend regardless of
+      condition, which is itself a hazard, is reduced.
+
+      I note that this is a control which, had it been in place, would have addressed a
+      substantial part of the attendance history recorded in the correspondence of 8 September
+      2025. I raise that not to reopen it, but because it identifies the control that was
+      missing.
+
+  (b1) A defined escalation pathway which I may initiate during a shift if my condition is
+      acutely exacerbated — including who assumes the board and how the shift is closed out — so
+      that the response is planned rather than improvised.
 
   (c) Continuation of the existing complaint-handling arrangement recorded in the Health
       Service's own letter: immediate escalation to the Client Liaison Officer and/or Manager,
@@ -674,12 +692,12 @@ not as a settled proposal.
       Resources, consistent with the recommendation on the Employee Capabilities Checklist
       itself.
 
-I have deliberately framed (a) and (b) as arrangements I may initiate, rather than as monitoring
-of me by others. I am not seeking, and would not accept, an arrangement under which colleagues
-on shift are asked to observe or assess my condition. That would place a burden on staff who are
-not qualified to carry it, would require my health information to be known to co-workers, and
-would itself be a workplace stressor. What I am asking for is a pathway I can use, not
-supervision I am placed under.
+To be clear about what (a) is and is not: it is a confirmation of attendance, of the kind any
+roster requires, made early enough to be useful. It is not an assessment of my condition, and I
+am not asking that colleagues on shift observe, assess or report on my mental state. That would
+place a burden on staff who are not qualified to carry it, would require my health information
+to be known to co-workers, and would itself be a workplace stressor. No colleague needs to know
+anything about my health for (a) or (b) to work. They need only know the shift is confirmed.
 
 I am willing to discuss any of the above, and any alternative the Health Service or my
 practitioners consider more appropriate.

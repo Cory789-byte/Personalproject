@@ -158,14 +158,17 @@ build(OUT+"FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf",
        ("8", "Are there specific tasks, situations or environments (for example high-pressure settings, "
              "shift work, patient acuity) that may exacerbate Mr Shepherd's condition or symptoms?",
         "The role is a continuous shift working role covering multiple shifts over a 24/7 period.", 36*mm),
-       ("9", "Mr Shepherd has raised for consideration (i) a named contact point he may call before a "
-             "rostered shift if he is unwell or in acute distress, and (ii) an escalation pathway he may "
-             "initiate during a shift if his condition is acutely exacerbated. In your opinion, would "
-             "arrangements of that kind be clinically appropriate, and are there others you would "
-             "recommend in preference?",
-        "These are offered as matters for consideration only. Mr Shepherd has expressly declined any "
-        "arrangement under which colleagues on shift observe or assess his condition. Your opinion on "
-        "what is medically necessary is what the Health Service has asked for.", 36*mm)],
+       ("9", "Mr Shepherd reports that distress can peak shortly before a rostered shift, and that the "
+             "knowledge that a late absence leaves the switchboard short compounds it. He has raised for "
+             "consideration (i) a routine pre-shift call from an operator to confirm attendance, so that "
+             "cover can be arranged with notice rather than at the last minute, (ii) rostered on-call "
+             "cover for his shifts, and (iii) an escalation pathway he may initiate during a shift if "
+             "acutely exacerbated. In your opinion, would arrangements of that kind be clinically "
+             "appropriate, and are there others you would recommend in preference?",
+        "These are offered for consideration only. The first two are rostering measures and require no "
+        "colleague to know anything about his health. He has expressly declined any arrangement under "
+        "which colleagues observe or assess his condition. Your opinion on what is medically necessary "
+        "is what the Health Service has asked for.", 40*mm)],
       "This report is sought in respect of current capacity, functional restrictions and workplace "
       "controls. It is not sought on the aetiology of the injury, which is a separate matter and is the "
       "subject of separate instructions.\n\n"
