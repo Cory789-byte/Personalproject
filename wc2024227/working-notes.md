@@ -3163,3 +3163,46 @@ Part 10 response list as item 10.
       appointment made when he returned.
 - [ ] **The attempted transfer to another department**: any email, meeting invitation, proposed
       role description, or file note. Anything in writing at all.
+
+## 31 JUL 2026 — CLARIFIED: THE POSITION WAS NOT ADVERTISED; COLLEAGUES ASKED IF HE WAS FIRED
+
+Cory clarifies: the information came from **colleagues**, who asked whether he had been **fired**
+and said another staff member has obtained his position. **It was not advertised.**
+
+### CALIBRATION — THE ABSENCE OF AN ADVERTISEMENT LOWERS THE ALARM ON ONE POINT
+A **permanent** appointment to an AO3 position in Queensland Health would ordinarily require
+advertisement and a merit process. No advertisement therefore makes a permanent appointment LESS
+likely, not more. Far more likely: someone acting in the role, a casual absorbing the shifts, or
+roster reallocation. MSH's own 31 July description of him ("Permanent Full-time basis 76 hours per
+fortnight") supports that his substantive position is intact.
+⇒ Earlier advice to check SmartJobs is superseded — there is nothing to find. Record the negative.
+
+### ⭐ BUT THE POINT THAT MATTERS IS MUCH BIGGER: THE WORK IS BEING DONE
+If another employee is working his shifts, **the duties exist and are available**. That destroys
+**Q9** before it is answered. MSH has asked his doctor to opine on a scenario in which it "is not
+able to accommodate the restrictions" — while, on his account, the work is being performed by
+someone else, five days a fortnight, for five weeks.
+**An employer cannot say there is no work available when someone else is doing it.**
+
+### PART 11 REFRAMED — three neutral confirmations sought
+  (a) that the substantive position continues to be held; no permanent appointment made/proposed;
+  (b) ⭐ **whether the shifts he would ordinarily work are being performed by another employee** —
+      expressly tied to Q9: "If the duties I would perform are being performed by someone else, the
+      work is available, and the premise of that question requires examination before it is put to
+      anyone";
+  (c) what, if anything, has been communicated within the workplace about his absence — "I raise
+      (c) because my absence has been the subject of enquiry among colleagues. I would prefer that
+      whatever is said about it is accurate."
+⇒ No allegation, no reference to what colleagues said, nothing deniable. (b) is the one that does
+the work.
+
+### ⚠️ DO NOT SEEK COLLEAGUE STATEMENTS YET
+Approaching colleagues while excluded risks being characterised as inappropriate contact and
+exposes them. The clean routes to the same facts:
+- **Rosters and AVAC/payroll records** — obtainable through the union, or through disclosure.
+- **MSH's own answer to Part 11(b)** — which is why it is asked in writing now.
+
+### THE REPUTATIONAL DIMENSION
+Colleagues asking whether he was **fired** is itself a harm and evidence of how a five-week
+unexplained absence is being read in the workplace. Part 11(c) records it neutrally. Fuller
+treatment belongs in the union brief and the general protections file, not here.
