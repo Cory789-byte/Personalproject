@@ -2953,3 +2953,51 @@ Corporate Services."
 ⚠️ **[DATE] PLACEHOLDER** in the first line — insert the date of the earlier email in which the
 conflict/delegation question was raised. Specific and provable beats "previously". Document now
 8 pages.
+
+## 31 JUL 2026 — THE CLOSED LOOP IS NOW COMPLETE: LEGAL DOES NOT HOLD THE EMPLOYMENT FILE
+
+Cory's observation: the Director, the manager and HR are all acting within their own area, and
+Legal does not have carriage of the employment matter.
+
+**DECISION-MAKERS SINCE 2 JULY — ALL IN-LINE:**
+Chloe Taylor (Manager, Switchboard Services, Corporate Services) → Forrest (7 Jul) → Michelle
+Harrison (Injury Management, LBHS HR) → **Scott Hughes (Director, Corporate Services, 31 Jul)**.
+Metro South Legal — the one function with both independence and file knowledge (Myla Ruttan
+drafted the 5 June objection incl. Item 20 on PID 24-ESU-1130) — does not hold it.
+
+**THIRD INSTANCE OF THE SAME STRUCTURE:**
+1. PID → referred to HR, which was part of what was complained about.
+2. Complaints about line management → handled by line management.
+3. Whether the reporting arrangements are safe → decided inside the directorate that owns them.
+
+⚠️ **DO NOT OVERSTATE — in-line decision-making is NOT improper per se.** Directors ordinarily
+decide about their own directorates; HR administers; Legal is consulted on exception.
+**WHAT MAKES IT SIGNIFICANT HERE** is the combination: formal complaints about that directorate;
+a PID; a live QIRC proceeding about its conduct; a Chief-Executive-signed objection in that
+proceeding; and a written request from the employee to address the conflict, unanswered.
+⇒ **THE PRECISE FORMULATION: not that they were wrong to handle it, but that the circumstances
+called for escalation out of the line and it did not happen.** Much stronger, and unanswerable.
+
+⚠️ **ALSO DO NOT SAY "UNSANCTIONED" OR "ACTING ALONE".** A Director signed — that IS internal
+authorisation at delegate level. "Rogue officer" gives MSH an easy exit (disown the individual,
+correct the decision, walk away clean). Because Hughes signed, **MSH is the actor and there is
+nobody to disown.**
+✅ **THE ARGUMENT IS: they acted WITH AUTHORITY and WITHOUT POWER.** Authorised at Director level;
+five weeks; six shifting bases; no instrument ever identified. No escape route.
+Where "no authority" genuinely bites is the **3 July decision** — still no named decision-maker,
+still no instrument. Hence question (f).
+
+**RATIFICATION:** by signing on 31 July, Hughes adopted the earlier decisions — both letters
+proceed on the footing that the exclusion is valid and continuing. Whatever the position on
+3 July, from 31 July a Director owns it.
+
+**ADDED TO PART 6:**
+    "So far as I am aware, every decision concerning my attendance, my pay and my return to duty
+    since 2 July 2026 has been made within Corporate Services. If that is not correct, I would be
+    grateful to be told who else has been involved."
+and, before the reassignment request: "I am not asking that anyone be found to have done anything
+wrong. I am asking that the decision be made by someone who is not within the arrangements it
+concerns."
+⇒ Qualified by "so far as I am aware" so it invites correction rather than argument. Converts the
+reassignment request from a procedural nicety into a request for **the first independent look the
+matter has had in five weeks.**
