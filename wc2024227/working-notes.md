@@ -2504,3 +2504,50 @@ Cory cancelled the 2pm Friday 31 July consult with Dr Ma because the scope was u
 updated accordingly: the extension ground is now that the RFMI arrived 11:43am, ~2 hours before a
 consult MSH had been notified of on 30 July, and that he cancelled rather than incur a cost both
 parties would have wasted, and will rebook once the question set is settled.
+
+## 31 JUL 2026 — ⭐ THE PURPOSE INVERSION: THE ECC WAS REQUIRED SO HE COULD WORK, THEN USED TO REFUSE WORK
+
+Cory's observation, and it is the strongest single factual point in the dispute because every
+element is proved by an MSH document.
+
+**MSH'S OWN ADMISSION OF PURPOSE — 31 July 2026 letter to employee, signed Scott Hughes, Director:**
+    "your recently completed Employee Capabilities Checklist (ECC) (Attachment 1) completed by
+    Dr Day Hong Ma on the 3 July 2026 **which was provided to us to facilitate a Return to Work
+    Plan**."
+
+**THE SEQUENCE (all MSH-sourced):**
+1. **2 Jul** — Chloe Taylor, Manager Switchboard Services, requires a completed ECC; return to work
+   cannot be facilitated until provided; deadline "before 2:00pm Friday 3 July."
+   (documents/2026-07-02_Taylor_ECC_LeaveType_ORIGIN_DOCUMENT.pdf)
+2. **3 Jul 14:32** — ECC provided. **Certifies FIT TO WORK WITH RESTRICTIONS.**
+3. **3 Jul ~15:30** — held out of the workplace (58 minutes later); rostered shifts charged to
+   accrued sick leave.
+4. **31 Jul** — MSH states in writing the ECC was "provided to us to facilitate a Return to Work
+   Plan."
+
+**WHY IT MATTERS**
+- **The document cannot explain the decision.** It said FIT. If it had said unfit, exclusion would
+  follow logically. It said fit, and work was refused within the hour. Something other than the
+  document explains the exclusion.
+- **It destroys the retrospective safety narrative.** If MSH held a genuine safety concern as at
+  2 July, it would not have required a document *to facilitate his return*. The 2 July direction is
+  MSH's own evidence that its position that day was that he WOULD be returning.
+- **Purpose deviation.** Obtained for purpose A (enable work); used for purpose B (refuse work).
+  Cf QPS Code of Conduct cl 4.1(c) (powers used for the purpose granted) and cl 4.4(a) (information
+  used only for the purpose collected). ⚠️ State the FACTS in correspondence; do not plead the Code
+  provisions at MSH — they are for the union brief / reserved tracks.
+- ⭐ **IT REFRAMES THE WHOLE FIVE WEEKS.** The 7 Jul "further information", 15 Jul "discretion",
+  29 Jul WHS basis and 31 Jul RFMI are all downstream of an inversion at step one.
+  **They are not clarifying the ECC. They are seeking a different document.** Q1(a)-(c) of the RFMI
+  attack the certificate MSH itself demanded rather than implement it.
+- Feeds the appeal/union tracks: the 2 July direction issued from the PID-subject line manager the
+  day after the 1 July Calderbank. NOT asserted anywhere — chronology only.
+
+**WHERE IT NOW SITS:** Part 1.1 of drafts/SEND_31JUL/RFMI_ALLOCATION_AND_PROPOSAL.txt (and the
+built PDF), plus a short paragraph in RFMI_RESPONSE_EMAIL.txt. Framed factually, closing with the
+constructive ask — that clarification be directed to identifying the adjustments which allow him to
+work, being the purpose MSH itself stated.
+
+⚠️ WORDING DISCIPLINE PRESERVED: uses the safe formulation "I was told on 2 July 2026 that my return
+to work could not be facilitated until a completed ECC was provided" — NOT a claim about which shift
+was last worked, which remains unresolved (see the 2 July origin-document note).
