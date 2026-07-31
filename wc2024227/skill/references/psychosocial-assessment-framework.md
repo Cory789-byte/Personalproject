@@ -298,3 +298,76 @@ Code of Practice — organisational change management, job control, support, and
 justice. Each is a feature of the work. I would ask that they be assessed as such."*
 **Neutral. Sourced. And it never once says that anyone did anything to him.**
 
+---
+
+# PART 6 — ⭐⭐⭐ WHAT IS ACTUALLY BEING ASKED FOR
+
+## 6.1 The adjustment is not protection. It is participation.
+
+**Cory's position, stated plainly:** he does not feel safe working in a unit where changes are made
+without consultation or input, **when the core function of that unit is patient safety**. Being
+included in decisions about the work he is accountable for is the thing that makes the work safe to
+do.
+
+⭐ **That is not a request to be shielded from work. It is a request to participate in it.** It is
+the opposite of the incapacity narrative the questions assume.
+
+## 6.2 And it is already a duty they owe — not an adjustment at all
+> **WHS Act s 47(1):** the PCBU "**must**… consult… with **workers**… who are, or are likely to be,
+> **directly affected by a matter relating to work health or safety**."
+> **s 48(1):** consultation **requires** that information is **shared**; that workers have a
+> reasonable opportunity ⭐ **"to contribute to the decision-making process"**; that their views are
+> **taken into account**; and that they are **advised of the outcome**.
+
+⇒ ⭐⭐ **The "adjustment" he needs is for the Health Service to do what section 47 already requires.**
+
+**Say that, and the whole frame collapses in his favour:** five weeks of exclusion, unpaid, over a
+restriction whose practical content is *consult me about the work I am responsible for* — which is
+not an accommodation at all, but a statutory obligation the employer already owed and has not met.
+
+## 6.3 The hazard categories it answers
+| Named hazard (Code 2022) | Description | The control |
+|---|---|---|
+| **Low job control** | *"**little or no involvement or input into decisions that affect workers**"* | Include him in decisions affecting switchboard operations |
+| **Poor organisational change management** | *"**not consulting workers on changes in the workplace that affect them**… or genuinely considering their views"* | Consult before change, per s 48 |
+| **Low role clarity** | *"**conflicting job roles, responsibilities, or expectations**"* | Define what he is accountable for and what authority attends it |
+| **Poor organisational justice** | *"lack of **procedural fairness**… **informational fairness** (keeping relevant people informed)"* | Decisions made on a stated basis and communicated |
+
+⇒ **Four named hazards. One control. And the control is consultation.**
+
+## 6.4 ⭐⭐ THE PATIENT SAFETY DIMENSION — his most credible asset
+The unit routes **emergency and after-hours calls** for a hospital. The Role Description makes it
+*"a continuous shift working role… a roster which covers multiple shifts over a **24/7** period"*.
+
+**Changing call-routing or on-call arrangements without consulting the operators who action them is
+a clinical risk, not merely an industrial one.** And this is his documented, contemporaneous
+position — not a litigation position:
+> **Cory → WorkCover, 30 Aug 2024:** *"**Failure to consult putting patients at risk**…"*
+> **Cory → ESU, 15 May 2024:** *"…have severely impacted our workplace, department, staff members,
+> and, **most critically, patient safety**."*
+> **Taylor → all staff, 15 Apr 2024:** *"Ellen and myself have added Afterhours on call…
+> **This new process is effective from today.**"*
+
+⇒ **Two years before any of this, he was raising consultation as a patient safety issue.** That is
+consistent conduct across the whole period and it is the least self-interested thing in the file.
+
+⚠️ **State it as concern, never as leverage.** *"I have raised, since 2024, that changes to
+switchboard processes made without consulting the operators create risk. That concern is unchanged."*
+❌ **Never** frame current patient risk as a consequence of his own absence. It reads as a threat and
+it is beneath the rest of the case.
+
+## 6.5 ⭐ AND IT ANSWERS THE NINE QUESTIONS
+The RFMI asks whether he can perform the role, whether he can follow directions, whether he is fit
+under existing reporting arrangements, and what controls are medically necessary.
+
+**On this framing the answers are simple, and the ECC already gives most of them:**
+- *"**Usual switchboard operational duties remain suitable**"* — he is fit for the work
+- *"Understanding instructions: **Normal**"* · *"Carrying out instructions accurately: **Normal**"*
+- The restriction is that complaints be **escalated** — which MSH's own process already does
+- **What remains is not a medical restriction at all. It is a workplace control: consultation.**
+
+⇒ **A control the employer is already obliged to provide, which costs nothing, which no adjustment
+process is needed to deliver, and which four separate named hazards are answered by.**
+
+⇒ ⭐⭐⭐ **That is the answer to Q6 and Q9 in one line: the genuine occupational requirements can be
+met, and the only adjustment sought is one the Work Health and Safety Act already requires.**
