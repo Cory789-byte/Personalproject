@@ -205,6 +205,63 @@ employer's response to a disclosed crisis was to count its consequences as perfo
 
 ---
 
+---
+
+## 6A. ⭐ NEW (31 Jul 2026) — THE HAND-OFF TO TAYLOR IN THE SAME LETTER
+
+The 28 March 2025 email does not stop at refusing DFVL. **Four paragraphs later it routes the
+substitute leave to Chloe Taylor:**
+
+> "I have been happy and willing to approve recreational leave for you over the recent weeks…
+> However, I just need to highlight, requests for recreational leave **should ideally be approved in
+> advance** as there are many factors **Chloe does need to take into consideration when approving
+> recreational leave request, one being operational requirements.**" — Hughes, AttC, 28 Mar 2025
+
+### The mechanism, stated plainly
+| Step | Effect |
+|---|---|
+| 1. DFVL requested (24–26 Feb 2025) | **An entitlement.** Directive 03/20 / HR Policy C73 |
+| 2. "you may be deemed as the perpetrator" | Entitlement **disqualified** — on the respondent/aggrieved distinction, 16 days after Hughes held the form naming Cory the **aggrieved**, and 31 days after the application was withdrawn and the TPO vacated |
+| 3. "I have applied recreational leave" | Converted to a **discretionary** leave type |
+| 4. "many factors **Chloe** does need to take into consideration… operational requirements" | **Approval of the substitute leave routed to the line manager he had already raised concerns about** |
+
+⇒ **The DV disclosure moved him off an entitlement and onto Taylor's discretion.** That is the
+answer to "how was the DV thing deployed": not as an allegation, and not in any disclosure — as the
+**disqualifying step in a leave-type conversion**, with the discretionary substitute handed to
+Taylor, and HR Policy E4 and a disciplinary warning attached in the same email.
+
+### ⭐ THE STATUTORY HOOK — IR Act 2016 s 296 (identified 31 Jul 2026)
+> **s 296(1)** "An employer **must not take adverse action** against a person who is an employee…
+> **because someone has committed, or is committing, domestic violence against the person**."
+> *Civil penalty provision — 90 penalty units for an individual (sch 3).*
+> **s 296(2)** "it is **not necessary** that the person have the benefit of, or **be named as the
+> aggrieved under**" a DVO, police protection direction, police protection notice, **or an
+> application**.
+
+**Adverse action** includes "**injures the employee in the employee's employment**" and "**alters
+the position of the employee to the employee's prejudice**" (s 282(1)(b),(c)). Converting a leave
+entitlement to a discretionary leave type, on a DV ground, is squarely within that.
+**s 306(2)** reverses the onus onto Hughes. **s 307** reaches Taylor if she acted on it.
+**s 310(3)** gives **six years** — March 2025 is in time until **March 2031**.
+
+⚠️ **STRESS TEST — do not run this yet.** s 296(1) is engaged where DV was committed **against the
+person**. MSH's answer will be that Cory was the **respondent**, so the section is not engaged on its
+terms. Against that: **(a)** Attachment A names Cory as the **aggrieved**, and Hughes held it from
+12 March; **(b)** the application against Cory was **withdrawn and the TPO vacated on 25 Feb 2025**;
+**(c)** s 296(2) deliberately severs the protection from any order or application, which cuts against
+a purely order-based test. **The section is available, but it stands or falls on the underlying DV
+facts, and those must be established first.** See `personal-liability-hughes-taylor.md` §1.8.
+
+### 📌 DIRECTIVE 03/20 AND HR POLICY C73 — RETRIEVABLE, NOT MISSING
+AttC records: *"3 attachments (3 MB) — Dir 03.20 - Support for Ees affected by DFV.pdf; HR Policy
+C73 - Support for Ees affected by DFV.pdf; HR Policy E4 - Ees to notify if charged or convicted.pdf"*.
+They are **not embedded in the filed PDF** (no `/EmbeddedFile`), but **Hughes sent them to Cory's
+own mailbox on 28 March 2025.** `health.qld.gov.au` returning 403 is therefore not a blocker —
+**pull the originals from the 28 Mar 2025 email.** This is the version MSH itself relied on, which is
+better than the current published version.
+
+---
+
 ## 7. WHAT THE DOCUMENTS DO *NOT* ESTABLISH
 
 - **The "isolation in another department".** Doc 155 (8 Apr 2025) records Cory writing "I am in the
@@ -254,7 +311,7 @@ his return.
 
 ## 10. TO ESTABLISH
 - [ ] Did the 12 Mar 2025 confidential attachment include the 25 Feb 2025 court outcome?
-- [ ] Read Directive 03/20 before asserting the DFVL advice was wrong.
+- [x] ~~Read Directive 03/20 before asserting the DFVL advice was wrong.~~ **Now retrievable — Hughes attached it to the 28 Mar 2025 email (see §6A). Pull it from the mailbox, then read it.**
 - [ ] Jacquie Roberts's response to the 4 Oct 2025 complaint — was there one? Any outcome?
 - [ ] Anything in writing recording the decision to place him outside Switchboard in Apr 2025.
 - [ ] Cory's 27 Aug 2025 offer-of-documentation email.
