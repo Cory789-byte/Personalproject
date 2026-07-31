@@ -2205,3 +2205,85 @@ Source: documents/2026-07-01_Cory_Calderbank2_covering_email_SERVICE_PROOF.pdf (
 - Nothing about the pathway in ANY correspondence to anyone in the proceeding.
 Sequence stays in (a) the statutory declaration / union chronology and (b) the reserved general
 protections file.
+
+## 31 JUL 2026, 11:43 — THE RFMI LANDS. DELEGATE REVEALED: SCOTT HUGHES, DIRECTOR CORPORATE SERVICES
+
+Filed: documents/2026-07-31_Harrison_RFMI_covering_email_1143.pdf;
+_ScottHughes_RFMI_letter_to_EMPLOYEE.pdf; _ScottHughes_RFMI_letter_to_GP_DrMa_9questions.pdf;
+_RFMI_Attachment1_ECC_3July_asServed.pdf; _RFMI_Attachment2_AO3_Switchboard_Role_Description.pdf
+
+**SERVICE:** From LBH_InjuryManagement, Michelle Harrison IMC. To Cory. **Cc notes@solv.com.au** (new
+external "Solv" injury-management case system) and LBH.HRTeam1. **Friday 31 July, 11:43.**
+Both letters **signed Scott Hughes, Director, Corporate Services, LBHS, dated 31/07/2026.**
+
+**WHAT THE 30 JULY "DELEGATE APPROVAL" WAS FOR:** not the return to work — a further medical inquiry
+with a **7 calendar day** return window (31 Jul + 7 = **7 AUGUST 2026 = the 64G mention date**) and a
+decision-on-the-papers threat: "If you do not return the document within this timeframe or seek a
+reasonable extension, I will make a decision regarding your ability to perform your role based on the
+available information."
+
+**AUTHORSHIP SEAM:** letters written in Harrison's first person ("I am seeking", "I require", "I will
+make a decision") but signed by Hughes. Decision-maker still unidentified after four weeks.
+
+### CONCESSIONS NOW IN WRITING (all favourable)
+1. **Destination is the substantive position** — GP letter: "to support a safe and sustainable return
+   to his substantive position." Displaces the 15 July "remains at the discretion of the Employer."
+2. **Costs** — "MSH will meet your reasonable costs of preparing this report." Invoices to Harrison at
+   lbh_InjuryManagement@health.qld.gov.au. ⚠️ SILENT on reimbursing the $150 already paid 10 Jul.
+3. ⭐ **COMPLAINT HANDLING IS NOT HIS ROLE — MSH'S OWN WORDS TO HIS DOCTOR** (Q5): "established process
+   for client complaints received by Switchboard employees is for immediate escalation and management
+   by the Health Service Client Liaison Officer and/or Manager, Switchboard Services." Corroborated by
+   Attachment 2 (the AO3 RD) which contains NO complaint-handling responsibility. The restriction used
+   to justify four weeks of exclusion concerns a duty they now confirm is not his.
+4. **"Permanent Full-time basis 76 hours per fortnight"** — stated in BOTH letters. MSH's own
+   characterisation of his contractual baseline ⇒ reduced hours were an accommodation, not a
+   variation; loss is measured on 76 hrs/ft.
+
+### FIFTH LEGAL BASIS IN FOUR WEEKS — AND IT IS HIS
+Now cited: "**HR Policy G3: Reasonable Adjustment**, and **sections 17 and 19 of the Work Health and
+Safety Act 2011**." Sequence: 15 Jul discretion/no accepted claim → 29 Jul WHS (EAF) → 31 Jul G3 + ss
+17/19. They have ADOPTED the Reasonable Adjustment framework he put to them on 28/30 July.
+⚠️ BUT ss 17 and 19 are **duty** provisions (minimise/eliminate risk; primary duty of care). Neither
+confers a power to exclude a worker or to compel medical information. Defect unchanged — only the
+citation has improved.
+[ ] VERIFY the "HR Policy G3" ↔ QH-POL-210 mapping before citing it back.
+
+### THE THREE QUESTIONS THAT ARE NOT ABOUT ADJUSTMENT
+- **Q2** — asks the GP whether Cory can "follow a reasonable and lawful direction issued by his
+  supervisor" and "participate in discussions in relation to his workplace performance and/or
+  conduct." That is **discipline vocabulary**, not capacity. They are seeking medical clearance to run
+  a performance/conduct process.
+  Premise of Q2: "**As the Health Service is not aware of any concerns being raised for appropriate
+  management**" — a written denial, to his treating doctor, over a Director's signature, that he ever
+  raised concerns. Against PID 24-ESU-1130, the PT safety report, the Feb complaint, Form 24, and a
+  live appeal.
+- **Q3** — "whether Mr Shepherd is medically fit to return to their substantive role under the
+  existing reporting arrangements, including working with and reporting to their current line
+  manager." **The psychosocial inversion, express.** The hazard is not assessed; his tolerance of it
+  is. (Note: Attachment 2 RD names **Chloe Taylor** as contact — the line manager, author of the
+  2 July origin document.)
+- **Q1(a)** — "When was Mr Shepherd first diagnosed with MDD?" No adjustment utility whatsoever.
+  Direct s 32 causation / pre-existing condition utility.
+  **Q1(c)** — "solely on Mr Shepherd's self-report, your own clinical assessment, or other medical
+  information" = the self-report displacement argument pleaded in the Regulator's SOFC.
+
+### THE TRAP ARCHITECTURE (Q3 → Q9)
+Q9: "**If we are not able to accommodate the restrictions you have recommended, is Mr Shepherd able to
+safely return to the workplace?**" — presupposes inability to accommodate BEFORE any accommodation has
+been assessed. Combined with Q3:
+- GP answers Q3 "yes, fit under existing arrangements" → the raised hazard is medically erased; he
+  returns into it.
+- GP answers Q3 "no" → Q9 harvests it → MSH declares it cannot accommodate → permanent exclusion /
+  ill-health pathway, with the treating doctor's own words supplying the basis.
+
+### OPTION 2 (the authority form)
+Employee letter offers: "Provide Metro South Health permission to obtain this information directly
+from your medical practitioner." ⚠️ Given the Mind and Memory / QSuper history, direct-access authority
+removes him from the pathway entirely. Note it; do not sign it.
+
+### APPEAL OVERLAP — THE HEADLINE
+A Director-signed request asks the appellant's treating GP for (a) the date of first MDD diagnosis and
+(b) whether the workplace stressors rest on self-report or clinical assessment — the two central
+contested issues in WC/2024/227 — answers due **7 August**, the day of the mention, routed outside the
+appeal's disclosure processes and cc'd to an external vendor. Whatever the intention, that is the shape
+on the face of the document.
