@@ -114,8 +114,22 @@ objectionable is reaching for "deemed as the perpetrator" instead of asking**, w
 disclosed that he could not return home, was in acute distress, and had sent a confidential document
 "outlining the situation".
 
-⚠️ **THE CRUCIAL UNRESOLVED QUESTION — ASK CORY:**
-**Which document was attached to the 12 March 2025 email?** If it was the DV Aggrieved Confidential
+✅ **RESOLVED — CONFIRMED BY CORY 31 JUL 2026: the document attached to the 12 March 2025 email
+WAS the DV Aggrieved Confidential Address Form (Att A)**, which names "Aggrieved's name: Cory Lea
+Shepherd" and "Respondent's name: Alexia Negro".
+
+⇒ **HUGHES HELD A COURT FORM IDENTIFYING CORY AS THE AGGRIEVED WHEN, SIXTEEN DAYS LATER, HE WROTE
+THAT CORY "MAY BE DEEMED AS THE PERPETRATOR".** Sent 05:43 12 Mar; acknowledged 08:38 same day
+("Noted thanks"); the perpetrator line written 28 Mar. And the police application had already been
+withdrawn and the TPO vacated on 25 Feb — three weeks before the document was even sent.
+This is no longer an inference. It is established on the documents.
+
+⚠️ **ONE PRECISION POINT.** The Form 44 proves the WITHDRAWAL. It does **not** state the REASON.
+Cory's account is that the officer withdrew because the claims were untrue. That reason is **not on
+the court record** — it would have to come from the QPS file or a transcript. The withdrawal alone
+is sufficient for the point (there was no order); do not assert the reason without a source.
+
+~~Which document was attached to the 12 March 2025 email?~~ If it was the DV Aggrieved Confidential
 Address Form (Att A, naming Cory as the AGGRIEVED), Hughes held proof Cory was the aggrieved party
 when he wrote the "perpetrator" line on 28 March.
 Separately:
@@ -244,3 +258,31 @@ his return.
 - [ ] Jacquie Roberts's response to the 4 Oct 2025 complaint — was there one? Any outcome?
 - [ ] Anything in writing recording the decision to place him outside Switchboard in Apr 2025.
 - [ ] Cory's 27 Aug 2025 offer-of-documentation email.
+
+---
+
+## 11. ⚠️ AD ACT — DOMESTIC VIOLENCE IS **NOT** A PROTECTED ATTRIBUTE (verified 31 Jul 2026)
+
+Checked ATT16 directly. **s 7** lists the protected attributes: sex; relationship status; pregnancy;
+parental status; breastfeeding; age; race; **impairment**; religious belief or activity; political
+belief or activity; trade union activity; sex work activity; gender identity; sexuality; sex
+characteristics; family responsibilities; association with or relation to a person with any of the
+above.
+
+**Subjection to domestic violence does not appear.** The only mention of domestic violence in the
+Act is at s 104 (welfare measures), as an example of a permissible benefit — not as an attribute.
+
+⇒ **The discrimination route based on DV status does not exist.** Do not build on it.
+
+⚠️ **VERSION CAVEAT:** the in-repo copy is **current as at 19 May 2025**; it is now July 2026.
+Queensland has been staging amendments to the Act. [ ] Confirm the current version before finally
+ruling this out.
+
+### THE ROUTES THAT DO WORK
+1. **IR Act 2016 general protections** — requesting leave under a directive is the exercise of a
+   workplace right; adverse action followed; the reverse onus sits with MSH.
+   ⚠️ **LIMITATION PERIOD — URGENT.** The 2025 events are 9-16 months old. Confirm with the union
+   whether a non-dismissal general protections application is still within time.
+2. **Directive 03/20** — non-compliance, IF the DFVL advice was in fact wrong. [ ] Still unread.
+3. **AD Act s 7(h) impairment** — live, and a different route: adverse treatment because of the
+   psychological condition. This is the one that connects the 2025 history to the 2026 exclusion.
