@@ -12,9 +12,10 @@
 | Track | Status |
 |---|---|
 | **64G / Form 29** | ✅ **FILED AND SEALED 23 June 2026**, served 24–25 June. **Mention 7 August 2026 before Commissioner Dwyer**, MSH required to attend. Posture: ordinary procedural machinery — volunteer nothing about the employment dispute |
-| **Settlement** | Calderbank #2 served **1 July 2026, 12:16** to Matheson **and** the OIR appeals registry (service proof filed). **Rejected 16 July.** Without-prejudice "material development" letter to Matheson **sent** 30–31 July |
+| **Settlement** | Calderbank #2 served **1 July 2026, 12:16** to Matheson **and** the OIR appeals registry (service proof filed). **Rejected 16 July.** Without-prejudice "material development" letter to Matheson **sent 31 July 10:46** (filed) |
 | **Employment — the live front** | Excluded since **3 July 2026**. Five weeks. No wages, leave debited, medical costs self-funded. Six shifting bases, **no instrument ever identified**. **31 July 11:43 — Request for Medical Information, nine questions, signed Scott Hughes, Director Corporate Services** |
-| **Response** | ✅ **BUILT AND READY** — `drafts/SEND_31JUL/`. Two `[DATE]` fields to fill; one description to confirm |
+| **Response** | ✅ **BUILT AND READY** — `drafts/SEND_31JUL/`, 11 pp. Two `[DATE]` fields to fill; one description to confirm |
+| **Instruments** | ATT19–21 downloaded and verified from legislation.qld.gov.au 31 July: **PS Act 2022** (current 1 Jul 2026), **AD Act 1991** (19 May 2025 — DV still not a s 7 attribute), **IP Act 2009** (current 1 Jul 2026 — **QPPs**) |
 | **Union** | Together — **Heath Moran** (background, and copied on the Oct 2025 complaint), **Emily Petering** (industrial officer). Engaged on roster/pay/leave only; not the appeal, by their demarcation |
 | **Appeal substance** | Injury **18 June 2024**. Rejected on the **s 32(5) exclusion** (reasonable management action), *not* on s 32(1). Regulator's SOFC nevertheless contests causation on appeal |
 
@@ -27,7 +28,7 @@
 | File | What it is |
 |---|---|
 | `RFMI_RESPONSE_EMAIL.txt` | Covering email — To `lbh_InjuryManagement@health.qld.gov.au`, cc `LBH.HRTeam1` |
-| `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | 11 pp, A4, metadata scrubbed. 11 parts |
+| `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | **11 pp, A4, metadata scrubbed. 11 parts + summary** |
 | `NOTE_FOR_DR_MA.txt` | Context note for the GP — **not sent to MSH** |
 | `SEND_CHECKLIST_31JUL.md` | Pre-send checklist |
 | `build_alloc_pdf.py` | Rebuild: `python3 wc2024227/drafts/SEND_31JUL/build_alloc_pdf.py` from repo root |
@@ -55,6 +56,15 @@ description at Part 5.2.
 | **9** | If unable to accommodate, safe return? | **Health Service** — the onus is theirs |
 
 ⭐ **Four of nine are not medical questions.** Seven are already answered by the ECC.
+
+**Two structural additions made 31 July:**
+- **Part 6.1 — the separation of functions**, proposed as the management of the conflict: medical
+  information held **exclusively by Injury Management**; the **decision made outside Corporate
+  Services**; **implementation retained** within it. *"The officer steps out of the decision, not out
+  of the workplace."* Anchored to the ECC's own AC4(c) recommendation.
+- **Part 11 — the substantive position**: asks MSH to confirm the position is still held, **whether
+  the shifts are being worked by another employee** (tied expressly to Q9 — if the work is being
+  done, it is available), and what has been communicated in the workplace about the absence.
 
 ---
 
@@ -118,6 +128,86 @@ of the objection, which addresses PID 24-ESU-1130 by reference number** — she 
 "the Health Service is not aware of any concerns being raised".
 ⇒ Template architecture + rushed HR execution, no legal review. **The four admissions of 31 July are
 on the record before anyone competent read it.**
+
+### 3.8 ⭐ THE PRODUCTION TIMINGS — established from PDF metadata and recovered revisions
+
+| Time (AEST, Fri 31 Jul 2026) | Event |
+|---|---|
+| **10:46** | Cory's WP letter sent to Matheson |
+| **11:10:27** | GP letter (5 pp) exported from Word |
+| **11:11:02** | Employee letter (2 pp) exported — **35 sec later** |
+| **11:11:27** | Employee letter signed — **25 sec after creation** |
+| **11:11:42** | GP letter signed — **75 sec after creation** |
+| **11:43** | Both transmitted |
+
+- The signature is a **stored image**: 1000 × 398 px @ 624 dpi (1.60 × 0.64 in), applied via Adobe
+  Fill & Sign. **Identical dimensions and byte size in both letters.**
+- **All three saved revisions of each letter recovered** (truncation at each `%%EOF`). **Text
+  identical throughout** — nothing hidden, nothing altered. ⚠️ Any suggestion of alteration is
+  **closed. Do not advance it.**
+- ⚠️ An export timestamp fixes **finalisation**, not drafting. The Word original — never produced —
+  is the only artefact carrying the author, revision history and save chain.
+
+### 3.9 ⭐ 14 ERRORS ACROSS 7 PAGES — the letters were not read before signing
+Two in one five-word phrase (*"cab be found out their website"*); *"Mr Shepherds"*; *"fulfill"*;
+*"The purposes… is"*; *"the below question"* followed by four; **wrong policy number — "G3" for
+"G03"**; letterhead *"Logan and Beaudesert"* vs signature block *"Logan Beaudesert"* on one page;
+and **pronoun drift between adjacent questions** (Q3 "their" → Q4 "his" → Q7 "their").
+⇒ **You cannot read a 5-page, 9-question letter in 75 seconds.** Three independent lines — the
+errors, the timings, the substantive failures — converge on the same conclusion.
+
+### 3.10 ⭐ WHAT POWER WAS MSH ACTUALLY USING? — the answer splits
+**Their stated basis, entire:** *"HR Policy G3: Reasonable Adjustment, and sections 17 and 19 of the
+Work Health and Safety Act 2011."*
+
+- **For the information request** — G03 can bear it. Their theory is articulable and Forrest stated
+  it on 7 July: they say they cannot understand the unresolved matters, so cannot assess the risk.
+- **For the exclusion — nothing was used at all.** G03 cl 1.1 says adjustments let employees
+  *"continue work during their recovery"*. WHS ss 17 and 19 are **duties on MSH**, not powers over a
+  worker. Neither supports exclusion or leave debiting.
+- ❌ **PS Act 2022 s 104 — the only statutory power to compel a medical examination — was NEVER
+  CITED.** Its **s 103** gateway needs absence or unsatisfactory performance: no performance issue
+  has ever been put, and **the absence is MSH's own act**. **s 105** (the only statutory link to
+  leave in that division) operates only where an s 104(b) requirement is not complied with.
+
+⇒ **The six shifting bases exist because each was an attempt to find, after the fact, an authority
+for something already done.**
+
+### 3.11 ⭐ NEW — IP ACT: QPP 3.3 (verified from the Act, current 1 July 2026)
+The Act now applies **Queensland Privacy Principles** (sch 3) — the old IPP/NPP split is superseded.
+> **QPP 3.3** An agency **must not collect sensitive information** unless (a) the individual
+> **consents** **and** the information is **reasonably necessary for, or directly related to**, one
+> or more of the agency's functions; or (b) QPP 3.4 applies.
+> **sch 5:** sensitive information includes **health information**; health information includes
+> "the individual's **health at any time**" and "**a disability** of the individual at any time".
+
+⇒ **Consent is a statutory precondition, and it may be scoped.** Declining option 2 and consenting
+question-by-question is the operation of QPP 3.3, **not obstruction**.
+⇒ **Third independent necessity test**, alongside **G03 cl 3** and **AD Act s 124(3)** (onus on MSH
+to prove information was "reasonably required").
+⚠️ Also: the employee letter says the information will *"**primarily** be used"* for the stated
+purpose — conceding undisclosed secondary uses, against QPP 3.3.
+
+### 3.12 "UNRESOLVED MATTERS" — answered from the Code MSH must apply
+MSH says it *"does not have sufficient information to understand the nature of these matters"*.
+But **"unresolved" is a status, not a mystery**: matters were raised, not determined, and no outcome
+was advised. **MSH holds the record of both.**
+And **G03 cl 1** obliges MSH to apply the **Psychosocial Code 2022** to this very process — a Code
+which defines **poor organisational justice** as "a lack of procedural fairness…, informational
+fairness (keeping relevant people informed), or interpersonal fairness", arising from "**inconsistent
+application of procedures across workers or over time**" and "**failing to follow agreed policies,
+guidelines and procedures**".
+⇒ Now in the response at **Part 4.2** — with no reference to patient safety, the PID, or the subject
+matter of any complaint.
+
+### 3.13 ⛔ THE 31 JULY TIMING INFERENCE — CLOSED
+Cory's WP letter to Matheson went **10:46**; the first RFMI export was **11:10:27** — **24 minutes**.
+**But MSH's holding reply of 30 July at 14:33 said the request was "progressing for delegate
+approval."** The document existed ~20 hours before the email. **Record as closed on causation.**
+His working theory (that the email collapsed the review step) is recorded as **WT-2026-07-31** in
+`working-theories.md`, with the evidence both ways.
+⚠️ Closing this one **protects** the still-open 1 Jul → 2 Jul sequence: a set of inferences in which
+one has been tested and abandoned reads as observation, not habit.
 
 ---
 
@@ -189,6 +279,10 @@ now determining.** One sentence recording this is in Part 6 of the response.
 7. ❌ **Do not approach colleagues for statements** while excluded — characterisable as inappropriate contact and exposes them. The union can
 8. ✅ **State facts, ask questions.** An assertion can be denied; a fact plus a question can only be answered or visibly avoided
 9. ✅ **Concede everything conceivable.** Objecting to one question out of nine is what makes the objection unanswerable
+10. ❌ **Never allege the documents were altered.** All revisions recovered; text identical. That line is closed
+11. ❌ **Never raise the typographical errors with MSH.** Petty, and it forfeits the register doing the work. Only the substantive failures are deployed, argued on the instrument
+12. ❌ **Never invite MSH to narrow its own costs undertaking.** State the billing arrangement; do not ask them to confirm it
+13. ⚠️ **Do not conflate a rushed finalisation with a rushed decision.** The metadata proves the first only; the drafting errors independently prove no review
 
 ### Banked — deployed only on a specific trigger
 - **QH-IMP-401-5 §2.1** — "not take action to avoid the workers compensation process as per section 46A of the act" → appeal track only
@@ -214,27 +308,38 @@ delivery email timestamp and the consultation time. Brief the psychiatrist on th
 ## 7. OPEN ITEMS
 
 **Clock on them**
-- Limitation period for a **non-dismissal general protections application** — the 2025 events are 9–16 months old. Union question
-- **7 August 2026** — 64G mention
-- Two `[DATE]` fields + the Feb 2026 description in the response
+- **7 August 2026** — 64G mention before Dwyer
+- Two `[DATE]` fields + the Feb 2026 description, then send the response
+- Limitation period for a **non-dismissal general protections application** — the 2025 events are
+  9–16 months old. Union question, this week
 
 **Documents to obtain**
-- **Directive 03/20** — unread; the whole March 2025 point rests on it
-- **MyHR movement records, April 2025** — Cory's restoration **and** the other employee's revocation; payroll, rosters, any Roberts direction
+- ⚠️ **Directive 03/20** (DFV support) — **still unread.** Not locatable by path on forgov;
+  `health.qld.gov.au` returns **403**. The whole March 2025 DFVL point rests on it
+- **Directive 04/24** (IMEs), **HR Policy C73**, **HR Policy E4** — same problem
+- **MyHR movement records, April 2025** — Cory's restoration to Switchboard **and** the other
+  employee's revocation; payroll, rosters, any written direction from Roberts
 - **Rosters / AVAC / payroll 3–31 July 2026** — whether the shifts are being worked
 - **Together's file** — the April 2025 revocation, and the 4 Oct 2025 complaint
-- **Texts from Hughes** — full threads, sender number verified against **0499973195**, timestamps intact
-- Clinical note **24 Oct 2024** with consultation time; delivery email for **Review Decision 69983** with timestamp; the psychiatrist referral and date
+- **Texts from Hughes** — full threads, sender verified against **0499973195**, timestamps intact
+- Clinical note **24 Oct 2024** with consultation time; delivery email for **Review Decision 69983**
+  with timestamp; the psychiatrist referral and date
 - Org chart showing **Security under Corporate Services**
-- Current version of the **AD Act 1991** (in-repo copy is as at 19 May 2025; DV is **not** a s 7 attribute in that version)
 - The separate **medical certificate** the ECC form requires
 
+**Resolved today — do not re-open**
+- ✅ **AD Act**: DV is **not** a protected attribute. Confirmed against the in-force version
+- ✅ **IP Act**: framework is now **QPPs**, not IPPs/NPPs. QPP 3.3 verified
+- ✅ **PS Act ss 103–105**: verified verbatim, current 1 July 2026
+- ✅ **Document alteration**: all revisions recovered, text identical. **Closed**
+- ✅ **The 31 July timing inference**: closed on causation by MSH's own 30 July holding reply
+
 **Unresolved facts**
-- The **last shift actually worked** before 2 July 2026 (the 2 July document implies the stoppage may predate it)
+- The **last shift actually worked** before 2 July 2026
 - Any response from Roberts to the 4 Oct 2025 complaint
 - Whether an **RRTWC** was ever notified (WRS §2.3)
-
----
+- Whether MSH's Word originals of the 31 July letters exist — the only artefact carrying the author
+  and revision history
 
 ## 8. KEY DOCUMENT LOCATIONS
 
@@ -263,6 +368,12 @@ use `pdftoppm`.
 | `skill/references/hughes-taylor-evidence-compilation.md` | **The evidence schedule** — 31+ propositions graded, 7 contradictions, 13 admissions, propositions not established, gaps, chronology with intervals, evidence classes |
 | `skill/references/hughes-2025-history-forensic.md` | Forensic analysis of the eight 2025 documents |
 | `skill/references/RFMI-compliance-test.md` | The 31 July request tested against every governing instrument |
+| `skill/references/31JUL-error-and-rush-assessment.md` | **14 errors, 5 substantive failures matched to the instruments, and the production timings** |
+| `skill/references/metadata-register-31JUL2026.md` | **Full metadata, recovered revisions, signature-image analysis, and the limits of what metadata can show** |
+| `skill/references/what-power-did-MSH-use.md` | **The instruments tested against the acts taken — and where nothing was used at all** |
+| `skill/references/msh-document-quality-comparison.md` | Seven MSH documents ranked by development and error density |
+| `skill/references/hughes-taylor-evidence-compilation.md` | *(see above)* |
+| `skill/references/working-theories.md` | Hypotheses with confidence — incl. **WT-2026-07-31** |
 | `skill/references/letter-foundation-verified.md` | ✅/⚠️/❌ register of propositions |
 | `skill/references/public-entity-obligations.md` | The four layers of obligation |
 | `skill/references/medical-causation-framework.md` | Krishnaiah brief; the pre-existing-anxiety rebuttal |
