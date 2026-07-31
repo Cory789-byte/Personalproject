@@ -3115,3 +3115,51 @@ would waste it; holding it means any late reliance on the point backfires.
 
 Also added: GP note asks Dr Ma to issue a certificate covering the period from 3 July 2026 at the
 rebooked consultation; send checklist updated.
+
+## 31 JUL 2026 — ⚠️ CORY'S ACCOUNT: THE POSITION GIVEN AWAY, AND THE FEB 2025 PRECEDENT
+
+**HIS ACCOUNT (UNVERIFIED — no documents sighted):**
+1. His job has been advised and given to someone else.
+2. Same manner as **February 2025**, when he returned and **Ms Taylor quickly put a full-time
+   employee on**.
+3. **Scott Hughes and Ms Taylor attempted to isolate him in a different department entirely.**
+
+### WHY IT MATTERS
+⭐ **It supplies the prior conduct that makes the Hughes conflict CONCRETE rather than structural.**
+Earlier note recorded that "he is a potential respondent, not a bystander" was contingent on
+documents being located. If Hughes was personally involved in an attempt to move Cory out of
+Switchboard, he is a **participant in the dispute now deciding it** — materially stronger than the
+org-chart conflict currently pleaded in Part 6.
+- Also connects to the existing thread: the full-time position communicated to a casual (Caroline
+  text screenshot, filed) and Cory's 14 Jul email to Heath.
+- Feb 2025 is POST-injury (injury date 18 June 2024) ⇒ relevant to **ongoing detriment /
+  aggravation and the general protections file**, not to s 32 causation.
+
+### ❌ NOT IN THE 31 JULY RESPONSE
+Unverified; an allegation of conduct; would let MSH answer that instead of the ten items it now
+must answer. Same reasoning as the "threat" framing.
+
+### ✅ WHERE IT GOES
+- **Union brief (Petering / Moran)** — position backfilled + attempted transfer is core industrial
+  territory, and with five weeks' exclusion it is a far bigger matter than the RFMI.
+- **General protections / reprisal file.**
+- **The conflict file** — as the concrete basis for Hughes's participation.
+
+### ⭐ THE PROTECTIVE FACT ALREADY IN HAND
+Both 31 July letters describe him as **"Permanent Full-time basis 76 hours per fortnight"** in his
+substantive position — signed by Hughes. **A permanent appointment to that position would
+contradict MSH's own letter of 31 July.**
+⇒ **NEW PART 11 ADDED to the response**: asks MSH to confirm the position "continues to be held for
+me, and that no permanent appointment to it has been made or is proposed to be made while I am held
+out of the workplace." Neutral, unanswerable badly, and creates the written record now. Added to the
+Part 10 response list as item 10.
+
+### EVIDENCE TO ESTABLISH (do this week)
+- [ ] Who said the job has been given to someone else — when, and in writing?
+- [ ] **Is it on SmartJobs?** Public and checkable TODAY — screenshot with date visible.
+- [ ] Is it a TEMPORARY BACKFILL against his position, or a PERMANENT APPOINTMENT to it? This
+      decides how serious it is.
+- [ ] **Feb 2025**: rosters, position numbers, or recruitment records showing the full-time
+      appointment made when he returned.
+- [ ] **The attempted transfer to another department**: any email, meeting invitation, proposed
+      role description, or file note. Anything in writing at all.
