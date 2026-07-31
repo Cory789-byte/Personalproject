@@ -39,7 +39,7 @@ I have answered Question 1(a) myself: the diagnosis was made on 24 October 2024.
 I have consented to Question 1(c). You can say whether your view rests on what I have reported or
 on your own clinical assessment, and confirm what reports you hold and have relied on. Please
 answer only as to your own file — you are not in a position to say what material others may hold,
-and you should not be asked to.
+and you should not be asked to. This question is for you, not my psychiatrist.
 
 Anything you write in answer to this request becomes a document in the employer's hands, and may
 be seen by other parties. Please keep your answers to what is clinically necessary for the stated
@@ -55,8 +55,8 @@ your scope, the correct and complete answer is to say so and to indicate what sp
 would be required — please do not answer beyond your scope to be helpful.
 
 I already have a treating psychiatrist and have told the Health Service I will obtain his opinion
-on the questions that need one — Question 7, the clinical context for Question 1(a), Question 1(c)
-as it applies to his own assessment, and Question 1(d). That is at their cost. No referral from you is needed
+on the questions that need one — Question 7, the clinical context for Question 1(a), Question 1(d)
+and Question 8. That is at their cost. No referral from you is needed
 for that, but if you consider one appropriate I would be grateful.
 
 WHAT I AM ASKING OF YOU
@@ -70,7 +70,8 @@ Five questions:
   Q4     the restrictions or adjustments you recommend, in functional terms, with anticipated
          duration and a review date;
   Q5     what "complaint handling" means as a clinical restriction; and
-  Q8     what tasks, situations or environments may exacerbate my condition.
+  Q8     what tasks, situations or environments may exacerbate my condition. As with Q1(d), I
+         am also putting this to my psychiatrist — your view is still wanted.
 
 On Q5, it may assist to know that the Health Service has itself stated, in the same letter, that
 complaints received by Switchboard staff are escalated to the Client Liaison Officer and/or the

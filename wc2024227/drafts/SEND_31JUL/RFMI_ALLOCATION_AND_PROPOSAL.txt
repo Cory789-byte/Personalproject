@@ -16,8 +16,8 @@ IN SUMMARY
      Safety Act 2011 place with the Health Service. I ask that it answer those itself, after
      which the properly medical part of each can be put to my practitioners.
   3. Of the remainder, Questions 1(c), 1(d), 4, 5 and 8 are for my general practitioner, and
-     Questions 1(a), 1(c), 1(d) and 7 require or are better answered by my treating
-     psychiatrist. I will obtain all of them.
+     Questions 1(a), 1(d), 7 and 8 require or are better answered by my treating psychiatrist.
+     I will obtain all of them.
   4. Question 1(a) I answer openly in this document. Question 1(b) alone I ask be withdrawn: it
      asks a general practitioner for a psychiatric causal formulation, and it goes to a matter
      in issue in WC/2024/227.
@@ -163,7 +163,10 @@ Q5     What specific activities are encompassed within "complaint handling" — 
        clinical restriction. The operational meaning has already been stated by the Health
        Service and is dealt with at Part 4.3.
 
-Q8     Specific tasks, situations or environments which may exacerbate my condition.
+Q8     Specific tasks, situations or environments which may exacerbate my condition. Dr Ma will
+       address this. As with Question 1(d), what exacerbates a psychiatric condition is a
+       psychiatric question, and I will put it to my treating psychiatrist as well — see Part
+       3.2.
 
 Q1(c)  Whether the identified stressors are based "solely on Mr Shepherd's self-report, your own
        clinical assessment, or other medical information/reports available to you."
@@ -172,8 +175,8 @@ Q1(c)  Whether the identified stressors are based "solely on Mr Shepherd's self-
        what medical reports he holds and has relied on. I am content for him to verify and
        confirm that.
        I ask only that the question be understood as directed to what Dr Ma holds and has relied
-       upon — not as an inquiry into material held by others, which he is not in a position to
-       answer.
+       upon — his own file — and not as an inquiry into material held by others, which he is not
+       in a position to answer.
 
 Each is necessary to identify a required adjustment or to assess the suitability of a proposed
 one. Each is within a general practitioner's scope.
@@ -192,10 +195,6 @@ Q1(a)  "When was Mr Shepherd first diagnosed with MDD?"
        diagnostic history — in substance, to certify that no other diagnosis exists. That is
        beyond a general practitioner's scope and I ask that it not be put to him in that form.
 
-Q1(c)  As above. My treating psychiatrist can likewise say whether his view rests on my report
-       or on his own clinical assessment, and confirm what reports he holds and has relied on. I
-       consent to that being asked of him on the same basis.
-
 Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk to my health or
        safety on return, and what controls or adjustments are medically necessary to manage that
        risk.
@@ -204,6 +203,11 @@ Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk 
        it and to specify the controls it requires. I will put the question to him as well, so
        that the Health Service has a specialist view of the adjustments it is being asked to
        make.
+
+Q8     Specific tasks, situations or environments which may exacerbate my condition.
+       As with Question 1(d), Dr Ma will answer this and I do not ask that it be taken from him.
+       What exacerbates a psychiatric condition is a psychiatric question, and a specialist view
+       will be of more use to the Health Service in settling the adjustments.
 
 Q7     What "working memory is affected under stress" means in functional terms, including how
        it may affect capacity under normal workplace demands and the circumstances likely to

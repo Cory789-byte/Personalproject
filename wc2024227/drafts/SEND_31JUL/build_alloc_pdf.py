@@ -49,7 +49,7 @@ def esc(t):
 ALLOC = [
  ("1(a)", "Date of first diagnosis", "Answered openly; clinical context from the psychiatrist"),
  ("1(b)", "Clinical basis for the causal link", "Withdrawal requested — a psychiatrist question, and in issue in the appeal"),
- ("1(c)", "Self-report v clinical assessment; other reports held", "Consented to — Dr Ma and the psychiatrist, each as to what he holds and relied on"),
+ ("1(c)", "Self-report v clinical assessment; other reports held", "Consented to — Dr Ma, as to his own assessment and his own file"),
  ("1(d)", "Foreseeable risk; controls medically necessary", "Dr Ma and the psychiatrist — a psychiatric risk assessment"),
  ("2",    "Following directions; performance and conduct discussions", "Health Service — threshold question"),
  ("3",    "Fitness under the existing reporting arrangements", "Health Service — risk assessment, then treating psychiatrist"),
@@ -57,7 +57,7 @@ ALLOC = [
  ("5",    "Meaning of “complaint handling”", "Health Service — already answered, then Dr Ma"),
  ("6",    "Requirements of the role without modification", "Health Service — identify genuine occupational requirements, then GP"),
  ("7",    "“Working memory affected under stress”", "Treating psychiatrist"),
- ("8",    "Tasks and environments that exacerbate the condition", "Dr Ma (GP)"),
+ ("8",    "Tasks and environments that exacerbate the condition", "Dr Ma and the psychiatrist — a psychiatric question"),
  ("9",    "If unable to accommodate, whether safe return is possible", "Health Service — onus is the employer’s"),
 ]
 
