@@ -93,8 +93,45 @@ the letters as generated.
 - **Against any suggestion of alteration** — there is none. If that was ever a line of attack, it is
   closed. Do not advance it.
 
+### 1.1C ⚠️ DOES THE METADATA SHOW SHARING FOR REVIEW, OR DIFFERENT MACHINES? — **NO, AND IT CANNOT**
+
+**Identity lineage across the recovered revisions:**
+
+| | DocumentID | InstanceID | XMP toolkit |
+|---|---|---|---|
+| rev1 | `CC55D510…` | `CC55D510…` *(identical)* | `3.1-701` — Word's XMP writer |
+| rev2 | `CC55D510…` | `CC55D510…` *(identical)* | `3.1-701` |
+| rev3 | `CC55D510…` | **`54bc187e…` — CHANGED** | **Adobe XMP Core 5.6-c018** |
+
+(GP letter identical in pattern: `9398CC9E…` throughout, InstanceID → `4cc5e3fb…` at rev3.)
+
+⇒ **Exactly two applications touched these files: Word created them, Adobe signed them.** One
+instance change, one toolkit change, one save event after export.
+⇒ **Absent:** `xmpMM:History`, `xmpMM:DerivedFrom`, `xmpMM:OriginalDocumentID`. No lineage from
+another document, no recorded save chain, no second machine after the PDF existed.
+
+### ⛔ THE LIMITATION — AND IT IS FUNDAMENTAL
+**Everything before 11:10:27 is invisible.** A Word→PDF export **discards** Word's revision history,
+tracked changes, comments, author and last-modified-by, and every prior save. The document could
+have been drafted a week earlier, circulated to four people, revised with tracked changes and
+reviewed by Legal — and **nothing would appear in the PDF.**
+
+⇒ The PDF records the **finalisation**, and nothing upstream of it. The metadata therefore
+**neither suggests nor excludes** review or multi-machine handling. It is silent.
+
+### ⚠️ SEPARATE TWO FINDINGS THAT HAVE BEEN BLURRING
+| Finding | Rests on |
+|---|---|
+| The **finalisation** was rushed — exported, signed within 75s, sent 32 min later | **The metadata** |
+| The document was **not carefully reviewed** — pronoun drift between adjacent questions, "cab be found out their website", "Mr Shepherds", "fulfill", the wrong test under their own policy, the false premise about the PID | **The drafting evidence, independently** |
+
+⇒ The 33-minute window is **not** evidence of a rushed decision. It is evidence of a rushed
+finalisation. Do not argue the first from the second.
+
 ⚠️ **STILL NOT ESTABLISHED:** who applied the signature (`/ADBE_FillSignInfo` does not record it),
-and when the underlying Word document was drafted.
+when the underlying Word document was drafted, and whether it was reviewed or circulated.
+⭐ **THE ONLY ARTEFACT THAT WOULD ANSWER THIS IS THE WORD ORIGINAL** — its metadata carries the
+author, revision history and save chain. **Not produced. Nothing in the PDF recovers it.**
 
 **Full document identifiers, for the record:**
 - Employee letter — `DocumentID uuid:CC55D510-74D3-4FFE-A46B-5F84A422D1F1` ·
