@@ -58,6 +58,29 @@
 
 **Interval: 36 days** between the disclosure (12 Mar) and the first counted occasion (17 Apr).
 
+### B2A. ⭐ THE COMPRESSION AFTER RETURN
+
+| # | Proposition | Source | Grade |
+|---|---|---|---|
+| 15a | MSH knew the return date by **28 Mar 2025** — Hughes: "**I hear you are returning on Monday 31 March 2025**… Look forward to seeing you back with the team on Monday" | C | **[D]** |
+| 15b | Return date: **31 March 2025** | C | **[D]** |
+| 15c | **Day 8** (8 Apr) — a process titled "**Cory Shepherd Reinstatement process**" is running, with **Jacqui Roberts, A/Director HR Business Partnering** in carriage. Cory writes "I am in the **security office**" | 155 | **[D]** |
+| 15d | **Day 14** (14 Apr) — Taylor + Willmann meet him "to remind you of the process for absence notifications", raised "**on the basis that you were not following the appropriate absence notification process**" | F p1 | **[D]** |
+| 15e | **Day 17** (17 Apr) — first of the 34 counted occasions | F p1 | **[D]** |
+
+⇒ **Within seventeen days of returning: located outside his department; a reinstatement process
+running at A/Director level; a formal process warning; and the counting begins.**
+
+⚠️ **THREE QUALIFICATIONS, FOR ACCURACY:**
+1. **The counting method is orthodox.** The 14 Apr meeting is a warning and the count runs from
+   after it. Warn-then-count is standard practice; the structure is not objectionable in itself.
+   What is notable is the speed of the cycle after a return.
+2. **The security office is ambiguous on the documents.** Equally consistent with isolation and with
+   a person mid-reinstatement not yet rostered back to Switchboard. The chain contains scheduling
+   only — nothing on who decided the location or why.
+3. **The 14 Apr concerns may relate to the pre-return absence period** (Feb–Mar 2025), not to
+   conduct after 31 Mar. The letter does not particularise which.
+
 ### B3. The 27 August sequence
 
 | # | Proposition | Source | Grade |
@@ -141,6 +164,7 @@ executes and fields. In both, a **seven-day** compliance period with a consequen
 | E5 | The plan was initiated "September 10, 2025" | Signature block reads **08/09/2025** |
 | E6 | Cory wrote to Hughes and received Taylor's reply on the same subject | **Not in the eight documents supplied.** The routing pattern is established structurally at Att F p5 |
 | E7 | Another staff member "has obtained my position" | **[A]** — colleague report. Not advertised, so no public record. No MSH document |
+| E7a | A full-time employee was put on "when they knew I was returning" | **SPLIT.** MSH's **knowledge of the return date is documented** (Hughes, 28 Mar 2025). The **appointment is not** — no document. **[A]** as to the appointment |
 | E8 | Any outcome of the 4 Oct 2025 complaint | **No document.** Nothing in the file records a response from Roberts |
 | E9 | An RRTWC was appointed or notified (QH-IMP-401-5 §2.3) | **Unknown** |
 
@@ -177,9 +201,11 @@ executes and fields. In both, a **seven-day** compliance period with a consequen
 2025-03-24   ─┘                                                                          [D]
 2025-03-28   16:03  Hughes: "may be deemed as the perpetrator"; recreational leave       [D]
                     applied; HR Policy E4 + disciplinary warning                        [D]
-2025-04-08   Roberts, "Reinstatement process"; Cory "in the security office"            [D]
-2025-04-14   Taylor + Willmann meet Cory re absence process                             [D]
-2025-04-17   ── first of 34 counted occasions ──                                        [D]
+2025-03-28   Hughes: "I hear you are returning on Monday 31 March 2025"                 [D]
+2025-03-31   ══ RETURNS TO WORK ══                                          [day 0]     [D]
+2025-04-08   Roberts, "Reinstatement process"; Cory "in the security office" [day 8]    [D]
+2025-04-14   Taylor + Willmann meet Cory re absence process                  [day 14]   [D]
+2025-04-17   ── first of 34 counted occasions ──                             [day 17]   [D]
 2025-06-10   Taylor meets Cory (2nd)                                                    [D]
 2025-06-25   Taylor meets Cory (3rd)                                                    [D]
 2025-07-01   fatigue leave DECLINED — "not work related"                                [D]
