@@ -75,9 +75,22 @@ running at A/Director level; a formal process warning; and the counting begins.*
 1. **The counting method is orthodox.** The 14 Apr meeting is a warning and the count runs from
    after it. Warn-then-count is standard practice; the structure is not objectionable in itself.
    What is notable is the speed of the cycle after a return.
-2. **The security office is ambiguous on the documents.** Equally consistent with isolation and with
-   a person mid-reinstatement not yet rostered back to Switchboard. The chain contains scheduling
-   only — nothing on who decided the location or why.
+2. **The security office is ambiguous on the documents — now three ways.** Cory advises the
+   security office is run by **Corporate Services** and that the attempt was to place him in an
+   **administrative role there**. His presence there on 8 Apr 2025 is therefore consistent with:
+   (i) isolation; (ii) a person mid-reinstatement not yet rostered back to Switchboard; or
+   (iii) an attempted redeployment to Security administration. **The documents do not distinguish
+   between them.** The chain contains scheduling only — nothing on who decided the location, or that
+   any role was proposed.
+   ⭐ **IF SECURITY IS WITHIN CORPORATE SERVICES [A — verify], the placement was WITHIN HUGHES'S OWN
+   DIRECTORATE.** No other Director's agreement would have been required; Hughes had authority to
+   direct it; and the decision was made inside the line he heads — the same closed loop as 2026,
+   where the officer deciding the return to Switchboard heads the directorate containing both
+   Switchboard and the area of placement.
+   [ ] **RESOLVES ON:** an org chart or structure document showing Security under Corporate
+   Services. Two-minute check; converts **[A]** → **[D]**.
+   [ ] **THE PLACEMENT ITSELF RESOLVES ON:** an expression of interest, a proposed role description,
+   a MyHR employment movement record, or an email proposing the role. **None is in the file.**
 3. **The 14 Apr concerns may relate to the pre-return absence period** (Feb–Mar 2025), not to
    conduct after 31 Mar. The letter does not particularise which.
 
@@ -158,6 +171,8 @@ executes and fields. In both, a **seven-day** compliance period with a consequen
 | # | Assertion | Status |
 |---|---|---|
 | E1 | Hughes and Taylor "acted together to have me moved and isolated in another department" | **No document.** Doc 155 records Cory writing "I am in the security office" on 8 Apr 2025 during a "Reinstatement process" — it does not record who decided it, why, or any joint action |
+| E1a | The placement was an attempted redeployment to **administration within the security office** | **[A].** No expression of interest, proposed role description, movement record or proposing email in the file |
+| E1b | The security office is run by **Corporate Services** | **[A] — verify against an org chart.** If confirmed, the placement was within Hughes's own directorate, which is structurally significant |
 | E2 | The police officer withdrew "because of claims that were untrue" | The Form 44 proves the **withdrawal**; it does **not** state the reason. **[A]** |
 | E3 | The DFVL advice "contravenes the directive" | **Directive 03/20 unread.** Cannot be verified either way |
 | E4 | The 8 Sep 2025 letter was a "performance improvement plan" | **Incorrect.** The letter foreshadows a PIP; it does not initiate one (Att F p4) |
