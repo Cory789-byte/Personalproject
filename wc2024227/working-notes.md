@@ -2079,3 +2079,38 @@ NO chase before the mention. A second email would (a) convert a clean unanswered
 back-and-forth, (b) signal the privacy interest, and (c) spend a point better made by the record.
 The 24 July email stands as a dated, unanswered, entirely reasonable request. If disclosure is
 canvassed on 7 Aug and it is proper to do so, the fact of the request can be mentioned neutrally.
+
+## 2026-08-01 — THE ORIGIN DOCUMENT OBTAINED: Taylor, 2 July 2026, 14:38 ("Cory - ECC/Leave Type")
+FILED: documents/2026-07-02_Taylor_ECC_LeaveType_ORIGIN_DOCUMENT.pdf
+From Chloe Taylor (Switchboard Manager) to Cory's WORK address, cc his personal address. VERBATIM
+KEY PASSAGES:
+- "I know you had a scheduled appointment with your doctor yesterday as per text message sent on
+  Monday 29th July" [NOTE: "29th July" is an ERROR in their email — chronologically must be 29 June.
+  Their date error, on their document.]
+- **"Until we receive appropriate medical clearance, including a completed Employee Capacity
+  Certificate (ECC), we are unable to facilitate your return to work, please wait for my advice to
+  when your next returning shift will be."**
+- **"Unless you advise me otherwise, I will process your shifts that you have not worked as Sick
+  Leave – Please confirm by Friday 3rd July before 2:00pm."**
+WHAT THIS ESTABLISHES:
+1. **THE CONDITION, IN WRITING, FROM TAYLOR** — return conditional on a completed ECC. The single
+   clearest articulation of the gate. Taylor as author = the conflict-of-interest point (s 7) is
+   anchored to a primary document, not inference.
+2. **THE SICK-LEAVE CODING WAS A DEFAULT, NOT A DECISION** — "Unless you advise me otherwise, I
+   will process..." Leave was debited by default, with no delegate, no instrument, and the onus of
+   objection placed on the employee. Directly supports the "no decision was made" thesis.
+3. **"please wait for my advice to when your next returning shift will be"** — express assertion of
+   control over his attendance by the line manager, 2 July, before any IM involvement.
+4. ⚠️ **SEQUENCE POINT NEEDING CLARIFICATION FROM CORY**: "your shifts that you have not worked"
+   indicates shifts were ALREADY unworked as at 2 July, and "unable to facilitate your RETURN"
+   implies he was already off. So the stoppage may PREDATE 2 July. His letters have said "I was
+   working my rostered shifts... then told I could not work until I completed an ECC."
+   → CONFIRM: what was the LAST shift actually worked, and what happened between the hours request
+   and 2 July? The sequence paragraph in future correspondence must match this document exactly.
+   (Safest current wording: "I was told on 2 July 2026 that I could not return to work until a
+   completed ECC was provided.")
+5. Their deadline was "before 2:00pm Friday 3 July"; the ECC was provided 3 July at 2:32pm — 32
+   minutes later. Immaterial (he complied the same day, and the ECC required the doctor's completion)
+   but note it: they may reach for it. Answer: the document was obtained and provided the same day.
+USE: origin document for the union bundle and the statutory declaration; anchors s 4 (origin of the
+requirement) and s 7 (conflict) in his correspondence. NOT to be re-argued with MSH.
