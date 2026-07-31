@@ -209,6 +209,31 @@ His working theory (that the email collapsed the review step) is recorded as **W
 ⚠️ Closing this one **protects** the still-open 1 Jul → 2 Jul sequence: a set of inferences in which
 one has been tested and abandoned reads as observation, not habit.
 
+### 3.14 ⭐ THE COMPLETE CITATION RECORD — two instruments in five weeks
+Full-text extraction of every MSH item, 2–31 July 2026. Detail at
+`skill/references/msh-citations-complete-list.md`.
+
+| Date | Author | Instruments cited **by MSH** |
+|---|---|---|
+| 2 Jul | Taylor *(the origin direction)* | **NONE** |
+| 7 Jul | Forrest | **NONE** — "work health and safety legislation", unnamed |
+| 15 Jul | Harrison *(pay refused)* | **NONE** |
+| 29 Jul | Harrison | **WHS Act 2011** — first correct formulation |
+| 30 Jul | Harrison *(holding reply)* | **NONE** — the EB12/Award/QH-POL text in that PDF is **Cory's own 28 July letter quoted beneath** |
+| 31 Jul | Harrison *(covering email)* | **NONE** |
+| 31 Jul | **Hughes — both letters** | **HR Policy G3 [sic: G03]** + **WHS Act ss 17, 19** |
+
+**Complete deduplicated list:** WHS Act 2011 (ss 17, 19); HR Policy G3/G03. Plus, in **form
+boilerplate only** — Information Privacy Act *(year omitted on the consent form)*, WCRA 2003, HED
+01/16, HED 12/21 + HR Policy B70, and an unnamed "Metro South Health privacy policy". *(2025:
+Directive 03/20, HR Policy C73, HR Policy E4.)*
+
+⇒ **The WHS Act appears the day after Cory's 28 July letter. G03 appears two days after that, and
+only for the information request — never for the exclusion.** Not cited once by anyone: **PS Act
+ss 103–105**, EB12, the Award, **QH-IMP-401-5** (MSH's own standard for this process), QH-POL-231 /
+Directive 12/24, the Psychosocial Code, WHS ss 47–49, AD Act ss 34/124, Code of Conduct cl 1.2.
+⇒ **Independent corroboration of §3.10 on MSH's own documents: for the exclusion, nothing was used.**
+
 ---
 
 ## 4. THE 2025 HUGHES/TAYLOR HISTORY
@@ -372,6 +397,7 @@ use `pdftoppm`.
 | `skill/references/metadata-register-31JUL2026.md` | **Full metadata, recovered revisions, signature-image analysis, and the limits of what metadata can show** |
 | `skill/references/what-power-did-MSH-use.md` | **The instruments tested against the acts taken — and where nothing was used at all** |
 | `skill/references/msh-document-quality-comparison.md` | Seven MSH documents ranked by development and error density |
+| `skill/references/msh-citations-complete-list.md` | **Every policy and Act MSH has cited, by document and date — and the nine instruments never cited once** |
 | `skill/references/hughes-taylor-evidence-compilation.md` | *(see above)* |
 | `skill/references/working-theories.md` | Hypotheses with confidence — incl. **WT-2026-07-31** |
 | `skill/references/letter-foundation-verified.md` | ✅/⚠️/❌ register of propositions |
