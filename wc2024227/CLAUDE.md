@@ -5,6 +5,7 @@ This is the Claude Code project context for Cory Shepherd's QIRC workers' compen
 ## Read these first, every session
 
 0. **`MASTER.md`** — the consolidated single pull-from point (state of play, findings, disciplines, open items, document index). Start here.
+0a. **`corpus/FULL_CORPUS.md`** — ⭐ **the whole correspondence record in one searchable file**: 154 messages, 2020–2026, full text, chronological, each cited to its pack and page. **Grep this before opening any PDF.** Companion index at `corpus/MESSAGE_INDEX.tsv`; cautions at `corpus/README.md` — times are **UTC (+10 for AEST)**, and **nothing is quoted into a filing from the corpus**, only from the source PDF.
 1. **This file** — standing context + the discipline rules below.
 2. **`skill/SKILL.md`** and the relevant **`skill/sub-skills/*.md`** — the routed working method (drafting, evidence, disclosure mechanics, settlement, parallel tracks).
 3. **`skill/references/confirmed-record.md`** — verified facts ONLY. Never rely on memory for a pinpoint; confirm here or in the source PDF.

@@ -459,6 +459,10 @@ use `pdftoppm`.
 
 | File | Contents |
 |---|---|
+| ⭐ **`corpus/FULL_CORPUS.md`** | **THE WHOLE CORRESPONDENCE RECORD — 154 messages, 2020–2026, full text, chronological, every entry cited to `pack NN p.NNN`. Grep this first.** |
+| ⭐ **`corpus/MESSAGE_INDEX.tsv`** | One row per message — date · pack · page · from · to · cc · subject |
+| `corpus/README.md` | How to use the corpus + **6 cautions** (times are UTC +10 for AEST; never quote from it into a filing) |
+| `documents/correspondence-packs/INDEX.md` | The six mailbox packs, 1,110 pp, mapped section by section, with the open flags |
 | `skill/references/hughes-taylor-evidence-compilation.md` | **The evidence schedule** — 31+ propositions graded, 7 contradictions, 13 admissions, propositions not established, gaps, chronology with intervals, evidence classes |
 | `skill/references/hughes-2025-history-forensic.md` | Forensic analysis of the eight 2025 documents |
 | `skill/references/RFMI-compliance-test.md` | The 31 July request tested against every governing instrument |
