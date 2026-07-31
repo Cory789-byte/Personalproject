@@ -49,13 +49,25 @@ words:
 
 That is correct, and the sequence was as follows.
 
-  (a) On 2 July 2026 I was told by the Manager, Switchboard Services that my return to work
-      could not be facilitated until a completed Employee Capabilities Checklist was provided,
-      and that it was required before 2:00pm on Friday 3 July 2026.
-  (b) I obtained the checklist and provided it on 3 July 2026. It certified me fit to work with
-      restrictions.
-  (c) Within the hour I was told I could not attend the workplace, and my rostered shifts were
-      charged to my accrued leave. I have not worked since.
+  (a) On 5 May 2026 the Manager, Switchboard Services asked me to arrange for the Employee
+      Capabilities Checklist to be completed, so that the Health Service could "provide the most
+      appropriate support in the workplace" and "discuss the next steps to ensure you are
+      supported and working safely". No condition was attached to my attendance.
+  (b) On 21 May 2026 I advised that an appointment was booked for 5 June 2026. In the same email
+      I arranged a swap for a shift I was rostered on the following day. I remained rostered and
+      at work with the checklist outstanding, and no suggestion was made that I could not attend.
+  (c) On 26 June 2026 the position changed. I was advised that "until we receive appropriate
+      medical clearance, including a completed Employee Capacity Certificate (ECC), we are unable
+      to facilitate your return to work", by reference to section 19 of the Work Health and Safety
+      Act 2011, and that without the documentation I "will be unable to return to work".
+  (d) That position was repeated on 2 July 2026, with a leave-type deadline of 2:00pm on Friday
+      3 July 2026.
+  (e) I obtained the checklist and provided it on 3 July 2026 at 2:32pm. It certified me fit to
+      work with restrictions.
+  (f) At 3:18pm on 3 July 2026 I asked the Health Service to confirm whether I was to attend, or
+      otherwise to advise my next returning shift. That request has not been answered. My rostered
+      shifts were charged to accrued leave, then to sick leave without pay, and from 13 July 2026
+      to income protection without pay. I have not worked since.
 
 The checklist was therefore required by the Health Service, for a purpose the Health Service
 has itself stated — to facilitate a return to work — and, once provided, became the basis on
@@ -631,12 +643,13 @@ PART 8 — TIME
 
 8.1  DEADLINES IN THIS MATTER HAVE RUN IN ONE DIRECTION
 
-On 2 July 2026 the Manager, Switchboard Services required a completed Employee Capabilities
-Checklist and set a deadline: before 2:00pm on Friday 3 July 2026. I met it. The checklist was
-provided on 3 July.
+On 26 June 2026 the Manager, Switchboard Services advised that my return could not be
+facilitated until a completed Employee Capabilities Checklist was provided. That position was
+repeated on 2 July 2026 with a deadline of 2:00pm on Friday 3 July 2026. I met it. The checklist
+was provided on 3 July at 2:32pm.
 
-Within the hour I was told I could not attend the workplace. I have now been held out for five
-weeks. In that period:
+At 3:18pm the same day I asked to be told whether I should attend. That request has not been
+answered. I have now been held out for five weeks. In that period:
 
   (a) no instrument authorising my exclusion has been identified to me, although I have asked;
   (b) no date has been given to me by which I might return, or by which any decision would be
