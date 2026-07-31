@@ -78,10 +78,11 @@ anywhere in either letter.
 
 | Date | Author | Instruments cited by MSH |
 |---|---|---|
-| **2 Jul 2026** | Taylor — *the origin direction* | **NONE** |
+| ⭐ **26 Jun 2026 10:42** | **Taylor** — ***the TRUE origin*** *(corrected)* | ⭐ **WHS Act 2011 s 19**, correctly formulated — *"so far as is reasonably practicable"* |
+| **2 Jul 2026** | Taylor — *a near-verbatim recycling of 26 Jun* | **NONE — the legal basis was dropped** |
 | **7 Jul 2026** | Forrest | **NONE** — only "obligations under work health and safety legislation" (unspecified; no Act, no section) |
 | **15 Jul 2026** | Harrison — refusal of pay | **NONE** |
-| **29 Jul 2026** | Harrison | **Work Health and Safety Act 2011 (Qld)** — first correct statutory formulation, *"so far as is reasonably practicable"* |
+| **29 Jul 2026** | Harrison | **Work Health and Safety Act 2011 (Qld)** — the **return** of a citation last used 26 June |
 | **30 Jul 2026** | Harrison — holding reply | **NONE** (all EB12/Award/QH-POL/Directive/Code-of-Conduct text in that PDF is **Cory's own 28 July letter quoted beneath**, not MSH's) |
 | **31 Jul 2026 11:43** | Harrison — covering email | **NONE** |
 | **31 Jul 2026** | **Hughes — both letters** | **HR Policy G3: Reasonable Adjustment** + **WHS Act 2011 ss 17, 19** |
@@ -130,9 +131,12 @@ Not cited **once**, in five weeks, by any of the four MSH officers:
 Across **five weeks, four officers and seven items of correspondence**, Metro South Health has
 identified **two instruments** as the basis of what it is doing — and one of them it misnumbered.
 
-- The **exclusion** (2 July), the **refusal of pay** (15 July) and the **direction not to attend**
-  were supported by **no instrument at all**. Taylor cited nothing. Forrest cited "legislation"
-  without naming it. Harrison cited nothing.
+- ⚠️ **CORRECTED — see the header.** The exclusion condition dates from **26 June 2026**, and Taylor
+  **did** cite WHS s 19 that day. But s 19 is a **duty**, not a power — she deployed it as the reason
+  she *could not* facilitate a return.
+- After 26 June the citation **disappeared**: the **2 July** recycling dropped it, **7 July** (Forrest)
+  cited "legislation" without naming it, **15 July** (Harrison, refusal of pay) cited nothing.
+  It returned only on **29 July**.
 - The **WHS Act appears for the first time on 29 July** — **the day after** Cory's 28 July letter
   setting out EB12, the Award, QH-POL-210, QH-IMP-401-5, QH-POL-231 and Directive 12/24 by
   clause number.
