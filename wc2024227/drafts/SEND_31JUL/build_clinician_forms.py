@@ -102,16 +102,16 @@ def build(path, who, addr, formref, intro, questions, closing):
 OUT = "/home/user/Personalproject/wc2024227/drafts/out/"
 
 build(OUT+"FORM_A_GP_DrMa_MSH-INJ-5795.pdf",
-      "Dr Day Hong Ma", "My Doctors Clinic<br/>16/3221 Surfers Paradise Boulevard<br/>Surfers Paradise QLD 4217",
+      "Dr Day Hong Ma", "General Practitioner<br/>My Doctors Clinic<br/>16/3221 Surfers Paradise Boulevard<br/>Surfers Paradise QLD 4217",
       "FORM A — General Practitioner",
-      "Questions for the treating general practitioner",
+      "Questions for Dr Day Hong Ma, treating general practitioner",
       [("1(a)", "When was Mr Shepherd first diagnosed with Major Depressive Disorder?",
         "Mr Shepherd states this was 24 October 2024 and asks that you confirm from your records.", 20*mm),
        ("1(c)", "Whether the workplace stressors identified in the Employee Capabilities Checklist are "
                 "based solely on Mr Shepherd's self-report, your own clinical assessment, or other medical "
                 "information/reports available to you.",
-        "You may wish to identify the specialist reports held on file, including the treating "
-        "psychiatrist's report of 13 February 2025.", 30*mm),
+        "You may wish to identify the specialist reports held on file, including the report of "
+        "Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, dated 13 February 2025.", 30*mm),
        ("4", "If Mr Shepherd is not able to return to his substantive role under the existing reporting "
              "arrangements, please specify any restrictions or adjustments you recommend, the clinical "
              "basis for those recommendations in functional terms, and the anticipated duration and "
@@ -127,21 +127,23 @@ build(OUT+"FORM_A_GP_DrMa_MSH-INJ-5795.pdf",
        ("6", "Please confirm the medical records and specialist reports you hold in respect of "
              "Mr Shepherd, and whether the Employee Capabilities Checklist you completed on 3 July 2026 "
              "remains your opinion.", None, 26*mm)],
-      "Questions concerning the clinical basis of causation, functional effects of working memory, and "
-      "the specific tasks or environments said to exacerbate the condition have been directed to the "
-      "treating psychiatrist.")
+      "Questions concerning the clinical basis of causation, the functional effects of working memory, "
+      "and the specific tasks or environments said to exacerbate the condition have been directed to "
+      "Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service, as the "
+      "treating specialist.")
 
-build(OUT+"FORM_B_Psychiatrist_MSH-INJ-5795.pdf",
-      "The Treating Psychiatrist", "[practice name]<br/>[address]",
+build(OUT+"FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf",
+      "Dr Ravikumar Bangalore Krishnaiah", "Consultant Psychiatrist<br/>Mind and Memory Service<br/>"
+      "P 07 5654 5580 &nbsp;·&nbsp; F 07 5636 1005<br/>info@mindandmemoryservice.com.au",
       "FORM B — Treating Psychiatrist",
-      "Questions for the treating psychiatrist",
+      "Questions for Dr Ravikumar Bangalore Krishnaiah, treating psychiatrist",
       [("1(d)", "Whether exposure to the identified workplace stressors presents a foreseeable risk to "
                 "Mr Shepherd's health or safety if he were to return to work, and if so, what specific "
                 "workplace controls or adjustments you consider medically necessary to manage that risk.",
         "Mr Shepherd notes that identifying and implementing controls is a function of the employer "
         "under Part 3.1 of the Work Health and Safety Regulation 2011. Your opinion is sought on what is "
         "medically necessary.", 40*mm),
-       ("7", "The report of 13 February 2025 states that Mr Shepherd's “working memory is affected under "
+       ("7", "Your report of 13 February 2025 states that Mr Shepherd's “working memory is affected under "
              "stress”. Please clarify what this means in functional terms in the workplace, including "
              "(a) how this may affect capacity to perform substantive duties under normal workplace "
              "demands, and (b) the types of circumstances likely to cause this difficulty.", None, 40*mm),
@@ -149,4 +151,5 @@ build(OUT+"FORM_B_Psychiatrist_MSH-INJ-5795.pdf",
              "shift work, patient acuity) that may exacerbate Mr Shepherd's condition or symptoms?",
         "The role is a continuous shift working role covering multiple shifts over a 24/7 period.", 36*mm)],
       "This report is sought in respect of current capacity, functional restrictions and workplace "
-      "controls. It is not sought on the aetiology of the injury, which is a separate matter.")
+      "controls. It is not sought on the aetiology of the injury, which is a separate matter and is the "
+      "subject of separate instructions.")
