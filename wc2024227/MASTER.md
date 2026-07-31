@@ -398,6 +398,7 @@ use `pdftoppm`.
 | `skill/references/what-power-did-MSH-use.md` | **The instruments tested against the acts taken — and where nothing was used at all** |
 | `skill/references/msh-document-quality-comparison.md` | Seven MSH documents ranked by development and error density |
 | `skill/references/msh-citations-complete-list.md` | **Every policy and Act MSH has cited, by document and date — and the nine instruments never cited once** |
+| `skill/references/personal-liability-hughes-taylor.md` | **Whether acting for the Health Service protects Hughes and Taylor — IR Act ss 282(6), 285, 296, 305–307, 310(3), 571; PS Act s 269; PID Act ss 40–45; AD Act ss 122–123, 129–133; WHS ss 27, 104–107** |
 | `skill/references/hughes-taylor-evidence-compilation.md` | *(see above)* |
 | `skill/references/working-theories.md` | Hypotheses with confidence — incl. **WT-2026-07-31** |
 | `skill/references/letter-foundation-verified.md` | ✅/⚠️/❌ register of propositions |
