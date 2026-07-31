@@ -265,6 +265,26 @@ documented basis to be proved. In 2026 that is already established: MSH has been
 and has not identified an instrument. In 2025 it is establishable by a nil return to a records
 request.
 
+### G2A — THE COMPREHENSIVE NIL, AND A THIRD INSTANCE
+
+Cory confirms of the April 2025 placement: **no advertisement, no operational need, no record of any
+kind.**
+
+| Instance | Action affecting his position | Formal process |
+|---|---|---|
+| **Apr 2025** | Placed in Security administration | No advertisement, no authorisation, no business case, no movement record **[A — establishable by nil return]** |
+| **Jul 2026** | Excluded from the workplace, 5 weeks | **No instrument, no delegate identified** after three written requests **[D]** |
+| **Jul 2026** | Shifts / position absorbed by another employee | **Not advertised** **[A]** |
+
+⇒ **Three actions affecting his substantive position; none with a documented process behind it.**
+A comprehensive nil is itself evidence of informality: Queensland Health does not move AO3s between
+work areas, exclude them for five weeks, or reallocate their shifts without generating records —
+unless done outside process.
+
+⚠️ **GRADE SEPARATELY:** the absence of a **RECORD** is provable (nil return). The absence of an
+operational **NEED** is an assertion about necessity and is generally not provable. Do not merge
+them.
+
 ---
 
 ## SECTION H — THE THREE FINDINGS THAT REST ENTIRELY ON MSH'S OWN DOCUMENTS
