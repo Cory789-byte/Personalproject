@@ -2713,3 +2713,40 @@ coincidence would otherwise suggest.
 Risk assessment: modest. The Regulator may never run it. But it is the kind of point that sounds
 damaging if unanswered and is embarrassing to raise if answered. Worth ~20 minutes, not more.
 No change to the RFMI drafting — Q1(a) still routes through the clinician with clinical context.
+
+## 31 JUL 2026 — SPECIALIST PATHWAY CORRECTED: EXISTING PSYCHIATRIST, NO GP REFERRAL BOTTLENECK
+
+Cory has an existing treating psychiatrist and can instruct him directly, provide the material, and
+have the consultation and report billed to MSH.
+
+**CORRECTION TO PART 3.2.** The earlier draft asserted the delay ran through a GP referral. That was
+wrong and MSH could have pointed out he was waiting on something he did not need. Note also that an
+employer-funded report is generally not Medicare-rebatable in any event, so the referral question
+largely falls away once MSH is paying — it is billed privately, direct to them.
+
+**THE ACCURATE SEQUENCE, NOW IN THE DOCUMENT:**
+1. MSH confirms which questions it presses and that it will meet the cost.
+2. Cory instructs his treating psychiatrist on the confirmed question set.
+3. Appointment obtained; opinion prepared and provided.
+4. Dr Ma's cancelled consultation likewise cannot sensibly be rebooked until the set is settled.
+
+⭐ **THE LINE THAT DOES THE WORK:** "The only step which cannot presently begin is the one which
+depends on the Health Service, and I ask that it be taken promptly so that the rest can follow."
+Accurate, unarguable, and puts the delay where it belongs — on the party running the seven-day
+clock.
+
+**COSTS TIGHTENED (Part 9(c)):** the psychiatrist's invoice will be directed to the Injury
+Management Consultant on the same basis as Dr Ma's, and **confirmation is sought BEFORE the
+appointment is made "so that I am not required to fund it in advance as I was required to fund the
+Employee Capabilities Checklist."** Ties the forward arrangement to the unreimbursed $150 of
+10 July without re-arguing it.
+
+**DRAFTING NOTE:** the document says "my treating psychiatrist" throughout and does not disclose
+whether the relationship is new or existing. That is immaterial to MSH and there is no reason to
+volunteer treatment history beyond what the ECC already discloses.
+
+**STILL WORTH OBTAINING (appeal, not MSH):** the psychiatrist REFERRAL DOCUMENT and its date — an
+objective contemporaneous marker of clinical escalation, and what the GP wrote as the reason for
+referral is often more valuable than the date. A referral dated between 18 June 2024 and
+24 October 2024 would defeat the "reaction to the review decision" point on its own, without needing
+consultation timestamps.

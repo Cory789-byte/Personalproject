@@ -167,12 +167,19 @@ current capacity, functional restrictions and recommended adjustments. It will n
 aetiology of my condition, which is a matter in issue in WC/2024/227 and is not necessary for
 the stated purpose of this inquiry.
 
-The sequence this requires is worth stating, because it bears on the timeframe. A referral to a
-psychiatrist is made by my general practitioner. So the order is: the consultation with Dr Ma
-is rebooked and held; Dr Ma answers the questions within his scope and, if the Health Service
-presses Question 7, provides a referral; an appointment with the psychiatrist is then obtained;
-and the opinion follows. None of that can occur within seven calendar days, and the first step
-cannot sensibly occur until the Health Service has confirmed which questions it presses.
+The sequence this requires is worth stating, because it bears on the timeframe. I am not able to
+instruct my treating psychiatrist until the Health Service confirms which questions it presses
+and that it will meet the cost. Once it has, an appointment must be obtained and the opinion
+prepared. The same applies to Dr Ma: the consultation I cancelled cannot sensibly be rebooked
+until the question set is settled.
+
+None of that can occur within seven calendar days. The only step which cannot presently begin
+is the one which depends on the Health Service, and I ask that it be taken promptly so that the
+rest can follow.
+
+The invoice for any specialist opinion will be directed to the Injury Management Consultant on
+the same basis as Dr Ma's, consistent with the Health Service's confirmation that it will meet
+my reasonable costs.
 
 I note that a request to my own treating practitioners rests on a different footing from an
 independent medical examination, which is governed by chapter 3 part 8 division 5 of the Public
@@ -480,8 +487,11 @@ preparing this report."
   (b) The rebooked consultation with Dr Ma, and any further consultation required to answer the
       Health Service's questions, will be invoiced to the Injury Management Consultant at the
       address nominated.
-  (c) If specialist input is required, please confirm the Health Service will meet that cost on
-      the same basis.
+  (c) If specialist input is required, the invoice for the psychiatrist's consultation and
+      report will likewise be directed to you. Please confirm the Health Service will meet that
+      cost on the same basis. I ask that this be confirmed before the appointment is made, so
+      that I am not required to fund it in advance as I was required to fund the Employee
+      Capabilities Checklist.
 
 RECORDS. The covering email is copied to notes@solv.com.au and refers to a transition to "Solv,
 a new Injury Management Case System." Please confirm what personal and health information
