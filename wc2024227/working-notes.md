@@ -2154,3 +2154,54 @@ MORE provable, which is exactly why there is no need to assert anything from the
 **CONSISTENCY POINT:** apply the same service practice going forward — where an item is intended to
 bind the Regulator as respondent (offers, notices), copy the OIR appeals mailbox as well as the
 individual officer, so receipt is always provable.
+
+## 31 JUL 2026 — SERVICE OF THE 1 JULY CALDERBANK: CONFIRMED FROM THE SENT ITEM
+
+Source: documents/2026-07-01_Cory_Calderbank2_covering_email_SERVICE_PROOF.pdf (Outlook export).
+
+**ESTABLISHED ON THE FACE OF THE DOCUMENT:**
+- Subject: "WITHOUT PREJUDICE SAVE AS TO COSTS - Calderbank Offer - WC/2024/227 Shepherd v Workers'
+  Compensation Regulator"
+- From: coryshepherd1@hotmail.com
+- **To (both principal recipients, NOT cc): Renee.Matheson@oir.qld.gov.au AND Appeals@oir.qld.gov.au**
+- **Sent: Wednesday 1 July 2026, 12:16**
+- Attachments: (1) the offer; (2) bundle of authorities referred to in it.
+- Open 21 days; express invitation to confer ("willing to discuss... at any time within that period",
+  "or to arrange a time to confer").
+- ✅ **QIRC registry NOT copied.** No WP material near the decision-maker. Clean.
+
+**CONSEQUENCES:**
+1. **Service on the Regulator as respondent is proved on the face of the document.** Both addresses
+   in the To field = addressed to the AGENCY as principal, not merely copied. Receipt cannot be put
+   in issue. Strengthens s 558(3) / *Canton* costs position; also proves the offer to confer was
+   made twice and declined twice (Feb + 1 Jul).
+2. **Matheson is NOT a necessary link in any pathway** — the offer landed in a shared registry
+   mailbox. This is exactly why Cory does not and will not attribute anything to her personally.
+   Consistent with the withdrawal of the February reprisal allegation at the March QIRC conference.
+   Any question is INSTITUTIONAL (agency records), never personal.
+3. ⭐ **THE KEY NUANCE — THE MOST LIKELY PATHWAY IS ALSO A LAWFUL ONE.** On receipt of a settlement
+   offer in a s 550 appeal, the Regulator's appeals unit contacting the employer is orthodox: the
+   employer holds the evidence and has a direct interest in the outcome. MSH was already engaged in
+   the proceeding via the 5 June 2026 Form 29 objection (Cridland signature; Myla Ruttan, Principal
+   Lawyer, named contact). So MSH plausibly learned of the offer by an entirely proper route.
+   → **Transmission is NOT the wrongdoing and must never be framed as one.**
+   → The ONLY live question is: **what did MSH do with the knowledge the following day?** That is a
+     question about MSH's conduct alone — the entity that has since shifted position six times,
+     identified no instrument, held him out four weeks, debited leave by default, and as at 30 July
+     still could not guarantee a return.
+   This is a CLEANER position than the personal-inference framing: nothing is alleged against the
+   Regulator or its officer; MSH is simply left to explain MSH's own conduct.
+
+**ACTIONS:**
+- [x] Sent item exported and filed.
+- [ ] Obtain and record the TIMESTAMP on Taylor's 2 July email so the gap is measured in hours, not
+      impression. (1 Jul 12:16 → ?)
+- [ ] Keep the Outlook original; do not delete.
+
+**DO NOT (standing):**
+- No RTI to OIR — premature, signals investigation, material is not at risk.
+- No question to Matheson about whether MSH was told — converts a preserved position into an
+  asserted one and invites an untestable denial.
+- Nothing about the pathway in ANY correspondence to anyone in the proceeding.
+Sequence stays in (a) the statutory declaration / union chronology and (b) the reserved general
+protections file.
