@@ -1,0 +1,415 @@
+RESPONSE AND PROPOSED ALLOCATION OF QUESTIONS
+Request for Medical Information dated 31 July 2026
+
+Employee: Cory Lea Shepherd, AO3, Switchboard Services, Logan Hospital
+Reference: MSH-INJ-5795 · CLM-317073
+Request signed by: Mr Scott Hughes, Director, Corporate Services, LBHS — 31 July 2026
+Response date: [DATE]
+
+--------------------------------------------------------------------------------
+PART 1 — PURPOSE AND THE TEST APPLIED
+--------------------------------------------------------------------------------
+
+The letter to Dr Ma states the purpose of the request:
+
+    "to identify and implement any appropriate workplace controls or reasonable adjustments
+    to support a safe and sustainable return to his substantive position."
+
+Human Resources Policy G03 (QH-POL-210), which the Health Service has cited, sets the limit at
+clause 3:
+
+    "Reasonable adjustment may need to be supported by medical or rehabilitation information,
+    where necessary, to either identify required workplace adjustments and/or assess the
+    suitability of proposed adjustments."
+
+I have applied that test to each question: is this information necessary to identify a required
+adjustment, or to assess the suitability of a proposed one — and is the person being asked the
+right person to answer it?
+
+Applying that test, the nine questions divide four ways. I am not declining to provide
+information. I am proposing that each question be directed to whoever is able to answer it.
+
+--------------------------------------------------------------------------------
+PART 2 — PROPOSED ALLOCATION
+--------------------------------------------------------------------------------
+
+  Q     SUBJECT                                          PROPOSED RESPONDENT
+  ----- ------------------------------------------------ ----------------------------------
+  1(a)  Date of first diagnosis                          Withdrawal requested
+  1(b)  Clinical basis for the causal link               Withdrawal requested
+  1(c)  Self-report v clinical assessment; other reports Withdrawal requested
+  1(d)  Foreseeable risk; controls medically necessary   Dr Ma (GP)
+  2     Following directions; performance and conduct    Health Service (threshold question)
+  3     Fitness under existing reporting arrangements    Health Service (risk assessment),
+                                                         then treating psychiatrist
+  4     Restrictions, adjustments, duration, review      Dr Ma (GP)
+  5     Meaning of "complaint handling"                  Health Service (already answered),
+                                                         then Dr Ma (clinical scope)
+  6     Requirements of the role without modification    Health Service (identify the genuine
+                                                         occupational requirements), then GP
+  7     "Working memory affected under stress"           Treating psychiatrist
+  8     Tasks and environments that exacerbate           Dr Ma (GP)
+  9     If unable to accommodate, safe return            Health Service (onus is the employer's)
+
+Of the nine questions, four are not medical questions. They are questions the Health Service
+must answer itself before any clinician can usefully be asked anything.
+
+--------------------------------------------------------------------------------
+PART 3 — QUESTIONS FOR MY PRACTITIONERS
+--------------------------------------------------------------------------------
+
+3.1  FOR DR MA — I will obtain answers to these
+
+Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk to my health
+       or safety on return, and what specific workplace controls or adjustments are medically
+       necessary to manage that risk.
+
+Q4     The restrictions or adjustments recommended, the clinical basis in functional terms, and
+       the anticipated duration and review date.
+
+Q5     What specific activities are encompassed within "complaint handling" — as a matter of
+       clinical restriction. The operational meaning has already been stated by the Health
+       Service and is dealt with at Part 4.3.
+
+Q8     Specific tasks, situations or environments which may exacerbate my condition.
+
+Each is necessary to identify a required adjustment or to assess the suitability of a proposed
+one. Each is within a general practitioner's scope.
+
+3.2  FOR A TREATING PSYCHIATRIST — I am willing to obtain this
+
+Q7     What "working memory is affected under stress" means in functional terms, including how
+       it may affect capacity under normal workplace demands and the circumstances likely to
+       cause difficulty.
+
+This is a legitimate adjustment question, but a functional cognitive opinion is properly a
+psychiatrist's rather than a general practitioner's. Dr Ma can address it in general terms
+only.
+
+So that it can be arranged, please confirm:
+
+  (a) that the Health Service presses Question 7, and identify any part of Questions 1(d), 4
+      or 8 on which it requires a specialist rather than a general practitioner's opinion;
+  (b) that the Health Service will meet the cost, consistent with its confirmation that it
+      will meet my reasonable costs; and
+  (c) that it accepts the resulting timeframe. A psychiatric review cannot be arranged within
+      seven days and in the ordinary course will take considerably longer.
+
+Consistent with option 1, I will obtain that opinion and provide it. Its scope will address my
+current capacity, functional restrictions and recommended adjustments. It will not address the
+aetiology of my condition, which is a matter in issue in WC/2024/227 and is not necessary for
+the stated purpose of this inquiry.
+
+I note that a request to my own treating practitioners rests on a different footing from an
+independent medical examination, which is governed by chapter 3 part 8 division 5 of the Public
+Sector Act 2022 and Directive 04/24, and which has not been invoked.
+
+--------------------------------------------------------------------------------
+PART 4 — QUESTIONS FOR THE HEALTH SERVICE
+--------------------------------------------------------------------------------
+
+These four questions ask a doctor to answer matters which the Health Service's own policy and
+the Work Health and Safety Act 2011 place with the Health Service. I ask that the Health
+Service answer them, after which the properly medical component of each can be put to my
+practitioners.
+
+4.1  QUESTION 2 — is there a performance or conduct process?
+
+The question asks whether I can "follow a reasonable and lawful direction issued by [my]
+supervisor" and "participate in discussions in relation to [my] workplace performance and/or
+conduct."
+
+These are not questions about capacity to perform the genuine occupational requirements of my
+role. They concern readiness for a management process. Either such a process is on foot
+concerning me — in which case I am entitled to be told of it, given particulars, and afforded
+procedural fairness — or there is not, in which case the questions do not serve the stated
+purpose of this inquiry.
+
+  → FOR THE HEALTH SERVICE: please confirm whether any performance or conduct process
+    concerning me is on foot or contemplated, and if so provide particulars.
+
+  → THEN, IF APPROPRIATE, FOR MY PRACTITIONER: "Does the employee have capacity to participate
+    in ordinary workplace meetings and supervision, and are any supports required?"
+
+The premise of Question 2 is separately incorrect and is addressed at Part 5.
+
+4.2  QUESTION 3 — is the workplace safe?
+
+The question asks whether I am "medically fit to return to their substantive role under the
+existing reporting arrangements, including working with and reporting to their current line
+manager."
+
+This asks a treating doctor to certify that a workplace arrangement is safe. Under section 19
+of the Work Health and Safety Act 2011 that duty rests with the Health Service. Under the
+Managing the risk of psychosocial hazards at work Code of Practice 2022, a psychosocial hazard
+is a feature of the work, to be identified and controlled by the person conducting the business
+or undertaking. G03 clause 1 requires that "proper consideration must be given to the Managing
+the risk of psychosocial hazards at work Code of Practice 2022, to ensure the process of
+providing reasonable adjustments in the workplace, identifies and manages psychosocial hazards
+and risks."
+
+What is sought is a workplace risk assessment, not a medical opinion. A doctor can advise on
+me; a doctor cannot assess the Health Service's reporting arrangements.
+
+  → FOR THE HEALTH SERVICE: a risk assessment of the Switchboard work environment addressing
+    the psychosocial hazards identified. Clause 7.2.1 of the Queensland Public Health Sector
+    Certified Agreement provides the mechanism.
+
+  → THEN FOR MY PRACTITIONER: "Are any adjustments recommended in relation to supervision
+    arrangements, and if so, what are they in functional terms?"
+
+4.3  QUESTION 6 — what are the genuine occupational requirements?
+
+The question asks whether I can "fulfill the full inherent requirements of [my] Role ...
+without restrictions or modifications to duties."
+
+This applies the wrong test. G03 states its purpose as assisting employees "to meet the genuine
+occupational requirements of their role by applying principles of reasonable adjustment," and
+at clause 3 provides that adjustments "should support the employee to undertake the genuine
+occupational requirements of their role, without risk to their own health and safety or that of
+others in the workplace." Section 34 of the Anti-Discrimination Act 1991 is to the same effect.
+Neither asks whether an employee can perform a role without adjustment.
+
+A clinician also cannot determine which duties are genuine occupational requirements. That is
+the employer's determination. The Health Service has itself already made part of it: its letter
+states that "established process for client complaints received by Switchboard employees is for
+immediate escalation and management by the Health Service Client Liaison Officer and/or
+Manager, Switchboard Services," and the Role Description at Attachment 2 contains no
+complaint-handling responsibility.
+
+  → FOR THE HEALTH SERVICE: identify which duties of the role it says are genuine occupational
+    requirements, having regard to the Role Description at Attachment 2.
+
+  → THEN FOR MY PRACTITIONER: "Can the employee perform the genuine occupational requirements
+    of the role with the adjustments you have recommended?"
+
+4.4  QUESTION 9 — can the adjustments be accommodated?
+
+The question asks: "If we are not able to accommodate the restrictions you have recommended, is
+Mr Shepherd able to safely return to the workplace?"
+
+This presupposes an inability to accommodate before any accommodation has been assessed. G03
+clause 2 provides that unjustifiable hardship "is tested against the whole organisation, not a
+division or unit within the organisation," and that "the onus is on Queensland Health, as the
+employer, to prove an adjustment is unreasonable, not on the person to prove that it is
+reasonable."
+
+The question therefore asks my doctor to answer the final step first, on a hypothetical the
+Health Service has constructed and not yet tested, and on which the onus is not mine.
+
+  → FOR THE HEALTH SERVICE: assess the recommended adjustments against the whole organisation.
+    If it considers any cannot be accommodated, identify which and its reasons.
+
+  → THEN, IF NECESSARY, the question can be put to my practitioner properly.
+
+--------------------------------------------------------------------------------
+PART 5 — QUESTIONS I ASK BE WITHDRAWN, AND A CORRECTION OF FACT
+--------------------------------------------------------------------------------
+
+5.1  WITHDRAWAL REQUESTED
+
+Q1(a)  "When was Mr Shepherd first diagnosed with MDD?"
+       The date of a historical diagnosis cannot identify a required adjustment, nor assess the
+       suitability of a proposed one. It does not meet the limit in G03 clause 3.
+       PROPOSED INSTEAD: "What is the employee's current condition and prognosis, and over what
+       period are the recommended adjustments expected to be required?"
+
+Q1(b)  "What is the clinical basis for identifying these specific workplace stressors as
+       contributing to the exacerbation of Mr Shepherd's condition."
+       For the purpose of identifying controls, what matters is that the stressors exacerbate
+       my condition and what controls address them — both obtained by Questions 1(d) and 8. The
+       clinical reasoning as to causation is not necessary for that purpose and is a matter in
+       issue in WC/2024/227.
+
+Q1(c)  Whether the stressors are based "solely on Mr Shepherd's self-report, your own clinical
+       assessment, or other medical information/reports available to you."
+       This goes to the reliability of the causal history rather than to any adjustment. To the
+       extent it seeks to identify other medical reports concerning me held by third parties, I
+       do not consent to that inquiry.
+
+I record that section 124(1) of the Anti-Discrimination Act 1991 provides that a person "must
+not ask another person, either orally or in writing, to supply information on which unlawful
+discrimination might be based," and that under section 124(3) the defence requires the
+respondent to prove "that the information was reasonably required for a purpose that did not
+involve discrimination." Impairment is a protected attribute. I raise this not as a complaint
+but so that the Health Service can satisfy itself that each question it presses meets that
+standard.
+
+5.2  CORRECTION OF FACT
+
+Question 2 is premised on the statement that "the Health Service is not aware of any concerns
+being raised for appropriate management."
+
+That statement is incorrect. Concerns have been raised in writing on multiple occasions,
+including a public interest disclosure (PID 24-ESU-1130); a written patient safety report;
+correspondence to Human Resources over a period exceeding two years concerning fatigue,
+rostering and the management of directory information; a formal complaint in February 2026; and
+the matters in WC/2024/227, in which the Health Service filed an objection dated 5 June 2026
+under the signature of the Health Service Chief Executive.
+
+I do not ask the Health Service to agree with any of those concerns. I ask only that my
+treating practitioner not be asked to answer a question which assumes they were never made. I
+request that the correction be provided to Dr Ma in writing before he is asked to answer any
+question resting on that premise.
+
+--------------------------------------------------------------------------------
+PART 6 — DELEGATION AND CONFLICT OF INTEREST
+--------------------------------------------------------------------------------
+
+I previously raised by email the question of who is making decisions about me and whether any
+conflict of interest has been identified. I have not received an answer. I ask again, and ask
+that it be answered in writing.
+
+Both letters of 31 July 2026 are written in the first person of the Injury Management
+Consultant — "I am seeking further clarification", "I require further information", "I will
+make a decision regarding your ability to perform your role" — and are signed by Mr Hughes.
+Please confirm:
+
+  (a) who is the delegate for any decision concerning my capacity or my return to duty;
+  (b) the source and instrument of that delegation; and
+  (c) whether any conflict of interest has been identified, declared and managed in relation to
+      that decision-maker, and if so, how.
+
+I raise (c) because Question 3 asks my general practitioner to advise whether I am fit to
+return "under the existing reporting arrangements, including working with and reporting to [my]
+current line manager." Those reporting arrangements sit within Corporate Services, and the line
+manager reports to the signatory. The same officer is asked at Part 4 of this document to
+determine whether those arrangements are safe and whether adjustments to them can be
+accommodated.
+
+I make no allegation against any individual. I ask that the position be confirmed, consistent
+with clause 1.2 of the Code of Conduct for the Queensland Public Service, which provides that a
+conflict of interest is not wrongdoing in itself, but that failing to disclose and manage one
+is likely to be wrongdoing. I note that the Managing the risk of psychosocial hazards at work
+Code of Practice 2022 identifies poor organisational justice — including a lack of procedural
+fairness — as a psychosocial hazard in its own right, and that G03 clause 1 requires proper
+consideration to be given to that Code in applying this process.
+
+--------------------------------------------------------------------------------
+PART 7 — PROPOSAL FOR RETURN TO WORK
+--------------------------------------------------------------------------------
+
+I have been held out of the workplace since 3 July 2026 without wages, with my accrued leave
+debited, and self-funding the medical costs of this process. G03 clause 1.1 contemplates
+temporary adjustments which allow an employee to "continue work during their recovery," and
+clause 1.1.1 confirms that workplace rehabilitation support is available to employees "who have
+an injury/illness impacting their current ability to perform their role, with no claim or
+entitlement to compensation (health management case)." Clause 1 provides that "Managers are
+responsible for ensuring work environments and work, do not unreasonably prevent employment for
+people."
+
+I propose the following. Each item is within the Health Service's existing processes and, so
+far as I can see, requires no material expenditure and no restructuring.
+
+  (a) RETURN TO DUTY. That I return to my rostered shifts now, on the restrictions certified in
+      the Employee Capabilities Checklist of 3 July 2026, while the balance of this inquiry is
+      completed. If the exclusion is maintained, that the instrument relied on be identified,
+      that the period be treated as paid special leave, and that the leave debited since 3 July
+      2026 be reversed.
+
+  (b) COMPLAINT HANDLING. That the Health Service confirm in writing that complaints received
+      by Switchboard staff are escalated in accordance with the process it has itself
+      described. This requires no change to anything.
+
+  (c) ROSTER PREDICTABILITY. That my roster be published in accordance with the certified
+      agreement and not altered without my agreement other than in an emergency.
+
+  (d) ORDINARY PROCEDURAL FAIRNESS. That any concern about my performance or conduct be raised
+      with me in writing, with particulars, in accordance with the applicable directive, and
+      that I be afforded a support person.
+
+  (e) A SEPARATE CONTACT POINT. That leave, injury management and human resources matters
+      concerning me be handled by an officer outside Switchboard Services rather than by my
+      line manager, who wrote to me on 2 July 2026 concerning leave types and my return to
+      duty. This does not alter day-to-day supervision and involves no change to reporting
+      lines.
+
+  (f) WORKPLACE RISK ASSESSMENT. As set out at Part 4.2.
+
+  (g) REVIEW. That the arrangements be reviewed at six weeks, or earlier if either party
+      considers it necessary.
+
+  (h) GRADUATED RETURN. If the Health Service prefers, I am willing to return on a graduated
+      basis by agreement. I am not seeking to avoid any part of my role.
+
+If any part of this proposal cannot be accommodated, I ask that the Health Service identify
+which part and its reasons, having regard to G03 clause 2.
+
+--------------------------------------------------------------------------------
+PART 8 — TIME
+--------------------------------------------------------------------------------
+
+The request allows seven calendar days from receipt, expiring 7 August 2026, and expressly
+contemplates a reasonable extension. I request one.
+
+The letter was received at 11:43am on Friday 31 July, approximately two hours before a
+consultation with Dr Ma of which the Health Service had been notified on 30 July. Nine
+questions cannot be put to a practitioner on two hours' notice, and because the scope of the
+questions is in issue I cancelled that consultation rather than incur a cost that both the
+Health Service and I would have wasted. I will rebook it once the question set is settled.
+
+I propose that the response be provided in two parts:
+
+  (a) the questions within Dr Ma's scope — 21 days from the date the Health Service confirms
+      the final question set; and
+  (b) any question requiring specialist input — on a timeframe set once the Health Service
+      confirms which questions it presses and that it will meet the cost.
+
+I do not seek delay; the exclusion is costing me my income. I ask the Health Service to note
+that several of its questions can only be answered by a specialist, and that pressing them
+necessarily extends the inquiry. It cannot be reasonable to maintain an unpaid exclusion for a
+period created by the Health Service's own requirements.
+
+--------------------------------------------------------------------------------
+PART 9 — DISCLOSURE AND COSTS
+--------------------------------------------------------------------------------
+
+DISCLOSURE. I adopt option 1 and will obtain the information from my practitioners and provide
+it. I do not consent to option 2 and do not provide an authority for the Health Service to
+obtain information directly from my treating practitioners. G03 clause 3 provides that
+"Queensland Health acknowledges the right of the person with disability, condition, cultural
+considerations or neurodivergence to choose how disclosure of information occurs," and that "it
+may only be necessary to share information when the ability to meet genuine occupational
+requirements and or individual safety is at risk and reasonable adjustment is required." My
+election is the exercise of a right the policy expressly recognises.
+
+COSTS. I note and accept the confirmation that "MSH will meet your reasonable costs of
+preparing this report."
+
+  (a) The consultation of 3 July 2026 which produced the Employee Capabilities Checklist was
+      invoiced at $150.00 and paid by me on 10 July 2026 (receipt N471065713633). I ask that it
+      be reimbursed.
+  (b) The rebooked consultation with Dr Ma, and any further consultation required to answer the
+      Health Service's questions, will be invoiced to the Injury Management Consultant at the
+      address nominated.
+  (c) If specialist input is required, please confirm the Health Service will meet that cost on
+      the same basis.
+
+RECORDS. The covering email is copied to notes@solv.com.au and refers to a transition to "Solv,
+a new Injury Management Case System." Please confirm what personal and health information
+concerning me is held in or transmitted to that system, the basis on which it is held, and the
+arrangements governing its use and disclosure.
+
+--------------------------------------------------------------------------------
+PART 10 — RESPONSE REQUESTED
+--------------------------------------------------------------------------------
+
+I ask for a written response confirming:
+
+  1. whether I am returned to my roster, and if not, the instrument relied on to maintain my
+     exclusion and whether the period will be treated as paid special leave with my leave
+     re-credited;
+  2. the delegate, the source of the delegation, and how any conflict of interest has been
+     identified and managed;
+  3. whether any performance or conduct process concerning me is on foot or contemplated;
+  4. which duties of my role the Health Service says are genuine occupational requirements;
+  5. whether the Health Service will conduct the workplace risk assessment;
+  6. which questions it presses, which it withdraws, and whether it will meet the cost of any
+     specialist opinion; and
+  7. its response to the proposal at Part 7.
+
+I confirm again that I am engaging with this process and want to return to work.
+
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227 · coryshepherd1@hotmail.com
