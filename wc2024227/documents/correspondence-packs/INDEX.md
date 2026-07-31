@@ -137,6 +137,79 @@ decision-making record behind the rejection now under appeal.
 3. **Review timing confirmed** — decision 13 Sep 2024, three-month window, **Review Decision 69983
    issued 24 Oct 2024**. The review was sought promptly.
 
+
+### ⭐ THE SUBSTANCE — what Cory put to WorkCover, read and recorded 31 Jul 2026
+
+**⚠️ THERE WERE TWO EMPLOYER RESPONSES, NOT ONE. Neither is held.**
+| Date | WorkCover to Cory | Deadline given |
+|---|---|---|
+| **16 Aug 2024 15:07** | *"Please see attached **response from your employer**. Should you have any further factual evidence to support your claim, please provide by **20/08/2024**."* | 4 days |
+| **6 Sep 2024 22:27** | *"Please see attached **additional response from your employer**… please provide by **10 September 2024**, otherwise I will be proceeding to making a decision."* | 4 days |
+| **13 Sep 2024 16:59** | **Reasons for Decision** — rejected | |
+[ ] **Obtain both.** They are attachments, absent from every export held, and they are the employer's
+case as put to the decision-maker.
+
+#### ⭐⭐ 26 Aug 2024 — "Union Delegate", and a prior admission by Queensland Health
+> "I attempted to contact our official union representative, Together Union, as well as another
+> union that incorrectly identified itself as a representative… I was unsuccessful… I then sought to
+> inquire with our management regarding the current union delegate in the switchboard department, as
+> **Amanda Ritchie, the previous union delegate, left the switchboard due to workplace bullying and
+> harassment within the department, for which Queensland Health took accountability.** To the best of
+> my knowledge, Amanda has not been the delegate since **2021**."
+> "As stipulated in the **EB11 agreement**, a union representative **is to be provided by Queensland
+> Health** for employees to raise their concerns."
+> "I informed both Ms Taylor and Ms Reece… they were unable to identify the current delegate…
+> I offered to complete the necessary training to become the delegate… It was agreed a group email
+> would be sent… **The group email was sent, and months later, Chloe verbally confirmed that no one
+> had responded.** … the department has taken **no further action**."
+
+⭐ **This is the answer to "why did he escalate outside the department".** He had **no delegate**,
+had asked management to identify one, had **volunteered to become one**, and nothing happened.
+⭐ **And it asserts a prior QH admission** — a delegate who left the same department over bullying
+and harassment, **"for which Queensland Health took accountability"**. **[A]** — Cory's account,
+2024, contemporaneous.
+[ ] **Verify the Ritchie outcome.** If it is documented, it is the single strongest piece of
+similar-fact material in the matter. Ritchie appears on the 2020 distribution list in pack 01.
+[ ] Confirm the **EB11** clause requiring a representative be provided. **ATT01 is in the repo.**
+
+#### 29 Aug 2024 — "Business Case for change Letter 3"
+> "how both **Chloe Taylor and Tammy Reece** while she was also filling the manager position **give
+> me the run around to have payments processed**. I have received so much animosity claims that
+> **I'm combative**… I just don't see how either Tammy or Chloe can make appropriate decisions that
+> affect the workplace **while not even attending it**."
+> "the **manager is in the designated position to approve and sign off on hours worked or missed
+> payments. Employees don't simply contact Human Resources to have payments issued.**"
+
+⇒ Goes to **Stressor 1(a)** (erratic presence) and **Stressor 2(a)** (payroll). Note the concession
+in the same email: *"I have also previously and **mistakenly** written non-continuous worker"* — he
+corrected his own error to the decision-maker.
+⚠️ He records being characterised as **"combative"**. Expect that word to reappear.
+
+#### ⭐ 29 Aug 2024 — "Afterhours Oncall Process", and the 15 April 2024 removal
+> **Cory:** "On **April 15, 2024** with **no consultation** after hours on call delegation was
+> **removed from switchboard** as **both Ellen and Chloe decided effective immediately** it was a
+> necessity that they were on call — and was done **without consulting those who were taking the call
+> and actioning the decision**."
+
+> **Taylor → all Switchboard staff, 15 April 2024 12:39, cc Reese:** "You will see that **Ellen and
+> myself have added Afterhours on call**… **This new process is effective from today.**"
+
+⇒ **The underlying document is in this pack, verbatim, with the full distribution list.** It records
+the change being announced to the team **the same day it took effect**, by the two officers who took
+the on-call themselves. Goes to **Stressor 3** and to the consultation point under **EB12 cl 7.1.11**
+and **WHS ss 47–49**.
+⚠️ Taylor signs as **"A/Switchboard Manager"** in April 2024 — *acting*. Relevant to the
+"while she was also filling the manager position" point above.
+
+#### 30 Aug 2024 — "Failure to consult putting patients at risk"
+Title only; body not yet read. [ ] Read.
+
+#### Other items to read
+[ ] **4 Jul 2024 "Request for Statement of Events"** — the terms of the request Cory was answering.
+[ ] **30 Aug 2024 "Treatment cost coverage"** — four exchanges, incl. **Jack Cain**, a second
+    WorkCover officer.
+[ ] **10 Oct 2024 "Cory Shepherd Employment matters"** — sent after the decision; **auto-reply only**.
+
 ### ⚠️⚠️ VULNERABILITY — READ BEFORE ANY CROSS-EXAMINATION PREPARATION
 Cory's reply of **13 September 2024 18:47**, on the WorkCover file, contains:
 > "How has my employer provided evidence that my signature **was not fraudulently applied** to the
