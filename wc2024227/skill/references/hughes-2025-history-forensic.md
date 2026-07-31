@@ -49,6 +49,40 @@ the statement is **a universal attribution that is materially incomplete and, as
 occasion, wrong** — not that every meeting failed because of Hughes.
 That is still the point Cory made in his 4 Oct complaint, and it is documented.
 
+### 2A. ⭐ THE 27 AUGUST SEQUENCE — CORROBORATED TO THE MINUTE
+
+Full Att E chain (extracted in full on second pass):
+
+| Time | Event |
+|---|---|
+| **26 Aug 2025 13:07** | Carla Abbott (CS.Logan) invites Cory to meet Hughes 27 Aug 2pm — "an opportunity to check in with you to discuss your overall wellbeing including workload, attendance, and any concerns you may have." Addressed to Cory, **Chloe Taylor AND Scott Hughes**. "**Chloe Taylor will also be present.**" Support person or union rep invited. |
+| **27 Aug 2025 07:13** | Cory → CS.Logan: "**Prior to the meeting is Scott available for 5-10 minutes this morning I have printed off some documents for review.**" |
+| **27 Aug 2025 09:15** | Carla Abbott: "**Scott is unwell today and not in the office** … we will need to reschedule your meeting today." |
+| **27 Aug 2025 10:41** | Rescheduled to Wed 3 Sept, 2:00–2:30pm. |
+
+⇒ **Two hours and two minutes** between the offer of documents and the cancellation. Cory's 4 Oct
+complaint said "immediately following this offer, the meeting was cancelled by his office". **That
+is exactly what the record shows.** Twelve days later Hughes wrote that meetings "have not taken
+place due to you not being in the workplace".
+
+### 2B. THE HUGHES → TAYLOR ROUTING, ON THE FACE OF THE LETTER
+
+The specific instance Cory describes (writing to Hughes, receiving Taylor's reply) is **not in
+these eight documents** — [ ] locate it separately if it exists. But the structural pattern is in
+Hughes's own 8 Sep 2025 letter:
+> "If you have any questions in relation to the matters in this letter, please do not hesitate to
+> get in contact with **Ms Chloe Taylor**, Manager, Logan and Beaudesert Health Service … via email
+> at LBH_HR@health.qld.gov.au."
+> "**Ms Taylor will organise a meeting** with you to discuss options to assist you…"
+
+⇒ Hughes signs five pages about Cory's conduct, routes Cory's questions to Taylor, and has Taylor
+run the process. Combined with the 26 Aug invitation issued to all three jointly, the working
+relationship is documented.
+
+⭐ **AND IT IS THE SAME STRUCTURE IN 2026:** Taylor requires the ECC (2 Jul) → Hughes signs the RFMI
+(31 Jul) with enquiries directed to Michelle Harrison. Director signs; subordinate executes and
+fields.
+
 ---
 
 ## 3. FINDING TWO — THE "PERPETRATOR" CHARACTERISATION, AND WHAT THE COURT RECORD SHOWS
@@ -66,7 +100,25 @@ That is still the point Cory made in his 4 Oct complaint, and it is documented.
 - Cory was separately the **AGGRIEVED**, with Alexia Negro as respondent (Att A, DV Aggrieved
   Confidential Address Form).
 
+**WHAT CORY ACTUALLY TOLD HUGHES ON 12 MARCH 2025 (full text now extracted):**
+> "Due to legal directions, I've been unable to return home since last week, and my court case has
+> been adjourned with a new date to be advised. **I am currently contesting the new directions and
+> other accusations.** … I am extremely stressed and unable to sleep due this situation. … For
+> further context, **I've attached a previous document outlining the situation.** Please know that
+> this information is shared with you in strict confidence."
+
+⚠️ **CALIBRATION.** Hughes was told accusations existed and were being contested — so his reference
+to Cory being a respondent was not invented. A matter was still on foot ("adjourned with a new date
+to be advised"), notwithstanding the 25 Feb withdrawal of the police application. **What remains
+objectionable is reaching for "deemed as the perpetrator" instead of asking**, when Cory had also
+disclosed that he could not return home, was in acute distress, and had sent a confidential document
+"outlining the situation".
+
 ⚠️ **THE CRUCIAL UNRESOLVED QUESTION — ASK CORY:**
+**Which document was attached to the 12 March 2025 email?** If it was the DV Aggrieved Confidential
+Address Form (Att A, naming Cory as the AGGRIEVED), Hughes held proof Cory was the aggrieved party
+when he wrote the "perpetrator" line on 28 March.
+Separately:
 **Did the "confidential attachment" sent to Hughes at 05:43 on 12 March 2025 include the court
 outcome of 25 February 2025?**
 - **If yes** — Hughes had the withdrawal in hand and characterised him as a possible perpetrator
@@ -146,10 +198,8 @@ employer's response to a disclosed crisis was to count its consequences as perfo
   That corroborates that he was located outside Switchboard in April 2025. It does **not** document
   who decided it, why, or that Hughes and Taylor acted together to bring it about.
   [ ] If that decision exists in writing, it has not been supplied. Look for it.
-- **"Immediately following this offer, the meeting was cancelled."** The complaint asserts Cory
-  offered documentation on 27 Aug and the meeting was then cancelled. The Att E chain supplied
-  begins with the 09:15 cancellation. **Cory's offer email is not in what was provided.**
-  [ ] Locate it, or drop the "immediately following" framing.
+- ~~"Immediately following this offer, the meeting was cancelled."~~ **RESOLVED — SEE §2A. The
+  offer email IS in Attachment E and the complaint is corroborated exactly.**
 
 ---
 
