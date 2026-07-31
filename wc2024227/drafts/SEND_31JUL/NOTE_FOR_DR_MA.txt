@@ -55,8 +55,8 @@ your scope, the correct and complete answer is to say so and to indicate what sp
 would be required — please do not answer beyond your scope to be helpful.
 
 I already have a treating psychiatrist and have told the Health Service I will obtain his opinion
-on the questions that need one — Question 7, the clinical context for Question 1(a), and Question
-1(c) as it applies to his own assessment. That is at their cost. No referral from you is needed
+on the questions that need one — Question 7, the clinical context for Question 1(a), Question 1(c)
+as it applies to his own assessment, and Question 1(d). That is at their cost. No referral from you is needed
 for that, but if you consider one appropriate I would be grateful.
 
 WHAT I AM ASKING OF YOU
@@ -64,7 +64,9 @@ WHAT I AM ASKING OF YOU
 Five questions:
   Q1(c)  whether your view rests on my report or on your own clinical assessment, and what
          reports you hold and have relied on (your own file only);
-  Q1(d)  foreseeable risk on return, and the controls you consider medically necessary;
+  Q1(d)  foreseeable risk on return, and the controls you consider medically necessary. I am
+         also putting this to my psychiatrist, since the risk is a psychiatric one — your view
+         is still wanted, and the two are complementary rather than duplicative;
   Q4     the restrictions or adjustments you recommend, in functional terms, with anticipated
          duration and a review date;
   Q5     what "complaint handling" means as a clinical restriction; and

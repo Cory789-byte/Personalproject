@@ -16,7 +16,8 @@ IN SUMMARY
      Safety Act 2011 place with the Health Service. I ask that it answer those itself, after
      which the properly medical part of each can be put to my practitioners.
   3. Of the remainder, Questions 1(c), 1(d), 4, 5 and 8 are for my general practitioner, and
-     Questions 1(a), 1(c) and 7 require my treating psychiatrist. I will obtain all of them.
+     Questions 1(a), 1(c), 1(d) and 7 require or are better answered by my treating
+     psychiatrist. I will obtain all of them.
   4. Question 1(a) I answer openly in this document. Question 1(b) alone I ask be withdrawn: it
      asks a general practitioner for a psychiatric causal formulation, and it goes to a matter
      in issue in WC/2024/227.
@@ -152,7 +153,8 @@ PART 3 — QUESTIONS FOR MY PRACTITIONERS
 
 Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk to my health
        or safety on return, and what specific workplace controls or adjustments are medically
-       necessary to manage that risk.
+       necessary to manage that risk. Dr Ma will address this. Because the risk in question is
+       a psychiatric one, I will also put it to my treating psychiatrist — see Part 3.2.
 
 Q4     The restrictions or adjustments recommended, the clinical basis in functional terms, and
        the anticipated duration and review date.
@@ -193,6 +195,15 @@ Q1(a)  "When was Mr Shepherd first diagnosed with MDD?"
 Q1(c)  As above. My treating psychiatrist can likewise say whether his view rests on my report
        or on his own clinical assessment, and confirm what reports he holds and has relied on. I
        consent to that being asked of him on the same basis.
+
+Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk to my health or
+       safety on return, and what controls or adjustments are medically necessary to manage that
+       risk.
+       Dr Ma will answer this, and I do not ask that it be taken from him. But the risk in
+       question is a psychiatric risk, and my treating psychiatrist is better placed to assess
+       it and to specify the controls it requires. I will put the question to him as well, so
+       that the Health Service has a specialist view of the adjustments it is being asked to
+       make.
 
 Q7     What "working memory is affected under stress" means in functional terms, including how
        it may affect capacity under normal workplace demands and the circumstances likely to

@@ -50,7 +50,7 @@ ALLOC = [
  ("1(a)", "Date of first diagnosis", "Answered openly; clinical context from the psychiatrist"),
  ("1(b)", "Clinical basis for the causal link", "Withdrawal requested — a psychiatrist question, and in issue in the appeal"),
  ("1(c)", "Self-report v clinical assessment; other reports held", "Consented to — Dr Ma and the psychiatrist, each as to what he holds and relied on"),
- ("1(d)", "Foreseeable risk; controls medically necessary", "Dr Ma (GP)"),
+ ("1(d)", "Foreseeable risk; controls medically necessary", "Dr Ma and the psychiatrist — a psychiatric risk assessment"),
  ("2",    "Following directions; performance and conduct discussions", "Health Service — threshold question"),
  ("3",    "Fitness under the existing reporting arrangements", "Health Service — risk assessment, then treating psychiatrist"),
  ("4",    "Restrictions, adjustments, duration and review date", "Dr Ma (GP)"),
