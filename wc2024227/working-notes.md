@@ -2287,3 +2287,58 @@ A Director-signed request asks the appellant's treating GP for (a) the date of f
 contested issues in WC/2024/227 — answers due **7 August**, the day of the mention, routed outside the
 appeal's disclosure processes and cc'd to an external vendor. Whatever the intention, that is the shape
 on the face of the document.
+
+## 31 JUL 2026 — WHO SCOTT HUGHES IS, AND WHY THE SIGNATURE MATTERS
+
+Per Cory: Hughes is the **new** Director, Corporate Services — **hired while Cory was on leave**, at the
+time **Corporate Services took over Switchboard**. Aligned with Chloe Taylor. Asserted to have been
+substantially detrimental to Cory and to have been **deceptive in writing**.
+[ ] LOCATE AND DATE the document(s) evidencing the written deception — statement + contradicting fact
+    side by side. Assertion vs exhibit is the whole difference. Until then this line is UNVERIFIED here.
+
+### 1. THE ESCALATION WAS HORIZONTAL, NOT VERTICAL
+Every decision-maker since 2 July sits inside the affected chain:
+- 2 Jul — **Chloe Taylor**, Manager Switchboard Services, Corporate Services
+- 7 Jul — **Forrest**
+- 15 / 29 / 30 Jul — **Michelle Harrison**, Injury Management, LBHS HR
+- 31 Jul — **Scott Hughes, Director, Corporate Services** (Taylor's own Director)
+"Progressing for delegate approval" reads as the file going UP AND OUT. It went SIDEWAYS — from the
+line manager to the top of her own reporting line. **At no point has any person outside the affected
+chain of command made a decision about him.** The two functions that could have supplied independence
+are both implicated: Corporate Services is the directorate; HR received the PID and referred it to
+itself.
+
+### 2. Q3 IS SELF-REFERENTIAL
+Q3 asks the GP whether Cory is fit "to return to their substantive role under the existing reporting
+arrangements, including working with and reporting to their current line manager." **That reporting
+line terminates in Hughes.** He is decision-maker on a question about his own directorate's
+arrangements and his own subordinate's conduct. Neither letter discloses any conflict; both are drafted
+to read as neutral HR machinery.
+→ QPS **Code of Conduct cl 1.2**: a conflict is "not wrongdoing in itself" but "failing to disclose and
+manage" one is "likely to be wrongdoing." Nothing disclosed on the face of either letter.
+
+### 3. THE "NOT AWARE OF ANY CONCERNS" SENTENCE — BOTH READINGS HURT HIM
+"As the Health Service is not aware of any concerns being raised for appropriate management."
+- **If he genuinely didn't know** (arrived during the restructure, briefed by the people in dispute):
+  a Director signed a factual assertion to a treating doctor that he could not personally verify, in a
+  matter where his own **Chief Executive signed the 5 June 2026 Form 29 objection**. Not innocence —
+  signing without reading the file.
+- **If he did know**: the sentence is not a mistake.
+⚠️ STRUCTURAL ROLE OF THE SENTENCE: it is the **premise of Q2** (can he follow lawful directions /
+participate in discussions about performance and conduct). The false premise is what makes the
+disciplinary framing appear reasonable to a reader with no background.
+
+### 4. CONSTRUCTED KNOWLEDGE — WHY THE INVERSION MAY BE SINCERE
+Hughes has NO independent knowledge of Cory. Everything he believes was assembled after the fact by the
+people already in dispute with him. MSH's own 5 June objection documents the restructure: "an
+organisational change related to the reporting lines for Switchboard" after 30 June 2024.
+→ The psychosocial inversion may not be a tactic he adopted but the only version he was ever given.
+That does not make it lawful; it makes it harder to dislodge, and it makes **the briefing he received**
+the material fact. (Relevant to any future disclosure request: what was Hughes told, by whom, when.)
+
+### 5. WHAT THE SIGNATURE CONVERTS THIS INTO
+Before 31 July: a diffuse institution — six shifting positions, no identified decision-maker, no name
+attached to the power asserted. A **Director's signature on a letter to the treating doctor ends that.**
+- IR Act general protections: a person **involved in** a contravention can be **personally liable**.
+- PID Act ss 40-42: reprisal is a **tort**; it attaches to individuals; exemplary damages available.
+An institution absorbs a finding. A named Director with a paper trail does not.
