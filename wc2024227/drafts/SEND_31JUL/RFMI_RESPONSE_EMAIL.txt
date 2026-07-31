@@ -18,9 +18,9 @@ proposal for my return to work. In summary:
     them: Questions 1(d), 4, 5 and 8.
 
   - Three questions require my treating psychiatrist rather than my general practitioner:
-    Questions 7, 1(a) and the answerable limbs of 1(c). I am willing to obtain that opinion.
-    Please confirm which questions the Health Service presses and I will arrange it, with the
-    invoice directed to you on the basis of your confirmation that reasonable costs will be met.
+    Questions 7, 1(a) and 1(c). I am willing to obtain that opinion. Please confirm which
+    questions the Health Service presses and I will arrange it, with the invoice directed to
+    you on the basis of your confirmation that reasonable costs will be met.
 
   - Four questions are not medical questions. Questions 2, 3, 6 and 9 ask my doctor to
     answer matters which G03 and the Work Health and Safety Act 2011 place with the Health
@@ -35,10 +35,15 @@ proposal for my return to work. In summary:
     and note that the question as framed asks my general practitioner to certify that no other
     diagnosis exists, which is beyond his scope.
 
-  - I ask that Question 1(b), and the third limb of Question 1(c), be withdrawn. G03 clause 3
-    permits supporting medical information "where necessary, to either identify required
-    workplace adjustments and/or assess the suitability of proposed adjustments." Neither does
-    so, and Question 1(b) goes to a matter in issue in WC/2024/227.
+  - I consent to Question 1(c). Each practitioner can say whether his view rests on my report
+    or on his own clinical assessment, and can confirm what reports he holds and has relied on.
+    I ask only that it be understood as directed to what each holds, not to material held by
+    others, which neither is in a position to answer.
+
+  - Question 1(b) alone I ask be withdrawn. G03 clause 3 permits supporting medical information
+    "where necessary, to either identify required workplace adjustments and/or assess the
+    suitability of proposed adjustments." The clinical reasoning as to causation does neither,
+    and it goes to a matter in issue in WC/2024/227.
 
 I adopt option 1 and will obtain the information myself. I do not provide an authority under
 option 2.

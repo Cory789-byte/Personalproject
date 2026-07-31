@@ -16,9 +16,10 @@ IN SUMMARY
      which the Health Service's own policy and the Work Health and Safety Act 2011 place with
      the Health Service.
   3. Question 1(a) I answer openly, and ask that the clinical context be obtained from my
-     psychiatrist rather than my general practitioner. Question 1(b) and the third limb of
-     Question 1(c) do not meet the limit G03 clause 3 places on this inquiry, and I ask that
-     they be withdrawn.
+     psychiatrist rather than my general practitioner. Question 1(c) I consent to, and each
+     practitioner can confirm what he holds and has relied on. Question 1(b) alone I ask be
+     withdrawn: it does not meet the limit G03 clause 3 places on this inquiry, and it goes to
+     a matter in issue in WC/2024/227.
   4. I ask to be returned to my roster now. The Health Service has confirmed in its own letter
      that the restriction in issue concerns a duty which is not part of my role.
   5. I ask for an extension of the seven days, and explain at Part 8 why that period cannot be
@@ -162,9 +163,15 @@ Q5     What specific activities are encompassed within "complaint handling" — 
 
 Q8     Specific tasks, situations or environments which may exacerbate my condition.
 
-Q1(c)  (first two limbs only) Whether his view of the identified stressors rests on my report or
-       on his own clinical assessment. Dr Ma can answer for his own assessment. The third limb —
-       "other medical information/reports available to you" — is dealt with at Part 5.1.
+Q1(c)  Whether the identified stressors are based "solely on Mr Shepherd's self-report, your own
+       clinical assessment, or other medical information/reports available to you."
+       I do not object to this question and I consent to it being answered. Dr Ma can say
+       whether his view rests on my report or on his own clinical assessment, and he can confirm
+       what medical reports he holds and has relied on. I am content for him to verify and
+       confirm that.
+       I ask only that the question be understood as directed to what Dr Ma holds and has relied
+       upon — not as an inquiry into material held by others, which he is not in a position to
+       answer.
 
 Each is necessary to identify a required adjustment or to assess the suitability of a proposed
 one. Each is within a general practitioner's scope.
@@ -183,8 +190,9 @@ Q1(a)  "When was Mr Shepherd first diagnosed with MDD?"
        diagnostic history — in substance, to certify that no other diagnosis exists. That is
        beyond a general practitioner's scope and I ask that it not be put to him in that form.
 
-Q1(c)  (first two limbs only) Whether the psychiatrist's view of the identified stressors rests
-       on my report or on his own clinical assessment. He can answer for his own assessment.
+Q1(c)  As above. My treating psychiatrist can likewise say whether his view rests on my report
+       or on his own clinical assessment, and confirm what reports he holds and has relied on. I
+       consent to that being asked of him on the same basis.
 
 Q7     What "working memory is affected under stress" means in functional terms, including how
        it may affect capacity under normal workplace demands and the circumstances likely to
@@ -340,17 +348,6 @@ Q1(b)  "What is the clinical basis for identifying these specific workplace stre
        both of which are obtained by Questions 1(d) and 8. The clinical reasoning as to
        causation goes to a matter in issue in WC/2024/227 and is not necessary for the stated
        purpose of this inquiry.
-
-Q1(c)  Whether the stressors are based "solely on Mr Shepherd's self-report, your own clinical
-       assessment, or other medical information/reports available to you."
-       As to the first two limbs — whether a practitioner's view rests on my report or on their
-       own clinical assessment — both Dr Ma and my treating psychiatrist can answer for their
-       own assessments, and I do not object to that being asked of each of them. Those limbs
-       are dealt with at Parts 3.1 and 3.2.
-       I do object to the third limb. "Other medical information/reports available to you"
-       invites my practitioners to identify other reports concerning me held by third parties.
-       That neither identifies a required adjustment nor assesses the suitability of a proposed
-       one, and I do not consent to that inquiry. I ask that the limb be withdrawn.
 
 I record that section 124(1) of the Anti-Discrimination Act 1991 provides that a person "must
 not ask another person, either orally or in writing, to supply information on which unlawful
