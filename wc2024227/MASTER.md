@@ -70,6 +70,27 @@ description at Part 5.2.
 
 ## 3. THE JULY 2026 FINDINGS
 
+### 3.0 ⭐⭐ THE ECC CHANGED FUNCTION — the case in one line
+Full analysis: `skill/references/FORENSIC-the-request-and-its-authority.md`.
+
+| Date | The same document |
+|---|---|
+| **5 May 2026 14:38** | Taylor: ECC requested "to… **provide the most appropriate support in the workplace**… discuss the next steps to ensure you are **supported and working safely**". **No condition, no consequence, no statute.** |
+| **13 May** | He is on the **PP26 roster** |
+| **19 May 10:21** | Taylor follows up — *"just following up on… ECC progress"*. **Still no consequence.** |
+| ⭐⭐ **21 May 16:00** | **Cory: appointment booked for 5 June — and in the same email he is arranging a swap for a shift he is *rostered on tomorrow*.** **He is working, with the ECC outstanding, and nobody says he cannot be.** |
+| **26 Jun 10:42** | Taylor: "**Until we receive** appropriate medical clearance, including a completed ECC, **we are unable to facilitate your return to work**", citing **WHS s 19** |
+| **3 Jul 14:32** | ECC delivered — certifies **fit with restrictions** |
+| **3 Jul 14:49** | Taylor, **15 min later**: *"I will continue to process as **Sick leave / Sick leave no pay**"* |
+| **3 Jul 15:18** | Cory: *"It certifies me **fit to resume from 3 July**… **confirm I'm right to attend**"* — ⭐ **never answered** |
+| **17 Jul** | *"**income protection no pay** from the 13th July"* |
+
+⇒ **A support measure for a person at work became a bar to working.** The 21 May email is the proof:
+**MSH's own conduct establishes the ECC was not a precondition to attendance.**
+⚠️ **The 19 May – 26 Jun conversion window contains the 24 May "Conflict of interest — Update", the
+31 May "EMR Approval", MSH's 5 June objection and the 23 June filing. RECORD IT; DO NOT PLEAD IT AS
+CAUSATION** — the 24 May and 31 May items are unread.
+
 ### 3.1 The purpose inversion — MSH's own words
 > "your recently completed Employee Capabilities Checklist … **which was provided to us to
 > facilitate a Return to Work Plan**." — Hughes, 31 July 2026
@@ -459,6 +480,7 @@ use `pdftoppm`.
 
 | File | Contents |
 |---|---|
+| ⭐⭐ **`skill/references/FORENSIC-the-request-and-its-authority.md`** | **THE CONSOLIDATED FORENSIC — the ECC's change of function 5 May → 26 Jun, the authority tested act by act, the 31 July timings, and what must be conceded** |
 | ⭐ **`corpus/FULL_CORPUS.md`** | **THE WHOLE CORRESPONDENCE RECORD — 154 messages, 2020–2026, full text, chronological, every entry cited to `pack NN p.NNN`. Grep this first.** |
 | ⭐ **`corpus/MESSAGE_INDEX.tsv`** | One row per message — date · pack · page · from · to · cc · subject |
 | `corpus/README.md` | How to use the corpus + **6 cautions** (times are UTC +10 for AEST; never quote from it into a filing) |
