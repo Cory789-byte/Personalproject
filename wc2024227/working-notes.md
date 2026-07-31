@@ -2831,3 +2831,52 @@ and identifies workplace features as what require control is (a) evidence the co
 ongoing, (b) evidence he is fit and willing to return — which supports the ongoing-detriment framing
 and forecloses any suggestion he is not trying — and (c) funded by MSH. Reaching the Regulator is
 not necessarily bad; it is bad only if it is unscoped.
+
+## 31 JUL 2026 — REVISED: ONE REPORT + A LATER SUPPLEMENTARY, NOT TWO FULL REPORTS
+
+Cory's push-back, and he is substantially right. Earlier two-report advice was over-engineered.
+
+**CONCEDED — THE HISTORY GOES IN REGARDLESS.** A psychiatric report cannot answer MSH's questions
+without setting out the condition's course and the workplace features that drive it: Q1(d)
+(foreseeable risk on return), Q4 (restrictions + clinical basis), Q8 (what exacerbates). MSH's own
+questions require the history. Pretending the report could be "silent on aetiology" was unrealistic.
+
+**WORDING FIXED (Part 3.2).** Was: "It will not address the aetiology of my condition."
+Now: "It will be directed to my current capacity, functional restrictions and the adjustments
+recommended — that is, to the stated purpose of this inquiry. **It is not a medico-legal opinion on
+the cause of my injury**, which is a matter in issue in WC/2024/227 and is not necessary for that
+purpose."
+⇒ States what the report IS rather than promising what it will not contain. Accurate even when the
+report contains history; does not box him in.
+
+**COROLLARY — BRIEF THE PSYCHIATRIST FULLY.** If the history is going in anyway, a half-informed
+report is worse than a fully-informed one. Give him the chronology, the events, the workplace
+material. Inaccuracy is what gets exploited, not detail.
+
+### ⭐ THE REFRAME THAT MATTERS: THE APPEAL IS NOT WON ON THE MEDICAL EVIDENCE
+Review Decision 69983 (24 Oct 2024) rejected the claim on the **s 32(5) EXCLUSION**, not on s 32(1):
+    "the first and third factors were unable to be substantiated, while the second and fourth factor
+    amounted to reasonable management action taken in a reasonable way. This meant **to the extent
+    that your injury arose out of your employment where employment was a significant contributing
+    factor**, it arose out of reasonable management action taken in a reasonable way. Consequently,
+    the exclusionary provisions in section 32(5) of the Act were enlivened."
+⇒ WorkCover effectively ASSUMED s 32(1) and rejected on **s 32(5)(a)**.
+⇒ **s 32(5)(a) is not a medical question.** Whether management action was reasonable and taken
+reasonably is answered by what management ACTUALLY DID — rosters, emails, complaint records,
+delegate correspondence. **That is what the 64G production is for.** This is the strongest
+justification yet for the 64G being the centre of gravity of the appeal.
+
+**QUALIFICATION — s 32(1) IS LIVE AGAIN ON APPEAL.** De novo, so the Regulator is not bound by
+WorkCover's concession, and its SOFC contests causation (pre-existing anxiety / self-report
+displacement). So medical causation evidence IS still needed — but for the SOFC's contentions, not
+for the ground of rejection.
+
+### PRACTICAL POSITION ADOPTED
+**One properly briefed report now**, and **a short supplementary later** addressing the statutory
+questions MSH never asked: significant contributing factor; the specific operative stressors; and
+the response to the pre-existing-condition contention — structured as expert evidence for the
+Commission. One attendance. Decision on the supplementary deferred until the first report is read.
+
+**RESIDUAL RISK (accepted by Cory, stated once):** a report in MSH's hands cannot be withdrawn if
+part of it is unhelpful. He has weighed it and formed the view the content will favour him; on what
+the ECC already records, that is a reasonable bet.
