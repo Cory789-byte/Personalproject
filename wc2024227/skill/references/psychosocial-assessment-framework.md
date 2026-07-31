@@ -203,3 +203,98 @@ hazard. Removing the worker is not a control measure known to the regulation.**
   date, an "unknown", or a silence — all three help.
 - ❌ **Do not put a penalty provision in the letter.** Citing "200 penalty units" at HR reads as a
   threat and forfeits the register. **Know it; don't write it.**
+
+---
+
+# PART 5 — THE HAZARDS IN THIS CASE, MAPPED TO THE CODE'S NAMED CATEGORIES
+
+> **Every description below is quoted verbatim from the Code of Practice 2022 hazard table
+> (ATT05, pp 14–16).** The fit is not analogy — it is the category description.
+
+## 5.1 "Changes to the workplace without consultation or input"
+> **POOR ORGANISATIONAL CHANGE MANAGEMENT** — *"Organisational change management that is poorly
+> planned, communicated, supported, or managed. **Examples: not consulting workers on changes in the
+> workplace that affect them** (e.g. not communicating with workers about the change or **genuinely
+> considering their views**), lack of practical support for workers during implementation."*
+> **LOW JOB CONTROL** — *"…**little or no involvement or input into decisions that affect workers**…"*
+
+⭐ **A verbatim fit, and it is documented.** Taylor, **15 Apr 2024**, to all Switchboard staff:
+*"Ellen and myself have added Afterhours on call… **This new process is effective from today.**"*
+Cory to WorkCover, 29 Aug 2024: *"On April 15, 2024 **with no consultation** after hours on call
+delegation was removed from switchboard… **without consulting those who were taking the call**."*
+⚠️ **And MSH knows how to do it properly** — the 2022 8hr/10hr roster went out repeatedly *"for
+Consultation"* across four months (pack 01). **The contrast is their own.**
+
+## 5.2 "Responsible for patient safety"
+> **HIGH JOB DEMANDS** — *"Sustained or intense high levels of physical, mental or **emotional job
+> demands**… Examples: time pressure, role overload, unachievable deadlines, **high vigilance**,
+> challenging work hours or **shift work**…"*
+> **LOW JOB CONTROL** — *"Workers having **little or no control over what happens in their work
+> environment**, how or when their work is done or the objectives they work towards."*
+> **LOW ROLE CLARITY** — *"…where there are **conflicting job roles, responsibilities, or
+> expectations**."*
+
+⭐⭐ **High demand with low control is the classic psychosocial combination, and both are named
+hazards.** The AO3 Role Description makes it *"a continuous shift working role… a roster which covers
+multiple shifts over a **24/7** period"* — **high vigilance and shift work, from their own document.**
+⇒ He carries responsibility for emergency call routing **without authority over the systems or the
+process**. That is the definition of low control paired with high demand.
+**Documented:** his email to WorkCover of **30 Aug 2024** — *"**Failure to consult putting patients at
+risk**"*.
+
+## 5.3 "Support in the workplace"
+> **POOR SUPPORT** — *"Tasks or jobs where workers have **inadequate emotional and/or practical
+> support from supervisors** and/or co-workers; **inadequate training or information** to support
+> their work performance; or inadequate tools, equipment or resources… Examples: poorly maintained or
+> inadequate access to equipment/tools or **supervisory support**, ⭐ **lack of functional or adequate
+> IT systems**…"*
+
+⭐⭐ **"Lack of functional or adequate IT systems" is a NAMED EXAMPLE in the Code.** It is not a
+metaphor:
+- **3 Mar 2025** — *"Cory SHEPHERD **is not currently assigned to a position in Access Manager**"*
+- **4 Dec 2024** — mailbox **disabled and wiped**; viewable only from March 2025
+- **8 Aug 2025** — restoration **"Rejected — approvals have expired"**
+- **6 Aug 2025** — a meeting invitation sent to an account he could not access, forwarded 8 days late
+
+**And supervisory support:** *"Noted thanks"* to a DV disclosure; **no union delegate since 2021**;
+the complaint about the Director **never answered**.
+
+## 5.4 "Persons not following procedures and lawful actions"
+> **POOR ORGANISATIONAL JUSTICE** — *"A lack of **procedural fairness** (fair processes to reach
+> decisions), **informational fairness** (keeping relevant people informed), or **interpersonal
+> fairness** (treating people with dignity and respect). **Example: inconsistent, unfair,
+> discriminatory or inequitable decisions and application of policies or procedures.**"*
+> **POOR WORKPLACE RELATIONSHIPS INCLUDING INTERPERSONAL CONFLICT** — *"Examples: **Unresolved** and
+> excessive conflict regarding work tasks, processes… interpersonal issues."*
+
+⭐⭐⭐ ***"Inconsistent… application of policies or procedures"* is the entire case in five words.**
+G03 cited and its test inverted · DFVL refused and recreational leave substituted · the ECC's
+function reversed between May and June · **six shifting bases in five weeks** · a policy misnumbered
+in the letter that relies on it.
+⇒ And the ECC's stressor (4) — *"**unresolved** workplace matters involving line management"* — uses
+**the Code's own word** for the relationships hazard.
+
+---
+
+## 5.5 ⭐⭐⭐ AND HERE IS WHAT THE MAPPING PROVES
+
+**Read the Code's hazard list end to end. There is no category called "the worker".**
+
+Every named psychosocial hazard is a feature of **work design**, **work systems**, **management**, or
+**workplace relationships**:
+
+> high/low job demands · low job control · poor support · low role clarity · **poor organisational
+> change management** · low reward and recognition · **poor organisational justice** · **poor
+> workplace relationships** · remote or isolated work · poor environmental conditions · traumatic
+> events · violence and aggression · bullying · harassment
+
+⇒ **Every hazard Cory has identified falls within a named organisational category. Not one of them
+is about him.**
+⇒ **So a control directed at the worker cannot be a response to any of them** — which is the
+inversion at `THE-INVERSION-worker-as-hazard.md`, proved a second way and from a second instrument.
+
+⚠️ **How to say it:** *"The matters I have raised fall within the hazard categories described in the
+Code of Practice — organisational change management, job control, support, and organisational
+justice. Each is a feature of the work. I would ask that they be assessed as such."*
+**Neutral. Sourced. And it never once says that anyone did anything to him.**
+
