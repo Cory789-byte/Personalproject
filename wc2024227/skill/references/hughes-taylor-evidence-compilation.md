@@ -287,6 +287,50 @@ them.
 
 ---
 
+## SECTION G3 — EVIDENCE CLASSES NOT YET IN THE FILE
+
+Cory advises he holds **text messages and other communications from Hughes**, and that there are
+**multiple witnesses**. Neither is in the compilation. Both change the grading of Section E.
+
+### G3.1 — TEXT MESSAGES FROM HUGHES  →  converts **[A]** to **[D]**
+
+The recurring finding in this compilation is that the April 2025 placement has **no paper trail**.
+If Hughes communicated about it by text, a trail exists — an unofficial one. Informal channels
+routinely carry what the formal file omits, which is what makes them valuable here.
+
+**Bears on:** E1 (who decided the placement); E1a (the Security admin role); E6 (the Hughes→Taylor
+routing); anything said informally about his position, his return, or the counting.
+
+**Forensic requirements for the material to hold:**
+- **Full thread**, not extracts — a fragment invites the answer that context was omitted
+- **Sender number visible and verifiable** against Hughes's signature block: **0499973195**
+- **Timestamps intact** — the intervals in Section G are what carry the weight
+- **Preserved on the device**; exported rather than screenshotted where possible
+- Do not delete anything from the device pending resolution
+
+### G3.2 — WITNESSES  →  a different class, **[W]**, with different properties
+
+| Property | Effect on value |
+|---|---|
+| **Direct observation** (saw him working in the security office; was told by Taylor or Hughes what was happening) | High |
+| **Hearsay** (heard from others that he had been moved or replaced) | Low — establishes workplace perception, not the fact |
+| **Contemporaneity** (can date what was observed) | High; recollection of 2025 given in 2026 is weaker |
+| **Current employment at Logan Switchboard** | ⚠️ Real exposure. A statement adverse to the Director of their own directorate carries risk for the maker |
+
+**Bears on:** E1, E1a, E7 (the position absorbed by another), and the workplace perception that he had
+been dismissed.
+
+⚠️ **SEQUENCING NOTE, NOT A DIRECTION.** Approaching colleagues directly while excluded is capable of
+being characterised as inappropriate contact, and exposes the members approached. An industrial
+officer can approach members in a way an excluded employee cannot. That is a property of the
+evidence class, not advice about what to do with it.
+
+### G3.3 — WHAT REMAINS DOCUMENT-ONLY
+Rosters, AVAC and payroll for 3–31 Jul 2026 (whether the shifts are being worked) and any MyHR
+movement record for Apr 2025 are obtainable only from MSH. No witness substitutes for them.
+
+---
+
 ## SECTION H — THE THREE FINDINGS THAT REST ENTIRELY ON MSH'S OWN DOCUMENTS
 
 1. **A Director held a court form naming the employee as the aggrieved, and sixteen days later wrote
