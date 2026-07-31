@@ -52,9 +52,21 @@ require specialist input, which cannot be arranged within seven days.
 Third, as set out in Schedule A, the scope of the questions is itself in issue. I am not able
 to instruct my practitioner until it is settled.
 
-I propose that time run for 21 days from the date the Health Service confirms the final
-question set. I will provide the information within the scoped questions promptly, and I do
-not seek delay for its own sake — the exclusion is costing me my income.
+I propose the response be provided in two parts:
+
+  (a) the questions within Dr Ma's scope — 21 days from the date the Health Service confirms
+      the final question set; and
+  (b) any question requiring specialist input — on a timeframe set once the Health Service
+      confirms which questions it presses and that it will meet the cost. A psychiatric
+      review cannot be arranged within seven days, and in the ordinary course will take
+      considerably longer.
+
+I do not seek delay for its own sake; the exclusion is costing me my income. But I ask the
+Health Service to note the consequence of its own question set. Several of the questions can
+only be answered by a specialist. If the Health Service presses them, it necessarily extends
+the inquiry — and it cannot be reasonable to maintain an unpaid exclusion for a period created
+by the Health Service's own requirements. That is a further reason why my return to duty, or
+at minimum my return to pay, should not await the completion of this process.
 
 3. DELEGATION AND DECISION-MAKER
 
@@ -180,14 +192,32 @@ CATEGORY 2 — OUTSIDE THE SCOPE OF A GENERAL PRACTITIONER
 Q7     What "working memory is affected under stress" means in functional terms, including
        how it affects capacity to perform duties under normal workplace demands.
        → Dr Ma can address this in general terms only. A functional cognitive opinion is
-         properly the province of a treating psychologist or psychiatrist. If the Health
-         Service requires a functional opinion, please confirm that, and that the cost will be
-         met, and I will arrange it. It cannot be arranged within seven days.
+         properly the province of a treating psychiatrist.
 
 Q1(b)  The clinical basis for identifying the specific workplace stressors as contributing to
        the exacerbation of the condition.
        → To the extent this seeks a general practitioner's opinion on the aetiology of a
          psychological injury, it exceeds his scope. It is also addressed at Category 3.
+
+SPECIALIST INPUT — WHAT I PROPOSE
+
+I am willing to obtain a treating psychiatrist's opinion, and I ask the Health Service to
+confirm the following so that it can be arranged:
+
+  (a) that it presses Question 7, and any part of Questions 1(d), 4 or 8 on which it requires
+      a specialist rather than a general practitioner's opinion;
+  (b) that it will meet the cost of that opinion, consistent with its confirmation that it
+      will meet my reasonable costs; and
+  (c) that it accepts the timeframe consequences at paragraph 2 of my letter.
+
+I note that under option 1, which I have adopted, the information is obtained by me from my
+practitioners and provided to the Health Service. I will settle the scope with the specialist
+by reference to the question set the Health Service confirms, and will provide the opinion on
+receipt.
+
+The specialist opinion will address current capacity, functional restrictions and
+recommended adjustments. It will not address the aetiology of my condition, which is a matter
+in issue in WC/2024/227 and is not relevant to the stated purpose of this inquiry.
 
 --------------------------------------------------------------------------------
 CATEGORY 3 — QUESTIONS I ASK BE WITHDRAWN OR REFRAMED
