@@ -2593,3 +2593,51 @@ being raised."
 
 ⚠️ DISCIPLINE: nowhere asserted that Hughes approved the 2 July direction — that is unknown, and is
 put as a question. The reporting relationship is stated as fact because it is one.
+
+## 31 JUL 2026 — ⚠️ THE DIAGNOSIS DATE COLLIDES WITH THE REVIEW DECISION DATE
+
+Cory advises the first MDD diagnosis was **24 October 2024** and proposed stating it openly.
+
+⛔ **CHECK PERFORMED: Review Decision 69983 is dated 24 OCTOBER 2024** — the same day.
+(documents/Review_Decision_69983_24.10.2024.pdf — "Reasons for decision, 24 October 2024",
+insurer ref S23LW142013, review application received 16 September 2024, reviewing WorkCover's
+decision of 22 October 2024 rejecting the application for compensation.)
+
+**THE RISK:** a bare date, volunteered without clinical context, hands the Regulator the argument
+that the MDD was diagnosed on the day the adverse review decision issued — i.e. a reaction to the
+claim process rather than the employment. Matheson and her counsel would see it immediately.
+**The argument IS answerable — but clinically**, by a practitioner who can explain the course of the
+condition from March 2024 and why the diagnosis was formalised when it was. It is NOT answerable by
+Cory stating a date in an HR letter.
+
+**RESOLUTION ADOPTED (Part 5.1, Q1(a)):** do not conceal, do not volunteer the bare date. The
+document now says he does not object to the Health Service being informed, objects only to the
+question AS FRAMED, and proposes a REPLACEMENT question which asks for MORE:
+    "What is the employee's current condition and prognosis, **including when the diagnosis was
+    made and the course of the condition since**, and over what period are the recommended
+    adjustments expected to be required?"
+⇒ The date arrives from the clinician WITH context. Cannot be characterised as evasive — he is
+offering more information, not less. Table entry updated to "Reframed — Dr Ma, with clinical
+context."
+
+**FOR THE APPEAL (critical):** the psychiatrist preparing the updated report MUST address the
+chronology explicitly — the course of the condition from the March 2024 events through to the
+October 2024 diagnosis. This is now a known line of attack. Brief them on it.
+
+## 31 JUL 2026 — TWO FURTHER ADDITIONS TO THE RESPONSE
+
+**PART 1.3 — INFORMATION MSH ALREADY HOLDS.** Maps what is already in their possession: the ECC
+(quoted via MSH's own 31 July letter, so safe to rely on while the ECC PDF remains image-only); the
+Role Description at Attachment 2 (no complaint-handling duty); MSH's own statement of the complaint
+escalation process; Forrest's 7 July acknowledgment that restrictions were already being
+accommodated; and ~12 months working in the substantive role under the existing reporting
+arrangements on adjusted hours to 3 July 2026 (MSH's own rosters/payroll evidence it).
+⇒ "That material already answers Question 5, and goes a considerable way toward answering Questions
+1(d), 3, 4, 6 and 8." Closing line: "I have now been excluded from the workplace for five weeks
+while information the Health Service largely already holds is sought again."
+
+**PART 3.2 — THE REFERRAL SEQUENCE.** A psychiatrist referral comes from the GP. So the order is:
+rebook and hold the Dr Ma consult → Dr Ma answers within scope and, if Q7 is pressed, provides the
+referral → psychiatrist appointment obtained → opinion follows. **None of that occurs within seven
+calendar days, and the first step cannot sensibly occur until MSH confirms which questions it
+presses.** Makes the seven-day deadline impossible on its own terms, without argument.

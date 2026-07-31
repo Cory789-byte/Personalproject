@@ -63,6 +63,39 @@ right person to answer it?
 Applying that test, the nine questions divide four ways. I am not declining to provide
 information. I am proposing that each question be directed to whoever is able to answer it.
 
+1.3  INFORMATION THE HEALTH SERVICE ALREADY HOLDS
+
+Much of what is sought is already in the Health Service's possession.
+
+The Employee Capabilities Checklist of 3 July 2026 states — as quoted in the Health Service's
+own letter of 31 July 2026 — that I have a diagnosis of Major Depressive Disorder with anxious
+distress, "with symptoms exacerbated on exposure to identified workplace stressors, including
+complaint handling, being held accountable and blamed for the failures of others, and
+unpredictable rostering"; that the injury is a "work-related psychological injury"; that
+"unresolved workplace matters involving line management" is a further stressor; that my
+"working memory is affected under stress"; and that I should not undertake complaint-handling
+duties.
+
+In addition:
+
+  (a) Attachment 2 to the letter to Dr Ma is the Health Service's own Role Description for the
+      position. It contains no complaint-handling responsibility.
+  (b) The letter of 31 July 2026 states the Health Service's own position that complaints
+      received by Switchboard employees are escalated to the Client Liaison Officer and/or the
+      Manager, Switchboard Services.
+  (c) The letter of 7 July 2026 acknowledged that my restrictions were already being
+      accommodated.
+  (d) I worked in my substantive role, under the existing reporting arrangements and on
+      adjusted hours, for approximately twelve months to 3 July 2026. The Health Service's own
+      rosters and payroll records evidence that period.
+
+That material already answers Question 5, and goes a considerable way toward answering
+Questions 1(d), 3, 4, 6 and 8. What genuinely remains outstanding is narrow, and I identify it
+at Part 3.
+
+I raise this because I have now been excluded from the workplace for five weeks while
+information the Health Service largely already holds is sought again.
+
 --------------------------------------------------------------------------------
 PART 2 — PROPOSED ALLOCATION
 --------------------------------------------------------------------------------
@@ -133,6 +166,13 @@ Consistent with option 1, I will obtain that opinion and provide it. Its scope w
 current capacity, functional restrictions and recommended adjustments. It will not address the
 aetiology of my condition, which is a matter in issue in WC/2024/227 and is not necessary for
 the stated purpose of this inquiry.
+
+The sequence this requires is worth stating, because it bears on the timeframe. A referral to a
+psychiatrist is made by my general practitioner. So the order is: the consultation with Dr Ma
+is rebooked and held; Dr Ma answers the questions within his scope and, if the Health Service
+presses Question 7, provides a referral; an appointment with the psychiatrist is then obtained;
+and the opinion follows. None of that can occur within seven calendar days, and the first step
+cannot sensibly occur until the Health Service has confirmed which questions it presses.
 
 I note that a request to my own treating practitioners rests on a different footing from an
 independent medical examination, which is governed by chapter 3 part 8 division 5 of the Public
@@ -243,10 +283,18 @@ PART 5 — QUESTIONS I ASK BE WITHDRAWN, AND A CORRECTION OF FACT
 5.1  WITHDRAWAL REQUESTED
 
 Q1(a)  "When was Mr Shepherd first diagnosed with MDD?"
-       The date of a historical diagnosis cannot identify a required adjustment, nor assess the
-       suitability of a proposed one. It does not meet the limit in G03 clause 3.
-       PROPOSED INSTEAD: "What is the employee's current condition and prognosis, and over what
-       period are the recommended adjustments expected to be required?"
+       I do not object to the Health Service being informed of when the diagnosis was made, and
+       I have no wish to appear to withhold it. My objection is to the question as framed. A
+       date standing alone cannot identify a required adjustment or assess the suitability of a
+       proposed one, and so does not meet the limit in G03 clause 3. Nor is a bare date
+       clinically informative without the circumstances in which the diagnosis was made and the
+       course of the condition since.
+       PROPOSED INSTEAD: "What is the employee's current condition and prognosis, including
+       when the diagnosis was made and the course of the condition since, and over what period
+       are the recommended adjustments expected to be required?"
+       Framed that way, the Health Service receives the information it seeks together with the
+       clinical context which makes it meaningful, from the practitioner rather than from me,
+       and the question serves the stated purpose. I am content for that question to be put.
 
 Q1(b)  "What is the clinical basis for identifying these specific workplace stressors as
        contributing to the exacerbation of Mr Shepherd's condition."
