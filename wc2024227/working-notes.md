@@ -2405,3 +2405,102 @@ Form 24, a live appeal and a CE-signed objection before the Commission. That is 
 independent decision-maker who read the file; it is precisely the error of a person whose entire
 picture came from one side.
 ⇒ Their best argument for his independence is the thing that demonstrates its absence.
+
+## 31 JUL 2026 — LEGAL ANALYSIS OF THE RFMI: WHAT THEY CAN LAWFULLY REQUIRE
+
+### SOURCE OF POWER
+They cite **HR Policy G3** and **ss 17/19 WHS Act 2011**. NEITHER IS A SOURCE OF POWER — policy binds
+them, not him; ss 17/19 impose duties on the PCBU. The only real source is the employer's right to
+give a **lawful and reasonable direction** (cf *Blackadder v Ramsey Butchering Services* (2005) 221
+CLR 539 — employer may require medical examination to satisfy itself of fitness, as an incident of
+the duty to provide a safe workplace).
+⇒ The operative constraint is **REASONABLENESS**. A direction is reasonable only to the extent the
+information is genuinely needed for the purpose. Beyond that it is not a lawful and reasonable
+direction at all, and declining it is NOT misconduct.
+
+### ⭐ THEY SUPPLIED THE YARDSTICK THEMSELVES
+GP letter states the purpose: "to identify and implement any appropriate workplace controls or
+reasonable adjustments to support a safe and sustainable return to his substantive position."
+That is now the test, in their own handwriting. They cannot later assert a wider purpose without
+contradicting their own document. Apply it question by question.
+
+### ✅ AD ACT s 124 — VERIFIED FROM ATT16 (current as at 19 May 2025)
+s 124(1): "A person must not ask another person, either orally or in writing, to supply information
+on which unlawful discrimination might be based."
+s 124(2): exceptions — necessary to comply with / specifically authorised by another Act, court
+order, award, industrial agreement, or QCAT/QIRC order.
+s 124(3): **DEFENCE — "if the respondent proves, on the balance of probabilities, that the
+information was reasonably required for a purpose that did not involve discrimination."**
+⇒ Impairment is a protected attribute; psychiatric history is information on which discrimination
+might be based. **THE ONUS IS ON MSH** to prove reasonable requirement — a reverse onus running on
+the same necessity test. Strongest hook against Q1(a).
+
+### CLASSIFICATION OF THE NINE QUESTIONS
+**LAWFULLY REQUIRED — ANSWER:**
+- Q1(d) foreseeable risk + medically necessary controls (the actual WHS/adjustment question)
+- Q4 restrictions/adjustments in functional terms, duration, review date
+- Q5 what "complaint handling" encompasses
+- Q8 tasks/situations/environments that exacerbate
+
+**LAWFUL IN SUBSTANCE, WRONG RECIPIENT:**
+- Q7 functional cognitive impact — proper question, beyond a GP; needs psychiatric input
+
+**NOT REASONABLY REQUIRED — OBJECT:**
+- Q1(a) date of first MDD diagnosis — cannot inform current controls. Clearest **s 124** candidate.
+- Q1(b) clinical basis for the causal link — for adjustment it matters THAT something exacerbates,
+  not the clinical reasoning WHY. The "why" is the s 32 question in the appeal.
+- Q1(c) self-report vs clinical assessment vs "**other medical information/reports available to
+  you**" — ⚠️ the tail is a FISHING question inviting the GP to identify OTHER REPORTS. Given how the
+  Mind and Memory report reached this proceeding, object most firmly here.
+- Q2 follow lawful directions / participate in performance & conduct discussions — readiness for a
+  management process, not capacity for the role; false premise. Either a process exists (⇒ entitled
+  to particulars + procedural fairness; and note PID reprisal exposure) or it does not (⇒ no stated
+  purpose).
+
+**WRONG LEGAL TEST — REFRAME:**
+- ⭐ Q6 "full inherent requirements ... **without restrictions or modifications**" — THE CLEAREST
+  LEGAL ERROR IN THE DOCUMENT. Neither G3 nor **AD Act s 34** asks whether the role can be performed
+  WITHOUT adjustment; they ask whether genuine occupational requirements can be met WITH reasonable
+  adjustments, subject to unjustifiable hardship (ss 5, 35). "Without restrictions or modifications"
+  is the incapacity-termination test. They adopted an adjustment policy and then drafted a question
+  that assumes it away.
+- Q3 fit under existing reporting arrangements — asks a clinician to risk-assess a WORKPLACE SYSTEM.
+  WHS s 19 + Psychosocial Code 2022 put that on the PCBU. EB12 cl 7.2.1 supplies the mechanism.
+
+**PREMATURE:**
+- Q9 — inverts the sequence. Lawful order: identify restrictions → assess available adjustments →
+  determine whether any genuinely cannot be made and why (unjustifiable hardship). Q9 asks the doctor
+  to answer step 3 before step 2 is attempted, on a hypothetical MSH constructed.
+
+### ⭐⭐ THE STRUCTURAL POINT — THE IME BOUNDARY
+A request to his OWN treating doctor rests on the reasonable-direction power. A **specialist
+opinion**, if compelled, is an **independent medical examination** — which runs through **PS Act 2022
+ch 3 pt 8 div 5 (s 103 gateway)** and **Directive 04/24**, NOT a letter from Injury Management.
+s 103 gateway = employee **absent from duty OR performing unsatisfactorily**, AND reasonable
+suspicion the cause is mental/physical illness.
+- No performance issue has ever been put to him.
+- Which leaves ABSENCE — and **the absence is MSH's own act.** They excluded him on 3 July from a
+  workplace he was attending, holding a certificate that he was fit with restrictions.
+⇒ **An employer cannot manufacture the absence and then rely on it as the gateway to compel an
+examination.** Specialist input here is therefore VOLUNTARY and arranged by him under option 1.
+This is why declining option 2 is not a preference but a structural protection.
+
+### TO VERIFY
+[ ] IP Act 2009 (Qld): confirm HHSs are "health agencies" bound by the **NPPs** (Sch 4) rather than
+    the IPPs (Sch 3). NPP 1.1 (collection only where **necessary** for a function/activity) and NPP 10
+    (sensitive information) would add a second necessity constraint alongside AD Act s 124. Not in the
+    instruments bundle — do not cite until confirmed.
+[ ] Pull the exact s 103 PS Act wording and Directive 04/24 before relying on the gateway argument in
+    correspondence.
+
+### BOTTOM LINE
+Answering the five and objecting to the four is NOT a refusal to comply with a lawful and reasonable
+direction. **Blanket refusal WOULD be misconduct**, because four questions are plainly proper. Full
+compliance on everything legitimate is what makes the objections impossible to characterise as
+obstruction.
+
+### ALSO 31 JUL — APPOINTMENT CANCELLED
+Cory cancelled the 2pm Friday 31 July consult with Dr Ma because the scope was unsettled. Letter
+updated accordingly: the extension ground is now that the RFMI arrived 11:43am, ~2 hours before a
+consult MSH had been notified of on 30 July, and that he cancelled rather than incur a cost both
+parties would have wasted, and will rebook once the question set is settled.
