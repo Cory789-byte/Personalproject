@@ -2114,3 +2114,43 @@ WHAT THIS ESTABLISHES:
    but note it: they may reach for it. Answer: the document was obtained and provided the same day.
 USE: origin document for the union bundle and the statutory declaration; anchors s 4 (origin of the
 requirement) and s 7 (conflict) in his correspondence. NOT to be re-argued with MSH.
+
+## 31 JUL 2026 — CALDERBANK #2 (1 JULY) WAS ALSO SERVED ON THE OIR APPEALS REGISTRY
+
+Cory advises the 1 July 2026 Calderbank offer was sent not only to Renee Matheson but also to the
+OIR appeals registry mailbox (believed Appeals@oir.qld.gov.au).
+
+**VERIFY FROM SENT ITEMS (do this first):**
+- [ ] Exact addressee list, date and TIMESTAMP of the 1 July email — transcribe verbatim into the
+      chronology.
+- [ ] Confirm it did NOT go to QIRC registry. A without-prejudice document must not reach the
+      decision-maker's file. (Expected: OIR mailbox only — OIR is the respondent's own agency, so
+      service there is orthodox and correct.)
+- [ ] Preserve the sent item + any delivery/read receipts. Export to PDF into evidence/.
+
+**WHAT IT CHANGES:**
+1. **Knowledge is institutional, not personal.** Earlier working assumption (that Matheson alone
+   holds the 1 July knowledge) is superseded. The offer was registered in a shared government
+   mailbox and seen by whoever staffs it. If the 1–2 July sequence ever has to be reconstructed,
+   it is reconstructed from an auditable agency file, not one person's memory.
+2. **Receipt is provable → the Calderbank is materially stronger for s 558(3) / *Canton*.** The
+   usual weak point (was the offer communicated and considered?) is closed. "Not seen by the right
+   person / not escalated" is no longer available, and if raised becomes an admission about the
+   Regulator's own file handling.
+3. **The 1 July date is a government record** — discoverable via the appeal's disclosure obligations
+   or, if ever needed, RTI. No longer dependent on Cory's own sent item.
+4. ⚠️ **DO NOT over-read dissemination.** The Regulator and MSH are separate entities; MSH is not
+   the respondent. The one KNOWN channel is MSH Legal (Myla Ruttan, Principal Lawyer, named contact
+   on the 5 June 2026 Form 29 objection under Cridland's signature). A channel existing establishes
+   nothing about whether anything travelled down it on 1 July. Do not convert the existence of a
+   pipe into an assumption about its contents.
+
+**DISCIPLINE UNCHANGED:** the 1 July / 2 July juxtaposition is never asserted by Cory in any
+correspondence — not to Matheson, not to MSH, not to the Commission. It is recorded as a dated
+factual sequence (now with recipients and timestamps) in (a) the statutory declaration / chronology
+for the union and (b) the reserved general protections file. The registry service makes the facts
+MORE provable, which is exactly why there is no need to assert anything from them yet.
+
+**CONSISTENCY POINT:** apply the same service practice going forward — where an item is intended to
+bind the Regulator as respondent (offers, notices), copy the OIR appeals mailbox as well as the
+individual officer, so receipt is always provable.
