@@ -133,8 +133,10 @@ build(OUT+"FORM_A_GP_DrMa_MSH-INJ-5795.pdf",
              "pattern for that period is provided to you by the employer, please confirm whether it "
              "remains suitable and whether it supports the restrictions recommended.",
         "The rostered and worked pattern for the twelve months is held by Metro South Health, not by "
-        "Mr Shepherd. He has asked the Health Service to provide it. This question is included so that "
-        "it can be answered once that data is available, rather than estimated.", 30*mm)],
+        "Mr Shepherd. He understands it to have been in the order of six shifts per fortnight, against a "
+        "full-time equivalent of 76 hours per fortnight, but has asked the Health Service to produce its "
+        "own record. This question is included so that it can be answered once that data is available, "
+        "rather than estimated.", 32*mm)],
       "Questions concerning the clinical basis of causation, the functional effects of working memory, "
       "and the specific tasks or environments said to exacerbate the condition have been directed to "
       "Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service, as the "
