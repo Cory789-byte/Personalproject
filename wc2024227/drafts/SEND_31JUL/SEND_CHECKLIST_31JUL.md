@@ -67,6 +67,9 @@ Stream both read "no".)*
 - [ ] Instruct the psychiatrist only after MSH confirms which questions it presses. Invoice direct to
       Harrison at lbh_InjuryManagement@health.qld.gov.au.
 - [ ] Tell MSH the expected fee once known — a notification, not a request for approval.
+- [ ] **Obtain the separate medical certificate** from Dr Ma covering the period from 3 July 2026.
+      The checklist form requires one and it was not provided. MSH has never raised it in four
+      weeks — if they ever do, their silence is your answer, so bank that rather than argue it now.
 
 ## Evidence to collect this week (appeal file, not MSH)
 

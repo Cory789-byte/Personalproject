@@ -3083,3 +3083,35 @@ Part 1.3 rebuilt as "THE CHECKLIST ALREADY ANSWERS MOST OF WHAT IS NOW ASKED" (q
 mapping), and new **Part 1.4 "THREE MATTERS ON THE FACE OF THE CHECKLIST"** (continuation; twelve
 months tolerated; the restriction matching MSH's own process). Summary item 5 rewritten.
 Builder patched to render **bold** properly.
+
+## 31 JUL 2026 — THE MISSING MEDICAL CERTIFICATE: VOLUNTEERED, NOT LEFT TO BE FOUND
+
+Confirmed by Cory: **no separate medical certificate was provided with the ECC on 3 July 2026.**
+The ECC form's own first line requires one: "Please note that a separate medical certificate is
+also required to support the completed Capability Checklist."
+
+**RISK ASSESSMENT — LOW, BUT REAL:**
+- ⭐ **MSH has NEVER raised it.** Four weeks, five letters (7, 15, 29, 30, 31 Jul), six shifting
+  bases — and not once. The 31 July letter treats the ECC as valid and seeks "further clarification"
+  of it, not correction of a deficient document. Had the missing certificate been the problem, it
+  would have been the first thing said.
+- Trivially curable — a five-minute item from Dr Ma.
+- But it is the ONE soft spot in the "I have cooperated throughout / they have not" posture, and it
+  costs nothing to close.
+
+**HANDLED BY VOLUNTEERING IT (Part 3.1, end):**
+    "I also note that the Employee Capabilities Checklist form states that 'a separate medical
+    certificate is also required to support the completed Capability Checklist.' One was not
+    provided with the checklist on 3 July 2026. I will obtain one when I rebook with Dr Ma and
+    provide it together with his answers. If the Health Service requires it sooner, please tell me
+    and I will arrange it separately."
+⇒ Acknowledges, commits, offers to expedite. Converts a latent weakness into another instance of him
+being the reasonable party, and removes the card from their hand permanently.
+
+⚠️ **DELIBERATELY NOT SAID: "you never raised this in four weeks."** That is BANKED. If MSH ever
+attempts to rely on the missing certificate as a justification for the 3 July exclusion or anything
+since, the four weeks of silence — while giving six other reasons — is the answer. Spending it now
+would waste it; holding it means any late reliance on the point backfires.
+
+Also added: GP note asks Dr Ma to issue a certificate covering the period from 3 July 2026 at the
+rebooked consultation; send checklist updated.
