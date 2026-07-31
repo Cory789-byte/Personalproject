@@ -41,7 +41,9 @@ verify.
 | # | Proposition | Source |
 |---|---|---|
 | 1 | Switchboard moved to report to **Corporate Services** — Hughes's directorate — during Cory's absence | LBH_HR, 21 Feb 2025: *"the relevant leaders in **Corporate Services (where Switchboard is now reporting)**"* |
-| 2 | On **24 Feb 2025**, the day of his return, Hughes forwarded the leave thread to a third party: *"**Hey Paul I just wanted to update you**"* | pack 03, item 006 |
+| 2 | ⚠️ ~~*"Hey Paul I just wanted to update you"* — Hughes forwarding to a third party~~ **WITHDRAWN 31 Jul 2026 — I READ THIS WRONG.** It is **Cory's own email to Paul Conrad at Saines Legal**, his own solicitor. **Entirely innocuous. Never use it.** | pack 03 p.42 |
+| 2a | ⭐⭐ **Hughes knew of the ex-partner matter and the court proceedings from 24 FEBRUARY 2025** — the day of the return, not 12 March | §3C |
+| 2b | ⭐⭐ On **27 Feb 2025** Hughes directed him to attend **"front of Safety & Response"** — **not Switchboard** | §3C.2 |
 | 3 | On **12 Mar 2025** Cory disclosed a DV situation and requested DFVL. Hughes's entire reply was *"**Noted thanks**"* | AttB |
 | 4 | On **28 Mar 2025** Hughes wrote *"you are the respondent… **under our policies, you may be deemed as the perpetrator**"* and **refused DFVL** | AttC |
 | 5 | In the same letter he **substituted recreational leave** — *"I have applied recreational leave"* | AttC |
@@ -68,7 +70,7 @@ verify.
 | Hughes was **hired while Cory was absent**, and they had **never met** | **[A]** — plausible and consistent with the 21 Feb "where Switchboard is now reporting", but **his start date is not held**. [ ] Obtain. |
 | Over **~3 weeks from 24 Feb 2025**, Hughes and Taylor **acted together to move and isolate him** into another department | **[D/A]** — **UPGRADED, see §3B.1.** That he **was** outside Switchboard is proved (*"I am in the security office"*, 8 Apr 2025), and it is now proved that **the location decision sat with Corporate Services and was still unmade on 21 Feb** (Bain). **What was decided, and why, is still not in any document held.** [ ] The 3 Mar "Network User Access" thread is unread. |
 | On his return another employee was **approved to full-time hours** | **[A] — no document. See §3B.4.** ⛔ Not assertable. Provable from rosters PP04–PP06 and the establishment/FTE report, **neither held**. |
-| Hughes **adopted Taylor's posture** toward him | **[A]** — **no document supports this.** ⚠️ It is a state-of-mind claim about a person who barely wrote to him. **Unprovable as framed.** |
+| Hughes **adopted Taylor's posture** toward him | ❌ **CONTRADICTED — see §3C.4.** His Feb–Mar 2025 emails are warm and accommodating: *"Hope your doing OK"*, *"I'll approve your request for AL"*, *"will follow up"*. **Abandon this framing entirely.** |
 | Hughes **never speaks to him in the office** | **[A]** as a social fact — but **see §1: provable as an absence of consultation.** ⭐ **Reframe it; do not plead it.** |
 | Hughes **deflected all raised concerns** | **[D/A]** — partly supported: *"Noted thanks"* to a DV disclosure, and **no answer ever to the October complaint**. But *"all"* overstates: he answered leave and roster emails promptly and repeatedly through March 2025. |
 
@@ -215,6 +217,83 @@ that the same thing occurred on the **February 2025** return as in **July 2026**
 is **already in the RFMI response at Part 11**, which asks whether his shifts are being worked by
 another employee. **If the answer to Part 11 comes back yes, the February 2025 limb becomes worth
 proving. Sequence it that way — do not lead with the unprovable half.**
+
+---
+
+## 3C. ⭐⭐ FEBRUARY–MARCH 2025, READ IN FULL — TWO CORRECTIONS AND TWO NEW FINDINGS
+
+Read from the corpus 31 Jul 2026. **This section supersedes anything inconsistent above.**
+
+### 3C.1 ⚠️ CORRECTION — I MISREAD "Hey Paul"
+I recorded that on 24 Feb 2025 Hughes forwarded the leave thread to a third party.
+**That is wrong.** The email is **Cory → Paul Conrad, Saines Legal** — his own solicitor — forwarding
+his own message to Hughes. **Withdrawn. It must never be used.**
+
+### 3C.2 ⭐⭐ THE PLACEMENT IS NOW DOCUMENTARY — HUGHES DIRECTED HIM TO SAFETY & RESPONSE
+> **Hughes → Cory, 27 Feb 2025 08:41:** "Hello Cory, **Hope your doing OK**. Acknowledge your request
+> for leave, **I will meet you Monday 8am front of safety & Response.**"
+
+⇒ **Three days after returning to Switchboard, the Director of Corporate Services directed him to
+attend at Safety & Response — the security area — in writing.**
+⇒ Read with **Bain, 21 Feb** (*"waiting for some detail from Corporate Services as to where you will
+be located"*) and **8 Apr** (*"I am in the security office"*), the placement now runs:
+**decision sat with Corporate Services (21 Feb) → Hughes directs attendance at Safety & Response
+(27 Feb) → still there six weeks later (8 Apr) → reversed after the Roberts meeting.**
+⇒ ⭐ **This moves the placement from [D/A] to substantially [D].** What is still absent is **why**.
+
+### 3C.3 ⭐⭐ HE KNEW FROM 24 FEBRUARY — NOT 12 MARCH
+> **Cory → Hughes, 24 Feb 2025 13:40** *(the day of the return)*: "I am currently without my phone due
+> to **family issues and complications with my ex-partner** while i was moving yesterday… I have a
+> **court hearing tomorrow**, which has added to the challenges."
+> **Cory → Hughes, 26 Feb 2025 05:04:** "Recent personal events during my **attempts to separate from
+> my partner** have been very stressful. Over the past two months I have been accessing **Telus
+> counselling services** to provide evidence of the situation."
+
+⇒ **When Hughes wrote "you may be deemed as the perpetrator" on 28 March 2025, he had known of the
+ex-partner matter and the court proceedings since 24 February — 32 days — and of the separation and
+counselling since 26 February — 30 days.**
+⇒ The 12 March disclosure was **not the first**. It was the point at which Cory supplied
+**documentation**.
+
+### 3C.4 ⚠️⚠️ AND HERE IS WHAT MUST BE CONCEDED — HUGHES WAS ACCOMMODATING UNTIL MID-MARCH
+**This is in the record and the other side will find it. State it first.**
+
+| | |
+|---|---|
+| **27 Feb** | *"**Hope your doing OK.** Acknowledge your request for leave"* |
+| **3 Mar 15:30** | On the IT access failure: *"**Thanks Cory will follow up.**"* |
+| **3 Mar 16:36** | *"**I'll approve your request for AL**, can discuss with you on Tuesday processes and **send through roster to your personal email as requested**."* |
+| **12 Mar 06:37** | *"Confirming I have received your request for leave, **can I ask what sort of leave are you requesting?**"* |
+
+⇒ **Responsive, warm, approving leave, accommodating a personal-email workaround, following up IT on
+his behalf.** ❌ **The "he was hostile from the start" and "he adopted Taylor's attitude" framings are
+contradicted by his own emails. Abandon them.**
+
+### 3C.5 ⭐⭐⭐ SO THE REAL FINDING IS THE TURN — AND WHERE IT SITS
+| | |
+|---|---|
+| **24 Feb – 3 Mar** | Warm, accommodating, approving |
+| **12 Mar 05:43** | Cory supplies the **confidential attachment** — the DV documentation, incl. Attachment A naming him the **aggrieved** |
+| **12 Mar 08:38** | *"**Noted thanks**"* |
+| **19 Mar** | *"FW: Cory Shepherd — Proposed Roster"* **[ ] unread** |
+| **28 Mar** | *"you may be deemed as the **perpetrator**"* · DFVL refused · recreational leave applied · approval routed to Taylor · **HR Policy E4 and a disciplinary warning** |
+
+⇒ **The conduct does not change when he learns of the DV. It changes after he receives the
+documents.** That is a sixteen-day window with one unread item in it.
+⇒ ⭐ **This is a far better finding than "he was hostile", because it is a change in an established
+pattern, evidenced on both sides of the line, and it needs no assumption about his character.**
+[ ] **Read the 19 March "Proposed Roster" before drawing any inference about what is in the window.**
+
+### 3C.6 HE HAD NO POSITION IN THE SYSTEM ON 3 MARCH
+> **IT Service Desk → Chloe Tyler and Scott Hughes, 3 Mar 2025 10:41:** "Cory SHEPHERD (shepherdcor)
+> **is not currently assigned to a position in Access Manager**. To grant them access, **you will need
+> to add them to a position**."
+
+⇒ **A week and a half after returning to a permanent full-time role he was not assigned to a position
+in the access system** — the systems counterpart to "supernumerary" (§3B.2). The request to fix it
+went to **Hughes** and **Chloe Tyler** *(note: Tyler, not Taylor — a different person)*.
+[ ] **Was a position ever assigned, and to which cost centre / location?** That record would answer
+the placement question directly.
 
 ---
 
