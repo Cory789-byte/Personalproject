@@ -73,10 +73,11 @@ def header(F, who, addr, formref):
                   "Management Consultant, Human Resources, Logan and Beaudesert Health Service, "
                   "lbh_InjuryManagement@health.qld.gov.au.", "note"))
 
-def build(path, who, addr, formref, intro, questions, closing):
+def build(path, who, addr, formref, intro, questions, closing, extra_intro=None):
     F = []
     header(F, who, addr, formref)
     F.append(para(intro, "h1"))
+    if extra_intro: F.append(para(extra_intro, "body"))
     for label, text, hint, h in questions:
         F.append(para("%s&nbsp;&nbsp;%s" % (label, text), "q"))
         if hint: F.append(para(hint, "qs"))
@@ -126,7 +127,14 @@ build(OUT+"FORM_A_GP_DrMa_MSH-INJ-5795.pdf",
         "no complaint-handling duty.", 30*mm),
        ("6", "Please confirm the medical records and specialist reports you hold in respect of "
              "Mr Shepherd, and whether the Employee Capabilities Checklist you completed on 3 July 2026 "
-             "remains your opinion.", None, 26*mm)],
+             "remains your opinion.", None, 26*mm),
+       ("7", "The Employee Capabilities Checklist refers to “the pattern Mr Shepherd has in fact worked "
+             "and tolerated over the past twelve months without deterioration”. If the actual rostered "
+             "pattern for that period is provided to you by the employer, please confirm whether it "
+             "remains suitable and whether it supports the restrictions recommended.",
+        "The rostered and worked pattern for the twelve months is held by Metro South Health, not by "
+        "Mr Shepherd. He has asked the Health Service to provide it. This question is included so that "
+        "it can be answered once that data is available, rather than estimated.", 30*mm)],
       "Questions concerning the clinical basis of causation, the functional effects of working memory, "
       "and the specific tasks or environments said to exacerbate the condition have been directed to "
       "Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service, as the "
@@ -152,4 +160,15 @@ build(OUT+"FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf",
         "The role is a continuous shift working role covering multiple shifts over a 24/7 period.", 36*mm)],
       "This report is sought in respect of current capacity, functional restrictions and workplace "
       "controls. It is not sought on the aetiology of the injury, which is a separate matter and is the "
-      "subject of separate instructions.")
+      "subject of separate instructions.\n\n"
+      "The purpose of this report is collaborative. Mr Shepherd wishes to return to his substantive "
+      "role and is seeking the identification of workplace controls that would allow him to do so "
+      "safely and sustainably. A holistic formulation is welcomed, including the patient's own "
+      "understanding of his condition, its triggers and its management, which Mr Shepherd regards as "
+      "central to working safely. Nothing in this request should be read as inviting an adverse or "
+      "medico-legal opinion about any person.",
+      extra_intro=("Mr Shepherd's object is a safe and sustainable return to his substantive role. "
+                   "The Health Service has asked what workplace controls are medically necessary. Your "
+                   "opinion is sought on that question, and on the functional matters below, so that the "
+                   "workplace can be adjusted around them. A holistic formulation is welcomed, including "
+                   "Mr Shepherd's own understanding of his condition and its management."))

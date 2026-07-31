@@ -227,6 +227,14 @@ for n, t in [
  ("8", "Confirmation of the date by which the completed responses are required, having regard to the "
        "earliest available specialist appointment. The Checklist was requested on 5 May 2026 and provided "
        "on 3 July 2026 without objection."),
+ ("9", "The record of shifts rostered and worked by me over the twelve months preceding the Employee "
+       "Capabilities Checklist, including the average shifts per fortnight and the average expressed as a "
+       "proportion of the full-time equivalent for the role. The Checklist refers to “the pattern "
+       "Mr Shepherd has in fact worked and tolerated over the past twelve months without deterioration”. "
+       "That data is held by the Health Service and not by me or by my practitioners. My understanding is "
+       "that the average was materially below full-time. I ask that the Health Service produce its own "
+       "record so that question 6 can be answered against what was in fact required of me, rather than "
+       "against an assumption."),
 ]:
     F.append(para("<b>%s.</b>&nbsp; %s" % (n, t), "body"))
 
