@@ -17,10 +17,10 @@ proposal for my return to work. In summary:
   - Four questions are properly for my general practitioner, and I will obtain answers to
     them: Questions 1(d), 4, 5 and 8.
 
-  - One question requires a treating psychiatrist rather than a general practitioner:
-    Question 7. I am willing to obtain that opinion. Please confirm whether the Health
-    Service presses it and I will arrange it, with the invoice directed to you on the basis
-    of your confirmation that reasonable costs will be met.
+  - Three questions require my treating psychiatrist rather than my general practitioner:
+    Questions 7, 1(a) and the answerable limbs of 1(c). I am willing to obtain that opinion.
+    Please confirm which questions the Health Service presses and I will arrange it, with the
+    invoice directed to you on the basis of your confirmation that reasonable costs will be met.
 
   - Four questions are not medical questions. Questions 2, 3, 6 and 9 ask my doctor to
     answer matters which G03 and the Work Health and Safety Act 2011 place with the Health
@@ -30,13 +30,15 @@ proposal for my return to work. In summary:
     Service answer those itself, after which the properly medical part of each can be put to
     my practitioners.
 
-  - Three questions do not meet the limit G03 clause 3 places on this inquiry, which permits
-    supporting medical information "where necessary, to either identify required workplace
-    adjustments and/or assess the suitability of proposed adjustments." I ask that Questions
-    1(b) and 1(c) be withdrawn, as they go to matters in issue in WC/2024/227 rather than to
-    any adjustment. As to Question 1(a), I do not object to the Health Service being informed
-    of when the diagnosis was made, and I have proposed a replacement question which provides
-    it together with the clinical context that makes it meaningful.
+  - As to Question 1(a), I answer it openly in the attachment: the diagnosis was made on
+    24 October 2024. I ask only that the clinical context be obtained from my psychiatrist,
+    and note that the question as framed asks my general practitioner to certify that no other
+    diagnosis exists, which is beyond his scope.
+
+  - I ask that Question 1(b), and the third limb of Question 1(c), be withdrawn. G03 clause 3
+    permits supporting medical information "where necessary, to either identify required
+    workplace adjustments and/or assess the suitability of proposed adjustments." Neither does
+    so, and Question 1(b) goes to a matter in issue in WC/2024/227.
 
 I adopt option 1 and will obtain the information myself. I do not provide an authority under
 option 2.

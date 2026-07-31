@@ -47,9 +47,9 @@ def esc(t):
     return t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 ALLOC = [
- ("1(a)", "Date of first diagnosis", "Reframed — Dr Ma, with clinical context"),
- ("1(b)", "Clinical basis for the causal link", "Withdrawal requested"),
- ("1(c)", "Self-report v clinical assessment; other reports held", "Withdrawal requested"),
+ ("1(a)", "Date of first diagnosis", "Answered openly; clinical context from the psychiatrist"),
+ ("1(b)", "Clinical basis for the causal link", "Withdrawal requested — a psychiatrist question, and in issue in the appeal"),
+ ("1(c)", "Self-report v clinical assessment; other reports held", "Dr Ma and the psychiatrist, as to their own assessments; third limb withdrawn"),
  ("1(d)", "Foreseeable risk; controls medically necessary", "Dr Ma (GP)"),
  ("2",    "Following directions; performance and conduct discussions", "Health Service — threshold question"),
  ("3",    "Fitness under the existing reporting arrangements", "Health Service — risk assessment, then treating psychiatrist"),
