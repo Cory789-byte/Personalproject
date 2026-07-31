@@ -1,15 +1,23 @@
 # CORRESPONDENCE PACKS — mailbox exports
 
-> Graph print-style exports of full mailboxes/threads, uploaded 31 July 2026.
-> Text-extractable. Each pack carries its own CONTENTS page listing every section and attachment
-> with page numbers. **Section numbers in the CONTENTS do not align with PDF page numbers** — use
-> the `p.` column.
+> Graph print-style exports uploaded 31 July 2026. Text-extractable. Each pack carries its own
+> CONTENTS page listing every section and attachment with page numbers. **Section numbers do not
+> align with PDF page numbers** — use the `p.` column.
+>
+> ⚠️ **CORRECTED — these are exports of CORY'S OWN MAILBOX, grouped by correspondent.** They are not
+> the other person's mailbox. Established from pack 05, which contains Cory's own **sent** items and
+> a **non-delivery report** that could only ever have landed in his inbox. Same for pack 03.
+> **This matters:** an absence in a pack proves *"Cory never received it"* — which is the
+> proposition worth having — **not** *"it was never written"*.
 
 | Pack | Pages | Sections | Coverage |
 |---|---|---|---|
 | `01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf` | 103 | 64 | **CS Logan / Logan Switch mailbox**, Aug 2020 – May 2026 |
 | `03_Scott_Hughes_PACK_376pp_196sections.pdf` | 376 | 196 | **Scott Hughes mailbox**, Jan 2025 – 31 Jul 2026 |
 | `04_Human_Resources_PACK_21pp_2026-07-31.pdf` | 21 | 6 | **LBH HR Team 1 + HR mailboxes** — the 31 Jul 2026 RFMI |
+| `05_Jacqui_Roberts_PACK_64pp.pdf` | 64 | 28 | **Jacqui Roberts** correspondence, Feb 2025 – Oct 2025 |
+
+**Missing: pack 02**, and anything numbered 06 or higher.
 
 ---
 
@@ -28,6 +36,66 @@ denial — the anchor for Items 8–9 in the 64G.
 | **017** | **16 Jun 2025** | **Consultation Paper — Proposed Roster for Switchboard Services** |
 | 018 | 6 Oct 2025 | Switchboard roster version 2 (xlsx + pdf) |
 | **019** | **24 May 2026** | ⭐ **"FW: Conflict of interest — Update"** |
+
+## 05 — JACQUI ROBERTS (64 pp) — ⭐ TWO FINDINGS, BOTH RESOLVED ON READING
+
+A/Director HR Business Partnering; had carriage of the February 2025 return; the addressee of the
+October 2025 complaint about Hughes.
+
+| Ref | Date | Item |
+|---|---|---|
+| 1, 3, 5, 7, 9 | **21 Feb 2025** | **"Confirming your return to Logan Hospital Switchboard"** — five messages, all the same day, LBH_HR ↔ Cory, **cc Roberts** |
+| 11, 13 | 27 Feb – 2 Mar 2025 | "Fw: Leave Cory Shepherd" — Hughes; Cory's reply |
+| 15–21 | **8 Apr 2025** | **"Cory Shepherd Reinstatement process"** — 7 items |
+| 22 | **3 Oct 2025 13:53** | The complaint, **with Attachments A–E attached** |
+| 23–27 | | ⭐ **Att A "Evidence of the DV Situation"** · **Att B Initial Leave Request** · **Att C Management's Response** · ⭐ **Att D "Correspondence from QPS"** · **Att E Meeting Cancellation Email Chain** |
+| **28** | **3 Oct 2025 13:53:18** | ⭐ **"Undeliverable"** — 4 pp with full headers |
+
+### ⭐ FINDING 1 — THE 3 OCTOBER COMPLAINT WAS BLOCKED AS SPAM, TO BOTH RECIPIENTS
+> **From:** `postmaster@outlook.com` · **Sent 2025-10-03 03:53:18 UTC = 13:53:18 AEST**, six seconds
+> after the original.
+> "Delivery has failed to these recipients or groups: **Jacqui.Roberts@health.qld.gov.au** …
+> **Heath Moran <heath.moran@together.org.au>** … Your message wasn't delivered because the
+> recipient's email provider rejected it."
+> **Diagnostic information for administrators:**
+> `Remote server returned '550 5.7.520 Message blocked because it contains content identified as
+> spam. AS(4810)'` — **for both addresses.**
+
+⇒ **Neither Roberts nor the union rep ever received the 3 October email.** That is why a second
+version exists on **4 October**.
+⚠️ **This is a spam filter, not a person.** It does **not** support "they ignored it" for the
+3 October email — say so before anyone else does.
+⭐ **But it does two useful things:** it dates the complaint attempt to **13:53 on Friday 3 October
+2025** with server-level proof, and it establishes that **the union rep was left uninformed for a
+further day** through no fault of Cory's.
+
+### ⭐ FINDING 2 — THERE IS NO REPLY FROM ROBERTS, EVER
+The pack ends at the NDR. **Nothing after 3 October 2025.** The 4 October re-send is held separately
+at `2025-hughes-history/2025-10-04_Cory_COMPLAINT_about_Hughes_to_Roberts_cc_Moran.pdf`.
+
+⇒ On the mailbox export, **Cory received no response to the complaint about Hughes at any time.**
+And the same pack shows Roberts **does** reply when she replies — on 8 April 2025 she answered
+within **2 hours 10 minutes**, then again **2 minutes** later.
+⇒ **Answered within two hours in April. Never answered in October.** That is the "no complaint ever
+resolved" point, and it is now evidenced rather than asserted.
+⚠️ Limit: this proves **non-receipt by Cory**, not that nothing was written internally.
+[ ] The internal record, if any, sits in MSH's systems.
+
+### The 8 April 2025 reinstatement thread — verbatim
+- **12:06** Cory → Roberts: *"I was wondering if you are available at Logan Hospital today"*
+- **12:16, 12:33, 12:33** — three further messages to Roberts, **bodies not captured**
+  [ ] recover from the mailbox
+- **14:17** Roberts: *"Apologies I have been in meetings but available now. **I am actually at the
+  hospital this afternoon too.**"*
+- **14:19** Cory: *"**I am in the security office** and if you are in the building possibly, we could
+  have a quick face to face meeting for 10 minutes?"*
+- **14:21** Roberts: *"I am down in the **Administration offices** — let me check I can get an office
+  quickly and will come back to you"*
+
+⇒ Confirms the security-office placement on **8 April 2025**, and that Roberts met him that
+afternoon — the meeting that preceded the reversal.
+
+---
 
 ## 03 — SCOTT HUGHES (376 pp) — the largest and most significant
 
@@ -82,10 +150,8 @@ Covers the whole period from the **February 2025 return** to the **31 July 2026 
 
 ## ⭐ FIRST-PASS FLAGS — to work through
 
-1. **The 3 Oct 2025 complaint bounced.** Item 057 is an **Undeliverable** NDR for the email to
-   `jacqui.roberts@health.qld.gov.au`, which is why a second version exists on **4 October**.
-   [ ] **The NDR body did not text-extract — render pp 345–347 as images to get the failure reason.**
-   Goes to "no complaint ever resolved".
+1. ✅ **RESOLVED — the 3 Oct 2025 complaint was blocked as spam.** Full NDR recovered from pack 05:
+   `550 5.7.520 … identified as spam. AS(4810)`, to **both** Roberts and Moran. See pack 05 above.
 2. ⭐ **Account deactivation and reactivation, Aug–Sep 2025.** `QH-RITM16413751` — a support job
    **cancelled** on 15 Aug, then **four** separate "Restore emails **after reactivation**" items
    across 16 Aug – 15 Sep. **[ ] Establish what was deactivated, by whom, on whose instruction, and
