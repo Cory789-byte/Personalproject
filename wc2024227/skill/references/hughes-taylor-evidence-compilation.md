@@ -350,6 +350,26 @@ from MSH:**
 ⇒ **The sequence — placement, full-time appointment, intervention by HR at Director level, both
 reversed — is provable from MSH's own systems without a single witness.**
 
+### THE UNION WAS INVOLVED, AND CORY WAS NOT
+
+Cory advises **Together was involved in the full-time position being taken away**, and that **he was
+not involved in it**.
+
+⇒ **This is independent corroboration, not his account.** A third party formed its own view that the
+appointment should not stand, acted on it, and it was revoked — without Cory's participation. That
+is materially stronger than a proposition resting on him.
+
+⇒ ⭐ **TOGETHER HOLDS A FILE ON IT.** That is now the **second** matter Together holds independently:
+
+| Date | Matter | Union role |
+|---|---|---|
+| **Apr 2025** | The full-time appointment and its revocation | Involved; Cory was not |
+| **4 Oct 2025** | The complaint about Hughes | **Heath Moran copied** |
+
+Both are retrievable from **Together's own records**, not from Cory. For an industrial officer newly
+briefed, that is the difference between reading the organisation's file and taking a member's
+account of events fifteen months old.
+
 ⚠️ **KEEP OUT OF ANY DOCUMENT: the friendship.** The provable facts are the appointment and its
 revocation. Characterising the appointee as the manager's friend converts a documented sequence into
 an allegation of favouritism — deniable, and it shifts the contest onto motive, which must then be
