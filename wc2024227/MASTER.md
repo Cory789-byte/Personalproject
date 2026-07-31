@@ -236,6 +236,56 @@ Directive 12/24, the Psychosocial Code, WHS ss 47–49, AD Act ss 34/124, Code o
 
 ---
 
+### 3.15 ⭐⭐ TAYLOR PUT THE DFV DISCLOSURE INTO THE REGULATOR'S APPEAL FILE
+Full analysis at `skill/references/taylor-DFV-disclosure-to-Matheson.md`. Screenshots extracted and
+filed at `documents/2024-01-14_DFV_text_disclosure/`.
+
+**Source:** `disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf` pp 24, 33–35,
+section header **"WC/2024/227 — Disclosure from witness conferencing — Chloe Taylor"**. Served on
+Saines Legal 22 July 2025.
+
+**Chain:** Regulator conference **3 Jul 2025** (Matheson + "Lisa") → Matheson's numbered request
+**4 Jul** → **Taylor → Matheson 10 Jul 2025 14:48**, *Importance: High*, 7 attachments.
+Matheson asked only for *"if there is an email or text from Mr Shepherd saying that he **was going to
+be late**"*. Taylor supplied **two full screenshots of the whole 14 Jan 2024 text thread**.
+
+**What the screenshots contain — Cory to Taylor, 14 Jan 2024 from 7:00am:**
+> *"I am with **QPS** regarding some family stuff."* · *"I have had to attend the **police station
+> directed by police**."* · *"I will request to take **10 days Family and domestic violence leave
+> (special leave)**."* · *"I will provide you with the **QPS report number** associated."*
+
+**Taylor's replies:** *"Would you like to take **A/L or S/L** to have the day off and sort
+everything?"* · *"**I'm sorry to hear about your family situation**."* Reported it to **Tammy Reese**
+the same morning.
+
+⇒ **Three findings:**
+1. **It destroys the "perpetrator" characterisation.** Hughes, 28 Mar 2025: *"you may be deemed as
+   the perpetrator."* Fourteen months earlier Cory attended a police station **at police direction**
+   and offered a **QPS report number** — complainant conduct — and MSH held the record throughout.
+2. **Taylor knew of the DV from 14 January 2024** — five months before the 18 June 2024 injury date
+   and across the whole stressor period. Knowledge element for **IR Act s 296**.
+3. ⭐ **The same substitution, twice.** Taylor 14 Jan 2024: *"A/L or S/L"*. Hughes 28 Mar 2025:
+   *"I have applied recreational leave"*. **Two managers, fourteen months apart, both replaced the
+   DFV entitlement with an ordinary or discretionary leave type.**
+
+⚠️ **Provenance is unimpeachable** — supplied by MSH's manager, to the Regulator, and served on Cory
+through the Regulator's own disclosure. **But do not characterise this as Taylor leaking his DV.**
+Matheson's request was legitimate (para 9 SOFAC is Cory's own pleading), supplying the thread was
+defensible, her texts read as measured, and the privacy point under QPP 6 is weak and rejected.
+**Deploy as evidence, not as a complaint about Taylor.** ❌ **Not for the WC track** — it cuts both
+ways on causation.
+
+### 3.16 THE 31 JULY SEND TIME, EXACT
+The Graph export (`correspondence-2026/2026-07-31_HR_PACK_RFMI_consolidated_export_21pp.pdf`) gives
+the covering email as **2026-07-31 01:41:38 UTC = 11:41:38 AEST** (previously recorded as ~11:43).
+Refined sequence: **11:10:27** GP letter exported · **11:11:02** employee letter exported ·
+**11:11:27** employee letter signed · **11:11:42** GP letter signed · **11:41:38** sent.
+⇒ **Thirty minutes from signature to transmission.**
+The covering email also characterises consent: *"Thank you for **agreeing to coordinate with your
+doctor** to obtain the additional information."*
+
+---
+
 ## 4. THE 2025 HUGHES/TAYLOR HISTORY
 
 Full compilation: `skill/references/hughes-taylor-evidence-compilation.md`
@@ -398,6 +448,7 @@ use `pdftoppm`.
 | `skill/references/what-power-did-MSH-use.md` | **The instruments tested against the acts taken — and where nothing was used at all** |
 | `skill/references/msh-document-quality-comparison.md` | Seven MSH documents ranked by development and error density |
 | `skill/references/msh-citations-complete-list.md` | **Every policy and Act MSH has cited, by document and date — and the nine instruments never cited once** |
+| `skill/references/taylor-DFV-disclosure-to-Matheson.md` | **The 14 Jan 2024 DFV text thread Taylor supplied to Matheson — chain of custody, the three findings, and the stress test** |
 | `skill/references/personal-liability-hughes-taylor.md` | **Whether acting for the Health Service protects Hughes and Taylor — IR Act ss 282(6), 285, 296, 305–307, 310(3), 571; PS Act s 269; PID Act ss 40–45; AD Act ss 122–123, 129–133; WHS ss 27, 104–107** |
 | `skill/references/hughes-taylor-evidence-compilation.md` | *(see above)* |
 | `skill/references/working-theories.md` | Hypotheses with confidence — incl. **WT-2026-07-31** |
