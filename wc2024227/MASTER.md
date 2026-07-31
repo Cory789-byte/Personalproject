@@ -91,6 +91,25 @@ Full analysis: `skill/references/FORENSIC-the-request-and-its-authority.md`.
 31 May "EMR Approval", MSH's 5 June objection and the 23 June filing. RECORD IT; DO NOT PLEAD IT AS
 CAUSATION** — the 24 May and 31 May items are unread.
 
+### 3.0a ⭐⭐⭐ THE EMAIL RECOVERY — DENIED BY INACTION [D]
+**Ticket QH-RITM16413751**, pack 03 pp 303–328. Full detail: `hughes-implication-assessment.md` §3A.
+> *"Account was disable on the **04/12/2024 which wiped the customer previous emails**. Customer is
+> only able to view email **from March 2025**."*
+> *"Manager/Director Approval : **Scott Hughes** (hughessco)"*
+> **5 Aug 2025:** *"**Hi Scott** … you have been nominated as an authoriser… **You have 3 days to
+> approve or decline**."* · **7 Aug:** *"**You have 1 day**."*
+> **8 Aug 2025:** *"has been **cancelled**… **Approval Status: Rejected**… **Approvals have expired
+> as no response has been received by the nominated approvers.**"*
+
+⇒ **Named, reminded twice with a countdown, did neither. The system recorded it as Rejected.**
+⇒ ⭐⭐ **The asymmetry:** his own record of the entire stressor period — including the **18 June 2024
+injury date** — was wiped and its restoration allowed to lapse. **One month later the same officer
+signed the 8 Sep 2025 letter built on 34 dated entries from MSH's systems.**
+⇒ **This is why the 64G exists** — he sought MSH's copies because his own were destroyed.
+⚠️ **The 4 Dec 2024 disablement was almost certainly automatic. Do not allege it was deliberate — it
+is not needed.** [ ] eHealth backups may still hold the mailbox. [ ] The ticket's approval audit
+trail is disclosable. **Request both.**
+
 ### 3.1 The purpose inversion — MSH's own words
 > "your recently completed Employee Capabilities Checklist … **which was provided to us to
 > facilitate a Return to Work Plan**." — Hughes, 31 July 2026
