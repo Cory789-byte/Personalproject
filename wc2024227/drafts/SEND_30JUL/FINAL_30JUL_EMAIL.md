@@ -1,3 +1,12 @@
+> ⛔⛔ **SUPERSEDED — DO NOT SEND. Marked 1 August 2026.**
+> This document is correct **for its own date** and was written **BEFORE the Request for Medical
+> Information of 31 July 2026**. It therefore contains none of: the nine questions and their
+> allocation; the seven-day capacity threat; the Director's signature and the conflict; the
+> option 1 election; the cl 10.3.2 request; or the cl 1.11 dispute.
+> ⭐ **The live package is `drafts/SEND_31JUL/` → `drafts/out/`, sending Monday 3 August 2026.**
+> ⭐ **See `CURRENT.md` at the repository root for the superseding chain.**
+> Retained as the industrial base and for the chronology. **Do not send as the current position.**
+
 # FINAL 30 JULY EMAIL — meta + body
 
 **To:** LBH_InjuryManagement@health.qld.gov.au; Lyndelle.Forrest@health.qld.gov.au

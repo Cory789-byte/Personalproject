@@ -86,3 +86,40 @@ been written.**
 | **Mon 17 Aug** | Stage 2 ends → Stage 3 (⚠️ no timeframe) / cl 7.1.4 |
 | ⭐⭐ **Mon 24 Aug** | **cl 10.3.6 decision due. Silence = deemed refusal, IR Act s 29** |
 | **~8 Sep** | ⏳ AD Act limitation — date it with Petering |
+
+
+---
+
+# ⚠️ ON EXTERNAL AUDITS OF THIS MATTER — READ BEFORE ACTING ON ONE
+Two external audits were received on **1 August 2026**. Both were tested. **Neither was auditing
+this repository.**
+
+## They audit a different working set
+| The audit refers to | In THIS repository |
+|---|---|
+| `FINAL_EMAIL_TO_MSH_LBH_IM.md` · `INDUSTRIAL_POSITION_EB12.md` · `INSTRUMENT_INTEGRATION_MAP.md` · `COSTS_INCURRED_SCHEDULE.md` · `ASSESSMENT_DRAFT_REPLY_LBH_29JUL2026.md` | ⛔ **none of these files exist here** |
+| ATT16 = the IME guideline · ATT21 / ATT24 = HR Policy E12 · ATT18 = psychosocial · ATT20 = an older DoH policy | ⛔ **different numbering.** Here: ATT16 = AD Act · ATT18 = IME Guideline · ATT20 = AD Act (19 May 2025) · ATT21 = IP Act · ATT24 = **WHS Regulation** |
+
+⇒ **They are auditing the OneDrive hub or the phone/Grok working set.** ⭐ **Their
+attachment-specific findings do not map onto these files. Check before acting on one.**
+
+## What was valid, and what was done
+| Finding | Verdict | Action |
+|---|---|---|
+| ⭐ **cl 3.9.1 ≠ the grievance source** | ✅ **VALID and material** | **Fixed.** cl 3.9.1 is a **Schedule 3 (Variable Working Hours)** clause. Correct chain: **cl 1.12.1 → Award cl 7.2**, plus **Schedule 2** (E12, E13 preserved). Corrected in the powers map, the register and CLAUDE.md |
+| **ATT09 has no text layer** | ✅ **valid mechanism** | **Verified by page render, not softened.** All four quotations are verbatim correct — `documents/instruments/ATT09_VERIFIED_EXTRACTS.md` |
+| *"Soften ATT09 quotes"* | ⛔ **not needed** | The two uses in the 29/30 July drafts are **paraphrases**, and both are now **verified** by the render |
+| *"Soften ATT16 'cannot direct not to attend'"* | ⛔ **N/A** | **Never cited in this repo.** The hold-out argument runs on **PS Act s 101**, a real power with real conditions |
+| *"Mark the 29/30 July documents superseded"* | ✅ **valid** | **Done — a header is now inside each file** |
+| *"Add a CURRENT.md"* | ✅ **valid** | **This file** |
+| *"Confirm EB12 10.3 before send"* | ✅ prudent | **Confirmed against ATT02.** cl 10.3.2–10.3.7 verified; **IR Act ss 27–29** verified |
+| *"AD Act intentionally not section-cited"* | ⚠️ **deliberately changed** | Part 5 of the request now cites ss 5, 11, 15, 35, 36 — **tethered to cl 10.3.5's "reasonable grounds"**, with Part 5.3 disclaiming any complaint |
+| *"Currency to today 4/10"* | ⚠️ **measuring a superseded document** | The 3 August package **is** the post-RFMI layer |
+| *"Sync the OneDrive hub"* | ⏳ **cannot** | Not reachable from this environment. **User to action** |
+
+## ⛔ THE LESSON THAT CAUSED A REAL ERROR
+An earlier search of this repository for discrimination references returned nothing, and the
+conclusion drawn from it — that the AD Act had never been raised — **was wrong.** The search
+grepped the PDFs **as binaries**. ⇒ ⭐ **Always `pdftotext` first. Grepping a PDF directly
+silently misses compressed text and produces confident false negatives.** Now a standing rule in
+`CLAUDE.md`.
