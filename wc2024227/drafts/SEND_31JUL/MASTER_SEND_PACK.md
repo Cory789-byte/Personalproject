@@ -205,3 +205,53 @@ without asking for a finding about anyone, and without a single adverse word.**
       Proposed Roster**, the **position/cost-centre assignment record**.
 - [ ] Obtain: **HR Policy E12**, **E13 Workplace Harassment**, the **Appeals directive**, the
       **s 102 suspension directive**.
+
+
+---
+
+# PART 9 — ⭐ WHAT THIS ACHIEVES, AND WHAT IT DOES NOT
+
+## 9.1 WHAT IT ACHIEVES
+1. ⭐⭐ **It removes silence as a strategy.** For five weeks doing nothing cost MSH nothing.
+   After Monday every available move — refuse, grant, condition, suspend, regularise, dismiss, or
+   say nothing — **produces a dated document with an author and a stated reason, or a deemed
+   decision.**
+2. ⭐⭐ **It creates the first date in the matter.** He has asked repeatedly to be told when he
+   would know. **24 August 2026 is a date MSH cannot decline to set, extend or park.**
+3. ⭐ **It moves the onus, three times over.** cl 10.3.5 and **G03 cl 2** (prove it unreasonable,
+   against the whole organisation) · **IR Act s 306** (disprove the reason) · **AD Act s 124(3)**
+   (prove it was reasonably required).
+4. ⭐⭐ **It protects him.** **s 284** workplace rights are now exercised on a dated record and
+   **s 306** attaches to everything after it. **The abandonment route is closed** by four documents
+   each recording that he is engaging and wants to return — which matters because **8 October 2024
+   happened.**
+5. ⭐ **It spends nothing.** No allegation, no finding sought, no characterisation. **The PID track,
+   the AD Act complaint, the fair treatment appeal, the reprisal tort and the general protections
+   application all remain available and unspent.**
+6. ⭐ **It builds the appeal record without touching the appeal.** Everything MSH now writes is a
+   document in a matter it is defending — **written in the employment track, where it is not being
+   careful.**
+7. **It converts an indefinite situation into a bounded one.** That is the real achievement.
+
+## 9.2 ⚠️ WHAT IT DOES NOT ACHIEVE — SAY THIS PLAINLY
+1. ⛔ **It does not get him back to work on Monday.** Nothing in it compels a return. **cl 1.11.4
+   needs the Commission to enforce it.**
+2. ⛔ **It does not get him paid this fortnight.** The pay question runs through Stage 1 → 2 → 3 → 4,
+   or a separate route.
+3. ⚠️ **They can grant the request and still hold him out** — Rank 2B.
+4. ⚠️ **They can regularise under PS Act div 5.** The package does not prevent it; it only makes the
+   five weeks unrecoverable for them.
+5. ⛔ **It does not resolve the appeal.** Separate track, separate posture, 7 August.
+6. ⚠️ **The weeks continue while the clocks run.** Realistically **the earliest structural change is
+   mid-to-late August.**
+
+## 9.3 THE HONEST BOTTOM LINE
+**Before: no date, no instrument, no decision-maker, no leverage, no route — and every week of
+silence worked in their favour.**
+
+**After Monday: four clocks, three reversed onuses, a statutory decision-maker named on the
+conflict, a protected record if they escalate, and no move left that does not require them to write
+something down.**
+
+⚠️ **That is not a remedy. It is a floor.** ⭐ **But it is the first floor there has been, and
+everything after this is built on it.**
