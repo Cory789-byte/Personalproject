@@ -77,3 +77,52 @@ principles counsel against — and that is for Dwyer to notice, not for Cory to 
 normal good practice for a government objector is to come down from a full-width objection before a
 mention, and they have not. That is their problem to wear in front of Dwyer, and it only stays
 their problem if Cory walks in prepared, procedural, and silent about everything else.**
+
+---
+
+# PART 6 — THE SIGNALS: HOW TO READ WHAT THEY DO (AND DON'T DO)
+> Asked 1 August. ⚠️ **First, the distinction that stops over-reading:** there are **two opponents
+> sending signals here, and they are not the same party.** The **Regulator** (Matheson, counsel
+> Willson) is the respondent to the appeal — their conduct signals the **appeal and settlement**.
+> **MSH** (Ruttan) is a **non-party objector** — its conduct signals only the **disclosure fight**.
+> Do not read one's behaviour as the other's.
+
+## 6.1 What the conduct SO FAR signals
+| Behaviour | Most likely reading | ⚠️ Do not read it as |
+|---|---|---|
+| **Full-width objection, never narrowed** since 5 June | Either they want the disclosure fight, **or nobody with authority has looked at it since 5 June.** Both are common in government litigation | a considered strategy. It may just be a queue |
+| **MSH absent from the 22 May mention** | treating the matter as low-priority; relying on the written objection | contempt or concession — it's resourcing |
+| **Calderbank #2 rejected in 15 days** (16 July) | ⭐ the **Regulator** engaged with it fast enough to reject it — someone read it, briefed on it, and answered. **That is attention, and attention is not nothing** | a closed door. Rejection this early is an opening position |
+| **No reply yet to the 30–31 July WP letter** | 2 days old. **Unreadable. Ignore** | anything |
+| **Silence generally** | ⭐ **their measured pattern** (obligations register Part 1) — silence is their default on substance, everywhere | weakness, or strength. It is their standing behaviour |
+
+## 6.2 ⭐ Signals to WATCH between now and Thursday
+| If this happens | It signals | Response |
+|---|---|---|
+| Appearance email from Ruttan or counsel | they will attend and defend | nothing — prepare as planned |
+| ⭐ **A letter proposing consent orders on some categories** | **narrowing — the best pre-mention signal possible** | accept the conceded categories graciously, in writing, same day |
+| **A request to adjourn the mention** | delay play, or internal disarray after the objection | consent politely if short; ask that the timetable not move |
+| ⭐⭐ **Willson appears for the Regulator at a procedural disclosure mention** | her pattern is substantive listings only (skipped 22 May). Appearing Thursday = **the Regulator thinks this disclosure matters to the appeal** | note it; change nothing |
+| ⚠️ **After Monday's package: anything fast from MSH before Thursday** — a sudden RTW offer, a s 101 suspension notice, a div 5 referral to the CE | ⭐ **legal has connected the two tracks and is regularising** — exactly Red-Team Rank 1 | the answers are pre-placed in `RED-TEAM-MSH-best-responses.md`. Do not improvise |
+| **Nothing at all** | ⭐ **most likely, and fine.** They arrive Thursday defending the full letter | the posture the application was built to meet |
+
+## 6.3 Signals AT the mention
+| Watch | Reading |
+|---|---|
+| **Who appears for MSH** — Ruttan in person / a town agent / nobody | investment level, high to none. **Nobody twice = a pattern Dwyer sees unprompted** |
+| **The Regulator's position on the disclosure** — opposes / "we abide" / supports in part | ⭐ *"we abide the Commission's decision"* is the quiet good outcome: the actual respondent declining to fight your disclosure |
+| **Dwyer's questions** — if he asks **MSH** to justify categories rather than asking Cory to justify the application | ⭐ the restraint strategy landing |
+| **MSH tries to be heard on the employment matter** | tracks blurring — *"That is a separate employment matter and is not before the Commission today."* Once |
+| **Anyone proposes conferencing/mediation of the appeal** | settlement appetite surfacing — say he is open to it, commit to nothing in the room |
+
+## 6.4 ⛔ THE OVER-READING TRAPS
+1. **Silence ≠ weakness and silence ≠ strength.** It is their measured default. The only silence
+   that carries meaning is silence **against a clock** — and those clocks start **Monday**, not now.
+2. **A fast rejection ≠ no settlement appetite.** It means the file is being read.
+3. **Regularisation after Monday would feel like an attack. It is not** — it is the anticipated
+   best move, it concedes the authority gap for the past five weeks, and every answer to it is
+   already written.
+4. ⭐ **The real signals in this matter are the ones HE created:** Tue 4 Aug (Stage 1 due), Mon 10
+   Aug (Stage 2 referral), **Mon 24 Aug (deemed refusal)**. From Monday, **their silence stops
+   being ambient and starts being an answer.** That is the whole point of the package — before it,
+   silence told him nothing; after it, silence is data.
