@@ -62,7 +62,7 @@ restarts the 21 days and hands MSH the delay back.
 | Stage 1 discussion | **cl 1.11.2(a)** | **within 24 h; not beyond 7 days** | escalate to Stage 2 |
 | Stage 2 conference | **cl 1.11.2(b)** | **not beyond 7 days** | Stage 3 EB12IG, then **Stage 4 QIRC** |
 | No unreasonable or intentional delay | **cl 1.11.5** | throughout | the delay itself becomes the issue |
-| Status quo maintained while the procedure runs | **cl 1.11.4** | from notification | ⚠️ "genuine safety issue" carve-out — see 3.7 |
+| Status quo maintained while the procedure runs | **cl 1.11.4** | from notification | ⚠️ "genuine safety issue" carve-out — see 3.8 |
 | WHS dispute unresolved locally → QH WHS Advisory Committee | **cl 7.1.4** | after cl 1.11.2(b) | a second escalation route |
 
 ## 3.2 Powers that compel an answer without a stated deadline
@@ -200,7 +200,69 @@ happening to him.
 ⛔ **Do not add anything to §2.6.** Its force is that it is short, factual and unanswerable. Every
 sentence added gives them something to respond to *instead of* the question.
 
-## 3.6 Distress — how it appears, and how it must not
+## 3.6 ⚠️⭐ DOES cl 1.11 COMPEL A RESPONSE? — READ THE VERBS
+**Short answer: Stage 1 does not. Stage 2 does. And silence at Stage 1 is what gets him to Stage 2.**
+
+| Stage | The words | Verb | Binding? |
+|---|---|---|---|
+| **1** | *"Stage 1 discussions **should** take place within 24 hours, and the procedure **should not** extend beyond seven days"* | **should** | ⚠️ **indicative, not mandatory** |
+| **2** | *"…**shall** refer the matter to the appropriate management representative **who shall arrange a conference of the parties** to discuss the matter"* | ⭐⭐ **shall** | ✅ **mandatory on management** |
+| **3** | *"either party **may** refer the matter to the EB12 Implementation Group"* | may | discretionary, either side |
+| **4** | *"either party **may** refer matter to the QIRC"* | may | ⭐ **discretionary, and he is a party** |
+| throughout | **cl 1.11.5** — *"no party **shall** act in a manner unreasonably or intentionally delay the timely resolution of a dispute"* | ⭐ **shall** | ✅ **binding, both parties** |
+
+### ⭐⭐ THE STRUCTURAL POINT
+**Every stage after Stage 1 is triggered by the words *"If the dispute remains unresolved"* — not by
+the employer participating.** Silence does not defeat the procedure. **Silence satisfies the
+trigger.**
+
+⇒ **They must respond or he escalates — and escalation is the thing they cannot stop.**
+⇒ **Non-response is not a wall here either. It is the escalator.**
+
+⚠️ **But the compulsion is different in kind from cl 10.3.6, and it must not be confused with it:**
+
+| | cl 10.3.6 | cl 1.11 |
+|---|---|---|
+| Duty to reply | ⭐ **"must", 21 days** | ⛔ none at Stage 1 |
+| Silence produces | ⭐ **a deemed decision — s 29** | **escalation** |
+| Endpoint | QIRC ch 6 | QIRC, Stage 4 |
+| Who moves it | the clock | ⚠️ **he does** |
+
+⭐ **That is why both are running.** cl 10.3 makes silence *cost* them something automatically.
+cl 1.11 gives him a lawful route to the Commission that does not depend on them at all.
+
+### What he must actually do for it to work
+- [ ] **On day 8 with no Stage 1 discussion: refer it to Stage 2 in writing.** One short email —
+      *"The dispute remains unresolved. I refer it to the appropriate management representative
+      under clause 1.11.2(b)."* ⚠️ **The clause does not self-execute; he refers it.**
+- [ ] **Stage 2 is the one to hold them to** — *"shall arrange a conference of the parties"*.
+      If no conference is arranged inside seven days, that is a failure to do a mandatory thing,
+      and it goes in the Stage 4 material.
+- [ ] **Keep a one-line log of each step and each date.** ⭐ **IR Act s 261(1)(b)** requires that
+      the dispute *"remains unresolved after the parties to the dispute have **genuinely attempted
+      to settle** the dispute."* **Running Stages 1 and 2 properly is what makes the Commission
+      available.** Skipping them is the only way to lose the route.
+- [ ] **cl 7.1.4** — WHS matters unresolved at cl 1.11.2(b) may go to the **Queensland Health Work
+      Health and Safety Advisory Committee**. A second exit from Stage 2, in parallel.
+
+### ⭐ IF HE WANTS A MANDATORY DUTY ON THE EMPLOYER FROM DAY ONE — THE GRIEVANCE TRACK
+**Award cl 7.2**, applied by **EB12 cl 1.12.1**, is drafted in stronger verbs than cl 1.11:
+- **7.2(c)** *"The employer **shall ensure** that: (i) the aggrieved employee or such employee's
+  union representative has the opportunity to present all aspects of the grievance; and (ii) the
+  grievance **shall be investigated** in a thorough, fair and impartial manner."*
+- **7.2(d)** the appointed investigator *"**shall be other than** the employee's supervisor or
+  manager"* — ⭐ **a mandatory exclusion of Taylor and Hughes, with no conflict finding required**
+- **7.2(f)** Stage 1 *"**shall not** extend beyond 7 days"* (EB12 says *"should not"*)
+- **7.2(g)** *"the matter may be referred to the Commission by the employee or the union"*
+- **7.2(h)** the **same status quo provision**, in identical terms
+- **1.12.2** — *"does not limit or affect any other dispute resolution provisions"* ⇒ **it can run
+  alongside cl 1.11, not instead of it**
+
+⚠️ **Not opened yet, and it is a separate decision.** It is slower (Stage 3 runs 14 days) and it
+puts a named investigator into the matter. ⭐ **But it is the only track in the file that removes
+Taylor and Hughes by operation of the instrument itself.** Raise it with Petering before opening it.
+
+## 3.7 Distress — how it appears, and how it must not
 ✅ **"Distress peaks as a shift approaches."** Stated as the reason for a control, in the reasons
 section of a request the employer must decide. It is functional, it is his own words, and it is
 tied to a measure.
@@ -209,7 +271,7 @@ Report B and the appeal. In the employment track distress appears **only** as th
 is necessary — because that is the only place cl 10.3.3(c) requires it and the only place it cannot
 be used against him.
 
-## 3.7 ⚠️ WHERE MSH PUSHES BACK — ANTICIPATED, WITH THE ANSWER PRE-PLACED
+## 3.8 ⚠️ WHERE MSH PUSHES BACK — ANTICIPATED, WITH THE ANSWER PRE-PLACED
 | Their move | Where it comes from | Already answered at |
 |---|---|---|
 | *"Genuine safety issue"* — cl 1.11.4 carve-out; WHS Act s 19 | Taylor cited s 19 on 26 June, before any challenge | **Stage 1 notice §3** — asks them to identify the hazard, the reg 36 order, and why the ECC restrictions don't address it. **They have never produced an assessment.** |
