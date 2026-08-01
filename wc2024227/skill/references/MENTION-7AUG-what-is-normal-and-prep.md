@@ -126,3 +126,85 @@ their problem if Cory walks in prepared, procedural, and silent about everything
    Aug (Stage 2 referral), **Mon 24 Aug (deemed refusal)**. From Monday, **their silence stops
    being ambient and starts being an answer.** That is the whole point of the package — before it,
    silence told him nothing; after it, silence is data.
+
+---
+
+# PART 7 — ⭐⭐⭐ THE DEEPER READ: THE DATE ARCHITECTURE
+> Dug 1 August 2026, on request. **Every date below is confirmed against the record**
+> (`confirmed-record.md`, the corpus, the forensic file, MASTER). ⚠️ **Adjacency is not causation.
+> Each row has an innocent explanation available, and each is noted. The pattern is recorded, held,
+> and never pleaded — rule 1. This is the asymmetry file's territory.**
+
+## 7.1 ⭐⭐⭐ THE FINDING AT THE TOP: 7 AUGUST IS DOUBLE-BOOKED — BY THEM
+The RFMI of **31 July** requires the information *"within seven (7) calendar days of receipt."*
+**31 July + 7 days = 7 August 2026.**
+
+⇒ **MSH's own deadline — with its threatened "decision on the available information" — expires on
+the day of the 64G mention.** Two readings:
+- **Innocent:** seven days is their standard period; the collision is chance.
+- **The other:** whoever set the period knew the mention date. MSH has known it since the listing.
+
+⛔ **It cannot be proved either way, and it is never said.** ⭐ **But it is planned for:** a
+"decision regarding your ability to perform your role" is now **capable of landing on or
+immediately after the mention day** — the moment his attention is elsewhere. **The appointments
+notice (document 1b) is the counter already in place:** the information cannot be said to be
+withheld while the appointments their request necessitated are pending, and the response asks what
+decision is meant and under what instrument. **If a decision lands 7–10 August, it walks into a
+prepared record.**
+- [ ] ⚠️ **Diarise 7–10 August as the decision-risk window. Check email daily, including Friday
+      evening.**
+
+## 7.2 ⭐⭐ THE THREE ADJACENCIES — APPEAL-TRACK EVENT → EMPLOYMENT-TRACK ACTION
+| Appeal track | Gap | Employment track | Innocent explanation, stated fairly |
+|---|---|---|---|
+| **64G filed 23 June; served on MSH 24–25 June** (Form 29 to Thorburn) | ⭐ **~1 day** | **26 June, 10:42am AEST — Taylor's ECC letter**: *"unable to facilitate your return"*, s 19 cited. **The origin document of the entire exclusion** | an RTW process was already on foot (the 5 May request); late June may be coincidence |
+| **Calderbank #2 served 1 July, 12:16** — to Matheson **and the registry** | **~1 day** | **2 July — Taylor's deadline email**: ECC by **2:00pm Friday 3 July**, *"wait for my advice to when your next returning shift will be"* | a manager chasing an outstanding document before a weekend |
+| **Cory emails Matheson, 31 July** | ⭐⭐ **24 minutes** | **RFMI documents exported; employee letter signed 25 seconds after creation, GP letter 75 seconds after creation; transmitted 11:41–11:43** — after MSH had said the day before it was *"unable to guarantee when"* | the delegate approval may have arrived that morning independently |
+
+⇒ ⭐⭐ **Three times, an employment-track escalation followed an appeal-track event within a day —
+once within 24 minutes.** One adjacency is chance. Two is interesting. **Three is a pattern that
+justifies a working hypothesis: information moves from the appeal track to the employment track
+quickly, and employment-track action follows it.**
+
+⇒ **What the hypothesis is FOR — not accusation, prediction:** ⭐ **expect the Monday package to
+produce appeal-track effects, and expect appeal-track events to produce employment-track responses.**
+Concretely: MSH Legal will likely know the employment package **before the mention**, and anything
+said at the mention may surface in the employment track within days. **Plan every communication in
+either track on the assumption the other side of the house reads it within 24 hours.**
+
+## 7.3 ⭐ THE ACTOR-LEVEL SIGNALS — measured, not imputed
+| Actor | The measured behaviour | The signal |
+|---|---|---|
+| **Taylor** | replies in minutes on leave codes; wellbeing openers wrapping operative gates (*"I hope you're taking care of yourself"* → *"unable to facilitate your return"*); cc's his personal email | the soft-wrapper/hard-content pattern — **read every future email of hers for the operative sentence inside the pastoral wrapper** |
+| **Hughes** | 26 emails, none about the work, none after Aug 2025; signs the RFMI in the first person; one scheduled personal meeting ever (7am, 24 Feb 2025) | **authority without engagement** — consistent with a signature function, which is exactly what the s 89 letter puts in issue. ⭐ If a *different* officer signs the next letter, the conflict point has landed internally |
+| **Harrison (IM)** | holding replies; *"progressing for delegate approval"*; *"unable to guarantee when"* | a conduit, not a decision-maker. **The unknown is who the delegate is — the response asks precisely that** |
+| ⭐ **Ruttan (MSH Legal)** | **printed his AVAC history 2 June 16:55** (myHR session banner: user "Estelle Bain") and a **myHR roster report 29 May from a native .xlsx** — **before the 5 June objection** | ⭐⭐ **MSH Legal was evidentially active in his roster and AVAC records in late May** — the objection was built on internal data-pulls. **Legal is not passive, and was in this before the exclusion began.** Also: an access-log target — who is Estelle Bain, and under what authority was the record accessed |
+| **Matheson (Regulator)** | Calderbank #2 rejected in 15 days; the 24-minute adjacency runs through an email to *her* | carriage is active; **whatever reaches her may reach MSH fast** |
+| **Willson (counsel)** | WHS-specialist panel counsel (OHS degree, LexisNexis WHS author); appears at substantive listings, skipped 22 May | **the Regulator reads this as a WHS/psychosocial case and briefs accordingly.** Her appearing Thursday = disclosure is being treated as material |
+
+## 7.4 ⭐⭐ MONDAY AS AN ORGANISATIONAL X-RAY
+The package goes to **four different entry points** — Injury Management (docs 1, 1b, 2), Taylor
+(doc 3), the Chief Executive (doc 4), with HR copied throughout. ⇒ **Who answers what, in which
+order, maps MSH's internal routing better than anything he could ask for:**
+
+| If this comes back first | It reveals |
+|---|---|
+| **MSH Legal answers the CE letter** | the CE office routes straight to legal — **the employment and appeal tracks are formally joined on their side**, and everything thereafter is drafted for litigation |
+| **An officer outside Corporate Services convenes Stage 1** | ⭐ **the conflict point has been accepted silently** — the ask granted without a concession ever being written |
+| **Taylor herself convenes Stage 1** | the conflict is not being managed; §5's documented insistence begins |
+| **Harrison answers the cl 10.3 request** | the FWA request is being processed inside Injury Management — watch for "granted subject to medical information" (Rank 2B) |
+| ⭐ **A s 101 suspension notice or a div 5 referral appears** | **regularisation — Red-Team Rank 1.** The five weeks stay unauthorised; the answers are pre-placed |
+| **A single consolidated reply to all four** | MSH has centralised the file — likely legal-drafted; **read it against Part 5 of the master pack**, question by question |
+| **Nothing by 10 August** | the escalators run: Stage 2 referral (his one line), and the 24 August deemed refusal keeps counting |
+
+## 7.5 THE HONEST FLOOR UNDER ALL OF IT
+1. **Every adjacency has an innocent reading, and the innocent reading is genuinely available.**
+   End-of-month processing, an RTW file already open, a delegate approval arriving in ordinary
+   course. ⛔ **That is exactly why none of this is ever asserted — it is a lens, not a claim.**
+2. **The 7 August collision cuts both ways:** it also means **their** deadline expires in front of
+   **their** Commissioner-facing day. If a hostile decision issues on 7 August, its timing sits in
+   the record beside the mention — **and that is their problem, recorded automatically.**
+3. ⭐ **The deepest signal isn't theirs — it's structural.** For five weeks the information flow was
+   one-way: he wrote, they chose. **From Monday, four instruments, four recipients, four clocks.
+   For the first time, their behaviour — action or silence, either one — writes his record for
+   him.**
