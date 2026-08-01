@@ -161,6 +161,35 @@ And nothing changes: he is still out, still unpaid.
 ⚠️ **This is why the untenability argument must not be over-read.** The request is untenable to
 **refuse**. It is easy to **grant**. **A grant is not a return.**
 
+### ⭐⭐ AND THE HOURS LIMB IS NOW ARMOURED AGAINST IT — s 27(1)(a) v s 27(1)(c)
+**Cory's point, 1 August: the reduction is not a medical question, and it should travel on one
+instrument only. He is right, and the section is drafted to allow it.**
+
+**s 27(1) has three limbs, and they are alternatives:**
+> *(a) **the employee's ordinary hours of work**; and (b) the place where the employee works; and
+> (c) a change to the way the employee works, for example, the use of different equipment **as a
+> result of a disability, illness or injury**.*
+
+⇒ ⭐⭐ **Only limb (c) mentions illness. Limb (a) does not.** And **nothing in s 27, s 28 or
+cl 10.3 makes medical information a precondition** to making a request or to deciding one. The
+scheme is: employee asks in writing with reasons → employer decides within 21 days on reasonable
+grounds. **Medical evidence appears nowhere in it.**
+
+⇒ **Part 1 of the request now splits the footing expressly.** 2.1 (ordinary hours) travels under
+**s 27(1)(a)**; 2.2–2.5 (the controls) travel under **s 27(1)(c)**. Part 7(e) adds: the hours
+request is not made conditional on medical information, and **if MSH says it cannot decide it
+without medical information, it is asked to identify the provision that makes such information a
+precondition to a decision under cl 10.3.4.**
+
+⚠️ **There is no such provision.** So Rank 2B's one-sentence answer — *"granted, subject to receipt
+of satisfactory medical information"* — **now has to be written twice, and the second time it has
+to be justified.**
+
+⚠️ **State the entitlement precisely.** ⛔ It is **not** a right to reduce hours. It is a **right to
+ask**, and a **right to a decision within 21 days on reasonable grounds, with written reasons if
+refused or conditioned**. Overstating it is exactly the kind of thing that gets corrected against
+him. The documents say it correctly.
+
 ### ⭐ WHY THE PACKAGE STILL WORKS — BUT ONLY BECAUSE THE DOCUMENTS ARE SEPARATE
 | Question | Which document carries it | Survives a grant? |
 |---|---|---|
