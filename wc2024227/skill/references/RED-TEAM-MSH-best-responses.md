@@ -304,6 +304,51 @@ with no grounds stated (**s 29**), Stage 2 escalation on his referral, and **cl 
 
 ---
 
+# PART 2A — ⭐⭐⭐ THE ABSENT LANE, AUDITED
+> Cory, 1 August: *"if I submit the request… at the exact same time they have nothing, because I am
+> conceding every single thing they would otherwise try — the absent lane."*
+> ⭐ **Right, and the mechanism deserves its name: this is not concession. It is occupation.**
+> Every position MSH would need to take, he takes the ground in front of first. **Discipline rule 6
+> — restraint as posture — operating at scale.**
+
+## 2A.1 THE LANES, AND WHETHER THEY ARE CLOSED
+| # | What they would say | Where it leads | What closes it | Status |
+|---|---|---|---|---|
+| 1 | *"He is absent from duty"* | **PS Act s 103(a)** — the entry gate to div 5 | ready, willing and able at §4(d); **the request is itself an application to work**; their own 7 July *"certified fit"* | ⚠️ **mostly** — he is physically absent, but the record now shows **the absence is theirs** |
+| 2 | *"Abandonment"* | ⚠️ **the 8 Oct 2024 mechanism** | four documents in one day, **each ending "I am engaging with this process and want to return to work"** | ⭐ **closed** |
+| 3 | *"He has not provided the medical information"* | the 31 July seven-day threat | ⭐ **the appointments notice** — booked and confirmed, dated | ⭐ **closed** |
+| 4 | *"He will not engage"* | conduct framing | he answered their request, proposed controls, offered to meet with a support person, offered a graduated return, **and conceded expressly that they may ask for medical information** | ⭐ **closed** |
+| 5 | *"He cannot perform the role"* | Q6 → **s 107 transfer, redeploy, retire** | the request states what he can do and asks **what changed and when**; the ECC records twelve months **without deterioration** | ⚠️ **open — see 2A.2** |
+| 6 | *"We cannot be satisfied it is safe"* | WHS s 19 | he has asked for the assessment; **they identified the hazard themselves on 7 July and did nothing**; **reg 36 has no removal step** | ⭐ **closed — the failure is theirs** |
+| 7 | *"He is on income protection"* | the 13 July coding | the claim was **stopped at his own request in March 2026** | ⭐ **closed, subject to confirming** |
+| 8 | *"He did not follow the process"* | procedural | ⭐ **he is asking to be told what the process is** | ⭐ **elegantly closed** |
+| 9 | *"He is escalating / litigious"* | tone | no allegation, no finding sought, no characterisation, in any of the four | ⭐ **closed — and it stays closed only while it stays true** |
+
+## ⭐⭐ 2A.2 WHAT IS **NOT** CLOSED — AND MUST NOT BE OVERSTATED TO HIM
+1. ⚠️⚠️ **The medical certificate for the period from 3 July.** ⛔ **Still the single open gap.** If
+   they say the absence was never certified, the leave coding looks orthodox.
+   **→ Obtain it from Dr Ma and hold it. Do not volunteer it.**
+2. ⚠️ **76 hours v six shifts.** Now conceded openly and turned into a question, but **s 107
+   transfer or redeploy remains available** if a report says the substantive role cannot be met.
+3. ⚠️ **They can grant and still not return him** — Rank 2B. **Occupation does not compel a return.
+   It compels them to write reasons.**
+4. ⚠️ **They can still regularise under div 5.** The package does not prevent it. **It makes the
+   five weeks unrecoverable for them, which is a different and lesser thing.**
+
+## ⭐⭐⭐ 2A.3 THE FINDING
+**After the four documents, there is no lane left that does not require MSH to write something
+down.** Every remaining move — refuse, grant, condition, suspend, regularise, or dismiss — produces
+a document with a date, an author and a stated reason.
+
+⇒ **Five weeks of saying nothing has been the whole of their position. The package removes that as
+an option, and it does so without a single accusation.**
+
+⛔ **And that is exactly why nothing accusatory can be added.** Lane 9 is closed **only while it
+stays true.** One sentence about conspiracy, bad faith or unlawfulness re-opens it — and it is the
+only lane that, once open, makes all the others survivable for them.
+
+---
+
 # PART 3 — WHAT TO DO WITH THIS
 1. ⛔ **None of this goes to MSH.** It is the union brief and the reply file.
 2. ⭐ **Two things change what he does today:** get the **medical certificate** from Dr Ma, and
