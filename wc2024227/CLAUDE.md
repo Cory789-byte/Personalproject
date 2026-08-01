@@ -4,6 +4,10 @@ This is the Claude Code project context for Cory Shepherd's QIRC workers' compen
 
 ## Read these first, every session
 
+0⭐. **`CURRENT.md`** — ⛔ **READ FIRST.** States which layer is live and which "FINAL" documents are
+   superseded. Several files in `drafts/` are titled FINAL and are final **for their own date only**.
+   The live package is `drafts/SEND_31JUL/` → `drafts/out/`, sending **Monday 3 August 2026**;
+   the send map is `drafts/SEND_31JUL/MASTER_SEND_PACK.md`.
 0. **`MASTER.md`** — the consolidated single pull-from point (state of play, findings, disciplines, open items, document index). Start here.
 0a. **`corpus/FULL_CORPUS.md`** — ⭐ **the whole correspondence record in one searchable file**: 154 messages, 2020–2026, full text, chronological, each cited to its pack and page. **Grep this before opening any PDF.** Companion index at `corpus/MESSAGE_INDEX.tsv`; cautions at `corpus/README.md` — times are **UTC (+10 for AEST)**, and **nothing is quoted into a filing from the corpus**, only from the source PDF.
 1. **This file** — standing context + the discipline rules below.
@@ -40,7 +44,18 @@ Keep **confirmed-against-source** strictly separate from **working-theory**. A m
 
 ## Current status (UPDATE EACH SESSION)
 
-**As at 2026-07-31.**
+**As at 2026-08-01. ⭐ See `CURRENT.md` for the live layer.**
+
+### ⚠️ Source-integrity rules added 1 Aug 2026
+- ⛔ **ATT09 (QH-IMP-401-5) has NO TEXT LAYER** and no OCR is installed. **Never quote it from
+  memory.** Render with `pdftoppm -r 150 -png` and read the page. Verified extracts are at
+  `documents/instruments/ATT09_VERIFIED_EXTRACTS.md`.
+- ⛔ **EB12 cl 3.9.1 is a Schedule 3 (Variable Working Hours) clause, not a main-body clause.** Do
+  not cite it for work-now-grieve-later. For grievances: **cl 1.12.1 → Award cl 7.2**, plus
+  **Schedule 2**, which lists **E12** and **E13** as preserved HR policies.
+- ⛔ **ATT20 (AD Act) is current only to 19 May 2025** — the positive duty is not in it.
+- ⚠️ **Grep PDFs only after `pdftotext`.** Grepping a PDF as a binary silently misses compressed
+  text and produces false negatives.
 
 - **64G / Form 29 — ✅ FILED AND SEALED 23 June 2026** (confirmed by Cory 31 July 2026), served on MSH 24–25 June. MSH's objection (ref K-LM26/729, 5 June 2026, signed Noelle Cridland CE; enquiries Myla Ruttan, Principal Lawyer) is on file, mined, and mirrored at `evidence-index/sources-text/`. **Mention 7 August 2026 before Dwyer; MSH required to attend.** Posture at the mention: ordinary procedural machinery — volunteer nothing about the employment dispute.
 - **Settlement:** Calderbank #2 served **1 July 2026 at 12:16**, addressed to Matheson *and* the OIR appeals registry (service proof filed at `documents/2026-07-01_Cory_Calderbank2_covering_email_SERVICE_PROOF.pdf`); rejected 16 July 2026. Without-prejudice "material development" letter to Matheson **sent** 30–31 July.
