@@ -38,9 +38,29 @@ to *the outcome of the grievance* only.
 ⇒ ⭐ **This is a second, independent, verified reason to hold the grievance.** The advice given on
 1 August was right for different reasons; this one is stronger.
 
-- [ ] ⏳ **VERIFY: the appeal time limit.** It sits in the Appeals directive, **which is not held.**
-      Commonly 21 days from the decision. ⛔ **Do not act on 21 days until the directive is read.**
-      **Obtain the directive this week.**
+## ⚠️⚠️⚠️ AND THERE MAY ALREADY BE AN APPEALABLE DECISION — CHECK THE CLOCK TODAY
+**Chloe Taylor, in writing:** *"I will be submitting your leave as **income protection no pay from
+the 13th July 26**."*
+
+⇒ **That is a decision, communicated in writing, on a date.** On its face it is capable of being a
+**fair treatment decision** under s 131(1)(d) — a decision he believes is unfair and unreasonable —
+appealable to the IRC under s 134.
+
+⛔⛔ **THE PROBLEM IS THE TIME LIMIT, AND I DO NOT HOLD THE DIRECTIVE.**
+Appeal periods under the PS Act sit in the **Appeals directive**, which is **not in the repository**.
+The commonly applied period is **21 days from the decision**. ⚠️ **If that is right, 13 July + 21
+days = approximately 3 August 2026 — within days.**
+
+⚠️ **I cannot confirm this and it must not be relied on either way.** It may be longer; there may be
+an extension power; the "decision" date may run from a later communication; and **Rank 2A above may
+mean this is not the decision to appeal at all.**
+
+- [ ] ⭐⭐⭐ **TODAY: send the Taylor email of 13 July to Emily Petering and ask her one question —**
+      *"is there an appeal period running on this, and has it passed?"* She will know without
+      needing the directive. **This is the single most time-critical item in the matter.**
+- [ ] **Obtain the Appeals directive** and file it as an ATT.
+- [ ] ⚠️ **Do not lodge anything on a guessed timeframe.** A premature or misconceived appeal is
+      worse than none — and Rank 2A must be answered first.
 
 ---
 
@@ -92,6 +112,39 @@ is orthodox and *"willing and available"* is untested.
 - [ ] ⭐ **Obtain the certificate from Dr Ma now, covering from 3 July 2026, and hold it.**
       ⛔ **Do not volunteer it.** If they raise the point, it is produced the same day and the point
       dies. If they never raise it, the five weeks of silence stands.
+
+## ⛔⛔ RANK 2A — "The no-pay follows your QSuper income protection claim, not any decision of ours"
+**Found 1 August 2026 in the corpus. This was not in the first pass and it may be their strongest
+answer of all on the pay question.**
+
+**Chloe Taylor, in writing** (corpus line 4743):
+> *"I just wanted to keep you updated and let you know that I will be **submitting your leave as
+> income protection no pay from the 13th July 26, as per our guidelines for all QSuper claims for
+> Income protection**."*
+
+**What they say.** He is not unpaid because he was excluded. He is on **income protection no pay
+because there is a QSuper income protection claim on foot**, and the guidelines apply that coding to
+all such claims. The pay treatment is a consequence of his own claim, applied uniformly, and has
+nothing to do with the ECC, the RFMI or Corporate Services.
+
+⚠️ **Why this is dangerous.** It severs the pay question from the exclusion question entirely. It is
+uniform, it is policy-based, it names no decision-maker, and it makes *"held out without pay"* look
+like a mischaracterisation of *"on an IP claim, coded per guidelines"*.
+
+**What must be established before any pay claim is run — ⛔ NONE OF IT IS YET CONFIRMED:**
+- [ ] ⭐ **Is there an active QSuper income protection claim, and from what date?**
+- [ ] ⭐ **Which "guidelines"?** Named nowhere. **Ask for them by name.** If they cannot produce a
+      guideline that mandates no-pay coding on the mere existence of an IP claim, the 13 July
+      decision has no stated basis either.
+- [ ] **Is income protection actually being paid?** ⚠️ If a claim was lodged but nothing is being
+      paid, he is receiving **neither wages nor benefit** — which is the strongest version of the
+      pay point and a different argument entirely.
+- [ ] **Was he consulted before the coding changed on 13 July?** The email reads as notification,
+      not consultation — *"I just wanted to keep you updated"*.
+
+⚠️⚠️ **Do not run the pay claim until these four are answered.** A wage claim that collides with an
+IP claim he himself lodged is the one thing in this matter that could make him look opportunistic,
+and it is avoidable by asking four questions first.
 
 ## ⚠️ RANK 3 — Grant the cl 10.3 request in part, and return him to work
 **Their best practical move, and — read carefully — a good outcome for him.**
