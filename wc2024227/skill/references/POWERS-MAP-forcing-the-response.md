@@ -76,14 +76,14 @@ restarts the 21 days and hands MSH the delay back.
 | Have regard to duration of exposure, systems of work, workplace interactions | **Reg 55D(2)(a), (d), (h)** | |
 | Feedback to employees who raise WHS matters | **EB12 cl 7.1.11** | |
 | Psychosocial risk assessment, in consultation with workers and HSRs | **EB12 cl 7.2.1–7.2.3** | uses the 2022 Code |
-| Seek and offer suitable duties; maintain workplace connection; **advise the dispute resolution process** | **QH-IMP-401-5 §§2.1–2.3** | applies to work **and non-work** related illness |
+| Seek and offer suitable duties; maintain workplace connection; **advise the dispute resolution process** | **QH-IMP-401-5 §2.2** (line manager); **§2.3** (RRTWC) — ⭐ **verified by page render, p.4 of 28** | §2.3 applies to **"either a work or non-work-related injury/illness"** |
 | Adjustment so the employee may **"continue work during their recovery"** | **G03 cll 1, 1.1, 1.1.1** | |
 | **Prove** an adjustment unreasonable, **against the whole organisation** | **G03 cl 2** | ⭐ onus expressly on the employer |
 | Prove information was **"reasonably required"** | **AD Act s 124(3)** | ⭐ onus on MSH |
 | Collect sensitive information only with consent and where reasonably necessary | **IP Act QPP 3.3(a)** | |
 | Disclose and manage a conflict of interest | **PS Act s 89(1)**; **Code cl 1.2** | failing to manage one *"is likely to be wrongdoing"* |
 | Reasonable procedures for disclosers — support, **protection from reprisal by other public officers** — and publish them | **PID Act s 28(1)(a), (e), (2)** | |
-| Grievance | **EB12 cl 1.12** → **Award cl 7.2** (ATT03); **HR Policy E12** | ⛔ E12 not held — request it |
+| Grievance | **EB12 cl 1.12.1** → **Award cl 7.2** (ATT03); **HR Policy E12 + E13 — EB12 Schedule 2, preserved HR policies** | ⛔ neither held — requested at notice §4(e) |
 
 ## 3.3 The conflict of interest — front and centre in all three documents
 It is no longer a paragraph in one letter. It now appears as a **live procedural question in each
@@ -487,7 +487,8 @@ be used against him.
 ---
 
 # PART 6 — OPEN
-- [ ] ⛔ **HR Policy E12 (Individual employee grievances)** — named in EB12 cl 3.9.1, **not held**. Request it.
+- [ ] ⛔ **HR Policy E12 (Individual employee grievances)** — ⭐ **a PRESERVED HR POLICY listed in EB12 Schedule 2**, and therefore incorporated into the Agreement. **not held**. Requested at Stage 1 notice §4(e).
+      ⚠️ **CORRECTED 1 Aug 2026:** an earlier note cited **cl 3.9.1** as the source. **That is wrong.** cl 3.9.1 sits inside **SCHEDULE 3 — VARIABLE WORKING HOURS ARRANGEMENT**, not the main body, and applies only to employees on a VWHA. ⛔ **Do not rely on it for work-now-grieve-later** — a 24/7 rostered switchboard operator is very unlikely to be on variable working hours. ⭐ **The correct chain is cl 1.12.1 → Award cl 7.2, plus Schedule 2.**
 - [ ] **ATT03 Award cl 7.2** — read the grievance procedure EB12 cl 1.12.1 applies.
 - [ ] **Roster and payroll record, 12 months to 3 July 2026** — requested at Stage 1 §4(c). It converts *"in the order of six"* into their own figure.
 - [ ] **Confirm the current phone number.**

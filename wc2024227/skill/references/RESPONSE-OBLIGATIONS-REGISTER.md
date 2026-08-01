@@ -132,16 +132,20 @@ MSH cannot decline to set it.**
 ⭐ **1.11.4 is the return-to-work argument in the employer's own agreement.** The status quo before
 26 June 2026 was **rostered and working**. On MSH's construction the status quo during a dispute is
 exclusion without pay — which is the opposite of what the clause says. ⚠️ Note the counterweight:
-**cl 1.11.4 also says "normal work is to continue"** and **Schedule cl 3.9.1** says employees *"must
-comply with managers directions until the grievance is resolved"* (work-now-grieve-later). **That
-cuts his way here, not against him** — he is the one asking to work.
+**cl 1.11.4 also says "normal work is to continue"**. ⚠️ **CORRECTED 1 Aug 2026:** an earlier version
+of this note also cited **cl 3.9.1** ("employees must comply with managers directions until the
+grievance is resolved") as a general work-now-grieve-later rule. ⛔ **That was wrong.** **cl 3.9.1
+sits inside SCHEDULE 3 — VARIABLE WORKING HOURS ARRANGEMENT**, not the main body of EB12, and binds
+only employees on a VWHA. **Do not cite it for him.** ⭐ cl 1.11.4 on its own **cuts his way** — he
+is the one asking to work.
 
 ## 2A.3 EB12 cl 1.12 — Employee Grievance Procedure
 - **1.12.1** — applies **cl 7.2 of the HHS General Employees (Queensland Health) Award – State
   2015** (held as **ATT03**) to all streams
 - **1.12.2** — does not limit any other dispute resolution provision ⇒ **the tracks run in parallel**
-- **HR Policy E12 — Individual employee grievances** — named in EB12 at cl 3.9.1 ⛔ **not yet held.
-  Request it.**
+- ⭐ **HR Policy E12 — Individual employee grievances** — **a PRESERVED HR POLICY at EB12 Schedule 2**,
+  and so incorporated into the Agreement and within cl 1.11 scope. ⭐ **E13 Workplace Harassment is
+  also in Schedule 2.** ⛔ **Neither held.** Both requested at Stage 1 notice §4(e).
 
 ## 2A.4 ⚠️ HOW TO USE IT — AND HOW NOT TO
 1. ⭐ **Make the Part 7 proposal an express cl 10.3.2 request.** Done — new **Part 7.2** in
