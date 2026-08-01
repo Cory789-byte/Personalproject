@@ -59,6 +59,11 @@ DOCS = [
       title="Notice of medical appointments arranged, and of costs",
       sub="Request for Medical Information dated 31 July 2026 &#183; MSH-INJ-5795",
       foot="Cory Lea Shepherd · MSH-INJ-5795 · Notice of medical appointments arranged, and of costs"),
+ dict(src="LETTER_CONFLICT_AND_INFORMATION.txt",
+      out="LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf",
+      title="Conflict of interest, delegation, and the handling of my personal information",
+      sub="Section 89, Public Sector Act 2022 &#183; Code of Conduct clause 1.2",
+      foot="Cory Lea Shepherd · MSH-INJ-5795 · Conflict of interest, delegation and information handling"),
 ]
 
 
@@ -82,6 +87,7 @@ def build(spec):
     # drop the title lines already rendered above
     head = [h for h in head if not h.startswith(("REQUEST FOR", "NOTICE OF DISPUTE",
                                                  "NOTICE OF MEDICAL", "Request for Medical",
+                                                 "CONFLICT OF INTEREST", "Section 89,",
                                                  "Clause 10.3.2,", "Section 27,",
                                                  "Clause 1.11.2(a),"))]
     if head:
