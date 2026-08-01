@@ -109,7 +109,7 @@ attachment-specific findings do not map onto these files. Check before acting on
 | ⭐ **cl 3.9.1 ≠ the grievance source** | ✅ **VALID and material** | **Fixed.** cl 3.9.1 is a **Schedule 3 (Variable Working Hours)** clause. Correct chain: **cl 1.12.1 → Award cl 7.2**, plus **Schedule 2** (E12, E13 preserved). Corrected in the powers map, the register and CLAUDE.md |
 | **ATT09 has no text layer** | ✅ **valid mechanism** | **Verified by page render, not softened.** All four quotations are verbatim correct — `documents/instruments/ATT09_VERIFIED_EXTRACTS.md` |
 | *"Soften ATT09 quotes"* | ⛔ **not needed** | The two uses in the 29/30 July drafts are **paraphrases**, and both are now **verified** by the render |
-| *"Soften ATT16 'cannot direct not to attend'"* | ⛔ **N/A** | **Never cited in this repo.** The hold-out argument runs on **PS Act s 101**, a real power with real conditions |
+| *"Soften ATT16 'cannot direct not to attend'"* | ⚠️ **I said it was not cited here. That was wrong** | ⭐ It **is** in `MASTER.md` and `skill/references/RFMI-compliance-test.md` — as **ATT18 (the IME Guideline) §4.1**, not ATT16. ✅ **But it is already scoped exactly as the audit asks:** listed under *"Banked — NOT in the response"* and *"deploy only if MSH moves to an IME."* ⛔ **It appears in none of the five documents going out Monday.** The hold-out argument runs on **PS Act s 101** |
 | *"Mark the 29/30 July documents superseded"* | ✅ **valid** | **Done — a header is now inside each file** |
 | *"Add a CURRENT.md"* | ✅ **valid** | **This file** |
 | *"Confirm EB12 10.3 before send"* | ✅ prudent | **Confirmed against ATT02.** cl 10.3.2–10.3.7 verified; **IR Act ss 27–29** verified |

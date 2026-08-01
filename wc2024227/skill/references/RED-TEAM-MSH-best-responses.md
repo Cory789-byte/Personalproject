@@ -82,6 +82,17 @@ to attend an examination. Run the division properly from here.
   employee's **absence** or unsatisfactory performance is caused by mental or physical illness"*.
   **His absence is caused by their direction of 2 July, not by illness.** He has said in writing he
   is willing and available.
+  ⚠️⚠️ **DO NOT OVERSTATE THIS — the IME Guideline cuts against it.** **ATT18, verified:**
+  *"It is **not limited to a voluntary absence** such as sick leave and **may include involuntary
+  absence such as suspension** in the context of a genuine workplace health or safety concern."*
+  ⇒ **An absence MSH caused may still satisfy s 103(a).** ⭐ **The argument that survives is the
+  narrower one:** s 103(b) requires the CE to suspect the absence is ***caused by* illness** — and on
+  MSH's own account the stated cause is the pending medical information, not the illness.
+  ⭐ **The very next sentence of the same passage helps him:** *"However, a chief executive **cannot
+  direct an employee not to attend the workplace for the purpose of requiring an employee to submit
+  to a medical examination**."* ⛔ **Banked. Deploy only if MSH moves to an IME** — it governs IMEs,
+  not a treating-practitioner request.
+
 - **s 103(a), second limb, is disclaimed by their own letter** — 31 July records that the Health
   Service is not aware of any concerns raised for appropriate management.
 - **s 105** permits sick leave to be withheld **only** where the employee fails to comply with a
