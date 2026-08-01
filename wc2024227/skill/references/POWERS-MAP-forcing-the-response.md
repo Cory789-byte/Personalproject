@@ -62,7 +62,7 @@ restarts the 21 days and hands MSH the delay back.
 | Stage 1 discussion | **cl 1.11.2(a)** | **within 24 h; not beyond 7 days** | escalate to Stage 2 |
 | Stage 2 conference | **cl 1.11.2(b)** | **not beyond 7 days** | Stage 3 EB12IG, then **Stage 4 QIRC** |
 | No unreasonable or intentional delay | **cl 1.11.5** | throughout | the delay itself becomes the issue |
-| Status quo maintained while the procedure runs | **cl 1.11.4** | from notification | ⚠️ "genuine safety issue" carve-out — see 3.8 |
+| Status quo maintained while the procedure runs | **cl 1.11.4** | from notification | ⚠️ "genuine safety issue" carve-out — see 3.9 |
 | WHS dispute unresolved locally → QH WHS Advisory Committee | **cl 7.1.4** | after cl 1.11.2(b) | a second escalation route |
 
 ## 3.2 Powers that compel an answer without a stated deadline
@@ -262,7 +262,79 @@ cl 1.11 gives him a lawful route to the Commission that does not depend on them 
 puts a named investigator into the matter. ⭐ **But it is the only track in the file that removes
 Taylor and Hughes by operation of the instrument itself.** Raise it with Petering before opening it.
 
-## 3.7 Distress — how it appears, and how it must not
+## 3.7 ⭐⭐ THE AD ACT — WHAT IT ACTUALLY GIVES, AND WHY THE PENALTIES STAY OUT OF THE LETTER
+**Verified against ATT20 (AD Act 1991 (Qld), current as at 19 May 2025).**
+
+### ⚠️ FIRST, THE HONEST ANSWER ON PENALTIES
+**Discrimination itself carries no penalty under the AD Act.** It is a **complaint statute** —
+QHRC complaint → conciliation → the QIRC for work matters, with orders including compensation. There
+is no fine for discriminating.
+
+**Every penalty provision in the Act, in full:**
+| s | Conduct | Maximum penalty |
+|---|---|---|
+| **127** | Discriminatory advertisement | 35 units (individual) / 170 (corporation) |
+| **128** | Inducement to publish one | 35 / 170 |
+| ⭐ **129** | **Victimisation** | ⭐ **45 penalty units or imprisonment for 3 months** (individual) / 170 (corporation) |
+| 145, 191 | Breach of an anonymity direction/order | 35 / 170; 100 |
+| 220 | Confidentiality | 85 units or 12 months / 170 |
+| 221 | False or misleading information to the Commissioner | 45 units or 3 months / 170 |
+| 222 | Obstruction | 35 / 170 |
+
+⇒ **Only s 129 is capable of touching this matter — and it is not enlivened yet.**
+**s 130(1)** requires the detriment be **because** the complainant *"refused to do an act that would
+amount to a contravention"*, *"in good faith, alleged, or intends to allege that a person committed
+an act that would amount to a contravention"*, or *"is, has been, or intends to be, involved in a
+proceeding under the Act"*. ⛔ **He has made no AD Act complaint and alleged no contravention.**
+
+### ⛔⛔ WHY IT DOES NOT GO IN THE REQUEST
+Citing s 129 would mean putting **a criminal penalty against individuals**, for conduct that **has
+not occurred**, into **a letter asking for a roster**. It is the single most damaging paragraph that
+could be added to this package: it converts a modest, verifiable request into a threat of
+prosecution, and it hands MSH the escalation narrative in one sentence — the one thing the whole
+drafting discipline has been built to deny them.
+
+### ⭐⭐ AND HERE IS THE USEFUL VERSION OF THE SAME POINT
+**s 129 is not a line in a letter now. It is a reason to lodge, and a shield afterwards.**
+The moment a QHRC complaint is lodged — or he alleges a contravention in good faith — **s 130 is
+enlivened**, and **any detriment from that point carries a criminal penalty** against the individual
+who imposes it. ⇒ **Lodging converts the whole employment relationship into protected territory.**
+That is worth far more than a sentence of deterrence now, and it is worth discussing with Petering
+before the AD Act limitation is reached.
+
+### ✅ WHAT WENT INTO THE REQUEST INSTEAD — Part 5, "The framework the decision sits in"
+Obligation, exemption and onus. Every one of them puts work on MSH:
+| Provision | What it does |
+|---|---|
+| ⭐⭐ **s 15(1)(f)** | must not discriminate *"by **treating a worker unfavourably in any way in connection with work**"* — very wide, and it fits exactly |
+| ⭐⭐⭐ **s 15(2)** | *"**dismissing** includes ending the particular work of a person by forced retirement, **failure to provide work** or otherwise"* — **five weeks of failure to provide work is inside the statutory definition of dismissing** |
+| **s 15(1)(a)** | *"in any variation of the terms of work"* |
+| **s 11** | indirect discrimination — a term the person is not able to comply with, **which is not reasonable** |
+| **s 7** | impairment is a protected attribute |
+| ⭐ **ss 35, 36** | the impairment exemptions — **each turns on unjustifiable hardship**. They are exemptions, so **MSH must bring itself within them** |
+| ⭐ **s 5** | unjustifiable hardship depends on the nature and **cost** of the services, **the financial circumstances of the person**, the disruption, and the benefit/detriment |
+| ⭐ **G03 cl 2** | the same test **in their own words**: *"tested against the whole organisation, not a division or unit"*, and *"the onus is on Queensland Health… to prove an adjustment is unreasonable"* |
+| **HRA s 58** | a public entity must act and decide compatibly with human rights and give proper consideration to them |
+| **s 25** | genuine occupational requirements — already asked at response Part 4 |
+| **s 124(3)** | onus on MSH that information was *"reasonably required"* — already at response Part 5.1 |
+
+⭐⭐ **THE JOIN THAT MAKES IT WORK.** cl 10.3.5 permits refusal *"only on **reasonable grounds**"*.
+ss 35–36 make refusal of the adjustment lawful **only on unjustifiable hardship**. s 5 and G03 cl 2
+say hardship is measured against **the whole of Metro South Health**. ⇒ **Grounds that would satisfy
+cl 10.3.5 must also survive s 35/36 — and the request now asks them to state which measure and what
+the hardship is.** On measures costing one telephone call, against one of the largest employers in
+the State, **that is a very hard sentence for them to write.**
+
+⇒ **Part 5.3 says expressly: "I have made no complaint under the Anti-Discrimination Act, and this
+letter is not one."** True, disarming, and it preserves everything.
+
+- [ ] ⏳ **s 138 — the limitation runs.** Date it with Petering. ⚠️ Different acts have different
+      dates; do not rely on a single one.
+- [ ] ⏳ **The positive duty** (from 1 July 2025 per the union background) is **not in ATT20, which
+      is current only to 19 May 2025.** ⛔ **Do not cite it until a current consolidation is
+      obtained.** **Download the current AD Act.**
+
+## 3.8 Distress — how it appears, and how it must not
 ✅ **"Distress peaks as a shift approaches."** Stated as the reason for a control, in the reasons
 section of a request the employer must decide. It is functional, it is his own words, and it is
 tied to a measure.
@@ -271,7 +343,7 @@ Report B and the appeal. In the employment track distress appears **only** as th
 is necessary — because that is the only place cl 10.3.3(c) requires it and the only place it cannot
 be used against him.
 
-## 3.8 ⚠️ WHERE MSH PUSHES BACK — ANTICIPATED, WITH THE ANSWER PRE-PLACED
+## 3.9 ⚠️ WHERE MSH PUSHES BACK — ANTICIPATED, WITH THE ANSWER PRE-PLACED
 | Their move | Where it comes from | Already answered at |
 |---|---|---|
 | *"Genuine safety issue"* — cl 1.11.4 carve-out; WHS Act s 19 | Taylor cited s 19 on 26 June, before any challenge | **Stage 1 notice §3** — asks them to identify the hazard, the reg 36 order, and why the ECC restrictions don't address it. **They have never produced an assessment.** |

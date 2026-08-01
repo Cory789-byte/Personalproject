@@ -191,7 +191,66 @@ I ask that the officer who makes the decision be identified to me, together with
 the delegation relied on.
 
 --------------------------------------------------------------------------------
-5.  THE TIME FOR THE DECISION
+5.  THE FRAMEWORK THE DECISION SITS IN
+--------------------------------------------------------------------------------
+
+I set this out for one reason only. Clause 10.3.5 permits the Health Service to grant the request
+in part or subject to conditions, or refuse it, "only on reasonable grounds". Grounds are
+reasonable against the whole of the law that applies, not against the agreement alone. If the
+request is refused in whole or in part, I would like to be able to understand the reasons given
+under clause 10.3.6 by reference to the same framework the Health Service is applying.
+
+5.1  THE OBLIGATION
+
+The Anti-Discrimination Act 1991 provides at section 15(1) that a person must not discriminate
+"in any variation of the terms of work", or "by treating a worker unfavourably in any way in
+connection with work". Section 15(2) provides that "dismissing includes ending the particular
+work of a person by forced retirement, failure to provide work or otherwise".
+
+Section 11 provides that indirect discrimination happens if a person imposes a term with which a
+person with an attribute does not or is not able to comply, and which is not reasonable.
+Impairment is a protected attribute under section 7.
+
+5.2  THE EXEMPTIONS, AND WHAT THEY REQUIRE
+
+Sections 35 and 36 provide that it is not unlawful to discriminate on the basis of impairment
+where the person would require special services or facilities and supplying them would impose
+unjustifiable hardship, or where the circumstances of the impairment would impose unjustifiable
+hardship.
+
+Those provisions are exemptions, and each of them turns on unjustifiable hardship. Section 5
+provides that whether something would impose unjustifiable hardship depends on all the relevant
+circumstances of the case, including the nature of the services or facilities, their cost and the
+number of people who would benefit or be disadvantaged, the financial circumstances of the
+person, the disruption that supplying them might cause, and the nature of any benefit or
+detriment to all people concerned.
+
+HR Policy G03 puts the same test in the Health Service's own words, at clause 2: unjustifiable
+hardship is "tested against the whole organisation, not a division or unit within the
+organisation", and "the onus is on Queensland Health, as the employer, to prove an adjustment is
+unreasonable, not on the person to prove that it is reasonable".
+
+I would add that the Health Service is a public entity for the purposes of the Human Rights Act
+2019, and section 58 of that Act requires a public entity to act and make decisions compatibly
+with human rights and to give proper consideration to relevant human rights in doing so.
+
+5.3  WHY I RAISE IT, AND WHAT I AM NOT DOING
+
+I have made no complaint under the Anti-Discrimination Act, and this letter is not one. I make no
+allegation against anyone and I ask for no finding to be made about anyone.
+
+I raise it because the measures at Part 2 are modest ones, and I would like the reasons for any
+refusal to engage with that. On the shifts I attend, the arrangement at 2.2 costs one telephone
+call. The roster at 2.1 is the roster the Health Service already sets. The complaint-handling
+arrangement at 2.4 is the Health Service's own established process. The correspondence routing at
+2.5 is what the Employee Capabilities Checklist itself recommends.
+
+If the Health Service considers that any of the measures would impose unjustifiable hardship, I
+ask only that it identify which measure, and what the hardship is. That is the same thing clause
+10.3.6 requires, expressed in the language of the Act.
+
+--------------------------------------------------------------------------------
+6.  THE TIME FOR THE DECISION
 --------------------------------------------------------------------------------
 
 Clause 10.3.6 provides:
@@ -217,7 +276,7 @@ not been given a date. The certified agreement provides one, and I would much pr
 request be dealt with by agreement well before it.
 
 --------------------------------------------------------------------------------
-6.  WHAT THIS REQUEST DOES NOT DO
+7.  WHAT THIS REQUEST DOES NOT DO
 --------------------------------------------------------------------------------
 
 For completeness:
