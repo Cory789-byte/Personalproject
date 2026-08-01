@@ -245,6 +245,39 @@ cl 1.11 gives him a lawful route to the Commission that does not depend on them 
 - [ ] **cl 7.1.4** — WHS matters unresolved at cl 1.11.2(b) may go to the **Queensland Health Work
       Health and Safety Advisory Committee**. A second exit from Stage 2, in parallel.
 
+### ⚠️⚠️ CORRECTION — STAGE 2 DOES **NOT** OPEN THE QIRC. STAGE 3 COMES FIRST.
+> Asked 1 August: *"if it gets to stage 2 I can go to the QIRC?"* **Not under cl 1.11.**
+
+**cl 1.11.2 has four stages, and the Commission is at the fourth:**
+| Stage | Who | Time | Verb |
+|---|---|---|---|
+| **1** | immediate supervisor | 24 h to start; not beyond 7 days | *should* |
+| **2** | appropriate management representative — **"who shall arrange a conference of the parties"** | not beyond 7 days | ⭐ *shall* |
+| ⚠️ **3** | **EB12 Implementation Group** → recommendation **to the Chief Executive of Queensland Health** | ⛔ **no time stated** | *may* |
+| **4** | ⭐ **"either party may refer matter to the QIRC"** | — | *may* |
+
+⚠️ **Stage 3 has no stated timeframe at all.** That is where a cl 1.11 dispute can be parked
+indefinitely, and it is the weakest link in the whole clause.
+
+## ⭐⭐ SO THE FAST LANE TO THE COMMISSION IS NOT THE DISPUTE — IT IS THE REQUEST
+| Route | Gets to the QIRC | How long | Depends on MSH? |
+|---|---|---|---|
+| ⭐⭐ **cl 10.3 / IR Act s 29** | **deemed refusal at day 21 → ch 6 jurisdiction**, which **s 28(4)(b) makes MSH state itself** | ⭐ **21 days, fixed** | ⛔ **no — the clock runs alone** |
+| **cl 1.11** | **Stage 4** | 7 + 7 + **unbounded Stage 3** | ✅ yes, at every stage |
+| **IR Act s 261/262** | notice to the registrar | on *"genuinely attempted to settle"* — **not on exhausting all four stages** | partly |
+| **cl 7.1.4** | ⚠️ **QH WHS Advisory Committee**, not the QIRC | after cl 1.11.2(b) | — |
+| **Award cl 7.2(g)** | *"referred to the Commission by the employee or the union"* | after grievance Stage 3 (14 days) | ⛔ **but costs the fair treatment appeal — s 132(4)(e)** |
+| **PS Act ch 3 pt 10** | ⭐ **IRC direct, s 134** | ⏳ **directive not held** | ⛔ no |
+
+⇒ ⭐⭐⭐ **The cl 10.3 request is the only route with a fixed date that MSH cannot extend, park or
+attend late.** **The dispute is the thorough lane; the request is the fast one.** That is the single
+best reason both went out on the same day.
+
+⚠️ **And "go to the QIRC" is not a remedy on arrival.** **s 262(3)** — the Commission acts *"by
+(a) conciliation in the first instance; and (b) if the commission considers conciliation has failed
+and the parties are unlikely to resolve the dispute—arbitration."* ⇒ **Conciliation first. Not an
+order on day one.**
+
 ### ⭐ IF HE WANTS A MANDATORY DUTY ON THE EMPLOYER FROM DAY ONE — THE GRIEVANCE TRACK
 **Award cl 7.2**, applied by **EB12 cl 1.12.1**, is drafted in stronger verbs than cl 1.11:
 - **7.2(c)** *"The employer **shall ensure** that: (i) the aggrieved employee or such employee's
