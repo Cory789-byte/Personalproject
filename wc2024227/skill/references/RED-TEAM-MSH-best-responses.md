@@ -146,6 +146,40 @@ like a mischaracterisation of *"on an IP claim, coded per guidelines"*.
 IP claim he himself lodged is the one thing in this matter that could make him look opportunistic,
 and it is avoidable by asking four questions first.
 
+## ⛔⛔ RANK 2B — GRANT THE REQUEST, AND STILL NOT RETURN HIM
+**The exit that is not refusal. It is cheaper for them than refusing and it defuses the whole
+instrument. ⚠️ Assume this is what they do.**
+
+**What they write, in one sentence:**
+> *"The request is granted. Your return to the workplace remains subject to the receipt of
+> satisfactory medical information."*
+
+⇒ ⭐ **That is full compliance with cl 10.3.6.** A grant needs no reasons, no reasonable grounds, no
+unjustifiable hardship, and no mention of the Commission's jurisdiction. **s 29 never operates.**
+And nothing changes: he is still out, still unpaid.
+
+⚠️ **This is why the untenability argument must not be over-read.** The request is untenable to
+**refuse**. It is easy to **grant**. **A grant is not a return.**
+
+### ⭐ WHY THE PACKAGE STILL WORKS — BUT ONLY BECAUSE THE DOCUMENTS ARE SEPARATE
+| Question | Which document carries it | Survives a grant? |
+|---|---|---|
+| The way he works | cl 10.3 request | resolved by the grant |
+| ⭐ **Whether he attends** | **Stage 1 notice §3 + §4(b)** — cl 1.11.4 status quo | ✅ **untouched** |
+| ⭐ **The pay and the leave** | **Stage 1 notice §4(c)** | ✅ **untouched** |
+| ⭐ **The instrument and the process** | **§2.6, §4(a); response Part 8** | ✅ **untouched** |
+
+⇒ ⭐⭐ **This is the whole reason for three documents instead of one.** A single letter would have
+been closed by a one-sentence grant. **Three cannot be.**
+
+### THE REPLY, SAME DAY, AND SHORT
+- [ ] Thank them for the grant and **accept it**.
+- [ ] ⭐ **One line: a grant of the roster pattern presupposes being rostered.** Ask on which date
+      the roster resumes.
+- [ ] ⭐ **Record that §4(b) and §4(c) of the dispute are unaffected and remain unresolved.**
+- [ ] ⛔ **Do not argue.** ⛔ **Do not treat the grant as a win or as a loss.** It is one of four
+      questions answered.
+
 ## ⚠️ RANK 3 — Grant the cl 10.3 request in part, and return him to work
 **Their best practical move, and — read carefully — a good outcome for him.**
 
