@@ -62,7 +62,7 @@ restarts the 21 days and hands MSH the delay back.
 | Stage 1 discussion | **cl 1.11.2(a)** | **within 24 h; not beyond 7 days** | escalate to Stage 2 |
 | Stage 2 conference | **cl 1.11.2(b)** | **not beyond 7 days** | Stage 3 EB12IG, then **Stage 4 QIRC** |
 | No unreasonable or intentional delay | **cl 1.11.5** | throughout | the delay itself becomes the issue |
-| Status quo maintained while the procedure runs | **cl 1.11.4** | from notification | ⚠️ "genuine safety issue" carve-out — see 3.6 |
+| Status quo maintained while the procedure runs | **cl 1.11.4** | from notification | ⚠️ "genuine safety issue" carve-out — see 3.7 |
 | WHS dispute unresolved locally → QH WHS Advisory Committee | **cl 7.1.4** | after cl 1.11.2(b) | a second escalation route |
 
 ## 3.2 Powers that compel an answer without a stated deadline
@@ -157,7 +157,50 @@ Also in cl 7.2, and worth holding: **7.2(f)** — Stage 1 24 h / 7 days, Stage 2
 union"*; **7.2(h)** — the **same status quo provision** as EB12 cl 1.11.4, in identical terms.
 ⇒ **The status quo clause appears twice, in two instruments.** It is not a drafting stray.
 
-## 3.5 Distress — how it appears, and how it must not
+## 3.5 ⭐⭐ "WHAT IS THIS PROCESS CALLED?" — Stage 1 notice §2.6 and §4(a)
+**Cory's question, added 1 August 2026. It is the shortest thing in the package and probably the
+most effective.**
+
+> *"Since 26 June 2026 I have been asked to provide medical information about myself, held out of my
+> rostered shifts, had my accrued leave debited and then been recorded as absent without pay, and
+> told that a decision will be made regarding my ability to perform my role.*
+> ***I do not know what this process is called.***"
+
+**The technical name for it is a request for particulars**, and the entitlement behind it is the
+hearing rule of procedural fairness: **a person cannot answer a process they have not been told the
+name of.** But it is deliberately not drafted in those words. It is drafted as a man asking what is
+happening to him.
+
+### Why it is stronger than any argument in the file
+| | Arguing it | Asking it |
+|---|---|---|
+| What MSH must do | rebut a legal proposition | **name the process** |
+| What they can say | "we disagree" | ⛔ nothing that helps them |
+| Risk of tipping them off | ⚠️ high — invites them to regularise under PS Act ss 103–109 | none — **it asks only for the name they should already have given** |
+| How it reads to a Commissioner | adversarial | **five weeks without pay, and he still hasn't been told what this is** |
+
+### ⭐ It is the same fork as Part 8 of the RFMI response, from the other side
+- Name **PS Act s 107** → s 103's entry test (disclaimed by their own 31 July letter) and s 104's
+  chief-executive requirement bite, and the unpaid exclusion has no home in the division.
+- Name **WHS Act s 19** → a duty has been cited as a power, and reg 36 has no removal step.
+  See `WHS-s19-a-duty-not-a-power.md`.
+- Name **a policy** → produce it, and it will have steps they have not followed.
+- Name **nothing** → ⭐ *the process has no name*, said by them, in writing, at Stage 1.
+
+### The powers behind the ask
+- **EB12 cl 1.11.1** — the objectives are achieved *"by measures based on the **provision of
+  information and explanation**, consultation, co-operation and negotiation."* ⇒ The question is
+  **squarely within the clause's own stated purpose.** They cannot say it is out of scope for Stage 1.
+- **QH-IMP-401-5** — the worker must be informed of *"the appropriate dispute resolution process to
+  follow in such cases where the worker does not agree with elements of a proposed workplace
+  rehabilitation plan or suitable duties program."* ⇒ **Never done.**
+- **Psychosocial Code of Practice 2022** — poor organisational justice, including lack of procedural
+  fairness, is a named hazard. ⛔ Do not cite this **at** them here; it is the union brief.
+
+⛔ **Do not add anything to §2.6.** Its force is that it is short, factual and unanswerable. Every
+sentence added gives them something to respond to *instead of* the question.
+
+## 3.6 Distress — how it appears, and how it must not
 ✅ **"Distress peaks as a shift approaches."** Stated as the reason for a control, in the reasons
 section of a request the employer must decide. It is functional, it is his own words, and it is
 tied to a measure.
@@ -166,7 +209,7 @@ Report B and the appeal. In the employment track distress appears **only** as th
 is necessary — because that is the only place cl 10.3.3(c) requires it and the only place it cannot
 be used against him.
 
-## 3.6 ⚠️ WHERE MSH PUSHES BACK — ANTICIPATED, WITH THE ANSWER PRE-PLACED
+## 3.7 ⚠️ WHERE MSH PUSHES BACK — ANTICIPATED, WITH THE ANSWER PRE-PLACED
 | Their move | Where it comes from | Already answered at |
 |---|---|---|
 | *"Genuine safety issue"* — cl 1.11.4 carve-out; WHS Act s 19 | Taylor cited s 19 on 26 June, before any challenge | **Stage 1 notice §3** — asks them to identify the hazard, the reg 36 order, and why the ECC restrictions don't address it. **They have never produced an assessment.** |
