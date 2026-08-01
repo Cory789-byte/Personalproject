@@ -365,6 +365,25 @@ and risks."
 What is sought is a workplace risk assessment, not a medical opinion. A doctor can advise on
 me; a doctor cannot assess the Health Service's reporting arrangements.
 
+I add one thing about the information the Health Service says it lacks. The letter of 7 July
+2026 records that my practitioner had advised of "unresolved workplace matters involving line
+management", and that the Health Service "does not have sufficient information to understand the
+nature of these matters or assess whether they present any psychosocial hazards or risks".
+
+That gap is real, and I am not disputing it. But it is closed by the Health Service consulting
+and assessing, not by my doctor. Sections 47 to 49 of the Work Health and Safety Act 2011
+require consultation with workers who are directly affected — when identifying hazards, when
+deciding how to control them, when proposing changes, and when deciding the procedures for
+monitoring the health of workers. I have not been consulted at any point since 26 June 2026.
+
+For completeness, the matters my practitioner was referring to concern how work in the unit is
+organised and decided, rather than any individual. They include how patient safety concerns
+raised at the switchboard are escalated; how changes to the work and the roster have been
+introduced; fatigue and recovery between shifts; and the ability of staff to have input into
+decisions affecting the work. I set that out here only because the Health Service says it does
+not know what the matters are, and because they are workplace matters — which is why the
+assessment belongs with the Health Service.
+
   → FOR THE HEALTH SERVICE: a risk assessment of the Switchboard work environment addressing
     the psychosocial hazards identified. Clause 7.2.1 of the Queensland Public Health Sector
     Certified Agreement provides the mechanism.
@@ -480,10 +499,44 @@ question resting on that premise.
 PART 6 — DELEGATION AND CONFLICT OF INTEREST
 --------------------------------------------------------------------------------
 
+Before anything else in this Part: this is not a personal complaint about any individual. I make
+no allegation about anyone's character or motives and I ask for no finding to be made about
+anyone. My concern is with how the process is being run — who is deciding, on what material, and
+under what instrument.
+
+I should also say what I think should have happened, because it frames the rest. When an
+employee is diagnosed with an illness and is certified fit with restrictions, the Health
+Service's own policies contemplate managerial support and reasonable adjustment so that the
+person can continue or return to work safely. G03 provides at clause 1.1 for temporary
+adjustments so an employee may "continue work during their recovery". The Workplace
+rehabilitation standard requires that meaningful suitable duties be identified and actively
+sought and made available wherever reasonably practicable, and that the worker's connection with
+the workplace be maintained — and it applies to a worker requiring rehabilitation for "either a
+work or non-work-related injury/illness". I obtained the checklist the Health Service required
+for that purpose. It certified me fit with restrictions. What followed was exclusion rather than
+adjustment, and no adjustment plan has been identified to me. I raise that as a question about
+process, not about people.
+
+The other half of it is due process — the way those decisions are made. In this setting that
+means being told what power is being used and who is deciding; a fair opportunity to respond
+before a serious employment consequence; consultation on the workplace and psychosocial matters
+in issue; deadlines and consequences that are not one-sided; and decisions about my return and my
+pay made by an officer independent enough of the matters they concern. The Managing the risk of
+psychosocial hazards at work Code of Practice 2022 calls the same thing organisational justice,
+and treats its absence as a psychosocial hazard.
+
+I do not say that any tribunal has found a denial of fair process. I say that the process
+described above has not been applied, and I ask that it be.
+
 I raised the question of who is making decisions about me, and whether any conflict of interest
 has been identified, in my email of 28 July 2026, in which I asked the Health Service to identify the
 delegate and instrument for each day from 3 July 2026. I have not received a response. I ask again, and ask
 that it be answered in writing.
+
+I have also written separately to the Chief Executive today about the conflict and the handling
+of my personal information, because section 89 of the Public Sector Act 2022 makes the chief
+executive the person to whom a conflict is disclosed. That letter deals with the matter in full.
+This Part records it only so far as it bears on the questions asked of my practitioners.
 
 Both letters of 31 July 2026 are written in the first person of the Injury Management
 Consultant — "I am seeking further clarification", "I require further information", "I will

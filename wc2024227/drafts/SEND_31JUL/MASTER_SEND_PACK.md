@@ -13,7 +13,7 @@
 | **1b** | Notice of medical appointments arranged, and of costs | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 3 | defeats the 7-day threat; **accepts their written costs commitment of 31 July** | — |
 | **2** | ⭐ Request for a change in the way I work | `REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` | 5 | **EB12 cl 10.3.2 · IR Act s 27(1)(a) and (c)** | ⭐⭐ **21 days — cl 10.3.6; s 29 deems refusal** |
 | **3** | ⭐ Notice of dispute — Stage 1 | `NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` | 4 | **EB12 cl 1.11.2(a)** | 24 h / 7 / 7 → Stage 3 → **QIRC** |
-| **4** | ⭐ Conflict of interest, delegation and information handling — ⭐ **to the CHIEF EXECUTIVE** | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 3 | **PS Act s 89(1)(a), (b), (2)** · Code cl 1.2 · IP Act | ⛔ none — **but s 89(1)(b) is a prohibition** |
+| **4** | ⭐ Conflict of interest, delegation and information handling — ⭐ **to the CHIEF EXECUTIVE** | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 5 | **PS Act s 89(1)(a), (b), (2)** · Code cl 1.2 · IP Act | ⛔ none — **but s 89(1)(b) is a prohibition** |
 
 ## ⭐⭐ WHY DOCUMENT 4 WAS PULLED OUT OF THE RESPONSE
 **s 89(1)(b) is not a discretion. It is a bar:**
