@@ -56,6 +56,68 @@ unprotected while they have not noticed the problem.**
 
 ---
 
+# PART 1A — ⭐⭐⭐ THE DISTINCTION THAT DECIDES IT: ASKING IS NOT EXCLUDING
+> Cory, 1 August: *"they can not exclude me based on this request — they could make the request,
+> but where have they power? if it was a concern, none."*
+> **This is the cleanest statement of the case, and it is right. Two separate acts, two separate
+> authorities, and they have conflated them for five weeks.**
+
+## 1A.1 The two acts
+| Act | Authority | Position |
+|---|---|---|
+| **Asking for medical information** | a lawful and reasonable direction; or **PS Act s 104** (CE + appointed doctor) | ⚠️ **Concede this. They may ask.** Fighting it wastes the strong point |
+| ⭐ **Declining his services while they wait** | ⛔ **nothing identified in five weeks** | **This is the gap** |
+| ⭐⭐ **Declining to pay him while declining his services** | ⛔ **nothing identified, and it is a third act again** | **This is the hole** |
+
+⇒ **A power to request is not a power to exclude, and a power to exclude is not a power to withhold
+wages.** ⛔ **There is no provision anywhere in the PS Act, the certified agreement, G03 or
+QH-IMP-401-5 which says that pending receipt of medical information an employee may be held out of
+the workplace without pay.** If it existed it would have been cited by now; they have been asked
+three ways.
+
+## 1A.2 ⭐⭐⭐ READY, WILLING AND ABLE — THE PROPOSITION UNDERNEATH ALL OF IT
+**An employee who is ready, willing and able to work, and who tenders performance, is entitled to
+wages. If the employer elects not to accept the services, the wages remain payable.** The employer's
+election does not discharge the obligation.
+
+⭐ **That is why PS Act s 101(4) makes suspension paid by default — the statute reflects the general
+position, it does not create an exception to it.**
+
+⚠️ **Their only answer is "he may not be able" — and their own letter closes it.**
+The 7 July 2026 letter: ***"you have been certified fit to return to work effective from 3 July
+2026."*** ⇒ **On MSH's own document he is certified fit.** Restrictions are not incapacity.
+
+⇒ **Stage 1 notice §4(d) now puts it in exactly that form** — ready, willing and able; services
+offered and not accepted; no work provided; no leave asked for — and then the single question:
+> *"I do not say the Health Service may not seek medical information. **It may ask.** What I have not
+> been able to identify is the provision under which, **having asked, it may both decline my services
+> and decline to pay me.** If there is one, I ask to be told what it is."*
+
+⭐ **Conceding the first half is what makes the second half unanswerable.** Discipline rule 6 —
+restraint as posture; concede what is available and it makes the rest grantable.
+
+## 1A.3 ⭐⭐ AND IF THE CONCERN WAS GENUINE, SIX LAWFUL COURSES WERE OPEN. NONE WAS TAKEN.
+| Available | What it required | Used? |
+|---|---|---|
+| **PS Act s 101** suspension | CE, notice, dates, alternatives considered — **and pay** | ⛔ no |
+| **PS Act s 104** medical examination | CE, **appointed** doctor, examination; **s 105** the only basis for withholding leave, and only on **non-compliance** | ⛔ no — nine questions to his own GP |
+| **WHS Reg 36** hierarchy of control | substitute, isolate, engineering, administrative, PPE — **in order** | ⛔ no assessment at all |
+| **Suitable / alternative duties** | QH-IMP-401-5 §2.1; **s 101(3)** makes it a mandatory pre-condition | ⛔ **refused "in any capacity"**, 15 Jul |
+| **Paid special leave** under the applicable directive | a decision, and money | ⛔ no — his own leave, then nothing |
+| **Consultation** — WHS ss 47–49 | mandatory | ⛔ none, before or since |
+
+## ⭐⭐⭐ THE FINDING — AND IT ALLEGES NOTHING
+**Six lawful courses were open. Each one requires either a senior decision-maker, a written record,
+or money. None was taken.**
+
+**The course actually taken required no instrument, no decision-maker, no date, and no cost to the
+Health Service — because it was funded out of his leave, and then out of nothing.**
+
+⛔⛔ **Never write that last sentence to MSH.** ⭐ **Put the six-row table in the union brief and
+let Petering say it.** Every row is a document; the inference assembles itself.
+
+---
+
 # PART 2 — IF THEY DISMISS
 
 ## 2.1 ⚠️ THE PRECEDENT IS IN HIS OWN FILE
