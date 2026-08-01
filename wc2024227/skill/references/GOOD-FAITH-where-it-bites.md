@@ -93,6 +93,78 @@ else to draw.** ⭐ **That is the whole method: the asymmetry does the work; he 
 
 ---
 
+# PART 3A — ⛔⛔⛔ THE NOTICE CANNOT NAME THEM AS CO-CONSPIRATORS
+> Asked 1 August 2026. **The answer is no, and it is not a close question.** Recorded here because
+> the impulse is legitimate and will recur — five weeks unpaid, two officers, one pattern.
+
+## 3A.1 It does not fit the clause
+**cl 1.11.2 governs *"any disagreement between the parties as to the interpretation, application or
+implementation of this Agreement."*** A cl 1.11 dispute is between **the employee and the
+employer**. ⛔ **It has no respondents, makes no findings about individuals, and imposes no
+liability on anyone.** Naming two officers as conspirators in it is not a strong version of the
+notice — **it is a category error**, and it invites the same scope objection as the AD Act, only
+fatal instead of inconvenient.
+
+## 3A.2 "Conspiracy" is a pleaded tort he would have to prove
+Civil conspiracy requires **an agreement between two or more persons**, to injure, **by unlawful
+means**, with the requisite intent, causing damage. ⛔ **It is among the hardest causes of action in
+the common law.** Asserting it in correspondence and being unable to prove it does not cost nothing
+— **it is the thing the other side quotes back for the next two years.**
+
+## 3A.3 ⚠️ It rewrites what the whole file is about
+| Today | The moment "co-conspirators" is written |
+|---|---|
+| An employee asking that the agreement be applied | **A man alleging a conspiracy against two named managers** |
+| Questions with no good answers | **An allegation with an obvious answer: prove it** |
+| Their conduct under examination | ⛔ **His judgement under examination** |
+| Nothing for them to defend | **Something to defend, and a reason to close ranks** |
+
+⇒ ⛔⛔ **It supplies the one narrative MSH has failed to build in two years, in a single compound
+noun — and supplies it in his own handwriting.** Discipline rules **1** and **2**; and the model
+puts accusation framings at **−16 to −26**.
+⚠️ **And it carries real defamation exposure.** PID Act **s 38** gives absolute privilege to the
+disclosure. ⛔ **It does not cover a cl 1.11 notice circulated to HR, the union and two officers.**
+
+## 3A.4 ⭐⭐ AND IT IS UNNECESSARY — THE STATUTE REACHES THEM WITHOUT HIM SAYING A WORD
+| Provision | What it does to individuals |
+|---|---|
+| ⭐ **IR Act s 571** | **accessorial liability** — a person "involved in" a contravention is treated as having contravened it |
+| **IR Act s 307** | advising, encouraging, inciting or coercing the action |
+| ⭐ **IR Act s 306** | **the reverse onus** — they must disprove the reason |
+| ⭐⭐ **PID Act s 40** | *"**A person** must not cause… detriment"* — individuals, not just the entity |
+| ⭐⭐ **PID Act s 41** | **167 penalty units or 2 years imprisonment. Indictable.** |
+| **PID Act s 40(5)** | enough that the unlawful ground is **a substantial ground** |
+| **PID Act s 43** | vicarious liability of the entity **as well** |
+| **PS Act ss 266–270** | indemnity is **not immunity** — see `personal-liability-hughes-taylor.md` |
+
+⇒ ⭐⭐⭐ **Personal liability attaches by operation of statute, on findings a tribunal makes. It does
+not attach because he asserted it in a letter — and asserting it makes those findings less likely,
+not more.**
+
+## 3A.5 ⭐ WHAT IS ALREADY DOING THE WORK HE WANTS DONE
+**The two-officer dimension is on the record in all three documents right now — as a procedural
+question that must be answered, not a characterisation that can be denied:**
+- **Response Part 6** — who is the delegate; what is the source of the delegation; has a conflict
+  been identified and managed; were the 2 and 3 July decisions made with the knowledge or approval
+  of the officer now deciding
+- **Request §4** — that the decision be made **outside Corporate Services**
+- **Notice §5** — that MSH **nominate** the officer to conduct Stage 1
+
+⇒ **That puts the relationship between the Manager and the Director squarely in issue, forces an
+answer, and characterises no one.** ⭐ **It is the same point, made in the only register that
+survives contact with a decision-maker.**
+
+## 3A.6 WHERE THE TWO-OFFICER CASE IS ACTUALLY BUILT
+| Venue | How |
+|---|---|
+| ⭐ **Cross-examination** | put the 7 July letter to its author and ask what assessment followed. **This is where it is established** |
+| ⭐ **PID track** — `pid-reprisal-track.md` | s 40(5) substantial ground; the s 42 tort; s 571 accessorial |
+| **`hughes-implication-assessment.md`** | 26 emails already measured — the asymmetry, held in reserve |
+| **Union brief** | Petering may characterise. **He may not.** |
+| ⛔ **Any letter to MSH** | **never** |
+
+---
+
 # PART 4 — WHERE IT DOES GO
 | Destination | Use |
 |---|---|
