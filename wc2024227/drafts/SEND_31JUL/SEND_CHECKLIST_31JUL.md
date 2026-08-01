@@ -5,19 +5,26 @@
 | Item | File | Goes to |
 |---|---|---|
 | Covering email | `RFMI_RESPONSE_EMAIL.txt` | Michelle Harrison, cc LBH.HRTeam1 |
-| Attachment | `drafts/out/RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` (8pp, A4, scrubbed) | as attachment |
+| Attachment | `drafts/out/RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` (14pp, A4, scrubbed) | as attachment |
 | Not sent to MSH | `NOTE_FOR_DR_MA.txt` | Dr Ma only, with the RFMI documents |
 
 **To:** lbh_InjuryManagement@health.qld.gov.au
 **Cc:** LBH.HRTeam1@health.qld.gov.au
 **Subject:** Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073]
 
-## Before you send — 2 fields to fill
+## Before you send — 3 fields to fill
 
 - [ ] **PDF header, page 1 — "Response date:"** — insert the date you send.
 - [ ] **PDF page 5, Part 6, first line — `[DATE]`** — the date of the earlier email in which you
       raised the delegation / conflict question. Use the actual date; "previously" invites them to
       say they don't recall it.
+- [ ] ⭐ **Part 7.2 — `[21DAYDATE]`** — the send date **plus 21 calendar days**, being the day
+      EB12 cl 10.3.6 requires MSH's written decision. *(Send 1 Aug → **22 August 2026**. Send
+      2 Aug → 23 August 2026. Recompute if the send slips — a wrong date here is worse than none,
+      and if you would rather not commit to one, delete the sentence containing it; the clause
+      still runs.)*
+      **Then diarise that date.** Under **IR Act s 29**, silence to that date is a **deemed
+      refusal** — which is a decision, and which carries no stated grounds.
 
 *(Edit `RFMI_ALLOCATION_AND_PROPOSAL.txt`, then re-run `python3 build_alloc_pdf.py` from the repo
 root. Metadata is scrubbed automatically — verify with `pdfinfo` that Custom Metadata and Metadata

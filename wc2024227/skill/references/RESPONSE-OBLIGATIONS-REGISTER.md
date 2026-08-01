@@ -66,6 +66,96 @@ numbers carry it.
 | 14 | **Consult on roster change** / psychosocial risk assessment | **EB12 cll 7.1.11, 7.2** | 15 Apr 2024 on-call change | ⛔ *"effective from today"* |
 | 15 | Identify the **instrument authorising** the exclusion and the leave treatment | — | Since 26 Jun 2026 | ⛔ **Never identified in 5 weeks** |
 | 16 | Decide the **DFVL** entitlement under the applicable directive | **Directive 03/20**, **HR Policy C73** | 12 Mar 2025 | ⛔ *"Noted thanks"*; refused 16 days later |
+| ⭐ 17 | **Give written notice of a decision on a flexible working request within 21 days, with reasons outlining the reasonable grounds** | **EB12 cl 10.3.6**; **IR Act s 28(3),(4)** | On receipt of the Part 7 request | ⏳ **Clock starts on service** |
+
+---
+
+# ⭐⭐⭐ PART 2A — THE ANSWER TO "IS THERE A POWER AND A POLICY ON IT?"
+
+**Yes. Three, and one of them is hard-edged.** Verified against ATT02 (EB12 CA No. 12 of 2025)
+and ATT22 (IR Act 2016 (Qld), current as at 1 Jan 2026) — pinpoints below are from the source PDFs.
+
+## 2A.1 ⭐⭐ EB12 cl 10.3 — Flexible Working Arrangements — **the 21-day gun**
+
+| Clause | What it does |
+|---|---|
+| **10.3.2** | An employee *"may ask the employer for a change in the way the employee works, including the employee's ordinary hours of work"* |
+| **10.3.3** | The request **must** be (a) in writing; (b) state the change *"in sufficient detail to allow the employer to make a decision"*; (c) **state the reasons** |
+| **10.3.4** | Employer may grant / grant in part or on conditions / refuse |
+| **10.3.5** | May grant in part, on conditions, or refuse **"only on reasonable grounds"** |
+| ⭐⭐ **10.3.6** | *"The employer **must give the employee written notice about its decision within 21 days** after receiving the request… the written notice **must state the reasons for the decision, outlining the reasonable grounds**"* |
+
+**And the Act behind it is stronger than the clause.** IR Act 2016 (Qld) Ch 2 Pt 3 Div 4:
+- **s 27(1)(c)** — the request may be for *"a change to the way the employee works, for example, the
+  use of different equipment **as a result of a disability, illness or injury**."* ⇒ **This case is
+  the statutory example.**
+- **s 28(3)** — *"must give… written notice about its decision within 21 days"*
+- ⭐ **s 28(4)(b)** — a refusal notice **must also state** *"that the commission has jurisdiction to
+  hear and decide a dispute over the request under chapter 6"*
+- ⭐⭐⭐ **s 29 — DEEMED REFUSAL:** *"If the employer does not give the written notice… within 21
+  days after receiving the request, the employer is **taken to have decided to refuse** the
+  request."* Note: *"The commission has jurisdiction to hear and decide a dispute over the request
+  under chapter 6."*
+
+### ⭐⭐⭐ WHY THIS IS THE FIND
+**Part 1 of this register measured the pattern: MSH answers leave questions in 15 minutes and
+attendance questions not at all. Clause 10.3.6 is the one provision in the whole file that makes
+silence cost them something.**
+
+| | Without cl 10.3 | With cl 10.3 |
+|---|---|---|
+| If MSH replies | It replies | It must reply **in writing, with reasons, on reasonable grounds** |
+| **If MSH says nothing** | Nothing happens. Week six. | ⭐ **s 29: deemed refusal at day 21** — a decision exists, and it is reviewable |
+| Route if refused | Nothing specific | **QIRC, ch 6** — s 261 notice, s 262 conciliation then arbitration |
+| Who carries the onus | Him, to keep asking | **MSH, to show reasonable grounds** — and G03 cl 2 already puts that onus on the employer, *"tested against the whole organisation"* |
+
+⇒ **Non-response is no longer a wall. It is a mechanism.** Five weeks of unanswered questions
+produced nothing. Twenty-one days of silence on this one produces a deemed refusal with no stated
+grounds — which is a materially worse position for MSH than answering.
+
+⇒ **And it supplies the date.** He has asked repeatedly for a date by which he would be told
+whether he is returning. He has never been given one. **The certified agreement gives him one, and
+MSH cannot decline to set it.**
+
+## 2A.2 EB12 cl 1.11 — Prevention and Settlement of Disputes
+- **1.11.2(a) Stage 1** — supervisor; *"discussions should take place within 24 hours, and the
+  procedure should not extend beyond seven days"*
+- **1.11.2(b) Stage 2** — management conference; *"should not extend beyond seven days"*
+- **1.11.2(c) Stage 3** — EB12 Implementation Group → recommendation to the Chief Executive
+- **1.11.2(d) Stage 4** — *"either party may refer the matter to the QIRC"*
+- ⭐⭐ **1.11.4** — *"**the status quo existing before the emergence of a dispute is to continue**
+  whilst the procedure is being followed. No party shall be prejudiced as to the final settlement by
+  the continuation of work."*
+- **1.11.5** — *"no party shall act in a manner unreasonably or intentionally delay the timely
+  resolution of a dispute."*
+
+⭐ **1.11.4 is the return-to-work argument in the employer's own agreement.** The status quo before
+26 June 2026 was **rostered and working**. On MSH's construction the status quo during a dispute is
+exclusion without pay — which is the opposite of what the clause says. ⚠️ Note the counterweight:
+**cl 1.11.4 also says "normal work is to continue"** and **Schedule cl 3.9.1** says employees *"must
+comply with managers directions until the grievance is resolved"* (work-now-grieve-later). **That
+cuts his way here, not against him** — he is the one asking to work.
+
+## 2A.3 EB12 cl 1.12 — Employee Grievance Procedure
+- **1.12.1** — applies **cl 7.2 of the HHS General Employees (Queensland Health) Award – State
+  2015** (held as **ATT03**) to all streams
+- **1.12.2** — does not limit any other dispute resolution provision ⇒ **the tracks run in parallel**
+- **HR Policy E12 — Individual employee grievances** — named in EB12 at cl 3.9.1 ⛔ **not yet held.
+  Request it.**
+
+## 2A.4 ⚠️ HOW TO USE IT — AND HOW NOT TO
+1. ⭐ **Make the Part 7 proposal an express cl 10.3.2 request.** Done — new **Part 7.2** in
+   `RFMI_ALLOCATION_AND_PROPOSAL.txt`. It recites 10.3.3(a)–(c) so the request cannot be
+   characterised as informal, and quotes 10.3.6 so the date cannot be treated as optional.
+2. ⛔ **Do not threaten the Commission.** s 28(4)(b) makes MSH state the jurisdiction itself. Let
+   the clause do it. The draft cites s 29 as a provision, not as a consequence.
+3. ⭐ **Keep it separate from the RFMI answers.** A cl 10.3 decision disposes of the *request*, not
+   of Parts 4, 8, 9, 10 and 11. Part 7.2 says so expressly, so a partial grant cannot be treated as
+   answering everything.
+4. **Diarise day 21 from the date of service** and, separately, **cl 1.11 Stage 1 → Stage 2 at
+   7 + 7 days** if the dispute route is opened. **Petering runs cl 1.11; Cory runs cl 10.3.**
+5. ⚠️ **One request, one clock.** Do not re-send or restate the request later — a fresh request
+   restarts the 21 days and hands MSH the delay back.
 
 ---
 
