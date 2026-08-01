@@ -294,6 +294,46 @@ could be added to this package: it converts a modest, verifiable request into a 
 prosecution, and it hands MSH the escalation narrative in one sentence — the one thing the whole
 drafting discipline has been built to deny them.
 
+### ⚠️⭐ CORRECTION — s 129 IS THE WEAKEST OF THE THREE, AND IT IS NOT THE ONE THAT IS LIVE
+> Cory: *"i have made a complaint about chloe and scott"*. **He has — and the point is right, but
+> it lands on a different statute.**
+
+**s 130 requires an allegation of a contravention of the *Anti-Discrimination Act* specifically.**
+⛔ **A repo-wide search of every source document returns no instance of the word "discriminat".**
+The complaints on the record — 13 May 2024 to the ESU, 4 October 2025, February 2026, 28 July 2026 —
+are not framed as discrimination. **So AD Act s 130 is not enlivened on the material held.**
+
+⭐⭐ **But that is the weakest of the three reprisal regimes, and the strongest one has been fully
+enlivened since 24 December 2024.**
+
+| | AD Act s 129 | ⭐⭐ **PID Act s 41** | IR Act general protections |
+|---|---|---|---|
+| Trigger | an AD Act allegation | ⭐ **having made a PID** | exercising a **workplace right** |
+| Status | ⛔ **not enlivened** | ✅ **DETERMINED — ESU letter 24-ESU-1130, 24 Dec 2024** | ✅ live |
+| Penalty | 45 units **or 3 months** | ⭐⭐ **167 penalty units or 2 years imprisonment — indictable** | civil penalties |
+| Civil route | QHRC complaint | ⭐⭐ **s 42 — reprisal IS A TORT; damages incl. exemplary** | **s 306 reverse onus**; **s 571 accessorial** |
+| Entity liability | — | ⭐ **s 43 — vicarious liability of the public sector entity** | — |
+| Causation bar | "because" | ⭐ **s 40(5) — enough that the unlawful ground is *a substantial ground*, even if there is another ground** | reverse onus |
+
+⇒ **The PID Act penalty is roughly four times the fine, eight times the imprisonment, indictable,
+and carries a damages tort the AD Act does not have — and it is already engaged.** The ESU letter
+states the protection expressly: *"a criminal offence for a person to cause… detriment to you
+because you made a PID (ss 40–42 PID Act)"*, with detriment defined to include *"adverse treatment
+about career, profession or employment."*
+
+⚠️ **The defence, stated honestly:** **reasonable management action taken reasonably is not a
+reprisal.** The ESU letter itself restates it. So the reprisal must be proved on its own facts —
+which is precisely what the measured record is for, not what a letter can assert.
+
+⛔⛔ **AND IT STILL DOES NOT GO IN THE LETTERS.** Discipline rule 8 — the reprisal track is
+sequenced behind the WC settlement, and rules 1–2 keep it off the employment correspondence
+entirely. Putting **s 41** in front of Hughes and Taylor would be the same error as s 129, only
+worse: the penalty is imprisonment. ⇒ **See `pid-reprisal-track.md`. That is where this lives.**
+
+⭐ **And s 130 is not shut either.** It needs only that he *"in good faith, alleged, **or intends to
+allege**"* a contravention — s 130(1)(a)(ii) — and **s 130(1)(b)** extends it to where the
+respondent merely **believes** he intends to. **It is a step available to him, not a door closed.**
+
 ### ⭐⭐ AND HERE IS THE USEFUL VERSION OF THE SAME POINT
 **s 129 is not a line in a letter now. It is a reason to lodge, and a shield afterwards.**
 The moment a QHRC complaint is lodged — or he alleges a contravention in good faith — **s 130 is
