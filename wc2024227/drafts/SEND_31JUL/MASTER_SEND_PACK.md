@@ -13,7 +13,7 @@
 | **1b** | Notice of medical appointments arranged, and of costs | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 2 | defeats the 7-day threat; puts the fee on them | — |
 | **2** | ⭐ Request for a change in the way I work | `REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` | 5 | **EB12 cl 10.3.2 · IR Act s 27(1)(a) and (c)** | ⭐⭐ **21 days — cl 10.3.6; s 29 deems refusal** |
 | **3** | ⭐ Notice of dispute — Stage 1 | `NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` | 4 | **EB12 cl 1.11.2(a)** | 24 h / 7 / 7 → Stage 3 → **QIRC** |
-| **4** | ⭐ Conflict of interest, delegation and information handling | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 3 | **PS Act s 89** · Code cl 1.2 · IP Act | ⛔ none — **but s 89(1)(b) is a prohibition** |
+| **4** | ⭐ Conflict of interest, delegation and information handling — ⭐ **to the CHIEF EXECUTIVE** | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 3 | **PS Act s 89(1)(a), (b), (2)** · Code cl 1.2 · IP Act | ⛔ none — **but s 89(1)(b) is a prohibition** |
 
 ## ⭐⭐ WHY DOCUMENT 4 WAS PULLED OUT OF THE RESPONSE
 **s 89(1)(b) is not a discretion. It is a bar:**
@@ -40,12 +40,17 @@ clock, and each document says on its face that it does not answer the others.**
 | **1** | lbh_InjuryManagement | LBH.HRTeam1 | **docs 1 + 1b** | Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073] |
 | **2** | lbh_InjuryManagement | HRTeam1; Hughes; Taylor; Petering; Moran | **doc 2** | Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795 |
 | **3** | **chloe.taylor3@health.qld.gov.au** | Hughes; HRTeam1; Injury Mgmt; Petering; Moran | **doc 3** | Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026 |
-| **4** | **LBH.HRTeam1** | Injury Mgmt; Petering | **doc 4** | Conflict of interest and information handling — C Shepherd, MSH-INJ-5795 |
+| **4** | ⭐ **The Chief Executive, Metro South Health** | LBH.HRTeam1; Injury Mgmt; Petering | **doc 4** | Conflict of interest and information handling — C Shepherd, MSH-INJ-5795 |
 
 ⚠️ **Email 3 must go to Taylor.** cl 1.11.2(a) requires the immediate supervisor be informed. Skip
 her and MSH can say Stage 1 never started, so Stages 2–4 never opened. §5 of the notice handles the
 conflict inside the same document.
-⚠️ **Email 4 goes to HR, not Corporate Services** — Hughes is not copied. That is the point of it.
+⭐ **Email 4 goes to the CHIEF EXECUTIVE.** Not as escalation — **s 89 makes the chief executive the
+person to whom a conflict is disclosed and the only person who may authorise an officer to continue
+to act.** On the terms of the section there is no one else who can answer it. HR is copied; **Hughes
+and Taylor are not.**
+
+⛔⛔ **AND IT DOES NOT GO TO MSH LEGAL. See Part 7A.**
 
 ## ⭐ AND ONE EMAIL BEFORE ANY OF THEM
 **`PETERING_URGENT_EMAIL.txt` → Emily Petering, cc Heath Moran.** One question: **is an appeal
@@ -141,6 +146,49 @@ regimes at once.**
 4. ⛔ **Do not re-send or restate the cl 10.3 request.** A fresh request restarts the 21 days.
 5. ⛔ **Do not open the cl 1.12 grievance yet** — duplication/abeyance, and **PS Act s 132(4)(e)**
    narrows the fair treatment appeal to the outcome only.
+
+---
+
+# PART 7A — ⛔⛔ WHY IT DOES NOT GO TO MSH LEGAL
+**The Chief Executive: yes. MSH Legal: no — and the distinction is not a fine one.**
+
+**Metro South Health's legal team is the opposing party's legal team in WC/2024/227.** The objection
+of **5 June 2026 (ref K-LM26/729)** was signed by the **Chief Executive**, with enquiries directed to
+**Myla Ruttan, Principal Lawyer**. They are running the case against him **right now**, and the
+**mention is 7 August 2026**.
+
+| Sending the employment file to MSH Legal | Consequence |
+|---|---|
+| **Collapses the separation of tracks** | Discipline rule 8. The employment track has been kept scrupulously apart from the appeal. **One email undoes it.** |
+| **Hands them the whole employment picture** | They have the appeal. **They do not necessarily have the RFMI, the ECC, the exclusion correspondence, or the medical allocation** — some of which touches causation, which is in issue |
+| ⚠️ **Six days before the mention** | The standing posture is that Dwyer discovers MSH's problems himself. **Volunteering the employment dispute to opposing lawyers days out is the opposite** |
+| **Changes who answers** | HR and the CE answer as an employer, under employment instruments. **Lawyers answer as litigators.** ⭐ **He wants the employer's answers, not the lawyers'** |
+
+⇒ ⭐⭐ **The CE is the right addressee because the Act says so — s 89 makes the chief executive the
+person to whom a conflict is disclosed and the only person who may authorise continued action.**
+**MSH Legal is the wrong addressee because they are the other side in live proceedings.**
+
+⚠️ **One thing to know and accept:** the Chief Executive who must answer the s 89 questions is also
+the officer who signed the objection in the appeal. **That is awkward and unavoidable** — she is the
+statutory decision-maker regardless. ⭐ **Which is exactly why the letter is addressed to the office
+and asks only that a statutory function be exercised**, makes no allegation, and offers to take it no
+further if the answers show the matter has been dealt with.
+
+⛔ **If MSH refers the letter to its lawyers, that is their choice and it is fine.** ⭐ **It must not
+be his.**
+
+## ⚠️ AND ON "THE CE ATTENDING TO THE OFFICERS"
+⛔ **Do not ask for anyone to be dealt with, disciplined, investigated or stood aside.** That is a
+request for a finding against named individuals, and it re-opens the tone lane (Part 7, item 1).
+
+⭐ **Ask instead for the statutory function**, which the letter now does at §3:
+> *"If no authorisation has been given under section 89(1)(b), I ask that you consider the direction
+> contemplated by section 89(2), and that in the meantime the decisions described at Part 2 be
+> allocated to an officer outside Corporate Services."*
+
+⇒ ⭐⭐ **s 89(2) is the CE's own power to direct an officer to resolve a conflict. Asking the CE to
+consider exercising it produces exactly the outcome he wants — the officers out of the decision —
+without asking for a finding about anyone, and without a single adverse word.**
 
 ---
 
