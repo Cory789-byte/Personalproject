@@ -1,5 +1,5 @@
 # MASTER SEND PACK — the full sweep
-> Built 1 August 2026. **Five documents, four emails, five clocks.** Every document, the power it
+> Built 1 August 2026. ⭐ **SENDING MONDAY 3 AUGUST 2026.** **Five documents, four emails, five clocks.** Every document, the power it
 > sits under, what it forces, and what happens if it is ignored.
 > ⛔ **The strategy files listed at Part 6 are NOT sent to MSH.**
 
@@ -59,13 +59,16 @@ can wait an hour; that cannot.
 
 ---
 
-# PART 3 — ⛔ FILL THESE BEFORE ANYTHING SENDS
-- [ ] ⚠️⚠️ **`[PHONE]`** — `0417 400 227` appears nowhere in the record; `0422 438 627` is on file.
-      **On a document asking them to ring before every shift, a wrong number fails the protocol on
-      day one and it is his error.**
-- [ ] **`[SEND DATE]`** — documents 2, 3, 4, 1b (and the response header)
-- [ ] ⭐ **`[21DAYDATE]`** — document 2, part 6. Send date **+ 21 days**. *(1 Aug → **22 Aug 2026**.)*
-- [ ] **Appointment dates and the psychiatrist's name and practice** — document 1b, part 1
+# PART 3 — FILL STATE
+**✅ SEND DATE CONFIRMED: MONDAY 3 AUGUST 2026. All five documents rebuilt and dated.**
+
+- [x] ✅ **Phone — `0417 400 227`**, confirmed by Cory 1 Aug 2026. Filled in all five.
+- [x] ✅ **Date — 3 August 2026.** Filled in documents 1b, 2, 3, 4 and the response header.
+- [x] ✅ ⭐ **21-day date — MONDAY 24 AUGUST 2026.** Filled at document 2, part 6.
+- [ ] ⛔ **STILL OPEN — appointment dates, and the psychiatrist's name and practice** —
+      document 1b, part 1: `[DATE]`, `[TIME]`, `[PSYCHIATRIST]`, `[PRACTICE]`.
+      ⚠️ **The only remaining placeholders in the package.** Book before Monday, or send docs 1, 2,
+      3 and 4 on Monday and 1b as soon as the appointments are confirmed.
 - [ ] **`[DATE]`** — response Part 6, first line (the earlier delegation email)
 - [ ] **Confirm the February 2026 complaint description** — response Part 5.2
 - [ ] Rebuild: `python3 build_letters.py` and `python3 build_alloc_pdf.py`; verify `pdfinfo` shows
@@ -76,10 +79,10 @@ can wait an hour; that cannot.
 # PART 4 — THE CLOCKS, DIARISED
 | When | What | Provision |
 |---|---|---|
-| **send + 1 day** | Stage 1 discussion due | cl 1.11.2(a) — 24 h |
-| **send + 7** | Stage 1 ends → ⭐ **refer to Stage 2 in writing. It does not self-execute.** | cl 1.11.2(b) |
-| **send + 14** | Stage 2 ends → Stage 3 (EB12IG) ⚠️ **no timeframe** / cl 7.1.4 WHS Advisory Committee | cl 1.11.2(c), cl 7.1.4 |
-| ⭐⭐ **send + 21** | **cl 10.3.6 decision due. Silence = deemed refusal, IR Act s 29 → QIRC ch 6** | cl 10.3.6; s 28(3); s 29 |
+| **TUE 4 AUG** | Stage 1 discussion due | cl 1.11.2(a) — 24 h |
+| **MON 10 AUG** | Stage 1 ends → ⭐ **refer to Stage 2 in writing. It does not self-execute.** | cl 1.11.2(b) |
+| **MON 17 AUG** | Stage 2 ends → Stage 3 (EB12IG) ⚠️ **no timeframe** / cl 7.1.4 WHS Advisory Committee | cl 1.11.2(c), cl 7.1.4 |
+| ⭐⭐ **MON 24 AUG 2026** | **cl 10.3.6 decision due. Silence = deemed refusal, IR Act s 29 → QIRC ch 6** | cl 10.3.6; s 28(3); s 29 |
 | **7 Aug 2026** | ⚠️ **64G mention before Dwyer.** ⛔ Volunteer nothing about any of this | — |
 | **~8 Sep 2026** | ⏳ **AD Act limitation — date it with Petering** | AD Act s 138 |
 
