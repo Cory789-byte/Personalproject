@@ -71,22 +71,62 @@ numbers carry it.
 
 # PART 3 — ⭐ THE FRAMING ON CONDUCT
 
-**Question 2 asks whether Cory can participate in discussions about *his* performance or conduct.**
+## ⚠️ CORRECTION — 1 Aug 2026, on Cory's instruction
+An earlier draft of this section suggested saying *"the matters I have raised do not concern the
+conduct of any individual."* **That was wrong and must not be used.**
 
-⚠️ **Do not answer "the only conduct that troubled me was theirs".** True or not, it reads as
-counter-accusation and it forfeits the register.
+It is **false on the record.** The disclosure recorded as **PID 24-ESU-1130** — cited by reference
+number in MSH's own objection of 5 June 2026 under the Chief Executive's signature — concerns the
+conduct of an individual. So does the complaint of 4 October 2025. So does the patient safety
+report.
 
-⭐ **Say this instead, which is stronger and entirely factual:**
-> *No concern about my performance or conduct has ever been particularised to me. The correspondence
-> of 31 July 2026 states that the Health Service is not aware of any concerns being raised for
-> appropriate management. The matters I have raised do not concern the conduct of any individual.
-> They concern process: consultation, the identification of controls, and the authority relied on.*
+⚠️ **And the damage would be real.** A written statement that his concerns were not about individual
+conduct could be put back to him to (i) contradict the 5.2 correction of fact in the same document,
+(ii) undercut the characterisation of those disclosures as public interest disclosures, and
+(iii) weaken the reprisal position. **A single sentence, disclaiming the foundation of the PID.**
 
-⇒ **That answers Q2 completely, invites them to particularise anything they have, and never once
-characterises another person.** It also holds the line already taken in this file: **hazard, risk,
-control — not blame.**
+## ⭐ THE CORRECT FRAMING — separate the two directions, deny neither
 
----
+**Question 2 asks about *his* conduct. His disclosures are a different subject.** The answer keeps
+them apart rather than collapsing them:
+
+> *No concern about my performance or conduct has ever been particularised to me, and the
+> correspondence of 31 July 2026 records that the Health Service is not aware of any concerns being
+> raised for appropriate management. I am able to participate in any discussion about my performance
+> or conduct, and ask only that any concern be identified so that I can respond to it.*
+>
+> *Separately, I have raised concerns of my own. Those are recorded on the Health Service's file,
+> including by the reference PID 24-ESU-1130 in the objection of 5 June 2026, and they include
+> matters of patient safety. I do not restate them here and I do not ask that they be resolved
+> through this process. I record only that they exist, so that the premise at question 2 can be
+> corrected.*
+
+⇒ **This answers Q2 completely**, invites MSH to particularise anything it holds, **preserves the PID
+and the patient safety concerns intact**, and characterises no one.
+
+## ⛔ AND ON THE CONTENT OF THE DISCLOSURES — REFERENCE, NEVER RESTATE
+The 2024 disclosure to the Ethical Standards Unit alleged conduct in terms Cory would now have to
+prove. **Do not restate it in employment correspondence.**
+- ⛔ **The word "fraud" does not appear in the WC track** (standing discipline) **and should not
+  appear in the employment track either.** It is inflammatory, it shifts the burden onto him, and it
+  is not necessary.
+- ⭐ **Cite the reference number and nothing else.** *"PID 24-ESU-1130"* establishes that the
+  disclosure exists **using MSH's own citation of it**. The Chief Executive put that reference on the
+  record; he need only repeat it.
+- **The same discipline applies to the patient safety concerns:** they are recorded, they are
+  ongoing, and their content belongs in the PID track — not in a medical-information response.
+
+## ⭐ THE POINT CORY IS ACTUALLY MAKING, PUT SAFELY
+His position is that **the concern is about actions, power and decision-making**, and that patient
+safety is engaged. That can be said, and it is already said elsewhere in the response, in the terms
+the instruments use:
+
+> *My concern is with process — the identification of controls, consultation, and the authority
+> relied on for decisions affecting my attendance and pay.*
+
+⇒ *"Actions, power and decision-making"* is **exactly** what "process and authority" means. **The
+regulatory phrasing says the same thing and cannot be answered with a denial about anyone's
+character.**
 
 # PART 4 — PATIENT SAFETY, AND THE UNIT'S CLINICAL INTERFACE
 
