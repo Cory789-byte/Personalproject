@@ -156,6 +156,61 @@ employees"*.
 Before today, adverse action had no anchor. **After today, everything MSH does is measured against
 a documented date — and s 306 presumes the reason.**
 
+## ⭐⭐ 2.2A WHICH REGIMES ARE LIVE — ASKED 1 AUGUST 2026
+| Regime | Live? | Trigger | Needs a step? |
+|---|---|---|---|
+| ⭐⭐ **PID Act reprisal, ss 40–43** | ✅ **LIVE NOW** | he **has made** a PID — determined **24 Dec 2024**, ESU letter 24-ESU-1130 | ⛔ **none. It attaches to any detriment from today** |
+| ⭐⭐ **IR Act general protections, ss 282–285** | ✅ **LIVE NOW, and stronger from Monday** | **s 284** workplace rights — all three limbs exercised by the four documents | the documents **are** the step |
+| **AD Act discrimination, ss 11, 15** | ✅ **live as conduct** | impairment; the treatment itself | complaint within **s 138 — 1 year** |
+| ⚠️ **AD Act victimisation, ss 129–130** | ⛔ **NOT live** | needs an **AD Act** allegation, complaint or proceeding | ⭐ **s 130(1)(a)(ii)** covers *"intends to allege"*; **(1)(b)** covers where **they believe** he intends to |
+
+⭐ **He does not need to enliven s 130.** **PID s 40 is live, requires no step, and is stronger** —
+167 penalty units or 2 years, a tort with exemplary damages, and vicarious liability on the entity.
+⭐ **And the cl 10.3 request was deliberately drafted NOT to trigger s 130** — Part 5.3 says *"I have
+made no complaint under the Anti-Discrimination Act, and this letter is not one."* **That was a
+choice, not an omission.** Alleging a contravention re-opens the tone lane for a protection he
+already has by a better route.
+
+## ⭐⭐ 2.2B **PID Act s 44 — THE BRIDGE, AND A ONE-WAY DOOR**
+> **s 44(1)** *"A person may make a complaint **under the Anti-Discrimination Act 1991 about a
+> reprisal**."* **(2)** dealt with under AD Act **chs 6 and 7** *"as if the complaint were about an
+> alleged contravention of the Anti-Discrimination Act 1991."*
+
+⇒ ⭐ **A PID reprisal can be taken into the QHRC machinery directly — no discrimination allegation
+required.** So the AD Act *is* available to him on reprisal, by a different door than s 130.
+
+⛔⛔ **BUT s 44(3) IS AN IRREVOCABLE ELECTION, BOTH WAYS:**
+- **(3)(a)** commence **s 42 court proceedings** → ⛔ **cannot subsequently complain under the AD Act**
+- **(3)(b)** make an **AD Act complaint** about the reprisal **and it is accepted** → ⛔ **cannot
+  subsequently commence s 42 proceedings**
+
+| | **s 42 — District/Supreme Court** | **AD Act complaint — QHRC → QIRC** |
+|---|---|---|
+| Remedy | ⭐ tort damages **including exemplary** | AD Act remedies, generally smaller |
+| **WCRA** | ⭐⭐ **s 42(6) — the WCRA does not apply** ⇒ preserved **independently of the WC claim** | — |
+| Cost / speed | high, slow, judge without jury (s 42(3)) | cheap, conciliation first, faster |
+| Prosecution | **s 42(5)** — available even if no s 41 prosecution | **s 44(4)** — same |
+
+⚠️⚠️ **DO NOT COMMENCE EITHER WITHOUT ADVICE.** ⭐ **This is the single most consequential
+irreversible choice in the whole matter, and it is made by the act of filing, not by any decision
+he announces.** Take it to counsel, not to Petering — it is outside the union's demarcation.
+
+## ⭐⭐ 2.2C **s 45 — THE DEFENCE IS NARROWER THAN PREVIOUSLY RECORDED. CORRECTION.**
+Earlier files state the defence as *"reasonable management action taken reasonably is not a
+reprisal."* **That understates his position.** The section actually reads:
+
+> **s 45(2)** *"a manager may take reasonable management action in relation to an employee who has
+> made a public interest disclosure **only if the manager's reasons for taking the action do not
+> include the fact that the person has made the public interest disclosure**."*
+
+⇒ ⭐⭐⭐ **Read with s 40(5) — where it is enough that the unlawful ground is *a substantial ground*,
+"even if there is another ground" — the two together mean: if the disclosure is among the reasons at
+all, in any material way, the management-action shield fails.** It is not enough that the action was
+otherwise reasonable.
+
+⭐ **s 45(3)** — *"manager"* means *"a person to whom the employee reports or a person who **directly
+or indirectly supervises** the employee"*. ⇒ **Covers the Manager and the Director both.**
+
 ## 2.3 THE ROUTES, IF IT HAPPENS
 | Route | Provision | Test | ⏰ Time limit |
 |---|---|---|---|
