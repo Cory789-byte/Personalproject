@@ -1,18 +1,99 @@
-# SEND CHECKLIST — response to the 31 July 2026 Request for Medical Information
+# SEND CHECKLIST — the three-document package, 1 August 2026
 
-## The package
+⭐ **THREE SEPARATE EMAILS, THREE SUBJECT LINES.** Not one email with three attachments — receipt
+of **each document** is what starts **its own clock**. Each document says on its face that it does
+not answer the other two.
 
-| Item | File | Goes to |
-|---|---|---|
-| Covering email | `RFMI_RESPONSE_EMAIL.txt` | Michelle Harrison, cc LBH.HRTeam1 |
-| Attachment | `drafts/out/RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` (14pp, A4, scrubbed) | as attachment |
-| Not sent to MSH | `NOTE_FOR_DR_MA.txt` | Dr Ma only, with the RFMI documents |
+## Email 1 — response to the Request for Medical Information
+
+| Item | File |
+|---|---|
+| Covering email | `RFMI_RESPONSE_EMAIL.txt` |
+| Attachment | `drafts/out/RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` (14pp, A4, scrubbed) |
+| Not sent to MSH | `NOTE_FOR_DR_MA.txt` — Dr Ma only, with the RFMI documents |
 
 **To:** lbh_InjuryManagement@health.qld.gov.au
 **Cc:** LBH.HRTeam1@health.qld.gov.au
 **Subject:** Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073]
 
-## Before you send — 3 fields to fill
+## ⭐ Email 2 — the clause 10.3 request (this is the one with the 21-day clock)
+
+| Item | File |
+|---|---|
+| Attachment | `drafts/out/REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` (3pp) |
+| Source | `FWA_REQUEST_cl10.3.txt` |
+
+**To:** lbh_InjuryManagement@health.qld.gov.au
+**Cc:** LBH.HRTeam1@health.qld.gov.au; Scott Hughes; Chloe Taylor; Emily Petering; Heath Moran
+**Subject:** Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795
+
+> Dear Injury Management team,
+>
+> I attach a request under clause 10.3.2 of the certified agreement for a change in the way I
+> work. I have made it as a separate document so that there is no question about what it is or
+> when it was received.
+>
+> The request sets out the change I am asking for and my reasons for it, in the form clause 10.3.3
+> requires. I have asked that the decision be made by an officer outside Corporate Services, for
+> the reasons at part 4.
+>
+> I would much prefer this be resolved by discussion and I am available at any time.
+>
+> Kind regards,
+> Cory Shepherd
+
+⛔ **Do not mention the 21 days in the covering email.** It is in the document, at part 5, quoted
+from the clause. Saying it twice makes it a demand instead of a citation.
+
+## ⭐ Email 3 — the Stage 1 dispute notice
+
+| Item | File |
+|---|---|
+| Attachment | `drafts/out/NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` (3pp) |
+| Source | `DISPUTE_NOTICE_cl1.11_STAGE1.txt` |
+
+**To:** chloe.taylor3@health.qld.gov.au *(immediate supervisor — cl 1.11.2(a) requires this)*
+**Cc:** Scott Hughes; LBH.HRTeam1; lbh_InjuryManagement; Emily Petering; Heath Moran
+**Subject:** Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026
+
+> Dear Chloe,
+>
+> I attach a notice of dispute under clause 1.11.2(a) of the certified agreement. It is addressed
+> to you as my immediate supervisor because the clause requires that.
+>
+> I would prefer this resolved at Stage 1 and I am available to discuss it at any time, including
+> today. I have asked that a support person and my union representative be present.
+>
+> I have raised at part 5 a question about who should conduct the Stage 1 discussion. I make no
+> allegation against anyone and will attend whichever way the Health Service prefers.
+>
+> Kind regards,
+> Cory Shepherd
+
+⚠️ **It must go to Taylor** even though the conflict is raised. cl 1.11.2(a) requires the immediate
+supervisor to be informed — if he skips her, MSH can say Stage 1 never started and Stages 2–4 never
+opened. Part 5 of the notice handles the conflict in the same document. ⭐ **There is no answer to
+part 5 that costs him anything:** nominate someone else and the conflict is conceded and managed;
+insist on Taylor and the insistence is documented.
+
+## Before you send — fields to fill
+
+- [ ] ⚠️ **`[PHONE]`** in both new letters, and check the sign-off on the RFMI response. **`0417 400 227`
+      appears nowhere in the record; `0422 438 627` is on file.** Confirm which is current — a wrong
+      number on a document that asks them to call you before every shift is the worst possible place
+      for it.
+- [ ] **`[SEND DATE]`** in `FWA_REQUEST_cl10.3.txt` and `DISPUTE_NOTICE_cl1.11_STAGE1.txt`.
+- [ ] **`[21DAYDATE]`** in `FWA_REQUEST_cl10.3.txt` part 5 — send date **+ 21 calendar days**.
+      *(Send 1 Aug → **22 August 2026**.)*
+- [ ] Re-run `python3 build_letters.py` after editing either letter.
+
+### Diarise on sending
+- **send + 1 day** — Stage 1 discussion due (cl 1.11.2(a), 24 hours)
+- **send + 7** — Stage 1 ends
+- **send + 14** — Stage 2 ends → Stage 3 EB12IG / Stage 4 QIRC
+- ⭐ **send + 21** — cl 10.3.6 decision due. **Silence = deemed refusal, IR Act s 29.**
+
+## Before you send — 3 more fields
 
 - [ ] **PDF header, page 1 — "Response date:"** — insert the date you send.
 - [ ] **PDF page 5, Part 6, first line — `[DATE]`** — the date of the earlier email in which you
