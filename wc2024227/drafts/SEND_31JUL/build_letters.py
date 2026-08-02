@@ -56,9 +56,9 @@ DOCS = [
       foot="Cory Lea Shepherd · Notice of dispute under clause 1.11 — Stage 1"),
  dict(src="NOTICE_OF_APPOINTMENTS_AND_COSTS.txt",
       out="NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf",
-      title="Notice of medical appointments arranged, and of costs",
+      title="Arrangements for the medical appointments, and costs",
       sub="Request for Medical Information dated 31 July 2026 &#183; MSH-INJ-5795",
-      foot="Cory Lea Shepherd · MSH-INJ-5795 · Notice of medical appointments arranged, and of costs"),
+      foot="Cory Lea Shepherd · MSH-INJ-5795 · Arrangements for the medical appointments, and costs"),
  dict(src="LETTER_CONFLICT_AND_INFORMATION.txt",
       out="LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf",
       title="Conflict of interest, delegation, and the handling of my personal information",
@@ -91,7 +91,7 @@ def build(spec):
         i += 1
     # drop the title lines already rendered above
     head = [h for h in head if not h.startswith(("REQUEST FOR", "NOTICE OF DISPUTE",
-                                                 "NOTICE OF MEDICAL", "Request for Medical",
+                                                 "NOTICE OF MEDICAL", "ARRANGEMENTS FOR", "Request for Medical",
                                                  "CONFLICT OF INTEREST", "Section 89,",
                                                  "PROPOSAL FOR RETURN", "Accompanying the Response",
                                                  "Clause 10.3.2,", "Section 27,",

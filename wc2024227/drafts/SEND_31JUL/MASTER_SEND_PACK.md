@@ -11,7 +11,7 @@
 |---|---|---|---|---|---|
 | **1** | Response to the Request for Medical Information | `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | 8 | answers theirs | their 7 days → **7 Aug** |
 | **1a** | Proposal for Return to Work — the (a)–(h) proposal, the controls, the cl 10.3 status, the substantive position | `PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf` | 3 | routes internally on its own | — |
-| **1b** | Notice of medical appointments arranged, and of costs | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 2 | defeats the 7-day threat; **accepts their written costs commitment of 31 July** | — |
+| **1b** | Arrangements for the medical appointments, and costs — **confirm-then-rebook with a 7-day backstop** | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 2 | defeats the 7-day threat; **accepts their written costs commitment of 31 July** | — |
 | **2** | ⭐ Request for a change in the way I work | `REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` | 5 | **EB12 cl 10.3.2 · IR Act s 27(1)(a) and (c)** | ⭐⭐ **21 days — cl 10.3.6; s 29 deems refusal** |
 | **3** | ⭐ Notice of dispute — Stage 1 | `NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` | 4 | **EB12 cl 1.11.2(a)** | 24 h / 7 / 7 → Stage 3 → **QIRC** |
 | **4** | ⭐ Conflict of interest, delegation and information handling — ⭐ **to the CHIEF EXECUTIVE** | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 4 | **PS Act s 89(1)(a), (b), (2)** · Code cl 1.2 · IP Act | ⛔ none — **but s 89(1)(b) is a prohibition** |
@@ -67,10 +67,10 @@ can wait an hour; that cannot.
 - [x] ✅ **Phone — `0417 400 227`**, confirmed by Cory 1 Aug 2026. Filled in all five.
 - [x] ✅ **Date — 3 August 2026.** Filled in documents 1b, 2, 3, 4 and the response header.
 - [x] ✅ ⭐ **21-day date — MONDAY 24 AUGUST 2026.** Filled at document 2, part 6.
-- [ ] ⛔ **STILL OPEN — appointment dates, and the psychiatrist's name and practice** —
-      document 1b, part 1: `[DATE]`, `[TIME]`, `[PSYCHIATRIST]`, `[PRACTICE]`.
-      ⚠️ **The only remaining placeholders in the package.** Book before Monday, or send docs 1, 2,
-      3 and 4 on Monday and 1b as soon as the appointments are confirmed.
+- [x] ✅ **RESOLVED — no appointment details needed.** The notice now runs confirm-then-rebook:
+      MSH confirms the question set → both consultations rebooked within three business days,
+      dates advised same day → backstop at day 7 of silence: rebook anyway on the proposed
+      allocation. ⭐ **ZERO placeholders remain anywhere in the package.**
 - [ ] **`[DATE]`** — response Part 6, first line (the earlier delegation email)
 - [ ] **Confirm the February 2026 complaint description** — response Part 5.2
 - [ ] Rebuild: `python3 build_letters.py` and `python3 build_alloc_pdf.py`; verify `pdfinfo` shows

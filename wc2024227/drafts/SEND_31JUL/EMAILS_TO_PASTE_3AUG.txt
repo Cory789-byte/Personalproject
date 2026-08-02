@@ -29,10 +29,7 @@ ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (8pp)
 
 >>> Body is the full text of  RFMI_RESPONSE_EMAIL.txt  — paste it as it stands.
 
->>> Add this one line before the sign-off, because there are now two attachments:
-
-    I also attach a short notice recording the medical appointments I have arranged
-    in response to the request, and the position on the cost of the reports.
+(The email body already covers all three attachments.)
 
 
 ================================================================================
@@ -134,10 +131,11 @@ AO3, Switchboard Services, Logan Hospital
 ================================================================================
 BEFORE YOU SEND
 ================================================================================
-[ ] Fill the appointment dates and times, and the psychiatrist's name and practice, at part 1 of
-    NOTICE_OF_APPOINTMENTS_AND_COSTS.txt — then re-run  python3 build_letters.py
-    If they are not booked by Monday, send emails 0, 1 (response only), 2, 3 and 4 on Monday and
-    send the appointments notice as soon as they are confirmed. Do not hold the others for it.
+[x] RESOLVED 2 Aug — no appointment dates needed. The notice now asks MSH to confirm the question
+    set first; on confirmation Cory rebooks BOTH consultations within three business days and
+    advises the dates the day they are made. Backstop: if no confirmation within seven days, he
+    rebooks anyway on his proposed allocation. ⭐ ZERO placeholders remain in the package.
+    DIARISE: their confirmation, or day 7 of silence → rebook regardless.
 
 [x] RESOLVED 1 Aug - no February 2026 complaint is established anywhere in the corpus. Part 5.2
     now cites the request for review dated 3 October 2025 (its own face date, pack 03 p.345); the
