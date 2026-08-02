@@ -3415,3 +3415,17 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   "continuation of existing arrangement" and the no-reduction framing; substantive 76h line
   expressly preserved.
 - Both PDFs rebuilt; pages unchanged (5pp request, 4pp dispute).
+
+## 2026-08-03 (send morning, 3) — FULL FINALISATION RUN complete
+- Built EMAIL_0..4 body PDFs (record copies) + ATTACHMENTS_STITCHED_all_six_documents_3Aug2026.pdf
+  (26pp, send order, metadata clean) via new build_email_pdfs.py. Petering email updated: four
+  numbered items (CE letter added), attachments = 13 Jul email + the stitched PDF.
+- TRIPLE-CHECK SWEEPS (all PASS): placeholders none; rule-10/sensitive terms none (no Southport,
+  MAG-, sister, ex-partner, QPS numbers anywhere); no wrong-year dates; 17/17 anchors hit
+  (24 Aug, 0.6, line-not-varied, 1.11.2(a), forward-pay, s 89, option 1, 1(b), 7-day backstop,
+  invoice 574370, controls...); phone+date on all six docs; stitched pack integrity confirmed.
+- MONTE CARLO (calibrated to 1 Aug baseline, then final-package deltas only):
+  employment strict 46→48 (+2.6) · employment favourable 64→66 (+2.7) · PAY RECOVERED 55→59
+  (+4.6, the forward-pay limb's work) · appeal win 29 (unchanged) · appeal favourable 66 (±0).
+  Conclusion: the weekend's edits bought pay-recovery points; the package remains at the
+  drafting ceiling. SEND.
