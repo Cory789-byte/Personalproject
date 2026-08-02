@@ -30,13 +30,15 @@ meeting logistics, or leave coding.**
 |---|---|---|---|
 | **3 Jul 2026 15:18** | *"It certifies me **fit to resume from 3 July 2026**… Could you please **confirm I'm right to attend**"* | reasonable direction; QH-IMP-401-5 | ⛔ **No reply. 4 weeks.** |
 | **28 Jul 2026** | *"identify the **delegate and instrument** for each day from 3 July"* | Code of Conduct cl 1.2; PS Act s 89 | ⛔ **No reply** |
-| **4 Oct 2025** | Formal request for review — performance process and handling of the confidential disclosure | **PID Act s 28(1)(a),(e)** | ⛔ **No reply. 10 months.** |
+| **3 Oct 2025** | Formal request for review — performance process and handling of the confidential disclosure | **PID Act s 28(1)(a),(e)** | ⚠️⚠️ **CORRECTED 1 Aug 2026 — DO NOT DEPLOY "no reply, 10 months" WITHOUT CHECKING DELIVERY.** The corpus shows the 3 Oct 2025 03:53:12 send to Roberts (cc Moran) **BOUNCED at 03:53:18** — *"550 5.7.520 Message blocked because it contains content identified as spam"* — **for BOTH recipients** (pack 03 p.348). **No successful delivery is in the held record.** The letter itself is dated **October 3, 2025** (pack 03 p.345), not 4 October. [ ] ⭐ **ASK CORY: was it re-sent successfully — different address, attachment removed, work email, hard copy?** If yes, file the proof. If no, the non-response claim is unsound and MSH's answer is "never received" |
 | 2–15 Jul 2026 | Incorrect application of EB12, Award and QH policies | EB12; Award; QH-POL-210/231 | ⛔ Holding reply only |
 | Aug–Sep 2025 | **QH-RITM16413751** mailbox restoration | — | ⛔ **Expired unanswered.** 721 h, then *"Rejected — approvals have expired"* |
 
 ## ⭐⭐⭐ 1.3 THE FINDING
 **Fifteen minutes to answer a question about leave type. Four weeks and counting on whether he may
-attend work. Ten months on a complaint about a Director.**
+attend work.** ⚠️ *(The former third limb — "ten months on a complaint about a Director" — is
+**suspended**: the 3 Oct 2025 send bounced and delivery is not established. Reinstate only if a
+successful delivery is proven.)*
 
 ⇒ **The Health Service is not slow. It is selective.** It responds within minutes where the subject
 is **his leave**, and not at all where the subject is **his return, the authority relied on, or the
@@ -60,7 +62,7 @@ numbers carry it.
 | 8 | **Prove** any adjustment unreasonable, **against the whole organisation** | **G03 cl 2** | On any refusal | ⏳ Onus not yet discharged |
 | 9 | **Disclose and manage** a conflict of interest | **Code of Conduct cl 1.2**; **PS Act s 89(1)** | Raised 28 Jul 2026 | ⛔ **Not addressed** |
 | 10 | **Establish reasonable procedures** giving disclosers **appropriate support** and **protection from reprisals by other public officers**; **publish** them | **PID Act s 28(1)(a),(e), (2)** | Ongoing | ⏳ Procedures never provided |
-| 11 | Respond to a **formal request for review** | PID s 28; Code cl 1.2 | 4 Oct 2025 | ⛔ **No response, 10 months** |
+| 11 | Respond to a **formal request for review** | PID s 28; Code cl 1.2 | 3 Oct 2025 | ⚠️ **DELIVERY NOT ESTABLISHED — the only send in the record bounced (spam, both recipients). See Part 1.2 correction. Do not deploy "no response" until delivery is proven** |
 | 12 | Collect sensitive information only with **consent** and where **reasonably necessary** | **IP Act QPP 3.3(a)** | 31 Jul 2026 | ⏳ Consent now scoped |
 | 13 | Prove information was **"reasonably required"** | **AD Act s 124(3)** | 31 Jul 2026 | ⏳ Onus on MSH |
 | 14 | **Consult on roster change** / psychosocial risk assessment | **EB12 cll 7.1.11, 7.2** | 15 Apr 2024 on-call change | ⛔ *"effective from today"* |

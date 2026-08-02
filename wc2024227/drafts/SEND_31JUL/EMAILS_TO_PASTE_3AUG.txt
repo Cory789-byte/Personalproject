@@ -141,7 +141,10 @@ BEFORE YOU SEND
     If they are not booked by Monday, send emails 0, 1 (response only), 2, 3 and 4 on Monday and
     send the appointments notice as soon as they are confirmed. Do not hold the others for it.
 
-[ ] Confirm the description of the February 2026 complaint at Part 5.2 of the response.
+[x] RESOLVED 1 Aug - no February 2026 complaint is established anywhere in the corpus. Part 5.2
+    now cites the request for review dated 3 October 2025 (its own face date, pack 03 p.345); the
+    Dr Ma note corrected to match. NOTE: that email BOUNCED as spam to both recipients - confirm
+    with Cory whether it was re-sent successfully before anyone claims MSH failed to respond.
 
 [ ] Four separate emails to MSH — not one email with five attachments. Receipt of each starts its
     own clock, and each document says on its face that it does not answer the others.
