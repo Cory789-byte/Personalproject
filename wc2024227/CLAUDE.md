@@ -30,6 +30,13 @@ Running the WorkCover appeal at counsel standard, self-represented. The immediat
 7. Severity = whole course of conduct — evidence-in-chief/medical/closing, not the 64G.
 8. Parallel tracks sequenced BEHIND the WC settlement.
 9. Settlement releases the COMPENSATION CLAIM ONLY — watch the deed scope.
+10. ⛔ **NEVER VOICED in WC/2024/227 or the employment track (Cory's instruction, 2 Aug 2026):**
+   (a) his having been a **respondent in December 2024** (the Southport PPN, MAG-00196566/24(4));
+   (b) that it was later **struck out / thrown out**; (c) his **service of a separation document**.
+   These live in the QPS-track/personal file only. Not in filings, correspondence, the mention,
+   the Monday package, or the Matheson letter. Historical mentions in the corpus (30 Mar 2025 to
+   Hughes; the "separation documents" email) cannot be unsaid — the rule governs everything
+   forward. If the other side raises it, respond minimally, adopt nothing, and take instructions.
 
 ## The cardinal habit
 

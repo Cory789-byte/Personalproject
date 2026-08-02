@@ -3362,3 +3362,11 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - s 22(2) check holds for mother-as-aggrieved too: mother–daughter is a family relationship →
   no DVO/PPN possible against the child whoever the aggrieved was. Non-DFVP direction was the
   only available instrument. Reference file account block updated.
+
+## 2026-08-02 (cont. 5) — Standing suppression rule added (discipline rule 10)
+- Cory's instruction: the Dec 2024 respondent status (Southport PPN, MAG-00196566/24(4)), its
+  strike-out, and the service of the separation document are NEVER voiced in the WC or
+  employment tracks — filings, correspondence, the mention, the Monday package, the Matheson
+  letter. QPS-track/personal file only. Added as CLAUDE.md discipline rule 10.
+- Verified before adding: full grep sweep of drafts/SEND_31JUL/*.txt and the Matheson draft —
+  zero references to any of the three items. Package clean.
