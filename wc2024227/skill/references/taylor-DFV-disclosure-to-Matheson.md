@@ -204,6 +204,25 @@ causation** — because the material only reached the file through MSH's own ove
 to a narrow request that did not seek it, about a matter with no connection to any pleaded event.
 **Preserve it. Do not lead with it.**
 
+### 4B. ⭐ THE DOCUMENT SELF-ANSWERS AS A STRESSOR (Cory's point, 2 Aug 2026)
+If the Regulator ever runs 14 Jan 2024 as a competing non-work stressor, **the same screenshots
+carry the rebuttal inside them**, contemporaneously:
+- *"**I will be at my shift** I have had to attend the police station directed by police."*
+- *"I have notified that I would be **late** not that I wasn't coming in."*
+A person insisting on attending his shift within the hour of a police attendance is the picture of
+a **minor, managed, same-morning event** — functional, work-committed, resolved. Five months before
+the 18 June 2024 injury date, it does almost no work against "the major significant contributing
+factor" (WCRA s 32 psychiatric standard). **And it was Taylor who covered the shift** — his
+non-attendance that day was her rostering decision, not his incapacity.
+⚠️ **Two discipline points.** (1) Cory must never himself characterise it as "a stressor" — that
+phrasing does the Regulator's dilution work for them. The line is: *minor, managed, attended work.*
+(2) The one counter-quote available to the Regulator is his same-day reference to *"10 days Family
+and domestic violence leave"* — answered by the record: **no such leave was ever taken**; he was
+back at work. The leave reference was a rights inquiry, not a collapse.
+⇒ Net: the material is close to worthless to the Regulator on causation, which LOWERS the cost of
+the confinement request (`drafts/MATHESON_CHILD_MATERIAL_EMAIL.txt`) — asking for its removal
+sacrifices nothing, and if they refuse and deploy it, the exhibit rebuts itself.
+
 ---
 
 ## 5. WHERE IT GOES
