@@ -44,7 +44,10 @@ Keep **confirmed-against-source** strictly separate from **working-theory**. A m
 
 ## Current status (UPDATE EACH SESSION)
 
-**As at 2026-08-01. ⭐ See `CURRENT.md` for the live layer.**
+**As at 2026-08-02. ⭐ See `CURRENT.md` for the live layer — the 3 August package is FINAL:
+six documents, 26pp, five emails, zero placeholders, routing settled (Hughes on nothing, HR on
+the Taylor email only, CE letter solo). Full-picture read + two addenda at
+`skill/references/FULL-PICTURE-READ-1AUG.md` (employment 42%/63% favourable; appeal 68%).**
 
 ### ⚠️ Source-integrity rules added 1 Aug 2026
 - ⛔ **ATT09 (QH-IMP-401-5) has NO TEXT LAYER** and no OCR is installed. **Never quote it from
@@ -64,8 +67,16 @@ Keep **confirmed-against-source** strictly separate from **working-theory**. A m
 - Matter correspondence + the OneDrive "01 FINISHED APPEAL" folder ingested into `evidence-index/`. Full picture + de novo demolition in `skill/references/case-theory-synthesis.md` §15. Evidence source = Gmail + M365/OneDrive connectors (NOT the Trustandcollectiveco Outlook).
 
 ### Immediate tasks
-1. Send the 31 July RFMI response — fill the response date; confirm the February 2026 complaint description at Part 5.2.
-2. Forward the RFMI bundle and the response to Petering and Moran the same day.
+1. ⭐ **MON 3 AUG — SEND.** Petering email first (the 13 July appeal-window question), then the
+   four MSH emails per `drafts/SEND_31JUL/EMAILS_TO_PASTE_3AUG.txt`. Save every sent item as PDF
+   into `documents/`.
+2. **This week:** Dr Ma certificate covering from 3 July (obtain and HOLD); runway plan; the
+   Appeals directive + s 102 directive; ask Cory whether the bounced 3 Oct 2025 email was ever
+   re-sent successfully; his written account of 7am 24 Feb 2025.
+2a. **Clocks:** Tue 4 Aug Stage 1 due · Mon 10 Aug refer Stage 2 (one line, does not
+   self-execute) · Mon 17 Aug Stage 2 ends · ⭐ Mon 24 Aug cl 10.3.6 deemed refusal · ~8 Sep AD
+   Act limitation (date with Petering) · appointments: rebook within 3 business days of MSH
+   confirming the question set, or at day 7 of silence regardless.
 3. **7 August 2026** — 64G mention before Dwyer.
 4. Psychiatrist: **Report A** (MSH-funded — current capacity, functional restrictions, adjustments only) and **Report B** (appeal — causation and chronology) from one shared attendance. Scopes stay separate; Report A is silent on aetiology, as declared to MSH.
 5. Obtain: the clinical note for 24 October 2024 *with consultation time*; the delivery email/timestamp for Review Decision 69983; the psychiatrist referral document and its date.

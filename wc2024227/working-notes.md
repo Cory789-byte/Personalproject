@@ -3300,3 +3300,20 @@ I had returned to work"); "**I therefore have no income from any source**"; and 
 "progressing for delegate approval… unable to guarantee" admission.
 ⚠️ Note: it says the direction "has now continued for four weeks" — the RFMI response says five.
 Both were accurate when written (28 days vs the fifth week). No inconsistency, but be aware of it.
+
+## Session 1–2 Aug 2026 — the 3 August package built, verified and finalised
+- EB12 cl 10.3 found (21-day decision, s 29 deemed refusal) → Part 7 constituted as a request,
+  then split out as the standalone cl 10.3 instrument (s 27(1)(a) hours limb severed from (c)).
+- cl 1.11 Stage 1 dispute notice built (process-identification, suspension question, RWA pay
+  claim, Schedule 2 policy request); PS Act s 89 conflict letter to the CE (solo); appointments
+  notice converted to confirm-then-rebook with 7-day backstop; response compressed 14→8pp with
+  the 3pp Proposal for Return to Work split out. Package: 6 docs, 26pp, 5 emails, 0 placeholders.
+- Strategy layer written: powers map, red team (+individuals, absent-lane audit), suspension/
+  dismissal exposure (s 101 fork), s 19 duty-not-power, good-faith discipline, displacement
+  pattern, psychosocial frequency, mention prep (+signals, date architecture), full-picture read
+  (+2 addenda: employment 42%/63%, appeal 29%/68%).
+- Corrections logged: 26 Jun origin; cl 3.9.1 is Schedule 3 only; ATT09 verified by page render;
+  3 Oct 2025 (not 4 Oct) review request — and its only send BOUNCED as spam to both recipients:
+  "no reply 10 months" SUSPENDED pending proof of a successful re-send (ask Cory).
+- Next: send Mon 3 Aug; mention Fri 7 Aug (silent on employment; watch 7–10 Aug decision window);
+  clocks per CURRENT.md.

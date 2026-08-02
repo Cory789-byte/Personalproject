@@ -12,15 +12,20 @@
 
 | # | Document | PDF (`drafts/out/`) | pp |
 |---|---|---|---|
-| 1 | Response to the Request for Medical Information of 31 July 2026 | `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | 14 |
-| 1b | Notice of medical appointments arranged, and of costs | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 2 |
-| 2 | Request for a change in the way I work — **cl 10.3.2 · IR Act s 27** | `REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` | 5 |
-| 3 | Notice of dispute, Stage 1 — **cl 1.11.2(a)** | `NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` | 4 |
-| 4 | Conflict of interest and information handling — **PS Act s 89**, to the **Chief Executive** | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 3 |
-| — | Urgent single question to the industrial officer | `PETERING_URGENT_EMAIL.txt` | — |
+| 1 | Response to the Request for Medical Information of 31 July 2026 | `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | 8 |
+| 1a | Proposal for Return to Work | `PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf` | 3 |
+| 1b | Arrangements for the medical appointments, and costs — confirm-then-rebook, 7-day backstop | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 2 |
+| 2 | Request for a change in the way I work — **cl 10.3.2 · IR Act s 27(1)(a)+(c)** — decision due **Mon 24 Aug** | `REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` | 5 |
+| 3 | Notice of dispute, Stage 1 — **cl 1.11.2(a)** — To **Taylor**, Cc HR/IM/union | `NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` | 4 |
+| 4 | Conflict of interest and information handling — **PS Act s 89** — To the **Chief Executive alone, no Cc** | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 4 |
+| — | Urgent single question to the industrial officer — **send first** | `PETERING_URGENT_EMAIL.txt` | — |
 
-⛔ **One placeholder remains anywhere in the package:** the two appointment dates and times, and the
-psychiatrist's name and practice, at part 1 of document 1b.
+**Six documents · 26pp · five emails (`EMAILS_TO_PASTE_3AUG.txt`) · routing: Hughes on nothing,
+HR on the Taylor email only, CE solo.**
+
+✅ **ZERO placeholders remain anywhere in the package** (2 Aug — the appointments notice now runs
+confirm-then-rebook: MSH confirms the question set → both consultations rebooked within three
+business days → backstop at day 7 of silence, rebook anyway on the proposed allocation).
 
 ---
 
