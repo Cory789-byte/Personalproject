@@ -195,128 +195,51 @@ Part 4 to the Health Service.
 PART 3 — QUESTIONS FOR MY PRACTITIONERS
 --------------------------------------------------------------------------------
 
-WHO HOLDS THE CLINICAL PICTURE
-
-Dr Ma is my general practitioner and completed the Employee Capabilities Checklist. He can
-answer within the scope of general practice, and he can confirm what is on his own file.
-
-My psychiatric condition, however, is managed by my treating psychiatrist, and Dr Ma's
-understanding of it derives from that specialist's correspondence to him. On the questions which
-turn on the nature of the condition — its clinical basis, the risk it presents, what exacerbates
-it, and how it affects function — Dr Ma answers from the specialist documentation he holds, and
-not from his own psychiatric assessment.
-
-That is not a limitation I have created. It is how my care is arranged, and it is the reason
-several of these questions are better put to the psychiatrist directly.
-
-It is also, in substance, the answer to Question 1(c). Dr Ma's view of the identified stressors
-does not rest solely on my self-report. It rests on the specialist reports available to him.
+Dr Ma completed the Checklist and can answer within general practice and from his own file. My
+psychiatric condition is managed by my treating psychiatrist, and Dr Ma's understanding of it
+derives from that specialist's correspondence to him — which is also, in substance, the answer
+to Question 1(c): his view of the identified stressors rests on the specialist reports he holds,
+not on my self-report alone.
 
 3.1  FOR DR MA — I will obtain answers to these
 
-Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk to my health
-       or safety on return, and what specific workplace controls or adjustments are medically
-       necessary to manage that risk. Dr Ma will address this from the specialist documentation
-       he holds. Because the risk in question is a psychiatric one, I will also put it to my
-       treating psychiatrist — see Part 3.2.
+  Q1(d)  foreseeable risk and the controls medically necessary — from the specialist
+         documentation he holds; because the risk is psychiatric, I will also put it to my
+         psychiatrist.
+  Q4     restrictions, clinical basis in functional terms, duration and review date.
+  Q5     what "complaint handling" encompasses as a clinical restriction — the operational
+         meaning is dealt with at Part 4.3.
+  Q8     tasks, situations or environments which may exacerbate the condition — likewise also
+         put to my psychiatrist.
+  Q1(c)  I consent to this. Dr Ma can confirm what he holds and has relied on — his own file —
+         and I ask only that the question not be read as an inquiry into material held by
+         others.
 
-Q4     The restrictions or adjustments recommended, the clinical basis in functional terms, and
-       the anticipated duration and review date.
-
-Q5     What specific activities are encompassed within "complaint handling" — as a matter of
-       clinical restriction. The operational meaning has already been stated by the Health
-       Service and is dealt with at Part 4.3.
-
-Q8     Specific tasks, situations or environments which may exacerbate my condition. Dr Ma will
-       address this from the specialist documentation he holds. What exacerbates a psychiatric
-       condition is a psychiatric question, and I will put it to my treating psychiatrist as
-       well — see Part 3.2.
-
-Q1(c)  Whether the identified stressors are based "solely on Mr Shepherd's self-report, your own
-       clinical assessment, or other medical information/reports available to you."
-       I do not object to this question and I consent to it being answered. Dr Ma can confirm
-       what medical reports he holds and has relied on, and I am content for him to verify and
-       confirm that. As set out above, the answer is that his understanding rests on the
-       correspondence he holds from my treating psychiatrist, and not on my self-report alone.
-       I ask only that the question be understood as directed to what Dr Ma holds and has relied
-       upon — his own file — and not as an inquiry into material held by others, which he is not
-       in a position to answer.
-
-Each is necessary to identify a required adjustment or to assess the suitability of a proposed
-one. Each is within a general practitioner's scope.
-
-I also note that the Employee Capabilities Checklist form states that "a separate medical
-certificate is also required to support the completed Capability Checklist." One was not
-provided with the checklist on 3 July 2026. I will obtain one when I rebook with Dr Ma and
-provide it together with his answers. If the Health Service requires it sooner, please tell me
-and I will arrange it separately.
+The Checklist form states that "a separate medical certificate is also required". One was not
+provided on 3 July 2026; I will obtain it when I rebook with Dr Ma, or sooner if required.
 
 3.2  FOR A TREATING PSYCHIATRIST — I am willing to obtain this
 
-Q1(a)  "When was Mr Shepherd first diagnosed with MDD?"
-       I answer this openly: the diagnosis was made on 24 October 2024.
-       Two matters should be recorded about the question as framed. First, a bare date does not
-       identify a required adjustment or assess the suitability of a proposed one. What makes it
-       meaningful is the clinical context — my current condition, the course of the condition
-       since the diagnosis, and the period over which the recommended adjustments are expected
-       to be required. That is properly a matter for my treating psychiatrist, and I ask that it
-       be put to him in those terms.
-       Second, the question asks my general practitioner to speak to my complete psychiatric
-       diagnostic history — in substance, to certify that no other diagnosis exists. That is
-       beyond a general practitioner's scope and I ask that it not be put to him in that form.
+  Q1(a)  I answer this openly: the diagnosis was made on 24 October 2024. What makes a date
+         meaningful is the clinical context, which is my psychiatrist's to give; and the
+         question as framed asks a general practitioner to certify that no other diagnosis
+         exists, which is beyond his scope. I ask that it be put in psychiatric terms.
+  Q1(d), Q8  as above — a specialist view of a psychiatric risk and its exacerbating factors.
+  Q7     what "working memory is affected under stress" means in functional terms — a
+         functional cognitive opinion is a psychiatrist's, not a general practitioner's.
 
-Q1(d)  Whether exposure to the identified stressors presents a foreseeable risk to my health or
-       safety on return, and what controls or adjustments are medically necessary to manage that
-       risk.
-       Dr Ma will answer this, and I do not ask that it be taken from him. But the risk in
-       question is a psychiatric risk, and my treating psychiatrist is better placed to assess
-       it and to specify the controls it requires. I will put the question to him as well, so
-       that the Health Service has a specialist view of the adjustments it is being asked to
-       make.
+Please confirm which questions the Health Service presses. I will then instruct my psychiatrist,
+with the invoice directed to you consistent with the Health Service's confirmation that it will
+meet the reasonable costs. The opinion will be directed to current capacity, functional
+restrictions and recommended adjustments — the stated purpose of this inquiry — and not to the
+cause of my injury, which is in issue in WC/2024/227 and is not necessary for that purpose.
 
-Q8     Specific tasks, situations or environments which may exacerbate my condition.
-       As with Question 1(d), Dr Ma will answer this and I do not ask that it be taken from him.
-       What exacerbates a psychiatric condition is a psychiatric question, and a specialist view
-       will be of more use to the Health Service in settling the adjustments.
-
-Q7     What "working memory is affected under stress" means in functional terms, including how
-       it may affect capacity under normal workplace demands and the circumstances likely to
-       cause difficulty.
-
-This is a legitimate adjustment question, but a functional cognitive opinion is properly a
-psychiatrist's rather than a general practitioner's. Dr Ma can address it in general terms
-only.
-
-So that it can be arranged, please confirm which questions the Health Service presses — that is,
-whether it presses Question 7, and identify any part of Questions 1(d), 4 or 8 on which it
-requires a specialist rather than a general practitioner's opinion.
-
-I will then instruct my treating psychiatrist. The invoice for the consultation and the report
-will be directed to you, consistent with the Health Service's confirmation that it will meet my
-reasonable costs of preparing this report.
-
-Consistent with option 1, I will obtain that opinion and provide it. It will be directed to my
-current capacity, functional restrictions and the adjustments recommended — that is, to the
-stated purpose of this inquiry. It is not a medico-legal opinion on the cause of my injury,
-which is a matter in issue in WC/2024/227 and is not necessary for that purpose.
-
-The sequence this requires is worth stating, because it bears on the timeframe. I am not able to
-instruct my treating psychiatrist until the Health Service confirms which questions it presses
-and that it will meet the cost. Once it has, an appointment must be obtained and the opinion
-prepared. The same applies to Dr Ma: the consultation I cancelled cannot sensibly be rebooked
-until the question set is settled.
-
-None of that can occur within seven calendar days. The only step which cannot presently begin
-is the one which depends on the Health Service, and I ask that it be taken promptly so that the
-rest can follow.
-
-The invoice for any specialist opinion will be directed to the Injury Management Consultant on
-the same basis as Dr Ma's, consistent with the Health Service's confirmation that it will meet
-my reasonable costs.
-
-I note that a request to my own treating practitioners rests on a different footing from an
-independent medical examination, which is governed by chapter 3 part 8 division 5 of the Public
-Sector Act 2022 and Directive 04/24, and which has not been invoked.
+The sequence bears on the timeframe: I cannot instruct either practitioner until the question
+set is settled, and none of that can occur within seven calendar days. The only step which
+cannot presently begin is the one which depends on the Health Service. I note that a request to
+my own treating practitioners rests on a different footing from an independent medical
+examination under chapter 3 part 8 division 5 of the Public Sector Act 2022, which has not been
+invoked.
 
 --------------------------------------------------------------------------------
 PART 4 — QUESTIONS FOR THE HEALTH SERVICE
@@ -351,64 +274,29 @@ The premise of Question 2 is separately incorrect and is addressed at Part 5.
 
 The question asks whether I am "medically fit to return to their substantive role under the
 existing reporting arrangements, including working with and reporting to their current line
-manager."
+manager." That asks a treating doctor to certify that a workplace arrangement is safe. Under
+section 19 of the Work Health and Safety Act 2011 that duty rests with the Health Service; under
+the Managing the risk of psychosocial hazards at work Code of Practice 2022 a psychosocial
+hazard is a feature of the work, identified and controlled by the PCBU; and G03 clause 1
+requires proper consideration of that Code. A doctor can advise on me; a doctor cannot assess
+the Health Service's reporting arrangements.
 
-This asks a treating doctor to certify that a workplace arrangement is safe. Under section 19
-of the Work Health and Safety Act 2011 that duty rests with the Health Service. Under the
-Managing the risk of psychosocial hazards at work Code of Practice 2022, a psychosocial hazard
-is a feature of the work, to be identified and controlled by the person conducting the business
-or undertaking. G03 clause 1 requires that "proper consideration must be given to the Managing
-the risk of psychosocial hazards at work Code of Practice 2022, to ensure the process of
-providing reasonable adjustments in the workplace, identifies and manages psychosocial hazards
-and risks."
-
-What is sought is a workplace risk assessment, not a medical opinion. A doctor can advise on
-me; a doctor cannot assess the Health Service's reporting arrangements.
-
-I add one thing about the information the Health Service says it lacks. The letter of 7 July
-2026 records that my practitioner had advised of "unresolved workplace matters involving line
-management", and that the Health Service "does not have sufficient information to understand the
-nature of these matters or assess whether they present any psychosocial hazards or risks".
-
-That gap is real, and I am not disputing it. But it is closed by the Health Service consulting
-and assessing, not by my doctor. Sections 47 to 49 of the Work Health and Safety Act 2011
-require consultation with workers who are directly affected — when identifying hazards, when
-deciding how to control them, when proposing changes, and when deciding the procedures for
-monitoring the health of workers. I have not been consulted at any point since 26 June 2026.
-
-For completeness, the matters my practitioner was referring to concern how work in the unit is
-organised and decided, rather than any individual. They include how patient safety concerns
-raised at the switchboard are escalated; how changes to the work and the roster have been
-introduced; fatigue and recovery between shifts; and the ability of staff to have input into
-decisions affecting the work. I set that out here only because the Health Service says it does
-not know what the matters are, and because they are workplace matters — which is why the
-assessment belongs with the Health Service.
+The letter of 7 July 2026 records that the Health Service "does not have sufficient information
+to understand the nature of these matters or assess whether they present any psychosocial
+hazards or risks". That gap is real, and it is closed by the Health Service consulting and
+assessing — sections 47 to 49 require consultation with workers directly affected, and none has
+occurred since 26 June 2026. For completeness, the matters concern how work in the unit is
+organised and decided: how patient safety concerns raised at the switchboard are escalated; how
+changes to work and roster have been introduced; fatigue and recovery between shifts; and staff
+input into decisions affecting the work. They are workplace matters, which is why the assessment
+belongs with the Health Service.
 
   → FOR THE HEALTH SERVICE: a risk assessment of the Switchboard work environment addressing
-    the psychosocial hazards identified. Clause 7.2.1 of the Queensland Public Health Sector
-    Certified Agreement provides the mechanism.
+    the psychosocial hazards identified. Clause 7.2.1 of the certified agreement provides the
+    mechanism.
 
   → THEN FOR MY PRACTITIONER: "Are any adjustments recommended in relation to supervision
     arrangements, and if so, what are they in functional terms?"
-
-**A further matter on Question 3.** My general practitioner's reference to "unresolved workplace
-matters involving line management" is his summary of matters I have raised with the Health
-Service. Those matters are recorded in the Health Service's own documents. They are described as
-unresolved because they were raised and not determined, and no outcome has been advised to me.
-
-That is not a matter requiring medical explanation. It is a status, and the Health Service holds
-the record of it. The Managing the risk of psychosocial hazards at work Code of Practice 2022 —
-which G03 clause 1 requires the Health Service to apply to this very process — identifies the
-relevant hazard directly. It defines poor organisational justice as "a lack of procedural
-fairness (fair processes to reach decisions), informational fairness (keeping relevant people
-informed), or interpersonal fairness", and lists among the situations which may lead to it
-"inequitable or inconsistent application of procedures across workers or over time" and "workers
-or managers believing that rules do not apply to them and failing to follow agreed policies,
-guidelines and procedures". Under poor workplace relationships it lists "a lack of fairness and
-equity in dealing with workplace issues".
-
-The Health Service is better placed than my general practitioner to identify what those matters
-are. The Code identifies what kind of hazard they are.
 
 4.3  QUESTION 6 — what are the genuine occupational requirements?
 
@@ -695,126 +583,60 @@ PART 8 — TIME
 
 8.1  DEADLINES IN THIS MATTER HAVE RUN IN ONE DIRECTION
 
-On 26 June 2026 the Manager, Switchboard Services advised that my return could not be
-facilitated until a completed Employee Capabilities Checklist was provided. That position was
-repeated on 2 July 2026 with a deadline of 2:00pm on Friday 3 July 2026. I met it. The checklist
-was provided on 3 July at 2:32pm.
+I met the deadline of 2:00pm on 3 July 2026; the checklist was provided at 2:32pm and certified
+me fit with restrictions. At 3:18pm I asked whether I should attend. Five weeks later that has
+not been answered, no instrument authorising my exclusion has been identified although I have
+asked three times, no date has been given by which I might return or any decision would be made,
+and on 30 July 2026 I was told the matter was "progressing for delegate approval" and that the
+Health Service was "unable to guarantee" my return.
 
-At 3:18pm the same day I asked to be told whether I should attend. That request has not been
-answered. I have now been held out for five weeks. In that period:
+On 31 July 2026 the Director, Corporate Services set me seven calendar days, with a consequence:
+a decision regarding my ability to perform my role on the available information. The letter does
+not say what that decision is. I ask that it be identified — what decision, and under what
+instrument. If it is a decision that I return to work, I welcome it and no consequence arises.
+If it is a decision of another kind, I am entitled to know now, and to the procedural fairness
+that attaches to it. This is the second occasion an adverse position has been foreshadowed
+without an instrument: on 15 July my return was said to "remain at the discretion of the
+Employer".
 
-  (a) no instrument authorising my exclusion has been identified to me, although I have asked;
-  (b) no date has been given to me by which I might return, or by which any decision would be
-      made;
-  (c) the basis on which I am held out has been put to me in several different ways; and
-  (d) on 30 July 2026 I was told the matter was "progressing for delegate approval" and that
-      the Health Service was "unable to guarantee" my return.
-
-On 31 July 2026 the Director, Corporate Services set me a deadline of seven calendar days, and
-attached a consequence to it: that a decision would be made regarding my ability to perform my
-role on the available information.
-
-The letter does not say what that decision is. I ask that it be identified. What decision is
-meant by "a decision regarding your ability to perform your role", and under what instrument
-would it be made? If it is a decision that I return to work, I welcome it and no consequence
-arises. If it is a decision of another kind, I am entitled to know that now, and to the
-procedural fairness which would attach to it.
-
-I ask this because it is the second occasion on which a position adverse to my return has been
-stated to me without an instrument being identified. On 15 July 2026 I was told that my return
-"remains at the discretion of the Employer". On 31 July 2026 a decision on the available
-information was foreshadowed. On neither occasion was the source of the power identified, and I
-have now asked three times.
-
-I do not object to being given a deadline. I ask the Health Service to note only that deadlines
-in this matter have so far run in one direction. I have met every deadline set for me. In five
-weeks without income I have been given none in return, and no instrument has been identified
-for the period in which I have had none.
-
-I therefore ask for two things: the extension below, and a date by which the Health Service
-will tell me whether I am returning to work. If seven days is a reasonable period in which to
-require an answer from me, I do not think it unreasonable to ask the Health Service to nominate
-a date of its own.
+I do not object to a deadline. I note only that I have met every deadline set for me, and in
+five weeks without income I have been given none in return. I ask for the extension below, and
+for a date by which the Health Service will tell me whether I am returning to work.
 
 8.2  THE EXTENSION
 
-The request allows seven calendar days from receipt, expiring 7 August 2026, and expressly
-contemplates a reasonable extension. I request one.
-
-The letter was received at 11:43am on Friday 31 July, approximately two hours before a
-consultation with Dr Ma of which the Health Service had been notified on 30 July. Nine
-questions cannot be put to a practitioner on two hours' notice, and because the scope of the
-questions is in issue I cancelled that consultation rather than incur a cost that both the
-Health Service and I would have wasted. I will rebook it once the question set is settled.
-
-I propose that the response be provided in two parts:
-
-  (a) the questions within Dr Ma's scope — 21 days from the date the Health Service confirms
-      the final question set; and
-  (b) any question requiring specialist input — on a timeframe set once the Health Service
-      confirms which questions it presses and that it will meet the cost.
-
-I do not seek delay; the exclusion is costing me my income. I ask the Health Service to note
-that several of its questions can only be answered by a specialist, and that pressing them
-necessarily extends the inquiry. It cannot be reasonable to maintain an unpaid exclusion for a
-period created by the Health Service's own requirements.
+The letter allows seven days, expiring 7 August 2026, and expressly contemplates a reasonable
+extension. I request one. The letter arrived at 11:43am on 31 July, two hours before a
+consultation with Dr Ma of which the Health Service had notice; because the question set is in
+issue I cancelled it rather than waste a cost, and will rebook once the set is settled. I
+propose two parts: (a) Dr Ma's questions — 21 days from the Health Service confirming the final
+question set; (b) specialist questions — on a timeframe set once it confirms which it presses
+and that it will meet the cost. I do not seek delay; the exclusion is costing me my income, and
+it cannot be reasonable to maintain an unpaid exclusion for a period created by the Health
+Service's own requirements.
 
 --------------------------------------------------------------------------------
 PART 9 — DISCLOSURE AND COSTS
 --------------------------------------------------------------------------------
 
-DISCLOSURE. I adopt option 1 and will obtain the information from my practitioners and provide
-it. I do not consent to option 2 and do not provide an authority for the Health Service to
-obtain information directly from my treating practitioners. G03 clause 3 provides that
-"Queensland Health acknowledges the right of the person with disability, condition, cultural
-considerations or neurodivergence to choose how disclosure of information occurs," and that "it
-may only be necessary to share information when the ability to meet genuine occupational
-requirements and or individual safety is at risk and reasonable adjustment is required." My
-election is the exercise of a right the policy expressly recognises.
+I adopt option 1 and will obtain the information from my practitioners and provide it. I do not
+provide an authority under option 2. G03 clause 3 acknowledges "the right of the person… to
+choose how disclosure of information occurs", and that information need only be shared where
+genuine occupational requirements or safety are at risk and reasonable adjustment is required.
+My election exercises a right the policy expressly recognises.
 
-USE OF THE INFORMATION. The letters state the purpose for which this information is sought — to
-identify and implement appropriate workplace controls or reasonable adjustments to support a
-return to my substantive position. Please confirm that the information obtained will be used
-only for that purpose, and identify any person or entity outside the Health Service to whom it
-is proposed to be provided. I ask this as an ordinary question about the handling of my health
-information, and so that I know the position before the information is obtained rather than
-after.
+As to handling, I ask that any medical information I provide be: (a) held by the Injury
+Management Consultant on a medical-in-confidence basis; (b) not provided to my line manager or
+Switchboard Services — a line manager requires the adjustments, not the clinical information
+behind them; and (c) used only for the stated purpose. Please confirm that, and identify any
+person outside the Health Service to whom it is proposed to be provided. My separate letter to
+the Chief Executive of today's date deals with information handling in full.
 
-HANDLING WITHIN THE HEALTH SERVICE. The information sought is sensitive health information. G03
-clause 3 recognises my right "to choose how disclosure of information occurs," and provides that
-"it may only be necessary to share information when the ability to meet genuine occupational
-requirements and or individual safety is at risk and reasonable adjustment is required."
-
-I ask accordingly that any medical information I provide be:
-
-  (a) held by the Injury Management Consultant on a medical-in-confidence basis;
-  (b) not provided to my line manager or to Switchboard Services — a line manager requires the
-      adjustments to be implemented, not the underlying clinical information;
-  (c) accessible within the Health Service only to those who require it in order to determine
-      what adjustments can be made; and
-  (d) considered, for the purpose of any decision about my capacity or my return to duty, by an
-      officer in relation to whom no conflict of interest arises, consistent with the separation
-      of functions proposed at Part 6.1.
-
-I raise this in the ordinary way, and not as a criticism of anyone's handling to date.
-
-COSTS. I note and accept the confirmation that "MSH will meet your reasonable costs of
-preparing this report."
-
-  (a) The consultation of 3 July 2026 which produced the Employee Capabilities Checklist was
-      invoiced at $150.00 and paid by me on 10 July 2026 (receipt N471065713633). I ask that it
-      be reimbursed.
-  (b) The rebooked consultation with Dr Ma, and any further consultation required to answer the
-      Health Service's questions, will be invoiced to the Injury Management Consultant at the
-      address nominated.
-  (c) Where specialist input is required to answer the Health Service's questions, the invoice
-      for the psychiatrist's consultation and report will likewise be directed to you, on the
-      same basis.
-
-RECORDS. The covering email is copied to notes@solv.com.au and refers to a transition to "Solv,
-a new Injury Management Case System." Please confirm what personal and health information
-concerning me is held in or transmitted to that system, the basis on which it is held, and the
-arrangements governing its use and disclosure.
+As to costs, the letter of 31 July 2026 confirms that MSH will meet the reasonable costs of the
+reports and directs invoices to you. I have proceeded on that basis; both practitioners will
+invoice you directly, quoting MSH-INJ-5795. The consultation of 3 July 2026 ($150.00, invoice
+574370, paid 10 July 2026) is an earlier cost whose reimbursement I sought on 30 July 2026 and
+which remains outstanding.
 
 --------------------------------------------------------------------------------
 PART 10 — RESPONSE REQUESTED

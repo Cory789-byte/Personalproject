@@ -23,7 +23,7 @@ EMAIL 1 — THE RESPONSE
 TO:      lbh_InjuryManagement@health.qld.gov.au
 CC:      LBH.HRTeam1@health.qld.gov.au; Emily Petering; Heath Moran
 SUBJECT: Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073]
-ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (12pp)
+ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (10pp)
          NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf        (2pp)
 
 >>> Body is the full text of  RFMI_RESPONSE_EMAIL.txt  — paste it as it stands.
