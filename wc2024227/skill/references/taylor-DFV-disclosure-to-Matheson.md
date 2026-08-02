@@ -230,6 +230,31 @@ If confirmed, the honest weakness above becomes **historical only**:
   *rostering* half of 14 Jan 2024 could still be factually adjacent even if the date is not
   particularised. Neither revives the family/police content.
 
+### ⭐ THE CASE-THEORY FRAME (Cory, 2 Aug 2026) — occasion vs stressor
+**[A]** Cory's clarifications: (1) he doubts even the *original* 9A touched the event — the para-9
+hook was Matheson's citation of "**paragraph 9 SOFAC**" (the statement of facts and contentions,
+a different document from the Form 9A — keep them distinct; verify both on ingest). (2) To the
+extent the event was ever pleaded, **the stressor was Taylor's rostering decision — being rostered
+out of a shift he had given notice for and insisted he would attend — a workplace management
+action.** The family matter was only the **occasion**: the personal circumstance that should have
+been *accommodated* (DFV leave), and instead was answered with a roster-out and a leave
+substitution.
+
+**Why this frame matters:**
+- It means the family/police content was **never relevant at ANY point in the case's history** —
+  even under the original pleading, only the notice/lateness message and the rostering response
+  were in issue. Matheson's own narrow request ("a text saying he was going to be late")
+  implicitly recognised exactly that boundary; Taylor's supply crossed it. ⇒ The confinement
+  letter's position upgrades from "no longer relevant" to "**at no time relevant**".
+- It is the same architecture as the whole 2026 employment file: **personal/medical circumstance →
+  accommodation owed → management action instead.** Jan 2024 is the first instance of the pattern
+  the July 2026 exclusion repeats at scale.
+- ⚠️ s 32(5) discipline: framing any single event as "Taylor's decision-making" invites the
+  reasonable-management-action defence on that event. The pleaded strength is the **pattern**
+  (Stressor 1(a) erratic presence / roster inequity), not the reasonableness of one rostering
+  call. The occasion-vs-stressor frame is for understanding and for the confinement letter's
+  relevance point — not a new particular to plead.
+
 ### ⇒ WHERE IT ACTUALLY EARNS ITS KEEP
 Not as a privacy complaint. **As the answer if the Regulator ever deploys non-work stressors on
 causation** — because the material only reached the file through MSH's own over-supply, in response

@@ -3379,3 +3379,11 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   confinement letter's "no connection to any pleaded issue" becomes verifiable against the live
   pleadings. Residuals: superseded 9A usable on credit in cross; Stressor 1(a) roster generality
   could keep the rostering half factually adjacent.
+
+## 2026-08-02 (cont. 7) — Occasion-vs-stressor frame recorded
+- Cory: the pleaded stressor (if pleaded at all) was Taylor's ROSTERING DECISION — management
+  action — not the family matter, which was only the occasion and should have been accommodated
+  (DFV leave). Para-9 hook was the SOFAC, not the 9A — two documents; verify both on ingest.
+- Consequence: family/police content was never relevant at ANY point — Matheson's narrow request
+  itself recognised the boundary. Confinement letter position upgrades to "at no time relevant".
+- s 32(5) discipline noted: pattern (Stressor 1(a)), not single-decision reasonableness.
