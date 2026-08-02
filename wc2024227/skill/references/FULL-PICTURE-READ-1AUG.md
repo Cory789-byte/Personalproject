@@ -139,3 +139,47 @@ status (asserted closed — confirm in writing when they answer §4(d)).
 Send Monday exactly as built. In parallel, this week: the certificate, the runway plan, the two
 directives, the Petering answer. Treat 24 August not as the finish line but as the fork gate —
 **on that day you will know which world you are in, and both have a playbook already written.**
+
+---
+
+# ADDENDUM — THE APPEAL ITSELF, CONDITIONAL ON THE PACKAGE + A SILENT 7TH
+> Added 1 August 2026 on request. Same method, appeal-specific blocks.
+
+## The rating
+| Path | Central | 80% CI |
+|---|---|---|
+| **Win at a contested hearing** | **~29%** | 25–34% |
+| ⭐ **Favourable overall — acceptable settlement OR win** | **~68%** | span 21–46% on the win leg; settlement pickup 0.55 |
+
+**Read plainly: roughly two chances in three of a favourable end to the appeal, and settlement —
+not a hearing win — is the engine.** That is not a weakness of the case; it is its design. The
+whole architecture (restrained 64G, Calderbank record, employment leverage flowing sideways,
+costs exposure accumulating on their side) is built to make settlement the rational exit for the
+Regulator well before a hearing tests the hardest block.
+
+## The blocks (win path)
+| Block | Reconciled | Anchor |
+|---|---|---|
+| Credibility/record intact to hearing | .90 | conditional on the silent 7th and the tone lane staying shut |
+| Disclosure yields the roster/payroll fuel | .75 | the trimmed-grant scenario (~75–80% something ordered); the ordered categories are precisely the Stressor 1(a) + "roster was equitable" material |
+| Report B causation holds | .70 | ⏳ not yet obtained — the largest buildable block |
+| ⭐ **s 32(5) defence fails on the global evaluation** | **.55** | Review Decision 69983 already found factor 4 (17–18 Mar 2024 rostering) **unreasonable** but applied s 32(5) on the *Delaney* global approach — **this is the whole contest**, de novo before Dwyer |
+
+**Tornado:** s 32(5) ±9 · Report B ±7 · disclosure ±7 · credibility ±5.
+
+## What the package + silent 7th actually add to the appeal
+The emails and the mention posture do **not** change the 2024 merits. They move the appeal three
+ways: (1) **disclosure** — the silent, procedural mention maximises the trimmed grant, and the
+ordered rosters/payroll attack the s 32(5) block at its found-unreasonable factor; (2)
+**settlement pressure** — every employment-track clock and exposure lands on the same government
+balance sheet the Regulator answers to, and the 15-day Calderbank rejection already proved the
+file is being read; (3) **downside capped** — the one thing that could collapse the appeal from
+his side (an intemperate record put before the trier of fact) is structurally prevented.
+Net effect vs the pre-package baseline: **+5–8 points on the favourable total, and the left tail
+largely removed.**
+
+## The two blocks he can still build
+1. ⭐ **Report B** — the causation report is the biggest movable block (±7). Brief the psychiatrist
+   exactly per the standing scopes: Report A functional only; Report B causation and chronology.
+2. **The disclosure fight** — submissions on the objection, when directed, aimed at the roster,
+   payroll and AVAC categories above all others. Win those three and the s 32(5) block moves too.
