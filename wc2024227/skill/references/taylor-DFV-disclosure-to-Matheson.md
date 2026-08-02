@@ -211,6 +211,25 @@ withdrawn.
 answer. An employer over-supplying in a litigation response is a common and usually forgiven fault,
 and the OIC remedy would be limited. **This will not win anything on its own.**
 
+### ⭐ SUPERSEDED BY THE AMENDED PLEADING — recorded 2 Aug 2026
+**[A]** Per Cory: the **amended Form 9A of 8 April 2026** (the Neville pleading, Stressor 3(b) —
+see confirmed-record.md) **does not plead the 14 January 2024 event at all**. ⚠️ Verify against the
+amended 9A text when ingested — **the amended 9A is not yet held in this repo; OBTAIN.**
+If confirmed, the honest weakness above becomes **historical only**:
+- Matheson's item-5 request (4 Jul 2025) was proper *against the then-pleading*. But disclosure
+  relevance runs on the **live** issues, and the material now connects to **nothing pleaded by
+  either side**. It is orphaned — not merely over-supplied beyond a narrow request, but tethered
+  to a particular that no longer exists.
+- The confinement letter's central line — "no connection to any pleaded issue" — becomes
+  **literally verifiable against the live pleadings**, not just arguable about the excess.
+- Any future deployment of it by the Regulator would be use of non-pleaded sensitive third-party
+  material — bad on relevance before privacy is even reached.
+- ⚠️ Residual life it keeps: (i) the **superseded 9A remains a filed document** — usable in cross
+  on prior-inconsistent-pleading/credit, so the event is not radioactive-free; (ii) if Stressor
+  1(a) (erratic presence / roster equity) survives in the amended pleading in general terms, the
+  *rostering* half of 14 Jan 2024 could still be factually adjacent even if the date is not
+  particularised. Neither revives the family/police content.
+
 ### ⇒ WHERE IT ACTUALLY EARNS ITS KEEP
 Not as a privacy complaint. **As the answer if the Regulator ever deploys non-work stressors on
 causation** — because the material only reached the file through MSH's own over-supply, in response

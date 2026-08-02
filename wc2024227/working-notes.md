@@ -3370,3 +3370,12 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   letter. QPS-track/personal file only. Added as CLAUDE.md discipline rule 10.
 - Verified before adding: full grep sweep of drafts/SEND_31JUL/*.txt and the Matheson draft —
   zero references to any of the three items. Package clean.
+
+## 2026-08-02 (cont. 6) — Amended 9A does not plead 14 Jan 2024 [A]
+- Cory: the 8 Apr 2026 amended 9A (Neville pleading) does not touch the 14 Jan 2024 event.
+  Recorded in taylor-DFV file as superseding note; the "he put para 9 in issue" weakness becomes
+  historical if confirmed. OBTAIN: the amended 9A text is NOT held in the repo — ingest it.
+- Effect: the Taylor material is orphaned (tethered to a superseded particular) → the Matheson
+  confinement letter's "no connection to any pleaded issue" becomes verifiable against the live
+  pleadings. Residuals: superseded 9A usable on credit in cross; Stressor 1(a) roster generality
+  could keep the rostering half factually adjacent.
