@@ -2,10 +2,23 @@
 
 **The 14 January 2024 QPS matter was NOT an intimate-partner matter, and it was not about Cory.**
 
-Cory's account **[A]**: it concerned his **sister, then 15**, who was acting out. The police issued
-something **less than a Police Protection Notice** — a good-behaviour direction — **against her**.
-He attended the police station at police direction in relation to a **family** matter involving a
-child.
+Cory's account **[A]** (refined 2 Aug 2026): it concerned his **sister, then 15**, who was
+**running away, returning home, and picking on their mother** — the conduct was directed at the
+**mother**, not at Cory. The police issued something **less than a Police Protection Notice** — a
+good-behaviour direction — **against the sister**. He attended the police station at police
+direction in relation to a **family** matter involving a child.
+
+⭐ **Cory's role: neither aggrieved nor respondent.** The person the conduct targeted was his
+mother; the person subject to the police direction was his sister. **He had no party status of any
+kind** — he was the supporting adult family member. The ~10 days that followed (helping his mother
+move her belongings; she went to NSW for a week) fit the same role: **the stabilising adult
+assisting a parent, not a person in crisis.**
+
+**Legal note (verified, ATT25):** even with the mother as the person needing protection,
+s 22(2) still barred any DVO or PPN against the sister — mother–daughter is a *family*
+relationship, and a child respondent is possible only in intimate-personal or informal-care
+relationships. The non-DFVP good-behaviour direction was the only instrument available to police
+**whoever the aggrieved was**.
 
 ⇒ **It is a wholly separate matter from the ex-partner matter of February–March 2025**, which is what
 Hughes wrote about on 28 March 2025. **The two are unconnected.**

@@ -3354,3 +3354,11 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   instance of the pattern. If coded DFVL → corroborates the DV character. Either resolves it.
 - Cross-exam line adjusted: practical help with a family move, then five clean months, no
   treatment, no certificate. Never self-describe as "a stressor".
+
+## 2026-08-02 (cont. 4) — Jan 2024 account refined [A]
+- The sister's conduct was directed at the MOTHER (running away, returning, picking on her) —
+  not at Cory. He had no party status at all: not aggrieved, not respondent — the supporting
+  adult who attended at police direction and then helped his mother move (the ~10 days).
+- s 22(2) check holds for mother-as-aggrieved too: mother–daughter is a family relationship →
+  no DVO/PPN possible against the child whoever the aggrieved was. Non-DFVP direction was the
+  only available instrument. Reference file account block updated.
