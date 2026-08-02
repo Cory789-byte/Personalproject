@@ -4,8 +4,8 @@ Request for Medical Information dated 31 July 2026 — MSH-INJ-5795
 Cory Lea Shepherd
 AO3, Switchboard Services, Logan Hospital, Metro South Health
 
-To:      Injury Management, Human Resources, Logan Bayside Health Network
-         lbh_InjuryManagement@health.qld.gov.au
+To:      Human Resources, Logan Bayside Health Network
+         LBH.HRTeam1@health.qld.gov.au
 Date:    3 August 2026
 
 --------------------------------------------------------------------------------

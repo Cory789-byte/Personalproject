@@ -3394,3 +3394,13 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   (MSH-held). NOT pursued while the event is unpleaded; banked in the taylor-DFV file.
 - Tone discipline reaffirmed: insensitivity runs on substance (roster-out despite notice, quiet
   hour, entitlement substituted), never on her polite text wording.
+
+## 2026-08-03 (send morning) — FINAL REROUTE per Cory, PDFs rebuilt
+- Request (cl 10.3): To HR ONLY (LBH.HRTeam1); Taylor removed entirely. 21 days runs on HR receipt.
+- RFMI Response (+ Proposal + Arrangements): To HR; Cc Injury Management (kept for the 7-day
+  receipt chain — flagged DO NOT REMOVE), union Cc.
+- Dispute: To Taylor AND HR; Cc union only; IM off.
+- CE letter: unchanged — CE alone, no legal (Part 7A reasoning stands; advised against adding
+  MSH Legal).
+- All six PDFs rebuilt 3 Aug 09:2x AEST; pages 8/3/2/5/4/4 (26pp), metadata clean, headers
+  verified by pdftotext. EMAILS_TO_PASTE_3AUG.txt updated with routing + rationale notes.
