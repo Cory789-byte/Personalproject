@@ -6,15 +6,12 @@ Each attachment is in  wc2024227/drafts/out/
 
 
 ================================================================================
-EMAIL 0 — EMILY PETERING (SEND THIS ONE FIRST)
+EMAIL 0 — ⛔ NOT SENDING (Cory, 3 Aug) — Petering email withdrawn from today's send.
+The four MSH emails go alone. Petering and Moran still receive everything live via
+their Cc on emails 1–3. The appeal-window question (PETERING_URGENT_EMAIL.txt) is
+HELD — raise it with Emily separately when ready; the combined-documents PDF
+(Shepherd_Documents_MSH-INJ-5795_3Aug2026.pdf) is in drafts/out/ if ever wanted.
 ================================================================================
-TO:      Emily Petering, Industrial Officer, Together Queensland
-CC:      Heath Moran
-SUBJECT: Urgent — one question re appeal timeframe — Cory Shepherd, AO3 Switchboard, Logan
-ATTACH:  Chloe Taylor's email of 13 July 2026
-         + ATTACHMENTS_STITCHED_all_six_documents_3Aug2026.pdf  (all six documents, 26pp, one file)
-
->>> Body is the full text of  PETERING_URGENT_EMAIL.txt  — paste it as it stands.
 
 
 ================================================================================

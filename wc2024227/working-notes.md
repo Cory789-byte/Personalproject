@@ -3429,3 +3429,13 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   (+4.6, the forward-pay limb's work) · appeal win 29 (unchanged) · appeal favourable 66 (±0).
   Conclusion: the weekend's edits bought pay-recovery points; the package remains at the
   drafting ceiling. SEND.
+
+## 2026-08-03 (send morning, 4) — Petering withdrawn; receiver-clean pass
+- Cory: Petering email NOT sending today — marked HELD in both files; union still sees all live
+  via Cc on emails 1–3. EMAIL_0 record PDF removed.
+- Combined pack renamed receiver-neutral: Shepherd_Documents_MSH-INJ-5795_3Aug2026.pdf (no
+  "stitched" anywhere a receiver could read; wording in the held Petering draft also neutralised).
+- Jargon sweep of the four MSH bodies: clean (only substring false-positives).
+- FINAL metadata check across every attachable file: no Title/Author/Creator/Producer/Subject,
+  Custom Metadata no, Metadata Stream no — on all six documents, the combined pack, and the four
+  email record PDFs.
