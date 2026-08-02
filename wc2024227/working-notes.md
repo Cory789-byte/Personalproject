@@ -3439,3 +3439,9 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - FINAL metadata check across every attachable file: no Title/Author/Creator/Producer/Subject,
   Custom Metadata no, Metadata Stream no — on all six documents, the combined pack, and the four
   email record PDFs.
+
+## 2026-08-03 (send morning, 5) — Four CE enclosures extracted, all attachments produced
+- ENCLOSURE_A: RFMI 31 Jul GP letter p1 (Hughes signature page) · B: p3 (question 3) ·
+  C: ECC 3 Jul p1 (certification + "continuation of existing arrangement", verified by page
+  render — no text layer) · D: 2 Jul 2026 email (2pp origin document). All metadata scrubbed.
+- Complete attachment set delivered to Cory: 6 documents + 4 enclosures (10 files).
