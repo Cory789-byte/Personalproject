@@ -183,3 +183,54 @@ largely removed.**
    exactly per the standing scopes: Report A functional only; Report B causation and chronology.
 2. **The disclosure fight** — submissions on the objection, when directed, aimed at the roster,
    payroll and AVAC categories above all others. Win those three and the s 32(5) block moves too.
+
+---
+
+# ADDENDUM 2 — RE-EVALUATION AFTER THE FINAL CONFIGURATION (compression, split, routing)
+> Run late 1 August 2026, after: 30pp→26pp across six documents; the 3pp Proposal for Return to
+> Work split out; Hughes removed from all recipients; HR on the Taylor email only; the CE letter
+> addressed to her alone; the costs section converted from ask to acceptance; the 3 October date
+> corrected and the bounced-email landmine removed from the deployable record.
+
+## THE NUMBERS, BEFORE → AFTER
+| Model | Before | ⭐ After | Moved by |
+|---|---|---|---|
+| Employment composite (strict, end-Oct) | 40% (35–46) | **42% (37–49)** | +2 |
+| Favourable incl. settlement | 61% | **63%** | +2 |
+| Appeal favourable (settle or win) | 68% | **68–69%** | ~0 |
+
+## WHY THE HYPOTHESIS IS STRONGER — AND BY HOW MUCH, HONESTLY
+**Stronger, modestly, and in exactly the blocks the changes touch:**
+1. ⭐ **EXECUTION rose (.88→.90)** — the largest single contributor, and most of it is not the
+   compression: it is the **removal of the bounced-email landmine**. The "no reply for 10 months"
+   claim, if deployed and refuted with a spam bounce, was a prepared credibility strike against
+   him; it is now suspended and cannot detonate. The shorter documents also shrink the error
+   surface and the misquote surface.
+2. **EMPLOYER MOVES rose (.62→.64)** — a **3pp proposal is a grantable object** in a way a section
+   of a 12pp letter is not; the costs section now *accepts* their written commitment instead of
+   asking (an acceptance cannot be refused); and the CE letter arriving **alone, without an
+   audience**, reads as a genuine s 89 disclosure rather than a broadcast — the version most
+   likely to be acted on rather than defended against.
+3. **MECHANISM rose slightly (.85→.86)** — internal routing: the proposal, the allocation and the
+   dispute now travel as separate objects to the desks that decide them.
+
+## ⚠️ WHAT THE ROUTING CHANGE COSTS — recorded, not hidden
+- **Hughes no longer receives anything directly on Monday.** The earlier architecture put
+  receipted personal notice in his inbox; now his knowledge arrives by internal routing —
+  near-certain in fact, but **no longer provable by a delivery receipt from Cory's side.** The
+  s 571/"acting after personal notice" tell is weakened by one step. ⭐ Mitigation: the CE letter
+  names the structure precisely, and **the "who signs the next letter" tell still works in full.**
+- **HR sees only the dispute notice directly.** The "competent grown-up" channel is narrowed by
+  one document; the notice itself carries the whole picture, and the CE will route. ⭐ If HR
+  engages constructively, feed that channel.
+- Net: **the costs are second-order; the gains are first-order.** The reconciled read is that the
+  configuration is stronger than yesterday's, and the honest size of the improvement is
+  **+2 points on the composite — a real edge, not a transformation.**
+
+## THE UNCHANGED TRUTH
+The binding constraint was never the documents. **EMPLOYER MOVES still swings the outcome (±13)
+more than everything Cory controls combined, and the appeal number did not move because nothing
+about the 2024 merits can.** The package is now at — or extremely near — the ceiling of what
+drafting, structure and routing can contribute. ⭐ **From here the probability mass moves only
+with events: the certificate obtained, the Petering answer, the disclosure categories won, Report
+B written, and the clocks doing their work. Send it.**
