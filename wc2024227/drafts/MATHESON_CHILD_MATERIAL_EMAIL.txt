@@ -12,10 +12,24 @@ JULY 2025 DISCLOSURE — REQUEST FOR CONFINEMENT AND NON-RELIANCE
    identifying data about a child into the file. The event is described; the
    number stays out.
 
-⛔ Verify before sending: the DFVP Act and current IP Act pinpoints below were
-   matched from the working analysis, not from held copies of those Acts. Check
-   each cited section against the current consolidation on legislation.qld.gov.au
-   before this leaves the outbox.
+✅ DFVP Act pinpoints VERIFIED 2 Aug 2026 against the authorised consolidation
+   (current as at 1 Jan 2026), now held at
+   documents/instruments/ATT25_DFVP_Act_2012_current_2026-01-01.pdf with quotes
+   at documents/instruments/DFVP2012_VERIFIED_EXTRACTS.md:
+   - s 22(1)-(2): a child respondent is possible ONLY in an intimate-personal or
+     informal-care relationship — so against a 15-year-old SIBLING neither a DVO
+     nor a PPN could lawfully have been made. "No protection order was made" is
+     not just true; one was legally impossible.
+   - s 159(1)(b)(iii): the publication prohibition's child limb is its WIDEST —
+     bare "a child", no party/witness qualifier — and the penalty is criminal
+     (100 penalty units or 2 YEARS IMPRISONMENT for an individual). s 159(3):
+     "publish" means to the public — so the prior inter-party disclosure is not
+     a breach, and the section bites on any PUBLIC deployment (open hearing,
+     unrestricted tender). Cite as backdrop, never as accusation of breach.
+   - s 160: no entitlement to DFVP court records — banked for the ex-partner
+     matters if MSH/Regulator ever seek those files.
+⚠️ Still eyeball before send: the IP Act QPP numbering (QPP 6 / QPP 11) against
+   ATT21, and HR Act ss 25 / 26(2) / 58.
 ================================================================================
 
 To:      Renee Matheson <renee.matheson@oir.qld.gov.au>

@@ -3329,3 +3329,17 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   was proper; excess was in the supply). Legislation: DFVP s 159, IP Act QPPs 6/11, HR Act ss 25,
   26(2). HOLD until after 7 Aug mention; suggested send Mon 10 Aug. Verify pinpoints before send.
 - Updated taylor-DFV-disclosure-to-Matheson.md to-do with number status + draft location.
+
+## 2026-08-02 (cont. 2) — DFVP Act verified and filed as ATT25
+- Downloaded the authorised DFVP Act 2012 consolidation (current 1 Jan 2026) →
+  documents/instruments/ATT25_DFVP_Act_2012_current_2026-01-01.pdf; verified extracts at
+  documents/instruments/DFVP2012_VERIFIED_EXTRACTS.md.
+- s 22(2) VERIFIED: child respondent only in intimate-personal/informal-care relationships →
+  a DVO or PPN against the 15-y-o sister (family relationship) was LEGALLY IMPOSSIBLE. The
+  Matheson email's "no protection order was made" is corroborated by the statute itself.
+- s 159 VERIFIED: child limb (1)(b)(iii) is the widest (bare "a child"); penalty 100 PU / 2
+  years imprisonment; "publish" = to the public → prior inter-party disclosure is no breach;
+  the section bites on public deployment. Posture unchanged: backdrop, not accusation.
+- s 160 BANKED: no entitlement to DFVP court records — gate if MSH/Regulator ever seek the
+  ex-partner order files.
+- Matheson draft header updated: DFVP caveat discharged; QPP/HR Act numbering still to eyeball.
