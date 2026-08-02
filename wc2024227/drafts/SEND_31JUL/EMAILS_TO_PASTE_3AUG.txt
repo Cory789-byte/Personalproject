@@ -23,7 +23,7 @@ EMAIL 1 — THE RESPONSE
 TO:      lbh_InjuryManagement@health.qld.gov.au
 CC:      LBH.HRTeam1@health.qld.gov.au; Emily Petering; Heath Moran
 SUBJECT: Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073]
-ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (14pp)
+ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (12pp)
          NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf        (2pp)
 
 >>> Body is the full text of  RFMI_RESPONSE_EMAIL.txt  — paste it as it stands.
@@ -106,7 +106,7 @@ TO:      The Chief Executive, Metro South Health
 CC:      LBH.HRTeam1@health.qld.gov.au; lbh_InjuryManagement@health.qld.gov.au;
          Emily Petering
 SUBJECT: Conflict of interest and information handling — C Shepherd, MSH-INJ-5795
-ATTACH:  LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf   (5pp)
+ATTACH:  LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf   (4pp)
          + the four thin enclosures listed at part 8 of that letter:
            RFMI signature page · question 3 extract · ECC page · the 2 July 2026 email
          (NOT the forensic packs, NOT the analysis files)
