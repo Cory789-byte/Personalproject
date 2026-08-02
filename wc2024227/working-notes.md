@@ -3387,3 +3387,10 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Consequence: family/police content was never relevant at ANY point — Matheson's narrow request
   itself recognised the boundary. Confinement letter position upgrades to "at no time relevant".
 - s 32(5) discipline noted: pattern (Stressor 1(a)), not single-decision reasonableness.
+
+## 2026-08-02 (cont. 8) — Slow-hour manner point banked
+- Cory [A]: the 14 Jan 2024 roster-out occurred in a slow hour, not high call volume — undercuts
+  the stated coverage rationale. Evidence would be switchboard call logs for that morning
+  (MSH-held). NOT pursued while the event is unpleaded; banked in the taylor-DFV file.
+- Tone discipline reaffirmed: insensitivity runs on substance (roster-out despite notice, quiet
+  hour, entitlement substituted), never on her polite text wording.

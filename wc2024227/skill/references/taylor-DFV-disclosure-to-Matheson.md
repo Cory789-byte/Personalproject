@@ -255,6 +255,20 @@ substitution.
   call. The occasion-vs-stressor frame is for understanding and for the confinement letter's
   relevance point — not a new particular to plead.
 
+**[A] The manner point (Cory, 2 Aug 2026):** the roster-out happened in a **slow hour, not a
+high-volume call period** — undercutting the stated operational rationale ("two on the board",
+"not fair on the night staff") on its own terms. If the early period was quiet, covering the
+shift of a person who had *given notice and said he would attend* reads as unnecessary, and the
+s 32(5) shield needs both a reasonable action AND a reasonable manner.
+- Evidence that would prove it: **switchboard call-volume/activity logs for the morning of
+  14 Jan 2024** — MSH-held. ⚠️ NOT currently worth an ask: the event is (per Cory) not pleaded
+  in the amended documents; do not build evidence requests around a non-pleaded event. Banked
+  in case Stressor 1(a) pattern evidence ever makes that morning material again.
+- ⚠️ Tone discipline: do NOT run "insensitive" on her *texts* — on their face they read polite
+  ("I'm sorry to hear...", "I hope everything is ok") and a Commissioner will read them that
+  way (§4 above). The insensitivity, if ever run, lives in the **substance**: roster-out despite
+  notice, in a quiet hour, with the DFV entitlement substituted — never in the wording.
+
 ### ⇒ WHERE IT ACTUALLY EARNS ITS KEEP
 Not as a privacy complaint. **As the answer if the Regulator ever deploys non-work stressors on
 causation** — because the material only reached the file through MSH's own over-supply, in response
