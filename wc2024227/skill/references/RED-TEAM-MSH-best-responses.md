@@ -369,3 +369,112 @@ only lane that, once open, makes all the others survivable for them.
 4. **Obtain the Appeals directive** before relying on any appeal timeframe.
 5. **When they answer, come back to Rank 1–4 first.** Whichever they pick, the answer is already
    written above.
+
+---
+
+# PART 4 — THE INDIVIDUALS AFTER MONDAY: APPETITE, PERSON BY PERSON
+> Added 1 August 2026. ⚠️ **Method note: appetite is inferred from measured behaviour in the
+> corpus — response times, signature patterns, drafting styles. Motive is never established and is
+> not asserted here.** The core finding: **after Monday, each individual's personally safest course
+> diverges from the institutional fight — and the package is built so that divergence helps Cory.**
+
+## 4.1 Chloe Taylor — Manager, Switchboard
+**Measured:** minutes-fast on leave/roster admin; silent on substance; the wrapper pattern
+(pastoral opener, operative gate inside); author of the 26 June and 2 July gates and the 13 July
+no-pay coding; cc's his personal email.
+**What Monday does to her:** the dispute notice lands on her personally; the request asks decisions
+move outside her line; correspondence routing to IM removes her administrative levers — **the
+instruments she actually uses (leave coding, roster admin) are exactly what the package fences.**
+**Appetite after Monday: LOW for continued gatekeeping.** Her rational and likely course: forward
+everything up, stop deciding, wait for HR/legal.
+⚠️ **The residual risk is habit, not strategy:** a reflexive payroll/leave coding act done the way
+she has always done it. **Watch the payslip and MyHR coding in the fortnight after Monday — any
+further coding change is a dated act by a person on notice.**
+
+## 4.2 Scott Hughes — Director, Corporate Services
+**Measured:** authority without engagement — 26 emails, none about the work, none after Aug 2025;
+signs the RFMI in the first person; the Oct 2025 performance process was his; the email-recovery
+request died by his inaction; one scheduled personal meeting ever (7am, 24 Feb 2025); the
+24-minute export chain ran through his office.
+**What Monday does to him:** he is the named subject of the s 89 questions; every further signature
+is a personal act after receipted notice that his authority to act is in question.
+**Appetite after Monday: LOW for personal exposure, UNKNOWN for the underlying position.** His
+whole measured style is distance — signing without engaging. Monday makes the signature itself the
+exposure. **Expect the next MSH letter to be signed by someone else — and that is the single most
+informative tell in the whole matter:**
+- ⭐ **different signatory** → the conflict point has landed internally; the ask granted silently
+- ⚠️ **Hughes signs again** → either legal has backed him formally (an authorisation may now exist
+  — ask for it) or the institution is digging in around him
+⚠️ Honest note: the history (the Oct 2025 process, the recovery inaction) is consistent with
+personal investment against him — **and equally consistent with an overloaded director rubber-
+stamping HR drafts.** The file never chooses between these; the tells above will.
+
+## 4.3 Michelle Harrison — Injury Management Consultant
+**Measured:** careful, holding, procedural — "progressing for delegate approval", "unable to
+guarantee when". A conduit, not a decision-maker.
+**What Monday does for her:** the response, the allocation, the appointments and the costs
+acceptance make her file EASIER — everything she needs to progress her process arrives at once.
+**Appetite: NONE for a fight; genuine appetite for the file to resolve.** ⭐ **She is the most
+likely first channel of normal engagement** — question-set confirmations, invoice logistics.
+**Treat every exchange with her as cooperative and keep it administratively perfect; her file may
+be the one a decision-maker eventually reads.** Her emails are also where the delegate's identity
+will first surface.
+
+## 4.4 HR — Estelle Bain / Jacqui Roberts
+**Measured:** Bain's Feb 2025 return correspondence was humane and competent (gentle
+re-introduction, practical, apologetic about payroll lag) — and she was **waiting on Corporate
+Services** for the location decision. ⚠️ Roberts was the addressee of the 3 Oct 2025 review request
+— **which bounced; she may genuinely never have seen it.** Do not assume she is on notice of it.
+**What Monday does for HR:** the package asks for exactly the separation of functions HR would
+institutionally want — clinical material to IM, decisions out of the conflicted line, process
+named. **Monday arms HR against Corporate Services.**
+**Appetite: MEDIUM-HIGH to take carriage and normalise.** This is the "competent grown-up arrives"
+scenario from the metanoia — a real upside path. **If a substantive reply comes from HR rather
+than Corporate Services, engage it warmly and administratively; that is the system correcting.**
+
+## 4.5 Noelle Cridland — Chief Executive
+**Established:** signed the 5 June objection engaging PID 24-ESU-1130 by reference — personal
+knowledge fixed at the apex, predating the exclusion.
+**What Monday does to her:** the s 89 letter makes her the statutory decision point personally;
+her office cannot delegate the s 89(1)(b) authorisation question away.
+**Appetite: ZERO for a Director-level dispute becoming a CE-level problem.** The standard CE
+response to a letter like this is: route to legal for form, direct HR to fix the process in
+substance. ⭐ **The letter is deliberately built to make the cheap move the right one** — exercise
+s 89(2), reallocate the decisions, close the matter. Expect either that (good), or a legal-drafted
+acknowledgment that answers nothing (neutral, and itself a tell that legal has the file).
+
+## 4.6 Myla Ruttan — MSH Legal
+**Measured:** evidentially active before the objection — AVAC history printed 2 June, myHR roster
+report 29 May; institutional drafting; runs the disclosure defence.
+**What Monday does to her calculus:** four instruments with clocks, a s 89 letter at her CE, and a
+produce-or-swear application pending over the same documents. Her professional advice matrix
+shifts: every aggressive employment-track option now generates discoverable material for the
+proceeding she is defending.
+**Appetite: PROFESSIONAL, not personal — she fights where instructed, but her advice after Monday
+rationally trends to: regularise the process, narrow the objection, and quietly favour resolution.**
+⚠️ She is also the most likely author of any single consolidated reply to all four documents —
+**if one arrives, read it against Part 5 of the master pack question by question before responding
+to anything in it.**
+
+## 4.7 The Regulator's side — Matheson and Willson
+**Matheson:** process-driven; the 15-day Calderbank rejection shows the file is read and briefed.
+Monday reaches her only indirectly (the adjacency channel) — but a deteriorating MSH position makes
+her hearing harder and her settlement appetite rises with it.
+**Willson:** purely professional appetite; a WHS-specialist counsel who appears at listings that
+matter. **If she appears Thursday, the Regulator is treating the disclosure as material — which is
+pressure toward settling the appeal before the documents land.**
+
+## 4.8 THE SYNTHESIS
+**Before Monday, the individuals could all shelter inside one institutional position: silence.
+After Monday, silence is no longer institutionally available (the clocks), and each person's
+personally safest course points AWAY from the fight:** Taylor defers upward, Hughes stops signing,
+Harrison processes, HR takes carriage, the CE reallocates, legal narrows. ⭐ **The only appetite
+for continued confrontation left in the building is institutional stubbornness — and every
+individual now has a personal reason not to be its instrument.**
+
+**The tells, in order of information value:**
+1. **Who signs the next letter** (Hughes again vs anyone else)
+2. **Which unit replies first** (HR vs Corporate Services vs legal-drafted consolidated)
+3. **Any further leave/payroll coding by Taylor** (habit acting after notice)
+4. **Whether the CE letter draws a s 89 answer or a legal acknowledgment**
+5. **Willson's appearance or absence on Thursday**
