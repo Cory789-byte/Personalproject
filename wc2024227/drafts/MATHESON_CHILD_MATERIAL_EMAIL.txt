@@ -1,0 +1,155 @@
+================================================================================
+EMAIL TO RENEE MATHESON — SENSITIVE THIRD-PARTY (MINOR) MATERIAL IN THE
+JULY 2025 DISCLOSURE — REQUEST FOR CONFINEMENT AND NON-RELIANCE
+
+⛔ HOLD — DO NOT SEND BEFORE THE 7 AUGUST MENTION. Recommended send: Monday
+   10 August 2026. It is Regulator-track, separate from the 3 August employment
+   package, and nothing in it should be in anyone's mind in the mention room.
+
+⛔ DO NOT include any QPS occurrence number in this email or any future email.
+   The number has never entered the appeal record (you offered it twice — 14 Jan
+   2024 and 3 Apr 2025 — but never supplied it). Adding it now would put MORE
+   identifying data about a child into the file. The event is described; the
+   number stays out.
+
+⛔ Verify before sending: the DFVP Act and current IP Act pinpoints below were
+   matched from the working analysis, not from held copies of those Acts. Check
+   each cited section against the current consolidation on legislation.qld.gov.au
+   before this leaves the outbox.
+================================================================================
+
+To:      Renee Matheson <renee.matheson@oir.qld.gov.au>
+Subject: WC/2024/227 — sensitive material concerning a minor in the July 2025
+         disclosure — request for confinement and non-reliance
+
+Dear Ms Matheson,
+
+RE: Shepherd v Workers' Compensation Regulator (WC/2024/227)
+
+I write about a discrete part of the Respondent's disclosure served on my then
+representatives on 22 July 2025, in the section headed "Disclosure from witness
+conferencing — Chloe Taylor". I raise it with you directly, and I would prefer
+to resolve it by correspondence.
+
+1.  THE MATERIAL
+
+Item 5 of the Respondent's document request of 4 July 2025 sought, in terms,
+"an email or text from Mr Shepherd saying that he was going to be late" for the
+shift of 14 January 2024, referable to paragraph 9 of my statement of facts and
+contentions. What was supplied in response went well beyond that: two
+full-screen screenshots of the entire text exchange of that morning.
+
+The additional content of that exchange discloses a police matter of a family
+and domestic violence character concerning a member of my family who was at the
+time a 15-year-old child. No charge arose from that matter, no protection order
+was made, and the matter did not concern any workplace event. The screenshots
+also disclose my contemporaneous reference to a Queensland Police Service
+report and to family and domestic violence leave.
+
+I make no criticism of the request of 4 July 2025, which was narrow and proper,
+and I make no allegation against any person. The material supplied simply
+exceeds what was sought, and the excess concerns an identifiable child.
+
+2.  WHY I RAISE IT
+
+The additional content has no connection to any pleaded issue. Paragraph 9
+concerns lateness and rostering; the lateness message is within the thread and
+I take no issue with that part of it.
+
+Information of this kind sits at the intersection of two areas in which the
+legislature has required particular restraint: information tending to identify
+a child connected with a domestic and family violence matter (see the
+publication restrictions in the Domestic and Family Violence Protection Act
+2012, including section 159), and personal information held by an agency, which
+the Information Privacy Act 2009 requires to be used and disclosed only within
+the privacy principles (including QPP 6) and to be protected, and destroyed or
+de-identified when no longer needed for a permitted purpose (QPP 11). As a
+public entity, the Regulator is also required to give proper consideration to
+the human rights engaged, which here include privacy and reputation (Human
+Rights Act 2019, s 25) and the protection needed by a child (s 26(2)).
+
+I do not suggest the Respondent has done anything with this material. My
+concern is prospective: that material about a child, unconnected to any issue
+in the appeal, should not remain in circulation in the appeal file or find its
+way into any brief, outline, or tender.
+
+3.  WHAT I ASK
+
+  (a)  that the portions of the 14 January 2024 exchange beyond the lateness
+       message not be used or relied on for any purpose in this appeal;
+
+  (b)  that those portions be removed or redacted from the Respondent's working
+       file and any brief, and destroyed or de-identified to the extent the
+       Respondent is not required by law to retain them;
+
+  (c)  that if the 14 January 2024 exchange is ever tendered or exhibited, it
+       be confined to the lateness message, or redacted so that the family and
+       police content and any reference identifying the child does not appear;
+
+  (d)  confirmation that the material has not been disseminated beyond the
+       Respondent's officers and then-instructed representatives, and will not
+       be; and
+
+  (e)  your written response within 14 days.
+
+If it would be more convenient to deal with the matter by consent through
+directions, I am content with that course. I would prefer to resolve it
+cooperatively by this letter before considering the formal avenues that apply
+to information of this kind, and I expect that will be sufficient.
+
+Yours faithfully,
+
+Cory Lea Shepherd
+Appellant, WC/2024/227
+0417 400 227 · coryshepherd1@hotmail.com
+
+================================================================================
+NOTES FOR CORY — NOT PART OF THE EMAIL
+================================================================================
+
+WHAT THE JANUARY 2024 POLICE INSTRUMENT LIKELY WAS (and why it can stay vague)
+
+Your recollection — "less than a PPN, a must-behave, not a protection order" —
+is consistent with the statutory architecture. Under the DFVP Act 2012 a
+domestic violence order or police protection notice could not have been made
+against your sister at all: she was 15, and the Act does not permit orders
+against a child respondent in a FAMILY relationship (child respondents are
+reachable only in intimate-personal or informal-care relationships). So
+whatever the police issued was necessarily non-DFVP-Act: most likely a caution
+or warning under the Youth Justice Act 1992 (Part 2), or an informal
+good-behaviour direction recorded in the QPS occurrence. That is EXACTLY why
+the email says "no protection order was made" and goes no further — it is true,
+it is verifiable, and it does not require naming the instrument or the child.
+(Verify the DFVP Act child-respondent limitation against the current
+consolidation before relying on it in anything filed.)
+
+WHY THIS EMAIL IS WORTH SENDING (the strategic ledger)
+
+- If they agree: the non-work-stressor material physically leaves the working
+  file of a Respondent whose SOFC (13 May 2026, para 8) already pleads a
+  pre-existing history. The material the over-supply put in reach of the
+  causation fight is neutralised before the hearing.
+- If they refuse or go silent: from that day the Respondent knowingly retains
+  irrelevant material about a child after a written request grounded in the
+  QPPs and the HR Act — which makes the preserved over-supply point (see
+  skill/references/taylor-DFV-disclosure-to-Matheson.md §4A) stronger, not
+  weaker, and gives the OIC or the Commission a clean record if it ever needs
+  one.
+- Either way: it is a restrained, child-protective, non-accusatory letter from
+  a self-represented appellant — entirely in character with the rest of the
+  file Dwyer will one day read.
+
+THE COST, honestly: it tells the Regulator you regard the material as
+significant. That is why the letter gives them a face-saving exit ("I make no
+criticism... I do not suggest the Respondent has done anything with it") and
+asks only for what a model litigant should do unprompted.
+
+TIMING: after the 7 August mention. Not before, and not on 3 August — the
+Monday package is employment-track and this is Regulator-track; keep the
+channels clean. Suggested: Monday 10 August, the same day you refer the
+Stage 1 dispute to Stage 2.
+
+DO NOT: name your sister; give the QPS number; mention Taylor by name in the
+operative paragraphs more than the section header requires; cite the IR Act
+s 296 point, the reprisal track, or anything from the strategy layer. The
+letter asks for stewardship of a child's information. That is its entire face.

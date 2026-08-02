@@ -3317,3 +3317,15 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   "no reply 10 months" SUSPENDED pending proof of a successful re-send (ask Cory).
 - Next: send Mon 3 Aug; mention Fri 7 Aug (silent on employment; watch 7–10 Aug decision window);
   clocks per CURRENT.md.
+
+## 2026-08-02 (cont.) — Matheson child-material confinement email drafted
+- Established: the QPS occurrence number NEVER entered the record — offered 14 Jan 2024 (text) and
+  3 Apr 2025 (email) but never supplied. Standing rule: keep it out of all correspondence.
+- Instrument analysis: DFVP Act could not support a DVO/PPN against a 15-year-old in a family
+  relationship → whatever police issued against the sister was non-DFVP (likely YJ Act caution or
+  informal good-behaviour direction). Email therefore says only "no protection order was made".
+- Drafted `drafts/MATHESON_CHILD_MATERIAL_EMAIL.txt`: confinement + non-reliance + QPP 11
+  destroy/de-identify + redaction-on-tender + 14-day response. Non-accusatory (Matheson's request
+  was proper; excess was in the supply). Legislation: DFVP s 159, IP Act QPPs 6/11, HR Act ss 25,
+  26(2). HOLD until after 7 Aug mention; suggested send Mon 10 Aug. Verify pinpoints before send.
+- Updated taylor-DFV-disclosure-to-Matheson.md to-do with number status + draft location.

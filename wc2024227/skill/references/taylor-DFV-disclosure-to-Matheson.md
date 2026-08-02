@@ -222,6 +222,12 @@ to a narrow request that did not seek it, about a matter with no connection to a
       (attachments confirmed in AttC) and test the Jan 2024 and Mar 2025 handling against them.
 - [ ] Obtain the **QPS report number** referenced in the 14 Jan 2024 text, and the police record of
       the attendance "directed by police".
+      **STATUS 2 Aug 2026: the number was never supplied — offered twice (14 Jan 2024 text; 3 Apr
+      2025 email, corpus l.2821 "If necessary I can send through a report number") but it appears
+      nowhere in the corpus, the screenshots, or the packs. ⛔ Keep it out: do not put the number
+      into any correspondence — it would add identifying data about the child to the file. The
+      confinement request to Matheson is drafted at `drafts/MATHESON_CHILD_MATERIAL_EMAIL.txt`
+      (HOLD — send after the 7 Aug mention, suggested Mon 10 Aug).**
 - [ ] Check whether the 10 days DFVL requested on 14 Jan 2024 was ever taken, refused, or answered
       at all — **there is nothing in the record either way.**
 - [ ] Check the other six attachments Taylor supplied on 10 Jul 2025 for further unrequested content.
