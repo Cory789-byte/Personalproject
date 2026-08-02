@@ -38,18 +38,19 @@ clock, and each document says on its face that it does not answer the others.**
 
 | Email | To | Cc | Attach | Subject |
 |---|---|---|---|---|
-| **1** | lbh_InjuryManagement | LBH.HRTeam1 | **docs 1 + 1a + 1b** | Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073] |
-| **2** | lbh_InjuryManagement | HRTeam1; Hughes; Taylor; Petering; Moran | **doc 2** | Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795 |
-| **3** | **chloe.taylor3@health.qld.gov.au** | Hughes; HRTeam1; Injury Mgmt; Petering; Moran | **doc 3** | Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026 |
-| **4** | ⭐ **The Chief Executive, Metro South Health** | LBH.HRTeam1; Injury Mgmt; Petering | **doc 4** | Conflict of interest and information handling — C Shepherd, MSH-INJ-5795 |
+| **1** | lbh_InjuryManagement | Petering; Moran | **docs 1 + 1a + 1b** | Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073] |
+| **2** | lbh_InjuryManagement | Taylor; Petering; Moran | **doc 2** | Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795 |
+| **3** | **chloe.taylor3@health.qld.gov.au** | HRTeam1; Injury Mgmt; Petering; Moran | **doc 3** | Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026 |
+| **4** | ⭐ **The Chief Executive, Metro South Health** | ⛔ **none — directed to her alone** | **doc 4** | Conflict of interest and information handling — C Shepherd, MSH-INJ-5795 |
 
 ⚠️ **Email 3 must go to Taylor.** cl 1.11.2(a) requires the immediate supervisor be informed. Skip
 her and MSH can say Stage 1 never started, so Stages 2–4 never opened. §5 of the notice handles the
 conflict inside the same document.
 ⭐ **Email 4 goes to the CHIEF EXECUTIVE.** Not as escalation — **s 89 makes the chief executive the
 person to whom a conflict is disclosed and the only person who may authorise an officer to continue
-to act.** On the terms of the section there is no one else who can answer it. HR is copied; **Hughes
-and Taylor are not.**
+to act.** On the terms of the section there is no one else who can answer it. ⭐ **Directed to her
+alone, no Cc — Hughes and Taylor receive none of it, and HR appears only on the Taylor email.**
+Petering holds the full set from email 0 regardless.
 
 ⛔⛔ **AND IT DOES NOT GO TO MSH LEGAL. See Part 7A.**
 

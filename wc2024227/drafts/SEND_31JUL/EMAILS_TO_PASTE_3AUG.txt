@@ -21,7 +21,7 @@ ATTACH:  Chloe Taylor's email of 13 July 2026
 EMAIL 1 — THE RESPONSE
 ================================================================================
 TO:      lbh_InjuryManagement@health.qld.gov.au
-CC:      LBH.HRTeam1@health.qld.gov.au; Emily Petering; Heath Moran
+CC:      Emily Petering; Heath Moran
 SUBJECT: Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073]
 ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (8pp)
          PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf              (3pp)
@@ -39,8 +39,7 @@ ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (8pp)
 EMAIL 2 — THE REQUEST   ***THIS ONE STARTS THE 21 DAYS***
 ================================================================================
 TO:      lbh_InjuryManagement@health.qld.gov.au
-CC:      LBH.HRTeam1@health.qld.gov.au; Scott Hughes; Chloe Taylor;
-         Emily Petering; Heath Moran
+CC:      Chloe Taylor; Emily Petering; Heath Moran
 SUBJECT: Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795
 ATTACH:  REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf   (5pp)
 
@@ -71,8 +70,8 @@ clause. Saying it twice makes it a demand instead of a citation.
 EMAIL 3 — THE DISPUTE   ***MUST GO TO CHLOE TAYLOR***
 ================================================================================
 TO:      chloe.taylor3@health.qld.gov.au
-CC:      Scott Hughes; LBH.HRTeam1@health.qld.gov.au;
-         lbh_InjuryManagement@health.qld.gov.au; Emily Petering; Heath Moran
+CC:      LBH.HRTeam1@health.qld.gov.au; lbh_InjuryManagement@health.qld.gov.au;
+         Emily Petering; Heath Moran
 SUBJECT: Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026
 ATTACH:  NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf   (4pp)
 
@@ -103,9 +102,7 @@ the same document.
 ================================================================================
 EMAIL 4 — THE CONFLICT   ***TO THE CHIEF EXECUTIVE. NOT HUGHES. NOT TAYLOR. NOT MSH LEGAL.***
 ================================================================================
-TO:      The Chief Executive, Metro South Health
-CC:      LBH.HRTeam1@health.qld.gov.au; lbh_InjuryManagement@health.qld.gov.au;
-         Emily Petering
+TO:      The Chief Executive, Metro South Health   (no Cc — directed to her alone)
 SUBJECT: Conflict of interest and information handling — C Shepherd, MSH-INJ-5795
 ATTACH:  LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf   (4pp)
          + the four thin enclosures listed at part 8 of that letter:
