@@ -3404,3 +3404,14 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   MSH Legal).
 - All six PDFs rebuilt 3 Aug 09:2x AEST; pages 8/3/2/5/4/4 (26pp), metadata clean, headers
   verified by pdftotext. EMAILS_TO_PASTE_3AUG.txt updated with routing + rationale notes.
+
+## 2026-08-03 (send morning, 2) — Two substantive additions per Cory, rebuilt
+- Dispute §4(d): forward-pay limb added — permanent-line rostered shifts paid in full as they
+  fall, until return OR the power is identified in writing; if the basis is the medical
+  information, payment continues through the reasonable period (framed as the pay dimension of
+  the cl 1.11.4 status quo).
+- Request 2.1: the change sought now NAMED as ~0.6 FTE, the 12-month average actually worked,
+  precise figure to be established from MSH's roster/payroll records. Consistent with the ECC
+  "continuation of existing arrangement" and the no-reduction framing; substantive 76h line
+  expressly preserved.
+- Both PDFs rebuilt; pages unchanged (5pp request, 4pp dispute).
