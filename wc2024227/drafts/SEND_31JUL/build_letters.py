@@ -64,6 +64,11 @@ DOCS = [
       title="Conflict of interest, delegation, and the handling of my personal information",
       sub="Section 89, Public Sector Act 2022 &#183; Code of Conduct clause 1.2",
       foot="Cory Lea Shepherd · MSH-INJ-5795 · Conflict of interest, delegation and information handling"),
+ dict(src="PROPOSAL_RETURN_TO_WORK.txt",
+      out="PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf",
+      title="Proposal for Return to Work",
+      sub="Accompanying the Response to the Request for Medical Information &#183; MSH-INJ-5795",
+      foot="Cory Lea Shepherd · MSH-INJ-5795 · Proposal for Return to Work"),
 ]
 
 
@@ -88,6 +93,7 @@ def build(spec):
     head = [h for h in head if not h.startswith(("REQUEST FOR", "NOTICE OF DISPUTE",
                                                  "NOTICE OF MEDICAL", "Request for Medical",
                                                  "CONFLICT OF INTEREST", "Section 89,",
+                                                 "PROPOSAL FOR RETURN", "Accompanying the Response",
                                                  "Clause 10.3.2,", "Section 27,",
                                                  "Clause 1.11.2(a),"))]
     if head:

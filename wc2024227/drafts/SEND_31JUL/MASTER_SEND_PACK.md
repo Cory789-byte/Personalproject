@@ -9,7 +9,8 @@
 
 | # | Document | PDF | pp | Power | Clock |
 |---|---|---|---|---|---|
-| **1** | Response to the Request for Medical Information | `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | 10 | answers theirs | their 7 days → **7 Aug** |
+| **1** | Response to the Request for Medical Information | `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | 8 | answers theirs | their 7 days → **7 Aug** |
+| **1a** | Proposal for Return to Work — the (a)–(h) proposal, the controls, the cl 10.3 status, the substantive position | `PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf` | 3 | routes internally on its own | — |
 | **1b** | Notice of medical appointments arranged, and of costs | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 2 | defeats the 7-day threat; **accepts their written costs commitment of 31 July** | — |
 | **2** | ⭐ Request for a change in the way I work | `REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` | 5 | **EB12 cl 10.3.2 · IR Act s 27(1)(a) and (c)** | ⭐⭐ **21 days — cl 10.3.6; s 29 deems refusal** |
 | **3** | ⭐ Notice of dispute — Stage 1 | `NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` | 4 | **EB12 cl 1.11.2(a)** | 24 h / 7 / 7 → Stage 3 → **QIRC** |
@@ -37,7 +38,7 @@ clock, and each document says on its face that it does not answer the others.**
 
 | Email | To | Cc | Attach | Subject |
 |---|---|---|---|---|
-| **1** | lbh_InjuryManagement | LBH.HRTeam1 | **docs 1 + 1b** | Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073] |
+| **1** | lbh_InjuryManagement | LBH.HRTeam1 | **docs 1 + 1a + 1b** | Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073] |
 | **2** | lbh_InjuryManagement | HRTeam1; Hughes; Taylor; Petering; Moran | **doc 2** | Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795 |
 | **3** | **chloe.taylor3@health.qld.gov.au** | Hughes; HRTeam1; Injury Mgmt; Petering; Moran | **doc 3** | Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026 |
 | **4** | ⭐ **The Chief Executive, Metro South Health** | LBH.HRTeam1; Injury Mgmt; Petering | **doc 4** | Conflict of interest and information handling — C Shepherd, MSH-INJ-5795 |
