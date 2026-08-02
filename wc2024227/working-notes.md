@@ -3343,3 +3343,14 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - s 160 BANKED: no entitlement to DFVP court records — gate if MSH/Regulator ever seek the
   ex-partner order files.
 - Matheson draft header updated: DFVP caveat discharged; QPP/HR Act numbering still to eyeball.
+
+## 2026-08-02 (cont. 3) — CORRECTION: the 10 days DFVL-requested leave WAS taken
+- Cory [A]: ~10 days taken after 14 Jan 2024 (helping his mother move; she went to NSW a week).
+  My §4B line "no such leave was ever taken" was an overstatement of an open to-do — withdrawn
+  and corrected in taylor-DFV-disclosure-to-Matheson.md.
+- Corpus holds ZERO Jan–Feb 2024 messages; the leave coding exists only in MSH payroll.
+- NEW OBTAIN: Jan–Feb 2024 leave/payroll coding. If coded A/L-S/L-rec after the written "10 days
+  FDV leave (special leave)" text → the Taylor substitution was EXECUTED, not offered — first
+  instance of the pattern. If coded DFVL → corroborates the DV character. Either resolves it.
+- Cross-exam line adjusted: practical help with a family move, then five clean months, no
+  treatment, no certificate. Never self-describe as "a stressor".

@@ -217,11 +217,37 @@ non-attendance that day was her rostering decision, not his incapacity.
 ⚠️ **Two discipline points.** (1) Cory must never himself characterise it as "a stressor" — that
 phrasing does the Regulator's dilution work for them. The line is: *minor, managed, attended work.*
 (2) The one counter-quote available to the Regulator is his same-day reference to *"10 days Family
-and domestic violence leave"* — answered by the record: **no such leave was ever taken**; he was
-back at work. The leave reference was a rights inquiry, not a collapse.
-⇒ Net: the material is close to worthless to the Regulator on causation, which LOWERS the cost of
-the confinement request (`drafts/MATHESON_CHILD_MATERIAL_EMAIL.txt`) — asking for its removal
-sacrifices nothing, and if they refuse and deploy it, the exhibit rebuts itself.
+and domestic violence leave"*.
+
+### ⚠️ CORRECTED 2 Aug 2026 — THE 10 DAYS WERE TAKEN
+**[A]** Cory's account (2 Aug 2026): he **did take about 10 days** following 14 Jan 2024 — helping
+his mother move her belongings out; she went to NSW for a week. An earlier version of this note
+said "no such leave was ever taken" — **that was my overstatement of a to-do item** (the record
+shows nothing either way) and is **withdrawn**. The corpus contains NO Jan–Feb 2024 messages at
+all; how the days were requested and coded exists only in MSH's payroll records.
+
+**What this changes:**
+- The cross-exam answer is no longer "no leave was taken." It is: *"The time off was practical —
+  helping my mother move house — not incapacity. I then worked normally for five months, with no
+  treatment and no certificate, before the injury."* Practical family assistance ≠ psychological
+  decompensation, and the five clean months are the real answer to any dilution argument.
+- Dilution value to the Regulator recalibrated: from "close to worthless" to **limited but not
+  nothing** — ten days adjacent to a police family incident is a fact a cross-examiner can use if
+  unprepared for. Prepared, it is a two-sentence exchange.
+- ⭐ **The substitution pattern may now have a concrete third instance — chronologically its
+  first.** If the ~10 days were coded as A/L, S/L or rec leave after a written request naming
+  *"10 days Family and domestic violence leave (special leave)"*, then Taylor's "A/L or S/L?"
+  offer was not hypothetical — **it was executed**. That would make the pattern: Jan 2024
+  requested-DFVL-got-ordinary-leave → Mar 2025 requested-DFVL-got-rec-leave (Hughes) →
+  the same move twice, both documented. **OBTAIN: the Jan–Feb 2024 leave/payroll coding record**
+  (add to the 64G-adjacent asks or the Petering pay questions — it is MSH-held).
+- If instead the days were coded as DFVL special leave, the substitution point loses its first
+  instance but the leave record then CORROBORATES the DV character of the family matter — either
+  answer is usable; the unknown is not.
+⇒ Net: the confinement request (`drafts/MATHESON_CHILD_MATERIAL_EMAIL.txt`) is UNCHANGED — none of
+this needs to reach Matheson, and the removal ask still sacrifices nothing. But the "exhibit rebuts
+itself" line now has one qualification, and the Jan–Feb 2024 coding record is the piece that
+resolves it.
 
 ---
 
