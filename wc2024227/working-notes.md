@@ -3720,3 +3720,17 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   that the amended pleading does not touch that morning.
 - Report B history instruction updated: the breaking-point sequence (report → silence → "I had
   enough" → diagnosis, Aug–Oct 2024) anchors to PLEADED stressors 1(a)/(c)/(e).
+
+## 2026-08-04 — Disclosure-as-signal read + Calderbank #3 trigger
+- Disclosure is never itself an offer (compliance, not negotiation) — but its MANNER can signal
+  a resolution posture. PRE-OFFER SIGNALS to log: list arrives complete + on time + NNPD copies
+  fulsome · any cover wording touching conferral/s 552A/"the parties' positions" · anything WP
+  alongside or shortly after · Friday: consent/narrowing + any conciliation mention · Willson
+  unbriefed again · delivery timed near 24 Aug. COUNTER-SIGNALS: late/partial/redacted list ·
+  full-width fight Friday · an IME referral notice (building for hearing = opposite signal).
+- ⭐ REFRAME (the standing architecture): the disclosure completing is the condition precedent
+  for HIS next move, not theirs — "settle on the enlarged record" = Calderbank #3, timed AFTER
+  the list + the mention + ideally 24 Aug (deemed refusal in hand), with Report B if available.
+  Don't wait to receive an offer; the list arriving is the cue to start building one.
+- If an approach comes first: standing rule — no response without the settlement architecture
+  prepared (deed scope = compensation claim ONLY, rule 9; employment track stays separate).
