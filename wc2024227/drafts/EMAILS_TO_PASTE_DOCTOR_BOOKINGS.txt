@@ -1,5 +1,48 @@
 DOCTOR BOOKING EMAILS — PASTE-READY. Banked 4 Aug 2026.
+⭐ SHORT VERSIONS (added 4 Aug, Cory's call — "bill them and book me in") ARE THE
+OPERATIVE ONES. The long versions below remain as fallback if a practice wants detail.
 =======================================================
+
+===============================================================================
+⭐ SHORT EMAIL 1 — GP PRACTICE (Dr Ma)
+Attach: letter_to_GP_DrMa_9questions.pdf + letter_to_EMPLOYEE.pdf + FORM_A.pdf
+===============================================================================
+Subject: Booking request — Cory Shepherd — employer report (bill Metro South Health
+directly, letter attached)
+
+Good morning,
+
+Could I please book the next available appointment with Dr Ma, on or after Monday
+10 August, to complete the attached employer report questions.
+
+Please bill Metro South Health directly for this — their attached letter confirms they
+will meet the reasonable costs, with invoices to lbh_InjuryManagement@health.qld.gov.au,
+reference MSH-INJ-5795.
+
+Thank you,
+Cory Shepherd · DOB 11 January 1991 · 0417 400 227
+
+===============================================================================
+⭐ SHORT EMAIL 2 — PSYCHIATRIST ROOMS (Dr Krishnaiah)
+Attach: letter_to_EMPLOYEE.pdf + FORM_B.pdf
+===============================================================================
+Subject: Apology and booking request — Cory Shepherd — full consult and report
+
+Good morning,
+
+My sincere apologies to Dr Krishnaiah and the rooms for the missed appointment on
+31 July — I was in high distress at the time, and I tend to shut down. I'm sorry for
+the inconvenience.
+
+Could I please book a full consultation with Dr Krishnaiah, on or after Monday
+10 August, to have a report completed. For the employer's questions (attached form),
+please bill Metro South Health directly — their attached letter confirms they will meet
+the reasonable costs, invoices to lbh_InjuryManagement@health.qld.gov.au, reference
+MSH-INJ-5795. Anything beyond the employer's questions, please bill to me as usual.
+
+Thank you,
+Cory Shepherd · DOB 11 January 1991 · 0417 400 227
+===============================================================================
 SEND FROM: coryshepherd1@hotmail.com
 SEND WHEN: now. Booking emails to his own practitioners touch no MSH clock and no
 discipline rule. Book for dates ON OR AFTER MON 10 AUG (the announced day-7 backstop);
@@ -15,9 +58,15 @@ RULES
   do the talking: the 31 Jul RFMI letter + the relevant Form only.
 - Report B is NEVER mentioned in writing in the MSH-billed thread — instruction is
   handed over at the consult (Ceiling Set 01).
-- Attachments: Email 1 → 2026-07-31_ScottHughes_RFMI_letter_to_EMPLOYEE.pdf +
-  FORM_A_GP_DrMa_MSH-INJ-5795.pdf. Email 2 → same RFMI letter +
-  FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf.
+- ATTACHMENTS (verified 4 Aug against the source PDFs — the money words exist ONLY in
+  the employee letter; the GP letter has the questions but NO billing wording; Harrison's
+  covering email has neither and is never attached):
+  Email 1 (GP) → 2026-07-31_ScottHughes_RFMI_letter_to_GP_DrMa_9questions.pdf (the
+  doctor's own questions) + 2026-07-31_ScottHughes_RFMI_letter_to_EMPLOYEE.pdf (the
+  billing authority) + FORM_A_GP_DrMa_MSH-INJ-5795.pdf (the allocation).
+  Email 2 (psychiatrist) → 2026-07-31_ScottHughes_RFMI_letter_to_EMPLOYEE.pdf (billing
+  authority) + FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf (his allocated questions —
+  no MSH letter to him exists).
 
 ===============================================================================
 EMAIL 1 — GP PRACTICE (Dr Ma)
