@@ -4047,3 +4047,12 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   account prompts (24 Feb, screaming, torn pages, leave-as-fatigue, the report — private,
   evidence preservation); 08 runway action sheet (Centrelink, hardship, Zappia's two
   exhibits, the Petering forward w/ appeal-window + comparative questions).
+
+## 2026-08-04 — CEILING SET finalised as structured PDFs (drafts/out/CEILING_SET/)
+- Nine PDFs, all metadata-clean: 00 INDEX (deployment map + integration paragraph: 07→01;
+  01+64G+24Aug→06; 04/05 feed both tracks; 08 protects the timeline) · 01 Report B
+  instruction (clean, sendable, HOLD) · 02 Report A scope note (clean) · 03 Stage 2 email
+  (reference) · 04 IP application + 05 RTI application (lodgement-ready) · 06 Calderbank
+  skeleton (INTERNAL-marked) · 07 prompts (PRIVATE-marked) · 08 runway sheet.
+- Deployment discipline on the index's face: nothing sent early, nothing sent hot,
+  everything on its trigger.
