@@ -3498,3 +3498,9 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   the honest adviser brief (6 points, incl. withdraw Q1(b) and take the s 89 exit); her likely
   conclusions ranked 1–6; her personal calculus (two signatures — easiest exit = his best
   outcome, by design); watch-for signals list for the week.
+
+## 2026-08-03 — Hazard nomination banked (decision-making = organisational justice)
+- skill/references/HAZARD-NOMINATION-decision-making.md: the ready position for nominating
+  "poor organisational justice — the decision-making processes" as the cl 7.2 hazard, WITH the
+  six dated data points, at the Stage 1/2 discussion or assessment consultation. NOT sent cold —
+  ask-for-the-assessment discipline preserved.
