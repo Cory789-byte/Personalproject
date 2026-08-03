@@ -3751,3 +3751,14 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   procedural note is legitimate ("some categories appear to have been produced to the
   Respondent; production to the Appellant cannot then be oppressive"). Goes to the 64G scope
   question, NOT employment. If the list hasn't arrived: nothing changes, posture unchanged.
+
+## 2026-08-04 — Read: they don't want Friday. Pre-mention approach discipline banked.
+- Supporting signals: MSH no-show at the 22 May mention; Willson unbriefed same; objection run
+  on papers; RFMI 7-day deadline lands ON mention day; the Regulator's decks-clearing Monday.
+- What not-wanting-it produces: (a) a pre-mention consent/narrowing proposal, (b) thin/phone
+  appearance, (c) on-the-papers request, (d) adjournment attempt.
+- ⛔ DISCIPLINE if a pre-mention approach comes: informal "we'll provide X if you don't press
+  the order" = DECLINE POLITELY. Orders or nothing — only ORDERS carry the timetable and the
+  produce-or-swear alternative. Consent orders at the mention are the win condition; informal
+  promises are the objection surviving in disguise. Any proposal: respond considered and fast,
+  agree to CONSENT ORDERS on full items gladly, trade nothing narrow-for-full without analysis.
