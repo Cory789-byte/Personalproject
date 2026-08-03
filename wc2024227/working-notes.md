@@ -3876,3 +3876,24 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   ECC→RFMI→'decision about your role' pipeline used on other members at LBH/MSH?" The union is
   the repository of comparative knowledge; if yes, pattern evidence exists through HER channel,
   and Stage 3 (EB12IG) becomes the systemic forum it was built to be.
+
+## 2026-08-04 — RTI/IP-access: YES (timed, scoped). CCC: NOT NOW (banked for the adverse-act branch)
+- RTI/IP access plan: lodge MON 10 AUG (with the Stage 2 line + Matheson letter — the writing
+  day), NOT this week. Vehicle split: IP Act access application (free) for personal-file
+  material; RTI for procedures/non-personal. SIX CATEGORIES: (1) RFMI delegate-approval record
+  (name/date); (2) decision records + instruments for the 2-13 Jul exclusion and pay coding;
+  (3) conflict-of-interest assessments/register entries touching his matters (⭐ a "no documents
+  located" response = the s 89 gap OFFICIALLY proven); (4) the "Health Management processes"
+  procedure documents; (5) ESU records re the PID substance-investigation status (expect PID/
+  privilege exemption fights — s 65(3) analysis banked); (6) complaint-handling records for
+  each complaint he raised. Scope tight — no "everything about me" application.
+- Rationale for the 10th: nothing lost (25-business-day clock lands mid-Sept regardless);
+  avoids pre-mention noise; and by then the disclosure list + any s 89 answer show what
+  remains ungiven — don't RTI what's arriving free.
+- CCC adverse-action complaint: NOT NOW. (a) anticipatory — the completing adverse act hasn't
+  happened; (b) CCC would refer it back to MSH ESU (inside the building); (c) multi-front
+  optics feed the personal-campaign frame pre-mention; (d) it is the BANKED CARD for the
+  adverse-act branch — if a detrimental decision lands, the complaint writes itself with the
+  full ladder (protected acts, CE knowledge, timing) and arrives with force. Existing CCC
+  refs (CO-25-2722/CO-26-1318) already preserve the relationship.
+- Ask Petering first whether any category is obtainable industrially faster.
