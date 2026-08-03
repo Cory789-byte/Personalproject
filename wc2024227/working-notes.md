@@ -3555,3 +3555,7 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   NOT chase pre-mention; the commitment is on record and speaks for itself if disclosure comes
   up Friday.
 - WP letter export was byte-identical to the filed SENT copy — duplicate discarded.
+- CORRECTION: the two WP-letter PDFs were same size but NOT byte-identical (differing md5s —
+  likely export timestamp). Same letter content on inspection; the original SENT proof filed
+  31 Jul is retained as the service copy. If a byte-exact export ever matters, re-file Cory's
+  Outlook_Document165 export alongside it.
