@@ -3538,3 +3538,20 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   five new established items, calibrated numbers (48/66/59/28/66), week decision points, risks.
 - evidence-index/sources-text/2026-07-30_1433_Harrison_holding_reply_FULL.txt — full-text mirror
   with banked key facts (asymmetry pair, delegate record, "usual process", Solv/IPEC cc).
+
+## 2026-08-03 — Matheson 07:17 reply filed + assessed
+- 2026-08-03_0717_Matheson_reply_disclosure_list_and_NNPD_commitment.pdf: replying to Cory's
+  24 JULY disclosure-list request (10 days), 7:17am Monday — BEFORE his 11:38 send. Three
+  sentences: apology for delay + commitment to updated list of documents AND NNPD (Form 29
+  non-party disclosure) COPIES "as soon as possible this week".
+- What she responded to: the procedural records request ONLY. What she put aside: the 31 Jul
+  WP material-development letter (unanswered in any channel), the reconsideration invitation,
+  the continuing-detriment point, the conferral offer.
+- Read: pre-mention decks-clearing / covering the Regulator's procedural side so Friday shows
+  compliance. WP silence 4 days pre-mention = normal carriage discipline; real tell is Friday's
+  64G posture.
+- ⭐ VALUE: the NNPD copies commitment — the Respondent's own Form 29s + documents produced =
+  window into their evidence base. DIARISE: if list+copies not received by Thu 6 Aug EOD, do
+  NOT chase pre-mention; the commitment is on record and speaks for itself if disclosure comes
+  up Friday.
+- WP letter export was byte-identical to the filed SENT copy — duplicate discarded.
