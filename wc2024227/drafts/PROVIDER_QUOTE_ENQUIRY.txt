@@ -36,7 +36,11 @@ For transparency: I am an employee of the workplace concerned, preparing a contr
 a consultation process about how such an assessment might be conducted. Any engagement
 would be commissioned by the employer, not by me. At this stage I am asking only: whether
 this is within your service scope; your indicative approach; an indicative fee range for
-an assessment of this size; and your current availability.
+an assessment of this size; your current availability; and one scope question — whether
+the assessment's deliverables could include a statement of the role's psychosocial
+demands and working conditions in a form suitable for use by treating medical
+practitioners when providing fitness-for-work, restriction and adjustment opinions for
+workers in the room.
 
 I'm happy to take this by email or a short call.
 
@@ -59,6 +63,22 @@ availability confirmed. I provide it as an input to scoping. The selection of th
 assessor, against the independence criteria at Part 8 of my tabled package, and the
 engagement itself, remain matters for the Health Service in consultation with the
 affected workers under section 48."
+
+THE CHAIN THIS ENQUIRY OPENS (added 4 Aug — Cory's sequencing)
+1. Enquiry (now, his): quote + the provider's written confirmation that deliverables can
+   include a practitioner-usable statement of the role's demands/conditions. That
+   confirmation is itself a document: independent proof an assessment of this kind
+   supplies the job-demands information the nine RFMI questions are missing.
+2. Funding mirror (HOLD): MSH commissions and pays the provider directly. Only MSH can
+   commission — the assessor needs site access, data and staff; a worker-commissioned
+   report never enters the room and reads as a private expert (independence destroyed).
+3. Appointment (whenever it occurs): doctors briefed with the nine questions + allocation,
+   MSH's role description, and the integrated package as Cory's account of conditions.
+   Staged answers if the assessment is incomplete — never withheld answers.
+4. Findings land: Report A finalises restrictions/adjustments against the role AS
+   ASSESSED. Division of labour stays absolute: the assessor answers "what is this role,
+   actually"; only the doctors answer capacity/restrictions/adjustments; neither steps
+   over the line. Report B (appeal) stays in its own lane, never fed to this chain.
 
 WHY THE WORDING IS LOAD-BEARING
 1. "I table it as an input; engagement is a matter for the Health Service" — Cory never
