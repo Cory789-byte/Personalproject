@@ -3938,3 +3938,9 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - skill/references/LABOUR-LEDGER-what-the-matter-cost-them.md: 16 actors, rates Award-anchored
   where possible, 27 line items across 8 phases, ~1,090 hours midpoint, ≈$153k (range $92k-215k),
   38:1 vs the withheld wages, 1.9 years of his salary. Willson's 95h (≈$43k) mostly READING him.
+
+## 2026-08-04 — The Done-Properly blueprint banked
+- skill/references/DONE-PROPERLY-consultation-blueprint.md: 10 asks × requirement source ×
+  concrete consulted implementation + the standing consultation architecture (support person,
+  alongside-not-instead, writing-before-resolved, no waiver, ordinary-way register). The
+  constructive half of the file, ready for whichever door opens first.
