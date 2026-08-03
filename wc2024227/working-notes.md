@@ -3491,3 +3491,10 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   questions outstanding at CE level on DOCUMENTED personal receipt (12:45 ack).
 - Every branch favourable. Nothing for Cory to do. If the response ever comes from the Board or
   the Department instead of MSH, that is the strongest possible tell — note it immediately.
+
+## 2026-08-03 — CRIDLAND-END full-picture evaluation written
+- skill/references/CRIDLAND-END-full-picture.md: her complete stack (appeal, 64G+her objection
+  signature, PID knowledge, Calderbank, exclusion, RFMI Q1(b), today's four docs, 12:45 ack);
+  the honest adviser brief (6 points, incl. withdraw Q1(b) and take the s 89 exit); her likely
+  conclusions ranked 1–6; her personal calculus (two signatures — easiest exit = his best
+  outcome, by design); watch-for signals list for the week.
