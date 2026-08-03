@@ -3917,3 +3917,19 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   unreasonable MA + significant contribution → under the CURRENT test the Mahaffey
   single-unreasonable-stressor route is close to complete on admissions; the Form 9C reasons
   seam is Willson's needle) — already the 9A's pleaded spine.
+
+## 2026-08-04 — Cost model corrected: the Form 29 compliance mountain priced separately
+- Cory rightly flagged the earlier invoice underweighted 64G compliance. If orders are made,
+  full compliance is its own mountain for MSH: native email exports + privilege/relevance
+  review at scale (potentially thousands of messages, 50-150 review hours alone); the SPOK
+  upgrade archaeology to support the ¶50 sworn sub-questions; security-access and payroll
+  extraction; verification affidavits drafted against the BINDS (maximum-care documents,
+  10-30h legal each); PLUS the hidden multiplier — consistency review of every produced page
+  against the 5 June objection's assertions (post-Item 20, someone senior reads everything
+  twice). MSH 64G-compliance estimate: 150-400h ≈ $30k-$80k+.
+- Regulator knock-on: the enlarged record must be read/analysed/re-priced by Matheson+Willson:
+  40-100h ≈ $10k-$40k.
+- CORRECTED COMBINED TOTAL (spent + committed incl. 64G compliance): ~$150k-$350k.
+- Design note: the 64G is an audit whose cost falls on the audited, either fork — production
+  funds the audit of their records; sworn non-existence funds the records-management audit via
+  the verification questions. The only cheap fork (ignore it) was removed by sealing.
