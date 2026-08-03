@@ -32,3 +32,60 @@ When any door opens (Stage 1/2, scoping, an s 89 reallocation, a settlement conf
 is never the party who has to be asked "well, what do you want?" — the constructive,
 instrument-anchored, immediately-implementable answer is already in hand. The party with
 the plan runs the meeting.
+
+---
+# ANNEX A — THE SWITCHBOARD OPERATING MODEL (Cory's substantive reform proposals, 4 Aug 2026)
+> His controls package for the assessment/controls consultation, cl 7.1.5 forums, or Stage 2.
+> Each proposal = a CONTROL tied to a Code hazard category and an evidence anchor already in
+> the record. Tabled as work design, never as criticism of any person. Near-zero cost.
+
+## A1. CONSULT-BEFORE-DIRECTIVE ("operators asked first")
+No operational change to Switchboard processes issues without prior consultation with the
+operators who work the board. Rationale: the Switchboard is a real-time expert system (affidavit
+¶7 — six concurrent platforms); operators hold the operational knowledge; in a fast-paced
+direct environment a directive drafted away from the room routinely misfires (the MASPER
+example, ¶27). ⭐ FRAMING: this is not an inversion of management — WHS ss 47–49 ALREADY
+require consultation on changes affecting health/safety; the proposal is simply compliance,
+systematised. Controls: role clarity + change management (Code categories). Evidence anchor:
+¶¶26–28 (unilateral "effective immediately" directives; consultation raised 16 Jun 2023 and
+15 May 2024, never actioned).
+
+## A2. THE ROTATIONAL INTEGRATED MANAGER ("on the phones, in the room")
+The Switchboard manager works a regular rostered rotation ON the board — on the phones,
+physically integrated into the room (e.g., a minimum number of console shifts per fortnight).
+Rationale: management decisions about a real-time environment require direct current knowledge
+of it (work-as-done vs work-as-imagined — the Code's own logic); presence fixes availability;
+comms-centre team leaders working consoles is the standard model in emergency communications.
+Controls: support/supervision availability + erratic-presence hazard. Evidence anchor: ¶¶20,
+26 (manager "frequently not contactable"; presence "erratic"; Item 9 security-access records).
+
+## A3. COMPLAINT-RESPONSE SERVICE STANDARD
+Complaints/escalations emailed to Switchboard management: acknowledged within 1 business day,
+substantively answered within 3; automatic escalation to the CLS pathway (Ms Forrest's own
+7 Jul 2026 description) if the manager is unavailable — nothing sits for days, and nothing
+returns to accumulate at the operator's console. Controls: organisational justice
+(informational fairness) + workload. Evidence anchor: ¶¶19–20 (complaints "returned to, and
+accumulated at, the Switchboard"; "often left unresolved" — his 15 May 2024 words).
+
+## A4. ONE RULEBOOK FOR THE ROOM
+The manager-in-rotation is subject to the same frameworks as operators: the roster rules,
+minimum-notice requirements, FRMS breaks, leave processes — applied identically. Rationale:
+organisational justice is consistency; the record's defining defect is asymmetry (deadlines
+for him, none for them; leave rules enforced downward, not upward). Controls: organisational
+justice (procedural fairness). Evidence anchor: the substitution pattern; the asymmetry pair;
+¶¶32–40 (fatigue/leave handling).
+
+## A5. PATIENT SAFETY AS THE DESIGN PRINCIPLE
+(a) Clear ownership + backup for SPOK/on-call roster accuracy (the emergency-paging
+dependency, ¶¶6, 17, 29); (b) directory-update access restored with a backup pathway (the
+single-person bottleneck of the 18 Jul 2023 access restriction, ¶22); (c) a defined escalation
+path when a DSO or the manager is unavailable (¶¶15, 18, 20). Every element maps a documented
+failure to a control. Evidence anchor: ¶¶6–25 + the Respondent's Form 24 admission that
+contact-detail accuracy is "a critical function... to ensure... patient safety".
+
+## TABLING RULES
+- These are CONTROLS proposed IN consultation — table at the assessment's controls stage,
+  the cl 7.1.5 forum, or Stage 2. Never in open correspondence as demands.
+- Always the room, never the person: "the model", "the role", "the rotation" — no names.
+- Lead with A5 (patient safety) — it is the anchor that makes A1–A4 obviously reasonable.
+- Cost framing: near-zero — rostering and process changes only; no new positions.

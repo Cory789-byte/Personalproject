@@ -3944,3 +3944,11 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   concrete consulted implementation + the standing consultation architecture (support person,
   alongside-not-instead, writing-before-resolved, no waiver, ordinary-way register). The
   constructive half of the file, ready for whichever door opens first.
+
+## 2026-08-04 — Annex A: the Switchboard Operating Model banked
+- Cory's five reform proposals professionalised into a controls package (consult-before-
+  directive; rotational integrated manager on the phones; complaint SLA 1/3 days with CLS
+  escalation; one rulebook for the room; patient-safety design principle incl. SPOK ownership
+  + directory-access fix). Each tied to a Code category + affidavit evidence anchor. Tabling
+  rules: controls-in-consultation only, room-not-person, lead with patient safety, near-zero
+  cost framing. The "inversion" reframed: ss 47-49 already require it — it's compliance.
