@@ -3593,3 +3593,21 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   is ever needed.
 - The clean overpayment history preserves the fund relationship as the intact safety net —
   part of why addressing it promptly mattered.
+
+## 2026-08-03 — CORRECTION [A]: certification history
+- Cory: the 3 July 2026 ECC is the ONLY certification that has ever existed — no certification
+  of any kind before it. And his PSYCHIATRIST ADVISED AGAINST working; he worked the reduced
+  pattern regardless, sustaining it from his own leave.
+- ⇒ My earlier "fit-vs-unfit tension" framing OVERSTATED the problem: the record is not
+  "always fit". It is: real incapacity (partial IP benefits, psychiatrist caution), work
+  attempted against advice, certification obtained 3 July when demanded. A coherent, honest
+  arc — prior benefits consistent with partial incapacity; ready-willing-able needs fitness
+  only FROM 3 JULY, exactly when the certificate exists. The wage claim is untouched.
+- ⭐ Appeal upside: worked against medical advice = anti-malingering evidence + severity +
+  explains leave patterns as genuine. The opposite of the exaggeration narrative.
+- ⚠ CAREFUL SPOT: the psychiatrist's CURRENT view vs the GP's ECC. RFMI questions to the
+  psychiatrist (Q7, 1(a), 1(d), 8 per the allocation) will surface his present opinion. Before
+  the rebooked consult, Cory should understand — not shape — what that opinion now is. If the
+  treater's honest current view is that work (even restricted) is harmful, strategy must
+  accommodate that truth; ready-willing-able cannot be run against your own treater. Discuss
+  openly at the consult; Report A scoping (current capacity/adjustments only) already fits.
