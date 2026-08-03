@@ -160,11 +160,11 @@ build(OUT+"FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf",
        ("8", "Are there specific tasks, situations or environments (for example high-pressure settings, "
              "shift work, patient acuity) that may exacerbate Mr Shepherd's condition or symptoms?",
         "The role is a continuous shift working role covering multiple shifts over a 24/7 period.", 36*mm),
-       ("9", "Mr Shepherd reports that distress rises as a rostered shift approaches and peaks at the "
-             "point of entering the workplace, and that this has resulted in lateness and in late notice "
-             "of absence. Could you please address, in functional terms, whether distress of that kind "
-             "in anticipation of attendance is a feature of his condition, and what its effect on "
-             "attendance and punctuality would be expected to be.", None, 40*mm),
+       ("9", "The only conduct matter ever raised with Mr Shepherd concerns attendance — lateness and "
+             "late notice of absence. Mr Shepherd will describe to you at the consultation the distress "
+             "he experiences in anticipation of attending a rostered shift. Could you please address, in "
+             "functional terms, whether distress in anticipation of attendance is a feature of his "
+             "condition, and what its effect on attendance and punctuality would be expected to be.", None, 40*mm),
        ("10", "Over the twelve months preceding the Employee Capabilities Checklist Mr Shepherd was "
               "rostered and worked in the order of six shifts per fortnight, a pattern the Checklist "
               "records as having been “worked and tolerated… without deterioration”. In your opinion, is "
