@@ -109,10 +109,16 @@ PART 2 — THE MAPPING: HAZARD, PRESENTATION, RISK, PROPOSED CONTROL
 
 10. FATIGUE.
     How it presents: rostering patterns capable of producing breaks below the mandated
-    minimum; recovery dependent on the operator's own leave.
-    Risk: impaired performance in a safety-critical function; cumulative harm.
+    minimum; and — observable across the team, not any one operator — fatigue currently
+    managed informally by staff themselves, through personal leave taken on and after
+    high-volume periods. The pattern is visible on the face of the rosters when read
+    against the leave records and the demand data: the cost of the unmanaged hazard is
+    being transferred to workers' own leave balances.
+    Risk: impaired performance in a safety-critical function; cumulative harm; depletion
+    of leave entitlements as the de facto fatigue control.
     Proposed control: fatigue rules built into roster design — minimum breaks enforced
-    structurally, not checked after the fact (Proposal 7).
+    structurally, not checked after the fact — so that recovery is provided by the roster,
+    not purchased by the worker (Proposal 7).
 
 --------------------------------------------------------------------------------
 PART 3 — CONSULTATION AND REVIEW
@@ -124,8 +130,10 @@ PART 3 — CONSULTATION AND REVIEW
 
 2.  I ask that the assessment: adopt the Code's categories; draw on the Code's data sources
     (complaints records, absence and turnover data, EAP usage, workload and call-volume
-    data); be conducted by an assessor independent of the functions being assessed; and
-    select controls in consultation, in the order the Regulation requires.
+    data); specifically, map the team's leave usage against the rosters and the demand data,
+    which will show whether fatigue is presently being absorbed through personal leave; be
+    conducted by an assessor independent of the functions being assessed; and select
+    controls in consultation, in the order the Regulation requires.
 
 3.  I ask that controls, once implemented, carry review dates, and that the review include
     the operators affected — consistent with the Regulation's review triggers.

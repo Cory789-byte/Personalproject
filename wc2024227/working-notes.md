@@ -4007,3 +4007,15 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   extended to its comms hub). ISO 45003/45001 → the mapping approach. RETAINS retention tools
   → the recognition pathway. Killer framing banked: "the Switchboard is the one emergency
   communications room in the building that has none of it."
+
+## 2026-08-04 — Fatigue row upgraded: the leave-as-fatigue-control pattern (all staff)
+- Cory's observation folded in: fatigue is currently managed BY STAFF through personal leave
+  on/after high-volume periods — a TEAM-WIDE pattern visible when rosters × leave records ×
+  demand data are read together. Mapping row 10 + Part 3 data ask updated ("map the team's
+  leave usage against the rosters and the demand data"). Framing: "recovery provided by the
+  roster, not purchased by the worker."
+- Evidentiary significance banked: (1) generalises his own "sustained out of my own leave"
+  from individual to systemic — kills the personal-vulnerability read (tactic 3): everyone
+  absorbs it; he just ran out first; (2) the §4(f) roster/payroll record + unit absence data
+  he's already seeking would PROVE the correlation; (3) it's a testable claim in THEIR
+  records — the assessment either runs the correlation or visibly declines to look.
