@@ -282,7 +282,7 @@ carry the rebuttal inside them**, contemporaneously:
 - *"I have notified that I would be **late** not that I wasn't coming in."*
 A person insisting on attending his shift within the hour of a police attendance is the picture of
 a **minor, managed, same-morning event** — functional, work-committed, resolved. Five months before
-the 18 June 2024 injury date, it does almost no work against "the major significant contributing
+the 18 June 2024 injury date, it does almost no work against "a significant contributing
 factor" (WCRA s 32 psychiatric standard). **And it was Taylor who covered the shift** — his
 non-attendance that day was her rostering decision, not his incapacity.
 ⚠️ **Two discipline points.** (1) Cory must never himself characterise it as "a stressor" — that

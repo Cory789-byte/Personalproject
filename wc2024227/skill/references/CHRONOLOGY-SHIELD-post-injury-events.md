@@ -14,8 +14,8 @@
 Every event the Respondent could reach for — the orders (Dec 2024), the arrest (24 Feb 2025),
 the charge, the homelessness, the seizures, the family displacement (Apr 2025) — post-dates
 the injury by 5–10 months and the DIAGNOSIS by 1–6 months. On a s 550(4) liability appeal,
-the question is whether employment was the major significant contributing factor TO THE
-INJURY. Events after onset cannot cause the onset. The dilution argument is chronologically
+the question is whether employment was A significant contributing factor TO THE
+INJURY (s 32(1), verified ATT26 — the 2013 "major" test was repealed in 2019). Events after onset cannot cause the onset. The dilution argument is chronologically
 impossible, from the Regulator's own file (their SOFC pleads the diagnosis history).
 
 ## 2. THE "UNDATED CONTEXT" TRICK — AND ITS ONE-LINE ANSWER
@@ -67,7 +67,7 @@ mother move; the sister went to NSW. Not his conflict, not his order, not his cr
 **Their likely play**: undated innuendo — "DV-related matters in his life from early 2024" —
 inviting the inference it was HIS domestic violence. **The defence, in order:**
   (a) RELEVANCE — a single unpleaded January morning, followed by **five months of normal
-      work before the June injury**, cannot dilute "major significant contributing factor"
+      work before the June injury**, cannot render employment other than "a significant contributing factor"
       against 18 months of pleaded workplace stressors. Object first; explain only if needed.
   (b) THE DATED, BENIGN TRUTH (only if the door is opened) — short, factual, protective:
       "a family matter concerning a child relative, in which I was the assisting adult; no

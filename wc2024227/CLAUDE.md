@@ -66,6 +66,11 @@ the Taylor email only, CE letter solo). Full-picture read + two addenda at
 - ⛔ **ATT20 (AD Act) is current only to 19 May 2025** — the positive duty is not in it.
 - ⚠️ **Grep PDFs only after `pdftotext`.** Grepping a PDF as a binary silently misses compressed
   text and produces false negatives.
+- ⛔ **WCRA s 32(1) test is "A SIGNIFICANT contributing factor" — NEVER "major".** The 2013
+  "major significant" test for psychiatric injuries was repealed by the 2019 amendments,
+  long before the 18 Jun 2024 injury. Verified against ATT26 (authorised consolidation,
+  current 1 Jan 2025), 3 Aug 2026 — Cory caught the error. Competing causes need not be
+  outweighed; they need only leave employment "a significant" contributor.
 
 - **64G / Form 29 — ✅ FILED AND SEALED 23 June 2026** (confirmed by Cory 31 July 2026), served on MSH 24–25 June. MSH's objection (ref K-LM26/729, 5 June 2026, signed Noelle Cridland CE; enquiries Myla Ruttan, Principal Lawyer) is on file, mined, and mirrored at `evidence-index/sources-text/`. **Mention 7 August 2026 before Dwyer; MSH required to attend.** Posture at the mention: ordinary procedural machinery — volunteer nothing about the employment dispute.
 - **Settlement:** Calderbank #2 served **1 July 2026 at 12:16**, addressed to Matheson *and* the OIR appeals registry (service proof filed at `documents/2026-07-01_Cory_Calderbank2_covering_email_SERVICE_PROOF.pdf`); rejected 16 July 2026. Without-prejudice "material development" letter to Matheson **sent** 30–31 July.

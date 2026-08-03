@@ -3665,3 +3665,19 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Frame banked: every stressor was someone else's act; every response of his was lawful and
   procedural. "I didn't choose any of it" = the agency asymmetry that underwrites both the
   injury narrative (things done TO him) and the credit contrast (what he did about it).
+
+## 2026-08-03 (late) — ⭐ LEGAL STANDARD CORRECTED: "a significant", never "major"
+- Cory caught me applying the REPEALED standard. Verified against the authorised WCRA
+  consolidation (downloaded, filed as documents/instruments/ATT26_WCRA_2003_current_2025-01-01.pdf,
+  current 1 Jan 2025): s 32(1) — "personal injury arising out of, or in the course of,
+  employment if the employment is A SIGNIFICANT CONTRIBUTING FACTOR to the injury." No "major"
+  anywhere in s 32; the 2013 psychiatric "major" test was repealed in 2019.
+- Corrected in: RESPONDENT-PLAYBOOK (tactic 2 + correction section rewritten), CHRONOLOGY-SHIELD
+  (2 instances), taylor-DFV §4B (1 instance), CLAUDE.md standing rule added.
+  medical-causation-framework.md already had it right — recent files contradicted it; standing
+  rule now prevents recurrence.
+- CONSEQUENCE: the dilution tactic is much weaker than my analysis assumed — competing causes
+  can coexist; the Respondent must show employment was not significant AT ALL. Cory's "the work
+  case is significant regardless of what else is going on" is the correct statement of the
+  current law. Appeal-win estimate should nudge UP on the corrected standard (28 → low 30s;
+  re-run properly after Report B).

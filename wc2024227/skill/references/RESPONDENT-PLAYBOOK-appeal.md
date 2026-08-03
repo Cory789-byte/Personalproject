@@ -8,7 +8,7 @@
 | # | Tactic | How it runs here | The counter (built) |
 |---|---|---|---|
 | 1 | **s 32(5) reasonable management action** — THE big one in psych claims | Recharacterise each stressor as ordinary management (rostering, performance process) done reasonably | Whole-course-of-conduct discipline (rule 7); manner-vs-substance/constitutive analysis; the manner defects are documented (no consultation, no instrument, substitutions); Stressor 1(a) anchored to roster records the 64G extracts |
-| 2 | **"Major significant contributing factor" dilution** | Weigh personal events against work | CHRONOLOGY-SHIELD: diagnosis 24 Oct 2024 pre-dates the entire personal story; pre-injury fragment (Jan 2024) = one morning + five clean months; the comparison is 18 months of documented workplace stressors vs dated episodic personal events |
+| 2 | **Causation dilution — "employment was not a significant contributing factor"** | Run competing causes to argue employment was not significant (⚠ s 32(1): the test is "A significant contributing factor" — the 2013 "major" test was REPEALED in 2019; verified ATT26) | CHRONOLOGY-SHIELD: diagnosis 24 Oct 2024 pre-dates the entire personal story; pre-injury fragment (Jan 2024) = one morning + five clean months; the comparison is 18 months of documented workplace stressors vs dated episodic personal events |
 | 3 | **Pre-existing condition / vulnerability** (their SOFC ¶8 "past medical history of anxiety") | Mine records for prior history; eggshell reframe | Aggravation is compensable; the history is thin vs the 2024 onset density; Report B addresses expressly; over-supply answer if the source is MSH-fed material |
 | 4 | **Credit attack** | Inconsistencies across SOFAC versions, clinical histories, emails; the superseded 9A | Confirmed-record discipline (nothing unverified ever filed); amendments explained as refinement; his corpus is consistent BECAUSE it was built verified |
 | 5 | **"Perception, not actual events"** | Psych stressors must be real events, not perceptions | The stressors are documentary: rosters, emails, leave codings, the 7 July letter's own admissions — paper events, not perceptions |
@@ -21,12 +21,15 @@
 | 12 | **Settlement squeeze** | Low offers against his visible financial pressure | Runway plan; the employment-track clocks make time cost THEM; Calderbank framework means undervalued offers carry costs risk for the Regulator |
 
 ## THE HONEST CORRECTION TO "IT DOESN'T MATTER WHAT ELSE IS GOING ON"
-The psychiatric standard (employment = THE MAJOR significant contributing factor) makes
-competing causes legally relevant BY DESIGN — tactic 2 is not improper, it is the statute's
-own comparison. The winning frame is not "other things don't matter"; it is **"the comparison
-is won on documents"**: 18 months of sustained, employer-acknowledged, paper-proven workplace
-stressors versus dated, episodic, mostly post-onset personal events, each with a banked
-answer. Significance is comparative — and the comparison has been engineered.
+⚠ CORRECTED 3 Aug 2026 (Cory caught it; verified against ATT26, current 1 Jan 2025):
+**s 32(1) requires only that employment be "A SIGNIFICANT contributing factor" — the 2013
+"major" test for psychiatric injuries was REPEALED by the 2019 amendments.** Competing causes
+therefore do NOT need to be outweighed: other significant contributors can coexist and the
+claim still succeeds so long as employment remains A significant contributor. Tactic 2 is
+accordingly much weaker than under the old law — the Respondent must argue employment was not
+significant AT ALL, which is close to unarguable against 18 months of documented,
+employer-acknowledged workplace stressors. Cory's instinct ("the work case is significant
+regardless of what else is going on") is the CORRECT statement of the current test.
 
 ## WHERE THEIR OVER-REACH HELPS
 Running the personal story hard is high-risk FOR THEM: completeness brings in the strike-out,
