@@ -3641,3 +3641,13 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   the short protective true account if the door opens (name no one), the s 159 child gate,
   completeness (their own screenshots rebut), and the pregnancy = her event, no evidentiary
   foundation. VERIFY on NNPD arrival: whether any 2024 clinical note touches the family matter.
+
+## 2026-08-03 — Respondent playbook banked
+- skill/references/RESPONDENT-PLAYBOOK-appeal.md: the twelve standard tactics (s 32(5) RMA,
+  major-significant dilution, pre-existing, credit, perception-vs-events, expert contest,
+  fragmentation, onus, attrition, personal-story narrative, witness denial, settlement
+  squeeze) each mapped to the counter already built. Honest correction recorded: the statute
+  itself makes competing causes relevant — the frame is "the comparison is won on documents",
+  not "other things don't matter". Over-reach analysis: their hard personal-story play is
+  high-risk for them; sanitised expert line is the real threat → the dating cross is the most
+  important prepared question in the appeal.
