@@ -3823,3 +3823,21 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - DISCIPLINE unchanged: never on paper as theory/motive. The questions already sent (who
   decides · what conflict identified and managed · does a s 89(2) authorisation exist) surface
   it structurally. [A] until documents date his knowledge.
+
+## 2026-08-04 — RFMI letters read in full; ⭐ the extension valve
+- Employee letter, operative sentence: "If you do not return the document within this timeframe
+  OR SEEK A REASONABLE EXTENSION, I will make a decision..." — the letter's OWN TERMS make an
+  extension request defeat the decision trigger. Cory sought the extension 3 Aug → the 7-day
+  trigger condition is NOT MET by the letter's own words. Any "7 days passed" decision now
+  contradicts the letter it purports to enforce. Banked for the dismissal-scenario answer.
+- Q2's tell: premise "the Health Service is not aware of any concerns being raised for
+  appropriate management" (contradicted by their own 7 Jul letter + the record) sits beside
+  asks whether he can "follow a reasonable and lawful direction" and "participate in
+  discussions in relation to his workplace performance and/or conduct" — discipline-adjacent
+  destination revealed while its predicate is denied. Non-medical questions to a GP.
+- Register read: aggressive in intent, weak in execution — template assembly, typos ("cab be
+  found out their website", "bases", broken Q2 grammar), compound questions, "primarily" leak
+  (C5), duties-cited-as-powers (WHS ss 17/19 + G3). Q1(c) asks the GP to rate his own
+  patient's reliability; Q3 asks medicine to certify the conflict away; Q6 asks if he can work
+  with NO adjustments (against G3's own premise); Q9 invites manufactured unfitness ("if we
+  are not able to accommodate... is he able to safely return").
