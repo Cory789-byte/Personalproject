@@ -87,3 +87,39 @@ WHY THIS WORKS
   factual workplace package — three sources, none of them coaching.
 - The A/B wall and the billing wall are stated once, in the room, and then live in the
   two scope documents — clean on paper, clean in cross.
+
+------------------------------------------------------------------
+⛔ KEEPING IT OUT OF MSH'S HANDS (added 4 Aug — Cory's question)
+------------------------------------------------------------------
+WHAT MSH ACTUALLY GETS: the REPORT ONLY, answering the questions put. They have no
+access to the clinical file. He adopted option 1 on 3 Aug and expressly refused the
+option 2 authority — so there is no consent in existence for record release, and G03
+permits only what is "necessary" to identify/assess adjustments. If MSH ever asks for
+records rather than a report: decline, in one line, citing the same clause.
+
+⚠ THE REAL LEAK IS THE OTHER TRACK: clinical NOTES can reach the Regulator in
+WC/2024/227 through Form 29 / NNPD notices — that channel is already active. There is
+no doctor-patient privilege in Australian courts. So the room is not a vault: assume
+anything recorded in the clinical notes may one day be produced in the APPEAL (not to
+MSH as employer, but to the Regulator).
+
+⇒ THE PRACTICAL RULE FOR THE CONSULT:
+- SAY FREELY (and fully): symptoms, function, sleep, mood, the doors, the shutdowns,
+  what the exclusion and non-payment have done to him, treatment, what would help.
+  Clinically necessary, and it reads exactly as what it is if ever produced.
+- KEEP OUT: legal strategy, tactics, predictions, opinions about MSH's motives, what
+  the other side is trying to do. No clinical value, fully producible, and it converts
+  a treating record into a strategy document.
+- Report B instruction is HANDED OVER as a medico-legal instruction for the appeal
+  (created for that dominant purpose); keep it distinct from the treating file, and
+  never discussed in the same breath as the MSH report.
+
+FOUR PROTECTIONS TO ASK FOR, IN THE ROOM:
+1. "Please confine the employer's report to the questions on the form" — no aetiology,
+   no extraneous history, no third-party/family material.
+2. "May I read it before it goes to the employer?" — a patient may review for scope and
+   accuracy (never to change an opinion). Legitimate, and it catches over-disclosure.
+3. "My consent is for this report only, not for release of my clinical records."
+   Say it, and confirm it in one line to the clinic when the report is being prepared.
+4. If the employer contacts the clinic directly: ask that he be told, and that nothing
+   be released without his written consent.
