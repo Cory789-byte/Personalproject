@@ -3532,3 +3532,9 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   no-timeframe · 29 Jul WHS-as-power framing ("independent obligation") · 30 Jul no-guarantee +
   "usual process is for approved RFMI documentation to be sent directly to the employee" ·
   delegate-approval existence.
+
+## 2026-08-03 (close of day) — Full picture 3 Aug written; sources-text mirror added
+- skill/references/FULL-PICTURE-READ-3AUG.md — send-day field state: day-1 events, clocks table,
+  five new established items, calibrated numbers (48/66/59/28/66), week decision points, risks.
+- evidence-index/sources-text/2026-07-30_1433_Harrison_holding_reply_FULL.txt — full-text mirror
+  with banked key facts (asymmetry pair, delegate record, "usual process", Solv/IPEC cc).
