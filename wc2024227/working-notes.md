@@ -3504,3 +3504,9 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   "poor organisational justice — the decision-making processes" as the cl 7.2 hazard, WITH the
   six dated data points, at the Stage 1/2 discussion or assessment consultation. NOT sent cold —
   ask-for-the-assessment discipline preserved.
+
+## 2026-08-03 — Stage 1 script banked
+- skill/references/STAGE1-SCRIPT.md: opening statement, the eight asks in meeting order, the
+  verbatim hazard framing (organisational justice + job insecurity, quoting THEIR "line
+  management" phrase to reach all of Corporate Services without naming anyone), scripted
+  answers to their four likely questions, meeting discipline, after-meeting file-note rule.
