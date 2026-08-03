@@ -3962,3 +3962,9 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   per its sequencing rule; CE-letter internals excluded.
 - DEPLOYMENT RULE: TABLED at Stage 1/2, the assessment scoping, or a settlement conference —
   never emailed cold. Closing line: "I would rather build the fix than continue the dispute."
+
+## 2026-08-04 — A6 (24/7 on-shift supervisor + career pathway) and A7 (evidence-based
+rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, clean).
+- A6 completes the Code coverage: reward & recognition was the untreated category — the
+  rotating supervisor function with allowance + development pathway treats it. A7 converts
+  the roster-equity contest into a measurable and builds the Stressor 3 fix into design.

@@ -89,3 +89,21 @@ contact-detail accuracy is "a critical function... to ensure... patient safety".
 - Always the room, never the person: "the model", "the role", "the rotation" — no names.
 - Lead with A5 (patient safety) — it is the anchor that makes A1–A4 obviously reasonable.
 - Cost framing: near-zero — rostering and process changes only; no new positions.
+
+## A6. THE 24/7 ON-SHIFT SUPERVISOR (added 4 Aug, Cory's refinement)
+A rostered shift-supervisor FUNCTION on every shift, rotating among trained operators, held
+while working the board, carrying an in-charge allowance/classification increment.
+Controls: POOR SUPPORT (supervision present 24/7, incl. the weekend vacuum ¶18) + INADEQUATE
+REWARD & RECOGNITION (a career pathway inside the room — the one Code category previously
+untreated) + ISOLATED WORK + ROLE CLARITY (a named escalation point every shift) + the
+single-person-dependence lesson (Stibbard ¶22). Cost honesty: the one non-zero-cost proposal
+(modest per-shift allowance) — framed as offset by turnover/absence reduction; QAS/000-centre
+standard model. Role not person: open by rotation and merit.
+
+## A7. EVIDENCE-BASED ROSTERING (added 4 Aug)
+Rosters built from the demand data the room already generates (his ¶9 monthly stats, console
+volumes, code activity): coverage matched to peaks; FRMS breaks built into design (10-hour
+minimum enforced structurally — the Stressor 3 fix); proper notice; equity visible on the
+roster's face (converts the "roster was equitable" contest into a measurable). Controls:
+FATIGUE + HIGH DEMANDS + ORGANISATIONAL JUSTICE. The data exists; the ask is only that the
+roster be built from it.
