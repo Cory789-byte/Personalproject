@@ -3651,3 +3651,17 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   not "other things don't matter". Over-reach analysis: their hard personal-story play is
   high-risk for them; sanitised expert line is the real threat → the dating cross is the most
   important prepared question in the appeal.
+
+## 2026-08-03 (late) — [A] Stressor inventory, Cory's own words, to capture properly
+- His list tonight, verbatim spine: "the wage withheld · PT [patient] safety · the PID · the
+  rostering errors · everyone managing through their leave · the tearing out paper · the
+  screaming." NONE of it his choice — the choice asymmetry frame.
+- ⚠ Corpus check: "screaming" and "tearing out paper" incidents appear NOWHERE in the corpus
+  or synthesis — they live only in memory. They belong in HIS WRITTEN ACCOUNT (the standing
+  to-do that already covers 7am 24 Feb 2025 — widen it): each incident with approximate date,
+  place, who was present, what was said/done, and any document/witness that could anchor it.
+  [A] working-theory until anchored; NOT for filings; primary use = Report B history +
+  evidence-in-chief reservoir + the hazard data set.
+- Frame banked: every stressor was someone else's act; every response of his was lawful and
+  procedural. "I didn't choose any of it" = the agency asymmetry that underwrites both the
+  injury narrative (things done TO him) and the credit contrast (what he did about it).
