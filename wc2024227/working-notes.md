@@ -3681,3 +3681,8 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   case is significant regardless of what else is going on" is the correct statement of the
   current law. Appeal-win estimate should nudge UP on the corrected standard (28 → low 30s;
   re-run properly after Report B).
+
+## 2026-08-03 (late) — Full picture re-run on the corrected significant test
+- Appeal win at hearing 28→36; appeal favourable 66→70; employment/pay unchanged (48/66/59).
+- Contested centre shifts to s 32(5) RMA; Report B re-scoped accordingly (significance +
+  manner, not outweighing). Addendum appended to FULL-PICTURE-READ-3AUG.md.

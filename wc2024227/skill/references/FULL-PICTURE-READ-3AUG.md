@@ -69,3 +69,40 @@ see the whole board holds it on documented personal receipt. Every branch of the
 tree ends in restoration, payment, a reviewable decision, a produced document, or a statutory
 deemed decision. His work this week is restraint: two one-line writings, one silent court
 appearance, and a diary. The meter is theirs now.
+
+---
+# ADDENDUM — 3 AUG (LATE): RE-RUN UNDER THE CORRECT s 32(1) TEST
+> Cory caught the standard error: the test is **"a significant contributing factor"** —
+> the 2013 psychiatric "major" test was repealed in 2019 (verified ATT26; standing rule
+> now in CLAUDE.md). The appeal side re-ran on the corrected law; employment unchanged.
+
+## THE NUMBERS, CORRECTED
+| Metric | Wrong-standard read | ⭐ Corrected read | Plain band |
+|---|---|---|---|
+| Employment strict | 48% | **48%** | toss-up, edge his |
+| Employment favourable | 66% | **66%** | probable |
+| Pay recovered | 59% | **59%** | better than even |
+| **Appeal win at contested hearing** | 28% | **36%** | approaching toss-up, Report B pending |
+| **Appeal favourable incl. settlement** | 66% | **70%** | probable |
+
+## WHY THE APPEAL MOVED ~8 POINTS
+Under the repealed test, work had to OUTWEIGH all competing causes — the Respondent's
+personal-story material did real damage even when dated. Under the actual test, competing
+causes may coexist: the Respondent must show employment was **not significant at all**,
+which is close to unarguable against 18 months of documented, employer-acknowledged
+workplace stressors. The contested centre of the appeal accordingly SHIFTS from causation
+to **s 32(5) reasonable management action** — whether the stressors can be characterised
+as reasonable management done reasonably. That is now the issue Report B, the 64G roster
+records, and the manner-defect evidence (no consultation, no instrument, substitutions,
+the asymmetry pair) are really aimed at. Settlement propensity also nudged up: the
+Regulator's own prospects assessment worsens on the correct law.
+
+## WHAT NOW DRIVES THE APPEAL NUMBER (in order)
+1. **s 32(5) RMA characterisation** — the new centre. Manner defects are the answer;
+   the 64G records are the fuel.
+2. **Report B** — now scoped to "significant contributor + the events were not reasonable
+   management in a reasonable manner", NOT to outweighing the personal story.
+3. **The 64G outcome** (Friday's posture; the production fight).
+4. **Employment-track resolution** (settlement pickup coupling, unchanged).
+The chronology shield remains second-line: still kills onset arguments and protects
+credit, but the statute now does the heavy lifting the shield used to do.
