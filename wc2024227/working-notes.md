@@ -3975,3 +3975,17 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   board needs now are held on shift; only what can wait escalates to the manager in hours.
   Two complementary tiers: manager (frameworks/admin/business hours) + rotating supervisor
   (the shift). PDF rebuilt (2pp, clean).
+
+## 2026-08-04 — Psychosocial Hazard Mapping (WHS) built
+- drafts/out/Psychosocial_Hazard_Mapping_WHS_Shepherd_Aug2026.pdf (2pp, clean): Part 1 the
+  WHS framework (s 19 psychological health, Regulation psychosocial provisions, ss 47-49,
+  the Code); Part 2 TEN hazard mappings (demands, control, support, role clarity, change
+  mgmt, reward/recognition, organisational justice, isolated after-hours work, distressed/
+  aggressive callers, fatigue) each: presentation → risk → proposed control cross-referenced
+  to the Consultation Proposals; Part 3 consultation + review asks (worker's contribution to
+  identification under ss 47-49; independent assessor; Code data sources; review dates).
+- Deliberately EXCLUDED from the tabled version: job insecurity as a named category (it
+  concerns his individual live matter — raised at the scoping consultation orally per the
+  HAZARD-NOMINATION ready position, not in the standing room document); all names; all
+  litigation references. Companion + same deployment rule as the Proposals: TABLED, never
+  emailed cold.

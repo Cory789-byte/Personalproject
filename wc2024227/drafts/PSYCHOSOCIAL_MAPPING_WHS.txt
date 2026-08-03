@@ -1,0 +1,135 @@
+PSYCHOSOCIAL HAZARD MAPPING — SWITCHBOARD SERVICES
+Prepared under the Work Health and Safety Act 2011 (Qld), the Work Health and Safety
+Regulation 2011 (Qld), and the Managing the risk of psychosocial hazards at work Code of
+Practice 2022
+
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital, Metro South Health
+August 2026 — prepared for the risk assessment under clause 7.2 of the certified agreement,
+and for consultation under sections 47 to 49 of the Act. Companion to "Return to Work and
+Workplace Controls — Proposals for Consultation". Nothing in this document is an allegation
+against any person; every hazard is described as a feature of the work and its systems.
+
+--------------------------------------------------------------------------------
+PART 1 — THE FRAMEWORK THIS MAPPING SITS IN
+--------------------------------------------------------------------------------
+
+1.  Section 19 of the Act places the primary duty on the person conducting the business to
+    ensure, so far as is reasonably practicable, the health of workers — health is defined
+    to include psychological health.
+
+2.  The Regulation requires psychosocial risks to be managed: hazards identified, risks
+    assessed, controls implemented in the order of the hierarchy, and controls reviewed —
+    including when a hazard is identified or on request.
+
+3.  Sections 47 to 49 require consultation with the workers who are, or are likely to be,
+    directly affected — at each step: identification, assessment, control selection, and
+    review.
+
+4.  The Code of Practice 2022 identifies the recognised psychosocial hazard categories and
+    the data sources for assessing them, including complaints records, absence and turnover
+    data, and workload data. This mapping uses the Code's categories and terminology.
+
+--------------------------------------------------------------------------------
+PART 2 — THE MAPPING: HAZARD, PRESENTATION, RISK, PROPOSED CONTROL
+--------------------------------------------------------------------------------
+
+1.  HIGH JOB DEMANDS.
+    How it presents: sustained call volume (in the order of 200 to 300 calls per shift), a
+    substantial proportion from distressed or urgent callers; concurrent operation of
+    multiple systems; emergency code activations through the shift; additional functions
+    absorbed when other support is unavailable.
+    Risk: cognitive overload, sustained hyper-vigilance, exhaustion.
+    Proposed controls: evidence-based rostering matched to demand peaks (Proposal 7);
+    defined escalation and backup pathways so absorbed functions return to their owners
+    (Proposals 1 and 4 of the operating model).
+
+2.  LOW JOB CONTROL.
+    How it presents: operational changes taking effect without consultation with the
+    operators who work the board; no operator input into rostering design.
+    Risk: helplessness in a high-demand role — the demand/control combination the Code
+    identifies as high risk.
+    Proposed controls: consultation before operational change (Proposal 2); operator
+    consultation in roster design (Proposal 7).
+
+3.  POOR SUPPORT.
+    How it presents: supervision and decision-support not reliably available in real time,
+    particularly after hours and on weekends, in a room whose work is continuous.
+    Risk: unsupported decision-making in safety-critical moments; accumulated strain.
+    Proposed controls: the rotational integrated manager in hours (Proposal 3); the 24/7
+    on-shift supervisor function — authority follows the clock (Proposal 6).
+
+4.  LOW ROLE CLARITY.
+    How it presents: functions accreting to the Switchboard without documented boundaries
+    (complaint handling, departmental support, roster administration); uncertainty as to
+    what is, and is not, the operator's responsibility.
+    Risk: role overload and blame absorption for matters outside the role.
+    Proposed controls: documented boundaries and escalation paths (operating model
+    Proposals 1 and 4); the complaint-response standard returning escalated matters to
+    the accountable function.
+
+5.  POOR ORGANISATIONAL CHANGE MANAGEMENT.
+    How it presents: changes to processes and system access made without consultation with
+    affected operators, with downstream effects discovered in operation.
+    Risk: preventable failures experienced at the console; erosion of trust.
+    Proposed control: consultation before operational change (Proposal 2), applied
+    systematically as the Act already requires.
+
+6.  INADEQUATE REWARD AND RECOGNITION.
+    How it presents: no development pathway within the room; competence and additional
+    responsibility carrying no recognition in classification or progression.
+    Risk: effort-reward imbalance, disengagement, loss of experienced staff.
+    Proposed control: the rotating on-shift supervisor function with in-charge recognition
+    and a trained pathway (Proposal 6).
+
+7.  POOR ORGANISATIONAL JUSTICE.
+    How it presents: inconsistency between the timeframes and process standards applied to
+    operators and those observed in matters affecting them; complaints and workplace
+    matters raised without acknowledgment, outcome, or feedback.
+    Risk: the perception and experience of unfairness — a recognised psychosocial hazard in
+    its own right; escalating distress in those affected.
+    Proposed controls: the complaint-response standard (Proposal 4); one rulebook for the
+    room (Proposal 5); written feedback on WHS matters raised (Part 1, item 7 of the
+    companion document).
+
+8.  REMOTE OR ISOLATED WORK (AFTER HOURS).
+    How it presents: after-hours and weekend shifts performed without present supervision
+    or management support, while the room's functions continue unchanged.
+    Risk: unsupported exposure to all other hazards during the periods of least support.
+    Proposed control: the 24/7 on-shift supervisor function (Proposal 6).
+
+9.  EXPOSURE TO DISTRESSED AND AGGRESSIVE CALLERS.
+    How it presents: the Switchboard is the hospital's first point of contact; a
+    substantial proportion of contacts are made in distress, fear, conflict or crisis, and
+    complaints are frequently expressed as accusations to the operator answering.
+    Risk: cumulative exposure to occupational violence and aggression in verbal form.
+    Proposed controls: the complaint-response standard and escalation pathway so the
+    operator's exposure ends at triage (Proposals 1 and 4); acknowledgment of this
+    exposure in the assessment's scope.
+
+10. FATIGUE.
+    How it presents: rostering patterns capable of producing breaks below the mandated
+    minimum; recovery dependent on the operator's own leave.
+    Risk: impaired performance in a safety-critical function; cumulative harm.
+    Proposed control: fatigue rules built into roster design — minimum breaks enforced
+    structurally, not checked after the fact (Proposal 7).
+
+--------------------------------------------------------------------------------
+PART 3 — CONSULTATION AND REVIEW
+--------------------------------------------------------------------------------
+
+1.  This mapping is offered as a worker's contribution to hazard identification under
+    sections 47 to 49 — the first step of the process the Regulation requires. It is not a
+    substitute for the assessment; it is an input to it.
+
+2.  I ask that the assessment: adopt the Code's categories; draw on the Code's data sources
+    (complaints records, absence and turnover data, EAP usage, workload and call-volume
+    data); be conducted by an assessor independent of the functions being assessed; and
+    select controls in consultation, in the order the Regulation requires.
+
+3.  I ask that controls, once implemented, carry review dates, and that the review include
+    the operators affected — consistent with the Regulation's review triggers.
+
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227 · coryshepherd1@hotmail.com
