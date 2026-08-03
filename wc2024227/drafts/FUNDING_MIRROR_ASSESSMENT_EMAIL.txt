@@ -1,0 +1,82 @@
+THE FUNDING MIRROR — assessment funding via their own commitment. Banked 4 Aug 2026. HOLD.
+==========================================================================================
+The move: take MSH's own funding claims, attach the provider quote, show why the assessment
+assists THEIR stated decision, and direct the invoice down the funnel THEY named.
+
+VERIFIED ANCHORS (quoted from source PDFs 4 Aug 2026 — re-verify before send)
+1. Hughes RFMI letter 31 Jul 2026 (documents/2026-07-31_ScottHughes_RFMI_letter_to_EMPLOYEE.pdf):
+   "MSH will meet your reasonable costs of preparing this report and we appreciate your
+   assistance with this request. Please send invoices to Michelle Harrison, Injury
+   Management Consultant, Human Resources, Logan and Beaudesert Health Services via email
+   at lbh_InjuryManagement@health.qld.gov.au."
+   Same letter: decision "regarding your ability to perform your role based on the
+   available information."
+2. Harrison 31 Jul 15:15 (documents/correspondence-2026/2026-07-31_1515_Harrison_
+   reimbursement_practice-confirmation_gate.pdf): "we are more than happy to assist with
+   this process."
+3. Their own RFMI Attachment 2 (role description) carries the values page: "Integrity,
+   Compassion, Accountability, Respect, Engagement and Excellence... provide care to the
+   many patients." (Backdrop only — never quoted at them; it reads as sarcasm.)
+
+THE SPINE
+A decision "based on the available information" requires two halves: the worker's
+condition and the role's conditions. The service procured the first (funded, invoiced).
+The assessment supplies the second. Same decision, same funding principle, same invoice
+address. Refusal requires explaining in writing why the funding principle applies to
+information about the worker but not information about the work.
+
+DEPLOYMENT RULES
+- ⛔ HOLD. Deploys ONLY when: (a) a provider quote is actually in hand ($X never a
+  placeholder in a sent version); AND (b) they engage on the assessment / at scoping /
+  Stage 2 forces the conversation. NEVER a cold send into the silent week.
+- Tone never winks. The mirror works only if sincere; irony converts an offer they must
+  answer into an argument they can dismiss.
+- Money never passes through Cory: engagement and payment sit directly between the Health
+  Service and the provider.
+- Routing: To Harrison/Injury Management (their named invoice funnel), Cc LBH HR.
+
+--- DRAFT -------------------------------------------------------------------
+To: lbh_InjuryManagement@health.qld.gov.au (Michelle Harrison)
+Cc: lbh_hr@health.qld.gov.au
+Subject: Psychosocial risk assessment — funding and engagement, to assist the
+decision-making (MSH-INJ-5795)
+
+Dear Michelle,
+
+Thank you for the assistance to date — the service's letter of 31 July 2026 confirmed
+that MSH "will meet [the] reasonable costs" of preparing information to assist its
+decision-making, with invoices directed to this address, and your email of the same day
+confirmed the service is "more than happy to assist with this process." I appreciate
+both, and I'd like to take the service up on the same principle.
+
+The 31 July letter states that a decision will be made regarding my ability to perform
+my role "based on the available information." Information about my health is one half of
+that; information about the actual working conditions of the role is the other. The
+clause 7.2 psychosocial assessment I have requested supplies that second half — without
+it, any decision rests on half the available information.
+
+To make this practical rather than abstract, I have obtained an indicative proposal from
+an independent provider, Altius Group (organisational psychologists and WHS consultants,
+Brisbane — 1800 258 487), for a Code of Practice 2022 and ISO 45003-aligned assessment
+of the Switchboard: indicative fee range [$X], current availability confirmed. I attach
+it for the service's use. Engagement and payment would sit directly between the Health
+Service and the provider — nothing passes through me — and the invoice pathway the
+service has already identified for information that assists decision-making would appear
+to serve here without any new arrangement.
+
+The assessment will assist in three ways: it completes the "available information" the
+31 July letter says the decision will rest on; it addresses the assessment obligations
+that arise under the WHS Regulation for the hazards already notified; and it applies a
+funding principle the service has already accepted — that the reasonable cost of
+information which assists a decision is met by the service.
+
+I thank the service for the opportunity to contribute input on this, and I remain happy
+to be guided by the process, and available at any time with my support person and union
+representative.
+
+Kind regards,
+Cory Shepherd
+-----------------------------------------------------------------------------
+Companion drafts: PROVIDER_QUOTE_ENQUIRY.txt (step 1 — must complete first),
+GRACIOUS_REGISTER.txt (voice), Psychosocial_Assessment_Package_Integrated (the tabled
+package this email footnotes).
