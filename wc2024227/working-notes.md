@@ -3999,3 +3999,11 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
 - Mapping rebuilt as a LANDSCAPE TABLE (10 hazards × presentation × risk × control w/
   P-references, repeat header, 2pp, metadata clean) with Parts 1/3 as frame. The handover
   (P8) now appears as control in rows 3, 4, 8; real-time team consultation in row 2.
+
+## 2026-08-04 — Annex B: external validating frameworks researched + banked
+- APCO Project RETAINS (staffing/retention toolkit, 3 national surveys) + NENA STA-014.2-2025
+  + Erlang C → P7. PSAP supervisor-console room design + supervisor-support systems → P6.
+  ISBAR + NSQHS Std 6 (Communicating for Safety) → P8 (the hospital's OWN handover standard,
+  extended to its comms hub). ISO 45003/45001 → the mapping approach. RETAINS retention tools
+  → the recognition pathway. Killer framing banked: "the Switchboard is the one emergency
+  communications room in the building that has none of it."

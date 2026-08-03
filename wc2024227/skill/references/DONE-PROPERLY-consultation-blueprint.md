@@ -107,3 +107,23 @@ minimum enforced structurally — the Stressor 3 fix); proper notice; equity vis
 roster's face (converts the "roster was equitable" contest into a measurable). Controls:
 FATIGUE + HIGH DEMANDS + ORGANISATIONAL JUSTICE. The data exists; the ask is only that the
 roster be built from it.
+
+---
+# ANNEX B — EXTERNAL FRAMEWORKS VALIDATING THE MODEL (researched 4 Aug 2026)
+> The authority backing for each proposal if challenged at consultation. "This is the
+> standard model" now carries citations. Strategy layer — cite orally/if pressed.
+
+| Proposal | Validating framework |
+|---|---|
+| Evidence-based rostering (P7) | **APCO Project RETAINS** — the emergency-communications industry's staffing/retention toolkit (staffing tool built from three national workforce surveys); **NENA staffing + daily-performance standards** (NENA-STA-014.2-2025); **Erlang C** workforce modelling — the universal call-centre staffing method |
+| 24/7 on-shift supervisor (P6) | Standard PSAP/ECC room design literally builds a **supervisor console** into the floor plan; supervisor-support systems (e.g. ConsoleALERT-class) exist because 24/7 on-floor supervision is the industry baseline; APCO/NENA QA standard assumes supervisory review structures |
+| Structured handover + decision log (P8) | **ISBAR** — the clinical handover protocol already mandated across Australian health incl. QH clinical settings; **NSQHS Standard 6 (Communicating for Safety)** — the hospital's own accreditation standard for structured clinical communication. Framing: the hospital already requires structured handover at every clinical interface — the proposal extends the hospital's own standard to its communications hub |
+| The whole mapping / assessment approach | **ISO 45003** (psychological health & safety at work — guidelines for managing psychosocial risk, sitting on **ISO 45001**); SafeWork Australia model framework, of which the QLD 2022 Code is the local instance |
+| Recognition/retention pathway (P6) | APCO RETAINS retention + employee-satisfaction tools — the industry's own finding that recognition and progression are the retention levers in comms centres |
+
+⭐ The killer framing available at any table: "None of this is novel. The emergency
+communications industry standardised on-floor supervision and data-based staffing decades
+ago; the hospital itself mandates structured handover in every clinical area under its own
+accreditation standards; and ISO has published the international guideline for exactly this
+kind of psychosocial risk management. The Switchboard is the one emergency communications
+room in the building that has none of it."
