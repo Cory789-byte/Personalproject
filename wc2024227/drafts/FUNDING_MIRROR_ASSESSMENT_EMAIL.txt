@@ -70,6 +70,16 @@ that arise under the WHS Regulation for the hazards already notified; and it app
 funding principle the service has already accepted — that the reasonable cost of
 information which assists a decision is met by the service.
 
+This sequencing would also assist directly with the service's nine questions of 31 July.
+Several of those questions — capacity for the role, restrictions, and adjustments — can
+only be answered as well as the information about the role permits, and at present the
+role is described to my practitioners only by the attached role description. If the
+service commissions the assessment now, my treating psychiatrist and general practitioner
+can then answer the service's questions against the role as assessed rather than as
+described. The appointment arrangements already proposed remain unchanged; the assessment
+simply improves what the appointment can produce, in the direction the service's letter
+itself identifies — a decision based on the available information.
+
 I thank the service for the opportunity to contribute input on this, and I remain happy
 to be guided by the process, and available at any time with my support person and union
 representative.
@@ -77,6 +87,25 @@ representative.
 Kind regards,
 Cory Shepherd
 -----------------------------------------------------------------------------
+SEQUENCING GUARDRAILS (the 4 Aug addition — Cory's insight)
+- The logic: a fitness-for-work opinion is only as good as its job-demands information
+  (standard occupational medicine). The assessment IS the job-demands analysis for the
+  role's psychological demands. Assessment first → doctors answer the nine questions
+  against the role as assessed. Their own instrument (the RFMI) thereby becomes the
+  reason the assessment must happen.
+- ⛔ NEVER framed as a precondition or refusal. The rebooking machinery from the 3 Aug
+  Response is UNCHANGED (rebook within 3 business days of question-set confirmation, or
+  at day 7 regardless). The assessment is an input that improves the answers, not a gate
+  that delays them. If the appointment lands before the assessment completes, the doctors
+  answer on what exists and may note that opinions on adjustments can be refined against
+  the assessment findings — staged answers, never withheld answers.
+- Report A / Report B separation intact: the assessment findings feed REPORT A (capacity,
+  restrictions, adjustments — the nine-questions vehicle). Report B (appeal causation)
+  stays separate and is never mentioned to MSH.
+- The pincer inversion, for the strategy record: the RFMI was built to produce an
+  incapacity answer against the paper role. Sequenced this way, it produces a
+  conditions-dependent answer against the real role — and the service cannot object to
+  better information without disowning its own "available information" standard.
 Companion drafts: PROVIDER_QUOTE_ENQUIRY.txt (step 1 — must complete first),
 GRACIOUS_REGISTER.txt (voice), Psychosocial_Assessment_Package_Integrated (the tabled
 package this email footnotes).
