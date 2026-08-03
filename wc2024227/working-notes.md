@@ -3989,3 +3989,13 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   HAZARD-NOMINATION ready position, not in the standing room document); all names; all
   litigation references. Companion + same deployment rule as the Proposals: TABLED, never
   emailed cold.
+
+## 2026-08-04 — Consult-then-handover loop added; mapping TABULARISED
+- Proposal 6 now carries the real-time loop: "consultation at the speed of the room" —
+  supervisor decisions made with the operators present consulted there and then; NEW
+  Proposal 8: STRUCTURED HANDOVER AND DECISION LOG (context transfers at shift change —
+  a recognised failure point; decisions auditable; the manager gets a complete account
+  without interrupting the room). Proposals PDF now 3pp.
+- Mapping rebuilt as a LANDSCAPE TABLE (10 hazards × presentation × risk × control w/
+  P-references, repeat header, 2pp, metadata clean) with Parts 1/3 as frame. The handover
+  (P8) now appears as control in rows 3, 4, 8; real-time team consultation in row 2.

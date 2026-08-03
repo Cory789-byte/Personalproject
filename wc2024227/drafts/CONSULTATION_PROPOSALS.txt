@@ -99,9 +99,18 @@ A.  PATIENT SAFETY AS THE DESIGN PRINCIPLE. The Switchboard activates the hospit
     operators trained and assessed for it, and carries a classification increment or
     in-charge allowance for the shifts on which it is held — a development pathway and
     recognition for competence within the room, with shared capability across several
-    trained operators rather than dependence on any one person. This is the standard model
-    in emergency communications centres. The cost is a modest per-shift allowance,
-    ordinarily offset by reduced turnover and absence.
+    trained operators rather than dependence on any one person. When the supervisor makes a
+    real-time decision, the operators present are consulted there and then — consultation at
+    the speed of the room — and the decision is carried forward through the handover below.
+    This is the standard model in emergency communications centres. The cost is a modest
+    per-shift allowance, ordinarily offset by reduced turnover and absence.
+
+8.  STRUCTURED HANDOVER AND DECISION LOG. Each shift hands over to the next through a
+    structured record: operational status, live issues, and the decisions made on shift with
+    their reasons. Context transfers instead of evaporating at shift change — a recognised
+    failure point in continuous operations — and decisions become consistent and auditable
+    across the roster. The log also gives the manager, in hours, a complete account of the
+    room's operation without interrupting it.
 
 7.  EVIDENCE-BASED ROSTERING. Rosters designed from the demand data the Switchboard already
     generates — call volumes by hour and day, and emergency-code activity — so that coverage
