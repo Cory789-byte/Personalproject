@@ -3479,3 +3479,15 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   ledger listed as completing "on any answer" partially completed on the acknowledgment itself.
 - NO REPLY NEEDED to the acknowledgment. The five questions in the letter remain outstanding —
   their answers (or silence) are the next record.
+
+## 2026-08-03 — Cory's read: can Cridland even reply, given her own 5 June signature?
+- Refined analysis: her signing the K-LM26/729 objection is an OFFICIAL act — an institutional
+  role-tension, not a s 89 "personal interest" conflict, so she is not legally disabled from
+  performing the s 89 function. She can answer, or delegate (HHB Act delegation powers).
+- BUT the structural point stands and is banked: she cannot engage with the letter's substance
+  (esp. anything touching Q1(b)/litigation advantage) without her own signature being in the
+  frame. Branch map: answer → documents; delegate outward → concedes the layered conflict and
+  takes the matter outside the CE line (extraordinary, favourable); silence → five s 89
+  questions outstanding at CE level on DOCUMENTED personal receipt (12:45 ack).
+- Every branch favourable. Nothing for Cory to do. If the response ever comes from the Board or
+  the Department instead of MSH, that is the strongest possible tell — note it immediately.
