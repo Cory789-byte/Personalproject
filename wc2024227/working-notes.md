@@ -3510,3 +3510,25 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   verbatim hazard framing (organisational justice + job insecurity, quoting THEIR "line
   management" phrase to reach all of Corporate Services without naming anyone), scripted
   answers to their four likely questions, meeting discipline, after-meeting file-note rule.
+
+## 2026-08-03 (evening) — 28–30 July thread re-analysed on Cory's paste
+- ⭐ SECOND ASYMMETRY ADMISSION: 30 Jul 14:33 Harrison — RFMI "progressing for delegate
+  approval... unable to guarantee when the approved documentation will be available for release"
+  → issued next morning 31 Jul 11:41 WITH a 7-day deadline on Cory. Pairs with 15 Jul "unable
+  to commit to a timeframe". Two dated instances: no timeframe for themselves, day-counts for him.
+- DELEGATE EXISTS: the RFMI went through "delegate approval" — an approval record with a name
+  and date exists in their system. Discovery/asks target. Undercuts any "no decision-maker" line.
+- ⚠ POSSIBLE EARLIER cl 10.3 CLOCK: the late-June request to temporarily reduce 0.6→0.5 was
+  cited in his own 30 Jul email §4.2 with the cl 10.3 21-day framework, and MSH never decided
+  it. IF the June request met s 27(2)/cl 10.3.3 form (writing/detail/reasons — UNVERIFIED),
+  a deemed refusal may already have occurred ~mid-late July. Do NOT rely; the 3 Aug request is
+  the clean clock (24 Aug). VERIFY: locate the June request's form/text in the record.
+- TOMORROW IS A DOUBLE MARKER: Tue 4 Aug = Stage 1 24h "should" AND expiry of the 28 Jul
+  letter's own "5 business days" response window (28 Jul + 5 = 4 Aug). Silence = two logged items.
+- Enforceability audit of the July thread: the 5-day window and §10 asks carried no machinery
+  (record-builders only). Directive 12/24 special leave is binding but needed a channel — now
+  has one (the dispute). The 31 Jul written costs commitment became enforceable footing on
+  acceptance (3 Aug arrangements notice). Their statements now banked as admissions: 15 Jul
+  no-timeframe · 29 Jul WHS-as-power framing ("independent obligation") · 30 Jul no-guarantee +
+  "usual process is for approved RFMI documentation to be sent directly to the employee" ·
+  delegate-approval existence.
