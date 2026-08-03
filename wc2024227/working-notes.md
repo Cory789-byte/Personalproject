@@ -3775,3 +3775,21 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   order still pressed Friday; genuine give-up → map shows overlap, records land, Regulator
   re-prices → settlement branch. Either way the disclosure materially feeds the appeal because
   the 64G/9A machine routes whatever arrives onto pleaded particulars.
+
+## 2026-08-04 — The quarantine spot and its three exits (Item 20), s 65 verified
+- The spot they'll still fight in a give-up: ITEM 20 — institutional-response / PID-handling
+  records (implicates, not embarrasses; "does not exist" already burnt).
+- Exit 1 RELEVANCE ("that's the reprisal complaint, not this appeal") → answer: pleaded 9A
+  Stressor 1(a) Dereliction of Clinical Governance + 1(c) Refusal to Investigate — the handling
+  of his complaints IS an operative stressor; records go to real-events + s 32(5) manner.
+- Exit 2 PID CONFIDENTIALITY → ⭐ VERIFIED against ATT23 (current 30 Aug 2024): s 65(3)(c)
+  expressly permits disclosure "for a proceeding in a court or tribunal"; s 65(3)(d) permits it
+  with the written consent of the person the information relates to (largely HIM — offer
+  consent on his own information); s 65(5) identity protection exists for the DISCLOSER's
+  benefit — his to waive. The confidentiality door has a statutory exception built in.
+- Exit 3 LPP → legitimate only for genuine advice; the routing/factual handling records are
+  not advice; privilege must be claimed ITEM BY ITEM on affidavit — which itself confirms the
+  documents exist (kills "does not exist" permanently either way).
+- If wholly quarantined anyway: the same records remain reachable via the employment track
+  (s 89 answers, Stage 2), the PID channel, and RTI — quarantine delays, never defeats.
+- THE TELL: whichever single item they fight hardest for is the map of where the harm is.
