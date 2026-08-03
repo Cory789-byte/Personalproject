@@ -3686,3 +3686,23 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Appeal win at hearing 28→36; appeal favourable 66→70; employment/pay unchanged (48/66/59).
 - Contested centre shifts to s 32(5) RMA; Report B re-scoped accordingly (significance +
   manner, not outweighing). Addendum appended to FULL-PICTURE-READ-3AUG.md.
+
+## 2026-08-03 (night) — [A] The patient-safety report: the breaking point, and their anticipated excuse
+- Cory: the most stressful thing = the hospital never moved on his PATIENT-SAFETY report. "That
+  was the end after the PID — my last full — I had enough." The PID/PT-safety non-response is
+  the subjective breaking point, proximate to the Aug-Oct 2024 sequence (PID 30 Aug → no action
+  → abandonment 8 Oct → diagnosis 24 Oct). BELONGS IN: Report B clinical history (the breaking-
+  point sequence, his own words) + the PID track (substance-never-investigated question). NOT a
+  new front now.
+- ⭐ THE ANTICIPATED EXCUSE, PRE-ANSWERED: if MSH ever says "no investigation because he became
+  too unwell to give further information" — that is an admission stack, not a defence:
+  (1) investigation duties on a patient-safety matter are INSTITUTIONAL (clinical governance /
+  PID handling obligations / WHS) and do not depend on the reporter's continued availability —
+  the information already given must be assessed on its face; systems exist independently of
+  the discloser; (2) the excuse concedes KNOWLEDGE of his unwellness; (3) it relies on the very
+  harm the workplace caused as the reason for not investigating what he reported — circular,
+  self-serving, and it leaves the reported hazard unassessed (joins the 7 Jul unassessed-hazard
+  pattern). Counter lives here until the PID track sequences.
+- The later question for the PID channel (sequenced BEHIND WC settlement, never now): "Separate
+  from the reprisal determination of 24 Dec 2024 — was the SUBSTANCE of the disclosure ever
+  investigated, by whom, and with what outcome?" One sentence, devastating, correct channel only.
