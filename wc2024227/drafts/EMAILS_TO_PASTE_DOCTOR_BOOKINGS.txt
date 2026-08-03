@@ -48,6 +48,24 @@ SEND WHEN: now. Booking emails to his own practitioners touch no MSH clock and n
 discipline rule. Book for dates ON OR AFTER MON 10 AUG (the announced day-7 backstop);
 an existing booking also satisfies the 3-business-day rule if MSH confirms earlier.
 
+⛔ THE THREE-CHANNEL RULE (added 4 Aug — Cory asked whether to voice the contest to the
+doctor): The PAPER carries the questions. The ROOM carries the truth. The MSH TRACK
+carries the fight. Never mixed.
+- No contest, commentary or "inappropriate" language EVER in writing to a practice —
+  it enters the clinical file, the clinical file is what Form 29s produce, and one
+  cross-examination question ("your patient told you the request was inappropriate
+  before you wrote this, didn't he?") converts the doctor's independent opinion into a
+  briefed one. Report A and Report B both bleed.
+- The contest is ALREADY filed where it wins: the 3 Aug response, the allocation, the
+  dispute, the CE letter. Form A/B ARE the contest in procedural form — that is how the
+  objection reaches the doctor: through structure, not adjectives.
+- In the room, as his patient, he says everything: what the letter did to him, the
+  distress, the shutdown, the month unpaid. That is symptomatology, not strategy.
+- The one flag sentence, ORAL ONLY: "I've raised concerns about how this request was
+  made — I'm handling those separately with the employer. What I want from you is your
+  own opinion, entirely yours, on the questions in front of you." (Insists on
+  independence — the opposite of coaching, unattackable if it ever surfaces.)
+
 RULES
 - Direct billing, never reimbursement: practices invoice MSH directly from the practice
   email (their 31 Jul letter names the address). No money passes through Cory; Harrison's
