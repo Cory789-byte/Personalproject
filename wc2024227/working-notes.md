@@ -3861,3 +3861,18 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   invoice-574370 payment confirmation to lbh_InjuryManagement — PAYMENT DOCUMENTS ONLY, no
   clinical information, no records authority. The gate gets complied with narrowly and logged
   as friction instance #3 (his $150 needs practice-direct email; their commitments float).
+
+## 2026-08-04 — Is the playbook systemic? [A] read + the Petering question
+- Fingerprints of PRACTICE (not improvisation) in the record: the RFMI/ECC/EAF template
+  machinery (templates exist for repeated use); the abandonment mechanism (deployed 8 Oct 2024,
+  A/ED-signed); the SAME leave substitution by two managers 14 months apart (trained move, not
+  personality); "Health Management processes" as a named internal pathway; the Solv/IPEC case
+  platform (industrialised); EB12 cl 7.1.5's bargained commitments re "management of ill or
+  injured employees" (bargaining fossils = the union has seen this terrain before).
+- NOT established: comparative files (no evidence others went through the pipeline). Never
+  alleged to MSH. The lawful windows into it: the cl 7.2 assessment + Code data sources
+  (complaints, absence, turnover, EAP usage) + dispute §4 asks.
+- ⭐ THE ONE QUESTION FOR PETERING (with the sent-items forward): "Have you seen this
+  ECC→RFMI→'decision about your role' pipeline used on other members at LBH/MSH?" The union is
+  the repository of comparative knowledge; if yes, pattern evidence exists through HER channel,
+  and Stage 3 (EB12IG) becomes the systemic forum it was built to be.
