@@ -3445,3 +3445,13 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   C: ECC 3 Jul p1 (certification + "continuation of existing arrangement", verified by page
   render — no text layer) · D: 2 Jul 2026 email (2pp origin document). All metadata scrubbed.
 - Complete attachment set delivered to Cory: 6 documents + 4 enclosures (10 files).
+
+## 2026-08-03 (send morning, 6) — CE named; her address found
+- Letter and email now addressed to Ms Noelle Cridland by name (she signed the 5 Jun objection
+  as CE — the name was already established in the record).
+- Address: MetroSouthCorro@health.qld.gov.au — the PUBLISHED Office of the Chief Executive
+  correspondence address (MSH executive-team page via search). Direct address
+  noelle.cridland@health.qld.gov.au is the QH convention but UNVERIFIED — optional second
+  recipient; if it bounces the Corro address still lands (Oct 2025 bounce lesson applied).
+- Email body asks her office to bring it to her personal attention, citing s 89's direction to
+  the chief executive. Letter PDF + EMAIL_4 record rebuilt, verified, metadata clean.

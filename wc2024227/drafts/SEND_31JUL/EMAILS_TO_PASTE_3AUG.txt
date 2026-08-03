@@ -103,18 +103,24 @@ the same document.
 ================================================================================
 EMAIL 4 — THE CONFLICT   ***TO THE CHIEF EXECUTIVE. NOT HUGHES. NOT TAYLOR. NOT MSH LEGAL.***
 ================================================================================
-TO:      The Chief Executive, Metro South Health   (no Cc — directed to her alone)
-SUBJECT: Conflict of interest and information handling — C Shepherd, MSH-INJ-5795
+TO:      MetroSouthCorro@health.qld.gov.au   (Office of the Chief Executive — the published
+         correspondence address; no Cc — directed to her alone)
+         Optionally also: noelle.cridland@health.qld.gov.au — the standard QH address format,
+         NOT verified. If used and it bounces, the Corro address still lands; do not resend.
+SUBJECT: Attention Ms Noelle Cridland, Chief Executive — Conflict of interest and information
+         handling — C Shepherd, MSH-INJ-5795
 ATTACH:  LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf   (4pp)
          + the four thin enclosures listed at part 8 of that letter:
            RFMI signature page · question 3 extract · ECC page · the 2 July 2026 email
          (NOT the forensic packs, NOT the analysis files)
 
 --------------------------------------------------------------------------------
-Dear Chief Executive,
+Dear Ms Cridland,
 
 I attach a letter concerning the decisions being made about my attendance and my return to duty,
-and the handling of my personal information.
+and the handling of my personal information. I would be grateful if your office would bring it
+to your personal attention: it is a disclosure under section 89 of the Public Sector Act 2022,
+which the Act directs to the chief executive.
 
 I have addressed it to you because section 89 of the Public Sector Act 2022 makes the chief
 executive the person to whom a conflict is disclosed, and the only person who may authorise an

@@ -28,7 +28,7 @@ EMAILS = [
     ("EMAIL_3_Dispute_Taylor_HR_3Aug2026.pdf", "Email 3 — Notice of dispute — to C Taylor and Human Resources",
      "TO: chloe.taylor3@health.qld.gov.au; LBH.HRTeam1@health.qld.gov.au\nCC: Emily Petering; Heath Moran\nSUBJECT: Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026\n\n" + block(None, "EMAIL 3", "EMAIL 4")),
     ("EMAIL_4_CE_3Aug2026.pdf", "Email 4 — The Chief Executive, Metro South Health",
-     "TO: The Chief Executive, Metro South Health (no Cc)\nSUBJECT: Conflict of interest and information handling — C Shepherd, MSH-INJ-5795\n\n" + block(None, "EMAIL 4", "BEFORE YOU SEND")),
+     "TO: MetroSouthCorro@health.qld.gov.au (Office of the Chief Executive) — no Cc\nSUBJECT: Attention Ms Noelle Cridland, Chief Executive — Conflict of interest and information handling — C Shepherd, MSH-INJ-5795\n\n" + block(None, "EMAIL 4", "BEFORE YOU SEND")),
 ]
 
 def render(fname, title, body):
