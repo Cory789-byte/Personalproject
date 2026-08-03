@@ -3793,3 +3793,14 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - If wholly quarantined anyway: the same records remain reachable via the employment track
   (s 89 answers, Stage 2), the PID channel, and RTI — quarantine delays, never defeats.
 - THE TELL: whichever single item they fight hardest for is the map of where the harm is.
+
+## 2026-08-04 — The thesis statement, in Cory's words
+- "They never investigated. My entire Form 29 IS the investigation. And they dismissed me after
+  I fell apart from it." Banked as the case's organising truth: the 64G is the shadow
+  investigation — each item a question the ESU/governance should have asked in 2024; produce-
+  or-swear the powers an investigator would have had; the 9A its terms of reference; the QIRC
+  the room it finally gets held in. Consequence of their non-investigation: NO contrary
+  institutional findings exist anywhere — the only completed inquiry into these events is his.
+- Sequence for Report B history + closing: report → no investigation → he broke (diagnosis
+  24 Oct 2024) → the institution treated the breakdown as the problem (8 Oct abandonment;
+  2026 exclusion) — punished for the symptom of their failure. Governance register, always.
