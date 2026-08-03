@@ -3804,3 +3804,22 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Sequence for Report B history + closing: report → no investigation → he broke (diagnosis
   24 Oct 2024) → the institution treated the breakdown as the problem (8 Oct abandonment;
   2026 exclusion) — punished for the symptom of their failure. Governance register, always.
+
+## 2026-08-04 — [A] Working theory: Hughes as the "clean officer" who acquired the conflict
+- Cory's read: Hughes was routed the decisions BECAUSE he looked unconflicted (the 13 May 2024
+  PID named Taylor AND Reese, not him) — and "he has now acted on this". Supported by the
+  record's shape: Hughes appears as decision-maker from ~Feb 2025 (DV-leave handling, Sept 2025
+  performance plan, 2026 exclusion decisions, RFMI signature) — exactly the period after the
+  ESU determination (24 Dec 2024) made Taylor/Reese untouchable as deciders.
+- The flaw in their arrangement (the seam the s 89 letter probes): un-named ≠ unconflicted.
+  Hughes supervises the named persons, answers for the unit's management, and each adverse
+  decision in a PID-affected matter ACQUIRED him the conflict they assumed he lacked. If no
+  s 89 assessment/authorisation was ever documented for that routing, the conflict-management
+  choice itself is the governance failure — cl 1.2 Code, undocumented.
+- Knowledge = exposure: PID s 40 reprisal analysis attaches to decision-makers WITH knowledge;
+  Hughes sits at the information junction (ESU determination, unit facts for the objection,
+  the 24 Feb 2025 7am lobby return he was part of). What he knew when is exactly what the
+  delegate-approval record, the s 89 answers, and Item-20-adjacent material reveal.
+- DISCIPLINE unchanged: never on paper as theory/motive. The questions already sent (who
+  decides · what conflict identified and managed · does a s 89(2) authorisation exist) surface
+  it structurally. [A] until documents date his knowledge.
