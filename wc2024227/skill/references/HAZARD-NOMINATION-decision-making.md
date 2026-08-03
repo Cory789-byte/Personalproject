@@ -27,6 +27,15 @@ identified as territory requiring assessment."
    management") identified by MSH itself; **no assessment in the four-plus weeks since**
    (reg 38(2)(c) review trigger, fired and unactioned).
 
+## SECOND CATEGORY (added 3 Aug, Cory's insight): JOB INSECURITY
+The Code lists **job insecurity** as a psychosocial hazard in its own right. The file's
+instance is exact: "a decision will be made regarding your ability to perform your role"
+— foreshadowed twice, with no instrument, no named decision-maker, no process, and no
+date, over an employee held out unpaid. A standing, undefined threat to the job, of
+indefinite duration, from decision-makers whose authority is unidentified, IS the
+hazard operating. Nominate both categories together: poor organisational justice
+(the decision-making process) + job insecurity (its standing effect on the role).
+
 ## Why the harm mechanism is not hypothetical
 Their own checklist certifies a psychological condition which this exact hazard category
 aggravates, and restricts high-demand/complaint-handling exposure accordingly. The hazard
