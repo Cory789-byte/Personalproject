@@ -21,7 +21,6 @@ def block(paste, start, end):
     return m.group(1)
 
 EMAILS = [
-    ("EMAIL_0_Petering_3Aug2026.pdf", "Email 0 — Emily Petering, Together Queensland", read("PETERING_URGENT_EMAIL.txt")),
     ("EMAIL_1_Response_HR_3Aug2026.pdf", "Email 1 — Response (RFMI) — to Human Resources", read("RFMI_RESPONSE_EMAIL.txt")),
     ("EMAIL_2_Request_HR_3Aug2026.pdf", "Email 2 — Request under clause 10.3.2 — to Human Resources",
      "TO: LBH.HRTeam1@health.qld.gov.au\nCC: Emily Petering; Heath Moran\nSUBJECT: Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795\n\n" + block(None, "EMAIL 2", "EMAIL 3")),
@@ -68,7 +67,7 @@ DOCS = ["RFMI_Response_and_Allocation_MSH-INJ-5795.pdf",
         "REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf",
         "NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf",
         "LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf"]
-stitched = os.path.join(OUT, "ATTACHMENTS_STITCHED_all_six_documents_3Aug2026.pdf")
+stitched = os.path.join(OUT, "Shepherd_Documents_MSH-INJ-5795_3Aug2026.pdf")
 subprocess.run(["qpdf", "--empty", "--pages"] + [os.path.join(OUT, d) for d in DOCS] + ["--", stitched], check=True)
 
 import pikepdf
