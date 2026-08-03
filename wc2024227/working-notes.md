@@ -3897,3 +3897,23 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   full ladder (protected acts, CE knowledge, timing) and arrives with force. Existing CCC
   refs (CO-25-2722/CO-26-1318) already preserve the relationship.
 - Ask Petering first whether any category is obtainable industrially faster.
+
+## 2026-08-04 — Red-team yield: five unmined holes banked
+1. ⭐ 28 AUG ECC REVIEW-DATE COLLISION: their own checklist schedules review 28 Aug 2026 — four
+   days AFTER the 24 Aug deemed-refusal date. Any exclusion "pending review" collides with
+   their own instrument's architecture; the deemed refusal lands before their own review date.
+2. THE 24 FEB 2025 WELFARE VOID: E. Bain chain confirmed the 7am return; it didn't proceed; MSH
+   records show NO welfare inquiry, no follow-up, no "are you ok" — from the org now demanding
+   medical information. Usable in the organisational-justice/manner register WITHOUT the QPS
+   story (the fact is the void in THEIR records). Handle with rule-10-adjacent care.
+3. STIBBARD ACCESS CHANGE (affidavit ¶22): dated operational change (18 Jul 2023 email,
+   "removing everyone's access") that CAUSED directory failures — a third-party-attributable
+   systemic cause; kills operator-blame lines; underexploited beyond pleading.
+4. WEEKEND-MANAGEMENT VACUUM (¶18): he WAS the management function on weekends — capability
+   evidence + governance-vacuum corroboration; underexploited.
+5. SOLV/IPEC VENDOR FLOWS: medical/RFMI correspondence Cc'd to notes@solv.com.au — personal
+   information routing through an external vendor; low-priority privacy thread; hold.
+- Also confirmed mined-and-pleaded: the Reviewing Officer's findings fulcrum (¶41 admitted:
+  unreasonable MA + significant contribution → under the CURRENT test the Mahaffey
+  single-unreasonable-stressor route is close to complete on admissions; the Form 9C reasons
+  seam is Willson's needle) — already the 9A's pleaded spine.
