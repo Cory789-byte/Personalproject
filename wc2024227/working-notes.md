@@ -4019,3 +4019,13 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   absorbs it; he just ran out first; (2) the §4(f) roster/payroll record + unit absence data
   he's already seeking would PROVE the correlation; (3) it's a testable claim in THEIR
   records — the assessment either runs the correlation or visibly declines to look.
+
+## 2026-08-04 — Gold-standard assessment design banked
+- skill/references/ASSESSMENT-DESIGN-gold-standard.md: 8-phase methodology (governance/
+  independence, work-as-recorded data incl. the leave×demand test, People at Work survey —
+  WorkSafe QLD's own validated instrument, work-as-done observation incl. nights/weekends,
+  interviews + exit interviews, convergence/rating, controls co-design, review dashboard)
+  + EIGHT further improvements beyond P1-P8 (critical-incident debrief, recovery micro-breaks
+  + surge protocol, acoustic/ergonomic physical assessment, protective QA call-recording
+  framework, occupancy cap, upstream departmental data SLAs, training matrix, psychological
+  safety measure). Scoping-meeting posture included.
