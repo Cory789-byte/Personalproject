@@ -3968,3 +3968,10 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
 - A6 completes the Code coverage: reward & recognition was the untreated category — the
   rotating supervisor function with allowance + development pathway treats it. A7 converts
   the roster-equity contest into a measurable and builds the Stressor 3 fix into design.
+
+## 2026-08-04 — A6 refined per Cory: authority follows the clock
+- Supervisor = the after-hours/shift-time decision function, NOT a second manager. Design
+  principle written in: "in a real-time environment, escalation is delay" — decisions the
+  board needs now are held on shift; only what can wait escalates to the manager in hours.
+  Two complementary tiers: manager (frameworks/admin/business hours) + rotating supervisor
+  (the shift). PDF rebuilt (2pp, clean).

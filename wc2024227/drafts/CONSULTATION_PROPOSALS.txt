@@ -86,17 +86,21 @@ A.  PATIENT SAFETY AS THE DESIGN PRINCIPLE. The Switchboard activates the hospit
     processes — applied consistently. Consistency of process is itself a psychosocial
     control.
 
-6.  A 24/7 ON-SHIFT SUPERVISOR FUNCTION, ROTATING WITHIN THE TEAM. On every shift, one
-    rostered operator holds the shift-supervisor function: the escalation point, the shift
-    decision-maker for operational matters, and the leadership presence — while continuing to
-    work the board with the team. The function rotates among operators trained and assessed
-    for it, and carries a classification increment or in-charge allowance for the shifts on
-    which it is held. This provides: a supervision and support presence around the clock
-    (including the weekends and after-hours periods where the management structure is
-    currently absent); a development pathway and recognition for competence within the room,
-    so that capability is rewarded where it is exercised; and shared capability across
-    several trained operators rather than dependence on any single person. It is the standard
-    model in emergency communications centres. The cost is a modest per-shift allowance,
+6.  A 24/7 ON-SHIFT SUPERVISOR FUNCTION, ROTATING WITHIN THE TEAM. The design principle is
+    that in a real-time environment, escalation is delay: a decision the board needs now
+    cannot wait on a chain to an off-site or after-hours contact. Authority therefore
+    follows the clock. On every shift, one rostered operator holds the shift-supervisor
+    function — the real-time decision-maker for operational matters arising on the board —
+    while continuing to work the board with the team. The supervisor is not a second
+    manager: the manager holds the frameworks, administration and business-hours functions;
+    the supervisor holds the shift, so that after hours, on weekends, and at 3am the room
+    is never waiting on an escalation that cannot answer in time. Only matters that can
+    properly wait are escalated to the manager in hours. The function rotates among
+    operators trained and assessed for it, and carries a classification increment or
+    in-charge allowance for the shifts on which it is held — a development pathway and
+    recognition for competence within the room, with shared capability across several
+    trained operators rather than dependence on any one person. This is the standard model
+    in emergency communications centres. The cost is a modest per-shift allowance,
     ordinarily offset by reduced turnover and absence.
 
 7.  EVIDENCE-BASED ROSTERING. Rosters designed from the demand data the Switchboard already
