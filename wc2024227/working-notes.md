@@ -3706,3 +3706,17 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - The later question for the PID channel (sequenced BEHIND WC settlement, never now): "Separate
   from the reprisal determination of 24 Dec 2024 — was the SUBSTANCE of the disclosure ever
   investigated, by whom, and with what outcome?" One sentence, devastating, correct channel only.
+
+## 2026-08-04 — ⭐ CONFIRMED: the non-investigation IS pleaded (upgrades last night's caveat)
+- Amended 9A (8 Apr 2026), Stressor 1: (a) Dereliction of Clinical Governance; (c) Refusal to
+  Investigate WHS & Fatigue Complaints; (e) PID; (f) Immediate Reprisal. The PID↔patient-safety
+  link via non-investigation is ALREADY PLEADED. The anticipated "he was too unwell" excuse, if
+  ever written, lands on pleaded particulars 1(a)+(c) directly — no amendment needed.
+- Discipline UNCHANGED (case-theory-synthesis): 1(e)/(f)/(g) stay NON-load-bearing — the spine
+  remains Stressor 3 (fatigue/Neville/Mahaffey) + 1(a); the non-investigation material runs in
+  the GOVERNANCE register (1(a)/(c)), never the reprisal register, to avoid the
+  personal-campaign framing Willson wants.
+- Also consistent: the 13 particulars contain NO 14 Jan 2024 item — corroborates Cory's account
+  that the amended pleading does not touch that morning.
+- Report B history instruction updated: the breaking-point sequence (report → silence → "I had
+  enough" → diagnosis, Aug–Oct 2024) anchors to PLEADED stressors 1(a)/(c)/(e).
