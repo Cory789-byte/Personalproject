@@ -3559,3 +3559,23 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   likely export timestamp). Same letter content on inspection; the original SENT proof filed
   31 Jul is retained as the service copy. If a byte-exact export ever matters, re-file Cory's
   Outlook_Document165 export alongside it.
+
+## 2026-08-03 — The QSuper/IP premise: closed loop confirmed [A]
+- Cory confirms the elements: (1) notifications to fund/employer May 2025, Feb 2026, 3 Jul 2026;
+  (2) benefits stopped from 1 Jun 2026 at his direction (working); (3) ⭐ an OVERPAYMENT was
+  identified and he ACCEPTED it (repayment/acknowledgment) — the fund's own accounting that
+  benefits were NOT payable because he was working; (4) ongoing engagement via Zappia/ART, whom
+  MSH itself emailed directly (15 Jul email to Cory AND Zappia).
+- ⇒ FORENSIC IMPOSSIBILITY: MSH's 13 Jul coding premise ("current QSuper IP claim → no pay per
+  our guidelines") cannot coexist with the fund's overpayment position (benefits not payable
+  because working). Both cannot be true; MSH's premise is the one contradicted by the fund's
+  own records and by three dated prior notifications.
+- DISCIPLINE: never "false claim" on paper — always "a decision made on an incorrect factual
+  premise, corrected in advance, in writing, on three dated occasions." The word false invites
+  a bad-faith fight; the impossibility needs no adjective.
+- OBTAIN (via Zappia): ART/QSuper benefit-cessation confirmation (from 1 Jun 2026), the
+  overpayment notice + Cory's acceptance/repayment record. These are the two exhibits that
+  end the point wherever it's raised. File to documents/ when received.
+- Already deployed: dispute §4(d) (which guidelines + neither-wages-nor-benefit); WP letter to
+  Matheson (no income from any source); Petering appeal-window question (HELD — send with the
+  forward of the four sent items).
