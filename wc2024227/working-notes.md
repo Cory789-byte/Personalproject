@@ -3579,3 +3579,17 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Already deployed: dispute §4(d) (which guidelines + neither-wages-nor-benefit); WP letter to
   Matheson (no income from any source); Petering appeal-window question (HELD — send with the
   forward of the four sent items).
+
+## 2026-08-03 — Lane separation + the fit/unfit tension flagged
+- Standing frame: the fund lane (QSuper/ART, via Zappia) is Cory's lane; the wages lane is
+  MSH's under the instruments. If MSH runs the IP premise again, the one-sentence answer:
+  "My arrangements with the fund are between me and QSuper; my pay is between me and my
+  employer under the agreement." Never argue fund detail with MSH.
+- ⚠ STRATEGIC TENSION to manage with Zappia BEFORE any future fund claim: the employment
+  record says certified FIT (ready-willing-able); an IP claim asserts incapacity. If dismissal
+  ever occurs and the fund path revives, sequence and framing need advice so a benefit claim
+  never undercuts the employment/appeal record. Also check with Zappia: continuation of
+  insured cover if employment ends (policy terms), so the safety net is confirmed BEFORE it
+  is ever needed.
+- The clean overpayment history preserves the fund relationship as the intact safety net —
+  part of why addressing it promptly mattered.
