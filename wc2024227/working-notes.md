@@ -3611,3 +3611,16 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   treater's honest current view is that work (even restricted) is harmful, strategy must
   accommodate that truth; ready-willing-able cannot be run against your own treater. Discuss
   openly at the consult; Report A scoping (current capacity/adjustments only) already fits.
+
+## 2026-08-03 — QPS-track Case Study report read (14 Jul 2026, CO-25-2722/QP2500332406)
+- Cory shared the full 25pp QPS/CCC complaint + exec summary + navigation guide. READ, not
+  filed here — parallel-tracks discipline: it lives in the QPS repo side. Pointer only.
+- Two anchors overlap the employment track legitimately and are ALREADY known to MSH from its
+  own records: D17 (8 Oct 2024 abandonment decision, S. Johns A/ED LBHS) and D18 (E. Bain HR
+  chain confirming return to work 7:00am Mon 24 Feb 2025, Logan lobby). The REASON the 24 Feb
+  return was missed is QPS-track and stays out of all WC/employment correspondence (rule 10
+  family). The employment file needs only: a return was confirmed for 24 Feb 2025 and did not
+  proceed; MSH's own records show what it did next.
+- Context now fully understood: the "worked against psychiatrist's advice" year (2025) ran
+  through homelessness, criminal process, property seizure and family displacement — while he
+  built both files. No action items for this repo from the report itself.
