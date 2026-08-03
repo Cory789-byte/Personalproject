@@ -23,8 +23,8 @@ Thank you,
 Cory Shepherd · DOB 11 January 1991 · 0417 400 227
 
 ===============================================================================
-⭐ SHORT EMAIL 2 — PSYCHIATRIST CLINIC (Dr Krishnaiah)
-Attach: letter_to_EMPLOYEE.pdf + FORM_B.pdf
+⭐ SHORT EMAIL 2 — PSYCHIATRIST CLINIC (Dr Krishnaiah) — To: info@mindandmemoryservice.com.au
+Attach: letter_to_EMPLOYEE.pdf + letter_to_GP_DrMa_9questions.pdf + FORM_B.pdf
 (⚠ CORRECTED 4 Aug per Cory: the missed appointment was 5 JUNE, not 31 July; the
 practice is a CLINIC, not rooms.)
 ===============================================================================
@@ -85,8 +85,9 @@ RULES
   doctor's own questions) + 2026-07-31_ScottHughes_RFMI_letter_to_EMPLOYEE.pdf (the
   billing authority) + FORM_A_GP_DrMa_MSH-INJ-5795.pdf (the allocation).
   Email 2 (psychiatrist) → 2026-07-31_ScottHughes_RFMI_letter_to_EMPLOYEE.pdf (billing
-  authority) + FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf (his allocated questions —
-  no MSH letter to him exists).
+  authority) + 2026-07-31_ScottHughes_RFMI_letter_to_GP_DrMa_9questions.pdf (the original
+  nine questions — lets him verify Form B reproduces them exactly) +
+  FORM_B_Psychiatrist_Krishnaiah_MSH-INJ-5795.pdf (his allocated questions).
 
 ===============================================================================
 EMAIL 1 — GP PRACTICE (Dr Ma)
