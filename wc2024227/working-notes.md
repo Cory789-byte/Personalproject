@@ -3952,3 +3952,13 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   + directory-access fix). Each tied to a Code category + affidavit evidence anchor. Tabling
   rules: controls-in-consultation only, room-not-person, lead with patient safety, near-zero
   cost framing. The "inversion" reframed: ss 47-49 already require it — it's compliance.
+
+## 2026-08-04 — Consultation Proposals finalised as table-ready PDF
+- drafts/out/Consultation_Proposals_Shepherd_Aug2026.pdf (2pp, metadata clean): Part 1 the
+  eight consultation-appropriate asks with proposed implementations; Part 2 the Switchboard
+  Operating Model (patient-safety design principle leading, consult-before-change, rotational
+  integrated manager, 1/3-day complaint standard, one rulebook); Part 3 the consultation
+  architecture. Litigation references stripped; item 10 (PID substance) correctly EXCLUDED
+  per its sequencing rule; CE-letter internals excluded.
+- DEPLOYMENT RULE: TABLED at Stage 1/2, the assessment scoping, or a settlement conference —
+  never emailed cold. Closing line: "I would rather build the fix than continue the dispute."
