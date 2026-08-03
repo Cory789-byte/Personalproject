@@ -4070,3 +4070,24 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   (2) evidentiary = the standing demonstration the room operated with UNMANAGED risks —
   feeds the s 32(5) manner case, the ss 47-49 breach record, and reg 38. The neutrality IS
   the evidentiary strength: it records absence factually and dares correction.
+
+## 3 Aug 2026 (late evening) — sent-record verification closed, all four emails
+Cory supplied the native sent records; every one verified against plan and repo:
+- E1 (Response): export with attachment list filed. Exactly the 3 planned attachments;
+  all md5-identical to attachments-as-sent (RFMI_Response c3d7e69a / NOTICE 193a8178 /
+  PROPOSAL 0f3dfb22). Body = script verbatim.
+- E2 (Request, the 21-day clock): NATIVE .msg filed. Subject/routing (IM + lbh_hr, Cc
+  Moran), body opening = script, single attachment REQUEST (00b007a8) = as-sent copy.
+- E3 (Dispute): NATIVE .eml filed. Message-ID SY9P300MB1547…, sent 01:38:14 UTC
+  (11:38:14 AEST), To Taylor direct + IM + HR, Cc Moran; attachment hash 705daea2
+  matched THREE ways (inside eml / upload / repo). Stage 1 service moment is now a
+  transport header, not an assertion.
+- E4 (CE): NATIVE .eml filed. Sent 01:38:02 UTC (first of the four), To cridland direct,
+  Cc MetroSouthCorro; LETTER_Conflict (8a5453b8) + ENCLOSURES A–D all md5-identical
+  across eml/upload/repo (e7b1f804 / ad3db019 / 7d09fbaa / b313b51c). Body = s 89 script.
+  No bounce ever received on the direct address; 12:45 Corro ack (at Cridland's
+  direction) completes service + knowledge.
+⇒ The 3 Aug send is now evidentially closed end-to-end: what was written, to whom, at
+what second, with which byte-exact attachments. MSH silent all day (expected branch).
+Next: Tue 4 Aug 11:38 file note if Stage 1 silence holds. Also today: booking emails +
+provider enquiries finalised in drafts/ (sendable, non-MSH).
