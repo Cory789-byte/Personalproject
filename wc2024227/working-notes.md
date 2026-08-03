@@ -3632,3 +3632,12 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   "Put a date on it" answer to undated blurring; NNPD clinical records flagged as the primary
   entry vector (check date ranges when the list arrives); completeness doctrine if they open
   the door; Report B instruction; rule-10 and never-volunteer discipline restated.
+
+## 2026-08-03 — Pre-injury fragment defence added to the shield
+- Cory's flag: the Respondent will try to run the Jan 2024 DFV-leave matter (pre-injury) in a
+  different, undated context — and the sister's pregnancy as innuendo. Added Part 7 to
+  CHRONOLOGY-SHIELD: their knowledge gap (they hold fragments, not the benign truth), the
+  relevance-first defence (one January morning + five clean months before injury ≠ dilution),
+  the short protective true account if the door opens (name no one), the s 159 child gate,
+  completeness (their own screenshots rebut), and the pregnancy = her event, no evidentiary
+  foundation. VERIFY on NNPD arrival: whether any 2024 clinical note touches the family matter.

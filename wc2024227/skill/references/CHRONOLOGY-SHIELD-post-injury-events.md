@@ -54,6 +54,40 @@ diagnosis pre-date the personal events; the 2025 events are intervening stressor
 to course/maintenance only; and the report should say so expressly so the point is in
 evidence-in-chief, not scrambled for in reply.
 
+## 7. THE ONE PRE-INJURY FRAGMENT — JANUARY 2024 (added 3 Aug, Cory's flag)
+The chronology answer does NOT cover the 14 Jan 2024 matter (five months PRE-injury), so it
+takes its own defence. **What the Respondent actually holds**: the Taylor screenshots — "I am
+with QPS regarding some family stuff", a DFV-leave request, a lateness exchange — plus
+whatever the NNPD'd clinical notes say (UNKNOWN — check when the list arrives). **What they
+do NOT know**: the matter concerned his 15-year-old SISTER'S conduct toward their MOTHER; a
+sub-PPN good-behaviour direction against the sister (a DVO/PPN against her was legally
+impossible — s 22(2) DFVP, verified ATT25); he was the assisting adult; ~10 days helping his
+mother move; the sister went to NSW. Not his conflict, not his order, not his crisis.
+
+**Their likely play**: undated innuendo — "DV-related matters in his life from early 2024" —
+inviting the inference it was HIS domestic violence. **The defence, in order:**
+  (a) RELEVANCE — a single unpleaded January morning, followed by **five months of normal
+      work before the June injury**, cannot dilute "major significant contributing factor"
+      against 18 months of pleaded workplace stressors. Object first; explain only if needed.
+  (b) THE DATED, BENIGN TRUTH (only if the door is opened) — short, factual, protective:
+      "a family matter concerning a child relative, in which I was the assisting adult; no
+      order was or could be made against anyone in my household; I gave notice, offered to
+      attend my shift, took a short period of leave to help my mother, and worked normally
+      for the five months before the injury." NAME NO ONE.
+  (c) THE CHILD-SENSITIVITY GATE — any attempt to press detail about the sister meets
+      s 159(1)(b)(iii) DFVP (child-identification, criminal penalty) as the sensitivity
+      backdrop + a confidentiality-directions application if pressed in open hearing.
+  (d) COMPLETENESS — their own screenshots carry his rebuttal ("I will be at my shift...
+      I have had to attend the police station directed by police") and their manager's
+      same-morning "I'm sorry to hear about your family situation".
+
+**The pregnancy**: the sister's pregnancy (newborn by Apr 2025) is HER event, not his
+stressor; it is pleaded nowhere, appears in no known record as affecting him, and gets the
+same treatment — "put a date on it, put a document on it" — there is no document. ⚠ VERIFY
+when the NNPD list arrives whether any 2024 clinical note references the family matters at
+all; if the notes are silent, the entire pre-injury fragment has no evidentiary foundation
+beyond a lateness text, and even innuendo has nothing to stand on.
+
 ## 6. DISCIPLINE
 - NEVER volunteer the story, the complaint, or the corrections pre-emptively — the shield
   exists for the moment the door opens, and only then.
