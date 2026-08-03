@@ -1,0 +1,70 @@
+PROVIDER QUOTE ENQUIRY — banked 4 Aug 2026
+==========================================
+Purpose: obtain an indicative fee/scope proposal so that, at the scoping consultation (or if
+MSH asks Cory to advise on the assessment), cost and availability are already established —
+removing the s 18 "reasonably practicable" outs before they are spoken.
+
+RULES
+- Send from personal email, any time (not MSH correspondence; touches no discipline rule).
+- Do NOT name the employer at enquiry stage ("a 24/7 hospital switchboard in the Brisbane region").
+- Be transparent that Cory is not the commissioning party.
+- NEVER tell MSH "I have received a quote" before one is actually in hand.
+- File any quote received in documents/ same day. Do not forward to MSH unsolicited —
+  deploy at consultation or on request, alongside the tabled package.
+- Send to both providers for two data points: Altius (altius.au form / 1800 258 487) and
+  Psych Group (admin@psychgroup.com.au / 1300 611 993).
+
+--- EMAIL TO PROVIDER --------------------------------------------------------
+Subject: Request for indicative proposal — psychosocial risk assessment, 24/7 hospital
+switchboard (Brisbane region)
+
+Good morning,
+
+I am seeking an indicative proposal — scope, approach and fee range — for an independent
+psychosocial risk assessment of a 24/7 hospital switchboard room in the Brisbane region:
+a small team of operators on a rotating roster across day, evening, night and weekend
+shifts, handling a high daily call volume including emergency codes and distressed callers.
+
+The assessment contemplated would be conducted under the Managing the risk of psychosocial
+hazards at work Code of Practice 2022 (Qld) and consistently with ISO 45003, and would
+include: review of recorded data (call demand, rosters, leave, incident and complaint
+records); the People at Work survey; on-site observation across shift types, including
+night and weekend shifts; interviews offered to all operators; risk rating with a controls
+report; and a twelve-month review point.
+
+For transparency: I am an employee of the workplace concerned, preparing a contribution to
+a consultation process about how such an assessment might be conducted. Any engagement
+would be commissioned by the employer, not by me. At this stage I am asking only: whether
+this is within your service scope; your indicative approach; an indicative fee range for
+an assessment of this size; and your current availability.
+
+I'm happy to take this by email or a short call.
+
+Kind regards,
+Cory Shepherd · 0417 400 227
+
+--- LINE TO MSH (ONLY ONCE A QUOTE IS IN HAND) -------------------------------
+ORAL (scoping discussion):
+"To assist scoping I've obtained an indicative proposal from an independent provider —
+Code of Practice and ISO 45003 aligned, including multi-shift observation and the People
+at Work survey. The indicative fee is in the range of [$X], and availability is current.
+I table it as an input; selection and engagement are of course matters for the Health
+Service, in consultation under section 48."
+
+WRITTEN (if MSH requests his advice in writing):
+"In response to the request for my input: I have obtained an indicative proposal from
+Altius Group (organisational psychologists and WHS consultants, Brisbane) for an
+assessment of the kind proposed in my tabled package — indicative fee range [$X], current
+availability confirmed. I provide it as an input to scoping. The selection of the
+assessor, against the independence criteria at Part 8 of my tabled package, and the
+engagement itself, remain matters for the Health Service in consultation with the
+affected workers under section 48."
+
+WHY THE WORDING IS LOAD-BEARING
+1. "I table it as an input; engagement is a matter for the Health Service" — Cory never
+   steps into the commissioning role; the assessor's independence stays untainted.
+2. s 18 WHS Act: cost is relevant to "reasonably practicable" only after likelihood and
+   severity, and only if grossly disproportionate. A real quote converts "expensive and
+   hard to arrange" from an argument into a documented untruth.
+3. A "no" given against a tabled quote is a no recorded against a known price and
+   confirmed availability — documented in the consultation record.
