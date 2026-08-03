@@ -3841,3 +3841,23 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   patient's reliability; Q3 asks medicine to certify the conflict away; Q6 asks if he can work
   with NO adjustments (against G3's own premise); Q9 invites manufactured unfitness ("if we
   are not able to accommodate... is he able to safely return").
+
+## 2026-08-04 — The 31 Jul 15:15 Harrison email filed; before/after pair complete
+- 15:15 Fri 31 Jul — 75 min after the 2pm appointment slot: "ACTION REQUIRED | Request for
+  Reimbursement". Answers the 30 Jul reimbursement request (28h old) ONLY after the appointment
+  window passed. Content: "more than happy to assist" BUT a NEW gate — the Medical Centre must
+  email MSH DIRECTLY with invoice + remittance "before we can proceed", despite his receipt
+  (N471065713633) already provided as 30 Jul Attachment 3.
+- SIGNALS: (1) held-until-after timing — the $150 friction answered only once it could no longer
+  deter attendance; (2) ⭐ the gate opens a DIRECT MSH↔practice channel on the same afternoon
+  the RFMI was to be handed over — [A] both readings live (anti-fraud pedantry vs engineered
+  contact); (3) at 15:15 they did NOT yet know he cancelled — the email is the machine assuming
+  the trap had fired (they learn of the cancellation only in his 3 Aug response); (4) same
+  ACTION REQUIRED template as 11:43 — same production morning.
+- Voice: mostly voice-one admin ("more than happy to assist") with one inserted procedural gate
+  ("however, we also require...") that reads instructed. Mixed authorship consistent with the
+  two-voices pattern.
+- HANDLING: when rebooking with the clinic anyway, one confined line: ask accounts to email the
+  invoice-574370 payment confirmation to lbh_InjuryManagement — PAYMENT DOCUMENTS ONLY, no
+  clinical information, no records authority. The gate gets complied with narrowly and logged
+  as friction instance #3 (his $150 needs practice-direct email; their commitments float).
