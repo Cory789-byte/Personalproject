@@ -4056,3 +4056,17 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   skeleton (INTERNAL-marked) · 07 prompts (PRIVATE-marked) · 08 runway sheet.
 - Deployment discipline on the index's face: nothing sent early, nothing sent hot,
   everything on its trigger.
+
+## 2026-08-04 — THE INTEGRATED PSYCHOSOCIAL/WHS RISK REPORT built (the unmanaged-risk exhibit)
+- drafts/out/Psychosocial_WHS_Risk_Report_Switchboard_Aug2026.pdf (landscape, clean): ONE
+  document integrating framework + 7-column matrix (hazard | presentation | ⭐ EXISTING
+  CONTROLS IDENTIFIED | required-by | risk rating D×F×S | proposed control) + findings +
+  integrated controls + consultation. The load-bearing column: "None identified" in red,
+  row after row — the only control anywhere = "informal only: workers' own personal leave
+  as the de facto fatigue control". Row 10 carries the reviewing-officer finding; ratings
+  use "injury of this kind has occurred" (consequence realised, not speculative).
+- DUAL USE by design: (1) tabled = the assessment input (neutral in form, ss 47-49
+  contribution, invites the assessment to "confirm, correct, or complete" the matrix);
+  (2) evidentiary = the standing demonstration the room operated with UNMANAGED risks —
+  feeds the s 32(5) manner case, the ss 47-49 breach record, and reg 38. The neutrality IS
+  the evidentiary strength: it records absence factually and dares correction.
