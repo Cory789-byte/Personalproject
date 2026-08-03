@@ -4029,3 +4029,9 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   + surge protocol, acoustic/ergonomic physical assessment, protective QA call-recording
   framework, occupancy cap, upstream departmental data SLAs, training matrix, psychological
   safety measure). Scoping-meeting posture included.
+
+## 2026-08-04 — Assessment Methodology finalised as table-ready PDF
+- drafts/out/Assessment_Methodology_Proposal_Shepherd_Aug2026.pdf (2pp, clean): the eight
+  phases neutrally framed + scope items (a)-(h) + consultation close. The tabling set is now
+  THREE documents: Proposals (3pp) + Hazard Mapping table (2pp) + Methodology (2pp). Tactical
+  posture ("every no recorded") stays in the strategy file only.
