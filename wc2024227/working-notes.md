@@ -4035,3 +4035,15 @@ rostering) added to the model; Consultation Proposals PDF rebuilt (still 2pp, cl
   phases neutrally framed + scope items (a)-(h) + consultation close. The tabling set is now
   THREE documents: Proposals (3pp) + Hazard Mapping table (2pp) + Methodology (2pp). Tactical
   posture ("every no recorded") stays in the strategy file only.
+
+## 2026-08-04 — THE CEILING SET produced (drafts/CEILING_SET/)
+- The documents that can still move numbers (drafting-to-MSH is at ceiling; these convert
+  coming events): 01 Report B instruction letter (THE ceiling-raiser, HOLD for the consult;
+  scoped to the corrected test, chronology head-on, course-vs-cause, anti-malingering,
+  capacity excluded); 02 Report A scope note (boundary keeper); 03 Stage 2 referral email
+  (final text, 10 Aug); 04 IP access application + 05 RTI application (six categories split
+  by vehicle, lodge 10 Aug); 06 Calderbank #3 skeleton (conditions precedent gated — fires
+  late Aug/Sept on the enlarged record; compensation claim ONLY per rule 9); 07 witness
+  account prompts (24 Feb, screaming, torn pages, leave-as-fatigue, the report — private,
+  evidence preservation); 08 runway action sheet (Centrelink, hardship, Zappia's two
+  exhibits, the Petering forward w/ appeal-window + comparative questions).
