@@ -3762,3 +3762,16 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   produce-or-swear alternative. Consent orders at the mention are the win condition; informal
   promises are the objection surviving in disguise. Any proposal: respond considered and fast,
   agree to CONSENT ORDERS on full items gladly, trade nothing narrow-for-full without analysis.
+
+## 2026-08-04 — Known-item completeness test built (pre-arrival audit tool)
+- skill/references/KNOWN-ITEM-completeness-test.md: Tier 1 must-appear (provably Regulator-held:
+  Taylor's 7 attachments, McGinley, NNPD returns, conferencing records, his served documents,
+  the 69983 file) · Tier 2 proves-the-channel (MSH-sourced 64G categories, Jul 2026 employment
+  material, leave/DV/QSuper items) · Tier 3 cross-audit (employment-track production impeaches
+  any "complete" appeal list that lacks the same documents) · the two-column 64G map · rules
+  (name the missing document; a list is a representation; no volume of disclosure discharges
+  an order except compliance).
+- Cory's two scenarios both covered: tactical/curated disclosure → caught by named gaps +
+  order still pressed Friday; genuine give-up → map shows overlap, records land, Regulator
+  re-prices → settlement branch. Either way the disclosure materially feeds the appeal because
+  the 64G/9A machine routes whatever arrives onto pleaded particulars.
