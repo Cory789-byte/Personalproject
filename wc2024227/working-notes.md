@@ -3734,3 +3734,20 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   Don't wait to receive an offer; the list arriving is the cue to start building one.
 - If an approach comes first: standing rule — no response without the settlement architecture
   prepared (deed scope = compensation claim ONLY, rule 9; employment track stays separate).
+
+## 2026-08-04 — Hypothesis: MSH may have ALREADY given the Regulator the 64G material
+- Cory's hypothesis: the rosters/payroll/records he seeks from MSH via the 64G may already sit
+  in the Regulator's file — produced by MSH through the Regulator's own NNPDs or conferencing.
+- ONE INSTANCE ALREADY CONFIRMED: the Item 20 pattern — MSH's 5 Jun objection asserted "does
+  not exist" while the Regulator's file held the McGinley routing (MSH-produced, Jul 2025).
+  The pattern exists; the question is its extent.
+- ⭐ THE CHECK (when the list + NNPD copies arrive this week): CROSS-REFERENCE every list entry
+  against the 64G items — build a two-column map: 64G item ↔ Regulator-held equivalent (source,
+  date). Three findings possible: (1) overlap → MSH resisting production of material already
+  produced = oppression objection collapses + model-litigant contrast + Regulator's disclosure
+  duty delivers the records to Cory regardless; (2) no overlap → hypothesis dies cheaply;
+  (3) partial → the map shows exactly what remains worth fighting for Friday.
+- MENTION CONTINGENCY: ONLY if the list arrives before Friday AND shows overlap — a measured
+  procedural note is legitimate ("some categories appear to have been produced to the
+  Respondent; production to the Appellant cannot then be oppressive"). Goes to the 64G scope
+  question, NOT employment. If the list hasn't arrived: nothing changes, posture unchanged.
