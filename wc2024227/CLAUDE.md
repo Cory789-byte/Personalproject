@@ -74,9 +74,16 @@ the Taylor email only, CE letter solo). Full-picture read + two addenda at
 - Matter correspondence + the OneDrive "01 FINISHED APPEAL" folder ingested into `evidence-index/`. Full picture + de novo demolition in `skill/references/case-theory-synthesis.md` §15. Evidence source = Gmail + M365/OneDrive connectors (NOT the Trustandcollectiveco Outlook).
 
 ### Immediate tasks
-1. ⭐ **MON 3 AUG — SEND.** Petering email first (the 13 July appeal-window question), then the
-   four MSH emails per `drafts/SEND_31JUL/EMAILS_TO_PASTE_3AUG.txt`. Save every sent item as PDF
-   into `documents/`.
+1. ✅ **SENT — MON 3 AUG 2026, 11:38am.** All four emails went. Sent records + as-sent
+   attachments (byte-identical to `drafts/out/`) filed at `documents/sent-2026-08-03/`.
+   AS-SENT ROUTING: E1 Response → To IM, Cc lbh_hr + Moran · E2 Request → To IM + lbh_hr,
+   Cc Moran (⭐ 21-day clock RUNNING → Mon 24 Aug) · E3 Dispute → To Taylor + IM + lbh_hr,
+   Cc Moran (Stage 1 open, 24h → Tue 4 Aug) · E4 CE → To noelle.cridland@health.qld.gov.au
+   (unverified-format address), Cc MetroSouthCorro (published — lands regardless).
+   Deltas from plan, noted not fixed: HR address used was lbh_hr@health.qld.gov.au;
+   Petering NOT in Cc (Moran only) — forward the four sent items to Petering when convenient;
+   ⚠ WATCH for a bounce on the cridland direct address — if it bounces, the Corro copy is the
+   service copy and nothing need be re-sent. Petering urgent email (appeal window) was HELD.
 2. **This week:** Dr Ma certificate covering from 3 July (obtain and HOLD); runway plan; the
    Appeals directive + s 102 directive; ask Cory whether the bounced 3 Oct 2025 email was ever
    re-sent successfully; his written account of 7am 24 Feb 2025.

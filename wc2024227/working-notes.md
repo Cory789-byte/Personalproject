@@ -3455,3 +3455,15 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
   recipient; if it bounces the Corro address still lands (Oct 2025 bounce lesson applied).
 - Email body asks her office to bring it to her personal attention, citing s 89's direction to
   the chief executive. Letter PDF + EMAIL_4 record rebuilt, verified, metadata clean.
+
+## 2026-08-03, 11:38am — ⭐ THE PACKAGE IS SENT
+- All four emails sent 11:38am AEST. Outlook exports filed at documents/sent-2026-08-03/ with
+  as-sent attachments (md5-verified identical to drafts/out builds).
+- As-sent routing: E1 To IM, Cc lbh_hr+Moran · E2 To IM+lbh_hr, Cc Moran · E3 To Taylor+IM+
+  lbh_hr, Cc Moran · E4 To cridland direct (unverified), Cc MetroSouthCorro (published).
+- CLOCKS ARMED: Tue 4 Aug Stage 1 (24h) · Fri 7 Aug mention (SILENT) + RFMI 7-day end ·
+  Mon 10 Aug Stage 2 referral (one line, manual) + Matheson child-material letter ·
+  Mon 17 Aug Stage 2 ends · ⭐ Mon 24 Aug cl 10.3.6 decision due / s 29 deemed refusal.
+- Follow-ups: forward the four sent items to Petering (she was not in Cc — Moran only);
+  watch for bounce on cridland direct (Corro lands regardless); rebook consultations on MSH
+  confirmation or day-7 silence; obtain + HOLD Dr Ma certificate.
