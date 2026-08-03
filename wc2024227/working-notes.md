@@ -3624,3 +3624,11 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Context now fully understood: the "worked against psychiatrist's advice" year (2025) ran
   through homelessness, criminal process, property seizure and family displacement — while he
   built both files. No action items for this repo from the report itself.
+
+## 2026-08-03 — Chronology shield banked
+- skill/references/CHRONOLOGY-SHIELD-post-injury-events.md: the defence if the Regulator pulls
+  the QPS/personal story into the appeal. Core: diagnosis 24 Oct 2024 PRE-DATES the first
+  personal event (1-2 Dec 2024) — post-onset events cannot cause onset on a liability appeal.
+  "Put a date on it" answer to undated blurring; NNPD clinical records flagged as the primary
+  entry vector (check date ranges when the list arrives); completeness doctrine if they open
+  the door; Report B instruction; rule-10 and never-volunteer discipline restated.
