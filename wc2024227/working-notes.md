@@ -3933,3 +3933,8 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Design note: the 64G is an audit whose cost falls on the audited, either fork — production
   funds the audit of their records; sworn non-existence funds the records-management audit via
   the verification questions. The only cheap fork (ignore it) was removed by sealing.
+
+## 2026-08-04 — Labour ledger built and priced
+- skill/references/LABOUR-LEDGER-what-the-matter-cost-them.md: 16 actors, rates Award-anchored
+  where possible, 27 line items across 8 phases, ~1,090 hours midpoint, ≈$153k (range $92k-215k),
+  38:1 vs the withheld wages, 1.9 years of his salary. Willson's 95h (≈$43k) mostly READING him.
