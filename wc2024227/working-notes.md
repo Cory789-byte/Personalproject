@@ -3467,3 +3467,15 @@ Both were accurate when written (28 days vs the fifth week). No inconsistency, b
 - Follow-ups: forward the four sent items to Petering (she was not in Cc — Moran only);
   watch for bounce on cridland direct (Corro lands regardless); rebook consultations on MSH
   confirmation or day-7 silence; obtain + HOLD Dr Ma certificate.
+
+## 2026-08-03, 12:45pm — ⭐⭐ CE RECEIPT ACKNOWLEDGED AT CRIDLAND'S PERSONAL DIRECTION
+- 67 minutes after send, Metro South Corro (Mark, Executive Services): "I have been asked by
+  Noelle Cridland, Health Service Chief Executive to acknowledge receipt of your correspondence."
+- Filed: documents/sent-2026-08-03/2026-08-03_1245_MSH_Corro_ACK_CE_letter_at_Cridlands_direction.pdf
+- ESTABLISHES: (1) the direct address Noelle.Cridland@health.qld.gov.au is VALID — no bounce,
+  bounce-watch closed; (2) the CE PERSONALLY received the s 89 disclosure same day and directed
+  the acknowledgment — her personal knowledge is now documented BY HER OWN OFFICE, dated 3 Aug
+  12:45; (3) the s 89(1)(b) bar now operates on documented personal knowledge — the element the
+  ledger listed as completing "on any answer" partially completed on the acknowledgment itself.
+- NO REPLY NEEDED to the acknowledgment. The five questions in the letter remain outstanding —
+  their answers (or silence) are the next record.
