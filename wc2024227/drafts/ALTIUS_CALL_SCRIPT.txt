@@ -35,8 +35,16 @@ scores, observation across shift types including nights and weekends, interviews
 to all operators, and the recorded data (rosters, leave, complaints, incidents)
 reviewed. I would also want to understand how findings are reported: whether the risk
 register is shared with the workers as well as management, and whether uncontrolled
-risks are stated plainly. If that is how Altius works, I think this is worth a
-conversation.
+risks are stated plainly.
+
+The room also has a physical and human-factors layer that I would want assessed
+alongside the psychosocial one: noise and acoustic exposure through headsets, the rate
+of interruption and task-switching while calls are being handled, cognitive load during
+emergency code activations, console and workstation ergonomics, lighting and
+screen-based work. Could you tell me whether that sits within a single engagement for
+Altius, or whether it would require a separate discipline?
+
+If that is how Altius works, I think this is worth a conversation.
 
 I look forward to speaking with you.
 
