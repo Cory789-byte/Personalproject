@@ -1,0 +1,69 @@
+ALTIUS — REPLY AND CALL SCRIPT. Banked 4 Aug 2026.
+==================================================
+STATUS: enquiry sent 4 Aug (referrals@altius-group.com.au — WORKS). Forwarded internally
+7:43am; reply from Neil Glockling, GM Business Development, 8:54am, asking for a call.
+Filed: documents/correspondence-2026/2026-08-04_0854_Altius_Glockling_reply_requesting_call.pdf
+
+--- REPLY EMAIL (send now) ----------------------------------------------------
+To: nglockling@altius-group.com.au
+Subject: RE: Request for indicative proposal — psychosocial risk assessment, 24/7
+hospital switchboard (Brisbane region)
+
+Hi Neil,
+
+Thank you for coming back to me so quickly.
+
+I'm available [DAY] between [TIME] and [TIME], and [DAY] between [TIME] and [TIME] —
+whatever suits you best. My number is 0417 400 227.
+
+Ahead of the call, one thing I should flag: the workplace is a Queensland public
+hospital, so it would be worth Altius checking whether the health service concerned is
+an existing or recent client before we go further. I'm happy to name it at the start of
+the call for that purpose.
+
+I look forward to speaking with you.
+
+Kind regards,
+Cory Shepherd
+0417 400 227
+
+--- THE CALL: WHAT TO SAY, IN ORDER --------------------------------------------
+⛔ FIRST, BEFORE ANYTHING ELSE — THE CONFLICT CHECK:
+"Before I give you the detail: the workplace is Logan Hospital, Metro South Health.
+Does Altius currently do work for that health service, or has it recently? If so, I'd
+rather stop here — the assessment I'm describing needs to be independent of them."
+(If YES → thank him, end it, go to Psych Group. If NO → continue.)
+
+1. WHO HE IS: "I'm an employee — an operator in the switchboard room. I'm not the
+   person who would engage you. Any assessment would be commissioned and paid for by
+   the health service. I'm preparing a contribution to a consultation about how such an
+   assessment should be done."
+2. THE ROOM (facts only, no grievance): 24/7 hospital switchboard, small team, rotating
+   roster, high call volume including emergency codes and distressed callers, night and
+   weekend shifts worked single-up.
+3. THE FIVE QUESTIONS — get answers, and ask for them in writing:
+   (a) Is this within scope for Altius?
+   (b) What's the approach — data, survey, observation, interviews?
+   (c) Indicative fee range for a room of this size?
+   (d) Current availability?
+   (e) ⭐ Can the deliverables include a statement of the role's psychosocial demands
+       and working conditions in a form treating doctors can use for fitness-for-work,
+       restriction and adjustment opinions?
+4. TWO METHOD QUESTIONS: would observation cover night and weekend shifts? Would Altius
+   use the People at Work survey (WorkSafe Qld's validated instrument)?
+5. CLOSE: "Could you put the indicative range and those answers in an email, so I can
+   include it accurately in the consultation process? I have no authority to engage
+   anyone — I just want the health service to have a real option in front of it."
+
+--- WHAT NOT TO DO -------------------------------------------------------------
+- Do NOT send the integrated assessment package (or the hazard matrix) — it has not yet
+  been tabled with MSH, and MSH should be its first recipient. If Altius asks for
+  written context after the call, a short factual summary of the room only.
+- Do NOT discuss: the dispute, the exclusion, the unpaid wages, the appeal, his own
+  medical position. The enquiry is about a room, not a matter.
+- Do NOT name individuals at MSH.
+- Do NOT let it become a service pitch to HIM (EAP, personal counselling, medico-legal
+  assessment of him). If it turns that way: "that's not what I'm asking about — I'm
+  asking about a workplace assessment the employer would commission."
+- File the written reply in documents/ the same day. Once a fee range is in hand, the
+  funding-mirror email is ARMED (still HOLD until MSH engages).
