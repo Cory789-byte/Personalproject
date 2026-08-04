@@ -16,7 +16,13 @@ Thank you for coming back to me so quickly.
 I'm available this afternoon after 4:30pm, and tomorrow between 9:00am and 12:00pm —
 whatever suits you best. My number is 0417 400 227.
 
-Two things worth flagging ahead of the call, so we don't waste your time.
+To be clear on the commercial side first: I would not be the client. Any engagement
+would be commissioned and funded by the health service itself, as the employer — this
+sits within its work health and safety obligations, not with me personally. My role is
+limited to the consultation about how the assessment should be scoped and conducted, so
+please quote it as you would for a departmental client.
+
+Two other things worth flagging ahead of the call, so we don't waste your time.
 
 The workplace is a Queensland public hospital. I'd want to be confident Altius has not
 been engaged by that health service in relation to this workplace or its management
@@ -45,10 +51,14 @@ Does Altius currently do work for that health service, or has it recently? If so
 rather stop here — the assessment I'm describing needs to be independent of them."
 (If YES → thank him, end it, go to Psych Group. If NO → continue.)
 
-1. WHO HE IS: "I'm an employee — an operator in the switchboard room. I'm not the
-   person who would engage you. Any assessment would be commissioned and paid for by
-   the health service. I'm preparing a contribution to a consultation about how such an
-   assessment should be done."
+1. WHO HE IS / WHO PAYS: "I'm an employee — an operator in the switchboard room. I'm
+   not the client and not the payer. The health service commissions and funds this
+   itself, as the employer; it falls within its WHS obligations. I'm preparing a
+   contribution to a consultation about how such an assessment should be done, so
+   please scope and price it as you would for a departmental client."
+   ⚠ ACCURATE LIMITS: he must NOT say funding has been approved, or that he speaks for
+   the health service. The 31 Jul costs commitment covers MEDICAL REPORTS only — never
+   cite it as agreement to fund the assessment.
 2. THE ROOM (facts only, no grievance): 24/7 hospital switchboard, small team, rotating
    roster, high call volume including emergency codes and distressed callers, night and
    weekend shifts worked single-up.
