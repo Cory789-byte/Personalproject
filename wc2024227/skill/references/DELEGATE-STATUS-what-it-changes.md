@@ -59,3 +59,42 @@ the other person — (a) is or is not... an officer or member of an industrial o
   and whether MSH has been notified of the appointment in writing (knowledge matters for
   any s 291 claim). If MSH was never told, obtain the union's confirmation of the date and
   provide it prospectively — knowledge from that point forward is then undeniable.
+
+## 5. WHAT LAWFUL DELEGATE ACTIVITY ACTUALLY COVERS (and the one line that must hold)
+PROTECTED (s 290, verified): organising or promoting lawful union activity; participating
+in it; **representing or advancing the views, claims or interests of the union**; and
+**giving or distributing information, or organising or encouraging discussion, about wages,
+employment conditions and workplace rights** for or on behalf of the union. Plus EB12
+cl 3.1.5 (representative role; furthering grievance and dispute procedures), cl 3.1.6
+(member access to the delegate on any employment or industrial matter), cl 3.1.8
+(facilities), cl 3.6.4 (resignation/turnover reports from local HR), cl 3.6.3 (raising
+issues at the HCF or equivalent).
+⇒ AVAILABLE EVEN WHILE EXCLUDED: representing members, raising collective issues with
+management, requesting the cl 3.6.4 turnover report, participating in consultative
+structures, and communicating with members about conditions and rights.
+
+⛔ THE LINE THAT MUST HOLD — the delegate role is for the MEMBERS' matters, never his own.
+- He must NOT use delegate standing to canvass colleagues about HIS case, gather evidence
+  for it, or discuss his dispute with members. That would be misuse of office, attackable,
+  and dangerous for the colleagues involved. Witness accounts remain governed by the
+  existing rule: voluntary, in their words, on their initiative, never solicited.
+- He must not hold himself out as speaking FOR the union without its authority. Delegate ≠
+  authorised officer. Anything expressed as the union's position needs Together's sign-off.
+- Unlawful activity is expressly NOT protected (s 290(d)-(g)).
+
+## 6. ⭐ THE STRATEGIC OPTION THIS OPENS — THE COLLECTIVE ROUTE
+The tabled package (hazard matrix, proposals, methodology, assessment request) is already
+written about the ROOM, not about him: no allegations, no personal grievance, no reference
+to his dispute. It can therefore properly be advanced as a **delegate's collective
+submission on the conditions of the work area**, through the consultative structure —
+rather than only as one affected worker's ss 47-49 contribution.
+WHY IT IS STRONGER THAT WAY: cl 3.1.5 obliges the employer to support the delegate role in
+consultative structures; a collective submission cannot be answered as a personal
+grievance; refusal becomes a refusal to consult the workforce, not a refusal to accommodate
+an individual; and the union's weight sits behind it.
+⚠ CONDITIONS BEFORE DOING IT: (a) speak to Petering/Moran FIRST — the union may want
+carriage, and acting without them causes friction; (b) keep his personal dispute entirely
+in his own name, in separate correspondence, on separate days; (c) the collective document
+must stay genuinely collective — not a vehicle for his case; (d) expect MSH to argue he is
+conflicted, and be ready to answer that the document contains no personal claim and any
+worker or the union could adopt it unchanged.
