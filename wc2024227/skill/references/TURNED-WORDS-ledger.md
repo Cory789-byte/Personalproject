@@ -47,3 +47,29 @@ deadline → asymmetry pair · "worked and tolerated without deterioration" → 
 Adverse placement is achieved by position, not volume: each turn appears exactly once, in
 the instrument where a decision-maker must confront it, phrased as their quote + a date +
 a question or a fact. Nothing is sent this week; the reply of 4 Aug stands as final.
+
+## ⭐⭐ 4 AUG EVENING ADDITIONS — FROM THE ART/ZAPPIA LETTER (filed 2026-08-04_1640)
+7. **"Based on information recently received from your employer, they are currently unable
+   to accommodate a graduated return to work due to the restrictions identified in your
+   Work Capabilities Checklist."** THE DECISION EXISTS AND WAS COMMUNICATED — to his
+   INSURER, not to him. Five weeks of "under review" to his face; a concluded position to
+   a third party. And it was communicated at a time when the RFMI (31 Jul) still said a
+   decision WOULD BE made "based on the available information" — the conclusion was
+   transmitted externally before the medical information it supposedly awaited.
+   PLACE: Stage 2 referral (with the Taylor letter's "under review"); s 32(5) manner
+   submissions (pre-judgment); the six-questions follow-up if Q3.1 goes unanswered.
+8. **"…we have contacted your employer and advised that you may wish to access your
+   available paid leave in the interim."** The LEAVE PUSH HAS A PROVENANCE: the insurer
+   suggested it to MSH. Taylor's "I am required to process leave on your behalf" now has
+   a candidate source — an insurer's suggestion, which is not an instrument.
+   PLACE: Stage 2 if Q3.1's answer names no instrument.
+9. **"We acknowledge that on 16 March 2026 you contacted ART Life by email advising that
+   you had returned to work and requested that benefit payments cease"** (stated TWICE) +
+   last payment 28 May 2026. ~2.5 months of the claimed overpayment postdates his own
+   written cessation request — the insurer's own delay, acknowledged in its own letter.
+   PLACE: overpayment negotiation; kills any bad-faith characterisation of the IP claim.
+10. **"We understand that your last day worked was 13 June 2026"** (per employer data).
+    Resolves the open verification task; MSH's own payroll data to ART fixes the last
+    shift as 13 JUNE — the exclusion narrative must now fit that date.
+⚠ CAUTION: ART invites evidence of an April/May 2025 notification — provide ONLY what
+actually exists; the 16 Mar 2026 acknowledged notice is solid ground, never overclaim.
