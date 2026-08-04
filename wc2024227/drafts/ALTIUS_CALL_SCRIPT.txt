@@ -98,3 +98,26 @@ rather stop here — the assessment I'm describing needs to be independent of th
   asking about a workplace assessment the employer would commission."
 - File the written reply in documents/ the same day. Once a fee range is in hand, the
   funding-mirror email is ARMED (still HOLD until MSH engages).
+
+--- DUE DILIGENCE (researched 4 Aug evening) ---------------------------------
+GLOCKLING: LinkedIn = "QLD State Manager, Executive Health Solutions" (EHS is an Altius
+division); now signs GM Business Development, Level 2, 46 Edward St Brisbane (contact page
+separately lists Level 11, 231 North Quay — multiple Brisbane sites, incl. a BEENLEIGH
+office in the Logan catchment). Background is health-services BD/account management, NOT
+WHS/psychosocial practice ⇒ the unnamed "colleague" is likely the actual practitioner or
+an account/conflict person. ASK THE COLLEAGUE'S NAME AND ROLE FIRST.
+LISA WILLSON: Brisbane barrister; CURRENT Counsel Panel member for the Workers'
+Compensation Regulator (the respondent in WC/2024/227); previous WorkCover Qld panel; UQ
+OHS program advisory panel / adjunct assoc professor; LexisNexis WHS author.
+CONNECTION GLOCKLING/ALTIUS ↔ WILLSON: NONE FOUND in public sources. The only overlap is
+structural: both sit in the Qld workers-comp/WHS ecosystem. Do NOT raise her name on the
+call. The structural risk is the real one: Altius is an accredited workplace rehab
+provider whose referral book almost certainly includes WorkCover Qld and possibly
+Queensland Health / MSH workers (Beenleigh office = Logan catchment).
+⇒ ENHANCED CONFLICT QUESTIONS FOR THE CALL (in order, before any detail):
+  1. "Who is the colleague joining and what is their role?"
+  2. "Does Altius currently do work for Metro South Health or Queensland Health — in any
+     division, including rehabilitation and EHS?"
+  3. "Does Altius take WorkCover Queensland referrals for Metro South employees?"
+  (Rehab referrals are not automatically disqualifying for a separate assessment arm —
+  but the answer must be on the table, and independence criteria at Part 8 govern.)
