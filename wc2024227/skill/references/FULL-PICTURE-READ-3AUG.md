@@ -106,3 +106,39 @@ Regulator's own prospects assessment worsens on the correct law.
 4. **Employment-track resolution** (settlement pickup coupling, unchanged).
 The chronology shield remains second-line: still kills onset arguments and protects
 credit, but the statute now does the heavy lifting the shield used to do.
+
+---
+# ADDENDUM 2 — 4 AUGUST 2026: FULL-MATTER PREDICTION MODEL
+> 200,000-run Monte Carlo across BOTH tracks, seeded and reproducible
+> (`skill/references/mc_full_4aug.py`). Calibrated to the 3 Aug corrected-test baseline;
+> a first pass returned inflated figures (appeal 48%) and was recalibrated down before use.
+
+| Outcome | 3 Aug | ⭐ 4 Aug | Band |
+|---|---|---|---|
+| Employment strict (restored / adverse action defeated) | 48% | **44%** | toss-up |
+| Employment favourable (incl. settlement or payment) | 66% | **66%** | probable |
+| Pay recovered | 59% | **46%** | better than even only if restored |
+| Appeal win at contested hearing | 36% | **35%** | approaching toss-up |
+| Appeal favourable incl. settlement | 70% | **67%** | probable |
+| ⭐ AT LEAST ONE TRACK FAVOURABLE | — | **88%** | strongly probable |
+| Some settlement occurs (either track) | — | **42%** | |
+
+PROCESS NODES
+- Adverse action ATTEMPTED Aug–Sep: **13%** (down from ~18–20% pre-engagement) — the
+  booking + direct-billing + allocation record is the single biggest risk reducer
+  available to him; of attempts, **70%** are defeated on challenge.
+- cl 10.3.6 ends in **deemed refusal**: **48%** — silence is the modal MSH outcome.
+- Psychosocial assessment actually commissioned: **36%**.
+- Timing to first substantive resolution: **P10 9 weeks · median 18 · P90 32**.
+
+WHAT MOVES THE NUMBERS (in order of leverage)
+1. **Attending the consults + Report B** (his control) — gates causation strength and
+   the whole appeal branch.
+2. **The 64G disclosure outcome** (Friday) — feeds s 32(5), the contested centre.
+3. **MSH's engagement posture by 17 Aug** — sets restoration, assessment and adverse-risk.
+4. **Runway holding** — not modelled as an outcome but it is the real constraint; a
+   forced capitulation converts a 66/67% favourable position into whatever is offered.
+
+HONEST WEAK POINT: pay recovery (46%) is the softest number — it is strong when
+restoration or a challenge win occurs and weak otherwise; the forward-pay limb and the
+deemed-refusal date are the instruments that move it.
