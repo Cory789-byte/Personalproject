@@ -98,3 +98,29 @@ in his own name, in separate correspondence, on separate days; (c) the collectiv
 must stay genuinely collective — not a vehicle for his case; (d) expect MSH to argue he is
 conflicted, and be ready to answer that the document contains no personal claim and any
 worker or the union could adopt it unchanged.
+
+## 7. ⭐⭐ THE 2024 WRITTEN RECORD (found in corpus 4 Aug 2026 — verify to pack 10 p.45 before filing use)
+Email, Cory → Amy Mo (WorkCover), 26 Aug 2024, "Subject: Union Delegate", ref S23LW142013,
+attachments referenced. It records, contemporaneously and in writing:
+1. The previous switchboard delegate (Amanda Richie) "left the switchboard due to workplace
+   bullying and harassment within the department, for which Queensland Health took
+   accountability"; no delegate since 2021.
+2. He informed MS TAYLOR and Ms Reece; neither could identify a current delegate.
+3. He OFFERED TO COMPLETE THE TRAINING TO BECOME THE DELEGATE; a group email was agreed;
+   months later TAYLOR verbally confirmed no one responded; he initiated the process with
+   the union himself; "the department has taken no further action regarding my becoming
+   the delegate or providing me with a union delegate to whom I could raise my concerns."
+WHAT THIS ESTABLISHES:
+- ⭐ TAYLOR'S KNOWLEDGE of his proposed industrial activity FROM 2024 — s 290(b) protects a
+  person who "PROPOSES to engage" in industrial activity, and s 291 protection expressly
+  covers proposed activity. The manager now directing him without power has known of his
+  delegate path, in a documented sequence, for ~2 years.
+- The room had NO representation channel since 2021 — structural consultation failure,
+  feeding the support/organisational-justice hazard rows and the HSR-absence theme.
+- A PRIOR psychosocial departure from the SAME ROOM with QH "accountability" — a lead for
+  the nil-assessment thesis and the "injury of this kind has occurred" consequence limb
+  (⚠ his account; the referenced attachments are the proof — locate them).
+- The 2024→2026 arc: the department declined to progress his delegate role; he obtained it
+  anyway; they now direct the delegate without power, mid-dispute, over wages.
+PLACEMENT: union notification letter (the union can cite the 2024 history); Stage 2 (one
+sentence); adverse-action brief if ever needed. NEVER as grievance colour in the dispute.
