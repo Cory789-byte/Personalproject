@@ -684,3 +684,44 @@ submission.
 3. **Limb 1 cannot be beaten, only outweighed.** De novo is correct in law. The answer is not to
    argue estoppel but to make the Commission's fresh findings match the delegate's — on better
    evidence.
+
+### ⭐ AND LAWFULLY OBTAINED — the third requirement (Cory, 5 Aug 2026)
+The test is cumulative: **directly relevant · properly scoped · lawfully obtained.** Fail any one
+and the production was not authorised.
+
+**Lawfulness has three components here, and all three turn on the notice:**
+
+**1. A VALID NOTICE.** r 64C(1) requires the notice to (a) **state the matter in issue** about
+which the document is directly relevant, (b) be in the **approved form**, (c) be served on the
+non-party. **r 64B(2)** bars it altogether where another reasonably simple and inexpensive way
+of proving the matter exists.
+
+**2. PROPER SERVICE.** **r 24(1)** — the party by or for whom a document is filed or issued in a
+proceeding must serve it **on each other party**. The 4 July 2025 notice was Registry-issued, so
+it was issued in the proceeding. ⚠ Their answer will be r 24(2)(b); **their ¶25 never mentions
+r 24**.
+
+**3. ⭐ PRODUCTION CONFINED TO WHAT THE NOTICE VALIDLY COMPELLED.** This is the component not yet
+examined. Our Medical Ashmore is a **private practice**, so the **Privacy Act 1988 (Cth)** and
+the **Australian Privacy Principles** govern its disclosure of health information — not the
+Queensland IP Act. **APP 6** permits disclosure where **required or authorised by or under an
+Australian law**. A valid notice is such an authorisation **to the extent of its valid scope**.
+⇒ **If the notice was over-broad, disclosure of the out-of-scope material was not authorised by
+law** — regardless of the practice's good faith in complying.
+
+### The consequence if it was over-broad
+Material obtained otherwise than in accordance with law may be **excluded in the tribunal's
+discretion**, weighing the probative value of the evidence against the undesirability of
+receiving improperly obtained material. Not automatic, but real — and it bites hardest on the
+¶¶26–29 categories, which have no probative value on any view.
+
+### ⛔ THE DISCIPLINE — DO NOT ASSERT ILLEGALITY UNTIL THE NOTICE IS IN HAND
+This is exactly the error the earlier "do not plead unlawfully obtained" warning was aimed at.
+**The proposition is sound in principle and unprovable without the document.**
+
+**Sequence:** obtain the **4 July 2025 Form 29** → read (a) the stated matter in issue and
+(b) the date range → *then* assess relevance, scope and lawfulness → *then* decide whether to
+object at hearing.
+
+⇒ **Everything on this line waits on one Registry-sealed notice in his own matter.** The Registry
+holds it and so does the Respondent. **Request it.**
