@@ -1158,3 +1158,63 @@ changed, and they have been told of a development and said nothing.
 2. **Calderbank #3 after the mention** is the natural next step and should **recite this
    history** — the invitation declined, the undertaking unfulfilled, the detriment accruing.
 3. Skeleton already exists: `drafts/CEILING_SET/06_CALDERBANK3_SKELETON.txt`.
+
+## ⭐⭐⭐ WHAT ACTUALLY SOLVES IT — THE RESOLUTION PACKAGE (5 Aug 2026)
+
+### THE KEY INSIGHT: THERE IS NO LAWFUL PATH THAT LEAVES HIM UNPAID
+MSH has only three positions available on the exclusion:
+| Option | Consequence |
+|---|---|
+| **Return him to work** | **Wages resume** |
+| **Suspend under PS Act s 101** | ⭐ **s 101(4) presumes NORMAL REMUNERATION** |
+| **Division 5 (ss 103–109) incapacity** | A process with entitlements, never invoked |
+| ⛔ **The current position — excluded, unpaid, no instrument** | **The ONLY position that does not pay him, and the only one that is not lawful** |
+
+⇒ **The "no power" issue is not a grievance to be won. It is a LEVER — because every lawful
+answer costs MSH money, and the unlawful answer costs them more.** That is why Stage 1 is
+unanswerable and why it is solvable.
+
+### A — THE IMMEDIATE FIX (solves the no-power issue AND the runway)
+Either **restore him to work** on the ECC restrictions, **or**, if genuinely unable to
+accommodate now, place him on **PAID special leave under Directive 12/24 cl 6.1** with **cl 6.5
+reasons**, pending resolution. **Either way: pay resumes, backdated to 13 July; leave restored to
+the 25 June balance.** One step closes the exclusion, the pay, Stage 1 and most of Stage 2.
+
+### B — THE EMPLOYMENT POSITION
+- Return to the reduced-hours arrangement with adjustments **identified in writing** under
+  QH-IMP-401-5 · **OR** placement in a suitable alternative role (day hours, predictable roster,
+  no emergency code activation, reporting line **outside Corporate Services**, AO3+, substantive,
+  within reasonable travel of Coomera or hybrid).
+- **The return-to-duty decision made outside Corporate Services** — answers the s 89 letter with
+  no finding about anyone.
+- Medical and report costs reimbursed.
+
+### C — THE WORKPLACE (Layer 1 — never traded)
+Psychosocial assessment commissioned and funded by MSH, independently scoped, **terms of
+reference to the union before commencement**; delegate rights under cl 3.1.5–3.1.8 given effect
+for **all three** delegates; ss 47–49 consultation commenced.
+
+### D — THE APPEAL
+Regulator accepts or settles the claim. ⭐ **The lever is MSH's own 15 July statement** — no
+accepted claim means no rehabilitation obligation, so **the rejection is producing the
+detriment**. If MSH wants the employment problem to end, it needs the claim resolved. **MSH is
+the party that must press the Regulator.**
+
+### E — DEED SCOPE (protects everything else)
+**TWO deeds.** Regulator deed = **compensation claim only**. MSH deed = **employment position
+only**. Neither releases the PID track, the AD Act, WHS, or the assessment. Discipline rule 9.
+
+### ⭐ THE SINGLE MOVE THAT UNLOCKS IT: THE STAGE 2 REFERRAL, MON 10 AUG
+**cl 1.11.2(b) — the employer SHALL arrange a conference.** It costs nothing, it does not
+self-execute, and it puts a senior officer in a room where the question gets asked in front of a
+union officer:
+> *"I was certified fit with restrictions on 3 July. Every reason since given has been answered.
+> What is the current reason, and under what instrument?"*
+
+**There is no answer to that which does not pay him.**
+
+### SEQUENCE
+**Fri 7 Aug** mention — nothing about employment · **Mon 10 Aug** Stage 2 referral + IP Act
+application · **~17 Aug** Stage 2 conference — *this is where it resolves* · **Mon 24 Aug**
+cl 10.3.6 deemed refusal as the backstop · **then** Calderbank #3 to the Regulator, reciting
+whether the employment position was resolved.
