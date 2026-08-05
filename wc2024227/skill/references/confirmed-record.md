@@ -435,3 +435,51 @@ automatic stay. Sequence it deliberately and take advice before deploying.
   otherwise agreed; **r 64I** — the party pays the non-party's reasonable expenses.
   ⚠ **r 64I cuts against MSH's expense objections** — expenses are recoverable from Cory, so
   cost is compensable rather than a reason to refuse.
+
+### THE DISMISSAL CHAIN — verified from source 5 Aug 2026
+Source: `documents/2024-10-09_Cory_reply_DRAFT_to_abandonment_letter_Firoz_Johns.pdf` (3pp,
+rendered — the text layer is thin).
+
+**9 October 2024, 4:10 pm — LBH_HR → Cory** (to `Cory.Shepherd@health.qld.gov.au` **and**
+`coryshepherd1@hotmail.com`), subject *"Correspondence from the Executive Director, Logan and
+Beaudesert Health Service, Metro South Health"*:
+> *"I have attempted to call you this afternoon via your mobile phone number, however, was
+> unable to speak with you. Please find attached correspondence from **Mr Steven Johns, Acting
+> Executive Director, Logan and Beaudesert Health Service, Metro South Health** regarding your
+> employment at Logan Hospital."*
+
+⭐ **TWO NEW ACTORS:**
+- **Steven Johns** — **A/Executive Director, Logan and Beaudesert Health Service.** Author of
+  the abandonment correspondence.
+- **Faiza Firoz** — **HR Consultant, Human Resources, LBHS** (GCertEmpRel, BBus; she/her per
+  her own signature block), `faiza.firoz@health.qld.gov.au`, ph 07 2891 5906.
+  ⇒ Add both to the actors ledger and the **IP Act custodian list**.
+
+⚠ **The termination date is 8 Oct 2024 (Form 20 ¶43); the letter was transmitted 9 Oct at
+4:10 pm** — the day after.
+
+**HIS CONTEST (the disagreement), itemised in the draft reply:** the dates are wrong ("the
+**false dates of contact** included in this letter"); he was a **protected employee who had
+provided a work capacity certificate**; the letter was issued *"without proper diligence and
+due process, aiming to avoid overturning liability"*; HR *"purposely delayed and coerced the
+outcome of the WorkCover claim, with correspondence **twice exceeding a month over the 5 days
+allowed**"*; the directive breaches the **Fair Work Act, IR Act, Human Rights and the EB11 HHS
+agreement**; WorkCover had acknowledged a personal injury *"while making **no accommodations**
+… and disregarding any injury or work capacity certificates supplied"*; ⚠ the letter
+**referred to leave he took when his grandfather died**, which he called *"extremely offensive
+and inappropriate"*; the **fatigue pay** claim renewed (**7 hours, not including travel
+time**); and a **CCC complaint** already lodged.
+
+⚠⚠ **STATUS — HANDLE WITH CARE.**
+1. **It is a DRAFT, saved 28 July 2026 at 7:45 pm** — revisited during the current dispute, not
+   contemporaneous with October 2024. **Confirm whether any version was ever sent.**
+2. ⛔ **Its language must not travel into the WC track** — "wage theft", "coerced", "purposely
+   delayed", and the CCC reference. **Discipline rules 1 and 2.** The *facts* in it are usable;
+   the *characterisations* are not.
+3. ⭐ **The genuinely valuable content is items (1), (2), (6) and (7)** — the false dates, the
+   protected-employee/WCC point, the no-accommodations point, and the bereavement-leave
+   reference. Those are checkable against the letter itself.
+
+⛔ **STILL TO OBTAIN: the abandonment letter of 8 October 2024 itself** (the attachment to the
+9 Oct email). Only Cory's reply is in the repo. Every item of the disagreement is measured
+against a document we do not hold.

@@ -222,6 +222,60 @@ PH5 = [
 
 
 
+
+PH_DISMISSAL = [
+ ("18 Jun 2024", "Injury onset. Certified leave follows; work capacity certificates supplied "
+  "to HR <b>through WorkCover</b>, as HR had been advised",
+  "His account, draft reply: \u201cit has been advised to Ms Taylor that HR would receive "
+  "information and updates through WorkCover, including a work capacity certificate\u201d"),
+ ("12 &amp; 16 Jul 2024", "Required to attend meetings convened by management <b>while on "
+  "certified leave</b>", "Form 20 ¶42"),
+ ("30 Aug 2024", "<b>CCC complaint</b> lodged", "Referred back to MSH 22 Nov 2024"),
+ ("8 Sep 2024", "Work Capacity Certificate <b>signed</b> (Dr Hawes)",
+  "⚠ The Form 24 ¶36 says \u201cdated 1 July 2024\u201d. <b>The Respondent corrects it to "
+  "8 September 2024.</b> Fix every citation"),
+ ("8 Oct 2024", "⭐ <b>EMPLOYMENT TERMINATED</b> on the basis of \u201cabandonment of "
+  "employment\u201d", "Form 20 ¶43"),
+ ("9 Oct 2024 16:10", "⭐⭐ <b>THE LETTER IS TRANSMITTED.</b> LBH_HR \u2192 Cory at both his "
+  "work and personal addresses: \u201cI have attempted to call you this afternoon \u2026 was "
+  "unable to speak with you. Please find attached correspondence from <b>Mr Steven Johns, "
+  "Acting Executive Director, Logan and Beaudesert Health Service</b> \u2026 regarding your "
+  "employment at Logan Hospital.\u201d",
+  "Sent by <b>Faiza Firoz, HR Consultant, Human Resources, LBHS</b> \u2014 ⭐ <b>TWO NEW "
+  "ACTORS.</b> Note the letter is transmitted the <b>day after</b> the termination date"),
+ ("(the disagreement)", "⭐ <b>HIS CONTEST, itemised</b> \u2014 draft reply to LBH_HR: "
+  "<b>(1)</b> the <b>dates</b> in the letter are wrong \u2014 \u201cthe <b>false dates of "
+  "contact</b> included in this letter\u201d; <b>(2)</b> he is <b>a protected employee who "
+  "had provided a work capacity certificate</b> and was under medical treatment with a "
+  "psychiatric appointment upcoming; <b>(3)</b> the letter was issued <b>\u201cwithout proper "
+  "diligence and due process, aiming to avoid overturning liability\u201d</b>; <b>(4)</b> HR "
+  "\u201c<b>purposely delayed and coerced the outcome of the WorkCover claim</b>, with "
+  "correspondence <b>twice exceeding a month over the 5 days allowed</b>\u201d; <b>(5)</b> "
+  "the directive breaches the <b>Fair Work Act, Industrial Relations Act, Human Rights and "
+  "the EB11 HHS agreement</b>; <b>(6)</b> WorkCover had given Queensland Health an outcome "
+  "letter acknowledging a personal injury \u201cwhile making <b>no accommodations</b> for me "
+  "and disregarding any injury or work capacity certificates supplied\u201d; <b>(7)</b> ⚠ the "
+  "letter <b>referred to leave he took when his grandfather died</b> \u2014 "
+  "\u201cextremely offensive and inappropriate\u201d; <b>(8)</b> the <b>fatigue pay</b> "
+  "request renewed \u2014 <b>7 hours, not including travel time</b>; <b>(9)</b> he had "
+  "already lodged a <b>crime and corruption complaint</b>",
+  "⚠ <b>STATUS: a DRAFT, saved 28 Jul 2026 19:45</b> \u2014 i.e. revisited during the current "
+  "dispute. <b>Confirm whether any version was ever sent.</b> ⛔ It uses language "
+  "(\u201cwage theft\u201d, \u201ccoerced\u201d, the CCC reference) that <b>must not "
+  "travel into the WC track</b> \u2014 discipline rules 1 and 2"),
+ ("25 Oct 2024", "<b>TD/2024/110 \u2014 Form 12 application for reinstatement</b>, stamped",
+  "`related-matters/TD2024-110_Form12_Application_for_reinstatement_stamped_25.10.2024.pdf`"),
+ ("24 Oct 2024", "⭐ <b>Review Decision 69983</b> \u2014 the 7-hour break \u201camounted to "
+  "unreasonable management action\u201d; employment <b>a significant contributing "
+  "factor</b>", "⚠ Contents <b>admitted</b>, relevance reserved (de novo). Persuasive, "
+  "<b>not binding</b>"),
+ ("24 Dec 2024", "<b>PID 24-ESU-1130 determined</b> (Loader, ESU)", "Admitted, Form 24 ¶20"),
+ ("(2025)", "<b>Reinstated</b> following TD/2024/110",
+  "⛔ <b>EXACT DATE STILL TO SUPPLY.</b> The 26 Mar 2025 payslip carries "
+  "<b>$29,390.05</b> in prior-period adjustments with <b>Term loading, RL_Term and Life "
+  "Benefit ETP</b> codes \u2014 the termination package"),
+]
+
 PH_SUPPLY = [
  ("14 Jan 2024 08:06", "Taylor → Reese, \u201cUrgent Leave and Roster Update for Sunday, "
   "January 14th\u201d: reports Cory unable to attend the 0700\u20131500 shift on 15 minutes\u2019 "
@@ -591,6 +645,7 @@ def build():
         ("PHASE 2 — THE PLEADED PERIOD (Feb–May 2024)", PH2),
         ("PHASE 3 — ⭐ THE PID AND THE SHARED HR MAILBOX (13–28 May 2024)", PH3),
         ("PHASE 4 — INJURY, TERMINATION, REVIEW, DETERMINATION (Jun–Dec 2024)", PH4),
+        ("⭐⭐ THE DISMISSAL, THE LETTER AND THE DISAGREEMENT (Jun 2024 – 2025)", PH_DISMISSAL),
         ("PHASE 5 — REINSTATEMENT AND THE GRADUATED ARRANGEMENT (2025 – Jun 2026)", PH5),
         ("⭐⭐ THE MATERIAL SUPPLY CHAIN — MSH → THE REGULATOR (Jan 2024 – Jun 2026)", PH_SUPPLY),
         ("⭐ THE QIRC FILE — PLEADINGS, ADMISSIONS AND SUBMISSIONS", PH_QIRC),
