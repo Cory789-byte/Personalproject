@@ -1093,3 +1093,68 @@ whether continuing the defence was "without reasonable cause" under s 545(2)(a)(
 covering email and the response. **Retrieve both** before Calderbank #3 is drafted: the
 authorities relied on must be re-verified against primary sources, and any offer that repeats an
 unverified citation is worse than no offer.
+
+## ⭐⭐ THE SECOND WITHOUT-PREJUDICE APPROACH — 31 JULY 2026, 10:46 (UNANSWERED)
+`documents/correspondence-2026/2026-07-31_1046_Cory_WP_material-development_to_Matheson_SENT.pdf`
+Subject: **"WITHOUT PREJUDICE SAVE AS TO COSTS — WC/2024/227 Shepherd — material development"**
+
+### What it does, and it is carefully drafted
+1. ⭐ **It expressly does NOT revive the lapsed offer:** *"This letter does not revive my offer of
+   1 July 2026, which lapsed on 22 July 2026. **Any renewed offer will reflect the position as it
+   then stands.**"* ⇒ preserves the ability to make a **worse** offer later. Correct.
+2. **States the development as fact:** the 2 July direction; the 3 July ECC certifying fit with
+   restrictions; **MSH's own written acknowledgement that he had "been certified fit to return to
+   work effective from 3 July 2026"**; the direction not to attend continuing four weeks; no
+   wages; leave debited; medical costs self-funded; **IP benefits reduced then stopped at his own
+   direction because he had returned to work**; "no income from any source".
+3. **The 30 July position:** the further medical request is *"progressing for delegate approval"*
+   and MSH is *"unable to guarantee"* when it will be available. **No date.**
+
+### ⭐⭐ THE CORE ARGUMENT — made out of MSH's own words
+> MSH, **15 July 2026**: the obligation to provide rehabilitation and suitable duties under the
+> **WCRA** *"applies to workers with accepted workers' compensation claims, and **does not extend
+> to me**."*
+>
+> ⇒ *"**The consequence is that the decision under appeal is producing continuing detriment.**
+> That detriment is neither historical nor incidental to the appeal: **on the employer's own
+> stated reasoning, it is the reason I am without rehabilitation, without suitable duties and
+> without income. It accrues while the appeal remains, it presently has no end date, and it will
+> continue for as long as the rejection stands.**"*
+
+**That is the causal link between the appeal and the employment harm, and MSH supplied it.**
+No accepted claim ⇒ no rehabilitation obligation ⇒ the rejection under appeal *is* the cause of
+the loss. **This converts an employment grievance into a consequence of the Respondent's own
+decision** — and it is the strongest settlement argument in the file.
+
+4. **It uses their own 16 July words back:** *"I note the Respondent's advice of 16 July 2026 that
+   it would advise me as soon as possible should its position change. I ask that the Respondent
+   reconsider its position…"* Renewed invitation to confer.
+
+### ⛔ THE STATE OF IT AS AT 5 AUG 2026
+**UNANSWERED — five days.** And note the selectivity: Matheson replied on **3 Aug** to the
+**24 July disclosure request** (10 days old) but **not** to the **31 July without-prejudice
+letter** (3 days old at that point). **She answered the administrative request and not the
+settlement approach.**
+
+### The accumulating pattern for s 545(2)(a)(i)
+| | |
+|---|---|
+| 1 Jul | Offer served, **express invitation to confer**. **No conferral.** |
+| 16 Jul | *"We note its contents"* — **no reasons**, no counter, door expressly left open |
+| 31 Jul | Material development notified; reconsideration invited; **conferral invited again**; **their own 16 July undertaking cited back** |
+| 5 Aug | **No response** |
+
+⇒ **Two approaches, two invitations to confer, one unreasoned response, one non-response** —
+against an **accruing, open-ended detriment they have been told of in writing**.
+
+⚠ **HONEST LIMIT:** the Regulator is entitled to defend, a model litigant is not obliged to
+settle, and five days is not long. **This is accumulating material, not yet sufficient.** What
+gives it weight is the **16 July undertaking** — they said they would advise if their position
+changed, and they have been told of a development and said nothing.
+
+### ⛔ WHAT TO DO
+1. **Do NOT chase it.** Two approaches are on the record. A third before the mention dilutes the
+   pattern.
+2. **Calderbank #3 after the mention** is the natural next step and should **recite this
+   history** — the invitation declined, the undertaking unfulfilled, the detriment accruing.
+3. Skeleton already exists: `drafts/CEILING_SET/06_CALDERBANK3_SKELETON.txt`.
