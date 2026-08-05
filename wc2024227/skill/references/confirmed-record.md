@@ -1040,3 +1040,56 @@ appeal and cannot stop the reasons being written. So it manages the only thing i
 4. ⭐ **That is Friday's real function.** The **verification affidavit** converts MSH's abstract
    exposure into **a named officer's signature** — the CE or a delegated Director, with the
    searcher named under Schedule Part 1. Nothing else on the calendar does that.
+
+## ⭐⭐ THE CALDERBANK — WHAT IT CAN AND CANNOT DO IN THIS JURISDICTION
+### s 545 IR Act 2016 — VERIFIED VERBATIM (ATT22, current 1 Jan 2026)
+> **(1) A person must bear the person's own costs in relation to a proceeding before the court
+> or commission.**
+> (2) However, the court or commission may, **on application by a party**, order—
+> (a) a party to pay costs incurred by another party if satisfied—
+>   **(i) the party made the application or responded to the application vexatiously or without
+>   reasonable cause; or**
+>   **(ii) it would have been reasonably apparent to the party that the application or response
+>   … had no reasonable prospect of success**…
+
+⛔ **THIS IS A NO-COSTS JURISDICTION WITH A NARROW GATEWAY.** Unlike ordinary civil litigation,
+**a Calderbank offer bettered at hearing does NOT of itself found indemnity costs here.** Costs
+require **s 545(2)(a)(i) or (ii)** to be satisfied first — *vexatious*, *without reasonable
+cause*, or *no reasonable prospect of success*. **Do not represent to anyone that a Calderbank
+creates an automatic costs consequence in the QIRC. It does not.**
+
+⇒ **The Calderbank's real value here is (a) as a settlement device and (b) as evidence bearing on
+whether continuing the defence was "without reasonable cause" under s 545(2)(a)(i).**
+
+### CALDERBANK #2 — THE EVENT
+**1 Jul 2026 12:16** — served on Matheson **and** OIR-Appeals. Covering email:
+> *"1. a formal offer to resolve **the appeal and all related matters** … 2. **a bundle of the
+> authorities referred to in that offer**. The offer is open for acceptance for **21 days**…
+> **I am willing to discuss the terms of resolution at any time within that period, and would
+> welcome the opportunity to do so.**"*
+
+**16 Jul 2026 15:54 — the response, in full:**
+> *"I refer to your email and attached correspondence dated 1 July 2026 and **note its contents**.
+> The Respondent's position remains to defend the appeal as outlined in our Statement of Facts
+> and Contentions. **Should our position change at any point, we will advise you as soon as
+> possible.**"*
+
+### ⭐ WHAT THE RESPONSE ACTUALLY IS — read closely
+1. **It is not a reasoned rejection.** It does not engage with a single term, offers no counter,
+   and gives **no reasons**.
+2. ⭐ **It does not say the offer was unreasonable.** For any later s 545(2) argument, the
+   Regulator will need to show its refusal was reasonable. *"We note its contents"* is a thin
+   foundation.
+3. ⭐⭐ **"Should our position change at any point, we will advise you as soon as possible"** is
+   **not** the language of a closed door. A firm rejection ends. **This one is left open.**
+4. ⭐ **The offer expressly invited conferral. The response neither conferred nor explained.**
+   Declining an express invitation to confer, without reasons, tends against the reasonableness
+   of a refusal.
+5. **Timing: 15 days** into a 21-day window — inside the period, but no clarification sought and
+   no conference proposed.
+
+### ⛔ TO LOCATE
+**The offer document itself and its bundle of authorities are NOT in the repo** — only the
+covering email and the response. **Retrieve both** before Calderbank #3 is drafted: the
+authorities relied on must be re-verified against primary sources, and any offer that repeats an
+unverified citation is worse than no offer.
