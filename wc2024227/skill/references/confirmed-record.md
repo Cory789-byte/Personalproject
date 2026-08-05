@@ -1227,7 +1227,44 @@ whether the employment position was resolved.
 and s 113(2) WHS Act reverse the onus once protected activity, detriment and proximity are
 established. He does not have to prove why.
 
-### ⚠ BUT AS IT STANDS THE SEQUENCE PROVES PROXIMITY, NOT CAUSATION
+### ⛔ CORRECTED — THE LINK DOES NOT NEED TO BE PROVED. IT NEEDS TO BE DISPROVED.
+An earlier note today said "the link isn't proved", as though Cory bore the onus. **That is
+wrong in the forum that matters.**
+
+**s 306 IR Act 2016 — VERIFIED VERBATIM (ATT22, current 1 Jan 2026):**
+> **306 Reason for action to be presumed unless proved otherwise**
+> (1) Subsection (2) applies if— (a) **in an application in relation to a contravention of a
+> provision of this part**, it is alleged that a person took … action **for a particular reason**
+> …; and (b) taking that action for that reason … would be a contravention.
+> **(2) It is presumed that the action was … taken for that reason … UNLESS THE PERSON PROVES
+> OTHERWISE.**
+> (3) Does not apply to interim injunctions.
+
+⇒ **He establishes the objective facts. MSH must then PROVE the exclusion was not for a
+prohibited reason.** Same structure under **s 113(2) WHS Act** (a reverse **legal** burden).
+
+⚠ **FORUM IS EVERYTHING.** s 306 operates **"in an application in relation to a contravention of
+a provision of this part"** — i.e. a **general protections application**. It does **NOT** operate
+in the workers' compensation appeal, and it does **NOT** operate in a cl 1.11 certified-agreement
+dispute (which is about application of the agreement, not reasons).
+⇒ **The reverse onus is a reason to consider a general protections application. It is not
+something the internal dispute process will deliver.**
+
+### ⭐⭐ AND THE STRONGER POINT — THE CONTINUATION, NOT THE ADJACENCY
+**Every stated reason has been answered, and the exclusion continues.**
+| Stated reason | Answered |
+|---|---|
+| ECC / medical clearance (26 Jun, 2 Jul) | **3 Jul — fit with restrictions** |
+| Insufficient information on psychosocial hazards (7 Jul) | **3 Aug — Part 2A, four numbered items** |
+| Interim duties / timeframe (15, 30 Jul) | no reason given at all |
+
+⇒ **If every stated reason is spent and the exclusion continues, there is an unstated reason.**
+**Under s 306 they must say what it is and prove it is not a prohibited one.**
+
+⭐ **THIS DOES NOT DEPEND ON THE 25/26 JUNE LINK AT ALL.** The adjacency is a bonus. **The
+unexplained continuation is the case**, and it is self-proving from their own correspondence.
+
+### ⚠ The three gaps remain worth closing — but they are now enhancements, not prerequisites
 Three honest gaps:
 1. ⛔ **No link is proved between Legal receiving the application and the line manager writing
    the email.** Ruttan is Legal Services; Taylor is Corporate Services. **Nothing in the record
