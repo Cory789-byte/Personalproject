@@ -4141,3 +4141,123 @@ with two brochures attached. Answered every question in one email, same day.
 ⇒ CONTRAST WITH ALTIUS: 3 emails, no fee, no scope, no answers, colleague unnamed, still
   seeking a Teams call. PSYCH GROUP IS NOW THE PRIMARY PROVIDER for the tabled package.
 ⇒ Altius call (Thu 11am/1pm) still worth taking for a second data point ONLY.
+
+---
+
+# ═══ SESSION 5 AUG 2026 (evening) — RED TEAM, CONNECTION MAP, MASTER LOG ═══
+
+## 1. ALTIUS — CLOSED. Five paths, nil.
+Banked: `skill/references/ALTIUS-RED-TEAM-5AUG.md`.
+- **Path 1 — Altius on the claim file: NIL.** Grep of `corpus/FULL_CORPUS.md` (154 msgs
+  2020–2026), the claim documents, confirmed-record and all six packs. Altius/Glockling
+  appear NOWHERE before Cory's own 4 Aug 2026 enquiry. They hold nothing of his.
+- **Path 2 — Willson via Aussafe Consulting: NIL.** She was Senior Consultant there; no
+  corporate link to Altius (different businesses; Altius acquisitions don't include it).
+- **Path 3 — Willson ↔ Altius direct: NIL** (re-confirms the 4 Aug check).
+- **Path 4 — Altius ↔ QH/MSH contract: not found, NOT conclusive.** Registered govt
+  supplier in NSW (buy.nsw). Proper check = Metro South contract disclosure reports on the
+  Qld Open Data Portal.
+- **Path 5 — Altius ↔ OIR appeals: no ordinary channel.**
+- ⭐ **The one residual: a BOOK, not a network.** Glockling's LinkedIn = "QLD State
+  Manager, Executive Health Solutions" (an Altius division selling to large Qld employers).
+  His own contacts plausibly include health-sector clients. That is the exact risk Cory's
+  4 Aug 11:54 email addressed ("I'd ask that my enquiry not be raised with anyone on the
+  client side") — a request now in writing, dated, on file.
+- **Decision: do not take the Thu Teams call.** Written conflict questions only. Provider
+  question handed to Petering/Moran. Employer never named.
+- ⚠ Acknowledgement-of-Country footer is NOT a signal — universal in Australian
+  signatures. Recorded because it was tested and rejected.
+
+## 2. ⭐ CONNECTION MAP — the real links are INTERNAL
+Banked: `skill/references/CONNECTION-MAP-5AUG.md`.
+- ⭐⭐ **THE QIRC DISTRIBUTION LIST.** Registry sends every listing in WC/2024/227 to Cory,
+  Matheson, Appeals@oir, **Ruttan**, **Tribunalmatters@health.qld.gov.au (QH CENTRAL, not
+  Metro South)**, **Chris Thorburn**, **Lauren Griffin**. MSH is a NON-PARTY and four
+  MSH/QH addresses sit on the Commission's list. ⇒ **MSH HR cannot claim ignorance of the
+  appeal**; QH central has had continuous visibility.
+- ⭐ **Griffin ACTED, not just received.** 30 Apr 2026 15:59 she forwarded MSH
+  correspondence to the QIRC Registry herself, cc Ruttan/Matheson/Tribunal Matters, copying
+  Cory "by way of service". Signature: **Director, Employment Relations, Metro South HR**.
+- **MSH → Regulator witness channel** (lawful): Reese witness-conferencing 50pp, the 52MB
+  bundle, FRMS 47pp, QH Payroll 24pp — from the 14 Jul 2025 Quatrix production.
+- **ESU loop:** PID 13 May 2024 → CCC 30 Aug → CCC refers back to MSH 22 Nov → Loader
+  determines 24 Dec 2024.
+- **FALSE LEAD RESOLVED:** METADATA_REGISTER reads as though Lauren Griffin sits in
+  Commissioner Dwyer's chambers. She does not — "on behalf of the Chambers of Industrial
+  Commissioner Dwyer" describes the SENDER (QIRC Registry). Griffin is the last TO-name,
+  on a health.qld.gov.au address. Formatting artefact.
+
+## 3. ⭐⭐⭐ PAGE 7 READ FROM SOURCE — the Item 20 kill, and Harrison cleared
+Read `WC.2024.227_Shepherd_REG_disclosure_to_APP_11.06.2026.pdf` p 7 directly.
+> **From: LBH_HR · Sent: Wednesday, May 15, 2024 3:41 PM**
+> **To: Brendon Punch; Elise McGinley; Adriana McNamee**
+> "Please see email from Corey Shephard to ESU and CO Complaints regarding Chloe Taylor."
+> **Michelle Harrison — Support Officer, Human Resources, LBHS**
+
+**CORRECTIONS to the working theory:**
+1. In May 2024 Harrison was a **Support Officer, HR** — NOT Injury Management Consultant.
+   Her 2026 title is an ordinary role change. No inference available.
+2. She did not "handle" the PID. Cory addressed his 15 May 15:35 email to LBH_HR himself;
+   she routed it from the shared mailbox six minutes later.
+3. ⭐ **She routed it to three HR officers — NOT to Taylor, NOT to Reese.** On that page
+   hers is the correct step. **No Harrison↔Taylor connection is established.**
+4. The escalation to Taylor's Director was **Elise McGinley's** (A/Senior Consultant, HR),
+   16 May 11:43 → Reese + Tracey Smith, cc Punch/Pritchard/McNamee, attaching
+   "Chloe Taylor scc-complaint-form.docx".
+
+⭐ **WHAT PAGE 7 ACTUALLY IS:** an operational HR reaction to the PID, dated INSIDE the
+Item 20 window, naming six HR officers, attaching the complaint form, recording that HR
+knew ESU held the matter and was awaiting documentation. **MSH told the Commission that
+document "does not exist" (Item 20, reference "commenced in November 2024"). The
+REGULATOR produced it.** Affidavit ¶52, annexed CS-4.
+⭐ **The draft order already pre-empts the answer** — Schedule Part 2, Item 20 requires the
+deponent to address the 15–16 May 2024 correspondence "independently of when the reference
+'PID24-ESU-1130' was assigned."
+
+**NEW NAMES (all HR, LBHS, May 2024):** Elise McGinley (A/Senior Consultant) · Brendon
+Punch · Adriana McNamee · Mack Pritchard · Tracey Smith.
+
+## 4. ⚠ MY ERROR, CAUGHT BY CORY — the AD Act anchor
+I had been running an AD Act limitation of ~8 Sep 2026, anchored to the 8 Sep 2025 Hughes
+attendance letter. **Wrong.** The conduct founding an AD Act complaint is the exclusion and
+failure to provide work from 26 Jun / 3 Jul 2026 (**s 15(2)** — "dismissing includes…
+failure to provide work"), which is CONTINUING and puts any window in **2027**. Nothing is
+closing next month. The ask was removed from the union email. ⚠ ATT20 is current only to
+19 May 2025 — verify against a current consolidation before relying on any of it.
+
+## 5. DOCUMENTS BUILT THIS SESSION
+| File | What |
+|---|---|
+| `drafts/EMAIL_TO_UNION_context_and_assessment.txt` | Union email to Petering cc Moran. Six headings; IN SHORT hook; asks (a)–(d); delegate arrangements for **three** delegates; assessment as a union request in its own right; tracks kept separate |
+| `skill/references/THE-SEQUENCE-for-Stage2.md` | 25 Jun–5 Aug chronology + four propositions + the two sentences for the conference + the do-not-include list |
+| `skill/references/FROM-5JUNE-the-two-tracks.md` | Two tracks side by side, the actors ledger, the PID thread and where it sits in the 64G |
+| `drafts/out/LIST_OF_DOCUMENTS_WC2024227.pdf` | Appellant's List of Documents, 2pp landscape, 5 parts, for service on the Respondent |
+| `drafts/out/MASTER_LOG_PID_to_5Aug2026.pdf` | 5pp, nine phases, PID→5 Aug + forward calendar. ⛔ INTERNAL ONLY |
+| `drafts/build_disclosure_list.py`, `drafts/build_master_log.py` | Build scripts |
+
+## 6. ⛔ OUTSTANDING — CARRY FORWARD
+1. ⚠ **The last shift actually worked before 26 Jun 2026 is STILL unverified.** Settle from
+   `Shepherd_Payslips_FY2025-26_analysis.xlsx` + the roster. Decides how Phase 6 reads
+   against Phase 7. (CLAUDE.md task 6, still open.)
+2. ⛔ **PRESERVATION REQUEST NOT SENT.** Send before 7 Aug. Covers Form 29 categories,
+   employment records since 26 Jun, custodian mailboxes, Cory's own QH mailbox, and Solv.
+   Neutral, unarguable, starts a clock that only runs his way. Jones v Dunkel only becomes
+   available on an actual failure — never on assertion.
+3. ⛔ **Mailbox access unknown** — is `Cory.Shepherd@health.qld.gov.au` still accessible?
+   Taylor cc'd the hotmail address on both 26 Jun and 2 Jul.
+4. **IP Act application (10 Aug) is the ONLY route to the 2026 employment file** — Form 29
+   date ranges stop at 30 Jun 2024. Scope by named custodians (Harrison, Forrest, Hughes,
+   Taylor, Griffin, LBH_InjuryManagement, LBH_HR/LBH.HRTeam1, MSHR.EmploymentRelations),
+   period 1 Jun 2026→, described categories. **Add notes@solv.com.au.**
+5. **List of Documents — two scope decisions HELD for Cory:** (a) the 2026 employment
+   correspondence (in = imports the employment dispute into the appeal, discipline rule 8;
+   the ECC is in at Item 2 as medical); (b) the 2025 restricted category. **Serve AFTER
+   Friday** — the PID category should not go to the Respondent before order 6 is made.
+   Page-count placeholders `[n]` still to fill.
+
+## 7. DISCIPLINE NOTE
+Three escalating inferences were tested and set down this session (the AoC footer; the
+either/or; the ecosystem theory). Each was built on the same two Glockling scheduling
+emails. Discipline rule 1 held — **nothing reached paper.** The material that hurts MSH has
+been in their own documents every single time: the objection's admissions, the ECC, the
+payslips, the "unable to accommodate" statement, and now page 7.
