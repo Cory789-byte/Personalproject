@@ -1,7 +1,13 @@
-THE ASSESSMENT — UNION AND CE ROUTE. Banked 5 Aug 2026.
+THE ASSESSMENT — UNION AND CE ROUTE. Banked 5 Aug 2026. ⭐ REVISED per Cory: the request
+to the CE should come FROM THE UNION (organiser) THROUGH THE DELEGATE — not from him
+solo. His account becomes an ANNEXURE to the union's letter.
 SEQUENCE: (1) Union email THU 6 Aug (Petering back) → (2) mention FRI (silent) →
-(3) Stage 2 + RTI MON 10 → (4) CE letter MID-NEXT WEEK, union copied.
-⛔ The CE letter asks for NOTHING personal. That is what makes it unanswerable.
+(3) Stage 2 + RTI MON 10 → (4) UNION letter to CE, organiser-signed, delegate named,
+his account annexed.
+WHY: a CE-level request carries as INSTITUTIONAL correspondence; a solo employee letter
+gets routed to HR. It engages cl 3.1.5, cannot be characterised as leverage in his own
+dispute, and survives his settlement because the request belongs to the union.
+⛔ Whatever form his own account takes, it asks for NOTHING personal.
 ==============================================================================
 PART 1 — EMAIL TO THE UNION (send Thu 6 Aug, with the Psych Group email + brochures)
 ------------------------------------------------------------------------------
@@ -32,7 +38,20 @@ Director and Principal Psychologist) has replied in writing, attached. In summar
   · she invites the details to be passed to the relevant contact within the hospital for
     definitive scoping.
 
-My question for the union: would Together consider carrying this as a work-group matter?
+My questions for the union:
+
+(a) Would Together consider carrying this as a work-group matter, and would the union
+    write to the Chief Executive requesting the assessment? I think a request of this size
+    is a chief executive decision, and that it carries properly coming from the union —
+    from the organiser, through me as the workplace delegate — rather than from me alone.
+    Who would be the appropriate signatory?
+(b) Should it also be raised through the Health Consultative Forum (or its equivalent),
+    per clause 3.6.3?
+(c) If it would help, I can provide a short written account of the work of the room and
+    why I am raising it, to annex to the union's letter. I would rather it sat inside a
+    union submission than stand on its own.
+
+The reasons I think it should sit with the union rather than with me:
 The reasons I think it should sit with the union rather than with me are: the issues are
 collective (rostering, fatigue, workload, how complaints are handled) and affect operators
 who are still there; the room has had no delegate since 2021 and members currently have no
@@ -51,11 +70,12 @@ Cheers,
 Cory · 0417 400 227
 
 ==============================================================================
-PART 2 — LETTER TO THE CHIEF EXECUTIVE (hold until mid-next week; union copied)
+PART 2 — HIS ACCOUNT (⭐ intended as an ANNEXURE to the union's letter to the CE; usable
+as a standalone letter ONLY if the union declines to write)
 ------------------------------------------------------------------------------
-To: noelle.cridland@health.qld.gov.au · Cc: MetroSouthCorro; Together Queensland
-Subject: Switchboard Services, Logan Hospital — request for a psychosocial risk assessment
-of the work area
+[If annexed to the union's letter: head it "Annexure A — Account of the work area,
+provided by the workplace delegate" and delete the salutation and the final paragraph.]
+[If sent standalone: To noelle.cridland@health.qld.gov.au, Cc MetroSouthCorro and Together.]
 
 Dear Ms Cridland,
 
@@ -105,6 +125,11 @@ AO3, Switchboard Services, Logan Hospital
 
 ==============================================================================
 WHY THIS WORKS
+- ⭐ THE REQUEST COMES FROM THE UNION (organiser-signed, delegate named) = institutional
+  correspondence a CE must answer, not an employee letter HR can absorb; engages cl 3.1.5;
+  immune to any leverage characterisation; survives his settlement.
+- His account annexed = personal testimony carried inside an institutional ask, which is
+  where it is strongest.
 - Union first = the request gets an owner who survives his settlement; delegate status is
   notified by the union (third-party fact, not self-assertion); collective complaints and
   the HSR election get a proper home.
