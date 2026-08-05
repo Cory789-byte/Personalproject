@@ -4115,3 +4115,29 @@ provider enquiries finalised in drafts/ (sendable, non-MSH).
 - Standing: file note 4 Aug logged; Thu = Altius call + Petering back (delegate notice) +
   possible last-minute list; FRI 7 AUG MENTION — silent, procedural, consent-orders-
   with-dates rule armed.
+
+## 5 Aug 20:53 — ⭐ PSYCH GROUP RESPONDS IN WRITING (the quote is in hand)
+From Sarah Hellwege, DIRECTOR / PRINCIPAL PSYCHOLOGIST (not a BD manager), cc admin,
+with two brochures attached. Answered every question in one email, same day.
+- "Yes, we do provide the services aligned with your outline."
+- Most applicable: ⭐ PSYCHOSOCIAL RISK INFRASTRUCTURE AUDIT — reviews internal data
+  (surveys, reporting systems, claims, ROSTERS, policies) + interviews across WHS, HR,
+  senior executives, HSRs and workers "where risk is indicated"; in-depth report and
+  briefing with recommendations against state regs, codes of practice and ISO standards.
+- ⭐ COST: "$10-30,000 depending on the size of the review and number of interviews",
+  definitive price once "the client is available to scope the project".
+- Also offers psychosocial risk assessments (independently hosted/facilitated survey +
+  qualitative interviews, screens all active hazards, comprehensive report) — FREE as part
+  of a 12-month Partner Program.
+- Role-related risk assessment offered as a service; NOTE: an individual role-related
+  assessment "to inform either fitness for work, return to work or to guide a medical
+  practitioner" is a SEPARATE, individualised service. ⇒ answers Q5 affirmatively AND
+  distinguishes the two — exactly the separation the file already maintains.
+- ⭐ "please pass these details on to your relevant contact within the hospital for a more
+  definitive scoping and costing as required." — an EXPRESS invitation to table it.
+- Brochure: heat maps by team/work area, prevention plans, job (re)design, led exclusively
+  by registered psychologists, "direct experience inside a state regulator and an ongoing
+  consulting partnership with WorkSafe Victoria".
+⇒ CONTRAST WITH ALTIUS: 3 emails, no fee, no scope, no answers, colleague unnamed, still
+  seeking a Teams call. PSYCH GROUP IS NOW THE PRIMARY PROVIDER for the tabled package.
+⇒ Altius call (Thu 11am/1pm) still worth taking for a second data point ONLY.
