@@ -51,6 +51,38 @@ Keep **confirmed-against-source** strictly separate from **working-theory**. A m
 
 ## Current status (UPDATE EACH SESSION)
 
+### ⭐ AS AT 5 AUGUST 2026, EVENING — READ THIS FIRST
+The 3 August package **is sent** (records at `documents/sent-2026-08-03/`). The Stage 1
+response (v16) went **5 Aug 07:30**. The live fronts are now **Fri 7 Aug (64G mention)**,
+**Mon 10 Aug (Stage 2 referral + RTI/IP applications)** and **Mon 24 Aug (cl 10.3.6 deemed
+refusal)**.
+
+**New this session — read before re-deriving anything:**
+- `skill/references/THE-SEQUENCE-for-Stage2.md` — 25 Jun–5 Aug spine for the Stage 2 referral
+- `skill/references/FROM-5JUNE-the-two-tracks.md` — two tracks, actors ledger, PID thread
+- `skill/references/CONNECTION-MAP-5AUG.md` — ⭐ the QIRC distribution list; Griffin; page 7
+- `skill/references/ALTIUS-RED-TEAM-5AUG.md` — five paths, all nil. **Altius is CLOSED**
+- `drafts/out/MASTER_LOG_PID_to_5Aug2026.pdf` — 5pp, nine phases. ⛔ internal only
+- `drafts/out/LIST_OF_DOCUMENTS_WC2024227.pdf` — for service, **after Friday**
+- `drafts/EMAIL_TO_UNION_context_and_assessment.txt` — send Thu 6 Aug
+
+**⛔ CORRECTIONS — do not repeat these errors:**
+- **AD Act limitation is NOT ~8 Sep 2026.** The conduct is the exclusion/failure to provide
+  work from 26 Jun–3 Jul 2026 (**s 15(2)**), continuing ⇒ window is **2027**.
+- **Michelle Harrison was a Support Officer, HR in May 2024** (not Injury Management
+  Consultant), and she routed the PID material **to three HR officers, not to Taylor or
+  Reese**. No Harrison↔Taylor connection exists. The escalation to Reese was **McGinley's**.
+- **Lauren Griffin is NOT in Dwyer's chambers** — METADATA_REGISTER formatting artefact.
+- **The 64G does NOT reach the 2026 employment file** (Form 29 ranges stop 30 Jun 2024).
+  The **IP Act application** is the only route.
+
+**⛔ THREE THINGS STILL NOT DONE:**
+1. Verify **the last shift worked before 26 Jun 2026** (payslips + roster) — task 6 below.
+2. **Send the preservation request** — before 7 Aug.
+3. Confirm whether **Cory.Shepherd@health.qld.gov.au** is still accessible.
+
+---
+
 **As at 2026-08-02. ⭐ See `CURRENT.md` for the live layer — the 3 August package is FINAL:
 six documents, 26pp, five emails, zero placeholders, routing settled (Hughes on nothing, HR on
 the Taylor email only, CE letter solo). Full-picture read + two addenda at
