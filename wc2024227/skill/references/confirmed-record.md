@@ -782,3 +782,50 @@ Five s 32 blocks, AND-combined, 600 worlds × 40,000 draws, shared disposition f
 
 ⇒ **Two blocks carry 19 points of the 35.** Both are exactly the two limbs of the Regulator's
 case identified in the appeal-conduct read. **Everything else is noise by comparison.**
+
+## ⭐⭐ CALIBRATION AGAINST THE COMMISSION'S OWN ASSESSMENT
+⛔ **TO CONFIRM AND DATE: Cory reports the Commission assessed the matter at ~50/50 BEFORE MSH's
+letter, the amended Form 9A and the Form 29** — i.e. before **8 April 2026**. That points to the
+**27 Feb 2026 mention** or the **13 Mar 2026 s 552A conference**. **Record who said it, when, and
+in what setting.** If it was Commissioner Dwyer at the s 552A conference it is the
+decision-maker's own view and outweighs every model in this repo. ⚠ Note also that a "coin flip"
+at a conciliation conference is partly a settlement device — a real signal, not a considered
+prediction.
+
+### What has accrued SINCE that assessment
+**FOR — none of it existed at the baseline:**
+1. **Amended Form 9A, 8 Apr 2026** (the Neville pleading, Stressor 3(b)) — pleads the stressor
+   **individually**, which is what makes the *Mahaffey*/*Carr* argument available at all. The
+   baseline was struck on a pleading that invited *Delaney* global dilution.
+2. **Form 29 sealed 22 Apr 2026** — the disclosure machinery.
+3. ⭐ **MSH's letter, 5 Jun 2026** — the admissions: FRMS implemented only after 30 Jun 2024;
+   Switchboard excluded as "non-clinical"; complaints "managed solely via email or verbally",
+   not retained; "no consequential changes"; SPOK not retained; personal mobile outside the
+   retention policy. **The single biggest change. It attacks dilution, the largest driver.**
+4. **The Regulator's 11 Jun disclosure** — p 7, the operational HR response.
+5. **Form 20, 18 Jun 2026** — the deposed account + verification on oath.
+6. **The 64G, sealed 23 Jun 2026** — pending.
+
+**AGAINST:**
+1. **Amended Form 9C, 13 May 2026** — now *pleads* the pre-existing condition defence
+   (unpleaded at the baseline).
+
+⇒ **Admissions are established; the amended plea is an allegation still to be proved, and it runs
+against the Regulator's own delegate's Findings B and C, whose contents it has admitted.
+The accretion is materially in Cory's favour.**
+
+### The reconciled range (`fpa_top_5aug.py`, `fpa_appeal_5aug.py`)
+| State | P(win at hearing) | 80% CI | Favourable incl. settlement |
+|---|---|---|---|
+| **Report B NOT made — the actual position today** | **38%** | 33–44% | ~72% |
+| Report B made, mid case | **44%** | 39–49% | ~75% |
+| **Report B made + full weight to the admissions and the individual pleading** | **47%** | 41–52% (span to **58%**) | **~76%** |
+
+⭐ **THE ONE INPUT THAT HAS NOT MOVED SINCE THE 50/50 IS THE MEDICAL CASE.** Everything else has
+moved in his favour. The baseline assessment was almost certainly made assuming a medical report
+would exist. **It still does not.** The entire gap between 38% and the high-40s/50s is Report B.
+
+⚠ **DISCIPLINE — DO NOT TUNE TO A TARGET.** These are reasoned priors, and the temptation to keep
+lifting them to meet an expectation is the failure mode the method warns against. The defensible
+band today is **38% unreported / 44–47% reported, with a credible span reaching 58%**. State the
+range, never a point.
