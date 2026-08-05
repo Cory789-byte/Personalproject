@@ -1218,3 +1218,36 @@ union officer:
 application · **~17 Aug** Stage 2 conference — *this is where it resolves* · **Mon 24 Aug**
 cl 10.3.6 deemed refusal as the backstop · **then** Calderbank #3 to the Regulator, reciting
 whether the employment position was resolved.
+
+## ⭐ THE 25/26 JUNE ADJACENCY — WHAT IT PROVES, AND WHAT CLOSES THE GAP
+**25 Jun 2026 08:31** — sealed 64G served on **M Ruttan, MSH Legal Services** (Postmaster receipt).
+**26 Jun 2026 10:42** — **C Taylor, Corporate Services** creates the exclusion condition.
+
+**Cory's method is correct: put the two dates in a chronology and say nothing.** s 306 IR Act
+and s 113(2) WHS Act reverse the onus once protected activity, detriment and proximity are
+established. He does not have to prove why.
+
+### ⚠ BUT AS IT STANDS THE SEQUENCE PROVES PROXIMITY, NOT CAUSATION
+Three honest gaps:
+1. ⛔ **No link is proved between Legal receiving the application and the line manager writing
+   the email.** Ruttan is Legal Services; Taylor is Corporate Services. **Nothing in the record
+   shows the 64G was communicated to Taylor.**
+2. ⚠ **The 26 June email does not read as a reaction.** It opens with a welfare check, attaches
+   the EAP brochure, references the **5 May 2026 medical request as still outstanding**, and
+   cites WHS s 19. That reads as continuation of an existing medical-information process. **That
+   is the innocent explanation and it is a good one.**
+3. ⛔ **The last shift actually worked before 26 June is still unverified.** If attendance had
+   already stopped before 25 June, the sequence weakens substantially.
+
+### ⭐ WHAT CLOSES EACH GAP — all obtainable
+| Gap | How it closes |
+|---|---|
+| The Legal → Corporate Services link | ⭐ **IP Act application, 10 Aug** — named custodians **Ruttan, metrosouthlegal, Taylor, Hughes, Griffin, Thorburn**, window **24–27 June 2026**, category: any communication concerning the r 64G application or the Form 29. **Either it shows the link or it shows there wasn't one.** |
+| The last worked shift | **Payslips for pay dates ~1 Jul and ~15 Jul 2026** |
+| The innocent explanation | **The 5 May 2026 medical request** — obtain it and see what it asked and what had happened since |
+
+### ⚠ FORUM — this does NOT go to Dwyer on 7 August
+The mention concerns **MSH's objection to the Form 29**. The employment dispute reaches the
+Commission only by a **separate application** (cl 1.11 escalation → cl 1.12.1 → Award cl 7.2, or
+a general protections application). ⇒ **There is time to obtain all three before the dates are
+ever put to a member — and they should be obtained first.**
