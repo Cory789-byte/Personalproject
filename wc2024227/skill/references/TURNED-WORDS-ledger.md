@@ -73,3 +73,34 @@ a question or a fact. Nothing is sent this week; the reply of 4 Aug stands as fi
     shift as 13 JUNE — the exclusion narrative must now fit that date.
 ⚠ CAUTION: ART invites evidence of an April/May 2025 notification — provide ONLY what
 actually exists; the 16 Mar 2026 acknowledged notice is solid ground, never overclaim.
+
+## ⭐⭐⭐ 5 AUG — THE FOUR-SOURCE CONTRADICTION (the strongest entry in this ledger)
+11. **"Graduated return to work payment"** — QSuper/ART's OWN system category, generated
+    automatically on his claim (notification 5 Aug 16:12, covering 25-31 May 2026).
+    THE TURN: put four independent sources side by side —
+      (i) INSURER: pays "graduated return to work payments" on the claim (partial-capacity
+          category live since ~Apr 2025);
+      (ii) EMPLOYER'S OWN PAYSLIPS: supplied by MSH to ART covering 7 Apr 2025-14 Jun 2026,
+           i.e. the employer's own records evidencing ~14 months of work while on claim;
+      (iii) ECC 3 Jul 2026 (Dr Ma): "continuation of existing arrangement"; the pattern
+            "worked and tolerated over the past twelve months without deterioration";
+      (iv) EMPLOYER TO INSURER: "currently unable to accommodate a graduated return to
+           work due to the restrictions identified in your Work Capabilities Checklist."
+    ⇒ MSH claims it cannot do the thing it demonstrably DID for ~14 months, and the proof
+      it did it comes from documents MSH itself supplied. NONE of the four sources is his.
+    WHERE IT LANDS:
+      · cl 10.3.2/10.3.6 — the request is CONTINUATION, not novelty; refusal much harder.
+      · The "restrictions" reasoning — restrictions certified 3 Jul AFTER 14 months of the
+        same pattern; they described what was working, they did not create impossibility.
+      · s 32(5) manner — withdrawing an accommodation that operated for a year, without
+        assessment or consultation, is very hard to call reasonable in the manner.
+      · AD Act limb — the reasonable adjustment was not merely available: it was IN PLACE
+        AND REMOVED.
+    ⚠ PRECISION (the difference between unanswerable and correctable): "graduated return to
+      work" in the INSURANCE sense = working while on claim with earnings offsetting
+      benefit. It is NOT proof of a formally agreed reduced-hours instrument with MSH.
+      State it only as the sources state it: 14 months of work while on claim, evidenced by
+      the employer's own payslips, described in the Checklist as a continuation of existing
+      arrangement worked and tolerated without deterioration.
+    PLACE: Stage 2 referral (¶2.3 return to work); any cl 10.3.6 review; s 32(5)
+      submissions; AD Act limb if lodged. NOT in correspondence before Stage 2.
