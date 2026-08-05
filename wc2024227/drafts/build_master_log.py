@@ -60,8 +60,8 @@ TS = TableStyle([
     ("ROWBACKGROUNDS", (0,1), (-1,-1), [colors.white, colors.HexColor("#f2f4f7")]),
 ])
 
-def tbl(rows):
-    d = [[P("Date / time", hd), P("Event", hd), P("Source · significance", hd)]]
+def tbl(rows, h=("Date / time", "Event", "Source · significance")):
+    d = [[P(h[0], hd), P(h[1], hd), P(h[2], hd)]]
     for r in rows:
         d.append([P(r[0], bb), P(r[1]), P(r[2])])
     t = Table(d, colWidths=COLS, repeatRows=1); t.setStyle(TS); return t
@@ -218,6 +218,115 @@ PH5 = [
   "HR intermediary",
   "⭐ <b>Cory raised every element himself, in writing, to HR, with the union copied — "
   "eleven months before the 2026 exclusion.</b> ⚠ Contains restricted material"),
+]
+
+
+PH_QIRC = [
+ ("18 Jun 2024", "Injury. Claim → rejected → review",
+  "WCRA s 32(1): employment must be <b>a significant</b> contributing factor. "
+  "⛔ NEVER “major” — the 2013 test was repealed in 2019"),
+ ("24 Oct 2024", "⭐ <b>Review Decision 69983</b> — the Reviewing Officer finds the 7-hour "
+  "rostering “amounted to unreasonable management action” and is satisfied employment "
+  "was a significant contributing factor",
+  "⚠ <b>Admitted as a DOCUMENT, persuasive, NOT binding</b> (Notice ¶37 / Resp ¶34): "
+  "relevance reserved because the appeal is de novo. <b>Do not overstate it as conclusive</b>"),
+ ("(2024–25)", "Appeal filed — WC/2024/227, s 550(4) WCRA, Commissioner Dwyer", ""),
+ ("Jul 2025", "Regulator's Statement of Facts and Contentions (Form 9C) — original and the "
+  "13 May 2026 version", "`documents/2025-07_Regulator_SOFC_Form9C_original.pdf`; served via "
+  "Saines 22 Jul 2025"),
+ ("Aug 2025", "<b>Form 35 — withdrawal of Saines Legal (P Conrad)</b>. Self-represented from "
+  "this point", "`documents/filings/2025-08_Form35_Withdrawal…`"),
+ ("18 Feb 2026", "⭐⭐ <b>FORM 24 — Response to the Notice to Admit Facts</b>",
+  "The admissions the whole case now rests on. See the ledger below. "
+  "⚠ <b>Cite in NOTICE numbering</b> — Resp ¶N ≠ Notice ¶N after ¶25"),
+ ("17 Feb 2026", "Counsel unavailability; the mention moves 26 → 27 Feb", "Willson"),
+ ("27 Feb 2026", "Mention — <b>Willson appears</b>", ""),
+ ("13 Mar 2026", "<b>s 552A conference</b> — Willson appears", ""),
+ ("7 Apr 2026", "Mention — Willson appears; the <b>five-week response window</b> is set",
+  "Anchors the Respondent's amended SOFC to 13 May — exactly 35 days after the amended 9A"),
+ ("8 Apr 2026", "⭐ <b>AMENDED FORM 9A — Statement of Facts and Contentions</b> "
+  "(the Neville pleading, Stressor 3(b))",
+  "Stressors: 1 course of management conduct (a)–(g) · 2 remuneration · 3 statutory fatigue "
+  "breach · post-injury aggravation. ⚠ <b>MSH says it never received the amended 9A</b> — "
+  "5 Jun objection, opening paragraph"),
+ ("22 Apr 2026", "<b>Form 29 — Notice of Non-Party Disclosure sealed</b>; served on Matheson "
+  "and Thorburn", "20 Items. From this date MSH knows the categories sought"),
+ ("13 May 2026", "Regulator files its <b>amended SOFC</b>", "Willson does not appear at the "
+  "next listing"),
+ ("22 May 2026", "Mention — MSH non-attendance noted; MSH directed to object by 4pm Fri 5 Jun", ""),
+ ("(undated)", "<b>Outline of Submissions</b>", "`documents/WC2024227_Outline_of_Submissions.pdf` "
+  "— ⚠ confirm the filing date"),
+ ("18 Jun 2026", "<b>Form 4 + Form 20 + Form 21 certificates + draft order (v2)</b>",
+  "Filed and sealed 23 Jun. Draft order 3 = verification affidavit by the <b>CE or a "
+  "delegated Director</b>; order 6 = s 580 non-publication of the PID"),
+ ("1 Jul 2026 12:16", "<b>Calderbank #2</b> served on Matheson and the OIR appeals registry",
+  "s 545 IR Act costs consequence. <b>Rejected 16 Jul 2026 15:54</b>"),
+ ("24 Jul 2026", "Appellant requests the Respondent's list of documents", "Still outstanding"),
+ ("30–31 Jul 2026", "Without-prejudice “material development” letter to Matheson", ""),
+ ("3 Aug 2026 07:17", "Matheson replies on the disclosure list and the NNPD commitment", ""),
+]
+
+F24_ADMIT = [
+ ("¶1", "Rostered to finish 23:00 and recommence 06:00 — a <b>7-hour break</b>",
+  "⭐ <b>ADMITTED</b>"),
+ ("¶3", "Award / FRMS minimum <b>10 hours</b>, or 8 only by written agreement",
+  "⭐ <b>ADMITTED</b>"),
+ ("¶5", "The fatigue grievance; Reese's email acknowledging “a rostering error … "
+  "accidentally made by Chloe with regards to night shifts”", "<b>ADMITTED</b>"),
+ ("¶6", "The Line Manager <b>removed a page from the communication book</b>",
+  "<b>ADMITTED</b> — but not that it bore Cory's handwriting (¶7, “no copy of the "
+  "page”)"),
+ ("¶8", "The Switchboard procedure fact — “there was a procedure in place for this to "
+  "occur”. <b>The Form 20 ¶6 cites Para 8 for the patient-safety criticality admission</b>",
+  "<b>ADMITTED</b> ⚠ <b>PINPOINT CHECK</b> — confirm the criticality words sit at Notice ¶8 "
+  "before relying on them"),
+ ("¶14", "The communication book / 6 June 2023", "<b>ADMITTED</b>"),
+ ("¶17", "<b>QH-POL-248</b> Union Encouragement Policy requires a “positive, supportive "
+  "role”", "<b>ADMITTED</b> — policy wording only"),
+ ("¶20", "⭐ <b>The ESU determined the complaint to be a PID</b>", "⭐ <b>ADMITTED</b>"),
+ ("¶21", "The Director directed retraction within 48 hours of the PID",
+  "<b>ADMITTED</b> — but “<b>no correlation between the two events</b>”; a further "
+  "retraction email 21 May; “all emails to be read as a whole”. "
+  "<b>Event admitted, causation contested</b>"),
+ ("¶25", "No Form 29 was served on the Appellant before the Respondent obtained his medical "
+  "records", "<b>ADMITTED</b> — with the defence “no requirement … pursuant to s 64D”; "
+  "denies breach of r 64E"),
+ ("¶37", "⭐ The <b>Review Decision</b> and both findings",
+  "<b>CONTENTS ADMITTED, relevance reserved</b> (de novo)"),
+ ("¶40", "Payroll instructed the Line Manager to “submit an AVAC to correct these shifts”",
+  "<b>ADMITTED</b>"),
+ ("¶41", "The AVAC was not submitted until <b>28 May 2024 — a 25-day delay</b>",
+  "<b>ADMITTED</b> (delay admitted; justification contested)"),
+ ("¶46", "The Line Manager's 21 May “waiting payroll confirmation” email", "<b>ADMITTED</b>"),
+]
+
+F24_DENY = [
+ ("¶2", "The 7-hour roster <b>as unreasonable management action</b>",
+  "⚠ <b>DOES NOT ADMIT</b> — for the Commission. <b>Never tag ¶2 “admitted”</b>"),
+ ("¶4", "That there was <b>no written agreement</b>",
+  "⛔ <b>DENIED</b> — “in June 2020 the Appellant signed an agreement allowing an 8 hour "
+  "break”. <b>LIVE CONTEST — the single most important denial in the case</b>"),
+ ("¶9 / ¶19", "Failure to facilitate the delegate appointment for over 9 months",
+  "⛔ <b>DENIED</b> on three grounds (no request; support given; information provided). "
+  "<b>Stressor 1(g); Item 19's target</b>"),
+ ("¶12", "The communication book characterisation",
+  "DENIED — the Line Manager called it “a professional tool”"),
+ ("¶16", "Yelling as not reasonable management action",
+  "DENIED — “characterisation is for the Commission”"),
+ ("¶18", "The delegate-intention text as notification",
+  "Sending <b>admitted</b>; characterised “<b>not a formal notification</b>”"),
+ ("¶22", "The comparator email sent by the Line Manager on 9 May attracting no direction",
+  "⛔ <b>DENIED</b> — “circumstances were different”. <b>The disparate-treatment fact "
+  "Items 8–10 target</b>"),
+ ("¶¶42–45", "Pay disparity",
+  "⛔ <b>DENIED</b> — “the comparator does not represent a true comparator … "
+  "<b>the roster was equitable</b>”. ⭐ <b>THE contested fact Items 8/9/10 attack. "
+  "Anchor relevance here</b>"),
+ ("¶¶47–49", "Delay and a false or misleading statement",
+  "DENIED — “needed payroll confirmation”; “not false or misleading”; “no "
+  "lack of diligence”"),
+ ("¶50", "The Review Unit decision and a misleading statement by the Line Manager",
+  "Contents admitted, relevance reserved; <b>does not admit</b> a misleading statement"),
 ]
 
 PH6 = [
@@ -393,13 +502,21 @@ def build():
         ("PHASE 3 — ⭐ THE PID AND THE SHARED HR MAILBOX (13–28 May 2024)", PH3),
         ("PHASE 4 — INJURY, TERMINATION, REVIEW, DETERMINATION (Jun–Dec 2024)", PH4),
         ("PHASE 5 — REINSTATEMENT AND THE GRADUATED ARRANGEMENT (2025 – Jun 2026)", PH5),
+        ("⭐ THE QIRC FILE — PLEADINGS, ADMISSIONS AND SUBMISSIONS", PH_QIRC),
+        ("⭐⭐ FORM 24 LEDGER (18 Feb 2026) — WHAT IS ADMITTED", F24_ADMIT),
+        ("⛔ FORM 24 LEDGER — WHAT IS DENIED OR NOT ADMITTED (the live contests)", F24_DENY),
         ("PHASE 6 — THE FORM 29, THE OBJECTION AND THE 64G (Feb–Jun 2026)", PH6),
         ("PHASE 7 — ⭐ THE LOCKOUT AND WHAT FOLLOWED (26 Jun – 31 Jul 2026)", PH7),
         ("PHASE 8 — THE PACKAGE AND THE RESPONSE (3–5 Aug 2026)", PH8),
         ("PHASE 9 — THE FORWARD CALENDAR", PH9),
         ("OUTSTANDING", OUTSTANDING),
     ]:
-        s.append(P(title, h2)); s.append(tbl(rows))
+        if rows in (F24_ADMIT, F24_DENY):
+            s.append(P(title, h2))
+            s.append(tbl(rows, ("Notice ¶", "What was pleaded",
+                                "The Respondent's answer")))
+        else:
+            s.append(P(title, h2)); s.append(tbl(rows))
 
     s.append(Spacer(1, 7))
     s.append(P("Compiled from source documents. Admissions are cited to the Form 24; MSH's "
