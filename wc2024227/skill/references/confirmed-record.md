@@ -534,43 +534,56 @@ destroy, and we are simultaneously asking MSH to preserve its records. **No furt
 
 ## ⭐ THE PRE-EXISTING-CONDITION LINE — THE CORRECT POSITION (Cory, 5 Aug 2026)
 
-⛔ **CORRECTION.** An earlier framing today said the contention "did not exist until they went
-looking for it". **That is wrong and understates the position.**
+⛔ Two earlier framings today were wrong and are superseded. **This is the position.**
 
-**They had all the information. He put it forward. They had to look at it and confirm it — and
-they did.**
+**A pre-existing condition was never relevant and was never in issue before the claim.** Nobody
+held his GP records because nobody needed them — nothing indicated any such question.
 
-⇒ Squires made her findings **on the full material**, not in ignorance of it. The July 2025
-records trawl produced **no new information**; it produced **the same material the Regulator
-already held and had already assessed**.
+**What the claim, the WorkCover process and the review were about was the WORKPLACE.** That is
+the material he put forward. That is what the Regulator had to examine. And that is what its own
+delegate examined and confirmed:
+> **"unreasonable management action" · "work events were the sole cause" · "no pre-existing
+> factor or condition"** — Squires, 24 Oct 2024. Contents **ADMITTED**, Form 24 ¶37.
 
-⇒ **The amended SOFC ¶8 is not a discovery. It is a different conclusion drawn from evidence
-their own delegate had already examined and expressly ruled on.**
+**⭐ The workplace findings went against the Regulator.** The 7-hour break is admitted (¶1), the
+10-hour minimum is admitted (¶3), and the rostering was found to be in direct contradiction to
+the award.
 
-### What follows
-1. ⭐ **There is no "fresh evidence".** No new material, no materially changed circumstances, no
-   application to adduce new evidence. The Regulator is re-characterising material it held,
-   assessed, and made a finding about.
-2. ⭐ **They cannot plead ignorance.** The information was supplied by him and examined by them.
-   Their delegate's conclusion on that very material was **"no pre-existing factor or
-   condition"** and **"work events were the sole cause"** — contents **ADMITTED** (Form 24 ¶37).
-3. **The contention rests on material not before the Commission.** ¶8 says the records *"identify
-   a past medical history of anxiety"*, while their own answer places the asserted anxiety/ADHD
-   history from 26 Oct 2022 as **"missing from Exhibit A5"** — not in the exhibit produced.
-   Meanwhile the exhibit that *was* produced contains the **16 Nov 2023** entry: *"No
-   psychological illness such as depression/psychosis"*, and they concede they hold nothing
-   contemporaneous pre-2024 contradicting it. **Put them to proof of what they say their records
-   show.**
-4. **And it is not an answer anyway.** *"A past medical history of anxiety"* is **not** a
+**⭐ THEN they went digging.** The Form 29 to Our Medical Ashmore issued **4 July 2025** — after
+the appeal, after the workplace findings. The pre-existing contention appeared for the first
+time at **¶32 of the Admissions Response, 18 Feb 2026**, and was pleaded at **amended SOFC ¶8,
+13 May 2026**.
+
+⇒ **The contention is not the product of anything in the original material. It is the product of
+a search conducted after the workplace case had gone against them.**
+
+### ⚠ DISCIPLINE — state the sequence, never the motive
+The **dates** are facts and can be put. **Why** they went looking is an inference for the
+tribunal to draw, not a submission to make. Do not plead purpose. Set out the chronology and
+stop. (Discipline rule 1.)
+
+### The supporting limbs
+1. **No fresh evidence, no changed circumstances, no application to adduce new evidence** — only
+   a later search.
+2. **It rests on material not before the Commission.** ¶8 says the records *"identify a past
+   medical history of anxiety"*; their own answer places the asserted anxiety/ADHD history from
+   26 Oct 2022 as **"missing from Exhibit A5"** — not in the exhibit produced. The exhibit that
+   *was* produced records, at **16 Nov 2023**, *"No psychological illness such as
+   depression/psychosis"*, and they concede they hold nothing contemporaneous pre-2024
+   contradicting it. **Put them to proof of what they say their records show.**
+3. **It is not an answer in any event.** *"A past medical history of anxiety"* is not a
    pre-existing psychiatric injury. **s 32(1)** asks only whether employment was **a
    significant** contributing factor, and **s 32 covers aggravation as well as onset**.
+4. **The inconsistency.** Their own delegate ruled the opposite on the material that was
+   actually in issue. ⛔ Run it as **an inconsistency the Regulator must explain**, never as an
+   estoppel — the appeal is de novo.
 
 ### How to put it
-Not "the records are irrelevant" — causation is always in issue on a de novo appeal and that
-argument will not hold.
+Not "the records are irrelevant" — causation is always in issue de novo and that will not hold.
 
-> **"The Regulator had all of this material. I provided it. Its own delegate examined it and
-> found there was no pre-existing factor or condition and that work events were the sole cause.
-> Nothing new has been produced since. What has changed is the conclusion, not the evidence."**
-
-⛔ Run it as **an inconsistency the Regulator must explain**, never as an estoppel.
+> **"This claim was about the workplace. That is what I put forward and that is what the
+> Regulator examined. Its own delegate found the rostering was unreasonable management action,
+> that work events were the sole cause, and that there was no pre-existing factor or condition.
+> No question of a pre-existing condition arose at any point before or during the review. The
+> medical records were obtained afterwards, and the contention appears for the first time in
+> February 2026."**
