@@ -1288,3 +1288,42 @@ The mention concerns **MSH's objection to the Form 29**. The employment dispute 
 Commission only by a **separate application** (cl 1.11 escalation → cl 1.12.1 → Award cl 7.2, or
 a general protections application). ⇒ **There is time to obtain all three before the dates are
 ever put to a member — and they should be obtained first.**
+
+## ⭐⭐ GENERAL PROTECTIONS — VERIFIED. **SIX YEARS, NOT 21 DAYS.**
+**s 309 IR Act** — a person **"dismissed or … affected by another contravention of this part"**
+may apply to the commission to deal with the dispute.
+
+**s 310 — Time for application (VERIFIED VERBATIM, ATT22, current 1 Jan 2026):**
+> (1) An application **relating to dismissal** must be made within **21 days**…
+> **(3) An application relating to a contravention (other than dismissal) must be made within
+> SIX YEARS after the contravention occurs.**
+
+⇒ ⛔ **HE HAS NOT BEEN DISMISSED. The exclusion and non-payment are a NON-DISMISSAL
+contravention. THE LIMIT IS SIX YEARS. There is NO time pressure on this route at all.**
+**Every earlier anxiety about limitation on the employment track was misplaced.**
+
+**s 312 — conciliation before the application is heard.** ⭐ **Filing produces a CONCILIATION
+CONFERENCE with the employer required to attend** — which is what cl 1.11.2(b) Stage 2 is
+supposed to produce and may not.
+**s 311** — a filing fee is payable. **s 313** — arbitration if conciliation is unsuccessful.
+**s 306** — the reverse onus operates **only in this forum**.
+
+### ⇒ THE DECISION IS PURELY TACTICAL
+**FOR FILING NOW:** forces a conciliation conference with the employer present · **s 306 reverse
+onus operates** · the only forum where *they* must disprove · may accelerate resolution while the
+runway lasts.
+
+**FOR WAITING:** the internal procedure is **not exhausted** (Stage 2 not yet referred) —
+**prematurity is a real answer** · the record is compounding cheaply · filing converts "employee
+raising issues" into "litigant", which is the characterisation risk · a **filing fee** he can ill
+afford · and it opens a fifth track while unwell and unpaid.
+
+### ⭐ THE SEQUENCE THAT GETS BOTH
+1. **Mon 10 Aug — refer Stage 2.** One line, costs nothing, obliges MSH to arrange a conference.
+2. **In parallel — take advice on a general protections application** (Petering; and the WHS
+   s 115 multiple-actions interaction).
+3. **If Stage 2 produces nothing by ~17 Aug — file then**, with the internal procedure exhausted
+   and prematurity removed.
+
+⭐ **SIX YEARS MEANS HE NEVER HAS TO RUSH THIS. The only thing pushing him is money — and the
+answer to money is Centrelink and hardship arrangements, not a premature filing.**
