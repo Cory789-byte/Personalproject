@@ -483,3 +483,87 @@ time**); and a **CCC complaint** already lodged.
 ⛔ **STILL TO OBTAIN: the abandonment letter of 8 October 2024 itself** (the attachment to the
 9 Oct email). Only Cory's reply is in the repo. Every item of the disagreement is measured
 against a document we do not hold.
+
+---
+
+## ⭐⭐ THE FEBRUARY 2026 FORM 4 / SCHEDULE B — READ 5 AUG 2026 (not previously read)
+Source: `documents/filings/2026-02-27_Form4_Application_Disclosure_stamped.pdf` — 12pp,
+**no text layer, rendered**. Form 4 signed **25.02.2026**; grounds in a **9-page Supporting
+Schedule B**. Companion filings: `2026-02-25_Supplementary_Form4.pdf`,
+`2026-02-25_Supplementary_Affidavit_Form20.pdf`, `2026-02-26_Supplementary_Affidavit_stamped.pdf`,
+`2026-02-27_Affidavit_for_Form4_Disclosure_stamped.pdf`.
+
+Framework cited: **IR Act ss 536, 539, 541, 545, 580**; **Rules 8, 49, 64C, 64D, 64E, 64F, 226**;
+inherent jurisdiction to prevent abuse of process. ⭐ Note **r 64D was already cited by Cory in
+February 2026** — he was alive to the service point six months ago.
+
+### ⭐⭐⭐ REVIEW DECISION 69983 CONTAINS **THREE** EXPRESS FINDINGS (Exhibit B1, pp 25–27)
+Author: **Ms Victoria Squires, Senior Reviewing Officer, Review Unit** (corroborated,
+working-notes 2653).
+
+> **Finding A:** *"the rostering of these two shifts amounted to **unreasonable management
+> action** given that it was in **direct contradiction to the award and the 8-hour agreement**."*
+> **Finding B:** *"**work events were the sole cause**"* of the psychological injury.
+> **Finding C:** *"**there was no pre-existing factor or condition**."*
+
+⛔ **Findings B and C were NOT in confirmed-record before today.** Two consequences:
+
+**1. ⭐ FINDING C ANSWERS THE PRE-EXISTING-CONDITION RISK.** Earlier on 5 Aug I warned that the
+clean-baseline proposition (Form 24 ¶¶33–35) was contested because the Regulator asserts an
+anxiety/ADHD history from 26 Oct 2022 and pleads at amended SOFC ¶8 that it does not admit
+"because medical records identify a past medical history of anxiety". **That warning understated
+the position.** The Regulator's **own delegate expressly found there was no pre-existing factor
+or condition**, and the **contents of the Review Decision are ADMITTED** at Form 24 ¶37. The
+Regulator is contradicting its own Review Officer.
+
+**2. ⭐ FINDING A DEFEATS THE ¶4 DEFENCE.** Squires found the rostering contradicted the award
+**and the 8-hour agreement**. So even if the June 2020 8-hour agreement the Respondent asserts
+at Form 24 ¶4 exists, **a 7-hour break breaches it**. The agreement does not save them.
+⇒ Revise the earlier note: ¶4 is still their affirmative case and they must produce the
+agreement — **but producing it does not help them.**
+
+### THE FOUR GROUNDS (Grounds 1–2 read; 3–4 in the remaining pages)
+- **Ground 1 — the *Mahaffey* estoppel:** the s 32(5)(a) defence is legally unavailable. A roster
+  in "direct contradiction to the award" is an **objective breach of an industrial instrument**,
+  not managerial judgment, and cannot be "reasonable management action taken in a reasonable
+  way". Invites **strike-out of Form 9C ¶36**.
+- **Ground 2 — the *Church/Wicks* bar:** the unpleaded ADHD/anxiety causation defence, deployed
+  for the first time at ¶32 of the Admissions Response, is prohibited.
+
+### ⚠⚠ FIVE VULNERABILITIES IN SCHEDULE B — VERIFY BEFORE ANY RELIANCE
+
+**1. ⛔ RULE 226 DOES NOT SAY WHAT SCHEDULE B SAYS.** Verified verbatim against ATT27:
+**r 226 is "Effect of failure to comply with rules"** — it makes non-compliance an irregularity
+and gives powers to set aside, declare a document or step ineffectual, etc. **It is NOT an
+abuse-of-process provision.** Pleading a contradictory contention is not "a failure to comply
+with these rules". **r 226(2)(c) does not support the strike-out as framed.**
+
+**2. ⚠ s 545(2)(a)(i) is a COSTS provision**, not a strike-out power. Invoking it to invite a
+strike-out conflates costs with substantive relief.
+
+**3. ⚠⚠ THE "BINDING" FRAMING CONTRADICTS OUR OWN VERIFIED POSITION.** Schedule B says the
+findings "are not findings the Respondent can now litigate around". But Form 24 ¶37 answers
+**contents admitted, relevance reserved, "because the appeal is a hearing de novo and it is for
+the Commission to determine"**; confirmed-record records the findings as **"admitted as a
+DOCUMENT, persuasive, NOT as a binding determination — do not overstate as conclusive"**; and
+`case-law-and-directions.md` records that **"the review officer's global approach is not
+binding"**. ⇒ **Estoppel against a de novo hearing is a hard argument.** The findings are
+powerful evidence and a serious inconsistency the Regulator must explain — **not a bar.**
+
+**4. ⚠ CITATION INCOMPLETE.** Schedule B cites *"Mahaffey ICQ 10"* with **no year**. The
+verified citation is **Workers' Compensation Regulator v Mahaffey [2016] ICQ 10**.
+
+**5. ⚠ *Church* / *Wicks* / *Bird v Commonwealth* ARE NOT IN THE CASE-LAW FILE.** No primary
+source held. **Verify all three before any further reliance.**
+
+### AND THE LIMIT ALREADY BANKED
+`case-law-and-directions.md`: *Mahaffey* "still requires the unreasonable stressor to be a
+**significant** contributor to the injury — which is a **medical-causation** question". ⇒ Ground 1
+does not win alone. **Report B still has to tie the injury to the fatigue/rostering strand.**
+
+### ⛔ OUTSTANDING — THE OUTCOME IS UNKNOWN
+A 12-page application with four grounds, inviting a strike-out, was filed 25–27 February 2026.
+The next listings were the **27 Feb mention** and the **13 Mar s 552A conference**.
+**What happened to it? Was it determined, withdrawn, adjourned, or subsumed?** Nothing in the
+repo records the outcome. **Establish this before Friday** — it bears on what is already before
+Dwyer.
