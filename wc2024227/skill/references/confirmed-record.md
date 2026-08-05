@@ -975,3 +975,68 @@ and it puts the commitment on the record in front of the member.
 ### Still outstanding and NOT yet requested
 The **exhibit bundle A1–I2** served by Cory on 11–12 Feb 2026 (376pp). That is his own material;
 if his copies are incomplete, request it separately — it is not covered by the 24 July email.
+
+## ⭐⭐ POSITION AND OPTICS — THE RESPONDENT vs MSH (5 Aug 2026)
+
+### THE RESPONDENT (Regulator / Matheson / Willson)
+**Position:** defensible. Case = **de novo + global dilution + medical causation**. It has
+admitted the hard facts (7-hour break, 10-hour minimum, review contents, PID determination,
+retraction direction, AVAC delay, patient-safety criticality) and lost nothing by doing so,
+because the de novo character neutralises the delegate's findings.
+
+**Optics — better than commonly assumed, and this matters:**
+- It **volunteered the 11 June disclosure**, which was adverse to it, on advice, because the duty
+  compelled it. That is the single strongest optic any party holds.
+- Matheson has been courteous, **invited the Form 29 route**, offered informal disclosure, and
+  **apologised for delay**. Delay is a fortnight, not months.
+- Model-litigant conduct in form throughout.
+
+⚠ **Its worst optic: contradicting its own delegate.** A statutory body whose Review Officer
+found *"no pre-existing factor or condition"* now pleading a past anxiety history reads poorly to
+a member — legally permissible on de novo, optically weak.
+⚠ Second: the records were obtained **July 2025**, the contention pleaded **May 2026**, on
+material the delegate had already assessed.
+
+⇒ **NET: it can lose this appeal without institutional consequence. It has no reason to
+capitulate and every reason to run it. Do not expect it to fold.**
+
+### MSH (non-party)
+**Position:** no control over the outcome, but **the source of nearly all the evidence**.
+
+⛔ **Optics materially worse than the Regulator's — and worse than MSH likely realises:**
+1. ⭐ **The 5 June objection is a governance self-portrait**, not a disclosure position: the
+   emergency communications hub **excluded from the FRMS as "non-clinical"**; fatigue controls
+   implemented **only after the injury**; complaints **"managed solely via email or verbally"**
+   and **not retained**; **"no consequential changes"**; SPOK **not retained**; a line manager on
+   a **personal mobile outside the retention policy**.
+2. **"Non-clinical" sits against the ADMITTED patient-safety criticality** (Form 24 ¶8). Their
+   own words against an admitted fact.
+3. **Expense objections against r 64I** — which makes their reasonable expenses **recoverable
+   from Cory**. Resisting on cost when cost is compensable reads badly.
+4. **Parallel employment conduct**: the same worker excluded and unpaid, **no instrument named in
+   six weeks**, while their **Director of Employment Relations receives every QIRC listing**.
+5. **Non-attendance at the 22 May mention, noted on the record by the Commissioner.**
+
+**Honest counter:** MSH is a non-party with no duty to assist; r 64E objection is lawful; the
+employment track is not before Dwyer; and a non-party's governance record is not the Commission's
+business **until it is produced**.
+
+### ⭐⭐ THE ASYMMETRY — the whole strategic picture in one line
+**The Regulator can afford to lose. MSH cannot afford to be described.**
+
+The Regulator loses an appeal: a claim is accepted, a premium is paid, nothing institutional
+follows. **MSH is described in published reasons** as a health service that excluded its
+code-activation function from fatigue management until after a worker was injured.
+
+⇒ **The pressure to resolve sits on the party that cannot resolve it.** MSH cannot settle the
+appeal and cannot stop the reasons being written. So it manages the only thing it controls —
+**the employment relationship** — which is exactly what the last six weeks have been.
+
+### What follows
+1. **Do not expect the Regulator to fold.** Price settlement accordingly.
+2. **Expect MSH to move on the employment track**, because it is the only lever it holds.
+3. **A settlement resolving both requires MSH to press the Regulator** — which happens only when
+   MSH's exposure becomes concrete.
+4. ⭐ **That is Friday's real function.** The **verification affidavit** converts MSH's abstract
+   exposure into **a named officer's signature** — the CE or a delegated Director, with the
+   searcher named under Schedule Part 1. Nothing else on the calendar does that.
