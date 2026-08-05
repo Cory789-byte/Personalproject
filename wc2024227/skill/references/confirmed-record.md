@@ -587,3 +587,71 @@ Not "the records are irrelevant" — causation is always in issue de novo and th
 > No question of a pre-existing condition arose at any point before or during the review. The
 > medical records were obtained afterwards, and the contention appears for the first time in
 > February 2026."**
+
+## ⭐⭐ WHY THE REGULATOR HAS RUN THE APPEAL THE WAY IT HAS — the read, 5 Aug 2026
+
+### The problem the review decision created for them
+Squires **rejected the claim** — but on a **global (Delaney)** assessment, and in doing so she
+made three findings that are devastating on the **individual-stressor (Mahaffey/Carr)** approach:
+**A** unreasonable management action, in direct contradiction to the award; **B** work events the
+sole cause; **C** no pre-existing factor or condition.
+
+⇒ **If the Commission assesses stressors individually, the Regulator's own review decision
+supplies every element of the appellant's case.** A gives the unreasonable action, B gives
+causation, C forecloses the alternative.
+
+### Their case therefore has exactly three moves, and no others
+**1. NEUTRALISE THEIR OWN FINDINGS VIA DE NOVO.** Form 24 ¶37 — contents admitted, **relevance
+reserved "because the appeal is a hearing de novo and it is for the Commission to determine"**.
+This is the only escape from A, B and C, which is why the de novo point is repeated so
+consistently. They cannot attack the findings; they can only deny them binding force.
+
+**2. GLOBAL DILUTION.** Keep every other stressor characterised as reasonable so the one
+unreasonable action is diluted across the whole course of conduct. *Delaney* against
+*Mahaffey*/*Carr*.
+⚠ Supported by the **¶4 denial** asserting a June 2020 8-hour agreement — which softens A but
+does not save it, since **Squires found the rostering contradicted the award *and* the 8-hour
+agreement**, and 7 < 8.
+
+**3. ⭐ ATTACK MEDICAL CAUSATION — the only limb their delegate's findings do not protect.**
+Even on *Mahaffey*, the unreasonable stressor must be **a significant contributing factor**.
+That is a **medical** question, and the file contained nothing to fight it with.
+⇒ **Hence the records.** Form 29 to Our Medical Ashmore **4 July 2025**; the SOFC (Form 9C) was
+served via Saines **22 July 2025**. **The medical trawl and the pleading were built together.**
+The pre-existing contention then appears at **¶32 AR, 18 Feb 2026** and is pleaded at **amended
+SOFC ¶8, 13 May 2026**.
+
+### ⇒ The medical trawl is not a side-issue. It is the necessary consequence of the findings.
+A is admitted and unassailable. B and C are their own delegate's. **The only ground left to fight
+on is causation, and to fight there they needed material the file did not contain.**
+
+### The later conduct fits the same shape
+- **MSH's objection** resisting the fatigue, complaint and FRMS categories — production there
+  confirms and extends **A**, and makes global dilution harder.
+- **Witness conferencing (Reese, 50pp)** — building the "reasonable" characterisation of the
+  other stressors, which is what dilution requires.
+- **Willson** (WHS-specialist counsel) briefed through the pleading contest and standing down
+  after the amended SOFC was filed on 13 May — **the pleading was the battlefield**.
+
+### ⚠ THE HONEST COUNTER — this is explicable without bad faith
+On a de novo appeal the Regulator's duty is to test the claim afresh and to assist the
+Commission. **Obtaining full medical records in a psychiatric-injury appeal is standard, arguably
+required** — causation must be proved again, not assumed from the review. A review officer's
+findings genuinely do not bind, and it would be improper to adopt them if the Regulator considers
+them wrong.
+⇒ **Do not allege strategy or purpose.** State the sequence. The *effect* — that a claim their own
+delegate found was solely caused by work events with no pre-existing factor is now resisted on a
+pre-existing-factor theory built from records obtained afterwards — is visible without a word of
+submission.
+
+### ⭐ THE STRATEGIC CONSEQUENCE — and it is the useful part
+**Their case is narrow: de novo + global dilution + medical causation. There is nothing else.**
+1. **Remove the medical causation limb and very little remains.** ⇒ **Report B is the appeal.**
+   Not the admissions, not the disclosure. It must tie the injury to the **fatigue/rostering
+   strand specifically**, not to the cumulative conduct generally.
+2. **The 64G attacks limb 2.** Production confirming the FRMS vacuum, the complaint traffic and
+   the absence of any risk assessment makes the other stressors harder to characterise as
+   reasonable — which is what dilution depends on.
+3. **Limb 1 cannot be beaten, only outweighed.** De novo is correct in law. The answer is not to
+   argue estoppel but to make the Commission's fresh findings match the delegate's — on better
+   evidence.
