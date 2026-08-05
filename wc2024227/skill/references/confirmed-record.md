@@ -633,12 +633,41 @@ on is causation, and to fight there they needed material the file did not contai
 - **Willson** (WHS-specialist counsel) briefed through the pleading contest and standing down
   after the amended SOFC was filed on 13 May — **the pleading was the battlefield**.
 
-### ⚠ THE HONEST COUNTER — this is explicable without bad faith
-On a de novo appeal the Regulator's duty is to test the claim afresh and to assist the
-Commission. **Obtaining full medical records in a psychiatric-injury appeal is standard, arguably
-required** — causation must be proved again, not assumed from the review. A review officer's
-findings genuinely do not bind, and it would be improper to adopt them if the Regulator considers
-them wrong.
+### ⚠ THE HONEST COUNTER — and its LIMIT
+On a de novo appeal the Regulator must test causation afresh; it does not simply adopt the
+review. Seeking **medical evidence bearing on the psychiatric injury and its causes** is proper
+and ordinary.
+
+### ⛔ BUT THAT ENTITLEMENT DOES NOT AUTHORISE A FREE TRAWL — IT HAD TO BE SCOPED
+An earlier note said "obtaining full medical records … is standard, arguably required".
+**That is too broad and is withdrawn.** Obtaining *relevant* medical evidence and taking the
+*whole file* are different acts, and the Rules distinguish them:
+
+- **r 64B(1)(a)** — the document must be **directly relevant to a matter in issue**. Not
+  "might contain something relevant".
+- **r 64C(1)(a)** — the notice **must state the matter in issue** about which the document
+  sought is directly relevant. A notice that cannot name the matter cannot justify the breadth.
+- **r 64B(2)** — unavailable where another reasonably simple and inexpensive way exists.
+
+⭐ **THEIR OWN ANSWER CONCEDES THE TEST THEY APPLIED.** Response ¶26 to Notice ¶¶26–29:
+> *"denies the fact that details contained in the records are not relevant because, **read as a
+> whole**, the medical records are relevant in that they tend to prove or disprove an allegation
+> in the proceeding."*
+
+**"Read as a whole" is not the test.** Answering a specific-irrelevance objection with a
+whole-of-record justification concedes that the individual documents were never assessed for
+direct relevance. And the four specific categories identified at Notice ¶¶26–29 were not
+addressed individually at all.
+
+⇒ **The scope point, not the service point, is the real objection.** A notice confined to
+psychiatric and psychological history, or to a date range tied to the pleaded onset, would have
+been unobjectionable. What issued was not confined.
+
+⛔ **OBTAIN THE 4 JULY 2025 FORM 29 AND READ TWO THINGS:** (a) the **stated matter in issue**
+under r 64C(1)(a); (b) the **date range** — Response ¶23 says the records were obtained *"in a
+date range in line with"* the notice, so a range exists. If it reaches back well before any
+pleaded onset, that is the trawl on the face of their own document. **This is the single most
+useful document not yet in the repo.**
 ⇒ **Do not allege strategy or purpose.** State the sequence. The *effect* — that a claim their own
 delegate found was solely caused by work events with no pre-existing factor is now resisted on a
 pre-existing-factor theory built from records obtained afterwards — is visible without a word of
