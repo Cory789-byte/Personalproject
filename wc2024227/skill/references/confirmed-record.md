@@ -872,3 +872,47 @@ case he has already said could go either way.
 ⇒ **Frame the 64G exactly that way if the opportunity arises:** the application is directed at
 putting the Commission in possession of the records needed to determine a matter that is not
 clear-cut. **Not "they are hiding things" — "the Commission should have the whole record."**
+
+## ⭐⭐ DWYER'S FURTHER DIRECTIONS ORDER, 7 APRIL 2026 — the most under-weighted document in the file
+Source: `documents/orders/2026-04-07_Further_Directions_Order.pdf` (no text layer; rendered).
+Header: **"Appeal against decision of Respondent pursuant to section 549"**. Signed
+**J.C. Dwyer, Industrial Commissioner**, 7 April 2026.
+
+1. Appellant granted **leave to file an amended SOFC "in the same form as the draft provided on
+   7 April 2026"** by 4:00pm 8 April.
+   > **NOTE (a): "For psychiatric/psychological injuries, facts must include a concise LIST OF
+   > STRESSORS the Appellant asserts led to the sustaining of the psychiatric/psychological
+   > injury."**
+   > NOTE (b): no supporting or additional documents to be attached.
+2. Respondent to file its amended SOFC by 4:00pm **13 May 2026**.
+3. Further mention before Dwyer, date to be advised, **not before 13 May 2026**.
+
+### ⭐ WHY THIS MATTERS MORE THAN ANYTHING ELSE ON BLOCK 4
+**Dwyer directed the case be pleaded as a LIST OF STRESSORS.** That is the
+***Mahaffey*/*Carr* individual-stressor structure**, not the ***Delaney*** global-course
+structure. The Commission's own directions frame the matter as **discrete stressors to be
+assessed**, which is the framing on which a single admitted unreasonable stressor can carry the
+appeal.
+⇒ **Block 4 (defeating s 32(5)(a)) was materially under-priced.** He also granted leave **in the
+same form as the draft, the same day** — no reservation about the amended pleading.
+
+## MATHESON — THE PATTERN
+- **11–12 Feb 2026:** Cory serves Form 4, Form 20, Form 24 and **376 pages of exhibits**
+  (134 + 126 + 116). Matheson acknowledges receipt and waives hard copy.
+  ⭐ **THE EXHIBIT BUNDLE (A1–I2) IS THEREFORE IN THE REGULATOR'S HANDS.** It is not in this
+  repo. **Request a copy from Matheson or the Registry — this closes the exhibit gap.**
+- **20 Mar 2026 (after the s 552A conference):** *"if the documents are in the possession of the
+  Regulator, you can email me a request for those documents and **I will disclose them to you
+  without the need for a Notice to Produce**. However, should there be documents you want
+  directly from your employer, I confirm that you would need to complete a Notice of Non-Party
+  Disclosure (form 29)."*
+  ⭐⭐ **TWO CONSEQUENCES.** (a) **The Form 29 was taken on the Regulator's own express advice** —
+  no suggestion of an improper or aggressive step survives. (b) **Her offer of informal
+  disclosure on request is still open and UNEXHAUSTED.** A specific written request for
+  identified documents costs nothing and bypasses the list.
+- **24 Jul 2026:** Cory requests her list of documents. **3 Aug 2026 07:17:** reply re the list
+  and an NNPD commitment. **Nothing has actually arrived.**
+
+⇒ **Cooperative in form, slow in substance, nothing delivered.** This does not affect the merits.
+It affects **runway** — the largest single value-destroyer in the matter — and it is a settlement
+signal: a party confident of winning discloses and presses on.
