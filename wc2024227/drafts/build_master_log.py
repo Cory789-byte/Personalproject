@@ -221,6 +221,96 @@ PH5 = [
 ]
 
 
+
+PH_SUPPLY = [
+ ("14 Jan 2024 08:06", "Taylor → Reese, \u201cUrgent Leave and Roster Update for Sunday, "
+  "January 14th\u201d: reports Cory unable to attend the 0700\u20131500 shift on 15 minutes\u2019 "
+  "notice, that she called another staff member in, and <b>attaches his text messages</b> "
+  "(IMG_0973, IMG_0974)", "The texts disclose a <b>family police matter concerning his sister, "
+  "then 15</b>. ⚠ <b>Cory had NO party status \u2014 neither aggrieved nor respondent</b> "
+  "(corrected on his instruction 31 Jul / 2 Aug 2026). <b>Wholly separate from the Feb\u2013Mar "
+  "2025 matter</b>"),
+ ("1 Jul 2025 10:03", "⭐ <b>Taylor forwards the 14 Jan 2024 chain TO HERSELF</b>, carrying "
+  "IMG_0973 and IMG_0974", "Sixteen months later. The retrieval step"),
+ ("4 Jul 2025", "<b>Medical-records Form 29 signed by a Senior Registry Officer</b> "
+  "(Respondent\u2019s own Response ¶23)", "⭐ <b>Issued in the proceeding ⇒ r 24(1) required "
+  "service on each other party.</b> Never served on Cory. See ATT27 and confirmed-record"),
+ ("10 Jul 2025 14:48", "⭐⭐ <b>TAYLOR → MATHESON</b> (Senior Appeals Officer, OIR), subject "
+  "\u201cWC/2024/227 \u2026 Request for documentation\u201d, marked <b>High importance</b>, "
+  "attaching <b>eight items</b> \u2014 Communication Book Update · Increase of hours and "
+  "Workplace issues · <b>Urgent Leave and Roster Update for Sunday January 14th (carrying the "
+  "text images)</b> · Line Manager addressing Pay Concerns · Validation of Claims · Office "
+  "Hours and Departmental Directives · Respiratory Nurse Educators",
+  "⭐ <b>The private family-matter disclosure is supplied to the Regulator by the Line "
+  "Manager</b>, in answer to a request about lateness. <b>Over-supply:</b> the material has no "
+  "connection to any pleaded workplace event"),
+ ("~before 16 Jul 2025", "Regulator receives the GP records from Our Medical Ashmore",
+  "Exhibit A5. Response ¶23"),
+ ("14 Jul 2025", "Matheson emails Cory directly saying she had \u201creceived last week\u201d "
+  "documents", "Notice ¶32. Admitted as <b>sent in error</b> \u2014 should have gone to his "
+  "solicitors; Respondent says the medical records were <b>not yet in its possession</b>"),
+ ("22 Jul 2025", "Regulator serves the <b>unredacted</b> GP records on Cory\u2019s former "
+  "solicitors", "Notice ¶30, <b>admitted</b>. Not notified the solicitors had ceased acting "
+  "until <b>29 Jul 2025</b>"),
+ ("13 May 2026", "⚠ <b>Regulator\u2019s amended SOFC ¶8:</b> does not admit the allegations "
+  "\u201c<b>because medical records identify a past medical history of anxiety</b>\u201d",
+  "⭐ <b>The supplied material lands in a file running a pre-existing / non-work line.</b> "
+  "This is why the over-supply matters"),
+ ("11 Jun 2026", "Regulator discloses the 15\u201316 May 2024 HR correspondence",
+  "Exhibit CS-4. The disclosure that falsifies Item 20"),
+]
+
+PH_VERIFIED = [
+ ("Form 24 ¶8", "⭐ <b>PINPOINT CONFIRMED.</b> Notice ¶8 IS the patient-safety criticality "
+  "statement; Response ¶8 <b>\u201cadmits the facts contained therein\u201d</b>",
+  "⚠ But <b>¶9 is DENIED</b> \u2014 the criticality is admitted, the consequence of the "
+  "removal is not"),
+ ("Form 24 text layer", "⛔ <b>pdftotext DROPS every exhibit reference, date and quoted "
+  "phrase.</b> Render with pdftoppm", "Added to CLAUDE.md source-integrity rules. Full "
+  "register at FORM24-VERIFICATION-5AUG.md"),
+ ("Form 24 exhibits", "Sixteen exhibits recovered. <b>Only A1, A5 and B1 confirmed held.</b> "
+  "Eight not held \u2014 C2, D1, D2, E3, F2, F3, H1, I2",
+  "⚠ ¶¶42\u201345 (pay disparity) rest on <b>D1, not in hand</b>. <b>I2 the Respondent holds "
+  "and we do not.</b> FORM24-EXHIBITS-AND-ADMISSION-LAW.md"),
+ ("Admissions", "<b>\u201cFor this proceeding only.\u201d</b> None of them operate in the "
+  "employment track, an AD Act complaint, or before the CE",
+  "\u201cDoes not admit\u201d ≠ \u201cdenies as untrue\u201d. <b>¶4 is their affirmative "
+  "case \u2014 make them produce the June 2020 agreement</b>"),
+ ("⭐ r 24(1)", "⛔ <b>THE EARLIER \u201cNO DUTY TO SERVE\u201d CONCLUSION WAS WRONG.</b> "
+  "<b>r 24(1):</b> the party by or for whom a document is <b>filed or issued in a "
+  "proceeding</b> must serve it on <b>each other party</b>",
+  "The 4 Jul 2025 Form 29 was Registry-issued ⇒ r 24(1) applied. r 64D(1)(a)\u2019s "
+  "\u201cother than a party\u201d avoids duplication, not exemption. ⚠ They will run "
+  "r 24(2)(b); <b>their ¶25 never mentions r 24</b>"),
+ ("⭐ r 64B(2)", "<b>THRESHOLD PROHIBITION:</b> a party <b>may not</b> require production where "
+  "<b>another reasonably simple and inexpensive way</b> of proving the matter is available",
+  "He was a party, represented, and they are his own records. <b>Never answered by the "
+  "Respondent</b>"),
+ ("r 64E(2) + 64F", "<b>LIVE REMEDY:</b> a person affected who was not served may object "
+  "<b>at any time with leave</b>; an objection <b>operates as a stay</b>",
+  "Grounds: relevance · privilege · confidentiality · effect on any person · should have "
+  "been served"),
+ ("r 64I", "The party <b>pays the non-party\u2019s reasonable expenses</b> of production",
+  "⭐ <b>Cuts against MSH\u2019s expense objections</b> at Items 3(a), 3(b), 8, 10, 19 \u2014 "
+  "cost is compensable, not a reason to refuse"),
+ ("April 2025 stats", "⭐⭐ <b>269\u2013444 calls per shift, averaging 360</b>, while working "
+  "at <b>29.3% of full-time</b>",
+  "<b>The reduced hours cut the NUMBER of shifts, not the INTENSITY of each one.</b> The "
+  "within-shift fatigue mechanism, proved from his own data"),
+ ("Payslip analysis", "FY2025\u201326: 150.86 work days over 26 fortnights (5.80/ft against a "
+  "full-time 10); <b>34.33 unpaid days</b>; gross $82,664.20",
+  "⛔ <b>STOPS at the fortnight ending 7 Jun 2026.</b> Obtain the payslips for pay dates "
+  "~1 Jul and ~15 Jul 2026 \u2014 they contain the last-worked-shift answer"),
+ ("26 Mar 2025 payslip", "<b>$29,390.05</b> prior-period gross adjustment carrying <b>Term "
+  "loading, RL_Term, Life Benefit ETP</b> codes; plus $5,000 non-taxable allowance adjustment",
+  "⚠ <b>Material to the ART overpayment review</b> \u2014 termination package vs back pay "
+  "changes what is treated as income for a period"),
+ ("Outline of Submissions", "Filed <b>1 May 2026</b>, opposing MSH\u2019s r 64E extension",
+  "⭐ <b>NEW ACTOR: the Chief People and Partnerships Officer</b>, to whom Thorburn forwarded "
+  "the Form 29 at 17:26 on 22 Apr 2026, <b>eighteen minutes after service</b>. Thorburn = "
+  "<b>Executive Director, Clinical Governance, Risk and Legal</b>"),
+]
+
 PH_QIRC = [
  ("18 Jun 2024", "Injury. Claim → rejected → review",
   "WCRA s 32(1): employment must be <b>a significant</b> contributing factor. "
@@ -502,6 +592,7 @@ def build():
         ("PHASE 3 — ⭐ THE PID AND THE SHARED HR MAILBOX (13–28 May 2024)", PH3),
         ("PHASE 4 — INJURY, TERMINATION, REVIEW, DETERMINATION (Jun–Dec 2024)", PH4),
         ("PHASE 5 — REINSTATEMENT AND THE GRADUATED ARRANGEMENT (2025 – Jun 2026)", PH5),
+        ("⭐⭐ THE MATERIAL SUPPLY CHAIN — MSH → THE REGULATOR (Jan 2024 – Jun 2026)", PH_SUPPLY),
         ("⭐ THE QIRC FILE — PLEADINGS, ADMISSIONS AND SUBMISSIONS", PH_QIRC),
         ("⭐⭐ FORM 24 LEDGER (18 Feb 2026) — WHAT IS ADMITTED", F24_ADMIT),
         ("⛔ FORM 24 LEDGER — WHAT IS DENIED OR NOT ADMITTED (the live contests)", F24_DENY),
@@ -509,6 +600,7 @@ def build():
         ("PHASE 7 — ⭐ THE LOCKOUT AND WHAT FOLLOWED (26 Jun – 31 Jul 2026)", PH7),
         ("PHASE 8 — THE PACKAGE AND THE RESPONSE (3–5 Aug 2026)", PH8),
         ("PHASE 9 — THE FORWARD CALENDAR", PH9),
+        ("⭐⭐ VERIFIED FROM SOURCE, 5 AUGUST 2026", PH_VERIFIED),
         ("OUTSTANDING", OUTSTANDING),
     ]:
         if rows in (F24_ADMIT, F24_DENY):
