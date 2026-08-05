@@ -4091,3 +4091,27 @@ Cory supplied the native sent records; every one verified against plan and repo:
 what second, with which byte-exact attachments. MSH silent all day (expected branch).
 Next: Tue 4 Aug 11:38 file note if Stage 1 silence holds. Also today: booking emails +
 provider enquiries finalised in drafts/ (sendable, non-MSH).
+
+## 5 Aug 2026 (Wed, logged 17:52) — send executed; the machine's first returns
+- ⭐ 07:30 EXACT: Stage 1 reply sent as scheduled (cover + v16 locked PDF). Routing:
+  Taylor + IM + HR, Cc Moran AND Petering. Filed.
+- 07:31 Petering auto-reply: OOO, returns THU 6 Aug (urgent → representation@together.org.au).
+  ⇒ union/delegate-notice conversation lands Thursday; Moran holds coverage meanwhile.
+- 09:35 Altius (Glockling): today impossible; offers THU 11am or 1pm Teams. Still nothing
+  in writing (no fee range, no answers to the five/scope questions). Commit one slot; run
+  the call script — colleague name/role first, conflict Qs, answers in writing after.
+- ⭐ 11:45 Mind & Memory clinic (Brittney): "I have left a message with Michelle to
+  discuss the total of the invoice." THE DIRECT-BILLING CHANNEL IS LIVE — the
+  psychiatrist's clinic is phoning Michelle Harrison (IM) about the cost of HIS report,
+  exactly per the 31 Jul letter's own arrangement. MSH now hears about the report's
+  progress from the clinic, not from him. Subject line carried "QLD HEALTH REQUEST".
+  (His booking email as actually sent 4 Aug 11:39 also filed — short version, clean.)
+- 16:12 QSuper automated: "graduated return to work payment" SENT to his bank covering
+  25–31 May 2026. Day after Zappia's letter ⇒ claim actively being reworked; label
+  "graduated RTW" notable. ⚠ Verify the deposit lands + amount; do not over-read (likely
+  the final pre-suspension slice being reconciled).
+- ⛔ STILL NO MATHESON DISCLOSURE at 17:52 Wed. Pre-mention window now = Thursday only.
+  Supports the she-holds-nothing hypothesis; expect mention statement + timetable Friday.
+- Standing: file note 4 Aug logged; Thu = Altius call + Petering back (delegate notice) +
+  possible last-minute list; FRI 7 AUG MENTION — silent, procedural, consent-orders-
+  with-dates rule armed.
