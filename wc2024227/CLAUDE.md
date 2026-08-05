@@ -89,6 +89,12 @@ the Taylor email only, CE letter solo). Full-picture read + two addenda at
 `skill/references/FULL-PICTURE-READ-1AUG.md` (employment 42%/63% favourable; appeal 68%).**
 
 ### ⚠️ Source-integrity rules added 1 Aug 2026
+- ⛔ **THE FORM 24 PDF's TEXT LAYER IS INCOMPLETE** (added 5 Aug 2026). `pdftotext` on
+  `2026-02-18_Form24_Response_and_email_communication.pdf` silently DROPS every exhibit
+  reference, every date and every quoted phrase in the Notice — it returns `( , p. 27)`
+  where the page reads `(Exhibit B1, p. 27)`. No AcroForm, no field values.
+  **Render with `pdftoppm -r 150 -png` and read the pages.** Full exhibit register and
+  claim-by-claim verification at `skill/references/FORM24-VERIFICATION-5AUG.md`.
 - ⛔ **ATT09 (QH-IMP-401-5) has NO TEXT LAYER** and no OCR is installed. **Never quote it from
   memory.** Render with `pdftoppm -r 150 -png` and read the page. Verified extracts are at
   `documents/instruments/ATT09_VERIFIED_EXTRACTS.md`.
