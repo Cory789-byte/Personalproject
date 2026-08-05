@@ -829,3 +829,46 @@ would exist. **It still does not.** The entire gap between 38% and the high-40s/
 lifting them to meet an expectation is the failure mode the method warns against. The defensible
 band today is **38% unreported / 44–47% reported, with a credible span reaching 58%**. State the
 range, never a point.
+
+### ✅ CONFIRMED — COMMISSIONER DWYER, MARCH 2026: "A COIN FLIP"
+**Source: Cory, 5 Aug 2026.** The member who will hear the matter assessed it at **~50/50 in
+March 2026** — the **13 March 2026 s 552A conference**. ⛔ Add to the chronology.
+
+### ⚠ WHY THIS OUTRANKS THE MODEL — and a methodological admission
+The Monte Carlo **AND-combines five blocks**. That is conservative *by construction*: five
+independent-ish conditions each at .85 yields **.44**, not .85. **A member forming a view does not
+decompose that way** — he makes a gestalt judgement on the whole. ⇒ **This model will
+systematically read LOWER than a bench estimate.**
+
+**Use the model for the TORNADO (what moves the outcome), not for the LEVEL (what it is).**
+Anchor the level to Dwyer's own assessment.
+
+### The revised position
+| | P(win at hearing) |
+|---|---|
+| Dwyer, March 2026, on the then-material | **~50%** |
+| Net accretion since (six developments for, one against) | **materially favourable** |
+| Discount: **Report B still does not exist** | **−** |
+| ⇒ **Honest position today, unreported** | **~45%** |
+| ⇒ **Honest position with Report B properly scoped** | **~55%** |
+
+⚠ **CAUTIONS, and they are real:**
+1. A "coin flip" at a **conciliation conference is partly a settlement device** — said to move
+   both parties, on incomplete material, and possibly to avoid signalling. **Weight it as a
+   genuine read on disposition, not as a considered prediction.**
+2. It pre-dates the **amended 9C (13 May)**, so the pleaded causation defence was not before him.
+3. He decides on the evidence at hearing, not on a March impression.
+
+### ⭐⭐ THE MORE VALUABLE READ — DISPOSITION, NOT PROBABILITY
+**If Dwyer was at even money in March, he did NOT regard s 32(5) as a clear answer for the
+Regulator.** Had he thought the exclusion disposed of it, he would have said the appellant faces
+a real difficulty — not a coin flip. On the material then available (Squires' findings + the
+Form 24 admissions) **he regarded the appeal as genuinely arguable.**
+
+### ⭐ THE IMMEDIATE CONSEQUENCE FOR 7 AUGUST
+**A member who thinks a matter is finely balanced wants the record COMPLETE before deciding it.**
+That makes him **more** likely to order production, not less — he needs the material to resolve a
+case he has already said could go either way.
+⇒ **Frame the 64G exactly that way if the opportunity arises:** the application is directed at
+putting the Commission in possession of the records needed to determine a matter that is not
+clear-cut. **Not "they are hiding things" — "the Commission should have the whole record."**
