@@ -532,54 +532,45 @@ carried forward. The stamped filings remain in `documents/filings/` as part of t
 record — they are not deleted, because filed and stamped documents are not ours alone to
 destroy, and we are simultaneously asking MSH to preserve its records. **No further work on it.**
 
-## ⭐ THE RELEVANCE POSITION ON THE PRE-EXISTING-CONDITION LINE (Cory's framing, 5 Aug 2026)
-**"There was no medical concern, and no concern about anything in my life, before the appeal.
-The finding was the workplace events. They are running something that was not a concern and not
-relevant in any part of the review or the WorkCover process."**
+## ⭐ THE PRE-EXISTING-CONDITION LINE — THE CORRECT POSITION (Cory, 5 Aug 2026)
 
-### The timeline is the argument
-| Date | Event |
-|---|---|
-| 18 Jun 2024 | Injury |
-| (2024) | WorkCover process → rejected → review. **No pre-existing concern identified at any point** |
-| **24 Oct 2024** | ⭐ **Squires: "no pre-existing factor or condition"; "work events were the sole cause"** |
-| (2024–25) | Appeal filed |
-| **4 Jul 2025** | Form 29 to Our Medical Ashmore — **nine months AFTER the review finding** |
-| ~16 Jul 2025 | Records received |
-| **18 Feb 2026** | ⭐ The ADHD/anxiety contention appears **for the first time in the proceeding**, at ¶32 of the Admissions Response |
-| **13 May 2026** | Pleaded in the amended SOFC ¶8 |
+⛔ **CORRECTION.** An earlier framing today said the contention "did not exist until they went
+looking for it". **That is wrong and understates the position.**
 
-⇒ **The contention did not exist until they went looking for it**, nine months after their own
-delegate found there was nothing to find.
+**They had all the information. He put it forward. They had to look at it and confirm it — and
+they did.**
 
-### Four limbs, in order of strength
-**1. ⭐ IT RESTS ON MATERIAL NOT IN EVIDENCE.** Amended SOFC ¶8 says the records *"identify a
-past medical history of anxiety"*. Their own answer asserts an anxiety/ADHD history from
-**26 Oct 2022 "missing from Exhibit A5"** — i.e. **not in the exhibit produced**. Meanwhile
-Form 24 ¶33/34 records the entry of **16 Nov 2023: "No psychological illness such as
-depression/psychosis"**, and ¶35 that they hold nothing contemporaneous pre-2024 contradicting
-it. **Put them to proof of what they say the records show.**
+⇒ Squires made her findings **on the full material**, not in ignorance of it. The July 2025
+records trawl produced **no new information**; it produced **the same material the Regulator
+already held and had already assessed**.
 
-**2. ⭐ THE DOCTRINAL ANSWER.** *"A past medical history of anxiety"* is **not** a pre-existing
-psychiatric injury and does not displace causation. **s 32(1)** asks whether employment was
-**a significant** contributing factor — not whether he had ever experienced anxiety. And **s 32
-covers aggravation as well as onset**, so even a documented history does not answer the claim;
-it only shifts the question from onset to aggravation.
+⇒ **The amended SOFC ¶8 is not a discovery. It is a different conclusion drawn from evidence
+their own delegate had already examined and expressly ruled on.**
 
-**3. THE INCONSISTENCY.** The Regulator's own delegate, holding the WorkCover file, found **no
-pre-existing factor or condition** and that **work events were the sole cause**. The contents of
-that decision are **ADMITTED** (Form 24 ¶37). ⇒ Run it as **an inconsistency the Regulator must
-explain**, never as an estoppel.
+### What follows
+1. ⭐ **There is no "fresh evidence".** No new material, no materially changed circumstances, no
+   application to adduce new evidence. The Regulator is re-characterising material it held,
+   assessed, and made a finding about.
+2. ⭐ **They cannot plead ignorance.** The information was supplied by him and examined by them.
+   Their delegate's conclusion on that very material was **"no pre-existing factor or
+   condition"** and **"work events were the sole cause"** — contents **ADMITTED** (Form 24 ¶37).
+3. **The contention rests on material not before the Commission.** ¶8 says the records *"identify
+   a past medical history of anxiety"*, while their own answer places the asserted anxiety/ADHD
+   history from 26 Oct 2022 as **"missing from Exhibit A5"** — not in the exhibit produced.
+   Meanwhile the exhibit that *was* produced contains the **16 Nov 2023** entry: *"No
+   psychological illness such as depression/psychosis"*, and they concede they hold nothing
+   contemporaneous pre-2024 contradicting it. **Put them to proof of what they say their records
+   show.**
+4. **And it is not an answer anyway.** *"A past medical history of anxiety"* is **not** a
+   pre-existing psychiatric injury. **s 32(1)** asks only whether employment was **a
+   significant** contributing factor, and **s 32 covers aggravation as well as onset**.
 
-**4. ⚠ THE RELEVANCE-AT-THE-TIME POINT — real but not decisive.** r 64B(1)(a) permits a notice
-only for a document **directly relevant to a matter in issue**. When the notice issued on
-4 July 2025, no pre-existing condition was in issue — the Review Officer had found there was
-none and nobody had pleaded otherwise.
-⚠ **Their answer:** causation under s 32(1) is always in issue on a de novo appeal, so medical
-history is always directly relevant. **That is a strong answer.** ⇒ Do not lead with this limb.
-Lead with limbs 1 and 2.
+### How to put it
+Not "the records are irrelevant" — causation is always in issue on a de novo appeal and that
+argument will not hold.
 
-### How to put it at hearing
-Not "the records are irrelevant" — that will not hold. **"The contention is late, unsupported by
-the exhibit produced, contradicted by their own delegate's express finding, and, even taken at
-its highest, does not answer s 32(1)."**
+> **"The Regulator had all of this material. I provided it. Its own delegate examined it and
+> found there was no pre-existing factor or condition and that work events were the sole cause.
+> Nothing new has been produced since. What has changed is the conclusion, not the evidence."**
+
+⛔ Run it as **an inconsistency the Regulator must explain**, never as an estoppel.
