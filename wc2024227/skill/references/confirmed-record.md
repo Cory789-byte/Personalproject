@@ -567,3 +567,33 @@ The next listings were the **27 Feb mention** and the **13 Mar s 552A conference
 **What happened to it? Was it determined, withdrawn, adjourned, or subsumed?** Nothing in the
 repo records the outcome. **Establish this before Friday** — it bears on what is already before
 Dwyer.
+
+### ✅ OUTCOME OF THE FEBRUARY 2026 APPLICATION — advised by Cory, 5 Aug 2026
+**He RECALLED the application**, and **his medical files were SEALED.**
+
+**Consequences:**
+
+**1. The four grounds were never determined.** The *Mahaffey* estoppel, the *Church/Wicks* bar
+and the invitation to strike out Form 9C ¶36 were **not decided** — neither won nor lost.
+⇒ They remain **available to be re-run**, and the five defects identified above (r 226, s 545,
+the "binding" framing, the incomplete *Mahaffey* citation, the unverified *Church*/*Wicks*/*Bird*)
+can be **corrected before they are ever put again**. Recalling it preserved the arguments.
+
+**2. ⭐ THE SEALING IS A PRECEDENT FOR FRIDAY.** The Commission has **already made a
+confidentiality/sealing order in this matter** over the medical material. That is directly
+relevant to **draft order 6** of the 64G application (s 580 IR Act non-publication of the fact
+and content of PID 24-ESU-1130, giving effect to s 65 PID Act): **the Commission has done it
+once in this proceeding already.** ⇒ Order 6 is materially more likely to be made, and can be
+put as following an established course rather than as a novel request.
+⛔ **CONFIRM before Friday: the order's date, its precise terms, whether it was made by consent
+or on application, and whether it extends beyond the medical records.**
+
+**3. ⚠ REVISES THE r 64E(2) ADVICE GIVEN EARLIER TODAY.** With the medical material sealed, the
+confidentiality harm is contained. An objection under r 64E(2) (grounds (e) confidential nature
+and (f) effect on any person) would now be about **relevance and exclusion**, not protection —
+a weaker and much less necessary application, and one that reopens a matter already resolved by
+another route. ⇒ **Do not run it** unless the exclusion of the ¶¶26–29 material becomes
+necessary at the hearing stage, and then on relevance grounds only.
+
+**4.** The r 24(1) service point likewise loses most of its practical value: the harm it would
+have addressed has been dealt with. **Keep it as context, not as an application.**
