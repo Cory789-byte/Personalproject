@@ -927,3 +927,51 @@ from its wording.**
 ⇒ **Cooperative in form, slow in substance, nothing delivered.** This does not affect the merits.
 It affects **runway** — the largest single value-destroyer in the matter — and it is a settlement
 signal: a party confident of winning discloses and presses on.
+
+## ⭐⭐ THE MATHESON DISCLOSURE REQUEST — THE FULL EVENT
+**24 Jul 2026, 19:08 — Cory → Matheson**, "request for disclosure list". Two requests:
+> *"(1) an up-to-date **list of the documents disclosed by the Respondent** in the proceeding;
+> and (2) **copies of the form 29 Notice of Non-Party Disclosure issued by the Respondent,
+> together with the documents produced in response to each**."*
+
+⭐⭐ **REQUEST (2) IS THE 4 JULY 2025 MEDICAL-RECORDS FORM 29.** It has **already been requested
+in writing** — on 24 July 2026. Any advice to "obtain the notice" is **already actioned**; there
+is nothing further to send.
+
+**3 Aug 2026, 07:17 — Matheson reply:**
+> *"**I apologise for the delay** in the Regulator's response to your below email. I am in the
+> process of updating the Regulator's list of documents and will have this and **the NNPD copies
+> to you as soon as possible this week**."*
+
+### The state of it
+| | |
+|---|---|
+| 24 Jul 19:08 | Request made |
+| **10 days** | No response |
+| 3 Aug 07:17 | **Apology for the delay** + written commitment: list **and NNPD copies**, "as soon as possible **this week**" |
+| **5 Aug** | **Nothing received. Two days of the committed week remain.** |
+| **7 Aug** | ⭐ **The mention before Dwyer — the same week the commitment expires** |
+
+### What it establishes
+1. **A written commitment with a self-imposed deadline**, made after an express apology for
+   delay. Not a refusal — an undertaking.
+2. **It expires in the same week as the mention.**
+3. ⛔ **Do not chase it again.** The request is in, the commitment is given, and a second chase
+   before it expires weakens the position rather than strengthening it.
+
+### ⭐ THE ENFORCEMENT POINT IS FRIDAY, AND IT IS A HOUSEKEEPING ITEM
+⚠ The 64G mention concerns **MSH's objection to Cory's Form 29** — a different matter from the
+Regulator's disclosure to him. **Do not conflate them.** But if Dwyer asks whether there is
+anything else, or is setting any timetable, this is legitimate housekeeping.
+
+**The framing — neutral, no complaint:**
+> *"The Respondent indicated on 3 August that it would provide its list of documents and the
+> non-party disclosure copies this week. I have not yet received them. I would be assisted by a
+> date."*
+
+**Not** "the Respondent is stalling." A request for a **date** is unarguable, it costs nothing,
+and it puts the commitment on the record in front of the member.
+
+### Still outstanding and NOT yet requested
+The **exhibit bundle A1–I2** served by Cory on 11–12 Feb 2026 (376pp). That is his own material;
+if his copies are incomplete, request it separately — it is not covered by the 24 July email.
