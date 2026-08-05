@@ -132,11 +132,68 @@ be pleaded, said or written. Discipline rule 1.
 non-existence must be sworn, someone has to swear the Item 20 and Item 3 answers while
 the Regulator's own disclosure sits against them. That is process, not accusation.
 
-⚠ **OPEN / TO VERIFY:** whether Harrison handled patient-safety or Switchboard complaint
-traffic BEFORE May 2024. The 2025 LBH_HR shared-mailbox messages in the corpus (pack 03
-pp 13, 18, 26; pack 05 pp 3, 7 — Jacqui Roberts cc'd) are **unattributed** to a named
-officer. Only the 15 May 2024 forward is attributed, and only in the 11 June disclosure.
-Check p 7 of that bundle for the full header before relying on anything earlier.
+### ✅ RESOLVED 5 Aug — page 7 read from source
+
+Full header, from `WC.2024.227_Shepherd_REG_disclosure_to_APP_11.06.2026.pdf` p 7:
+
+> **From: LBH_HR · Sent: Wednesday, May 15, 2024 3:41 PM**
+> **To: Brendon Punch; Elise McGinley; Adriana McNamee**
+> Subject: FW: Urgent: Issues Affecting Workplace Safety and Conduct Logan Hospital
+> Switchboard
+> *"Please see email from Corey Shephard to ESU and CO Complaints regarding Chloe Taylor."*
+> **Michelle Harrison — Support Officer, Human Resources, Logan and Beaudesert Health
+> Services**
+
+**Corrections to the earlier entry:**
+
+1. In May 2024 Harrison was a **Support Officer, HR** — not Injury Management Consultant.
+   Her 2026 title reflects an ordinary role change over two years. No inference available.
+2. She was not "handling" the PID. Cory addressed his 15 May 15:35 email to LBH_HR
+   himself; she routed it from the shared mailbox six minutes later.
+3. **She routed it to three HR officers — NOT to Taylor and NOT to Reese.** On this page
+   hers is the correct step. No Harrison↔Taylor connection is established; the only
+   reference is descriptive ("regarding Chloe Taylor").
+
+**The escalation step is McGinley's, not Harrison's.** Elise McGinley, A/Senior Consultant
+HR, 16 May 2024 11:43, → Tammy Reese and Tracey Smith, cc Punch, Pritchard, McNamee,
+attaching "Chloe Taylor scc-complaint-form.docx":
+
+> *"Cory sent his complaint directly to the Ethical Standards Unit who are currently
+> awaiting further documentation from him. Once ESU have received all of the information
+> and finalised their assessment we will reach out to discuss next steps."*
+
+Ordinary HR practice — the area Director gets told.
+
+### ⭐⭐⭐ WHAT PAGE 7 ACTUALLY IS — THE ITEM 20 KILL
+
+MSH told the Commission (Item 20) that the operational HR reaction to PID 24-ESU-1130
+**"does not exist"** because the reference "commenced in November 2024".
+
+**Page 7 IS an operational HR reaction**, dated 15–16 May 2024, inside the Item 20 window.
+It names six HR officers, attaches the complaint form, records that HR knew ESU held the
+complaint and was awaiting further documentation, and states HR's intended next step.
+
+**And the REGULATOR produced it, not MSH.**
+
+So Item 20 fails not on a date technicality but on the document itself: the thing said not
+to exist is a complete HR reaction in HR's own words, already before the Commission
+(affidavit ¶52, annexed CS-4).
+
+### NEW NAMES FOR THE LEDGER (all HR, LBHS, May 2024)
+
+| Name | Role |
+|---|---|
+| Michelle Harrison | Support Officer, HR (2024) → Injury Management Consultant (2026) |
+| **Elise McGinley** | **A/Senior Consultant, HR — made the escalation to Reese** |
+| Brendon Punch | HR (recipient of the 15 May forward) |
+| Adriana McNamee | HR (recipient of the 15 May forward) |
+| Mack Pritchard | HR (cc, 16 May) |
+| Tracey Smith | recipient with Reese, 16 May |
+
+⚠ **STILL OPEN:** whether Harrison or anyone named handled Switchboard complaint traffic
+BEFORE May 2024. The 2025 LBH_HR shared-mailbox messages in the corpus (pack 03 pp 13,
+18, 26; pack 05 pp 3, 7 — Jacqui Roberts cc'd) are **unattributed**. Do not rely on
+anything earlier without a named header.
 
 ⚠ **NOTED SEPARATELY:** the 31 July 2026 RFMI covering email cc'd **notes@solv.com.au** —
 a third-party system receiving injury-management correspondence. Add to the RTI/IP
