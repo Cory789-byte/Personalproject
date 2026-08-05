@@ -725,3 +725,60 @@ object at hearing.
 
 ⇒ **Everything on this line waits on one Registry-sealed notice in his own matter.** The Registry
 holds it and so does the Respondent. **Request it.**
+
+## ⭐⭐ RED TEAM — THE PSYCHOSOCIAL ASSESSMENT PROVIDER (5 Aug 2026)
+⛔ **GAP IDENTIFIED: five paths were run on Altius — the provider that will NOT be engaged — and
+none on Psych Group, the provider actually recommended in the union submission.** Corrected here.
+
+### What Psych Group's own material says
+Their consulting brochure (`documents/correspondence-2026/2026-08-05_PsychGroup_Consulting_Brochure.pdf`):
+> *"…development services to **government agencies, state regulators**, and private sector clients
+> across Australia."*
+> *"With **direct experience inside a state regulator** and an **ongoing consulting partnership
+> with WorkSafe Victoria**, Psychgroup understands regulatory expectations…"*
+
+And publicly: **Sarah Hellwege** is listed as a **Psychologist and Senior Psychological and Health
+and Safety Specialist with WorkSafe Victoria** (LinkedIn, surfaced 5 Aug 2026).
+
+### Assessment
+**1. The regulator connection is VICTORIAN, not Queensland.** WorkSafe Victoria is a different
+body from both the **Queensland Workers' Compensation Regulator** (the Respondent) and
+**Workplace Health and Safety Queensland**. ⇒ **No connection to the Respondent in WC/2024/227.**
+
+**2. ⚠ BUT THE UNTESTED QUESTION IS THE SAME ONE PUT TO ALTIUS.** The brochure says services to
+"government agencies, state regulators… across Australia". **Does Psych Group hold Queensland
+Health or Metro South work?** Unknown. Not asked.
+
+⇒ ⛔ **INCONSISTENCY TO FIX: the conflict question was put to Altius in writing on 4 Aug 2026 at
+11:54 and has NOT been put to Psych Group.** The provider being recommended is the one that has
+not been checked. **Put the identical question before any engagement or before the submission
+names them.** It protects the independence the submission is built on, and it is the first thing
+a competent respondent would ask.
+
+**3. ⚠ SECOND-ORDER — the frame, not the conflict.** A regulator-experienced assessor brings a
+**compliance** frame ("what satisfies a regulator") rather than a **worker-harm** frame. That
+cuts both ways: methodologically stronger and much harder for MSH to dismiss, but potentially
+narrower on lived impact. ⇒ Reinforces the scope safeguards already in the union email —
+independence, direct observation across volume and shift patterns, terms of reference in writing.
+
+**4. NOT A REASON TO CHANGE PROVIDER.** They answered independence, method and scope in writing
+before engagement; Altius did not. That comparison stands.
+
+## FULL-PICTURE MONTE CARLO — 5 AUG 2026 (`fpa_appeal_5aug.py`)
+Five s 32 blocks, AND-combined, 600 worlds × 40,000 draws, shared disposition factor.
+- **P(win at contested hearing) = 35%**, 80% CI **30–40%**, full red↔blue span **25–47%**
+- **P(favourable incl. settlement) ≈ 71%**
+- Consistent with the banked 4 Aug prognosis (37.6% / 70.5%) and 5 Aug post-send (39.2% / 76.1%);
+  marginally more conservative.
+
+**TORNADO — what actually moves it:**
+| Rank | Block | Swing |
+|---|---|---|
+| **1** | **s 32(5)(a) defeated — individual-stressor (Mahaffey/Carr) over global (Delaney)** | **9.7%** |
+| **2** | **Medical causation tied to the fatigue/roster strand specifically** | **9.3%** |
+| 3 | Hearing conducted without adverse credit or procedural failure | 6.8% |
+| 4 | Arising out of employment | 5.2% |
+| 5 | Psychiatric injury established | 4.8% |
+
+⇒ **Two blocks carry 19 points of the 35.** Both are exactly the two limbs of the Regulator's
+case identified in the appeal-conduct read. **Everything else is noise by comparison.**
