@@ -163,3 +163,67 @@ The May-2024 HR-routing correspondence around Cory's disclosures — the exact I
 - Hawes certificate: **8 September 2024** (corrected per ¶33).
 - Review Decision: 24 October 2024.
 - Medical-records Form 29: signed by Senior Registry Officer **4 July 2025**.
+
+---
+
+## VERIFIED 5 AUGUST 2026 (evening) — read from source this session
+
+### The QIRC distribution list (source: Registry emails 22 May, 7 May, 30 Apr 2026)
+Every listing in WC/2024/227 is served by Registry on: Cory · **Renee Matheson** ·
+Appeals@oir · **Myla Ruttan** · **Tribunalmatters@health.qld.gov.au (Queensland Health
+CENTRAL)** · **Chris Thorburn** · **Lauren Griffin**. MSH is a **non-party**; four MSH/QH
+addresses sit on the Commission's list.
+
+### Lauren Griffin — position and act (source: her own signature block, 30 Apr 2026 15:59)
+**Director, Employment Relations, Metro South HR** (MSHR.EmploymentRelations@health.qld.gov.au).
+On 30 April 2026 at 15:59 she **forwarded MSH correspondence to the QIRC Registry herself**,
+cc Ruttan, Matheson, Tribunal Matters, copying Cory "by way of service".
+⛔ **FALSE LEAD, RESOLVED:** `documents/METADATA_REGISTER.md` reads as though Griffin sits in
+Commissioner Dwyer's chambers. She does not — "on behalf of the Chambers of Industrial
+Commissioner Dwyer" describes the **sender** (QIRC Registry). Formatting artefact.
+
+### ⭐ Page 7 of the Regulator's 11 June 2026 disclosure — FULL HEADER
+> **From: LBH_HR · Sent: Wednesday, May 15, 2024 3:41 PM**
+> **To: Brendon Punch; Elise McGinley; Adriana McNamee**
+> Subject: FW: Urgent: Issues Affecting Workplace Safety and Conduct Logan Hospital Switchboard
+> *"Please see email from Corey Shephard to ESU and CO Complaints regarding Chloe Taylor."*
+> **Michelle Harrison — Support Officer, Human Resources, Logan and Beaudesert Health Services**
+
+Beneath it on the same page:
+> **Elise McGinley <Elise.McGinley@health.qld.gov.au> · Thursday, 16 May 2024 11:43 AM**
+> **To: Tammy Reese; Tracey Smith · Cc: Brendon Punch; Mack Pritchard; Adriana McNamee**
+> Attachments: **Chloe Taylor scc-complaint-form.docx**
+> *"Please see below email and attached complaint from Cory Shepherd. Cory sent his complaint
+> directly to the Ethical Standards Unit who are currently awaiting further documentation from
+> him. Once ESU have received all of the information and finalised their assessment we will
+> reach out to discuss next steps."*
+> **Elise McGinley — A/Senior Consultant, Human Resources, Logan and Beaudesert Health Service**
+
+**Established:** (a) Harrison was **Support Officer, HR** in May 2024, not Injury Management
+Consultant — her 2026 title is an ordinary role change, no inference available; (b) she routed
+the material **to three HR officers, not to Taylor and not to Reese**; (c) **no Harrison↔Taylor
+connection is established** — the only reference is descriptive; (d) the escalation to Taylor's
+Director was **McGinley's**.
+⭐ **Page 7 IS the operational HR reaction to the PID**, dated inside the Item 20 window, naming
+six HR officers. **MSH told the Commission it "does not exist". The Regulator produced it.**
+
+### New named officers (all HR, LBHS, May 2024)
+Elise McGinley (A/Senior Consultant) · Brendon Punch · Adriana McNamee · Mack Pritchard ·
+Tracey Smith · Michelle Harrison (Support Officer 2024 → Injury Management Consultant 2026).
+
+### Third-party system
+**notes@solv.com.au** was cc'd on the RFMI covering email of 31 July 2026 11:43. Add to the
+RTI/IP Act categories.
+
+### ⛔ CORRECTED — the Anti-Discrimination Act limitation anchor
+Any AD Act complaint founded on the current conduct arises from the **exclusion and failure to
+provide work from 26 June / 3 July 2026 — s 15(2)** ("dismissing includes… failure to provide
+work"), which is **continuing**. The window is **2027**, not ~8 September 2026. The earlier
+~8 Sep 2026 figure was wrongly anchored to the 8 September 2025 attendance letter.
+⚠ **ATT20 is current only to 19 May 2025** — verify against a current consolidation.
+
+### Altius Group — five-path red team, all nil
+See `ALTIUS-RED-TEAM-5AUG.md`. Absent from the entire record before Cory's own 4 Aug 2026
+enquiry. No link to Willson (direct or via Aussafe Consulting). No published Queensland Health
+contract found (not conclusive). Only residual: Glockling's own Executive Health Solutions
+client book plausibly includes health-sector employers — a relationship risk, not a network.
