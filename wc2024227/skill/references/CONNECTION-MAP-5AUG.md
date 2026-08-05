@@ -71,6 +71,77 @@ institutional memory.
 
 ⚠ It is NOT evidence of motive and must never be pleaded as such. It is knowledge only.
 
+## 3A ⭐⭐⭐ THE INTEGRATION — HARRISON, GRIFFIN, THE FORM 29 AND THE PID
+
+**The officers who handled the complaint traffic are the officers now refusing the pay
+and objecting to producing the complaint records.**
+
+### The 26-hour window, May 2024
+
+| When | What | Source |
+|---|---|---|
+| 13 May 2024 | PID complaint lodged with MetroSouthESU | PID form |
+| 15 May 2024 13:15 | Cory's "Office Hours and Departmental Directives" email (To Taylor + Logan Switch, cc 17 staff + LBH_HR) | 11 Jun disclosure p 6 |
+| 15 May 2024 15:35 | Cory's PID email (To MetroSouthESU; CO_Complaints; LBH_HR) | 11 Jun disclosure p 8 |
+| **15 May 2024 15:41** | **LBH_HR (Michelle Harrison) FORWARD** | **11 Jun disclosure p 7** |
+| 15 May 2024 18:23 | Reese retraction email, with Recall-This-Message instructions | 11 Jun disclosure p 5 |
+| 16 May 2024 11:43 | McGinley → Reese, Tracey Smith; cc Punch, Pritchard, McNamee; attachment **"Chloe Taylor scc-complaint-form.docx"** | 11 Jun disclosure p 7 |
+
+Within roughly 26 hours of the PID, HR forwarded, the complaint form circulated to at
+least six named officers, and he was directed to retract (admitted, Form 24 ¶21).
+
+### What the Form 29 asked for, and what MSH said
+
+- **Items 3(a), 3(b)** — complaints received; management discussion of complaints.
+  MSH objected on expense, stating complaints are *"made directly to the Line Manager of
+  Switch Board and managed **solely via email or verbally**"*, records not retained.
+- **Item 20** — operational HR reaction to PID 24-ESU-1130. MSH: *"does not exist"*
+  because the reference *"commenced in November 2024"*, outside the 13–31 May window.
+
+### ⭐ The document that falsifies Item 20 has Harrison on it
+
+The Regulator's 11 June 2026 disclosure produced 15–16 May 2024 correspondence squarely
+inside the Item 20 window (affidavit ¶52, annexed CS-4). MSH's answer is a
+reference-number argument, not an existence answer.
+
+**And page 7 of that very bundle is the Harrison forward.** The page proving the material
+exists carries the HR officer who, in July 2026, refused his pay, replied on the EAF WHS
+basis, held the RFMI, gated the reimbursements, and signed the 31 July RFMI covering
+email as *Injury Management Consultant, LBHS HR Team 1, Human Resources*.
+
+### Griffin closes the loop
+
+Director, Employment Relations, MSH HR:
+- receives every QIRC listing (§1)
+- **personally forwarded MSH's Form 29 correspondence to the Registry on 30 April 2026**,
+  copying Cory "by way of service" (§2)
+
+So HR's Employment Relations head handled service in the objection process to the very
+notice seeking the complaint and HR-reaction records her own function generated.
+
+### What this establishes, and what it does not
+
+**Establishes:** (a) knowledge in the decision-making unit, continuous and documented;
+(b) personnel continuity from the protected act to the detriment; (c) that HR holds and
+handled material of exactly the kind MSH told the Commission it does not hold.
+
+**Does NOT establish:** motive, coordination, concealment or bad faith. None of those may
+be pleaded, said or written. Discipline rule 1.
+
+**Where it is used:** the verification-on-oath request (affidavit ¶48, ¶50). If
+non-existence must be sworn, someone has to swear the Item 20 and Item 3 answers while
+the Regulator's own disclosure sits against them. That is process, not accusation.
+
+⚠ **OPEN / TO VERIFY:** whether Harrison handled patient-safety or Switchboard complaint
+traffic BEFORE May 2024. The 2025 LBH_HR shared-mailbox messages in the corpus (pack 03
+pp 13, 18, 26; pack 05 pp 3, 7 — Jacqui Roberts cc'd) are **unattributed** to a named
+officer. Only the 15 May 2024 forward is attributed, and only in the 11 June disclosure.
+Check p 7 of that bundle for the full header before relying on anything earlier.
+
+⚠ **NOTED SEPARATELY:** the 31 July 2026 RFMI covering email cc'd **notes@solv.com.au** —
+a third-party system receiving injury-management correspondence. Add to the RTI/IP
+categories.
+
 ## 4 MSH → REGULATOR WITNESS CHANNEL (lawful, documented)
 
 From the 14 July 2025 Quatrix production: QH Payroll 24pp; **witness-conferencing
