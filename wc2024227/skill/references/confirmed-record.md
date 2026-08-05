@@ -531,3 +531,55 @@ Cory **recalled** that application at a conference and no longer presses that su
 carried forward. The stamped filings remain in `documents/filings/` as part of the Commission's
 record — they are not deleted, because filed and stamped documents are not ours alone to
 destroy, and we are simultaneously asking MSH to preserve its records. **No further work on it.**
+
+## ⭐ THE RELEVANCE POSITION ON THE PRE-EXISTING-CONDITION LINE (Cory's framing, 5 Aug 2026)
+**"There was no medical concern, and no concern about anything in my life, before the appeal.
+The finding was the workplace events. They are running something that was not a concern and not
+relevant in any part of the review or the WorkCover process."**
+
+### The timeline is the argument
+| Date | Event |
+|---|---|
+| 18 Jun 2024 | Injury |
+| (2024) | WorkCover process → rejected → review. **No pre-existing concern identified at any point** |
+| **24 Oct 2024** | ⭐ **Squires: "no pre-existing factor or condition"; "work events were the sole cause"** |
+| (2024–25) | Appeal filed |
+| **4 Jul 2025** | Form 29 to Our Medical Ashmore — **nine months AFTER the review finding** |
+| ~16 Jul 2025 | Records received |
+| **18 Feb 2026** | ⭐ The ADHD/anxiety contention appears **for the first time in the proceeding**, at ¶32 of the Admissions Response |
+| **13 May 2026** | Pleaded in the amended SOFC ¶8 |
+
+⇒ **The contention did not exist until they went looking for it**, nine months after their own
+delegate found there was nothing to find.
+
+### Four limbs, in order of strength
+**1. ⭐ IT RESTS ON MATERIAL NOT IN EVIDENCE.** Amended SOFC ¶8 says the records *"identify a
+past medical history of anxiety"*. Their own answer asserts an anxiety/ADHD history from
+**26 Oct 2022 "missing from Exhibit A5"** — i.e. **not in the exhibit produced**. Meanwhile
+Form 24 ¶33/34 records the entry of **16 Nov 2023: "No psychological illness such as
+depression/psychosis"**, and ¶35 that they hold nothing contemporaneous pre-2024 contradicting
+it. **Put them to proof of what they say the records show.**
+
+**2. ⭐ THE DOCTRINAL ANSWER.** *"A past medical history of anxiety"* is **not** a pre-existing
+psychiatric injury and does not displace causation. **s 32(1)** asks whether employment was
+**a significant** contributing factor — not whether he had ever experienced anxiety. And **s 32
+covers aggravation as well as onset**, so even a documented history does not answer the claim;
+it only shifts the question from onset to aggravation.
+
+**3. THE INCONSISTENCY.** The Regulator's own delegate, holding the WorkCover file, found **no
+pre-existing factor or condition** and that **work events were the sole cause**. The contents of
+that decision are **ADMITTED** (Form 24 ¶37). ⇒ Run it as **an inconsistency the Regulator must
+explain**, never as an estoppel.
+
+**4. ⚠ THE RELEVANCE-AT-THE-TIME POINT — real but not decisive.** r 64B(1)(a) permits a notice
+only for a document **directly relevant to a matter in issue**. When the notice issued on
+4 July 2025, no pre-existing condition was in issue — the Review Officer had found there was
+none and nobody had pleaded otherwise.
+⚠ **Their answer:** causation under s 32(1) is always in issue on a de novo appeal, so medical
+history is always directly relevant. **That is a strong answer.** ⇒ Do not lead with this limb.
+Lead with limbs 1 and 2.
+
+### How to put it at hearing
+Not "the records are irrelevant" — that will not hold. **"The contention is late, unsupported by
+the exhibit produced, contradicted by their own delegate's express finding, and, even taken at
+its highest, does not answer s 32(1)."**
