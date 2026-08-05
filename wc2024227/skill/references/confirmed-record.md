@@ -257,3 +257,89 @@ The leave-coding complaint of Oct 2025 prefigures the leave debit of Jul 2026.
 3. **An additional full-time employee engaged in Switchboard, and subsequently removed.** Goes
    directly to whether the service could accommodate hours, and to the "unable to accommodate a
    graduated return to work" statement. Needs dates, the position and the source.
+
+---
+
+## VERIFIED 5 AUG 2026 — FORM 24 ¶8 PINPOINT, SUBMISSIONS, AND THE CALCULATIONS
+
+### ✅ FORM 24 NOTICE ¶8 — PINPOINT CONFIRMED against the response PDF
+> **Notice ¶8:** *"Maintaining accurate contact details for medical staff is a critical function
+> of the Switchboard to ensure effective clinical handover and patient safety."*
+> **Response ¶8:** *"With respect to paragraph 8, **admits the facts contained therein** and says
+> that there was a procedure in place for this to occur."*
+
+**Form 20 ¶6's citation is CORRECT.** The earlier confirmed-record entry describing ¶8 as
+"[the procedure fact]" was capturing the Respondent's *addition*, not the pleaded fact. Both
+entries were right about different halves.
+
+⚠ **BUT ¶9 IS DENIED.** Notice ¶9 (*"By removing this entry without consultation, Ms Taylor
+prevented the communication of safety-critical information"*) → *"denies as untrue the fact,
+because there was already a procedure in place."* **The criticality is admitted; the
+consequence of the removal is not.** Do not let ¶8 carry ¶9.
+Context: ¶6 admits removal, not handwriting; ¶7 does not admit the entry's contents ("no copy
+of the document … unaware of its contents"); ¶10 does not admit "burn book".
+
+### APPELLANT'S OUTLINE OF SUBMISSIONS — **filed 1 May 2026**
+`documents/WC2024227_Outline_of_Submissions.pdf`, 3pp. Opposes MSH's r 64E extension
+application. Seeks: leave under r 64E(1) refused as a matter of discretion; any extension
+granted under r 64G(2) confined to ≤7 business days; production ordered within that window;
+costs reserved.
+
+**New verified facts from it:**
+- **Chris Thorburn = Executive Director, Clinical Governance, Risk and Legal, Metro South
+  Health** (not merely "Executive Director").
+- Form 29 served by email **22 Apr 2026 at 5:08 PM** on Thorburn as the representative service
+  address for the 2nd and 3rd Affected Parties under Schedule 1, copying appeals@oir and
+  Matheson personally.
+- ⭐ **Thorburn replied at 5:26 PM — eighteen minutes later** — confirming he had forwarded it
+  to the **Chief People and Partnerships Officer** to action, "on the basis the matter fell
+  within that officer's portfolio", copied to OIR-Appeals and Matheson.
+  ⇒ **NEW ACTOR: the Chief People and Partnerships Officer.** Add to the ledger and the IP Act
+  custodian list.
+- MSH had **eight days of internal handling** before filing its application.
+- MSH's application ground: it "has not received the appeal notice (Form 9) and statement of
+  facts and contention (Form 9A) … which were necessary to assess the relevance". Answered:
+  **r 64B(1), r 64C(1), r 64E(4) confer no such right on a non-party**; the Form 29's
+  Continuation Schedule states the matter in issue (the s 32(5)(a) defence) and contains a
+  **Relevance Anchor Table** tying each Item to the Amended 9A and the Form 24 admissions.
+- MSH's application was prepared under file ref **KLM26/729**, addressed "Dear Registrar", but
+  transmitted 30 Apr 2026 to OIR-Appeals and Matheson rather than the Registry; **Griffin
+  redirected it to the Registry within sixty minutes**.
+
+### ⭐ THE CALCULATIONS — read from the workbooks
+
+**`Shepherd_Payslips_FY2025-26_analysis.xlsx`** (PAN 00388372, AO3, 26 fortnights)
+- Total work days **150.86** ÷ 26 = **5.80 per fortnight** against a full-time 10.
+- **Unpaid leave 34.33 days** across the year (the NP Sick Leave lines).
+- Sick 16.32 d · annual/rec 11.12 d · RDO 6 d.
+- Total gross **$82,664.20** · net **$56,573.36** · employer super **$10,513.89** ·
+  voluntary super **$3,050.90** · RemServ packaged **$8,840.09**.
+- ⛔ **THE DATASET STOPS AT PAY DATE 17 JUN 2026, FOR THE FORTNIGHT ENDING 7 JUN 2026.**
+  It does **not** answer the last-worked-shift question.
+  ⇒ **OBTAIN: the payslip for pay date ~1 July 2026 (fortnight 8–21 Jun 2026) and the payslip
+  for pay date ~15 July 2026 (fortnight 22 Jun–5 Jul 2026).** Those two contain the answer.
+
+**`Shepherd_2025_RTW_7Fortnights_FTE_analysis.xlsx`** (26 Mar – 18 Jun 2025)
+- **Average 29.3% of a full-time role worked per fortnight** — 155.75 salary hours against a
+  full-time capacity of 532 (76 × 7).
+- ⭐ **26 Mar 2025 payslip: $29,390.05** appearing as "Total Adjustments From Previous Pay
+  Periods (Gross)". Classified by Cory as an **unfair dismissal / termination package, NOT back
+  pay**. The payslip's own codes support that reading — Fortnightly_Salary adjustment
+  $17,715.78, shift loadings, RDO, **Term loading, RL_Term, Life Benefit ETP** (and a
+  Life Benefit ETP tax credit line). Plus **Allow_N/TaxAdjust_NS_NOTE 28.02.2025 = $5,000**.
+  Total gross that pay **$33,383.10**; net **$23,775.78**.
+  ⚠ **MATERIAL TO THE ART/QSuper OVERPAYMENT REVIEW** — the characterisation of this sum
+  (termination package vs back pay) may bear on what ART treats as income for a period.
+
+**`Individual_monthly_stats_April2025.xlsx`** (April 2025, shifts 06:00–14:00 / 14:00–22:00)
+- Calls taken per shift: **283 · 377 · 444 · 412 · 269 · 426 · 312 — average 360.4**.
+  Call share averaged 379.4; on some days he took **>100% of an even share** (1.20, 1.05).
+- ⭐⭐ **THE WITHIN-SHIFT FATIGUE MECHANISM, PROVED FROM HIS OWN DATA.** In April 2025 he was
+  on a graduated return at **~29% of full-time** and was still taking **269–444 calls per
+  shift**. **The reduced hours cut the NUMBER of shifts, not the INTENSITY of each one.**
+  This is the evidentiary basis for the Part 1 proposition in the union submission — "a break
+  entitlement is not a break taken" — and it answers any suggestion that reduced hours
+  constituted an adjustment to the load.
+- ⚠ Note: the Form 20 ¶9 pleads "approximately 200 to 300 calls per shift". The April 2025
+  data is **higher** (avg 360). The pleading is conservative and safe; do not amend it, but the
+  workbook supports the higher figure if ever put in issue.
