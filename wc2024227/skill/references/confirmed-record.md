@@ -486,163 +486,48 @@ against a document we do not hold.
 
 ---
 
-## ⭐⭐ THE FEBRUARY 2026 FORM 4 / SCHEDULE B — READ 5 AUG 2026 (not previously read)
-Source: `documents/filings/2026-02-27_Form4_Application_Disclosure_stamped.pdf` — 12pp,
-**no text layer, rendered**. Form 4 signed **25.02.2026**; grounds in a **9-page Supporting
-Schedule B**. Companion filings: `2026-02-25_Supplementary_Form4.pdf`,
-`2026-02-25_Supplementary_Affidavit_Form20.pdf`, `2026-02-26_Supplementary_Affidavit_stamped.pdf`,
-`2026-02-27_Affidavit_for_Form4_Disclosure_stamped.pdf`.
-
-Framework cited: **IR Act ss 536, 539, 541, 545, 580**; **Rules 8, 49, 64C, 64D, 64E, 64F, 226**;
-inherent jurisdiction to prevent abuse of process. ⭐ Note **r 64D was already cited by Cory in
-February 2026** — he was alive to the service point six months ago.
-
-### ⭐⭐⭐ REVIEW DECISION 69983 CONTAINS **THREE** EXPRESS FINDINGS (Exhibit B1, pp 25–27)
-Author: **Ms Victoria Squires, Senior Reviewing Officer, Review Unit** (corroborated,
-working-notes 2653).
+## REVIEW DECISION 69983 — THE THREE FINDINGS (Exhibit B1, pp 25–27)
+Author: **Ms Victoria Squires, Senior Reviewing Officer, Review Unit, Workers' Compensation
+Regulator** (corroborated at working-notes 2653).
 
 > **Finding A:** *"the rostering of these two shifts amounted to **unreasonable management
 > action** given that it was in **direct contradiction to the award and the 8-hour agreement**."*
 > **Finding B:** *"**work events were the sole cause**"* of the psychological injury.
 > **Finding C:** *"**there was no pre-existing factor or condition**."*
 
-⛔ **Findings B and C were NOT in confirmed-record before today.** Two consequences:
+**Status:** contents **ADMITTED** at Form 24 ¶37; **relevance reserved** because the appeal is a
+hearing **de novo**. ⛔ **Persuasive, NOT binding. Never plead as an estoppel.** Run any
+inconsistency as *an inconsistency the Regulator must explain*.
 
-**1. ⭐ FINDING C ANSWERS THE PRE-EXISTING-CONDITION RISK.** Earlier on 5 Aug I warned that the
-clean-baseline proposition (Form 24 ¶¶33–35) was contested because the Regulator asserts an
-anxiety/ADHD history from 26 Oct 2022 and pleads at amended SOFC ¶8 that it does not admit
-"because medical records identify a past medical history of anxiety". **That warning understated
-the position.** The Regulator's **own delegate expressly found there was no pre-existing factor
-or condition**, and the **contents of the Review Decision are ADMITTED** at Form 24 ¶37. The
-Regulator is contradicting its own Review Officer.
+**Why B and C matter:**
+- ⭐ **Finding C** meets the pre-existing-condition line. The Regulator's **amended SOFC (13 May
+  2026) ¶8** does not admit *"because medical records identify a past medical history of
+  anxiety"* — **in direct conflict with its own delegate's express finding**, the contents of
+  which it has admitted.
+- ⭐ **Finding A defeats the Form 24 ¶4 defence.** Squires found the rostering contradicted the
+  award **and the 8-hour agreement**. Even if the asserted June 2020 8-hour agreement exists,
+  **a 7-hour break breaches it.** Producing it does not assist the Respondent.
+- **Finding B** ("sole cause") sits above the s 32(1) threshold of *a significant* contributing
+  factor.
 
-**2. ⭐ FINDING A DEFEATS THE ¶4 DEFENCE.** Squires found the rostering contradicted the award
-**and the 8-hour agreement**. So even if the June 2020 8-hour agreement the Respondent asserts
-at Form 24 ¶4 exists, **a 7-hour break breaches it**. The agreement does not save them.
-⇒ Revise the earlier note: ¶4 is still their affirmative case and they must produce the
-agreement — **but producing it does not help them.**
+⇒ This is a **medical causation contest at hearing**. **Report B's work.**
 
-### THE FOUR GROUNDS (Grounds 1–2 read; 3–4 in the remaining pages)
-- **Ground 1 — the *Mahaffey* estoppel:** the s 32(5)(a) defence is legally unavailable. A roster
-  in "direct contradiction to the award" is an **objective breach of an industrial instrument**,
-  not managerial judgment, and cannot be "reasonable management action taken in a reasonable
-  way". Invites **strike-out of Form 9C ¶36**.
-- **Ground 2 — the *Church/Wicks* bar:** the unpleaded ADHD/anxiety causation defence, deployed
-  for the first time at ¶32 of the Admissions Response, is prohibited.
+## MEDICAL RECORDS — SEALED, BUT STILL RELIED ON
+Cory **accepted the sealing** of his medical records. ⭐ **A s 580 order restricts PUBLICATION.
+It does not prevent a party RELYING on the material** — and the Respondent continues to press it
+in the updated Form 9C.
 
-### ⚠⚠ FIVE VULNERABILITIES IN SCHEDULE B — VERIFY BEFORE ANY RELIANCE
+⇒ **Production is spent** (records produced and sealed) — a r 64E(2) production objection is
+pointless. **Use is live** — the remedy is a **relevance / admissibility objection at the
+hearing** to the ¶¶26–29 material and to any reliance on a pre-2024 psychiatric history.
 
-**1. ⛔ RULE 226 DOES NOT SAY WHAT SCHEDULE B SAYS.** Verified verbatim against ATT27:
-**r 226 is "Effect of failure to comply with rules"** — it makes non-compliance an irregularity
-and gives powers to set aside, declare a document or step ineffectual, etc. **It is NOT an
-abuse-of-process provision.** Pleading a contradictory contention is not "a failure to comply
-with these rules". **r 226(2)(c) does not support the strike-out as framed.**
+⭐ **PRECEDENT FOR THE 64G:** the Commission has **already made a sealing order in this
+proceeding**. Draft order 6 (s 580 non-publication of PID 24-ESU-1130, giving effect to s 65 PID
+Act) therefore follows an established course rather than being a novel request.
 
-**2. ⚠ s 545(2)(a)(i) is a COSTS provision**, not a strike-out power. Invoking it to invite a
-strike-out conflates costs with substantive relief.
-
-**3. ⚠⚠ THE "BINDING" FRAMING CONTRADICTS OUR OWN VERIFIED POSITION.** Schedule B says the
-findings "are not findings the Respondent can now litigate around". But Form 24 ¶37 answers
-**contents admitted, relevance reserved, "because the appeal is a hearing de novo and it is for
-the Commission to determine"**; confirmed-record records the findings as **"admitted as a
-DOCUMENT, persuasive, NOT as a binding determination — do not overstate as conclusive"**; and
-`case-law-and-directions.md` records that **"the review officer's global approach is not
-binding"**. ⇒ **Estoppel against a de novo hearing is a hard argument.** The findings are
-powerful evidence and a serious inconsistency the Regulator must explain — **not a bar.**
-
-**4. ⚠ CITATION INCOMPLETE.** Schedule B cites *"Mahaffey ICQ 10"* with **no year**. The
-verified citation is **Workers' Compensation Regulator v Mahaffey [2016] ICQ 10**.
-
-**5. ⚠ *Church* / *Wicks* / *Bird v Commonwealth* ARE NOT IN THE CASE-LAW FILE.** No primary
-source held. **Verify all three before any further reliance.**
-
-### AND THE LIMIT ALREADY BANKED
-`case-law-and-directions.md`: *Mahaffey* "still requires the unreasonable stressor to be a
-**significant** contributor to the injury — which is a **medical-causation** question". ⇒ Ground 1
-does not win alone. **Report B still has to tie the injury to the fatigue/rostering strand.**
-
-### ⛔ OUTSTANDING — THE OUTCOME IS UNKNOWN
-A 12-page application with four grounds, inviting a strike-out, was filed 25–27 February 2026.
-The next listings were the **27 Feb mention** and the **13 Mar s 552A conference**.
-**What happened to it? Was it determined, withdrawn, adjourned, or subsumed?** Nothing in the
-repo records the outcome. **Establish this before Friday** — it bears on what is already before
-Dwyer.
-
-### ✅ OUTCOME OF THE FEBRUARY 2026 APPLICATION — advised by Cory, 5 Aug 2026
-**He RECALLED the application**, and **his medical files were SEALED.**
-
-**Consequences:**
-
-**1. The four grounds were never determined.** The *Mahaffey* estoppel, the *Church/Wicks* bar
-and the invitation to strike out Form 9C ¶36 were **not decided** — neither won nor lost.
-⇒ They remain **available to be re-run**, and the five defects identified above (r 226, s 545,
-the "binding" framing, the incomplete *Mahaffey* citation, the unverified *Church*/*Wicks*/*Bird*)
-can be **corrected before they are ever put again**. Recalling it preserved the arguments.
-
-**2. ⭐ THE SEALING IS A PRECEDENT FOR FRIDAY.** The Commission has **already made a
-confidentiality/sealing order in this matter** over the medical material. That is directly
-relevant to **draft order 6** of the 64G application (s 580 IR Act non-publication of the fact
-and content of PID 24-ESU-1130, giving effect to s 65 PID Act): **the Commission has done it
-once in this proceeding already.** ⇒ Order 6 is materially more likely to be made, and can be
-put as following an established course rather than as a novel request.
-⛔ **CONFIRM before Friday: the order's date, its precise terms, whether it was made by consent
-or on application, and whether it extends beyond the medical records.**
-
-**3. ⚠ REVISES THE r 64E(2) ADVICE GIVEN EARLIER TODAY.** With the medical material sealed, the
-confidentiality harm is contained. An objection under r 64E(2) (grounds (e) confidential nature
-and (f) effect on any person) would now be about **relevance and exclusion**, not protection —
-a weaker and much less necessary application, and one that reopens a matter already resolved by
-another route. ⇒ **Do not run it** unless the exclusion of the ¶¶26–29 material becomes
-necessary at the hearing stage, and then on relevance grounds only.
-
-**4.** The r 24(1) service point likewise loses most of its practical value: the harm it would
-have addressed has been dealt with. **Keep it as context, not as an application.**
-
-#### ⚠ CORRECTION to the entry above — Cory's account, 5 Aug 2026
-The application was **not simply recalled**. At a **conference** (with a complaint and a
-referral also in issue — ⛔ detail to be supplied) he said he **wanted it recalled and would no
-longer press that submission**, and he **accepted the sealing of his medical records**.
-**⭐ The Respondent nonetheless continued to press the medical material in the UPDATED FORM 9C
-(amended SOFC, 13 May 2026).**
-
-### ⭐ THE DISTINCTION THAT MATTERS: SEALING ≠ EXCLUSION
-A **s 580 order restricts publication**. It does **not** prevent a party **relying on** the
-material in the proceeding. ⇒ He obtained privacy from the world and **no protection against
-use**.
-> **Amended SOFC (13 May 2026) ¶8:** does not admit the allegations *"**because medical records
-> identify a past medical history of anxiety**"*.
-
-⛔ **THIS REVERSES THE ADVICE GIVEN EARLIER ON 5 AUG** that "the confidentiality harm is
-contained" and the exclusion point should not be run. **It is not contained.** The correct
-position:
-- **Production has happened and the records are sealed** ⇒ a r 64E(2) *production* objection is
-  spent and pointless.
-- **Use is live** ⇒ the remedy is a **relevance / admissibility objection at the hearing** to
-  the ¶¶26–29 material and to any reliance on a pre-2024 psychiatric history.
-
-### THE PLEADING SEQUENCE — and why Ground 2 became moot
-| Date | Event |
-|---|---|
-| **18 Feb 2026** | Respondent deploys the ADHD/anxiety causation point at **¶32 of the Admissions Response** — **unpleaded** |
-| **25–27 Feb 2026** | Schedule B, **Ground 2 (*Church/Wicks* bar)** objects to it as an unpleaded ambush |
-| **~13 Mar 2026** | Conference. Application recalled; sealing accepted |
-| **13 May 2026** | ⭐ **Amended SOFC now PLEADS it at ¶8** |
-
-⇒ **The Respondent cured the defect by amending.** Ground 2 was answered not by argument but by
-amendment — which is the ordinary outcome, since tribunals allow amendment rather than strike
-out. **The loss from recalling is therefore smaller than it looks:** Ground 2 was always likely
-to be met this way.
-
-### ⭐ WHAT IT BECOMES — and this is the strong version
-The pre-existing-condition question is now a **medical causation contest at hearing**, not a
-pleading fight. On it:
-
-| For | Against |
-|---|---|
-| **Finding C** — *"there was no pre-existing factor or condition"* (Squires) | The asserted **anxiety/ADHD history from 26 Oct 2022**, said to be "missing from Exhibit A5" |
-| **Finding B** — *"work events were the sole cause"* | |
-| **Both admitted as to contents** — Form 24 ¶37 | Relevance reserved (de novo) |
-
-⇒ **The Regulator's amended ¶8 is in direct conflict with its own delegate's express finding**,
-the contents of which it has admitted. That is the contest, and it is Report B's work to win it.
-⛔ Do NOT run it as an estoppel. Run it as **an inconsistency the Regulator must explain.**
+## ⛔ THE FEBRUARY 2026 FORM 4 / FORM 20 — RECALLED. CLOSED.
+Cory **recalled** that application at a conference and no longer presses that submission.
+**It is not a live issue and requires no analysis.** Nothing in it is to be re-run, re-argued or
+carried forward. The stamped filings remain in `documents/filings/` as part of the Commission's
+record — they are not deleted, because filed and stamped documents are not ours alone to
+destroy, and we are simultaneously asking MSH to preserve its records. **No further work on it.**
