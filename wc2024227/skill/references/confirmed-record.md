@@ -343,3 +343,95 @@ costs reserved.
 - ⚠ Note: the Form 20 ¶9 pleads "approximately 200 to 300 calls per shift". The April 2025
   data is **higher** (avg 360). The pleading is conservative and safe; do not amend it, but the
   workbook supports the higher figure if ever put in issue.
+
+---
+
+## ⛔⛔ CORRECTION 5 AUG 2026 — THE "NO DUTY TO SERVE" CONCLUSION WAS WRONG
+
+**Cory challenged the earlier conclusion and required the legislation be checked rather than
+the Respondent's answer accepted. He was right.** The Rules are now in the repo at
+`documents/instruments/ATT27_IR_Tribunals_Rules_2011_current_23Aug2024.pdf`
+(sl-2011-0237, current as at 23 August 2024, downloaded from legislation.qld.gov.au 5 Aug 2026).
+
+### What the earlier entry said
+That r 64D(1)(a)'s carve-out ("other than a party") meant there was no duty to serve Cory, and
+that a service breach must never be pleaded. **That assessed Subdivision 7A in isolation and
+never checked the general service rules.**
+
+### ⭐ RULE 24 — VERBATIM
+> **24 Who is to be served**
+> **(1) The party by or for whom a document is filed or issued in a proceeding must serve the
+> document on each other party to the proceeding.**
+> (2) Subrule (1) does not apply if—
+>   (a) the court, commission, or registrar otherwise directs; or
+>   (b) **the Act or these rules provide otherwise.**
+
+### The argument that is now available
+1. The Respondent's own Response ¶23 states the medical-records Form 29 was **"signed by a
+   Senior Registry Officer on 4 July 2025"** ⇒ it was **issued in the proceeding**.
+2. **r 24(1)** therefore required the Regulator to serve it **on each other party** — and Cory
+   is the other party.
+3. **r 64D(1)(a) does not relieve them.** It imposes an *additional* duty to serve **non-party**
+   subjects of a notice. Its carve-out "other than a party" is naturally read as avoiding
+   duplication — parties are already covered by r 24(1) — **not as creating an exemption**.
+
+### ⚠ STRESS TEST — this is arguable, not certain
+Their answer will be **r 24(2)(b)**: that Subdivision 7A "provides otherwise" and is an
+exhaustive code for who is served with a non-party notice, supported by **r 64C(2)** ("only
+after the party has served all other persons who are required to be served under rule 64D").
+That reading requires treating a *silence* about parties as an *exclusion* of them. It is a
+real answer and may succeed.
+
+**But the Respondent's ¶25 addresses only r 64D and never mentions r 24.** The argument has
+never been put to them.
+
+⇒ **REVISED POSITION: the r 24(1) point may be run**, carefully and as a service question
+rather than as "unlawfully obtained". **Do not overstate it as illegality.** And note r 64E
+remains an objection right, not a service duty — the ¶25 plea of "breach of Rule 64E" is still
+wrong and should be re-framed to r 24(1).
+
+### ⭐⭐ THREE BETTER POINTS THE RESPONDENT HAS NEVER ANSWERED
+
+**1. r 64B(2) — a THRESHOLD PROHIBITION.**
+> *"The party **may not** require production of a document if there is available to the party
+> another reasonably simple and inexpensive way of proving the matter sought to be proved by
+> the document."*
+
+Cory was a **party**, **legally represented**, and the records are **his own**. Obtaining them
+by request, by consent or through ordinary disclosure was plainly "another reasonably simple
+and inexpensive way". ⇒ **The notice arguably should never have issued.** This is not a service
+question and is untouched by any carve-out.
+
+**2. r 64B(1)(a) — "directly relevant".** The notice may require only a document *directly
+relevant to a matter in issue*. They took the **whole GP record**. Response ¶26 answers that
+the records "read as a whole … are relevant" — which is not the test. Notice ¶¶26–29 identify
+entries with no conceivable relevance.
+
+**3. r 64D(5) — the notice must NAME everyone required to be served.**
+> *"The party must write the name and address of anyone who must be served under this rule on
+> the notice and on all copies of the notice."*
+⇒ **OBTAIN THE MEDICAL-RECORDS FORM 29 ITSELF** (Registry-signed 4 July 2025) and inspect it.
+
+### ⭐ THE LIVE REMEDY — r 64E(2) + r 64F
+> **64E(2)** *"another person who would be affected by the notice and who has not been served
+> may object to the production … **at any time with the leave of the industrial tribunal**."*
+> **64F** *"Service of an objection under rule 64E **operates as a stay of the notice**."*
+
+Grounds available under **r 64E(4)**: **(b)** lack of relevance · **(d)** privilege ·
+**(e)** confidential nature · **(f)** the effect production would have on any person ·
+**(g)** that the objector should have been served.
+
+⇒ **This is a present remedy, not a historical grievance.** Leave, then an objection, then an
+automatic stay. Sequence it deliberately and take advice before deploying.
+
+### Other rules verified this session
+- **r 64C(1)** — the notice must state the matter in issue about which the document is directly
+  relevant, be in the approved form, and be served on the non-party.
+- **r 64C(2)** — the non-party may be served **only after** all r 64D persons are served.
+- **r 64G(2)** — the tribunal may lift the stay, **vary the notice**, or **set aside the
+  notice**. **r 64G(3)** — each party bears its own costs unless otherwise ordered.
+- **r 64B(4)** — non-party production is **not an ongoing duty** (relevant to MSH's position).
+- **r 64H(1)** — production is for inspection at the non-party's place of business unless
+  otherwise agreed; **r 64I** — the party pays the non-party's reasonable expenses.
+  ⚠ **r 64I cuts against MSH's expense objections** — expenses are recoverable from Cory, so
+  cost is compensable rather than a reason to refuse.
