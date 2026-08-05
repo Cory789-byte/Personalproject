@@ -161,22 +161,63 @@ PH4 = [
 ]
 
 PH5 = [
- ("(2025)", "Reinstated following TD/2024/110", "Related matter"),
- ("7 Apr 2025 → 14 Jun 2026", "⭐ <b>Fourteen months of reduced-hours work</b>, "
-  "evidenced by payslips",
-  "Contradicts “unable to accommodate a graduated return to work”"),
- ("8 Apr 2025", "Reinstatement process correspondence with J Roberts", "Pack 05"),
- ("(Mar 2025)", "⚠ RESTRICTED CATEGORY — leave request chain and response involving "
-  "the Director, Corporate Services", "Scope decision required before any use. Not for service"),
- ("28 Mar 2025", "Hughes correspondence citing Directive 03/20, HR Policy C73, HR Policy E4",
-  "None of those policies held; health.qld.gov.au returns 403"),
- ("27 Aug 2025", "Scheduled meeting cancelled — Hughes unwell", "Pack 03"),
- ("8 Sep 2025", "⭐ <b>Hughes attendance letter — 34 occasions</b>",
-  "The last time attendance was formally raised. Not raised again since"),
- ("3 Oct 2025", "Formal written request for review to the A/Director, HR Business Partnering, "
-  "concerning a process initiated by the officer who later signs the 31 Jul 2026 RFMI; union "
-  "copied", "Recorded at Part 2(d) of the 3 Aug 2026 letter to the Chief Executive"),
- ("4 Oct 2025", "Complaint about Hughes to J Roberts, cc Moran", "Pack 03 / 05"),
+ ("(late 2024 / early 2025)", "⛔ <b>DATE TO SUPPLY —</b> reinstatement following "
+  "TD/2024/110; returned <b>directly under the same Director and Line Manager</b>",
+  "Application stamped 25 Oct 2024. <b>The actual return date is not in the repo</b>"),
+ ("⛔ TO SUPPLY", "<b>Relocation / isolation to another office</b>",
+  "Raised by Cory 5 Aug 2026. <b>Not evidenced in any document held.</b> The 8 Apr 2025 "
+  "Roberts email is NOT it (it records Cory in the security office offering to meet). "
+  "Needs date + source before any use"),
+ ("8 Apr 2025 14:19–14:21", "Reinstatement-process exchange with <b>J Roberts</b>, "
+  "A/Director HR Business Partnering — Cory offers a face-to-face meeting; Roberts is "
+  "in the Administration offices and will find a room", "Pack 05"),
+ ("7 Apr 2025 → 14 Jun 2026", "⭐ <b>Fourteen months of reduced-hours work</b>, evidenced "
+  "by payslips", "Contradicts “unable to accommodate a graduated return to work”"),
+ ("⛔ TO SUPPLY", "<b>An additional full-time employee engaged in Switchboard</b>, and "
+  "<b>subsequently removed</b>", "Raised by Cory 5 Aug 2026. <b>Not documented in the "
+  "repo.</b> Needs dates, the position, and the source. Goes to whether the service "
+  "could accommodate hours — and to the “unable to accommodate” statement"),
+ ("⚠ 12 Mar 2025", "⚠ <b>RESTRICTED.</b> Confidential disclosure to the Director, "
+  "Corporate Services of a personal crisis, with court documentation; <b>request for "
+  "Domestic and Family Violence leave under PSC Directive 03/20</b>",
+  "Source: Cory's complaint of 4 Oct 2025 (Attachments A and B). <b>Internal only. "
+  "Do not reproduce the detail.</b>"),
+ ("⚠ 28 Mar 2025", "⚠ <b>RESTRICTED.</b> Management responds that the leave may not be "
+  "available, on the basis of how he is characterised in a court matter",
+  "4 Oct 2025 complaint (Attachment C): described as “factually incorrect”, "
+  "contravening the Directive, and contrary to advice he had received. <b>⛔ The "
+  "characterisation itself is NEVER to be voiced forward — discipline rule 10</b>"),
+ ("28 Mar 2025", "Hughes correspondence citing <b>Directive 03/20</b>, HR Policy C73, "
+  "HR Policy E4", "None of those policies held; health.qld.gov.au returns 403"),
+ ("(from ~Mar–Apr 2025)", "⭐ <b>“Punitive performance monitoring” begins</b> — "
+  "attendance logged instance by instance",
+  "Cory's own contemporaneous words, 4 Oct 2025 complaint ¶2. <b>The logging FOLLOWS "
+  "the confidential disclosure</b>"),
+ ("27 Aug 2025", "⭐ Cory <b>proactively offers Hughes' office documentation</b> before a "
+  "scheduled meeting. <b>The meeting is cancelled immediately afterwards</b>",
+  "Attachment E. Later relied on against him — see 10 Sep"),
+ ("8 / 10 Sep 2025", "⭐⭐ <b>Hughes attendance letter — 34 occasions</b>, initiating a "
+  "performance improvement process, and asserting that Cory's actions caused meetings "
+  "not to proceed",
+  "Repo file dated <b>8 Sep</b>; the complaint dates the letter <b>10 Sep</b> — "
+  "⚠ reconcile. <b>The last time attendance was formally raised. Not raised since.</b> "
+  "Attachment F"),
+ ("29 Sep 2025 ~15:00", "Immediately after his shift, the Line Manager emails <b>both his "
+  "personal and work addresses</b> “to follow up to see if I understand the on-call "
+  "process”", "4 Oct 2025 complaint ¶3 — “intrusive and inappropriate”. The same "
+  "on-call formulation reappears in 2026"),
+ ("3 Oct 2025", "Formal written request for review to the A/Director, HR Business "
+  "Partnering, concerning a process initiated by the officer who later signs the 31 Jul "
+  "2026 RFMI; union copied",
+  "Recorded at Part 2(d) of the 3 Aug 2026 letter to the Chief Executive"),
+ ("4 Oct 2025 12:43", "⭐⭐ <b>FORMAL REQUEST FOR REVIEW to J Roberts, cc H Moran</b> — "
+  "“Performance Management Process and Handling of Confidential Disclosure”. Seeks "
+  "suspension of the performance process, an independent review of the handling of the "
+  "confidential disclosure and the leave request against Directive 03/20, <b>a formal "
+  "audit and correction of the leave balance “improperly coded”</b>, and an impartial "
+  "HR intermediary",
+  "⭐ <b>Cory raised every element himself, in writing, to HR, with the union copied — "
+  "eleven months before the 2026 exclusion.</b> ⚠ Contains restricted material"),
 ]
 
 PH6 = [

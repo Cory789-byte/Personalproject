@@ -227,3 +227,33 @@ See `ALTIUS-RED-TEAM-5AUG.md`. Absent from the entire record before Cory's own 4
 enquiry. No link to Willson (direct or via Aussafe Consulting). No published Queensland Health
 contract found (not conclusive). Only residual: Glockling's own Executive Health Solutions
 client book plausibly includes health-sector employers — a relationship risk, not a network.
+
+### ⭐ THE 2025 HUGHES SEQUENCE — verified from Cory's own complaint of 4 Oct 2025
+Source: `documents/2025-hughes-history/2025-10-04_Cory_COMPLAINT_about_Hughes_to_Roberts_cc_Moran.pdf`
+— "Formal Request for Review: Performance Management Process and Handling of Confidential
+Disclosure", to **Ms Jacquie Roberts, A/Director HR Business Partnering**, cc **Heath Moran**,
+Sat 4 Oct 2025 12:43.
+
+| Date | Event |
+|---|---|
+| **12 Mar 2025** | ⚠ RESTRICTED. Confidential disclosure to the Director, Corporate Services of a personal crisis with court documentation; **request for DFV leave under PSC Directive 03/20** (Attachments A, B) |
+| **28 Mar 2025** | ⚠ RESTRICTED. Management responds that the leave may not be available, on the basis of how he is characterised in a court matter (Attachment C). Cory: "factually incorrect", contravenes the Directive, contrary to advice he had received (Attachment D). ⛔ **The characterisation is NEVER voiced forward — discipline rule 10** |
+| **from ~Mar–Apr 2025** | ⭐ **"punitive performance monitoring"** begins — attendance logged instance by instance. **It FOLLOWS the confidential disclosure** |
+| **27 Aug 2025** | Cory **offers Hughes' office documentation** before a scheduled meeting; **the meeting is cancelled immediately afterwards** (Attachment E) |
+| **8 / 10 Sep 2025** | ⭐ **Hughes attendance letter — 34 occasions**, initiating a performance improvement process and asserting Cory's actions caused meetings not to proceed (Attachment F). ⚠ repo file dated **8 Sep**; the complaint dates it **10 Sep** — reconcile |
+| **29 Sep 2025 ~15:00** | Immediately after his shift, the Line Manager emails **both his personal and work addresses** "to follow up to see if I understand the on-call process" — "intrusive and inappropriate". **The same on-call formulation reappears in 2026** |
+| **3 Oct 2025** | Formal written request for review to the A/Director, HR Business Partnering (recorded at Part 2(d) of the 3 Aug 2026 CE letter) |
+| **4 Oct 2025 12:43** | ⭐⭐ **The complaint itself.** Seeks: suspension of the performance process · independent review of the handling of the confidential disclosure and the leave request against Directive 03/20 · **a formal audit and correction of the leave balance "improperly coded"** · an impartial HR intermediary |
+
+⭐ **Significance:** Cory raised every element himself, in writing, to HR, with the union
+copied, **eleven months before the 2026 exclusion** — the DFV-leave handling, the punitive
+monitoring, the misrepresentation of the cancelled meeting, and the improperly coded leave.
+The leave-coding complaint of Oct 2025 prefigures the leave debit of Jul 2026.
+
+### ⛔ RAISED BY CORY 5 AUG 2026 BUT **NOT EVIDENCED IN THE REPO** — dates and sources needed
+1. **The reinstatement date** after the 8 Oct 2024 termination (TD/2024/110 stamped 25 Oct 2024).
+2. **Relocation / isolation to another office.** The 8 Apr 2025 Roberts email is **NOT** it — it
+   records Cory *in* the security office offering to meet Roberts.
+3. **An additional full-time employee engaged in Switchboard, and subsequently removed.** Goes
+   directly to whether the service could accommodate hours, and to the "unable to accommodate a
+   graduated return to work" statement. Needs dates, the position and the source.
