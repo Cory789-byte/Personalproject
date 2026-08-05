@@ -887,20 +887,31 @@ Header: **"Appeal against decision of Respondent pursuant to section 549"**. Sig
 2. Respondent to file its amended SOFC by 4:00pm **13 May 2026**.
 3. Further mention before Dwyer, date to be advised, **not before 13 May 2026**.
 
-### ⭐ WHY THIS MATTERS MORE THAN ANYTHING ELSE ON BLOCK 4
-**Dwyer directed the case be pleaded as a LIST OF STRESSORS.** That is the
-***Mahaffey*/*Carr* individual-stressor structure**, not the ***Delaney*** global-course
-structure. The Commission's own directions frame the matter as **discrete stressors to be
-assessed**, which is the framing on which a single admitted unreasonable stressor can carry the
-appeal.
-⇒ **Block 4 (defeating s 32(5)(a)) was materially under-priced.** He also granted leave **in the
-same form as the draft, the same day** — no reservation about the amended pleading.
+### ⛔ CORRECTED 5 Aug 2026 — DO NOT OVER-READ THIS ORDER
+An earlier note today treated NOTE (a), the **"concise List of Stressors"**, as Dwyer
+deliberately structuring the case on an individual-stressor (*Mahaffey*/*Carr*) footing.
+**Cory has corrected that: the order is largely the STANDARD QIRC directions notice for
+psychiatric-injury appeals, with some modification.**
+
+⇒ **NOTE (a) is boilerplate, not a bespoke judicial framing. It signals standard practice, not a
+view on global-versus-individual assessment. Block 4 must NOT be lifted on the strength of it,
+and the lift applied earlier today is withdrawn.**
+
+What the order *does* establish, and no more: leave to amend was granted **in the same form as
+the draft, on the same day** (no reservation about the amended pleading); the Respondent's
+amended SOFC was due 13 May 2026; and a further mention was to follow.
+
+⚠ **Method note: this was an over-read of a boilerplate document — the same failure mode flagged
+elsewhere in this file. Check whether a document is a standard form before drawing an inference
+from its wording.**
 
 ## MATHESON — THE PATTERN
 - **11–12 Feb 2026:** Cory serves Form 4, Form 20, Form 24 and **376 pages of exhibits**
   (134 + 126 + 116). Matheson acknowledges receipt and waives hard copy.
-  ⭐ **THE EXHIBIT BUNDLE (A1–I2) IS THEREFORE IN THE REGULATOR'S HANDS.** It is not in this
-  repo. **Request a copy from Matheson or the Registry — this closes the exhibit gap.**
+  ⚠ **CORRECTED: these were CORY'S OWN submissions, served BY him.** The bundle is in the
+  Regulator's hands because he put it there — this is not a discovery. The gap is a **filing gap
+  in this repo**, not an access gap. If his own copies are incomplete, a copy can be requested
+  from Matheson or the Registry, but the material originated with him.
 - **20 Mar 2026 (after the s 552A conference):** *"if the documents are in the possession of the
   Regulator, you can email me a request for those documents and **I will disclose them to you
   without the need for a Notice to Produce**. However, should there be documents you want
