@@ -597,3 +597,52 @@ necessary at the hearing stage, and then on relevance grounds only.
 
 **4.** The r 24(1) service point likewise loses most of its practical value: the harm it would
 have addressed has been dealt with. **Keep it as context, not as an application.**
+
+#### ⚠ CORRECTION to the entry above — Cory's account, 5 Aug 2026
+The application was **not simply recalled**. At a **conference** (with a complaint and a
+referral also in issue — ⛔ detail to be supplied) he said he **wanted it recalled and would no
+longer press that submission**, and he **accepted the sealing of his medical records**.
+**⭐ The Respondent nonetheless continued to press the medical material in the UPDATED FORM 9C
+(amended SOFC, 13 May 2026).**
+
+### ⭐ THE DISTINCTION THAT MATTERS: SEALING ≠ EXCLUSION
+A **s 580 order restricts publication**. It does **not** prevent a party **relying on** the
+material in the proceeding. ⇒ He obtained privacy from the world and **no protection against
+use**.
+> **Amended SOFC (13 May 2026) ¶8:** does not admit the allegations *"**because medical records
+> identify a past medical history of anxiety**"*.
+
+⛔ **THIS REVERSES THE ADVICE GIVEN EARLIER ON 5 AUG** that "the confidentiality harm is
+contained" and the exclusion point should not be run. **It is not contained.** The correct
+position:
+- **Production has happened and the records are sealed** ⇒ a r 64E(2) *production* objection is
+  spent and pointless.
+- **Use is live** ⇒ the remedy is a **relevance / admissibility objection at the hearing** to
+  the ¶¶26–29 material and to any reliance on a pre-2024 psychiatric history.
+
+### THE PLEADING SEQUENCE — and why Ground 2 became moot
+| Date | Event |
+|---|---|
+| **18 Feb 2026** | Respondent deploys the ADHD/anxiety causation point at **¶32 of the Admissions Response** — **unpleaded** |
+| **25–27 Feb 2026** | Schedule B, **Ground 2 (*Church/Wicks* bar)** objects to it as an unpleaded ambush |
+| **~13 Mar 2026** | Conference. Application recalled; sealing accepted |
+| **13 May 2026** | ⭐ **Amended SOFC now PLEADS it at ¶8** |
+
+⇒ **The Respondent cured the defect by amending.** Ground 2 was answered not by argument but by
+amendment — which is the ordinary outcome, since tribunals allow amendment rather than strike
+out. **The loss from recalling is therefore smaller than it looks:** Ground 2 was always likely
+to be met this way.
+
+### ⭐ WHAT IT BECOMES — and this is the strong version
+The pre-existing-condition question is now a **medical causation contest at hearing**, not a
+pleading fight. On it:
+
+| For | Against |
+|---|---|
+| **Finding C** — *"there was no pre-existing factor or condition"* (Squires) | The asserted **anxiety/ADHD history from 26 Oct 2022**, said to be "missing from Exhibit A5" |
+| **Finding B** — *"work events were the sole cause"* | |
+| **Both admitted as to contents** — Form 24 ¶37 | Relevance reserved (de novo) |
+
+⇒ **The Regulator's amended ¶8 is in direct conflict with its own delegate's express finding**,
+the contents of which it has admitted. That is the contest, and it is Report B's work to win it.
+⛔ Do NOT run it as an estoppel. Run it as **an inconsistency the Regulator must explain.**
