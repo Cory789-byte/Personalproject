@@ -1327,3 +1327,47 @@ afford · and it opens a fifth track while unwell and unpaid.
 
 ⭐ **SIX YEARS MEANS HE NEVER HAS TO RUSH THIS. The only thing pushing him is money — and the
 answer to money is Centrelink and hardship arrangements, not a premature filing.**
+
+## ⭐⭐ PSYCHIATRIST BOOKED 12 AUGUST 2026 — GP NOT REQUIRED (Cory, 6 Aug 2026)
+Krishnaiah consultation **12 Aug 2026**. **He will address whatever is put to him.**
+**Dr Ma (GP) is no longer needed.**
+
+### Three consequences
+
+**1. ⭐ THE SUBSTITUTION IS AN IMPROVEMENT, AND SHOULD BE NOTIFIED.** Hughes's RFMI of 31 July
+was addressed to **Dr Day Hong Ma, GP**. The questions concern **a psychiatric condition** —
+diagnosis of MDD, clinical basis for stressor attribution, foreseeable risk, working memory under
+stress. **A GP is the wrong practitioner for most of them.** Substituting the treating
+psychiatrist is more clinically appropriate and cannot be criticised.
+⇒ **Notify MSH in one line:** the questions concern a psychiatric condition and will be addressed
+by the treating psychiatrist, consultation booked 12 August. **This also answers the seven-day
+RFMI window without conceding anything.**
+
+**2. THE SEQUENCE HOLDS.** Stage 2 referral **10 Aug** (does not depend on the report) →
+consultation **12 Aug** → reports follow. No conflict.
+
+**3. ⭐⭐ THE LETTER OF INSTRUCTION IS NOW THE DELIVERABLE.** If the psychiatrist answers what is
+put to him, then **the instruction he takes into the 12 August consultation is the single most
+consequential document in the matter** — worth roughly 9 points on Block 3 and, on the banked
+range, the difference between ~38% and ~55%.
+
+### What the instruction must do — BOTH scopes, in one document, from one attendance
+| | **REPORT A → MSH** | **REPORT B → the appeal** |
+|---|---|---|
+| Purpose | capacity, restrictions, adjustments | diagnosis, onset, **causation** |
+| Answers | RFMI Q1(a), Q4, Q5, Q7, Q8 in functional terms | Q1(b), Q1(c), Q1(d) content — as causation |
+| Aetiology | ⛔ **SILENT — as declared to MSH** | ⭐ the whole point |
+| Declines | **Q3, Q6, Q9** — workplace and legal questions, not medical | — |
+| Register | functional, practical | **"a significant contributing factor"** — ⛔ never "major" |
+| Anchor | the Role Description | ⭐ **the roster / fatigue strand SPECIFICALLY**, not the course of conduct |
+
+⚠ **The scope discipline must be IN THE INSTRUCTION.** One doctor, one attendance, two reports —
+he cannot be left to work out the separation himself.
+
+⚠ **REPORT B MUST BE REASONED, NOT CONCLUDED.** Clinical basis · documents reviewed (roster,
+Review Decision 69983, the certificates) · why this stressor rather than another · the
+pre-existing history addressed head-on (the Regulator pleads a past anxiety history; Squires
+found **no pre-existing factor**). A report that states conclusions survives nothing. A report
+that shows its working survives an opposing IME.
+
+⛔ **NEXT ACTION: draft the letter of instruction before 12 August.**
