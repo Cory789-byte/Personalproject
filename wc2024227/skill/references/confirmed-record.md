@@ -2112,3 +2112,140 @@ inversion, occurring **inside the medical process**, and it is the cleanest inst
   the capacity decision to **himself — a Director of Corporate Services** — which is precisely the
   officer the **s 89 disclosure of 3 August** asked be replaced. ⭐ **The RFMI is the evidence that
   the s 89 letter was necessary, in the decision-maker's own words, dated two days before it.**
+
+## ⭐⭐⭐ THE cl 10.3 REQUEST — READ IN FULL AGAINST THE 8 SEP 2025 LETTER (6 Aug 2026)
+> `drafts/SEND_31JUL/FWA_REQUEST_cl10.3.txt` — **"REQUEST FOR A CHANGE IN THE WAY I WORK"**,
+> cl 10.3.2 EB12 + **s 27 IR Act 2016**, sent **3 August 2026** to `LBH.HRTeam1`.
+> ⭐ **21 days runs to MONDAY 24 AUGUST 2026 — s 29 IR Act / cl 10.3.6 deemed refusal, self-executing.**
+
+### ⛔ CORRECTION TO WHAT I SAID EARLIER TODAY
+I flagged the RFMI extension as not yet sought. **It was — Part 7.2 of the 3 August response
+requests it expressly**, in two parts, and the 31 July letter's condition (*"or seek a reasonable
+extension"*) is therefore satisfied on its face. ⚠ **What is still outstanding is MSH's ANSWER.**
+The live risk is not the 7 August date; it is that MSH neither grants nor refuses and then acts on
+*"the available information."* ⇒ **Chase the answer, don't re-send the request.**
+
+### ⭐⭐ THE STRUCTURE IS THE STRONGEST THING ABOUT IT
+He split the request into **two limbs under s 27(1)** and demanded they be decided separately:
+- **(a) ordinary hours — s 27(1)(a)** ⭐ *"does not depend on illness or injury"*, and no provision
+  makes medical information a precondition. **Part 7(e) drives the nail in:** *"If the Health
+  Service considers it cannot decide Part 2.1 without medical information, I ask that it identify
+  the provision that makes such information a precondition."*
+- **(b) the way he works — s 27(1)(c)**
+
+⭐⭐ **That split defeats the stall.** The RFMI cannot be used to hold up limb (a), because limb (a)
+never depended on it. Either MSH decides the hours, or it must name the provision that stops it —
+and there isn't one. **This is the single best piece of drafting in the employment track.**
+
+### ⭐⭐⭐ THE MEASURES ARE THE ANSWER TO THE 34 OCCASIONS — AND HE ALREADY SAW IT
+> **Part 3.3:** *"Had these measures been in place, they would have addressed a substantial part of
+> the attendance history in the correspondence of 8 September 2025."*
+
+Now that the 8 September letter has actually been read, that sentence is an understatement.
+**Every one of the 34 occasions is a notification-channel or notice-period failure**, clustered at
+**05:00–07:30 and late at night**, against a process requiring **2 hours' notice** or a call
+**"before 10pm or after 4am"**. The measure at **2.2** — *a call one hour before each rostered
+shift; a second call if unanswered; on-call engaged only if attendance is still unconfirmed* —
+**dissolves the entire category.** It replaces a rule a 6am starter cannot comply with by a
+mechanism that runs from the employer's side.
+
+⭐⭐ **AND IT COSTS NOTHING.** *"The on-call is engaged only if the two calls do not produce a
+confirmation, so it carries no cost on any shift I attend… the arrangement costs one telephone
+call."* Plus: an on-call arrangement **already exists in the unit** (advised to the team 15 April
+2024) — *"the application of a mechanism Switchboard Services already operates, not the creation
+of a new one."*
+
+⭐ **And 2.2 refuses the trap most such requests fall into:** *"it is not an assessment of my
+condition, and I am not asking that colleagues on shift observe, assess or report on my mental
+state… No colleague needs to know anything about my health."* ⭐⭐ That single paragraph removes
+the privacy objection, the co-worker-burden objection and the stigma objection before they are
+made. **Keep it in every future version.**
+
+### ⭐⭐⭐ 1 JULY 2025 — THE THREE-STEP SEQUENCE, NOW PROVED VERBATIM
+Corpus `pack 02 p.311`, **Chloe Taylor → Cory, 1 Jul 2025** (03:14:35 UTC = **13:14 AEST**):
+> *"I have just checked MyHR and noticed your leave has been submitted as **Fatigue leave** from
+> 1200-1400 for today's shift. **I have declined this** please submit correct leave either **S/L
+> or A/L**."*
+
+Against the **8 September 2025 letter, third tranche occasion 1**:
+> *"you were rostered 06:00 to 14:00 however departed your shift early at 12:00 noon citing
+> personal matters and fatigue… You submitted a request in MyHR to access fatigue leave, **which
+> was declined on the grounds that the 'fatigue' experienced was due to personal circumstances and
+> not work related.**"*
+
+⭐⭐⭐ **ONE DAY, THREE STEPS:**
+1. He works from 06:00, leaves fatigued at 12:00, and claims **fatigue leave**.
+2. **13:14 — the manager declines it and directs him to convert it to his OWN sick or annual leave.**
+3. **8 September — the same event is counted against him as occasion 1 of an attendance failure.**
+
+⇒ **The employer refused the fatigue mechanism, pushed the absence onto his personal leave
+balance, and then counted the absence as misconduct.** That is the whole case theory in a single
+day, from two independent employer documents.
+⭐⭐ **And it PROVES Part 3.1 of the request:** *"exacerbations are absorbed by my leave balances…
+That is why, on 3 July 2026, my paid sick leave was exhausted — in the course of managing, without
+assistance, a condition arising in the workplace."* **That is no longer an assertion. It has a
+timestamp and a named decision-maker.**
+⭐ Note also the **second refusal pattern**: 19 Mar 2024 and 1 Jul 2025. Two fatigue-leave refusals
+in a 24/7 continuous-shift role with no FRMS coverage.
+
+### ⚠⚠ THREE THINGS TO FIX OR WATCH
+**1. ⛔ Part 3.3 borrows a sentence that means the opposite of what it is used for.**
+It says *"the correspondence of 31 July 2026 records that the Health Service is not aware of any
+performance or conduct matters raised for management."*
+The RFMI sentence is: *"**As the Health Service is not aware of any concerns being raised for
+appropriate management**, clarification on these statements is being sought."* **In context that
+is MSH denying that CORY ever raised concerns about line management** — it is not MSH conceding it
+has no conduct concerns about him. ⚠ **And MSH has a five-page letter headed *"concerns raised
+regarding your workplace behaviour and conduct"* which forecasts a PIP.** If they answer by
+pointing at their own letter, that clause is embarrassed.
+✅ **FIX — small, and it makes the paragraph stronger:** strike the borrowed clause and keep the
+distinction he already draws — ***quality of work*, never raised; *attendance and notification*,
+raised on 8 September 2025 — and that is precisely what these measures address.** The concession
+costs nothing and it makes the request read as squarely responsive.
+⭐ **Save the RFMI sentence for its real use** — the false denial that any concerns were ever
+raised, contradicted by Form 24 **¶20** and **¶21**, the 2023 grievance and the 2025 complaint.
+
+**2. ⚠⚠ THE INHERENT-REQUIREMENT GROUND FOR REFUSING 2.1 IS IN THE DOCUMENT THEY SERVED.**
+The Role Description states the role *"is required to work continuous shift work over the full
+24-hour period, 7 days a week"* and lists under **Mandatory requirements**: *"You **must** be able
+to work a roster which covers multiple shifts over a 24/7 period."*
+⇒ **That is the reasonable ground MSH will reach for**, tied to **RFMI Q6** (full inherent
+requirements). ✅ **The answers, in order of strength:**
+- **2.1 does not reduce 24/7 availability.** It asks for the **number of shifts**, expressly
+  *"worked from within that line"*. Availability across the period is untouched.
+- ⭐⭐ **MSH itself rostered the pattern for twelve months and never raised a concern.** *"If the
+  Health Service takes the view that the requirements of the role cannot be met on that pattern,
+  I ask that it identify what changed, and when."* **cl 10.3.5 requires *reasonable* grounds —
+  and a requirement the employer itself suspended for a year without comment is not one.**
+- **G03 cl 2, in their own words:** unjustifiable hardship is *"tested against the whole
+  organisation, not a division or unit"*, and *"the onus is on Queensland Health… to prove an
+  adjustment is unreasonable, not on the person to prove that it is reasonable."*
+
+**3. ⚠ ONE CITATION IS NOT VERIFIED.** Part 2.1: *"a temporary reduction of hours was raised with
+me by the Health Service itself, as a form of support, in the course of a discussion recorded in
+writing on **30 June 2025**."* ⛔ **The only 30 June 2025 items in the corpus (pack 02 pp. 294,
+302) are about coming in an hour early for the 3 July team meeting — not a reduction of hours.**
+The support offer may sit in the 3 July 2025 meeting record or a PDF outside the corpus.
+⇒ **Locate the source before relying on it again. It is already in a sent document.**
+
+### ⭐⭐ WHAT THE 8 SEPTEMBER LETTER DOES TO THIS REQUEST — THE POSITION IT CREATES
+| | **2025** | **2026** |
+|---|---|---|
+| The problem | Attendance and notification | The same problem |
+| MSH's response | ⛔ Conduct letter · direction to undertake training · **PIP foreshadowed** · **no medical inquiry** · **G3 never invoked** | — |
+| Cory's response | — | ⭐ A written cl 10.3 request for **the adjustment that solves it**, costing **one phone call** |
+
+⭐⭐⭐ **If MSH refuses this request, it refuses the adjustment that answers the very problem it
+opened a conduct file about — having itself never sought a medical opinion when the problem was
+live.** That is the position on 24 August, and it is why the deemed-refusal date is worth more
+than a granted request. ⛔ **But do not write that sentence to MSH.** It is the closing argument,
+not the correspondence. Restraint as posture — rule 5.
+
+### ⭐ TWO PINPOINTS THE REQUEST CAN NOW CITE PRECISELY
+- **2.4 complaint handling** — sourced generally to *"the Health Service's own correspondence"*.
+  ⭐ **The pinpoint is RFMI Q5, 31 July 2026:** *"established process for client complaints received
+  by Switchboard employees is for **immediate escalation and management by the Health Service
+  Client Liaison Officer and/or Manager, Switchboard Services**."* **The restriction costs them
+  nothing because it already IS the process — in the Director's own letter.**
+- **2.5 correspondence routing** — ECC Additional Comments 4(c), already pinpointed. ⭐ Reinforced
+  by the RFMI's own routing: enquiries to **Injury Management**, not Switchboard.
