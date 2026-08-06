@@ -2715,3 +2715,108 @@ pleasantly surprised.**
 | Watch for **consent** or a narrowed category — take it | ⛔ Any suggestion of motive, reprisal or collusion |
 | If Ruttan does not appear: ask for **the notice to issue or directions**. Nothing punitive | ⛔ Costs. Anything adverse to a non-appearing party |
 ⭐ **Rule 5 governs: Dwyer must discover MSH's problems himself.**
+
+## ⭐⭐⭐ THE MSH OBJECTION LETTER — READ IN FULL, 6 AUG 2026. THE DISMANTLING, ITEM BY ITEM.
+> `documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf` — 5pp. **"Office of the Chief
+> Executive."** Enquiries **Myla Ruttan, Principal Lawyer, Metro South Legal Services.**
+> Signed **Ms Noelle Cridland, Chief Executive.** Addressed ***"Dear Commissioner Dwyer"***, sent
+> to `qirc.registry@qirc.qld.gov.au`. Encloses documents for Items **6, 11, 12, 13, 15, 16**.
+
+### ⭐⭐⭐ 1. THE FORM — CORY'S "BACK DOOR" READ IS CORRECT
+A **non-party** wrote **directly to the Commissioner**, over the **Chief Executive's** signature,
+making submissions on **relevance, burden and privacy** — *"**We submit** this ought to be taken
+into consideration by the Commissioner"* — **without an application, without evidence, without
+appearing, and without any of it being sworn.**
+⭐ The letter invokes *"Rule 64E(4)"* — which is the **grounds** provision. The objection
+**mechanism** is r 64E(1)–(2), and r 64F is what gives an objection its effect (it **stays** the
+notice). ⇒ **The stay was obtained by correspondence.** Cory then had to file the **r 64G**
+application (sealed 23 June) to get the objection determined.
+⚠ **Do not plead this as an irregularity.** ⭐ **Its real value: submissions in a letter are
+untested. Nothing in five pages is on oath, and the author does not have to answer for it — unless
+she is in the room.**
+
+### ⭐⭐⭐ 2. THE SELF-IMPEACHMENT — IT SAYS IT NEVER READ THE PLEADING
+> *"At the outset, it should be noted that Metro South Health is **not in receipt of the
+> Applicant's Amended Statement of Facts and Contentions (Form 9A)**… our ability to determine
+> whether the requested documents are **'relevant'** to the proceeding (and therefore give rise to
+> an objection under Rule 64E4(b)) has, to some extent **been limited**."*
+
+⭐⭐⭐ **Every relevance objection in the letter is made by a party that says, in the same letter,
+it has not read the document that defines relevance.** That covers **Items 9, 18 and 20** expressly
+and the *"Matter in Issue as pleaded"* reasoning running through **3(a), 3(b), 8 and 10**.
+⚠ **And it is internally odd:** at **Item 18** MSH reads and relies on **Form 24 ¶14**. **It had
+the Regulator's Response but says it did not have the Appellant's pleading.**
+
+### ⭐⭐ 3. THE INTERNAL CONTRADICTION — ITEM 3(c) AGAINST ITEM 5
+> **Item 3(c):** *"there have been **no 'consequential' changes to operating procedures** over the
+> period requested."*
+> **Item 5:** *"The implementation of **fatigue risk management assessment** at Switchboard Logan
+> Hospital occurred **after 30 June 2024** in connection with an **organisational change related to
+> the reporting lines for Switchboard**."*
+
+⭐⭐ **Two pages apart: no consequential changes to operating procedures, and an organisational
+change to reporting lines that brought fatigue risk management into the unit.**
+⚠ **Fair qualification, and state it before the other side does:** *"consequential"* is doing work
+— MSH means *consequent on complaints* — and the two items address different requests. ⭐ **The
+point is not a lie. The point is that the letter cannot be read as a reliable account of what
+changed, and it was never tested.**
+
+### ⭐⭐⭐ 4. ITEM 20 — THE KILL, AND IT IS PROVED BY THE REGULATOR'S OWN DOCUMENT
+> *"The information requested in item 20 **does not exist**, as the reference cited in the Notice
+> being 'PID24-ESU-1130' **commenced in November 2024**, which falls outside the specified search
+> period of 13 May 2024 to 31 May 2024."*
+
+⭐⭐ **That is a category error presented as a non-existence answer.** The request was for the
+**operational HR reaction during 13–31 May 2024**. MSH answered by reference to when the **PID file
+number was created**. **When a reference number was issued says nothing about whether HR documents
+exist from May 2024.**
+⭐⭐⭐ **And the documents exist. Page 7 of the Regulator's 11 June 2026 disclosure IS the
+operational HR response** — LBH_HR/Harrison **15 May 2024 15:41** → **Punch, McGinley, McNamee**;
+McGinley **16 May 2024 11:43** → **Reese, Tracey Smith**. **Six named HR officers, in the requested
+window, produced by the Regulator SIX DAYS after MSH told the Commissioner the material does not
+exist.**
+⭐ **This is the strongest single point in the 64G and it does not depend on a word from Cory.**
+
+### ⭐⭐ 5. WHAT THE LETTER ADMITS, ONCE READ AS EVIDENCE RATHER THAN AS AN OBJECTION
+| Item | The Chief Executive's own words | Why it matters |
+|---|---|---|
+| **4, 7** | *"Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants. The Logan Hospital Switchboard staff are **non-clinical staff**, and therefore there is **no mandatory requirement**"* | ⭐⭐⭐ Against **Form 24 ¶8 ADMITTED** (*"critical… to patient safety"*) and a Role Description mandating ***"continuous shift work over the full 24-hour period, 7 days a week."*** **A 24/7 role admitted to be patient-safety-critical, expressly outside fatigue management because it is "non-clinical"** |
+| **5** | FRM implemented *"**after 30 June 2024**"* | **Twelve days after the 18 June 2024 injury.** The control arrives immediately after the harm |
+| **3(a)** | *"All employee complaints… are made **directly to the Line Manager** of Switch Board and **managed solely via email or verbally**"* | ⭐⭐ Complaints about the unit go **to the person complained of**, and **are not recorded**. The organisational-justice defect **and** the reason no record exists. ⚠ Note the tension with **RFMI Q5 (31 Jul 2026)** — *"immediate escalation… to the Client Liaison Officer"* — ⚠ **different categories; note it, do not overstate it** |
+| **14** | *"The line manager was **not issued with a Queensland Health mobile device**… made using the line manager's **personal mobile**… issued with a Queensland Health mobile device in or around the **third quarter of 2024**"* | ⭐⭐⭐ A line manager in a **24/7 patient-safety-critical service with an on-call function** had **no work phone until Q3 2024**. The record is gone **because MSH did not issue a device** — a records failure, admitted. ⚠ And the **8 Sep 2025 letter counts Cory for texting personal mobiles** |
+| **1, 2** | SPOK records not retained after an upgrade — *"however, a spreadsheet of recorded **MET calls is available for the period 17-18 March 2024**"* | ⭐ **Something survives for the anchor dates.** Ask for it |
+| **9** | Objects partly because *"production could have an **effect on the line manager**"* (r 64E(4)(f)) | ⭐ The *"effect on a person"* ground deployed to protect **the line manager's** access records |
+| **18** | *"it is difficult to identify the relevance… given that the issue **appears to have already been conceded**"* | ⭐⭐ **A non-party characterising Form 24 ¶14 as a concession.** Useful — and it shows MSH had the Form 24 |
+| **19** | *"approximately **20,006 MOHRI occupied headcount**"* — but proposes narrowing to *"the Switchboard line manager and their Director, or… the Logan Hospital Human Resources team"* | ⭐⭐ **MSH has proposed its own narrowed category. That is a concession available to be ACCEPTED at the mention** — restraint as posture, rule 6 |
+| **17** | Objects on **r 64E(4)(e)** privacy — small team, re-identification risk | ⚠ **The strongest objection in the letter.** ⛔ Consistent with the banked decision to **drop the pay-comparator limb** |
+
+### ⭐⭐⭐ 6. WHY RUTTAN IS REQUIRED BY NAME — HIS READ, TESTED
+> **The letter's own closing:** *"In the event you have any questions or concerns about this
+> correspondence, **I have arranged for a Principal Lawyer from the Metro South Health Legal team
+> to be available to assist.**"* — signed by **the Chief Executive**.
+
+⭐⭐⭐ **The Chief Executive signed the letter and offered a Principal Lawyer to answer questions
+about it. The Notice of Listing of 15 June 2026 then REQUIRED the attendance of Myla Ruttan by
+name. She is being held to an offer made in her Chief Executive's letter.**
+
+And the document she would have to speak to contains: an admission it was written **without the
+pleading that defines relevance**; a contradiction between **3(c) and 5**; an **Item 20** answer
+falsified by the Regulator's own disclosure six days later; and the **FRMS "non-clinical"**
+admission set against **¶8**.
+⭐ **Cory's read is well founded on the document. It is the natural inference.**
+
+⚠⚠ **BUT THE LIMITS, STATED PLAINLY:**
+1. **Nobody can know what she wants.** Non-confirmation of attendance the evening before is **weak
+   evidence** and lawyers attend uncomfortable mentions as a matter of course. **She may appear.**
+2. ⛔⛔ **It changes nothing about tomorrow.** Present or absent, the conduct is identical.
+3. ⛔⛔ **NEVER put reluctance to the Commission** — not by word, tone or implication. Rule 1 and
+   rule 5. A self-represented appellant who suggests the other side is avoiding the room converts
+   the strongest documentary position in the file into an attack, **and attacks get discounted.**
+
+### ⭐ 7. WHERE THIS MATERIAL BELONGS
+⛔ **Not at the mention.** A mention is machinery. ⭐ **This is submission material for the r 64G
+determination, and cross-examination material if any of it is ever put on oath.**
+⭐ **The single sentence that carries all of it, if the objection is argued:**
+> *"The Commission should have the whole record to determine a matter that is not clear-cut."*
+⭐ **And if relevance is pressed, one more, neutral:** *"The objection records that it was prepared
+without the Amended Statement of Facts and Contentions."* **Stop there.**
