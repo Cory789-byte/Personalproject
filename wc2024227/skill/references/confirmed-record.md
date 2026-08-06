@@ -2929,3 +2929,71 @@ procedurally — and it is why the objection being self-impeached is more than a
 The *Bowers* citation is not even complete. ⛔ **Obtain both before either is used. Davis v
 Blackwood now ranks ahead of Adams on the acquisition list, because it is the case the Regulator
 will run.** ⭐ Add to `OUTLINE_OF_ARGUMENT_v1_ARCHITECTURE.md` Schedule 2.
+
+## ⭐⭐⭐ r 64E VERIFIED VERBATIM — ATT27, current as at 23 August 2024 (read 6 Aug 2026)
+> `documents/instruments/ATT27_IR_Tribunals_Rules_2011_current_23Aug2024.pdf`, p. 44
+
+> **64E(1)** *"The non-party, or a person who has been served with a copy of the notice under rule
+> 64D, may object to the production of some or all of the documents mentioned in the notice
+> **within 7 days after its service** or, **with the leave of the industrial tribunal, a later
+> time**."*
+> **64E(3)** *"The objection must— (a) be **written**; and (b) be **served on the party**; and
+> (c) if the person objecting (the objector) is not the non-party—be served on the non-party;
+> and (d) **clearly state the reasons for the objection**."*
+
+### ⭐⭐ THREE FINDINGS
+**1. SEVEN DAYS.** Form 29 **sealed and served 22 April 2026**; objection **5 June 2026** —
+**roughly 44 days**, against a 7-day rule. ⇒ **Objection out of time. It required LEAVE.**
+⛔ **The letter nowhere seeks leave, and nowhere mentions being late.**
+⚠ **Verify the actual service date on MSH before this is used.** The 22 April date comes from the
+sequence table, not from a service affidavit.
+
+**2. ⭐⭐⭐ r 64E(3)(b) — THE OBJECTION MUST BE SERVED ON THE PARTY.**
+The party who issued the notice is **Cory**. **The 5 June letter is addressed *"Dear Commissioner
+Dwyer"* and sent to `qirc.registry@qirc.qld.gov.au`. On its face it is not addressed to the
+Appellant at all.**
+⭐⭐ **This is the mirror image of the r 64C limb to be DELETED from Cory's own pleading — except
+this one is founded on the rule's own words, and it is theirs.**
+⚠⚠ **BUT DO NOT ASSERT NON-SERVICE.** He plainly received it. He may have been copied by another
+route. ⭐ **The only safe statement is descriptive: the objection is addressed to the Commissioner
+and does not show service on the Appellant on its face. ⛔ ASK CORY whether he was served, and
+when. Do not plead it until he answers.**
+
+**3. r 64F — the objection STAYED the notice.** ⇒ **A late, informal objection stopped production
+and has kept it stopped since 5 June.**
+
+## ⭐⭐⭐ THE CUMULATIVE WEIGHING — THE ASK → OBJECTION → NO-SHOW → LETTER → RESPONSE → EVIDENCE
+| Step | The Appellant | The non-party |
+|---|---|---|
+| **The ask** | Form 29, 20 items, **sealed by the Commission 22 Apr 2026**, served | — |
+| **The objection** | — | **5 June — ~44 days, against 7. No leave sought. By letter to the Commissioner. Signed by the CE, not the lawyer. Nothing on oath.** ⇒ **r 64F stay obtained** |
+| **The response** | **r 64G sealed 23 June; served on Metro South Legal Services 25 June 8:31am** | — |
+| **The listing** | Confirmed attendance 6 Aug 17:27 | ⚠ **No confirmation. Notice of Listing of 15 June requires Ruttan by name** |
+| **The letter, read** | — | Self-impeached on relevance (*"not in receipt of the… Form 9A"*); **3(c) v 5**; **Item 20 "does not exist"** |
+| **The evidence against it** | — | ⭐⭐⭐ **Page 7 of the REGULATOR'S 11 June disclosure produces the Item 20 material — six days later** |
+
+⭐⭐ **THE SHAPE, AND IT NEEDS NO ADJECTIVE:** a sealed notice → no objection in time → no leave
+sought → objection by letter to the bench → unsworn assertions of non-existence and burden → an
+automatic stay → the Regulator produces documents in the category said not to exist → and the
+author does not appear to explain it. **Every step is procedural. That is exactly why it works.**
+
+### ⚠⚠ THE HONEST COUNTERWEIGHTS — ALL FIVE
+1. ⚠ **Leave can be granted retrospectively.** r 64E(1) expressly contemplates *"a later time"* with
+   leave. A Commissioner can cure it in a sentence. ⛔ **Never build the case on lateness.**
+2. ⚠ **Non-parties get latitude.** Strangers to the litigation, no lawyer on the record. And MSH
+   **did produce** for Items 6, 11, 12, 13, 15, 16 and proposed its own narrowing at Item 19.
+3. ⚠ **Service may have occurred by another route.** ⛔ Unknown. Ask.
+4. ⚠ **Item 20 may be genuine misunderstanding** — they read a PID reference and searched for a PID
+   file. ⭐ **That is enough. You do not need dishonesty; you need unreliability, and unreliability
+   is established.**
+5. ⛔⛔ **THE BIGGEST: none of this produces a single document.** Procedural defects in an objection
+   do not establish that the categories are **relevant to the matter in issue**. ⭐ **Relevance is
+   still carried by the Form 20 and the pleaded matter in issue. Win the procedure and lose
+   relevance and you get nothing.**
+
+### ⭐⭐⭐ WHAT THE CHAIN IS ACTUALLY FOR
+**Not a ground. A frame.** It makes the substantive ask safe and modest:
+> *"The Commission is asked to accept, on the face of a letter, that documents do not exist. Some
+> of those documents have since been produced by the Regulator. In those circumstances the
+> Appellant asks that the objection be verified, or the documents produced."*
+⭐ **That is the whole application in three sentences, and every word of it is procedural.**
