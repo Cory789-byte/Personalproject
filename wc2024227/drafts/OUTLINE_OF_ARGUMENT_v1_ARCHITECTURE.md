@@ -215,6 +215,8 @@ Specific. Jurisdictionally anchored to **s 558 WCRA**. ⚠ **Verify the section 
 | Authority | Cited for | Status |
 |---|---|---|
 | *Prizeman v Q-COMP* [2005] QIC 53; (2005) 180 QGIG 481 | Reality, not perception | ✅ **HELD** — `documents/Prizeman_v_QComp_2005_QIC_53.pdf`. ⛔ Read it and pinpoint before citing |
+| ⭐⭐ **Davis v Blackwood [2014] ICQ 009** (Martin J, P) + **Bowers** (Hall P) | ⚠ **THE RESPONDENT'S BEST AUTHORITY — blemishes / a system that miscarried is not necessarily unreasonable.** ⛔ **NOT HELD. ACQUIRE FIRST.** Answer: *Bowers* protects a system that miscarried; **MSH's Items 4, 5 and 7 admit there was no fatigue system at all** |
+| **Briginshaw v Briginshaw [1938] 60 CLR 336** | Standard of persuasion for serious allegations — **named in the QIRC's own appeal guide** | ⭐⭐ **Use at ¶8. It is the doctrinal reason to run the admitted break and drop the reprisal adjectives** |
 | *Q-COMP v Hochen* (C/2009/47) | The two-limb test; sufficient causal connection | ⛔ **NOT HELD.** ⚠ The citation format is a **file number, not a medium-neutral citation** — verify it exists in that form |
 | *Simon Blackwood (WCR) v Mahaffey* [2016] ICQ 10 at [51], [54]–[57] | Single unreasonable stressor suffices | ⛔ **NOT HELD.** Pinpoints unverified |
 | *Simon Blackwood (WCR) v Adams* [2015] ICQ 1 at [23] | No dominant-cause test; no outnumbering | ⛔ **NOT HELD.** ⭐ **The most load-bearing pinpoint in the outline. Obtain first** |

@@ -2820,3 +2820,112 @@ determination, and cross-examination material if any of it is ever put on oath.*
 > *"The Commission should have the whole record to determine a matter that is not clear-cut."*
 ⭐ **And if relevance is pressed, one more, neutral:** *"The objection records that it was prepared
 without the Amended Statement of Facts and Contentions."* **Stop there.**
+
+## ⭐⭐⭐ COMMISSIONER DWYER — RESEARCH, 6 AUG 2026. AND THE DOCTRINE IT SURFACED.
+
+### 1. THE BENCH
+**John Cornelius Dwyer**, appointed to the QIRC from **9 July 2019** (Governor in Council; announced
+by IR Minister Grace Grace with three other commissioners). **Barrister since 2005**, practising
+**mainly in industrial and employment law**. Previously with the **Queensland Chamber of Commerce
+and Industry**. LLB.
+⭐ **Register, not bias:** a practitioner background — and an employer-organisation background —
+means he responds to **industrial reality** (rosters, fatigue, staffing, systems) more readily than
+to elaborate doctrine. ⭐⭐ **And a former employer-side industrial lawyer knows exactly what a
+fatigue risk management system is meant to look like, and what it means that one did not exist.**
+
+### 2. ⭐⭐ HE MAKES COSTS ORDERS, AND HE WRITES BLUNTLY
+Dwyer ordered costs against a **representative** under **s 545(2)(b) IR Act 2016** — reported by
+Crown Law. His findings included that the application was *"so obviously devoid of merit"* that
+proceeding was not in the public interest, and that there was *"a **litany of unreasonable acts and
+omissions**"* — **late filings, failure to attend proceedings, and inadequate preparation.**
+⇒ Three consequences:
+1. ⭐⭐⭐ **He will write in strong terms when the facts warrant it.** **This is the strongest reason
+   to write flat.** A finding in his words about the reliability of MSH's objection is worth more
+   than any characterisation in Cory's. **Write it neutral; let him write it hot.**
+2. ⭐ **He notices procedural conduct** — including **failure to attend proceedings**. ⛔ **Cory
+   never has to raise it.** If Ruttan does not appear tomorrow against a Notice requiring her
+   attendance, the bench registers it unaided. **Asking for anything would forfeit that.**
+3. ⚠ **Costs risk runs both ways.** s 545(2)(a) reaches a **party** who proceeds vexatiously,
+   without reasonable cause or with no reasonable prospect. ⭐⭐ **A further, concrete reason to
+   delete the r 64C service-breach limb and the Item 17 pay-comparator from anything filed** —
+   pressing a limb that fails on the rule's own words, before this Commissioner, is not worth
+   carrying. ⚠ Realistically a partly-successful 64G attracts no costs, but the discipline stands.
+
+⚠ **RESEARCH CAUTION — NAME COLLISION.** *Dwyer v Workers' Compensation Regulator* [2025] QIRC 119
+and *Loquias v The Star Entertainment Group and John Dwyer* [2026] QIRC 23 involve **parties named
+Dwyer**, not the Commissioner. ⛔ **Searching "Dwyer" in QIRC returns party names. Do not cite
+either as his decision.**
+
+### 3. ⭐⭐⭐ THE ONUS — CONFIRMED FROM THE COMMISSION'S OWN GUIDE
+`documents/guides/QIRC_Workers_Compensation_Appeal_Guide.pdf`, **v2.10, updated 11 March 2025**,
+Part 7.3:
+> *"It is important to note that **the onus of proof is on the Appellant**… the standard of proof is
+> the **balance of probabilities**… often referred to as the '**Briginshaw principle**'"* —
+> footnoted **Briginshaw v Briginshaw [1938] 60 CLR 336**.
+> Part 7.3.2: *"In addition to being able to prove the elements under s 32(1)…, **you must also show
+> that any psychological or psychiatric injury was not connected to management action that was
+> reasonable** in the circumstances and/or conducted in a reasonable way."*
+> And: *"Psychological/psychiatric injuries that are connected to the worker's **expectation or
+> perception** of reasonable management action being taken against them are also not able to be
+> accepted."*
+
+⭐⭐⭐ **The filed pleading's *"The Respondent bears the onus under Prizeman v Q-Comp"* is
+contradicted by the Commission's own published guide. The 6 August redraft's concession is
+CORRECT and must be carried.**
+⭐⭐ **And the guide names BRIGINSHAW — which is a strategic gift.** Briginshaw means **serious
+allegations require a stronger degree of persuasion**. ⇒ **Every "hostile", "reprisal",
+"capricious", "destruction" allegation in the pleading raises the standard against him. The
+admitted seven-hour break raises none — it is arithmetic.** ⭐⭐⭐ **Briginshaw is the doctrinal
+reason the architectural move — one mechanism, one admitted instance — is right, not merely
+tidy.** Add Briginshaw to the outline at ¶8.
+⭐ The perception sentence confirms **Contention 2(d) (Prizeman) is necessary**, not optional.
+
+### 4. ⭐⭐⭐ THE REGULATOR'S BEST AUTHORITY — NOW NAMED, AND ANSWERED
+> **Davis v Blackwood [2014] ICQ 009** (Martin J, President) — the task is to assess the management
+> action taken and determine whether it was reasonable **and whether it was taken in a reasonable
+> way**. On the facts there, the manager's performance was **blemished** and the Court still
+> **declined** to find unreasonable management action unreasonably taken.
+> **Bowers** (Hall P) — *"there may be **blemishes** in management action held to be reasonable,
+> and… the circumstance that **a system of work or its implementation has miscarried does not
+> necessarily lead to the conclusion that either the system of work or its implementation was
+> unreasonable**."*
+
+⚠⚠⚠ **THAT IS AIMED STRAIGHT AT THIS CASE, AND IT IS THE ARGUMENT TO EXPECT.** Form 24 **¶5 is
+ADMITTED** — *"there was **a rostering error that was accidentally made by Chloe** with regards to
+night shifts."* ⭐ **The admission cuts both ways: it proves the break AND supplies the innocent
+explanation.** The Regulator's case is **Bowers**: the system miscarried; that is a blemish, not
+unreasonableness.
+
+### ⭐⭐⭐ THE ANSWER — AND IT IS IN MSH'S OWN OBJECTION LETTER
+> **Bowers protects a system of work that miscarried. It does not protect the absence of a system.**
+
+| MSH, 5 June 2026, over the Chief Executive's signature | |
+|---|---|
+| **Item 4** — the FRMS risk assessment record *"does not exist"*, because Switchboard staff are *"**non-clinical staff**, and therefore there is **no mandatory requirement**"* | ⭐ **No fatigue risk assessment existed** |
+| **Item 7** — repeats it | ⭐ Confirmed twice |
+| **Item 5** — fatigue risk management at Logan Switchboard *"occurred **after 30 June 2024**"* | ⭐ **Twelve days after the injury** |
+
+⇒ ⭐⭐⭐ **On 17–18 March 2024 there was no fatigue risk management system at Logan Switchboard at
+all. Nothing miscarried, because there was nothing to miscarry. Bowers has nothing to attach to.**
+
+**And the blemish characterisation fails on the sequence as well:**
+1. The risk was raised **in writing, 7 August 2023** — a formal grievance about unsafe rostering
+   and fatigue.
+2. It was **dismissed the same day without investigation** and he was directed back to the same
+   manager.
+3. The break occurred **seven months later**.
+4. **Fatigue leave was refused the next day** — 19 March 2024. And **again on 1 July 2025**.
+5. The control arrived **after 30 June 2024**.
+
+⇒ **A blemish is a defect in an otherwise sound process. This is a known risk, raised in writing,
+not investigated, in a unit with no system, which then eventuated, with the cost shifted onto the
+worker's own leave, and the control introduced only after the injury.**
+
+⭐⭐⭐ **THE DEEPEST POINT OF THE WHOLE FILE: the letter MSH wrote to resist disclosure is the
+answer to the Regulator's best authority.** That is why the 64G matters substantively and not just
+procedurally — and it is why the objection being self-impeached is more than an embarrassment.
+
+⛔ **CITATION GATE — Davis v Blackwood [2014] ICQ 009 and Bowers are NOT HELD and NOT READ.**
+The *Bowers* citation is not even complete. ⛔ **Obtain both before either is used. Davis v
+Blackwood now ranks ahead of Adams on the acquisition list, because it is the case the Regulator
+will run.** ⭐ Add to `OUTLINE_OF_ARGUMENT_v1_ARCHITECTURE.md` Schedule 2.
