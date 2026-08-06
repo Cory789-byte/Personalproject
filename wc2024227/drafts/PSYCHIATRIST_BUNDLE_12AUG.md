@@ -108,11 +108,21 @@ use**."* ⛔ **If that standard footer goes on the 12 August report, it is compr
 before anyone reads a word.** Confirm in writing when booking: **this report is for use in a
 Queensland Industrial Relations Commission proceeding.**
 
-**2. CORRECT THE FACTS HE ALREADY HAS.** The 2025 report calls the matter an ***"unfair
-dismissal"* four times** and MSH his ***"former employer"***. ⛔ **He was never dismissed.** He was,
-and is, employed — held out of the workplace since 26 June 2026 and unpaid since 13 July. ⭐ That
-error happened because the history was taken **from Cory, without documents**. It is the whole
-reason this bundle exists — say so to him.
+**2. ⭐ BRING HIM UP TO DATE — HE IS NOT WRONG, HE IS OUT OF DATE.** His February 2025 report
+refers to an *"unfair dismissal"*, a *"former employer"* and *"job loss"*. ⭐ **All of that was
+ACCURATE on the day he wrote it** — employment ceased **9 October 2024** by an abandonment-of-
+employment letter, backdated to the day after WorkCover rejected the claim, and Cory did not
+return to work until **24 February 2025**, eleven days after the report. ⛔ **Do not "correct" him.**
+Tell him what has happened since:
+- the dismissal was **overturned** and he was **returned to work 24 February 2025**;
+- he **worked until 14 June 2026**, on a reduced pattern of about six shifts a fortnight;
+- he is **still employed** — held out of the workplace since **26 June 2026** and **unpaid since
+  13 July 2026**, having been certified **fit with restrictions on 3 July 2026**.
+
+⭐⭐ **And tell him one thing that matters for his own report: "job loss" was not a life event.**
+It was the employer's act, on a stated ground Cory contested at the time, and it was reversed.
+**Of the three "multiple life stressors" he listed in 2025, one belongs on the employer's side of
+the ledger.**
 
 **3. ASK FOR FORMAL COGNITIVE TESTING ON THE DAY.** The 2025 report records *"Cognitive
 difficulties, particularly with concentration and **working memory**"* but also *"**No formal
@@ -142,11 +152,14 @@ and it is wrong on the central fact. **Provenance only.**
 The Regulator holds this report (it is **Exhibit A4**, cited at Notice ¶¶38–39). The 12 August
 report cannot pretend these sentences do not exist:
 1. *"**complete incapacity** to undertake duties required for his own occupation"* (Feb 2025) —
-   ⭐ answered by **what changed: the reduced pattern**, ~29% FTE, which the ECC records as
-   *"worked and tolerated… without deterioration."* Not a reversal; the adjustment working.
+   ⭐ **not a failed prediction.** It was written while he was **dismissed, off payroll and with no
+   workplace to return to.** He returned eleven days later because the **employment was restored**.
+   What changed was the job, and then the **reduced pattern** — ~29% FTE, which the ECC records as
+   *"worked and tolerated… without deterioration."*
 2. *"multiple life stressors, including **relationship breakdown, job loss, and bereavement**"* —
-   ⭐ name them, weigh them, and note the date: **eight months after onset.** s 32(1) needs
-   employment to be *a* significant factor, not the only one.
+   ⭐⭐ **"job loss" is the EMPLOYER'S OWN ACT, later overturned** — not a non-work stressor. Say so.
+   For the other two: name them, weigh them, note the date — **eight months after onset** — and
+   remember **s 32(1) needs employment to be *a* significant factor, not the only one.**
 3. *"ongoing… **legal proceedings**… have **consumed his whole life** severely affecting his
    functioning"* — ⭐ **that was an answer to a CAPACITY question, not a causation question.**
    Litigation post-dates onset and belongs under prognosis.

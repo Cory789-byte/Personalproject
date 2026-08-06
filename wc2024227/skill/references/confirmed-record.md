@@ -2397,3 +2397,102 @@ face before anyone reads a word of it.** ⛔ **Put this in writing to the practi
 | ⭐ **Q1(c)** | **Answer with provenance**: examination findings, collateral from his mother, the medication record, and the documents — not self-report |
 | ⭐ **Q7** | **Request formal cognitive testing on the day** |
 | ⭐ **Capacity** | *"Complete incapacity"* (2025, full-time) → **fit with adjustments (2026, reduced pattern).** ⭐ Not a reversal — **the adjustment is what changed**, and that is the cl 10.3 request |
+
+## ⛔⛔⛔ CORRECTION, 6 AUG 2026 — HE **WAS** DISMISSED. THE KRISHNAIAH REPORT WAS ACCURATE.
+> **Cory's correction:** *"I was dismissed then it was overturned look at the full picture before
+> ever making things in issue like my dr is asserting false again."* **He is right. Verified from
+> source below. My "wrong four times" analysis is WITHDRAWN in full.**
+
+### THE VERIFIED SEQUENCE
+**Cory → Amy Mo, WorkCover Qld, 10 October 2024** (`corpus pack 10 p.82`):
+> *"I am writing regarding my **cessation of employment as of October 9th, backdated to the day
+> after your WorkCover decision.** Last week, I received an **abandonment of employment letter**
+> stating there had been no correspondence from me and that you had not provided Queensland Health
+> with three workers' capacity certificates, the latest dated October 6, 2024. The letter also
+> states there was no evidence or valid reason for my absence and no approved leave… I have been
+> advised there has been no correspondence and **to return my access card within seven days**."*
+
+**Estelle Bain, Senior Director HR → Cory, 21 February 2025**, cc Jacqui Roberts (`pack 05 p.3`):
+> *"confirm my understanding that your **return to work** will take effect from **Monday 24
+> February 2025**… working through the practicalities of **getting you back onto the Payroll
+> system**… changes that have occurred in the workplace **while you have been away**."*
+
+**8 April 2025** (`pack 05 pp. 33–46`) — thread subject: ***"Cory Shepherd Reinstatement process"***,
+with Jacqui Roberts.
+
+⇒ **Dismissed 9 October 2024 (abandonment of employment, backdated to the day after the WorkCover
+rejection) → out of employment and off payroll for over four months → returned 24 February 2025 →
+reinstatement process still being worked through in April 2025.**
+⚠ **The mechanism of the reversal is NOT yet verified** — whether QIRC, internal review, or
+negotiated return. **Do not assert the forum until the document is located.**
+
+### ⇒ WHAT THIS DOES TO THE QSUPER REPORT — EVERY LINE I CALLED AN ERROR WAS TRUE
+**The report is dated 13 February 2025 — ELEVEN DAYS BEFORE HE RETURNED.** On that date:
+| What the report says | Status |
+|---|---|
+| *"his **unfair dismissal**"* / *"**unfair dismissal proceedings** with his employer, Queensland Health"* | ✅ **ACCURATE** — he was contesting the cessation |
+| *"his **former employer**"* | ✅ **ACCURATE ON THE DAY** — employment had ceased 9 Oct 2024 |
+| *"Currently **not working**"* · *"his current **unemployment**"* | ✅ **ACCURATE** |
+| *"**job loss**"* | ✅ **ACCURATE** |
+| *"pay was withheld or delayed for **up to five months at a time**"* | ✅ **PLAUSIBLE AND LIKELY RIGHT** — off payroll 9 Oct 2024 to at least late Feb 2025. ⛔ My "unverified and large" flag is **WITHDRAWN** |
+| *"**complete incapacity** to undertake duties required for his own occupation"* | ✅ **NOT A FAILED PREDICTION.** Given to a man who had been terminated, had no income and had no workplace to return to. **He returned eleven days later because the EMPLOYMENT was restored — not because the clinical picture transformed** |
+
+⭐ **The instruction to the psychiatrist is therefore the opposite of what I wrote.** He does **not**
+need to be corrected on the dismissal. ⭐ **What he needs is the UPDATE: the dismissal was
+overturned, Cory was returned to work in February 2025, worked until 14 June 2026, and is now
+EXCLUDED BUT STILL EMPLOYED — held out since 26 June 2026 and unpaid since 13 July 2026.**
+⛔ **Nothing in that report is a credibility exposure. Delete that framing.**
+
+### ⭐⭐⭐ AND "JOB LOSS" IS NOT A NON-WORK STRESSOR — IT IS THE EMPLOYER'S OWN ACT
+This is the important consequence. Q6(b) lists *"relationship breakdown, **job loss**, and
+bereavement"* as *"multiple life stressors"*.
+⛔⛔ **The Regulator cannot run "job loss" as a competing NON-WORK cause.** The job loss was:
+- **effected by MSH**, by an abandonment-of-employment letter;
+- **backdated to the day after WorkCover rejected the claim**;
+- on a stated basis — *"no correspondence"*, no capacity certificates — that Cory contested at the
+  time, saying the certificates were with WorkCover; and
+- **subsequently overturned, with reinstatement and a return to work.**
+⭐⭐ **It is employer conduct, not a life event. Of the three "life stressors", one belongs on the
+employer's side of the ledger.** That materially weakens Attack F and it should be said plainly in
+the 12 August report.
+
+### ⭐⭐ THE PATTERN THIS EXPOSES — OCTOBER 2024 AND JUNE 2026 ARE THE SAME SHAPE
+| | **Oct 2024** | **Jun 2026** |
+|---|---|---|
+| Stated ground | *"no correspondence"*, no capacity certificates | No completed **ECC** |
+| Answered? | He said the certificates were with WorkCover | ⭐ **ECC provided 3 July 2026 — certified fit with restrictions** |
+| Position maintained anyway? | ✅ Employment ceased; access card demanded back | ✅ **Still excluded. Unpaid since 13 July** |
+| Outcome | ⭐ **Overturned. Returned to work 24 Feb 2025** | **Live** |
+⭐⭐ **A documentary ground is asserted, it is met, and the position is maintained regardless. It
+happened once and it was reversed.** That is a real, provable pattern and it is the strongest
+precedent available for the current exclusion.
+⛔ **But keep the discipline: state the chronology, never the motive** (the standing rule from the
+pre-existing-condition correction).
+
+### ⚠ THREE CAUTIONS
+1. ⚠ **The dismissal is POST-ONSET.** Injury 18 June 2024; cessation 9 October 2024. It cannot
+   bear on **causation**, and if pressed as a stressor the Regulator will characterise it as
+   **management action under s 32(5)(a)**. ⭐ **It belongs under aggravation and prognosis — the
+   same discipline as the 2026 exclusion. Causation still stops at 24 October 2024.**
+2. ⚠ **This is a distinct matter from the CLAUDE.md rule 10 items** (the December 2024 PPN, the
+   strike-out, the separation document — QPS/personal track). ⛔ **Do not conflate them.** The
+   dismissal and reinstatement are **employment facts**, they are in MSH's own record and in the
+   corpus, and they are **not** on the rule 10 list.
+3. ⛔ **METHOD FAILURE — MINE, AND IT IS THE SECOND OF ITS KIND.** I called a document false on an
+   assumption about his employment history without checking, having **already listed
+   `2025-hughes-history/2025-04-08_Roberts_reinstatement_process_security_office.pdf` and
+   `documents/2024-10-09_Cory_reply_DRAFT_to_abandonment_letter_Firoz_Johns.pdf` in this same
+   session** and not read either. ⭐⭐ **STANDING RULE: before characterising ANY statement in a
+   source document as an error, search the corpus and the file names for the fact it asserts.
+   The filename is evidence. A document is presumed right until the record says otherwise.**
+
+### ⛔ STILL TO OBTAIN — THE DISMISSAL AND REINSTATEMENT FILE
+Not in the repo and now clearly material:
+- The **abandonment of employment / cessation letter** (early Oct 2024, ref Firoz Johns). Only a
+  **draft reply** is held — `documents/2024-10-09_Cory_reply_DRAFT_to_abandonment_letter_Firoz_Johns.pdf`,
+  ⚠ **which has no text layer — render it.**
+- **The instrument that reversed it** — application, decision, deed or letter. ⭐ **The single most
+  important missing document in the employment track.**
+- Whether the period 9 Oct 2024 – 24 Feb 2025 was **back-paid**, and how service was treated.
+- ⭐ Add all of it to the **RTI / IP Act** categories for Monday 10 August, and to the
+  **preservation request** (still not sent).
