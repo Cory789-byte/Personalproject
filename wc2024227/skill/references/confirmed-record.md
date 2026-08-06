@@ -1518,3 +1518,72 @@ exposure to identified workplace stressors"* — a gradient, not a single event.
 
 ⇒ **Karasek high-strain / iso-strain, with an organisational-justice overlay. Every element
 documented, most admitted. That is the clinical formulation, and it is defensible.**
+
+## ⭐⭐⭐ THREE FURTHER STRESSOR THREADS — RED-TEAMED FOR THE REPORT
+
+### 1. PATIENT-SAFETY CRITICALITY — responsibility without the means to discharge it
+⭐ **The purest form of the demand–control mechanism, and the criticality is ADMITTED.**
+> **Form 24 ¶8 — ADMITTED:** *"Maintaining accurate contact details for medical staff is a
+> critical function of the Switchboard to ensure effective clinical handover and patient
+> safety."*
+
+**The configuration:** he activates and pages **15–50 emergency codes per 24 hours**, each to
+~10 clinicians; relays urgent doctor-to-doctor pathology; and the hospital's emergency paging
+depends on a roster and directory he was **not permitted to update** (Stibbard, 18 Jul 2023:
+*"removing everyone's access to the database"*).
+⇒ **Maximum responsibility, minimum control, life-safety consequences.**
+
+⚠ **Attack:** *many roles carry responsibility; that alone does not cause injury.*
+✅ **Answer:** it is not responsibility, it is **responsibility without the means to discharge
+it** — access removed, roster not current, DSOs uncontactable, no consultation on changes.
+⚠ **Attack:** *he was not a clinician, the patient-safety load was indirect.*
+✅ **Answer:** Form 24 **¶8 admits** the function is critical to patient safety; Form 20 ¶24
+deposes the patient-safety function was performed by him at the console.
+⛔ **CAUTION FOR THE DOCTOR: describe the mechanism functionally. Do NOT reach for "moral
+injury"** — it is not a DSM diagnosis and invites an argument about the label instead of the
+facts.
+
+### 2. RAISING CONCERNS ATTRACTED ADVERSITY — four instances across three years
+| Date | Raised | Response |
+|---|---|---|
+| 16 Jun 2023 | No consultation on major changes | No substantive answer |
+| 7 Aug 2023 | Grievance — unsafe rostering, fatigue | **Not upheld; directed to continue reporting to the same manager** |
+| 15 May 2024 | An email inquiring about office hours | ⭐ **Directed to RETRACT it — ADMITTED, Form 24 ¶21** |
+| 3 Oct 2025 | Formal request for review | A **performance improvement process** followed |
+| 3 Aug 2026 | Seven questions | **Unanswered** |
+
+⭐ **The mechanism: every time he raised something, the response came back at HIM rather than at
+the issue.**
+⭐ **The doctor does NOT need the PID for this.** The exposure is: *the worker raised a concern
+and was directed to withdraw it.* That is admitted and it stands alone.
+⚠ **Attack:** *one retraction direction is not a pattern.*
+✅ **Answer:** four documented instances across three years.
+⛔ **CAUTION: describe the effect functionally — withdrawal, hopelessness, futility of
+engagement. Do NOT label it "learned helplessness"** as though it were a diagnosis.
+
+### 3. ⭐⭐ INPUT TAKEN NEGATIVELY — contributions reframed as problems
+Distinct from being ignored. **His contributions were converted into problems about him.**
+- Raises consultation concerns → **put to work justifying himself** (21 May 2024, asked to
+  identify the directives)
+- Raises office hours → **directed to retract**
+- Complains about the line manager → the complaint **circulates to that manager's Director**
+- Raises the framework misapplication (28 Jul 2026) → **the RFMI issues three days later**
+- Provides the ECC (3 Jul 2026) → **told more information is needed**
+
+⭐⭐ **THE PUREST INSTANCE, IN HIS OWN CONTEMPORANEOUS WORDS:**
+> **27 Aug 2025** — he proactively offers Hughes' office documentation before a scheduled
+> meeting. **The meeting is cancelled immediately afterwards.**
+> **8/10 Sep 2025** — the letter initiating the performance process **asserts that HIS actions
+> caused meetings not to proceed.**
+
+**He offered to help; the meeting was cancelled; the cancellation was then attributed to him.**
+Source: his own complaint of 4 Oct 2025 to J Roberts, cc H Moran — **contemporaneous, in
+writing, with the union copied.**
+
+⚠ **Attack:** *ordinary workplace friction.*
+✅ **Answer:** the 27 Aug / 10 Sep reversal is **not friction — it is a documented inversion**,
+recorded at the time, and it is the single clearest instance in the file.
+
+⇒ **Clinically:** contributions consistently reframed as problems undermine self-efficacy and
+produce the belief that engagement is futile or unsafe — a recognised contributor to depressive
+cognition. **Functional description only; no labels.**
