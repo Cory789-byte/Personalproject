@@ -1426,3 +1426,50 @@ exactly what makes MSH want the appeal resolved.**
 - Use **"major"** — ⛔ the test is **"a significant contributing factor"**
 
 ⛔ **NEXT ACTION: draft the letter of instruction for 12 August.**
+
+## ⭐⭐ RED TEAM — THE PAY DISPARITY (Notice ¶¶42–45). IT IS THE WEAKEST STRESSOR.
+**The claim:** comparator gross **$18,169.14** vs Cory **$12,757.68** = **$5,411.46 (~42%)**,
+*"caused primarily by the differential allocation of penalty-rate shifts (weekends and public
+holidays) to the comparator"*.
+**The answer:** DENIED — *"the comparator does not represent a true comparator … **the roster was
+equitable**."*
+
+### ⛔ SIX VULNERABILITIES
+1. **Exhibit D1 is not in the repo.** The whole limb rests on a document not in hand, and the
+   comparator payslips are **Item 17**, objected to on privacy (r 64E(4)(e)).
+2. **The sample period is unstated.** "Over the sample period" — if short, it is noise.
+3. **One comparator proves nothing about systemic allocation.** Two rosters differ for
+   availability, leave, part-time status, swaps and preference.
+4. ⚠⚠ **THE KILLER — HIS OWN AVAILABILITY.** Pandemic leave Feb 2024, sick leave, and the
+   attendance record MSH later documented (the 8/10 Sep 2025 letter, 34 occasions). **If he was
+   absent, he was rostered fewer shifts, including fewer penalty shifts. The disparity may be a
+   consequence of attendance, not of allocation.** Combined with "the roster was equitable", that
+   is a coherent and strong defence.
+5. **The "42%" is ambiguous** — it is the shortfall as a proportion of **his own** gross. Against
+   the comparator's it is **29.8%**. Attackable as inflated.
+6. ⚠ **IT MAY CUT AGAINST HIM.** Pleading that he received **fewer** weekend and public-holiday
+   shifts sits awkwardly beside pleading that he was **fatigued by excessive demand**. The
+   Respondent can say: you were rostered less, not more.
+
+### ⭐ THE CORRECT USE — PROCEDURAL, NOT SUBSTANTIVE
+⛔ **Do NOT run pay disparity as a stressor at hearing.** It is weak, unsupported by a held
+document, and carries a real risk of backfiring on the fatigue case.
+✅ **Its value is as the RELEVANCE ANCHOR for Form 29 Items 8, 9 and 10.** The
+*"roster was equitable"* denial is the contested fact that makes the security-access and
+system-login records relevant. That is already how confirmed-record treats it, and this red team
+confirms it is the right and only use.
+
+## ⚠ NOTED — THE METADATA FORENSIC TIMELINE (read 6 Aug 2026, previously unexamined)
+`documents/disclosure-2026-06_MSH_production/METADATA_FORENSIC_TIMELINE.md` — extracted from
+MSH's own "For disclosure" zip.
+- **Myla Ruttan** assembled the package ("Microsoft: Print To PDF") — Items 6, 11
+- ⚠ **"Renee Dawson"** (XMP dc:creator), an **MSH-side custodian**, **created Cory's leave-form
+  PDF at 25 May 13:06 and MODIFIED it at 15:09 — two hours later**
+- **operator 105777** — myHR/SAP operator ID, leave-takings export 8 May 09:53
+
+⛔ **STATUS UNCHANGED: reserve material only.** The file's own header is correct — none of this
+enters the WC filing (discipline rule 1), and the "Renee Dawson" identification touches a third
+party's privacy.
+⚠⚠ **NAME-CONFLATION TRAP: "Renee Dawson" (MSH custodian) is NOT "Renee Matheson" (OIR Senior
+Appeals Officer).** Different people, similar first name. **Never conflate them, in any document
+or conversation.**
