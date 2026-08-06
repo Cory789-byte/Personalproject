@@ -1371,3 +1371,58 @@ found **no pre-existing factor**). A report that states conclusions survives not
 that shows its working survives an opposing IME.
 
 ⛔ **NEXT ACTION: draft the letter of instruction before 12 August.**
+
+## ⭐⭐⭐ ONE REPORT, NOT TWO — SUPERSEDES THE REPORT A / REPORT B PLAN (Cory, 6 Aug 2026)
+⛔ **The two-report structure in CLAUDE.md task 4 is SUPERSEDED.** There will be **one report**
+from the 12 August consultation; a further report later if needed.
+
+### ADDRESSEE: TO CORY, NOT TO MSH
+A report addressed to the patient at his request is ordinary and keeps distribution in his
+control. He can then provide it to MSH in answer to the RFMI and disclose it in the appeal.
+⚠ **He cannot provide a redacted specialist report** — if it goes to MSH, all of it goes.
+So the report must be one he is content for **both** to read.
+
+### ⭐ THE INSIGHT: CAUSATION AND CAPACITY DO NOT CONFLICT
+They are the same clinical picture. One report can carry both:
+1. **Diagnosis and onset** — MDD with anxious distress, onset 18 June 2024
+2. **Causation** — the identified workplace stressors, **specifically the rostering and fatigue
+   pattern**, were **"a significant contributing factor"**. Clinical basis stated. Based on his
+   own clinical assessment and the documents reviewed (roster, Review Decision 69983,
+   certificates) — ⭐ this answers RFMI Q1(b) and Q1(c) in one stroke
+3. **No pre-existing causative condition** — met head-on
+4. **Current capacity** — fit for work **with restrictions**
+5. **The restrictions in functional terms** — predictable rostering; adequate recovery between
+   shifts; not sustained concurrent emergency-code load; day hours; reporting line outside the
+   directorate concerned
+6. **Those adjustments are ordinary and available**
+
+### ⛔ THE THREE ANSWERS THAT DECIDE EVERYTHING
+| RFMI | ⛔ THE ANSWER THAT KILLS HIM | ⭐ THE CORRECT ANSWER |
+|---|---|---|
+| **Q6** — can he fulfil the **full inherent requirements** without restriction? | **"No."** → the capacity-exit foundation | **"Yes, with the adjustments at [5], which are ordinary and available."** |
+| **Q9** — if we cannot accommodate, can he safely return? | **"No."** → the exit, on their own conditional premise | **"That is not a medical question. The restrictions are clinically necessary. Whether they can be accommodated is a matter for the employer."** |
+| **Q3** — fit to return under the existing reporting arrangements, incl. the current line manager? | any answer | **Declined — a workplace question, not a medical one.** Consistent with the s 89 letter |
+
+### ⭐⭐ WHY ONE REPORT IS ACTUALLY STRONGER
+**The same document that carries the appeal's causation limb also removes MSH's stated reason
+for the exclusion** — because it says he can return with ordinary adjustments, and
+**QH-IMP-401-5 requires suitable duties to be "actively sought" and "made available wherever
+reasonably practicable"**.
+
+⇒ **One document ends the exclusion and proves the claim.**
+
+⚠ **The honest risk:** MSH will hold a causation opinion connecting the injury to its own
+rostering. That is adverse to **MSH**, not to Cory — causation is already in issue, so nothing
+is surrendered. **And a causation opinion sitting in MSH's hands, on MSH's own request form, is
+exactly what makes MSH want the appeal resolved.**
+
+### ⛔ WHAT THE REPORT MUST NOT DO
+- Say he **cannot fulfil the inherent requirements**
+- Answer **Q9 in the negative**
+- Opine on working with a **named manager**
+- Attribute the injury to **"the course of management conduct" generally** rather than the
+  **roster and fatigue strand specifically** — that hands the Regulator *Delaney* dilution and
+  costs Block 4 as well as Block 3
+- Use **"major"** — ⛔ the test is **"a significant contributing factor"**
+
+⛔ **NEXT ACTION: draft the letter of instruction for 12 August.**
