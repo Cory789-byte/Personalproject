@@ -2997,3 +2997,114 @@ author does not appear to explain it. **Every step is procedural. That is exactl
 > of those documents have since been produced by the Regulator. In those circumstances the
 > Appellant asks that the objection be verified, or the documents produced."*
 ⭐ **That is the whole application in three sentences, and every word of it is procedural.**
+
+## ⭐⭐⭐⭐ THE REGULATOR'S AMENDED SOFC, 13 MAY 2026 — READ IN FULL FOR THE FIRST TIME, 6 AUG 2026
+> `documents/WC.2024.227_Regulator_SOFC_13.05.2026.pdf` — 7pp, Form 9C, filed by **Renee Matheson,
+> Senior Appeals Officer**, 13/05/2026. ⛔ **THIS IS THE DEFENCE AND IT HAD NEVER BEEN OPENED IN
+> THIS REPO.** Everything below is verbatim or close paraphrase from the pleading.
+
+### ⭐⭐⭐⭐ THE KILL — THEY HAVE PLEADED "HUMAN ERROR BY MS TAYLOR" TWICE AND THEN PLEADED "NOT REPEATED"
+> **¶14(f)** *(COVID leave, Feb 2024)*: *"says this was **a matter of human error by Ms Taylor** on
+> the background of **high work demands** surrounding the management of staff with COVID-19"*
+> **¶22(a)** *(the roster, Mar 2024)*: *"says the shift was separated by only a **7-hour break
+> (rather than an 8-hour break)** says that this was a result of **human error and not intentional
+> or repeated**"*
+
+⭐⭐⭐ **Two human errors by the same manager, one month apart, both pleaded by the Respondent in
+the same document — and the second pleaded as "not repeated."**
+⭐⭐⭐ **"Not repeated" IS the *Bowers* / *Davis v Blackwood* blemish argument.** A blemish in an
+otherwise sound system remains reasonable. **The Respondent's own pleading establishes the
+repetition that defeats it.** ⇒ **This is the answer to their best authority, and it is in their
+own document. It is the single most valuable find of the session.**
+⭐ And **¶14(e)** concedes the underlying fact: *"says that a review indicates that **in fact, the
+attachments were present** on the appellant's submission."* **The decline was wrong and they admit it.**
+⭐ **¶14(f) also pleads "high work demands"** — the Respondent putting the unit's demand level in issue.
+
+### ⭐⭐⭐ ¶22(a) — THE SHORTFALL IS NOW CONCEDED, NOT CONTESTED
+*"a **7-hour break (rather than an 8-hour break)**"* — the Respondent adopts the **8-hour** standard
+(via ¶22(e), the June 2020 agreement) and accepts he was given **7**.
+⇒ ⭐⭐ **The 7 < 8 bind is no longer an argument to construct. It is pleaded by the Respondent.
+Nobody contests that the break was short by an hour.** ⛔ **This retires the "10-hour minimum"
+overstatement in the Form 9A permanently — the concession is better than the overstatement.**
+
+### ⭐⭐⭐ ¶16 + ITEM 20 — TWO ARMS OF THE STATE, OPPOSITE ANSWERS
+> **¶16(a)** *"says that **Ms Reese was unaware that the appellant had lodged a PID**"* — the
+> reprisal defence is a **knowledge** defence.
+> **¶16(b)(v)** *"**Ms Reese having sought advice from Human Resources**, emailed the Appellant at
+> 6.23pm"*
+
+⭐⭐⭐ **The Regulator pleads that Reese sought HR advice, in the window 13–31 May 2024, immediately
+before the retraction direction. MSH told the Commission that the operational HR reaction in that
+window "does not exist."**
+⇒ ⭐⭐ **Item 20's relevance is now established by the Respondent's own pleading, and its existence
+is contradicted between two arms of the State.** If HR knew of the ESU complaint and advised
+Reese, the *"unaware"* defence is in difficulty. **This is the strongest relevance argument
+available for the 64G and it requires nothing from Cory.**
+⭐ Also pleaded: Taylor raised the 1.15pm email with Reese at **1.20pm** — five minutes.
+⭐ **¶16(b)(vii): *"the email was ultimately removed from the server."*** — a new fact. Removal
+from the server is an act on a record. **Add to the preservation request.**
+
+### ⚠⚠⚠ THE DANGER — ¶13 IS THE STRONGEST PART OF THE DEFENCE AND IT WAS UNKNOWN TO ME
+Against Stressor 1(c) (grievance dismissed same day, no investigation, sent back to the same
+manager), the Respondent pleads a **documented four-month engagement**:
+| | |
+|---|---|
+| 7 Aug 2023 | email sent — *"but **denies it was a formal grievance**"* |
+| **10 Aug 2023** | *"the email **prompted a meeting** with the appellant and Ms Reese… to discuss the issues"* |
+| **29 Aug 2023** | *"Ms Reese emailed the appellant… advising him that he had an **option to make a formal grievance**"* |
+| **8 Sep 2023** | *"another email… to **further address** the appellant's issues"* |
+| **14/15 Nov 2023** | *"Ms Taylor emailed the appellant… to discuss **compliance with shift and break time procedures** and to arrange a meeting for 15 November 2023"* |
+
+⛔⛔ **The pleaded stressor — "dismissed the same day without formal investigation" — does not
+survive that chronology if those documents exist.** ⭐ **DOWNGRADE Stressor 1(c) from "strong" to
+"contested, and probably lost on the documents."** It was banked as one of the four survivors for
+the psychiatric report. **That was wrong and must be corrected in the 12 August instruction.**
+
+### ⭐⭐⭐ BUT ¶13(f) IS A GIFT — AND IT VALIDATES FORM 29 ITEM 18
+*"Ms Taylor emailed the appellant on **14 November 2023** to discuss **compliance with shift and
+break time procedures** and to arrange a **meeting for 15 November 2023**."*
+⭐⭐⭐ **The Respondent pleads that break-time procedures were a live subject of a meeting FOUR
+MONTHS BEFORE the 7-hour break.** ⇒ **The employer was on notice about break times, at manager
+level, in November 2023.** That is directly destructive of *"human error… not intentional"* and it
+is pleaded by them.
+⭐⭐ **And Form 29 Item 18 seeks the "15 November 2023 Business Case minutes" — which MSH objected
+to as IRRELEVANT. The Respondent's own pleading makes that meeting relevant.** ⛔ **Item 18 must be
+pressed, and ¶13(f) is the reason.**
+
+### ⚠⚠ ¶16(b)(i) — THE RESPONDENT HAS PLEADED THE PRODROME
+*"the appellant had **difficulty in attending work on his rostered shifts** (on 13 May 2024 to 15
+May 2024) and **did not comply with the processes of properly notifying**… the 'on-call process'"*
+⚠ **Against him:** the attendance/notification issue is now in the appeal, not just the employment
+file, and it long predates the 8 Sep 2025 letter. They will use it to explain the retraction
+direction as a response to conduct.
+⭐⭐ **For him — and it is larger:** the Respondent has pleaded, in the month **before** the
+18 June 2024 onset, that he was having difficulty attending rostered shifts and notifying. **That
+is the prodrome, pleaded by the Respondent.** It is the same presentation the ECC later calls
+*"working memory affected under stress"*. ⭐ **Give this to the psychiatrist.**
+
+### THE REST OF THE DEFENCE — RED-TEAMED
+| ¶ | What they plead | Assessment |
+|---|---|---|
+| **6** | The appellant must prove all four elements **including** that the injury did not arise from reasonable management action | ⭐ **Third independent confirmation of the onus.** The Form 9A's "Respondent bears the onus under Prizeman" is now contradicted by the guide, the redraft and the Respondent |
+| **8** | Does **not admit** the clean baseline *"because medical records identify **a past medical history of anxiety**"* | ⭐⭐ **A non-admission, not a positive case.** *"A past medical history of anxiety"* is not a diagnosis, not a condition, and not pleaded as a **cause** |
+| **⭐⭐⭐ 27** | *"any management action involved in the causation of any injury… was reasonable management action taken in a reasonable way pursuant to s 32(5)"* | ⭐⭐⭐ **THAT IS THE ENTIRE CONTENTION. ONE SENTENCE.** ⛔ **They have pleaded NO positive alternative cause** — no bereavement, no relationship breakdown, no litigation, no pre-existing condition as a cause. **A party cannot lead a positive case it never pleaded.** The Krishnaiah Q6(b) material is **unpleaded** |
+| **22(b)** | *"the appellant **could refuse shifts at anytime**"* | ⚠ Real argument. ✅ Answers: the Role Description **mandates** 24/7 availability; the sick-leave process requires 2 hours' notice; **¶14 shows a leave request being declined**; MSH pleads *"limited resources"*; and ⭐⭐ **the 8 Sep 2025 letter runs a conduct process about his absences. They cannot say "refuse at any time" and count refusals as misconduct** |
+| **22(c), 24(a)** | 19 Mar 2024 leave *"was **paid** leave"* | ⚠ **Damages the pleaded "compelled to exhaust his own accrued personal leave."** ⭐ Reframe, don't abandon: **paid from HIS OWN accrued entitlement rather than as fatigue leave** — which is exactly what Taylor's 1 Jul 2025 email proves (*"submit correct leave either S/L or A/L"*) |
+| **24(b)** | *"pursuant to **clause 18.10 of the Award**, the appellant is not entitled to fatigue leave, **because he was not performing overtime**"* | ⛔⛔ **MUST BE VERIFIED AGAINST THE AWARD BEFORE ANYTHING ELSE.** ⭐⭐ And note the deeper point either way: **if fatigue leave is available only after overtime, then a worker given a short break with no overtime has NO recovery entitlement at all — which is the "no system" case, pleaded by the Respondent** |
+| **22(f)** | *"says that this issue was **not causative** of the appellant's injury"* | ⭐ **Their causation attack is aimed at Stressor 3 specifically** — i.e. the three-month gap. **The 12 August report must connect the March roster to the June onset. They have told us where they will attack** |
+| **11, 18** | 1(a) and 2(a) not admitted *"because there are **no particulars or details** to respond to"* | ⭐ A pleading objection. **Confirms: anchor 1(a) to the DIRECTIVES, not the "erratic presence"** |
+| **12** | Comm book: removal admitted; *"reported from Ms Taylor to Ms Reese on 6 June 2023 **via email**"*; *"occurred **after** Ms Taylor sent an email to the Logan Switch team at **9.57 am** with a reminder about the correct use of the Communications Book"* | ⚠ **A documented innocent sequence.** ⛔ **Confirms: DO NOT LEAN ON 1(b).** ⭐ But two new documents are identified — **the 9.57am reminder and the Taylor→Reese email. Request both** |
+| **19** | Answers the pay complaint by reference to *"**4 April 2023**"* and *"the Easter weekend of **8 and 9 April 2023**"* | ⚠⚠ **They have answered the WRONG PERIOD** — the pleading is Feb–Apr **2024**. ⭐ Noted; the limb is being deleted anyway |
+| **20(f)** | *"there are **no outstanding underpayments** for the appellant"* | A positive, checkable assertion |
+| **17** | Delegate: *"the appellant **did not request assistance**"*; Taylor *"did provide advice and support"* | ⭐ Confirms deletion of 1(g) |
+| **25** | Post-injury conduct *"post-date any injury… not relevant"* | ⭐ **Consistent with the banked discipline: causation stops before the 2026 material** |
+| **Decision sought ¶3** | *"The appellant **pay the respondent's costs** of the hearing"* | ⚠ Form boilerplate in a **no-costs jurisdiction (s 545)** — but **Dwyer makes costs orders.** ⭐ Another reason to delete the failing limbs |
+
+### ⇒ WHAT THIS DOCUMENT CHANGES
+1. ⭐⭐⭐ **The blemish defence is defeated by their own pleading** — two human errors, "not repeated".
+2. ⭐⭐⭐ **Item 20 relevance is established by ¶16(b)(v), and its existence is contradicted between the Regulator and MSH.**
+3. ⭐⭐ **Item 18 is validated by ¶13(f)** — break-time compliance was a meeting subject in Nov 2023.
+4. ⭐⭐ **No alternative cause is pleaded (¶27).** The competing-stressor attack is unpleaded.
+5. ⛔ **Stressor 1(c) is much weaker than banked** — four documented responses. Correct the report instruction.
+6. ⛔ **Verify Award cl 18.10 immediately.**
+7. ⭐ **The 7 < 8 shortfall is conceded. Stop asserting 10.**
