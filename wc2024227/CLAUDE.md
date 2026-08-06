@@ -76,6 +76,24 @@ refusal)**.
 - **The 64G does NOT reach the 2026 employment file** (Form 29 ranges stop 30 Jun 2024).
   The **IP Act application** is the only route.
 
+### ⛔⛔ ADDED 6 AUGUST 2026 — READ BEFORE ANYTHING ELSE
+1. ⛔⛔ **THE RFMI DEADLINE IS FRIDAY 7 AUGUST 2026** (31 Jul + 7 calendar days). The psychiatrist
+   is **12 August**. **SEND A WRITTEN EXTENSION REQUEST TODAY** — to 21 August, to Harrison,
+   cc lbh_hr. The letter expressly allows one. If none is sought, Hughes decides capacity
+   *"based on the available information."*
+2. ⛔ **`AttF_2025-09-08_Hughes_attendance_letter_34_occasions.pdf` HAS NO TEXT LAYER** (32pp).
+   `pdftotext` returns nothing at all. **Render with `pdftoppm -r 150 -png`;** the letter is
+   pp 1–5 of 5 at render pages 2–6. Add to the source-integrity list below.
+3. ⭐⭐ **THE G3 ASYMMETRY IS THE STRONGEST POINT IN THE EMPLOYMENT TRACK.** Same Director:
+   8 Sep 2025 attendance treated as **conduct**, G3 never invoked, no medical inquiry, the
+   psychological injury never mentioned; 31 Jul 2026 a **fit-with-adjustments** certificate
+   treated as **medical**, G3 expressly invoked, nine questions in seven days. Full analysis in
+   `skill/references/confirmed-record.md`.
+4. ⚠⚠ **The 8 Sep 2025 letter is also the biggest RISK document in the repo** — 34 occasions.
+   Never run the 25/26 June adjacency inference as though it does not exist.
+5. ⛔ **`documents/2025-hughes-history/AttA`–`AttD` (DFV material) DELIBERATELY NOT OPENED.**
+   Ask Cory before mining them.
+
 **⛔ THREE THINGS STILL NOT DONE:**
 1. Verify **the last shift worked before 26 Jun 2026** (payslips + roster) — task 6 below.
 2. **Send the preservation request** — before 7 Aug.

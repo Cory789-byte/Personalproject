@@ -1757,3 +1757,358 @@ a settlement point**, and it is a legitimate document for the psychiatrist to ha
 | Alternatives considered | Litigation · the 2026 exclusion · prior history · non-work — **named and excluded with reasons** |
 | **Current circumstances** | **Separately headed.** 2026 material lives here, under prognosis — never under causation |
 | Capacity | Fit with adjustments. RFMI **Q6 "yes, with the adjustments"** · **Q9 "not a medical question"** · **Q3 declined** |
+
+## ⭐⭐⭐ THE 8 SEPTEMBER 2025 HUGHES ATTENDANCE LETTER — READ IN FULL, 6 AUG 2026
+> `documents/2025-hughes-history/AttF_2025-09-08_Hughes_attendance_letter_34_occasions.pdf`
+> **32 pages, NO TEXT LAYER** — rendered with `pdftoppm -r 150 -png` and read. ⛔ Add to the
+> CLAUDE.md source-integrity list. `pdftotext` returns **nothing at all** for this document.
+> Letter is pp 1–5 of 5 (render pages 2–6); render page 1 is Attachment 1, the Sick Leave Process.
+>
+> ⚠⚠ **This is simultaneously the biggest risk document and the biggest find in the file.
+> Both halves are recorded below. Do not use one without the other.**
+
+**Signed Scott Hughes, Director Corporate Services, 08/09/2025. Ref K-FILE-25/2113.
+Enquiries: Lyndelle Forrest, Senior Consultant HR.** Opening: *"I write to you in relation to
+concerns raised regarding your workplace behaviour and conduct."*
+
+**Structure: 14 occasions (from 14 Apr 2025) + 4 (from 10 Jun) + 16 (from 25 Jun) = 34.**
+Outcome: not discipline. A **direction to undertake training**, sign an acknowledgement within
+**7 calendar days**, a meeting with Ms Taylor, PDP review, and a warning that continuation
+*"may be grounds to consider initiating a Performance Improvement Plan (PIP)."*
+
+### ⚠⚠ THE RISK — STATED PLAINLY, NOT SOFTENED
+On its face this is a poor attendance record: **34 occasions across roughly 18 weeks**, including
+two instances of sleeping in, a dead phone, a dog, a coffee stop at McDonald's, and repeated
+lateness. **A Commissioner or an IME reading it cold will read it as an attendance problem, not
+as a health signature.** It also gives MSH a **documented process concern nine months before the
+26 June 2026 exclusion**, which weakens — though does not destroy — the 25/26 June adjacency
+inference. ⛔ **Never present the exclusion inference as though this letter does not exist.**
+✅ The distinction that holds: **no conduct process was on foot in June 2026, and the exclusion
+was expressed on medical/ECC grounds, not attendance grounds.** Different reason, different door.
+
+### ⭐⭐⭐ THE FIND — THE G3 ASYMMETRY. THIS IS THE FINDING OF THE SESSION.
+| | **8 Sep 2025** | **31 Jul 2026** |
+|---|---|---|
+| Author | **Scott Hughes, Director Corporate Services** | **Scott Hughes, Director Corporate Services** |
+| Trigger | Attendance, punctuality, early-morning absence | A certificate saying he is **FIT with adjustments** |
+| Framing | ⭐ **Conduct.** *"workplace behaviour and conduct"* | ⭐ **Medical.** Nine questions to a doctor |
+| **HR Policy G3 (Reasonable Adjustment)** | ⛔ **NOT INVOKED. NOT MENTIONED.** | ⭐ **EXPRESSLY INVOKED** |
+| Medical information sought | ⛔ **NONE** | Demanded, **7 days**, with an authority form |
+| The psychological injury | ⛔ **NEVER MENTIONED — not once in five pages** | The entire subject |
+| Deadline given | 7 calendar days | 7 calendar days |
+
+⭐⭐ **Same Director. Same employee. Opposite framings — and in each case the framing chosen was
+the one that put him under process or kept him out.** When medical information would have
+*helped* him it was never sought. When medical information could *exclude* him it was demanded
+in seven days.
+
+⛔ **And the omission is not innocent on the dates:** the **MDD diagnosis is 13 February 2025**
+(Krishnaiah). The first attendance meeting is **14 April 2025 — two months later.** The letter
+is 8 September 2025. Five pages about early-morning absence, sleeping in, roster confusion and
+lateness, written about a worker with a **known work-related psychological injury**, and it
+never mentions it, never seeks a medical opinion, and never invokes the adjustment policy.
+
+⭐ What Hughes wrote instead:
+> *"I do acknowledge that you are currently experiencing some challenging **personal matters**…
+> **Personal difficulties**, while understandably impactful, do not exempt employees from
+> fulfilling core responsibilities, including those related to attendance and communication."*
+
+⇒ **Everything was characterised as personal. That characterisation is the same one used to
+refuse the fatigue leave (below), and it is the same one the Regulator now runs on causation.**
+
+### ⭐⭐⭐ THE HIGHLIGHTED SENTENCE — AND WHY IT IS FALSE ON MSH'S OWN EMAIL
+> **8 Sep 2025, p. 4:** *"To address these concerns with you and put in strategies to support and
+> assist and improvement, I have attempted to arrange to meet with you on a number of occasions.
+> However, **these meetings have not taken place due to you not being in the workplace.**"*
+
+⭐⭐ **AttE proves at least one of those meetings was cancelled because HUGHES was absent:**
+> **CS.Logan (Carla Abbott, Senior Director Support Officer) → Cory, Wed 27 Aug 2025, 9:15 am:**
+> *"Please be advised unfortunately **Scott is unwell today and not in the office**. Apologies for
+> the inconvenience but we will need to reschedule your meeting today."*
+> (Rescheduled at 10:41 to Wed 3 Sep, 2:00–2:30 pm. Cory forwarded both to his personal address
+> on **15 Sep 2025** — after the letter — preserving it.)
+
+⭐⭐ **And a second rescheduling was caused by Cory exercising a representation right.** The
+letter's own occasion 11 (7 Aug 2025): *"You enquired why the meeting was scheduled and
+**requested a union representative be present** for the meeting. **The meeting was rescheduled.**"*
+
+⇒ **Three different causes — his absences, his request for a union representative, and Hughes'
+own illness — are collapsed into one sentence blaming him for all of them.** The union-rep
+instance is an exercise of a **workplace right (s 284 IR Act)** recorded as an attendance
+failure, and **s 306 presumes the reason unless the employer proves otherwise** (⚠ in a general
+protections application only — **s 310 gives SIX YEARS** for non-dismissal conduct).
+⭐ **This is the sharpest documented instance of the inversion pattern in the entire file, and it
+now rests on MSH's own email rather than on Cory's recollection.**
+
+### ⭐⭐ THE SECOND FATIGUE-LEAVE REFUSAL — PREVIOUSLY UNRECORDED
+> **Occasion 1 of the third tranche, 1 July 2025** *(highlighted in the original)*:
+> *"you were rostered 06:00 to 14:00 however departed your shift early at 12:00 noon citing
+> personal matters and fatigue due to relocating to Brisbane. You submitted a request in MyHR to
+> access **fatigue leave, which was declined on the grounds that the 'fatigue' experienced was
+> due to personal circumstances and not work related.**"*
+
+⭐ **This is the SECOND documented refusal of fatigue leave** — the first is **19 March 2024**,
+the day after the 7-hour break. Two refusals, sixteen months apart, in a 24/7 continuous shift
+role that MSH told the Commission has no mandatory FRMS requirement because Switchboard is
+*"non-clinical staff"*, and where fatigue management was implemented only *"after 30 June 2024"*.
+⚠ **But note the ground of refusal: "personal circumstances and not work related."** That is a
+double-edged document — it also gives the Regulator a contemporaneous MSH record attributing his
+July 2025 fatigue to a house move. **Deploy the pattern (fatigue leave refused twice), not the
+instance.**
+
+### ⭐⭐ THE TIMESTAMPS ARE A CLINICAL SIGNATURE, RECORDED BY THE EMPLOYER
+Notification times across the 34: **00:29 · 02:10 · 05:00 · 05:14 · 05:33 · 05:54 · 06:10 ·
+06:15 · 06:16 · 06:17 · 06:52 · 07:18 · 07:48 · 21:30 · 22:21 · 23:05.**
+Against **06:00 and 07:00 starts**, in a role the Role Description makes *"continuous shift work
+over the full 24-hour period, 7 days a week."*
+
+⛔⛔ **AND THE PROCESS IS IMPOSSIBLE TO COMPLY WITH.** Attachment 1 (Taylor, 04/02/2025) requires:
+> *"All staff must provide a minimum of **2 hours' notice** of their intention not to attend work"*
+> and, after hours, *"You must call either **before 10pm or after 4am**."*
+
+⇒ **A worker rostered 06:00 who wakes unwell at 05:00 cannot comply.** Two hours' notice means
+knowing at 04:00 — i.e. **predicting illness the night before, before 10pm.** At least seven of
+the 34 occasions fall in exactly that impossible window. ⭐ **That is a design defect in the
+employer's own procedure, and a control problem, not a compliance problem.**
+
+⭐ **The personal-mobile contradiction.** Occasions 9, 10, 11, 12 and the 25 Jun item count him
+for texting Willmann, Court and **Taylor on their personal mobiles** — while (a) Attachment 1
+itself says *"Please call the on-call mobile first, **before calling personal mobiles**"*, i.e.
+personal mobiles are an contemplated fallback; and (b) **MSH's own 5 June 2026 objection admits
+the line manager used a personal mobile outside the retention policy.**
+
+⭐ **The roster-confusion occasions are evidence FOR the central stressor, not against him:**
+- **4 May 2025** — *"you did not review the roster properly and were not aware that you were rostered to work"*
+- **11 Aug 2025** — he named 12, 13 and 15 Aug; he was rostered 12, 13 and 14
+- **17 Aug 2025** — *"you thought you were working from 07:00–15:00. **You had looked at the next fortnight's roster**"*
+⇒ ⭐⭐ **Unpredictable rostering is the pleaded exposure. The employer's own conduct letter
+documents him repeatedly not knowing when he was rostered.** It also documents, eleven months
+before the ECC recorded it clinically, exactly what the ECC calls *"working memory is affected
+under stress"* — which is **RFMI Q7**.
+
+⭐ **Every single one of the 34 involves notification.** Not one is a no-show without contact.
+The charge in the letter's own words is *"failed to adhere to the process"* — a **channel and
+notice-period** complaint, not an abandonment complaint.
+⭐ **One is counted on a day he was not rostered** — 28 April 2025: *"**You were not rostered to
+work this day.**"* Their own arithmetic includes a non-event.
+⭐ **One is a systems failure** — 29 May 2025: *"your **swipe card was not working** and you could
+not get in to work."*
+⭐ **One is a stolen car** (22 Jun 2025) and one a **medical certificate supplied at 09:25**
+(2 May 2025). Both counted.
+
+### ⭐⭐ TWO ADMISSIONS AGAINST INTEREST INSIDE THE LETTER
+1. **Understaffing.** Occasion 13 (28 May 2025): he offered to work the **second half** of the
+   shift; he was told *"due to **limited resources**, your entire shift would require filling and
+   not part."* ⭐ An offer of partial attendance — a de facto adjustment — refused for resourcing.
+   Reinforced at p. 4: *"place **additional strain on your colleagues**."*
+2. **Patient-safety criticality, again.** *"Frequent absences and late arrivals disrupt workflows…
+   and can ultimately **compromise the quality and timeliness of service delivery to patients**
+   and the wider community."* ⭐ Sits alongside **Form 24 ¶8** and the Role Description. **Three
+   independent sources now, one of them an admission in the appeal.**
+
+### ⭐ AND THE ROUTING DEFECT, A THIRD TIME
+p. 5: questions about a letter concerning his line manager go to *"**Ms Chloe Taylor, Manager**…
+or via email at LBH_HR@health.qld.gov.au."*
+⇒ Same defect as **7 Aug 2023** (grievance not upheld, directed back to the same manager) and the
+**May 2024 PID** (routed within HR). **Third documented instance of a complaint or process about
+a manager being routed back through that manager.** That is the organisational-justice stressor,
+and it now has three instances rather than two.
+
+### ⛔⛔ RULE 10 COLLISION — READ THIS BEFORE ANY FILING OR THE 12 AUGUST CONSULTATION
+The letter records, **in MSH's own words and in MSH's own file**: *"still at the mediation"*
+(17 Apr 2025) · *"prepare for a personal hearing scheduled for 28 April 2025"* (23 Apr) ·
+*"unable to attend… due to court"* (21 Jul) · *"you had **won your court case**"* (1 Aug) ·
+*"you were at the **courthouse**"* (4 Aug) · *"in session **pleading your case**"* (13 Aug) —
+and, critically, a meeting convened *"to gain more clarity into **your court attendances**."*
+
+⛔ **CLAUDE.md rule 10 governs what CORY VOLUNTEERS. It does not make this material unknown to
+MSH — they wrote it down.** The rule stands unchanged for filings and correspondence: **do not
+raise it, do not adopt it, do not explain it.** But three consequences must be planned for:
+1. ⚠ **MSH can produce this letter.** If they do, respond minimally and take instructions.
+2. ⚠ **It is the concrete form of Attack F (non-work stressors).** An IME reading it has a
+   ready-made alternative cause for the 2025 period. ⭐ The answer is **s 32(1) again — employment
+   need only be *a* significant contributing factor**, and the aetiology period closed in **June
+   2024, before any of this.**
+3. ⛔ **Do NOT put this letter in the psychiatrist's bundle.** It is not needed for causation
+   (which stops at 24 Oct 2024), and handing a treating psychiatrist a five-page conduct letter
+   invites him to write about it. ⭐ **If the doctor asks about 2025, Cory answers truthfully —
+   but the bundle does not volunteer the document.**
+
+### ⚠ NOT OPENED — AttA to AttD (DFV material). REQUIRES CORY'S INSTRUCTION FIRST.
+`AttA_DV_Aggrieved_Confidential_Address_Form` · `AttB_2025-03-12_DFV_leave_request_chain_Hughes`
+· `AttC_2025-03-28_Hughes_response_perpetrator_recreational-leave` ·
+`AttD_2025-02-25_MagistratesCourt_Form44_WITHDRAWN_TPO_VACATED`
+⭐ AttA indicates he was the **aggrieved**, not the respondent. AttB/AttC indicate a **DFV leave
+request to Hughes in March 2025 and a response concerning recreational leave**.
+⛔ **Deliberately left unread this session.** It is sensitive personal material, it is not needed
+for the 12 August report, and reading it does not change the G3 asymmetry finding. **Ask Cory
+before mining it.** ⚠ But note the possibility squarely: if DFV leave was refused or converted to
+recreational leave in March 2025, that is a serious and separate matter, and it sits four months
+before Hughes wrote *"personal difficulties… do not exempt employees."*
+
+## ⭐⭐⭐ THE ROLE DESCRIPTION IS THE EMPLOYER'S OWN DEMAND–CONTROL EVIDENCE (read 6 Aug 2026)
+> `documents/2026-07-31_RFMI_Attachment2_AO3_Switchboard_Role_Description.pdf` — **MSH wrote it,
+> and MSH served it on him on 31 July 2026 as RFMI Attachment 2.** It has never been mined.
+> Contact listed: **Chloe Taylor.** Classification **AO3**. Reports to the Switchboard Manager.
+
+⭐⭐ **The single best sentence in the document:**
+> *"**Maintain discretion and exercise judgement where necessary to resolve problems within the
+> scope of your role; in situations where precedence have not been set and procedures not
+> defined.**"*
+
+⇒ **The employer's own role description REQUIRES him to exercise independent judgement in
+undefined situations.** That is the answer to any suggestion the role is clerical, and it is the
+documentary basis for *"how he already runs assessment"* — see the next section.
+
+⭐⭐ **DEMAND — in MSH's words:**
+- *"Maintain call queues to **minimum at all times**"* — an **unbounded demand with no completion
+  criterion**. There is no state in which the task is finished.
+- *"Participate in the Emergency Response process by receiving emergency response notifications
+  and distributing them to the appropriate response groups, **dependent on the category of
+  emergency**, as per emergency code procedures, **strictly adhering to protocols and
+  timeframes**."* ⭐ **That is triage: categorise, then route, under a clock.**
+- *"The ability to **multitask and operate under pressure**, particularly where **high volume call
+  traffic** is concerned."*
+- *"required to work **continuous shift work over the full 24-hour period, 7 days a week**"* —
+  and mandatory: *"You **must** be able to work a roster which covers multiple shifts over a 24/7
+  period."*
+
+⛔⛔ **AND THE ROLE DESCRIPTION CONTAINS NOT ONE WORD ABOUT FATIGUE, BREAKS OR RECOVERY.**
+Mandatory 24/7 continuous shift work, no fatigue provision — against MSH's admission to the
+Commission that Switchboard was outside the FRMS because it is *"non-clinical staff"*, and that
+fatigue risk management arrived only *"after 30 June 2024"*. ⭐ **The employer mandated the
+exposure in the role description and excluded the role from the control.**
+
+⭐⭐⭐ **CONTROL — THE DIRECT CONTRADICTION, AND IT IS THE STRONGEST SINGLE POINT IN THE FILE:**
+> Role Description: *"**Collate information and maintain Omnivista database and SharePoint to
+> ensure information held within Switchboard Services is accurate and appropriate.**"*
+> Form 24 **¶8, ADMITTED**: *"Maintaining accurate contact details for medical staff is a critical
+> function of the Switchboard to ensure effective clinical handover and **patient safety**."*
+> **Stibbard, 18 July 2023: *"removing everyone's access to the database."***
+
+⇒ **The role description makes accuracy of the database HIS responsibility. The Regulator admits
+that accuracy is critical to patient safety. His access to the database was removed.**
+⭐⭐ **Responsibility, criticality and removal of the means — each from a different source, one of
+them an admission by the other side in the appeal itself. That is the demand–control mechanism
+proved without a word of self-report.**
+
+⭐ **Two more contradictions with the pleaded stressors:**
+- *"Be open to new ideas and approaches and be adaptable in the face of change. **Support and
+  participate in change initiatives.**"* ⇒ The role description **requires participation in
+  change**. Stressor 1(a) is that changes were imposed **without consultation**. ⭐ Low control
+  measured against the employer's own stated expectation, not against his preference.
+- *"Ability to work effectively as an individual with **limited supervision** to meet deadlines
+  and **establish work priorities**"* ⇒ autonomy is an **inherent requirement**. Set against
+  unilateral directives, database access removal, and being *"put to work justifying himself"*.
+- *"**Be honest, ethical and professional.**"* ⇒ he raised concerns honestly and was **directed to
+  retract** (Form 24 **¶21, ADMITTED**).
+- *"Follow defined service quality standards, **occupational health and safety policies and
+  procedures**"* ⇒ the WHS obligation is placed on **him** in the role description; MSH's own
+  s 19 duty is the one the 26 June 2026 exclusion invoked.
+
+⚠ Note: the *"Team structure"* heading on the last page is **blank** — no reporting diagram.
+
+## ⭐⭐ "HOW HE ALREADY RUNS ASSESSMENT" — THE CAPABILITY CASE, DOCUMENTED
+Three independent registers, none of them self-assessment:
+
+**1. He performs clinical-adjacent triage every shift.** *"distributing them to the appropriate
+response groups, **dependent on the category of emergency**… strictly adhering to protocols and
+timeframes"* — categorise, route, under a clock, **15–50 codes per 24 hours**, each paged to ~10
+clinicians. Plus *"exercise judgement… where **precedence have not been set and procedures not
+defined**."* ⭐ **Assessment under time pressure with life-safety consequences is the inherent
+requirement of the role he already holds at AO3.**
+
+**2. He runs risk assessment on the workplace itself.** Unprompted, he has produced: the
+Switchboard psychosocial-assessment submission and scope; a sourced provider proposal with
+independence, method and scope answered in writing before engagement ($10k–$30k); a fatigue and
+rostering analysis; a delegate-rights analysis under EB12 cll 3.1.5–3.1.8; and the WHS
+consultation argument under ss 47–49. ⭐ **That is the work of a WHS/psychosocial advisor, not an
+AO3, and it exists on paper before anyone asked for it.**
+
+**3. He runs the assessment of his own matter.** Form 9A, Form 24 notice, Form 29, r 64G
+application, Form 20 affidavit, two Calderbank offers, an s 89 disclosure, a Stage 1/Stage 2
+grievance, an RTI/IP Act strategy, and an exhibit register — self-represented, against a
+represented Regulator, to a point where the Commission described the matter as a coin flip.
+
+⇒ **Prior experience is consistent, not aspirational:** safety advisor, Manus Island (Australian
+Border Force / Immigration contractor) · third-year Bachelor of Nursing (ceased) · Diploma of
+Fitness · six years operational in the health service. ⭐ **The realistic redeployment band is
+AO4–AO5 in WHS, psychosocial risk, quality and safety, or workforce systems** — banked previously
+against the EB12 Schedule 1 rates from 1 Sep 2026 (AO4 $94,741–$104,148 · AO5 $109,742–$119,244).
+⚠ **Still to confirm from him: the Manus Island contracting entity and the exact period.**
+
+## ⭐⭐⭐ THE RFMI — ALL NINE QUESTIONS READ VERBATIM, AND WHAT TO ANSWER (6 Aug 2026)
+> `2026-07-31_ScottHughes_RFMI_letter_to_GP_DrMa_9questions.pdf` (5pp) and
+> `..._letter_to_EMPLOYEE.pdf`. Both signed **Scott Hughes, Director Corporate Services,
+> 31/07/2026**. Enquiries: **Michelle Harrison, Injury Management Consultant, HR.**
+> Basis cited: **HR Policy G3: Reasonable Adjustment, and ss 17 and 19 WHS Act 2011.**
+
+### ⛔⛔ URGENT — THE DEADLINE IS **FRIDAY 7 AUGUST 2026** AND THE PSYCHIATRIST IS THE 12th
+The employee letter: *"I ask that you please return the applicable document **within seven (7)
+calendar days** of receipt… **If you do not return the document within this timeframe or seek a
+reasonable extension, I will make a decision regarding your ability to perform your role based on
+the available information.**"*
+⇒ 31 July + 7 = **7 August 2026 — tomorrow.** The 3 August response allocated the questions but
+the **medical answers cannot exist before 12 August.**
+⭐ **SEND A WRITTEN EXTENSION REQUEST TODAY.** The letter expressly contemplates one. Ask for **21
+August**, state the specialist appointment is 12 August, and put it to **Harrison, cc lbh_hr**.
+⛔ **If no extension is sought, Hughes decides capacity unilaterally on "available information" —
+which is the ECC he has already declined to act on.**
+
+### ⭐⭐ TWO STRUCTURAL DEFECTS IN THE REQUEST
+**1. It is addressed to the wrong doctor.** The letter goes to **Dr Day Hong Ma, GP, My Doctors
+Clinic, Surfers Paradise**. The report is being written by the **psychiatrist on 12 August**.
+⭐ **Fix it in advance:** the psychiatrist's report should state on its face that it responds to
+the RFMI of 31 July 2026, and Dr Ma should provide a short covering note adopting/referring to
+the specialist opinion on the questions within his expertise. Otherwise the response can be
+rejected as *"not from the addressee."*
+
+**2. It tests the wrong baseline.** Both letters describe him as *"**Permanent Full-time basis
+76 hours per fortnight**"* and **Q6** asks whether he can fulfil *"the **full inherent
+requirements**"* of that role *"without restrictions or modifications."*
+⛔ **He has not worked 76 hours a fortnight since 2024.** The ECC records the arrangement as a
+*"continuation of existing arrangement… worked and tolerated… without deterioration"*, and the
+2025 FTE analysis puts him at **29.3%**. ⭐ **Q6 measures him against a baseline he has not
+occupied for fourteen months, which the employer itself approved and which worked.**
+
+### ⭐⭐⭐ THE SENTENCE THAT SHOULD NOT BE IN A LETTER TO A TREATING DOCTOR
+> **Q2 preamble:** *"**As the Health Service is not aware of any concerns being raised for
+> appropriate management**, clarification on these statements is being sought…"*
+
+⛔⛔ **That is a factual assertion, made to his doctor, and it is contradicted by the Health
+Service's own record:** the 7 Aug 2023 grievance · the 13 May 2024 ESU complaint, **determined a
+PID and ADMITTED at Form 24 ¶20** · the retraction direction, **ADMITTED at ¶21** · the 3 Oct 2025
+request for review · the 4 Oct 2025 complaint about Hughes to Roberts, cc Moran · the 28 Jul 2026
+letter on the misapplication of EB12/the Award · the 3 Aug 2026 seven questions.
+⭐⭐ **The ECC's identified stressors include *"unresolved workplace matters involving line
+management"* and *"being held accountable and blamed for the failures of others."* The employer's
+response was to tell his doctor that no concerns had ever been raised.** That is the same
+inversion, occurring **inside the medical process**, and it is the cleanest instance yet.
+
+### THE NINE QUESTIONS — ANSWER, DECLINE, OR PAIR
+| Q | What it asks | ⇒ |
+|---|---|---|
+| **1(a)** | When was MDD first diagnosed | ✅ **Answer.** 13 Feb 2025 (Krishnaiah). Note symptoms and the injury predate diagnosis |
+| **1(b)** | ⭐⭐ *"the **clinical basis** for identifying these specific workplace stressors"* | ⭐⭐⭐ **THE MOST IMPORTANT QUESTION IN THE LETTER — AND THEY ASKED IT.** Answer with the document list |
+| **1(c)** | ⭐⭐ *"whether… based **solely on Mr Shepherd's self-report**, your own clinical assessment, or other medical information"* | ⭐⭐⭐ **THIS IS THE APPEAL'S CENTRAL QUESTION, POSED BY THE EMPLOYER.** Answer: clinical assessment **plus documents** — Form 24 admissions, Review Decision 69983, the roster, the call statistics, the Role Description |
+| **1(d)** | Foreseeable risk on return, and controls | ⚠⚠ **NEVER A BARE YES.** A bare yes is the s 19 basis Taylor used on 26 June. ⭐ **Pair it:** *"the risk is foreseeable **and controllable by the identified adjustments**; with those adjustments it does not preclude return"* |
+| **2 bullets** | *"able to **follow a reasonable and lawful direction**"* · *"**participate in discussions in relation to his workplace performance and/or conduct**"* | ⛔⛔ **DECLINE. These are not capacity questions.** They are conduct and performance-management questions in medical clothing, and they lay the foundation for a process, not a return-to-work plan |
+| **3** | Fit to return **under the existing reporting arrangements, reporting to the current line manager** | ⛔ **DECLINE — banked.** It asks a treating doctor to make an industrial decision about the manager who is the subject of the ¶5 rostering-error admission and the ESU-determined PID |
+| **4** | ⭐⭐ *"If not… specify any **restrictions or adjustments** you recommend, the **clinical basis in functional terms**, and the anticipated duration and review date" | ⭐⭐⭐ **ANSWER IN FULL. THIS IS THE OFF-RAMP AND IT IS THEIRS.** The employer has asked, in writing, for a clinically-based reporting-line adjustment. Give it: functional terms, duration, review date |
+| **5** | What "complaint handling" covers | ✅ **Answer — and use their own words.** The letter states the *"established process for client complaints received by Switchboard employees is for **immediate escalation** and management by the Client Liaison Officer and/or Manager."* ⭐ **On the employer's own description the restriction is already the process. It costs them nothing** — set against the 5 June objection that complaints were *"managed solely via email or verbally"* with **records not retained** |
+| **6** | Full inherent requirements, **no restrictions or modifications** | ⭐ **"Yes, with the adjustments"** — banked. ⛔ Never a bare no. And note the 76-hour baseline defect above |
+| **7** | *"working memory is affected under stress"* in functional terms | ⚠ **The cognitive trap.** ✅ Answer: **state-dependent and stress-contingent, not a fixed deficit** — and the objective record is 269–444 calls per shift through 2025 with no error attributed to him. ⭐ Note the employer's own 8 Sep 2025 letter documents roster-recall difficulty eleven months before the ECC named it |
+| **8** | *"specific tasks, situations, or environments (e.g. **high-pressure settings, shift work**, patient acuity)"* | ⭐⭐ **ANSWER IN FULL — THE EMPLOYER NAMED SHIFT WORK ITSELF.** This puts unpredictable rostering and inadequate recovery into a document **the employer commissioned**. It is the Stressor 3 exposure, invited |
+| **9** | *"**If we are not able to accommodate** the restrictions… is Mr Shepherd able to safely return"* | ⛔⛔ **DECLINE — banked, and now sharper.** It presupposes non-accommodation **without any assessment of reasonableness having been provided**, and it is built so that any answer but a refusal produces the exclusion. ✅ *"That is a question of what adjustments the employer can provide, not a medical question. Clinically, with the adjustments at Q4, he is fit."* |
+
+### ⭐ TWO USEFUL THINGS IN THE EMPLOYEE LETTER
+- **"MSH will meet your reasonable costs of preparing this report."** ⭐ **The employer pays for
+  the 12 August report** — invoices to `lbh_InjuryManagement@health.qld.gov.au`. And **Option 1 is
+  that HE obtains it from his practitioner**, so it remains **his report on his instruction, at
+  their cost.** ⭐ That is the ideal structure and it does not disturb the one-report strategy.
+  ⛔ The **Option 2 authority form is NOT SIGNED** — keep it that way; signing it hands MSH direct
+  access to the practitioner.
+- **"I will make a decision regarding your ability to perform your role."** ⭐ Hughes has reserved
+  the capacity decision to **himself — a Director of Corporate Services** — which is precisely the
+  officer the **s 89 disclosure of 3 August** asked be replaced. ⭐ **The RFMI is the evidence that
+  the s 89 letter was necessary, in the decision-maker's own words, dated two days before it.**
