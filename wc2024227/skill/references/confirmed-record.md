@@ -1473,3 +1473,48 @@ party's privacy.
 ⚠⚠ **NAME-CONFLATION TRAP: "Renee Dawson" (MSH custodian) is NOT "Renee Matheson" (OIR Senior
 Appeals Officer).** Different people, similar first name. **Never conflate them, in any document
 or conversation.**
+
+## ⭐⭐⭐ RED TEAM — EVERY STRESSOR, SCORED FOR WHAT THE PSYCHIATRIST CAN WRITE
+
+| Stressor | Documented? | ⚠ Attack | Verdict for the report |
+|---|---|---|---|
+| **3 — the 7-hour break, 17–18 Mar 2024** | **ADMITTED** ¶1, ¶3; found **unreasonable** by Squires; roster | ⚠⚠ **THE TEMPORAL GAP — onset is 18 Jun 2024, THREE MONTHS later.** How does one roster event in March cause an injury in June? | ⭐ **LEAD WITH IT — but see the formulation below** |
+| **1(a) — unilateral directives without consultation** | 16 Jun 2023 email; Stibbard "removing everyone's access to the database"; the MASPER directive | "erratic presence" is characterisation and hard to prove | ⭐ **STRONG — this is LOW JOB CONTROL, the core mechanism.** Anchor to the *directives*, not the "presence" |
+| **1(c) — grievance raised, not upheld, directed back to the same manager** | 7 Aug 2023; Reese's rostering-error acknowledgement **ADMITTED** ¶5 | — | ⭐ **STRONG — organisational justice / loss of voice** |
+| **1(f) — directed to retract within 48 hours** | Event **ADMITTED** ¶21 | Causation contested — *"no correlation between the two events"* | ⭐ **STRONG as SUPPRESSION OF VOICE.** ⛔ He does **not** need the PID link and must not use it |
+| **2 — the AVAC delay** | **ADMITTED** ¶40, ¶41 — **25 days** | — | ✅ **USABLE** — financial insecurity is a recognised stressor |
+| **post-injury — meetings while on certified leave, 12 & 16 Jul 2024** | Form 20 ¶42 | — | ✅ **USABLE for AGGRAVATION** — s 32 covers aggravation as well as onset |
+| **1(d) — pandemic leave obstruction** | myHR audit trail, **produced** (Item 11): 4 submissions, 2 declines, approved on the same evidence | Feb 2024; about leave, not the work | ⚠ **PATTERN INSTANCE ONLY** — not a primary driver |
+| **1(b) — the communication book page** | Removal **admitted** ¶6; **contents NOT admitted** ¶7 | Single incident, **12 months before onset**; significance depends on unadmitted contents | ⛔ **DO NOT LEAN ON IT** |
+| **1(g) — delegate suppression** | **DENIED** ¶19 on three grounds | An industrial matter, not obviously a psychological stressor | ⛔ **LEAVE OUT OF THE MEDICAL REPORT** |
+| **2 — the pay comparator disparity** | Exhibit D1 **NOT HELD**; Item 17 objected to | See the six vulnerabilities above — and it **contradicts the fatigue case** | ⛔ **EXCLUDE ENTIRELY** |
+| **1(e) — the PID** | — | s 65 PID Act | ⛔⛔ **MUST NOT BE TOUCHED.** Not in the bundle |
+
+### ⚠⚠ THE ONE PROBLEM THE PSYCHIATRIST MUST SOLVE: THE THREE-MONTH GAP
+17–18 March 2024 → onset **18 June 2024**. An IME will ask how a single roster event in March
+caused an injury in June. **If the report cannot answer this, the causation limb fails.**
+
+⛔ **The wrong answer:** attribute it to "the course of management conduct" generally. That
+explains the gap but hands the Regulator ***Delaney* global dilution** and costs Block 4 as well
+as Block 3.
+
+⭐ **THE FORMULATION THAT SOLVES BOTH:**
+> The 7-hour break of 17–18 March 2024 is the **identifiable, documented and admitted instance**
+> of a **continuing exposure** — unpredictable rostering with inadequate recovery — which
+> persisted across the period. **Causation attaches to that exposure, of which the March roster
+> is the proven instance**, compounded by the refusal of fatigue leave on 19 March 2024.
+
+That keeps the **specificity** *Mahaffey* requires while explaining the interval.
+⭐ **And the ECC already supports continuing exposure:** it records symptoms *"exacerbated on
+exposure to identified workplace stressors"* — a gradient, not a single event.
+
+### ⭐ THE FOUR THAT SURVIVE MAP ONTO ONE COHERENT MECHANISM
+| Model component | Stressor |
+|---|---|
+| **High demand** | 269–444 calls/shift; 15–50 emergency codes per 24h; six concurrent systems |
+| **Low control** | **1(a)** — changes imposed without consultation; database access removed |
+| **Low support / injustice** | **1(c)** raised and not upheld; **1(f)** directed to retract |
+| **The exposure** | **Stressor 3** — unpredictable rostering, inadequate recovery |
+
+⇒ **Karasek high-strain / iso-strain, with an organisational-justice overlay. Every element
+documented, most admitted. That is the clinical formulation, and it is defensible.**
