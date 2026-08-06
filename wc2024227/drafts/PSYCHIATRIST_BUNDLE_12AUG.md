@@ -119,6 +119,30 @@ with restrictions → 13 July wages ceased.
 
 **A doctor with forty-five minutes needs the spine, not the archive.**
 
+## ⭐⭐ AND ONE MORE PAGE — "ALTERNATIVES TO BE CONSIDERED"
+
+A report that names competing causes and weighs them survives an opposing IME. One that ignores
+them does not. Give him a single page listing the four, so he addresses each expressly:
+
+1. **Litigation stress.** ⭐ Post-dates onset — injury 18 Jun 2024, appeal filed after the review
+   decision of 24 Oct 2024. Relevant to **prognosis**, not aetiology.
+2. **The 2026 exclusion and loss of wages.** ⛔ **Must sit under prognosis and recovery
+   environment, NOT under causation.** If causation is attached to 2026 conduct, the Regulator
+   runs it as management action under s 32(5)(a) — the exclusion the whole appeal turns on.
+   ⭐ **Rule: the causation section stops at 24 October 2024.**
+3. **Any pre-existing history.** The Regulator asserts anxiety/ADHD entries from 26 Oct 2022.
+   ⛔ **Do not assert a clean baseline.** Use the aggravation route:
+   > *"To the extent any prior vulnerability is established, the workplace exposure is a
+   > significant contributing factor to the aggravation of that condition."*
+   Pre-morbid **function** is the answer to pre-morbid **diagnosis** — he held a
+   patient-safety-critical AO3 role at 269–444 calls per shift.
+4. **Non-work stressors.** ✅ **Answer his questions truthfully.** s 32 does not require
+   employment to be the only cause. A competing stressor named and weighed is far less damaging
+   than one that surfaces under cross-examination.
+
+⚠ **And tell him plainly: a report served in this appeal is disclosable.** Whatever is recorded
+travels with it. That is a reason to be precise, not a reason to be incomplete.
+
 ## AND TELL HIM THREE THINGS
 
 1. **The report may be used in a Commission proceeding and he may be required to give evidence.**
@@ -128,3 +152,14 @@ with restrictions → 13 July wages ceased.
 3. **Reasoned, not concluded.** Clinical basis, documents reviewed, why this stressor rather than
    another, alternatives considered and excluded. A report that states conclusions survives
    nothing; one that shows its working survives an opposing opinion.
+
+## ⚠ TWO CAUTIONS ON THE REVIEW DECISION (item 2 above)
+
+⛔ **It does NOT bind Commissioner Dwyer.** The appeal is a hearing **de novo** under s 550(4)
+WCRA, and the Regulator admitted the decision's **contents**, not the **truth** of its findings.
+Tell the psychiatrist it is material he may review and form his own view on — **not a finding he
+should adopt**. A report that defers to Squires is worth less than one that reasons independently
+and happens to agree.
+
+⭐ **Its real value is that the assessment predates the litigation entirely** — October 2024,
+before the appeal existed. That is the answer to *"the litigation is the stressor"*.

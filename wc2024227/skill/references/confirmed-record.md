@@ -1587,3 +1587,173 @@ recorded at the time, and it is the single clearest instance in the file.
 ⇒ **Clinically:** contributions consistently reframed as problems undermine self-efficacy and
 produce the belief that engagement is futile or unsafe — a recognised contributor to depressive
 cognition. **Functional description only; no labels.**
+
+## ⭐⭐⭐ RED TEAM — THE ALTERNATIVE-CAUSATION ATTACK SURFACE (6 Aug 2026)
+> The stressors above are documented. **That is not what defeats a causation report.** What
+> defeats it is an opposing opinion that says: *yes, all of that happened, and something else
+> caused the condition.* Nine attacks. Each one, and what the psychiatrist can write against it.
+
+### ⛔ FIRST — THE TEST REMOVES MOST OF THE PRESSURE
+**s 32(1) requires employment to be "A SIGNIFICANT contributing factor" — not the only one, not
+the dominant one, not the "major" one.** Competing causes do not have to be eliminated. They
+have to be **acknowledged, weighed, and left in a position where employment remains significant**.
+⭐ **This matters for the consultation itself:** the correct instruction to the doctor is
+*"record everything you find, including non-work factors"* — not *"leave things out"*. A report
+that never mentions a competing cause reads as advocacy and is destroyed on cross-examination.
+A report that names three and explains why employment remains significant survives.
+
+### A. ⚠⚠ LITIGATION STRESS — THE STRONGEST ATTACK AGAINST HIM
+*"He has run a self-represented appeal for two years. That is the stressor."*
+- Objectively heavy: Form 9A, Form 24, Form 29, r 64G, Form 20, two Calderbanks, mentions.
+- It is **continuous**, it is **contemporaneous with the current presentation**, and it is
+  **not employment** for s 32 purposes.
+
+✅ **What he can write against it:**
+1. **Sequence.** The injury was sustained **18 June 2024**. The claim was made after it. The
+   appeal was filed after the review decision of **24 October 2024**. ⭐ **Litigation post-dates
+   onset by months and cannot have caused it.** It can only be relevant to *maintenance* — a
+   different question from s 32 causation.
+2. **The Regulator's own delegate closed this.** Review Decision 69983 Finding B: ***"work
+   events were the sole cause"*** — assessed October 2024, when the appeal did not yet exist.
+   ⭐ **Contents ADMITTED, Form 24 ¶37.** The other side's own document dates the causal
+   assessment to a point before the litigation existed.
+3. **Distinguish it clinically.** Litigation is a **consequence** of the injury and of the
+   employer's response to it. Treating a consequence as the cause inverts the sequence.
+⛔ **The doctor should NOT deny litigation is stressful.** He should locate it: post-onset,
+consequential, and relevant to prognosis rather than aetiology.
+
+### B. ⚠⚠ THE 2026 EXCLUSION AND NON-PAYMENT — THE SECOND STRONGEST
+*"He is unwell because he has been out of work since 26 June 2026 and unpaid since 13 July."*
+This is the mirror of A and it is **more dangerous**, because it is (i) recent, (ii) severe, and
+(iii) **plainly employment**, which tempts the report to lean on it.
+
+⛔ **THE TRAP:** if the report attributes the *current* presentation to the 2026 exclusion, the
+Regulator says the 2026 events are **management action** — and s 32(5)(a) is the exclusion the
+whole appeal turns on. **It hands them the case in the report.**
+
+✅ **What he can write:**
+- Keep the **frames separate and label them**: *aetiology* (2023–June 2024) and *current
+  circumstances* (2026). The 2026 material belongs under **prognosis, capacity and recovery
+  environment**, never under causation.
+- The 2026 exclusion is relevant to **why recovery has not occurred**, not to why the injury
+  occurred. That is a legitimate and defensible clinical statement.
+⭐ **Practical rule for the report: the causation section stops at 24 October 2024.** Everything
+after that goes in a separately headed section.
+
+### C. ⚠⚠ THE PRE-EXISTING HISTORY — THE LIVE CONTEST
+The Regulator asserts the records show **anxiety and ADHD history from 26 October 2022**,
+*"missing from Exhibit A5"* (Notice ¶35 — verification file says **CONTESTED, and this is the
+live risk**). Plus **A5 p. 52 — the De Silva Nanayakkara entry of 16 Nov 2023**.
+
+⛔ **DO NOT RUN A CLEAN BASELINE.** It is contested on their own material, and Form 24 ¶33/34
+admits only that *"the entry is listed in the record"* — **not its accuracy**. A report asserting
+"no prior history" can be falsified by one page.
+
+✅ **What he can write — the aggravation route, which is stronger than the denial route:**
+1. **s 32 expressly covers aggravation.** A pre-existing vulnerability does not defeat the claim;
+   it changes the question from *onset* to *aggravation*, and employment need only be a
+   significant contributing factor **to the aggravation**.
+2. ⭐ **Squires Finding C: *"there was no pre-existing factor or condition"*** — again, their own
+   delegate, contents admitted at ¶37. The doctor is not asserting something novel.
+3. **Functional evidence beats record archaeology.** He worked the console for years, was
+   promoted to and held an AO3 patient-safety-critical role, and **took 269–444 calls per shift**.
+   Whatever appears in a 2022 GP note, it was **not disabling**. Pre-morbid function is the answer
+   to pre-morbid diagnosis.
+⭐ **Best formulation:** *"To the extent any prior vulnerability is established, the workplace
+exposure is a significant contributing factor to the aggravation of that condition."* That
+sentence survives whatever the 2022 records turn out to say.
+
+### D. ⚠ THE KRISHNAIAH "PREMATURE EXPOSURE" OPINION (A4, p. 5) — DOUBLE-EDGED
+Cited by the Regulator at Notice ¶¶38–39; Form 24 admits the report **says it**, not that it is
+**accurate** (Type B).
+- ⚠ **Against him:** an existing specialist opinion the new report may appear to contradict.
+- ✅ **For him:** "premature exposure" is a **dose–response statement** — it presumes the
+  workplace is the noxious agent. It supports continuing exposure, which is exactly the
+  formulation that solves the three-month gap.
+⛔ **VERIFY A4 p. 5 FROM THE SOURCE BEFORE THE CONSULTATION.** The exhibit register flags A4 as
+**PROBABLE, not confirmed** (`2025-02-13_MindAndMemory_report_QSuper_LouiseIngs.pdf` is addressed
+to QSuper). Do not put a pinpoint to the psychiatrist that has not been read off the page.
+⭐ If it holds: **the ECC's *"exacerbated on exposure"* (3 Jul 2026, Dr Ma) and Krishnaiah's
+p. 5 are the same gradient, eighteen months apart, from two independent clinicians.**
+
+### E. ⚠ "HE WORKED FOR FOURTEEN MONTHS AFTER THE INJURY"
+7 Apr 2025 – 14 Jun 2026. *"If work caused it, how did he keep doing it?"*
+✅ **Already answered, and answered objectively:** the April 2025 individual statistics —
+**269, 283, 312, 377, 412, 426, 444 calls per shift, average 360** — against an FTE analysis
+showing **29.3% of a full-time load**. ⭐ **The reduced hours cut the NUMBER of shifts, not the
+INTENSITY of any one of them.** He did not return to sustainable work; he returned to the same
+work in smaller doses. Plus the ECC records the arrangement as *"worked and tolerated … without
+deterioration"* — i.e. it held **because it was restricted**, which is the point.
+
+### F. ⚠ NON-WORK STRESSORS — HANDLE HONESTLY, NOT DEFENSIVELY
+The psychiatrist will ask about relationships, finances, health, family, and legal matters. He
+should. An IME will ask the same questions and will notice if the first report has no answers.
+✅ **The instruction is: answer truthfully.** s 32 does not require employment to be the only
+cause, and a competing stressor that is named and weighed is far less damaging than one that
+surfaces later.
+⛔ **The CLAUDE.md rule 10 items are a rule about what is VOLUNTEERED IN FILINGS AND
+CORRESPONDENCE.** It is not, and must not be used as, an instruction to withhold from a treating
+doctor. ⚠ But note the consequence squarely: **a psychiatric report served in WC/2024/227 is
+disclosable, and whatever the doctor records travels with it.** That is a reason to be
+deliberate about scope in the letter of instruction — not a reason to mislead the clinician.
+
+### G. ⚠⚠ "THE TREATING PSYCHIATRIST IS AN ADVOCATE, NOT AN INDEPENDENT EXPERT"
+The standard attack on a treating-practitioner report, and it is sharpened here by the fact that
+**the referral is his and the instruction is his.**
+✅ **What blunts it:**
+1. **Longitudinal advantage.** A treating psychiatrist has observed the course over time; an IME
+   sees one hour. Say so, in the report.
+2. **Show the working.** Documents reviewed, listed. Alternatives considered, named, and excluded
+   with reasons. ⭐ **A report that reasons survives; a report that concludes does not.**
+3. **Concede what is conceded.** A report that gives ground on something — the pre-existing
+   question, the litigation burden, the limits of self-report — reads as clinical rather than
+   partisan, and every concession costs less than the credibility it buys.
+4. **Disclose the instruction.** State who instructed, what was asked, and what material was
+   provided. Concealed instruction is what destroys these reports, not disclosed instruction.
+
+**"Should he call peers?"** — three answers, in order of value:
+- ⭐ **YES to peer-reviewed frameworks.** Anchoring the formulation to established occupational
+  models (demand–control–support; effort–reward imbalance; organisational justice) makes the
+  opinion **methodological rather than personal**, and it is very hard to attack a mainstream
+  model.
+- ⚠ **NO to a commissioned second opinion right now.** ⛔ **One report only** is the settled
+  strategy. A second opinion is a **discoverable document you cannot control**, and if it lands
+  differently it is worse than not having sought it. Revisit only if the first report is
+  qualified or adverse.
+- ✅ **Informal peer discussion is unremarkable and needs no strategy** — but if he consults a
+  colleague on formulation, he should say so in the report rather than leave it to emerge.
+
+### H. ⚠ RECENCY CONTAMINATION
+The report is written **12 August 2026** about an onset of **18 June 2024**, by a doctor seeing a
+man who has been excluded for seven weeks and unpaid for four. The risk is that the current
+distress colours the retrospective account.
+✅ **The defence is documentary anchoring:** every causation proposition tied to a document that
+existed **before** 2026 — the roster, the 7 Aug 2023 grievance, the ¶21 retraction direction, the
+Review Decision, the 2025 call statistics, the Hawes certificate. ⭐ **The stressors are not
+recalled; they are on paper, and most of them are admitted.**
+
+### ⭐⭐ THE COUNTER-PUNCH — THE REGULATOR ALREADY CLOSED C AND MOST OF A
+Review Decision 69983, **contents ADMITTED at Form 24 ¶37**:
+> **B — *"work events were the sole cause"*** · **C — *"there was no pre-existing factor or
+> condition"*** · **A — the rostering *"amounted to unreasonable management action … in direct
+> contradiction to the award and the 8-hour agreement"***
+
+⚠ **THE LIMIT, AND IT IS REAL:** the appeal is a **hearing de novo** under s 550(4). ⛔ **These
+findings do NOT bind Commissioner Dwyer**, and admitting the *contents* of a document is not
+admitting the *truth* of its findings (Type B). **Do not present Squires as binding.**
+✅ **What it IS worth:** the Regulator's own delegate, on the Regulator's own material, reached
+those conclusions before any litigation existed — and the Regulator now runs the opposite case
+without having produced a contrary contemporaneous assessment. That is a **credibility point and
+a settlement point**, and it is a legitimate document for the psychiatrist to have reviewed.
+
+### ⇒ WHAT THIS MEANS FOR THE 12 AUGUST REPORT
+| Section of the report | What must be in it |
+|---|---|
+| Material reviewed | Listed. Including the Review Decision and the Form 24 admissions |
+| History | Includes non-work factors, named and weighed |
+| Formulation | Demand–control–support + organisational justice, tied to documents |
+| **Causation** | **Stops at 24 Oct 2024.** *"A significant contributing factor"* — ⛔ never "major" |
+| **Aggravation limb** | The fallback sentence at C — in the report **whether or not** a prior history is established |
+| Alternatives considered | Litigation · the 2026 exclusion · prior history · non-work — **named and excluded with reasons** |
+| **Current circumstances** | **Separately headed.** 2026 material lives here, under prognosis — never under causation |
+| Capacity | Fit with adjustments. RFMI **Q6 "yes, with the adjustments"** · **Q9 "not a medical question"** · **Q3 declined** |
