@@ -9,7 +9,7 @@
 | Ex | What the Notice says it is | Held in repo? | File / note |
 |---|---|---|---|
 | **A1** | Work Capacity Certificate, Dr Peter Hawes | ✅ **HELD** | `medical/Hawes_Work_Capacity_Certificate_signed_08.09.2024_{p1.jpg, full.jpg, alt.png}` — **the filename itself confirms 8 Sep 2024 signing. The Notice's "dated 1 July 2024" at ¶36 is wrong and the Respondent corrected it** |
-| **A4** | Krishnaiah — MDD diagnosis 13 Feb 2025; p. 5 premature-exposure opinion | ⚠ **PROBABLE** | `medical/2025-02-13_MindAndMemory_report_QSuper_LouiseIngs.pdf` — same date, Krishnaiah's practice, but addressed to QSuper/L Ings. **VERIFY it is the same report and that the p. 5 pinpoint holds** |
+| **A4** | Krishnaiah — MDD diagnosis 13 Feb 2025; p. 5 premature-exposure opinion | ✅ **CONFIRMED 6 Aug 2026** | `documents/medical/2025-02-13_MindAndMemory_report_QSuper_LouiseIngs.pdf`. **Verified: it IS A4.** The pinpoint is at **Question 5** — *"premature exposure to the workplace is more likely result in significant deterioration in his mental health and increased risks of suicide."* ⛔ **Every page is stamped *"disclosed for Qsuper and NOT FOR MEDICO-LEGAL USE"*, and the report calls the matter an "unfair dismissal" FOUR times and MSH his "former employer".** Full analysis in `confirmed-record.md` |
 | **A5** | Medical records, "Our Medical Ashmore" | ✅ **HELD** | `medical/2025-07-22_OurMedicalAshmore_GP_records_via_Saines.PDF` — the date matches ¶30 (served on the former solicitors 22 Jul 2025). **Verify pp. 48, 50, 52, 53 pinpoints** |
 | **B1** | Review Decision, 24 Oct 2024 | ✅ **HELD** | `documents/Review_Decision_69983_24.10.2024.pdf` — verify **p. 16** (causation) and **p. 27** (unreasonable management action) |
 | **C2** | Roster, 17–18 March 2024 | ❌ **NOT HELD** | The roster proving the 7-hour break. ¶1 and ¶3 are **admitted**, so proof is not strictly required — but obtain it |
@@ -25,8 +25,8 @@
 | **H1** | Service on former solicitors 22 Jul 2025; Matheson email 14 Jul 2025 | ⚠ **IMPLIED** | The A5 filename records "via_Saines"; the covering correspondence is not separately filed |
 | **I2** | Carolyn Jeffrey statement | ❌ **NOT HELD** | ⚠ **The 2026-07 Jeffrey text ("dismissed full-time line") is a DIFFERENT document.** The Respondent refers to **Jeffrey's email of 18 July 2024** — **they hold it and we do not.** ⚠ Also: **I2 is cited for two different things** (¶6 the book removal, ¶13/¶15 the Jeffrey statement). Confirm what I2 actually is |
 
-## ⭐ THE HONEST SCORE
-**Confirmed held: 3 (A1, A5, B1).** Probable: 1 (A4). Partial or possible: 4 (E1, E2, E5, F1).
+## ⭐ THE HONEST SCORE (updated 6 Aug 2026)
+**Confirmed held: 4 (A1, A4, A5, B1)** — A4 verified this session. Probable: 0. Partial or possible: 4 (E1, E2, E5, F1).
 **Not held: 8 (C2, D1, D2, E3, F2, F3, H1, I2).**
 
 **Half the exhibit bundle cited in the Form 24 is not in this repo.** Three consequences:

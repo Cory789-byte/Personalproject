@@ -2249,3 +2249,151 @@ not the correspondence. Restraint as posture — rule 5.
   nothing because it already IS the process — in the Director's own letter.**
 - **2.5 correspondence routing** — ECC Additional Comments 4(c), already pinpointed. ⭐ Reinforced
   by the RFMI's own routing: enquiries to **Injury Management**, not Switchboard.
+
+## ⭐⭐⭐ THE KRISHNAIAH QSUPER REPORT — READ IN FULL, 6 AUG 2026. **EXHIBIT A4 CONFIRMED.**
+> `documents/medical/2025-02-13_MindAndMemory_report_QSuper_LouiseIngs.pdf`
+> **Dr Ravikumar Bangalore Krishnaiah, Mind and Memory Service, Coomera. 13 February 2025.**
+> To **Louise Ings, Claims Manager, QSuper.** ⭐ **This IS Exhibit A4** — the ¶38/¶39 "premature
+> exposure" pinpoint is verified below. **Upgrade A4 from PROBABLE to CONFIRMED HELD.**
+>
+> ⭐⭐ **This is the psychiatrist writing the 12 August report. He has already done this exact task
+> for this patient — seven numbered questions with lettered sub-parts, on an insurer's proforma,
+> structurally identical to the RFMI's nine.** He does not need to be taught the format. **What he
+> needs is the documents, the correct legal test, and the disciplines — because this report shows
+> precisely where he goes wrong without them.**
+
+### ⭐⭐ THE PINPOINT, VERIFIED — Question 5
+> *"Please note that **premature exposure to the workplace is more likely result in significant
+> deterioration in his mental health and increased risks of suicide**."*
+⭐ It is a **dose–response statement** — it presumes the workplace is the noxious agent. It is the
+same gradient as the ECC's *"exacerbated on exposure"* (Dr Ma, 3 Jul 2026), **seventeen months
+apart, from two independent clinicians.**
+
+### ⭐⭐⭐ THE FOUR SENTENCES THAT COULD SINK THE APPEAL — ALL WRITTEN BY HIS OWN PSYCHIATRIST
+**1. ⛔⛔ "unfair dismissal" — FOUR TIMES, and "former employer".**
+*"materials presented to me regarding his **unfair dismissal**"* · *"disputed **unfair dismissal**
+proceedings"* · *"Corey is involved in **unfair dismissal proceedings** with his employer,
+Queensland Health"* · *"legal issues with his **former employer**"*.
+⛔ **HE WAS NEVER DISMISSED. He was, and is, employed.** The report is wrong about the central
+employment fact four times. ⚠ An IME will say the treating psychiatrist did not know the basic
+facts and was working from the patient's account. ⭐ It also shows **how the history was taken —
+from Cory, without documents.** That is the whole reason the 12 August bundle exists.
+
+**2. ⛔⛔ "complete incapacity" — Q4(a): *"Mr Shepherd has complete incapacity to undertake duties
+required for his own occupation."*** Dated 13 Feb 2025. **He returned to work 7 April 2025** —
+eight weeks later — and worked fourteen months.
+✅ **The answer, and it is a good one:** the February opinion addressed the **substantive
+full-time role**. He returned to **~29% FTE, six shifts a fortnight**. ⭐⭐ **That is not a
+contradiction — it is the adjustment working, and it is direct evidence FOR the cl 10.3 request:
+the specialist said full duties were beyond him; the reduced pattern is what allowed work to
+resume, and the ECC records it "worked and tolerated… without deterioration."**
+
+**3. ⛔⛔⛔ Q6(b): *"multiple life stressors, including relationship breakdown, job loss, and
+BEREAVEMENT."*** ⚠⚠ **The most dangerous sentence in the document.** Three non-work stressors, in
+the treating psychiatrist's own words, in the Regulator's hands. **Attack F, fully armed.**
+✅ **Answers, in order:** (i) dated **Feb 2025, eight months after the 18 June 2024 onset** —
+causation is assessed at onset; (ii) *"job loss"* is **factually wrong**, so the list is unreliable
+on its face; (iii) **s 32(1) — employment need only be *a* significant contributing factor**, not
+the only one; (iv) ⭐ **Review Decision 69983 Finding B — *"work events were the sole cause"* —
+assessed 24 October 2024, four months BEFORE these stressors were recorded.**
+⛔ **This sentence is why the 12 August report MUST address non-work factors expressly.** If it
+ignores them and this is put to him in cross-examination, the report collapses.
+
+**4. ⛔⛔⛔ LITIGATION AS THE BARRIER TO RETURN — written twice, and made a PRECONDITION.**
+> Q2: *"**Ongoing workplace dispute and legal proceedings**, including WorkCover claim and
+> industrial relations review, **have consumed his whole life severely affecting his functioning**."*
+> Q6(b): occupational rehabilitation appropriate only *"once Cory's mental health has stabilised
+> and **the legal issues with his former employer have been resolved**."*
+> And: *"I have advised Cory to **defer in making decisions regarding work settlement or legal
+> matters** until his mental state improves."*
+
+⚠⚠⚠ **Attack A is already written by the same psychiatrist, twice, and elevated to a precondition
+for return.** The Regulator can say: *on his own treating psychiatrist's opinion, the barrier is
+the litigation, not the workplace.*
+✅ **The distinction that survives, and it is honest:** Krishnaiah was answering a **capacity and
+return-to-work** question. He was never asked about causation. **Litigation as a barrier to
+recovery in February 2025 says nothing about what caused the injury in June 2024.**
+⭐⭐ **This is exactly why the banked rule exists — the causation section stops at 24 October 2024
+and everything after goes under prognosis. The QSuper report proves the rule is necessary, not
+theoretical.**
+
+**5. ⚠ AND ONE MORE THE REGULATOR WILL USE — Q7:** *"Cory described himself as **detail-oriented,
+perfectionistic**, and having high standards. He tends to **hyperfocus** on tasks and can become
+**consumed by issues he perceives as unjust**."*
+⚠⚠ That is a **constitutional-predisposition** paragraph — the eggshell argument, that the
+reaction was idiosyncratic rather than the work unreasonable. ✅ Answers: **s 32 does not require
+a robust worker**; **Finding C — *"there was no pre-existing factor or condition"***; and the
+paragraph is internally odd against a man running his own litigation (*"struggles with
+assertiveness and decision-making"*).
+⚠ Note also *"perceived"* twice — *"perceived unfair treatment"*, *"perceived discrimination"*.
+⭐ **By 13 Feb 2025 the Review Decision had ALREADY found unreasonable management action.** It was
+not merely perceived. ⛔ **The 12 August report must not repeat "perceived" for matters now
+admitted or found.**
+⚠ **Unverified and large:** *"pay was withheld or delayed for **up to five months at a time**."*
+The AVAC delay is 25 days. **Verify or do not repeat it.**
+
+### ⭐⭐⭐ THE STRENGTHS — AND THEY ARE SUBSTANTIAL
+**1. ⭐⭐⭐ THE CAUSAL SEQUENCE, WRITTEN IN FEBRUARY 2025, UNPROMPTED:**
+> *"These issues began approximately one year ago **when a new manager was appointed**. **After
+> raising concerns about rostering, fatigue management, and workplace policies**, he experienced
+> **changes in work conditions including shorter breaks, more night shifts**, and reduced penalty
+> rates."*
+
+⭐⭐ **New manager → raised concerns → adverse changes to conditions.** *"Shorter breaks"* is
+Stressor 3. *"More night shifts"* is the rostering. The **voice-suppression and rostering exposure
+is already in the specialist's own narrative**, dated before the appeal was advanced and before
+any of this was framed for a tribunal. ⚠ *"reduced penalty rates"* is the pay limb — **⛔ banked
+as EXCLUDE. Note that it appears here; do not build on it.**
+
+**2. ⭐⭐ COLLATERAL HISTORY — *"obtained collateral information from his mother independently."***
+An independent informant. ⭐ **This is a direct answer to RFMI Q1(c)** (*"based solely on
+Mr Shepherd's self-report?"*) — no, and it wasn't in 2025 either. **Record collateral again on
+12 August if available.**
+
+**3. ⭐⭐ OBSERVED SIGNS, NOT REPORTED SYMPTOMS** — the strongest answer to "it's all self-report":
+*"intermittent intense sweating, shaking and hesitant speech"* · *"appeared physically drained"* ·
+*"signs of neglecting personal hygiene"* · *"was **not able to sustain focus** on conversation,
+kept repeating the same issues **despite gentle nudging**"* · affect *"restricted with anxious
+distress"*. **A clinician's own examination findings.**
+
+**4. ⭐⭐ OBJECTIVE SEVERITY MARKERS — dose escalation and augmentation, not self-report:**
+fluoxetine 20mg **increased to 3 in the morning** · **quetiapine 25mg nocte** for rumination and
+sleep · **Vyvanse 30mg** *"to manage his **treatment resistant depressive state** and cognitive
+impairment."* ⭐ *"Treatment resistant"* is the specialist's own characterisation.
+**Diagnosis formally coded: MDD with anxious distress, DSM-5 296.23.**
+
+**5. ⭐⭐⭐ "WORKING MEMORY" — THE PROVENANCE ANSWER TO RFMI Q7.**
+> Feb 2025: *"Cognitive difficulties, particularly with concentration and **working memory**."*
+> Jul 2026 ECC: *"**working memory** is affected under stress"* → **RFMI Q7 asks what that means.**
+⭐⭐ **The phrase traces to the psychiatrist in February 2025 — seventeen months before the ECC.
+It is not the patient's word and it is not Dr Ma's. That answers Q1(c) and Q7 together, by
+provenance.**
+⚠ But note: *"**No formal cognitive assessment** was conducted during this consultation."*
+⭐ **RECOMMEND FORMAL COGNITIVE TESTING ON 12 AUGUST.** It converts Q7 from a description into a
+measurement, and it is the one thing that would make Q7 unassailable.
+
+### ⛔⛔ THE DISCLAIMER — AND THE MOST ACTIONABLE INSTRUCTION FOR 12 AUGUST
+Every page carries, twice: ***"This information was disclosed for Qsuper and NOT FOR MEDICO-LEGAL
+USE."***
+⭐ **FOR HIM:** the Regulator relies at Notice **¶¶38–39** on a document whose author **expressly
+disclaimed medico-legal use**, in which the central employment fact is **wrong four times**. That
+is a proper basis to submit **limited weight attaches** — and a strong reason why a
+properly-instructed report is the better evidence.
+⛔ **AGAINST HIM:** he cannot rely on it as an opinion either. **Use it for provenance** (working
+memory, the causal sequence, collateral, the medication history) **— not as an opinion.**
+⭐⭐⭐ **AND THE PRACTICAL POINT — TELL THE CLINIC BEFORE THE APPOINTMENT: the 12 August report IS
+for use in a Commission proceeding and MUST NOT carry the practice's standard "not for
+medico-legal use" footer.** If that footer goes on by default, **the report is compromised on its
+face before anyone reads a word of it.** ⛔ **Put this in writing to the practice when confirming.**
+
+### ⇒ WHAT THIS DOES TO THE 12 AUGUST PLAN
+| | |
+|---|---|
+| ⭐ **Format** | He already answers numbered third-party questions with sub-parts. **No teaching needed** |
+| ⛔ **Facts** | He got the central fact wrong four times **because he had no documents.** ⭐ **This is the entire justification for the ~50-page bundle** |
+| ⛔ **The footer** | **Must be removed. Confirm in writing before the appointment** |
+| ⛔ **Consistency** | The new report must not silently contradict the old one. **Distinguish: the 2025 opinion answered capacity; the 2026 report answers causation AND capacity, and causation is assessed at June 2024** |
+| ⭐ **Alternatives** | Bereavement, relationship breakdown, litigation are **already on the record in his own words. They must be named and weighed, not omitted** |
+| ⭐ **Q1(c)** | **Answer with provenance**: examination findings, collateral from his mother, the medication record, and the documents — not self-report |
+| ⭐ **Q7** | **Request formal cognitive testing on the day** |
+| ⭐ **Capacity** | *"Complete incapacity"* (2025, full-time) → **fit with adjustments (2026, reduced pattern).** ⭐ Not a reversal — **the adjustment is what changed**, and that is the cl 10.3 request |

@@ -99,6 +99,63 @@ Relevant to current mental state, to prognosis, and to Q1(d) foreseeable risk.
 
 ---
 
+
+## ⛔⛔ THREE THINGS TO DO BEFORE THE APPOINTMENT — added 6 Aug 2026
+
+**1. WRITE TO THE PRACTICE ABOUT THE FOOTER.** Every page of Dr Krishnaiah's 13 February 2025
+QSuper report is stamped *"This information was disclosed for Qsuper and **not for medico-legal
+use**."* ⛔ **If that standard footer goes on the 12 August report, it is compromised on its face
+before anyone reads a word.** Confirm in writing when booking: **this report is for use in a
+Queensland Industrial Relations Commission proceeding.**
+
+**2. CORRECT THE FACTS HE ALREADY HAS.** The 2025 report calls the matter an ***"unfair
+dismissal"* four times** and MSH his ***"former employer"***. ⛔ **He was never dismissed.** He was,
+and is, employed — held out of the workplace since 26 June 2026 and unpaid since 13 July. ⭐ That
+error happened because the history was taken **from Cory, without documents**. It is the whole
+reason this bundle exists — say so to him.
+
+**3. ASK FOR FORMAL COGNITIVE TESTING ON THE DAY.** The 2025 report records *"Cognitive
+difficulties, particularly with concentration and **working memory**"* but also *"**No formal
+cognitive assessment** was conducted."* ⭐⭐ **RFMI Q7 asks exactly what "working memory is
+affected under stress" means in functional terms.** Formal testing converts Q7 from a description
+into a measurement.
+
+## ⭐⭐ AND USE THE 2025 REPORT FOR PROVENANCE — IT ANSWERS Q1(c) BY ITSELF
+RFMI Q1(c): *"whether these workplace stressors are based **solely on Mr Shepherd's self-report**,
+your own clinical assessment, or other medical information."* The 2025 report already shows the
+answer is **no**:
+- **Collateral history obtained from his mother, independently**
+- **Observed examination signs** — *"intermittent intense sweating, shaking and hesitant speech"*,
+  *"appeared physically drained"*, *"not able to sustain focus… despite gentle nudging"*
+- **Objective medication record** — fluoxetine escalated to 3 mane, quetiapine 25mg nocte,
+  Vyvanse 30mg for a *"**treatment resistant** depressive state"*
+- **The phrase "working memory" is HIS, from February 2025** — seventeen months before the ECC
+- ⭐⭐ **And the causal sequence, written unprompted in February 2025:** *"These issues began…
+  when a **new manager was appointed**. **After raising concerns about rostering, fatigue
+  management, and workplace policies**, he experienced changes in work conditions including
+  **shorter breaks, more night shifts**…"*
+
+⛔ **But do NOT rely on the 2025 report as an opinion** — its author disclaimed medico-legal use
+and it is wrong on the central fact. **Provenance only.**
+
+## ⛔⛔ AND THE FOUR THINGS IN IT THAT MUST BE MET HEAD-ON
+The Regulator holds this report (it is **Exhibit A4**, cited at Notice ¶¶38–39). The 12 August
+report cannot pretend these sentences do not exist:
+1. *"**complete incapacity** to undertake duties required for his own occupation"* (Feb 2025) —
+   ⭐ answered by **what changed: the reduced pattern**, ~29% FTE, which the ECC records as
+   *"worked and tolerated… without deterioration."* Not a reversal; the adjustment working.
+2. *"multiple life stressors, including **relationship breakdown, job loss, and bereavement**"* —
+   ⭐ name them, weigh them, and note the date: **eight months after onset.** s 32(1) needs
+   employment to be *a* significant factor, not the only one.
+3. *"ongoing… **legal proceedings**… have **consumed his whole life** severely affecting his
+   functioning"* — ⭐ **that was an answer to a CAPACITY question, not a causation question.**
+   Litigation post-dates onset and belongs under prognosis.
+4. *"detail-oriented, **perfectionistic**… tends to **hyperfocus**… consumed by issues he
+   **perceives** as unjust"* — ⚠ the predisposition paragraph. ⭐ Answer: **Finding C, *"there was
+   no pre-existing factor or condition"***, and by February 2025 the Review Decision had already
+   found unreasonable management action. ⛔ **Do not repeat the word "perceived" for matters now
+   admitted or found.**
+
 ## ⛔ DO NOT GIVE HIM
 
 - **The PID material or the ESU determination** — s 65 PID Act, and it is not a medical question
