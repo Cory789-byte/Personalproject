@@ -2605,3 +2605,113 @@ from.**
 ⛔ **If it IS ever filed, fix Part B FIRST** — the 10-hour "Admitted Fact", the r 64C service
 breach, and "Independent Review Office" — because a leave application will put the whole pleading
 under the microscope.
+
+## ⭐⭐⭐ THE EVE-OF-MENTION EXCHANGE — 6 AUGUST 2026. FULL READ.
+> `documents/correspondence-2026/2026-08-06_1447_Matheson_to_Registry_attendance_confirmation.pdf`
+> `documents/correspondence-2026/2026-08-06_1727_Cory_to_Registry_attendance_confirmation.pdf`
+
+### THE TWO DOCUMENTS
+**1. Matheson → QIRC Registry, Thu 6 Aug 2026, 14:47.**
+Cc: **Cory · Myla Ruttan · Lauren Griffin · Chris Thorburn · Tribunalmatters@health.qld.gov.au**
+> *"I wish to confirm the following person will be in attendance at the mention on behalf of the
+> Regulator: **Ms Renee Matheson (Senior Appeals Officer)**. **Apologies for the delay in this
+> notification.**"*
+
+**2. Cory → QIRC Registry, Thu 6 Aug 2026, 17:27.** Cc: **Ruttan · Matheson only.**
+> *"I refer to the **Notice of Listing dated 15 June 2026 (which requires the attendance of Myla
+> Ruttan of Metro South Legal Services)** and to the email of Ms Renee Matheson of today's date…
+> I confirm that I… will be in attendance."*
+
+---
+### ⭐⭐⭐ SIGNAL 1 — NO COUNSEL. AND IT IS NOW A PATTERN, NOT AN EVENT.
+Willson (WHS-specialist panel counsel) appeared at **27 Feb, 13 Mar and 7 Apr** — the whole
+pleading fight — and **sought five weeks** to answer the amended SOFC. He did **not** appear at the
+**22 May** mention, and he is **not appearing on 7 August**. The Regulator sends **one in-house
+officer**.
+⭐ **Two consecutive listings without counsel is a pattern.** Reasonable reads, in order:
+1. ⭐⭐ **The Regulator does not regard tomorrow as a contested hearing.** It expects directions.
+2. ⭐⭐ **The 64G is MSH's fight, not the Regulator's.** The live objection is **MSH's** (K-LM26/729,
+   5 June, signed by the CE). The Regulator has never supported the application and has no reason
+   to brief counsel to watch someone else's objection.
+3. Cost. Counsel for a mention is expensive; the Regulator economises on procedural listings.
+⛔ **NOT an available inference: that the Regulator is softening on the appeal.** Matheson,
+**16 July 2026**: *"The Respondent's position remains to defend the appeal."* ⛔ **Do not read
+absence of counsel as weakness. Do not mention it tomorrow. Never comment on the other side's
+representation.**
+
+### ⭐⭐ SIGNAL 2 — MSH HAS NOT CONFIRMED ATTENDANCE, AND THE NOTICE NAMES RUTTAN PERSONALLY
+⭐ **New detail, now confirmed: the Notice of Listing is dated 15 June 2026 and it *requires the
+attendance of Myla Ruttan* by name.** That is a **direction to a named individual**, not a
+courtesy copy — an unusual step for a non-party.
+As at **17:27 the evening before**, the Regulator has confirmed, the Appellant has confirmed, and
+**MSH has said nothing.**
+⚠ **Non-confirmation is not non-appearance.** Many lawyers simply attend. **Do not predict absence.**
+
+⭐⭐ **Cory's email is the correct move and it is well executed.** It recites the Notice and the
+requirement in a parenthesis — *"(which requires the attendance of Myla Ruttan of Metro South Legal
+Services)"* — addressed to the Registrar, referencing the Commission's own document, **stating no
+conclusion**. If Ruttan does not appear, the file already records that the requirement was before
+the Commission the night before. ⭐ **Understatement. State the fact; let the bench draw it.**
+
+### ⭐⭐⭐ SIGNAL 3 — THE DISTRIBUTION LIST, AND WHY IT MATTERS TO THE 64G
+The Regulator's Senior Appeals Officer copies Commission correspondence, as a matter of routine, to
+**three named MSH officers and MSH's tribunal mailbox** — in an appeal where **MSH is a non-party**.
+⭐⭐ **The ordinary objection to a non-party disclosure notice is that the non-party is a stranger
+to the proceeding. This non-party sits on the Regulator's standing distribution list for
+correspondence to the Registry in the very proceeding it says it is a stranger to.**
+⛔⛔ **HELD IN RESERVE. Discipline rule 1 — collusion framing never reaches paper; use the
+asymmetry, not the accusation.** ⭐ If MSH argues remoteness or burden tomorrow, **one neutral
+sentence** is available: *"Metro South Health has been copied on the Commission correspondence in
+this matter throughout."* Nothing further. ⛔ **Never volunteer it.**
+⚠ **Griffin caution stands: she is NOT in Dwyer's chambers** — that was a METADATA_REGISTER
+formatting artefact. Do not repeat it.
+⭐ Griffin and Thorburn remain **RTI/IP Act custodians** for Monday 10 August.
+
+### ⭐⭐⭐ SIGNAL 4 — THE DISCLOSURE PROMISE EXPIRES TOMORROW. THIS IS THE ONE THAT MATTERS.
+| Date | Event |
+|---|---|
+| **20 Mar 2026** | ⭐ Matheson: *"if the documents are in the possession of the Regulator, you can email me a request… and I will disclose them to you **without the need for a Notice to Produce**"* — **a standing offer** |
+| **11 Jun 2026** | Regulator's disclosure to the Appellant |
+| **24 Jul 2026** | Cory's written disclosure-list request, including the **4 July 2025 Form 29** |
+| **3 Aug 2026, 07:17** | Matheson: *"**I apologise for the delay**… will have this and the NNPD copies to you **as soon as possible this week**"* |
+| **6 Aug 2026, 14:47** | *"**Apologies for the delay** in this notification"* — a second acknowledged delay in four days |
+| **6 Aug 2026** | ⛔ **NOTHING RECEIVED. 13 days since the request. The promised week expires tomorrow** |
+
+⭐⭐⭐ **THE ASYMMETRY — and it is the frame for the whole application:**
+- **The Appellant produced.** The exhibit bundle in the Regulator's hands came **from him**.
+- **The Regulator offered to disclose without a notice, apologised twice, promised, and has not
+  delivered.**
+- **The non-party objects to producing at all**, on privacy and confidentiality.
+⇒ The Commission is being asked whether a non-party should produce, in a proceeding where the only
+party who has actually produced everything is the self-represented appellant.
+⭐ **The banked framing still holds and should be the only frame used:** *"the Commission should
+have the whole record to determine a matter that is not clear-cut."*
+
+### ⭐ SIGNAL 5 — THE RIGHT PERSON IS IN THE ROOM
+Matheson is **Senior Appeals Officer with carriage** — and she is the officer who **made the
+20 March offer** and **gave the 3 August promise**. ⭐ **She appears personally. The outstanding
+request can be raised in front of the Commissioner with the person who holds it standing there.**
+⭐ **Two sentences. Dates only. No characterisation:**
+> *"I made a written disclosure request on 24 July. On 3 August I was told the material would come
+> this week. I have not received it. I raise it only so the Commission has the position."*
+⛔ **Nothing about delay being deliberate. Nothing about the pattern. State the dates and stop.**
+
+### ⚠ THE ADVERSE READS — STATED HONESTLY
+1. ⚠ The Regulator may send one officer because it expects the 64G to be **narrowed, adjourned or
+   resolved on the papers** — possibly on a view already indicated. **Unknown. Do not assume.**
+2. ⚠ It may attend **as a formality and take no position**, leaving Cory to argue against MSH alone.
+   ⭐ **Prepare to run it unopposed by the Regulator and opposed by MSH.**
+3. ⚠ MSH's silence may simply be practice. **Ruttan may well appear and press the objection.**
+4. ⚠ Absence of counsel can signal **confidence** as easily as disengagement.
+⭐ **All four are consistent with the same preparation. Prepare for a contested mention and be
+pleasantly surprised.**
+
+### ⛔ THE DISCIPLINE FOR TOMORROW — 7 AUGUST, 10:00am
+| Do | Do NOT |
+|---|---|
+| Ordinary procedural machinery. Neutral tone | ⛔ Willson's absence · MSH's non-confirmation · the distribution list (unless remoteness is argued) |
+| The two disclosure sentences, dates only | ⛔ The employment track — exclusion, non-payment, RFMI, s 89, the CE letter |
+| Press **verification on oath**; if resisted, ask it be **RESERVED, not refused** | ⛔ The PID. The union. The psychosocial proposal |
+| Watch for **consent** or a narrowed category — take it | ⛔ Any suggestion of motive, reprisal or collusion |
+| If Ruttan does not appear: ask for **the notice to issue or directions**. Nothing punitive | ⛔ Costs. Anything adverse to a non-appearing party |
+⭐ **Rule 5 governs: Dwyer must discover MSH's problems himself.**
