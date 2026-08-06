@@ -2496,3 +2496,112 @@ Not in the repo and now clearly material:
 - Whether the period 9 Oct 2024 – 24 Feb 2025 was **back-paid**, and how service was treated.
 - ⭐ Add all of it to the **RTI / IP Act** categories for Monday 10 August, and to the
   **preservation request** (still not sent).
+
+## ⭐⭐ THE 6 AUG 2026 REDRAFT OF THE AMENDED FORM 9A — DIFFED AGAINST THE FILED VERSION
+> Compared `documents/filings/2026-04-08_Amended_Form9A_SOFC_Appellant.pdf` (**filed 7/8 April
+> 2026 with leave — the OPERATIVE pleading**) against the 6 Aug 2026 redraft, sentence by
+> sentence after whitespace normalisation.
+> ⚠ **`evidence-index/sources-text/Amended_Form_9A_07.04.2026.txt` is a CONDENSED SUMMARY, not
+> the pleading. Diff against the PDF, never the summary.**
+
+### ⭐ PART A AND PART B ARE IDENTICAL — WORD FOR WORD. Only Part C changed, plus two items.
+| # | Change |
+|---|---|
+| 1 | **Stressor 3(d)** — added *"— contents of the Review Decision admitted; characterisation reserved to the Commission on the de novo hearing"* |
+| 2 | **Contention 1** — three new sentences, including the **onus concession** |
+| 3 | **Contention 2** — the Prizeman onus sentence **deleted**; replaced with a full Hochen/Mahaffey/Adams framework and two new limbs (c) and (d) |
+| 4 | **Contention 3** — rewritten and qualified for the de novo hearing |
+| 5 | Date 7 April 2026 → 6 August 2026 |
+
+### ⭐⭐⭐ THE REDRAFT IS BETTER LAW. FOUR REAL GAINS.
+**1. THE ONUS — THE SINGLE BIGGEST FIX.**
+> **FILED:** *"The Section 32(5)(a) Exclusion Fails Entirely. **The Respondent bears the onus under
+> Prizeman v Q-Comp.**"*
+> **NEW:** *"The Appellant accepts that, on this appeal, **he bears the onus** of establishing on
+> the balance of probabilities that he sustained an injury within s 32(1) that is not excluded by
+> s 32(5). He discharges that onus on the facts and contentions below."*
+
+⛔⛔ **The filed sentence is wrong twice.** (i) On a **s 550 WCRA** appeal the **appellant** carries
+the onus — that is the orthodox position and it is what the Commission will apply. (ii) ⭐⭐
+**Prizeman does not say that at all.** *Prizeman* is the ***reality of the conduct, not the
+worker's perception*** case. **The operative pleading misattributes an authority on the single
+most important procedural question in the appeal** — and opposing counsel is a WHS specialist who
+will see it immediately.
+⭐ The redraft fixes it **and redeploys Prizeman at 2(d) for what it actually stands for.**
+⚠ Note honestly: this **is** a concession. There is a respectable argument that a party asserting
+the s 32(5) exclusion carries at least an evidentiary onus. ⭐ **But conceding costs almost
+nothing here — the facts are strong and the admissions are on the record — and it buys
+credibility that a wrong onus proposition destroys.**
+
+**2. THE DE NOVO QUALIFICATION — fixes the overreach already flagged in this file.**
+> **FILED:** *"The Respondent's pleading that 'all management action was reasonable' is in direct
+> evidentiary **contradiction** with its own **IRO finding**."*
+> **NEW:** *"…The appeal is a hearing **de novo** and those characterisations **fall for
+> determination by the Commission**. A pleading or case that all relevant management action was
+> reasonable is in direct evidentiary **tension** with the **admitted contents** of the
+> Respondent's own Review Decision…"*
+⭐⭐ The filed version treats the Review Decision as if it binds. It does not: **admitting the
+*contents* is not admitting the *truth* of the findings (Type B)**, and s 550(4) is de novo.
+*"Contradiction"* → *"tension"* is the right word, and **conceding the point makes the argument
+land better**, because it stops looking like an attempt to short-circuit the hearing.
+
+**3. "SUFFICIENT CAUSAL CONNECTION" — the filed single-stressor limb was legally incomplete.**
+> **FILED:** *"The Employer's admitted breach of the 7-hour rest break **independently defeats the
+> statutory defense**."*
+> **NEW:** *"…(Stressor 3), **having a sufficient causal connection to the injury**, independently
+> answers s 32(5)(a) in the negative…"*
+⭐ *Mahaffey* does not say any unreasonable stressor defeats the exclusion — it says one **with a
+sufficient causal connection** does. The filed version asserts the conclusion without the element.
+
+**4. ⭐⭐ THE ANTI-DILUTION SENTENCE — entirely new, and it is the answer to the Regulator's case.**
+> *"It is erroneous to ask whether unreasonable management action was the **'dominant' cause**, or
+> to **restore the exclusion merely by outnumbering one causative unreasonable stressor** with
+> other stressors said to be reasonable: **Adams [2015] ICQ 1 at [23]**, adopting **Hochen**. The
+> pleaded stressors define the enquiry (Adams)."*
+⭐⭐⭐ **This is the *Delaney*-dilution answer, pleaded.** It was nowhere in the filed version, and
+global dilution is the most likely way the Regulator wins. **The most valuable new sentence in the
+document.**
+
+**Plus two genuine new alternative limbs:** **2(c)** *Read* [2017] QIRC 72 / *Allwood* [2017] QIRC
+88 — management action is a confined concept, properly pleaded in the alternative (*"In any event…
+the exclusion still fails under (a) and/or (b)"*); and **2(d)** *Prizeman* — reality not
+perception, which **pre-empts the misperception case** the Regulator is set up to run off ¶35.
+
+### ⛔⛔ WHAT THE REDRAFT DID **NOT** FIX — PART B IS UNTOUCHED
+| Defect | Status |
+|---|---|
+| ⛔⛔ *"The Award and the FRMS mandate a **minimum 10-hour rest break** (**Admitted Fact**: Form 24, Para 3)"* | **THE MOST DANGEROUS LINE IN THE PLEADING.** ¶3 admits **10h OR 8h by written agreement**, and **¶4 DENIES** and positively asserts a **signed June 2020 8-hour agreement**. **Tagging a contested proposition as an "Admitted Fact" invites the Respondent to say the pleading misstates its own admissions** |
+| ⛔⛔ *"without issuing the **mandatory Form 29 Notice (Rule 64C)**, depriving the Appellant of statutory objection rights"* | **VERIFIED TO FAIL.** **r 64D(1)(a)** requires service on a person *"other than a party"* — **he IS a party**. And a Form 29 for the medical records **was signed by the Registry on 4 July 2025**. ⭐ The redraft **added the rule citation**, making a bad point more precise rather than removing it |
+| ⚠ *"documented **42% pay disparity**"* | **D1 NOT HELD**; Item 17 objected to on privacy; and 42% is **of his own gross** (29.8% of the comparator's). Banked as **the weakest stressor** |
+| ⚠ *"Unilateral **Destruction** of WHS Records"* + *"hostile and verbally aggressive reprimand"* | ¶6 admits **removal only** — **not** the handwriting; **¶7 does not admit the contents**; and the yelling particular at **¶15 is HEARSAY** (Jeffrey did not witness it) |
+| ⚠ *"the Regulator's own **Independent Review Office (IRO)**"* | ⭐⭐ **THERE IS NO IRO.** It was **Victoria Squires, Senior Reviewing Officer, Review Unit, Workers' Compensation Regulator.** ⭐ **The correct name is STRONGER — it is the Respondent's OWN review unit, not an independent body. Calling it "independent" actively weakens the point** |
+| ⚠ *"directly caused **verifiable** delays to… urgent pathology results"* | An evidentiary promise that must be met |
+| ⚠ Stressor 1(g) delegate suppression | **DENIED at ¶19 on three grounds** |
+
+### ⛔⛔⛔ THE PROCEDURAL PROBLEM — BIGGER THAN THE DRAFTING
+The April pleading was filed **with leave**. A further amended SOFC dated 6 August 2026 needs
+**fresh leave**, and:
+1. ⭐⭐ **The Regulator answered the April pleading with its Form 24 Response (18 Feb 2026) and its
+   amended SOFC (13 May 2026). Re-opening the pleadings may entitle it to re-plead — and the Form
+   24 admissions (¶1, ¶3, ¶5, ¶8, ¶20, ¶21, ¶40, ¶41) are the single best asset in this case.**
+   **Do not put them in play to improve an argument you can make another way.**
+2. **Willson sought five weeks to answer the April pleading.** A further amendment invites another
+   adjournment application, and delay is pure cost to an unpaid appellant.
+3. **The 64G mention is 7 August — tomorrow.** Tabling a fresh pleading into that listing muddies
+   a narrow procedural application.
+
+### ⭐⭐⭐ THE RECOMMENDATION
+**The new Part C is better law and should be used. It should NOT be filed as a further amended
+SOFC.**
+⭐ **Put it in written submissions / an outline of argument.** A party may advance any legal
+argument open on the pleaded facts without amending the pleading — and **Part B is unchanged, so
+there is nothing factual to amend.** That captures every gain (the onus, Hochen/Adams, the
+anti-dilution sentence, Read/Allwood, Prizeman properly deployed) **at zero procedural cost and
+with the admissions left undisturbed.**
+⚠ **The one exception worth considering:** the **onus** concession. Correcting a wrong onus
+proposition is the sort of thing best done squarely, and it can be done in submissions or orally
+without amending. ⭐ **Say it once, in the outline, and do not draw attention to where it came
+from.**
+⛔ **If it IS ever filed, fix Part B FIRST** — the 10-hour "Admitted Fact", the r 64C service
+breach, and "Independent Review Office" — because a leave application will put the whole pleading
+under the microscope.
