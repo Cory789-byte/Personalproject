@@ -3185,3 +3185,43 @@ the dismissal proceedings, which independently confirms the psychiatrist was acc
 the roster was equitable."* Confirms the pay limb goes.
 ⭐ **Notice ¶15 → row 15:** the yelling particular — Jeffrey *"**confirms that she did not witness
 the event** and was told about it by the Appellant."* **Hearsay, confirmed.**
+
+## ⭐⭐⭐ THE STRAND LEDGER — WHAT LANDS, WHAT SURVIVES, WHAT FALLS (7 Aug 2026)
+> Built from: the rendered Form 24 Response (Notice ¶ → Response row map), the Regulator's amended
+> SOFC of 13 May 2026, MSH's objection K-LM26/729, the Form 20, and the Role Description.
+> **16 pleaded strands. 5 land on admissions. 6 survive contested. 5 fall.**
+
+### TIER 1 — LANDS ON ADMISSIONS (no document, no witness needed)
+| # | Strand | Anchor | Note |
+|---|---|---|---|
+| **1** | ⭐⭐⭐ **3(a) the 7-hour break** | Notice **¶1** + **¶3** admitted; **¶4** denies but asserts the June 2020 8-hour agreement; **Form 20 ¶40** confirms he signed it; **SOFC ¶22(a)** concedes *"a 7-hour break **rather than an 8-hour break**"* | **THE ANCHOR. The shortfall is uncontested by anyone.** Arithmetic, not impression |
+| **2** | ⭐⭐ **2(b) the AVAC 25-day delay** | Notice **¶40** (row 37) and **¶41** (row 38) both admitted | Financial insecurity, cleanly proved |
+| **3** | ⭐⭐ **1(f) the retraction direction** | Notice **¶21** admitted *"but says there was **no correlation** between the two events"* | Event lands; causation contested. **Runs as suppression of voice, NOT reprisal** |
+| **4** | ⭐ **1(e) the PID determination** | Notice **¶20** admitted; **SOFC ¶15** *"the respondent **admits** the allegation"* | ⛔ **Never in the medical bundle — s 65 PID Act** |
+| **5** | ⚠ **1(b) comm-book removal** | Notice **¶6** admits removal — **not the handwriting**; **¶7** contents not admitted | ⛔ **DO NOT LEAN ON IT.** SOFC ¶12 pleads a documented innocent sequence — a 9.57am reminder email, then the removal, reported to Reese the same day |
+
+### TIER 2 — SURVIVES, CONTESTED
+| # | Strand | Why it survives | ⚠ The attack |
+|---|---|---|---|
+| **6** | ⭐⭐ **1(d) COVID leave obstruction** | **SOFC ¶14(e)**: *"a review indicates that **in fact, the attachments were present**"*; **¶14(f)**: *"**a matter of human error by Ms Taylor**"* | ⭐⭐⭐ **This is the second "human error" — it is what defeats "not… repeated" at ¶22(a). Its value is no longer as a stressor; it is as the answer to Bowers** |
+| **7** | ⭐ **1(a) low control / unilateral directives** | Stibbard 18 Jul 2023 database removal; Role Description requires him to *"maintain… the database"* and *"participate in change initiatives"*; 16 Jun 2023 email | **SOFC ¶11**: *"there are **no particulars or details** to respond to."* ⭐ **Re-particularise to the DIRECTIVES; drop "erratic presence"** |
+| **8** | ⚠ **3(c) fatigue-leave refusal** | 19 Mar 2024; and the **second refusal 1 Jul 2025** (Taylor: *"I have declined this please submit correct leave either S/L or A/L"*) | **SOFC ¶22(c)** the leave *"was **paid** leave"*; **¶24(b)** *"pursuant to **clause 18.10** of the Award… not entitled… because he was not performing overtime."* ⛔ **VERIFY cl 18.10** |
+| **9** | ⚠ **3(d) the Review Officer's findings** | Notice **¶37 → row 34**: *"admits the **contents**"* | ⛔⛔ **NOT an admission of the finding, and relevance is expressly reserved on the de novo hearing. Persuasive only. Never plead it as binding** |
+| **10** | ⚠ **Post-injury: meetings on certified leave, 12 & 16 Jul 2024** | Form 20 ¶42 | **SOFC ¶25**: *"post-date any injury… **not relevant**"* |
+| **11** | ⭐ **Post-injury: the Oct 2024 abandonment termination, overturned** | Cory's 10 Oct 2024 email; Bain 21 Feb 2025; the 8 Apr 2025 *"Reinstatement process"* thread; **Response row 36 quotes Krishnaiah's *"disputed unfair dismissal proceedings"*** | **Post-dates onset ⇒ aggravation and prognosis only.** ⛔ Never in the causation section |
+
+### TIER 3 — DOES NOT LAND. DELETE.
+| # | Strand | Why it falls |
+|---|---|---|
+| **12** | ⛔⛔ **1(c) the 7 Aug 2023 grievance** | **SOFC ¶13 pleads FOUR documented responses**: meeting **10 Aug**, email **29 Aug** offering a formal grievance, email **8 Sep**, and a meeting arranged for **15 Nov 2023**. It also *"denies it was a formal grievance."* ⛔ **"Dismissed the same day without investigation" does not survive that chronology.** ⭐ **BUT ¶13(f) is a gift — break-time compliance was a meeting subject FOUR MONTHS before the 7-hour break** |
+| **13** | ⛔ **1(g) delegate suppression** | Notice **¶19 → row 19: *"denies as untrue the facts"*** on three grounds; **SOFC ¶17** the same |
+| **14** | ⛔ **2(a) the 42% pay disparity** | Notice **¶¶42–45 → row 39: *"denies untrue… the comparator used does not represent a true comparator… the roster was equitable."*** D1 not held; Item 17 objected on privacy |
+| **15** | ⛔ **3(b) the "10-hour mandate" AS PLEADED** | ¶3 admits **10h *or* 8h by agreement**; ¶4 denies. ⭐ **Reframe as the 7 < 8 bind — the concession is stronger than the overstatement** |
+| **16** | ⛔⛔ **Post-injury: the Form 29 / r 64C service breach** | **Fails on r 64D(1)(a)** — service is required on a person *"other than a party"*. Notice ¶25 admits no service **and** says *"no requirement to do so pursuant to section 64D"* |
+
+### ⭐⭐⭐ AND THE NUMBER THAT ACTUALLY MATTERS
+**The appeal needs ONE.** *Mahaffey* / *Hochen*: one unreasonable management action **with a
+sufficient causal connection** answers s 32(5)(a) in the negative. **Strand 1 is admitted,
+arithmetical, and uncontested as to the shortfall.**
+⇒ **Eleven survive. Five fall. The case needs one — and it is the one where his own conduct is
+not in issue at any point.**
