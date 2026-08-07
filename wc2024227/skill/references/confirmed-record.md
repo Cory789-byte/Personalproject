@@ -3108,3 +3108,80 @@ is the prodrome, pleaded by the Respondent.** It is the same presentation the EC
 5. ⛔ **Stressor 1(c) is much weaker than banked** — four documented responses. Correct the report instruction.
 6. ⛔ **Verify Award cl 18.10 immediately.**
 7. ⭐ **The 7 < 8 shortfall is conceded. Stop asserting 10.**
+
+## ⛔⛔⛔ THE FORM 24 NUMBERING TRAP — DISCOVERED 7 AUG 2026. AFFECTS EVERY CITATION IN THE MATTER.
+> Read from the **rendered** Response (`pdftoppm -r 150 -png`, render pages 7–10 of 13).
+
+### THE RESPONSE ROW NUMBERS DRIFT FROM THE NOTICE PARAGRAPH NUMBERS
+Rows 1–25 answer Notice ¶¶1–25 one-to-one. **Then row 26 answers Notice ¶¶26–29 — and everything
+after that is offset.**
+
+| Response row | answers Notice ¶ |
+|---|---|
+| 1–25 | 1–25 |
+| **26** | **26–29** ← the drift starts |
+| 27–38 | 30–41 |
+| **39** | **42–45** |
+| 40–44 | 46–50 |
+
+⛔ **"Form 24, Para X" is ambiguous and has been used loosely across this matter.** ⭐ **RULE:
+always cite as "Notice ¶X / Response row Y". Re-check every "Admitted Fact: Form 24, Para X" tag
+in the Amended 9A against this map before any further filing.**
+
+### ⛔⛔⛔ VERIFIED VERBATIM — THREE PROPOSITIONS IN CIRCULATION ARE WRONG
+**1. There is NO admission anywhere of the unreasonable-management-action finding.**
+> **Notice ¶2 → Response row 2:** *"**does not admit the fact** contained therein because the
+> appeal is a hearing de novo and **it is for the Commission to determine if this fact amounted to
+> unreasonable management action**."*
+> **Notice ¶37 → Response row 34:** *"**admits the contents** of the Respondent's review unit
+> decision but says that **this fact is not relevant** because the appeal is a hearing de novo."*
+> **Notice ¶50 → Response row 44:** contents admitted, *"not relevant"*, *"Does not admit that Ms
+> Taylor made a misleading statement."*
+
+⛔ **¶2 is a NON-ADMISSION. Any document asserting that "the UMA finding is admitted at Para 2" is
+wrong and must not be filed.** The only thing admitted is the **contents** of the Review Decision
+(Type B), with relevance expressly reserved on the de novo hearing.
+
+**2. The June 2020 eight-hour agreement is NOT denied — its existence is asserted by BOTH sides.**
+> **Notice ¶4 → Response row 4:** *"**denies the fact** because **in June 2020, the Appellant signed
+> an agreement allowing an 8 hour break between shifts**. **This fact also appears at paragraph 34
+> of the Appellant's statement of facts and contentions**, which have been filed in the Commission."*
+
+⛔ **Any statement that "no written 8-hour agreement existed — admitted at Para 4" is the exact
+reverse of the record.** The Respondent denies, points to the agreement, **and points to Cory's own
+pleading as the source.** ⭐ **This does not hurt — it makes the 7 < 8 shortfall uncontested by
+anyone. But it must never be pleaded the other way.**
+
+**3. The delegate limb is DENIED, not admitted.**
+> **Notice ¶19 → Response row 19:** *"**denies as untrue the facts**, because: the Appellant did not
+> request assistance; Ms Taylor did provide advice and support…; the Appellant was provided with
+> delegate information."*
+
+### ⚠ AND THE CLEAN BASELINE IS TYPE B, NOT TYPE A
+> **Notice ¶34 → row 31:** *"admits **the entry is listed in the record**, but **does not admit the
+> accuracy of the entry**."*
+> **Notice ¶35 → row 32:** *"**denies untrue** the fact because the records show **a past medical
+> history of Anxiety and ADHD from 26 October 2022 which is missing from Exhibit A5**."*
+> **Notice ¶36 → row 33:** admits Hawes provided the certificate *"**but denies that as a fact**"*.
+> **Notice ¶38 → row 35:** admits *"the report does say"* MDD, *"**does not admit the accuracy**"*.
+
+⇒ ⛔ **A flat list of "admitted facts" that includes ¶¶34, 36, 38 and 39 is materially overstated.
+Those are all admissions that a DOCUMENT SAYS SOMETHING — not that it is true.**
+
+### ⭐ WHAT **IS** TYPE A — ADMITTED AS FACT (verified from the page)
+**Notice ¶1** (7-hour break) · **¶3** (10h, or 8h by written agreement) · **¶5** · **¶6** (removal
+only — *"does not admit that the page contained the appellant's handwriting"*) · **¶8**
+(*"admits the facts contained therein and says that there was a procedure in place for this to
+occur"*) · **¶14** · **¶17** (*"admits the Policy says words to that effect"*) · **¶18** (text
+sent, *"but says that this was not a formal notification"*) · **¶20** (the PID) · **¶21**
+(*"but says there was no correlation between the two events"*) · **¶25** (no Form 29 served —
+*"and says there was no requirement to do so pursuant to section 64D"*) · **¶30** · **¶40** ·
+**¶41** · **¶46**.
+
+⭐ **Notice ¶39 → row 36 sets out the Krishnaiah passage VERBATIM**, including *"ongoing WorkCover
+claim and **disputed unfair dismissal proceedings**"* — ⭐⭐ **the Regulator's own pleading records
+the dismissal proceedings, which independently confirms the psychiatrist was accurate.**
+⭐ **Notice ¶¶42–45 → row 39: DENIED** — *"the comparator used does not represent a true comparator…
+the roster was equitable."* Confirms the pay limb goes.
+⭐ **Notice ¶15 → row 15:** the yelling particular — Jeffrey *"**confirms that she did not witness
+the event** and was told about it by the Appellant."* **Hearsay, confirmed.**
