@@ -142,3 +142,46 @@ any listing.**
 - [News and notices — QIRC](https://www.qirc.qld.gov.au/news-and-notices)
 - QIRC Workers' Compensation Appeal Guide v2.10, Parts 5.2, 7.4, 11 (in repo)
 - Industrial Relations (Tribunals) Rules 2011, r 91 (ATT27, p 61, in repo)
+
+---
+
+## 7. "CAN I JUST ASK FOR THE AUDIO?" — yes, and for the present purpose it is enough
+
+**Yes.** QTranscripts orders are for *"audio or transcripts"* — **audio can be ordered on its own**,
+for all five listings in a single order. Parties may order it as of right, and none of the
+published restrictions (child protection, closed court) touch this matter.
+
+### ⭐ For what he is actually trying to do right now, audio is the better buy
+
+The immediate problem is that `MENTION-7AUG2026-RECOUNT.md` is **`[R] recall only`**. **Audio fixes
+that completely** — and arguably better than a transcript, because it carries pace, emphasis and
+what was passed over, which is exactly the material the analysis has been reading inferentially.
+
+⇒ **Order the audio for all five listings, and correct the recount from it.**
+
+### ⛔ But audio is not a substitute for the transcript when it comes to using it
+
+- **Audio cannot be cited.** Submissions, a costs argument, a correction to the record — all of
+  those need **the transcript**, which is the official record.
+- ⛔ **Listening and typing out what was said produces *his* transcription, not the record.** Use
+  it to make the recount accurate. **Do not quote from it in any filing or letter.**
+
+⇒ **Audio now, for understanding. Transcript later, for anything that has to be quoted** — and by
+then the 7 August transcript may matter for the pay-limb concession.
+
+### ⚠ On cost, the comparison flips on the unresolved question
+
+- If the **Appeal Guide** is right that transcripts are **free to parties**, the transcript is
+  cheaper and the audio is the extra.
+- If the **courts fee schedule** governs, **audio at $45.25/hour is cheaper than transcript at
+  $5.40/page** for a listing of any length (a one-hour mention runs to tens of pages).
+
+⇒ **This is decided by the Registry answer, not by guesswork. Ask, and apply for the hardship
+waiver in the same email** (§3, §6).
+
+### ⚠ Two things the audio will not contain
+
+1. **Any part of the 13 March s 552A conference where the Member went "off the record"** into
+   private conference — *"this is not recorded or transcribed"* (Guide 5.2).
+2. Anything said outside the room — including **Matheson approaching him after the 7 August
+   listing.** That remains recall only, permanently.
