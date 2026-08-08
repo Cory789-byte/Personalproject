@@ -138,3 +138,83 @@ he has written since 3 July. A WorkCover claim is the only one that isn't.**
 
 ⚠ **s 131 runs to ~26 December 2026. There is time to decide this properly. There is no reason to
 decide it this week.**
+
+---
+
+# PART 6 — ⛔⛔ CORRECTION: LODGING DOES NOT PUT THE DECISION IN MSH's HANDS
+
+> **Cory, 8 August 2026: lodging puts the decision in MSH's hands — if MSH doesn't want this to
+> keep going they can accept it, and it doesn't matter about the appeals officer.**
+> **The instinct is sound. The mechanism is wrong, and the error matters.**
+
+## 6.1 MSH CANNOT ACCEPT A WORKCOVER CLAIM. IT IS NOT THEIR DECISION
+
+**The insurer is WorkCover Queensland, not a self-insurer.** Review Decision 69983 records it in
+terms: *"the decision by **WorkCover Queensland (WorkCover)** to reject your application for
+compensation."*
+
+**MSH is the employer — a policyholder.** Its role in a claim is to be **asked for an employer's
+report**, to comment, and to put its version. ⛔ **It cannot accept a claim. It cannot reject one.
+It does not decide.**
+
+## 6.2 ⛔⛔ WORSE: LODGING DOES NOT HAND MSH A DECISION — IT HANDS MSH A MICROPHONE
+
+A new claim **invites a formal employer response**, in writing, about the **2026** conduct — the
+exclusion, the ECC, the RFMI, the non-payment.
+
+⚠ **And the pattern is established.** The corpus already holds *"Employer additional response |
+S23LW142013"* (**6 September 2024**) from the 2024 claim. **MSH does file employer responses on his
+claims.**
+
+⇒ ⛔ **He would be commissioning a fresh adverse document about the very conduct in dispute on the
+employment track — at his own invitation, and at the worst possible moment.**
+
+**Add that to the two risks already recorded** — an insurer-obtained psychiatric examination (§3.2)
+and a possible rejection recording that the 2026 management action was reasonable (§3.3).
+**Three new adverse documents, all self-invited.**
+
+## 6.3 ⭐⭐⭐ BUT HE IS RIGHT THAT MSH HOLDS A DECISION THAT COULD END THIS
+
+**It is simply not the WorkCover claim. It is the employment decision — and it is entirely theirs:**
+
+1. ⭐⭐ **Restore him to work with the adjustments** the 3 July ECC certifies him fit for.
+2. ⭐⭐ **Pay him for the exclusion period.**
+
+**Neither requires anyone's agreement. Neither depends on Matheson. Neither depends on WorkCover.**
+
+⇒ ⭐⭐⭐ **He is right that there is a decision in MSH's hands that would stop the bleeding
+tomorrow. He is wrong about which decision it is.** And it is already the target of the Stage 1 /
+Stage 2 dispute, the RWA pay claim, and the **24 August deemed refusal**.
+
+⭐ **And his instinct about their incentive is sound.** MSH's exposure grows every week: the
+published-decision risk (FULL-PICTURE §17.3), and a general-protections and AD Act exposure that
+compounds with each week of exclusion without pay. **"If MSH didn't want this to keep going" is a
+correct reading of their position — pointed at the wrong lever.**
+
+## 6.4 ⚠ "IT DOESN'T MATTER ABOUT THE APPEALS OFFICER" — half right, and the half that is wrong is
+important
+
+| | |
+|---|---|
+| ⭐ **TRUE of the employment track** | The pay claim, the deemed refusal, s 89 and general protections **run entirely without the Regulator.** Matheson is irrelevant to all of it |
+| ⛔⛔ **FALSE of the appeal** | **Only the Regulator can consent to WC/2024/227 being resolved. MSH is a non-party and cannot settle it** (FULL-PICTURE §17.3) |
+
+⇒ ⭐⭐ **Two tracks, two decision-makers, and neither can deliver the other's outcome.**
+**MSH can end the employment situation and cannot touch the appeal. The Regulator can end the
+appeal and cannot touch the employment situation.**
+
+⛔ **Any plan that treats one as a route to the other will fail, and will cost something on the way.**
+
+## 6.5 THE ONE REAL — AND WEAK — LINK
+
+An accepted psychiatric claim affects MSH's **WorkCover premium**. ⚠ **That is the only lever a
+claim gives him over MSH — and it is slow, indirect, and not a decision they make.**
+
+⛔ **It is not a reason to lodge.**
+
+## 6.6 ⇒ THE CONCLUSION IS UNCHANGED, AND NOW BETTER SUPPORTED
+
+**Do not lodge this week.** ⭐ **The decision he wants MSH to make is available to them right now,
+on the employment track, and it is already being pressed — with a deadline on 24 August.**
+
+**Decide the claim question on 13 August, on the report, per §5.**
