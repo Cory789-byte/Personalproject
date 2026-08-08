@@ -813,3 +813,102 @@ could action them sooner for you."***
 
 **This requires no adjective, no characterisation and no allegation. It is her sentence, his
 conduct, and the dates.**
+
+---
+
+# PART 13 — ⭐⭐⭐ THE SAME SHAPE FOUR TIMES — and the one safe way to use it
+
+> **Cory, 8 August 2026: it is the same as the COVID event that wasn't uploaded, and the same as
+> the union email sent to her.**
+> **He is right about the shape. ⛔ But there is a safe version and a version that loses the case,
+> and the difference is precise.**
+
+## 13.1 THE FOUR EVENTS, AND WHAT THE RECORD SHOWS
+
+| Event | What he did | The answer given | What the record shows |
+|---|---|---|---|
+| **COVID leave — Feb 2024** | Provided the statutory declaration; the 9A pleads an **upload timestamp of 11:41:27am, 20 Feb** | ⭐ Declined — *"it was necessary for you to attach the statutory declaration to the request, and once it was attached she could approve it"* | ⭐⭐ **He sent screenshots and said he had *"never deleted the declaration"* on his end.** Approved later **on the same evidence.** The **MyHR audit trail is Item 11 — and MSH PRODUCED it** |
+| **Union delegate — 11 Aug 2023** | Notified his intention to become the Switchboard delegate | Characterised as ***"not a formal notification"*** | ⭐ **Sending is ADMITTED (¶18).** QH-POL-248's *"positive, supportive role"* is **admitted (¶17)**. Failure to facilitate is **denied (¶19) — so they carry it** |
+| **Fatigue — Apr 2024** | Raised it in writing, **citing the Award's minimum break himself** | Escalated to HR *"to confirm policies"* → a 2020 agreement came back | ⭐⭐ **No policy existed to give** — MSH: FRMS *"only applies to health practitioners and clinical assistants"* |
+| **AVAC — May 2024** | — | ***"awaiting payroll confirmation"*** (21 May) | ⭐⭐⭐ **Payroll had asked her to submit it on 3 May, and told him on 13 May that nothing had been corrected** |
+
+⭐⭐ **The common feature: in each case what he supplied is treated as not having been supplied, or
+as not counting — and the contemporaneous record says otherwise.**
+
+## 13.2 ⛔⛔ THE DANGEROUS VERSION — do not go near it
+
+**A "pattern of disregard" / "my submissions were repeatedly ignored" / "a course of hostile
+conduct."**
+
+Three reasons it loses:
+1. ⛔ **It is characterisation of a person.** It requires proving a disposition, which engages
+   ***Briginshaw*** at its highest — **and the onus is his.**
+2. ⛔⛔ **It opens s 32(5)(b)** — injury connected to the worker's *perception* of management action
+   is not compensable, **and the Regulator has not pleaded it.**
+3. ⛔ **It builds the composite course** — thirteen limbs, ***Delaney***, **their** authority — which
+   is the exact thing Part 1 of this document exists to avoid.
+
+⚠ **And note where it points: Stressor 1 is already titled *"Hostile course / reprisal /
+suppression."* Adding a pattern of disregard to that heading is walking into every trap at once.**
+
+## 13.3 ⭐⭐⭐ THE SAFE VERSION — and it is stronger
+
+**Not: *"they disregarded me."***
+**But: *"in each case an answer was given that the contemporaneous record did not support, and in
+each case the correction came from me."***
+
+⭐⭐ **That is a statement about the SYSTEM, not about any person.** It requires no motive, no
+disposition, and no adjective — and it fits the pleaded theory exactly: **a system of work that
+miscarried** (*Davis v Blackwood*; *Bowers*), or **no system at all.**
+
+### ⭐⭐⭐ Why this is the legitimate — and powerful — use of it
+
+**The pattern's value is not that anyone was hostile. It is that nothing in the organisation caught
+any of it.**
+
+Four different processes — **leave, union representation, fatigue, pay** — each produced an answer
+the record contradicted, and **none of them was caught by the manager, by payroll, by Human
+Resources, or by the Director.**
+
+⇒ ⭐⭐⭐ **That goes straight to the *Bowers* question, and it is decisive there.** A functioning
+system with a blemish catches its own errors. **Four unsupported answers across four processes,
+none caught, is not a system with a blemish. It is the absence of a check** — which is what MSH's
+letter says in terms for fatigue, and what the other three demonstrate in fact.
+
+⭐⭐ **This is the argument that moves the case out of the *Bowers* basin (~27%) and into the
+no-system basin (~62%).**
+
+### ⭐⭐⭐ And the sharpest formulation of all
+
+**In every instance, the correction came from him:**
+- **COVID** — he sent the screenshots proving the declaration was attached.
+- **Fatigue** — he cited the Award provision himself.
+- **Pay** — he went to payroll himself and obtained their written confirmation that nothing had
+  been done.
+
+⇒ ⭐⭐⭐ **He was carrying the organisation's own assurance function, on top of a life-safety role.**
+
+**That is the pleaded mechanism in one line — *responsibility imposed, and the means to discharge
+it withheld* — and it is about function and workload, not about anybody's motives.**
+
+## 13.4 HOW THEY GO IN
+
+⛔ **Not as independent stressors, and not as a pattern in the pleading.**
+⭐ **As one sentence each in the chronology, without labels** — so that when he raised fatigue in
+April 2024, he was raising it **into an organisation that had already twice produced an answer the
+record did not support.**
+
+⛔ **Never say "again." Never say "as usual." Never say "pattern." The dates do that work.**
+
+## 13.5 ⚠ TWO THINGS TO VERIFY BEFORE EITHER IS USED
+
+1. ⛔⛔ **Item 11 — the MyHR audit trail. MSH PRODUCED it, so it is in hand — but what it actually
+   shows has not been verified.** The 9A pleads the **11:41:27am 20 Feb upload**, two declines, and
+   approval on identical evidence. ⚠ **If the audit trail does not show that cleanly, this limb is
+   dangerous, not helpful. Check it.**
+   ⚠ Also: do not confuse `Item_11_AVAC_PRN_15480560_History.pdf` (**pandemic leave**) with the
+   March-shift AVAC (**Item 16**).
+2. ⚠ **The union limb thins once Item 19 is given up with the r 64G.** ¶18 admits the text was
+   **sent** and denies only its **characterisation**; ¶19 denies the failure to facilitate, **so
+   they carry that** — but proof of the 13-month gap now rests on **CS-2, CS-3 and his own
+   evidence.**
