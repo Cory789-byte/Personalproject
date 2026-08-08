@@ -238,3 +238,152 @@ part of this matter where **every link is admitted, documented, or his own first
 
 ⭐ Together with the answer to *"that's just management action"*, this sequence **is** the case.
 Everything else in the Amended 9A is context threaded back to it.
+
+---
+
+# PART 8 — THE FULL COUNT: every event, every communication, every stop
+> Added 8 August 2026 after re-reading **Review Decision 69983 pp 19–22**, which recites the whole
+> thread. ⛔ **The primary emails are NOT in this repo** — see 8.6.
+
+## 8.1 THE FRAMEWORK THAT EXISTED BEFORE THE SHIFT — 2 instruments
+
+| Date | Instrument | What it says |
+|---|---|---|
+| **17 June 2020** | The 8-hour break agreement, **signed by him as a casual** | Displaces the Award default. **Form 20 ¶40 concedes he signed it** — existence is not in issue |
+| **June 2020** | ⭐⭐ **The fatigue leave policy** (quoted in Review Decision p 19) | See 8.5 — **it is far more useful than it first appears** |
+
+## 8.2 THE EVENT — 3 dated steps
+
+| # | When | What | Proof |
+|---|---|---|---|
+| **1** | **Sun 17 Mar 2024** | Rostered shift **ending 23:00** | Form 20 ¶38; **admitted** Form 24 ¶1 |
+| **2** | **Mon 18 Mar 2024** | Rostered shift **recommencing 06:00** — **a 7-hour gap**, less again after his established commute; ~4 hours sleep | ⭐⭐⭐ **Admitted** — Form 24 ¶1; **SOFC ¶22(a)** *"a 7-hour break (rather than an 8-hour break)"* |
+| **3** | **Tue 19 Mar 2024** | **His own personal leave used** | Form 20 ¶40. ⚠ Contested by SOFC ¶22(c) *"the leave was paid"* — answered at Part 4 |
+
+⭐ **And it was rostered by the manager, not a staff-initiated swap** — so on MSH's own case the
+roster is the employer's act.
+
+## 8.3 ⭐⭐⭐ THE MONDAY — and it is in THEIR document, not just his
+
+**Review Decision 69983 p 21, reciting his 8 April 2024 email:**
+> *"…had not been compensated with the correct penalty rates for **your Monday shift following a
+> Sunday shift**."*
+
+⇒ ⭐⭐ **The Sunday→Monday pairing is recorded in the Regulator's own decision.** He does not have to
+establish the day of the week — **it is already on their file.** (17 March 2024 was a Sunday;
+18 March a Monday.)
+
+**And Taylor's refusal is specifically about that day:** *"your request for fatigue payment for
+**18 March 2024**."*
+
+### What he can prove about the load
+
+| Proposition | Tier | Source |
+|---|---|---|
+| ~**400 calls per shift, ~20 emergency codes**, mixed routing / emergency pathology / doctor-to-doctor urgent / hospital-to-hospital | **His own evidence as the operator** | Load profile; his own monthly call-statistics sheet |
+| **Monday is the peak shift** — weekend backlog, clinics resuming, admissions and elective lists restarting | ⭐ **Tier 2 — his own first-hand knowledge as the person who ran it.** Stands if uncontradicted | Him |
+| The actual code volume on 17–18 March 2024 | ⭐⭐⭐ **THE MET SPREADSHEET** | See below |
+| The criticality of the function | ⭐⭐ **ADMITTED — Form 24 ¶8, removed from contest** | — |
+
+⭐⭐⭐ **MSH has already stated, in writing under the Chief Executive's hand (K-LM26/729), that
+"a spreadsheet of recorded MET calls **is available** for the period 17–18 March 2024."**
+
+⇒ ⭐⭐ **ASK FOR IT. They have said it exists and is available — that needs no notice, and it
+survives dropping the r 64G entirely.** It is the single document that puts a number on the Monday.
+**Top of the Monday disclosure list.**
+
+## 8.4 THE COMMUNICATIONS — 4 recorded, over 23 days
+
+| # | Date | From | What |
+|---|---|---|---|
+| **1** | **8 Apr 2024** | **Him → Taylor** | Requests a review of pay for 8–31 March. Raises the unpaid Saturday public holiday **and** *"the correct penalty rates for your Monday shift following a Sunday shift."* ⭐⭐ **And cites the Award himself: part 5 s 15 — *"unless there was a mutual agreement of regular rosters, employees were entitled to a minimum 10-hour break."*** |
+| **2** | **9 Apr 2024** | **Taylor → him** | AVAC submitted for one public holiday; the rest to go through MyHR as >3 months old; ⭐ *"she also **escalated your enquiry regarding fatigue leave to Human Resources** to confirm policies around this"*; and asks him to raise concerns **as soon as they arise so she could action them sooner** |
+| **3** | **24 Apr 2024** | **Him → Taylor** | Payroll has advised the public-holiday payments must go through as overtime; asks her to act and provide a PRN; ⭐ **records dissatisfaction — "more than 2 weeks without any response or overtime payment"** |
+| **4** | **1 May 2024** | **Taylor → him** | ⭐⭐⭐ **The refusal.** *"after a consultation with payroll and Human Resources, your request for fatigue payment for 18 March 2024 would not be processed due to the existing 8-hour agreement signed by you on 17 June 2020. **However, she noted you are able to terminate this agreement going forward.**"* |
+
+**⚠ Emails to the Director (Ms Reese) on the fatigue payment are NOT recorded in this part of the
+Review Decision and are not in the corpus.** ⛔ **Do not assert them until located** (8.6).
+
+## 8.5 ⭐⭐⭐ THE POLICY CUTS BOTH WAYS — and the good half is better than the bad half
+
+**Review Decision p 19 quotes the June 2020 fatigue leave policy in full. Two halves:**
+
+### ⛔ The bad half — the entitlement claim probably fails
+
+Fatigue leave was to be granted where the employee **(i) worked more than 2 hours overtime between
+10:15pm and the next start, AND (ii) did not have at least 10 consecutive hours off duty in the
+15 hours immediately preceding it.**
+
+⚠ **A conjunctive test — and he was working a *rostered* shift, not overtime.** Limb (i) is not
+met. ⇒ ⛔ **SOFC ¶24(b) is very likely right, and the fatigue-leave *entitlement* limb should not be
+run as an entitlement claim.**
+
+### ⭐⭐⭐ The good half — the policy names the roster as the control
+
+> *"The policy notes that **many problems can be overcome regarding fatigue leave by either not
+> rostering the employee who is on call for the first shift of the following day** and not rostering
+> on call an officer who is rostered for the first shift on the following day."*
+
+⇒ ⭐⭐⭐ **The employer's own policy says the answer is not to roster it that way. Then it rostered
+it that way.**
+
+**And the policy's benchmark is 10 consecutive hours** — the same figure as the Award default. ⇒
+**10 hours appears in two of the employer's own instruments.** The 8-hour agreement is an
+individual exception to the Award's rostering rule; **it is not obviously a rewrite of the fatigue
+policy's benchmark.**
+
+### ⇒ ⭐⭐ THE TARGET MOVES UPSTREAM
+
+**Do not aim at step 4 (the refusal). Aim at step 1 (the rostering).**
+
+The refusal is technically defensible on the policy's overtime trigger. ⭐ **The rostering is not —
+and the employer wrote down the control and then did not apply it.** The refusal's role is no
+longer to be the wrong; **its role is to prove that nobody looked upstream, over 44 days, across
+three decision-makers.**
+
+## 8.6 ⛔⛔ THE PRIMARY EMAILS ARE NOT IN THIS REPO — and they are with the Regulator
+
+**The corpus jumps from 4 September 2023 to 4 July 2024.** ⇒ **There are no corpus messages for the
+entire March–May 2024 window.** The thread survives only as **recited in Review Decision 69983.**
+
+⭐⭐⭐ **But the Regulator read those emails to write the review — so the Regulator holds them.**
+**That is party disclosure. It is unaffected by dropping the r 64G, and it needs no notice.**
+
+⛔ **Add to Monday's list, specifically:** *the correspondence between the Appellant and Ms Taylor
+of 8 April, 9 April, 24 April and 1 May 2024, and any related payroll or Human Resources advice,
+being the material recited at pp 21–22 of Review Decision 69983.*
+
+⚠ Also worth checking: his own QH mailbox was deactivated and restored (**QH-RITM16413751**, Aug–Sep
+2025). **Whether the March–May 2024 items survived that is unknown** and should be tested before
+relying on the Regulator alone.
+
+## 8.7 ⭐⭐ STRESSOR 2(b) IS THE SAME THREAD — it was never a separate stressor
+
+Look at what the 8 April email actually raised: **the public holiday payments AND the Monday
+penalty rates AND the 10-hour break.** The 24 April email chases **both**. The 1 May reply answers
+**both**.
+
+And the payroll instruction pleaded as **Stressor 2(b)** — *"submit an AVAC to correct these shifts"
+**IMMEDIATELY***, Form 24 ¶40 — is dated **3 May 2024. Two days after the 1 May refusal.**
+
+⇒ ⭐⭐⭐ **The pay limb and the fatigue limb are one continuous correspondence about one pay period
+arising from one weekend roster.** They were never two stressors.
+
+**Which makes the group tighter still:** ⭐ **one thread, 17 March – 28 May 2024, from the roster to
+the AVAC finally being submitted — with two admitted delays inside it (23 days to an answer on
+fatigue; 25 days on the AVAC, Form 24 ¶41 admitted).**
+
+## 8.8 THE COUNT, IN ONE PLACE
+
+| | |
+|---|---|
+| **Instruments in place before it** | **2** — the 17 June 2020 agreement; the June 2020 fatigue policy |
+| **Dated events in the shift itself** | **3** — Sun 17th, Mon 18th, Tue 19th |
+| **Recorded communications** | **4** — 8 Apr, 9 Apr, 24 Apr, 1 May (2 his, 2 hers) |
+| **Decision-makers the request passed through** | **3** — the Line Manager, Payroll, Human Resources |
+| **Days from the shift to the refusal** | **44** (18 March → 1 May) |
+| **Days from first raising it to an answer** | **23** (8 April → 1 May) |
+| **Points at which it could have been fixed and was not** | ⭐ **5** — the roster before it ran · 19 March at the time · 9 April on escalation · 24 April on the chase · 1 May on the decision |
+| **Admitted delays inside the same thread** | **2** — 23 days on fatigue; **25 days on the AVAC (Form 24 ¶41, admitted)** |
+| **Steps admitted or documented** | ⭐⭐ **the roster, the 7-hour break, all four communications, the refusal and its reason** |
+| **Steps resting on his evidence alone** | **2** — the ~4 hours sleep, and the use of his own leave on 19 March |
