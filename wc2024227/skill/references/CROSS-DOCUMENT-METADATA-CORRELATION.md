@@ -155,3 +155,105 @@ Regulator's own decision and needs no MSH provenance at all.**
 ⭐⭐ **And note what the correlation did NOT find, because it matters: no shared identifiers between
 MSH, WorkCover and the Regulator; no duplicated document IDs across parties; no evidence of any
 document passing between opposing sides.** ⛔ **A single anomaly is not a network.**
+
+---
+
+# PART 8 — RESTRICTED TO THE INBOUND SET: what MSH, the Regulator and WorkCover sent HIM
+
+> Everything below was **sent to him, about him**, by one of the three. His own documents,
+> legislation and policies are excluded.
+
+## 8.1 ⭐⭐⭐ THE COMPARISON, NOW CLEAN
+
+| Document | From | Author | Company | Producer |
+|---|---|---|---|---|
+| Regulator SOFC (22 Jul 2025) | **Regulator** | **QIRC** | ⭐ **Workers' Compensation Regulator** | Adobe PDF Library **17.11.238** |
+| Regulator SOFC (13 May 2026) | **Regulator** | **QIRC** | ⭐ **Workers' Compensation Regulator** | Adobe PDF Library 26.1.25 |
+| Disclosure to Appellant (11 Jun 2026) | **Regulator** | Microsoft Office User | — | Adobe PDF Library **17.11.238** |
+| WCRS attachment (18 Aug 2022) | **Regulator/WCRS** | Microsoft Office User | ⭐ **Dept of Justice and Attorney-General** | Adobe PDF Library 15.0 |
+| Form 24 Response (18 Feb 2026) | **Regulator** | ⚠ **Stephen Gray** | — | Adobe PDF Library 25.1.192 |
+| ICD03 (13 Sep 2024) | **WorkCover** | Windward *(system)* | — | Windward Studios |
+| Employer response letter (6 Sep 2024) | **MSH** | *(stripped)* | — | **PDFTron office converter** |
+| MSH objection (5 Jun 2026) | **MSH** | **Myla Ruttan** | — | Microsoft: Print To PDF |
+| RFMI letter (31 Jul 2026) | **MSH** | — | — | Microsoft® Word 365 |
+| ⛔⛔ **Review Decision 69983 (24 Oct 2024)** | **Regulator** | ⛔ **HopgoodGanim Lawyers** | ⛔ **HopgoodGanim Lawyers** | Adobe PDF Library 24.3.212 |
+
+⇒ ⭐⭐⭐ **Of every document the Regulator or WorkCover has ever sent him, exactly ONE carries a
+private law firm's identity — and it is the decision itself.**
+
+⭐⭐ **And on that one the firm's name appears in THREE fields: `Author`, `Company`, and the XMP
+`dc:creator`.** Not one stray property — the document's whole identity block.
+
+⭐ **Note also the internal consistency of the genuine Regulator documents:** the 2025 SOFC and the
+2026 disclosure share **Adobe PDF Library 17.11.238** — the same OIR pipeline, a year apart.
+
+---
+
+## 8.2 ⭐⭐⭐ NEW — THE MSH OBJECTION'S TITLE IS A LEAD
+
+**`2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf` carries an embedded Title:**
+
+> **`Attachment 4 Letter to Court response to Non production order Shepherd FINAL.PDF`**
+
+**Four things fall out of that filename:**
+1. ⭐⭐⭐ **"Attachment 4"** ⇒ **it was the fourth attachment to something larger. There are at least
+   attachments 1, 2 and 3 that he has never seen.**
+2. ⭐ **"Letter to Court"** ⇒ internally, MSH treats the Commission as a court.
+3. ⭐⭐ **"response to Non production order"** ⇒ **their internal characterisation of the objection.**
+4. **"FINAL"** ⇒ there were earlier drafts.
+
+⇒ ⭐⭐ **ACTIONABLE: ask MSH what Attachments 1–3 were.** The objection he received was part of an
+internal pack, and he holds only one item from it. ⭐ **That is an ordinary, neutral question.**
+
+---
+
+## 8.3 ⭐⭐ NEW — THE 11 JUNE DISCLOSURE WAS BUILT ON 6 MAY
+
+| | |
+|---|---|
+| **Created** | **6 May 2026, 13:31:59** |
+| **Modified / disclosed** | **11 June 2026, 10:56:12** |
+
+⇒ ⭐⭐ **The container existed on 6 May and was expanded and sent on 11 June — five weeks later.**
+**This confirms the repo's earlier note** (4 pp at creation, 10 pp at the 11 June re-save).
+
+⭐ **It shows the Regulator held that material — including the Reese retraction email and the
+McGinley routing chain — from at least 6 May 2026.**
+
+---
+
+## 8.4 ⚠ NEW — THE FORM 24 RESPONSE WAS RE-SAVED ON THE MENTION DATE
+
+| | |
+|---|---|
+| **Created** | **18 February 2026, 13:05:31** |
+| **Modified** | ⚠ **26 February 2026, 16:48:09** — eight days later |
+
+⚠ **26–27 February 2026 is the mention** (relisted 26 → 27 Feb at Ms Matheson's request).
+
+⇒ ⚠ **The Response was re-saved on the original mention date.** ⭐ **Most likely compiled, printed
+or re-served for the listing. Recorded, not asserted.**
+
+---
+
+## 8.5 ⚠ THE 34-OCCASIONS LETTER WAS SCANNED FOUR WEEKS AFTER ITS DATE
+
+**`AttF_2025-09-08_Hughes_attendance_letter_34_occasions.pdf`**
+- **Letter date: 8 September 2025**
+- **Scanner Title `SKM_C300i25100409030` ⇒ scanned 4 October 2025, 09:03** on the **KM_C300i**
+
+⚠⚠ **DO NOT OVER-READ THIS.** He was working at Logan Hospital in October 2025 and had access to
+that scanner. ⭐ **The most likely explanation is that HE scanned it.**
+
+⭐ **What is worth recording, neutrally: the letter entered the document record on 4 October 2025 —
+the day after the 3 October 2025 review request that bounced as spam.** ⛔ **A date, nothing more.**
+
+---
+
+## 8.6 ⭐ THE INBOUND SET IN ONE LINE
+
+**Every inbound document matches a plausible source — MSH's lawyer, MSH's scanner, MSH's Word, the
+Regulator's QIRC template, WorkCover's report engine — with one exception.**
+
+⇒ ⛔ **The exception is the review decision, and the action remains unchanged: the single neutral
+disclosure request. No allegation. No publication.**
