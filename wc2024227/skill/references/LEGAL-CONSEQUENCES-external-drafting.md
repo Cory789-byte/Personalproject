@@ -186,3 +186,150 @@ capability.*
 cost him the case. Two neutral questions, nothing published, nothing alleged — and Wednesday's
 report is what actually decides this.**
 </content>
+
+---
+
+# PART 6 — ⭐⭐⭐ WEIGHED AGAINST THE LEGISLATION ITSELF
+> All provisions read from **ATT26, WCRA 2003, authorised consolidation current 1 January 2025**,
+> 8 August 2026. **Not from memory.**
+
+## 6.1 ⛔⛔ FIRST — "OIR INDEPENDENT LEGISLATION" DOES NOT EXIST, AND THE PREMISE NEEDS FIXING
+
+⛔⛔⛔ **There is no Act establishing the Office of Industrial Relations as an independent body, and
+no independent statutory authority conducting these reviews.** What exists is:
+
+> ⭐ **s 326(1):** *"The office of the Workers' Compensation Regulator is established."*
+> ⭐ **s 326(2):** *"The Governor in Council may appoint **a public service officer** as the Workers'
+> Compensation Regulator."*
+> ⭐ **s 326(3):** *"The Regulator is appointed under the **Public Sector Act 2022** and may hold
+> that appointment **in conjunction with another public service office**."*
+
+⇒ ⭐⭐⭐ **The Regulator is not an independent authority. It is a public service office, held by a
+public servant, who may hold another public service office at the same time.** ⛔ **"Independent
+review officer" is a job description, not a statutory status.**
+
+## 6.2 ⭐⭐⭐ THE ONE PROVISION THAT ACTUALLY HELPS HIM — s 326(4)
+
+> ⭐⭐⭐ **s 326(4): *"The Regulator must act independently when making a decision under this Act
+> but otherwise is subject to direction in the person's capacity as a public service officer or an
+> officer of the department."***
+
+⭐⭐ **This is a genuine STATUTORY duty of independence, and it is the only one in the Act.** A
+review decision under s 545 is *"a decision under this Act"*, so the duty is engaged.
+
+⚠ **Two qualifications, both real:**
+1. ⚠ **Does it bind a DELEGATE?** The decision was made by a Senior Reviewing Officer, presumably
+   under **s 329**. ⭐ On general principle a delegate exercises a delegated power subject to the
+   same conditions and duties as the delegator — **strongly arguable, not certain.**
+2. ⛔⛔ **THE SAME SENTENCE LIMITS IT, AND THIS IS THE PART THAT CUTS AGAINST HIM.** The duty is to
+   act independently ***when making a decision*** — ***"but otherwise is subject to direction."***
+   ⇒ ⭐⭐⭐ **Parliament drew the line AT THE DECISION.** How the office is resourced, how a document
+   is produced, what assistance is obtained — **all of that is expressly inside the ordinary
+   directable sphere.** ⛔ **s 326(4) is not a duty to draft in-house. It is a duty to decide
+   independently.**
+
+## 6.3 ⛔⛔ AND A CORRECTION I OWE — CHAPTER 13 NEVER USES THE WORD "INDEPENDENT"
+
+**I have repeatedly leaned on *"an independent administrative process"*. ⛔ That phrase is from the
+DECISION LETTER and OIR's WEBSITE. It is not in the statute.**
+
+| | |
+|---|---|
+| ⭐⭐ **s 539 — Object of Part 2 (the review)** | ***"The object of this part is to provide a NON-ADVERSARIAL system for PROMPT RESOLUTION of disputes."*** ⛔⛔ **"Non-adversarial" and "prompt". The word "independent" does not appear** |
+| ⚠ **s 490 — Object of Ch 11** | *"…an **independent** and non-adversarial system of medical review and assessment…"* ⛔⛔ **THAT IS MEDICAL ASSESSMENT TRIBUNALS, NOT REVIEWS. I conflated them and it is withdrawn** |
+
+⇒ ⭐⭐ **Parliament used the word "independent" for medical assessment tribunals and NOT for
+Chapter 13 reviews. That is a deliberate contrast and it works against him.**
+
+## 6.4 ⭐⭐⭐ BUT THE STATUTE GIVES HIM A BETTER ARGUMENT THAN INDEPENDENCE — THE PARTICIPATION ASYMMETRY
+
+**Look at what Chapter 13 gives each side:**
+
+| | **The applicant (Cory)** | **The insurer (WorkCover)** |
+|---|---|---|
+| **s 543** | ⭐⭐ *"The applicant **may appear** before the Regulator in person or **be represented by another person at the applicant's expense**… may also make representations… by telephone or another form of communication"* | ⛔ **NOTHING. No right of appearance. No right to be represented** |
+| **s 544** | — | ⭐ **An OBLIGATION only:** *"the Regulator may, by written notice, **require the decision-maker to give** the Regulator… all relevant information and documents"*, within 5 business days, ***"The decision-maker must comply"***, and ***"must pay the cost"*** |
+
+⇒ ⭐⭐⭐ **Parliament gave the WORKER a right of appearance and representation, and gave the
+INSURER only a duty to hand over documents on demand. The insurer has NO participatory role in the
+review at all.**
+
+> ⭐⭐⭐ **So the sharpest statutory formulation of Cory's concern is not "the review was not
+> independent." It is: IF the insurer's lawyers had a hand in producing the review decision, the
+> insurer obtained a level of participation that Chapter 13 deliberately withholds from it — while
+> the worker got only what s 543 gives him.**
+
+⭐⭐ **That argument does not require proving bias, and it does not require s 326(4).** ⛔ **It does
+require proving the firm acted for the insurer on this claim — which he cannot.**
+
+## 6.5 ⚠ THREE MORE PROVISIONS, AND TWO OF THEM CUT AGAINST HIM
+
+**1. ⛔⛔ s 538(2) — Parliament DID legislate about who does the work, when it wanted to.**
+> *"The review must be made by a person who is **in a more senior position** than the person who
+> proposes to make the decision."* — **the insurer's internal review.**
+
+⇒ ⭐⭐ **Parliament knew exactly how to prescribe who may prepare a review, and did so for the
+insurer's internal review. It prescribed NOTHING equivalent for the Regulator's review under
+Part 2.** ⛔ **On ordinary construction that silence is deliberate, and it tells against implying a
+restriction on who may assist.**
+
+**2. ⭐⭐ s 545(4) — THE 25 BUSINESS DAYS WERE A HARD DEADLINE.**
+The Regulator may extend the time **only** (a) with the applicant's consent for a s 543 appearance,
+(b) with the applicant's consent to obtain s 544 information, or (c) on the applicant's written
+request.
+⇒ ⭐⭐⭐ **She had NO unilateral power to extend. The clock expired 22 October 2024 and she decided
+on 22 October 2024 — the last available day.** ⛔ **That legitimises resourcing pressure and makes
+external production assistance MORE explicable, not less.**
+
+**3. ⭐ s 545(1A)(c) — natural justice is expressly in the Regulator's contemplation.**
+The Regulator may return a matter to the decision-maker where it *"believes on reasonable grounds
+that the decision-maker has not observed natural justice."* ⇒ ⭐ **A modest point: the scheme takes
+natural justice seriously at the review stage.** ⚠ **It is directed at the INSURER's conduct, not
+the Regulator's.**
+
+## 6.6 ⭐⭐⭐ THE SCHEME'S OWN ANSWER TO A BAD REVIEW
+
+⭐⭐ **Note the symmetry Parliament built:**
+
+| | Power |
+|---|---|
+| **s 545(1)** | The **Regulator** may confirm / vary / **set aside and substitute** / set aside and return |
+| ⭐⭐⭐ **s 558(1)** | The **Commission** may confirm / vary / ⭐⭐⭐ **set aside and SUBSTITUTE another decision** / set aside and return |
+| ⭐⭐⭐ **s 558(2)** | A varied or substituted decision **"is taken… to be the decision of the insurer"** |
+
+⇒ ⭐⭐⭐ **Parliament's answer to a review that got it wrong is not to litigate the review. It is
+the appeal — with the SAME substitution power, exercised by an independent tribunal.** ⭐⭐ **The
+scheme assumes reviews can be wrong and builds the cure in. He is standing in the cure.**
+
+## 6.7 ⭐⭐ THE WEIGHING, ON ONE PAGE
+
+| # | Provision | Direction | Weight |
+|---|---|---|---|
+| **1** | ⭐⭐⭐ **s 326(4)** — must act independently when making a decision | ⭐⭐ **FOR him** — a real statutory duty | ⚠ **But limited in the same sentence to the DECISION, and the metadata cannot reach the decision** |
+| **2** | ⭐⭐⭐ **s 543 v s 544** — worker may appear and be represented; insurer may only be required to produce | ⭐⭐⭐ **FOR him — the strongest statutory framing available** | ⛔ **Needs proof the firm acted for the insurer** |
+| **3** | **s 545(1A)(c)** — natural justice contemplated | ⭐ Mildly for | Low |
+| **4** | ⛔⛔ **s 539** — object is *"non-adversarial… prompt"*, **not independent** | ⛔⛔ **AGAINST** | ⭐⭐ **High — the word is simply absent** |
+| **5** | ⛔⛔ **s 490 v s 539** — Parliament used "independent" for medical tribunals, not reviews | ⛔⛔ **AGAINST** | ⭐⭐ **High — deliberate contrast** |
+| **6** | ⛔⛔ **s 538(2)** — Parliament prescribed who does the INSURER's internal review, and nothing for the Regulator's | ⛔⛔ **AGAINST** | ⭐⭐ **High — deliberate silence** |
+| **7** | ⛔ **s 326(1)–(3)** — the Regulator is a public service office, may hold another office concurrently, subject to direction | ⛔ **AGAINST** — it was never an independent authority | ⭐⭐ **High** |
+| **8** | ⭐ **s 545(4)** — hard 25-day deadline, no unilateral extension | ⛔ **AGAINST** — legitimises assistance | ⭐⭐ |
+| **9** | ⭐⭐⭐ **s 549(1) + s 558(1)(c) + s 558(2)** | ⛔⛔⛔ **DECISIVE AGAINST PURSUING IT** — the scheme's own cure, with substitution, is the appeal he already has | ⭐⭐⭐ |
+
+## 6.8 ⭐⭐⭐ THE ANSWER
+
+> ⭐⭐⭐ **The legislation gives him ONE provision — s 326(4) — and limits it in the same sentence.
+> The duty is to DECIDE independently, not to draft in-house. Chapter 13 never uses the word
+> "independent" at all; its object under s 539 is a non-adversarial system for prompt resolution.
+> Parliament used "independent" for medical assessment tribunals and not for reviews, and it
+> prescribed who must conduct the insurer's internal review while prescribing nothing for the
+> Regulator's. The Regulator is not an independent authority — it is a public service office,
+> expressly subject to direction except when deciding.**
+>
+> ⭐⭐⭐ **His best statutory point is not independence at all. It is that Chapter 13 gives the
+> WORKER a right of appearance and representation and gives the INSURER nothing but a duty to
+> produce documents — so insurer-side participation in producing the decision would be a
+> participation the Act withholds. That argument needs a fact he does not have.**
+>
+> ⭐⭐⭐ **And Parliament already wrote the remedy: s 558(1)(c) lets the Commission set aside and
+> substitute, and s 558(2) makes that the insurer's decision. The statute's cure for a wrong
+> review is the appeal. He is in it.**
