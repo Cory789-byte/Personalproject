@@ -480,3 +480,174 @@ away.**
 
 ⛔ **No adjective. No allegation. Nothing about her.** ⭐ **And it leaves the decision defeating
 itself, which is where the force is.**
+
+---
+
+# PART 9 — DOCUMENT FORENSICS: every fingerprint on the file
+
+## 9.1 THE COMPLETE METADATA
+
+| Field | Value |
+|---|---|
+| **Author** | ⚠⚠ **HopgoodGanim Lawyers** |
+| **Creator** | `pdftopdf filter` — **a CUPS print filter** |
+| **Producer** | **iOS Version 18.0.1 (Build 22A3370) Quartz PDFContext** |
+| **CreationDate = ModDate** | **2024-10-24 15:38:02 UTC** = ⭐ **25 October 2024, 01:38 AEST** |
+| PDF version | **1.3 and 1.4 both present** — a conversion chain |
+| Tagged | Yes | Linearized | No | Encrypted | No |
+| **Revisions** | ⭐ **ONE `%%EOF`, ONE `startxref`** — **no incremental saves, no revision history** |
+| **Fonts** | ArialMT · Arial-BoldMT · Arial-ItalicMT · **Wingdings-Regular**, all subset-embedded |
+| SHA-256 | `29379f1c99ae1ac2ddf125860e57b374c81b9e15971263896b36afbe1074162a` |
+| MD5 | `bd3c6ccd7973847dff09f1894b1aeeb2` |
+
+## 9.2 THE CHAIN, RECONSTRUCTED
+
+1. ⭐ **Authored in Microsoft Word.** *Arial + Wingdings, subset-embedded, tagged output* is the
+   Word fingerprint — **Wingdings supplies the bullet glyphs, and the decision is full of bullet
+   lists.**
+2. **Printed through a CUPS pipeline** — `pdftopdf filter` overwrote the Creator field.
+3. **Re-saved on an iOS 18.0.1 device** at **01:38 AEST on 25 October 2024.**
+4. **Flattened** — single generation. ⛔ **Any earlier revision history was destroyed by the
+   re-save.**
+
+⭐⭐⭐ **The 01:38 timestamp is the decisive tell. A Senior Reviewing Officer does not produce and
+issue formal reasons at twenty to two in the morning. A claimant who has just received an adverse
+decision does open it, print it and save it at that hour.**
+
+## 9.3 ⭐⭐⭐ THE CONTROLLED COMPARISON — this settles it
+
+**Every PDF in the repo carrying the iOS Quartz producer:**
+
+| File | Creator | Author |
+|---|---|---|
+| **Review Decision 69983** | `pdftopdf filter` | ⚠ **HopgoodGanim Lawyers** |
+| ⭐⭐⭐ **TD/2024/110 Form 12 — HIS OWN reinstatement application**, stamped 25 Oct 2024 | `pdftopdf filter` | ⭐ **(none)** |
+| Saines cost agreement, 26 Nov 2024 | Microsoft Word | Zach Joubert |
+| Taylor text messages | **Photos** | — |
+
+⇒ **Two conclusions, and they point in opposite directions:**
+
+**(a) ⭐⭐⭐ The `pdftopdf filter` → iOS Quartz chain is HIS pipeline.** It appears on **his own Form
+12**, which nobody but he processed, and on **screenshots from his own phone**. **The handling
+chain is his. That is settled.**
+
+**(b) ⚠⚠ But the Author field is NOT.** ⭐ **His own Form 12 went through the identical chain and
+carries no Author at all.** CUPS and iOS **preserve** an existing Author string; they do not create
+one.
+
+⇒ ⭐⭐⭐ **Therefore the string *"HopgoodGanim Lawyers"* was already in the file when he received it.
+It is upstream of his handling.**
+
+## 9.4 ⛔⛔ WHAT THAT DOES — AND DOES NOT — MEAN
+
+**It does NOT mean a law firm drafted the decision. Four reasons:**
+1. ⭐⭐ **The PDF Author field is not the author of the content.** It is inherited from the source
+   document or template's properties, and **stale Author strings routinely survive in Word
+   templates for years, across many unrelated users and organisations.**
+2. **The mundane explanation is far more likely** — a precedent or template circulating in the
+   Review Unit that originated on, or was once edited on, a machine or document associated with
+   that firm.
+3. ⚠ **The Creator field was overwritten by the print filter** — so the metadata is already
+   partially rewritten. **A surviving Author string in a partly-rewritten header proves very
+   little.**
+4. ⭐ **The Regulator's other documents in the repo carry "QIRC" or "Microsoft Office User".** One
+   outlier is an anomaly, not a pattern.
+
+**⛔⛔ AND ADVANCING IT WOULD BE CATASTROPHIC.** It is an allegation that an independent statutory
+review was authored by a private law firm — **among the most serious allegations available in
+administrative decision-making.** ***Briginshaw* at its highest, with the onus on him.** It would
+destroy the *"her own findings support me"* argument (§8.4), merge with the quarantined reprisal
+complaint, and hand them *"vexatious"* for nothing. ⭐ **And it is legally irrelevant: the appeal is
+de novo.**
+
+## 9.5 ⭐⭐ THE ONE LEGITIMATE, RISK-FREE USE
+
+**Obtain a clean copy of the Review Decision from the Regulator before tendering it.**
+
+⛔ **The copy he holds is not pristine:** printed, re-saved on a phone, flattened, and carrying an
+Author string he cannot explain. ⚠ **If he tenders it and provenance is raised, *he* has to explain
+it — and he cannot.**
+
+⭐⭐⭐ **The disciplined resolution, with no allegation in it:**
+> *"Please provide a copy of Review Decision 69983 as issued."*
+
+**Ordinary party disclosure of their own document.** If their copy carries the same string, that is
+a fact. **If it does not, the question closes and nothing was ever alleged.**
+
+---
+
+# PART 10 — ⭐⭐⭐ WHY SHE REASONED THAT WAY — the forensic explanation
+
+## 10.1 SHE WAS COMPLETING A TEMPLATE, AND THE TEMPLATE HAS A DEFECT
+
+**The decision's architecture is a standard Review Unit structure:** s 108 → worker → personal
+injury → arising out of employment → significant contributing factor → factors identified →
+substantiated? → management action? → reasonable and reasonably taken? → **global evaluation** →
+conclusion.
+
+⭐⭐ **The defect is at the second-last step. The template treats *Delaney*'s global evaluation as a
+stage that always applies, rather than as a test with a threshold.**
+
+**She recited the threshold — *"joined by subject matter, time and personality"* — because the
+template recites it. She then aggregated, because the template aggregates.**
+
+⭐⭐⭐ **That is why the operative paragraph opens *"I note that since…"*. That is not the verb of a
+finding. It is the verb of someone completing a required field.**
+
+## 10.2 ⭐⭐ AND WHY IT BECAME ARITHMETIC
+
+Once the template says *"globally evaluate the substantiated factors"*, and there are three
+substantiated factors of which one is unreasonable, **counting is the only mechanical operation the
+step offers. The template gives no guidance on WEIGHT — so it defaults to NUMBER.**
+
+⇒ **Hence *"two out of the three"*, and hence *"mainly"* — a word that appears nowhere in
+s 32(5)(a) and which is a dominant-cause test she had no authority to apply.**
+
+⭐⭐ **She had a genuinely hard problem: one serious failure inside a group of otherwise ordinary
+ones. Her template had no answer for it. So it counted.**
+
+## 10.3 ⭐⭐⭐ THE DECISIVE FINDING — SHE CITED NO AUTHORITY LATER THAN 2009
+
+**Every case in the decision:**
+
+| Authority | Year | Cited for |
+|---|---|---|
+| *Bowers v WorkCover Queensland* [2002] QIC 18 | **2002** | Blemishes; management action need not be perfect |
+| *Delaney v Q-COMP* [2005] QIC 11 | **2005** | Global evaluation |
+| *Prizeman v Q-COMP* [2005] QIC 53 | **2005** | Onus on the worker |
+| *Rowe v Q-COMP* [2009] QIRC 9 | **2009** | A worker is not always best placed to identify causes |
+
+⛔⛔ **Not one authority later than 2009 — in a decision made in 2024.**
+
+**And the two Industrial Court decisions that govern the exact problem she faced are both later,
+and neither is cited:**
+- ⭐⭐⭐ ***Adams* [2015] ICQ 1 at [23]**, adopting ***Q-COMP v Hochen*** — **no dominant cause test;
+  reasonable management action is not neutralised by outnumbering.**
+- ⭐⭐⭐ ***Mahaffey* [2016] ICQ 10 at [51], [54]–[57]** — **a single unreasonable stressor with
+  sufficient causal connection suffices.**
+
+⇒ ⭐⭐⭐ **This is the whole explanation, and it is visible on the face of the document.**
+
+> **She applied the law as her template had it. The template was current to 2009. The two decisions
+> that answer the precise question she confronted were handed down in 2015 and 2016, and she did
+> not have them.**
+
+## 10.4 ⭐⭐ WHY THIS IS THE BEST VERSION OF THE ARGUMENT
+
+| | |
+|---|---|
+| ⭐⭐⭐ **It is demonstrable** | From the footnotes. Four citations, latest 2009 |
+| ⭐⭐⭐ **It criticises nobody** | Not her judgment, not her fairness, not her motives |
+| ⭐⭐ **It preserves everything he needs** | Her findings stand — **because she was careful, not because she was partial** |
+| ⭐⭐⭐ **It is exactly what a de novo hearing is for** | ⛔ **Not to review her decision — to decide the question on the authorities that now govern it** |
+| ⭐⭐ **And it explains the anomaly he noticed** | The decision *is* strange: it moves twice in his favour and then refuses. **The explanation is a superseded aggregation rule, not an intention** |
+
+## 10.5 THE SENTENCE THAT CARRIES IT
+
+> *The Review Officer's reasoning turned on a global evaluation drawn from Delaney, applied by
+> counting the substantiated factors and asking whether the injury "mainly" arose out of reasonable
+> management action. That approach has since been addressed by the Industrial Court in Adams and
+> Mahaffey, neither of which is cited in the decision, and neither of which permits an unreasonable
+> stressor to be neutralised by the number of reasonable ones.*
+
+⛔ **No adjective. No allegation. And it is the reason the appeal exists.**
