@@ -913,3 +913,142 @@ acted for WorkCover. **It asks whether anyone checked.**
 - ⚠ **The Queensland Ombudsman is the correct forum for a SYSTEMIC complaint about review
   independence.** ⛔ **Behind the WC settlement. Not in August 2026.**
 - ⛔⛔ **Nothing published. Nothing alleged. Two neutral questions — §7.8 and §11.4.**
+
+---
+
+# PART 12 — ⭐⭐⭐ THE DECISION READ AS AN INSURER-SIDE WORK PRODUCT
+> 8 August 2026. **Cory's framing, applied properly.** ⛔⛔ **THIS IS AN ANALYTICAL EXERCISE — it
+> asks how well the document fits the hypothesis of a WorkCover defendant-side solicitor. It
+> asserts nothing.** Facts at `RD69983-SYNTHESIS.md`.
+
+## 12.1 ⭐⭐⭐ WHAT FITS — AND SEVEN THINGS FIT WELL
+
+### **1. ⭐⭐⭐ THE AUTHORITY SET IS THE DEFENDANT'S CANON. ALL FOUR OF THEM.**
+
+| Case | What it does for an insurer |
+|---|---|
+| ⭐⭐⭐ ***Bowers*** [2002] QIC 18 | ***"management action need not be perfect or above criticism and reasonable management action permits some failings, deficiencies and flaws"*** — ⭐⭐⭐ **THE shield case. It is quoted verbatim at p 18** |
+| ⭐⭐⭐ ***Delaney*** [2005] QIC 11 | **Global evaluation** — ⭐⭐ **lets you sweep an UNREASONABLE factor into a REASONABLE whole.** The aggregation engine |
+| ***Prizeman*** [2005] QIC 53 | Management-action line |
+| ***Rowe*** [2009] QIRC 9 | Management-action line |
+
+⇒ ⭐⭐⭐ **That is the standard defendant-side s 32(5)(a) bundle, and nothing else appears.**
+
+### **2. ⭐⭐⭐ AND THE WORKER'S CASE IS ABSENT.**
+***Mahaffey* [2016] ICQ 10 at [51], [54]–[57]** — **a single unreasonable stressor with sufficient
+causal connection suffices.** ⭐⭐ **It is the worker's authority on this subsection.**
+⛔⛔ **Not cited, not distinguished, not mentioned. And it post-dates every case that IS cited by
+seven years.** ⇒ ⭐⭐ **An insurer-side precedent bank has no reason to contain it.**
+
+### **3. ⭐⭐⭐ *DELANEY* IS USED AS AN AGGREGATION DEVICE AND ITS THRESHOLD IS NEVER TESTED.**
+*Delaney* permits global evaluation **only** where actions are joined by **subject matter, time and
+personality**. ⭐⭐ **That threshold is the WORKER'S protection.** ⛔ **It is recited and then
+skipped** — and factors 2, 3 and 4 differ in all three respects. ⇒ ⭐⭐⭐ **Using *Delaney* while
+declining to test its precondition is exactly how a defendant deploys it.**
+
+### **4. ⭐⭐ THE COUNTING FORMULA PRODUCES "MAINLY".**
+*"two out of the three… **mainly** arose out of such management action."* ⭐⭐ **"Mainly" is a
+dominant-cause test** — **what defendants argue for, and what *Adams* [2015] ICQ 1 [23], adopting
+*Hochen*, rejected.**
+
+### **5. ⭐⭐ THE CONCEDE-AND-HOLD STRUCTURE IS LITIGATION TECHNIQUE.**
+**Give away factors 3 and 4 at factor level; hold the outcome at aggregation.** ⭐⭐⭐ **Conceding the
+indefensible to protect the defensible is what advocates are trained to do.** ⭐ It also produces a
+document that reads balanced — **which is exactly how it read to me until Cory corrected it.**
+
+### **6. ⭐⭐⭐ THE POST-INJURY ERROR IS THE MOST REVEALING TELL OF ALL.**
+Factor 2's reasonableness rests on meetings of **12 and 16 July 2024** — after the **18 June**
+injury.
+
+> ⭐⭐⭐ **The pre/post-injury boundary matters to the STATUTORY TEST. It does not matter at all to a
+> "did the employer behave reasonably?" narrative.**
+> ⇒ ⭐⭐⭐ **Reaching for post-injury conduct is the error you make when you are building an
+> EMPLOYER-CONDUCT DEFENCE, not when you are applying s 32(5)(a).**
+
+⭐⭐ **That is a defence-brief instinct showing through a statutory decision.**
+
+### **7. ⭐⭐ THE DMS FIELDS THEMSELVES USE OPPOSING-PARTY LANGUAGE.**
+- `/hgDMSAddressee` = ⭐⭐ ***"Worker applicant - Mr Cory Shepherd"*** — **party designation. That is
+  how a firm labels the OTHER SIDE**, not how an agency labels a correspondent.
+- `/hgDMSDescription` = ⭐ ***"Reasons for decision - WCR reject"*** — **the record carries the
+  OUTCOME**, and the record is dated **09.10.2024**, thirteen days before the decision of 22 Oct.
+  ⚠⚠ **BUT: a DMS description can be edited at any later save while the date field stays at
+  record creation. ⛔ It CANNOT be said the outcome was known on 9 October.**
+- ⭐ **And the patient-safety element was dropped** — clinical risk raises the stakes; a defence
+  framing naturally reduces it to a consultation complaint.
+
+---
+
+## 12.2 ⛔⛔ WHAT DOES NOT FIT — AND ONE OF THESE IS VERY STRONG
+
+### **1. ⭐⭐⭐ THE SENTENCES THAT DESTROY THE INSURER'S CASE ARE IN THE DOCUMENT.**
+⛔⛔ **This is NOT the "it overturned WorkCover twice" argument Cory demolished. That was about the
+OUTCOME. This is about specific sentences.**
+
+**The decision states, in the Regulator's own reasons:**
+- ⭐⭐⭐ *"I am satisfied your employment was **a significant contributing factor** to the
+  psychological injury"*;
+- ⭐⭐⭐ Dr Hawes, 2 Sep 2024: ***"work events were the SOLE CAUSE"***;
+- ⭐⭐⭐ ***"there was NO PRE-EXISTING FACTOR OR CONDITION"***;
+- ⭐⭐⭐ **factor 4 — UNREASONABLE MANAGEMENT ACTION.**
+
+⇒ ⭐⭐⭐ **The Regulator's SOFC ¶22(f) now DENIES causation and ¶8 pleads a pre-existing condition.
+The Regulator is litigating against its own document.**
+
+> ⭐⭐⭐ **A defendant-side insurance litigator knows that rejecting on s 32(5)(a) while expressly
+> CONCEDING s 32(1) hands the worker the causation gate on appeal. That is an elementary tactical
+> error, and an insurance litigator does not make it.**
+
+### **2. ⭐⭐⭐ OIR'S OWN LETTERHEAD TEMPLATE IS IN THE FILE.**
+Alpha-PNG crest and rule — **template assets.** ⛔ **A firm acting for WorkCover does not hold the
+Regulator's Word letterhead.** ⇒ **Either OIR supplied it, or an earlier OIR review decision was
+used as the precedent. Both mean an OIR relationship, not a WorkCover one.**
+
+### **3. ⭐ WORKCOVER HAS NO STANDING TO INSTRUCT ANYONE AT REVIEW.**
+**s 543** gives the **worker** a right of appearance and representation. **s 544** gives the
+insurer **only** a duty to produce documents on demand. ⇒ **WorkCover is not a represented party.**
+
+### **4. ⭐ THE DELEGATION IS PROPER ON ITS FACE.**
+Signed by a **public service employee** — **s 329** satisfied. **s 326(4)** requires her to act
+independently **when making the decision**, and nothing shows she did not.
+
+---
+
+## 12.3 ⭐⭐⭐ THE RESOLUTION — AND IT IS SHARPER THAN EITHER EXTREME
+
+**Put the two columns together:**
+- The **authorities** are insurer-side. The **structure** is litigation technique. The
+  **post-injury error** is a defence-brief instinct.
+- But the **tactical awareness is completely absent** — nobody protected the s 32(1) gate, and
+  nobody noticed that conceding it would hand the appellant causation.
+
+> ⭐⭐⭐ **CONCLUSION: this reads as a DEFENDANT-SIDE PRECEDENT APPLIED WITHOUT A LITIGATOR'S EYE.**
+> **Not a WorkCover panel litigator drafting to protect WorkCover — a document assembled from
+> insurer-side materials by someone not thinking about the appeal that would follow.**
+
+⭐⭐⭐ **Which is precisely the "assembly, not authorship" finding at `RD69983-SYNTHESIS.md` §3.1 —
+now with an explanation for WHY the errors all run one way: THE BIAS IS IN THE TEMPLATE, NOT
+NECESSARILY IN THE PERSON.**
+
+---
+
+## 12.4 ⭐⭐⭐ THE ONE THING HE CAN ACTUALLY SAY IN COURT
+
+**Everything above collapses into a single submission that alleges nothing and needs no metadata:**
+
+> ⭐⭐⭐ ***"The reasons apply the respondent's own line of authority — Bowers, Delaney, Prizeman and
+> Rowe — and do not cite Mahaffey, which is the leading appellate authority on section 32(5)(a) and
+> post-dates every case relied on by seven years. Delaney is applied without its threshold being
+> tested. And the reasonableness finding on factor 2 rests on conduct that post-dates the
+> injury."***
+
+| | |
+|---|---|
+| ⭐⭐⭐ **It is a submission about THE REASONS** | ⛔ **not an allegation about the author** |
+| ⭐⭐⭐ **Every element is on the face of the decision** | ⛔ **no metadata, no firm, no forensics** |
+| ⭐⭐ **The Commission will know *Mahaffey*** | ⭐ It is Industrial Court authority binding on the Commission |
+| ⭐⭐ **And it is unanswerable** | ⭐ The Regulator cannot explain why its own delegate ignored the leading case |
+
+⛔⛔ **THE HARD LINE STAYS.** ⭐ **Say it about the reasons. Never about the firm.** ⛔ **The firm's
+name does not enter a filing, a submission, or a sentence spoken in that room.** ⭐⭐ **The two
+neutral questions at §7.8 and §11.4 are the only place any of this touches paper.**
