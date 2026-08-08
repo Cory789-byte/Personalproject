@@ -333,3 +333,78 @@ scheme assumes reviews can be wrong and builds the cure in. He is standing in th
 > ⭐⭐⭐ **And Parliament already wrote the remedy: s 558(1)(c) lets the Commission set aside and
 > substitute, and s 558(2) makes that the insurer's decision. The statute's cure for a wrong
 > review is the appeal. He is in it.**
+
+---
+
+# PART 7 — ⛔ DOES IT CROSS INTO CRIMINAL TERRITORY? NO.
+> 8 August 2026. Provisions verified against source today, not from memory.
+
+## 7.1 THE ONLY REALISTIC CANDIDATE — AND IT FAILS ON ITS CENTRAL ELEMENT
+
+> ⭐⭐ **Criminal Code 1899 (Qld) s 92A — Misconduct in relation to public office. Max 7 years.**
+> *"A public officer who, **with intent to dishonestly gain a benefit** for the officer or another
+> person **or to dishonestly cause a detriment** to another person—(a) deals with information
+> gained because of office; or (b) performs or fails to perform a function of office; or (c)…
+> does an act or makes an omission **in abuse of the authority of the office**; is guilty of a
+> crime."*
+
+⛔⛔⛔ **The whole section turns on "with intent to DISHONESTLY."** ⭐⭐ **Obtaining drafting
+assistance — even from a badly-chosen firm — is not dishonest.** There is **no benefit**, no
+evidence of **intent**, and nothing whatever pointing to **dishonesty**.
+⇒ ⛔ **Not engaged, and not arguable on anything in this file.**
+
+## 7.2 EVERY OTHER OFFENCE, AND WHY EACH FAILS
+
+| Provision | Why not |
+|---|---|
+| **s 87 — Official corruption** | ⛔ Requires **corruptly** asking for or receiving **property or a benefit**. **Nothing** |
+| **s 408C — Fraud** | ⛔ Requires dishonest application/obtaining of property or benefit. **Nothing** |
+| **s 488 — Forging and uttering** | ⛔ Requires a **false document**. ⭐ **The decision is not false.** It says what it says and was signed by the person who signed it |
+| **s 140 — Attempting to pervert justice** | ⛔ "Course of justice" means judicial/quasi-judicial proceedings. ⭐ **An administrative review on the papers is not that** — and intent would still be required |
+| **Perjury** | ⛔ **Nothing is sworn** |
+| **Public Sector Ethics Act 1994** | ⛔⛔ **Creates NO offences.** Contravention does not of itself give rise to civil or criminal liability — it is a **disciplinary** framework |
+| **Legal Profession Act 2007** | ⛔ **Professional misconduct is NOT criminal.** LSC → QCAT, disciplinary only |
+
+## 7.3 ⚠ THE ONE DOOR THAT IS TECHNICALLY AJAR — AND IT IS NOT A CRIME EITHER
+
+**Crime and Corruption Act 2001 (Qld) s 15 — "corrupt conduct".**
+⛔⛔ **CORRUPT CONDUCT IS NOT AN OFFENCE.** It is a **jurisdictional trigger** for CCC involvement.
+
+**Type A** requires conduct affecting a public officer's performance so that it **"is not honest OR
+impartial"**, or knowingly/recklessly breaches public trust, or misuses agency information —
+**AND** that the conduct would, if proved, be **a criminal offence OR a disciplinary breach
+providing reasonable grounds for terminating the person's services.**
+
+⚠ ⭐ **Note the two disjuncts: "not honest OR IMPARTIAL", and "criminal offence OR DISCIPLINARY
+BREACH".** ⇒ ⚠ **In theory the impartiality limb plus the disciplinary limb could be argued
+WITHOUT any criminality.** ⛔⛔ **But it still requires the impartiality failing to be ESTABLISHED,
+not hypothesised — and what exists is a metadata field.**
+
+## 7.4 ⭐⭐⭐ WHY THE ANSWER IS STRUCTURALLY "NO", NOT JUST EVIDENTIALLY
+
+> ⭐⭐⭐ **Every offence that could conceivably touch this requires DISHONESTY or a CORRUPT BENEFIT
+> as an element.**
+> ⭐⭐⭐ **What the hypothesis describes, at its very worst, is a PROCEDURAL and PROFESSIONAL
+> failing — the wrong firm engaged, or a draft shown to one side. Those are administrative-law and
+> disciplinary wrongs. The criminal law is not aimed at them.**
+
+⛔ **So it is not a question of needing more proof. Even fully proved, it would not be a crime.**
+
+## 7.5 ⛔⛔⛔ AND FOUR REASONS NOT TO GO NEAR THIS
+
+1. ⛔⛔⛔ **Defamation at its most serious.** Alleging **criminal conduct** against a named public
+   servant and a named firm, founded on a metadata field, with **no truth defence available**.
+2. ⛔⛔ ***Briginshaw*.** He carries the onus in the appeal and needs **clear and cogent evidence**.
+   ⭐⭐ **A self-represented appellant who alleges criminality on this material is finished as a
+   witness — on every issue, not just this one.**
+3. ⛔⛔ **Standing discipline rule 2 — the word "fraud" never appears in the WC track.** ⭐ **This is
+   precisely the territory that rule exists to keep out.**
+4. ⚠ **He has already lodged a CCC complaint** (referenced in his 9 October 2024 draft reply).
+   ⭐ **A second complaint on this footing would compound, not strengthen.**
+
+## 7.6 ⭐⭐ AND THE REFRAME THAT MATTERS
+
+⭐⭐⭐ **The absence of criminality is good news, not bad.** What he actually wants is **the claim
+accepted** — and that comes from **s 558(1)(c)**, exercised by the Commission, on the medical and
+factual evidence. **A criminal frame would be a detour that costs him the case and delivers
+nothing he wants.**
