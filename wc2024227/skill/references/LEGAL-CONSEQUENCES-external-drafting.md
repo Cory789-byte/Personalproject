@@ -408,3 +408,87 @@ not hypothesised — and what exists is a metadata field.**
 accepted** — and that comes from **s 558(1)(c)**, exercised by the Commission, on the medical and
 factual evidence. **A criminal frame would be a detour that costs him the case and delivers
 nothing he wants.**
+
+## 7.7 ⭐⭐ CORY'S COUNTER — "there IS detriment and benefit, and the chosen authorities show it"
+
+**His argument: WorkCover benefits (no liability), MSH benefits (no claim), he suffers detriment
+(no compensation); the selected features and authorities evidence the intent; so if the decision is
+overturned, s 92A is engaged.**
+
+### ⭐⭐ HE IS RIGHT ON TWO OF THE THREE ELEMENTS — verified today
+
+| Element | Status |
+|---|---|
+| **Public officer** | ✅ **Satisfied** — a reviewing officer is a public officer |
+| ⭐ **"Benefit"** | ✅ ⭐⭐ **Satisfied. Criminal Code s 1 defines it very broadly:** *"includes property, **advantage**, service… and **anything of benefit to a person whether or not it has any inherent or tangible value, purpose or attribute**."* ⇒ **An insurer avoiding statutory liability is plainly a benefit** |
+| ⭐ **"Detriment"** | ✅ **Satisfied** — s 1: *"detriment caused to a person, **includes** detriment caused to a person's property."* ⇒ **Losing a compensation entitlement is plainly a detriment** |
+| ⛔⛔⛔ **"DISHONESTLY" + intent** | ⛔⛔⛔ **NOT satisfied, and this is the whole case** |
+
+### ⛔⛔⛔ 7.7.1 WHY "DISHONESTLY" DEFEATS IT — and why the law must draw the line there
+
+⭐⭐ **A wrong decision is not a dishonest one.** Reasoning selectively, preferring one line of
+authority, misapplying a test, miscounting factors — **these are ERRORS.** The entire architecture
+of internal review (s 538), Regulator review (s 545) and appeal (ss 549, 558) exists **because
+administrative decision-makers make them constantly.**
+
+⇒ ⭐⭐⭐ **If "reached the wrong conclusion using authorities favourable to one side" were criminal,
+every administrative decision-maker in Queensland would be exposed.** ⭐⭐ **Appeals exist so that
+error is corrected WITHOUT criminalising the decision-maker.** ⛔ **That is a structural feature of
+the law, not a gap in his evidence.**
+
+### ⛔⛔⛔ 7.7.2 "IF OVERTURNED, THEN YES" IS EXACTLY BACKWARDS
+
+⭐⭐⭐ **An overturn on this appeal will be SILENT ON HER CONDUCT, BY DESIGN.**
+
+- **s 558(1)(c)** — the Commission **substitutes its own decision**. It is a **merits** exercise.
+- **It hears the matter DE NOVO, on a LARGER record** — the psychiatric report she never saw, oral
+  evidence, cross-examination of Ms Taylor, documents produced under the 64G.
+- ⭐⭐⭐ **The Commission never rules on whether she erred. It decides afresh.**
+
+⇒ ⭐⭐⭐ **An overturn proves that a different tribunal, on different and better evidence, reached
+a different view. It says NOTHING about whether the original decision was honestly made — and it
+cannot, because that question is never before the Commission.**
+
+### ⭐⭐⭐ 7.7.3 AND THE "CHOSEN AUTHORITIES" POINT CUTS AGAINST HIM
+
+**The pattern he has identified is real:** authorities all **2002–2009**, all in the
+insurer-favourable management-action line; **factor 2 substantiated against him yet counted in
+"two out of three"**; concessions at factor level with the outcome preserved at aggregation.
+
+⛔⛔ **But look at what is MISSING.** ***Mahaffey* [2016] ICQ 10 — the leading appellate authority
+on the very subsection in issue — is not cited, not distinguished, not mentioned.**
+
+> ⭐⭐⭐ **Someone deliberately curating favourable authority DEALS WITH the leading case against
+> them. They distinguish it, confine it to its facts, or explain why it does not apply. They do not
+> omit it — because omitting it is precisely what gets a decision overturned.**
+
+⇒ ⭐⭐⭐ **Omitting the leading case is the signature of NOBODY HAVING LOOKED, not of someone having
+CHOSEN. Absence of research is evidence AGAINST deliberate curation.**
+⭐⭐ **And the forensics confirm it: two of the five citations are tagged EN-US, pasted from a
+standing precedent block. That is REUSE, not SELECTION.**
+
+### ⚠ 7.7.4 NAME THE ACCUSED, AND THE THEORY BECOMES CONCRETE
+
+**s 92A requires a PUBLIC OFFICER.** A law firm is not one. ⇒ ⛔⛔ **The person who would have to
+be alleged to have acted with intent to dishonestly cause him detriment is MS VICTORIA SQUIRES,
+personally.**
+
+**On the same document she:**
+- **overturned WorkCover on factor 3** (not substantiated → substantiated);
+- **found factor 4 UNREASONABLE management action** where WorkCover said reasonable;
+- worked to a **25-business-day deadline she had NO power to extend** (s 545(4)) and decided on
+  **the last available day**.
+
+⚠⚠ **And the internal contradiction:** ⭐⭐ **a person intending to dishonestly cause him detriment
+does not hand him two findings that become the best assets in his appeal.** ⛔ Those concessions
+create appeal points. **A dishonest actor does not manufacture ammunition for the person they are
+trying to harm.**
+
+### ⭐⭐ 7.7.5 WHAT HE KEEPS
+
+⛔ **He loses the criminal frame.** ⭐⭐ **He does NOT lose the observation.** The selective-authority
+pattern is **exactly the material for the two arguments that require no dishonesty at all:**
+1. ⭐⭐ **Apprehended bias** — *Ebner*: a fair-minded lay observer, **no actual partiality required**.
+2. ⭐⭐⭐ **The s 543 / s 544 participation asymmetry** — Part 6.4.
+
+⭐⭐⭐ **The observation is worth keeping. The frame is what has to go.**
