@@ -835,3 +835,81 @@ request for the Regulator's OWN administrative record, which is unremarkable:**
 
 ⛔ **Still no firm named. Still a question.** ⭐ **But it is now a question with a documented
 foundation, and the answer is a fact the Regulator holds and can give in one line.**
+
+---
+
+# PART 11 — HOW A FIRM ENDS UP WITH OIR'S LETTERHEAD, AND WHETHER THAT IS "INDEPENDENT"
+> 8 August 2026. Cory: *"why would Hopgood have the OIR stamp and claim independence when they're
+> a WorkCover insurer legal team… why is their own letterhead on a Hopgood firm's document."*
+
+## 11.1 ⛔ FIRST, A CORRECTION TO PART 10.4 — I MADE IT MORE MYSTERIOUS THAN IT IS
+
+**I wrote *"someone at OIR gave them the template."*** ⚠ **The simplest routes need no template
+transfer at all.** Four ways, ranked by how much evidence each explains:
+
+| | Route | Explains |
+|---|---|---|
+| ⭐⭐⭐ **D** | **They worked from an EARLIER OIR REVIEW DECISION as a precedent** | ⭐⭐⭐ **The most economical by a distance.** It explains the letterhead **and** the pre-2009 authorities **and** the EN-US pasted citations **and** the recycled appeal-rights block carrying a Mimecast wrapper. ⚠ **And it implies they had done Regulator review decisions before** |
+| ⭐⭐ **B** | **OIR sent them the DRAFT**, already on letterhead, and they worked in it | ⭐⭐ Letterhead, boilerplate, **v1**. ⚠ Sits awkwardly with `/Author` + `/Company` unless a scrubber rewrote them |
+| ⭐ **A** | **OIR supplied the template** on engagement | Letterhead only |
+| ⭐ **C** | **They hold OIR templates from ongoing panel work** | Letterhead only |
+
+⛔ **B, C and D all require a prior or current OIR relationship. NONE of them requires WorkCover.**
+
+## 11.2 ⚠ THE IMAGE TEST — RUN, AND INCONCLUSIVE
+
+**Compared the Review Decision's three images against every Regulator document held.** ⛔ **No
+match.** The Regulator's SOFCs (2025 ×2, 2026) share **14 identical images** with each other —
+a stable litigation template — but **none is the Review Decision's crest, rule or signature.**
+
+⚠⚠ **This proves nothing either way.** A **Review Unit decision** and a **litigation SOFC** are
+different document types on different templates; different assets are expected. ⭐ **What can be
+said: the Review Decision's letterhead is three clean alpha-PNG assets. It is a well-made
+template, not a reconstruction or a screenshot.**
+
+## 11.3 ⭐⭐⭐ THE REAL ANSWER — TWO QUESTIONS ARE BEING RUN TOGETHER
+
+| | |
+|---|---|
+| **"Is it LAWFUL for a firm to draft the reasons?"** | ⭐ **Yes.** Agencies brief external lawyers to prepare decisions and reasons constantly. The decision-maker must apply her own mind — **s 545** requires *the Regulator* to decide, **s 329** requires an appropriately qualified public service employee, and **Victoria Squires is one**. ⇒ **Proper on its face** |
+| ⭐⭐⭐ **"Is it INDEPENDENT?"** | ⭐⭐⭐ **This is where he is right, and it is a different question** |
+
+**The independence Chapter 13 advertises is independence OF THE INSURER.** The decision says so at
+p 2: *"an independent administrative process or a 'review on the papers'."* **The entire purpose is
+that someone other than WorkCover examines WorkCover's decision.**
+
+> ⭐⭐⭐ **If the Regulator reached for a firm that sits on WorkCover's own legal services panel and
+> is Doyle's-ranked as a leading WorkCover DEFENDANT firm, then even with every step lawful, the
+> independence the process advertises is damaged in APPEARANCE.**
+
+⭐⭐ **And appearance is the correct legal standard.** The test for **apprehended bias** is whether
+**a fair-minded lay observer might reasonably apprehend** that the decision-maker might not bring
+an impartial mind. ⛔ **It does not require actual partiality, and it does not require proof that
+anyone did anything wrong.**
+
+⇒ ⭐⭐⭐ **His question has a precise legal home. It is not conflict of interest. It is
+APPREHENDED BIAS / want of apparent independence.**
+
+## 11.4 ⭐⭐ AND THERE IS A FAIR PROCESS QUESTION UNDERNEATH IT
+
+**Queensland government legal procurement requires conflict declarations.** ⭐⭐ **A firm on
+WorkCover's panel accepting OIR work on a review OF a WorkCover decision should have declared the
+relationship, and OIR should have considered it.**
+
+⇒ ⭐⭐⭐ **That is a PROCESS question, it accuses nobody, and OIR can answer it in one line:**
+> *"was a conflict declaration sought and considered in relation to any external provider engaged
+> on review 69983?"*
+
+⭐⭐ **This is the best-formed version of his concern yet.** It does not require proving the firm
+acted for WorkCover. **It asks whether anyone checked.**
+
+## 11.5 ⛔ WHERE IT GOES — SAID ONCE
+
+- ⛔ **Not a ground of appeal.** **s 550 is de novo.** Apprehended bias in the review is legally
+  irrelevant to what the Commission must decide.
+- ⛔ **Judicial review remedy = remittal for re-review.** ⭐ **Worse than the hearing he has.**
+- ⭐ **What it IS worth:** a well-founded, unanswered question about how the review was produced
+  has **settlement value** without ever being asserted.
+- ⚠ **The Queensland Ombudsman is the correct forum for a SYSTEMIC complaint about review
+  independence.** ⛔ **Behind the WC settlement. Not in August 2026.**
+- ⛔⛔ **Nothing published. Nothing alleged. Two neutral questions — §7.8 and §11.4.**
