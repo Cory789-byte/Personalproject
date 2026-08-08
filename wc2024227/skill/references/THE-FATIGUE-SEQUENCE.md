@@ -999,3 +999,66 @@ system they concentrate.**
 
 ⛔ **Still never:** *disregard · pattern of failure · systemic hostility · suppression · again · as
 usual.* **Five dates and five authors do the work. The tribunal supplies the rest.**
+
+---
+
+# PART 14 — ⭐⭐⭐ THE LOOP: she sent him to payroll, payroll sent him back to her
+
+> **Cory, 8 August 2026: she also sent an email asking him to ask payroll.**
+> **Verified — Review Decision 69983 p 21. It closes the circuit.**
+
+## 14.1 THE CIRCUIT, WITH ITS AUTHORS
+
+| Date | Who → who | What |
+|---|---|---|
+| **9 Apr 2024** | ⭐ **Taylor → him** | *"she asked for you to **submit an enquiry through MyHR payroll enquiries** so they can investigate your entitlements for public holiday not required payments, since they are older than 3 months"* |
+| **3 May 2024** | ⭐⭐ **Payroll (Grant) → Taylor** | *"requested Ms Taylor to submit an AVAC to correct the shifts"* — **ADMITTED ¶40** |
+| **10 May 2024** | **Him → payroll** | Raises *"Ms Taylor's challenges with payment processing"* |
+| ⭐⭐⭐ **13 May 2024** | **Payroll → him** | *"they could not see that any issues had been corrected. They instructed for you to **speak to Ms Taylor** to have them corrected with a submission of an AVAC"* |
+| ⭐⭐⭐ **21 May 2024** | **Taylor → him** | *"she was **awaiting payroll confirmation**… as soon as she received it, she would submit an AVAC"* |
+| **28 May 2024** | Taylor | AVAC signed — **25-day delay, ADMITTED ¶41** |
+
+⇒ ⭐⭐⭐ **She sent him to payroll. Payroll sent him back to her. She then said she was waiting on
+payroll.**
+
+## 14.2 ⭐⭐ WHY THIS IS STRONGER THAN THE 21 MAY EMAIL ALONE
+
+1. **It is not one statement that might be explained. It is a circuit.**
+2. ⭐⭐⭐ **Payroll's 13 May email is authored by a third party, and it expressly routes him back to
+   her.** The loop is established by someone outside the dispute.
+3. ⭐ **He did exactly what he was told, twice, and ended up where he started.**
+
+## 14.3 ⚠ BE PRECISE ABOUT THE SUBJECT MATTER — a cross-examiner will be
+
+The three directions are **overlapping but not identical**:
+- **9 April** — the **older public-holiday** entitlements (>3 months), to MyHR payroll enquiries.
+- **3 May and 13 May** — the **AVAC for the shifts.**
+
+⛔ **Do not present it as a perfect loop on one subject. If the subjects are separated, she escapes
+it.**
+
+⭐ **The tight, unassailable core is the 13 May / 21 May pair** — same subject (the AVAC), eight
+days apart, one instructing him to return to her and the other saying she was waiting on them.
+⭐ **The 9 April direction adds the earlier "go to payroll yourself" limb and makes the circuit
+visible — but it must be described as what it was.**
+
+## 14.4 ⭐⭐⭐ THIS IS THE CLEANEST DOCUMENTED INSTANCE OF THE PLEADED MECHANISM
+
+**The case theory is: *responsibility imposed, and the means to discharge it withheld.***
+
+- **She could submit the AVAC. He could not.**
+- **She directed him to pursue it with payroll** — a process he had **no authority to complete**.
+- **Payroll directed him back to her** — because she was the only one who could do it.
+- **She then said she was waiting on payroll.**
+
+⇒ ⭐⭐⭐ **He was made responsible for progressing something only she could action.**
+
+**That is not a characterisation. It is the structure of the process, established from three
+authors** — and it is **cleaner than the fatigue thread**, because there is no clinical question,
+no policy question and no medical opinion in it at all. **It is pure process, and it is admitted at
+both ends (¶40 and ¶41).**
+
+⭐ **The same shape appears in the fatigue thread:** on 9 April she escalated it to HR while asking
+**him** to raise concerns *"as soon as they arise so she could action them sooner."*
+⛔ **Safe form only:** *in both matters the step required to progress it could be taken only by
+someone other than him, and in both he was the one asked to pursue it.* **No adjective.**

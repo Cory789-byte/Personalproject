@@ -279,11 +279,18 @@ did know, **the assertion is what gets remembered.**
 **Goes after Block 4. It closes the only live contest on Stressor 2(b)** — ¶41 admits the 25-day
 delay and contests **only the justification.**
 
-> On 3 May 2024 Ms Grant of payroll asked you to submit an AVAC to correct the shifts? · On 21 May
-> 2024 you wrote to Mr Shepherd that you were **awaiting payroll confirmation**? · And that as soon
-> as you received it you would submit an AVAC for the next pay run? · **What confirmation were you
-> waiting for?** · Were you aware payroll had written to Mr Shepherd on 13 May saying nothing had
-> been corrected and that he should return to you? · The AVAC was signed on 28 May 2024?
+> On 9 April 2024 you asked Mr Shepherd to submit an enquiry through MyHR payroll enquiries? · On
+> 3 May 2024 Ms Grant of payroll asked **you** to submit an AVAC to correct the shifts? · On 13 May
+> 2024 payroll wrote to Mr Shepherd saying nothing had been corrected and that he should speak to
+> you? · On 21 May 2024 you wrote to him that you were **awaiting payroll confirmation**? · **What
+> confirmation were you waiting for?** · The AVAC was signed on 28 May 2024? · ⭐⭐⭐ **Could Mr
+> Shepherd have submitted that AVAC himself?**
+
+⭐⭐⭐ **The last question is closed and the answer is no — an AVAC is submitted by the manager.** It
+establishes that **the only person who could act was the person who said she was waiting.**
+⚠ **Keep the subjects straight** (`THE-FATIGUE-SEQUENCE.md` §14.3): the 9 April direction concerned
+the older public-holiday entitlements; 3 and 13 May concerned the AVAC. **The 13 May / 21 May pair
+is the unassailable core.**
 
 ⚠ ***"What confirmation were you waiting for"* is the one open question permitted in the whole
 cross** — because **any** answer helps:
