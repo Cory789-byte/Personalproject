@@ -3327,3 +3327,41 @@ recorded on that date (`CHRONOLOGY-SHIELD-post-injury-events.md`).
 `lodgement/WC2024227_Form20_FINAL.md` ¶41 **still carries an admitted-fact tag**, while
 `lodgement/PRE-LODGEMENT-CHECKLIST.md` records ¶41 as settled to carry **no such tag**.
 ⛔ **Resolve before the affidavit is used again.**
+
+## ⛔⛔⛔ THE PARA 37 ERROR IS IN A SWORN AFFIDAVIT — TOP PRE-FILING ITEM
+**`lodgement/WC2024227_Form20_FINAL.pdf` ¶41 asserts ON OATH that the Respondent admits "both
+findings (Admitted Fact: Form 24, Para 37)."**
+⛔ **Notice ¶37 → Response row 34 admits only the CONTENTS of the review unit decision, relevance
+reserved. There is no admission anywhere of the unreasonable-management-action finding — Notice
+¶2 → row 2 expressly refuses it.**
+
+**The same error is in:** `WC2024227_Form_4_Application_Rule_64G.pdf/.docx` ·
+`WC2024227_Form4_FINAL` Item 1 · `drafts/WC2024227_Application_v5.3_signed_master.docx` ·
+Stressor 3(d) of the filed Amended 9A · **and the SERVED Calderbank #2.**
+⛔⛔ **`lodgement/PRE-LODGEMENT-CHECKLIST.md` records this fix as "settled". It was never applied
+to any document.** ⇒ **A checklist entry is not a fix. Verify against the document, never the
+checklist.**
+
+### ⭐ FULL AUDIT OF ALL 15 "ADMITTED FACT" TAGS — ONLY THREE ARE CLEAN
+**Clean: ¶1 · ¶20 · ¶40.** Everything else is Type B, denied, mis-mapped or unsupported.
+⚠ **¶14 is tagged to the quote *"I took it out last week"* — that quote appears nowhere in the
+Notice.** ¶14 is the raised-voice admission.
+⚠ The clean-baseline tag (¶34) is **Type B and actively contested by row 32** (anxiety/ADHD from
+26 Oct 2022).
+
+### ⭐⭐ AND THE PLEADING ARGUES AGAINST ITSELF
+**Contention 2(a) pleads *Delaney* — the exact global-evaluation reasoning Squires used at p. 27
+to dilute the finding.** It undercuts the *Mahaffey* single-stressor structure at 2(b).
+⇒ ⭐ **This is the composite-course problem, now confirmed from source: the pleading invites the
+dilution it needs to defeat.**
+
+### ⭐ THE UMA FINDING IS THE DELEGATE'S OWN — PARTIAL RESOLUTION
+**Review Decision 69983, p. 26: *"**I find** the rostering of these two shifts amounted to
+unreasonable management action…"*; p. 27 Conclusion: *"factor 4 amounted to unreasonable management
+action."*** ⇒ The UMA finding **is** the delegate's own.
+⚠ **Findings B and C (sole cause / no pre-existing factor) remain unverified** — one audit says
+they are the delegate recording Dr Hawes. **Check pp. 16–17 and 25–27 before using either.**
+
+### ⛔ "NEVILLE" — CONFIRMED UNSUPPORTED
+**The only "Neville" hits in the entire repo are internal labels for this pleading.** There is no
+source for a 2006 Ombudsman report. ⇒ **It is the second "Independent Review Office." Do not use it.**
