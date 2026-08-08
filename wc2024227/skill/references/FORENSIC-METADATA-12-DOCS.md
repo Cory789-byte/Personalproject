@@ -193,3 +193,115 @@ not from a person's mailbox.
 | **2** | ⭐⭐ **The 6 September pack assembly window** | Context; shows the response was compiled in one morning |
 | **3** | ⭐ **ICD03 is system-generated** | Explains a document nobody had classified |
 | **4** | ⛔⛔ **The HopgoodGanim DMS profile** | ⭐ **ONE neutral disclosure request (§2.5). Nothing else. No allegation, no publication, and it is not a ground of appeal** |
+
+---
+
+# PART 7 — DEEP EXTRACTION (pikepdf 10.10.0 / qpdf, object level)
+> 8 August 2026. Everything above used exiftool and pdfinfo. **This part goes to the object
+> structure, the raw dictionaries, the images, and the tampering indicators.**
+
+## 7.0 ⛔ CORRECTION FIRST
+
+**Part 1 recorded the Review Decision as having "2 revisions".** ⛔ **That was wrong.** The two
+`%%EOF` markers are an artefact of **linearisation** (`/Linearized 1`, a 491-byte first-page stub).
+
+⇒ ⭐ **There is NO incremental save and NO earlier revision hiding in the file. It is a
+single-generation export.**
+
+## 7.1 THE RAW `/Info` DICTIONARY — 25 fields, verbatim
+
+```
+/Author              HopgoodGanim Lawyers      /Producer     Adobe PDF Library 24.3.212
+/Company             HopgoodGanim Lawyers      /Creator      Acrobat PDFMaker 24 for Word
+/CreationDate        D:20241024101652+10'00'   /ModDate      D:20241024101701+10'00'
+/Title /Subject /Keywords /Comments /SourceModified   — all empty
+/hgDMSMatter         2440758        /hgDMSMatter_Original      <mcDMSMatter>
+/hgDMSDocumentId     29218845v1
+/hgDMSAuthorName     hendry8286     /hgDMSAuthorName_Original  <mcDMSAuthorName>
+/hgDMSAddressee      Worker applicant - Mr Cory Shepherd   /…_Original <mcDMSAddressee>
+/hgDMSDescription    Reasons for decision - WCR reject     /…_Original <mcDMSDescription>
+/hgDMSDocType        DOCUMENT       /hgDMSDate  09.10.2024  /…_Original <mcDMSDate>
+/hgSaveDescription   Reasons for decision - WCR reject - Worker applicant -
+                     Mr Cory Shepherd - 09.10.2024
+```
+
+## 7.2 ⭐⭐⭐ THE `_Original` FIELDS ARE WORD MERGE-FIELD PLACEHOLDERS
+
+Every `hgDMS*` field is paired with an `_Original` holding an **unresolved token** — `<mcDMSMatter>`,
+`<mcDMSAddressee>`, `<mcDMSAuthorName>`, `<mcDMSDate>`, `<mcDMSDescription>`, `<mcDMSDocType>`.
+
+⭐⭐⭐ **Those are DOCPROPERTY / merge fields in a Word template. The pairing shows the template's
+placeholder AND the value the document management system substituted.**
+
+⇒ ⛔⛔ **This is not a stale author string surviving in a template. It is a firm's document
+automation resolving merge fields against matter 2440758.** **The "stale template" explanation is
+now excluded twice over.**
+
+## 7.3 ⭐⭐⭐ AND THE COUNTERWEIGHT — THE DOCUMENT'S FACE IS AUTHENTIC
+
+**Images extracted from the file:**
+
+| Page | Image | What it is |
+|---|---|---|
+| **1** | 130×188 PNG | ⭐⭐⭐ **The Queensland Government crest with *"Office of Industrial Relations"*** |
+| **2–28** | 1627×134 JPEG, identical on every page | The running OIR banner |
+| **28** | 443×276 greyscale JPEG | ⭐⭐ **A handwritten signature** |
+
+⇒ ⭐⭐⭐ **Everything VISIBLE about the document is authentic Office of Industrial Relations. The
+letterhead is genuine and it is signed. Only the invisible file metadata carries the firm.**
+
+**That has to be given full weight. It is the strongest single fact against the alarming reading.**
+
+## 7.4 ⭐ EVERY TAMPERING INDICATOR IS CLEAN
+
+| Test | Result |
+|---|---|
+| **Invisible text** (`3 Tr` render mode) | ⭐ **0 operators, on 0 pages** |
+| **Optional content / layers** (`/OCProperties`) | ⭐ **None** |
+| **JavaScript** | ⭐ **None** |
+| **AcroForm / form fields** | ⭐ **None** |
+| **Embedded files / attachments** | ⭐ **None** |
+| **Annotations** | 7 (links) |
+| **Orphaned objects** | **18 — every one structural** (linearisation xref and object-stream leftovers). ⭐ **No deleted content survives** |
+| **Digital signature** | ⚠ **None. The signature is an IMAGE** — the file is not cryptographically signed |
+
+⇒ ⭐⭐ **The document has not been altered, redacted over, layered, or tampered with in any way. It
+is a clean single-pass export from Word.**
+
+⚠ **One consequence worth noting: because it is not digitally signed, its integrity rests entirely
+on provenance** — which is precisely why the *"provide the decision as issued"* request matters.
+
+## 7.5 FONT SUBSET FINGERPRINT — this specific export session
+
+`MTJJWZ+ArialMT` · `USIFEJ+Arial-BoldMT` · `RTXIOP+Wingdings-Regular` · `DQWHAR+Arial-ItalicMT`
+
+⭐ **Subset prefixes are randomly generated per export.** They identify **this export session
+uniquely**, and would match any other PDF produced in the same session. **Recorded as a
+fingerprint; nothing to compare it against yet.**
+
+## 7.6 IMAGE-HASH COMPARISON ACROSS THE REGULATOR SET
+
+| Finding | |
+|---|---|
+| ⭐ **The 2025 and 2026 Regulator SOFCs share 13 identical images** | Same QIRC Form 9C template, a year apart — **template continuity confirmed** |
+| ⭐ One 169×71 image shared between the 2026 SOFC and the Form 24 Response | Both Regulator filings — expected |
+| ⚠ **The Review Decision's three images appear in no other document** | ⛔ **INCONCLUSIVE — and it must be reported as such.** There is **no other OIR letterhead *letter*** in the set to compare against. The SOFCs are QIRC forms; the disclosure is a scan pack. **Different document types entirely** |
+
+## 7.7 ⭐⭐⭐ WHAT THE DEEP EXTRACTION ACTUALLY CHANGED
+
+**It made the picture MORE nuanced, not more alarming. Both columns are now established:**
+
+| ⇒ Toward the firm's involvement being real | ⇒ Against the alarming reading |
+|---|---|
+| The DMS fields are **populated merge fields**, not stale properties | ⭐⭐⭐ **The letterhead is the genuine Queensland Government / OIR crest** |
+| **Three identity fields** — Author, Company, `dc:creator` — all name the firm | ⭐⭐ **The decision bears a handwritten signature** |
+| A **matter number**, a **document ID (v1)**, a **user ID**, an **addressee** and a **description** | ⭐⭐⭐ **It overturned WorkCover twice, against WorkCover** |
+| **`hgDMSDate 09.10.2024`** — 15 days before the reasons | ⭐⭐ **The file is forensically clean** — no hidden text, no layers, no deleted content |
+
+⇒ ⭐⭐⭐ **BEST SYNTHESIS, and it is where the evidence actually lands:**
+> **The document was produced through a law firm's document management system, and it presents as
+> an authentic Office of Industrial Relations decision. Both are true. The metadata cannot tell you
+> who wrote the reasoning.**
+
+⛔⛔ **The action is unchanged: ONE neutral disclosure request. No allegation. No publication.**
+(`HOPGOODGANIM-QUESTION.md` §4.4.)
