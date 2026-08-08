@@ -388,3 +388,120 @@ which closes the question cleanly and costs nothing.**
 ⚠ **NOT VERIFIED: which of the 14 categories HopgoodGanim actually holds.** The suppliers-by-category
 dataset could not be retrieved. ⛔ **Do not state that they hold "Public and administrative law" —
 state only that those categories exist on a panel of which they are a member.**
+
+---
+
+# PART 7 — ⛔⛔ CORY'S CORRECTION: "THIS IS A REVIEW DECISION, NOT AN APPEAL"
+> 8 August 2026, later still. ⭐⭐ **He is right, and Part 6 over-corrected. Part 6 §6.2 is
+> qualified below — the panel supplies a lawful ROUTE but it does not supply an OCCASION.**
+
+## 7.1 ⛔ WHAT PART 6 GOT WRONG
+
+**Part 6 §6.2 said the "how is a WorkCover firm doing this" surprise was *gone*.** ⛔ **Too strong.**
+It showed that OIR *could* lawfully engage the firm. ⭐⭐ **It did not show any reason why OIR
+would need to.**
+
+## 7.2 ⭐⭐⭐ THE POINT — A REVIEW IS NOT LITIGATION
+
+**The review decision says so on its own page 2:**
+> *"The review is an **independent administrative process** or a **'review on the papers'**. This
+> means that as **the decision-maker**, I have considered the material on WorkCover's claim file…"*
+
+**And OIR's own published description of the function:** *"**independent, prompt, non-adversarial**
+review of certain decisions made by insurers."*
+
+| At **review** (Ch 13, s 545) | At **appeal** (s 550, QIRC) |
+|---|---|
+| ⭐ **Non-adversarial. On the papers** | ⭐ **Adversarial. Contested hearing, de novo** |
+| ⭐⭐ **The Regulator is the DECISION-MAKER — not a party, not a contestant** | ⭐⭐ **The Regulator is the RESPONDENT — a party with a case to run** |
+| **Nobody to litigate against. Nothing to defend** | **A worker on the other side** |
+| **A standing internal unit doing core business** | **Representation is the whole point** |
+
+⇒ ⭐⭐⭐ **At review stage there is no litigation, no opponent and no case to defend. The occasion
+that normally justifies retaining a commercial law firm does not exist.**
+
+## 7.3 ⭐⭐⭐ AND HIS OWN FILE SHOWS THE REGULATOR'S ACTUAL MODEL
+
+**From this very matter:**
+
+| Stage | Who the Regulator actually uses |
+|---|---|
+| **Review, Oct 2024** | ⭐ **Ms Victoria Squires, Senior Reviewing Officer, Review Unit, WCRS** — **in-house** |
+| **Appeal, 2025–26** | ⭐ **Ms Renee Matheson, Senior Appeals Officer, `@oir.qld.gov.au`** — **in-house** |
+| **Appeal, when external help is needed** | ⭐⭐ **Ms Lisa Willson — panel COUNSEL. A barrister, briefed for the hearing** |
+
+⇒ ⭐⭐⭐ **The Regulator's demonstrated model is: in-house officers throughout, and at the
+adversarial stage, a briefed BARRISTER — not a commercial solicitors' firm.** ⭐⭐ **A
+solicitors' DMS profile on a non-adversarial review decision does not fit the pattern this file
+demonstrates at either stage.**
+
+## 7.4 ⭐⭐ AND THE PROVENANCE OBJECTION IS NOW CLOSED
+
+⭐⭐⭐ **The "they received it afterwards and profiled it" theory is dead, on three independent
+grounds:**
+
+1. ⛔ **You cannot "Acrobat PDFMaker for Word" an incoming PDF.** The source was a **Word
+   document** in their system.
+2. ⛔ **The PDF was created 24 October 2024 at 10:16:52** — the same day the reasons are dated.
+   **There is no later window for contamination.**
+3. ⛔⛔ ⭐⭐⭐ **AND IT IS THE SERVED COPY.** Cory's own copy was **re-saved through his iOS device
+   at 01:38 on 25 October 2024** — hours after issue. **He was served directly by the Regulator
+   and the file was already carrying the profile when it reached him.** It did not come through
+   disclosure, or through Saines, or through MSH.
+
+⇒ ⭐⭐⭐ **The document the Regulator served on him on 24 October 2024 was generated from a Word
+file sitting in a private law firm's document management system.** ⛔ **That is now established
+beyond the reach of any innocent-transmission explanation.**
+
+## 7.5 ⚠⚠ BUT THE DECISION'S OWN CONTENT CUTS THE OTHER WAY — AND HARD
+
+⭐⭐ **If a commercial firm had drafted or settled these reasons, the law in them would look
+different.**
+
+**The decision cites nothing later than 2009** — *Delaney* [2005] QIC 11, *Prizeman* [2005] QIC 53,
+*Bowers* [2002] QIC 18, *Rowe* [2009] QIRC 9.
+
+⛔⛔ **It does not cite *Mahaffey* [2016] ICQ 10** — the leading appellate authority on s 32(5)(a),
+eight years old at the time and unmissable. **Nor *Read* [2017] QIRC 72, nor *Allwood* [2017]
+QIRC 88.**
+
+⇒ ⭐⭐⭐ **A 2024 commercial insurance firm does not write a s 32(5)(a) analysis without
+*Mahaffey*.** ⭐⭐ **The metadata says the Word file was in their system. The legal content says
+they did not write the law in it. Both are true and neither should be suppressed.**
+
+## 7.6 ⭐⭐ WHERE THAT LEAVES IT — THE HONEST POSITION
+
+| | Proposition | Weight |
+|---|---|---|
+| ✅ | The served Word file passed through HopgoodGanim's DMS before 24 Oct 2024 10:16 | ⭐⭐⭐ **Established** |
+| ✅ | A review is non-adversarial; the Regulator is not a party; there is no litigation occasion | ⭐⭐⭐ **Established from the decision's own p 2** |
+| ✅ | The Regulator's demonstrated model is in-house officers + briefed counsel | ⭐⭐ **Established from this file** |
+| ⭐ | **The strongest innocent explanation left: CAPACITY.** The decision issued on **day 25 of the 25 business days** allowed by s 545(1). A unit against a statutory wall getting external drafting help is lawful under Panel B and entirely plausible | ⭐⭐ **Plausible, unverified** |
+| ⚠ | **Against that:** a firm engaged for legal assistance would have supplied current authority. **It did not** | ⭐⭐ **Real tension, unresolved** |
+| ⛔ | That anyone other than Ms Squires **decided** | ⛔⛔ **STILL NOT ESTABLISHED. The limit has not moved** |
+| ⭐ | The decision **overturned WorkCover twice** | ⭐⭐⭐ **Still the strongest objection to the worst reading. Unmoved** |
+
+## 7.7 ⛔⛔ AND THE ACTION STILL DOES NOT CHANGE — READ THIS BEFORE ACTING ON 7.4
+
+⭐⭐ **A sharper question is not a licence to escalate.** Everything in Part 4 holds:
+
+- ⛔ **It is not a ground of appeal.** s 550 is **de novo**. The Commission is not reviewing her
+  reasons; it is deciding the matter afresh. ⭐ **A perfect proof would win him nothing here.**
+- ⛔⛔ **It would cost him the best asset he has** — *"the Regulator's own delegate found the
+  rostering was unreasonable management action, and that work events were the sole cause."*
+  **He cannot rely on that decision and attack how it was made.** ⭐⭐ **Take the reliance.**
+- ⛔⛔ **Defamation.** Do not publish, post, forward or circulate.
+- ⛔⛔ **Ask, never allege.**
+
+## 7.8 ⭐ THE ONE QUESTION, REWORDED FOR THE REVIEW STAGE
+
+⭐⭐ **Reworded per his point — it asks about the REVIEW, not the appeal, and it stays neutral.
+The fact and identity of an engagement are not privileged; its content is.**
+
+> *"For completeness of the record, please confirm whether any **external legal service provider**
+> was engaged in connection with **review 69983** — as distinct from this appeal — and if so, by
+> which entity and under which panel or procurement arrangement."*
+
+⭐ **One sentence. No firm named. No allegation. Answerable without waiving privilege.**
+⭐⭐ **And if the answer is "no external provider was engaged," that is the more interesting
+answer — record it and do nothing further in this matter.**
