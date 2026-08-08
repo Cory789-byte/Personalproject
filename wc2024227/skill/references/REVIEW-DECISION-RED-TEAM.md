@@ -888,3 +888,110 @@ a de novo hearing the reasoning is all that is in play.**
 ⭐⭐ **Factor 2 becomes a discrete cross-examination block:** the two meeting dates · the
 certificate period · *"since you were away"* · the alternatives never considered · **"several"
 versus "twice"**.
+
+---
+
+# PART 13 — ⭐⭐⭐ THE REAL POINT: SHE USED POST-INJURY CONDUCT TO EXCLUDE A PRE-INJURY INJURY
+> 8 August 2026. **Cory's correction to Part 12. He is right and Part 12 understated it.**
+> ⛔ **Part 12 said she held his absence against him. That is true but small.** ⭐⭐⭐ **The real
+> defect is that the conduct she relied on to reach the s 32(5)(a) conclusion POST-DATES THE
+> INJURY and is legally incapable of bearing on it.**
+
+## 13.1 ⭐⭐⭐ THE ERROR, STATED
+
+**s 32(5)(a):** an injury *"does not include a psychiatric or psychological disorder **arising out
+of, or in the course of**… **reasonable management action taken in a reasonable way** by the
+employer in connection with the worker's employment."*
+
+⇒ ⭐⭐⭐ **The management action must be the action OUT OF WHICH THE INJURY AROSE. An injury
+sustained on 18 June 2024 cannot have arisen out of a meeting scheduled on 12 July 2024.**
+
+## 13.2 THE DATES — Factor 2, from her own decision
+
+| Date | Event | Relative to injury |
+|---|---|---|
+| **13 / 16 May 2024** | Corrupt conduct complaint lodged | pre-injury |
+| **15 May 2024** | ESU acknowledges receipt | pre-injury |
+| **20 May 2024** | Ms Brooks requests particulars | pre-injury |
+| ⭐⭐ **27 May 2024** | ⭐⭐ **CLOSED** — *"in the absence of any particulars… did not raise reasonable suspicion of corrupt conduct"* | **pre-injury. 11–14 days from lodgement** |
+| ⭐⭐⭐ **18 JUNE 2024** | ⭐⭐⭐ **THE INJURY** | — |
+| ⭐ **1 July 2024** | Claim lodged; first Hawes certificate | +13 days |
+| ⛔⛔ **12 July 2024** | ⛔⛔ **Meeting attempt 1** | ⛔ **+24 DAYS, POST-INJURY** |
+| ⛔⛔ **16 July 2024** | ⛔⛔ **Meeting attempt 2** — moved *"since you were away"* | ⛔ **+28 DAYS, POST-INJURY** |
+
+## 13.3 ⭐⭐⭐ AND THE OPERATIVE SENTENCE RESTS ON THE POST-INJURY EVENTS
+
+> *"**Likewise, I find Ms Reese contacted you twice in an attempt to schedule a meeting** with you
+> to discuss your concerns and allegations, and **without your participation in this process, there
+> was no other actions available for Ms Reese to take. Therefore, I am satisfied this factor
+> amounted to reasonable management action taken in a reasonable way.**"*
+
+⛔⛔⛔ **The word "Therefore" is carried, in substantial part, by conduct occurring THREE TO FOUR
+WEEKS AFTER the injury.**
+
+⇒ ⭐⭐ **Post-injury conduct could only be relevant to an AGGRAVATION under s 32(3)(b). No
+aggravation was in issue at the review.** ⛔ **It has no work to do in a s 32(5)(a) characterisation
+of the causative action, and it was given decisive work.**
+
+## 13.4 ⭐⭐⭐ THE PAYOFF — STRIP THE POST-INJURY MATERIAL AND SEE WHAT IS LEFT
+
+**Everything remaining to support "reasonable management action" on Factor 2:**
+1. complaint acknowledged **two days** after lodgement;
+2. particulars requested **once**, on 20 May;
+3. ⛔⛔ **closed on 27 May, 11–14 days after lodgement, WITH NO INVESTIGATION** — on the employer's
+   own concession, recorded by her: *"The employer conceded this was true."*
+
+> ⭐⭐⭐ **That is the entire pre-injury basis for the finding. The reasonableness conclusion on
+> Factor 2 loses its principal support the moment the July meetings are removed — and they must be
+> removed, because they cannot bear on an injury that had already occurred.**
+
+⭐⭐ **This is a pure question of law on undisputed dates, all of which are in her own document.**
+
+## 13.5 ⭐⭐⭐ AND THE SUBJECT MATTER SHE DELETED — PATIENT SAFETY
+
+**Full-text search of all 28 pages:**
+> ⛔⛔⛔ **"patient" — 0 occurrences. "safety" — 0. "at risk" — 0.** *(The only hit for "clinical" is
+> Dr Hawes's clinical findings.)*
+
+**And here is how she recorded his 30 August 2024 email to WorkCover:**
+> *"You emailed WorkCover on 30 August 2024 and in referring to the email of Ms Taylor dated
+> 19 April 2024 regarding the new process for data entry, **commented she failed to consult
+> regarding this new process**."*
+
+⭐⭐⭐ **The email's own subject line is: *"Failure to consult putting patients at risk…"***
+*(corpus pack 10, 30 Aug 2024 12:24 AEST)*
+
+⇒ ⭐⭐⭐ **"Failure to consult putting patients at risk" was reduced to "failed to consult regarding
+this new process." The clinical-risk element was removed and never appears anywhere in 28 pages.**
+
+⚠⚠ **This is a HOSPITAL SWITCHBOARD** — code calls, emergency numbers, after-hours on-call
+routing. ⭐⭐ **Patient safety is not decoration in that department; it is the subject matter.**
+⛔ **A complaint touching clinical risk, closed in under a fortnight without investigation, is a
+materially different thing from a workplace grievance closed in under a fortnight — and the
+decision never engages with the difference because the element was not carried through.**
+
+## 13.6 ⛔⛔ THE DISCIPLINE — HOW TO RUN IT AND HOW NOT TO
+
+| ✅ **RUN IT AS** | ⛔ **NEVER AS** |
+|---|---|
+| ⭐⭐⭐ **A point of law on undisputed dates:** conduct of 12 and 16 July cannot characterise the action out of which an 18 June injury arose | ⛔ *"They covered up a patient safety issue"* |
+| ⭐⭐ **An omission point:** the words *"putting patients at risk"* were in his email and are absent from the decision | ⛔⛔ **Any allegation of deliberate deletion. Say what is missing; never why** |
+| ⭐⭐ **A weight point:** an 11–14 day closure without investigation, of a complaint touching clinical risk | ⛔⛔ **The fraud allegation. Discipline rule 2. The corrupt-conduct framing stays out** |
+| ⭐ ***Mahaffey*** — reasonableness of the **way** action was carried out | ⛔ Bias, motive, disguise, the firm, the metadata |
+
+## 13.7 ⭐⭐ TO VERIFY BEFORE IT IS RUN
+
+1. ⭐⭐⭐ **The 30 August 2024 email from the SOURCE PDF** — confirm the subject line and body
+   verbatim. ⛔ **Corpus is a lead, not authority.**
+2. ⭐ **Whether Factor 3 (pay) also rests on post-injury conduct.** ⚠ **On the narrative its events
+   run Feb–May 2024, so it is probably clean — CHECK, do not assume.**
+3. ⭐ **What the ESU complaint itself said about patient safety**, if anything — the decision's
+   summary at p 11 records only on-call hours, harassment, bullying, dishonesty and management
+   style.
+
+## 13.8 ⭐⭐⭐ WHY THIS IS THE BEST POINT IN THE FILE
+
+⭐⭐⭐ **It needs no expert, no metadata, no allegation and no new document.** ⭐⭐ **It is her dates,
+her sentence, and s 32(5)(a).** ⭐⭐⭐ **And on a de novo hearing the Commission has to decide
+Factor 2 afresh — with the post-injury material excluded and an 11-day uninvestigated closure as
+the whole of what is left.**
