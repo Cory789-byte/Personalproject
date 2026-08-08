@@ -85,7 +85,11 @@ sustained failure to respond when the worker raised it through every channel.**
 4. **Costs have real teeth** — s 558(3) WCRA: costs of a WC appeal are discretionary and
    **ordinarily follow the event** (*Canton* [2019] QIRC 145; *Latoudis v Casey*), s 191 scale
    + up to 1.5× uplift (s 191(3)). The Calderbank is a genuine costs weapon.
-5. **Psychiatrist report exists** (Krishnaiah, Feb 2025) — causation is evidenced, not absent.
+5. ⛔ **CORRECTED 8 Aug 2026 — A4 is NOT a causation asset.** The Krishnaiah report of 13 Feb 2025
+   is a **QSuper income-protection capacity report**. It answers capacity questions, never asks the
+   s 32(1) question, and names **three competing causes — relationship breakdown, job loss and
+   bereavement**. **It is a liability to be managed with useful contemporaneous content inside it.**
+   Full analysis: `skill/references/A4-RED-TEAM.md`.
 6. **Disclosure position strong** — objection self-contradicts; expense objection is to a
    server-side export; ~80% a production order issues; MSH compelled and appearance-averse.
 7. **Procedural momentum + the seam** — the Regulator discloses MSH-adverse material.
