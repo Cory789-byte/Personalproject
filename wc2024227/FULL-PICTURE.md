@@ -519,3 +519,141 @@ window that matters is **roughly 19 August – 30 September 2026.**
 report, correcting the ¶37 error on its face, saying nothing about what happened in the room,
 and releasing nothing outside this appeal.**
 
+
+---
+
+## 18. SETTLEMENT PREDICTION v5 (8 August 2026) — report assumed delivered
+
+> Built on the verified latency series, the 3 August reply, and the mention. Decomposes on
+> report quality rather than assuming "the report" generically — which is why the headline
+> number falls again. §17 remains the strategy; this is the forecast.
+
+### 18.1 THE VERIFIED LATENCY SERIES — the actual signal
+
+| Sent | What | Answered | Latency | Character |
+|---|---|---|---|---|
+| 17 Feb 23:43 | **Calderbank #1** | 18 Feb 22:39 | **~23 hrs** | Reflexive. *"does not accept your offer, and we will be defending the appeal."* |
+| 1 Jul 12:16 | **Calderbank #2** | 16 Jul 15:54 | **15 days** | Authorised, not written. *"position remains… **Should our position change at any point, we will advise you as soon as possible.**"* |
+| 24 Jul 19:08 | Disclosure-list request (procedural) | 3 Aug 07:17 | **10 days** | Three sentences. **Apology for the delay** + commitment to list **and NNPD copies** "as soon as possible this week" |
+| **31 Jul 10:46** | **WP "material development" letter** | **— (day 8 at 8 Aug)** | **unanswered** | Reconsideration invitation, continuing-detriment point and conferral offer **all left untouched** on 3 Aug |
+
+**Direction of travel: categorical → conditional → apologetic → silent on substance.**
+
+⚠ **The 3 August reply is not a settlement signal.** It answers the *procedural* request only,
+at 07:17 on the Monday before a Friday listing — decks-clearing so the Regulator's compliance
+side is clean in the room. The apology is politeness. **Do not price it.**
+
+⭐ **The one that matters is the 31 July WP letter.** WP silence while instructions are "defend"
+is ordinary carriage discipline, so its first week means nothing. **Its fourth week would mean
+something.** Any answer to it, in any terms, is the single clearest tell available.
+
+### 18.2 ⛔ THE COUNTER-READ — "I am the evidence" is not unambiguously good
+
+A case resting on one witness is **cheaper to defend** than one resting on a documentary
+record: they only have to break the witness once, and Willson is WHS-specialist panel counsel.
+
+**The mention showed them the ceiling of his presentation, not the floor.** Twenty minutes
+answering a Commissioner is not a day under cross-examination, and a rational Regulator may
+read 7 August as *reassuring* — the case is now visibly a credibility contest they get to run
+on their terms.
+
+**What cuts the other way, and is the real value:** the Commission's own framing was that the
+facts could be established from him. He does not lose to Willson; he loses to Dwyer. A signal
+about **the Commissioner's** receptiveness is worth more than a signal about counsel's.
+
+Both are true. Net: the mention is **mildly positive on settlement, materially positive on
+hearing prospects** — which is the same shape as §17.
+
+### 18.3 ⛔ "THE REPORT IS COMING" ≠ "THE REPORT ANSWERS THE QUESTION"
+
+The 12 August consultation is on an **RFMI — an employer-commissioned fitness assessment.** It
+answers MSH's questions (fitness, adjustments, capacity). The appeal's question is different:
+**was employment a *significant* contributing factor to the psychiatric injury of 18 June 2024
+(s 32(1)), and does the incapacity from 26 June 2026 continue or aggravate that injury?**
+
+A fitness report can be entirely favourable and **strategically neutral** on both.
+
+Two further defects to close in the four days remaining:
+- ⛔ The Feb 2025 report (Exhibit A4) is stamped on **every page** *"disclosed for Qsuper and
+  NOT FOR MEDICO-LEGAL USE."* If the same footer reappears, the report is arguably unusable
+  without the practice's release. **Get written confirmation before the appointment.**
+- ⚠ It is commissioned and funded by the employer, and **MSH receives it.** Anything in it also
+  arrives on the desk of the party whose conduct is in issue.
+
+⭐ **Highest-value action available before Wednesday: the letter of instruction, so the s 32(1)
+question is asked in terms.** It is still undrafted. Without it the forecast below sits in the
+"partial" column by default.
+
+### 18.4 THE FORECAST — decomposed on report quality
+
+| Report B | P | P(consent resolution) | Median deal | Note |
+|---|---|---|---|---|
+| **Strong** — 2024 injury + cause **and** continuing/aggravated 2026 incapacity | **~45%** | **~72%** | **late Oct 2026** | Calderbank #3 late Aug → their cycle through Sept → acceptance or a counter on the remit limb |
+| **Partial** — 2024 injury + cause; equivocal or silent on 2026 continuity | **~35%** | **~52%** | Dec 2026 – Feb 2027 | Appeal keeps running; resolution comes late, at the hearing door |
+| **Weak / adverse** — equivocal causation, material non-work attribution, or the footer defect | **~20%** | **~22%** | — | And likely a *bad* consent (remit limb, no costs). **Refuse it** |
+
+**Weighted P(consent resolution): ~55%** (band **55–62%** allowing for the
+mention-driven branch below). **Conditional median deal date: mid-to-late October 2026.**
+
+| Window | Share | Driver |
+|---|---|---|
+| Aug 2026 | ~7% | Counsel's post-mention note alone, before the report lands |
+| Sept 2026 | ~12% | Calderbank #3 inside their first cycle |
+| **Oct 2026** | **~15%** | **Peak** — second cycle, post-report, pre-listing |
+| Nov–Dec 2026 | ~12% | Directions pressure |
+| Hearing door (Jan–Mar 2027) | ~12% | Classic |
+| **No consent → decision** | **~42%** | — |
+
+⚠ **The number fell again — 74–80% (v3) → 62–70% (v4) → ~55–62% (v5).** Not because the case
+got worse. Because each version removed an assumption that was doing unearned work: v4 removed
+"production will happen"; **v5 removes "the report will be the report the appeal needs."** The
+hearing-prospects number (~42–45%) has moved the other way throughout.
+
+### 18.5 THE BASE RATE THAT OUTRANKS EVERY TONE SIGNAL
+
+**Two Calderbanks. Two flat rejections. Zero counters. Zero conferences despite express
+invitation. One WP letter unanswered. Their SOFC contests every stressor, denies causation,
+pleads a pre-injury anxiety history at ¶8 — and seeks costs against a self-represented
+appellant.**
+
+Five data points, one direction. Politeness in a covering email does not outweigh them. The
+door line is a **keep-options-open** signal written for the costs file, not an engagement
+signal — that read was recorded on 16 July and nothing since has disturbed it.
+
+### 18.6 THE TELL LIST
+
+**Position IS moving**
+- ⭐ **Any answer to the 31 July WP letter, in any terms.** Breaking WP silence means the
+  instruction changed.
+- Any request for the medical report, or any question about his current medical position.
+- A proposal to confer, or a s 552A conference sought by them.
+- An extension sought without a listing forcing it.
+- A change in who signs the correspondence.
+- The NNPD copies arriving **with substance in the covering email** rather than bare.
+
+**Position is NOT moving**
+- NNPD copies arrive bare and on time.
+- Next correspondence is procedural only.
+- ⚠ **A direction sought for their own medical examination** — that is building for a hearing.
+  Per §17.5 it is also the likely reflex to Report B being *filed* rather than *served*.
+- Any application about costs or security.
+
+**Neutral — do not price**
+- The 3 August apology. Response speed alone. Matheson's manner after the listing.
+
+### 18.7 ⛔ CONFIRM WHO WAS IN THE ROOM
+
+**Whether counsel attended on 7 August determines whether the revaluation channel exists.** A
+counsel note after a mention is exactly what triggers a revaluation minute; carriage attending
+alone sends a thinner, slower report up the line. This is a Registry question, not a memory
+question — it goes in the same email as "what was ordered on 7 August."
+
+### 18.8 ⚠ THE HALF-LIFE
+
+Nothing said at the mention is evidence. There is no transcript in hand. The 9A read aloud
+cannot be quoted, pleaded or referred to. **Its entire value sits in the recollection of the
+people who were there, and that decays.**
+
+Both consequences follow from the same premise: **move while it is fresh — and never put a
+word of it in writing.**
+
