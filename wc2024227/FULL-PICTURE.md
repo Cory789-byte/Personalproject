@@ -657,3 +657,129 @@ people who were there, and that decays.**
 Both consequences follow from the same premise: **move while it is fresh — and never put a
 word of it in writing.**
 
+
+---
+
+## 21. PREDICTION v7 — PRICING THE 13 AUGUST PLAN (8 August 2026)
+
+**The plan as proposed:** Thursday **13 August 2026**, one letter to the Commission — request a
+hearing date · list the witnesses · **no longer press the r 64G, accepting the disclosure given.**
+**Then** hand Report B to Matheson.
+
+---
+
+### 21.1 ⚠ A TIMING FACT THAT CHANGES THE SHAPE
+
+**A psychiatrist does not produce a written report the day after the consultation.** Realistically
+**1–3 weeks.** So the plan is not "Thursday, then the report" — it is:
+
+**13 Aug: letter → ~late Aug/early Sept: report exists → then Matheson.**
+
+⇒ **The Commission is asked for a hearing date roughly two to four weeks before any causation
+evidence exists.** That gap is where the cost sits.
+
+---
+
+### 21.2 THE THREE COMPONENTS, PRICED SEPARATELY
+
+#### ⭐⭐⭐ (a) Not pressing the r 64G — the strongest move in the plan
+
+| Effect | |
+|---|---|
+| **Unlocks Gate 1** — the file can be reallocated to a hearing Member | ⭐⭐ |
+| **Kills any costs argument.** Withdrawal before determination, framed on proportionality, leaves MSH nothing. r 64G(3): each party bears own costs | ⭐⭐ |
+| ⭐⭐ **A second unprompted concession in a week**, after the pay limb in the room. Two concessions before being pushed is a **pattern**, and patterns are what tribunals notice | ⭐⭐ |
+| ⭐⭐⭐ **It converts "I am the evidence" from something said to him into something he acted on.** Told the disclosure was probably unnecessary, he agreed and gave it up. There is no more persuasive response available | ⭐⭐⭐ |
+
+**⚠ What it costs:**
+1. **MSH's near-term pressure evaporates** — but only the nuisance. ⭐ **Their real exposure was
+   always the published decision (§17.3), and that survives untouched.** Modest loss.
+2. ⛔ **The real loss is Item 3(a)** — the misroute/"wrong team"/pager-error complaints corpus and
+   the management discussion of it (3(b)). **That was the only corroboration for the
+   clinical-governance strand that is not already in his own knowledge.** Without it that strand
+   rests on his uncontradicted oral evidence alone (ledger Tier 2).
+   ⚠ **It thins; it does not collapse** — **Item 3(c) *"no consequential changes"*** is MSH's own
+   written concession and survives, and **¶8 is admitted.**
+
+#### ⚠ (b) Requesting the hearing date — right move, wrong moment
+
+- ⭐ Aligned with the Commission's expressed destination, and very likely well received.
+- ⭐ **Listing the witnesses in the same letter is smart** — it converts a possible default under
+  the 6 Aug / 13 Aug 2025 directions into compliance. **Keep that.**
+- ⭐ **Gate 4 is less urgent than it looked.** Realistic listing lead time after directions are
+  complete is **months, not weeks** — a mid-August request plausibly yields a hearing in
+  **early-to-mid 2027**, leaving 6–9 months to solve the witness funding. ⛔ Provided he does not
+  accept the first available early date.
+
+⛔ **The problem is what it triggers, and when.** Setting a listing forces the Regulator's internal
+timetable — counsel must be briefed properly, the brief settled, prospects reassessed. **A hearing
+date is the most reliable trigger of institutional revaluation there is.**
+
+⚠ **And on 13 August that revaluation fires on an incomplete file.** The minute would read:
+*appellant has withdrawn his disclosure application and seeks a hearing; our remaining defence is
+causation; no expert material has been served.* ⇒ **"Defend" is the obvious recommendation.**
+
+⛔⛔ **And once a delegate re-affirms "defend" in late August, changing position again in September
+is harder, not easier.** Institutions do not revisit the same file twice in six weeks.
+**The ordering burns a revaluation node on a file that is missing the only thing that could move
+it.**
+
+#### ⛔ (c) The report handed over afterwards, with no offer — the fixable loss
+
+| Served | Reads as |
+|---|---|
+| **With a Calderbank, before a listing is sought** | *Here is why you should reconsider* — and **s 558(3) / *Canton* costs consequences attach to refusing** |
+| **After a date is sought, bare** | *Here is my evidence; see you at the hearing* |
+
+Guide 4.11 requires exchange anyway and names it as a settlement trigger — so the bare version is
+not worthless. **But it has no costs teeth.** ⭐ **And the fix is free: he is handing it over
+regardless, so hand it over under cover of an offer.**
+
+---
+
+### 21.3 THE NUMBERS
+
+**Baseline (v6): P(consent) ~54%; median deal Dec 2026 – Feb 2027; hearing prospects ~42–45%.**
+
+| | **Scenario A — the plan as proposed** | **Scenario B — split the letter** |
+|---|---|---|
+| 13 Aug | Withdrawal + date + witness list, one letter | **Withdrawal + witness list only**, noting a listing will shortly be sought |
+| Late Aug / early Sept | Report handed over, bare | **Report + Calderbank #3 + the listing request, together** |
+| Withdrawal goodwill / unblocking | +6 | +6 |
+| Revaluation node | **−4** (fires on an incomplete file) | **+7** (fires on the complete file, with costs teeth) |
+| Costs teeth on the report | **−5** (none) | included above |
+| MSH pressure lost | −2 | −2 |
+| Item 3(a) lost | −2 | −2 |
+| **P(consent resolution)** | **≈ 47%** (44–53) | **≈ 60%** (57–66) |
+| **Median deal** | **Mar – Jun 2027** (the hearing door — the earlier nodes are spent) | **Oct – Dec 2026** |
+| P(no consent → decision) | ~53% | ~40% |
+| Hearing prospects | **~40–43%** (thinned by the loss of 3(a)) | ~40–43% |
+
+⇒ ⭐⭐ **The difference between the two orderings is roughly 12 points of settlement probability and
+about four months** — and the only structural difference is **when the letter is split and whether
+the report travels with an offer.**
+
+⚠ Calibrated judgment, not measured frequency. But the direction is not close.
+
+---
+
+### 21.4 ⛔ WORDING DISCIPLINE FOR THE WITHDRAWAL
+
+1. ⛔ **Never write that the disclosure is complete, or that MSH's objection was correct.** If a
+   document later turns out to exist, that sentence is thrown back. **Formula: he does not press
+   the application, on proportionality grounds, having regard to the material produced and the
+   course the matter is now taking.**
+2. ⛔ **Never characterise what the Commission said or indicated on 7 August.** There is still no
+   transcript (§17.8). Procedural facts only.
+3. **Never "withdraw" where "not press" will do.** Narrowing, not abandonment.
+4. ⭐ **Do state that the witnesses are listed and the outlines will follow** — it turns a possible
+   default into compliance in the same breath.
+
+---
+
+### 21.5 THE RECOMMENDATION IN ONE LINE
+
+**Send the 64G letter and the witness list on Thursday — they are independently right and they
+unlock the reallocation. Hold the hearing-date request four weeks and send it together with Report
+B under cover of Calderbank #3, so the Regulator's revaluation happens once, on the complete file,
+with costs consequences attached.**
