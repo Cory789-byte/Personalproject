@@ -234,3 +234,45 @@ which minutes to buy.**
    attached to the download**, and treat the file as for his own use in this proceeding only —
    distributing it would be a serious problem entirely separate from the appeal, and there are
    parallel tracks where material has previously travelled.
+
+---
+
+## 9. ⭐ "FREE?" — probably yes, and here is the distinction that decides it
+
+### The two guides both say free
+
+- **WC Appeal Guide 7.4:** *"Parties to matters before the Commission may obtain copies of the
+  transcript **free of charge**."* Repeated at **5.2** for conferences.
+- **Public Sector Appeal Guide** says the same thing independently.
+
+**Two published Commission guides, saying it twice each.** That is the best available evidence and
+it points one way.
+
+### ⚠ But the fee schedule prices it — and the reconciliation matters
+
+The Queensland Courts schedule lists **Industrial Relations Commission: $5.40 per page** — against
+a general rate of **$110.40 for the first 1–8 pages then $13.65/page**.
+
+⭐ **That differential is itself informative.** A special, heavily discounted IRC line suggests IRC
+transcripts are already treated differently — consistent with the Commission absorbing the cost
+for parties, and the listed rate applying to **non-parties** (media, other firms) or to
+circumstances the guide does not cover. **Plausible, not established.**
+
+### ⛔⛔ THE DISTINCTION THAT ACTUALLY DECIDES THE COST
+
+The fee schedule's cheap rates are for a transcript **that already exists**. Separately:
+*"**If transcript requires typing:** costs vary through approved providers."*
+
+⚠ **A mention is recorded, but a transcript of it is generally only produced when someone orders
+one.** So an order for 7 August may **trigger the typing** — which is the expensive path, not the
+$5.40 path.
+
+⇒ ⭐⭐ **This is a new and better reason to take the audio first: the audio already exists.** It
+needs no production, no provider, and no typing — it existed the moment the listing ended.
+
+### THE ANSWER TO GIVE HIM
+
+**Probably free, on the Commission's own published word — but do not order until the Registry
+confirms it, because the answer turns on whether a transcript has already been produced.** Put the
+question in the same email as the other two (§6), and ask about the **hardship waiver** in the same
+breath as a backstop either way.
