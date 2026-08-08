@@ -1738,7 +1738,7 @@ Review Decision 69983, **contents ADMITTED at Form 24 ¶37**:
 > condition"*** · **A — the rostering *"amounted to unreasonable management action … in direct
 > contradiction to the award and the 8-hour agreement"***
 
-⚠ **THE LIMIT, AND IT IS REAL:** the appeal is a **hearing de novo** under s 550(4). ⛔ **These
+⚠ **THE LIMIT, AND IT IS REAL:** the appeal is a **hearing de novo**. ⛔ **CORRECTED 8 Aug 2026 — NOT "under s 550(4)": s 550(4) is the FILING provision (*"the appeal may be started only by filing a written notice of appeal"*). The appeal right is **s 549(1)**; the de novo character comes from **s 558(1)(c)** — power to *"set aside the decision and substitute another decision"*. See `LEGAL-CONSEQUENCES-external-drafting.md` Part 0.** ⛔ **These
 findings do NOT bind Commissioner Dwyer**, and admitting the *contents* of a document is not
 admitting the *truth* of its findings (Type B). **Do not present Squires as binding.**
 ✅ **What it IS worth:** the Regulator's own delegate, on the Regulator's own material, reached
