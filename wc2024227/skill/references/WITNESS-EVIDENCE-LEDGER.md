@@ -359,3 +359,95 @@ questions invite the prepared explanation. On CS-1:
 > the roster?*
 
 **Five closed questions off her own email. None of them can be prepared away.**
+
+---
+
+## 10. ⭐⭐ THE AFFIDAVIT DISPROVED ITS OWN NECESSITY — and it was still the right trade
+
+**Cory's observation (8 Aug):** the sworn account of the job arrived early, in a disclosure
+application, in front of everyone — *"I guess it also disproved the need."*
+
+**Mechanically, yes. Precisely that.**
+
+### 10.1 THE STRUCTURAL TENSION — it was never avoidable
+
+**r 64B(2)** asks whether there is *"another reasonably simple and inexpensive way"* to obtain the
+evidence. **The affidavit is the answer to that question.** By swearing to the job, the conditions,
+the directives, the misroutes and the working-around in real time, he demonstrated on oath that a
+competent witness exists who can give it directly.
+
+⭐ **The better the affidavit, the weaker the necessity case.** That is inherent to any r 64G
+application brought by the person who is himself the primary source — not a drafting error.
+
+**And there was no way around it.** A r 64G application needs evidence; production is not ordered
+on assertion. The affidavit had to establish relevance to the pleaded stressors; establishing
+relevance requires describing the facts; describing the facts demonstrates he knows them.
+⇒ **No version of this application existed that did not partly disprove its own necessity.** The
+alternative — a thin affidavit — fails on relevance instead, which is worse.
+
+### 10.2 ⭐⭐⭐ WHAT IT BOUGHT — and this is why the trade was good
+
+**Under Part 7.6 there are no witness statements at a WC hearing.** All evidence is oral.
+
+⇒ **He has obtained, through the side door of an interlocutory application, the one thing the
+procedure does not otherwise provide: a sworn, dated, served, unchallenged written account of his
+evidence, sitting on the Commission's file.** Most WC appellants never have that.
+
+Four properties, each independently valuable:
+
+1. ⭐⭐ **It is dated 18 June 2026 — and it predates everything contested since**: the 26 June
+   exclusion, the 3 July ECC, the RFMI, the 13 July non-payment. **It cannot be characterised as
+   constructed in response to any of it.** A witness account written in 2027 for a hearing is
+   written by a person with a grievance and a motive. **This one is not, and the date proves it.**
+2. **The decision-maker has read it.** The announced departure on 7 August establishes he came
+   prepared, having read the Form 20, the Form 29 and K-LM26/729.
+3. **It has been served on the Regulator and MSH since June — and not a word of it has been
+   contradicted.**
+4. ⭐ **It doubles the exhaustion of the "no particulars" non-admission** (§1). They have had the
+   particulars in the pleading *and* the sworn account in the affidavit, since June, and have
+   pleaded no positive case against either.
+
+### 10.3 WHAT IT ACTUALLY COST — and why the loss is absorbable
+
+The necessity point costs **Items 8, 9 and probably 10** (and the pay items, conceded in the room
+anyway):
+
+| Lost | What it was | Why it is absorbable |
+|---|---|---|
+| Item 8 | AD/Entra sign-in | **Already withdrawn** before the mention |
+| Item 9 | Building access — presence proof | ⭐ **Presence was always a proxy.** ¶26 pleads *unilateral directives without consultation*, not attendance (§3, B1) |
+| Item 10 | Aggregate directive counts | ⭐ **Volume was always the weaker half.** His own evidence proves existence and character (§6) |
+
+⇒ **The items the affidavit disproved the need for are precisely the items whose loss he can
+absorb.** What survives is documentary or admitted: **CS-1**, the 16 Jun 2023 and 15 May 2024
+complaints, **Reese's 21 May 2024 request**, **¶8 admitted**, **Item 3(c) *"no consequential
+changes"***, and the **FRMS vacuum conceded in writing**.
+
+### 10.4 ⚠ THE TWO REAL COSTS
+
+**1. Costs on the 64G — low but not nil.** **r 64G(3): each party bears its own costs unless
+otherwise ordered**, so a refusal on necessity standing alone is probably cost-neutral. ⚠ But an
+argument that the application was unnecessary *and the appellant's own affidavit showed it* now has
+material. **The answer is a proportionality-framed narrowing — never abandonment, and never a
+characterisation of what the Commission did.**
+
+**2. ⛔⛔ THE AFFIDAVIT IS NOW A CROSS-EXAMINATION TARGET — and the ¶37 defect is in it, on oath.**
+
+`lodgement/WC2024227_Form20_FINAL.pdf` **¶41** asserts on oath that the Respondent admits *"both
+findings (Admitted Fact: Form 24, Para 37)."* ¶37 is a **Type B** admission — *contents* admitted,
+**relevance reserved** — and Response row 39 answers Notice ¶¶42–45, not ¶37.
+
+⭐ **A sworn misstatement about what the other side admitted is exactly what a skilled
+cross-examiner opens with** — because it goes to **reliability, not honesty**, and it is
+unanswerable from the box.
+
+⛔ **This escalates the ¶37 fix.** A filed and served affidavit cannot be unfiled. **The only
+remedy is to correct it himself, in writing, before anyone finds it.**
+- **Volunteered:** a reliability **asset** — a witness who audits his own material.
+- **Found in cross:** a reliability **wound**, and it lands on the first morning.
+
+⇒ **The correction now belongs to hearing preparation, not just to Calderbank #3.**
+
+**⭐ And the same discipline applies to the whole affidavit: audit every paragraph of the Form 20
+against the Amended 9A and the SOFC now.** Anything loose, overstated, or inconsistent is opening
+material for Willson. This is the highest-value document review in the matter after the report.
