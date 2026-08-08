@@ -387,3 +387,124 @@ fatigue; 25 days on the AVAC, Form 24 ¶41 admitted).**
 | **Admitted delays inside the same thread** | **2** — 23 days on fatigue; **25 days on the AVAC (Form 24 ¶41, admitted)** |
 | **Steps admitted or documented** | ⭐⭐ **the roster, the 7-hour break, all four communications, the refusal and its reason** |
 | **Steps resting on his evidence alone** | **2** — the ~4 hours sleep, and the use of his own leave on 19 March |
+
+---
+
+# PART 9 — ⭐⭐⭐ ASSERTED, NOT RESOLVED — and that is the unreasonableness
+
+> **Cory, 8 August 2026: it runs into May and the stressor was never resolved — just asserted by
+> MSH.** That is the correct characterisation and it is the strongest legal point in the sequence.
+
+## 9.1 THE 1 MAY REPLY IS A PAYROLL ANSWER TO A SAFETY QUESTION
+
+**The 8 April email raised TWO things:**
+1. **Money** — the unpaid Saturday public holiday and the penalty rates for the Monday shift.
+2. ⭐ **Safety and rostering** — *"the Award stipulated in part 5 section 15 that unless there was a
+   mutual agreement of regular rosters, employees were entitled to a **minimum 10-hour break**."*
+
+**The 1 May reply answers only the first.** Fatigue *payment* refused on the 2020 agreement; then
+payslip top-ups; then public-holiday entitlements. ⇒ ⭐⭐⭐ **The rostering point he raised expressly,
+citing the instrument, is never addressed by anybody at any point.**
+
+**That is the unreasonableness, and it is provable from their own document:**
+> **He raised a rostering safety issue and received a payroll answer.**
+
+⭐ **An assertion is not management action taken in a reasonable way. It is the avoidance of
+management action.** What the 1 May email does *not* do: address whether the roster should have
+been made that way (the employer's own control — Part 8.5); whether a 2020 casual-era agreement
+still applied to a 2024 full-time employee; whether anyone had reviewed it in four years; the
+fatigue itself; any remedy, adjustment or forward change; or any risk assessment.
+
+## 9.2 ⭐⭐ WHAT HAPPENED AFTER 1 MAY — it did not resolve, it escalated
+
+| Date | Event | Status |
+|---|---|---|
+| **1 May 2024** | The assertion | Recorded, RD 69983 p 22 |
+| **3 May 2024** | Payroll directs Ms Taylor to submit an AVAC ***"IMMEDIATELY"*** | ⭐⭐ **Admitted** ¶40 |
+| **9 May 2024** | The MASPER directive — she changes the Switchboard's call-handling process instead of the roster | **CS-1**, her own email |
+| **13 May 2024** | The PID | Admitted ¶20 |
+| **15 May 2024** | The retraction direction | Admitted ¶21 |
+| **15 May 2024** | He raises consultation again | Form 20 ¶28 |
+| **18 May 2024** | He goes to the union | CS-2 |
+| **21 May 2024** | ⭐ Ms Reese asks him to identify the directives he has consultation concerns about | RD / Form 20 ¶28 |
+| **28 May 2024** | The AVAC finally submitted — **25 days** | ⭐⭐ **Admitted** ¶41 |
+| **18 June 2024** | **Injury onset** | — |
+
+⭐ **He went to the manager, then payroll, then HR, then the Director, then the union, then made a
+disclosure. The rostering point was never answered by any of them.**
+
+## 9.3 ⭐⭐⭐ AND MSH HAS ADMITTED, IN WRITING, THAT NOTHING WAS EVER DONE
+
+**MSH's letter of 5 June 2026, under the Chief Executive's hand (K-LM26/729):**
+- ⭐⭐ *"**no 'consequential' changes to operating procedures** over the period requested"* (Item 3(c))
+- ⭐⭐⭐ fatigue risk management at the Switchboard was implemented *"**after 30 June 2024** in
+  connection with an organisational change related to the reporting lines for Switchboard"* (Item 5)
+
+⇒ **The employer has confirmed in writing that nothing changed, and that there was no fatigue
+framework at the Switchboard on the day of the shortfall.**
+
+**THE WHOLE CASE, IN SIX STEPS — every one admitted or in MSH's own words:**
+1. He raised a fatigue and rostering safety issue on **8 April 2024**, citing the Award.
+2. He was answered with an **assertion about a 2020 agreement** — a payroll answer.
+3. He **escalated** to payroll, HR, the Director, the union, and by disclosure.
+4. **Nothing changed** — *"no consequential changes to operating procedures."*
+5. **There was nothing to change it with** — no fatigue framework until *"after 30 June 2024."*
+6. **Injury, 18 June 2024.**
+
+## 9.4 ⭐⭐⭐ THIS IS THE ANSWER TO *"HUMAN ERROR AND NOT INTENTIONAL OR REPEATED"* (SOFC ¶22(a))
+
+Their pleading concedes the 7-hour break and characterises it as *"a matter of human error… not
+intentional or repeated."*
+
+⭐⭐ **"Human error" describes the making of the roster. It says nothing about the forty-four days
+that followed.**
+
+- The roster **might** have been a one-off error. **The failure to address it was sustained.**
+- It involved **the Line Manager, Payroll, Human Resources and the Director.**
+- ⇒ ⭐⭐⭐ **A single event can be an error. A 44-day non-response across four decision-makers
+  cannot.**
+
+**And this is precisely why the sequence framing beats the single-event framing.** Pleaded as one
+incident, *"human error"* is a complete answer. Pleaded as the sequence, **it answers step 1 and
+nothing else.**
+
+⭐ **Note what is NOT needed:** the argument does not depend on the break being *repeated*. **The
+failure to respond was continuous** — which requires no second incident, and so **stays entirely
+clear of the 2025 material** (Part 6).
+
+## 9.5 ⭐⭐ WHY THIS DECIDES WHICH BASIN THE CASE SITS IN
+
+The modelling has found the outcome **bimodal** — a ***Bowers*** basin (~27%) and a **no-system**
+basin (~62%), with no middle.
+
+- **In the *Bowers* basin:** a functioning system suffered a blemish. Blemishes do not make
+  management action unreasonable. **They win.**
+- ⭐⭐⭐ **In the no-system basin: there was nothing to blemish. And MSH has conceded that position in
+  writing** — no framework until after 30 June 2024; no consequential changes.
+
+⇒ ⭐⭐ **"Asserted, not resolved" is the argument that moves the case out of the *Bowers* basin.** It
+is not a rhetorical flourish; **it is the fact that selects the outcome.**
+
+**And it fits the pleaded theory exactly:** a course of **inaction** measured against positive
+duties (*Read* [2017] QIRC 72; *Allwood* [2017] QIRC 88). **Either the assertion is not management
+action at all — nothing for s 32(5)(a) to exclude — or it is, and it cannot be shown to have been
+taken in a reasonable way.**
+
+## 9.6 ⚠ THE ONE ANSWER THEY HAVE, AND WHY IT DOES NOT REACH THIS
+
+**SOFC ¶13 pleads four documented grievance responses** — 10 Aug 2023 meeting, 29 Aug 2023 email,
+8 Sep 2023 email, 15 Nov 2023 meeting.
+
+⭐ **All four are 2023, and all four answer the August 2023 grievance. None of them touches the
+April–May 2024 fatigue thread.** Different subject, different year. ⇒ **"We responded" is true of
+2023 and untrue of 2024.**
+
+⚠⚠ **But handle the 15 November 2023 meeting carefully.** It is recorded as concerning *"compliance
+with shift and break time procedures."*
+- ⭐ **Read one way** it is very strong: break-time procedures were a live topic between them **four
+  months before the shortfall**, which makes *"human error"* harder to sustain.
+- ⛔ **Read the other way it is a meeting about HIS compliance** — and then it belongs to the same
+  family as the 34 occasions.
+- ⇒ ⛔ **Two-edged. Establish what that meeting was actually about before it is used at all.** It is
+  not in the repo. **Add it to the Regulator disclosure list with the April–May 2024 correspondence
+  (Part 8.6).**
