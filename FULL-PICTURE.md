@@ -121,3 +121,112 @@ None of §19 is evidence. There is no transcript. It cannot be quoted, pleaded, 
 correspondence, or hinted at in a settlement letter. **It informs what is done; it never appears
 in what is written.** §17.8 governs without exception.
 
+
+---
+
+## 20. WILL SETTLEMENT NOW BE CONSIDERED? (8 August 2026) — the direct answer
+
+### 20.1 THE MECHANISM, NOT THE MOOD
+
+The Regulator does not "reconsider" as a disposition. Reconsideration is an **act**: the carriage
+officer writes a minute to a delegate recommending a change of position. That minute requires
+three things — **new material dated after the last assessment** (the 16 July rejection), **a
+prospects statement**, and **a costs-exposure statement** (s 558(3); *Canton*; any Calderbank).
+
+⭐ The door line — *"Should our position change at any point, we will advise you as soon as
+possible"* — **is the language of a file kept open for new material.** It was written on 16 July
+by a party that knew 7 August was coming.
+
+**So the question is not whether they were impressed. It is whether the minute can be written.**
+
+### 20.2 THE ANSWER — no, not on the mention
+
+**The mention alone will not put settlement under active consideration.** Four reasons:
+
+1. ⛔ **Nothing on 7 August touched s 32(1).** Their pleaded defence is **causation denied** plus
+   reasonable management action. The mention was about **disclosure**. Narrowing a disclosure
+   dispute does not weaken a causation defence — **the Regulator's case was never a documents
+   case**, so nothing they rely on was disturbed.
+2. ⛔ **"That's just management action"** is the bench voicing **their** case. If the merits reach
+   the minute at all, that line goes in it, and it reads favourably to them.
+3. ⛔ **"We all want to get to a hearing"** reads to a carriage officer as *the Commission expects
+   us to run this*, not *we should resolve it*.
+4. **Institutional friction.** Changing position where a delegate has twice affirmed "defend"
+   means explaining why the last two assessments were wrong. Plus the base rate: two Calderbanks,
+   two flat rejections, no counter, no conference, and the 31 July WP letter still unanswered.
+
+### 20.3 ⭐⭐ WHAT THE MENTION DID INSTEAD — and it is better
+
+**The mention did not create a reconsideration. It created the conditions under which the report
+can create one.**
+
+Before 7 August, a favourable Report B would have landed on a file where the appellant was a
+name on pleadings and the matter looked like a documents fight the Regulator expected to win on
+causation. After 7 August it lands on a file where:
+
+- the carriage officer has **personally watched the witness perform**;
+- the Commission has said the facts can be established **from him**, with the Respondent then
+  having to displace them;
+- **the disclosure fight — their best route to a procedural collapse — is being narrowed away**;
+- and the appellant **conceded a limb himself, unprompted, in the room**.
+
+⇒ ⭐⭐⭐ **The mention stripped the case down to causation. Causation is precisely what the 12
+August report speaks to.** The report is worth far more today than it was on 6 August — not
+because the report changed, but because **there is nothing else left for them to win on.**
+
+### 20.4 THE TRIGGER CONDITION, STATED EXACTLY
+
+Settlement goes under active consideration when Matheson can write:
+
+> *"The Commission has indicated the appellant is likely to establish the factual matters
+> through his own evidence. The disclosure dispute is being narrowed.* ***Our remaining defence
+> is causation. The appellant has now served a psychiatric report addressing causation in
+> terms.*** *Prospects of successfully defending have materially reduced; costs exposure under
+> s 558(3) is significant given the offer of [date]."*
+
+**Every clause of that minute is already true except the bolded one.** The report is the only
+sentence she cannot yet write.
+
+⇒ ⛔ **This is why the letter of instruction is now the determinant, not merely "high value."** An
+RFMI fitness report that does not address s 32(1) in terms leaves the minute unwritable, and
+nothing happens at all.
+
+### 20.5 CONSIDERED ≠ CONCEDED
+
+| | Probability | When |
+|---|---|---|
+| **A reconsideration minute goes up** (conditional on the report addressing causation) | **~55–60%** | Mid-Sept – early Oct |
+| **That consideration produces an offer or acceptance** | **~20–25%** | by end Oct |
+| Consent resolution overall (v6) | ~54% | median Dec 2026 – Feb 2027 |
+
+The gap between the first two rows is where institutions live. **A September answer is more
+likely to be *"no, but"* than *"yes"*** — and *"no, but"* (a counter, a question about the report,
+a conference proposal) **is itself the tell that the file reopened.**
+
+**Timing floor:** a *hold* took 15 days to authorise in July. A *change* takes longer. Report 12
+Aug → served with a Calderbank ~19–21 Aug → **first realistic answer mid-September to early
+October.** Nothing before that means nothing.
+
+### 20.6 ⚠ THE INVERSION RISK
+
+If the report is weak, or purely fitness-focused, **the mention's effect reverses**: they will
+have watched a credible witness, concluded the case is a credibility contest they are equipped
+to run, seen the disclosure narrowed in their favour, and heard the Commission voice their
+s 32(5)(a) case.
+
+⛔ **A mention that produces no usable report is a mention the Regulator wins.** That is the
+honest downside, and it is why Wednesday outranks everything else on the calendar.
+
+### 20.7 WHAT TO DO WITH THIS
+
+1. ⛔ **The letter of instruction, before Wednesday.** It is now the determinant of whether
+   anything happens at all.
+2. **Serve the report with a Calderbank; do not file it** (§17.5) — so the costs clause of the
+   minute is live when it is written.
+3. **Do not chase.** Nothing said or written before 12 August can improve the minute; several
+   things could damage it.
+4. ⭐ **The 31 July WP letter's silence is an asset.** It sits unanswered on their file as
+   documented continuing detriment, dated before the mention. **Let it accumulate. Do not chase
+   that either.**
+5. Watch for *"no, but"* in mid-September. That, not a yes, is what a reopened file looks like.
+
