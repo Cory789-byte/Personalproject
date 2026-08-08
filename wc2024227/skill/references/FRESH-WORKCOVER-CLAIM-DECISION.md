@@ -218,3 +218,109 @@ claim gives him over MSH — and it is slow, indirect, and not a decision they m
 on the employment track, and it is already being pressed — with a deadline on 24 August.**
 
 **Decide the claim question on 13 August, on the report, per §5.**
+
+---
+
+# PART 7 — THE SCENARIO: dismissed now → WorkCover in two weeks → no dismissal claim
+> **Verified against WCRA s 32 (ATT26, authorised, current 1 Jan 2025) and IR Act ss 310 and 317
+> (ATT22, current 1 Jan 2026).**
+
+## 7.1 ⛔⛔ THE STATUTE NAMES DISMISSAL AS AN EXAMPLE OF REASONABLE MANAGEMENT ACTION
+
+**WCRA s 32(5), the examples note, verbatim:**
+> *"**Examples of actions that may be reasonable management actions taken in a reasonable way—**
+> • action taken to transfer, demote, discipline, redeploy, retrench or **dismiss** the worker
+> • a decision not to award or provide promotion, reclassification or transfer of, or **leave of
+> absence or benefit** in connection with, the worker's employment"*
+
+⇒ ⛔⛔ **A claim whose stated cause is the dismissal begins inside a statutory example of the
+exclusion.** It is not hopeless — the examples say *"may be"*, and reasonableness still has to be
+established — **but it is the hardest possible starting point, on the ground the employer is best
+equipped to defend.**
+
+⭐⭐ **Note the second example too: it covers the refusal of a "leave of absence or benefit."** That
+is the fatigue-leave refusal. **This is now confirmed from the statute: running that limb as an
+entitlement dispute was always going to lose, and the reframing onto the rostering and the failure
+to assess (Parts 8.5 and 9) is what takes it outside the named example.**
+
+## 7.2 ⛔⛔ TO WIN IT HE WOULD HAVE TO PROVE THE DISMISSAL WAS UNFAIR — WITHOUT THE REMEDIES
+
+To defeat s 32(5)(a) on those facts he must show the dismissal was **unreasonable, or reasonable
+but carried out unreasonably.** ⭐⭐⭐ **That is precisely the question the dismissal application
+decides.**
+
+⇒ **He would be litigating the dismissal anyway — in front of an insurer, with the onus on him, and
+with none of the remedies attached.**
+
+| | What it delivers |
+|---|---|
+| **Unfair dismissal (s 317)** | ⭐ **Reinstatement**, or compensation |
+| **General protections (s 310)** | ⭐ Compensation, **and no statutory cap in the same way** |
+| **A WorkCover claim** | Weekly benefits and medical. **No job back** |
+
+## 7.3 ⛔⛔ THE FUSES ARE 21 DAYS AND SIX MONTHS — YOU LIGHT THE SHORT ONE FIRST
+
+| Claim | Limit | Extension |
+|---|---|---|
+| **Unfair dismissal — IR Act s 317(2)** | ⛔ **21 days after the dismissal takes effect** | On application, at the Commission's discretion |
+| **General protections relating to dismissal — IR Act s 310(1)** | ⛔ **21 days after the dismissal took effect** | ⚠ **Only on "exceptional circumstances"** (s 310(2): reason for delay · action taken to dispute · prejudice · merits) |
+| **WorkCover — WCRA s 131** | **6 months** | |
+
+⭐⭐⭐ **Lodging the dismissal claim does not prevent a WorkCover claim later. Not lodging it
+destroys the remedy permanently.**
+
+⇒ ⛔ **They are not alternatives, and treating them as alternatives is the whole error in the
+scenario.**
+
+## 7.4 ⭐⭐ HE HAS ALREADY RUN THIS PLAY, AND WON IT
+
+**Cessation 9 October 2024** (effective 8 October) → **Form 12 application for reinstatement,
+25 October 2024** (TD/2024/110) — **16 days, inside the 21** → **overturned.**
+
+⇒ ⭐ **Declining to do it a second time would itself be a fact requiring explanation** — to a
+tribunal, and to a psychiatrist asked why he did not contest a dismissal he says caused a
+breakdown.
+
+## 7.5 ⛔⛔ AND IT IS THE MOST DAMAGING POSSIBLE FRAMING FOR WC/2024/227
+
+A claim asserting *the breakdown was caused by the dismissal in August 2026* **concedes that the
+operative cause was a 2026 event.**
+
+⇒ **That does not merely risk the appeal. It is an argument against it — authored by him, in
+writing, on a claim form.**
+
+## 7.6 ⭐⭐⭐ THE CORRECT STRUCTURE IF HE IS DISMISSED — and it gets everything he wants
+
+**Within 21 days, without exception:**
+1. **Unfair dismissal (s 317)** — reinstatement, which he has obtained before.
+2. **And/or general protections (s 310)** — **dismissal for exercising workplace rights**: raising
+   fatigue and the minimum break, the PID, the union delegate role, the Stage 1/2 disputes, and the
+   appeal itself.
+
+**Then, and only if medically supported:**
+3. A WorkCover claim framed under ⭐⭐ **s 32(3)(b) — an *aggravation* of the injury of 18 June
+   2024** — **never as a new injury caused by the dismissal.**
+   ⚠ **s 32(4): an aggravation is an injury only to the extent of the effects of the aggravation.**
+   The claim is real but bounded.
+
+⭐⭐⭐ **All three coexist. The scenario as described is the one combination that cannot.**
+
+## 7.7 ⭐ WHAT IS RIGHT IN THE INSTINCT
+
+**A psychiatric injury arising from the *manner* of a dismissal is compensable where the dismissal
+was carried out unreasonably.** And the sequence — **26 June exclusion → 13 July non-payment →
+31 July RFMI → dismissal** — would make an *"unreasonably carried out"* argument genuinely strong.
+
+⇒ ⭐⭐ **But that strength lives in the dismissal claim, where the remedies are. It is the same
+evidence. The only question is which forum he spends it in — and one of them gives his job back.**
+
+## 7.8 ⛔ A CORRECTION I OWE HIM
+
+**Several times today I have referred to "s 310 — six years."** ⛔ **That is wrong for a dismissal.**
+**IR Act s 310(1): an application relating to dismissal must be made within 21 days**, extendable
+only on **exceptional circumstances**.
+
+⚠ The six-year figure attaches to a different route (a court application for a **non-dismissal**
+contravention) and **must be re-verified before anyone relies on it.**
+
+⇒ ⛔⛔ **For anything involving a dismissal: assume 21 days.**
