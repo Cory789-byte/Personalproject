@@ -399,3 +399,84 @@ reminder that the characterisation problem is not hypothetical.**
 
 ⇒ ⭐⭐⭐ **Every one of those four is now the case. The de novo hearing is not an attack on her
 decision — it is the first time those questions get asked.**
+
+---
+
+# PART 8 — DID SHE "MOVE TO DECLINE"? — tested properly, and the honest answer
+> **The question: does the decision show a decision-maker reasoning backwards from a predetermined
+> refusal?** ⭐ **This is a different question from bias** — it is about the **architecture of the
+> reasons**, which is demonstrable, not about a state of mind, which is not.
+
+## 8.1 THE SEVEN TESTS
+
+| # | Test | Result |
+|---|---|---|
+| **1** | **Does the conclusion follow from the findings?** | ⛔ **NO.** Injury ✓ · significant contributing factor ✓ · factor 4 unreasonable ✓ → **rejection.** The result depends entirely on one aggregation paragraph |
+| **2** | **Is the count inflated?** | ⚠ **Arguably yes.** Factor 2 was substantiated *against* him — *"not to the extent that there was no response"* — yet counted as a causative factor. **Including it is what makes *"two out of three"* possible.** Without it: one of two. ⚠ **But carelessness explains it as well as direction does** |
+| **3** | **Asymmetric rigour?** | ⚠ **INCONCLUSIVE.** She demands evidence from him (*"insufficient evidence"*, *"no evidence has been provided"*) and accepts employer assertion (*"the employer confirmed the changes were valid"*). ⭐ **But *Prizeman* puts the onus on the worker, and she cites it. The asymmetry is legally orthodox** |
+| **4** | **Does the outcome survive only because a step was skipped?** | ⭐⭐⭐ **YES — and this is the strongest finding.** She **recited *Delaney*'s threshold and never applied it.** Had she asked whether the factors were joined by subject matter, time and personality, **the aggregation would not have been available and the decision would have gone the other way.** ⚠ She also **expressly declined** to decide the reasonableness of the employer's stance on the agreement |
+| **5** | **Language of the operative paragraph?** | ⭐⭐ **Telling.** Her favourable findings are stated flatly — *"I am satisfied"*, *"I find the rostering… amounted to unreasonable management action."* **The paragraph that decides the case opens *"I note that since…"*** — the verb of an aside, carrying the whole outcome |
+| **6** | **Conclusion stated before the analysis?** | ✅ **No.** The structure is orthodox throughout |
+| **7** | ⭐⭐⭐ **What did she do with the findings she was free to leave alone?** | ⛔⛔ **This defeats the proposition.** See 8.2 |
+
+## 8.2 ⛔⛔ THE FINDING THAT DEFEATS "SHE MOVED TO DECLINE"
+
+**She overturned WorkCover on two of four factors — BOTH in his favour:**
+- **factor 3** — WorkCover: *not substantiated*. **Her: substantiated.**
+- **factor 4** — WorkCover: *reasonable management action*. **Her: UNREASONABLE.**
+
+⭐⭐⭐ **A decision-maker moving toward refusal does not overturn the primary decision twice in the
+applicant's favour. The cheap path was available — confirm WorkCover's findings and stop. She did
+not take it.**
+
+**She also found, unprompted, that employment was a significant contributing factor, and recorded
+Dr Hawes saying work events were the *sole* cause and that there was no pre-existing condition —
+all of which the Regulator now disputes in the appeal.**
+
+⇒ ⛔ **The document does not support the proposition. It is the wrong reading, and it is the weaker
+one.**
+
+## 8.3 ⭐⭐⭐ WHAT THE DOCUMENT DOES SUPPORT — and it is stronger
+
+> **A considered decision with an unconsidered ending.**
+
+**Everything to page 26 is careful, evidence-based, and moved twice in his favour.** The final
+paragraph does something different in kind:
+- it **counts** instead of evaluating;
+- it opens with ***"I note"***;
+- it deploys ***Delaney* without its threshold**;
+- and it introduces ***"mainly"*** — **a dominant-cause test that does not exist in s 32(5)(a).**
+
+⇒ ⭐⭐⭐ **The decision was not reasoned to a refusal. It was reasoned carefully and then RESOLVED at
+the last step by an arithmetic that the Industrial Court has rejected.**
+
+## 8.4 ⛔⛔ AND WHY HE MUST NOT RUN THE OTHER VERSION
+
+**The two arguments are mutually destructive.**
+
+| | |
+|---|---|
+| ⭐⭐⭐ **"Her own findings support me"** | Requires her to have been **fair** — which is why the findings carry weight |
+| ⛔ **"She moved to decline"** | Requires her to have been **unfair** — **which destroys the value of every finding he wants to rely on** |
+
+⇒ ⭐⭐⭐ **He cannot say *"the Regulator's own delegate found employment was a significant
+contributing factor and found factor 4 unreasonable"* and simultaneously say *"she set out to
+refuse me."* The first is his best settlement argument in the whole file. The second takes it
+away.**
+
+**And the first is also true.**
+
+## 8.5 THE FORM OF WORDS
+
+⭐ **Safe, accurate, and it does everything the other version tries to do:**
+
+> *The Review Officer found that the appellant sustained a personal injury, that employment was a
+> significant contributing factor, and that the rostering of the shifts of 17 and 18 March 2024
+> amounted to unreasonable management action. Those findings were made after she had departed from
+> WorkCover's decision on two of the four factors. The refusal followed from a single paragraph
+> which counted the factors and asked whether the injury "mainly" arose out of reasonable
+> management action — a test which s 32(5)(a) does not contain, and which is contrary to Adams and
+> Mahaffey.*
+
+⛔ **No adjective. No allegation. Nothing about her.** ⭐ **And it leaves the decision defeating
+itself, which is where the force is.**
