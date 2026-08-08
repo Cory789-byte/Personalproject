@@ -3225,3 +3225,32 @@ sufficient causal connection** answers s 32(5)(a) in the negative. **Strand 1 is
 arithmetical, and uncontested as to the shortfall.**
 ⇒ **Eleven survive. Five fall. The case needs one — and it is the one where his own conduct is
 not in issue at any point.**
+
+## ⛔⛔⛔ CORRECTION 7 AUG 2026 — THE RETURN DATE IS 7 APRIL 2025, NOT 24 FEBRUARY 2025
+**Found by an eval subagent auditing `drafts/PSYCHIATRIST_BUNDLE_12AUG.md`.**
+
+**The error:** Bain's email of 21 Feb 2025 says the return *"**will take effect** from Monday 24
+February 2025."* That is a **scheduled** date. **It did not proceed.** The actual return to work
+was **7 April 2025** — which the bundle's own one-page chronology already said, and which the
+2025 FTE analysis (26 Mar – 18 Jun 2025) is consistent with.
+
+⛔ **I treated a scheduled date as a completed event** and wrote it into the psychiatrist bundle
+twice. **Same failure mode this repo keeps producing: reasoning from one document without checking
+whether the thing it announces actually happened.**
+
+### ⛔⛔ AND WHY IT MATTERED MORE THAN AN ORDINARY DATE ERROR
+**`CHRONOLOGY-SHIELD-post-injury-events.md` records a different event on 24 February 2025**, and
+that event is **rule 10 / shielded material**. ⇒ **An instruction to tell the treating psychiatrist
+he "returned to work on 24 February 2025" would have put a shielded date into a medical document
+that goes to MSH and is disclosable in the appeal.** Corrected before the 12 August consultation.
+
+### ⚠ TWO FURTHER DATE CONFLICTS FLAGGED IN THE SAME AUDIT — RESOLVE BEFORE THE 12th
+1. **Last shift worked: 14 June 2026 (bundle) vs 13 June 2026** — MSH's own payroll data to ART
+   per `TURNED-WORDS-ledger.md` item 10. ⭐ This is the long-outstanding "verify the last shift"
+   item. **Use MSH's figure or say nothing.**
+2. **Exhibit A4 is an exhibit to the APPELLANT'S OWN Form 24 Notice** (cited at Notice ¶¶38–39),
+   tendered by him for the Question 5 premature-exposure opinion. ⚠ **Do not describe it as "the
+   Regulator's exhibit" or as material they obtained.** They hold it because he put it in issue.
+   Response rows 35/36 are Type B — the report *says* it; accuracy not admitted. ⭐ And **row 36
+   quotes *"disputed unfair dismissal proceedings"* verbatim**, so the Regulator's own pleading
+   records the dismissal.

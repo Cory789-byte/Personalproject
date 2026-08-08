@@ -111,10 +111,15 @@ Queensland Industrial Relations Commission proceeding.**
 **2. ⭐ BRING HIM UP TO DATE — HE IS NOT WRONG, HE IS OUT OF DATE.** His February 2025 report
 refers to an *"unfair dismissal"*, a *"former employer"* and *"job loss"*. ⭐ **All of that was
 ACCURATE on the day he wrote it** — employment ceased **9 October 2024** by an abandonment-of-
-employment letter, backdated to the day after WorkCover rejected the claim, and Cory did not
-return to work until **24 February 2025**, eleven days after the report. ⛔ **Do not "correct" him.**
+employment letter, backdated to the day after WorkCover rejected the claim, and Cory **had not
+returned to work when the report was written**. ⛔ **Do not "correct" him.**
 Tell him what has happened since:
-- the dismissal was **overturned** and he was **returned to work 24 February 2025**;
+- the dismissal was **overturned** and he **returned to work on 7 April 2025**;
+  ⛔⛔ **NOT 24 February 2025.** HR confirmed a return *for* that date (Bain, 21 Feb 2025), but it
+  **did not proceed**. The actual return was **7 April 2025**, which is what this file's own
+  chronology says. ⛔ **24 February 2025 must never be given to the psychiatrist as a return date
+  — see `skill/references/CHRONOLOGY-SHIELD-post-injury-events.md`. A different event is recorded
+  on that date and it is rule-10 material.**
 - he **worked until 14 June 2026**, on a reduced pattern of about six shifts a fortnight;
 - he is **still employed** — held out of the workplace since **26 June 2026** and **unpaid since
   13 July 2026**, having been certified **fit with restrictions on 3 July 2026**.
