@@ -97,3 +97,50 @@ mechanism with one proven instance is *Mahaffey*. They sound identical and produ
 - The admission moved into the sentence, not left in a parenthesis — parentheses are skipped
   when a document is read aloud, and this one was.
 
+
+## ⭐⭐ Search the whole matter before you answer — do not guess which file to open
+
+There are **411 files and ~6,330 PDF pages**. No session can hold them. But the failure has never
+been that a document was unreadable — **it has been not knowing which document to open.**
+
+`wc2024227/index/FULLTEXT.txt` holds every extractable page, each preceded by a marker line:
+
+```
+>>> documents/WC.2024.227_Regulator_SOFC_13.05.2026.pdf :: page 3
+```
+
+So one search reaches the entire matter and hands back the file and page:
+
+```bash
+grep -n -i "fatigue leave" wc2024227/index/FULLTEXT.txt
+```
+
+**Then open that document properly.** The index tells you where to look; it is not a substitute for
+reading the source, and nothing is quoted into a filing from the index.
+
+⚠ **Rebuild it whenever documents are added**, or it silently goes stale and produces exactly the
+false confidence it exists to prevent:
+
+```bash
+cd wc2024227 && python3 ../.claude/skills/wc2024227-interlock/scripts/build_index.py
+```
+
+### ⛔⛔ 31 documents have NO usable text layer — grep cannot see them
+`index/MANIFEST.tsv` marks them `NO_TEXT_LAYER` or `THIN`. **They return nothing to every search,
+which is why things in this repo have repeatedly been called "missing" while sitting on disk.**
+The ones that matter most:
+
+| Document | Why it matters |
+|---|---|
+| `related-matters/TD2024-110_Form12_Application_for_reinstatement_stamped_25.10.2024.pdf` | ⭐⭐⭐ The reinstatement application. Called "the most important missing document" — **it was never missing** |
+| `medical/Employee_Capability_Checklist_CShepherd_03-07-2026.pdf` | ⭐⭐ **The ECC.** The whole exclusion turns on it and it has only ever been quoted second-hand |
+| `filings/2026-04-22_Form29_Notice_NonParty_Disclosure_sealed.pdf` | The sealed Notice |
+| `evidence/Chloe_Work_text_messages_incl_2023-04-04_roster_board.pdf` | Taylor texts + a 2023 roster board |
+| `medical/2025-07-22_OurMedicalAshmore_GP_records_via_Saines.PDF` | Exhibit A5 |
+| `disclosure-2026-06_MSH_production/*` | What MSH actually **produced** — as opposed to what it refused |
+| `documents/orders/*` (all four) | Every directions order |
+| `documents/filings/2026-02-2*` | The recalled February 2026 Form 4 and affidavits |
+
+**Render them: `pdftoppm -r 150 -png <file> <outstem>` and read the pages.**
+⭐ **If a search returns nothing on a proposition you expect to exist, check the manifest before
+concluding the document is absent.** Silence in this repo usually means no text layer, not no document.
