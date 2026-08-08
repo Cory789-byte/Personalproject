@@ -188,3 +188,96 @@ cross-examination."*
 ⇒ ⭐ **However comprehensive the report, Dr Krishnaiah must attend and be cross-examined — and the
 Appellant pays.** **Ask his rooms for a fee estimate, and whether he will give evidence by
 telephone or video, which the Guide permits for experts.**
+
+---
+
+# PART 9 — ⭐⭐ THE MOTHER'S COLLATERAL IN EXHIBIT A4 — verified, and it cuts both ways
+> Read from source: `documents/medical/2025-02-13_MindAndMemory_report_QSuper_LouiseIngs.pdf`
+> (**Exhibit A4**, 13 February 2025).
+
+## 9.1 WHAT THE REPORT ACTUALLY SAYS
+
+**Opening:**
+> *"I have undertaken clinical assessment, reviewed materials presented to me regarding his unfair
+> dismissal, workplace conflicts, alleged bullying, harassment and Workcover matter. **Further
+> obtained collateral information from his mother independently.**"*
+
+**Premorbid / personality section:**
+> *"Cory described himself as detail-oriented, perfectionistic, and having high standards. He tends
+> to hyperfocus on tasks and **can become consumed by issues he perceives as unjust**. Cory's mother
+> described him as clever, talented, and determined. She reported feeling undervalued and
+> frustrated with perceived inconsistencies in policy implementation and described as having a
+> strong work ethic. However, he struggles with assertiveness and decision-making, particularly in
+> workplace and relationship contexts."*
+
+## 9.2 ⭐⭐ THE STRENGTH — and it is real
+
+**Independently obtained collateral history is a MARK OF QUALITY, not a defect.** It is how a
+psychiatrist tests whether self-report is reliable.
+
+⇒ ⭐⭐⭐ **In a case where the Regulator will say his account is self-serving, an independently
+obtained collateral history shows the diagnosis was not formed on his say-so alone.**
+
+⭐⭐ **And it is the RIGHT kind of collateral — which is the distinction that matters (Part 5):**
+
+| Collateral about… | Verdict |
+|---|---|
+| ⭐ **the PERSON** — premorbid personality, functioning, history | **Orthodox, expected, and helpful** |
+| ⛔ **the DISPUTED EVENTS** — what happened at work | **Dangerous. Turns the doctor into a witness to facts he cannot test** |
+
+**His mother gave the first. That is exactly right, and nothing about it should be distanced from.**
+
+## 9.3 ⛔⛔ THE SERIOUS PROBLEM — and it is already in the Regulator's hands
+
+> ***"…can become consumed by issues he perceives as unjust."***
+
+⛔⛔ **That is s 32(5)(b) in the report's own words.** The subsection excludes a psychiatric disorder
+arising out of *"the worker's **expectation or perception** of reasonable management action being
+taken against the worker."*
+
+⇒ ⭐⭐⭐ **His own treating psychiatrist has written that he becomes consumed by matters he
+*perceives* as unjust — and A4 is an exhibit the Regulator already holds** (Form 24 ¶¶38–39).
+
+⚠ **And *"perfectionistic"* + *"hyperfocus"* + *"struggles with assertiveness"* together read as a
+premorbid vulnerability narrative — which supports a constitutional-predisposition argument rather
+than a work-causation one.**
+
+### ⇒ WHAT THIS CHANGES
+
+1. ⛔⛔ **s 32(5)(b) cannot be assumed to stay unpleaded.** The material for it is sitting in his own
+   expert's report. **Every discipline about never opening that limb becomes more important, not
+   less — because the door is already ajar.**
+2. ⭐⭐⭐ **It makes Wednesday's instruction more important, not less.** ⛔ **Not to retract the
+   sentence** — a doctor who retracts under instruction is finished as a witness — **but so that
+   Report B addresses premorbid traits properly**, rather than leaving that one line as the only
+   clinical statement about his personality.
+3. ⭐ **A well-reasoned report can absorb it.** Premorbid conscientiousness is not a disqualifier; a
+   diagnosed MDD with an identified stressor is not displaced by personality traits. ⚠ **But it has
+   to be reasoned, not ignored.**
+
+## 9.4 ⚠ TWO SMALLER PROBLEMS IN THE SAME PASSAGES
+
+**1. A garbled sentence.** *"**She** reported feeling undervalued and frustrated with perceived
+inconsistencies in policy implementation"* — read literally, **the mother** felt undervalued. The
+subject has dropped out; it plainly means she reported that **he** did.
+⚠ **Ambiguity is what a cross-examiner works with.** It also sits alongside the *"cab be found out
+their"* class of drafting error — ⭐ a reminder that **A4 was written for QSuper, not for a court.**
+
+**2. The scope line describes the wrong matter.** *"…regarding his unfair dismissal, workplace
+conflicts, **alleged bullying, harassment** and Workcover matter."*
+- ⭐ **"Unfair dismissal" is ACCURATE** — employment ceased 9 October 2024 and was reinstated. **The
+  earlier flag on this was correctly withdrawn.**
+- ⚠ **But "bullying, harassment" is not the pleaded case.** The Amended 9A pleads **a course of
+  management conduct** — not bullying or harassment. ⛔ **A cross-examiner can say the doctor
+  assessed a different complaint from the one before the Commission.**
+- ⚠ And *"materials presented to me"* is unspecified — **the sources problem at Part 2, section 2.**
+
+## 9.5 WHAT TO DO
+
+| | |
+|---|---|
+| ⭐ **Keep the mother's collateral. Do not distance from it** | It is a quality marker and it answers "self-serving" |
+| ⛔⛔ **Raise the *"perceives as unjust"* line with Dr Krishnaiah on Wednesday** | Not to change it — **so Report B reasons about premorbid traits instead of leaving that as the last word** |
+| ⭐⭐ **Report B must carry a full sources list** | The thing A4 lacks |
+| ⚠ **Report B must describe the matter correctly** | A workers' compensation appeal concerning **a course of management conduct** — **not bullying or harassment** |
+| ⚠ **Consider whether she gives collateral again for Report B** | ⭐ Her value is **as collateral to the psychiatrist, not as a witness.** ⛔ Family evidence about a party carries little weight and personalises the case. **And it is her decision, not his to assume** |
