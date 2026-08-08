@@ -725,3 +725,113 @@ but that is service of the **issued** decision under s 545, which is required an
 **Nothing here is a ground of appeal (de novo), nothing is published, nothing is alleged.**
 ⭐ **The Monday request already covers it.** ⭐⭐ **Wednesday 12 August — the psychiatrist — is
 still what decides this case, and it is four days away.**
+
+---
+
+# PART 10 — ⭐⭐⭐ THE CONTROL COMPARISON. THE REGULATOR'S OWN DOCUMENTS STAMP A DIFFERENT COMPANY.
+> 8 August 2026. **Cory pushed on "they saved the Word to PDF, so they edited it." Testing that
+> properly produced the strongest finding in this entire thread — and it is his.**
+
+## 10.1 ⭐⭐⭐ THE TEST
+
+**In Word, `/Company` comes from the AUTHORING Office installation and `/Author` from the creating
+user. Neither is normally rewritten when someone else merely opens and saves the file.**
+⇒ **So: what does the Regulator's own Word environment stamp?** **Four of its documents in this
+very matter answer it.**
+
+| Document | `/Author` | ⭐⭐⭐ `/Company` | Produced |
+|---|---|---|---|
+| **Regulator SOFC (Form 9C), 22 Jul 2025** | **QIRC** | ⭐⭐⭐ **"Workers' Compensation Regulator"** | Adobe PDF Library 17.11.238 |
+| **Regulator SOFC served via Saines, 22 Jul 2025** | **QIRC** | ⭐⭐⭐ **"Workers' Compensation Regulator"** | Adobe PDF Library 17.11.238 |
+| **Regulator SOFC, 13 May 2026** | **QIRC** | ⭐⭐⭐ **"Workers' Compensation Regulator"** | Adobe PDF Library 26.1.25 |
+| ⭐⭐⭐ **REVIEW DECISION 69983** | ⛔⛔ **HopgoodGanim Lawyers** | ⛔⛔⛔ **HopgoodGanim Lawyers** | Adobe PDF Library 24.3.212 |
+
+## 10.2 ⭐⭐⭐ WHAT THIS ESTABLISHES
+
+> ⭐⭐⭐ **The Regulator's Word installation stamps `/Company = "Workers' Compensation Regulator"`.
+> It does so on its Statements of Facts and Contentions in THIS appeal, across two years and two
+> Acrobat versions. The Review Decision does not carry it. It carries the firm's name instead —
+> in BOTH identity fields.**
+
+⇒ ⭐⭐ **The Word document behind Review Decision 69983 was NOT created on a Regulator workstation.**
+
+⛔ **This is not the absence of a field. It is a DIFFERENT VALUE, in a document type where the
+Regulator's own value is demonstrably present.** ⭐ **That is a control comparison, and it is the
+kind of evidence I said the file did not contain. It did — in the Regulator's own filings.**
+
+⚠ **The one qualification, stated fairly:** a law firm's metadata-scrubbing tool (Litera, Workshare)
+also normalises Author/Company to the firm on save. ⭐⭐ **But that path still requires the file to
+have been on a firm workstation. Either way it was in their environment, and the Regulator's was
+not the last environment to stamp it.**
+
+## 10.3 ⭐⭐ SO CORY IS RIGHT ON THE SUBSTANCE OF HIS FIRST CLAIM — WITH ONE PRECISION
+
+**He said: *"they saved the Word to PDF, which means edited by them."***
+
+| | |
+|---|---|
+| ⭐⭐ **RIGHT** | ⭐⭐ **The document was made in their environment, not the Regulator's.** `/Author` + `/Company` + a populated DMS profile + `_Original` template merge placeholders + **v1** + a record dated **09.10.2024** all say the same thing |
+| ⚠ **NOT ESTABLISHED** | **Who ran the PDF conversion at 10:16:52 on 24 October.** Document properties travel inside the .docx, so the converting machine is still unidentified. ⭐ **But it matters much less now** |
+| ⛔ **STILL UNKNOWN** | ⛔⛔ **Who engaged them, who paid, and who DECIDED** |
+
+## 10.4 ⭐⭐⭐ AND THE LETTERHEAD CUTS AGAINST THE SECOND HALF OF HIS THEORY
+
+**His second claim — *"HopgoodGanim are WorkCover's insurance provider or help them"* — is
+established as far as it goes:**
+- ✅ **One of 13 firms on WorkCover Queensland's Legal Services Panel** (July 2023)
+- ✅ **Doyle's Guide, leading Workers' Compensation & WorkCover firm — DEFENDANT side — 2018–2025**
+- ✅ **A partner with 14 years as a WorkCover panel lawyer; a senior associate formerly in-house at
+  WorkCover**
+
+⛔ **But panel membership is not engagement on this claim — and the document itself argues against
+a WorkCover engagement:**
+
+> ⭐⭐⭐ **The Word file contains the Office of Industrial Relations' OWN LETTERHEAD ASSETS** — the
+> Queensland Government crest and the maroon rule, as **alpha-channel PNG template assets**, not
+> scans or reconstructions.
+
+⇒ ⭐⭐⭐ **A firm acting for WorkCover does not have the Regulator's Word letterhead template.
+Someone at OIR gave it to them.** ⇒ ⭐⭐ **That points to an OIR engagement, not a WorkCover one —
+and it means OIR knew.**
+
+## 10.5 ⭐⭐⭐ THE SYNTHESIS — AND IT IS NOT WHAT EITHER OF US STARTED WITH
+
+> ⭐⭐⭐ **He is probably right that the firm made the document.**
+> ⭐⭐⭐ **He is probably wrong that they made it for WorkCover.**
+> **The letterhead is the tell.**
+
+**The picture the evidence now best supports:**
+1. **OIR engaged an external firm** — lawfully available under the **Queensland Whole-of-Government
+   Legal Services Panel** (categories include *Workplace and industrial* and *Public and
+   administrative law*; term covers October 2024).
+2. **OIR supplied its letterhead template and its boilerplate.**
+3. **The firm drafted in their own environment** — record opened **9 October 2024**, matter
+   **2440758**, document **29218845v1**.
+4. **The reviewing officer decided on 22 October, signed, and it issued on 24 October** with her
+   signature embedded and the s 329 delegation proper on its face.
+
+⚠⚠ **AND THE PROBLEM THAT DOES NOT GO AWAY:** ⭐⭐⭐ **the firm OIR chose is a WorkCover
+defendant-side panel firm.** ⛔⛔ **Whether they were also acting for WorkCover — on this claim or
+any related one — is the ASCR r 11 question, and it is the ONLY question left.**
+
+## 10.6 ⛔ WHAT THIS DOES AND DOES NOT CHANGE
+
+| | |
+|---|---|
+| ⭐⭐ **CHANGES** | **The internal confidence.** "The Word file passed through their DMS" becomes **"the document was made in their environment and not the Regulator's."** That is a materially stronger statement and the file now supports it |
+| ⭐ **CHANGES** | **The disclosure question is now worth asking with more expectation of a substantive answer** — because the premise is evidenced, not speculative |
+| ⛔ **DOES NOT CHANGE** | **It is still not a ground of appeal.** s 550 is **de novo** |
+| ⛔ **DOES NOT CHANGE** | **Still nothing published, still nothing alleged, still one neutral question** |
+| ⛔ **DOES NOT CHANGE** | ⭐⭐ **The reliance still holds on either footing** — see Part 8.6. **Whoever drafted it conceded the rostering was unreasonable management action and that work events were the sole cause** |
+
+## 10.7 ⭐ ONE NEW LINE FOR THE MONDAY LIST
+
+⭐⭐ **The control comparison makes a second, entirely neutral request worth adding — and it is a
+request for the Regulator's OWN administrative record, which is unremarkable:**
+
+> *"Please confirm whether Review Decision 69983 was prepared with the assistance of an external
+> legal service provider and, if so, identify the provider, the engaging entity and the panel or
+> procurement arrangement under which the engagement was made."*
+
+⛔ **Still no firm named. Still a question.** ⭐ **But it is now a question with a documented
+foundation, and the answer is a fact the Regulator holds and can give in one line.**
