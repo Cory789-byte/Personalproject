@@ -259,3 +259,103 @@ function, resting on admissions the employer has already made.
 ⇒ **Restraint is not caution here. It is the source of the pressure.** Overstating the
 clinical-governance point is the single fastest way to disarm the one part of the case MSH cannot
 respond to.
+
+---
+
+## 9. ⛔⛔ CORRECTION — A WC HEARING IS *MORE* ORAL THAN THE MENTION, NOT LESS
+
+**The assumption tested (8 Aug):** *"at the hearing Dwyer would already have seen the attached
+document, and so would the Respondent and MSH"* — so the parts he moved on from would already be
+in front of everyone in writing.
+
+⛔ **That is not how a workers' compensation appeal runs.** From the Commission's own
+**Workers' Compensation Appeal Guide, Part 7.6**:
+
+> **"In workers' compensation matters, all witness evidence is provided ORALLY. There are
+> generally NO AFFIDAVITS OR WITNESS STATEMENTS. Therefore, the Directions Order only requires
+> that you provide a one-page outline of evidence for each of the witnesses to each of the
+> parties."**
+
+And **Part 4.10**: the Further Directions Order requires an **"outline of evidence" — one A4 page
+per lay witness**, a *brief overview* only, served so there is no *"hearing by ambush."*
+
+### 9.1 WHAT THAT ACTUALLY MEANS
+
+| | 7 August mention | The hearing |
+|---|---|---|
+| Basis of decision | **Affidavit** — the Form 20 affirmed 18 June 2026, exhibits CS-1 to CS-4 with Form 21 certificates | **Oral evidence from the witness box** |
+| What the Commission has read in advance | The Form 20, the Form 29, K-LM26/729 | **A one-page outline per witness.** Nothing more |
+| How CS-1 gets before the Commission | Annexed to the affidavit, already read | **Tendered through a witness during oral evidence** |
+| Who does the talking | Largely the Commissioner | **Him — in examination-in-chief** |
+
+⭐⭐⭐ **The exact inverse of the assumption.** On 7 August the papers were in front of Dwyer
+**because it was an interlocutory application decided on affidavit**. At the hearing, **nobody
+reads the affidavit — he says it.**
+
+⛔ **The Form 20 affidavit is evidence on the r 64G application. It is not his evidence at the
+hearing.** It does not carry across automatically, and the 7 April 2026 Further Directions Order
+makes no direction for hearing evidence.
+
+### 9.2 ⇒ THE CONSEQUENCES, IN ORDER OF IMPORTANCE
+
+**1. ⭐⭐ The narration Dwyer cut short IS the hearing.** What was out of place on a disclosure
+application is the main event at a hearing, done properly in chief, with documents tendered as he
+goes. **He was not being told the material was unwelcome. He was being told it was not that day.**
+
+**2. ⭐⭐ 7 August was therefore a rehearsal of the exact skill the hearing requires** — oral
+delivery, under pressure, in front of the actual decision-maker — and the feedback was that the
+right answer is available without preparation. **That is worth far more under this procedure than
+it would be in an affidavit jurisdiction.**
+
+**3. ⭐⭐⭐ Dwyer's cross-examination mechanic was not a workaround. It is simply how evidence is
+obtained here.** In a forum where all evidence is oral and there are no witness statements,
+*"put it to her in cross-examination and the Respondent then has to displace it"* is **ordinary
+procedure** — which is why it was said so matter-of-factly.
+
+**4. ⛔⛔ CRITICAL PATH — TAYLOR MUST BE CALLED, OR THE STRAND DIES.**
+MSH is **not a party**; Ms Taylor is an MSH employee. Either the Regulator calls her, or he must
+list her and secure her attendance. **If neither happens, the strand the Commission said could be
+established by cross-examination cannot be established at all.**
+⚠ And the Guide is express: ***"If you fail to call someone who could provide relevant evidence to
+your matter it may count against your case."***
+
+**5. ⚠ OPEN QUESTION TO RESOLVE — was a witness list ever filed?**
+- **AFDO 3 Jun 2025:** Appellant witness list + outline by **6 Aug 2025**; Respondent's 27 Aug 2025.
+- **AFDO(2) 16 Jul 2025:** Appellant witness list + outline by **13 Aug 2025**; Respondent's 3 Sep.
+⛔ **Whether either was complied with is not established in this repo.** It must be answered before
+anything else in this section can be acted on — Registry, or the file.
+
+**6. The one A4 page per witness is a load-bearing document, not a formality.** It is the *only*
+advance notice of his evidence, and it is what the Regulator and MSH will read to build their
+cross-examination. **It sets the boundaries of what he can then give.**
+
+### 9.3 WHAT THIS CHANGES ABOUT THE "HE MOVED ON" READING
+
+Three candidate explanations, and **no single one covers all three instances**:
+
+| Instance | "Not this application" | "Already on paper" | "Not persuaded" |
+|---|---|---|---|
+| Clinical governance / the result of unassessed directives | ✅ strong | ✗ — the complaints corpus is **Item 3(a), not produced** | possible |
+| *"That's just management action"* → the answer | ✅ | partly (¶8 admitted) | ⚠ possible |
+| The filters / Item 10 | ✗ — this one **resolved**, he understood | ✅ set out in the Form 29 | ✗ |
+
+⇒ ⛔ **The pattern is not decodable without a transcript, and it does not need to be.** Under
+Part 7.6 the answer is the same either way: **the material was not cut because it is unwelcome —
+it was cut because the forum for it is oral evidence at a hearing, and that had not arrived.**
+
+### 9.4 ⚠ THE COST OF EVERYONE HOLDING THE DOCUMENTS
+
+He is right that there will be no surprise: the Regulator and MSH hold the Form 20, CS-1 to CS-4
+and the Amended 9A. **So Ms Taylor will be prepared for CS-1**, taken through it by whoever
+prepares her.
+
+⇒ **Build the cross-examination so preparation does not save her: short, closed, document-anchored
+questions where the document supplies the contradiction and the only answers are yes or no.** Open
+questions invite the prepared explanation. On CS-1:
+
+> *You wrote on 9 May 2024 that the doctor's hours were not provided on the rosters. · And that
+> the contact number was switched off. · You then directed a change to the Switchboard's
+> call-handling process. · Before you did, did you ask anyone at the Switchboard? · Did you check
+> the roster?*
+
+**Five closed questions off her own email. None of them can be prepared away.**
