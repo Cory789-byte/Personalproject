@@ -764,3 +764,127 @@ highest, opens **s 32(5)(b)**, and **SOFC ¶16(a) pleads that Ms Reese was unawa
 > *On 24 December 2024 the Ethical Standards Unit determined that the disclosure of 13 May 2024
 > constituted a Public Interest Disclosure. That determination post-dates the Review Decision by two
 > months.*
+
+---
+
+# PART 12 — ⭐⭐⭐ FACTOR 2: THE MEETING SCHEDULED WHILE HE WAS CERTIFIED OFF WORK
+> 8 August 2026. **Cory's point, verified against the decision text today.** ⭐⭐⭐ **This is a
+> MERITS point and it is worth more than the entire metadata thread.**
+
+## 12.1 WHAT SHE ACTUALLY WROTE — verbatim, pp 12 and 18
+
+**The narrative (p 12):**
+> *"In an **undated email**, Ms Reese scheduled a meeting with you at **10:00am on 12 July 2024** to
+> discuss the outcome of your complaint."*
+> *"In an email dated **12 July 2024**, Ms Reese stated she **rescheduled the meeting to 16 July
+> 2024 since you were away on that day**."*
+
+**The conclusion (p 18):**
+> ⭐⭐⭐ *"Likewise, I find **Ms Reese contacted you twice in an attempt to schedule a meeting** with
+> you to discuss your concerns and allegations, and **without your participation in this process,
+> there was no other actions available for Ms Reese to take. Therefore, I am satisfied this factor
+> amounted to reasonable management action taken in a reasonable way.**"*
+
+## 12.2 ⭐⭐⭐ THE DATES — AND THEY ARE ALL IN HER OWN DECISION
+
+| Date | Event | Source |
+|---|---|---|
+| **18 June 2024** | ⭐ **Date of injury** | Decision p 1 |
+| **1 July 2024** | ⭐ **Application for compensation lodged** | Decision p 1, evidence list |
+| ⭐⭐ **1 July 2024** | ⭐⭐ **First work capacity certificate, Dr Hawes** — *"anxiety and stress"* | Decision, evidence list + p 5 |
+| ⭐⭐⭐ **12 July 2024** | ⭐⭐⭐ **Meeting attempt 1** | Decision p 12 |
+| ⭐⭐⭐ **16 July 2024** | ⭐⭐⭐ **Meeting attempt 2** — rescheduled ***"since you were away on that day"*** | Decision p 12 |
+| **7 Aug · 11 Aug · 8 Sep 2024** | Further work capacity certificates (Pang, Hawes, Hawes) | Evidence list |
+
+> ⭐⭐⭐ **BOTH meeting attempts fell AFTER he was certified with the psychological injury and
+> AFTER the WorkCover claim was lodged. The meeting was about the very complaint that is one of
+> his pleaded stressors.**
+
+## 12.3 ⭐⭐⭐ THE THREE DEFECTS — and none of them requires alleging anything about anyone
+
+**1. ⭐⭐⭐ SHE RECORDS THAT HE WAS AWAY, AND THEN HOLDS HIS ABSENCE AGAINST HIM.**
+The decision itself says Reese rescheduled ***"since you were away on that day."*** ⇒ **His absence
+is on the face of the decision.** It is then converted into *"without your participation… there was
+no other actions available"* and from there into **reasonable management action**.
+
+**2. ⭐⭐⭐ THE INTERNAL INCONSISTENCY.**
+She excuses the ESU on the basis that *"due to your lack of communication of this information to
+the Unit, **they could not have known** this was the reason for your lack of participation."*
+⛔⛔ **She then applies the same excuse to Reese — when the decision records that Reese DID know,
+and rescheduled for exactly that reason.** ⇒ ⭐⭐ **The "could not have known" reasoning cannot
+carry the July meetings. It is transplanted from the May ESU exchange, where it may hold, to the
+July meetings, where the decision's own facts contradict it.**
+
+**3. ⭐⭐ "NO OTHER ACTIONS AVAILABLE" IS NOT MADE OUT.**
+⭐ Obvious alternatives existed and none is considered: **wait until he was fit; deal with it in
+writing; put the outcome in a letter; ask the treating doctor whether a meeting was appropriate;
+offer a support person.** ⛔ *Bowers* permits *"failings, deficiencies and flaws"* — ⭐⭐ **but
+*Bowers* is about whether action was reasonable, not a licence to skip the question whether ANY
+alternative existed.**
+
+## 12.4 ⭐⭐⭐ WHY THIS IS THE RIGHT KIND OF POINT
+
+| | |
+|---|---|
+| ⭐⭐⭐ **It is a MERITS point** | It goes to **s 32(5)(a)** — whether the action was reasonable **and taken in a reasonable way**. **That is the actual question in the appeal** |
+| ⭐⭐⭐ **De novo means he gets to run it fresh** | **s 558(1)(c)**. The Commission decides it again, on evidence she never had |
+| ⭐⭐⭐ **It needs NO allegation about anybody** | No bias, no dishonesty, no metadata, no firm. **Just her dates against the certificates** |
+| ⭐⭐ **The proof is already in her own document** | **Both dates and the words *"since you were away"* are on p 12** |
+| ⭐⭐⭐ **It is a *Mahaffey* point, and *Mahaffey* is the case she never cited** | Reasonableness of the **way** action is carried out — the exact ground the omitted authority governs |
+
+## 12.5 ⛔⛔ THE VERIFICATION THAT MUST HAPPEN FIRST — do not run it until this is done
+
+⚠⚠ **A certificate dated 1 July does not automatically establish unfitness on 12 and 16 July.**
+⛔ **BEFORE this goes anywhere:**
+1. ⭐⭐⭐ **Read the Dr Hawes work capacity certificate of 1 July 2024** — **what PERIOD does it
+   cover and what CAPACITY does it certify?** If it covers 12–16 July and certifies no capacity,
+   the point is complete. **If there is a gap between 1 July and 7 August, the point weakens and
+   must be re-framed around the claim being on foot rather than certified incapacity.**
+2. **Obtain the undated Reese email** and the 12 July rescheduling email — ⭐ **the first is
+   *undated* on the face of the decision, which is itself worth knowing.**
+3. **Confirm what MSH knew and when** — the employer response of 15 August says he *"did not
+   respond to her several attempts to meet."* ⭐ **"Several" versus her finding of "twice" is a
+   discrepancy worth pinning.**
+
+## 12.6 ⛔⛔⛔ AND THE PID / ESU VALIDATION — HANDLE WITH REAL CARE
+
+**His point: the ESU never investigated, and he was later PID'd and ESU-validated.**
+
+**What the decision records:** the complaint of 13/16 May 2024; particulars requested 20 May;
+⭐ **27 May — *"in the absence of any particulars… determined it did not raise reasonable suspicion
+of corrupt conduct"*** and referred to HR.
+
+| | |
+|---|---|
+| ⛔⛔⛔ **THE TRAP** | **The complaint alleged FRAUD by Ms Taylor.** ⛔⛔ **Running the later PID validation means importing the fraud allegation into the WC track — DIRECT BREACH of standing discipline rule 2, and of rule 1** |
+| ⛔ **AND IT DOES NOT HELP CAUSATION** | The PID validation **post-dates 18 June 2024**. It cannot bear on whether employment was a significant contributing factor |
+| ⛔ **AND IT INVITES A BAD ANSWER** | *"So the complaint was dealt with substantively — which shows the management response was appropriate"* |
+| ⭐ **THE ONE NARROW USE** | ⭐⭐ **CREDIBILITY ONLY.** If he engaged with the ESU later and it was validated, that rebuts *"refused to participate."* ⭐ **It shows he participates when able.** ⛔ **Framed as participation, never as vindication** |
+
+## 12.7 ⭐⭐⭐ THE SENTENCE HE SHOULD BE ABLE TO SAY — and nothing beyond it
+
+> ⭐⭐⭐ ***"The meeting to discuss the outcome of my complaint was scheduled for 12 July and
+> 16 July 2024. I was off work, certified with the psychological injury, and the claim was already
+> lodged. The employer knew — the decision records the meeting was moved because I was away. My
+> not attending was then treated as making their conduct reasonable."***
+
+⛔ **No fraud. No PID. No disguise. No motive.** ⭐⭐ **Dates, a certificate, and her own sentence.**
+
+## 12.8 ⭐⭐ ON "THE FINDING INSIDE IT IS THE DISGUISE"
+
+⭐⭐ **He is describing something real and Part 8 already records it:** the concessions sit at
+**factor level**, the outcome is preserved at the **aggregation** step, and the result reads as
+balanced. ⚠⚠ **But "disguise" imputes intention, and intention is the one thing that cannot be
+shown.**
+
+⇒ ⭐⭐⭐ **The same observation, said in a way that survives cross-examination:**
+> **"Two factors were resolved in my favour and the application was still rejected. The step where
+> that happens is the aggregation, and that is the step that contains the error."**
+
+⭐⭐⭐ **That is the strongest available form. It attacks the reasoning, not the reasoner — and on
+a de novo hearing the reasoning is all that is in play.**
+
+## 12.9 ⇒ ADD TO `HEARING-PLAN.md`
+⭐⭐ **Factor 2 becomes a discrete cross-examination block:** the two meeting dates · the
+certificate period · *"since you were away"* · the alternatives never considered · **"several"
+versus "twice"**.
