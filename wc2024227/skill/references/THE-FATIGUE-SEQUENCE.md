@@ -134,20 +134,76 @@ issue and should not be argued. **The case is supersession, non-review, and term
 
 ---
 
-# PART 6 — ⚠ THE SECOND REFUSAL — pattern, not a pleaded stressor
+# PART 6 — ⛔⛔ THE 2025 FATIGUE REFUSAL STAYS OUT. ENTIRELY.
 
-**1 July 2025, Ms Taylor to Cory** (corpus pack 02 p.311):
-> *"I have just checked MyHR and noticed your leave has been submitted as Fatigue leave from
-> 1200-1400 for today's shift. **I have declined this** please submit correct leave either S/L or
-> A/L."*
+> **Cory's instruction, 8 August 2026: the 2025 fatigue leave does not go into this matter.**
+> ⛔ **This corrects the first version of this section**, which said it belonged in
+> evidence-in-chief, the medical brief and closing. **That was wrong.** Six reasons, and the first
+> two are decisive.
 
-**Same manager. Same instrument. Same answer — use your own leave.** And the 8 Sep 2025 letter
-records fatigue leave *"declined on the grounds that the 'fatigue' experienced was due to personal
-circumstances and not work related."*
+**The material:** 1 July 2025, Ms Taylor — *"I have just checked MyHR and noticed your leave has
+been submitted as Fatigue leave… **I have declined this** please submit correct leave either S/L or
+A/L"* (corpus pack 02 p.311). Same manager, same answer — use your own leave.
 
-⛔ **But this is post-injury.** SOFC ¶25 pleads post-injury matters are not relevant, and the
-standing discipline keeps severity out of the pleaded stressors. ⇒ **Evidence-in-chief, the medical
-brief and closing. Not a pleaded limb.**
+## ⛔⛔ 1. It cannot be led without opening the 34 occasions
+
+The 2025 refusal is **recorded inside the 8 September 2025 Hughes attendance letter** (Att F p3,
+item D8) — the document this repo already flags as **the biggest risk document in it**.
+
+⭐⭐ **Right now SOFC ¶25 ("post-injury, not relevant") shields the whole of 2025 for free. That
+shield only holds while he is not the one who opens the door.** Leading 2025 fatigue material
+forfeits it, and every route into the refusal runs through a letter cataloguing his lateness and
+absence across 34 occasions.
+
+## ⛔⛔ 2. It imports their best causation defence, in their own words
+
+The same letter records fatigue leave *"declined on the grounds that the 'fatigue' experienced was
+due to **personal circumstances and not work related**."*
+
+⇒ ⭐⭐⭐ **That is a dated, written, employer-authored assertion that his fatigue was NOT work
+related.** Putting it in the medical brief invites his own psychiatrist — or the Regulator's — to
+engage with it. **He would be handing them their causation argument, sourced and dated, and paying
+for it to be considered.**
+
+## ⛔ 3. It muddies the injury date
+
+Onset is pleaded at **18 June 2024**. A 2025 episode with a **different recorded cause** creates a
+second, later, differently-attributed event — an open invitation to argue the 2024 injury resolved
+and something else happened afterwards. **The same risk already flagged against lodging a fresh
+2026 claim.**
+
+## ⛔ 4. Same manager twice reads as a campaign, not a pattern
+
+Two refusals fifteen months apart by the same person is **characterisation**, not evidence. It
+raises his own ***Briginshaw*** bar and edges toward **s 32(5)(b)** — the perception limb the
+Regulator has not pleaded. **Standing discipline: attack the decision, never the person.**
+
+## ⛔ 5. ⭐⭐ It is not needed, and reaching for it makes the strong case look weak
+
+**Pattern evidence is what you reach for when one instance is thin.** One admitted instance where
+**the employer's own rule produces the answer by subtraction** is not thin.
+
+⭐ **The strength of this case is its narrowness.** Adding a contested, post-injury,
+personally-attributed second instance drags it back toward a **composite course — *Delaney*, the
+Respondent's authority** — which is the exact thing Part 1 of this document exists to avoid.
+
+## ⛔ 6. It contradicts his own authority
+
+He relies on ***Mahaffey* [19]–[20]: the pleaded stressors define the enquiry.** **The 2025 refusal
+is not pleaded.** Leading it would breach the very proposition he is asking the Commission to
+apply.
+
+---
+
+## ⭐ THE RULE
+
+**Not in the pleading. Not in evidence-in-chief. Not in the medical brief. Not in closing.**
+
+**Indexed and held — and used only in answer, if at all:**
+- ⚠ **If the Regulator runs "his fatigue was personal"**, the 1 July 2025 email becomes fair
+  material *in response*. **Held in reserve. Never led.**
+- ⚠ **If the 2026 incapacity is characterised as a new injury**, 2025 may become relevant to
+  continuity. ⛔ **That is a decision for the fresh-claim question, not for this appeal.**
 
 ---
 
