@@ -3365,3 +3365,67 @@ they are the delegate recording Dr Hawes. **Check pp. 16–17 and 25–27 before
 ### ⛔ "NEVILLE" — CONFIRMED UNSUPPORTED
 **The only "Neville" hits in the entire repo are internal labels for this pleading.** There is no
 source for a 2006 Ombudsman report. ⇒ **It is the second "Independent Review Office." Do not use it.**
+
+## ⭐⭐⭐⭐ REVIEW DECISION 69983 — READ IN FULL FROM SOURCE, 7 AUG 2026. THE CENTRAL DOCUMENT.
+
+### THE CONCLUSION IS A LIST OF DETERMINATIONS (pp. 26–27), VERBATIM
+> *"After considering the evidence available at review, in relation to the factors for
+> determination, **I have determined**:*
+> - *you sustained a **personal injury of a psychological nature***
+> - *your injury **arose out of employment**, to the extent that it arose out of factors 2, 3 and 4,
+>   **where employment was a significant contributing factor***
+> - *factors 2 and 3 amounted to reasonable management action taken in a reasonable way*
+> - ⭐⭐⭐ ***factor 4 amounted to UNREASONABLE MANAGEMENT ACTION.***"
+
+⇒ ⭐⭐ **It is not a remark. It is a determination, in the Conclusion, in her own words.**
+
+### ⭐⭐⭐⭐ THE FINDING ITSELF (p. 26) — AND SHE BUILT THE BIND HERSELF IN 2024
+> *"I find there was uncertainty between you and the employer regarding whether the 8-hour
+> agreement continued to apply. **However, it is not necessary for me to consider whether the
+> employer's stance on its application was reasonable.** The break between the shift on 17 March
+> 2024 and 18 March 2024 **equated to 7 hours**. Even if you were allowed to leave early on 17 March
+> 2024 as suggested by the employer, you left a maximum of 30 minutes early, **which meant you
+> still did not receive a minimum 8-hour break**. Based on this, **I find the rostering of these two
+> shifts amounted to unreasonable management action given that it was in direct contradiction to
+> the award and the 8-hour agreement.**"*
+
+⭐⭐⭐ **The Regulator's own delegate expressly DECLINED to decide the 8-hour agreement question,
+because it did not matter — 7 < 8 either way. That is the 7 < 8 bind, reached by the Respondent's
+own officer, two years before it was reconstructed here.** ⭐ **And she disposed of the
+"he left 30 minutes early" answer in the same sentence.**
+
+### ⭐⭐⭐ THE DILUTION IS PURE COUNTING — AND IT IS THE ERROR *MAHAFFEY* AND *ADAMS* NAME
+> *"I note that since **two out of the three** causative factors amounted to reasonable management
+> action…, this means your psychological injury **mainly arose out of** such management action.
+> Further, factor 4 was initially only substantiated to the extent of **one incident** and it was
+> **only the one incident** which amounted to unreasonable management action. Therefore, I find
+> **overall** your psychological injury arose out of reasonable management action taken in a
+> reasonable way and section 32(5) is consequently enlivened."*
+
+⭐⭐⭐ **Two out of three. Only one incident. "Mainly." "Overall." That is outnumbering, and it is
+precisely what *Adams* [23] adopting *Hochen* says is erroneous, and what *Mahaffey* [52] answers:
+the mere occurrence of other reasonable management action does not insulate the injury.**
+⇒ ⭐⭐ **Cory's point, verified: they had to reach for *Delaney* BECAUSE they had already found
+unreasonable management action. The global evaluation is not a finding — it is a remedy for one.**
+
+### ⚠ CORRECTION — WHAT IS HERS AND WHAT IS DR HAWES RECORDED
+⭐ **HERS:** *"Having regard to the medical evidence, **I am satisfied your employment was a
+significant contributing factor** to the psychological injury"* (p. 16) · the UMA determination.
+⚠ **NOT HERS — Dr Hawes, recorded:** *"The work capacity certificate of Dr Hawes… **indicated**…
+there was **no pre-existing factor or condition**"* · *"**Dr Hawes stated** that work events were the
+**sole cause**."*
+⇒ ⛔ **The earlier audit was right. Stop describing "sole cause" and "no pre-existing factor" as the
+delegate's own findings.** ⭐ They are the medical evidence she accepted — still useful, but as
+**Hawes's opinion adopted**, not as an independent regulatory finding.
+
+### ⭐⭐ AND THE EMPLOYER HAS ALREADY ANSWERED THE CASUAL-AGREEMENT ARGUMENT (p. 16)
+> *"The employer also confirmed **you did not formally rescind the 8-hour agreement signed by you
+> on 17 June 2020** and **the change to your employment contract and adjustments in your working
+> hours did not automatically invalidate the agreement**. That meant it remained current."*
+⇒ ⚠ **The "it was casual and I changed contracts" point has been run and answered.** ⭐ **It does
+not need to succeed. 7 < 8 regardless — which is exactly why the delegate declined to decide it.**
+
+### ⭐ ALSO ON THE RECORD
+- **Factor 4 substantiated "only to the extent of the one occasion"** — the employer *"only failed
+  to maintain a 10-hour break… on one occasion."*
+- **Factors 2, 3 and 4 all established "to an extent."**
