@@ -222,3 +222,85 @@ degree, based on **clear and cogent evidence**."*
 ⇒ ⛔ **Honesty buys credibility. It does not buy proof.** The case still requires the chronology in
 order, the documents tendered, and **the psychiatrist in the box.** Credibility decides contests
 between competing accounts; it does not supply an element that is missing.
+
+---
+
+# PART 7 — THE SEQUENCE: report → date → notices
+
+**Cory's proposed order (8 Aug): finish the report, request a hearing date, then give the
+witnesses notice for that date.**
+
+⭐ **Step 3 is correctly placed.** Guide 7.6.4: attendance notices are issued *"once the hearing
+dates are advised in the Further Directions Order and prior to the hearing."* Notices come after
+the date, not before. ⚠ **But the decision about who to call is made at the witness-list stage,
+which comes before all of it.**
+
+⛔ **Four gates sit between step 1 and step 2.**
+
+## GATE 1 — the r 64G must be finished first
+
+An undetermined interlocutory application blocks the listing. **And under Guide 7.1 the file must
+be reallocated to a different Member for hearing** (Part 1.1) — **it cannot transfer while Dwyer
+still has an application on foot.**
+
+⇒ ⭐⭐ **This reframes the withdrawal/narrowing letter completely. It is not a concession. It is
+the key that unlocks the next stage** — and it is exactly what *"we all want to get to a hearing
+and move past this"* was pointing at.
+
+**Form:** proportionality-framed narrowing. Never abandonment. ⛔ Never a characterisation of what
+the Commission did or said.
+
+## GATE 2 — the directed steps that may be in default
+
+- **Witness list (4.9)** — directed by **6 Aug 2025**, then **13 Aug 2025** (AFDO-2).
+- **Outline of evidence, one A4 page per lay witness (4.10)** — same directions.
+- ⛔ **Whether either was ever complied with is not established in this repo.**
+
+⚠ **Guide 7.2: the aim of a mention is *"to ensure that all directions have been complied with and
+that the parties are ready to proceed to hearing without delay."*** ⇒ **Asking for a date invites
+precisely that audit.** Do not ask for one until the answer is known and any gap is closed.
+
+## GATE 3 — "the report is finished" is not the same as "the report is the right report"
+
+- The **RFMI is MSH's report** — fitness, adjustments, capacity. **Report B is the appeal's** —
+  s 32(1) causation, and whether the 2026 incapacity continues or aggravates the 2024 injury. One
+  attendance, two scopes. **Only Report B moves the appeal** (FULL-PICTURE §18.3).
+- ⛔ Confirm in writing the practice will **not** apply the *"not for medico-legal use"* footer.
+- **Guide 4.11: exchange it with the Respondent. Do not file it in the Registry.**
+
+## GATE 4 — ⛔⛔ THE REAL GATE: requesting a date commits him to funding the hearing
+
+| Who | Requirement | Guide |
+|---|---|---|
+| **Dr Krishnaiah** | Must attend and be cross-examined, or the report *"cannot be considered."* **Appellant pays the expert's expenses**, arranged well in advance | 7.6.5 |
+| **Ms Taylor** (if compelled) | **r 62** allowance and expenses, paid **a reasonable period before the day**. ⛔ Non-payment *"may be treated as a lawful excuse for the witness to not appear"* | 7.5, 7.6.4 |
+
+**He has had no income since 13 July 2026.**
+
+⇒ ⛔⛔ **Do not request a hearing date until there is an answer to how the witnesses are funded.**
+A date he cannot fund is worse than no date: an expert who does not appear makes the report
+inert, and a witness with a lawful excuse not to appear collapses the very strand the Commission
+identified as the route to proving Stressor 1(a).
+
+⭐ **The gate is financial, not legal.** It belongs to the cash-flow work in FULL-PICTURE §17.9,
+and it is another reason that work outranks the settlement steps this fortnight.
+
+---
+
+## THE ORDER THAT ACTUALLY WORKS
+
+| When | Step | Why this order |
+|---|---|---|
+| **Mon 10 Aug** | Registry email: what was ordered 7 Aug · **were the 4.9/4.10 documents ever filed** · **order the 7 Aug transcript (free)** | Answers Gate 2 and costs nothing |
+| **Wed 12 Aug** | The consultation. ⛔ Letter of instruction first — the s 32(1) question must be asked in terms | Gate 3 |
+| **13–17 Aug** | Read Report B against the two gates (§18.4). **Fix the ¶37 defect in all five documents, including Form 20 ¶41 on oath** | Gate 3; ledger §10.4 |
+| **~19–21 Aug** | ⭐ **Serve Report B under cover of Calderbank #3.** Guide 4.11 requires exchange anyway — **so serving it as an offer costs nothing and gives up nothing** | The offer window opens |
+| **Same period** | Resolve the 64G — narrowing letter | **Gate 1: unlocks reallocation** |
+| **Then, not before** | Close out the witness list and outlines (4.9, 4.10) | Gate 2 |
+| **Then** | ⭐ **Request the hearing date in writing to the Registry** (7.1) | **Report → offer → date.** Requesting a date *before* they have seen the report tells them you are committed to a hearing before they have had the chance to revalue. Requesting it *just after* tells them the window is real |
+| **After the Further Directions Order sets dates** | **Form 32 + 32A/B/C** attendance notices — Taylor, Krishnaiah — and **pay the expenses in time** | 6.2.2, 7.6.4, r 62 |
+
+⚠ **Expect the date to move out.** Once Report B is exchanged, the likely response is the
+Regulator seeking a direction for its own medical examination (FULL-PICTURE §17.5). **That is the
+normal reflex, not a setback** — and per §19 the hearing door is where the settlement mass sits
+anyway.
