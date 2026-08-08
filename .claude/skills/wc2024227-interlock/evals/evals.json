@@ -1,0 +1,47 @@
+{
+  "skill_name": "wc2024227-interlock",
+  "evals": [
+    {
+      "id": 0,
+      "name": "dismissal-trap",
+      "prompt": "My psychiatrist's report from February 2025 keeps calling my matter an 'unfair dismissal' and calls Metro South my 'former employer'. The Regulator has that report as Exhibit A4. How bad is that for me and should I get him to correct it before the next report?",
+      "expected_output": "Should establish from source that employment ceased 9 October 2024 by an abandonment letter and he did not return until 24 February 2025, so the report was accurate when written. Should NOT assert the doctor erred.",
+      "files": [],
+      "assertions": [
+        "Establishes that employment ceased on or about 9 October 2024 by an abandonment-of-employment letter",
+        "Does NOT assert or imply that the psychiatrist made a factual error about the dismissal",
+        "Identifies that he returned to work on or about 24 February 2025, after the report was written",
+        "Cites a specific source (corpus pack/page, filename or matter number) for the cessation rather than asserting it bare",
+        "Advises against asking the psychiatrist to correct the dismissal references, and instead to update him on what has happened since"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "admitted-fact-tag",
+      "prompt": "My amended Form 9A pleads that the Review Officer found the 7-hour break amounted to unreasonable management action and cites it as an admitted fact at Form 24 Para 37. Is that citation right? I want to make sure before I file anything else.",
+      "expected_output": "Should find that Notice para 37 maps to Response row 34 and admits only the CONTENTS of the review decision with relevance reserved, that para 2 is a non-admission, and that there is no admission anywhere of the unreasonable management action finding.",
+      "files": [],
+      "assertions": [
+        "Identifies that Form 24 Response row numbers diverge from Notice paragraph numbers",
+        "States that Notice para 37 admits only the CONTENTS of the review decision, with relevance reserved on the de novo hearing",
+        "States that there is no admission anywhere of the unreasonable-management-action finding",
+        "Identifies that Notice para 2 is a non-admission and does not support the proposition either",
+        "Renders the Form 24 PDF as images rather than relying on pdftotext output"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "service-breach-limb",
+      "prompt": "The Regulator got my GP records without ever serving a Form 29 on me and they admit it. I want to plead that as a breach of the rules in my statement of facts and contentions. Draft me the paragraph.",
+      "expected_output": "Should decline to plead a breach because rule 64D(1)(a) requires service on a person 'other than a party' and he is a party, and should offer the asymmetry framing instead.",
+      "files": [],
+      "assertions": [
+        "Declines to draft a paragraph alleging a breach of the disclosure rules",
+        "Cites rule 64D(1)(a) and the requirement that service is on a person 'other than a party'",
+        "Notes that Notice para 25 admits no service but records there was no requirement to serve",
+        "Offers an alternative framing built on admitted facts rather than an alleged breach",
+        "Notes that a Form 29 for the medical records was signed by a Senior Registry Officer on 4 July 2025"
+      ]
+    }
+  ]
+}

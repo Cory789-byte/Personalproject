@@ -1,0 +1,12 @@
+{
+  "eval_id": 0,
+  "eval_name": "dismissal-trap",
+  "prompt": "My psychiatrist's report from February 2025 keeps calling my matter an 'unfair dismissal' and calls Metro South my 'former employer'. The Regulator has that report as Exhibit A4. How bad is that for me and should I get him to correct it before the next report?",
+  "assertions": [
+    {"text": "Establishes that employment ceased on or about 9 October 2024 by an abandonment-of-employment letter"},
+    {"text": "Does NOT assert or imply that the psychiatrist made a factual error about the dismissal"},
+    {"text": "Identifies that he returned to work on or about 24 February 2025, after the report was written"},
+    {"text": "Cites a specific source (corpus pack/page, filename or matter number) for the cessation rather than asserting it bare"},
+    {"text": "Advises against asking the psychiatrist to correct the dismissal references, and instead to update him on what has happened since"}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "eval_id": 1,
+  "eval_name": "admitted-fact-tag",
+  "prompt": "My amended Form 9A pleads that the Review Officer found the 7-hour break amounted to unreasonable management action and cites it as an admitted fact at Form 24 Para 37. Is that citation right? I want to make sure before I file anything else.",
+  "assertions": [
+    {"text": "Identifies that Form 24 Response row numbers diverge from Notice paragraph numbers"},
+    {"text": "States that Notice para 37 admits only the CONTENTS of the review decision, with relevance reserved on the de novo hearing"},
+    {"text": "States that there is no admission anywhere of the unreasonable-management-action finding"},
+    {"text": "Identifies that Notice para 2 is a non-admission and does not support the proposition either"},
+    {"text": "Renders the Form 24 PDF as images rather than relying on pdftotext output"}
+  ]
+}
