@@ -3254,3 +3254,30 @@ that goes to MSH and is disclosable in the appeal.** Corrected before the 12 Aug
    Response rows 35/36 are Type B — the report *says* it; accuracy not admitted. ⭐ And **row 36
    quotes *"disputed unfair dismissal proceedings"* verbatim**, so the Regulator's own pleading
    records the dismissal.
+
+## ⛔⛔ CORRECTION 7 AUG 2026 — s 580 IR ACT DOES NOT COVER MEDICAL RECORDS
+**Found by an eval subagent reading ATT22 verbatim.**
+
+**s 580(1)–(2) applies only to *"trade secrets"* or *"the financial position of a party or
+witness."*** ⛔ **It does not reach medical or health information.**
+
+⇒ **Every reference in this repo to "the s 580 sealing" as recognising the sensitivity of the
+medical records is unsupportable on the section's own words** — including the entry at
+`confirmed-record.md` in the medical-records block. **It has been relied on repeatedly this
+session and it is wrong.**
+
+⭐ **What IS available: s 580(5)(b)** — a discretionary direction withholding records from release
+or search. **That is the correct provision for the medical material.** Re-plead any confidentiality
+position on s 580(5)(b), never on s 580(2).
+
+## ⭐⭐ AND A FORM 29 FOR THE MEDICAL RECORDS DID ISSUE — THE PREMISE IS WRONG
+**Form 24 Response rows 23 and 24, read from a 150dpi render:** the Form 29 was **"signed by a
+Senior Registry Officer on 4 July 2025"**, and the Respondent received the records some time
+before 16 July 2025.
+
+⇒ ⛔ **"They never served a Form 29" is contradicted by the very document that would be cited as
+the admission.** Row 25 admits **non-service on him**, which is a different thing entirely — and
+adds *"there was no requirement to do so pursuant to section 64D."*
+⭐ **The 4 July 2025 Form 29 is NOT in the repo.** Only his own 2026 Form 29 and its service proof.
+**Add it to the Matheson list as item six, with its r 64D(5) endorsements** — r 64D(5) requires the
+notice to name those served, so the endorsements show who was served and when.
