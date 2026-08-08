@@ -3281,3 +3281,49 @@ adds *"there was no requirement to do so pursuant to section 64D."*
 ⭐ **The 4 July 2025 Form 29 is NOT in the repo.** Only his own 2026 Form 29 and its service proof.
 **Add it to the Matheson list as item six, with its r 64D(5) endorsements** — r 64D(5) requires the
 notice to name those served, so the endorsements show who was served and when.
+
+## ⛔⛔⛔ CORRECTIONS 7 AUG 2026 — REVIEW DECISION 69983. READ FROM SOURCE BY TWO INDEPENDENT AUDITS.
+
+**1. ⛔ THE UMA FINDING IS ABOUT THE ROSTERING, NOT "THE 7-HOUR REST BREAK".**
+> **Squires, Review Decision 69983, p. 26:** *"the **rostering of these two shifts** amounted to
+> unreasonable management action given that it was in direct contradiction to the award and the
+> 8-hour agreement."*
+⛔ Every version of this in the repo that says *"this 7-hour rest break amounted to…"* is a
+**misquotation**. ⭐ **The filed r 64G v5R (23 June 2026) gets it right and is the model to copy.**
+⚠ **The superseded v5.1 draft AND the SERVED Calderbank #2 both carry the bad formulation.**
+
+**2. ⛔⛔ FINDINGS B AND C MAY NOT BE THE DELEGATE'S OWN FINDINGS.**
+One audit reports that *"no pre-existing factor or condition"* and *"work events were the sole
+cause"* are **the delegate RECORDING Dr Hawes**, not independent findings — and that **only the
+UMA finding at p. 26 is the delegate's own.**
+⛔⛔ **I have treated B and C as the Regulator's own delegate's findings throughout this session**
+— in the strand ledger, the full-picture read, the psychiatrist bundle and the outline.
+**⇒ VERIFY pp. 16–17 and 25–27 against the source before B or C is used again.** If they are Hawes
+being quoted, they are Type-B-of-a-Type-B and much weaker than banked.
+
+**3. ⚠ PINPOINT.** Notice ¶37 quotes *"I am satisfied your employment was a significant
+contributing factor"* and cites **Exhibit B1, p. 16**. The sentence is at **p. 17 of 28**. Off by one.
+
+**4. ⭐ Notice ¶39 misquotes A4** — renders *"my mental health"* where the report reads *"his"*.
+
+## ⭐⭐ THE DISMISSAL INSTRUMENT IS IN THE REPO — IT IS NOT MISSING
+**Sealed Form 12, TD/2024/110, stamped 25 October 2024**, records at **items 5.2/5.3**:
+**notification of dismissal given 09/10/2024; dismissal took effect 08/10/2024.**
+⇒ ⭐ **That reconciles the 9A ("8 October") with his email to WorkCover ("as of October 9th").**
+⛔ **Withdraw the note that the dismissal/reinstatement instrument is "the most important missing
+document."** The application is held. **What is still missing is how it was resolved.**
+
+## ⚠⚠ UNRESOLVED CONFLICT — THE RETURN-TO-WORK DATE. RESOLVE BEFORE 12 AUGUST.
+Two independent audits disagree:
+- One: Bain's 21 Feb 2025 email confirms return **effective 24 February 2025**.
+- The other: that return was **scheduled and did not proceed**; the actual return was **7 April 2025**
+  (and `PSYCHIATRIST_BUNDLE_12AUG.md`'s own chronology, and the FTE analysis window of
+  **26 Mar – 18 Jun 2025**, are consistent with a later start).
+⛔⛔ **Do not state either date until it is resolved from PAYSLIPS.** ⭐ And ⛔ **24 February 2025
+must not be given to the psychiatrist as a return date in any event** — a shielded event is
+recorded on that date (`CHRONOLOGY-SHIELD-post-injury-events.md`).
+
+## ⚠ Form 20 ¶41 — LIVE DOCUMENT CONFLICT
+`lodgement/WC2024227_Form20_FINAL.md` ¶41 **still carries an admitted-fact tag**, while
+`lodgement/PRE-LODGEMENT-CHECKLIST.md` records ¶41 as settled to carry **no such tag**.
+⛔ **Resolve before the affidavit is used again.**

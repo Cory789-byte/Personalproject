@@ -150,8 +150,9 @@ answer is **no**:
   management, and workplace policies**, he experienced changes in work conditions including
   **shorter breaks, more night shifts**…"*
 
-⛔ **But do NOT rely on the 2025 report as an opinion** — its author disclaimed medico-legal use
-and it is wrong on the central fact. **Provenance only.**
+⛔ **But do NOT rely on the 2025 report as an opinion** — its author disclaimed medico-legal use.
+⭐ **It is NOT wrong on the dismissal** — see item 2 above; that earlier characterisation is
+withdrawn. **Provenance only.**
 
 ## ⛔⛔ AND THE FOUR THINGS IN IT THAT MUST BE MET HEAD-ON
 The Regulator holds this report (it is **Exhibit A4**, cited at Notice ¶¶38–39). The 12 August
