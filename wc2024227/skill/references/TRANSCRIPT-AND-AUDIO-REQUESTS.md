@@ -185,3 +185,52 @@ waiver in the same email** (§3, §6).
    private conference — *"this is not recorded or transcribed"* (Guide 5.2).
 2. Anything said outside the room — including **Matheson approaching him after the 7 August
    listing.** That remains recall only, permanently.
+
+---
+
+## 8. TRANSCRIBING IT HIMSELF — yes, with one boundary and three disciplines
+
+**Yes.** For the working record — correcting the recount, building the chronology, preparing
+cross-examination — **his own transcription is entirely adequate and nobody audits it.**
+
+### ⛔ THE BOUNDARY — status, not accuracy
+
+The problem with quoting his own transcription **to** the Commission or the Regulator is not
+effort or care. It is that **he would be vouching for a record, as a party who is also the
+principal witness.**
+- The other side can dispute it, and then there is a side-argument about accuracy — **which costs
+  him credibility even when he is right.**
+- ⚠ **And it compounds the existing exposure.** Form 20 ¶41 already contains a sworn statement
+  about what the other side admitted that is wrong (ledger §10.4). **A second instance of "he
+  characterised the record and was imprecise" is the cross-examiner's dream** — it converts an
+  isolated slip into a pattern about reliability.
+
+⇒ **The rule is not "don't transcribe." It is: never be the source of a record he is asking
+someone else to rely on.**
+
+### ⭐ THE CHEAP MIDDLE PATH
+
+He does not need a full transcript to quote something. **Transcript orders can be confined to part
+of a proceeding.** So:
+
+1. Order the audio, transcribe it all himself for working purposes.
+2. If one exchange turns out to matter in a document — **the pay-limb concession is the obvious
+   candidate** — **order only that portion.** A fraction of the page count, a fraction of the cost.
+
+⭐ **This is what makes self-transcription valuable rather than just cheap: it tells him exactly
+which minutes to buy.**
+
+### THREE DISCIPLINES
+
+1. ⚠ **Transcribe BEFORE re-reading his own recount, then compare.** Self-transcription of a
+   proceeding one took part in fails in a predictable way — **you hear what you remember.** He
+   already has a recall-based account written down; holding it in mind while transcribing will
+   confirm it. **The differences between the two documents are the valuable output**, particularly
+   the exact wording of *"that's just management action"* and what was **not** said.
+2. ⭐ **Produce a timestamped index** — topic against minute. A transcript does not give him this in
+   usable form, and it is what makes the partial order surgical.
+3. ⛔ **Do not publish, circulate or forward the audio to anyone.** Recordings released by the
+   Recording and Transcription Service typically come with conditions on use. **Read the terms
+   attached to the download**, and treat the file as for his own use in this proceeding only —
+   distributing it would be a serious problem entirely separate from the appeal, and there are
+   parallel tracks where material has previously travelled.
