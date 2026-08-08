@@ -508,3 +508,120 @@ with shift and break time procedures."*
 - ⇒ ⛔ **Two-edged. Establish what that meeting was actually about before it is used at all.** It is
   not in the repo. **Add it to the Regulator disclosure list with the April–May 2024 correspondence
   (Part 8.6).**
+
+---
+
+# PART 10 — ⭐⭐⭐ THE FATIGUE COMPLAINT IS ALSO THE EARLIEST TRACE OF THE INJURY
+
+> **Cory, 8 August 2026: the fatigue being raised is the injury developing — and the fatigue was
+> never assessed, as lateness, as timing, or as break duration.**
+> **Two points. Both correct. The first is a causation point and it is worth more than the
+> stressor.**
+
+## 10.1 ⭐⭐ ONE DOCUMENT DOING THREE JOBS
+
+The 8 April and 24 April 2024 emails are, at the same time:
+
+| | What they are |
+|---|---|
+| **(a)** | **The stressor** — the complaint that was answered with an assertion (Part 9) |
+| **(b)** | **The employer's failure** — reported in writing, escalated to HR, never assessed |
+| **(c)** | ⭐⭐⭐ **The earliest dated trace of the injury forming** — contemporaneous, self-authored, received by the employer |
+
+**That combination is rare and it is why this thread should lead.**
+
+## 10.2 ⭐⭐⭐ WHY (c) MATTERS MORE THAN (a)
+
+**The Regulator's causation attack lives in a gap.** The stressors run June 2023 – June 2024. The
+diagnosis is **24 October 2024**; the written report **13 February 2025**; Dr Hawes's certificate
+**8 September 2024**. ⇒ **On the face of the medical record, the injury appears only from September
+2024** — three months after the pleaded onset and six months after the shift.
+
+⭐⭐⭐ **The fatigue complaints put dated, symptom-consistent, employer-received material inside
+April–May 2024** — **before any claim, any diagnosis, any lawyer and any WorkCover process.**
+
+**Four properties that cannot be manufactured:**
+1. **He wrote them himself, contemporaneously.**
+2. **The employer received and replied to them** — authenticity is not in issue.
+3. **They pre-date every step of the legal process.**
+4. ⭐ **They are recited in Review Decision 69983, whose contents are admitted (Form 24 ¶37).**
+
+## 10.3 ⛔⛔ BUT HE MUST NOT MAKE THIS ARGUMENT HIMSELF
+
+**Fatigue is a symptom of many things, including four hours' sleep.** Distinguishing situational
+tiredness from a developing mood disorder is **a clinical question, answerable only on a history.**
+
+⛔ **From the witness box this is Tier 4 — opinion outside his expertise. Worth nothing, and
+harmful.**
+
+⭐ **What he gives:** the dates, what he wrote, what he was experiencing, how he was sleeping,
+what he did and did not do. **Facts.**
+⭐ **What Krishnaiah gives:** whether any of it means anything clinically.
+
+## 10.4 ⭐⭐⭐ SO THIS IS WHAT GOES IN THE LETTER OF INSTRUCTION — with the question asked neutrally
+
+The letter should put the **dated complaint trail**, not only the events:
+
+> **8 April 2024** — he wrote raising the shift pairing and the Award's minimum break ·
+> **9 April** — escalated by his manager to Human Resources · **24 April** — he wrote again,
+> recording more than two weeks without response · **1 May** — refused ·
+> **18 June 2024** — pleaded onset.
+
+⛔ **Then ask it neutrally.** A leading question destroys the weight of the answer:
+
+- ⛔ **Not:** *"Do you agree the fatigue was an early symptom of the MDD?"*
+- ⭐ **But:** *"What, if anything, do you make of the reports of fatigue recorded in April and May
+  2024 in the context of the diagnosis you made in October 2024?"*
+
+**A report that reads as instructed is worth less than no report.**
+
+## 10.5 ⚠ THREE COUNTERS TO HANDLE HONESTLY
+
+**⚠ 1. "You were complaining about money, not health."** The 8 April email is framed around penalty
+rates and public holidays.
+⭐ **Answer:** the subject of the complaint is **fatigue**, and the provision he cited — the
+**minimum break** — is a fatigue provision, not a pay provision. He had already spent his own leave
+recovering. ⚠ **But it is genuinely two-edged. State it once; do not oversell it.**
+
+**⛔⛔ 2. "So you say you were injured in April?" — the onset-date trap.**
+**Pleaded onset is 18 June 2024.** Moving it would be a serious amendment: the Review Decision, the
+claim, and the medical evidence are all anchored to that date.
+⭐ **Answer — and hold this line exactly:** **"developing" is not "onset."** The Amended 9A already
+pleads a **composite course ~June 2023 – June 2024** with onset on 18 June 2024. **The April–May
+material sits inside the pleaded course, not outside it.** No amendment is needed and none should
+be sought.
+⛔ **Never let the framing drift to "I was injured in April."**
+
+**⛔⛔ 3. "If you were unwell, why didn't you see a doctor?"**
+⚠ **What the GP records (Exhibit A5, Our Medical Ashmore) show for April–June 2024 is not
+established in this repo.**
+- **If there are attendances in that window, this becomes very strong.**
+- **If there are none, the absence will be used** — and the honest handling is that people in
+  life-safety roles commonly work through it and present late, **which is itself a clinical
+  observation for the psychiatrist, not an excuse from him.**
+
+⇒ ⛔⛔ **CHECK EXHIBIT A5 FOR APRIL–JUNE 2024 BEFORE WEDNESDAY.** It changes how the question should
+be framed, and it is four days away.
+
+## 10.6 ⭐⭐ "UNASSESSED" — the second half, and it is clean
+
+**Nobody ever assessed the fatigue. Not as lateness, not as timing, not as break duration, not as
+health.** And this is established almost entirely from MSH's own writing:
+
+| | Source |
+|---|---|
+| **No fatigue risk assessment or register existed for the Switchboard** | Items 4 & 7 — MSH asked to produce or swear none existed |
+| **Fatigue risk management implemented only *"after 30 June 2024"*** | Item 5 — **after the injury** |
+| ***"No consequential changes to operating procedures"*** | Item 3(c) |
+| **The employer's own June 2020 policy names the control** — do not roster the first shift of the following day | Review Decision p 19 |
+| ⭐⭐⭐ **It was escalated to Human Resources on 9 April 2024 — and what came back was a 2020 agreement** | Review Decision p 21 |
+
+⭐⭐⭐ **That last line is the whole point. They routed it to the people whose job it is to assess,
+and what came back was a document.** **Not one person assessed the fatigue.**
+
+⚠ **Keep the WHS framing as context for reasonableness only** — a reported psychosocial and fatigue
+hazard, in a life-safety role, escalated and never assessed. ⛔ **Not as a separate cause of
+action.** The parallel tracks stay behind (standing rule 8).
+
+⭐ **And "unassessed" is already his own word, used in the room on 7 August** — *"Ms Taylor's
+unassessed management action."* **The framing is consistent and it has already been said out loud.**
