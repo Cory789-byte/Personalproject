@@ -651,3 +651,108 @@ and neither is cited:**
 > stressor to be neutralised by the number of reasonable ones.*
 
 ⛔ **No adjective. No allegation. And it is the reason the appeal exists.**
+
+---
+
+# PART 11 — THE UNION POLICY, AND THE PID DETERMINATION THAT CAME AFTER
+
+## 11.1 ⭐⭐ THE UNION LIMB — she stated a condition and never decided it
+
+**She recited the policy accurately (p 7):**
+> *"The supplied Union Encouragement policy dated August 2021 states the employer recognised the
+> constructive role of democratically elected union delegates and that role was to be formally
+> recognised, accepted and supported **on conditions that unions notify the employer of such
+> delegates**."*
+
+**Her finding (p 11):**
+> *"The employer also was not responsible for obtaining a union delegate, but rather was
+> responsible for merely allowing one to be present, and thus also did not breach rules by the lack
+> of a delegate **due to no fault on their part**."*
+
+⛔⛔ **But the policy's operative condition is UNION NOTIFICATION — and notification was squarely in
+issue.** She had recorded, at p 11, his assertion at review:
+> *"…in relation to the union delegate issue, that **Together ASU forwarded the employer the forms
+> for you to become the delegate**, but the employer… did not action this."*
+
+⇒ ⭐⭐⭐ **He asserted the union DID notify. That is precisely the condition on which the policy
+turns. She found *"no fault on their part"* without deciding whether notification occurred.**
+
+**This is the third instance of the same structural defect:**
+
+| # | She stated the test | And did not apply it |
+|---|---|---|
+| 1 | ***Delaney*** — joined by subject matter, time and personality | Never tested (§3, Error 2) |
+| 2 | The **8-hour agreement** — whether the employer's stance was reasonable | ***"not necessary for me to consider"*** (Error 3) |
+| 3 | ⭐ **The Union Encouragement policy** — *"on conditions that unions notify"* | **Never decided whether Together notified** |
+
+⇒ ⭐⭐⭐ **A pattern in the reasoning, not a one-off. Three times a test is recited and its
+threshold left unexamined** — which is exactly the template behaviour identified at Part 10.1.
+
+⭐⭐ **And note what the Regulator has since admitted:** **Form 24 ¶17 — QH-POL-248 requires managers
+to take a *"positive, supportive role"*.** ¶18 — the notification text **was sent**. ¶19 denies the
+failure to facilitate, **so they carry it.**
+
+## 11.2 ⭐⭐⭐ THE PID DETERMINATION POST-DATES THE DECISION BY TWO MONTHS
+
+| Date | Event |
+|---|---|
+| 13 May 2024 | The complaint is lodged |
+| 27 May 2024 | ESU: *"did not raise reasonable suspicion of corrupt conduct"*; closed for want of particulars; referred to HR |
+| **24 October 2024** | ⭐ **The Review Decision** — factor 2 found reasonable |
+| ⭐⭐⭐ **24 December 2024** | **The ESU determines the disclosure constituted a PUBLIC INTEREST DISCLOSURE — PID 24-ESU-1130.** ⭐ **ADMITTED, Form 24 ¶20** |
+
+**Her factor 2 reasoning rested on this:**
+> *"It was reasonable for them to proceed without undertaking a thorough investigation given you, as
+> the complainant, were not willing to participate and provide further information."*
+
+⇒ ⭐⭐⭐ **She decided that the handling of the complaint was reasonable, on a record in which the
+complaint had been closed as raising no reasonable suspicion. Two months later the same unit
+determined the same disclosure was a Public Interest Disclosure.**
+
+### ⛔ BE PRECISE ABOUT WHAT A PID DETERMINATION MEANS
+
+⭐ **It establishes that the disclosure met the statutory threshold** — an appropriate discloser, a
+proper authority, proper subject matter, and an honest belief on reasonable grounds.
+
+⛔⛔ **It does NOT establish that the allegations were substantiated, and he must never say it
+does.** *"Validated"* means **validated as a disclosure**, not proven as an allegation. **Overstating
+it converts a clean point into a *Briginshaw* problem.**
+
+⭐⭐ **But that is enough**, because it defeats the premise she reasoned from: **this was not a
+complaint incapable of assessment. It was a statutorily recognised public interest disclosure.**
+
+## 11.3 ⭐⭐⭐ AND NOW THE REAL FINDING — EVERY LOAD-BEARING FACT POST-DATES HER DECISION
+
+| Fact | When it came into existence | Status |
+|---|---|---|
+| ⭐⭐ **The PID determination** | **24 December 2024** — 2 months after | **ADMITTED ¶20** |
+| ⭐⭐ **The Form 24 admissions** — the 7-hour break (¶1), patient-safety criticality (¶8), the *"IMMEDIATELY"* instruction (¶40), the 25-day delay (¶41) | **18 February 2026** — 16 months after | **ADMITTED** |
+| ⭐⭐⭐ **MSH's concessions** — no fatigue framework until *"after 30 June 2024"*, no risk assessment or register, *"no consequential changes"* | **5 June 2026** — 19 months after | **In writing, under the Chief Executive's hand** |
+
+⇒ ⭐⭐⭐ **Not one of the facts that now carries this case was before her.**
+
+**This is the single safest and most complete answer to the Review Decision. It criticises nobody,
+requires no allegation, and cannot be answered:**
+
+> *The Review Officer decided on the material available in October 2024. The patient-safety
+> criticality of the role, the seven-hour break, the payroll instruction and the twenty-five day
+> delay were admitted in February 2026. The absence of any fatigue risk-management framework at the
+> Switchboard before 30 June 2024 was confirmed by the employer in June 2026. The disclosure of 13
+> May 2024 was determined to be a Public Interest Disclosure in December 2024. None of that was
+> before her.*
+
+## 11.4 ⛔⛔ THE DISCIPLINE ON THE PID — one purpose only
+
+**Use it for ONE thing: to show the record before her was incomplete.**
+
+⛔ **NOT** to re-run the corrupt-conduct allegations · **NOT** as reprisal · **NOT** as a stressor
+carrying weight of its own · **NOT** with the word *"fraud"* anywhere near it.
+
+⚠ **Remember the standing assessment: the PID is the most dangerous limb in the pleading**
+(`STRESSOR-STRENGTH-AUDIT.md` Tier 4). It carries the fraud allegation, engages *Briginshaw* at its
+highest, opens **s 32(5)(b)**, and **SOFC ¶16(a) pleads that Ms Reese was unaware of it.**
+
+⭐ **The safe formulation, and it is all he needs — two admitted facts, no adjective:**
+> *On 24 December 2024 the Ethical Standards Unit determined that the disclosure of 13 May 2024
+> constituted a Public Interest Disclosure. That determination post-dates the Review Decision by two
+> months.*
