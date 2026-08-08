@@ -625,3 +625,102 @@ action.** The parallel tracks stay behind (standing rule 8).
 
 ⭐ **And "unassessed" is already his own word, used in the room on 7 August** — *"Ms Taylor's
 unassessed management action."* **The framing is consistent and it has already been said out loud.**
+
+---
+
+# PART 11 — ⭐⭐⭐ "AN UNREASONABLE BREAK" IS THE WEAKEST VERSION OF THIS CASE
+
+> **Cory, 8 August 2026: they put it as an unreasonable break — but the weight is in the pairing,
+> the denial, the application of the agreement by HR that Chloe had no knowledge of, the never
+> closing, and everything else.**
+> **All of that is right, and one part of it may be the single strongest point in the matter.**
+
+## 11.1 THE REVIEW OFFICER'S FINDING IS A FLOOR, NOT A CEILING
+
+The delegate found **factor 4 amounted to unreasonable management action** — and then diluted it by
+**counting**: *"two out of three"*, *"only the one incident"*, *"overall."*
+
+⭐⭐ **The dilution only works if the break is a single isolated incident.** It stops working the
+moment the break is **the first step of a sequence that ran 44 days and passed through four
+decision-makers.**
+
+⇒ **He does not need to overturn the delegate. He needs to show the delegate was looking at one
+shift when the conduct was a sequence.** That is what *de novo* is for.
+
+⭐⭐⭐ **And it turns *Delaney* around.** The Review Officer used global evaluation to dilute.
+**Global evaluation of thirteen scattered limbs dilutes. Global evaluation of one 44-day sequence
+concentrates.** The same authority that hurt him at review helps him at hearing — **provided the
+unit of assessment is the sequence, not the incident.**
+
+## 11.2 ⭐⭐⭐ THE AGREEMENT AS HINDSIGHT — and the question that has no good answer
+
+**What is established:**
+- **9 April 2024** — she *"escalated your enquiry regarding fatigue leave to Human Resources **to
+  confirm policies around this**."*
+- **1 May 2024** — the refusal came *"after **a consultation with payroll and Human Resources**"*,
+  relying on the agreement **signed on 17 June 2020**.
+- **She was not the manager with whom that agreement was made.**
+
+⇒ ⭐⭐⭐ **The available inference: she did not know the 2020 agreement existed until HR told her, in
+late April 2024 — six weeks after she made the roster.**
+
+**If that is right, then the agreement was not the basis of the roster. It was found afterwards and
+used to justify one.** ⭐ That is Cory's own earlier phrase, and it is exact: **hindsight.**
+
+### ⛔⛔ THE QUESTION — and there is no good answer to it
+
+> **"When you prepared the roster for 17 and 18 March 2024, were you aware of the agreement Mr
+> Shepherd had signed on 17 June 2020?"**
+
+| Her answer | What follows |
+|---|---|
+| **"No"** | ⭐⭐⭐ **The agreement is a post-hoc justification. Nothing was governing the roster when it was made** |
+| **"Yes"** | ⭐⭐⭐ **Then she knowingly rostered a 7-hour break against an 8-hour standard she knew of — and it was not "human error"** |
+
+⭐⭐ **Both answers destroy a different part of their case. This should be the centrepiece of the
+cross-examination.**
+
+⚠ **But it is an inference, not a fact. Never assert it — ask it.** ⛔ If it is asserted in a
+submission and she then says she did know, the assertion is what gets remembered.
+
+## 11.3 ⭐⭐⭐ AND IT FINISHES "HUMAN ERROR" OFF COMPLETELY
+
+**SOFC ¶22(a): *"a matter of human error and not intentional or repeated."***
+
+⭐⭐⭐ **"Human error" presupposes a rule that was misapplied. If no rule was in operation, it was
+not error — it was absence.** And **absence is the case.**
+
+**Three things establish the absence, and two are in MSH's own writing:**
+1. **No fatigue framework at the Switchboard until *"after 30 June 2024"*** — MSH's letter, Item 5.
+2. **No fatigue risk assessment or register** — MSH's letter, Items 4 and 7.
+3. ⚠ **And, if she says so in cross, no knowledge of the only instrument that set a break standard
+   for him.**
+
+⇒ **The roster was not made in breach of a standard. It was made where no standard was operating.**
+
+## 11.4 ⭐⭐ "TO CONFIRM POLICIES AROUND THIS" — the policy question was never answered
+
+Look precisely at what she asked HR on 9 April: **to confirm the *policies*.**
+
+**What came back on 1 May was not a policy. It was an individual agreement from 2020.**
+
+⇒ ⭐⭐⭐ **A policy question, answered with a contract.** And **MSH's letter explains why: there was no
+policy applying to the Switchboard** — FRMS *"only applies to health practitioners and clinical
+assistants"*, and the Switchboard is *"non-clinical."*
+
+⭐⭐ **So the policy question was never answered because there was no answer to give.** The 2020
+agreement was the only document anyone could find. **That is the whole case in one exchange.**
+
+## 11.5 THE WEIGHT, RANKED — what actually carries it
+
+| | What carries the weight | Why |
+|---|---|---|
+| **1** | ⭐⭐⭐ **The pairing** — 23:00 Sunday → 06:00 Monday, into the highest-volume shift of the week, in a Code Blue / MET coordination role | **Admitted** (¶1; SOFC ¶22(a)) · criticality **admitted** (¶8) · *"Monday shift following a Sunday shift"* is in **their own** Review Decision |
+| **2** | ⭐⭐⭐ **The application of a 2020 agreement, sourced from HR, to a 2024 full-time roster** | The refusal's own words · **and the question at 11.2 has no good answer** |
+| **3** | ⭐⭐ **The denial, and that he was told only afterwards he could have ended the agreement at any time** | *"you are able to terminate this agreement going forward"* |
+| **4** | ⭐⭐ **The never closing** — a policy question that had no answer, and nothing changed | MSH: *"no consequential changes"* · no framework until after the injury |
+| **5** | ⭐ **His own leave funding the recovery** | ¶22(c) *"the leave was paid"* answers a case he is not running |
+| **6** | The break duration itself — *"an unreasonable break"* | ⚠ **The delegate's framing, and the weakest version.** True, admitted, and easy to dilute **standing alone** |
+
+⛔⛔ **Do not lead with item 6.** It is the finding they already made and already diluted. **Lead
+with the pairing, and let the break duration be a fact inside it rather than the case itself.**

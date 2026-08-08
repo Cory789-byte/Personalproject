@@ -240,3 +240,34 @@ spine that is close to unanswerable and a medical centre that is not yet made.**
 ⭐⭐⭐ **Which is exactly why the settlement analysis reads as it does: the case is at its most
 valuable in the window after the report exists and before the medical gate is tested in a
 courtroom.**
+
+---
+
+# PART 9 — ⭐⭐⭐ THE CENTREPIECE QUESTION (added 8 Aug 2026)
+
+**Insert at the head of Block 2, before the 1 May refusal:**
+
+> **"When you prepared the roster for 17 and 18 March 2024, were you aware of the agreement Mr
+> Shepherd had signed on 17 June 2020?"**
+
+- **"No"** ⇒ ⭐⭐⭐ the agreement is a **post-hoc justification**; nothing was governing the roster.
+- **"Yes"** ⇒ ⭐⭐⭐ she rostered a 7-hour break **against a standard she knew of** — and it was not
+  *"human error"* (SOFC ¶22(a)).
+
+⭐⭐ **Both answers destroy a different part of their case.**
+
+⚠ **It rests on an inference — that she learned of the agreement only when HR told her in late
+April 2024, six weeks after the roster was made.** The inference is available from the 9 April
+escalation *"to confirm policies around this"* and the 1 May refusal *"after a consultation with
+payroll and Human Resources."*
+
+⛔ **Never assert it in a submission. Ask it in the box.** If it is asserted and she then says she
+did know, **the assertion is what gets remembered.**
+
+**Follow-ups, in order:**
+> Who told you about it? · When? · Was it reviewed at any point between 2020 and 2024? · Were you
+> the manager with whom it was made? · On 9 April you asked Human Resources to **confirm the
+> policies** around fatigue leave — is that right? · What came back was an individual agreement
+> from 2020? · **Was any fatigue risk assessment carried out?**
+
+⇒ Then tender **Exhibit 17** (MSH's letter — no framework until after 30 June 2024).
