@@ -156,3 +156,97 @@ either closes the question or it does not.**
 - [Workers' Compensation and Rehabilitation Act 2003 (Qld) — AustLII](https://www.austlii.edu.au/au/legis/qld/consol_act/wcara2003400/)
 - [Independent review of insurer decisions — WorkSafe Qld](https://www.worksafe.qld.gov.au/claims-and-insurance/independent-review-of-insurer-decisions)
 - **WCRA ss 329 and 545** — read from ATT26, authorised consolidation current 1 January 2025, in repo
+
+---
+
+# PART 5 — "IF THEY ARE WORKCOVER'S, HOW IS THIS AN INDEPENDENT REVIEW?"
+
+## 5.1 ⛔ FIRST — CHECK THE PREMISE
+
+**Two things are established:**
+- HopgoodGanim is **on WorkCover's legal services panel**.
+- The review decision PDF was generated from a Word document carrying **their DMS profile**.
+
+⛔⛔ **What is NOT established is that they had any role in reviewing anything.** ⭐ **A document
+management profile shows a document passed through a system. It does not show who advised, who
+drafted, or who decided.**
+
+⚠ **So the premise — *"they are now the same people independently reviewing"* — is not proved.**
+⭐ **But the underlying concern is legitimate, and it has a precise legal form. That form is what
+follows.**
+
+## 5.2 ⭐⭐ WHAT "INDEPENDENT" ACTUALLY MEANS HERE
+
+**The decision itself says it, at p 2:** *"The review is **an independent administrative process** or
+a 'review on the papers'."*
+
+⭐⭐⭐ **"Independent" in that sentence means independent OF THE INSURER.** The entire purpose of a
+Chapter 13 review is that **someone other than WorkCover examines WorkCover's decision.**
+
+⇒ **If a firm retained by WorkCover on this matter had a hand in producing the reviewer's reasons,
+the independence the process advertises would be compromised. That concern is real.**
+
+## 5.3 ⭐⭐⭐ BUT THE QUESTION IS NARROWER THAN "ARE THEY WORKCOVER'S LAWYERS"
+
+**Government legal panels do not make a firm "the lawyer for" an agency in every matter.** Panel
+firms are **engaged matter by matter**, and the same firm commonly acts for different government
+entities on different files.
+
+⭐⭐ **What a firm CANNOT properly do is act for WorkCover on THIS claim and also assist the
+Regulator in reviewing THIS claim.** That is acting on both sides of the same dispute — a direct
+conflict of duties, and a matter for the **Australian Solicitors' Conduct Rules** (r 10, former
+clients; r 11, conflicts of duties).
+
+⇒ ⭐⭐⭐ **So the real question is not *"are they WorkCover's lawyers"* — it is:**
+> **Were they engaged on this matter, by whom, and for what?**
+
+**Which is exactly what the disclosure request at §4.4 asks. That question was already the right
+one.**
+
+## 5.4 ⚠ THREE THINGS THAT COMPLICATE THE SIMPLE READING
+
+**1. ⭐⭐⭐ The decision overturned WorkCover twice, both against WorkCover** — factor 3 substantiated,
+factor 4 found unreasonable. ⇒ **If a firm acting for WorkCover had authored it, that makes no
+sense. Either they were not acting for WorkCover on this, or they did not author it.** **That is a
+strong logical constraint and it should not be discarded because it is inconvenient.**
+
+**2. ⭐⭐ There is a matter number — 2440758.** ⇒ **Someone engaged them on a file connected to
+this.** ⚠ **Who, and for what, is unknown.**
+
+**3. ⭐⭐ A fourth possibility that has not been considered: MSH.**
+The employer was a party to the review (responses of 15 August and 6 September 2024 are in the
+evidence list). ⭐⭐⭐ **And the employer's response letter of 6 September 2024 was produced by
+`PDFTron built-in office converter` with Author, Creator and Title stripped — a
+document-management-system converter, not Word and not Outlook.**
+⇒ **That is consistent with the employer's response having been prepared through a law firm's DMS.**
+⚠ **It still does not explain how the Regulator's decision came out of that DMS in Word.**
+
+⛔ **None of these resolves it. All three are recorded so that the file is not left with a single
+tidy theory.**
+
+## 5.5 ⭐⭐⭐ AND THE ANSWER THAT ACTUALLY MATTERS
+
+**The review's independence is structural, not personal.** It comes from a different body, a
+different decision-maker under s 329, statutory criteria under s 545 — **and, above all, from a
+right of appeal to an independent tribunal.**
+
+⇒ ⭐⭐⭐ **The scheme does not assume reviews are perfect. It provides a hearing DE NOVO precisely
+because they can be wrong.**
+
+**So the answer to *"how is this independent"* is, in part: it may not have been — and the appeal
+is the remedy the statute already gives him for exactly that.** ⭐⭐ **He is already standing in
+it.**
+
+## 5.6 ⚠ THE DOORS THAT EXIST, AND WHY NOT TO WALK THROUGH THEM NOW
+
+**If the disclosure answer is unsatisfactory, there are proper avenues:**
+- ⚠ **The Legal Services Commission** — a conflict-of-duties complaint about a firm.
+- ⚠ **The Queensland Ombudsman** — administrative process.
+
+⛔⛔ **Both are separate tracks. Both sit BEHIND the workers' compensation matter under standing
+discipline rule 8. Neither helps the appeal — and pursuing either now would:**
+- consume the fortnight that belongs to the **12 August report**;
+- convert a question into an allegation;
+- and destroy the *"their own delegate found for me"* argument (§4.3).
+
+⭐ **Know the doors are there. Do not open one in August 2026.**
