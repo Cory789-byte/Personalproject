@@ -912,3 +912,90 @@ record did not support.**
    **sent** and denies only its **characterisation**; ¶19 denies the failure to facilitate, **so
    they carry that** — but proof of the 13-month gap now rests on **CS-2, CS-3 and his own
    evidence.**
+
+## 13.6 ⭐⭐⭐ CORRECTION — the source diversity changes the analysis
+
+> **Cory, 8 August 2026: the pattern is established from her own conduct AND from different
+> people — payroll, the union, and even the rostering.**
+> ⛔ **13.2's caution was pitched too broadly. It is corrected here.**
+
+**The caution was never that the pattern is unprovable or inadmissible. It was about the NOUN.**
+⭐ **The facts are provable, diverse and central. What must not happen is that they are given a name
+that implies a state of mind.** That distinction is the whole of it.
+
+### ⭐⭐⭐ Why the diversity of sources does real work
+
+**In every one of the five events, the material that contradicts the answer given was authored by
+someone other than him — and someone other than Ms Taylor:**
+
+| Event | Who authored the contradicting material |
+|---|---|
+| **COVID leave** | ⭐ **The MyHR audit trail** — system-generated, and **produced by MSH** (Item 11) |
+| **Pay / AVAC** | ⭐⭐ **Payroll's own emails** — Ms Grant's instruction of 3 May, and payroll's reply to *him* on 13 May |
+| **Fatigue** | ⭐⭐⭐ **MSH's Chief Executive** — no framework, no assessment, no consequential changes |
+| **Union** | **Form 24 ¶¶17–18 admissions**, and **Together's own confirmation** that it passed the correspondence on |
+| **Rostering** | **The roster itself**, and **¶1's admission** |
+
+⇒ ⭐⭐⭐ **Five events; five different authors; and in none of them is he the source of the
+contradiction.**
+
+### It does three things that a single-source pattern cannot
+
+**1. ⭐⭐ It defeats the "one manager's error" reading.** If everything came from Ms Taylor, the
+answer is a personality clash or one person's mistakes — **which is *Bowers*, a blemish in a
+functioning system.** Once **payroll, Human Resources, the union pathway and the rostering system**
+all feature, **that explanation is no longer available.**
+
+**2. ⭐⭐⭐ It removes him as the common factor.** ⚠ The standing risk in any pattern case is that the
+tribunal notices the appellant is the one constant. **Source diversity is the answer — but only if
+the contradicting evidence has different authors. Here it does, in every instance.**
+
+**3. ⭐ It converts the pattern from an inference into an arithmetic.** He does not argue that anyone
+was careless. **He points at five documents by five authors.**
+
+### ⭐⭐⭐ AND IT BELONGS IN s 32(5)(a), NOT IN THE STRESSOR LIST
+
+s 32(5)(a) asks whether the injury arose out of **reasonable management action taken in a
+reasonable way.**
+
+⭐⭐ **"Management action" here is not one act by one manager. It is the organisation's handling of
+him across four processes — and its reasonableness is assessed on what the organisation did, not on
+what anyone intended.**
+
+⇒ ⭐⭐⭐ **The diversity of sources is precisely what makes it *management action* rather than *a
+manager's conduct* — and therefore precisely what brings the whole of it inside the s 32(5)(a)
+enquiry.**
+
+### ⭐⭐ The rostering is the cleanest of the five
+
+**It is not a person at all. It is a system output.** And the employer's own concessions about it
+need no human actor: **no fatigue framework · no risk assessment or register · no consequential
+changes.**
+
+⭐⭐⭐ **The June 2020 policy said do not roster the first shift of the following day. The roster did
+it anyway. That is a system failing against its own written control — and nobody has to be blamed
+for it to be unreasonable.**
+
+### ⚠ THE ONE RISK THAT SURVIVES — and it is about ORDER, not admissibility
+
+**Volume still invites the *Delaney* global evaluation, and the Review Officer already used exactly
+that to dilute.**
+
+⛔ **The answer is not to drop them. It is ordering:**
+1. ⭐ **Lead with the fatigue sequence as the proven instance** — *Mahaffey*, one unreasonable
+   stressor with sufficient causal connection.
+2. ⭐⭐ **Then the other four, not as four more stressors, but as evidence that no check existed
+   anywhere** — that the first was not an aberration.
+
+⇒ ⭐⭐⭐ **Same facts, different function. As stressors they dilute. As evidence of the absence of a
+system they concentrate.**
+
+### THE FORM OF WORDS
+
+⭐ **Safe, and it is all that is needed:**
+> *In each of these matters an answer was given that the contemporaneous record did not support. In
+> each, the record correcting it was created by a different part of the organisation. In none was
+> the error identified by the organisation itself.*
+
+⛔ **Still never:** *disregard · pattern of failure · systemic hostility · suppression · again · as
+usual.* **Five dates and five authors do the work. The tribunal supplies the rest.**
