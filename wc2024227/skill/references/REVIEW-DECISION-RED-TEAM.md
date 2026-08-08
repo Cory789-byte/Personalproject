@@ -425,9 +425,17 @@ decision — it is the first time those questions get asked.**
 - **factor 3** — WorkCover: *not substantiated*. **Her: substantiated.**
 - **factor 4** — WorkCover: *reasonable management action*. **Her: UNREASONABLE.**
 
-⭐⭐⭐ **A decision-maker moving toward refusal does not overturn the primary decision twice in the
-applicant's favour. The cheap path was available — confirm WorkCover's findings and stop. She did
-not take it.**
+⚠⚠ **QUALIFIED 8 AUGUST 2026 — CORY'S CORRECTION.** ~~A decision-maker moving toward refusal does
+not overturn the primary decision twice in the applicant's favour.~~ ⭐⭐ **The OUTCOME went to
+WorkCover: the rejection was CONFIRMED. Concessions were made at the FACTOR level and the result
+was preserved at the AGGREGATION step — which is precisely where the "two out of three" miscount
+sits.** ⇒ **This no longer "defeats" the proposition. It is neutral at best, and read with §8.1
+test 7 it may point the other way.**
+
+⛔ **The CONCLUSION of this Part is unchanged, but it now rests only on its other legs:** the appeal
+is **de novo** so her state of mind is legally irrelevant; ***Briginshaw*** raises his own bar; and
+the allegation would point at **s 32(5)(c)**. ⭐⭐ **Error still beats bias — but not for this
+reason.**
 
 **She also found, unprompted, that employment was a significant contributing factor, and recorded
 Dr Hawes saying work events were the *sole* cause and that there was no pre-existing condition —

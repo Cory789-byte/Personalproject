@@ -304,7 +304,7 @@ inserting a signature graphic** — ordinary practice.
 | | | **No authority later than 2009; no *Mahaffey*** — a 2024 insurance firm would not draft s 32(5)(a) that way | ⭐⭐ |
 | | | ⭐ **Citations pasted from a standing source** ⇒ boilerplate assembly, not legal research | ⭐⭐ |
 | | | **Decision made on day 25 of the 25 business days** (s 545(1)) ⇒ deadline pressure | ⭐⭐ |
-| | | **It overturned WorkCover twice, both against WorkCover** | ⭐⭐⭐ |
+| | | ⛔⛔ ~~It overturned WorkCover twice~~ **WITHDRAWN — the OUTCOME went to WorkCover. See `HOPGOODGANIM-QUESTION.md` Part 8** | ⛔ **nil** |
 
 ## 8.2 ⭐⭐⭐ THE CONCLUSION
 

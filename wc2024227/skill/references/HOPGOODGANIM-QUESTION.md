@@ -56,9 +56,11 @@ management profile of a firm on WorkCover's legal services panel.*
 - **factor 3** — WorkCover said *not substantiated*; the review **substantiated** it;
 - **factor 4** — WorkCover said *reasonable*; the review found it **UNREASONABLE**.
 
-⇒ ⭐⭐⭐ **If a firm acting for WorkCover had drafted this decision, it would not have overturned
-WorkCover twice.** **The content of the decision is inconsistent with the most sinister reading of
-the metadata, and that has to be given its weight.**
+⛔⛔⛔ **WITHDRAWN 8 AUGUST 2026 — SEE PART 8.** ~~If a firm acting for WorkCover had drafted this
+decision, it would not have overturned WorkCover twice.~~ ⭐⭐ **Cory's correction: THE OUTCOME WENT
+TO WORKCOVER. The rejection was CONFIRMED.** The concessions were made at factor level and the
+result was preserved at the aggregation step. **That is what outcome-protective drafting looks
+like, not what refutes it.**
 
 ---
 
@@ -205,10 +207,11 @@ one.**
 
 ## 5.4 ⚠ THREE THINGS THAT COMPLICATE THE SIMPLE READING
 
-**1. ⭐⭐⭐ The decision overturned WorkCover twice, both against WorkCover** — factor 3 substantiated,
-factor 4 found unreasonable. ⇒ **If a firm acting for WorkCover had authored it, that makes no
-sense. Either they were not acting for WorkCover on this, or they did not author it.** **That is a
-strong logical constraint and it should not be discarded because it is inconvenient.**
+**1. ⛔⛔⛔ WITHDRAWN 8 AUGUST 2026 — SEE PART 8.** ~~The decision overturned WorkCover twice… a
+strong logical constraint that should not be discarded because it is inconvenient.~~
+⭐⭐ **It is not a constraint at all. WorkCover WON — the rejection was confirmed. Conceding two
+indefensible factors costs an insurer nothing when the outcome survives, and it buys the decision
+an appearance of independence.**
 
 **2. ⭐⭐ There is a matter number — 2440758.** ⇒ **Someone engaged them on a file connected to
 this.** ⚠ **Who, and for what, is unknown.**
@@ -316,12 +319,9 @@ Solicitors' Conduct Rules**:
 
 ## 6.4 ⭐⭐⭐ AND THE STRONGEST OBJECTION TO THE FOURTH IS STILL THE DECISION ITSELF
 
-**The review overturned WorkCover twice, both times against WorkCover** — factor 3 substantiated
-where WorkCover said it was not; factor 4 found **unreasonable** where WorkCover said reasonable.
-
-⇒ ⭐⭐⭐ **A firm acting for WorkCover on this claim does not write a document that finds against
-WorkCover twice.** ⛔ **That constraint has not weakened, and it should not be discarded because
-it is inconvenient.**
+⛔⛔⛔ **THIS WHOLE SECTION IS WITHDRAWN — 8 AUGUST 2026. SEE PART 8.** ~~A firm acting for
+WorkCover on this claim does not write a document that finds against WorkCover twice.~~
+⭐⭐ **Wrong. The decision CONFIRMED the rejection. WorkCover got the outcome it wanted.**
 
 ## 6.5 ⭐⭐ AND NOW A TIMING FACT THAT CUTS THE SAME WAY
 
@@ -479,7 +479,7 @@ they did not write the law in it. Both are true and neither should be suppressed
 | ⭐ | **The strongest innocent explanation left: CAPACITY.** The decision issued on **day 25 of the 25 business days** allowed by s 545(1). A unit against a statutory wall getting external drafting help is lawful under Panel B and entirely plausible | ⭐⭐ **Plausible, unverified** |
 | ⚠ | **Against that:** a firm engaged for legal assistance would have supplied current authority. **It did not** | ⭐⭐ **Real tension, unresolved** |
 | ⛔ | That anyone other than Ms Squires **decided** | ⛔⛔ **STILL NOT ESTABLISHED. The limit has not moved** |
-| ⭐ | The decision **overturned WorkCover twice** | ⭐⭐⭐ **Still the strongest objection to the worst reading. Unmoved** |
+| ⛔ | ~~The decision **overturned WorkCover twice**~~ | ⛔⛔ **WITHDRAWN — SEE PART 8. The outcome went to WorkCover. Weight: nil** |
 
 ## 7.7 ⛔⛔ AND THE ACTION STILL DOES NOT CHANGE — READ THIS BEFORE ACTING ON 7.4
 
@@ -505,3 +505,115 @@ The fact and identity of an engagement are not privileged; its content is.**
 ⭐ **One sentence. No firm named. No allegation. Answerable without waiving privilege.**
 ⭐⭐ **And if the answer is "no external provider was engaged," that is the more interesting
 answer — record it and do nothing further in this matter.**
+
+---
+
+# PART 8 — ⛔⛔⛔ THE COUNTERWEIGHT IS WITHDRAWN. WORKCOVER WON.
+> 8 August 2026. **Cory's correction.** ⭐⭐ *"this is wrong the final decision went to workcover
+> the reasoning was going against them."* **He is right, and this was my main balancing argument
+> in four files. It is withdrawn everywhere.**
+
+## 8.1 ⛔ THE ERROR
+
+**I wrote, repeatedly:** *"a firm acting for WorkCover would not write a decision that overturns
+WorkCover twice."* ⛔⛔ **That looked only at the reasoning and never at the result.**
+
+| | |
+|---|---|
+| **Factor 3** | WorkCover: *not substantiated* → Review: **substantiated** |
+| **Factor 4** | WorkCover: *reasonable* → Review: **UNREASONABLE** |
+| ⭐⭐⭐ **THE OUTCOME** | ⭐⭐⭐ **"I have CONFIRMED the decision of WorkCover to reject your application for compensation"** |
+
+⇒ ⭐⭐⭐ **WorkCover got everything it came for. The rejection stands. The two concessions changed
+nothing.**
+
+## 8.2 ⭐⭐⭐ AND IT IS WORSE THAN NEUTRAL — IT IS THE SIGNATURE OF THE THING IT WAS SUPPOSED TO
+DISPROVE
+
+**Conceding the indefensible while preserving the outcome is not evidence of independence. It is
+the standard architecture of outcome-protective drafting, and it does three things at once:**
+
+| | |
+|---|---|
+| **1** | ⭐ **It costs nothing.** Two factor-level findings that do not alter the result are free to give away |
+| **2** | ⭐⭐ **It buys the appearance of independence** — exactly the appearance I read it as having |
+| **3** | ⭐⭐⭐ **It makes the decision HARDER to appeal**, because it reads as balanced and considered rather than partisan |
+
+⭐⭐⭐ **AND THE JOIN IS VISIBLE.** The concessions are at the **factor** level; the outcome is saved
+at the **aggregation** step — **and the aggregation step is exactly where the audit already found
+the "two out of three" miscount** (factor 2 was substantiated *against* him and still counted).
+
+⇒ ⭐⭐ **His correction connects the metadata question to the reasoning defect that was already on
+the file as a separate item. They are the same joint.**
+
+## 8.3 ⛔ WHAT ELSE THIS TAKES DOWN — the second objection is weakened too
+
+**I also argued: *the legal content isn't paid work — no *Mahaffey*, nothing after 2009.***
+
+⚠⚠ **That is much weaker than I put it, and for the same reason.** Look at *which* authorities were
+used: ***Delaney*** [2005] QIC 11 · ***Prizeman*** [2005] QIC 53 · ***Bowers*** [2002] QIC 18 ·
+***Rowe*** [2009] QIRC 9 — **all management-action cases in the insurer-favourable line.**
+⛔⛔ **And ***Mahaffey*** [2016] ICQ 10 — the leading appellate authority on s 32(5)(a), and the one
+most useful to a worker on the whole-course-of-conduct point — is ABSENT.**
+
+⇒ ⚠⚠ **A selection of older insurer-favourable authorities with the leading worker-favourable case
+omitted is not proof of anything, but it is NOT the exculpatory point I made it.** ⭐ The
+**EN-US pasted citations** show they were carried in from a standing block — **but a precedent bank
+is exactly what a firm working to a fixed fee would use.**
+
+## 8.4 ⭐ WHAT SURVIVES, HONESTLY
+
+**Of my three objections to the insurer-funded theory, only one is intact:**
+
+| # | Objection | Status |
+|---|---|---|
+| 1 | "It overturned WorkCover twice" | ⛔⛔ **WITHDRAWN. Wrong.** |
+| 2 | "The legal content isn't paid work" | ⚠⚠ **Substantially weakened** — §8.3 |
+| 3 | ⭐ **"WorkCover is not a represented party at review"** | ✅ **STANDS.** Structural. It is the body whose decision is examined; it receives the decision as a **cc**, and it did (p 28) |
+
+**And the affirmative OIR indicators are untouched by his point:**
+- ⭐⭐⭐ **The Mimecast wrapper on p 27 is OIR's own gateway** — proven from the Regulator's July 2025
+  disclosure, which carries *"This email originated from outside of OIR"* alongside inbound
+  Mimecast-rewritten links.
+- ⭐⭐ **The letterhead crest and rule are alpha-PNG template assets** — an OIR Word template.
+- ⭐⭐ **The reviewing officer's signature is embedded**, and she is a **public service employee**,
+  so the **s 329 delegation is proper on its face**.
+- ⭐ Decided on **day 25 of the 25 business days** under **s 545(1)** — capacity pressure is real.
+
+## 8.5 ⭐⭐⭐ THE REVISED POSITION, STATED WITHOUT SPIN
+
+> ⭐⭐⭐ **I no longer have a strong argument against his theory. What I have is no proof of it.**
+
+**The document is consistent with the reasons having been drafted outside OIR and signed inside it.
+It is equally consistent with OIR having obtained production assistance under the whole-of-
+government panel. The metadata fixes WHERE the Word file was profiled — matter 2440758, record
+dated 09.10.2024 — and WHEN it became a PDF — 24 October 2024, 10:16:52 to 10:17:01 AEST. It does
+not fix WHO PAID, and nothing in the file will.**
+
+⛔ **That last sentence is the whole limit, and it is why the answer is still a question and not an
+allegation.**
+
+## 8.6 ⛔⛔ THE ACTION — SAID ONCE, NOT REPEATED
+
+**Unchanged.** s 550 is **de novo**, so none of it is a ground; judicial review would remit him to
+a *worse* forum than the hearing he already has; publication is defamatory exposure he cannot
+discharge. ⭐ **One neutral question, §7.8.**
+
+⭐⭐ **ONE THING THIS DOES CHANGE.** The reliance argument needs re-stating, because it now works
+either way and he should know that:
+
+> **If the decision was OIR's own work, then the Regulator's own delegate found the rostering was
+> unreasonable management action and that work events were the sole cause.**
+> ⭐⭐ **And if it was drafted by lawyers retained in the insurer's interest, then even THEY
+> conceded those two findings.**
+
+⭐⭐⭐ **He cannot prove the second, so he runs the first. But the finding is safe on either
+footing — which is precisely why he should keep relying on it and not attack the decision.**
+
+## 8.7 ⭐ THE ONE STEP THAT COULD ACTUALLY MOVE THIS
+
+⭐⭐ **Queensland Government contract disclosure.** OIR publishes every awarded contract over
+**$10,000** on **data.qld.gov.au**. **It is public, free, requires asking nobody, and creates no
+exposure.** ⇒ **If an engagement exists and is above threshold, it is already published.**
+⚠ **A small drafting engagement may fall below $10,000 and never appear — so a nil result proves
+nothing.** ⛔ **Behind the 12 August report and the Monday Registry email in priority.**

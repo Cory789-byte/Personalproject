@@ -295,7 +295,7 @@ fingerprint; nothing to compare it against yet.**
 |---|---|
 | The DMS fields are **populated merge fields**, not stale properties | ⭐⭐⭐ **The letterhead is the genuine Queensland Government / OIR crest** |
 | **Three identity fields** — Author, Company, `dc:creator` — all name the firm | ⭐⭐ **The decision bears a handwritten signature** |
-| A **matter number**, a **document ID (v1)**, a **user ID**, an **addressee** and a **description** | ⭐⭐⭐ **It overturned WorkCover twice, against WorkCover** |
+| A **matter number**, a **document ID (v1)**, a **user ID**, an **addressee** and a **description** | ⛔⛔ ~~It overturned WorkCover twice, against WorkCover~~ **WITHDRAWN 8 Aug 2026 — see `HOPGOODGANIM-QUESTION.md` Part 8. THE OUTCOME WENT TO WORKCOVER: the rejection was CONFIRMED. Conceding two factors while preserving the result is what outcome-protective drafting looks like, not what refutes it** |
 | **`hgDMSDate 09.10.2024`** — 15 days before the reasons | ⭐⭐ **The file is forensically clean** — no hidden text, no layers, no deleted content |
 
 ⇒ ⭐⭐⭐ **BEST SYNTHESIS, and it is where the evidence actually lands:**
