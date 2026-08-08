@@ -724,3 +724,92 @@ agreement was the only document anyone could find. **That is the whole case in o
 
 ⛔⛔ **Do not lead with item 6.** It is the finding they already made and already diluted. **Lead
 with the pairing, and let the break duration be a fact inside it rather than the case itself.**
+
+---
+
+# PART 12 — WHAT SHE DID, AND THE 21 MAY "AWAITING PAYROLL" EMAIL
+> Verified from **Review Decision 69983 pp 13–14 and 21–22**, and Form 24 ¶¶40–41.
+
+## 12.1 WHAT MS TAYLOR DID IN THE SEVEN WEEKS AFTER FATIGUE WAS RAISED
+
+| Date | What she did |
+|---|---|
+| **9 Apr 2024** | Submitted an AVAC for the 30 March public holiday · directed him to MyHR for anything older than 3 months · ⭐ **escalated the fatigue enquiry to Human Resources *"to confirm policies around this"*** · and asked him to raise concerns ***"as soon as they arise so she could action them sooner for you"*** |
+| **9 Apr – 1 May** | ⚠ **Nothing recorded. Three weeks** |
+| *(24 Apr)* | *He chases — "more than 2 weeks without any response"* |
+| **1 May 2024** | **Refused** the fatigue payment on the 2020 agreement · said payroll was investigating the top-ups · said payroll was still reviewing the public holidays |
+| **9 May 2024** | ⭐ **Issued the MASPER directive** — changed the **Switchboard's** call-handling process (CS-1) |
+| **21 May 2024** | Emailed him that she was **awaiting payroll confirmation** (12.2) |
+| **28 May 2024** | Signed and submitted the AVAC — **25 days** after being instructed |
+
+⭐⭐⭐ **In seven weeks she escalated it once, refused it once, changed the call-handling process,
+and submitted an AVAC 25 days late. What she did not do at any point was assess the fatigue or
+change the roster.**
+
+## 12.2 ⭐⭐⭐ THE 21 MAY EMAIL — the chronology is tighter than it first looks
+
+| Date | Event | Source |
+|---|---|---|
+| **3 May 2024** | ⭐⭐ Payroll Officer **Elaine Grant** *"requested Ms Taylor to submit an AVAC to correct the shifts for each fortnight so you were paid correctly and your RDO balance could be amended"* | **ADMITTED — Form 24 ¶40** (the Notice pleads *"IMMEDIATELY"*) |
+| **10 May 2024** | He emails payroll *"expressed your concern regarding Ms Taylor's challenges with payment processing"* | RD p 21 |
+| ⭐⭐⭐ **13 May 2024** | **Payroll replies to HIM: they *"could not see that any issues had been corrected"*, and instructed him to **speak to Ms Taylor** to have them corrected by submitting an AVAC** | RD pp 13–14, 21 |
+| ⭐⭐⭐ **21 May 2024** | **Ms Taylor emails him that she was *"awaiting payroll confirmation"* and *"as soon as she received it, she would submit an AVAC for the next pay run"*** | RD p 14 |
+| **28 May 2024** | AVAC signed and submitted | **ADMITTED — Form 24 ¶41**, delay admitted, **justification contested** |
+
+⇒ ⭐⭐⭐ **On 21 May she said she was waiting for payroll — eighteen days after payroll had asked
+*her* to submit it, and eight days after payroll had told *him* that nothing had been corrected and
+to go back to her.**
+
+## 12.3 ⭐⭐ WHY THIS MATTERS — three consequences, kept separate
+
+### (1) It answers the one thing they still contest on Stressor 2(b)
+
+**Form 24 ¶41 ADMITS the 25-day delay and contests only the JUSTIFICATION.** ⭐⭐⭐ **The
+justification is this email — and it does not survive the chronology, which is recorded in the
+Regulator's own decision.**
+
+⇒ **¶41 changes from *"admitted delay, contested reason"* to *"admitted delay, and the reason is
+answered from their own file."*** **No new document is needed.**
+
+### (2) ⛔⛔ IT IS A CROSS-EXAMINATION SEQUENCE, NOT A SUBMISSION
+
+⛔ **Do not call it false. Do not call it misleading. Do not use any adjective at all.** Standing
+rule: *never "false claim" on paper — always the incorrect premise.* And ***Briginshaw*** raises
+**his own** bar for every serious allegation.
+
+⭐ **The sufficient formulation is three dated facts:**
+> *On 3 May 2024 payroll asked Ms Taylor to submit an AVAC. On 13 May 2024 payroll told the
+> Appellant that nothing had been corrected and that he should return to Ms Taylor. On 21 May 2024
+> Ms Taylor wrote that she was awaiting payroll confirmation.*
+
+**No adjective. The inference belongs to the tribunal.**
+
+⚠ **AND THERE ARE INNOCENT EXPLANATIONS — take them seriously.** She may have been awaiting a
+different confirmation: the **Validation of Claims Older Than 3 Months** form (which she signed on
+28 May), or the older public-holiday entitlements that genuinely were more than three months old
+and were being separately reviewed.
+
+⇒ ⛔⛔ **If he asserts a contradiction in a submission and she explains it in the box, he loses far
+more than he gains. Ask it. Never assert it.**
+
+### (3) ⭐⭐ It repeats the shape of the fatigue thread
+
+| Thread | Shape |
+|---|---|
+| **Fatigue** | Escalated to HR → an agreement came back → **nothing assessed** |
+| **Pay** | Payroll instructed her → he was told she was awaiting payroll → **25 days** |
+
+⭐ **Both: the matter is described as sitting with someone else, and nothing happens.** Not thirteen
+grievances — **one pattern, in one correspondence, over one pay period.**
+⛔ **Keep it factual.** *In both threads he was told the matter was with another part of the
+organisation, and in both nothing followed for weeks.* **Never "pattern of neglect" or any cognate.**
+
+## 12.4 ⭐⭐⭐ HER OWN SENTENCE SETS THE STANDARD SHE THEN DID NOT MEET
+
+**9 April 2024, Ms Taylor:** she asked him to raise his concerns ***"as soon as they arise so she
+could action them sooner for you."***
+
+⇒ ⭐⭐⭐ **He did exactly that — on 8 April, and again on 24 April. Nothing was actioned.**
+
+**This requires no adjective, no characterisation and no allegation. It is her sentence, his
+conduct, and the dates.**

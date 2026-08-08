@@ -271,3 +271,30 @@ did know, **the assertion is what gets remembered.**
 > from 2020? · **Was any fatigue risk assessment carried out?**
 
 ⇒ Then tender **Exhibit 17** (MSH's letter — no framework until after 30 June 2024).
+
+---
+
+# PART 10 — BLOCK 5: THE AVAC CHRONOLOGY (added 8 Aug 2026)
+
+**Goes after Block 4. It closes the only live contest on Stressor 2(b)** — ¶41 admits the 25-day
+delay and contests **only the justification.**
+
+> On 3 May 2024 Ms Grant of payroll asked you to submit an AVAC to correct the shifts? · On 21 May
+> 2024 you wrote to Mr Shepherd that you were **awaiting payroll confirmation**? · And that as soon
+> as you received it you would submit an AVAC for the next pay run? · **What confirmation were you
+> waiting for?** · Were you aware payroll had written to Mr Shepherd on 13 May saying nothing had
+> been corrected and that he should return to you? · The AVAC was signed on 28 May 2024?
+
+⚠ ***"What confirmation were you waiting for"* is the one open question permitted in the whole
+cross** — because **any** answer helps:
+- **A different confirmation** (e.g. the Validation of Claims Older Than 3 Months form) ⇒ ⭐ then it
+  was never a barrier to the AVAC, which she signed the same day.
+- **No clear answer** ⇒ ⭐⭐ the 25-day delay has no justification, and ¶41's only contest fails.
+
+⛔⛔ **NEVER put it as an accusation.** No *"that wasn't true"*, no *"you misled him."* **Three
+dates, one open question, then move on.** *Briginshaw* raises **his own** bar for every serious
+allegation, and an accused witness attracts sympathy.
+
+⭐ **Optional close, and it needs no comment at all:**
+> On 9 April you asked Mr Shepherd to raise concerns as soon as they arose so you could action them
+> sooner for him? · He wrote on 8 April, and again on 24 April?
