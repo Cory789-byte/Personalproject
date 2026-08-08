@@ -227,3 +227,175 @@ allegation about any person.**
 | ⭐⭐⭐ **Their delegate found s 32(1) satisfied** | ⭐⭐ **Calderbank #3 and the settlement minute.** This is where it does the most work |
 | ⭐⭐ **Hawes: no pre-existing condition; work the sole cause** | **The letter of instruction** — Dr Krishnaiah should know it exists |
 | ⛔ **Bias** | **Nowhere.** Not pleaded, not argued, not implied, not in correspondence |
+
+---
+
+# PART 7 — FULL FORENSIC AUDIT (all 28 pages, 8 August 2026)
+> Parts 1–6 were built on pp 13–14, 16–17, 19–22 and 26–28. **This part completes the audit and
+> adds six findings, two of which are significant.**
+
+## 7.1 ⭐⭐⭐ SHE OVERTURNED WORKCOVER ON TWO FACTORS — BOTH IN HIS FAVOUR — AND STILL CONFIRMED
+
+**WorkCover's decision, 13 September 2024** (recited at p 1):
+> *"WorkCover determined that the **first and third** factors were **unable to be substantiated**,
+> while the **second and fourth** factor amounted to **reasonable management action taken in a
+> reasonable way**."*
+
+**The Review Officer, 24 October 2024:**
+
+| Factor | WorkCover | Review |
+|---|---|---|
+| 1 — non-adherence to rules | not substantiated | not substantiated |
+| 2 — response to complaint | reasonable MA | substantiated · reasonable |
+| ⭐ **3 — withholding of pay** | ⛔ **NOT substantiated** | ⭐⭐ **SUBSTANTIATED** |
+| ⭐⭐ **4 — the roster** | ⛔ **REASONABLE** | ⭐⭐⭐ **UNREASONABLE** |
+
+⇒ ⭐⭐⭐ **The independent review moved the decision materially in his favour on two of four
+factors — and then neutralised all of it with one aggregation paragraph.**
+
+**This is the strongest available framing of the whole decision and it is entirely documentary.**
+
+## 7.2 ⛔⛔⛔ THE DENOMINATOR IS WRONG — factor 2 was substantiated *AGAINST* him
+
+**Her finding, verbatim (p 13):**
+> *"I find this factor is able to be substantiated **to the extent that you lodged a complaint, and
+> some action was taken by management to review it, but NOT to the extent that there was no
+> response to it**."*
+
+⭐⭐⭐ **His complaint was that no action was taken. She found action WAS taken. That is a rejection
+of the factor, worded as a substantiation.**
+
+⛔⛔ **Yet factor 2 was then counted as one of the *"three causative factors"* in the *"two out of
+three"* arithmetic at p 27.**
+
+⇒ ⭐⭐⭐ **Not only is counting wrong in law (*Adams*, *Mahaffey*) — the count itself is wrong on her
+own findings.** Remove factor 2 and it is one of two. **Confine it to factors actually made out
+adversely to the employer, and the only one is factor 4 — which she found unreasonable.**
+
+**This compounds Error 1 and should be run immediately after it.**
+
+## 7.3 ⛔⛔ INTERNAL INCONSISTENCY ON THE SHIFT TIMES — and it goes to the keystone
+
+| Source | Sunday finish | Monday start | Gap |
+|---|---|---|---|
+| **RD p 13**, reciting his 8 April email | *"Sunday shift, **2:00 pm to 10:00 pm**"* | *"Monday shift, **6:00 am to 2:00 pm**"* | **8 hours** |
+| **RD p 26**, her reasoning | — | — | *"equated to **7 hours**"*, and with a 30-minute early leave *"still did not receive a minimum 8-hour break"* ⇒ implies a **23:00** finish |
+| **Form 20 ¶38** | *"ending at **23:00**"* | *"recommencing at **06:00**"* | **7 hours** |
+
+⛔ **Two different Sunday finish times inside the Regulator's own decision, and the recited one does
+not produce her own conclusion.**
+
+⭐ **Contained — for now — by the admissions:** Form 24 ¶1 and SOFC ¶22(a) both admit **a 7-hour
+break**. ⛔⛔ **But obtain the roster (Ex C2) or his own timesheet before the hearing. This is
+exactly the discrepancy a cross-examiner finds, and it sits under the keystone fact.**
+
+## 7.4 ⭐⭐⭐ THE FOUR FACTORS ARE DR HAWES'S — NOT HIS. This is badly under-used
+
+**p 6:**
+> *"WorkCover spoke with **Dr Hawes** on 2 September 2024, whereby **Dr Hawes opined your
+> psychological injury was caused by** management failing to follow rules, management's lack of
+> action in response to your complaint, the withholding of your payment and non-adherence to and
+> manipulation of the roster."*
+
+**And she reached them by a deliberate route.** Citing ***Rowe v Q-COMP* [2009] QIRC 9**, she noted
+*"an injured worker is not always best placed to identify the cause of a psychological injury"* —
+⭐ **and therefore routed causation through the medical evidence.**
+
+⇒ ⭐⭐⭐ **The causative framework in this matter is the treating doctor's, adopted by the
+Regulator's own delegate — not a worker-nominated list. That is far more durable, and it is the
+answer to any suggestion that he constructed the case.**
+
+⭐⭐ **Give this to Dr Krishnaiah on Wednesday.** It is the existing medical causation framework and
+he should know it exists.
+
+## 7.5 ⭐⭐⭐ A FATIGUE RISK MANAGEMENT POLICY DATED FEBRUARY 2021 WAS BEFORE HER
+
+**In her evidence list, p 3:**
+> *"**fatigue risk management policy dated February 2021**"* — alongside the *"fatigue leave
+> following weekends and/or rostered days off policy dated June 2020"*.
+
+⚠ **MSH's 2026 letter says fatigue risk management at the Switchboard was implemented only *"after
+30 June 2024"*, and that FRMS training *"only applies to health practitioners and clinical
+assistants."***
+
+⇒ ⭐⭐⭐ **The policy existed from February 2021. It simply was not applied to the Switchboard.**
+
+**That is WORSE for them than no policy at all: the control existed, the employer held it, and it
+was not used for a life-safety work area.**
+
+⭐⭐ **And the Regulator holds the document — it is in their evidence list. Add it to Monday's
+request, alongside the June 2020 fatigue leave policy.**
+
+## 7.6 ⭐⭐ SHE QUOTED THE ROSTERING CONTROL AND NEVER ASKED WHETHER IT WAS APPLIED
+
+**p 19**, setting out the June 2020 policy:
+> *"The policy notes that **many problems can be overcome regarding fatigue leave by either not
+> rostering the employee** who is on call for the first shift of the following day…"*
+
+⇒ **She recorded the employer's own control, in full, and never asked whether it was followed.**
+
+## 7.7 ⚠ HER TWO AUTHORITIES — both answerable, and one confirms an earlier correction
+
+**1. *Prizeman v Q-COMP* [2005] QIC 53** — *"the onus is on the worker seeking compensation to
+establish that management action was unreasonable… in the absence of evidence to support that
+assertion, management action must be considered reasonable."*
+⭐ **Correct, and consistent with Appeal Guide 7.3.** ⭐⭐ **It also confirms the earlier pleading
+error was rightly corrected** — the 9A had asserted the onus lay on the Respondent *under
+Prizeman*. **Prizeman says the opposite, and the Regulator's own delegate cited it that way.**
+
+**2. *Bowers v WorkCover Queensland* [2002] QIC 18** — *"management action need not be perfect or
+above criticism and reasonable management action permits some failings, deficiencies and flaws"*;
+*"blemishes… does not make the management action unreasonable."*
+
+⇒ ⭐⭐⭐ **This is the blemish doctrine, and the answer is the no-system point: a blemish presupposes
+a system.** MSH concedes there was **no fatigue framework at the Switchboard, no risk assessment,
+and no register.** **You cannot have a blemish in a system that does not exist.**
+
+## 7.8 ⛔⛔ FACTOR 1's REJECTION IS A SET OF ADVERSE CREDIBILITY FINDINGS — keep it out
+
+Her language: *"insufficient evidence to substantiate this"* · *"the employer **did not breach the
+rules** and adhered to their policies"* · *"**No evidence has been provided**"* · *"**you did not
+provide evidence**"*.
+
+⚠ **And the material underneath factor 1 is the quarantined collateral:** the fraud allegations, Ms
+Jeffrey's statements, *"a plot to obtain additional income"*, *"misuse of government funds"*, the
+first aid kit, the 30-minute meal break.
+
+⇒ ⛔⛔ **That material is already in the Regulator's file with adverse findings recorded against
+it.** ⭐ **It is a further reason to keep Stressor 1's weaker limbs out of the appeal entirely**
+(`STRESSOR-STRENGTH-AUDIT.md` Tiers 3–4).
+
+## 7.9 ⭐ THE COVID LIMB IS BETTER EVIDENCED THAN RECORDED — and carries one risk
+
+**p 24:**
+> *"On 29 February 2024, you sent Ms Taylor a text message asserting the documents were there and
+> **showed her on your phone that the declaration was still uploaded, whereby the upload time was
+> stated as 20 February 2024**. Ms Taylor contended it was not there when she declined the leave,
+> and she finally approved the entitlement after the third attempt."*
+
+⭐⭐ **The upload timestamp is recorded in the Regulator's own decision** — better corroboration than
+the unverified Item 11 audit trail.
+
+⛔ **But the same passage records his own characterisation: *"Ms Taylor used her authority to
+withhold your payments maliciously."*** ⚠ **That word is in their file, in his mouth.** It is
+precisely the *Briginshaw* and s 32(5)(b) exposure the disciplines exist to prevent — **and it is a
+reminder that the characterisation problem is not hypothetical.**
+
+## 7.10 ⚠ TWO OBTAINABLE DOCUMENTS THIS AUDIT IDENTIFIES
+
+1. ⭐⭐ **WorkCover's full reasons of 13 September 2024.** He supplied only **the first page** at
+   review. **It is the document that shows exactly what the review changed.**
+2. ⭐⭐ **The fatigue risk management policy (February 2021)** and the **fatigue leave policy (June
+   2020)** — both in the Regulator's evidence list.
+
+## 7.11 THE FOUR QUESTIONS SHE NEVER ASKED
+
+1. Whether applying a 2020 casual-era agreement to a 2024 full-time roster was reasonable
+   (**expressly declined**).
+2. Whether the employer's own rostering control was applied (**quoted, never tested**).
+3. Whether any fatigue risk assessment was carried out (**never raised**).
+4. Whether the three factors were joined by **subject matter, time and personality** as *Delaney*
+   requires (**recited, never applied**).
+
+⇒ ⭐⭐⭐ **Every one of those four is now the case. The de novo hearing is not an attack on her
+decision — it is the first time those questions get asked.**
