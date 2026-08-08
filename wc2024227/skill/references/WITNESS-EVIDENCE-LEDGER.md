@@ -451,3 +451,99 @@ remedy is to correct it himself, in writing, before anyone finds it.**
 **⭐ And the same discipline applies to the whole affidavit: audit every paragraph of the Form 20
 against the Amended 9A and the SOFC now.** Anything loose, overstated, or inconsistent is opening
 material for Willson. This is the highest-value document review in the matter after the report.
+
+---
+
+## 11. ⭐⭐⭐ THE CORROBORATION STRUCTURE — his bounded evidence, completed by their document
+
+> **Cory, 8 August 2026: when he states it was unassessed by the manager, and then MSH's own letter
+> records that fatigue management came later — that is corroboration.** Correct, and it is the
+> shape of every strong limb in the matter.
+
+### 11.1 WHY THE PAIRING WORKS — a proved negative
+
+**What he can swear (Tier 2, and bounded):** *I raised fatigue in writing. It was escalated to
+Human Resources. Nobody ever assessed it — not with me, not to my knowledge. Nothing changed.*
+⚠ **He cannot swear that no assessment happened somewhere he could not see.** Same bound as the
+presence limb (§3, B1).
+
+**What MSH's letter supplies (K-LM26/729, 5 June 2026, signed by the Chief Executive):**
+- **Item 5** — fatigue risk management at the Switchboard was implemented *"after 30 June 2024 in
+  connection with an organisational change related to the reporting lines for Switchboard."*
+- **Item 3(c)** — *"no consequential changes to operating procedures over the period requested."*
+- **Items 4 & 7** — the fatigue risk-assessment and register records: MSH's position is that none
+  exist for the Switchboard.
+
+⇒ ⭐⭐⭐ **He covers what he saw. They cover what existed. Together the negative is proved.**
+
+⭐⭐ **Proving a negative is normally the hardest thing in litigation. Here the employer proved it —
+in writing, under its Chief Executive's hand, in a document created for the opposite purpose
+(resisting disclosure), by the only entity with the knowledge.**
+
+### 11.2 ⭐⭐ THE TACTICAL VALUE IS LARGER THAN THE EVIDENTIARY VALUE
+
+**To dislodge it, the Regulator must call a witness from MSH to contradict MSH's own Chief
+Executive.** ⇒ **They will not want to do that.** The corroboration is therefore not just strong —
+**it is expensive to attack.**
+
+### 11.3 ⛔ FOUR LIMITS — none fatal, all worth knowing
+
+1. ⛔ **MSH is not a party, so the letter is NOT an admission and does not bind the Regulator.** It
+   is evidence, not a pleading. ⭐ It does not need to be an admission — a statement by the entity
+   with the knowledge, signed by its CE, for a purpose adverse to him, is strong evidence.
+2. ⛔ **It must be TENDERED.** Form 20 ¶49 says it is *"already before the Commission"* — **true for
+   the r 64G application only.** Guide Part 7: nothing not presented at the hearing is in evidence.
+3. ⚠ **The self-contradiction cuts both ways.** Item 3(c) (*"no consequential changes"*)
+   contradicts Item 5 (a framework implemented after 30 June 2024, which *is* a change). ⭐ Both
+   readings serve him — **either nothing was done, or what was done post-dates the injury** — but
+   ⛔ **pick one framing and hold it: the framework post-dates the injury.** Do not run both at once
+   as though they are consistent.
+4. ⛔ **Quote it exactly; never paraphrase upward.** It says fatigue risk management was implemented
+   **at the Switchboard** after 30 June 2024. It does **not** say there was no fatigue management
+   anywhere in MSH.
+
+### 11.4 ⭐⭐⭐ THEIR EXPLANATION FOR THE ABSENCE *IS* THE ABSENCE
+
+MSH's objection explains the gap: FRMS training *"only applies to health practitioners and clinical
+assistants"*, and the Switchboard is *"non-clinical."*
+
+⭐⭐ **That is not a defence. It is the case.** The complaint was never that they breached the FRMS.
+It is that **a life-safety function — whose patient-safety criticality is ADMITTED at Form 24 ¶8 —
+was run outside any fatigue framework at all.**
+
+⇒ ⭐⭐⭐ ***"It didn't apply to them"* and *"there was no assessment"* are the same fact stated
+twice.**
+
+### 11.5 HOW IT PLAYS AT THE HEARING — and why the discipline pays off
+
+Guide 7.6.1: he gives evidence first, **tendering documents as he goes.**
+
+1. **His evidence:** *I raised it in writing on 8 April. It was escalated to Human Resources on
+   9 April. Nobody assessed it. Nothing changed.*
+2. **He tenders MSH's letter.**
+3. **The letter says the framework arrived after the injury.**
+
+⇒ ⭐⭐ **His evidence and their document meet in the middle, and nobody has to argue.**
+
+⭐⭐⭐ **This is the "state the chronology, never the motive" discipline paying off exactly.** He
+never has to say anyone was careless, hostile or indifferent. **He says what he did and what
+happened; their document says what existed. The inference belongs to the tribunal** — and an
+inference the tribunal draws itself cannot be answered.
+
+### 11.6 ⭐⭐⭐ AND IT IS THE ARCHITECTURE OF EVERY STRONG LIMB
+
+| His bounded evidence | Completed by — authored by the other side |
+|---|---|
+| *Nobody assessed the fatigue* | **MSH Items 4/5/7 and 3(c)** — no framework until after the injury |
+| *I was not consulted* | ⭐ **Reese's 21 May 2024 request** that he identify the directives |
+| *I got a 7-hour break* | ⭐⭐ **Form 24 ¶1 and SOFC ¶22(a)** — admitted |
+| *I asked and was refused* | ⭐⭐ **Review Decision 69983 pp 21–22** — contents admitted at ¶37 |
+| *Nothing was fixed after I complained* | **MSH Item 3(c)** — *"no consequential changes"* |
+| *She decided without checking the roster* | ⭐⭐⭐ **CS-1 — her own 9 May 2024 email** |
+
+⭐⭐⭐ **In every strong limb, his first-hand evidence is completed by a document the other side
+wrote.**
+
+⇒ **That is why "I am the evidence" works. He is not the only evidence. He is the half the
+documents cannot supply — and they supply the half he cannot.** Neither stands alone; together
+neither can be dislodged without calling the author.
