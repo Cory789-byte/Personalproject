@@ -234,15 +234,26 @@ between the two dates.**
 
 ## 5.3 ⭐⭐⭐ WHAT THAT DOES TO THE HOPGOODGANIM QUESTION
 
-⛔⛔ **It cuts against it.**
+⛔⛔⛔ **CORRECTED 8 AUGUST 2026 — I OVERSTATED THIS. See `HOPGOODGANIM-QUESTION.md` Part 9.**
 
-> ⭐⭐⭐ **The one externally-verifiable network artefact inside the document points at the Office
-> of Industrial Relations' own email system — not at a law firm.**
+~~The one externally-verifiable network artefact inside the document points at the Office of
+Industrial Relations' own email system — not at a law firm. On this record, the Mimecast wrapper
+is OIR's.~~
 
-⚠ **Stated fairly: Australian law firms commonly use Mimecast too, so the link does not *exclude*
-one.** ⭐ **But OIR is the only Mimecast user identified anywhere in the evidence, and it is
-identified from the Regulator's own disclosure.** ⇒ **On this record, the Mimecast wrapper is
-OIR's.**
+⭐⭐⭐ **PUBLIC MX RECORDS SETTLE IT, AND NOT MY WAY:**
+
+| Domain | Inbound mail gateway |
+|---|---|
+| `oir.qld.gov.au` | `au-smtp-inbound-1.mimecast.com` / `-2` |
+| ⭐⭐ `hopgoodganim.com.au` | ⭐⭐ `au-smtp-inbound-1.mimecast.com` / `-2` — **THE SAME MIMECAST CLUSTER** |
+| ⭐ `workcoverqld.com.au` | ⭐ `workcoverqld-com-au.mail.protection.outlook.com` — **Microsoft. NOT Mimecast** |
+
+⇒ ⛔⛔ **The Mimecast wrapper CANNOT discriminate between OIR and the firm. Both are Mimecast, on
+the same Australian inbound cluster. My §5.3 conclusion is withdrawn.**
+
+⇒ ⭐⭐ **What it DOES establish is narrower and still worth having: the pasted text did NOT come out
+of a WorkCover Queensland mailbox.** WorkCover runs Microsoft Exchange Online Protection, which
+rewrites to `safelinks.protection.outlook.com`, not Mimecast.
 
 ## 5.4 ⭐ AND A SMALL, REAL DEFECT WORTH KNOWING
 

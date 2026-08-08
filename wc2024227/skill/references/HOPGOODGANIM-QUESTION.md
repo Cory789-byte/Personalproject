@@ -617,3 +617,111 @@ footing — which is precisely why he should keep relying on it and not attack t
 exposure.** ⇒ **If an engagement exists and is above threshold, it is already published.**
 ⚠ **A small drafting engagement may fall below $10,000 and never appear — so a nil result proves
 nothing.** ⛔ **Behind the 12 August report and the Monday Registry email in priority.**
+
+---
+
+# PART 9 — CORY'S PROPOSED SEQUENCE, TESTED AGAINST THE FILE
+> 8 August 2026. ⚠ **His words: *"the review decision made was independent sent back to workcover
+> i beleive checked with their lawyer sent back to the independent review officer then to me."***
+> ⚠⚠ **He said "I believe." Under the cardinal habit this is a LEAD TO VERIFY, not authority.
+> It is tested below, not adopted.**
+
+## 9.1 ⛔⛔ FIRST — A CORRECTION I OWE, AND IT REMOVES MY BEST OIR ARGUMENT
+
+**I said the Mimecast wrapper on page 27 pointed at OIR's own mail system. PUBLIC MX RECORDS SAY
+IT CANNOT:**
+
+| Domain | Inbound mail gateway |
+|---|---|
+| `oir.qld.gov.au` | `au-smtp-inbound-1.mimecast.com` / `-2` |
+| ⭐⭐ `hopgoodganim.com.au` | ⭐⭐ **`au-smtp-inbound-1.mimecast.com` / `-2` — THE SAME CLUSTER** |
+| ⭐ `workcoverqld.com.au` | ⭐ **`workcoverqld-com-au.mail.protection.outlook.com` — Microsoft** |
+
+⇒ ⛔⛔ **WITHDRAWN. The wrapper is equally consistent with either.** ⭐ **What survives is narrow but
+real: the pasted text did NOT come from a WorkCover mailbox.** WorkCover runs Exchange Online
+Protection, which rewrites to `safelinks.protection.outlook.com`.
+
+## 9.2 ⭐ WHERE HIS SEQUENCE FITS THE EVIDENCE — TWO GOOD FITS
+
+| | Evidence | Fit |
+|---|---|---|
+| ⭐⭐ **1** | **`hgDMSDocumentId = 29218845v1` — VERSION ONE** | ⭐⭐ **Good fit.** A firm that received a document, profiled it into the DMS, checked it and returned it **without editing** holds exactly one version. **A drafting engagement would more often show v2, v3…** |
+| ⭐⭐ **2** | **Decision 22 Oct → reasons 24 Oct: a TWO-DAY GAP** | ⭐⭐ **Good fit, and it is the first explanation for that gap.** *Decided on the 22nd → out and back → issued the 24th.* Previously the gap was only noted, never explained |
+
+## 9.3 ⚠⚠ WHERE IT FITS BADLY — TWO PROBLEMS, AND THEY ARE THE SHARPER ONES
+
+**1. ⚠⚠ `hgDMSDate = 09.10.2024` — THIRTEEN DAYS BEFORE THE DECISION.**
+His sequence requires the document to reach the firm **after** she decided on 22 October. **The
+firm's own document record is dated 9 October.** ⇒ **The straightforward reading is that the
+document entered their system while it was being written, not after it was finished.**
+⚠ *Saveable if* the field carries the matter/record date rather than this document's date —
+possible, unverified.
+
+**2. ⚠⚠ `/Author` AND `/Company` BOTH READ "HopgoodGanim Lawyers".**
+In Word, `/Author` is the **creating** user and `/Company` comes from the **authoring machine's**
+Office installation. ⛔ **Merely opening and saving a document does not normally rewrite either.**
+If OIR created the .docx, both should read OIR / Queensland Government.
+⚠ *Saveable if* the firm runs a metadata-scrubbing tool that normalises those fields on save
+(Litera Metadact, Workshare and similar do exactly this, and they are standard in firms) — so it
+is **not airtight**, but the natural reading is **authorship, not handling**.
+
+⇒ ⭐⭐ **NET: the metadata fits "the firm had this document from 9 October, while it was being
+written" BETTER than "it was sent out for a check after it was decided."**
+
+## 9.4 ⭐⭐⭐ BUT HIS VERSION, IF TRUE, IS THE MORE SERIOUS ONE — AND HE SHOULD KNOW WHY
+
+**The two hypotheses have completely different legal characters:**
+
+| | **His sequence** — draft sent to the insurer, checked by the insurer's lawyer, returned | **The alternative** — the firm held it from 9 Oct |
+|---|---|---|
+| **What it is** | ⛔⛔⛔ **A DENIAL OF PROCEDURAL FAIRNESS.** One party given a preview of the draft, and an opportunity to comment, that **the other party never got.** Classic apprehended bias | ⚠ **Depends entirely on who engaged them.** OIR under the whole-of-government panel ⇒ **orthodox and lawful.** WorkCover ⇒ **ASCR r 11 conflict** |
+| **Is it provable?** | ⭐⭐ **In principle YES** — a draft going to WorkCover leaves **correspondence on WorkCover's claim file** and an entry in the **communications report** | ⚠ **Only from the engagement/procurement record** |
+
+⭐⭐ **Note the inversion: the version he believes is the one that would be EASIER to prove, because
+it necessarily involves a second organisation's records.**
+
+## 9.5 ⭐⭐⭐ AND ONE REQUEST ALREADY ON THE MONDAY LIST TESTS IT
+
+**No new request is needed.** The line already drafted for the dismissal-date question does this
+job as well:
+
+> *"WorkCover Queensland's complete claim file and communications report for claim S23LW142013 for
+> the period 13 September 2024 to 31 October 2024, including any decision or determination made in
+> that period."*
+
+⭐⭐ **If a draft review decision went to WorkCover in late October 2024, it is on that file.**
+⭐ **And WorkCover's communications report is already in evidence in its 18 September version — so
+a later version is an ordinary, unremarkable thing to ask for.**
+
+## 9.6 ⭐⭐ A FREE CHECK ALREADY IN HAND, AND IT CUTS BOTH WAYS
+
+**The decision's own evidence list ends at the communications report "as at 18 September 2024".
+Nothing in the 28 pages post-dates it.**
+
+| Reading | |
+|---|---|
+| ⭐ **Nothing came back from WorkCover** | Then there was nothing to list ⇒ **his sequence did not happen, or produced no material** |
+| ⚠ **Something came back and was not listed** | ⇒ **material considered but not disclosed** |
+
+⛔⛔ **Both readings are live and the document cannot choose between them. Do not assert either.**
+⭐ **Also relevant, and neutral: the decision is expressly `cc WorkCover Queensland` at p 28** —
+but that is service of the **issued** decision under s 545, which is required and normal.
+
+## 9.7 ⭐⭐⭐ THE STATE OF THE QUESTION AFTER ALL OF THIS
+
+**Three propositions, with honest confidence:**
+
+| | Confidence |
+|---|---|
+| ✅ **The Word file passed through HopgoodGanim's DMS, profiled to matter 2440758, record dated 09.10.2024, as version 1** | ⭐⭐⭐ **Established** |
+| ⚠ **The firm had it while the decision was being written rather than after** | ⭐⭐ **The better fit, not established** |
+| ⚠⚠ **His specific round trip — OIR → WorkCover → their lawyer → OIR → him** | ⚠ **Possible. Fits the two-day gap and the v1. Fits the 9 October date and the Author/Company fields badly. NOT established** |
+| ⛔ **Who paid** | ⛔⛔ **Unknown, and no amount of further work on this PDF will answer it** |
+
+⛔⛔ **THE FILE IS EXHAUSTED. Every further question is a disclosure question, not a forensic one.**
+
+## 9.8 ⛔ ACTION — UNCHANGED, AND THE PRIORITY IS UNCHANGED
+
+**Nothing here is a ground of appeal (de novo), nothing is published, nothing is alleged.**
+⭐ **The Monday request already covers it.** ⭐⭐ **Wednesday 12 August — the psychiatrist — is
+still what decides this case, and it is four days away.**
