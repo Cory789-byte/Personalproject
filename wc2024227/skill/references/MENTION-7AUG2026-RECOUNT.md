@@ -1321,3 +1321,80 @@ with headers, IT is the single source for: (i) the two office-hours emails' exac
 (the E5 content), and (ii) the MASPER complaint→reply timing (Section N.1).** ⛔ **Upload "the
 report" and I will extract all three verbatim with dates — that closes both the similarity content
 and the response-timing question in one pass.**
+
+---
+
+# N.4 — ⭐⭐⭐ FOUND AND READ THE ACTUAL EMAILS (Regulator's disclosure, FRMS bundle)
+> 8 August 2026. Source: `documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf`
+> — the Regulator's **"Disclosure from witness conferencing – Chloe Taylor."** Text-extractable.
+> These are the raw emails, verbatim.
+
+## N.4.1 CORY'S EMAIL — the one he was directed to retract
+**From: Cory Shepherd — Wed 15 May 2024 1:15 PM — To: Chloe Taylor; Logan Switch — Cc: [entire
+department ~20 incl. Tammy Reese, LBH_HR] — Subject: "Office Hours and Departmental Directives":**
+> *"could you please share your office hours so the entire department can be aware of your regular
+> schedule? There has been some noted **inconsistency in your arrival and departure times**… please
+> ensure that any directives and changes within the department is made **in consultation with the
+> team**."*
+
+⭐⭐⭐ **And the CLINICAL HOOK is INSIDE this email (his 15 May 7:09 PM reply):**
+> *"there have been several instances where **clinicians and staff from other departments have
+> sought updates on pager statuses and other requests, often left unresolved due to ambiguity
+> around when Chloe is available**."*
+
+## N.4.2 THE RETRACTION DIRECTION
+**From: Tammy Reese — Wed 15 May 2024 6:23 PM — Importance: High:**
+> *"could I please ask you to **retract this email**. Steps included below… **'Recall This Message'**…
+> Chloe and I will follow-up with you next week."*
+⇒ ⭐⭐ **13 May PID → 15 May retraction direction. The 48-hour reprisal, in the document.**
+
+## N.4.3 ⭐⭐⭐ THE COMPARATORS — SAME CONDUCT, NOT RETRACTED
+
+| Email | Sender | Date | Content | Retracted? |
+|---|---|---|---|---|
+| ⭐⭐ **"Switchboard Manager - On call and Hours"** | **CHLOE TAYLOR** → whole dept | **Fri 17 May 2024 9:30 AM** | *"My office hours can vary… my hours are from 06:30-14:30. Moving forward… I will be sending an email to switch to advise of any change to my office hours"* | ⛔ **NO** |
+| **On-call roster** | **Ellen Stibbard** → whole team | **Mon 13 May 2024 4:29 PM** | *"During business hours you are to still contact Chloe… **Business Hours: Every Tuesday and second Monday 8:00–16:00**"* | ⛔ **NO** |
+| ⭐ **"Office Hours and Departmental Directives"** | **CORY** → whole dept | **Wed 15 May 2024 1:15 PM** | Requests the manager's office hours be shared | ⛔⛔ **YES — directed to retract** |
+
+## N.4.4 ⭐⭐⭐ THE ANSWER: ARE THEY MATERIALLY SIMILAR? YES — AND IT IS PROVABLE, NOT JUST ADMITTED
+
+> ⭐⭐⭐ **Chloe Taylor sent a department-wide email about her own office hours TWO DAYS AFTER Cory
+> was directed to retract a department-wide email about office hours — and SHE was not retracted.
+> Ellen Stibbard did the same on 13 May and was not retracted.**
+
+⇒ ⭐⭐⭐ **This is STRONGER than the admission. The admission (AR ¶21) says they are "substantively
+similar." The documents PROVE the conduct was NORMAL AND ACCEPTED — the manager and the coordinator
+both did it, unremarked, in the same week. Only Cory's drew a retraction.** ⭐⭐ **Same subject, same
+audience (whole department), same week — opposite treatment.**
+
+## N.4.5 ⚠ A DATE POINT TO VERIFY
+**The affidavit ¶36 / AR ¶21 admission refers to a Chloe email of *9 May 2024* re *another staff
+member's* hours** (the self-note: Chloe directs Pan Jane Wong). ⚠ **The comparator I have READ is
+Chloe's *17 May* email re *her own* hours.** ⇒ ⭐ **There are potentially TWO+ un-retracted
+comparators (9 May, 13 May Ellen, 17 May Chloe). Confirm which one AR ¶21 admits, and keep the
+others as corroboration.** ⛔ **Do not cite "9 May" as the comparator until located — the 17 May
+Chloe email is the one actually in hand.**
+
+## N.4.6 ⛔⛔ DISCIPLINE — AND ONE LIVE HAZARD
+1. ⭐⭐ **Rely on the ADMISSION (AR ¶21) as the pleaded proposition; use the 17 May Chloe email + the
+   13 May Ellen email as documentary CORROBORATION.** The documents show it was normal; the
+   admission concedes similarity. Both, but plead the admission.
+2. ⭐⭐⭐ **The clinical hook (clinicians unable to get pager status due to Chloe's unavailability) is
+   INSIDE Cory's own contemporaneous email** — that is the 1(a) reasonableness-defeater, dated
+   15 May 2024, in his own words, at the time. ⭐ **Strong, and clean of hindsight.**
+3. ⛔⛔ **HAZARD — Cory's 15 May 7:09 PM reply says: *"the information will be forwarded to the
+   ethical unit for investigation."*** ⚠⚠ **That is the PID/ethical-unit linkage IN the email. It
+   ties the office-hours email to the reprisal track. Handle with rule-1/2 care: the reprisal is
+   ADMITTED (retraction), so run the admitted differential-treatment fact — do NOT amplify the
+   "I threatened to report them" framing, which invites the s 32(5)(b) perception argument.**
+4. ⛔ **Keep 1(a) and 1(f) in separate lanes (Section N.3.3). The same email feeds both; do not fuse
+   them into one grievance narrative.**
+
+## N.4.7 ⭐ SOURCE NOTE
+- ⭐⭐ These emails are in the **REGULATOR'S OWN DISCLOSURE** (witness-conferencing bundle) — i.e.
+  **the respondent produced them.** That is the cleanest provenance possible.
+- ⭐ Also present in the same bundle: Reese's **21 May 2024 2:53 PM** follow-up (*"was there one or
+  more particular changes and/or directives where you had concerns"* — fishing), and Cory's full
+  iCARE-values reply.
+- ⛔ **The MASPER complaint→reply email is NOT in this extract range** — still to locate for the
+  Section N.1 timing (check the rest of this FRMS PDF and the Reese/Payroll conferencing bundles).
