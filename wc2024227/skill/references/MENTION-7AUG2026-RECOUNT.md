@@ -1652,3 +1652,53 @@ motive theory — it tests whether her stated basis was verified.
   established document.**
 - ⭐ **Even if he WAS "making a point" about transparency, that is not disrespect** — but he does not
   need that fallback, because the assumption is factually wrong.
+
+---
+
+# N.9 — ⭐⭐⭐ NOT "ALL DEPARTMENT STAFF" — IT WAS HIS OWN TEAM + HR (THE AFFECTED PEOPLE + THE CORRECT CHANNEL)
+> 8 August 2026. Cory: *"it also was not all department, it was only my department and HR."*
+
+## N.9.1 THE ACTUAL RECIPIENTS (verbatim header, Regulator's disclosure)
+> **To:** Chloe Taylor; **Logan Switch**
+> **Cc:** Anisha Ismail; Carolyn Jeffrey; Cherrie Abbott; Deborah Neville; Ellen Stibbard; Jesse
+> Kendrick; Jude Nelson; Kay Marie Court; Linda Hu; Meegan Malsbury; Patricia Conaghan; Peter
+> Fitzpatrick; Richard Parry; Simon De Iacovo; Sonya Willmann; Stacey Sutton-Masson; **Tammy Reese;
+> LBH_HR**
+
+⇒ ⭐⭐⭐ **The audience was: the SWITCHBOARD TEAM (the "Logan Switch" list + its members), the MANAGER
+(Taylor), the DIRECTOR (Reese), and HR (LBH_HR). NOT the wider hospital. NOT other departments.**
+
+## N.9.2 ⭐⭐⭐ WHY THIS DEFEATS "MAKING A POINT / IN THE FIRST INSTANCE"
+1. ⭐⭐⭐ **The recipients were exactly the people AFFECTED** — the switchboard team who are directed
+   to contact Ms Taylor during her (unknown) office hours. **They are the people who NEED the
+   information.** Sending it to them is targeted and appropriate, not performative.
+2. ⭐⭐⭐ **HR (LBH_HR) was included — the CORRECT escalation channel.** ⛔ **A worker "making a point"
+   does not copy HR; a worker raising a genuine concern does.** Including HR is the opposite of a
+   disrespectful broadcast — it is proper process.
+3. ⭐⭐ **It was NOT sent beyond the department.** No other departments, no broadcast. Reese's
+   *"all department staff"* frames it as inappropriately broad; the audience was in fact the team +
+   the management/HR chain.
+
+## N.9.3 ⭐⭐⭐ AND THE KILLER: IT IS THE SAME DISTRIBUTION MANAGEMENT THEMSELVES USED
+| Email | To/Cc audience | Retracted? |
+|---|---|---|
+| **Ellen Stibbard, 13 May** | ⭐ **The same switchboard team list** (Logan Switch + members) | ⛔ No |
+| ⭐⭐⭐ **Chloe Taylor, 17 May** | ⭐⭐⭐ **The same list — Logan Switch + the team + Cory** | ⛔ No |
+| **Cory, 15 May** | **The same team + Reese + HR** | ⛔⛔ **Yes — retracted** |
+
+⇒ ⭐⭐⭐ **The manager and the coordinator sent their own office-hours emails to the SAME team
+distribution Cory used — and were not retracted. The audience therefore cannot be what made Cory's
+email "disrespectful" or "making a point." Same recipients, same subject, opposite treatment.**
+
+## N.9.4 ⛔ DISCIPLINE
+- ⭐⭐ **Run it as documentary fact:** *"the email went to the switchboard team and HR — the affected
+  staff and the appropriate channel — the same distribution management used for their own
+  office-hours emails, which were not retracted."* ⛔ **NOT "Reese lied about the audience to make me
+  look bad"** (rule 1).
+- ⭐ **Including HR is a NEUTRAL, STRONG fact** — it shows he used the proper channel, which rebuts
+  both "disrespect" and "making a point." ⛔ **But do not lean it toward the PID/reprisal narrative;
+  keep it as "correct process," a s 32(5)(a) manner rebuttal.**
+- ⭐⭐ **This is the third documentary refutation of the same retraction:** N.6 (she could have just
+  sent the hours), N.7 (they must prove disrespect and cannot), N.8 (assumed motive, unchecked),
+  N.9 (targeted audience, not a broadcast). **All four are on the face of the documents. Together
+  they make the retraction direction indefensible on the manner limb.**
