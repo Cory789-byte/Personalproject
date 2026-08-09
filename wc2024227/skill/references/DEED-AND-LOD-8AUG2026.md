@@ -804,3 +804,76 @@ combination and it should be taken.**
 
 ⇒ ⭐⭐⭐ **Same information. Same identifiers. Same question. ZERO footprint on the appeal record,
 and no contradiction with the reliance.**
+
+---
+
+# PART 12 — ⭐⭐⭐ PRESERVATION + THE CONFLICT QUESTION. THE CLEANEST VEHICLE THERE IS.
+> 8 August 2026. Cory: *"can I ask for all information of the matter be retained, and if there has
+> been any conflict of interest… been disclosed, and if not to address it now."*
+> ⭐⭐⭐ **YES to both. Draft at `drafts/PRESERVATION_REQUEST_Regulator_DRAFT.txt`.**
+
+## 12.1 ⭐⭐ IT IS ALSO OVERDUE
+
+`CLAUDE.md`, under **"THREE THINGS STILL NOT DONE"**: *"**Send the preservation request** — before
+7 Aug."* ⛔ **Not sent. It is now 8 August.**
+
+## 12.2 ⭐⭐⭐ WHY PRESERVATION IS THE ONE CLEAN VEHICLE
+
+| | |
+|---|---|
+| ⭐⭐ **It asks them to do NOTHING except not destroy** | No production, no answer, no admission |
+| ⭐⭐ **It alleges nothing** | It is defensive and forward-looking |
+| ⭐⭐⭐ **It does NOT require relevance to be established** | ⭐ **Unlike disclosure. This is the key structural advantage** |
+| ⭐⭐ **It puts nothing in issue** | ⇒ **No collision with the reliance contradiction at §9.7** |
+| ⭐⭐ **It is routine** | Preservation letters are ordinary litigation practice and read as such |
+| ⭐⭐⭐ **AND IT LEGITIMISES NAMING THE CATEGORY** | ⭐⭐⭐ **You cannot preserve what you do not describe. Listing "conflict declarations" and "engagement records" is not an accusation — it is the only way to make the request effective** |
+
+⇒ ⭐⭐⭐ **This is the ONE place where naming the conflict and engagement categories is both
+unavoidable and defensible. Use it.**
+
+⭐ **And the list is TEN items long deliberately.** The engagement, conflict and DMS items sit at
+6, 7 and 9, inside a comprehensive list, which is the ordinary form. ⛔ **Do not shorten it.**
+
+## 12.3 ⭐⭐⭐ AND HIS CONFLICT FRAMING IS BETTER THAN MINE
+
+**My §11.4 question was:** *"was a conflict declaration sought and considered."*
+⭐⭐ **His adds a limb: *"and if not, to address it now."***
+
+| | |
+|---|---|
+| ⭐⭐⭐ **It converts a historical inquiry into a LIVE PROCEDURAL REQUEST** | A decision-maker asked to *address* a conflict has to turn their mind to it |
+| ⭐⭐ **It is obligation-shaped** | **If one exists and was not disclosed, "address it now" requires them to DO something.** If none exists, they say so |
+| ⭐⭐ **And it forecloses a later objection** | ⭐ *"I ask now so that it is not raised for the first time at a later stage"* |
+
+## 12.4 ⚠ ONE PRECISION HE NEEDS — "CONFLICT OF WHOM?"
+
+**Three different things, and the wording must cover all three without naming anyone:**
+
+| | Whose conflict | Governed by |
+|---|---|---|
+| **(a)** | ⭐⭐ **The reviewing officer's** — personal or institutional | **Code of Conduct for the Queensland Public Service**, under the Public Sector Ethics Act 1994. ⭐⭐ **A declaration is an ordinary administrative record** |
+| **(b)** | **An external provider's** | **ASCR r 11** |
+| **(c)** | **The agency's procurement conflict** | Panel / procurement obligations |
+
+⇒ ⭐⭐⭐ **The drafted wording — *"whether concerning an officer of the Regulator or any external
+provider"* — covers all three and identifies nobody.**
+⭐⭐ **Limb (a) is the cleanest and had not been raised before: public servants declare conflicts as
+a matter of routine, and asking whether one was declared is unremarkable.**
+
+## 12.5 ⛔⛔ THE THINGS THAT MUST NOT GO IN IT
+
+1. ⛔⛔⛔ **NO CRIMINAL OR PENALTY PROVISIONS.** No Criminal Code, no offences, no consequences of
+   non-compliance. ⭐⭐ **A preservation request carries its weight from being ROUTINE.** The moment
+   it reads as a threat it becomes the Part 10 problem. ⭐ **The Public Records Act 2023 (Qld)
+   obligation — disposal only under an approved disposal authorisation, unlawful disposal being an
+   offence — applies whether or not it is mentioned. LEAVE IT UNMENTIONED.**
+2. ⛔ **NO FIRM NAMED.** Categories and identifiers only.
+3. ⛔ **IT IS CORRESPONDENCE.** Not a disclosure request, not an application. **Do not file it, do
+   not attach it to anything.**
+4. ⭐ **To Matheson only. Copy nobody.**
+
+## 12.6 ⭐ AND THE SECOND LETTER STILL OWED
+
+⭐⭐ **A separate preservation letter for the EMPLOYMENT TRACK** — to Metro South, covering the 2026
+exclusion, the RFMI, the attendance file and the cessation/reinstatement records. ⭐ **Different
+recipient, different letter, same day is fine.** ⛔ **Also overdue.**
