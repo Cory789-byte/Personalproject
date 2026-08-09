@@ -777,3 +777,83 @@ did not (the union inference). That is a free evidence-planning session from the
    motive** (rules 1–2).
 4. ⚠ **The union limb is corroboration. Do not let it become a spine the respondent can knock over
    to imply the rest is as thin.**
+
+---
+
+# K — THE OTHER READING OF THE PATIENT-SAFETY MOVE-ON
+> 8 August 2026. Cory: *"i think he just wanted to stop me from explaining on the record about the
+> patient safety aspects."*
+> ⛔ **Section J gave only the benign reading. That was incomplete. Both readings are live; here is
+> the honest weighing — and why the ACTION is the same either way.**
+
+## K1 ⚠ HIS READING IS PLAUSIBLE AND MUST NOT BE DISMISSED
+
+**A member CAN steer a self-represented litigant away from a topic for reasons that are not the
+litigant's benefit.** ⭐ Cory was in the room; I was not. His instinct that the move-on was to keep
+patient-safety OFF the record is a reasonable reading of a real event, and it is now recorded as
+such.
+
+**What would make his reading correct:**
+- ⭐⭐ **Patient safety in a public hospital is institutionally radioactive.** A switchboard operator
+  saying on the record that management directives *"put patients at risk"* is a statement no
+  Queensland Health entity wants transcribed — it reaches past this appeal into clinical governance,
+  the HHS's risk register, potentially the media and the CCC.
+- ⭐ **A member managing the institution's exposure — consciously or by trained reflex — moves
+  past it.** ⚠ **That is not necessarily improper; it can be case-management instinct. But its
+  EFFECT is the same: the patient-safety allegation does not go on the transcript.**
+
+## K2 ⚖️ THE TWO READINGS, SIDE BY SIDE — AND WHY IT CANNOT BE RESOLVED FROM MEMORY
+
+| | **Reading A (Section J): protective of Cory** | **Reading B (Cory's): protective of the institution** |
+|---|---|---|
+| Why he moved on | The point was not crisp; not the disclosure task; belongs at hearing | To keep a patient-safety allegation off the record |
+| What it implies about the bench | Helping an SRL stay on the strong ground | Managing QH's exposure |
+| Evidence for it | The point WAS mid-explanation and un-crisp | Patient safety is uniquely sensitive; he stopped THAT, specifically |
+
+⛔⛔ **NO TRANSCRIPT. The tone, the exact words, whether he cut in or let it trail — that is what
+separates A from B, and it is precisely what memory cannot hold reliably.** ⭐⭐⭐ **The audio is now
+the single most important thing to obtain for this beat.** Until then, ⚠ **hold BOTH readings; assert
+neither.**
+
+## K3 ⭐⭐⭐ WHY THE ACTION IS IDENTICAL UNDER EITHER READING
+
+**This is the point that matters, and it does not depend on which reading is true:**
+
+> ⭐⭐⭐ **If patient safety is important to the case, it cannot live in an extempore explanation from
+> the bar table that a member can move past. It must go in as a DOCUMENT and as PLEADED, WRITTEN
+> EVIDENCE — where no one can move him on.**
+
+| | |
+|---|---|
+| ⛔ **The vulnerability both readings share** | **Spoken, mid-flow, it is at the mercy of the room.** Whether moved on to protect him or to protect QH, **the spoken version did not survive the mention** |
+| ⭐⭐⭐ **The fix** | **Put it where it cannot be interrupted:** (i) the pleaded **Stressor 1(a)** clinical-governance particular, in writing; (ii) the **30 August 2024 email** — subject *"Failure to consult putting patients at risk"* — as a tendered exhibit; (iii) evidence-in-chief drawn from the document, not from free narration |
+| ⭐⭐ **And the Review-Decision hook makes it unavoidable** | `RD69983-SYNTHESIS.md` defect D: the decision **deleted** the words *"patients at risk"* and recorded only *"failed to consult."* ⭐⭐⭐ **That is a written, provable omission. It puts patient safety on the record as a DOCUMENTARY discrepancy — which no one can move past, because it is Exhibit-anchored, not narrated** |
+
+⇒ ⭐⭐⭐ **Reading B, if true, is not a defeat — it is INFORMATION. It tells Cory the one channel that
+does not work (talking about it) and forces him to the channel that cannot be shut (documenting it).
+Reading A leads to the same place. So the disagreement about motive does not change a single next
+step.**
+
+## K4 ⛔⛔ THE DISCIPLINE — AND IT IS SHARPER NOW
+
+1. ⛔⛔⛔ **This SUSPICION IS HELD, NEVER VOICED.** ⭐ A self-represented appellant who suggests the
+   Commissioner suppressed his evidence has attacked the tribunal that will decide (or influence)
+   his matter. ⛔⛔ **That is the single most self-destructive thing available. It NEVER enters a
+   filing, a letter, the hearing, or a word to Matheson or MSH.**
+2. ⭐⭐ **The remedy for "he moved me on" is NOT to complain — it is to make the point
+   UN-MOVE-ON-ABLE by documenting it.** Channel the suspicion into exhibit discipline, not
+   grievance.
+3. ⛔ **Patient safety stays a s 32(5)(a) MANNER point** — *unassessed directives, failure to
+   consult, bottlenecked emergency workflows.* ⛔⛔ **NOT a cover-up, NOT a reprisal, NOT "they
+   silenced me."** Rules 1–2. **The moment it becomes an accusation of suppression it stops being
+   evidence of his injury and starts being a theory about his enemies.**
+4. ⭐ **Get the audio.** It resolves A vs B, and it protects him: if he was moved on, the transcript
+   shows the point was RAISED — which preserves it even though it was not developed.
+
+## K5 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **Maybe he was helping and maybe he was managing the institution's exposure — the audio will
+> tell, and until then hold both. But it does not matter to what Cory does: a point that a member
+> can move past from the bar table has to be put where it cannot be moved past — pleaded, and tendered
+> as the 30 August email against the Review Decision's deletion of "patients at risk." Document it;
+> never allege it was suppressed.**
