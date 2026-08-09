@@ -1545,3 +1545,53 @@ given* is the unreasonableness, and both are documented.
   1(a) manner + the admitted 1(f) differential treatment, kept separate.**
 - ⭐ **This also rebuts any "he was demanding/excessive" characterisation:** the requested thing was
   so ordinary the manager volunteered it 48 hours later.
+
+---
+
+# N.7 — ⭐⭐⭐ THEY CLASSIFIED HIS MOTIVE TO JUSTIFY THE RETRACTION — CAN THEY PROVE IT? NO, AND THE ONUS IS THEIRS.
+> 8 August 2026. Cory: *"they classified my motive, so they said retract — and can they prove it?"*
+
+## N.7.1 WHAT THEY ASSERTED
+**Reese's 15 May email gave the STATED REASON for directing the retraction:**
+> *"this did not demonstrate our iCARE2 value of **Respect** and did not comply with our **Code of
+> conduct** 'showing respect towards all persons…'"*
+
+⇒ **They characterised his conduct/motive as DISRESPECTFUL, and used that characterisation to direct
+an adverse action (retract).**
+
+## N.7.2 ⭐⭐⭐ WHO HAS TO PROVE IT — THE ONUS IS ON THE RESPONDENT
+⭐⭐⭐ **On a s 32(5)(a) defence the RESPONDENT bears the onus (*Prizeman v Q-COMP* [2005] QIC 53):
+they must prove the management action was reasonable AND taken in a reasonable way.** ⇒ ⭐⭐ **If they
+rely on "his email was disrespectful, so directing retraction was reasonable," THEY must establish
+the email was actually disrespectful. Cory proves nothing here. It is their burden.**
+
+## N.7.3 ⭐⭐⭐ CAN THEY DISCHARGE IT? NO — THE DOCUMENTS DEFEAT THE CHARACTERISATION
+**Reasonableness is judged OBJECTIVELY; the decision-maker's label is not determinative — the
+tribunal reads the actual email and decides for itself.**
+
+| Their assertion | The document says |
+|---|---|
+| The email was **disrespectful** | ⭐⭐⭐ **The email (in the Regulator's own disclosure) is measured, values-based, no abuse, no personal attack** — it requests office hours and consultation, expressly *"not… borne out of malintent"* |
+| The **disrespect** was emailing the team about hours | ⭐⭐⭐ **The manager did the SAME on 17 May and Ellen on 13 May — neither disrespectful, neither retracted.** The act cannot be disrespectful when the manager did it herself |
+| Breach of **"showing respect towards all persons"** | ⭐⭐ **No standard is identified that a polite request for office hours breaches.** The Code point is asserted, not substantiated |
+
+⇒ ⭐⭐⭐ **They cannot prove the stated reason. The email is objectively reasonable on its face, and
+the manager's own materially-similar email days later refutes any suggestion the CONDUCT was
+disrespectful.**
+
+## N.7.4 ⭐⭐ THE CONSEQUENCE — THE LIMB FAILS ON THEIR OWN ONUS
+> ⭐⭐⭐ **They classified his motive to justify the retraction. Motive/characterisation is theirs to
+> prove; the objective document and the manager's own comparable email disprove it. So the
+> "reasonable management action" defence on this limb is not made out — and the retraction direction
+> stands revealed as management action taken in an UNREASONABLE way.**
+
+## N.7.5 ⛔ DISCIPLINE
+- ⭐⭐ **Run it as ONUS + DOCUMENT:** *"the respondent bears the onus; the stated reason (disrespect)
+  is not established on the face of the email and is contradicted by the manager's own comparable
+  email."* ⛔ **NOT "they lied about my motive to persecute me"** (rule 1 / s 32(5)(b)).
+- ⭐ **Let the tribunal read the email itself** — the document is the strongest advocate. ⛔ Do not
+  argue the Commission INTO "it wasn't disrespectful"; hand them the email and the 17 May comparator
+  and let them conclude it.
+- ⭐⭐ **This is the mirror of N.6:** the reasonable response (share the hours) was available; instead
+  they mischaracterised the request and directed a retraction. Same manner-unreasonableness, from
+  the other side.
