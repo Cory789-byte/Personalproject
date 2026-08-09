@@ -947,3 +947,90 @@ Report B and a Calderbank raises their cost of not settling — properly, with n
 3. ⭐ **"Not press", never "withdraw."** Narrowing, not abandonment.
 4. ⭐ **Do** state the witnesses are listed and outlines will follow — **turns a possible default
    into compliance in the same breath.**
+
+---
+
+# PART 14 — ⭐⭐⭐ "LETTING THEM KNOW I KNOW, WITHOUT TELLING THEM STRAIGHT"
+> 8 August 2026. ⛔⛔ **A CORRECTION IS OWED FIRST.**
+
+## 14.1 ⛔⛔ I OPTIMISED FOR THE WRONG THING
+
+**At Part 13 I cut items 6, 7 and 9 from the preservation letter because they "signal the line of
+inquiry."**
+
+⭐⭐⭐ **But signalling the line of inquiry is EXACTLY WHAT HE WANTS. I optimised for CONCEALMENT
+while he was optimising for SIGNAL. Those are opposite goals, and I did not ask which one he was
+pursuing.**
+
+⇒ ⭐⭐ **The cut was not wrong, but it was made for the wrong reason. It is a CHOICE, not a
+correction — and the choice is his.**
+
+## 14.2 ⭐⭐ AND HIS DISTINCTION IS SOUND
+
+| ⛔ **THREAT** | ⭐⭐ **SIGNAL** |
+|---|---|
+| *"Settle or this comes out"* | *"I have looked at this and I have questions"* |
+| **Attaches a CONSEQUENCE** | **Conveys CAPABILITY** |
+| ⛔ Criminal Code (Qld) s 415 territory | ⭐⭐⭐ **Entirely proper — it is what every competent litigator does** |
+
+⭐⭐⭐ **You demonstrate that you have done the work. You never say what you will do with it.**
+**That distinction is real and he has stated it correctly.**
+
+## 14.3 ⭐⭐⭐ BUT THE SIGNAL DOES NOT NEED THE IDENTIFIERS — THE QUESTION IS THE SIGNAL
+
+> ⭐⭐⭐ **NOBODY ASKS THESE TWO QUESTIONS BY ACCIDENT:**
+> *"whether any external legal service provider was engaged in connection with review 69983, and
+> under which panel or procurement arrangement"*
+> *"whether a conflict declaration was sought and considered"*
+
+⭐⭐ **A worker who has found nothing asks *"why was my claim rejected."*** ⭐⭐⭐ **A worker who asks
+about PANEL AND PROCUREMENT ARRANGEMENTS and CONFLICT DECLARATIONS has obviously found something.
+The specificity IS the signal.**
+
+⇒ ⭐⭐⭐ **THE DECISIVE DISTINCTION:**
+
+| | |
+|---|---|
+| ⭐⭐ **The QUESTIONS signal CAPABILITY** | *"I know where to look and I have looked"* — **unanswerable, and safe** |
+| ⛔ **The IDENTIFIERS signal a THEORY** | *"I have the document forensics"* — **which invites *"what exactly are you alleging"*, and he cannot answer that** |
+
+⭐⭐⭐ **He wants the first. The identifiers buy proof-of-work and cost him the one thing he cannot
+afford to be asked.**
+
+## 14.4 ⭐⭐⭐ AND THE BEST VEHICLE IS ONE HE HAS NOT USED — CALDERBANK #3
+
+⭐⭐ **A Calderbank offer is EXPECTED to state why the offeror rates their prospects. It is written
+FOR the purpose of making the other side price risk. It is read by their lawyers. And it is
+WITHOUT PREJUDICE SAVE AS TO COSTS** — ⭐⭐⭐ **so it does not go before Commissioner Dwyer at the
+hearing, but it DOES go before him on costs if they lose.**
+
+> ⭐⭐⭐ **THAT IS THE PERFECT INSTRUMENT AND IT HAS BEEN SITTING THERE ALL SESSION.**
+
+**Draft clause for Calderbank #3 — the whole signal, in one sentence:**
+
+> *"The appellant notes that the review decision cites no authority later than 2009 and does not
+> address* Mahaffey v Workers' Compensation Regulator *[2016] ICQ 10; that its finding of reasonable
+> management action on factor 2 rests in part on conduct post-dating the injury; and that questions
+> remain, on which the appellant has sought information, as to the preparation of the reasons."*
+
+| Why it works | |
+|---|---|
+| ⭐⭐⭐ **"questions remain, on which the appellant has sought information"** | **Tells them he has ASKED. Does not say what he found. Attaches no consequence** |
+| ⭐⭐ **It sits among substantive merits points** | So it reads as one reason among several, not as the point |
+| ⭐⭐⭐ **Without prejudice save as to costs** | **Not before Dwyer at hearing. Before him on costs** |
+| ⭐⭐ **It is the document's proper function** | Nobody can characterise it as pressure — **making them price risk is what a Calderbank IS** |
+
+## 14.5 ⭐ SO THE ANSWER TO HIS QUESTION
+
+⭐⭐⭐ **YES — signal. His instinct is right and the mechanism is legitimate.**
+⭐⭐⭐ **But signal through the SPECIFICITY OF THE QUESTIONS and ONE CLAUSE IN CALDERBANK #3 — not
+through DMS identifiers in a preservation letter.**
+
+⭐⭐ **Same message. Same recipient. Same effect. None of the exposure.**
+
+## 14.6 ⚠ AND THE HONEST CEILING
+
+⛔ **Perfect signalling only moves anything IF THERE IS SOMETHING THERE.** ⭐ **If the Regulator
+engaged the firm lawfully under the whole-of-government panel, the signal produces a shrug and a
+one-line answer.** ⚠ **He should expect that outcome and it is a good one — the question closed, the
+reliance intact.**
