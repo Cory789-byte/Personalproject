@@ -584,3 +584,53 @@ that the delegate carefully considered something — **provenance could become r
 could be waived.**
 ⛔ **They will not need to. The hearing is de novo, so their case is built on evidence, not on her
 reasons.** ⭐ **Watch for it. Do not provoke it.**
+
+## 9.7 ⭐⭐⭐ "IT IS THE ENTIRE REASON THE APPEAL EXISTS" — CONCEDED, AND HERE IS WHAT DECIDES IT
+
+⭐⭐ **He is right and Part 9.1 under-stated it.** **s 549(1)** gives an appeal *"against the decision
+of the Regulator"*. ⭐⭐⭐ **The review decision is not merely relevant — it is the SUBJECT MATTER.
+Remove it and there is no appeal.** (Which is exactly why judicial review would destroy the case —
+Part 2.3 of `LEGAL-CONSEQUENCES`.)
+
+### ⭐⭐⭐ THE PRECISION THAT MATTERS — "DECISION" MEANS THE OUTCOME, NOT THE REASONS
+
+| | |
+|---|---|
+| **s 545(1)** | ⭐ **The "review decision" is the decision to CONFIRM, vary, set aside, or return.** Here: *"I have **confirmed** the decision of WorkCover to reject your application."* **That sentence is the decision** |
+| **The 28 pages** | ⭐ **Are the REASONS FOR it. They are not the decision** |
+| **s 558(1)** | ⭐⭐⭐ The Commission may confirm / vary / **set aside and substitute** / return. ⇒ **It operates on the DECISION and replaces it with its own** |
+
+⇒ ⭐⭐⭐ **The appeal is against the CONFIRMATION OF THE REJECTION. It is not an appeal against the
+reasoning, and the Commission never rules on whether the reasoning was sound. It decides s 32
+afresh.**
+
+### ⭐⭐ AND THE DOCUMENT IS IMPORTANT — THROUGH ITS CONTENT
+
+⭐⭐⭐ **It is the most valuable document he owns**, and Part 9.1 should have said so: injury
+established · **employment a significant contributing factor** · *"work events were the sole
+cause"* · *"no pre-existing factor or condition"* · **factor 4 unreasonable management action** —
+all **admitted as to contents at Form 24 ¶37**.
+
+⇒ ⭐⭐ **Its importance runs entirely through WHAT IT SAYS. Not through which workstation produced
+the file.**
+
+### ⛔⛔⛔ AND THE ARGUMENT THAT ACTUALLY DECIDES IT — HIS OWN RELIANCE IS THE OBSTACLE
+
+> ⭐⭐⭐ **He is asking the Commission to give WEIGHT to the delegate's findings.**
+> ⛔⛔⛔ **The moment he suggests the decision was externally produced, the Regulator's answer writes
+> itself: *"the appellant cannot invite the Commission to rely on findings made by a process he
+> says was compromised."***
+
+⇒ ⭐⭐⭐ **The two positions cannot stand together. Not because of a discipline rule — because they
+contradict each other.** ⭐⭐ **Whichever he advances, he forfeits the other.**
+
+### ⭐⭐ SO PRICE IT, AND MAKE THE CHOICE DELIBERATELY
+
+| | **Rely on the findings** | **Attack the provenance** |
+|---|---|---|
+| **At the hearing** | ⭐⭐⭐ **Admitted contents. Answers the Regulator's own SOFC ¶22(f) denial of causation with their own delegate's finding** | ⛔⛔ **Nothing. De novo — the Commission is not reviewing the reasons** |
+| **At settlement** | ⭐⭐⭐ **"Your own delegate found employment was a significant contributing factor and found unreasonable management action"** | ⚠ **Unknown, and unquantifiable** |
+| **Cost** | ⭐ **None** | ⛔⛔ **Forfeits the reliance; defamation exposure; puts an unproveable theory before Dwyer** |
+
+⇒ ⭐⭐⭐ **It is not close. But it IS his call, and it should be made knowing the trade — not by
+default.**
