@@ -4298,3 +4298,12 @@ Build scripts: `drafts/build_letter_of_instruction.py` (reportlab, house style) 
 ⛔ Open before the letter goes: (a) reconcile the deed-20-Sep vs Form-20-¶43-8-Oct cessation date;
 (b) confirm the 3 July 2026 ECC author is Dr Ma; (c) the signed statement (Enclosure A) must carry
 every load-bearing timing/load fact so nothing rests on the doctor's memory.
+
+## 9 August 2026 (later) — Krishnaiah suitability answer + Griffin memoir
+- Answered whether Krishnaiah can write Report B given A4 (assessment in chat; grounded in
+  A4-RED-TEAM.md read in full): yes with managed risks — his file is the asset (observed signs,
+  contemporaneous mechanism, treatment escalation), A4's flaws are flaws of purpose/haste fixable
+  by instruction; watchpoints are report craft, the footer confirmation, and cross-examination
+  willingness. Fallback (fresh IME) is weaker on causation-at-June-2024.
+- `drafts/GRIFFIN_MEMOIR_7AUG_INTERNAL.txt` — ⛔ internal perspective exercise (Matheson's-chair
+  genre), exterior facts sourced to CONNECTION-MAP-5AUG.md, interior voice invented. Never serve.
