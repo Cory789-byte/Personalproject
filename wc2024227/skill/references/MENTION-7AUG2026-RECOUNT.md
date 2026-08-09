@@ -1595,3 +1595,60 @@ disrespectful.**
 - ⭐⭐ **This is the mirror of N.6:** the reasonable response (share the hours) was available; instead
   they mischaracterised the request and directed a retraction. Same manner-unreasonableness, from
   the other side.
+
+---
+
+# N.8 — ⭐⭐⭐ THE DIRECTOR ASSUMED HIS MOTIVE ("MAKING A POINT / IN THE FIRST INSTANCE") — AND ACTED ON IT WITHOUT CHECKING
+> 8 August 2026. Cory: *"the director saying I was trying to make a point — but that is an
+> assumption. I tried to call her."*
+
+## N.8.1 WHAT REESE ACTUALLY WROTE (verbatim, from the Regulator's disclosure)
+> *"There is a correct way to give feedback and to offer suggestions such as these and that would be
+> by communicating with your manager and/or myself… **but not by sending such an email to all
+> department staff in the first instance** as well. Thus, could I please ask you to retract this
+> email."*
+
+⇒ ⭐⭐⭐ **The retraction direction rests on an ASSUMPTION: that Cory went to the whole team "IN THE
+FIRST INSTANCE" — i.e. that this was a performative act to "make a point," rather than a last resort
+after trying to reach the manager directly.**
+
+## N.8.2 ⭐⭐⭐ THE ASSUMPTION IS UNVERIFIED, AND CONTRADICTED BY THE RECORD
+| Reese assumed | The record shows |
+|---|---|
+| He emailed the team **"in the first instance"** to make a point | ⭐⭐⭐ **He had already tried to contact Ms Taylor** — his own email: *"in response to multiple emails sent out to contact Chloe during business hours"*; *"no one in the department can provide a definitive answer in response to directives to contact Chloe during office hours"* |
+| It was **performative** ("making a point") | ⭐⭐ **It followed a documented failure of direct contact** — the team-email was the last step, not the first. ⚠ **And Cory's evidence: he tried to CALL her** |
+
+⇒ ⭐⭐⭐ **"Trying to make a point" is an inference about MOTIVE. On a s 32(5)(a) defence the
+respondent must PROVE the action was reasonable — including any factual assumption it rests on
+(*Prizeman* onus). The assumption is not only unproven, it is contradicted by his documented prior
+attempts to reach the manager.**
+
+## N.8.3 ⭐⭐⭐ THE DEEPER MANNER-UNREASONABLENESS: SHE ACTED ON THE ASSUMPTION WITHOUT CHECKING
+> ⭐⭐⭐ **Reese directed an adverse action (retract) founded on an assumption about his motive that
+> she never verified. She did not ask him whether he had tried to reach Ms Taylor directly before
+> emailing the team. She assumed "first instance," and acted on it.**
+
+⭐⭐ **Acting adversely on an unverified assumption about a worker's motive is management action taken
+in an UNREASONABLE way** — the *manner* the s 32(5)(a) test is directed at. ⭐ *Bowers* tolerates
+blemishes, but this is not a blemish — **it is the entire factual basis of the direction, and it was
+assumed, not established.**
+
+## N.8.4 ⭐⭐ THE CROSS-EXAMINATION IT SETS UP (Reese)
+> *"You wrote that he sent the email 'in the first instance.' Before you directed him to retract it,
+> did you ask him whether he had tried to contact Ms Taylor directly? … His email refers to multiple
+> attempts to reach her — were you aware of those? … So the basis for your direction — that this was
+> a first-instance email to make a point — was an assumption you did not check with him?"*
+
+⭐⭐ **Reese is on the witness list target for the retraction; this is the line.** ⭐ It needs no
+motive theory — it tests whether her stated basis was verified.
+
+## N.8.5 ⛔ DISCIPLINE
+- ⭐⭐ **Run it as: an ADVERSE DIRECTION FOUNDED ON AN UNVERIFIED, CONTRADICTED ASSUMPTION.** Onus on
+  them (*Prizeman*); the assumption fails on his own documented contact attempts. ⛔ **NOT "she
+  deliberately mischaracterised me to punish me"** (rule 1 / s 32(5)(b)).
+- ⚠ **"I tried to CALL her" is Cory's EVIDENCE** — it is his testimony. ⭐ **The documented part is
+  the "multiple emails" to contact Chloe (in his own 15 May email).** ⛔ **Confirm whether any call
+  attempt is recorded (phone log / Teams). If only testimony, present it as his evidence, not as an
+  established document.**
+- ⭐ **Even if he WAS "making a point" about transparency, that is not disrespect** — but he does not
+  need that fallback, because the assumption is factually wrong.
