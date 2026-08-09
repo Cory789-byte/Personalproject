@@ -262,3 +262,72 @@ one filing.**
 
 ⭐⭐ **And the standing proportion: none of this is a ground of appeal, and Wednesday's report is what
 decides the case.**
+
+---
+
+# PART 9 — ⛔⛔ THE `hendry8286` FIELD: WHAT IT RECORDS, AND WHY THE NAME IS THE WRONG TARGET
+> 8 August 2026. Cory asked for research identifying the individual behind the DMS username.
+> ⛔ **Not done — reasons at §9.3.** ⭐⭐ **But the technical question was researched, and the answer
+> substantially deflates the line.**
+
+## 9.1 ⭐⭐⭐ THE FIELD IS ALMOST CERTAINLY NOT "WHO WROTE IT"
+
+**In the legal document management platforms used by Australian firms (iManage, NetDocuments), the
+profile "Author" field and the "who actually made this file" field are two DIFFERENT fields.**
+
+| Field | What it records |
+|---|---|
+| ⭐⭐ **Author** (the profile field) | ⭐⭐⭐ **NOT necessarily the person who created or typed the document.** Vendor guidance is explicit: it is commonly set to *"who's signature is at the bottom of the letter, or which attorney is ultimately responsible for the language contained in the document."* ⚠ **In iManage it is EDITABLE** — "the author can be changed by a document's operator or another user who has full access" |
+| **Created By / Operator** | ⭐ **The account that actually created or imported the document.** In iManage this cannot be changed once set |
+
+⇒ ⭐⭐⭐ **`hgDMSAuthorName = hendry8286` records the user the PROFILE DESIGNATES as author. In a
+firm DMS that is typically the responsible fee-earner, it is routinely entered by support staff, and
+it can be changed by anyone with full access.**
+
+## 9.2 ⭐⭐ AND THE FIELD THAT WOULD ACTUALLY ANSWER IT IS NOT IN THE FILE
+
+⛔⛔ **The `Created By` / `Operator` value — the one field that records who physically created or
+imported the document — WAS NOT EXPORTED into the PDF.** Only the profile fields were.
+
+⇒ ⭐⭐⭐ **The document does not contain the information that would identify who made it. It contains
+a profile designation, and a profile designation is an administrative label.**
+
+⚠ **Note also:** `/SourceModified` is **empty**, so even the source file's last-save time is absent.
+
+## 9.3 ⛔⛔ WHY THE INDIVIDUAL IS NOT RESEARCHED
+
+**Three reasons, in order of force.**
+
+1. ⭐⭐⭐ **The inference the name would carry is not supported by the field.** §9.1. Attaching a
+   named human being to *"this person wrote the review decision"* would be building on a field that
+   does not say that. ⛔ **It would be the same error as the withdrawn Mimecast attribution, but
+   about a person.**
+2. ⛔⛔⛔ **It converts an institutional question into a personal allegation.** Everything that makes
+   this line survivable — the neutral questions, the reasoned review, *ask never allege* — turns on
+   it being about **a process and an institution**. ⭐⭐ **A named private individual, connected in
+   writing to a suggestion of impropriety, is defamation of that individual**, who has none of a
+   firm's or an agency's capacity to absorb it, and there is **no truth defence available.**
+3. ⭐⭐ **It answers none of the open questions.** Who engaged the firm; under what arrangement;
+   whether a conflict declaration was sought; who paid; who decided. ⛔ **A name moves none of
+   them.**
+
+## 9.4 ⭐ WHAT IS LEGITIMATELY ASKABLE INSTEAD
+
+⭐⭐ **The useful question is not *who is this person* but *what was the engagement*.** Both neutral
+questions already cover it, and neither names anyone:
+
+> §7.8 — *"whether any external legal service provider was engaged in connection with review
+> 69983, and if so by which entity and under which panel or procurement arrangement."*
+> §11.4 — *"whether a conflict declaration was sought and considered."*
+
+⭐⭐⭐ **If the answer to the first is yes, the engagement record will identify the responsible
+practitioner as a matter of course — properly, from the agency, on the record, and without him
+having gone looking.** ⭐ **That is the only route by which a name should ever enter this file.**
+
+## 9.5 ⚠ ONE UNVERIFIED OBSERVATION, RECORDED AND NOT RELIED ON
+
+The `_Original` placeholders carry an **`mc`** prefix — `<mcDMSMatter>`, `<mcDMSDate>` and so on.
+⚠ **That prefix is consistent with a third-party legal document-automation add-in rather than the
+DMS itself** (the legal document-technology vendor Microsystems, later merged into Litera, used an
+`mc` convention). ⛔⛔ **UNVERIFIED. Do not state it.** ⭐ If correct it would further support the
+template-and-merge-field reading at `HOPGOODGANIM-QUESTION.md` §12.3.
