@@ -60,3 +60,50 @@
 (the actual MASPER chain) and, if obtainable, an **IIMS/RiskMan/switchboard record** of the 2-hour
 pathology delay (Section L/M). ⛔ **Do not tender this 18 May summary whole — the "defrauds" line
 travels with it.**
+
+---
+
+## ⛔ CORRECTION — "STRIP" WAS WRONG. THE LINE IS IN THE DOCUMENT AND STAYS THERE.
+> Cory: *"I cannot strip the defraud the department, it is in regardless."* **Correct. The word is
+> in a document that is in the record. It cannot be removed. My "exclude/strip" framing is
+> withdrawn.**
+
+### THE DISTINCTION THAT ACTUALLY GOVERNS: IN EVIDENCE ≠ ADOPTED
+⭐⭐⭐ **A document being in evidence is NOT the same as the appellant RELYING ON a statement in it.**
+He does not have to delete the word. He has to **not adopt it, not repeat it, and not build the
+injury on it.** The document can sit in the record with the "defrauds" line in it, and Cory can
+simply **never rely on that sentence** — that is the whole discipline, and it is achievable.
+
+### THIS IS THE SAME SHAPE AS CLAUDE.md RULE 10
+⭐⭐ **The standing protocol for things already said and unable to be unsaid applies exactly:**
+> *"Historical mentions in the corpus cannot be unsaid — the rule governs everything forward. If
+> the other side raises it, respond minimally, adopt nothing, and take instructions."*
+
+### IF THE RESPONDENT RAISES THE "DEFRAUDS" LINE — THE HANDLING
+1. ⭐⭐ **Respond minimally. Adopt nothing.** Do not defend the word; do not expand on it.
+2. ⭐⭐⭐ **Characterise it truthfully and narrowly:** it was a **lay expression of frustration** about
+   his belief, at the time, that the manager was **being paid for full-time hours she was not
+   working** — ⛔ **NOT an allegation of the criminal offence of fraud.** *"I used the word loosely;
+   I press no allegation of fraud."*
+3. ⭐⭐⭐ **Redirect immediately to the documented conduct** — the 2-hour pathology delay, the
+   unavailability, the non-consultation. **The concern was real; the word was imprecise.**
+4. ⭐⭐ **The same email defuses itself:** it says *"I have not done this with malintent"* and frames
+   it as *"valid concerns… from a good place"* that were *"misunderstood."* ⭐ **Point to his own
+   contemporaneous disclaimer — it is in the same document.**
+5. ⭐ **It is a PRIVATE SELF-NOTE** (addressed to himself), not an accusation sent to the manager or
+   published. That context limits it to a working note of his own thinking.
+
+### ⛔⛔ THE REAL RISK IS NOT THE DOCUMENT — IT IS THE INJURY NARRATIVE
+⭐⭐⭐ **The word being in evidence does NOT open s 32(5)(b) by itself.** What WOULD open it is Cory
+arguing his **injury flowed from his perception** that they were dishonest. ⇒ ⛔ **Keep the injury
+tied to the CONDUCT (unavailability, clinical-contact failure, non-consultation, the admitted
+retraction) — never to his belief about their honesty or motives.** **The document can contain the
+word; his CASE must not depend on it.**
+
+### ⚠ PROACTIVE vs REACTIVE — a judgment call for him/counsel
+- ⭐ **If it is likely the respondent will weaponise it:** a brief, neutral pre-emption in his own
+  evidence-in-chief — *"I used that word out of frustration; my concern was the clinical-contact
+  failure"* — draws the sting before they do.
+- ⚠ **If not:** do not volunteer it. Say nothing; answer only if raised.
+- ⛔ **Either way: never REPEAT the accusation, never argue it was TRUE.** Truth of "fraud" is not
+  a road he goes down — that is the PID/criminal territory rule 2 keeps out.
