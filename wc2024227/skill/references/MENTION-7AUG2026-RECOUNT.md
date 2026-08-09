@@ -611,3 +611,80 @@ it. That is the drafting doing its job — the single best evidence that the 9A 
 > labels as the keystone, and reached for the *Mahaffey* contention the 9A pleads as its independent
 > knockout — which validates the drafting AND flags that the three overstatements inside that
 > keystone are now the corrections that matter most.**
+
+---
+
+# I — CORRECTION TO SECTION H: HE READ ALL OF IT, AND THE PACE ACCELERATED ON CORY'S CONFIRMATIONS
+> 8 August 2026. Cory's correction: *"he read it as it is, all of it, but it got fast and faster as
+> I was fast and faster saying that the documents I confirm I have already."*
+> ⛔ **Section H's "gravitated to the keystone" is REFINED, not the whole picture. What actually
+> happened is more useful.**
+
+## I1 ⭐⭐⭐ THE ACCELERATION IS THE FINDING
+
+**He did not skim to the strong part. He read the WHOLE 9A, item by item — and for each pleaded
+item he put the r 64B question: *what evidence do you have for this?*** ⭐⭐⭐ **The pace quickened
+because, item after item, Cory confirmed: *I already hold that document.***
+
+⇒ ⭐⭐⭐ **The tempo was not him rushing. It was the SOUND OF A CASE WITH NO EVIDENTIARY GAPS.**
+**A walk-through slows down where the member has to probe a hole. This one sped up — because every
+item was met with "have it", so there was nothing to probe.** ⭐⭐ **The acceleration is the
+demonstration.**
+
+## I2 ⭐⭐⭐ THIS IS WHAT PRODUCED BEAT 11'S CONCLUSION
+
+**The recount records Dwyer's conclusion from the one-by-one walk: *"highly likely he would not need
+much of it"* (the 64G disclosure).** ⭐⭐⭐ **NOW the mechanism is clear: he concluded Cory needs
+little from MSH BECAUSE, item by item, Cory kept confirming he already holds the proof.** **The
+acceleration IS the reason for the conclusion.**
+
+⇒ ⭐⭐ **That is the strongest possible foundation for the "not press the 64G" decision** (Scenario
+B): **the bench has effectively said, on the record of the walk-through, that the appellant's own
+holdings substantially cover the case.** ⭐ Narrowing the 64G is not a retreat — it is Cory agreeing
+with what the walk-through already showed.
+
+## I3 ⭐⭐ WHAT MATHESON AND RUTTAN WATCHED (revising Section G)
+
+**Not "an organised pleading read aloud."** ⭐⭐⭐ **A self-represented appellant confirming, document
+by document, at increasing speed, that the evidentiary base for each pleaded stressor is ALREADY IN
+HIS HANDS.**
+
+⇒ ⭐⭐⭐ **That obliterates the "will overreach / will fall over at hearing" model faster than any
+submission could.** **A litigant who answers "have it" to every item is a litigant who is ready to
+run a hearing.** ⭐⭐ **For Ruttan (MSH), it means the disclosure fight she came to win is moot — he
+is not fishing, he is confirming.** **For Matheson, it means the file she must report is
+hearing-ready.**
+
+## I4 ⛔⛔ THE ONE RISK IN AN ACCELERATING "I HAVE IT" — AND THE CHECK IT FORCES
+
+⚠⚠ **Speed and confirmation-under-momentum carry a specific hazard: confirming possession of a
+document he does NOT actually hold, or holds in a form that is not admissible/complete.** **On the
+record of that walk, Cory has now REPRESENTED to the Commission that he holds proof for each
+pleaded item.**
+
+⇒ ⛔⛔ ⭐⭐⭐ **HIGH-PRIORITY ACTION — THE HOLDINGS RECONCILIATION.** Go through the amended 9A
+item by item and confirm, against the actual files, that he HOLDS admissible proof for each thing
+he confirmed:
+
+| Pleaded item | Did he confirm "have it"? | Does he actually hold it, in usable form? |
+|---|---|---|
+| 1(b) comm-book removal, "I took it out last week" | ? | Admitted ¶14 — proof is the admission itself ✅ |
+| 1(d) COVID upload 20 Feb 11:41:27 | ? | ⚠ **The COVID doc "wasn't uploaded" per an earlier note — CHECK** |
+| 2(b) 3 May "IMMEDIATELY" / 25-day delay | ? | Admitted ¶40/41 ✅ |
+| 3(a) 7-hour break | ? | Admitted ¶1 + SOFC ¶22(a) ✅ |
+| 3(c) forced personal leave 19 Mar | ? | ⚠ **SOFC ¶22(c) says PAID — the payslip may CONTRADICT "have it"** |
+| Stressor 1(a) erratic presence / roster | ? | ⚠ **The roster/timesheet is on the "to obtain" list — MAY NOT HOLD** |
+
+⭐⭐⭐ **Wherever the answer is "confirmed but do not actually hold", that is now a gap he has
+represented as closed — and it must be closed in fact before the hearing, or the confirmation
+becomes an exposure.** ⚠ **No transcript, so which items he confirmed is itself a memory — the audio
+matters here too.**
+
+## I5 ⭐⭐ NET, CORRECTED
+
+> ⭐⭐⭐ **He read the whole case and the walk-through accelerated because Cory kept confirming he
+> already holds the proof, item by item. That is what led the bench to conclude he needs little
+> disclosure — which is the foundation for not pressing the 64G — and it is what re-cast him, in
+> front of both opponents, from "self-rep who will overreach" to "appellant whose file is
+> hearing-ready." The one cost: every "have it" is now a representation, so the holdings must be
+> reconciled against the actual files before hearing.**
