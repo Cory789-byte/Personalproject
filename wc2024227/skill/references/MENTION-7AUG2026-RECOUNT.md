@@ -1104,3 +1104,46 @@ proof.**
 > emails before 15 May — while she was directing the team to contact her in business hours. It is
 > the fatigue-arithmetic technique applied to presence, it is clean of the fraud contamination, and
 > it is the exact cross-examination fuel Dwyer pointed him toward. Build the timestamp table.**
+
+---
+
+# N.1 — ⛔ THE MASPER REPLY TIMESTAMP IS NOT IN THE INGESTED CORPUS — GAP FLAGGED
+> 8 August 2026. Cory: *"the MASPER email complaint — look how long until she responded."*
+> ⛔⛔ **HONEST ANSWER: I CANNOT COUNT IT FROM WHAT IS LOADED.** The response time is real and
+> provable — but it is NOT in the searchable material, and I will not invent a number.
+
+## N.1.1 WHAT IS ACTUALLY INGESTED vs WHAT IS NOT
+
+| | |
+|---|---|
+| ✅ **In the corpus** | Cory's **18 May 2024 "issues" self-note** (his own summary: 9 May directive, 15 May request for office hours) and the **30 Aug 2024** complaint subject line to WorkCover |
+| ⛔⛔ **NOT in the corpus** | ⭐⭐⭐ **THE ACTUAL MASPER EMAIL CHAIN with timestamps — including the complaint email TO Taylor and HER REPLY.** The corpus `MESSAGE_INDEX.tsv` has **ZERO entries for May 2024** — a real gap |
+| ⭐ **Where it lives** | ⭐⭐⭐ **CS-1** — *"Email chain re the MASPER directive, incl. the line manager's email of 9 May 2024 — 4 pages"* (`HEARING-PLAN.md` item 14, marked **HELD**; Form 4/64G covering email). **The reply timestamp is on those 4 pages** |
+
+## N.1.2 ⭐⭐⭐ WHAT TO DO — READ IT OFF CS-1
+
+**Cory holds CS-1. The answer is on it. Extract, from the 4-page chain:**
+1. ⭐ **The complaint email TO Taylor** — date + time (the email raising the MASPER/consultation/
+   patient-safety concern).
+2. ⭐ **Taylor's REPLY** — date + time (if any).
+3. ⭐⭐⭐ **The gap in days.** ⚠ **And if there is NO reply in the chain — that is the stronger fact:
+   a patient-safety/consultation complaint that drew no response at all.**
+
+⛔ **Send me CS-1 (or the timestamps off it) and I will build the exact count.** Until then the
+number is unverified and does not go in any document.
+
+## N.1.3 ⭐⭐ WHY THE ANSWER MATTERS WHICHEVER IT IS
+
+| If she replied after N days | ⭐⭐ **N days' delay to a complaint that flagged critical results not being handed over is management action taken in an unreasonable way** — the s 32(5)(a) *manner* point, proved by her own timestamp |
+| If she never replied | ⭐⭐⭐ **Stronger still — a patient-safety complaint met with silence.** Ties to the Factor-2 defect in the Review Decision (`RD69983-SYNTHESIS.md` C): complaints closed/ignored without investigation |
+
+⭐ **Either way it compounds Section N: the response-latency pattern is not just Cory's routine
+emails — it extends to a formal patient-safety COMPLAINT.**
+
+## N.1.4 ⛔ ADD TO THE INGEST / VERIFY LIST
+- ⭐⭐⭐ **CS-1 (the 4-page MASPER chain) — extract every timestamp.** The complaint-to-reply gap is
+  a Stressor 1(a) exhibit and it is currently UN-INGESTED.
+- ⚠ **The May 2024 corpus gap** — no May 2024 messages are in `MESSAGE_INDEX.tsv`. Check whether the
+  May 2024 mailbox export was ever ingested; if not, ingest it (the MASPER chain, and Taylor's
+  response times generally, live there).
+- ⭐ This is the same **timestamp-table** task as Section N.5 — CS-1 is where the raw data is.
