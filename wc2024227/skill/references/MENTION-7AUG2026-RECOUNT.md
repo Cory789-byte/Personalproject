@@ -442,3 +442,83 @@ his argument any more; it is the record's.**
 > from the bench and unprompted, put it back together as one thing — which is the *Mahaffey* answer
 > to her *Delaney* method, spoken aloud, in front of both opponents, on the one part of the case
 > that is already admitted.**
+
+---
+
+# G — THE MENTION FROM MATHESON'S CHAIR (reconstruction, Cory's memory taken as fact)
+> 8 August 2026. ⛔⛔ **INTERNAL ONLY. This is imaginative reconstruction, not evidence, not a
+> transcript, and never voiced.** Its purpose is to price the revaluation input the grouping
+> created — to see the hour as the RESPONDENT experienced it.
+
+## G1 WHAT SHE WALKED IN EXPECTING
+
+**A 64G disclosure mention.** Her brief: resist an over-broad non-party request against MSH on
+proportionality. **Her mental model of Cory: self-represented appellant, likely to overreach,
+manageable.** She had rejected Calderbank #2 three weeks earlier on that model. ⭐ **She expected an
+hour of procedural housekeeping.**
+
+## G2 THE MOMENT THE MODEL BREAKS
+
+**Dwyer takes the fatigue stressor and groups it — the hours, the 7-hour break, the request, the
+denial, the forced leave — and says he gathers it is all the same thing.**
+
+⭐⭐⭐ **From her chair, three things happen at once:**
+
+| | What she registers |
+|---|---|
+| **1** | ⭐⭐ **"That is the *Mahaffey* framing, and the Commission reached it on its own."** She knows the authority. She knows her own decision aggregated the other way. **She has just watched the bench prefer the appellant's framing without the appellant having to argue for it** |
+| **2** | ⭐⭐⭐ **"And it landed on the ONE stressor we admitted."** ¶22(a) concedes the 7-hour break. **She cannot cross-examine it away; her own pleading gave it up.** The strongest part of his case is the part she has already lost |
+| **3** | ⭐⭐ **"Our 'human error, not repeated' line does not survive the grouping."** She can hear it die in real time — a request and a denial after the break make "error" untenable, and she is the one who will have to write the SOFC that pretends otherwise |
+
+## G3 ⭐⭐ WHAT SHE NOW HAS TO REPORT UP THE LINE
+
+**She cannot report "routine mention, held the line."** ⭐⭐⭐ **She has to report, in substance:**
+
+> *"The Commission, unprompted, organised the appellant's fatigue allegation as a single course of
+> conduct — which is the harder framing for us — and did so on the stressor we have admitted. The
+> appellant answered on each pleaded item. He presents as more organised than his self-represented
+> status suggested."*
+
+⇒ ⭐⭐⭐ **That paragraph is the settlement engine. It is written by OUR officer, to OUR principals,
+and it re-prices the matter — and Cory never lifted a finger to produce it. The bench produced it
+for him and Matheson has to transcribe it.**
+
+## G4 ⭐ AND IT RE-COLOURS THE CALDERBANK SHE ALREADY REJECTED
+
+**She rejected Calderbank #2 on the June model.** ⭐⭐ **After this hour, the rejection looks
+different to her own file:** the offer she declined was made by the appellant whose case the
+Commission has now walked, item by item, gravitating to the admitted core. ⭐⭐⭐ **A rejected
+Calderbank + a mention that went this way = the beginning of a costs exposure she now has to carry
+in every recommendation she writes.**
+
+## G5 ⭐⭐ THE DISSONANCE SHE LEAVES WITH
+
+| What she was told coming in | What she saw |
+|---|---|
+| Self-rep, will overreach | **A pleading a Commissioner could read cold and run** |
+| Disclosure fight we can win on scope | ⭐ **A merits preview in which the bench found our admitted stressor to be the spine** |
+| Manageable | **Someone the tribunal is helping to be heard** (*Neil v Nott*) |
+
+⇒ ⭐⭐ **She leaves having to reconcile the file she was handed with the hour she watched. That
+reconciliation is where settlement authority gets requested.**
+
+## G6 ⛔ THE DISCIPLINES THAT KEEP THIS USEFUL RATHER THAN DANGEROUS
+
+1. ⛔⛔ **This is RECONSTRUCTION. It is not what Matheson thought — it is what the hour makes it
+   RATIONAL for her to think.** ⛔ **Never attribute a state of mind to her in any document.**
+2. ⛔⛔ **Do NOTHING that breaks the spell.** ⭐⭐⭐ **The revaluation is working FOR Cory silently.
+   The provenance/conflict letter (`PRESERVATION_AND_CONFLICT_ENQUIRY`) is the one thing that could
+   re-cast him in her eyes from "organised appellant with a strong admitted stressor" to "litigant
+   chasing a metadata theory."** ⇒ ⭐⭐ **This section is the strongest argument yet for HOLDING that
+   letter until after the report, or routing it to the access channel instead (§14, Part 11).**
+3. ⭐⭐⭐ **FEED the reading, do not force it.** What confirms "organised and reasonable" is: 64G not
+   pressed, witnesses listed, report delivered, Calderbank #3 pitched sensibly. **Every one of those
+   deepens G5's dissonance in his favour. Send those. Let the fatigue grouping keep working.**
+4. ⛔ **Still no transcript.** The grouping is Cory's memory. ⭐ **The audio is what converts this
+   from a felt advantage into a usable one.**
+
+## G7 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **She came to win a disclosure scope fight and watched the Commission make the appellant's
+> strongest, already-admitted stressor into the organising spine of the case. She now has to report
+> that upward — and everything Cory does from here should confirm that report, not complicate it.**
