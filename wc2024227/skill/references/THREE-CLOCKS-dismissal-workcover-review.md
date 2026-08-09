@@ -504,3 +504,118 @@ his actual sent folder before anyone relies on it either way.**
    the review.
 6. ⭐ **WorkCover's record of what it transmitted to Queensland Health**, September–October 2024 —
    ⭐⭐ **covered by the IP Act application at `RD69983-SYNTHESIS.md` §8.3 Route 1.**
+
+---
+
+# PART 10 — DID MSH KNOW EITHER OUTCOME BEFORE HE DID?
+> 8 August 2026. Cory: *"I'm asking if they knew about the review decision before I did… I know
+> they knew about the WorkCover claim, what was gonna be the outcome, before I did."*
+> ⚠⚠ **Two different outcomes, two different answers. Neither is established on the record held.**
+
+## 10.1 THE COMPLETE RECORD FOR THE WINDOW — nine messages, 10 Sep to 31 Oct 2024
+
+| Date/time (AEST) | From → To | Subject |
+|---|---|---|
+| 11 Sep 13:33 / 16:09 / 19:02 | Cory ↔ Amy Mo | `ref: S23LW142013` |
+| ⭐ **13 Sep 16:59** | ⭐ **Amy Mo (`moam@`) → Cory** | ⭐⭐ **"S23LW142013 Reasons for decision" — THE REJECTION** |
+| **13 Sep 18:47** | Cory → Amy Mo | Reply — *"Thank you for the call"* ⇒ ⭐ **she also telephoned him** |
+| ⭐ **20 Sep 08:38** | ⭐ **Chloe Taylor → Cory** | ⭐⭐ **"Return to Work" — *"as I understand your Workcover claim has now closed"*** |
+| **25 Sep 08:42** | Chloe Taylor → Cory | Follow-up; call at 08:32 unanswered |
+| ⚠ **9 Oct 16:10** | LBH_HR → Cory | ⚠ **The abandonment letter. NOT in the corpus index** — held separately |
+| **10 Oct 10:01** | Cory → Amy Mo | Cessation notified — **auto-reply only** |
+
+⚠⚠ **Note the gaps: nothing between 13 and 20 September, and nothing between 25 September and
+10 October.**
+
+## 10.2 ⭐ QUESTION A — THE WORKCOVER DECISION. Not established, but worth asking.
+
+**What the record shows:** ⭐ **He was told on 13 September at 16:59, and by telephone the same
+afternoon.** The earliest documented MSH awareness is **20 September — seven days later** — and the
+wording is ***"as I understand"***, which reads as indirect knowledge rather than formal
+notification.
+
+⇒ ⛔⛔ **Nothing held establishes that MSH knew first.**
+
+⭐⭐ **BUT THERE IS A REAL STRUCTURAL REASON TO ASK, AND IT IS NOT SINISTER:**
+
+| | |
+|---|---|
+| ⭐⭐ **Employers are parties to the claim process** and are notified of decisions. **This is normal and proper** |
+| ⭐⭐⭐ **WorkCover Queensland operates an employer portal.** If the rejection was entered into the claims system before the 16:59 email went out, **MSH could have seen the status change first — by minutes or by hours** |
+| ⭐⭐ **And the dispatch anomaly fits.** The rejection is the ONLY message in the entire chain sent from **`moam@workcoverqld.com.au`** rather than her ordinary address ⇒ **consistent with system dispatch, which would update the record and notify all parties together** |
+
+⇒ ⭐⭐⭐ **If MSH did know first, the mechanism is almost certainly the claims system, not a leak.**
+⛔⛔ **AND THAT IS THE POINT TO HOLD: knowing first would not be improper. The problem is not that
+they knew — it is that on 20 September they acted on "CLOSED" when the claim was UNDER REVIEW.**
+
+## 10.3 ⭐ QUESTION B — THE REVIEW DECISION. Also not established, and one window is unexamined.
+
+**What the record shows:** ⭐⭐ The reasons are expressly **`cc Metro South Hospital And Health
+Service`** and **`cc WorkCover Queensland`** at p 28. **A cc on the face of a document is
+SIMULTANEOUS distribution.** ⭐ And he had his own copy the same day — the iOS re-save on his phone
+is timestamped **01:38 on 25 October**, hours after issue.
+
+⇒ ⛔ **On the record, everyone was served on 24 October. No evidence MSH knew first.**
+
+⭐⭐⭐ **BUT THERE IS A TWO-DAY WINDOW NOBODY HAS EXAMINED:**
+
+> ⭐⭐⭐ **The decision was MADE on 22 October. The reasons ISSUED on 24 October. Who was told
+> anything in between?**
+
+⛔ **Nothing in the file answers that.** ⭐⭐ **The Regulator's review file would, and it is a clean,
+specific, answerable question. It is new and it should be added.**
+
+## 10.4 ⛔⛔ AND THE CONNECTION — THE DATES FORBID THE ONE HE IS REACHING FOR
+
+**Termination effective 8 October. Review decision 22 October. Reasons 24 October.**
+
+⇒ ⭐⭐⭐ **Even if MSH learned the review outcome on 22–24 October, it CANNOT have caused a
+termination that took effect on 8 October. The sequence forecloses it.**
+
+⭐⭐ **The only connection the dates permit runs the other way:** the termination came first; the
+review decision came fourteen days later; ⭐ **and the reviewing officer never knew the termination
+had happened** (the record closed 18 September).
+
+## 10.5 ⚠⚠ "I KNOW THEY KNEW" — THIS NEEDS ITS SOURCE
+
+⛔⛔ **Standing rule: a recollection is a LEAD TO VERIFY, not authority.** ⭐ **He was there and I was
+not — so the belief is not dismissed.** ⚠ **But it is not in the documents, and it cannot go into
+anything until it has a source.**
+
+⭐⭐ **THE QUESTION FOR HIM, and it materially changes the position if answered:**
+> **What is the basis? A conversation? Something Ms Taylor or HR said, and when? A screen or portal
+> he saw? A date on a document? Or an impression formed afterwards?**
+
+⭐ **If it is a conversation, it is evidence he can give from the witness box** and it should be
+written down now, dated, while it is recoverable. ⚠ **If it is an impression, it stays an
+impression.**
+
+## 10.6 ⭐⭐ WHAT TO ADD TO THE REQUESTS — three new limbs
+
+**To the IP Act application to WorkCover Queensland** (`RD69983-SYNTHESIS.md` §8.3 Route 1):
+> ⭐⭐ *(e) all records of notification to the employer of the decision of 13 September 2024,
+> including the date and time of any notification and of any change of claim status visible to the
+> employer through any employer portal or online service.*
+
+**To the questions for the Regulator:**
+> ⭐⭐⭐ *(iii) whether any person or entity other than the appellant was notified of the review
+> decision of 22 October 2024, or of its substance, before the reasons issued on 24 October 2024,
+> and if so, when and by what means.*
+
+**And the standing one, still not obtained:**
+> ⭐⭐⭐ **The instrument that reversed the termination.** ⚠ **The mechanism remains UNVERIFIED — QIRC
+> order, internal review, deed or negotiated return is not known.** ⭐ **It is the single most
+> important missing document in the employment track, and it is the only thing that would show
+> whether the review decision featured in the reversal at all.**
+
+## 10.7 ⭐⭐ THE DISCIPLINED VERSION OF ALL OF THIS
+
+⭐⭐⭐ **He does not need advance knowledge, and he should not chase it.** The finding he already has
+is stronger, documented, and requires no motive:
+
+> ⭐⭐⭐ **"Seven days after the rejection my manager wrote that my WorkCover claim 'has now closed'.
+> It was not closed — a review had been lodged four days earlier. Eighteen days after that I was
+> dismissed for having no documented reason for absence, two days after a medical certificate was
+> issued, on a letter that said WorkCover had not passed my certificates to Queensland Health."**
+
+⛔⛔ **Every word of that is on paper. Advance knowledge is not, and does not need to be.**
