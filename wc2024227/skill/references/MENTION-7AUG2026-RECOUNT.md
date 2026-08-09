@@ -939,3 +939,86 @@ it) and how he responded.**
 > question that matters: was it reasonable? A directive that sent doctors to the wrong place during
 > code calls is the answer, and it belongs in the pleading and in an incident record, framed as the
 > reasonableness-defeater under s 32(5)(a) — never as a cover-up.**
+
+---
+
+# M — THE MASPER EVENT AND EMAIL FLOW ALREADY CARRY THE INSTANCE — AND A CONTAMINATION TO STRIP
+> 8 August 2026. Cory: *"I am already using the MASPER event and the email flow."*
+> ⭐⭐⭐ **Correct — and the MASPER flow IS the "doctors mis-routed / uncontactable" instance from
+> Section L, already documented and already pleaded as CS-1. But the flow carries a rule-2
+> contamination that must be excluded before tender.**
+
+## M1 ⭐⭐⭐ MASPER IS THE CONCRETE CLINICAL CONSEQUENCE — ALREADY IN EVIDENCE
+
+**From the 18 May 2024 "issues" email (corpus p.848) — Cory's own contemporaneous account:**
+
+> ⭐⭐⭐ *"A pathologist calling on various occasions over a period of 2 hours and unable to handover
+> critical results possibly affecting patient outcomes as the masper registrar Anh DOAN fails and
+> refuses to take pathologists calls when also rostered as the consults register."*
+
+⇒ ⭐⭐⭐ **THAT is the Section L reasonableness-defeater, in a contemporaneous document:** a directive
+(the 9 May MASPER change), issued without consultation, that resulted in **critical pathology
+results not being handed over for two hours.** ⭐⭐ **It is exactly "just management action" defeated
+by its clinical consequence — and it is already CS-1** (`HEARING-PLAN.md` item 14; the 9 May MASPER
+email chain, 4pp, HELD; LOD item 24).
+
+**The documentary chain is already assembled:**
+| Date | Document | Role |
+|---|---|---|
+| **15 Apr 2024** | After-hours on-call removed "effective immediately", no consultation | The directive pattern |
+| ⭐ **9 May 2024** | ⭐⭐⭐ **The MASPER directive — CS-1** (Taylor directs the process change) | ⭐⭐ **The unconsulted directive** |
+| ⭐ **18 May 2024** | The "issues" email — the Anh Doan / pathologist instance | ⭐⭐⭐ **The clinical consequence** |
+| **30 Aug 2024** | *"Failure to consult putting patients at risk as the masper register wasn't watching"* | Puts it to WorkCover |
+
+## M2 ⛔⛔⛔ THE CONTAMINATION — THE 18 MAY EMAIL CONTAINS THE FRAUD LINE
+
+**The SAME 18 May email that carries the clinical instance also contains (corpus p.848):**
+
+> ⛔⛔ *"Chloe **knowingly defrauds the department** and generally does not come into work or do the
+> full-time hours…"*
+
+⛔⛔⛔ **THIS IS THE RULE-2 VIOLATION SITTING INSIDE HIS STRONGEST DOCUMENT.** If the 18 May email is
+tendered whole, the word **"defrauds"** goes in with it, and three things happen:
+1. ⛔⛔ **It imports the FRAUD characterisation into the WC track** — CLAUDE.md rule 2, the one that
+   is *never* to appear here.
+2. ⛔⛔ **It opens s 32(5)(b)** — the *perception* limb. A worker who writes that his manager
+   "defrauds the department" invites the argument that his injury arose from his own (mistaken)
+   perceptions of management conduct. ⛔ **That limb is UNPLEADED and must stay shut.**
+3. ⛔ **It hands MSH the "he accuses everyone of fraud" narrative** that colours his credibility on
+   everything else.
+
+## M3 ⭐⭐⭐ HOW TO USE MASPER WITHOUT THE CONTAMINATION
+
+| ⭐ Use | ⛔ Exclude |
+|---|---|
+| ⭐⭐⭐ **The clinical instance** — pathologist unable to hand over critical results for 2 hours (the reasonableness-defeater) | ⛔⛔ **The "knowingly defrauds the department" sentence** — never relied on, never read, never quoted |
+| ⭐⭐ **The 9 May MASPER directive (CS-1)** — the unconsulted process change | ⛔ **"does not come into work / disappears early"** — that is the "erratic presence" characterisation, hard to prove, and it drags toward the fraud framing |
+| ⭐⭐ **The failure-to-consult / clinical-risk manner point** | ⛔ Any framing of Taylor's conduct as dishonest or deliberate |
+
+⭐⭐⭐ **THE MECHANISM: lead evidence of the SPECIFIC EVENT (the pathologist, the two hours, the
+critical results), not the whole email.** ⚠ **If the 18 May email is tendered as a document, be
+ready for MSH to read the "defrauds" line back — better to lead the FACT through oral evidence and
+the CS-1 directive, and NOT tender the 18 May email whole.** ⭐ Consider whether the clinical
+instance can be proved through a cleaner source (see M4) so the contaminated email never goes in.
+
+## M4 ⭐⭐ THE CORROBORATION WITNESSES ALREADY NAMED IN THE FLOW
+
+**The 18 May email names people who can prove the instance WITHOUT the fraud line:**
+| Name | What they corroborate |
+|---|---|
+| ⭐⭐ **Patrisha Co** | *"can confirm the nature of this call"* — the Anh Doan call-back |
+| ⭐ **Anh Doan** (MASPER registrar) | The failure to take pathologist calls (adverse, but the event) |
+| ⭐ **Pan Jane Wong** | Directed by Taylor on 9 May re business hours |
+
+⚠ **These are corroboration, not spine, and each needs the s 32(5)(a) *manner* framing.** ⭐⭐ **The
+cleanest exhibit remains any IIMS/RiskMan/switchboard log of the 2-hour pathology delay (Section L)
+— a system record proves the clinical consequence with NO email, NO fraud line, NO characterisation.
+That is now the highest-value single document to obtain for Stressor 1(a).**
+
+## M5 ⭐ NET
+
+> ⭐⭐⭐ **He is already anchored correctly — MASPER is the documented instance that defeats "just
+> management action". The job now is (i) lead the SPECIFIC clinical event, not the whole 18 May
+> email; (ii) STRIP the "defrauds" and "doesn't come to work" lines out of what is relied on; and
+> (iii) obtain a system incident record so the reasonableness-defeater can be proved without the
+> contaminated email ever being tendered.**
