@@ -725,3 +725,82 @@ one that carries no risk at all.**
 > unexecutable, improper and counterproductive. The lawful instrument is a sharpened Calderbank
 > backed by s 558(3) — and the leverage he is reaching for is ALREADY DELIVERED by asking the
 > question and saying nothing further.**
+
+---
+
+# PART 11 — ⭐⭐ "NOW OR IN ANY EVENT AFTER THE APPEAL" — THE GOOD IDEA, AND THE PART TO DROP
+> 8 August 2026. Cory's proposed formulation: a disclosure request aimed at the provenance, framed
+> as going to the issues in the appeal, asking for it **now or in any event after the appeal**,
+> citing the review number and the DMS identifiers.
+
+## 11.1 ⭐⭐⭐ THE GOOD IDEA — AND IT IS HIS
+
+> ⭐⭐⭐ **"NOW OR IN ANY EVENT AFTER THE APPEAL" DEFUSES THE RELEVANCE OBJECTION BEFORE IT IS MADE.**
+
+⭐⭐ **If they answer *"not relevant to the appeal"*, he has already conceded that may be so and asked
+for it afterwards. The objection no longer kills the request — it just moves it.** ⭐ **It also
+creates a dated record, it attaches no consequence, and it is not a threat.** ⛔ **I had not thought
+of it. Adopt it.**
+
+## 11.2 ⛔⛔ THE PART TO DROP — "POINTING TO IT AS AN ISSUE IN THE APPEAL"
+
+⛔⛔⛔ **This is the one clause that costs him, and it is severable from the rest.**
+
+**Asserting that the provenance is an issue in the appeal:**
+1. ⛔⛔ **Triggers the self-defeating contradiction at §9.7** — he cannot ask the Commission to weigh
+   the delegate's findings **and** say the process that produced them was compromised.
+2. ⛔⛔ **Hands the Regulator a line for the record:** *"the appellant has put the integrity of the
+   review in issue"* — which is precisely what must not be in front of Dwyer.
+3. ⛔ **And it is not necessary.** ⭐⭐⭐ **The "now or after" formulation works WITHOUT it. That is
+   the whole point of the formulation.**
+
+⇒ ⭐⭐⭐ **Keep "now or in any event after". Delete "because it is an issue in the appeal".**
+
+## 11.3 ⭐⭐⭐ AND THE CHANNEL MATTERS MORE THAN THE WORDING
+
+| | ⛔ **A DISCLOSURE REQUEST** | ⭐⭐⭐ **AN RTI / IP APPLICATION** |
+|---|---|---|
+| **Where it lives** | ⛔⛔ **On the proceeding's record.** Inter-party correspondence about disclosure is routinely exhibited if disclosure is ever argued | ⭐⭐⭐ **A separate statutory channel. It NEVER touches the QIRC file** |
+| **Who reads it** | The Regulator's lawyers — **and potentially the Commission** | An RTI decision-maker |
+| **Relevance objection** | ⛔ Available to them | ⭐ **Not available — access rights are not limited by relevance to a proceeding** |
+| **Footprint in WC/2024/227** | ⛔ **Permanent** | ⭐⭐⭐ **None** |
+
+⚠⚠ **AND A PRACTICAL POINT THAT DECIDES IT: THERE IS NO POST-APPEAL DISCLOSURE.** Disclosure
+obligations exist **because a proceeding exists.** ⛔ **When the appeal ends, so do they.**
+
+⇒ ⭐⭐⭐ **The "in any event after the appeal" limb has no vehicle inside the proceeding at all. It
+would HAVE to be an RTI/IP application. So make it one now, and skip the disclosure costume.**
+
+## 11.4 ⭐⭐⭐ AND AFTER THE APPEAL IS GENUINELY THE STRONGEST TIME TO ASK
+
+**Every objection currently available to them evaporates:**
+
+| Objection | Now | ⭐⭐ After |
+|---|---|---|
+| **"Not relevant to the proceeding"** | ⛔ Available | ⭐⭐⭐ **Gone — there is no proceeding** |
+| **The reliance contradiction (§9.7)** | ⛔⛔ **Live and fatal** | ⭐⭐⭐ **Gone — the findings have done their work** |
+| **Risk to the case** | ⛔⛔ Real | ⭐⭐⭐ **Nil** |
+| ⭐ **Limitation pressure on him** | — | ⭐⭐ **NONE.** The Ombudsman Act s 23 contains **no time limit**, and access rights do not expire |
+
+⇒ ⭐⭐⭐ **He loses nothing by waiting and gains the removal of every obstacle. That is a rare
+combination and it should be taken.**
+
+## 11.5 ⭐⭐ THE TWO-CHANNEL PLAN — HE GETS EVERYTHING HE DESCRIBED
+
+**CHANNEL A — INSIDE THE APPEAL, NOW. Boring only.**
+- ⭐ **Part 2 of the Form 23** — *"no Part 2 was served; please provide it."*
+- ⭐ **Items 34, 39, 40 and 41 for inspection** — the communications report, the unexplained 25 July
+  decision, the employer extension request, and the 13 September employer notification.
+- ⛔⛔ **No provenance. No identifiers. No firm named. These are ordinary disclosure items and they
+  must look like nothing else.**
+
+**CHANNEL B — OUTSIDE THE APPEAL. Now or after — his choice, and after is stronger.**
+- ⭐⭐⭐ **IP Act to WorkCover Queensland** — the complete claim file (his own personal information).
+- ⭐⭐ **RTI / IP to OIR**, using the wording at `RD69983-SYNTHESIS.md` §10.4, **with the identifiers
+  `2440758`, `29218845v1`, `hendry8286`**, the provenance line, and the express disclaimer.
+- ⭐ **Add his "in any event" clause:** *"If access is refused on the basis that the documents are
+  not relevant to any current proceeding, I ask that this application be treated as made in any
+  event and determined on its own terms."*
+
+⇒ ⭐⭐⭐ **Same information. Same identifiers. Same question. ZERO footprint on the appeal record,
+and no contradiction with the reliance.**
