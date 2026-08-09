@@ -282,3 +282,72 @@ correspondence about the respondent's own filed document.**
 6. ⭐⭐ **THE ABANDONMENT LETTER ITSELF** — still not held, and now needed to resolve three
    conflicting dates.
 </content>
+
+---
+
+# PART 6 — WHAT "PART 2" IS, AND THE LIMITATION I SHOULD HAVE STATED WITH IT
+
+## 6.1 THE MECHANICS
+
+**A List of Documents (Form 23) is the formal disclosure vehicle** — IR Act s 989, Industrial
+Relations (Tribunals) Rules 2011 rr 41(2)(o) and 113(2)(n). The party lists every document
+**"directly relevant to the allegations or matters in question in this proceeding"** that is in its
+possession or control. The schedule conventionally has **two parts**:
+
+| | |
+|---|---|
+| **PART 1** | Documents the party **will produce** for inspection. ⭐ **That is what was served — items 1 to 42** |
+| ⭐⭐ **PART 2** | Documents the party **admits it holds but REFUSES to produce**, on a stated ground — almost always **legal professional privilege** |
+
+⭐⭐⭐ **The purpose of Part 2 is that you must still DISCLOSE THE EXISTENCE of a privileged document
+even though you do not have to hand it over.** It is a **privilege log**: enough description to
+identify the document, plus the ground of objection. ⛔ **Privilege protects the CONTENTS. It does
+not entitle a party to conceal that the document exists.**
+
+## 6.2 WHAT THE TICK MEANS
+
+**Paragraph 2 of the served form reads:**
+> *"The ☐applicant **☒respondent** objects to produce the documents listed in **part 2** of the
+> schedule on the ground of **privilege**."*
+
+⇒ ⭐⭐ **That is a positive statement, on a signed and filed document, that the Regulator IS
+withholding documents on privilege grounds** — and **no Part 2 was served with it.**
+
+## 6.3 ⭐⭐ WHY IT MATTERS HERE
+
+**If the Regulator obtained legal advice in connection with review 69983 — from anyone — that advice
+is a privileged document in its possession relating to this matter.** ⭐⭐⭐ **A privilege log would
+have to DESCRIBE it: what it is, who made it, when.**
+
+⇒ ⭐⭐⭐ **Part 2 would reveal the FACT and IDENTITY of an engagement without disclosing a word of
+its content — which is precisely the line drawn at `RD69983-SYNTHESIS.md` §10.3 and
+`HOPGOODGANIM-QUESTION.md` §7.8.**
+
+## 6.4 ⚠⚠ THE LIMITATION I SHOULD HAVE STATED AT §2.5
+
+⛔⛔ **Part 2 only ever contains privileged documents that would OTHERWISE BE DISCLOSABLE.**
+Disclosure is confined to documents **"directly relevant to the allegations or matters in question
+in this proceeding"**.
+
+⇒ ⚠⚠ **The matter in question is whether he sustained an injury under s 32. Legal advice about how
+to prepare the review decision is arguably NOT directly relevant to that** — the appeal is
+**de novo** and the review's production is not an issue in it.
+
+⇒ ⛔ **So the Regulator may properly say such a document was never disclosable, and therefore never
+belonged in Part 2 at all.** ⭐ **That is a legitimate answer and he should expect it.**
+
+## 6.5 ⭐⭐ BUT ASKING STILL COSTS NOTHING, AND EVERY ANSWER IS USEFUL
+
+| The answer | What it gives him |
+|---|---|
+| **"Here is Part 2"** | ⭐⭐⭐ **A privilege log.** Whatever it lists — or conspicuously does not |
+| **"There is no Part 2; the box was ticked in error"** | ⭐⭐ **An answer on the record that nothing is being withheld** |
+| **"Part 2 exists but nothing in it concerns this"** | ⭐ **A representation he can hold them to** |
+| **Silence** | ⚠ **Also information, and it is theirs to explain** |
+
+⭐⭐⭐ **It is ordinary interlocutory correspondence about the respondent's own filed document. It
+alleges nothing, names nobody, and cannot be turned around on him.**
+
+⚠ **Note the age:** the Form 23 is dated **17 December 2024**, served under the directions order of
+3 December 2024. ⭐ **The 11 June 2026 disclosure is NOT a further Form 23** — it is correspondence.
+⇒ **The December 2024 list remains the Regulator's List of Documents in this appeal.**
