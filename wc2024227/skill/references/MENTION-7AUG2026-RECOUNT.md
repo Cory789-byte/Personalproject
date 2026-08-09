@@ -1977,3 +1977,70 @@ motive in the WC appeal.** Reasons, restated:
 > 16 May on, and it is gold for the PID track and for disclosure relevance. But the retraction
 > itself predates it, and the reprisal/knowledge point is HELD — it is not run as motive in the WC
 > appeal, where 1(f) stands on the admitted acts and the unreasonable manner alone.**
+
+---
+
+# N.14 — THE RETRACTION-KNOWLEDGE (EVEN-HANDED) + THE "MALICE" CHARACTERISATION HAS NO PRIOR DOCUMENTARY TRACE
+> 8 August 2026. Cory: *"possibly she didn't know, possible she got a phone call — either way she
+> knew by the 16th; and Chloe was writing an email that was never documented before that in any way."*
+
+## N.14.1 ⭐⭐ POINT 1 — THE HONEST, DISCIPLINED POSITION ON THE RETRACTION
+⭐⭐⭐ **Cory's even-handedness IS the correct position, and it protects him:**
+- ⛔ **The documents do not show Reese knew of the PID at 6:23 PM on 15 May.** The 3:41 PM HR forward
+  went to Punch/McGinley/McNamee, not Reese.
+- ⚠ **A phone call to Reese between 3:41 and 6:23 PM is POSSIBLE — but undocumented.** ⛔ **Possible
+  ≠ provable. Do NOT assert it.**
+- ✅ **What IS documented: Reese received the complaint form 16 May 11:43 AM.** ⇒ **State only that.**
+
+⇒ ⭐⭐ **The disciplined line: "The documents establish Reese knew by 16 May. Whether she knew earlier
+is not established." Cory volunteering that even-handedness is exactly right — it makes him the
+reliable narrator and denies the respondent any "he overstated it" comeback.**
+
+## N.14.2 ⭐⭐⭐ POINT 2 — THE "MALICE / OUT TO GET ME / FEARFUL" NARRATIVE HAS NO DOCUMENT BEFORE 17 MAY
+> ⭐⭐⭐ **This is the real point. The characterisation of Cory as malicious, hostile, "out to get
+> her," a person to be "fearful" of — appears for the FIRST TIME on 17 May 2024, in an account HR
+> SOLICITED ("as requested"). There is NO contemporaneous documentation of it predating that email.**
+
+**And Chloe's own words claim a history she does not document:**
+> *"It is **not unknown** within the switchboard of Corys behaviour and malice towards me… I have
+> had **multiple staff inform me… not just this week**."*
+⇒ ⭐⭐⭐ **She ASSERTS a prior pattern ("not just this week", "not unknown") — but produces NOT ONE
+dated record of it before 17 May. No file note, no incident report, no email, no prior complaint.**
+
+## N.14.3 ⭐⭐ WHY THAT MATTERS EVIDENTIALLY (WC-track safe)
+1. ⭐⭐⭐ **RECENT + SOLICITED + UNCORROBORATED = LOW WEIGHT.** A serious allegation that surfaces for
+   the first time only when HR asks for it, with no contemporaneous footprint, carries little weight
+   as proof that Cory was actually hostile or a threat. **It is an account, not a record.**
+2. ⭐⭐⭐ **THE RETRACTION CANNOT REST ON A HOSTILITY PATTERN THAT ISN'T DOCUMENTED.** If the "reasonable
+   management action" defence leans on "he was malicious/a threat," ⇒ **there is no dated record of
+   that hostility before the action. The defence has no documentary foundation for it.**
+3. ⭐⭐ **IT BLUNTS THE COMPETING-VICTIM NARRATIVE (N.11.4 risk).** Chloe's "high anxiety / fearful"
+   claim, with no contemporaneous trace before the solicited 17 May account, is a **recent,
+   uncorroborated** narrative — which limits its power to muddy causation or cast Cory as aggressor.
+
+## N.14.4 ⚠ THE PRECISE DISTINCTION — DO NOT OVERSTATE
+| Has SOME contemporaneous trace | Has NO trace before 17 May |
+|---|---|
+| ⚠ **The leave/call conduct** ("declined to speak to me") — Chloe's **14 May** call-process email touches it | ⭐⭐⭐ **The "MALICE / OUT TO GET ME / FEARFUL" characterisation — nothing before the solicited 17 May account** |
+
+⇒ ⛔ **Do not claim "nothing was documented" broadly — the leave/call-process conduct has a 14 May
+footprint. The point is NARROW and therefore strong: the HOSTILITY/THREAT characterisation is what
+first appears on 17 May, solicited, uncorroborated.**
+
+## N.14.5 ⛔⛔ DISCIPLINE
+- ⭐⭐ **RUN IT AS:** *"the characterisation of the appellant as hostile/a threat is uncorroborated by
+  any contemporaneous record predating the solicited account of 17 May 2024."* Onus on them
+  (*Prizeman*) — they cannot found reasonableness on an undocumented hostility.
+- ⛔⛔⛔ **DO NOT RUN "she fabricated it to retaliate for my PID."** That is fabrication + motive +
+  reprisal (rules 1–2, s 32(5)(b), PID track) all at once. **"No prior documentation" is a
+  RECORDS point; "she invented it to punish me" is a MOTIVE allegation. Only the first is voiced.**
+- ⭐ **CROSS (Chloe):** *"You told HR his malice was 'not unknown' and 'not just this week.' Can you
+  point to any document — email, file note, incident report — recording that, dated before 17 May
+  2024?"* ⭐⭐ **Let the absence answer. Do not supply a motive.**
+
+## N.14.6 ⭐ THE ONE LINE
+> ⭐⭐⭐ **Reese knew by 16 May (earlier is possible but unproven — say only that). And the "malice /
+> out to get me / fearful" portrayal of Cory has no contemporaneous record before the HR-solicited
+> account of 17 May, though it claims a history — which makes it a recent, uncorroborated account
+> that cannot found the reasonableness of the retraction and blunts the fear narrative. Run it as a
+> RECORDS gap, never as invention-to-retaliate.**
