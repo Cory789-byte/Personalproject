@@ -354,3 +354,153 @@ IP Act / RTI list; **ask on both tracks, they run at different speeds.**
 - ⛔ **Never voice motive.** The chronology is powerful precisely because it is only a chronology.
 </content>
 </invoke>
+
+---
+
+# PART 9 — ⭐⭐⭐ WHAT THE DISMISSAL ACTUALLY CORRELATES WITH
+> 8 August 2026. Cory asked whether the dismissal correlates with knowing the review would be
+> declined. **The answer is no — and what the record shows instead is better.**
+> ⭐⭐ **Two documents found this session that were not in the dismissal analysis before.**
+
+## 9.1 ⛔⛔ THE FORESIGHT THEORY IS IMPOSSIBLE, AND THE REASON IS ARITHMETIC
+
+| | |
+|---|---|
+| **Dismissal effective** | **8 October 2024** |
+| **Review decision made** | **22 October 2024** |
+| ⛔⛔⛔ | ⭐⭐⭐ **ON 8 OCTOBER THE DECISION DID NOT EXIST. Nobody could know an outcome that had not been made** |
+
+⭐⭐ **And the timing points the other way.** She used **all 25 business days** (s 545(1)), and had
+**no unilateral power to extend** (s 545(4)). ⇒ ⭐⭐⭐ **A decision worked to the last available day
+is evidence the outcome was NOT predetermined.**
+
+⛔ **The `hgDMSDate 09.10.2024` coincidence:** across a 25-business-day window, any two events have
+about a **1-in-25** chance of landing on the same day. Two did. **Two organisations, no shown
+connection, and a DMS date field is a record-creation date.** ⛔⛔ **It is a base-rate coincidence.
+Close it.**
+
+## 9.2 ⭐⭐⭐ BUT THE CORRELATION HE IS SENSING IS REAL — AND IT IS WRITTEN DOWN
+
+⭐⭐⭐ **NEW — `corpus pack 02 p.157`. Chloe Taylor, Switchboard Manager, to Cory,
+Friday 20 September 2024, 08:38 AEST, subject "Return to Work - Cory Shepherd":**
+
+> *"I want to reach out to confirm your requirements to return to work **as I understand your
+> Workcover claim has now closed**."*
+>
+> *"**Noting we do not have a current medical certificate for you**, can I please ask that you
+> arrange for your doctor to provide an updated medical certificate and complete the attached work
+> capabilities checklist… **as soon as possible**. Can you kindly respond back to email so we can
+> understand the timeframe of your intentions to return."*
+>
+> *"can you please confirm what leave you would like to access… Sick leave – **3.55 hours**.
+> Recreation leave – **54.16 hours**."*
+
+⭐⭐ **And the follow-up, `pack 02 p.169`, Wednesday 25 September 2024, 08:42 AEST:**
+> *"I tried contacting you at **08:32am** this morning on your mobile but unfortunately didn't reach
+> you. My call was to chat about the email below and requirements for your return to work."*
+
+## 9.3 ⭐⭐⭐ THE FINDING — AND IT IS BETTER THAN FORESIGHT
+
+> ⭐⭐⭐ **The dismissal does not correlate with knowing the review outcome. It correlates with MSH's
+> written belief, seven days after the rejection, that the claim was "CLOSED".**
+>
+> ⭐⭐⭐ **AND THAT BELIEF WAS WRONG. The application for review was received by the Regulator on
+> 16 SEPTEMBER 2024 — FOUR DAYS BEFORE Ms Taylor wrote it.**
+
+⇒ ⭐⭐⭐ **The entire return-to-work process, and the abandonment letter that followed it, were
+predicated on the proposition that the matter was over. It was not over. It was under review, and it
+remained under review on the day the employment ceased.**
+
+⭐⭐ **The mechanism is not sinister and does not need to be.** While a claim is pending the absence
+is protected. **Once rejected, an employer may treat the absence as unauthorised unless leave is
+approved or certificates are accepted.** ⇒ **The 13 September rejection is what made an abandonment
+letter possible. Twenty-five days later they sent one.**
+
+## 9.4 ⭐⭐⭐ THE SECOND FINDING — THE CERTIFICATE, AND WHO WAS SUPPOSED TO SEND IT
+
+**From his email to WorkCover of 10 October 2024, quoting the abandonment letter:**
+> *"…stating there had been no correspondence from me and that **you had not provided Queensland
+> Health with three workers' capacity certificates, the latest dated October 6, 2024**."*
+
+⭐⭐⭐ **Read the pronoun. "You" is WorkCover.** ⇒ ⭐⭐⭐ **The abandonment letter's own stated ground
+is that the certificates existed and that WORKCOVER had not passed them to Queensland Health.**
+
+| Date | |
+|---|---|
+| **20 Sep 2024** | ⭐ MSH states in writing: *"we do not have a current medical certificate for you"* and asks for one |
+| ⭐⭐ **6 Oct 2024** | ⭐⭐⭐ **A work capacity certificate is dated** |
+| ⭐⭐ **8 Oct 2024** | ⭐⭐⭐ **Employment ceases for "no evidence or valid reason for absence"** — **two days later** |
+
+⇒ ⭐⭐⭐ **He was dismissed for an undocumented absence which, on the employer's own account, was
+documented — to the wrong recipient.**
+
+## 9.5 ⚠⚠ THE RISK SIDE, STATED SQUARELY — HE MUST SEE THIS
+
+⛔⛔ **The employer's abandonment case is not weak on the documents currently held.**
+
+- **20 Sep** — a courteous written request for a certificate and a return timeframe.
+- **25 Sep** — a phone call at 08:32, unanswered, followed up in writing.
+- ⚠⚠ **NO REPLY FROM HIM APPEARS IN THE CORPUS between 25 September and 10 October.**
+- **8 Oct** — cessation.
+
+⚠ **Caution on that gap:** pack 02 is an export of **his own mailbox**, which contains his sent
+items, so the absence is meaningful — ⛔ **but it is not conclusive, and it must be checked against
+his actual sent folder before anyone relies on it either way.**
+
+⭐⭐ **Five things answer it, and they are all documented:**
+1. ⭐⭐⭐ The premise was false — **the claim was under review, not closed.**
+2. ⭐⭐⭐ **A certificate dated 6 October exists.** He was not ignoring the medical request.
+3. ⭐⭐⭐ **The letter itself blames WorkCover** for not forwarding the certificates.
+4. ⭐⭐ He was a person with an **acute psychological injury** whose claim had just been rejected.
+   **Eighteen days of non-response in that state is explicable and is the fact in issue.**
+5. ⭐⭐ ⚠ **WorkCover's claims officer went on EXTENDED LEAVE until August 2025** — her auto-reply of
+   10 October reads *"my email inbox will NOT be monitored or actioned."* ⇒ ⭐⭐⭐ **His notification
+   of the cessation to WorkCover went into an unmonitored mailbox. Nobody at WorkCover read it.**
+
+## 9.6 ⭐⭐⭐ AND THE THIRD FINDING — THE REVIEW OFFICER NEVER KNEW ANY OF IT
+
+**Review received 16 Sep · record closed 18 Sep · dismissal effective 8 Oct (business day 15 of 25)
+· notified 9 Oct 16:10 (day 16) · decision 22 Oct (day 25).**
+
+> ⭐⭐⭐ **The employer terminated the worker while a review of the employer's conduct was pending,
+> on a written belief that the claim was closed, and the reviewing officer decided fourteen days
+> later without knowing that either thing had happened.**
+
+⛔⛔ **State it exactly that way. Every element is documented. Never add why.**
+
+## 9.7 ⭐⭐ WHAT THIS DOES TO THE OCTOBER 2024 / JUNE 2026 PATTERN
+
+⭐⭐⭐ **It strengthens it, and it supplies the missing mechanism.**
+
+| | **Oct 2024** | **Jun 2026** |
+|---|---|---|
+| Documentary ground asserted | *"no correspondence"*, no certificates | No completed ECC |
+| ⭐ **Met?** | ⭐⭐ **Certificate dated 6 Oct existed; letter blames WorkCover for non-transmission** | ⭐⭐ **ECC provided 3 July — fit with restrictions** |
+| Position maintained anyway? | ✅ Employment ceased; access card demanded back | ✅ **Still excluded; unpaid since 13 July** |
+| ⭐⭐ **Predicated on a belief the process was over?** | ⭐⭐⭐ **YES — *"your Workcover claim has now closed"*, when it was under review** | ⚠ **Test this against 2026** |
+| Outcome | ⭐⭐ **Overturned. Returned 24 Feb 2025** | Live |
+
+## 9.8 ⛔⛔ DISCIPLINE
+
+- ⛔ **POST-ONSET.** Injury 18 June 2024; cessation 8 October 2024. ⛔⛔ **It cannot bear on
+  causation. Aggravation and prognosis only. Causation still stops at 24 October 2024.**
+- ⛔ **State the chronology, never the motive.** ⭐ The chronology is powerful precisely because it
+  is only a chronology.
+- ⭐⭐ **And when the Regulator runs *"job loss"* as a competing non-work stressor:** it was the
+  employer's own act, taken on a false premise, and **reversed**.
+
+## 9.9 ⭐⭐⭐ WHAT TO OBTAIN — REORDERED, AND ITEM 2 IS NEW AND URGENT
+
+1. ⭐⭐⭐ **The abandonment letter of 8 October 2024** (Mr Steven Johns, A/Executive Director). **Still
+   not held. The single most important missing document in the employment track.**
+2. ⭐⭐⭐ **HIS OWN SENT ITEMS, 20 SEPTEMBER – 9 OCTOBER 2024.** ⭐⭐ **Did he reply to Ms Taylor?
+   This is the pivot of the whole abandonment question and it is answerable today from his own
+   mailbox.**
+3. ⭐⭐⭐ **The three work capacity certificates, including the one dated 6 October 2024**, and proof
+   of what was sent to whom and when.
+4. ⭐⭐ **How MSH came to believe on 20 September that the claim was "closed"** — who told them, in
+   what terms, and whether they were told a review had been lodged on 16 September.
+5. ⭐⭐ **MSH's internal cessation file** — who decided, when, on what advice, and what they knew of
+   the review.
+6. ⭐ **WorkCover's record of what it transmitted to Queensland Health**, September–October 2024 —
+   ⭐⭐ **covered by the IP Act application at `RD69983-SYNTHESIS.md` §8.3 Route 1.**
