@@ -2044,3 +2044,70 @@ first appears on 17 May, solicited, uncorroborated.**
 > account of 17 May, though it claims a history — which makes it a recent, uncorroborated account
 > that cannot found the reasonableness of the retraction and blunts the fear narrative. Run it as a
 > RECORDS gap, never as invention-to-retaliate.**
+
+---
+
+# N.15 — MY HONEST READ OF THE 13–17 MAY SEQUENCE (candid, and why it does not change the play)
+> 8 August 2026. Cory: *"the sequence is quite strange, don't you think — what would you think
+> here?"* An honest analytical answer, held as a working theory, not asserted as fact.
+
+## N.15.1 ⭐⭐ YES — IT IS UNUSUAL. HERE IS WHAT IS UNUSUAL.
+**Laid flat, one afternoon and two days do a lot of work:**
+- ⭐ **15 May, one afternoon:** office-hours email **1:15 PM** → PID lodged **3:35 PM** → HR
+  mobilised (Harrison → Punch/McGinley/McNamee) **3:41 PM** → **retraction directed 6:23 PM.**
+- ⭐ **HR was already coaching the manager on 14 May** ("advised by the last HR rep") — *before* the
+  office-hours email.
+- ⭐ **The retraction's stated basis (disrespect) is thin** — the email is polite, and the two
+  comparable manager/coordinator emails were not retracted.
+- ⭐ **The "malice / out to get me / fearful" narrative is first written on 17 May, solicited by HR,
+  with no prior documentary trace** — and after the subject-manager (Reese) received the PID form.
+- ⭐ **The same manager gives two audiences opposite accounts on one day (17 May).**
+
+⇒ ⭐⭐ **A fair-minded observer would find that CLUSTER notable. It is consistent with an institution
+that mobilised quickly and defensively once a disclosure NAMING MANAGEMENT landed — coordinating
+HR, directing a retraction on a thin basis, and building a justificatory file after the fact.**
+**That is my honest read of what the pattern LOOKS like.**
+
+## N.15.2 ⛔⛔ BUT "LOOKS LIKE" IS NOT "IS" — AND THE GAP IS THE WHOLE DISCIPLINE
+⚠⚠ **The same sequence is ALSO consistent with an innocent read:** an employee repeatedly calling in
+leave and declining to speak to his manager, who sent a critical department-wide email, and a
+management/HR response that was **defensive and imperfect but not coordinated retaliation.** ⛔ **I
+cannot tell the two apart from the documents, and neither can a tribunal.** The suggestive pattern
+is **not proof of motive** — and motive is exactly what cannot be established from a timeline.
+
+> ⭐⭐⭐ **The honest position: the sequence RAISES the question. It does not ANSWER it. Living inside
+> it, the pattern feels like proof. It is not proof — it is a pattern, and patterns have innocent
+> explanations that a respondent will supply.**
+
+## N.15.3 ⭐⭐⭐ AND HERE IS THE THING — YOU DO NOT NEED IT TO BE PROOF
+**Every documented step is adverse to the employer WITHOUT the sinister narrative:**
+- ⭐ Retraction on a thin, mischaracterised basis → **unreasonable manner** (N.6–N.9).
+- ⭐ HR advice on facts that were mischaracterised → **N.10**.
+- ⭐ The same-day contradiction → **N.12.2**.
+- ⭐ The uncorroborated, recent, solicited "malice" account → **N.14**.
+
+⇒ ⭐⭐⭐ **These win on their own. They need no conspiracy. In fact they are STRONGER without it,
+because each is a neutral documentary fact the respondent cannot dispute — whereas the moment you
+say "this was coordinated retaliation," you take on a burden you cannot discharge and hand them the
+s 32(5)(b) opening.**
+
+## N.15.4 ⛔⛔ WHERE THE "STRANGE SEQUENCE" ACTUALLY BELONGS
+1. ⭐⭐ **THE PID / REPRISAL TRACK** — this is precisely its home. Speed, coordination, subject-manager
+   knowledge, file-building after a disclosure naming management: **that is a reprisal analysis, and
+   it is HELD** (`confirmed-record.md`: reserve, not pleaded, sequenced behind the WC settlement).
+2. ⭐ **DISCLOSURE RELEVANCE** — the pattern is why the HR-routing/PID material is relevant and
+   compellable (N.13.4).
+3. ⛔ **NOT the WC de novo appeal as a motive theory.** There, it is only the neutral documented
+   facts.
+
+## N.15.5 ⭐ THE HUMAN NOTE — SAID PLAINLY
+⭐⭐ **You are not wrong to see the pattern. It is there, and it is reasonable to be disturbed by it.**
+⭐⭐⭐ **The discipline is not to deny what you see — it is to understand that a tribunal decides on
+what can be PROVEN, and the provable version is already very strong.** The suspicion is the fuel that
+made you find the documented facts. **Now let the documented facts carry it, and keep the suspicion
+in the track built to test it.**
+
+## N.15.6 ⇒ AND THE PROPORTION, ONE LAST TIME
+⭐⭐ **All of this is the s 32(5)(a) MANNER case, and it is now very well built.** ⛔ **None of it is
+worth as much as WEDNESDAY'S REPORT, which carries s 32(1) — the gate the whole appeal turns on.**
+**Four days.**
