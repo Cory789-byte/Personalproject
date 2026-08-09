@@ -351,3 +351,78 @@ alleges nothing, names nobody, and cannot be turned around on him.**
 ⚠ **Note the age:** the Form 23 is dated **17 December 2024**, served under the directions order of
 3 December 2024. ⭐ **The 11 June 2026 disclosure is NOT a further Form 23** — it is correspondence.
 ⇒ **The December 2024 list remains the Regulator's List of Documents in this appeal.**
+
+---
+
+# PART 7 — "THE PRIVILEGED CORRESPONDENCE *IS* THE CONFLICTED FIRM DRAFTING IT"
+> 8 August 2026. Cory's inference from Part 2.
+
+## 7.1 ⭐ WHERE HE IS RIGHT
+
+**If the Regulator engaged a firm on review 69983, there is correspondence, and the advice content
+would very likely be privileged.** ⭐ **Correct on both.**
+
+## 7.2 ⛔⛔ WHERE THE INFERENCE BREAKS — AND IT IS STRUCTURAL, NOT EVIDENTIAL
+
+| | |
+|---|---|
+| **What Part 2 could show** | ⭐ **AN ENGAGEMENT.** That the Regulator obtained legal assistance, from whom, when |
+| ⛔⛔ **What it can NEVER show** | ⛔⛔⛔ **A CONFLICT.** A conflict requires the firm to have been **ALSO acting for WorkCover on this claim.** ⭐⭐⭐ **Part 2 is the REGULATOR'S list of the REGULATOR'S documents. The firm's other clients are not in it, are not in anyone's disclosure, and are not discoverable from any list the Regulator will ever serve** |
+
+⇒ ⭐⭐⭐ **An engagement by the Regulator is the LAWFUL explanation** — Whole-of-Government panel,
+categories including workplace and industrial and public and administrative law, term covering
+October 2024. ⛔ **Finding the correspondence would tend to CONFIRM that, not displace it.**
+
+## 7.3 ⭐⭐⭐ THE DOCTRINE HE IS REACHING FOR IS REAL — AND IT HAS A NAME
+
+> ⭐⭐⭐ ***Attorney-General (NT) v Kearney* (1985) 158 CLR 500; [1985] HCA 60**
+>
+> **Legal professional privilege does NOT attach to communications made in furtherance of an
+> ABUSE OF STATUTORY POWER.** It sits alongside the crime/fraud exception (*R v Bell; Ex parte
+> Lees* (1980) 146 CLR 141). ⭐ **Privilege is not a shield for the improper exercise of a public
+> power.**
+
+⭐⭐ **Conceptually that is EXACTLY his point.** A statutory decision-maker's communications, if made
+to further an abuse of the s 545 power, would not be privileged.
+
+## 7.4 ⛔⛔⛔ AND THE THRESHOLD DEFEATS HIM — IT IS A BOOTSTRAP
+
+> ⛔⛔⛔ **The exception requires PRIMA FACIE EVIDENCE of the improper purpose BEFORE privilege is
+> displaced.**
+>
+> ⭐⭐⭐ **You cannot use the document to prove the thing you must prove in order to get the
+> document.**
+
+⇒ ⛔ **He has a document-management profile.** That is not prima facie evidence of an abuse of
+statutory power, and no court would displace privilege on it. ⭐⭐ **The doctrine fits the shape of
+the suspicion and cannot be reached from where he stands.**
+
+## 7.5 ⭐⭐⭐ THE ROUTE THAT ACTUALLY WORKS — DON'T FIGHT THE PRIVILEGE
+
+⭐⭐⭐ **THE FACT OF AN ENGAGEMENT IS NOT PRIVILEGED.** Privilege protects **confidential
+communications made for the dominant purpose of legal advice.** ⛔ **It does not protect *"did you
+retain external assistance, and under which arrangement"*.**
+
+⇒ ⭐⭐⭐ **The Regulator can answer the neutral question in one sentence WITHOUT WAIVING ANYTHING.**
+⭐⭐ **That is why the question at `HOPGOODGANIM-QUESTION.md` §7.8 is a better instrument than the
+Part 2 request: it asks for the non-privileged fact directly, instead of trying to prise open a
+privileged document.**
+
+## 7.6 ⚠⚠ AND THE PRACTICAL WARNING — THE REQUEST WORKS BECAUSE IT IS BORING
+
+⭐⭐⭐ **"You referred to a Part 2. Please send it."** ⭐ **That is unanswerable because it is
+uninteresting.**
+
+⛔⛔ **The moment it carries the theory — *"I believe Part 2 contains correspondence with a
+conflicted firm"* — three things happen at once:**
+1. **It becomes a written allegation** by him, on the file, that he cannot prove.
+2. **It invites a lawyered response** and a privilege claim asserted far more firmly than it
+   otherwise would be.
+3. ⛔⛔ **It puts the theory in front of the Commission**, which is the one place it must not go.
+
+## 7.7 ⭐ AND BE READY FOR THE ANSWER TO CLOSE IT
+
+⚠ **If Part 2 comes back listing *"advice from [firm], [date], whole-of-government arrangement"* —
+that is the LAWFUL explanation, confirmed.** ⭐⭐ **He should expect that outcome and should treat it
+as a good one: the question answered, the file closed, and the reliance on the decision's favourable
+findings intact.**
