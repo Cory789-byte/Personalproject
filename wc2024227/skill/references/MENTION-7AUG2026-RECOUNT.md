@@ -1844,3 +1844,77 @@ substance is dropped; the focus shifts to the messenger.**
 > You told HR there would never be a time you weren't in the office around those hours — yet your
 > own email to the team that morning says your hours 'can vary.' Both are 17 May, correct?"*
 ⛔ **Onus on them (*Prizeman*); test the hearsay and the contradiction — do not allege malice.**
+
+---
+
+# N.12 — ⭐⭐⭐ THE TIMING OF CHLOE'S HR EMAIL AGAINST EVERYTHING ELSE, AND HOW IT WAS WRITTEN
+> 8 August 2026. Cory: *"look at the timing of this email against everything else and how she wrote
+> it."* All times AEST, from the Regulator's own disclosure + the SOFC + the 9A.
+
+## N.12.1 THE MINUTE-LEVEL SEQUENCE, 13–17 MAY 2024
+| Date/time | Event | Source |
+|---|---|---|
+| ⭐⭐⭐ **Mon 13 May** | **Cory lodges the PID** (ESU corrupt-conduct complaint re Taylor & Reese) | 9A 1(e); Form 24 admits |
+| Mon 13 May | Cory calls in unwell before his 1500 shift; **declines to be transferred to Chloe**; Chloe calls his mobile | Chloe→HR 17 May |
+| Mon 13 May 4:29 PM | Ellen's on-call/business-hours email to the team — **not retracted** | FRMS |
+| ⭐ **Tue 14 May** | Chloe documents "call process"; sends email + **follow-up text "advised by the last HR rep"** | Chloe→HR 17 May |
+| ⭐⭐ **Tue 14 May** | ⭐⭐ **HR IS ALREADY COACHING CHLOE** (the "last HR rep" advice) — **before Cory's email** | Chloe→HR 17 May |
+| Wed 15 May ~1:00 PM | Cory calls in leave, asks to relay he wants Annual Leave | Chloe→HR 17 May |
+| ⭐ **Wed 15 May 1:15 PM** | **Cory's office-hours email** | FRMS |
+| ⭐⭐⭐ **Wed 15 May 6:23 PM** | ⭐⭐⭐ **Reese directs the RETRACTION — "sought HR advice"** | SOFC; FRMS |
+| Wed 15 May 7:09 PM | Cory's reply | FRMS |
+| ⭐⭐⭐ **Fri 17 May 9:30 AM** | ⭐⭐⭐ **Chloe → TEAM: "my office hours CAN VARY… I will advise of any change"** | FRMS |
+| ⭐⭐⭐ **Fri 17 May 1:20 PM** | ⭐⭐⭐ **Chloe → HR (McNamee) "AS REQUESTED": "out to get me / malice / fearful / I'm always available"** | FRMS |
+
+## N.12.2 ⭐⭐⭐ WHAT THE TIMING REVEALS — FOUR THINGS
+
+### (1) ⭐⭐⭐ THE "MALICE" ACCOUNT WAS WRITTEN *AFTER* THE RETRACTION — AND HR ASKED FOR IT
+**The retraction was directed 15 May 6:23 PM. Chloe's "out to get me/malice/fearful" account is
+17 May 1:20 PM — TWO DAYS LATER — and expressly "as requested" by HR.**
+⇒ ⭐⭐⭐ **It is a SOLICITED, POST-ACTION account — a document created for the HR file AFTER the
+adverse action, not a contemporaneous report of a genuine threat.** ⭐⭐ **Two consequences:**
+- ⭐⭐⭐ **The retraction CANNOT have been justified by it — the retraction predates it by 2 days.**
+  (Sharpens N.10: so what WAS the 15 May HR advice based on?)
+- ⭐⭐ **Its weight as evidence of a real threat is low** — a retrospective, requested, self-serving
+  narrative, not a spontaneous safety report.
+
+### (2) ⭐⭐⭐ THE SAME-DAY, TWO-AUDIENCE CONTRADICTION (17 MAY)
+> ⭐⭐⭐ **9:30 AM — to the TEAM: my hours "can vary." 1:20 PM — to HR: there would "never be a time…
+> I wouldn't be in the office."** **Same day. Four hours apart. Opposite propositions.**
+⇒ ⭐⭐ **To the team she CONCEDES Cory's point (variable hours); to HR she DENIES it and calls him
+malicious for raising it.** ⛔ **This is not a slip — it is two stories for two audiences on one
+day, and both are in her own hand.**
+
+### (3) ⭐⭐ HR–CHLOE COORDINATION PREDATES CORY'S EMAIL
+**14 May: Chloe is "advised by the last HR rep."** ⇒ ⭐ **The HR–manager axis was already active on
+14 May — before the 15 May office-hours email.** ⚠ **Documentary fact only; no motive inferred.**
+
+### (4) ⚠ THE ADVERSE CLUSTER FOLLOWS THE PID — BUT THIS IS PID-TRACK
+**PID 13 May → call-process documentation 14 May → retraction 15 May → solicited adverse HR account
+17 May.** ⛔⛔ **The clustering-after-PID is a REPRISAL inference and belongs to the PID track ONLY**
+(and the SOFC's "Reese unaware of PID" answers the motive there). ⛔ **Do NOT run it as reprisal in
+the WC track.** ⭐ In the WC track it is only: post-action, solicited, contradicted, low-weight.
+
+## N.12.3 ⭐⭐ HOW SHE WROTE IT — THE CONSTRUCTION
+- ⭐⭐ **A day-by-day built narrative** (Mon/Tue/Wed) engineered to portray Cory as uncooperative
+  (repeatedly "did not want to speak to me") and escalating to *"malice… out to get me… fearful."*
+- ⭐⭐⭐ **Written "as requested" for the HR file** — an **advocacy/justification document**, not a
+  contemporaneous operational email. ⭐ That framing is itself the tell: it is constructed to support
+  a conclusion already reached (the 15 May retraction).
+- ⭐⭐ **It never mentions the PID and never engages the clinical concern** (pager/pathology contact)
+  — same drop-the-substance pattern (N.5): the account is entirely about the messenger and her
+  feelings.
+
+## N.12.4 ⛔⛔ DISCIPLINE
+- ⭐⭐ **USE (WC track, documentary):** the "malice/threat" account is **post-action, solicited by
+  HR, internally contradicted the same day, and could not have justified the retraction that
+  preceded it.** Onus on them (*Prizeman*).
+- ⛔⛔⛔ **DO NOT run "they built a file to destroy me after my PID."** That is rule 1 + s 32(5)(b) +
+  the PID track, all at once. **The clustering-after-PID stays PID-track and is not voiced in the WC
+  appeal.**
+- ⚠ **The "declined to speak to my manager" material is STILL a live risk** (N.11.4) — the timing
+  does not cure it. ⭐ Handle by explaining the conduct (calling in leave, unwell, a claim developing)
+  — not by attacking Chloe.
+- ⭐ **Cross (Chloe):** *"Your account to HR is dated 17 May, two days after the retraction, and you
+  wrote it because HR asked you to — correct? That morning you told the team your hours 'can vary';
+  that afternoon you told HR you're always in the office. Both 17 May?"*
