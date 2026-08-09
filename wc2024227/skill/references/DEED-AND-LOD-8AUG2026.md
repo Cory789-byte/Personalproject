@@ -510,3 +510,77 @@ was never disclosable in this proceeding.**
 3. ⭐ **The conflict question, if it ever arises, belongs to the LEGAL SERVICES COMMISSION** — not
    the Commission, not this appeal. ⛔ **And it needs a fact he does not have and cannot obtain: a
    concurrent retainer for WorkCover on this claim.**
+
+---
+
+# PART 9 — "IT SHOULD BE RELEVANT — IT IS A REVIEW OF THE EVENTS, AND I NOMINATED AGGRAVATION"
+> 8 August 2026. Three propositions. **Two are right. The third is the trap.**
+
+## 9.1 ⭐ "IT IS A REVIEW OF THE EVENTS" — CORRECT, AND ALREADY IN
+
+**The review decision IS relevant and IS in the proceeding.** Contents **admitted at Form 24 ¶37**;
+its findings are the strongest thing he owns. ⛔ **Nobody disputes that.**
+
+> ⭐⭐⭐ **THE DISTINCTION IS CONTENT versus PROVENANCE.**
+>
+> ⭐ **CONTENT** — the findings, the recitation of events, the s 32(1) finding, the unreasonable
+> management action finding: **relevant, admitted, and his to use.**
+> ⛔ **PROVENANCE** — which workstation produced the Word file: **bears on nothing the Commission
+> must decide.** It does not touch whether he was injured on 18 June 2024, whether employment was a
+> significant contributing factor, or whether the management action was reasonable.
+
+## 9.2 ⭐⭐ "I NOMINATED AGGRAVATING FACTORS" — ALSO CORRECT
+
+**s 32(3)(b): an aggravation IS an injury.** **s 32(4):** only to the extent of the aggravation's
+effects. ⭐ **Form 20 ¶42 already carries the 12 and 16 July 2024 meetings as an aggravation
+point.** ⭐⭐ **The limb is real and it is pleaded.**
+
+## 9.3 ⛔⛔⛔ BUT APPLIED TO THE REVIEW, THE AGGRAVATION LIMB IS SELF-DEFEATING
+
+> ⛔⛔⛔ **s 32(5)(c): "injury" does not include a psychiatric or psychological disorder arising out
+> of — *"action by the Regulator or an insurer in connection with the worker's application for
+> compensation."***
+
+⇒ ⭐⭐⭐ **THE ONE CATEGORY OF AGGRAVATION THE ACT EXPRESSLY REFUSES TO COMPENSATE IS AGGRAVATION BY
+THE REGULATOR OR THE INSURER.**
+
+**So if he says the review process aggravated his injury:**
+1. ⛔ **The aggravation is excluded by s 32(5)(c). He recovers nothing for it.**
+2. ⛔⛔ **And he has invited the Regulator to examine the entire post-injury period** — the
+   dismissal, the litigation, the psychiatric material — **looking for anything that shifts
+   causation away from 18 June 2024.**
+3. ⛔⛔⛔ **He would have opened s 32(5)(c) himself.** Standing rule, and it exists for this reason.
+
+## 9.4 ⭐⭐⭐ THE CLEAN LINE
+
+| Aggravation by… | Status |
+|---|---|
+| ⭐⭐ **THE EMPLOYER** — the 12/16 July meetings, the exclusion since June 2026 | ⭐⭐ **AVAILABLE.** s 32(5)(c) does not touch employer conduct |
+| ⛔⛔ **THE REGULATOR or THE INSURER** — the review process, the decision, how it was drafted | ⛔⛔⛔ **STATUTORILY EXCLUDED by s 32(5)(c)** |
+
+⚠ **And note the October 2024 dismissal is now separately constrained** by the deed's
+non-disparagement clause — Part 1.7(a).
+
+## 9.5 ⭐⭐⭐ BUT HIS INSTINCT ABOUT "THE EVENTS" IS RIGHT — AND IT POINTS SOMEWHERE USEFUL
+
+⭐⭐⭐ **The events material IS directly relevant, and it is ALREADY ON THE REGULATOR'S OWN LIST,
+available for inspection at 347 Ann Street:**
+
+| Item | Why it is relevant |
+|---|---|
+| ⭐⭐⭐ **34 — Communications report, "various dates"** | ⭐⭐ **Broader than the "as at 18 September 2024" version recited in the decision. May extend into October** |
+| ⭐⭐⭐ **39 — WorkCover reasons for decision, 25 July 2024** | ⭐⭐ **Unexplained. A second decision seven weeks before the rejection** |
+| ⭐⭐ **40 — Employer extension request, 2–3 Sept** | ⭐⭐ **The procedural asymmetry: they got an extension, he got two business days over a weekend** |
+| ⭐⭐⭐ **41 — WorkCover notifies the employer, 13 Sept** | ⭐⭐⭐ **The question he asked: did MSH know first** |
+| **35 — Payments/recoveries report** | What was paid and when |
+
+⇒ ⭐⭐⭐ **Point the relevance argument AT THE EVENTS FILE, which is listed and inspectable — not at
+who typed the reasons, which is neither.**
+
+## 9.6 ⭐ THE ONE CIRCUMSTANCE THAT WOULD CHANGE IT
+
+⚠ **If the Regulator ever puts the review decision's REASONING in issue** — relies on it, or asserts
+that the delegate carefully considered something — **provenance could become relevant and privilege
+could be waived.**
+⛔ **They will not need to. The hearing is de novo, so their case is built on evidence, not on her
+reasons.** ⭐ **Watch for it. Do not provoke it.**
