@@ -107,3 +107,52 @@ word; his CASE must not depend on it.**
 - ⚠ **If not:** do not volunteer it. Say nothing; answer only if raised.
 - ⛔ **Either way: never REPEAT the accusation, never argue it was TRUE.** Truth of "fraud" is not
   a road he goes down — that is the PID/criminal territory rule 2 keeps out.
+
+---
+
+## ⭐⭐⭐ THE CONSCIENTIOUS FRAME — "I COULD NOT KEEP SILENT ABOUT THE CLINICAL RISK"
+> Cory: *"the report and the clinical context was too much for me to keep silent anymore."*
+> ⭐⭐ This is the true motivation, and it is an ASSET — but it does specific work and only that work.
+
+### WHAT IT LEGITIMATELY DOES (three clean uses)
+1. ⭐⭐⭐ **CREDIBILITY / CHARACTER.** It rebuts the respondent's likely framing that he was a
+   difficult, vexatious or self-interested complainant. **A switchboard operator raising that
+   critical pathology results were not reaching doctors is acting in the interest of PATIENTS, not
+   himself.** ⭐ This is the single best answer to "troublemaker."
+2. ⭐⭐ **PID GOOD FAITH.** A protected disclosure must be made honestly/in good faith about a danger
+   to health or safety. **"I could not stay silent about the clinical risk" IS the good-faith,
+   public-interest basis for the 13 May PID.** (PID track.)
+3. ⭐ **EXPLAINS THE CONDUCT.** It explains why he raised things repeatedly and copied the team —
+   not agitation, but a conscientious response to an unresolved clinical-contact failure.
+
+### ⛔⛔ WHAT IT MUST NOT BECOME
+- ⛔⛔ **NOT "I was persecuted for speaking up."** That is the reprisal/conspiracy narrative (rule 1).
+  The reprisal is run ONLY as the ADMITTED differential-treatment fact (the retraction), never as a
+  motive story.
+- ⛔⛔ **NOT the CAUSE of the injury framed as his PERCEPTION.** s 32(5)(b). His injury arose from the
+  CONDUCT and the CONDITIONS (low job control, unavailability, non-consultation, systems failing,
+  being told to retract) — not from his belief that he was righteous or they were wrong.
+- ⛔ **NOT a re-argument that the fraud/clinical-cover-up was TRUE.** Rule 2.
+
+### ⭐⭐⭐ WHERE IT ACTUALLY FITS THE INJURY — AND WHO SAYS IT
+⭐⭐ **There is a legitimate causal role, but it is the PSYCHIATRIST's to articulate, not Cory's:**
+> **Being placed in a position of witnessing a foreseeable clinical/patient-safety risk, raising it
+> repeatedly, and being unable to resolve it because of non-engagement and low job control** is a
+> recognised occupational stressor (moral distress / low control–high demand). ⇒ ⭐⭐⭐ **This belongs
+> in the 12 August Report B letter of instruction as CONTEXT the psychiatrist should understand** —
+> the clinical-conscientiousness is part of WHY the workplace conditions injured him. ⛔ **Cory does
+> not diagnose it; the report does.**
+
+### ⭐ THE HUMAN POINT, KEPT HONEST
+⭐⭐ **His conscientiousness is not a liability to be managed — it is the truest and most sympathetic
+fact in the case.** The discipline is not to hide it; it is to **channel it**: credibility and PID
+good faith (yes), the injury mechanism via the report (yes), a persecution narrative (no), his
+perception as the cause (no). ⭐⭐⭐ **"I could not stay silent because patients were at risk" is the
+sentence a fair tribunal remembers — said once, plainly, and never turned into an accusation.**
+
+### ⇒ ACTION
+- ⭐⭐⭐ **Add to the 12 Aug Report B letter of instruction:** the clinical-risk context (MASPER /
+  pathology results not handed over) and his conscientious response, as **background the
+  psychiatrist should weigh** in explaining the injury — framed as conditions, not motive.
+- ⭐ **In his own evidence:** one plain statement of why he raised it (patient safety), then straight
+  to the documented facts. No embellishment.
