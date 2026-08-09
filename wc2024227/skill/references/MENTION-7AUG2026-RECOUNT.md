@@ -1769,3 +1769,78 @@ the SOFC "does not admit" the reprisal characterisation — consistent: acts adm
 
 ⛔ **DISCIPLINE: run it as "advice on mischaracterised facts," onus on them (*Prizeman*). NOT "Reese
 and HR colluded to punish me" (rule 1).**
+
+---
+
+# N.11 — ⭐⭐⭐/⚠⚠ CHLOE'S 17 MAY EMAIL TO HR ("OUT TO GET ME") — A DOUBLE-EDGED DOCUMENT
+> 8 August 2026. Cory: *"Chloe wrote HR that I was out to get her — maybe out to get her office
+> hours so I can contact her like she directed, so clinical staff can contact her… even relay her
+> hours to clinic staff."* ✅ FOUND: Chloe Taylor → **Adriana McNamee (HR)**, **Fri 17 May 2024
+> 1:20 PM**, FW: Office Hours and Departmental Directives (Regulator's disclosure, FRMS bundle).
+
+## N.11.1 WHAT CHLOE WROTE TO HR (verbatim key lines)
+> *"I have had been advised from staff verbally telling me that he has told them **he is out to get
+> me** and for me to watch/be careful of Cory… It is not unknown within the switchboard of Corys
+> behaviour and **malice towards me**… I am currently **experiencing high anxiety** interacting with
+> this staff member and am **fearful** as to what his next actions maybe."*
+> …and: *"There would never be a time unless I am on emergent leave that I wouldn't be in the office
+> around the times Cory had called."*
+
+## N.11.2 ✅ WHERE IT HELPS — THREE CLEAN, DOCUMENTARY POINTS
+1. ⭐⭐⭐ **"OUT TO GET ME" IS UNSOURCED DOUBLE HEARSAY.** Chloe did not witness it. She says *staff
+   verbally told her* that *Cory told them* — no named source, no email, nothing. ⇒ **As proof of
+   hostile motive it has NO probative weight, and it is unprovable.** ⭐⭐ **It is a
+   CHARACTERISATION, not evidence.**
+2. ⭐⭐⭐ **THE OBJECT REFUTES THE "MALICE."** Cory's point is exactly right: the thing he sought was
+   her **office hours** — which he needed to **contact her as SHE directed** (her own email: staff
+   calling in leave must contact her *"via switch, office or my mobile"*) and so **clinical staff
+   could reach her.** ⇒ **The request had an operational/clinical object, not a personal one.**
+3. ⭐⭐⭐ **CHLOE CONTRADICTS HERSELF THE SAME DAY.** To HR (1:20 PM) she says she is essentially
+   always available. But her email TO THE TEAM at **9:30 AM the SAME DAY** (N.4.3) says *"my office
+   hours can vary… I will be sending an email to advise of any change to my office hours."* ⇒ ⭐⭐
+   **Her own 17 May team email concedes the variability she denied to HR three hours later —
+   documenting the very problem Cory raised.**
+
+## N.11.3 ⭐⭐ THE PATTERN — AND THE LINK TO THE HR ADVICE (N.10)
+⭐⭐⭐ **This email IS the "what was put to HR" answer from N.10.3.** The input to HR was not the
+polite office-hours email — it was Chloe's *"out to get me / malice / I'm fearful"* framing. ⇒ **The
+HR advice and the retraction (N.10) were built on an unsourced hostility narrative, not on the
+actual conduct.** ⭐ **And note the pattern (N.5): Chloe's HR email is entirely about Cory's alleged
+hostility and her feelings — NOT one word on whether clinical staff could reach her. The clinical
+substance is dropped; the focus shifts to the messenger.**
+
+## N.11.4 ⚠⚠ WHERE IT HURTS — BE HONEST, THIS DOCUMENT CUTS BOTH WAYS
+⛔⛔ **The SAME email arms the respondent, and Cory must see this clearly:**
+1. ⚠⚠ **"He did not want to speak to me" (×3).** Chloe documents Cory repeatedly declining to speak
+   to his manager when calling in leave. **The respondent will run this as HE was uncooperative /
+   avoidant** — and it is in his own conduct, contemporaneously recorded.
+2. ⚠⚠ **CHLOE'S "ANXIETY / FEARFUL" NARRATIVE.** She casts HERSELF as the injured party. ⛔⛔ **This
+   is a COMPETING-VICTIM narrative the respondent can use to muddy causation and to frame Cory as
+   the aggressor.** ⚠ **It is also a s 32(5)(b) trap magnet — do NOT let the case become "who was
+   hostile to whom."**
+
+## N.11.5 ⛔⛔ DISCIPLINE — THE SHARPEST ON THE FILE
+- ⭐⭐ **USE (narrow, documentary):** *(a)* the "out to get me" is unsourced double hearsay with no
+  probative value; *(b)* the employer acted adversely (retraction) on that unsourced characterisation
+  without investigating or putting it to Cory — **unreasonable manner (s 32(5)(a)), mirroring N.8**;
+  *(c)* Chloe's own 17 May team email contradicts her "always available" claim to HR.
+- ⛔⛔⛔ **NEVER ADOPT "SHE WAS OUT TO GET ME / SHE LIED TO HR TO DESTROY ME."** That is the
+  conspiracy framing (rule 1) AND the perception limb (s 32(5)(b)) in one — the exact trap. **Run
+  the employer's PROCESS as unreasonable (acted on hearsay), never their MOTIVE as malicious.**
+- ⛔⛔ **DO NOT PROVOKE A HOSTILITY CONTEST.** Chloe's "fear/anxiety" narrative is bait. ⭐ **Cory's
+  injury arose from the CONDITIONS (unavailability, non-consultation, clinical-contact failure, the
+  retraction), NOT from a personal feud.** Keep it there.
+- ⚠ **Flag for the 12 Aug report:** the respondent may deploy Chloe's "she was anxious/fearful of
+  Cory" as a competing narrative. ⭐ **The psychiatrist should understand the FULL context** — that
+  Cory's requests were operational and values-based — **so the injury is not mischaracterised as a
+  two-way interpersonal conflict.**
+
+## N.11.6 ⭐ DISCLOSURE + CROSS TARGETS
+**Disclosure (Matheson list) — directly relevant to reasonableness of the 1(f) action:**
+> *"All communications between Ms Taylor and Human Resources (including Ms Adriana McNamee)
+> concerning the appellant and the email of 15 May 2024."*
+**Cross (Chloe):**
+> *"You told HR staff said he was 'out to get' you. Which staff? On what date? Did you record it? …
+> You told HR there would never be a time you weren't in the office around those hours — yet your
+> own email to the team that morning says your hours 'can vary.' Both are 17 May, correct?"*
+⛔ **Onus on them (*Prizeman*); test the hearsay and the contradiction — do not allege malice.**
