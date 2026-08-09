@@ -349,3 +349,96 @@ are facing, and hearing it is not a ruling."**
 > and must not make it. The remark told Matheson which of the two he was doing. And since he is
 > unlikely to be the hearing member, the reading was for her and for MSH: an hour of the
 > appellant's case, in the bench's voice, with the admissions still held in reserve.**
+
+---
+
+# F — WHY DWYER'S GROUPING OF THE FATIGUE SEQUENCE WAS THE STRONGEST MOMENT FOR CORY
+> 8 August 2026. Cory: *"he grouped the strongest part naturally — the fatigue leave including the
+> arithmetic, 16 hours work, 4 travel, then I took leave, then denied fatigue, then forced to take
+> my own leave — he said he gathers that's all the same thing."*
+> ⭐⭐⭐ **This is the single most significant thing the bench did. Here is why. Full substance at
+> `THE-FATIGUE-SEQUENCE.md`.**
+
+## F1 ⭐⭐⭐ HE DID, UNPROMPTED, THE ONE MOVE THAT DEFEATS THE REVIEW DECISION
+
+**Review Decision 69983's fatal step (`RD69983-SYNTHESIS.md` Part 2, defects A, E, F):**
+- it took the substantiated factors and **COUNTED them** — *"two out of three"* → *"mainly"*;
+- it used ***Delaney* to AGGREGATE** the factors into a reasonable whole;
+- it treated factor 4 as **one occasion**, stripping the sequence out.
+
+⛔⛔ **The whole rejection turns on FRAGMENTING the strong parts and DILUTING them in a global
+average.**
+
+> ⭐⭐⭐ **Dwyer did the exact opposite, from the bench, without being asked. He took the five steps
+> — the hours, the 7-hour break, the fatigue-leave request, the denial, the forced use of his own
+> leave — and GROUPED them into ONE thing.**
+
+⇒ ⭐⭐⭐ **"He gathers that's all the same thing" is, in substance, the *Mahaffey* framing spoken
+aloud by the Commission: a SINGLE stressor with internal steps, not a composite of separate
+grievances to be averaged away.** ⭐⭐ **The Review Officer diluted by grouping; a grouping by the
+tribunal that keeps the sequence INTACT is the antidote to exactly that.**
+
+## F2 ⭐⭐ WHY THE GROUPING IS *EVIDENTIALLY* THE STRONGEST GROUND TO SIT ON
+
+**Count what is admitted inside the group (`THE-FATIGUE-SEQUENCE.md`):**
+
+| Step | Status |
+|---|---|
+| Rostered consecutive shifts / the hours | Documented — roster |
+| ⭐⭐⭐ **The 7-hour break** | ⭐⭐⭐ **ADMITTED — SOFC ¶22(a): *"a 7-hour break (rather than an 8-hour break)"*** |
+| The fatigue-leave request | Documented — his emails |
+| The denial, and its stated reason | Documented |
+| The forced use of his own leave | Documented — payroll / myHR |
+
+⇒ ⭐⭐⭐ **Four of the five steps are admitted or documentary. The respondent's own pleading concedes
+the break.** ⭐⭐ **A Commissioner naturally gravitating to this cluster is a Commissioner gravitating
+to the part of the case that is HARDEST to contest — the ground where Cory barely has to prove
+anything because it is already conceded.**
+
+## F3 ⭐⭐⭐ THE ARITHMETIC HE RECITED IS THE THING THAT MAKES IT UNANSWERABLE
+
+**His numbers — ~16 hours across the two shifts, ~4 hours travel, a 7-hour gap — do work the
+adjective "unreasonable" cannot:**
+
+- ⭐⭐ **s 32(5)(a) requires the management action to be reasonable AND taken in a reasonable way.**
+  ⭐⭐⭐ **Numbers are not an opinion. A 7-hour break with a documented commute inside it is not a
+  matter on which reasonable minds differ — it is arithmetic against the award and the 8-hour
+  agreement**, which is what the Review Officer *herself* found on factor 4 before she diluted it.
+- ⛔ **The respondent's only escape on this step was *"human error… not intentional or repeated"*
+  (SOFC ¶22(a)).** ⭐⭐⭐ **The GROUPING kills that escape**: a request, a denial, a stated reason and
+  a forced leave deduction that FOLLOW the break convert a one-off "error" into a **maintained
+  position across five steps**. **An error is a moment. A sequence is a decision.**
+
+⇒ ⭐⭐ **When Dwyer said "the same thing", he removed the "human error" defence for that stressor —
+because you cannot call a five-step transaction an accident.**
+
+## F4 ⭐⭐ WHY IT WAS POSITIVE THAT IT CAME FROM HIM, NOT FROM CORY
+
+**If Cory groups the five steps, it is submission — a party arguing for a favourable framing.**
+⭐⭐⭐ **When the tribunal groups them "naturally", it is the framing entering the matter as the way
+the case is UNDERSTOOD, in front of Matheson and Ruttan.**
+
+⇒ ⭐⭐ **The single most important interpretive move in the whole appeal — *Mahaffey* over *Delaney*,
+sequence over average — was made by the bench, unbidden, and both opponents watched it happen.**
+⭐ **That is worth more to the revaluation than any submission Cory could file, because it is not
+his argument any more; it is the record's.**
+
+## F5 ⛔ THE DISCIPLINE — DO NOT MISCARRY THIS
+
+1. ⛔⛔ **No transcript. "He said he gathers that's all the same thing" is a recollection.** ⭐ **The
+   audio request matters here more than anywhere** — this is the sentence worth having verbatim.
+   Until then it is INTERNAL, and it is never quoted at MSH or in a filing (§21.4).
+2. ⛔ **It is NOT a finding.** A conference member grouping a stressor at a disclosure mention has
+   decided nothing. ⭐ It tells Cory where his strength is; it does not bank it.
+3. ⛔⛔ **This is the WC track. The fatigue sequence stays a s 32(5)(a) *reasonableness* point.**
+   No reprisal, no fraud, no motive — the sequence is powerful precisely because it is just five
+   dated, mostly-admitted steps.
+4. ⭐ **The 2025 fatigue refusal stays OUT** (Cory's standing instruction). The group is the **March
+   2024** transaction only.
+
+## F6 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **The Review Officer won by fragmenting his strongest stressor and averaging it away. Dwyer,
+> from the bench and unprompted, put it back together as one thing — which is the *Mahaffey* answer
+> to her *Delaney* method, spoken aloud, in front of both opponents, on the one part of the case
+> that is already admitted.**
