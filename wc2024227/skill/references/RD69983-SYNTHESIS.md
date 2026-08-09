@@ -161,3 +161,104 @@ and the choice is obvious: TAKE THE RELIANCE.**
 report on WEDNESDAY 12 AUGUST**, which is what carries s 32(1) and the competing causes. **Four
 days.**
 </content>
+
+---
+
+# PART 8 — TRACING MATTER 2440758: WHERE IT COULD SURFACE, AND HOW TO LOOK
+> 8 August 2026. Cory: *"for the specific number that the firm created how would i see if that
+> number was in communication with workcover."*
+
+## 8.1 ⛔ FIRST — WHAT THE NUMBER IS AND IS NOT
+
+⛔⛔ **A law firm matter number is a sequential internal file number. It does not encode the client.**
+**2440758 does not say "WorkCover", "OIR" or anything else. Reading the number tells you nothing.**
+
+⭐⭐ **What it IS: a unique search key.** Firms put their reference on the face of correspondence
+(*"Our ref: 2440758"*), on invoices, on file copies and in document names. ⇒ **If a document can be
+obtained, the number lets it be matched to this file. The number is how you RECOGNISE the
+correspondence — not evidence in itself.**
+
+## 8.2 ⭐ THE INTERNAL SEARCH — DONE, AND EXHAUSTED
+
+**Searched 8 August 2026 across everything held: the 154-message corpus, the full-text index, all
+working notes, and the metadata of 319 PDFs (`/Info` dictionary + XMP packet), plus every PDF text
+layer.** Tokens: `2440758`, `29218845`, `hendry`, `hopgood`, `hgDMS`, `mcDMS`.
+
+| Result | |
+|---|---|
+| ⛔ **Text layers** | **No hit in any document** |
+| ⛔ **Corpus / index / notes** | **No hit** |
+| ✅ **Metadata** | ⭐⭐ **The matter number appears in ONE document only — the Review Decision itself** (both identical uploads) |
+| ⚠ **The iOS re-save** (`documents/Review_Decision_69983_24.10.2024.pdf`) | ⭐ **Retains `/Author` but the DMS custom properties were STRIPPED by the re-save.** Worth knowing: a re-saved copy of a profiled document can lose the profile |
+
+⇒ ⭐⭐ **Nothing he already holds connects 2440758 to WorkCover, or to anyone. The internal search is
+finished and it is a nil result.**
+
+## 8.3 ⭐⭐⭐ WHERE IT COULD SURFACE — FOUR ROUTES, RANKED
+
+### ⭐⭐⭐ ROUTE 1 — IP ACT APPLICATION TO **WORKCOVER QUEENSLAND**. Best route by a distance.
+
+**Information Privacy Act 2009 (Qld).** WorkCover is a Queensland public authority and is subject
+to it. **An application for one's OWN personal information is the cheapest and least contentious
+form of access application there is.**
+
+> **Ask for:** *the complete claim file for S23LW142013, including all correspondence with third
+> parties, the communications report, and all file notes, for the period 1 July 2024 to 31 December
+> 2024.*
+
+| Why this is the best route | |
+|---|---|
+| ⭐⭐⭐ **It is the file that would hold it** | If any firm corresponded with WorkCover about this claim, it is on that file and it will carry a reference on its face |
+| ⭐⭐⭐ **WORKCOVER IS NOT A PARTY TO THE APPEAL** | ⭐⭐ **This is the decisive advantage. It has no stake in WC/2024/227 and no reason to read the request as tactical.** An application to OIR lands on the desks of people connected to the appeal and signals the line of inquiry |
+| ⭐ **It is his own information** | The whole file is about him — the firm's own DMS calls him *"Worker applicant - Mr Cory Shepherd"* |
+| ⭐ **It also tests the other open question** | ⭐⭐ **The same file would show whether any draft review decision went to WorkCover in late October 2024** |
+| ⚠ **Fee** | ⭐ Personal-information applications under the IP Act have not attracted an application fee. ⛔ **CONFIRM the current position before lodging** |
+
+### ⭐⭐ ROUTE 2 — DISCLOSURE FROM THE REGULATOR IN THE APPEAL. Free, already drafted.
+
+⭐⭐⭐ **A point worth knowing: the Regulator HOLDS WorkCover's claim file.** Section 544 compelled
+WorkCover to give it to the Regulator, and the decision's own evidence list records *"WorkCover's
+communications report"* among the material considered. ⇒ ⛔ **The Regulator cannot say the file is
+not in its possession.**
+
+> Already on the Monday list: *WorkCover Queensland's complete claim file and communications report
+> for claim S23LW142013 for the period 13 September 2024 to 31 October 2024.*
+
+### ⭐ ROUTE 3 — RTI / IP APPLICATION TO **OIR**. Direct, but it signals.
+
+⭐ Two limbs: **(a)** IP Act, personal information about him held in connection with review 69983,
+including correspondence with external providers; **(b)** RTI Act, the engagement, brief, purchase
+order or invoice relating to review 69983 or bearing reference 2440758.
+
+⚠⚠ **Two cautions.** **Legal professional privilege is an exemption** — the *content* of advice will
+likely be refused. ⭐ **But the FACT and IDENTITY of an engagement, and a purchase order, are
+generally not privileged, and any exemption claim is reviewable.**
+⛔⛔ **And it tells the Regulator exactly what he is looking at, while the appeal is live.**
+
+### ⭐ ROUTE 4 — QUEENSLAND GOVERNMENT CONTRACT DISCLOSURE. Public, free, no one is asked.
+
+**data.qld.gov.au** — OIR publishes awarded contracts over **$10,000**. ⭐ Shows engagements, not
+matter numbers. ⚠ **A small drafting engagement may fall below threshold, so a nil result proves
+nothing.**
+
+## 8.4 ⛔⛔ THE ROUTE NOT TO TAKE
+
+⛔⛔⛔ **NON-PARTY DISCLOSURE (r 64G / Form 29) AGAINST WORKCOVER OR THE FIRM.**
+He has used this mechanism once and it works. ⛔ **It fails here on relevance:** non-party disclosure
+must go to a **matter in issue in the proceeding**, and **how the review decision was produced is not
+a matter in issue on a hearing de novo.**
+⛔⛔ **And it would put the whole theory squarely in front of Commissioner Dwyer, in a written
+application, with his name on it.** ⭐ **Everything gained from the neutral posture would be spent in
+one filing.**
+
+## 8.5 ⭐⭐ THE SEQUENCE
+
+1. ⭐⭐⭐ **Monday:** the two neutral questions + the WorkCover claim-file line already drafted for
+   Matheson. **Free, no application, no signal.**
+2. ⭐⭐ **Also Monday (already on the task list):** the **IP Act application to WorkCover Queensland**
+   at §8.3 Route 1. ⭐ **Low signal, cheap, and it is the file that would actually hold the answer.**
+3. ⭐ **Only if 1 and 2 come back empty or evasive:** the OIR limb, and the contract-disclosure check.
+4. ⛔ **Never:** the 64G route.
+
+⭐⭐ **And the standing proportion: none of this is a ground of appeal, and Wednesday's report is what
+decides the case.**
