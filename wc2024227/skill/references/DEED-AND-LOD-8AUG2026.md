@@ -426,3 +426,87 @@ conflicted firm"* — three things happen at once:**
 that is the LAWFUL explanation, confirmed.** ⭐⭐ **He should expect that outcome and should treat it
 as a good one: the question answered, the file closed, and the reliance on the decision's favourable
 findings intact.**
+
+---
+
+# PART 8 — DOES A CONFLICT DESTROY PRIVILEGE? NO. BUT SOMETHING ELSE ISN'T PRIVILEGED AT ALL.
+> 8 August 2026. Cory: *"a conflicted firm that represents workcover that drafted the review
+> decision — is that privilege?"*
+
+## 8.1 ⛔ THE DIRECT ANSWER: YES, STILL PRIVILEGED
+
+**Legal professional privilege requires: a confidential communication, between lawyer and client,
+for the DOMINANT PURPOSE of giving or receiving legal advice (or for use in litigation).**
+
+> ⭐⭐⭐ **PRIVILEGE BELONGS TO THE CLIENT, NOT THE LAWYER.**
+> ⛔⛔ **A conflict of duty is a matter between the SOLICITOR and their CLIENTS. It is a
+> professional conduct breach. It does not strip the client of a substantive legal right.**
+
+⇒ ⛔ **If the Regulator engaged the firm, the Regulator holds the privilege, and it holds against
+Cory — who is a stranger to that retainer. The firm being conflicted would not change that by one
+inch.**
+
+⭐ **A conflicted lawyer's client does not lose privilege because their lawyer misbehaved.**
+
+## 8.2 ⭐ THREE QUALIFICATIONS — TWO DO NOT HELP HIM
+
+**1. ⚠ JOINT CLIENTS CANNOT CLAIM PRIVILEGE AGAINST EACH OTHER.** If the firm acted for **both**
+WorkCover and the Regulator on the same matter, neither could assert privilege against the other.
+⛔⛔ **That does not help him. He is a third party to both retainers, and privilege holds against
+third parties regardless.**
+
+**2. ⚠ THE IMPROPER-PURPOSE EXCEPTION** — *Attorney-General (NT) v Kearney* (1985) 158 CLR 500.
+⛔ **Covered at Part 7.4. It does not turn on conflict, and its threshold is a bootstrap he cannot
+escape.**
+
+**3. ⭐⭐⭐ AND THIS ONE IS DIFFERENT — SEE §8.3.**
+
+## 8.3 ⭐⭐⭐ THE THING THAT IS NOT PRIVILEGED IS THE DECISION ITSELF
+
+> ⭐⭐⭐ **Privilege attaches to LEGAL ADVICE. It does not attach to the REVIEW DECISION.**
+
+**The reasons for decision are:**
+- ⭐⭐ **a statutory document** required by Chapter 13;
+- ⭐⭐ **served on him, on the employer and on WorkCover** — *"cc Metro South Hospital And Health
+  Service; cc WorkCover Queensland"* at p 28;
+- ⭐⭐⭐ **already in his possession, already Exhibit material, already admitted as to contents at
+  Form 24 ¶37.**
+
+⇒ ⭐⭐⭐ **If a firm drafted the reasons, THE REASONS ARE STILL NOT PRIVILEGED. They were issued.**
+**What could be privileged is any ADVICE around them — the covering communications, the instructions,
+the opinion. Not the product.**
+
+## 8.4 ⭐⭐ AND AN ARGUABLE POINT WORTH KNOWING — BUT NOT WORTH RUNNING
+
+⭐ **A document does not become privileged merely because a lawyer prepared it.** The **dominant
+purpose** test asks what the communication was *for*.
+
+⚠⚠ **Arguably, PRODUCING a statutory decision for a decision-maker to issue is DOCUMENT PRODUCTION,
+not the giving of legal advice** — in which case drafts might not attract advice privilege at all.
+
+⛔⛔ **But be realistic: courts construe "legal advice" broadly** — it extends to advice about what
+should prudently be done in a relevant legal context (*Balabel v Air India*, adopted in Australia;
+*AWB Ltd v Cole*). ⇒ ⭐ **Drafting reasons for a statutory decision-maker would very likely be
+characterised as legal advice in a legal context.** ⛔ **Arguable. Not a winner. Do not build on
+it.**
+
+## 8.5 ⭐⭐⭐ AND THE POINT THAT ENDS THE INQUIRY — TWO INDEPENDENT BARRIERS
+
+> ⭐⭐⭐ **RELEVANCE and PRIVILEGE are SEPARATE gates. Removing one leaves the other standing.**
+
+| Gate | Status |
+|---|---|
+| ⛔ **Privilege** | Would apply to any advice. ⭐ **Not defeated by conflict** |
+| ⛔⛔ **RELEVANCE** | ⭐⭐⭐ **Disclosure reaches only documents directly relevant to a matter in issue. On a hearing DE NOVO the production of the review decision is NOT a matter in issue.** ⇒ **Even with no privilege at all, it would not be disclosable** |
+
+⇒ ⭐⭐⭐ **He could win the privilege argument outright and still get nothing, because the document
+was never disclosable in this proceeding.**
+
+## 8.6 ⭐⭐ WHAT REMAINS AVAILABLE — UNCHANGED, AND IT IS NOT NOTHING
+
+1. ⭐⭐⭐ **The FACT of an engagement is not privileged.** *"Was an external provider engaged, by
+   whom, under which arrangement."* **Answerable in one sentence, no waiver.**
+2. ⭐⭐ **Part 2 of the Form 23** — routine, and it asks nothing more than for their own schedule.
+3. ⭐ **The conflict question, if it ever arises, belongs to the LEGAL SERVICES COMMISSION** — not
+   the Commission, not this appeal. ⛔ **And it needs a fact he does not have and cannot obtain: a
+   concurrent retainer for WorkCover on this claim.**
