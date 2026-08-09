@@ -522,3 +522,92 @@ reconciliation is where settlement authority gets requested.**
 > ⭐⭐⭐ **She came to win a disclosure scope fight and watched the Commission make the appellant's
 > strongest, already-admitted stressor into the organising spine of the case. She now has to report
 > that upward — and everything Cory does from here should confirm that report, not complicate it.**
+
+---
+
+# H — THE AMENDED 9A READ AGAINST WHAT DWYER DID
+> 8 August 2026. Reading `evidence-index/sources-text/Amended_Form_9A_07.04.2026.txt` (filed
+> 7 April 2026, the operative pleading) against the mention. ⚠ Verify pinpoints against the Form 24
+> before any filing; the mention wording remains a memory pending the audio.
+
+## H1 ⭐⭐⭐ HE GROUPED IT BECAUSE THE PLEADING GROUPED IT FIRST
+
+**The 9A already pleads the fatigue point as ONE stressor with internal steps — and labels it:**
+
+> **"Stressor 3 — Fatigue (KEYSTONE):"** (a) the 17–18 March consecutive shifts + 7-hour break;
+> (b) the rest-break standard; (c) the misapplied agreement + forced personal leave; (d) the IRO
+> unreasonable-management-action finding.
+
+⇒ ⭐⭐⭐ **Dwyer did not impose a framing on the case. He read back the architecture Cory built.**
+**"He gathers it's all the same thing" is him recognising Stressor 3 as pleaded — a single keystone
+stressor, not five scattered complaints.** ⭐⭐ **The drafting told him where the spine was, and he
+found it.**
+
+## H2 ⭐⭐⭐ AND HE GRAVITATED TO THE EXACT CONTENTION THE 9A LEADS WITH
+
+**Part C, Contention 2 pleads the defeat of s 32(5)(a) two ways:**
+- **2(a) — global evaluation (*Delaney*): the composite hostile course;**
+- ⭐⭐⭐ **2(b) — single unreasonable stressor (*Mahaffey*): "the admitted 7-hour break independently
+  defeats the defence."**
+
+⇒ ⭐⭐⭐ **When the bench grouped the fatigue sequence and settled on the admitted break, it landed
+on CONTENTION 2(b) — the pleading's own designated independent knockout.** ⭐⭐ **Of the two routes
+Cory pleaded, the Commission reached for the stronger, cleaner one, unbidden.** The pleading offered
+*Delaney* OR *Mahaffey*; **the tribunal took *Mahaffey*.**
+
+## H3 ⭐⭐ WHICH IS ALSO THE ANSWER TO A LIVE STRATEGIC QUESTION
+
+`RD69983-SYNTHESIS.md` shows the Review Officer used ***Delaney* to DILUTE**. The 9A pleads *both*
+*Delaney* (2(a)) and *Mahaffey* (2(b)). ⚠ **Running 2(a) hard invites the same aggregation that
+sank the review.** ⭐⭐⭐ **Dwyer's instinct is the tell: lead with 2(b) — the single admitted
+stressor — and keep 2(a) as support, not spine.** **The bench has shown which framing it finds
+natural, and it is the one that does not hand the respondent the averaging move.**
+
+## H4 ⛔⛔ BUT THE READING EXPOSES THE SOFT SPOTS INSIDE THE KEYSTONE — FIX BEFORE THE HEARING
+
+**The very stressor Dwyer elevated has three internal overstatements the 9A already flags. If the
+keystone is the spine, these cannot be left standing:**
+
+| 9A pleads | The contest | Action |
+|---|---|---|
+| **3(b): "minimum 10-hour rest break (Admitted ¶3)"** | ⛔⛔ **Form 24 ¶3 admits 10h OR 8h-by-agreement; ¶4 DENIES and asserts a signed June 2020 8-hour agreement.** The "10-hour minimum" is **OVERSTATED** | ⭐⭐⭐ **Re-plead to the live minimum. The point does NOT need 10h — 7 < 8 either way. Claiming 10h invites a clean denial on the keystone** |
+| **3(c): "forced use of personal leave 19 March"** | ⚠ **Regulator SOFC ¶22(c): the 19 March leave was PAID** | ⚠ **Resolve from payslip/myHR before asserting "forced". If it was paid, the step is "made to use his own leave entitlement", not "unpaid"** |
+| **3(c): fatigue leave denied** | ⚠ **SOFC ¶24(b): cl 18.10 denies fatigue leave as no overtime performed** | ⭐ **Verify Award cl 18.10. This is the respondent's technical escape on the denial step — meet it, don't ignore it** |
+
+⇒ ⭐⭐⭐ **The mention was a gift and a warning in one. He showed the keystone is where the case
+lives — which means the three overstatements inside it are now the highest-value corrections in the
+pleading.** ⭐⭐ **Volunteer the 10-hour correction the same way as the ¶37 error: before the other
+side lands it.**
+
+## H5 ⭐⭐ WHAT HE READ THAT HE DID NOT GROUP — AND WHY THAT IS ALSO PROTECTIVE
+
+**He read the whole 9A — Stressor 1 (hostile course / PID / reprisal), Stressor 2 (pay),
+Stressor 3 (fatigue).** ⭐⭐⭐ **But he gathered the FATIGUE into one thing. He did not build the
+reprisal narrative into a single edifice.**
+
+⇒ ⭐⭐ **That is the protective reading. Stressor 1 carries the discipline-sensitive material —**
+CLAUDE.md rules 1–3: **conspiracy/collusion framing never reaches paper; "fraud" only on the
+PID track; Items 8–9 anchor only to 1(a) + the roster denial.** ⭐⭐⭐ **A bench that gravitates to
+the clean, admitted, arithmetic keystone and does NOT weave the reprisal material into a theory is
+steering the case toward the ground where Cory is strongest and away from the ground the discipline
+rules exist to keep in reserve.** **That is the safest possible place for the tribunal's attention
+to rest.**
+
+## H6 ⭐⭐ THE VALIDATION, STATED PLAINLY
+
+| The 9A did | The mention showed |
+|---|---|
+| Labelled fatigue **"KEYSTONE"** | ⭐⭐⭐ The Commission independently treated it as the spine |
+| Pleaded ***Mahaffey* at 2(b)** as the independent knockout | ⭐⭐⭐ The bench reached for exactly that framing |
+| Grouped the fatigue sub-steps under one stressor | ⭐⭐ Dwyer "gathers it's all the same thing" |
+| Built the case so a reader finds the strong core | ⭐⭐ A Commissioner, reading cold, found it |
+
+⇒ ⭐⭐⭐ **The pleading was drafted to make the keystone unmissable, and a Commissioner did not miss
+it. That is the drafting doing its job — the single best evidence that the 9A works.**
+
+## H7 ⛔ THE ONE LINE
+
+> ⭐⭐⭐ **What Dwyer did was read Cory's own architecture back to him: he found the keystone the 9A
+> labels as the keystone, and reached for the *Mahaffey* contention the 9A pleads as its independent
+> knockout — which validates the drafting AND flags that the three overstatements inside that
+> keystone are now the corrections that matter most.**
