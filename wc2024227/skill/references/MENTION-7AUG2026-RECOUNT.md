@@ -1426,3 +1426,78 @@ provide buisness hours."*
   Dr/Ms Pan Jane Wong's hours."*
 - ⛔ **But note: pursuing it is optional — the admission already carries the point.** ⭐ **Do not
   spend effort proving a fact the respondent has conceded.**
+
+---
+
+# N.5 — ⛔ "MORE CONCERNED ABOUT THEIR HOURS THAN PATIENTS" — THE TRAP AND THE DOCUMENTED VERSION
+> 8 August 2026. Cory: *"I notified that I would report the matter to the ESU because I thought it
+> was needed, and her and Tammy were more concerned about their hours than patients."*
+> ⚠⚠ **The FEELING is understandable and the CONCERN was legitimate. But the CHARACTERISATION is
+> the single most dangerous sentence to put in this case. Here is why, and what to say instead.**
+
+## N.5.1 ⛔⛔⛔ WHY "MORE CONCERNED ABOUT THEIR HOURS THAN PATIENTS" MUST NEVER BE VOICED
+
+**Two separate landmines in one sentence:**
+
+1. ⛔⛔ **s 32(5)(b) — THE PERCEPTION LIMB.** The Act excludes injury arising from the worker's
+   **expectation or perception** of management conduct. ⭐⭐⭐ **"They cared more about their hours
+   than patients" is a PERCEPTION OF MOTIVE. Framing his injury around it hands the Regulator the
+   s 32(5)(b) argument on a plate — and that limb is UNPLEADED and must stay shut** (standing rule).
+   **His injury arose from the CONDUCT (unavailability, retraction, non-consultation), not from his
+   READING of their priorities.**
+2. ⛔⛔ **RULE 1 — MOTIVE/CONSPIRACY FRAMING.** Ascribing a bad motive ("they cared about themselves,
+   not patients") is exactly the conspiracy framing that never reaches paper. ⭐ **It converts strong
+   documented facts into an accusation he then has to prove — and motive is unprovable.**
+
+⇒ ⛔⛔⛔ **NEVER write or say: "they were more concerned about their hours than patients." It is a
+perception of motive. It opens s 32(5)(b), breaches rule 1, and it is unprovable.**
+
+## N.5.2 ⭐⭐⭐ THE DOCUMENTED VERSION — SAME FORCE, ZERO RISK
+
+**What he FELT is a perception. What HAPPENED is documented, and it is devastating on its own:**
+
+> ⭐⭐⭐ **He raised a patient-contact concern — clinicians unable to reach the manager for pager
+> status (his 15 May email, verbatim). The employer's response engaged ONLY with the propriety of
+> his email and NEVER addressed the clinical concern.**
+
+**Proof, from the Regulator's own disclosure (N.4):**
+| Document | What it engaged with | What it IGNORED |
+|---|---|---|
+| Cory 15 May | ⭐ *"clinicians… sought updates on pager statuses… left unresolved due to ambiguity around when Chloe is available"* | — |
+| ⭐⭐ **Reese 15 May 6:23 PM** | **Only the "Respect"/Code of Conduct propriety of copying the department + how to recall the email** | ⛔⛔ **The patient-contact concern — not one word** |
+| ⭐⭐ **Reese 21 May 2:53 PM** | Asks about "consultation and communication" | ⛔ **The patient-contact concern — not one word** |
+
+⇒ ⭐⭐⭐ **He does not need to SAY they cared more about hours than patients. He shows that when he
+raised a clinical-contact problem, the documented response was about email etiquette and message
+recall — and never about the patients. THE RECORD SAYS IT; HE DOES NOT HAVE TO.**
+
+## N.5.3 ⭐⭐ AND THIS IS THE SAME PATTERN AS THE REVIEW DECISION
+
+⭐⭐⭐ **This is the THIRD instance of the identical pattern (`RD69983-SYNTHESIS.md` defect D; Section
+L):**
+| Instance | Patient/clinical concern raised | Response engaged with |
+|---|---|---|
+| **May 2024 — Reese** | Clinicians can't reach the manager | ⛔ Email propriety, recall steps |
+| **Aug 2024 — his 30 Aug email** | *"failure to consult putting patients at risk"* | ⛔ Recorded as *"failed to consult"* |
+| **Oct 2024 — Review Decision** | The MASPER/patient-safety element | ⛔ **DELETED — 0 occurrences of "patient"** |
+
+⇒ ⭐⭐ **A documented, three-point pattern: every time the clinical dimension is raised, the response
+addresses the form and drops the substance.** ⛔ **State it as a pattern of RESPONSES (documented),
+never as a pattern of MOTIVE (perception).**
+
+## N.5.4 ⭐ THE ESU NOTIFICATION — KEEP IT ON THE PID TRACK
+⭐⭐ **"I notified I would report to the ESU because I thought it was needed" is legitimate — it is
+the protected-disclosure intent.** ⚠ **But it lives on the PID/reprisal track:**
+- ⭐ The **13 May PID** is the disclosure; the **admitted retraction** (15 May, 48h later) is the
+  admitted reprisal (1(f)).
+- ⛔ **In the WC track, run the ADMITTED differential-treatment fact, not "I was going to report
+  them."** The "I'll forward to the ethical unit" line in his 15 May reply is his own — ⛔ **do not
+  amplify it; it feeds the s 32(5)(b) perception argument.**
+
+## N.5.5 ⭐⭐⭐ THE ONE LINE
+> ⭐⭐⭐ **Do not say they cared more about their hours than patients — that is a perception of
+> motive that opens s 32(5)(b) and breaches rule 1. Say instead, and only, what the documents show:
+> he raised that clinicians could not reach the manager, and the employer's response addressed the
+> propriety of his email and never the clinical concern — the same pattern the Review Decision
+> repeated when it deleted "patients at risk." The record carries the point; his opinion of their
+> priorities must not.**
