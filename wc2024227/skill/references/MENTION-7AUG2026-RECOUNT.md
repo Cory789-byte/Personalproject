@@ -265,3 +265,87 @@ the only person who could answer the question the rule actually asks.**
 ⭐ **Everyone came to have a fight about documents and instead sat through a preview of the trial —
 with only one side speaking, and that side being the one nobody in the room had expected to be
 listened to.**
+
+---
+
+# E — THE "PREJUDICE" REMARK AND THE SELECTIVE READING, EVALUATED
+> 8 August 2026. Cory: *"why dwyer said to matheson 'i hope it does not prejudice your defence or
+> whatever he said' then ran my entire 9a without stating the medical and without stating the
+> quotes (admitted fact)."*
+> ⚠⚠ **CAUTION FIRST: there is NO transcript, and his own phrasing is "or whatever he said."** The
+> exact words are a LEAD TO VERIFY — the transcript/audio request on the Monday list is now
+> genuinely important, because the precise formulation matters. ⛔ **Under §21.4 discipline this
+> evaluation is INTERNAL ONLY — never characterise what the Commission said in any outward
+> document until the transcript is in hand.**
+
+## E1 ⭐⭐⭐ THE CENTRAL READING — THE REMARK AND THE OMISSIONS ARE ONE ACT
+
+**What he did:** announced something like *"I hope this does not prejudice your defence"* to the
+respondent — **then read the pleaded case, and only the pleaded case.**
+
+> ⭐⭐⭐ **He stated the case and refused to try it. The remark marks the exact line he was about to
+> walk, and the omissions are him staying on the right side of it.**
+
+| Read aloud | Why it is safe to read |
+|---|---|
+| ⭐ **The 9A — the pleaded stressors** | **Allegations.** The appellant's own filed case, already served on everyone in the room. Reciting a pleading prejudices nobody — it decides nothing and weighs nothing |
+| ⛔ **NOT the medical** | **Evidence.** A member who recites medical opinion at an interlocutory mention is WEIGHING the merits from the bench |
+| ⛔ **NOT the admitted quotes** | ⭐⭐⭐ **The most protective omission of the three.** The Form 24 admissions are the case AGAINST the respondent. **A member marshalling the respondent's own admissions aloud, at a mention, is building the appellant's proof from the bench — that is actual prejudgment, and it is precisely what his remark disclaimed** |
+
+⇒ ⭐⭐ **The selection was not an omission of Cory's strengths. It was the difference between a
+pleading and a proof — and a member may voice the first and must not voice the second.**
+
+## E2 ⭐⭐ AND THE SELECTION WAS ALSO THE TASK
+
+**The mention was a 64G disclosure mention.** Non-party disclosure runs on **relevance to a matter
+in issue**, and the matters in issue are defined by **the pleadings** — not by the evidence.
+
+⇒ ⭐⭐ **The 9A is the yardstick for every 64G category. The medical and the admissions are not.**
+Reading the 9A item by item and asking *"what do you have for this?"* (beat 11) **is r 64B applied
+aloud.** The two omitted classes were omitted because the disclosure task never touches them.
+
+## E3 ⭐⭐⭐ THE GUIDE 7.1 OVERLAY — WHO THE READING WAS FOR
+
+**Dwyer ran the 13 March 2026 s 552A conference. Under Guide 7.1 the conference member does not
+hear and determine.** ⇒ **He is most likely NOT the member who will decide this appeal.**
+
+> ⭐⭐⭐ **So the reading was not for himself. It was for the room.**
+
+**The audience was Matheson and Ruttan.** A member who reads the appellant's entire case aloud, in
+neutral judicial voice, in front of the respondent and the employer, forces both to sit through the
+case **as a coherent whole — possibly for the first time**, organised better than either had
+organised it for themselves. ⭐⭐ **Matheson must now report that hour to OIR. Ruttan must report it
+to MSH.** ⭐⭐⭐ **That is the revaluation input, delivered by the bench, at no cost to Cory and with
+no finding made.**
+
+⭐ **And the "prejudice" courtesy fits this exactly:** knowing another member will hear the matter,
+he flags to the respondent that the recitation — made in open mention, on the record — is not to
+disadvantage them at that later hearing. **It is the polite form of "you are about to hear what you
+are facing, and hearing it is not a ruling."**
+
+## E4 ⭐ TWO FURTHER READINGS OF THE MEDICAL OMISSION — both benign, one practical
+
+1. ⭐⭐ **The causation medical does not exist yet.** Report B is the 12 August consultation. The
+   medical currently on file is capacity material (Hawes/Pang certificates, the QSuper report).
+   **Reading the medical aloud would have showcased the file's present gap in front of the
+   respondent.** Omitting it was, in effect, kind.
+2. ⭐ **Medical material read aloud with MSH in the room** raises privacy the pleadings do not.
+   A member does not recite a litigant's psychiatric material to a non-party's Principal Lawyer
+   when the task doesn't require it.
+
+## E5 ⭐⭐ WHAT THIS MEANS, NET
+
+| | |
+|---|---|
+| ⭐⭐⭐ **The bench organised and voiced his case** in front of both adversaries | **The single best thing that can happen to a self-represented appellant at a mention** — and consistent with *Neil v Nott*: the system helping an SRL be heard |
+| ⭐⭐ **A 9A that survives being read aloud, whole, by a Commissioner** | **Is a pleading that works.** The drafting held |
+| ⭐ **The omissions protected the hearing**, not the respondent | The admissions keep their full force for settlement and the hearing — **unspent, and now sitting behind a case the other side has heard in full** |
+| ⛔ **It is NOT a merits endorsement** | Nothing was decided. Over-reading a mention is the known trap (§C1) |
+| ⚠ **The exact words remain unverified** | ⭐ **Get the audio/transcript before this goes anywhere** — the difference between "prejudice your defence" and "prejudice the hearing" matters, and memory cannot hold it |
+
+## E6 THE ONE LINE
+
+> ⭐⭐⭐ **He read the allegations and withheld the proof — because a member may state a party's case
+> and must not make it. The remark told Matheson which of the two he was doing. And since he is
+> unlikely to be the hearing member, the reading was for her and for MSH: an hour of the
+> appellant's case, in the bench's voice, with the admissions still held in reserve.**
