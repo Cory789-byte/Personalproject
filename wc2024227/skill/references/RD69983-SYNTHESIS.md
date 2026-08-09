@@ -331,3 +331,92 @@ The `_Original` placeholders carry an **`mc`** prefix — `<mcDMSMatter>`, `<mcD
 DMS itself** (the legal document-technology vendor Microsystems, later merged into Litera, used an
 `mc` convention). ⛔⛔ **UNVERIFIED. Do not state it.** ⭐ If correct it would further support the
 template-and-merge-field reading at `HOPGOODGANIM-QUESTION.md` §12.3.
+
+---
+
+# PART 10 — USING THE IDENTIFIERS IN A REQUEST, AND THE NAME THAT MUST NOT GO IN ONE
+> 8 August 2026. Cory relayed external advice which (a) recommended quoting the DMS identifiers in
+> formal requests, and (b) attached a personal name to `hendry8286`.
+
+## 10.1 ⭐⭐ THE GOOD PART — AND IT IMPROVES ON WHAT I ADVISED
+
+**Quoting the exact identifiers in an access request is right, and I did not say it.** ⭐⭐⭐ **A
+request that names a precise, searchable string is far harder to refuse as too broad**, and it
+relieves the agency of having to guess what is being sought. **Adopt it.**
+
+## 10.2 ⛔⛔⛔ THE NAME — DO NOT ADOPT IT, AND DO NOT WRITE IT ANYWHERE
+
+**The relayed advice asserts the username is *"strongly correlated with"* a named partner said to
+act for WorkCover on its panel.** ⛔⛔ **That is not adopted here, for four reasons.**
+
+| # | |
+|---|---|
+| **1** | ⛔⛔ **It is a SURNAME-FRAGMENT INFERENCE, not a finding.** `hendry8286` is a username. A firm of that size may employ more than one person of that surname, in any role — solicitor, paralegal, secretary, document-production staff. **Nothing links the string to a specific human being** |
+| **2** | ⭐⭐⭐ **EVEN IF THE PERSON IS IDENTIFIED CORRECTLY, THE FIELD DOES NOT SAY THEY WROTE IT.** See Part 9: in iManage and NetDocuments the profile *Author* is commonly the **responsible practitioner or the signatory**, is routinely entered by support staff, and **is editable**. The field that records who actually created the file — *Created By / Operator* — **was not exported into this PDF** |
+| **3** | ⛔ **The added claim — that the person "acts for WorkCover on its Legal Services Panel" — is UNVERIFIED**, and it is the claim that would do all the damage. **A firm's panel membership is established. An individual's role on this matter is not** |
+| **4** | ⛔⛔⛔ **It is the single step that converts everything into a personal allegation.** A named private individual, in writing, connected to a suggestion of improper involvement in a government decision, **with no truth defence available**. A firm and an agency can absorb a question. **A person cannot** |
+
+## 10.3 ⭐⭐ THE OPERATIONAL RULE
+
+> ⭐⭐⭐ **SYSTEM IDENTIFIERS: YES. A PERSON'S NAME: NEVER.**
+>
+> **`2440758`, `29218845v1` and `hendry8286` are strings that appear in a document the Regulator
+> served on him. Quoting them to help an agency search its own records is a search instruction, not
+> an accusation.**
+> ⛔⛔ **A human being's name is an accusation the moment it appears next to this subject matter.**
+
+## 10.4 ⭐⭐⭐ THE REQUEST WORDING — refined, with two additions the relayed draft lacked
+
+**Two things must be added: a provenance line explaining how he came to hold the identifiers, and an
+express disclaimer. Without them the request itself reads as an allegation.**
+
+> **Re: Review 69983 — request for access to documents**
+>
+> *I was the applicant in Workers' Compensation Regulator review 69983 (insurer reference
+> S23LW142013), decided 22 October 2024, reasons dated 24 October 2024.*
+>
+> ⭐ *The reasons for decision as served on me contain document properties recording a document
+> management profile with the matter reference **2440758**, document identifier **29218845v1**, the
+> user identifier **hendry8286**, and the description "Reasons for decision - WCR reject". I mention
+> these only because they are precise search terms and may assist in locating relevant records.*
+>
+> *I seek access to all documents relating to review 69983 or claim S23LW142013 that refer to,
+> contain, or were created under any of those identifiers, including:*
+> *(a) any record of the engagement of an external legal service provider in connection with the
+> review, and the panel or procurement arrangement under which any such engagement was made;*
+> *(b) any conflict of interest declaration or assessment relating to any such engagement;*
+> *(c) any draft of the reasons for decision, and any correspondence transmitting a draft;*
+> *(d) any correspondence with WorkCover Queensland, with the employer, or with any legal
+> representative of either, concerning the review, between 16 September and 31 October 2024.*
+>
+> ⛔ *I make no allegation of impropriety by any person or entity. I am seeking the administrative
+> record of how the review was conducted.*
+
+**Notes on the wording.** ⭐ The provenance line pre-empts the obvious question of how he obtained
+internal identifiers. ⭐⭐ The disclaimer is protective and it is true. ⭐ Limb (d) is the limb that
+tests the round-trip question. ⛔ **No firm is named. No person is named.**
+
+## 10.5 ⛔ WHERE THE RELAYED ADVICE IS WRONG — NON-PARTY DISCLOSURE
+
+**It suggests using the identifiers in a Notice of Non-Party Disclosure or the List of Documents.**
+⛔⛔ **Hold the position at §8.4. It has not changed.**
+
+- **Non-party disclosure must go to a MATTER IN ISSUE in the proceeding.** ⭐⭐⭐ **How the review
+  decision was produced is not a matter in issue on a hearing de novo** — the Commission is
+  replacing the decision, not examining it. **The notice would fail on relevance.**
+- ⛔⛔ **And it would place the entire theory before Commissioner Dwyer in a written application with
+  his name on it.** ⭐ **Access legislation is a private channel. A notice in the proceeding is
+  not.**
+- ⚠ The **List of Documents** point is also misconceived: that list is for documents he holds and
+  discloses. **The review decision is already in the proceeding.**
+
+## 10.6 ⭐ ON THE SUBSTANTIVE ANALYSIS RELAYED — IT AGREES WITH THIS FILE
+
+**The second half of the relayed advice states that the metadata does not establish that the firm
+drafted the analysis, that it was instructed by WorkCover, that any draft was shared, or that the
+reviewing officer failed to apply her own mind; that panel membership is not a retainer; that the
+letterhead is the Regulator's; and that the favourable causation findings are inconsistent with pure
+insurer advocacy.** ⭐⭐ **All of that matches Parts 1–3 of this file and §12.2 of
+`HOPGOODGANIM-QUESTION.md`. There is no disagreement on the substance.**
+
+⛔⛔ **The only divergence is the name — and the name is the one thing in it that is not established.**
