@@ -1702,3 +1702,70 @@ email "disrespectful" or "making a point." Same recipients, same subject, opposi
   sent the hours), N.7 (they must prove disrespect and cannot), N.8 (assumed motive, unchecked),
   N.9 (targeted audience, not a broadcast). **All four are on the face of the documents. Together
   they make the retraction direction indefensible on the manner limb.**
+
+---
+
+# N.10 — ⭐⭐⭐ "REESE SOUGHT HR ADVICE" IS THE REGULATOR'S OWN PLEADED FACT — WHICH MAKES THE HR ADVICE DISCOVERABLE AND DIRECTLY RELEVANT
+> 8 August 2026. Cory: *"she said she sought advice from HR about it."* ✅ Confirmed — it is in the
+> Regulator's SOFC (13.05.2026), pleaded as part of the reasonableness defence on Stressor 1(f).
+
+## N.10.1 WHAT THE REGULATOR PLEADS (SOFC 13.05.2026, item 16 — Stressor 1(f))
+> **1(f) reprisal/retraction — DOES NOT ADMIT; says "Ms Reese was UNAWARE that the appellant had
+> lodged a PID"; narrates 13–15 May (absence/on-call non-compliance; 15 May 1.15pm "mass email";
+> **Reese sought HR advice**, emailed 6.23pm; email "ultimately removed from the server");
+> "reasonable in all respects."**
+
+⇒ ⭐⭐⭐ **The Regulator RELIES on "Reese sought HR advice" to support "reasonable in all respects."
+They have put it in issue. They must PROVE it. And the HR advice is now directly relevant to a
+matter in issue — the reasonableness of the retraction.**
+
+## N.10.2 ⭐⭐⭐ IT IS DISCOVERABLE — AND NOT PRIVILEGED
+- ⭐⭐ **HR advice is NOT legal professional privilege** (HR is not a lawyer giving legal advice).
+  ⇒ **It is discoverable. Reese cannot shield it.**
+- ⭐⭐⭐ **And unlike the review-decision provenance (§9.7 — not a matter in issue, de novo), THIS is
+  squarely a matter in issue:** the reasonableness of the management action is the exact question
+  s 32(5)(a) poses, and the respondent pleaded the HR advice as its basis. ⭐ **Clean, on-point
+  disclosure target for the Matheson list.**
+
+## N.10.3 ⭐⭐⭐ THE REASONABLENESS OF ADVISED ACTION TURNS ON WHAT WAS PUT TO HR
+> ⭐⭐⭐ **Advice is only as reasonable as the facts fed to the adviser. If Reese told HR "he sent a
+> disrespectful MASS EMAIL to all staff to make a point," she fed HR the mischaracterisation
+> (N.7–N.9) — and advice built on a false account does not rescue the reasonableness of the
+> direction.**
+
+**Three questions the HR advice answers:**
+1. ⭐⭐⭐ **What did Reese TELL HR?** Did she say he had tried to contact Ms Taylor directly (N.8)?
+   Did she say it went to the team + HR, or overstate it as "all staff" (N.9)?
+2. ⭐⭐⭐ **Did HR see the ACTUAL email?** ⭐⭐ **LBH_HR was CC'd on the original 15 May email** — so
+   HR HAD the real, polite email. **Did HR advise on the actual email, or on Reese's account of it?**
+3. ⭐⭐ **Did HR actually advise a RETRACTION, or did Reese?** The SOFC says "sought HR advice" — it
+   does not say HR advised her to direct a retraction. ⚠ **That gap is worth opening.**
+
+## N.10.4 ⚠⚠ THE DOUBLE EDGE — STATE IT HONESTLY
+⛔ **"Reese sought HR advice" ALSO helps the respondent** — it frames the direction as considered
+and procedurally proper, not impulsive. ⭐⭐ **So the point is NOT "she sought advice" (that looks
+reasonable); the point is WHAT SHE PUT TO HR and WHETHER HR SAW THE REAL EMAIL.** ⛔ **Do not argue
+"seeking HR advice was wrong" — argue that advice on a mischaracterised set of facts cannot make an
+unreasonable direction reasonable.**
+
+## N.10.5 ⭐ THE "REESE UNAWARE OF THE PID" DEFENCE — SIDESTEP IT
+**The SOFC's core answer to 1(f) is "Reese was UNAWARE of the PID."** ⇒ ⭐⭐⭐ **That defeats only the
+REPRISAL MOTIVE. It does NOT touch the ADMITTED differential-treatment fact or the manner-
+unreasonableness (N.6–N.9).** ⛔ **So run 1(f) in the WC track as the admitted acts + unreasonable
+manner — NOT as reprisal motive. That sidesteps "Reese unaware" entirely** (the knowledge fight
+belongs to the PID track). ⚠ **Note also: AR (Form 24) ADMITS the retraction and the comparator;
+the SOFC "does not admit" the reprisal characterisation — consistent: acts admitted, motive denied.**
+
+## N.10.6 ⭐⭐ DISCLOSURE + CROSS TARGETS
+**Add to the Matheson disclosure list (matter in issue — reasonableness of the 1(f) action):**
+> *"All records of the human resources advice sought and received by Ms Reese in relation to the
+> email of 15 May 2024 and its retraction, including Ms Reese's request for that advice and any
+> response."*
+
+**Cross-examination (Reese / the HR officer):**
+> *"You sought HR advice. What did you tell HR the email was? Did you tell them he had tried to
+> contact Ms Taylor first? HR were copied on the original email — did they read it, or your
+> description? Did HR advise you to direct a retraction, or was that your decision?"*
+
+⛔ **DISCIPLINE: run it as "advice on mischaracterised facts," onus on them (*Prizeman*). NOT "Reese
+and HR colluded to punish me" (rule 1).**
