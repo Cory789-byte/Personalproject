@@ -877,3 +877,73 @@ a matter of routine, and asking whether one was declared is unremarkable.**
 ⭐⭐ **A separate preservation letter for the EMPLOYMENT TRACK** — to Metro South, covering the 2026
 exclusion, the RFMI, the attendance file and the cessation/reinstatement records. ⭐ **Different
 recipient, different letter, same day is fine.** ⛔ **Also overdue.**
+
+---
+
+# PART 13 — ⛔ THE PRESERVATION LETTER RAISED THE RISK PROFILE. CUT AND RE-COSTED.
+> 8 August 2026, later. Cory asked directly whether the letter as drafted raised the risk profile.
+> ⭐⭐ **It did, and it should have been flagged unprompted.**
+
+## 13.1 ⛔ THE FOUR THINGS REMOVED
+
+| Removed | Why |
+|---|---|
+| ⛔ **Old item 6** — engagement records of external providers | Signals the inquiry |
+| ⛔ **Old item 7** — conflict of interest declarations | Signals he believes there is one |
+| ⛔⛔ **Old item 9** — `2440758` / `29218845v1` / `hendry8286` | ⭐⭐⭐ **Unmistakable. Nobody quotes a document management identifier unless they have taken the file apart** |
+| ⛔ **Old Part B** — the conflict enquiry | Converts routine correspondence into positioning |
+
+## 13.2 ⭐⭐⭐ AND NOTHING IS LOST
+
+**Item 1 now reads:** *"…including all drafts, file notes, internal correspondence, working papers
+**and records of any assistance obtained in the conduct of the review**."*
+
+⇒ ⭐⭐ **That phrase subsumes engagement records and conflict declarations without naming either.**
+⭐ **And the appeal is live, so all records are already under a de facto hold — the letter's real
+work is to make that explicit and dated.**
+
+⭐ **Item 6 (formerly 8) still asks that Part 2 be preserved**, which is neutral: it refers only to
+the Regulator's own filed document.
+
+## 13.3 ⭐⭐⭐ HIS ALTERNATIVE PLAN — TWO OF THREE, AND THE THIRD IS ALREADY COSTED
+
+**He proposed: state the matter is proceeding to hearing · notify the Registry he no longer seeks
+disclosure from MSH · direct a full list of what he needs to Matheson.**
+
+| | |
+|---|---|
+| ✅ **Not press the 64G against MSH** | ⭐⭐ **Right.** Removes a hostile participant, ends the K-LM26/729 objection fight, and is discipline rule 6 (restraint as posture) |
+| ✅ **Direct the list to Matheson** | ⭐⭐ **Right.** She holds WorkCover's file under **s 544** as well as the Regulator's own |
+| ⚠⚠ **Request a hearing date NOW** | ⛔⛔ **HOLD IT FOUR WEEKS — `FULL-PICTURE.md` §21 already priced this** |
+
+**From §21.3, unchanged:**
+
+| | **Scenario A — bundle it now** | **Scenario B — split it** |
+|---|---|---|
+| **P(consent resolution)** | **≈ 47%** (44–53) | ⭐⭐⭐ **≈ 60%** (57–66) |
+| **Median deal** | Mar – Jun 2027 | ⭐⭐ **Oct – Dec 2026** |
+
+⭐⭐⭐ **The Regulator revalues ONCE.** If that node fires on an incomplete file — no report, no
+offer, no costs teeth — it is spent for nothing. ⇒ **~12 points and ~4 months.**
+
+⭐⭐⭐ **AND THIS IS THE LAWFUL VERSION OF THE LEVERAGE AT PART 10.** A listing request carrying
+Report B and a Calderbank raises their cost of not settling — properly, with no risk.
+
+## 13.4 ⭐⭐ THE SEQUENCE
+
+1. ⭐ **Now** — the trimmed preservation letter. ⛔ **SEPARATE. Do not fold it into the withdrawal
+   letter; that one must stay purely positive.**
+2. ⭐⭐ **This week** — **64G not pressed + witness list.** Independently right; unlocks the
+   reallocation.
+3. ⭐⭐⭐ **Wed 12 Aug** — the psychiatrist. ⛔ **Read the report before committing to a date.**
+4. ⭐⭐⭐ **~4 weeks** — the listing request **together with Report B under cover of Calderbank #3.**
+
+## 13.5 ⛔ WORDING DISCIPLINE ON THE WITHDRAWAL — unchanged from §21.4
+
+1. ⛔ **Never** write that the disclosure is complete or that MSH's objection was correct.
+   ⭐ **Formula:** *"does not press the application, on proportionality grounds, having regard to
+   the material produced and the course the matter is now taking."*
+2. ⛔ **Never** characterise what the Commission said on 7 August — **there is still no transcript.**
+3. ⭐ **"Not press", never "withdraw."** Narrowing, not abandonment.
+4. ⭐ **Do** state the witnesses are listed and outlines will follow — **turns a possible default
+   into compliance in the same breath.**

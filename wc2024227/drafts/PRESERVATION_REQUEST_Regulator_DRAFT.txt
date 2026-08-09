@@ -1,10 +1,11 @@
 DRAFT — preservation request to the Workers' Compensation Regulator
-Prepared 8 August 2026. NOT SENT. Review before sending.
+Prepared 8 August 2026. REVISED same day — see the note at the end.
+NOT SENT.
 
 TO:      Renee Matheson, Senior Appeals Officer, Workers' Compensation Regulator
 CC:      (none)
-SUBJECT: WC/2024/227 — Shepherd v Workers' Compensation Regulator — request for
-         preservation of records, and one enquiry
+SUBJECT: WC/2024/227 — Shepherd v Workers' Compensation Regulator —
+         preservation of records
 
 ---
 
@@ -13,15 +14,13 @@ Dear Ms Matheson
 WC/2024/227 — Cory Lea Shepherd v Workers' Compensation Regulator
 Review 69983 | Insurer reference S23LW142013
 
-I write about two matters: the preservation of records, and one enquiry.
+The appeal remains on foot and I anticipate that it will proceed to hearing.
 
-PART A — PRESERVATION OF RECORDS
-
-The appeal remains on foot. I ask that the Regulator take reasonable steps to
-ensure that all records relating to the matter are retained and are not
-destroyed, deleted, archived beyond retrieval or otherwise disposed of pending
-the conclusion of the proceeding, and that any routine disposal schedule that
-would otherwise apply be suspended in respect of them.
+I ask that the Regulator take reasonable steps to ensure that all records
+relating to the matter are retained and are not destroyed, deleted, archived
+beyond retrieval or otherwise disposed of pending the conclusion of the
+proceeding, and that any routine disposal schedule that would otherwise apply be
+suspended in respect of them.
 
 I ask that this extend to records held in electronic form, including email,
 calendar entries, file notes, document management system records, version
@@ -29,66 +28,35 @@ histories, system and audit logs, and associated metadata.
 
 Without limiting the above, I ask that the following be preserved:
 
-  1.  The complete review file for review 69983, including all drafts,
-      file notes, internal correspondence and working papers.
+  1.  The complete review file for review 69983, including all drafts, file
+      notes, internal correspondence, working papers and records of any
+      assistance obtained in the conduct of the review.
 
-  2.  WorkCover Queensland's claim file for claim S23LW142013 in the
-      Regulator's possession or control, including the communications report
-      in every version held, and the payments and recoveries report.
+  2.  WorkCover Queensland's claim file for claim S23LW142013 in the Regulator's
+      possession or control, including the communications report in every
+      version held, and the payments and recoveries report.
 
   3.  All records of, and correspondence concerning, the notification of the
       decision of 13 September 2024 to any person or entity, including the
       employer, and the date and time of each notification.
 
   4.  Any decision, determination or reasons for decision made in relation to
-      claim S23LW142013 between 1 July 2024 and 31 December 2024, including
-      the document described in the Regulator's List of Documents at item 39
-      as "WorkCover Queensland reasons for decision, Amy Mo, 25 July 2024".
+      claim S23LW142013 between 1 July 2024 and 31 December 2024, including the
+      document described in the Regulator's List of Documents at item 39 as
+      "WorkCover Queensland reasons for decision, Amy Mo, 25 July 2024".
 
-  5.  All correspondence between the Regulator and WorkCover Queensland,
-      between the Regulator and Metro South Hospital and Health Service, and
-      between the Regulator and any representative of either, concerning
-      review 69983, for the period 16 September 2024 to 30 November 2024.
+  5.  All correspondence between the Regulator and WorkCover Queensland, between
+      the Regulator and Metro South Hospital and Health Service, and between the
+      Regulator and any representative of either, concerning review 69983, for
+      the period 16 September 2024 to 30 November 2024.
 
-  6.  All records relating to the engagement, instruction or payment of any
-      external legal service provider or other external provider in connection
-      with review 69983, including any engagement letter, brief, purchase
-      order, invoice, and any record of the panel or procurement arrangement
-      under which any such engagement was made.
-
-  7.  Any conflict of interest declaration, disclosure, assessment or
-      management plan made or considered in connection with review 69983,
-      whether concerning an officer of the Regulator or any external provider.
-
-  8.  All documents listed in Part 2 of the schedule to the Regulator's Form 23
+  6.  All documents listed in Part 2 of the schedule to the Regulator's Form 23
       List of Documents served on 17 December 2024.
 
-  9.  The document management system record for the reasons for decision dated
-      24 October 2024, including its version history, and any record bearing
-      the references 2440758, 29218845v1 or hendry8286.
+  7.  All records relating to any request for, or grant of, an extension of time
+      to any party during the claim or the review.
 
-  10. All records relating to any request for, or grant of, an extension of
-      time to any party during the claim or the review.
-
-I ask that the Regulator confirm in writing that these steps have been taken.
-
-PART B — ONE ENQUIRY
-
-Separately, and for completeness of the administrative record, I ask:
-
-  (a) whether any conflict of interest was identified, declared, disclosed or
-      assessed in connection with review 69983 — whether concerning an officer
-      of the Regulator or any external provider engaged in connection with the
-      review; and
-
-  (b) if no such matter was identified or assessed at the time, whether the
-      Regulator will now consider the question and advise the outcome.
-
-I make no allegation of impropriety against any person or entity. I am asking
-about the administrative record of how the review was conducted, and I ask the
-question now so that it is not raised for the first time at a later stage.
-
-I would be grateful for a response within twenty-eight days.
+I would be grateful for written confirmation that these steps have been taken.
 
 Yours sincerely
 
@@ -97,32 +65,53 @@ Appellant, WC/2024/227
 
 ---
 
-⛔ NOTES BEFORE SENDING — DO NOT INCLUDE THESE IN THE LETTER
+⛔⛔ REVISION NOTE — WHY THE LETTER WAS CUT DOWN, 8 AUGUST 2026
 
-1. ⛔⛔ NO CRIMINAL OR PENALTY PROVISIONS IN THE LETTER. Do not cite the Criminal
-   Code, do not mention offences, do not mention consequences of non-compliance.
-   A preservation request carries its weight from being routine. The moment it
-   reads as a threat it becomes the problem described at
-   `RD69983-SYNTHESIS.md`-adjacent Part 10 of `DEED-AND-LOD-8AUG2026.md`.
-   The Public Records Act 2023 (Qld) obligation exists whether or not it is
-   mentioned. Leave it unmentioned.
+The first draft had TEN preservation items plus a "Part B" enquiry about
+conflicts of interest. THREE ITEMS AND ALL OF PART B HAVE BEEN REMOVED, because
+Cory asked the right question: does it raise the risk profile.
 
-2. ⛔ NO FIRM IS NAMED. Items 6, 7 and 9 describe categories and identifiers
-   only. Keep it that way.
+⚠ IT DID. Specifically:
 
-3. ⭐ ITEMS 6, 7 AND 9 SIT INSIDE A LIST OF TEN. That is deliberate. A
-   preservation request must describe what it wants preserved — you cannot
-   preserve an undescribed category — and a comprehensive list is the ordinary
-   form. Do not shorten the list.
+  ⛔ OLD ITEM 6  — records of engagement of external legal service providers
+  ⛔ OLD ITEM 7  — conflict of interest declarations
+  ⛔ OLD ITEM 9  — the DMS references 2440758 / 29218845v1 / hendry8286
+  ⛔ OLD PART B  — the conflict enquiry
 
-4. ⭐ SEND TO MATHESON ONLY. She is the officer on the record. Copy nobody.
+Those four told the Regulator exactly what he has been looking at. Item 9 in
+particular was unmistakable: nobody quotes a document management identifier
+unless they have taken the file apart.
 
-5. ⚠ THIS IS CORRESPONDENCE, NOT A DISCLOSURE REQUEST AND NOT AN APPLICATION.
-   Do not file it. Do not attach it to anything.
+⭐⭐⭐ AND HE LOSES NOTHING BY REMOVING THEM.
 
-6. ⭐ A SEPARATE PRESERVATION LETTER IS STILL OUTSTANDING FOR THE EMPLOYMENT
-   TRACK (Metro South — the 2026 exclusion, the RFMI, the attendance file).
-   Different recipient, different letter, same day is fine.
+ITEM 1 NOW READS "...including all drafts, file notes, internal correspondence,
+working papers AND RECORDS OF ANY ASSISTANCE OBTAINED IN THE CONDUCT OF THE
+REVIEW." That phrase subsumes engagement records and conflict declarations
+without naming either, and without signalling anything. A general preservation
+request over "the complete review file" captures them in any event.
 
-7. ⚠ 28 days is a courtesy period, not a statutory one. There is no statutory
-   response obligation for correspondence of this kind.
+⭐ ITEM 6 (formerly 8) still asks for Part 2 to be preserved — which is proper,
+neutral, and refers only to the Regulator's own filed document.
+
+⭐⭐ AND THE APPEAL IS LIVE, so all records relating to it are already under a
+de facto hold. The letter's real work is to make that explicit and dated.
+
+WHAT MUST STILL NOT GO IN IT
+  ⛔ No criminal or penalty provisions. No Criminal Code, no offences, no
+     consequences of non-compliance. The Public Records Act 2023 (Qld)
+     obligation applies whether or not it is mentioned. Leave it unmentioned.
+  ⛔ No firm named. No DMS identifiers.
+  ⛔ It is CORRESPONDENCE — not a disclosure request, not an application.
+     Do not file it. Do not attach it to anything.
+  ⭐ Matheson only. Copy nobody.
+
+WHERE THE CONFLICT QUESTION GOES INSTEAD
+  ⭐⭐⭐ Not here. Per `DEED-AND-LOD-8AUG2026.md` Part 11: the access-legislation
+  channel (RTI / IP), which never touches the QIRC file — and, on his own
+  "now or in any event after" formulation, AFTER the appeal is the strongest
+  time, when every objection available to them has evaporated.
+
+STILL OUTSTANDING
+  ⭐ A separate preservation letter for the EMPLOYMENT TRACK, to Metro South —
+  the 2026 exclusion, the RFMI, the attendance file, and the cessation and
+  reinstatement records. Different recipient, different letter.
