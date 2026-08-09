@@ -1181,3 +1181,79 @@ Confirm off CS-1.**
 patient-safety/consultation complaint.** ⛔ **No fraud line, no "erratic presence" adjective — just
 the gap in days.** ⭐⭐ **It belongs in the Section N timestamp table and is proof of the s 32(5)(a)
 *manner* point. Get the CS-1 pages to me or read the header directly.**
+
+---
+
+# N.2 — ⭐⭐⭐ I RENDERED THE FILED AFFIDAVIT AND READ IT. THE "OFFICE HOURS" EMAIL IS ADMITTED REPRISAL, NOT JUST LATENCY.
+> 8 August 2026. Cory: *"read them then."* Done — the Form 20 affidavit
+> (`documents/filings/2026-02-27_Affidavit_for_Form4_Disclosure_stamped.pdf`) is a **scanned image
+> with NO text layer** (that is why every grep failed). Rendered at 130dpi and read.
+
+## N.2.1 ⭐⭐⭐ WHAT THE AFFIDAVIT ACTUALLY ESTABLISHES — §6.1, VERBATIM FROM THE PAGE
+
+> **34. On 13 May 2024, I lodged a formal PID complaint regarding the conduct of Ms Chloe Taylor
+> and Ms Tammy Reese (Exhibit E3).**
+> **35. At paragraph 20 of the Admissions Response (Exhibit AR), the Respondent admits that on
+> 15 May 2024 — 48 hours after the PID complaint was lodged — Ms Tammy Reese directed me to retract
+> an email I had sent inquiring about office hours.**
+> **36. At paragraph 21 of the Admissions Response, the Respondent admits that on 9 May 2024,
+> Ms Chloe Taylor sent a substantively similar email regarding another staff member's hours, and
+> that Ms Taylor was not directed to issue a retraction.**
+
+⇒ ⭐⭐⭐ **THE "OFFICE HOURS" EMAIL IS PLEADED STRESSOR 1(f) — THE ADMITTED REPRISAL.** It is not
+primarily a response-latency exhibit. **The "response" to Cory's office-hours email was not Taylor
+replying — it was Reese directing him to RETRACT it, 48 hours after his PID — while Taylor's OWN
+comparable 9 May email drew no retraction at all.**
+
+## N.2.2 ⛔ CORRECTION TO SECTION N — THE LATENCY THEORY WAS BUILT ON THE SELF-NOTE
+
+**Section N built a "days-to-respond" theory from Cory's 18 May self-note.** ⚠ **The FILED,
+ADMITTED framework is different and stronger:**
+| Section N (my construction) | ⭐⭐⭐ N.2 (the filed, admitted fact) |
+|---|---|
+| Taylor slow to respond to office-hours emails | **Cory was DIRECTED TO RETRACT his office-hours email — admitted** |
+| Inference from a self-note | ⭐⭐ **Admitted at Admissions Response ¶20 and ¶21** |
+| "Erratic presence" proxy | ⭐⭐⭐ **Differential treatment / reprisal — the 48-hour proximity to the PID** |
+
+⇒ ⭐⭐ **The response-latency angle is SECONDARY. The primary, admitted point is the RETRACTION
+ASYMMETRY. Lead with the admitted fact, not the inferred latency.**
+
+## N.2.3 ⭐⭐⭐ THE OTHER ADMITTED FACTS ON THESE PAGES — ALL FROM THE FILED AFFIDAVIT
+
+| ¶ | Admitted fact | Exhibit / admission |
+|---|---|---|
+| **26** | ⭐⭐⭐ ***"Ms Chloe Taylor physically removed pages from the… Communication Book"*** | **Admissions Response ¶11(a)** |
+| **27** | Taylor's own 6 June 2023 email: ***"I have taken this out of the communication book"*** | Exhibit E1 |
+| **28** | Carolyn Jeffrey witness statement: ***"Chloe rips the page out that Cory had put in"*** | Exhibit I2 |
+| **35–36** | ⭐⭐⭐ **The retraction asymmetry (above)** | **AR ¶20, ¶21** |
+| **37** | 3 May 2024 Payroll (Elaine Grant) directed Taylor to ***"submit an AVAC to correct these shifts"*** | Exhibit E2 |
+| **38** | ⭐⭐ 21 May 2024 (18 days later) Taylor said she was ***"waiting for payroll confirmation"*** | **AR ¶38** |
+| **39** | Taylor did not submit the AVAC until **28 May 2024** | AR ¶38 |
+| **30–32** | ⭐⭐ IT Service Request **QH-RITM16413751** (5–8 Aug 2025) to restore email archives was ***"cancelled by the department"*** | affidavit |
+
+## N.2.4 ⭐⭐ WHERE THE RAW TIMESTAMP LIVES — EXHIBIT E5
+
+**The affidavit's exhibit list (page rendered) shows:** ⭐⭐⭐ **Exhibit E5 — "Business Hours
+Discrepancy Evidence" — "Already filed."** ⇒ **The RAW office-hours email chain, with the actual
+send/reply times, is Exhibit E5 — a SEPARATE filed exhibit, not in this affidavit bundle, and not
+text-extractable in anything I hold.**
+
+⛔ **So "how long until she responded" in the literal sense is still on E5.** ⭐⭐ **But it now matters
+LESS**, because the admitted fact (directed to retract, 48h post-PID, vs Taylor's un-retracted 9 May
+email) is stronger than any latency figure. ⭐ **Upload Exhibit E5 and I will read the exact
+timings; otherwise the admitted §6.1 facts already carry the point.**
+
+## N.2.5 ⛔⛔ DISCIPLINE — THIS IS THE REPRISAL TRACK, AND IT IS ADMITTED
+⚠⚠ **1(f) is the REPRISAL limb. It is pleaded and ADMITTED (¶21), so it is IN — but it is exactly
+where CLAUDE.md rules 1–3 bite.** ⭐⭐⭐ **Run it as the ADMITTED DIFFERENTIAL-TREATMENT FACT — "same
+conduct, opposite treatment, 48 hours after a PID" — NOT as a narrative about conspiracy or
+victimisation.** ⛔ **The admission does the work; the adjectives undo it.** ⭐ And note the
+**PID-timing** sits in the reprisal/PID track — keep the WC-track framing to the *differential
+treatment* fact, per rule 3.
+
+## N.2.6 ⭐ NET
+> ⭐⭐⭐ **I read the filed affidavit. The office-hours email is not a "how slow did she reply"
+> exhibit — it is the ADMITTED reprisal: Cory was directed to retract it 48 hours after his PID,
+> while Taylor's substantively identical 9 May email drew no retraction, both admitted at AR ¶20–21.
+> The raw reply timestamp is on Exhibit E5 (already filed) if the latency figure is still wanted —
+> but the admitted asymmetry is the stronger point and needs no timestamp.**
