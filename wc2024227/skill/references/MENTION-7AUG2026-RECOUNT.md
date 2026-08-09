@@ -1022,3 +1022,85 @@ That is now the highest-value single document to obtain for Stressor 1(a).**
 > email; (ii) STRIP the "defrauds" and "doesn't come to work" lines out of what is relied on; and
 > (iii) obtain a system incident record so the reasonableness-defeater can be proved without the
 > contaminated email ever being tendered.**
+
+---
+
+# N — THE MASPER RESPONSE-LATENCY POINT: "ERRATIC PRESENCE" TURNED INTO A NUMBER
+> 8 August 2026. Cory: *"in the MASPER email look at how many days Chloe takes to respond to
+> multiple emails."* ⭐⭐⭐ **This is the answer to Dwyer's probe on 1(a). It converts the
+> unprovable characterisation ("erratic presence") into a COUNTABLE metric from Taylor's own
+> email flow — the same move as the fatigue arithmetic.**
+
+## N1 ⭐⭐⭐ WHAT THE EMAIL FLOW SHOWS
+
+**From the 18 May 2024 "issues" email (corpus p.847–867):**
+- ⭐ **9 May 2024** — **Taylor directs the team to contact her / provide business hours** (she
+  directs Pan Jane Wong; the business-hours expectation is set).
+- ⭐⭐ **Across the following days** — Cory sends **multiple emails to contact Chloe during business
+  hours**; they go unanswered.
+- ⭐⭐⭐ **15 May 2024** — **he is forced to formally request her official office hours** *"in response
+  to multiple emails sent out to contact Chloe during business hours."*
+
+⇒ ⭐⭐⭐ **THE SELF-CONTRADICTION: the manager who MANDATES that the team contact her during business
+hours is herself UNCONTACTABLE across multiple emails for days — to the point a subordinate must
+formally ask what her office hours even are.**
+
+## N2 ⭐⭐⭐ WHY THIS DEFEATS "IT'S JUST MANAGEMENT ACTION" AND ANSWERS DWYER'S PROBE
+
+**Dwyer probed 1(a) because *"erratic presence"* is a CHARACTERISATION — hard to prove**
+(`confirmed-record.md`: *"'erratic presence' is characterisation and hard to prove — anchor to the
+directives, not the presence"*). ⭐⭐⭐ **Response latency is NOT a characterisation. It is
+arithmetic:**
+
+> ⭐⭐⭐ **Count the days between each email and her reply. Count how many emails went unanswered
+> before 15 May. Those numbers come from HER OWN email timestamps — the same way the 7-hour break
+> is a number, not an adjective.**
+
+⭐⭐ **This is precisely the technique Dwyer GROUPED and gravitated to on the fatigue point (Section
+F): turn the stressor into a countable fact the respondent cannot argue with.** ⇒ ⭐⭐⭐ **"Erratic
+presence" becomes "X days' response latency across Y unanswered emails, while directing the team to
+contact her in business hours." That is provable, documentary, and clean.**
+
+## N3 ⭐⭐ AND IT IS THE MANNER-UNREASONABLENESS OF THE SAME DIRECTIVE
+
+**It ties straight into MASPER (Section M):** ⭐⭐⭐ **an unconsulted directive changing call-handling,
+issued by a manager who is herself uncontactable for days — that is management action taken in an
+UNREASONABLE WAY.** The low job control (directives without consultation) + the manager's own
+unavailability = the **core mechanism of the injury** (`confirmed-record.md`: *"this is LOW JOB
+CONTROL, the core mechanism"*). ⭐ **The response-latency count is the proof of the "unreasonable
+way", from her own documents.**
+
+## N4 ⭐⭐⭐ THIS IS THE FUEL FOR TAYLOR AT CROSS (Dwyer's suggested method)
+
+**Section J: Dwyer said put Taylor at cross for presence.** ⭐⭐⭐ **THIS is what you cross-examine her
+ON — not "were you present" (she'll say yes) but her OWN EMAIL TIMESTAMPS:**
+> *"You directed the team to contact you during business hours on 9 May. This email of mine, sent
+> [date/time], went unanswered for [N] days. So did this one. On 15 May I had to ask what your
+> office hours were. Do you agree these are your response times?"*
+
+⭐⭐ **She cannot dispute her own timestamps. The characterisation proves itself.** ⇒ **The
+response-latency count converts Dwyer's "you'll need to cross Chloe" into a concrete, unanswerable
+cross-examination line.**
+
+## N5 ⛔ THE ONE THING TO DO — BUILD THE ACTUAL COUNT
+
+⚠ **The narrative (9 May → 15 May, "multiple emails") is in the 18 May summary. The PROOF is the
+underlying email flow with TIMESTAMPS.** ⭐⭐⭐ **HIGH-VALUE TASK: extract, from the email flow Cory
+already holds, the exact table —**
+
+| Email sent (date/time) | To Taylor | Reply received | Days elapsed |
+|---|---|---|---|
+| … | … | (none / date) | … |
+
+⭐⭐ **That table IS the exhibit. It is clean (no fraud line — Section M), it is her own data, and it
+is the numeric proof of 1(a) that Dwyer signalled the limb was missing.** ⛔ **Build it from the
+timestamps, not from the 18 May narrative — the narrative is the lead, the timestamps are the
+proof.**
+
+## N6 ⭐ NET
+
+> ⭐⭐⭐ **Cory has found the way to prove the limb Dwyer probed as unprovable: not by asserting
+> "erratic presence" but by counting Taylor's own response latency — days per email, unanswered
+> emails before 15 May — while she was directing the team to contact her in business hours. It is
+> the fatigue-arithmetic technique applied to presence, it is clean of the fraud contamination, and
+> it is the exact cross-examination fuel Dwyer pointed him toward. Build the timestamp table.**
