@@ -1918,3 +1918,62 @@ the WC track.** ⭐ In the WC track it is only: post-action, solicited, contradi
 - ⭐ **Cross (Chloe):** *"Your account to HR is dated 17 May, two days after the retraction, and you
   wrote it because HR asked you to — correct? That morning you told the team your hours 'can vary';
   that afternoon you told HR you're always in the office. Both 17 May?"*
+
+---
+
+# N.13 — ⚠⚠ "AFTER REESE LEARNED OF THE PID" — TRUE FOR THE 17 MAY EMAIL, BUT THIS IS PID-TRACK
+> 8 August 2026. Cory: *"it's also after Reese learned of the PID."* ✅ Documented in
+> `confirmed-record.md` (11 June disclosure bundle) — but the precision matters, and the discipline
+> matters more.
+
+## N.13.1 THE DOCUMENTED PID-KNOWLEDGE TIMELINE (from the 11 June bundle, confirmed-record)
+| Date/time | Event |
+|---|---|
+| **Wed 15 May 3:35 PM** | Cory's **PID email** → MetroSouthESU; CO_Complaints; **LBH_HR** |
+| **Wed 15 May 3:41 PM** | **Harrison (LBH_HR) forwards** → Punch, McGinley, McNamee (**6-minute routing**) — ⛔ **NOT to Reese** |
+| ⭐ **Wed 15 May 6:23 PM** | **Reese directs the RETRACTION** — *no document shows Reese had the PID yet* |
+| ⭐⭐⭐ **Thu 16 May 11:43 AM** | ⭐⭐⭐ **McGinley forwards the complaint form → REESE (+ Tracey Smith; Cc Punch, Pritchard, McNamee), attachment "Chloe Taylor scc-complaint-form.docx"** |
+| **Fri 17 May 1:20 PM** | **Chloe → HR (McNamee) "as requested": the "out to get me / malice / fearful" account** |
+| **Tue 21 May 2:53 PM** | Reese's follow-up to Cory |
+
+## N.13.2 ⭐⭐ WHAT THE TIMING ACTUALLY ESTABLISHES — AND ITS TWO LIMITS
+> ⭐⭐⭐ **Reese personally received the PID complaint form on 16 May 11:43 AM. So Chloe's 17 May HR
+> account, and Reese's 21 May follow-up, occurred AFTER Reese knew — which puts the SOFC's "Ms Reese
+> was unaware" plea in difficulty for everything from 16 May onward.**
+
+⛔⛔ **BUT TWO HARD LIMITS — DO NOT OVERCLAIM:**
+1. ⛔ **The RETRACTION (15 May 6:23 PM) PREDATES the documented notification to Reese (16 May
+   11:43 AM).** On the documents, "Reese unaware **at the retraction**" holds. ⚠ **The 6-minute HR
+   routing on 15 May went to Punch/McGinley/McNamee — NOT Reese.** ⛔ **Do NOT assert Reese knew when
+   she directed the retraction — the paper does not support it.**
+2. ⛔⛔ **"Reese learned of the PID" is a REPRISAL/KNOWLEDGE fact. That is the PID TRACK.**
+
+## N.13.3 ⛔⛔⛔ THE DISCIPLINE — THIS IS THE LINE THAT MATTERS MOST TODAY
+⭐⭐ **`confirmed-record.md` already marks this cluster: "reserve / order-6 + hearing material — NOT
+pleaded in the 64G."** ⇒ ⛔⛔⛔ **The Reese-knew-of-the-PID point is HELD. It is NOT run as reprisal
+motive in the WC appeal.** Reasons, restated:
+- ⛔ **It imports MOTIVE** (reprisal) — CLAUDE.md rules 1–3. The WC track runs 1(f) as the **admitted
+  differential-treatment fact + unreasonable manner (N.6–N.12)**, never as "they retaliated for my
+  PID."
+- ⛔ **It opens s 32(5)(b)** and a knowledge contest Cory does not need and may not win at the
+  retraction point.
+- ⭐ **It is more powerful where it belongs:** the **PID/reprisal track** (a subject-manager, Reese,
+  learning of a disclosure that named her, and adverse HR file-building continuing after) — and as a
+  **disclosure-relevance** argument (`confirmed-record.md` 3041: *"the 'unaware' defence is in
+  difficulty… the strongest relevance argument"*).
+
+## N.13.4 ⭐ WHERE IT LEGITIMATELY DOES WORK
+1. ⭐⭐ **DISCLOSURE RELEVANCE (not WC merits):** the SOFC pleads "Reese unaware." The 16 May
+   McGinley→Reese forward contradicts it from 16 May. ⇒ **That makes the HR-routing/PID material
+   relevant and disclosable** — a reason to compel it, argued on relevance, not motive.
+2. ⭐ **THE PID / REPRISAL TRACK (sequenced BEHIND the WC settlement, rule 8):** the knowledge
+   timeline is the spine of any reprisal analysis — **there, not here.**
+3. ⛔ **NOT in the WC de novo appeal as a reason the injury is compensable.** The injury runs on
+   conditions + admitted acts + unreasonable manner.
+
+## N.13.5 ⭐⭐ THE ONE LINE
+> ⭐⭐⭐ **Yes — Reese received the PID complaint form on 16 May 11:43 AM, so Chloe's 17 May HR account
+> and Reese's later conduct are "after Reese learned." That defeats the SOFC's "unaware" plea from
+> 16 May on, and it is gold for the PID track and for disclosure relevance. But the retraction
+> itself predates it, and the reprisal/knowledge point is HELD — it is not run as motive in the WC
+> appeal, where 1(f) stands on the admitted acts and the unreasonable manner alone.**
