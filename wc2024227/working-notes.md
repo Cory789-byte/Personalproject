@@ -4261,3 +4261,40 @@ either/or; the ecosystem theory). Each was built on the same two Glockling sched
 emails. Discipline rule 1 held — **nothing reached paper.** The material that hurts MSH has
 been in their own documents every single time: the objection's admissions, the ECC, the
 payslips, the "unable to accommodate" statement, and now page 7.
+
+---
+## 9 August 2026 — Report B letter of instruction (the ceiling deliverable)
+
+Built the three Report B deliverables the user asked for, via a verify-hardened workflow
+(3 draft agents + 3 adversarial verify lenses on the letter):
+
+1. `drafts/out/CEILING_SET/01_Letter_of_Instruction_Report_B.md/.pdf` (4pp) — the finalised
+   letter of instruction to Dr Krishnaiah for the causation report. Supersedes the 3 Aug draft.
+2. `drafts/out/CEILING_SET/01b_Source_Package_Guide_Report_B.md/.pdf` (6pp) — "what to give the
+   psychiatrist": the signed statement as the spine, the documents bundle, the medical history
+   to disclose, and what NOT to do.
+3. `drafts/out/CEILING_SET/01c_Why_Report_B_Is_The_Ceiling.md/.pdf` (5pp) — why a properly-built
+   causation report is the single highest-leverage document (bimodal forecast; causation is the
+   only open, non-substitutable block).
+
+All three adversarial lenses' confirmed defects were resolved in the finalised letter — full
+record at `skill/references/REPORT-B-LOI-VERIFICATION-9AUG2026.md`. Headline fixes:
+- ⛔ Review Decision 69983's CONCLUSIONS removed from the doctor's assumed-facts basket and
+  enclosures (they read as an instructed answer; kept for hearing/settlement only). Enclosure D
+  = Form 24 admitted facts only.
+- ⛔ Q6.8 no longer quotes the A4 premorbid line (the "perceives as unjust" s 32(5)(b) landmine)
+  or presupposes causation — asks from the doctor's own assessment; the A4 line stays for ORAL
+  handling on 12 Aug.
+- Q6.10 no longer instructs "consistent with" the ECC (which is Dr Ma's, not Krishnaiah's).
+- ⭐ FACTUAL CORRECTION: first presentation is **1 July 2024** (Hawes WCC), not "September 2024".
+  Onset→presentation is ~2 weeks, not ~3 months — the earlier drafts overstated the gap and
+  conceded the Regulator's best point for free. The ~3-month interval is March roster→June onset.
+- Added missing source documents (GP records, Hawes WCC, ECC, the 13 Feb 2025 report) and a new
+  Q6.11 on capacity trajectory (his own Feb-2025 "complete incapacity" → now fit-with-adjustments).
+
+Build scripts: `drafts/build_letter_of_instruction.py` (reportlab, house style) and
+`drafts/build_ceiling_companions.py` (Chromium md→pdf, for the table). PDFs metadata-scrubbed.
+
+⛔ Open before the letter goes: (a) reconcile the deed-20-Sep vs Form-20-¶43-8-Oct cessation date;
+(b) confirm the 3 July 2026 ECC author is Dr Ma; (c) the signed statement (Enclosure A) must carry
+every load-bearing timing/load fact so nothing rests on the doctor's memory.
