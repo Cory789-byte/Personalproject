@@ -137,3 +137,69 @@ unjust" · impaired judgement · partial insight · restarting Vyvanse.**
 ⇒ ⭐⭐ **The settlement analysis should be read with that in mind: their file on causation is
 better than the appeal analysis has been assuming, and Report B is the only thing that changes
 it.**
+
+---
+
+# ⭐⭐⭐ THE TIMING / SEQUENCE REBUTTAL — THE A4 REPORT ANSWERS A DIFFERENT QUESTION AT A DIFFERENT TIME
+> 8 August 2026. Cory: *"look at the timing — the separation was 6 months later; the report was
+> done a month after I saw the doctor for QSuper; events were different; and returning to work I
+> struggled even getting there."* All correct, and it substantially DEFUSES A4 as a causation risk.
+
+## T1 ⭐⭐⭐ THE REPORT SAYS, ON ITS OWN FACE, THAT IT IS NOT A CAUSATION OPINION
+**Header, verbatim:** *"This information was disclosed for **Qsuper and NOT for medico-legal use**."*
+Addressed to **Louise Ings, Claims Manager, QSuper** (income protection), dated **13-Feb-2025**.
+⇒ ⭐⭐⭐ **It is an INCOME-PROTECTION CAPACITY report. It was never prepared to answer the s 32(1)
+question — whether employment was a significant contributing factor to the injury of 18 June 2024.**
+⭐⭐ **Its "complete incapacity" and its list of life stressors are for QSuper's capacity/benefit
+purposes — not a determination of what CAUSED the June 2024 injury.**
+
+## T2 ⭐⭐⭐ THE TIME GAP — IT IS A LATE SNAPSHOT, WRITTEN LATER STILL
+| | Date | Distance from the 18 Jun 2024 injury |
+|---|---|---|
+| **Work injury onset** | **18 June 2024** | — |
+| **Consultation** ("saw the dr for QSuper") | ⚠ **~January 2025** (Cory: ~a month before the report; report refers to a "next consultation" ⇒ an initial/early review) | **~7 months later** |
+| **Report written / dated** | **13 February 2025** | **~8 months later** |
+
+⇒ ⭐⭐⭐ **The report captures a JANUARY 2025 state, written up in February. The causation question is
+18 JUNE 2024. A snapshot taken 7–8 months later, of a man who by then had been dismissed, lost his
+income, and was carrying later personal stressors, does not describe the causation moment.**
+⚠ **CONFIRM the exact consultation date from the report body** — but the gap holds regardless.
+
+## T3 ⭐⭐⭐ THE COMPETING CAUSES WERE AT DIFFERENT TIMES — AND THE LATER ONES CANNOT HAVE CAUSED JUNE 2024
+> ⭐⭐⭐ **A stressor that POST-DATES the injury cannot have caused it.**
+- ⭐⭐ **"Job loss"** = the **8 October 2024** dismissal — **~4 months AFTER** the injury, and the
+  employer's OWN act (reversed). ⛔ **Cannot be a competing NON-work cause of a June 2024 injury.**
+- ⭐⭐ **The separation / relationship breakdown** — Cory: **"6 months later."** ⇒ **If it post-dates
+  18 June 2024, it CANNOT have caused the June 2024 injury** (it could bear on later course only).
+- ⚠⚠ **DISCIPLINE:** ⛔ **Do NOT detail the personal/DFV events (R-11, sensitive — take instructions).**
+  ⭐ **Use only the TEMPORAL structure:** the life stressors the report names sit at DIFFERENT points
+  in time, and the ones that post-date June 2024 are irrelevant to causation at June 2024.
+
+## T4 ⭐⭐⭐ "COMPLETE INCAPACITY" IS A LATER COMPOUNDED STATE — AND THE STRUGGLE TO RETURN PROVES IT
+**The report's "complete incapacity" (Feb 2025) is a picture of a man who by then had been
+DISMISSED, had NO income, and had later stressors compounding — NOT the June 2024 clinical picture.**
+⭐⭐⭐ **And the return is the tell:** Cory returned to work on **24 February 2025** — **11 days after**
+"complete incapacity" — and ***"struggled on even getting there."***
+⇒ ⭐⭐ **He did not recover in 11 days. He returned because the EMPLOYMENT was restored (income), while
+still struggling.** ⛔ **That is NOT a failed prediction by the doctor and NOT evidence the injury
+was minor — it is evidence the return was forced and difficult.** ⭐ **His struggle to attend is
+contemporaneous evidence of ONGOING impact, tied to the injury (capacity), not to any perception.**
+
+## T5 ⭐⭐⭐ WHAT THIS MEANS FOR WEDNESDAY (REPORT B)
+1. ⭐⭐⭐ **Report B assesses causation at 18 JUNE 2024** — the moment A4 never addressed. It must
+   **name the competing life stressors, place them in TIME, and show the later ones post-date the
+   injury**, leaving employment a significant contributor at onset.
+2. ⭐⭐ **Report B must NOT carry the "not for medico-legal use" footer** (A4's fatal limitation) —
+   confirm with the psychiatrist.
+3. ⭐⭐ **The return-to-work struggle (24 Feb 2025) is capacity/impact evidence** — Report B can note
+   the return was employment-driven, not recovery-driven.
+4. ⛔ **The personal/DFV timeline is decided WITH Cory** — the psychiatrist may need it for
+   competing-cause completeness, but that is his instruction to give (R-11).
+
+## T6 ⭐⭐ NET — A4 IS LARGELY DEFUSED
+> ⭐⭐⭐ **A4 looked like the biggest medical risk. On its own terms it is a QSuper capacity snapshot,
+> expressly not medico-legal, taken ~7 months after the injury, listing stressors at different times
+> — including ones (job loss; a later separation) that POST-DATE the June 2024 injury and so cannot
+> have caused it. It answers capacity in early 2025; it does not answer causation in June 2024.
+> Report B answers causation at June 2024. The two do not conflict — they are different questions at
+> different times.** ⚠ **Verify the consultation date; take instructions on the personal timeline.**
