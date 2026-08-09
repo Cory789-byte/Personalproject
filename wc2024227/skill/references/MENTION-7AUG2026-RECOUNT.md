@@ -1257,3 +1257,67 @@ treatment* fact, per rule 3.
 > while Taylor's substantively identical 9 May email drew no retraction, both admitted at AR ¶20–21.
 > The raw reply timestamp is on Exhibit E5 (already filed) if the latency figure is still wanted —
 > but the admitted asymmetry is the stronger point and needs no timestamp.**
+
+---
+
+# N.3 — THE TWO EMAILS: THE ADMITTED SIMILARITY, AND THE DIFFERENCE THAT CUTS FOR CORY
+> 8 August 2026. Cory clarifies (both emails + the MASPER email are reproduced together in "the
+> report"): **Taylor's email was written TO A DOCTOR then SHARED AMONG STAFF (business hours);
+> Cory's came AFTER her non-responsiveness — he could not get a response, and DOCTORS WERE TRYING
+> TO REACH HER.**
+
+## N.3.1 ⭐⭐⭐ THE SIMILARITY (ADMITTED) IS NOW SPECIFIED
+
+**Both emails concern the SAME subject: staff business hours / availability, in the context of
+DOCTORS needing to reach people.**
+- **Taylor, 9 May 2024:** an email **to a doctor**, about business hours, then **shared among staff.**
+- **Cory:** an email about business hours **prompted by Taylor's own non-responsiveness** — he could
+  not get a response, and **doctors were trying to reach her.**
+
+⇒ ⭐⭐⭐ **That is why the Respondent's admission (AR ¶21) that they are "substantively similar" is
+not just a concession — it is TRUE on the content: same subject, same operational context (doctor
+availability), same type of communication.** ⭐⭐ **The admission is safe because it is accurate.**
+
+## N.3.2 ⭐⭐⭐ THE DIFFERENCE MAKES THE REPRISAL WORSE, NOT WEAKER
+
+**The one difference is the direction of legitimacy:**
+| | Taylor's 9 May email | Cory's email |
+|---|---|---|
+| Prompt | Her own initiative | ⭐⭐⭐ **A real operational failure — she was unreachable, doctors could not reach her** |
+| Purpose | Communicate a staff member's hours | ⭐⭐ **Solve a problem she had created** |
+| Treatment | ✅ **No retraction directed** | ⛔ **Directed to retract (48h after his PID)** |
+
+⇒ ⭐⭐⭐ **Cory's email was the MORE legitimate of the two — it responded to a genuine
+availability/clinical-contact problem — and HIS was the one retracted. That does not dilute the
+"substantively similar" admission; it sits ON TOP of it.** ⭐⭐ **"Same subject, admitted similar —
+and mine was actually the justified one, because doctors couldn't reach her — yet mine was the one
+I was ordered to withdraw."**
+
+## N.3.3 ⭐⭐⭐ THIS CONNECTS 1(f) TO 1(a) — ONE ROOT FACT, TWO CLEAN LANES
+
+**Taylor's UNAVAILABILITY is the root fact, and it does work in two separate pleaded limbs:**
+| Lane | Limb | The use |
+|---|---|---|
+| ⭐⭐ **Manner** | **1(a)** — unreasonable management action | **A manager unreachable to the point doctors and staff cannot contact her = management action taken in an unreasonable way** (the reasonableness-defeater, Section L/M) |
+| ⭐⭐ **Reprisal** | **1(f)** — admitted differential treatment | **Raising that unavailability got HIS email retracted; her own similar email did not** (admitted, AR ¶21) |
+
+⛔⛔ **KEEP THE TWO LANES SEPARATE. Do NOT fuse them into "she was unavailable AND punished me for
+saying so, therefore conspiracy."** ⭐⭐⭐ **Run them as two discrete, documented facts: (1) the
+unavailability had operational/clinical consequences [1(a) manner]; (2) the differential retraction
+is admitted [1(f)]. Each stands alone. Fusing them is the rule-1 conspiracy framing.**
+
+## N.3.4 ⛔ THE DISCIPLINE ON "WHY THEY ARE SIMILAR"
+⚠ **Cory now understands WHY the emails are similar — good for his own clarity and cross-prep.**
+⛔⛔ **But in the FILING, still rely on the ADMISSION (AR ¶21), not on his own comparison.** ⭐ The
+understanding is for the witness box and cross; the pleaded proposition is *"the Respondent admits
+they are substantively similar."* **Never argue the Commission INTO the similarity when the
+Respondent has already conceded it — that only creates room to lose it.**
+
+## N.3.5 ⭐ "THE REPORT" — WHERE ALL THREE EMAILS SIT TOGETHER
+⭐⭐ **Cory says both emails + the MASPER email are reproduced together in "the report."** ⚠ **Which
+report is not yet identified in the repo** (could be a compiled evidence bundle, Exhibit E5, or a
+context annexure). ⭐⭐⭐ **ACTION: identify and name that report, and if it holds all three emails
+with headers, IT is the single source for: (i) the two office-hours emails' exact text/timestamps
+(the E5 content), and (ii) the MASPER complaint→reply timing (Section N.1).** ⛔ **Upload "the
+report" and I will extract all three verbatim with dates — that closes both the similarity content
+and the response-timing question in one pass.**
