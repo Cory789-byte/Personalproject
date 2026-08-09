@@ -1501,3 +1501,47 @@ the protected-disclosure intent.** ⚠ **But it lives on the PID/reprisal track:
 > propriety of his email and never the clinical concern — the same pattern the Review Decision
 > repeated when it deleted "patients at risk." The record carries the point; his opinion of their
 > priorities must not.**
+
+---
+
+# N.6 — ⭐⭐⭐ "SHE COULD HAVE JUST SENT THE TEAM THE HOURS" — THE POINT THAT COLLAPSES THE CHARACTERISATION
+> 8 August 2026. Cory: *"claiming I wanted her hours — she could have just sent the team the hours."*
+
+## N.6.1 THE RESPONDENT'S FRAMING, AND WHY IT FAILS ON ITS OWN DOCUMENTS
+**Reese's 15 May email treated the request as a "Respect"/Code-of-Conduct problem** — as if asking
+for the manager's office hours was improper conduct requiring a **retraction**.
+
+⇒ ⭐⭐⭐ **But the thing he asked for was trivially reasonable and trivially satisfiable: share the
+office hours with the team. The obvious reasonable management response was one email. Instead the
+response was to direct him to RETRACT his — 48 hours after his PID.**
+
+## N.6.2 ⭐⭐⭐ THE PROOF IT WAS REASONABLE: SHE DID EXACTLY THAT, DAYS LATER
+| Date | Who | Did exactly what Cory "wanted" |
+|---|---|---|
+| **13 May** | Ellen Stibbard | ⭐ Sent the team her business hours (*"Every Tuesday and second Monday 8:00–16:00"*) — unremarked |
+| ⭐⭐⭐ **17 May** | **CHLOE TAYLOR** | ⭐⭐⭐ **Sent the whole team her office hours** (*"my hours are from 06:30-14:30… I will be sending an email to switch to advise of any change to my office hours"*) — **unremarked** |
+
+⇒ ⭐⭐⭐ **The manager published to the team the very thing he was directed to retract asking for —
+TWO DAYS LATER, voluntarily, and no one suggested it was improper.** ⭐⭐ **That proves his request
+was normal and reasonable, and that the retraction direction was a response out of all proportion
+to a one-email problem.**
+
+## N.6.3 ⭐⭐ WHY THIS IS A CLEAN s 32(5)(a) MANNER POINT
+**s 32(5)(a) protects only management action that is reasonable AND taken in a reasonable way.**
+> ⭐⭐⭐ **The reasonable response to "please share your office hours" was to share the office hours.
+> That option was available, simple, and in fact taken by the manager herself days later. Choosing
+> instead to direct a retraction — treating a basic, easily-answered request as misconduct — is
+> management action taken in an UNREASONABLE way.**
+
+⭐ **It needs no motive.** The gap between *the available reasonable response* and *the response
+given* is the unreasonableness, and both are documented.
+
+## N.6.4 ⛔ DISCIPLINE
+- ⭐ **Run it as: the reasonable response was available and simple; the response given was to direct
+  a retraction. Both documented.** ⛔ **NOT "they refused out of spite / to punish me"** — that is
+  motive (rule 1) and perception (s 32(5)(b)).
+- ⭐⭐ **Pairs with the differential-treatment fact (N.4):** not only was the reasonable response
+  available, the manager took it herself for her own hours and was not retracted. **Same lane —
+  1(a) manner + the admitted 1(f) differential treatment, kept separate.**
+- ⭐ **This also rebuts any "he was demanding/excessive" characterisation:** the requested thing was
+  so ordinary the manager volunteered it 48 hours later.
