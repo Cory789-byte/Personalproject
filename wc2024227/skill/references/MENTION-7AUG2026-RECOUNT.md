@@ -1398,3 +1398,31 @@ Chloe email is the one actually in hand.**
   iCARE-values reply.
 - ⛔ **The MASPER complaint→reply email is NOT in this extract range** — still to locate for the
   Section N.1 timing (check the rest of this FRMS PDF and the Reese/Payroll conferencing bundles).
+
+## N.4.8 ⛔ THE 9 MAY PAN JANE WONG EMAIL IS NOT IN THE REPO — ONLY THE SELF-NOTE
+> Cory clarifies: the admitted comparator is Chloe's **9 May** email to/re **Pan Jane Wong**
+> ("when she requested the doctor time on the 9th"). ⛔ **I searched everything and the RAW 9 May
+> email is not in the repo.**
+
+**Searched:** corpus, the 462pp Taylor pack, the FRMS disclosure **text** (47pp) AND its
+**image-only pages** (rendered 27–35: they are iMessage/roster **screenshots**, not the email),
+and every 2025-07 and 2026-06 disclosure PDF. ⛔ **The only reference to the 9 May Pan Jane Wong
+email anywhere is Cory's own 18 May self-note:** *"9th of may Chloe Taylor directs Pan Jane Wong to
+provide buisness hours."*
+
+## N.4.9 ⭐⭐⭐ BUT CORY DOES NOT NEED THE RAW 9 MAY EMAIL — TWO REASONS
+1. ⭐⭐⭐ **IT IS ADMITTED.** AR ¶21 concedes Chloe sent a *"substantively similar"* email on 9 May re
+   another staff member's hours, **not retracted**. ⭐⭐ **The admission proves existence + similarity
+   + non-retraction. He pleads the admission; he does not need the document.**
+2. ⭐⭐⭐ **AND HE HAS TWO OTHER COMPARATORS IN THE REGULATOR'S OWN DISCLOSURE** (N.4.3): Chloe's
+   **17 May** dept-wide office-hours email and Ellen's **13 May** business-hours email — both
+   documented, both un-retracted. ⭐⭐ **The differential treatment is provable from held documents
+   even with the 9 May email missing.**
+
+## N.4.10 ⭐ IF THE RAW 9 MAY EMAIL IS WANTED — WHERE TO GET IT
+- ⭐ **It is likely in Exhibit E5 ("Business Hours Discrepancy Evidence"), filed but not in the
+  accessible bundle** — check E5.
+- ⭐ **Otherwise add to the Matheson disclosure list:** *"Ms Taylor's email of 9 May 2024 concerning
+  Dr/Ms Pan Jane Wong's hours."*
+- ⛔ **But note: pursuing it is optional — the admission already carries the point.** ⭐ **Do not
+  spend effort proving a fact the respondent has conceded.**
