@@ -857,3 +857,85 @@ step.**
 > can move past from the bar table has to be put where it cannot be moved past — pleaded, and tendered
 > as the 30 August email against the Review Decision's deletion of "patients at risk." Document it;
 > never allege it was suppressed.**
+
+---
+
+# L — "IT'S JUST MANAGEMENT ACTION" WHEN HE RAISED DOCTORS SENT TO WRONG LOCATIONS
+> 8 August 2026. Cory clarifies: when he began explaining the PROBLEM WITH THE DIRECTIVES — *doctors
+> being sent to the wrong locations, or unable to be contacted* — Dwyer uttered something like *"it's
+> just management action"* / a move-on. ⭐⭐⭐ **This reframes Sections J–K. It was not the patient-
+> safety angle being shut down. It was the s 32(5)(a) CHARACTERISATION being applied — and that is a
+> different, and more useful, thing.**
+
+## L1 ⭐⭐⭐ WHAT THE CONCRETE PARTICULAR ACTUALLY IS
+
+**Stressor 1(a) pleads *"unassessed unilateral directives; bottlenecked emergency workflows."*
+Abstract. What Cory was giving is the CONCRETE INSTANCE:**
+
+> ⭐⭐⭐ **The directives resulted in DOCTORS BEING SENT TO THE WRONG LOCATIONS, or being
+> UNCONTACTABLE — in a hospital switchboard that routes Code Blue and MET (life-safety) calls.**
+
+⭐⭐ **That is not "colour." In a switchboard, a doctor sent to the wrong location or uncontactable
+during a code is a DIRECT CLINICAL-SAFETY CONSEQUENCE.** ⇒ **It is the specific, vivid, provable
+face of the abstract pleading — and it is exactly what a hearing needs and a pleading currently
+lacks.**
+
+## L2 ⭐⭐⭐ WHY "IT'S JUST MANAGEMENT ACTION" IS THE WHOLE BATTLE, NOT A DISMISSAL
+
+**s 32(5)(a) excludes injury from *"reasonable management action taken in a reasonable way."***
+
+⇒ ⭐⭐⭐ **"It's just management action" is the FIRST HALF of the test. The case is the SECOND HALF:
+was it REASONABLE, and taken in a REASONABLE WAY?**
+
+> ⭐⭐⭐ **A directive that sends doctors to the wrong location, or leaves them uncontactable during
+> emergency calls, is powerful evidence that the management action was NOT reasonable and NOT taken
+> in a reasonable way.** ⭐⭐ **The clinical consequence is not a separate "patient safety" story — it
+> is the REASONABLENESS-DEFEATER for the management-action label.**
+
+⇒ ⭐⭐⭐ **So Cory's instinct to push was RIGHT ON SUBSTANCE.** ⚠ **Whether Dwyer was (A) dismissing
+it, or (B) testing whether Cory could articulate WHY it defeats "reasonable", the answer is the
+same: the concrete clinical consequence is the reason the label does not hold.**
+
+## L3 ⛔⛔ THE TRAP IN LETTING "JUST MANAGEMENT ACTION" STAND
+
+**This is EXACTLY how Review Decision 69983 worked** (`RD69983-SYNTHESIS.md`): it labelled each
+factor "management action", asked whether it was reasonable at a high level of generality, and
+**never engaged with the specific consequence.** ⛔⛔ **"It's just management action" un-answered is
+the on-ramp to the same dilution.**
+
+⇒ ⭐⭐⭐ **The answer to "it's just management action" is never to accept the label and move on. It is:
+*"Yes, it is management action — and it was unreasonable, because it sent doctors to the wrong
+place during code calls. The Act excludes only REASONABLE management action."*** ⭐⭐ **That single
+sentence is the hinge of the whole s 32(5)(a) contest and Cory needs it ready.**
+
+## L4 ⭐⭐⭐ HOW IT GOES IN — CONCRETE, DOCUMENTED, NON-ACCUSATORY
+
+| Do | Do not |
+|---|---|
+| ⭐⭐ **Plead the concrete instance:** specific dates/occasions where a directive sent a doctor to the wrong location or left one uncontactable | ⛔ Leave it as abstract "bottlenecked workflows" — that invites the "just management action" label to stand |
+| ⭐⭐⭐ **Frame it as the reasonableness-defeater** under s 32(5)(a) — the *manner* was unreasonable | ⛔⛔ Frame it as "they endangered patients / covered it up" — reprisal/cover-up (rules 1–2) |
+| ⭐⭐ **Anchor to documents:** the 19 April 2024 data-entry directive; the 30 Aug email *"failure to consult putting patients at risk"*; any incident log / IIMS / switchboard record of a mis-routed code | ⛔ Rely on narration a member can move past |
+| ⭐⭐ **Prove it by Taylor at cross** — the directives were hers; the consequence is put to her | ⛔ Assert it as established without the witness |
+
+⚠⚠ **NEW EVIDENCE TARGET:** ⭐⭐⭐ **any RECORD of a doctor mis-routed or uncontactable due to a
+directive** — an IIMS/RiskMan incident report, a switchboard log, an email escalation, a code-call
+record. **If one exists, it is the single most powerful exhibit in Stressor 1(a)** — a documented
+clinical-safety consequence converts "just management action" into "unreasonable management action"
+on paper. **Add to the holdings reconciliation (Section I) and the disclosure targets.**
+
+## L5 ⚠ ON WHICH READING OF DWYER IS RIGHT — IT STILL DOES NOT MATTER, BUT NOTE THIS
+
+⭐ **If (B) he was testing:** the lesson is Cory needs the reasonableness-defeater sentence rehearsed
+so that next time "just management action" is met instantly with the clinical consequence.
+⭐ **If (A)/Section-K he was steering it off:** the lesson is identical — get it in as pleaded,
+documented evidence a member cannot move past.
+⛔⛔ **Either way: NEVER voice the suspicion that he suppressed it. The remedy is the exhibit, not
+the complaint.** ⭐ **The audio still matters — it will show whether the point was RAISED (preserving
+it) and how he responded.**
+
+## L6 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **"It's just management action" is not the end of the point — it is the beginning of the only
+> question that matters: was it reasonable? A directive that sent doctors to the wrong place during
+> code calls is the answer, and it belongs in the pleading and in an incident record, framed as the
+> reasonableness-defeater under s 32(5)(a) — never as a cover-up.**
