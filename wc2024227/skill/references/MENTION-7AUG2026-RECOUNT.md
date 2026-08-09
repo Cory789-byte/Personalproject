@@ -1147,3 +1147,37 @@ emails — it extends to a formal patient-safety COMPLAINT.**
   May 2024 mailbox export was ever ingested; if not, ingest it (the MASPER chain, and Taylor's
   response times generally, live there).
 - ⭐ This is the same **timestamp-table** task as Section N.5 — CS-1 is where the raw data is.
+
+## N.1.5 ⭐ UPDATE — CS-1 IS ATTACHED TO THE 64G, BUT THE EXHIBIT PAGES ARE NOT TEXT-READABLE HERE
+> Cory: *"it's attached to the 64G."* ✅ Confirmed it is referenced there — but the raw email
+> headers still cannot be read from the ingested files.
+
+**What the Form 4 (64G) text confirms:**
+- `lodgement/WC2024227_Form4_FINAL.pdf` line 265: the application relies on *"individual examples
+  (the **manager's 9 May 2024 email**; the **18–20 May 2024 union correspondence**)"*.
+- line 516: *"the retracted email and the 9 May…"*
+
+⇒ ⭐ **So the 9 May MASPER directive and the 18–20 May correspondence are the pleaded exhibit
+window.** ⛔⛔ **BUT the actual CS-1 exhibit pages — the email chain showing the complaint TO Taylor
+and HER REPLY with timestamps — are NOT text-extractable from any filing I hold.** The Form 4
+*describes* them; it does not *reproduce* the headers. The 4-page chain is almost certainly a
+**scanned / image exhibit** (no text layer) or a bundle not separately ingested.
+
+## N.1.6 ⭐⭐⭐ SO THE ANSWER IS ONE OF TWO STEPS
+
+1. ⭐⭐ **Cory reads it off CS-1 directly** — open the 64G bundle, exhibit CS-1 (4pp), find Taylor's
+   reply email header, read the **date + time**. Count from the complaint email's date/time.
+2. ⭐⭐⭐ **OR upload CS-1 (the 4-page MASPER exhibit) and I will extract every timestamp** — if it is
+   a scan I will render it with `pdftoppm` and read the headers off the image.
+
+⚠ **INFERENCE AVAILABLE BUT UNVERIFIED:** the Form 4 pairs the **9 May** directive with **18–20 May**
+correspondence. **If Taylor's substantive response to the consultation/patient-safety concern only
+came in that 18–20 May window, that is roughly a 9-to-11-day gap from the 9 May directive.** ⛔ **DO
+NOT rely on that — it is an inference from the filing's framing, not from her reply timestamp.
+Confirm off CS-1.**
+
+## N.1.7 ⛔ THE DISCIPLINE HOLDS
+⭐ **The number, once read off CS-1, is a clean documentary fact — her own reply time to a
+patient-safety/consultation complaint.** ⛔ **No fraud line, no "erratic presence" adjective — just
+the gap in days.** ⭐⭐ **It belongs in the Section N timestamp table and is proof of the s 32(5)(a)
+*manner* point. Get the CS-1 pages to me or read the header directly.**
