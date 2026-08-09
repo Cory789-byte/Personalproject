@@ -688,3 +688,92 @@ matters here too.**
 > front of both opponents, from "self-rep who will overreach" to "appellant whose file is
 > hearing-ready." The one cost: every "have it" is now a representation, so the holdings must be
 > reconciled against the actual files before hearing.**
+
+---
+
+# J — WHERE HE PROBED: THE THREE ITEMS THAT DID NOT MEET "HAVE IT"
+> 8 August 2026. Cory: *"he probed at some parts — the management directions, the erratic presence,
+> the union delegate request and my proof — and [showed] instead I can put Chloe at cross for
+> presence, and got me as far as I can only infer the union, and I started to explain the management
+> directive and PT safety."*
+> ⭐⭐⭐ **This is the other half of Section I. The walk sped up on the admitted items and SLOWED on
+> three. Where it slowed is the map of the remaining work.**
+
+## J1 ⭐⭐⭐ WHAT THE PROBING ACTUALLY WAS
+
+**The acceleration (Section I) was "have it → have it → have it." The probing was Dwyer stopping on
+the items where the proof is NOT a document Cory holds:**
+
+| Probed item | 9A location | Why it does not meet "have it" | ⭐ What Dwyer surfaced as the route |
+|---|---|---|---|
+| ⭐⭐ **Erratic presence / management directions** | Stressor 1(a) | **No single document proves "erratic presence" or that directives were unassessed** — it is a pattern, not a file | ⭐⭐⭐ **"Put Chloe [Taylor] at cross-examination for presence"** — the proof is ORAL, extracted from the manager, not tendered |
+| ⭐⭐ **Union delegate request** | Stressor 1(g) | ⭐ **He can only INFER the suppression** — the 13-month gap and QH-POL-248 are documented, but the causal "they suppressed it" is inference | ⚠ **Dwyer got him "as far as I can only infer" — i.e. flagged the evidentiary ceiling on this limb** |
+| ⭐⭐ **Management directive + patient safety** | Stressor 1(a) | **He STARTED to explain it** — it was mid-explanation, not resolved | ⚠ **Left open. This is the clinical-governance thread** |
+
+## J2 ⭐⭐⭐ THE GIFT INSIDE THE PROBE — DWYER TOLD HIM HOW TO PROVE 1(a)
+
+> ⭐⭐⭐ **"Instead I can put Chloe at cross for presence" is the single most useful thing a member
+> can give a self-represented appellant: the METHOD of proof for the item that has no document.**
+
+⭐⭐ **Stressor 1(a) — erratic presence + unassessed directives — has always been the limb with no
+tidy exhibit** (`confirmed-record.md` records the roster/timesheet as still-to-obtain). ⭐⭐⭐ **Dwyer
+told him: you do not prove presence with a document, you prove it by cross-examining the manager
+whose presence is in issue.** ⇒ **That converts a "gap" into a cross-examination plan.**
+
+**And it fits the standing architecture:** Items 8–9 anchor to **Stressor 1(a) + the "roster was
+equitable" denial** (CLAUDE.md rule 3). ⭐⭐ **Taylor at cross is where the "roster was equitable"
+denial gets tested against her own attendance.** **The 22:00-vs-23:00 shift-finish discrepancy, the
+roster, the timesheet — those become cross-examination FUEL, not tender documents.**
+
+## J3 ⚠⚠ THE UNION LIMB — HE WAS SHOWN ITS CEILING, AND THAT IS A WARNING
+
+⭐⭐ **"Got me as far as I can only infer the union" is Dwyer flagging that Stressor 1(g) rests on
+INFERENCE, not proof.** The documented parts (April 2023 interest — Admitted ¶18; QH-POL-248 —
+Admitted ¶17; 13-month suppression) establish the FACTS; ⛔ **but "suppressed as reprisal" is the
+inferential leap, and it is exactly the kind of limb the discipline rules keep in reserve.**
+
+⇒ ⭐⭐⭐ **STRATEGIC READ: the union-delegate limb is a SUPPORT point, not a spine point.** ⚠ **Do not
+build weight on it — Dwyer has already signalled it cannot bear much.** ⭐ It corroborates the
+course of conduct (source diversity — payroll + union + rostering, per the fatigue-file §13.6); it
+does not stand alone. **Plead it as corroboration; never as a load-bearing stressor.**
+
+## J4 ⛔⛔ THE PATIENT-SAFETY / MANAGEMENT-DIRECTIVE THREAD — HANDLE WITH THE MOST CARE
+
+**He "started to explain the management directive and PT safety" — and (per the earlier recount) at
+the CLINICAL GOVERNANCE point is exactly where Dwyer MOVED ON.** ⭐⭐⭐ **Two beats now line up: he
+probed it, Cory began to explain, and it did not land / was moved past.**
+
+| ⭐ Why this thread is powerful | ⛔ Why it is dangerous |
+|---|---|
+| **Patient safety in a hospital switchboard is the subject matter, not colour** — and the Review Decision DELETED it (`RD69983-SYNTHESIS.md` defect D) | ⛔⛔ **It shades toward the reprisal / clinical-cover-up framing that rules 1–2 keep off paper** |
+| It is the s 32(5)(a) *manner* point — unassessed directives that bottlenecked emergency workflows | ⛔ **"Started to explain" = not yet crisp. An un-crisp patient-safety allegation sounds like grievance, not injury cause** |
+
+⇒ ⭐⭐⭐ **ACTION: this thread must be REDUCED TO A CLEAN, DOCUMENTED, NON-ACCUSATORY LINE before the
+hearing** — the 19 April data-entry directive + the 30 Aug "failure to consult putting patients at
+risk" email, as a *consultation/manner* failure, NOT as a cover-up. ⛔ **It is the highest-risk /
+highest-value thread in Stressor 1 and it is currently unresolved on his own account.**
+
+## J5 ⭐⭐⭐ WHAT THE PROBE PATTERN TELLS HIM — THE WHOLE MAP IN ONE VIEW
+
+| Tier | Items | Proof status at the mention |
+|---|---|---|
+| ⭐⭐⭐ **SPINE — proven** | Fatigue keystone (3a–d), pay delay (2b), comm-book (1b) | ⭐⭐ **"Have it" — admitted/documentary. The acceleration items** |
+| ⭐⭐ **PROVABLE BY CROSS** | Erratic presence / roster (1a) | ⭐⭐⭐ **Taylor at cross — Dwyer gave the method** |
+| ⚠ **CORROBORATION ONLY** | Union delegate (1g) | ⚠ **Inference-limited — support, not spine** |
+| ⛔ **NEEDS CRISPENING** | Management directive / patient safety (1a clinical) | ⛔⛔ **Unresolved — reduce to a clean manner-point, de-risk the framing** |
+
+⇒ ⭐⭐⭐ **Dwyer did not just hear the case — he SORTED it by proof-type, out loud, and handed Cory
+the method for the one gap that had a method (Taylor at cross) and the ceiling for the one that
+did not (the union inference). That is a free evidence-planning session from the bench.**
+
+## J6 ⛔ DISCIPLINE
+
+1. ⛔ **No transcript — which items he probed, and how far, is memory.** ⭐ **The audio is now
+   critical for THIS beat specifically**, because it defines the witness-examination plan.
+2. ⭐⭐ **This directly shapes the WITNESS LIST (this week) and HEARING-PLAN.md.** ⭐⭐⭐ **Taylor must
+   be on the witness list as a cross-examination target for presence/roster — Dwyer effectively
+   said so.**
+3. ⛔ **The patient-safety thread stays a s 32(5)(a) manner point. No cover-up, no reprisal, no
+   motive** (rules 1–2).
+4. ⚠ **The union limb is corroboration. Do not let it become a spine the respondent can knock over
+   to imply the rest is as thin.**
