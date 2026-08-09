@@ -1,0 +1,111 @@
+DRAFT v2 — preservation + conflict enquiry, DIRECT VERSION
+Prepared 8 August 2026 on Cory's instruction: "strictly on disclosure, conflict
+of interest, solicitors' assistance associated with WorkCover and the review
+decision, put flat and bluntly, without allegations, and the retention in the
+matter and when it is complete."
+⭐ This SUPERSEDES the trimmed draft as the version reflecting his decision.
+NOT SENT.
+
+TO:      Renee Matheson, Senior Appeals Officer, Workers' Compensation Regulator
+CC:      (none)
+SUBJECT: WC/2024/227 — retention of records; enquiry regarding the preparation
+         of Review Decision 69983
+
+---
+
+Dear Ms Matheson
+
+WC/2024/227 — Cory Lea Shepherd v Workers' Compensation Regulator
+Review 69983 | Insurer reference S23LW142013
+
+The appeal is proceeding. I write on two matters: the retention of records, and
+the preparation of the review decision.
+
+1.  RETENTION OF RECORDS UNTIL THE MATTER IS COMPLETE
+
+I ask that the Regulator retain, and not destroy, delete, archive beyond
+retrieval or otherwise dispose of, all records relating to claim S23LW142013,
+review 69983 and this appeal — including records held electronically, document
+management system records, version histories, system and audit logs, and
+associated metadata — until this proceeding is finally complete, including the
+determination of any appeal from it and the expiry of any appeal period, and I
+ask that any routine disposal schedule that would otherwise apply be suspended
+in respect of those records until then.
+
+Please confirm in writing that this has been done.
+
+2.  PREPARATION OF THE REVIEW DECISION
+
+The reasons for decision dated 24 October 2024, as served on me, carry document
+properties recording the document management profile of a private law firm:
+matter reference 2440758, document identifier 29218845v1, user identifier
+hendry8286, and the description "Reasons for decision - WCR reject". I hold the
+served file; these properties are reproducible by any person holding the same
+file. I state this only as the factual basis for the questions that follow.
+
+I ask, plainly:
+
+(a) Was any external legal service provider engaged, consulted or otherwise
+    involved in connection with review 69983, including in the preparation of
+    the reasons for decision? If so, by which entity was the provider engaged,
+    and under which panel or procurement arrangement?
+
+(b) Is or was any such provider associated with WorkCover Queensland, including
+    through appointment to WorkCover Queensland's Legal Services Panel?
+
+(c) Was any conflict of interest identified, declared, disclosed or assessed in
+    connection with review 69983 — whether concerning an officer of the
+    Regulator or any external provider? If no such assessment was made at the
+    time, I ask that the Regulator consider the question now and advise me of
+    the outcome.
+
+(d) The Regulator's Form 23 List of Documents served on 17 December 2024 states
+    at paragraph 2 that the respondent objects to producing the documents
+    listed in Part 2 of the schedule on the ground of privilege. No Part 2 was
+    served with the document. Please provide Part 2 of the schedule.
+
+3.  SCOPE OF THIS ENQUIRY
+
+I make no allegation of impropriety against any person or entity. These
+questions concern the administrative record of how the review was conducted.
+The fact and identity of any engagement, and the existence of any conflict
+process, are not privileged, and I do not seek the content of any legal advice.
+
+I would be grateful for a response within 28 days. If any part of this letter
+is declined, please identify which part and the basis for declining it.
+
+Yours sincerely
+
+Cory Lea Shepherd
+Appellant, WC/2024/227
+
+---
+
+⛔ NOTES — NOT PART OF THE LETTER
+
+1. THIS IS THE SIGNAL VERSION, SENT ON CORY'S DECISION. The risk trade is
+   recorded at Parts 13–14 of DEED-AND-LOD-8AUG2026.md and was put to him;
+   he elected the direct form. The identifiers are in because he wants the
+   proof-of-work visible. That choice is his and it is made.
+
+2. WHAT STILL PROTECTS HIM IN THIS DRAFT — do not remove any of it:
+   - The provenance sentence ("I state this only as the factual basis…")
+     answers "how do you have internal identifiers" before it is asked.
+   - Paragraph 3 is the no-allegation clause. It is true and it is the
+     defamation shield.
+   - NO FIRM IS NAMED anywhere. "Associated with WorkCover Queensland" is a
+     category, and question (b) makes the association THEIR fact to state.
+   - NO consequence is attached to any answer. Nothing reads "or else".
+   - No criminal, penalty or records-legislation citation appears.
+
+3. WHAT THIS LETTER SPENDS, stated once: after it is sent, the Regulator knows
+   the file has been taken apart. The quiet-posture option is gone for this
+   topic. It does NOT touch the reliance argument BY ITSELF — the letter
+   attacks nothing and asks — but if the answers are adverse and he then
+   escalates, the §9.7 contradiction is live from that point.
+
+4. SEND ALONE. Not with the 64G letter, not with the witness list, not inside
+   any filing. Correspondence only. Matheson only.
+
+5. The employment-track preservation letter to Metro South remains separate
+   and still owed.
