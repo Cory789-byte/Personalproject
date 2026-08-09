@@ -634,3 +634,94 @@ contradict each other.** ⭐⭐ **Whichever he advances, he forfeits the other.*
 
 ⇒ ⭐⭐⭐ **It is not close. But it IS his call, and it should be made knowing the trade — not by
 default.**
+
+---
+
+# PART 10 — ⭐⭐ THE LEVERAGE THEORY: "MAKE CONCEDING HARDER, NOT EASIER"
+> 8 August 2026. Cory: *"the point is to make conceding even more difficult… if lost it will be
+> revealed that the decision the appeal overturned was in fact written by a WorkCover legal team."*
+> ⭐⭐ **This is a SETTLEMENT strategy, not a litigation one, and it has to be assessed as one.**
+
+## 10.1 ⭐⭐ THE CONCEPT IS SOUND, AND IT HAS NOT BEEN ASSESSED UNTIL NOW
+
+**Settlement pressure = P(they lose) × (what losing costs them).** ⭐⭐ **Everything in this repo has
+worked on the first term. He is working on the SECOND — raising the cost of losing by adding
+institutional exposure on top of the compensation liability.**
+
+⭐ **And the exposure is real.** If the appeal succeeds and it then emerged that the review decision
+was produced in the environment of a firm on WorkCover's own panel, that is a **governance** problem
+for OIR — not a compensation one. ⭐⭐ **Agencies price governance risk very differently from money.**
+
+## 10.2 ⛔⛔⛔ BUT IT FAILS ON EXECUTION, AND THE FIRST REASON IS FATAL
+
+**1. ⛔⛔ THE THREAT IS NOT EXECUTABLE, SO IT IS NOT LEVERAGE.**
+The exposure only materialises **if he publishes it.** ⛔ **He cannot** — defamation with no truth
+defence, and he cannot prove the premise. ⭐⭐⭐ **A threat you are unable to carry out is not
+leverage. It is a bluff that is cheap to call.**
+
+**2. ⛔⛔⛔ AND SIGNALLING IT CROSSES A CRIMINAL LINE.**
+> ⛔⛔⛔ **Criminal Code (Qld) s 415 — EXTORTION.** A person who, **without reasonable cause, makes a
+> demand with intent to gain a benefit**, and **with a threat to cause a detriment**, commits a
+> crime.
+
+⭐⭐⭐ **Conveying, expressly OR by implication, "settle or this becomes public" in a negotiation is
+the exact shape of that offence.** ⛔⛔ **There is a bright line here:**
+
+| ✅ **LEGITIMATE** | ⛔ **NOT** |
+|---|---|
+| **Asking a question and letting them draw their own conclusions** | **Signalling what happens if they don't settle** |
+| **Putting a fact on the record** | **Attaching a consequence to it** |
+
+⛔⛔ **He is self-represented, so there is no solicitor between him and that line. It has to be held
+deliberately.**
+
+**3. ⚠⚠ AND WITH A GOVERNMENT RESPONDENT IT INVERTS.**
+⭐⭐ **Agencies do not settle under perceived duress — they escalate and harden**, because settling
+under pressure sets a precedent they cannot afford. ⇒ ⛔ **The tactic is likely counterproductive
+against this respondent specifically.**
+
+**4. ⚠ IT CANNOT BE UN-RUNG.** Once a communication reads as a threat, **the neutral posture is gone
+permanently** and it colours the hearing too.
+
+**5. ⚠ AND THE PREMISE IS STILL NOT PROVED.** *"Written by a WorkCover legal team"* is not
+established — Parts 1–3 of `RD69983-SYNTHESIS.md`. ⛔ **Building leverage on a proposition he cannot
+prove means the bluff collapses the moment it is tested.**
+
+## 10.3 ⭐⭐⭐ BUT THERE IS A LEGITIMATE VERSION — AND HE HAS ALREADY BUILT IT
+
+> ⭐⭐⭐ **HE DOES NOT NEED TO MAKE THE THREAT. HE NEEDS THEM TO KNOW THE QUESTION EXISTS.**
+
+⭐⭐ **An unanswered, well-founded question sitting on the file does the leverage work by itself:**
+- **If there is something there, they already know it.** ⭐⭐⭐ **His job is to demonstrate that he
+  could find it — not to say what he would do next.**
+- ⭐⭐ **A question is unanswerable in a way a threat never is.** It cannot be reported, refused,
+  or turned into a complaint about him.
+- ⭐ **And it preserves everything** — the reliance, the credibility, the posture.
+
+⇒ ⭐⭐⭐ **The two neutral requests ALREADY CREATE THE PRESSURE HE IS DESCRIBING.** ⛔ **Adding the
+threat does not increase it. It destroys it, and exposes him.**
+
+## 10.4 ⭐⭐⭐ AND THE PROPER TOOL FOR "MAKE CONCEDING HARDER" ALREADY EXISTS
+
+⭐⭐⭐ **The statute contains the mechanism built for exactly this job, and he has already used it
+once:**
+
+| | |
+|---|---|
+| ⭐⭐⭐ **s 558(3)** | *"Costs of the hearing are in the appeal body's discretion"* — and **costs ordinarily follow the event**: *Canton* [2019] QIRC 145 |
+| ⭐⭐⭐ **The Calderbank** | Served **1 July 2026 at 12:16**, **rejected 16 July 2026**. ⭐⭐ **An unreasonable rejection of a Calderbank offer exposes them to indemnity costs** |
+
+⇒ ⭐⭐⭐ **THAT is how you lawfully raise the cost of not settling: a well-pitched offer, refused,
+with a costs consequence that is real, quantifiable, and entirely proper to point out.**
+
+⭐⭐ **And the material to sharpen it is what this session produced** — the post-injury conduct point,
+the patient-safety omission, the 11-day closure, the missing *Mahaffey*, and the deed payments that
+cut across Factor 3. ⭐⭐⭐ **Those raise P(they lose). That is the term worth moving, and it is the
+one that carries no risk at all.**
+
+## 10.5 ⭐⭐ THE ONE-LINE ANSWER
+
+> ⭐⭐⭐ **His instinct is right: raise the cost of losing. His instrument is wrong: the threat is
+> unexecutable, improper and counterproductive. The lawful instrument is a sharpened Calderbank
+> backed by s 558(3) — and the leverage he is reaching for is ALREADY DELIVERED by asking the
+> question and saying nothing further.**
