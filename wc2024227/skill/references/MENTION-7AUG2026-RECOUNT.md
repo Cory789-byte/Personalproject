@@ -2111,3 +2111,79 @@ in the track built to test it.**
 ⭐⭐ **All of this is the s 32(5)(a) MANNER case, and it is now very well built.** ⛔ **None of it is
 worth as much as WEDNESDAY'S REPORT, which carries s 32(1) — the gate the whole appeal turns on.**
 **Four days.**
+
+---
+
+# N.16 — THE ON-CALL PROCESS BEFORE SHE CHANGED IT + "I NEED A BREAK FROM HER"
+> 8 August 2026. Cory: *"evaluate what was in place before she changed it — the on-call thing was
+> changed when I was seeking pay on the 1st of May; the process was not the one asserted; and on
+> 'declining to speak with her' — there was a point where I emailed Tammy and said I need a break
+> from her."*
+
+## N.16.1 ⭐⭐ WHAT WAS IN PLACE BEFORE — THE BASELINE (documented)
+**From Cory's 29 Aug 2024 email "Afterhours Oncall Process – Switchboard" (pack 10 p.50) and his
+statement (corpus 1180–1230):**
+- ⭐ **BEFORE 15 April 2024:** the **switchboard** held the **after-hours on-call delegation** — the
+  24-hour rotational **switchboard staff** (including Cory) took and actioned the after-hours calls.
+- ⭐ **The managers were DAY WORKERS.** *"just as the previous manager Sandra Johnstone was a day
+  worker, both Chloe Taylor and Ellen Stibbard are also **Day Workers only**."* On-call was a
+  **switchboard** function, not a day-worker-manager function.
+
+## N.16.2 ⛔ WHAT CHANGED — UNILATERALLY, NO CONSULTATION
+> ⭐⭐⭐ *"On April 15, 2024 with **no consultation** after hours on call delegation was **removed from
+> switchboard** as both Ellen and Chloe **decided effective immediately** it was a necessity that
+> they were on call and was done **without consulting** those who were taking the call and actioning
+> the decision."*
+
+⇒ ⭐⭐ **Two day-worker managers removed an established switchboard function and took it for
+themselves, effective immediately, without consulting the staff who performed it.** ⭐ **That is a
+textbook unassessed unilateral directive — Stressor 1(a), documented and specific.**
+
+## N.16.3 ⭐⭐⭐ WHY IT MATTERS — THE "CALL PROCESS" THEY ASSERT IS THE CHANGED ONE
+**The SOFC (1(f)) and Chloe's account justify the retraction partly on Cory's "on-call
+non-compliance" — i.e. that he breached "the call process" (contact Chloe via switch/office/mobile).**
+⇒ ⭐⭐⭐ **But that "call process" is the RECENTLY, UNILATERALLY CHANGED process — imposed 15 April
+without consultation. Treating "non-compliance" with a freshly, unilaterally imposed process as
+misconduct is not reasonable management action.** ⭐⭐ **The process they assert was not the
+established one; it was the one they had just changed.**
+
+⭐ **And the day-worker point compounds it:** managers who do not work shifts imposed an on-call role
+on themselves — and were then unavailable (the office-hours/clinical-contact failure, N.4/N.16).
+**The same change that took the function also produced the unavailability Cory was raising.**
+
+## N.16.4 ⚠ THE "1 MAY / SEEKING PAY" LINK — PARTLY VERIFIED, PARTLY TO CONFIRM
+- ✅ **The on-call removal is documented as 15 April 2024.**
+- ⚠ **Cory recalls it "when I was seeking pay on the 1st of May."** His pay-seeking IS documented —
+  **8 April** formal pay-review request; the fatigue/pay refusal in the **~1 May** window (the "1 May
+  refusal" in the Factor 4 sequence). ⛔ **CONFIRM: is the "1 May" a SEPARATE process change, or the
+  pay/fatigue refusal coinciding with the on-call change?** ⭐ **Do not assert a 1 May on-call change
+  until located — the documented on-call change is 15 April.** ⚠ **The point still stands: the
+  process changes cluster with the period he was raising pay and fatigue.**
+
+## N.16.5 ⭐⭐⭐ "I EMAILED TAMMY AND SAID I NEED A BREAK FROM HER" — RECASTS THE AVOIDANCE RISK
+**This directly answers the N.11.4 risk (Chloe's "he did not want to speak to me").**
+- ⭐⭐ **If Cory emailed the DIRECTOR (Reese) stating he needed a break from Chloe, then his declining
+  to speak to Chloe is NOT unexplained avoidance — it is consistent with a REASONABLE, DOCUMENTED
+  request to management for relief from contact with a manager he was in conflict with** (and had
+  lodged a PID naming).
+- ⭐⭐⭐ **And it flips the manner point:** management's response to his request for relief was to
+  **direct him to keep contacting her** (the retraction / "call process"). ⇒ **They insisted on the
+  very contact he had asked to be relieved of.**
+
+⛔⛔ **BUT — LOCATE THE EMAIL. I have NOT found the "I need a break from her" email TO TAMMY in the
+repo.** ⭐ I found a *"decided to distance myself from communication with them"* email — but that is
+to **Amy Mo (WorkCover)**, during the claim (corpus 1108), **not to Reese.** ⇒ ⚠ **The email to
+Tammy is currently CORY'S EVIDENCE, not a located document. Find it (his sent items / disclosure)
+before relying on it. If it exists, it is a strong risk-neutraliser; until located, it is testimony.**
+
+## N.16.6 ⛔ DISCIPLINE
+- ⭐⭐ **On-call change → 1(a) unassessed unilateral directive (WC manner). Clean, documentary.**
+- ⭐⭐ **"Asserted process ≠ established process" → rebuts the on-call-non-compliance justification:
+  non-compliance with a unilaterally-changed process cannot found reasonableness.** ⛔ Keep it
+  documentary; do not frame as "they changed it to trap me" (motive).
+- ⚠⚠ **"Break from her" — frame as a REASONABLE REQUEST FOR RELIEF that management refused, NOT as
+  "I couldn't work with her."** ⛔ **The latter is the s 32(5)(b) interpersonal-conflict trap.** ⭐
+  The point is management's RESPONSE (insisting on contact), not his feelings about her.
+- ⛔ **The "distance myself — they contributed to my injury" email is a CLAIM-context account to
+  WorkCover** — fine as his account, but ⚠ it is his perception of causation; do not over-rely on
+  it as proof.
