@@ -4307,3 +4307,8 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   willingness. Fallback (fresh IME) is weaker on causation-at-June-2024.
 - `drafts/GRIFFIN_MEMOIR_7AUG_INTERNAL.txt` — ⛔ internal perspective exercise (Matheson's-chair
   genre), exterior facts sourced to CONNECTION-MAP-5AUG.md, interior voice invented. Never serve.
+- `drafts/RUTTAN_MEMOIR_7AUG_INTERNAL.txt` — ⛔ second perspective exercise (Ruttan): the Form 29
+  arc from the objection author's chair through to the appearance-only mention. Exterior facts
+  verified against confirmed-record.md (incl. the 2:57 PM created / 3:02 PM served timestamps and
+  the Schedule A row 6 adoption of MSH's own narrowing); mention account = Cory's recollection;
+  interior voice invented and labelled. Never serve.
