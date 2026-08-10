@@ -4530,3 +4530,11 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   HELD; W5 preserved damages → Calderbank #3 paragraph; W6 "the Dismissal" vocabulary; W7
   entire-agreement shield; W8 tripwires). Numbers: 47/51 hearing (unchanged), 79/85 compensated
   (+1). Full prohibitions list in the map. Deed stays in the drawer.
+- THE DOUBLE-LENS READ (deed + PID) banked 10 Aug: every 3-Aug document lands on readers charged
+  with knowledge of BOTH the deed (refused non-reprisal; cl 6/7; consent model) and the PID
+  (13 May 2024; circulated within 26 hrs; retraction 15 May; closed 24 Dec 2024 without
+  investigation DURING the incapacity nadir — the non-reply is clinically explained; protection
+  attaches at MAKING, not outcome). Each letter = 5 things at once: neutral procedure /
+  performance of his obligations / documentation of their non-performance / accrual of protected
+  acts / completion of knowledge elements. ⛔ The word reprisal stays unsaid everywhere (rules
+  2/8) — the elements are being proven, not pleaded.
