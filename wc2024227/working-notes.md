@@ -4602,3 +4602,11 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   generic corro practice would have left unproven; 67 minutes = triaged as significant on
   arrival. Their careful handling produced his evidence. Mundane reading (standard Exec Services
   practice) noted and probable — the FORM's evidentiary effect is identical either way.
+- ⭐ NEW FACT FLAGGED (Cory, 10 Aug late): he was told "the other staff member was doing that"
+  when it was NEVER done — a checkable misrepresentation about task/work distribution
+  (comparator/roster-equity territory, Stressor 1 / items 8-9 anchor). FOR THE STATEMENT: date
+  it, name the task, identify the record that disproves it (roster/task logs). It is a FACT
+  question, not motive — cross-examination anchor if the records disprove the claim.
+  His accumulation list for Phases 1-2 of the question map: pay delay (≤5 months) = ERI ·
+  union/delegate non-response = support failure · the rostering = control · the false
+  "someone else was doing it" = organisational-justice/integrity fact.
