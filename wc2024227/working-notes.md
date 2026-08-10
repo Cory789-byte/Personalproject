@@ -4694,3 +4694,15 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   as referenced in QH's own FRMS Implementation Guidelines. All from the Regulator's OWN
   disclosure, paginated "Renee Matheson". Feed: statement, Report B assumed facts, manner
   block, pleading impeachment. Follow-ups listed in the reference file.
+- THE REGISTER MATCH, 2024 emails vs 2026 submissions (banked 11 Aug): seven shared
+  fingerprints — courtesy-first openings; self-correction on the record ("I realized that I had
+  been mistakenly referencing this section", 1 May 2024); instrument citation (Ops Manual
+  s 4/10.4.1, Award, CASA → s 89, r 64G, cl 1.11); duty-framing ("It is incumbent upon
+  management..."); attachments-as-receipts; standing offers ("happy to...", "I do not object
+  and will attend"); dates as skeleton. Same voice, matured: 2026 = the 2024 voice with
+  adjectives removed, asks isolated, bridges added. ONE stress-fracture: the 15 May "defrauds"
+  line — a single heated phrase in two years, dated to the crisis peak — the deviation proves
+  the baseline (clinically eloquent: written function preserved while attendance collapsed).
+  Legal value: BIDIRECTIONAL AUTHENTICATION — the contemporaneous emails prove the filings
+  aren't ghost-written; the filings prove the emails weren't aberrant; the premorbid
+  conscientiousness exhibits itself across the whole arc.
