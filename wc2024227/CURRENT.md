@@ -1,11 +1,53 @@
 # CURRENT — WHICH LAYER IS LIVE
 > ⭐ **READ THIS BEFORE OPENING ANY FILE WITH "FINAL" IN ITS NAME.**
-> Last updated **1 August 2026**. There are several documents in this repository titled FINAL.
-> **They are FINAL for their own date and superseded for today.** This file states the chain.
+> Last updated **10 August 2026, night**. The 3 August package WAS SENT (see below, preserved).
 
 ---
 
-# ⭐ THE LIVE PACKAGE — SENDING MONDAY 3 AUGUST 2026
+# ⭐⭐ AS AT 10–11 AUGUST 2026 — THE LIVE LAYER
+
+**THE CRITICAL PATH IS WEDNESDAY 12 AUGUST — the psychiatrist.** Everything routes through it.
+- Consultation kit: `drafts/WEDNESDAY_QUESTION_MAP_12AUG.md` (six phases, open questions,
+  gap list) · the LOI `drafts/out/CEILING_SET/01_Letter_of_Instruction_Report_B.pdf` · source
+  package guide `01b` · ceiling `01c` · internal benchmark
+  `drafts/EXEMPLAR_REPORT_B_INTERNAL_BENCHMARK.md` (⛔ never to the doctor).
+
+**SENDS (Mon 10 / Tue 11):**
+1. Union email (Moran+Petering) — FINAL at `drafts/EMAIL_TO_UNION_Stage2_psychosocial_DRAFT.txt`
+   (top block). Send FIRST.
+2. Stage 2 referral — send-ready PDF `drafts/out/REFERRAL_Stage2_cl1.11.2b_MSH-INJ-5795.pdf`
+   (union section removed) · union-editable variants in `drafts/out/` if their input arrives.
+3. 64G/Form 29 WITHDRAWAL — `drafts/out/WITHDRAWAL_Form29_and_64G_WC2024227.pdf` (1pp) +
+   notes in the txt draft. Registry, cc Matheson + Ruttan.
+4. TRANSCRIPT ORDER — QTranscripts (party = one free copy; call 1800 842 122 first). ⭐ Nothing
+   from the mention is citable until it arrives.
+5. (Decision pending) preservation/conflict enquiry v2 — only WITH the compliance-positive
+   package, never alone.
+
+**NEW TONIGHT — read before re-deriving:**
+- `skill/references/FULL-PICTURE-v9-10AUG2026.md` (+v9.1 addendum) — **47% hearing / 79%
+  compensated blend; 51% / 85% strong-report**. Supersedes v8.
+- `skill/references/THE-TWO-JUDGMENTS-10AUG2026.md` — the reasons-based node analysis.
+- `skill/references/CASE-SPECTRUM-BENCHMARK-10AUG2026.md` — Carr/Anderson spectrum.
+- `skill/references/DEED-FORENSIC-DESTRUCTION-10AUG2026.md` + `DEED-WEAPON-MAP-10AUG2026.md`
+  — ⭐⭐⭐ the EXECUTED deed (filed: `documents/2025-02_Deed_EXECUTED_Cory14Feb_Cridland21Feb2025.pdf`)
+  DIFFERS from the draft the 8-Aug analysis used: "(the Dismissal)" defined term; release
+  narrowed to Dismissal claims; **any common-law PI claim excluded from release**; NEW cl 7
+  (rights reserved over future cl-6 management action; origin = MSH refused a non-reprisal
+  clause). ⛔ DEED-AND-LOD-8AUG2026.md Part 1 is SUPERSEDED on the deed's terms.
+- Griffin arc CONFIRMED from her own emails (appeared for MSH in TD/2024/110; negotiated the
+  deed; wrote WP directly to unrepresented Cory 20+28 Jan 2025; attended the 7 Aug mention
+  unordered). The unknown 4th attendee: leading hypothesis Mark/Executive Services (first-name
+  only — transcript may resolve).
+- ⭐ `documents/2023-09-27_Taylor_FullTime_Appointment_APPROVED.pdf` — Taylor approving his
+  full-time application ("very pleased"), commenced 16 Oct 2023. The premorbid-engagement
+  document.
+- Date conflict RESOLVED: 8 Oct 2024 = receipt of the dismissal correspondence; 20 Sep 2024 =
+  nominated separation; 7 Oct = would-have-resumed (deed ¶21/¶36/¶38).
+
+---
+
+# (PRESERVED) ⭐ THE LIVE PACKAGE — SENDING MONDAY 3 AUGUST 2026
 
 **Everything live is in `drafts/SEND_31JUL/`, built as PDFs into `drafts/out/`.**
 **The send map is `drafts/SEND_31JUL/MASTER_SEND_PACK.md`. Start there.**

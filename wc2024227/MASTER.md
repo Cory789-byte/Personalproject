@@ -535,3 +535,57 @@ use `pdftoppm`.
 | `skill/references/discretion-logic-research.md` | Why the 15 July "discretion" is misconceived |
 | `working-notes.md` | The running log — append here each session |
 | `CLAUDE.md`, `skill/SKILL.md` | Project context and method; status blocks current as at 31 Jul 2026 |
+
+---
+# 10 AUGUST 2026 — THE NIGHT SESSION (consolidated)
+
+## A. The mention, fully read
+Dwyer read the amended 9A onto the record, grouped the fatigue material ("all the same
+thing"), probed, and indicated the soft-disclosure structure (seek from the Respondent;
+return if unavailable — ⚠ verbatim pending transcript). Attendees per Cory (⚠ verify):
+Ruttan (compelled, appearance only), **Griffin (unordered)**, Matheson, + an unannounced man
+(leading hypothesis: Mark, Executive Services — the officer who acknowledged the CE letter at
+Cridland's direction, 67 min after send). 10am standalone listing. MSH's objection never
+tested, never vindicated; the 64G withdrawal (built, sending) completes the bench's design.
+
+## B. The executed deed — the night's biggest find (6 documents filed)
+See DEED-FORENSIC-DESTRUCTION-10AUG2026.md + DEED-WEAPON-MAP-10AUG2026.md (W1–W8).
+Headlines: Recital D defines "(the Dismissal)"; cl 8 releases ONLY Dismissal-arising claims
+and excludes **any common-law PI claim** + the WC claim; cl 7 (new) reserves his rights over
+all future cl-6 management action — origin: **MSH refused Saines' non-reprisal clause**
+(Conrad email 13 Feb 2025); cl 4/5 = the consent model the 2026 exclusion violates; the
+return mechanism documented (LWOP → deed effective 21 Feb → return 24 Feb, first business
+day); $377.19 Fatigue Pay for 18 Mar 2024 paid (payslip-provable; ⛔ never as admission).
+Griffin negotiated throughout and wrote WP directly to him unrepresented (20+28 Jan 2025) —
+"cannot entertain a settlement on the basis that it cannot manage you by way of reasonable
+management action". Littles (Bandarian) referral = the damages pathway professionally
+flagged and preserved.
+
+## C. Report B — the ceiling set, complete
+LOI verify-hardened (3 adversarial lenses; REPORT-B-LOI-VERIFICATION-9AUG2026.md); source
+package guide; ceiling explanation; WEDNESDAY_QUESTION_MAP_12AUG.md (six phases — incl. the
+approach-avoidance attendance pattern as Phase 2); internal exemplar benchmark (⛔ never to
+the doctor) + the three-construct mechanism (job strain / ERI / organisational justice —
+objective-features wording only). First presentation = 1 JULY 2024 (Hawes face) — the
+onset→presentation gap is ~13 days, not 3 months.
+
+## D. The forecast — v9.1
+47% hearing / 79% compensated (blend) · 51% / 85% (strong report) · 37% / 64% (weak).
+Tornado near-flat, discipline slightly first. The two remaining Regulator pens: a future IME
+(watch for the examination request) and the perception door (his alone to keep shut).
+Reasons-model (THE-TWO-JUDGMENTS): accepting judgment writable at nodes 1/3/4 now, node 2
+on the report; denying judgment currently has no medical author and must beat Mahaffey +
+its own side's findings.
+
+## E. Corrections banked tonight
+- DEED-AND-LOD-8AUG2026.md Part 1 superseded (draft ≠ executed deed).
+- The 8-Oct/20-Sep date conflict RESOLVED (receipt vs nominated separation).
+- Griffin's 2024 role CONFIRMED (her 26 Nov 2024 appearance email).
+- The full-time approval found: Taylor, 27 Sep 2023, commenced 16 Oct 2023.
+
+## F. Open items (carried)
+Transcript (order + read before quoting anything from the mention) · the man's identity ·
+19 Mar 2024 leave paid/unpaid · A4 consultation exact date · first-Krishnaiah-consult date ·
+medication dates · bereavement date (Cory's instruction) · executed-deed final wording
+re-check against W5 before Calderbank #3 · read Carr/Mahaffey/Anderson to ratio before
+citing · the "break from her" email · roster arithmetic for 17–18 Mar.
