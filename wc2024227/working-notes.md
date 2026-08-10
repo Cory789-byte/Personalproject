@@ -4409,3 +4409,9 @@ WITH the group** (not a gallery stranger — with them). Cory has never met him.
   7 Aug mention → likely Stage 2 actor. ⛔ Discipline rule 1: knowledge + continuity, documented;
   motive never pleaded. Note the Stage 2 referral's "officer independent of the matters in
   dispute" request now has concrete content if she self-selects for the conference.
+- `drafts/EXEMPLAR_REPORT_B_INTERNAL_BENCHMARK.md` — ⛔⛔ INTERNAL ONLY, fictitious drafting
+  exercise at Cory's request: a textbook-psychiatrist exemplar of Report B on his facts
+  (17 sections, 16–22pp real-world equivalent), with a 12-point benchmark checklist to evaluate
+  the REAL report against, and a gap-check (⚠ FIND the Aug 2023 0.8→FT request document; verify
+  first-consult date, medication dates, bereavement date). NEVER shown to the doctor, never
+  served — a drafted exemplar reaching Krishnaiah would destroy the report's independence.
