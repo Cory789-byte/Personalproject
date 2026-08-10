@@ -4312,3 +4312,19 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   verified against confirmed-record.md (incl. the 2:57 PM created / 3:02 PM served timestamps and
   the Schedule A row 6 adoption of MSH's own narrowing); mention account = Cory's recollection;
   interior voice invented and labelled. Never serve.
+
+## 9 August 2026 (evening) — transcript research + Form 29/64G withdrawal draft
+- TRANSCRIPT/AUDIO of the 7 Aug mention: order via **QTranscripts**
+  (qtranscripts.justice.qld.gov.au, QGov/myGovID login) — the platform covers QIRC. Under the
+  **Recording of Evidence Regulation 2018 a party is entitled to ONE FREE COPY of the transcript**;
+  audio can also be requested. If the mention has not been transcribed it is typed on request
+  (production cost may apply — call Recording and Transcription Services **1800 842 122** for an
+  estimate and hardship/fee-waiver options). Manual form exists ("Queensland Courts, QIRC & QCAT
+  Request for Transcript", courts.qld.gov.au). Delivery = secure download link, expires 30 days.
+  Note: VIQ Solutions (one of two providers) exited 30 Jun 2026 — allow for slower turnaround.
+- `drafts/WITHDRAWAL_Form29_and_64G_DRAFT.txt` + `drafts/out/WITHDRAWAL_Form29_and_64G_WC2024227.pdf`
+  (1 pp) — withdraws the 23 Jun application AND all outstanding Form 29 items; MSH released; further
+  documents via the Respondent's Appeals Officer; awaits further orders. NO reasons given (rules 5–6).
+  ⚠ Note 3 in the draft: the MET-call spreadsheet (identified as available in K-LM26/729) goes with
+  it — route (a) preserved via para 3. Send Mon 10 Aug with the witness list; never let the
+  preservation/conflict enquiry arrive alone.
