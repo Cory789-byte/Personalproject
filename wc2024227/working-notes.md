@@ -4400,3 +4400,12 @@ WITH the group** (not a gallery stranger — with them). Cory has never met him.
 - ⚠ The Griffin memoir (drafts/GRIFFIN_MEMOIR_7AUG_INTERNAL.txt) assumed she was NOT in the
   room — now contradicted by Cory's recollection. The memoir is labelled invented-interior, but
   note the factual frame is superseded.
+- ⭐⭐ GRIFFIN — CORY'S RECOLLECTION (10 Aug): **she handled his October 2024 dismissal**, and she
+  runs MSH's unfair-dismissal/QIRC matters generally. NOT yet corroborated in the searchable
+  record — the TD/2024-110 Form 12 is NO_TEXT_LAYER and the 2024 dismissal-era correspondence is
+  not in the corpus. ⚠ VERIFY: render TD2024-110 PDF + locate 2024 reinstatement correspondence.
+  If confirmed, her arc spans: 2024 dismissal (reversed) → every appeal listing → service in the
+  appeal (30 Apr 2026) → the 2026 exclusion inside her directorate → voluntary attendance at the
+  7 Aug mention → likely Stage 2 actor. ⛔ Discipline rule 1: knowledge + continuity, documented;
+  motive never pleaded. Note the Stage 2 referral's "officer independent of the matters in
+  dispute" request now has concrete content if she self-selects for the conference.
