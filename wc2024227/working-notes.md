@@ -4578,3 +4578,9 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   acknowledgment, "mistake" is no longer available going forward — continuation is choice. The
   file never needs to pick a reading: conflict OR unchecked-signature governance failure both
   serve; his letter is what forecloses the innocent future. Rule 1 absolute.
+- `drafts/CRIDLAND_MEMOIR_INTERNAL.txt` — ⛔ fourth perspective piece (her hat): the arrival
+  sequence at the CE's desk (deed → objection → s 89 letter → 64G produce-or-swear → conflict
+  question) and the "did he plan it" question answered inside the story: he planned his PART
+  (channel discipline); the CONVERGENCE was built by their own org chart — every document
+  reached her signature by their routing, not his targeting; the only document he ever aimed at
+  her was the one asking if anyone had noticed. Exterior facts cited; interior invented; rule 1.
