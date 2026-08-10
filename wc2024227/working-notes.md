@@ -4493,3 +4493,20 @@ GRIFFIN'S ROLE — RECOLLECTION CONFIRMED FROM HER OWN EMAILS:
 - He was represented by TWO firms in sequence: Stone Group (Nov-Dec 2024) → Saines (Feb 2025).
 Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 2025-01-28_Griffin…,
 2025-02-13_Saines_Conrad…, 2025-02-14_Saines…, 2025-02_Deed_EXECUTED….
+- FURTHER from the full chains (same six documents):
+  ⭐⭐⭐ Saines' 13 Feb 2025 advice lists the amendments AND their origin story: (1) WC-claim
+  clarification; (2) common-law PI reservation; (3) clause 7 = "Ensure that you retain any legal
+  rights you may have if the Health Service takes disciplinary action against you in the future";
+  (4) ⛔⭐ Saines sought an express **"non-reprisal" clause** and amendments limiting clause 6 —
+  **MSH REFUSED BOTH** (call with MSHHS, 13 Feb 2025). Then: 8 Sep 2025 letter; 2026 exclusion.
+  Documented context; rule 1 — never pleaded as motive.
+  ⭐ Saines referred him to Littles Lawyers (Peter Bandarian) for the common-law PI claim —
+  the damages pathway was professionally flagged in Feb 2025 and is preserved by cl 8.
+  ⭐ Griffin, 28 Jan 2025 (WP, direct to unrepresented Cory): MSH "is not able to entertain a
+  settlement on the basis that it cannot manage you by way of REASONABLE MANAGEMENT ACTION, and
+  will not 'wipe the slate clean'" — the s 32(5)(a) vocabulary in the ER Director's negotiation
+  correspondence, Jan 2025. Underpayments expressly preserved ("not restrained from continuing
+  to pursue them outside the context of this matter").
+  ⚠ WP status: the negotiation emails are without-prejudice (internal analysis only; not
+  tenderable); the deed itself became open on agreement (cl 16) but stays confidential (cl 12,
+  as-required-by-law exception). Standing advice unchanged: prove payments by payslips.
