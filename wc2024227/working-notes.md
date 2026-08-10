@@ -4377,3 +4377,9 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   Info, no XMP). 10 automated content checks passed.
 - Send: attach to a two-line email to LBH_HR, cc per the Copies line. The Stage 2 seven days run
   from sending; diarise the chase 3 business days out.
+- `drafts/out/STAGE2_REFERRAL_FOR_UNION_EDIT.docx` — the union's editable copy: Cory's co-edited
+  docx with the two finishing text fixes applied in place (date phrasing; 1.11.5 in quotes), the
+  UNION SECTION KEPT (the note to Heath and Emily, in his own latest wording), all his
+  formatting preserved, metadata scrubbed. The send-ready PDF (union section removed) and this
+  editable docx (union section in) are the two live artifacts: if the union completes their
+  section, rebuild the PDF from their text; if not, the PDF goes as is.
