@@ -4706,3 +4706,17 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   Legal value: BIDIRECTIONAL AUTHENTICATION — the contemporaneous emails prove the filings
   aren't ghost-written; the filings prove the emails weren't aberrant; the premorbid
   conscientiousness exhibits itself across the whole arc.
+- ⭐⭐⭐ THE CASE THESIS IN ITS FINAL FORM (Cory's, 11 Aug ~1:30am, after reading his own
+  disclosure emails end to end): his emails were never fighting management — they were asking
+  management to FOLLOW ITS OWN POLICY (the Ops Manual fatigue toolkit, the Award break, the QH
+  FRMS guidelines Reese herself confirmed reference his CASA citation, the leave process, the
+  consultation obligations). Every ask = "apply your own instrument." Their responses = the
+  departures. ⇒ THE RMA INVERSION: the "management action" the defence protects is largely
+  MSH's NON-COMPLIANCE with its own written standards; his pathologised "conduct" was
+  policy-adherence advocacy. Legal edge: the employer's own policies are the classic objective
+  yardstick of reasonable management — action inconsistent with the employer's own framework is
+  the paradigm of "not taken in a reasonable way," and HIS emails cite the very instruments
+  that define the benchmark. THE ONE-LINE CASE THEORY (closing-submission grade): "This is a
+  case about an employee who asked his employer to follow its own policies — and what it cost
+  him." For the doctor: the rule-follower watching the rules ignored = organisational justice
+  erosion personified.
