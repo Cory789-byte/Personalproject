@@ -4422,3 +4422,32 @@ WITH the group** (not a gallery stranger — with them). Cory has never met him.
   call up unable to go in) — Phase 2's core; converts the attendance record into symptom evidence;
   needs frequency/weeks in the statement. Five confirmations + oral-only discipline + pre-Wednesday
   gap list included.
+
+## 10 Aug 2026 (late) — TWO SOURCE FINDS filed from the uploads store
+1. `documents/2024-12-09_Deed_DRAFT_v2_MinterEllison.docx` — the DEED DRAFT v2 (9 Dec 2024),
+   negotiation-era, placeholders intact ("xxx hours", "[insert exact amount]"). Verbatim reads:
+   - ¶45 the carve-out INSIDE the release: "...excluding any statutory claim under the Workers'
+     Compensation and Rehabilitation Act 2003 or any claim that cannot be excluded at law".
+   - NO "will not oppose the appeal" covenant exists in this draft. The functional equivalent is
+     ¶48 (deed pleadable as a BAR only to claims "agreed to forego") + the carve-out ⇒ the deed
+     can NEVER be pleaded against the WC appeal by any Beneficiary (MSH, every HHS, the
+     Department, the STATE OF QUEENSLAND, all current/former officers).
+   - ⭐⭐⭐ ¶38: "$287.72 in daily earnings... from 7 October 2024 being the date upon which the
+     Applicant would have resumed work HAD HE NOT BEEN DISMISSED" — MSH's OWN DRAFTING calls it
+     a dismissal (not abandonment).
+   - ⭐⭐ DATE CONFLICT RESOLVED (the ¶43/deed open item): ¶21 — correspondence RECEIVED 8 Oct
+     2024, nominating separation 20 Sep 2024; ¶36 20 Sep–6 Oct treated as LWOP; ¶38 would have
+     resumed 7 Oct. All three dates true, different events. Form 20 ¶43's "8 Oct" = receipt.
+   - ⭐⭐ ¶45 release covers common-law PI claims "arising out of or related to the Abandonment
+     Process or Reinstatement Application" ONLY ⇒ a common-law claim for the WORKPLACE INJURY
+     itself (roster/fatigue, pre-dismissal) appears NOT released + WCRA claim excluded ⇒ the
+     future damages pathway looks preserved. ⚠ Check the EXECUTED deed's final wording.
+   - ¶50 MUTUAL non-disparagement: Health Service owes best endeavours that no employee makes
+     adverse comment about the Applicant re the deed matters.
+   ⚠ This is DRAFT v2, not the executed instrument — executed version remains the authority.
+2. `documents/2023-09-27_Taylor_FullTime_Appointment_APPROVED.pdf` — ⭐⭐⭐ THE GAP-CHECK ITEM
+   FOUND, and better than memory: 27 Sep 2023, FROM CHLOE TAYLOR: "your application for
+   Permanent Fulltime hours... has been approved... happy to commence Full-time hours from the
+   16th October 2023." "Very pleased." ⇒ the premorbid-engagement fact is now a DOCUMENT from
+   the Respondent's central witness, who was "very pleased" with him 5 months before the break.
+   Statement dates: applied ~Aug-Sep 2023; approved 27 Sep 2023; commenced FT 16 Oct 2023.
