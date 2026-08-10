@@ -4546,3 +4546,17 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   signatures (deed Feb 2025; objection Jun 2026) bracket the knowledge; the s 89 letter then
   landed on the same signatory, ack'd at her personal direction. His documents respected the
   deed's fences precisely while their responses accumulated against their own instrument.
+- THE 64G THROUGH THEIR EYES (deed lens, banked 10 Aug): (i) the application threatened to
+  convert the reserved-right/no-records contradiction into SWORN testimony (the verification-
+  on-oath sought at Form 20 ¶48/¶50) — the swearers would be the deed's own
+  signatory/negotiator; (ii) served on Ruttan personally 25 Jun 08:31 — the one reader holding
+  the deed + objection + Form 20 + (later) the CE letter together; (iii) DATES: sealed 64G
+  served 24–25 Jun; the "position changed" advice 26 Jun — the adjacency cuts BOTH ways
+  (⚠ their 34-occasions counter-material stands; task 6 still open: whether the stoppage
+  predates); under a reversed onus THEY would carry the burden of disproving the connection;
+  (iv) Schedule A row 6 adopted THEIR narrowing — the second time (after the Feb 2025 deed
+  amendments) the institution watched his side take their drafting and turn it; (v) the
+  withdrawal leaves the contradiction UNADJUDICATED BUT UNDISCHARGED — relief that is
+  provisional (RTI/IP + the soft channel reach the same records; the return path is
+  bench-endorsed); (vi) even the Form 20 stayed inside the deed's fences — dismissal FACTS
+  sworn for a proceeding, no deed, no settlement terms, no characterisation.
