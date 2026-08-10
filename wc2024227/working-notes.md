@@ -4748,3 +4748,14 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   ("difficult colleague") — counter = ownership + dates + group-wide/mutual/never-processed.
   The deepest finding: THE CONDUCT CONVERSATIONS NEVER OCCURRED — none of it was ever put to
   him; unraised contemporaneous allegations carry little hearing weight.
+- ⭐⭐ THE AUTHORSHIP SPLIT (Cory's precision correction, 11 Aug): audit the adverse inventory
+  BY AUTHORSHIP — of the five adverse items, the number in HIS OWN HAND = ZERO. The
+  confrontation = HER account of an oral exchange (his comm-book ENTRY itself was professional
+  — the on-call numbers instruction); the lateness = their characterisation; the notice = their
+  hedged recollection; the hallway comments = double hearsay. His single authored heat in five
+  years = the 15 May "defrauds" line. ⇒ THE EVIDENTIARY ASYMMETRY: his case rests on THEIR
+  WRITINGS (fixed, tendered, theirs); their case rests on THEIR INTERPRETATIONS OF HIS SPEECH
+  (contested recollection, cross-examinable, Briginshaw-weighted). Documents beat memories.
+  Statement handling refined: own the comm-book MOMENT as his experience WITHOUT adopting her
+  adjectives — his account of the same exchange; the only mutually agreed fact is that voices
+  rose (hers too, her admission).
