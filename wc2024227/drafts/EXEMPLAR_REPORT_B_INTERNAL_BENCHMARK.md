@@ -286,3 +286,65 @@ decide everything.
 - The statement must carry: the commute, the sleep window, the call volumes, the August 2023
   request, the "I absorbed the cost then asked to be made good" sequence — everything §§4–5
   assumes.
+
+---
+## ADDENDUM (10 Aug 2026) — §15A: THE THREE-CONSTRUCT FORMULATION
+*(How §15 Mechanism reads at full strength, integrating the recognised occupational
+constructs onto the assumed facts. Same rule as the whole document: benchmark only.)*
+
+**The evidence base (for the drafter's awareness; the real report may cite or paraphrase):**
+prospective meta-analyses associate effort–reward imbalance with stress-related disorder at
+OR ≈ 1.9, low organisational justice at OR ≈ 1.6–1.7, and high demands/job strain at
+OR ≈ 1.6 — increased risks of 60–90% for the strongest factors. These are the three models
+(demand–control–support; effort–reward imbalance; organisational justice) that dominate the
+occupational-psychiatry literature — and they correspond to hazard categories in the
+Managing the Risk of Psychosocial Hazards at Work Code of Practice 2022 (low job control;
+inadequate reward and recognition; poor organisational justice; poor support; poor
+organisational change management), in force at the material time and never assessed at the
+workplace, on the employer's own concession.
+
+**Construct 1 — Job strain: high demand, low control.** Assumed facts: a 24-hour emergency
+coordination function; ~[X] calls per shift; rotational nights; the rostered 7-hour break;
+rostering imposed; call-handling and on-call processes changed without consultation (May
+2024); a direction to retract written concerns. High demand held constant while control was
+progressively removed.
+
+**Construct 2 — Effort–reward imbalance (the strongest factor in the literature, and the
+best-documented on these facts).** Assumed facts: sustained high effort including a request
+for increased hours (August 2023); pay delayed by up to five months [recorded
+contemporaneously in the February 2025 clinical history]; the fatigue payment refused on a
+four-year-old agreement signed in a different employment status; recovery funded from his
+own accrued leave. Effort maximal; reward withheld, delayed, and finally refused — the
+classic ERI configuration, evidenced almost entirely by payroll records.
+
+**Construct 3 — Organisational justice, anchored ONLY to objective process features.**
+⛔ WORDING DISCIPLINE: the construct is expressed through the PROCESSES, never through the
+worker's sense of unfairness. Assumed facts: a written safety concern of 8 April 2024
+answered on 1 May by refusal, with the substantive rostering question unaddressed; no
+response for periods exceeding two weeks despite follow-up; a safety question met with a
+payroll answer; the direction to retract; [if in the statement: the documented practice of
+colleagues sending equivalent communications without equivalent consequence]. The report
+describes delay, non-response, inconsistency and process substitution as objective
+characteristics — "processes exhibiting the features the literature associates with
+psychosocial risk" — and NEVER "he experienced injustice" (the s 32(5)(b) door and the A4
+"perceives as unjust" line stay closed).
+
+**The formulation sentence at full strength:** "The occupational environment described in
+the assumed facts exhibited, concurrently and over a sustained period, the three exposure
+configurations most strongly associated in the prospective literature with the development
+of depressive disorder — job strain, effort–reward imbalance, and low organisational
+justice — in a workplace which, on the employer's concession, had no system for assessing
+or managing such risks. In my opinion these exposures operated cumulatively as the
+mechanism by which employment contributed to the condition, with the March 2024 rostering
+and the April–June correspondence sequence as the identifiable operative events."
+
+**Comparator handling:** the colleague-practice comparison enters the report ONLY if the
+underlying facts are in the signed statement/enclosures (one minimal factual line: the
+practice existed; his email; the retraction direction — which is admitted). Otherwise the
+comparator strand stays for the hearing. The doctor never receives comparator material he
+would have to weigh — he assumes it or goes without it.
+
+**Over-engineering guard:** one paragraph per construct, inside §15 — not a chapter. If the
+constructs displace the clinical reasoning rather than organise it, the report reads as
+advocacy and loses the authority it borrowed. The taxonomy serves the diagnosis; never the
+reverse.
