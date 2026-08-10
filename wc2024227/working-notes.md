@@ -4570,3 +4570,11 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   address her own role) / delegate (concedes the conflict) / silence (question stands on
   documented personal knowledge) — are all his. ⛔ Never alleged; the letter already asked it;
   channels remain RTI/IP + the sequenced tracks.
+- `drafts/THE_SIGNATURE_short_story_INTERNAL.txt` — ⛔ internal perspective piece (the memoir
+  genre; protagonist = the signature itself, no interior attributed to any person): the deed →
+  the objection → the exclusion → the s 89 letter → the 64G spared. The mistake analysis banked:
+  each node is individually explainable as ordinary process (CEO signs what's put up) — and the
+  charitable reading is itself the s 89 governance problem; after the 3 Aug letter + the 12:45
+  acknowledgment, "mistake" is no longer available going forward — continuation is choice. The
+  file never needs to pick a reading: conflict OR unchecked-signature governance failure both
+  serve; his letter is what forecloses the innocent future. Rule 1 absolute.
