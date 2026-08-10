@@ -4451,3 +4451,45 @@ WITH the group** (not a gallery stranger — with them). Cory has never met him.
    16th October 2023." "Very pleased." ⇒ the premorbid-engagement fact is now a DOCUMENT from
    the Respondent's central witness, who was "very pleased" with him 5 months before the break.
    Statement dates: applied ~Aug-Sep 2023; approved 27 Sep 2023; commenced FT 16 Oct 2023.
+
+## 10 Aug 2026 (night) — ⭐⭐⭐ THE EXECUTED DEED + THE NEGOTIATION RECORD (6 documents filed)
+⛔⛔ CORRECTION TO DEED-AND-LOD-8AUG2026.md: that analysis was built on a DRAFT. The EXECUTED
+deed (signed Cory 14.02.2025, witness Thomas Balsley; signed Cridland digitally 21.02.2025,
+witness Ellen Duckering) DIFFERS MATERIALLY — every difference favourable:
+1. ⭐⭐⭐ Recital D DEFINES the event: "...a separation date being 20 September 2024 **(the
+   Dismissal)**". MSH executed an instrument defining it as the Dismissal. "Abandonment" is
+   dead as a characterisation, over the CE's signature.
+2. ⭐⭐⭐ Clause 8 (release, FINAL): released = claims "arising from the Dismissal" ONLY
+   (narrowed from v2's "matters recited"+absenteeism), excluding "**any common law personal
+   injury claim**, statutory Workers' Compensation claim, or any claim that cannot be excluded
+   at law" (broadened from v2's WCRA-only). ⇒ the WC appeal AND any common-law PI claim —
+   UNQUALIFIED — survive. The future damages pathway is fully open, in terms.
+3. ⭐⭐⭐ Clause 7 — NEW, not in v2: "The Applicant reserves any legal rights or claims he may
+   have in relation to any FUTURE management action taken against him by the Health Service
+   pursuant to clause 6." ⇒ the 8 Sep 2025 letter and arguably the 2026 exclusion (both
+   clause-6 territory: absenteeism/communication) are events HIS RIGHTS ARE EXPRESSLY RESERVED
+   over. No release argument can ever touch the post-deed conduct.
+4. Clause 2(c): wages 20 Sep–13 Dec 2024 + $5,000 legal expenses; leave credited (AL 54.16h +
+   loading 54.16h); Clause 4: LWOP 13 Dec 2024 – 23 Feb 2025. ⭐⭐ THE RETURN TIMING PROVEN BY
+   THE DEED'S OWN ARCHITECTURE: wages only resumed on attendance; deed took effect 21 Feb
+   (Cridland); he returned 24 Feb — the first business day. The "employment-driven return" is
+   now a documented mechanism, not an inference. He signed 14 Feb — ONE DAY after A4
+   ("complete incapacity"; "advised to defer decisions regarding work settlement or legal
+   matters"). Documented, held; not a live front (he was represented at signing).
+5. Cl 10/11 mutual non-disparagement re deed matters; cl 12 confidentiality (as-required-by-law
+   exception); cl 16 WP→open once agreed. Cridland signed BOTH the deed and K-LM26/729.
+GRIFFIN'S ROLE — RECOLLECTION CONFIRMED FROM HER OWN EMAILS:
+- 26 Nov 2024 (to Registry): "I confirm that I will appear for the Health Service in person"
+  — TD/2024/110. She ran the dismissal defence. VERIFICATION FLAG CLOSED.
+- 11 Dec 2024: Stone Group (Joubert) forwarding "a further email from Lauren" — she negotiated
+  the deed with his then-lawyers.
+- 28 Jan 2025, WP, DIRECT to Cory ("further to correspondence with your FORMER lawyer" — he
+  was between firms/unrepresented): restating the "full and final offer" with time-pressure
+  framing — during the clinical nadir (~first Krishnaiah consult period). Documented; rule 1.
+- Saines (Conrad, 13 Feb 2025) CONFIRMS the negotiation account: "we have amended the deed to
+  clarify that you are not waiving your right to bring a statutory WorkCover claim and to
+  reserve your right to bring common law personal injury claim about the dismissal." Cory's
+  account verified: the carve-outs were negotiated in by his side.
+- He was represented by TWO firms in sequence: Stone Group (Nov-Dec 2024) → Saines (Feb 2025).
+Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 2025-01-28_Griffin…,
+2025-02-13_Saines_Conrad…, 2025-02-14_Saines…, 2025-02_Deed_EXECUTED….
