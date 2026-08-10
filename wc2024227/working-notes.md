@@ -4538,3 +4538,11 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   performance of his obligations / documentation of their non-performance / accrual of protected
   acts / completion of knowledge elements. ⛔ The word reprisal stays unsaid everywhere (rules
   2/8) — the elements are being proven, not pleaded.
+- DEED vs FORM 29 vs CE LETTER (banked 10 Aug): (i) the Form 29's ranges STOP 30 Jun 2024 — his
+  instrument never touched deed-era matters (perfect cl 10/12 compliance by design); (ii) the
+  objection's "not retained"/"does not exist" answers are CE-SIGNED by the deed's own signatory —
+  and cl 6's reserved right to "deal with outstanding matters" PRESUPPOSES a record base the
+  objection denies exists (the reserved-right/no-records tension); (iii) Cridland's two
+  signatures (deed Feb 2025; objection Jun 2026) bracket the knowledge; the s 89 letter then
+  landed on the same signatory, ack'd at her personal direction. His documents respected the
+  deed's fences precisely while their responses accumulated against their own instrument.
