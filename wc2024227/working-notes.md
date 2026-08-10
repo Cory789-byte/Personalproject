@@ -4349,3 +4349,9 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   timestamps — verified with exiftool). Built with build_stage2_docx.js (docx npm, installed
   --no-save). ⚠ soffice is broken in this environment (javaldx/java) so verification was
   XML-level + text extraction, not visual render.
+- Stage 2 docx REVISED per Cory: all slots closed on his instruction ("the only response is the
+  one email they sent and no other; the issues have not been resolved") — 1.4 none of the seven
+  questions answered; 1.5 one further written response only, resolves nothing; 1.6 special-leave
+  request unanswered; 2.4 slot removed. ONE open section remains: "3 Union representation and
+  delegate status" (reserved for Together's confirmation); Arrangements renumbered to 4.
+  Metadata re-scrubbed and verified.

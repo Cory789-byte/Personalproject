@@ -32,11 +32,11 @@ const doc = new Document({
     children: [
       p({ spacing: { after: 60 } }, [ bold("DRAFT FOR REVIEW — NOT SENT", { color: "B00000", size: SZ }) ]),
       p({ spacing: { after: 200 } }, [ new TextRun({ font: F, size: SZ_SMALL, color: MUTE,
-        text: "Stage 2 referral · finalise the three highlighted passages from the Health Service's latest Stage 1 response, then send Monday 10 August 2026." }) ]),
+        text: "Stage 2 referral · one section remains open, reserved for Together Queensland's input; all else is final. Send Monday 10 August 2026." }) ]),
 
       p({ spacing: { after: 40 } }, [ bold("To: "), r("LBH Human Resources — LBH_HR@health.qld.gov.au") ]),
       p({ spacing: { after: 40 } }, [ bold("Cc: "), r("Ms Chloe Taylor, Manager, Switchboard Services; LBH Injury Management; Mr Heath Moran and Ms Emily Petering, Together Queensland") ]),
-      p({ spacing: { after: 200 } }, [ bold("Attachments: "), r("(1) Notice of dispute, 3 August 2026; (2) Ms Taylor's letter, 4 August 2026; (3) my response dated 4 August 2026 (provided 5 August 2026); (4) the Health Service's Stage 1 response of "), slot("[DATE]"), r(".") ]),
+      p({ spacing: { after: 200 } }, [ bold("Attachments: "), r("(1) Notice of dispute, 3 August 2026; (2) Ms Taylor's letter, 4 August 2026; (3) my response dated 4 August 2026 (provided 5 August 2026); (4) the Health Service's further Stage 1 response.") ]),
 
       p({ border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: "999999" } }, spacing: { after: 200 } },
         [ bold("Subject: Referral to Stage 2 — clause 1.11.2(b) — attendance, roster, leave and pay from 26 June 2026", { size: SZ }) ]),
@@ -51,17 +51,13 @@ const doc = new Document({
       p({ indent: { left: 360, hanging: 360 } }, [ r("1.2\tThe 24-hour discussion did not occur. The Health Service's letter of 4 August 2026 states: “the 24-hour timeframe specified in the clause will not be achieved.”") ]),
       p({ indent: { left: 360, hanging: 360 } }, [ r("1.3\tNo Stage 1 discussion has taken place at any point in the seven days, notwithstanding that my response offered availability on Wednesday 5 and Thursday 6 August, from 9:00am to 5:00pm, and other times including outside business hours.") ]),
       p({ indent: { left: 360, hanging: 360 } }, [
-        r("1.4\tMy response set out, at its section 2, five facts and invited correction; none has been corrected. It asked, at its section 3, seven questions so that the correct arrangement could be applied, and asked that any answer sitting with a more senior decision-maker be escalated within Stage 1 so the seven days were not lost. "),
-        slot("[Adjust from the Stage 1 response: none of the seven questions has been answered / questions X and Y were addressed; the remainder, including question 3.1 (the instrument, the decision-maker and the date), were not.]"),
+        r("1.4\tMy response set out, at its section 2, five facts and invited correction; none has been corrected. It asked, at its section 3, seven questions so that the correct arrangement could be applied, and asked that any answer sitting with a more senior decision-maker be escalated within Stage 1 so the seven days were not lost. None of the seven questions has been answered."),
       ]),
       p({ indent: { left: 360, hanging: 360 } }, [
-        r("1.5\tOn "), slot("[DATE]"), r(" the Health Service provided a written Stage 1 response. It does not resolve the matters in dispute: "),
-        slot("[state briefly, e.g. it does not identify the instrument under which I am held from work (question 3.1), it does not restore the status quo under clause 1.11.4, and the leave and pay position from 26 June 2026 remains as it was]"), r("."),
+        r("1.5\tThe Health Service has since provided one further written response, which is the only response received to my correspondence of 5 August 2026. It does not resolve the matters in dispute: it does not identify the instrument under which I am held from work (question 3.1), it does not restore the status quo under clause 1.11.4, and the leave and pay position from 26 June 2026 remains as it was."),
       ]),
       p({ indent: { left: 360, hanging: 360 } }, [
-        r("1.6\tMy response of 5 August 2026 stated that I did not consent to my recreation leave being applied to the period 20 July to 2 August 2026, and requested special leave on full pay under Directive 12/24 instead. "),
-        slot("[Adjust: The recreation leave was applied at payroll processing notwithstanding / The special leave request has not been answered.]"),
-        r(" Any leave applied is, per that response, recorded as applied at the Health Service's initiative, without my consent, without prejudice to the dispute, and subject to re-credit."),
+        r("1.6\tMy response of 5 August 2026 stated that I did not consent to my recreation leave being applied to the period 20 July to 2 August 2026, and requested special leave on full pay under Directive 12/24 instead. That request has not been answered. Any leave applied is, per that response, recorded as applied at the Health Service's initiative, without my consent, without prejudice to the dispute, and subject to re-credit."),
       ]),
       p({}, [ r("My response foreshadowed this referral in terms: “If the dispute is unresolved by 10 August I will refer it to Stage 2 as the clause provides.” It is unresolved, and this is that referral.") ]),
 
@@ -70,12 +66,14 @@ const doc = new Document({
       p({ indent: { left: 360, hanging: 360 } }, [ r("2.2\tPay and leave: wages for the period from 26 June 2026; re-credit of all leave debited; the coding of the absence (special leave on full pay under Directive 12/24 was requested on 5 August); the “income protection” characterisation applied from 13 July 2026, under which I receive neither wages nor benefit (my response, section 5); and cessation of further debits per clause 1.11.4 — the status quo before this dispute emerged was that I was rostered, working and paid.") ]),
       p({ indent: { left: 360, hanging: 360 } }, [ r("2.3\tReturn to work: the Employee Capabilities Checklist of 3 July 2026 certifies me fit for work with restrictions and records the pattern as a “continuation of existing arrangement”; my return to work proposal of 3 August 2026 stands; no Return to Work Plan exists.") ]),
       p({ indent: { left: 360, hanging: 360 } }, [
-        r("2.4\tThe position communicated to my insurer: on 4 August 2026 my income protection insurer recorded, on information from the Health Service, that the Health Service is “currently unable to accommodate a graduated return to work”. I have not been given that position directly, by its maker, with reasons. My response, section 4, sets out what is asked; it remains open. "),
-        slot("[Adjust if the Stage 1 response addressed it.]"),
+        r("2.4\tThe position communicated to my insurer: on 4 August 2026 my income protection insurer recorded, on information from the Health Service, that the Health Service is “currently unable to accommodate a graduated return to work”. I have not been given that position directly, by its maker, with reasons. My response, section 4, sets out what is asked; it remains open."),
       ]),
       p({ indent: { left: 360, hanging: 360 } }, [ r("2.5\tThe work health and safety matters: the feedback required by clause 7.1.11 on the matters I have raised, and the psychosocial risk assessment of the work area under clause 7.2, requested on 3 August 2026 and identified by the Health Service's own letter of 7 July 2026, which recorded that it did not then have sufficient information to assess psychosocial hazards affecting my return to work. No assessment has been undertaken.") ]),
 
-      p({}, [ bold("3  Arrangements") ]),
+      p({}, [ bold("3  Union representation and delegate status") ]),
+      p({}, [ slot("[Section reserved for Together Queensland — to be completed on the union's confirmation before sending.]") ]),
+
+      p({}, [ bold("4  Arrangements") ]),
       p({}, [ r("Clause 1.11.2(b) provides that the management representative shall arrange a conference of the parties, and that the process should not extend beyond seven days — that is, by Monday 17 August 2026. I am available at any time, with my support person and union representative present. I ask that whoever attends for the Health Service have authority to resolve the matters at 2.1 to 2.5, and that the answers to the seven questions of my response be available at the conference. I will provide anything further required the same day it is requested.") ]),
       p({}, [ r("I remain ready, willing and able to work, and my object in this referral is unchanged: to return to work, paid, under the certified restrictions, with the matters above resolved in the ordinary way.") ]),
 
