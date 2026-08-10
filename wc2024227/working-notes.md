@@ -4671,3 +4671,17 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   track LATER; at the WC hearing it stays CONTEXT ONLY (Dwyer signalled patient-safety detail
   off the record at the mention; the injury case needs the fatigue keystone, not the clinical
   cascade). ⛔ No patient-harm claims — risks documented as RAISED, not as materialised.
+- MATHESON AND THE CLINICAL RISK (banked 10 Aug): she cannot NOT have seen it — five proofs in
+  her own file: (1) HER pleading admits the PID was about clinical risks (SOFC ¶15, her office's
+  drafting); (2) HER 11 Jun disclosure produced the "Urgent: Issues Affecting Workplace Safety"
+  emails; (3) the witness-conferencing haul her office received included ~47pp of FRMS-content
+  material — the Regulator specifically collected fatigue-risk-management evidence; (4) her
+  counsel WILLSON is a WHS-specialist barrister (the dual-role fact long banked — the one
+  professional in the cast trained to read this as a systems-safety case; briefing her signals
+  early classification of the matter as WHS-flavoured); (5) she sat through the 9A's 1(a)
+  clinical-governance content read aloud and watched Dwyer contain it. STRUCTURAL NOTE
+  (document, never allege): the WC Regulator sits within OIR, which also houses WHSQ — her
+  file contains material that, in the other half of her agency, reads as compliance subject
+  matter. EFFECT: the clinical dimension adds the systemic-embarrassment overlay to any lost
+  public hearing and is fully priced in her advice pipeline via Willson — which is why patient
+  safety needs NO voice at the hearing; its work in her risk assessment is already done.
