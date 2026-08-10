@@ -4628,3 +4628,21 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   recited in the elements (¶6(d)(ii)) but NOT contended (¶27 = RMA only) — confirms unpleaded.
   NEW PREP ITEMS: answer cl 18.10 (overtime point) — note the deed PAID fatigue pay for the
   shift; the 42% Easter payroll check (items 8-9 anchor — payroll arithmetic decides ¶19(c)).
+- ⭐⭐⭐ SOFC OUTRIGHT-ADMISSIONS REGISTER (verified against both filed documents, 10 Aug):
+  EXPRESS "admits": ¶10 the Hawes certificate + its recorded mechanism words (denied as fact,
+  document admitted); ¶12(a) Taylor removed Communication Book pages ~6 Jun 2023; ⭐⭐⭐ ¶15
+  STRESSOR 1(e) ADMITTED IN FULL = "On 13 May 2024, the Appellant lodged a corrupt conduct
+  complaint regarding clinical risks. The Ethical Standards Unit formally determined this
+  constituted a Public Interest Disclosure" — THE PROTECTED ACT IS NOW ADMITTED ON THE
+  PLEADINGS of the WC appeal by the Regulator itself (the reprisal track's first element needs
+  no proof, ever); ¶26 worker status s 11.
+  FUNCTIONAL ("says") ADMISSIONS: ¶22(a) 7-hr break + "human error" (error #1); ¶22(e) the
+  Jun 2020 agreement exists; ¶22(c)/¶24(a) 19 Mar leave taken; ¶14(e)-(f) attachments "were in
+  fact present" — wrongful COVID-leave declines = "human error by Ms Taylor" (error #2);
+  ¶16(b)(i) attendance difficulty 13-15 May (THE PRODROME, their pleading); ¶16(b)(vi)-(vii)
+  he did not want to retract + "the email was ultimately removed from the server"; ¶13(a)(c)
+  the 7 Aug 2023 email + 10 Aug meeting; ¶17(a)(d) the delegate-interest text; ¶19(a) the
+  4 Apr 2023 pay text; ¶20(a) pay issues raised "over the period of 2023 and 2024" (the
+  pattern); ¶21(a)-(c) the AVAC chain 3→28 May (25 days, their own timeline).
+  NET: nearly every EVENT is admitted somewhere across SOFC + Form 24; the live contest is
+  characterisation ("reasonable in all respects" ×6) + the six unwitnessed causation words.
