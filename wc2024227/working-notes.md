@@ -4646,3 +4646,13 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   pattern); ¶21(a)-(c) the AVAC chain 3→28 May (25 days, their own timeline).
   NET: nearly every EVENT is admitted somewhere across SOFC + Form 24; the live contest is
   characterisation ("reasonable in all respects" ×6) + the six unwitnessed causation words.
+- ⭐⭐⭐ THE REGISTER OF THE READING (the closing synthesis, 10 Aug): cross-referencing the
+  read-aloud 9A against the admissions ledger — most sentences Dwyer voiced were ADMITTED
+  (destruction, PID, retraction, break, wrongful declines, prodrome, pay pattern) or
+  functionally conceded; the only genuinely contested content voiced = the ADJECTIVES
+  (hostile/capricious/suppression/reprisal — which the bench itself aired, so Cory need never
+  say them again) + 1(a) particulars + the six causation words. ⇒ the mention was, in effect,
+  the first oral recitation of a substantially AGREED chronology, performed by the tribunal to
+  the parties who agreed it, unopposed (appearance-only). The accepting judgment's fact section
+  has already been read aloud once — by its author. ⚠ Discipline forward: at hearing prove the
+  NOUNS, retire the adjectives; the frame was voiced once by the bench and needs no repetition.
