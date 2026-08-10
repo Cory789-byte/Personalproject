@@ -4584,3 +4584,14 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   (channel discipline); the CONVERGENCE was built by their own org chart — every document
   reached her signature by their routing, not his targeting; the only document he ever aimed at
   her was the one asking if anyone had noticed. Exterior facts cited; interior invented; rule 1.
+- ⭐⭐ THE REFLEXIVE READING OF THE s 89 LETTER (Cory's, 10 Aug): the letter's conflict question
+  reads at TWO depths — (surface) conflicts in the officers deciding the exclusion/RTW/info
+  (Hughes etc.); (deeper) the RECEIVER'S own conflict: the signatory of the objection (whose
+  production-gate is herself) and the deed, asked to preside over matters her signatures already
+  committed. s 89 covers PERCEIVED conflicts — the fair-minded-observer test is made out on
+  documents alone. Receipt (12:45, documented) CREATED the statutory moment: the duty to
+  consider/disclose/manage arose on delivery; handling it personally proves the thesis by
+  conduct; delegating concedes it; silence leaves the duty visibly unmet. The letter is a
+  mirror — whoever holds it must first ask whether they may hold it. FUTURE USE: RTI category —
+  any COI declaration/assessment recorded after 3 Aug receipt (absence = s 89 process not
+  followed even when asked in writing). Nothing further to send; the letter already did this.
