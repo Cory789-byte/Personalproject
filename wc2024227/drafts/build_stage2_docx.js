@@ -32,7 +32,7 @@ const doc = new Document({
     children: [
       p({ spacing: { after: 60 } }, [ bold("DRAFT FOR REVIEW — NOT SENT", { color: "B00000", size: SZ }) ]),
       p({ spacing: { after: 200 } }, [ new TextRun({ font: F, size: SZ_SMALL, color: MUTE,
-        text: "Stage 2 referral · one section remains open, reserved for Together Queensland's input; all else is final. Send Monday 10 August 2026." }) ]),
+        text: "Stage 2 referral · one section remains open, reserved for Together Queensland's input; all else is final. Send as soon as the union section resolves — the Stage 2 seven days run from the date of sending." }) ]),
 
       p({ spacing: { after: 40 } }, [ bold("To: "), r("LBH Human Resources — LBH_HR@health.qld.gov.au") ]),
       p({ spacing: { after: 40 } }, [ bold("Cc: "), r("Ms Chloe Taylor, Manager, Switchboard Services; LBH Injury Management; Mr Heath Moran and Ms Emily Petering, Together Queensland") ]),
@@ -59,7 +59,7 @@ const doc = new Document({
       p({ indent: { left: 360, hanging: 360 } }, [
         r("1.6\tMy response of 5 August 2026 stated that I did not consent to my recreation leave being applied to the period 20 July to 2 August 2026, and requested special leave on full pay under Directive 12/24 instead. That request has not been answered. Any leave applied is, per that response, recorded as applied at the Health Service's initiative, without my consent, without prejudice to the dispute, and subject to re-credit."),
       ]),
-      p({}, [ r("My response foreshadowed this referral in terms: “If the dispute is unresolved by 10 August I will refer it to Stage 2 as the clause provides.” It is unresolved, and this is that referral.") ]),
+      p({}, [ r("My response foreshadowed this referral in terms: “If the dispute is unresolved by 10 August I will refer it to Stage 2 as the clause provides.” That date has passed, the dispute remains unresolved, and this is that referral.") ]),
 
       p({}, [ bold("2  What the conference needs to resolve") ]),
       p({ indent: { left: 360, hanging: 360 } }, [ r("2.1\tThe instrument question: what decision prevents my attendance since 26 June 2026, made by whom, on what date, under what power. Asked in the notice of 3 August (sections 2.1 and 4(b)–(c)), in my response (questions 3.1 to 3.3), and in earlier correspondence; unanswered.") ]),
@@ -69,12 +69,14 @@ const doc = new Document({
         r("2.4\tThe position communicated to my insurer: on 4 August 2026 my income protection insurer recorded, on information from the Health Service, that the Health Service is “currently unable to accommodate a graduated return to work”. I have not been given that position directly, by its maker, with reasons. My response, section 4, sets out what is asked; it remains open."),
       ]),
       p({ indent: { left: 360, hanging: 360 } }, [ r("2.5\tThe work health and safety matters: the feedback required by clause 7.1.11 on the matters I have raised, and the psychosocial risk assessment of the work area under clause 7.2, requested on 3 August 2026 and identified by the Health Service's own letter of 7 July 2026, which recorded that it did not then have sufficient information to assess psychosocial hazards affecting my return to work. No assessment has been undertaken.") ]),
+      p({ indent: { left: 360, hanging: 360 } }, [ r("2.6\tAny remaining unanswered items of the Stage 1 notice of 3 August 2026 and my response dated 4 August 2026 (including the policies sought, the roster and payroll records, and the suspension or status question), to the extent not already covered by 2.1 to 2.5.") ]),
+      p({}, [ r("For clarity, my separate request of 3 August 2026 under clause 10.3.2 is not part of this dispute and continues on its own timeframe.") ]),
 
       p({}, [ bold("3  Union representation") ]),
       p({}, [ slot("[Heath and Emily — this section is yours. If Together is able to represent me, or attend with me, at the Stage 2 conference, and to confirm my delegate status for the workplace, this is where it would sit, in your words. If that is not something Together can do before Monday, that is completely fine and no explanation is needed: I will simply remove this section, respect that position, and proceed with the referral on my own. It stands either way.]") ]),
 
       p({}, [ bold("4  Arrangements") ]),
-      p({}, [ r("Clause 1.11.2(b) provides that the management representative shall arrange a conference of the parties, and that the process should not extend beyond seven days — that is, by Monday 17 August 2026. I am available at any time, with my support person and union representative present. I ask that whoever attends for the Health Service have authority to resolve the matters at 2.1 to 2.5, and that the answers to the seven questions of my response be available at the conference. I will provide anything further required the same day it is requested.") ]),
+      p({}, [ r("Clause 1.11.2(b) provides that the management representative shall arrange a conference of the parties, and that the process should not extend beyond seven days from this referral. I am available at any time, with my support person and union representative present. I ask that whoever attends for the Health Service have authority to resolve the matters at 2.1 to 2.6, and that the answers to the seven questions of my response be available at the conference. I will provide anything further required the same day it is requested.") ]),
       p({}, [ r("I remain ready, willing and able to work, and my object in this referral is unchanged: to return to work, paid, under the certified restrictions, with the matters above resolved in the ordinary way.") ]),
 
       p({ spacing: { before: 120, after: 40 } }, [ r("Yours sincerely,") ]),
