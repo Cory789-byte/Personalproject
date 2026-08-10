@@ -4415,3 +4415,10 @@ WITH the group** (not a gallery stranger — with them). Cory has never met him.
   the REAL report against, and a gap-check (⚠ FIND the Aug 2023 0.8→FT request document; verify
   first-consult date, medication dates, bereavement date). NEVER shown to the doctor, never
   served — a drafted exemplar reaching Krishnaiah would destroy the report's independence.
+- `drafts/WEDNESDAY_QUESTION_MAP_12AUG.md` — the consultation question map: six timeline phases
+  (baseline → exposure → decompensation → presentation → nadir/return → continuation → integration),
+  open questions only, facts-to-put per phase, [elicits] notes for Cory's understanding only.
+  ⭐ NEW FACT captured: the approach-avoidance attendance pattern (would get ready/travel, then
+  call up unable to go in) — Phase 2's core; converts the attendance record into symptom evidence;
+  needs frequency/weeks in the statement. Five confirmations + oral-only discipline + pre-Wednesday
+  gap list included.
