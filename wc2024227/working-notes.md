@@ -4560,3 +4560,13 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   provisional (RTI/IP + the soft channel reach the same records; the return path is
   bench-endorsed); (vi) even the Form 20 stayed inside the deed's fences — dismissal FACTS
   sworn for a proceeding, no deed, no settlement terms, no characterisation.
+- ⭐⭐ THE COMPLETED CONFLICT ARCHITECTURE (Cory's cap, 10 Aug): the objection ITSELF nominated
+  Cridland as the gate — three times, "would require approval from the Health Service Chief
+  Executive" (expense items). So THEIR drafting made the approver of production the signatory of
+  the positions production would test (the deed cl 6; the "does not exist" answers). His s 89
+  CONFLICT-OF-INTEREST letter then went to precisely that officer — ack'd at her personal
+  direction. The conflict is structural and self-documented in their instruments: she cannot
+  independently decide questions her own signatures answer. Her three doors — answer (must
+  address her own role) / delegate (concedes the conflict) / silence (question stands on
+  documented personal knowledge) — are all his. ⛔ Never alleged; the letter already asked it;
+  channels remain RTI/IP + the sequenced tracks.
