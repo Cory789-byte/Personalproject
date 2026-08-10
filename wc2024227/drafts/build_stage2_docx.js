@@ -36,7 +36,7 @@ const doc = new Document({
 
       p({ spacing: { after: 40 } }, [ bold("To: "), r("LBH Human Resources — LBH_HR@health.qld.gov.au") ]),
       p({ spacing: { after: 40 } }, [ bold("Cc: "), r("Ms Chloe Taylor, Manager, Switchboard Services; LBH Injury Management; Mr Heath Moran and Ms Emily Petering, Together Queensland") ]),
-      p({ spacing: { after: 200 } }, [ bold("Attachments: "), r("(1) Notice of dispute, 3 August 2026; (2) Ms Taylor's letter, 4 August 2026; (3) my response dated 4 August 2026 (provided 5 August 2026); (4) the Health Service's further Stage 1 response.") ]),
+      p({ spacing: { after: 200 } }, [ bold("Attachments: "), r("(1) Notice of dispute, 3 August 2026; (2) Ms Taylor's letter, 4 August 2026; (3) my response dated 4 August 2026 (provided 5 August 2026).") ]),
 
       p({ border: { bottom: { style: BorderStyle.SINGLE, size: 6, color: "999999" } }, spacing: { after: 200 } },
         [ bold("Subject: Referral to Stage 2 — clause 1.11.2(b) — attendance, roster, leave and pay from 26 June 2026", { size: SZ }) ]),
@@ -54,7 +54,7 @@ const doc = new Document({
         r("1.4\tMy response set out, at its section 2, five facts and invited correction; none has been corrected. It asked, at its section 3, seven questions so that the correct arrangement could be applied, and asked that any answer sitting with a more senior decision-maker be escalated within Stage 1 so the seven days were not lost. None of the seven questions has been answered."),
       ]),
       p({ indent: { left: 360, hanging: 360 } }, [
-        r("1.5\tThe Health Service has since provided one further written response, which is the only response received to my correspondence of 5 August 2026. It does not resolve the matters in dispute: it does not identify the instrument under which I am held from work (question 3.1), it does not restore the status quo under clause 1.11.4, and the leave and pay position from 26 June 2026 remains as it was."),
+        r("1.5\tThe letter of 4 August 2026 is the only communication received from the Health Service during the Stage 1 period. My response of 5 August 2026 has not been answered. The matters in dispute accordingly remain unresolved: the instrument under which I am held from work has not been identified (question 3.1), the status quo under clause 1.11.4 has not been restored, and the leave and pay position from 26 June 2026 remains as it was."),
       ]),
       p({ indent: { left: 360, hanging: 360 } }, [
         r("1.6\tMy response of 5 August 2026 stated that I did not consent to my recreation leave being applied to the period 20 July to 2 August 2026, and requested special leave on full pay under Directive 12/24 instead. That request has not been answered. Any leave applied is, per that response, recorded as applied at the Health Service's initiative, without my consent, without prejudice to the dispute, and subject to re-credit."),

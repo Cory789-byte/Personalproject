@@ -4355,3 +4355,9 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   request unanswered; 2.4 slot removed. ONE open section remains: "3 Union representation and
   delegate status" (reserved for Together's confirmation); Arrangements renumbered to 4.
   Metadata re-scrubbed and verified.
+- Stage 2 docx CORRECTED per Cory's clarification: Chloe's 4 Aug letter is the ONLY MSH response
+  in Stage 1 (no later response exists). 1.5 rewritten — "the only communication received from
+  the Health Service during the Stage 1 period; my response of 5 August has not been answered";
+  phantom attachment (4) removed (three attachments, mirroring the union email). The single open
+  area in the Word doc = section 3 (reserved for Together Queensland). Verified: exactly 1
+  bracket remains; metadata clean.
