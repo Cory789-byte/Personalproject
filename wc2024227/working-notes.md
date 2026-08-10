@@ -4510,3 +4510,17 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   ⚠ WP status: the negotiation emails are without-prejudice (internal analysis only; not
   tenderable); the deed itself became open on agreement (cl 16) but stays confidential (cl 12,
   as-required-by-law exception). Standing advice unchanged: prove payments by payslips.
+- ⭐⭐⭐ SYNTHESIS (Cory's, 10 Aug night) — THE KNOWLEDGE–AUTHORITY GAP: the officers with
+  complete knowledge of the deed's architecture (Griffin negotiated every clause; Tribunal
+  Matters cc'd throughout; Cridland signed) are the same officers/offices running the 2026
+  exclusion WITH NO IDENTIFIED INSTRUMENT (question 3.1, unanswered). Clause 6 reserved a right
+  to deal with absenteeism/communication — a reservation, NOT a power; it preserved lawful means
+  and created none. THE FORK: if the 2026 exclusion is clause-6 conduct-management → no
+  disciplinary instrument invoked + clause 7 reserves his rights over it; if it is medical/WHS
+  (their stated basis: G3 + ss 17/19) → the unassessed-hazard problem + the fit-with-adjustments
+  ECC against them. Either characterisation fails on their own documents. Griffin's Jan 2025
+  line ("cannot entertain settlement on the basis that it cannot manage you by way of reasonable
+  management action") = they insisted on retaining lawful management powers, then acted without
+  identifying any. ⛔ Rule 1: never pleaded as motive; deployed only through the instrument
+  question (Stage 2), the s 89 letter (already with Cridland), and — if ever — the sequenced
+  reprisal track. Deed + WP emails remain internal-analysis only.
