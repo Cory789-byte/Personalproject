@@ -4383,3 +4383,20 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   formatting preserved, metadata scrubbed. The send-ready PDF (union section removed) and this
   editable docx (union section in) are the two live artifacts: if the union completes their
   section, rebuild the PDF from their text; if not, the PDF goes as is.
+
+## 10 Aug 2026 (evening) — ATTENDANCE AT THE 7 AUG MENTION (Cory's recollection, ⚠ verify against transcript)
+Present per Cory: Myla Ruttan (compelled, named in the notice — appearance only); **Lauren
+Griffin (NOT ordered to attend, attended anyway)**; Renee Matheson; and **an unidentified man
+WITH the group** (not a gallery stranger — with them). Cory has never met him.
+- Griffin attending voluntarily: the Director ER whose directorate runs the 2026 exclusion has
+  now PERSONALLY heard Dwyer read the 9A and group the fatigue material. Knowledge brick —
+  document, never plead as motive (discipline rule 1).
+- The man: identify from the TRANSCRIPT appearances when it arrives. If not announced, remains
+  open — record, no theory. Candidates ranked in chat 10 Aug: QH central legal (Tribunalmatters
+  is on every listing) / second OIR-Regulator officer / Crown Law / metrosouthlegal / WorkCover
+  liaison. ⛔ No inference beyond identity; no HopgoodGanim theorising.
+- Four attendees for the other side(s) at a procedural mention vs the appellant alone —
+  institutional turnout is itself a data point on how the matter is priced internally.
+- ⚠ The Griffin memoir (drafts/GRIFFIN_MEMOIR_7AUG_INTERNAL.txt) assumed she was NOT in the
+  room — now contradicted by Cory's recollection. The memoir is labelled invented-interior, but
+  note the factual frame is superseded.
