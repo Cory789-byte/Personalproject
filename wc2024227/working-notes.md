@@ -4759,3 +4759,18 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   Statement handling refined: own the comm-book MOMENT as his experience WITHOUT adopting her
   adjectives — his account of the same exchange; the only mutually agreed fact is that voices
   rose (hers too, her admission).
+- ⭐⭐ TAYLOR'S SELF-NARRATION PATTERN (Cory's read, 11 Aug — correct): her 6 Jun 2023 email is
+  a PRE-EMPTIVE SELF-REPORT, not neutral evidence — written same afternoon TO the Director,
+  by the person whose own conduct was in question (the removal, admitted mid-email), opening
+  with HIS approach not HER removal, adjectives one-directional ("aggressive"/"wouldn't let me
+  speak" vs her minimised "I did raise my voice and asked him to please stop"), bolstered with
+  hallway hearsay, plus the "burn book" contempt line. THE PATTERN ACROSS THE RECORD: three
+  self-narrations by the same witness, each following her own exposure — (1) 6 Jun 2023 (after
+  the removal was questioned); (2) 17 May 2024 account "as requested" (after the retraction);
+  (3) the "out to get me" HR email (after PID knowledge reached management). Cross-exam
+  architecture (dates, never motive): "each time your conduct was questioned, you wrote an
+  account to your Director" — the timestamps do the work. EVIDENTIARY WEIGHT: a self-serving
+  contemporaneous account is NOT corroboration — it is the same witness, twice; HIS version of
+  the June 2023 incident EXISTS IN WRITING via the 7 Aug 2023 grievance + Reese's own 29/8/23
+  meeting summary ("Concerns about Chloe") — competing written accounts, his corroborated by
+  their documents, hers by herself.
