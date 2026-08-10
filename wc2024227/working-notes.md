@@ -4343,3 +4343,9 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   latest Stage 1 response (~8-9 Aug, NOT yet in repo; hotmail not reachable from this session).
   Delegate ¶ held out until Together's own written confirmation exists. Conference clock: by Mon
   17 Aug; chase Thu 14 Aug.
+- `drafts/out/STAGE2_REFERRAL_DRAFT_FOR_REVIEW.docx` — the Stage 2 referral as a Word draft for
+  review: DRAFT banner, the five fill-in passages highlighted YELLOW (two [DATE], three [Adjust]),
+  metadata scrubbed (Creator/LastModifiedBy/Application/Company empty, revision 1, neutral
+  timestamps — verified with exiftool). Built with build_stage2_docx.js (docx npm, installed
+  --no-save). ⚠ soffice is broken in this environment (javaldx/java) so verification was
+  XML-level + text extraction, not visual render.
