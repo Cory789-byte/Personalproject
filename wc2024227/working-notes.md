@@ -4595,3 +4595,10 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   mirror — whoever holds it must first ask whether they may hold it. FUTURE USE: RTI category —
   any COI declaration/assessment recorded after 3 Aug receipt (absence = s 89 process not
   followed even when asked in writing). Nothing further to send; the letter already did this.
+- THE ACKNOWLEDGMENT'S FORM (Cory's read, 10 Aug): "I have been asked by Noelle Cridland... to
+  acknowledge receipt" = the arm's-length HALF of conflict management (personal receipt + no
+  personal handling) WITHOUT the second half the Act requires (disclose/manage/refer). The
+  gratuitous naming of her personal direction documented the exact element (personal knowledge)
+  generic corro practice would have left unproven; 67 minutes = triaged as significant on
+  arrival. Their careful handling produced his evidence. Mundane reading (standard Exec Services
+  practice) noted and probable — the FORM's evidentiary effect is identical either way.
