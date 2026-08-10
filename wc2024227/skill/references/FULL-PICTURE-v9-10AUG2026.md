@@ -88,3 +88,16 @@ the oral-only handling of the A4 premorbid line, capacity trajectory invited not
 Everything else (referral, union, letters) is launched and running. After the report: serve,
 float the conference, then Calderbank #3 on the transcript + report. Bank nothing from the
 mention until the transcript lands.
+
+---
+## v9.1 ADDENDUM (10 Aug, late night) — THE DEED FINDINGS PRICED IN
+MC re-run. Win at hearing UNCHANGED (47% blend / 51% strong — the deed is expressly without
+admission (Recital G); its WC effect flows only through the documented return mechanism
+supporting Report B). Compensated overall **79% blend / 85% strong-report** (+1: the
+unqualified common-law PI carve-out (cl 8) documents the damages pathway that Calderbank #3
+now lawfully prices — the scheme insures the employer's common-law liability, so the
+preserved claim is the Respondent's own money). Employment track: the largest qualitative
+uplift (consent-model contrast, cl 7, never-exercised cl 6) — the 1-Aug 42%/63% employment
+read is now conservative. Reprisal track (held): case-in-chief skeleton complete.
+Deployment map: DEED-WEAPON-MAP-10AUG2026.md (W1–W8 + the prohibitions). The deed itself
+never leaves the drawer; every weapon fires on payslip-provable facts.

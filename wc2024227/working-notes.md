@@ -4524,3 +4524,9 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   identifying any. ⛔ Rule 1: never pleaded as motive; deployed only through the instrument
   question (Stage 2), the s 89 letter (already with Cridland), and — if ever — the sequenced
   reprisal track. Deed + WP emails remain internal-analysis only.
+- v9.1 + DEED-WEAPON-MAP-10AUG2026.md: the deed converted to its deployment map (W1 return
+  mechanism → Wednesday; W2 fatigue-pay payslip → appeal, non-admission discipline; W3
+  consent-model contrast → Stage 2 orally; W4 cl 7 + refused non-reprisal → reprisal track,
+  HELD; W5 preserved damages → Calderbank #3 paragraph; W6 "the Dismissal" vocabulary; W7
+  entire-agreement shield; W8 tripwires). Numbers: 47/51 hearing (unchanged), 79/85 compensated
+  (+1). Full prohibitions list in the map. Deed stays in the drawer.
