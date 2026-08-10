@@ -4610,3 +4610,21 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   His accumulation list for Phases 1-2 of the question map: pay delay (≤5 months) = ERI ·
   union/delegate non-response = support failure · the rostering = control · the false
   "someone else was doing it" = organisational-justice/integrity fact.
+- SOFC CONVINCINGNESS AUDIT (full read, 10 Aug): their genuinely forceful points = ¶8 (2022
+  history exists — but doesn't collide with the quoted Nov 2023 baseline), ¶11 (no-particulars
+  re 1(a)), ¶13 (2023 responsiveness — meetings/emails happened), ¶24(b) (cl 18.10 fatigue leave
+  requires overtime — REAL technical point, verify item already open), ¶16(a) (Reese unaware of
+  PID at retraction — consistent with our own N.13 finding), ¶25 (post-dating, partial force
+  only — ignores aggravation-as-injury). SELF-HARM inventory: ¶12 admits page removal; ¶14
+  admits attachments "were in fact present" (wrongful leave decline = ADMITTED HUMAN ERROR #2 —
+  both errors cost HIM); ¶15 admits stressor 1(e) OUTRIGHT; ¶21 pleads the 3 May→28 May AVAC
+  delay itself; ¶22(a)(c)(e) admit the keystone facts; ¶22(b) "could refuse shifts at anytime"
+  CONTRADICTS ¶22(e) (the signed break agreement); ¶20 "no outstanding underpayments /
+  remedied in a timely manner" collides with Form 24 ¶¶40-41 (25-day delay admitted) AND the
+  deed's Feb 2025 payments ($377.19 fatigue + $5,512.66 HE + $1,237.50 public holidays);
+  ¶27 calls him "the Plaintiff" (civil-precedent copy artifact). THE HOLLOW CORE: the entire
+  affirmative defence = ¶27's single conclusory sentence + ¶22(f)'s six unwitnessed words; no
+  expert referenced, no authority cited, "reasonable in all respects" x6 as refrain; 32(5)(b)
+  recited in the elements (¶6(d)(ii)) but NOT contended (¶27 = RMA only) — confirms unpleaded.
+  NEW PREP ITEMS: answer cl 18.10 (overtime point) — note the deed PAID fatigue pay for the
+  shift; the 42% Easter payroll check (items 8-9 anchor — payroll arithmetic decides ¶19(c)).
