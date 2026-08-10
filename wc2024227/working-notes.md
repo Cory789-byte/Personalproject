@@ -4334,3 +4334,12 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   matters in Together's own name, with the psychosocial assessment of Switchboard (Code + EB12) as
   the named specific; delegate-type framing kept honest. ⚠ date check: his response = 4 or 5 Aug
   (record says v16 went 5 Aug 07:30) — left undated in the draft. Send before the Stage 2 referral.
+- `drafts/STAGE2_REFERRAL_FINAL_10AUG.txt` — the Stage 2 referral, finalised from the 4 Aug
+  skeleton and ALIGNED AGAINST SOURCE: Taylor 4 Aug 13:35 quoted verbatim (lodged per 1.11.2(a);
+  "24-hour timeframe... will not be achieved"); the response's five facts/seven questions;
+  availability dates corrected to the response's own §7 (Wed 5 / Thu 6 Aug); status quo anchored
+  to 26 JUNE per the response's correction; the §7 foreshadowing quote verbatim; independence ask
+  mirrors the CE letter. THREE BRACKETS remain (1.4, 1.5, 1.6 + check 2.4) — all await MSH's
+  latest Stage 1 response (~8-9 Aug, NOT yet in repo; hotmail not reachable from this session).
+  Delegate ¶ held out until Together's own written confirmation exists. Conference clock: by Mon
+  17 Aug; chase Thu 14 Aug.
