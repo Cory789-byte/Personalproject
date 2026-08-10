@@ -4685,3 +4685,12 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   matter. EFFECT: the clinical dimension adds the systemic-embarrassment overlay to any lost
   public hearing and is fully priced in her advice pipeline via Willson — which is why patient
   safety needs NO voice at the hearing; its work in her risk assessment is already done.
+- ⭐⭐⭐ FRMS BUNDLE DEEP-DIVE (11 Aug ~1am) — see FRMS-BUNDLE-DEEP-DIVE-11AUG2026.md. Four
+  bombshells from Reese's own disclosed emails: B1 the RATING OF 11 (Reese+Taylor applied his
+  risk matrix 10 May 2024, scored the roster MODERATE "at best", 5 weeks pre-onset); B2 "a few
+  rostering errors... in past rosters" on his line — FALSIFIES SOFC ¶22(a) "not repeated"; B3
+  the non-response was systemic (Reese herself chased HR unanswered, 10→20 May); B4 the roster
+  consultation asymmetry ("Cory is not yet aware of this") + Reese validating his CASA citation
+  as referenced in QH's own FRMS Implementation Guidelines. All from the Regulator's OWN
+  disclosure, paginated "Renee Matheson". Feed: statement, Report B assumed facts, manner
+  block, pleading impeachment. Follow-ups listed in the reference file.
