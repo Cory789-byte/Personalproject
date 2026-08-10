@@ -4720,3 +4720,31 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   case about an employee who asked his employer to follow its own policies — and what it cost
   him." For the doctor: the rule-follower watching the rules ignored = organisational justice
   erosion personified.
+- ⭐⭐ THE ADVERSE READ OF THEIR DEFENCE FILE (Reese 50pp bundle mined, 11 Aug): THE HONEST
+  INVENTORY AGAINST CORY — (1) late starts/long breaks/early finishes raised by Taylor — but
+  their own note records it as GROUP-WIDE ("addressing this with other staff also... some staff
+  including Cory") and his engagement ("thought he did call... usually does but not always");
+  (2) one under-2-hours shift notice, hedged ("I think"), timed MID-JUNE 2024 = the
+  decompensation peak — and the planned "behavioural issues" discussion NEVER HAPPENED because
+  he was on sick leave ⇒ NO conduct process was ever run; nothing was put, tested or found;
+  (3) ⚠ THE ONE REAL ITEM: the comm-book confrontation (Taylor's 6 Jun 2023 email): "aggressive
+  tone and raised voice... talking over the top of me. I DID RAISE MY VOICE" — one incident,
+  12 months pre-onset, MUTUAL (her words), inside the email that ADMITS the removal ("I took it
+  out last week") + her "burn book" contempt + his contemporaneous "he feels like he is being
+  attacked" (distress documented Jun 2023). STATEMENT GUIDANCE: OWN IT if asked — owned it is
+  human; denied it is a credibility wound; (4) colleague hearsay ("comments towards management
+  and rostering... IR have been made aware") — hearsay, true in substance; (5) the multitasking
+  frustration note — which DOCUMENTS his pre-onset exhaustion and disproportionate call volume
+  ("he feels exhausted... others are not picking the same call volume") with Reese routing it
+  to call-stats review = a verifiable workload claim.
+  BONUS ADMISSIONS inside the same bundle: Reese acknowledges the 21.8.23 roster went out LATE
+  (another process failure owned); the 29/8/23 meeting record confirms his roster concerns +
+  additional-shifts request; his 12-hr roster proposal critiqued on reasoned grounds (their
+  best genuine-engagement evidence, 2023).
+  VERDICT: their defence file nets FOR him — every adverse item is mitigated/unprocessed/
+  hedged/mutual/symptom-timed, and the file's credible witness (Reese reads conscientious)
+  AUTHENTICATES the admissions her own documents carry (rating of 11, plural errors, late
+  roster, unanswered chases). ⚠ Willson's cross-mosaic = comm book + notice + hallway comments
+  ("difficult colleague") — counter = ownership + dates + group-wide/mutual/never-processed.
+  The deepest finding: THE CONDUCT CONVERSATIONS NEVER OCCURRED — none of it was ever put to
+  him; unraised contemporaneous allegations carry little hearing weight.
