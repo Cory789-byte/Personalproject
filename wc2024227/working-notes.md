@@ -4656,3 +4656,18 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   the parties who agreed it, unopposed (appearance-only). The accepting judgment's fact section
   has already been read aloud once — by its author. ⚠ Discipline forward: at hearing prove the
   NOUNS, retire the adjectives; the frame was voiced once by the bench and needs no repetition.
+- ⭐⭐ THE DE FACTO CLINICAL RISK REGISTER (Cory's insight, 10 Aug): the Form 29 + 64G corpus,
+  read with the admissions, now FUNCTIONS as the clinical risk register MSH never kept for the
+  Switchboard: hazard identification (MET/on-call routing failures, fatigue at the code centre —
+  his emails + the 9A 1(a) pathology-delay content), exposure data (the MET-call spreadsheet
+  MSH says "is available"), incident record (the comm-book — its one contemporaneous entry, the
+  on-call numbers, ADMITTED destroyed ¶12(a)), control state (no FRMS until after 30 Jun 2024,
+  CE-signed), consultation record (none — ss 47-49), complaint history (items 3(a)/(b) — "not
+  retained"), escalation/response (Item 20 — "does not exist"), disclosure (the PID re CLINICAL
+  RISKS — ADMITTED ¶15, closed uninvestigated). ⇒ The only systematic documentation of that
+  function's clinical risks in existence is HIS corpus; the institution's own register, on the
+  record, is empty at every field. DEPLOYMENT: the union/Code channel + Stage 2 2.5 NOW (the
+  psychosocial assessment request = asking MSH to build the register he has outlined); the PID
+  track LATER; at the WC hearing it stays CONTEXT ONLY (Dwyer signalled patient-safety detail
+  off the record at the mention; the injury case needs the fatigue keystone, not the clinical
+  cascade). ⛔ No patient-harm claims — risks documented as RAISED, not as materialised.
