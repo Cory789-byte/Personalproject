@@ -4328,3 +4328,9 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   ⚠ Note 3 in the draft: the MET-call spreadsheet (identified as available in K-LM26/729) goes with
   it — route (a) preserved via para 3. Send Mon 10 Aug with the witness list; never let the
   preservation/conflict enquiry arrive alone.
+- `drafts/EMAIL_TO_UNION_Stage2_psychosocial_DRAFT.txt` — rewrite of Cory's email to Moran +
+  Petering: thanks in advance; why they've been on the correspondence; ask 1 = Stage 2 support
+  (referral Mon 10 Aug, representation/attendance); ask 2 = independent union referral of the
+  matters in Together's own name, with the psychosocial assessment of Switchboard (Code + EB12) as
+  the named specific; delegate-type framing kept honest. ⚠ date check: his response = 4 or 5 Aug
+  (record says v16 went 5 Aug 07:30) — left undated in the draft. Send before the Stage 2 referral.
