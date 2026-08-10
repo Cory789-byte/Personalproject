@@ -4361,3 +4361,19 @@ every load-bearing timing/load fact so nothing rests on the doctor's memory.
   phantom attachment (4) removed (three attachments, mirroring the union email). The single open
   area in the Word doc = section 3 (reserved for Together Queensland). Verified: exactly 1
   bracket remains; metadata clean.
+
+## 10 August 2026 — Stage 2 referral FINALISED from Cory's co-edit, ready to send
+- `drafts/out/REFERRAL_Stage2_cl1.11.2b_MSH-INJ-5795.pdf` (3pp) — built from his co-edited docx
+  (which added Hughes to Cc, the long-form agreement title matching Taylor's own letter, the
+  suspension/status expansion of 2.1, the 7.1.5/Code/7.2.2/WHS-Reg-s36 expansion of 2.5, the
+  E12/E13 + 12-month roster/payroll expansion of 2.6, the s 101/s 33 cites, the QH-IMP-401-5 line
+  in 2.3, a "What this referral does not include" section, and an instruments schedule).
+  FINISHING CHANGES applied: union placeholder REMOVED per his standing instruction (Arrangements
+  renumbered 5→4; "union representative present" retained in Arrangements); "That date has
+  passed" → "has been reached" (true on the 10th and after); cl 1.11.5 words set in quotation
+  marks (verbatim clause text, quoted that way in the Stage 1 notice — verified in FULLTEXT).
+  Cites 1.11.5 and 1.12.2 VERIFIED against the Stage 1 notice quotes in the index. Style matches
+  the filed v16 (title/ref-line/footer, Helvetica, A4). Metadata fully stripped (qpdf+pikepdf; no
+  Info, no XMP). 10 automated content checks passed.
+- Send: attach to a two-line email to LBH_HR, cc per the Copies line. The Stage 2 seven days run
+  from sending; diarise the chase 3 business days out.
