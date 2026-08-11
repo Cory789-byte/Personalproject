@@ -4882,3 +4882,20 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   HIS file alone (Stage 2 draft 2.2/2.4 + the tracks). Her lane first is correct — a
   returned, paid employee prosecutes the accountability layer from stronger ground — but her
   silence on those items must never be read as their resolution.
+- ⭐ NEW FACT (Cory's recollection, 11 Aug — not previously banked): HEATH MORAN said he had
+  taken the matters to a CONFERENCE OF THE INDUSTRIAL OFFICERS before/around the referral to
+  Petering. Chain now: documents → Heath "this is serious" → collective IO conference on the
+  matters → allocation to Petering (senior carriage, Heath retained on Cc). IMPLICATIONS:
+  (1) Emily's positions are likely TEAM-VETTED — the two emails read as Together's
+  institutional position delivered through its assigned officer (explains the consistency and
+  the office-aligned handling); (2) the parked asks (union-name referral / psychosocial
+  assessment / delegate confirmation) were almost certainly IN THE ROOM at that conference —
+  her written silence = position still forming, nothing papered until settled; institutional
+  answers to come; (3) the department landscape (other members/history at Logan Switchboard)
+  would have surfaced at the conference — her "course of action" concerns were assessed
+  against a map Cory can't see; (4) continuity insurance — a conferenced matter with senior
+  carriage stays on the team's board. THE REVEALED-BEHAVIOUR LEDGER (4 institutions, 6 weeks,
+  same file, all read it as serious): Dwyer (10am Friday mention slot); Cridland's office
+  (67-minute acknowledgment at personal direction); the Regulator (soft disclosure signal via
+  appeals officer); Together (IO conference + senior allocation). Objective external
+  validation via institutional behaviour, not modelling.
