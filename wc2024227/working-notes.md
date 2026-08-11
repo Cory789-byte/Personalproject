@@ -5122,3 +5122,28 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   (13 May disclosure · 18 Jun onset · 24 Dec validation); (5) hearing calculus: publicly
   attacking a validated patient-safety PID = institutional self-harm, priced into Matheson's
   risk — the gravity their defence orbits without touching.
+- ⭐⭐⭐ ORIGINAL-vs-AMENDED 9C DIFF (full structural diff run 11 Aug; orig Jul 2025 vs amended
+  13 May 2026 — the strategy IN MOTION; every change responds 1:1 to HIS amended 9A):
+  NEW INSERTIONS (deliberate): (1) ¶16(a) Reese-unaware-of-PID — knowledge severance DID NOT
+  EXIST in original; added when his 1(f) pleaded the 48-hr adjacency; (2) ¶22(f) "not
+  causative" six words — ADDED onto the keystone alone when his amendment elevated it = ⭐
+  TARGETING CONFESSION (their only causation firewall placed on the one item they think
+  decides the case); (3) ¶8 past-history-of-anxiety contest (anti-baseline move); (4) ¶25
+  post-dating filter (answering his post-injury section); (5) ¶14(e)-(f) NEW ADMISSION
+  attachments "were in fact present" + "human error... on the background of HIGH WORK
+  DEMANDS" — ⭐ they pleaded the demand environment to excuse Taylor = Q6.9's demand limb
+  supplied by the respondent; (6) full 1(g) delegate rebuttal built; (7) Easter figure
+  "$1,500.00" → "42% less" — THEY ADOPTED HIS UNITS (his pleading sets the terms);
+  (8) ¶10 admits Hawes certificate + QUOTES its mechanism ("ongoing breaking of workplace
+  rules by bosses, victimizing him") before denying — the treating doctor's causation words
+  now recited inside their pleading; (9) ¶16(b) timestamps NEW: his email 1.15pm → Taylor to
+  Reese 1.20pm = ⭐ THE FIVE-MINUTE ESCALATION (vs 25-day AVAC) — institutional-urgency
+  asymmetry timestamped by them; (10) amended intro confirms 9A dated 7 APRIL 2026.
+  DELETIONS (retreats): the denial that he told Taylor he was exhausted (old ¶20(c)) — GONE;
+  14 Jan 2024 lateness engagement — GONE. THE VISIBLE IME SKELETON: ¶8 anxiety + ¶25
+  post-dating + ¶22(f) = the denying judgment's draft theory, pre-answered by the LOI
+  (Q6.3 aggravation / Q6.7 timing / Q6.5 keystone-first). PATTERN CONFIRMED: every
+  defensive repair leaks new admissions because the facts are his and true. His amended 9A
+  = the controlling document; their pleading mirrors its structure and marks its own loss
+  point. ("the Plaintiff" artifact INTRODUCED by the amendment — different drafter/civil
+  precedent in the rewrite.)
