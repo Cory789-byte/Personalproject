@@ -4984,3 +4984,13 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   (oral-ready only); deed/WP/DFV/rule-10; SOFC whole document. Verdict: one major omission
   (FRMS pages), four corroborating adds, one label verify, one judgment call — otherwise
   the pack captured the repo completely.
+- ATTRIBUTION CHECK (11 Aug, Cory asked "Griffin wrote about the 8-hour agreement?"):
+  corrected — it was FORREST (MSH HR), twice in writing (7 Jul 2026 ECC-further-information
+  letter + later July response): the 17 Jun 2020 agreement "is only applied where staff
+  initiated shift swaps have occurred" → 17-18 Mar 2024 was manager-rostered, not a swap →
+  on MSH's own statement the 8-hr agreement did NOT apply → floor was 10 hours → breach is
+  7-vs-10 → undercuts SOFC ¶22(e). DECISION: NOT in the doctor's pack (legal not clinical;
+  pack is Q6.4-discoverable and this is the banked do-not-flag quiet weapon — ¶22(e) must
+  arrive at hearing unrepaired). Documents already in repo as PDFs — nothing to print.
+  Fires at: hearing contradiction matrix (home); OPTIONAL one sentence in Calderbank #3
+  (raises Matheson risk vs tips the point early — decide at Calderbank drafting, not now).
