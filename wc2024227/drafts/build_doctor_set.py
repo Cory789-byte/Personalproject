@@ -36,10 +36,12 @@ BUNDLES = [
    ('TAB 2','The 24-hour Switchboard function · after-hours on-call arrangements changed · office hours not stated to the team · May 2024',
     'The Switchboard operates 24 hours a day. In about May 2024 (pay period 13–26 May 2024), after-hours on-call manager arrangements '
     'were changed and communicated by list, without consultation with switchboard operators. '
-    'The documents behind this tab are: the after-hours on-call manager email (Ellen); the '
-    'on-call self-delegation email (Ms Taylor); and the on-call and hours all-staff email of '
-    '17 May 2024 (Ms Taylor).',
-    [('S',123),('S',124),('S',125)]),
+    'The document behind this tab is Ms Taylor’s all-staff email of 17 May 2024, recording '
+    'the arrangement in her own words: "As per Ellen’s email, Ellen is on call until Sunday '
+    '19.05.24 and I will be on call from Monday 20.05.24"; that contact was to be "via '
+    'switch, office or mobile" regardless of her start and finish times; and that "My office '
+    'hours can vary". (The office-hours sequence of 15–17 May 2024 is behind Tab 6.)',
+    [('S',125)]),
    ('TAB 3','The pleaded “erratic physical presence” · the MASPER register (urgent clinical call routing) · six days of errors while contact attempts went unanswered · 9–15 May 2024',
     'The MASPER register is used by switchboard to route urgent clinical calls to the '
     'responsible medical registrars; the criticality of the Switchboard function is among '

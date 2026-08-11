@@ -11,10 +11,10 @@ W,H = A4
 BAR=HexColor('#1b1b2f'); GREY=HexColor('#555555')
 
 HOURS = dict(
-  pages={27:'Hours sequence 1 of 4 · the appellant’s office-hours request · 15 May 2024, 1:15pm',
-         28:'Hours sequence 2 of 4 · the retract email · 15 May 2024, 6:23pm (sent to the appellant only)',
-         29:'Hours sequence 3 of 4 · the appellant’s reply · 15 May 2024, 7:09pm (attaching Ellen’s hours email)',
-         30:'Hours sequence 4 of 4 · Ms Taylor · On call and Hours all-staff · 17 May 2024'},
+  pages={25:'Hours sequence 1 of 4 · the appellant’s office-hours request · 15 May 2024, 1:15pm',
+         26:'Hours sequence 2 of 4 · the retract email · 15 May 2024, 6:23pm (sent to the appellant only)',
+         27:'Hours sequence 3 of 4 · the appellant’s reply · 15 May 2024, 7:09pm (attaching Ellen’s hours email)',
+         28:'Hours sequence 4 of 4 · Ms Taylor · On call and Hours all-staff · 17 May 2024'},
   topclear=122, botclear=48, footer='Shepherd · WC/2024/227 · Stressor 1(a) · TAB 6', fy=34)
 COVID = dict(
   pages={9:'COVID leave texts · Feb–Mar 2024 · p.1 of 3',
@@ -22,10 +22,10 @@ COVID = dict(
          11:'COVID leave texts · Feb–Mar 2024 · p.3 of 3'},
   topclear=58, botclear=40, footer='Shepherd · WC/2024/227 · Stressor 1 · TAB 2', fy=28)
 MASPER = dict(
-  pages={9:'MASPER register emails · 9–15 May 2024 · p.1 of 4',
-         10:'MASPER register emails · 9–15 May 2024 · p.2 of 4',
-         11:'MASPER register emails · 9–15 May 2024 · p.3 of 4',
-         12:'MASPER register emails · 9–15 May 2024 · p.4 of 4'},
+  pages={7:'MASPER register emails · 9–15 May 2024 · p.1 of 4',
+         8:'MASPER register emails · 9–15 May 2024 · p.2 of 4',
+         9:'MASPER register emails · 9–15 May 2024 · p.3 of 4',
+         10:'MASPER register emails · 9–15 May 2024 · p.4 of 4'},
   topclear=58, botclear=40, footer='Shepherd · WC/2024/227 · Stressor 1(a) · TAB 3', fy=28)
 
 JOBS = [

@@ -5425,3 +5425,37 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   REMAIN: Tab 2 verb ("self-delegated" service / "arrangements changed" doctor) and Tab 4
   subtitle ("five days… 2:05pm/4:30pm" service / "the 20 May 2024 exchange" doctor) — the
   audience split; mirror on his word if he wants full parity.
+
+## 11 Aug 2026 (late night) — full page-by-page read of the 1(a) bundle before service; Tab 2 recomposed (30pp → 28pp)
+- Three-reader walk requested (as Cory / as the Respondent / as Qld Health). During the walk,
+  every content page was rendered and read. TWO DEFECTS found in Tab 2 and fixed in both copies:
+  (1) the "Ellen after-hours on-call manager" page was actually Ellen's email of **24 July
+  2024** (PP03 22/7–4/8, maternity-leave arrangements) — a post-onset document sitting under a
+  May 2024 explainer; (2) the "Chloe self-delegation" page was a **signature-only fragment**
+  (body absent). Both removed. Tab 2 now = Ms Taylor's 17 May 2024 all-staff email alone, which
+  records the May arrangement in her own words ("As per Ellen's email… I will be on call from
+  Monday 20.05.24"; contact "via switch, office or mobile"; "My office hours can vary") —
+  quoted in the explainer. Bundle now 28pp; MASPER pages at 7–10, hours sequence at 25–28;
+  fix_banners remapped; service copy re-furnished under the same filename.
+- Observations banked from the full read (for the walk and the cross file):
+  · p12 (Tab 4): the chain's top header visibly shows **Taylor's self-forward, 1 July 2025,
+    10:24am** ("From: Chloe Taylor · To: Chloe Taylor") — the witness-prep forward is ON the
+    served page. Matheson will see it.
+  · p14: Marriott's "**Thank you for your assistance in correcting the directory**" — the
+    thank-you page follows the appellant's 2:05pm recommendation in the chain.
+  · Tab 5 structure: two overlapping prints of the same chain — his original full chain
+    (pp16–19) and the **Renee Matheson-header print** (pp20–23, ending with Tammy 26 Apr
+    1:52pm; FRMS guideline cover at p23). KEPT deliberately: the Matheson print proves the
+    Respondent held the chain; noted as provenance, not duplication error.
+  · ⚠ HIS OWN VOICE in Tab 5 (pp17/21): "the numerous errors during Chloe's tenure in
+    management have unfortunately contributed to a decline in our department's performance"
+    and "feel she is not interested" — contemporaneous, addressed to Reese, courteous overall,
+    but these are the two sentences Matheson can read as campaigning. Also p27 (7:09pm reply):
+    "I believe it reflects a misuse of authority." All three are answerable (proper channel,
+    accurate content, self-correction in the same email) but he should know they're in there.
+  · Tab 1 note: the "Hello & Update" email removes EVERYONE's access (project rationale,
+    "mammoth project") — not targeted at him. The tab explainer is accurate (access removed,
+    duties remained) but the systemic read is the stronger one: database changes bottlenecked
+    through hours of "every Tuesday and second Monday 8:00–16:00", after-hours changes "will
+    have to wait", and the Contact & Number Changes book removed from the room — the exact
+    mechanism that later produced the 22 Feb directory modification standing uncorrected.
