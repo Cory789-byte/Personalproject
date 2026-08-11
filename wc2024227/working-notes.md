@@ -4950,3 +4950,19 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   (6) CE letter FRMS-gap extract; (7) the 10 May 2024 rating-of-11 page (her own
   disclosure). Every enclosure except the report and roster is THEIRS. Principle: the two
   instruments (doctor's pack / Matheson bundle) never swap audiences.
+- HEARING-READINESS MAP vs AMENDED 9A (11 Aug): the pack = documentary spine (~70% of
+  hearing-readiness): Stressor 3 best-proved (roster/pairing, Att 6, CE FRMS gap, guideline,
+  chains, 1 May refusal); Stressor 2 (AVAC chain, 21 May, NNPD); Stressor 1 (MASPER CS-1,
+  comm book ×2, PID outcome, retract strand, hours sequence); baseline medical; Form 24 ×3.
+  Contest at hearing is narrow (diagnosis + six causation words + "reasonable" ×6) since
+  events largely admitted. FIVE MISSING COMPONENTS to "run the 9A": (1) Report B (pending
+  Wed); (2) HIS SIGNED STATEMENT — biggest unbuilt piece (gap list already banked: comm-book
+  owned, call-up frequency, roster arithmetic, "other staff member" fact, FT dates,
+  bereavement date); (3) corroborating witness statements — Patrisha Co (Anh Doan call)
+  named in his own email, no statement exists; decide list + summons needs; (4) ⚠ FRMS
+  disclosure pages ABSENT from pack — rating-of-11 (10 May 2024) + "a few rostering errors"
+  line not in bookmark tree; add to section E on rebuild + hearing bundle (rating page
+  already specced for Matheson bundle); (5) legal layer — authorities to ratio (open debt),
+  submissions outline (one-mechanism), cross plans (Taylor timestamps → actual plan).
+  SEQUENCE UNCHANGED: pack feeds report → settlement bundle → hearing brief only if
+  Calderbank #3 fails (counsel presents). Components 2–4 build calmly post-report.
