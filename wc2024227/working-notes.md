@@ -5106,3 +5106,19 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   the protected act for the held track: to defuse the PID where it's harmless they banked it
   where it isn't. Full model: Delaney machine (fatigue course) + containment-and-severance
   (PID strand); both answered by keystone + chronology + the drawer.
+- THE FOUNDATION UNDER THE CONTAINMENT (Cory, 11 Aug): the PID was VALIDATED and the patient
+  safety concern was TRUE — which is WHY containment is their only available strategy: (1)
+  their own ESU certified the disclosure; their own remediation corroborates the substance
+  (FRMS implemented after 30 Jun 2024 = behaving as if he was right; rating-of-11; the
+  2-hour pathologist delay); the substance is unattackable → shrink frame/cut wire/crop
+  aftermath; (2) the TRUTH is why 32(5)(b) was abandoned — cannot run "perception" against a
+  disclosure their own unit validated; (3) truth INVERTS the aftermath: retracting a TRUE
+  safety concern (email removed from server) = suppression of accurate safety information;
+  closing a VALIDATED disclosure uninvestigated during the discloser's incapacity = the
+  system failing its own test — validation converts process into evidence; (4) CLINICAL (for
+  the room, dates only): he carried an unvalidated truth through the whole exposure window —
+  validation 24 Dec 2024 = six months POST-onset; right-and-unheard in a safety-critical
+  role = the organisational-justice erosion Q6.9 reaches; the doctor does the arithmetic
+  (13 May disclosure · 18 Jun onset · 24 Dec validation); (5) hearing calculus: publicly
+  attacking a validated patient-safety PID = institutional self-harm, priced into Matheson's
+  risk — the gravity their defence orbits without touching.
