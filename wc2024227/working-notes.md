@@ -4774,3 +4774,44 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   the June 2023 incident EXISTS IN WRITING via the 7 Aug 2023 grievance + Reese's own 29/8/23
   meeting summary ("Concerns about Chloe") — competing written accounts, his corroborated by
   their documents, hers by herself.
+
+## 11 Aug 2026 (morning) — PETERING REPLY + 4:30PM CALL PREP
+- ⭐⭐ EMILY PETERING REPLIED Tue 11 Aug 09:27 (to the 10 Aug 7:55pm union email; cc Moran):
+  tried to CALL first + voicemail; "I have significant concerns about the course of action
+  you're proposing in your email"; offers 4:30pm TODAY (despite "a number of commitments with
+  other members") or Thursday morning; union office CLOSED Wed 12 Aug (Brisbane show day /
+  Ekka People's Day). Upload: e208c141-Outlook_Document184.PDF.
+- CLOSE READING (banked): (1) read + triaged FIRST THING next morning = priority handling;
+  (2) speed driven by HIS "refer Stage 2 week commencing Mon 10 Aug" line — the email is an
+  INTERCEPT (reach him before lodgement); (3) concern scoped to "the course of action you're
+  proposing" — the PLAN, not his facts/grievances/person; (4) "advice on the points you raise"
+  = read point-by-point, per-point responses formed; (5) substance moved to PHONE deliberately
+  — zero substantive content or particulars in writing (whatever the concerns are, she won't
+  email them = sensitive: delegate deployment / union-name decision / other-member landscape /
+  welfare); (6) does NOT say "don't lodge" but the whole email functionally requests a hold;
+  (7) warm bookends ("Hi Cory... soon Cory"), cc Heath = office-aligned position, relationship
+  intact; (8) answers NONE of the three asks in writing (delegate confirm / union-name
+  referral / Stage 2 form-recipient).
+- FACTS SETTLED THIS MORNING: Cory IS the union delegate (his confirmation — removes the
+  "can't confirm" concern candidate); psychiatrist appointment is GOLD COAST (show day is
+  per-LGA; Wed 12 Aug = Brisbane only) — WEDNESDAY APPOINTMENT UNAFFECTED, confirmed by Cory.
+- ⭐ CONCERNS AS FINALLY RANKED (with the assumption the department has MANY issues / other
+  members — Cory's instruction to assume): (1) COLLISION with existing union activity in the
+  department he can't see (other members' matters; confidentiality = phone-only); (2) THE LANE
+  PROBLEM — collective issues travelling inside his personal Stage 2 lets MSH dismiss the
+  systems case as one unwell employee's grievance AND makes his dispute the lens on the
+  department; union likely wants the collective piece in ITS lane, his Stage 2 narrowed to the
+  irreducibly-personal core (exclusion/pay/leave) — i.e., HIS OWN ARGUMENT MIRRORED ("coming
+  only from me it keeps being folded back into a medical process about me"); (3) DELEGATE
+  DEPLOYMENT while excluded = a card played once (exclusion becomes an industrial incident;
+  he becomes the face of the collective case; site-representation question) — union wants it
+  deliberate or held; (4) sequencing vs the medical process (Stage 2 mid-RFMI = "awaiting
+  medical information" answer); (5) welfare / load-shedding. NOT on the list: the merits of
+  his workplace claims (a problem department validates the systems framing).
+- STRATEGIC READ: if the call runs "we take the collective piece, you keep pay-and-leave
+  narrowed, hold the delegate card" that is the UNION BUYING THE COLLECTIVE HALF OF HIS CASE
+  — converts one-person-systems-case into institution-vs-institution, the frame sought since
+  the first email. Only TEMPO is negotiable: the pay/leave core (5 weeks unpaid) presses
+  regardless; short hold of lodgement costs nothing; the 24 Aug cl 10.3.6 deemed-refusal
+  clock (E2 request) runs independently of anything agreed on this call.
+- Call prep sheet: drafts/CALL_PREP_PETERING_430PM_11AUG.md
