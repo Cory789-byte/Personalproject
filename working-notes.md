@@ -146,3 +146,16 @@
   — not in dispute?") then submissions arithmetic. Governing: documents+dates only, no
   motive/feeling questions — Briginshaw never bites, (b) door stays welded; the tribunal
   draws the inference in the silence after. These drafts = the cross brief counsel inherits.
+- CROSS TECHNIQUE BANKED (11 Aug): the DOCUMENT-PUT ritual — anchor / orient / confirm /
+  put — formalising Cory's "please view the email — dates, times, response": (1) ANCHOR:
+  document to witness before any question (bundle tab); (2) ORIENT: dates and times first,
+  one visual fact per question ("do you see..."), damaging lines READ ALOUD BY THE WITNESS
+  (their voice in the transcript); (3) CONFIRM: authorship + receipt ("that's your email?
+  your words?"); (4) PUT: arithmetic as viewing ("2:05pm; yours 4:30pm — two and a half
+  hours later?"; "do you see any email before 2:05pm recording that action?"; "'you were
+  aware' — now the second paragraph you were answering: 'may not be aware'?") then STOP —
+  never the interpretive question ("so it was untrue?") because explanation is the only
+  repair. Rules: exact words only, never paraphrase; response examined LAST (dates/times
+  build the cage first); win by leaving the witness alone with the paper and the silence.
+  Procedural: put to THEIR WITNESSES via tender bundle tabs; the entity is "put to" only in
+  submissions. Full scripted 20 May chain sequence in chat = the cross brief's model unit.
