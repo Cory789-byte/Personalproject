@@ -70,3 +70,13 @@
   mooted by 7-vs-10) → 12-month roster/payroll (RTI/IP if withheld) → MET spreadsheet
   (552A ask) → primary case reports → dates (bereavement/first consult/medication) →
   post-report outline + 2pp counsel handover brief.
+- LAST-DAY FILING NOTE (Cory, 11 Aug): the amended 9C was filed on the final day allowed.
+  Calibrated read (last-day filing is also routine for busy government practice): (1) the
+  amendments required witness-sourced content (Reese-unaware plea, 13-15 May timestamps,
+  comm-book 9.57am detail, 14 Nov 2023 meeting, delegate rebuttal) = instructions +
+  conferencing time — the document was BUILT, not templated, consistent with the witness-
+  conferencing bundles; (2) they ANSWERED rather than ATTACKED — no strike-out, no formal
+  particulars demand against a self-represented amended pleading = their assessment that
+  the 9A would survive challenge (professional's quiet verdict on its quality); (3) no
+  early aggression = no confidence in a knockout — management mode (meet obligation, keep
+  options, let time run), consistent with empty ¶27 / held IME / hearing-as-leverage.
