@@ -4899,3 +4899,19 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   (67-minute acknowledgment at personal direction); the Regulator (soft disclosure signal via
   appeals officer); Together (IO conference + senior allocation). Objective external
   validation via institutional behaviour, not modelling.
+- ASSEMBLY FEEDBACK + EXTERNAL SECOND-OPINION BRIEF (11 Aug): comprehensive self-audit of
+  the matter's assembly delivered. STRENGTHS confirmed: verification-before-assertion;
+  two-audience record-building; chronology-never-motive; removable-module design; admission
+  mining; sequencing restraint. ⚠ COULD-BE-BETTER LIST (the honest seven): (1) single-point-
+  of-failure — get a ONE-OFF professional review of the two highest-stakes documents (Report
+  B LOI; Calderbank #3) via direct-access counsel or CLC; (2) VERIFICATION DEBT rule adopted:
+  no new analytical pass while a verification item feeding a servable document is open;
+  (3) analysis-to-action ratio — the file is done enough; marginal hours go to rest, the
+  debt list, and statement gap items, not re-confirmation; (4) CONTINGENCY for the hinge:
+  define plan B before the appointment (alternative IME pathway + a chase rule for report
+  delay); (5) multiplicity temptation is structural — counsel presents if it reaches
+  hearing; (6) financial RUNWAY plan deserves the same rigour as the legal file; (7) build a
+  two-page COUNSEL HANDOVER BRIEF (case theory, keystone, admissions register,
+  prohibitions). EXTERNAL AI BRIEF: drafts/GROK_BRIEF_method_critique.txt — sanitised,
+  method-critique-only, with the do-not-add exclusion list; replies = red-team input,
+  verified before acted on.
