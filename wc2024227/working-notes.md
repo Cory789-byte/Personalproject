@@ -5265,3 +5265,17 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   their adverse case = crops; the instruments = frames. Consistency affords context;
   cropping cannot. FILE STATUS AT CLOSE: every document framed, every attack answered,
   every room instrumented. Next page = the consulting room, morning of 12 Aug 2026.
+- ✅ 1(a) BUNDLE v4 (final-final, delivered): Tab 3 upgraded — header adds "(urgent clinical
+  call routing)"; explainer opens: "The MASPER register is used by switchboard to route
+  urgent clinical calls to the responsible medical registrars; the criticality of the
+  Switchboard function is among the admitted facts (Enclosure D to the letter of
+  instruction)." Anchors chosen for provability: the urgent-routing function is proven by
+  the bundle's own documented instance (pathologist/critical results/2 hours) + the
+  ADMITTED criticality (Form 24, per the LOI's own Enclosure D description). ⚠ VERIFY ITEM:
+  Cory's "code phones" point — if the MASPER register is formally part of the emergency/code
+  phone system, that specific link goes in the STATEMENT sourced to the role description
+  (Form 20 / AO3 role description in RFMI Attachment 2), not in the bundle header until
+  sourced. Also banked in chat: the 4:30pm reply anatomy (reframe/diminish/control; the
+  2.5-hour status-repair turnaround vs 25-day pay correction); ORDER-AS-ARGUMENT confirmed
+  (Tabs 3-4-5 pre-justify the Tab 6 office-hours ask — "before weight is given to the email
+  at Tab 6, read Tabs 3, 4 and 5, which precede it in time").
