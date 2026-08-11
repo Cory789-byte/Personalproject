@@ -4966,3 +4966,21 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   submissions outline (one-mechanism), cross plans (Taylor timestamps → actual plan).
   SEQUENCE UNCHANGED: pack feeds report → settlement bundle → hearing brief only if
   Calderbank #3 fails (counsel presents). Components 2–4 build calmly post-report.
+- FULL REPO-vs-PACK SWEEP (11 Aug): ADDS (ranked): (1) FRMS bundle key pages — rating-of-11
+  10 May 2024 + "a few rostering errors... past rosters" + Reese unanswered chases (feeds
+  Q6.9); (2) 2023-09-27 Taylor FT APPROVAL ("very pleased... 16 Oct 2023") — completes CS-3
+  trajectory arc (Q6.1/6.3/QL0); (3) Hawes WCC 8 Sep 2024 — continuing incapacity/course
+  (Q6.11); (4) MSH production system records — Item 15 Leave Takings 19 Mar 2024 + Item 11
+  myHR/pandemic leave forms (system corroboration of Att 6 + COVID declines); (5) CONTENT
+  CHECK: chronology one-page must carry 13-15 May 2024 attendance-difficulty prodrome (SOFC
+  ¶16(b)(i), their pleading; SOFC itself correctly excluded); (6) JUDGMENT CALL: Review
+  Decision 69983 — lean INCLUDE listed last (kills "did you read the decision?" cross beat;
+  de novo exclusion also defensible if deliberate). VERIFY TONIGHT: (a) ⚠ E23 authorship —
+  repo file is MindAndMemory_report_QSuper_LouiseIngs 13 Feb 2025; if Ings not Krishnaiah,
+  fix label + reword Q6.11 premise; (b) 4 Apr 2023 pay text (¶19(a)) — confirm inside
+  "phone photos" or add to J; (c) Individual_monthly_stats_April2025.xlsx — if call-volume
+  data = only quantified role-load evidence (QL1), check contents. CORRECT EXCLUSIONS
+  CONFIRMED: 18 May "issues" email (defrauds); Reese/Taylor accounts; 8 Sep 2025 letter
+  (oral-ready only); deed/WP/DFV/rule-10; SOFC whole document. Verdict: one major omission
+  (FRMS pages), four corroborating adds, one label verify, one judgment call — otherwise
+  the pack captured the repo completely.
