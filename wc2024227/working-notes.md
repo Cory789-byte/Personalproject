@@ -5012,3 +5012,15 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   order differs", dates-as-documents-show-them paragraph, fuller independence statement.
   Physical-vs-bookmark divergence (adds at pp.155-174) accepted via the cover line rather
   than reorder.
+- ⭐⭐⭐ MASTER SPEC WRITTEN: skill/references/REPORT-B-PACK-MASTER-SPEC-11AUG2026.md — the
+  complete consolidated build instruction for the doctor's pack: design doctrine (discovery
+  not instruction; five conclusion→evidence designs; chronology as master instrument; three
+  readers), content manifest (sections A–J, E-codes frozen, exclusions locked), six-layer
+  navigation architecture (cover hub / bookmark grammar / banners+return links / question
+  switchboards / linked chronology spine / alphabetical jump list), conventions, the
+  10-step BUILD PIPELINE (named destinations kill the stale-pin bug class; programmatic
+  pins; OCR; optimize<20MB), the QA CHECKLIST (pin verification, dead-link walk, search
+  test, STEERING SWEEP grep list, wiring check, boundary sweep, two-click rule), delivery
+  (30pp printed core + oral layer), and freeze/change control (immutable after the report
+  cites E-codes; corrections as dated supplements). Supersedes the scattered audit notes as
+  the build authority.
