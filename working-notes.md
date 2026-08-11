@@ -36,3 +36,17 @@
   timeframe. WEDNESDAY LIST ADDITIONS: ask psychiatrist for indicative report completion
   timeframe (starts the 7-day engagement clock planning + is Emily's requested update);
   Report A/RFMI material ONLY to MSH — Report B never crosses.
+- ⛔ CORRECTION (Cory, 11 Aug — amend the previous entry's gloss): HEATH NEVER GOT BACK TO
+  HIM. The "this is serious" / IO-conference / referral-to-Petering statements were made
+  earlier and then NO follow-through came from Heath — no call back, no update. The live
+  engagement was produced by CORY'S 10 AUG EMAIL (Emily's next-morning intercept), not by
+  union machinery running on its own. REVISED READ: Together behaves like every other
+  institution in the matter — responds when a document lands, drifts when nothing pushes
+  (fourth confirmation of the rule: nothing on any track has ever moved except when he moved
+  it). PRACTICAL RULES: (1) Emily's engagement lives on HIS cadence — the post-report update
+  is the pulse, not courtesy; (2) parked asks (union-name referral / delegate) assumed NOT to
+  arrive unprompted — add a one-line nudge to the post-report update ("I'd welcome an update
+  on the two matters from my earlier email"); (3) the load-bearing-free union design
+  (removable section, his trigger, his 7-day clock) is validated — keep it. Emily's
+  capability assessment UNCHANGED (based on her documents); the self-driving-machinery
+  inference WITHDRAWN.
