@@ -5343,3 +5343,43 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   doctor's pack without E03 (or with a cleaned E03) before it goes to the doctor; Q6.6's
   E03 citation would re-point to Enclosure B chronology. One-command fix available on
   Cory's word.
+
+## 11 Aug 2026 (late evening) — the doctor set for 12 Aug: letter, question index, four bundles in doctor clothing · TWO SERVICE-COPY DEFECTS FOUND AND FIXED
+- **The doctor set built** (`drafts/build_doctor_set.py`; outputs delivered): the four stressor
+  bundles re-clothed for the doctor — service framing removed ("prepared in support of the
+  appellant's statement of evidence" → "supporting documents, organised by the stressors pleaded
+  in the Amended Form 9A (Enclosure C)"; divider lead-in "The particular, as it would be given:"
+  → "What the documents record:"; SOFC pinpoints → "admitted on the Respondent's pleadings"),
+  each cover carrying its question wiring (all four → Q6.5; 1(a)/1-course/S3 also Q6.6 + Q6.9;
+  S2 → Q6.9). Files: STRESSOR_1A_BUNDLE_DR_12AUG (30pp) · STRESSOR_1_COURSE_BUNDLE_DR_12AUG
+  (23pp) · STRESSOR_2_PAY_BUNDLE_DR_12AUG (18pp) · STRESSOR_3_FATIGUE_BUNDLE_DR_12AUG (20pp).
+  Bundle count settled by the pleaded structure: exactly four — 1(a) · 1 course (1(b)–(f)) ·
+  2 (pay) · 3 (fatigue/rostering).
+- **LETTER_TO_DR_KRISHNAIAH_12AUG** (pdf + txt): one page — lists the four handovers, the
+  independence paragraph, and the five written confirmations (QIRC-use / no medico-legal-use
+  footer · complete sources list · questions answered with reasons · oral evidence + fee ·
+  timeframe). Timeframe ask feeds the Petering engagement clock.
+- **QUESTIONS_EVIDENCE_INDEX_DR_12AUG** (1p): Q6.1–6.11 → where the documents sit (pack
+  sections, enclosure letters, bundle tabs). 6.2/6.8 marked "clinical — your own assessment".
+- ⛔⛔ **DEFECT FOUND IN THE 11 AUG SERVICE BUNDLES — DO NOT SERVE THE ORIGINALS.** The lean-pack
+  source pages carried old advocacy banners, visibly stacked under the retitles: Tab 6 hours
+  pages (S155–158) showed "Hours double standard 1–4" bars + a "hours double-standard block"
+  footer; the COVID text pages (S75–77) showed "COVID leave obstruction texts". Both were in
+  STRESSOR_1A_PARTICULARS_BUNDLE_11AUG.pdf (pp27–30) and STRESSOR_1_COURSE_BUNDLE_1b-1f_11AUG.pdf
+  (pp9–11). **v2 copies built and delivered** (`drafts/fix_banners.py`): white-out + neutral
+  restamp ("Hours sequence n of 4 · author · date/time"; "COVID leave texts · Feb–Mar 2024") +
+  full rasterization of the six pages (stale text layers purged; those pages now image-only).
+  Serve the _v2 files. The FINAL_SEND2 doctor pack was checked and is CLEAN (its single sweep
+  hit is the filed 9A's own heading on p28 — the known exception).
+- **Second inherited defect fixed:** Tab 6's first page was labelled "Ellen all-department
+  hours" but is actually the appellant's 7:09pm 15 May reply (Ellen's email is its attachment),
+  and the four pages sat out of order. Both builders now run Tab 6 chronologically — 1:15pm
+  request → 6:23pm retract (to the appellant only) → 7:09pm reply → 17 May all-staff hours —
+  with accurate banners and a rewritten explainer. Applies to the DR bundle and the 1(a) v2
+  service bundle (`drafts/build_1a_particulars_bundle.py` updated).
+- QA: steering sweep zero across all eight outputs' authored pages ("reprisal" inside the ESU's
+  own PID-Act letter and "campaign image" email artifact = their documents, acceptable);
+  bookmarks intact; letter and index each verified one page; metadata scrubbed to Cory only.
+- Open for the morning: LOI blanks ([Date]/[email]) still to complete before handover; E03
+  internal-labels rebuild of the pack still offered, awaiting his word; print run —
+  letter + index + the four bundle covers at minimum.

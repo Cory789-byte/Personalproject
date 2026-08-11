@@ -55,12 +55,13 @@ TABS = [
  ('TAB 6','Particular (vii) — Office hours asked in writing · the retract sent to the appellant only · 9–17 May 2024',
   'On 9 May 2024 Ms Taylor directed that she be contacted during business hours. During '
   '9–15 May 2024, repeated attempts to contact Ms Taylor during business hours went '
-  'unanswered, and her office hours had not been stated to the team; on 15 May 2024 the '
-  'appellant asked in writing that they be stated. The documents behind this tab are the '
-  'hours sequence of four: the all-department hours emails (Ellen; Ms Taylor), the '
-  'appellant’s office-hours request, and the retract email sent to the appellant only. '
+  'unanswered, and her office hours had not been stated to the team. The four documents '
+  'behind this tab are the sequence of 15–17 May 2024, in order: at 1:15pm on 15 May 2024 '
+  'the appellant asked in writing that the office hours be stated; at 6:23pm the '
+  'retraction email was sent to the appellant only; at 7:09pm the appellant replied, '
+  'attaching Ellen’s hours email; on 17 May 2024 Ms Taylor stated her hours to all staff. '
   '(See also Tab 3 for the CS-1 records of the same period.)',
-  [('S',155),('S',156),('S',157),('S',158)]),
+  [('S',157),('S',158),('S',155),('S',156)]),
 ]
 
 def wrap(c,text,x,y,wmax,size,leading,font='Helvetica'):
