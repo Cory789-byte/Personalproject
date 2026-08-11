@@ -4994,3 +4994,21 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   arrive at hearing unrepaired). Documents already in repo as PDFs — nothing to print.
   Fires at: hearing contradiction matrix (home); OPTIONAL one sentence in Calderbank #3
   (raises Matheson risk vs tips the point early — decide at Calderbank drafting, not now).
+- LEAN PACK v2 AUDIT (REPORT_B_LEAN_DOCTOR_PACK.pdf, 174pp, 11 Aug): fixes APPLIED by Cory:
+  QL pages removed ✓; neutral labels ✓; FRMS-11/FT-approval/Hawes-Sep/Item15/Item11/RD
+  added ✓; E23 resolved (Krishnaiah author, Ings recipient) ✓; Q6.11 retitled ✓; chronology
+  carries 13-15 May ✓. ⛔ THREE REMAINING DEFECTS (Cory spotted, verified): (1) ALL printed
+  question-page pins STALE (old 165pp layout): E01 p22→34, E02 p26→38, E05 p34→13, E06
+  p40→41, E19 p101→87, E21 p110→93, E22 p113→96, E23 p114→97; matrix→32, 9A→27, roster→56,
+  Att6→58, CE→60; regenerate ALL from final positions (links/bookmarks resolve correctly —
+  print pins don't); (2) new adds NOT WIRED IN: no E-numbers, cited on zero question pages —
+  assign E35 FRMS-11 p159 (→Q6.6+Q6.9), E36 FT approval p160 (→Q6.1+Q6.3; verified by
+  render: "very pleased... 16th October 2023" + HIS gracious 28 Sep reply beneath = premorbid
+  voice bonus, keep), E37 Hawes-Sep p161 (→Q6.11), E38 Item15 p162 + E39 Item11 p163
+  (→Q6.6), E40 RD p166 (→Q6.4 completeness note); (3) COVER rewrite (full replacement text
+  provided in chat): remove "as prodrome marker" (clinical conclusion supplied), remove
+  "= pre-injury engagement" equation, remove "Minimize dump · selected originals only"
+  (note-to-self), add "navigate by bookmarks — bookmark order is reading order; physical
+  order differs", dates-as-documents-show-them paragraph, fuller independence statement.
+  Physical-vs-bookmark divergence (adds at pp.155-174) accepted via the cover line rather
+  than reorder.
