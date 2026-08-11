@@ -5147,3 +5147,25 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   = the controlling document; their pleading mirrors its structure and marks its own loss
   point. ("the Plaintiff" artifact INTRODUCED by the amendment — different drafter/civil
   precedent in the rewrite.)
+- ⭐⭐ THE 1(a) PARTICULARS REGISTER (Cory's answer to SOFC ¶11 "no particulars", 11 Aug —
+  destination: Enclosure A signed statement, 1(a) section; NOT a 9A amendment; also the
+  ready answer if particulars are ever formally demanded): (1) ELLEN INTEGRATION +
+  ACCESS RESTRICTION — 18 Jul 2023 database-access removal email (E27, in pack) = unassessed
+  unilateral directive; PROVEN on paper. (2) ON-CALL CHANGE WHILE NON-RESPONSIVE to clinical
+  staff — on-call email set (Ellen after-hours / Taylor self-delegation / 17 May all-staff) +
+  the "multiple emails to contact Chloe during business hours" anchor (15 May record); the
+  pairing = emergency workflow bottleneck; VERIFY: date the non-responsiveness instances.
+  (3) MASPER REGISTER 6 DAYS — 9 May (business-hours direction) → 15 May (2-hr pathologist
+  failure + Doan call) = SIX DAYS, matching his recollection; errors built at the register
+  then blamed on Switchboard ("insinuating switchboard can not do their job") — witness
+  PATRISHA CO (statement on build list); dates proven via CS-1. (4) RESPIRATORY CLINIC —
+  GAP: pin the dates from records before it serves; undated particular = gift to their
+  objection; hold until dated. (5) ⭐ THE 2:05PM PARTICULAR (the jewel; likely = the banked
+  "other staff member was doing that when it was never done" fact): no answer → he stayed
+  back POST-SHIFT to make the recommendation → Chloe's response claimed "it was being done
+  that morning" → the action record shows HE actioned it at 2:05PM after shift = CHECKABLE
+  FALSE ASSURANCE disproven by timestamp; VERIFY: locate the email/system record + her
+  actual reply words. PATTERN: all five = one mechanism (responsibility left with him, means
+  withheld) — the 1(a) section will read like the rest of the file. STATEMENT BUILD LIST
+  ADDS: date respiratory clinic; find 2:05pm record + Chloe's reply; date on-call
+  non-response instances; Co statement.
