@@ -5064,3 +5064,26 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   YET — it is the foundation of the assumed facts and the pack's Q6.5/6.9 point to its note
   page; building it is the top post-appointment task. Build script:
   drafts/build_reportb_pack_LOI_aligned.py (supersedes build_reportb_pack_final.py).
+- ⭐⭐⭐ THE 9C AS A DELANEY MACHINE (9A-vs-9C forensic, case-law weighted, 11 Aug — revises
+  the "unwitting" read partway): the 9C's oddities align with ONE authority = deliberate
+  global-evaluation architecture (the same method that won Review 69983 — unreasonable break
+  FOUND, claim denied globally): (1) ¶22(a) "human error" = the BLEMISH CONCESSION (Dwyer's
+  own word at the mention — bench knows the fight): concede the isolated defect so the
+  course absorbs it; (2) "not repeated" = the ISOLATION CLAMP — an otherwise unnecessary
+  sentence; single error absorbable, pattern fatal ⇒ the FRMS "a few rostering errors...in
+  past rosters" line BREAKS THE CLAMP (their own disclosure) — its highest strategic value
+  now understood; (3) FLATTENING — the break processed as just item N, "reasonable in all
+  respects" ×6 flat refrain = converting his Mahaffey case into a Delaney case (13 mini-
+  trials invite global weighing; one tall keystone defeats it) — the one-mechanism
+  discipline is the refusal of that conversion; (4) ¶11 particulars attack on 1(a) = the
+  Carr counter (prune the vague strand); (5) ¶25 post-dating = temporal filter — partial
+  force only: no answer to ss 32(3)(b)/(4) aggravation + their ¶16(b)(i) prodrome admission
+  hands an onset window predating the filtered items; (6) empty ¶27 + six causation words =
+  POWDER DELIBERATELY DRY (repeat player post-disclosure won't commit to a theory its own
+  rating-of-11 could contradict; the denying judgment's empty chair is being HELD for a
+  future IME); (7) 32(5)(b) recited-not-contended = ARMED TRIPWIRE (amendment/submissions if
+  his oral evidence drifts into perception vocabulary — the never-say-perception rule is the
+  weld). COUNTER-MAP (all already in-file): Mahaffey keystone + Report B Q6.5; FRMS lines v
+  the clamp; one-mechanism v flattening; aggravation + prodrome v the filter; report-first
+  sequencing v dry powder; two-year clean record v the tripwire. ⚠ Delaney/Mahaffey still on
+  the read-to-ratio list before any filed use.
