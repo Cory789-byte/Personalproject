@@ -5302,3 +5302,16 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   disclosure) or REPORT WEEK (the sequenced pairing — bundle + Report B landing in the same
   fortnight as the season's double answer). Send as PDF, keep sent record per 3-Aug
   practice, expect no reply.
+- ⭐⭐ SERVICE PLAN LOCKED (Cory's decision, 12 Aug): FOUR bundles built, TWO to be served in
+  sequence — (1) the 1(a) PARTICULARS BUNDLE serves NOW/MORNING with the drafted cover email
+  (drafts/EMAIL_MATHESON_ongoing_disclosure_1A_bundle.txt); (2) the STRESSOR 3 FATIGUE/
+  ROSTERING BUNDLE serves WITH REPORT B (report week — the paired landing); (3) Stressor 1
+  course (1(b)-(f), 23pp) and Stressor 2 pay (18pp) bundles HELD as statement-support /
+  counsel-brief units, not served standalone (content = substantially their admissions;
+  the statement carries those strands). ⛔ NAMING: the internal label "keystone" is RETIRED
+  from all filenames/documents per Cory — Stressor 3 file renamed STRESSOR_3_FATIGUE_
+  ROSTERING_BUNDLE_11AUG.pdf (internal titles never contained it). Principle banked: a
+  served bundle answers an attack or marks a sequence moment — never merely mirrors the
+  pleading. Builder: drafts/build_stressor_bundles.py. Service practice: PDF attachment,
+  sent-record filed per 3-Aug practice, no reply expected. When Stressor 3 goes with the
+  report, the report-week covering correspondence adds one line for it.
