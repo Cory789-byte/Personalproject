@@ -5224,3 +5224,19 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   costs protection, and makes ¶11 untenable before ever answered. Bundle audiences: HIS
   statement-support + counsel brief; serve-safe if he chooses to give it — nothing in it
   is characterisation, every explainer is dates/documents/quotes.
+- ✅ 1(a) BUNDLE v2 — STRATEGIC HEADERS (delivered): every tab header now leads with
+  verbatim quotes/dated facts, zero authored adjectives: T1 "Hello & Update" · access
+  removed; T2 on-call self-delegated · hours never stated; T3 MASPER · six days of errors
+  while contact attempts went unanswered; T4 "we can not help patients" · five days of
+  misdirected clinical calls · the 2:05pm recommendation and the 4:30pm reply; T5 "more
+  than two weeks without response"; T6 office hours asked in writing · retract sent to him
+  only. Index mirrors. Principle: headers carry each tab's verdict in THEIR words — the
+  flip-through reader (Matheson/tribunal/counsel) gets the case from the dividers alone.
+  Serve-safe maintained (quotes are of documents; every clause is a date or a record).
+  PLUS: settlement pricing updated in chat (~86-88% compensated strong-report; timing
+  earlier — their hearing branch degraded); Taylor reliability ledger banked in chat form:
+  FIVE-FOR-FIVE documented check-failures (20 May reply; COVID declines basis vs
+  "attachments in fact present"; 21 May "still waiting" vs 3 May instruction; comm-book
+  self-narration; contactability vs latency record) → unreliable where uncorroborated;
+  their "reasonable in all respects" refrain has no reliable narrator; counterweights noted
+  (prepared witness, sympathetic register, Reese-unaware true, discount not annihilation).

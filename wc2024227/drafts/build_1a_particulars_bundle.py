@@ -11,19 +11,19 @@ INK=HexColor('#1a1a1a'); GREY=HexColor('#555555'); BAR=HexColor('#1b1b2f')
 SRC='REPORT_B_LEAN_DOCTOR_PACK.pdf'
 
 TABS = [
- ('TAB 1','Particular (i) — Removal of database access · 18 July 2023',
+ ('TAB 1','Particular (i) — “Hello & Update” · database access removed · 18 July 2023',
   'On 18 July 2023, the appellant’s access to the switchboard database was removed by '
   'email ("Hello & Update"), while the duties requiring that access remained assigned to him. '
   'The document behind this tab is the email of 18 July 2023.',
   [('S',105)]),
- ('TAB 2','Particular (ii) — On-call arrangements and contactability · May 2024',
+ ('TAB 2','Particular (ii) — On-call self-delegated · office hours never stated to the team · May 2024 (PP24)',
   'In about May 2024 (pay period 13–26 May 2024), after-hours on-call manager arrangements '
   'were changed and communicated by list, without consultation with switchboard operators. '
   'The documents behind this tab are: the after-hours on-call manager email (Ellen); the '
   'on-call self-delegation email (Ms Taylor); and the on-call and hours all-staff email of '
   '17 May 2024 (Ms Taylor).',
   [('S',123),('S',124),('S',125)]),
- ('TAB 3','Particular (iii) — The MASPER register · 9 to 15 May 2024',
+ ('TAB 3','Particular (iii) — The MASPER register · six days of errors while contact attempts went unanswered · 9–15 May 2024',
   'Between 9 and 15 May 2024, following the direction of 9 May 2024 concerning business-hours '
   'contact, errors accumulated in the MASPER register while switchboard remained responsible '
   'for call routing. On 15 May 2024 a pathologist was unable to hand over critical results for '
@@ -31,7 +31,7 @@ TABS = [
   'performance (witnessed by Ms P. Co). The documents behind this tab are the CS-1 MASPER '
   'course records, 9–15 May 2024.',
   [('S',68),('S',69),('S',70),('S',71)]),
- ('TAB 4','Particulars (iv) and (v) — The directory modification and the 20 May 2024 exchange',
+ ('TAB 4','Particulars (iv)–(v) — “we can not help patients” · five days of misdirected clinical calls · the 2:05pm recommendation and the 4:30pm reply',
   'On 22 February 2024 the document "Outpatients Department – Clinic contact Details" was '
   'modified without notice to switchboard operators. On 15 May 2024 at 11:47am the Integrated '
   'Respiratory Service requested in writing, marked High importance, that the directory be '
@@ -45,14 +45,14 @@ TABS = [
   'the "Respiratory Nurse Educators" email chain, 15–20 May 2024, from the Respondent’s '
   'disclosure.',
   [('X','resp_1.pdf'),('X','resp_2.pdf'),('X','resp_3.pdf')]),
- ('TAB 5','Particular (vi) — Response latency · the April 2024 rostering correspondence',
+ ('TAB 5','Particular (vi) — “more than two weeks without response” · 8 April – 1 May 2024',
   'The appellant’s written requests concerning the roster of 8 April 2024 received no '
   'substantive response until 1 May 2024; his email of 24 April 2024 recorded more than two '
   'weeks without response; the request was refused on 1 May 2024. The documents behind this '
   'tab are the rostering concerns correspondence (April 2024) and the Roster Concerns chain '
   'of 26 April – 8 May 2024, including the 1 May 2024 refusal.',
   [('S',108),('S',109),('S',110),('S',111),('S',126),('S',127),('S',128),('S',129)]),
- ('TAB 6','Particular (vii) — Office hours and the hours sequence · May 2024',
+ ('TAB 6','Particular (vii) — Office hours asked in writing · the retract sent to him only · 9–17 May 2024',
   'On 9 May 2024 Ms Taylor directed that she be contacted during business hours. During '
   '9–15 May 2024, repeated attempts to contact Ms Taylor during business hours went '
   'unanswered, and her office hours had not been stated to the team; on 15 May 2024 the '
@@ -88,12 +88,12 @@ y=wrap(c,'This bundle collects the documents supporting the particulars of Stres
  'contemporaneous records; several are drawn from the Respondent’s own disclosure.',57,y,480,10,13.5)
 y-=12
 c.setFont('Helvetica-Bold',10.5); c.drawString(57,y,'INDEX'); y-=16
-rows=[('Tab 1','(i) Database access removal','18 Jul 2023'),
-      ('Tab 2','(ii) On-call arrangements / contactability','May 2024 (PP24)'),
-      ('Tab 3','(iii) MASPER register course','9–15 May 2024'),
-      ('Tab 4','(iv)–(v) Directory modification · the 20 May exchange','22 Feb · 15–20 May 2024'),
-      ('Tab 5','(vi) Response latency · rostering correspondence','8 Apr – 8 May 2024'),
-      ('Tab 6','(vii) Office hours · the hours sequence','9–17 May 2024')]
+rows=[('Tab 1','(i) “Hello & Update” · database access removed','18 Jul 2023'),
+      ('Tab 2','(ii) On-call self-delegated · hours never stated','May 2024 (PP24)'),
+      ('Tab 3','(iii) MASPER · six days of errors · contact unanswered','9–15 May 2024'),
+      ('Tab 4','(iv)–(v) “we can not help patients” · the 20 May exchange','22 Feb · 15–20 May 2024'),
+      ('Tab 5','(vi) “more than two weeks without response”','8 Apr – 8 May 2024'),
+      ('Tab 6','(vii) Office hours asked · retract to him only','9–17 May 2024')]
 c.setFont('Helvetica',10)
 for t,d,dt in rows:
     c.setFont('Helvetica-Bold',10); c.drawString(60,y,t)
