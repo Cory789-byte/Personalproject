@@ -5169,3 +5169,28 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   withheld) — the 1(a) section will read like the rest of the file. STATEMENT BUILD LIST
   ADDS: date respiratory clinic; find 2:05pm record + Chloe's reply; date on-call
   non-response instances; Co statement.
+- ⭐⭐⭐ 1(a) PARTICULARS — DOCUMENTS FOUND + PLEADING DRAFTS (11 Aug): particulars (4)+(5)
+  = ONE CHAIN, in the REGULATOR'S OWN DISCLOSURE (FRMS bundle pp.40-42, "Respiratory Nurse
+  Educators"): 22 Feb 2024 Clinic-contact-Details doc modified without notice to switchboard
+  (root cause, identified in HIS email) → 15 May 2024 11:47am Marriott/IRS High-importance
+  correction request ("no doctors... cannot reschedule") → 20 May 11:03am Marriott again
+  ("WE CONTINUE TO GET CALLS" = FIVE DAYS of misdirected clinical calls) → 20 May 2:05PM
+  CORY to Taylor cc Windeatt+Marriott: identifies the 22 Feb modification, "I recommend a
+  modification and review of the document" → 20 May 4:30PM TAYLOR: "this task was being
+  actioned. I had discussed with Richard this morning... I believe you were aware of that...
+  for my approval" — the verbatim "being done that morning" response; HER "you were aware"
+  contradicted by HIS same-chain "switchboard staff may not be aware". BONUSES: (a) Taylor
+  SELF-FORWARDED the chain 1 Jul 2025 during witness prep (their side collected it as
+  significant); (b) the ORIGINAL 9C ¶20 engaged this exchange ("not required or given
+  authority to do any updating work"; denied he said he was EXHAUSTED) and that engagement
+  was DELETED from the amended 9C — met the chain once and retreated. OTHER PARTICULARS:
+  (1) Ellen access removal 18 Jul 2023 = E27 in pack (image page — verify exact wording by
+  render); (2) on-call set: PP24 list dated 13-26 May 2024 (attachment title); verify
+  self-delegation email date; non-response anchor = his 15 May "multiple emails to contact
+  Chloe during business hours"; (3) MASPER 9→15 May via CS-1, Co witness. PLEADING-GRADE
+  DRAFTS (i)-(v) delivered in chat — dates/documents/quotes only; absence framed as "no
+  record... has been disclosed". VERIFY BEFORE SIGNING: shift end 20 May 2024 (roster) for
+  the post-shift line; E27 wording; E36 date; ⭐ pack 02 "Fw Respiratory Nurse Educators.msg"
+  for HIS post-4:30pm reply — the original 9C's denial that he "advised Ms Taylor that he
+  was exhausted" implies a WRITTEN exhausted line exists in that chain = dated symptom
+  report ~4 weeks pre-onset (statement + clinical value).
