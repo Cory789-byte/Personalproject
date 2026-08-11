@@ -40,7 +40,7 @@ BUNDLES = [
     'on-call self-delegation email (Ms Taylor); and the on-call and hours all-staff email of '
     '17 May 2024 (Ms Taylor).',
     [('S',123),('S',124),('S',125)]),
-   ('TAB 3','The MASPER register (urgent clinical call routing) · errors accumulating while contact attempts went unanswered · 9–15 May 2024',
+   ('TAB 3','The pleaded “erratic physical presence” · the MASPER register (urgent clinical call routing) · six days of errors while contact attempts went unanswered · 9–15 May 2024',
     'The MASPER register is used by switchboard to route urgent clinical calls to the '
     'responsible medical registrars; the criticality of the Switchboard function is among '
     'the admitted facts (Enclosure D to the letter of instruction). Between 9 and 15 May '

@@ -5415,3 +5415,13 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   directly; the doctor copy keeps the enclosure reference (correct for its audience).
 - Both files rebuilt through the full chain (banner fixes + rasterization + metadata furnish);
   CS-refs 0, steering sweep 0. Service file re-issued under the same name.
+
+## 11 Aug 2026 (night, cont.) — doctor-copy Tab 3 header aligned to the service copy
+- He caught the doctor copy's Tab 3 header missing the pleaded-term tie-in (his standing
+  instruction from the original build: erratic presence goes in the MASPER header). Now both
+  copies read: 'The pleaded "erratic physical presence" · the MASPER register (urgent
+  clinical call routing) · six days of errors while contact attempts went unanswered ·
+  9–15 May 2024'. Rebuilt through the fix chain; sweep 0. Deliberate copy differences that
+  REMAIN: Tab 2 verb ("self-delegated" service / "arrangements changed" doctor) and Tab 4
+  subtitle ("five days… 2:05pm/4:30pm" service / "the 20 May 2024 exchange" doctor) — the
+  audience split; mirror on his word if he wants full parity.
