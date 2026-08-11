@@ -4915,3 +4915,25 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   prohibitions). EXTERNAL AI BRIEF: drafts/GROK_BRIEF_method_critique.txt — sanitised,
   method-critique-only, with the do-not-add exclusion list; replies = red-team input,
   verified before acted on.
+- ⭐⭐ REPORT B QUESTIONS+EVIDENCE PACK AUDITED (uploaded 11 Aug, 165pp/186 bookmarks/31MB,
+  "REPORT_B_QUESTIONS_AND_EVIDENCE_BOOKMARKS.pdf"): assembly = expert-briefing instrument
+  (cover reading order → 18 Q-pages with pinned evidence lists → Form 24 ×3 incl key-
+  admissions schedule → 9A + stressor map → LOI/chronology/Form 20 spine → themed proof
+  E–J → jump list). Fact anchors verified vs banked record (onset 18 Jun; WCC 1 Jul; CS-3
+  31 Aug 2023; FT mid-Oct 2023; 16 Nov 2023 baseline; Krishnaiah 13 Feb 2025; competing
+  causes ~Oct/Dec 2024). Quality: above most solicitor briefs. ⛔ STRUCTURAL FLAW: Q6.4
+  (complete sources list) makes the pack DISCOVERABLE — it will appear in the report's
+  sources; audit standard = "as read by Willson". FIX LIST (before tomorrow): (1) STRIP
+  QL0–QL6 ("Later Q if asked") from the doctor's copy — written contingency questions =
+  instructions not in the served LOI (11 vs 18 mismatch = cross-exam gift); they return to
+  CORY'S question map, oral only; evidence stays in E–J; (2) label sweep: "Hours double
+  standard"→"Hours requests and responses — sequence"; cover "CASE THEORY:"→"ASSUMED
+  CHRONOLOGY (per pleadings):"; Q6.8 drop "Do not merely repeat earlier characterisations"
+  → "from your own current assessment"; bookmark "Stressor 1 hostile course start"→
+  "Stressor 1 (as pleaded)"; (3) bereavement date still missing at Q6.7 — add to chronology
+  or supply orally (gap-list item); (4) logistics: 31MB may bounce email — confirm delivery
+  channel with clinic TODAY; bookmarks panel not auto-open everywhere (cover line + p.X pins
+  mitigate); (5) oral triage line for the doctor: 30pp core = questions + chronology p.26 +
+  admissions p.34 + March roster p.55 + CE letter p.62. Boundary check PASSED: no Report A
+  material, no deed, no rule-10 items. Verdict: 9/10 with one structural error; fixes are
+  small and tonight-sized.
