@@ -95,3 +95,18 @@
   by schedules sourced from their own admissions. Remaining verifies: Ellen page wording;
   20 May shift end; self-delegation date; pack-02 "exhausted" reply; 42% Easter payroll
   check (feeds 2(a)(ii)). BOTH no-particulars attacks now fully answered in draft.
+- ⭐ ERRATIC-PRESENCE PARTICULAR UPGRADED (Cory's refinement, 11 Aug): from pattern-claim to
+  ROLE-BASED FAILURE WITH DATED WINDOW — she made herself the contact point, and the contact
+  point was closed during the six days the register failed. Elements: (1) 9 May direction
+  narrowed contact to her, business hours (CS-1) = single channel by her own instruction;
+  (2) she held the contactability role ITSELF (self-delegated on-call, E36 [date to verify]
+  + PP24 list 13-26 May); (3) the channel didn't answer — repeated business-hours attempts
+  9-15 May unanswered, office hours never stated (his 15 May record); (4) while MASPER
+  errors accumulated 9-15 May → the 2-hour pathologist failure 15 May, blame routed to
+  Switchboard. Redrafted particular (vii) delivered in chat — closed logic: channel was her
+  choice / availability her responsibility / silence documented / cost clinical, timed,
+  witnessed. "Erratic presence" becomes arithmetic about a channel (created 9 May,
+  unresponsive through 15 May), same discipline as the 7-hour break — dates subtract, no
+  adjectives. VERIFY (last bolt): E36 self-delegation email date (p.124 source pack) — if
+  ≤9-15 May window, particular complete as drafted; if later, on-call clause moves to its
+  own dated sentence.
