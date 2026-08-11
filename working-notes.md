@@ -50,3 +50,23 @@
   (removable section, his trigger, his 7-day clock) is validated — keep it. Emily's
   capability assessment UNCHANGED (based on her documents); the self-driving-machinery
   inference WITHDRAWN.
+- ⭐⭐ PACK 2 SPEC BANKED (the hearing & strategy pack — 11 Aug): audience = Cory + counsel
+  handover (S1-5); S6 = drawer, physically separate. S1 CONTRADICTION MATRIX (10 entries):
+  Forrest 8-hr ×2 vs ¶22(e)/Sept-2024 (7-vs-10); ¶22(b) vs ¶22(e); ¶22(a) "not repeated" vs
+  FRMS "past rosters"; ¶20 vs Form 24 ¶¶40-41; Forrest "no expectation" vs Form 20 ¶¶19-22;
+  "not aware of concerns" vs 2023-24 record; insurer "unable to accommodate" vs "under
+  review"; 2 Jul condition vs 3 Jul ECC satisfied; G3 asymmetry; rating-of-11 vs "reasonable
+  in all respects". S2 WITNESS ARCHITECTURE: Taylor timestamps cross plan; Reese
+  authentication set; Forrest/Harrison/Hughes 2026 course; Co statement + summons decisions.
+  S3 HIS EVIDENCE: signed statement (biggest hole; gap list banked) + Form 20 + para→exhibit
+  key. S4 LEGAL: authorities to ratio (Mahaffey/Carr/Adams/Prizeman; Delaney DISTINGUISHED;
+  Anderson/Stable/Neale distinguished; Bunney/DRP; UQ costs; Rogers/Dorman); outline
+  revision post-report; s 32 map + 32(5)(b) guard; s 558(3); two-judgments spine.
+  S5 SETTLEMENT: Matheson 30pp bundle; Calderbank #3 skeleton (W5 para, transcript slot,
+  s 558(3), FORREST-SENTENCE DECISION BOX); s 552A draft; Calderbank history. S6 DRAWER:
+  deed+weapon map, WP chains, analytics, memoirs, registers, rule-10 — privilege review
+  before any counsel access. BUILD LIST (priority): Report B → signed statement → transcript
+  → Co statement → payroll verifications (42%, 19 Mar, W1/W2 payslips) → cl 18.10 (may be
+  mooted by 7-vs-10) → 12-month roster/payroll (RTI/IP if withheld) → MET spreadsheet
+  (552A ask) → primary case reports → dates (bereavement/first consult/medication) →
+  post-report outline + 2pp counsel handover brief.
