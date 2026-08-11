@@ -110,3 +110,19 @@
   adjectives. VERIFY (last bolt): E36 self-delegation email date (p.124 source pack) — if
   ≤9-15 May window, particular complete as drafted; if later, on-call clause moves to its
   own dated sentence.
+- ⛔⛔ DECISION BANKED (11 Aug, against instruction after advice — Cory asked to amend the 9A
+  with the new particulars/codes-misdirection): DO NOT AMEND THE 9A. Reasons: (1) amendment
+  REOPENS the pleading cycle — they get a further amended 9C drafted with knowledge of every
+  error tonight catalogued (would repair "not repeated", re-word "human error", rebuild the
+  ¶11 objection); the give-aways are baked in ONLY while pleadings stay closed; (2) leave
+  required post-directions = submission opportunity for them + disturbs the instrument Dwyer
+  has read aloud; (3) bulking the pleading = the Delaney trap (lean Mahaffey spear → 13-
+  argument bundle); (4) ⭐ NOTHING NEW NEEDS PLEADING — every found fact slots under existing
+  1(a) categories (22 Feb modification → unilateral directive w/o consultation; 5-day
+  misdirected clinical calls → emergency workflow bottleneck; MASPER 6-day window + silent
+  self-appointed contact point → clinical governance + erratic presence; 2:05pm chain → all
+  three). Categories in the pleading, dates in the evidence. THE MAX-DIFFICULTY CONFIG
+  ALREADY EXISTS: closed pleading they answered badly and cannot fix + Enclosure A statement
+  (particulars as sworn evidence, tagged to pleaded categories) + Schedule of Further and
+  Better Particulars DRAFTED-HELD-UNSERVED (fires only on formal demand or direction).
+  Asymmetry = their pleading frozen, his proof growing. The 9A stays exactly as filed.
