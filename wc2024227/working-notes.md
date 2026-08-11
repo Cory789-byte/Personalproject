@@ -5279,3 +5279,17 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   2.5-hour status-repair turnaround vs 25-day pay correction); ORDER-AS-ARGUMENT confirmed
   (Tabs 3-4-5 pre-justify the Tab 6 office-hours ask — "before weight is given to the email
   at Tab 6, read Tabs 3, 4 and 5, which precede it in time").
+- ✅✅ 1(a) BUNDLE SEND-READY (v5 final, delivered): cover carries full details (Cory Lea
+  Shepherd · Appellant (self-represented) · AO3 Switchboard Services, Logan Hospital ·
+  0417 400 227 · coryshepherd1@hotmail.com · 11 August 2026); metadata scrubbed and set to
+  his authorship only (Title/Author/Creator/Producer/Subject verified — nothing else).
+  30pp · 5.5MB · qpdf-linearized. THE PROVENANCE REVERSAL banked (his ask): Tabs 3-4's
+  documents came from the APPEAL OFFICER'S OWN DISCLOSURE (Jul 2025 witness-conferencing/
+  FRMS bundle, "Renee Matheson" paginated; Taylor SELF-FORWARDED the respiratory chain
+  1 Jul 2025 and the pay chain 10 Jul 2025 during witness prep) — collected by their side
+  TO USE AGAINST HIM: the office-hours email as conduct ("sent an email to many people",
+  ¶16(b)(iii)); the respiratory exchange as overreach (original 9C: "not required or given
+  authority to do any updating work" — engagement DELETED in the amended 9C); the lateness
+  notes as attendance conduct. Their intended weapons, re-framed by chronology, now
+  headline HIS bundle — and the cover DECLARES the provenance ("several are drawn from the
+  Respondent's own disclosure") as a credibility feature.

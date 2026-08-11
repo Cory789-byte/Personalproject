@@ -80,8 +80,11 @@ c.setFont('Helvetica-Bold',15); c.drawString(57,H-70,'WC/2024/227')
 c.setFont('Helvetica-Bold',13)
 c.drawString(57,H-92,'Stressor 1(a) — Particulars support bundle')
 c.setFont('Helvetica',10.5); c.setFillColor(GREY)
-c.drawString(57,H-108,'Prepared in support of the appellant’s statement of evidence · Confidential')
-c.setFillColor(INK); y=H-140
+c.drawString(57,H-108,'Prepared in support of the appellant’s statement of evidence')
+c.setFont('Helvetica',9.5)
+c.drawString(57,H-122,'Cory Lea Shepherd · Appellant (self-represented) · AO3 Switchboard Services, Logan Hospital')
+c.drawString(57,H-135,'0417 400 227 · coryshepherd1@hotmail.com · 11 August 2026')
+c.setFillColor(INK); y=H-162
 y=wrap(c,'This bundle collects the documents supporting the particulars of Stressor 1(a) of the '
  'Amended Form 9A (7 April 2026). Each tab carries one particular, stated in the terms in '
  'which it would be given, followed by the documents that record it. All documents are '
@@ -157,11 +160,13 @@ with pdf.open_outline() as ol:
         ol.root.append(OutlineItem(f'{tabno} · {title}',destination=Array([pdf.pages[tabstart[i]-1].obj,Name.Fit])))
 with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta['dc:title']='Stressor 1(a) — Particulars support bundle — WC/2024/227'
-    meta['dc:creator']=['Cory Shepherd']
+    meta['dc:creator']=['Cory Lea Shepherd']
+    meta['dc:description']='Shepherd v Workers’ Compensation Regulator · WC/2024/227'
 di=pdf.docinfo
 for k in list(di.keys()): del di[k]
 di['/Title']='Stressor 1(a) — Particulars support bundle — WC/2024/227'
-di['/Author']='Cory Shepherd'; di['/Creator']='Cory Shepherd'; di['/Producer']='Cory Shepherd'
+di['/Author']='Cory Lea Shepherd'; di['/Creator']='Cory Lea Shepherd'; di['/Producer']='Cory Lea Shepherd'
+di['/Subject']='Shepherd v Workers’ Compensation Regulator · WC/2024/227'
 pdf.save('_1a_raw.pdf')
 subprocess.run(['qpdf','--linearize','_1a_raw.pdf','STRESSOR_1A_PARTICULARS_BUNDLE_11AUG.pdf'],check=True)
 print('BUILT', len(pdf.pages),'pages; tabs at',tabstart)
