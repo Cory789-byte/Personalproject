@@ -126,3 +126,23 @@
   (particulars as sworn evidence, tagged to pleaded categories) + Schedule of Further and
   Better Particulars DRAFTED-HELD-UNSERVED (fires only on formal demand or direction).
   Asymmetry = their pleading frozen, his proof growing. The 9A stays exactly as filed.
+- ⭐⭐ HOW IT IS PUT TO THE RESPONDENT (three rooms, 11 Aug): ROOM 1 SERVICE (passive put):
+  statement per directions (particulars sworn under pleaded categories) → Report B → held
+  particulars schedule only on formal demand; the frozen 9C meets sworn evidence it cannot
+  amend against. ROOM 2 CONFERENCE/CALDERBANK (priced put): every sentence begins "the
+  Respondent's own" — pleading admits the 7-hr break as human error; disclosure records
+  "past rosters" errors + the rating-of-11; pleading dates attendance difficulty 13-15 May;
+  disclosure documents 5 days of misdirected clinical calls same period; closing line =
+  "what evidence would the Respondent call to resist the inference those documents compel."
+  ROOM 3 HEARING (forensic put; Browne v Dunn; counsel presents): closed questions, one
+  fact, document first, never why, STOP ONE QUESTION EARLY. Drafted cross sequences banked:
+  TAYLOR/respiratory (15 May 11:47 → 20 May 11:03 five days → 2:05pm recommendation + 22
+  Feb identification → 4:30pm "being actioned"/"this morning" → "can you point to any
+  record of that morning discussion?" → "you were aware" vs "may not be aware" → SIT DOWN);
+  TAYLOR/presence (9 May direction; hours never stated; 9-15 May attempts; on-call role;
+  2-hour pathologist failure); REESE/rating (matrix 10 May; "rating of 11 — moderate at
+  best, your words"; HR email; no reply by 20 May; "a few rostering errors... past rosters"
+  — the answer ends "not repeated" forever). KEYSTONE: one courtesy question ("seven hours
+  — not in dispute?") then submissions arithmetic. Governing: documents+dates only, no
+  motive/feeling questions — Briginshaw never bites, (b) door stays welded; the tribunal
+  draws the inference in the silence after. These drafts = the cross brief counsel inherits.
