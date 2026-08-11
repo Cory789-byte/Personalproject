@@ -5240,3 +5240,10 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   self-narration; contactability vs latency record) → unreliable where uncorroborated;
   their "reasonable in all respects" refrain has no reliable narrator; counterweights noted
   (prepared witness, sympathetic register, Reese-unaware true, discount not annihilation).
+- ✅ 1(a) BUNDLE v3 (final, delivered): pronoun sweep — all he/him/his → "the appellant"
+  (verified zero pronouns in authored pages); Tab 3 header now leads with the PLEADED term:
+  'The pleaded "erratic physical presence" · the MASPER register · six days of errors while
+  contact attempts went unanswered · 9-15 May 2024', explainer closes: "These records, with
+  Tabs 2 and 6, particularise the 'erratic physical presence' pleaded at Stressor 1(a)" —
+  the term is safe as a QUOTE OF THE PLEADING (the 9C itself recites it). Index updated.
+  Build script current in drafts/build_1a_particulars_bundle.py.

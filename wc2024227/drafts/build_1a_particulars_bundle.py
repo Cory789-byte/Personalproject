@@ -13,7 +13,7 @@ SRC='REPORT_B_LEAN_DOCTOR_PACK.pdf'
 TABS = [
  ('TAB 1','Particular (i) — “Hello & Update” · database access removed · 18 July 2023',
   'On 18 July 2023, the appellant’s access to the switchboard database was removed by '
-  'email ("Hello & Update"), while the duties requiring that access remained assigned to him. '
+  'email ("Hello & Update"), while the duties requiring that access remained assigned to the appellant. '
   'The document behind this tab is the email of 18 July 2023.',
   [('S',105)]),
  ('TAB 2','Particular (ii) — On-call self-delegated · office hours never stated to the team · May 2024 (PP24)',
@@ -23,13 +23,13 @@ TABS = [
   'on-call self-delegation email (Ms Taylor); and the on-call and hours all-staff email of '
   '17 May 2024 (Ms Taylor).',
   [('S',123),('S',124),('S',125)]),
- ('TAB 3','Particular (iii) — The MASPER register · six days of errors while contact attempts went unanswered · 9–15 May 2024',
+ ('TAB 3','Particular (iii) — The pleaded “erratic physical presence” · the MASPER register · six days of errors while contact attempts went unanswered · 9–15 May 2024',
   'Between 9 and 15 May 2024, following the direction of 9 May 2024 concerning business-hours '
   'contact, errors accumulated in the MASPER register while switchboard remained responsible '
   'for call routing. On 15 May 2024 a pathologist was unable to hand over critical results for '
   'approximately two hours; the registrar’s return call criticised switchboard’s '
   'performance (witnessed by Ms P. Co). The documents behind this tab are the CS-1 MASPER '
-  'course records, 9–15 May 2024.',
+  'course records, 9–15 May 2024. These records, with Tabs 2 and 6, particularise the “erratic physical presence” pleaded at Stressor 1(a).',
   [('S',68),('S',69),('S',70),('S',71)]),
  ('TAB 4','Particulars (iv)–(v) — “we can not help patients” · five days of misdirected clinical calls · the 2:05pm recommendation and the 4:30pm reply',
   'On 22 February 2024 the document "Outpatients Department – Clinic contact Details" was '
@@ -47,12 +47,12 @@ TABS = [
   [('X','resp_1.pdf'),('X','resp_2.pdf'),('X','resp_3.pdf')]),
  ('TAB 5','Particular (vi) — “more than two weeks without response” · 8 April – 1 May 2024',
   'The appellant’s written requests concerning the roster of 8 April 2024 received no '
-  'substantive response until 1 May 2024; his email of 24 April 2024 recorded more than two '
+  'substantive response until 1 May 2024; the appellant’s email of 24 April 2024 recorded more than two '
   'weeks without response; the request was refused on 1 May 2024. The documents behind this '
   'tab are the rostering concerns correspondence (April 2024) and the Roster Concerns chain '
   'of 26 April – 8 May 2024, including the 1 May 2024 refusal.',
   [('S',108),('S',109),('S',110),('S',111),('S',126),('S',127),('S',128),('S',129)]),
- ('TAB 6','Particular (vii) — Office hours asked in writing · the retract sent to him only · 9–17 May 2024',
+ ('TAB 6','Particular (vii) — Office hours asked in writing · the retract sent to the appellant only · 9–17 May 2024',
   'On 9 May 2024 Ms Taylor directed that she be contacted during business hours. During '
   '9–15 May 2024, repeated attempts to contact Ms Taylor during business hours went '
   'unanswered, and her office hours had not been stated to the team; on 15 May 2024 the '
@@ -90,10 +90,10 @@ y-=12
 c.setFont('Helvetica-Bold',10.5); c.drawString(57,y,'INDEX'); y-=16
 rows=[('Tab 1','(i) “Hello & Update” · database access removed','18 Jul 2023'),
       ('Tab 2','(ii) On-call self-delegated · hours never stated','May 2024 (PP24)'),
-      ('Tab 3','(iii) MASPER · six days of errors · contact unanswered','9–15 May 2024'),
+      ('Tab 3','(iii) “Erratic physical presence” · MASPER · six days unanswered','9–15 May 2024'),
       ('Tab 4','(iv)–(v) “we can not help patients” · the 20 May exchange','22 Feb · 15–20 May 2024'),
       ('Tab 5','(vi) “more than two weeks without response”','8 Apr – 8 May 2024'),
-      ('Tab 6','(vii) Office hours asked · retract to him only','9–17 May 2024')]
+      ('Tab 6','(vii) Office hours asked · retract to the appellant only','9–17 May 2024')]
 c.setFont('Helvetica',10)
 for t,d,dt in rows:
     c.setFont('Helvetica-Bold',10); c.drawString(60,y,t)
