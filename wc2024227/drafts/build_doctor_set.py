@@ -48,8 +48,8 @@ BUNDLES = [
     'accumulated in the MASPER register while switchboard remained responsible for call '
     'routing. On 15 May 2024 a pathologist was unable to hand over critical results for '
     'approximately two hours; the registrar’s return call criticised switchboard’s '
-    'performance (witnessed by Ms P. Co). The documents behind this tab are the CS-1 MASPER '
-    'course records, 9–15 May 2024.',
+    'performance (witnessed by Ms P. Co). The documents behind this tab are the MASPER '
+    'register email records of 9–15 May 2024.',
     [('S',68),('S',69),('S',70),('S',71)]),
    ('TAB 4','“we can not help patients” · misdirected clinical calls · the 20 May 2024 exchange',
     'On 22 February 2024 the document "Outpatients Department – Clinic contact Details" was '
@@ -79,7 +79,7 @@ BUNDLES = [
     'the appellant asked in writing that the office hours be stated; at 6:23pm the '
     'retraction email was sent to the appellant only; at 7:09pm the appellant replied, '
     'attaching Ellen’s hours email; on 17 May 2024 Ms Taylor stated her hours to all staff. '
-    '(See also Tab 3 for the CS-1 records of the same period.)',
+    '(See also Tab 3 for the MASPER records of the same period.)',
     [('S',157),('S',158),('S',155),('S',156)]),
   ]),
  # ---------------- STRESSOR 1 COURSE (1(b)-1(f)) ----------------

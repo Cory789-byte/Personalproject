@@ -5383,3 +5383,19 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
 - Open for the morning: LOI blanks ([Date]/[email]) still to complete before handover; E03
   internal-labels rebuild of the pack still offered, awaiting his word; print run —
   letter + index + the four bundle covers at minimum.
+
+## 11 Aug 2026 (night) — CS-1 references purged from the 1(a) bundles; service copy furnished
+- His instruction: remove all CS-1 references and furnish the service bundle. Done in both
+  1(a) bundles (service + doctor): Tab 3 explainer now "the MASPER register email records of
+  9–15 May 2024"; Tab 6 cross-reference now "the MASPER records of the same period".
+- The MASPER source pages (pp9–12) carried an invisible stale label line "E11 CS-1 MASPER /
+  call-handling" in the text layer, and the visible banner used internal shorthand ("Vivian
+  lists"). All four pages restamped "MASPER register emails · 9–15 May 2024 · p.n of 4" and
+  rasterized — no internal codes survive extraction. (Other invisible E-code lines on pp3,
+  5–7, 18–21 left as-is: benign doc-numbers matching their visible banners.)
+- Service copy furnished as **WC2024227_Stressor1a_Particulars_Bundle_11Aug2026.pdf** (30pp):
+  properties Title/Author/Creator/Producer = Cory Lea Shepherd, Subject = matter name; XMP
+  rewritten without the pikepdf toolkit tag; no dates, no custom metadata; decompressed
+  fingerprint check clean; linearized; "_v2" dropped from the served filename.
+- CS-ref count 0 and steering sweep 0 verified on both files. fix_banners.py extended
+  (multi-fix per file: MASPER + HOURS on 1(a); COVID on the course bundle).

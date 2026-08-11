@@ -21,30 +21,45 @@ COVID = dict(
          10:'COVID leave texts · Feb–Mar 2024 · p.2 of 3',
          11:'COVID leave texts · Feb–Mar 2024 · p.3 of 3'},
   topclear=58, botclear=40, footer='Shepherd · WC/2024/227 · Stressor 1 · TAB 2', fy=28)
+MASPER = dict(
+  pages={9:'MASPER register emails · 9–15 May 2024 · p.1 of 4',
+         10:'MASPER register emails · 9–15 May 2024 · p.2 of 4',
+         11:'MASPER register emails · 9–15 May 2024 · p.3 of 4',
+         12:'MASPER register emails · 9–15 May 2024 · p.4 of 4'},
+  topclear=58, botclear=40, footer='Shepherd · WC/2024/227 · Stressor 1(a) · TAB 3', fy=28)
 
 JOBS = [
- ('STRESSOR_1A_BUNDLE_DR_12AUG.pdf', 'STRESSOR_1A_BUNDLE_DR_12AUG.pdf', HOURS),
- ('STRESSOR_1_COURSE_BUNDLE_DR_12AUG.pdf', 'STRESSOR_1_COURSE_BUNDLE_DR_12AUG.pdf', COVID),
- ('STRESSOR_1A_PARTICULARS_BUNDLE_11AUG.pdf', 'STRESSOR_1A_PARTICULARS_BUNDLE_11AUG_v2.pdf', HOURS),
- ('STRESSOR_1_COURSE_BUNDLE_1b-1f_11AUG.pdf', 'STRESSOR_1_COURSE_BUNDLE_1b-1f_11AUG_v2.pdf', COVID),
+ ('STRESSOR_1A_BUNDLE_DR_12AUG.pdf', 'STRESSOR_1A_BUNDLE_DR_12AUG.pdf', [MASPER, HOURS]),
+ ('STRESSOR_1_COURSE_BUNDLE_DR_12AUG.pdf', 'STRESSOR_1_COURSE_BUNDLE_DR_12AUG.pdf', [COVID]),
+ ('STRESSOR_1A_PARTICULARS_BUNDLE_11AUG.pdf', 'STRESSOR_1A_PARTICULARS_BUNDLE_11AUG_v2.pdf', [MASPER, HOURS]),
+ ('STRESSOR_1_COURSE_BUNDLE_1b-1f_11AUG.pdf', 'STRESSOR_1_COURSE_BUNDLE_1b-1f_11AUG_v2.pdf', [COVID]),
 ]
 
-for src_fn, out_fn, FIX in JOBS:
+def merged(fixes):
+    out={'pages':{}}
+    for F in fixes:
+        for p,label in F['pages'].items():
+            out['pages'][p]=dict(label=label, topclear=F['topclear'],
+                                 botclear=F['botclear'], footer=F['footer'], fy=F['fy'])
+    return out
+
+for src_fn, out_fn, FIXES in JOBS:
+    FIX = merged(FIXES)
     tag = os.path.splitext(out_fn)[0][:20]
     # 1. overlay
     ov_fn=f'_ov_{tag}.pdf'
     c=canvas.Canvas(ov_fn,pagesize=A4)
     order=sorted(FIX['pages'])
     for p in order:
-        label=FIX['pages'][p]
+        P=FIX['pages'][p]
         c.setFillColor(white)
-        c.rect(0,H-FIX['topclear'],W,FIX['topclear'],stroke=0,fill=1)
-        c.rect(0,0,W,FIX['botclear'],stroke=0,fill=1)
+        c.rect(0,H-P['topclear'],W,P['topclear'],stroke=0,fill=1)
+        c.rect(0,0,W,P['botclear'],stroke=0,fill=1)
         c.setFillColor(BAR); c.rect(0,H-30,W,30,stroke=0,fill=1)
         c.setFillColor(white); c.setFont('Helvetica-Bold',9.5)
-        c.drawString(14,H-19,label)
+        c.drawString(14,H-19,P['label'])
         c.setFillColor(GREY); c.setFont('Helvetica',8)
-        c.drawString(57,FIX['fy'],FIX['footer'])
+        c.drawString(57,P['fy'],P['footer'])
         c.showPage()
     c.save()
     pdf=pikepdf.open(src_fn)
