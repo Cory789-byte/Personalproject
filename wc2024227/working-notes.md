@@ -5043,3 +5043,24 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   tasks if wanted; bookmarks+pins mitigate). Build system banked: drafts/
   build_reportb_pack_final.py + reportb_qtexts.json (single-script regeneration; the script
   is the source of truth per spec §4). Pack sent to Cory.
+- ⛔→✅ LOI-ALIGNMENT CORRECTION (Cory caught it — "this is all incorrect read it", quoting LOI
+  §5 enclosures): my v3/v5 build CONTRADICTED the served letter of instruction. Errors fixed
+  in the v6 rebuild (REPORT_B_DOCTOR_PACK_LOI_ALIGNED_SEND.pdf, 156pp, delivered): (1) the
+  ASSUMED FACTS are Enclosure A (signed statement) corroborated by B (chronology) + D
+  (admissions) — LOI ¶4 — NOT the 9A and NOT the Form 20; (2) the 9A is Enclosure C, dated
+  7 APRIL 2026, "scope and context only... not facts you are asked to assume"; "not a case
+  of bullying or harassment"; (3) HAWES IS ONE CERTIFICATE (Enclosure F: records first
+  attendance 1 Jul 2024, SIGNED 8 SEP 2024) — my two-certificates story (E22+E40) was wrong;
+  verified on the certificate's face (injury 18/06/2024 · first seen 01/07/2024); merged +
+  re-bannered + rasterized; (4) question pages now VERBATIM LOI 6.1–6.11 (v2's enriched
+  paraphrases removed — same instructions-mismatch class as the QL pages); (5)
+  enclosure-letter labelling throughout (A–H) so the report's citations match the LOI;
+  E-code system retired from front matter; (6) FORM 20 REMOVED (not an enclosure; its
+  "assumed-facts spine" banner contradicted LOI ¶4); (7) Enclosure A NOTE PAGE inserted
+  (statement provided separately; assumed-facts hierarchy stated). QA: 52 pins verified ·
+  207 links 0 dead · sweeps clean (p28 = 9A's own pleaded words only) · 123 bookmarks ·
+  22.3 MiB. ⚠ STANDING FLAGS: the LOI in the pack still carries [Date]/[email]/[date]
+  blanks — complete before service; ⛔ ENCLOSURE A (the signed statement) DOES NOT EXIST
+  YET — it is the foundation of the assumed facts and the pack's Q6.5/6.9 point to its note
+  page; building it is the top post-appointment task. Build script:
+  drafts/build_reportb_pack_LOI_aligned.py (supersedes build_reportb_pack_final.py).
