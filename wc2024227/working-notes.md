@@ -5315,3 +5315,31 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   pleading. Builder: drafts/build_stressor_bundles.py. Service practice: PDF attachment,
   sent-record filed per 3-Aug practice, no reply expected. When Stressor 3 goes with the
   report, the report-week covering correspondence adds one line for it.
+- ✅ STRESSOR 3 BUNDLE v2 (deduplicated + upgraded, delivered, 20pp): DEDUPE — the Apr-May
+  rostering chains (E30/E31/R1MAY, 10pp) REMOVED (already served in the 1(a) bundle Tab 5;
+  cover carries the cross-reference instead). ⭐⭐ TAB 2 UPGRADED from the actual Att 6 faces:
+  (a) HIS 8 Apr 2024 3:56pm request (High importance, pay period 8-31 Mar 2024) enclosing
+  "policies that delineate... a minimum of a TEN-HOUR break between shifts" — the ten-hour
+  minimum cited in writing on 8 Apr; (b) 24 Apr 3:15pm follow-up (High importance);
+  (c) ⭐⭐⭐ TAYLOR'S REPLY ADMITS THE ON-CALL/CODES ROLE IN HER OWN WORDS: "As the
+  Switchboard Manager, it is part of my role to be on call after hours for urgent matters,
+  which include emergencies like any general codes (Code Red, Yellow, Purple, Brown, and
+  Orange), system outages or staffing issues due to illness" — Cory's code-phones point now
+  SOURCED (feeds the erratic-presence particular: the duty defined by her, the channel then
+  silent) + her reply acknowledges review "during your tenure as a PART-TIME employee" +
+  she ATTACHED an after-hours protocol; (d) Tab 3 carries the FOUR-YEARS arithmetic on the
+  17 Jun 2020 agreement (date math, unimpeachable) with the casual-classification fact
+  HELD for the statement pending source. ⚠ RETRIEVAL GAPS (Cory to pull — full Att 6 /
+  Saines PDF or QH Outlook, per E03's own note): (1) the WRITTEN REFUSAL email citing the
+  2020 agreement (~1 May 2024); (2) HIS TRAVEL-TIME email; slots reserved in Tab 3's
+  explainer ("held in the complete Att 6 records... statement annexures"). NEW CROSS/
+  DISCLOSURE ITEM banked: how Taylor LOCATED the 17 Jun 2020 agreement she was not a
+  manager for — cross question ("You were not the manager in June 2020?" / "How did this
+  agreement come to you?") + future disclosure category (records of the identification/
+  retrieval of the June 2020 agreement in connection with the March-May 2024 decisions).
+  ⚠⚠ FLAG — DOCTOR'S PACK E03 (pp39-40): the fatigue-raised table carries internal working
+  labels ("A Wednesday map Phase 1"; "Hotmail search... returned almost nothing"; "Pull
+  those PDFs") — fails the pack's own no-notes-to-self standard; RECOMMEND rebuilding the
+  doctor's pack without E03 (or with a cleaned E03) before it goes to the doctor; Q6.6's
+  E03 citation would re-point to Enclosure B chronology. One-command fix available on
+  Cory's word.
