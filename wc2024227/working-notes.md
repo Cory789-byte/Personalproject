@@ -5024,3 +5024,22 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   (30pp printed core + oral layer), and freeze/change control (immutable after the report
   cites E-codes; corrections as dated supplements). Supersedes the scattered audit notes as
   the build authority.
+- ⭐⭐⭐ DOCTOR'S PACK BUILT BY CLAUDE (v-final, 11 Aug): REPORT_B_DOCTOR_PACK_FINAL_11AUG.pdf
+  — 170pp, built per the master spec from Cory's lean pack v2. Executed: physical reorder to
+  bookmark order (sections contiguous, adds inlined); front matter regenerated (cover per
+  spec with 10 live links; Q6.1–6.11 with computed pins + live links, evidence ordered by
+  probative weight); E38–E43 assigned + wired (E38 FRMS-11 first line of Q6.6/6.9; E39
+  approval → Q6.1/6.3; E40 → Q6.11; E41/E42 → Q6.6; E43 → Q6.4 note); full bookmark tree
+  rebuilt 125 nodes date·author grammar incl. the governance cluster v2 had DROPPED (MASPER,
+  comm book, COVID, PID, ESU, CS-4, retract — restored); ◂Questions return-link on every
+  body page; internal note pages (164-165) REMOVED; steering purged from our hand — "double
+  standard" banners (visual+text via rasterize), "Chloe pattern" labels, "COVID leave
+  obstruction" banner, cover self-notes, Q6.5 "union suppression"→neutral, Q6.8 rewritten;
+  ⛔ E00 MATRIX REMOVED from doctor's pack (saturated with "Clinical use" coaching lines +
+  notes-to-self — reassigned to PACK 2 as the hearing tool it is); metadata scrubbed (Cory
+  authorship only); linearized. QA PASSED: 58/58 pins correct · 227 links 0 dead ·
+  steering/boundary sweeps clean (only p28 = the filed 9A's own pleaded words) · 125
+  bookmarks · 34MB (no gs in env — image downsampling + OCR of image pages remain LOCAL
+  tasks if wanted; bookmarks+pins mitigate). Build system banked: drafts/
+  build_reportb_pack_final.py + reportb_qtexts.json (single-script regeneration; the script
+  is the source of truth per spec §4). Pack sent to Cory.
