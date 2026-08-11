@@ -15,3 +15,24 @@
   runs independently; withdrawal/transcript/appeal sequence untouched. NET: Wednesday's
   appointment is now the hinge of BOTH tracks — the appeal (Report B) and the employment
   track trigger (Report A delivery starts the engagement clock).
+- ⭐⭐ PETERING WRITTEN RESPONSE (11 Aug, after the 4:30 call + his confirmation email):
+  ASSETS IN WRITING: (1) the hold-with-exit framework CO-SIGNED — "If the report is provided
+  and the Health Service still fails to engage with you, provide meaningful updates, or
+  explain any continuing delay, I AGREE that would be an important factor when considering
+  what steps should occur next" (his "I will proceed with the referral" stands on the record
+  unrebutted; combined record = member stated exit condition, union agreed the trigger);
+  (2) engagement record acknowledged — "attempted over a significant period to obtain
+  answers regarding your status, pay, leave arrangements and return to work" (the
+  two-experiments paragraph recited back in the union's words); (3) ⭐ HER OWN TEST = employer
+  "must assess the restrictions/adjustments, consider whether adjustments can be reasonably
+  accommodated, and COMMUNICATE THEIR POSITION" — the exact obligation MSH has not met
+  (position went to the insurer, never to him with reasons from its maker) — the union's own
+  yardstick for the referral. ALSO: RFMI questions called "relatively standard" BUT "not to
+  say the broader process has necessarily been handled well". WITHHELD (parked, not dead —
+  the predicted no-writing pattern): delegate confirmation; union-name referral/psychosocial
+  assessment; Stage 2 representation — all three asks unaddressed in writing. Re-raise AFTER
+  the report lands, not before. Welfare: union social worker (John Prescott) offered —
+  genuine, no downside. NEXT CONTACT: two-line update to Emily after Wednesday with report
+  timeframe. WEDNESDAY LIST ADDITIONS: ask psychiatrist for indicative report completion
+  timeframe (starts the 7-day engagement clock planning + is Emily's requested update);
+  Report A/RFMI material ONLY to MSH — Report B never crosses.
