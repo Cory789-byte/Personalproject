@@ -5293,3 +5293,12 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   notes as attendance conduct. Their intended weapons, re-framed by chronology, now
   headline HIS bundle — and the cover DECLARES the provenance ("several are drawn from the
   Respondent's own disclosure") as a credibility feature.
+- ✅ MATHESON DISCLOSURE COVER EMAIL DRAFTED (drafts/EMAIL_MATHESON_ongoing_disclosure_1A_
+  bundle.txt): flat/procedural per the standing register — NO quotes, NO dates from the
+  bundle in the email body (the contrast is the effect); "for completeness of the sequence"
+  = the only weighted phrase (factual); "supplements my list of documents" discharges the
+  continuing duty with production made; "tab notes... convenience of reference only" fences
+  the explainers against any quasi-submission quibble. TIMING = Cory's call: now (prompt
+  disclosure) or REPORT WEEK (the sequenced pairing — bundle + Report B landing in the same
+  fortnight as the season's double answer). Send as PDF, keep sent record per 3-Aug
+  practice, expect no reply.
