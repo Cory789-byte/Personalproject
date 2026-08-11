@@ -80,3 +80,18 @@
   the 9A would survive challenge (professional's quiet verdict on its quality); (3) no
   early aggression = no confidence in a knockout — management mode (meet obligation, keep
   options, let time run), consistent with empty ¶27 / held IME / hearing-as-leverage.
+- ⭐ PARTICULARS COMPLETION (11 Aug): the 9C makes the no-particulars objection TWICE — 1(a)
+  AND 2(a). COMPLETIONS: 1(a) "erratic physical presence" limb particularised by RESPONSE-
+  LATENCY per standing discipline (never attendance claims): (vi) 8 Apr request → no
+  substantive response until 1 May; 24 Apr email recording "more than two weeks without
+  response"; (vii) 9-15 May multiple unanswered business-hours contact attempts + office
+  hours never stated + his 15 May written ask (CS-1). 2(a) PAY SCHEDULE drafted (i)-(vi) —
+  five of six particulars sourced to THEIR OWN pleading: 4 Apr 2023 text (¶19(a)); Feb-Apr
+  2024 underpayment/penalty incl. 30 Mar PH issue + 24 Apr amended payslip (Items 11/16
+  AVAC PRNs 15397775/15605601, their production); pattern 2023-24 (¶20(a)); 3 May AVAC
+  instruction (¶21(a)); 21 May still-waiting + 28 May submission (¶21(b)-(c)) = 25 days;
+  delay-not-quantum framing (Form 24 ¶¶40-41). STRUCTURAL POINT: in BOTH places they
+  objected AND answered the substance anyway — objection reduced to formality, now stripped
+  by schedules sourced from their own admissions. Remaining verifies: Ellen page wording;
+  20 May shift end; self-delegation date; pack-02 "exhausted" reply; 42% Easter payroll
+  check (feeds 2(a)(ii)). BOTH no-particulars attacks now fully answered in draft.
