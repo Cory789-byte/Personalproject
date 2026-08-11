@@ -4838,3 +4838,22 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   takes 2.5/systems; park independence demand + CE-thread out of industrial track; insurer
   issue to its own channel. ALL acceptable — the fixed point (pay/leave from 26 Jun) sits
   wholly inside what she'd keep.
+- ⭐ PETERING PRIOR EMAIL (earlier call, pre-10-Aug — provided by Cory 11 Aug): shows her
+  position has been CONSISTENT across all three communications (capacity information first →
+  employer assesses → then act) — the 11 Aug "significant concerns" was consistency, not
+  reaction; his 10 Aug email departed from her already-stated sequence. TWO BANKED TEST-LINES
+  (union-authored, in writing, deployable at Stage 2): (1) "Your employer should not be
+  making medical decisions about what you are fit to do. The relevant medical advice should
+  come from your treating doctor" — MSH holding him out DESPITE the fit-with-restrictions ECC
+  = employer substituting its own medical judgment = fails the union's own test (pairs with
+  the G3 asymmetry); (2) her earlier "communicate their position" test (11 Aug email). ALSO:
+  her consent/gatekeeping advice ("requests for medical information provided directly to you
+  first, rather than permitting unrestricted direct communication") = EXACTLY the 3 Aug
+  architecture he already built — instincts and professional advice identical. OPERATIONAL:
+  (a) STANDING REQUEST — when Report A exists, send a copy to EMILY at the same time as MSH
+  (union holds the document while the engagement clock runs); (b) her WC-separation line =
+  union-endorsed Report A/B boundary; (c) SUBSTANTIVE ROLE FIRST — do not lead with
+  alternative duties/redeployment (concedes the substantive role is in question; their
+  argument, not his); alternative-duties card stays in the deck. Same forensic fingerprints
+  as the 11 Aug letter (headed sections, graded hedges, element-form tests, agency
+  preservation) — profile holds.
