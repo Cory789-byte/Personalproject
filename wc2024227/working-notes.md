@@ -5087,3 +5087,22 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   the clamp; one-mechanism v flattening; aggravation + prodrome v the filter; report-first
   sequencing v dry powder; two-year clean record v the tripwire. ⚠ Delaney/Mahaffey still on
   the read-to-ratio list before any filed use.
+- ⭐⭐ THE PID CONTAINMENT-AND-SEVERANCE PLAY (Cory's read, 11 Aug — correct; refines the
+  Delaney-machine model for the PID strand): the 9C's design re the PID = (1) ADMIT the
+  disclosure completely (¶15 — denial impossible post-ESU determination; SAFE in this forum
+  because the 9A pleads the PID as stressor-event, not reprisal — forum containment: the WC
+  appeal never asks the reprisal question); (2) SEVER the knowledge wire at the one dangerous
+  May-2024 junction — ¶16(a) Reese unaware of PID at the retraction (kills the 48-hour
+  adjacency inference); (3) CROP the frame — the 9C says nothing about what happened TO the
+  PID (routing, ten months, closed uninvestigated 24 Dec 2024 during his incapacity,
+  operational response "does not exist" per CE letter). ⚠ DISCIPLINE: do NOT fight
+  Reese-unaware — our own verified record supports it (Harrison→three HR officers, not
+  Taylor/Reese; McGinley escalated) — and it defeats an argument we never make: the
+  retraction is manner-unreasonable REGARDLESS of knowledge (direction to retract a written
+  concern + email removed from server (their words) + no process + same week as their
+  rating-of-11). Chronology, manner, system — no motive. THE ACCIDENTAL GIFT: severance
+  covers May 2024 ONLY; the 2025-26 knowledge chain is theirs end-to-end in writing
+  (Griffin, Tribunal Matters cc'd, refused non-reprisal clause) — and ¶15 permanently ADMITS
+  the protected act for the held track: to defuse the PID where it's harmless they banked it
+  where it isn't. Full model: Delaney machine (fatigue course) + containment-and-severance
+  (PID strand); both answered by keystone + chronology + the drawer.
