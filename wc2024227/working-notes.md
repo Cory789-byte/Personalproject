@@ -4815,3 +4815,26 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   regardless; short hold of lodgement costs nothing; the 24 Aug cl 10.3.6 deemed-refusal
   clock (E2 request) runs independently of anything agreed on this call.
 - Call prep sheet: drafts/CALL_PREP_PETERING_430PM_11AUG.md
+- ATTACHMENT SET AS EMILY HOLDS IT (all four read from source, 11 Aug): (A1) Stage 1 notice
+  4pp — 2.1-2.6 scope; status-quo-incl-pay claim; s 36 hierarchy pre-rebuttal; part 5 conflict
+  question; "I have a phrase. I do not have a process." (A2) Taylor 4 Aug — ADMITS valid
+  lodgement + "the 24-hour timeframe... will not be achieved" + "I am required to process
+  leave on your behalf" with same-day payroll default = disputed subject matter changed
+  MID-dispute against cl 1.11.4, in writing. (A3) his response 4pp — §4 INSURER CONTRADICTION
+  (ART Life told "currently unable to accommodate a graduated return to work" while he's told
+  "under review"; RFMI Q9 premise pre-adopted); §1 no consent + Directive 12/24 special leave
+  ask; §5 neither-wages-nor-benefit; seven questions unanswered. (A4) Stage 2 referral 3pp —
+  1.1-1.6 record in their own words; "That date has been reached"; 2.1-2.6 agenda; §4 open
+  union note; instruments footer. (A5 cited-sections pack NOT in repo — assembled by Cory
+  separately; contents = the instruments footer list.)
+- ⭐ CONCERN ANCHORS IN THE TEXT (refined after reading what she read): (1) MOST LIKELY
+  TRIGGER = Stage 2 opening line — CE-letter reference + demand for "an officer independent
+  of the matters in dispute" (imports the governance/conflict theme into the industrial
+  track); (2) item 2.5 = the lane problem in text (systems case inside personal referral);
+  (3) Part 2 scope (six composite items vs 7-day conference) → expect narrowing to 2.1-2.2;
+  (4) §4 insurer issue may be flagged AS serious → own channel (privacy/complaint route);
+  (5) tone is NOT a concern — zero intemperate sentences across all four documents.
+- LIKELY UNION ADVICE SHAPE: keep the airtight procedural core (1.1-1.6 + 2.1-2.2); union
+  takes 2.5/systems; park independence demand + CE-thread out of industrial track; insurer
+  issue to its own channel. ALL acceptable — the fixed point (pay/leave from 26 Jun) sits
+  wholly inside what she'd keep.
