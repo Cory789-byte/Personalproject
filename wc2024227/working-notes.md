@@ -4857,3 +4857,28 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   argument, not his); alternative-duties card stays in the deck. Same forensic fingerprints
   as the 11 Aug letter (headed sections, graded hedges, element-form tests, agency
   preservation) — profile holds.
+- ⭐ PETERING TWO-EMAIL FORENSIC DISSECTION (comprehension audit, 11 Aug): FULL COMPREHENSION
+  MARKERS — (1) compressed the case to the opacity of the decision state ("exactly where your
+  employer's consideration... is up to" = his 2.6 in one sentence, from a phone call);
+  (2) diagnosed the mechanism unprompted ("employer should not be making medical decisions" =
+  the certificate-overridden defect / G3 asymmetry); (3) understands the game (specificity of
+  medical advice removes employer discretion = closes stall hatches); (4) ⭐⭐ independently
+  spotted the RFMI dual-use/discovery risk ("requests... beyond your current capacity...
+  identify exactly what is being sought before providing") = the file's own Q9 harvesting
+  analysis, reached from a phone call; (5) real-time correction of the redeployment misstep
+  (substantive role first — alternatives concede the role is in question); (6) audited MSH's
+  position and found no legitimate obstacle ("exactly what is preventing"); (7) evidence
+  filter (banked past workload/roster management as workability-of-adjustments proof);
+  (8) instrument-vs-conduct dissection (RFMI questions standard / process "not necessarily
+  handled well"); (9) stall taxonomy in the trigger (engage / meaningful updates / explain
+  continuing delay); (10) the fork pre-labelled (decide or manufacture remaining concerns).
+  THE SILENCES (deliberate scoping, not gaps — she demonstrably read the attachments):
+  never papers cl 1.11.4 pay/status-quo claim, the insurer contradiction, the PID, or any
+  individual's name — parks contested/explosive material rather than endorsing it in writing.
+  HER MODEL = the tractable RTW core (certified-fit member + opaque employer + specificity
+  forcing + provable failure modes + escalate). ⚠ DISCIPLINE: her model is deliberately
+  NARROWER than the matter — the accountability layer (pay remedy, process breaches, insurer
+  conduct, PID context, psychosocial systems) is SEQUENCED, not resolved, and is carried by
+  HIS file alone (Stage 2 draft 2.2/2.4 + the tracks). Her lane first is correct — a
+  returned, paid employee prosecutes the accountability layer from stronger ground — but her
+  silence on those items must never be read as their resolution.
