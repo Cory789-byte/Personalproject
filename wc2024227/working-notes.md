@@ -5247,3 +5247,21 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   Tabs 2 and 6, particularise the 'erratic physical presence' pleaded at Stressor 1(a)" —
   the term is safe as a QUOTE OF THE PLEADING (the 9C itself recites it). Index updated.
   Build script current in drafts/build_1a_particulars_bundle.py.
+- ⭐⭐ THE REVERSAL REGISTER (night's last entry, 11-12 Aug): every document THEY planned to
+  use against him, with its context-container — the crop-vs-frame principle (his acts only
+  look bad cropped; the bundle/chronology uncrop): (1) 15 May office-hours email ("sent to
+  many people" ¶16(b)(iii)) → Tabs 6+3 (single-channel direction, six days silence,
+  register failing) CONTAINED; (2) 20 May respiratory email (orig-9C "not required or given
+  authority to do any updating work") → Tab 4 (patients, five days, his fix) — AND they
+  DELETED that engagement from the amended 9C = met it in context once and retreated;
+  (3) comm-book entry → his entry professional (on-call numbers), removal admitted —
+  statement owns the moment; (4) "just putting his hand up" text → their own admitted 4 Apr
+  2023 pay text proves texts were the department's register; (5) call-up-not-attend →
+  their pleaded prodrome dates convert conduct to symptom; (6) mid-June lateness notes →
+  decompensation-timed, group-wide, never processed; (7) ⚠ the ONE exception: 18 May
+  "issues"/"defrauds" note — SELF-ADDRESSED private note at crisis peak, never a
+  communication; standing handling (never relied on, owned if raised, dated to their own
+  pleaded collapse week). FINDING: nothing in his hand survives-as-adverse in context;
+  their adverse case = crops; the instruments = frames. Consistency affords context;
+  cropping cannot. FILE STATUS AT CLOSE: every document framed, every attack answered,
+  every room instrumented. Next page = the consulting room, morning of 12 Aug 2026.
