@@ -5399,3 +5399,19 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   fingerprint check clean; linearized; "_v2" dropped from the served filename.
 - CS-ref count 0 and steering sweep 0 verified on both files. fix_banners.py extended
   (multi-fix per file: MASPER + HOURS on 1(a); COVID on the course bundle).
+
+## 11 Aug 2026 (night, cont.) — Tab 2 reframed: the 24-hour function leads the header
+- His call, adopted with refinement: Tab 2 header now 'Particular (ii) — The 24-hour
+  Switchboard function · after-hours on-call self-delegated · office hours never stated to
+  the team · May 2024 (PP24)'; explainer opens "The Switchboard operates 24 hours a day."
+  Rationale banked: the 24-hour function is the stakes-setter (an admitted fact, not
+  characterisation) — self-delegation and unstated hours only read as failures once the
+  reader knows the department never closes. Tab 2 now parallels Tab 3's construction
+  (instrument context → failure). Cover index row updated to match. Doctor copy mirrors it
+  ("arrangements changed" retained for that audience).
+- Leak fixed while in the file: the SERVICE bundle's Tab 3 explainer cited "Enclosure D to
+  the letter of instruction" — doctor-pack language that would have told Matheson the LOI's
+  structure. Service copy now cites "the Respondent's Form 24 response (18 February 2026)"
+  directly; the doctor copy keeps the enclosure reference (correct for its audience).
+- Both files rebuilt through the full chain (banner fixes + rasterization + metadata furnish);
+  CS-refs 0, steering sweep 0. Service file re-issued under the same name.

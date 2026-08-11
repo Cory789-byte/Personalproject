@@ -16,15 +16,15 @@ TABS = [
   'email ("Hello & Update"), while the duties requiring that access remained assigned to the appellant. '
   'The document behind this tab is the email of 18 July 2023.',
   [('S',105)]),
- ('TAB 2','Particular (ii) — On-call self-delegated · office hours never stated to the team · May 2024 (PP24)',
-  'In about May 2024 (pay period 13–26 May 2024), after-hours on-call manager arrangements '
+ ('TAB 2','Particular (ii) — The 24-hour Switchboard function · after-hours on-call self-delegated · office hours never stated to the team · May 2024 (PP24)',
+  'The Switchboard operates 24 hours a day. In about May 2024 (pay period 13–26 May 2024), after-hours on-call manager arrangements '
   'were changed and communicated by list, without consultation with switchboard operators. '
   'The documents behind this tab are: the after-hours on-call manager email (Ellen); the '
   'on-call self-delegation email (Ms Taylor); and the on-call and hours all-staff email of '
   '17 May 2024 (Ms Taylor).',
   [('S',123),('S',124),('S',125)]),
  ('TAB 3','Particular (iii) — The pleaded “erratic physical presence” · the MASPER register (urgent clinical call routing) · six days of errors while contact attempts went unanswered · 9–15 May 2024',
-  'The MASPER register is used by switchboard to route urgent clinical calls to the responsible medical registrars; the criticality of the Switchboard function is among the admitted facts (Enclosure D to the letter of instruction). Between 9 and 15 May 2024, following the direction of 9 May 2024 concerning business-hours '
+  'The MASPER register is used by switchboard to route urgent clinical calls to the responsible medical registrars; the criticality of the Switchboard function to clinical handover is admitted on the Respondent’s Form 24 response (18 February 2026). Between 9 and 15 May 2024, following the direction of 9 May 2024 concerning business-hours '
   'contact, errors accumulated in the MASPER register while switchboard remained responsible '
   'for call routing. On 15 May 2024 a pathologist was unable to hand over critical results for '
   'approximately two hours; the registrar’s return call criticised switchboard’s '
@@ -93,7 +93,7 @@ y=wrap(c,'This bundle collects the documents supporting the particulars of Stres
 y-=12
 c.setFont('Helvetica-Bold',10.5); c.drawString(57,y,'INDEX'); y-=16
 rows=[('Tab 1','(i) “Hello & Update” · database access removed','18 Jul 2023'),
-      ('Tab 2','(ii) On-call self-delegated · hours never stated','May 2024 (PP24)'),
+      ('Tab 2','(ii) 24-hour function · on-call self-delegated · hours never stated','May 2024 (PP24)'),
       ('Tab 3','(iii) “Erratic physical presence” · MASPER urgent-call routing · six days','9–15 May 2024'),
       ('Tab 4','(iv)–(v) “we can not help patients” · the 20 May exchange','22 Feb · 15–20 May 2024'),
       ('Tab 5','(vi) “more than two weeks without response”','8 Apr – 8 May 2024'),

@@ -33,8 +33,8 @@ BUNDLES = [
     'email ("Hello & Update"), while the duties requiring that access remained assigned to '
     'the appellant. The document behind this tab is the email of 18 July 2023.',
     [('S',105)]),
-   ('TAB 2','On-call arrangements changed · office hours not stated to the team · May 2024',
-    'In about May 2024 (pay period 13–26 May 2024), after-hours on-call manager arrangements '
+   ('TAB 2','The 24-hour Switchboard function · after-hours on-call arrangements changed · office hours not stated to the team · May 2024',
+    'The Switchboard operates 24 hours a day. In about May 2024 (pay period 13–26 May 2024), after-hours on-call manager arrangements '
     'were changed and communicated by list, without consultation with switchboard operators. '
     'The documents behind this tab are: the after-hours on-call manager email (Ellen); the '
     'on-call self-delegation email (Ms Taylor); and the on-call and hours all-staff email of '
