@@ -52,6 +52,7 @@ block('E24',  [('S',101)],  'Enclosure G · certificate of capacity 3 Jul 2026 (
 block('E25',  rng(102,103), '2 Jul 2026 · MSH email · exclusion context')
 block('E26',  [('S',104)],  '2026 · Mind and Memory clinic correspondence')
 block('E11',  rng(68,71),   '9-15 May 2024 · CS-1 · MASPER call-handling course')
+block('RESP', [('X','resp_1.pdf'),('X','resp_2.pdf'),('X','resp_3.pdf')], '15-20 May 2024 · Respiratory Nurse Educators email chain (Respondent\u2019s disclosure)')
 block('E12',  rng(72,74),   'Jun 2023 · communication book / page-removal strand')
 block('BK23', [('S',130)],  '6 Jun 2023 · communication book page')
 block('BK24', [('S',131)],  '21 May 2024 · communication book page')
@@ -103,7 +104,7 @@ QS = [
   [('Enclosure H · your report of 13 Feb 2025','E23'),('Enclosure E · GP records (Ashmore)','E21')]),
  ('Q6.9 Mechanism',
   'From a clinical perspective, please explain whether, and if so how, conditions of the kind described in the assumed facts — including sustained demand, the degree of control or autonomy, the adequacy of support, and fatigue arising from the rostering — can contribute to a condition of the kind you have diagnosed.',
-  [('Enclosure A · signed statement — the assumed facts (see note page)','ENCLA'),('Enclosure B · chronology','E02'),('Enclosure D · admitted facts extract','E05'),('Employer FRMS risk-matrix email · rating 11 · 10 May 2024','E38'),('CE letter K-LM26/729 · no FRMS assessment in period','E09'),('FRMS guideline extract','E10'),('CS-1 MASPER course · 9-15 May 2024','E11')]),
+  [('Enclosure A · signed statement — the assumed facts (see note page)','ENCLA'),('Enclosure B · chronology','E02'),('Enclosure D · admitted facts extract','E05'),('Employer FRMS risk-matrix email · rating 11 · 10 May 2024','E38'),('CE letter K-LM26/729 · no FRMS assessment in period','E09'),('FRMS guideline extract','E10'),('CS-1 MASPER course · 9-15 May 2024','E11'),('Respiratory Nurse Educators chain · 15-20 May 2024 (Respondent\u2019s disclosure)','RESP')]),
  ('Q6.10 Prognosis and capacity',
   'Please state your prognosis. As to capacity, please express your opinion on your own clinical judgment. In particular, please distinguish between (a) my capacity to perform the substantive role with reasonable adjustments, and (b) any current incapacity; and if there is any current incapacity, please state your opinion as to its cause — including whether it is attributable to the condition itself, to the consequences of my exclusion from the workplace since 3 July 2026, or to other factors. My certificate of capacity dated 3 July 2026 (Enclosure G) certifies me fit for my substantive role with adjustments; I provide it for your review and ask only that your opinion be your own. (The detailed assessment of adjustments is the subject of the separate Metro South report.)',
   [('Enclosure G · certificate of capacity 3 Jul 2026','E24'),('Enclosure H · your report of 13 Feb 2025','E23'),('MSH email 2 Jul 2026 · exclusion context','E25'),('Clinic correspondence 2026','E26')]),
@@ -224,6 +225,8 @@ def strip_retitle(fn,label):
         cc.setFillColor(white); cc.setFont('Helvetica-Bold',9)
         cc.drawString(10,828,label)
     make_stamp(fn,draw)
+for i in (1,2,3):
+    strip_retitle(f'st_resp{i}.pdf', f'Respiratory Nurse Educators email chain · 15-20 May 2024 · Respondent\u2019s disclosure · p.{i} of 3')
 strip_retitle('st_f1.pdf','Enclosure F · Hawes Work Capacity Certificate · first attendance 1 Jul 2024 · signed 8 Sep 2024 · p.1 of 2')
 strip_retitle('st_f2.pdf','Enclosure F · Hawes Work Capacity Certificate · first attendance 1 Jul 2024 · signed 8 Sep 2024 · p.2 of 2')
 def banner_fix(src_page, keys, label, fn):
@@ -290,6 +293,8 @@ for k in range(4): pdf.pages[fp('HRS')-1+k].add_overlay(stf.pages[0])
 f1=pikepdf.open('st_f1.pdf'); f2=pikepdf.open('st_f2.pdf')
 pdf.pages[fp('HAWES')-1].add_overlay(f1.pages[0])
 pdf.pages[fp('HAWES')].add_overlay(f2.pages[0])
+for i in (1,2,3):
+    st=pikepdf.open(f'st_resp{i}.pdf'); pdf.pages[fp('RESP')-1+(i-1)].add_overlay(st.pages[0])
 def add_link(page,rect,target):
     annot=Dictionary(Type=Name.Annot,Subtype=Name.Link,
         Rect=Array(list(rect)),Border=Array([0,0,0]),
@@ -323,7 +328,7 @@ with pdf.open_outline() as ol:
     sec('E. Fatigue and rostering documents','E07',['E07','E38','E08','E09','E10','E30','E31','E32','E33','R1MAY'])
     sec('F. Rosters','RDRAFT',['RDRAFT','RPP','RATT4','RPHOT'])
     sec('G. Enclosures E–H — medical and baseline','E19',['E19','E39','E21','HAWES','E23','E24','E25','E26'])
-    sec('H. Governance · May 2024 · hours','E11',['E11','E12','BK23','BK24','E13','E14','E15','E16','E17','E27','E35','E36','E37','HRS'])
+    sec('H. Governance · May 2024 · hours','E11',['E11','RESP','E12','BK23','BK24','E13','E14','E15','E16','E17','E27','E35','E36','E37','HRS'])
     sec('I. Pay and leave records','E20',['E20','E28','E34','E41','E42'])
     sec('J. Review Decision 69983 — completeness (last)','E43',['E43'])
     jl=oi('K. Jump list (alphabetical)',key='E05')

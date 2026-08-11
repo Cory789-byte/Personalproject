@@ -5194,3 +5194,14 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   for HIS post-4:30pm reply — the original 9C's denial that he "advised Ms Taylor that he
   was exhausted" implies a WRITTEN exhausted line exists in that chain = dated symptom
   report ~4 weeks pre-onset (statement + clinical value).
+- ✅ FINAL PACK v2 DELIVERED (REPORT_B_DOCTOR_PACK_FINAL_SEND2.pdf, 159pp, 22.3MiB):
+  RESPIRATORY CHAIN ADDED per Cory — FRMS disclosure pp.40-42 extracted, bannered
+  ("Respondent's disclosure · p.n of 3"), placed in section H beside MASPER (E11 already in
+  pack), wired into Q6.9 ("Respiratory Nurse Educators chain · 15-20 May 2024"). Inherited
+  junk annotations from the source disclosure pages stripped (29 broken refs removed).
+  FINAL QA: 211 links 0 dead · 125 bookmarks · renders verified (2:05pm email + 4:30pm
+  reply legible under banner). Build script updated in repo
+  (drafts/build_reportb_pack_LOI_aligned.py — regenerates this exact pack). The clinical
+  logic of the add: the chain gives Q6.9's mechanism opinion a documented governance-failure
+  instance (misdirected clinical calls, 5 days, his corrective work, the response) from the
+  Respondent's own disclosure — steering-free, discovery-safe.
