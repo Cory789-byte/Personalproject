@@ -5205,3 +5205,22 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   logic of the add: the chain gives Q6.9's mechanism opinion a documented governance-failure
   instance (misdirected clinical calls, 5 days, his corrective work, the response) from the
   Respondent's own disclosure — steering-free, discovery-safe.
+- ✅ STRESSOR 1(a) PARTICULARS BUNDLE BUILT + DELIVERED (STRESSOR_1A_PARTICULARS_BUNDLE_
+  11AUG.pdf, 30pp/6 tabs/5.5MB; script drafts/build_1a_particulars_bundle.py): cover+index →
+  TAB 1 (i) database access 18 Jul 2023 → TAB 2 (ii) on-call set May 2024 → TAB 3 (iii)
+  MASPER CS-1 9-15 May → TAB 4 (iv)+(v) directory modification + the 20 May exchange (resp
+  chain, junk annots stripped) → TAB 5 (vi) latency (Apr chain + 1 May block) → TAB 6 (vii)
+  hours sequence. Each divider = the particular "as it would be given" (pleading-grade,
+  quotes+dates only). Metadata scrubbed. ⭐ DISCLOSURE DECISION (Cory: "both have ongoing
+  obligations of disclosure i will give her them"): principle AGREED — continuing duty of
+  disclosure is real and runs both ways; MECHANISM refined: the DUTY covers the DOCUMENTS,
+  not the arrangement — satisfy it by UPDATING THE LIST OF DOCUMENTS (LIST_OF_DOCUMENTS_
+  WC2024227.pdf already built, service pending per plan) with the 1(a) items in his control
+  (Ellen 18 Jul 2023; on-call set; hours pages; phone photos/rosters not already listed) and
+  producing on request. Tabs 3-4 content is HER OWN disclosure (already has it). Serving the
+  tabbed bundle itself is optional — it reveals the particulars architecture early; the
+  standing sequence (statement at evidence exchange; schedule on demand) already delivers
+  it at the right time. STRATEGIC UPSIDE of prompt list-update: model-litigant posture,
+  costs protection, and makes ¶11 untenable before ever answered. Bundle audiences: HIS
+  statement-support + counsel brief; serve-safe if he chooses to give it — nothing in it
+  is characterisation, every explainer is dates/documents/quotes.
