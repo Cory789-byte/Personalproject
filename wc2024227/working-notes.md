@@ -4937,3 +4937,16 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   admissions p.34 + March roster p.55 + CE letter p.62. Boundary check PASSED: no Report A
   material, no deed, no rule-10 items. Verdict: 9/10 with one structural error; fixes are
   small and tonight-sized.
+- ⛔ AUDIENCE RULE BANKED (11 Aug): the Report B questions+evidence pack NEVER goes to
+  Matheson — it is trial architecture made visible (theory cover, question steering, QL
+  contingencies, section skeleton = closing structure, jump list = proof map). Work product;
+  arrangement is the asset. She receives: Report B when served (with its sources list);
+  instruction materials only if properly requested (why the four pack fixes matter —
+  producible without embarrassment). ⭐ THE MATHESON SETTLEMENT BUNDLE (rides with Calderbank
+  #3, post-report, ~30pp, admissions-forward, arranged so the accepting judgment visibly
+  writes itself): (1) Calderbank cover (W5 damages para + s 558(3)); (2) Report B;
+  (3) one-page chronology; (4) KEY-ADMISSIONS SCHEDULE (their own pleading: 7-hr break human
+  error, page removal, PID ¶15, wrongful declines, prodrome); (5) March 2024 roster page;
+  (6) CE letter FRMS-gap extract; (7) the 10 May 2024 rating-of-11 page (her own
+  disclosure). Every enclosure except the report and roster is THEIRS. Principle: the two
+  instruments (doctor's pack / Matheson bundle) never swap audiences.
