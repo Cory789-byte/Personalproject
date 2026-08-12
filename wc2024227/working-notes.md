@@ -5545,3 +5545,38 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   `drafts/EMAIL_LBH_SUPPLEMENTARY_hours_and_coding_HOLD_UNTIL_DEADLINE.txt` — send Thursday
   13 Aug only if the 24-hour AVAC deadline lapses, before the Friday 14 Aug characterisation
   date. Puts the delegate record, the coding and enquiry 4438861 as questions; attaches nothing.
+
+## 12 Aug 2026 (later) — second upload: third movement form, the 2024 Injury Management precedent, and the as-sent record
+- **NEW D0 · `2026-02-27_Movement_56hrs_1Mar-15Mar_HughesApproved.pdf`**: Change to Working
+  Conditions (Temporary), 01.03.2026–15.03.2026, **Part Time, 56.00 hrs/ftn**; Cory 26.02.2026,
+  Ianna 27.02.2026, **Delegate SCOTT HUGHES 27.02.2026**. Comment: *"Cory Shepherd to extend
+  reduce hours contract - 1.03.26 - 15.03.26 possible extension."*
+  ⭐⭐ Two consequences: (1) **F1 becomes a PATTERN, not an instance** — Hughes personally approved
+  reduced part-time hours THREE times (27 Feb, 17 Apr, 9 Jun 2026) before describing the
+  employment as "Permanent Full-time (76 hours per fortnight)" on 31 Jul 2026; a three-time
+  pattern forecloses "administrative slip". (2) the word **"extend"** proves a reduced-hours
+  contract existed BEFORE 1 March 2026 — the arrangement is older than the forms in hand.
+- **NEW D6 · `2024-09-02_Floyd_InjuryManagement_WorkCover_certificate_reminder.pdf`**: Alison
+  Floyd, Consultant – Injury Management, HR, LBHS, 2 Sep 2024 — reminding him to certify "in
+  support of your claim S23LW142013", "critically important to continue to provide consistent
+  certification", "we are keen to support you during your claim application process".
+  ⭐ PRECEDENT CONTRAST: in 2024, with a live WC claim, Injury Management corresponded supportively
+  and asked HIM to certify. In 2026, with NO accepted claim, the same function codes his absence
+  as sick leave / income protection and pays nothing.
+- **NEW D7 · `2025-10-22_Medical_certificate_OurMedical_22-24Oct2025.pdf`** (+ the 27 Oct 2025
+  "Medical myhr" self-forward .eml): Our Medical Gold Coast certificate, unfit 22–24 Oct 2025,
+  submitted by him through myHR. ⭐ Shows the ordinary process working: when unfit HE obtains and
+  submits a certificate. The 2026 entries were made BY the employer, on his behalf, with no
+  certificate of unfitness in existence. ⚠ Also a 34-occasions-era absence document — deploy for
+  the CONTRAST only, never volunteered into any attendance discussion.
+- **AS-SENT RECORD FILED**: `documents/sent-2026-08-12/2026-08-12_1820_Cory_to_LBH_RFMI_reply_AS_SENT.pdf`
+  (18:20 AEST; To LBH Injury Management + LBH_HR; Cc LBH.HRTeam1, Mind and Memory, Petering).
+  ⭐ Confirms the as-sent deadline is **Friday 14 August 2026** and that the consent-limitation
+  clause was dropped in the as-sent version (consent still scoped to "confirming them" = the two
+  requirements; ⛔ do not widen if asked).
+- One of the five uploads (`Movement_Details_2`) was byte-identical (md5 c2f8f95b…) to the
+  already-filed 16 Mar–26 Apr form — not duplicated in the repo.
+- ⚠ RETRIEVAL GAPS added to the reference file: the pre-1 Mar 2026 movement form; the 27 Apr–24
+  May 2026 gap (no form — verify against payslips before pleading the pattern as unbroken);
+  payslips from 13 Jul onward for the quantum schedule; a written status update on payroll
+  enquiry 4438861.

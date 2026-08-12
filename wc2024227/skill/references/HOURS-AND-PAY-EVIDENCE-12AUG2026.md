@@ -8,6 +8,16 @@
 
 ## 1. THE DOCUMENTS (verbatim particulars)
 
+**D0 · `2026-02-27_Movement_56hrs_1Mar-15Mar_HughesApproved.pdf`** ⭐ (added later 12 Aug)
+Movement Task: "Change to Working Conditions (Temporary)". Effective **01.03.2026 – 15.03.2026**.
+Reason: "Change in Hours – Other". **Employment Basis: Part Time. Number Of Fortnightly Hours:
+56.00.** Comments: *"Cory Shepherd to extend reduce hours contract - 1.03.26 - 15.03.26 possible
+extension."*
+Signatures: **Cory Shepherd 26.02.2026 · Endorser Paul Ianna 27.02.2026 · Delegate SCOTT HUGHES
+27.02.2026.**
+⭐⭐ The word **"extend"** proves a reduced-hours contract already existed BEFORE 1 March 2026.
+The pattern is older than the forms in hand (see §7 retrieval gaps).
+
 **D1 · `2026-04-17_Movement_56hrs_16Mar-26Apr_HughesApproved.pdf`**
 Movement Task: "Change to Working Conditions (Temporary)". Effective **16.03.2026 – 26.04.2026**.
 Reason: "Change in Hours – Other". Position 32002276 AO Switchboard, LOGH CORP Switchboard
@@ -51,14 +61,48 @@ Total Earnings YTD 5,529.89.
 ⭐ The absence is coded **unpaid SICK leave** — a medical characterisation — for **76.00 hours**,
 i.e. at the full-time value, for an employee holding a *fit-with-restrictions* certificate.
 
+**D6 · `2024-09-02_Floyd_InjuryManagement_WorkCover_certificate_reminder.pdf`** (added later 12 Aug)
+Alison Floyd, **Consultant – Injury Management | Human Resources, LBHS**, to Cory,
+02.09.2024 23:46. Reminds him to submit an updated medical certificate *"in support of your claim
+S23LW142013,"* notes it is *"critically important to continue to provide consistent certification
+to both your employer and to WorkCover QLD,"* and states *"We are keen to support you during your
+claim application process."*
+⭐ The PRECEDENT CONTRAST: in 2024, with a live WorkCover claim on foot, the Injury Management
+function corresponded supportively and asked for certification. In 2026, with **no accepted claim
+in existence**, the same function administers the file, codes the absence to sick leave and
+income protection, and pays nothing.
+
+**D7 · `2025-10-22_Medical_certificate_OurMedical_22-24Oct2025.pdf`** + `2025-10-27_Medical_myHR_submission_email.eml`
+Medical certificate, Our Medical Gold Coast (Oxenford), Dr Alireza Shivace Garryz: *"Mr Cory
+Shepherd has a medical condition and will be unfit for work from 22/10/2025 to 24/10/2025
+inclusive."* Self-forwarded 27.10.2025 12:49 to his QH address, subject "Medical myhr".
+⭐ Shows the ORDINARY PROCESS working correctly: when unfit, he obtains a certificate and submits
+it through myHR himself. The 2026 entries ("Income Protection – No Pay", "NP Sick Leave") were
+made **by the employer, on his behalf, with no certificate of unfitness in existence** — the
+contrast is between his documented practice and their unilateral coding.
+⚠ CAUTION: this is also an absence document from the period covered by the 8 Sep 2025 attendance
+letter (34 occasions). Deploy for the CONTRAST only; never volunteer it into any attendance
+discussion.
+
+**D8 · `sent-2026-08-12/2026-08-12_1820_Cory_to_LBH_RFMI_reply_AS_SENT.pdf`**
+The as-sent service record of the 12 August 2026 reply (sent 18:20 AEST; To: LBH Injury
+Management, LBH_HR; Cc: LBH.HRTeam1, Mind and Memory Service, Emily Petering). Filed per the
+3-Aug sent-record practice. ⭐ Confirms the deadline as sent was **Friday 14 August 2026** (not
+19 August as drafted) and that the consent sentence's limitation clause was omitted in the
+as-sent version — the consent as sent is still scoped to "confirming them", i.e. the two
+requirements. ⛔ Do not widen it if asked.
+
 ## 2. WHAT THEY PROVE (in order of force)
 
-**F1 — The Hughes contradiction.** Hughes approved 56 hrs/fortnight (17 Apr) and 40
-hrs/fortnight (9 Jun) as the authorised delegate, on forms recording **Employment Basis: Part
-Time**. On **31 July 2026** he signed the RFMI letters (to Cory and to Dr Ma) opening: *"on a
-Permanent Full-time bases (76 hours per fortnight)."* The capacity question was therefore framed
-against a baseline the same signatory had personally replaced seven weeks earlier. This answers
-the psychiatrist's question (b) **out of the employer's own delegate's signature**.
+**F1 — The Hughes contradiction, now a PATTERN not an instance.** Hughes approved the reduced
+part-time hours as authorised delegate **three times in under four months**: 56 hrs/ftn on
+**27 Feb 2026**, 56 hrs/ftn on **17 Apr 2026**, and 40 hrs/ftn on **9 Jun 2026** — each on a form
+recording **Employment Basis: Part Time**. On **31 July 2026** he signed the RFMI letters (to Cory
+and to Dr Ma) opening: *"on a Permanent Full-time bases (76 hours per fortnight)."* The capacity
+question was therefore framed against a baseline the same signatory had personally replaced,
+three times, the last of them seven weeks earlier. This answers the psychiatrist's question (b)
+**out of the employer's own delegate's signature** — and a three-time pattern forecloses any
+suggestion of an isolated administrative slip.
 
 **F2 — The classification is documented, not inferred.** D3 shows the employer coding the absence
 to "Income Protection – No Pay" at the manager's request; D5 shows it coded as "NP Sick Leave".
@@ -154,6 +198,17 @@ whether to raise the coding as a question rather than an allegation.
 
 **P5 · The WC appeal (WC/2024/227).** ⛔ NONE. These are 2026 employment-track documents; the
 causation section stops at 24 Oct 2024. They do not go to Matheson, the doctor, or any filing.
+
+## 7. ⚠ RETRIEVAL GAPS (obtain before any filing relies on the full pattern)
+1. **The pre-1 March 2026 movement form.** D0's comment says *"to extend reduce hours contract"* —
+   an earlier reduced-hours instrument exists and is not in hand. Obtain from myHR (Movement
+   Details / employment history) or by request to HR.
+2. **The 27 April – 24 May 2026 period.** No movement form for the gap between D1's expiry
+   (26 Apr) and D2's commencement (25 May). Either a further form exists, or the substantive
+   hours resumed for four weeks. Verify against payslips before pleading the pattern as unbroken.
+3. **Payslips 13 Jul 2026 onward** (the full unpaid run), to complete the quantum schedule.
+4. **The outcome of payroll enquiry 4438861** — request a status update in writing so the stall
+   is documented as at the filing date.
 
 ## 6. PROHIBITIONS
 1. ⛔ Never "employer-initiated" for the reduced hours — say "approved by the delegate".
