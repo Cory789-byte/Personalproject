@@ -5506,3 +5506,42 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   the two questions; John acknowledgment added.
 - NEXT: the short letter to MSH (Harrison, cc lbh_hr) stating the specialist's two requirements —
   send before or with the Emily email so "I will advise it in writing" is made good same-day.
+
+## 12 Aug 2026 (evening) — FIVE PAYROLL/MOVEMENT DOCUMENTS FILED — the Hughes contradiction
+- Five originals uploaded and filed in `documents/`: the two Movement (Change to Working
+  Conditions) forms, the 20 Jul myHR "Income Protection - No Pay" notification, the 22 Jul
+  payroll enquiry acknowledgement, and the 12 Aug payslip. Full source-verified analysis at
+  `skill/references/HOURS-AND-PAY-EVIDENCE-12AUG2026.md`.
+- ⭐⭐⭐ **THE HUGHES CONTRADICTION.** Scott Hughes, as authorised delegate, approved 56 hrs/ftn
+  (17 Apr 2026) and 40 hrs/ftn (9 Jun 2026) on forms recording **Employment Basis: Part Time** —
+  then signed the 31 Jul 2026 RFMI describing the employment as "Permanent Full-time bases
+  (76 hours per fortnight)". The psychiatrist's question (b) is answered by the RFMI signatory's
+  own signature, seven weeks earlier.
+- ⭐⭐ **THE CODING IS DOCUMENTED, NOT INFERRED.** 20 Jul myHR: leave "Income Protection - No Pay"
+  **requested by Chloe Donovan-Taylor (371009)** on Cory's behalf. 12 Aug payslip: fortnight
+  20 Jul–2 Aug coded **"NP Sick Leave" 76.00 hours**, gross $0.00, net $0.00. Two
+  medical/insurance characterisations applied unilaterally to an employee certified fit with
+  restrictions. This is the documentary proof of the insurance-classification thesis.
+- **Payroll enquiry 4438861** lodged 22 Jul 2026, status "Pending Investigation" — internal
+  channel used and stalled; answers "did he raise it internally".
+- ⚠ **CORRECTION TO EARLIER FRAMING — do not repeat.** The 40-hr movement's Comments field reads
+  *"Cory Shepherd request to reduce contracted hours…"*. The reduction was **not
+  employer-initiated**; it was his request, formalised by Taylor in MyHR and **approved by the
+  delegate**. The 12 Aug email's "formalised by the Health Service itself: created in MyHR by my
+  manager" is accurate and stands, but ⛔ never say "employer-initiated" going forward. Correct
+  framing: *initiation is beside the point — the arrangement is the employer's instrument because
+  its delegate approved it.*
+- ⚠ **MSH's best answer to question (a) now identified in advance:** the 40-hr movement expressly
+  said *"Temp request until 28.06.26 until further review and documentation to be provided to
+  support request."* Answers held: the exclusion began **26 June, two days before the expiry**;
+  the documentation WAS provided (ECC 3 Jul); a review of a reduction request is not a
+  fitness-for-duty inquiry against the substantive role; and nothing was paid on either footing.
+- ⭐ **THE CLOSED FORK (new, and it is the wage claim's spine):** either the reduced arrangement
+  continued (ECC: "continuation… worked and tolerated without deterioration") ⇒ 40 hrs/ftn
+  payable from 29 Jun and nothing paid; or it expired 28 Jun and he reverted to the substantive
+  76 hrs (Hughes's own RFMI premise) ⇒ 76 hrs/ftn payable and nothing paid, and a full-time
+  employee certified fit was sent home on 26 Jun without instrument. No third branch.
+- Supplementary email drafted and **HELD** at
+  `drafts/EMAIL_LBH_SUPPLEMENTARY_hours_and_coding_HOLD_UNTIL_DEADLINE.txt` — send Thursday
+  13 Aug only if the 24-hour AVAC deadline lapses, before the Friday 14 Aug characterisation
+  date. Puts the delegate record, the coding and enquiry 4438861 as questions; attaches nothing.
