@@ -5459,3 +5459,33 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
     through hours of "every Tuesday and second Monday 8:00–16:00", after-hours changes "will
     have to wait", and the Contact & Number Changes book removed from the room — the exact
     mechanism that later produced the 22 Feb directory modification standing uncorrected.
+
+## 12 Aug 2026 — EMR Approval email banked; psychiatrist's precondition; Zappia reply adjusted
+- **NEW DOCUMENT (uploaded, to be filed): "EMR Approval" — Taylor to Cory, Mon 1 June 2026,
+  9:24am** (cc his hotmail). She created the EMR in MyHR for the reduced-hours arrangement,
+  following her text of Wed 27 May, due date 2.06.26, "please approve as soon as possible…
+  to avoid any payroll discrepancies." ⭐ This is the documentary proof the reduced pattern was
+  a MANAGEMENT-INITIATED, FORMALLY SIGNED arrangement — her instrument, his approval, in the
+  employer's own HR system, ~4 weeks before the exclusion. Feeds: (a) the G3-asymmetry — the
+  employer demanded medical justification (RFMI, nine questions) for an arrangement IT created
+  and had him sign; (b) the fund letter (earnings pattern = agreed documented arrangement, not
+  informal absence); (c) the employment track (what changed in June was provision of work, not
+  capacity). FILE the PDF into documents/.
+- **PSYCHIATRIST'S POSITION (12 Aug appointment):** Dr K will not produce the report responding
+  to the employer's medical inquiry until the employer identifies WHY the information was
+  requested — given the hours arrangement had been agreed and formalised by management, the
+  inquiry needs an identified clinical basis/trigger. His clinical reasoning: a capacity report
+  requires a referral question with a basis. ⭐ This converts the outstanding basis question to
+  MSH into a CLINICAL PREREQUISITE — the delay now sits with MSH, on a treating specialist's
+  stated requirement, not with Cory. Aligns exactly with the G3-asymmetry analysis.
+  ⚠ BOUNDARY TO CONFIRM WITH DR K: the precondition should apply to the RFMI/capacity report
+  (the employer's ask) — NOT to Report B (causation, HIS OWN letter of instruction). If it
+  extends to Report B, the union hold, the engagement clock and the settlement sequence all
+  slip. Recommend he confirm with the practice: the causation report proceeds on his own
+  instruction independent of the employer's inquiry.
+- **Zappia reply adjusted (v2):** item 2 adds the agreed-arrangement paragraph (EMR 1 June 2026,
+  his approval, worked without deterioration per July capacity documentation); item 4 adds "what
+  has changed since is not my certified capacity but the provision of work." The psychiatrist's
+  precondition is deliberately KEPT OUT of the fund letter — it would import the employment
+  conflict into the fund file and could stall the item 4 ongoing-entitlement assessment; the GP
+  can certify for the fund if needed.

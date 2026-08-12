@@ -39,6 +39,13 @@ On that basis, as I understand it, the overpayment for the return-to-work period
 between the full benefit paid and the partial benefit that was payable — not the whole of the
 benefit. Please confirm that is the basis being applied.
 
+For the fund's records: my reduced-hours pattern over that period was a formal arrangement
+initiated by my employer and approved through the employer's own HR system. Most recently, my
+manager created the arrangement in MyHR on 1 June 2026 (an "EMR" for the roster period, due
+2 June 2026) and I approved it as requested. My earnings over the period therefore reflect an
+agreed, documented working arrangement, which my July 2026 capacity documentation records as
+worked and tolerated without deterioration.
+
 When the calculation is complete, please provide the workings: the Pre-Disability Income figure
 used and its source; the Return to Employment Income figures pay period by pay period and the
 payslips they are drawn from; the resulting partial benefit per period; and the overpayment
@@ -52,7 +59,10 @@ made to date — I will await that from your administration team.
 the "ongoing benefits" limb of your review:
 
 - I have not worked any shift since mid-June 2026 (I will confirm the exact last day worked from
-  my records; your information of 13 June 2026 is approximately right).
+  my records; your information of 13 June 2026 is approximately right). The reduced-hours
+  arrangement then current was one my employer had formalised in its own HR system on 1 June
+  2026, with my approval; what has changed since is not my certified capacity but the provision
+  of work.
 - I have received no wages from my employer since 13 July 2026.
 - My accrued paid leave is not available to me; the suggestion of accessing paid leave in the
   interim is therefore not an option in my circumstances.
