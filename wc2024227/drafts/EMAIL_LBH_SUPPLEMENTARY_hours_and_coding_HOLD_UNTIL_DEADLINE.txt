@@ -1,51 +1,70 @@
-HOLD — send only after the 24-hour AVAC deadline lapses (Thursday 13 August), as the follow-up
-to the email of 12 August 2026 6:20pm. Same thread. Same recipients.
-PURPOSE: put the delegate-approval record and the leave coding on the record as questions, not
-accusations, before the Friday 14 August characterisation date.
+HOLD — send Thursday 13 August 2026, after the 24-hour AVAC deadline lapses, and BEFORE the
+Friday 14 August characterisation date. Reply in the same thread. Same recipients as the 12 Aug
+email (Injury Management + LBH_HR to; HRTeam1, Mind and Memory, Petering cc).
+PURPOSE: (1) record the AVAC non-response without complaint; (2) answer question (b) out of their
+own delegate's signature and force the fork; (3) put the leave coding as a question; (4) record
+payroll enquiry 4438861; (5) request the records that close the retrieval gaps. Attach nothing.
 
 To: LBH_InjuryManagement@health.qld.gov.au; LBH_HR@health.qld.gov.au
 Cc: LBH.HRTeam1@health.qld.gov.au; info@mindandmemoryservice.com.au; emily.petering@together.org.au
-Subject: RE: ACTION REQUIRED | Request for Medical Information: Cory Shepherd (MSH-INJ5795) Supplementary — the approved working arrangement, the leave coding, and payroll enquiry 4438861
+Subject: RE: ACTION REQUIRED | Request for Medical Information: Cory Shepherd (MSH-INJ5795) Supplementary — the approved working arrangement, the coding of the absence, payroll enquiry 4438861, and a records request
 
 Dear Ms Harrison,
 
-Further to my email of 12 August 2026, I add three matters from the Health Service's own records
-which bear directly on the two questions at item 2 and on the pay position at item 3.
+Further to my email of 12 August 2026, I note the payroll correction I asked for has not been
+confirmed. I add four matters below, each drawn from the Health Service's own records, so that
+they are before you ahead of Friday.
 
 1. The approved working arrangement
 
-My working hours were varied by two "Change to Working Conditions (Temporary)" instruments:
-16 March to 26 April 2026 at 56 hours per fortnight, and 25 May to 28 June 2026 at 40 hours per
-fortnight. Each records my employment basis as part time. Each was endorsed and then approved by
-the authorised delegate, Mr Scott Hughes, on 17 April 2026 and 9 June 2026 respectively.
+My working hours were varied by successive "Change to Working Conditions (Temporary)"
+instruments. Three are in my possession: 1 to 15 March 2026 and 16 March to 26 April 2026, each
+at 56 hours per fortnight, and 25 May to 28 June 2026 at 40 hours per fortnight. Each records my
+employment basis as part time. Each was endorsed and then approved by the authorised delegate,
+Mr Scott Hughes, on 27 February, 17 April and 9 June 2026 respectively.
 
 The Request for Medical Information of 31 July 2026, signed by Mr Hughes, describes my employment
-as permanent full-time, 76 hours per fortnight. I raise the difference only because it is the
-very matter my psychiatrist has asked to have confirmed before he can report: which arrangement
-capacity is to be assessed against. The Health Service's own approval record appears to answer
-that question, and I would be grateful if it could be confirmed.
+as permanent full-time, 76 hours per fortnight. I raise this only because it is the precise
+matter my psychiatrist has asked to have confirmed before he can report, and the Health Service
+can resolve it from its own system. Could you please confirm which of the following is the Health
+Service's position:
 
-2. The coding of the absence
+(a) that the reduced-hours arrangement continued, as the Employee Capability Checklist of 3 July
+2026 records it ("continuation of existing arrangement... worked and tolerated without
+deterioration"), in which case please confirm the hours and why wages at those hours have not
+been paid since 13 July 2026; or
 
-I have received a myHR notification dated 20 July 2026 recording a leave request processed on my
-behalf, requested by my manager, coded "Income Protection - No Pay". My payslip of 12 August 2026
-records the fortnight of 20 July to 2 August 2026 as 76.00 hours of "NP Sick Leave", with gross
-pay of $0.00.
+(b) that the temporary arrangements ended on 28 June 2026 and my substantive hours of 76 per
+fortnight resumed, in which case please confirm that, and why wages at those hours have not been
+paid since 13 July 2026, and on what basis I was directed not to attend from 26 June 2026, two
+days before that date.
 
-I did not request either. I have held a certificate of fitness for my role with restrictions
-since 3 July 2026 and have remained available to work throughout. Could the Health Service please
-confirm on what basis my absence has been coded as sick leave and as income protection, and under
-whose authority those entries were made.
+2. The coding of my absence
+
+A myHR notification dated 20 July 2026 records a leave request processed on my behalf, requested
+by my manager, coded "Income Protection - No Pay". My payslip of 12 August 2026 records the
+fortnight of 20 July to 2 August 2026 as 76.00 hours of "NP Sick Leave", with gross pay of $0.00.
+
+I did not request either entry. No certificate of unfitness has been issued for that period; the
+only current certificate, dated 3 July 2026, certifies me fit for my role with restrictions.
+Could you please confirm on what basis my absence has been coded as sick leave and as income
+protection, and under whose authority those entries were made.
 
 3. Payroll enquiry 4438861
 
-A payroll enquiry was lodged in the Health Service's system on 22 July 2026, log number 4438861.
-Its status remains "Pending Investigation". I ask that it be resolved together with the AVAC
-requested in my previous email.
+An enquiry was lodged in the Health Service's payroll system on 22 July 2026, log number 4438861.
+Its status remains "Pending Investigation". I ask that it be resolved together with the payroll
+correction requested in my previous email.
 
-These matters are raised as questions of record, and I would welcome a straightforward answer to
-each. My previous email of 12 August 2026 is otherwise unchanged, including the dates by which I
-have asked for a response.
+4. Records request
+
+So that my own records are complete, please provide copies of: all Change to Working Conditions
+instruments recorded against my assignment from 1 January 2026 to date; and my leave records and
+any leave requests submitted on my behalf from 26 June 2026 to date.
+
+These are raised as questions of record and I would welcome a straightforward answer to each. My
+email of 12 August 2026 is otherwise unchanged, including the date by which I have asked for a
+response.
 
 Kind regards,
 
@@ -56,13 +75,33 @@ AO3 Switchboard Services, Logan Hospital
 ---
 
 ## NOTES (not for sending)
-- ⛔ Do NOT attach the movement forms or the payslip. They are the employer's own records; naming
-  them proves possession without surrendering the originals or inviting a document fight. The
-  practice and the union are in the Cc line and need only the facts.
-- The Hughes point is put as "the difference" and "would be grateful if it could be confirmed" —
-  never as an inconsistency, a contradiction, or an error. Confirming it costs them the baseline;
-  not confirming it costs them the report. Both are theirs to choose.
-- Item 2 asks "under whose authority" — the instrument question again, applied to payroll coding.
-  ⛔ No allegation of deliberateness anywhere.
-- Item 3 pre-empts "you never raised it through payroll".
-- ⛔ Nothing about the appeal, the fund, the deed, or the Regulator.
+- ⛔ ATTACH NOTHING. These are the employer's own records; naming them proves possession without
+  surrendering originals or inviting a document fight. Practice and union are in the Cc line and
+  need only the facts.
+- ⭐ THE FORK AT ITEM 1 IS THE CENTREPIECE. Do not ask "which arrangement" alone — that lets them
+  answer "76 hours" cleanly and move on. Every branch is tied to the pay consequence, so any
+  answer they give concedes wages were payable, and branch (b) additionally requires them to
+  explain the 26 June exclusion pre-dating the 28 June expiry. There is no third branch.
+- ⛔ Never "contradiction", "inconsistency", "error", or "false". The Hughes point is put as a
+  matter the Health Service "can resolve from its own system". Three approvals are stated as
+  dates and a name; the reader does the arithmetic.
+- ⛔ No allegation that the coding was deliberate. Item 2 asks basis and authority only — the
+  instrument question applied to payroll. (Rule: knowledge and chronology, never motive.)
+- Item 4 closes the retrieval gaps (the pre-March instrument; the 27 Apr–24 May period; the leave
+  entries) through the cheapest possible channel. Refusal or silence is itself evidence, and
+  preserves the IP Act route.
+- ⛔ Nothing about the appeal, the Regulator, the income-protection fund, the deed, or WorkCover.
+  "No certificate of unfitness has been issued" carries the point without any of them.
+- Deadline is NOT restated or extended — one clause referring back keeps Friday intact.
+
+## IF NOTHING COMES BY FRIDAY 14 AUGUST — the next email (short, one screen)
+Send Friday evening or Monday morning. Contents, in order:
+1. The dates: 12 August email, 13 August supplementary, no response to either.
+2. One sentence recording the position: "I therefore treat the Health Service's position as a
+   refusal to submit the payroll correction, to identify the basis of the inquiry, to confirm the
+   working arrangement, and to return me to the roster."
+3. One sentence on consequence, unspecified as before: steps available to have the wages and the
+   return to work determined externally.
+4. NO new argument, NO repetition of the hardship, NO adjectives. It is a record, not a letter.
+5. Same day: the two-line update to Petering — the framework's engagement opportunity has now
+   been given four times in four forms, and ask the union's position on next steps.
