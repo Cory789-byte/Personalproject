@@ -5489,3 +5489,20 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   precondition is deliberately KEPT OUT of the fund letter — it would import the employment
   conflict into the fund file and could stall the item 4 ongoing-entitlement assessment; the GP
   can certify for the fund if needed.
+
+## 12 Aug 2026 (cont.) — the 76-hours question added; Petering update v2
+- ⭐ VERIFIED against source: both RFMI letters of 31 July 2026 (to Cory and to Dr Ma) open with
+  "Permanent Full-time basis (76 hours per fortnight)". The psychiatrist's second question at the
+  12 Aug appointment: the letter frames capacity against the 76-hour substantive baseline while
+  the OPERATIVE arrangement was the reduced pattern the employer itself formalised (EMR, 1 June
+  2026). Before reporting he needs (1) the basis/trigger of the inquiry and (2) confirmation of
+  WHICH arrangement capacity is to be assessed against. Framed as ambiguity-to-resolve, never
+  "the letter is wrong" (76h is the substantive contract — the missing element is the assessment
+  baseline).
+- Petering update rewritten as a direct reply to her 11 Aug email: her "questions are standard"
+  assessment expressly preserved (his requirement "sits a step earlier"); her step-2 converted
+  into his action (advise employer in writing of the specialist's two requirements); timeframe
+  answer = gated by employer's response; Stage 2 framework unchanged; union invited to co-ask
+  the two questions; John acknowledgment added.
+- NEXT: the short letter to MSH (Harrison, cc lbh_hr) stating the specialist's two requirements —
+  send before or with the Emily email so "I will advise it in writing" is made good same-day.
