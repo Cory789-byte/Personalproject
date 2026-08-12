@@ -79,9 +79,17 @@ contacted.
 Once the two matters above are provided, I will confirm the expected turnaround for the report
 promptly.
 
-**3. Outstanding wages.** I have received no wages since 13 July 2026. Throughout that period I
-have held a current certification of fitness for my role with restrictions (3 July 2026) and have
-remained available to work under the arrangement the Health Service formalised on 1 June 2026.
+**3. Outstanding wages and hardship.** I have received no wages since 13 July 2026 — four weeks,
+now running into a fifth — and I have been held out of the workplace since 26 June 2026, now the
+seventh week. Over that period: my accrued leave has been debited; superannuation contributions
+have ceased; I am meeting treatment costs myself; and I am meeting ordinary living and financial
+commitments with no income from any source.
+
+Throughout the same period I have held a current certification of fitness for my role with
+restrictions (3 July 2026) and have remained available to work under the arrangement the Health
+Service itself formalised on 1 June 2026. The hardship is therefore not the product of any
+incapacity or unavailability on my part; it arises from the withholding of work and wages while
+the Health Service's own inquiry remains unparticularised, and it compounds with each pay cycle.
 I ask that the necessary payroll correction (AVAC) be submitted and my outstanding wages
 processed in the next available pay run.
 
