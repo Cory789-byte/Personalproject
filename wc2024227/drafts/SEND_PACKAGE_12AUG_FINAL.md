@@ -14,10 +14,9 @@ Subject: RE: ACTION REQUIRED | Request for Medical Information: Cory Shepherd (M
 Dear Ms Harrison,
 
 I refer to the Request for Medical Information dated 31 July 2026 and the extended timeframe for
-response. I have copied Ms Emily Petering of Together Queensland, who is assisting me on the
-hours, rostering and pay matters, and the Mind and Memory Service, so the practice has visibility
-of how Dr Krishnaiah's requirements are conveyed below and can correct me if I have misstated
-them.
+response. I have copied my union, Together Queensland (Ms Emily Petering), for its awareness and
+support, and the Mind and Memory Service, so the practice has visibility of how Dr Krishnaiah's
+requirements are conveyed below and can correct me if I have misstated them.
 
 **1. The specialist attendance has occurred.** I attended my treating psychiatrist,
 Dr Krishnaiah of the Mind and Memory Service, on 12 August 2026 to respond to the request.
