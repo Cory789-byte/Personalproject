@@ -1,76 +1,71 @@
-# FINAL SEND PACKAGE — 12 AUGUST 2026 — two emails, send in this order, same day
-# Email 1 = REPLY to their 31 July 11:43 email (stays in their tracked thread).
-# Do NOT cc Solv (notes@solv.com.au was on their send; pay/hardship is not Solv's business).
-# Moran cc optional per 3-Aug routing practice. Petering NOT cc'd — she gets her own email.
+# FINAL SEND PACKAGE — 12 AUGUST 2026 (v2 — Cory's instruction: Emily + Mind and Memory cc'd
+# on the LBH email, with the reason stated; shorter; normative framing in Petering's register;
+# consequence flagged without citing instruments)
+# Send order: Email 1 (LBH) first · Email 2 (Emily, her thread) after.
 
 ---
 
 ## EMAIL 1 — reply to LBH Injury Management (SEND FIRST)
 
 To: LBH_InjuryManagement@health.qld.gov.au
-Cc: LBH.HRTeam1@health.qld.gov.au
-Subject: RE: ACTION REQUIRED | Request for Medical Information: Cory Shepherd (MSH-INJ5795) [CLM-317073] — specialist attendance 12 August 2026 — two matters required before the report; outstanding wages and hardship; interim return to work
+Cc: LBH.HRTeam1@health.qld.gov.au; Emily.Petering@together.org.au; [Mind and Memory Service practice email]
+Subject: RE: ACTION REQUIRED | Request for Medical Information: Cory Shepherd (MSH-INJ5795) [CLM-317073] — specialist attendance 12 August 2026 — two matters required before the report; outstanding wages; interim return to work
 
 Dear Ms Harrison,
 
-I refer to the Request for Medical Information dated 31 July 2026 and to the extended timeframe
-for response.
+I refer to the Request for Medical Information dated 31 July 2026 and the extended timeframe for
+response. I have copied Ms Emily Petering of Together Queensland, who is assisting me on the
+hours, rostering and pay matters, and the Mind and Memory Service, so the practice has visibility
+of how Dr Krishnaiah's requirements are conveyed below and can correct me if I have misstated
+them.
 
-1. The specialist attendance has occurred
+**1. The specialist attendance has occurred.** I attended my treating psychiatrist,
+Dr Krishnaiah of the Mind and Memory Service, on 12 August 2026 to respond to the request.
 
-I attended my treating psychiatrist on 12 August 2026 for the purpose of responding to the
-request.
+**2. Two matters are required before the report can be provided.** As a matter of his clinical
+reasoning, Dr Krishnaiah requires the following from the Health Service:
 
-2. Two matters are required before the report can be provided
+(a) **the basis of the inquiry** — the incident, change or concern that prompted it. None is
+identified in the correspondence. The reduced-hours arrangement the request concerns was
+formalised by the Health Service itself — created in MyHR by my manager on 1 June 2026 and
+approved by me before its 2 June due date — and the Employee Capability Checklist of 3 July 2026
+records it as a continuation, worked and tolerated without deterioration; and
 
-As a matter of his clinical reasoning, my psychiatrist requires the following from the Health
-Service before providing a report:
+(b) **the working arrangement against which capacity is to be assessed** — the request states
+permanent full-time (76 hours per fortnight); the operative arrangement is the one the Health
+Service formalised on 1 June 2026.
 
-(a) The basis of the inquiry. The correspondence does not identify the incident, change or
-concern that prompted the request. I note the reduced-hours working arrangement the request
-concerns was formalised by the Health Service itself — created in MyHR by my manager on
-1 June 2026 and approved by me before its due date of 2 June 2026 — and the Employee Capability
-Checklist of 3 July 2026 records that arrangement as a continuation worked and tolerated without
-deterioration.
+I note the practice has advised me it was in direct contact with the Health Service before the
+appointment, so a channel for any verification already exists. Once the two matters are provided,
+I will confirm the expected turnaround for the report promptly.
 
-(b) The working arrangement against which capacity is to be assessed. The request describes my
-employment as permanent full-time (76 hours per fortnight). The operative working arrangement is
-the one the Health Service formalised on 1 June 2026. The report cannot be prepared without
-confirmation of which arrangement capacity is to be assessed against.
+**3. Wages and hardship.** I have received no wages since 13 July 2026 — the fifth week has now
+begun — and I have been held out of the workplace since 26 June 2026. Over that period my accrued
+leave has been debited, superannuation contributions have ceased, I am meeting treatment costs
+myself, and I have no income from any source. Throughout, I have held a current certification of
+fitness for my role with restrictions (3 July 2026) and have remained available to work under the
+arrangement the Health Service formalised.
 
-Dr Krishnaiah's requirements can be confirmed with his practice, the Mind and Memory Service, if
-required. I consent to the practice confirming these two requirements to the Health Service if
-contacted; that consent does not extend to any clinical information.
+While an employer may seek medical clarification, it must be able to identify what prompted the
+inquiry, assess the information it already holds, and communicate its position — and while it
+considers, it cannot properly leave an employee who is certified fit, and whose working
+arrangement it formalised itself, without wages or work. At present no basis for either has been
+identified.
 
-Once the two matters above are provided, I will confirm the expected turnaround for the report
-promptly.
+**4. What I ask.** I therefore ask that:
 
-3. Outstanding wages and hardship
+(i) the necessary payroll correction (AVAC) be submitted within 24 hours of this email, with
+confirmation to me, and my outstanding wages processed as a priority payment rather than held to
+the next scheduled pay run; and
 
-I have received no wages since 13 July 2026 — four weeks, now running into a fifth — and I have
-been held out of the workplace since 26 June 2026, now the seventh week. Over that period: my
-accrued leave has been debited; superannuation contributions have ceased; I am meeting treatment
-costs myself; and I am meeting ordinary living and financial commitments with no income from any
-source.
+(ii) pending the Health Service's response on item 2, I be returned to the roster under the
+existing formalised arrangement of 1 June 2026, consistent with the current certificate of
+3 July 2026.
 
-Throughout the same period I have held a current certification of fitness for my role with
-restrictions (3 July 2026) and have remained available to work under the arrangement the Health
-Service itself formalised on 1 June 2026. The hardship is therefore not the product of any
-incapacity or unavailability on my part; it arises from the withholding of work and wages while
-the Health Service's own inquiry remains unparticularised, and it compounds with each pay cycle.
-
-Given that position, I ask that the necessary payroll correction (AVAC) be submitted within
-24 hours of this email, and that my outstanding wages be processed as a priority payment rather
-than held to the next scheduled pay run.
-
-4. Interim return to work
-
-Pending the Health Service's response on the matters at item 2, I ask to be returned to the
-roster under the existing formalised arrangement of 1 June 2026, consistent with the current
-certificate of 3 July 2026.
-
-I ask for confirmation of the AVAC within 24 hours as above, and a response on the remaining
-matters by Wednesday 19 August 2026.
+If the AVAC is not confirmed within 24 hours and the matters above are not addressed by
+Wednesday 19 August 2026, I will consider the position a refusal and take the steps available to
+me to have the wages and the return to work determined externally. I would much prefer to resolve
+this administratively.
 
 Kind regards,
 
@@ -80,7 +75,7 @@ AO3 Switchboard Services, Logan Hospital
 
 ---
 
-## EMAIL 2 — reply to Emily Petering (SEND SECOND, same day)
+## EMAIL 2 — reply to Emily Petering (SEND SECOND, same day, her thread)
 
 To: Emily.Petering@together.org.au
 Subject: RE: Follow up from phone call Tuesday 11/8/26 — appointment update
@@ -89,7 +84,8 @@ Hi Emily,
 
 Thank you for your email — it set the steps out clearly and I've followed them. I attended the
 psychiatrist appointment today, and there is one development you should have straight away,
-because it affects the timeframe you asked about.
+because it affects the timeframe you asked about. You will also have seen the email I sent the
+Health Service today — I copied you for visibility, and I hope that was alright.
 
 His position, as a matter of his own clinical reasoning, is that he cannot provide a report
 responding to the employer's request until the employer identifies the basis for the inquiry —
@@ -104,29 +100,25 @@ permanent full-time, 76 hours per fortnight. But the operative working arrangeme
 reduced pattern the employer itself had formalised: my manager created it in MyHR on 1 June 2026
 and asked me to approve it, which I did before its 2 June due date, and my certificate of 3 July
 2026 then recorded that arrangement as worked and tolerated without deterioration. Before
-reporting, he needs to know which arrangement he is being asked to assess capacity against — the
-76 hours stated in the letter, or the arrangement the employer formalised — and, between those
-dates and the request of 31 July, what incident or clinical change prompted the inquiry, since
-none is identified in anything the employer has sent.
+reporting, he needs to know which arrangement he is being asked to assess capacity against, and
+what incident or clinical change prompted the inquiry, since none is identified in anything the
+employer has sent.
 
-I have today written to the Health Service setting out the specialist's two requirements. The
-same letter records the position I am now in — no wages since 13 July, the fifth week beginning,
-held out of the workplace since 26 June, accrued leave debited, superannuation stopped, treatment
-costs self-funded, and no income from any source — while certified fit and available the whole
-time under the employer's own formalised arrangement. On that basis I have asked that an AVAC be
-submitted within 24 hours and my outstanding wages processed as a priority payment, and that in
-the meantime I be returned to the roster under the 1 June arrangement, consistent with my current
-certificate.
+As you'll have seen, the email to the Health Service sets out those two requirements, the
+position I am now in — the fifth week without wages, the seventh week out of the workplace, leave
+debited, superannuation stopped, treatment self-funded, no income from any source, while
+certified fit and available under the employer's own formalised arrangement — and asks that an
+AVAC be submitted within 24 hours with wages processed as a priority, and that I be returned to
+the roster under the 1 June arrangement in the meantime.
 
 Once the employer answers the two matters, I will confirm the likely turnaround for the report
-and let you know — that then becomes the timeframe for the sequence we agreed. To be clear, I am
-not proposing to move on Stage 2; the framework stands. But the "report is in" milestone is now
-gated by the employer's answer, and the delay from here rests with the employer on a treating
-specialist's stated requirements, not on anything of mine.
+and let you know — that then becomes the timeframe for the sequence we agreed. I am not proposing
+to move on Stage 2; the framework stands. But the "report is in" milestone is now gated by the
+employer's answer, and the delay from here rests with the employer on a treating specialist's
+stated requirements, not on anything of mine.
 
-Given this sits in the hours and rostering lane, it may carry more weight if the union also asks
-the employer to answer those two questions and to action the pay position. I'll be guided by you
-on whether and how to do that.
+If you think it would help for the union to press the two questions or the pay position, I'll be
+guided by you on how.
 
 Thank you also for the note about John — I appreciate it.
 
@@ -136,14 +128,13 @@ Cory
 ---
 
 ## SEND CHECKLIST
-- [ ] Email 1 as a REPLY to the 31 Jul 11:43 "ACTION REQUIRED" email (thread continuity); check
-      the To/Cc lines match above after reply-all populates them; REMOVE notes@solv.com.au if it
-      auto-populates.
-- [ ] Decide Moran cc (optional, 3-Aug practice).
-- [ ] Email 2 only after Email 1 is sent.
-- [ ] File both sent records per the 3-Aug practice (documents/sent-2026-08-12/).
+- [ ] Fill the Mind and Memory practice email address in Email 1's Cc line.
+- [ ] Email 1 as a REPLY to the 31 Jul 11:43 "ACTION REQUIRED" email; REMOVE notes@solv.com.au
+      if reply-all populates it.
+- [ ] Email 2 after Email 1 (her copy of Email 1 will already be in her inbox).
+- [ ] File both sent records (documents/sent-2026-08-12/).
+- [ ] Clock ledger: AVAC confirmation Thu 13 Aug · remaining matters Wed 19 Aug · RFMI extended
+      window 21 Aug · cl 10.3.6 deemed refusal Mon 24 Aug.
 - [ ] Nothing in either email mentions the appeal, Report B, the letter of instruction, the
-      Regulator, or the income-protection fund. The consent is limited to the two requirements —
-      no clinical information.
-- [ ] Clock ledger after sending: AVAC 24h (Thu 13 Aug) · remaining matters Wed 19 Aug ·
-      cl 10.3.6 deemed refusal Mon 24 Aug · RFMI extended window 21 Aug.
+      Regulator, or the income-protection fund. No instruments/policies cited — the consequence
+      sentence stays generic ("determined externally").
