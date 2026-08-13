@@ -19,9 +19,11 @@ There is no version of this document that leaves him worse off than he is now. *
 
 ## 2. What a Form 20 is
 
+> **Now verified against source — see [`FORM_20_LAW_RESEARCH.md`](./FORM_20_LAW_RESEARCH.md).** The central proposition is confirmed. Two corrections apply to what follows: the interest ends only when the seven days expire **and** the tenant has vacated, which splits the analysis into two branches that both work; and the confidentiality restriction covers her contact details and circumstances, not the fact that an interest ended. The research note also establishes that the agency owed Cory a **written continuing interest notice** under s 308E, which he never received.
+
 **RTA Form 20 — "Notice ending tenancy interest".** It comes from the domestic and family violence provisions inserted into the *Residential Tenancies and Rooming Accommodation Act 2008*.
 
-The scheme, as I understand it:
+The scheme:
 
 - A tenant experiencing domestic or family violence may end **their own** interest in a tenancy by giving the lessor or agent this notice with prescribed supporting evidence.
 - The notice takes effect a short minimum period after it is given.
