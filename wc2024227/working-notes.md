@@ -5580,3 +5580,37 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   May 2026 gap (no form — verify against payslips before pleading the pattern as unbroken);
   payslips from 13 Jul onward for the quantum schedule; a written status update on payroll
   enquiry 4438861.
+
+## 13 Aug 2026 — MSH's first substantive response: three documents in 57 minutes, one RECALLED
+- Filed: `2026-08-13_1548_Harrison_reply_consent_and_EAF.pdf`,
+  `2026-08-13_1642_Roberts_FollowUpOnEnquiries_RECALLED.pdf`,
+  `2026-08-13_1645_Roberts_RECALL_NOTICE.pdf`. Full assessment at
+  `skill/references/13AUG2026-THE-RECALLED-EMAIL-AND-CONSENT-CREEP.md`.
+- ⭐⭐⭐ **JACQUI ROBERTS (Principal Consultant, HR — new, senior actor)** at 16:42 stated in
+  writing: *"Whilst I understand your belief you are fit to return to the workplace; the medical
+  evidence provided to date does not support that"* — a **capacity determination made before the
+  information the RFMI demands, and while the basis of the inquiry remains unidentified**. Also:
+  *"You do have sick leave balances, so they should automatically be applied"* (contradicting the
+  12 Aug payslip: 76.00 hrs "NP Sick Leave", $0.00); an invitation to consent to applying other
+  leave; an embedded myHR balance screenshot; and *"I am aware you have a current open Qsuper
+  claim, and we may need to advise Qsuper of any income you are in receipt of."*
+  **RECALLED at 16:45 — three minutes later. Recall is Exchange-internal; recipient is external;
+  it had no effect. The email and the recall notice are both held.**
+- **LEAVE BALANCES as at 13.08.2026 (their screenshot):** Recreation **46.82 hrs** · Sick
+  **10.5 hrs** · RDO **5.28 hrs** = **62.6 hrs total** — about 1.5 fortnights at 40 hrs.
+  ⛔ **DO NOT CONSENT to applying other leave**: it validates the classification, destroys the
+  wage claim for any period taken as leave, exhausts everything in ~3 weeks, and erases the
+  hardship evidence.
+- ⚠ **CONSENT CREEP (live risk).** Harrison at 15:48 recorded the 12 Aug consent as *"your consent
+  for me to speak and correspond with your treating doctor"* — materially wider than what was
+  given (the practice confirming **the two requirements**). She attached an **Employee
+  Authorisation Form** and asked for a **phone call to explain it**. ⛔ Correct the scope in
+  writing; do not sign; keep it in writing (cf. the 31 Jul authorisation form already not signed).
+- **MEETING OFFERED: Fri 21 Aug, 2 hours, Teams, Petering included; confirm by COB Wed 19 Aug.**
+  Assessment: accept (engagement + union present + satisfies Petering's framework), but in
+  writing, expressly preserving the four written asks, the dates, and requesting minutes. ⚠ Note
+  21 Aug sits after the 14 Aug deadline and the RFMI window and immediately before the 24 Aug
+  deemed refusal — a meeting there defers every matured clock by conversation.
+- **NOTHING has been paid or answered**: no AVAC, no basis, no baseline, no return, no reason for
+  non-return, no response to payroll enquiry 4438861. In seven weeks the only offers are a meeting
+  and an invitation to spend his own leave.
