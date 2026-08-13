@@ -80,6 +80,48 @@ And Constable Easthope's own arrival briefing at 02:00, on his own camera, befor
 
 **Action:** the leasing manager's statement now relied on by the prosecution must be disclosed immediately. There are two inconsistent accounts from the same witness. The inconsistency is itself disclosable, and the earlier account is contemporaneous, recorded, and sworn. A Form 13 is a *notice of intention* to leave. On a joint co-tenancy it does not, of itself, terminate the tenancy — which is precisely what the leasing manager told police at the time.
 
+### 4.1A — The complainant's own court material shows a new lease commencing months later
+
+This is the strongest answer to reason (1), and it comes from the complainant herself.
+
+Cory's instructions are that Ms Negro filed material in court showing that **a new lease commenced months after February 2025**.
+
+If that is right, it is decisive, and for a reason that requires no witness at all:
+
+- **You do not need a new lease if the old one had already ended.** If the joint tenancy had genuinely terminated in December 2024 or February 2025 with Ms Negro simply continuing on it, there would be nothing to replace. The existence of a *new* agreement, commencing later, is an admission that the old agreement was still the operative one until it was replaced.
+- It matches exactly what the leasing manager told Const. Davies on the night: *"the lease wasn't accepted by the property manager because he was not able to come off the lease **because she's not able to have the apartment with her name only on it**."* She could not hold the unit alone. That is precisely why a fresh agreement had to be created later — presumably on different terms or with a different co-signer.
+- It is documentary, it is dated, and it was put before a court by the complainant. It cannot be re-characterised by a later witness statement.
+
+**Action:** obtain the complainant's filed material and the new general tenancy agreement, and identify its **commencement date**. That date is the answer to reason (1). If the filing was in QCAT, obtain the QCAT file. Cross-reference RTA matter RTA:0055411.
+
+### 4.1B — The bond was never dealt with, and the bond record is held by a third party
+
+Cory's instructions are that the instrument that actually ends a tenancy of this kind — which he understood from Ms Negro to be a Form 20 — was **only ever sent and accepted by her**, without his signature.
+
+*(The exact RTA form number should be confirmed against the RTA's own record rather than taken from recollection. The substance does not depend on the number.)*
+
+The substance is corroborated on QPS's own camera. When Const. Easthope asked the leasing manager about the process, the answer was not just about the Form 13:
+
+> **Dennis Constable:** *"Both parties must sign that form, Corey and Alexia. **And then there's another form to fill out for the bond** and for the bond…"*
+> **Const. Easthope:** *"so that hasn't been finalized, is that correct?"*
+> **Dennis Constable:** *"No, **it hasn't even started** and we're not aware of it."*
+
+So the leasing manager told police, on the night, that (a) the notice required both signatures, (b) there was a **further instrument required for the bond**, and (c) none of it had started. That is the same proposition Cory is making, from the mouth of the prosecution's own tenancy witness.
+
+Cory said the same thing to Const. Harmer within hours: *"my bond's still there, everything's still there, my name's still on the lease."*
+
+**Why this matters more than the witness dispute:** the bond is not held by the agent or by either party. It is held by the **Residential Tenancies Authority**. The RTA's record is independent, third-party, and contemporaneous. A bond history search will show, objectively:
+
+- the bond number and the date it was lodged;
+- the names of every bond contributor;
+- whether and when any change of contributors was ever processed;
+- whether and when the bond was refunded, and to whom;
+- whether a **new bond** was lodged for a **new tenancy**, and on what date.
+
+That last item is the same point as §4.1A, from a second independent source. If a new bond was lodged months later, the old tenancy was still on foot until then.
+
+**Action:** request the full RTA bond history for the premises, and the agent's tenancy ledger. This is objective documentary material that does not depend on which version of the leasing manager's account is accepted.
+
 ### 4.2 — "he clarified if he was on the lease. He was not and clearly no mistake of fact"
 
 This reason is backwards on the prosecution's own logic.
@@ -116,7 +158,29 @@ The material going to honest claim of right:
 
 A registration record in another State is, at highest, presumptive. It cannot convert a genuinely contested civil property claim — one the complainant herself put in writing as civil — into a criminal stealing.
 
-**Also relevant:** the 17 December 2024 transfer was obtained during the period now documented as coercive, and is on its face vulnerable to being set aside for undue influence or unconscionable dealing. But that argument is not even necessary. The honest claim of right answers the charge whether or not the transfer stands.
+**Also relevant:** the 17 December 2024 transfer was obtained during the period now documented as coercive, and is on its face vulnerable to being set aside for undue influence or unconscionable dealing (§4.4). But that argument is not even necessary. The honest claim of right answers the charge whether or not the transfer stands.
+
+**The short point on the dog:** Cory bought Romeo. He and his mother drove to Sydney to collect him on 25 October 2024. He registered him in his own name in Queensland with the Gold Coast City Council, and that registration pre-dates the 17 December 2024 NSW transfer the complainant relies on. Queensland is where the dog lived, where the dog was registered, and where all of this happened. The NSW Pet Registry itself confirmed in writing on 15 May 2025 that once the animal moved interstate, *"NSW doesn't have any authority on the pet now."* A man who buys a dog, drives interstate to collect it, registers it in his own name in his own State, and says *"its my dog"* at the moment in question is not a thief — at the very lowest he is a man with an honest claim of right, and that is the end of the predicate offence.
+
+### 4.4 — Diagnosed impairment and the circumstances in which the signatures were obtained
+
+Cory was diagnosed with major depressive disorder. That diagnosis is in the medical records (06_MEDICAL), along with PTSD and anxiety, and he was on prescribed Lisdexamfetamine, Fluoxetine and Quetiapine.
+
+His instructions are that Ms Negro took advantage of that condition. On the documentary record, the same diagnosed condition appears at three separate points, and it is used against him at every one of them:
+
+1. **The dog transfer of 17 December 2024** — signed during the period the message record shows as coercive, weeks after the December 2024 events, at a time when he was diagnosed and medicated. The elements of unconscionable dealing are all present in the material: a **special disadvantage** (diagnosed MDD in the immediate aftermath of a relationship breakdown and a police protection notice), that disadvantage **known** to the other party (she was his partner of five years and had told police about his diagnosis), and **advantage taken** of it to obtain a transfer of property for no consideration. *Commercial Bank of Australia Ltd v Amadio* (1983) 151 CLR 447. Undue influence runs in parallel.
+
+2. **The Form 13 signature** — obtained in the same period and in the same conditions, and then relied on by police and now by the prosecution as the reason he was "removed." Cory's own account, on Const. Harmer's camera hours after the arrest: *"It took me one whole week to confirm that I was being tricked to think that my name was off the lease… she tried to trick me and force me to say that she's safe and say like two to three weeks."* Const. Davies adopted the same characterisation on his own camera the next evening: *"that's really tricked him."*
+
+3. **The Police Protection Notice itself** — the grounds recite: *"The agg is aware that the resp has a mental illness and requires medication that he does not take regularly, and this can cause the resp to act crazy and go into rages without warning."* He was on his prescribed medication. He was working and studying. The building manager's sworn evidence describes him as *"consistently helpful and devoted."*
+
+So the same condition was, on this record, the thing that was exploited to obtain the signatures, and then the thing cited to police as the reason he was dangerous. That is a single coherent pattern, not three separate coincidences.
+
+**Relevance to each forum:**
+
+- **Charge 1** — goes to honest claim of right, and to the vulnerability of the transfer the prosecution relies on for "the property (dog) belonged to the complainant."
+- **Charge 3** — goes to the reliability of the Notice whose contravention is alleged.
+- **QHRC (EDR19098)** — impairment is a protected attribute. Conduct that takes an impairment and converts it into the stated reason a person is a danger is squarely within the discrimination framework, and it was adopted by police without verification against the medical record they never asked for.
 
 ---
 
@@ -210,6 +274,10 @@ Three consequences:
 
 1. **Identify the indictable offence** relied on for Charge 1 under s 421(2), and the provision under which it is said to have been committed.
 2. **Disclose the leasing manager's statement** now relied on, together with the date it was taken and by whom — and disclose the body-worn camera of the same witness speaking to Const. Davies and Const. Easthope on 23–24 February 2025, and his statutory declaration. Put the inconsistency squarely on the record.
+
+2A. **Produce the new general tenancy agreement** and its commencement date, together with the complainant's filed court material in which it appears. A new lease commencing months later is an admission that the earlier joint tenancy was still on foot.
+
+2B. **Obtain the full RTA bond history** for Unit 104, 158 Scarborough Street — contributors, any change of contributors, date and recipient of any refund, and whether and when a new bond was lodged for a new tenancy. Independent third-party record; does not depend on any witness.
 3. **Identify which order** Charge 3 is pleaded against, produce a certified copy with its conditions, and produce the service record. If it is QP0899, address Senior Constable Yaun's email of 21 August 2025 — *"struck out of Court… upon my submission of no evidence from the aggrieved"* and *"another application may have been made by another officer from Southport who incorrectly used my original Police occurrence."*
 4. **Identify the condition** of that order said to have been contravened, and how entry to premises in the absence of the aggrieved, 3,500 km away, contravenes "be of good behaviour towards the aggrieved."
 5. **Put honest claim of right on notice** — s 22(2) Criminal Code — with the breeder receipt, the Gold Coast City Council registration, the complainant's own written assurances, and the NSW Pet Registry's own 15 May 2025 position on interstate jurisdiction.
@@ -237,8 +305,10 @@ That point stands whether the order was in force or not.
 - Charge 2 is gone. It should not have been laid, and the officer's own recording said so on day two.
 - Charge 1 has been drafted around a recorded admission by the investigating officer that there was no intent at entry — hence s 421(2) rather than limb (1) or burglary.
 - Charge 1 and Charge 3 now both rest on the same proposition: that taking Romeo was a criminal act. Honest claim of right under s 22(2) is a complete answer to it, and the material supporting an honest belief is documentary, contemporaneous, and in part comes from the complainant's own messages.
-- The prosecution's first stated reason relies on a witness account that contradicts what the same witness told two police officers on tape that night and what he swore in his statutory declaration.
+- The prosecution's first stated reason relies on a witness account that contradicts what the same witness told two police officers on tape that night and what he swore in his statutory declaration — and, more importantly, is contradicted by the complainant's own court material showing a new lease commencing months later, and by the RTA's own bond record.
 - The prosecution's second stated reason describes a week of verification with the RTA and building management, and treats it as proof of no mistake — it is evidence of the opposite.
-- The prosecution's third stated reason asserts a fact about the dog that its own officers made impossible to test, by giving the dog away without a court order.
+- The prosecution's third stated reason asserts a fact about the dog that its own officers made impossible to test, by giving the dog away without a court order — and rests on a transfer obtained from a man with diagnosed major depressive disorder, by the person who had told police about that diagnosis.
 
 The narrower the case becomes, the worse the conduct around the exhibit looks.
+
+**The two documents to get first:** the new lease with its commencement date, and the RTA bond history. Both are held by third parties, both are objective, and either one on its own answers the prosecution's primary reason for rejecting the submission on Charge 1.
