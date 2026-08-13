@@ -172,21 +172,84 @@ They are a discrete, self-contained bundle that costs nothing to assemble and th
 
 ---
 
-## 5C. The tension to be honest about
+## 5C. The apparent tension, and why it resolves
 
 On 24 February 2025 Mr Constable told Const. Easthope, of Cory and Ms Negro: *"They're both allowed to be there, but the third party…"*
 
-If the Form 20 had ended her interest in December, why was the building manager saying in February that both were allowed to be there?
+At first sight that is hard to square with her interest having ended in December. It resolves once the information gap is understood.
 
-Possible explanations, none of which can be assumed:
+**Mr Constable did not know the Form 20 had been given.** The notice went to **Ms Arase, the leasing manager at the agency**. Mr Constable is the **building manager** — a different role, a different arm of the management. On Cory's instructions, he was never told.
 
-- The Form 20 went to **Ms Arase, the leasing manager at the agency**. Mr Constable is the **building manager**. They are different roles and there may have been no communication between them — which would be consistent with his statement on the same recording that the termination process *"hasn't even started and we're not aware of it."*
-- The notice may not have been treated as effective.
-- He may have been speaking loosely about who could be present rather than about tenancy status.
+That is exactly what he said on the same recording, about the termination process generally:
 
-**This has to be resolved rather than glossed over**, because it is the first thing an opponent will find. Two questions go into the notice to produce: to whom was the Form 20 given, and what was done to record and communicate it internally.
+> *"it hasn't even started and we're not aware of it."*
 
-Note also that the tension cuts both ways. If the building manager did not know a co-tenant's interest had ended, that is further evidence that nobody told the remaining tenant either.
+He was answering honestly from what he had. He had the lease showing both names and no record of anything ending it. So he said both were allowed to be there. **On the information he held, that was the correct answer.**
+
+The same explains the 1:54 a.m. telephone call. He told Bickery and Harmer that a Form 13 does not terminate the lease — which is right, and which he could say confidently because on his records nothing had terminated anything.
+
+**So one person held the fact that changes the tenancy position: Ms Arase.**
+
+---
+
+## 5D. Everything converges on one witness
+
+This is the most significant structural feature of the case, and it only becomes visible once the information gap is understood.
+
+**The person who received and accepted the Form 20 is the same person the prosecution now relies on for the proposition that Cory was removed by a Form 13.**
+
+The prosecution's first reason reads: *"Statement from the leasing manager advising that your client sent a form 13 notice of intent to remove from a tenancy, this was accepted, he was removed."*
+
+Ms Arase is the leasing manager. On Cory's instructions she is also the person to whom Ms Negro sent the Form 20 on 5 December 2024, and the person who replied accepting it.
+
+That produces a single, precise, answerable question:
+
+> **Does her statement to police disclose the Form 20?**
+
+It is a question, not an allegation. There are ordinary explanations — she may have disclosed it and the prosecution's summary may simply not mention it; she may have been asked only about the Form 13; she may have considered herself restricted from mentioning a domestic violence notice. **None of that can be assumed either way until the statement is produced.**
+
+But the question now has to be asked, and it is the reason the statement itself must be disclosed with its date and the circumstances in which it was taken.
+
+### 5D.1 — Nobody who acted that night had the full picture
+
+On the night of 23–24 February 2025 the operative decision was made on:
+
+- Ms Phillips's screenshots, framed around the Form 13;
+- Mr Constable's telephone call, which was correct on what he knew;
+- Const. Easthope's review of the *"no one is allowed"* email, which was the later capitulation email and not the earlier Form 9 Entry Notice.
+
+**Not one of those sources knew about the Form 20.** The one person who did was not consulted that night.
+
+So the lockout, the arrest, and everything downstream of it proceeded on a tenancy picture that was missing the document that determined the tenancy.
+
+### 5D.2 — And it makes Cory's belief unassailable
+
+The prosecution's second reason is that he *"clarified if he was on the lease. He was not and clearly no mistake of fact."*
+
+He told Const. Harmer within hours of the entry:
+
+> *"So I took a week to confirm that my name was on the lease, had to confirm it with the RTA, printed out the documents, had to confirm it with the management, because my bond's still there, everything's still there, my name's still on the lease."*
+
+He checked. He checked with the RTA, and he checked with the management. And **the management he checked with was the arm that did not hold the Form 20.**
+
+So on any view of what that document did:
+
+- he was never given a copy;
+- he asked the responsible party and got an answer consistent with him remaining a tenant;
+- the building manager independently gave police the same answer two months later, on camera;
+- and his bond was still lodged in his name, untouched, with no Form 4.
+
+A man who spends a week verifying, is told he is on the lease, holds the bond, and is never served with anything to the contrary has an honest belief. That is what the mental element requires, and this closes it.
+
+**A new question follows:** who did he clarify with, and what did that person know at the time? If it was Ms Arase, and she knew of the Form 20 and told him *he* was the one off the lease, that is the position Const. Davies described on his own camera as *"that's really tricked him."* If it was Mr Constable, he was answering without the document. Both answers are useful and the question should be pinned down.
+
+### 5D.3 — What changes now the document is known about
+
+Its existence is no longer a matter of inference. That changes three things:
+
+1. **The request becomes specific.** Not a category of documents but a named instrument: the notice ending tenancy interest given by Alexia Negro on or about 5 December 2024, and the reply accepting it. A specific, identified document is far harder to resist than a general class.
+2. **The prosecution is on notice.** Once they are aware of a document that bears directly on their stated reason for maintaining Charge 1, the disclosure obligation and the duty to keep the charge under review both engage. This should be put to them in writing so the date of notice is fixed.
+3. **It cannot be lost quietly.** Which is why the preservation letter goes first, before anything else.
 
 ---
 

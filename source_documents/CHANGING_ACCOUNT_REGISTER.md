@@ -47,6 +47,14 @@ The register is the evidence. It should be allowed to speak.
 | **Later position** | Statement relied on by the prosecution: *"your client sent a form 13 notice of intent to remove from a tenancy, this was accepted, he was removed."* |
 | **Why it matters** | The contemporaneous version is recorded, repeated to two separate officers, corroborated by a telephone call made during the lockout, and sworn in a statutory declaration. The later version is the one the prosecution has chosen. |
 
+### 2A. The two arms of management gave police different pictures
+
+| | |
+|---|---|
+| **The building manager** | Mr Constable, on camera and by telephone on 23–24 February 2025: the lease shows both names, nothing has terminated it, *"it hasn't even started and we're not aware of it"*, *"They're both allowed to be there"*, and *"Form 13 does NOT terminate the lease."* Correct on what he held. |
+| **The leasing manager** | Ms Arase, who on Cory's instructions received a notice ending tenancy interest from Ms Negro on 5 December 2024 and replied accepting it — and who is the source of the statement the prosecution now relies on: *"your client sent a form 13 notice of intent to remove from a tenancy, this was accepted, he was removed."* |
+| **Why it matters** | Mr Constable was never told about the Form 20. One person held the document that determines the tenancy position, and that same person is the prosecution's witness on how the tenancy ended. Whether her statement discloses the Form 20 is a question for disclosure, not an assumption — but it is now the sharpest question in the matter. |
+
 ### 3. The dog — welfare check, then stolen property
 
 | | |
