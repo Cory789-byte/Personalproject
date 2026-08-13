@@ -149,7 +149,53 @@ So:
 
 There is a further consequence in the first branch. If he was a departing tenant whose goods remained at the premises, the lessor could not simply keep them — the Act sets out how goods left at premises are to be dealt with. Preventing a departing tenant from collecting his goods, and then retaining them, engages that framework as well.
 
-### 5B.1 — The goods themselves
+### 5B.1 — On the building manager's own description, the Form 13 pathway was never completed
+
+Mr Constable was not speaking abstractly when he told Const. Easthope a Form 13 does not terminate the lease. He set out the actual steps and said where the process had got to:
+
+> **Const. Easthope:** *"did at any point did corry sign in notice of intent to leave?"*
+> **Mr Constable:** *"Not that I'm aware… **Both parties must sign that form, Corey and Alexia. And then there's another form to fill out for the bond**…"*
+> **Const. Easthope:** *"so that hasn't been finalized, is that correct?"*
+> **Mr Constable:** *"**No, it hasn't even started** and we're not aware of it."*
+
+So on the responsible manager's own account the pathway has at least two stages:
+
+1. **the notice signed by both tenants** — and he was unaware of any notice at all; and
+2. **a further form dealing with the bond** — which is the step that actually moves a tenant off the tenancy record.
+
+Neither had happened.
+
+**The bond is the objective check on stage 2.** It is not testimony and it does not depend on whose account is preferred. If the bond remains lodged in Cory's name, with no refund of rental bond ever processed, then the second stage of the very process the prosecution relies on was never carried out. The RTA holds that record and Cory can obtain it himself.
+
+A tenant who has genuinely been removed from a tenancy does not still hold the bond fourteen months later.
+
+### 5B.2 — Mr Constable did not know about the Form 13 either
+
+*"Not that I'm aware."*
+
+Cory had signed a Form 13, and Ms Arase had it — she wrote to him about it on 21 February 2025. Mr Constable did not know.
+
+So the information gap is not confined to the Form 20. **Both instruments went to the leasing manager. The building manager knew about neither.** One person held the entire tenancy picture; the other arm of management, the one police spoke to on the night and the one Cory checked with, held none of it.
+
+### 5B.3 — The conflict inside the leasing manager's own correspondence
+
+On **21 February 2025** Ms Arase wrote to Cory:
+
+> *"You sent me the form 13 'Intention to leave' with your signature therefore my understanding is you decided to leave the unit **and Alexia to stay**."*
+
+On **5 December 2024** — seven weeks earlier — Ms Negro gave Ms Arase a notice ending her own tenancy interest, and Ms Arase replied accepting it.
+
+**Ms Negro cannot both have ended her interest in December and be "staying" in February.** Those two positions are irreconcilable, and the same person holds both, in her own correspondence, seven weeks apart.
+
+This needs explaining rather than assuming. It may be an administrative error, or the two matters may never have been connected internally, or the notice may have been treated as withdrawn or ineffective. But it is a documentary conflict within one witness's own file, and it is the conflict that produced the picture Cory was acting on.
+
+It is also, on this material, the most likely source of what Const. Davies described on his own camera:
+
+> *"that's really tricked him."*
+
+**Two documents to put side by side:** the 21 February 2025 email, which Cory already holds, and the 5 December 2024 notice and acceptance, which he does not. That pairing is the object of the exercise.
+
+### 5B.4 — The goods themselves
 
 Cory says he holds receipts for the contents of the home. He said the same thing to Const. Harmer within hours of the entry: *"every single thing you see here, I bought. I got [receipts] for everything."*
 
@@ -161,7 +207,7 @@ That matters in three ways:
 
 **So on the prosecution's own evidence, the only item in dispute is the dog.** The furniture and contents were expressly authorised by the person present. That narrows Charge 1 to exactly one question and confirms that the entry itself was not the problem.
 
-### 5B.2 — Collect the receipts now
+### 5B.5 — Collect the receipts now
 
 They are a discrete, self-contained bundle that costs nothing to assemble and that nobody has to produce for him. Worth doing while the other requests are outstanding:
 
