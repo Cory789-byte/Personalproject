@@ -30,6 +30,23 @@ Cory has no funds for Report B. This **re-bases the whole plan**. Consequences a
    had on the Regulator; the existing medical material (Review Decision 69983 findings; Hawes
    mechanism; the ECC 3 Jul 2026 stressors and "exacerbated on exposure"; the Feb 2025 report as
    provenance only, ⛔ never as opinion).
+5A. ⛔⛔ **DO NOT RUN REPORT B ON MSH'S FUNDING.** (Question raised 14 Aug; answer recorded so it
+   is not revisited.) MSH funding is for **its own** capacity inquiry. Putting the causation
+   report on that invoice would: (a) misuse the employer's funding; (b) falsify his **declared**
+   position that Report A is silent on aetiology; (c) destroy Report B's independence — "who paid
+   for this report, and on whose instructions?" is the first question in cross, and the letter of
+   instruction's own Q6.4 requires a complete sources list, so the trail surfaces; (d) expose the
+   treating psychiatrist professionally, for a relationship Cory needs for years. **The scopes
+   stay separate — that decision stands.**
+   ⭐ **THE LEGITIMATE VERSIONS of the same instinct:** (i) MSH funds the RFMI/capacity report it
+   requested — ask this week; (ii) the 12 Aug **attendance has already occurred**, so Report B's
+   marginal cost is the *writing*, not a fresh assessment — **ask the practice for a report-only
+   fee on that basis** before assuming it is unaffordable; (iii) payment plan / invoice on
+   settlement; (iv) a firm funds it as a disbursement.
+   ⭐ Note also: the MSH-funded capacity report, once written, is specialist medical evidence
+   about him obtained at the employer's expense — diagnosis, history, treatment, functional
+   impact — even though it does not opine on aetiology. It partially fills the gap for free.
+   ⛔ But do NOT attempt to steer it toward aetiology; that is the same error in a subtler form.
 6. **Calderbank #3 must be re-based.** It can no longer be timed "≈4 weeks after Report B". Either
    (a) re-time it behind representation/funding, or (b) re-base it on the enlarged record as it
    stands — the bundle, the admissions and the Review Decision — accepting it prices lower
