@@ -5637,3 +5637,20 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   compensability — do not assume the appeal's strength transfers.
 - Costs-risk check added: before signing with any firm, get in writing what happens on an
   unsuccessful appeal and who carries disbursements.
+
+## 14 Aug 2026 — THE PREDICTIVE CYCLE built (`skill/references/PREDICTIVE-CYCLE.md` v1.0)
+- A standing, re-runnable model replacing one-off analysis. Contains: the four-hypothesis set with
+  confidence levels and ⭐ named DISCRIMINATING TESTS (H1 coordinated medicalised exit 35% ·
+  H2 uncoordinated drift 35% · H3 risk-managed containment 20% · H4 genuine but incompetent
+  duty-of-care 10%); the actor model (authority, demonstrated pattern, what each can and cannot
+  deliver, predicted next move, handling); the SIGNAL REGISTER of leading indicators with the
+  confidence shift and action each triggers; the scenario set with probabilities (S1 negotiated
+  exit 40% · S2 practical resolution 20% · S3 stalemate 25% · S4 formal medical separation 10% ·
+  S5 collapse 5%); the INTERSECTION SET (the ten actions correct under every hypothesis); the
+  9-step UPDATE PROTOCOL; the dated decision gates; and a FALSIFICATION LOG.
+- ⭐ Method rule adopted: hold competing hypotheses, never a single theory; act on the
+  intersection; name the falsifying observation in advance.
+- Falsification log opened and scored honestly — including one partly-wrong prediction (I
+  under-predicted the speed and seniority of MSH's 13 Aug response).
+- **The protocol is to be RE-RUN on every new item** (email, document, payment, or a deadline
+  maturing in silence), updating the file in place and bumping the version.
