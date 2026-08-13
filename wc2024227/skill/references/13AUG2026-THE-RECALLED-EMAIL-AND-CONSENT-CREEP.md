@@ -129,6 +129,38 @@ process, the meeting). She cannot deliver the basis of the inquiry or the baseli
 above her, with Hughes. Keep the formal questions addressed to the organisation and keep her
 lane warm.
 
+### 6B — WHAT HER SENIORITY MEANS
+1. **The 12 Aug email escalated the file within 24 hours.** Harrison = Injury Management
+   Consultant. Roberts = **Principal Consultant, Human Resources** — a level or two up. The
+   matter is no longer line-manager/injury-management administration; it is on the HR leadership
+   radar.
+2. ⭐⭐ **SENIOR KNOWLEDGE IS NOW ESTABLISHED, IN WRITING, DATED.** From 13 Aug 2026 MSH cannot
+   say the position was not known at an appropriate level: no wages, hardship, the union engaged,
+   a current fitness certificate, four unanswered questions, and the specialist's requirements
+   are all now in front of a Principal Consultant HR. Every day after 13 Aug is a day of
+   *informed* institutional inaction.
+3. **Her seniority converts the "medical evidence" sentence from a slip into a POSITION.** A
+   junior officer's stray line is an error; a Principal Consultant HR stating that the medical
+   evidence does not support fitness is the organisation speaking. That amplifies both its
+   damage to them (predetermination stated at level) and its risk to him (the seed of an
+   incapacity finding). It must be answered once, calmly, on the record.
+4. **The recall becomes a considered act.** A Principal Consultant knows the rules; a 3-minute
+   self-recall at that level means the content was, in an experienced HR judgement, materially
+   problematic.
+5. **She has been through the myHR record** (leave balances screenshot, "Balance as of
+   13.08.2026") — she has done homework, and the QSuper knowledge now sits at senior HR level,
+   not only in injury management. → privacy inventory.
+6. ⚠ **She may have been deployed BECAUSE of the rapport.** Sending the officer the employee
+   trusts is standard practice and is not necessarily cynical — but it means warmth in the room
+   must never substitute for an answer on paper.
+   ⭐ **THE DIAGNOSTIC:** if the four questions are answered **in writing before 21 August**, the
+   engagement is genuine. If everything is deferred to "we'll discuss it at the meeting", it is
+   containment. Watch which happens; it will tell him more than anything said in the meeting.
+7. **Timing:** she is on leave until ~Tue 18 Aug; confirmation of the meeting due COB Wed 19 Aug;
+   meeting Fri 21 Aug — the same day the extended RFMI window closes; cl 10.3.6 deemed refusal
+   Mon 24 Aug. The 21st is evidently the pivot date in MSH's internal calendar.
+8. **Standing discipline:** *the relationship is real; it is not a substitute for the instrument.*
+
 ## 7. ⛔ PROHIBITIONS
 1. ⛔ Do not consent to applying other leave entitlements — in any form, including "just the
    recreation leave for now".
