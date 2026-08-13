@@ -149,6 +149,29 @@ So:
 
 There is a further consequence in the first branch. If he was a departing tenant whose goods remained at the premises, the lessor could not simply keep them — the Act sets out how goods left at premises are to be dealt with. Preventing a departing tenant from collecting his goods, and then retaining them, engages that framework as well.
 
+### 5B.0 — A notice of intention to leave is not a departure
+
+The Form 13 never operated, and the reason is simple: **he never moved out.**
+
+A notice of intention to leave is exactly what its name says — notice of an intention, with a handover day. A tenancy interest ends when the tenant actually goes: hands over possession, returns the keys, removes the goods, completes the exit condition report, and has the bond dealt with. Until that happens the notice is a statement about the future, not a change of status.
+
+Every objective indicator says he never went:
+
+| Indicator | What the record shows |
+|---|---|
+| **His goods** | Still in the premises on 23 February 2025 — which is why the Form 9 Entry Notice was issued four days earlier and why a van was loaded that night. Tom Balsey confirms it was loaded and unloaded at his house the next morning. Ms Phillips's own words: *"get the bed and the coach and to take them"* |
+| **His keys** | Retained and working. Const. Davies on the seizure: *"the only keys we ended up seizing off him were the unit keys… a master key for that Scion unit… it gets into everywhere in that building"* |
+| **His building access** | Still under his control. At 3:26 a.m. police asked the building manager to **reactivate** the fob — you do not reactivate the access of a person who has moved out |
+| **His bond** | Still lodged in his name, $2,160, no refund of rental bond ever processed |
+| **The arrival briefing** | Const. Easthope, 2:00 a.m.: *"it's his lease, his bottom and it's his key"* |
+| **Exit formalities** | No exit condition report, no final inspection, no handover recorded — **to be confirmed by their absence in the produced file** |
+
+A tenant who has vacated does not leave every item of furniture behind, keep a working master key, retain building access, and leave the bond sitting in his name. **On the physical record he never left, so the notice never took effect.**
+
+This also answers the prosecution's own framing on its own terms. They say the Form 13 was *"accepted"*. Acceptance of a notice of intention is not the same as the tenant having gone. What ends the interest is the going, and it never happened.
+
+**So on this record only one instrument actually operated to end anyone's interest in the tenancy: the Form 20 given by Ms Negro on 5 December 2024.**
+
 ### 5B.1 — On the building manager's own description, the Form 13 pathway was never completed
 
 Mr Constable was not speaking abstractly when he told Const. Easthope a Form 13 does not terminate the lease. He set out the actual steps and said where the process had got to:
@@ -437,6 +460,42 @@ Before any of this is put in a submission:
 - [ ] The scope of the confidentiality restriction and its exceptions, including production required by law
 - [ ] Whether a co-tenant can be removed by notice at all, or only by tribunal order
 - [ ] What supporting evidence was required, and what was supplied on 5 December 2024
+
+---
+
+## 11A. The tenancy in plain terms
+
+The whole position in one sequence.
+
+1. **The agreement commencing 11 April 2024 named Cory as Tenant 1.** It ran to 10 April 2025.
+2. **The occupancy was a temporary arrangement made by the tenant.** Ms Negro and her mother were staying with his permission — Ms Phillips's own account puts Ms Negro's mother at the unit for about three months. Ms Phillips herself arrived on 15 February 2025 as a further guest. None of them held an interest in the tenancy.
+3. **He signed a Form 13 while he was unwell and bereaved.** He had been diagnosed with major depressive disorder. His grandmother had died, and he had travelled for the funeral — it was around that time that he agreed she could stay two to three weeks, the arrangement Const. Davies later described on his own camera as having *"tricked him."*
+4. **The Form 13 never operated, because he never moved out.** His furniture, his keys, his building access and his bond all stayed exactly where they were (§5B.0).
+5. **The process the Form 13 belonged to was never completed either.** The building manager set out the steps — both tenants sign, then a further form for the bond — and said it *"hasn't even started."* The untouched bond proves the second stage never happened (§5B.1).
+6. **On 5 December 2024 Ms Negro gave the leasing manager a notice ending tenancy interest, and it was accepted.** Seven days later her interest ended. From that point she was in the premises as a guest of the remaining tenant.
+7. **The order pointed the same way.** It required her to vacate and collect uncontested items only. Const. Davies read it that way himself: *"the dvo the way it is written does sort of indicate that it's actually uh alexia was one who's meant to leave."* She instead stayed, and took contested items.
+8. **All of the contents were his**, bought by him, with receipts — and on 23 February the person present expressly told him to take the furniture.
+9. **He was never told about the Form 20**, and the arm of management he checked with had never been told either.
+10. **On 10 April 2025 she signed a new sole-tenant agreement** — seven weeks after the conduct charged, and the day the earlier agreement expired.
+
+**Only one instrument in that sequence actually ended anyone's interest, and it was not his.**
+
+---
+
+## 11B. The condition he was in
+
+This belongs in the record because two documents were obtained from him during it, and because it bears on the mental element in both surviving charges.
+
+- He had been **diagnosed with major depressive disorder**, and was prescribed and taking medication for it.
+- **His grandmother died**, and he travelled for the funeral. It was around that time that the two-to-three-week arrangement was made.
+- The **protection notice** was issued on 1 December 2024, and the two documents relied on against him — the dog transfer of 17 December 2024 and the Form 13 — both come from the weeks that followed.
+- The same protection notice then recited his **mental illness** as the reason he was dangerous.
+
+So the sequence is: a bereavement, a diagnosed depressive illness, a protection notice, and then two signatures obtained inside a few weeks — each of which is now relied on against him, by the person who knew about the diagnosis and told police about it.
+
+That is the *Amadio* pattern — a special disadvantage, known to the other party, and advantage taken of it. It is also, more simply, the answer to why a man signed things that were not in his interest.
+
+Handle it accurately and without embellishment. The medical records establish the diagnosis; the funeral is a fact he can prove; and Const. Davies's own recorded word for what happened is *"tricked."*
 
 ---
 

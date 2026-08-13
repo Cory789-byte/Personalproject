@@ -162,6 +162,8 @@ Suggested schedule of documents — to be settled by the solicitors:
 5. Any tenancy agreement for Unit 104 commencing on or about 10 April 2025, and any application, approval or reference documents relating to it.
 6. All correspondence between the agency and Alexia Negro, and between the agency and Cory Shepherd, relating to the tenancy between 1 November 2024 and 30 April 2025.
 7. The tenancy ledger for the premises for the same period.
+7A. Any exit condition report, final inspection report, key or fob return record, or handover record for the tenancy. **Their absence is as significant as their content** — it establishes that no departure ever occurred, and therefore that the notice of intention to leave never took effect.
+7B. All records of what was communicated to the remaining tenant when any notice ending tenancy interest was received or accepted, including the date and form of that communication.
 8. Any statement or draft statement provided to the Queensland Police Service in relation to this tenancy, and any correspondence with police about it.
 
 Item 8 matters. If the leasing manager gave the statement the prosecution now relies on, its date and the circumstances in which it was taken are directly relevant, given what the same agency told two officers on camera on the night.
