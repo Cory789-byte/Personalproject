@@ -4,12 +4,23 @@
 
 **Everything goes in the repo, not just in chat.** If a question is asked and answered, the answer belongs in a file — chat is lost, the repo is not.
 
-- Substantive answers → a document under `source_documents/`, or a new section in the relevant existing one.
+- Substantive answers → a document in the folder for that matter (see routing below), or a new section in the relevant existing one.
 - Corrections, reassessments, and changes of position → written into the affected document, not just mentioned.
 - Anything asked more than once → it was not written down properly the first time. Fix that.
 - Commit and push each time.
 
 Chat should summarise what was written and where, not carry the content by itself.
+
+## Two separate matters in this repo — do not cross-pollinate
+
+| Working on | Folder | Read first |
+|---|---|---|
+| QPS criminal charges, human rights, CCC, tenancy | `source_documents/` | `source_documents/README.md`, then this file |
+| Workers compensation appeal WC/2024/227 (QIRC) | `wc2024227/` | **`wc2024227/CLAUDE.md`** — it governs, and its discipline rules override anything here |
+
+`wc2024227/` carries its own non-negotiable rules, including that the reprisal and fraud narrative never reaches WC-track paper and that the parallel tracks stay sequenced behind the WC settlement. **Answers about the WC matter go in `wc2024227/`, follow that folder's rules, and are appended to its `working-notes.md`.** Do not import QPS material into WC paper, and do not import WC material into the QPS documents.
+
+The guardrails below apply to the QPS matters. The WC matter has its own.
 
 ## The matters
 
