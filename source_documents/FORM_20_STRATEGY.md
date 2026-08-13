@@ -96,6 +96,100 @@ That connects the tenancy change directly to the discredited foundation, and it 
 
 ---
 
+## 5A. What follows if the Form 20 removed her
+
+Taking scenario A at its highest, and working out the consequences.
+
+### 5A.1 — After the notice took effect she had no tenancy interest
+
+If the notice was given on 5 December 2024 and takes effect after the statutory minimum period — understood to be seven days — then from about **12 December 2024** Ms Negro held no interest in the tenancy of Unit 104.
+
+Cory was the sole remaining tenant under the agreement commencing 11 April 2024, which ran to 10 April 2025.
+
+From that date her presence at the premises was not as a tenant. It was by the permission of the person who did hold the tenancy.
+
+### 5A.2 — Which means Ms Phillips had no standing at all
+
+Ms Phillips moved in on 15 February 2025 at Ms Negro's invitation. If Ms Negro had no tenancy interest by then, Ms Phillips was a guest of a person who was herself only a guest.
+
+Cory told Const. Harmer on the night, within hours: *"I said she cannot stay here and she's still staying here."*
+
+And Ms Phillips confirmed her own position on Const. Easthope's camera: *"I don't have any forms that show that I'm on the lease here."*
+
+**The point is standing to exclude, and it should be put that narrowly.** A person with no interest in the tenancy cannot lawfully exclude the tenant. That is different from saying Cory could have removed her — he could not, self-help eviction is not available, and he did not attempt it. He entered, collected property, and left.
+
+What the prosecution's case requires is that Ms Phillips had authority to refuse the tenant entry. On this analysis she had none, and neither did the person who installed her.
+
+### 5A.3 — The order pointed the same way
+
+The order in force required **Ms Negro** to vacate and collect uncontested items. Cory told Const. Harmer that on the night: *"the TP order actually tells her to get her things and leave… for her to come in and collect her things and leave."*
+
+Const. Davies read it the same way on his own camera: *"the dvo the way it is written does sort of indicate that it's actually uh alexia was one who's meant to leave."*
+
+So two separate instruments — the order and the Form 20 — both pointed to her leaving. She instead remained in occupation through a houseguest, and the tenant was locked out.
+
+---
+
+## 5B. The Form 13 dilemma — the prosecution cannot have it both ways
+
+This is independent of the Form 20 and works on the prosecution's own assertion.
+
+Their first reason is that Cory sent a Form 13 notice of intention to leave, *"this was accepted, he was removed."*
+
+A notice of intention to leave is a notice that the tenant will **vacate**. Vacating means removing your goods. It is not an abstract change of status — it is a physical process with a handover, and the tenant must be able to get to their property to complete it.
+
+So:
+
+| If the prosecution says | Then |
+|---|---|
+| The Form 13 was accepted and operative | Cory was a **vacating tenant**, with both the right and the obligation to remove his goods. The Form 9 Entry Notice of 19 February 2025 facilitated precisely that. Entering to collect his property was the lawful completion of the very process they say he set in motion — and denying him access frustrated it. |
+| The Form 13 was not operative | He **remained a tenant**, and entry was lawful on that footing. |
+
+**Either way, entering to collect his own property was lawful.** The prosecution has to pick one, and both answers defeat the same element.
+
+There is a further consequence in the first branch. If he was a departing tenant whose goods remained at the premises, the lessor could not simply keep them — the Act sets out how goods left at premises are to be dealt with. Preventing a departing tenant from collecting his goods, and then retaining them, engages that framework as well.
+
+### 5B.1 — The goods themselves
+
+Cory says he holds receipts for the contents of the home. He said the same thing to Const. Harmer within hours of the entry: *"every single thing you see here, I bought. I got [receipts] for everything."*
+
+That matters in three ways:
+
+1. **It establishes the purpose of the entry.** He was collecting his own property, under a Form 9 Entry Notice issued by the lessor's agent four days earlier. Tom Balsey confirms a van was loaded and unloaded at his house the next morning.
+2. **It empties the "contested items" question.** The order permitted collection of uncontested items. Items with receipts in his name are not genuinely contested.
+3. **The prosecution's own witness authorised it.** Ms Phillips at ¶11 of her statement: *"I told Cory to get the bed and the coach and to take them and leave if that was what he was there for."* On Const. Davies's camera: *"I told him to take what he wanted just leave the pets like leave the dog."*
+
+**So on the prosecution's own evidence, the only item in dispute is the dog.** The furniture and contents were expressly authorised by the person present. That narrows Charge 1 to exactly one question and confirms that the entry itself was not the problem.
+
+### 5B.2 — Collect the receipts now
+
+They are a discrete, self-contained bundle that costs nothing to assemble and that nobody has to produce for him. Worth doing while the other requests are outstanding:
+
+- purchase receipts and card or bank statements for the contents;
+- the Romeo breeder receipt and the Gold Coast City Council registration;
+- delivery records or order confirmations;
+- photographs of the contents in place at the premises.
+
+---
+
+## 5C. The tension to be honest about
+
+On 24 February 2025 Mr Constable told Const. Easthope, of Cory and Ms Negro: *"They're both allowed to be there, but the third party…"*
+
+If the Form 20 had ended her interest in December, why was the building manager saying in February that both were allowed to be there?
+
+Possible explanations, none of which can be assumed:
+
+- The Form 20 went to **Ms Arase, the leasing manager at the agency**. Mr Constable is the **building manager**. They are different roles and there may have been no communication between them — which would be consistent with his statement on the same recording that the termination process *"hasn't even started and we're not aware of it."*
+- The notice may not have been treated as effective.
+- He may have been speaking loosely about who could be present rather than about tenancy status.
+
+**This has to be resolved rather than glossed over**, because it is the first thing an opponent will find. Two questions go into the notice to produce: to whom was the Form 20 given, and what was done to record and communicate it internally.
+
+Note also that the tension cuts both ways. If the building manager did not know a co-tenant's interest had ended, that is further evidence that nobody told the remaining tenant either.
+
+---
+
 ## 6. Every route to obtaining it, ranked
 
 ### Route 1 — The prosecution's own disclosure obligation ★ start here, costs nothing
@@ -226,7 +320,9 @@ Before any of this is put in a submission:
 - [ ] Form 20 is the notice ending tenancy interest under the RTRAA
 - [ ] The notice ends the **giver's** interest, not another tenant's
 - [ ] The tenancy continues for remaining co-tenants
-- [ ] The minimum period before it takes effect, and therefore the effective date of a notice given 5 December 2024
+- [ ] The minimum period before it takes effect — believed to be seven days — and therefore the effective date of a notice given 5 December 2024
+- [ ] To whom the notice was given, and what the agency was required to record and communicate internally
+- [ ] How goods left at premises by a departing tenant must be dealt with
 - [ ] What the agency must do about the bond
 - [ ] Whether the agency must notify remaining tenants, and in what terms
 - [ ] The scope of the confidentiality restriction and its exceptions, including production required by law
