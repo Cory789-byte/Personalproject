@@ -3,6 +3,38 @@
 > bundle served and MSH's first substantive response received. Supersedes earlier sequencing
 > notes where inconsistent.
 
+## 0-PRE. ⛔⛔ CONSTRAINT ADDED 13 AUG — REPORT B IS UNFUNDED AND IS NOT AN OPTION NOW
+Cory has no funds for Report B. This **re-bases the whole plan**. Consequences and corrections:
+1. ⭐ **The union framework is NOT affected.** Petering's sequence turns on the **employer's**
+   report (the RFMI capacity response), not on Report B. The employment track, the meeting, the
+   wage claim and the dispute all proceed untouched.
+2. ⭐⭐ **ASK MSH TO FUND THE REPORT IT REQUESTED.** A report requested by an employer is
+   ordinarily at the employer's cost. Add to the next letter: *"I am not in a position to fund a
+   report the Health Service has requested, particularly while unpaid since 13 July. Please
+   confirm the Health Service will meet the practitioner's cost of responding, and the process
+   for that."* If they fund it, the RFMI proceeds at no cost to him. If they refuse or ignore it,
+   the RFMI stalls **on their refusal to fund their own inquiry** — which is a far better record
+   than a stall attributed to him.
+3. **Report B is DEFERRED, not abandoned.** Keep the letter of instruction alive. Ask the
+   practice about a **payment plan or deferred/on-settlement invoicing** — many practices will
+   consider it; the ask costs nothing and has not yet been made.
+4. ⭐⭐ **THE REPRESENTATION OPTION IS NOW THE SERIOUS ONE.** The preserved **common-law personal
+   injury claim** (deed cl 8, unqualified, scheme-insured) is the commercial hook that makes a
+   plaintiff firm interested. A firm taking the matter on a no-win-no-fee basis funds medical
+   evidence as a disbursement. The record is now strong enough to present: admitted facts (Form
+   24), the Review Decision findings, the 1(a) particulars bundle, the three Hughes approvals,
+   the exclusion and non-payment. **Approach firms with a 2-page summary; the answer to "who pays
+   for the report" may be "the firm does".**
+5. **What still runs with no money:** the whole employment track; the ART item 4 claim (GP
+   certificates are Medicare-rebated, not medico-legal); the effect the 1(a) bundle has already
+   had on the Regulator; the existing medical material (Review Decision 69983 findings; Hawes
+   mechanism; the ECC 3 Jul 2026 stressors and "exacerbated on exposure"; the Feb 2025 report as
+   provenance only, ⛔ never as opinion).
+6. **Calderbank #3 must be re-based.** It can no longer be timed "≈4 weeks after Report B". Either
+   (a) re-time it behind representation/funding, or (b) re-base it on the enlarged record as it
+   stands — the bundle, the admissions and the Review Decision — accepting it prices lower
+   without a reasoned s 32(1) opinion. **Decision required; do not let it drift.**
+
 ## 0. THE CRITICAL PATH — everything routes through one question
 **Is Report B blocked, or only the employer's report?** Dr Krishnaiah's precondition (identify
 the basis; confirm the baseline) is a proper response to **MSH's RFMI**. It has no application to
