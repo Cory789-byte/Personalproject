@@ -125,6 +125,85 @@ enquiry 4438861. **Four dated, specific asks with a deadline; none addressed.**
    the RFMI of 31 July, signed by the same officer, asserting **permanent full-time, 76 hours**.
    Either construction produces wages payable (see THE-LONG-PATH closed fork).
 
+## C2. SECOND PASS — findings from re-reading BOTH emails together (14 Aug)
+
+**S1 ⭐⭐ THE INTERNAL CONTRADICTION — 54 MINUTES APART.**
+- **15:48 (Harrison):** thanks him for consent "for me to speak and correspond with your treating
+  doctor **in relation to our request for further medical information**"; attaches the Employee
+  Authorisation Form; wants a call. ⇒ **The medical question is OPEN and more information is
+  being gathered.**
+- **16:42 (Roberts):** "the medical evidence provided to date **does not support**" his fitness.
+  ⇒ **The medical question is CLOSED.**
+Both cannot be true. Either the Health Service has enough to decide — in which case the inquiry,
+the authorisation form and the request to correspond with his doctor are unnecessary — or it does
+not, in which case the conclusion at 16:42 was not open to be stated. **This is the sharpest
+single defect in the 13 August correspondence and it is visible on the face of two emails sent
+from the same mailbox within the hour.**
+
+**S2 ⭐ BOTH EMAILS WERE SENT FROM `LBH_InjuryManagement@health.qld.gov.au`** — including the pay,
+leave and meeting email from a **Principal Consultant, Human Resources**. There is no employment
+channel; even the wages conversation runs through injury management. This is the classification
+finding proved again, structurally.
+
+**S3 ⭐ The 16:42 email did NOT copy the treating practice.** Harrison's reply (in-thread) kept
+Mind and Memory on. Roberts started a **new thread** and copied the union and HR but not the
+doctor. So a statement characterising his medical evidence went to his union and not to the
+practitioner whose evidence it characterises.
+
+**S4 ⭐ A new thread, outside the tracked reference.** Subject "Follow up on Enquiries" — no
+MSH-INJ5795, no RFMI reference. The pay and leave conversation now sits outside the
+injury-management thread while being sent from the injury-management mailbox.
+
+**S5 ⭐ SELECTIVE ENGAGEMENT.** Harrison's 15:48 reply extracts the single useful item from the
+12 August email — the consent — and does not engage the two requirements that were its entire
+substance. Neither email states the basis of the inquiry, confirms the working arrangement, or
+acknowledges the doctor's requirements as requirements.
+
+**S6 ⭐ ROBERTS DESCRIBES AS PROSPECTIVE WHAT HAS ALREADY HAPPENED.** "This leave **would**
+ordinarily be processed as sick leave… it **will** automatically be processed as sick leave no
+pay." It already has been: the payslip of 12 August records 76.00 hrs "NP Sick Leave", $0.00, for
+20 Jul–2 Aug. Either a Principal Consultant HR did not know the coding was already applied, or she
+was reciting the general rule. Either reading supports the same conclusion: **the coding was
+applied below HR level — by the system or by the manager — not by a considered HR decision.** No
+decision-maker, again.
+
+**S7 ⭐ CONSENT-LOCKING LANGUAGE.** "Thank you for providing your consent… **it is greatly
+appreciated**." Gratitude converts a contested scope into a settled fact and makes correcting it
+feel ungracious. Then: "it may be helpful to **explain the form** in a little more detail and
+provide you with **some clarity** about it" — which reframes his not signing as a
+*misunderstanding* rather than a *decision*. ⛔ Correct the scope in writing regardless of how the
+gratitude lands; do it warmly, but do it.
+
+**S8 The phone number request.** His mobile appears in the signature block of the 12 August email
+being replied to. Asking for "the best phone number" creates a record of the employee being asked
+for contact details. ⚠ Note it; do not over-read it; do not allege anything.
+
+**S9 ⚠⚠ THE SOLV NOTICE — A PRACTICAL RISK HE MUST ACT ON.** Harrison's footer: MSH is
+transitioning to **Solv**, a new Injury Management Case System; communications "may" come from
+**@solv.com.au**; "please ensure you are regularly checking your **Junk folder**". ⭐ **ACTION:
+whitelist @solv.com.au and check junk daily.** A deadline-bearing communication landing in junk
+is a live risk. ⭐ Also: a third-party system will hold his injury-management data → PRIVACY
+INVENTORY. And it explains why Solv was copied on the 31 July RFMI.
+
+**S10 She wrote while on leave.** "My availability is a little limited at the moment as I am on
+leave for the next few days… I will be returning to work on Tuesday." A Principal Consultant
+writing from leave indicates the file was treated as urgent — consistent with escalation on the
+12 August email.
+
+**S11 One day offered.** She returns Tuesday 18 August but offers only **Friday 21 August**, in
+two slots. The 21st is also the day the extended RFMI window closes. Possibly diary reality;
+note it without asserting design.
+
+**S12 THE COMPLETE SILENCE.** Across both emails: no AVAC, no basis, no baseline, no return, no
+reason for non-return, no reference to payroll enquiry 4438861, and **no acknowledgement of the
+hardship paragraph** — except obliquely, in "to avoid not being paid".
+
+**S13 A REFINED (NOT ASSERTED) HYPOTHESIS FOR THE RECALL.** The most coherent explanation now
+available is S1: an officer writing from leave, outside the tracked thread, stated a conclusion
+that cut across the live inquiry her colleague had advanced 54 minutes earlier. That is precisely
+the kind of thing that is spotted on a re-read and pulled within three minutes. ⛔ It remains a
+hypothesis. Never assert it, never put it to them, never speculate in writing.
+
 ## D. DELIVERY RULES
 1. ⛔ Attribute to "the Health Service". Never "Jacqui said".
 2. ⛔ Never run the recall as a gotcha or speculate on why it was recalled.
