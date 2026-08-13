@@ -10,6 +10,7 @@ What each document is, what it is for, and where it is used. Newest position fir
 |---|---|---|
 | [`ASSESSMENT_2026-08-13.md`](./ASSESSMENT_2026-08-13.md) | Candid assessment of every matter. Evidence ranked in three tiers; the problems in the existing file; what would change the position; open questions. | Deciding what to do next. Read before anything else. |
 | [`PROSECUTION_RESPONSE_NOTE_2026-08-13.md`](./PROSECUTION_RESPONSE_NOTE_2026-08-13.md) | Response to the prosecution's answer on the three charges. Charge 2 discontinued; answers to each reason given on Charge 1; the tenancy and bond points; acts outside power; nine disclosure requests. | Sending to Sibley Lawyers. The requests at Part 7 are the action list. |
+| [`TENANCY_DOCUMENTS_STRATEGY_2026-08-13.md`](./TENANCY_DOCUMENTS_STRATEGY_2026-08-13.md) | How to obtain the Form 20, the bond records and the later lease — and why the leasing manager must not be written to personally. Includes the possibility that the Form 20 ended **Ms Negro's** interest, not Cory's. Draft preservation letter and schedule of documents. | Before any contact with the agency. |
 
 ---
 
