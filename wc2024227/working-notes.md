@@ -5614,3 +5614,26 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
 - **NOTHING has been paid or answered**: no AVAC, no basis, no baseline, no return, no reason for
   non-return, no response to payroll enquiry 4438861. In seven weeks the only offers are a meeting
   and an invitation to spend his own leave.
+
+## 13 Aug 2026 — funding constraint and representation research
+- ⛔ **Cory has no funds for Report B.** Plan re-based (see `THE-LONG-PATH-13AUG2026.md` §0-PRE).
+  Key corrections: the union framework is UNAFFECTED (it turns on the employer's RFMI report, not
+  Report B); MSH should be asked to fund the report IT requested; Report B is deferred not
+  abandoned; representation elevated to the serious option; Calderbank #3 must be re-timed or
+  re-based (decision open).
+- **Research banked at `skill/references/FUNDING-AND-REPRESENTATION-OPTIONS-13AUG2026.md`.**
+  Headlines: the statutory appeal alone is a weak commercial proposition; the **preserved
+  common-law claim (deed cl 8, scheme-insured)** is the hook. ⭐ **Hall Payne** (union-side,
+  conditional fees) via a **Petering referral** is the best first call; **Legal Aid Qld Employment
+  Law Service 1300 65 11 88** (free advice, sometimes QIRC representation, means-tested — he has
+  nil income) is the best free call for the employment track; **LawRight** for pro bono/discrete
+  task; **Caxton** for triage.
+- ⚠⚠ **NEW HARD DATE: common-law limitation ≈ 18 June 2027** (3 years from the pleaded injury of
+  18 Jun 2024), with WCRA Ch 5 notice steps required well before. → clocks register.
+- ⚠ Public sources still quote the pre-2019 "major significant contributing factor" test for
+  psychiatric injury. ⛔ Do not adopt — this file's ATT26 verification (a significant contributing
+  factor) governs.
+- ⚠ Common law requires **negligence/breach**, a different and harder question than s 32(1)
+  compensability — do not assume the appeal's strength transfers.
+- Costs-risk check added: before signing with any firm, get in writing what happens on an
+  unsuccessful appeal and who carries disbursements.
