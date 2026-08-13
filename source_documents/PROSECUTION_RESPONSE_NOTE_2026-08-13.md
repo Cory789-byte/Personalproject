@@ -44,6 +44,50 @@ That is a single point of failure for the entire prosecution. It is also the poi
 
 ---
 
+## 2A. What is left is a civil dispute being run inside a criminal proceeding
+
+With Charge 2 gone, this is no longer a description of how the case feels. It is a description of what the court is now being asked to decide.
+
+**The prosecutor's own three reasons are three civil-law propositions.** Not one of them is a criminal proposition:
+
+| Reason given | What kind of question it is | Where it belongs |
+|---|---|---|
+| "a form 13 notice of intent to remove from a tenancy, this was accepted, he was removed" | Whether a residential tenancy was validly terminated | RTA / QCAT |
+| "prior to the offending he clarified if he was on the lease. He was not" | Who was a party to a general tenancy agreement | RTA / QCAT |
+| "The property (dog) belonged to the complainant" | Title to property acquired during a de facto relationship, and the effect of a transfer obtained on 17 December 2024 | Civil / equity |
+
+To convict on Charge 1 the court must find that an indictable offence — stealing — was committed inside the premises. To do that it must decide **who owns the dog**, and whether the registration transfer of 17 December 2024 has any effect given the circumstances in which it was obtained. Those are property and equity questions.
+
+To convict on Charge 3 the court must find a contravention of an order whose only conditions were good behaviour and no domestic violence. The conduct said to contravene it is the same act — taking the dog. So Charge 3 collapses into the same property question.
+
+And underneath both sits a third civil question — whether the tenancy had ended — which is the RTA's and QCAT's jurisdiction, and which turns on documents (the bond record, the new lease) that a criminal brief does not gather.
+
+**The complainant said so herself, in writing, four days before the alleged offence:**
+
+> *"a legal civil case that he is required to obtain a lawyer for and dispute me for these items"* — Ms Negro, 19 February 2025, 9:29 a.m.
+
+**And the police delivered the civil outcome directly.** Not by order, and not by any court. Possession of the unit went to her on the night. Possession of the dog went to her after the seizure, before any court order, as QPS admitted at the August 2025 hearing. The seizing officer stated the reversal of onus openly on his own camera:
+
+> *"regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back."*
+
+That is a police-administered civil remedy, granted on one party's say-so, with the burden of undoing it placed on the other party.
+
+### How the point is actually deployed
+
+It is not a standalone defence, and it should not be run as a complaint. It has three concrete uses:
+
+1. **Honest claim of right — s 22(2) Criminal Code.** This provision is the law's own expression of exactly this principle: where property is genuinely in dispute and a person acts on an honestly held claim, that is not criminal. It exists to keep civil property disputes out of the criminal courts, and it is a **complete answer** to the predicate offence. Independently, stealing under s 391 requires a *fraudulent* taking, which is very difficult to establish where title is genuinely contested.
+
+2. **The elements.** Charge 1 fails if the indictable offence fails. Charge 3 fails if the taking was not conduct directed at controlling, dominating or coercing an aggrieved who was 3,500 km away, unaware at the time, and who had herself called the dispute civil four days earlier.
+
+3. **Abuse of process — for counsel to assess.** Where a criminal proceeding is maintained for a purpose collateral to the proper invocation of the criminal law, a stay is available: *Williams v Spautz* (1992) 174 CLR 509; *Walton v Gardiner* (1993) 177 CLR 378. The threshold is high and requires a predominant improper purpose. The unusual features here are that the objective was announced before the charge existed — *"we haven't charged him yet… we're gonna put him on bowel [bail] conditions not to go back there"* — and that the civil outcome was delivered before any court considered it. Whether that meets the threshold is a matter for counsel; it should at least be assessed rather than assumed away.
+
+### The caution
+
+A civil dimension does not by itself preclude a crime. Property can be stolen from a co-owner, and orders can be contravened in the course of a property dispute. The DFVPA covers animal-related conduct deliberately, because animals are used as coercion levers in genuine cases. So "this is really civil" cannot be run on its own — it has to be run **through** s 22(2), through the elements, and (if counsel thinks it viable) through abuse of process. Framed that way it is strong. Framed as an assertion that the wrong court is hearing it, it will not go anywhere.
+
+---
+
 ## 3. The choice of s 421(2) is itself an admission
 
 s 421 has two limbs. Limb (1) is entering *with intent* to commit an indictable offence. Limb (2) is entering *and committing* one — no intent at entry required.
