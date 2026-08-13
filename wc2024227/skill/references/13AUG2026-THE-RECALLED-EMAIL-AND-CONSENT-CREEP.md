@@ -106,6 +106,29 @@ working arrangement. No return to the roster. No reason given for non-return. No
 payroll enquiry 4438861. ⭐ The **only** thing offered in seven weeks is a meeting and an
 invitation to spend his own leave.
 
+## 6A. ⭐⭐ CORRECTION — JACQUI ROBERTS IS AN ASSET, NOT A TARGET (Cory's instruction, 13 Aug)
+Cory knows Roberts, gets on with her, and **she has assisted him previously**. Re-read in that
+light, the recalled email is most likely someone **trying to help**: she offered two hours, she
+included the union unprompted, she wrote *"to avoid not being paid"*, she volunteered that the
+sick leave *"should automatically be applied, and this is something we can follow up on for you"*
+(i.e. she spotted a payroll error and offered to fix it), and the QSuper note is protective
+(avoid a double-payment recovery). The "medical evidence" sentence reads as her relaying the
+institutional position she has been given, not as personal hostility.
+⛔ **THEREFORE: the recalled email is a BRIDGE, not a weapon.** Do not run it as a gotcha, do not
+put her in a position where she must defend herself, and never suggest the recall was an
+admission. Burning her would (a) remove the only officer inside MSH currently trying to solve the
+pay problem, (b) make every other officer more cautious in writing, (c) convert a helpful
+consultant into a defensive witness.
+**Handling:** respond warmly; note receipt of both the email and the recall in one neutral
+sentence; **offer to work from a revised version if she prefers to send one** (courteous, gives
+her an exit, and any delta between v1 and v2 shows exactly what the organisation did not want in
+writing); and take up her sick-leave suggestion as *her own helpful indication* rather than as an
+admission — she said it, so she is invested in making it true.
+**Division of labour:** Roberts can plausibly deliver the PRACTICAL (pay, leave correction,
+process, the meeting). She cannot deliver the basis of the inquiry or the baseline — those sit
+above her, with Hughes. Keep the formal questions addressed to the organisation and keep her
+lane warm.
+
 ## 7. ⛔ PROHIBITIONS
 1. ⛔ Do not consent to applying other leave entitlements — in any form, including "just the
    recreation leave for now".
