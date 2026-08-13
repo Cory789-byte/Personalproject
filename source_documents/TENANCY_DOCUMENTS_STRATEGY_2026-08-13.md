@@ -4,7 +4,32 @@
 
 ---
 
-## 1. The proposed letter should not be sent
+## 0. The distinction that actually matters — subject matter, not identity
+
+**Cory can write to Ms Arase.** She was his leasing agent, he was her tenant, and he is entitled to his own tenancy records. There is no rule against contacting a witness, and asking a former agent about your own bond and your own tenancy is ordinary, lawful business. An earlier version of this note framed it as "do not write to her", which was too broad.
+
+The line is not *who she is*. It is *what the letter is about*.
+
+| Safe — Cory can send this himself | Must go through Sibley Lawyers |
+|---|---|
+| His own tenancy agreement | Anything mentioning the criminal proceeding |
+| The dates his own tenancy interest began and ended | Anything about the charges, or which of them survive |
+| The document the agency recorded as ending **his** interest | Ms Negro's Form 20 or any document about her |
+| His own bond, and any refund of it | Anything characterising the issues in the case |
+| Documents **he** signed | Anything mentioning her being a witness, or a summons |
+| His tenancy ledger | Anything offering to avoid cost or process |
+
+Everything in the left column is a former tenant asking about his own tenancy. Everything in the right column is a defendant communicating with a witness about a prosecution.
+
+**The test:** would this letter be comfortable to have read aloud in court, in full, by the prosecutor? A clean tenancy letter passes easily. The draft as written did not.
+
+The original draft crossed into the right-hand column in four separate places — it named the charges, said which had been dropped, told her the tenancy was the only remaining issue, told her she may be required as a witness, and offered to spare her a summons and its costs. Those are what created the problem, not the act of writing.
+
+A letter confined to the left-hand column can go out today, over Cory's own name. §9 has it.
+
+---
+
+## 1. The draft as written should not be sent
 
 Not in that form, and not from Cory personally.
 
@@ -214,13 +239,61 @@ Only on solicitors' letterhead, and only if they think a request is worth making
 
 ---
 
+## 9. The letter Cory can send himself, today
+
+Over his own name, as a former tenant. It mentions no charge, no proceeding, no other person, and asks for nothing that is not his own. Every item is something a tenant is ordinarily entitled to ask an agent about.
+
+> **Subject: Request for copies of my tenancy records — Unit 104, 158 Scarborough Street, Southport**
+>
+> Dear Ms Arase,
+>
+> I was a tenant of Unit 104, 158 Scarborough Street, Southport. I was named as Tenant 1 under the General Tenancy Agreement commencing 11 April 2024, and the rental bond of $2,160.00 for the premises was lodged in my name.
+>
+> I am seeking copies of my own tenancy records, and confirmation of a few details. I would be grateful if you could provide:
+>
+> 1. a copy of the General Tenancy Agreement commencing 11 April 2024, together with any earlier agreement, renewal or variation to which I was a party;
+> 2. confirmation of the date on which your records show my tenancy interest in the premises commencing, and the date on which your records show it ending;
+> 3. confirmation of the document your agency recorded as bringing my tenancy interest to an end, and the date that document was received;
+> 4. a copy of any document I signed in relation to ending the tenancy, together with any acknowledgement or reply your agency sent in response;
+> 5. confirmation of the current status of the rental bond of $2,160.00 lodged in my name, including whether any refund of rental bond has been claimed or paid, when, and to whom; and
+> 6. a copy of the tenancy ledger for my tenancy.
+>
+> I would be grateful for a response within 14 days.
+>
+> Yours sincerely,
+>
+> Cory Lea Shepherd
+
+### 9.1 — Why item 3 is the one that matters
+
+*"the document your agency recorded as bringing my tenancy interest to an end, and the date that document was received"*
+
+That is a question about **his own** tenancy status. He is entitled to ask it, and it requires no mention of Ms Negro, no mention of a Form 20, and no mention of the proceeding.
+
+But the answer necessarily discloses the position:
+
+- If the agency says his interest ended on the strength of his own Form 13 — that is the prosecution's case, stated by the agency, and it can then be tested against what the same agency told two officers on camera on the night.
+- If the agency says his interest ended on the strength of a notice given by the other tenant — that is an error of law worth exposing, because a notice ending tenancy interest ends the interest of the tenant who gives it.
+- If the agency says his interest ended on 10 April 2025 with the expiry of the agreement — the prosecution's first reason is finished.
+
+Every possible answer is useful. None of them requires asking for anyone else's document.
+
+### 9.2 — Two practical points
+
+**Tell Sibley before it goes.** Not for permission — it is his letter about his own tenancy. So that they are not surprised, and so it is on their file.
+
+**Assume it will be forwarded to police.** Write it so that would not matter. The version above is written that way.
+
+---
+
 ## 7. Order of operations
 
 1. **Request the RTA bond record.** Cory can do this himself as the bond contributor. No witness contact. Independent record. Start here today.
-2. **Send the preservation letter** through Sibley — safe, and it stops anything disappearing.
-3. **Verify what a Form 20 is and does** against the Act before relying on the point anywhere.
-4. **Notice to produce** through Sibley for the Form 20, the two tenancy agreements, the bond records, the correspondence, and any police statement.
-5. **Obtain Ms Negro's court filing** containing the later lease — a second route to the same document that does not involve the agent at all.
+2. **Send the tenant letter at §9** over Cory's own name — his own records, no mention of the proceeding. Can also go today.
+3. **Send the preservation letter** through Sibley — safe, and it stops anything disappearing.
+4. **Verify what a Form 20 is and does** against the Act before relying on the point anywhere.
+5. **Notice to produce** through Sibley for the Form 20, the two tenancy agreements, the bond records, the correspondence, and any police statement.
+6. **Obtain Ms Negro's court filing** containing the later lease — a second route to the same document that does not involve the agent at all.
 
 ---
 
