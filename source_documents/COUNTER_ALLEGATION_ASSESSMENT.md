@@ -24,6 +24,66 @@ That is the same standard the prosecution is failing to meet against Cory. It cu
 
 ---
 
+## 1A. The fraud elements, looked at properly
+
+The assessment above understated this. On a closer reading of s 408C the elements are more readily satisfied than "the mental element is a problem" suggests, and the objection needs to be stated more precisely.
+
+**Section 408C(1) creates the offence where a person *dishonestly*:**
+
+- **(d)** gains a benefit or advantage, pecuniary or otherwise, for any person;
+- **(e)** causes a detriment, pecuniary or otherwise, to any person;
+- **(f)** induces any person to do any act which the person is lawfully entitled to abstain from doing.
+
+**Paragraph (f) fits this squarely.** Cory was lawfully entitled to abstain from signing a Form 13. He was induced to sign one. Paragraph (d) covers the benefit — sole possession of the premises and the contents. Paragraph (e) covers the detriment — his home, his belongings, and the dog.
+
+So the physical elements are not the difficulty. **The single element genuinely in issue is "dishonestly."**
+
+### 1A.1 — What dishonesty requires, and why knowledge of detriment is not by itself enough
+
+Dishonesty under s 408C is judged by the standards of ordinary honest people. Knowing that your conduct will harm someone is not automatically dishonest — a creditor who forecloses knows they are causing detriment, and is not dishonest for doing it. Acting on a genuine belief in your own entitlement is not dishonest even if the belief is wrong.
+
+So "she knew what she was doing and knew it would hurt him" does not, on its own, complete the element.
+
+### 1A.2 — But a misrepresentation as to the effect of the document does
+
+The point being made is stronger than knowledge of detriment, and it should be put in its strongest form:
+
+> She represented the arrangement as temporary — two to three weeks — while knowing the true tenancy position, which he did not know, and then used the document obtained on that representation to exclude him permanently.
+
+If that is what happened, it is not merely knowledge of harm. It is **a false representation as to the purpose and effect of a document, made by the only person who knew the real position.** That is the ordinary shape of dishonesty, and it satisfies the element.
+
+Two features make it materially stronger than a bare assertion:
+
+1. **She held the knowledge asymmetrically.** She had given a Form 20 on 5 December ending her own interest. He was never told — the continuing interest notice the Act required was never given (see `FORM_20_LAW_RESEARCH.md` §4). So at the moment of the representation, she knew the tenancy position and he did not.
+2. **His vulnerability was known to her.** A recent diagnosis of major depressive disorder, a bereavement, and a protection notice served days earlier. She knew of the diagnosis — she told police about it herself, and it appears in the grounds of the protection notice.
+
+Dishonesty assessed by ordinary standards, against a person who knows the other party is unwell, grieving, and misinformed about the very thing being signed, is a different proposition from ordinary hard bargaining.
+
+### 1A.3 — Where the proof actually is
+
+The representation is the pivot. It is provable or it is not, and the evidence is identifiable:
+
+- **Const. Davies has read the messages.** On his own body-worn camera: *"i've seen the messages she said two to three weeks."* A police officer confirming on tape that he has read messages containing the representation is not a small thing.
+- **The messages themselves are on the phone QPS seized on 24 February 2025** — omitted from Field Property Receipt 137237, never forensically examined, still held.
+
+**So the best proof of the representation is in police custody and has never been looked at.**
+
+That is worth stating plainly, because it connects two things that have been treated separately. The same device holds the message about walking the dog, which goes to Charge 1, and the messages about the two-to-three week arrangement, which go to how the Form 13 was obtained. **It is the single most important item of unexamined evidence in the matter, and it strengthens the case for pressing the phone hard.**
+
+### 1A.4 — One thing to reconcile before relying on it
+
+There are two versions of "two to three weeks" in the material and they are not the same:
+
+| Source | Version |
+|---|---|
+| Cory to Const. Harmer | *"I said she could stay here 2-3 weeks"* — he permitted **her** to stay |
+| Cory later, same night | *"she tried to trick me and force me to say that she's safe and say like two to three weeks. I said, okay, two to three weeks you can stay. And then she says, you can't have it, you're finished back, you can't return"* |
+| Const. Davies, from the messages | *"she said two to three weeks can cory come and stay here two to three weeks"* — reading it as **her** inviting **him** |
+
+These may all be true at different points, or Davies may have read the thread differently. **The messages settle it, and they are on the seized phone.** Until they are produced, the representation should be described from Cory's own consistent account and from Davies's acknowledgement that the messages exist — not asserted in a fixed form that the messages might later contradict.
+
+---
+
 ## 2. Why pursuing it now would be a mistake
 
 This matters more than the legal analysis.
@@ -42,6 +102,25 @@ Making a criminal complaint against the complainant mid-prosecution would:
 ---
 
 ## 3. Where these same facts are worth far more
+
+### 3.0 — The reframe that matters most: her dishonesty is part of *his* defence
+
+This is the point that the counter-allegation framing obscures, and it is worth more than everything else in this note.
+
+**A document obtained by a false representation as to its effect does not have the effect claimed for it.**
+
+The prosecution's first reason is that Cory sent a Form 13, *"this was accepted, he was removed."* If that Form 13 was obtained by representing the arrangement as temporary, by a person who knew the tenancy position and knew he did not, then the document the prosecution relies on is undermined at its root — before any question of what a Form 13 does or does not terminate.
+
+So the analysis does not need to be run as an accusation against her at all. It runs as an answer to them:
+
+- the Form 13 was obtained on a representation that it was temporary;
+- it was never acted on, because he never vacated (`FORM_20_STRATEGY.md` §5B.0);
+- the process it belonged to was never completed, on the building manager's own account;
+- and the person who obtained it had already ended her own interest by a notice he was never told about.
+
+**Same facts. Same evidence. No complaint, no counter-allegation, no vexatiousness risk — and it goes directly to the element the prosecution has to prove.**
+
+That is where this analysis belongs.
 
 ### 3.1 — As the answer to his own charges
 
@@ -118,7 +197,15 @@ If a new tenancy was created using a bond lodged in the name of a person who was
 
 ## 5. The honest bottom line
 
-What was done to him has a shape that the criminal law recognises. But the elements would have to be proved beyond reasonable doubt against a person who can say she was frightened and believed she was entitled, and the system that would have to prosecute her has already declined to look.
+The elements of fraud are more readily made out than first stated. Paragraph (f) of s 408C fits directly — inducing a person to do an act he was lawfully entitled to abstain from doing — and the benefit and detriment limbs are plain. The one element genuinely in issue is dishonesty, and a misrepresentation as to the effect of a document, made by the only party who knew the true tenancy position to a party she knew was unwell and grieving, is capable of establishing it.
+
+**So the analysis is sound. The obstacles are practical, not conceptual:**
+
+- the evidence that would prove the representation sits on a phone in police custody that has never been examined;
+- the decision to charge belongs to the same agency that declined to investigate when asked on tape; and
+- making the allegation while defending a live prosecution costs more than it can return.
+
+None of that means the point is wrong. It means it should be deployed where it can actually do work.
 
 He does not need her convicted. He needs his charges gone, his transaction set aside, his property back, and a finding about how he was treated. All four are available, and none of them requires a criminal allegation against her.
 
