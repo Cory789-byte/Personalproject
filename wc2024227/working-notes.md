@@ -5654,3 +5654,42 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   under-predicted the speed and seniority of MSH's 13 Aug response).
 - **The protocol is to be RE-RUN on every new item** (email, document, payment, or a deadline
   maturing in silence), updating the file in place and bumping the version.
+
+## 14 Aug 2026 — Matheson serves the amended LOD + four sealed NNPDs; major findings
+- Filed: the four Form 29 NNPDs (Qld Health 4 Jul 2025; Mind and Memory 4 Jul 2025; Our Medical
+  Ashmore 4 Jul 2025; Qld Health 27 Apr 2026) and Matheson's covering email of 14 Aug 2026 10:28.
+  Full analysis at `skill/references/NNPD-ANALYSIS-14AUG2026.md`.
+- ⭐⭐ **THE TEST IN THEIR OWN SEALED WORDS:** every notice states matter in issue 3 as *"Was Mr
+  Shepherd's employment **a significant contributing factor** to the injury"* — NOT "major
+  significant". Registry-sealed, twice (4 Jul 2025 and 27 Apr 2026). Definitive answer to anyone
+  quoting the pre-2019 test.
+- ⭐⭐⭐ **THE REGULATOR HAS BEEN INVESTIGATING THE EMPLOYER.** The Jul 2025 QH notice sought
+  original payslips for the 17–18 Mar 2024 fortnight, **"any amended Payslips … including date of
+  amendment"**, the **"complete 8 hour shift agreement signed … on or around 17/06/2020"**, and
+  the payroll email chain 8 Apr–1 Jul 2024. The Apr 2026 notice sought the COVID leave form
+  20–27/02/2024 (PRN 15480560) with **"screenshot(s) of the request progression over time"** —
+  the myHR audit trail. Inference (strong): the Regulator's concessions in the amended pleading
+  were likely **driven by its own findings**, not tactical generosity. It is not simply MSH's
+  advocate.
+- ⚠ **CORRECTION TO STANDING DOCTRINE:** the 27 Apr 2026 notice expressly lists matter in issue
+  4(b) — *"Mr Shepher[d]'s expectations or perception of reasonable management action being taken
+  against him"*. The s 32(5)(b) perception limb is **live in their framing**, not dormant as the
+  9C read suggested. ⛔ Handling unchanged — never open it from his side — but do not assume it
+  is asleep.
+- ⭐⭐ **LIKELY RESOLUTION OF THE QSUPER PRIVACY QUESTION:** the Mind and Memory NNPD sought the
+  practice's full file "concerning work related issues", which would capture the 13 Feb 2025
+  report (the practice authored it). Most probable pathway = **produced under a sealed Form 29,
+  i.e. lawful compulsion — not a QSuper release.** Verify against what was disclosed 14/22 Jul
+  2025 before pursuing the Beck enquiry further.
+- ⭐ **FUNDING CONSEQUENCE (the most useful finding):** the letter of instruction asks 11
+  questions; the matters actually in issue are 4, of which injury and arising-out-of are largely
+  uncontested and reasonable-management-action is a legal question. **The one contested medical
+  question is s 32(1).** A focused report — diagnosis, onset, mechanism, competing causes,
+  reasoned s 32(1) opinion — may cost materially less than the 11-question version. Put the
+  focused scope AND the report-only fee to the practice together.
+  ⛔ A bare "yes" is worthless — the weight is in the reasoning.
+- **SIGNAL:** his 24 Jul request was actioned two days after the 1(a) bundle was served, with an
+  apology for delay. Logged.
+- ⚠ **NOT YET HELD:** `WC.2024.227 Shepherd - REG Amended LOD 14.08.2026.pdf` — obtain and diff
+  against the previous list of documents.
+- ⚠ Source integrity: all four NNPD PDFs have **no text layer** — render with pdftoppm.
