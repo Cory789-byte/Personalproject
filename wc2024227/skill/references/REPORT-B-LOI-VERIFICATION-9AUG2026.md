@@ -173,3 +173,38 @@ was agreed** — an **RFMI / Report A (current capacity)** question, on the empl
 ⇒ ⭐⭐ **If the refusal is confined to Report A, Report B is not blocked by the doctor at all —
 only by funding.** ⛔ **Establish this directly with the practice before assuming either way.**
 It changes the critical path.
+
+## ⭐⭐⭐ 14 AUG — THE TWO-BASKET PROBLEM, AND THE QUESTION THAT SOLVES IT
+The assumed facts are **two different things and they are not interchangeable**:
+| Basket | What it is | Can it carry *"not based on the patient's account"*? |
+|---|---|---|
+| **Enclosure A** — his signed statement | ⚠ **His own account.** Signed and witnessed, which helps credit — but it is still his | ⛔ **NO** |
+| **Enclosure D** — the admitted facts | ⭐ Facts the **Respondent** has admitted (Form 24 Response 18 Feb 2026; SOFC admissions register 10 Aug 2026) | ✅ **YES — this basket only** |
+
+⛔⛔ **If the doctor writes *"my opinion does not depend on Mr Shepherd's account"* while half his
+assumed facts came from Enclosure A, one question destroys it:** *"Doctor, Enclosure A is
+Mr Shepherd's own statement, isn't it?"*
+
+### ⭐⭐⭐ THE FIX — ASK FOR THE OPINION TWICE
+Add a question in these terms:
+> *"Please state whether your opinion at Q6.5 would differ if you were to assume **only** the facts
+> at Enclosure D — being facts admitted by the Respondent — and to disregard Enclosure A entirely."*
+
+⭐ **If the answer is "no difference", that answer is unattackable.** It cannot be met with the
+self-report attack, and it survives any challenge to his credibility as a witness — because on that
+footing his credibility is irrelevant to the opinion. **This is the single highest-value question in
+the letter.**
+
+### ⚠ FOUR THINGS THAT MUST BE RIGHT
+1. ⛔ **Do NOT send the doctor the Form 24 NOTICE** — that is Cory's own assertion, and sending it
+   reintroduces the very problem being solved. **Send a clean schedule of the ADMISSIONS**, each
+   line with its pinpoint (SOFC ¶__ · Form 24 Response, **Notice numbering** ¶__). **He should not be
+   reading pleadings at all.**
+2. ⚠ **Avoid the word "objectively."** It invites *"on what basis do you say objectively?"* The
+   formulation is **"on the assumed facts"** and **"independently of Mr Shepherd's account."**
+3. ⛔ **He must still form his own clinical view** — examine, diagnose, reason. The admitted facts
+   are the **history**, not the opinion. A report that reads as facts-in-conclusion-out is worthless;
+   that is precisely what verify lens 1 (instructed answer) tests for.
+4. ⚠ **r 49 admissions bind "for the proceeding only."** Fine for Report B, which is used in this
+   appeal. ⛔ **They do not carry into Report A or the employment track** — keep the schedules
+   separate, as the declared scope separation already requires.
