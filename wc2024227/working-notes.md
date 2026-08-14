@@ -5786,3 +5786,34 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   of his information now across EIGHT holders — ⭐ he is the only party holding the whole record.
 - ⭐⭐ **THE SINGLE SENTENCE:** every slow dynamic favours him and every fast one does not, so the
   entire strategic problem is buying enough time for the slow dynamics to arrive.
+
+## 14 Aug 2026 — BIDIRECTIONAL TIMING ANALYSIS (`skill/references/BIDIRECTIONAL-TIMING-ANALYSIS.md`)
+- Every request in both directions with its latency; the deadline asymmetry; the disclosure flow
+  map; and the silence map.
+- **Latency:** their median to a substantive answer on a request ≈ **3 weeks**; their median to a
+  challenge to authority ≈ **5 hours**. His median ≈ **same-day to 3 days**.
+- ⭐⭐ **DEADLINE ASYMMETRY (sharper than latency, because deadlines are chosen):** every deadline
+  they impose on him is measured in days (retract: immediate · EMR: 1 day · RFMI: 7 calendar days ·
+  meeting: 6 days). **Every deadline he sets them is ignored.** He has met or substantially met
+  every deadline imposed on him; the one blemish is his own (EMR signed 3 days past its due date).
+- ⭐⭐ **THE THIRTEEN-MONTH BLIND SPOT:** the NNPDs were issued 4 Jul 2025 and disclosed to him
+  14 Aug 2026 — only after he asked. For 13 months he litigated without knowing the Regulator had
+  asked Qld Health whether **payslips had been amended and when**, and whether the **2020 agreement
+  was complete**. ⭐ STANDING RULE ADOPTED: **ask the Regulator periodically for any further
+  third-party notices issued.** You cannot use what you do not know they sought.
+- ⭐ **Disclosure tracks THEIR activity, not his requests** (14/22 Jul 2025 follows their evidence
+  week; 11 Jun 2026 follows the Apr 2026 NNPD response; 14 Aug 2026 only after he asked AND
+  served). **For 20 months disclosure ran one way — toward him. On 12 Aug it reversed for the
+  first time**, and both institutions moved within 48 hours.
+- ⭐ **Evidence-gathering timing:** their case was assembled in ONE WEEK in July 2025; his has been
+  assembled in the last ten weeks. **He is ~12 months behind them** — explicable (working,
+  unrepresented, unfunded) but material.
+- ⭐⭐⭐ **THE SILENCE MAP — the through-line of the whole matter.** Nine questions across two years
+  and four subjects (roster · the 2020 agreement · exclusion · wages · the medical inquiry) reduce
+  to **ONE question, never answered: *what is the basis?*** Use as one line at the 21 Aug meeting.
+- ⚠ **VERIFY BEFORE RELYING:** the LOD records MSH's partial production + objection at **5 Jun
+  2026** (Ruttan), but the repo records his Form 29 as filed/sealed **23 Jun 2026**. An objection
+  cannot pre-date the notice. Establish the true sequence — most likely an earlier served notice
+  with the 23 Jun filing being the rule 64G application. **Do not rely on either date until fixed.**
+- ⭐⭐ **ACTION THIS PRODUCES: SEND THE ART LETTER.** It is the ONLY item where *his* latency is the
+  problem (10+ days) and it is the fastest money available.
