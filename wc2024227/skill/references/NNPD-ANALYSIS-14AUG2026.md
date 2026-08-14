@@ -106,6 +106,60 @@ stressors, what mechanism, what was considered and excluded. An unreasoned affir
 treating doctor is the easiest thing an opposing IME will ever dismantle. The letter of
 instruction already has this right: *"Reason clinically; do not decide legal reasonableness."*
 
+## 6A. ⭐⭐⭐ THE COMPOSITE — WHAT THE PRACTICE NOW HOLDS, AND WHAT IT MAKES POSSIBLE
+Put four facts together:
+1. **July 2025** — a **Registry-sealed Form 29** was served on Mind and Memory Service stating the
+   matter in issue as *"Was Mr Shepherd's employment a significant contributing factor to the
+   injury"*, and the practice **produced its file** under it. The practice therefore already knows
+   (a) what the question is and (b) that its records are inside a live proceeding.
+2. **The appeal is live and de novo** — that same question is the issue for determination.
+3. **12 August 2026** — he **attended Dr Krishnaiah in person**.
+4. **12 August 2026, 18:20** — he sent the LBH email **copied to
+   `info@mindandmemoryservice.com.au`**, putting the practice on notice of the RFMI dispute, the
+   76-hour baseline problem, the two requirements, the wages position and the hardship.
+
+⭐ **THE ASYMMETRY THIS EXPOSES.** Dr Krishnaiah is declining to answer the **employer's**
+capacity inquiry because it has no identified basis and no stated baseline — which is correct.
+Meanwhile the **properly framed causation question**, already served on his own practice under
+Commission seal, and squarely within his 18 months of treating knowledge, sits **unasked for
+answer**. His precondition is right about the employer's question and has nothing to say about the
+Commission's.
+
+⭐⭐ **THE STRONGEST AVAILABLE MOVE:** ask the practice to answer the question **with the sealed
+4 July 2025 Form 29 attached**. That single attachment does four things at once —
+ · it shows the question is not Cory's invention but the Commission's own framing;
+ · it shows the practice has already been drawn into the proceeding and produced to it;
+ · it makes the task **bounded and defined** rather than open-ended medico-legal work; and
+ · it therefore makes the **fee conversation concrete** — a defined report answering a stated
+   question, not an unbounded exercise.
+Pair it with the report-only fee ask (the 12 Aug attendance having occurred) and the payment-plan
+ask. ⭐ The hardship is already known to the practice from the 12 Aug email, so the ground for
+that conversation is prepared.
+
+## 6B. ⚠⚠ NEW STANDING RULE — TREAT THE PRACTICE'S FILE AS DISCOVERABLE
+The practice's file has been the subject of a Form 29 **once already**, framed as *"notes,
+reports, memorandums, letter, and other correspondence… concerning work related issues"* — wide
+enough to capture correspondence, not just clinical records. Assume any future notice would do the
+same.
+**CONSEQUENCE:** the 12 August email now sits in that file — including the **hardship paragraph**
+and the **"determined externally"** sentence. Those are one Form 29 away from the Regulator, and
+hardship in the Regulator's hands reduces settlement leverage (see STRATEGIC-OPTIONS §5E).
+⚠ Not a disaster — the email is factual, restrained and helpful to him overall — but **do not
+repeat it**.
+⛔ **RULE FROM NOW:** correspondence to the practice is **clinical and administrative only**.
+No strategy, no analysis, no financial circumstances, no employment-dispute commentary, nothing
+that would be unwelcome in the Regulator's hands.
+
+## 6C. THE 12 AUGUST CONVERGENCE — both institutions moved inside 48 hours
+| When | What |
+|---|---|
+| **12 Aug** | Attended Dr Krishnaiah · served the 30-page Stressor 1(a) bundle on Matheson · 18:20 the LBH email (union + practice copied) |
+| **13 Aug 15:48** | Harrison replies (consent, EAF, phone) |
+| **13 Aug 16:42 / 16:45** | Roberts' email → recalled 3 minutes later |
+| **14 Aug 10:28** | Matheson actions a **24 July** request, apologising for the delay, serving the amended LOD and the NNPDs |
+⭐ **SIGNAL:** after two years of slow movement, both the employer and the Regulator moved
+substantively within 48 hours of 12 August. Log in the PREDICTIVE-CYCLE signal register.
+
 ## 7. ACTIONS
 1. ⭐ Obtain and analyse the **amended list of documents** (14 Aug 2026) — what is new since the
    previous list?
