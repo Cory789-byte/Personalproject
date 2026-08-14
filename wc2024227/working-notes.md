@@ -5693,3 +5693,36 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
 - ⚠ **NOT YET HELD:** `WC.2024.227 Shepherd - REG Amended LOD 14.08.2026.pdf` — obtain and diff
   against the previous list of documents.
 - ⚠ Source integrity: all four NNPD PDFs have **no text layer** — render with pdftoppm.
+
+## 14 Aug 2026 — the Regulator's AMENDED LIST OF DOCUMENTS analysed (52 items)
+- Filed `documents/2026-08-14_Regulator_AMENDED_List_of_Documents_Form23.pdf`; analysis at
+  `skill/references/AMENDED-LOD-14AUG2026-ANALYSIS.md`. (The other two files uploaded were
+  byte-identical duplicates of the covering email and the 27 Apr 2026 NNPD.)
+- ⭐⭐ **NO PART 2 — nothing withheld on privilege.** The form ticks the privilege objection but the
+  schedule contains no Part 2. Ask for confirmation in writing.
+- ⭐⭐ **QSUPER PRIVACY QUESTION ANSWERED (high confidence).** Item 10 lists the 13 Feb 2025 Mind &
+  Memory report in the Regulator's possession; the sealed NNPD to the practice (4 Jul 2025) sought
+  its full file "concerning work related issues"; NNPD material was disclosed 14 and 22 Jul 2025.
+  ⇒ The report came by **lawful compulsion from the practice**, not a QSuper release. The Beck
+  grievance largely dissolves. No one leaked his file.
+- ⭐⭐⭐ **WITNESS CONFERENCING DISCLOSED — Reese 8 Jul 2025, Taylor 10 Jul 2025** (items 37–39, 41),
+  with the documents itemised. Newly identified documents to obtain: the **7 Aug 2023 Reese→Taylor
+  "roster and comms with APP"** (the grievance day); the **21 May 2024 Reese→APP "confirm retract &
+  to follow up issues"**; **C Taylor→A McNamee "background to request hours" 17/05/24**; the
+  **16 May 2024 HR→Reese "Complaint"**; and **T Reese→HR "request assistance with APP concerns"
+  10 & 20/05/24** (the rating-of-11 strand).
+- ⭐ **NEW ACTORS: "A McNamee"** (Taylor briefed them about him on 17 May 2024, two days after the
+  retraction — identify) and **"Dr Ki Pang"** (a second WC medical certificate, 7 Aug 2024).
+- ⭐⭐⭐ **THE GAP THAT MATTERS: the complete 17 June 2020 8-hour agreement does not appear as a
+  discrete item anywhere in the 52-item list**, despite the Regulator expressly demanding the
+  "complete" agreement in its 4 Jul 2025 NNPD. It may sit inside items 40/42 (payroll NNPD
+  responses). **ASK WHETHER IT WAS PRODUCED.** The entire justification for the 7-hour break rests
+  on it.
+- Also noted: **Carolyn Jeffrey gave a witness statement AND a follow-up statement direct to
+  WorkCover (1 Aug 2024)** — a supporting colleague witness; the **Pritchard employer responses
+  of 15 Aug 2024 (8 attachments) and 6 Sep 2024 (9 attachments)** are MSH's contemporaneous
+  account and the primary source for a contradiction matrix — confirm he holds them in full;
+  and **item 43 records MSH made a PARTIAL production against his own NNPD** plus an objection
+  (Ruttan, 5 Jun 2026) — confirm receipt.
+- ⚠ Item 39 includes a 14/01/2024 "APP urgent leave" email which may touch sensitive personal
+  material — check against the discipline rules before any use.
