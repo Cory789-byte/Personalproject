@@ -103,3 +103,44 @@ timeframes was carried on with **no fatigue assessment of any kind** until after
 
 ⚠ **Merging them hands MSH the "non-clinical" answer to both.** Kept apart, "non-clinical" answers
 neither: it does not touch the Award minimum, and it does not make an unassessed exposure safe.
+
+## PART 6 — ⭐⭐⭐ "MY LEAVE WAS MANAGING FATIGUE, NOT ABSENCE" (Cory, 14 Aug 2026)
+**This converts the single biggest RISK document in the repo into evidence for the case.**
+
+`AttF_2025-09-08_Hughes_attendance_letter_34_occasions.pdf` treats his leave as an
+attendance/conduct matter — 34 occasions. It has always been the most dangerous document held.
+
+### The reframe, and it follows logically from the Chief Executive's own letter
+> **If no fatigue risk assessment existed and no fatigue management system applied to the role, then
+> the only fatigue management in operation was self-management. In a 24/7 emergency-adjacent role,
+> self-management looks like leave.**
+
+⇒ **Leave taken in those conditions is not absence from the work. It is the employee performing the
+fatigue management the employer never provided.**
+
+### ⭐⭐⭐ AND 19 MARCH 2024 PROVES IT — ON ADMITTED FACTS
+| Date | Fact | Source |
+|---|---|---|
+| 17–18 Mar 2024 | Break of **7 hours** against a 10-hour minimum; *"a rostering error that was accidentally made"* | **Admitted** — Form 24 ¶¶1, 3, 5; SOFC ¶22(a) |
+| 17–18 Mar 2024 | **MET calls recorded on those shifts** | CE letter, Items 1–2 |
+| **19 Mar 2024** | ⭐⭐ **Leave taken — the very next day** | **Admitted** — SOFC ¶¶22(c), 24(a); *"Leave takings report for the Applicant 19 March 2024"* produced at **CE letter, Item 15** |
+
+⭐⭐⭐ **The pattern in miniature, entirely on admitted facts and produced documents: fatigue breach
+on the 17th–18th, leave on the 19th.** Not absence. Recovery from a documented breach, in a role
+with no fatigue system, taken by the only person in a position to manage it.
+⚠ The Regulator's answer is *"but this was **paid** leave"* (¶24(a)) — which **concedes the taking**
+and disputes only its character. That is the argument, and it is on favourable ground.
+
+### HOW IT IS USED
+- ⭐ **Employment track / the 34-occasions letter:** the response is not a denial of the occasions.
+  It is that **the employer's own Chief Executive has certified there was no fatigue management**,
+  so leave in that role cannot be read as a conduct issue without first answering what fatigue
+  control was in place. **It never was.**
+- ⭐ **Report B:** goes to the doctor as an assumed fact — the pattern of leave following documented
+  fatigue exposure — for **his** view on whether it is consistent with the condition diagnosed.
+- ⛔ **Never as a characterisation of anyone's motive in sending the attendance letter.**
+
+### ⛔⛔ AND THE WORD THAT MUST NOT BE USED
+*"Classified as an aggressor"* — ⛔ **never written, never spoken, in any forum, clinical included.**
+It is a characterisation, it is the **s 32(5)(b)** doorway, and the limb is **not pleaded**. The
+facts do this work without it. **State the chronology; never the label.**
