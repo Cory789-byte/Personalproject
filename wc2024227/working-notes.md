@@ -5849,3 +5849,41 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   ⭐ **Operational consequence: everything from here should be an instrument, or a step toward one.**
 - **STATUS BOARD** built (done / received / outstanding both ways). ⭐ The ONLY place he is the
   bottleneck is the **ART reply, 10+ days old and the fastest money available.**
+
+## 14 Aug 2026 — COMPLETE MASTER TIMELINE built from source (`skill/references/COMPLETE-MASTER-TIMELINE.md`)
+- Built by reading the actual sources: corpus index (154 msgs), the 82-item documents inventory,
+  documents/orders/, documents/filings/, documents/correspondence-2026/. **Supersedes all earlier
+  partial timelines.**
+- ⚠⚠ **FOUR CORRECTIONS:**
+  **C1 — THE APPEAL IS UNDER s 549, NOT s 550.** Every sealed order is headed "APPEAL AGAINST
+  DECISION OF RESPONDENT PURSUANT TO SECTION 549". Cite s 549 for the appeal; s 550 for the de
+  novo character. **Fix in CLAUDE.md standing context.**
+  **C2 — THE FORM 29 SEQUENCE IS RESOLVED:** Form 29 sealed+served **22 Apr 2026** → MSH partial
+  production + objection **5 Jun 2026** → **rule 64G application** filed/sealed **23 Jun 2026** →
+  served on Ruttan 24–25 Jun → mention 7 Aug. The "23 June Form 29" was the 64G application.
+  **C3 — HE WAS REPRESENTED UNTIL AUG 2025.** Saines Legal (Paul Conrad): cost agreement 26 Nov
+  2024; **Form 35 withdrawal Aug 2025**. ⭐ He had solicitors on the record throughout the
+  Regulator's July 2025 evidence week, and they came off immediately after it.
+  **C4 — SECOND MATTER: TD2024-110**, Form 12 reinstatement application stamped **25 Oct 2024**
+  (the day after the Review Decision), Griffin appearing; resolved by the Feb 2025 deed.
+- **PROCEDURAL SPINE captured:** directions orders 3 Dec 2024 · 3 Jun 2025 · 16 Jul 2025 ·
+  **22 Aug 2025 (AFDO2 vacated by consent, on his application)** · **7 Apr 2026 Further Directions
+  Order** (amended SOFC by 4pm 8 Apr; Regulator by 4pm 13 May; further mention not before 13 May;
+  ⭐ NOTE: psychiatric injuries require a concise **List of Stressors** and **no documents may be
+  attached to a SOFC**). Listings 5 Mar and 7 May 2026 (22 May). Mentions **27 Feb 2026 · 7 Apr
+  2026 · 7 Aug 2026**. Form 4 disclosure application + Form 20 supplementary affidavit filed
+  25–27 Feb 2026. ⭐ **BOTH PARTIES HAVE COMPLIED WITH EVERY DIRECTION — no default either side.**
+- ⭐⭐ **NEW FINDING — THE OCTOBER 2025 ESCALATION THAT NEVER ARRIVED:** 3 Oct 2025 *"Seeking Urgent
+  Guidance and an Impartial Review of a Performance Management…"* → **postmaster UNDELIVERABLE**;
+  4 Oct 2025 formal **complaint about Hughes to Roberts, cc Moran**. An entire escalation failed on
+  a bounce. **Still unconfirmed whether it was ever re-sent** — long-flagged, still open.
+- ⭐ Other newly surfaced items: **24 May 2026 "Conflict of interest — Update"** (switchboard list,
+  3 days before the EMR) · **26 Jun 2026 Taylor "Cory Shepherd — ECC"** = the exclusion's origin
+  document · **16 Jun 2025 Consultation Paper — proposed changes for Switchboard Services**
+  (restructure context, never examined) · **15 Dec 2025 "Attendance clarification — Confidential"**
+  · the 2022 twelve-message leave exchange (baseline) · ⭐ **PsychGroup indicative proposal
+  5 Aug 2026: $10,000–$30,000** — the benchmark against which a report-only fee must be measured.
+- **NINE OPEN GAPS** listed in the file, headed by: was the 3 Oct 2025 email re-sent; was the
+  complete 2020 agreement produced; who is A McNamee; the missing movement instruments; the
+  content of the conflict-of-interest update; whether the 21 May 2024 "follow up issues"
+  undertaking was performed; and Review Decision 69983's operative reasoning read in full.
