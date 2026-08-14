@@ -69,13 +69,22 @@ by someone reasoning hard from documents, getting a good proportion right, and c
 ---
 
 ## PART 3 — ⛔⛔⛔ WHY THIS THOUGHT MUST NEVER LEAVE THIS FILE
-**The Regulator has pleaded the s 32(5)(b) perception limb against him.** Form 9C ¶5(d)(ii): injury
-arising from *"the appellant's expectations or perception of reasonable management action being
-taken against the appellant."*
 
-⇒ **A stated belief that the system is coordinated against him is the precise thing s 32(5)(b) is
-written to capture.** It is not a bad look. **It is a pleaded exclusion, and it would be his own
-evidence.**
+### ⚠ STATE THE POSITION EXACTLY — IT IS NOT PLEADED, AND THAT IS THE POINT
+| | Status |
+|---|---|
+| Form 9C ¶5(d)(ii) (2025) and SOFC ¶6(d)(ii) (13 May 2026) | s 32(5)(b) **recited in the list of elements** |
+| SOFC ¶27 — the affirmative defence | ⭐ **Reasonable management action ONLY. The perception limb is NOT contended** |
+
+⇒ ⭐⭐ **The door is open and they have not walked through it.** The SOFC convincingness audit of
+10 Aug 2026 confirms it: *"32(5)(b) recited in the elements (¶6(d)(ii)) but NOT contended (¶27 = RMA
+only) — confirms unpleaded."*
+
+⛔⛔ **That is precisely why this must never be voiced.** A stated belief that the system is
+coordinated against him is the exact material s 32(5)(b) captures — and it would arrive **from his
+own side**, in his own evidence, handing the Respondent a defence it has so far declined to plead
+and a reason to seek leave to amend. **The risk is not that they will run it. The risk is that he
+gives them the reason to.**
 
 **It must not be said:**
 - ⛔⛔ **to the psychiatrist** — Report B is being written now, and a treating opinion recording a

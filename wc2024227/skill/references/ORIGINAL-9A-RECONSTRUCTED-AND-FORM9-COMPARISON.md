@@ -154,10 +154,23 @@ as 13–15 May 2024. **Four date errors and one no-particulars finding, in one s
 ---
 
 ## PART 5 — ⭐⭐ WHAT THIS MEANS NOW
-1. ⭐⭐⭐ **The 12 August 2026 30-page bundle is the direct cure for Form 9C ¶8.** The Regulator's
-   single strongest line against Stressor 1 was *no particulars*. He has now served, himself,
-   twenty-eight pages of nothing but particulars, tab by tab, on that exact stressor. **He answered
-   the criticism of his own former solicitors' pleading.**
+1. ⭐⭐⭐ **THE SAME OBJECTION, MADE TWICE, ELEVEN MONTHS APART — AND NOW CLOSED.**
+   | When | Where | Against |
+   |---|---|---|
+   | 22 Jul 2025 | **Form 9C ¶8** — *"no particulars or details to respond to"* | the **Saines** 9A, ¶5 (lead of Stressor 1) |
+   | 13 May 2026 | ⭐ **SOFC ¶11** — the no-particulars point, **re-made** | the **amended** 9A, **Stressor 1(a)** |
+   | 12 Aug 2026 | **The 28-page particulars bundle, served** | ⇒ **the objection is answered** |
+
+   ⭐⭐ **The Regulator published the defect twice, in writing, in its own pleadings. He read it and
+   closed it.** That is not foresight — it is **responsiveness to a signal the other side put on the
+   record itself**, which is the strongest and least assailable kind.
+   ⭐⭐⭐ **And ¶11 was the one criticism he could extinguish unilaterally.** Every other limb of the
+   defence ("reasonable in all respects" ×6) turns on evidence and witnesses. **The particulars
+   objection turned only on his own diligence — and particulars, once supplied, cannot be
+   un-supplied.** It was the single closable item on the board, and it is now closed.
+   ⚠ At the 7 Aug mention the tribunal read the 9A aloud; per the 10 Aug register, almost everything
+   voiced was already admitted, and the genuinely contested content was **the adjectives + 1(a)
+   particulars + the six causation words**. Four days later the particulars half of that was gone.
 2. ⭐ **The amended 9A is his Form 9 in Saines' clothing.** Hostile course / remuneration /
    **fatigue as breach** — his 2024 grounds, in the numbered form that produces admissions.
 3. ⭐ **Every admission in the case came from the Saines pleading's *form*, not its content.** Keep
