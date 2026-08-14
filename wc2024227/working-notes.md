@@ -5726,3 +5726,33 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   (Ruttan, 5 Jun 2026) — confirm receipt.
 - ⚠ Item 39 includes a 14/01/2024 "APP urgent leave" email which may touch sensitive personal
   material — check against the discipline rules before any use.
+
+## 14 Aug 2026 — MASTER ALIGNMENT built (`skill/references/MASTER-ALIGNMENT-AND-SIGNALS.md`)
+- All five tracks (employment · appeal · medical · pay · fund/union) laid on ONE timeline
+  2020→2027, then the signals that only appear on alignment. Two dated items deliberately omitted
+  under the discipline rules.
+- **S1 the approval–repudiation sandwich** (Hughes approves 40 hrs 9 Jun → excluded 26 Jun →
+  asserts 76 hrs 31 Jul). **S2 the exclusion PRE-DATES the arrangement's expiry by two days**
+  (26 Jun vs 28 Jun) — which defeats MSH's best available answer to "what prompted the inquiry".
+  **S3 the June adjacency** (Form 29 served on MSH 24–25 Jun → exclusion 26 Jun) ⛔ record dates
+  only, never allege — the 8 Sep 2025 attendance letter supplies an alternative explanation.
+  **S4 escalation→action**: PID→retraction 2 days; hours request→retraction 5 hours; bundle→MSH
+  response 1 day; bundle→Matheson clearing a 3-week backlog 2 days. *Formal escalation produces
+  speed; informal request produces silence.* **S5 the pay pattern repeats exactly two years
+  apart** (AVAC "IMMEDIATELY"→25 days, 2024; enquiry 4438861→3+ weeks, 2026). **S6 consent-model
+  contrast** (2024–25 unpaid by written deed; 2026 unpaid by nothing). **S7 the Regulator's focus
+  shifted from causation (Jul 2025, matters 1–3) to the exclusion (Apr 2026, matters 2–4 adding
+  reasonable management action AND the perception limb)**. **S8 the July 2025 evidence week** —
+  NNPDs 4 Jul → Reese 8 Jul → Taylor 10 Jul → payroll 11 Jul → disclosed 14 Jul; their case was
+  built then and nothing comparable has happened since. **S9 the Regulator was checking the
+  EMPLOYER** (amended payslips + date of amendment; the "complete" 2020 agreement; the myHR
+  request progression) — its concessions look like findings. **S10 the Feb 2024 double failure**
+  (COVID leave form 20–27 Feb and the directory modification 22 Feb, same week). **S11 THE MEDICAL
+  VACUUM** — 18 months between the Feb 2025 insurer report and the 12 Aug 2026 attendance, and the
+  Regulator has obtained NO IME either; the causation field is empty on both sides and every
+  finding currently in it favours him. ⭐ The risk is not that his evidence is thin — it is that
+  theirs arrives first. **S12 the 2024→2026 structural mirror** (2026 substitutes a medical
+  inquiry for a retraction demand). **S13 the 12 Aug convergence** — both institutions moved
+  within 48 hours. **S14 the gaps that are themselves signals** — the missing 27 Apr–24 May 2026
+  movement instrument, the missing complete 2020 agreement, no Part 2 privilege schedule, and no
+  document anywhere identifying the instrument for the exclusion or the non-payment.
