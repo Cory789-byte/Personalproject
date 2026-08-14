@@ -208,3 +208,21 @@ the letter.**
 4. ⚠ **r 49 admissions bind "for the proceeding only."** Fine for Report B, which is used in this
    appeal. ⛔ **They do not carry into Report A or the employment track** — keep the schedules
    separate, as the declared scope separation already requires.
+
+## ⛔⛔⛔ 14 AUG — URGENT CONFLICT BETWEEN TWO LIVE DOCUMENTS IN THIS REPO
+| Document | What it says about **Review Decision 69983** |
+|---|---|
+| `REPORT-B-LOI-VERIFICATION-9AUG2026.md` (9 Aug, defect #1, **CRITICAL**) | ⛔ **"Review Decision 69983 removed from the enclosures entirely."** Para 4 directs the doctor *"do not adopt, or treat as established, any conclusion, characterisation or finding of any other decision-maker."* |
+| `drafts/PSYCHIATRIST_BUNDLE_12AUG.md` §B (12 Aug) | ⛔⛔ **"Review Decision 69983… the most important document in the bundle"** — listing the delegate's three findings, including *"amounted to unreasonable management action"* and *"work events were the sole cause"* |
+
+**The bundle post-dates the fix and reinstates the very document the fix removed.**
+
+⚠⚠ **ESTABLISH IMMEDIATELY: was Review Decision 69983 given to Dr Krishnaiah at or before the
+12 August consultation?**
+- **If NO** — correct `PSYCHIATRIST_BUNDLE_12AUG.md` §B now, before anything further is sent.
+- **If YES** — it is not fatal, but it must be **managed**, not ignored: the letter of instruction
+  must expressly record that he was provided the decision, direct him **not to adopt any finding in
+  it**, and ask him to state whether his opinion would differ if he disregarded it entirely.
+  ⭐ Handled that way it is survivable. **Left unaddressed it is the first thing an opposing IME
+  will find**, and it converts his causation opinion into an instructed one.
+⛔ **Do not send anything further to the practice until this is resolved.**
