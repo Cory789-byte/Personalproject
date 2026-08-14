@@ -101,3 +101,75 @@ Every confirmed defect is closed in the finalised letter. The two factual correc
 (#7, #9) also **improve** the causation position. Companion docs (guide, ceiling) were
 edited to stay consistent — chiefly the guide's item 4 (keep the delegate's conclusions
 out of the doctor's bundle) and the gap references.
+
+---
+
+# ⛔⛔ ADDED 14 AUG 2026 — DEFECT #1 RE-PROPOSED FROM THE OTHER DIRECTION. STILL BARRED.
+
+**The proposal:** build the notice to admit so the admitted facts become an objective
+third-party record, put that record to the psychiatrist, and have the report land on
+*"on the basis of the above I believe Mr Shepherd has experienced unreasonable management
+action, taken so as to be a significant contributing factor to his health."*
+
+⭐⭐ **The first half is right and is already implemented.** Enclosure D is the **Form 24
+admitted facts**, and para 4 already directs the doctor not to adopt any other decision-maker's
+conclusion. An assumed-facts basket built from the Respondent's own admissions is the single
+strongest feature of this report — see Part 3 below.
+
+⛔⛔ **The second half is CRITICAL DEFECT #1 arriving by a different route.** Where the first
+draft *imported* the delegate's "unreasonable management action" characterisation into the
+assumed facts, this would have the **doctor produce it as a conclusion**. Same contamination,
+same three lenses, same answer.
+
+## Why the characterisation must not appear in Report B
+1. ⛔ **It is outside his expertise.** Whether management action was reasonable and taken in a
+   reasonable way is for the Commission. **Form 24 ¶2 and ¶16 are the proof of what happens:**
+   the Regulator's stock answer is *"the characterisation is for the Commission."* It will say
+   the same of the psychiatrist, and it will be right.
+2. ⛔⛔ **It makes the causation opinion read as instructed** — the exact finding of verify
+   lens 1 (leading/instructed-answer). If he concludes on the legal framework, the natural
+   inference is that he was given the framework; and then his **s 32(1)** opinion — the part
+   that is genuinely his — reads as delivered to order.
+3. ⛔ **Weight contamination.** An expert who opines on the ultimate legal issue can have weight
+   discounted **across the whole report**, including the parts he was qualified to give.
+4. ⛔⛔ **It opens s 32(5)(b), which the Regulator has NOT pleaded.** One cross-examination
+   question follows automatically: *"Doctor, were you told this was unreasonable — or did
+   Mr Shepherd tell you he found it unreasonable?"* Either answer damages the report.
+
+## ⭐⭐⭐ WHAT IT SHOULD LAND ON INSTEAD — which is stronger
+> *"On the assumed facts provided to me, which I was instructed to take as established,
+> employment was a significant contributing factor to [the injury]."*
+
+plus the sentence that does the real work:
+> ⭐⭐⭐ *"My opinion does not depend on Mr Shepherd's account of these matters."*
+
+**That single sentence is worth more than any characterisation**, because it removes the
+standard attack on a worker's psychiatric evidence — that the doctor relied on the worker's
+perception. It is available **only** because the assumed facts are the Respondent's own
+admissions. ⭐ **The notice-to-admit architecture exists to buy that one sentence.**
+
+## THE DIVISION OF LABOUR — mixing these weakens both halves
+| Question | Whose |
+|---|---|
+| Injury exists · **employment a significant contributing factor** (s 32(1)) | ⭐ **The psychiatrist** |
+| Was the action reasonable, and taken in a reasonable way (s 32(5)(a)) | **The Commission** — argument, on an agreed factual base |
+| Putting the admitted facts in front of both | **Him** |
+
+## ⭐⭐ THE PRACTICAL UNLOCK — ENCLOSURE D CAN BE ENLARGED TODAY, WITH NOTHING SERVED
+Enclosure D was built on the **Form 24** admissions. Since 9 Aug the admitted base has grown
+substantially and none of it requires a new instrument:
+- the **SOFC outright-admissions register** (verified 10 Aug) — ¶15 the PID admitted in full;
+  ¶12(a) the page removal; ¶22(a) the 7-hour break **and "human error"**; ¶14(e)–(f) the
+  attachments "were in fact present"; ¶21(a)–(c) the AVAC chain; ¶16(b) the 13–15 May prodrome
+- the **amended LOD** (52 items) and the **four sealed Form 29s** — which make **negatives**
+  pleadable as assumed facts for the first time
+⇒ ⭐ **A second notice to admit is NOT a precondition for Report B.** It would enlarge Enclosure D
+later; it does not gate it now.
+
+## ⚠ RESOLVE BEFORE ANYTHING ELSE — WHICH REPORT IS ACTUALLY BLOCKED?
+The psychiatrist's stated refusal is tied to **why the RFMI asserted 76 hours after the reduction
+was agreed** — an **RFMI / Report A (current capacity)** question, on the employment track.
+**Report B is causation, and its basis is the appeal record, which Cory controls.**
+⇒ ⭐⭐ **If the refusal is confined to Report A, Report B is not blocked by the doctor at all —
+only by funding.** ⛔ **Establish this directly with the practice before assuming either way.**
+It changes the critical path.
