@@ -5817,3 +5817,35 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   with the 23 Jun filing being the rule 64G application. **Do not rely on either date until fixed.**
 - ⭐⭐ **ACTION THIS PRODUCES: SEND THE ART LETTER.** It is the ONLY item where *his* latency is the
   problem (10+ days) and it is the fastest money available.
+
+## 14 Aug 2026 — SIGNAL EXTRACTION, ALL SOURCES (`skill/references/SIGNAL-EXTRACTION-ALL-SOURCES.md`)
+- Signals pulled from five source types: internal employer emails · the phrases each side chose ·
+  disclosure requests · filings/pleading movements · structural events. Plus the operational
+  ledger (what works / what doesn't / done / received / outstanding both ways).
+- ⭐⭐⭐ **THE SINGLE MOST IMPORTANT INTERNAL EMAIL: 10 May 2024.** Reese/Taylor applying his own
+  risk matrix — *"at best there would be a rating of 11 which is moderate"* and *"a few rostering
+  errors … in past rosters"* — **nine days after refusing his 8 April request, and he was told
+  nothing.** They agreed with him privately and refused him publicly. Add: Reese escalated to HR
+  **twice** (10 & 20 May) and still nothing reached him.
+- ⭐⭐ **Taylor→A McNamee, "background to request hours", 17 May 2024** — two days after the
+  retraction the manager briefed a third party with "background". Identify McNamee; obtain.
+- ⭐ **Reese→APP 21 May 2024 "confirm retract & to follow up issues"** — the retraction loop closed
+  and follow-up **promised**. Did it occur? If not, a documented broken undertaking.
+- **THE PHRASE LEDGER** built — almost every load-bearing phrase in his case is a phrase THEY
+  chose. Newly emphasised: pay refused *"as a matter of discretion"* (15 Jul 2026 — discretion,
+  not entitlement); *"Whilst I understand your belief you are fit"*; and the 2024 contrast from
+  Floyd (*"keen to support you during your claim application process"*) against the same function
+  in 2026.
+- **Filings signal:** the amended SOFC **deleted** the exhausted-denial and the respiratory
+  "not required or given authority" — ⭐ withdrawals are as informative as additions.
+- ⭐⭐ **THE WHAT-WORKS LEDGER — the rule is now proven ten times: INSTRUMENTS move this system;
+  REQUESTS do not.** Ten formal instruments each produced movement (PID → ESU determination;
+  review → the findings; appeal → the proceeding; deed → restoration + cl 7/cl 8; Form 29 →
+  partial production; 3 Aug package → escalation; 12 Aug bundle → the particulars objection dead
+  + Matheson clearing a backlog in 48 hrs; 12 Aug email → escalation to Principal Consultant and
+  a 2-hour meeting with the union included by MSH; union engagement; the psychiatrist's
+  precondition). Every request produced nothing — including Stage 1, the 24-hour AVAC, enquiry
+  4438861, and "what is the basis?" nine times.
+  ⭐ **Operational consequence: everything from here should be an instrument, or a step toward one.**
+- **STATUS BOARD** built (done / received / outstanding both ways). ⭐ The ONLY place he is the
+  bottleneck is the **ART reply, 10+ days old and the fastest money available.**
