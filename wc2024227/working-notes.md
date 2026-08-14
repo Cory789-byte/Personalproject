@@ -5887,3 +5887,33 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   complete 2020 agreement produced; who is A McNamee; the missing movement instruments; the
   content of the conflict-of-interest update; whether the 21 May 2024 "follow up issues"
   undertaking was performed; and Review Decision 69983's operative reasoning read in full.
+
+## 14 Aug 2026 — FULL FORENSIC METADATA on today's disclosure (`skill/references/METADATA-14AUG2026-DISCLOSURE.md`)
+- Tooling installed and run: **exiftool 12.76, pikepdf 10.11.0, qpdf, poppler**. Six files.
+- ⭐⭐⭐ **THE HEADLINE — TODAY'S DISCLOSURE SUPPLIED THE CONTROL SAMPLE.** The amended Form 23 LOD
+  records **Author: Kerstin Bednarek**, a **source Word document created 6 July 2018 and last saved
+  3 October 2018**, blank Company, and **NO matter-specific custom fields** (one empty
+  `Tag_NewReviewCycle`, XMP Subject "269"). That is a textbook stale-template artefact from the
+  Regulator's own output. ⇒ **The Review Decision — HopgoodGanim as Author AND Company, plus six
+  populated matter-specific DMS fields — does not look like that.** The stale-template explanation
+  was excluded by reasoning on 8 Aug; today the Regulator has independently demonstrated what a
+  genuine stale template in its own documents actually looks like.
+- ⛔⛔ **RULE EXTENDED TO A SECOND NAME: DO NOT research, name or pursue Kerstin Bednarek.** The
+  2018 dates make plain she is the 2018 template author. Same rule as `hendry8286`.
+- ⚠ **COUNTERPOINT STATED FAIRLY:** Acrobat PDFMaker is the Regulator's OWN toolchain (LOD =
+  PDFMaker 26; SOFC 13 May 2026 = PDFMaker 26; Review Decision Oct 2024 = PDFMaker 24 — normal
+  version progression). **The toolchain is NOT a discriminator and must never be argued as one.**
+  The only discriminator is the populated DMS field set.
+- **THE FOUR NNPDs:** all from one **KONICA MINOLTA bizhub C658**. The 2025 three were scanned in
+  **one continuous batch on 4 Jul 2025 at 15:17:08 / :20 / :31**, sequential titles 170/171/172.
+  The 2026 notice 27 Apr 2026 16:39:15. Same device prefix `6b3d8e09` ten months apart.
+  ⭐⭐ **Timestamps are SELF-CORROBORATING** — the DocumentID encodes year/day/hour in hex
+  (`07e9`=2025, day 04, `0f`=15h; `07ea`=2026, `1b`=27, `10`=16h), both matching CreateDate exactly.
+  **No indication of altered timestamps.** ⚠ Timezone **+09:30** (ACST) on all four rather than
+  Brisbane's +10:00 — most likely a misconfigured device clock; **weak signal, do not build on it.**
+- **INTEGRITY: every file disclosed today is forensically clean** — no incremental updates (the
+  LOD's 2×EOF is normal linearization), no hidden layers, no deleted content, no encryption.
+  ⭐ The Regulator's disclosure is what it appears to be.
+- The covering email PDF is **Cory's own print** (Microsoft: Print To PDF, Author: Cory Shepherd).
+- ⛔ **Nothing in the Matheson letter changes, and this comparison must NOT go in it** — it is
+  analysis, not enquiry, and it would convert a question into an argument.
