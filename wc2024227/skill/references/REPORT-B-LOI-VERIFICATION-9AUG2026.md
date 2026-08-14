@@ -226,3 +226,32 @@ the letter.**
   ⭐ Handled that way it is survivable. **Left unaddressed it is the first thing an opposing IME
   will find**, and it converts his causation opinion into an instructed one.
 ⛔ **Do not send anything further to the practice until this is resolved.**
+
+## ⛔⛔ 14 AUG — "A THIN REPORT A" IS SELF-HARM, NOT STRATEGY
+**The two-report structure is correct and already declared:** Report A (MSH-funded — capacity,
+restrictions, adjustments; **silent on aetiology, as declared to MSH**) and Report B (the appeal —
+causation), from one attendance. Nothing about that needs changing.
+
+⛔ **What must NOT happen is Report A being made deliberately thin.**
+1. ⭐⭐ **Report A is not a litigation document. It is the instrument that ends the exclusion and
+   restores his wages.** A report that tells MSH too little means MSH cannot decide — and the
+   exclusion continues, unpaid, with no end date. **Thin hurts him and no one else.**
+2. ⛔⛔ **The clinician decides content, not the patient.** If either report looks shaped by him,
+   both lose weight and his professional obligations are engaged. **Scope must follow the question
+   asked, never tactical preference.**
+3. ⚠ **Disclosure.** Report A exists once written and cannot be assumed to stay in the employment
+   track. A thin report that later surfaces in the appeal reads as evasive.
+4. ⚠ **Consistency.** An opposing IME will put the two side by side. Current capacity and historical
+   causation are different questions and the reports are consistent — **but only if each states its
+   own scope on its face and says it does not address the other.** Build that sentence into both.
+5. ⛔ **Keep the funding clean.** Report A is MSH-funded; Report B is his. **MSH money must not touch
+   Report B.** The clinic's billing call to Harrison (5 Aug) shows the channel is live — keep scopes
+   and invoices separate and in writing.
+
+### ⭐⭐⭐ AND THE REFRAME THAT MATTERS
+**A COMPLETE Report A is the aggressive move; a thin one is the passive one.**
+Answered fully, the nine RFMI questions require the clinician to specify the adjustments needed —
+and **Q9** (*"if we are not able to accommodate the restrictions… is Mr Shepherd able to safely
+return"*) is already defeated on the facts, because the duties are being performed by someone else.
+⇒ **A complete Report A puts MSH in the position of having to accommodate or explain. A thin one
+lets them keep saying they do not have enough information.**
