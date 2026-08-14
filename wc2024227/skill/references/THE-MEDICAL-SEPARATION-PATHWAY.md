@@ -92,3 +92,64 @@ assessment · no fatigue management ever, on the Chief Executive's own signature
 approved reduced hours three times in 2026.**
 ⭐⭐⭐ **He is not undefended here. He is unusually well documented — and that documentation is
 itself the deterrent.**
+
+---
+
+# PART 6 — ⭐⭐⭐ THE POSITIVE MIRROR: HE IS STILL EMPLOYED, AND THAT IS THE ASSET
+**Cory, 14 Aug 2026: if the claim is accepted and he was never dismissed, the reasonable-adjustment
+obligation is engaged. That is right, and it is stronger than it has been credited.**
+
+## 6.1 FOUR OBLIGATION SOURCES CONVERGE — AND MSH NAMED TWO OF THEM ITSELF
+| Source | Status |
+|---|---|
+| ⭐⭐ **QH HR Policy G3 — Reasonable Adjustment** | **MSH invoked it in the RFMI itself**: *"In accordance with Queensland Health Human Resource (HR) Policy G3: Reasonable Adjustment, and sections 17 and 19 of the Work Health and Safety Act 2011…"* |
+| ⭐⭐ **WHS Act ss 17 and 19** | **Also named by MSH in the same sentence** |
+| **Anti-Discrimination Act 1991 (Qld)** — adjustments for impairment in an existing employment relationship | ⚠ **ATT20 is current only to 19 May 2025 and does not contain the positive duty. Obtain the current consolidation before relying on it** |
+| **WCRA rehabilitation / suitable duties** | ⭐ Engaged **only on acceptance** — and acceptance destroys MSH's 15 July position that the obligation *"does not extend to me"* |
+
+⭐⭐⭐ **They wrote the first two into their own letter. The instrument question he has asked six
+times is, on this one subject, already answered — by them.**
+
+## 6.2 ⛔ BUT "THEY COULD NOT GET ME OUT" IS TOO STRONG
+**Reasonable adjustment is not a job guarantee.** The obligation is to make adjustments that are
+*reasonable*; the answers to it are **unjustifiable hardship** and **inability to perform the
+inherent requirements** even with adjustment.
+
+⛔⛔ **RFMI Q6 and Q9 ARE THE EXIT ROUTE FROM THE OBLIGATION:**
+- **Q6** — *"able to fulfil the **full inherent requirements** of his Role … without restrictions or
+  modifications to duties?"*
+- **Q9** — *"**If we are not able to accommodate** the restrictions you have recommended, is
+  Mr Shepherd able to safely return to the workplace?"*
+⇒ Answered adversely, the obligation is **discharged** and a capacity separation becomes available.
+
+## 6.3 ⚠⚠ THE ROLE DESCRIPTION CUTS BOTH WAYS — THIS HAS NOT BEEN FLAGGED BEFORE
+It supplies the **demands** (the two-column put). ⛔ **It also defines the INHERENT REQUIREMENTS
+against which Q6 is answered** — and under *"Mandatory qualifications … and other requirements"* it
+says:
+> *"The position is a **continuous shift working role**. You **must** be able to work a roster which
+> covers multiple shifts over a **24/7 period**."*
+
+⚠ **If continuous 24/7 shift work is mandatory, and his restrictions include unpredictable
+rostering, MSH has a written basis for saying the inherent requirements cannot be met.**
+**Do not deploy the role description without holding this in view.**
+
+## 6.4 ⭐⭐⭐ THE ANSWER — AND IT IS ENTIRELY THEIRS
+**The adjustment has already been proven to work, by them, in practice:**
+1. **Three delegate-approved reduced-hours arrangements in 2026** — **Hughes personally**, on
+   27.02, 17.04 and 09.06.2026;
+2. ⭐⭐ **their own ECC of 3 July 2026** records the arrangement as a *"continuation of existing
+   arrangement … **worked and tolerated … without deterioration**"*;
+3. ⭐⭐⭐ **the duties are being performed by another employee right now** — so **unjustifiable
+   hardship cannot be claimed for accommodating work someone else is already doing.**
+
+⇒ **Q6 and Q9 are answered by MSH's own records before the doctor writes a word.** An employer
+cannot approve an adjustment three times, record that it worked without deterioration, have the
+duties covered by others — and then say accommodation is not possible.
+⚠ **EVIDENCE ITEM, PRIORITY: who is performing the duties, which shifts, from when — in writing.**
+It is now load-bearing in three separate arguments.
+
+## 6.5 ⭐ AND SEPARATION WOULD CREATE FRESH RIGHTS
+He is a **current employee**, so he retains the internal grievance and dispute machinery an
+ex-employee loses — and **any separation would be a fresh dismissal**, opening reinstatement under
+the IR Act 2016 in the QIRC, the AD Act, and the general protections/reprisal file.
+⛔ **That is a deterrent to be understood, never a threat to be made.**
