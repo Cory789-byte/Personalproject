@@ -5756,3 +5756,33 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   within 48 hours. **S14 the gaps that are themselves signals** — the missing 27 Apr–24 May 2026
   movement instrument, the missing complete 2020 agreement, no Part 2 privilege schedule, and no
   document anywhere identifying the instrument for the exclusion or the non-payment.
+
+## 14 Aug 2026 — LONGITUDINAL ANALYSIS (`skill/references/LONGITUDINAL-ANALYSIS.md`)
+- Ten phases (P0 functioning 2020–mid2023 · P1 erosion of the informal layer · P2 simultaneous
+  system failure Feb–May 2024 · P3 collision · P4 adjudication+paradox · P5 restoration/dormancy ·
+  P6 the Regulator's July 2025 evidence week · P7 the conduct frame tried and abandoned ·
+  P8 formalisation of the accommodation Feb–Jun 2026 · P9 the break · P10 contest).
+- ⭐ **P8 is the phase that makes 2026 indefensible for MSH**: they did not merely tolerate the
+  reduced hours, they instrumentalised them three times at delegate level, with knowledge of his
+  health (his 5 May 2026 distress email preceded the deepest reduction by three weeks).
+- ⚠⚠ **OPEN QUESTION FLAGGED (P4): read Review Decision 69983 IN FULL.** It contains three
+  findings in his favour (unreasonable management action; work events the sole cause; no
+  pre-existing factor) yet confirmed the rejection. **The operative reasoning — not the quotable
+  extracts — determines what the appeal must overcome.** Do not assume.
+- **Mechanisms (not motives):** M1 channel collapse · **M2 DEFAULT-TO-ADVERSE** (HR's own word
+  "automatically" — harm accumulating with no decision-maker, which explains the missing
+  instrument better than design does, and is the more defensible thing to say aloud) · M3 velocity
+  asymmetry · **M4 formalisation is the only lever that has ever worked** · M5 documentation
+  gravity (the record gap widens by itself, so delay favours him evidentially while damaging him
+  financially) · M6 institutional non-communication · **M7 medicalisation as the LAST AVAILABLE
+  CATEGORY** (the conduct frame was tried in Sep 2025 and abandoned) — a more honest and more
+  survivable framing than "coordinated exit".
+- **Loops:** L1 documentation spiral · L2 the absent damper · L3 the escalation ratchet (cannot
+  run backwards) · ⭐⭐ **L4 THE FINANCIAL LOOP** — no pay → hardship → pressure to concede → every
+  concession destroys a claim → must hold → hardship deepens. **No internal exit; only outside
+  money breaks it.**
+- **Drifts:** status (employee→claimant→case) · hours (1.0→0.7→0.5→0, each step formalised except
+  the last) · their case (causation→exclusion) · his register (participatory→forensic) · custody
+  of his information now across EIGHT holders — ⭐ he is the only party holding the whole record.
+- ⭐⭐ **THE SINGLE SENTENCE:** every slow dynamic favours him and every fast one does not, so the
+  entire strategic problem is buying enough time for the slow dynamics to arrive.
