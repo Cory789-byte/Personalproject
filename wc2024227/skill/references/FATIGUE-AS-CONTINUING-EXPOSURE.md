@@ -74,3 +74,32 @@ Then, **separately**, the documented breach of 17–18 March 2024 as a discrete 
 ⭐ **And still put the hard one directly:** whether the interval between March 2024 and June 2024 is
 consistent with his formulation. On this framing the answer should be that the question is
 misconceived — the exposure was continuous — **but he should be the one to say so.**
+
+## PART 5 — ⛔⛔ THE ATTACK THIS THEORY MUST SURVIVE, AND THE HINGE THAT DEFEATS IT
+**Their best answer is MSH's own words turned around:**
+> *"Mandatory Fatigue Risk Management System training only applies to health practitioners and
+> clinical assistants. The Logan Hospital Switchboard staff are non-clinical staff, and therefore
+> there is no mandatory requirement…"* (CE letter, Item 4)
+
+⇒ **The argument: if no fatigue framework APPLIED, there was no rule to breach — so the absence of
+a fatigue system is not a failure, it is compliance with a system that never required one.**
+
+### ⭐⭐⭐ THE HINGE — THE 10-HOUR OBLIGATION IS NOT AN FRMS OBLIGATION
+**Form 24 ¶3 admits the minimum break of 10 hours (or 8 only by written agreement). That obligation
+is Award- and agreement-based. It exists whether or not the FRMS ever applied to the Switchboard.**
+⇒ ⭐ **The breach stands even if MSH is entirely right that no FRMS applied.** The two must never be
+argued as one.
+
+### ⭐⭐ AND THE ABSENCE GOES TO A DIFFERENT ELEMENT
+The missing fatigue system is **not** relied on as the breach. It is relied on for **exposure and
+foreseeability** — the psychiatric question, and the WHS Act ss 17/19 duty — namely that a role the
+employer itself describes as continuous 24/7 shift work with emergency-code duties under strict
+timeframes was carried on with **no fatigue assessment of any kind** until after the injury.
+⛔ **Keep the two strands in separate sentences, always:**
+| Strand | Element | Source |
+|---|---|---|
+| **10-hour minimum breached → 7 hours** | The **breach** | Award / agreement — Form 24 ¶¶1, 3 |
+| **No fatigue assessment, ever, until after 30 Jun 2024; no procedural change after the error** | **Exposure and foreseeability** | CE letter, Items 3(c), 4, 5, 7 |
+
+⚠ **Merging them hands MSH the "non-clinical" answer to both.** Kept apart, "non-clinical" answers
+neither: it does not touch the Award minimum, and it does not make an unassessed exposure safe.
