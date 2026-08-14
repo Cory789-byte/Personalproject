@@ -8,6 +8,8 @@
 ## PART 1 — THE SEQUENCE, AS RECORDED
 | When | What | Source |
 |---|---|---|
+| **24 Jul 2026, 19:08** | ⭐ **The ask.** *"(1) an up-to-date list of the documents disclosed by the Respondent…; and (2) copies of the form 29 Notice of Non-Party Disclosure issued by the Respondent, together with the documents produced in response to each."* Framed *"for completeness of my records"* | `documents/2026-07-24_Cory_to_Matheson_disclosure_list_request.pdf` ⚠ *no text layer — render* |
+| **3 Aug 2026, 07:17** | ⭐⭐ **Her own deadline, in her own words:** *"I apologise for the delay… I am in the process of updating the Regulator's list of documents and will have this and the NNPD copies to you **as soon as possible this week**."* | `correspondence-2026/2026-08-03_0717_Matheson_reply_disclosure_list_and_NNPD_commitment.pdf` ⚠ *no text layer* |
 | **31 Jul 2026, 10:46** | His WP "material development" letter to Matheson — four weeks excluded, no wages, no end date; invites reconsideration | `correspondence-2026/2026-07-31_1046_Cory_WP_material-development_to_Matheson_SENT.pdf` |
 | **7 Aug 2026** | Mention before Commissioner Dwyer | — |
 | **after the mention** | ⭐ **He WITHDRAWS** the application of 23 Jun 2026 and the outstanding items of the Form 29 sealed 22 Apr 2026. To the Registrar, cc Matheson, cc Ruttan | `drafts/out/WITHDRAWAL_Form29_and_64G_WC2024227.pdf` ⚠ *send date not yet filed in `documents/` — obtain it* |
@@ -41,16 +43,38 @@ goodwill and a single channel. The downside is that the channel is now voluntary
 
 ---
 
-## PART 3 — ⭐⭐ THE TWO-DAY TURNAROUND, AND WHAT MOVED IT
-| Request | Latency |
-|---|---|
-| 24 Jul 2026 — his disclosure-list request | 21 days, unanswered |
-| 12 Aug 2026 — he serves the bundle *(and had already withdrawn)* | **Cleared 14 Aug with an apology — 2 days** |
+## PART 3 — ⭐⭐ THE LATENCY, AND WHAT ACTUALLY MOVED IT
+| Step | Date | Elapsed |
+|---|---|---|
+| The ask | 24 Jul 19:08 | — |
+| Apology + **"as soon as possible this week"** | 3 Aug 07:17 | **10 days** |
+| The mention; that week ends; **nothing delivered** | 7 Aug | ⛔ **her own deadline passes** |
+| ⭐ **He withdraws the 64G and the outstanding Form 29 items anyway** | after 7 Aug | — |
+| ⭐ He serves the 28-page particulars bundle | 12 Aug | — |
+| **Delivery** | **14 Aug 10:28** | **11 days past her own commitment · 21 days from the ask** |
 
-⭐ **The disclosure did not arrive because he asked. It arrived after he gave something up and then
-served.** Third confirmation of the standing rule: **formal instruments and concessions move this
-system; requests do not.** (2024: the PID moved it in 2 days. Jun 2026: the Form 29. Aug 2026: the
-withdrawal + the bundle.)
+⭐⭐ **She defaulted on a deadline she set herself, and delivered only after he had (a) given up his
+compulsory route and (b) served.** The request alone did not move it. The apology did not move it.
+Her own written commitment did not move it.
+⇒ Third confirmation of the standing rule: **formal instruments and concessions move this system;
+requests do not.** (2024: the PID, 2 days. Jun 2026: the Form 29. Aug 2026: the withdrawal + bundle.)
+
+### 3.1 ⭐ THE ASK WAS BUILT TO SURVIVE NOT KNOWING THE ANSWER
+He did not know four notices existed. He could see the **fruit without the tree**: the disclosure
+lists recorded *productions* (LOD item 40, Qld Health payroll, 11/07/2025; item 42, 29/04/2026) but
+never the notices that compelled them.
+⭐⭐ So he asked for the **category**, not the item — *"the form 29 Notice of Non-Party Disclosure
+issued by the Respondent, together with the documents produced in response to each."* No number, no
+recipient, no date range. **An itemised request can be answered item-wise. A categorical request can
+only be answered completely, or visibly incompletely.**
+⇒ **This is the same technique now running in the conflict letter.** Part 2 of the Form 23 is a
+category, and it is empty.
+
+### 3.2 ⚠ NOTHING WAS IN MOTION WHEN HE ASKED
+The four notices are **4 Jul 2025 ×3** and **27 Apr 2026** — the most recent **three months** before
+the request. ⇒ **There was no live third-party activity for the request to have intercepted, and
+nothing time-sensitive to protect.** The 21-day latency is administrative, not defensive.
+⛔ Do not infer anything else from it.
 
 ---
 
@@ -104,6 +128,38 @@ confirmed the position at 13:29 without knowing the question was coming.** She c
 confirmation without explaining why.
 
 ---
+
+## PART 5A — ⭐⭐⭐ WHY THE WITHDRAWAL IS WHAT GIVES THE QUESTION ITS STANDING
+This is the mechanism, and it is the most important thing in this file.
+
+**If the Form 29 and the 64G were still live**, the conflict letter would arrive as one more front in
+a running disclosure fight. The available characterisation writes itself: *"the appellant is
+dissatisfied with disclosure and is pursuing it by every available means."*
+
+**Because he withdrew, there is no disclosure fight running.** The question *"what is behind the
+privilege tick"* now arrives from a party who has just **reduced** his disclosure demands, closed a
+compulsory route against a non-party, and told the Registry he will work through the Appeals Officer
+alone — and who then received the disclosure and asked one question about it.
+
+⭐⭐ **The concession bought the question its standing. It cannot be characterised as pressure,
+because on the face of the file he is the only party who has given anything up.**
+
+⚠ **And that only holds while nothing else is running.** Reopening any disclosure front — informally
+approaching MSH, a fresh notice, a second chasing letter — retro-actively converts the withdrawal
+from restraint into tactics. **The standing is real but it is perishable.**
+
+## PART 5B — ⭐ "DOES IT READ AS THOUGH IT WAS PLANNED?"
+Read cold by a third party with no knowledge of intention, the sequence has an author:
+> ask → be promised a date → be defaulted on → **concede anyway** → serve particulars → receive the
+> disclosure → confirm nothing is being disputed → **ask one question about what is missing.**
+
+⭐ **It reads as design because it functions as design** — each step makes the next one available and
+makes the obvious counter unavailable. That is what "restraint as posture" produces when applied
+consistently: it is not visible as strategy while it happens, and it is unmistakable afterwards.
+⛔⛔ **NEVER SAY THIS OUT LOUD, TO ANYONE, IN ANY FORUM.** Narrating the architecture destroys it —
+it converts a restrained record into an admitted stratagem and hands the other side the
+characterisation the structure currently denies them. **The record does this work silently or not at
+all.** Internal note only.
 
 ## PART 6 — WHAT SHE DOES NEXT (realistic band, not prediction)
 | | Outcome | Assessment |
