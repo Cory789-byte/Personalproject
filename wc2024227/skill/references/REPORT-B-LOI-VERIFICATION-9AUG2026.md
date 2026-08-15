@@ -255,3 +255,33 @@ and **Q9** (*"if we are not able to accommodate the restrictions… is Mr Shephe
 return"*) is already defeated on the facts, because the duties are being performed by someone else.
 ⇒ **A complete Report A puts MSH in the position of having to accommodate or explain. A thin one
 lets them keep saying they do not have enough information.**
+
+## ⛔⛔⛔ 14 AUG — THE REVIEW DECISION CONFLICT IS WIDER THAN FIRST FLAGGED: THREE DOCUMENTS
+| Document | Position on **Review Decision 69983** |
+|---|---|
+| `skill/references/confirmed-record.md` (**6 Aug**, the ONE-REPORT decision) | ⛔ Lists the report as based on *"his own clinical assessment and the documents reviewed (roster, **Review Decision 69983**, certificates)"* |
+| **This file** (**9 Aug**, defect #1, **CRITICAL**) | ⛔ *"Review Decision 69983 removed from the enclosures entirely"* + an express direction not to adopt any other decision-maker's finding |
+| `drafts/PSYCHIATRIST_BUNDLE_12AUG.md` §B (**12 Aug**) | ⛔⛔ *"the most important document in the bundle"* |
+
+⇒ **Two of the three put the Review Decision in front of the clinician. The middle one removes it.
+The settled position is the 9 August one, and it must now be applied to the other two.**
+
+### ⭐⭐⭐ AND TODAY SUPPLIES THE REPLACEMENT — WHICH IS STRICTLY BETTER
+The Review Decision was there to establish that the rostering was unmanaged. ⭐ **The CE letter of
+5 June 2026 does the same work without any of the contamination:**
+| | Review Decision 69983 | ⭐ The 5 June CE letter |
+|---|---|---|
+| Author | A **superseded decision-maker**, on a decision **rejected** on appeal and heard **de novo** | ⭐⭐ **The employer's own Chief Executive**, to the Commission |
+| What it supplies | A **conclusion** (unreasonable management action; sole cause) | ⭐ **Facts** — no fatigue assessment, no complaints record, **no consequential changes to operating procedures**, MET calls on 17–18 March, the 19 March leave takings report |
+| Effect on the opinion | ⛔ Makes causation read as **instructed** | ⭐⭐ Makes causation read as **evidence-based** |
+
+⇒ ⛔ **REMOVE Review Decision 69983 from every clinician-facing document. SUBSTITUTE the CE letter
+extracts, the SOFC admissions register and the role description.** The report loses nothing and
+becomes materially harder to attack.
+
+## ⚠ ONE-REPORT CONSEQUENCE FOR THE ASSUMED-FACTS SCHEDULE
+The report is addressed to Cory but **goes to MSH in full and is disclosed in the appeal** — *"he
+cannot provide a redacted specialist report."* ⇒ **The schedule travels with it to both audiences.**
+⛔ **Nothing may be in it that he would not want MSH to hold**: no PID connective material, no
+reprisal framing, no parallel-track content, no characterisations. **Admissions, employer documents,
+dates and arithmetic only.**
