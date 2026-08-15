@@ -285,3 +285,45 @@ cannot provide a redacted specialist report."* ⇒ **The schedule travels with i
 ⛔ **Nothing may be in it that he would not want MSH to hold**: no PID connective material, no
 reprisal framing, no parallel-track content, no characterisations. **Admissions, employer documents,
 dates and arithmetic only.**
+
+## ⭐⭐⭐ 14 AUG — THE THREE-SOURCE SPINE (Cory): FORM 24 · CE LETTER · PATIENT HISTORY
+| Leg | Author | Supplies |
+|---|---|---|
+| **1 · Form 24 response** (+ the SOFC admissions register — same class) | ⭐ **The Regulator** | The **rule and the breach**: 10-hour minimum · 7-hour break · *"a rostering error that was accidentally made"* · Switchboard accuracy **critical to clinical handover and patient safety** · the AVAC chain, 25 days · the comms-book removal |
+| **2 · The CE letter, 5 Jun 2026** | ⭐ **The employer's Chief Executive** | The **absent controls**: no fatigue risk assessment · fatigue management only **after 30 June 2024** · complaints *"solely via email or verbally"* · **no consequential changes to operating procedures** · **MET calls recorded on 17–18 March 2024** · the **19 March leave takings report** |
+| **3 · Patient history** | **The clinician** | Diagnosis, course, mental state, premorbid picture, the 2022 entries, the 16 Nov 2023 baseline, the certificates |
+
+### ⭐⭐⭐ WHY THIS IS BETTER THAN THE NINE-ENCLOSURE VERSION
+**It removes Enclosure A — his signed statement — from the assumed-facts basket entirely.**
+⇒ The two-basket problem **disappears**, and with it the need for the alternative-basis question:
+**there is no alternative basis, because the workplace facts were never his.**
+
+⭐⭐ **And it puts the attack surface where nothing can reach it.** Nobody criticises a psychiatrist
+for taking a history — that is his job. What destroys these reports is taking the **workplace facts**
+from the patient. **Here he takes the history clinically and the workplace facts documentarily, and
+every workplace document was written by the other side.**
+
+### ⛔ THE ONE GAP — AND IT IS LOAD-BEARING
+**Neither Form 24 nor the CE letter describes what the job actually is.** Form 24 ¶8 gives its
+*criticality*; the CE letter gives the *absent controls*. **Neither gives the DEMANDS.**
+⇒ **Q6.9 (mechanism) asks about "sustained demand, the degree of control or autonomy, the adequacy
+of support". Two of those three legs are covered. Demand is not.**
+
+⭐ **FIX — add the AO3 Switchboard role description** (RFMI Attachment 2). It is **MSH's own
+document**, so it keeps the discipline intact, and it supplies the missing leg verbatim:
+*"required to work continuous shift work over the full 24-hour period, 7 days a week"* ·
+*"Participate in the Emergency Response process … strictly adhering to protocols and timeframes"* ·
+*"Maintain call queues to minimum at all times"* · *"multitask and operate under pressure,
+particularly where high volume call traffic is concerned"* · *"exercise judgement … where precedence
+have not been set and procedures not defined"* · *"limited supervision"*.
+
+⚠ **Do NOT confuse it with the role description enclosed at CE letter Item 6 — that one is for the
+MANAGER of Switchboard Services, a different document.**
+⚠ Also flag: the role description **defines the inherent requirements** and makes 24/7 shift work
+mandatory. See `THE-MEDICAL-SEPARATION-PATHWAY.md` §6.3.
+
+### ⇒ THE SPINE, CORRECTED
+**Four documents for the workplace facts — Form 24 · the SOFC admissions register · the CE letter ·
+the role description. All four written by the other side. Plus the clinical history, which is his.**
+⛔ Enclosures A and B come out of the assumed-facts basket. Enclosure C was already scope-only.
+⛔ Review Decision 69983 stays out — the CE letter does its work without the contamination.
