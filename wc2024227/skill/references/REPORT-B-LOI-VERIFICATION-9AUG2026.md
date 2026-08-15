@@ -421,3 +421,36 @@ Question 3.4 already asks whether current incapacity is attributable to the cond
 consequences of exclusion since 3 July 2026, or to other factors. ⭐ **Keep those three as three.**
 Collapsing them hands the Regulator an argument that the current picture is driven by anything other
 than the injury — and hands the employer an argument that the exclusion is not causing harm.
+
+## ⛔⛔⛔ 15 AUG — DEFECT FOUND AND FIXED IN THE ASSEMBLED PACK
+`documents/2026-02-18_Form24_Response_and_email_communication.pdf` is **13 pages and contains BOTH
+documents**: pages 1–6 are **the appellant's own Notice to Admit Facts**; pages 7–13 are the
+Respondent's Response.
+
+⛔ **As first assembled, Attachment 1 sent the practice the NOTICE as well**, which meant:
+1. **His own 50 assertions** — reintroducing the self-report problem the whole design removes;
+2. **Notice ¶20** — the ESU / Public Interest Disclosure determination;
+3. ⛔⛔ **Notice ¶¶26–29 — his own intimate medical particulars** (treatment for diarrhoea and
+   haemorrhoids; a chlamydia PCR request; prescriptions for Viagra and Cialis), listed by him to
+   make a privacy point in the appeal.
+
+⚠⚠ **Under the Form 29 the practice holds, all of that would be produced to the Regulator — re-
+exposing the very disclosure his own Notice ¶31 records as having caused him distress.**
+
+**FIXED:** Attachment 1 is now **the Response pages only**.
+⭐ **STILL TO DO — and it is the proper form:** replace it with a **clean admissions extract**, each
+line stating the admitted fact with its pinpoint (Response ¶ and Notice ¶). That is what the letter
+of instruction always described Enclosure D as. ⛔ **Every line must be verified against the
+rendered Response before it goes — the Response text layer is incomplete and the numbering drifts
+after Notice ¶25.**
+
+## ⛔ 15 AUG — THREE PROPOSED ADDITIONS, ASSESSED
+**The governing test, now that the practice holds a Form 29: not “does it help the report”, but
+“do I want the Regulator to receive this through my doctor's file?”**
+
+| Proposed | Verdict |
+|---|---|
+| **The Stephen Johns letter** | ⛔⛔ **NO.** Post-injury; litigation conduct; nothing to do with diagnosis, mechanism or capacity. It is the subject of a **live, unanswered enquiry to Matheson** — sending it to the practice hands her his own conflict enquiry through his treating file |
+| **The PID, as a PID** | ⛔⛔ **NO** — and it must be **removed**, which the fix above does. A psychiatrist writing about a protected disclosure and what followed produces **reprisal framing**: barred by Discipline Rule 1, and it opens **s 32(5)(b)** from his own side |
+| ⭐ **The underlying clinical fact** | ✅ **YES, reframed.** *That he raised concerns about clinical risks in May 2024 and they were not investigated* is a legitimate psychosocial stressor and is admitted. Put it in the extract in those words — ⛔ **without “public interest disclosure”, “protected disclosure”, or anything about what followed** |
+| **The patient-safety email** | ⚠ **Only if admitted.** If it is his own email it breaks the four-document design. If the Regulator admits it was sent and in what terms, **put the admitted fact in the extract — not the document** |
