@@ -92,6 +92,34 @@ story.append(P("Please do not adopt, or treat as established, any conclusion, ch
                "you to express any view on whether any management action was reasonable; that is a "
                "question for the Commission.", BODY))
 
+story.append(P("<b>Dates.</b> So that the sequence is available to you from a source other than my "
+               "own account, the following dates are taken from the Regulator's amended List of "
+               "Documents dated 14 August 2026, by its item number.", BODY))
+drows = [[P("<b>Item</b>", SMALL), P("<b>Date</b>", SMALL), P("<b>Document</b>", SMALL)],
+ [P("46", SMALL), P("1 July 2024", SMALL), P("Text, WorkCover to me, noting the claim registered", SMALL)],
+ [P("7", SMALL), P("1 July 2024<br/>11 August 2024<br/>8 September 2024", SMALL),
+  P("Workers' compensation medical certificate — Dr Peter Hawes", SMALL)],
+ [P("8", SMALL), P("7 August 2024", SMALL),
+  P("Workers' compensation medical certificate — Dr Ki Pang", SMALL)],
+ [P("2", SMALL), P("13 September 2024", SMALL), P("WorkCover Queensland reasons for decision", SMALL)],
+ [P("3", SMALL), P("16 September 2024", SMALL), P("Application for review", SMALL)],
+ [P("4", SMALL), P("24 October 2024", SMALL), P("Review Unit reasons for decision", SMALL)],
+ [P("<b>9</b>", SMALL), P("<b>24 October 2024</b>", SMALL),
+  P("<b>Email, Dr Krishnaiah — noting injury and medication</b>", SMALL)],
+ [P("5", SMALL), P("26 November 2024", SMALL), P("Notice of Appeal", SMALL)],
+ [P("10", SMALL), P("13 February 2025", SMALL), P("Report of Mind and Memory Service", SMALL)],
+ [P("11", SMALL), P("Various", SMALL), P("Practice records — Our Medical Ashmore", SMALL)]]
+dt = Table(drows, colWidths=[13*mm, 34*mm, 119*mm], repeatRows=1)
+dt.setStyle(TableStyle([
+    ('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#bbbbbb')),
+    ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#eeeeee')),
+    ('VALIGN', (0,0), (-1,-1), 'TOP'),
+    ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
+    ('TOPPADDING', (0,0), (-1,-1), 3), ('BOTTOMPADDING', (0,0), (-1,-1), 3)]))
+story.append(dt)
+story.append(P("A copy of the Notice of Non-Party Disclosure served on your practice accompanies "
+               "this letter.", SMALL))
+
 # PART C — THE THREE MATTERS
 story.append(P("PART C — THE MATTERS IN ISSUE", PART))
 story.append(P("You have been served with a Notice of Non-Party Disclosure in this proceeding. That "
