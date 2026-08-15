@@ -372,3 +372,52 @@ in that light, not obstruction** — and it points the same way as the four-docu
    notices issued (the standing practice already recorded at `BIDIRECTIONAL-TIMING-ANALYSIS.md` §8.2).
 2. ⚠ **Establish the return window.** It may be running now.
 3. ⛔ **Send nothing to the practice until the notice's terms are known.**
+
+## ⛔⛔ 15 AUG — TWO CORRECTIONS ON COMPETING FACTORS (Cory's catch)
+### 1 ⭐⭐⭐ THE RELATIONSHIP STRAIN IS NOT A COMPETING CAUSE — HIS OWN REPORT SAYS SO
+The 13 February 2025 report records, in the treating psychiatrist's own words:
+> *"His pay was withheld or delayed for up to five months at a time, **leading to significant
+> financial stress and strain on his relationship**."*
+and, in the presenting complaint: *"financial difficulties due to withheld pay, relationship
+strain, sleep disturbances…"*
+
+⇒ ⭐⭐⭐ **On the contemporaneous clinical record the relationship strain is a DOWNSTREAM EFFECT of
+the employment matters — specifically the pay failures — not an independent life event.** The
+25-day AVAC delay and the pay pattern across 2023–24 are admitted (SOFC ¶¶20(a), 21(a)–(c); Form 24
+¶¶40–41).
+
+⛔ **The simulation of 15 Aug was too concessive.** It listed relationship breakdown among factors
+bearing on *"course and persistence"*. That concedes an independent stressor the record does not
+support. **A factor downstream of the employment is not a competing factor at all.**
+⇒ **Question 3.3 must invite the clinician to say, where the record supports it, that a matter is a
+consequence of the employment rather than a separate cause.** He wrote the causal chain himself in
+February 2025; he need only be asked to place it.
+
+### 2 ⛔⛔⛔ THE APPEAL ITSELF — AN EXPOSURE NOT PREVIOUSLY FLAGGED
+**The appeal was lodged 26 November 2024 — after the diagnosis of 24 October 2024.**
+⚠ The standard attack on a psychiatric injury claim of this age is that **the proceedings, not the
+employment, now maintain the condition.** It is effective because it is often partly true.
+⛔⛔ **And it is reinforced by statute:** the exclusion recited at Form 9C ¶5(d)(iii) and SOFC
+¶6(d)(iii) covers *"action taken by WorkCover in connection with the appellant's application for
+compensation."*
+
+⇒ ⛔ **Nothing in the report may attribute any part of the condition to the claim, the review, the
+appeal, or the conduct of the proceedings.** Not as cause, and not as aggravation.
+
+### ⭐ HOW THE INSTRUCTION MUST HANDLE IT
+1. ⛔ **Do not invite it.** Question 3.3 asks for factors bearing on onset and course; it must not
+   prompt the clinician toward the litigation.
+2. ⛔ **Do not exclude it either.** Directing a clinician to ignore something he considers relevant
+   is steering, and a report that conceals it is worse than one that addresses it.
+3. ⭐⭐ **Rely on the separation already built into 3.4**, which distinguishes (a) capacity with
+   adjustments from (b) current incapacity and its cause. **Cause of onset and cause of current
+   state are different questions and must never be answered in one sentence.**
+4. ⭐ If the clinician does attribute current distress to the proceedings, that is his opinion and it
+   is survivable — **it goes to current state, not to the causation of an injury with onset on
+   18 June 2024**, five months before the appeal was filed.
+
+### ⚠ AND THE 2026 EXCLUSION POINT MUST BE HELD SEPARATE TOO
+Question 3.4 already asks whether current incapacity is attributable to the condition, to the
+consequences of exclusion since 3 July 2026, or to other factors. ⭐ **Keep those three as three.**
+Collapsing them hands the Regulator an argument that the current picture is driven by anything other
+than the injury — and hands the employer an argument that the exclusion is not causing harm.
