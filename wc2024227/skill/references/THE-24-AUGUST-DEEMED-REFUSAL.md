@@ -81,3 +81,65 @@ it is the only outcome that does not depend on anybody agreeing to anything.
 3. ⭐ **It is the lead item for the union dispute notification**, as the working record has said
    since the clause was first identified.
 4. ⚠ **And it is entirely separate from the medical process** — which is the point. Keep it that way.
+
+---
+
+# PART 7 — WHAT "NO GROUNDS" ACTUALLY DOES, AND WHAT THE PROCESS IS
+> ⚠ **Every route below must be checked to source before it is used.** The clause's own dispute
+> procedure governs, and the QIRC's jurisdiction follows from it.
+
+## 7.1 ⭐⭐⭐ IT FREEZES THEIR REASONS AT ZERO
+In an ordinary refusal the employer states grounds and the employee must show they were not
+reasonable. **In a deemed refusal there are no grounds to attack — and none can be supplied later.**
+1. The clause requires the grounds to be **in the written decision, within the period**. Reasons
+   produced afterwards are not the decision; they are a reconstruction of it.
+2. ⭐⭐ **And the reconstruction is already dated.** The working record establishes that every
+   *"psychosocial hazard / safety / inherent requirements"* formulation **post-dates the requirement
+   (13, 15, 29 July)** and was built after it, not as its basis. **So if grounds appear after
+   24 August, the sequence showing when they were invented is already on the file.**
+⇒ **The burden does not shift to him at all. There is nothing for him to disprove.**
+
+## 7.2 ⭐⭐ AND IT COMPLETES A SET OF FOUR ABSENCES, ALL DATED, ALL ASKED FOR IN WRITING
+| Asked | Answer as at 24 Aug |
+|---|---|
+| Under what **instrument** am I excluded? (six times since 26 Jun) | **None given** |
+| Under what **instrument** are my wages withheld? (13 Jul) | **None given** |
+| **Who decides**, and under what delegation? (s 89 letter, 3 Aug, Part 3(c)) | **None given** |
+| **On what grounds** is my request refused? (cl 10.3, matures 24 Aug) | ⭐ **None given — and now none can be** |
+
+⭐⭐⭐ **Four absences is not four arguments. It is one: the process has never been stated.** That is
+the through-line the whole matter has been running on since April 2024 — *what is the basis?*
+
+## 7.3 THE PROCESS FROM 24 AUGUST — IN ORDER
+| Step | What |
+|---|---|
+| **1** | ⭐ **Record it.** One line, dated: the request of 3 Aug 2026 under cl 10.3.2 was deemed refused under cl 10.3.6 on 24 Aug 2026, no grounds having been stated. **No argument** |
+| **2** | It becomes a **matter within the agreement's dispute procedure** — either added to the dispute already notified on 3 Aug, or notified afresh. ⚠ **Check the clause: some DRPs require a fresh notification for a new matter** |
+| **3** | The **local stages** run. They have already produced nothing on the earlier matters, so expect the same |
+| **4** | ⭐⭐ **Unresolved ⇒ the QIRC**, as a dispute about the application of the certified agreement. ⚠ **Verify the referral provision and any time limit before relying on it** |
+| **5** | The Commission deals with it — **conference first, arbitration if it does not resolve** |
+
+## 7.4 ⭐⭐⭐ WHY THIS FORUM IS DIFFERENT FROM THE APPEAL
+- **Cheap, quick and genuinely self-representable.** A certified-agreement dispute is not a de novo
+  medical appeal; it is a short point about whether a clause was complied with.
+- ⭐⭐ **And the case is one sentence: *"I asked to change the way I work. No decision was made. No
+  grounds were given. I have not been paid since 13 July."*** Nothing about causation, nothing
+  medical, nothing about anyone's conduct.
+- ⭐ **It is the only live forum in which the pay question can be decided quickly.** The appeal cannot
+  reach the 2026 wages; this can.
+
+## 7.5 ⚠ TWO CAUTIONS
+1. ⚠⚠ **CHECK WHETHER THE DEEMED REFUSAL IS ALSO AN APPEALABLE DECISION** under the Public Sector
+   Act 2022 (fair treatment appeal). **If it is, a short limitation period runs from 24 August** —
+   commonly 21 days. ⛔ **Establish this before 24 August, not after.** Missing it would be the one
+   avoidable loss in the whole employment track.
+2. ⚠ **Discipline rule 8 — parallel tracks sit behind the WC settlement.** A QIRC employment dispute
+   runs in the same Commission as the appeal. ⭐ **But this one may justify an exception: the wages
+   are the survival issue, the point is clean, and it touches nothing in WC/2024/227.**
+   **That is Cory's call, with the union — not a default.**
+
+## 7.6 ⭐ THE ONE THING THAT WOULD SPOIL IT
+**A decision issued before 24 August, with grounds.** That converts a no-grounds breach into an
+ordinary reasonableness dispute, which is much harder.
+⇒ ⛔ **Which is the whole reason not to invite one at the 21 August meeting**, and not to agree to
+any extension. **Say nothing that asks them to decide. Let the clause do it.**
