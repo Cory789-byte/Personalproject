@@ -327,3 +327,48 @@ mandatory. See `THE-MEDICAL-SEPARATION-PATHWAY.md` §6.3.
 the role description. All four written by the other side. Plus the clinical history, which is his.**
 ⛔ Enclosures A and B come out of the assumed-facts basket. Enclosure C was already scope-only.
 ⛔ Review Decision 69983 stays out — the CE letter does its work without the contamination.
+
+## ⛔⛔⛔ 14 AUG — A FURTHER FORM 29 HAS BEEN SERVED ON THE PRACTICE (August 2026)
+**Cory, 14 Aug 2026: Mind and Memory Service has been served with a Form 29 in August 2026.**
+
+### ⚠ WHAT IS NOT YET KNOWN — OBTAIN THE NOTICE ITSELF BEFORE ANYTHING ELSE
+| | |
+|---|---|
+| Date filed / sealed · date served | **unknown** |
+| Issuing party | **unknown** — presumed the Regulator; ⛔ do not assume |
+| Schedule and date range | **unknown** |
+| Return window (7–14 days after service, r 49-style) | **unknown** — ⚠ **it may already be running** |
+
+⚠⚠ **It is not among the four notices disclosed on 14 August 2026** (4 Jul 2025 ×3; 27 Apr 2026).
+⛔ **That is a fact, not a grievance.** A notice issued after the disclosure package was assembled
+would be an innocent explanation. **Ask for it in the ordinary way — but not this week.**
+
+### ⭐⭐⭐ THE CONSEQUENCE THAT CHANGES DRAFTING TODAY
+The 2025 notice to the practice sought *"notes, reports, memorandums, letter, and **other
+correspondence** … concerning work related issues."* If the August 2026 notice is in like terms:
+⇒ ⛔⛔ **THE LETTER OF INSTRUCTION, ONCE SENT, BECOMES A DOCUMENT HELD BY THE PRACTICE AND LIABLE
+TO BE PRODUCED — together with any covering email, any draft, and the attachments.**
+
+**Nothing goes to the practice that he would not want the Regulator reading the day it arrives.**
+- ⛔ **No covering email explaining why questions are framed as they are.** No strategy, ever.
+- ⛔ `drafts/out/QUESTIONS_AND_DOCUMENTS_Krishnaiah.pdf` is **INTERNAL** — its Part 3 is working
+  analysis. **It must never go near the practice.** That marking is now load-bearing.
+- ⛔ Nothing from the parallel tracks, the PID, the withdrawal, or any characterisation.
+
+### ⭐⭐⭐ AND THE FOUR-DOCUMENT DESIGN IS BUILT FOR EXACTLY THIS
+The instruction asks the clinician to assume **only** facts the Regulator admitted and the employer
+wrote. ⇒ **When the Regulator reads it under her own notice, she finds an instruction that directed
+her own expert-facing clinician to rely on her own admissions and the employer's own letter.**
+⭐ **There is nothing in it to attack.** The design that was chosen for evidential strength turns out
+to be the design that survives compelled production. **Do not dilute it.**
+
+### ⭐⭐ IT MAY ALSO EXPLAIN THE CLINICIAN'S CAUTION
+A treating specialist served with a compulsory notice in a live proceeding will be careful about
+what he writes and on what basis. **His insistence on a stated basis reads as professional prudence
+in that light, not obstruction** — and it points the same way as the four-document design.
+
+### ACTIONS
+1. ⭐⭐ **Obtain the notice** — from the practice, or ask the Regulator for any further third-party
+   notices issued (the standing practice already recorded at `BIDIRECTIONAL-TIMING-ANALYSIS.md` §8.2).
+2. ⚠ **Establish the return window.** It may be running now.
+3. ⛔ **Send nothing to the practice until the notice's terms are known.**
