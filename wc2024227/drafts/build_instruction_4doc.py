@@ -191,12 +191,19 @@ story.append(P("<b>3.2 The interval.</b> The rostering matters at 2.3 occurred i
 story.append(P("<b>3.3 Other factors, placed in time.</b> Please identify any non-employment factors "
                "relevant to (a) onset at or about 18 June 2024 and (b) the subsequent course. Your "
                "report of 13 February 2025 referred to multiple life stressors including relationship "
-               "breakdown, job loss and bereavement. <b>Your clinical relationship with me began on "
-               "24 October 2024.</b> Each of those matters therefore arose while I was under your "
-               "care and is recorded in your own file. Please place each factor in time <b>from your "
-               "own records rather than by assumption</b>, and state its significance to (a) and "
-               "(b) respectively.", Q))
-story.append(P("[CONFIRM: what is to be said about 24 October 2024 and support from that date.]", FLAG))
+               "breakdown, job loss and bereavement.", Q))
+story.append(P("<b>Your clinical relationship with me began on 24 October 2024, and my partner "
+               "attended that consultation with me.</b> Each of the matters above arose while I was "
+               "under your care and is recorded in your own file. I ask you:", BODY))
+story.append(P("<b>(a)</b> to place each factor in time <b>from your own records rather than by "
+               "assumption</b>;", Q))
+story.append(P("<b>(b)</b> to state whether, <b>as at the date of your diagnosis</b>, my relationship "
+               "was a protective factor or an adverse one; and", Q))
+story.append(P("<b>(c)</b> for each factor, whether in your opinion it was <b>independent of the "
+               "employment matters, or a consequence of them</b> — noting that your report of "
+               "13 February 2025 records that my pay was <i>“withheld or delayed for up to five "
+               "months at a time, leading to significant financial stress and strain on his "
+               "relationship”</i>.", Q))
 
 story.append(P("<b>Capacity, restrictions and adjustments</b> — the matters my employer has asked "
                "about. My certificate of capacity of 3 July 2026 certifies me fit for my substantive "

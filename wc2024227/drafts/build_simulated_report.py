@@ -156,16 +156,25 @@ s.append(P("<b>3.2 The interval.</b> I am asked whether the interval between the
            "the individual's capacity to compensate is exceeded. On that analysis there is no "
            "interval requiring explanation. As to the interval between onset and first presentation, "
            "it is of the order of two weeks, which is short.", BODY))
-s.append(P("<b>3.3 Other factors, placed in time.</b> My report of 13 February 2025 referred to "
-           "multiple life stressors including relationship breakdown, job loss and bereavement. I am "
-           "able to place these from my own file rather than by assumption, my clinical relationship "
-           "with Mr Shepherd having commenced on 24 October 2024. Each of those matters arose after "
-           "that date and therefore after the diagnosis was made and after onset. In my opinion they "
-           "bear on the course and persistence of the condition and did not cause it. I note further "
-           "that the cessation of employment was itself a consequence of the condition and its "
-           "handling, and was subsequently reversed.", BODY))
-s.append(P("[GAP — the file must in fact date these events. If it does not, the answer weakens to "
-           "“after October 2024” without particulars.]", GAP))
+s.append(P("<b>3.3 Other factors, placed in time.</b> My clinical relationship with Mr Shepherd "
+           "began on 24 October 2024. <b>His partner attended that consultation with him.</b> At that "
+           "time, and as I recorded in my report of 13 February 2025, the relationship was a "
+           "<b>protective factor</b>: <i>“Protective factors include a supportive partner and "
+           "willingness to seek help.”</i>", BODY))
+s.append(P("The diagnosis was made on 24 October 2024. The relationship breakdown occurred "
+           "subsequently, between about December 2024 and February 2025. It therefore post-dates both "
+           "the onset of the condition and the diagnosis of it, and cannot have caused either.", BODY))
+s.append(P("As to whether that matter was independent of the employment: my report of 13 February "
+           "2025 records that his pay was <i>“withheld or delayed for up to five months at a time, "
+           "leading to significant financial stress and strain on his relationship.”</i> On that "
+           "history the strain was <b>a consequence of the employment matters and not a factor "
+           "independent of them</b>. The cessation of employment likewise followed the condition and "
+           "its handling, and was later reversed. In my opinion these matters bear on the course of "
+           "the condition and not on its causation.", BODY))
+s.append(P("⭐ This is the strongest answer in the report and it rests entirely on the clinician's "
+           "own observation and his own earlier words. He met the partner. He recorded the "
+           "relationship as protective at the moment of diagnosis. He treated Mr Shepherd through the "
+           "breakdown. Nothing here is assumed and nothing is taken from the patient's account.", GAP))
 
 s.append(P("<b>3.4 Prognosis and current capacity.</b> Prognosis is conditional. Mr Shepherd has "
            "shown capacity to work in his substantive role where predictable arrangements were in "
