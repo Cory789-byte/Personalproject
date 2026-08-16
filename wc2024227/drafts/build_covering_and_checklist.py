@@ -78,137 +78,101 @@ print("built out/COVERING_EMAIL_to_practice.pdf")
 # ─────────────────────────────────────── 2. PRE-SEND CHECKLIST (INTERNAL)
 c = []
 c.append(P("PRE-SEND CHECKLIST — the psychiatric instruction", H1))
-c.append(P("⛔⛔ <b>INTERNAL. This page never goes to the practice, to the employer, or to the "
-           "Regulator.</b> Everything else in the pack is written to be produced; this is not.", WARN))
+c.append(P("⛔⛔ <b>INTERNAL. This never goes to the practice, to the employer or to the Regulator, "
+           "and it is not in the pack.</b> Everything else built for this is written to be "
+           "produced; this is not. Rewritten and renumbered 16 August 2026.", WARN))
 
-c.append(P("BEFORE ANYTHING IS SENT", SEC))
-c.append(P("<b>0. ⭐⭐⭐ THE DRAFT.</b> Part D asks to be provided with a draft to identify factual "
-           "error. <b>When it arrives, the review is FACTS ONLY.</b> ⛔ Do not comment on any "
-           "opinion, do not suggest a conclusion, do not ask for anything to be strengthened — "
-           "the letter promises it and the promise is the protection. Check: dates · names · which "
-           "document said what · attachment references · whether every document reviewed is listed "
-           "· whether it states which Part B sources the causation opinion rests on · whether it "
-           "uses <i>“unfair dismissal”</i> or <i>“bullying”</i> · whether the <i>“not for "
-           "medico-legal use”</i> footer appears.", ITEM))
-c.append(P("<b>1. ✅ FUNDING IS CLOSED — MSH contacted the practice directly and confirmed it will "
-           "meet the cost.</b> ⭐ That is the strongest form it could take: not a promise to Cory "
-           "but a commitment made directly to a third party, of which the practice holds the "
-           "record. Two small follow-ups remain, and <b>neither involves contacting MSH</b>:<br/>"
-           "⭐ <b>(a) The quantum.</b> <i>“Will meet the cost”</i> is not <i>“will meet the cost up "
-           "to $X”</i>. Confirm the practice's figure with the practice when booking. The "
-           "PsychGroup benchmark on file is $10,000–$30,000 for a full medico-legal report; this "
-           "instruction asks a narrower question and should be priced well below it.<br/>"
-           "⭐⭐ <b>(b) What ELSE did the Health Service say to the practice?</b> If it framed a "
-           "scope, or sent its own questions, the doctor may believe he is answering MSH's brief "
-           "rather than this instruction. <b>Ask the practice one neutral question when booking: "
-           "what has the Health Service provided to you, or asked of you?</b> ⛔ The letter of "
-           "instruction must be the only instruction. ⭐ And question 1.5 catches it either way — "
-           "anything MSH sent will appear in the list of documents reviewed.", ITEM))
-c.append(P("<b>1a. ⛔⛔ THE ONE THING TO WATCH FOR ON THE DRAFT — HIS OWN 2025 REPORT CODED THE "
-           "PREPARATION AS A SYMPTOM.</b> The report of 13 February 2025 lists, <b>under "
-           "symptoms</b>: <i>“obsessive rumination, fear driven thoughts, <b>extensive researching, "
-           "and planning on fact findings for work-related issues including reading up on policies, "
-           "procedures, and legislations</b>”</i>, and records that the proceedings <i>“have "
-           "consumed his whole life severely affecting his functioning.”</i><br/>"
-           "⇒ ⭐⭐⭐ <b>A seven-page forensic instruction, a schedule of assumed facts and five "
-           "attachments, prepared personally by the patient, is on its face the very behaviour that "
-           "clinician has already recorded as pathology.</b> ⚠ Watch for any sentence in the new "
-           "report that treats the preparation of the case as a symptom, or the litigation as the "
-           "barrier to return. <b>It is an incapacity marker, it is directly usable by the "
+c.append(P("A · BEFORE THE INSTRUCTION IS SENT", SEC))
+c.append(P("<b>1. Insert the date.</b> It is the only bracket left in the letter.", ITEM))
+c.append(P("<b>2. ✅ Funding is closed</b> — Metro South Health contacted the practice directly and "
+           "confirmed it will meet the cost. ⭐ Not a promise to Cory but a commitment to a third "
+           "party, of which the practice holds the record. <b>Two follow-ups, and neither involves "
+           "contacting MSH:</b> ⭐ <b>(a)</b> confirm the <b>figure</b> with the practice when "
+           "booking — <i>“will meet the cost”</i> is not <i>“up to $X”</i>, and re-opening it with "
+           "MSH invites a cap; ⭐⭐ <b>(b)</b> ask the practice one neutral question: <b>what has the "
+           "Health Service provided to you, or asked of you?</b> If MSH framed a scope or sent its "
+           "own questions, the doctor may think he is answering their brief. <b>The letter of "
+           "instruction must be the only instruction</b> — and question 1.5 catches it either way.", ITEM))
+c.append(P("<b>3. The practice footer.</b> The report of 13 February 2025 carries <i>“disclosed for "
+           "Qsuper and not for medico-legal use”</i> on every page. ⛔ <b>If that appears on this "
+           "report it is compromised on its face.</b> The covering email raises it; confirm it has "
+           "been understood.", ITEM))
+c.append(P("<b>4. ⭐⭐ SEQUENCE: serve the AO3 role description on the Regulator BEFORE the report is "
+           "commissioned.</b> Her amended List of Documents has 52 items and no role description of "
+           "any kind. If the report reasons from a document she has never seen, it surfaces through "
+           "an expert instead of through disclosure. ⛔ <b>Serve the document, not its "
+           "provenance</b> — no mention of the request for medical information, the exclusion, or "
+           "31 July 2026.", ITEM))
+c.append(P("<b>5. ⭐ The commencement date.</b> Question 1.3(g) says <i>“from 2019”</i>. <b>Have a "
+           "document for it</b> — first payslip, letter of appointment, or service record — before "
+           "it is relied on in the appeal.", ITEM))
+
+c.append(P("B · WHEN THE DRAFT ARRIVES — FACTS ONLY", SEC))
+c.append(P("<b>6. ⛔⛔ THE REVIEW IS FACTS ONLY.</b> Part D promises it and the promise is the "
+           "protection. <b>Do not comment on any opinion, do not suggest a conclusion, do not ask "
+           "for anything to be strengthened.</b> Check: dates · names · which document said what · "
+           "attachment references.", ITEM))
+c.append(P("<b>7. ⛔⛔ THE PREPARATION AS A SYMPTOM — the first thing to look for.</b> His report of "
+           "13 February 2025 lists, <b>under symptoms</b>: <i>“obsessive rumination, fear driven "
+           "thoughts, <b>extensive researching, and planning on fact findings for work-related "
+           "issues including reading up on policies, procedures, and legislations</b>”</i>, and "
+           "records that the proceedings <i>“have consumed his whole life severely affecting his "
+           "functioning.”</i> ⇒ ⭐⭐⭐ <b>A seven-page instruction, a schedule and five attachments, "
+           "prepared by the patient, is on its face the behaviour he already coded as pathology.</b> "
+           "Watch for any sentence treating the preparation of the case as a symptom, or the "
+           "litigation as the barrier to return. <b>It is an incapacity marker, it is usable by the "
            "employer, and s 32(5)(c) excludes injury from action taken in connection with the "
-           "compensation application.</b> ⭐ The covering email now states that he is "
-           "self-represented and prepared the instruction himself, which explains the authorship as "
-           "a necessity of his position rather than as a symptom.", ITEM))
-c.append(P("<b>1b. ⛔⛔ TWO WORDS TO WATCH ON THE DRAFT — AND ONE STRAND TO PROTECT.</b><br/>"
-           "⛔ <b>“Aggravating” must not be used of the appeal or the employment process.</b> "
-           "<i>Aggravation</i> is a statutory term in the WCRA: it denotes a compensable injury in "
-           "its own right, and <b>s 32(5)(c) excludes injury arising from action by the Regulator "
-           "or an insurer in connection with the application for compensation</b>. A clinician who "
-           "writes that the appeal is <i>aggravating</i> the condition creates a component that is "
-           "expressly outside the Act — and in a capacity process the same word reads as "
-           "<b>deterioration</b>. ⭐ <b>The correct register is “perpetuating” or “maintaining”</b> "
-           "— ordinary formulation language, describing persistence rather than worsening, "
-           "consistent with <i>“worked and tolerated… without deterioration”</i>, and it does not "
-           "compete with causation of onset.<br/>"
-           "⭐⭐⭐ <b>And protect the sleep strand.</b> Sleep runs the whole length of this case — "
-           "<b>16 November 2023</b> <i>“Poor sleep. Shift work. Cannot work/ do shifts if he does "
-           "not get a good sleep”</i>; the injury; and the checklist of 3 July 2026, <i>“maintaining "
-           "a regular sleep routine remains central to symptom management.”</i> ⛔ <b>Any sentence "
-           "attributing current sleep disturbance to the appeal cuts that strand at its strongest "
-           "point.</b> Sleep belongs to shift work and to the condition — not to the litigation.", ITEM))
-c.append(P("<b>2. The practice footer.</b> The report of 13 February 2025 carries "
-           "<i>“disclosed for Qsuper and not for medico-legal use”</i> on every page. ⛔ <b>If that "
-           "appears on this report it is compromised on its face.</b> The covering email raises it; "
-           "confirm it has been understood.", ITEM))
-c.append(P("<b>3. Insert the date</b> in the instruction where marked.", ITEM))
-c.append(P("<b>4. ⭐⭐ The commencement date at question 1.3(c) is now <i>“since 2019”</i></b> — "
-           "more than five years of continuous shift work before the pleaded onset. ⚠ <b>Have a "
-           "document for it</b> (first payslip, letter of appointment, or service record) before "
-           "the answer is relied on in the appeal. ⛔ <b>The casual-to-full-time change stays out "
-           "of the letter</b> — it is a contractual question, not a clinical one, and it has "
-           "already been run and answered.", ITEM))
-c.append(P("<b>5. ✅ The capacity wording is VERIFIED and locked</b> — read from the Employee "
-           "Capability Checklist of 3 July 2026. ⛔ The old paraphrase <i>“continuation of existing "
-           "arrangement”</i> <b>does not appear in the document</b> and has been removed everywhere. "
-           "The correct words are <i>“approximately <b>six shifts per fortnight</b> … the pattern "
-           "Mr Shepherd <b>has in fact worked and tolerated over the past twelve months without "
-           "deterioration</b> … <b>Usual switchboard operational duties remain suitable</b>.”</i>",
-           ITEM))
-c.append(P("<b>6. ⛔ Say nothing about which exhibit holds what, or about the span of the "
-           "production.</b> The letter and the schedule state only what the respondent asserts — a "
-           "history from 26 October 2022 — and nothing about what the file does or does not "
-           "contain. <b>Do not add it back in correspondence.</b> It is their assertion to prove.", ITEM))
+           "compensation application.</b> ⭐ The covering email now states he is self-represented and "
+           "prepared the instruction himself.", ITEM))
+c.append(P("<b>8. ⛔ “AGGRAVATING” MUST NOT BE USED OF THE APPEAL OR THE EMPLOYMENT PROCESS.</b> "
+           "<i>Aggravation</i> is statutory: s 32 makes it a compensable injury in its own right, "
+           "and <b>s 32(5)(c) then excludes it</b>. In the capacity process the same word reads as "
+           "<b>deterioration</b>. ⭐ The correct register is <b>“perpetuating”</b> or "
+           "<b>“maintaining”</b> — persistence, not worsening, and it does not compete with "
+           "causation of onset.", ITEM))
+c.append(P("<b>9. ⭐⭐⭐ PROTECT THE SLEEP STRAND.</b> Sleep runs the length of the case and it runs "
+           "from <b>shift work</b>: <b>16 Nov 2023</b> <i>“Poor sleep. Shift work. Cannot work/ do "
+           "shifts if he does not get a good sleep”</i> → the 7-hour break → <b>3 Jul 2026</b> "
+           "<i>“maintaining a regular sleep routine remains central to symptom management.”</i> "
+           "⛔ <b>Any sentence attributing current sleep disturbance to the appeal cuts that thread "
+           "at its strongest point.</b>", ITEM))
+c.append(P("<b>10. THE FIVE POSITIVE CHECKS.</b> Does it <b>list every document reviewed</b> "
+           "(1.5 — the Review Decision safeguard) · <b>state which Part B sources</b> the causation "
+           "opinion rests on (Part D(d)) · <b>answer under the letter's numbering</b> (Part D(a)) · "
+           "avoid <i>“unfair dismissal”</i> and <i>“bullying”</i> — his own 2025 register · and "
+           "avoid the practice footer.", ITEM))
+c.append(P("<b>11. ⚠ WHAT IS RAISABLE AND WHAT IS NOT.</b> Terminology and factual error are "
+           "raisable — <i>“aggravating”</i>, a wrong date, a misattributed document. ⛔ <b>Anything "
+           "that is opinion is not</b>, unless it misstates the record. <b>The line in Part D is the "
+           "line.</b>", ITEM))
 
-c.append(P("STILL MISSING FROM THE PACK — AND WHY IT MATTERS", SEC))
-c.append(P("<b>7. ✅ The three movement forms are IN the pack</b> — Attachment 5, stitched with an "
-           "index page: 27.02.2026 · 17.04.2026 · 09.06.2026, delegate-approved, 56/56/40 hours "
-           "against a 76-hour fortnight, <b>each recording “Continuous Shift Worker”</b>. ⭐⭐⭐ <b>The "
-           "delegate on all three is Scott Hughes — who signed the request of 31 July 2026 asking "
-           "whether Mr Shepherd can fulfil the inherent requirements “without restrictions or "
-           "modifications to duties”.</b> ⛔ That point is NOT put to the clinician. It belongs in "
-           "the covering note to the employer and in the employment track.", ITEM))
-c.append(P("<b>8. ⭐ The April 2025 individual monthly statistics</b> — 269 to 444 calls per shift at "
-           "about 29% of full time. Without them the clinician cannot address why reduced hours did "
-           "not reduce intensity, and <i>“he kept working for fourteen months”</i> goes unanswered.", ITEM))
-c.append(P("<b>9. ⚠ Who is performing the duties, which shifts, from when</b> — in writing. Currently "
-           "colleague report only. Load-bearing for 3.6 and for the employer's accommodation "
-           "question.", ITEM))
+c.append(P("C · STANDING DISCIPLINES", SEC))
+c.append(P("<b>12. ⛔ Say nothing about which exhibit holds what, or about the span of the "
+           "production.</b> The letter and the schedule state only what the Regulator asserts — a "
+           "history from 26 October 2022 — and nothing about what the file does or does not contain. "
+           "<b>Do not add it back in correspondence.</b> It is their assertion to prove.", ITEM))
+c.append(P("<b>13. ⚠ Assume everything sent to the practice is produced to the Regulator</b> under "
+           "the notice it holds. That is why the instruction and the covering email carry no "
+           "strategy and no characterisations.", ITEM))
+c.append(P("<b>14. ⛔ The employer-facing material goes in the covering note, not to the "
+           "clinician:</b> QH-POL-210's whole-organisation test and onus · that the Director who "
+           "asks about <i>“restrictions or modifications”</i> approved three · that Item 3(a) "
+           "explains why the Health Service is <i>“not aware of any concerns”</i> · the September "
+           "2025 conduct/July 2026 medical asymmetry.", ITEM))
+c.append(P("<b>15. WHAT THE REPORT MUST NOT DO.</b> ⛔ Say he cannot fulfil the inherent "
+           "requirements · answer the accommodation question in the negative · opine on working with "
+           "any named person or reporting line · express any view on whether management action was "
+           "reasonable · attribute the injury to a course of management conduct generally rather "
+           "than to the rostering and fatigue strand specifically.", ITEM))
 
-c.append(P("SEQUENCING", SEC))
-c.append(P("<b>10. ⭐⭐ Serve the AO3 role description on the Regulator as continuing disclosure "
-           "BEFORE the report is commissioned.</b> She does not hold it — the amended List of "
-           "Documents has 52 items and no role description of any kind. If the report relies on a "
-           "document she has never seen, it surfaces through an expert rather than through "
-           "disclosure. ⛔ <b>Serve the document, not its provenance:</b> no mention of the request "
-           "for medical information, the exclusion, or 31 July 2026.", ITEM))
-c.append(P("<b>11. ⚠ Assume everything sent to the practice is produced to the Regulator</b> under the "
-           "notice it holds. That is why the instruction and the covering email carry no strategy, no "
-           "characterisations, and nothing from the parallel tracks.", ITEM))
-
-c.append(P("⭐⭐⭐ WHEN THE REPORT GOES TO MSH — CITE THEIR OWN POLICY", SEC))
-c.append(P("The adjustments the report specifies are measured against <b>HR Policy G3 / QH-POL-210, "
-           "Reasonable Adjustment</b>, which MSH itself invoked in the request of 31 July 2026. "
-           "⭐ <b>Its own words, verified:</b>", ITEM))
-c.append(P("<i>“The question of whether an adjustment is unreasonable or would cause "
-           "&lsquo;unjustifiable hardship&rsquo; is <b>tested against the whole organisation, not a "
-           "division or unit within the organisation</b>. <b>The onus is on Queensland Health, as the "
-           "employer, to prove an adjustment is unreasonable</b>, not on the person to prove that it "
-           "is reasonable.”</i>", ITEM))
-c.append(P("⇒ ⭐⭐⭐ <b>The test is not whether the Logan Switchboard roster can absorb the "
-           "adjustment. It is whether Metro South Health can — and the onus of showing it cannot is "
-           "theirs.</b> The same policy adds that failure to provide reasonable adjustment <i>“may "
-           "constitute unlawful discrimination.”</i>", ITEM))
-c.append(P("⛔ <b>This goes in the covering note to MSH, not to the clinician.</b> A psychiatrist does "
-           "not apply an HR policy. Question 3.6(c) is framed so that his answer — whether adjustments "
-           "of that kind are ordinarily provided by large employers and by 24-hour health services — "
-           "maps onto the whole-organisation test without his being asked to apply it.", ITEM))
-
-c.append(P("WHAT THE REPORT MUST NOT DO", SEC))
-c.append(P("⛔ Say he cannot fulfil the inherent requirements · ⛔ answer the accommodation question "
-           "in the negative · ⛔ opine on working with any named person or reporting line · ⛔ express "
-           "any view on whether management action was reasonable · ⛔ attribute the injury to a course "
-           "of management conduct generally rather than to the rostering and fatigue strand "
-           "specifically.", BODY))
+c.append(P("D · STILL OUTSTANDING", SEC))
+c.append(P("<b>16. ✅ The three movement forms are IN</b> — Attachment 5, stitched with an index "
+           "page. Nothing further needed.", ITEM))
+c.append(P("<b>17. ⭐ The April 2025 individual monthly statistics</b> — 269 to 444 calls per shift "
+           "at about 29% of full time. They answer <i>“he kept working for fourteen months”</i>, "
+           "which the capability checklist does not reach.", ITEM))
+c.append(P("<b>18. ⚠ Who is performing the duties, which shifts, from when</b> — in writing. "
+           "Currently colleague report only.", ITEM))
 
 doc2 = SimpleDocTemplate("out/PRE_SEND_CHECKLIST_internal.pdf", pagesize=A4,
                          leftMargin=20*mm, rightMargin=20*mm, topMargin=17*mm, bottomMargin=17*mm,
