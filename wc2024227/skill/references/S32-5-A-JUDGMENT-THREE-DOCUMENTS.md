@@ -1309,3 +1309,59 @@ Attachment 5 added · Part A now lists five documents, four of them the other pa
 basis table gains item 5 · **3.6(e)** is new · the schedule gains **section F** · the covering
 email's attachment list updated · the Notice of Non-Party Disclosure renumbered to 06.
 **Letter 7pp · schedule 3pp · pack 12 files.**
+
+---
+
+# ⭐⭐⭐ PART 25 — THE FEBRUARY 2025 "TENSION" IS NOT ONE (Cory, 16 August)
+
+> *"does he have to, or because he now writes what has been worked and sustained?"*
+
+⭐ **He is right, and the clause I proposed is not added.** Recorded, with the reasoning, because the
+instinct behind it is the correct one and it generalises.
+
+## 25.1 ⛔ WHY I THOUGHT THERE WAS A TENSION
+February 2025: *"it is unclear at this stage the work goal and return to work… premature exposure
+to the workplace is more likely result in significant deterioration in his mental health."*
+2026: **fit with adjustments**, six shifts a fortnight, *"worked and tolerated… without
+deterioration."* ⇒ On its face, complete incapacity then, working capacity now.
+
+## 25.2 ⭐⭐⭐ WHY THERE IS NOT — AND IT IS IN THE WORDS OF THE 2025 REPORT ITSELF
+| The words | What they actually are |
+|---|---|
+| *"**at this stage**"* | expressly **interim** |
+| *"**I will further update on this after next consultation**"* | expressly **flagged for revision** — it is not a settled prognosis, it is *not yet* |
+| *"**premature** exposure"* | conditional on **timing**, not a statement of permanent incapacity. It says *too early now*. It does not say *never* |
+
+⇒ ⭐⭐⭐ **And what then happened is precisely what that sentence contemplates.** Exposure was **not**
+premature — it was **graded**: reduced hours, approved by the delegate three times, the continuous
+shift requirement retained, worked for twelve months **without deterioration**.
+
+⭐⭐⭐ **The 2026 position does not contradict the 2025 opinion. It vindicates it.** He said
+premature exposure would cause deterioration; a properly paced exposure was arranged; there was no
+deterioration. **That is one opinion, tested and confirmed — not two opinions in conflict.**
+
+## 25.3 ⭐⭐ AND THE PROPOSED CLAUSE WOULD HAVE MANUFACTURED THE PROBLEM
+*"Please explain what has changed since, and whether your present view is consistent with that
+opinion"* **tells the reader that something changed.** If nothing changed — if the opinion was
+interim and has been borne out — **asking him to explain a change of position frames it as a change
+of position**, and invites a paragraph of reconciliation where none is needed.
+
+⛔ **Same error as naming Review Decision 69983.** Singling out a document you want read a
+particular way is the surest way to have it read the other way.
+
+## 25.4 ⭐ WHAT ALREADY CATCHES IT, WITHOUT NAMING IT — THREE MECHANISMS, ALL IN THE LETTER
+| | |
+|---|---|
+| **1.5** | *"a complete list of every document you reviewed"* — his own 13 Feb 2025 report is **Attachment 4(d)**, so it is before him and will be listed |
+| **3.6(e)** | ⭐⭐⭐ **already asks the question that produces the reconciliation**: does the reduction in hours indicate *deterioration, or the successful management of a stable condition*? An answer of "successful management" **is** the answer to "what changed since February 2025" |
+| **Part D(e)** | *"state whether anything in the clinical records provided is inconsistent with, or qualifies, the opinions you express"* — ⭐ **if he sees a tension, he must say so. If he does not, there is none.** That is the general safeguard doing exactly the work it was written for |
+
+## 25.5 ⭐ AND THE CHRONOLOGY IS ALREADY IN FRONT OF HIM, IN ORDER
+**Feb 2025** his own report (Attachment 4d) · **Mar–Jun 2026** the approved hours (Attachment 5,
+with its index page) · **3 Jul 2026** the capability checklist (Attachment 4c), *"worked and
+tolerated over the past twelve months without deterioration."*
+⇒ **The sequence explains itself. Nobody has to be told to explain it.**
+
+## 25.6 THE GENERAL RULE THIS YIELDS
+⭐⭐⭐ **Before adding a question that asks a clinician to reconcile two things, check whether the
+record already reconciles them. If it does, the question does not close a gap — it opens one.**
