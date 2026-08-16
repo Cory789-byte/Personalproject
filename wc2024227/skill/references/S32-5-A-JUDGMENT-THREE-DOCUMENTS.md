@@ -1621,3 +1621,59 @@ Now checklist item **1a**: ⚠ **any sentence treating the preparation of the ca
 the litigation as the barrier to return.** ⭐ It sits above the practice footer and the fee, because
 it is the single most damaging sentence the report could contain — **and it would be written
 sympathetically.**
+
+---
+
+# ⭐⭐⭐ PART 29 — THE APPEAL POST-DATES THE CARE (Cory, 16 August)
+
+> *"adding in the date of the appeal and its commencement following the diagnosis on the 24th
+> october"*
+
+## 29.1 THE SEQUENCE, ALL OF IT FROM THE REGULATOR'S OWN LIST OF DOCUMENTS
+| | |
+|---|---|
+| **18 June 2024** | date of onset in this matter |
+| ~1 July 2024 | claim registered · first workers' compensation certificate |
+| **13 September 2024** | WorkCover rejects the claim |
+| **16 September 2024** | application for review |
+| ⭐ **24 October 2024** | **the review decision issues — AND the clinical relationship with Dr Krishnaiah begins the same day** |
+| ⭐⭐⭐ **26 November 2024** | **the appeal is filed — one month after the first consultation** |
+| 13 February 2025 | the report; MDD formally coded |
+
+## 29.2 ⭐⭐⭐ WHY THIS IS THE ANSWER TO PART 28
+Part 28 identified the exposure: his own 2025 report codes *"extensive researching… reading up on
+policies, procedures, and legislations"* as a **symptom**, and says the proceedings *"consumed his
+whole life."*
+
+⇒ **The dates dispose of it as a matter of causation, without anyone arguing:**
+1. **The injury pre-dates the appeal by five months.** The condition cannot have been produced by
+   proceedings that did not exist.
+2. **The treating relationship pre-dates the appeal.** ⭐ He was under psychiatric care before the
+   appeal was filed — so the care was not obtained *for* the appeal, and the diagnosis was not
+   manufactured by it.
+3. ⭐⭐⭐ **Whatever the proceedings have cost him is therefore DOWNSTREAM of the injury, not a
+   competing cause of it** — which is exactly what question 3.1(c) asks: *independent of the
+   employment matters, or a consequence of them.*
+
+## 29.3 WHAT WENT INTO 3.1 — FACTS ONLY, NO ATTRIBUTION SOUGHT
+> *In placing matters in time, the dates in the table at Part B may assist. The claim was rejected
+> on 13 September 2024; I applied for review on 16 September 2024; the review decision issued on
+> 24 October 2024, the same day our clinical relationship began; and the appeal was filed on
+> 26 November 2024, a month after that first consultation. **Each of those dates falls after the
+> date of onset in this matter, 18 June 2024.***
+
+⛔⛔ **AND NOTE WHAT IS DELIBERATELY NOT ASKED.** He is **not** asked whether the proceedings have
+harmed him, or what they contributed to the subsequent course.
+⇒ ⚠ **s 32(5)(c)** excludes injury arising from *"action by the Regulator or an insurer in
+connection with the worker's application for compensation."* **A clinician who attributes harm to
+the proceedings writes an exclusion argument.** ⭐ **The dates are supplied; the attribution is not
+invited.** 3.1(a) then makes him place every factor before or after 18 June 2024 — and every one of
+these falls after.
+
+## 29.4 ⛔ AND A DEFECT I INTRODUCED WRITING IT, CAUGHT ON THE CHECK
+The first draft of that paragraph read *"after the onset **pleaded** at 18 June 2024."*
+**That single word reintroduced the pleading language removed from the entire document at Part 15.**
+Corrected to *"the date of onset in this matter"*, and re-verified: **pleaded · pleading · admitted
+· respondent — all zero.**
+⭐⭐ **The lesson stands from Part 23: every addition needs the full sweep re-run, not just a read of
+the sentence added.**

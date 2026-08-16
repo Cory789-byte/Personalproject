@@ -469,7 +469,14 @@ story.append(P("<b>3.1 Other factors, placed in time.</b> Please identify any no
                "bereavement.", Q))
 story.append(P("<b>Your clinical relationship with me began on 24 October 2024, and my partner "
                "attended that consultation with me.</b> Each of the matters above arose while I was "
-               "under your care and is recorded in your own file. I ask you:", BODY))
+               "under your care and is recorded in your own file.", BODY))
+story.append(P("<b>In placing matters in time, the dates in the table at Part B may assist.</b> The "
+               "claim was rejected on <b>13 September 2024</b>; I applied for review on "
+               "<b>16 September 2024</b>; the review decision issued on <b>24 October 2024</b>, the "
+               "same day our clinical relationship began; and the <b>appeal was filed on "
+               "26 November 2024</b>, a month after that first consultation. <b>Each of those dates "
+               "falls after the date of onset in this matter, 18 June 2024.</b>", BODY))
+story.append(P("I ask you:", BODY))
 story.append(P("<b>(a)</b> to place each factor in time <b>from your own records rather than by "
                "assumption</b>, and <b>to state for each whether it arose before or after "
                "18 June 2024</b>;", QQ))
