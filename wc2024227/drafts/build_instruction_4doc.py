@@ -313,9 +313,9 @@ story.append(P("<b>Already recorded, by the Regulator or by my employer:</b> the
                "fact rostered on 17 to 18 March 2024, described as human error · the related "
                "administrative sequence in rostering, leave and pay · and that <b>no fatigue risk "
                "assessment applied to the position</b>, fatigue risk management being implemented "
-               "only after 30 June 2024, with no consequential changes to operating procedures. "
-               "<b>The enclosed schedule sets each out by source; you are not asked to find any of "
-               "them.</b>", BODY))
+               "only after 30 June 2024, with no consequential changes to operating procedures · "
+               "and the changes to my working hours approved during 2026. <b>The enclosed schedule "
+               "sets each out by source; you are not asked to find any of them.</b>", BODY))
 story.append(P("<b>One further matter, provided for completeness.</b> In <b>May 2024</b> I made a "
                "complaint concerning the conduct of my line manager and the Director. On "
                "<b>24 December 2024</b> the Ethical Standards Unit determined that the complaint "
@@ -489,7 +489,7 @@ story.append(P("<b>3.2 The interval, and the mechanism.</b> The rostering and ad
                "formulation — and if consistent, <b>by what mechanism</b>? Separately, what "
                "significance, if any, attaches to the interval between onset and first presentation, "
                "the first workers' compensation medical certificate in the List of Documents being "
-               "dated 1 July 2024? Please take into account your answer at <b>1.3(d)</b> as to the "
+               "dated 1 July 2024? Please take into account your answer at <b>1.3(e)</b> as to the "
                "renewal of psychiatric referral on 16 May 2024.", Q))
 
 story.append(P("<b>3.3 Causation — your conclusion.</b> On the assumed facts, and having regard to "
@@ -501,8 +501,8 @@ story.append(P("<b>3.3 Causation — your conclusion.</b> On the assumed facts, 
                "contributing factor.", Q))
 
 story.append(P("Capacity, restrictions and adjustments — the matters my employer has asked about. "
-               "My certificate of capacity of 3 July 2026 certifies me fit for my substantive role "
-               "with adjustments; I ask only that your opinion be your own.", SUB))
+               "The employee capability checklist of 3 July 2026 records me fit for my substantive "
+               "role with adjustments; I ask only that your opinion be your own.", SUB))
 story.append(P("<b>3.4 Prognosis and current capacity.</b> Your prognosis; and, distinguishing "
                "<b>(a)</b> my capacity to perform the substantive role <b>with reasonable "
                "adjustments</b> from <b>(b)</b> any current incapacity. If there is current "
