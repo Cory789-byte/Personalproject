@@ -497,3 +497,47 @@ The report is built to the Form 29's three matters; the capacity answers **fall 
 order is right — causation is the harder question and capacity the easier. ⚠ **But the report will
 read as a causation report that also covers capacity, and MSH will notice.** Under the one-report
 decision that is accepted and declared, not concealed.
+
+## ⭐⭐⭐ 15 AUG — MSH IS FUNDING THE REPORT. TWO CONSEQUENCES, ONE CORRECTION.
+**Cory, 15 Aug: MSH are already funding it, as it answers their questions.** Consistent with the
+clinic's call to Michelle Harrison on **5 Aug 11:45** about the invoice total — the direct-billing
+channel recorded then as live.
+
+### ⛔ THE CORRECTION
+The note of 14 Aug said: *"Keep the funding clean. Report A is MSH-funded; Report B is his. MSH
+money must not touch Report B."* ⛔ **That was written against the two-report structure, which the
+6 August decision superseded.** Under one report there is no separate appeal report, so **MSH money
+necessarily meets a report containing a causation opinion.** The earlier instruction is withdrawn on
+this point.
+
+### ⭐⭐⭐ AND IT MAKES THE OPINION STRONGER, NOT WEAKER
+> *"Doctor, who paid for this report?"* — **"The employer."**
+
+**A causation opinion in a report the employer paid for cannot be said to have been bought by the
+appellant.** That is close to the best available answer to the standard funding attack, and it
+arrives without him doing anything.
+
+### ⚠⚠ TWO THINGS THAT MUST NOW BE PROTECTED
+1. ⭐⭐ **THE ADDRESSEE.** The 6 Aug decision is that the report is **addressed to Cory**. ⚠ **A
+   practice billing MSH may default to addressing the payer.** If it is addressed to MSH, MSH
+   controls distribution and he may receive it late or not at all. ⇒ **The covering email now states
+   it expressly:** *"the report is instructed by me, and I ask that it be addressed to me."*
+2. ⛔⛔ **WHO INSTRUCTS.** MSH **funds**; **Cory instructs**. The RFMI was directed to **Dr Ma**, not
+   to Dr Krishnaiah — so MSH has no instruction relationship with this clinician at all. ⚠ If
+   Harrison is discussing the invoice she may also seek to discuss content or scope. **That must not
+   happen**, and the covering email now makes the instructing relationship explicit on its face.
+
+### ⭐ AND THE LEVERAGE IT CREATES
+**MSH now has an interest in the report being completed.** It is invested in a process it started —
+which is new, and it cuts against any further drift on the exclusion.
+
+### THE MODEL, RE-RUN WITH FUNDING RESOLVED
+| | No report | Ask MSH (50/50) | ⭐ **Funding resolved** |
+|---|---|---|---|
+| Report obtained | — | 44% | **88%** |
+| Causation supported | — | 35% | **69%** |
+| **Appeal resolves favourably** | 30% | 46% | ⭐ **62%** |
+| **Pay restored / return ~3mo** | 30% | 40% | **51%** |
+| **NEITHER** | 49% | 34% | ⭐ **20%** |
+⚠ **Structured judgement, not measurement.** The dominant uncertainty is now the causation node
+(0.78), which is movable only by the quality of the pack.

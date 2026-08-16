@@ -45,9 +45,11 @@ e.append(P("I attach a letter of instruction for a report in my Queensland Indus
 e.append(P("The letter asks you to assume the facts recorded in Attachments 1 to 3, which are "
            "documents of the respondent and of my employer. My own account of the workplace is "
            "provided as context only and is not the basis on which I ask you to reason.", BODY))
-e.append(P("Could you please confirm your fee for the report and the time you would require. If any "
-           "part of the instruction is unclear, or if you require further material before you can "
-           "report, please tell me and I will provide it.", BODY))
+e.append(P("I understand the cost of the report is being met by Metro South Hospital and Health "
+           "Service. <b>For completeness: the report is instructed by me, and I ask that it be "
+           "addressed to me.</b> Could you please confirm the time you would require. If any part of "
+           "the instruction is unclear, or if you require further material before you can report, "
+           "please tell me and I will provide it.", BODY))
 e.append(P("As the report is prepared for use in proceedings before the Commission and may be "
            "provided to my employer, I would be grateful if it could be issued without the standard "
            "restriction on medico-legal use that appears on correspondence from the practice.", BODY))
