@@ -1827,3 +1827,67 @@ It does not make it reasonable.**
 and with **FLATTENING** named as the actual risk; the s 32(5)(a) node's "against" column now reads
 the flattening attempt and the ¶22(a) blemish concession; and the lever is restated as *"run one
 mechanism — refuse the flattening"*, expressly **not** a retreat from the course.
+
+---
+
+# ⭐⭐⭐ PART 32 — WHAT THE *DELANEY* CORRECTION CHANGED IN THE QUESTION SET (16 August)
+
+The doctrine is legal, not clinical — so most of the set is untouched. **But three limbs were
+missing, and one of them is the most valuable single addition of the day.**
+
+## 32.1 ⭐⭐⭐ 3.3 — MAKE HIM NAME THE MECHANISM
+> **Added:** *"**If your answer is yes, please identify which of the conditions or matters at 2.1
+> to 2.4 you consider contributed, and their relative weight** — so that the opinion identifies a
+> mechanism rather than the employment at large."*
+
+**Why it is the most valuable addition.** A report that finds *"the employment"* was a significant
+contributing factor **invites the flattening**: thirteen items, weighed globally, most of them
+ordinary. ⭐⭐⭐ **A report that finds the rostering and recovery conditions were the contributor,
+with the administrative sequence secondary, hands over the tall keystone — in the clinician's own
+words, unprompted as to which.**
+⇒ **The one-mechanism discipline stops being a drafting choice in the outline and becomes a finding
+in the evidence.**
+
+## 32.2 ⭐⭐ 2.2 — THE ABSENCE OF A SYSTEM, AS A CLINICAL CONDITION
+> **Added:** *"Separately: does working continuously in a role of this kind **where no fatigue risk
+> assessment or monitoring is in place** differ, in terms of the risk of psychological injury, from
+> working in the same role where such measures are in place?"*
+
+⭐⭐⭐ **This converts the Chief Executive's *“does not exist”* from a legal point into a clinical
+one.** Until now the absence appeared in the letter only as a fact recited at 2.2 and as background
+to foreseeable risk at 3.8. **Nobody asked the clinician whether the absence itself alters the
+risk** — which is squarely within occupational-psychiatric expertise and is the answer to *"no
+system was in place, so what?"*
+⛔ **Framed as risk, not as reasonableness.** It asks whether the absence changes the clinical risk;
+it does not ask whether the employer should have had one. **Same architecture as 3.8.**
+
+## 32.3 ⭐⭐ 2.3 — PERSISTENCE WITHOUT RESOLUTION, NOT MERELY REPETITION
+> **Added:** *"And does the **persistence** of such matters over a period **without resolution**
+> bear differently again from the same matters resolved promptly?"*
+
+2.3 asked about **repetition** (sequence vs isolated event). It did not ask about **duration
+unresolved** — which is the repo's causation dimension 3 and the clinical counterpart of the
+duration argument: *transient stress resolves; prolonged unresolved exposure is what converts
+stress into injury.*
+⭐ And the answer is on the other side's own record: the Chief Executive confirms **no consequential
+change to any procedure**, so the condition persisted unresolved by their own certificate.
+
+## 32.4 ⛔ WHAT WAS DELIBERATELY NOT CHANGED
+| | |
+|---|---|
+| No new question numbers | three clauses added to existing questions — **the count and the burden are unchanged** |
+| Nothing asked about *Delaney*, atomisation or the unit of assessment | ⛔ **legal doctrine, not clinical.** The clinician supplies the mechanism; the outline supplies the doctrine |
+| ⭐ The prediction's numbers were **not** adjusted | A mechanism-specific opinion genuinely helps against flattening — **but moving a node because of my own edit is motivated reasoning.** The lever is noted; the model is left alone |
+
+## 32.5 VALIDATION AFTER REBUILD — ALL NINE SCRIPTS, TEN CHECKS
+| | |
+|---|---|
+| Forbidden terms (*pleaded · pleading · admitted · respondent · 69983 · missing from · four attachments · certificate of capacity · 1.3(d) · Delaney*) | **all 0** |
+| Question headings 1.1–1.5, 2.1–2.4, 3.1–3.8 | **all present, in order** |
+| Internal cross-references — 1.3(e) · 2.1 · 2.2 · 2.3 · 2.4 · 3.1 · 3.2 · 3.4–3.8 · 3.5 | **all resolve to an existing question** |
+| Attachment ↔ schedule map | **1→A/A2/B · 2→C · 3→D · 4→E · 5→F**, all present |
+| Schedule sections | **A · A2 · B · C · D · E · F** — seven, F confirmed |
+| Schedule and covering email flagged terms | **0 and 0** |
+| Letter · schedule · covering email | **7pp · 3pp · 1pp** |
+| Pack | **12 files, 77 pages** |
+| Brackets remaining, whole letter | ⭐ **one — `[DATE]`** |

@@ -435,7 +435,10 @@ story.append(P("<b>2.2 Fatigue, and the rostering of 17 to 18 March 2024.</b> At
                "implemented at that Switchboard only after 30 June 2024.<br/>"
                "<b>What clinical significance, if any, do you attach to that sequence — and does "
                "fatigue arising from a shortened break resolve with the break itself, or can it "
-               "carry forward?</b>", Q))
+               "carry forward? Separately: does working continuously in a role of this kind where "
+               "no fatigue risk assessment or monitoring is in place differ, in terms of the risk "
+               "of psychological injury, from working in the same role where such measures are in "
+               "place?</b>", Q))
 story.append(P("<b>2.3 The administrative sequence.</b> Attachment 1 and the further document of "
                "13 May 2026 (schedule A and A2) also record: an email "
                "of the Director dated <b>7 August 2023</b> acknowledging <i>“a rostering error that "
@@ -448,7 +451,9 @@ story.append(P("<b>2.3 The administrative sequence.</b> Attachment 1 and the fur
                "<b>From a clinical perspective, does a sequence of that kind — repeated "
                "administrative error affecting rostering, leave and pay, in a role for which no "
                "fatigue assessment applied — bear differently on the condition you have diagnosed "
-               "than a single isolated event would? Please explain the mechanism, if any.</b>", Q))
+               "than a single isolated event would? And does the <b>persistence</b> of such matters "
+               "over a period <b>without resolution</b> bear differently again from the same matters "
+               "resolved promptly? Please explain the mechanism, if any.</b>", Q))
 
 # ───────────────────────────── MATTER 3
 story.append(P("<b>2.4 The three stressors identified in the capability checklist.</b> The "
@@ -510,7 +515,10 @@ story.append(P("<b>3.3 Causation — your conclusion.</b> On the assumed facts, 
                "your answers at 3.1 and 3.2, whether my employment was <b>a significant contributing "
                "factor</b> to the injury with onset on 18 June 2024. Please give your clinical "
                "reasoning, and distinguish between the cause of onset and any factors bearing only "
-               "on the subsequent course. <b>I do not ask you to find that employment was the only "
+               "on the subsequent course. <b>If your answer is yes, please identify which of the "
+               "conditions or matters at 2.1 to 2.4 you consider contributed, and their relative "
+               "weight</b> — so that the opinion identifies a mechanism rather than the employment "
+               "at large. <b>I do not ask you to find that employment was the only "
                "cause, or the main one</b> — only whether, on the material, it was a significant "
                "contributing factor.", Q))
 
