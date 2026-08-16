@@ -43,7 +43,6 @@ story.append(P("Letter of instruction — psychiatric report", H1))
 story.append(P("Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service<br/>"
                "From: Cory Lea Shepherd &nbsp;·&nbsp; WC/2024/227, Queensland Industrial Relations "
                "Commission &nbsp;·&nbsp; [DATE]", SMALL))
-story.append(P("⛔ <b>DRAFT.</b> Bracketed items require confirmation before sending.", FLAG))
 story.append(Spacer(1, 3*mm))
 
 # PART A — ATTACHMENTS
@@ -265,22 +264,17 @@ story.append(P("<b>Please also state whether anything in the clinical records pr
                "taken it into account.</b> I ask this so that the report addresses the whole of the "
                "material rather than part of it.", BODY))
 story.append(P("The report is prepared for use in proceedings in the Queensland Industrial Relations "
-               "Commission and may be provided to my employer. [CONFIRM: the standard practice footer "
-               "restricting use must not appear on this report.]", BODY))
-story.append(P("[CONFIRM: fee; and whether Review Decision 69983 was provided at the consultation of "
-               "12 August 2026 — if it was, an express direction not to adopt any finding in it, and "
-               "a question whether the opinion would differ if it were disregarded, must be added.]",
-               FLAG))
+               "Commission and may be provided to my employer.", BODY))
 
 doc = SimpleDocTemplate(OUT, pagesize=A4, leftMargin=20*mm, rightMargin=20*mm,
                         topMargin=17*mm, bottomMargin=17*mm,
-                        title="WC/2024/227 — Letter of instruction (draft)",
+                        title="WC/2024/227 — Letter of instruction",
                         author="Cory Lea Shepherd")
 
 def footer(canv, d):
     canv.saveState(); canv.setFont('Helvetica', 7.4)
     canv.setFillColor(colors.HexColor('#777777'))
-    canv.drawString(20*mm, 10*mm, "WC/2024/227 · Letter of instruction · DRAFT — not for sending")
+    canv.drawString(20*mm, 10*mm, "WC/2024/227 · Shepherd · Letter of instruction to Dr R B Krishnaiah")
     canv.drawRightString(A4[0]-20*mm, 10*mm, f"Page {d.page}")
     canv.restoreState()
 
