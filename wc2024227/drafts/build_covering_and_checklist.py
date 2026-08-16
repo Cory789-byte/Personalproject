@@ -35,13 +35,17 @@ e.append(P("⚠ Assume this email is produced to the Regulator under the Notice 
            "Disclosure served on the practice. Nothing in it may be strategic.", SMALL))
 e.append(Spacer(1, 4*mm))
 e.append(P("<b>To:</b> Mind and Memory Service &nbsp;·&nbsp; <b>Attention:</b> Dr Ravikumar Bangalore "
-           "Krishnaiah<br/><b>Subject:</b> Letter of instruction — psychiatric report — Cory Shepherd "
+           "Krishnaiah<br/><b>Subject:</b> Request for medical information, Metro South Health, 31 July "
+           "2026 — instruction for report — Cory Shepherd "
            "(DOB 11/01/1991)", SMALL))
 e.append(Spacer(1, 4*mm))
 e.append(P("Dear Dr Krishnaiah,", BODY))
-e.append(P("I attach a letter of instruction for a report in my Queensland Industrial Relations "
-           "Commission proceeding WC/2024/227, together with the five attachments it refers to and a "
-           "copy of the Notice of Non-Party Disclosure served on your practice in that proceeding.", BODY))
+e.append(P("<b>My employer, Metro South Hospital and Health Service, has asked for medical "
+           "information about my condition and my capacity for work.</b> I attach a letter of "
+           "instruction for a report answering that request, together with the five attachments it "
+           "refers to. <b>The report also addresses the matters in issue in my Queensland Industrial "
+           "Relations Commission proceeding WC/2024/227</b>, and I attach a copy of the Notice of "
+           "Non-Party Disclosure served on your practice in that proceeding.", BODY))
 e.append(P("<b>I am self-represented in this proceeding and have prepared the instruction myself.</b> "
            "I have set it out in the way I understand an expert is ordinarily instructed: the facts "
            "I ask you to assume are identified by their source, and the matters the Regulator does "

@@ -173,7 +173,7 @@ ISSUE = ParagraphStyle('ISSUE', parent=ss['Heading2'], fontName='Helvetica-Bold'
 SUB = ParagraphStyle('SUB', parent=ss['BodyText'], fontName='Helvetica-Bold',
                      fontSize=9.7, leading=13.5, spaceBefore=9, spaceAfter=3)
 BODY = ParagraphStyle('BODY', parent=ss['BodyText'], fontName='Helvetica',
-                      fontSize=9.5, leading=12.6, spaceAfter=4.5)
+                      fontSize=9.4, leading=12.4, spaceAfter=4.2)
 Q = ParagraphStyle('Q', parent=BODY, spaceBefore=6, spaceAfter=3, leftIndent=6)
 QQ = ParagraphStyle('QQ', parent=BODY, spaceBefore=3, spaceAfter=3, leftIndent=16)
 QQQ = ParagraphStyle('QQQ', parent=BODY, spaceBefore=2, spaceAfter=2, leftIndent=26)
@@ -202,8 +202,10 @@ def T(rows, w, repeat=1, shade=()):
 story = []
 story.append(P("Letter of instruction — psychiatric report", H1))
 story.append(P("Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service<br/>"
-               "From: Cory Lea Shepherd &nbsp;·&nbsp; WC/2024/227, Queensland Industrial Relations "
-               "Commission &nbsp;·&nbsp; [DATE]", SMALL))
+               "From: Cory Lea Shepherd &nbsp;·&nbsp; [DATE]<br/>"
+               "<b>In answer to the request for medical information made by Metro South Hospital and "
+               "Health Service on 31 July 2026, and addressing the matters in issue in "
+               "WC/2024/227, Queensland Industrial Relations Commission</b>", SMALL))
 story.append(Spacer(1, 3*mm))
 
 # ══════════════════════════════════════════════════════ PART A — ATTACHMENTS
@@ -330,17 +332,22 @@ story.append(P("<b>One further matter, provided for completeness.</b> In <b>May 
 story.append(P("<b>What remains, and what I do ask you, is the clinical question: whether exposure "
                "of that kind bears on the condition you have diagnosed.</b>", BODY))
 
-story.append(P("PART C — THE MATTERS IN ISSUE", PART))
-story.append(P("You have been served with a Notice of Non-Party Disclosure in this proceeding. That "
-               "notice states the matters in issue as follows:", BODY))
+story.append(P("PART C — WHAT THE REPORT IS ASKED TO ANSWER", PART))
+story.append(P("<b>My employer, Metro South Hospital and Health Service, has asked for medical "
+               "information about my condition and my capacity for work.</b> Its request of "
+               "<b>31 July 2026</b> puts nine questions. They are reproduced in the appendix to this "
+               "letter, in the employer's own terms, with the question below that answers each.", BODY))
+story.append(P("<b>Your practice has separately been served with a Notice of Non-Party Disclosure</b> "
+               "in my Commission proceeding. That notice states the matters in issue as follows:", BODY))
 story.append(P("<i>“1. Did Mr Shepherd sustain a personal injury<br/>"
                "2. Did the personal injury arise out of or in the course of Mr Shepherd's "
                "employment<br/>"
                "3. Was Mr Shepherd's employment a significant contributing factor to the injury”</i>",
                QUOTE))
-story.append(P("I ask you to address those three matters, in that order. My employer has separately "
-               "asked for medical information about my capacity for work; <b>those matters are taken "
-               "up within matter 3 below</b>, so that one report answers both.", BODY))
+story.append(P("<b>The questions below are arranged so that one report answers both.</b> The "
+               "employer's questions on capacity, restrictions and adjustments are taken up at "
+               "<b>3.4 to 3.8</b>; the three matters in the notice are addressed at <b>1, 2 and "
+               "3</b>. I ask you to take them in the order given.", BODY))
 
 # ───────────────────────────── MATTER 1
 story.append(P("MATTER 1 — DID MR SHEPHERD SUSTAIN A PERSONAL INJURY?", ISSUE))
@@ -625,9 +632,9 @@ story.append(P("<b>As to cost and instruction:</b> the cost of the report is bei
 story.append(PageBreak())
 story.append(P("APPENDIX — THE EMPLOYER'S REQUEST OF 31 JULY 2026, AND WHERE EACH QUESTION IS "
                "ANSWERED", PART))
-story.append(P("My employer's request is set out below in its own terms, with the question in this "
-               "letter that answers it. <b>The full request can be provided if you wish to see "
-               "it.</b> Where a question is not answered, the reason is that it goes to workplace "
+story.append(P("<b>This is the request the report answers.</b> It is set out below in the "
+               "employer's own terms, with the question in this letter that answers each. <b>The "
+               "full request can be provided if you wish to see it.</b> Where a question is not answered, the reason is that it goes to workplace "
                "arrangements rather than to medical capacity — I ask only that you say so.", BODY))
 story.append(T([
  [P("<b>Their question</b>", SMALL), P("<b>Answered at</b>", SMALL)],
