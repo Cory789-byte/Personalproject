@@ -136,7 +136,9 @@ story.append(P("<b>Already recorded, by the Respondent or by my employer:</b> th
                "19 March 2024 · that no fatigue risk assessment applied to the position and that "
                "fatigue risk management was implemented only after 30 June 2024 · that no "
                "consequential changes to operating procedures followed · and the general-practice "
-               "entry of 16 November 2023.", BODY))
+               "entry of 16 November 2023. ⭐ The certificate of capacity of 3 July 2026 also "
+               "records the arrangement then in place as a <i>“continuation of existing "
+               "arrangement … worked and tolerated … without deterioration.”</i>", BODY))
 story.append(P("⭐ <b>What remains, and what I do ask you, is the clinical question: whether "
                "exposure of that kind bears on the condition you have diagnosed.</b>", BODY))
 
@@ -241,9 +243,22 @@ story.append(P("<b>3.5 The adjustments, in functional terms.</b> The adjustments
                "interaction; and (c) your report of 13 February 2025 records that my working memory "
                "is affected under stress — what that means for performance of the duties at "
                "Attachment 3, and the circumstances likely to give rise to it.", Q))
-story.append(P("<b>3.6 Inherent requirements.</b> Whether, <b>with the adjustments at 3.5</b>, I am "
-               "able to fulfil the requirements of the position described at Attachment 3; and "
-               "whether those adjustments are ordinary and available in a workplace of that kind.", Q))
+story.append(P("<b>3.6 The requirements of the position.</b> Attachment 3 describes the duties "
+               "of the position and states that it is a continuous shift working role. Please "
+               "address, in order:", Q))
+story.append(P("<b>(a)</b> whether the adjustments at 3.5 are <b>clinically necessary at "
+               "present</b> — that is, whether I am presently able to perform the duties "
+               "without them;", Q))
+story.append(P("<b>(b)</b> whether, <b>with those adjustments in place</b>, I am able to "
+               "perform the duties described at Attachment 3;", Q))
+story.append(P("<b>(c)</b> whether adjustments of that kind are <b>ordinarily available</b> in "
+               "a workplace of that kind; and", Q))
+story.append(P("<b>(d)</b> whether the adjustments are <b>permanent, or temporary with a "
+               "review date</b>.", Q))
+story.append(P("I note that the certificate of capacity of 3 July 2026 at Attachment 4 records "
+               "the arrangement then in place as a <i>“continuation of existing arrangement … "
+               "worked and tolerated … without deterioration.”</i> Please take that record into "
+               "account in answering (b) and (c).", BODY))
 story.append(P("<b>3.7 Foreseeable risk.</b> Whether exposure to the conditions at Attachments 2 "
                "and 3, without the adjustments at 3.5, presents a foreseeable risk to my health or "
                "safety; and if so, what controls you consider medically necessary to manage it.", Q))
