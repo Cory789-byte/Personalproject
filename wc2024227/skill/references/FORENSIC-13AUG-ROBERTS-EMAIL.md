@@ -279,3 +279,50 @@ their own reasoning.
 
 ⭐⭐⭐ **Correct the word, not the conclusion.** *"This leave"*, left unchallenged, becomes the
 record. The fitness assertion answers itself on 24 August and again when the report lands.
+
+## ⛔⛔ 15 AUG — CORRECTION: IT WAS RECALLED, AND THAT GOVERNS THE HANDLING
+**Sent 16:42, recalled 16:45.** The analysis above stands as analysis. ⛔ **But the advice that
+followed from it — confirm the meeting by COB Wed 19 August, and correct the word "leave" — was
+wrong, because it treated a withdrawn communication as operative.**
+
+### WHAT THE RECALL MEANS IN PRACTICE
+- ⭐ **A recalled email is still evidence.** It was composed, sent, delivered and read. The recall
+  does not unsend it, and it is properly on the file.
+- ⛔ **But it is not an operative communication.** The sender withdrew it. **Acting on it gives it a
+  life it does not have, and lets the Health Service later adopt or disown its contents
+  selectively.**
+
+### ⭐⭐⭐ THE POSITION AS AT 15 AUGUST, ON THE RECORD
+Nothing has replaced it. Therefore:
+| | Status |
+|---|---|
+| The **meeting of 21 August** | ⭐ **No live offer.** It exists only in a withdrawn email |
+| The **confirmation deadline of COB 19 August** | ⭐ **No live deadline** |
+| The **capacity determination** (*"the medical evidence… does not support that"*) | ⭐ **No live determination** |
+| The characterisation of the exclusion as *"this leave"* | ⭐ **Not on the live record** |
+⇒ ⛔ **Do not confirm a meeting that has been withdrawn. Do not correct the wording of a withdrawn
+document.** Both treat it as operative.
+
+### ⭐⭐⭐ AND IT MAKES 24 AUGUST CLEANER, NOT MURKIER
+If the recalled email was the only thing resembling a decision or a reason, and it was withdrawn,
+then as at **24 August there is nothing at all** — not even a contested document. **The deemed
+refusal matures against complete silence.**
+
+### ⭐⭐ THE ONE LINE THAT PROTECTS HIM WITHOUT ADOPTING IT
+The only risk is a later suggestion that he declined to engage. One neutral sentence closes it and
+confirms nothing:
+> *"I note that an email of 13 August 2026 at 4:42pm was recalled at 4:45pm, and I have not treated
+> it as operative. If the Health Service wishes to propose a meeting, I remain willing to attend and
+> would be grateful for the details in writing."*
+
+⭐ It records the recall as a dated fact · declines to treat it as operative · **kills "he refused to
+meet"** · and **puts them to an election.**
+
+### ⭐⭐⭐ WHY THE ELECTION IS THE SHARP PART
+- **Re-sent WITHOUT the capacity paragraph** ⇒ the determination has been **abandoned**.
+- **Re-sent WITH it** ⇒ it has been **adopted deliberately, after reflection** — which is worse for
+  them than the first time, because it can no longer be explained as a draft sent in error.
+⇒ **Either way the exchange resolves in his favour, and he never argues about fitness.**
+
+⚠ **VERIFY FIRST: has anything been sent since 13 August 16:45 that proposes a meeting or states a
+capacity position?** If something has, that document governs and this note is superseded.
