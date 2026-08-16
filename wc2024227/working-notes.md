@@ -5931,3 +5931,59 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   to be the only route to the report.**
 - ⚠ **Watch:** the Zappia letter raised **overpayment and employer disclosures**. Any ART response
   on overpayment needs assessing on arrival; do not assume it is neutral.
+
+## 2026-08-16 — THE KRISHNAIAH PACK, BUILT AND VALIDATED
+
+**Deliverable:** `drafts/out/KRISHNAIAH_PACK.zip` — 12 files, 77pp. Letter of instruction (7pp),
+covering email (1pp), schedule of assumed facts (3pp), attachments 1–5 and the sealed Notice.
+Internal and NOT in the pack: pre-send checklist (2pp), distribution notes (2pp), the picture (3pp),
+the mock report (8pp, ⛔ simulation), the prediction (3pp).
+**One bracket remains in the whole pack: `[DATE]`.**
+
+### Verified from source today
+- **Form 24 in full** — Notice ¶¶1–50 and the whole Response, rendered. ⭐ Four schedule lines were
+  wrong: ¶35 was listed as ADMITTED and is **DENIED** (anxiety/ADHD from 26 Oct 2022); ¶34 and ¶38
+  are admitted only as *listed* / *what the report says*; ¶47 is **DENIED**.
+- **SOFC ¶22(a)** verbatim — *"by only a 7-hour break (rather than an 8-hour break)"*. ⭐⭐⭐ The
+  breach no longer depends on winning the 10-hour argument.
+- **The medical disclosure** — the 26 Oct 2022 ADHD/Anxiety entries are two lines in the PAST
+  MEDICAL HISTORY list of Dr Zhao's referral letter of 16 May 2024 to Dr Amini; the same letter's
+  medications are melatonin, sildenafil and an antibiotic — **no psychotropics one month before
+  onset**. The 16 Nov 2023 entry read in full is a **shift-work sleep consultation**. Every anxiety
+  record in 2024 is a work record. Hawes, 1 Jul 2024: *"been there 5 years"*, *"manipulate his
+  roster- so he works lates then earlies"*.
+- **Employee Capability Checklist 3 Jul 2026** — the *"continuation of existing arrangement"*
+  paraphrase does not exist. Real wording: *"approximately six shifts per fortnight … worked and
+  tolerated over the past twelve months without deterioration … usual switchboard operational
+  duties remain suitable."*
+- **The three movement forms** were in `documents/` all along — 27.02 / 17.04 / 09.06.2026,
+  delegate **Scott Hughes**, 56/56/40 hrs against 76, **each recording "Continuous Shift Worker"**.
+  Stitched as Attachment 5.
+- **RFMI 31 Jul 2026** read in full and audited question by question.
+
+### Standing rules added (all at `S32-5-A-JUDGMENT-THREE-DOCUMENTS.md`, Parts 8–32)
+1. ⛔ **Never say "missing from Exhibit A5"** — and do not answer it either. State only what the
+   Regulator asserts. Part 11.
+2. ⛔ **No pleading language in anything a clinician reads.** Part 15.
+3. ⭐ **Reason FROM the history, not around it.** Part 12.
+4. ⛔ **Supply the facts and the question. Never the step between them.** Part 29.4.
+5. ⭐ **Before asking a clinician to reconcile two things, check whether the record already
+   reconciles them.** Part 25.6.
+6. ⛔⛔ ***Delaney* is HIS** — global evaluation defeats atomisation. The risk is **flattening**,
+   not the doctrine. Part 31.
+7. ⛔ **Apply patch replacements independently.** Three edits were silently lost today to batched
+   `fix()` calls aborting on a later assertion.
+
+### ⚠ Carried forward
+- **1a on the checklist:** his Feb 2025 report codes *"extensive researching… reading up on
+  policies, procedures and legislations"* as a **symptom**. The instruction is that behaviour on its
+  face. Covering email now says he is self-represented and prepared it himself.
+- **1b:** ⛔ *"aggravating"* must not be used of the appeal (s 32(5)(c)); **perpetuating**. And
+  **sleep belongs to shift work, not the litigation**.
+- Still to obtain: April 2025 call statistics · who is performing the duties, in writing · a service
+  record for 2019.
+- **Before commissioning:** the date · the practice footer · the quantum and *"what else did the
+  Health Service send you"* with the practice · ⭐⭐ **serve the AO3 role description on the
+  Regulator**.
+- **24 August** — cl 10.3.6 deemed refusal. Independent of the report. Verify clause numbering
+  against EB12 first.
