@@ -239,3 +239,43 @@ system, was nonetheless reasonable management action taken in a reasonable way.*
 employer's own review finding that the attachments *were in fact present*, and it belongs in the
 occupational picture the clinician is given.
 ⛔ **Still nothing about the PID, and nothing connecting either error to anything that followed.**
+
+---
+
+# PART 9 — 16 AUGUST: THE VERIFICATION, AND WHAT IT MOVED
+
+Full record at `FORM24-VERIFICATION-5AUG.md`, addendum of 16 August. Three things bear on this
+judgment.
+
+## 9.1 ⭐⭐⭐ THE BREACH NO LONGER DEPENDS ON THE 10-HOUR ARGUMENT
+Part 2.1 runs the keystone as **10 hours required, 7 given**. The Respondent's answer is the June
+2020 agreement (Response ¶4; SOFC ¶22(e)) — *the applicable minimum was 8*.
+
+⭐ **Read SOFC ¶22(a) as it is actually written:** *"says the shift was separated by only a
+**7-hour break (rather than an 8-hour break)** … a result of human error"*.
+
+⇒ **The Respondent has pleaded the shortfall against its own lower standard.** So:
+| Whose standard | Minimum | Given | Result |
+|---|---|---|---|
+| The appellant's (policy + Award) | 10 hours | 7 | **short by 3** |
+| ⭐ **The Respondent's own** (June 2020 agreement) | **8 hours** | 7 | ⭐ **still short by 1** |
+
+⭐⭐⭐ **The 10-hour argument is now upside, not foundation.** Do not stake the strand on winning
+it. **Run the shortfall on their own figure, and let the 10-hour point be the alternative.** An
+argument the other side cannot reach is worth more than an argument it can.
+
+## 9.2 ⛔ AND THE CLEAN BASELINE IS NOT AVAILABLE — CONFIRMED FROM THE PAGE
+Notice ¶35 is **DENIED**: *"the records show a past medical history of **Anxiety and ADHD from
+26 October 2022** which is missing from Exhibit A5."*
+⇒ Nothing in this judgment relies on it, and nothing may. **The 16 November 2023 entry is admitted
+only as appearing in the record — not as accurate.** The clinician is asked to address the 2022
+material directly rather than to assume it away.
+⭐ That is the right posture anyway: **s 32(1) needs employment to be *a* significant contributing
+factor, not the only one.** A pre-existing vulnerability that employment aggravated is inside the
+section, not outside it.
+
+## 9.3 ⭐ THE PAY STRAND LOSES A CHARACTERISATION AND KEEPS ITS DOCUMENTS
+Notice ¶47 is denied — *"Ms Taylor needed confirmation from payroll"*. ¶¶40 and 46 are admitted.
+⇒ **Run the two emails and the interval between them. Do not run "she had already been in
+possession", which is denied and invites the answer.** The instruction of 3 May and the statement
+of 21 May are both on the record; **the eighteen days between them require no adjective.**

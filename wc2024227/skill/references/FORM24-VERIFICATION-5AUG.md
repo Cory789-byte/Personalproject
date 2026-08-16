@@ -132,3 +132,78 @@ without any document at all.
 | 37 | Review Decision: "employment was a significant contributing factor" | **CONTENTS ADMITTED**, relevance reserved |
 | 40, 41 | The payroll instruction; the 25-day AVAC delay | **ADMITTED** |
 | 46 | Taylor's 21 May "waiting payroll confirmation" email | **ADMITTED** |
+
+---
+
+# ⭐⭐⭐ ADDENDUM — 16 AUGUST 2026: FULL RE-VERIFICATION FOR THE CLINICIAN SCHEDULE
+
+Every line the schedule of assumed facts takes from the Form 24 has now been read from the
+rendered source (`pdftoppm -r 150 -png`; the text layer remains unusable). Notice ¶¶1–50 at render
+pages 1–5; Respondent's Response at render pages 7–10.
+
+## A.1 ⛔ THE NUMBERING DRIFT, CONFIRMED AGAIN
+Response ¶26 answers **Notice ¶¶26–29**. Thereafter **Response ¶N answers Notice ¶(N+3)** —
+verified on the page: Response ¶31 → Notice ¶34; Response ¶35 → Notice ¶38; Response ¶41 →
+Notice ¶47; Response ¶44 → Notice ¶50 (the last).
+
+## A.2 ⛔⛔ THE ERROR THAT MATTERED MOST — NOTICE ¶35
+The draft schedule listed ¶35 (*"The Respondent is not in possession of any contemporaneous medical
+evidence prior to 2024 that contradicts the finding in Item 34"*) as an **admitted fact**.
+
+> **Response ¶32 — DENIED:** *"denies untrue the fact because the records show a past medical
+> history of **Anxiety and ADHD from 26 October 2022** which is missing from Exhibit A5."*
+
+⭐⭐⭐ **Had that gone to Dr Krishnaiah as an assumed fact it would have been the single most
+damaging thing in the pack — he holds those very records.** An expert instructed to assume a clean
+pre-2024 baseline, who then reads a 2022 anxiety and ADHD history in his own attachments, is an
+expert whose instructions are impeached in cross-examination before his opinion is reached.
+⇒ It is now in **section B** of the schedule as a denial, with the express note that the material
+is in Attachment 4 and the opinion should address it.
+
+## A.3 THE THREE OTHER OVER-STATEMENTS, ALL FIXED
+| Notice ¶ | What the schedule said | ⭐ What the Response actually says |
+|---|---|---|
+| **34** | the 16 Nov 2023 entry, as an admitted fact | Resp ¶31: *"admits the entry **is listed in the record**, but **does not admit the accuracy** of the entry"* |
+| **38** | MDD diagnosed 13 Feb 2025, as an admitted fact | Resp ¶35: *"admits that **the report does say** … but does not admit the accuracy of the report"* |
+| **47** | she had held the instruction since 3 May, admitted | Resp ¶41: **DENIED** — *"Ms Taylor **needed confirmation from payroll** and then she needed to be satisfied that the AVAC was accurate"* |
+
+⭐ **¶47 costs nothing.** ¶40 (the 3 May instruction) and ¶46 (the 21 May *"I am waiting payroll
+confirmation"* email) are **both admitted**. The two documents carry the interval; only the
+characterisation was denied — **and the characterisation was never needed.**
+
+## A.4 ⭐⭐ WHAT THE VERIFICATION ADDED — SOFC ¶22(a), READ WORD FOR WORD
+> *"says the shift was separated by only a **7-hour break (rather than an 8-hour break)** says that
+> this was a result of **human error** and not intentional or repeated"*
+
+⭐⭐⭐ **The parenthesis is the Respondent's own.** Its case is that a June 2020 agreement lowered
+the minimum to 8 hours (Response ¶4; SOFC ¶22(e)). **So on the Respondent's own pleaded case the
+break fell an hour short of the applicable minimum — it is not a defence, it is a smaller breach.**
+⇒ The 10-hour argument does not have to be won. **Both roads end in a breach**, and the Respondent
+has written the shorter one itself.
+
+⚠ Note for any use of the 8-hour agreement: Queensland Health's own Form 29 schedule sought the
+***"Complete* 8 hour shift agreement signed by Mr Cory Shepherd on or around 17/06/2020"** — the
+word *complete* is theirs, and the Regulator was checking whether what exists is whole.
+
+## A.5 THE COVID LEAVE DATE — SETTLED
+SOFC ¶14(a) says *"during the March 2024"*, which is loose. **The leave itself is 20–27 February
+2024** — from Queensland Health's own Form 29 schedule (*"Leave form of Mr Cory Shepherd for 20 to
+27/02/2024, process reference form 15480560"*) and the produced myHR audit trail (four submissions,
+two declines, approved on the same evidence).
+⇒ ⭐ **The "two admitted errors in successive months" framing at Part 8.3 of the s 32(5)(a)
+judgment holds: February, then March.**
+
+## A.6 VERIFIED VERBATIM AND UNCHANGED
+Notice ¶1 (7-hour break, 17–18 March 2024) **admitted** · ¶3 (10 hours, or 8 by written agreement)
+**admitted** · ¶5 (Reese, **7 August 2023**, *"a rostering error that was accidentally made by
+Chloe with regards to night shifts"*) **admitted** · ¶8 (Switchboard accuracy critical to clinical
+handover and patient safety) **admitted**, with *"there was a procedure in place for this to
+occur"* · ¶40 **admitted** · ¶41 **admitted** (28 May 2024) · ¶46 **admitted**.
+
+## A.7 WHAT THIS CHANGED IN THE PACK
+- `drafts/out/SCHEDULE_OF_ASSUMED_FACTS.pdf` — rebuilt. Section A is now admissions only; **new
+  section A2** carries SOFC ¶¶14(e)–(f), 22(a), 22(c); **new section B** carries the denials at
+  ¶¶4, 34, 35 and 47. Every [CONFIRM] flag on the Form 24 lines is cleared. One flag remains, on
+  the certificate of capacity wording.
+- `drafts/out/INSTRUCTION_Krishnaiah_4DOC_DRAFT.pdf` — Part B2 amended: the 16 November 2023 entry
+  is now described as appearing in the records, *its accuracy not being admitted*.

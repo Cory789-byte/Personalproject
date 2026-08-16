@@ -135,8 +135,9 @@ story.append(P("<b>Already recorded, by the Respondent or by my employer:</b> th
                "emergency (MET) calls were recorded on those shifts · that leave was taken on "
                "19 March 2024 · that no fatigue risk assessment applied to the position and that "
                "fatigue risk management was implemented only after 30 June 2024 · that no "
-               "consequential changes to operating procedures followed · and the general-practice "
-               "entry of 16 November 2023. ⭐ The certificate of capacity of 3 July 2026 also "
+               "consequential changes to operating procedures followed · and that the "
+               "general-practice entry of 16 November 2023 appears in the records, its accuracy "
+               "not being admitted. ⭐ The certificate of capacity of 3 July 2026 also "
                "records the arrangement then in place as a <i>“continuation of existing "
                "arrangement … worked and tolerated … without deterioration.”</i>", BODY))
 story.append(P("⭐ <b>What remains, and what I do ask you, is the clinical question: whether "
