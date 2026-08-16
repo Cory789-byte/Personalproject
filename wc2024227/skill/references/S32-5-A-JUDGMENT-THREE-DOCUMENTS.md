@@ -2139,3 +2139,51 @@ nothing to record. ⛔ **Do not let the capacity process reach a decision first:
 Services decision on capacity is far harder to unwind than a deemed refusal is to rely on.
 ⛔ **The standing rules do not relax because settlement is in prospect.**
 ⇒ `drafts/out/SETTLEMENT_GUARD_17AUG2026.pdf`
+
+---
+
+# PART 38 — SERVING MATHESON: THE ROLE DESCRIPTION AND THE DISCLOSURE (17 August)
+
+## 38.1 THE VEHICLE — A SUPPLEMENT SHE WAS ALREADY PROMISED
+The 5 August List of Documents states on its face: *"Disclosure is continuing: this list will be
+supplemented as further documents come into the Appellant's possession."*
+⇒ ⭐⭐⭐ **A supplementary list in the identical form is the one vehicle that requires no
+explanation.** Anything novel invites the question *"why now?"*; a promised supplement answers it
+before it is asked.
+
+## 38.2 ⭐⭐ FOUR ITEMS, NOT ONE — BECAUSE THE INSTRUCTION REASONS FROM BOTH
+The letter of instruction reasons from **Attachment 3 (the role description)** *and* **Attachment 5
+(the three movement forms)**. Matheson's amended list — 52 items — holds **neither**. Serving the
+role description alone would have left the movement forms to surface through the expert: **the same
+defect, one attachment later.**
+| Item | Document |
+|---|---|
+| **S1** | Role description, AO3 Switchboard Services (undated, MSH) |
+| **S2–S4** | The three Change to Working Conditions forms — 27.02 / 17.04 / 09.06.2026, each described neutrally: hours varied, *"Continuous Shift Worker"* recorded, certified/agreed/approved |
+
+⛔ **The descriptions are inventory, not argument.** Each says what the document is — never what it
+proves. The "approved three times before asking" point lives in the covering note to the employer
+and nowhere near this list.
+
+## 38.3 THE EMAIL — ONE SENTENCE, VERBATIM
+> *Dear Ms Matheson, — By way of continuing disclosure, I attach a supplementary list of documents
+> together with the four documents it lists. — Kind regards, Cory Lea Shepherd, Appellant,
+> WC/2024/227*
+
+**To** Matheson · **cc** the OIR appeals registry — the 5 August routing. ⛔ **No mention of the
+request for medical information, the psychiatrist, the report, or any date in July 2026.** The one
+thing that would make this email interesting is an explanation, and it carries none.
+
+## 38.4 ⛔ SEQUENCE AND HYGIENE
+1. **Monday morning: this email FIRST, then the pack to the practice.** Same day is sufficient —
+   the order is what matters. The Regulator must hold the documents before the practice holds an
+   instruction that reasons from them.
+2. ⛔ **Serve the SOURCE PDFs of the movement forms — NOT the stitched Attachment 5**, whose index
+   page is pack material prepared for the clinician. Same rule as the schedule: the summary page is
+   ours; the documents are theirs.
+3. ⛔ **The servable list and the internal service sheet are separate files** — the discipline note
+   was initially in the same PDF as the list, one wrong attachment away from being served.
+   `SUPPLEMENTARY_LOD_17AUG2026.pdf` is clean (leak-swept: zero hits on psychiatrist / report /
+   instruction / 31 July); `SUPPLEMENTARY_LOD_service_sheet_INTERNAL.pdf` carries the email text,
+   the attachment map and the sequencing.
+4. **No follow-up, ever.** A supplement to a continuing-disclosure list needs none.
