@@ -454,3 +454,46 @@ after Notice ¶25.**
 | **The PID, as a PID** | ⛔⛔ **NO** — and it must be **removed**, which the fix above does. A psychiatrist writing about a protected disclosure and what followed produces **reprisal framing**: barred by Discipline Rule 1, and it opens **s 32(5)(b)** from his own side |
 | ⭐ **The underlying clinical fact** | ✅ **YES, reframed.** *That he raised concerns about clinical risks in May 2024 and they were not investigated* is a legitimate psychosocial stressor and is admitted. Put it in the extract in those words — ⛔ **without “public interest disclosure”, “protected disclosure”, or anything about what followed** |
 | **The patient-safety email** | ⚠ **Only if admitted.** If it is his own email it breaks the four-document design. If the Regulator admits it was sent and in what terms, **put the admitted fact in the extract — not the document** |
+
+## ⭐⭐ 15 AUG — CROSSWALK: DOES THE FORM 29 REPORT ANSWER THE RFMI COLLATERALLY?
+| RFMI question | Answered by | |
+|---|---|---|
+| **1(a)** when was MDD first diagnosed | **1.1** — diagnosis, criteria, when each met, onset | ✅ |
+| **1(b)** clinical basis for identifying the stressors | **2.1** mechanism + **3.1** causation | ✅ ⭐ and better — grounded in the employer's own documents |
+| ⭐⭐⭐ **1(c)** solely self-report, own assessment, or other medical information? | **Part B** + the Part D statement | ✅ **see 1(c) below** |
+| **1(d)** foreseeable risk and necessary controls | **3.7** | ✅ |
+| **2** lawful direction · performance/conduct discussions | — | ⛔ **DECLINED by design** |
+| **3** fit under existing reporting arrangements, current line manager | — | ⛔ **DECLINED by design** |
+| **4** restrictions, clinical basis, duration, review date | **3.5** | ✅ verbatim scope |
+| **5** what "complaint handling" encompasses | **3.5(b)** | ✅ |
+| ⚠ **6** full inherent requirements **without restrictions** | **3.6** — *"with the adjustments at 3.5"* | ⚠ **answered on his terms, not theirs** |
+| **7** working memory in functional terms | **3.5(c)** | ✅ |
+| **8** exacerbating tasks, situations, environments | **3.5(a)** | ✅ |
+| **9** if we cannot accommodate, can he safely return | — | ⛔ **DECLINED by design** |
+
+### ⭐⭐⭐ 1(c) IS ANSWERED IN A CATEGORY MSH DID NOT OFFER
+They asked whether the stressors rest on *"Mr Shepherd's self-report, your own clinical assessment,
+or other medical information/reports available to you."* **Three options.**
+⇒ **The answer is a fourth: documents authored by the employer and facts admitted by the
+Regulator.** ⭐⭐ **That is the single most valuable line the report can contain for the employment
+track, and MSH wrote the question that produces it.**
+
+### ⛔ THE THREE DECLINED ARE THE THREE THAT COULD HURT
+Q2, Q3 and Q9 are **workplace questions dressed as medical ones**. Declining them is the correct
+professional answer, and Part D says so expressly and offers to say so if he is asked.
+
+### ⚠⚠ THE ONE REAL RISK — Q6, AND HOW TO CLOSE IT
+They asked *"without restrictions or modifications"*. The report answers *"with the adjustments at
+3.5"*. ⭐ **Clinically and strategically correct — but strictly it answers a better question, not
+their question.**
+⇒ ⛔ **If the report is simply forwarded, MSH can say the request was not answered and re-issue it.**
+⭐ **Provide it with one line of scope:** that the report addresses the matters raised; that
+questions going to workplace arrangements rather than to medical capacity are identified as such in
+the report; and that if any clinical matter remains outstanding it can be put.
+**That converts *"you did not answer"* into *"we told you which ones were not medical."***
+
+### ⚠ AND THE DIRECTION OF TRAVEL IS DELIBERATE
+The report is built to the Form 29's three matters; the capacity answers **fall out of it**. That
+order is right — causation is the harder question and capacity the easier. ⚠ **But the report will
+read as a causation report that also covers capacity, and MSH will notice.** Under the one-report
+decision that is accepted and declared, not concealed.
