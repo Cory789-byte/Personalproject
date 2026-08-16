@@ -543,3 +543,90 @@ assessment ever applied to the role** (CE letter Items 4 and 7), is a further in
 Part 1 insight: **there was no management of the roster arrangement to be reasonable about.**
 ⛔ **Not pleaded, not put to the clinician, and not raised in correspondence.** It is a closing
 observation on an agreed factual base, if it is used at all.
+
+---
+
+# ⭐⭐⭐ PART 14 — THE 26 OCTOBER 2022 ENTRIES, READ FROM SOURCE (Cory, 16 Aug: "look at the medical disclosure it's all there")
+
+⛔ **I was wrong that they were not in his attachment.** They are. **Read from the rendered pages of
+the production**, 16 August 2026.
+
+## 14.1 WHAT THEY ACTUALLY ARE
+**Page 10–11 of the production — a referral letter on Our Medical Ashmore letterhead:**
+> **16/05/2024** · **Dr Arash Amini, Evandale Practice, Bundall** · *"Dear Arash, Thank you for
+> seeing Mr Cory Lea Shepherd for **ongoing care and management**."*
+> **Current medications are:** Azithromycin 500mg · **Melatonin 5mg MR** · Viagra 100mg
+> **Past Medical History:** **26/10/2022 ADHD** · **26/10/2022 Anxiety** · 28/06/2023 Infection
+> Allergies: Nil known.
+> — **Dr William Zhao, BMED, AMC, FRACGP**, Provider No 264389EW
+
+⭐⭐⭐ **THE WHOLE OF THE RESPONDENT'S "PAST MEDICAL HISTORY OF ANXIETY AND ADHD" IS TWO LINES IN A
+HISTORY LIST, IN A GP'S REFERRAL LETTER.** Not a consultation. Not an assessment. Not a
+psychiatric diagnosis. **A coded history-list item, carried forward, with a named author and a
+date.** ⇒ **1.3(a)(i) asks exactly that: diagnosis made, or history-list item carried forward.**
+
+## 14.2 ⭐⭐⭐ AND THE SAME LETTER ANSWERS IT — THE MEDICATION LIST
+**One month before the pleaded onset, on the face of the document the respondent relies on:
+melatonin, sildenafil and an antibiotic. NO antidepressant. NO anxiolytic. NO stimulant. NO
+psychotropic medication of any kind.**
+⇒ ⭐⭐⭐ **Whatever was written in the history list in 2022, nothing was being treated in 2024.**
+**Their own best document defeats their own best point, and it is one line of a psychiatrist's
+report to say so.** ⇒ 1.3(a)(ii).
+
+## 14.3 ⭐⭐ THE 16 NOVEMBER 2023 ENTRY IS A SHIFT-WORK SLEEP ENTRY — READ IN FULL
+**Dr Priyal De Silva Nanayakkara, visit 16/11/2023:**
+> *"h/o · **Poor sleep** · **Shift work** · Takes melatonin 2 mg to help to go to sleep, soem time
+> 4 mg, but does not help much · **Cannot work/ do shifts if he does not get a good sleep.** · Does
+> not take them every day · **No psycological illness such as depression/ psycosis.** · mood good."*
+> Actions: Melatonin 5mg MR compounded · **Temaze 10mg prn** · Viagra.
+
+⭐⭐⭐ **THE ENTRY THE RESPONDENT PLEADS FOR THE CLEAN BASELINE IS A CONSULTATION ABOUT SLEEP
+DISTURBANCE CAUSED BY SHIFT WORK.** It does **two** jobs at once:
+1. **No psychiatric illness in November 2023** — their own pleaded fact; and
+2. ⭐⭐⭐ ***"Cannot work / do shifts if he does not get a good sleep"* — a contemporaneous
+   general-practice record, seven months before onset, of the precise vulnerability the 7-hour
+   break then exposed.**
+
+⇒ **The fatigue strand has a contemporaneous clinical premise, recorded by a GP, before any of it
+happened, in a document the respondent chose to rely on.** ⚠ It also runs the other way as
+pre-existing sleep disturbance — **which is why it goes to the clinician to characterise, not
+into a submission.**
+
+## 14.4 ⭐⭐ EVERY ANXIETY RECORD IN 2024 IS A WORK RECORD
+| Date | Recorded by | What it says |
+|---|---|---|
+| **28/06/2024** | **Dr Bogdan Slawinski** | *"wants melatonin, to help to sleep … **stress at work** … **upset by people not following rules**"* · **Reason for visit: "Anxiety"** |
+| **01/07/2024** | **Dr Peter Hawes** | *"work problems- ethical complaint about manager and director, they don't follow the law · **been there 5 years** · feels he is undervalued · **they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then earlies, not allowed to do this** · they don't listen to his complaints · all this is stressing him out, causing anxiety"* · **Reason for visit: "work stress"** |
+
+⭐⭐⭐ **THREE THINGS IN THE HAWES ENTRY OF 1 JULY 2024, AND EACH IS WORTH A PARAGRAPH:**
+1. ***"been there 5 years"*** — ⭐ **the documentary source for the five years.** Not memory. A
+   contemporaneous GP note. **1.3(d) quotes it.**
+2. ***"manipulate his roster- so he works lates then earlies"*** — ⭐⭐⭐ **that IS the 23:00 → 06:00
+   pattern**, described at first presentation, before any claim was decided, matching the admitted
+   7-hour break exactly.
+3. ***"they withhold pay at times, no overtime- not processed"*** — the pay strand, contemporaneous.
+
+⇒ ⭐⭐⭐ **THE MECHANISM RECORDED AT FIRST PRESENTATION IS ROSTERING AND PAY.** Not "management
+conduct generally". **That is *Mahaffey*-shaped, not *Delaney*-shaped — and it is the employer's
+own admitted subject matter.** It is the strongest corroboration in the medical file and it was
+recorded by the doctor who wrote the first certificate.
+
+## 14.5 WHAT 1.3 NOW ASKS
+| | |
+|---|---|
+| **(a)(i)** | diagnosis made, **or history-list item carried forward** — and is an anxiety disorder diagnosed anywhere |
+| **(a)(ii)** | ⭐ what the **medications in that same letter** show about treatment as at 16 May 2024 |
+| **(a)(iii)** | ADHD as **neurodevelopmental**, and vulnerability **where recovery is not provided** — ⛔ never framed against capacity for the role |
+| **(b)** | the 16 November 2023 entry, quoted in full — psychiatric illness, **and shift-work sleep disturbance** |
+| **(c)** | **every** place anxiety is recorded, **by author and date**, symptom or diagnosis — naming Slawinski, 28 June 2024 |
+| **(d)** | *"been there 5 years"*, function in the role, and whether anything bears on the date of onset |
+| **(e)** | aggravation |
+
+## 14.6 ⚠ THE TWO THINGS TO WATCH
+1. **The referral of 16 May 2024 is a renewal** — *"thank you for seeing … for ongoing care"* — so
+   an earlier referral exists and is not in the production. ⚠ **An opposing expert will ask when
+   the first one was.** 1.3(d) asks him whether anything bears on the date of onset; **do not
+   assert "no psychiatric treatment before 2024" as a fact.** The letter no longer does.
+2. **The 16 November 2023 entry cuts both ways** — sleep disturbance predating the injury. ⭐ The
+   answer is in the entry itself: *"Shift work"*. **It is work-caused sleep disturbance, not
+   constitutional.** But that is his characterisation to make, not ours to assert.

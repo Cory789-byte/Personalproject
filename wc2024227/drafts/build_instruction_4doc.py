@@ -25,13 +25,15 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    8-hour break)". Question 2.2 now states both figures. On either, the break was short — so the
    clinician is not resting on a contested premise.
 
-4. ⛔⛔ THE OLD 1.3 ASKED HIM TO ADDRESS ENTRIES THAT ARE NOT IN FRONT OF HIM — "earlier entries
-   referring to anxiety, attention deficit features or stimulant prescribing". 1.3(b) now puts the
-   respondent's assertion to him as an assertion, and asks whether the material before him
-   indicates a history of that kind and whether he needs anything further.
-   ⛔ THE LETTER SAYS NOTHING ABOUT WHICH EXHIBIT HOLDS WHAT, OR ABOUT THE SPAN OF THE PRODUCTION
-   (Cory's instruction, 16 Aug). Any statement about what the file does or does not contain turns
-   the argument into one about him rather than about their proof. It is their assertion to prove.
+4. ⭐⭐⭐ THE 26 OCTOBER 2022 ENTRIES ARE IN THE DISCLOSED RECORDS AFTER ALL (Cory, 16 Aug: "look
+   at the medical disclosure it's all there"). They are two lines in the PAST MEDICAL HISTORY list
+   of the referral letter of 16 May 2024, Dr William Zhao to Dr Arash Amini: "26/10/2022 ADHD;
+   26/10/2022 Anxiety". Not a consultation, not an assessment — a history-list item, carried
+   forward, by a named GP. And the same letter records the current medications: melatonin, viagra,
+   an antibiotic — NO psychotropic medication one month before the pleaded onset.
+   1.3 is rebuilt to put all of it to him by author and date.
+   ⛔ THE LETTER STILL SAYS NOTHING ABOUT WHICH EXHIBIT HOLDS WHAT OR ABOUT THE SPAN OF THE
+   PRODUCTION (Cory's instruction, 16 Aug).
 
 5. ⭐ AND A FACT FOUND IN HIS OWN ATTACHMENT WHILE CHECKING. On 16 November 2023 — the date of the
    "no psychological illness" entry — Dr Nanayakkara prescribed temazepam 10mg nocte and melatonin
@@ -92,6 +94,7 @@ BODY = ParagraphStyle('BODY', parent=ss['BodyText'], fontName='Helvetica',
                       fontSize=9.7, leading=13.5, spaceAfter=6)
 Q = ParagraphStyle('Q', parent=BODY, spaceBefore=6, spaceAfter=3, leftIndent=6)
 QQ = ParagraphStyle('QQ', parent=BODY, spaceBefore=3, spaceAfter=3, leftIndent=16)
+QQQ = ParagraphStyle('QQQ', parent=BODY, spaceBefore=2, spaceAfter=2, leftIndent=26)
 SMALL = ParagraphStyle('SMALL', parent=BODY, fontSize=8.4, leading=11.4,
                        textColor=colors.HexColor('#555555'))
 QUOTE = ParagraphStyle('QUOTE', parent=BODY, leftIndent=14, rightIndent=10,
@@ -248,29 +251,46 @@ story.append(P("<b>1.2</b> The differential diagnoses considered, and your reaso
                "excluding each.", Q))
 story.append(P("<b>1.3 My background, and how it bears on your opinion.</b> I ask you to reason "
                "from the following rather than around it.", Q))
-story.append(P("<b>(a) Attention deficit features.</b> Please state, from your own assessment and "
-               "the records, whether attention deficit is <b>a longstanding neurodevelopmental "
-               "condition rather than a psychiatric injury</b>; and whether a person with those "
+story.append(P("<b>(a) The past-history entries the respondent relies on.</b> The records include a "
+               "referral letter of <b>16 May 2024 from Dr William Zhao to Dr Arash Amini</b> which "
+               "lists, under <i>“Past Medical History”</i>: <b>26/10/2022 ADHD · 26/10/2022 "
+               "Anxiety · 28/06/2023 Infection</b>. The respondent relies on those entries as a "
+               "past medical history of anxiety and ADHD. Please state:", QQ))
+story.append(P("<b>(i)</b> whether entries of that kind are <b>a record of a diagnosis made at a "
+               "consultation, or a history-list item carried forward</b> in a practice record; and "
+               "whether <b>any diagnosis of an anxiety disorder</b> appears anywhere in the "
+               "material;", QQQ))
+story.append(P("<b>(ii)</b> what the <b>current medications recorded in that same letter</b> "
+               "indicate about whether any psychiatric condition was being treated as at "
+               "<b>16 May 2024</b>; and", QQQ))
+story.append(P("<b>(iii)</b> whether attention deficit is <b>a longstanding neurodevelopmental "
+               "condition rather than a psychiatric injury</b>, and whether a person with those "
                "features is <b>more, or less, vulnerable to injury where continuous shift work is "
                "worked without adequate recovery between shifts</b>, and under sustained "
-               "high-volume concurrent demand of the kind described at Attachment 3.", QQ))
-story.append(P("<b>(b) Anxiety in the records.</b> The respondent asserts <b>a past medical history "
-               "of anxiety and ADHD from 26 October 2022</b>. Where the material before you records "
-               "anxiety, please state <b>who recorded it, on what date, and whether it was recorded "
-               "as a symptom or made as a diagnosis</b>; and <b>whether any anxiety disorder was "
-               "ever diagnosed</b> before 2024.", QQ))
-story.append(P("<b>(c) My function in the role before 2024.</b> I had worked at the Logan Hospital "
-               "Switchboard, on continuous shift work, <b>since 2019</b> — <b>more than five years "
-               "before the onset pleaded in this matter</b>. Please state whether, before 2024, the "
-               "material shows <b>any psychiatric diagnosis, any psychiatric treatment, or any "
-               "absence from work on psychological grounds</b> — and what that indicates about my "
-               "level of function in this role over that period.", QQ))
-story.append(P("<b>(d) The entry of 16 November 2023.</b> The records include an entry of that date "
-               "recording <i>“No psychological illness such as depression/ psychosis.”</i> The "
-               "respondent admits the entry is listed but <b>does not admit its accuracy</b>. On the "
-               "same date the same practitioner prescribed <b>temazepam 10mg at night and melatonin "
-               "5mg</b>. What significance, if any, do you attach to that combination, and to sleep "
-               "prescribing in a shift worker at that time?", QQ))
+               "high-volume concurrent demand of the kind described at Attachment 3.", QQQ))
+story.append(P("<b>(b) The entry of 16 November 2023.</b> Dr Priyal De Silva Nanayakkara recorded "
+               "at that consultation: <i>“Poor sleep. Shift work. Takes melatonin 2 mg to help to "
+               "go to sleep, soem time 4 mg, but does not help much. <b>Cannot work/ do shifts if "
+               "he does not get a good sleep.</b> Does not take them every day. No psycological "
+               "illness such as depression/ psycosis. mood good.”</i> — and prescribed melatonin "
+               "and temazepam. The respondent admits the entry is listed in the records but "
+               "<b>does not admit its accuracy</b>. What does that entry indicate about <b>(i)</b> "
+               "the presence or absence of psychiatric illness at that date, and <b>(ii)</b> "
+               "<b>sleep disturbance attributed to shift work</b>, seven months before the onset "
+               "pleaded in this matter?", QQ))
+story.append(P("<b>(c) Anxiety recorded in the material.</b> Please identify <b>each place anxiety "
+               "is recorded, by author and date</b>, and in each case whether it is recorded as a "
+               "<b>presenting symptom or made as a diagnosis</b> — including the consultation of "
+               "<b>28 June 2024</b> recorded by Dr Bogdan Slawinski, at which the presentation is "
+               "recorded as <i>“wants melatonin, to help to sleep … stress at work … upset by "
+               "people not following rules”</i> and the reason for visit as <i>“Anxiety”</i>.", QQ))
+story.append(P("<b>(d) My function in the role.</b> Dr Peter Hawes recorded on 1 July 2024 that I "
+               "had <i>“been there 5 years”</i>. Over that period I worked continuous shift work in "
+               "this position. Please state what the material shows as to <b>any psychiatric "
+               "treatment, or any absence from work on psychological grounds</b>, in the years "
+               "before 2024 — and <b>what that indicates about my level of function in this "
+               "role</b> over that period. Please also say whether anything in the records bears on "
+               "the date of onset.", QQ))
 story.append(P("<b>(e)</b> If there was a pre-existing condition or vulnerability, whether the "
                "matters at Attachments 1 to 3 <b>aggravated</b> it, and to what extent.", QQ))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
