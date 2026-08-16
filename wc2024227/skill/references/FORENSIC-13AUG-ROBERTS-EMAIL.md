@@ -211,3 +211,71 @@ hypothesis. Never assert it, never put it to them, never speculate in writing.
 4. ⭐ Take the sick-leave line as an offer of help, not as an admission to be brandished.
 5. ⭐ To Emily: give the ISSUES and the ASKS, not the dissection. She needs a document she can
    lift into a letter, not a case theory.
+
+---
+
+# ⭐⭐⭐ 15 AUG — HOW IT SITS AGAINST THE RFMI, THE s 89 LETTER AND THE 24 AUGUST CLOCK
+
+## 1 — IT DESTROYS THE RFMI'S OWN PREMISE
+The RFMI of 31 July exists because the Health Service says it **needs further information** to
+understand capacity. The extended window closes **21 August**.
+⇒ ⭐⭐⭐ **The conclusion was announced on 13 August — eight days before the inquiry it depends on
+closed.**
+
+**If the question is genuinely open, it cannot already be answered. If it is already answered, the
+request for medical information is not an inquiry.** The employer cannot hold both.
+
+## 2 — ⭐⭐ IT IS THE SAME DEFECT AS 3 JULY, IN THEIR OWN WRITING, TWICE
+| Date | Decision | Basis |
+|---|---|---|
+| **3 Jul 2026** | Held out of the workplace that afternoon | Their 7 Jul letter: *"the Health Service was **unable to review** Dr Hong Ma's medical recommendations at that time"* |
+| **13 Aug 2026** | *"the medical evidence provided to date does not support that"* | The medical inquiry does not close until **21 Aug** |
+
+⭐⭐⭐ **Decision first, basis after. Twice, seven weeks apart, both recorded by them.** That is not a
+characterisation — it is two documents and two dates.
+
+## 3 — IT ANSWERS THE s 89 DELEGATION QUESTION, BADLY
+The letter of 3 August asked **who decides and under what delegation** (Part 3(c)). Unanswered.
+⇒ ⭐⭐ **On 13 August a Human Resources officer weighed medical evidence and reached a conclusion
+about fitness.** That is not an HR function, and it is not the delegate — **Hughes** signed the RFMI
+and reserved the decision to himself (*"I will make a decision regarding your ability to perform your
+role"*).
+⇒ **Two decision-makers, neither identified, on a question the accountable officer had been asked
+about ten days earlier.**
+
+## 4 — ⭐⭐⭐ IT DOES NOT STOP THE 24 AUGUST CLOCK, AND IT CANNOT BE MADE TO
+It is **not a decision on the cl 10.3.2 request**: it is not addressed to the request, gives no
+grounds referable to cl 10.3.5, comes from no identified decision-maker, and **never mentions the
+request at all.**
+⇒ ⭐ **The deemed refusal still matures on 24 August.**
+⚠ **And if they later say the request was decided on 13 August, this email is what they must rely
+on — and it does not mention it.** ⛔ **Do not raise that. Let them.**
+
+## 5 — ⭐⭐⭐ THE INCOHERENCE IS THE STRONGEST POINT IN THE EMPLOYMENT FILE
+If the medical evidence does not support fitness, the Health Service's own position is that he is
+**unfit**. An unfit employee is supported through **paid** sick leave or an income-replacement
+pathway. A fit employee **works and is paid**.
+> **He is neither working nor paid.**
+
+⇒ **Their position produces a state that neither of its own limbs justifies: too unfit to be given
+work, not unfit enough to be paid anything.** One sentence, no adjective, and it is unanswerable on
+their own reasoning.
+
+## 6 — ⛔ THE RECALL AND THE WORD "LEAVE"
+- ⛔ **Infer nothing from the three-minute recall.** It is noise. ⭐ Operatively: **a recalled email
+  is still an email** — sent, delivered, read. The recall does not unsend it.
+- ⚠ *"this leave would ordinarily be processed as sick leave"* — **he applied for no leave.** He was
+  **directed not to attend** from 26 June. ⭐ The word converts the employer's act into the
+  employee's absence — the same move as the myHR coding of **"Income Protection – No Pay"** on
+  20 July.
+
+## 7 — ⭐⭐ WHAT THE 19 AUGUST CONFIRMATION SHOULD AND SHOULD NOT DO
+| ⛔ Do not | ⭐ Do |
+|---|---|
+| **Answer the capacity paragraph.** Engaging a fitness debate with HR puts the medical question in correspondence, which is where it cannot be won. **The report answers it, not a letter** | **Accept the meeting**, in writing, by COB Wed 19 Aug |
+| Argue about the seven weeks, the register, or the deadline asymmetry | **Preserve** the four written asks, every date and every clock, expressly |
+| Agree to any extension of the 21-day period | **Request minutes** |
+| Raise the deemed refusal in advance | ⭐⭐ **Correct one thing only: that no leave was applied for, and that he was directed not to attend from 26 June** |
+
+⭐⭐⭐ **Correct the word, not the conclusion.** *"This leave"*, left unchallenged, becomes the
+record. The fitness assertion answers itself on 24 August and again when the report lands.
