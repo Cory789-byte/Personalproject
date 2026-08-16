@@ -251,8 +251,11 @@ story.append(P("<b>(a)</b> whether the adjustments at 3.5 are <b>clinically nece
                "without them;", Q))
 story.append(P("<b>(b)</b> whether, <b>with those adjustments in place</b>, I am able to "
                "perform the duties described at Attachment 3;", Q))
-story.append(P("<b>(c)</b> whether adjustments of that kind are <b>ordinarily available</b> in "
-               "a workplace of that kind; and", Q))
+story.append(P("<b>(c)</b> whether adjustments of that kind — predictability of rostering, "
+               "minimum recovery intervals between shifts, limits on sustained concurrent "
+               "emergency-code load, and hours of work — are <b>of a kind ordinarily provided "
+               "by large employers, and in particular by health services operating 24-hour "
+               "services</b>; and", Q))
 story.append(P("<b>(d)</b> whether the adjustments are <b>permanent, or temporary with a "
                "review date</b>.", Q))
 story.append(P("I note that the certificate of capacity of 3 July 2026 at Attachment 4 records "

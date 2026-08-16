@@ -113,6 +113,24 @@ c.append(P("<b>9. ⚠ Assume everything sent to the practice is produced to the 
            "notice it holds. That is why the instruction and the covering email carry no strategy, no "
            "characterisations, and nothing from the parallel tracks.", ITEM))
 
+c.append(P("⭐⭐⭐ WHEN THE REPORT GOES TO MSH — CITE THEIR OWN POLICY", SEC))
+c.append(P("The adjustments the report specifies are measured against <b>HR Policy G3 / QH-POL-210, "
+           "Reasonable Adjustment</b>, which MSH itself invoked in the request of 31 July 2026. "
+           "⭐ <b>Its own words, verified:</b>", ITEM))
+c.append(P("<i>“The question of whether an adjustment is unreasonable or would cause "
+           "&lsquo;unjustifiable hardship&rsquo; is <b>tested against the whole organisation, not a "
+           "division or unit within the organisation</b>. <b>The onus is on Queensland Health, as the "
+           "employer, to prove an adjustment is unreasonable</b>, not on the person to prove that it "
+           "is reasonable.”</i>", ITEM))
+c.append(P("⇒ ⭐⭐⭐ <b>The test is not whether the Logan Switchboard roster can absorb the "
+           "adjustment. It is whether Metro South Health can — and the onus of showing it cannot is "
+           "theirs.</b> The same policy adds that failure to provide reasonable adjustment <i>“may "
+           "constitute unlawful discrimination.”</i>", ITEM))
+c.append(P("⛔ <b>This goes in the covering note to MSH, not to the clinician.</b> A psychiatrist does "
+           "not apply an HR policy. Question 3.6(c) is framed so that his answer — whether adjustments "
+           "of that kind are ordinarily provided by large employers and by 24-hour health services — "
+           "maps onto the whole-organisation test without his being asked to apply it.", ITEM))
+
 c.append(P("WHAT THE REPORT MUST NOT DO", SEC))
 c.append(P("⛔ Say he cannot fulfil the inherent requirements · ⛔ answer the accommodation question "
            "in the negative · ⛔ opine on working with any named person or reporting line · ⛔ express "
