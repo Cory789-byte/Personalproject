@@ -1700,3 +1700,71 @@ Corrected, then the sentence was removed altogether. Re-verified: **pleaded · p
 respondent — all zero.**
 ⭐⭐ **The lesson stands from Part 23: every addition needs the full sweep re-run.** Twice today a
 one-line insertion broke something established hours earlier.
+
+---
+
+# ⭐⭐⭐ PART 30 — "AGGRAVATING" OR "MAINTAINING"? THE WORD IS THE WHOLE THING (Cory, 16 August)
+
+> *"or should I say aggravating factors?"*
+
+## 30.1 ⛔⛔ NOT "AGGRAVATING" — AND THE REASON IS STATUTORY, NOT STYLISTIC
+**In the WCRA, *aggravation* is a term of art.** s 32 defines *injury* to include the **aggravation**
+of a pre-existing condition — an aggravation is **a compensable injury in its own right**.
+
+⇒ A clinician who writes that **the appeal is aggravating** the condition has, in one word:
+1. **created a fresh injury** in the statutory sense; **and**
+2. ⛔⛔ **placed it inside s 32(5)(c)** — which excludes injury arising out of *"action by the
+   Regulator or an insurer in connection with the worker's application for compensation."*
+⇒ **He would have written an exclusion, on the Regulator's behalf, in the appellant's own report.**
+
+⚠ **And in the capacity process it does a second harm:** *"aggravating"* reads as **worsening** ⇒
+deterioration ⇒ incapacity ⇒ the medical-separation pathway. It contradicts the capability
+checklist's *"worked and tolerated over the past twelve months **without deterioration**."*
+
+## 30.2 ⭐⭐⭐ THE CORRECT REGISTER — AND HE WILL REACH FOR IT UNPROMPTED
+**"Perpetuating"** — or **"maintaining"**. Both are ordinary psychiatric formulation language
+(predisposing · precipitating · **perpetuating**), and neither is a statutory term.
+| | |
+|---|---|
+| **Perpetuating / maintaining** | describes **persistence**, not worsening ⇒ consistent with *"tolerated without deterioration"* |
+| ⭐⭐ **And it does not compete with causation** | a perpetuating factor explains why an injury has not **resolved**. It says nothing about what **caused** it ⇒ **the s 32(1) analysis is untouched** |
+| **Aggravating** | denotes a new compensable event ⇒ **s 32(5)(c)** ⇒ and reads as deterioration |
+
+## 30.3 ⭐ THE FRAMEWORK IN THE PROPOSAL IS RIGHT — WITH ONE STEP FURTHER
+The clinically legitimate / illegitimate split is correct: **formulation of current symptom load is
+proper; findings about any party's conduct are not.**
+⛔ **But the step further is: do not invite it at all.** The instruction does not ask what the
+proceedings have done to him, and **should not**. If he raises it because it is clinically true,
+that is his judgment and it is defensible. **Every sentence we solicit on it is a sentence the
+Regulator can use under s 32(5)(c) and the employer can use for incapacity.**
+⭐ The letter is already correctly silent — 3.1 supplies the dates and asks him to place factors in
+time. **Part 29.4 removed the one sentence that reached further.**
+
+## 30.4 ⭐⭐⭐ AND THE THING THE PROPOSAL MISSES — SLEEP IS THE STRAND, NOT A SYMPTOM
+| | |
+|---|---|
+| **16 Nov 2023** | *"**Poor sleep. Shift work.** … **Cannot work/ do shifts if he does not get a good sleep.**"* — Nanayakkara, seven months before onset |
+| **2024** | the 7-hour break; the injury |
+| **3 Jul 2026** | *"**maintaining a regular sleep routine remains central to symptom management** following cessation of the night-time medication"*; and the 10-hour minimum recommended |
+
+⇒ ⭐⭐⭐ **Sleep runs the entire length of this case, and it runs from SHIFT WORK.** It is the single
+thread that ties November 2023 to the March 2024 break to the 2026 adjustments.
+
+⛔⛔ **A sentence attributing current sleep disturbance to the appeal cuts that thread at its
+strongest point** — and hands the Regulator a non-employment explanation for the symptom that most
+directly connects to the admitted breach.
+⇒ **Sleep belongs to the shift work and to the condition. Not to the litigation.**
+
+## 30.5 ⚠ AND EVEN THE "CLEAN" FORMULATION CARRIES THE PART 28 RISK
+*"He remains mobilised around threat, proof and outcome"* is clinically unobjectionable — **and it
+is one paraphrase away from *"obsessive rumination… extensive researching… planning on fact
+findings"*, which the same clinician has already recorded as a symptom.**
+⇒ **The most defensible version of this material still carries an incapacity marker.** ⭐ That is a
+reason for restraint, not for suppression: **if he writes it, it is his clinical judgment. We
+simply do not ask for it.**
+
+## 30.6 ⇒ ON THE DRAFT
+Checklist item **1b**: watch for ***"aggravating"*** applied to the appeal or the employment
+process, and for **sleep attributed to the litigation**. Both are correctable on the draft under
+the facts-only rule — ⚠ **the first is a factual/terminological point, so it can be raised; the
+second is closer to opinion, so it can only be raised if it misstates the record.**
