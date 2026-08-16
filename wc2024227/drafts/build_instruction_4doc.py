@@ -559,10 +559,11 @@ story.append(P("I note that the employee capability checklist of <b>3 July 2026<
                "supports recovery while minimising risk of exacerbation. Usual switchboard "
                "operational duties remain suitable; complaint-handling duties are excluded as "
                "below.”</i> Please take that record into account in answering (b) and (c).", BODY))
-story.append(P("<b>3.7 Directions and workplace discussions.</b> Whether there is any clinical "
-               "impediment to my <b>following a reasonable and lawful direction</b> given by a "
-               "supervisor, or to my <b>participating in discussions concerning workplace "
-               "performance or conduct</b>. If any adjustment would be clinically indicated for "
+story.append(P("<b>3.7 Directions and workplace discussions.</b> <b>My employer has asked</b> "
+               "whether I am able to <b>follow a reasonable and lawful direction issued by my "
+               "supervisor</b>, and to <b>participate in discussions in relation to my workplace "
+               "performance and/or conduct</b>. Please state whether there is <b>any clinical "
+               "impediment</b> to either. If any adjustment would be clinically indicated for "
                "discussions of that kind — for example notice, a written agenda, the presence of a "
                "support person, or duration — please specify it and its clinical basis.", Q))
 story.append(P("<b>3.8 Foreseeable risk.</b> Whether exposure to the conditions described at "

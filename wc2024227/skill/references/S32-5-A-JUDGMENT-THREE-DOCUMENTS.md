@@ -1405,3 +1405,65 @@ division and it is the whole design.**
    letter of instruction and the schedule of assumed facts* to both — **not the attachments.** The
    Regulator already holds them; MSH holds its own. ⇒ **The 13 February 2025 report does not go to
    MSH from us.**
+
+---
+
+# ⭐⭐⭐ PART 26 — THE CONDUCT FRAMING IN A REQUEST THAT IS ONLY ABOUT HOURS (Cory, 16 August)
+
+> *"and because he asked what he has done regarding a conduct problem but is only for reduced hours"*
+
+## 26.1 THE OBSERVATION
+**Nothing before the Health Service on 31 July 2026 is about conduct.** What is before it is a
+capability checklist certifying **fit with adjustments**, and a pattern of reduced hours it has
+itself approved three times. **There is no performance process and no conduct allegation on foot.**
+
+And yet its question 2 asks a psychiatrist whether the employee can *"follow a reasonable and
+lawful direction"* and *"participate in discussions in relation to his workplace performance and/or
+conduct"* — prefaced by *"the Health Service is not aware of any concerns being raised for
+appropriate management."*
+
+⇒ ⭐⭐⭐ **The employer has imported conduct language into a medical inquiry that has no conduct
+subject matter.**
+
+## 26.2 ⭐⭐ AND IT IS THE MIRROR OF THE G3 ASYMMETRY ALREADY ON THE FILE
+| | |
+|---|---|
+| **8 Sep 2025** | an **attendance** matter treated as **conduct** — G3 never invoked, no medical inquiry, the psychological injury never mentioned |
+| **31 Jul 2026** | a **fit-with-adjustments certificate** treated as **medical** — G3 expressly invoked, nine questions in seven days — ⭐ **and conduct language imported into it** |
+
+⇒ **A health matter handled as conduct; then an adjustment request handled as medical, with conduct
+inside it.** ⛔ That is for the employment track and the covering note. **Not for the clinician.**
+
+## 26.3 ⛔ AND IT EXPOSED A REAL DEFECT IN QUESTION 3.7 — NOW FIXED
+As drafted, 3.7 read: *"Whether there is any clinical impediment to **my** following a reasonable
+and lawful direction…"*
+
+⚠⚠ **That made the appellant appear to volunteer a doubt about himself.** It was the **only question
+in the letter where the doubt looked like his own**, and a clinician reading it could reasonably
+infer that something had happened which prompted it.
+
+⭐ **Now attributed to its source:**
+> ***My employer has asked*** *whether I am able to follow a reasonable and lawful direction issued
+> by my supervisor, and to participate in discussions in relation to my workplace performance
+> and/or conduct. **Please state whether there is any clinical impediment to either.***
+
+⇒ **It is their question, answered — not his doubt, raised.** ⭐ And it now matches the appendix,
+which reproduces question 2 in their words and maps it here.
+
+## 26.4 ⭐⭐⭐ WHY ANSWERING IT IS WORTH MORE THAN DECLINING IT — CONFIRMED BY THIS
+The employer has put a conduct proposition into a medical document **without any conduct process to
+support it**. ⇒ A treating psychiatrist's answer that there is **no clinical impediment** to taking
+direction or participating in performance or conduct discussions:
+1. **removes the medical foundation for a conduct framing** — in their own requested document;
+2. **leaves the employer having raised a concern it cannot support on its own file**; and
+3. ⭐⭐ **the second limb converts it into an obligation**: whatever adjustment such a discussion
+   requires — notice, a written agenda, a support person, duration — becomes a reasonable adjustment
+   they must provide.
+
+⇒ **Declining it would have left the question hanging and the framing intact.** Answering it takes
+the framing away.
+
+## 26.5 ⛔ THE DISCIPLINE
+The observation at 26.1–26.2 is **the strongest employment-track point of the day** and it goes
+**nowhere near the doctor**. He is asked a clinical question and told who asked it. ⭐ **He supplies
+the answer; we supply the context to the employer, later, in the covering note.**
