@@ -138,3 +138,50 @@ in emergency response under strict timeframes. An employer cannot rely on an exc
 reasonable management action where its answer, in its own words, is that no management of that risk
 existed.** ⚠ **That conclusion is worth nothing until s 32(1) is proved. The report is still the
 whole case.**
+
+---
+
+# PART 7 — ⭐⭐⭐ ON THESE THREE DOCUMENTS ALONE: TEN LINKS, NINE OF THEM THEIRS
+| # | The link | Source |
+|---|---|---|
+| 1 | **The work**: continuous 24-hour, 7-day shift work; emergency response by code category under strict protocols and timeframes; queues to minimum at all times; multitasking under high call volume; judgement where procedures are undefined; limited supervision | ⭐ **Role description (MSH)** |
+| 2 | **The clinical criticality** of Switchboard accuracy to **clinical handover and patient safety** | **Form 24 ¶8 (Regulator)** |
+| 3 | **The rule**: minimum break of **10 hours** (or 8 by written agreement) | **Form 24 ¶3** |
+| 4 | **The breach**: **7 hours**, 17–18 March 2024 | **Form 24 ¶1** |
+| 5 | **Its character**: *"a rostering error that was accidentally made"* | **Form 24 ¶5** |
+| 6 | **The exposure on those very shifts**: **MET calls recorded** | ⭐ **CE letter, Items 1–2** |
+| 7 | **The immediate consequence**: **leave taken 19 March** | ⭐ **CE letter Item 15** |
+| 8 | **The absent control**: no fatigue risk assessment; fatigue management only **after 30 June 2024**; no register | ⭐⭐ **CE letter, Items 4, 5, 7** |
+| 9 | **The absent correction and feedback loop**: **no consequential changes to operating procedures**; complaints *"solely via email or verbally"*, nothing retained | ⭐⭐ **CE letter, Items 3(a), 3(c)** |
+| 10 | **The clean baseline and the diagnosis**: 16 Nov 2023 *"no psychological illness such as depression/psychosis"*, with **no contrary contemporaneous evidence**; MDD diagnosed 13 Feb 2025 | **Form 24 ¶¶34, 35, 38** |
+
+⭐⭐⭐ **Nine of the ten are written by the Regulator or by the employer's Chief Executive. He
+supplies none of them.**
+
+## 7.1 ⛔ WHAT THEY DO NOT ESTABLISH — AND IT IS EXACTLY ONE THING
+**Nothing in the three documents links links 1–9 to link 10.** No one in them says the work
+contributed to the condition. ⇒ **They do not prove s 32(1), which is the element he bears.**
+⚠ Two smaller gaps: **onset at 18 June 2024** is not in these three (it comes from the certificates
+and the claim); and **the interval March → June** is bridged only by an *inference* from the CE
+letter's absence of any system or change — a strong inference, **but an inference a clinician must
+say is sound.**
+
+## 7.2 ⭐⭐ THE VERDICT, PRECISELY
+> **On these three documents alone, the s 32(5)(a) exclusion is very hard to run on the fatigue
+> strand, and the factual foundation of the case is complete. But s 32(1) is not made out, and
+> cannot be made out on documents.**
+⇒ **They win the second half of the case and none of the first.**
+
+## 7.3 ⭐⭐⭐ AND THE PRACTICAL PAYOFF, WHICH IS THE POINT
+**Because these three documents do so much, the report has only ONE job left.**
+- It does **not** have to establish what the work was — the role description does that.
+- It does **not** have to establish what happened — the admissions do that.
+- It does **not** have to establish what was absent — the Chief Executive does that.
+- It does **not** have to rely on his account of any of it.
+
+**It has to answer one question: did that exposure contribute to this condition?**
+
+⭐⭐ **A report answering a single clinical question, on assumed facts it did not gather and cannot
+be attacked on, is a cheaper report and a far stronger one than a report that must build the whole
+picture.** ⇒ **The three documents have narrowed what has to be bought to one question — which is
+the most useful thing they do.**
