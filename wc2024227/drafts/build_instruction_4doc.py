@@ -162,10 +162,10 @@ story.append(P("<b>1.1</b> The diagnosis; the classificatory framework applied a
 story.append(P("<b>1.2</b> The differential diagnoses considered, and your reasons for including or "
                "excluding each.", Q))
 story.append(P("<b>1.3</b> My psychiatric background. The general-practice records provided include "
-               "<b>the entries of 26 October 2022 referring to anxiety and attention deficit "
-               "features, and stimulant prescribing</b>, and <b>the entry of 16 November 2023</b>. "
-               "Please address them. Whether there was any relevant pre-existing condition; and if "
-               "so, whether the matters at Attachments 1 to 3 aggravated it, and to what extent.", Q))
+               "<b>the entry of 16 November 2023</b>, and any earlier entries referring to anxiety, "
+               "attention deficit features or stimulant prescribing. Please address them. Whether "
+               "there was any relevant pre-existing condition; and if so, whether the matters at "
+               "Attachments 1 to 3 aggravated it, and to what extent.", Q))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
                "so how — from your own current clinical assessment. I do not ask you to adopt or "
                "repeat any earlier characterisation.", Q))

@@ -86,9 +86,11 @@ The pack specification said this from the start — *"2022 ADHD/anxiety pages IN
 | ⭐ **The complete Ashmore records (Exhibit A5)** — pages 48, 50, **52**, 53 are cited in the Form 24 notice, so A5 runs to at least 53 pages | Obtained by the Regulator **on or before 8 July 2025** (Form 24 ¶23); served on Saines **22 July 2025** (¶30) |
 | The **13 February 2025 report**, referring to *"multiple life stressors including relationship breakdown, job loss and bereavement"* | LOD item 10 · Exhibit A4 · already in the pack at 04d |
 
-⛔⛔ **The 14-page export currently in the pack is NOT the complete A5.** Obtain the full production
-before the pack is sent — from the Saines material, or directly from the practice, which requires no
-notice because they are his own records.
+⛔ **CORRECTED 15 Aug:** it was asserted above that the 14-page export is not the complete A5, and
+that obtaining the full production was a priority. **Neither is established.** The page references
+at 48–53 may be bundle-wide pagination across a composite exhibit. ⭐ **And it is not his gap to
+fill: the Regulator holds whatever it holds, and it is disclosable in the ordinary way.** The
+clinician receives the complete production as served. **No action is required.**
 
 ## ⭐⭐⭐ AND IT MAKES THE OPINION STRONGER, NOT WEAKER
 **A causation opinion formed on a favourable subset is attackable. A causation opinion formed on
