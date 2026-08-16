@@ -1142,3 +1142,44 @@ billing risk, it is his to accept, and it has been accepted.
 | The covering email to the practice | ✅ **unchanged** — same two facts |
 | The covering note to MSH at delivery | ⭐ **must still say the Regulator holds the identical document.** That is the declaration, made when the report is real |
 | An advance letter to Injury Management | ⛔ **not sent** |
+
+---
+
+# ✅ PART 22 — FUNDING CLOSED (16 August): MSH CONTACTED THE PRACTICE DIRECTLY
+
+> **Cory: *"they have contacted the clinic directly confirmed to meet costs."***
+
+⭐⭐⭐ **That is the strongest form the arrangement could take, and it closes the risk analysed at
+Part 21.6.4.** It is **not a promise made to him** — which would be deniable and would leave him
+proving a conversation. It is **a commitment made directly to a third party**, of which **the
+practice holds the record**.
+
+## 22.1 WHY IT IS NOW VERY HARD FOR MSH TO WITHDRAW
+| | |
+|---|---|
+| **They asked for the information** | under **HR Policy G3 / QH-POL-210** and **ss 17 and 19 WHS Act 2011**, which they cited themselves |
+| **Their own policy puts the onus on them** | *"the onus is on Queensland Health… to prove an adjustment is unreasonable"* — obtaining the medical information is part of discharging it |
+| ⭐⭐⭐ **The commitment is to a medical practice, not to the employee** | **Refusing to reimburse an employee is routine. Reneging on a confirmation given directly to a treating practice is a different act** — it must be done by a named person, in writing, to a third party, and health services are markedly reluctant to do it |
+| **Reliance** | the report is commissioned on the strength of it |
+
+## 22.2 ⭐ TWO FOLLOW-UPS REMAIN — AND NEITHER INVOLVES CONTACTING MSH
+**(a) The quantum.** *"Will meet the cost"* is not *"will meet the cost up to $X"*. **Confirm the
+figure with the practice**, when booking. ⚠ **Do not go back to MSH about money.** The arrangement
+is made; re-opening it invites a cap.
+
+**(b) ⭐⭐ WHAT ELSE DID MSH SAY TO THE PRACTICE?** This is the real question, and it is new.
+⇒ If MSH framed a scope, or sent the practice its own questions, **the doctor may believe he is
+answering MSH's brief rather than this instruction.** Two instructions produce a hybrid document
+that serves neither purpose properly.
+⭐ **Ask the practice one neutral question when booking:** *what has the Health Service provided to
+you, or asked of you?*
+⛔ **The letter of instruction must be the only instruction.**
+⭐⭐ **And question 1.5 catches it either way** — *"a complete list of every document you
+reviewed"*. Anything MSH sent appears there, on the face of the report. **Same self-executing
+safeguard that answered the Review Decision problem.**
+
+## 22.3 ⭐ AND IT STRENGTHENS THE REPORT ITSELF
+Part D of the instruction states that the cost is being met by Metro South Health. ⇒ **That is no
+longer the appellant's assertion.** The practice was told so by the Health Service directly, and
+can say so. **The credibility point — that the causation opinion cannot be said to have been bought
+by the appellant — is now independently verifiable.**
