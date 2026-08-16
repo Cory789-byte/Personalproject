@@ -46,7 +46,7 @@ e.append(P("<b>My employer, Metro South Hospital and Health Service, has asked f
            "refers to. <b>The report also addresses the matters in issue in my Queensland Industrial "
            "Relations Commission proceeding WC/2024/227</b>, and I attach a copy of the Notice of "
            "Non-Party Disclosure served on your practice in that proceeding.", BODY))
-e.append(P("<b>I am self-represented in this proceeding and have prepared the instruction myself.</b> "
+e.append(P("<b>I am self-represented and have prepared the instruction myself.</b> "
            "I have set it out in the way I understand an expert is ordinarily instructed: the facts "
            "I ask you to assume are identified by their source, and the matters the Regulator does "
            "not accept are identified as well, so that you have the position complete rather than "
