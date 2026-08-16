@@ -1655,25 +1655,48 @@ whole life."*
    competing cause of it** — which is exactly what question 3.1(c) asks: *independent of the
    employment matters, or a consequence of them.*
 
-## 29.3 WHAT WENT INTO 3.1 — FACTS ONLY, NO ATTRIBUTION SOUGHT
+## 29.3 WHAT WENT INTO 3.1 — DATES ONLY
 > *In placing matters in time, the dates in the table at Part B may assist. The claim was rejected
 > on 13 September 2024; I applied for review on 16 September 2024; the review decision issued on
 > 24 October 2024, the same day our clinical relationship began; and the appeal was filed on
-> 26 November 2024, a month after that first consultation. **Each of those dates falls after the
-> date of onset in this matter, 18 June 2024.***
+> 26 November 2024.*
 
-⛔⛔ **AND NOTE WHAT IS DELIBERATELY NOT ASKED.** He is **not** asked whether the proceedings have
-harmed him, or what they contributed to the subsequent course.
-⇒ ⚠ **s 32(5)(c)** excludes injury arising from *"action by the Regulator or an insurer in
-connection with the worker's application for compensation."* **A clinician who attributes harm to
-the proceedings writes an exclusion argument.** ⭐ **The dates are supplied; the attribution is not
-invited.** 3.1(a) then makes him place every factor before or after 18 June 2024 — and every one of
-these falls after.
+## 29.4 ⛔⛔ AND WHAT WAS TAKEN BACK OUT (Cory: *"dont put it into the report let him reason"*)
+The paragraph first ended: *"**Each of those dates falls after the date of onset in this matter,
+18 June 2024.**"*
 
-## 29.4 ⛔ AND A DEFECT I INTRODUCED WRITING IT, CAUGHT ON THE CHECK
-The first draft of that paragraph read *"after the onset **pleaded** at 18 June 2024."*
+⭐⭐⭐ **That sentence was me doing his reasoning for him, and it had to come out.** The dates are
+facts. **The observation that all of them post-date onset is an inference — and it is the
+inference the whole point depends on.**
+| | |
+|---|---|
+| If **I** state it | it is the appellant's submission, in the doctor's letter, and it is worth nothing |
+| ⭐ If **he** observes it | it is the treating psychiatrist's own finding, and it is unanswerable |
+
+⇒ **And 3.1(a) already makes him do it** — *"state for each whether it arose before or after
+18 June 2024."* The closing sentence was **redundant as well as wrong**.
+
+⭐⭐ **This is the same error in a different costume as the Review Decision clause, the "explain what
+has changed" clause, and the un-attributed 3.7.** Every one of them was me supplying a conclusion
+the record already produces. ⇒ **RULE: supply the facts and the question. Never supply the step
+between them.**
+
+## 29.5 ⭐ AND ON THE FEBRUARY 2025 SENTENCE — THE BETTER WORD IS *UNCLOSED*
+> Cory: *"as something unclosed and told my reality or unclosed events."*
+
+⭐⭐⭐ **That is a better characterisation than "interim" at Part 25.2.** What the clinician recorded
+on 13 February 2025 was **a set of unclosed events** — a rejected claim under review, an appeal on
+foot, an employment status unresolved. **He was describing a situation, not a capacity.**
+⇒ *"it is unclear at this stage the work goal and return to work"* is **a statement that the
+matters were open**, and it is followed immediately by *"I will further update on this after next
+consultation."*
+⇒ **Nothing needs reconciling, and nothing is asked. When those matters closed, the goal became
+definable. The doctor will see that from his own file, in his own time.**
+
+## 29.6 ⛔ AND A DEFECT I INTRODUCED WRITING IT, CAUGHT ON THE CHECK
+The first draft read *"after the onset **pleaded** at 18 June 2024."*
 **That single word reintroduced the pleading language removed from the entire document at Part 15.**
-Corrected to *"the date of onset in this matter"*, and re-verified: **pleaded · pleading · admitted
-· respondent — all zero.**
-⭐⭐ **The lesson stands from Part 23: every addition needs the full sweep re-run, not just a read of
-the sentence added.**
+Corrected, then the sentence was removed altogether. Re-verified: **pleaded · pleading · admitted ·
+respondent — all zero.**
+⭐⭐ **The lesson stands from Part 23: every addition needs the full sweep re-run.** Twice today a
+one-line insertion broke something established hours earlier.
