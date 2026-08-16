@@ -1183,3 +1183,64 @@ Part D of the instruction states that the cost is being met by Metro South Healt
 longer the appellant's assertion.** The practice was told so by the Health Service directly, and
 can say so. **The credibility point — that the causation opinion cannot be said to have been bought
 by the appellant — is now independently verifiable.**
+
+---
+
+# ⭐⭐⭐ PART 23 — TWO STRUCTURAL FIXES (Cory, 16 August)
+
+> *"does it label the numbers or does the report just have everything fall out… and should my
+> letter construction plainly put the questions msh ask"*
+
+**Both were real gaps. The second was the dangerous one.**
+
+## 23.1 ⛔ NOTHING TOLD HIM TO NUMBER HIS ANSWERS
+The instruction is numbered. **The report was not required to be.** A treating psychiatrist writing
+in his usual register — and his report of 13 February 2025 shows that register — produces
+**narrative prose**. Some questions get answered inside paragraphs; some get missed; and
+⭐⭐⭐ **no reader can tell at a glance whether question 6 was answered.**
+
+⇒ **That is fatal in this matter specifically**, because *three different readers* will audit it
+against *two different lists*: MSH against its nine questions, the Regulator against the three
+matters, and Cory against both. **And there is no second document behind it.**
+
+⭐ **Part D(a) now reads:** *"answer under the numbering used in this letter, so that each question
+and its answer can be identified — and where a question is not answered, say so under its number
+and why."*
+⭐⭐ **And it does not cost him time — it saves it.** A numbered structure is easier to write than a
+synthesis, and Part D(c) already requires reasoning under each rather than assertion. **Numbered
+headings with reasoned prose beneath is the ordinary medico-legal form, not a form-filling
+exercise.**
+
+## 23.2 ⭐⭐⭐ THE EMPLOYER'S NINE QUESTIONS WERE NOWHERE REPRODUCED — AND THAT WAS THE REAL RISK
+The design folded them into the three matters. **Right for the doctor** — it converts workplace
+questions into medical ones — **but it left two openings:**
+1. ⛔⛔ **"The psychiatrist was never asked what we asked."** Half true, and unanswerable without
+   the crosswalk.
+2. **MSH would have to map the report itself** — and an employer that cannot find its answer
+   concludes there isn't one. *"You did not answer question 6"* stalls the capacity process.
+
+⭐ **NEW APPENDIX: each of the nine, in the employer's own terms, against the question that answers
+it** — and the two declines stated **expressly, as scope, before the report is even written.**
+
+### 23.2.1 ⛔ WHAT THE APPENDIX DELIBERATELY DOES NOT REPRODUCE
+Their question 2 carries an editorial preamble: *"the Health Service is not aware of any concerns
+being raised for appropriate management."* ⛔ **The question is reproduced. The commentary is not.**
+⇒ Putting that sentence in front of a treating psychiatrist invites him to respond to a
+characterisation rather than answer a clinical question — and **it is contradicted by the record**,
+which is a matter for the covering note to MSH, not for a medical instruction.
+⭐ **And the letter offers the full request if he wants it**, so nothing is hidden and the choice
+is his.
+
+## 23.3 ⭐⭐ WHY THE APPENDIX IS WORTH MORE THAN A PAGE
+It now travels with the report **to both recipients** (Part D, distribution).
+| Reader | What the appendix does |
+|---|---|
+| **MSH** | Finds all nine of its questions, in its own words, each mapped to an answer. ⭐ **The "you didn't answer" argument is foreclosed on the face of the instruction** |
+| **The Regulator** | Sees exactly which employer questions were put and which were refused — ⭐ **restraint, visible and documented** |
+| **The doctor** | Knows what he is actually answering, and that two questions are being declined **on instruction, not by oversight** |
+
+⭐⭐⭐ **And the two declines now read as a considered scope decision recorded in advance, rather
+than as gaps discovered afterwards.** That is the difference between a report with holes and a
+report with boundaries.
+
+**Letter now 7pp** — six of instruction, one of appendix.

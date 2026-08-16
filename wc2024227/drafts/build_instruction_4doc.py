@@ -126,7 +126,22 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    ⭐ And he is entitled to know his instruction will be disclosed. Saying so is proper, and it is
    also the reason the instruction was written to be produced from the first draft.
 
-18. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
+19. ⭐⭐⭐ TWO STRUCTURAL FIXES (Cory, 16 Aug: "does it label the numbers or does the report just
+   have everything fall out, and should my letter plainly put the questions MSH ask").
+   (a) NOTHING TOLD HIM TO NUMBER HIS ANSWERS. A treating psychiatrist writing in his usual
+       register produces narrative prose, and no reader can then tell at a glance whether question
+       6 was answered. Part D(a) now asks him to ANSWER UNDER THE NUMBERING USED IN THIS LETTER,
+       and to say under its number where a question is not answered and why.
+   (b) ⭐⭐⭐ THE EMPLOYER'S NINE QUESTIONS WERE NOWHERE REPRODUCED. They were reframed and folded
+       into the three matters — which is right for the doctor, but it left MSH able to say
+       "the psychiatrist was never asked what we asked", and it left MSH to do the crosswalk itself
+       or conclude a question was missed. A NEW APPENDIX sets out each of the nine in the
+       employer's own terms against the question that answers it, and states the two declines
+       expressly as scope. ⛔ The editorial preamble to their question 2 — "the Health Service is
+       not aware of any concerns being raised" — is NOT reproduced: the question is, the commentary
+       is not, and the full request is offered if he wants it.
+
+20. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
    facts accepted by Ms Renee Matheson, Senior Appeals Officer, on 18 February 2026; the Chief
    Executive's letter of 5 June 2026; the requirements of the position; and the clinical records in
    full — and two matters to TAKE INTO ACCOUNT: the relationship breakdown (3.1) and the past
@@ -551,19 +566,22 @@ story.append(P("<b>I do not ask you</b> to express a view on whether any managem
                "particular person. <b>Those are workplace questions, not medical ones. If you are "
                "asked any of them, I ask that you say so rather than answer.</b>", BODY))
 story.append(P("<b>As to form, I ask that the report:</b>", BODY))
-story.append(P("<b>(a)</b> state your qualifications and specialty, and the dates and duration of "
+story.append(P("<b>(a)</b> <b>answer under the numbering used in this letter</b>, so that each "
+               "question and its answer can be identified — and where a question is not answered, "
+               "say so under its number and why;", QQ))
+story.append(P("<b>(b)</b> state your qualifications and specialty, and the dates and duration of "
                "each consultation on which your opinion is based;", QQ))
-story.append(P("<b>(b)</b> <b>reason from the assumed facts to your conclusions rather than assert "
+story.append(P("<b>(c)</b> <b>reason from the assumed facts to your conclusions rather than assert "
                "conclusions</b>, and state where the material is insufficient for you to express an "
                "opinion rather than qualifying an opinion you would not otherwise give;", QQ))
-story.append(P("<b>(c)</b> <b>state expressly which of the sources at Part B your opinion as to "
+story.append(P("<b>(d)</b> <b>state expressly which of the sources at Part B your opinion as to "
                "causation rests on, and whether that opinion depends on my account of the workplace "
                "matters</b>;", QQ))
-story.append(P("<b>(d)</b> <b>state whether anything in the clinical records provided is "
+story.append(P("<b>(e)</b> <b>state whether anything in the clinical records provided is "
                "inconsistent with, or qualifies, the opinions you express — and if so, how you have "
                "taken it into account</b>, so that the report addresses the whole of the material "
                "rather than part of it; and", QQ))
-story.append(P("<b>(e)</b> confirm that the opinions expressed are your own.", QQ))
+story.append(P("<b>(f)</b> confirm that the opinions expressed are your own.", QQ))
 story.append(P("<b>If it would assist, I am content to be provided with a draft so that I can "
                "identify any factual error or omission in the material. I will not comment on your "
                "opinions, and any correction I offer will be to the facts only.</b>", BODY))
@@ -582,6 +600,53 @@ story.append(P("<b>As to cost and instruction:</b> the cost of the report is bei
                "information about my capacity for work. <b>The report is nonetheless instructed by "
                "me, and I ask that it be addressed to me.</b> Neither bears in any way on the "
                "opinion you express.", BODY))
+
+
+story.append(PageBreak())
+story.append(P("APPENDIX — THE EMPLOYER'S REQUEST OF 31 JULY 2026, AND WHERE EACH QUESTION IS "
+               "ANSWERED", PART))
+story.append(P("My employer's request is set out below in its own terms, with the question in this "
+               "letter that answers it. <b>The full request can be provided if you wish to see "
+               "it.</b> Where a question is not answered, the reason is that it goes to workplace "
+               "arrangements rather than to medical capacity — I ask only that you say so.", BODY))
+story.append(T([
+ [P("<b>Their question</b>", SMALL), P("<b>Answered at</b>", SMALL)],
+ [P("<b>1(a)</b> When was Mr Shepherd first diagnosed with MDD?", SMALL), P("<b>1.1</b>", SMALL)],
+ [P("<b>1(b)</b> What is the clinical basis for identifying these specific workplace stressors as "
+    "contributing to the exacerbation of Mr Shepherd's condition?", SMALL),
+  P("<b>2.1 · 2.2 · 2.3 · 2.4</b><br/>and <b>3.3</b>", SMALL)],
+ [P("<b>1(c)</b> Whether these workplace stressors are based solely on Mr Shepherd's self-report, "
+    "your own clinical assessment, or other medical information/reports available to you.", SMALL),
+  P("<b>Part B</b> and<br/><b>Part D(d)</b>", SMALL)],
+ [P("<b>1(d)</b> Whether exposure to these workplace stressors presents a foreseeable risk to "
+    "Mr Shepherd's health or safety if he were to return to work, and if so what specific workplace "
+    "controls or adjustments you consider medically necessary to manage that risk.", SMALL),
+  P("<b>3.8</b>", SMALL)],
+ [P("<b>2</b> Whether Mr Shepherd is able to follow a reasonable and lawful direction issued by his "
+    "supervisor; and to participate in discussions in relation to his workplace performance and/or "
+    "conduct.", SMALL), P("<b>3.7</b>", SMALL)],
+ [P("<b>3</b> Whether Mr Shepherd is medically fit to return to his substantive role under the "
+    "existing reporting arrangements, including working with and reporting to his current line "
+    "manager.", SMALL),
+  P("<b>Not asked.</b><br/>A question about workplace arrangements — please say so rather than "
+    "answer", SMALL)],
+ [P("<b>4</b> If not, specify any restrictions or adjustments you recommend, the clinical basis in "
+    "functional terms, and the anticipated duration and review date.", SMALL), P("<b>3.5</b>", SMALL)],
+ [P("<b>5</b> What specific activities are encompassed within “complaint handling” — receiving, "
+    "documenting, redirecting, resolving, or all complaint-related interactions.", SMALL),
+  P("<b>3.5(b)</b>", SMALL)],
+ [P("<b>6</b> Is Mr Shepherd able to fulfil the full inherent requirements of his role without "
+    "restrictions or modifications to duties?", SMALL), P("<b>3.6(a)–(d)</b>", SMALL)],
+ [P("<b>7</b> What does “working memory is affected under stress” mean in functional terms — how it "
+    "may affect capacity to perform the substantive duties under normal workplace demands, and the "
+    "circumstances likely to cause the difficulty.", SMALL), P("<b>3.5(c)</b>", SMALL)],
+ [P("<b>8</b> Are there specific tasks, situations or environments that may exacerbate "
+    "Mr Shepherd's condition or symptoms?", SMALL), P("<b>3.5(a)</b>", SMALL)],
+ [P("<b>9</b> If we are not able to accommodate the restrictions you have recommended, is "
+    "Mr Shepherd able to safely return to the workplace?", SMALL),
+  P("<b>Not asked.</b><br/>A question about workplace arrangements — please say so rather than "
+    "answer", SMALL)],
+], [126*mm, 40*mm]))
 
 doc = SimpleDocTemplate(OUT, pagesize=A4, leftMargin=20*mm, rightMargin=20*mm,
                         topMargin=15*mm, bottomMargin=15*mm,
