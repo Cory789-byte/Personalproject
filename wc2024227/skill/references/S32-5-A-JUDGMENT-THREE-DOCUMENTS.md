@@ -493,3 +493,53 @@ document he does not hold.** The clean baseline needed the 2022 records to be fa
 ## 12.3 ⛔ THE RULE THAT FOLLOWS
 **Never write a question to a clinician whose purpose is to contain a fact.** A contained fact
 reads as a fact someone was worried about. **Put it in, and ask the question that makes it work.**
+
+---
+
+# PART 13 — THE EMPLOYMENT HISTORY, CORRECTED (Cory, 16 Aug)
+
+| | |
+|---|---|
+| **Early 2019** | Commenced at Logan Hospital Switchboard — **casual** |
+| **17 June 2020** | Signed the **8-hour break agreement** — signed **as a casual** |
+| **Later** | Moved to **full time**; **the position changed** |
+| **Throughout** | Continuous shift work |
+| **18 June 2024** | Pleaded onset — ⭐ **more than five years after commencement** |
+
+## 13.1 ⭐⭐⭐ WHAT THE CORRECTION IS WORTH — AND IT IS THE PREMORBID-FUNCTION ANSWER
+Question 1.3(c) now reads **"since 2019 — more than five years before the onset pleaded in this
+matter."**
+⇒ **Five years of continuous shift work in this Switchboard, with whatever history the respondent
+asserts, and no psychiatric diagnosis, no psychiatric treatment and no absence on psychological
+grounds.**
+
+⭐⭐ **That is a longer and better answer than four years, and it is not a document the respondent
+controls.** ⚠ **Have a document for it before it is relied on in the appeal** — first payslip,
+letter of appointment, or a service record.
+
+## 13.2 ⛔⛔ THE CASUAL-TO-FULL-TIME POINT STAYS OUT OF THE LETTER — AND OUT OF THE ARGUMENT
+The natural argument is: **the 8-hour agreement was signed in 2020 while he was casual, and the
+employer went on applying it to his breaks after he moved to full time and the position changed.**
+
+⛔ **Do not run it.** Three reasons, and the third is decisive:
+1. **It is a contractual question, not a clinical one.** It has no place in an instruction to a
+   psychiatrist.
+2. ⚠ **It has already been run and answered.** The delegate: *"you did not formally rescind the
+   8-hour agreement signed by you on 17 June 2020 and the change to your employment contract and
+   adjustments in your working hours did not automatically invalidate the agreement."*
+3. ⭐⭐⭐ **IT IS NOT NEEDED, AND ARGUING IT COSTS THE POSITION.** The respondent's own pleading
+   describes the shift as separated *"by only a **7-hour break (rather than an 8-hour break)** …
+   a result of human error."*
+   ⇒ **On the respondent's own case the break was short. 7 < 8 regardless.** Attacking the
+   agreement's validity re-opens a question the respondent has already conceded the answer to —
+   **and invites it to argue the break was compliant after all.**
+
+⭐ **Take the concession. Leave the agreement alone.**
+
+## 13.3 ⭐ THE ONE THING THE HISTORY DOES DO, KEPT IN RESERVE
+An agreement signed by a **casual in 2020**, still governing the recovery interval of a **full-time
+continuous-shift worker in 2024**, after the position had changed and with **no fatigue risk
+assessment ever applied to the role** (CE letter Items 4 and 7), is a further instance of the
+Part 1 insight: **there was no management of the roster arrangement to be reasonable about.**
+⛔ **Not pleaded, not put to the clinician, and not raised in correspondence.** It is a closing
+observation on an agreed factual base, if it is used at all.

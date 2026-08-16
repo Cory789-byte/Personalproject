@@ -259,12 +259,12 @@ story.append(P("<b>(b) Anxiety in the records.</b> The respondent asserts <b>a p
                "anxiety, please state <b>who recorded it, on what date, and whether it was recorded "
                "as a symptom or made as a diagnosis</b>; and <b>whether any anxiety disorder was "
                "ever diagnosed</b> before 2024.", QQ))
-story.append(P("<b>(c) My function in the role before 2024.</b> I had been employed in this "
-               "position, working continuous shift work, <b>since at least June 2020</b>. Please "
-               "state whether, before 2024, the material shows <b>any psychiatric diagnosis, any "
-               "psychiatric treatment, or any absence from work on psychological grounds</b> — and "
-               "what that indicates about my level of function in this role in the years before the "
-               "matters at Attachments 1 to 3.", QQ))
+story.append(P("<b>(c) My function in the role before 2024.</b> I had worked at the Logan Hospital "
+               "Switchboard, on continuous shift work, <b>since 2019</b> — <b>more than five years "
+               "before the onset pleaded in this matter</b>. Please state whether, before 2024, the "
+               "material shows <b>any psychiatric diagnosis, any psychiatric treatment, or any "
+               "absence from work on psychological grounds</b> — and what that indicates about my "
+               "level of function in this role over that period.", QQ))
 story.append(P("<b>(d) The entry of 16 November 2023.</b> The records include an entry of that date "
                "recording <i>“No psychological illness such as depression/ psychosis.”</i> The "
                "respondent admits the entry is listed but <b>does not admit its accuracy</b>. On the "
