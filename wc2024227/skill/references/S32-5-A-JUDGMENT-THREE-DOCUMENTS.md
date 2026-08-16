@@ -1768,3 +1768,62 @@ Checklist item **1b**: watch for ***"aggravating"*** applied to the appeal or th
 process, and for **sleep attributed to the litigation**. Both are correctable on the draft under
 the facts-only rule — ⚠ **the first is a factual/terminological point, so it can be raised; the
 second is closer to opinion, so it can only be raised if it misstates the record.**
+
+---
+
+# ⛔⛔ PART 31 — I HAD *DELANEY* BACKWARDS (Cory, 16 August)
+
+> *"how does Delaney beat no fatigue management for a safety critical role and a role with the
+> description of switchboard"*
+
+⭐⭐⭐ **It does not, and it was never the risk. I listed it as one in the prediction and that was
+wrong.** The repo's settled position, developed 17 July 2026, is the opposite.
+
+## 31.1 WHOSE DOCTRINE IT IS
+***Delaney v Q-COMP* [2005] QIC 11; 178 QGIG 197** is cited **in the appellant's own Form 4**, for
+the proposition that ***"the composite course of conduct, not isolated shifts, is the unit of
+assessment."***
+⇒ **Global evaluation is HIS.** It is the answer to the Regulator's **atomisation** defence.
+
+## 31.2 ⭐⭐⭐ THE CHAIN, IN ORDER
+| | |
+|---|---|
+| **1. The Regulator's defence is atomisation** | SOFC ¶22(a): *"human error and **not intentional or repeated**."* ⭐ *"Not repeated"* is an otherwise unnecessary sentence — **the isolation clamp.** A single error is absorbable; a pattern is fatal |
+| **2. *Delaney* breaks the clamp** | the unit of assessment is the **composite course**, not the shift. The break cannot be isolated into one absorbable blemish |
+| **3. The course is not an event — it is a STATE** | the Chief Executive certifies **no fatigue assessment, no register, nothing implemented until after 30 June 2024, no consequential changes.** ⭐⭐⭐ **A state persists across the whole period by definition. It cannot be atomised** |
+| **4. The role description makes the state unreasonable rather than merely absent** | continuous 24/7 shift work · emergency response *"strictly adhering to protocols and timeframes"* · *"high volume call traffic"* · *"limited supervision"* · judgement *"where precedence have not been set and procedures not defined"* |
+| **5. And the Regulator has admitted the stakes** | ¶8 — accuracy *"critical to clinical handover and patient safety"* |
+
+⇒ ⭐⭐⭐ **The work is safety-critical on the Regulator's admission; the fatigue system was absent on
+the Chief Executive's certificate; and s 32(5)(a) protects *action*, of which there is none on that
+strand to protect.** *Delaney* is what stops that being isolated away.
+
+## 31.3 ⚠ WHERE THE REAL RISK IS — AND IT IS NOT THE DOCTRINE, IT IS THE **CONVERSION**
+> Working note, from the SOFC read: ***"reasonable in all respects" ×6 flat refrain = converting
+> his Mahaffey case into a Delaney case (13 mini-trials invite global weighing; one tall keystone
+> defeats it).***
+
+⇒ **The danger is FLATTENING.** If the course is drawn so wide that it becomes a referendum on the
+managers' overall reasonableness — the communications book, the delegate vote, the yelling, the
+"burn book", thirteen items — then a global assessment can find that most of it was ordinary.
+
+⭐⭐⭐ **So the one-mechanism discipline is not a retreat from the course. It is the refusal of the
+conversion.** The composite is **the standing fatigue and recovery condition**; everything else is
+context. **Thirteen mini-trials invite global weighing. One tall keystone defeats it.**
+
+## 31.4 ⭐ AND THE ANSWER TO THE EMPLOYER'S BEST REPLY
+They may say the exclusion of Switchboard from the FRMS was itself a **considered management
+decision** — risk-based application, clinical staff only — and therefore *is* action capable of
+being reasonable.
+⇒ **Then they must defend it**, and defending it means explaining why a role their own document
+describes as continuous, safety-critical, high-volume and emergency-response-bearing was excluded
+from fatigue management because the staff are *"non-clinical."*
+⭐⭐ **And even if that decision were reasonable, it does not make the break reasonable.** Seven
+hours breached the minimum on either figure. **The absence of the system explains why it happened.
+It does not make it reasonable.**
+
+## 31.5 WHAT WAS CORRECTED
+`PREDICTION_appeal_and_workplace.pdf` — the *Delaney*-as-risk line is replaced with the correction
+and with **FLATTENING** named as the actual risk; the s 32(5)(a) node's "against" column now reads
+the flattening attempt and the ¶22(a) blemish concession; and the lever is restated as *"run one
+mechanism — refuse the flattening"*, expressly **not** a retreat from the course.

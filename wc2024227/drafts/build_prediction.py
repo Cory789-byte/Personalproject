@@ -87,8 +87,8 @@ d.append(T([
  [P("<b>s 32(5)(a) does not defeat it</b>", SM), P("<b>62%</b>", SM),
   P("⭐⭐⭐ <b>THE CONTEST.</b> Absence of management is not management action — no fatigue "
     "assessment, no register, nothing implemented until after 30 June 2024, no consequential "
-    "changes. ⚠ Against: <i>Delaney</i> global evaluation, <i>“an isolated error, blemishes do not "
-    "remove the exclusion”</i>, and Taylor and Reese have not given oral evidence", SM)],
+    "changes. ⚠ Against: the <b>flattening</b> attempt (<i>“reasonable in all respects”</i> ×6), "
+    "the blemish concession at ¶22(a), and Taylor and Reese have not given oral evidence", SM)],
  [P("Regulator settles once causation is proved", SM), P("<b>45%</b>", SM),
   P("Calderbank #2 rejected 16 July · but a causation opinion in MSH's own hands changes MSH's "
     "interest in resolution, and MSH is not the Regulator", SM)],
@@ -193,9 +193,9 @@ d.append(T([
  [P("⭐ <b>The April 2025 call statistics</b>", SM),
   P("Answers <i>“he kept working for fourteen months”</i> — the one question the capability "
     "checklist does not reach", SM)],
- [P("⭐ <b>Run one mechanism, not a course of conduct</b>", SM),
-  P("The <i>Delaney</i> discipline. It is a drafting decision in the outline of argument, and it is "
-    "worth more than any further evidence", SM)],
+ [P("⭐ <b>Run one mechanism — refuse the flattening</b>", SM),
+  P("Not a retreat from the course: the composite is the <b>standing fatigue condition</b>, with "
+    "the rest as context. A drafting decision in the outline, worth more than further evidence", SM)],
 ], [62*mm, 104*mm]))
 
 d.append(P("6 · ⚠ WHAT THIS MODEL DOES NOT KNOW", H2))
