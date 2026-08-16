@@ -1244,3 +1244,68 @@ than as gaps discovered afterwards.** That is the difference between a report wi
 report with boundaries.
 
 **Letter now 7pp** — six of instruction, one of appendix.
+
+---
+
+# ⭐⭐⭐ PART 24 — THE MOVEMENT FORMS WERE IN THE REPO ALL ALONG (16 August)
+
+They were carried as *"still missing"* on the checklist since 15 August. **They are in
+`documents/`, all three, and read from source they are stronger than the checklist assumed.**
+Stitched with an index page as **Attachment 5** — `ATTACHMENT_5_Movement_Forms_2026.pdf`, 13pp.
+
+## 24.1 WHAT THEY RECORD
+| Delegate approval | Effective | Hours/fortnight | Shift arrangements |
+|---|---|---|---|
+| **27.02.2026** | 01.03 – 15.03.2026 | **56.00** | **Continuous Shift Worker** |
+| **17.04.2026** | 16.03 – 26.04.2026 | **56.00** | **Continuous Shift Worker** |
+| **09.06.2026** | 25.05 – 28.06.2026 | **40.00** | **Continuous Shift Worker** |
+
+Full-time fortnight: **76 hours.** Position on every form: **AO Switchboard, AO3, Level 04.**
+Task on every form: *"Change to Working Conditions (Temporary)."*
+Chain on every form: **certified by Chloe Donovan-Taylor · agreed by the appellant · approved by
+the delegate.**
+
+## 24.2 ⭐⭐⭐ THE FIRST THING, AND IT IS THE ANSWER TO QUESTION 3.6
+**Every form — including the 40-hour one — records the shift arrangement as *"Continuous Shift
+Worker."***
+⇒ The role description makes continuous shift work a **mandatory requirement**. The employer
+reduced the hours **and kept the requirement**, three times, and he worked it.
+⭐⭐⭐ **An adjustment to hours did not remove him from the mandatory requirement of the role —
+because the employer's own forms say it did not.** That is question 6 of the request answered by
+the employer's own conduct, in writing, before it was asked.
+
+## 24.3 ⭐⭐⭐ THE SECOND THING — AND IT IS THE EMPLOYMENT TRACK, NOT THE MEDICAL ONE
+**The delegate who approved all three is SCOTT HUGHES** — 27.02.2026, 17.04.2026, 09.06.2026.
+**Scott Hughes signed the Request for Medical Information of 31 July 2026**, question 6:
+> *"In your medical opinion is Mr Shepherd able to fulfil the full inherent requirements of his
+> Role… **without restrictions or modifications to duties**?"*
+
+⇒ ⭐⭐⭐ **He approved modifications to duties three times, as delegate, in the five months before
+asking a doctor whether modifications were possible.**
+
+⛔⛔ **THAT POINT IS NOT PUT TO THE CLINICIAN.** It is not a medical question, it is adversarial,
+and putting it in a medical instruction would contaminate the report. **It belongs in the covering
+note to the employer and in the employment track.** ⚠ Likewise the fact that **Ms Donovan-Taylor
+certified each form** — her name is on the documents and that is unavoidable and neutral; ⛔ **no
+connection to the admitted errors or to anything else is drawn anywhere near the doctor.**
+
+## 24.4 ⚠ THE TREND CUTS BOTH WAYS — AND IT IS NOW ASKED, NOT ARGUED
+**76 → 56 → 56 → 40.** An opposing reader calls that **declining capacity**, and uses it for
+inherent requirements or medical separation.
+⭐ **New question 3.6(e) puts it to him directly:** does a reduction of that kind indicate
+**deterioration in the condition, or the successful management of a stable one?**
+⇒ **Only a psychiatrist can answer it, the capability checklist already says the reduced pattern
+was *"worked and tolerated… without deterioration"*, and an answer in the report is worth far more
+than a submission afterwards.** ⛔ Do not assert the answer; ask the question.
+
+## 24.5 ⚠ AND ONE ADJACENCY TO NOTE, NOT TO USE
+The last approved period ends **28 June 2026**. He was excluded from the workplace from **3 July
+2026** — five days later.
+⛔ **Not put to the clinician, and not run as an inference anywhere yet.** It is recorded here
+because it will matter to the employment track and it should not be discovered late.
+
+## 24.6 WHAT CHANGED IN THE PACK
+Attachment 5 added · Part A now lists five documents, four of them the other parties' · the Part B
+basis table gains item 5 · **3.6(e)** is new · the schedule gains **section F** · the covering
+email's attachment list updated · the Notice of Non-Party Disclosure renumbered to 06.
+**Letter 7pp · schedule 3pp · pack 12 files.**

@@ -173,7 +173,7 @@ ISSUE = ParagraphStyle('ISSUE', parent=ss['Heading2'], fontName='Helvetica-Bold'
 SUB = ParagraphStyle('SUB', parent=ss['BodyText'], fontName='Helvetica-Bold',
                      fontSize=9.7, leading=13.5, spaceBefore=9, spaceAfter=3)
 BODY = ParagraphStyle('BODY', parent=ss['BodyText'], fontName='Helvetica',
-                      fontSize=9.7, leading=13.2, spaceAfter=5.5)
+                      fontSize=9.6, leading=12.9, spaceAfter=5)
 Q = ParagraphStyle('Q', parent=BODY, spaceBefore=6, spaceAfter=3, leftIndent=6)
 QQ = ParagraphStyle('QQ', parent=BODY, spaceBefore=3, spaceAfter=3, leftIndent=16)
 QQQ = ParagraphStyle('QQQ', parent=BODY, spaceBefore=2, spaceAfter=2, leftIndent=26)
@@ -254,14 +254,16 @@ story.append(T([
    SMALL), P("Attachment 3", SMALL)],
  [P("<b>4</b>", SMALL), P("The <b>clinical records, in full</b> — your own file, my general-practice "
    "records and the certificates", SMALL), P("Attachment 4", SMALL)],
+ [P("<b>5</b>", SMALL), P("The <b>changes to my working hours approved during 2026</b>", SMALL),
+   P("Attachment 5", SMALL)],
  [P("", SMALL), P("<b>And take into account</b>", SMALL), P("<b>Asked at</b>", SMALL)],
- [P("<b>5</b>", SMALL), P("The <b>relationship breakdown</b> and the other life stressors recorded "
+ [P("<b>6</b>", SMALL), P("The <b>relationship breakdown</b> and the other life stressors recorded "
    "in your own file", SMALL), P("question 3.1", SMALL)],
- [P("<b>6</b>", SMALL), P("The <b>past medical history</b> recorded in the general-practice records",
+ [P("<b>7</b>", SMALL), P("The <b>past medical history</b> recorded in the general-practice records",
    SMALL), P("question 1.3", SMALL)],
-], [8*mm, 128*mm, 30*mm], repeat=0, shade=(5,)))
-story.append(P("<b>Items 1 to 3 were written by the other parties to my matter</b>, and I ask you to "
-               "assume the facts they record. <b>My own account of the workplace is provided as "
+], [8*mm, 128*mm, 30*mm], repeat=0, shade=(6,)))
+story.append(P("<b>Items 1 to 3 and 5 were written by the other parties to my matter</b>, and I ask "
+               "you to assume the facts they record. <b>My own account of the workplace is provided as "
                "clinical context only, and is not the basis on which I ask you to reason.</b> Where "
                "your history from me differs from any fact in Attachments 1 to 3, please say so "
                "expressly rather than resolve the difference.", BODY))
@@ -539,7 +541,13 @@ story.append(P("<b>(c)</b> whether adjustments of that kind — predictability o
                "load, and hours of work — are <b>of a kind ordinarily provided by large employers, "
                "and in particular by health services operating 24-hour services</b>; and", QQ))
 story.append(P("<b>(d)</b> whether the adjustments are <b>permanent, or temporary with a review "
-               "date</b>.", QQ))
+               "date</b>; and", QQ))
+story.append(P("<b>(e)</b> <b>Attachment 5</b> records changes to my working hours approved by my "
+               "employer during 2026 — <b>56 hours per fortnight from 1 March, and 40 hours per "
+               "fortnight from 25 May</b>, against a full-time fortnight of 76 hours, with the "
+               "shift arrangement recorded on each form as <b>“Continuous Shift Worker”</b>. In "
+               "your opinion, does a reduction of that kind indicate <b>deterioration in the "
+               "condition, or the successful management of a stable one</b>?", QQ))
 story.append(P("I note that the employee capability checklist of <b>3 July 2026</b> at Attachment 4 "
                "records: <i>“This reduced pattern of approximately <b>six shifts per fortnight</b> is "
                "the pattern Mr Shepherd <b>has in fact worked and tolerated over the past twelve "

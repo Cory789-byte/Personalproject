@@ -59,7 +59,8 @@ e.append(Spacer(1, 5*mm))
 e.append(P("<b>Attached:</b> letter of instruction · schedule of assumed facts · Attachment 1 "
            "(Response of the Workers' Compensation Regulator, 18 February 2026) · Attachment 2 (letter of the Chief Executive, Metro South Health, "
            "5 June 2026) · Attachment 3 (role description, Administration Officer, Switchboard "
-           "Services) · Attachment 4 (clinical records) · Notice of Non-Party Disclosure, sealed "
+           "Services) · Attachment 4 (clinical records) · Attachment 5 (approved changes to working "
+           "hours, 2026) · Notice of Non-Party Disclosure, sealed "
            "4 July 2025.", SMALL))
 
 doc = SimpleDocTemplate("out/COVERING_EMAIL_to_practice.pdf", pagesize=A4,
@@ -122,11 +123,13 @@ c.append(P("<b>6. ⛔ Say nothing about which exhibit holds what, or about the s
            "contain. <b>Do not add it back in correspondence.</b> It is their assertion to prove.", ITEM))
 
 c.append(P("STILL MISSING FROM THE PACK — AND WHY IT MATTERS", SEC))
-c.append(P("<b>7. ⭐⭐ The three movement forms</b> — reduced hours approved by the Director on "
-           "27.02.2026, 17.04.2026 and 09.06.2026. <b>Without them, question 3.6 (inherent "
-           "requirements) cannot be answered safely</b>, because the role description makes 24/7 shift "
-           "work mandatory. They are the employer's own documents and they prove the adjustment was "
-           "granted three times and operated.", ITEM))
+c.append(P("<b>7. ✅ The three movement forms are IN the pack</b> — Attachment 5, stitched with an "
+           "index page: 27.02.2026 · 17.04.2026 · 09.06.2026, delegate-approved, 56/56/40 hours "
+           "against a 76-hour fortnight, <b>each recording “Continuous Shift Worker”</b>. ⭐⭐⭐ <b>The "
+           "delegate on all three is Scott Hughes — who signed the request of 31 July 2026 asking "
+           "whether Mr Shepherd can fulfil the inherent requirements “without restrictions or "
+           "modifications to duties”.</b> ⛔ That point is NOT put to the clinician. It belongs in "
+           "the covering note to the employer and in the employment track.", ITEM))
 c.append(P("<b>8. ⭐ The April 2025 individual monthly statistics</b> — 269 to 444 calls per shift at "
            "about 29% of full time. Without them the clinician cannot address why reduced hours did "
            "not reduce intensity, and <i>“he kept working for fourteen months”</i> goes unanswered.", ITEM))
