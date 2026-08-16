@@ -681,3 +681,73 @@ party's case.** ⇒ **The clinician is reasoning from records, which is what a c
 *admit*, *admitted*, *denied*, *respondent*, *appellant*, *contentions* or *particulars*.** Name
 the document, name the author, give the date, quote the words. ⭐ **Verified against the rendered
 text of the letter, the schedule and the covering email — all three are clean.**
+
+---
+
+# ⭐⭐⭐ PART 16 — THE MAY 2024 REFERRAL (Cory, 16 Aug: "the referral even came in May — what does he make of that — include")
+
+## 16.1 WHERE IT SITS
+| | |
+|---|---|
+| **16 Nov 2023** | Nanayakkara: *"Poor sleep. **Shift work.** … **No psycological illness such as depression/ psycosis. mood good.**"* |
+| 20–27 Feb 2024 | leave declined — *"in fact, the attachments were present"* · *"human error"* |
+| **17–18 Mar 2024** | **7-hour break** · MET calls recorded · leave taken 19 March |
+| **3 May 2024** | payroll instructs the line manager to correct the shifts |
+| ⭐⭐⭐ **16 May 2024** | **Zhao: *"renew referral to psychiatrist"*** → Amini, *"for ongoing care and management"* |
+| 21 May 2024 | *"I am waiting payroll confirmation…"* |
+| 28 May 2024 | the correction is finally submitted |
+| **18 Jun 2024** | date of onset in this matter |
+| 28 Jun 2024 | Slawinski — *"stress at work"* · reason for visit **"Anxiety"** |
+| 1 Jul 2024 | Hawes — *"been there 5 years"* · *"manipulate his roster- so he works lates then earlies"* |
+
+⭐⭐⭐ **THE REFERRAL IS RENEWED IN THE MIDDLE OF THE UNRESOLVED PAY CORRECTION — thirteen days
+after the payroll instruction and five days before *"I am waiting payroll confirmation."***
+
+## 16.2 ⚠ WHY IT LOOKED LIKE A RISK, AND WHY IT IS NOT
+**The risk read:** psychiatric engagement **before** the date of onset ⇒ *"he was already unwell"* ⇒
+pre-existing condition; and *"renew"* implies an earlier referral that is not in the production.
+
+⭐⭐⭐ **THE ANSWER IS ON THE SAME PAGE AS THE PROBLEM.** The medication list in that very letter,
+as at 16 May 2024:
+> **Azithromycin 500mg · Melatonin 5mg MR · Viagra 100mg.**
+> **No antidepressant. No anxiolytic. No stimulant. No psychotropic medication of any kind.**
+
+⇒ **A man under "ongoing" psychiatric care who is on nothing did not have a treated depressive
+illness in May 2024.** ⭐ **MDD was diagnosed on 13 February 2025, by Dr Krishnaiah.** The referral
+is evidence **against** a pre-existing mood disorder, not for one.
+
+## 16.3 ⭐⭐⭐ AND WHAT IT IS *FOR* — THE INTERVAL QUESTION
+**16 November 2023: *"No psycological illness such as depression/ psycosis. mood good."*
+16 May 2024: psychiatric referral renewed.**
+
+⇒ ⭐⭐⭐ **Six months. What is in them?** The February leave decline, the March 7-hour break with MET
+calls and next-day leave, and the May payroll failure. **Nothing else.**
+
+⇒ **1.3(d)(iii) asks him precisely that and nothing more:** *"what significance you attach to a
+renewal of psychiatric referral in May 2024 when the general-practice record of 16 November 2023
+records 'No psycological illness … mood good' — and **what, if anything, the material shows
+occurred between those two dates.**"*
+
+⭐⭐⭐ **He holds Attachments 1 to 3. He finds the answer himself. It is not asserted to him, it is
+not argued to him, and it is therefore not attackable as having been fed to him.**
+
+## 16.4 WHAT 1.3(d) ASKS, AND WHY EACH LIMB
+| | |
+|---|---|
+| **(i)** when psychiatric care began, and for what | ⚠ *"Renew"* implies an earlier referral. **Get it dealt with rather than discovered.** Likely ADHD management — neurodevelopmental, not a mood disorder |
+| **(ii)** what the **absence of any antidepressant, anxiolytic or stimulant** in that letter shows | ⭐⭐⭐ **The document that raises the problem contains the refutation** |
+| **(iii)** the **Nov 2023 → May 2024 interval** | ⭐⭐⭐ **The whole case, asked as an open question** |
+
+⭐ And **3.2 now cross-refers to it**, so the interval answer feeds the onset-and-mechanism answer.
+
+## 16.5 ⛔ THE DISCIPLINE
+1. ⛔ **Do not ask him to move the date of onset.** 1.1 already asks for onset *"as best the
+   clinical record establishes it"* — whatever he finds, the letter has already accepted it. ⭐ And
+   an earlier deterioration **helps** causation: it sits nearer the March break, not further from
+   it. **The date is not the battleground. The cause is.**
+2. ⛔ **No limitation problem exists either way.** The claim was registered **1 July 2024**; a
+   deterioration dated to March–May 2024 is comfortably inside the window.
+3. ⭐ **The reason to include it is not that it helps — it is that it is there.** The Regulator
+   holds these records. *"Renew referral to psychiatrist, 16 May 2024"* is findable in five
+   minutes. **A report that has not dealt with it is impeached at the point the other side is
+   aiming; a report that has dealt with it has converted their best interval into ours.**

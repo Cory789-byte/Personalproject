@@ -32,6 +32,11 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    forward, by a named GP. And the same letter records the current medications: melatonin, viagra,
    an antibiotic — NO psychotropic medication one month before the pleaded onset.
    1.3 is rebuilt to put all of it to him by author and date.
+   ⭐⭐⭐ AND 1.3(d) NOW PUTS THE MAY REFERRAL TO HIM DIRECTLY (Cory, 16 Aug: "the referral even came
+   in May — what does he make of that — include"). Renewed 16 May 2024, one month before onset,
+   in the middle of the unresolved pay correction — and set against the entry of 16 November 2023,
+   "No psycological illness … mood good". The question asks what the material shows occurred
+   between those two dates. He holds Attachments 1 to 3, so he finds the answer himself.
    ⛔ THE LETTER STILL SAYS NOTHING ABOUT WHICH EXHIBIT HOLDS WHAT OR ABOUT THE SPAN OF THE
    PRODUCTION (Cory's instruction, 16 Aug).
 
@@ -282,14 +287,28 @@ story.append(P("<b>(c) Anxiety recorded in the material.</b> Please identify <b>
                "<b>28 June 2024</b> recorded by Dr Bogdan Slawinski, at which the presentation is "
                "recorded as <i>“wants melatonin, to help to sleep … stress at work … upset by "
                "people not following rules”</i> and the reason for visit as <i>“Anxiety”</i>.", QQ))
-story.append(P("<b>(d) My function in the role.</b> Dr Peter Hawes recorded on 1 July 2024 that I "
+story.append(P("<b>(d) The renewal of psychiatric referral on 16 May 2024.</b> The consultation "
+               "note of that date records <i>“renew referral to psychiatrist”</i>, and the letter "
+               "at (a) is that referral — <i>“Thank you for seeing Mr Cory Lea Shepherd for "
+               "<b>ongoing care and management</b>”</i>. It is dated <b>one month before the date "
+               "of onset in this matter</b>. Please state:", QQ))
+story.append(P("<b>(i)</b> what the material shows about <b>when psychiatric care began, and for "
+               "what</b>;", QQQ))
+story.append(P("<b>(ii)</b> whether the <b>absence of any antidepressant, anxiolytic or stimulant</b> "
+               "from the medication list in that same letter indicates that a depressive illness "
+               "was, or was not, being treated as at 16 May 2024; and", QQQ))
+story.append(P("<b>(iii)</b> what significance you attach to a renewal of psychiatric referral in "
+               "May 2024 when the general-practice record of <b>16 November 2023</b> records "
+               "<i>“No psycological illness such as depression/ psycosis. mood good.”</i> — and "
+               "<b>what, if anything, the material shows occurred between those two dates</b>.", QQQ))
+story.append(P("<b>(e) My function in the role.</b> Dr Peter Hawes recorded on 1 July 2024 that I "
                "had <i>“been there 5 years”</i>. Over that period I worked continuous shift work in "
                "this position. Please state what the material shows as to <b>any psychiatric "
                "treatment, or any absence from work on psychological grounds</b>, in the years "
                "before 2024 — and <b>what that indicates about my level of function in this "
                "role</b> over that period. Please also say whether anything in the records bears on "
                "the date of onset.", QQ))
-story.append(P("<b>(e)</b> If there was a pre-existing condition or vulnerability, whether the "
+story.append(P("<b>(f)</b> If there was a pre-existing condition or vulnerability, whether the "
                "matters at Attachments 1 to 3 <b>aggravated</b> it, and to what extent.", QQ))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
                "so how — from your own current clinical assessment. I do not ask you to adopt or "
@@ -376,7 +395,8 @@ story.append(P("<b>3.2 The interval, and the mechanism.</b> The rostering and ad
                "formulation — and if consistent, <b>by what mechanism</b>? Separately, what "
                "significance, if any, attaches to the interval between onset and first presentation, "
                "the first workers' compensation medical certificate in the List of Documents being "
-               "dated 1 July 2024?", Q))
+               "dated 1 July 2024? Please take into account your answer at <b>1.3(d)</b> as to the "
+               "renewal of psychiatric referral on 16 May 2024.", Q))
 
 story.append(P("<b>3.3 Causation — your conclusion.</b> On the assumed facts, and having regard to "
                "your answers at 3.1 and 3.2, whether my employment was <b>a significant contributing "
