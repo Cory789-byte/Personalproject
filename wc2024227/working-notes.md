@@ -5917,3 +5917,17 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
 - The covering email PDF is **Cory's own print** (Microsoft: Print To PDF, Author: Cory Shepherd).
 - ⛔ **Nothing in the Matheson letter changes, and this comparison must NOT go in it** — it is
   analysis, not enquiry, and it would convert a question into an argument.
+
+## 15 Aug 2026 — ART/ZAPPIA REPLY: SENT (Cory)
+- ⭐ **The reply to the ART / Zappia letter of 4 August has been sent.** The standing item recorded
+  since 12 August — *"his slowest item, and the one that produces income"* — is **CLOSED**.
+- ⛔ **Remove it from every action list.** It appears as an outstanding item in
+  `BIDIRECTIONAL-TIMING-ANALYSIS.md` Part 8 and in the strategic assessments of 14–15 Aug; those
+  entries are superseded on this point.
+- ⭐⭐ **What it changes for the funding question:** if the income-protection claim is restored or
+  reworked, the report becomes self-fundable, and the "funded" branch of the 15 Aug Monte Carlo
+  (appeal ≈62%, neither ≈20%) is reachable **without MSH's cooperation**. ⇒ **The ask to MSH stays
+  worth making — it costs nothing and the model shows no branch where it is wrong — but it ceases
+  to be the only route to the report.**
+- ⚠ **Watch:** the Zappia letter raised **overpayment and employer disclosures**. Any ART response
+  on overpayment needs assessing on arrival; do not assume it is neutral.
