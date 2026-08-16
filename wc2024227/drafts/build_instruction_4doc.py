@@ -66,7 +66,7 @@ rows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Author</b>",
   P("The <b>employer</b>", SMALL), P("<b>Assumed fact</b>", SMALL)],
  [P("<b>4</b>", SMALL),
   P("<b>The clinical record</b> — your file for me from 24 October 2024; my general-practice "
-    "records (Our Medical Ashmore), including the entries of 26 October 2022 and 16 November 2023; "
+    "records (Our Medical Ashmore, produced for 1 January 2023 to 1 July 2024); "
     "the Work Capacity Certificate of Dr Hawes; my certificate of capacity of 3 July 2026.", SMALL),
   P("<b>Clinicians</b>", SMALL), P("<b>Clinical record</b>", SMALL)]]
 t = Table(rows, colWidths=[11*mm, 92*mm, 33*mm, 30*mm], repeatRows=1)
@@ -119,6 +119,28 @@ dt.setStyle(TableStyle([
 story.append(dt)
 story.append(P("A copy of the Notice of Non-Party Disclosure served on your practice accompanies "
                "this letter.", SMALL))
+story.append(P("⚠ <b>Please note the span of the general-practice records provided.</b> They were "
+               "produced for the period <b>1 January 2023 to 1 July 2024</b>. They therefore do not "
+               "cover any period before 2023, and they stop at the date of first attendance for "
+               "this injury. <b>An absence of an entry in them is not evidence that no attendance "
+               "occurred.</b> If earlier or later records would assist you, please say so and I will "
+               "obtain them.", BODY))
+
+story.append(P("PART B2 — WHAT IS ALREADY RECORDED, AND WHAT I AM NOT ASKING YOU TO ESTABLISH", PART))
+story.append(P("Attachments 1 to 3 already record the nature of the work, what occurred, and what "
+               "the employer says was and was not in place. <b>You are not asked to find any of "
+               "that, and you are not asked to take any of it from me.</b>", BODY))
+story.append(P("<b>Already recorded, by the Respondent or by my employer:</b> the requirements of "
+               "the position · that the accuracy of Switchboard information is critical to clinical "
+               "handover and patient safety · the applicable minimum break between shifts · the "
+               "break in fact rostered on 17 to 18 March 2024 and its description as an error · that "
+               "emergency (MET) calls were recorded on those shifts · that leave was taken on "
+               "19 March 2024 · that no fatigue risk assessment applied to the position and that "
+               "fatigue risk management was implemented only after 30 June 2024 · that no "
+               "consequential changes to operating procedures followed · and the general-practice "
+               "entry of 16 November 2023.", BODY))
+story.append(P("⭐ <b>What remains, and what I do ask you, is the clinical question: whether "
+               "exposure of that kind bears on the condition you have diagnosed.</b>", BODY))
 
 # PART C — THE THREE MATTERS
 story.append(P("PART C — THE MATTERS IN ISSUE", PART))
@@ -140,10 +162,12 @@ story.append(P("<b>1.1</b> The diagnosis; the classificatory framework applied a
                "best the clinical record establishes it.", Q))
 story.append(P("<b>1.2</b> The differential diagnoses considered, and your reasons for including or "
                "excluding each.", Q))
-story.append(P("<b>1.3</b> My psychiatric background — the entries of 26 October 2022 referring to "
-               "anxiety and ADHD, any earlier stimulant use, and the entry of 16 November 2023. "
+story.append(P("<b>1.3</b> My psychiatric background, so far as the records provided and your own "
+               "assessment allow — including the general-practice entry of <b>16 November 2023</b>. "
                "Whether there was any relevant pre-existing condition; and if so, whether the matters "
-               "at Attachments 1 to 3 aggravated it, and to what extent.", Q))
+               "at Attachments 1 to 3 aggravated it, and to what extent. If records outside the "
+               "period 1 January 2023 to 1 July 2024 would assist you on this question, please say "
+               "so.", Q))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
                "so how — from your own current clinical assessment. I do not ask you to adopt or "
                "repeat any earlier characterisation.", Q))
@@ -151,7 +175,7 @@ story.append(P("<b>1.5</b> A complete list of every document you reviewed and ev
                "with the dates and duration of each examination.", Q))
 
 story.append(P("MATTER 2 — DID THE INJURY ARISE OUT OF, OR IN THE COURSE OF, THE EMPLOYMENT?", ISSUE))
-story.append(P("<b>2.1 The conditions of the work.</b> Attachment 3 records that the position "
+story.append(P("<b>2.1 The conditions of the work, and fatigue.</b> Attachment 3 records that the position "
                "requires continuous shift work across the full 24-hour period, seven days a week; "
                "participation in the Emergency Response process, distributing emergency notifications "
                "in accordance with code procedures and strictly adhering to protocols and timeframes; "
@@ -163,13 +187,7 @@ story.append(P("<b>2.1 The conditions of the work.</b> Attachment 3 records that
                "<b>From a clinical perspective, whether and how conditions of that kind — the level "
                "of demand, the degree of control, and the adequacy of support — can contribute to a "
                "condition of the kind you have diagnosed.</b>", Q))
-story.append(P("<b>2.2 Fatigue and its management.</b> Attachment 2 records that no fatigue risk "
-               "assessment applied to the position; that fatigue risk management was implemented at "
-               "the Switchboard only after 30 June 2024; that complaints were managed solely by email "
-               "or verbally; and that no consequential changes to operating procedures were made over "
-               "the period. Whether, and if so how, sustained unmanaged fatigue in work of that kind "
-               "bears on the condition you have diagnosed.", Q))
-story.append(P("<b>2.3 The rostering of 17 to 18 March 2024.</b> Attachment 1 records a rostered "
+story.append(P("<b>2.2 The rostering of 17 to 18 March 2024.</b> Attachment 1 records a rostered "
                "break of 7 hours against a 10-hour minimum, described as a rostering error "
                "accidentally made. Attachment 2 records that emergency (MET) calls were recorded on "
                "those shifts, and that leave was taken on 19 March 2024. What clinical significance, "
@@ -218,21 +236,18 @@ story.append(P("<b>3.5 The adjustments, in functional terms.</b> The adjustments
                "clinically necessary, the clinical basis for each, and the anticipated duration and "
                "review date — addressing, among anything else you consider relevant: predictability "
                "of rostering; adequate recovery between shifts; sustained concurrent emergency-code "
-               "load; hours of work; and reporting arrangements.", Q))
+               "load; hours of work; and reporting arrangements.<br/>"
+               "Please also address, in functional terms: (a) any tasks, situations or environments "
+               "likely to exacerbate the condition; (b) if you consider a restriction on complaint "
+               "handling clinically necessary, what activities it encompasses — receiving, "
+               "documenting, redirecting or resolving complaints, or all complaint-related "
+               "interaction; and (c) your report of 13 February 2025 records that my working memory "
+               "is affected under stress — what that means for performance of the duties at "
+               "Attachment 3, and the circumstances likely to give rise to it.", Q))
 story.append(P("<b>3.6 Inherent requirements.</b> Whether, <b>with the adjustments at 3.5</b>, I am "
                "able to fulfil the requirements of the position described at Attachment 3; and "
                "whether those adjustments are ordinary and available in a workplace of that kind.", Q))
-story.append(P("<b>3.7 Exacerbating conditions.</b> Whether there are specific tasks, situations or "
-               "environments that may exacerbate the condition or its symptoms.", Q))
-story.append(P("<b>3.8 Complaint handling.</b> If you consider a restriction on complaint handling "
-               "clinically necessary, what activities it encompasses in functional terms — receiving, "
-               "documenting, redirecting or resolving complaints, or all complaint-related "
-               "interaction.", Q))
-story.append(P("<b>3.9 Working memory.</b> Your report of 13 February 2025 records that my working "
-               "memory is affected under stress. What that means in functional terms in a workplace, "
-               "including how it may affect performance of the duties at Attachment 3 and the "
-               "circumstances likely to give rise to the difficulty.", Q))
-story.append(P("<b>3.10 Foreseeable risk.</b> Whether exposure to the conditions at Attachments 2 "
+story.append(P("<b>3.7 Foreseeable risk.</b> Whether exposure to the conditions at Attachments 2 "
                "and 3, without the adjustments at 3.5, presents a foreseeable risk to my health or "
                "safety; and if so, what controls you consider medically necessary to manage it.", Q))
 
