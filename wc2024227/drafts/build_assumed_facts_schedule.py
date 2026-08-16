@@ -71,15 +71,14 @@ s.append(P("WC/2024/227 · Shepherd · accompanying the letter of instruction ·
 s.append(P("This schedule identifies, by source and paragraph, the facts referred to in Part B of the "
            "letter of instruction. <b>The documents themselves accompany it, complete and unmarked.</b> "
            "Where a passage is quoted, the quotation is exact. <b>Section B records the matters the "
-           "respondent has <i>not</i> admitted, or has denied, so that the position is complete.</b>",
-           BODY))
+           "Workers' Compensation Regulator does <i>not</i> accept, so that the position is "
+           "complete.</b>", BODY))
 
-s.append(P("A · ADMITTED BY THE RESPONDENT — RESPONSE TO THE NOTICE TO ADMIT FACTS, 18 FEBRUARY 2026", SEC))
-s.append(P("Paragraph numbers are those of the <b>Notice</b>. (The Response renumbers from ¶26; the "
-           "cross-references have been checked.) These are facts admitted by the respondent in the "
-           "proceeding.", SMALL))
+s.append(P("A · ACCEPTED BY THE WORKERS' COMPENSATION REGULATOR — ITS RESPONSE OF 18 FEBRUARY 2026", SEC))
+s.append(P("Item numbers are those of the list to which that document responds; the cross-references "
+           "have been checked against it. These are facts the Regulator accepts.", SMALL))
 s.append(T([
- [P("<b>¶</b>", SMALL), P("<b>Admitted fact</b>", SMALL)],
+ [P("<b>Item</b>", SMALL), P("<b>Fact accepted</b>", SMALL)],
  [P("1", SMALL), P("On <b>17–18 March 2024</b> the appellant was rostered to finish at 23:00 and "
    "commence his next shift at 06:00, <b>a break of only 7 hours</b>.", SMALL)],
  [P("3", SMALL), P("The employer's fatigue risk management policy and the relevant Award require a "
@@ -88,27 +87,27 @@ s.append(T([
    "instance there was a <b>rostering error that was accidentally made by Chloe</b> with regards to "
    "night shifts.”</i>", SMALL)],
  [P("8", SMALL), P("<b>Maintaining accurate contact details for medical staff is a critical function "
-   "of the Switchboard to ensure effective clinical handover and patient safety.</b> The respondent "
-   "adds that <i>“there was a procedure in place for this to occur.”</i>", SMALL)],
+   "of the Switchboard to ensure effective clinical handover and patient safety.</b> It adds that "
+   "<i>“there was a procedure in place for this to occur.”</i>", SMALL)],
  [P("33", SMALL), P("The clinical records contain a consultation record dated <b>16 November 2023</b> "
-   "authored by Dr Priyal De Silva Nanayakkara. <i>(The entry is admitted as being in the record; its "
-   "accuracy is not admitted — see B.)</i>", SMALL)],
+   "authored by Dr Priyal De Silva Nanayakkara. <i>(Accepted as being in the record; its accuracy "
+   "is not accepted — see B.)</i>", SMALL)],
  [P("38", SMALL), P("The report of Dr Ravikumar Krishnaiah <b>states that the appellant was suffering "
-   "from Major Depressive Disorder</b>, diagnosed 13 February 2025. <i>(Admitted as what the report "
-   "says; its accuracy is not admitted.)</i>", SMALL)],
+   "from Major Depressive Disorder</b>, diagnosed 13 February 2025. <i>(Accepted as what the report "
+   "says; its accuracy is not accepted.)</i>", SMALL)],
  [P("40", SMALL), P("On <b>3 May 2024</b> Payroll Officer Elaine Grant emailed the line manager "
    "instructing her to <i>“submit an AVAC to correct these shifts”</i> for the appellant.", SMALL)],
- [P("41", SMALL), P("The <b>AVAC was submitted on 28 May 2024</b>. The respondent adds that on 21 May "
-   "the line manager had said she was waiting on payroll confirmation.", SMALL)],
+ [P("41", SMALL), P("The <b>AVAC was submitted on 28 May 2024</b>. It adds that on 21 May the line "
+   "manager had said she was waiting on payroll confirmation.", SMALL)],
  [P("46", SMALL), P("On <b>21 May 2024 at 12:33pm</b> the line manager emailed the appellant: <i>“I am "
    "waiting payroll confirmation… as soon as I do get that confirmation, I will submit an AVAC.”</i>",
    SMALL)],
 ], [12*mm, 154*mm]))
 
-s.append(P("A2 · FROM THE RESPONDENT'S STATEMENT OF FACTS AND CONTENTIONS, 13 MAY 2026", SEC))
-s.append(P("These are the respondent's own positive statements in its pleading.", SMALL))
+s.append(P("A2 · FROM A FURTHER DOCUMENT OF THE WORKERS' COMPENSATION REGULATOR, 13 MAY 2026", SEC))
+s.append(P("These are its own positive statements in that document.", SMALL))
 s.append(T([
- [P("<b>¶</b>", SMALL), P("<b>What the respondent says</b>", SMALL)],
+ [P("<b>Item</b>", SMALL), P("<b>What it records</b>", SMALL)],
  [P("14(e)<br/>14(f)", SMALL), P("On the special pandemic leave application (leave of <b>20–27 "
    "February 2024</b>), which was declined for want of an attached statutory declaration: "
    "<i>“says that a review indicates that <b>in fact, the attachments were present</b> on the "
@@ -121,22 +120,21 @@ s.append(T([
    "was paid leave.", SMALL)],
 ], [16*mm, 150*mm]))
 
-s.append(P("B · NOT ADMITTED, OR DENIED — AND WHAT THE RESPONDENT SAYS INSTEAD", SEC))
+s.append(P("B · NOT ACCEPTED — AND WHAT THE REGULATOR SAYS INSTEAD", SEC))
 s.append(P("Recorded so that no fact in section A is read as broader than it is.", SMALL))
 s.append(T([
- [P("<b>¶</b>", SMALL), P("<b>The respondent's position</b>", SMALL)],
- [P("4", SMALL), P("<b>Denied</b> that there was no written agreement: <i>“in June 2020, the Appellant "
+ [P("<b>Item</b>", SMALL), P("<b>Its position</b>", SMALL)],
+ [P("4", SMALL), P("<b>Not accepted</b> that there was no written agreement: <i>“in June 2020, the Appellant "
    "signed an agreement allowing an <b>8 hour break</b> between shifts.”</i> <b>On that case the "
    "applicable minimum was 8 hours, and the break given was 7.</b>", SMALL)],
- [P("34", SMALL), P("Admits the 16 November 2023 entry (<i>“No psychological illness such as "
-   "depression/ psychosis”</i>) <b>is listed in the record, but does not admit its accuracy</b>.",
+ [P("34", SMALL), P("Accepts the 16 November 2023 entry (<i>“No psychological illness such as "
+   "depression/ psychosis”</i>) <b>is in the record, but does not accept its accuracy</b>.",
    SMALL)],
- [P("35", SMALL), P("<b>Denied.</b> The respondent asserts <b>a past medical history of anxiety and "
-   "ADHD from 26 October 2022</b>.", SMALL)],
- [P("47", SMALL), P("<b>Denied</b> that the line manager had simply held the instruction: the "
-   "respondent says <i>“Ms Taylor needed confirmation from payroll and then she needed to be "
-   "satisfied that the AVAC was accurate.”</i> <i>(The two emails at ¶¶40 and 46 are admitted.)</i>",
-   SMALL)],
+ [P("35", SMALL), P("<b>Not accepted.</b> It asserts <b>a past medical history of anxiety and ADHD "
+   "from 26 October 2022</b>.", SMALL)],
+ [P("47", SMALL), P("<b>Not accepted</b> that the line manager had simply held the instruction: it "
+   "says <i>“Ms Taylor needed confirmation from payroll and then she needed to be satisfied that "
+   "the AVAC was accurate.”</i> <i>(The two emails at items 40 and 46 are accepted.)</i>", SMALL)],
 ], [12*mm, 154*mm]))
 
 s.append(P("C · FROM THE LETTER OF THE CHIEF EXECUTIVE, METRO SOUTH HEALTH, 5 JUNE 2026", SEC))

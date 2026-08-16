@@ -43,7 +43,8 @@ e.append(P("I attach a letter of instruction for a report in my Queensland Indus
            "Commission proceeding WC/2024/227, together with the four attachments it refers to and a "
            "copy of the Notice of Non-Party Disclosure served on your practice in that proceeding.", BODY))
 e.append(P("The letter asks you to assume the facts recorded in Attachments 1 to 3, which are "
-           "documents of the respondent and of my employer. My own account of the workplace is "
+           "documents of the Workers' Compensation Regulator and of my employer. My own account of "
+           "the workplace is "
            "provided as context only and is not the basis on which I ask you to reason.", BODY))
 e.append(P("I understand the cost of the report is being met by Metro South Hospital and Health "
            "Service. <b>For completeness: the report is instructed by me, and I ask that it be "
@@ -55,8 +56,8 @@ e.append(P("As the report is prepared for use in proceedings before the Commissi
            "restriction on medico-legal use that appears on correspondence from the practice.", BODY))
 e.append(P("Kind regards,<br/><br/>Cory Lea Shepherd<br/>0417 400 227 · coryshepherd1@hotmail.com", BODY))
 e.append(Spacer(1, 5*mm))
-e.append(P("<b>Attached:</b> letter of instruction · Attachment 1 (Response to Notice to Admit Facts, "
-           "18 February 2026) · Attachment 2 (letter of the Chief Executive, Metro South Health, "
+e.append(P("<b>Attached:</b> letter of instruction · schedule of assumed facts · Attachment 1 "
+           "(Response of the Workers' Compensation Regulator, 18 February 2026) · Attachment 2 (letter of the Chief Executive, Metro South Health, "
            "5 June 2026) · Attachment 3 (role description, Administration Officer, Switchboard "
            "Services) · Attachment 4 (clinical records) · Notice of Non-Party Disclosure, sealed "
            "4 July 2025.", SMALL))

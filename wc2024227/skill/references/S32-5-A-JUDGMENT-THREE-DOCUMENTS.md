@@ -630,3 +630,54 @@ recorded by the doctor who wrote the first certificate.
 2. **The 16 November 2023 entry cuts both ways** — sleep disturbance predating the injury. ⭐ The
    answer is in the entry itself: *"Shift work"*. **It is work-caused sleep disturbance, not
    constitutional.** But that is his characterisation to make, not ours to assert.
+
+---
+
+# ⛔ PART 15 — STANDING RULE (Cory, 16 Aug): NO PLEADING LANGUAGE IN ANYTHING A CLINICIAN READS
+
+⭐⭐⭐ **A medical report that reasons from "the respondent admits at paragraph 5" is a litigation
+document with a doctor's signature on it. A report that reasons from "the employer's records
+record X" is medicine.** The second survives cross-examination; the first invites the question
+*"you were reasoning from the pleadings, weren't you, doctor?"*
+
+## 15.1 THE SUBSTITUTIONS — APPLIED THROUGHOUT THE LETTER, THE SCHEDULE AND THE COVERING EMAIL
+| ⛔ Out | ✅ In |
+|---|---|
+| *"the respondent"* | **"the Workers' Compensation Regulator"**, then *"the Regulator"* |
+| *"admitted"* · *"admits"* · *"admissions"* | **"accepted"** · *"accepts"* |
+| *"denied"* · *"not admitted"* | **"not accepted"** · *"does not accept"* |
+| *"its own pleading"* · *"Statement of Facts and Contentions"* | **"a further document of the Regulator, dated 13 May 2026"** |
+| *"Notice to Admit Facts and the Response to it"* | **"Response of the Workers' Compensation Regulator, signed 18 February 2026 — a document in which the Regulator states its position, item by item, on a list of factual matters"** |
+| *"the onset pleaded in this matter"* | **"the date of onset in this matter"** |
+| *"matters admitted or asserted by the respondent"* | ⭐ **deleted** — the documents are named; the sentence does not need the status |
+| *"in the proceeding"* (of the records) | **"in this matter"** |
+| ¶ column headings | **"Item"** |
+
+⭐ **The zip attachment was renamed too** — `01_ATTACHMENT_1_Regulator_Response_18Feb2026_EXTRACT.pdf`.
+**A filename is read before anything in the file.**
+
+## 15.2 ⭐⭐ WHAT IS DELIBERATELY KEPT, AND WHY
+| Kept | Because |
+|---|---|
+| **Notice of Non-Party Disclosure** | It is a notice **served on his practice** — he holds it, it is the source of the three matters, and it is not a pleading |
+| **List of Documents** | A disclosure list. ⭐ It is the **neutral, third-party source of the dates**, which is the whole reason it is in the letter |
+| **"proceedings in the Queensland Industrial Relations Commission"** (Part D) | The report's purpose must be stated on its face. ⛔ Concealing it would be the defect |
+| **"accepted" / "not accepted"** | ⭐⭐ An expert **must** know which assumed facts are contested. Removing the status entirely would make the instruction defective, not cleaner. **The concept stays; the vocabulary goes.** |
+
+## 15.3 ⭐⭐⭐ AND THE CHANGE THAT WAS MORE THAN COSMETIC
+Question 2.2 previously read *"the respondent says an 8-hour agreement applied, and describes the
+shift **in its own pleading**…"* — which told the clinician he was reading a litigation position.
+It now reads:
+> *"A further document of the Regulator, dated 13 May 2026, records that an 8-hour written
+> agreement applied and describes the shift as separated **“by only a 7-hour break (rather than an
+> 8-hour break) … a result of human error”**. **On either figure the break was shorter than the
+> minimum.**"*
+
+⭐ **Same fact, same quotation, same force — and now it is a document with a date rather than a
+party's case.** ⇒ **The clinician is reasoning from records, which is what a clinician does.**
+
+## 15.4 THE RULE, FORWARD
+⛔ **Nothing that goes to a treating or examining doctor uses the words *pleading*, *pleaded*,
+*admit*, *admitted*, *denied*, *respondent*, *appellant*, *contentions* or *particulars*.** Name
+the document, name the author, give the date, quote the words. ⭐ **Verified against the rendered
+text of the letter, the schedule and the covering email — all three are clean.**
