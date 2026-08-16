@@ -185,3 +185,57 @@ say is sound.**
 be attacked on, is a cheaper report and a far stronger one than a report that must build the whole
 picture.** ⇒ **The three documents have narrowed what has to be bought to one question — which is
 the most useful thing they do.**
+
+---
+
+# ⭐⭐⭐ PART 8 — CORRECTION (Cory, 15 Aug): TWO ADMITTED ERRORS, AND "ACCIDENTALLY" IS REESE'S WORD
+
+## 8.1 THE ATTRIBUTION WAS WRONG — AND THE TRUTH IS STRONGER
+This file recorded *"a rostering error that was accidentally made"* as the **Respondent's**
+characterisation at Form 24 ¶5. ⭐⭐ **It is not. It is Ms Reese's, in her own contemporaneous
+email**, which the Respondent then **admitted**:
+> Form 24 ¶5 — *"Ms Tammy Reese admitted in an email … **a rostering error … accidentally made by
+> Chloe with regards to night shifts**"* — **ADMITTED**
+
+⇒ ⭐⭐⭐ **The rostering error is admitted twice over: by the Director contemporaneously in writing,
+and by the Regulator in its pleading.** A manager's contemporaneous written admission is
+evidentially better than a pleading concession — **it cannot be explained away as a litigation
+position.**
+
+## 8.2 ⭐⭐⭐ AND THERE ARE TWO ADMITTED HUMAN ERRORS, NOT ONE — BOTH IN THE SAME PLEADING
+| | Subject | The words | Source |
+|---|---|---|---|
+| **Error 1** — *earlier* | The **COVID leave declines**, February 2024 | ⭐ *"a review indicates that **in fact, the attachments were present** on the appellant's submission"* · *"this was a matter of **human error by Ms Taylor** on the background of high work demands"* | **SOFC ¶14(e), (f)** |
+| **Error 2** | The **7-hour break**, 17–18 March 2024 | *"a result of **human error and not intentional or repeated**"* | **SOFC ¶22(a)** |
+
+**Two admitted human errors. The same line manager. One month apart. Both adverse to the same
+employee.** ⚠ And the leave was **declined twice on identical evidence** before the review found the
+attachments were present.
+
+## 8.3 ⛔ HOW TO RUN IT — AND HOW NOT TO
+⛔ **Do NOT run it as a contradiction.** *"Not repeated"* most naturally means *this* error did not
+recur, not that the manager made no others. **Arguing the semantic point invites a fair answer and
+loses the ground.**
+
+⭐⭐⭐ **Run it as a pattern, which needs no interpretation at all:**
+> **Two errors, admitted by the Respondent in the same pleading, by the same manager, in successive
+> months, each of which cost the appellant something — and neither of which produced any change to
+> the procedures, on the Chief Executive's own account.**
+
+## 8.4 ⭐⭐ WHAT IT DOES TO THE EXCLUSION
+Part 2.1 answered *"an isolated error; management action need not be perfect"* by relying on the CE
+letter — no system, no correction. ⭐ **That answer stands, and this is now a second and independent
+answer to the same point:**
+
+**It was not isolated.** An isolated lapse is a blemish. **Two admitted errors by one manager in two
+months, in a role with no fatigue assessment and no procedural change afterwards, is not a blemish —
+it is the condition the employee was working in.**
+
+⇒ **The Respondent must now say that a pattern of admitted error, in an unassessed and unchanged
+system, was nonetheless reasonable management action taken in a reasonable way.**
+
+## 8.5 FOR THE SCHEDULE AND THE REPORT
+⭐ **Add SOFC ¶14(e)–(f) to the schedule of assumed facts.** It is a second admitted error, it is the
+employer's own review finding that the attachments *were in fact present*, and it belongs in the
+occupational picture the clinician is given.
+⛔ **Still nothing about the PID, and nothing connecting either error to anything that followed.**
