@@ -1552,3 +1552,72 @@ clinician.**
 ⇒ **The events are conceded. The system is certified absent. All that is left is the
 characterisation — and characterisation is the one thing a psychiatrist's opinion on mechanism
 reaches without asking anyone's permission.**
+
+---
+
+# ⛔⛔⛔ PART 28 — HOW THE LETTER READS *BECAUSE IT COMES FROM THE PATIENT* (Cory, 16 August)
+
+> *"and what did the full read of the letter look like when asked by the patient"*
+
+⭐⭐⭐ **This is the most serious exposure found since the ¶35 error, and it is not in the letter's
+content. It is in its authorship.**
+
+## 28.1 THE PROBLEM, STATED PLAINLY
+**Dr Krishnaiah's own report of 13 February 2025 lists, UNDER SYMPTOMS:**
+> *"obsessive rumination, fear driven thoughts, **extensive researching, and planning on fact
+> findings for work-related issues including reading up on policies, procedures, and
+> legislations**"*
+
+and records that the proceedings *"**have consumed his whole life** severely affecting his
+functioning"*, and that he *"advised Cory to **defer in making decisions regarding work settlement
+or legal matters** until his mental state improves."*
+
+⇒ ⭐⭐⭐ **He is now to receive a seven-page forensic letter of instruction, a three-page schedule of
+assumed facts with paragraph-level citations, five attachments and a nine-question crosswalk
+appendix — prepared personally by the patient.**
+
+⛔⛔⛔ **On its face, the instruction is the very behaviour that clinician has already coded as
+pathology.**
+
+## 28.2 WHAT THAT COULD PRODUCE, AND WHY IT MATTERS MORE THAN IT LOOKS
+| | |
+|---|---|
+| A sentence recasting the preparation as a symptom | ⛔ **an incapacity marker**, and directly usable by the employer in a capacity process |
+| The litigation named as the barrier to return | ⛔ he wrote it twice in 2025, and made it a **precondition** to rehabilitation |
+| Either of those | ⚠ **s 32(5)(c)** excludes injury from *"action by the Regulator or an insurer in connection with the worker's application for compensation"* — **a report attributing harm to the proceedings themselves is an exclusion argument written by his own expert** |
+
+## 28.3 ⛔ WHAT IS *NOT* THE ANSWER
+**Making the instruction thinner.** The thoroughness is what makes the report worth having — a thin
+letter produces a report built on his account, which is the vulnerability the whole design exists
+to remove. ⇒ **The content stays.**
+
+## 28.4 ⭐⭐⭐ WHAT IS THE ANSWER — REFRAME THE AUTHORSHIP, IN THE COVERING EMAIL
+Added:
+> ***I am self-represented in this proceeding and have prepared the instruction myself.*** *I have
+> set it out in the way I understand an expert is ordinarily instructed: the facts I ask you to
+> assume are identified by their source, and the matters the Regulator does not accept are
+> identified as well, so that you have the position complete rather than one side of it.*
+
+⭐⭐⭐ **Two things in one paragraph, and the second is the important one:**
+1. **It explains the authorship as a necessity of his position**, not a preoccupation. A
+   self-represented litigant who writes his own instruction is doing what he must, not what he
+   cannot stop doing.
+2. ⭐⭐ **It demonstrates the opposite of rumination.** *"Identified by their source… the matters not
+   accepted are identified as well… the position complete rather than one side of it."* **That is
+   orderly, disclosed and self-limiting. Obsessive preparation does not disclose the other side's
+   denials.** The method is itself the rebuttal.
+
+## 28.5 ⚠ AND THE HONEST LIMIT
+If the litigation genuinely is affecting him, **that is a clinical fact and the report should say
+so.** ⛔ Nothing here suppresses it and nothing should. **What the reframing prevents is the
+instrument itself being read as fresh evidence of the symptom** — the doctor drawing a conclusion
+from the existence of the document rather than from the patient in front of him.
+
+⭐ **And 1.4 already helps:** *"from your own current clinical assessment. I do not ask you to adopt
+or repeat any earlier characterisation."*
+
+## 28.6 ON THE DRAFT — THE FIRST THING TO LOOK FOR
+Now checklist item **1a**: ⚠ **any sentence treating the preparation of the case as a symptom, or
+the litigation as the barrier to return.** ⭐ It sits above the practice footer and the fee, because
+it is the single most damaging sentence the report could contain — **and it would be written
+sympathetically.**

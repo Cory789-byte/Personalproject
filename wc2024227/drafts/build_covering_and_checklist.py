@@ -40,9 +40,14 @@ e.append(P("<b>To:</b> Mind and Memory Service &nbsp;·&nbsp; <b>Attention:</b> 
 e.append(Spacer(1, 4*mm))
 e.append(P("Dear Dr Krishnaiah,", BODY))
 e.append(P("I attach a letter of instruction for a report in my Queensland Industrial Relations "
-           "Commission proceeding WC/2024/227, together with the four attachments it refers to and a "
+           "Commission proceeding WC/2024/227, together with the five attachments it refers to and a "
            "copy of the Notice of Non-Party Disclosure served on your practice in that proceeding.", BODY))
-e.append(P("The letter asks you to assume the facts recorded in Attachments 1 to 3, which are "
+e.append(P("<b>I am self-represented in this proceeding and have prepared the instruction myself.</b> "
+           "I have set it out in the way I understand an expert is ordinarily instructed: the facts "
+           "I ask you to assume are identified by their source, and the matters the Regulator does "
+           "not accept are identified as well, so that you have the position complete rather than "
+           "one side of it.", BODY))
+e.append(P("The letter asks you to assume the facts recorded in Attachments 1 to 3 and 5, which are "
            "documents of the Workers' Compensation Regulator and of my employer. My own account of "
            "the workplace is "
            "provided as context only and is not the basis on which I ask you to reason.", BODY))
@@ -99,6 +104,21 @@ c.append(P("<b>1. ✅ FUNDING IS CLOSED — MSH contacted the practice directly 
            "what has the Health Service provided to you, or asked of you?</b> ⛔ The letter of "
            "instruction must be the only instruction. ⭐ And question 1.5 catches it either way — "
            "anything MSH sent will appear in the list of documents reviewed.", ITEM))
+c.append(P("<b>1a. ⛔⛔ THE ONE THING TO WATCH FOR ON THE DRAFT — HIS OWN 2025 REPORT CODED THE "
+           "PREPARATION AS A SYMPTOM.</b> The report of 13 February 2025 lists, <b>under "
+           "symptoms</b>: <i>“obsessive rumination, fear driven thoughts, <b>extensive researching, "
+           "and planning on fact findings for work-related issues including reading up on policies, "
+           "procedures, and legislations</b>”</i>, and records that the proceedings <i>“have "
+           "consumed his whole life severely affecting his functioning.”</i><br/>"
+           "⇒ ⭐⭐⭐ <b>A seven-page forensic instruction, a schedule of assumed facts and five "
+           "attachments, prepared personally by the patient, is on its face the very behaviour that "
+           "clinician has already recorded as pathology.</b> ⚠ Watch for any sentence in the new "
+           "report that treats the preparation of the case as a symptom, or the litigation as the "
+           "barrier to return. <b>It is an incapacity marker, it is directly usable by the "
+           "employer, and s 32(5)(c) excludes injury from action taken in connection with the "
+           "compensation application.</b> ⭐ The covering email now states that he is "
+           "self-represented and prepared the instruction himself, which explains the authorship as "
+           "a necessity of his position rather than as a symptom.", ITEM))
 c.append(P("<b>2. The practice footer.</b> The report of 13 February 2025 carries "
            "<i>“disclosed for Qsuper and not for medico-legal use”</i> on every page. ⛔ <b>If that "
            "appears on this report it is compromised on its face.</b> The covering email raises it; "
