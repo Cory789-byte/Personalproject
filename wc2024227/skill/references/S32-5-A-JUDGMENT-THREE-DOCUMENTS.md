@@ -751,3 +751,67 @@ not argued to him, and it is therefore not attackable as having been fed to him.
    holds these records. *"Renew referral to psychiatrist, 16 May 2024"* is findable in five
    minutes. **A report that has not dealt with it is impeached at the point the other side is
    aiming; a report that has dealt with it has converted their best interval into ours.**
+
+---
+
+# ⭐⭐⭐ PART 17 — THE BASIS, STATED AS AN ARCHITECTURE (Cory, 16 Aug)
+
+> *"he must be reasoning from assumed facts from the appeal officer renee matheson and from the ce
+> chief executive letter the role position and the medical records… all and then the input the
+> relationship breakdown and the past medical records"*
+
+Part B now opens with the basis as a table, before any question is asked.
+
+| | **Reason from** | Where |
+|---|---|---|
+| **1** | The facts **accepted by the Workers' Compensation Regulator**, in the response signed by **Ms Renee Matheson, Senior Appeals Officer**, on **18 February 2026** | Attachment 1 |
+| **2** | The letter of the **Chief Executive of Metro South Hospital and Health Service**, **5 June 2026** | Attachment 2 |
+| **3** | The **requirements of the position**, as the employer describes them | Attachment 3 |
+| **4** | The **clinical records, in full** | Attachment 4 |
+| | **And take into account** | **Asked at** |
+| **5** | The **relationship breakdown** and the other life stressors recorded in his own file | question 3.1 |
+| **6** | The **past medical history** in the general-practice records | question 1.3 |
+
+## 17.1 ⭐⭐⭐ WHY NAMING MATHESON IS THE MOVE
+The response is **signed by her**, on its face — *"Name of contact person: Ms Renee Matheson …
+Signature … Date: 18/02/2026"*. Naming her is a plain fact, not a characterisation, and it changes
+what the assumed facts **are** in the reader's mind:
+
+⛔ *"assumed facts"* — an abstraction a lawyer supplied.
+⭐⭐⭐ *"facts accepted in writing by the Senior Appeals Officer with carriage of the matter, and by
+the Chief Executive of the Health Service"* — **two named officials, two signed documents, two
+dates.**
+
+⇒ **An expert reasoning from named officials' signed documents is doing what experts do.** An
+expert reasoning from "the appellant's assumed facts" is a witness for a party.
+
+## 17.2 ⭐⭐⭐ AND IT MANUFACTURES THE ANSWER TO THE EMPLOYER'S QUESTION 1(c)
+The request for medical information offers three options: **self-report · your own assessment ·
+other medical information.** ⭐ **None of them is the answer.**
+
+**Part D(c) now asks him to *"state expressly which of the sources at Part B your opinion as to
+causation rests on."*** ⇒ The report answers, in his own words and unprompted:
+> **the facts accepted by the Senior Appeals Officer of the Workers' Compensation Regulator, the
+> letter of the Chief Executive of Metro South Health, the requirements of the position, and the
+> clinical records.**
+
+⭐⭐⭐ **A fourth answer to a three-option question — and the employer wrote the question that
+produces it.**
+
+## 17.3 ⭐⭐ WHY 5 AND 6 SIT *BELOW* THE LINE, AND NOT ABOVE IT
+The relationship breakdown and the past medical history are **not** assumed facts — they are
+**matters he must weigh**. Putting them in the same table, in a second block, does three things:
+1. ⭐ **It shows nothing was withheld.** The two matters the other side would say were hidden are
+   named on the first page of the instruction, above every question.
+2. ⭐⭐ **It forecloses the "your instructions were selective" cross-examination** — the
+   instruction's own architecture is the answer.
+3. ⭐ **It routes each to the question that handles it** — 3.1 dates the breakdown against
+   18 June 2024; 1.3 reads the past history by author, date, and whether symptom or diagnosis.
+
+⛔ **And they stay below the line for a reason:** they are inputs to be weighed, **not facts to be
+assumed**. Assumed facts come only from documents the other parties wrote.
+
+## 17.4 THE SCHEDULE MATCHES
+Section A of the schedule is now headed **"ACCEPTED BY THE WORKERS' COMPENSATION REGULATOR —
+RESPONSE SIGNED BY MS RENEE MATHESON, SENIOR APPEALS OFFICER, 18 FEBRUARY 2026."**
+⭐ **The letter and the schedule name the same person, the same office and the same date.**

@@ -60,6 +60,13 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    establish that adjustments are clinically necessary cannot be read as global incapacity.
 
 10. ⚠ THE REVIEW DECISION CLAUSE IS NOW A SWITCH, not a checklist note — see below.
+
+11. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
+   facts accepted by Ms Renee Matheson, Senior Appeals Officer, on 18 February 2026; the Chief
+   Executive's letter of 5 June 2026; the requirements of the position; and the clinical records in
+   full — and two matters to TAKE INTO ACCOUNT: the relationship breakdown (3.1) and the past
+   medical history (1.3). Part D(c) then asks him to state WHICH of those sources his causation
+   opinion rests on. That produces the answer to the employer's question 1(c) in his own words.
 ════════════════════════════════════════════════════════════════════════════════════════════════
 
 ⛔ DRAFT — bracketed items require confirmation before sending.
@@ -110,14 +117,16 @@ FLAG = ParagraphStyle('FLAG', parent=BODY, fontSize=8.8, leading=12,
 
 def P(t, s=BODY): return Paragraph(t, s)
 
-def T(rows, w, repeat=1):
+def T(rows, w, repeat=1, shade=()):
     t = Table(rows, colWidths=w, repeatRows=repeat)
-    t.setStyle(TableStyle([
-        ('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#bbbbbb')),
-        ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#eeeeee')),
-        ('VALIGN', (0,0), (-1,-1), 'TOP'),
-        ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
-        ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]))
+    cmds = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#bbbbbb')),
+            ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#eeeeee')),
+            ('VALIGN', (0,0), (-1,-1), 'TOP'),
+            ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
+            ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
+    for r in shade:
+        cmds.append(('BACKGROUND', (0,r), (-1,r), colors.HexColor('#eeeeee')))
+    t.setStyle(TableStyle(cmds))
     return t
 
 story = []
@@ -135,9 +144,11 @@ story.append(T([
  [P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Author</b>", SMALL),
   P("<b>Status</b>", SMALL)],
  [P("<b>1</b>", SMALL),
-  P("<b>Response of the Workers' Compensation Regulator</b>, signed 18 February 2026 — a document "
-    "in which the Regulator states its position, item by item, on a list of factual matters.", SMALL),
-  P("The <b>Regulator</b>", SMALL), P("<b>Assumed fact</b>", SMALL)],
+  P("<b>Response of the Workers' Compensation Regulator</b>, signed <b>18 February 2026</b> — a "
+    "document in which the Regulator states its position, item by item, on a list of factual "
+    "matters.", SMALL),
+  P("<b>Ms Renee Matheson</b><br/>Senior Appeals Officer,<br/>Workers' Compensation<br/>Regulator",
+    SMALL), P("<b>Assumed fact</b>", SMALL)],
  [P("<b>2</b>", SMALL),
   P("<b>Letter of the Chief Executive</b>, Metro South Hospital and Health Service, 5 June 2026 "
     "(ref K-LM26/729), to the Commission.", SMALL),
@@ -160,16 +171,33 @@ story.append(P("Also enclosed, and not evidence: a <b>schedule of assumed facts<
 
 # ══════════════════════════════════════════════════════ PART B — BASIS
 story.append(P("PART B — THE BASIS ON WHICH I ASK YOU TO WRITE", PART))
-story.append(P("I ask you to assume, for the purpose of your opinion, <b>the facts recorded in "
-               "Attachments 1 to 3</b>. Attachment 1 records facts accepted by the Workers' "
-               "Compensation Regulator; Attachments 2 and 3 are the employer's own documents.", BODY))
+story.append(P("<b>I ask you to reason from the following, and from nothing else in relation to "
+               "the workplace.</b>", BODY))
+story.append(T([
+ [P("", SMALL), P("<b>Reason from</b>", SMALL), P("<b>Where</b>", SMALL)],
+ [P("<b>1</b>", SMALL), P("The facts <b>accepted by the Workers' Compensation Regulator</b>, in the "
+   "response signed by <b>Ms Renee Matheson, Senior Appeals Officer</b>, on <b>18 February "
+   "2026</b>", SMALL), P("Attachment 1", SMALL)],
+ [P("<b>2</b>", SMALL), P("The letter of the <b>Chief Executive of Metro South Hospital and Health "
+   "Service</b>, <b>5 June 2026</b>", SMALL), P("Attachment 2", SMALL)],
+ [P("<b>3</b>", SMALL), P("The <b>requirements of the position</b>, as my employer describes them",
+   SMALL), P("Attachment 3", SMALL)],
+ [P("<b>4</b>", SMALL), P("The <b>clinical records, in full</b> — your own file, my general-practice "
+   "records and the certificates", SMALL), P("Attachment 4", SMALL)],
+ [P("", SMALL), P("<b>And take into account</b>", SMALL), P("<b>Asked at</b>", SMALL)],
+ [P("<b>5</b>", SMALL), P("The <b>relationship breakdown</b> and the other life stressors recorded "
+   "in your own file", SMALL), P("question 3.1", SMALL)],
+ [P("<b>6</b>", SMALL), P("The <b>past medical history</b> recorded in the general-practice records",
+   SMALL), P("question 1.3", SMALL)],
+], [8*mm, 128*mm, 30*mm], repeat=0, shade=(5,)))
+story.append(P("<b>Items 1 to 3 were written by the other parties to my matter</b>, and I ask you to "
+               "assume the facts they record. <b>My own account of the workplace is provided as "
+               "clinical context only, and is not the basis on which I ask you to reason.</b> Where "
+               "your history from me differs from any fact in Attachments 1 to 3, please say so "
+               "expressly rather than resolve the difference.", BODY))
 story.append(P("<b>The schedule also records the matters the Regulator does not accept. Please do "
                "not treat any of those as established.</b> They are set out so that you have the "
                "position complete rather than one side of it.", BODY))
-story.append(P("<b>My own account of the workplace is provided as clinical context only, and is not "
-               "the basis on which I ask you to reason.</b> Where your history from me differs from "
-               "any fact in Attachments 1 to 3, please say so expressly rather than resolve the "
-               "difference. Attachment 4 is the clinical record, for your clinical review.", BODY))
 story.append(P("Please do not adopt, or treat as established, any conclusion, characterisation or "
                "finding of any other decision-maker. <b>Your opinion is yours alone.</b> I do not ask "
                "you to express any view on whether any management action was reasonable; that is a "
@@ -467,9 +495,9 @@ story.append(P("<b>(a)</b> state your qualifications and specialty, and the date
 story.append(P("<b>(b)</b> <b>reason from the assumed facts to your conclusions rather than assert "
                "conclusions</b>, and state where the material is insufficient for you to express an "
                "opinion rather than qualifying an opinion you would not otherwise give;", QQ))
-story.append(P("<b>(c)</b> <b>state expressly the material on which your opinion as to causation "
-               "rests, and whether that opinion depends on my account of the workplace matters</b>;",
-               QQ))
+story.append(P("<b>(c)</b> <b>state expressly which of the sources at Part B your opinion as to "
+               "causation rests on, and whether that opinion depends on my account of the workplace "
+               "matters</b>;", QQ))
 story.append(P("<b>(d)</b> <b>state whether anything in the clinical records provided is "
                "inconsistent with, or qualifies, the opinions you express — and if so, how you have "
                "taken it into account</b>, so that the report addresses the whole of the material "

@@ -74,7 +74,8 @@ s.append(P("This schedule identifies, by source and paragraph, the facts referre
            "Workers' Compensation Regulator does <i>not</i> accept, so that the position is "
            "complete.</b>", BODY))
 
-s.append(P("A · ACCEPTED BY THE WORKERS' COMPENSATION REGULATOR — ITS RESPONSE OF 18 FEBRUARY 2026", SEC))
+s.append(P("A · ACCEPTED BY THE WORKERS' COMPENSATION REGULATOR — RESPONSE SIGNED BY "
+           "MS RENEE MATHESON, SENIOR APPEALS OFFICER, 18 FEBRUARY 2026", SEC))
 s.append(P("Item numbers are those of the list to which that document responds; the cross-references "
            "have been checked against it. These are facts the Regulator accepts.", SMALL))
 s.append(T([
