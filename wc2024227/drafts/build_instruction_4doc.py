@@ -208,7 +208,7 @@ story.append(Spacer(1, 3*mm))
 
 # ══════════════════════════════════════════════════════ PART A — ATTACHMENTS
 story.append(P("PART A — THE ATTACHMENTS", PART))
-story.append(P("Four documents accompany this letter. <b>Three of the four were written by the other "
+story.append(P("Five documents accompany this letter. <b>Four of the five were written by the other "
                "parties to my matter — the Workers' Compensation Regulator, and my employer.</b>", BODY))
 story.append(T([
  [P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Author</b>", SMALL),
@@ -229,14 +229,18 @@ story.append(T([
   P("The <b>employer</b>", SMALL), P("<b>Assumed fact</b>", SMALL)],
  [P("<b>4</b>", SMALL),
   P("<b>The clinical record</b> — your own file for me from 24 October 2024; my general-practice "
-    "records (Our Medical Ashmore); the workers' compensation medical certificates; my certificate "
-    "of capacity of 3 July 2026.", SMALL),
+    "records (Our Medical Ashmore); the workers' compensation medical certificates; the employee "
+    "capability checklist of 3 July 2026.", SMALL),
   P("<b>Clinicians</b>", SMALL), P("<b>Clinical record</b><br/>(not assumed fact)", SMALL)],
+ [P("<b>5</b>", SMALL),
+  P("<b>Approved changes to working hours, 2026</b> — three forms of my employer, approved by the "
+    "delegate on 27 February, 17 April and 9 June 2026, with an index page.", SMALL),
+  P("The <b>employer</b>", SMALL), P("<b>Assumed fact</b>", SMALL)],
 ], [11*mm, 92*mm, 33*mm, 30*mm]))
 story.append(P("Also enclosed, and not evidence: a <b>schedule of assumed facts</b>, which identifies "
                "by source and paragraph the facts referred to in Part B and records what the "
                "Regulator does <i>not</i> accept; and a copy of the <b>Notice of Non-Party "
-               "Disclosure</b> served on your practice in this proceeding. <b>The four attachments "
+               "Disclosure</b> served on your practice in this proceeding. <b>The five attachments "
                "themselves are provided complete and unmarked.</b>", SMALL))
 
 # ══════════════════════════════════════════════════════ PART B — BASIS
@@ -265,7 +269,7 @@ story.append(T([
 story.append(P("<b>Items 1 to 3 and 5 were written by the other parties to my matter</b>, and I ask "
                "you to assume the facts they record. <b>My own account of the workplace is provided as "
                "clinical context only, and is not the basis on which I ask you to reason.</b> Where "
-               "your history from me differs from any fact in Attachments 1 to 3, please say so "
+               "your history from me differs from any fact in Attachments 1 to 3 or 5, please say so "
                "expressly rather than resolve the difference.", BODY))
 story.append(P("<b>The schedule also records the matters the Regulator does not accept. Please do "
                "not treat any of those as established.</b> They are set out so that you have the "
@@ -300,7 +304,7 @@ story.append(P("<b>The clinical records are the complete records held by the Reg
                "them.</b>", BODY))
 
 story.append(P("PART B2 — WHAT IS ALREADY RECORDED, AND WHAT I AM NOT ASKING YOU TO ESTABLISH", PART))
-story.append(P("Attachments 1 to 3 already record the nature of the work, what occurred, and what "
+story.append(P("Attachments 1 to 3 and 5 already record the nature of the work, what occurred, and what "
                "the employer says was and was not in place. <b>You are not asked to find any of "
                "that, and you are not asked to take any of it from me.</b>", BODY))
 story.append(P("<b>Already recorded, by the Regulator or by my employer:</b> the requirements of "
@@ -504,7 +508,7 @@ story.append(P("<b>3.4 Prognosis and current capacity.</b> Your prognosis; and, 
                "adjustments</b> from <b>(b)</b> any current incapacity. If there is current "
                "incapacity, its cause — the condition itself, the consequences of my having been "
                "away from the workplace since 3 July 2026 (a matter of my account, not of "
-               "Attachments 1 to 3), or other factors.", Q))
+               "Attachments 1 to 3 or 5), or other factors.", Q))
 story.append(P("<b>The functional record is already in Attachment 4</b> — the employee capability "
                "checklist of 3 July 2026 sets out the pattern of work actually performed and the "
                "restrictions then in place. <b>You may take that record as established and need not "
