@@ -76,35 +76,28 @@ c.append(P("⛔⛔ <b>INTERNAL. This page never goes to the practice, to the emp
            "Regulator.</b> Everything else in the pack is written to be produced; this is not.", WARN))
 
 c.append(P("BEFORE ANYTHING IS SENT", SEC))
-c.append(P("<b>1. Was Review Decision 69983 put in front of him on 12 August 2026?</b> This is now "
-           "a switch in the build script — <b>set REVIEW_DECISION_PROVIDED in "
-           "build_instruction_4doc.py and rebuild</b>. Until it is set, the letter prints a red flag "
-           "in Part B and cannot be sent by accident.<br/>"
-           "⭐ If <b>no</b> — set False; the document is not mentioned at all.<br/>"
-           "⛔ If <b>yes</b> — set True; the letter then carries an express direction not to adopt "
-           "any finding, characterisation or conclusion in it, and asks whether his opinion would "
-           "differ if he disregarded it entirely. <b>Unaddressed, it is the first thing an opposing "
-           "expert will find.</b>", ITEM))
-c.append(P("<b>2. The fee.</b> Confirm before instructing. The covering email asks for it. The "
+c.append(P("<b>1. The fee.</b> Confirm before instructing. The covering email asks for it. The "
            "benchmark on file is the PsychGroup indicative range of $10,000–$30,000 for a full "
            "medico-legal report; ⭐ <b>this instruction asks a narrower question than that</b>, and "
            "should be priced accordingly.", ITEM))
-c.append(P("<b>3. The practice footer.</b> The report of 13 February 2025 carries "
+c.append(P("<b>2. The practice footer.</b> The report of 13 February 2025 carries "
            "<i>“disclosed for Qsuper and not for medico-legal use”</i> on every page. ⛔ <b>If that "
            "appears on this report it is compromised on its face.</b> The covering email raises it; "
            "confirm it has been understood.", ITEM))
-c.append(P("<b>4. Insert the date</b> in the instruction where marked.", ITEM))
-c.append(P("<b>4a. ⭐⭐ The commencement date at question 1.3(c) is now <i>“since 2019”</i></b> — "
+c.append(P("<b>3. Insert the date</b> in the instruction where marked.", ITEM))
+c.append(P("<b>4. ⭐⭐ The commencement date at question 1.3(c) is now <i>“since 2019”</i></b> — "
            "more than five years of continuous shift work before the pleaded onset. ⚠ <b>Have a "
            "document for it</b> (first payslip, letter of appointment, or service record) before "
            "the answer is relied on in the appeal. ⛔ <b>The casual-to-full-time change stays out "
            "of the letter</b> — it is a contractual question, not a clinical one, and it has "
            "already been run and answered.", ITEM))
-c.append(P("<b>5. ⭐ Confirm the certificate of capacity wording of 3 July 2026.</b> The phrase "
-           "<i>“continuation of existing arrangement … worked and tolerated … without "
-           "deterioration”</i> is quoted twice — in the schedule and at question 3.6. It is the "
-           "last unverified quotation in the pack. <b>Read it from the certificate before "
-           "sending.</b>", ITEM))
+c.append(P("<b>5. ✅ The capacity wording is VERIFIED and locked</b> — read from the Employee "
+           "Capability Checklist of 3 July 2026. ⛔ The old paraphrase <i>“continuation of existing "
+           "arrangement”</i> <b>does not appear in the document</b> and has been removed everywhere. "
+           "The correct words are <i>“approximately <b>six shifts per fortnight</b> … the pattern "
+           "Mr Shepherd <b>has in fact worked and tolerated over the past twelve months without "
+           "deterioration</b> … <b>Usual switchboard operational duties remain suitable</b>.”</i>",
+           ITEM))
 c.append(P("<b>6. ⛔ Say nothing about which exhibit holds what, or about the span of the "
            "production.</b> The letter and the schedule state only what the respondent asserts — a "
            "history from 26 October 2022 — and nothing about what the file does or does not "

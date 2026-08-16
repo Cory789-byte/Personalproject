@@ -869,3 +869,72 @@ point the other side is aiming. **A forensic answer to a forensic attack is not 
 ⚠ The one real risk is tonal — a report that reads as an audit of general-practice notes rather
 than a psychiatric opinion. **The mitigation is already in Part D(b): reason to conclusions rather
 than assert them.** ⇒ Leave the questions. Watch the register in the draft report.
+
+---
+
+# PART 19 — THE LAST TWO ITEMS CLOSED (16 August). THE INSTRUCTION IS FINAL BUT FOR THE DATE.
+
+## 19.1 ⛔ REVIEW DECISION 69983 — REMOVED ENTIRELY, NOT SWITCHED
+Cory's decision, and it is the better one. **No switch, no flag, no naming.**
+
+**Why removal beats a naming direction:**
+1. ⭐ **The general direction already covers it** — *"Please do not adopt, or treat as established,
+   any conclusion, characterisation or finding of any other decision-maker. Your opinion is yours
+   alone."* A general rule does not need an example.
+2. ⭐⭐ **Naming a document you want disregarded is the surest way to have it read.** *"Do not adopt
+   this"* is an instruction to go and look.
+3. **It is not before the Commission in the appeal**, so there is no forensic need for the
+   clinician to engage with it at all.
+4. ⭐ **The decision tree disappears.** Nothing is left to remember.
+
+⭐⭐⭐ **AND THE REAL SAFEGUARD WAS ALREADY IN THE DOCUMENT — QUESTION 1.5.** The report must give
+*"a complete list of every document you reviewed."*
+⇒ **If 69983 appears in that list it is visible on the face of the report and can be dealt with.
+If it does not appear, it was not used.** That is stronger protection than any direction — it is
+self-executing, it requires no decision from anyone, and it works whether or not the document was
+ever in the bundle. ⭐ **Question 1.5 was written for provenance and it turns out to be the answer
+to the whole problem.**
+
+⚠ **One honest limit:** if he was given it and did rely on it, the general instruction will not
+undo that retrospectively. **1.5 and Part D(d) will surface it, and it is then addressed on the
+draft rather than guessed at now.** That is the correct sequence.
+
+## 19.2 ⭐ THE FUNDING IS NOW ON THE FACE OF THE INSTRUCTION
+It had lived only in the covering email, which may not travel with the report. **The instruction
+will.** Added at the close of Part D:
+> **As to cost and instruction:** the cost of the report is being met by **Metro South Hospital and
+> Health Service**, which has requested medical information about my capacity for work. **The
+> report is nonetheless instructed by me, and I ask that it be addressed to me.** Neither the fact
+> of that funding nor the identity of the party meeting the cost bears in any way on the opinion
+> you express.
+
+⭐⭐⭐ **Three things in one paragraph, and each is a different defence:**
+| | |
+|---|---|
+| **The employer is paying** | ⇒ ⭐ **the causation opinion cannot be said to have been bought by the appellant.** This is the single strongest credibility fact available and it now sits on the instruction itself |
+| **The patient instructs, and it is addressed to him** | ⇒ **no suggestion the employer framed the questions**, and no ambiguity about privilege or ownership |
+| **Neither bears on the opinion** | ⇒ **the independence statement is in the instruction, so the report can adopt it rather than have to invent it** |
+
+## 19.3 THE STATE OF THE PACKAGE
+| | |
+|---|---|
+| Decision flags outstanding | ⭐ **none** |
+| Unverified quotations | ⭐ **none** — the capacity wording was the last, and it is locked |
+| Brackets remaining in the letter | **one: the date** |
+| Pleading language | **none**, verified against rendered text |
+| Letter | **6pp** · Schedule **3pp** · pack **11 files** |
+
+## 19.4 ⚠ WHAT REMAINS, AND NONE OF IT BLOCKS SENDING
+1. **The fee**, confirmed before instructing.
+2. **The practice footer** — *"disclosed for Qsuper and not for medico-legal use"* must not appear.
+3. **The three movement forms · the April 2025 call statistics · who is performing the duties** —
+   they would strengthen 3.6; their absence does not make the question unanswerable, because the
+   capability checklist now carries *"six shifts per fortnight … worked and tolerated … without
+   deterioration."*
+4. ⭐⭐ **Serve the AO3 role description on the Regulator as continuing disclosure BEFORE the report
+   is commissioned** — document only, not provenance.
+5. ⭐ **The commencement date** — *"since 2019"* is in the letter; have a document for it.
+
+⭐⭐⭐ **AND THE HONEST ASSESSMENT OF WHAT IS LEFT AFTER THE REPORT LANDS:** the residual risk is
+**the legal characterisation of admitted management action under s 32(5)(a)** — not a deficiency
+in the medical foundation. ⇒ **That is Part 1 of this file, and it is the ground we chose.**

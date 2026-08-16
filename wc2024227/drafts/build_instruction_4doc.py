@@ -59,9 +59,21 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
 9. ⭐ 3.6(a) NOW REQUIRES ANY "NO" TO BE ITEMISED by duty and reason, so an answer given to
    establish that adjustments are clinically necessary cannot be read as global incapacity.
 
-10. ⚠ THE REVIEW DECISION CLAUSE IS NOW A SWITCH, not a checklist note — see below.
+10. ⛔ REVIEW DECISION 69983 IS REMOVED ENTIRELY (Cory, 16 Aug). No switch, no flag, no naming.
+   The general direction already in Part B — "do not adopt, or treat as established, any
+   conclusion, characterisation or finding of any other decision-maker" — covers it, and naming a
+   document you want disregarded is the surest way to have it read. ⭐ AND THE REAL SAFEGUARD IS
+   QUESTION 1.5: the report must list EVERY document reviewed. If 69983 appears in that list it is
+   visible and can be dealt with; if it does not, it was not used. That is better protection than
+   a naming direction, and it needs no decision from anyone.
 
-11. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
+11. ⭐ THE FUNDING IS NOW ON THE FACE OF THE INSTRUCTION, not only in the covering email: the
+   cost is met by Metro South Health, the report is nonetheless instructed by the patient and
+   addressed to him, and neither bears on the opinion. The credibility point — that the causation
+   opinion cannot be said to have been bought by the appellant — is worth locking into the document
+   that will travel with the report.
+
+12. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
    facts accepted by Ms Renee Matheson, Senior Appeals Officer, on 18 February 2026; the Chief
    Executive's letter of 5 June 2026; the requirements of the position; and the clinical records in
    full — and two matters to TAKE INTO ACCOUNT: the relationship breakdown (3.1) and the past
@@ -69,7 +81,7 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    opinion rests on. That produces the answer to the employer's question 1(c) in his own words.
 ════════════════════════════════════════════════════════════════════════════════════════════════
 
-⛔ DRAFT — bracketed items require confirmation before sending.
+⭐ NO DECISION FLAGS REMAIN. The only bracket left in the document is the date.
 """
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
@@ -79,16 +91,6 @@ from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer, PageBreak,
                                 Table, TableStyle)
 
 OUT = "out/INSTRUCTION_Krishnaiah_4DOC_DRAFT.pdf"
-
-# ─────────────────────────────────────────────────────────────────────────────────────────────
-# ⚠ DECIDE BEFORE SENDING. Was Review Decision 69983 put in front of Dr Krishnaiah on
-# 12 August 2026, in the bundle he was given then?
-#   True  → the letter carries an express direction not to adopt it, and asks whether his
-#           opinion would differ if he disregarded it entirely. This cures it.
-#   False → the letter says nothing about it. ⛔ Do not raise a document he was never given.
-#   None  → the letter carries a visible red flag so the question cannot be forgotten.
-REVIEW_DECISION_PROVIDED = None
-# ─────────────────────────────────────────────────────────────────────────────────────────────
 
 ss = getSampleStyleSheet()
 
@@ -202,19 +204,6 @@ story.append(P("Please do not adopt, or treat as established, any conclusion, ch
                "finding of any other decision-maker. <b>Your opinion is yours alone.</b> I do not ask "
                "you to express any view on whether any management action was reasonable; that is a "
                "question for the Commission.", BODY))
-
-if REVIEW_DECISION_PROVIDED is True:
-    story.append(P("You may previously have been provided with a decision of the Workers' "
-                   "Compensation Regulator's Review Unit. I ask you not to adopt any finding, "
-                   "characterisation or conclusion in it, and to state whether your opinion would "
-                   "differ in any respect if you disregarded that document entirely.", BODY))
-elif REVIEW_DECISION_PROVIDED is None:
-    story.append(P("<b>[DECIDE BEFORE SENDING]</b> Was Review Decision 69983 in the bundle "
-                   "provided to the practice on 12 August 2026? <b>If yes</b>, the express "
-                   "direction not to adopt it — and the question whether his opinion would differ "
-                   "if he disregarded it — must be inserted here. <b>If no</b>, this paragraph is "
-                   "deleted and the document is not mentioned. Set REVIEW_DECISION_PROVIDED in the "
-                   "build script.", FLAG))
 
 story.append(P("<b>The sequence, from a source other than my account.</b> The following dates are "
                "taken from the Regulator's amended List of Documents dated 14 August 2026, by its "
@@ -515,8 +504,14 @@ story.append(P("<b>(d)</b> <b>state whether anything in the clinical records pro
                "taken it into account</b>, so that the report addresses the whole of the material "
                "rather than part of it; and", QQ))
 story.append(P("<b>(e)</b> confirm that the opinions expressed are your own.", QQ))
-story.append(P("The report is prepared for use in proceedings in the Queensland Industrial Relations "
-               "Commission and may be provided to my employer. Please address it to me.", BODY))
+story.append(P("The report is prepared for use in proceedings in the Queensland Industrial "
+               "Relations Commission and may be provided to my employer.", BODY))
+story.append(P("<b>As to cost and instruction:</b> the cost of the report is being met by "
+               "<b>Metro South Hospital and Health Service</b>, which has requested medical "
+               "information about my capacity for work. <b>The report is nonetheless instructed by "
+               "me, and I ask that it be addressed to me.</b> Neither the fact of that funding nor "
+               "the identity of the party meeting the cost bears in any way on the opinion you "
+               "express.", BODY))
 
 doc = SimpleDocTemplate(OUT, pagesize=A4, leftMargin=20*mm, rightMargin=20*mm,
                         topMargin=17*mm, bottomMargin=17*mm,
