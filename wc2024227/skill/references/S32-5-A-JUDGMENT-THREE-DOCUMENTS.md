@@ -1081,9 +1081,36 @@ says so.**
 ⭐ Part D already requires him to **say so rather than answer** — so the decline is express, reasoned
 and on the face of the report, which is far better than a gap.
 
-## 21.6 ⚠ AND ONE THING THE AUDIT SURFACED THAT IS NOT A DRAFTING POINT
-**The request of 31 July 2026 is addressed to Dr Day Hong Ma, not to Dr Krishnaiah.** ⇒ MSH can
-say *"we asked the general practitioner."* **The answer belongs in the covering note to MSH**: the
-psychiatrist is the treating specialist for the diagnosed condition, the checklist they are
-querying records psychiatric care, and their questions go to matters within his expertise. ⚠ Decide
-separately whether Dr Ma also responds — **two inconsistent answers would be worse than one.**
+## 21.6 ✅ RESOLVED — MSH HAS AGREED THE PSYCHIATRIST DOES THE REPORT (Cory, 16 Aug)
+The request of 31 July 2026 is addressed to **Dr Day Hong Ma**. ⭐ **That no longer matters: MSH
+has agreed the report comes from Dr Krishnaiah.** ⇒ The "we asked the general practitioner" answer
+is gone, no explanatory paragraph is needed in the covering note, and **the risk of two
+inconsistent answers is closed — Dr Ma does not respond.**
+
+### 21.6.1 ⚠⚠ BUT THE CONSEQUENCE IS THE OPPOSITE OF COMFORTING
+**One report is now the sole answer to all nine questions. There is no second document behind it.**
+⇒ ⭐⭐⭐ **Anything the report does not answer is not answered at all** — and *"the specialist did
+not address question 2"* becomes a finding rather than a gap someone else fills.
+⇒ **That is what the audit at 21.2–21.4 was worth.** The two gaps found there — the
+*"blamed for the failures of others"* stressor, and the lawful-direction question — **would have
+been permanent.**
+
+### 21.6.2 ⭐⭐ AND IT IMPROVES q7's PROVENANCE, WHICH WAS ALREADY THE BEST ANSWER IN THE SET
+q7 quotes *"working memory is affected under stress"* from the capability checklist — **but the
+phrase is not Dr Ma's.** It traces to **Dr Krishnaiah's own report of 13 February 2025**, seventeen
+months before the checklist.
+⇒ **The psychiatrist is being asked to explain his own words**, and 3.5(c) puts it to him that way.
+⭐ **That is the cleanest possible answer to their question 1(c)** — not self-report, not another
+clinician's document, but the specialist's own recorded finding, predating the request by a year
+and a half.
+
+### 21.6.3 ⚠ WHAT IS STILL WORTH GETTING IN WRITING — AND IT IS NOW ONE POINT, NOT TWO
+The **who** is settled. **The dual purpose is not.** One line to Injury Management before the
+instruction goes:
+> confirming that Metro South Health will meet the cost of the report from Dr Krishnaiah answering
+> the request of 31 July 2026, **and noting that the report will also be provided in the appeal and
+> to the Workers' Compensation Regulator.**
+
+⭐⭐⭐ **Declare it in advance and it can never be said to have been concealed.** The instruction
+already says the same on its face at Part D, so the two documents agree — ⛔ **and they must
+continue to agree.**
