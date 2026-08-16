@@ -119,12 +119,11 @@ dt.setStyle(TableStyle([
 story.append(dt)
 story.append(P("A copy of the Notice of Non-Party Disclosure served on your practice accompanies "
                "this letter.", SMALL))
-story.append(P("⚠ <b>Please note the span of the general-practice records provided.</b> They were "
-               "produced for the period <b>1 January 2023 to 1 July 2024</b>. They therefore do not "
-               "cover any period before 2023, and they stop at the date of first attendance for "
-               "this injury. <b>An absence of an entry in them is not evidence that no attendance "
-               "occurred.</b> If earlier or later records would assist you, please say so and I will "
-               "obtain them.", BODY))
+story.append(P("<b>The clinical records provided are the complete records held by the respondent in "
+               "this proceeding.</b> They are provided in full and unedited, including entries that "
+               "are unrelated to this matter and entries that may not assist me. I have not selected "
+               "among them. <b>If any further records would assist you, please say so and I will "
+               "obtain them.</b>", BODY))
 
 story.append(P("PART B2 — WHAT IS ALREADY RECORDED, AND WHAT I AM NOT ASKING YOU TO ESTABLISH", PART))
 story.append(P("Attachments 1 to 3 already record the nature of the work, what occurred, and what "
@@ -162,12 +161,11 @@ story.append(P("<b>1.1</b> The diagnosis; the classificatory framework applied a
                "best the clinical record establishes it.", Q))
 story.append(P("<b>1.2</b> The differential diagnoses considered, and your reasons for including or "
                "excluding each.", Q))
-story.append(P("<b>1.3</b> My psychiatric background, so far as the records provided and your own "
-               "assessment allow — including the general-practice entry of <b>16 November 2023</b>. "
-               "Whether there was any relevant pre-existing condition; and if so, whether the matters "
-               "at Attachments 1 to 3 aggravated it, and to what extent. If records outside the "
-               "period 1 January 2023 to 1 July 2024 would assist you on this question, please say "
-               "so.", Q))
+story.append(P("<b>1.3</b> My psychiatric background. The general-practice records provided include "
+               "<b>the entries of 26 October 2022 referring to anxiety and attention deficit "
+               "features, and stimulant prescribing</b>, and <b>the entry of 16 November 2023</b>. "
+               "Please address them. Whether there was any relevant pre-existing condition; and if "
+               "so, whether the matters at Attachments 1 to 3 aggravated it, and to what extent.", Q))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
                "so how — from your own current clinical assessment. I do not ask you to adopt or "
                "repeat any earlier characterisation.", Q))
@@ -262,6 +260,10 @@ story.append(P("Please reason from the assumed facts to your conclusions rather 
                "opinion rather than qualifying an opinion you would not otherwise give.", BODY))
 story.append(P("<b>Please state expressly the material on which your opinion as to causation rests, "
                "and whether that opinion depends on my account of the workplace matters.</b>", BODY))
+story.append(P("<b>Please also state whether anything in the clinical records provided is "
+               "inconsistent with, or qualifies, the opinions you express — and if so, how you have "
+               "taken it into account.</b> I ask this so that the report addresses the whole of the "
+               "material rather than part of it.", BODY))
 story.append(P("The report is prepared for use in proceedings in the Queensland Industrial Relations "
                "Commission and may be provided to my employer. [CONFIRM: the standard practice footer "
                "restricting use must not appear on this report.]", BODY))

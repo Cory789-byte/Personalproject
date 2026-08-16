@@ -62,3 +62,48 @@ that may assume the absence of an entry means the absence of a presentation.
 2. ⭐ **Obtain the practice's records for 1 July – 1 August 2024 directly** — they are his own
    records and he can request them without any notice.
 3. **Correct the letter of instruction** — the 2022 question, and a statement of the records' span.
+
+---
+
+# ⛔⛔ 15 AUG — CORRECTION: THE CLINICIAN MUST SEE EVERYTHING THE REGULATOR HOLDS
+**Cory, 15 Aug:** *the Regulator has the past medical information and has the material about the
+relationship breakdown, so these must be included.* ⭐⭐⭐ **That is right, and it reverses the
+advice given earlier in this file about trimming or noting the span.**
+
+## THE RULE
+**A report written on a narrower base than the material the other side holds has a hole exactly
+where the attack lands.** The standard destruction is one question:
+> *"Doctor, were you provided with the complete general-practice records? No? Then your opinion on
+> pre-existing condition was formed without them."*
+
+⇒ ⭐⭐ **Everything the Regulator holds on the subject matter must be in front of the clinician.**
+The pack specification said this from the start — *"2022 ADHD/anxiety pages IN and visible
+(disclosure = credibility)"* — and it is right.
+
+## WHAT THE REGULATOR HOLDS
+| Material | Where |
+|---|---|
+| ⭐ **The complete Ashmore records (Exhibit A5)** — pages 48, 50, **52**, 53 are cited in the Form 24 notice, so A5 runs to at least 53 pages | Obtained by the Regulator **on or before 8 July 2025** (Form 24 ¶23); served on Saines **22 July 2025** (¶30) |
+| The **13 February 2025 report**, referring to *"multiple life stressors including relationship breakdown, job loss and bereavement"* | LOD item 10 · Exhibit A4 · already in the pack at 04d |
+
+⛔⛔ **The 14-page export currently in the pack is NOT the complete A5.** Obtain the full production
+before the pack is sent — from the Saines material, or directly from the practice, which requires no
+notice because they are his own records.
+
+## ⭐⭐⭐ AND IT MAKES THE OPINION STRONGER, NOT WEAKER
+**A causation opinion formed on a favourable subset is attackable. A causation opinion formed on
+everything the other side obtained — including what is adverse — is not.** Disclosure is the
+protection.
+
+## THE THREE CHANGES MADE TO THE INSTRUCTION
+1. ⭐ **Question 1.3 restored** to ask him to address the **26 October 2022 entries** (anxiety,
+   attention deficit features, stimulant prescribing) and the 16 November 2023 entry.
+2. ⭐ **The span note replaced** with a statement that the records are provided **in full and
+   unedited, including entries unrelated to the matter and entries that may not assist**, and that
+   nothing has been selected among them.
+3. ⭐⭐⭐ **A new question added at Part D:**
+   > *"Please also state whether anything in the clinical records provided is inconsistent with, or
+   > qualifies, the opinions you express — and if so, how you have taken it into account."*
+
+   **That converts adverse material from an ambush into a considered element of the opinion**, and it
+   is the standard protection an expert report carries.
