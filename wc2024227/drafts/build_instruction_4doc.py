@@ -246,22 +246,33 @@ story.append(P("<b>1.1</b> The diagnosis; the classificatory framework applied a
                "best the clinical record establishes it.", Q))
 story.append(P("<b>1.2</b> The differential diagnoses considered, and your reasons for including or "
                "excluding each.", Q))
-story.append(P("<b>1.3 My psychiatric background — and two specific matters I ask you to address "
-               "rather than pass over.</b>", Q))
-story.append(P("<b>(a)</b> The general-practice records include an entry of <b>16 November 2023</b> "
+story.append(P("<b>1.3 My background, and how it bears on your opinion.</b> I ask you to reason "
+               "from the following rather than around it.", Q))
+story.append(P("<b>(a) Attention deficit features.</b> Please state, from your own assessment and "
+               "the records, whether attention deficit is <b>a longstanding neurodevelopmental "
+               "condition rather than a psychiatric injury</b>; and whether a person with those "
+               "features is <b>more, or less, vulnerable to injury where continuous shift work is "
+               "worked without adequate recovery between shifts</b>, and under sustained "
+               "high-volume concurrent demand of the kind described at Attachment 3.", QQ))
+story.append(P("<b>(b) Anxiety in the records.</b> The respondent asserts <b>a past medical history "
+               "of anxiety and ADHD from 26 October 2022</b>. Where the material before you records "
+               "anxiety, please state <b>who recorded it, on what date, and whether it was recorded "
+               "as a symptom or made as a diagnosis</b>; and <b>whether any anxiety disorder was "
+               "ever diagnosed</b> before 2024.", QQ))
+story.append(P("<b>(c) My function in the role before 2024.</b> I had been employed in this "
+               "position, working continuous shift work, <b>since at least June 2020</b>. Please "
+               "state whether, before 2024, the material shows <b>any psychiatric diagnosis, any "
+               "psychiatric treatment, or any absence from work on psychological grounds</b> — and "
+               "what that indicates about my level of function in this role in the years before the "
+               "matters at Attachments 1 to 3.", QQ))
+story.append(P("<b>(d) The entry of 16 November 2023.</b> The records include an entry of that date "
                "recording <i>“No psychological illness such as depression/ psychosis.”</i> The "
-               "respondent admits that entry is listed in the records but <b>does not admit its "
-               "accuracy</b>. On the same date the same practitioner prescribed <b>temazepam 10mg "
-               "at night and melatonin 5mg</b>. What significance, if any, do you attach to that "
-               "combination, and to sleep prescribing in a shift worker at that time?", QQ))
-story.append(P("<b>(b)</b> The respondent asserts <b>a past medical history of anxiety and ADHD "
-               "from 26 October 2022</b>. Please say whether anything in the material before you "
-               "indicates a history of that kind; whether it would alter your opinion if such a "
-               "history were established; and whether you require any further material in order to "
-               "answer.", QQ))
-story.append(P("<b>(c)</b> Whether there was any relevant pre-existing condition or vulnerability; "
-               "and if so, whether the matters at Attachments 1 to 3 aggravated it, and to what "
-               "extent.", QQ))
+               "respondent admits the entry is listed but <b>does not admit its accuracy</b>. On the "
+               "same date the same practitioner prescribed <b>temazepam 10mg at night and melatonin "
+               "5mg</b>. What significance, if any, do you attach to that combination, and to sleep "
+               "prescribing in a shift worker at that time?", QQ))
+story.append(P("<b>(e)</b> If there was a pre-existing condition or vulnerability, whether the "
+               "matters at Attachments 1 to 3 <b>aggravated</b> it, and to what extent.", QQ))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
                "so how — from your own current clinical assessment. I do not ask you to adopt or "
                "repeat any earlier characterisation.", Q))
@@ -319,17 +330,21 @@ story.append(P("<b>This matter has three parts, and I ask you to take them in th
                "your conclusion last, so that the conclusion rests on the two answers before it. "
                "The questions on capacity, restrictions and adjustments follow at 3.4 to 3.7.", BODY))
 
-story.append(P("<b>3.1 Other factors, placed in time.</b> Please identify any non-employment factors "
-               "relevant to <b>(i)</b> onset at or about 18 June 2024 and <b>(ii)</b> the subsequent "
-               "course. Your report of 13 February 2025 referred to multiple life stressors "
-               "including relationship breakdown, job loss and bereavement.", Q))
+story.append(P("<b>3.1 Other factors, placed in time.</b> Please identify any non-employment "
+               "factors relevant to <b>(i)</b> onset at or about <b>18 June 2024</b> and "
+               "<b>(ii)</b> the subsequent course. Your report of 13 February 2025 referred to "
+               "multiple life stressors including relationship breakdown, job loss and "
+               "bereavement.", Q))
 story.append(P("<b>Your clinical relationship with me began on 24 October 2024, and my partner "
                "attended that consultation with me.</b> Each of the matters above arose while I was "
                "under your care and is recorded in your own file. I ask you:", BODY))
 story.append(P("<b>(a)</b> to place each factor in time <b>from your own records rather than by "
-               "assumption</b>;", QQ))
-story.append(P("<b>(b)</b> to state whether, <b>as at the date of your diagnosis</b>, my "
-               "relationship was a protective factor or an adverse one; and", QQ))
+               "assumption</b>, and <b>to state for each whether it arose before or after "
+               "18 June 2024</b>;", QQ))
+story.append(P("<b>(b)</b> to state, for any factor arising after that date, <b>whether it is "
+               "capable of explaining the onset</b>; and to state whether, <b>as at the date of "
+               "your diagnosis</b>, my relationship was a protective factor or an adverse one; and",
+               QQ))
 story.append(P("<b>(c)</b> for each factor, whether in your opinion it was <b>independent of the "
                "employment matters, or a consequence of them</b> — noting that your report of "
                "13 February 2025 records that my pay was <i>“withheld or delayed for up to five "

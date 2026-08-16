@@ -93,6 +93,10 @@ c.append(P("<b>3. The practice footer.</b> The report of 13 February 2025 carrie
            "appears on this report it is compromised on its face.</b> The covering email raises it; "
            "confirm it has been understood.", ITEM))
 c.append(P("<b>4. Insert the date</b> in the instruction where marked.", ITEM))
+c.append(P("<b>4a. ⭐ The commencement date at question 1.3(c).</b> The letter says <i>“since at "
+           "least June 2020”</i>, which is documented by the 8-hour agreement signed 17 June 2020 "
+           "and cannot be wrong. <b>If the actual commencement is earlier, insert it</b> — the "
+           "longer the period of unimpaired function in this role, the stronger the answer.", ITEM))
 c.append(P("<b>5. ⭐ Confirm the certificate of capacity wording of 3 July 2026.</b> The phrase "
            "<i>“continuation of existing arrangement … worked and tolerated … without "
            "deterioration”</i> is quoted twice — in the schedule and at question 3.6. It is the "

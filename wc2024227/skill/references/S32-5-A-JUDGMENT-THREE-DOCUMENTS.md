@@ -417,3 +417,79 @@ the same and stops in the same place.
 ⭐ The range of the production is recorded **once**, in `ASHMORE-PRODUCTION-GAP.md`, because it is
 needed internally — it is why the clinician is not asked for 2022 entries. ⛔ **It is not repeated
 anywhere else, it is not an argument, and it does not go in any document or any letter.**
+
+---
+
+# ⭐⭐⭐ PART 12 — CORRECTION (Cory, 16 Aug): REASON **FROM** THE HISTORY, NOT AROUND IT
+
+⛔ **The error in Parts 10–11 was defensive.** Having taken the exhibit argument out, I left 1.3(b)
+asking the clinician whether anything *"indicates a history of that kind"* — a question written to
+contain a threat. **That treats the ADHD and the anxiety note as damage.** They are not. Handled
+properly they are four separate answers, and three of them are stronger than the clean baseline
+ever was.
+
+## 12.1 THE FOUR THINGS THE HISTORY ACTUALLY DOES
+### 1. ⭐⭐ ADHD IS NOT A PSYCHIATRIC INJURY — IT IS A VULNERABILITY, AND s 32(1) COVERS AGGRAVATION
+Attention deficit is **longstanding and neurodevelopmental**. It is not a mood disorder, it did not
+onset in 2024, and **it is not a competing cause of MDD.** It is a susceptibility.
+⇒ **s 32(1) does not require a well person.** *"Injury"* includes the **aggravation** of a
+pre-existing condition, and the employer takes the worker as it finds them.
+⭐⭐⭐ **And it cuts the respondent's way only if nobody asks the next question:** a person with
+attention deficit features is **more** vulnerable to injury when continuous shift work is worked
+**without adequate recovery** — which is precisely the admitted breach. **The pre-existing
+condition makes the 7-hour break worse, not the injury less attributable.**
+
+⚠⚠ **AND THE DISCIPLINE THAT KEEPS IT SAFE:** 1.3(a) asks about vulnerability **to injury where
+recovery is not provided** — ⛔ **never about capacity to do the role.** A vulnerability answer
+framed against the role feeds the inherent-requirements attack and the medical-separation pathway.
+**Framed against the breach, it feeds causation.** The distinction is one clause long and it is
+load-bearing.
+
+### 2. ⭐⭐⭐ AN ANXIETY *NOTE* IS NOT AN ANXIETY *DIAGNOSIS*
+The respondent asserts *"a past medical history of anxiety and ADHD."* ⭐ **A general practitioner
+recording the word "anxiety" in a consultation note is recording a symptom.** It is not a
+diagnosed anxiety disorder, and it establishes no pre-existing psychiatric illness.
+⇒ **1.3(b) now asks for the three things that decide it: who recorded it, on what date, and
+whether it was recorded as a symptom or made as a diagnosis** — and whether any anxiety disorder
+was **ever diagnosed** before 2024.
+⭐ **Their own material has to answer that, and the answer is a note by a named doctor on a date.**
+
+### 3. ⭐⭐⭐ THE YEARS IN THE ROLE — THE ANSWER THAT REPLACES THE CLEAN BASELINE
+The clean baseline was always the wrong argument: it can be falsified by a single page, and it was
+contested from the first. **Premorbid *function* cannot be.**
+> **Employed in this position, working continuous shift work, since at least June 2020** — the
+> 8-hour agreement signed **17 June 2020** documents it — **with no psychiatric diagnosis, no
+> psychiatric treatment and no absence on psychological grounds before 2024.**
+
+⭐⭐⭐ **Four years of continuous shift work in the same role, with the same attention deficit
+features and whatever a 2022 note says, and no injury. What changed in 2024 was not him.**
+⇒ 1.3(c) asks the clinician to state exactly that, from the material.
+⭐ **It does not need the 2022 records, and it is not damaged by whatever they say.** The stronger
+their assertion of a long history, the longer the period he functioned in this role while carrying
+it.
+
+### 4. ⭐⭐ THE RELATIONSHIP BREAKDOWN IS **LATER**, AND TIMING DOES THE WORK
+Onset is pleaded at **18 June 2024**. The breakdown runs **December 2024 to February 2025** — and
+Krishnaiah's own file records the partner **present and protective on 24 October 2024**.
+⇒ ⭐⭐⭐ **A factor that arises six months after onset cannot have caused the onset.** No argument
+about weight is needed; the chronology forecloses it.
+⇒ 3.1(a) now asks him to state, for each factor, **whether it arose before or after 18 June 2024**,
+and 3.1(b) asks, for anything after, **whether it is capable of explaining the onset**.
+⚠ **Bereavement is the one to watch** — it is undated in the repo and named by his own expert.
+3.1(a) makes him date it from his own records. **That is the only safe handling.**
+
+## 12.2 ⭐ WHAT THIS CHANGES IN POSTURE
+| Old framing | ⭐ New framing |
+|---|---|
+| Clean baseline — *nothing before 2024* | **Unimpaired function — four years in this role, no diagnosis, no treatment, no absence** |
+| ADHD as a threat to contain | **A pre-existing vulnerability that the admitted breach aggravated** |
+| The anxiety history as a competing cause | **A note, by a named doctor, on a date — never a diagnosis** |
+| Relationship breakdown weighed against employment | **Six months after onset — incapable of explaining it** |
+
+⇒ ⭐⭐⭐ **Every one of those is answered out of their own material, and none of them requires a
+document he does not hold.** The clean baseline needed the 2022 records to be favourable.
+**Premorbid function needs nothing.**
+
+## 12.3 ⛔ THE RULE THAT FOLLOWS
+**Never write a question to a clinician whose purpose is to contain a fact.** A contained fact
+reads as a fact someone was worried about. **Put it in, and ask the question that makes it work.**
