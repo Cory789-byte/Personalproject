@@ -87,7 +87,7 @@ The Respondent corrects it: **signed 8 September 2024**. Fix every citation that
 
 **¶35 — "not in possession of any contemporaneous medical evidence prior to 2024 that
 contradicts".** ⚠ **CONTESTED, and this is the live risk.** The Regulator asserts the records
-show **anxiety and ADHD history from 26 October 2022, "missing from Exhibit A5"**. That cuts
+show **anxiety and ADHD history from 26 October 2022**. That cuts
 directly at the clean-baseline proposition at ¶¶33–35. **Do not run the clean baseline as
 though it is unanswered.**
 
@@ -151,7 +151,7 @@ The draft schedule listed ¶35 (*"The Respondent is not in possession of any con
 evidence prior to 2024 that contradicts the finding in Item 34"*) as an **admitted fact**.
 
 > **Response ¶32 — DENIED:** *"denies untrue the fact because the records show a past medical
-> history of **Anxiety and ADHD from 26 October 2022** which is missing from Exhibit A5."*
+> history of **Anxiety and ADHD from 26 October 2022**."*
 
 ⭐⭐⭐ **Had that gone to Dr Krishnaiah as an assumed fact it would have been the single most
 damaging thing in the pack — he holds those very records.** An expert instructed to assume a clean

@@ -74,8 +74,8 @@ facts; the doctor opines on assumed facts. Two witnesses, two jobs.**
 
 ## 3.4 ⛔⛔ THE UNADDRESSED THREAT — the 26 October 2022 entries
 
-**Form 24 ¶32: the Regulator asserts an anxiety / ADHD history from 26 October 2022, said to be
-missing from Exhibit A5.** ⭐ That is their attack on the **clean baseline** — which is otherwise
+**Form 24 ¶32: the Regulator asserts an anxiety / ADHD history from 26 October 2022.** ⭐ That is
+their attack on the **clean baseline** — which is otherwise
 strong (16 Nov 2023, *"no psychological illness"*, admitted at ¶34).
 
 ⛔⛔ **This is the largest unworked threat to Gate A. If Dr Krishnaiah meets it for the first time

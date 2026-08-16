@@ -266,7 +266,7 @@ argument the other side cannot reach is worth more than an argument it can.
 
 ## 9.2 ⛔ AND THE CLEAN BASELINE IS NOT AVAILABLE — CONFIRMED FROM THE PAGE
 Notice ¶35 is **DENIED**: *"the records show a past medical history of **Anxiety and ADHD from
-26 October 2022** which is missing from Exhibit A5."*
+26 October 2022**."*
 ⇒ Nothing in this judgment relies on it, and nothing may. **The 16 November 2023 entry is admitted
 only as appearing in the record — not as accurate.** The clinician is asked to address the 2022
 material directly rather than to assume it away.
@@ -368,3 +368,42 @@ has to be comfortable saying.**
    quotation in the pack.**
 2. ⚠ **REVIEW_DECISION_PROVIDED** — True or False. The letter will not print clean until it is set.
 3. The three movement forms · the April 2025 call statistics · who is performing the duties.
+
+---
+
+# ⛔ PART 11 — STANDING RULE (Cory, 16 Aug): NEVER SAY "MISSING FROM EXHIBIT A5"
+
+The phrase is the **respondent's characterisation of the appellant's own medical file** — that
+something which should be in it is not. **Repeating it adopts it**, and it carries an implication
+the record does not support: that the production was incomplete or curated.
+
+⭐⭐ **And it is not even a safe characterisation to adopt, because it is wrong on the face of the
+production.** The export states its own range: **01/01/2023 to 01/07/2024**. A 26 October 2022
+entry is not *missing* from a document that never covered 2022 — **it was outside the scope of the
+notice.**
+
+## 11.1 THE RULE
+| | |
+|---|---|
+| ⛔ **Never write or say** | *"missing from Exhibit A5"* · *"not in the exhibit produced"* · any variant asserting the file is incomplete |
+| ✅ **Say only** | **"The respondent asserts a past medical history of anxiety and ADHD from 26 October 2022."** |
+| ✅ **And, where it matters** | **"That period falls outside the range of the records produced, which run from 1 January 2023."** |
+
+## 11.2 ⭐⭐ WHY THE SHORTER FORM IS ALSO THE STRONGER ONE
+Stated as a bare assertion, **the burden of proving it sits with the respondent** — it is an
+allegation about documents it has not produced. The moment the phrase *"missing from Exhibit A5"*
+is repeated, the conversation becomes about **whether his file is complete**, which is a fight
+about him rather than about their proof.
+⇒ **Put them to proof of what they say their records show. Add nothing.**
+
+## 11.3 WHERE IT WAS REMOVED
+`confirmed-record.md` (4 places) · `FORM24-VERIFICATION-5AUG.md` (2) · `MAXIMISING-THE-APPEAL.md`
+· `sub-skills/evidence.md` · `CEILING_SET/01b` · Part 9.2 of this file · the schedule build script.
+⭐ **It never appeared in any document that goes out** — verified against the rendered text of both
+the schedule and the letter of instruction.
+
+## 11.4 ⭐ AND A CONSEQUENTIAL CORRECTION THE RULE FLUSHED OUT
+The schedule's section B said the 2022 material *"is in the clinical records provided at
+Attachment 4."* ⛔ **It is not** — the production begins 1 January 2023. The line now reads that
+**the period falls outside the span of the records provided**, which matches question 1.3(b) of
+the letter of instruction. The schedule and the letter now say the same thing.
