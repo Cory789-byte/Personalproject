@@ -86,7 +86,16 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    weaker against an inherent-requirements argument than an independently reasoned one.
    ⭐ The saving is real and it is safe: the FACTS are established for him; the OPINION stays his.
 
-13. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
+13. ⭐⭐⭐ THE DRAFT REQUEST (Cory, 16 Aug). Part D now asks, in one sentence, to be provided with
+   a draft to identify FACTUAL error or omission — and draws the propriety line itself: "I will not
+   comment on your opinions, and any correction I offer will be to the facts only."
+   Why it matters: the report is a one-shot irreversible act that lands in the employer's hands
+   while a capacity process runs, and until now there was no step between "he writes it" and "MSH
+   holds it". It buys two things — a wrong date or misread entry is fixed before it becomes a live
+   document in an employment process, and if the report says something unhelpful, Cory learns it
+   before MSH does.
+
+14. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
    facts accepted by Ms Renee Matheson, Senior Appeals Officer, on 18 February 2026; the Chief
    Executive's letter of 5 June 2026; the requirements of the position; and the clinical records in
    full — and two matters to TAKE INTO ACCOUNT: the relationship breakdown (3.1) and the past
@@ -501,6 +510,9 @@ story.append(P("<b>(d)</b> <b>state whether anything in the clinical records pro
                "taken it into account</b>, so that the report addresses the whole of the material "
                "rather than part of it; and", QQ))
 story.append(P("<b>(e)</b> confirm that the opinions expressed are your own.", QQ))
+story.append(P("<b>If it would assist, I am content to be provided with a draft so that I can "
+               "identify any factual error or omission in the material. I will not comment on your "
+               "opinions, and any correction I offer will be to the facts only.</b>", BODY))
 story.append(P("The report is prepared for use in proceedings in the Queensland Industrial "
                "Relations Commission and may be provided to my employer.", BODY))
 story.append(P("<b>As to cost and instruction:</b> the cost of the report is being met by "

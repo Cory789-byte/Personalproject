@@ -76,6 +76,14 @@ c.append(P("⛔⛔ <b>INTERNAL. This page never goes to the practice, to the emp
            "Regulator.</b> Everything else in the pack is written to be produced; this is not.", WARN))
 
 c.append(P("BEFORE ANYTHING IS SENT", SEC))
+c.append(P("<b>0. ⭐⭐⭐ THE DRAFT.</b> Part D asks to be provided with a draft to identify factual "
+           "error. <b>When it arrives, the review is FACTS ONLY.</b> ⛔ Do not comment on any "
+           "opinion, do not suggest a conclusion, do not ask for anything to be strengthened — "
+           "the letter promises it and the promise is the protection. Check: dates · names · which "
+           "document said what · attachment references · whether every document reviewed is listed "
+           "· whether it states which Part B sources the causation opinion rests on · whether it "
+           "uses <i>“unfair dismissal”</i> or <i>“bullying”</i> · whether the <i>“not for "
+           "medico-legal use”</i> footer appears.", ITEM))
 c.append(P("<b>1. The fee.</b> Confirm before instructing. The covering email asks for it. The "
            "benchmark on file is the PsychGroup indicative range of $10,000–$30,000 for a full "
            "medico-legal report; ⭐ <b>this instruction asks a narrower question than that</b>, and "
