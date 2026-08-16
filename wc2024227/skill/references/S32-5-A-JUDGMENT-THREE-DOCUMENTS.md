@@ -1970,3 +1970,50 @@ apply every replacement independently, and read the document after.**
 | Pack | **12 files, 77pp** |
 | Sixteen-term sweep across all three outgoing documents | **0** |
 | **Brackets remaining anywhere** | ⭐ **0** |
+
+---
+
+# ⛔⛔⛔ PART 35 — THE REDACTION WAS COSMETIC. FOUND THE DAY BEFORE SENDING.
+
+Cory asked whether the extract could be renamed. Checking the file to answer that question
+uncovered something far more serious.
+
+## 35.1 WHAT WAS WRONG
+**A white rectangle drawn over text HIDES it. It does not REMOVE it.** The text layer beneath was
+intact and `pdftotext` recovered all of it:
+| Recovered from the "redacted" region | |
+|---|---|
+| *"contains medical entries irrelevant to the appeal, specifically: Treatment for […] (**“Lomotil”**, p. 48)"* | the anti-diarrhoeal |
+| *"…Treatment for […] (**“Proctosedyl”**, p. 53)"* | the haemorrhoid preparation |
+| *"Pathology requests for […] (p. 50)"* · *"Prescriptions for […] and […]"* | the structure identifies the subject even where the bolded word was absent from the source's text layer |
+| ⛔⛔ *"…**hours after the Appellant lodged the PID complaint**)"* | **item 21's parenthetical — the exact reprisal linkage deliberately removed at Part 5.4** |
+
+⇒ **Anyone with a text extractor, a copy-paste, or a screen reader had every word of it.** The
+document was going to a medical practice under a Notice of Non-Party Disclosure, and from there to
+the Regulator and the employer.
+
+## 35.2 THE FIX — RASTERISE THE PAGE
+Page 3 is now **rendered to an image at 200 dpi and the image replaces the page**, so the text layer
+on that page **ceases to exist**. That is what redaction means.
+⚠ **Trade:** page 3 is no longer selectable or searchable. **That is correct** — it is what a
+properly redacted exhibit looks like. Pages 1–2 and 4–13 keep their text layer.
+
+## 35.3 VERIFICATION — WHOLE PACK, WORD-BOUNDARY MATCHED
+Every PDF in the pack tested for **Lomotil · Proctosedyl · diarrhoea · haemorrhoid · Chlamydia ·
+Viagra · Cialis · "lodged the PID" · "48 hours after"**:
+> **✅ CLEAN — no withheld term extractable from any file in the pack.**
+⭐ Page 3 extractable characters: **0**. Page 1: 837. Page 7: 1796. ⚠ One false positive resolved:
+*"Spe-**cialis**-t"* in his own 13 February 2025 report.
+
+## 35.4 ⭐⭐⭐ AND THE ANSWER TO THE QUESTION ACTUALLY ASKED
+**Renaming the file is fine — with one constraint: the word "EXTRACT" stays in the name.**
+That word is the protection. It states on the face of the filename that the document is not
+complete, which is what makes the withholding *disclosure* rather than *concealment*. The page
+carries the same notation — *"Items 26 to 31 — not provided: not relevant to the medical
+questions"* — and the two together are the answer to any suggestion that something was hidden.
+⛔ **Never rename it to anything implying completeness.**
+
+## 35.5 THE LESSON
+⭐⭐⭐ **Visual redaction is not redaction.** Every prior document in this matter built with white
+overlays should be assumed leaky until tested. ⇒ **Test: `pdftotext` the file and search for what
+was supposed to be removed.** It takes ten seconds and it is the only proof that works.

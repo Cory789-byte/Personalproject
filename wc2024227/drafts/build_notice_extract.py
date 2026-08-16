@@ -72,5 +72,38 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta.clear()
     meta["dc:title"] = "WC/2024/227 — Notice to Admit Facts and Respondent's Response (extract)"
     meta["dc:creator"] = ["Cory Lea Shepherd"]
-pdf.save(OUT, linearize=True)
-print("built", OUT, "pages:", len(pdf.pages))
+# ══════════════════════════════════════════════════════════════════════════════════════════
+# ⛔⛔⛔ REAL REDACTION — 16 August 2026.
+# A white rectangle drawn over text HIDES it; it does not REMOVE it. Verified: pdftotext on the
+# earlier build recovered "Lomotil", "Proctosedyl", the full sentence structure of items 26–31,
+# and — worse — item 21's stripped parenthetical, "…hours after the Appellant lodged the PID
+# complaint)". Anyone with a text extractor, or a copy-paste, had all of it.
+# ⇒ Page 3 is therefore RASTERISED: the page is rendered to an image and the image replaces the
+#   page, so the text layer on that page ceases to exist. That is what redaction means.
+# ⚠ Page 3 is consequently not selectable or searchable. That is the correct trade and it is what
+#   a properly redacted exhibit looks like.
+# ══════════════════════════════════════════════════════════════════════════════════════════
+import os, subprocess, tempfile, img2pdf
+
+tmp = tempfile.mkdtemp()
+staged = os.path.join(tmp, "staged.pdf")
+pdf.save(staged, linearize=True)
+pdf.close()
+
+subprocess.run(["pdftoppm", "-r", "200", "-png", "-f", "3", "-l", "3",
+                staged, os.path.join(tmp, "p")], check=True)
+png = [f for f in sorted(os.listdir(tmp)) if f.startswith("p") and f.endswith(".png")][0]
+raster_pdf = os.path.join(tmp, "raster.pdf")
+with open(raster_pdf, "wb") as fh:
+    fh.write(img2pdf.convert(os.path.join(tmp, png),
+                             layout_fun=img2pdf.get_fixed_dpi_layout_fun((200, 200))))
+
+final = pikepdf.open(staged)
+rast  = pikepdf.open(raster_pdf)
+final.pages[2] = rast.pages[0]                 # replace page 3 with its rasterised self
+with final.open_metadata(set_pikepdf_as_editor=False) as meta:
+    meta.clear()
+    meta["dc:title"] = "WC/2024/227 — Response of the Workers' Compensation Regulator (extract)"
+    meta["dc:creator"] = ["Cory Lea Shepherd"]
+final.save(OUT, linearize=True)
+print("built", OUT, "pages:", len(final.pages), "— page 3 rasterised, text layer removed")
