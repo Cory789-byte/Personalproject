@@ -815,3 +815,57 @@ assumed**. Assumed facts come only from documents the other parties wrote.
 Section A of the schedule is now headed **"ACCEPTED BY THE WORKERS' COMPENSATION REGULATOR —
 RESPONSE SIGNED BY MS RENEE MATHESON, SENIOR APPEALS OFFICER, 18 FEBRUARY 2026."**
 ⭐ **The letter and the schedule name the same person, the same office and the same date.**
+
+---
+
+# PART 18 — THE FOUR PRE-SEND ITEMS, WORKED (16 August)
+
+## 18.1 ⭐ THE PID — IN. See `THE-PID-AND-THE-DOCTOR.md` Part 5.
+Cory's decision, and the earlier objection is recorded as raised and overridden. ⛔ **But the
+proposed wording was not the accepted fact** — item 20 says a complaint **regarding Ms Taylor and
+Ms Reese** was determined a PID on **24 December 2024**. It says nothing about *substantial and
+specific danger to public health or safety*, and nothing about *Switchboard information systems*.
+⇒ The letter states the accepted fact and nothing more. **The safety element is already before him
+from item 8, which is better sourced and already quoted at 2.1.**
+
+## 18.2 ⭐⭐⭐ THE CERTIFICATE WORDING — LOCKED, AND IT WAS WRONG
+The quotation carried in both documents was *"continuation of existing arrangement … worked and
+tolerated … without deterioration."* ⛔ **Those words do not appear.** Read from the rendered
+**Employee Capability Checklist of 3 July 2026**, question 3:
+> *"This reduced pattern of approximately **six shifts per fortnight** is the pattern Mr Shepherd
+> **has in fact worked and tolerated over the past twelve months without deterioration**, and
+> maintaining rather than increasing it best supports recovery while minimising risk of
+> exacerbation. **Usual switchboard operational duties remain suitable**; complaint-handling duties
+> are excluded as below."*
+
+⭐⭐⭐ **The real wording is materially stronger than the paraphrase**, because it is specific:
+**six shifts per fortnight, twelve months, no deterioration, and the operational duties expressly
+suitable.** That is the answer to question 3.6(b) written by a doctor before the question was
+asked. **The last unverified quotation in the pack is now closed.**
+
+⭐ **And the checklist yields four more things now in the schedule at section E:**
+| | |
+|---|---|
+| **Q1** | *"Major Depressive Disorder with anxious distress (**DSM-5 296.23**), a **work-related psychological injury with onset 18 June 2024**"* · residual symptoms **reduced concentration and working memory under sustained high-demand load, fatigue sensitivity** · exacerbation on exposure to **complaint handling; being held accountable and blamed for the failures of others; unpredictable rostering** |
+| **Q2** | **Episodic**; restrictions necessary **3–6 months**; **8-weekly review** |
+| **Q4** | ⭐⭐ *"predictable rostering published in advance, with a **minimum 10-hour break between shifts consistent with the Award and fatigue risk management standards**"* — **the 10-hour figure, in a medical document** |
+| **Meds** | fluoxetine 60mg · lisdexamfetamine 30mg · quetiapine **ceased**; *"maintaining a regular sleep routine remains central to symptom management"* |
+
+⚠ **Note the lisdexamfetamine.** It is prescribed **in 2026, for cognitive symptoms**, and it does
+not contradict question 1.3(d)(ii), which asks about the medications recorded in the letter of
+**16 May 2024**. **Two different dates, two different medication lists. Do not let them be
+conflated** — and be ready for the point that a stimulant now is not a stimulant then.
+
+## 18.3 ⚠ REVIEW DECISION 69983 — STILL CORY'S CALL, AND IT IS THE ONLY THING BLOCKING
+`REVIEW_DECISION_PROVIDED` in `build_instruction_4doc.py`. **True** if it was in the 12 August
+bundle → the letter carries the direction not to adopt it and the "would your opinion differ"
+question. **False** if it was not → the document is never mentioned. Until it is set, the letter
+prints a red flag in Part B **and cannot be sent by accident.**
+
+## 18.4 ⚠ THE LENGTH OF 1.3 — ACCEPTED, AND FOR THE RIGHT REASON
+It is long and it is forensic. ⭐ **The alternative is worse.** Every entry it addresses is one the
+Regulator is relying on, and a report that has not dealt with them is impeachable at exactly the
+point the other side is aiming. **A forensic answer to a forensic attack is not a defect.**
+⚠ The one real risk is tonal — a report that reads as an audit of general-practice notes rather
+than a psychiatric opinion. **The mitigation is already in Part D(b): reason to conclusions rather
+than assert them.** ⇒ Leave the questions. Watch the register in the draft report.

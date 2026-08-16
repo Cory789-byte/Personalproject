@@ -258,10 +258,20 @@ story.append(P("<b>Already recorded, by the Regulator or by my employer:</b> the
                "implemented only after 30 June 2024, and that no consequential changes to operating "
                "procedures followed · and that the general-practice entry of 16 November 2023 "
                "appears in the records.", BODY))
+story.append(P("<b>One further matter, provided for completeness.</b> In <b>May 2024</b> I made a "
+               "complaint concerning the conduct of my line manager and the Director. On "
+               "<b>24 December 2024</b> the Ethical Standards Unit determined that the complaint "
+               "<b>constituted a Public Interest Disclosure</b>. That fact is accepted by the "
+               "Workers' Compensation Regulator. <b>I provide it as part of the occupational history "
+               "and for no other purpose.</b> I do not ask you to express any view on the merits of "
+               "the complaint, on anything that followed it, or on any connection between it and any "
+               "later event. <b>If it does not bear on your clinical opinion, please say so.</b>",
+               BODY))
+
+# ══════════════════════════════════════════════════════ PART C
 story.append(P("<b>What remains, and what I do ask you, is the clinical question: whether exposure "
                "of that kind bears on the condition you have diagnosed.</b>", BODY))
 
-# ══════════════════════════════════════════════════════ PART C
 story.append(P("PART C — THE MATTERS IN ISSUE", PART))
 story.append(P("You have been served with a Notice of Non-Party Disclosure in this proceeding. That "
                "notice states the matters in issue as follows:", BODY))
@@ -472,11 +482,13 @@ story.append(P("<b>(c)</b> whether adjustments of that kind — predictability o
                "and in particular by health services operating 24-hour services</b>; and", QQ))
 story.append(P("<b>(d)</b> whether the adjustments are <b>permanent, or temporary with a review "
                "date</b>.", QQ))
-story.append(P("I note that the certificate of capacity of 3 July 2026 at Attachment 4 records the "
-               "arrangement then in place as a <i>“continuation of existing arrangement … worked and "
-               "tolerated … without deterioration.”</i> Please take that record into account in "
-               "answering (b) and (c). <font color='#8a2010'>[CONFIRM the exact wording against the "
-               "certificate before sending]</font>", BODY))
+story.append(P("I note that the employee capability checklist of <b>3 July 2026</b> at Attachment 4 "
+               "records: <i>“This reduced pattern of approximately <b>six shifts per fortnight</b> is "
+               "the pattern Mr Shepherd <b>has in fact worked and tolerated over the past twelve "
+               "months without deterioration</b>, and maintaining rather than increasing it best "
+               "supports recovery while minimising risk of exacerbation. Usual switchboard "
+               "operational duties remain suitable; complaint-handling duties are excluded as "
+               "below.”</i> Please take that record into account in answering (b) and (c).", BODY))
 story.append(P("<b>3.7 Foreseeable risk.</b> Whether exposure to the conditions described at "
                "Attachments 2 and 3, <b>without</b> the adjustments at 3.5 and in the absence of a "
                "fatigue risk assessment, presents a foreseeable risk to my health or safety; and if "

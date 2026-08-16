@@ -90,6 +90,9 @@ s.append(T([
  [P("8", SMALL), P("<b>Maintaining accurate contact details for medical staff is a critical function "
    "of the Switchboard to ensure effective clinical handover and patient safety.</b> It adds that "
    "<i>“there was a procedure in place for this to occur.”</i>", SMALL)],
+ [P("20", SMALL), P("On <b>24 December 2024</b> the Ethical Standards Unit determined that the "
+   "appellant's complaint regarding Ms Taylor and Ms Reese <b>constituted a Public Interest "
+   "Disclosure</b>.", SMALL)],
  [P("33", SMALL), P("The clinical records contain a consultation record dated <b>16 November 2023</b> "
    "authored by Dr Priyal De Silva Nanayakkara. <i>(Accepted as being in the record; its accuracy "
    "is not accepted — see B.)</i>", SMALL)],
@@ -184,10 +187,36 @@ s.append(T([
    SMALL)],
 ], [26*mm, 140*mm]))
 
-s.append(P("E · FROM THE CERTIFICATE OF CAPACITY, 3 JULY 2026", SEC))
-s.append(P("The arrangement then in place is recorded as a <i>“continuation of existing arrangement … "
-           "<b>worked and tolerated … without deterioration</b>.”</i> <font color='#8a2010'>[CONFIRM "
-           "the exact wording against the certificate before this schedule is sent]</font>", BODY))
+s.append(P("E · FROM THE EMPLOYEE CAPABILITY CHECKLIST, 3 JULY 2026", SEC))
+s.append(P("Read from source. Quotations exact.", SMALL))
+s.append(T([
+ [P("<b>Question</b>", SMALL), P("<b>What the checklist records</b>", SMALL)],
+ [P("1", SMALL), P("<i>“<b>Major Depressive Disorder with anxious distress (DSM-5 296.23)</b>, a "
+   "<b>work-related psychological injury with onset 18 June 2024</b>… Residual symptoms most "
+   "relevant to work capacity are <b>reduced concentration and working memory under sustained "
+   "high-demand load, fatigue sensitivity</b>, and symptom exacerbation on exposure to the "
+   "identified workplace stressors (<b>complaint handling; being held accountable and blamed for "
+   "the failures of others; unpredictable rostering</b>).”</i>", SMALL)],
+ [P("2", SMALL), P("<i>“<b>Episodic</b>, with symptom exacerbation linked to stressor exposure. The "
+   "restrictions below are expected to remain necessary for at least the next <b>3–6 months</b>, "
+   "subject to treatment response and <b>8-weekly review</b>.”</i>", SMALL)],
+ [P("3", SMALL), P("<b>Six 8-hour shifts per fortnight</b> (of ten in a full-time fortnight) — no more "
+   "than two weekday day/afternoon, two weekend day, two night. ⭐ <i>“This reduced pattern of "
+   "approximately six shifts per fortnight is the pattern Mr Shepherd <b>has in fact worked and "
+   "tolerated over the past twelve months without deterioration</b>… <b>Usual switchboard "
+   "operational duties remain suitable</b>; complaint-handling duties are excluded as below.”</i>",
+   SMALL)],
+ [P("4", SMALL), P("<i>“(a) <b>No complaint-handling duties</b> — complaints received at the "
+   "Switchboard to be <b>logged and redirected</b>, not actioned or resolved by Mr Shepherd; "
+   "(b) <b>predictable rostering published in advance, with a minimum 10-hour break between shifts "
+   "consistent with the Award and fatigue risk management standards</b>; (c) return-to-work "
+   "coordination through the Injury Management team; (d) access to EAP; (e) review in approximately "
+   "8 weeks.”</i>", SMALL)],
+ [P("Meds", SMALL), P("<b>Fluoxetine 60mg mane</b> · <b>lisdexamfetamine 30mg mane</b> for cognitive "
+   "symptoms and focus · quetiapine 25mg nocte <b>ceased</b>. <i>“maintaining a regular sleep "
+   "routine remains central to symptom management following cessation of the night-time "
+   "medication.”</i>", SMALL)],
+], [17*mm, 149*mm]))
 
 doc = SimpleDocTemplate("out/SCHEDULE_OF_ASSUMED_FACTS.pdf", pagesize=A4,
                         leftMargin=20*mm, rightMargin=20*mm, topMargin=17*mm, bottomMargin=17*mm,

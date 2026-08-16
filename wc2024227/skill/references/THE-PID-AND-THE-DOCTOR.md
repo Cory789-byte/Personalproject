@@ -96,3 +96,68 @@ working notes as the PID being *closed uninvestigated*; confirm it.
 ⭐ **The proposal's instinct is right and its target is right. Only the vehicle is wrong** — and the
 substitute reaches the same clinical destination without putting a protected disclosure into the
 employer's hands in a medical document.
+
+---
+
+# ⭐⭐⭐ PART 5 — REVERSED, 16 AUGUST: THE PID GOES IN (Cory's decision)
+
+> *"the pid is admitted fact it should be in there from the reasoning … Leaving it out creates an
+> artificial incompleteness in the occupational history."*
+
+The concern at Parts 2.3–2.4 was raised and it is his call. **It goes in.** ⭐ And there is a real
+answer to my own objection: **an occupational history that omits a formally accepted disclosure is
+an incomplete history, and incompleteness is itself impeachable.** Recorded, and done.
+
+## 5.1 ⛔⛔ BUT THE PROPOSED WORDING IS NOT THE ADMITTED FACT — VERIFIED FROM SOURCE
+The proposal was to state *"an accepted PID concerning **substantial and specific danger to public
+health or safety connected with Switchboard information systems**."*
+
+> **Notice item 20, read from the rendered page:** *"On **24 December 2024**, the Ethical Standards
+> Unit (ESU) determined that the Appellant's **complaint regarding Ms. Taylor and Ms. Reese**
+> constituted a **Public Interest Disclosure (PID)** (Exhibit E3)."*
+> **Response ¶20: *"admits the facts contained therein."*** ⇒ **ACCEPTED.**
+
+⛔⛔ **The accepted fact says nothing about public health or safety, and nothing about Switchboard
+information systems.** It is a determination about **a complaint regarding two named managers**.
+⇒ **Stating the danger characterisation to a clinician, in a document that will be produced back
+to the Regulator under the notice her office served, would be an overstatement by the appellant of
+his own admitted fact.** ⭐⭐⭐ **That is far more damaging than any omission** — it is the one thing
+that converts a strong pack into an impeached one.
+
+⭐ **And the safety element is already in the pack from a better source, and already before him:**
+**item 8 — Switchboard accuracy *"critical to clinical handover and patient safety"*, accepted** —
+quoted at question 2.1. **The proposal's target is met. Its vehicle was wrong.**
+
+## 5.2 ⭐ THE SECOND THING SOURCE-CHECKING SHOWED — THE DETERMINATION IS *POST-ONSET*
+**24 December 2024 is six months after the onset of 18 June 2024.** The determination cannot bear
+on causation of onset. **What is pre-onset is the complaint itself, made in May 2024.**
+⇒ The wording in Part B2 puts the complaint in **May 2024** and the determination in **December
+2024**, in that order, so the chronology is correct on its face and no one has to reconstruct it.
+
+## 5.3 WHAT WENT IN — PART B2, VERBATIM
+> **One further matter, provided for completeness.** In **May 2024** I made a complaint concerning
+> the conduct of my line manager and the Director. On **24 December 2024** the Ethical Standards
+> Unit determined that the complaint **constituted a Public Interest Disclosure**. That fact is
+> accepted by the Workers' Compensation Regulator. **I provide it as part of the occupational
+> history and for no other purpose.** I do not ask you to express any view on the merits of the
+> complaint, on anything that followed it, or on any connection between it and any later event.
+> **If it does not bear on your clinical opinion, please say so.**
+
+⭐⭐ **The last sentence is the safety catch.** It gives him a clean exit, and it makes the inclusion
+read as completeness rather than advocacy — which is exactly what it is.
+⛔ **No question is asked about it.** It is context in Part B2, not a numbered question. A question
+would invite reasoning about consequences; a bare fact does not.
+
+## 5.4 ⭐ AND THE ATTACHMENT NOW MATCHES THE LETTER
+**Item 20 is no longer redacted from the extract.** A letter that states a fact the attachment
+blanks out is worse than either choice alone.
+⛔ **Item 21's parenthetical stays removed** — *"(48 hours after the Appellant lodged the PID
+complaint)"*. The retraction direction of 15 May 2024 remains visible; **the temporal linkage does
+not.** ⇒ **The PID is in as a bare fact. It is not in as the first element of a reprisal argument
+put to a treating psychiatrist.** That distinction is the whole of Discipline Rule 8, and it holds.
+
+## 5.5 ⚠ WHAT IS STILL TRUE FROM PART 2, AND STAYS TRUE
+The report goes to the employer, funded by the employer, while a capacity process runs. **That risk
+has not gone away — it has been accepted, deliberately, and the wording is built to minimise it:**
+no statutory language beyond the term itself, no danger characterisation, no consequence, no
+linkage, and an express invitation to say the matter does not bear on the opinion.

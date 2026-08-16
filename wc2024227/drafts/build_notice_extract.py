@@ -2,14 +2,16 @@
 """WC/2024/227 — Notice to Admit Facts, extracted for the clinician pack.
 
 Produces the full Notice (the 50 facts) together with the Respondent's Response, so the clinician
-can see what was asked and what was answered — with items 20 and 26 to 31 withheld.
+can see what was asked and what was answered — with items 26 to 31 withheld.
 
-Those items are withheld because they are LITIGATION content, not clinical content:
-  · item 20  — the Ethical Standards Unit determination (protected-disclosure territory)
-  · items 26 to 31 — the appellant's own complaint about the disclosure of intimate
-    medical particulars in the appeal
-Neither bears on diagnosis, mechanism or capacity. Each is replaced by a visible notation so the
-extract is transparent on its face and nothing appears concealed.
+Items 26 to 31 are withheld because they are the appellant's own complaint about the disclosure
+of intimate medical particulars in the appeal. They bear on nothing clinical. They are replaced by
+a visible notation so the extract is transparent on its face and nothing appears concealed.
+
+⭐ ITEM 20 (the Ethical Standards Unit determination) IS NOW INCLUDED — Cory's instruction,
+16 August. It is an accepted fact and it belongs in the occupational history.
+⛔ Item 21's parenthetical — "48 hours after the Appellant lodged the PID complaint" — REMAINS
+removed. The retraction direction of 15 May 2024 stays visible; the temporal linkage does not.
 """
 import io, pikepdf
 from reportlab.pdfgen import canvas
@@ -17,18 +19,23 @@ from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
 
 SRC = "../documents/2026-02-18_Form24_Response_and_email_communication.pdf"
-OUT = "out/ATTACHMENT_1_Notice_and_Response_EXTRACT.pdf"
+OUT = "out/ATTACHMENT_1_Regulator_Response_18Feb2026_EXTRACT.pdf"
 PH = 792.0                      # letter height, points
 
 # Bands measured from the page-3 text layer (pdftotext -bbox, y from page top).
 # Converted to reportlab coordinates (y from page bottom) at build time.
 BANDS = [
     # (x0, top_y_from_page_top, x1, bottom_y_from_page_top, label)
-    (98.0, 206.0, 470.0, 264.0,
-     "Item 20 — not provided: not relevant to the medical questions"),
+    # ⭐ Item 20 (the Ethical Standards Unit determination) is NO LONGER WITHHELD — Cory's
+    #    instruction, 16 Aug: it is an accepted fact and belongs in the occupational history.
+    #    The letter of instruction states it as a bare fact in Part B2, so the attachment must
+    #    show it; a letter that states a fact the attachment blanks out is worse than either.
     (98.0, 478.0, 470.0, 750.0,
      "Items 26 to 31 — not provided: not relevant to the medical questions"),
-    # item 21: clear line 1 and redraw it without the parenthetical
+    # ⛔ item 21 STILL has line 1 cleared and redrawn without the parenthetical. The retraction
+    #    direction stays visible; the "48 hours after the Appellant lodged the PID complaint"
+    #    linkage does not. The PID goes in as a bare fact, not as the first element of a
+    #    reprisal argument put to a treating psychiatrist.
     (103.0, 264.0, 470.0, 281.5, ""),
 ]
 
