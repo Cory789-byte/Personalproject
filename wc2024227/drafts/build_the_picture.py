@@ -63,7 +63,7 @@ s.append(T([
  [P("<b>Matter 3</b><br/>3.4–3.7", SMALL), P("Prognosis and current capacity · the adjustments in "
    "functional terms, with exacerbating conditions, complaint handling and working memory · the "
    "requirements of the position in four parts · foreseeable risk", SMALL)],
- [P("Closing", SMALL), P("⭐ Whether the opinion <b>depends on his account</b> · ⭐ whether anything "
+ [P("Closing", SMALL), P("Whether the opinion <b>depends on his account</b> · whether anything "
    "in the records <b>qualifies</b> it", SMALL)],
 ], [26*mm, 140*mm]))
 
@@ -92,11 +92,11 @@ s.append(T([
  [P("8 exacerbating tasks and environments", SMALL), P("3.5(a)", SMALL), P("ok", SMALL)],
  [P("9 if we cannot accommodate", SMALL), P("—", SMALL), P("declined", SMALL)],
 ], [72*mm, 66*mm, 28*mm]))
-s.append(P("⭐⭐⭐ <b>1(c) is the one that pays.</b> They offered three options — self-report, his own "
+s.append(P("<b>1(c) is the one that pays.</b> They offered three options — self-report, his own "
            "assessment, or other medical information. <b>The answer is a fourth: documents authored by "
            "the employer and facts admitted by the Regulator.</b> They wrote the question that "
            "produces it.", NOTE))
-s.append(P("⚠ <b>The three declined are the three that could hurt</b> — all workplace questions "
+s.append(P("<b>The three declined are the three that could hurt</b> — all workplace questions "
            "dressed as medical ones. Part D declines them expressly and offers to say so if asked.", NOTE))
 
 s.append(PageBreak())
@@ -106,14 +106,14 @@ s.append(P("<b>What it is:</b> a treating psychiatrist's report, obtained by the
            "the matters in issue in his proceeding, and provided to his employer in answer to its "
            "request for medical information. <b>One report, two recipients, two purposes, both "
            "declared.</b>", BODY))
-s.append(P("<b>Funded by Metro South Health</b>, which required the information. ⭐ That makes the "
+s.append(P("<b>Funded by Metro South Health</b>, which required the information. That makes the "
            "causation opinion harder to attack, not easier — it cannot be said to have been bought by "
-           "him. ⚠ It is <b>instructed by him and addressed to him</b>; the covering email states both "
+           "him. It is <b>instructed by him and addressed to him</b>; the covering email states both "
            "on its face.", BODY))
 s.append(T([
  [P("<b>To</b>", SMALL), P("<b>The covering note does</b>", SMALL)],
- [P("<b>The Regulator</b>", SMALL), P("⭐ <b>One line.</b> Continuing disclosure, and that the same "
-   "report has gone to the employer. ⛔ No argument, no commentary, no request — a report argues for "
+ [P("<b>The Regulator</b>", SMALL), P("<b>One line.</b> Continuing disclosure, and that the same "
+   "report has gone to the employer. No argument, no commentary, no request — a report argues for "
    "itself, and anything added subtracts from it", SMALL)],
  [P("<b>The employer</b>", SMALL), P("It answers the request of 31 July · <b>the scope line</b>, "
    "identifying which questions are workplace rather than medical · <b>their own policy</b> — "
@@ -121,25 +121,25 @@ s.append(T([
    "the ask: implement the adjustments, restore pay · the 3 August questions, folded in · and that "
    "the Regulator holds the same report", SMALL)],
 ], [30*mm, 136*mm]))
-s.append(P("<b>Sent simultaneously.</b> No sequencing inference available to anyone. ⭐⭐ And each is "
+s.append(P("<b>Sent simultaneously.</b> No sequencing inference available to anyone. And each is "
            "told the other holds the identical document — one sentence that forecloses any suggestion "
            "of two versions or selective provision.", BODY))
 
 s.append(P("PART 4 — WHAT IT CHANGES", PART))
 s.append(T([
- [P("", SMALL), P("<b>No report</b>", SMALL), P("<b>⭐ With it</b>", SMALL)],
+ [P("", SMALL), P("<b>No report</b>", SMALL), P("<b>With it</b>", SMALL)],
  [P("Appeal resolves favourably", SMALL), P("30%", SMALL), P("<b>62%</b>", SMALL)],
  [P("Pay restored / return ~3 months", SMALL), P("30%", SMALL), P("<b>51%</b>", SMALL)],
  [P("<b>Neither outcome</b>", SMALL), P("<b>49%</b>", SMALL), P("<b>20%</b>", SMALL)],
 ], [80*mm, 43*mm, 43*mm]))
-s.append(P("⚠ <b>Structured judgement, not measurement.</b> Read the movement, not the decimals.", SMALL))
+s.append(P("<b>Structured judgement, not measurement.</b> Read the movement, not the decimals.", SMALL))
 s.append(P("<b>On the appeal:</b> it moves from <i>unproved on causation</i> to <i>proved on the "
            "medical, contested on the characterisation</i> — the only contest the Regulator has left, "
            "and the one where the Chief Executive's letter hurts her. <b>On the employment track:</b> "
            "it removes <i>“we cannot accommodate”</i> and puts the adjustments into a framework whose "
            "onus is theirs.", BODY))
 
-s.append(P("PART 5 — ⚠ WHAT IT STILL DOES NOT DO", PART))
+s.append(P("PART 5 — WHAT IT STILL DOES NOT DO", PART))
 s.append(P("1. <b>It does not decide the appeal.</b> s 32(5)(a) remains argument on an agreed factual "
            "base, and Taylor and Reese have not given oral evidence.<br/>"
            "2. <b>It does not reach the 2026 wages.</b> Only the employment track does — and the "
@@ -147,7 +147,7 @@ s.append(P("1. <b>It does not decide the appeal.</b> s 32(5)(a) remains argument
            "3. <b>It may not say what is hoped.</b> He declined once already. The instruction asks him "
            "to say where the material is insufficient rather than qualify — so a <i>“cannot say”</i> "
            "returns as a clean answer, not a damaged one.<br/>"
-           "4. ⚠ <b>Question 3.6 is still short of its best evidence</b> — the three movement forms and "
+           "4. <b>Question 3.6 is still short of its best evidence</b> — the three movement forms and "
            "the April 2025 call statistics are not in the pack.", BODY))
 
 doc = SimpleDocTemplate("out/THE_PICTURE_report_answers_positioning.pdf", pagesize=A4,

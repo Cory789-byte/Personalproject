@@ -47,11 +47,11 @@ def P(t, s=B): return Paragraph(t, s)
 d = []
 d.append(P("SIMULATED REPORT — NOT A REAL DOCUMENT", H1))
 d.append(P("WC/2024/227 · built 16 August 2026 to stress-test the letter of instruction", SM))
-d.append(P("⛔⛔⛔ <b>THIS IS A SIMULATION.</b> It was written to predict what the treating "
+d.append(P("<b>THIS IS A SIMULATION.</b> It was written to predict what the treating "
            "psychiatrist would plausibly produce in answer to the current instruction, so that the "
            "instruction could be tested before it is sent. <b>It is not from Dr Krishnaiah, it has "
            "no clinical status, and it must never be sent to the practice, to the employer or to "
-           "the Regulator.</b> Three passages are marked ⚠ because they would <b>hurt</b> — they are "
+           "the Regulator.</b> Three passages are marked because they would <b>hurt</b> — they are "
            "included deliberately, since a mock that produces only helpful text tests nothing.", WARN))
 
 d.append(P("MIND AND MEMORY SERVICE — PSYCHIATRIC REPORT", H2))
@@ -91,7 +91,7 @@ d.append(P("Adjustment disorder with mixed anxiety and depressed mood was consid
            "disorder excluded — no two-year prodrome is evidenced. Bipolar disorder excluded: no "
            "history of hypomania or mania. PTSD excluded: no criterion A event and no intrusive "
            "re-experiencing phenomena. Primary sleep disorder considered given the pre-2024 "
-           "sleep-related presentations and is discussed at 1.3(d) below; in my opinion the sleep "
+           "sleep-related presentations and is discussed at 1.3 below; in my opinion the sleep "
            "disturbance is shift-work related and, latterly, a feature of the depressive illness "
            "rather than a separate primary disorder. Substance-related disorder excluded.", B))
 
@@ -189,7 +189,7 @@ d.append(P("Letter of instruction and schedule of assumed facts; Attachment 1 (R
            "2026); Notice of Non-Party Disclosure sealed 4 July 2025. Persons seen: Mr Shepherd on "
            "the dates listed above; his partner on 24 October 2024. Collateral history was obtained "
            "independently from his mother by telephone on 11 December 2024.", B))
-d.append(P("⭐ <b>WHAT THIS SECTION IS WORTH.</b> 1.5 is the Review Decision safeguard doing its "
+d.append(P("<b>WHAT THIS SECTION IS WORTH.</b> 1.5 is the Review Decision safeguard doing its "
            "work — the list is complete and 69983 is not in it. And the collateral from his mother, "
            "obtained independently, is a direct answer to the employer's question 1(c) that does not "
            "depend on the patient at all.", FLAG))
@@ -326,7 +326,7 @@ d.append(P("Prognosis is <b>guarded but favourable for work capacity</b>. The il
            "is attributable to being away from the workplace without income since 3 July 2026 rather "
            "than to the condition's natural course. Removal from work is not therapeutic in this "
            "presentation; occupation with adjustment is.", B))
-d.append(P("⚠ <b>WATCH THIS ONE.</b> <i>“his presentation on 12 August 2026 was worse”</i> is true "
+d.append(P("<b>WATCH THIS ONE.</b> <i>“his presentation on 12 August 2026 was worse”</i> is true "
            "and it is properly explained — but the sentence as written could be lifted from its "
            "context. It is not raisable on a facts-only review. It is a reason to expect the "
            "employer to quote it.", FLAG))
@@ -422,7 +422,7 @@ d.append(P("<b>(a)</b> I have answered under the numbering in the letter of inst
            "the pre-2024 sleep presentations and the attention deficit history; I have addressed "
            "both at 1.3 and neither alters my conclusion. <b>(f)</b> The opinions expressed are my "
            "own.", B))
-d.append(P("⚠⚠ <b>AND THE TWO THAT WOULD HURT, IF HE WROTE THEM.</b> Neither appears above, and "
+d.append(P("<b>AND THE TWO THAT WOULD HURT, IF HE WROTE THEM.</b> Neither appears above, and "
            "both are plausible from his 2025 register: <b>(1)</b> <i>“Mr Shepherd remains heavily "
            "engaged in the preparation of his legal matters, which continues to occupy him and to "
            "affect his sleep.”</i> — an incapacity marker, and s 32(5)(c) territory. <b>(2)</b> "
