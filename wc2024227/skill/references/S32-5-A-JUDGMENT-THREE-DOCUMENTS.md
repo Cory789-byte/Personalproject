@@ -938,3 +938,70 @@ will.** Added at the close of Part D:
 ⭐⭐⭐ **AND THE HONEST ASSESSMENT OF WHAT IS LEFT AFTER THE REPORT LANDS:** the residual risk is
 **the legal characterisation of admitted management action under s 32(5)(a)** — not a deficiency
 in the medical foundation. ⇒ **That is Part 1 of this file, and it is the ground we chose.**
+
+---
+
+# PART 20 — STREAMLINED FOR THE CLINICIAN'S TIME (16 August). THREE TRIMS TAKEN, ONE REDESIGNED.
+
+## 20.1 ⭐ 1.3 FLATTENED — one level, eight questions, nothing lost
+Was a **two-level tree of twelve asks** — (a) with (i)(ii)(iii), (b), (c), (d) with (i)(ii)(iii),
+(e), (f). Now **eight lettered questions at one level**, shorter stems.
+
+⚠ **And the reason the structure was kept rather than collapsed into prose:** an unnumbered
+composite prompt does not reduce the clinical work — it reduces the **guarantee that each element
+is answered**. A doctor answering a numbered list answers the list; a doctor answering a paragraph
+writes a paragraph, and the element that gets dropped is the one that mattered.
+⭐ **The saving is in words, not in structure.** Same guarantee, less to read.
+
+## 20.2 ⭐ PART B2's "ALREADY RECORDED" LIST — CUT TO ONE SENTENCE
+It duplicated the schedule and invited him to feel he had to restate every item. It now names the
+categories and points at the schedule: *"The enclosed schedule sets each out by source; you are not
+asked to find any of them."*
+
+## 20.3 ⭐ THE PROTECTIVE INSTRUCTION NOW APPEARS ONCE, AND IN THE RIGHT PLACE EACH TIME
+| | |
+|---|---|
+| **Part B** | **non-adoption** — *"do not adopt … any conclusion, characterisation or finding of any other decision-maker. Your opinion is yours alone."* |
+| **Part D** | **scope** — no view on reasonableness of management action, on accommodation, or on any reporting line or person |
+
+The reasonableness sentence was in both. It is now in Part D only, where a doctor looks for scope.
+⭐ **Repetition does not add protection; it adds length and it dilutes.**
+
+## 20.4 ⛔⛔ THE FOURTH TRIM — REDESIGNED, AND THIS ONE MATTERS
+**The proposal:** *"state whether you agree with the functional restrictions recorded there or
+whether any change is clinically indicated."*
+
+⛔ **Not taken as proposed. Two reasons, and the second is serious:**
+1. **It is adopting another clinician's conclusions** — precisely what Part B forbids. An opposing
+   expert says the psychiatrist rubber-stamped a general practitioner's checklist.
+2. ⛔⛔ **It hands MSH the restrictions as *this psychiatrist's own* without his having reasoned to
+   them** — *no complaint handling*, *no more than two night shifts*. ⭐⭐⭐ **Those are the two
+   restrictions most usable in an inherent-requirements or medical-separation argument, and a
+   rubber-stamped restriction is far weaker to defend than an independently reasoned one.**
+
+⭐⭐ **What was taken instead — the same saving, none of the risk.** A sentence before 3.5:
+> *"The functional record is already in Attachment 4 — the employee capability checklist of
+> 3 July 2026 sets out the pattern of work actually performed and the restrictions then in place.
+> **You may take that record as established and need not reconstruct it.** What I ask for at 3.5
+> and 3.6 is your own opinion."*
+
+⇒ ⭐⭐⭐ **The FACTS are established for him. The OPINION stays his.** That is the whole distinction,
+and it is the same distinction the entire instruction is built on.
+
+## 20.5 ⭐ ON ADHD AND ANXIETY — CORY'S CONFIRMATION, AND WHY 1.3(a) IS LEFT AS IT IS
+> *"anxiety is not diagnosed it is a note and adhd is clinically diagnosed so that is fine leave it"*
+
+⭐⭐⭐ **1.3(a) is written open, in respect of *each*, precisely so it produces that split from the
+clinician rather than from the appellant:**
+| | ⇒ |
+|---|---|
+| **ADHD — a diagnosis** | ⭐ **necessary.** The vulnerability argument at 1.3(c) requires a real condition. You cannot be vulnerable by reason of ADHD unless you have ADHD |
+| **Anxiety — a note** | ⭐ **defeats the pre-existing psychiatric illness point**, in the clinician's words, not ours |
+
+⇒ **The question must stay open to be worth anything.** If it told him the answer it would be
+worthless; asked open, **the answer comes back as his own finding and is unattackable.**
+
+## 20.6 THE STATE OF THE LETTER
+**6pp.** No decision flags · no unverified quotations · no pleading language · one bracket, the
+date. ⭐ **Same substance, fewer words, and the one trim that would have cost something was not
+taken.**
