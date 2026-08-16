@@ -2017,3 +2017,63 @@ questions"* — and the two together are the answer to any suggestion that somet
 ⭐⭐⭐ **Visual redaction is not redaction.** Every prior document in this matter built with white
 overlays should be assumed leaky until tested. ⇒ **Test: `pdftotext` the file and search for what
 was supposed to be removed.** It takes ten seconds and it is the only proof that works.
+
+---
+
+# PART 36 — "IS IT NOT BETTER THAN THIS?" — THE BAND, AND A CORRECTION (17 August)
+
+## 36.1 THE HONEST ANSWER IS A RANGE, NOT A NUMBER
+Computed analytically across 400,000 parameter draws:
+| 10th | 25th | **MEDIAN** | 75th | 90th | **P(>50%)** |
+|---|---|---|---|---|---|
+| **50%** | **56%** | **62%** | **68%** | **73%** | **90%** |
+
+⇒ **"50 to 73, most likely around 62, and on nine parameter draws in ten the appeal is more likely
+than not."** ⭐ The repo's own block model at **68% sits inside that band, at the 75th percentile** —
+so the two models were never really in conflict; one reported a mean and the other a reconciled
+central case.
+
+## 36.2 ⛔ AND IT CAUGHT ME OVERSTATING THE MECHANISM LEVER
+Part 4 of the full-picture document said naming the mechanism at 3.3 was *"a 20-point swing on the
+block that decides the appeal."*
+⇒ **True of the node. False of the outcome.**
+| | |
+|---|---|
+| The **node** — s 32(5)(a) | 51% → **71%** ✔ twenty points |
+| The **appeal outcome** | 56% → **64%** — about **eight** points |
+| Correlation with the outcome | **r = 0.09** — the lowest of the six inputs |
+
+**The effect is diluted through the settlement path and through causation, both of which sit
+upstream of it.** ⭐ It remains the second-largest thing within reach — but it is not twenty points
+and it should not have been described that way. **Corrected on the face of the document at 4.2.**
+
+## 36.3 ⭐⭐⭐ AND THE FINDING THAT MATTERS MORE THAN THE NUMBER
+| Input | r |
+|---|---|
+| ⭐ **Causation supported** | **0.69** |
+| Report obtained | 0.42 |
+| **Settlement** | **0.40** |
+| s 32(5)(a) given a named mechanism | 0.37 |
+| Mechanism named | 0.09 |
+
+⭐⭐⭐ **Causation is the gate, not the exclusion.** Everything is conditional on it, and once the
+instruction is sent it is almost entirely out of his hands. ⇒ **That is the strongest argument for
+the draft review that exists** — it is the only remaining point of contact with the node that
+dominates the model.
+⭐⭐ **And settlement (0.40) outranks the exclusion contest.** It runs on the employer's appetite,
+not the Regulator's change of mind. ⇒ **The covering note to Metro South and the 24 August record
+are worth as much as anything in the medical pack.**
+
+## 36.4 THE LADDER
+| | Appeal |
+|---|---|
+| Mechanism not named **and** a damaging sentence lands | **43%** |
+| Mechanism not named | 56% |
+| **As modelled** | **62%** |
+| Mechanism named with certainty | 64% |
+| + report clean | 68% |
+| + the employer moves | 71% |
+| **All three hinges favourable** | **76%** |
+
+⇒ **Yes, it can be better — 76% is a real ceiling.** ⚠ **But two of the three hinges are his and the
+third is theirs, and the third is worth the most.**

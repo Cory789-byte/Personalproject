@@ -309,7 +309,56 @@ d.append(P("<b>THE MODELLING CORRECTION, STATED OPENLY.</b> The 16 August run pr
            "node was not moved to improve the answer — the dependency was always real and modelling "
            "it as independent understated the outcome.</b>", FL))
 
-d.append(P("4.1 What moves the numbers most, in order", H3))
+d.append(P("4.1 THE BAND — because a single figure is the wrong thing to look at", H3))
+d.append(P("The model carries its own parameter uncertainty. Collapsing it to one number hides that. "
+           "Computed analytically across 400,000 parameter draws, the appeal outcome is:", B))
+d.append(T([
+ [P("<b>10th</b>", SM), P("<b>25th</b>", SM), P("<b>MEDIAN</b>", SM), P("<b>75th</b>", SM),
+  P("<b>90th</b>", SM), P("<b>P(&gt;50%)</b>", SM)],
+ [P("<b>50%</b>", SM), P("<b>56%</b>", SM), P("<b>62%</b>", SM), P("<b>68%</b>", SM),
+  P("<b>73%</b>", SM), P("<b>90%</b>", SM)],
+], [27*mm, 27*mm, 30*mm, 27*mm, 27*mm, 28*mm]))
+d.append(P("<b>The honest statement is not “62%”. It is: 50 to 73, most likely around 62, and on "
+           "nine parameter draws in ten the appeal is more likely than not.</b> The repo's own "
+           "block model at 68% sits inside that band, at the 75th percentile.", B))
+
+d.append(P("4.2 What actually drives it — and a correction", H3))
+d.append(T([
+ [P("<b>Input</b>", SM), P("<b>r with outcome</b>", SM), P("", SM)],
+ [P("<b>Causation supported</b>", SM), P("<b>0.69</b>", SM),
+  P("Everything is conditional on it. <b>This, not the exclusion, is the gate</b>", SM)],
+ [P("Report obtained at all", SM), P("0.42", SM), P("Now largely settled — funding closed", SM)],
+ [P("Settlement", SM), P("0.40", SM), P("Runs on the employer's appetite, not the Regulator's", SM)],
+ [P("s 32(5)(a) where the mechanism is named", SM), P("0.37", SM), P("The contest, as expected", SM)],
+ [P("<b>Mechanism named at 3.3</b>", SM), P("<b>0.09</b>", SM),
+  P("⇒ <b>I overstated this.</b> See below", SM)],
+], [62*mm, 26*mm, 78*mm], shade=(1,5)))
+d.append(P("<b>CORRECTION.</b> Part 4 above says naming the mechanism is <i>“a 20-point swing on the "
+           "block that decides the appeal”</i>. <b>That is true of the node and false of the "
+           "outcome.</b> The node moves 51% → 71%; the appeal moves <b>56% → 64%</b>, about eight "
+           "points, because the effect is diluted through the settlement path and through causation. "
+           "<b>It is still the second-largest thing that is within reach — but it is not twenty "
+           "points and it should not have been described as such.</b>", FL))
+
+d.append(P("4.3 The ladder — what each hinge is worth", H3))
+d.append(T([
+ [P("<b>Scenario</b>", SM), P("<b>Appeal</b>", SM)],
+ [P("Mechanism <b>not</b> named, and a damaging sentence lands", SM), P("<b>43%</b>", SM)],
+ [P("Mechanism not named", SM), P("56%", SM)],
+ [P("<b>As modelled</b>", SM), P("<b>62%</b>", SM)],
+ [P("Mechanism named with certainty", SM), P("64%", SM)],
+ [P("+ report clean of any damaging sentence", SM), P("68%", SM)],
+ [P("+ the employer moves, so settlement is likelier", SM), P("71%", SM)],
+ [P("<b>All three hinges favourable</b>", SM), P("<b>76%</b>", SM)],
+], [128*mm, 38*mm], shade=(3,7)))
+d.append(P("<b>So: is it better than 62%? It can be — 76% is a real ceiling, not an optimistic "
+           "one.</b> But the route there is three things, and only two of them are yours: catch the "
+           "damaging sentence on the draft, and get the mechanism named. <b>The third — whether the "
+           "Health Service moves — is theirs, and it is worth more than either.</b> ⇒ Which is why "
+           "the 24 August record and the covering note to the employer matter as much as anything in "
+           "the medical pack.", FL))
+
+d.append(P("4.4 What moves the numbers most, in order", H3))
 d.append(T([
  [P("<b>Action</b>", SM), P("<b>Why</b>", SM)],
  [P("<b>Catch the damaging sentence on the draft</b>", SM),
