@@ -75,12 +75,15 @@ c.append(P("⛔⛔ <b>INTERNAL. This page never goes to the practice, to the emp
            "Regulator.</b> Everything else in the pack is written to be produced; this is not.", WARN))
 
 c.append(P("BEFORE ANYTHING IS SENT", SEC))
-c.append(P("<b>1. Was Review Decision 69983 put in front of him on 12 August 2026?</b><br/>"
-           "⭐ If <b>no</b> — send as it stands.<br/>"
-           "⛔ If <b>yes</b> — two lines must be added to the instruction before sending: an express "
-           "direction not to adopt any finding, characterisation or conclusion in it; and a question "
-           "whether his opinion would differ if he disregarded it entirely. <b>Unaddressed, it is "
-           "the first thing an opposing expert will find.</b>", ITEM))
+c.append(P("<b>1. Was Review Decision 69983 put in front of him on 12 August 2026?</b> This is now "
+           "a switch in the build script — <b>set REVIEW_DECISION_PROVIDED in "
+           "build_instruction_4doc.py and rebuild</b>. Until it is set, the letter prints a red flag "
+           "in Part B and cannot be sent by accident.<br/>"
+           "⭐ If <b>no</b> — set False; the document is not mentioned at all.<br/>"
+           "⛔ If <b>yes</b> — set True; the letter then carries an express direction not to adopt "
+           "any finding, characterisation or conclusion in it, and asks whether his opinion would "
+           "differ if he disregarded it entirely. <b>Unaddressed, it is the first thing an opposing "
+           "expert will find.</b>", ITEM))
 c.append(P("<b>2. The fee.</b> Confirm before instructing. The covering email asks for it. The "
            "benchmark on file is the PsychGroup indicative range of $10,000–$30,000 for a full "
            "medico-legal report; ⭐ <b>this instruction asks a narrower question than that</b>, and "
@@ -90,28 +93,37 @@ c.append(P("<b>3. The practice footer.</b> The report of 13 February 2025 carrie
            "appears on this report it is compromised on its face.</b> The covering email raises it; "
            "confirm it has been understood.", ITEM))
 c.append(P("<b>4. Insert the date</b> in the instruction where marked.", ITEM))
+c.append(P("<b>5. ⭐ Confirm the certificate of capacity wording of 3 July 2026.</b> The phrase "
+           "<i>“continuation of existing arrangement … worked and tolerated … without "
+           "deterioration”</i> is quoted twice — in the schedule and at question 3.6. It is the "
+           "last unverified quotation in the pack. <b>Read it from the certificate before "
+           "sending.</b>", ITEM))
+c.append(P("<b>6. ⚠ The records span 1 January 2023 to 1 July 2024</b> — verified from the face of "
+           "the export. The letter now says so and invites him to ask for more. ⛔ <b>Do not "
+           "represent the records as complete for any wider period</b>, and note that the month of "
+           "first presentation (1 July – 1 August 2024) is outside the production.", ITEM))
 
 c.append(P("STILL MISSING FROM THE PACK — AND WHY IT MATTERS", SEC))
-c.append(P("<b>5. ⭐⭐ The three movement forms</b> — reduced hours approved by the Director on "
+c.append(P("<b>7. ⭐⭐ The three movement forms</b> — reduced hours approved by the Director on "
            "27.02.2026, 17.04.2026 and 09.06.2026. <b>Without them, question 3.6 (inherent "
            "requirements) cannot be answered safely</b>, because the role description makes 24/7 shift "
            "work mandatory. They are the employer's own documents and they prove the adjustment was "
            "granted three times and operated.", ITEM))
-c.append(P("<b>6. ⭐ The April 2025 individual monthly statistics</b> — 269 to 444 calls per shift at "
+c.append(P("<b>8. ⭐ The April 2025 individual monthly statistics</b> — 269 to 444 calls per shift at "
            "about 29% of full time. Without them the clinician cannot address why reduced hours did "
            "not reduce intensity, and <i>“he kept working for fourteen months”</i> goes unanswered.", ITEM))
-c.append(P("<b>7. ⚠ Who is performing the duties, which shifts, from when</b> — in writing. Currently "
+c.append(P("<b>9. ⚠ Who is performing the duties, which shifts, from when</b> — in writing. Currently "
            "colleague report only. Load-bearing for 3.6 and for the employer's accommodation "
            "question.", ITEM))
 
 c.append(P("SEQUENCING", SEC))
-c.append(P("<b>8. ⭐⭐ Serve the AO3 role description on the Regulator as continuing disclosure "
+c.append(P("<b>10. ⭐⭐ Serve the AO3 role description on the Regulator as continuing disclosure "
            "BEFORE the report is commissioned.</b> She does not hold it — the amended List of "
            "Documents has 52 items and no role description of any kind. If the report relies on a "
            "document she has never seen, it surfaces through an expert rather than through "
            "disclosure. ⛔ <b>Serve the document, not its provenance:</b> no mention of the request "
            "for medical information, the exclusion, or 31 July 2026.", ITEM))
-c.append(P("<b>9. ⚠ Assume everything sent to the practice is produced to the Regulator</b> under the "
+c.append(P("<b>11. ⚠ Assume everything sent to the practice is produced to the Regulator</b> under the "
            "notice it holds. That is why the instruction and the covering email carry no strategy, no "
            "characterisations, and nothing from the parallel tracks.", ITEM))
 

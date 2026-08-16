@@ -46,17 +46,20 @@ s.append(T([
  [P("Opening", SMALL), P("First seen <b>24 October 2024</b>, continuous care since; what he "
    "reviewed; what he was instructed to assume", SMALL)],
  [P("<b>Matter 1</b><br/>1.1–1.5", SMALL), P("Diagnosis, framework, criteria met and when · onset · "
-   "differentials excluded · background including the 16 November 2023 entry and any earlier "
-   "anxiety or stimulant material · premorbid features from his own assessment · the complete "
-   "source list", SMALL)],
- [P("<b>Matter 2</b><br/>2.1–2.2", SMALL), P("The conditions of the work and fatigue, quoted from "
-   "the role description and the Chief Executive's letter — whether and how such conditions can "
-   "contribute · the rostering of 17–18 March 2024, with the MET calls and the leave of 19 March",
-   SMALL)],
- [P("<b>Matter 3</b><br/>3.1–3.3", SMALL), P("Causation — <b>a significant contributing factor</b> "
-   "· the March-to-June interval answered as a continuing exposure · other factors placed in time "
-   "from his own file, with the partner present and protective on 24 October and the breakdown "
-   "running December to February", SMALL)],
+   "differentials excluded · background: the 16 November 2023 entry <i>and the temazepam "
+   "prescribed the same day</i>, and the respondent's asserted 2022 anxiety and ADHD history, which "
+   "is outside the span of the records he holds · premorbid features from his own assessment · the "
+   "complete source list", SMALL)],
+ [P("<b>Matter 2</b><br/>2.1–2.3", SMALL), P("The conditions of the work, quoted from the role "
+   "description and the Chief Executive's letter — whether and how such conditions can contribute · "
+   "fatigue and the rostering of 17–18 March 2024, with the MET calls and the leave of 19 March · "
+   "<b>the administrative sequence</b>: the August 2023 rostering error, the February 2024 leave "
+   "decline where the attachments were in fact present, and the May 2024 pay correction", SMALL)],
+ [P("<b>Matter 3</b><br/>3.1–3.3", SMALL), P("<b>Reasoning before conclusion.</b> Other factors "
+   "placed in time from his own file — the partner present and protective on 24 October, the "
+   "breakdown running December to February, and bereavement dated at last · then the interval, "
+   "answered as a continuing exposure · <b>then</b> causation, expressly built on both: "
+   "<b>a significant contributing factor</b>", SMALL)],
  [P("<b>Matter 3</b><br/>3.4–3.7", SMALL), P("Prognosis and current capacity · the adjustments in "
    "functional terms, with exacerbating conditions, complaint handling and working memory · the "
    "requirements of the position in four parts · foreseeable risk", SMALL)],
@@ -73,7 +76,7 @@ s.append(P("<b>The Request for Medical Information</b> asks nine questions. <b>S
 s.append(T([
  [P("<b>RFMI</b>", SMALL), P("<b>Answered by</b>", SMALL), P("", SMALL)],
  [P("1(a) diagnosis date", SMALL), P("1.1", SMALL), P("✔", SMALL)],
- [P("1(b) clinical basis for the stressors", SMALL), P("2.1 + 3.1", SMALL), P("✔", SMALL)],
+ [P("1(b) clinical basis for the stressors", SMALL), P("2.1–2.3 + 3.3", SMALL), P("✔", SMALL)],
  [P("<b>1(c) self-report, own assessment, or other?</b>", SMALL),
   P("<b>Part B + the closing statement</b>", SMALL), P("⭐", SMALL)],
  [P("1(d) foreseeable risk and controls", SMALL), P("3.7", SMALL), P("✔", SMALL)],

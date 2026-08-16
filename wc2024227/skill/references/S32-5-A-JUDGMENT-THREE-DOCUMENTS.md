@@ -279,3 +279,92 @@ Notice ¶47 is denied — *"Ms Taylor needed confirmation from payroll"*. ¶¶40
 ⇒ **Run the two emails and the interval between them. Do not run "she had already been in
 possession", which is denied and invites the answer.** The instruction of 3 May and the statement
 of 21 May are both on the record; **the eighteen days between them require no adjective.**
+
+---
+
+# PART 10 — THE INSTRUCTION, REBUILT 16 AUGUST: WHAT MOVED AND WHY
+
+Six passes over the letter of instruction. `drafts/out/INSTRUCTION_Krishnaiah_4DOC_DRAFT.pdf`,
+5pp. The defects found and cured, in order of how much they would have cost.
+
+## 10.1 ⛔⛔ THE 26 OCTOBER 2022 QUESTION ASKED FOR SOMETHING HE DOES NOT HOLD
+The old 1.3 asked him to address *"earlier entries referring to anxiety, attention deficit
+features or stimulant prescribing."*
+> Verified from the face of the export: ***"Subpoena generated using the following date range:
+> 01/01/2023 to 01/07/2024."***
+
+⇒ **Those entries were never within the notice's scope and are not in his attachment.** An
+instruction that asks an expert to address material he was not given is an instruction that
+produces either silence or invention. ⭐ **1.3(b) now tells him what the respondent asserts, tells
+him the span of what he holds, and asks him to say whether he needs the earlier records.** That
+converts a hidden hole into a documented one — and it is the respondent's own assertion that will
+have to be proved.
+
+## 10.2 ⭐⭐ AND A FACT FOUND IN HIS OWN ATTACHMENT WHILE CHECKING IT
+**16/11/2023 — Dr P. Nanayakkara — Temazepam 10mg nocte prn (qty 25); Melatonin 5mg MR.**
+**The same date as the *"No psychological illness such as depression/ psychosis"* entry.**
+
+⚠ **An opposing expert will find that in ten seconds.** A report that has not dealt with it is a
+report with a hole at exactly the point the respondent is aiming. ⭐ **1.3(a) now puts it to him
+directly** — the entry, its unadmitted accuracy, the prescribing on the same day, and sleep
+prescribing in a shift worker at that time.
+⭐⭐ **Note what it also is:** sleep medication, in a night-shift worker, three months after the
+August 2023 rostering error and two days after the manager's email of 14 November 2023 about shift
+and break compliance (SOFC ¶13(f)). **It is not only a risk. It is contemporaneous evidence of
+sleep disturbance in the fatigue strand — but it is his to characterise, not ours.**
+
+## 10.3 ⭐⭐⭐ THE BREAK NO LONGER RESTS ON A CONTESTED PREMISE
+Old 2.2: *"a rostered break of 7 hours against a 10-hour minimum."* ⛔ The 10-hour figure is
+contested. **2.2 now states both figures and the respondent's own words** — *"by only a 7-hour
+break (rather than an 8-hour break) … a result of human error"* — and adds one line:
+**on either figure, the break was shorter than the minimum.**
+⇒ The clinician's premise is now one the respondent cannot attack, because the respondent wrote it.
+
+## 10.4 ⛔ THE MARCH BREAK WAS DESCRIBED IN AUGUST 2023's WORDS
+Old 2.2 attributed *"a rostering error accidentally made"* to the March 2024 break. **It is Reese's,
+7 August 2023, about a different error.** ⭐ Both now appear, correctly dated — and the correction
+produced **a new question 2.3**, which is the better one anyway.
+
+## 10.5 ⭐⭐⭐ THE NEW QUESTION 2.3 — THE SEQUENCE, NOT THE INCIDENT
+Three admitted or asserted administrative failures, in the respondent's own documents:
+| | | |
+|---|---|---|
+| **Aug 2023** | Director's email: *"a rostering error that was accidentally made … with regards to night shifts"* | admitted |
+| **20–27 Feb 2024** | leave declined for a missing attachment when *"in fact, the attachments were present"* — *"human error"* | the respondent's own averment |
+| **3–28 May 2024** | payroll instruction to correct his shifts; correction submitted 25 days later | admitted |
+
+**2.3 asks whether a sequence of that kind bears differently on the condition than a single
+isolated event, and by what mechanism.**
+⚠⚠ **AND THE DISCIPLINE THAT KEEPS IT SAFE:** it is framed as **repeated administrative error
+affecting rostering, leave and pay in a role with no fatigue assessment** — a *condition of the
+work*. ⛔ **It is not framed as a course of management conduct.** That distinction is the whole
+of the *Delaney* exposure, and the question is written on the right side of it.
+
+## 10.6 ⭐⭐ MATTER 3 NOW REASONS BEFORE IT CONCLUDES
+Old order: 3.1 causation → 3.2 interval → 3.3 other factors. **An expert asked for the conclusion
+first writes it first, and reasons backwards to it.** That is precisely what a cross-examiner
+looks for, and Part D asks for the opposite.
+⭐ **New order: 3.1 other factors placed in time · 3.2 the interval and the mechanism · 3.3 the
+conclusion, expressly "having regard to your answers at 3.1 and 3.2."**
+⭐ And 3.3 closes with the statutory posture stated plainly: *"I do not ask you to find that
+employment was the only cause, or the main one — only whether, on the material, it was a
+significant contributing factor."* **That is s 32(1) as it actually reads, and it lowers what he
+has to be comfortable saying.**
+
+## 10.7 THE SMALLER CURES
+| | |
+|---|---|
+| 3.2 referred to **"2.3"**, which did not exist | fixed |
+| *"first attendance … 1 July 2024"* asserted as fact — the respondent denies the certificate's date | now *"the first certificate in the List of Documents being dated 1 July 2024"* |
+| The schedule's **denials** were not disclosed to him | Part B now tells him they are there and not to treat them as established |
+| **3.6(a)** could be read as global incapacity | any *"no"* must now identify **which duties and why** |
+| The Review Decision was a checklist note | now a **switch in the build script**; until set, the letter prints a red flag in Part B and cannot be sent by accident |
+| ⭐ emoji rendered as **black boxes** in the letter | removed from every rendered string |
+| A half-empty page 3 from a hard page break | removed |
+| The schedule was **not in the zip** although Part A said it was enclosed | added as `00b` |
+
+## 10.8 WHAT IS STILL OPEN — AND IT IS SHORT
+1. ⚠ **The certificate of capacity wording of 3 July 2026.** Quoted twice. **The last unverified
+   quotation in the pack.**
+2. ⚠ **REVIEW_DECISION_PROVIDED** — True or False. The letter will not print clean until it is set.
+3. The three movement forms · the April 2025 call statistics · who is performing the duties.

@@ -8,6 +8,52 @@ three numbered lines. Those three lines are the report's spine. The employer's m
 are integrated beneath them rather than answered separately. Assumed facts are the other side's
 documents only; the appellant's account is clinical context, not the factual basis.
 
+════════════════════════════════════════════════════════════════════════════════════════════════
+REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each was made.
+
+1. ⛔ BROKEN CROSS-REFERENCE. Question 3.2 referred to "the rostering matters at 2.3". There was
+   no 2.3. Fixed (and there now is one, deliberately).
+
+2. ⛔⛔ THE MARCH 2024 BREAK WAS MISDESCRIBED. The draft said it was "described as a rostering
+   error accidentally made". Those words are Ms Reese's, in her email of 7 AUGUST 2023, about a
+   DIFFERENT rostering error. The admitted description of the March 2024 break is the respondent's
+   own — "human error" (SOFC ¶22(a)). Both are now in, correctly attributed and correctly dated.
+
+3. ⭐⭐⭐ THE BREACH NO LONGER RESTS ON THE 10-HOUR FIGURE. The draft put "7 hours against a
+   10-hour minimum". The respondent's case is that a June 2020 agreement made the minimum 8, and
+   its own pleading describes the shift as separated "by only a 7-hour break (rather than an
+   8-hour break)". Question 2.2 now states both figures. On either, the break was short — so the
+   clinician is not resting on a contested premise.
+
+4. ⛔⛔ THE 26 OCTOBER 2022 MATERIAL IS NOT IN THE ATTACHED RECORDS. Verified from the face of
+   the export: "Subpoena generated using the following date range: 01/01/2023 to 01/07/2024".
+   The old question 1.3 asked him to address "earlier entries referring to anxiety, attention
+   deficit features or stimulant prescribing" — entries he does not hold and which were never
+   within the notice's scope. Question 1.3 is rewritten to tell him what the respondent asserts,
+   tell him the span of what he has, and ask him to say whether he needs records outside it.
+
+5. ⭐ AND A FACT FOUND IN HIS OWN ATTACHMENT WHILE CHECKING. On 16 November 2023 — the date of the
+   "no psychological illness" entry — Dr Nanayakkara prescribed temazepam 10mg nocte and melatonin
+   5mg MR. An opposing expert will find that. Question 1.3 now puts it to him directly.
+
+6. ⭐⭐ MATTER 3 IS RE-ORDERED SO THE REASONING PRECEDES THE CONCLUSION: other factors in time
+   (3.1), the interval and mechanism (3.2), then the causal conclusion expressly built on both
+   (3.3). Part D asks him to reason to his conclusions rather than assert them; the old order
+   asked for the conclusion first and the reasoning afterwards.
+
+7. ⭐ THE SCHEDULE'S SECTION B IS NOW DISCLOSED TO HIM. He is told expressly that the schedule
+   records what the respondent has NOT admitted, and that he must not treat those as assumed.
+
+8. ⭐ THE FIRST-ATTENDANCE DATE IS NOW SOURCED, NOT ASSERTED. The respondent denies that the
+   certificate identifying the mechanism is dated 1 July 2024 (it is signed 8 September 2024).
+   Question 3.2 now refers only to the date of the first certificate in the List of Documents.
+
+9. ⭐ 3.6(a) NOW REQUIRES ANY "NO" TO BE ITEMISED by duty and reason, so an answer given to
+   establish that adjustments are clinically necessary cannot be read as global incapacity.
+
+10. ⚠ THE REVIEW DECISION CLAUSE IS NOW A SWITCH, not a checklist note — see below.
+════════════════════════════════════════════════════════════════════════════════════════════════
+
 ⛔ DRAFT — bracketed items require confirmation before sending.
 """
 from reportlab.lib.pagesizes import A4
@@ -18,6 +64,17 @@ from reportlab.platypus import (SimpleDocTemplate, Paragraph, Spacer, PageBreak,
                                 Table, TableStyle)
 
 OUT = "out/INSTRUCTION_Krishnaiah_4DOC_DRAFT.pdf"
+
+# ─────────────────────────────────────────────────────────────────────────────────────────────
+# ⚠ DECIDE BEFORE SENDING. Was Review Decision 69983 put in front of Dr Krishnaiah on
+# 12 August 2026, in the bundle he was given then?
+#   True  → the letter carries an express direction not to adopt it, and asks whether his
+#           opinion would differ if he disregarded it entirely. This cures it.
+#   False → the letter says nothing about it. ⛔ Do not raise a document he was never given.
+#   None  → the letter carries a visible red flag so the question cannot be forgotten.
+REVIEW_DECISION_PROVIDED = None
+# ─────────────────────────────────────────────────────────────────────────────────────────────
+
 ss = getSampleStyleSheet()
 
 H1 = ParagraphStyle('H1', parent=ss['Heading1'], fontName='Helvetica-Bold',
@@ -28,15 +85,31 @@ ISSUE = ParagraphStyle('ISSUE', parent=ss['Heading2'], fontName='Helvetica-Bold'
                        fontSize=10.2, leading=13.5, spaceBefore=11, spaceAfter=4,
                        textColor=colors.HexColor('#1a1a1a'),
                        borderPadding=3, backColor=colors.HexColor('#f0f0f0'))
+SUB = ParagraphStyle('SUB', parent=ss['BodyText'], fontName='Helvetica-Bold',
+                     fontSize=9.7, leading=13.5, spaceBefore=9, spaceAfter=3)
 BODY = ParagraphStyle('BODY', parent=ss['BodyText'], fontName='Helvetica',
                       fontSize=9.7, leading=13.5, spaceAfter=6)
 Q = ParagraphStyle('Q', parent=BODY, spaceBefore=6, spaceAfter=3, leftIndent=6)
+QQ = ParagraphStyle('QQ', parent=BODY, spaceBefore=3, spaceAfter=3, leftIndent=16)
 SMALL = ParagraphStyle('SMALL', parent=BODY, fontSize=8.4, leading=11.4,
                        textColor=colors.HexColor('#555555'))
-FLAG = ParagraphStyle('FLAG', parent=BODY, fontSize=8.6, leading=11.8,
-                      textColor=colors.HexColor('#8a2010'), leftIndent=6)
+QUOTE = ParagraphStyle('QUOTE', parent=BODY, leftIndent=14, rightIndent=10,
+                       fontSize=9.4, leading=13, textColor=colors.HexColor('#222222'))
+FLAG = ParagraphStyle('FLAG', parent=BODY, fontSize=8.8, leading=12,
+                      textColor=colors.HexColor('#8a2010'), leftIndent=6,
+                      backColor=colors.HexColor('#fdf1ef'), borderPadding=5)
 
 def P(t, s=BODY): return Paragraph(t, s)
+
+def T(rows, w, repeat=1):
+    t = Table(rows, colWidths=w, repeatRows=repeat)
+    t.setStyle(TableStyle([
+        ('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#bbbbbb')),
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#eeeeee')),
+        ('VALIGN', (0,0), (-1,-1), 'TOP'),
+        ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
+        ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]))
+    return t
 
 story = []
 story.append(P("Letter of instruction — psychiatric report", H1))
@@ -45,16 +118,17 @@ story.append(P("Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind
                "Commission &nbsp;·&nbsp; [DATE]", SMALL))
 story.append(Spacer(1, 3*mm))
 
-# PART A — ATTACHMENTS
+# ══════════════════════════════════════════════════════ PART A — ATTACHMENTS
 story.append(P("PART A — THE ATTACHMENTS", PART))
-story.append(P("Four documents accompany this letter. <b>Three were written by the other parties to "
-               "my matter.</b>", BODY))
-rows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Author</b>", SMALL),
-         P("<b>Status</b>", SMALL)],
+story.append(P("Four documents accompany this letter. <b>Three of the four were written by the other "
+               "parties to my matter — the respondent Regulator, and my employer.</b>", BODY))
+story.append(T([
+ [P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Author</b>", SMALL),
+  P("<b>Status</b>", SMALL)],
  [P("<b>1</b>", SMALL),
-  P("<b>Response to Notice to Admit Facts</b>, 18 February 2026 — the Regulator's admissions in "
-    "this appeal.", SMALL),
-  P("The <b>Regulator</b>", SMALL), P("<b>Assumed fact</b>", SMALL)],
+  P("<b>Notice to Admit Facts and the Response to it</b>, 18 February 2026 — the respondent's "
+    "admissions and denials in this appeal.", SMALL),
+  P("The <b>Regulator</b>", SMALL), P("<b>Assumed fact</b><br/>(as admitted)", SMALL)],
  [P("<b>2</b>", SMALL),
   P("<b>Letter of the Chief Executive</b>, Metro South Hospital and Health Service, 5 June 2026 "
     "(ref K-LM26/729), to the Commission.", SMALL),
@@ -64,24 +138,25 @@ rows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Author</b>",
     SMALL),
   P("The <b>employer</b>", SMALL), P("<b>Assumed fact</b>", SMALL)],
  [P("<b>4</b>", SMALL),
-  P("<b>The clinical record</b> — your file for me from 24 October 2024; my general-practice "
-    "records (Our Medical Ashmore, produced for 1 January 2023 to 1 July 2024); "
-    "the Work Capacity Certificate of Dr Hawes; my certificate of capacity of 3 July 2026.", SMALL),
-  P("<b>Clinicians</b>", SMALL), P("<b>Clinical record</b>", SMALL)]]
-t = Table(rows, colWidths=[11*mm, 92*mm, 33*mm, 30*mm], repeatRows=1)
-t.setStyle(TableStyle([
-    ('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#bbbbbb')),
-    ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#eeeeee')),
-    ('VALIGN', (0,0), (-1,-1), 'TOP'),
-    ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
-    ('TOPPADDING', (0,0), (-1,-1), 4), ('BOTTOMPADDING', (0,0), (-1,-1), 4)]))
-story.append(t)
+  P("<b>The clinical record</b> — your own file for me from 24 October 2024; my general-practice "
+    "records (Our Medical Ashmore); the workers' compensation medical certificates; my certificate "
+    "of capacity of 3 July 2026.", SMALL),
+  P("<b>Clinicians</b>", SMALL), P("<b>Clinical record</b><br/>(not assumed fact)", SMALL)],
+], [11*mm, 92*mm, 33*mm, 30*mm]))
+story.append(P("Also enclosed, and not evidence: a <b>schedule of assumed facts</b>, which identifies "
+               "by source and paragraph the facts referred to in Part B and records what the "
+               "respondent has <i>not</i> admitted; and a copy of the <b>Notice of Non-Party "
+               "Disclosure</b> served on your practice in this proceeding. <b>The four attachments "
+               "themselves are provided complete and unmarked.</b>", SMALL))
 
-# PART B — BASIS
+# ══════════════════════════════════════════════════════ PART B — BASIS
 story.append(P("PART B — THE BASIS ON WHICH I ASK YOU TO WRITE", PART))
 story.append(P("I ask you to assume, for the purpose of your opinion, <b>the facts recorded in "
                "Attachments 1 to 3</b>. Attachment 1 records facts admitted by the respondent in the "
                "proceeding; Attachments 2 and 3 are the employer's own documents.", BODY))
+story.append(P("<b>The schedule also records the matters the respondent has denied or has not "
+               "admitted. Please do not treat any of those as established.</b> They are set out so "
+               "that you have the position complete rather than one side of it.", BODY))
 story.append(P("<b>My own account of the workplace is provided as clinical context only, and is not "
                "the basis on which I ask you to reason.</b> Where your history from me differs from "
                "any fact in Attachments 1 to 3, please say so expressly rather than resolve the "
@@ -91,13 +166,27 @@ story.append(P("Please do not adopt, or treat as established, any conclusion, ch
                "you to express any view on whether any management action was reasonable; that is a "
                "question for the Commission.", BODY))
 
-story.append(P("<b>Dates.</b> So that the sequence is available to you from a source other than my "
-               "own account, the following dates are taken from the Regulator's amended List of "
-               "Documents dated 14 August 2026, by its item number.", BODY))
-drows = [[P("<b>Item</b>", SMALL), P("<b>Date</b>", SMALL), P("<b>Document</b>", SMALL)],
+if REVIEW_DECISION_PROVIDED is True:
+    story.append(P("You may previously have been provided with a decision of the Workers' "
+                   "Compensation Regulator's Review Unit. I ask you not to adopt any finding, "
+                   "characterisation or conclusion in it, and to state whether your opinion would "
+                   "differ in any respect if you disregarded that document entirely.", BODY))
+elif REVIEW_DECISION_PROVIDED is None:
+    story.append(P("<b>[DECIDE BEFORE SENDING]</b> Was Review Decision 69983 in the bundle "
+                   "provided to the practice on 12 August 2026? <b>If yes</b>, the express "
+                   "direction not to adopt it — and the question whether his opinion would differ "
+                   "if he disregarded it — must be inserted here. <b>If no</b>, this paragraph is "
+                   "deleted and the document is not mentioned. Set REVIEW_DECISION_PROVIDED in the "
+                   "build script.", FLAG))
+
+story.append(P("<b>The sequence, from a source other than my account.</b> The following dates are "
+               "taken from the respondent's amended List of Documents dated 14 August 2026, by its "
+               "item number.", BODY))
+story.append(T([
+ [P("<b>Item</b>", SMALL), P("<b>Date</b>", SMALL), P("<b>Document</b>", SMALL)],
  [P("46", SMALL), P("1 July 2024", SMALL), P("Text, WorkCover to me, noting the claim registered", SMALL)],
  [P("7", SMALL), P("1 July 2024<br/>11 August 2024<br/>8 September 2024", SMALL),
-  P("Workers' compensation medical certificate — Dr Peter Hawes", SMALL)],
+  P("Workers' compensation medical certificates — Dr Peter Hawes", SMALL)],
  [P("8", SMALL), P("7 August 2024", SMALL),
   P("Workers' compensation medical certificate — Dr Ki Pang", SMALL)],
  [P("2", SMALL), P("13 September 2024", SMALL), P("WorkCover Queensland reasons for decision", SMALL)],
@@ -107,43 +196,38 @@ drows = [[P("<b>Item</b>", SMALL), P("<b>Date</b>", SMALL), P("<b>Document</b>",
  [P("4", SMALL), P("24 October 2024", SMALL), P("Review Unit reasons for decision", SMALL)],
  [P("5", SMALL), P("26 November 2024", SMALL), P("Notice of Appeal", SMALL)],
  [P("10", SMALL), P("13 February 2025", SMALL), P("Report of Mind and Memory Service", SMALL)],
- [P("11", SMALL), P("Various", SMALL), P("Practice records — Our Medical Ashmore", SMALL)]]
-dt = Table(drows, colWidths=[13*mm, 34*mm, 119*mm], repeatRows=1)
-dt.setStyle(TableStyle([
-    ('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#bbbbbb')),
-    ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#eeeeee')),
-    ('VALIGN', (0,0), (-1,-1), 'TOP'),
-    ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
-    ('TOPPADDING', (0,0), (-1,-1), 3), ('BOTTOMPADDING', (0,0), (-1,-1), 3)]))
-story.append(dt)
-story.append(P("A copy of the Notice of Non-Party Disclosure served on your practice accompanies "
-               "this letter.", SMALL))
-story.append(P("<b>The clinical records provided are the complete records held by the respondent in "
-               "this proceeding.</b> They are provided in full and unedited, including entries that "
-               "are unrelated to this matter and entries that may not assist me. I have not selected "
-               "among them. <b>If any further records would assist you, please say so and I will "
-               "obtain them.</b>", BODY))
+ [P("11", SMALL), P("Various", SMALL), P("Practice records — Our Medical Ashmore", SMALL)],
+], [13*mm, 34*mm, 119*mm]))
+
+story.append(P("<b>The clinical records are the complete records held by the respondent in this "
+               "proceeding, provided in full and unedited</b> — including entries unrelated to this "
+               "matter and entries that may not assist me. I have not selected among them. <b>They "
+               "were produced to the respondent for the period 1 January 2023 to 1 July 2024, and "
+               "that is the span of the general-practice material you hold.</b> If records outside "
+               "that period, or any other material, would assist you, please say so and I will "
+               "obtain them.", BODY))
 
 story.append(P("PART B2 — WHAT IS ALREADY RECORDED, AND WHAT I AM NOT ASKING YOU TO ESTABLISH", PART))
 story.append(P("Attachments 1 to 3 already record the nature of the work, what occurred, and what "
                "the employer says was and was not in place. <b>You are not asked to find any of "
                "that, and you are not asked to take any of it from me.</b>", BODY))
-story.append(P("<b>Already recorded, by the Respondent or by my employer:</b> the requirements of "
+story.append(P("<b>Already recorded, by the respondent or by my employer:</b> the requirements of "
                "the position · that the accuracy of Switchboard information is critical to clinical "
                "handover and patient safety · the applicable minimum break between shifts · the "
-               "break in fact rostered on 17 to 18 March 2024 and its description as an error · that "
-               "emergency (MET) calls were recorded on those shifts · that leave was taken on "
-               "19 March 2024 · that no fatigue risk assessment applied to the position and that "
-               "fatigue risk management was implemented only after 30 June 2024 · that no "
-               "consequential changes to operating procedures followed · and that the "
-               "general-practice entry of 16 November 2023 appears in the records, its accuracy "
-               "not being admitted. ⭐ The certificate of capacity of 3 July 2026 also "
-               "records the arrangement then in place as a <i>“continuation of existing "
-               "arrangement … worked and tolerated … without deterioration.”</i>", BODY))
-story.append(P("⭐ <b>What remains, and what I do ask you, is the clinical question: whether "
-               "exposure of that kind bears on the condition you have diagnosed.</b>", BODY))
+               "break in fact rostered on 17 to 18 March 2024, and the respondent's description of "
+               "it as human error · an earlier rostering error acknowledged by the Director in "
+               "August 2023 · that a leave application was declined although the required "
+               "attachments were in fact present · the payroll instruction of 3 May 2024 and the "
+               "correction of 28 May 2024 · that emergency (MET) calls were recorded on the shifts "
+               "of 17 to 18 March 2024 · that leave was taken on 19 March 2024 · that no fatigue "
+               "risk assessment applied to the position, that fatigue risk management was "
+               "implemented only after 30 June 2024, and that no consequential changes to operating "
+               "procedures followed · and that the general-practice entry of 16 November 2023 "
+               "appears in the records, its accuracy not being admitted.", BODY))
+story.append(P("<b>What remains, and what I do ask you, is the clinical question: whether exposure "
+               "of that kind bears on the condition you have diagnosed.</b>", BODY))
 
-# PART C — THE THREE MATTERS
+# ══════════════════════════════════════════════════════ PART C
 story.append(P("PART C — THE MATTERS IN ISSUE", PART))
 story.append(P("You have been served with a Notice of Non-Party Disclosure in this proceeding. That "
                "notice states the matters in issue as follows:", BODY))
@@ -151,139 +235,196 @@ story.append(P("<i>“1. Did Mr Shepherd sustain a personal injury<br/>"
                "2. Did the personal injury arise out of or in the course of Mr Shepherd's "
                "employment<br/>"
                "3. Was Mr Shepherd's employment a significant contributing factor to the injury”</i>",
-               ParagraphStyle('quote', parent=BODY, leftIndent=14, rightIndent=10,
-                              fontSize=9.4, leading=13, textColor=colors.HexColor('#222222'))))
+               QUOTE))
 story.append(P("I ask you to address those three matters, in that order. My employer has separately "
                "asked for medical information about my capacity for work; <b>those matters are taken "
-               "up within question 3 below</b>, so that one report answers both.", BODY))
+               "up within matter 3 below</b>, so that one report answers both.", BODY))
 
+# ───────────────────────────── MATTER 1
 story.append(P("MATTER 1 — DID MR SHEPHERD SUSTAIN A PERSONAL INJURY?", ISSUE))
 story.append(P("<b>1.1</b> The diagnosis; the classificatory framework applied and the code; the "
                "specific diagnostic criteria met and when each was met; and the date of onset as "
                "best the clinical record establishes it.", Q))
 story.append(P("<b>1.2</b> The differential diagnoses considered, and your reasons for including or "
                "excluding each.", Q))
-story.append(P("<b>1.3</b> My psychiatric background. The general-practice records provided include "
-               "<b>the entry of 16 November 2023</b>, and any earlier entries referring to anxiety, "
-               "attention deficit features or stimulant prescribing. Please address them. Whether "
-               "there was any relevant pre-existing condition; and if so, whether the matters at "
-               "Attachments 1 to 3 aggravated it, and to what extent.", Q))
+story.append(P("<b>1.3 My psychiatric background — and two specific matters I ask you to address "
+               "rather than pass over.</b>", Q))
+story.append(P("<b>(a)</b> The general-practice records include an entry of <b>16 November 2023</b> "
+               "recording <i>“No psychological illness such as depression/ psychosis.”</i> The "
+               "respondent admits that entry is listed in the records but <b>does not admit its "
+               "accuracy</b>. On the same date the same practitioner prescribed <b>temazepam 10mg "
+               "at night and melatonin 5mg</b>. What significance, if any, do you attach to that "
+               "combination, and to sleep prescribing in a shift worker at that time?", QQ))
+story.append(P("<b>(b)</b> The respondent asserts that the records show <b>a past medical history of "
+               "anxiety and ADHD from 26 October 2022</b>. <b>That period is outside the span of the "
+               "records you hold.</b> Please say whether anything in the material you do hold "
+               "indicates a history of that kind; whether it would alter your opinion if such a "
+               "history were established; and whether you require the earlier records in order to "
+               "answer.", QQ))
+story.append(P("<b>(c)</b> Whether there was any relevant pre-existing condition or vulnerability; "
+               "and if so, whether the matters at Attachments 1 to 3 aggravated it, and to what "
+               "extent.", QQ))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
                "so how — from your own current clinical assessment. I do not ask you to adopt or "
                "repeat any earlier characterisation.", Q))
 story.append(P("<b>1.5</b> A complete list of every document you reviewed and every person you saw, "
                "with the dates and duration of each examination.", Q))
 
+# ───────────────────────────── MATTER 2
 story.append(P("MATTER 2 — DID THE INJURY ARISE OUT OF, OR IN THE COURSE OF, THE EMPLOYMENT?", ISSUE))
-story.append(P("<b>2.1 The conditions of the work, and fatigue.</b> Attachment 3 records that the position "
+story.append(P("<b>2.1 The conditions of the work.</b> Attachment 3 records that the position "
                "requires continuous shift work across the full 24-hour period, seven days a week; "
-               "participation in the Emergency Response process, distributing emergency notifications "
-               "in accordance with code procedures and strictly adhering to protocols and timeframes; "
-               "maintaining call queues to a minimum at all times; multitasking and operating under "
-               "pressure with high volume call traffic; exercising judgement where precedent has not "
-               "been set and procedures are not defined; and working with limited supervision. "
-               "Attachment 1 records that the accuracy of Switchboard information is critical to "
-               "clinical handover and patient safety.<br/>"
+               "participation in the Emergency Response process, distributing emergency "
+               "notifications in accordance with code procedures and <i>“strictly adhering to "
+               "protocols and timeframes”</i>; <i>“maintaining call queues to minimum at all "
+               "times”</i>; multitasking and operating under pressure with <i>“high volume call "
+               "traffic”</i>; exercising judgement <i>“in situations where precedence have not been "
+               "set and procedures not defined”</i>; and working with <i>“limited supervision”</i>. "
+               "Attachment 1 records that the accuracy of Switchboard information is <b>critical to "
+               "clinical handover and patient safety</b>.<br/>"
                "<b>From a clinical perspective, whether and how conditions of that kind — the level "
                "of demand, the degree of control, and the adequacy of support — can contribute to a "
                "condition of the kind you have diagnosed.</b>", Q))
-story.append(P("<b>2.2 The rostering of 17 to 18 March 2024.</b> Attachment 1 records a rostered "
-               "break of 7 hours against a 10-hour minimum, described as a rostering error "
-               "accidentally made. Attachment 2 records that emergency (MET) calls were recorded on "
-               "those shifts, and that leave was taken on 19 March 2024. What clinical significance, "
-               "if any, do you attach to that sequence?", Q))
 
-story.append(PageBreak())
+story.append(P("<b>2.2 Fatigue, and the rostering of 17 to 18 March 2024.</b> Attachment 1 records "
+               "that on those dates I was rostered to finish at 23:00 and to commence the next "
+               "shift at 06:00 — <b>a break of 7 hours</b>. The applicable minimum is recorded as "
+               "<b>10 hours, or 8 hours by written agreement</b>; the respondent says an 8-hour "
+               "agreement applied, and describes the shift in its own pleading as separated "
+               "<i>“by only a 7-hour break (rather than an 8-hour break) … a result of human "
+               "error”</i>. <b>On either figure the break was shorter than the minimum.</b> "
+               "Attachment 2 records that emergency (MET) calls were recorded on those shifts, and "
+               "that leave was taken on 19 March 2024. Attachment 2 also records that <b>no fatigue "
+               "risk assessment applied to the position</b>, and that fatigue risk management was "
+               "implemented at that Switchboard only after 30 June 2024.<br/>"
+               "<b>What clinical significance, if any, do you attach to that sequence — and does "
+               "fatigue arising from a shortened break resolve with the break itself, or can it "
+               "carry forward?</b>", Q))
+story.append(P("<b>2.3 The administrative sequence.</b> Attachment 1 and the respondent's own "
+               "pleading also record, as matters admitted or asserted by the respondent: an email "
+               "of the Director dated <b>7 August 2023</b> acknowledging <i>“a rostering error that "
+               "was accidentally made … with regards to night shifts”</i>; that a leave application "
+               "for <b>20 to 27 February 2024</b> was declined for want of an attached statutory "
+               "declaration when <i>“a review indicates that in fact, the attachments were "
+               "present”</i>, described as <i>“human error”</i>; and that a payroll instruction to "
+               "correct my shifts was issued on <b>3 May 2024</b> and the correction submitted on "
+               "<b>28 May 2024</b>, with an email of 21 May 2024 in the interval.<br/>"
+               "<b>From a clinical perspective, does a sequence of that kind — repeated "
+               "administrative error affecting rostering, leave and pay, in a role for which no "
+               "fatigue assessment applied — bear differently on the condition you have diagnosed "
+               "than a single isolated event would? Please explain the mechanism, if any.</b>", Q))
 
+# ───────────────────────────── MATTER 3
 story.append(P("MATTER 3 — WAS THE EMPLOYMENT A SIGNIFICANT CONTRIBUTING FACTOR?", ISSUE))
-story.append(P("<b>3.1 Causation.</b> On the assumed facts, whether my employment was "
-               "<b>a significant contributing factor</b> to the injury with onset on 18 June 2024. "
-               "Please give your clinical reasoning, and distinguish between the cause of onset and "
-               "any factors bearing only on the subsequent course.", Q))
-story.append(P("<b>3.2 The interval.</b> The rostering matters at 2.3 occurred in March 2024 and "
-               "onset is pleaded at 18 June 2024. Is that interval consistent with, or inconsistent "
-               "with, your formulation — and if consistent, by what mechanism? Separately, what "
-               "significance, if any, attaches to the interval between onset and first presentation, "
-               "the Work Capacity Certificate recording first attendance for this injury on "
-               "1 July 2024?", Q))
-story.append(P("<b>3.3 Other factors, placed in time.</b> Please identify any non-employment factors "
-               "relevant to (a) onset at or about 18 June 2024 and (b) the subsequent course. Your "
-               "report of 13 February 2025 referred to multiple life stressors including relationship "
-               "breakdown, job loss and bereavement.", Q))
+story.append(P("<b>This matter has three parts, and I ask you to take them in the order given</b> — "
+               "the other factors and their timing first, then the interval and the mechanism, and "
+               "your conclusion last, so that the conclusion rests on the two answers before it. "
+               "The questions on capacity, restrictions and adjustments follow at 3.4 to 3.7.", BODY))
+
+story.append(P("<b>3.1 Other factors, placed in time.</b> Please identify any non-employment factors "
+               "relevant to <b>(i)</b> onset at or about 18 June 2024 and <b>(ii)</b> the subsequent "
+               "course. Your report of 13 February 2025 referred to multiple life stressors "
+               "including relationship breakdown, job loss and bereavement.", Q))
 story.append(P("<b>Your clinical relationship with me began on 24 October 2024, and my partner "
                "attended that consultation with me.</b> Each of the matters above arose while I was "
                "under your care and is recorded in your own file. I ask you:", BODY))
 story.append(P("<b>(a)</b> to place each factor in time <b>from your own records rather than by "
-               "assumption</b>;", Q))
-story.append(P("<b>(b)</b> to state whether, <b>as at the date of your diagnosis</b>, my relationship "
-               "was a protective factor or an adverse one; and", Q))
+               "assumption</b>;", QQ))
+story.append(P("<b>(b)</b> to state whether, <b>as at the date of your diagnosis</b>, my "
+               "relationship was a protective factor or an adverse one; and", QQ))
 story.append(P("<b>(c)</b> for each factor, whether in your opinion it was <b>independent of the "
                "employment matters, or a consequence of them</b> — noting that your report of "
                "13 February 2025 records that my pay was <i>“withheld or delayed for up to five "
                "months at a time, leading to significant financial stress and strain on his "
-               "relationship”</i>.", Q))
+               "relationship”</i>.", QQ))
 
-story.append(P("<b>Capacity, restrictions and adjustments</b> — the matters my employer has asked "
-               "about. My certificate of capacity of 3 July 2026 certifies me fit for my substantive "
-               "role with adjustments; I ask only that your opinion be your own.",
-               ParagraphStyle('sub2', parent=BODY, fontName='Helvetica-Bold', spaceBefore=8)))
+story.append(P("<b>3.2 The interval, and the mechanism.</b> The rostering and administrative matters "
+               "at 2.2 and 2.3 occurred between August 2023 and May 2024, and onset is pleaded at "
+               "<b>18 June 2024</b>. Is that interval consistent with, or inconsistent with, your "
+               "formulation — and if consistent, <b>by what mechanism</b>? Separately, what "
+               "significance, if any, attaches to the interval between onset and first presentation, "
+               "the first workers' compensation medical certificate in the List of Documents being "
+               "dated 1 July 2024?", Q))
+
+story.append(P("<b>3.3 Causation — your conclusion.</b> On the assumed facts, and having regard to "
+               "your answers at 3.1 and 3.2, whether my employment was <b>a significant contributing "
+               "factor</b> to the injury with onset on 18 June 2024. Please give your clinical "
+               "reasoning, and distinguish between the cause of onset and any factors bearing only "
+               "on the subsequent course. <b>I do not ask you to find that employment was the only "
+               "cause, or the main one</b> — only whether, on the material, it was a significant "
+               "contributing factor.", Q))
+
+story.append(P("Capacity, restrictions and adjustments — the matters my employer has asked about. "
+               "My certificate of capacity of 3 July 2026 certifies me fit for my substantive role "
+               "with adjustments; I ask only that your opinion be your own.", SUB))
 story.append(P("<b>3.4 Prognosis and current capacity.</b> Your prognosis; and, distinguishing "
-               "(a) my capacity to perform the substantive role <b>with reasonable adjustments</b> "
-               "from (b) any current incapacity. If there is current incapacity, its cause — the "
-               "condition itself, the consequences of my exclusion from the workplace since "
-               "3 July 2026, or other factors.", Q))
+               "<b>(a)</b> my capacity to perform the substantive role <b>with reasonable "
+               "adjustments</b> from <b>(b)</b> any current incapacity. If there is current "
+               "incapacity, its cause — the condition itself, the consequences of my having been "
+               "away from the workplace since 3 July 2026 (a matter of my account, not of "
+               "Attachments 1 to 3), or other factors.", Q))
 story.append(P("<b>3.5 The adjustments, in functional terms.</b> The adjustments you consider "
                "clinically necessary, the clinical basis for each, and the anticipated duration and "
                "review date — addressing, among anything else you consider relevant: predictability "
                "of rostering; adequate recovery between shifts; sustained concurrent emergency-code "
-               "load; hours of work; and reporting arrangements.<br/>"
-               "Please also address, in functional terms: (a) any tasks, situations or environments "
-               "likely to exacerbate the condition; (b) if you consider a restriction on complaint "
-               "handling clinically necessary, what activities it encompasses — receiving, "
-               "documenting, redirecting or resolving complaints, or all complaint-related "
-               "interaction; and (c) your report of 13 February 2025 records that my working memory "
-               "is affected under stress — what that means for performance of the duties at "
-               "Attachment 3, and the circumstances likely to give rise to it.", Q))
-story.append(P("<b>3.6 The requirements of the position.</b> Attachment 3 describes the duties "
-               "of the position and states that it is a continuous shift working role. Please "
-               "address, in order:", Q))
-story.append(P("<b>(a)</b> whether the adjustments at 3.5 are <b>clinically necessary at "
-               "present</b> — that is, whether I am presently able to perform the duties "
-               "without them;", Q))
-story.append(P("<b>(b)</b> whether, <b>with those adjustments in place</b>, I am able to "
-               "perform the duties described at Attachment 3;", Q))
-story.append(P("<b>(c)</b> whether adjustments of that kind — predictability of rostering, "
-               "minimum recovery intervals between shifts, limits on sustained concurrent "
-               "emergency-code load, and hours of work — are <b>of a kind ordinarily provided "
-               "by large employers, and in particular by health services operating 24-hour "
-               "services</b>; and", Q))
-story.append(P("<b>(d)</b> whether the adjustments are <b>permanent, or temporary with a "
-               "review date</b>.", Q))
-story.append(P("I note that the certificate of capacity of 3 July 2026 at Attachment 4 records "
-               "the arrangement then in place as a <i>“continuation of existing arrangement … "
-               "worked and tolerated … without deterioration.”</i> Please take that record into "
-               "account in answering (b) and (c).", BODY))
-story.append(P("<b>3.7 Foreseeable risk.</b> Whether exposure to the conditions at Attachments 2 "
-               "and 3, without the adjustments at 3.5, presents a foreseeable risk to my health or "
-               "safety; and if so, what controls you consider medically necessary to manage it.", Q))
+               "load; hours of work; and reporting arrangements. Please also address, in functional "
+               "terms:", Q))
+story.append(P("<b>(a)</b> any tasks, situations or environments likely to <b>exacerbate</b> the "
+               "condition;", QQ))
+story.append(P("<b>(b)</b> if you consider a restriction on <b>complaint handling</b> clinically "
+               "necessary, what activities it encompasses — receiving, documenting, redirecting or "
+               "resolving complaints, or all complaint-related interaction; and", QQ))
+story.append(P("<b>(c)</b> your report of 13 February 2025 records that my <b>working memory</b> is "
+               "affected under stress — what that means for performance of the duties at "
+               "Attachment 3, and the circumstances likely to give rise to it.", QQ))
+story.append(P("<b>3.6 The requirements of the position.</b> Attachment 3 describes the duties of "
+               "the position and states that it is a continuous shift working role. Please address, "
+               "in order:", Q))
+story.append(P("<b>(a)</b> whether the adjustments at 3.5 are <b>clinically necessary at present</b> "
+               "— that is, whether I am presently able to perform the duties without them. "
+               "<b>If your answer is that I am not, please identify which duties and why</b>, so "
+               "that the answer is not read as a general incapacity for the role;", QQ))
+story.append(P("<b>(b)</b> whether, <b>with those adjustments in place</b>, I am able to perform the "
+               "duties described at Attachment 3;", QQ))
+story.append(P("<b>(c)</b> whether adjustments of that kind — predictability of rostering, minimum "
+               "recovery intervals between shifts, limits on sustained concurrent emergency-code "
+               "load, and hours of work — are <b>of a kind ordinarily provided by large employers, "
+               "and in particular by health services operating 24-hour services</b>; and", QQ))
+story.append(P("<b>(d)</b> whether the adjustments are <b>permanent, or temporary with a review "
+               "date</b>.", QQ))
+story.append(P("I note that the certificate of capacity of 3 July 2026 at Attachment 4 records the "
+               "arrangement then in place as a <i>“continuation of existing arrangement … worked and "
+               "tolerated … without deterioration.”</i> Please take that record into account in "
+               "answering (b) and (c). <font color='#8a2010'>[CONFIRM the exact wording against the "
+               "certificate before sending]</font>", BODY))
+story.append(P("<b>3.7 Foreseeable risk.</b> Whether exposure to the conditions described at "
+               "Attachments 2 and 3, <b>without</b> the adjustments at 3.5 and in the absence of a "
+               "fatigue risk assessment, presents a foreseeable risk to my health or safety; and if "
+               "so, what controls you consider medically necessary to manage it.", Q))
 
-# PART D
+# ══════════════════════════════════════════════════════ PART D
 story.append(P("PART D — WHAT I DO NOT ASK, AND THE FORM OF THE REPORT", PART))
-story.append(P("I do not ask you to express a view on whether my employer is able to accommodate the "
-               "adjustments you recommend, or on my capacity to work under any particular reporting "
-               "line or with any particular person. Those are workplace questions, not medical ones. "
-               "If you are asked either question, I ask that you say so.", BODY))
-story.append(P("Please reason from the assumed facts to your conclusions rather than assert "
-               "conclusions, and state where the material is insufficient for you to express an "
-               "opinion rather than qualifying an opinion you would not otherwise give.", BODY))
-story.append(P("<b>Please state expressly the material on which your opinion as to causation rests, "
-               "and whether that opinion depends on my account of the workplace matters.</b>", BODY))
-story.append(P("<b>Please also state whether anything in the clinical records provided is "
+story.append(P("<b>I do not ask you</b> to express a view on whether any management action was "
+               "reasonable; on whether my employer is able to accommodate the adjustments you "
+               "recommend; or on my capacity to work under any particular reporting line or with any "
+               "particular person. <b>Those are workplace questions, not medical ones. If you are "
+               "asked any of them, I ask that you say so rather than answer.</b>", BODY))
+story.append(P("<b>As to form, I ask that the report:</b>", BODY))
+story.append(P("<b>(a)</b> state your qualifications and specialty, and the dates and duration of "
+               "each consultation on which your opinion is based;", QQ))
+story.append(P("<b>(b)</b> <b>reason from the assumed facts to your conclusions rather than assert "
+               "conclusions</b>, and state where the material is insufficient for you to express an "
+               "opinion rather than qualifying an opinion you would not otherwise give;", QQ))
+story.append(P("<b>(c)</b> <b>state expressly the material on which your opinion as to causation "
+               "rests, and whether that opinion depends on my account of the workplace matters</b>;",
+               QQ))
+story.append(P("<b>(d)</b> <b>state whether anything in the clinical records provided is "
                "inconsistent with, or qualifies, the opinions you express — and if so, how you have "
-               "taken it into account.</b> I ask this so that the report addresses the whole of the "
-               "material rather than part of it.", BODY))
+               "taken it into account</b>, so that the report addresses the whole of the material "
+               "rather than part of it; and", QQ))
+story.append(P("<b>(e)</b> confirm that the opinions expressed are your own.", QQ))
 story.append(P("The report is prepared for use in proceedings in the Queensland Industrial Relations "
-               "Commission and may be provided to my employer.", BODY))
+               "Commission and may be provided to my employer. Please address it to me.", BODY))
 
 doc = SimpleDocTemplate(OUT, pagesize=A4, leftMargin=20*mm, rightMargin=20*mm,
                         topMargin=17*mm, bottomMargin=17*mm,
