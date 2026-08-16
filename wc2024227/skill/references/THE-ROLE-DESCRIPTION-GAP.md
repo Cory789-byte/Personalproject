@@ -67,3 +67,51 @@ this appeal. Naming how it arrived imports the employment track into the appeal 
    and arrived in 2026. ⭐ Position ID **32002276** is constant across the three 2026 movement forms,
    which supports continuity. ⚠ **Say nothing about the version question when serving; simply serve
    what he holds.**
+
+---
+
+# PART 7 — ⭐⭐⭐ WHAT ONE PERSON SEES WHO HOLDS BOTH
+**Nobody in the proceeding currently holds both.** The Regulator has the CE letter (LOD item 43) and
+not the role description. Cory has both. That asymmetry is the finding.
+
+## 7.1 THE FOUR COLLISIONS, ALL BETWEEN TWO EMPLOYER DOCUMENTS
+| The Chief Executive's letter, 5 June 2026 | The AO3 role description |
+|---|---|
+| ⛔ *"Mandatory Fatigue Risk Management System training only applies to **health practitioners and clinical assistants**. The Logan Hospital Switchboard staff are **non-clinical staff**"* (Item 4) | ⭐⭐⭐ *"**Participate in the Emergency Response process** by receiving emergency response notifications and distributing them to the appropriate response groups, **dependent on the category of emergency, as per emergency code procedures, strictly adhering to protocols and timeframes**"* |
+| ⭐ *"a spreadsheet of recorded **MET calls** is available for the period **17-18 March 2024**"* (Items 1–2) | ⇒ **The employer's own record shows medical emergency calls handled on the shifts in issue — by staff it classifies as outside the fatigue framework** |
+| *"there have been **no 'consequential' changes to operating procedures** over the period requested"* (Item 3(c)) | *"Maintain discretion and **exercise judgement** … **in situations where precedence have not been set and procedures not defined**"* ⇒ **the undefined state was permanent, on their own account** |
+| ⭐⭐ *"All employee complaints relating to Logan Hospital Switchboard **operational errors** are made directly to the **Line Manager** of Switch Board and managed **solely via email or verbally** with the complainant"* (Item 3(a)) | *"Interact in a sensitive, timely, effective and appropriate manner with members of the general public and service providers"* ⇒ **complaints about the console operator's work go to the person who manages him and are resolved verbally, with nothing retained** |
+
+⭐ And the fifth, already recorded, is against the **Regulator's** own pleading rather than the CE
+letter: the role description makes maintaining accurate Switchboard information a key
+responsibility, while Form 9C ¶20(b) pleads he *"was not required or given authority to do any
+updating work."*
+
+## 7.2 ⭐⭐⭐ WHAT THE COMBINATION ACTUALLY ESTABLISHES
+> **The classification that excused the absence of fatigue management is contradicted by the same
+> employer's description of what the work is.**
+
+⚠ **And state it fairly, because the fair version is the one that survives:** *"non-clinical"* may be
+entirely correct **as a training classification**. The FRMS training requirement may genuinely apply
+only to practitioners and clinical assistants.
+⇒ ⭐⭐⭐ **The point is not that anyone was wrong. It is that a classification adopted for training
+purposes does not determine what the work involves — and the role description is what the work
+involves.** A training category cannot make an unassessed exposure safe.
+
+## 7.3 WHO HOLDS BOTH, AND WHAT CHANGES WHEN THEY DO
+| Holder | Effect |
+|---|---|
+| **The clinician** | Gets both as Attachments 2 and 3. **Demand and absent control, side by side, both from the employer.** That is the design |
+| **The Commission** | Only at hearing, unless the role description is disclosed first |
+| ⭐⭐⭐ **Matheson** | On service, **she becomes the first person in the proceeding to hold both** — and what she sees is her own non-party's governance answer contradicted by that non-party's own description of the job |
+
+⭐⭐ **And she is the one who checks.** The established pattern is that she tests pleaded matters
+against primary records — she issued a notice nineteen days after the amended pleading to do exactly
+that. **Given both documents, she will put them together herself.**
+
+## 7.4 ⇒ THE OPERATIONAL CONCLUSION
+**Serving the role description is not merely filling a gap in her list.** It places the
+*"non-clinical"* answer underneath a document that answers it — **in her hands, dated, with no
+argument from him anywhere on the page.**
+⛔ **And that is exactly why nothing is said about it.** Serve the document alone. The collision is
+for her to find, and it is stronger found than pointed at.
