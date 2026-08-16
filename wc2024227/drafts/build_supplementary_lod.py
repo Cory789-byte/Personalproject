@@ -3,10 +3,22 @@
 
 ⭐ WHY THIS EXISTS, AND WHY IT GOES FIRST (before the pack goes to the practice on Monday):
 The letter of instruction asks the psychiatrist to reason from the AO3 role description
-(Attachment 3) and the approved changes to working hours (Attachment 5). The Regulator's amended
-List of Documents (14 Aug 2026) has 52 items and holds NEITHER. If the report reasons from
-documents she has never seen, they surface through an expert instead of through disclosure —
-a procedural attack on the report's foundation that costs one email to remove.
+(Attachment 3). The Regulator's amended List of Documents (14 Aug 2026) has 52 items and no role
+description of any kind. If the report reasons from a document she has never seen, it surfaces
+through an expert instead of through disclosure.
+
+⛔⛔ THE MOVEMENT FORMS ARE DELIBERATELY NOT LISTED (Cory, 17 Aug) — AND THE RELEVANCE LINE
+SUPPORTS HIM:
+  · The ROLE DESCRIPTION is directly relevant to the appeal's matters in issue — the nature and
+    conditions of the employment go to causation. It is disclosed now.
+  · The MOVEMENT FORMS are 2026 capacity documents. Capacity is the EMPLOYER'S question, not a
+    matter in issue in the appeal — and the appeal's own disclosure scope stops at 30 June 2024
+    (the Form 29 ranges). Serving 2026 employment-file documents unprompted would open a field
+    the appellant has himself said the appeal does not reach, and would hand the Regulator the
+    76→56→40 trend BEFORE the clinician's 3.6(e) answer exists to meet it.
+  · Their relevance in the appeal arises, if at all, THROUGH the report. So they are produced
+    WITH the report at delivery, as part of the expert's materials — the ordinary course. If she
+    asks sooner, they are provided on request without argument.
 
 ⛔ THE DISCIPLINE (standing, and non-negotiable):
   · Serve the DOCUMENTS, not their provenance. No mention of the request for medical information,
@@ -51,8 +63,8 @@ d.append(P("APPELLANT'S SUPPLEMENTARY LIST OF DOCUMENTS", H1))
 d.append(P("Served on the Respondent · 17 August 2026", CEN))
 d.append(P("This supplementary list is given in continuation of the Appellant's disclosure "
            "obligation, supplementing the List of Documents served on 5 August 2026, which stated "
-           "that disclosure is continuing. It lists further documents in the Appellant's possession "
-           "that are directly relevant to a matter in issue in this proceeding.", B))
+           "that disclosure is continuing. It lists a further document in the Appellant's possession "
+           "that is directly relevant to a matter in issue in this proceeding.", B))
 
 rows = [
  [P("<b>Item</b>", SM), P("<b>Date</b>", SM), P("<b>Description</b>", SM),
@@ -64,21 +76,6 @@ rows = [
     "process; maintenance of call queues; and maintenance of the Omnivista database and SharePoint.",
     SM),
   P("Metro South Hospital and Health Service", SM), P("[n]", SM), P("Produced herewith", SM)],
- [P("S2", SM), P("27 Feb 2026", SM),
-  P("<b>Change to Working Conditions (Temporary)</b> — approved variation of the Appellant's "
-    "fortnightly hours to 56.00, effective 1–15 March 2026; shift arrangements recorded as "
-    "Continuous Shift Worker; certified, agreed and approved by the delegate.", SM),
-  P("Metro South Hospital and Health Service", SM), P("4", SM), P("Produced herewith", SM)],
- [P("S3", SM), P("17 Apr 2026", SM),
-  P("<b>Change to Working Conditions (Temporary)</b> — approved variation of the Appellant's "
-    "fortnightly hours to 56.00, effective 16 March – 26 April 2026; shift arrangements recorded as "
-    "Continuous Shift Worker; certified, agreed and approved by the delegate.", SM),
-  P("Metro South Hospital and Health Service", SM), P("4", SM), P("Produced herewith", SM)],
- [P("S4", SM), P("9 Jun 2026", SM),
-  P("<b>Change to Working Conditions (Temporary)</b> — approved variation of the Appellant's "
-    "fortnightly hours to 40.00, effective 25 May – 28 June 2026; shift arrangements recorded as "
-    "Continuous Shift Worker; certified, agreed and approved by the delegate.", SM),
-  P("Metro South Hospital and Health Service", SM), P("4", SM), P("Produced herewith", SM)],
 ]
 t = Table(rows, colWidths=[11*mm, 20*mm, 78*mm, 30*mm, 12*mm, 19*mm], repeatRows=1)
 t.setStyle(TableStyle([
@@ -115,7 +112,7 @@ d.append(P("COVERING EMAIL — the whole of it", H2))
 d.append(P("<b>To:</b> Renee.Matheson@oir.qld.gov.au &nbsp;·&nbsp; <b>Cc:</b> the OIR appeals "
            "registry<br/><b>Subject:</b> WC/2024/227 — Shepherd — supplementary disclosure", SM))
 d.append(P("Dear Ms Matheson,<br/><br/>By way of continuing disclosure, I attach a supplementary "
-           "list of documents together with the four documents it lists.<br/><br/>Kind regards,"
+           "list of documents together with the document it lists.<br/><br/>Kind regards,"
            "<br/>Cory Lea Shepherd<br/>Appellant, WC/2024/227", B))
 d.append(P("<b>NOTHING FURTHER.</b> No mention of the request for medical information, the "
            "psychiatrist, the report, the exclusion, or any date in July 2026. No explanation of "
@@ -123,15 +120,19 @@ d.append(P("<b>NOTHING FURTHER.</b> No mention of the request for medical inform
            "continuing, and an explanation is the one thing that would make this email "
            "interesting. <b>Send before the pack goes to the practice.</b>", INT))
 
-d.append(P("THE FOUR ATTACHMENTS TO THE EMAIL", H2))
+d.append(P("THE TWO ATTACHMENTS TO THE EMAIL", H2))
 d.append(P("1 · <b>SUPPLEMENTARY_LOD_17AUG2026.pdf</b> — the list itself<br/>"
-           "2 · the <b>role description</b> (the same file that is Attachment 3 of the clinician "
-           "pack — the document alone, no index page)<br/>"
-           "3–5 · the <b>three movement forms</b>, as three separate source PDFs from documents/ — "
-           "<b>NOT</b> the stitched Attachment 5, whose index page is pack material<br/>", B))
+           "2 · the <b>role description</b> — the document alone, no index page", B))
+d.append(P("<b>THE MOVEMENT FORMS ARE NOT SERVED NOW — decided 17 August.</b> They are 2026 "
+           "capacity documents; capacity is the employer's question, not a matter in issue in the "
+           "appeal, and the appeal's disclosure scope stops at 30 June 2024. Their relevance in the "
+           "appeal arises, if at all, through the report — so they are produced <b>with the report "
+           "at delivery</b>, as part of the expert's materials, which is the ordinary course. If "
+           "the Regulator asks for them sooner (the letter of instruction and schedule she receives "
+           "with the report describe them), <b>provide them on request, without argument</b>.", INT))
 d.append(P("<b>SEQUENCE.</b> Send this FIRST on Monday morning, then the pack to the practice. "
-           "Same-day is sufficient; the order is what matters — the Regulator must hold the "
-           "documents before the practice holds an instruction that reasons from them.", INT))
+           "Same-day is sufficient; the order is what matters — the Regulator must hold the role "
+           "description before the practice holds an instruction that reasons from it.", INT))
 d.append(P("<b>AND AFTERWARDS:</b> when the report is later disclosed, the covering note already "
            "says the same report went to both parties. Nothing in this service sheet is ever "
            "referred to again — a supplement to a continuing-disclosure list needs no follow-up.", B))

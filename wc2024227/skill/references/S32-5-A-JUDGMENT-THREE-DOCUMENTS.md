@@ -2151,19 +2151,29 @@ supplemented as further documents come into the Appellant's possession."*
 explanation.** Anything novel invites the question *"why now?"*; a promised supplement answers it
 before it is asked.
 
-## 38.2 ⭐⭐ FOUR ITEMS, NOT ONE — BECAUSE THE INSTRUCTION REASONS FROM BOTH
-The letter of instruction reasons from **Attachment 3 (the role description)** *and* **Attachment 5
-(the three movement forms)**. Matheson's amended list — 52 items — holds **neither**. Serving the
-role description alone would have left the movement forms to surface through the expert: **the same
-defect, one attachment later.**
-| Item | Document |
-|---|---|
-| **S1** | Role description, AO3 Switchboard Services (undated, MSH) |
-| **S2–S4** | The three Change to Working Conditions forms — 27.02 / 17.04 / 09.06.2026, each described neutrally: hours varied, *"Continuous Shift Worker"* recorded, certified/agreed/approved |
+## 38.2 ⛔ REVISED (Cory, 17 Aug): ONE ITEM, NOT FOUR — THE MOVEMENT FORMS STAY OUT
+> *"I don't think I want to give her my change in working conditions — there is no point."*
 
-⛔ **The descriptions are inventory, not argument.** Each says what the document is — never what it
-proves. The "approved three times before asking" point lives in the covering note to the employer
-and nowhere near this list.
+**He is right, and the relevance line supports him:**
+1. ⭐⭐ **The role description goes to causation** — the nature and conditions of the employment are
+   squarely inside the appeal's matters in issue. **It is disclosed now.**
+2. ⛔ **The movement forms are 2026 capacity documents.** Capacity is the **employer's** question,
+   not a matter in issue in the appeal — and the appeal's own disclosure scope stops at
+   **30 June 2024** (the Form 29 ranges; the repo's standing note that the 64G does not reach the
+   2026 employment file). **Serving 2026 employment-file documents unprompted would open a field
+   the appellant has himself maintained the appeal does not reach.**
+3. ⛔⛔ **And it would hand Matheson the 76→56→40 trend before the clinician's 3.6(e) answer exists
+   to meet it.** Unanswered, that trend reads as declining capacity. The instruction was built to
+   have the psychiatrist characterise it first.
+4. ⭐ **Their relevance in the appeal arises, if at all, THROUGH the report.** So they are produced
+   **with the report at delivery**, as part of the expert's materials — the ordinary course for an
+   expert's brief. ⚠ The letter and schedule she receives with the report describe them (schedule
+   F), so she may ask sooner: **provide on request, without argument.** A document produced on
+   request is disclosure; a document withheld after request is a fight.
+
+⇒ **The supplementary list now carries one item — S1, the role description — and the email reads
+"the document it lists."** The service sheet records the movement-forms decision and the
+at-delivery plan.
 
 ## 38.3 THE EMAIL — ONE SENTENCE, VERBATIM
 > *Dear Ms Matheson, — By way of continuing disclosure, I attach a supplementary list of documents
