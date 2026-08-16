@@ -202,7 +202,7 @@ def T(rows, w, repeat=1, shade=()):
 story = []
 story.append(P("Letter of instruction — psychiatric report", H1))
 story.append(P("Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service<br/>"
-               "From: Cory Lea Shepherd &nbsp;·&nbsp; [DATE]<br/>"
+               "From: Cory Lea Shepherd &nbsp;·&nbsp; 17 August 2026<br/>"
                "<b>In answer to the request for medical information made by Metro South Hospital and "
                "Health Service on 31 July 2026, and addressing the matters in issue in "
                "WC/2024/227, Queensland Industrial Relations Commission</b>", SMALL))
@@ -356,48 +356,46 @@ story.append(P("<b>1.1</b> The diagnosis; the classificatory framework applied a
                "best the clinical record establishes it.", Q))
 story.append(P("<b>1.2</b> The differential diagnoses considered, and your reasons for including or "
                "excluding each.", Q))
-story.append(P("<b>1.3 My background.</b> I ask you to reason from the following rather than "
-               "around it.", Q))
-story.append(P("<b>(a)</b> The records include a referral letter of <b>16 May 2024, Dr William Zhao "
-               "to Dr Arash Amini</b>, listing under <i>“Past Medical History”</i>: <b>26/10/2022 "
-               "ADHD · 26/10/2022 Anxiety · 28/06/2023 Infection</b>. In respect of each, is it a "
-               "<b>diagnosis made at a consultation, or a history-list item carried forward</b>? Is "
-               "<b>any anxiety disorder diagnosed anywhere in the material</b>?", QQ))
-story.append(P("<b>(b)</b> What do the <b>current medications recorded in that same letter</b> "
-               "indicate about whether any psychiatric condition was being treated as at "
-               "<b>16 May 2024</b>?", QQ))
-story.append(P("<b>(c)</b> Is attention deficit <b>a longstanding neurodevelopmental condition "
-               "rather than a psychiatric injury</b> — and is a person with those features "
-               "<b>more, or less, vulnerable to injury where continuous shift work is worked "
-               "without adequate recovery between shifts</b>, and under sustained high-volume "
-               "concurrent demand of the kind at Attachment 3?", QQ))
-story.append(P("<b>(d)</b> Dr Priyal De Silva Nanayakkara recorded on <b>16 November 2023</b>: "
-               "<i>“Poor sleep. Shift work. Takes melatonin 2 mg to help to go to sleep, soem time "
-               "4 mg, but does not help much. <b>Cannot work/ do shifts if he does not get a good "
-               "sleep.</b> Does not take them every day. No psycological illness such as "
-               "depression/ psycosis. mood good.”</i> — prescribing melatonin and temazepam. What "
-               "does that entry indicate about <b>psychiatric illness at that date</b>, and about "
-               "<b>sleep disturbance attributed to shift work</b> seven months before onset?", QQ))
-story.append(P("<b>(e)</b> The consultation note of <b>16 May 2024</b> records <i>“renew referral "
-               "to psychiatrist”</i>, and the letter at (a) is that referral — <i>“for ongoing care "
-               "and management”</i> — <b>one month before the date of onset</b>. What significance "
-               "do you attach to it, given that the record of 16 November 2023 states <i>“No "
-               "psycological illness … mood good”</i> — and <b>what, if anything, does the material "
-               "show occurred between those two dates</b>? When did psychiatric care begin, and for "
-               "what?", QQ))
-story.append(P("<b>(f)</b> Please identify <b>each place anxiety is recorded, by author and date</b>, "
-               "and in each case whether it is a <b>presenting symptom or a diagnosis</b> — "
-               "including <b>28 June 2024</b>, recorded by Dr Bogdan Slawinski, where the "
-               "presentation is <i>“wants melatonin, to help to sleep … stress at work … upset by "
-               "people not following rules”</i> and the reason for visit <i>“Anxiety”</i>.", QQ))
-story.append(P("<b>(g)</b> Dr Peter Hawes recorded on 1 July 2024 that I had <i>“been there 5 "
-               "years”</i>; I worked continuous shift work in this position from 2019. What does "
-               "the material show as to <b>any psychiatric treatment, or any absence from work on "
-               "psychological grounds</b>, before 2024 — and <b>what does that indicate about my "
-               "level of function in this role</b>? Does anything in the records bear on the date "
-               "of onset?", QQ))
-story.append(P("<b>(h)</b> If there was a pre-existing condition or vulnerability, did the matters "
-               "at Attachments 1 to 3 <b>aggravate</b> it, and to what extent?", QQ))
+story.append(P("<b>1.3 My background.</b> The records include the following entries, which I ask "
+               "you to address. They are set out so that they are before you; <b>I make no "
+               "submission about what any of them shows.</b>", Q))
+story.append(P("<b>26/10/2022</b> — <i>“ADHD”</i> and <i>“Anxiety”</i>, appearing in the <i>“Past "
+               "Medical History”</i> list of the referral letter of 16 May 2024 from Dr William "
+               "Zhao to Dr Arash Amini, together with <i>“28/06/2023 Infection”</i>.", QQ))
+story.append(P("<b>16/11/2023</b> — Dr Priyal De Silva Nanayakkara: <i>“Poor sleep. Shift work. "
+               "Takes melatonin 2 mg to help to go to sleep, soem time 4 mg, but does not help "
+               "much. Cannot work/ do shifts if he does not get a good sleep. Does not take them "
+               "every day. No psycological illness such as depression/ psycosis. mood good.”</i> — "
+               "melatonin and temazepam prescribed.", QQ))
+story.append(P("<b>16/05/2024</b> — the consultation note records <i>“renew referral to "
+               "psychiatrist”</i>, and the referral letter above is that referral, <i>“for ongoing "
+               "care and management”</i>; together with the current medications recorded in it.", QQ))
+story.append(P("<b>28/06/2024</b> — Dr Bogdan Slawinski: <i>“wants melatonin, to help to sleep … "
+               "stress at work … upset by people not following rules”</i>; reason for visit "
+               "<i>“Anxiety”</i>.", QQ))
+story.append(P("<b>01/07/2024</b> — Dr Peter Hawes: <i>“been there 5 years”</i>; reason for visit "
+               "<i>“work stress”</i>.", QQ))
+story.append(P("On those entries and on the material generally, I ask:", BODY))
+story.append(P("<b>(a)</b> what each of those entries records; and <b>whether any diagnosis of an "
+               "anxiety disorder appears anywhere in the material</b>;", QQ))
+story.append(P("<b>(b)</b> what, if anything, the current medications recorded in the letter of "
+               "16 May 2024 indicate as to treatment at that date;", QQ))
+story.append(P("<b>(c)</b> <b>how, if at all, attention deficit features bear on vulnerability to "
+               "injury</b> where continuous shift work is worked without adequate recovery between "
+               "shifts, and under sustained high-volume concurrent demand of the kind described at "
+               "Attachment 3;", QQ))
+story.append(P("<b>(d)</b> what significance you attach to the <b>renewal of referral on 16 May "
+               "2024</b>, having regard to the entry of 16 November 2023; what, if anything, the "
+               "material shows occurred between those two dates; and when psychiatric care began, "
+               "and for what;", QQ))
+story.append(P("<b>(e)</b> what the material shows as to <b>any psychiatric treatment, or any "
+               "absence from work on psychological grounds</b>, before 2024 — and what that "
+               "indicates about my level of function in this role, having worked continuous shift "
+               "work in this position from 2019. Does anything in the records bear on the date of "
+               "onset?", QQ))
+story.append(P("<b>(f)</b> whether there was any pre-existing condition or vulnerability and, if "
+               "so, whether the matters at Attachments 1 to 3 <b>aggravated</b> it, and to what "
+               "extent.", QQ))
 story.append(P("<b>1.4</b> Whether any premorbid personality features bear on the diagnosis, and if "
                "so how — from your own current clinical assessment. I do not ask you to adopt or "
                "repeat any earlier characterisation.", Q))
@@ -465,9 +463,9 @@ story.append(P("<b>2.4 The three stressors identified in the capability checklis
                "As to (ii), the assumed facts include: a rostering error acknowledged in writing as "
                "having been made by another person; a leave application declined for a missing "
                "attachment which a review found <i>“in fact… present”</i>; and a payroll correction "
-               "which another person was instructed to make and which took 25 days. <b>Whether "
-               "bearing the consequence of errors made by others is a recognised occupational "
-               "stressor, and by what mechanism.</b>", Q))
+               "which another person was instructed to make and which took 25 days. <b>Whether, and "
+               "by what mechanism if any, dealing with the consequences of administrative errors of "
+               "that kind can contribute to or exacerbate the condition you have diagnosed.</b>", Q))
 
 story.append(P("MATTER 3 — WAS THE EMPLOYMENT A SIGNIFICANT CONTRIBUTING FACTOR?", ISSUE))
 story.append(P("<b>This matter has three parts, and I ask you to take them in the order given</b> — "
@@ -508,7 +506,7 @@ story.append(P("<b>3.2 The interval, and the mechanism.</b> The rostering and ad
                "formulation — and if consistent, <b>by what mechanism</b>? Separately, what "
                "significance, if any, attaches to the interval between onset and first presentation, "
                "the first workers' compensation medical certificate in the List of Documents being "
-               "dated 1 July 2024? Please take into account your answer at <b>1.3(e)</b> as to the "
+               "dated 1 July 2024? Please take into account your answer at <b>1.3(d)</b> as to the "
                "renewal of psychiatric referral on 16 May 2024.", Q))
 
 story.append(P("<b>3.3 Causation — your conclusion.</b> On the assumed facts, and having regard to "

@@ -1924,3 +1924,49 @@ count, the 1.3(d)→(e) cross-reference, schedule section F, and now these five.
 ## 33.2 STATE AFTER THE FIX
 **7pp** · headings 1.1–1.5, 2.1–2.4, 3.1–3.8 all present · all ten forbidden terms **0** · old
 wording of all four textual defects **0** · one bracket, `[DATE]`.
+
+---
+
+# ⭐⭐ PART 34 — THE TWO LEADING PASSAGES, SOFTENED — FINAL, 17 AUGUST SEND
+
+## 34.1 ⭐⭐⭐ 1.3 REBUILT — NEUTRAL LIST, THEN OPEN QUESTIONS
+**The problem:** the questions embedded the favourable characterisation in the question itself.
+| ⛔ Was | ✅ Now |
+|---|---|
+| *"is it **a diagnosis made at a consultation, or a history-list item carried forward**?"* | *"what each of those entries **records**"* — the binary supplied one answer; the open form does not |
+| *"Is attention deficit a longstanding neurodevelopmental condition **rather than a psychiatric injury**?"* | *"**how, if at all**, attention deficit features bear on vulnerability to injury…"* |
+| *"…and about **sleep disturbance attributed to shift work** seven months before onset?"* | the entry is **quoted and left to speak** — the attribution was mine, not the record's |
+
+⭐ **Structure changed too, and it also cuts his time:** the five entries are now listed **once, in
+date order, without comment** — *"They are set out so that they are before you; **I make no
+submission about what any of them shows**"* — followed by **six open questions** instead of eight
+interrogative ones.
+⇒ **Every entry the Regulator relies on is still squarely before him. Nothing tells him what to
+find.**
+
+## 34.2 ⭐⭐ 2.4(ii) — THE ASSERTION REMOVED
+| ⛔ Was | ✅ Now |
+|---|---|
+| *"**Whether bearing the consequence of errors made by others is a recognised occupational stressor**, and by what mechanism."* | *"**Whether, and by what mechanism if any, dealing with the consequences of administrative errors of that kind can contribute to or exacerbate** the condition you have diagnosed."* |
+
+⇒ The old form told him the category existed and asked him to confirm it. **The new form asks
+whether it does anything at all** — and *"if any"* makes a negative answer available, which is what
+makes a positive one worth having.
+
+## 34.3 ⛔⛔ AND THE RENUMBERING BROKE 3.2 AGAIN — CAUGHT ON THE READ
+Rebuilding 1.3 moved the referral question from **(e) to (d)**. **3.2 still pointed at 1.3(e)** —
+which is now the psychiatric-treatment question. ⚠ **The identical defect as this morning, from the
+identical cause.** Corrected to **1.3(d)** and verified against the rendered text.
+⚠⚠ **And the 1.3 rewrite itself was lost once** — batched with the 2.4 fix, and an exception on the
+2.4 pattern aborted the write. **Fifth time today.** ⇒ **The rule stands and it is not optional:
+apply every replacement independently, and read the document after.**
+
+## 34.4 FINAL STATE — SENDING MONDAY 17 AUGUST 2026
+| | |
+|---|---|
+| Letter | **7pp**, dated **17 August 2026** |
+| Schedule | **3pp**, dated 17 August 2026 |
+| Covering email | **1pp** |
+| Pack | **12 files, 77pp** |
+| Sixteen-term sweep across all three outgoing documents | **0** |
+| **Brackets remaining anywhere** | ⭐ **0** |

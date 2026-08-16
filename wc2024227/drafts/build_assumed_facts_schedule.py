@@ -67,7 +67,7 @@ def T(rows, w):
 
 s = []
 s.append(P("Schedule of assumed facts", H1))
-s.append(P("WC/2024/227 · Shepherd · accompanying the letter of instruction · [DATE]", SMALL))
+s.append(P("WC/2024/227 · Shepherd · accompanying the letter of instruction · 17 August 2026", SMALL))
 s.append(P("This schedule identifies, by source and paragraph, the facts referred to in Part B of the "
            "letter of instruction — <b>the facts you are asked to assume</b>. <b>The documents themselves "
            "accompany it, complete and unmarked.</b> "
