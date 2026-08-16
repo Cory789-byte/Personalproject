@@ -76,3 +76,55 @@ commissions an IME.**
 2. ⛔ Any reference to the parallel tracks, the disclosure, or the conflict letter as such.
 3. ⛔ Any characterisation of anyone's conduct.
 4. ⛔ Any settlement proposal, to either recipient, in the same communication.
+
+---
+
+# ⭐⭐⭐ PART 8 — BUILT, 16 AUGUST: `drafts/out/DISTRIBUTION_NOTES_report.pdf`
+
+> **Cory, 16 August: *"the letter I give to both I am forth coming."***
+
+Both notes now carry **the same four facts on their face**:
+1. what the report is, and who wrote it;
+2. that it answers **both** the three matters in issue in the appeal **and** the employer's request
+   of 31 July 2026;
+3. that **the identical report has gone to the other recipient, the same day**;
+4. that **Metro South Health met the cost**, and that the report was **instructed by, and addressed
+   to, Mr Shepherd**.
+
+## 8.1 ⭐⭐ THE NOTES ARE NOT IDENTICAL — AND THAT IS FUNCTION, NOT CONCEALMENT
+**Disclosure carries no ask**, so the Regulator's note asks for nothing. **A medical answer to a
+capacity request is useless unless it is acted on**, so the employer's note asks for implementation
+and pay. ⇒ **Neither recipient is told anything the other is not.** The difference is entirely in
+what is *requested*, which is the one thing that legitimately differs between them.
+
+## 8.2 ⭐⭐⭐ THE LETTER OF INSTRUCTION AND THE SCHEDULE GO TO BOTH
+That is the forthcoming posture, and **it is also the strongest available move.**
+| | |
+|---|---|
+| The instruction shows on its face that the assumed facts are **the Regulator's own accepted facts and the employer's own documents** — not his account | ⇒ it **proves** the answer to their question 1(c) rather than asserting it |
+| It shows what he **declined to ask** — no view on reasonableness, no view on accommodation, no view on any reporting line or person | ⇒ **restraint is visible**, and restraint is what makes an expert credible |
+| It shows the schedule's **section B** — the matters the Regulator does *not* accept | ⇒ **nothing was curated** |
+
+⭐⭐⭐ **An expert report whose instruction is disclosed is worth far more than one whose
+instruction is withheld and then demanded.** ⇒ Disclosing it voluntarily, at the same moment as the
+report, converts the single most attackable feature of any expert opinion into its strongest.
+
+## 8.3 WHAT NOTE 2 CARRIES THAT NOTE 1 DOES NOT — AND WHY EACH EARNS ITS PLACE
+| ¶ | | Why |
+|---|---|---|
+| **2** | **The scope line** — questions going to workplace arrangements are identified as such in the report; if any clinical matter remains, put it and it will go back to Dr Krishnaiah | ⭐⭐ **This is what stops *"you did not answer questions 3 and 9."*** It converts a refusal into an open offer |
+| **3** | **Their own policy, quoted** — whole-organisation test; **onus on Queensland Health** | ⭐⭐⭐ They invoked G3 on 31 July. **The test is not whether the Logan roster can absorb it. It is whether Metro South Health can — and proving it cannot is theirs** |
+| **4** | **The ask** — implement the adjustments, return to the substantive position, restore pay, recredit the leave debited since 3 July 2026 | Without it the report is information, not a step |
+| **5** | The **3 August** matters remain undetermined, including the request whose period expires **24 August 2026** | ⭐ Puts the deemed refusal in front of them on the day the report lands |
+
+## 8.4 ⛔ THE FOUR THINGS THAT ACCOMPANY NEITHER NOTE
+**No reference to the Public Interest Disclosure or to reprisal** · **no reference to any conflict
+of interest** · **no characterisation of anyone's conduct** · **nothing from the parallel tracks.**
+⚠ And nothing about the December 2024 matter, its outcome, or the separation document — **standing
+rule 10.**
+
+## 8.5 ⛔ SEND SIMULTANEOUSLY
+Within the same minutes. **No sequencing inference is then available to anyone**, in either forum.
+⚠ Before Note 2: the flexible-working clause is referred to as *"the flexible working provisions of
+the Enterprise Agreement"* **without a clause number**, which is safe as it stands. Cite a number
+only after verifying it against EB12.
