@@ -1365,3 +1365,43 @@ tolerated over the past twelve months without deterioration."*
 ## 25.6 THE GENERAL RULE THIS YIELDS
 ⭐⭐⭐ **Before adding a question that asks a clinician to reconcile two things, check whether the
 record already reconciles them. If it does, the question does not close a gap — it opens one.**
+
+## 25.7 ⭐⭐⭐ AND CORY'S BETTER ANSWER — IT IS IN THE SENTENCE ITSELF
+> *"or because the separation at the time was something extra"*
+
+**Read the whole sentence, not the tail of it.** Response ¶36 quotes the report of 13 February 2025
+verbatim:
+> *"**Given the complex workplace issues, ongoing WorkCover claim and disputed unfair dismissal
+> proceedings and impaired decision making abilities** it is unclear at this stage the work goal and
+> return to work."*
+
+⭐⭐⭐ **The report names four reasons why the work goal was unclear, and THREE OF THEM ARE
+PROCEDURAL, NOT CLINICAL.** It is not a statement that he lacked capacity. **It is a statement that
+a return-to-work *goal* could not be defined while his employment status and his claims were
+unresolved** — you cannot set a return-to-work plan when it is not settled whether there is a
+workplace to return to.
+
+⇒ **So the 2025 uncertainty resolved for a reason that has nothing to do with his health:** by 2026
+the employment was on foot — substantive position, reduced hours approved three times, the shift
+requirement retained. **The work goal became definable because the employment question was
+answered.**
+
+⭐⭐ **That is a better answer than the graded-exposure reading at 25.2, and it does not depend on
+it.** Both are true, and together they leave nothing to reconcile.
+
+## 25.8 ⛔ AND THE DISCIPLINE HOLDS ANYWAY — WE DO NOT PUT ANY OF IT TO HIM
+The dismissal stays out of the instruction (`THE-PID-AND-THE-DOCTOR.md` Part 4, unchanged).
+⭐⭐⭐ **And it does not need to go in, because the doctor already holds his own sentence.** His
+report of 13 February 2025 is **Attachment 4(d)**. The explanation is in his own words, in his own
+document, in the pack. ⇒ **We supply the record. He supplies the reason. That is the correct
+division and it is the whole design.**
+
+⚠ **Two notes for completeness, neither requiring action:**
+1. He may repeat the phrase *"disputed unfair dismissal proceedings"* in the new report as part of
+   his own history-taking. **That is his prior clinical record and it is unobjectionable** — it is
+   not adopting another decision-maker's finding, and MSH is aware of the matter. ⚠ Expect it;
+   do not prompt it.
+2. **Attachment 4 does not travel to the employer.** The distribution notes send *the report, the
+   letter of instruction and the schedule of assumed facts* to both — **not the attachments.** The
+   Regulator already holds them; MSH holds its own. ⇒ **The 13 February 2025 report does not go to
+   MSH from us.**
