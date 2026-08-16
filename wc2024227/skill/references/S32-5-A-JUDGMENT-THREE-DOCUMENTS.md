@@ -287,18 +287,18 @@ of 21 May are both on the record; **the eighteen days between them require no ad
 Six passes over the letter of instruction. `drafts/out/INSTRUCTION_Krishnaiah_4DOC_DRAFT.pdf`,
 5pp. The defects found and cured, in order of how much they would have cost.
 
-## 10.1 ⛔⛔ THE 26 OCTOBER 2022 QUESTION ASKED FOR SOMETHING HE DOES NOT HOLD
+## 10.1 ⛔⛔ THE 26 OCTOBER 2022 QUESTION ASKED FOR SOMETHING THAT IS NOT IN FRONT OF HIM
 The old 1.3 asked him to address *"earlier entries referring to anxiety, attention deficit
-features or stimulant prescribing."*
-> Verified from the face of the export: ***"Subpoena generated using the following date range:
-> 01/01/2023 to 01/07/2024."***
+features or stimulant prescribing."* **They are not in his attachment.**
+⇒ An instruction that asks an expert to address material he was not given produces either silence
+or invention.
 
-⇒ **Those entries were never within the notice's scope and are not in his attachment.** An
-instruction that asks an expert to address material he was not given is an instruction that
-produces either silence or invention. ⭐ **1.3(b) now tells him what the respondent asserts, tells
-him the span of what he holds, and asks him to say whether he needs the earlier records.** That
-converts a hidden hole into a documented one — and it is the respondent's own assertion that will
-have to be proved.
+⭐ **1.3(b) now puts the respondent's assertion to him as an assertion** — *a past medical history
+of anxiety and ADHD from 26 October 2022* — and asks whether anything in the material before him
+indicates a history of that kind, whether it would alter his opinion if such a history were
+established, and whether he requires anything further.
+⛔⛔ **AND IT SAYS NOTHING ELSE** — see Part 11. **It is the respondent's assertion, and it is the
+respondent's to prove.**
 
 ## 10.2 ⭐⭐ AND A FACT FOUND IN HIS OWN ATTACHMENT WHILE CHECKING IT
 **16/11/2023 — Dr P. Nanayakkara — Temazepam 10mg nocte prn (qty 25); Melatonin 5mg MR.**
@@ -377,24 +377,26 @@ The phrase is the **respondent's characterisation of the appellant's own medical
 something which should be in it is not. **Repeating it adopts it**, and it carries an implication
 the record does not support: that the production was incomplete or curated.
 
-⭐⭐ **And it is not even a safe characterisation to adopt, because it is wrong on the face of the
-production.** The export states its own range: **01/01/2023 to 01/07/2024**. A 26 October 2022
-entry is not *missing* from a document that never covered 2022 — **it was outside the scope of the
-notice.**
+⭐⭐⭐ **AND THE RULE IS WIDER THAN THE PHRASE (Cory, 16 Aug — "leave out the A5 part, the
+document-held part, all of that").** Do not answer it either. **Any statement about which exhibit
+holds what, or about the range or completeness of the production, comes out** — including the
+answer that looks helpful.
 
 ## 11.1 THE RULE
 | | |
 |---|---|
 | ⛔ **Never write or say** | *"missing from Exhibit A5"* · *"not in the exhibit produced"* · any variant asserting the file is incomplete |
-| ✅ **Say only** | **"The respondent asserts a past medical history of anxiety and ADHD from 26 October 2022."** |
-| ✅ **And, where it matters** | **"That period falls outside the range of the records produced, which run from 1 January 2023."** |
+| ⛔ **And never answer it with** | *"that period is outside the range of the records produced"* · *"the records run from 1 January 2023"* · any statement about the span of what is held |
+| ✅ **Say only, and stop** | **"The respondent asserts a past medical history of anxiety and ADHD from 26 October 2022."** |
 
-## 11.2 ⭐⭐ WHY THE SHORTER FORM IS ALSO THE STRONGER ONE
+## 11.2 ⭐⭐⭐ WHY SILENCE ON IT IS THE STRONGER POSITION
 Stated as a bare assertion, **the burden of proving it sits with the respondent** — it is an
-allegation about documents it has not produced. The moment the phrase *"missing from Exhibit A5"*
-is repeated, the conversation becomes about **whether his file is complete**, which is a fight
-about him rather than about their proof.
-⇒ **Put them to proof of what they say their records show. Add nothing.**
+allegation about documents it has not produced.
+⚠ **The rebuttal is the trap.** Explaining *why* the 2022 material is not there concedes the
+premise that its absence needs explaining, and moves the argument onto **the completeness of his
+medical file** — a fight about him rather than about their proof. It also invites the next request
+for records.
+⇒ ⭐ **Put them to proof of what they say their records show. Add nothing. Explain nothing.**
 
 ## 11.3 WHERE IT WAS REMOVED
 `confirmed-record.md` (4 places) · `FORM24-VERIFICATION-5AUG.md` (2) · `MAXIMISING-THE-APPEAL.md`
@@ -403,7 +405,15 @@ about him rather than about their proof.
 the schedule and the letter of instruction.
 
 ## 11.4 ⭐ AND A CONSEQUENTIAL CORRECTION THE RULE FLUSHED OUT
-The schedule's section B said the 2022 material *"is in the clinical records provided at
-Attachment 4."* ⛔ **It is not** — the production begins 1 January 2023. The line now reads that
-**the period falls outside the span of the records provided**, which matches question 1.3(b) of
-the letter of instruction. The schedule and the letter now say the same thing.
+The schedule's section B had said the 2022 material *"is in the clinical records provided at
+Attachment 4."* ⛔ **That was wrong.** It now reads, in full:
+> **¶35 — Denied. The respondent asserts a past medical history of anxiety and ADHD from
+> 26 October 2022.**
+
+**One sentence. No exhibit, no range, no completeness.** The letter of instruction at 1.3(b) says
+the same and stops in the same place.
+
+## 11.5 WHERE THE OPERATIONAL FACT STILL LIVES
+⭐ The range of the production is recorded **once**, in `ASHMORE-PRODUCTION-GAP.md`, because it is
+needed internally — it is why the clinician is not asked for 2022 entries. ⛔ **It is not repeated
+anywhere else, it is not an argument, and it does not go in any document or any letter.**

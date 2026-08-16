@@ -98,10 +98,10 @@ c.append(P("<b>5. ⭐ Confirm the certificate of capacity wording of 3 July 2026
            "deterioration”</i> is quoted twice — in the schedule and at question 3.6. It is the "
            "last unverified quotation in the pack. <b>Read it from the certificate before "
            "sending.</b>", ITEM))
-c.append(P("<b>6. ⚠ The records span 1 January 2023 to 1 July 2024</b> — verified from the face of "
-           "the export. The letter now says so and invites him to ask for more. ⛔ <b>Do not "
-           "represent the records as complete for any wider period</b>, and note that the month of "
-           "first presentation (1 July – 1 August 2024) is outside the production.", ITEM))
+c.append(P("<b>6. ⛔ Say nothing about which exhibit holds what, or about the span of the "
+           "production.</b> The letter and the schedule state only what the respondent asserts — a "
+           "history from 26 October 2022 — and nothing about what the file does or does not "
+           "contain. <b>Do not add it back in correspondence.</b> It is their assertion to prove.", ITEM))
 
 c.append(P("STILL MISSING FROM THE PACK — AND WHY IT MATTERS", SEC))
 c.append(P("<b>7. ⭐⭐ The three movement forms</b> — reduced hours approved by the Director on "

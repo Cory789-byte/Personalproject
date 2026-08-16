@@ -24,9 +24,10 @@ render pages 1–5; Respondent's Response at render pages 7–10.
       entry) was listed as ADMITTED. It is **DENIED** — Response ¶32 asserts a past history of
       anxiety and ADHD **from 26 October 2022**. Presenting that to a psychiatrist as an admitted
       fact would have been the single most damaging thing in the pack.
-      ⛔ **Do not repeat the respondent's characterisation of what the exhibit does or does not
-      contain. State only what it asserts: a history from 26 October 2022.** The records produced
-      run from 1 January 2023, so the assertion is about a period outside them.
+      ⛔ **State only what the respondent asserts: a history from 26 October 2022. Say nothing
+      about which exhibit holds what, and nothing about the span of the production.** Any statement
+      about what the file does or does not contain is an argument about him rather than about their
+      proof — and it is their assertion to prove.
    2. Notice ¶34 (the 16 Nov 2023 entry) is admitted only as **listed in the record**; accuracy
       is expressly not admitted (Response ¶31).
    3. Notice ¶38 (MDD, 13 Feb 2025) is admitted only as **what the report says**; accuracy not
@@ -131,9 +132,7 @@ s.append(T([
    "depression/ psychosis”</i>) <b>is listed in the record, but does not admit its accuracy</b>.",
    SMALL)],
  [P("35", SMALL), P("<b>Denied.</b> The respondent asserts <b>a past medical history of anxiety and "
-   "ADHD from 26 October 2022</b>. <b>That period falls outside the span of the clinical records "
-   "provided</b>, which run from 1 January 2023. The opinion should address the assertion on the "
-   "material available.", SMALL)],
+   "ADHD from 26 October 2022</b>.", SMALL)],
  [P("47", SMALL), P("<b>Denied</b> that the line manager had simply held the instruction: the "
    "respondent says <i>“Ms Taylor needed confirmation from payroll and then she needed to be "
    "satisfied that the AVAC was accurate.”</i> <i>(The two emails at ¶¶40 and 46 are admitted.)</i>",

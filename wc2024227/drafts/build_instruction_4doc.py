@@ -25,12 +25,13 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    8-hour break)". Question 2.2 now states both figures. On either, the break was short — so the
    clinician is not resting on a contested premise.
 
-4. ⛔⛔ THE 26 OCTOBER 2022 MATERIAL IS NOT IN THE ATTACHED RECORDS. Verified from the face of
-   the export: "Subpoena generated using the following date range: 01/01/2023 to 01/07/2024".
-   The old question 1.3 asked him to address "earlier entries referring to anxiety, attention
-   deficit features or stimulant prescribing" — entries he does not hold and which were never
-   within the notice's scope. Question 1.3 is rewritten to tell him what the respondent asserts,
-   tell him the span of what he has, and ask him to say whether he needs records outside it.
+4. ⛔⛔ THE OLD 1.3 ASKED HIM TO ADDRESS ENTRIES THAT ARE NOT IN FRONT OF HIM — "earlier entries
+   referring to anxiety, attention deficit features or stimulant prescribing". 1.3(b) now puts the
+   respondent's assertion to him as an assertion, and asks whether the material before him
+   indicates a history of that kind and whether he needs anything further.
+   ⛔ THE LETTER SAYS NOTHING ABOUT WHICH EXHIBIT HOLDS WHAT, OR ABOUT THE SPAN OF THE PRODUCTION
+   (Cory's instruction, 16 Aug). Any statement about what the file does or does not contain turns
+   the argument into one about him rather than about their proof. It is their assertion to prove.
 
 5. ⭐ AND A FACT FOUND IN HIS OWN ATTACHMENT WHILE CHECKING. On 16 November 2023 — the date of the
    "no psychological illness" entry — Dr Nanayakkara prescribed temazepam 10mg nocte and melatonin
@@ -201,11 +202,9 @@ story.append(T([
 
 story.append(P("<b>The clinical records are the complete records held by the respondent in this "
                "proceeding, provided in full and unedited</b> — including entries unrelated to this "
-               "matter and entries that may not assist me. I have not selected among them. <b>They "
-               "were produced to the respondent for the period 1 January 2023 to 1 July 2024, and "
-               "that is the span of the general-practice material you hold.</b> If records outside "
-               "that period, or any other material, would assist you, please say so and I will "
-               "obtain them.", BODY))
+               "matter and entries that may not assist me. I have not selected among them. <b>If any "
+               "further records or other material would assist you, please say so and I will obtain "
+               "them.</b>", BODY))
 
 story.append(P("PART B2 — WHAT IS ALREADY RECORDED, AND WHAT I AM NOT ASKING YOU TO ESTABLISH", PART))
 story.append(P("Attachments 1 to 3 already record the nature of the work, what occurred, and what "
@@ -255,11 +254,10 @@ story.append(P("<b>(a)</b> The general-practice records include an entry of <b>1
                "accuracy</b>. On the same date the same practitioner prescribed <b>temazepam 10mg "
                "at night and melatonin 5mg</b>. What significance, if any, do you attach to that "
                "combination, and to sleep prescribing in a shift worker at that time?", QQ))
-story.append(P("<b>(b)</b> The respondent asserts that the records show <b>a past medical history of "
-               "anxiety and ADHD from 26 October 2022</b>. <b>That period is outside the span of the "
-               "records you hold.</b> Please say whether anything in the material you do hold "
+story.append(P("<b>(b)</b> The respondent asserts <b>a past medical history of anxiety and ADHD "
+               "from 26 October 2022</b>. Please say whether anything in the material before you "
                "indicates a history of that kind; whether it would alter your opinion if such a "
-               "history were established; and whether you require the earlier records in order to "
+               "history were established; and whether you require any further material in order to "
                "answer.", QQ))
 story.append(P("<b>(c)</b> Whether there was any relevant pre-existing condition or vulnerability; "
                "and if so, whether the matters at Attachments 1 to 3 aggravated it, and to what "

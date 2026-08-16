@@ -567,8 +567,7 @@ stop. (Discipline rule 1.)
    a later search.
 2. **It rests on material not before the Commission.** ¶8 says the records *"identify a past
    medical history of anxiety"*; their own answer places the asserted anxiety/ADHD history from
-   26 Oct 2022 — a period **outside the range of the records produced**, which run from
-   1 January 2023. The exhibit that *was* produced records, at **16 Nov 2023**, *"No psychological illness such as
+   26 Oct 2022. The records produced record, at **16 Nov 2023**, *"No psychological illness such as
    depression/psychosis"*, and they concede they hold nothing contemporaneous pre-2024
    contradicting it. **Put them to proof of what they say their records show.**
 3. **It is not an answer in any event.** *"A past medical history of anxiety"* is not a
@@ -1642,8 +1641,9 @@ after that goes in a separately headed section.
 
 ### C. ⚠⚠ THE PRE-EXISTING HISTORY — THE LIVE CONTEST
 The Regulator asserts the records show **anxiety and ADHD history from 26 October 2022**
-(Notice ¶35 — verification file says **CONTESTED, and this is the live risk**). ⚠ That period is
-**outside the 1 January 2023 – 1 July 2024 range of the production**. Plus **A5 p. 52 — the De Silva Nanayakkara entry of 16 Nov 2023**.
+(Notice ¶35 — verification file says **CONTESTED, and this is the live risk**).
+⛔ **State it as their assertion and stop** — no exhibit, no range, no completeness. See
+`S32-5-A-JUDGMENT-THREE-DOCUMENTS.md` Part 11. Plus **A5 p. 52 — the De Silva Nanayakkara entry of 16 Nov 2023**.
 
 ⛔ **DO NOT RUN A CLEAN BASELINE.** It is contested on their own material, and Form 24 ¶33/34
 admits only that *"the entry is listed in the record"* — **not its accuracy**. A report asserting
