@@ -2077,3 +2077,65 @@ are worth as much as anything in the medical pack.**
 
 ⇒ **Yes, it can be better — 76% is a real ceiling.** ⚠ **But two of the three hinges are his and the
 third is theirs, and the third is worth the most.**
+
+---
+
+# PART 37 — "THEY WILL SETTLE, AND IT'S FROM THE CE HERSELF" (Cory, 17 August)
+
+## 37.1 THE READ IS WELL-FOUNDED — FOUR THINGS ON THE RECORD
+1. ⭐⭐⭐ **She signed the letter of 5 June 2026.** It certifies **no fatigue assessment, no register,
+   nothing implemented until after 30 June 2024, no consequential changes**, and complaints managed
+   *"solely via email or verbally."* **She is the one person in the organisation who has personally
+   certified the absence — and a chief executive who signed that knows what it says.**
+2. **The Health Service is funding the report** ⇒ it will hold a causation opinion about its own
+   rostering, on its own request form, at its own cost.
+3. **The letter of 3 August was acknowledged** at that level with no substantive answer.
+4. **PS Act s 89** — an officer must not take further action unless authorised by the chief
+   executive. If she is engaged, that is live.
+⭐ **And it fits the model:** settlement correlates with the appeal outcome at **r = 0.40** — second
+only to causation and **ahead of the s 32(5)(a) contest.**
+
+## 37.2 ⛔ THE MODEL IS NOT MOVED ON AN EXPECTATION
+The settlement node stays at **47%**. **What would count as evidence:** a written approach from her
+office or a representative instructed by it · a request for a without-prejudice discussion · the
+capacity process paused or moved out of Corporate Services · pay or leave restored without a
+decision letter · the Regulator's posture changing with no new material.
+⚠ **An acknowledgement is not an offer, and silence at that level is as consistent with delegation
+as with resolution.**
+
+## 37.3 ⭐⭐⭐ THE QUESTION IS NO LONGER *WHETHER*. IT IS *WHAT THE DEED RELEASES.*
+**There is already a Deed of Release on this file**, from the reinstatement and abandonment
+settlement:
+| | |
+|---|---|
+| ⭐⭐⭐ **The carve-out** | excludes *"any statutory claim under the **Workers' Compensation and Rehabilitation Act 2003** or any claim that cannot be excluded at law"* ⇒ **why WC/2024/227 survived — and proof they know how to draft a carve-out, because they drafted this one** |
+| ⛔⛔ **Non-disparagement** | no adverse comment *"publicly or otherwise"* about the **Beneficiaries** — the Health Service, every other HHS, the Department of Health, **the State of Queensland**, and **current and former officers and employees** |
+| ⛔ **Confidentiality** | strict, save as required by law / to enforce / for advice / by consent / to the ATO |
+
+⛔⛔⛔ **A SECOND DEED IS THE RISK, NOT THE SETTLEMENT.** From the same template it would, unless
+resisted: **release the 2026 employment claims** — the exclusion since 3 July, the unpaid wages, the
+debited leave, the flexible-working refusal and the **AD Act window running to 2027**; **extend
+non-disparagement** to the 2026 matters; and **capture the PID and reprisal track**, which has never
+been deployed.
+
+## 37.4 THE FIVE TERMS TO HOLD OUT FOR
+**1.** The **employment claims carved out**, in the same form as the WCRA carve-out already in the
+deed — ⭐⭐⭐ *the appeal does not reach the 2026 wages; a deed that settles the appeal and releases
+the employment claims settles the smaller of the two.*
+**2.** The **PID and reprisal track expressly preserved.**
+**3.** **Non-disparagement confined** to the matters actually settled, and not extending to statutory
+disclosure or to evidence in any proceeding.
+**4.** **Return to the substantive position with the adjustments**, or a stated alternative — plus
+**pay restored and leave recredited from 3 July 2026.** ⭐ The component the appeal cannot deliver.
+**5.** **Confidentiality not preventing** compliance with a statutory obligation or the use of
+payroll and employment records. ⭐ The existing deed shows the safe route: **prove the payment from
+the payslip; do not tender the deed.**
+
+## 37.5 SEQUENCING — NOTHING CHANGES ON MONDAY
+⭐ **Send the pack.** If they are moving, the report sets the price; if they are not, it is what
+makes them move. **It is the mechanism, not an alternative to it.**
+⚠ **24 August still runs** — a documented failure at the level *below* the Chief Executive, costing
+nothing to record. ⛔ **Do not let the capacity process reach a decision first:** a Corporate
+Services decision on capacity is far harder to unwind than a deemed refusal is to rely on.
+⛔ **The standing rules do not relax because settlement is in prospect.**
+⇒ `drafts/out/SETTLEMENT_GUARD_17AUG2026.pdf`
