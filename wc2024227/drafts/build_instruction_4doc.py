@@ -112,7 +112,21 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    relationship and every answer is bad; q9 is a hypothetical premised on the employer's own
    failure to accommodate.
 
-16. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
+17. ⭐⭐⭐ THE DISTRIBUTION IS NOW STATED IN FULL (Cory, 16 Aug). Part D no longer says the report
+   "may be provided to my employer". It names both recipients — the Regulator by way of continuing
+   disclosure in the proceeding in which the Notice of Non-Party Disclosure was served ON HIS
+   PRACTICE, and MSH in answer to its request of 31 July 2026 — and states that both receive the
+   identical report on the same day, with this instruction and the schedule, each told the other
+   holds it.
+   ⭐⭐ WHY IT MATTERS TO HIM PARTICULARLY: the practice HAS BEEN SERVED WITH A FORM 29. He is under
+   a compulsory production obligation to the very party who will read this. Telling him plainly
+   that the report goes to the Regulator VOLUNTARILY, by the patient, removes any question about
+   whether he is producing under compulsion — and a clinician who knows both readers writes one
+   document that needs no re-explaining to either.
+   ⭐ And he is entitled to know his instruction will be disclosed. Saying so is proper, and it is
+   also the reason the instruction was written to be produced from the first draft.
+
+18. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
    facts accepted by Ms Renee Matheson, Senior Appeals Officer, on 18 February 2026; the Chief
    Executive's letter of 5 June 2026; the requirements of the position; and the clinical records in
    full — and two matters to TAKE INTO ACCOUNT: the relationship breakdown (3.1) and the past
@@ -144,7 +158,7 @@ ISSUE = ParagraphStyle('ISSUE', parent=ss['Heading2'], fontName='Helvetica-Bold'
 SUB = ParagraphStyle('SUB', parent=ss['BodyText'], fontName='Helvetica-Bold',
                      fontSize=9.7, leading=13.5, spaceBefore=9, spaceAfter=3)
 BODY = ParagraphStyle('BODY', parent=ss['BodyText'], fontName='Helvetica',
-                      fontSize=9.7, leading=13.5, spaceAfter=6)
+                      fontSize=9.7, leading=13.2, spaceAfter=5.5)
 Q = ParagraphStyle('Q', parent=BODY, spaceBefore=6, spaceAfter=3, leftIndent=6)
 QQ = ParagraphStyle('QQ', parent=BODY, spaceBefore=3, spaceAfter=3, leftIndent=16)
 QQQ = ParagraphStyle('QQQ', parent=BODY, spaceBefore=2, spaceAfter=2, leftIndent=26)
@@ -553,17 +567,24 @@ story.append(P("<b>(e)</b> confirm that the opinions expressed are your own.", Q
 story.append(P("<b>If it would assist, I am content to be provided with a draft so that I can "
                "identify any factual error or omission in the material. I will not comment on your "
                "opinions, and any correction I offer will be to the facts only.</b>", BODY))
-story.append(P("The report is prepared for use in proceedings in the Queensland Industrial "
-               "Relations Commission and may be provided to my employer.", BODY))
+story.append(P("<b>As to who will receive the report.</b> It will be provided to both parties to "
+               "my matter, and to no one else:", BODY))
+story.append(P("<b>(i)</b> to the <b>Workers' Compensation Regulator</b>, by way of continuing "
+               "disclosure in the Commission proceeding — the same proceeding in which the Notice "
+               "of Non-Party Disclosure was served on your practice; and", QQ))
+story.append(P("<b>(ii)</b> to <b>Metro South Hospital and Health Service</b>, in answer to its "
+               "request for medical information of 31 July 2026.", QQ))
+story.append(P("<b>Both will receive the identical report, on the same day, together with this "
+               "letter of instruction and the schedule of assumed facts — and each will be told "
+               "that the other holds it.</b> There will be no separate or edited version.", BODY))
 story.append(P("<b>As to cost and instruction:</b> the cost of the report is being met by "
                "<b>Metro South Hospital and Health Service</b>, which has requested medical "
                "information about my capacity for work. <b>The report is nonetheless instructed by "
-               "me, and I ask that it be addressed to me.</b> Neither the fact of that funding nor "
-               "the identity of the party meeting the cost bears in any way on the opinion you "
-               "express.", BODY))
+               "me, and I ask that it be addressed to me.</b> Neither bears in any way on the "
+               "opinion you express.", BODY))
 
 doc = SimpleDocTemplate(OUT, pagesize=A4, leftMargin=20*mm, rightMargin=20*mm,
-                        topMargin=17*mm, bottomMargin=17*mm,
+                        topMargin=15*mm, bottomMargin=15*mm,
                         title="WC/2024/227 — Letter of instruction",
                         author="Cory Lea Shepherd")
 
