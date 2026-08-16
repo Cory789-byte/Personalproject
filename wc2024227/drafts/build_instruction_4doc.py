@@ -173,7 +173,7 @@ ISSUE = ParagraphStyle('ISSUE', parent=ss['Heading2'], fontName='Helvetica-Bold'
 SUB = ParagraphStyle('SUB', parent=ss['BodyText'], fontName='Helvetica-Bold',
                      fontSize=9.7, leading=13.5, spaceBefore=9, spaceAfter=3)
 BODY = ParagraphStyle('BODY', parent=ss['BodyText'], fontName='Helvetica',
-                      fontSize=9.6, leading=12.9, spaceAfter=5)
+                      fontSize=9.5, leading=12.6, spaceAfter=4.5)
 Q = ParagraphStyle('Q', parent=BODY, spaceBefore=6, spaceAfter=3, leftIndent=6)
 QQ = ParagraphStyle('QQ', parent=BODY, spaceBefore=3, spaceAfter=3, leftIndent=16)
 QQQ = ParagraphStyle('QQQ', parent=BODY, spaceBefore=2, spaceAfter=2, leftIndent=26)
@@ -238,8 +238,8 @@ story.append(T([
   P("The <b>employer</b>", SMALL), P("<b>Assumed fact</b>", SMALL)],
 ], [11*mm, 92*mm, 33*mm, 30*mm]))
 story.append(P("Also enclosed, and not evidence: a <b>schedule of assumed facts</b>, which identifies "
-               "by source and paragraph the facts referred to in Part B and records what the "
-               "Regulator does <i>not</i> accept; and a copy of the <b>Notice of Non-Party "
+               "by source and paragraph <b>the facts you are asked to assume</b>, and records what "
+               "the Regulator does <i>not</i> accept; and a copy of the <b>Notice of Non-Party "
                "Disclosure</b> served on your practice in this proceeding. <b>The five attachments "
                "themselves are provided complete and unmarked.</b>", SMALL))
 
@@ -251,15 +251,15 @@ story.append(T([
  [P("", SMALL), P("<b>Reason from</b>", SMALL), P("<b>Where</b>", SMALL)],
  [P("<b>1</b>", SMALL), P("The facts <b>accepted by the Workers' Compensation Regulator</b>, in the "
    "response signed by <b>Ms Renee Matheson, Senior Appeals Officer</b>, on <b>18 February "
-   "2026</b>", SMALL), P("Attachment 1", SMALL)],
+   "2026</b>", SMALL), P("Attachment 1<br/><font size=7>schedule A, A2, B</font>", SMALL)],
  [P("<b>2</b>", SMALL), P("The letter of the <b>Chief Executive of Metro South Hospital and Health "
-   "Service</b>, <b>5 June 2026</b>", SMALL), P("Attachment 2", SMALL)],
+   "Service</b>, <b>5 June 2026</b>", SMALL), P("Attachment 2<br/><font size=7>schedule C</font>", SMALL)],
  [P("<b>3</b>", SMALL), P("The <b>requirements of the position</b>, as my employer describes them",
-   SMALL), P("Attachment 3", SMALL)],
+   SMALL), P("Attachment 3<br/><font size=7>schedule D</font>", SMALL)],
  [P("<b>4</b>", SMALL), P("The <b>clinical records, in full</b> — your own file, my general-practice "
-   "records and the certificates", SMALL), P("Attachment 4", SMALL)],
+   "records and the certificates", SMALL), P("Attachment 4<br/><font size=7>schedule E</font>", SMALL)],
  [P("<b>5</b>", SMALL), P("The <b>changes to my working hours approved during 2026</b>", SMALL),
-   P("Attachment 5", SMALL)],
+   P("Attachment 5<br/><font size=7>schedule F</font>", SMALL)],
  [P("", SMALL), P("<b>And take into account</b>", SMALL), P("<b>Asked at</b>", SMALL)],
  [P("<b>6</b>", SMALL), P("The <b>relationship breakdown</b> and the other life stressors recorded "
    "in your own file", SMALL), P("question 3.1", SMALL)],
@@ -417,7 +417,8 @@ story.append(P("<b>2.2 Fatigue, and the rostering of 17 to 18 March 2024.</b> At
                "that on those dates I was rostered to finish at 23:00 and to commence the next "
                "shift at 06:00 — <b>a break of 7 hours</b>. The applicable minimum is recorded as "
                "<b>10 hours, or 8 hours by written agreement</b>. A further document of the "
-               "Regulator, dated 13 May 2026, records that an 8-hour written agreement applied and "
+               "Regulator, dated 13 May 2026 — <b>the passages are set out in the schedule at A2</b> — "
+               "records that an 8-hour written agreement applied and "
                "describes the shift as separated <i>“by only a 7-hour break (rather than an 8-hour "
                "break) … a result of human error”</i>. <b>On either figure the break was shorter "
                "than the minimum.</b> "
@@ -429,7 +430,7 @@ story.append(P("<b>2.2 Fatigue, and the rostering of 17 to 18 March 2024.</b> At
                "fatigue arising from a shortened break resolve with the break itself, or can it "
                "carry forward?</b>", Q))
 story.append(P("<b>2.3 The administrative sequence.</b> Attachment 1 and the further document of "
-               "13 May 2026 also record: an email "
+               "13 May 2026 (schedule A and A2) also record: an email "
                "of the Director dated <b>7 August 2023</b> acknowledging <i>“a rostering error that "
                "was accidentally made … with regards to night shifts”</i>; that a leave application "
                "for <b>20 to 27 February 2024</b> was declined for want of an attached statutory "

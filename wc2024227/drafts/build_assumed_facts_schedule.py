@@ -69,7 +69,8 @@ s = []
 s.append(P("Schedule of assumed facts", H1))
 s.append(P("WC/2024/227 · Shepherd · accompanying the letter of instruction · [DATE]", SMALL))
 s.append(P("This schedule identifies, by source and paragraph, the facts referred to in Part B of the "
-           "letter of instruction. <b>The documents themselves accompany it, complete and unmarked.</b> "
+           "letter of instruction — <b>the facts you are asked to assume</b>. <b>The documents themselves "
+           "accompany it, complete and unmarked.</b> "
            "Where a passage is quoted, the quotation is exact. <b>Section B records the matters the "
            "Workers' Compensation Regulator does <i>not</i> accept, so that the position is "
            "complete.</b>", BODY))
@@ -217,6 +218,22 @@ s.append(T([
    "routine remains central to symptom management following cessation of the night-time "
    "medication.”</i>", SMALL)],
 ], [17*mm, 149*mm]))
+
+s.append(P("F · FROM THE APPROVED CHANGES TO WORKING HOURS, 2026 — ATTACHMENT 5", SEC))
+s.append(P("Fields copied from the employer's own forms. Full-time fortnight for the position: "
+           "76 hours.", SMALL))
+s.append(T([
+ [P("<b>Delegate approval</b>", SMALL), P("<b>Effective period</b>", SMALL),
+  P("<b>Hours / fortnight</b>", SMALL), P("<b>Shift arrangements</b>", SMALL)],
+ [P("<b>27.02.2026</b>", SMALL), P("01.03.2026 – 15.03.2026", SMALL), P("<b>56.00</b>", SMALL),
+  P("<b>Continuous Shift Worker</b>", SMALL)],
+ [P("<b>17.04.2026</b>", SMALL), P("16.03.2026 – 26.04.2026", SMALL), P("<b>56.00</b>", SMALL),
+  P("<b>Continuous Shift Worker</b>", SMALL)],
+ [P("<b>09.06.2026</b>", SMALL), P("25.05.2026 – 28.06.2026", SMALL), P("<b>40.00</b>", SMALL),
+  P("<b>Continuous Shift Worker</b>", SMALL)],
+], [32*mm, 46*mm, 28*mm, 60*mm]))
+s.append(P("Each form records the movement task as <i>“Change to Working Conditions (Temporary)”</i> "
+           "and the position as <b>AO Switchboard, AO3, Level 04</b>.", SMALL))
 
 doc = SimpleDocTemplate("out/SCHEDULE_OF_ASSUMED_FACTS.pdf", pagesize=A4,
                         leftMargin=20*mm, rightMargin=20*mm, topMargin=17*mm, bottomMargin=17*mm,
