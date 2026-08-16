@@ -173,7 +173,7 @@ ISSUE = ParagraphStyle('ISSUE', parent=ss['Heading2'], fontName='Helvetica-Bold'
 SUB = ParagraphStyle('SUB', parent=ss['BodyText'], fontName='Helvetica-Bold',
                      fontSize=9.7, leading=13.5, spaceBefore=9, spaceAfter=3)
 BODY = ParagraphStyle('BODY', parent=ss['BodyText'], fontName='Helvetica',
-                      fontSize=9.4, leading=12.4, spaceAfter=4.2)
+                      fontSize=9.3, leading=12.2, spaceAfter=4)
 Q = ParagraphStyle('Q', parent=BODY, spaceBefore=6, spaceAfter=3, leftIndent=6)
 QQ = ParagraphStyle('QQ', parent=BODY, spaceBefore=3, spaceAfter=3, leftIndent=16)
 QQQ = ParagraphStyle('QQQ', parent=BODY, spaceBefore=2, spaceAfter=2, leftIndent=26)
@@ -242,7 +242,7 @@ story.append(T([
 story.append(P("Also enclosed, and not evidence: a <b>schedule of assumed facts</b>, which identifies "
                "by source and paragraph <b>the facts you are asked to assume</b>, and records what "
                "the Regulator does <i>not</i> accept; and a copy of the <b>Notice of Non-Party "
-               "Disclosure</b> served on your practice in this proceeding. <b>The five attachments "
+               "Disclosure</b> served on your practice in my Commission proceeding. <b>The five attachments "
                "themselves are provided complete and unmarked.</b>", SMALL))
 
 # ══════════════════════════════════════════════════════ PART B — BASIS
@@ -313,7 +313,7 @@ story.append(P("<b>Already recorded, by the Regulator or by my employer:</b> the
                "the position · the accuracy of Switchboard information as critical to clinical "
                "handover and patient safety · the applicable minimum break and the 7-hour break in "
                "fact rostered on 17 to 18 March 2024, described as human error · the related "
-               "administrative sequence in rostering, leave and pay · and that <b>no fatigue risk "
+               "administrative sequence in rostering, leave and pay · that <b>no fatigue risk "
                "assessment applied to the position</b>, fatigue risk management being implemented "
                "only after 30 June 2024, with no consequential changes to operating procedures · "
                "and the changes to my working hours approved during 2026. <b>The enclosed schedule "
@@ -523,8 +523,9 @@ story.append(P("<b>3.3 Causation — your conclusion.</b> On the assumed facts, 
                "contributing factor.", Q))
 
 story.append(P("Capacity, restrictions and adjustments — the matters my employer has asked about. "
-               "The employee capability checklist of 3 July 2026 records me fit for my substantive "
-               "role with adjustments; I ask only that your opinion be your own.", SUB))
+               "The employee capability checklist of 3 July 2026 records that usual switchboard "
+               "operational duties remain suitable, subject to the restrictions it sets out; I ask only "
+               "that your opinion be your own.", SUB))
 story.append(P("<b>3.4 Prognosis and current capacity.</b> Your prognosis; and, distinguishing "
                "<b>(a)</b> my capacity to perform the substantive role <b>with reasonable "
                "adjustments</b> from <b>(b)</b> any current incapacity. If there is current "
@@ -633,8 +634,8 @@ story.append(P("<b>Both will receive the identical report, on the same day, toge
 story.append(P("<b>As to cost and instruction:</b> the cost of the report is being met by "
                "<b>Metro South Hospital and Health Service</b>, which has requested medical "
                "information about my capacity for work. <b>The report is nonetheless instructed by "
-               "me, and I ask that it be addressed to me.</b> Neither bears in any way on the "
-               "opinion you express.", BODY))
+               "me, and I ask that it be addressed to me.</b> The funding, and the identity of the party "
+               "meeting it, bear in no way on the opinion you express.", BODY))
 
 
 story.append(PageBreak())

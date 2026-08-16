@@ -1891,3 +1891,36 @@ change to any procedure**, so the condition persisted unresolved by their own ce
 | Letter · schedule · covering email | **7pp · 3pp · 1pp** |
 | Pack | **12 files, 77 pages** |
 | Brackets remaining, whole letter | ⭐ **one — `[DATE]`** |
+
+---
+
+# ⛔⛔ PART 33 — THE AUTOMATED SWEEP CAUGHT NONE OF THESE FIVE (16 August)
+
+Cory asked whether I had checked for errors. I had run **ten automated checks and no human read**
+since the reframe and the three new limbs. **A full read then found five defects, and the sweep had
+returned clean on all of them.**
+
+| | The defect | How it got there |
+|---|---|---|
+| **1** | Part A: *"the Notice… served on your practice **in this proceeding**"* — **no antecedent.** After the reframe the letter opens with the employer's request; the Commission proceeding is not introduced until Part C | the reframe moved the context and left the pronoun behind |
+| **2** | Part B2: the list **terminated twice** — *"…leave and pay · **and** that no fatigue risk assessment applied … · **and** the changes to my working hours"* | adding Attachment 5 to a list that already had a terminator |
+| **3** | ⛔ *"The employee capability checklist… **records me fit** for my substantive role with adjustments"* — **the checklist does not say “fit”.** It records that *"usual switchboard operational duties remain suitable"* and sets restrictions | my characterisation stated as what a document records — **the exact class of error hunted all day** |
+| **4** | ⛔ Part D: *"**Neither** bears in any way on the opinion"* — **the referent was destroyed.** As written it says neither the funding **nor the instruction by the patient** matters, which is the opposite of the point | **my own line-saving trim**, made to pull the letter back to six pages |
+| **5** | *(layout)* the fixes pushed it to 8pp with a straggler | reclaimed by leading |
+
+## 33.1 ⭐⭐⭐ WHAT THIS MEANS FOR THE METHOD
+**The sweep tests for words that must not appear. It cannot test for words that appear and are
+wrong.** Every one of these five is grammatical, plausible and invisible to a grep:
+- a pronoun without an antecedent
+- a list with two conjunctions
+- a document described as saying something it does not say
+- a trim that inverted a sentence's meaning
+
+⇒ ⛔ **RULE, now standing: after ANY substantive edit, read the document end to end. The automated
+checks are a floor, not a ceiling — and they returned CLEAN on all five.**
+⚠ **That is the fourth time today** the check that found the defect was a human read: the Part A
+count, the 1.3(d)→(e) cross-reference, schedule section F, and now these five.
+
+## 33.2 STATE AFTER THE FIX
+**7pp** · headings 1.1–1.5, 2.1–2.4, 3.1–3.8 all present · all ten forbidden terms **0** · old
+wording of all four textual defects **0** · one bracket, `[DATE]`.
