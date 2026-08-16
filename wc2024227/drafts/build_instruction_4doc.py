@@ -95,7 +95,24 @@ REBUILD, 16 AUGUST 2026 — the changes from the previous draft, and why each wa
    document in an employment process, and if the report says something unhelpful, Cory learns it
    before MSH does.
 
-14. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
+15. ⭐⭐⭐ AUDITED AGAINST THE EMPLOYER'S NINE QUESTIONS, READ FROM SOURCE (16 Aug). Three changes:
+   (a) NEW 2.4 — the request's q1(b) names THREE stressors from the capability checklist, and one
+       of them, "being held accountable and blamed for the failures of others", was not squarely
+       asked. It is now, and the assumed facts carry it: a rostering error made by another person,
+       a leave decline where the attachments were in fact present, and a payroll correction another
+       person was instructed to make.
+   (b) NEW 3.7 — q2 (can he follow a reasonable and lawful direction, and participate in
+       performance/conduct discussions) was being DECLINED as a workplace question. ⛔ That was
+       wrong. It is a capacity question, the answer is favourable, and silence invites "the doctor
+       would not confirm he can take direction". It is now answered, narrowly, and it generates an
+       adjustment rather than a concession.
+   (c) 3.5(b) now gives him the employer's OWN recorded escalation process for Switchboard
+       complaints, so the restriction is framed against it.
+   ⭐ q3 and q9 remain declined, and correctly: q3 asks a doctor to opine on a reporting
+   relationship and every answer is bad; q9 is a hypothetical premised on the employer's own
+   failure to accommodate.
+
+16. ⭐⭐⭐ PART B NOW STATES THE BASIS AS A TABLE (Cory, 16 Aug): four sources to reason FROM — the
    facts accepted by Ms Renee Matheson, Senior Appeals Officer, on 18 February 2026; the Chief
    Executive's letter of 5 June 2026; the requirements of the position; and the clinical records in
    full — and two matters to TAKE INTO ACCOUNT: the relationship breakdown (3.1) and the past
@@ -391,11 +408,24 @@ story.append(P("<b>2.3 The administrative sequence.</b> Attachment 1 and the fur
                "than a single isolated event would? Please explain the mechanism, if any.</b>", Q))
 
 # ───────────────────────────── MATTER 3
+story.append(P("<b>2.4 The three stressors identified in the capability checklist.</b> The "
+               "employee capability checklist of 3 July 2026 identifies symptom exacerbation on "
+               "exposure to <b>(i) complaint handling</b>, <b>(ii) being held accountable and "
+               "blamed for the failures of others</b>, and <b>(iii) unpredictable rostering</b>. "
+               "<b>Please state the clinical basis on which each of those three is identified as "
+               "contributing to the condition</b>, by reference to the material.<br/>"
+               "As to (ii), the assumed facts include: a rostering error acknowledged in writing as "
+               "having been made by another person; a leave application declined for a missing "
+               "attachment which a review found <i>“in fact… present”</i>; and a payroll correction "
+               "which another person was instructed to make and which took 25 days. <b>Whether "
+               "bearing the consequence of errors made by others is a recognised occupational "
+               "stressor, and by what mechanism.</b>", Q))
+
 story.append(P("MATTER 3 — WAS THE EMPLOYMENT A SIGNIFICANT CONTRIBUTING FACTOR?", ISSUE))
 story.append(P("<b>This matter has three parts, and I ask you to take them in the order given</b> — "
                "the other factors and their timing first, then the interval and the mechanism, and "
                "your conclusion last, so that the conclusion rests on the two answers before it. "
-               "The questions on capacity, restrictions and adjustments follow at 3.4 to 3.7.", BODY))
+               "The questions on capacity, restrictions and adjustments follow at 3.4 to 3.8.", BODY))
 
 story.append(P("<b>3.1 Other factors, placed in time.</b> Please identify any non-employment "
                "factors relevant to <b>(i)</b> onset at or about <b>18 June 2024</b> and "
@@ -458,7 +488,11 @@ story.append(P("<b>(a)</b> any tasks, situations or environments likely to <b>ex
                "condition;", QQ))
 story.append(P("<b>(b)</b> if you consider a restriction on <b>complaint handling</b> clinically "
                "necessary, what activities it encompasses — receiving, documenting, redirecting or "
-               "resolving complaints, or all complaint-related interaction; and", QQ))
+               "resolving complaints, or all complaint-related interaction. <b>My employer records "
+               "that the established process for client complaints received by Switchboard "
+               "employees is for immediate escalation to, and management by, the Client Liaison "
+               "Officer and/or the Manager, Switchboard Services.</b> Please frame the restriction "
+               "by reference to that process; and", QQ))
 story.append(P("<b>(c)</b> your report of 13 February 2025 records that my <b>working memory</b> is "
                "affected under stress — what that means for performance of the duties at "
                "Attachment 3, and the circumstances likely to give rise to it.", QQ))
@@ -484,7 +518,13 @@ story.append(P("I note that the employee capability checklist of <b>3 July 2026<
                "supports recovery while minimising risk of exacerbation. Usual switchboard "
                "operational duties remain suitable; complaint-handling duties are excluded as "
                "below.”</i> Please take that record into account in answering (b) and (c).", BODY))
-story.append(P("<b>3.7 Foreseeable risk.</b> Whether exposure to the conditions described at "
+story.append(P("<b>3.7 Directions and workplace discussions.</b> Whether there is any clinical "
+               "impediment to my <b>following a reasonable and lawful direction</b> given by a "
+               "supervisor, or to my <b>participating in discussions concerning workplace "
+               "performance or conduct</b>. If any adjustment would be clinically indicated for "
+               "discussions of that kind — for example notice, a written agenda, the presence of a "
+               "support person, or duration — please specify it and its clinical basis.", Q))
+story.append(P("<b>3.8 Foreseeable risk.</b> Whether exposure to the conditions described at "
                "Attachments 2 and 3, <b>without</b> the adjustments at 3.5 and in the absence of a "
                "fatigue risk assessment, presents a foreseeable risk to my health or safety; and if "
                "so, what controls you consider medically necessary to manage it.", Q))

@@ -71,23 +71,25 @@ s.append(P("PART 2 — WHAT IT ANSWERS: BOTH INSTRUMENTS, ONE DOCUMENT", PART))
 s.append(P("<b>The Notice of Non-Party Disclosure</b> states the matters in issue in three numbered "
            "lines. Those are the report's spine — so it answers the Regulator's own framing, in the "
            "notice she served on his practice.", BODY))
-s.append(P("<b>The Request for Medical Information</b> asks nine questions. <b>Seven are answered. "
-           "Three are declined by design. One is answered on his terms.</b>", BODY))
+s.append(P("<b>The Request for Medical Information</b> asks nine questions. <b>Seven are answered outright, one on his "
+           "terms, and two are declined by design.</b>", BODY))
 s.append(T([
- [P("<b>RFMI</b>", SMALL), P("<b>Answered by</b>", SMALL), P("", SMALL)],
- [P("1(a) diagnosis date", SMALL), P("1.1", SMALL), P("✔", SMALL)],
- [P("1(b) clinical basis for the stressors", SMALL), P("2.1–2.3 + 3.3", SMALL), P("✔", SMALL)],
+ [P("<b>Their question</b>", SMALL), P("<b>Answered at</b>", SMALL), P("", SMALL)],
+ [P("1(a) when was MDD first diagnosed", SMALL), P("1.1", SMALL), P("ok", SMALL)],
+ [P("<b>1(b) clinical basis for the three named stressors</b>", SMALL),
+  P("<b>2.1–2.4 + 3.3</b>", SMALL), P("<b>new</b>", SMALL)],
  [P("<b>1(c) self-report, own assessment, or other?</b>", SMALL),
-  P("<b>Part B + the closing statement</b>", SMALL), P("⭐", SMALL)],
- [P("1(d) foreseeable risk and controls", SMALL), P("3.7", SMALL), P("✔", SMALL)],
- [P("2 lawful direction · conduct discussions", SMALL), P("—", SMALL), P("declined", SMALL)],
+  P("<b>Part B + Part D(c)</b>", SMALL), P("key", SMALL)],
+ [P("1(d) foreseeable risk and controls", SMALL), P("3.8", SMALL), P("ok", SMALL)],
+ [P("<b>2 lawful direction · conduct discussions</b>", SMALL), P("<b>3.7</b>", SMALL),
+  P("<b>new</b>", SMALL)],
  [P("3 fit under existing reporting arrangements", SMALL), P("—", SMALL), P("declined", SMALL)],
- [P("4 restrictions, basis, duration, review", SMALL), P("3.5", SMALL), P("✔", SMALL)],
- [P("5 complaint handling", SMALL), P("3.5(b)", SMALL), P("✔", SMALL)],
+ [P("4 restrictions, basis, duration, review", SMALL), P("3.5", SMALL), P("ok", SMALL)],
+ [P("5 what complaint handling encompasses", SMALL), P("3.5(b)", SMALL), P("ok", SMALL)],
  [P("6 inherent requirements <i>without restrictions</i>", SMALL), P("3.6(a)–(d)", SMALL),
   P("on his terms", SMALL)],
- [P("7 working memory", SMALL), P("3.5(c)", SMALL), P("✔", SMALL)],
- [P("8 exacerbating tasks and environments", SMALL), P("3.5(a)", SMALL), P("✔", SMALL)],
+ [P("7 working memory, in functional terms", SMALL), P("3.5(c)", SMALL), P("ok", SMALL)],
+ [P("8 exacerbating tasks and environments", SMALL), P("3.5(a)", SMALL), P("ok", SMALL)],
  [P("9 if we cannot accommodate", SMALL), P("—", SMALL), P("declined", SMALL)],
 ], [72*mm, 66*mm, 28*mm]))
 s.append(P("⭐⭐⭐ <b>1(c) is the one that pays.</b> They offered three options — self-report, his own "

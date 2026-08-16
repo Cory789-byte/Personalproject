@@ -1005,3 +1005,85 @@ worthless; asked open, **the answer comes back as his own finding and is unattac
 **6pp.** No decision flags · no unverified quotations · no pleading language · one bracket, the
 date. ⭐ **Same substance, fewer words, and the one trim that would have cost something was not
 taken.**
+
+---
+
+# ⭐⭐⭐ PART 21 — AUDITED AGAINST THE EMPLOYER'S NINE QUESTIONS, READ FROM SOURCE (16 August)
+
+`documents/2026-07-31_ScottHughes_RFMI_letter_to_GP_DrMa_9questions.pdf`, read in full. **Three
+changes, and one of them corrects a decision that was wrong.**
+
+## 21.1 THE CROSSWALK
+| Their question | Answered at | |
+|---|---|---|
+| **1(a)** when was MDD first diagnosed | **1.1** | ✔ |
+| **1(b)** clinical basis for the three named stressors | **2.1–2.4 + 3.3** | ⭐ **new 2.4** |
+| **1(c)** self-report, own assessment, or other | **Part B + Part D(c)** | ⭐⭐⭐ |
+| **1(d)** foreseeable risk and controls | **3.8** | ✔ |
+| **2** lawful direction · performance/conduct discussions | **3.7** | ⭐⭐ **was declined — now answered** |
+| **3** fit under existing reporting arrangements | — | ⛔ **declined, correctly** |
+| **4** restrictions, basis, duration, review | **3.5** | ✔ |
+| **5** what "complaint handling" encompasses | **3.5(b)** | ⭐ improved |
+| **6** inherent requirements *without restrictions* | **3.6(a)–(d)** | on his terms |
+| **7** working memory in functional terms | **3.5(c)** | ✔ |
+| **8** exacerbating tasks and environments | **3.5(a)** | ✔ |
+| **9** if we cannot accommodate | — | ⛔ **declined, correctly** |
+
+## 21.2 ⭐⭐ GAP — q1(b) NAMES THREE STRESSORS AND ONE WAS NOT SQUARELY ASKED
+Their question adopts the capability checklist's three: **complaint handling · being held
+accountable and blamed for the failures of others · unpredictable rostering.**
+Rostering was covered at 2.2. Complaint handling was reachable through 2.1. ⛔ ***"Being held
+accountable and blamed for the failures of others"* was not asked at all** — and it is the one
+with the strongest documentary support:
+| | |
+|---|---|
+| The rostering error was *"accidentally made by **Chloe**"* | **another person's error** |
+| The leave attachments were *"in fact… present"* — *"human error by **Ms Taylor**"* | **another person's error** |
+| The payroll correction **another person** was instructed to make took 25 days | **another person's delay** |
+
+⇒ ⭐⭐⭐ **New 2.4 asks the clinical basis of each of the three, and puts those three facts under
+limb (ii).** *"Whether bearing the consequence of errors made by others is a recognised
+occupational stressor, and by what mechanism."* **The employer named the stressor. The Regulator
+supplied the proof.**
+
+## 21.3 ⛔⛔ THE CORRECTION — q2 WAS BEING DECLINED, AND THAT WAS WRONG
+q2 asks whether he can **follow a reasonable and lawful direction** and **participate in
+discussions about workplace performance or conduct**. It was in Part D's declined list as a
+workplace question.
+
+⭐⭐⭐ **It is a capacity question, the answer is favourable, and silence is worse than an answer.**
+*"The doctor would not confirm he can take direction"* is a sentence you cannot afford to hand
+them — and it is the conduct framing that started all of this.
+⇒ **New 3.7** asks whether there is **any clinical impediment** to either, and — ⭐ the second half
+— what adjustment would be indicated for such discussions (notice, written agenda, support person,
+duration). **A "no impediment, with these arrangements" answer removes the pretext and generates an
+adjustment in the same breath.**
+
+⚠ **Their premise is loaded and it is not answered by the doctor:** *"the Health Service is not
+aware of any concerns being raised for appropriate management."* ⛔ That belongs in the covering
+note to MSH, against the record — not in a medical instruction.
+
+## 21.4 ⭐ q5 — GIVE HIM THEIR OWN PROCESS
+Their question carries their own sentence: *"established process for client complaints received by
+Switchboard employees is for **immediate escalation and management by the Health Service Client
+Liaison Officer and/or Manager, Switchboard Services**."*
+⇒ ⭐⭐⭐ **The restriction they are asking about is already their own process.** 3.5(b) now gives him
+that sentence and asks him to frame the restriction against it. **An adjustment that matches the
+employer's existing procedure is not a hardship — it is business as usual, and their own document
+says so.**
+
+## 21.5 ⛔ q3 AND q9 STAY DECLINED — AND THE REASONS ARE DIFFERENT
+| | |
+|---|---|
+| **q3** — fit to return under existing reporting arrangements, working with and reporting to the current line manager | ⛔⛔ **Every answer is bad.** *"No"* → redeployment or medical separation. *"Yes"* → the reporting line is conceded as unproblematic. And it asks a doctor to opine on a workplace relationship |
+| **q9** — if we cannot accommodate, can he safely return | ⛔ **A hypothetical premised on their own failure to accommodate**, under a policy whose onus is theirs |
+
+⭐ Part D already requires him to **say so rather than answer** — so the decline is express, reasoned
+and on the face of the report, which is far better than a gap.
+
+## 21.6 ⚠ AND ONE THING THE AUDIT SURFACED THAT IS NOT A DRAFTING POINT
+**The request of 31 July 2026 is addressed to Dr Day Hong Ma, not to Dr Krishnaiah.** ⇒ MSH can
+say *"we asked the general practitioner."* **The answer belongs in the covering note to MSH**: the
+psychiatrist is the treating specialist for the diagnosed condition, the checklist they are
+querying records psychiatric care, and their questions go to matters within his expertise. ⚠ Decide
+separately whether Dr Ma also responds — **two inconsistent answers would be worse than one.**
