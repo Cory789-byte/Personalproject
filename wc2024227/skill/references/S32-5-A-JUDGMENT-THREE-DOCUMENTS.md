@@ -1104,13 +1104,41 @@ months before the checklist.
 clinician's document, but the specialist's own recorded finding, predating the request by a year
 and a half.
 
-### 21.6.3 ⚠ WHAT IS STILL WORTH GETTING IN WRITING — AND IT IS NOW ONE POINT, NOT TWO
-The **who** is settled. **The dual purpose is not.** One line to Injury Management before the
-instruction goes:
-> confirming that Metro South Health will meet the cost of the report from Dr Krishnaiah answering
-> the request of 31 July 2026, **and noting that the report will also be provided in the appeal and
-> to the Workers' Compensation Regulator.**
+### 21.6.3 ⛔ NO ADVANCE DECLARATION TO MSH — CORY'S DECISION, 16 AUGUST
+> *"I am not declaring it now I will commission it and it will just be fact."*
 
-⭐⭐⭐ **Declare it in advance and it can never be said to have been concealed.** The instruction
-already says the same on its face at Part D, so the two documents agree — ⛔ **and they must
-continue to agree.**
+The suggestion of a one-line advance confirmation to Injury Management is **not adopted.** Recorded,
+and the position is sound for a reason worth stating:
+
+⭐⭐⭐ **THE DECLARATION ALREADY EXISTS — IT IS ON THE INSTRUCTION.** Part D says, on its face:
+> *"The report is prepared for use in proceedings in the Queensland Industrial Relations Commission
+> and may be provided to my employer."* · *"the cost of the report is being met by Metro South
+> Hospital and Health Service… The report is nonetheless instructed by me, and I ask that it be
+> addressed to me."*
+
+⇒ **Nothing is concealed. The dual purpose is declared in the document that generates the report**,
+and it will be apparent from the report itself: **question 1.5** requires every document reviewed
+to be listed, and **Part D(c)** requires the causation opinion's sources to be stated. ⭐ **A report
+that names its instructing letter and states it is for Commission proceedings declares its own
+purpose better than any advance letter could.**
+⇒ And at delivery the **covering note to MSH says the Regulator holds the identical document**
+(POSITIONING Part 2). **The declaration is made in the evidence, not in a negotiation.**
+
+⭐⭐ **AND THE TACTICAL POINT, WHICH IS THE REAL ONE:** an advance letter asking MSH to confirm it
+will fund a report *"which will also be provided to the Regulator in the appeal"* **invites a
+refusal, a condition, or a narrowing.** It converts a settled arrangement into a decision they get
+to make again. ⛔ **Do not re-open something already agreed.**
+
+### 21.6.4 ⚠ THE ONE RESIDUAL, AND IT IS PURELY FINANCIAL
+If MSH later forms the view it funded something narrower, it may **dispute the invoice**. The
+consequences are bounded: **the cost falls to him, and the report still exists and is still his.**
+⛔ **It does not affect admissibility, weight, or the report's use in either forum.** It is a
+billing risk, it is his to accept, and it has been accepted.
+
+### 21.6.5 ⭐ WHAT THIS MEANS FOR THE PACK — NOTHING CHANGES
+| | |
+|---|---|
+| The instruction | ✅ **unchanged** — it already declares purpose and funding |
+| The covering email to the practice | ✅ **unchanged** — same two facts |
+| The covering note to MSH at delivery | ⭐ **must still say the Regulator holds the identical document.** That is the declaration, made when the report is real |
+| An advance letter to Injury Management | ⛔ **not sent** |
