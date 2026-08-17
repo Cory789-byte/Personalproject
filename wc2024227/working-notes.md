@@ -6094,3 +6094,46 @@ refused to speak to me" now has a documented antecedent IN THE REGULATOR'S OWN B
   prove the NOUNS (the request for space; the direction to continue contact; the admitted rostering
   error), retire the adjectives. ⛔ s 32(5)(b) discipline: frame as a reasonable request for relief
   REFUSED, never as "I couldn't work with her".
+
+## 2026-08-17 — FULL READ: Disclosure_witness_conferencing_Tammy_Reese.pdf (50pp) — the repair arc
+Bundle = Matheson request 4 Jul 2025 + Reese answers 7 Jul 2025 (vetted by David Hall, A/Director
+EHS&W, sent on 8 Jul 2025) + attached chains + the FRMS guideline QH-GDL-401-3.3:2021 (pp ~16–50,
+attached to the 1 May 2024 Roster Concerns thread).
+⭐⭐⭐ THE AUG–SEP 2023 REPAIR ARC (all verbatim, their bundle):
+- 7 Aug 2023 12:21 PM (Cory): "previously is was in support of Chloe wishing her the best but
+  enough is enough" + the space request.
+- 7 Aug 2023 1:43 PM (Taylor): "I can confirm this was an oversight", offers rest day + 9 Aug shift.
+- 7 Aug 2023 8:05 PM (Cory→Reese): "I have never made a formal complaint; this Does not mean this
+  department is without error… since 2014 Security, Nursing, Scanning and Switchboard" + "I need
+  some rest".
+- 4 Sep 2023 (Cory→Reese, after E12 grievance route offered 29 Aug): "I have also spoken to Chloe.
+  We are seemingly on the path to working in a beneficial way and hopefully will not need to go
+  through this process." + "I have no issues with shift work" (offshore 12-hr swings, 24-hr
+  availability) ⚠ expect this quoted on causation — answer: the strand is recovery between shifts
+  and roster administration, not shift work in the abstract.
+- 8 Sep 2023 (Reese): "I am glad to hear things seem to be going well with Chloe".
+⇒ Grievance declined, relationship repaired, more hours sought under her (31 Aug 2023 letter),
+employer records it going well; Taylor approves FT "very pleased" 27 Sep 2023. THE ANSWER TO
+"malice"/"fearful" (17 May 2024), from the Regulator's own disclosure.
+⭐⭐ NEW FACTS from Reese's 7 Jul 2025 answers:
+1. RETRACTION WORDING CAME FROM HR: Reese CORRECTS her 3 Jul 2025 conference statement — Chloe rang
+   upset, contacted Mackenzie Prichard; Reese rang HR, spoke to BRENDON PUNCH; "Brendon assist me
+   with suggesting wording… recommending asking if he could retract the email." Punch is also on the
+   15 May 15:41 PID-complaint forward. ⚠ Her call time to Punch NOT stated — do not assert order
+   vs 15:41. PID-track; rule 1.
+2. 7 Aug 2023 5:11 PM Reese→Taylor: 8-month roster audit of Cory same day as the space request
+   ("in case he wishes to make a claim") + "can you send me an email of your recent communication
+   with Cory about contacting yourself about missed shifts, AS I COULD NOT FIND A COPY of this
+   email" — the claimed call-process communication could not be located by the Director in Aug 2023.
+3. "Minimum 2 hours notice" appears only as Reese's 2025 recollection of "our Switchboard
+   guidelines" — written Sick Leave Process V1.1 is 4 Feb 2025. Locate the 2024 written guideline
+   or note its absence (disclosure/cross question).
+4. As at ~mid-Jun 2024 Chloe planned a supported "behavioural issues" discussion, re-sequenced to
+   "Absenteeism first" — "but then Cory was off on leave so the two separate conversations did not
+   happen occur". The employer's own frame of the onset window.
+5. 15 Nov 2023 meeting summary (Reese 2025): roster proposal thanked; lateness/breaks raised as a
+   WHOLE-STAFF issue ("not just Cory she is reminding but other staff also"); his phones/workload
+   complaint recorded; support person offered 14 Nov, declined ("I'm comfortable attending on my
+   own").
+⛔ Disciplines: repair arc = manner/credibility material for statement + cross (Taylor AND Reese);
+nouns not adjectives; Punch/PID adjacency stays PID-track; nothing further to the practice.
