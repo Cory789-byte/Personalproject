@@ -6008,3 +6008,18 @@ the mock report (8pp, ⛔ simulation), the prediction (3pp).
 - Leak sweep over the whole pack: clean ("burn book" hits are on the face of Attachment 1's included
   pages — the parties' own document; "Southport QLD 4215" is the old Scarborough St address inside
   Dr K's own 13 Feb 2025 report).
+
+## 2026-08-17 — SENT (Cory confirmed: "its all sent")
+- The Krishnaiah package went to the practice today: typed covering email + the twelve-file pack
+  (letter of instruction · schedule · Attachments 1–7, with Attachment 4 in four files).
+  The supplementary LOD + role description to Matheson were part of the same day's sending.
+- The instruction is now a one-shot, irreversible act in motion. NOTHING further goes to the
+  practice unless the practice asks; if it asks, answer the question asked and no more.
+- WATCHING FOR: (1) the practice's confirmation of timeframe (the email asks for it);
+  (2) any question from the practice about the instruction — answer facts only;
+  (3) what MSH provided to or asked of the practice (checklist A·2(b) — one neutral question
+  when booking); (4) MON 24 AUG — cl 10.3.6 deemed refusal clock expires (verify clause
+  numbering against EB12 before citing it).
+- WHEN THE REPORT ARRIVES: checklist section B (report as issued — no draft was requested);
+  then the two distribution notes (DISTRIBUTION_NOTES_report.pdf) — identical report to the
+  Regulator and to MSH, same day, with the letter of instruction and schedule to both.
