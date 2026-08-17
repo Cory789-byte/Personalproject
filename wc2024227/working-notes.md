@@ -6023,3 +6023,43 @@ the mock report (8pp, ⛔ simulation), the prediction (3pp).
 - WHEN THE REPORT ARRIVES: checklist section B (report as issued — no draft was requested);
   then the two distribution notes (DISTRIBUTION_NOTES_report.pdf) — identical report to the
   Regulator and to MSH, same day, with the letter of instruction and schedule to both.
+
+## 2026-08-17 — ⭐⭐⭐ THE CALL-IN PROCESS: TAYLOR'S OWN WORDS DEFEAT THE "PROCESS" CRITICISM
+Cory's point ("at the time the normal procedure was call switch") VERIFIED FROM SOURCE — and it is
+stronger than stated. Taylor's own written statements of the process list SWITCH FIRST, four times:
+1. **15 Apr 2024 12:39** (Taylor → all Switchboard staff, cc Reese; source:
+   `documents/correspondence-packs/10_Amy_Mo_WorkCover_EMAILS_PACK_84pp.pdf` p50, verified from the
+   PDF): *"Process during office hours remains the same, please contact myself **through
+   switch**/office or mobile unless otherwise advised."* · *"This new process is **effective from
+   today**."* Signed **"A/Switchboard Manager"** — acting.
+2. **14 May 2024 12:08** (Taylor → Cory, cc Reese; FRMS bundle p39): *"you are to follow the correct
+   process and speak to me directly… you can contact me **either through switch** or my
+   office/mobile. This process still seems to be unclear."*
+3. **17 May 2024 1:20 PM** (Taylor → McNamee, HR; FRMS p36): *"contact me **either via switch**,
+   office or my mobile."*
+4. **17 May 2024 9:30 AM** (Taylor → whole team; FRMS p20): *"you are to please contact me through
+   the day/afterhours **either via switch**, office or mobile."*
+⇒ **He used the first-listed authorised channel every time. Three "reminders" in three days for
+conduct her own written process authorised.** The actual complaint is the DECLINED TRANSFER, which
+is a different allegation and must be met on its own terms (see below).
+- ⭐⭐ **NO WRITTEN SICK-LEAVE PROCESS EXISTED IN MAY 2024.** *"Logan Hospital Switchboard Sick Leave
+  Process" V1.1* was issued by Taylor on **4 Feb 2025** — nine months later (Hughes letter 8 Sep
+  2025, Att F p1). The 34-occasion count in that letter starts **17 Apr 2025**, i.e. only after V1.1.
+- ⭐⭐ **THE 15 APRIL 2024 EMAIL IS THE PARADIGM 1(a) INSTANCE AND HE ALREADY HOLDS IT** — verbatim,
+  full distribution list, and **recorded in Review Decision 69983 at p9**. Form 29 Item 10 sought
+  "effective immediately" directives by server-side filter; the 64G withdrawal did NOT cost him this
+  strand — the best instance was always in his own WorkCover pack. ⚠ Answers the "did I give
+  everything away" worry directly.
+- ⭐⭐⭐ **THE 17 MAY 9:30 AM VINDICATION:** two days after Reese directed him to retract his
+  office-hours email, Taylor emailed the whole team: *"Moving forward so communication is clear for
+  the team, **I will be sending an email to switch to advise of any change to my office hours for the
+  week**."* **She implemented the substance of the email he was ordered to retract.**
+- **THE PRODROME, IN THE EMPLOYER'S OWN HAND:** Taylor's contemporaneous emails document three
+  consecutive shifts unattended, 13/14/15 May 2024, one month before the 18 Jun onset. SOFC
+  ¶16(b)(i) already admits the 13–15 May attendance difficulty.
+- ⚠ **THE HONEST VULNERABILITY:** the declined transfers (3 days running) and the hearsay in the
+  17 May HR email ("out to get me", "malice", "fearful as to what his next actions maybe"). It is in
+  the REGULATOR'S OWN disclosure bundle, so it is in play regardless. Prepare the answer; do not
+  pretend it is not there.
+- ⛔ Rule 1–3 unchanged: the 4-day PID adjacency (13 May complaint → 17 May HR characterisation) is
+  PID-track knowledge material. NOT pleaded as motive in the WC appeal.
