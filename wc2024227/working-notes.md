@@ -6063,3 +6063,34 @@ is a different allegation and must be met on its own terms (see below).
   pretend it is not there.
 - ⛔ Rule 1–3 unchanged: the 4-day PID adjacency (13 May complaint → 17 May HR characterisation) is
   PID-track knowledge material. NOT pleaded as motive in the WC appeal.
+
+## 2026-08-17 — ⭐⭐⭐ THE "BREAK FROM HER" EMAIL LOCATED (the N.16.5 open item, CLOSED)
+The email the DEFENCE-REBUTTAL-MATRIX and FULL-PICTURE-v8 flagged "not located; testimony until
+found" IS IN THE REGULATOR'S OWN DISCLOSURE. Source (verified from PDF text):
+`documents/disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf` (~pdftotext lines
+595–695).
+- **Mon 7 Aug 2023 12:21 PM — Cory → Chloe Taylor; Tammy Reese; Patricia Conaghan; Tracey Smith**,
+  "Increase of hours and Workplace issues", Importance High: *"I will be in contact with Tammy
+  directly regarding a lot of the current workplace issues… **Please give me some space and stop
+  with any further communication as I have had enough of it.**"* (cites EB11 9.13 roster display,
+  10.6 workplace behaviour, 11.7 additional hours; + the same-thread account of the comm-book
+  page-tearing, the withheld shift, the rest-day request.)
+- **Same day 3:13 PM — Reese → Cory**: *"As Chloe is your current line manager and as such **you are
+  required to continue to communicate with Chloe** for work related issues, shift concerns, leave,
+  etc. but your welcome to CC me…"* — and the ACKNOWLEDGED "rostering error that was accidently made
+  by Chloe" sits in the same reply chain (the admitted 7 Aug 2023 email, SOFC ¶13).
+⇒ ⭐⭐⭐ THE RECAST IS NOW DOCUMENTARY: he asked in writing for space/relief from contact with the
+manager; the Director's same-day written answer was that he is REQUIRED to keep contacting her.
+When he then declined transfers to her on 13–15 May 2024, that was nine months of complying with a
+direction to maintain contact he had asked to be relieved of — until he clinically couldn't. "He
+refused to speak to me" now has a documented antecedent IN THE REGULATOR'S OWN BUNDLE.
+- ⚠ CORRECTIONS TO RECOLLECTION: (a) the email is **7 Aug 2023**, not May 2024; (b) it is addressed
+  TO CHLOE with Reese on it (not "to Tammy" alone); (c) the words are "give me some space and stop
+  with any further communication", not "a break". If a separate 2024 "break" email to Reese exists,
+  it is still unlocated — do not assert it.
+- ⚠⚠ VULNERABILITY IN THE SAME EMAIL: his own 2023 register — "gossiping", "discrimination",
+  "bullying and Harassment", "screaming", "rumours", "coercion of the truth" — high-importance, to
+  four recipients. This is the adjectives problem in his own hand, a year pre-onset. At hearing:
+  prove the NOUNS (the request for space; the direction to continue contact; the admitted rostering
+  error), retire the adjectives. ⛔ s 32(5)(b) discipline: frame as a reasonable request for relief
+  REFUSED, never as "I couldn't work with her".
