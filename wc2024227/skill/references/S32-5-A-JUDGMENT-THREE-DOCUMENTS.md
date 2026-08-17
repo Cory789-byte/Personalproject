@@ -2197,3 +2197,47 @@ thing that would make this email interesting is an explanation, and it carries n
    instruction / 31 July); `SUPPLEMENTARY_LOD_service_sheet_INTERNAL.pdf` carries the email text,
    the attachment map and the sequencing.
 4. **No follow-up, ever.** A supplement to a continuing-disclosure list needs none.
+
+---
+
+# PART 39 — THE REPORT DE-PERSONALISED: IT ANSWERS MSH, NOT A LETTER FROM THE PATIENT (Cory, 17 Aug)
+
+> *"reconfigure the letter of instruction so that it will not need to name me in response or
+> anything and start with request by msh"*
+
+## 39.1 WHAT CHANGED
+1. **The letter now opens with the request.** First sentence, before Part A: *"On 31 July 2026,
+   Metro South Hospital and Health Service requested medical information about my condition and my
+   capacity for work. This letter instructs the report that answers that request."* Part C shrinks
+   to a pointer, so the occasion is stated once, at the top.
+2. ⭐⭐⭐ **New form requirement (g): the report is a STANDALONE REPORT, not a letter to him.**
+   > *"Please style it 'Psychiatric report — in answer to the request for medical information made
+   > by Metro South Hospital and Health Service, 31 July 2026', identify me only as the subject of
+   > the report, and address it to no one — **so that it reads the same in every hand it
+   > reaches**."*
+3. **"Addressed to me" is gone everywhere** — letter, covering email, both distribution notes. The
+   report is **provided** to him on completion; it is **addressed** to no one. The mock report's
+   opening was updated to match (*"This report is provided in answer to…"* — no "Dear Mr
+   Shepherd").
+
+## 39.2 ⭐⭐⭐ WHY THIS IS BETTER THAN WHAT IT REPLACES
+| Before | After |
+|---|---|
+| The report opens *"Dear Mr Shepherd, thank you for your letter of instruction"* — ⛔ **its first line tells MSH and the Regulator that its frame is the patient's brief** | The report opens as an answer to **the employer's own request** — the occasion is theirs, on its face |
+| Every reader must translate a patient-addressed letter into evidence | **It reads the same in every hand it reaches** — MSH receives an answer to its request; the Regulator receives a standalone expert report |
+| "Addressed to me" invited the reply-letter form | "Address it to no one" produces the medico-legal form — title, subject, numbered answers |
+
+## 39.3 ⛔ WHAT DID NOT CHANGE — THE HONESTY ARCHITECTURE IS INTACT
+**Nothing is concealed by this.** The letter remains from him, signed and dated; Part D still states
+**the report is instructed by me** and that MSH meets the cost; the covering email still says he is
+self-represented and prepared the instruction himself; and **the letter travels to both parties
+with the report**, so every reader sees exactly who instructed it and how.
+⇒ **The change is to the report's FACE, not to the disclosure.** The instructing hand is disclosed
+in the instrument built for disclosure; the opinion stands free of it.
+⭐ And it strengthens Part D(d): a standalone report that states its Part B sources *"does not
+depend on Mr Shepherd's account"* now looks like what it says it is.
+
+## 39.4 VERIFIED AFTER REBUILD
+7pp · headings 1.1–3.8 all present · "addressed to me" **0** across letter, email and notes ·
+fourteen-term sweep **0** · cross-references resolve (1.3(d), Part B sources) · brackets **0** ·
+pack rebuilt, 12 files.

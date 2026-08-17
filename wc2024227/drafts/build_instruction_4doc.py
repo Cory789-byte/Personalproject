@@ -209,6 +209,14 @@ story.append(P("Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind
 story.append(Spacer(1, 3*mm))
 
 # ══════════════════════════════════════════════════════ PART A — ATTACHMENTS
+story.append(P("<b>On 31 July 2026, Metro South Hospital and Health Service requested medical "
+               "information about my condition and my capacity for work.</b> This letter instructs "
+               "the report that answers that request. The Health Service's nine questions are "
+               "reproduced in the appendix, in its own terms, with the question that answers each. "
+               "Your practice has separately been served with a Notice of Non-Party Disclosure in "
+               "my Commission proceeding; the report also addresses the three matters stated in "
+               "that notice, so that one report answers both.", BODY))
+
 story.append(P("PART A — THE ATTACHMENTS", PART))
 story.append(P("Five documents accompany this letter. <b>Four of the five were written by the other "
                "parties to my matter — the Workers' Compensation Regulator, and my employer.</b>", BODY))
@@ -332,13 +340,10 @@ story.append(P("<b>One further matter, provided for completeness.</b> In <b>May 
 story.append(P("<b>What remains, and what I do ask you, is the clinical question: whether exposure "
                "of that kind bears on the condition you have diagnosed.</b>", BODY))
 
-story.append(P("PART C — WHAT THE REPORT IS ASKED TO ANSWER", PART))
-story.append(P("<b>My employer, Metro South Hospital and Health Service, has asked for medical "
-               "information about my condition and my capacity for work.</b> Its request of "
-               "<b>31 July 2026</b> puts nine questions. They are reproduced in the appendix to this "
-               "letter, in the employer's own terms, with the question below that answers each.", BODY))
-story.append(P("<b>Your practice has separately been served with a Notice of Non-Party Disclosure</b> "
-               "in my Commission proceeding. That notice states the matters in issue as follows:", BODY))
+story.append(P("PART C — THE QUESTIONS", PART))
+story.append(P("The Health Service's nine questions are answered within the structure below, at the "
+               "places shown in the appendix. The Notice of Non-Party Disclosure served on your "
+               "practice states the matters in issue as follows:", BODY))
 story.append(P("<i>“1. Did Mr Shepherd sustain a personal injury<br/>"
                "2. Did the personal injury arise out of or in the course of Mr Shepherd's "
                "employment<br/>"
@@ -615,7 +620,12 @@ story.append(P("<b>(e)</b> <b>state whether anything in the clinical records pro
                "inconsistent with, or qualifies, the opinions you express — and if so, how you have "
                "taken it into account</b>, so that the report addresses the whole of the material "
                "rather than part of it; and", QQ))
-story.append(P("<b>(f)</b> confirm that the opinions expressed are your own.", QQ))
+story.append(P("<b>(f)</b> confirm that the opinions expressed are your own; and", QQ))
+story.append(P("<b>(g)</b> <b>be prepared as a standalone report, not as a letter to me.</b> Please "
+               "style it <i>“Psychiatric report — in answer to the request for medical information "
+               "made by Metro South Hospital and Health Service, 31 July 2026”</i>, identify me "
+               "only as the subject of the report, and address it to no one — <b>so that it reads "
+               "the same in every hand it reaches.</b>", QQ))
 story.append(P("<b>If it would assist, I am content to be provided with a draft so that I can "
                "identify any factual error or omission in the material. I will not comment on your "
                "opinions, and any correction I offer will be to the facts only.</b>", BODY))
@@ -632,7 +642,7 @@ story.append(P("<b>Both will receive the identical report, on the same day, toge
 story.append(P("<b>As to cost and instruction:</b> the cost of the report is being met by "
                "<b>Metro South Hospital and Health Service</b>, which has requested medical "
                "information about my capacity for work. <b>The report is nonetheless instructed by "
-               "me, and I ask that it be addressed to me.</b> The funding, and the identity of the party "
+               "me, and it is to be provided to me on completion.</b> The funding, and the identity of the party "
                "meeting it, bear in no way on the opinion you express.", BODY))
 
 

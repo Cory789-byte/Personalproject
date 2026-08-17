@@ -55,13 +55,14 @@ d.append(P("<b>THIS IS A SIMULATION.</b> It was written to predict what the trea
            "included deliberately, since a mock that produces only helpful text tests nothing.", WARN))
 
 d.append(P("MIND AND MEMORY SERVICE — PSYCHIATRIC REPORT", H2))
-d.append(P("<b>Re:</b> Mr Cory Lea Shepherd, DOB 11.01.1991 &nbsp;·&nbsp; <b>Date:</b> [ ] "
-           "&nbsp;·&nbsp; <b>Prepared for:</b> Mr Shepherd", SM))
-d.append(P("Dear Mr Shepherd, thank you for your letter of instruction. I have prepared this report "
-           "in answer to the request for medical information made by Metro South Hospital and Health "
-           "Service on 31 July 2026, and it also addresses the three matters set out in the Notice "
-           "of Non-Party Disclosure served on this practice. I have answered under the numbering in "
-           "your letter.", B))
+d.append(P("<b>In answer to the request for medical information made by Metro South Hospital and "
+           "Health Service, 31 July 2026</b><br/><b>Re:</b> Mr Cory Lea Shepherd, DOB 11.01.1991 "
+           "&nbsp;·&nbsp; <b>Date:</b> [ ]", SM))
+d.append(P("This report is provided in answer to the request for medical information made by Metro "
+           "South Hospital and Health Service on 31 July 2026. It also addresses the three matters "
+           "set out in the Notice of Non-Party Disclosure served on this practice. It is prepared as "
+           "a standalone report and answers under the numbering of the instructing letter, which "
+           "accompanies it.", B))
 d.append(P("<b>Qualifications.</b> MBBS, MD (Psychiatry), FRANZCP. Consultant Psychiatrist. I have "
            "had the care of Mr Shepherd since 24 October 2024. Consultations: 24.10.2024 (60 min, "
            "with his partner present), 09.12.2024 (45 min), 13.02.2025 (60 min), 22.05.2025 "

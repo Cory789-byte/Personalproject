@@ -57,7 +57,8 @@ e.append(P("The letter asks you to assume the facts recorded in Attachments 1 to
            "provided as context only and is not the basis on which I ask you to reason.", BODY))
 e.append(P("I understand the cost of the report is being met by Metro South Hospital and Health "
            "Service. <b>For completeness: the report is instructed by me, and I ask that it be "
-           "addressed to me.</b> Could you please confirm the time you would require. If any part of "
+           "provided to me on completion, prepared as a standalone report in the form the letter "
+           "describes.</b> Could you please confirm the time you would require. If any part of "
            "the instruction is unclear, or if you require further material before you can report, "
            "please tell me and I will provide it.", BODY))
 e.append(P("As the report is prepared for use in proceedings before the Commission and may be "

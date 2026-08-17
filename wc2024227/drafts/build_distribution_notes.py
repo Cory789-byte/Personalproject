@@ -72,7 +72,7 @@ s.append(P("The report addresses the three matters in issue as stated in the Not
            "medical information made by my employer on 31 July 2026.", BODY))
 s.append(P("<b>The same report has today been provided to Metro South Hospital and Health "
            "Service.</b> The cost of the report has been met by Metro South Hospital and Health "
-           "Service; it was instructed by me and is addressed to me.", BODY))
+           "Service; it was instructed by me and provided to me.", BODY))
 s.append(P("Kind regards,<br/><br/>Cory Lea Shepherd<br/>Appellant, WC/2024/227", BODY))
 s.append(P("<b>NOTHING FURTHER.</b> No argument, no commentary, no request, no explanation of "
            "what the report establishes. A report is evidence — it argues for itself, and "
@@ -116,7 +116,7 @@ s.append(P("<b>5.</b> The matters raised in my correspondence of <b>3 August 202
 s.append(P("<b>6.</b> <b>The same report has today been provided to the Workers' Compensation "
            "Regulator</b> by way of continuing disclosure in QIRC proceeding WC/2024/227. The cost "
            "of the report has been met by the Health Service; it was instructed by me and is "
-           "addressed to me.", NUM))
+           "provided to me.", NUM))
 s.append(P("Kind regards,<br/><br/>Cory Lea Shepherd<br/>Administration Officer, Switchboard "
            "Services, Logan Hospital", BODY))
 
