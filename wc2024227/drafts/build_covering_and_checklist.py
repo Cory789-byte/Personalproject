@@ -2,9 +2,21 @@
 """WC/2024/227 — the covering email to the practice, and the internal pre-send checklist.
 
 Two outputs:
-  out/COVERING_EMAIL_to_practice.pdf   — goes to the practice. ⚠ Assume it is produced under the
-                                          Notice of Non-Party Disclosure. Nothing strategic in it.
+  out/COVERING_EMAIL_to_practice.pdf   — ⛔ A TEMPLATE TO TYPE FROM. It is NOT attached and is NOT
+                                          in the pack (17 Aug). The page opens with a production
+                                          note addressed to Cory — "assume this is produced to the
+                                          Regulator; nothing in it may be strategic" — and if the
+                                          practice filed the PDF, Ms Matheson would read that note
+                                          with it. The BODY of the email is sent as written,
+                                          including the Metro South 31 July subject line. ⚠ Assume
+                                          the typed email is produced under the Notice of Non-Party
+                                          Disclosure. Nothing strategic in it.
   out/PRE_SEND_CHECKLIST_internal.pdf  — ⛔ INTERNAL. Never leaves the file.
+
+⭐ 17 AUGUST — NO DRAFT IS REQUESTED. The letter of instruction previously offered to review a
+draft on the facts. That paragraph is struck: offering a draft still looks like a chance to shape
+the report. If a fact in the report is wrong, it is corrected by writing to Dr Krishnaiah after it
+issues. Section B of the checklist is written for the report as issued, not for a draft.
 """
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
@@ -31,6 +43,9 @@ def P(t, s=BODY): return Paragraph(t, s)
 # ─────────────────────────────────────── 1. COVERING EMAIL
 e = []
 e.append(P("Covering email — to the practice", H1))
+e.append(P("TYPE THIS INTO THE EMAIL. THIS PDF IS NOT AN ATTACHMENT AND IS NOT IN THE PACK. "
+           "The line below is a note to Cory, not to the practice: if the PDF were attached and "
+           "the practice filed it, the Regulator would read the note along with the email.", WARN))
 e.append(P("Assume this email is produced to the Regulator under the Notice of Non-Party "
            "Disclosure served on the practice. Nothing in it may be strategic.", SMALL))
 e.append(Spacer(1, 4*mm))
@@ -40,38 +55,49 @@ e.append(P("<b>To:</b> Mind and Memory Service &nbsp;·&nbsp; <b>Attention:</b> 
            "(DOB 11/01/1991)", SMALL))
 e.append(Spacer(1, 4*mm))
 e.append(P("Dear Dr Krishnaiah,", BODY))
-e.append(P("<b>My employer, Metro South Hospital and Health Service, has asked for medical "
-           "information about my condition and my capacity for work.</b> I attach a letter of "
-           "instruction for a report answering that request, together with the five attachments it "
-           "refers to. <b>The report also addresses the matters in issue in my Queensland Industrial "
-           "Relations Commission proceeding WC/2024/227</b>, and I attach a copy of the Notice of "
-           "Non-Party Disclosure served on your practice in that proceeding.", BODY))
-e.append(P("<b>I am self-represented and have prepared the instruction myself.</b> "
-           "I have set it out in the way I understand an expert is ordinarily instructed: the facts "
-           "I ask you to assume are identified by their source, and the matters the Regulator does "
-           "not accept are identified as well, so that you have the position complete rather than "
-           "one side of it.", BODY))
-e.append(P("The letter asks you to assume the facts recorded in Attachments 1 to 3 and 5, which are "
-           "documents of the Workers' Compensation Regulator and of my employer. My own account of "
-           "the workplace is "
-           "provided as context only and is not the basis on which I ask you to reason.", BODY))
-e.append(P("I understand the cost of the report is being met by Metro South Hospital and Health "
-           "Service. <b>For completeness: the report is instructed by me, and I ask that it be "
-           "provided to me on completion, prepared as a standalone report in the form the letter "
-           "describes.</b> Could you please confirm the time you would require. If any part of "
-           "the instruction is unclear, or if you require further material before you can report, "
-           "please tell me and I will provide it.", BODY))
-e.append(P("As the report is prepared for use in proceedings before the Commission and may be "
-           "provided to my employer, I would be grateful if it could be issued without the standard "
-           "restriction on medico-legal use that appears on correspondence from the practice.", BODY))
+e.append(P("On 31 July 2026 Metro South Hospital and Health Service asked for medical information "
+           "about my condition and my capacity for work. That request is signed by Mr Scott Hughes, "
+           "Director, Corporate Services. I attach a letter of instruction for one report answering "
+           "that request.", BODY))
+e.append(P("The report is also to answer the three matters written on the Form 29 Notice of "
+           "Non-Party Disclosure served on your practice. That notice is signed by Ms Renee "
+           "Matheson, Senior Appeals Officer, Workers' Compensation Regulator, and was sealed on "
+           "4 July 2025.", BODY))
+e.append(P("I ask you to reason from the documents attached, and not from my account of the "
+           "workplace. Those documents are:", BODY))
+e.append(P("Attachment 1 — the notice to admit facts (Form 24) and the Regulator's response to it, "
+           "signed by Ms Renee Matheson on 18 February 2026;<br/>"
+           "Attachment 2 — the letter of Ms Noelle Cridland, Chief Executive, Metro South Hospital "
+           "and Health Service, 5 June 2026;<br/>"
+           "Attachment 3 — the role description for Administration Officer, Switchboard Services;<br/>"
+           "Attachment 5 — the movement forms approved by Mr Scott Hughes;<br/>"
+           "Attachment 6 — the Form 29 signed by Ms Matheson; and<br/>"
+           "Attachment 7 — the request and nine-question schedule signed by Mr Hughes on "
+           "31 July 2026.", BODY))
+e.append(P("Attachment 4 is the clinical record. Attachments 6 and 7 state the questions the report "
+           "answers. None of those three is assumed fact. My own account of the workplace is "
+           "context only.", BODY))
+e.append(P("The facts I ask you to assume are identified by source in the enclosed schedule. What "
+           "the Regulator does not accept is identified there as well.", BODY))
+e.append(P("I am self-represented. Metro South Hospital and Health Service is meeting the cost of "
+           "the report. The report is instructed by me and is to be provided to me on completion, "
+           "prepared as a standalone report in the form the letter of instruction describes. The "
+           "same report will be given to the Regulator and to Metro South Hospital and Health "
+           "Service on the same day.", BODY))
+e.append(P("Please confirm the time you would require. If any part of the instruction is unclear, "
+           "or if you need further material, please tell me.", BODY))
+e.append(P("As the report may be used in the Commission and provided to my employer, I would be "
+           "grateful if it could be issued without the standard restriction on medico-legal use.", BODY))
 e.append(P("Kind regards,<br/><br/>Cory Lea Shepherd<br/>0417 400 227 · coryshepherd1@hotmail.com", BODY))
 e.append(Spacer(1, 5*mm))
-e.append(P("<b>Attached:</b> letter of instruction · schedule of assumed facts · Attachment 1 "
-           "(Response of the Workers' Compensation Regulator, 18 February 2026) · Attachment 2 (letter of the Chief Executive, Metro South Health, "
-           "5 June 2026) · Attachment 3 (role description, Administration Officer, Switchboard "
-           "Services) · Attachment 4 (clinical records) · Attachment 5 (approved changes to working "
-           "hours, 2026) · Notice of Non-Party Disclosure, sealed "
-           "4 July 2025.", SMALL))
+e.append(P("<b>The twelve attachments</b> (the pack — this covering email is typed, not attached): "
+           "letter of instruction · schedule of assumed facts · Attachment 1 (notice to admit facts "
+           "and the Regulator's response, 18 February 2026) · Attachment 2 (letter of the Chief "
+           "Executive, 5 June 2026) · Attachment 3 (role description) · Attachment 4 in four files "
+           "(GP records · Hawes certificate 8 September 2024 · capability checklist 3 July 2026 · "
+           "your report 13 February 2025) · Attachment 5 (movement forms, 2026) · Attachment 6 "
+           "(Form 29, sealed 4 July 2025) · Attachment 7 (request for medical information, "
+           "31 July 2026).", SMALL))
 
 doc = SimpleDocTemplate("out/COVERING_EMAIL_to_practice.pdf", pagesize=A4,
                         leftMargin=22*mm, rightMargin=22*mm, topMargin=18*mm, bottomMargin=18*mm,
@@ -85,9 +111,20 @@ c = []
 c.append(P("PRE-SEND CHECKLIST — the psychiatric instruction", H1))
 c.append(P("<b>INTERNAL. This never goes to the practice, to the employer or to the Regulator, "
            "and it is not in the pack.</b> Everything else built for this is written to be "
-           "produced; this is not. Rewritten and renumbered 16 August 2026.", WARN))
+           "produced; this is not. Rewritten and renumbered 16 August 2026; items 0 and 6 "
+           "rewritten 17 August 2026.", WARN))
 
 c.append(P("A · BEFORE THE INSTRUCTION IS SENT", SEC))
+c.append(P("<b>0. TYPE THE COVERING EMAIL. DO NOT ATTACH IT.</b> "
+           "<i>COVERING_EMAIL_to_practice.pdf</i> is a template to type from, and it is <b>not in "
+           "the pack</b>. It opens with a production note — <i>“assume this email is produced to "
+           "the Regulator under the Notice of Non-Party Disclosure; nothing in it may be "
+           "strategic”</i> — which is a note to you. <b>If the practice files the PDF, Ms Matheson "
+           "reads the note with it.</b> The body of the email goes as written, subject line "
+           "included. Then check the attachment list against the pack before sending: <b>twelve "
+           "files, and no covering email among them</b> — letter · schedule · Attachments 1, 2, 3 · "
+           "the four Attachment 4 files · Attachment 5 · Attachment 6 (the sealed Form 29) · "
+           "Attachment 7 (the 31 July request).", ITEM))
 c.append(P("<b>1. Insert the date.</b> It is the only bracket left in the letter.", ITEM))
 c.append(P("<b>2. Funding is closed</b> — Metro South Health contacted the practice directly and "
            "confirmed it will meet the cost. Not a promise to Cory but a commitment to a third "
@@ -112,17 +149,19 @@ c.append(P("<b>5. The commencement date.</b> Question 1.3(g) says <i>“from 201
            "document for it</b> — first payslip, letter of appointment, or service record — before "
            "it is relied on in the appeal.", ITEM))
 
-c.append(P("B · WHEN THE DRAFT ARRIVES — FACTS ONLY", SEC))
-c.append(P("<b>6. THE REVIEW IS FACTS ONLY.</b> Part D promises it and the promise is the "
-           "protection. <b>Do not comment on any opinion, do not suggest a conclusion, do not ask "
-           "for anything to be strengthened.</b> Check: dates · names · which document said what · "
-           "attachment references.", ITEM))
+c.append(P("B · WHEN THE REPORT ARRIVES", SEC))
+c.append(P("<b>6. NO DRAFT WAS REQUESTED — struck 17 August.</b> Offering to review a draft still "
+           "looks like a chance to shape the report, so the report arrives issued. <b>If a fact in "
+           "it is wrong — a date, a name, which document said what, an attachment reference — "
+           "correct it by writing to Dr Krishnaiah after it issues, facts only, and keep the "
+           "letter.</b> Do not comment on any opinion, do not suggest a conclusion, do not ask for "
+           "anything to be strengthened.", ITEM))
 c.append(P("<b>7. THE PREPARATION AS A SYMPTOM — the first thing to look for.</b> His report of "
            "13 February 2025 lists, <b>under symptoms</b>: <i>“obsessive rumination, fear driven "
            "thoughts, <b>extensive researching, and planning on fact findings for work-related "
            "issues including reading up on policies, procedures, and legislations</b>”</i>, and "
            "records that the proceedings <i>“have consumed his whole life severely affecting his "
-           "functioning.”</i> ⇒ <b>A seven-page instruction, a schedule and five attachments, "
+           "functioning.”</i> ⇒ <b>A seven-page instruction, a schedule and seven attachments, "
            "prepared by the patient, is on its face the behaviour he already coded as pathology.</b> "
            "Watch for any sentence treating the preparation of the case as a symptom, or the "
            "litigation as the barrier to return. <b>It is an incapacity marker, it is usable by the "
@@ -148,8 +187,7 @@ c.append(P("<b>10. THE FIVE POSITIVE CHECKS.</b> Does it <b>list every document 
            "avoid the practice footer.", ITEM))
 c.append(P("<b>11. WHAT IS RAISABLE AND WHAT IS NOT.</b> Terminology and factual error are "
            "raisable — <i>“aggravating”</i>, a wrong date, a misattributed document. <b>Anything "
-           "that is opinion is not</b>, unless it misstates the record. <b>The line in Part D is the "
-           "line.</b>", ITEM))
+           "that is opinion is not</b>, unless it misstates the record.", ITEM))
 
 c.append(P("C · STANDING DISCIPLINES", SEC))
 c.append(P("<b>12. Say nothing about which exhibit holds what, or about the span of the "

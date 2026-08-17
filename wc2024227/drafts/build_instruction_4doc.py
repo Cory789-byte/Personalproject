@@ -628,9 +628,6 @@ story.append(P("<b>(g)</b> <b>be prepared as a standalone report, not as a lette
                "made by Metro South Hospital and Health Service, 31 July 2026”</i>, identify me "
                "only as the subject of the report, and address it to no one — <b>so that it reads "
                "the same in every hand it reaches.</b>", QQ))
-story.append(P("<b>If it would assist, I am content to be provided with a draft so that I can "
-               "identify any factual error or omission in the material. I will not comment on your "
-               "opinions, and any correction I offer will be to the facts only.</b>", BODY))
 story.append(P("<b>As to who will receive the report.</b> It will be provided to both parties to "
                "my matter, and to no one else:", BODY))
 story.append(P("<b>(i)</b> to the <b>Workers' Compensation Regulator</b>, by way of continuing "

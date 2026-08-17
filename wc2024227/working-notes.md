@@ -5987,3 +5987,24 @@ the mock report (8pp, ⛔ simulation), the prediction (3pp).
   Regulator**.
 - **24 August** — cl 10.3.6 deemed refusal. Independent of the report. Verify clause numbering
   against EB12 first.
+
+## 2026-08-17 (later) — seven-attachment pack reviewed and assembled
+- Cory revised the pack to SEVEN attachments (Form 29 = Att 6, the 31 July request = Att 7) and
+  rewrote the covering email; reviewed everything against rendered source. VERIFIED: Form 29 signed
+  Renee Matheson, Senior Appeals Officer, sealed 4 Jul 2025; nominated party the Practice Manager,
+  Mind and Memory Service; the three matters verbatim. Hughes signs both 31 Jul letters as
+  "Director, Corporate Services, Logan Beaudesert Health Service". Response signed Matheson
+  18/02/2026. Schedule H1 movement table exact. Schedule A–F unchanged; G/H/I additive.
+- ⛔ ONE DEFECT: the letter's Part A row 1 calls the Regulator's response "Form 24". FORM 24 IS THE
+  NOTICE ("Form 24 – Notice to admit facts" — its own footer). The response is titled "Respondent's
+  response to the appellant's notice to admit facts", no form number. Fix in Part A row 1 and
+  Part B item 1 before send; same fix applied to the covering-email template (Attachment 1 line).
+- Covering email is TYPED, never attached; template updated to Cory's reviewed text + fixes
+  (Form 24 naming; Attachments 6–7 flagged as questions-not-assumed-fact; subject line kept).
+- Built 07_ATTACHMENT_7 (index page + employee letter 2pp + nine-question letter 5pp, metadata
+  stripped). Att 6 = sealed Form 29 as held. Pack = TWELVE files, no covering email among them.
+  KRISHNAIAH_PACK.zip rebuilt. Checklist: item 0 (type the email, twelve files), section B
+  rewritten — NO DRAFT IS REQUESTED (struck 17 Aug); factual error corrected after issue, in writing.
+- Leak sweep over the whole pack: clean ("burn book" hits are on the face of Attachment 1's included
+  pages — the parties' own document; "Southport QLD 4215" is the old Scarborough St address inside
+  Dr K's own 13 Feb 2025 report).
