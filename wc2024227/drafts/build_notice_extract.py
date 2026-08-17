@@ -1,109 +1,122 @@
 #!/usr/bin/env python3
-"""WC/2024/227 — Notice to Admit Facts, extracted for the clinician pack.
+"""WC/2024/227 — Attachment 1: the Regulator's Response, FINAL BUILD (17 August 2026).
 
-Produces the full Notice (the 50 facts) together with the Respondent's Response, so the clinician
-can see what was asked and what was answered — with items 26 to 31 withheld.
+Produces out/ATTACHMENT_1_Regulator_Response_18Feb2026.pdf — 10 pages.
 
-Items 26 to 31 are withheld because they are the appellant's own complaint about the disclosure
-of intimate medical particulars in the appeal. They bear on nothing clinical. They are replaced by
-a visible notation so the extract is transparent on its face and nothing appears concealed.
+⭐ WHAT CHANGED IN THE FINAL RUN (Cory, 17 Aug: "run it again, cut it down, remove the extract
+naming, remove the whited-out, all metadata removed"):
 
-⭐ ITEM 20 (the Ethical Standards Unit determination) IS NOW INCLUDED — Cory's instruction,
-16 August. It is an accepted fact and it belongs in the occupational history.
-⛔ Item 21's parenthetical — "48 hours after the Appellant lodged the PID complaint" — REMAINS
-removed. The retraction direction of 15 May 2024 stays visible; the temporal linkage does not.
+1. ⛔⛔ PAGES 11–13 ARE DROPPED — AND THIS WAS A LIVE DEFECT, NOT TRIMMING. Those pages are the
+   appellant's own email of 24 Feb 2026 to the Industrial Registrar: the s 530 objection to legal
+   representation, INCLUDING the conflict-of-interest allegations against Ms Matheson and the
+   Rule 64C complaint. Litigation characterisations of the opposing representative were riding
+   into the clinician pack inside this attachment. They are gone. 13pp → 10pp.
+
+2. ⭐ PAGE 3 IS REBUILT NATIVELY — no white boxes, no raster, no hidden layer. The page is
+   re-typeset from the verified render: items 17–25 verbatim, item 20 (the PID determination)
+   present, item 21 WITHOUT the "(48 hours after the Appellant lodged the PID complaint)"
+   parenthetical, and one notation line for items 26–31. Because the page is built from nothing,
+   there is nothing underneath to leak — stronger than rasterising, and it looks like a page,
+   not like a redaction.
+   The page states on its face that it is reproduced and that items 26–31 are not included.
+   ⭐ THAT NOTATION, plus the equivalent sentence in the letter of instruction, is what now does
+   the disclosure work the word "EXTRACT" in the filename used to do. The withholding is declared
+   where it happens, so the filename no longer needs to.
+
+3. TITLE AND METADATA: the filename and title drop "EXTRACT"; the output carries NO metadata at
+   all — docinfo emptied, XMP removed. (The source PDF's own metadata — Author "Stephen Gray",
+   Acrobat PDFMaker, creation dates — is stripped with it.)
+
+Same result as every prior build: item 20 in · items 26–31 out · item 21's reprisal linkage out.
 """
-import io, pikepdf
+import io, os, pikepdf
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.platypus import Paragraph, Table, TableStyle
 
 SRC = "../documents/2026-02-18_Form24_Response_and_email_communication.pdf"
-OUT = "out/ATTACHMENT_1_Regulator_Response_18Feb2026_EXTRACT.pdf"
-PH = 792.0                      # letter height, points
+OUT = "out/ATTACHMENT_1_Regulator_Response_18Feb2026.pdf"
+PW, PH = letter
 
-# Bands measured from the page-3 text layer (pdftotext -bbox, y from page top).
-# Converted to reportlab coordinates (y from page bottom) at build time.
-BANDS = [
-    # (x0, top_y_from_page_top, x1, bottom_y_from_page_top, label)
-    # ⭐ Item 20 (the Ethical Standards Unit determination) is NO LONGER WITHHELD — Cory's
-    #    instruction, 16 Aug: it is an accepted fact and belongs in the occupational history.
-    #    The letter of instruction states it as a bare fact in Part B2, so the attachment must
-    #    show it; a letter that states a fact the attachment blanks out is worse than either.
-    (98.0, 478.0, 470.0, 750.0,
-     "Items 26 to 31 — not provided: not relevant to the medical questions"),
-    # ⛔ item 21 STILL has line 1 cleared and redrawn without the parenthetical. The retraction
-    #    direction stays visible; the "48 hours after the Appellant lodged the PID complaint"
-    #    linkage does not. The PID goes in as a bare fact, not as the first element of a
-    #    reprisal argument put to a treating psychiatrist.
-    (103.0, 264.0, 470.0, 281.5, ""),
+# ── page 3, re-typeset from the verified render (pid-03/ex3-03) ────────────────────────────────
+CELL = ParagraphStyle('CELL', fontName='Helvetica', fontSize=9.8, leading=13.2)
+NUMS = ParagraphStyle('NUMS', parent=CELL, fontName='Helvetica-Bold')
+HEAD = ParagraphStyle('HEAD', parent=NUMS, alignment=1)
+NOTE = ParagraphStyle('NOTE', parent=CELL, fontName='Helvetica-Oblique', fontSize=9,
+                      textColor=colors.HexColor('#555555'))
+def C(t, s=CELL): return Paragraph(t, s)
+
+ITEMS = [
+ ("17", 'The "Union Encouragement Policy" (QH-POL-248) (<b>Exhibit F2</b>) requires managers to '
+        'take a "positive, supportive role" to facilitate union membership and delegate elections.'),
+ ("18", 'The Appellant notified management of his intent to become a Union Delegate on '
+        '<b>11 August 2023</b> (<b>Exhibit F3</b>).'),
+ ("19", 'Management failed to facilitate a vote or provide necessary delegate information to the '
+        'Appellant for a period exceeding <b>9 months</b> after his initial request.'),
+ ("20", "On <b>24 December 2024</b>, the Ethical Standards Unit (ESU) determined that the "
+        "Appellant's complaint regarding Ms. Taylor and Ms. Reese constituted a <b>Public "
+        "Interest Disclosure (PID)</b> (<b>Exhibit E3</b>)."),
+ ("21", 'On <b>15 May 2024</b>, Director Tammy Reese sent an email directing the Appellant to '
+        '<i>"retract"</i> an email he had sent inquiring about office hours (<b>Exhibit E5</b>).'),
+ ("22", "On <b>9 May 2024</b>, Ms. Taylor sent a substantively similar email regarding another "
+        "staff member's hours, for which she was not directed to issue a retraction "
+        "(<b>Exhibit E5</b>)."),
+ ("23", 'The Respondent obtained the Appellant\'s full medical history (<b>Exhibit A5</b>) '
+        'directly from "Our Medical Ashmore" on or before <b>8 July 2025</b>.'),
+ ("24", 'The copy of <b>Exhibit A5</b> filed by the Respondent bears the system-generated footer: '
+        '<i>"Printed on 8th July 2025"</i>.'),
+ ("25", "The Respondent did not serve a <b>Form 29 Notice of Non-Party Disclosure</b> on the "
+        "Appellant prior to obtaining these records (breach of <b>Rule 64E</b>)."),
 ]
 
+rows = [[C("<b>No.</b>", HEAD), C("<b>Fact to be Admitted (with Exhibit Reference)</b>", HEAD),
+         C("<b>Admit / Deny</b>", HEAD)]]
+for n, txt in ITEMS:
+    rows.append([C(f"<b>{n}</b>", NUMS), C(txt), C("")])
+rows.append([C("<b>26–31</b>", NUMS),
+             C("Items 26 to 31 are not included in this copy: they concern matters with no "
+               "bearing on the medical questions.", NOTE), C("")])
+
+tbl = Table(rows, colWidths=[46, 386, 100], repeatRows=1)
+tbl.setStyle(TableStyle([
+    ('GRID', (0,0), (-1,-1), 0.7, colors.black),
+    ('VALIGN', (0,0), (-1,-1), 'TOP'),
+    ('LEFTPADDING', (0,0), (-1,-1), 6), ('RIGHTPADDING', (0,0), (-1,-1), 6),
+    ('TOPPADDING', (0,0), (-1,-1), 7), ('BOTTOMPADDING', (0,0), (-1,-1), 7)]))
+
 buf = io.BytesIO()
-c = canvas.Canvas(buf, pagesize=letter)
-for x0, top, x1, bottom, label in BANDS:
-    y = PH - bottom
-    h = bottom - top
-    c.setFillColor(colors.white)
-    c.setStrokeColor(colors.white)
-    c.rect(x0, y, x1 - x0, h, stroke=0, fill=1)
-    if label:
-        c.setFillColor(colors.HexColor('#666666'))
-        c.setFont('Helvetica-Oblique', 8.5)
-        c.drawString(x0 + 4, y + h - 13, label)
-# item 21, line 1, redrawn without the parenthetical
-c.setFillColor(colors.black)
-c.setFont('Helvetica', 10)
-c.drawString(104.9, PH - 277.5, "On ")
-c.setFont('Helvetica-Bold', 10)
-c.drawString(121.6, PH - 277.5, "15 May 2024")
-c.setFont('Helvetica', 10)
-c.drawString(183.6, PH - 277.5, ", Director")
+cv = canvas.Canvas(buf, pagesize=letter)
+w, h = tbl.wrapOn(cv, 532, PH)
+tbl.drawOn(cv, (PW - 532) / 2.0, PH - 96 - h)
+cv.setFont('Helvetica', 9); cv.setFillColor(colors.black)
+cv.drawString(54, 40, "3 of 6")
+cv.setFont('Helvetica-Oblique', 8); cv.setFillColor(colors.HexColor('#666666'))
+cv.drawRightString(PW - 54, 40, "This page is reproduced; the balance of the document is the original.")
+cv.showPage(); cv.save(); buf.seek(0)
 
-c.showPage()
-c.save()
-buf.seek(0)
+# ── assemble: source pages 1–2, rebuilt 3, source 4–10; drop 11–13 ─────────────────────────────
+src = pikepdf.open(SRC)
+newp = pikepdf.open(buf)
+out = pikepdf.Pdf.new()
+out.pages.extend(src.pages[0:2])       # Notice pp 1–2
+out.pages.append(newp.pages[0])        # rebuilt p 3
+out.pages.extend(src.pages[3:10])      # Notice pp 4–6 + Response pp 7–10
+# src pages 11–13 (the 24 Feb 2026 email chain) are NOT copied.
 
-pdf = pikepdf.open(SRC, allow_overwriting_input=True)
-ov = pikepdf.open(buf)
-pdf.pages[2].add_overlay(ov.pages[0])          # page 3 of the Notice
-
-with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
+# ── all metadata removed ───────────────────────────────────────────────────────────────────────
+try:
+    del out.Root.Metadata
+except (AttributeError, KeyError):
+    pass
+with out.open_metadata(set_pikepdf_as_editor=False) as meta:
     meta.clear()
-    meta["dc:title"] = "WC/2024/227 — Notice to Admit Facts and Respondent's Response (extract)"
-    meta["dc:creator"] = ["Cory Lea Shepherd"]
-# ══════════════════════════════════════════════════════════════════════════════════════════
-# ⛔⛔⛔ REAL REDACTION — 16 August 2026.
-# A white rectangle drawn over text HIDES it; it does not REMOVE it. Verified: pdftotext on the
-# earlier build recovered "Lomotil", "Proctosedyl", the full sentence structure of items 26–31,
-# and — worse — item 21's stripped parenthetical, "…hours after the Appellant lodged the PID
-# complaint)". Anyone with a text extractor, or a copy-paste, had all of it.
-# ⇒ Page 3 is therefore RASTERISED: the page is rendered to an image and the image replaces the
-#   page, so the text layer on that page ceases to exist. That is what redaction means.
-# ⚠ Page 3 is consequently not selectable or searchable. That is the correct trade and it is what
-#   a properly redacted exhibit looks like.
-# ══════════════════════════════════════════════════════════════════════════════════════════
-import os, subprocess, tempfile, img2pdf
-
-tmp = tempfile.mkdtemp()
-staged = os.path.join(tmp, "staged.pdf")
-pdf.save(staged, linearize=True)
-pdf.close()
-
-subprocess.run(["pdftoppm", "-r", "200", "-png", "-f", "3", "-l", "3",
-                staged, os.path.join(tmp, "p")], check=True)
-png = [f for f in sorted(os.listdir(tmp)) if f.startswith("p") and f.endswith(".png")][0]
-raster_pdf = os.path.join(tmp, "raster.pdf")
-with open(raster_pdf, "wb") as fh:
-    fh.write(img2pdf.convert(os.path.join(tmp, png),
-                             layout_fun=img2pdf.get_fixed_dpi_layout_fun((200, 200))))
-
-final = pikepdf.open(staged)
-rast  = pikepdf.open(raster_pdf)
-final.pages[2] = rast.pages[0]                 # replace page 3 with its rasterised self
-with final.open_metadata(set_pikepdf_as_editor=False) as meta:
-    meta.clear()
-    meta["dc:title"] = "WC/2024/227 — Response of the Workers' Compensation Regulator (extract)"
-    meta["dc:creator"] = ["Cory Lea Shepherd"]
-final.save(OUT, linearize=True)
-print("built", OUT, "pages:", len(final.pages), "— page 3 rasterised, text layer removed")
+try:
+    del out.Root.Metadata          # open_metadata recreates an XMP shell; remove it again
+except (AttributeError, KeyError):
+    pass
+for k in list(out.docinfo.keys()):
+    del out.docinfo[k]
+out.save(OUT, linearize=True)
+print(f"built {OUT} pages: {len(out.pages)} — page 3 native, pp11–13 dropped, metadata stripped")

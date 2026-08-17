@@ -250,8 +250,10 @@ story.append(T([
 story.append(P("Also enclosed, and not evidence: a <b>schedule of assumed facts</b>, which identifies "
                "by source and paragraph <b>the facts you are asked to assume</b>, and records what "
                "the Regulator does <i>not</i> accept; and a copy of the <b>Notice of Non-Party "
-               "Disclosure</b> served on your practice in my Commission proceeding. <b>The five attachments "
-               "themselves are provided complete and unmarked.</b>", SMALL))
+               "Disclosure</b> served on your practice in my Commission proceeding. <b>The attachments "
+               "are provided unmarked. Attachment 1 does not include items 26 to 31 of the list it "
+               "responds to, which concern matters with no bearing on the medical questions; it says "
+               "so on its face.</b>", SMALL))
 
 # ══════════════════════════════════════════════════════ PART B — BASIS
 story.append(P("PART B — THE BASIS ON WHICH I ASK YOU TO WRITE", PART))

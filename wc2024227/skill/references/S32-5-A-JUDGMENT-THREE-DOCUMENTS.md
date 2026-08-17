@@ -2241,3 +2241,47 @@ depend on Mr Shepherd's account"* now looks like what it says it is.
 7pp · headings 1.1–3.8 all present · "addressed to me" **0** across letter, email and notes ·
 fourteen-term sweep **0** · cross-references resolve (1.3(d), Part B sources) · brackets **0** ·
 pack rebuilt, 12 files.
+
+---
+
+# PART 40 — ATTACHMENT 1, FINAL BUILD (Cory, 17 Aug: cut it down · no "extract" in the title · no whited-out · no metadata)
+
+## 40.1 ⛔⛔ THE FIND THAT MADE "CUTTING IT DOWN" A DEFECT FIX, NOT A TRIM
+**Source pages 11–13 are the appellant's own email of 24 February 2026 to the Industrial
+Registrar** — the s 530 objection to legal representation, **including the conflict-of-interest
+allegations against Ms Matheson and the Rule 64C complaint.** Every prior build copied all 13
+source pages, so **those characterisations were riding into the clinician pack inside this
+attachment** — litigation content about the opposing representative, in the psychiatrist's hands,
+producible onward. **Dropped. 13pp → 10pp.**
+
+## 40.2 ⭐ THE WHITED-OUT IS GONE — PAGE 3 IS REBUILT NATIVELY
+Page 3 is **re-typeset from the verified render**: items 17–25 verbatim in the original table form ·
+item 20 (the PID determination) present · item 21 **without** the *"(48 hours after the Appellant
+lodged the PID complaint)"* parenthetical · one notation row for items 26–31.
+⭐⭐ **Built from nothing, so there is nothing underneath to leak** — stronger than the raster fix,
+selectable and searchable, and it looks like a page rather than a redaction. The page states on its
+face: *"This page is reproduced; the balance of the document is the original."*
+
+## 40.3 ⭐ THE "EXTRACT" TITLE IS REMOVED — AND THE PROTECTION MOVED, NOT DROPPED
+Part 35.4 said the word EXTRACT in the filename was the disclosure protection. **Cory directed its
+removal; the protection now lives in two better places:**
+1. **On the page where the withholding happens:** *"Items 26 to 31 are not included in this copy:
+   they concern matters with no bearing on the medical questions."*
+2. **In the letter of instruction itself (Part A):** *"Attachment 1 does not include items 26 to 31
+   of the list it responds to, which concern matters with no bearing on the medical questions; it
+   says so on its face."* — and the letter travels to both parties with the report.
+⇒ **The withholding is declared where it occurs and in the instrument built for disclosure. The
+filename no longer needs to carry it.** ⛔ The standing rule survives in substance: the document
+must never *imply completeness* — and it now expressly declares the opposite.
+
+## 40.4 ALL METADATA REMOVED — VERIFIED
+docinfo **empty** · XMP **absent** (`Metadata Stream: no`) · the source's own metadata (Author
+"Stephen Gray", Acrobat PDFMaker, creation/mod dates) **gone with it**.
+⚠ Note what this also removes: the PDF no longer names the Regulator's author or toolchain —
+nothing about the file says anything except its content.
+
+## 40.5 FINAL VERIFICATION
+Same result as every prior build — **item 20 in · items 26–31 out · item 21's linkage out** ·
+10 pages · whole-pack word-boundary leak test over twelve terms **including the email-chain
+markers** (Willson, Industrial Registrar, conflict of interest): **CLEAN** · letter updated
+(*"complete and unmarked"* replaced with the accurate sentence) and re-swept at 7pp.
