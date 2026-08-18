@@ -6286,3 +6286,15 @@ $12,210.77 (sick ≈$5,440 · annual/rec+loading ≈$4,790 · RDO ≈$1,980).
 recovery. When workings arrive: audit RTEI lines; then the four-sentence letter — recalc excluding
 sick/leave pay or identify the limb relied on per inclusion (+ medical basis for deemed capacity
 against the ECC).
+
+## 2026-08-18 — REAL BENEFIT RATE (Cory): $6,000/month gross full cover ($987/wk net) — quantum updated
+Overpayment window 7 Apr 2025–31 May 2026 ≈ 13.8 mo × $6k ≈ $82.8k gross paid at full rate.
+Scenarios: PDI-base+gross-RTEI → debt ≈ $80.5k · PDI-base+leave-excluded → ≈ $68.7k ·
+PDI-with-penalties(~$114k)+leave-excluded → ≈ $51k. LEVERS: penalties into PDI ≈ $20k+ · leave out
+of RTEI ≈ $9k · fund-fault/notification defence (visible employer contributions throughout; 16 Mar
+cease request acted on only 31 May; 2025 notification per phone records) ≈ $10-30k negotiable.
+⇒ STRATEGIC REFRAME: WC arrears (~$55-80k) ≈ ART debt (~$50-80k) — THE APPEAL IS THE INSTRUMENT
+THAT PAYS OFF ART. Net cash after tax ≈ $25-45k + debt extinguished + leave banks + Track B.
+Downside of losing the appeal now includes an unpayable $50-80k fund debt — raises settlement value.
+⚠ GROSS vs NET: $987/wk net received — recovery arrangement must state tax treatment (repay net, or
+gross with PAYG recovered via amended returns). Add to the workings-audit letter.
