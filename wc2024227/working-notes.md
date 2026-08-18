@@ -6251,3 +6251,18 @@ mention is characterised in any outward document until verified); (2) the appear
 the unidentified fourth attendee); (3) the "That's just management action" exchange verbatim;
 (4) the cost/proportionality remarks. Recount corrections logged to
 MENTION-7AUG2026-RECOUNT.md as [V] verified / corrected entries.
+
+## 2026-08-18 — QUANTUM SCHEDULE built (chat; Calderbank #3 backbone)
+Rate verified from FY2025-26 payslip workbook: base $43.17/hr (AO3.4); FT base $3,280.92/ftn;
+near-FT observed gross $4,412.55 (02/07/2025 slip) ⇒ NWE working estimate ≈ $2,200/wk (⚠ fix from
+FY2023-24/FY2024-25 payslips — NOT yet in repo). FY2025-26 actual gross $82,664.20/26 ftn.
+Track A (WC acceptance): Jul-Sep 24 partial $4-10k · dismissal window offset by deed wages ·
+13 Dec 24–23 Feb 25 total incapacity 10.3 wks ≈ $17.5k (26-wk boundary 30 Dec 24) · 24 Feb–7 Apr
+25 $0-9.9k (⚠ resolve deed-return vs ART-payslip return date) · 7 Apr 25–30 Jun 26 partial 64.1
+wks ≈ $29k (104-wk point ≈ 30 Jun 26) · medical $5-15k · 2024-25 leave recredit. Gross ≈ $55-80k
+before ART offset (WC arrears partly flow to ART but extinguish the overpayment debt).
+Track B (employment): backpay 13 Jul→resolution at 76 hrs/ftn (their RFMI letter + the 76.00-hr
+zero payslip + the 40-hr arrangement's own 28 Jun 26 expiry) ≈ $18.5-24.8k to 30 Sep + 12% SG +
+full recredit since 3 Jul 26. Combined ≈ $75-105k + leave banks + debt resolution.
+COMPILE: FY23-24/FY24-25 payslips · Medicare/PBS histories + receipts · myHR leave ledger ·
+Zappia benefit schedule · return-date resolution. Estimates, not advice; bands wide pending NWE.
