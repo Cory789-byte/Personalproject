@@ -6223,3 +6223,14 @@ source" the moment leave is paid — update it.
   leading with "I stopped it" while an ongoing-entitlement request is pending with the same fund
   could be painted as creating a false impression if MSH-ART traffic surfaces it. Present-tense
   facts cannot be.
+
+## 2026-08-18 — Roberts email FINAL v4 (as approved for sending)
+Two additions on Cory's instruction: (1) QSuper paragraph restores the cessation-request fact,
+worded to Zappia's own acknowledgment — "benefit payments ceased earlier this year following my
+own request to the fund, made when I returned to work" + nothing paid since 31 May 2026 + not in
+receipt + administration directly with the fund + contributions in ordinary course. Every clause
+checkable; "closed" never used. (2) Leave section adds the AVAC line: if an AVAC is required to
+process the leave and correct the 12 Aug payslip, submit it promptly; advise if anything needed
+from him. Otherwise identical to v3 (meeting 9:30–11:30 Fri 21 Aug; five agenda items incl.
+Directive 12/24 anchor; Dr Ma correction; permit-not-elect leave, subject to the report, recredit).
+Standing rules live: forward sent copy to Petering; notify Zappia + payslip when any leave pays.
