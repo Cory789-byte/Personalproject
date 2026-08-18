@@ -148,6 +148,8 @@ Examples: "user-confirmed (4 May 2026): Negro had no marks on her neck"; the acc
 
 ### C.7 — The drug-driving matter has one real analytical risk
 
+> **RESOLVED, 18 August 2026 — and unfavourably. See [`DRUG_DRIVING_RETEST_2026-08-18.md`](./DRUG_DRIVING_RETEST_2026-08-18.md).** Sibley Lawyers have confirmed the analyte is **methamphetamine**. Lisdexamfetamine metabolises to dexamfetamine, not methamphetamine, so **the cross-reactivity argument does not answer it and should no longer be relied on.** The defence now rests on the 52.6-hour gap, the disclosure failures, whether the sample is his at all, and Queensland Health's acknowledged testing problems. Note also that the sample now appears to still exist, contradicting the three earlier accounts of its destruction.
+
 The cross-reactivity argument is sound in structure: Lisdexamfetamine metabolises to dexamfetamine, and without confirmatory chromatography you cannot distinguish an amphetamine-class prescription metabolite from a proscribed analyte.
 
 But it only holds **if the analyte actually certified was in that class**. If the certificate records methylamphetamine or MDMA or THC, the prescription argument does not answer it, and the defence rests entirely on chain of custody, the destruction of the specimen, and the disclosure failures.
