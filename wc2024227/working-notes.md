@@ -6234,3 +6234,20 @@ process the leave and correct the 12 Aug payslip, submit it promptly; advise if 
 from him. Otherwise identical to v3 (meeting 9:30–11:30 Fri 21 Aug; five agenda items incl.
 Directive 12/24 anchor; Dr Ma correction; permit-not-elect leave, subject to the report, recredit).
 Standing rules live: forward sent copy to Petering; notify Zappia + payslip when any leave pays.
+
+## 2026-08-18 16:45 — QTRANSCRIPTS: AUDIO REQUEST APPROVED, comments added for review/action
+`documents/2026-08-18_1645_QTranscripts_ATR0282381_audio_APPROVED_comments_added.pdf`
+Request ATR0282381 · Shepherd v WCR · event 07/08/2026 10:00 AEST · QIRC Brisbane · requested
+10 Aug (confirms the assumed date) · audio only, no transcript · 24-hour turnaround selected ·
+provider Department of Justice · State "Evaluation" / Substate "APPROVED". RTS has added comments
+requiring review/action — content not in the email; ACTION: open View Request, read the
+Request Correspondence (likely fee quote/payment or delivery mechanics; note the support links
+include Fee waivers — unpaid since 13 Jul, hardship waiver available to request if a fee is quoted).
+⇒ Resolves the 17-Aug "audio not approved yet" concern: approval granted within 6 business days
+incl. show day. Also signals registry/chambers activity on the matter file this week.
+WHEN THE AUDIO ARRIVES (30-day download link): verification protocol — check the RECOUNT against
+the tape, especially (1) the exact "prejudice" formulation (§E discipline: nothing from the
+mention is characterised in any outward document until verified); (2) the appearances (identify
+the unidentified fourth attendee); (3) the "That's just management action" exchange verbatim;
+(4) the cost/proportionality remarks. Recount corrections logged to
+MENTION-7AUG2026-RECOUNT.md as [V] verified / corrected entries.
