@@ -6298,3 +6298,17 @@ THAT PAYS OFF ART. Net cash after tax ≈ $25-45k + debt extinguished + leave ba
 Downside of losing the appeal now includes an unpayable $50-80k fund debt — raises settlement value.
 ⚠ GROSS vs NET: $987/wk net received — recovery arrangement must state tax treatment (repay net, or
 gross with PAYG recovered via amended returns). Add to the workings-audit letter.
+
+## 2026-08-18 — ART claim: FOUR-ERA structure locked (Cory's framing verified against Zappia)
+Era 1 ~Sep/Oct 2024→6 Apr 2025: not working → FULL benefit CORRECT, no overpayment (WC-overlap
+netting only, if appeal succeeds). ⚠ INTERNAL-ONLY flag: deed wages paid FOR Sep–Dec 2024 — if
+the fund ever reaches back, answer = settlement sum is not exertion-earned RTEI. Never raise first.
+Era 2 7 Apr 2025→16 Mar 2026 (~11.3 mo): the genuine overpayment core — ~$67.8k paid vs $12-26k
+partial entitled → core debt ~$42-56k before levers (PDI penalties ~$20k; leave/RTEI ~$9k; 2025
+notification per phone records ~$6k/month established).
+Era 3 16 Mar→31 May 2026: ~$15k paid AFTER his written stop request — weakest restitution slice;
+Zappia's own email concedes the 16 Mar request "will be taken into consideration". Theirs to wear.
+Era 4 post-31 May: nil paid; 12 Aug ongoing-entitlement request pending.
+⇒ Defensible landing zone: debt $25-40k, substantially/wholly absorbed by WC arrears on appeal
+success. Audit letter (when workings arrive) now covers: PDI figure+source · RTEI leave lines ·
+era boundaries as above · the 16 Mar tail · gross-vs-net tax treatment.
