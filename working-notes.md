@@ -159,3 +159,17 @@
   build the cage first); win by leaving the witness alone with the paper and the silence.
   Procedural: put to THEIR WITNESSES via tender bundle tabs; the entity is "put to" only in
   submissions. Full scripted 20 May chain sequence in chat = the cross brief's model unit.
+
+## 2026-08-18 — QSuper status (Cory's advice) — [A] verify before use in any filing
+Cory, 18 Aug: the QSuper (income protection) claim was CLOSED AT HIS ELECTION in/since March 2026;
+contributions simply flow to his QSuper account. ⇒ Roberts' 18 Aug line "I am aware you have a
+current open Qsuper claim, and we may need to advise Qsuper of any income" rests on a stale
+premise — third instance in one email cycle of MSH acting on outdated information (cf. the
+"medical evidence does not support" line vs the ECC; the sick-balance/no-pay payslip collision).
+⚠ VERIFY: locate the March 2026 closure election/confirmation document before this is asserted
+anywhere beyond a one-line correction. ⚠ Interaction with the ART/Zappia track (reply sent 15 Aug;
+overpayment + employer disclosures raised): if the ART outcome later restores/reworks the claim,
+"closed" is accurate NOW but may change — keep the correction minimal and dateless.
+⛔ The ART/Zappia matter is NEVER mentioned to MSH — separate track.
+Reply wording: replace "I note your comments regarding QSuper" with: "Regarding QSuper: I do not
+have a current open QSuper claim." Nothing further — no date, no reason, no history.
