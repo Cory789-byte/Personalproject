@@ -6137,3 +6137,30 @@ employer records it going well; Taylor approves FT "very pleased" 27 Sep 2023. T
    own").
 ⛔ Disciplines: repair arc = manner/credibility material for statement + cross (Taylor AND Reese);
 nouns not adjectives; Punch/PID adjacency stays PID-track; nothing further to the practice.
+
+## 2026-08-18 — ROBERTS RE-SENDS the recalled 13 Aug email; meeting offered Fri 21 Aug
+`documents/2026-08-18_1047_Roberts_FollowUpOnEnquiries_RESENT_personal_email.pdf` (4pp).
+Tue 18 Aug 10:47, Jacqui Roberts (Principal Consultant HR) → personal email, cc Petering + LBH HR
+Team 1 + health address. Body = the 13 Aug 16:42 email VERBATIM; only change: sender is now
+ROBERTS PERSONALLY (13 Aug version went from the LBH Injury Management mailbox, recalled at 16:45).
+Apology: had sent to health account only "in case you have not accessed your health email".
+CONTENT: (1) 2-hour Teams meeting offered Fri 21 Aug, 09:30–11:30 or 14:30–16:30, Petering
+included; confirm by COB WED 19 AUG. (2) ⛔ "Whilst I understand your belief you are fit to return
+to the workplace; the medical evidence provided to date does not support that" — misstates the
+record: the ECC of 3 Jul 2026 (Dr Ma, on MSH's own form) certifies usual switchboard duties
+suitable with restrictions. (3) Leave: invites him to ELECT other leave; states "You do have sick
+leave balances, so they should automatically be applied" — ⭐ collides with the 12 Aug payslip
+(76 hrs processed as NPSickLeave / zero pay): either balances exist and payroll erred AGAIN, or
+her statement is wrong. Another pay-administration error either way — the case's own pattern,
+live in Aug 2026. (4) QSuper income-notification line.
+READ: first substantive HR re-engagement since the 3 Jul exclusion; Roberts = the 2025
+reinstatement-carriage officer, recipient of the 4 Oct 2025 Hughes complaint; union deliberately
+included; "really discuss and understand your matters" — resolution posture. Sits 3 days before
+the 24 Aug cl 10.3.6 deemed refusal. Meeting does NOT stop that clock.
+PLAN: accept in writing TODAY (do not miss the Wed COB confirm); correct the medical sentence in
+one calm line (Dr Ma's certification, not belief; specialist report answering the 31 Jul RFMI is
+in preparation); do NOT elect annual/other leave; ask that the stated sick-leave balances be
+applied and the 12 Aug no-pay processing reviewed, expressly without prejudice to the 3 Aug
+position (pay restoration + recrediting); request an agenda; brief Petering before Friday.
+⛔ In the meeting: no December 2024 (rule 10), no appeal discussion, no settlement numbers, no
+commitments on medical matters pending the report. File note afterwards.
