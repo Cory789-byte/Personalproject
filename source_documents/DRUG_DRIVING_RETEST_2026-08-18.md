@@ -137,6 +137,34 @@ Two of three outcomes are good, and the third leaves him no worse off than today
 
 **Reply today.** They have asked twice and the review is tomorrow.
 
+### The reply as sent
+
+> Afternoon Ryan,
+>
+> Thanks for this, and sorry for the slow reply.
+>
+> Yes — I'm happy to proceed with the process you've set out.
+>
+> Before anything else, could we write to Queensland Health to confirm three things:
+>
+> 1. That they still hold specimen 22403-30264.
+> 2. How much of the sample is left, and whether there is enough for both the DNA and the drug testing.
+> 3. That the sample will be preserved and not destroyed, consumed or otherwise dealt with, pending the testing.
+>
+> I ask about preservation because I have already been given three different accounts of what happened to this sample — that it was "destroyed or consumed", that it was "consumed", and that it was "stored but not viable". I would rather that was locked down in writing now than discovered later.
+>
+> Could the drug testing also be done first? At $250 against around $2,000 for the DNA, if the drug test doesn't confirm methamphetamine then the DNA testing may not be needed at all. I appreciate there may be a technical reason for the order you've proposed — if so, I'll follow your advice.
+>
+> I can attend your office whenever suits to provide the comparison DNA sample — just let me know and I'll make myself available so it isn't holding things up.
+>
+> Happy for you to seek an adjournment tomorrow, long enough to cover the full testing sequence if that's possible.
+>
+> Kind regards,
+> Cory Shepherd
+
+*(Sequencing is raised as a question, not a direction — see §3.2 for why DNA first may well be the correct order, and why the answer should not be pressed against expert advice.)*
+
+
 The reply should be short. They hold the file, they know the testing issues, and they know the withdrawal submission was refused. What they need is **instructions**, not a restatement of material they already have.
 
 Say yes, ask the six practical questions at §3.1, offer to attend immediately for the comparison sample so that is not the bottleneck, and confirm he is content with an adjournment long enough to cover the full testing sequence.
