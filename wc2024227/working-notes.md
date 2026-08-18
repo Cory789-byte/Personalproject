@@ -6266,3 +6266,23 @@ zero payslip + the 40-hr arrangement's own 28 Jun 26 expiry) ≈ $18.5-24.8k to 
 full recredit since 3 Jul 26. Combined ≈ $75-105k + leave banks + debt resolution.
 COMPILE: FY23-24/FY24-25 payslips · Medicare/PBS histories + receipts · myHR leave ledger ·
 Zappia benefit schedule · return-date resolution. Estimates, not advice; bands wide pending NWE.
+
+## 2026-08-18 — ⭐ THE RTEI/LEAVE QUESTION: policy definition vs "gross payslip earnings"
+QInsure Policy 1.9 EXTRACTED from Zappia's 4 Aug .eml attachment and FILED:
+`documents/instruments/QInsure_Insurance_Policy_1.9_from_Zappia_4Aug2026.pdf` (+ formula images
+verified from the embedded cids). Cl 34.2.2: Partial Monthly Benefit = (PDI − RTEI)/PDI × Monthly
+Benefit. RTEI definition (verbatim, image001): gross Income "received or is capable of receiving
+(taking into account… medical capacity), during the pay period… **that is earned… as a
+consequence of their personal exertion**".
+⇒ Zappia's stated method ("gross earnings shown on the payslips") is BROADER than the policy
+definition. FY2025-26 split (workbook summary, authoritative): worked pay $70,446.96 · leave pay
+$12,210.77 (sick ≈$5,440 · annual/rec+loading ≈$4,790 · RDO ≈$1,980).
+- SICK PAY exclusion (strongest): incapacity pay is not exertion income; deeming limb can't catch
+  incapacity days. Worth ≈ $3.0k off the overpayment (FY25-26 alone).
+- Annual/RDO exclusion (arguable): accrued pre-period exertion consumed, vs the fund's
+  "capable of earning" deeming limb bounded by certified capacity. All-leave exclusion worth
+  ≈ $6.8k + the Apr–Jun 2025 slice ⇒ $3–8k total swing to Cory.
+⛔ SEQUENCE: do NOT pre-argue. The 12 Aug email already requires period-by-period workings before
+recovery. When workings arrive: audit RTEI lines; then the four-sentence letter — recalc excluding
+sick/leave pay or identify the limb relied on per inclusion (+ medical basis for deemed capacity
+against the ECC).
