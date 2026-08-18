@@ -6164,3 +6164,31 @@ applied and the 12 Aug no-pay processing reviewed, expressly without prejudice t
 position (pay restoration + recrediting); request an agenda; brief Petering before Friday.
 ⛔ In the meeting: no December 2024 (rule 10), no appeal discussion, no settlement numbers, no
 commitments on medical matters pending the report. File note afterwards.
+
+## 2026-08-18 — ⛔ CORRECTION: QSuper status verified against Zappia's OWN email — NOT "closed"
+Source (in repo all along, as .eml — filename/PDF searches missed it; lesson: SEARCH .eml TOO):
+`documents/correspondence-2026/2026-08-04_1640_ART_Zappia_overpayment_and_employer_disclosures.eml`
+James Zappia (Claims Manager, ART Life), 4 Aug 2026 16:40, verbatim key lines:
+- last IP payment 28 May 2026 (period 25–31 May 2026); "benefit payments were temporarily
+  suspended from 31 May 2026" pending overpayment review (7 Apr 2025 – 31 May 2026);
+- "suspended on a temporary basis only. Once our review is complete, you may be entitled to
+  ongoing benefits";
+- "We acknowledge that on 16 March 2026 you contacted ART Life by email advising that you had
+  returned to work and requested that benefit payments cease";
+- ⭐ "we have contacted your employer and advised that you may wish to access your available paid
+  leave in the interim" — ROBERTS' LEAVE PARAGRAPH TRACES TO ART'S OWN SUGGESTION;
+- medical info not given to employer without authority; employer contact limited to employment
+  records (payslips — QH provided payslips direct, 7 Apr 2025 – 14 Jun 2026).
+⇒ ⛔ THE LINE "I do not have a current open QSuper claim" IS WRONG ON THE FUND'S OWN ACCOUNT
+(suspended ≠ closed; possible ongoing entitlement) — PULLED before sending. Roberts' "current open
+QSuper claim" is strictly accurate. THE TRUE/STRONG FACT: cessation REQUESTED by Cory 16 Mar 2026
+(acknowledged in writing); no payments since 31 May 2026.
+Reply paragraph recast (accurate per Zappia): cessation requested 16 Mar · acknowledged by Zappia
+in writing · last payment 28 May 2026, nothing since · not in receipt of IP payments · remaining
+administration handled directly with the fund · contributions reported through payroll in the
+ordinary course. ⚠ If MSH pays sick/annual leave it will likely enter ART's reassessment
+arithmetic (they hold the payslips) — legitimate, expected, and the overpayment stays in the ART
+channel only, never raised with MSH.
+Interlock note: the earlier "closed since March" was [A]-grade recollection; the source shows the
+nuance the 14 Jul bundle note predicted ("expect MSH/fund to say not closed"). Verify-from-source
+caught it before send.
