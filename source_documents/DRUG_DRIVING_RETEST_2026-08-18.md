@@ -62,22 +62,38 @@ This is the most important line in the email and it is not developed. If there a
 
 ---
 
-## 3. Questions to put before committing
+## 3. The paper route is exhausted — which is why this proposal exists
 
-**Posture note.** The first draft of this asked Sibley to explain the Queensland Health testing issues. That was the wrong way round — Cory holds that material himself. He made the running on it: the statutory complaint to Forensic Science Queensland of 1 March 2026, the ISO/IEC 17025 non-conformances, the 52.6-hour gap, and the three contradictory accounts of the specimen's disposition are all his work product. **He should be supplying it, not requesting it.**
+Two corrections to earlier drafts of this note, both from Cory's instructions:
 
-The one thing genuinely worth asking is whether Sibley are referring to *his* complaint or to something **systemic** — because a broader problem affecting a class of matters is a different proposition, and would not be something he already knows.
+1. **Sibley already hold the testing-issues material.** The FSQ statutory complaint of 1 March 2026, the ISO/IEC 17025 non-conformances, the 52.6-hour gap and the three contradictory accounts of the specimen's disposition are all on their file. Restating them to his own solicitors is pointless.
+2. **The submission for withdrawal of 30 January 2026 was made and refused.** It was not left unanswered.
 
-1. **Is the issue referred to my own complaint, or a broader systemic problem affecting a class of matters?** If systemic, is this matter within a class under review — because that may resolve it without privately funded testing. *(Supply the 1 March 2026 FSQ complaint with the reply so they have it.)*
-2. **Has the prosecution ever answered the submission for withdrawal of 30 January 2026?** The submission is already on foot. In the Southport matter a properly made submission has just been accepted and a charge discontinued. **The same review should be applied here before $2,500 is spent.**
-3. **Has FSQ responded to the statutory complaint of 1 March 2026** — now five and a half months old?
-4. **Has the full analytical data been produced** — certificate, chromatograms, ion ratios, retention times, calibration and QC records, and any non-conformance record for the batch? Sought since 3 September 2025 and not provided. A defect on the face of the original testing would be decisive and free.
-5. **What is the sample's actual status**, in writing, reconciled against the three earlier accounts?
-6. **Is there enough sample for both tests**, and is there a technical reason DNA must go first? If the drug test does not confirm methamphetamine, the $2,000 DNA test may be unnecessary. The cheap decisive test should ordinarily go first unless volume or degradation dictates otherwise.
-7. **Is there likely to be usable DNA** in an oral fluid specimen of this age? Could Identilab be used as an initial screen, with Dr Gerhard's expert report obtained only if the result is favourable — accepting that adds a handling step to the chain of custody?
-8. **What is the downside if the re-test confirms methamphetamine and the DNA is his?** Does that weaken the chain-of-custody argument, and by how much?
-9. **What is being proposed to the court tomorrow?** Presumably an adjournment to allow testing.
-10. **Are any of these costs recoverable** if the testing is favourable, and is there any funding route?
+That second point matters more than anything else in this note.
+
+**The chain-of-custody and disclosure arguments have already been put to the prosecution on paper, and they have already been rejected.** So the earlier suggestion in this file — press the paper arguments before spending on testing — is wrong and is withdrawn. There is nothing left to press. Those arguments have been run.
+
+**What remains is evidence.** Either the sample does not contain what is certified, or it is not his sample. Only testing answers either question. **That is precisely why Sibley have proposed it, and it is the right call.**
+
+The decision is therefore not *whether* to test. It is how to sequence it, what it costs, and what the risk is if it goes the wrong way.
+
+### 3.1 — The questions actually worth asking
+
+1. **Is the Queensland Health issue you refer to my own complaint, or something systemic affecting a class of matters?** The only genuinely unknown item. If systemic and this matter sits in a class under review, that changes the calculation.
+2. **Is there enough sample for both tests, and why is DNA sequenced first?** If the drug test does not confirm methamphetamine the $2,000 DNA test may be unnecessary. **But see §3.2 — there may be a good reason for the order, and this is a question rather than a criticism.**
+3. **Is there likely to be usable DNA** in an oral fluid specimen of this age? Could Identilab serve as a screen, with Dr Gerhard's report obtained only if the result is favourable — accepting the extra handling step?
+4. **What is the downside if the re-test confirms methamphetamine and the DNA is mine?**
+5. **How long an adjournment is needed?** The DNA report alone is at least two weeks, before transport and before the drug test that follows it. Realistically six to eight weeks, and the adjournment sought tomorrow should be long enough to cover the whole sequence rather than requiring a second application.
+6. **Are any of these costs recoverable**, and is there a funding route?
+
+### 3.2 — Why DNA first may in fact be right
+
+The instinct is to run the $250 test before the $2,000 one. But on a specimen now roughly fifteen months old, held through a 52-hour unrefrigerated gap and stored since:
+
+- **a negative drug result may be attributed to degradation** rather than to absence, which makes it much less decisive than it looks; whereas
+- **an identity result is decisive either way** — if the DNA is not his, nothing else matters, and degradation does not manufacture someone else's profile.
+
+So the more expensive test is probably the more decisive one, and that may well be why the laboratories sequenced it that way. **Ask the question, but expect a good answer, and do not press it against expert advice.**
 
 ---
 
@@ -103,4 +119,8 @@ Two of three outcomes are good, and the third leaves him no worse off than today
 
 ## 5. Priority
 
-**Reply today.** They have asked twice and the review is tomorrow. A same-day reply agreeing in principle, with the questions attached, keeps the matter moving and lets Sibley seek an adjournment on instructions.
+**Reply today.** They have asked twice and the review is tomorrow.
+
+The reply should be short. They hold the file, they know the testing issues, and they know the withdrawal submission was refused. What they need is **instructions**, not a restatement of material they already have.
+
+Say yes, ask the six practical questions at §3.1, offer to attend immediately for the comparison sample so that is not the bottleneck, and confirm he is content with an adjournment long enough to cover the full testing sequence.
