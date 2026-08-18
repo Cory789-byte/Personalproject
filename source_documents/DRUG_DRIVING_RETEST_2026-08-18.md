@@ -86,6 +86,22 @@ The decision is therefore not *whether* to test. It is how to sequence it, what 
 5. **How long an adjournment is needed?** The DNA report alone is at least two weeks, before transport and before the drug test that follows it. Realistically six to eight weeks, and the adjournment sought tomorrow should be long enough to cover the whole sequence rather than requiring a second application.
 6. **Are any of these costs recoverable**, and is there a funding route?
 
+### 3.1A — The first step is preservation, not testing
+
+Before any laboratory is engaged, three things should be confirmed with Queensland Health **in writing**:
+
+1. **That they still hold specimen 22403-30264.**
+2. **How much of it is left**, and whether there is enough for both DNA and drug testing.
+3. **That it will be preserved** — not destroyed, consumed, or otherwise dealt with — pending the testing.
+
+The third is the one that matters, and it is Cory's own point.
+
+He has already been given **three different accounts** of what happened to this specimen: *"destroyed or consumed"*, *"consumed"*, and *"stored but not viable"*. A sample with that history, about which enquiries are suddenly being made by the defence, is a sample capable of becoming unavailable.
+
+**Getting a written preservation confirmation now does two things.** If the sample is preserved, the testing proceeds. If it then goes missing anyway, the loss occurred after an express written request to preserve it — which is a far stronger position than the loss simply being reported later.
+
+It costs nothing and it should be the first letter out.
+
 ### 3.2 — Why DNA first may in fact be right
 
 The instinct is to run the $250 test before the $2,000 one. But on a specimen now roughly fifteen months old, held through a 52-hour unrefrigerated gap and stored since:
