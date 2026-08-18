@@ -173,3 +173,14 @@ overpayment + employer disclosures raised): if the ART outcome later restores/re
 ⛔ The ART/Zappia matter is NEVER mentioned to MSH — separate track.
 Reply wording: replace "I note your comments regarding QSuper" with: "Regarding QSuper: I do not
 have a current open QSuper claim." Nothing further — no date, no reason, no history.
+
+## 2026-08-18 — Roberts reply FINALISED (Cory's leave construction)
+Leave paragraph recast per Cory: he PERMITS (does not elect) processing of sick then annual leave
+to maintain income — expressly (1) the Health Service's decision not his election, (2) interim and
+subject to the specialist psychiatric report (report lands ⇒ adjustments implemented, return
+proceeds, pay restored — the sequence is pre-written), (3) all leave debited since 3 Jul 2026 to be
+recredited. Agenda item 1 now anchors the 28 Jul Directive 12/24 special-leave request. QSuper
+one-liner in (Zappia's own email = source, held in the drawer, not cited). 12 Aug no-pay payslip
+correction requested. Send 18 Aug; confirm slot 9:30–11:30 Fri 21 Aug; forward sent copy to
+Petering. Effect: leave burn now accrues a recrediting liability against MSH — their incentive to
+resolve grows each fortnight.
