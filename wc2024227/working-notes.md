@@ -6192,3 +6192,34 @@ channel only, never raised with MSH.
 Interlock note: the earlier "closed since March" was [A]-grade recollection; the source shows the
 nuance the 14 Jul bundle note predicted ("expect MSH/fund to say not closed"). Verify-from-source
 caught it before send.
+
+## 2026-08-18 — Cory's 12 Aug reply to Zappia FILED (corrects the 15-Aug note: sent 12 Aug 10:33)
+`documents/correspondence-2026/2026-08-12_1033_Cory_to_Zappia_recalc_agreed_ongoing_entitlement_requested.pdf`
+(11pp: his reply + the quoted 4 Aug Zappia email + 28 Jul chain). Contents:
+1. Recalc basis AGREED (cl 34.2 partial benefit formula, employer payslips); full workings
+   requested before any recovery.
+2. Benefit schedule awaited.
+3. ⭐⭐ ONGOING ENTITLEMENT REQUESTED: no shifts since mid-June 2026, NO WAGES SINCE 13 JULY 2026,
+   Return to Employment Income nil ⇒ fund asked to assess benefit entitlement from the date
+   employment income ceased, offsetting the overpayment from there. Offers current
+   certificate/claim form on request.
+4. Recovery: willing to agree an arrangement; no recovery step before agreement; "presently
+   receiving no income from any source" (true at 12 Aug).
+5. Phone/data records download foreshadowed (re the disputed Apr-May 2025 notification).
+⭐⭐⭐ THE INTEGRATION (Roberts ↔ ART ↔ leave):
+- ART suggested to MSH that he access paid leave (Zappia 4 Aug) → Roberts offers leave processing
+  (13/18 Aug) → he permits sick→annual processing (reply, 18 Aug) → ⚠ ANY LEAVE MSH PAYS IS
+  "RETURN TO EMPLOYMENT INCOME" in ART's arithmetic and will reduce any IP entitlement for the
+  same periods. Legitimate, no double-dip — but:
+⛔⛔ STANDING RULE (the overpayment's own origin story must not repeat): THE MOMENT MSH PROCESSES
+ANY LEAVE PAYMENT, NOTIFY ZAPPIA IN WRITING (one line + payslip) — the 2025 overpayment arose from
+income the fund didn't know about; with an ongoing-benefits assessment now pending, unreported
+leave income would be the same failure twice. Also supersedes "receiving no income from any
+source" the moment leave is paid — update it.
+- QSuper paragraph to Roberts RE-TRIMMED (v3, final): present facts only — no IP payment since
+  31 May 2026 · not in receipt of IP payments · claim administration handled directly with the
+  fund's Claims Manager · contributions through payroll in the ordinary course. The March
+  cessation request is dropped from the WRITTEN version (still true, usable orally Friday):
+  leading with "I stopped it" while an ongoing-entitlement request is pending with the same fund
+  could be painted as creating a false impression if MSH-ART traffic surfaces it. Present-tense
+  facts cannot be.
