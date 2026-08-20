@@ -72,13 +72,35 @@ that the fatigue was an early symptom (clinical — that is Krishnaiah's to say,
 
 # PART 4 — CROSS-EXAMINATION
 
-## 4.0 ⛔⛔ FIRST: TAYLOR MUST BE IN THE BOX
+## 4.0 ⛔⛔ FIRST: TAYLOR MUST BE IN THE BOX — *AND CALLED BY THE RESPONDENT*
 
-⭐⭐ **Their witness list answers this** — and it follows his under the directions. **If they call
-her, he cross-examines at no cost. If they don't, he must list her, summons her (Form 32 + 32A/B/C
-after dates are set) and pay r 62 expenses in time** — or she has a lawful excuse not to appear.
+⛔⛔ **CORRECTED 20 AUGUST 2026. The earlier version of this section was wrong and must not be
+relied on.** It said that if the Respondent does not call Ms Taylor, "he must list her, summons
+her". **Listing her defeats the entire purpose.**
 
-⛔ **Without her, the route the Commission itself identified does not exist.**
+**QIRC Workers' Compensation Appeal Guide, Part 7.6.2, verbatim:** *"After the examination-in-chief
+has finished, **the party who did not call the witness** will conduct the cross-examination."*
+
+⇒ If the Appellant lists Ms Taylor, he CALLS her; he must then conduct **examination-in-chief**
+(no leading questions, no confrontation), and **Ms Willson gets the cross-examination.** The route
+Commissioner Dwyer identified on 7 August 2026 — put it to her, and the Regulator must then
+displace it — **exists only if the RESPONDENT calls her.**
+
+⭐ **THEREFORE:** Taylor and Reese are NOT on the Appellant's witness list. The position is instead
+RESERVED in the covering letter filed with the list (see `drafts/FDO3/05_WITNESS_LIST_and_covering_
+letter_DRAFT.md`), and **30 September 2026 is diarised** — the date the Respondent's list is due
+under direction 3 of the Further Directions Order (3). If Taylor or Reese is not on it, apply
+promptly for leave to amend the Appellant's list and for attendance notices (Form 32 + 32A/B/C,
+issued after hearing dates are set — Guide 7.6.4), and be ready to pay travel and conduct money
+(Guide 10.1), failing which the witness has a lawful reason not to attend.
+
+⚠ The Evidence Act 1977 (Qld) s 17 route (leave to treat one's own witness as unfavourable) is
+discretionary, must be applied for, and is NOT something a self-represented appellant should plan
+around. Not verified from source in this repo.
+
+⛔ **Without her in the box, called by them, the route the Commission itself identified does not
+exist.** The cross-examination preparation below remains sound in every respect — it is the same
+work whether she is called on 30 September or summonsed later.
 
 ## 4.1 THE RULES FOR HIS CROSS
 
