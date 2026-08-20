@@ -6312,3 +6312,34 @@ Era 4 post-31 May: nil paid; 12 Aug ongoing-entitlement request pending.
 ⇒ Defensible landing zone: debt $25-40k, substantially/wholly absorbed by WC arrears on appeal
 success. Audit letter (when workings arrive) now covers: PDI figure+source · RTEI leave lines ·
 era boundaries as above · the 16 Mar tail · gross-vs-net tax treatment.
+
+## ⭐⭐⭐ 2026-08-20 — FURTHER DIRECTIONS ORDER (3) RECEIVED — THE APPEAL IS PROGRAMMED
+`documents/orders/2026-08-19_Further_Directions_Order_3_SEALED.pdf` — 1p, SCANNED IMAGE ONLY
+(no text layer; KONICA MINOLTA bizhub C658, scanned 20 Aug 2026 04:27 UTC = 14:27 AEST). Render to
+read. Dated **19 August 2026**, signed **J.C. DWYER, INDUSTRIAL COMMISSIONER**, sealed.
+Opening recital: **"FURTHER TO the correspondence of the Appellant dated 10 August 2026"** — i.e.
+issued in response to the 64G WITHDRAWAL. 9 days from withdrawal to order.
+
+THE FIVE DIRECTIONS (verbatim, verified from render):
+1. Appellant FILE + SERVE list of names of all witnesses — **4.00pm 9 SEPTEMBER 2026**
+2. Appellant SERVE (not file) outline of evidence per lay witness (**ONE A4 PAGE PER WITNESS**)
+   **"as well as any expert reports that will be relied upon"** — **4.00pm 9 SEPTEMBER 2026**
+3. Respondent FILE + SERVE witness list — 4.00pm 30 September 2026
+4. Respondent SERVE (not file) outlines + expert reports — 4.00pm 30 September 2026
+5. Once all directions finalised, **the APPELLANT is to contact the Industrial Registry to proceed
+   to a SECOND s552A CONFERENCE, OR TO HEARING.** ⚠ "Should no action be taken by the Appellant to
+   progress the matter, the matter may be placed into abeyance and subject to lapse pursuant to
+   **rule 230**."
+
+⭐⭐⭐ THE CRITICAL COLLISION: direction 2 requires **any expert report relied upon** to be served by
+**9 Sept — 20 days from today**. The Krishnaiah instruction went to the practice **17 Aug** (3 days
+ago); turnaround unconfirmed; a treating psychiatrist's medico-legal report typically runs 4–8
+weeks. THE REPORT-TIMING CALL TO THE PRACTICE IS NOW URGENT AND HAS A DATE ATTACHED.
+
+⭐ WHAT THE ORDER DOES NOT SAY (all favourable): no mention of the 64G, the Form 29, MSH, the
+7 Aug mention, any concession made at it, or costs. The "safe" form predicted on 17 Aug — recite
+the letter, characterise nothing. Nothing adverse is on the record about that hour.
+⭐ Direction 5 hands the APPELLANT the election and the timing of the settlement vehicle (second
+s552A conference). ⚠ And imposes an affirmative duty to progress or risk lapse.
+⚠ SEQUENCE ASYMMETRY: appellant discloses 9 Sept, Respondent 30 Sept — he shows his hand first,
+3 weeks early. Calibrate the outlines accordingly.
