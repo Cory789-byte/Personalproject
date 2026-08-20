@@ -6398,3 +6398,40 @@ business day, 21 days, expiring ~30 Sept. ⛔ If no report by early Sept, HOLD t
 OPEN: precondition boundary · full legal names (Taylor appears as Taylor/Jane Taylor/Donovan-Taylor;
 ⛔ not "Chloe Tyler", a different person) · whether MSH ever served a r 64I expenses notice (due
 ~11 Jul 2026; if not, spent — do not raise) · correct HEARING-PLAN §4.0 · Carolyn Jeffrey decision.
+
+## 2026-08-20 — PROCEDURAL TOOLS AUDIT (Cory's question: Form 24 on witnesses/non-parties? compel
+## Harrison-Jones? other Matheson-style repeat tools?) — ALL VERIFIED FROM THE RULES AND THE GUIDE
+1. ⛔ **FORM 24 IS PARTIES-ONLY.** r 49(1) verbatim: "A party to a proceeding (the first party) may,
+   by notice in the approved form served on **another party**, ask the **other party** to admit, for
+   the proceeding only, the facts or documents stated in the notice." ⇒ CANNOT be served on a
+   witness, on MSH, or on any non-party. The only other party is the Regulator.
+2. ⭐⭐⭐ **BUT NOTHING LIMITS HIM TO ONE — A SECOND FORM 24 IS THE STANDOUT UNUSED TOOL.** r 49(2):
+   if the other party does not serve a notice disputing within **14 days**, it "**is taken to
+   admit**". r 49(3): withdrawal of a deemed admission needs LEAVE. And r 41(2)(g): the Commission
+   may make a directions order "requiring a party to respond to a notice to admit facts or
+   documents" — the backstop if they ignore it.
+   ⭐ TIMING FITS: served ~21 Aug ⇒ 14 days ⇒ deemed admissions ~4 Sept ⇒ BEFORE the 9 Sept outlines,
+   so the outlines get shorter. The Feb 2026 Form 24 predates the CE letter (5 Jun 2026), the
+   movement forms, the FRMS/witness-conferencing bundles, Taylor's own call-process emails
+   (15 Apr/14 May/17 May 2024) and the Aug–Sep 2023 repair arc. A second notice built on THOSE
+   documents is the Matheson-style repeat play, in his hands.
+   ⛔ DISCIPLINE: facts and documents ONLY, never characterisations — the Feb 2026 notice's
+   characterisation items were denied; the factual ones were admitted.
+3. **COMPELLING A WITNESS:** Form 32 (request) + 32A (give evidence) / 32B (produce) / 32C (both) —
+   Guide 6.1. ⚠ Guide 7.6.4: done "once the hearing dates are advised in the Further Directions
+   Order and prior to the hearing" ⇒ NOT NOW. And Guide 10.1: the calling party pays travel +
+   conduct money, or the witness "will have a lawful reason for not attending".
+4. ⛔ **CORY HARRISON-JONES — DO NOT COMPEL.** Switchboard colleague
+   (Cory.Harrison-Jones@health.qld.gov.au). **26 mentions in the whole corpus, EVERY ONE a
+   distribution-list entry.** Nothing in the record shows what he could say about any pleaded fact.
+   Compelling a witness whose evidence is unknown, whom you must examine in chief (Guide 7.6.2 ⇒
+   the Regulator cross-examines him), who is a current MSH employee, and whom you must pay — is the
+   highest-risk step available. If he would speak freely, take a short account first. Otherwise no.
+5. **FORM 29 AGAIN** — available, but he has just exited that fight with goodwill intact and the
+   2026 employment file was never within this appeal's scope (ranges stop 30 Jun 2024). Dwyer's
+   proportionality steer was explicit. ⛔ Not recommended.
+6. **OTHER UNUSED LEVERS (r 41(2)):** (e) further and better particulars; (g) order to respond to a
+   notice to admit; ⭐ **(j) an order that the parties confer to agree what can be agreed, identify
+   the points in issue, and report back** — a narrowing tool that costs nothing and suits a case
+   where nearly every event is already admitted. Also r 50 (affidavit evidence by direction) and
+   WCRA s 556 (Commission-ordered medical examination — a RISK to watch, not a tool to seek).
