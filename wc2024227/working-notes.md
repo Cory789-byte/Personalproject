@@ -6343,3 +6343,58 @@ the letter, characterise nothing. Nothing adverse is on the record about that ho
 s552A conference). ⚠ And imposes an affirmative duty to progress or risk lapse.
 ⚠ SEQUENCE ASYMMETRY: appellant discloses 9 Sept, Respondent 30 Sept — he shows his hand first,
 3 weeks early. Calibrate the outlines accordingly.
+
+## 2026-08-20 — FDO(3) FULLY INTEGRATED (4-stream workflow; verify+synthesis agents hit session limit,
+## so EVERY load-bearing claim below was re-verified from source by hand)
+Deliverables built at `drafts/FDO3/` (00 action plan · 01 practice email SEND TODAY · 02 Matheson
+consent HOLD · 03 registry extension HOLD · 04 Shepherd outline of evidence DRAFT · 05 witness list
++ covering letter DRAFT · 06 two-track calendar).
+
+⛔⛔ **#1 FINDING — THE PRECONDITION, NOT THE DEADLINE.** working-notes 5474 (12 Aug consult): "Dr K
+will not produce the report responding to the employer's medical inquiry until the employer
+identifies WHY the information was requested." The same entry flagged an OPEN BOUNDARY (does it
+extend to the causation report on Cory's own instruction?) — **grep confirms it was never closed**
+before the 17 Aug send, and the 17 Aug redesign MERGED both reports into one. ⇒ the appeal's
+causation evidence may be gated on a basis question MSH has refused to answer for 7 weeks (Stage 1
+q3.1). Resolved by ONE neutral question in the practice email (item (b)) — do not argue it.
+
+VERIFIED FROM SOURCE THIS SESSION (QIRC Workers' Compensation Appeal Guide v2.10, 11 Mar 2025,
+`documents/guides/QIRC_Workers_Compensation_Appeal_Guide.pdf`):
+- **Part 4.4** — extensions: "A brief email will be sufficient" to qirc.registry@qirc.qld.gov.au;
+  MUST state the other party's attitude ⇒ ask Matheson FIRST.
+- **Part 4.9** — "no set form"; listed persons "should be reflected in the facts set out in your
+  Statement of Facts and Contentions"; failing to call someone relevant "may count against your case".
+- **Part 4.10** — outline: "You do not need to fill the entire A4 page, it is just a brief overview."
+- **Part 4.11** — "In some instances, parties settle after they have had an opportunity to view the
+  expert reports obtained by the other parties."
+- ⛔⛔ **Part 7.6.2** — "the party who did not call the witness will conduct the cross-examination"
+  ⇒ LISTING TAYLOR DESTROYS THE CROSS-EXAMINATION ROUTE DWYER POINTED TO. Taylor/Reese NOT listed;
+  position reserved in the covering letter instead; diarise 30 Sept to check the Respondent's list.
+  ⚠ `skill/references/HEARING-PLAN.md` §4.0 conflates listing/summonsing with obtaining cross —
+  CORRECT IT.
+- **Part 7.6.4** — attendance notices come after hearing dates are set. Nothing to do now.
+- ⭐ **Part 7.6.5 (boxed)** — "presenting a medical report on its own cannot be considered without
+  having the expert witness give evidence orally... and being available for cross-examination"
+  ⇒ Dr K must be ON the direction-1 list and must be available to give evidence.
+- **Part 10.1** — witness travel + conduct money (Supreme Court civil rate); "Expert witnesses are
+  entitled to a higher rate". Unpaid since 13 Jul 2026 ⇒ independent reason for a 2–3 name list.
+- ⛔ **CORRECTION to an earlier working assumption (Part 5.1, boxed): "No commercial settlement is
+  possible at the conference. Conferences for workers' compensation matters are not intended to
+  facilitate conciliations."** The second s552A conference is NOT a settlement vehicle — it is a
+  CONCESSION opportunity: "the Respondent may decide to review its position or consider conceding
+  the appeal where new information is presented". Also verbatim: "The Member... who chairs such a
+  conference will not be the Member who hears the appeal" ⇒ **DWYER WILL NOT HEAR THIS APPEAL.**
+- **Rule 230** (ATT27 p138) — lapse needs "no action... for at least 1 year". Boilerplate.
+- **LOD Part 5 (5 Aug 2026), verbatim** — "The Appellant will disclose, upon receipt, the report of
+  his treating psychiatrist addressing diagnosis, causation and chronology" ⇒ the Respondent has been
+  on notice since 5 August. This is the strongest paragraph in the extension request.
+- ⚠ **WCRA s 554** — separate from this order: exchange every document to be adduced ≥10 business
+  days before hearing or lose the right to rely on it.
+EXTENSION SHAPE: direction 2 EXPERT REPORTS ONLY, to 4pm 30 Sept 2026 (a date the Commission has
+already fixed) or the rolling form (within 7 days of receipt). ⛔ Never a vacation; never touch
+directions 3/4; hard backstop Wed 2 Sept.
+CALDERBANK #3: serve the report ALONE on arrival (no offer attached); offer on 9 Sept or next
+business day, 21 days, expiring ~30 Sept. ⛔ If no report by early Sept, HOLD the offer.
+OPEN: precondition boundary · full legal names (Taylor appears as Taylor/Jane Taylor/Donovan-Taylor;
+⛔ not "Chloe Tyler", a different person) · whether MSH ever served a r 64I expenses notice (due
+~11 Jul 2026; if not, spent — do not raise) · correct HEARING-PLAN §4.0 · Carolyn Jeffrey decision.
