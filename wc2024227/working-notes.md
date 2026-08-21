@@ -6435,3 +6435,41 @@ OPEN: precondition boundary · full legal names (Taylor appears as Taylor/Jane T
    the points in issue, and report back** — a narrowing tool that costs nothing and suits a case
    where nearly every event is already admitted. Also r 50 (affidavit evidence by direction) and
    WCRA s 556 (Commission-ordered medical examination — a RISK to watch, not a tool to seek).
+
+## 2026-08-20 — SECOND NOTICE TO ADMIT FACTS, v2 FINAL (47 facts) — `drafts/out/FORM24_SECOND_NOTICE_DRAFT.pdf`
+Two mining workflows FAILED on session limits (0 of 4 agents returned). The notice was therefore
+built from facts verified BY HAND in this session against source documents. Sections:
+A. The employment and the hours the Appellant SOUGHT (13 facts) — the trajectory spine: 7 Aug 2023
+   "formally adhoc an additional 2 shifts per fortnight" + cl 11.7 · 8 Aug "looking to pick up
+   another shift" · 31 Aug written application "Request to Increase Working Hours to Full Time
+   Rotational Roster" + "willingness to take on additional night shifts" · 4 Sep "able and willing
+   to work any roster... full 24-hour availability" + "I have no issues with shift work" + draft
+   roster submitted · 8 Sep Reese "glad to hear you applied for the additional shifts through the
+   recent EOI" · 27 Sep Taylor "I am very pleased to advise you that this has been approved" +
+   commence FT 16 Oct 2023.
+B. Aug–Sep 2023 matters raised and the response (8) — the space request; Taylor's "oversight" +
+   "the required rest period"; Reese's "you are required to continue to communicate with Chloe";
+   the 8-month roster audit + "I could not find a copy"; E12 offered 29 Aug; the repair 4 Sep; no
+   grievance submitted.
+C. The call-in process (10) — Taylor's four statements each listing SWITCH as authorised; the three
+   May calls; Sick Leave Process V1.1 dated 4 Feb 2025.
+D. Roster concerns and pre-onset fatigue knowledge (10) — 26 Apr Reese "working to fix this error";
+   1 May the Ops Manual fatigue toolkit; 8 May "following up... with HR"; ⭐ 10 May "impacting on
+   staff fatigue, or more specifically his fatigue" + "a rating of 11 which is moderate" + "a few
+   rostering errors made by Chloe" + the FRMS guideline attached; 20 May chase to LBH_HR.
+E. The employer's own statements (6) — CE letter items 4, 5, 7, 3(c), 3(a), 1–2.
+⛔ DECISIONS MADE AND WHY:
+ - THE DISMISSAL IS EXCLUDED. Post-injury (Oct 2024) and post-decision; proves nothing about s 32(1)
+   or pre-injury reasonableness; sits close to s 32(5)(c); deed confidentiality/non-disparagement;
+   MSH is not a party so the Regulator can decline facts about a non-party's deed; and CONTAMINATION
+   — one objectionable item lets the response lead with an objection. It belongs in the medical
+   evidence (the 2025 return "against medical advice", already in the fund file) and in quantum.
+ - NO CATALOGUE OF ABSENCES. Only the 13–15 May facts (already admitted at SOFC ¶16(b)(i)) go in.
+   Building an absence pattern risks the 8 Sep 2025 "34 occasions" counter-narrative. THE NOTICE
+   PROVES DATES; THE PSYCHIATRIST PROVES MEANING.
+ - No 2026 capacity material (movement forms, ECC, RFMI) — outside the matters in issue.
+⭐ THE MECHANISM: r 49(2) — 14 days' silence = taken to admit; r 49(3) — withdrawal needs LEAVE;
+r 41(2)(g) — the Commission may order a response. Served ~21 Aug ⇒ deemed admissions ~4 Sept ⇒
+BEFORE the 9 Sept outlines.
+⚠ BEFORE SERVICE: verify every quotation against source; delete the Source column; insert into the
+approved Form 24; keep facts and documents only.
