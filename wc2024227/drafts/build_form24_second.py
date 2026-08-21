@@ -161,6 +161,36 @@ FACTS = [
       "attachment described as \"Email: MASPER process - 09/05/2024\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
  (54, "The Appellant provided the document described at item 12 to WorkCover Queensland on "
       "12 July 2024.", "As above; and the Appellant's email of that date"),
+ ("G", "THE DOCUMENTS PARTICULARISING STRESSOR 1(a), SERVED ON THE RESPONDENT 11 AUGUST 2026"),
+ (55, "On 11 August 2026 the Appellant served on the Respondent a bundle titled \"Stressor 1(a) - "
+      "Particulars support bundle\", comprising 30 pages and six tabs, each stating a particular of "
+      "Stressor 1(a) of the Amended Form 9A and enclosing the documents recording it.",
+      "The bundle, and the Appellant's covering email of 11 August 2026"),
+ (56, "On 15 May 2024 at 11:47 am Ms Sue Marriott, Administration Officer, Integrated Respiratory "
+      "Service, sent an email to Logan Switch, marked of High importance, which states: \"Could you "
+      "please amend your number registry/directory to show #8768 belongs to the Integrated "
+      "Respiratory Service... We are not Respiratory Medical OPD and we do not have any doctors "
+      "working out of this area.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (57, "On 20 May 2024 at 11:03 am Ms Marriott sent a further email to Logan Switch, marked of High "
+      "importance, which states: \"Just a courtesy reminder, we continue to get calls put through "
+      "to us for Respiratory Medical Outpatients... we can not help patients or other clinical "
+      "staff with OPD issues.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (58, "On 20 May 2024 at 2:05 pm the Appellant sent an email to Ms Taylor, marked of High "
+      "importance, which states: \"switchboard staff may not be aware of the clinics due to "
+      "modifications to the Document: Outpatients Department - Clinic contact Details. on the 22nd "
+      "of February 2024. I recommend a modification and review of the document.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (59, "On 20 May 2024 at 4:30 pm Ms Taylor replied to the Appellant, stating: \"Thank you for "
+      "bringing this to my attention however this task was being actioned. I had discussed with "
+      "Richard this morning about the update of outpatients respiratory/medical.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (60, "That reply of Ms Taylor states: \"Taking note of your recommendation, we can also put the "
+      "updated procedures out to the team for consultation before implementing.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (61, "Ms Taylor's email to all Switchboard staff of 17 May 2024 at 9:30 am states: \"My office "
+      "hours can vary due to having to take my girls to school in the morning, on the days that I "
+      "do have school drop off I always let switch know that I will be in later between "
+      "0800-830am. Otherwise my hours are from 06:30-14:30.\"", R_TAYLOR),
+ (62, "That email states: \"Moving forward so communication is clear for the team, I will be "
+      "sending an email to switch to advise of any change to my office hours for the week.\"",
+      R_TAYLOR),
  ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
       "Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, "
@@ -241,7 +271,7 @@ s.append(P("TAKE NOTICE that the Appellant proposes to prove the facts specified
 rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
-    if f[0] in ("A", "B", "C", "D", "E", "F"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G"):
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
@@ -252,7 +282,7 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
-    if f[0] in ("A", "B", "C", "D", "E", "F"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G"):
         st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
@@ -279,4 +309,4 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save("out/_t.pdf"); pdf.close(); os.replace("out/_t.pdf", "out/FORM24_SECOND_NOTICE_DRAFT.pdf")
-print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 54 facts")
+print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 62 facts")

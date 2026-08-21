@@ -6497,3 +6497,28 @@ IMMEDIATE ACTIONS FOR CORY, IN ORDER:
  7. WED 30 SEPT — Respondent's list lands. CHECK IT FOR TAYLOR AND REESE.
 OPEN DECISIONS FOR CORY: paragraph 7 of the outline (the May 2024 complaint - bare line or omit) ·
 Dr Hawes on the witness list or not · Carolyn Jeffrey (recommendation: do not name).
+
+## 2026-08-20 — FORM 24 EXTENDED TO 62 FACTS: Sections F and G added
+Section F — facts about the RESPONDENT'S OWN amended List of Documents (14 Aug 2026). ⭐⭐⭐ The
+strongest device in the notice: she FILED that list, so she cannot deny what it says. Items 48–54
+put LOD items 12 (12 Jul 2024 email to WorkCover + "Event overview – undated"), 14 (Carolyn Jeffrey
+witness statement 18 Jul 2024), 16 (Jeffrey follow-up 1 Aug 2024), 25 (after hours on call change),
+26 and 27 (failure to consult — Task change switchboard 19/04/2024; MASPER process 09/05/2024).
+⭐ NOTE THE METHOD: do NOT ask her to admit the CONTENT of his own account is true (she will say she
+was not present / it is the very matter in dispute). Ask her to admit the DOCUMENT was provided on
+that date and is described that way IN HER OWN LIST. Contemporaneity then does the work at hearing.
+⭐⭐ CAROLYN JEFFREY RE-ASSESSED: LOD items 14 and 16 disclose TWO statements she gave WorkCover in
+2024. She is already a witness on the record in the Respondent's own hands — the "do not name her"
+instruction concerned the 2026 text message, not her 2024 statements. Cory's call, on better facts.
+Section G — the STRESSOR 1(a) PARTICULARS BUNDLE (30pp, 6 tabs) served on Matheson 11 Aug 2026,
+now filed at `documents/2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf`.
+⭐⭐⭐ WHY THIS MATTERS MOST: the Regulator's SOFC ¶11 does not admit Stressor 1(a) "on the ground of
+no particulars". THAT ESCAPE IS NOW SPENT — particulars were given 11 Aug and she has held the
+documents since. Items 55–62 put the verified Respiratory chain (Marriott 15 May 11:47am and 20 May
+11:03am "we can not help patients"; Cory 20 May 2:05pm identifying the 22 Feb 2024 document
+modification; Taylor 20 May 4:30pm "this task was being actioned" + "put the updated procedures out
+to the team for consultation before implementing") and Taylor's 17 May 9:30am hours email including
+⭐ "Moving forward... I will be sending an email to switch to advise of any change to my office hours
+for the week" — the adoption of the suggestion he was directed to retract two days earlier.
+⛔ DISCIPLINE HELD: the Marriott emails are quoted, never characterised. No patient-harm assertion —
+risks documented as RAISED, not as materialised.
