@@ -141,6 +141,26 @@ FACTS = [
       "following up on this query I raised a little while ago in relation to a email I had received "
       "from a staff member about our rostering practices. Thus if someone might be able to give me "
       "a call regarding these staff concerns, that would be great.\"", R_FRMS),
+ ("F", "THE APPELLANT'S CONTEMPORANEOUS ACCOUNT, AND THE DOCUMENTS THE RESPONDENT LISTS"),
+ (48, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 12 an email "
+      "from the Appellant to WorkCover Queensland dated 12 July 2024 with the attachment described "
+      "as \"Event overview - undated\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (49, "That amended List of Documents lists at item 14 an email from the Appellant to WorkCover "
+      "Queensland dated 18 July 2024 with the attachment described as \"Witness statement - "
+      "Carolyn Jeffrey\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (50, "That amended List of Documents lists at item 16 an email from Ms Carolyn Jeffrey to "
+      "WorkCover Queensland dated 1 August 2024 described as a follow up statement.", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (51, "That amended List of Documents lists at item 25 an email from the Appellant to WorkCover "
+      "Queensland dated 29 August 2024 described as regarding the after hours on call change, with "
+      "the attachment described as \"Email: After hours on call process\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (52, "That amended List of Documents lists at item 26 an email from the Appellant to WorkCover "
+      "Queensland dated 30 August 2024 described as regarding failure to consult, with the "
+      "attachment described as \"Email: Task change switchboard - 19/04/2024\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (53, "That amended List of Documents lists at item 27 an email from the Appellant to WorkCover "
+      "Queensland dated 30 August 2024 described as regarding failure to consult, with the "
+      "attachment described as \"Email: MASPER process - 09/05/2024\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (54, "The Appellant provided the document described at item 12 to WorkCover Queensland on "
+      "12 July 2024.", "As above; and the Appellant's email of that date"),
  ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
       "Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, "
@@ -221,7 +241,7 @@ s.append(P("TAKE NOTICE that the Appellant proposes to prove the facts specified
 rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
-    if f[0] in ("A", "B", "C", "D", "E"):
+    if f[0] in ("A", "B", "C", "D", "E", "F"):
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
@@ -232,7 +252,7 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
-    if f[0] in ("A", "B", "C", "D", "E"):
+    if f[0] in ("A", "B", "C", "D", "E", "F"):
         st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
@@ -259,4 +279,4 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save("out/_t.pdf"); pdf.close(); os.replace("out/_t.pdf", "out/FORM24_SECOND_NOTICE_DRAFT.pdf")
-print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 47 facts")
+print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 54 facts")
