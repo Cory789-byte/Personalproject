@@ -6554,3 +6554,25 @@ under r 41(2)(e) — the mirror of their own ¶11 "no particulars" objection to 
 he cured on 11 Aug 2026.
 FINAL FORM 24: 69 facts (Schedule A, sections A–H) + 26 documents for authenticity (Schedule B,
 r 49 "or documents" limb) + covering email. `drafts/out/FORM24_SECOND_NOTICE_DRAFT.pdf`, 9pp.
+
+## 2026-08-20 — ⭐⭐ SECTION I ADDED: THE NEGATIVES (76 facts total)
+Cory's point: the notice was all positives. But THE CASE THEORY IS AN ABSENCE — "the exclusion
+protects ACTION, not ABSENCE." So the notice now asks her to admit the absences directly:
+ 70. No fatigue risk assessment conducted for the position before 30 Jun 2024. [CE items 4,5,7]
+ 71. No FRMS training provided to him before 30 Jun 2024. [CE items 4,7]
+ 72. Fatigue risk management not implemented at the Switchboard until after 30 Jun 2024. [CE item 5]
+ ⭐⭐ 73. NO FATIGUE LEAVE WAS AVAILABLE under cl 18.10 for the 17–18 Mar 2024 shifts — SOURCED TO
+     THEIR OWN PLEADING ¶24(b). They plead it; they cannot deny it. Once admitted, the absence of
+     any remedy for the employer's own breach of its minimum is ADMITTED, not argued.
+ 74. No written notification procedure existed before 4 Feb 2025. [Sick Leave Process V1.1 date]
+ 75. No change to operating procedures as a consequence of any complaint, 1 Dec 2023 – 30 Jun 2024.
+     [CE item 3(c)]
+ 76. No disclosed document records consultation with Switchboard operators before the 15 Apr 2024
+     change. [state of her own amended LOD] ⚠ the softest item — she may not-admit it; harmless.
+⭐ WHY NEGATIVES WORK HERE despite the usual rule that negatives are hard to admit: every one of
+70–75 is sourced to a statement THE OTHER SIDE HAS ALREADY MADE IN WRITING (the CE letter, or their
+own pleading). They are not asking her to prove a negative — they are asking her to stand by her
+own words. And under r 49 silence admits them anyway.
+⛔ The ARGUMENT that follows (submissions only, never in the notice): breach of the employer's own
+minimum by 3 hours (Forrest) + no assessment + no training + no system + no remedy available +
+recovery funded from his own sick leave = there was no management action to be reasonable.

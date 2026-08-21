@@ -216,6 +216,24 @@ FACTS = [
       "contends that any management action involved in the causation of any injury to the Plaintiff "
       "was reasonable management action taken in a reasonable way pursuant to s 32(5) WCRA.\"",
       "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ ("I", "MATTERS NOT DONE, AND MATTERS NOT AVAILABLE"),
+ (70, "No fatigue risk assessment was conducted in respect of the Appellant's position at any time "
+      "before 30 June 2024.", CE + " - items 4, 5 and 7"),
+ (71, "No fatigue risk management training was provided to the Appellant in respect of his position "
+      "at any time before 30 June 2024.", CE + " - items 4 and 7"),
+ (72, "Fatigue risk management assessment was not implemented at Logan Hospital Switchboard until "
+      "after 30 June 2024.", CE + " - item 5"),
+ (73, "No fatigue leave was available to the Appellant under clause 18.10 of the Award in respect "
+      "of the consecutive shifts of 17 and 18 March 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026, paragraph 24(b)"),
+ (74, "No written procedure governing the notification of unavailability for a rostered shift at "
+      "Logan Hospital Switchboard existed before 4 February 2025.",
+      "\"Logan Hospital Switchboard Sick Leave Process\" V1.1, dated 4 February 2025"),
+ (75, "No change was made to the operating procedures of Logan Hospital Switchboard as a "
+      "consequence of any employee complaint over the period 1 December 2023 to 30 June 2024.",
+      CE + " - item 3(c)"),
+ (76, "The Respondent has not disclosed any document recording consultation with Switchboard "
+      "operators before the change communicated by the email of 15 April 2024.",
+      "Respondent's amended List of Documents dated 14 August 2026"),
  ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
       "Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, "
@@ -296,7 +314,7 @@ s.append(P("TAKE NOTICE that the Appellant proposes to prove the facts specified
 rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I"):
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
@@ -307,7 +325,7 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I"):
         st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
@@ -430,4 +448,4 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save("out/_t.pdf"); pdf.close(); os.replace("out/_t.pdf", "out/FORM24_SECOND_NOTICE_DRAFT.pdf")
-print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 69 facts + 26 documents")
+print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 76 facts + 26 documents")
