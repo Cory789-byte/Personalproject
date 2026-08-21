@@ -88,7 +88,7 @@ FACTS = [
  (22, "On 15 April 2024 at 12:39 pm Ms Taylor sent an email to Logan Switch, copied to Ms Reese and "
       "to Switchboard staff including the Appellant, with the subject \"Afterhours Oncall Process - "
       "Switchboard\".",
-      "Appellant's email to WorkCover Queensland, 29 August 2024, enclosing the email"),
+      "Respondent's amended List of Documents, item 25 (email of 29 August 2024, attachment \"Email: After hours on call process\")"),
  (23, "That email states: \"Process during office hours remains the same, please contact myself "
       "through switch/office or mobile unless otherwise advised.\"", "As above"),
  (24, "That email states: \"This new process is effective from today.\"", "As above"),
@@ -199,9 +199,9 @@ FACTS = [
  (64, "That letter states: \"acknowledge you also signed an 8 hour agreement on 17 June 2020, "
       "which allows you to work with only an 8 hour break, however this is only applied where "
       "staff initiated shift swaps have occurred.\"", "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
- (65, "The consecutive shifts of 17 and 18 March 2024 were rostered by the employer and did not "
-      "arise from a staff initiated shift swap.",
-      "Notice to admit facts, paragraph 1 (admitted): the Appellant \"was rostered\""),
+ (65, "The Respondent does not allege that the consecutive shifts of 17 and 18 March 2024 arose "
+      "from a staff initiated shift swap.",
+      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (66, "The Leave Takings Report produced by Metro South Hospital and Health Service in respect of "
       "19 March 2024 records the Leave Category as \"Sick\", the Leave Type as \"Sick Leave\", the "
       "Time Code as \"SCK\", the Leave Taken as 7.60 hours, and the Leave Status as \"APPROVED\".",
@@ -217,20 +217,24 @@ FACTS = [
       "was reasonable management action taken in a reasonable way pursuant to s 32(5) WCRA.\"",
       "Respondent's amended statement of facts and contentions, 13 May 2026"),
  ("I", "MATTERS NOT DONE, AND MATTERS NOT AVAILABLE"),
- (70, "No fatigue risk assessment was conducted in respect of the Appellant's position at any time "
-      "before 30 June 2024.", CE + " - items 4, 5 and 7"),
- (71, "No fatigue risk management training was provided to the Appellant in respect of his position "
-      "at any time before 30 June 2024.", CE + " - items 4 and 7"),
- (72, "Fatigue risk management assessment was not implemented at Logan Hospital Switchboard until "
-      "after 30 June 2024.", CE + " - item 5"),
+ (70, "The Respondent does not allege that any fatigue risk assessment was conducted in respect of "
+      "the Appellant's position at any time before 30 June 2024.",
+      "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (71, "The Respondent does not allege that any fatigue risk management training was provided to the "
+      "Appellant in respect of his position at any time before 30 June 2024.",
+      "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (72, "The Respondent does not allege that fatigue risk management assessment was implemented at "
+      "Logan Hospital Switchboard at any time before 30 June 2024.",
+      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (73, "No fatigue leave was available to the Appellant under clause 18.10 of the Award in respect "
       "of the consecutive shifts of 17 and 18 March 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026, paragraph 24(b)"),
- (74, "No written procedure governing the notification of unavailability for a rostered shift at "
-      "Logan Hospital Switchboard existed before 4 February 2025.",
-      "\"Logan Hospital Switchboard Sick Leave Process\" V1.1, dated 4 February 2025"),
- (75, "No change was made to the operating procedures of Logan Hospital Switchboard as a "
-      "consequence of any employee complaint over the period 1 December 2023 to 30 June 2024.",
-      CE + " - item 3(c)"),
+ (74, "The Respondent does not allege that any written procedure governing the notification of "
+      "unavailability for a rostered shift at Logan Hospital Switchboard existed before "
+      "4 February 2025.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (75, "The Respondent does not allege that any change was made to the operating procedures of Logan "
+      "Hospital Switchboard as a consequence of any employee complaint over the period 1 December "
+      "2023 to 30 June 2024.",
+      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (76, "The Respondent has not disclosed any document recording consultation with Switchboard "
       "operators before the change communicated by the email of 15 April 2024.",
       "Respondent's amended List of Documents dated 14 August 2026"),
@@ -420,7 +424,11 @@ for t in ["Dear Ms Matheson,",
           "Schedule A sets out facts. Schedule B sets out documents, and asks that their "
           "authenticity be admitted. The documents are those already exchanged between the parties "
           "or listed in the Respondent's amended List of Documents dated 14 August 2026.",
-          "If it would assist, I am content to provide a copy of any document listed.",
+          "Copies of the following are enclosed, as they may not be in the Respondent's possession: the "
+          "letter of Ms L Forrest dated 7 July 2026; the QH Leave Takings Report for 19 March 2024; "
+          "the \"Logan Hospital Switchboard Sick Leave Process\" version 1.1 dated 4 February 2025; "
+          "and the Stressor 1(a) particulars bundle served on 11 August 2026. I am content to "
+          "provide a copy of any other document listed.",
           "Kind regards,<br/>Cory Lea Shepherd<br/>Appellant (self-represented), WC/2024/227"]:
     s.append(P(t, ITEM))
 s.append(P("<b>NOTHING FURTHER.</b> No argument, no explanation of why the notice is being served, "

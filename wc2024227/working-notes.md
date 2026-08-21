@@ -6576,3 +6576,34 @@ own words. And under r 49 silence admits them anyway.
 ⛔ The ARGUMENT that follows (submissions only, never in the notice): breach of the employer's own
 minimum by 3 hours (Forrest) + no assessment + no training + no system + no remedy available +
 recovery funded from his own sick leave = there was no management action to be reasonable.
+
+## 2026-08-20 — RED TEAM: the notice answered in Matheson's voice, then hardened
+HER SIX ESCAPE PATTERNS, taken verbatim from her 18 Feb 2026 response:
+ 1. "admits the facts contained therein" — bare documentary facts. (Most of the notice.)
+ 2. "admits ... and says that ..." — qualified admission. STILL AN ADMISSION; harmless.
+ 3. "does not admit ... because the Respondent does not have a copy of the document" (¶¶6, 7).
+ 4. "does not admit ... because the appeal is a hearing de novo and it is for the Commission to
+    determine" (¶¶2, 50) — only ever used against CHARACTERISATIONS. Closed by design.
+ 5. "denies as untrue ... because [positive contrary fact]" (¶¶41, 42, 43, 47-49).
+ 6. ⭐ "admits the contents ... and says that this fact is not relevant because the appeal is a
+    hearing de novo" (¶44) — RELEVANCE reservation ATTACHED TO AN ADMISSION. Not a defect: the fact
+    is still admitted and relevance is argued later. Expect it on Section A and let it happen.
+FIVE ADJUSTMENTS MADE:
+ 1. ⭐ Items 22–26 (the 15 Apr 2024 email) re-sourced from Cory's WorkCover pack to HER OWN amended
+    List of Documents item 25 ("Email: After hours on call process"). Pattern 3 closed.
+ 2. ⭐⭐ THE NEGATIVES REFRAMED. "No fatigue risk assessment was conducted" invited "the Respondent
+    is not in a position to admit" / "that is a non-party's statement". Items 70, 71, 72, 74, 75 are
+    now "THE RESPONDENT DOES NOT ALLEGE THAT..." — facts about HER OWN PLEADING, which she cannot
+    decline for want of knowledge and cannot attribute to a non-party. Item 73 (no fatigue leave
+    available) already came from her ¶24(b) and stays. Item 76 stays (softest; harmless if refused).
+ 3. Item 65 reframed from an inference ("did not arise from a staff initiated shift swap") to a fact
+    about her pleading ("The Respondent does not allege that...").
+ 4. ⭐ The covering email now ENCLOSES the four documents most likely to attract pattern 3 — the
+    Forrest letter (7 Jul 2026), the Leave Takings Report (19 Mar 2024), Sick Leave Process V1.1,
+    and the Stressor 1(a) bundle. Copy pre-supplied = escape spent before it is reached.
+ 5. Section E (facts about what the CE letter STATES) retained deliberately alongside Section I: if
+    she distances from the non-party's letter she still admits what it says.
+PREDICTED OUTCOME AFTER HARDENING: Sections F, G, H(67–69) and I are close to unanswerable (her own
+LOD, her own pleading). Sections B, D and most of C admit on pattern 1 or 2. Expect denials on item
+30 (she pleads non-compliance at ¶16(b)(i)) and a fight on items 63–64 (Forrest) — which is the
+point: a denial there is a denial of the employer's own HR letter.
