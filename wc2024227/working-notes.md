@@ -6522,3 +6522,35 @@ to the team for consultation before implementing") and Taylor's 17 May 9:30am ho
 for the week" — the adoption of the suggestion he was directed to retract two days earlier.
 ⛔ DISCIPLINE HELD: the Marriott emails are quoted, never characterised. No patient-harm assertion —
 risks documented as RAISED, not as materialised.
+
+## 2026-08-20 — ⭐⭐⭐ SECTION H: THE FORREST ADMISSION WIDENS THE BREACH FROM 1 HOUR TO 3
+VERIFIED FROM SOURCE (`documents/2026-07-07_MSH_HR_Forrest_ECC_further_information.pdf`):
+Ms Lyndelle Forrest, Senior Consultant HR, LBH, 7 July 2026, in writing — the roster "provides more
+than 10-hour breaks between shifts, however, acknowledge you also signed an 8 hour agreement on
+17 June 2020, which allows you to work with only an 8 hour break, **however this is only applied
+where staff initiated shift swaps have occurred**."
+⇒ The 17–18 March 2024 shifts were ROSTERED (admitted, Notice ¶1 "was rostered") — NOT a staff-
+initiated swap. On MSH's OWN written statement the 8-hour agreement did not apply ⇒ the applicable
+minimum was 10 HOURS ⇒ the shortfall is THREE hours, not one. This undercuts SOFC ¶22(e)'s reliance
+on the 2020 agreement, and the Regulator's own framing of "a 7-hour break rather than an 8-hour
+break". ⚠ The banked note said hold this for hearing/contradiction matrix — putting it in a notice
+to admit is now the better use: it is a fact about MSH's own letter and cannot be met with a
+de novo objection.
+⭐⭐ THE LEAVE PINCER (items 66–68), all from their own documents:
+ - MSH's own Item 15 Leave Takings Report: 19/03/2024, Leave Category "Sick", Type "Sick Leave",
+   code SCK, 7.60 hrs, "APPROVED" — his OWN accrued sick leave.
+ - SOFC ¶24(a): "the appellant took leave on 19 March 2024 but says this was paid leave".
+ - SOFC ¶24(b): "pursuant to clause 18.10 of the Award, the appellant is not entitled to fatigue
+   leave, because he was not performing overtime".
+⇒ THE ARGUMENT THIS SETS UP (for submissions, NEVER stated in the notice): the employer breached
+its own minimum by three hours; on the Regulator's own case NO fatigue leave was available to
+remedy it; so the recovery came out of the employee's own accrued sick leave. There was no
+management action to be reasonable — there was an absence, and the employee funded it.
+⭐ THE EXCLUSION IS ONE SENTENCE (item 69 puts it in her own words): SOFC ¶27 — "any management
+action involved in the causation of any injury to the Plaintiff was reasonable management action
+taken in a reasonable way" — no action identified, no actor, no date, and it calls him "the
+Plaintiff" (civil precedent artefact). ⇒ THE UNUSED MOVE: further and better particulars of ¶27
+under r 41(2)(e) — the mirror of their own ¶11 "no particulars" objection to Stressor 1(a), which
+he cured on 11 Aug 2026.
+FINAL FORM 24: 69 facts (Schedule A, sections A–H) + 26 documents for authenticity (Schedule B,
+r 49 "or documents" limb) + covering email. `drafts/out/FORM24_SECOND_NOTICE_DRAFT.pdf`, 9pp.

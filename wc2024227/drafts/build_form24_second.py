@@ -192,6 +192,30 @@ FACTS = [
  (62, "That email states: \"Moving forward so communication is clear for the team, I will be "
       "sending an email to switch to advise of any change to my office hours for the week.\"",
       R_TAYLOR),
+ ("H", "THE BREAK OF 17-18 MARCH 2024, THE 2020 AGREEMENT, AND THE LEAVE TAKEN ON 19 MARCH 2024"),
+ (63, "By letter dated 7 July 2026 Ms Lyndelle Forrest, Senior Consultant, Human Resources, Logan "
+      "and Beaudesert Health Service, wrote to the Appellant stating that the roster \"provides "
+      "more than 10-hour breaks between shifts\".", "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
+ (64, "That letter states: \"acknowledge you also signed an 8 hour agreement on 17 June 2020, "
+      "which allows you to work with only an 8 hour break, however this is only applied where "
+      "staff initiated shift swaps have occurred.\"", "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
+ (65, "The consecutive shifts of 17 and 18 March 2024 were rostered by the employer and did not "
+      "arise from a staff initiated shift swap.",
+      "Notice to admit facts, paragraph 1 (admitted): the Appellant \"was rostered\""),
+ (66, "The Leave Takings Report produced by Metro South Hospital and Health Service in respect of "
+      "19 March 2024 records the Leave Category as \"Sick\", the Leave Type as \"Sick Leave\", the "
+      "Time Code as \"SCK\", the Leave Taken as 7.60 hours, and the Leave Status as \"APPROVED\".",
+      "Item 15 QH Leave Takings Report, produced by Metro South Health"),
+ (67, "The Respondent's amended statement of facts and contentions dated 13 May 2026 states at "
+      "paragraph 24(a): \"says that the appellant took leave on 19 March 2024 but says this was "
+      "paid leave\".", "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (68, "That amended statement of facts and contentions states at paragraph 24(b): \"says that "
+      "pursuant to clause 18.10 of the Award, the appellant is not entitled to fatigue leave, "
+      "because he was not performing overtime\".", "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (69, "That amended statement of facts and contentions states at paragraph 27: \"The respondent "
+      "contends that any management action involved in the causation of any injury to the Plaintiff "
+      "was reasonable management action taken in a reasonable way pursuant to s 32(5) WCRA.\"",
+      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
       "Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, "
@@ -272,7 +296,7 @@ s.append(P("TAKE NOTICE that the Appellant proposes to prove the facts specified
 rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H"):
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
@@ -283,7 +307,7 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H"):
         st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
@@ -347,6 +371,10 @@ DOCS = [
  ("Document, \"Logan Hospital Switchboard Sick Leave Process\", version 1.1", "4 February 2025"),
  ("Letter, Metro South Hospital and Health Service to Commissioner Dwyer, reference K-LM26/729, "
   "signed by Ms N Cridland, Chief Executive", "5 June 2026"),
+ ("Document, QH Leave Takings Report for the Appellant, produced by Metro South Health as item 15 "
+  "of the Notice of non-party disclosure", "19 March 2024"),
+ ("Letter, Ms L Forrest, Senior Consultant Human Resources, Logan and Beaudesert Health Service, "
+  "to the Appellant", "7 July 2026"),
 ]
 drows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Date</b>", SMALL),
           P("<b>Authenticity admitted / disputed</b>", SMALL)]]
@@ -402,4 +430,4 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save("out/_t.pdf"); pdf.close(); os.replace("out/_t.pdf", "out/FORM24_SECOND_NOTICE_DRAFT.pdf")
-print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 62 facts + 24 documents")
+print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 69 facts + 26 documents")
