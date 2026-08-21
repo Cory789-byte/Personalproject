@@ -21,6 +21,7 @@ SMALL = ParagraphStyle('SMALL', parent=BODY, fontSize=8.1, leading=10.7,
 WARN = ParagraphStyle('WARN', parent=BODY, fontSize=8.6, leading=11.8,
                       textColor=colors.HexColor('#8a2010'),
                       backColor=colors.HexColor('#fdf1ef'), borderPadding=5)
+ITEM = ParagraphStyle('ITEM', parent=BODY, leftIndent=10, spaceBefore=3, spaceAfter=3)
 def P(t, s=BODY): return Paragraph(t, s)
 
 R_TAYLOR = "Respondent's disclosure from witness conferencing (C Taylor)"
@@ -290,6 +291,98 @@ s.append(t)
 s.append(Spacer(1, 5*mm))
 s.append(P("Cory Lea Shepherd<br/>Appellant (self-represented) &nbsp;|&nbsp; [date]", BODY))
 
+# ---------------- SCHEDULE B - DOCUMENTS (r 49 "or documents" / authenticity limb) ----------------
+s.append(PageBreak())
+s.append(P("SCHEDULE B - DOCUMENTS", H1))
+s.append(P("Authenticity to be admitted &nbsp;|&nbsp; <i>Industrial Relations (Tribunals) Rules "
+           "2011, rule 49</i>", CEN))
+s.append(P("<b>WHY THIS SCHEDULE EXISTS - internal note, delete before service.</b> Rule 49(1) "
+           "permits a party to ask another party to admit \"the facts <b>or documents</b> stated in "
+           "the notice\", and rule 49(2) deems admission if the other party does not within 14 days "
+           "serve a notice disputing \"the facts or <b>the authenticity of the documents</b>\". "
+           "Admitted authenticity means each document below can be tendered at the hearing without "
+           "being formally proved. For a self-represented appellant that removes a whole category "
+           "of work and a whole category of objection.", WARN))
+s.append(P("TAKE NOTICE that the Appellant also asks the Respondent to admit, for this proceeding "
+           "only, the authenticity of the documents specified below, and that if the Respondent "
+           "does not within 14 days after receiving this notice serve a notice on the Appellant "
+           "disputing the authenticity of those documents, the Respondent is taken to admit their "
+           "authenticity for this proceeding only.", BODY))
+
+DOCS = [
+ ("Email, the Appellant to Ms C Taylor, Ms T Reese, Ms P Conaghan and Ms T Smith, \"Increase of "
+  "hours and Workplace issues\"", "7 August 2023, 12:21 pm"),
+ ("Email, Ms C Taylor to the Appellant, reply in the same chain", "7 August 2023, 1:43 pm"),
+ ("Email, Ms T Reese to the Appellant, reply in the same chain", "7 August 2023, 3:13 pm"),
+ ("Email, Ms T Reese to Ms C Taylor, with attachment \"Rostered shifts Cory S. past 8 "
+  "months.xlsx\"", "7 August 2023, 5:11 pm"),
+ ("Email, Ms T Reese to the Appellant, attaching HR Policy E12 - Individual Employee Grievances",
+  "29 August 2023"),
+ ("Document, the Appellant to Ms C Taylor, \"Request to Increase Working Hours to Full Time "
+  "Rotational Roster\"", "31 August 2023"),
+ ("Email, the Appellant to Ms T Reese, with attached draft roster", "4 September 2023"),
+ ("Email, Ms T Reese to the Appellant", "8 September 2023, 11:42 am"),
+ ("Email, Ms C Taylor to the Appellant, \"Approved - Permanent Full Time FTE\"",
+  "27 September 2023, 1:52 pm"),
+ ("Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Afterhours Oncall Process - "
+  "Switchboard\"", "15 April 2024, 12:39 pm"),
+ ("Email, Ms T Reese to the Appellant, \"Roster Concerns\"", "26 April 2024, 1:52 pm"),
+ ("Email, the Appellant to Ms T Reese, \"Re: Roster Concerns\"", "1 May 2024, 1:18 pm"),
+ ("Email, Ms T Reese to the Appellant, \"RE: Roster Concerns\"", "8 May 2024, 9:08 am"),
+ ("Email, Ms T Reese to Mr M Pritchard, \"FW: Roster Concerns\", with attachment "
+  "\"qh-gdl-401-3.3\"", "10 May 2024, 2:08 pm"),
+ ("Email, Ms C Taylor to the Appellant, \"Sick leave 14.05.24\"", "14 May 2024, 12:08 pm"),
+ ("Email, Ms S Marriott to Logan Switch, \"Respiratory Nurse Educators\"", "15 May 2024, 11:47 am"),
+ ("Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Switchboard Manager - On call and "
+  "Hours.\"", "17 May 2024, 9:30 am"),
+ ("Email, Ms C Taylor to Ms A McNamee, \"FW: Office Hours and Departmental Directives\"",
+  "17 May 2024, 1:20 pm"),
+ ("Email, Ms S Marriott to Logan Switch, \"FW: Respiratory Nurse Educators\"",
+  "20 May 2024, 11:03 am"),
+ ("Email, the Appellant (Logan Switch) to Ms C Taylor, \"FW: Respiratory Nurse Educators\"",
+  "20 May 2024, 2:05 pm"),
+ ("Email, Ms C Taylor to the Appellant, \"RE: Respiratory Nurse Educators\"",
+  "20 May 2024, 4:30 pm"),
+ ("Email, Ms T Reese to LBH_HR, \"FW: Roster Concerns\"", "20 May 2024, 4:07 pm"),
+ ("Document, \"Logan Hospital Switchboard Sick Leave Process\", version 1.1", "4 February 2025"),
+ ("Letter, Metro South Hospital and Health Service to Commissioner Dwyer, reference K-LM26/729, "
+  "signed by Ms N Cridland, Chief Executive", "5 June 2026"),
+]
+drows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Date</b>", SMALL),
+          P("<b>Authenticity admitted / disputed</b>", SMALL)]]
+for i, (d, dt) in enumerate(DOCS, start=1):
+    drows.append([P(f"<b>{i}</b>", SMALL), P(d, SMALL), P(dt, SMALL), P("", SMALL)])
+dt_ = Table(drows, colWidths=[9*mm, 92*mm, 30*mm, 35*mm], repeatRows=1)
+dt_.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
+    ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#dddddd')),
+    ('VALIGN', (0,0), (-1,-1), 'TOP'),
+    ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
+    ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]))
+s.append(dt_)
+s.append(Spacer(1, 4*mm))
+s.append(P("Cory Lea Shepherd<br/>Appellant (self-represented) &nbsp;|&nbsp; [date]", BODY))
+
+# ---------------- COVERING LETTER ----------------
+s.append(PageBreak())
+s.append(P("Covering email - to accompany service", H1))
+s.append(P("<b>To:</b> Renee.Matheson@oir.qld.gov.au &nbsp;<b>Cc:</b> the OIR appeals registry<br/>"
+           "<b>Subject:</b> WC/2024/227 - Shepherd - notice to admit facts and documents", SMALL))
+s.append(Spacer(1, 3*mm))
+for t in ["Dear Ms Matheson,",
+          "I attach a notice to admit facts and documents under rule 49 of the <i>Industrial "
+          "Relations (Tribunals) Rules 2011</i>.",
+          "Schedule A sets out facts. Schedule B sets out documents, and asks that their "
+          "authenticity be admitted. The documents are those already exchanged between the parties "
+          "or listed in the Respondent's amended List of Documents dated 14 August 2026.",
+          "If it would assist, I am content to provide a copy of any document listed.",
+          "Kind regards,<br/>Cory Lea Shepherd<br/>Appellant (self-represented), WC/2024/227"]:
+    s.append(P(t, ITEM))
+s.append(P("<b>NOTHING FURTHER.</b> No argument, no explanation of why the notice is being served, "
+           "no reference to the Further Directions Order, the withdrawn application, the report or "
+           "settlement. A notice to admit speaks for itself and any covering commentary only gives "
+           "something to respond to. The offer to provide copies is included because it removes the "
+           "\"does not have a copy\" answer in advance.", WARN))
+
 doc = SimpleDocTemplate("out/FORM24_SECOND_NOTICE_DRAFT.pdf", pagesize=A4,
                         leftMargin=14*mm, rightMargin=14*mm, topMargin=13*mm, bottomMargin=13*mm)
 def f_(c, d):
@@ -309,4 +402,4 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save("out/_t.pdf"); pdf.close(); os.replace("out/_t.pdf", "out/FORM24_SECOND_NOTICE_DRAFT.pdf")
-print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 62 facts")
+print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 62 facts + 24 documents")
