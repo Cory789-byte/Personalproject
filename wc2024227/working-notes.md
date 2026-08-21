@@ -6473,3 +6473,27 @@ r 41(2)(g) — the Commission may order a response. Served ~21 Aug ⇒ deemed ad
 BEFORE the 9 Sept outlines.
 ⚠ BEFORE SERVICE: verify every quotation against source; delete the Source column; insert into the
 approved Form 24; keep facts and documents only.
+
+## 2026-08-20 — SESSION CLOSE-OUT. Deliverables complete and pushed.
+FDO(3) PACK (`drafts/FDO3/` + `drafts/out/FDO3_*.pdf`): action pack (6pp internal) · the three
+emails (2pp internal templates) · Shepherd outline of evidence (2pp, SERVE ONLY) · witness list +
+covering letter (2pp, FILE AND SERVE) · two-track calendar.
+FORM 24 PACK (`drafts/out/FORM24_*.pdf`): strategic plan (5pp internal, incl. the response decision
+tree) · the notice (5pp: approved-form cover + 47-fact schedule).
+⚠ CAVEAT ON PROVENANCE: three workflows were run this session; the verification/synthesis agents in
+ALL of them failed on session limits. Nothing from an unverified agent was used. Every guide
+quotation, rule and document quotation in the delivered documents was verified BY HAND against
+source in this session.
+IMMEDIATE ACTIONS FOR CORY, IN ORDER:
+ 1. TODAY — email the practice (FDO3/01): timeframe + what is outstanding at their end. This
+    surfaces the 12 Aug precondition without naming it.
+ 2. TOMORROW (Fri 21 Aug) — Roberts/Petering meeting 9:30-11:30. Appeal timetable stays OUT of that
+    room unless the practice says the report is gated on MSH.
+ 3. Verify every quotation in the Form 24 schedule, delete the Source column, transcribe to the
+    official form, serve on Matheson cc OIR appeals registry. 14 days ⇒ deemed admissions ~4 Sept.
+ 4. MON 24 AUG — cl 10.3.6 deemed refusal (employment track); verify EB12 clause numbering first.
+ 5. WED 2 SEPT — hard backstop for the registry extension email (direction 2, expert reports only).
+ 6. WED 9 SEPT 4pm — file+serve witness list; serve outlines + any expert report.
+ 7. WED 30 SEPT — Respondent's list lands. CHECK IT FOR TAYLOR AND REESE.
+OPEN DECISIONS FOR CORY: paragraph 7 of the outline (the May 2024 complaint - bare line or omit) ·
+Dr Hawes on the witness list or not · Carolyn Jeffrey (recommendation: do not name).
