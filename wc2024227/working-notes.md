@@ -6641,3 +6641,32 @@ SECTION K — MATTERS NOT ALLEGED (verified: the amended SOFC contains NO refere
      34-occasions letter, which is entirely POST-injury.
  86. The amended SOFC does not identify the management action referred to in ¶27. ⇒ the particulars
      point put as a fact; whatever she answers advances the r 41(2)(e) request.
+
+## 2026-08-21 — THE ROBERTS / PETERING CONFERENCE (Cory's account, same day, voice notes) [R]
+⚠ RECALL ONLY, given in fragments immediately after. Verify anything load-bearing before use.
+- Meeting occurred. NO OUTCOME. Cut short — his phone died mid-call.
+- He is to provide something further to them MONDAY (24 Aug — the same day as the cl 10.3.6 deemed
+  refusal). ⚠ CLARIFY WITH CORY exactly what he undertook to provide.
+- ⭐⭐⭐ **THEY SAID DR KRISHNAIAH HAS WRITTEN THEM A LETTER.** Cory has not seen it. Highest-priority
+  item on the board: it is almost certainly the 12 Aug precondition in writing (Dr K requiring MSH
+  to identify WHY the information was requested). If so the report IS gated ⇒ Branch E of the FDO(3)
+  decision tree, and the registry extension on direction 2 becomes NECESSARY not optional.
+- ⛔⛔ **HE IS LOSING HIS HOME.** Wage stoppage since 13 July has forced him to move out. This is now
+  the most urgent fact in the matter and it is not yet in any written communication to MSH.
+- He raised that MSH allowed ~one month to pass before even asking the medical question. Correct and
+  useful: ECC 3 Jul → RFMI 31 Jul.
+- On their "concern for your safety": he answered that genuine care would be holistic and objective,
+  whereas their approach is subjective. Good framing; keep it.
+- QSuper: they again asserted a "full open claim". He had already corrected this. ⇒ put the
+  correction in writing once, flatly (no IP benefit paid since 31 May 2026).
+- He asked for his medical file.
+⚠ DISCLOSED IN THE MEETING (noted factually, no criticism — he was mid-crisis and cut short):
+  (a) the relationship separation and its timing; (b) matters touching the dismissal; (c) the PID;
+  (d) that intimate/sexual history from his file had been shared among others. These are outside the
+  agreed agenda and (b) engages standing rule 10. CONSEQUENCE TO MANAGE: HR file notes may now
+  record them. Do not repeat them in writing; do not expand; if minutes arrive, correct only what is
+  factually wrong.
+NEXT ACTIONS SET: (1) written request for the Krishnaiah letter — to MSH and to the practice;
+(2) file note of the meeting TODAY while fresh; (3) hardship/housing put in writing to MSH;
+(4) request the medical file / the information MSH holds about him; (5) Monday: the deemed-refusal
+note + whatever he undertook to provide.
