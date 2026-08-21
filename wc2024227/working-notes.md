@@ -6607,3 +6607,37 @@ PREDICTED OUTCOME AFTER HARDENING: Sections F, G, H(67–69) and I are close to 
 LOD, her own pleading). Sections B, D and most of C admit on pattern 1 or 2. Expect denials on item
 30 (she pleads non-compliance at ¶16(b)(i)) and a fight on items 63–64 (Forrest) — which is the
 point: a denial there is a denial of the employer's own HR letter.
+
+## 2026-08-20 — ⭐⭐⭐ SECTIONS J AND K: THE REGULATOR'S OWN REVIEW DECISION, AND WHAT IT DOES NOT ALLEGE
+86 facts, 27 documents. Both new sections verified from source today.
+SECTION J — REVIEW DECISION 69983 (24 Oct 2024), THE RESPONDENT'S OWN DOCUMENT (verbatim, p26/28):
+ 77. Records the EMPLOYER's own Award extract: employees "must be provided with a break of not less
+     than 10 hours ... and 8 hours applied instead of 10 only in specific circumstances."
+ 78. "The break between the shift on 17 March 2024 and 18 March 2024 equated to 7 hours."
+ 79. "Even if you were allowed to leave early on 17 March 2024 as suggested by the employer, you
+     left a maximum of 30 minutes early, which meant you still did not receive a minimum 8-hour
+     break." ⭐ closes the employer's own mitigation argument in advance.
+ 80. ⭐⭐⭐ "Based on this, I find the rostering of these two shifts amounted to UNREASONABLE
+     MANAGEMENT ACTION given that it was in direct contradiction to the award and the 8-hour
+     agreement."
+ 81. Conclusion: "you sustained a personal injury of a psychological nature".
+ 82. Conclusion: "your injury arose out of employment ... where employment was a significant
+     contributing factor".
+⭐ WHY THIS WORKS NOW WHEN IT FAILED IN FEBRUARY: her Feb response to Notice ¶2 was "does not admit
+... because the appeal is a hearing de novo and it is for the Commission to determine IF THIS FACT
+AMOUNTED TO unreasonable management action" — she was asked to admit the CONCLUSION. Reframed as
+"the decision STATES: '[quote]'" it is a fact about a document. And at ¶44 she already showed the
+answer she must give: "ADMITS THE CONTENTS of the Respondent's Review Unit decision and says that
+this fact is not relevant because the appeal is a hearing de novo." ⇒ contents admitted, relevance
+reserved. That is all that is needed.
+⭐⭐ AND IT REACHES CAUSATION AFTER ALL — indirectly. Items 81–82 put on the record that the
+Regulator's OWN Review Unit found injury AND employment a significant contributing factor. De novo
+means it does not bind, but it forces the Regulator to contest its own office's findings at hearing.
+SECTION K — MATTERS NOT ALLEGED (verified: the amended SOFC contains NO reference to "disciplinary",
+"performance management", "misconduct" or "warning"):
+ 83–85. The Respondent does not allege any disciplinary process, formal performance management
+     process, or warning at any time before 18 June 2024. ⭐ THE CLEAN RECORD, admitted — and it
+     pre-kills any "difficult employee" narrative, including anything built on the 8 Sep 2025
+     34-occasions letter, which is entirely POST-injury.
+ 86. The amended SOFC does not identify the management action referred to in ¶27. ⇒ the particulars
+     point put as a fact; whatever she answers advances the r 41(2)(e) request.

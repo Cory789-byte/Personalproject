@@ -238,6 +238,34 @@ FACTS = [
  (76, "The Respondent has not disclosed any document recording consultation with Switchboard "
       "operators before the change communicated by the email of 15 April 2024.",
       "Respondent's amended List of Documents dated 14 August 2026"),
+ ("J", "THE RESPONDENT'S OWN REVIEW DECISION OF 24 OCTOBER 2024"),
+ (77, "Review Decision 69983 dated 24 October 2024 records that in its response the employer "
+      "included an extract of the Hospital and Health Services General Employees (Queensland "
+      "Health) Award which \"stated that employees must be provided with a break of not less than "
+      "10 hours between the termination of one shift and the commencement of another shift, and 8 "
+      "hours applied instead of 10 only in specific circumstances\".", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (78, "That decision states: \"The break between the shift on 17 March 2024 and 18 March 2024 "
+      "equated to 7 hours.\"", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (79, "That decision states: \"Even if you were allowed to leave early on 17 March 2024 as "
+      "suggested by the employer, you left a maximum of 30 minutes early, which meant you still did "
+      "not receive a minimum 8-hour break.\"", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (80, "That decision states: \"Based on this, I find the rostering of these two shifts amounted to "
+      "unreasonable management action given that it was in direct contradiction to the award and "
+      "the 8-hour agreement.\"", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (81, "That decision states, under the heading \"Conclusion\": \"you sustained a personal injury "
+      "of a psychological nature\".", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (82, "That decision states, under the heading \"Conclusion\": \"your injury arose out of "
+      "employment, to the extent that it arose out of factors 2, 3 and 4, where employment was a "
+      "significant contributing factor\".", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ ("K", "MATTERS THE RESPONDENT DOES NOT ALLEGE"),
+ (83, "The Respondent does not allege that the Appellant was subject to any disciplinary process at "
+      "any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (84, "The Respondent does not allege that the Appellant's work performance was the subject of any "
+      "formal performance management process at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (85, "The Respondent does not allege that the Appellant was the subject of any warning, whether "
+      "written or oral, at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (86, "The Respondent's amended statement of facts and contentions does not identify the management "
+      "action referred to in paragraph 27.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
  ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
       "Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, "
@@ -318,7 +346,7 @@ s.append(P("TAKE NOTICE that the Appellant proposes to prove the facts specified
 rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"):
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
@@ -329,7 +357,7 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"):
         st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
@@ -397,6 +425,7 @@ DOCS = [
   "of the Notice of non-party disclosure", "19 March 2024"),
  ("Letter, Ms L Forrest, Senior Consultant Human Resources, Logan and Beaudesert Health Service, "
   "to the Appellant", "7 July 2026"),
+ ("Review Decision 69983, Workers' Compensation Regulator", "24 October 2024"),
 ]
 drows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Date</b>", SMALL),
           P("<b>Authenticity admitted / disputed</b>", SMALL)]]
@@ -456,4 +485,4 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save("out/_t.pdf"); pdf.close(); os.replace("out/_t.pdf", "out/FORM24_SECOND_NOTICE_DRAFT.pdf")
-print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 76 facts + 26 documents")
+print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 86 facts + 27 documents")
