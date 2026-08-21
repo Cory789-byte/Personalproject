@@ -8,7 +8,7 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import mm
 from reportlab.lib import colors
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle
 
 ss = getSampleStyleSheet()
 H1 = ParagraphStyle('H1', parent=ss['Heading1'], fontName='Helvetica-Bold', fontSize=12,
@@ -164,7 +164,47 @@ FACTS = [
       "available for the period 17-18 March 2024.\"", CE),
 ]
 
+FORMH = ParagraphStyle('FORMH', parent=BODY, fontName='Helvetica-Bold', fontSize=15, leading=18)
+FLD = ParagraphStyle('FLD', parent=BODY, fontName='Helvetica-Bold', fontSize=9, leading=12)
+VAL = ParagraphStyle('VAL', parent=BODY, fontSize=10, leading=13)
+
+def fieldrow(rows, widths):
+    t = Table(rows, colWidths=widths)
+    t.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.6, colors.black),
+        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
+        ('BACKGROUND', (0,0), (0,-1), colors.HexColor('#f4f4f4')),
+        ('LEFTPADDING', (0,0), (-1,-1), 5), ('RIGHTPADDING', (0,0), (-1,-1), 5),
+        ('TOPPADDING', (0,0), (-1,-1), 6), ('BOTTOMPADDING', (0,0), (-1,-1), 6)]))
+    return t
+
 s = []
+# ---------- FORM 24 COVER (mirrors the approved form; transcribe onto the official form) ----------
+s.append(P("<b>INDUSTRIAL COURT OF QUEENSLAND<br/>QUEENSLAND INDUSTRIAL RELATIONS COMMISSION</b>",
+           ParagraphStyle('HD', parent=BODY, fontSize=9.5, leading=12.5,
+                          textColor=colors.HexColor('#7a4a10'))))
+s.append(fieldrow([[P("Matter Number:", FLD), P("<b>WC / 2024 / 227</b>", VAL)]], [34*mm, 60*mm]))
+s.append(Spacer(1, 4*mm))
+s.append(P("Form 24 - Notice to admit facts", FORMH))
+s.append(P("<i>Industrial Relations Act 2016</i>, section 989<br/>"
+           "<i>Industrial Relations (Tribunals) Rules 2011</i>, rules 41, 49, 108 and 113", SMALL))
+s.append(Spacer(1, 5*mm))
+s.append(fieldrow([[P("Applicant/Appellant:", FLD), P("Cory Lea Shepherd", VAL)]], [40*mm, 120*mm]))
+s.append(P("v", CEN))
+s.append(fieldrow([[P("Respondent:", FLD), P("Workers' Compensation Regulator", VAL)]], [40*mm, 120*mm]))
+s.append(Spacer(1, 3*mm))
+s.append(fieldrow([[P("To:", FLD), P("The Workers' Compensation Regulator<br/>"
+                                     "Attention: Ms Renee Matheson, Senior Appeals Officer", VAL)]],
+                  [40*mm, 120*mm]))
+s.append(Spacer(1, 4*mm))
+s.append(P("Take notice that the <b>appellant</b> in this proceeding proposes to prove the facts "
+           "specified below, and if you do not within <b>14 days</b> serve a notice on the appellant "
+           "disputing the facts, you are taken to admit, for this proceeding only, the facts "
+           "specified in this notice.", BODY))
+s.append(P("<b>NOTE - TRANSCRIBE ONTO THE OFFICIAL FORM.</b> This page reproduces the layout of the "
+           "approved Form 24 so the schedule can be settled and checked. Download the current "
+           "Form 24 from the Commission's website and transcribe the schedule into it before "
+           "service. Sign, print your name, state the office held (\"Appellant\") and date it.", WARN))
+s.append(PageBreak())
 s.append(P("SCHEDULE OF FACTS - SECOND NOTICE TO ADMIT FACTS", H1))
 s.append(P("<i>Industrial Relations (Tribunals) Rules 2011, rule 49</i>", CEN))
 s.append(P("WC/2024/227 &nbsp;|&nbsp; Cory Lea Shepherd (Appellant) v Workers' Compensation "
