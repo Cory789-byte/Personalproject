@@ -1,172 +1,168 @@
-# CURRENT — WHICH LAYER IS LIVE
-> ⭐ **READ THIS BEFORE OPENING ANY FILE WITH "FINAL" IN ITS NAME.**
-> Last updated **10 August 2026, night**. The 3 August package WAS SENT (see below, preserved).
+# CURRENT — THE LIVE LAYER
+> ⭐⭐ **READ THIS FIRST, BEFORE ANY FILE WITH "FINAL" IN ITS NAME.**
+> Last updated **22 August 2026**. Everything dated before 19 August in `working-notes.md` is
+> history; this file is the state of play. `working-notes.md` (6,600+ lines) is the append-only
+> log — **grep it, never read it whole.**
 
 ---
 
-# ⭐⭐ AS AT 10–11 AUGUST 2026 — THE LIVE LAYER
+## WHERE THE MATTER IS, IN ONE PARAGRAPH
 
-**THE CRITICAL PATH IS WEDNESDAY 12 AUGUST — the psychiatrist.** Everything routes through it.
-- Consultation kit: `drafts/WEDNESDAY_QUESTION_MAP_12AUG.md` (six phases, open questions,
-  gap list) · the LOI `drafts/out/CEILING_SET/01_Letter_of_Instruction_Report_B.pdf` · source
-  package guide `01b` · ceiling `01c` · internal benchmark
-  `drafts/EXEMPLAR_REPORT_B_INTERNAL_BENCHMARK.md` (⛔ never to the doctor).
-
-**SENDS (Mon 10 / Tue 11):**
-1. Union email (Moran+Petering) — FINAL at `drafts/EMAIL_TO_UNION_Stage2_psychosocial_DRAFT.txt`
-   (top block). Send FIRST.
-2. Stage 2 referral — send-ready PDF `drafts/out/REFERRAL_Stage2_cl1.11.2b_MSH-INJ-5795.pdf`
-   (union section removed) · union-editable variants in `drafts/out/` if their input arrives.
-3. 64G/Form 29 WITHDRAWAL — `drafts/out/WITHDRAWAL_Form29_and_64G_WC2024227.pdf` (1pp) +
-   notes in the txt draft. Registry, cc Matheson + Ruttan.
-4. TRANSCRIPT ORDER — QTranscripts (party = one free copy; call 1800 842 122 first). ⭐ Nothing
-   from the mention is citable until it arrives.
-5. (Decision pending) preservation/conflict enquiry v2 — only WITH the compliance-positive
-   package, never alone.
-
-**NEW TONIGHT — read before re-deriving:**
-- `skill/references/FULL-PICTURE-v9-10AUG2026.md` (+v9.1 addendum) — **47% hearing / 79%
-  compensated blend; 51% / 85% strong-report**. Supersedes v8.
-- `skill/references/THE-TWO-JUDGMENTS-10AUG2026.md` — the reasons-based node analysis.
-- `skill/references/CASE-SPECTRUM-BENCHMARK-10AUG2026.md` — Carr/Anderson spectrum.
-- `skill/references/DEED-FORENSIC-DESTRUCTION-10AUG2026.md` + `DEED-WEAPON-MAP-10AUG2026.md`
-  — ⭐⭐⭐ the EXECUTED deed (filed: `documents/2025-02_Deed_EXECUTED_Cory14Feb_Cridland21Feb2025.pdf`)
-  DIFFERS from the draft the 8-Aug analysis used: "(the Dismissal)" defined term; release
-  narrowed to Dismissal claims; **any common-law PI claim excluded from release**; NEW cl 7
-  (rights reserved over future cl-6 management action; origin = MSH refused a non-reprisal
-  clause). ⛔ DEED-AND-LOD-8AUG2026.md Part 1 is SUPERSEDED on the deed's terms.
-- Griffin arc CONFIRMED from her own emails (appeared for MSH in TD/2024/110; negotiated the
-  deed; wrote WP directly to unrepresented Cory 20+28 Jan 2025; attended the 7 Aug mention
-  unordered). The unknown 4th attendee: leading hypothesis Mark/Executive Services (first-name
-  only — transcript may resolve).
-- ⭐ `documents/2023-09-27_Taylor_FullTime_Appointment_APPROVED.pdf` — Taylor approving his
-  full-time application ("very pleased"), commenced 16 Oct 2023. The premorbid-engagement
-  document.
-- Date conflict RESOLVED: 8 Oct 2024 = receipt of the dismissal correspondence; 20 Sep 2024 =
-  nominated separation; 7 Oct = would-have-resumed (deed ¶21/¶36/¶38).
+The QIRC has programmed the appeal (Further Directions Order (3), 19 Aug 2026). Cory's witness
+list, outlines of evidence and **any expert report** are due **4.00pm Wed 9 September 2026**; the
+Regulator's are due 30 September. The case now turns on one document — the psychiatric report of
+Dr Ravikumar Krishnaiah, instructed 17 August, undated, and possibly gated on Metro South Health
+answering a question it has avoided for seven weeks. Cory has been excluded from work since 3 July,
+unpaid since 13 July, and is losing his home.
 
 ---
 
-# (PRESERVED) ⭐ THE LIVE PACKAGE — SENDING MONDAY 3 AUGUST 2026
+## THE THREE TRACKS
 
-**Everything live is in `drafts/SEND_31JUL/`, built as PDFs into `drafts/out/`.**
-**The send map is `drafts/SEND_31JUL/MASTER_SEND_PACK.md`. Start there.**
+**1. THE APPEAL — WC/2024/227, Shepherd v Workers' Compensation Regulator (s 549 WCRA).**
+Psychological injury, onset 18 June 2024. Self-represented. Before Industrial Commissioner Dwyer,
+who ran the s 552A conference and **will not hear the appeal** (Guide 5.1).
+Pleadings closed. Disclosure exchanged. The rule 64G application was WITHDRAWN 10 Aug 2026 after
+the 7 Aug mention — no adverse ruling, MSH gone from the matter, nothing about that hour on the
+record.
 
-| # | Document | PDF (`drafts/out/`) | pp |
-|---|---|---|---|
-| 1 | Response to the Request for Medical Information of 31 July 2026 | `RFMI_Response_and_Allocation_MSH-INJ-5795.pdf` | 8 |
-| 1a | Proposal for Return to Work | `PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf` | 3 |
-| 1b | Arrangements for the medical appointments, and costs — confirm-then-rebook, 7-day backstop | `NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf` | 2 |
-| 2 | Request for a change in the way I work — **cl 10.3.2 · IR Act s 27(1)(a)+(c)** — decision due **Mon 24 Aug** | `REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf` | 5 |
-| 3 | Notice of dispute, Stage 1 — **cl 1.11.2(a)** — To **Taylor**, Cc HR/IM/union | `NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf` | 4 |
-| 4 | Conflict of interest and information handling — **PS Act s 89** — To the **Chief Executive alone, no Cc** | `LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf` | 4 |
-| — | Urgent single question to the industrial officer — **send first** | `PETERING_URGENT_EMAIL.txt` | — |
+**2. THE EMPLOYMENT MATTER — MSH-INJ-5795, Metro South Hospital and Health Service.**
+Excluded since 3 Jul 2026 on the stated basis that "the medical evidence does not support" return —
+contradicted by the Employee Capability Checklist of 3 Jul 2026 (Dr Ma, on MSH's own form) which
+certifies fit WITH RESTRICTIONS. No instrument for the exclusion has ever been identified (Stage 1
+question 3.1, unanswered since 4 Aug). HR conference held 21 Aug (Roberts + Petering, union): NO
+OUTCOME, cut short when his phone died.
 
-**Six documents · 26pp · five emails (`EMAILS_TO_PASTE_3AUG.txt`) · routing: Hughes on nothing,
-HR on the Taylor email only, CE solo.**
-
-✅ **ZERO placeholders remain anywhere in the package** (2 Aug — the appointments notice now runs
-confirm-then-rebook: MSH confirms the question set → both consultations rebooked within three
-business days → backstop at day 7 of silence, rebook anyway on the proposed allocation).
+**3. THE FUND — ART Life / QSuper, claim CLM-317073.**
+IP benefits suspended 31 May 2026. Overpayment under review for 7 Apr 2025 – 31 May 2026,
+realistically $40–80k before defences. His 12 Aug letter agreed the cl 34.2 recalculation basis,
+demanded period-by-period workings before any recovery, and requested ongoing entitlement from
+mid-June. Workings not yet provided.
 
 ---
 
-# ⚠️ THE SUPERSEDING CHAIN — DO NOT SEND ANY OF THESE AS THE CURRENT POSITION
+## THE CLOCKS
 
-| Layer | File | Status |
+| Date | What | Status |
 |---|---|---|
-| **29 Jul 2026** | `drafts/2026-07-29_HR_clarification_special-leave_FINAL.md` | ✅ correct **for 29 July**. ⛔ **pre-RFMI.** Superseded |
-| **30 Jul 2026** | `drafts/2026-07-30_HR_response_FINAL_letter.txt`, `drafts/2026-07-30_HR_response_OPTIMISED_1150.txt`, `drafts/SEND_30JUL/FINAL_30JUL_EMAIL*.{md,txt}` | ✅ correct **for 30 July**. ⛔ **pre-RFMI.** Superseded |
-| **31 Jul 2026** | `drafts/SEND_31JUL/SUPERSEDED_single-letter-draft.txt` | ⛔ **superseded on its face** — replaced by the five-document split |
-| ⭐ **3 Aug 2026** | `drafts/SEND_31JUL/` + `drafts/out/` | ⭐ **LIVE** |
-
-## ⛔ WHY THE PRE-RFMI LAYERS MUST NOT BE SENT NOW
-They were written **before the Request for Medical Information of 31 July 2026** and therefore
-contain none of:
-- the **nine questions** and their proposed allocation between GP, psychiatrist and the Health Service
-- the **seven-day capacity threat** and the decision it foreshadows
-- the fact that the request is **signed by the Director, Corporate Services** — the conflict
-- the **election of option 1** and the refusal to sign the option 2 authority
-- the **cl 10.3.2 request** and its 21-day clock
-- the **cl 1.11 dispute** and the status quo argument
-
-⇒ **Sending a 29 or 30 July document as an answer to the RFMI would answer a letter that had not
-been written.**
+| **Mon 24 Aug** | cl 10.3.6 deemed refusal (flexible working request of 3 Aug). ⚠ verify EB12 clause numbering before citing | ⬜ |
+| **Mon 24 Aug** | Whatever Cory undertook to provide MSH at the 21 Aug conference — ⚠ **CONFIRM WITH HIM WHAT THAT WAS** | ⬜ |
+| **Thu 27 Aug** | ⭐⭐⭐ **Appointment with Dr Krishnaiah.** THE PIVOT — see below | ⬜ |
+| **Wed 2 Sept** | HARD BACKSTOP for the registry extension email (direction 2, expert reports only) | ⬜ |
+| **~4 Sept** | If the Form 24 is served ~21 Aug, deemed admissions fall due | ⬜ |
+| **Wed 9 Sept 4pm** | ⭐ FILE+SERVE witness list · SERVE outlines + any expert report | ⬜ |
+| **Wed 9 Sept** | Calderbank #3 — ONLY if the report is in hand; 21 days ⇒ expires ~30 Sept | ⬜ |
+| **Wed 30 Sept** | Respondent's list + outlines + expert reports. **CHECK IT FOR TAYLOR AND REESE** | ⬜ |
+| **Early Oct** | Direction 5 election: second s 552A conference vs hearing | ⬜ |
 
 ---
 
-# SEPARATE TRACKS — NOT PART OF THIS PACKAGE
-| Track | Where | Rule |
-|---|---|---|
-| **WC appeal WC/2024/227** | `drafts/WC2024227_Rule64G_*`, `evidence-index/` | ⛔ Filed 23 Jun. **Mention 7 Aug.** Volunteer nothing about the employment matter |
-| **PID / reprisal** | `skill/references/pid-reprisal-track.md` | ⛔ Discipline rule 8 — sequenced **behind** the WC settlement |
-| **Union** | `drafts/2026-07-28_IO_*` | Roster, pay and leave only — their demarcation |
+## ⛔⛔ THE #1 LIVE ISSUE — THE PRECONDITION
+
+At the consultation of **12 Aug 2026** Dr Krishnaiah stated he **will not produce the report
+answering the employer's medical inquiry until the employer identifies WHY the information was
+requested**. That entry flagged an open boundary — does it extend to the CAUSATION report on Cory's
+own instruction? — and **it was never closed** before the 17 Aug pack was sent. The 17 Aug design
+MERGED both reports into one.
+He has since **written directly to MSH** (disclosed by Roberts at the 21 Aug conference; Cory has
+not seen the letter) apparently asking what medical information they rely on. MSH's response:
+**they want the nine questions answered, not a report**, and offered to send him the ECC — which he
+already holds (Attachment 4c).
+
+⭐ **THE FIX IS ALREADY IN THE INSTRUCTION.** Part D(a) requires answers under Cory's numbering and
+that unanswered questions be identified with reasons; Part D(c) requires him to state where material
+is insufficient. So Matters 1–3 (causation) can be answered NOW from material already supplied, and
+3.4–3.8 (capacity) can be marked unanswerable pending MSH. **That severing is Thursday's whole job.**
+
+### THURSDAY 27 AUGUST — the three things, and nothing else
+1. *"What did you write to Metro South? May I have a copy."*
+2. *"Whatever they do, can the report proceed on my instruction — Matters 1, 2 and 3 from the
+   material provided, with 3.4–3.8 answered under their numbers to the extent the material allows."*
+3. *"What date can you give me? The Commission has directed any expert report be served by
+   9 September. I'm not asking you to rush the opinion."*
+Plus: **two fee quotes** (full scope, and causation-only), and **what was quoted to Michelle
+Harrison on 5 Aug**.
+⛔ Go as a patient, not a litigant. Bring no new paper. His Feb 2025 report coded litigation
+preparation AS A SYMPTOM — do not feed that.
 
 ---
 
-# ⚠️ SOURCE-INTEGRITY NOTES — READ BEFORE CITING
-| Instrument | Note |
-|---|---|
-| ⚠️ **ATT09** `QH-IMP-401-5_Workplace_Rehabilitation.pdf` | ⛔ **NO TEXT LAYER.** 28 pages, ~1,250 characters of bullet artifacts. `pdftotext` returns nothing usable and **no OCR tooling is installed**. ⭐ **Verified 1 Aug 2026 by rendering pages with `pdftoppm -r 150 -png` and reading them.** Verified extracts recorded at `documents/instruments/ATT09_VERIFIED_EXTRACTS.md`. **Do not quote ATT09 from memory — render the page.** |
-| ⚠️ **ATT20** AD Act | current only to **19 May 2025**. ⛔ **The positive duty (from 1 July 2025) is not in it.** Obtain a current consolidation before citing that duty |
-| ⚠️ **EB12 cl 3.9.1** | ⛔ **NOT a main-body clause.** It sits inside **Schedule 3 — Variable Working Hours Arrangement** and binds only employees on a VWHA. **Do not cite it for work-now-grieve-later.** ⭐ For grievances the chain is **cl 1.12.1 → Award cl 7.2**, plus **Schedule 2** (E12, E13 as preserved HR policies) |
-| ⛔ **Not held** | HR Policy **E12**, **E13**; the **Appeals directive**; the **s 102 suspension directive**; rosters **PP04–PP06**; the **establishment/FTE report** |
+## WHAT IS BUILT AND WHERE
+
+**`drafts/FDO3/`** — action plan · the three emails (practice / Matheson consent / registry
+extension) · outline of evidence draft · witness list + covering letter · two-track calendar.
+**`drafts/out/FDO3_*.pdf`** — the same, as PDFs.
+**`drafts/out/FORM24_COMPLETED_OFFICIAL_FORM.pdf`** — ⭐ the second notice to admit facts, plugged
+into the approved Form 24: **86 facts in 11 sections + 27 documents for authenticity (r 49
+"or documents" limb) + covering email. DRAFTED, NOT SERVED.**
+**`drafts/out/FORM24_STRATEGY_INTERNAL.pdf`** · **`FORM24_PREDICTION_INTERNAL.pdf`** — the plan and
+the predicted response.
+**`drafts/out/WC2024227_WORKING_PACK_*.pdf`** — everything in one file with a contents page.
+**`drafts/out/KRISHNAIAH_PACK.zip`** — the 12-file instruction pack AS SENT 17 Aug.
+**`index/FULLTEXT.txt`** — every extractable page of ~411 documents. **GREP THIS FIRST.**
+**`index/MANIFEST.tsv`** — marks NO_TEXT_LAYER docs (invisible to grep; render with pdftoppm).
+⚠ **Also grep `.eml` files in `documents/correspondence-2026/`** — missed by PDF-only searches.
 
 ---
 
-# THE STRATEGY LAYER — ⛔ NEVER SENT
-`skill/references/`: `POWERS-MAP-forcing-the-response.md` · `RED-TEAM-MSH-best-responses.md` ·
-`SUSPENSION-and-dismissal-exposure.md` · `WHS-s19-a-duty-not-a-power.md` ·
-`GOOD-FAITH-where-it-bites.md` · `DISPLACEMENT-PATTERN-adverse-action-read.md` ·
-`RESPONSE-OBLIGATIONS-REGISTER.md` · `personal-liability-hughes-taylor.md` ·
-`pid-reprisal-track.md` · `hughes-implication-assessment.md`
+## OPEN DECISIONS THAT ARE CORY'S ALONE
+1. **Paragraph 7 of the outline of evidence** — the 13 May 2024 complaint as a bare factual line
+   (recommended) or omitted as already admitted.
+2. **Dr Peter Hawes** on the witness list or not.
+3. **Ms Carolyn Jeffrey** — recommendation was do not name her; ⚠ BUT the Regulator's own amended
+   List of Documents discloses TWO statements she gave WorkCover in 2024 (items 14 and 16), so she
+   is already a witness on the record. Recalculate.
+4. **Whether to serve the Form 24** (drafted, 86 facts) and when.
+5. **Whether to self-fund the report** if MSH refuses — sequence: practice invoices MSH first, get
+   any refusal IN WRITING, only then pay.
 
 ---
 
-# THE DATES
-| When | What |
-|---|---|
-| **Mon 3 Aug** | ⭐ send the package — Petering first, then four emails |
-| **Tue 4 Aug** | Stage 1 discussion due — cl 1.11.2(a) |
-| **Fri 7 Aug** | ⚠️ 64G mention before Dwyer · MSH's seven-day period ends |
-| **Mon 10 Aug** | Stage 1 ends → **refer to Stage 2 in writing; it does not self-execute** |
-| **Mon 17 Aug** | Stage 2 ends → Stage 3 (⚠️ no timeframe) / cl 7.1.4 |
-| ⭐⭐ **Mon 24 Aug** | **cl 10.3.6 decision due. Silence = deemed refusal, IR Act s 29** |
-| **~8 Sep** | ⏳ AD Act limitation — date it with Petering |
-
+## ⛔ STANDING DISCIPLINES — NON-NEGOTIABLE
+1. No conspiracy/collusion framing, ever. 2. The word "fraud" never appears in the WC track.
+3. State the CHRONOLOGY, never the MOTIVE. 4. **Never open s 32(5)(b)** — nothing about his
+expectation or PERCEPTION of management action. 5. The PID is an admitted fact (SOFC ¶15) but is
+NEVER run as motive. 6. ⛔ **NEVER mention the December 2024 police protection matter, that it was
+withdrawn, or the separation document** — not in any filing, letter or meeting.
+7. At hearing: **prove the NOUNS, retire the ADJECTIVES.**
+8. ⭐ **THE LEAKAGE RULE** (highest consequence until October): employment vocabulary never enters
+the 9 September package; appeal vocabulary never enters anything to HR, the union or the practice.
+**Test every document: could this sentence be quoted back at me in the other matter?**
+9. **Verify every pinpoint from source.** A recollection is a lead, not authority. The Form 24 PDF
+and all `documents/orders/*` have NO TEXT LAYER — render them.
 
 ---
 
-# ⚠️ ON EXTERNAL AUDITS OF THIS MATTER — READ BEFORE ACTING ON ONE
-Two external audits were received on **1 August 2026**. Both were tested. **Neither was auditing
-this repository.**
+## CORRECTIONS MADE 20–22 AUG — DO NOT REPEAT THE ERRORS
+- ⛔ **Listing a witness FORFEITS cross-examination of them.** Guide 7.6.2: "the party who did not
+  call the witness will conduct the cross-examination." `skill/references/HEARING-PLAN.md` §4.0 has
+  been corrected. Taylor and Reese are NOT on the list; the position is reserved in the covering
+  letter and **30 Sept is diarised** to check the Respondent's list.
+- ⛔ **The second s 552A conference is NOT a settlement forum.** Guide 5.1: "No commercial
+  settlement is possible at the conference." It is a CONCESSION opportunity — "the Respondent may
+  ... consider conceding the appeal where new information is presented."
+- ⛔ **Direction 5 is BOILERPLATE**, verbatim from the guide's sample order and identical to
+  direction 8 of the 3 Jun 2025 order made BY CONSENT while Saines Legal acted. Read no signal into
+  it. The only bespoke line is the rule 230 warning (which needs a FULL YEAR of inaction).
+- ⛔ **QSuper is SUSPENDED, not closed.** Zappia 4 Aug: "temporarily suspended from 31 May 2026 ...
+  you may be entitled to ongoing benefits." Never write "closed".
+- ⛔ **Statistics caveat:** the "24% succeed" figure covers only the ~16% of appeals judicially
+  determined. The outcome breakdown for the rest is NOT published. Do not use it as an odds figure.
 
-## They audit a different working set
-| The audit refers to | In THIS repository |
-|---|---|
-| `FINAL_EMAIL_TO_MSH_LBH_IM.md` · `INDUSTRIAL_POSITION_EB12.md` · `INSTRUMENT_INTEGRATION_MAP.md` · `COSTS_INCURRED_SCHEDULE.md` · `ASSESSMENT_DRAFT_REPLY_LBH_29JUL2026.md` | ⛔ **none of these files exist here** |
-| ATT16 = the IME guideline · ATT21 / ATT24 = HR Policy E12 · ATT18 = psychosocial · ATT20 = an older DoH policy | ⛔ **different numbering.** Here: ATT16 = AD Act · ATT18 = IME Guideline · ATT20 = AD Act (19 May 2025) · ATT21 = IP Act · ATT24 = **WHS Regulation** |
+---
 
-⇒ **They are auditing the OneDrive hub or the phone/Grok working set.** ⭐ **Their
-attachment-specific findings do not map onto these files. Check before acting on one.**
-
-## What was valid, and what was done
-| Finding | Verdict | Action |
-|---|---|---|
-| ⭐ **cl 3.9.1 ≠ the grievance source** | ✅ **VALID and material** | **Fixed.** cl 3.9.1 is a **Schedule 3 (Variable Working Hours)** clause. Correct chain: **cl 1.12.1 → Award cl 7.2**, plus **Schedule 2** (E12, E13 preserved). Corrected in the powers map, the register and CLAUDE.md |
-| **ATT09 has no text layer** | ✅ **valid mechanism** | **Verified by page render, not softened.** All four quotations are verbatim correct — `documents/instruments/ATT09_VERIFIED_EXTRACTS.md` |
-| *"Soften ATT09 quotes"* | ⛔ **not needed** | The two uses in the 29/30 July drafts are **paraphrases**, and both are now **verified** by the render |
-| *"Soften ATT16 'cannot direct not to attend'"* | ⚠️ **I said it was not cited here. That was wrong** | ⭐ It **is** in `MASTER.md` and `skill/references/RFMI-compliance-test.md` — as **ATT18 (the IME Guideline) §4.1**, not ATT16. ✅ **But it is already scoped exactly as the audit asks:** listed under *"Banked — NOT in the response"* and *"deploy only if MSH moves to an IME."* ⛔ **It appears in none of the five documents going out Monday.** The hold-out argument runs on **PS Act s 101** |
-| *"Mark the 29/30 July documents superseded"* | ✅ **valid** | **Done — a header is now inside each file** |
-| *"Add a CURRENT.md"* | ✅ **valid** | **This file** |
-| *"Confirm EB12 10.3 before send"* | ✅ prudent | **Confirmed against ATT02.** cl 10.3.2–10.3.7 verified; **IR Act ss 27–29** verified |
-| *"AD Act intentionally not section-cited"* | ⚠️ **deliberately changed** | Part 5 of the request now cites ss 5, 11, 15, 35, 36 — **tethered to cl 10.3.5's "reasonable grounds"**, with Part 5.3 disclaiming any complaint |
-| *"Currency to today 4/10"* | ⚠️ **measuring a superseded document** | The 3 August package **is** the post-RFMI layer |
-| *"Sync the OneDrive hub"* | ⏳ **cannot** | Not reachable from this environment. **User to action** |
-
-## ⛔ THE LESSON THAT CAUSED A REAL ERROR
-An earlier search of this repository for discrimination references returned nothing, and the
-conclusion drawn from it — that the AD Act had never been raised — **was wrong.** The search
-grepped the PDFs **as binaries**. ⇒ ⭐ **Always `pdftotext` first. Grepping a PDF directly
-silently misses compressed text and produces confident false negatives.** Now a standing rule in
-`CLAUDE.md`.
+## THE CASE THEORY, UNCHANGED
+One mechanism — **responsibility imposed, and the means to discharge it withheld** — with one
+admitted instance: the **7-hour break of 17–18 March 2024** against a 10-hour minimum (8 only by
+written agreement). ⭐ MSH's own HR (Forrest, 7 Jul 2026) says the roster "provides more than
+10-hour breaks" and the 2020 agreement "is only applied where staff initiated shift swaps have
+occurred" — these shifts were ROSTERED, so **the shortfall is three hours, not one**. No fatigue
+assessment existed (CE letter, 5 Jun 2026). No fatigue leave was available (Regulator's own SOFC
+¶24(b)). The recovery came out of **his own sick leave** — 7.60 hrs, "APPROVED" (MSH's own Leave
+Takings Report).
+⇒ **There was no management action to be reasonable. There was an absence, and he paid for it.**
+⭐ And the Regulator's own Review Decision (24 Oct 2024, p26) found the rostering "amounted to
+unreasonable management action", that he "sustained a personal injury of a psychological nature",
+and that employment "was a significant contributing factor".
+⚠ The exclusion defence is **ONE SENTENCE** — SOFC ¶27, unparticularised, and it calls him "the
+Plaintiff". ⭐ UNUSED MOVE: further and better particulars of ¶27 under r 41(2)(e).
