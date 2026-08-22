@@ -161,7 +161,14 @@ print("built", OUT)
 # ---------------- BUNDLES ----------------
 BASE = "out/BUNDLES"
 if os.path.exists(BASE): shutil.rmtree(BASE)
-copied, missing = 0, []
+# Documents tagged with many stressors (broad correspondence packs) are filed ONCE in
+# _SHARED and pointed to from each relevant folder, rather than physically copied into every
+# one - the physical-copy version ran to 155MB (GitHub's limit is 100MB); this keeps it ~30MB.
+SHARED_DIR = os.path.join(BASE, "_SHARED")
+os.makedirs(SHARED_DIR, exist_ok=True)
+BROAD_THRESHOLD = 2   # a doc tagged with this many stressors or more goes to _SHARED
+
+copied, shared, missing = 0, 0, []
 for d in D:
     if d[0].__class__ is str: continue
     i, dt, desc, au, to, pp, st, ss_, src = d
@@ -176,14 +183,31 @@ for d in D:
         continue
     if "all" in tags:
         tags = ["00_ALL_STRESSORS"]
-    for tag in tags:
-        if tag == "2": tag = "2(a)"
-        if tag == "3": tag = "3(a)"
-        folder = os.path.join(BASE, tag.replace("(", "").replace(")", ""))
-        os.makedirs(folder, exist_ok=True)
-        dest = os.path.join(folder, f"item{i:02d}_{os.path.basename(src)}")
+    fname = f"item{i:02d}_{os.path.basename(src)}"
+    if len(tags) >= BROAD_THRESHOLD:
+        dest = os.path.join(SHARED_DIR, fname)
         if not os.path.exists(dest):
-            shutil.copy2(full, dest); copied += 1
-print(f"bundles: {copied} files copied; missing sources: {missing}")
+            shutil.copy2(full, dest); shared += 1
+        for tag in tags:
+            if tag == "2": tag = "2(a)"
+            if tag == "3": tag = "3(a)"
+            folder = os.path.join(BASE, tag.replace("(", "").replace(")", ""))
+            os.makedirs(folder, exist_ok=True)
+            ptr = os.path.join(folder, f"POINTER_{fname}.txt")
+            if not os.path.exists(ptr):
+                open(ptr, "w").write(
+                    f"This document is filed once, in _SHARED/{fname}\n"
+                    f"(referenced from multiple stressors to avoid duplicating a large file).\n")
+    else:
+        for tag in tags:
+            if tag == "2": tag = "2(a)"
+            if tag == "3": tag = "3(a)"
+            folder = os.path.join(BASE, tag.replace("(", "").replace(")", ""))
+            os.makedirs(folder, exist_ok=True)
+            dest = os.path.join(folder, fname)
+            if not os.path.exists(dest):
+                shutil.copy2(full, dest); copied += 1
+print(f"bundles: {copied} files copied, {shared} filed once in _SHARED; missing sources: {missing}")
 shutil.make_archive("out/WC2024227_BUNDLES", "zip", BASE)
-print("wrote out/WC2024227_BUNDLES.zip")
+sz = os.path.getsize("out/WC2024227_BUNDLES.zip") / (1024*1024)
+print(f"wrote out/WC2024227_BUNDLES.zip ({sz:.1f} MB)")
