@@ -122,6 +122,33 @@ BUNDLES = {
    "title": "Stressor 2(b) — the payroll correction of 3 to 28 May 2024",
    "note": "One email thread, subject \"Corey Shepherd 388372 Pay issues\". The Appellant is a "
            "recipient of every message in it.",
+   "messages": [
+     ("3 May 2024, 9:39 am<br/>(9:40 am on the copy at tab 2)", "PayrollMetroSouth<br/>Ms E Grant",
+      "To: Ms C Taylor<br/><b>Cc: Mr C Shepherd</b>", "Corey Shepherd 388372 Pay issues",
+      "Tab 1, p.1<br/>Tab 2, pp.1-2"),
+     ("10 May 2024, 2:21 pm", "Mr C Shepherd",
+      "To: PayrollMetroSouth;<br/>Ms E Grant", "Re: Corey Shepherd 388372 Pay issues", "Tab 1, p.1"),
+     ("13 May 2024, 8:21 am", "PayrollMetroSouth<br/>Ms E Grant",
+      "To: Mr C Shepherd", "RE: Corey Shepherd 388372 Pay issues", "Tab 1, p.1"),
+     ("15 May 2024", "Ms C Taylor",
+      "myHR", "Attendance Variation and Allowance Claim 16328886 submitted; completed 16 May 2024",
+      "Tab 3"),
+     ("21 May 2024, 12:33 pm", "Ms C Taylor",
+      "To: Mr C Shepherd", "RE: Corey Shepherd 388372 Pay issues", "Tab 2, p.1"),
+     ("28 May 2024, 8:36 am", "Ms C Taylor",
+      "To: Mr C Shepherd<br/>Cc: Ms T Reese",
+      "Validation of Claims older than 3 months - Please sign", "Tab 2, p.1"),
+     ("28 May 2024", "Ms C Taylor",
+      "myHR", "Attendance Variation and Allowance Claim 16450619 submitted; Part Completed 30 May 2024",
+      "Tab 3"),
+   ],
+   "notheld": "Four earlier messages in the same subject matter are recited in Review Decision 69983 "
+              "at page 21 but are not reproduced in this bundle, not being held: the Appellant to the "
+              "Line Manager, 8 April 2024; the Line Manager to the Appellant, 9 April 2024; the "
+              "Appellant to the Line Manager, 24 April 2024; and the Line Manager to the Appellant, "
+              "1 May 2024. They are understood to form part of the chain \"Request for review and "
+              "adjustment of payment - 08/04/2024 to 23/08/2024\" listed at item 23 of the "
+              "Respondent's amended list of documents of 14 August 2026.",
    "docs": [
      (1, "13, 10 and 3 May 2024", "Email thread \"Corey Shepherd 388372 Pay issues\", from the "
       "Respondent's disclosure of the Queensland Health Payroll witness conferencing - "
@@ -222,6 +249,26 @@ def build_index_page(tag, spec):
     s.append(Spacer(1, 4*mm))
     s.append(P("The documents follow in the order listed above. Tab dividers are the page "
                "numbers stated; no document has been annotated, highlighted or altered.", B))
+    if spec.get("messages"):
+        s.append(Spacer(1, 4*mm))
+        s.append(P("<b>Schedule of messages, in date order</b>", B))
+        s.append(P("The documents at tabs 1 and 2 are prints of one email thread and carry the "
+                   "messages in reverse order, as a thread print does. This schedule sets them out "
+                   "forwards. Every message is reproduced at the tab and page stated.", C))
+        mr = [[P("Date and time", CH), P("From", CH), P("To, and copied to", CH),
+               P("Subject", CH), P("At", CH)]]
+        for dt, fr, to, subj, at in spec["messages"]:
+            mr.append([P(dt, C), P(fr, C), P(to, C), P(subj, C), P(at, C)])
+        mt = Table(mr, colWidths=[27*mm, 27*mm, 44*mm, 55*mm, 33*mm], repeatRows=1)
+        mt.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
+            ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#dddddd')),
+            ('VALIGN', (0,0), (-1,-1), 'TOP'),
+            ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
+            ('TOPPADDING', (0,0), (-1,-1), 3), ('BOTTOMPADDING', (0,0), (-1,-1), 3)]))
+        s.append(mt)
+        if spec.get("notheld"):
+            s.append(Spacer(1, 3*mm))
+            s.append(P(spec["notheld"], WARN))
     buf = io.BytesIO()
     doc = SimpleDocTemplate(buf, pagesize=A4, leftMargin=16*mm, rightMargin=16*mm, topMargin=16*mm, bottomMargin=16*mm)
     doc.build(s)
