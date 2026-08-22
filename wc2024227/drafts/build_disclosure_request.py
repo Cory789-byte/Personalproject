@@ -96,15 +96,21 @@ p2 = [
          "13 May 2024 and 9 October 2024."),
  ("(d)", "Any document recording the outcome of, or the steps taken in respect of, the complaint I "
          "sent to MetroSouthESU, CO_Complaints and LBH_HR on 15 May 2024."),
- ("(e)", "My complete attendance, sick leave and unplanned-absence history at the Logan Hospital "
-         "Switchboard from the commencement of my employment in 2019 to 18 June 2024, as recorded "
-         "in myHR or any predecessor system. The Respondent's amended list of documents does not "
-         "include this record, and the material already produced (Item 11 of the notice of "
-         "non-party disclosure) covers only 1 February to 31 May 2024."),
+ ("(e)", "My complete sick leave and unplanned-absence history at the Logan Hospital Switchboard "
+         "from the commencement of my employment in 2019 to 18 June 2024, as recorded in myHR or "
+         "any predecessor system. The Respondent's amended list of documents does not include this "
+         "record, and the material already produced (Item 11 of the notice of non-party disclosure) "
+         "covers only 1 February to 31 May 2024."),
+ ("(e1)", "Separately, and to the extent it is recorded differently, any record of rostered "
+         "shift-start time against actual attendance or sign-on time for the same period - that is, "
+         "any record capable of showing a late arrival on a shift that was nonetheless worked, as "
+         "distinct from a shift not worked at all."),
  ("(f)", "The date on which Ms C Taylor was appointed to the position of Switchboard Manager, and "
          "any document recording that appointment, referred to in the Respondent's response to my "
          "application for review dated 15 August 2024."),
 ]
+NOTE_E = ("I ask for (e) and (e1) as separate items because a shift not attended and a shift attended "
+          "late are recorded differently and, on my present understanding, are not the same thing.")
 rows2 = [[P("", CH), P("", CH)]]
 rows2 = []
 for a, b in p2:
@@ -115,6 +121,9 @@ t2.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),
     ('TOPPADDING',(0,0),(-1,-1),3),('BOTTOMPADDING',(0,0),(-1,-1),3),
     ('LINEBELOW',(0,0),(-1,-2),0.3,colors.HexColor('#cccccc'))]))
 st.append(t2)
+
+st.append(P(NOTE_E, C))
+st.append(Spacer(1, 3*mm))
 
 st.append(P("Reciprocal disclosure", H2))
 st.append(P("I enclose my own list of documents in Form 23. Any of the documents in it may be "
