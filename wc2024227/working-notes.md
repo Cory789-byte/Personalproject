@@ -6670,3 +6670,24 @@ NEXT ACTIONS SET: (1) written request for the Krishnaiah letter — to MSH and t
 (2) file note of the meeting TODAY while fresh; (3) hardship/housing put in writing to MSH;
 (4) request the medical file / the information MSH holds about him; (5) Monday: the deemed-refusal
 note + whatever he undertook to provide.
+
+## 2026-08-22 — ⭐⭐⭐ THE 31 INVISIBLE DOCUMENTS ARE NOW SEARCHABLE (Cory's point: stop re-reading them)
+Tesseract 5.3.4 installed. Three new scripts in `.claude/skills/wc2024227-interlock/scripts/`:
+ · `ocr_cache.py` — OCRs every doc whose text layer yields <100 chars/page into `index/ocr/`,
+   keyed by sha1 so re-runs are free and edited files re-OCR automatically. 41 documents cached.
+ · `build_index.py` — PATCHED with an OCR fallback: where the text layer is missing it pulls the
+   cached OCR and writes it into FULLTEXT.txt with the normal `>>> file :: page N` marker, tagged
+   `[OCR]`.
+ · `build_scanned_catalogue.py` — writes `index/SCANNED_DOCUMENTS.md`: the catalogue of every
+   formerly-invisible document with its page-1 text, so nobody re-renders to find out what it is.
+RESULT: NO_TEXT_LAYER count 31 → 1 (only the Hawes certificate in `drafts/out/pack_v2/`, which is
+a handwritten WorkCover form and a duplicate — the pack copy; OCR of handwriting is unreliable and
+it is already read and transcribed in the notes). Index now 626 files / 6,931 PDF pages.
+NOW GREPPABLE FOR THE FIRST TIME: the 8 Sep 2025 Hughes 34-occasions letter (verified — the OCR
+recovers Forrest's enquiries line, ref KPI 262418, the 14 Apr 2025 meeting, and the numbered
+occasions); TD/2024-110 Form 12; the ECC 3 Jul 2026; the GP records (Exhibit A5); the sealed
+Form 29; all directions orders; the Feb 2026 Form 4 + affidavits; the Chloe text messages; the
+MSH production items.
+⚠ STANDING CAUTION ADDED TO CURRENT.md AND THE CATALOGUE: OCR is machine reading. Use it to FIND
+the document and the passage; verify the words against the source PDF before anything is quoted
+into a filing, a letter or an expert instruction. The interlock rule is unchanged.

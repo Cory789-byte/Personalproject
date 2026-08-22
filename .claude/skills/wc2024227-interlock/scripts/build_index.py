@@ -33,15 +33,45 @@ def pages_of(path):
         pass
     return 0
 
+OCR_CACHE = os.path.join(OUT, "ocr")
+
+def _ocr_pages(path):
+    """Return cached OCR pages for a scanned document, or None.
+
+    31 documents in this matter have no text layer. ocr_cache.py OCRs them once into
+    index/ocr/<sha1>.json; this folds that text into FULLTEXT.txt so ONE grep reaches the
+    whole matter. Run scripts/ocr_cache.py after adding documents.
+    """
+    try:
+        import hashlib, json
+        h = hashlib.sha1()
+        with open(path, "rb") as f:
+            for chunk in iter(lambda: f.read(1 << 20), b""):
+                h.update(chunk)
+        c = os.path.join(OCR_CACHE, h.hexdigest() + ".json")
+        if os.path.exists(c):
+            return json.load(open(c))["pages"]
+    except Exception:
+        pass
+    return None
+
 def text_of(path):
     """One call per file. pdftotext separates pages with a form feed, so we can
-    keep page granularity without paying for N subprocess launches."""
+    keep page granularity without paying for N subprocess launches.
+
+    Falls back to the OCR cache where the text layer is missing or thin."""
     try:
         r = subprocess.run(["pdftotext", "-layout", path, "-"],
                            capture_output=True, text=True, timeout=300)
-        return r.stdout.split("\f")
+        pages = r.stdout.split("\f")
     except Exception:
-        return []
+        pages = []
+    joined = "".join(pages).strip()
+    if len(joined) < 100 * max(1, len([p for p in pages if p is not None])) or not joined:
+        o = _ocr_pages(path)
+        if o:
+            return ["[OCR] " + p for p in o]
+    return pages
 
 rows, total_pages, no_text = [], 0, []
 with open(os.path.join(OUT, "FULLTEXT.txt"), "w", encoding="utf-8", errors="replace") as ft:

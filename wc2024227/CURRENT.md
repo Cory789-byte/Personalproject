@@ -99,9 +99,20 @@ into the approved Form 24: **86 facts in 11 sections + 27 documents for authenti
 the predicted response.
 **`drafts/out/WC2024227_WORKING_PACK_*.pdf`** — everything in one file with a contents page.
 **`drafts/out/KRISHNAIAH_PACK.zip`** — the 12-file instruction pack AS SENT 17 Aug.
-**`index/FULLTEXT.txt`** — every extractable page of ~411 documents. **GREP THIS FIRST.**
-**`index/MANIFEST.tsv`** — marks NO_TEXT_LAYER docs (invisible to grep; render with pdftoppm).
+**`index/FULLTEXT.txt`** — every page of 626 files / 6,931 PDF pages. **GREP THIS FIRST.**
+⭐⭐ **AS AT 22 AUG 2026 THE 31 SCANNED DOCUMENTS ARE NO LONGER INVISIBLE.** They have been OCR'd
+into `index/ocr/` and folded into FULLTEXT.txt tagged `[OCR]`. This includes the ones repeatedly
+called "missing" while sitting on disk: the **8 Sep 2025 Hughes 34-occasions letter**, the
+**TD/2024-110 Form 12 reinstatement application**, the **ECC of 3 Jul 2026**, the **GP records
+(Exhibit A5)**, the **sealed Form 29**, **all directions orders**, the **Feb 2026 Form 4 and
+affidavits**, the **Chloe text messages**, and the **MSH production items**.
+**`index/SCANNED_DOCUMENTS.md`** — the catalogue: what each formerly-invisible document IS, with
+its page-1 text. Read this instead of re-rendering.
+**`index/MANIFEST.tsv`** — per-document status.
+⚠ **OCR IS MACHINE READING AND MAKES MISTAKES.** Use it to FIND the document and the passage;
+**open the source PDF and verify any words before they enter a filing, letter or instruction.**
 ⚠ **Also grep `.eml` files in `documents/correspondence-2026/`** — missed by PDF-only searches.
+**Regenerate after adding documents:** `python3 ../.claude/skills/wc2024227-interlock/scripts/ocr_cache.py && python3 ../.claude/skills/wc2024227-interlock/scripts/build_index.py && python3 ../.claude/skills/wc2024227-interlock/scripts/build_scanned_catalogue.py`
 
 ---
 
