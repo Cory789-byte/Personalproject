@@ -33,8 +33,8 @@ D = [
  (3,"3 Jul 2026","Invoice 574370 - completion of the Employee Capability Checklist","My Doctor Clinic","Appellant","1","Produced","-",None),
  (4,"2020-2026","Monthly call statistics authored by the Appellant (volume only)","Appellant","-","[n]","Produced","1(a) 3(a)",None),
  (5,"Apr 2025","Individual monthly statistics, April 2025","Appellant","-","1","Produced","1(a)",None),
- (6,"FY2025-26","Payslips and fortnightly hours analysis, 7 Apr 2025 - 14 Jun 2026","Queensland Health Payroll","Appellant","[n]","Produced","2(a) 2(b)","documents/financial/Shepherd_Payslips_FY2025-26_Work_Leave_Super.xlsx"),
- (7,"2025","Return to work analysis - seven fortnights, FTE","Appellant","-","[n]","Produced","3(a)",None),
+ (6,"FY2025-26","Payslips, 7 Apr 2025 to 14 Jun 2026","Queensland Health Payroll","Appellant","[n]","Produced","2(a) 2(b)","documents/financial/Shepherd_Payslips_FY2025-26_Work_Leave_Super.xlsx"),
+ (7,"2025","Record of hours worked following return to work, 2025","Appellant","-","[n]","Produced","3(a)",None),
  (8,"4 Apr 2023-","Text messages between the Appellant and the Line Manager, including the roster board image of 4 April 2023","Appellant / C Taylor","-","3","Produced","1(a) 2(a)","documents/evidence/Chloe_Work_text_messages_incl_2023-04-04_roster_board.pdf"),
  (9,"2020-2026","Correspondence pack 01 - Logan Switchboard","Various","Various","103","Produced","1(a)-(g)","documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf"),
  (10,"2020-2026","Correspondence pack 02 - C Taylor","Various","Various","462","Produced","1(a)-(g) 2 3","documents/correspondence-packs/02_Chloe_Taylor_PACK_462pp.pdf"),
@@ -208,6 +208,25 @@ for d in D:
             if not os.path.exists(dest):
                 shutil.copy2(full, dest); copied += 1
 print(f"bundles: {copied} files copied, {shared} filed once in _SHARED; missing sources: {missing}")
-shutil.make_archive("out/WC2024227_BUNDLES", "zip", BASE)
-sz = os.path.getsize("out/WC2024227_BUNDLES.zip") / (1024*1024)
-print(f"wrote out/WC2024227_BUNDLES.zip ({sz:.1f} MB)")
+
+# Split into two zips (the _SHARED source documents, and the stressor folders + pointers) so
+# each part comfortably clears a 30MB upload limit even as the matter grows.
+import zipfile
+def zip_dir(zip_path, root_dir, skip_top=None):
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        for dirpath, dirnames, filenames in os.walk(root_dir):
+            if skip_top and os.path.relpath(dirpath, root_dir).split(os.sep)[0] == skip_top:
+                continue
+            for fn in filenames:
+                full = os.path.join(dirpath, fn)
+                zf.write(full, os.path.relpath(full, root_dir))
+
+p1 = "out/WC2024227_BUNDLES_PART1_shared-documents.zip"
+p2 = "out/WC2024227_BUNDLES_PART2_stressor-folders.zip"
+for f in (p1, p2):
+    if os.path.exists(f): os.remove(f)
+zip_dir(p1, SHARED_DIR)
+zip_dir(p2, BASE, skip_top="_SHARED")
+for f in (p1, p2):
+    sz = os.path.getsize(f) / (1024*1024)
+    print(f"wrote {f} ({sz:.1f} MB)")
