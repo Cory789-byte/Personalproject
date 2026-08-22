@@ -154,6 +154,21 @@ BUNDLES = {
       "documents/disclosure-2026-06_MSH_production/Item 15 QH Leave Takings Report_Cory Shepherd_19 March 2024.pdf", 1, None),
    ],
  },
+ "3d": {
+   "title": "Stressor 3(d) - the finding made on review",
+   "note": None,
+   "docs": [
+     (1, "24 Oct 2024", "Review Decision 69983 of the Workers' Compensation Regulator, pages 26 and 27 - "
+      "the reasons and the Conclusion. Page 26: \"I find the rostering of these two shifts amounted to "
+      "unreasonable management action given that it was in direct contradiction to the award and the "
+      "8-hour agreement.\" Page 27 records the determinations made, including that the Appellant "
+      "sustained a personal injury of a psychological nature, that it arose out of employment where "
+      "employment was a significant contributing factor, and that factor 4 amounted to unreasonable "
+      "management action. The decision on review nevertheless confirmed the rejection of the "
+      "application. The decision is reproduced in full in the Appellant's List of Documents.",
+      "documents/Review_Decision_69983_24.10.2024.pdf", 26, 27),
+   ],
+ },
 }
 
 def strip_meta(path):
@@ -231,13 +246,16 @@ if errors:
 mi = []
 mi.append(P("Stressor bundles — index", H1))
 mi.append(P("WC/2024/227 · Shepherd v Workers' Compensation Regulator · assembled 22 August 2026", SUB))
-mi.append(P("Each bundle collects the contemporaneous records for one stressor as pleaded in the "
-            "Amended Statement of Facts and Contentions filed 7 April 2026, behind a one-page "
-            "index, in date order. Page references in each index are to the source document. No "
+mi.append(P("Each bundle collects the contemporaneous records for one particular of one of the "
+            "<b>three stressors</b> pleaded in the Amended Statement of Facts and Contentions dated "
+            "7 April 2026, behind a one-page index, in date order. Stressor 1 is pleaded with "
+            "particulars (a) to (g); Stressor 2 with particulars (a) and (b); and Stressor 3 with "
+            "particulars (a) to (d). The lettered labels are the particulars of the pleaded "
+            "stressors. They are not separate stressors. Page references in each index are to the source document. No "
             "document has been annotated, highlighted or altered. Where a bundle reproduces only "
             "part of a source document, the balance of that document is disclosed in the "
             "Appellant's Consolidated List of Documents and is available on request.", B))
-mrows = [[P("Bundle", CH), P("Stressor as pleaded", CH), P("Pages", CH)]]
+mrows = [[P("Pleaded stressor", CH), P("Particular", CH), P("Subject matter", CH), P("Pages", CH)]]
 LABELS = {
  "1a": "Erratic physical presence and unilateral directives without consultation",
  "1b": "The Switchboard communication book",
@@ -246,24 +264,27 @@ LABELS = {
  "1e": "The complaint of 13 May 2024 and its determination as a public interest disclosure — ADMITTED",
  "1f": "The events of 13 to 15 May 2024 and the direction to retract",
  "1g": "The union delegate matters",
- "2a": "Remuneration — the distribution of shifts and penalties",
+ "2a": "The payment of entitlements between February and April 2024",
  "2b": "The payroll correction of 3 to 28 May 2024",
  "3a": "The consecutive shifts of 17 and 18 March 2024 and the seven-hour break",
- "3b": "The absence of any fatigue risk assessment or framework",
+ "3b": "The ten-hour rest requirement and the fatigue risk management framework",
  "3c": "The leave taken on 19 March 2024",
+ "3d": "The finding made on review — ADMITTED",
 }
 for tag, n, ok in built:
-    mrows.append([P(f"<b>Stressor {tag}</b>", C), P(LABELS.get(tag, ""), C), P(str(n), C)])
-mt = Table(mrows, colWidths=[24*mm, 140*mm, 16*mm], repeatRows=1)
+    mrows.append([P(f"<b>Stressor {tag[0]}</b>", C), P(f"({tag[1]})", C),
+                  P(LABELS.get(tag, ""), C), P(str(n), C)])
+mt = Table(mrows, colWidths=[24*mm, 22*mm, 118*mm, 16*mm], repeatRows=1)
 mt.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
     ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#dddddd')), ('VALIGN', (0,0), (-1,-1), 'TOP'),
     ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
     ('TOPPADDING', (0,0), (-1,-1), 4), ('BOTTOMPADDING', (0,0), (-1,-1), 4)]))
 mi.append(mt)
 mi.append(Spacer(1, 5*mm))
-mi.append(P("The stressor arrangement is for convenience of reference only. It forms no part of "
-            "the disclosure and is not a pleading. The Appellant's Consolidated List of Documents "
-            "is the disclosure.", WARN))
+mi.append(P("The arrangement is for convenience of inspection and reference only. A document may "
+            "appear in more than one bundle where it is relevant to more than one particular. The "
+            "bundles do not amend, replace or add to the Amended Statement of Facts and Contentions, "
+            "and the Appellant's List of Documents remains the disclosure.", WARN))
 midoc = SimpleDocTemplate(f"{OUTDIR}/00_INDEX_stressor_bundles.pdf", pagesize=A4,
                           leftMargin=16*mm, rightMargin=16*mm, topMargin=16*mm, bottomMargin=16*mm)
 midoc.build(mi)

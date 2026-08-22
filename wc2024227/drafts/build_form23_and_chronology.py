@@ -41,44 +41,47 @@ def box(rows, widths):
 SCHED = [
  ("CAT","Jurisdictional documents"),
  (1,"Application for compensation","Cory Lea Shepherd","1 July 2024"),
- (2,"Application for review","Cory Lea Shepherd","16 September 2024"),
+ (2,"WorkCover Queensland reasons for decision","WorkCover Queensland","13 September 2024"),
+ (3,"Application for review","Cory Lea Shepherd","16 September 2024"),
+ (4,"Review Decision 69983","Workers' Compensation Regulator","24 October 2024"),
  ("CAT","Court documents"),
- (3,"Notice of Appeal","Cory Lea Shepherd","26 November 2024"),
- (4,"Affidavit of Cory Lea Shepherd (Form 20), with exhibit index and exhibits CS-1 to CS-4","Cory Lea Shepherd","18 June 2026"),
- (5,"Amended Statement of Facts and Contentions, with List of Stressors","Cory Lea Shepherd","7 April 2026"),
- (6,"Notice to admit facts (Form 24)","Cory Lea Shepherd","11 February 2026"),
- (7,"Stressor 1(a) particulars support bundle, six tabs, indexed, 30 pages","Cory Lea Shepherd","11 August 2026"),
+ (5,"Notice of Appeal","Cory Lea Shepherd","26 November 2024"),
+ (6,"Affidavit of Cory Lea Shepherd (Form 20), with exhibit index and exhibits CS-1 to CS-4","Cory Lea Shepherd","18 June 2026"),
+ (7,"Amended Statement of Facts and Contentions, setting out the three stressors and their particulars","Cory Lea Shepherd","7 April 2026"),
+ (8,"Notice to admit facts (Form 24)","Cory Lea Shepherd","11 February 2026"),
+ (9,"Stressor 1(a) particulars support bundle, six tabs, indexed, 30 pages","Cory Lea Shepherd","11 August 2026"),
+ (10,"Stressor particulars supporting bundles, thirteen indexed bundles with a master index, arranged by reference to the particulars of the three stressors pleaded in the Amended Statement of Facts and Contentions","Cory Lea Shepherd","22 August 2026"),
  ("CAT","Medical certificates"),
- (8,"Workers' compensation medical certificate","Dr Peter Hawes","1 July 2024<br/>11 August 2024<br/>8 September 2024"),
- (9,"Employee Capability Checklist, certifying fitness for work with restrictions","Dr Day Hong Ma","3 July 2026"),
- (10,"Invoice 574370, completion of the Employee Capability Checklist","My Doctor Clinic","3 July 2026"),
+ (11,"Workers' compensation medical certificate","Dr Peter Hawes","1 July 2024<br/>11 August 2024<br/>8 September 2024"),
+ (12,"Employee Capability Checklist, certifying fitness for work with restrictions","Dr Day Hong Ma","3 July 2026"),
+ (13,"Invoice 574370, completion of the Employee Capability Checklist","My Doctor Clinic","3 July 2026"),
  ("CAT","Medical"),
- (11,"Report of Mind and Memory Service","Dr Ravikumar Bangalore Krishnaiah","13 February 2025"),
- (12,"Practice records","Our Medical Ashmore","Various dates"),
+ (14,"Report of Mind and Memory Service","Dr Ravikumar Bangalore Krishnaiah","13 February 2025"),
+ (15,"Practice records","Our Medical Ashmore","Various dates"),
  ("CAT","Employer documents"),
- (13,"Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital","Metro South Hospital and Health Service","Undated"),
- (14,"Letter responding to the Notice of Non-Party Disclosure, reference K-LM26/729, with enclosures to Items 6, 11, 12, 13, 15 and 16","Ms Noelle Cridland, Chief Executive, Metro South Hospital and Health Service","5 June 2026"),
- (15,"Letter regarding the Employee Capability Checklist and further information","Ms Lyndelle Forrest, Senior Consultant, Human Resources","7 July 2026"),
- (16,"Request for medical information, letter to the employee and nine-question schedule to the general practitioner","Mr Scott Hughes, Director, Corporate Services","31 July 2026"),
- (17,"Movement forms recording approved changes to working hours, approved by Mr S Hughes as delegate","Metro South Hospital and Health Service","27 February 2026<br/>17 April 2026<br/>9 June 2026"),
- (18,"QH Leave Takings Report for 19 March 2024","Metro South Hospital and Health Service","19 March 2024"),
- (19,"Logan Hospital Switchboard Sick Leave Process, version 1.1","Ms Chloe Taylor","4 February 2025"),
+ (16,"Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital","Metro South Hospital and Health Service","Undated"),
+ (17,"Letter responding to the Notice of Non-Party Disclosure, reference K-LM26/729, with enclosures to Items 6, 11, 12, 13, 15 and 16","Ms Noelle Cridland, Chief Executive, Metro South Hospital and Health Service","5 June 2026"),
+ (18,"Letter regarding the Employee Capability Checklist and further information","Ms Lyndelle Forrest, Senior Consultant, Human Resources","7 July 2026"),
+ (19,"Request for medical information, letter to the employee and nine-question schedule to the general practitioner","Mr Scott Hughes, Director, Corporate Services","31 July 2026"),
+ (20,"Movement forms recording approved changes to working hours, approved by Mr S Hughes as delegate","Metro South Hospital and Health Service","27 February 2026<br/>17 April 2026<br/>9 June 2026"),
+ (21,"QH Leave Takings Report for 19 March 2024","Metro South Hospital and Health Service","19 March 2024"),
+ (22,"Logan Hospital Switchboard Sick Leave Process, version 1.1","Ms Chloe Taylor","4 February 2025"),
  ("CAT","Payroll and remuneration"),
- (20,"Payslips, pay dates 2 July 2025 to 17 June 2026, 26 fortnights","Queensland Health Payroll","2 July 2025 to 17 June 2026"),
- (21,"Payslip recording 76.00 hours as sick leave without pay, nil gross","Queensland Health Payroll","12 August 2026"),
- (22,"Monthly call statistics authored by the Appellant, recording call volume and emergency codes activated","Cory Lea Shepherd","2020 to 2026"),
+ (23,"Payslips, pay dates 2 July 2025 to 17 June 2026, 26 fortnights","Queensland Health Payroll","2 July 2025 to 17 June 2026"),
+ (24,"Payslip recording 76.00 hours as sick leave without pay, nil gross","Queensland Health Payroll","12 August 2026"),
+ (25,"Monthly call statistics authored by the Appellant, recording call volume and emergency codes activated","Cory Lea Shepherd","2020 to 2026"),
  ("CAT","Correspondence"),
- (23,"Correspondence pack, Logan Switchboard, 103 pages","Various","2020 to 2026"),
- (24,"Correspondence pack, Ms C Taylor, 462 pages","Various","2020 to 2026"),
- (25,"Correspondence pack, Mr S Hughes, 376 pages","Various","2025 to 2026"),
- (26,"Correspondence pack, Human Resources, 21 pages","Various","31 July 2026"),
- (27,"Correspondence pack, Ms J Roberts, 64 pages","Various","2025"),
- (28,"Correspondence pack, WorkCover Queensland, 84 pages","Various","2024 to 2026"),
- (29,"Text messages between the Appellant and the Line Manager, including the roster board image","Cory Lea Shepherd / Ms C Taylor","4 April 2023 onwards"),
+ (26,"Correspondence pack, Logan Switchboard, 103 pages","Various","2020 to 2026"),
+ (27,"Correspondence pack, Ms C Taylor, 462 pages","Various","2020 to 2026"),
+ (28,"Correspondence pack, Mr S Hughes, 376 pages","Various","2025 to 2026"),
+ (29,"Correspondence pack, Human Resources, 21 pages","Various","31 July 2026"),
+ (30,"Correspondence pack, Ms J Roberts, 64 pages","Various","2025"),
+ (31,"Correspondence pack, WorkCover Queensland, 84 pages","Various","2024 to 2026"),
+ (32,"Text messages between the Appellant and the Line Manager, including the roster board image","Cory Lea Shepherd / Ms C Taylor","4 April 2023 onwards"),
 ]
 PART2 = [
- (30,"Communications between the Appellant and Saines Legal for the purpose of obtaining legal advice in this proceeding","Cory Lea Shepherd / Saines Legal","2024 to 2025","Legal professional privilege"),
- (31,"Documents recording the fact or content of a public interest disclosure and the determination made in respect of it","Cory Lea Shepherd / Ethical Standards Unit","13 May 2024 to 24 December 2024","Section 65, Public Interest Disclosure Act 2010"),
+ (33,"Communications between the Appellant and Saines Legal for the purpose of obtaining legal advice in this proceeding","Cory Lea Shepherd / Saines Legal","2024 to 2025","Legal professional privilege"),
+ (34,"Documents recording the fact or content of a public interest disclosure and the determination made in respect of it","Cory Lea Shepherd / Ethical Standards Unit","13 May 2024 to 24 December 2024","Section 65, Public Interest Disclosure Act 2010"),
 ]
 
 s = []
@@ -130,6 +133,22 @@ for i in cats:
     stl += [('BACKGROUND',(0,i),(-1,i),colors.HexColor('#f2f2f2')), ('SPAN',(0,i),(2,i))]
 t.setStyle(TableStyle(stl))
 s.append(t)
+
+s.append(Spacer(1, 5*mm))
+s.append(P("<b>Note as to the stressor bundles at item 10</b>", C))
+s.append(Spacer(1, 2*mm))
+s.append(P("For convenience of inspection and reference, documents disclosed in Part 1 are also "
+           "arranged in indexed supporting bundles by reference to the particulars of the "
+           "<b>three stressors</b> pleaded in the Appellant's Amended Statement of Facts and "
+           "Contentions dated 7 April 2026. Stressor 1 is pleaded with particulars (a) to (g); "
+           "Stressor 2 with particulars (a) and (b); and Stressor 3 with particulars (a) to (d). "
+           "The lettered labels identify the particulars of, and the evidentiary material relating "
+           "to, each pleaded stressor. They do not create separate stressors.", C))
+s.append(Spacer(1, 2*mm))
+s.append(P("A document may appear in more than one bundle where it is relevant to more than one "
+           "particular. The bundles are aids to inspection and reference only. They do not amend, "
+           "replace or add to the Amended Statement of Facts and Contentions, and this Schedule "
+           "remains the Appellant's disclosure.", C))
 
 s.append(Spacer(1, 6*mm))
 s.append(P("Part 2 &ndash; documents for which privilege or statutory protection is claimed", H2))
