@@ -134,16 +134,16 @@ BUNDLES = {
       "documents/Review_Decision_69983_24.10.2024.pdf", 24, 26),
      (2, "7 Jul 2026", "Letter of Ms L Forrest, HR - the 8-hour agreement applies only to staff-initiated shift swaps",
       "documents/2026-07-07_MSH_HR_Forrest_ECC_further_information.pdf", 1, None),
-     (3, "5 Jun 2026", "Letter of Metro South Health (Cridland) - items 1, 2, 4, 5 (MET calls, fatigue assessment)",
-      "documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, None),
+     (3, "5 Jun 2026", "Letter of Metro South Health, signed by Ms N Cridland, Chief Executive (ref K-LM26/729), in full - Items 1 and 2 (the MET call spreadsheet), Item 3(c) (no consequential changes), Items 4, 5 and 7 (no fatigue risk assessment; fatigue risk management implemented only after 30 June 2024)",
+      "documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, 5),
    ],
  },
  "3b": {
    "title": "Stressor 3(b) — the absence of any fatigue risk assessment or framework",
    "note": None,
    "docs": [
-     (1, "5 Jun 2026", "Letter of Metro South Health (Cridland) - items 3(c), 4, 5, 7",
-      "documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, None),
+     (1, "5 Jun 2026", "Letter of Metro South Health, signed by Ms N Cridland, Chief Executive (ref K-LM26/729), in full - Item 4: \"the requested documents do not exist ... Logan Hospital Switchboard staff are non-clinical staff\"; Item 5: fatigue risk management assessment \"occurred after 30 June 2024\"; Item 7: no mandatory requirement; Item 3(c): \"no 'consequential' changes to operating procedures over the period requested\"",
+      "documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, 5),
    ],
  },
  "3c": {

@@ -6713,3 +6713,27 @@ of the Consolidated List). Silent omission would have looked like a gap; the pag
 ⚠ Bundles are gitignored as DERIVED — regenerate with `python3 drafts/build_stressor_bundles.py`.
 ⚠ BEFORE SERVICE: check each bundle's page ranges against the source once more, and decide whether
 the Respondent gets the whole set or only the stressors in issue.
+
+## 2026-08-22 — ⛔ ERROR CAUGHT AND FIXED: the Cridland letter was truncated in the stressor bundles
+Cory asked where the MSH letter was integrated. Checking it exposed a real defect in the first
+stitched build: bundles 3(a) and 3(b) took **page 1 only** of the 5-page Cridland letter.
+The letter's page structure: p1 = Items 1 and 2 (SPOK; "a spreadsheet of recorded MET calls is
+available for the period 17-18 March 2024") + Item 3(a); **p2 = Items 3(b), 3(c), 4, 5, 6, 7** —
+i.e. ALL the fatigue admissions; pp3-5 = Items 9-20 and the signature.
+⇒ The 3(b) bundle — the stressor that IS the absence of a fatigue framework — contained nothing
+relevant to 3(b). FIXED: the letter is now included IN FULL (pp.1-5) in both 3(a) and 3(b), which
+is also the right call for an opponent's document (partial extraction of the other side's letter
+invites a cherry-picking answer; the letter is only 5pp).
+VERIFIED by render: bundle 3(b) page 3 now carries Item 3(c) "no 'consequential' changes to
+operating procedures", Item 4 "the requested documents do not exist ... Logan Hospital Switchboard
+staff are non-clinical staff", Item 5 "occurred after 30 June 2024", Item 7 "the requested
+documents do not exist".
+⭐ WHERE THE CRIDLAND LETTER NOW SITS, ACROSS EVERYTHING:
+ 1. Consolidated List of Documents — item 26, tagged to stressors 1(a), 3(a), 3(b).
+ 2. Form 24 — Section E, six facts (items 42-47 in the 86-fact numbering) quoting Items 4, 5, 7,
+    3(c), 3(a) and 1-2 verbatim; and Schedule B document 24 (authenticity).
+ 3. Krishnaiah instruction pack — Attachment 2, one of the seven documents he was instructed to
+    reason from; questions 2.2 and 3.8 turn on it.
+ 4. Stressor bundles — 3(a) tab 3 and 3(b) tab 1, in full.
+LESSON: page ranges taken from a grep hit must be checked against the DOCUMENT'S OWN STRUCTURE,
+not just the first page that matched.
