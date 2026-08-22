@@ -96,6 +96,14 @@ p2 = [
          "13 May 2024 and 9 October 2024."),
  ("(d)", "Any document recording the outcome of, or the steps taken in respect of, the complaint I "
          "sent to MetroSouthESU, CO_Complaints and LBH_HR on 15 May 2024."),
+ ("(e)", "My complete attendance, sick leave and unplanned-absence history at the Logan Hospital "
+         "Switchboard from the commencement of my employment in 2019 to 18 June 2024, as recorded "
+         "in myHR or any predecessor system. The Respondent's amended list of documents does not "
+         "include this record, and the material already produced (Item 11 of the notice of "
+         "non-party disclosure) covers only 1 February to 31 May 2024."),
+ ("(f)", "The date on which Ms C Taylor was appointed to the position of Switchboard Manager, and "
+         "any document recording that appointment, referred to in the Respondent's response to my "
+         "application for review dated 15 August 2024."),
 ]
 rows2 = [[P("", CH), P("", CH)]]
 rows2 = []
