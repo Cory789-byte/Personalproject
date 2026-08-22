@@ -50,9 +50,13 @@ SEQ = [
  ("Wed 15 May, 1:15 pm", "The Appellant to the Line Manager and Logan Switch, copied to the "
   "department, the Director and LBH_HR, &ldquo;Office Hours and Departmental Directives&rdquo;",
   "11 Jun disclosure", 1),
- ("Wed 15 May, 3:41 pm", "<b>LBH_HR to Mr B Punch, Ms E McGinley and Ms A McNamee</b>: &ldquo;Please "
-  "see email from Corey Shephard to ESU and CO Complaints regarding Chloe Taylor&rdquo;",
-  "11 Jun disclosure", 3),
+ ("Wed 15 May, 3:35 pm", "<b>The Appellant to MetroSouthESU, CO_Complaints and LBH_HR</b>, "
+  "&ldquo;Urgent: Issues Affecting Workplace Safety and Conduct Logan Hospital Switchboard&rdquo;, "
+  "attaching the complaint form. Human Resources is a direct addressee",
+  "11 Jun disclosure p.8", 3),
+ ("Wed 15 May, 3:41 pm", "<b>LBH_HR to Mr B Punch, Ms E McGinley and Ms A McNamee</b>, six minutes "
+  "later: &ldquo;Please see email from Corey Shephard to ESU and CO Complaints regarding Chloe "
+  "Taylor&rdquo;", "11 Jun disclosure", 3),
  ("Wed 15 May, 6:23 pm", "The Director to the Appellant, copied to the Line Manager, directing that "
   "the email be retracted, with recall instructions", "FRMS p.37 &middot; admitted, Form 24 &para;21", 1),
  ("Wed 15 May, 7:09 pm", "The Appellant to the Director, attaching Ms Stibbard's business-hours email",
@@ -124,6 +128,25 @@ st.append(P("Two things sit inside that period and are worth holding on to, beca
             "request of 3 May was made to the Line Manager on a thread on which the Appellant was "
             "copied, so he could see, throughout, what had been asked of her.", B))
 
+st.append(P("Who was asked, and who was not", H2))
+st.append(P("The Appellant made the complaint on 13 May 2024 and sent it again on 15 May at 3:35 pm "
+            "to the Ethical Standards Unit, Code of Conduct Complaints and <b>LBH_HR as a direct "
+            "addressee</b>. Human Resources therefore knew because he told them. Six minutes later "
+            "LBH_HR circulated it to Mr Punch, Ms McGinley and Ms McNamee. On 16 May Ms McGinley "
+            "circulated the complaint form to the Director and Ms Smith. On 17 May at 1:20 pm the "
+            "Line Manager gave Ms McNamee an account &ldquo;as requested&rdquo;, which included what "
+            "she says other staff had said about the Appellant.", B))
+st.append(P("<b>No communication from Ms McNamee to the Appellant appears anywhere in the record</b>, "
+            "on any subject, at any date. Across both parties' disclosure the first communication to "
+            "him from Human Resources after 13 May 2024 is LBH_HR's email of 9 October 2024 enclosing "
+            "the abandonment-of-employment letter. On the material held, the subject of the complaint "
+            "was asked for an account within two days and the person who made it was not asked at "
+            "all, and the account given about him was never put to him.", B))
+st.append(P("&#9888; <b>Absence from a disclosure bundle is not the same as absence in fact.</b> A "
+            "telephone call would not appear. Before this is stated anywhere, it should be put as a "
+            "question to the witness rather than asserted, and checked against the Appellant's own "
+            "records for the period.", W))
+
 st.append(P("&#9888; Why this must not become a reprisal argument on the pay", H2))
 st.append(P("The temptation is to say the pay was delayed <i>because</i> of the complaint. Do not. "
             "The cost is out of all proportion to the gain.", W))
@@ -147,6 +170,22 @@ st.append(P("Reprisal is already pleaded, and confined, at Stressor 1(f) - the d
             "within 48 hours of the disclosure. That is where it belongs and it should stay there. "
             "Stressor 2 runs on the routing and the twenty-five days, which are admitted and need "
             "nothing else.", B))
+
+st.append(P("&#9888; And the reason this one cuts both ways", H2))
+st.append(P("The procedural point cannot be made without both documents being read. The Appellant's "
+            "own email of 15 May 2024 at 3:35 pm describes <i>&ldquo;the corrupt conduct, harassment, "
+            "intimidation, inconsistent work attendance, and fraudulent practices&rdquo;</i> of the "
+            "Line Manager. The Line Manager's email of 17 May contains her account of what staff are "
+            "said to have told her about him. Both are already in the Respondent's disclosure and "
+            "neither can be unsaid.", W))
+st.append(P("The word used in the Appellant's email is the one word that must never appear in this "
+            "track. It is on the record as history and is not to be repeated, adopted or explained. "
+            "If it is put to him, the answer is that the complaint speaks for itself and he does not "
+            "adopt any characterisation in it today.", W))
+st.append(P("This is therefore not a new particular and no amendment should be sought for it. It is "
+            "evidence within the existing case on whether management action was taken in a reasonable "
+            "way, and it belongs in the witness outline and in cross-examination, put as fact and "
+            "question rather than as complaint.", B))
 
 st.append(P("How to use the sequence properly", H2))
 st.append(P("State the dates. Put the 3 May request, the 13 May confirmation that nothing had been "
