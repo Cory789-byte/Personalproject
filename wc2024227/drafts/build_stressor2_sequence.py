@@ -103,6 +103,70 @@ for i,(d,dirn,what,src,wt) in enumerate(SEQ, start=1):
 t.setStyle(TableStyle(sty))
 st += [t, Spacer(1,3*mm)]
 
+st.append(P("One thread, and he is on all of it", H2))
+st.append(P("The correspondence of 3 to 21 May 2024 is a single email thread with the subject "
+            "<b>&ldquo;Corey Shepherd 388372 Pay issues&rdquo;</b>, disclosed by the Respondent in the "
+            "Queensland Health Payroll witness conferencing and again in the FRMS material. The "
+            "Appellant is a named recipient of every message in it. Read from the source.", B))
+EM = [
+ ("3 May 2024, 9:39/9:40 am",
+  "<b>From</b> PayrollMetroSouth &nbsp;<b>To</b> Chloe Taylor &nbsp;<b>Cc</b> Cory Shepherd<br/>"
+  "&ldquo;Corey has wages top up on fortnight 05.02.24 for 0.95mins as he is under his contracted "
+  "hours so it is toping up the missing wages from his RDO balance. This will be due to having a "
+  "7hr shift on 09.02.24 instead of an 8hr shift. <b>AVAC PRN 15397775</b>&hellip; The same has "
+  "happened for the next fortnight 19.02.24 due to 28.02.24 shift <b>AVAC PRN 15605601</b>&hellip; "
+  "Fortnight 18.03.24 is the opposite and has too many ordinary shifts for the fortnight resulting "
+  "in wage reduction of 7.55hrs&hellip; <b>Please submit an AVAC to correct these shifts for each "
+  "fortnight so Cory is paid corrected and his RDO balance will then be amended.</b>&rdquo; "
+  "&mdash; Ms Elaine Grant, Client Service Officer, Metro South Payroll Team"),
+ ("10 May 2024, 2:21 pm",
+  "<b>From</b> Cory Shepherd &nbsp;<b>To</b> PayrollMetroSouth; Elaine Grant<br/>"
+  "&ldquo;I am writing to follow up on a matter concerning Chloe&hellip; I was wondering if you have "
+  "received any response or updates from her regarding these issues. In case Chloe has already "
+  "responded or managed to process the missing payments, I would appreciate it if you could keep me "
+  "informed.&rdquo;"),
+ ("13 May 2024, 8:21 am",
+  "<b>From</b> PayrollMetroSouth &nbsp;<b>To</b> Cory Shepherd<br/>"
+  "&ldquo;<b>I cannot see that any of the issues below have been corrected. Please speak to your "
+  "Line Manager to have them corrected with an AVAC submitted through My HR</b> as this will also be "
+  "affecting your RDO balances as well as your pay.&rdquo; &mdash; Ms Elaine Grant"),
+ ("21 May 2024, 12:33 pm",
+  "<b>From</b> Chloe Taylor &nbsp;<b>To</b> Cory Shepherd &nbsp;<b>Subject</b> "
+  "<b>RE: Corey Shepherd 388372 Pay issues</b><br/>"
+  "&ldquo;Just letting you know that I am still I am waiting payroll confirmation about a few of "
+  "these payroll issues and as soon as I do get that confirmation, I will submit an AVAC for next "
+  "pay run. I will let you know PRN once it has been submitted.&rdquo;"),
+ ("28 May 2024, 8:36 am",
+  "<b>From</b> Chloe Taylor &nbsp;<b>To</b> Cory Shepherd &nbsp;<b>Cc</b> Tammy Reese &nbsp;"
+  "<b>Subject</b> Validation of Claims older than 3 months - Please sign &nbsp;<i>Importance: "
+  "High</i><br/>&ldquo;Please find attached Validation of claims older than 3 months, <b>please sign "
+  "and return</b> to be as soon as possible <b>so I can escalate for delegate approval</b>. Once "
+  "this is processed you will be paid correctly and RDO balance will be amended.&rdquo;"),
+]
+rows3 = [[P("When", CH), P("The message", CH)]]
+for w, m in EM:
+    rows3.append([P(f"<b>{w}</b>", C), P(m, C)])
+t3 = Table(rows3, colWidths=[30*mm, 148*mm], repeatRows=1)
+t3.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),
+    ('BACKGROUND',(0,0),(-1,0),colors.HexColor('#dddddd')),('VALIGN',(0,0),(-1,-1),'TOP'),
+    ('LEFTPADDING',(0,0),(-1,-1),4),('RIGHTPADDING',(0,0),(-1,-1),4),
+    ('TOPPADDING',(0,0),(-1,-1),3.5),('BOTTOMPADDING',(0,0),(-1,-1),3.5),
+    ('BACKGROUND',(0,1),(-1,1),colors.HexColor('#f6ecec')),
+    ('BACKGROUND',(0,3),(-1,4),colors.HexColor('#f6ecec'))]))
+st += [t3, Spacer(1,3*mm)]
+st.append(P("<b>The reply of 21 May 2024 was sent on the thread that carried the request of 3 May "
+            "2024, and the Appellant was a recipient of both.</b> The message saying that payroll "
+            "confirmation was awaited sits, in the same thread, above payroll's request that an AVAC "
+            "be submitted. Nothing needs to be said about that beyond the two headers. The subject "
+            "line does the work: <i>RE: Corey Shepherd 388372 Pay issues</i>.", B))
+st.append(P("<b>Two AVAC references were already identified on 3 May.</b> The email names "
+            "<b>AVAC PRN 15397775</b> and <b>AVAC PRN 15605601</b> as the claims carrying the wrong "
+            "shift data. Neither appears in the myHR submissions report below. Those are the two "
+            "references sought at Item 16 of the notice of non-party disclosure.", B))
+st.append(P("&#9888; The timestamp of the 3 May email reads <b>9:39 am</b> in the Payroll disclosure "
+            "and <b>9:40 am</b> in the FRMS copy of the same message. Both are the Respondent's own "
+            "documents. Use whichever page is being tendered and do not assert a single time.", W))
+
 st.append(P("The shape of it", H2))
 st.append(P("On <b>9 April</b> she directed him to payroll. On <b>24 April</b> payroll directed him "
             "back to her, because the action required - processing the payments through the pay cycle - "

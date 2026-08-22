@@ -120,10 +120,30 @@ BUNDLES = {
  },
  "2b": {
    "title": "Stressor 2(b) — the payroll correction of 3 to 28 May 2024",
-   "note": None,
+   "note": "One email thread, subject \"Corey Shepherd 388372 Pay issues\". The Appellant is a "
+           "recipient of every message in it.",
    "docs": [
-     (1, "3-28 May 2024", "The AVAC correction delay chain",
+     (1, "13, 10 and 3 May 2024", "Email thread \"Corey Shepherd 388372 Pay issues\", from the "
+      "Respondent's disclosure of the Queensland Health Payroll witness conferencing - "
+      "3 May 2024, 9:39 am, PayrollMetroSouth (Ms E Grant) to Ms C Taylor, copied to the Appellant: "
+      "\"Please submit an AVAC to correct these shifts for each fortnight so Cory is paid corrected "
+      "and his RDO balance will then be amended\", identifying AVAC PRN 15397775 and AVAC PRN "
+      "15605601; 10 May 2024, 2:21 pm, the Appellant to Payroll and Ms Grant; 13 May 2024, 8:21 am, "
+      "Ms Grant to the Appellant: \"I cannot see that any of the issues below have been corrected. "
+      "Please speak to your Line Manager to have them corrected with an AVAC submitted through My HR\"",
+      "documents/disclosure-2025-07/Disclosure_witness_conferencing_QldHealth_Payroll.pdf", 5, None),
+     (2, "21 and 28 May 2024", "Same thread continued, from the Respondent's disclosure - "
+      "21 May 2024, 12:33 pm, Ms C Taylor to the Appellant, subject \"RE: Corey Shepherd 388372 Pay "
+      "issues\": \"I am still I am waiting payroll confirmation about a few of these payroll issues "
+      "and as soon as I do get that confirmation, I will submit an AVAC for next pay run\"; and "
+      "28 May 2024, 8:36 am, Ms C Taylor to the Appellant copied to Ms T Reese, \"Validation of "
+      "Claims older than 3 months - Please sign\"",
       "documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 46, 47),
+     (3, "1 Feb to 31 May 2024", "myHR submissions report for the Appellant, produced by Metro South "
+      "Health as Item 11 - seven submissions, every Attendance Variation and Allowance Claim "
+      "initiated by Ms C Taylor, processing between one and five days on each, the claim of "
+      "15 May 2024 completed 16 May 2024, and the claim of 28 May 2024 recorded as Part Completed",
+      "documents/Item_11_myHR_report_Leave_submissions_Feb-May_2024.pdf", 1, None),
    ],
  },
  "3a": {
