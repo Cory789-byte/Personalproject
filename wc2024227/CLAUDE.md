@@ -4,10 +4,12 @@ This is the Claude Code project context for Cory Shepherd's QIRC workers' compen
 
 ## Read these first, every session
 
-0⭐. **`CURRENT.md`** — ⛔ **READ FIRST.** States which layer is live and which "FINAL" documents are
-   superseded. Several files in `drafts/` are titled FINAL and are final **for their own date only**.
-   The live package is `drafts/SEND_31JUL/` → `drafts/out/`, sending **Monday 3 August 2026**;
-   the send map is `drafts/SEND_31JUL/MASTER_SEND_PACK.md`.
+0⭐. **`CURRENT.md`** — ⛔⛔ **READ THIS FIRST AND IN FULL. IT IS THE HANDOVER.** Rewritten
+   22 August 2026. It states the live position across all three tracks (the appeal, the employment
+   matter, the fund), every dated clock, what is built and where, the open decisions, the standing
+   disciplines, and the corrections not to repeat. Several files in `drafts/` are titled FINAL and
+   are final **for their own date only** — CURRENT.md says which layer is live.
+   ⚠ Everything in `working-notes.md` dated before 19 August 2026 is history.
 0. **`MASTER.md`** — the consolidated single pull-from point (state of play, findings, disciplines, open items, document index). Start here.
 0a. **`corpus/FULL_CORPUS.md`** — ⭐ **the whole correspondence record in one searchable file**: 154 messages, 2020–2026, full text, chronological, each cited to its pack and page. **Grep this before opening any PDF.** Companion index at `corpus/MESSAGE_INDEX.tsv`; cautions at `corpus/README.md` — times are **UTC (+10 for AEST)**, and **nothing is quoted into a filing from the corpus**, only from the source PDF.
 1. **This file** — standing context + the discipline rules below.
