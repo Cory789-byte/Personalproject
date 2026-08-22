@@ -1,216 +1,279 @@
 #!/usr/bin/env python3
-"""Stressor bundles 1-course, 2 and 3 — same template as the 1(a) bundle."""
-import subprocess
-import pikepdf
-from pikepdf import Name, Array
+"""WC/2024/227 - STITCHED STRESSOR BUNDLES.
+
+For each pleaded stressor, extracts the SPECIFIC pages of the SPECIFIC source documents already
+verified in this matter (not whole 100-460pp packs), orders them chronologically, and stitches
+them behind a one-page index into a single bundle PDF - the same design as the Stressor 1(a)
+particulars bundle already served 11 August 2026.
+
+Every page range below was located by grepping index/FULLTEXT.txt for verified quotations/dates
+already used in the Form 24 and the case chronology. Source: verbatim page markers, not guesses.
+"""
+import os, pikepdf
 from reportlab.lib.pagesizes import A4
-from reportlab.pdfgen import canvas
-from reportlab.lib.colors import HexColor, white
-W,H = A4
-INK=HexColor('#1a1a1a'); GREY=HexColor('#555555'); BAR=HexColor('#1b1b2f')
-SRC='REPORT_B_LEAN_DOCTOR_PACK.pdf'
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.lib.units import mm
+from reportlab.lib import colors
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
+import io
 
-BUNDLES = [
- # ---------------- STRESSOR 1 COURSE (1(b)-1(f)) ----------------
- dict(
-  out='STRESSOR_1_COURSE_BUNDLE_1b-1f_11AUG.pdf',
-  title='Stressor 1 — course documents · particulars 1(b), 1(d), 1(e), 1(f)',
-  intro='This bundle collects the contemporaneous records for the pleaded particulars 1(b), '
-   '1(d), 1(e) and 1(f) of Stressor 1 of the Amended Form 9A (7 April 2026). Particular 1(a) '
-   'is the subject of its own bundle. Each event below is admitted in whole or in part on the '
-   'Respondent’s pleadings, as noted tab by tab.',
-  note='Particulars 1(c) and 1(g) rest on events admitted on the pleadings (SOFC ¶¶13, 17) '
-   'and are carried in the appellant’s statement of evidence with their annexures.',
-  tabs=[
-   ('TAB 1','Particular 1(b) — Communication book · pages removed · 6 June 2023 (removal admitted)',
-    'Ms Taylor removed pages from the Communication Book on or about 6 June 2023; the removal '
-    'is admitted (SOFC ¶12(a)). The documents behind this tab are the communication book '
-    'strand and the book pages of 6 June 2023 and 21 May 2024.',
-    [72,73,74,130,131]),
-   ('TAB 2','Particular 1(d) — COVID leave declined · "the attachments were in fact present" · Feb-Mar 2024',
-    'The appellant’s Special Pandemic Leave submission was declined on the stated basis that '
-    'the required declaration was not attached. The Respondent’s pleading records that "a '
-    'review indicates that in fact, the attachments were present" and describes the decline as '
-    'human error (SOFC ¶14(e)-(f)). The documents behind this tab are the contemporaneous '
-    'text messages of February-March 2024 and the myHR leave submission system records.',
-    [75,76,77,163]),
-   ('TAB 3','Particular 1(e) — the public interest disclosure · lodged 13 May 2024 · determined 24 December 2024 (admitted)',
-    'On 13 May 2024 the appellant lodged a complaint regarding clinical risks. The Ethical '
-    'Standards Unit formally determined it constituted a Public Interest Disclosure; the '
-    'particular is admitted in full (SOFC ¶15). The documents behind this tab are the ESU '
-    'complaint face of 13 May 2024 and the PID outcome letter (24-ESU-1130).',
-    [81,78,79,80]),
-   ('TAB 4','Particular 1(f) — the retraction · "the email was ultimately removed from the server" · 15-17 May 2024',
-    'On 15 May 2024 the appellant sent an email concerning office hours; a retraction was '
-    'directed within approximately 48 hours, and the Respondent’s pleading records that '
-    '"the email was ultimately removed from the server" (SOFC ¶16(b)(vii)). The documents '
-    'behind this tab are the complaint and HR disclosure of 15-16 May 2024 (CS-4) and the '
-    'office-hours and retract strand of 15-17 May 2024.',
-    [82,83,84,85,86]),
-  ]),
- # ---------------- STRESSOR 2 (pay) ----------------
- dict(
-  out='STRESSOR_2_PAY_BUNDLE_11AUG.pdf',
-  title='Stressor 2 — pay · particulars support bundle',
-  intro='This bundle collects the records for the particulars of Stressor 2 of the Amended '
-   'Form 9A (7 April 2026). The matter pleaded is the delay in the remediation of raised pay '
-   'issues, not the quantum. The pleaded sequence is substantially admitted: pay issues raised '
-   'over 2023-2024 (SOFC ¶20(a)); the payroll officer’s AVAC instruction of 3 May 2024 '
-   '(¶21(a)); "waiting for payroll confirmation" on 21 May 2024 (¶21(b)); submission on '
-   '28 May 2024 (¶21(c)) — twenty-five days after the instruction.',
-  note='The text message of 4 April 2023 raising a pay issue is admitted (SOFC ¶19(a)) and '
-   'is carried in the appellant’s statement annexures.',
-  tabs=[
-   ('TAB 1','"submit an AVAC" · the payroll instruction of 3 May 2024 and the correspondence to 28 May 2024',
-    'On 3 May 2024 the payroll officer instructed Ms Taylor in writing to submit an AVAC to '
-    'correct the appellant’s shift payments. The AVAC was submitted on 28 May 2024. The '
-    'documents behind this tab are the payroll and underpayment correspondence of that period.',
-    [88,89,90,91,92]),
-   ('TAB 2','"waiting for payroll confirmation" · 21 May 2024 · eighteen days after the instruction',
-    'On 21 May 2024 Ms Taylor advised the appellant she was still waiting on payroll '
-    'confirmation and would submit an AVAC for the next pay run. The documents behind this '
-    'tab are that exchange.',
-    [106,107]),
-   ('TAB 3','Queensland Health payroll disclosure package · the original records',
-    'The original payroll correspondence and AVAC records produced in disclosure, behind this '
-    'tab for completeness of the sequence.',
-    [116,117,118,119,120,121,122]),
-  ]),
- # ---------------- STRESSOR 3 (keystone) ----------------
- dict(
-  out='STRESSOR_3_KEYSTONE_BUNDLE_11AUG.pdf',
-  title='Stressor 3 — fatigue and rostering · the admitted 7-hour break · particulars support bundle',
-  intro='This bundle collects the records for Stressor 3 of the Amended Form 9A (7 April '
-   '2026). The central event is admitted: the shifts of 17 and 18 March 2024 were separated '
-   'by a 7-hour break, described in the Respondent’s pleading as "a result of human error" '
-   '(SOFC ¶22(a)). The Award default break is 10 hours; the June 2020 agreement relied on '
-   'provides for 8. The documents below record the break, the requests for relief, the '
-   'employer’s own contemporaneous risk assessment, and the state of the fatigue risk '
-   'management framework in the material period.',
-  note='Several documents are drawn from the Respondent’s own disclosure, as noted.',
-  tabs=[
-   ('TAB 1','The roster · 17-18 March 2024 · the admitted 7-hour break',
-    'The roster for March 2024 records the consecutive shifts of 17 and 18 March 2024 ending '
-    'at 23:00 and recommencing at 06:00. The break of 7 hours is admitted (SOFC ¶22(a)).',
-    [56,57]),
-   ('TAB 2','Att 6 · fatigue leave sought · the June 2020 agreement relied on · 19 March 2024',
-    'Following the shifts of 17-18 March 2024, the appellant sought recovery leave. Paid '
-    'fatigue leave was declined by reference to the agreement of June 2020, and the appellant '
-    'used his own personal leave on 19 March 2024. The documents behind this tab are the Att 6 '
-    'emails and the QH Leave Takings Report of 19 March 2024 (system record).',
-    [58,59,162]),
-   ('TAB 3','"a rating of 11 which is moderate" · the employer’s own risk assessment · 10 May 2024 (Respondent’s disclosure)',
-    'On 10 May 2024 the appellant’s risk matrix was applied to the Switchboard roster by '
-    'Ms Reese and Ms Taylor. The email records "at best there would be a rating of 11 which '
-    'is moderate", refers to "a few rostering errors ... in past rosters", and records Ms '
-    'Reese’s enquiry to Human Resources of 10 May 2024, followed up on 20 May 2024. The '
-    'document behind this tab is that email, from the Respondent’s disclosure.',
-    [159]),
-   ('TAB 4','Raised in writing · 8 April - 1 May 2024 · "more than two weeks without response" · refused',
-    'The appellant raised the shift pairing and minimum-break provision in writing on 8 April '
-    '2024; it was escalated to Human Resources on 9 April 2024; his email of 24 April 2024 '
-    'recorded more than two weeks without response; the request was refused on 1 May 2024. '
-    'The documents behind this tab are the rostering concerns correspondence and the Roster '
-    'Concerns chain including the 1 May 2024 refusal.',
-    [108,109,110,111,112,113,126,127,128,129]),
-   ('TAB 5','No Switchboard fatigue risk assessment in the material period · the Chief Executive’s letter · the guideline that applied',
-    'The letter of 5 June 2026 under the hand of the Chief Executive (K-LM26/729) records the '
-    'position concerning fatigue risk management in the Switchboard in the material period, '
-    'with implementation of the framework after 30 June 2024. The guideline QH-GDL-401-3.3 '
-    'is extracted for the standard that applied. Both documents are behind this tab.',
-    [60,61,62,63,64,65,66,67]),
-  ]),
-]
+ROOT = ".."
+OUTDIR = "out/STRESSOR_BUNDLES"
+os.makedirs(OUTDIR, exist_ok=True)
 
-def wrap(c,text,x,y,wmax,size,leading,font='Helvetica'):
-    c.setFont(font,size)
-    words=text.split(); line=''
-    while words:
-        t=(line+' '+words[0]).strip()
-        if c.stringWidth(t,font,size)<=wmax: line=t; words.pop(0)
-        else: c.drawString(x,y,line); y-=leading; line=words.pop(0)
-    if line: c.drawString(x,y,line); y-=leading
-    return y
+ss = getSampleStyleSheet()
+H1 = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=13, leading=17, alignment=1, spaceAfter=3)
+SUB = ParagraphStyle('SUB', fontName='Helvetica', fontSize=9.5, leading=13, alignment=1,
+                     textColor=colors.HexColor('#444444'), spaceAfter=8)
+B = ParagraphStyle('B', parent=ss['BodyText'], fontName='Helvetica', fontSize=9.3, leading=12.6, spaceAfter=6)
+CH = ParagraphStyle('CH', fontName='Helvetica-Bold', fontSize=8.4, leading=11)
+C = ParagraphStyle('C', fontName='Helvetica', fontSize=8.4, leading=11.4)
+WARN = ParagraphStyle('W', parent=B, fontSize=8.4, leading=11.4, textColor=colors.HexColor('#8a2010'),
+                      backColor=colors.HexColor('#fdf1ef'), borderPadding=5)
+def P(t, s=C): return Paragraph(t, s)
 
-src = pikepdf.open(SRC)
-for B in BUNDLES:
-    front_fn = B['out'].replace('.pdf','_front.pdf')
-    c = canvas.Canvas(front_fn, pagesize=A4)
-    # cover
-    c.setFillColor(INK)
-    c.setFont('Helvetica-Bold',15); c.drawString(57,H-70,'WC/2024/227')
-    y = wrap(c,B['title'],57,H-92,480,13,17,'Helvetica-Bold')
-    c.setFont('Helvetica',10.5); c.setFillColor(GREY)
-    c.drawString(57,y-2,'Prepared in support of the appellant’s statement of evidence')
-    c.setFont('Helvetica',9.5)
-    c.drawString(57,y-16,'Cory Lea Shepherd · Appellant (self-represented) · AO3 Switchboard Services, Logan Hospital')
-    c.drawString(57,y-29,'0417 400 227 · coryshepherd1@hotmail.com · 11 August 2026')
-    c.setFillColor(INK); y = y-55
-    y = wrap(c,B['intro'],57,y,480,10,13.5); y-=12
-    c.setFont('Helvetica-Bold',10.5); c.drawString(57,y,'INDEX'); y-=16
-    for i,(tabno,title,_e,_p) in enumerate(B['tabs']):
-        c.setFont('Helvetica-Bold',10); c.drawString(60,y,tabno)
-        c.setFont('Helvetica',9.5)
-        short = title if len(title)<95 else title[:92]+'…'
-        y = wrap(c,short,110,y,440,9.5,12); y-=4
-    y-=8
-    c.setFillColor(GREY)
-    y = wrap(c,'Note: '+B['note'],57,y,480,9,12)
-    c.setFont('Helvetica',8)
-    c.drawString(57,40,'Shepherd · WC/2024/227 · '+B['title'].split(' —')[0])
-    c.showPage()
-    # dividers
-    for tabno,title,expl,_p in B['tabs']:
-        c.setFillColor(BAR); c.rect(0,H-120,W,60,stroke=0,fill=1)
-        c.setFillColor(white); c.setFont('Helvetica-Bold',22)
-        c.drawString(57,H-98,tabno)
-        c.setFillColor(INK)
-        y = wrap(c,title,57,H-150,480,12.5,16,'Helvetica-Bold'); y-=10
-        c.setFont('Helvetica-Oblique',9.5); c.setFillColor(GREY)
-        c.drawString(57,y,'The particular, as it would be given:'); y-=16
-        c.setFillColor(INK)
-        y = wrap(c,expl,57,y,480,10.5,14.5)
-        c.setFillColor(GREY); c.setFont('Helvetica',8)
-        c.drawString(57,40,f'Shepherd · WC/2024/227 · {tabno}')
-        c.showPage()
-    c.save()
-    # assemble
-    front = pikepdf.open(front_fn)
-    pdf = pikepdf.new()
-    pdf.pages.append(front.pages[0])
-    tabstart=[]
-    for i,(tabno,title,_e,pages) in enumerate(B['tabs']):
-        tabstart.append(len(pdf.pages)+1)
-        pdf.pages.append(front.pages[1+i])
-        for sp in pages: pdf.pages.append(src.pages[sp-1])
-    # strip inherited junk annots
-    pagemap={p.obj.unparse():i+1 for i,p in enumerate(pdf.pages)}
-    for p in pdf.pages:
-        if '/Annots' in p:
-            keep=pikepdf.Array()
-            for a in p.Annots:
-                ok=False
-                try:
-                    if a.get('/Subtype')==pikepdf.Name.Link and a.A.S==pikepdf.Name.GoTo:
-                        if a.A.D[0].unparse() in pagemap: ok=True
-                except Exception: ok=False
-                if ok: keep.append(a)
-            p.Annots=pdf.make_indirect(keep)
-    from pikepdf import OutlineItem
-    with pdf.open_outline() as ol:
-        ol.root.append(OutlineItem('Cover — index',destination=Array([pdf.pages[0].obj,Name.Fit])))
-        for i,(tabno,title,_e,_p) in enumerate(B['tabs']):
-            ol.root.append(OutlineItem(f'{tabno} · {title[:90]}',destination=Array([pdf.pages[tabstart[i]-1].obj,Name.Fit])))
-    with pdf.open_metadata(set_pikepdf_as_editor=False) as meta:
-        meta['dc:title']=B['title']+' — WC/2024/227'
-        meta['dc:creator']=['Cory Lea Shepherd']
-        meta['dc:description']='Shepherd v Workers’ Compensation Regulator · WC/2024/227'
-    di=pdf.docinfo
-    for k in list(di.keys()): del di[k]
-    di['/Title']=B['title']+' — WC/2024/227'
-    di['/Author']='Cory Lea Shepherd'; di['/Creator']='Cory Lea Shepherd'; di['/Producer']='Cory Lea Shepherd'
-    di['/Subject']='Shepherd v Workers’ Compensation Regulator · WC/2024/227'
-    raw=B['out'].replace('.pdf','_raw.pdf')
-    pdf.save(raw)
-    subprocess.run(['qpdf','--linearize',raw,B['out']],check=True)
-    print('BUILT',B['out'],len(pdf.pages),'pages')
+def src(rel):
+    return os.path.join(ROOT, rel)
+
+# (tab_no, date, title, source_path, page_start, page_end [1-indexed, inclusive])
+# page_end = None means single page. All page numbers verified against index/FULLTEXT.txt markers.
+BUNDLES = {
+ "1a": {
+   "title": "Stressor 1(a) — erratic physical presence and unilateral directives without consultation",
+   "note": "Already served on the Respondent as a standalone 30-page bundle, 11 August 2026. "
+           "Reproduced here as item 16 for completeness of the stressor set; the served version "
+           "governs.",
+   "docs": [(1, "11 Aug 2026", "Stressor 1(a) particulars bundle (as served)",
+             "documents/2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf", 1, 30)],
+ },
+ "1b": {
+   "title": "Stressor 1(b) — the Switchboard communication book",
+   "note": None,
+   "docs": [
+     (1, "6 Jun 2023", "Communication book removal chain - Chloe Taylor's own account",
+      "documents/disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 9, 11),
+     (2, "10 May 2024", "Reference to the communication book in the FRMS bundle",
+      "documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 24, 24),
+   ],
+ },
+ "1c": {
+   "title": "Stressor 1(c) — the matters raised on 7 August 2023 and the response to them",
+   "note": "This is the same chain that established the repair arc: the request for space, the "
+           "manager's admitted oversight, the Director's direction to continue communicating, the "
+           "grievance policy offered and declined, and the full-time approval that followed.",
+   "docs": [
+     (1, "7 Aug - 8 Sep 2023", "The Increase of hours / Workplace issues chain, in full",
+      "documents/disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 3, 11),
+   ],
+ },
+ "1d": {
+   "title": "Stressor 1(d) — the special pandemic leave applications of February 2024",
+   "note": None,
+   "docs": [
+     (1, "Feb 2024", "myHR leave submission report, 1 Feb - 31 May 2024",
+      "documents/disclosure-2026-06_MSH_production/Item 11 myHR report_Leave submissions_1 February 2024 to 31 May 2024.pdf", 1, None),
+     (2, "20-27 Feb 2024", "Pandemic leave evidence and leave form, PRN 15480560",
+      "documents/disclosure-2026-06_MSH_production/Item 11_Leave form PRN 15480560 Evidence pandemic leave.pdf", 1, None),
+     (3, "Feb 2024", "AVAC PRN 15480560 history",
+      "documents/disclosure-2026-06_MSH_production/Item 11 AVAC PRN 15480560 History.pdf", 1, None),
+     (4, "Feb 2024", "Pandemic leave, Switchboard (redacted)",
+      "documents/disclosure-2026-06_MSH_production/item 12 Pandemic leave switch_Redacted.pdf", 1, None),
+   ],
+ },
+ "1e": {
+   "title": "Stressor 1(e) — the complaint of 13 May 2024 and its determination as a public interest disclosure",
+   "note": "NO DOCUMENTS ARE REPRODUCED IN THIS BUNDLE, and none are required. The Respondent "
+           "ADMITS this stressor in full at paragraph 15 of its amended statement of facts and "
+           "contentions dated 13 May 2026: \"With respect to stressor 1(e) of the appellant's "
+           "statement, the respondent admits the allegation.\" An admitted fact requires no "
+           "evidence. Separately, the documents recording the fact or content of the disclosure "
+           "and the determination made in respect of it are the subject of a claim under s 65 of "
+           "the Public Interest Disclosure Act 2010 (item 30 of the Appellant's Consolidated List "
+           "of Documents), and are not produced.",
+   "docs": [],
+ },
+ "1f": {
+   "title": "Stressor 1(f) — the events of 13 to 15 May 2024 and the direction to retract",
+   "note": None,
+   "docs": [
+     (1, "13-17 May 2024", "The office hours / retraction / on-call chain (FRMS bundle)",
+      "documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 17, 20),
+   ],
+ },
+ "1g": {
+   "title": "Stressor 1(g) — the union delegate matters",
+   "note": None,
+   "docs": [
+     (1, "Aug 2024", "Union Delegate correspondence with WorkCover",
+      "documents/correspondence-packs/10_Amy_Mo_WorkCover_EMAILS_PACK_84pp.pdf", 44, 45),
+   ],
+ },
+ "2a": {
+   "title": "Stressor 2(a) — remuneration: the distribution of shifts and penalties",
+   "note": None,
+   "docs": [
+     (1, "4 Apr 2023", "Text messages with the Line Manager, including the $1,500 penalty-rate exchange and the roster board image",
+      "documents/evidence/Chloe_Work_text_messages_incl_2023-04-04_roster_board.pdf", 1, None),
+     (2, "10 May 2024", "The Roster Risk assessment matrix email (Reese to Pritchard)",
+      "documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 25, 26),
+   ],
+ },
+ "2b": {
+   "title": "Stressor 2(b) — the payroll correction of 3 to 28 May 2024",
+   "note": None,
+   "docs": [
+     (1, "3-28 May 2024", "The AVAC correction delay chain",
+      "documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 46, 47),
+   ],
+ },
+ "3a": {
+   "title": "Stressor 3(a) — the consecutive shifts of 17-18 March 2024 and the seven-hour break",
+   "note": None,
+   "docs": [
+     (1, "24 Oct 2024", "Review Decision 69983 - the 10-hour minimum, the seven-hour break, and the finding of unreasonable management action",
+      "documents/Review_Decision_69983_24.10.2024.pdf", 24, 26),
+     (2, "7 Jul 2026", "Letter of Ms L Forrest, HR - the 8-hour agreement applies only to staff-initiated shift swaps",
+      "documents/2026-07-07_MSH_HR_Forrest_ECC_further_information.pdf", 1, None),
+     (3, "5 Jun 2026", "Letter of Metro South Health (Cridland) - items 1, 2, 4, 5 (MET calls, fatigue assessment)",
+      "documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, None),
+   ],
+ },
+ "3b": {
+   "title": "Stressor 3(b) — the absence of any fatigue risk assessment or framework",
+   "note": None,
+   "docs": [
+     (1, "5 Jun 2026", "Letter of Metro South Health (Cridland) - items 3(c), 4, 5, 7",
+      "documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, None),
+   ],
+ },
+ "3c": {
+   "title": "Stressor 3(c) — the leave taken on 19 March 2024",
+   "note": None,
+   "docs": [
+     (1, "19 Mar 2024", "QH Leave Takings Report - Sick Leave, 7.60 hours, approved",
+      "documents/disclosure-2026-06_MSH_production/Item 15 QH Leave Takings Report_Cory Shepherd_19 March 2024.pdf", 1, None),
+   ],
+ },
+}
+
+def strip_meta(path):
+    p = pikepdf.open(path, allow_overwriting_input=True)
+    try: del p.Root.Metadata
+    except (AttributeError, KeyError): pass
+    with p.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
+    try: del p.Root.Metadata
+    except (AttributeError, KeyError): pass
+    for k in list(p.docinfo.keys()): del p.docinfo[k]
+    tmp = path + ".tmp"
+    p.save(tmp); p.close(); os.replace(tmp, path)
+
+def build_index_page(tag, spec):
+    s = []
+    s.append(P(f"Stressor {tag} — supporting documents", H1))
+    s.append(P("WC/2024/227 · Shepherd v Workers' Compensation Regulator · contemporaneous records, in date order", SUB))
+    s.append(P(f"<b>{spec['title']}</b>", B))
+    if spec.get("note"):
+        s.append(P(spec["note"], WARN))
+    rows = [[P("Tab", CH), P("Date", CH), P("Document", CH), P("Pages", CH)]]
+    for tab, date, title, path, p1, p2 in spec["docs"]:
+        pr = f"p.{p1}" if p2 is None or p2 == p1 else f"pp.{p1}-{p2}"
+        rows.append([P(str(tab), C), P(date, C), P(title, C), P(pr, C)])
+    t = Table(rows, colWidths=[10*mm, 26*mm, 130*mm, 20*mm], repeatRows=1)
+    t.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#dddddd')), ('VALIGN', (0,0), (-1,-1), 'TOP'),
+        ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
+        ('TOPPADDING', (0,0), (-1,-1), 4), ('BOTTOMPADDING', (0,0), (-1,-1), 4)]))
+    s.append(t)
+    s.append(Spacer(1, 4*mm))
+    s.append(P("The documents follow in the order listed above. Tab dividers are the page "
+               "numbers stated; no document has been annotated, highlighted or altered.", B))
+    buf = io.BytesIO()
+    doc = SimpleDocTemplate(buf, pagesize=A4, leftMargin=16*mm, rightMargin=16*mm, topMargin=16*mm, bottomMargin=16*mm)
+    doc.build(s)
+    buf.seek(0)
+    return pikepdf.open(buf)
+
+built, errors = [], []
+for tag, spec in BUNDLES.items():
+    out = pikepdf.Pdf.new()
+    idx = build_index_page(tag, spec)
+    out.pages.extend(idx.pages)
+    ok = True
+    for tab, date, title, path, p1, p2 in spec["docs"]:
+        full = src(path)
+        if not os.path.exists(full):
+            errors.append(f"{tag} tab {tab}: MISSING {path}")
+            ok = False
+            continue
+        try:
+            sp = pikepdf.open(full)
+            end = p2 if p2 else p1
+            if end > len(sp.pages):
+                errors.append(f"{tag} tab {tab}: page range {p1}-{end} exceeds {len(sp.pages)}pp in {path}")
+                end = len(sp.pages)
+            out.pages.extend(sp.pages[p1-1:end])
+        except Exception as e:
+            errors.append(f"{tag} tab {tab}: ERROR opening {path}: {e}")
+            ok = False
+    outpath = f"{OUTDIR}/Stressor_{tag}_bundle.pdf"
+    out.save(outpath)
+    strip_meta(outpath)
+    built.append((tag, len(out.pages), ok))
+
+print(f"\n{'='*60}\nBUILT {len(built)} STRESSOR BUNDLES:")
+for tag, n, ok in built:
+    print(f"  {'OK ' if ok else 'WARN'} Stressor_{tag}_bundle.pdf  ({n}pp)")
+if errors:
+    print(f"\n{len(errors)} ISSUES TO VERIFY BEFORE USE:")
+    for e in errors: print("  -", e)
+
+# ---------------------------------------------------------------- master index
+mi = []
+mi.append(P("Stressor bundles — index", H1))
+mi.append(P("WC/2024/227 · Shepherd v Workers' Compensation Regulator · assembled 22 August 2026", SUB))
+mi.append(P("Each bundle collects the contemporaneous records for one stressor as pleaded in the "
+            "Amended Statement of Facts and Contentions filed 7 April 2026, behind a one-page "
+            "index, in date order. Page references in each index are to the source document. No "
+            "document has been annotated, highlighted or altered. Where a bundle reproduces only "
+            "part of a source document, the balance of that document is disclosed in the "
+            "Appellant's Consolidated List of Documents and is available on request.", B))
+mrows = [[P("Bundle", CH), P("Stressor as pleaded", CH), P("Pages", CH)]]
+LABELS = {
+ "1a": "Erratic physical presence and unilateral directives without consultation",
+ "1b": "The Switchboard communication book",
+ "1c": "The matters raised on 7 August 2023 and the response to them",
+ "1d": "The special pandemic leave applications of February 2024",
+ "1e": "The complaint of 13 May 2024 and its determination as a public interest disclosure — ADMITTED",
+ "1f": "The events of 13 to 15 May 2024 and the direction to retract",
+ "1g": "The union delegate matters",
+ "2a": "Remuneration — the distribution of shifts and penalties",
+ "2b": "The payroll correction of 3 to 28 May 2024",
+ "3a": "The consecutive shifts of 17 and 18 March 2024 and the seven-hour break",
+ "3b": "The absence of any fatigue risk assessment or framework",
+ "3c": "The leave taken on 19 March 2024",
+}
+for tag, n, ok in built:
+    mrows.append([P(f"<b>Stressor {tag}</b>", C), P(LABELS.get(tag, ""), C), P(str(n), C)])
+mt = Table(mrows, colWidths=[24*mm, 140*mm, 16*mm], repeatRows=1)
+mt.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
+    ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#dddddd')), ('VALIGN', (0,0), (-1,-1), 'TOP'),
+    ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
+    ('TOPPADDING', (0,0), (-1,-1), 4), ('BOTTOMPADDING', (0,0), (-1,-1), 4)]))
+mi.append(mt)
+mi.append(Spacer(1, 5*mm))
+mi.append(P("The stressor arrangement is for convenience of reference only. It forms no part of "
+            "the disclosure and is not a pleading. The Appellant's Consolidated List of Documents "
+            "is the disclosure.", WARN))
+midoc = SimpleDocTemplate(f"{OUTDIR}/00_INDEX_stressor_bundles.pdf", pagesize=A4,
+                          leftMargin=16*mm, rightMargin=16*mm, topMargin=16*mm, bottomMargin=16*mm)
+midoc.build(mi)
+strip_meta(f"{OUTDIR}/00_INDEX_stressor_bundles.pdf")
+print(f"\nwrote {OUTDIR}/00_INDEX_stressor_bundles.pdf")
+
+import zipfile
+zp = "out/WC2024227_STRESSOR_BUNDLES.zip"
+if os.path.exists(zp): os.remove(zp)
+with zipfile.ZipFile(zp, "w", zipfile.ZIP_DEFLATED) as zf:
+    for fn in sorted(os.listdir(OUTDIR)):
+        zf.write(os.path.join(OUTDIR, fn), fn)
+print(f"wrote {zp} ({os.path.getsize(zp)/(1024*1024):.1f} MB)")

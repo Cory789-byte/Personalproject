@@ -6691,3 +6691,25 @@ MSH production items.
 ⚠ STANDING CAUTION ADDED TO CURRENT.md AND THE CATALOGUE: OCR is machine reading. Use it to FIND
 the document and the passage; verify the words against the source PDF before anything is quoted
 into a filing, a letter or an expert instruction. The interlock rule is unchanged.
+
+## 2026-08-22 — STITCHED STRESSOR BUNDLES BUILT (Cory: "I wanted the original source stitched, not pointers")
+⛔ CORRECTION TO THE EARLIER BUNDLES: the first attempt produced FOLDERS containing whole 100–460pp
+correspondence packs plus pointer .txt files. That is not a bundle — it is a filing cabinet. What
+was wanted (and what the 11 Aug Stressor 1(a) bundle already demonstrated) is SPECIFIC PAGES of
+SPECIFIC documents, stitched chronologically behind a one-page index.
+NEW: `drafts/build_stressor_bundles.py` → `drafts/out/STRESSOR_BUNDLES/` (12 bundles + master
+index) + `WC2024227_STRESSOR_BUNDLES.zip` (15.0 MB, single file).
+Page ranges were located by grepping `index/FULLTEXT.txt` for verified quotations/dates already
+used in the Form 24 — not guessed. Two spot-checked visually against source:
+ · 3(a) pp.24–26 of Review Decision 69983 — CONFIRMED: carries the employer's own Award extract
+   (10-hour minimum), "the break ... equated to 7 hours", the 30-minutes-early point, the finding
+   that the rostering "amounted to unreasonable management action", and the Conclusion (personal
+   injury sustained; employment a significant contributing factor).
+ · 1(c) pp.3–11 of the Reese witness-conferencing bundle — CONFIRMED: the Matheson→Reese request
+   of 4 Jul 2025 and Reese's answers, carrying the 7 Aug 2023 chain.
+⭐ Stressor 1(e) is an INDEX PAGE ONLY, deliberately: the Respondent ADMITS it at SOFC ¶15, so no
+evidence is required, and the underlying documents are subject to the s 65 PID Act claim (item 30
+of the Consolidated List). Silent omission would have looked like a gap; the page states why.
+⚠ Bundles are gitignored as DERIVED — regenerate with `python3 drafts/build_stressor_bundles.py`.
+⚠ BEFORE SERVICE: check each bundle's page ranges against the source once more, and decide whether
+the Respondent gets the whole set or only the stressors in issue.

@@ -6,3 +6,5 @@ drafts/package-lock.json
 # (copies of documents already tracked elsewhere; the zip exceeds GitHub's 100MB limit)
 drafts/out/BUNDLES/
 drafts/out/WC2024227_BUNDLES_PART*.zip
+drafts/out/STRESSOR_BUNDLES/
+drafts/out/WC2024227_STRESSOR_BUNDLES.zip
