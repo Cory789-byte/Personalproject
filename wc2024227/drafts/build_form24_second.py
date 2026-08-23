@@ -315,15 +315,22 @@ FACTS = [
        "processing date of 30 May 2024, and a status of \"Part Completed\".", HR11),
  (109, "That report records the status of every other Attendance Variation and Allowance Claim in "
        "the period as \"Completed\".", HR11),
- (110, "Neither AVAC PRN 15397775 nor AVAC PRN 15605601 appears in that report.", HR11),
+ (110, "That report records the following process numbers with the following submission dates: "
+       "15325947, submitted 6 February 2024; 15480560, submitted 20 February 2024; 15848692, "
+       "submitted 27 March 2024; 15849573, submitted 27 March 2024; 15969838, submitted 9 April "
+       "2024; 16328886, submitted 15 May 2024; and 16450619, submitted 28 May 2024.", HR11),
+ (111, "In that report, process numbers increase as submission dates increase.", HR11),
+ (112, "The number 15397775 falls between 15325947 and 15480560.", "Arithmetic"),
+ (113, "The number 15605601 falls between 15480560 and 15848692.", "Arithmetic"),
+ (114, "Neither AVAC PRN 15397775 nor AVAC PRN 15605601 appears in that report.", HR11),
  ("K", "MATTERS THE RESPONDENT DOES NOT ALLEGE"),
- (111, "The Respondent does not allege that the Appellant was subject to any disciplinary process at "
+ (115, "The Respondent does not allege that the Appellant was subject to any disciplinary process at "
       "any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (112, "The Respondent does not allege that the Appellant's work performance was the subject of any "
+ (116, "The Respondent does not allege that the Appellant's work performance was the subject of any "
       "formal performance management process at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (113, "The Respondent does not allege that the Appellant was the subject of any warning, whether "
+ (117, "The Respondent does not allege that the Appellant was the subject of any warning, whether "
       "written or oral, at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (114, "The Respondent's amended statement of facts and contentions does not identify the management "
+ (118, "The Respondent's amended statement of facts and contentions does not identify the management "
       "action referred to in paragraph 27.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
  ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
