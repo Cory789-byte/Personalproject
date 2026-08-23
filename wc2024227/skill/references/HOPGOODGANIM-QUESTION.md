@@ -1257,6 +1257,47 @@ MinterEllison and Clayton Utz (FY2025-26).
 question REASONABLE to ask — which it always was. It does not make it ANSWERED, and it is still
 not a ground under s 550(4).**
 
+## 10.3g ⭐⭐⭐ THE OIR OCT–DEC 2024 FILE RESOLVES "STEPHEN GRAY" AND LOCATES WILLSON
+> 23 Aug 2026. Read from the full CSV (Cory's download). The API query for `hopgood` alone had
+> hidden the rest of the legal-services rows.
+
+**In the quarter containing the review decision, OIR's legal-services spend is overwhelmingly
+INDIVIDUAL BARRISTERS paid direct — not firms:**
+
+| Supplier | Date | Value | Note |
+|---|---|---|---|
+| ⭐⭐⭐ **STEPHEN GRAY** | 12 Dec 2024 | **$17,205.02** | ⭐⭐⭐ **THE PDF AUTHOR OF THE REGULATOR'S FORM 24 RESPONSE (18 Feb 2026)** |
+| ⭐⭐⭐ **LISA WILLSON** | 15 Jan 2025 | **$18,298.60** | ⭐⭐⭐ **THE REGULATOR'S COUNSEL IN THIS APPEAL** (§ counsel Lisa Willson, WHS-specialist panel counsel) |
+| CROWN LAW | 23 Dec 2024 | $129,879.75 | in-house govt legal |
+| MINTER ELLISON | 14 Oct 2024 | $237,933.40 | |
+| HOPGOOD GANIM | 2 & 12 Dec 2024 | $23,457.50 · $34,595.00 | |
+| STUART SAPSFORD | ×8, Nov 2024–Jan 2025 | ~$107k | barrister, 107 North Quay |
+| GLEN RICE QC · RUTH O'GORMAN KC · PETER RASHLEIGH ×3 · JAMES MARXSON ×2 · BEN McMILLAN · CLARE O'CONNOR · SARAH CARTLEDGE · EMILY J COOPER · CHARLES CLARK · SCOTT McLEOD · JENNIFER ANN GUNN · PETER B O'NEILL | Sep 2024 – Jan 2025 | | all barristers' chambers addresses |
+
+### ⭐⭐⭐ 10.3g(i) "STEPHEN GRAY" IS SOLVED
+The metadata register recorded (§62934): *"**Stephen Gray** — the Form 24 Response's PDF Author.
+**The name appears nowhere in the matter.**"* ⇒ ✅ **He is a barrister on OIR's legal-services
+books, paid $17,205.02 on 12 December 2024.** ⛔ **Close that open item.**
+
+### ⭐⭐⭐ 10.3g(ii) AND IT CUTS THE HOPGOODGANIM QUESTION — TOWARD THE INNOCENT READING
+**The Form 24 Response (18 Feb 2026) — a document in THIS matter — carries an external barrister's
+name in its PDF author field.** Nobody suggests that document was authored outside OIR's control or
+that the Regulator did not adopt it.
+
+⇒ ⭐⭐⭐ **OIR's documents in this very matter routinely carry the fingerprints of external legal
+suppliers. That is its normal production method, not an aberration.** The HopgoodGanim DMS profile
+on the review decision is the *same phenomenon* one layer up (a firm's DMS rather than a
+barrister's name).
+
+⭐⭐ **And it confirms §7.3 from a second source:** the Regulator's model is **in-house officers +
+briefed counsel**. Fifteen-plus individual barristers in a single quarter.
+
+### ⚠ 10.3g(iii) WHAT IT DOES *NOT* DO
+⛔ Still does not tie any engagement to review 69983. ⛔ Still does not establish who decided.
+⚠ And **Lisa Willson being paid 15 Jan 2025** simply confirms she is on OIR's panel — she is
+Respondent's counsel and that is entirely proper. ⛔ **No inference of any kind is to be drawn about
+her.**
+
 ## 10.4 ⛔ THE ACTION — UNCHANGED, AND NOW EASIER
 
 - ⭐⭐ **Keep the reliance, unchanged.** The Regulator's own delegate found the rostering
