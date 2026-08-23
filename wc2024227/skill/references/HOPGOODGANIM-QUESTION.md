@@ -1109,20 +1109,51 @@ Squires is a public service employee, so s 329 is satisfied on the face.
 3. ⚠ Engagements **under $10,000 are not published** — an absence proves nothing.
 4. ⛔ **It still does not establish who decided.** The limit is unchanged.
 
-## 10.3a ⭐⭐⭐ THE NET POSITION AFTER BOTH SIDES WERE SEARCHED
+## 10.3a ⛔⛔ CORRECTION, 23 AUGUST 2026 — THE NIL RESULTS ARE NOT PROBATIVE
 
-| | HopgoodGanim engagements |
+> ⛔ **I overstated 10.3(2). The claim that the structural reading is "refuted on the public
+> record" is WITHDRAWN.** The control check defeats it.
+
+**The control:** search MSHHS and WorkCover disclosure for **any** legal supplier — not just this
+firm. Terms: legal · lawyer · solicit · minter · ashurst · clayton utz · mccullough · king wood ·
+herbert smith · norton rose · corrs · allens · gadens · sparke · holding redlich · barry nilsson ·
+hall payne · maurice.
+
+| Dataset | Records | HopgoodGanim | ⭐ **ANY law firm** |
+|---|---|---|---|
+| **OIR** (reviewer) | — | ✅ **76 engagements, ~$1.84M**, incl. 2 Oct 2024 | ✅ yes — described "Legal Services" |
+| **WorkCover** FY2023-24 | 106 | ⛔ nil | ⛔⛔ **NIL. No law firm of any kind** |
+| **MSHHS** FY2023-24 | 1,872 | ⛔ nil | ⛔⛔ **NIL. No law firm of any kind** |
+| **MSHHS** FY2024-25 | 1,500 | ⛔ nil | ⛔⛔ **NIL** |
+| **MSHHS** FY2022-23 | 138 | ⛔ nil | ⛔⛔ **NIL** |
+
+⇒ ⭐⭐⭐ **Neither WorkCover nor Metro South discloses legal spend in these datasets at all.**
+Queensland Health HHSs are serviced by a central legal function; WorkCover reports legal
+engagements elsewhere or below threshold. **An absence from a dataset that never contained the
+category proves nothing about the category.**
+
+⛔ **So "HopgoodGanim is not on the insurer's / the employer's books" is NOT established.** What is
+established is only that they are not in *these particular published lists*, which contain no law
+firms at all.
+
+## 10.3b ⭐⭐ WHAT ACTUALLY SURVIVES, STATED CORRECTLY
+
+| | Status |
 |---|---|
-| **Office of Industrial Relations** (the reviewer) | ⭐ **76 engagements, ~$1.84M**, standing supplier, incl. **2 Oct 2024** — 3 weeks before the decision |
-| **WorkCover Queensland** (the insurer) | ⛔ **NIL in FY2023-24.** Not one contract, out of 106 |
+| ⭐⭐⭐ **OIR engages HopgoodGanim routinely and did so on 2 Oct 2024** — one week before `hgDMSDate 09.10.2024`, 22 days before the decision | ✅ **ESTABLISHED, positive documentary support for the innocent explanation** |
+| Whether WorkCover also engages them | ⚠ **UNKNOWN — the dataset cannot answer it** |
+| Whether Metro South also engages them | ⚠ **UNKNOWN — same reason.** ⭐ Note §5.4(3): the employer's 6 Sep 2024 response was produced by a **`PDFTron` DMS converter with Author/Creator/Title stripped**, consistent with preparation through *a* firm's DMS — firm unidentified |
+| That anyone other than Ms Squires decided | ⛔ **STILL NOT ESTABLISHED.** Unmoved |
 
-⇒ ⭐⭐⭐ **The premise of the whole line of inquiry is inverted.** The firm whose DMS profile sits on
-the decision is **the Regulator's own lawyers**, not the insurer's. The independence Chapter 13
-provides is independence **OF THE INSURER** — and the insurer's lawyers were not involved, because
-this is not the insurer's firm.
+⇒ ⭐⭐ **The position reverts to §8.5 and stays there: there is positive support for the innocent
+explanation and no proof of the alternative.** That is better than where the file stood on 8 August
+— because the innocent explanation now has *evidence*, not merely plausibility — but it is not
+refutation of the alternative.
 
-⭐⭐ **This is the strongest form of closure available without asking anybody anything.** It came
-from public data, cost nothing, and created no exposure.
+⚠ **AND THE QLD HEALTH VARIANT HITS THE SAME WALL AS THE WORKCOVER ONE.** Even if the employer's
+lawyers were HopgoodGanim, that explains why the firm might hold documents *about* this matter. It
+does not explain how **the Regulator's own decision** came out of that DMS **in Word** — and
+§7.4(1) forecloses the receive-and-profile route: *you cannot PDFMaker-for-Word an incoming PDF.*
 
 ## 10.4 ⛔ THE ACTION — UNCHANGED, AND NOW EASIER
 
