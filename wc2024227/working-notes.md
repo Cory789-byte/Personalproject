@@ -6737,3 +6737,51 @@ documents do not exist".
  4. Stressor bundles — 3(a) tab 3 and 3(b) tab 1, in full.
 LESSON: page ranges taken from a grep hit must be checked against the DOCUMENT'S OWN STRUCTURE,
 not just the first page that matched.
+
+## ⭐⭐ 2026-08-23 — PUBLIC HOLIDAY "NOT REQUIRED": A PLEADED DENIAL THAT LOOKS ANSWERABLE
+Cory's point: *"if she was going to roster me off public holidays I was going to enact my rights of
+public holiday not required."* Tested against the record — it is a live, narrow, pleaded issue.
+
+**THE RESPONDENT'S PLEADED DENIAL — SOFC ¶22(d):**
+> *"the appellant was **not entitled to 'Public Holiday not Worked' amounts** and was paid a public
+> holiday allowance instead, where appropriate"*
+
+**THE AWARD, s 23 (as recited in Review Decision 69983 p ~20):**
+> *"where an employee is **in receipt of the additional week's leave as prescribed in clause
+> 19.2(a)** and is **rostered off on Easter Saturday, Easter Sunday, Show Day or Labour Day**, such
+> employee shall be paid **an additional day's wage or be granted a day's holiday in lieu**…
+> **but this is not applicable where an employee is not ordinarily required to work on a Saturday or
+> Sunday.**"*
+
+**THE THREE ELEMENTS, AND WHERE HE STANDS ON EACH:**
+| Element | Status |
+|---|---|
+| 1. In receipt of the additional week under cl 19.2(a) | ⭐ **Affidavit ¶4: "classified as a Continuous Shift Worker… five weeks' recreation".** And all three 2026 movement forms, signed by Hughes as delegate, each record **"Continuous Shift Worker"** |
+| 2. Rostered off on Easter Sat / Easter Sun / Show Day / Labour Day | ⚠ **Must be established date by date from the rosters.** RD p 15 records he WAS rostered ON Good Friday 29 Mar and Easter Sunday 31 Mar 2024 — so those two are not "rostered off" days |
+| 3. ⛔ Exception — not applicable if **not ordinarily required to work Sat/Sun** | ⭐⭐ **Satisfied in his favour.** A continuous shift worker on a 24/7 switchboard plainly IS ordinarily required to work weekends; RD p 15 records a full weekend rostered |
+
+⇒ ⭐⭐ **On the face of the record all three are satisfiable. The exception, which is the usual
+killer, does not reach him.**
+
+**⚠⚠ THREE CAUTIONS BEFORE ANY USE:**
+1. ⛔ **s 23 is quoted from the REVIEW DECISION's recitation, not from the Award.** Standing rule
+   after the EB12 cl 3.9.1 error: **open the Award itself** before this is asserted anywhere.
+2. ⚠ **THREE DIFFERENT PHRASES ARE IN PLAY** and they may not be the same thing:
+   Taylor 9 Apr — *"public holiday **not required**"* · Respondent ¶22(d) — *"Public Holiday **not
+   Worked**"* · Award s 23 — *"**rostered off**… additional day's wage or day in lieu"*.
+   ⛔ **"Public Holiday not Worked" may be a payroll CODE, not the s 23 entitlement.** The Respondent
+   may be denying a code while the Award entitlement is a different animal. **Resolve before use.**
+3. ⛔ **This appeal cannot recover the money.** s 550 decides compensability, not award entitlements.
+   A wage claim is a separate proceeding.
+
+**⭐ WHAT IT IS ACTUALLY WORTH — MECHANISM, NOT QUANTUM:**
+- It **explains the persistence.** The Respondent's framing is a worker chasing money he was not
+  owed. If s 23 entitles him, he was chasing money he **was** owed — and was told he was not.
+- That is an **informational-fairness** failure under the Psychosocial Code definition already on
+  file (§ poor organisational justice) — the same limb as the 1 and 21 May "waiting on payroll".
+- ⭐ And it answers the roster point **without** the 42% comparator, which was deleted for arguing
+  too-few-hours against the fatigue case. **This argument does not have that defect.**
+
+**ACTION:** (a) open the Award at s 23 and cl 19.2(a); (b) identify from the rosters which public
+holidays he was **rostered off**; (c) resolve whether "Public Holiday not Worked" is a payroll code
+distinct from the s 23 entitlement. Only then decide whether it goes in the 9 Sept outline.
