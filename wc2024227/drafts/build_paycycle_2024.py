@@ -83,8 +83,7 @@ st.append(P("On the cycle, the next pay run was <b>5 June 2024</b>. The only oth
             "actually worked was <b>19 June 2024</b> - the day after the pleaded date of injury, and "
             "about a fortnight after the last day worked. After that there were no worked days for a "
             "correction to attach to.", B))
-st.append(P("So the whole of the correction had two opportunities to reach the Appellant while he was "
-            "still at work, and both fall inside the last three weeks of his attendance.", B))
+st.append(P("&#9733; <b>CORRECTED 23 August 2026.</b> The employer's confirmation letter of 9 October 2024 states in terms: <i>&ldquo;Your last day of attendance for a rostered shift was 3 June 2024&rdquo;</i>. The pay run of <b>19 June 2024</b> therefore covers only 27 May to 3 June of its period, and nothing worked after that. <b>The correction had ONE clear opportunity to reach him on a full worked fortnight - 5 June 2024 - not two.</b>", B))
 
 st.append(P("What is documented, and what is not", H2))
 st.append(P("<b>Documented.</b> That the errors existed; that payroll identified them on 3 May and "
