@@ -103,6 +103,54 @@ for i,(d,dirn,what,src,wt) in enumerate(SEQ, start=1):
 t.setStyle(TableStyle(sty))
 st += [t, Spacer(1,3*mm)]
 
+st.append(P("&#9733;&#9733; The span, which is the point &mdash; and it is not twenty-five days", H2))
+st.append(P("The twenty-five days from 3 to 28 May 2024 is only the last leg. <b>The pay was wrong "
+            "from February, and it was still not right when he stopped working.</b> Payroll's own "
+            "email of 3 May 2024 identifies four affected fortnights, the earliest commencing "
+            "<b>5 February 2024</b>:", B))
+span = [
+ ("Fortnight commencing <b>5 Feb 2024</b>", "Wages topped up 0.95 from the RDO balance, caused by a "
+  "<b>7-hour shift on 9 February 2024</b> instead of 8. <b>AVAC PRN 15397775</b>"),
+ ("Fortnight commencing <b>19 Feb 2024</b>", "The same, caused by the shift of 28 February 2024. "
+  "<b>AVAC PRN 15605601</b>"),
+ ("Fortnight commencing <b>18 Mar 2024</b>", "The opposite - too many ordinary shifts, giving a "
+  "<b>wage reduction of 7.55 hours</b> because one shift had to be overtime"),
+ ("Fortnight commencing <b>1 Apr 2024</b>", "0.95 hours over the contracted 76 needing to be overtime"),
+]
+rs = [[P("Affected period", CH), P("What payroll identified", CH)]]
+for a,b in span: rs.append([P(a, C), P(b, C)])
+tt = Table(rs, colWidths=[52*mm, 126*mm], repeatRows=1)
+tt.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),
+    ('BACKGROUND',(0,0),(-1,0),colors.HexColor('#dddddd')),('VALIGN',(0,0),(-1,-1),'TOP'),
+    ('LEFTPADDING',(0,0),(-1,-1),4),('RIGHTPADDING',(0,0),(-1,-1),4),
+    ('TOPPADDING',(0,0),(-1,-1),3.5),('BOTTOMPADDING',(0,0),(-1,-1),3.5)]))
+st += [tt, Spacer(1,2*mm)]
+rs = [[P("From", CH), P("To", CH), P("Elapsed", CH)]]
+for a,b,c in [
+  ("The 7-hour shift of <b>9 February 2024</b> that caused the first error",
+   "The correction submitted <b>28 May 2024</b>", "<b>109 days</b>"),
+  ("The first affected fortnight, commencing <b>5 February 2024</b>",
+   "<b>3 June 2024</b> - the last day of attendance at a rostered shift", "<b>119 days</b>"),
+  ("The correction submitted <b>28 May 2024</b>", "<b>3 June 2024</b> - last day worked", "6 days"),
+  ("The correction submitted <b>28 May 2024</b>", "<b>18 June 2024</b> - date of injury", "21 days"),
+]:
+    rs.append([P(a, C), P(b, C), P(c, C)])
+tt2 = Table(rs, colWidths=[74*mm, 74*mm, 30*mm], repeatRows=1)
+tt2.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),
+    ('BACKGROUND',(0,0),(-1,0),colors.HexColor('#dddddd')),('VALIGN',(0,0),(-1,-1),'TOP'),
+    ('LEFTPADDING',(0,0),(-1,-1),4),('RIGHTPADDING',(0,0),(-1,-1),4),
+    ('TOPPADDING',(0,0),(-1,-1),3.5),('BOTTOMPADDING',(0,0),(-1,-1),3.5),
+    ('BACKGROUND',(0,1),(-1,2),colors.HexColor('#f6ecec'))]))
+st += [tt2, Spacer(1,2*mm)]
+st.append(P("<b>The correction went in six days before he last attended work, and it is recorded as "
+            "&ldquo;Part Completed&rdquo;.</b> The employer's own myHR report shows every other "
+            "claim in the period completed within one to five days; this one alone did not complete. "
+            "&#9733; <b>On the record held, the pay identified as wrong on 9 February 2024 was never "
+            "shown to have been made right while he was still working.</b>", B))
+st.append(P("&#9888; The last part of that sentence is the Appellant's evidence and an inference from "
+            "the &ldquo;Part Completed&rdquo; status, not a proved fact. The payslips for pay dates "
+            "<b>5 June 2024</b> and <b>19 June 2024</b> would settle it and are not held.", W))
+
 st.append(P("One thread, and he is on all of it", H2))
 st.append(P("The correspondence of 3 to 21 May 2024 is a single email thread with the subject "
             "<b>&ldquo;Corey Shepherd 388372 Pay issues&rdquo;</b>, disclosed by the Respondent in the "
