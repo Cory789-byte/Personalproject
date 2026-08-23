@@ -28,6 +28,8 @@ R_TAYLOR = "Respondent's disclosure from witness conferencing (C Taylor)"
 R_REESE  = "Respondent's disclosure from witness conferencing (T Reese)"
 R_FRMS   = "Respondent's disclosure from witnesses (fatigue risk management content)"
 CE       = "Letter of Metro South Health, 5 June 2026 (ref K-LM26/729)"
+R_PAY    = "Respondent's disclosure from witness conferencing (Queensland Health Payroll)"
+HR11     = "myHR submissions report for the Appellant, 1 February to 31 May 2024, produced by Metro South Health as Item 11 of the notice of non-party disclosure"
 
 FACTS = [
  ("A", "THE EMPLOYMENT, AND THE HOURS THE APPELLANT SOUGHT"),
@@ -257,14 +259,71 @@ FACTS = [
  (82, "That decision states, under the heading \"Conclusion\": \"your injury arose out of "
       "employment, to the extent that it arose out of factors 2, 3 and 4, where employment was a "
       "significant contributing factor\".", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ ("L", "THE PAY CORRECTION - THE THREAD \"COREY SHEPHERD 388372 PAY ISSUES\""),
+ (87, "The Respondent's disclosure contains an email thread with the subject \"Corey Shepherd "
+      "388372 Pay issues\".", R_PAY),
+ (88, "The first message in that thread is dated 3 May 2024, is from PayrollMetroSouth, is "
+      "addressed to Ms C Taylor, and is copied to the Appellant.", R_PAY),
+ (89, "That message is signed \"Elaine Grant, Client Service Officer, Metro South Payroll Team, "
+      "Payroll Transactional Services, Corporate Enterprise Solutions, Corporate Services, "
+      "Queensland Health\".", R_PAY),
+ (90, "That message states: \"Corey has wages top up on fortnight 05.02.24 for 0.95mins as he is "
+      "under his contracted hours so it is toping up the missing wages from his RDO balance.\"", R_PAY),
+ (91, "That message states: \"This will be due to having a 7hr shift on 09.02.24 instead of an 8hr "
+      "shift. AVAC PRN 15397775.\"", R_PAY),
+ (92, "That message states: \"The same has happened for the next fortnight 19.02.24 due to 28.02.24 "
+      "shift AVAC PRN 15605601 has this shift as 7hrs topping up 0.95 for missing hour.\"", R_PAY),
+ (93, "That message states: \"Fortnight 18.03.24 is the opposite and has too many ordinary shifts "
+      "for the fortnight resulting in wage reduction of 7.55hrs as one of the shifts needs to be "
+      "overtime.\"", R_PAY),
+ (94, "That message states: \"Fortnight 01.04.24 is the same, 0.95hrs over contracted 76hrs needs "
+      "to be overtime.\"", R_PAY),
+ (95, "That message states: \"Please submit an AVAC to correct these shifts for each fortnight so "
+      "Cory is paid corrected and his RDO balance will then be amended.\"", R_PAY),
+ (96, "The thread contains a message dated 10 May 2024 at 2:21 pm from the Appellant, addressed to "
+      "PayrollMetroSouth and to Ms E Grant.", R_PAY),
+ (97, "The thread contains a message dated 13 May 2024 at 8:21 am from PayrollMetroSouth, addressed "
+      "to the Appellant.", R_PAY),
+ (98, "That message of 13 May 2024 states: \"I cannot see that any of the issues below have been "
+      "corrected. Please speak to your Line Manager to have them corrected with an AVAC submitted "
+      "through My HR as this will also be affecting your RDO balances as well as your pay.\"", R_PAY),
+ (99, "The thread contains a message dated 21 May 2024 at 12:33 pm from Ms C Taylor, addressed to "
+      "the Appellant, with the subject \"RE: Corey Shepherd 388372 Pay issues\".", R_TAYLOR),
+ (100, "That message of 21 May 2024 states: \"Just letting you know that I am still I am waiting "
+      "payroll confirmation about a few of these payroll issues and as soon as I do get that "
+      "confirmation, I will submit an AVAC for next pay run. I will let you know PRN once it has "
+      "been submitted.\"", R_TAYLOR),
+ (101, "The Respondent's disclosure contains a message dated 28 May 2024 at 8:36 am from Ms C "
+       "Taylor, addressed to the Appellant and copied to Ms T Reese, with the subject \"Validation "
+       "of Claims older than 3 months - Please sign\".", R_TAYLOR),
+ (102, "That message of 28 May 2024 states: \"Please find attached Validation of claims older than "
+       "3 months, please sign and return to be as soon as possible so I can escalate for delegate "
+       "approval.\"", R_TAYLOR),
+ (103, "The myHR submissions report produced as Item 11 records seven submissions for the Appellant "
+       "in the period 1 February 2024 to 31 May 2024.", HR11),
+ (104, "That report records five of those seven submissions as an \"Attendance Variation and "
+       "Allowance Claim (AVAC)\".", HR11),
+ (105, "That report records the initiator of each of those five Attendance Variation and Allowance "
+       "Claims as \"Donovan-Taylor, Chloe\".", HR11),
+ (106, "That report records the initiator of no Attendance Variation and Allowance Claim in that "
+       "period as the Appellant.", HR11),
+ (107, "That report records a submission with process number 16328886 as an Attendance Variation "
+       "and Allowance Claim submitted on 15 May 2024, with a processing date of 16 May 2024, and a "
+       "status of \"Completed\".", HR11),
+ (108, "That report records a submission with process number 16450619 as an Attendance Variation "
+       "and Allowance Claim submitted on 28 May 2024, with an effective date of 30 March 2024, a "
+       "processing date of 30 May 2024, and a status of \"Part Completed\".", HR11),
+ (109, "That report records the status of every other Attendance Variation and Allowance Claim in "
+       "the period as \"Completed\".", HR11),
+ (110, "Neither AVAC PRN 15397775 nor AVAC PRN 15605601 appears in that report.", HR11),
  ("K", "MATTERS THE RESPONDENT DOES NOT ALLEGE"),
- (83, "The Respondent does not allege that the Appellant was subject to any disciplinary process at "
+ (111, "The Respondent does not allege that the Appellant was subject to any disciplinary process at "
       "any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (84, "The Respondent does not allege that the Appellant's work performance was the subject of any "
+ (112, "The Respondent does not allege that the Appellant's work performance was the subject of any "
       "formal performance management process at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (85, "The Respondent does not allege that the Appellant was the subject of any warning, whether "
+ (113, "The Respondent does not allege that the Appellant was the subject of any warning, whether "
       "written or oral, at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (86, "The Respondent's amended statement of facts and contentions does not identify the management "
+ (114, "The Respondent's amended statement of facts and contentions does not identify the management "
       "action referred to in paragraph 27.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
  ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
@@ -346,7 +405,7 @@ s.append(P("TAKE NOTICE that the Appellant proposes to prove the facts specified
 rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"):
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
@@ -357,7 +416,7 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"):
+    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"):
         st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
@@ -485,4 +544,5 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save("out/_t.pdf"); pdf.close(); os.replace("out/_t.pdf", "out/FORM24_SECOND_NOTICE_DRAFT.pdf")
-print("built out/FORM24_SECOND_NOTICE_DRAFT.pdf - 86 facts + 27 documents")
+nf = len([f for f in FACTS if not isinstance(f[0], str)])
+print(f"built out/FORM24_SECOND_NOTICE_DRAFT.pdf - {nf} facts + 27 documents")
