@@ -1155,6 +1155,64 @@ lawyers were HopgoodGanim, that explains why the firm might hold documents *abou
 does not explain how **the Regulator's own decision** came out of that DMS **in Word** — and
 §7.4(1) forecloses the receive-and-profile route: *you cannot PDFMaker-for-Word an incoming PDF.*
 
+## 10.3c ⭐⭐⭐ THE ENGAGEMENT MECHANISM IS IDENTIFIED — QGP0059-19
+> 23 August 2026. Found in the Queensland Government contracts directory.
+
+**`QGP0059-19` — WHOLE OF GOVERNMENT LEGAL SERVICES PANEL**
+- **Department:** Department of Justice and Attorney-General
+- **Section:** Legal Services Coordination Unit
+- **Term:** 1 June 2020 – 31 May 2026 ⇒ ⭐ **covers the entire review period**
+- **Panel manager:** Jill Petrie · `Panel.Manager@justice.qld.gov.au` · 07 3738 9841
+- **31 firms**, including ⭐ **HopgoodGanim** — and also `MinterEllison`, `Clayton Utz`,
+  `Ashurst`, `Allens`, `King & Wood Mallesons`, `Herbert Smith Freehills`, `Norton Rose Fulbright`,
+  `Corrs`, `Gadens`, `McCullough Robertson`, `Holding Redlich`, `Barry Nilsson`, `Moray & Agnew`,
+  `HWL Ebsworth`, `Cooper Grace Ward`, `Gilshenan & Luton`, `Thomson Geer` …
+
+⇒ ⭐⭐⭐ **This confirms §5.3 exactly.** Panel membership makes a firm available to **every**
+Queensland Government agency, engaged **matter by matter**. It does **not** make HopgoodGanim
+"WorkCover's lawyers" *or* "the Regulator's lawyers". ⛔ **The premise of the conflict reading — that
+they are the insurer's firm — has no support and never did.**
+
+⭐ **And OIR's 76 engagements, all described "Legal Services", are almost certainly drawn under this
+panel.** The §7.8 question's phrase *"under which panel or procurement arrangement"* now has an
+obvious expected answer: **QGP0059-19**.
+
+⚠ **Equally: panel membership does NOT tell you who engaged them on THIS matter.** Any agency could.
+That question is still open and still only answerable by the agency.
+
+⭐ Small collateral point: **MSH used `MinterEllison`** for the December 2024 deed
+(`documents/2024-12-09_Deed_DRAFT_v2_MinterEllison.docx`) — a different panel firm. Weak, but it is
+a data point against the employer-paid variant.
+
+## 10.3d 📊 THE DATASET MAP — what was searched, what it showed, what is left
+
+| Dataset | Itemises legal spend? | HopgoodGanim | Verdict |
+|---|---|---|---|
+| ⭐ **OIR contract disclosure** | ✅ yes | ✅ **76 engagements, ~$1.84M, incl. 2 Oct 2024** | ⭐⭐⭐ **POSITIVE FINDING** |
+| ⭐ **WoG contracts directory** | n/a (panel register) | ✅ **panel member, QGP0059-19** | ⭐⭐ **MECHANISM IDENTIFIED** |
+| **DJAG** contract disclosure FY24-25 (1,988 recs) | ✅ yes — "Legal Solicitors Fee" itemised | ⛔ nil | ⚠ informative absence, but DJAG is not a party |
+| **WorkCover** contract disclosure (106 recs) | ⛔ **NO law firm of any kind** | ⛔ nil | ⛔⛔ **UNINFORMATIVE** |
+| **WorkCover** consultancy spending (1–8 recs/yr) | ⛔ no | ⛔ nil | ⛔⛔ **UNINFORMATIVE** |
+| **MSHHS** contract disclosure (1,872 / 1,500 / 138) | ⛔ **NO law firm of any kind** | ⛔ nil | ⛔⛔ **UNINFORMATIVE** |
+
+### ⚠ NOT YET SEARCHED — plausible, in order of likely value
+1. ⭐⭐ **QTenders** `qtenders.epw.qld.gov.au` — awarded-contract notices. **Not on data.qld.gov.au.**
+   Free, public, no account needed for awarded notices.
+2. ⭐⭐ **Queensland Parliament Questions on Notice** `parliament.qld.gov.au` — agency external legal
+   spend is a routine QON topic; answers are tabled and searchable. Free.
+3. ⭐ **OIR / WorkCover annual reports** — consultancies and external legal are reportable. WorkCover
+   is a statutory body reporting to Parliament.
+4. ⭐ **RTI disclosure logs** — OIR and DJAG publish logs of documents already released under RTI.
+   Free; occasionally someone has already asked the question.
+5. ⚠ **Queensland Audit Office** reports on procurement / legal services panels.
+
+### ⛔ THE ONLY ROUTES THAT COULD ANSWER "ENGAGED ON REVIEW 69983, BY WHOM"
+| Route | Cost | Time | Note |
+|---|---|---|---|
+| ⭐ **The §7.8 neutral question** | nil | days | Already drafted. Still unsent |
+| **RTI application to OIR** (RTI Act 2009 (Qld)) | ~$58.30 | **25 business days** | ⚠ **Lands well after 9 Sept.** Creates a record. Discipline rule 8 puts it behind the WC matter |
+| DJAG panel manager | nil | days | ⚠ Would almost certainly refer him back to OIR. **Do not use** — it puts the question to a third agency |
+
 ## 10.4 ⛔ THE ACTION — UNCHANGED, AND NOW EASIER
 
 - ⭐⭐ **Keep the reliance, unchanged.** The Regulator's own delegate found the rostering
