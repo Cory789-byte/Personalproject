@@ -1052,3 +1052,65 @@ NECESSARILY IN THE PERSON.**
 ⛔⛔ **THE HARD LINE STAYS.** ⭐ **Say it about the reasons. Never about the firm.** ⛔ **The firm's
 name does not enter a filing, a submission, or a sentence spoken in that room.** ⭐⭐ **The two
 neutral questions at §7.8 and §11.4 are the only place any of this touches paper.**
+
+---
+
+# PART 10 — ⭐⭐⭐ THE CONTRACT DISCLOSURE SEARCH, RUN 23 AUGUST 2026
+> The step recommended at §8.7 was taken. It answers the structural form of the question, and it
+> answers it AGAINST the insurer-conflict reading.
+
+## 10.1 THE FINDING
+
+**HopgoodGanim Lawyers is an established, continuing legal services supplier to the Office of
+Industrial Relations itself** — not (or not only) to WorkCover.
+
+| Period | Engagements | Value |
+|---|---|---|
+| FY2020-21 | 12 | $316,030.00 |
+| FY2021-22 | 6 | $125,840.00 |
+| FY2022-23 | 31 | $653,215.00 |
+| FY2023-24 (Jul–Nov) | 19 | $492,660.30 |
+| ⭐ **FY2024-25 Jul–Sept** | **6** | **$196,580.00** |
+| **FY2024-25 Oct–Dec** | **2** | **$58,052.50** |
+| **TOTAL** | **76** | **$1,842,377.80** |
+
+Every row: supplier `HOPGOOD GANIM LAWYERS`, `L 8 1 EAGLE ST BRISBANE`, agency `Office of
+Industrial Relations`, description `Legal Services`.
+
+⭐⭐⭐ **AN ENGAGEMENT DATED 2 OCTOBER 2024, $13,200** — one week before the DMS record date on the
+decision (`hgDMSDate 09.10.2024`), twenty-two days before the decision issued (24 Oct 2024).
+Also $106,600 on 1 July 2024; and two further engagements 2 and 12 December 2024.
+
+## 10.2 ⭐⭐ WHAT IT DOES TO THE QUESTION
+
+The structural concern (§1) was that a firm on **WorkCover's** panel had a hand in reviewing
+**WorkCover's** decision. ⇒ ⭐⭐⭐ **The public record supports the opposite: OIR engages this firm
+directly, routinely, matter by matter, and did so in the weeks either side of this review.**
+
+⇒ **Explanation 3 (§2) — "the Regulator obtained legal assistance" — now has public documentary
+support.** That is lawful: assistance is permitted provided the delegate applies her own mind, and
+Squires is a public service employee, so s 329 is satisfied on the face.
+
+## 10.3 ⚠ THE LIMITS, EXACTLY
+
+1. ⛔ **No engagement can be tied to review 69983.** All are described only as "Legal Services";
+   none carries a matter reference; none matches matter **2440758**.
+2. ⚠⚠ **THE WORKCOVER SIDE WAS NOT CHECKED.** WorkCover Queensland publishes its own disclosure,
+   but those resources have **no datastore** and direct CSV/XLSX downloads returned **HTTP 202 with
+   an empty body** through the session proxy. ⇒ **Whether HopgoodGanim ALSO acts for WorkCover
+   remains unknown.** If it does, a conflict question could still arise — but matter-specific, not
+   structural. ⭐ **OPEN ITEM: re-run from an unproxied machine.**
+3. ⚠ Engagements **under $10,000 are not published** — an absence proves nothing.
+4. ⛔ **It still does not establish who decided.** The limit is unchanged.
+
+## 10.4 ⛔ THE ACTION — UNCHANGED, AND NOW EASIER
+
+- ⭐⭐ **Keep the reliance, unchanged.** The Regulator's own delegate found the rostering
+  unreasonable, a psychological injury sustained, employment **a significant contributing factor**.
+- ⭐ The §7.8 neutral question, if ever sent, now has an **expected answer**: *yes, by the
+  Regulator, under its standing arrangement*. That is complete and unremarkable.
+- ⛔ **Still not a ground.** s 550(4) de novo. Nothing here changes that.
+
+**Method:** data.qld.gov.au CKAN `datastore_search`, query `hopgood`, filtered on supplier name,
+across the OIR contracts disclosure dataset and the FY2024-25 quarterly datasets. 23 August 2026.
+
