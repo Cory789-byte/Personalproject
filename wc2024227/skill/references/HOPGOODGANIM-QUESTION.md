@@ -1095,13 +1095,34 @@ Squires is a public service employee, so s 329 is satisfied on the face.
 
 1. ⛔ **No engagement can be tied to review 69983.** All are described only as "Legal Services";
    none carries a matter reference; none matches matter **2440758**.
-2. ⚠⚠ **THE WORKCOVER SIDE WAS NOT CHECKED.** WorkCover Queensland publishes its own disclosure,
-   but those resources have **no datastore** and direct CSV/XLSX downloads returned **HTTP 202 with
-   an empty body** through the session proxy. ⇒ **Whether HopgoodGanim ALSO acts for WorkCover
-   remains unknown.** If it does, a conflict question could still arise — but matter-specific, not
-   structural. ⭐ **OPEN ITEM: re-run from an unproxied machine.**
+2. ✅⭐⭐⭐ **THE WORKCOVER SIDE IS NOW CHECKED — AND IT IS NIL.** Cory downloaded the WorkCover
+   Queensland FY2023-24 disclosure himself (23 Aug 2026) and supplied it. **106 contracts,
+   83 distinct suppliers, and HOPGOODGANIM APPEARS NOWHERE.** Searched "hopgood", "lawyer",
+   "legal", "solicit" across all sheets — **zero matches**. The only legal-adjacent suppliers are
+   `LEXIS NEXIS BUTTERWORTHS` (a publisher) and `PKF INTEGRITY SERVICES` (forensic/integrity).
+   ⇒ ⭐⭐⭐ **HopgoodGanim is the REGULATOR'S supplier and is not on the INSURER'S books.** The
+   structural conflict reading — "WorkCover's firm touched WorkCover's review" — is **refuted on
+   the public record**, not merely unsupported.
+   ⚠ **Residual:** this is **FY2023-24**; the decision is **24 Oct 2024 = FY2024-25**. The
+   FY2024-25 WorkCover file exists on the same dataset page and has not yet been checked.
+   ⭐ **OPEN ITEM (small): pull "WorkCover Queensland Contract Disclosure Report 2024 - 2025".**
 3. ⚠ Engagements **under $10,000 are not published** — an absence proves nothing.
 4. ⛔ **It still does not establish who decided.** The limit is unchanged.
+
+## 10.3a ⭐⭐⭐ THE NET POSITION AFTER BOTH SIDES WERE SEARCHED
+
+| | HopgoodGanim engagements |
+|---|---|
+| **Office of Industrial Relations** (the reviewer) | ⭐ **76 engagements, ~$1.84M**, standing supplier, incl. **2 Oct 2024** — 3 weeks before the decision |
+| **WorkCover Queensland** (the insurer) | ⛔ **NIL in FY2023-24.** Not one contract, out of 106 |
+
+⇒ ⭐⭐⭐ **The premise of the whole line of inquiry is inverted.** The firm whose DMS profile sits on
+the decision is **the Regulator's own lawyers**, not the insurer's. The independence Chapter 13
+provides is independence **OF THE INSURER** — and the insurer's lawyers were not involved, because
+this is not the insurer's firm.
+
+⭐⭐ **This is the strongest form of closure available without asking anybody anything.** It came
+from public data, cost nothing, and created no exposure.
 
 ## 10.4 ⛔ THE ACTION — UNCHANGED, AND NOW EASIER
 
