@@ -1213,6 +1213,50 @@ a data point against the employer-paid variant.
 | **RTI application to OIR** (RTI Act 2009 (Qld)) | ~$58.30 | **25 business days** | ⚠ **Lands well after 9 Sept.** Creates a record. Discipline rule 8 puts it behind the WC matter |
 | DJAG panel manager | nil | days | ⚠ Would almost certainly refer him back to OIR. **Do not use** — it puts the question to a third agency |
 
+## 10.3e ⛔⛔⛔ SECOND CORRECTION, 23 AUGUST 2026 — WORKCOVER *DOES* ENGAGE HOPGOODGANIM
+> ⛔ **10.3(2) and 10.3a are BOTH now superseded.** The FY2023-24 nil was a single-year artefact.
+> Searching **every WorkCover disclosure year with a live datastore** finds the firm.
+
+**WorkCover Queensland, FY2021-22:**
+
+| Date | Value | Supplier | Description |
+|---|---|---|---|
+| 10 Sep 2021 | **$112,500.00** | ⭐⭐⭐ **HOPGOOD GANIM** | **"Legal advice to assist with determination of PPI Claims"** |
+| 10 Sep 2021 | $112,500.00 | COOPER GRACE WARD | same description |
+| 10 Sep 2021 | $112,500.00 | DWF (AUSTRALIA) | same description |
+
+⇒ ⭐⭐⭐ **THREE FIRMS, SAME DATE, SAME VALUE, SAME DESCRIPTION** = a **claims-determination legal
+panel** stood up by the insurer. **HopgoodGanim is on it.**
+⭐⭐ **"PPI Claims" = permanent partial impairment — i.e. ADVICE ON DETERMINING WORKERS'
+COMPENSATION CLAIMS.** That is the insurer's core decision-making function.
+
+**Other WorkCover legal suppliers found across years:** Patane Lawyers and Results Legal (debt
+recovery, FY2019-20) · Herbert Smith Freehills (FY2019-20) · Holding Redlich (FY2021-22) ·
+MinterEllison and Clayton Utz (FY2025-26).
+
+## 10.3f ⭐⭐ WHAT THIS ACTUALLY MEANS — STATED CAREFULLY
+
+| | |
+|---|---|
+| ✅ **HopgoodGanim acts for the REGULATOR** | 76 engagements, ~$1.84M, incl. **2 Oct 2024** |
+| ✅⭐ **HopgoodGanim ALSO acts for the INSURER** | **$112,500, 10 Sep 2021**, advising on **claim determination** |
+| ⇒ | ⭐⭐⭐ **The firm is on both sides of the scheme.** The §1 structural concern is **NOT answered** |
+
+⛔ **BUT THE LIMITS ARE UNCHANGED AND THEY STILL DECIDE IT:**
+1. ⛔ The WorkCover engagement is **September 2021** — **three years before** this review, and on
+   **PPI claims**, a different subject matter. **Nothing ties it to this claim or this review.**
+2. ⛔ **Panel firms are engaged matter by matter** (§5.3, and QGP0059-19 confirms it). Acting for
+   both agencies at large is **not** acting on both sides of the *same* matter — which is what the
+   conduct rules actually prohibit.
+3. ⛔ **Still nothing establishes who decided.** Unmoved all day.
+4. ⚠ **FY2022-23, FY2023-24 and FY2024-25 have NO live datastore** — only the supplied FY2023-24
+   file, which is nil. **The years closest to the review are the ones that cannot be searched by
+   API.** ⭐ **OPEN: obtain WorkCover FY2024-25 and FY2022-23 manually.**
+
+⇒ ⭐⭐ **The honest position: the firm serves both the insurer and the reviewer. That makes the
+question REASONABLE to ask — which it always was. It does not make it ANSWERED, and it is still
+not a ground under s 550(4).**
+
 ## 10.4 ⛔ THE ACTION — UNCHANGED, AND NOW EASIER
 
 - ⭐⭐ **Keep the reliance, unchanged.** The Regulator's own delegate found the rostering
