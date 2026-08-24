@@ -14,7 +14,7 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
 # ---- import the single source of truth for the facts + documents ----
 src = open('build_form24_second.py').read()
 _blk = src[src.index('R_TAYLOR ='):src.index('\n]\n', src.index('FACTS = ['))+2]
-_renumber = src[src.index('_n = 0\n'):src.index('del _n, _new')+len('del _n, _new')]
+_renumber = src[src.index('_SRC = {'):src.index('del _n, _new')+len('del _n, _new')]
 ns = {}
 exec(_blk, {}, ns)
 exec(_renumber, {}, ns)

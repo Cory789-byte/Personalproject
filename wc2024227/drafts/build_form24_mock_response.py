@@ -43,6 +43,8 @@ def cls(f):
     if s.startswith('Consultation'):           return 'N','Employer document, not in the Respondent\'s List.'
     if s.startswith('Email of Mr Heath Moran'):return 'N','Union document, not in the Respondent\'s List.'
     if s.startswith('Email of Ms L Forrest'):  return 'N','2026 employer document, post-dating the claim.'
+    if s.startswith("Respondent's response to the Appellant's notice"):
+                                               return 'A!','Already admitted by the Respondent on 18 February 2026. Cannot be withdrawn without leave.'
     if s.startswith('Affidavit'):              return 'A','Filed in the proceeding.'
     if 'disclosure in this proceeding' in s:   return 'A~','A statement about the Respondent\'s own disclosure; it can check it. Expect admission, possibly qualified "as at the date of this response".'
     if s.startswith("Respondent's disclosure - the Integrated"): return 'A','Own disclosure.'
@@ -66,8 +68,8 @@ for f in F:
     f['v'], f['r'] = v, r
 json.dump(F, open('/tmp/f185v.json','w'), indent=2)
 
-LABEL = {'A':'Admitted','A*':'Admitted','A~':'Admitted','N':'Not admitted','D?':'Denied (likely)'}
-FILL  = {'A':'#e8f4e8','A*':'#e8f4e8','A~':'#e8f4e8','N':'#fdf3e0','D?':'#fbe4e4'}
+LABEL = {'A!':'Admitted','A':'Admitted','A*':'Admitted','A~':'Admitted','N':'Not admitted','D?':'Denied (likely)'}
+FILL  = {'A!':'#cfe9cf','A':'#e8f4e8','A*':'#e8f4e8','A~':'#e8f4e8','N':'#fdf3e0','D?':'#fbe4e4'}
 
 H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=13, leading=16, spaceAfter=3)
 SUB = ParagraphStyle('SUB',fontName='Helvetica', fontSize=8.6, leading=11.5,
@@ -85,7 +87,7 @@ st=[P("Mock response to the notice to admit facts",H1),
 
 from collections import Counter
 c=Counter(f['v'] for f in F)
-adm = c['A']+c['A*']+c['A~']
+adm = c['A']+c['A*']+c['A~']+c['A!']
 st.append(P(f"<b>{adm} of {len(F)} facts admitted</b> ({adm*100//len(F)}%). "
             f"{c['N']} not admitted. {c['D?']} likely denied. The admissions are forced because the "
             "documents behind them are the Respondent's own decision, its own pleading, its own List of "

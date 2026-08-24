@@ -111,6 +111,9 @@ ITEMS = [
     "2025-11-03_Together_Moran_delegate_endorsement_Shepherd_Jeffrey_Conaghan.pdf", 1, None),
  (25, "Review Decision 69983, Workers' Compensation Regulator", "24 October 2024",
     "Review_Decision_69983_24.10.2024.pdf", 1, None),
+ (26, "Respondent's response to the Appellant's notice to admit facts, signed by Ms R Matheson, "
+    "Senior Appeals Officer", "18 February 2026",
+    "2026-02-18_Form24_Response_and_email_communication.pdf", 7, 10),
 ]
 
 built, errs, idx_rows = [], [], []
