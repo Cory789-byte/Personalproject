@@ -53,10 +53,14 @@ ITEMS = [
   "2023 Ms Reese sent him HR Policy E12. The Appellant did not submit a grievance under that "
   "policy in 2023.", ("G",)),
  ("1(d)", "The Special Pandemic Leave application",
-  "In February 2024 Ms Taylor declined the Appellant's Special Pandemic Leave application on the "
-  "basis that the required statutory declaration was not attached. The Respondent pleads that a "
-  "review indicates the attachments were in fact present, and that the decline was \"a matter of "
-  "human error by Ms Taylor\".", ("F",)),
+  "The myHR history for Process Reference 15480560 records the Appellant submitting the request on "
+  "three occasions between 20 and 29 February 2024, Ms Taylor declining it twice as \"Reviewer\", "
+  "then approving it thirteen minutes after the third submission, and Ms Reese approving it as "
+  "\"Manager\" on 1 March 2024. The Respondent pleads that a review indicates the attachments were "
+  "in fact present and that the decline was \"a matter of human error by Ms Taylor\". The "
+  "sub-delegation instrument of 5 December 2022 confines the power to approve or not approve paid "
+  "Special Pandemic Leave to a Band 9 delegate and does not permit further sub-delegation.",
+  ("F",)),
  ("1(g)", "The union delegate and the roster consultation",
   "In April 2023 the Appellant notified Ms Taylor by text that he was \"just putting his hand up\" "
   "in relation to the role of union delegate, which the Respondent admitted on 18 February 2026. "

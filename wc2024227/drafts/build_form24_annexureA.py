@@ -114,6 +114,12 @@ ITEMS = [
  (26, "Respondent's response to the Appellant's notice to admit facts, signed by Ms R Matheson, "
     "Senior Appeals Officer", "18 February 2026",
     "2026-02-18_Form24_Response_and_email_communication.pdf", 7, 10),
+ (33, "myHR leave request history for Process Reference 15480560, produced by Metro South Health "
+    "as Item 11 of the notice of non-party disclosure", "20 February to 1 March 2024",
+    "disclosure-2026-06_MSH_production/Item 11 AVAC PRN 15480560 History.pdf", 1, None),
+ (34, "Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special "
+    "Pandemic Leave, signed by Ms N Cridland, produced as Item 13", "effective 5 December 2022",
+    "disclosure-2026-06_MSH_production/item 13 delegation-hr-covid-directive-special-and-pandemic-leave-51222.pdf", 1, None),
 ]
 
 built, errs, idx_rows = [], [], []
