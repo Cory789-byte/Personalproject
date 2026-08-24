@@ -32,327 +32,286 @@ R_PAY    = "Respondent's disclosure from witness conferencing (Queensland Health
 HR11     = "myHR submissions report for the Appellant, 1 February to 31 May 2024, produced by Metro South Health as Item 11 of the notice of non-party disclosure"
 
 FACTS = [
- ("A", "THE EMPLOYMENT, AND THE HOURS THE APPELLANT SOUGHT"),
- (1, "The Appellant has been employed by Metro South Hospital and Health Service since 2019.",
+ ("A", "THE ROLE, AND WHAT IT REQUIRED"),
+ (1, "Metro South Hospital and Health Service produced a role description for the position of Administration Officer, Switchboard Services, classification AO3, Logan Hospital.",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (2, "That role description states: \"The occupant of this position is required to work continuous shift work over the full 24-hour period, 7 days a week\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (3, "That role description states: \"This position reports to the Switchboard Manager, Corporate Services, Logan Hospital\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (4, "That role description names the contact for the position as \"Chloe Taylor\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (5, "That role description states, as a key responsibility: \"Maintain call queues to minimum at all times\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (6, "That role description states, as a key responsibility: \"Collate information and maintain Omnivista database and SharePoint to ensure information held within Switchboard Services is accurate and appropriate\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (7, "That role description states, as a key responsibility: \"Provide a service to support hospital staff in the allocation, coordination, and fault repair of all pager units for the hospital. This includes allocating pagers to hospital staff and submitting paging units for repair, maintaining database and registers with accurate and current information\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (8, "That role description states, as a key responsibility: \"Participate in the Emergency Response process by receiving emergency response notifications and distributing them to the appropriate response groups, dependent on the category of emergency, as per emergency code procedures, strictly adhering to protocols and timeframes\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (9, "That role description states, as a key responsibility: \"Maintain discretion and exercise judgement where necessary to resolve problems within the scope of your role; in situations where precedence have not been set and procedures not defined\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (10, "That role description states, as a key responsibility: \"The ability to multitask and operate under pressure, particularly where high volume call traffic is concerned\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (11, "That role description states, as a key responsibility: \"Ability to work effectively as an individual with limited supervision to meet deadlines and establish work priorities\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (12, "That role description states, as a key responsibility: \"Follow defined service quality standards, occupational health and safety policies and procedures relating to the work being undertaken to ensure high quality, safe services and workplaces\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (13, "That role description states, under mandatory requirements: \"The position is a continuous shift working role. You must be able to work a roster which covers multiple shifts over a 24/7 period\".",
+     "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
+ (14, "The Appellant has been employed by Metro South Hospital and Health Service since 2019.",
      "Appellant's amended statement of facts and contentions"),
- (2, "On 7 August 2023 at 12:21 pm the Appellant sent an email to Ms Chloe Taylor, Ms Tammy Reese, "
-     "Ms Patricia Conaghan and Ms Tracey Smith, marked of High importance, which states: "
-     "\"Furthermore, to meet the demands and the additional hours of the department both Patricia "
-     "Conaghan and I would like to formally adhoc an additional 2 shifts per fortnight.\"", R_REESE),
- (3, "That email sets out clause 11.7 of the applicable agreement, headed \"Additional Permanent "
-     "Hours for Part-time Employees\".", R_REESE),
- (4, "On 8 August 2023 at 6:06 pm the Appellant sent an email to Ms Reese which states: \"I can "
-     "confirm that I will be in tomorrow 0700-1500 9th August. I was also looking to pick up "
-     "another shift if possible.\"", R_REESE),
- (5, "On 8 August 2023 at 4:15 pm Ms Reese sent an email to the Appellant which states: \"can I ask "
-     "were you looking for another shift on top of those 8 to replace the shift missed today "
-     "also?\"", R_REESE),
- (6, "On 31 August 2023 the Appellant provided to Ms Taylor a written application headed \"Request "
-     "to Increase Working Hours to Full Time Rotational Roster\".", R_REESE),
- (7, "That application states: \"I have also expressed my willingness to take on additional night "
-     "shifts as part of the roster.\"", R_REESE),
- (8, "On 4 September 2023 the Appellant sent an email to Ms Reese which states: \"I confirm that I "
-     "am able and willing to work any roster that is presented to me, including the current "
-     "schedule with full 24-hour availability.\"", R_REESE),
- (9, "That email states: \"I have no issues with shift work.\"", R_REESE),
- (10, "That email attached a draft roster spreadsheet prepared by the Appellant.", R_REESE),
- (11, "On 8 September 2023 at 11:42 am Ms Reese sent an email to the Appellant which states: \"I am "
-      "glad to hear things seem to be going well with Chloe and I am also glad to hear you applied "
-      "for the additional shifts through the recent EOI.\"", R_REESE),
- (12, "On 27 September 2023 at 1:52 pm Ms Taylor sent an email to the Appellant with the subject "
-      "\"Approved - Permanent Full Time FTE\" which states: \"Just giving you an update on your "
-      "application for Permanent Fulltime hours, I am very pleased to advise you that this has been "
-      "approved.\"", "Email of Ms C Taylor, 27 September 2023"),
- (13, "That email states: \"happy to commence Full-time hours from the 16th October 2023\".",
-      "As above"),
- ("B", "THE MATTERS RAISED IN AUGUST AND SEPTEMBER 2023, AND THE RESPONSE TO THEM"),
- (14, "The Appellant's email of 7 August 2023 at 12:21 pm states: \"Please give me some space and "
-      "stop with any further communication as I have had enough of it.\"", R_REESE),
- (15, "On 7 August 2023 at 1:43 pm Ms Taylor replied to the Appellant, copied to Ms Reese and "
-      "Ms Smith, stating: \"My sincere apologises about your rostered Monday 7th 0700-1500 shift, I "
-      "can confirm this was an oversight.\"", R_REESE),
- (16, "That email of Ms Taylor states: \"Would you like me to roster you off tomorrow Tuesday 8th "
-      "0700-1500 to give you the required rest period\".", R_REESE),
- (17, "On 7 August 2023 at 3:13 pm Ms Reese replied to the Appellant stating: \"As Chloe is your "
-      "current line manager and as such you are required to continue to communicate with Chloe for "
-      "work related issues, shift concerns, leave, etc.\"", R_REESE),
- (18, "On 7 August 2023 at 5:11 pm Ms Reese sent an email to Ms Taylor attaching a document titled "
-      "\"Rostered shifts Cory S. past 8 months.xlsx\", which states: \"can I ask if you can send me "
-      "an email of your recent communication with Cory about contacting yourself about missed "
-      "shifts, as I could not find a copy of this email.\"", R_REESE),
- (19, "On 29 August 2023 at 6:57 pm Ms Reese sent the Appellant an email attaching HR Policy E12 - "
-      "Individual Employee Grievances, and setting out how a grievance could be submitted.", R_REESE),
- (20, "On 4 September 2023 the Appellant replied to Ms Reese stating: \"I have also spoken to "
-      "Chloe. We are seemingly on the path to working in a beneficial way and hopefully will not "
-      "need to go through this process.\"", R_REESE),
- (21, "The Appellant did not submit a grievance under HR Policy E12 in 2023.", R_REESE),
- ("C", "THE PROCESS FOR NOTIFYING UNAVAILABILITY FOR A ROSTERED SHIFT"),
- (22, "On 15 April 2024 at 12:39 pm Ms Taylor sent an email to Logan Switch, copied to Ms Reese and "
-      "to Switchboard staff including the Appellant, with the subject \"Afterhours Oncall Process - "
-      "Switchboard\".",
-      "Respondent's amended List of Documents, item 25 (email of 29 August 2024, attachment \"Email: After hours on call process\")"),
- (23, "That email states: \"Process during office hours remains the same, please contact myself "
-      "through switch/office or mobile unless otherwise advised.\"", "As above"),
- (24, "That email states: \"This new process is effective from today.\"", "As above"),
- (25, "That email states: \"You will see that Ellen and myself have added Afterhours on call, the "
-      "days that are highlighted in purple show who is on call after hours.\"", "As above"),
- (26, "Ms Taylor signed that email as \"A/Switchboard Manager\".", "As above"),
- (27, "On 14 May 2024 at 12:08 pm Ms Taylor sent an email to the Appellant, copied to Ms Reese, "
-      "with the subject \"Sick leave 14.05.24\", which states: \"in business hours you are to "
-      "follow the correct process and speak to me directly if its regarding emergent leave, you can "
-      "contact me either through switch or my office/mobile.\"", R_TAYLOR),
- (28, "On 17 May 2024 at 9:30 am Ms Taylor sent an email to Logan Switch and Switchboard staff, "
-      "copied to Ms Reese, which states: \"regardless of my start/finish times next week you are to "
-      "please contact me through the day/afterhours either via switch, office or mobile.\"", R_TAYLOR),
- (29, "On 17 May 2024 at 1:20 pm Ms Taylor sent an email to Ms Adriana McNamee with the subject "
-      "\"FW: Office Hours and Departmental Directives\", which states: \"when staff call in for any "
-      "leave to please contact me either via switch, office or my mobile.\"", R_TAYLOR),
- (30, "On 13, 14 and 15 May 2024 the Appellant notified his unavailability for his rostered shift "
-      "by telephoning the Switchboard.",
-      "Ms Taylor's email to Ms McNamee, 17 May 2024, which records each of those three calls"),
- (31, "The document entitled \"Logan Hospital Switchboard Sick Leave Process\", version 1.1, is "
-      "dated 4 February 2025.",
-      "Attachment to the letter of Mr Scott Hughes dated 8 September 2025, page 1"),
- ("D", "ROSTER CONCERNS AND THE EMPLOYER'S KNOWLEDGE OF FATIGUE BEFORE 18 JUNE 2024"),
- (32, "On 26 April 2024 at 1:52 pm Ms Reese sent an email to the Appellant with the subject "
-      "\"Roster Concerns\", referring to a meeting on 16 April 2024 at which the Appellant raised a "
-      "roster line ending with night shifts followed by three days off and then returning to night "
-      "shifts.", R_REESE),
- (33, "That email states that Ms Taylor \"was working to fix this error and would get in touch with "
-      "you about what alternative shifts she could offer\".", R_REESE),
- (34, "On 1 May 2024 at 1:18 pm the Appellant sent an email to Ms Reese with the subject \"Roster "
-      "Concerns\" referring to section 4, clause 10.4.1 of the Operations Manual and stating: "
-      "\"This section includes a toolkit required by management to manage fatigue and implement "
-      "appropriate protocols and adhere to the workplace health and safety act.\"", R_REESE),
- (35, "That email states: \"I forwarded the toolkit to Chloe last week for review and action but "
-      "have yet to receive feedback\".", R_REESE),
- (36, "On 8 May 2024 at 9:08 am Ms Reese replied to the Appellant stating: \"Thanks for raising "
-      "these observations and concerns. I am following up with regards to these with HR for further "
-      "advice and I will get back to you asap with a response.\"", R_REESE),
- (37, "On 10 May 2024 at 2:08 pm Ms Reese sent an email to Mr Mackenzie Pritchard of Human "
-      "Resources forwarding the Appellant's email of 1 May 2024, which states: \"I think he is "
-      "trying to raise that he has concerns over how his manager is rostering for the Switchboard "
-      "team and how it is impacting on staff fatigue, or more specifically his fatigue.\"", R_FRMS),
- (38, "That email states: \"as per Cory's second extract detailing the Roster Risk assessment "
-      "Matrix, Chloe and I have run thought this and we say at best there would be a rating of 11 "
-      "which is moderate\".", R_FRMS),
- (39, "That email states: \"I acknowledge there has been a few rostering errors made by Chloe with "
-      "regards to Cory's line in past rosters\".", R_FRMS),
- (40, "That email attached the document \"qh-gdl-401-3.3\", being the Queensland Health Fatigue "
-      "Risk Management Systems Implementation Guideline.", R_FRMS),
- (41, "On 20 May 2024 at 4:07 pm Ms Reese sent an email to LBH_HR which states: \"I am just "
-      "following up on this query I raised a little while ago in relation to a email I had received "
-      "from a staff member about our rostering practices. Thus if someone might be able to give me "
-      "a call regarding these staff concerns, that would be great.\"", R_FRMS),
- ("F", "THE APPELLANT'S CONTEMPORANEOUS ACCOUNT, AND THE DOCUMENTS THE RESPONDENT LISTS"),
- (48, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 12 an email "
-      "from the Appellant to WorkCover Queensland dated 12 July 2024 with the attachment described "
-      "as \"Event overview - undated\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
- (49, "That amended List of Documents lists at item 14 an email from the Appellant to WorkCover "
-      "Queensland dated 18 July 2024 with the attachment described as \"Witness statement - "
-      "Carolyn Jeffrey\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
- (50, "That amended List of Documents lists at item 16 an email from Ms Carolyn Jeffrey to "
-      "WorkCover Queensland dated 1 August 2024 described as a follow up statement.", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
- (51, "That amended List of Documents lists at item 25 an email from the Appellant to WorkCover "
-      "Queensland dated 29 August 2024 described as regarding the after hours on call change, with "
-      "the attachment described as \"Email: After hours on call process\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
- (52, "That amended List of Documents lists at item 26 an email from the Appellant to WorkCover "
-      "Queensland dated 30 August 2024 described as regarding failure to consult, with the "
-      "attachment described as \"Email: Task change switchboard - 19/04/2024\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
- (53, "That amended List of Documents lists at item 27 an email from the Appellant to WorkCover "
-      "Queensland dated 30 August 2024 described as regarding failure to consult, with the "
-      "attachment described as \"Email: MASPER process - 09/05/2024\".", "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
- (54, "The Appellant provided the document described at item 12 to WorkCover Queensland on "
-      "12 July 2024.", "As above; and the Appellant's email of that date"),
- ("G", "THE DOCUMENTS PARTICULARISING STRESSOR 1(a), SERVED ON THE RESPONDENT 11 AUGUST 2026"),
- (55, "On 11 August 2026 the Appellant served on the Respondent a bundle titled \"Stressor 1(a) - "
-      "Particulars support bundle\", comprising 30 pages and six tabs, each stating a particular of "
-      "Stressor 1(a) of the Amended Form 9A and enclosing the documents recording it.",
-      "The bundle, and the Appellant's covering email of 11 August 2026"),
- (56, "On 15 May 2024 at 11:47 am Ms Sue Marriott, Administration Officer, Integrated Respiratory "
-      "Service, sent an email to Logan Switch, marked of High importance, which states: \"Could you "
-      "please amend your number registry/directory to show #8768 belongs to the Integrated "
-      "Respiratory Service... We are not Respiratory Medical OPD and we do not have any doctors "
-      "working out of this area.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
- (57, "On 20 May 2024 at 11:03 am Ms Marriott sent a further email to Logan Switch, marked of High "
-      "importance, which states: \"Just a courtesy reminder, we continue to get calls put through "
-      "to us for Respiratory Medical Outpatients... we can not help patients or other clinical "
-      "staff with OPD issues.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
- (58, "On 20 May 2024 at 2:05 pm the Appellant sent an email to Ms Taylor, marked of High "
-      "importance, which states: \"switchboard staff may not be aware of the clinics due to "
-      "modifications to the Document: Outpatients Department - Clinic contact Details. on the 22nd "
-      "of February 2024. I recommend a modification and review of the document.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
- (59, "On 20 May 2024 at 4:30 pm Ms Taylor replied to the Appellant, stating: \"Thank you for "
-      "bringing this to my attention however this task was being actioned. I had discussed with "
-      "Richard this morning about the update of outpatients respiratory/medical.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
- (60, "That reply of Ms Taylor states: \"Taking note of your recommendation, we can also put the "
-      "updated procedures out to the team for consultation before implementing.\"", "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
- (61, "Ms Taylor's email to all Switchboard staff of 17 May 2024 at 9:30 am states: \"My office "
-      "hours can vary due to having to take my girls to school in the morning, on the days that I "
-      "do have school drop off I always let switch know that I will be in later between "
-      "0800-830am. Otherwise my hours are from 06:30-14:30.\"", R_TAYLOR),
- (62, "That email states: \"Moving forward so communication is clear for the team, I will be "
-      "sending an email to switch to advise of any change to my office hours for the week.\"",
-      R_TAYLOR),
- ("H", "THE BREAK OF 17-18 MARCH 2024, THE 2020 AGREEMENT, AND THE LEAVE TAKEN ON 19 MARCH 2024"),
- (63, "By letter dated 7 July 2026 Ms Lyndelle Forrest, Senior Consultant, Human Resources, Logan "
-      "and Beaudesert Health Service, wrote to the Appellant stating that the roster \"provides "
-      "more than 10-hour breaks between shifts\".", "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
- (64, "That letter states: \"acknowledge you also signed an 8 hour agreement on 17 June 2020, "
-      "which allows you to work with only an 8 hour break, however this is only applied where "
-      "staff initiated shift swaps have occurred.\"", "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
- (65, "The Respondent does not allege that the consecutive shifts of 17 and 18 March 2024 arose "
-      "from a staff initiated shift swap.",
-      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (66, "The Leave Takings Report produced by Metro South Hospital and Health Service in respect of "
-      "19 March 2024 records the Leave Category as \"Sick\", the Leave Type as \"Sick Leave\", the "
-      "Time Code as \"SCK\", the Leave Taken as 7.60 hours, and the Leave Status as \"APPROVED\".",
-      "Item 15 QH Leave Takings Report, produced by Metro South Health"),
- (67, "The Respondent's amended statement of facts and contentions dated 13 May 2026 states at "
-      "paragraph 24(a): \"says that the appellant took leave on 19 March 2024 but says this was "
-      "paid leave\".", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (68, "That amended statement of facts and contentions states at paragraph 24(b): \"says that "
-      "pursuant to clause 18.10 of the Award, the appellant is not entitled to fatigue leave, "
-      "because he was not performing overtime\".", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (69, "That amended statement of facts and contentions states at paragraph 27: \"The respondent "
-      "contends that any management action involved in the causation of any injury to the Plaintiff "
-      "was reasonable management action taken in a reasonable way pursuant to s 32(5) WCRA.\"",
-      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- ("I", "MATTERS NOT DONE, AND MATTERS NOT AVAILABLE"),
- (70, "The Respondent does not allege that any fatigue risk assessment was conducted in respect of "
-      "the Appellant's position at any time before 30 June 2024.",
-      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (71, "The Respondent does not allege that any fatigue risk management training was provided to the "
-      "Appellant in respect of his position at any time before 30 June 2024.",
-      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (72, "The Respondent does not allege that fatigue risk management assessment was implemented at "
-      "Logan Hospital Switchboard at any time before 30 June 2024.",
-      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (73, "No fatigue leave was available to the Appellant under clause 18.10 of the Award in respect "
-      "of the consecutive shifts of 17 and 18 March 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026, paragraph 24(b)"),
- (74, "The Respondent does not allege that any written procedure governing the notification of "
-      "unavailability for a rostered shift at Logan Hospital Switchboard existed before "
-      "4 February 2025.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (75, "The Respondent does not allege that any change was made to the operating procedures of Logan "
-      "Hospital Switchboard as a consequence of any employee complaint over the period 1 December "
-      "2023 to 30 June 2024.",
-      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (76, "The Respondent has not disclosed any document recording consultation with Switchboard "
-      "operators before the change communicated by the email of 15 April 2024.",
-      "Respondent's amended List of Documents dated 14 August 2026"),
- ("J", "THE RESPONDENT'S OWN REVIEW DECISION OF 24 OCTOBER 2024"),
- (77, "Review Decision 69983 dated 24 October 2024 records that in its response the employer "
-      "included an extract of the Hospital and Health Services General Employees (Queensland "
-      "Health) Award which \"stated that employees must be provided with a break of not less than "
-      "10 hours between the termination of one shift and the commencement of another shift, and 8 "
-      "hours applied instead of 10 only in specific circumstances\".", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
- (78, "That decision states: \"The break between the shift on 17 March 2024 and 18 March 2024 "
-      "equated to 7 hours.\"", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
- (79, "That decision states: \"Even if you were allowed to leave early on 17 March 2024 as "
-      "suggested by the employer, you left a maximum of 30 minutes early, which meant you still did "
-      "not receive a minimum 8-hour break.\"", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
- (80, "That decision states: \"Based on this, I find the rostering of these two shifts amounted to "
-      "unreasonable management action given that it was in direct contradiction to the award and "
-      "the 8-hour agreement.\"", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
- (81, "That decision states, under the heading \"Conclusion\": \"you sustained a personal injury "
-      "of a psychological nature\".", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
- (82, "That decision states, under the heading \"Conclusion\": \"your injury arose out of "
-      "employment, to the extent that it arose out of factors 2, 3 and 4, where employment was a "
-      "significant contributing factor\".", "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
- ("L", "THE PAY CORRECTION - THE THREAD \"COREY SHEPHERD 388372 PAY ISSUES\""),
- (87, "The Respondent's disclosure contains an email thread with the subject \"Corey Shepherd "
-      "388372 Pay issues\".", R_PAY),
- (88, "The first message in that thread is dated 3 May 2024, is from PayrollMetroSouth, is "
-      "addressed to Ms C Taylor, and is copied to the Appellant.", R_PAY),
- (89, "That message is signed \"Elaine Grant, Client Service Officer, Metro South Payroll Team, "
-      "Payroll Transactional Services, Corporate Enterprise Solutions, Corporate Services, "
-      "Queensland Health\".", R_PAY),
- (90, "That message states: \"Corey has wages top up on fortnight 05.02.24 for 0.95mins as he is "
-      "under his contracted hours so it is toping up the missing wages from his RDO balance.\"", R_PAY),
- (91, "That message states: \"This will be due to having a 7hr shift on 09.02.24 instead of an 8hr "
-      "shift. AVAC PRN 15397775.\"", R_PAY),
- (92, "That message states: \"The same has happened for the next fortnight 19.02.24 due to 28.02.24 "
-      "shift AVAC PRN 15605601 has this shift as 7hrs topping up 0.95 for missing hour.\"", R_PAY),
- (93, "That message states: \"Fortnight 18.03.24 is the opposite and has too many ordinary shifts "
-      "for the fortnight resulting in wage reduction of 7.55hrs as one of the shifts needs to be "
-      "overtime.\"", R_PAY),
- (94, "That message states: \"Fortnight 01.04.24 is the same, 0.95hrs over contracted 76hrs needs "
-      "to be overtime.\"", R_PAY),
- (95, "That message states: \"Please submit an AVAC to correct these shifts for each fortnight so "
-      "Cory is paid corrected and his RDO balance will then be amended.\"", R_PAY),
- (96, "The thread contains a message dated 10 May 2024 at 2:21 pm from the Appellant, addressed to "
-      "PayrollMetroSouth and to Ms E Grant.", R_PAY),
- (97, "The thread contains a message dated 13 May 2024 at 8:21 am from PayrollMetroSouth, addressed "
-      "to the Appellant.", R_PAY),
- (98, "That message of 13 May 2024 states: \"I cannot see that any of the issues below have been "
-      "corrected. Please speak to your Line Manager to have them corrected with an AVAC submitted "
-      "through My HR as this will also be affecting your RDO balances as well as your pay.\"", R_PAY),
- (99, "The thread contains a message dated 21 May 2024 at 12:33 pm from Ms C Taylor, addressed to "
-      "the Appellant, with the subject \"RE: Corey Shepherd 388372 Pay issues\".", R_TAYLOR),
- (100, "That message of 21 May 2024 states: \"Just letting you know that I am still I am waiting "
-      "payroll confirmation about a few of these payroll issues and as soon as I do get that "
-      "confirmation, I will submit an AVAC for next pay run. I will let you know PRN once it has "
-      "been submitted.\"", R_TAYLOR),
- (101, "The Respondent's disclosure contains a message dated 28 May 2024 at 8:36 am from Ms C "
-       "Taylor, addressed to the Appellant and copied to Ms T Reese, with the subject \"Validation "
-       "of Claims older than 3 months - Please sign\".", R_TAYLOR),
- (102, "That message of 28 May 2024 states: \"Please find attached Validation of claims older than "
-       "3 months, please sign and return to be as soon as possible so I can escalate for delegate "
-       "approval.\"", R_TAYLOR),
- (103, "The myHR submissions report produced as Item 11 records seven submissions for the Appellant "
-       "in the period 1 February 2024 to 31 May 2024.", HR11),
- (104, "That report records five of those seven submissions as an \"Attendance Variation and "
-       "Allowance Claim (AVAC)\".", HR11),
- (105, "That report records the initiator of each of those five Attendance Variation and Allowance "
-       "Claims as \"Donovan-Taylor, Chloe\".", HR11),
- (106, "That report records the initiator of no Attendance Variation and Allowance Claim in that "
-       "period as the Appellant.", HR11),
- (107, "That report records a submission with process number 16328886 as an Attendance Variation "
-       "and Allowance Claim submitted on 15 May 2024, with a processing date of 16 May 2024, and a "
-       "status of \"Completed\".", HR11),
- (108, "That report records a submission with process number 16450619 as an Attendance Variation "
-       "and Allowance Claim submitted on 28 May 2024, with an effective date of 30 March 2024, a "
-       "processing date of 30 May 2024, and a status of \"Part Completed\".", HR11),
- (109, "That report records the status of every other Attendance Variation and Allowance Claim in "
-       "the period as \"Completed\".", HR11),
- (110, "That report records the following process numbers with the following submission dates: "
-       "15325947, submitted 6 February 2024; 15480560, submitted 20 February 2024; 15848692, "
-       "submitted 27 March 2024; 15849573, submitted 27 March 2024; 15969838, submitted 9 April "
-       "2024; 16328886, submitted 15 May 2024; and 16450619, submitted 28 May 2024.", HR11),
- (111, "In that report, process numbers increase as submission dates increase.", HR11),
- (112, "The number 15397775 falls between 15325947 and 15480560.", "Arithmetic"),
- (113, "The number 15605601 falls between 15480560 and 15848692.", "Arithmetic"),
- (114, "Neither AVAC PRN 15397775 nor AVAC PRN 15605601 appears in that report.", HR11),
- ("K", "MATTERS THE RESPONDENT DOES NOT ALLEGE"),
- (115, "The Respondent does not allege that the Appellant was subject to any disciplinary process at "
-      "any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (116, "The Respondent does not allege that the Appellant's work performance was the subject of any "
-      "formal performance management process at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (117, "The Respondent does not allege that the Appellant was the subject of any warning, whether "
-      "written or oral, at any time before 18 June 2024.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (118, "The Respondent's amended statement of facts and contentions does not identify the management "
-      "action referred to in paragraph 27.", "Respondent's amended statement of facts and contentions, 13 May 2026"),
- ("E", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
- (42, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief "
-      "Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, "
-      "Metro South Health stated in relation to Item 4: \"the requested documents do not exist. "
-      "Mandatory Fatigue Risk Management System training only applies to health practitioners and "
-      "clinical assistants. The Logan Hospital Switchboard staff are non-clinical staff, and "
-      "therefore there is no mandatory requirement for them to complete Fatigue Risk Management "
-      "System training.\"", CE),
- (43, "That letter states in relation to Item 5: \"The implementation of fatigue risk management "
-      "assessment at Switchboard Logan Hospital occurred after 30 June 2024 in connection with an "
-      "organisational change related to the reporting lines for Switchboard.\"", CE),
- (44, "That letter states in relation to Item 7: \"the requested documents do not exist. Mandatory "
-      "Fatigue Risk Management System training only applies to health practitioners and clinical "
-      "assistants.\"", CE),
- (45, "That letter states in relation to Item 3(c): \"there have been no 'consequential' changes to "
-      "operating procedures over the period requested.\"", CE),
- (46, "That letter states in relation to Item 3(a): \"All employee complaints relating to Logan "
-      "Hospital Switchboard operational errors are made directly to the Line Manager of Switch "
-      "Board and managed solely via email or verbally with the complainant.\"", CE),
- (47, "That letter states in relation to Items 1 and 2: \"a spreadsheet of recorded MET calls is "
-      "available for the period 17-18 March 2024.\"", CE),
+ ("B", "THE HOURS THE APPELLANT SOUGHT, AND OBTAINED"),
+ (15, "On 7 August 2023 at 12:21 pm the Appellant sent an email to Ms Chloe Taylor, Ms Tammy Reese, Ms Patricia Conaghan and Ms Tracey Smith, marked of High importance, which states: \"Furthermore, to meet the demands and the additional hours of the department both Patricia Conaghan and I would like to formally adhoc an additional 2 shifts per fortnight.\"",
+     "R_REESE"),
+ (16, "That email sets out clause 11.7 of the applicable agreement, headed \"Additional Permanent Hours for Part-time Employees\".",
+     "R_REESE"),
+ (17, "On 8 August 2023 at 6:06 pm the Appellant sent an email to Ms Reese which states: \"I can confirm that I will be in tomorrow 0700-1500 9th August. I was also looking to pick up another shift if possible.\"",
+     "R_REESE"),
+ (18, "On 8 August 2023 at 4:15 pm Ms Reese sent an email to the Appellant which states: \"can I ask were you looking for another shift on top of those 8 to replace the shift missed today also?\"",
+     "R_REESE"),
+ (19, "On 31 August 2023 the Appellant provided to Ms Taylor a written application headed \"Request to Increase Working Hours to Full Time Rotational Roster\".",
+     "R_REESE"),
+ (20, "That application states: \"I have also expressed my willingness to take on additional night shifts as part of the roster.\"",
+     "R_REESE"),
+ (21, "On 4 September 2023 the Appellant sent an email to Ms Reese which states: \"I confirm that I am able and willing to work any roster that is presented to me, including the current schedule with full 24-hour availability.\"",
+     "R_REESE"),
+ (22, "That email states: \"I have no issues with shift work.\"",
+     "R_REESE"),
+ (23, "That email attached a draft roster spreadsheet prepared by the Appellant.",
+     "R_REESE"),
+ (24, "On 8 September 2023 at 11:42 am Ms Reese sent an email to the Appellant which states: \"I am glad to hear things seem to be going well with Chloe and I am also glad to hear you applied for the additional shifts through the recent EOI.\"",
+     "R_REESE"),
+ (25, "On 27 September 2023 at 1:52 pm Ms Taylor sent an email to the Appellant with the subject \"Approved - Permanent Full Time FTE\" which states: \"Just giving you an update on your application for Permanent Fulltime hours, I am very pleased to advise you that this has been approved.\"",
+     "Email of Ms C Taylor, 27 September 2023"),
+ (26, "That email states: \"happy to commence Full-time hours from the 16th October 2023\".",
+     "As above"),
+ ("C", "STRESSOR 1(a) - THE DATABASE, AND THE DIRECTIVES ISSUED WITHOUT CONSULTATION"),
+ (27, "Review Decision 69983 records: \"Ms Ellen Stibbard, Switchboard Telecommunications Coordinator, emailed the staff members on 18 July 2023 to provide an update with respect to her role.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (28, "That decision records: \"She explained her role was a project role, which was a temporary position that focused on fixing the database used by the switchboard.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (29, "That decision records: \"She informed that while she fixed it, she would be removing everyone's access to it, and asked for anyone who needed to amend, add or remove entries, to directly contact her or Ms Taylor.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (30, "That decision records: \"On 19 April 2024, Ms Taylor emailed the team and expressed that due to errors being made with respect to data entry, a new process was to be followed which included more checks to ensure accuracy of data entry.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (31, "The Respondent does not allege that the role description for the position of Administration Officer, Switchboard Services was amended at any time after 18 July 2023.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (32, "The Respondent does not allege that access to the database used by the Switchboard was restored to the Appellant at any time before 18 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (33, "On 15 April 2024 at 12:39 pm Ms Taylor sent an email to Logan Switch, copied to Ms Reese and to Switchboard staff including the Appellant, with the subject \"Afterhours Oncall Process - Switchboard\".",
+     "Respondent's amended List of Documents, item 25 (email of 29 August 2024, attachment \"Email: After hours on call process\")"),
+ (34, "That email states: \"Process during office hours remains the same, please contact myself through switch/office or mobile unless otherwise advised.\"",
+     "As above"),
+ (35, "That email states: \"This new process is effective from today.\"",
+     "As above"),
+ (36, "That email states: \"You will see that Ellen and myself have added Afterhours on call, the days that are highlighted in purple show who is on call after hours.\"",
+     "As above"),
+ (37, "Ms Taylor signed that email as \"A/Switchboard Manager\".",
+     "As above"),
+ (38, "Ms Taylor's email to all Switchboard staff of 17 May 2024 at 9:30 am states: \"My office hours can vary due to having to take my girls to school in the morning, on the days that I do have school drop off I always let switch know that I will be in later between 0800-830am. Otherwise my hours are from 06:30-14:30.\"",
+     "R_TAYLOR"),
+ (39, "That email states: \"Moving forward so communication is clear for the team, I will be sending an email to switch to advise of any change to my office hours for the week.\"",
+     "R_TAYLOR"),
+ (40, "On 17 May 2024 at 1:20 pm Ms Taylor sent an email to Ms Adriana McNamee with the subject \"FW: Office Hours and Departmental Directives\", which states: \"when staff call in for any leave to please contact me either via switch, office or my mobile.\"",
+     "R_TAYLOR"),
+ ("D", "STRESSOR 1(a) - THE DELAY IN COMMUNICATION AND THE MATTERS RAISED IN MAY 2024"),
+ (41, "On 15 May 2024 at 11:47 am Ms Sue Marriott, Administration Officer, Integrated Respiratory Service, sent an email to Logan Switch, marked of High importance, which states: \"Could you please amend your number registry/directory to show #8768 belongs to the Integrated Respiratory Service... We are not Respiratory Medical OPD and we do not have any doctors working out of this area.\"",
+     "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (42, "On 20 May 2024 at 11:03 am Ms Marriott sent a further email to Logan Switch, marked of High importance, which states: \"Just a courtesy reminder, we continue to get calls put through to us for Respiratory Medical Outpatients... we can not help patients or other clinical staff with OPD issues.\"",
+     "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (43, "On 20 May 2024 at 2:05 pm the Appellant sent an email to Ms Taylor, marked of High importance, which states: \"switchboard staff may not be aware of the clinics due to modifications to the Document: Outpatients Department - Clinic contact Details. on the 22nd of February 2024. I recommend a modification and review of the document.\"",
+     "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (44, "On 20 May 2024 at 4:30 pm Ms Taylor replied to the Appellant, stating: \"Thank you for bringing this to my attention however this task was being actioned. I had discussed with Richard this morning about the update of outpatients respiratory/medical.\"",
+     "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (45, "That reply of Ms Taylor states: \"Taking note of your recommendation, we can also put the updated procedures out to the team for consultation before implementing.\"",
+     "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ ("E", "STRESSOR 1(c) - THE MATTERS RAISED IN AUGUST AND SEPTEMBER 2023, AND THE RESPONSE"),
+ (46, "The Appellant's email of 7 August 2023 at 12:21 pm states: \"Please give me some space and stop with any further communication as I have had enough of it.\"",
+     "R_REESE"),
+ (47, "On 7 August 2023 at 1:43 pm Ms Taylor replied to the Appellant, copied to Ms Reese and Ms Smith, stating: \"My sincere apologises about your rostered Monday 7th 0700-1500 shift, I can confirm this was an oversight.\"",
+     "R_REESE"),
+ (48, "That email of Ms Taylor states: \"Would you like me to roster you off tomorrow Tuesday 8th 0700-1500 to give you the required rest period\".",
+     "R_REESE"),
+ (49, "On 7 August 2023 at 3:13 pm Ms Reese replied to the Appellant stating: \"As Chloe is your current line manager and as such you are required to continue to communicate with Chloe for work related issues, shift concerns, leave, etc.\"",
+     "R_REESE"),
+ (50, "On 7 August 2023 at 5:11 pm Ms Reese sent an email to Ms Taylor attaching a document titled \"Rostered shifts Cory S. past 8 months.xlsx\", which states: \"can I ask if you can send me an email of your recent communication with Cory about contacting yourself about missed shifts, as I could not find a copy of this email.\"",
+     "R_REESE"),
+ (51, "On 29 August 2023 at 6:57 pm Ms Reese sent the Appellant an email attaching HR Policy E12 - Individual Employee Grievances, and setting out how a grievance could be submitted.",
+     "R_REESE"),
+ (52, "On 4 September 2023 the Appellant replied to Ms Reese stating: \"I have also spoken to Chloe. We are seemingly on the path to working in a beneficial way and hopefully will not need to go through this process.\"",
+     "R_REESE"),
+ (53, "The Appellant did not submit a grievance under HR Policy E12 in 2023.",
+     "R_REESE"),
+ ("F", "THE PROCESS FOR NOTIFYING UNAVAILABILITY FOR A ROSTERED SHIFT"),
+ (54, "On 14 May 2024 at 12:08 pm Ms Taylor sent an email to the Appellant, copied to Ms Reese, with the subject \"Sick leave 14.05.24\", which states: \"in business hours you are to follow the correct process and speak to me directly if its regarding emergent leave, you can contact me either through switch or my office/mobile.\"",
+     "R_TAYLOR"),
+ (55, "On 17 May 2024 at 9:30 am Ms Taylor sent an email to Logan Switch and Switchboard staff, copied to Ms Reese, which states: \"regardless of my start/finish times next week you are to please contact me through the day/afterhours either via switch, office or mobile.\"",
+     "R_TAYLOR"),
+ (56, "On 13, 14 and 15 May 2024 the Appellant notified his unavailability for his rostered shift by telephoning the Switchboard.",
+     "Ms Taylor's email to Ms McNamee, 17 May 2024, which records each of those three calls"),
+ (57, "The document entitled \"Logan Hospital Switchboard Sick Leave Process\", version 1.1, is dated 4 February 2025.",
+     "Attachment to the letter of Mr Scott Hughes dated 8 September 2025, page 1"),
+ (58, "The Respondent does not allege that any written procedure governing the notification of unavailability for a rostered shift at Logan Hospital Switchboard existed before 4 February 2025.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ ("G", "STRESSOR 2 - THE PAY CORRECTION, AND THE THREAD \"COREY SHEPHERD 388372 PAY ISSUES\""),
+ (59, "The Respondent's disclosure contains an email thread with the subject \"Corey Shepherd 388372 Pay issues\".",
+     "R_PAY"),
+ (60, "The first message in that thread is dated 3 May 2024, is from PayrollMetroSouth, is addressed to Ms C Taylor, and is copied to the Appellant.",
+     "R_PAY"),
+ (61, "That message is signed \"Elaine Grant, Client Service Officer, Metro South Payroll Team, Payroll Transactional Services, Corporate Enterprise Solutions, Corporate Services, Queensland Health\".",
+     "R_PAY"),
+ (62, "That message states: \"Corey has wages top up on fortnight 05.02.24 for 0.95mins as he is under his contracted hours so it is toping up the missing wages from his RDO balance.\"",
+     "R_PAY"),
+ (63, "That message states: \"This will be due to having a 7hr shift on 09.02.24 instead of an 8hr shift. AVAC PRN 15397775.\"",
+     "R_PAY"),
+ (64, "That message states: \"The same has happened for the next fortnight 19.02.24 due to 28.02.24 shift AVAC PRN 15605601 has this shift as 7hrs topping up 0.95 for missing hour.\"",
+     "R_PAY"),
+ (65, "That message states: \"Fortnight 18.03.24 is the opposite and has too many ordinary shifts for the fortnight resulting in wage reduction of 7.55hrs as one of the shifts needs to be overtime.\"",
+     "R_PAY"),
+ (66, "That message states: \"Fortnight 01.04.24 is the same, 0.95hrs over contracted 76hrs needs to be overtime.\"",
+     "R_PAY"),
+ (67, "That message states: \"Please submit an AVAC to correct these shifts for each fortnight so Cory is paid corrected and his RDO balance will then be amended.\"",
+     "R_PAY"),
+ (68, "The thread contains a message dated 10 May 2024 at 2:21 pm from the Appellant, addressed to PayrollMetroSouth and to Ms E Grant.",
+     "R_PAY"),
+ (69, "The thread contains a message dated 13 May 2024 at 8:21 am from PayrollMetroSouth, addressed to the Appellant.",
+     "R_PAY"),
+ (70, "That message of 13 May 2024 states: \"I cannot see that any of the issues below have been corrected. Please speak to your Line Manager to have them corrected with an AVAC submitted through My HR as this will also be affecting your RDO balances as well as your pay.\"",
+     "R_PAY"),
+ (71, "The thread contains a message dated 21 May 2024 at 12:33 pm from Ms C Taylor, addressed to the Appellant, with the subject \"RE: Corey Shepherd 388372 Pay issues\".",
+     "R_TAYLOR"),
+ (72, "That message of 21 May 2024 states: \"Just letting you know that I am still I am waiting payroll confirmation about a few of these payroll issues and as soon as I do get that confirmation, I will submit an AVAC for next pay run. I will let you know PRN once it has been submitted.\"",
+     "R_TAYLOR"),
+ (73, "The Respondent's disclosure contains a message dated 28 May 2024 at 8:36 am from Ms C Taylor, addressed to the Appellant and copied to Ms T Reese, with the subject \"Validation of Claims older than 3 months - Please sign\".",
+     "R_TAYLOR"),
+ (74, "That message of 28 May 2024 states: \"Please find attached Validation of claims older than 3 months, please sign and return to be as soon as possible so I can escalate for delegate approval.\"",
+     "R_TAYLOR"),
+ (75, "The myHR submissions report produced as Item 11 records seven submissions for the Appellant in the period 1 February 2024 to 31 May 2024.",
+     "HR11"),
+ (76, "That report records five of those seven submissions as an \"Attendance Variation and Allowance Claim (AVAC)\".",
+     "HR11"),
+ (77, "That report records the initiator of each of those five Attendance Variation and Allowance Claims as \"Donovan-Taylor, Chloe\".",
+     "HR11"),
+ (78, "That report records the initiator of no Attendance Variation and Allowance Claim in that period as the Appellant.",
+     "HR11"),
+ (79, "That report records a submission with process number 16328886 as an Attendance Variation and Allowance Claim submitted on 15 May 2024, with a processing date of 16 May 2024, and a status of \"Completed\".",
+     "HR11"),
+ (80, "That report records a submission with process number 16450619 as an Attendance Variation and Allowance Claim submitted on 28 May 2024, with an effective date of 30 March 2024, a processing date of 30 May 2024, and a status of \"Part Completed\".",
+     "HR11"),
+ (81, "That report records the status of every other Attendance Variation and Allowance Claim in the period as \"Completed\".",
+     "HR11"),
+ (82, "That report records the following process numbers with the following submission dates: 15325947, submitted 6 February 2024; 15480560, submitted 20 February 2024; 15848692, submitted 27 March 2024; 15849573, submitted 27 March 2024; 15969838, submitted 9 April 2024; 16328886, submitted 15 May 2024; and 16450619, submitted 28 May 2024.",
+     "HR11"),
+ (83, "In that report, process numbers increase as submission dates increase.",
+     "HR11"),
+ (84, "The number 15397775 falls between 15325947 and 15480560.",
+     "Arithmetic"),
+ (85, "The number 15605601 falls between 15480560 and 15848692.",
+     "Arithmetic"),
+ (86, "Neither AVAC PRN 15397775 nor AVAC PRN 15605601 appears in that report.",
+     "HR11"),
+ ("H", "STRESSOR 3 - THE ROSTER, AND THE EMPLOYER'S KNOWLEDGE OF FATIGUE BEFORE 18 JUNE 2024"),
+ (87, "On 26 April 2024 at 1:52 pm Ms Reese sent an email to the Appellant with the subject \"Roster Concerns\", referring to a meeting on 16 April 2024 at which the Appellant raised a roster line ending with night shifts followed by three days off and then returning to night shifts.",
+     "R_REESE"),
+ (88, "That email states that Ms Taylor \"was working to fix this error and would get in touch with you about what alternative shifts she could offer\".",
+     "R_REESE"),
+ (89, "On 1 May 2024 at 1:18 pm the Appellant sent an email to Ms Reese with the subject \"Roster Concerns\" referring to section 4, clause 10.4.1 of the Operations Manual and stating: \"This section includes a toolkit required by management to manage fatigue and implement appropriate protocols and adhere to the workplace health and safety act.\"",
+     "R_REESE"),
+ (90, "That email states: \"I forwarded the toolkit to Chloe last week for review and action but have yet to receive feedback\".",
+     "R_REESE"),
+ (91, "On 8 May 2024 at 9:08 am Ms Reese replied to the Appellant stating: \"Thanks for raising these observations and concerns. I am following up with regards to these with HR for further advice and I will get back to you asap with a response.\"",
+     "R_REESE"),
+ (92, "On 10 May 2024 at 2:08 pm Ms Reese sent an email to Mr Mackenzie Pritchard of Human Resources forwarding the Appellant's email of 1 May 2024, which states: \"I think he is trying to raise that he has concerns over how his manager is rostering for the Switchboard team and how it is impacting on staff fatigue, or more specifically his fatigue.\"",
+     "R_FRMS"),
+ (93, "That email states: \"as per Cory's second extract detailing the Roster Risk assessment Matrix, Chloe and I have run thought this and we say at best there would be a rating of 11 which is moderate\".",
+     "R_FRMS"),
+ (94, "That email states: \"I acknowledge there has been a few rostering errors made by Chloe with regards to Cory's line in past rosters\".",
+     "R_FRMS"),
+ (95, "That email attached the document \"qh-gdl-401-3.3\", being the Queensland Health Fatigue Risk Management Systems Implementation Guideline.",
+     "R_FRMS"),
+ (96, "On 20 May 2024 at 4:07 pm Ms Reese sent an email to LBH_HR which states: \"I am just following up on this query I raised a little while ago in relation to a email I had received from a staff member about our rostering practices. Thus if someone might be able to give me a call regarding these staff concerns, that would be great.\"",
+     "R_FRMS"),
+ ("I", "STRESSOR 3 - THE BREAK OF 17-18 MARCH 2024, THE 2020 AGREEMENT, AND THE LEAVE OF 19 MARCH 2024"),
+ (97, "By letter dated 7 July 2026 Ms Lyndelle Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health Service, wrote to the Appellant stating that the roster \"provides more than 10-hour breaks between shifts\".",
+     "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
+ (98, "That letter states: \"acknowledge you also signed an 8 hour agreement on 17 June 2020, which allows you to work with only an 8 hour break, however this is only applied where staff initiated shift swaps have occurred.\"",
+     "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
+ (99, "The Respondent does not allege that the consecutive shifts of 17 and 18 March 2024 arose from a staff initiated shift swap.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (100, "The Leave Takings Report produced by Metro South Hospital and Health Service in respect of 19 March 2024 records the Leave Category as \"Sick\", the Leave Type as \"Sick Leave\", the Time Code as \"SCK\", the Leave Taken as 7.60 hours, and the Leave Status as \"APPROVED\".",
+     "Item 15 QH Leave Takings Report, produced by Metro South Health"),
+ (101, "The Respondent's amended statement of facts and contentions dated 13 May 2026 states at paragraph 24(a): \"says that the appellant took leave on 19 March 2024 but says this was paid leave\".",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (102, "That amended statement of facts and contentions states at paragraph 24(b): \"says that pursuant to clause 18.10 of the Award, the appellant is not entitled to fatigue leave, because he was not performing overtime\".",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (103, "That amended statement of facts and contentions states at paragraph 27: \"The respondent contends that any management action involved in the causation of any injury to the Plaintiff was reasonable management action taken in a reasonable way pursuant to s 32(5) WCRA.\"",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (104, "No fatigue leave was available to the Appellant under clause 18.10 of the Award in respect of the consecutive shifts of 17 and 18 March 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026, paragraph 24(b)"),
+ ("J", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
+ (105, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, Metro South Health stated in relation to Item 4: \"the requested documents do not exist. Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants. The Logan Hospital Switchboard staff are non-clinical staff, and therefore there is no mandatory requirement for them to complete Fatigue Risk Management System training.\"",
+     "CE"),
+ (106, "That letter states in relation to Item 5: \"The implementation of fatigue risk management assessment at Switchboard Logan Hospital occurred after 30 June 2024 in connection with an organisational change related to the reporting lines for Switchboard.\"",
+     "CE"),
+ (107, "That letter states in relation to Item 7: \"the requested documents do not exist. Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants.\"",
+     "CE"),
+ (108, "That letter states in relation to Item 3(c): \"there have been no 'consequential' changes to operating procedures over the period requested.\"",
+     "CE"),
+ (109, "That letter states in relation to Item 3(a): \"All employee complaints relating to Logan Hospital Switchboard operational errors are made directly to the Line Manager of Switch Board and managed solely via email or verbally with the complainant.\"",
+     "CE"),
+ (110, "That letter states in relation to Items 1 and 2: \"a spreadsheet of recorded MET calls is available for the period 17-18 March 2024.\"",
+     "CE"),
+ ("K", "MATTERS NOT DONE, AND MATTERS NOT AVAILABLE"),
+ (111, "The Respondent does not allege that any fatigue risk assessment was conducted in respect of the Appellant's position at any time before 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (112, "The Respondent does not allege that any fatigue risk management training was provided to the Appellant in respect of his position at any time before 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (113, "The Respondent does not allege that fatigue risk management assessment was implemented at Logan Hospital Switchboard at any time before 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (114, "The Respondent does not allege that any change was made to the operating procedures of Logan Hospital Switchboard as a consequence of any employee complaint over the period 1 December 2023 to 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (115, "The Respondent has not disclosed any document recording consultation with Switchboard operators before the change communicated by the email of 15 April 2024.",
+     "Respondent's amended List of Documents dated 14 August 2026"),
+ ("L", "STRESSOR 3(d) - THE RESPONDENT'S OWN REVIEW DECISION OF 24 OCTOBER 2024"),
+ (116, "Review Decision 69983 dated 24 October 2024 records that in its response the employer included an extract of the Hospital and Health Services General Employees (Queensland Health) Award which \"stated that employees must be provided with a break of not less than 10 hours between the termination of one shift and the commencement of another shift, and 8 hours applied instead of 10 only in specific circumstances\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (117, "That decision states: \"The break between the shift on 17 March 2024 and 18 March 2024 equated to 7 hours.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (118, "That decision states: \"Even if you were allowed to leave early on 17 March 2024 as suggested by the employer, you left a maximum of 30 minutes early, which meant you still did not receive a minimum 8-hour break.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (119, "That decision states: \"Based on this, I find the rostering of these two shifts amounted to unreasonable management action given that it was in direct contradiction to the award and the 8-hour agreement.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (120, "That decision states, under the heading \"Conclusion\": \"you sustained a personal injury of a psychological nature\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ (121, "That decision states, under the heading \"Conclusion\": \"your injury arose out of employment, to the extent that it arose out of factors 2, 3 and 4, where employment was a significant contributing factor\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision"),
+ ("M", "THE APPELLANT'S CONTEMPORANEOUS ACCOUNT, AND THE DOCUMENTS THE RESPONDENT LISTS"),
+ (122, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 12 an email from the Appellant to WorkCover Queensland dated 12 July 2024 with the attachment described as \"Event overview - undated\".",
+     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (123, "That amended List of Documents lists at item 14 an email from the Appellant to WorkCover Queensland dated 18 July 2024 with the attachment described as \"Witness statement - Carolyn Jeffrey\".",
+     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (124, "That amended List of Documents lists at item 16 an email from Ms Carolyn Jeffrey to WorkCover Queensland dated 1 August 2024 described as a follow up statement.",
+     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (125, "That amended List of Documents lists at item 25 an email from the Appellant to WorkCover Queensland dated 29 August 2024 described as regarding the after hours on call change, with the attachment described as \"Email: After hours on call process\".",
+     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (126, "That amended List of Documents lists at item 26 an email from the Appellant to WorkCover Queensland dated 30 August 2024 described as regarding failure to consult, with the attachment described as \"Email: Task change switchboard - 19/04/2024\".",
+     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (127, "That amended List of Documents lists at item 27 an email from the Appellant to WorkCover Queensland dated 30 August 2024 described as regarding failure to consult, with the attachment described as \"Email: MASPER process - 09/05/2024\".",
+     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
+ (128, "The Appellant provided the document described at item 12 to WorkCover Queensland on 12 July 2024.",
+     "As above; and the Appellant's email of that date"),
+ (129, "On 11 August 2026 the Appellant served on the Respondent a bundle titled \"Stressor 1(a) - Particulars support bundle\", comprising 30 pages and six tabs, each stating a particular of Stressor 1(a) of the Amended Form 9A and enclosing the documents recording it.",
+     "The bundle, and the Appellant's covering email of 11 August 2026"),
+ ("N", "MATTERS THE RESPONDENT DOES NOT ALLEGE"),
+ (130, "The Respondent does not allege that the Appellant was subject to any disciplinary process at any time before 18 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (131, "The Respondent does not allege that the Appellant's work performance was the subject of any formal performance management process at any time before 18 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (132, "The Respondent does not allege that the Appellant was the subject of any warning, whether written or oral, at any time before 18 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (133, "The Respondent's amended statement of facts and contentions does not identify the management action referred to in paragraph 27.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
 ]
 
 FORMH = ParagraphStyle('FORMH', parent=BODY, fontName='Helvetica-Bold', fontSize=15, leading=18)
@@ -412,7 +371,7 @@ s.append(P("TAKE NOTICE that the Appellant proposes to prove the facts specified
 rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"):
+    if isinstance(f[0], str):
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
@@ -423,7 +382,7 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
-    if f[0] in ("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L"):
+    if isinstance(f[0], str):
         st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
