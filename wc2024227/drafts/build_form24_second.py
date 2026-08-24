@@ -65,6 +65,25 @@ FACTS = [
      "Movement forms recording approved changes to working hours, approved by Mr S Hughes as delegate - Annexure A Tabs 17-19"),
  (16, "The Respondent does not allege that the Appellant ceased to be a continuous shift worker at any time before 18 June 2024.",
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ ("R", "THE APPELLANT'S EMPLOYMENT, AND THE 17 JUNE 2020 AGREEMENT"),
+ (0, "The Appellant signed an agreement allowing an 8-hour break between shifts on 17 June 2020.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (0, "Review Decision 69983 records the Appellant's submission that the 8-hour agreement \"was no longer fit for purpose since your transition from casual employment to full-time\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records the Appellant's submission that \"since your commencement, you have signed new terms and working arrangements as a full-time employee\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records the employer's confirmation that there had been a \"change to your employment contract and adjustments in your working hours\" since 17 June 2020.",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "The Respondent does not allege that the 8-hour agreement of 17 June 2020 was reviewed, re-executed or re-confirmed at any time between 17 June 2020 and 18 March 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (0, "The Respondent does not allege that the Appellant was informed, at any time before 1 May 2024, that the 8-hour agreement of 17 June 2020 could be terminated by him.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (0, "Review Decision 69983 records that Ms Sandra Johnstone was the Switchboard Line Manager as at 8 December 2021.",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records that Ms Danielle Cook was the \"previous Switchboard Manager\", and that \"Ms Taylor was subsequently appointed to the Switchboard Manager role\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "The Respondent does not allege that Ms Taylor was the Switchboard Manager on 17 June 2020.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
  ("B", "THE HOURS THE APPELLANT SOUGHT, AND OBTAINED"),
  (18, "On 7 August 2023 at 12:21 pm the Appellant sent an email to Ms Chloe Taylor, Ms Tammy Reese, Ms Patricia Conaghan and Ms Tracey Smith, marked of High importance, which states: \"Furthermore, to meet the demands and the additional hours of the department both Patricia Conaghan and I would like to formally adhoc an additional 2 shifts per fortnight.\"",
      "R_REESE"),
@@ -343,6 +362,8 @@ FACTS = [
      "R_FRMS"),
  (129, "That email of Ms Reese to LBH_HR attached the document \"qh-gdl-401-3.3\", being the Queensland Health Fatigue Risk Management Systems Implementation Guideline.",
      "R_FRMS"),
+ (0, "Each of the facts at paragraphs {{ROSTER_REFS}} of this notice records a rostering error, or a roster concern raised by the Appellant and acknowledged by the Respondent or by Ms Reese, in the period 7 August 2023 to 20 May 2024.",
+     "As set out at each of those paragraphs"),
  ("I", "STRESSOR 3 - THE BREAK OF 17-18 MARCH 2024, THE 2020 AGREEMENT, AND THE LEAVE OF 19 MARCH 2024"),
  (131, "By email dated 7 July 2026 Ms Lyndelle Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health Service, wrote to the Appellant stating that the roster \"provides more than 10-hour breaks between shifts\".",
      "Email of Ms L Forrest, Senior Consultant HR, 7 July 2026 - Annexure A Tab 21"),
@@ -371,6 +392,41 @@ FACTS = [
  (140, "That decision records: \"The policy notes that many problems can be overcome regarding fatigue leave by either not rostering the employee who is on call for the first shift of the following day and not rostering on call an officer who is rostered for the first shift on the following day.\"",
      "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
  (141, "That decision records that section 23 of the Hospital and Health Service General Employees (Queensland Health) Award provides that \"where an employee is in receipt of the additional week's leave as prescribed in clause 19.2(a) and is rostered off on Easter Saturday, Easter Sunday, Show Day or Labour Day, such employee shall be paid an additional day's wage or be granted a day's holiday in lieu at a time to be mutually arranged, but this is not applicable where an employee is not ordinarily required to work on a Saturday or Sunday\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ ("Q", "STRESSOR 3 - THE FATIGUE LEAVE REQUEST OF 8 APRIL 2024, THE DELAY, AND THE REFUSAL OF 1 MAY 2024"),
+ (0, "Review Decision 69983 records: \"You emailed Ms Taylor on 8 April 2024 and requested a review of your payment for the pay period between 8 March 2024 and 31 March 2024.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records that in that email the Appellant \"noted the Hospital and Health Service General Employees (Queensland Health) Award stipulated in part 5 section 15 that unless there was a mutual agreement of regular rosters, employees were entitled to a minimum 10-hour break\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records that Ms Taylor replied on 9 April 2024 and \"added she also escalated your enquiry regarding fatigue leave to Human Resources to confirm policies around this\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records that in the same reply Ms Taylor \"proceeded to acknowledge the importance of communication and requested that you raise your concerns with her as soon as they arise so she could action them sooner for you\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records that on 24 April 2024 the Appellant emailed Ms Taylor and \"expressed your dissatisfaction with the process and that it had been more than 2 weeks without any response or overtime payment\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records: \"Ms Taylor responded to your email on 1 May 2024 via email and stated that after a consultation with payroll and Human Resources, your request for fatigue payment for 18 March 2024 would not be processed due to the existing 8-hour agreement signed by you on 17 June 2020.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records, of the same email of 1 May 2024: \"However, she noted you are able to terminate this agreement going forward.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "The period between the Appellant's email of 8 April 2024 and Ms Taylor's response of 1 May 2024 is 23 days.",
+     "Arithmetic"),
+ (0, "The period between Ms Taylor's escalation of the fatigue leave enquiry to Human Resources on 9 April 2024 and her response of 1 May 2024 is 22 days.",
+     "Arithmetic"),
+ (0, "The Respondent does not allege that any response was made to the Appellant's enquiry regarding fatigue leave at any time between 9 April 2024 and 1 May 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (0, "Review Decision 69983 records the Appellant's response of 9 August 2024 as stating that the break between the shifts of 17 and 18 March 2024 \"did not include travel time\", and: \"If you factored in travel time, your break between shifts would have been less than 5 hours.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision separately records the Appellant's submission that \"in considering travel time, it left you with less than 5 hours of break time\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records the employer's response of 6 September 2024 as confirming \"you did not formally rescind the 8-hour agreement signed by you on 17 June 2020 and the change to your employment contract and adjustments in your working hours did not automatically invalidate the agreement\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records: \"The employer did not mention your shift on 18 March 2024.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision states: \"In considering the evidence, I find there was uncertainty between you and the employer regarding whether the 8-hour agreement continued to apply.\"",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records that payroll was, as at 1 May 2024, \"still reviewing your entitlements regarding public holidays not required arising while you were a part-time employee\".",
+     "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ (0, "That decision records Ms Taylor as confirming \"that since your commencement of full-time employment, all payments for public holidays not required had been processed\".",
      "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
  ("J", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
  (142, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, Metro South Health stated in relation to Item 4: \"the requested documents do not exist. Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants. The Logan Hospital Switchboard staff are non-clinical staff, and therefore there is no mandatory requirement for them to complete Fatigue Risk Management System training.\"",
@@ -488,7 +544,28 @@ for _f in FACTS:
             _rest[1] = _SRC.get(_rest[1], _rest[1])
         _new.append((_n,) + tuple(_rest))
 FACTS = _new
-del _n, _new
+_TRIG = ["rostering error that was accidentally made by Chloe",
+         "I can confirm this was an oversight",
+         "was working to fix this error",
+         "rostering errors made by Chloe with regards to Cory's line in past rosters",
+         "resulting in a break of only 7 hours",
+         "7-hour break (rather than an 8-hour break)",
+         "roster line ending with night shifts"]
+_refs = [str(_f[0]) for _f in FACTS
+         if not isinstance(_f[0], str) and any(_t in _f[1] for _t in _TRIG)]
+_refstr = ", ".join(_refs[:-1]) + " and " + _refs[-1] if len(_refs) > 1 else (_refs[0] if _refs else "")
+FACTS = [_f if isinstance(_f[0], str) or "{{ROSTER_REFS}}" not in _f[1]
+         else (_f[0], _f[1].replace("{{ROSTER_REFS}}", _refstr)) + tuple(_f[2:])
+         for _f in FACTS]
+_L = 0
+_relab = []
+for _f in FACTS:
+    if isinstance(_f[0], str):
+        _relab.append((chr(ord('A') + _L), _f[1])); _L += 1
+    else:
+        _relab.append(_f)
+FACTS = _relab
+del _n, _new, _TRIG, _refs, _refstr, _L, _relab
 
 FORMH = ParagraphStyle('FORMH', parent=BODY, fontName='Helvetica-Bold', fontSize=15, leading=18)
 FLD = ParagraphStyle('FLD', parent=BODY, fontName='Helvetica-Bold', fontSize=9, leading=12)
