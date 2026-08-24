@@ -51,6 +51,12 @@ ITEMS = [
  ("8A", "Cover page of the attachment to that email - Fatigue risk management systems, "
     "Implementation guideline QH-GDL-401-3.3:2021", "2021",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 30, 30),
+ ("8B", "MASPER register email records - Ms Taylor to Dr Kwok and Dr Wong, \"RE: Switchboard "
+    "issues 5 May, 7 May, and 8 May\"; Ms Taylor to Logan Switch and Switchboard staff, \"MASPER "
+    "process\"; and the underlying switchboard issue logs of 2 to 8 May 2024, produced under Tab 3 "
+    "of the Stressor 1(a) particulars bundle served 11 August 2026",
+    "9 May 2024 (issues logged 2-8 May 2024)",
+    "2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf", 9, 12),
  (9, "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Switchboard Manager - On call "
     "and Hours.\"", "17 May 2024, 9:30 am",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 20, None),

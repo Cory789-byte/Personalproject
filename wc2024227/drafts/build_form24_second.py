@@ -109,12 +109,12 @@ FACTS = [
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (37, "On 16 June 2023 the Appellant wrote raising, among other workplace issues: \"No consultation of the team members or the department when making major changes such as additional shift, commence and finish times.\"",
      "Affidavit of the Appellant (Form 20) filed 23 June 2026"),
- (38, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 26 an attachment described as \"Email: Task change switchboard - 19/04/2024\".",
+ (38, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 26 an attachment described as \"Email: Task change switchboard - 19/04/2024\", and at item 27 an attachment described as \"Email: MASPER process - 09/05/2024\".",
      "Respondent's amended List of Documents dated 14 August 2026"),
- (39, "That amended List of Documents lists at item 27 an attachment described as \"Email: MASPER process - 09/05/2024\".",
-     "Respondent's amended List of Documents dated 14 August 2026"),
- (40, "Ms Taylor's email of 9 May 2024 records that a doctor's hours were \"not provided on the rosters\" and that the contact number was \"switched off\".",
-     "Affidavit of the Appellant (Form 20) filed 23 June 2026"),
+ (39, "On 9 May 2024 at 9:20 am Ms Taylor sent an email to Dr Vivian Kwok and Dr Pan Jane Wong, subject \"RE: Switchboard issues 5 May, 7 May, and 8 May\", which states: \"Can I please confirm your business hours so we can have this for our reference, it is not provided on the rosters. I have noticed your dect phone number #5997 is currently switched off.\"",
+     "MASPER register email records, 9-15 May 2024, produced under Tab 3 of the Stressor 1(a) particulars bundle served 11 August 2026"),
+ (40, "On 9 May 2024 at 10:15 am Ms Taylor sent an email to Logan Switch, copied to Switchboard staff including the Appellant, subject \"MASPER process\", directing that \"all calls that switch transfer to the MASPER phone #5223 are being introduced\", without any prior consultation of the team.",
+     "MASPER register email records, 9-15 May 2024, produced under Tab 3 of the Stressor 1(a) particulars bundle served 11 August 2026"),
  (41, "On 21 May 2024 Ms Reese asked the Appellant to identify the directives about which he had consultation concerns.",
      "Affidavit of the Appellant (Form 20) filed 23 June 2026"),
  (42, "On 15 April 2024 at 12:39 pm Ms Taylor sent an email to Logan Switch, copied to Ms Reese and to Switchboard staff including the Appellant, with the subject \"Afterhours Oncall Process - Switchboard\".",
@@ -313,11 +313,7 @@ FACTS = [
      "R_REESE"),
  (124, "That email states: \"I forwarded the toolkit to Chloe last week for review and action but have yet to receive feedback\".",
      "R_REESE"),
- (0, "On 26 April 2024 at 1:52 pm Ms Reese sent an email to the Appellant with the subject \"Roster Concerns\", which states: \"Chloe was aware of the concern you had with regards to the nights and then nights again on the new roster for the fortnight and Chloe was working to fix this error and would get in touch with you about what alternative shifts she could offer.\"",
-     "R_REESE"),
- (0, "That email of Ms Reese records a meeting with the Appellant on Tuesday 16 April 2024 at which he raised roster concerns.",
-     "R_REESE"),
- (0, "That email of Ms Reese states: \"I asked Chloe to follow upon what should be the interpretation of this section with HR\".",
+ (0, "That email of Ms Reese also states: \"I asked Chloe to follow upon what should be the interpretation of this section with HR\".",
      "R_REESE"),
  (125, "On 8 May 2024 at 9:08 am Ms Reese replied to the Appellant stating: \"Thanks for raising these observations and concerns. I am following up with regards to these with HR for further advice and I will get back to you asap with a response.\"",
      "R_REESE"),
@@ -593,6 +589,10 @@ DOCS = [
   "17 May 2024, 1:20 pm"),
  ("Document, Fatigue risk management systems - Implementation guideline QH-GDL-401-3.3:2021, "
   "being the attachment to the email of Ms T Reese of 10 May 2024", "2021"),
+ ("MASPER register email records - Ms Taylor to Dr Kwok and Dr Wong, \"RE: Switchboard issues "
+  "5 May, 7 May, and 8 May\"; Ms Taylor to Logan Switch and Switchboard staff, \"MASPER process\"; "
+  "and the underlying switchboard issue logs of 2 to 8 May 2024",
+  "9 May 2024 (issues logged 2-8 May 2024)"),
 ]
 drows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Date</b>", SMALL),
           P("<b>Authenticity admitted / disputed</b>", SMALL)]]
