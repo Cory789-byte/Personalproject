@@ -33,7 +33,7 @@ HR11     = "myHR submissions report for the Appellant, 1 February to 31 May 2024
 
 FACTS = [
  ("A", "THE ROLE, AND WHAT IT REQUIRED"),
- (1, "Metro South Hospital and Health Service produced a role description for the position of Administration Officer, Switchboard Services, classification AO3, Logan Hospital.",
+ (1, "Metro South Hospital and Health Service produced a role description for the position of Administration Officer, Switchboard Services, Logan Hospital, which states the classification as \"A03\".",
      "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
  (2, "That role description states: \"The occupant of this position is required to work continuous shift work over the full 24-hour period, 7 days a week\".",
      "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
@@ -53,7 +53,7 @@ FACTS = [
      "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
  (10, "That role description states, as a key responsibility: \"The ability to multitask and operate under pressure, particularly where high volume call traffic is concerned\".",
      "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
- (11, "That role description states, as a key responsibility: \"Ability to work effectively as an individual with limited supervision to meet deadlines and establish work priorities\".",
+ (11, "That role description states, as a key responsibility: \"Ability to work effectively as an individual with limited supervision to meet deadlines and establish work priorities, and work as a member of a multi-disciplinary team in a changing environment\".",
      "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
  (12, "That role description states, as a key responsibility: \"Follow defined service quality standards, occupational health and safety policies and procedures relating to the work being undertaken to ensure high quality, safe services and workplaces\".",
      "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service"),
@@ -65,8 +65,6 @@ FACTS = [
      "Movement forms recording approved changes to working hours, approved by Mr S Hughes as delegate"),
  (16, "The Respondent does not allege that the Appellant ceased to be a continuous shift worker at any time before 18 June 2024.",
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (17, "The Appellant has been employed by Metro South Hospital and Health Service since 2019.",
-     "Appellant's amended statement of facts and contentions"),
  ("B", "THE HOURS THE APPELLANT SOUGHT, AND OBTAINED"),
  (18, "On 7 August 2023 at 12:21 pm the Appellant sent an email to Ms Chloe Taylor, Ms Tammy Reese, Ms Patricia Conaghan and Ms Tracey Smith, marked of High importance, which states: \"Furthermore, to meet the demands and the additional hours of the department both Patricia Conaghan and I would like to formally adhoc an additional 2 shifts per fortnight.\"",
      "R_REESE"),
@@ -99,7 +97,7 @@ FACTS = [
      "Email of Ms E Stibbard, 18 July 2023, produced under Tab 1 of the Stressor 1(a) particulars bundle served 11 August 2026"),
  (32, "That email states: \"While I am fixing up the database and all of its entries, I will be removing everyone's access to the database.\"",
      "As above"),
- (33, "That email states that Ms Stibbard's working hours for that purpose were \"every Tuesday and second Monday, 8:00 - 16:00\", that any entry required outside those hours was to be sent to Ms Taylor, and that a request made \"after hours (overnights, on the weekend or public holiday)\" would \"have to wait until either Chloe or myself are back\".",
+ (33, "That email states that Ms Stibbard's working hours for that purpose were \"every Tuesday and second Monday, 8:00 - 16:00\", that any entry was to be requested from her directly at any time, that an urgent entry needed on a day she was not there was to be sent to Ms Taylor instead, and that a request made \"after hours (overnights, on the weekend or public holiday)\" would \"have to wait until either Chloe or myself are back\".",
      "As above"),
  (34, "That email states: \"I have also removed the Contact & Number Changes book out of the room, as I would prefer, for now, to be sent all changes to my email.\"",
      "As above"),
@@ -109,13 +107,13 @@ FACTS = [
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (36, "The Respondent does not allege that access to the database used by the Switchboard was restored to the Appellant at any time before 18 June 2024.",
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (37, "On 16 June 2023 the Appellant wrote raising, among other workplace issues: \"No consultation of the team members or the department when making major changes such as additional shift, commence and finish times.\"",
+ (37, "On 16 June 2023 the Appellant wrote raising, among other workplace issues: \"No consultation of the team members or the department when making major changes such as additional shift... commence/finish [times].\"",
      "Affidavit of the Appellant (Form 20) filed 23 June 2026"),
  (38, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 26 an attachment described as \"Email: Task change switchboard - 19/04/2024\", and at item 27 an attachment described as \"Email: MASPER process - 09/05/2024\".",
      "Respondent's amended List of Documents dated 14 August 2026"),
  (39, "On 9 May 2024 at 9:20 am Ms Taylor sent an email to Dr Vivian Kwok and Dr Pan Jane Wong, subject \"RE: Switchboard issues 5 May, 7 May, and 8 May\", which states: \"Can I please confirm your business hours so we can have this for our reference, it is not provided on the rosters. I have noticed your dect phone number #5997 is currently switched off.\"",
      "MASPER register email records, 9-15 May 2024, produced under Tab 3 of the Stressor 1(a) particulars bundle served 11 August 2026"),
- (40, "On 9 May 2024 at 10:15 am Ms Taylor sent an email to Logan Switch, copied to Switchboard staff including the Appellant, subject \"MASPER process\", directing that \"all calls that switch transfer to the MASPER phone #5223 are being introduced\", without any prior consultation of the team.",
+ (40, "On 9 May 2024 at 10:15 am Ms Taylor sent an email to Logan Switch, copied to Switchboard staff including the Appellant, subject \"MASPER process\", directing that \"all calls that switch transfer to the MASPER phone #5223 are being introduced\".",
      "MASPER register email records, 9-15 May 2024, produced under Tab 3 of the Stressor 1(a) particulars bundle served 11 August 2026"),
  (41, "On 21 May 2024 Ms Reese asked the Appellant to identify the directives about which he had consultation concerns.",
      "Affidavit of the Appellant (Form 20) filed 23 June 2026"),
@@ -169,7 +167,7 @@ FACTS = [
  (54, "On 20 May 2024 at 2:05 pm the Appellant sent an email to Ms Taylor, marked of High importance, which states: \"switchboard staff may not be aware of the clinics due to modifications to the Document: Outpatients Department - Clinic contact Details. on the 22nd of February 2024. I recommend a modification and review of the document.\"",
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
  (55, "That email of the Appellant was sent within the office hours Ms Taylor had stated to all Switchboard staff on 17 May 2024, and twenty-five minutes before the conclusion of those hours.",
-     "R_TAYLOR; and the Respondent's disclosure - the Integrated Respiratory Service email chain, 15-20 May 2024"),
+     "R_TAYLOR"),
  (56, "That email of the Appellant was sent from the Logan Switch account.",
      "Respondent's disclosure - the Integrated Respiratory Service email chain, 15-20 May 2024"),
  (57, "On 20 May 2024 at 4:30 pm Ms Taylor replied to the Appellant, stating: \"Thank you for bringing this to my attention however this task was being actioned. I had discussed with Richard this morning about the update of outpatients respiratory/medical.\"",
@@ -330,10 +328,10 @@ FACTS = [
  (129, "That email of Ms Reese to LBH_HR attached the document \"qh-gdl-401-3.3\", being the Queensland Health Fatigue Risk Management Systems Implementation Guideline.",
      "R_FRMS"),
  ("I", "STRESSOR 3 - THE BREAK OF 17-18 MARCH 2024, THE 2020 AGREEMENT, AND THE LEAVE OF 19 MARCH 2024"),
- (131, "By letter dated 7 July 2026 Ms Lyndelle Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health Service, wrote to the Appellant stating that the roster \"provides more than 10-hour breaks between shifts\".",
-     "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
- (132, "That letter states: \"acknowledge you also signed an 8 hour agreement on 17 June 2020, which allows you to work with only an 8 hour break, however this is only applied where staff initiated shift swaps have occurred.\"",
-     "Letter of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
+ (131, "By email dated 7 July 2026 Ms Lyndelle Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health Service, wrote to the Appellant stating that the roster \"provides more than 10-hour breaks between shifts\".",
+     "Email of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
+ (132, "That email states: \"acknowledge you also signed an 8 hour agreement on 17 June 2020, which allows you to work with only an 8 hour break, however this is only applied where staff initiated shift swaps have occurred.\"",
+     "Email of Ms L Forrest, Senior Consultant HR, 7 July 2026"),
  (133, "The Respondent does not allege that the consecutive shifts of 17 and 18 March 2024 arose from a staff initiated shift swap.",
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (134, "The Leave Takings Report produced by Metro South Hospital and Health Service in respect of 19 March 2024 records the Leave Category as \"Sick\", the Leave Type as \"Sick Leave\", the Time Code as \"SCK\", the Leave Taken as 7.60 hours, and the Leave Status as \"APPROVED\".",
@@ -562,7 +560,7 @@ DOCS = [
   "signed by Ms N Cridland, Chief Executive", "5 June 2026"),
  ("Document, QH Leave Takings Report for the Appellant, produced by Metro South Health as item 15 "
   "of the Notice of non-party disclosure", "19 March 2024"),
- ("Letter, Ms L Forrest, Senior Consultant Human Resources, Logan and Beaudesert Health Service, "
+ ("Email, Ms L Forrest, Senior Consultant Human Resources, Logan and Beaudesert Health Service, "
   "to the Appellant", "7 July 2026"),
  ("Review Decision 69983, Workers' Compensation Regulator", "24 October 2024"),
  ("Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital",
@@ -625,7 +623,7 @@ for t in ["Dear Ms Matheson,",
           "authenticity be admitted. The documents are those already exchanged between the parties "
           "or listed in the Respondent's amended List of Documents dated 14 August 2026.",
           "Copies of the following are enclosed, as they may not be in the Respondent's possession: the "
-          "letter of Ms L Forrest dated 7 July 2026; the QH Leave Takings Report for 19 March 2024; "
+          "email of Ms L Forrest dated 7 July 2026; the QH Leave Takings Report for 19 March 2024; "
           "the myHR submissions report for 1 February to 31 May 2024; "
           "and the Stressor 1(a) particulars bundle served on 11 August 2026. I am content to "
           "provide a copy of any other document listed.",

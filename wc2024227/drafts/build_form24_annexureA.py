@@ -100,7 +100,7 @@ ITEMS = [
  (20, "Letter, Metro South Hospital and Health Service to Commissioner Dwyer, reference "
     "K-LM26/729, signed by Ms N Cridland, Chief Executive",
     "5 June 2026", "2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, 5),
- (21, "Letter, Ms L Forrest, Senior Consultant Human Resources, to the Appellant",
+ (21, "Email, Ms L Forrest, Senior Consultant Human Resources, to the Appellant",
     "7 July 2026", "2026-07-07_Forrest_ECC_further_information_FULL.pdf", 1, None),
  (22, "Consultation Paper - Proposed Rosters for Switchboard Services, Logan Hospital",
     "November 2024", "2024-11-14_MSH_Consultation_Paper_Proposed_Rosters_LH_Switchboard.pdf", 1, None),
