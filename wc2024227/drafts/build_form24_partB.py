@@ -29,18 +29,71 @@ for f in g['FACTS']:
     else: SEC[cur].append(f[0])
 def rng(*letters):
     ns = sorted(n for L in letters for n in SEC.get(L, []))
-    return f"{ns[0]}&ndash;{ns[-1]}" if ns else "-"
+    if not ns: return "-"
+    spans, lo, prev = [], ns[0], ns[0]
+    for n in ns[1:]:
+        if n == prev + 1: prev = n; continue
+        spans.append((lo, prev)); lo = prev = n
+    spans.append((lo, prev))
+    parts = [f"{a}&ndash;{b}" if a != b else str(a) for a, b in spans]
+    return parts[0] if len(parts) == 1 else ", ".join(parts[:-1]) + " and " + parts[-1]
 
 # limb, heading, composite (2-3 sentences, fact not conclusion), source sections
 ITEMS = [
- ("1(a)", "The database, the directives, and the two accumulations",
-  "From 18 July 2023 the Appellant's access to the Switchboard database was removed and, on the "
-  "Respondent's pleadings, was not restored before 18 June 2024, while the duties requiring that "
-  "access remained assigned to him. During that period the Respondent issued the changes of "
-  "15 April 2024, 9 May 2024 and 17 May 2024 to the Switchboard team by email. Between 2 and "
-  "8 May 2024 the MASPER Registrar reported nine occasions of misrouted calls to Ms Taylor, and "
-  "between 15 and 20 May 2024 the Integrated Respiratory Service twice reported that calls "
-  "continued to be misdirected to it.", ("D", "E")),
+ ("Prelim.", "The role, and the hours the Appellant sought and obtained",
+  "The role description for Administration Officer, Switchboard Services, Logan Hospital states "
+  "that the occupant \"is required to work continuous shift work over the full 24-hour period, "
+  "7 days a week\", that the position reports to the Switchboard Manager, and that its "
+  "responsibilities include maintaining the Omnivista database, maintaining pager registers, and "
+  "participating in the emergency response process \"strictly adhering to protocols and "
+  "timeframes\". On 18 February 2026 the Respondent admitted that \"Maintaining accurate contact "
+  "details for medical staff is a critical function of the Switchboard to ensure effective clinical "
+  "handover and patient safety\". In August and September 2023 the Appellant sought additional "
+  "hours and confirmed in writing that he was \"able and willing to work any roster that is "
+  "presented to me, including the current schedule with full 24-hour availability\"; Ms Taylor "
+  "approved permanent full-time hours on 27 September 2023, commencing 16 October 2023.",
+  ("A", "C")),
+ ("1(a)", "The database, the directives, the stated hours, and the two accumulations",
+  "<b>The database.</b> From 18 July 2023 the Appellant's access to the Switchboard database was "
+  "removed by Ms Stibbard, who stated her own hours for making entries as \"every Tuesday and "
+  "second Monday, 8:00 - 16:00\", directed that entries be requested from her directly, directed "
+  "that an urgent entry needed on a day she was absent be sent to Ms Taylor, stated that a request "
+  "made \"after hours (overnights, on the weekend or public holiday)\" would \"have to wait until "
+  "either Chloe or myself are back\", and removed the Contact &amp; Number Changes book from the "
+  "room. On the Respondent's pleadings that access was not restored before 18 June 2024, and the "
+  "duties requiring it remained assigned to the Appellant throughout.<br/><br/>"
+  "<b>The on-call change, and the hours.</b> On 15 April 2024 at 12:39 pm Ms Taylor notified Logan "
+  "Switch that she and Ms Stibbard had added themselves to after-hours on call, \"effective from "
+  "today\", signing as \"A/Switchboard Manager\". The only statement of her hours then before the "
+  "team was the range recorded in her email of 23 August 2023, a start \"between 6:00 to 9:00 am\" "
+  "and a finish \"between 2:00 to 5:00 pm\". She did not state fixed office hours to the team until "
+  "17 May 2024 at 9:30 am, when she gave them as \"06:30-14:30\", an interval of 32 days.<br/><br/>"
+  "<b>The MASPER accumulation.</b> Between 2 and 8 May 2024 the MASPER Registrar reported nine "
+  "occasions of misrouted calls to Ms Taylor in two emails, the second five days after the first. "
+  "Ms Taylor answered the Registrar on 9 May 2024 at 9:20 am and told Logan Switch at 10:15 am "
+  "that day, six days after the first report.<br/><br/>"
+  "<b>The request for hours and consultation.</b> On 15 May 2024 at 1:15 pm the Appellant asked Ms "
+  "Taylor, copied to the Switchboard staff, Ms Reese and LBH_HR, to share her office hours and to "
+  "ensure that directives and changes were made in consultation with the team. Ms Reese replied at "
+  "6:23 pm asking him to retract that email, and on 21 May 2024 at 2:53 pm asked him to identify "
+  "which changes or directives had concerned him.<br/><br/>"
+  "<b>The respiratory directory.</b> On 15 May 2024 at 11:47 am and again on 20 May 2024 at "
+  "11:03 am the Integrated Respiratory Service asked that the directory be corrected, the second "
+  "email recording that the calls had continued. The Appellant's recommendation followed at 2:05 pm "
+  "on 20 May 2024, three hours and two minutes after the second request and within the office hours "
+  "Ms Taylor had stated three days earlier. Ms Taylor replied at 4:30 pm, two hours after those "
+  "stated hours concluded.", ("D", "E")),
+ ("1(a)", "The notification of unavailability, 13 to 15 May 2024",
+  "Ms Taylor's email of 15 April 2024 states that during office hours the Appellant was to contact "
+  "her \"through switch/office or mobile\", and her email of 14 May 2024 at 12:08 pm states that he "
+  "could contact her \"either through switch or my office/mobile\". Each identifies the Switchboard "
+  "as a permitted means of contact. Ms Taylor's email to Ms McNamee of 17 May 2024 at 1:20 pm "
+  "records that on each of 13, 14 and 15 May 2024 the Appellant notified his unavailability by "
+  "telephoning the Switchboard, and records of the call of 13 May 2024: \"I told him I am more than "
+  "happy to cover his shift and if he was unwell, it would be preferred for him not to come into "
+  "work.\" No document recording that Ms McNamee sought the Appellant's account of those matters "
+  "has been identified or disclosed in the Respondent's disclosed material presently before the "
+  "Commission.", ("H",)),
  ("1(b)", "The communication book",
   "On 6 June 2023 Ms Taylor removed a page from the workplace communication book. In an email to "
   "Ms Reese of the same day she stated: \"I did raise my voice and asked him to please stop "
@@ -102,6 +155,25 @@ ITEMS = [
   "Appellant \"still did not receive a minimum 8-hour break\", and that \"the rostering of these "
   "two shifts amounted to unreasonable management action\". The Respondent admitted the contents "
   "of that decision on 18 February 2026.", ("P",)),
+ ("General", "The Appellant's contemporaneous account, and the documents the Respondent lists",
+  "On 11 August 2026 the Appellant served on the Respondent a bundle titled \"Stressor 1(a) - "
+  "Particulars support bundle\", comprising 30 pages and six tabs, each stating a particular of "
+  "Stressor 1(a) and enclosing the documents recording it. The Respondent's amended List of "
+  "Documents dated 14 August 2026 lists the emails the Appellant sent to WorkCover Queensland "
+  "between 12 July and 30 August 2024, including the attachments described as \"Event overview\", "
+  "\"Witness statement - Carolyn Jeffrey\", \"Email: After hours on call process\", \"Email: Task "
+  "change switchboard - 19/04/2024\" and \"Email: MASPER process - 09/05/2024\", and a follow up "
+  "statement from Ms Jeffrey dated 1 August 2024.", ("Q",)),
+ ("General", "The matters not done, and the matters not alleged",
+  "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently "
+  "constituted, does not allege that any fatigue risk assessment was conducted, or any fatigue risk "
+  "management training provided to the Appellant, or fatigue risk management assessment implemented "
+  "at Logan Hospital Switchboard, at any time before 30 June 2024. Nor does it allege that the "
+  "Appellant was subject to any disciplinary process, or to any formal performance management "
+  "process, at any time before 18 June 2024, or describe any communication with him before that "
+  "date as a warning. Paragraph 27 of that statement does not identify, by particular, date, "
+  "document or cross-reference, the management action relied upon for the contention in that "
+  "paragraph.", ("O", "S")),
 ]
 
 H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=14, leading=17, spaceAfter=3)
