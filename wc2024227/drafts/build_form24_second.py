@@ -133,6 +133,28 @@ FACTS = [
      "R_TAYLOR"),
  (49, "On 17 May 2024 at 1:20 pm Ms Taylor sent an email to Ms Adriana McNamee with the subject \"FW: Office Hours and Departmental Directives\", which states: \"when staff call in for any leave to please contact me either via switch, office or my mobile.\"",
      "R_TAYLOR"),
+ (0, "On 15 May 2024 at 1:15 pm the Appellant sent an email to Ms Taylor and Logan Switch, copied to Switchboard staff, Ms Reese and LBH_HR, with the subject \"Office Hours and Departmental Directives\", which states: \"could you please share your office hours so the entire department can be aware of your regular schedule? There has been some noted inconsistency in your arrival and departure times\".",
+     "R_FRMS"),
+ (0, "That email of the Appellant states: \"please ensure that any directives and changes within the department is made in consultation with the team to ensure that any concerns can be appropriately addressed.\"",
+     "R_FRMS"),
+ (0, "On 15 May 2024 at 6:23 pm Ms Reese replied to the Appellant, copied to Ms Taylor and marked of High importance, stating that his email \"did not demonstrate our iCARE2 value of Respect and did not comply with our Code of conduct\".",
+     "R_FRMS"),
+ (0, "That reply of Ms Reese asked the Appellant to retract his email.",
+     "R_FRMS"),
+ (0, "On 15 May 2024 at 7:09 pm the Appellant replied to Ms Reese stating: \"Requesting clarity on business hours is a reasonable question, especially when no one in the department can provide a definitive answer in response to directives to contact Chloe during office hours.\"",
+     "R_FRMS"),
+ (0, "On 21 May 2024 at 2:53 pm Ms Reese replied to the Appellant stating: \"With regards to your concerns about having more clarity as to what are Chole's business hours I will follow up on the issues raised.\"",
+     "R_FRMS"),
+ (0, "That reply of Ms Reese states: \"can I ask was there one or more particular changes and/or directives where you had concerns about consultation and communication?\"",
+     "R_FRMS"),
+ (0, "The email of Ms Taylor to Ms McNamee of 17 May 2024 at 1:20 pm states, of the Appellant's telephone call of 13 May 2024: \"I told him I am more than happy to cover his shift and if he was unwell, it would be preferred for him not to come into work.\"",
+     "R_FRMS"),
+ (0, "That email of Ms Taylor states: \"I sent an email (attached) to advise Cory again of the call process and a query about his leave. I also sent a follow up text, advised by the last HR rep to also follow up with a text to Cory\".",
+     "R_FRMS"),
+ (0, "That email of Ms Taylor records that on each of 13, 14 and 15 May 2024 the Appellant notified his unavailability by telephoning the Switchboard.",
+     "R_FRMS"),
+ (0, "The Respondent has not disclosed any document recording that Ms McNamee sought the Appellant's account of the matters described in Ms Taylor's email of 17 May 2024 at 1:20 pm.",
+     "The Respondent's disclosure in this proceeding"),
  ("D", "STRESSOR 1(a) - THE DELAY IN COMMUNICATION AND THE MATTERS RAISED IN MAY 2024"),
  (50, "On 15 May 2024 at 11:47 am Ms Sue Marriott, Administration Officer, Integrated Respiratory Service, sent an email to Logan Switch, marked of High importance, which states: \"Could you please amend your number registry/directory to show #8768 belongs to the Integrated Respiratory Service... We are not Respiratory Medical OPD and we do not have any doctors working out of this area.\"",
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
@@ -140,18 +162,20 @@ FACTS = [
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
  (52, "The email of Ms Marriott of 20 May 2024 at 11:03 am was sent five days after her email of 15 May 2024 at 11:47 am.",
      "Respondent's disclosure - the Integrated Respiratory Service email chain, 15-20 May 2024"),
- (53, "The Appellant's rostered shift on 20 May 2024 concluded at 2:00 pm.",
-     "Switchboard services roster for the fortnight commencing 13 May 2024"),
+ (53, "The office hours stated by Ms Taylor in her email of 17 May 2024 at 9:30 am concluded at 2:30 pm.",
+     "R_TAYLOR"),
  (54, "On 20 May 2024 at 2:05 pm the Appellant sent an email to Ms Taylor, marked of High importance, which states: \"switchboard staff may not be aware of the clinics due to modifications to the Document: Outpatients Department - Clinic contact Details. on the 22nd of February 2024. I recommend a modification and review of the document.\"",
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
- (55, "That email of the Appellant was sent five minutes after the conclusion of his rostered shift on that day.",
-     "Respondent's disclosure - the Integrated Respiratory Service email chain, 15-20 May 2024"),
+ (55, "That email of the Appellant was sent within the office hours Ms Taylor had stated to all Switchboard staff on 17 May 2024, and twenty-five minutes before the conclusion of those hours.",
+     "R_TAYLOR; and the Respondent's disclosure - the Integrated Respiratory Service email chain, 15-20 May 2024"),
  (56, "That email of the Appellant was sent from the Logan Switch account.",
      "Respondent's disclosure - the Integrated Respiratory Service email chain, 15-20 May 2024"),
  (57, "On 20 May 2024 at 4:30 pm Ms Taylor replied to the Appellant, stating: \"Thank you for bringing this to my attention however this task was being actioned. I had discussed with Richard this morning about the update of outpatients respiratory/medical.\"",
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
  (58, "That reply of Ms Taylor states: \"Taking note of your recommendation, we can also put the updated procedures out to the team for consultation before implementing.\"",
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure"),
+ (0, "That reply of Ms Taylor was sent two hours after the conclusion of the office hours she had stated to all Switchboard staff on 17 May 2024.",
+     "R_TAYLOR; and the Respondent's own disclosure"),
  (59, "Mr Richard Parry was at that time a member of the Switchboard staff at Logan Hospital.",
      "Email of the Appellant of 15 May 2024 at 1:15 pm, Respondent's disclosure of 11 June 2026"),
  (60, "The Respondent has not disclosed any document recording a communication sent by Ms Taylor to Ms Marriott, or to the Integrated Respiratory Service, on 20 May 2024.",
@@ -186,8 +210,8 @@ FACTS = [
      "R_TAYLOR"),
  (74, "On 13, 14 and 15 May 2024 the Appellant notified his unavailability for his rostered shift by telephoning the Switchboard.",
      "Ms Taylor's email to Ms McNamee, 17 May 2024, which records each of those three calls"),
- (75, "The document entitled \"Logan Hospital Switchboard Sick Leave Process\", version 1.1, is dated 4 February 2025.",
-     "Attachment to the letter of Mr Scott Hughes dated 8 September 2025, page 1"),
+ (75, "The Respondent has not disclosed any document recording a process for notifying unavailability for a rostered shift at Logan Hospital Switchboard which was in force in May 2024.",
+     "Respondent's amended List of Documents dated 14 August 2026; and the Respondent's disclosure in this proceeding"),
  (76, "The Respondent does not allege that any written procedure governing the notification of unavailability for a rostered shift at Logan Hospital Switchboard existed before 4 February 2025.",
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  ("O", "STRESSOR 1(g) - THE UNION DELEGATE, AND THE CONSULTATION ON ROSTERS"),
@@ -288,6 +312,12 @@ FACTS = [
  (123, "On 1 May 2024 at 1:18 pm the Appellant sent an email to Ms Reese with the subject \"Roster Concerns\" referring to section 4, clause 10.4.1 of the Operations Manual and stating: \"This section includes a toolkit required by management to manage fatigue and implement appropriate protocols and adhere to the workplace health and safety act.\"",
      "R_REESE"),
  (124, "That email states: \"I forwarded the toolkit to Chloe last week for review and action but have yet to receive feedback\".",
+     "R_REESE"),
+ (0, "On 26 April 2024 at 1:52 pm Ms Reese sent an email to the Appellant with the subject \"Roster Concerns\", which states: \"Chloe was aware of the concern you had with regards to the nights and then nights again on the new roster for the fortnight and Chloe was working to fix this error and would get in touch with you about what alternative shifts she could offer.\"",
+     "R_REESE"),
+ (0, "That email of Ms Reese records a meeting with the Appellant on Tuesday 16 April 2024 at which he raised roster concerns.",
+     "R_REESE"),
+ (0, "That email of Ms Reese states: \"I asked Chloe to follow upon what should be the interpretation of this section with HR\".",
      "R_REESE"),
  (125, "On 8 May 2024 at 9:08 am Ms Reese replied to the Appellant stating: \"Thanks for raising these observations and concerns. I am following up with regards to these with HR for further advice and I will get back to you asap with a response.\"",
      "R_REESE"),
@@ -483,6 +513,18 @@ s.append(P("TAKE NOTICE that the Appellant also asks the Respondent to admit, fo
            "disputing the authenticity of those documents, the Respondent is taken to admit their "
            "authenticity for this proceeding only.", BODY))
 
+
+_n = 0
+_new = []
+for _f in FACTS:
+    if isinstance(_f[0], str):
+        _new.append(_f)
+    else:
+        _n += 1
+        _new.append((_n,) + tuple(_f[1:]))
+FACTS = _new
+del _n, _new
+
 DOCS = [
  ("Email, the Appellant to Ms C Taylor, Ms T Reese, Ms P Conaghan and Ms T Smith, \"Increase of "
   "hours and Workplace issues\"", "7 August 2023, 12:21 pm"),
@@ -518,7 +560,6 @@ DOCS = [
  ("Email, Ms C Taylor to the Appellant, \"RE: Respiratory Nurse Educators\"",
   "20 May 2024, 4:30 pm"),
  ("Email, Ms T Reese to LBH_HR, \"FW: Roster Concerns\"", "20 May 2024, 4:07 pm"),
- ("Document, \"Logan Hospital Switchboard Sick Leave Process\", version 1.1", "4 February 2025"),
  ("Letter, Metro South Hospital and Health Service to Commissioner Dwyer, reference K-LM26/729, "
   "signed by Ms N Cridland, Chief Executive", "5 June 2026"),
  ("Document, QH Leave Takings Report for the Appellant, produced by Metro South Health as item 15 "
@@ -543,8 +584,15 @@ DOCS = [
   "Health", "December 2024"),
  ("Email, Mr H Moran, Organiser, Together Queensland, to Ms C Jeffrey, Ms P Conaghan and the "
   "Appellant, \"Switchboard Roster Feedback - For Delegates\"", "3 November 2025, 10:57 am"),
- ("Letter, Ms L Forrest, Senior Consultant Human Resources, to the Appellant", "7 July 2026"),
- ("Review Decision 69983, Workers' Compensation Regulator", "24 October 2024"),
+ ("Email chain, \"Office Hours and Departmental Directives\" - the Appellant to Ms C Taylor and "
+  "Logan Switch copied to Switchboard staff, Ms T Reese and LBH_HR; the reply of Ms Reese; the "
+  "reply of the Appellant", "15 May 2024"),
+ ("Email, Ms T Reese to the Appellant, \"RE: Office Hours and Departmental Directives\"",
+  "21 May 2024, 2:53 pm"),
+ ("Email, Ms C Taylor to Ms A McNamee, \"FW: Office Hours and Departmental Directives\"",
+  "17 May 2024, 1:20 pm"),
+ ("Document, Fatigue risk management systems - Implementation guideline QH-GDL-401-3.3:2021, "
+  "being the attachment to the email of Ms T Reese of 10 May 2024", "2021"),
 ]
 drows = [[P("<b>No.</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Date</b>", SMALL),
           P("<b>Authenticity admitted / disputed</b>", SMALL)]]
@@ -574,7 +622,7 @@ for t in ["Dear Ms Matheson,",
           "or listed in the Respondent's amended List of Documents dated 14 August 2026.",
           "Copies of the following are enclosed, as they may not be in the Respondent's possession: the "
           "letter of Ms L Forrest dated 7 July 2026; the QH Leave Takings Report for 19 March 2024; "
-          "the \"Logan Hospital Switchboard Sick Leave Process\" version 1.1 dated 4 February 2025; "
+          "the myHR submissions report for 1 February to 31 May 2024; "
           "and the Stressor 1(a) particulars bundle served on 11 August 2026. I am content to "
           "provide a copy of any other document listed.",
           "Kind regards,<br/>Cory Lea Shepherd<br/>Appellant (self-represented), WC/2024/227"]:
