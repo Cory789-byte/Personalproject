@@ -20,7 +20,7 @@ OUT = "out/FORM24_PART_B_SUMMARY.pdf"
 # ---- pull the itemised schedule and index it by section letter ----
 src = open('build_form24_second.py').read()
 _blk = src[src.index('R_TAYLOR ='):src.index('\n]\n', src.index('FACTS = ['))+2]
-_ren = src[src.index('_SRC = {'):src.index('_L, _relab')+len('_L, _relab')]
+_ren = src[src.index('import re as _re'):src.index('_L, _relab')+len('_L, _relab')]
 g = {}; exec(_blk, g, g); exec(_ren, g, g)
 SEC = {}
 cur = None

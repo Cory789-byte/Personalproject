@@ -31,7 +31,7 @@ ITEMS = [
  (2, "Email chain, the Appellant to Ms C Taylor, Ms T Reese, Ms P Conaghan and Ms T Smith, "
     "\"Increase of hours and Workplace issues\", and the replies of Ms Taylor and Ms Reese in the "
     "same chain", "7 to 8 August 2023",
-    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 16, 19),
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 16, 21),
  (3, "Email, Ms T Reese to the Appellant attaching HR Policy E12; and the emails of 4 and "
     "8 September 2023", "29 August to 8 September 2023",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 14, 15),
@@ -111,13 +111,16 @@ ITEMS = [
     "2025-11-03_Together_Moran_delegate_endorsement_Shepherd_Jeffrey_Conaghan.pdf", 1, None),
  (25, "Review Decision 69983, Workers' Compensation Regulator", "24 October 2024",
     "Review_Decision_69983_24.10.2024.pdf", 1, None),
- (26, "Respondent's response to the Appellant's notice to admit facts, signed by Ms R Matheson, "
-    "Senior Appeals Officer", "18 February 2026",
+ (26, "Notice to admit facts served by the Appellant on the Respondent, to which the response at "
+    "Tab 27 was given", "served before 18 February 2026",
+    "2026-02-18_Form24_Response_and_email_communication.pdf", 1, 6),
+ (27, "Respondent's response to that notice, signed by Ms R Matheson, Senior Appeals Officer",
+    "18 February 2026",
     "2026-02-18_Form24_Response_and_email_communication.pdf", 7, 10),
- (33, "myHR leave request history for Process Reference 15480560, produced by Metro South Health "
+ (28, "myHR leave request history for Process Reference 15480560, produced by Metro South Health "
     "as Item 11 of the notice of non-party disclosure", "20 February to 1 March 2024",
     "disclosure-2026-06_MSH_production/Item 11 AVAC PRN 15480560 History.pdf", 1, None),
- (34, "Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special "
+ (29, "Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special "
     "Pandemic Leave, signed by Ms N Cridland, produced as Item 13", "effective 5 December 2022",
     "disclosure-2026-06_MSH_production/item 13 delegation-hr-covid-directive-special-and-pandemic-leave-51222.pdf", 1, None),
 ]
@@ -146,7 +149,7 @@ def build_index(first_page):
         start += n
     st = [P("Annexure A to the notice to admit facts - the documents", H1),
           P("WC/2024/227 &middot; Shepherd v Workers' Compensation Regulator &middot; the documents "
-            "referred to in Schedule B, in the order there listed", SUB)]
+            "listed in the schedule to the notice, in the order there listed", SUB)]
     rows = [[P("Tab", CH), P("Document", CH), P("Date", CH), P("Pages", CH), P("At", CH)]]
     for tab, desc, date, n, a, b in idx_rows:
         rows.append([P(str(tab)), P(desc), P(date), P(str(n)), P(f"{a}-{b}" if b > a else str(a))])

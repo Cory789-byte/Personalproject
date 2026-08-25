@@ -4,6 +4,7 @@ Replicates Form 24 - Notice to admit facts, Version 4 (State of Queensland 2018)
 Facts are imported from build_form24_second.py so there is one source of truth.
 """
 import re, os, pikepdf
+SERVE_CLEAN = os.environ.get('SERVE') == '1'
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import mm
@@ -14,13 +15,15 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
 # ---- import the single source of truth for the facts + documents ----
 src = open('build_form24_second.py').read()
 _blk = src[src.index('R_TAYLOR ='):src.index('\n]\n', src.index('FACTS = ['))+2]
-_renumber = src[src.index('_SRC = {'):src.index('_L, _relab')+len('_L, _relab')]
+_renumber = src[src.index('import re as _re'):src.index('_L, _relab')+len('_L, _relab')]
 ns = {}
 exec(_blk, ns, ns)
 exec(_renumber, ns, ns)
 FACTS = ns['FACTS']
-m = re.search(r'DOCS = \[(.*?)\n\]', src, re.S)
-DOCS = eval('[' + m.group(1) + ']')
+_a = open('build_form24_annexureA.py').read()
+_i = _a.index('ITEMS = ['); _j = _a.index('\n]\n', _i) + 2
+_ns = {}; exec(_a[_i:_j], _ns, _ns)
+DOCS = [(str(t), d, dt) for t, d, dt, _p, _p1, _p2 in _ns['ITEMS']]
 
 ss = getSampleStyleSheet()
 ORG = colors.HexColor('#8a5a1a')
@@ -108,7 +111,7 @@ story.append(box([[P("Signature:", FLD), P("<br/><br/>", VAL)],
 
 # ---- Annexure A: documents (r 49 authenticity limb) ----
 story.append(Spacer(1, 8*mm))
-story.append(P("ANNEXURE A &ndash; DOCUMENTS", ParagraphStyle('AH', parent=TITLE, fontSize=13, leading=17)))
+story.append(P("SCHEDULE OF DOCUMENTS &ndash; ANNEXURE A", ParagraphStyle('AH', parent=TITLE, fontSize=13, leading=17)))
 story.append(P("Authenticity to be admitted &ndash; <i>Industrial Relations (Tribunals) Rules "
                "2011</i>, rule 49", LEG))
 story.append(Spacer(1, 3*mm))
@@ -117,9 +120,9 @@ story.append(P("Take notice that the appellant also asks the respondent to admit
                "the respondent does not within 14 days after receiving this notice serve a notice "
                "on the appellant disputing the authenticity of those documents, the respondent is "
                "taken to admit their authenticity for this proceeding only.", BODY))
-drows = [[P("No.", CH), P("Document", CH), P("Date", CH), P("Authenticity admitted / disputed", CH)]]
-for i, (d, dt) in enumerate(DOCS, 1):
-    drows.append([P(f"<b>{i}</b>", CELL), P(d, CELL), P(dt, CELL), P("", CELL)])
+drows = [[P("Tab", CH), P("Document", CH), P("Date", CH), P("Authenticity admitted / disputed", CH)]]
+for tab, d, dt in DOCS:
+    drows.append([P(f"<b>{tab}</b>", CELL), P(d, CELL), P(dt, CELL), P("", CELL)])
 dt_ = Table(drows, colWidths=[11*mm, 89*mm, 26*mm, 32*mm], repeatRows=1)
 dt_.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.7, colors.black),
     ('VALIGN', (0,0), (-1,-1), 'TOP'), ('ALIGN', (0,0), (0,-1), 'CENTER'),
@@ -132,11 +135,12 @@ story.append(box([[P("Signature:", FLD), P("<br/><br/>", VAL)],
                   [P("Title of office held:", FLD), P("Appellant (self-represented)", VAL)],
                   [P("Date:", FLD), P("_____ / _____ / __________", VAL)]], [45*mm, 113*mm]))
 story.append(Spacer(1, 5*mm))
-story.append(P("<b>BEFORE SERVICE - delete this note.</b> (1) Verify every quotation against its "
-               "source document. (2) Check the radio selections above: the appellant proposes to "
-               "prove the facts, and the notice is served on the respondent. (3) Confirm this is "
-               "the current version of Form 24 on the Commission's website before filing or "
-               "serving. (4) Sign and date both signature blocks.", NOTE))
+if not SERVE_CLEAN:
+    story.append(P("<b>BEFORE SERVICE - delete this note.</b> (1) Verify every quotation against its "
+                   "source document. (2) Check the radio selections above: the appellant proposes to "
+                   "prove the facts, and the notice is served on the respondent. (3) Confirm this is "
+                   "the current version of Form 24 on the Commission's website before filing or "
+                   "serving. (4) Sign and date both signature blocks.", NOTE))
 
 OUT = "out/FORM24_COMPLETED_OFFICIAL_FORM.pdf"
 doc = BaseDocTemplate(OUT, pagesize=A4, leftMargin=17*mm, rightMargin=17*mm,
