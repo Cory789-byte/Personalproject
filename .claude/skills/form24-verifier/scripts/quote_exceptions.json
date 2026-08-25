@@ -1,0 +1,9 @@
+{
+  "_comment": "Quotes confirmed present on the rendered bundle page but invisible to text extraction. Each entry: fact-quote fragment -> reason. Re-verify by render if the cited source file changes.",
+  "exceptions": [
+    {"fragment": "Elaine Grant, Client Service Officer, Metro South Payroll Team",
+     "reason": "signature block renders in two interleaved columns on the payroll pack page; all words present, order broken", "verified": "2026-08-25 grep of column fragments"},
+    {"fragment": "Just letting you know that I am still I am waiting payroll confirmation",
+     "reason": "FRMS source drops ti/tt glyphs ('s ll', 'wai ng'); words legible on rendered page", "verified": "2026-08-25 render + mangled-variant grep"}
+  ]
+}

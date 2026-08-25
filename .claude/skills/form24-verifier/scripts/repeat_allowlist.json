@@ -1,0 +1,9 @@
+{
+  "_comment": "Normalised quote strings that legitimately appear in more than one fact.",
+  "allow": [
+    "re switchboard issues 5 may 7 may and 8 may",
+    "employee cory shepherd submitted request",
+    "reviewer chloe donovan taylor declined request",
+    "outpatients department clinic contact details"
+  ]
+}
