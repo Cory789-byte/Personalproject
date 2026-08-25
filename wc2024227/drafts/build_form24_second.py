@@ -215,8 +215,6 @@ FACTS = [
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure - Annexure A Tab 11"),
  (51, "On 20 May 2024 at 11:03 am Ms Marriott sent a further email to Logan Switch, marked of High importance, which states: \"Just a courtesy reminder, we continue to get calls put through to us for Respiratory Medical Outpatients... we can not help patients or other clinical staff with OPD issues.\"",
      "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure - Annexure A Tab 11"),
- (0, "The email of Ms Marriott of 20 May 2024 at 11:03 am states that the calls had continued in the intervening period: \"we continue to get calls put through to us for Respiratory Medical Outpatients\".",
-     "Stressor 1(a) particulars bundle served on the Respondent 11 August 2026, Tab 4; and the Respondent's own disclosure - Annexure A Tab 11"),
  (0, "The Appellant's email of 20 May 2024 at 2:05 pm was sent three hours and two minutes after the email of Ms Marriott of that day at 11:03 am.",
      "Arithmetic"),
  (0, "The Appellant's email of 20 May 2024 at 2:05 pm was sent five days, two hours and eighteen minutes after the first email of Ms Marriott of 15 May 2024 at 11:47 am.",
@@ -322,6 +320,21 @@ FACTS = [
      "myHR submissions report for the Appellant, 1 February to 31 May 2024, produced by Metro South Health as Item 11 of the notice of non-party disclosure - Annexure A Tab 15"),
  (0, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that any other Switchboard employee was required to submit a Special Pandemic Leave request personally through myHR in February 2024.",
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ ("Z", "STRESSOR 1(b) - THE COMMUNICATION BOOK, AND MS TAYLOR'S EMAIL OF 6 JUNE 2023"),
+ (0, "The Respondent's amended statement of facts and contentions dated 13 May 2026 states at paragraph 12(a): \"admits that the Ms Taylor did remove pages from the Communication Book on or around 6 June 2023\".",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (0, "That amended statement of facts and contentions states at paragraph 12(b): \"says this event was reported from Ms Taylor to Ms Reese on 6 June 2023 via email\".",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (0, "On 6 June 2023 at 4:05 pm Ms Taylor sent an email to Ms Reese with the subject \"Fwd: Communication Book Update\".",
+     "Email of Ms C Taylor to Ms T Reese, 6 June 2023, 4:05 pm, \"Fwd: Communication Book Update\" - Respondent's disclosure - Annexure A Tab 1B"),
+ (0, "That email states: \"I was not aware of who put this entry in at the time but I took it out last week as it was clearly an indirect dig at the team and there is already a procedure to follow with this certain entry.\"",
+     "As above"),
+ (0, "That email states: \"I just feel like it's being used as a 'burn book' more than a professional tool that switchboard can use to communicate.\"",
+     "As above"),
+ (0, "Beneath it in the same document is Ms Taylor's email to Logan Switch of 6 June 2023 at 9:57 am, subject \"Communication Book Update\", copied to Switchboard staff including the Appellant.",
+     "As above"),
+ (0, "That email of 9:57 am states: \"This is not used to simply put your point across or make any indirect comments towards the team.\"",
+     "As above"),
  ("E", "STRESSOR 1(c) - THE MATTERS RAISED IN AUGUST AND SEPTEMBER 2023, AND THE RESPONSE"),
  (65, "The Appellant's email of 7 August 2023 at 12:21 pm states: \"Please give me some space and stop with any further communication as I have had enough of it.\"",
      "R_REESE"),
@@ -665,6 +678,8 @@ for _f in FACTS:
             _rest[1] = _SRC.get(_rest[1], _rest[1])
             _t = _rest[0]
             for _pat, _tab in _TABRULES:
+                if 'notice to which it responds' in _rest[1]:
+                    break
                 if _re.search(_pat, _t):
                     _rest[1] = _re.sub(r' - Annexure A Tabs? [0-9A-C, and]+',
                                        ' - Annexure A Tab ' + _tab, _rest[1])

@@ -66,7 +66,7 @@ ITEMS = [
   "shift work\", attaching a draft roster he had prepared. On 27 September 2023 at 1:52 pm Ms "
   "Taylor advised him the application \"has been approved\" and that she was \"happy to commence "
   "Full-time hours from the 16th October 2023\" - 51 days after the first request.",
-  ("A", "C", "R")),
+  ("A", "C", "S")),
 
  ("1(a)", "The database, the directives, the stated hours, and the two accumulations",
   "<b>The database.</b> On 18 July 2023 Ms Stibbard, describing her role as \"a project role\" and "
@@ -169,9 +169,16 @@ ITEMS = [
   "the second and third followed it. The Respondent's amended statement of facts and contentions, "
   "as presently constituted, does not allege that the Appellant was informed, at any time before 14 "
   "May 2024, that notifying his unavailability by telephoning the Switchboard did not comply with "
-  "the process required of him.", ("H",)),
+  "the process required of him.", ("I",)),
 
  ("1(b)", "The communication book",
+  "On 6 June 2023 at 4:05 pm Ms Taylor emailed Ms Reese under the subject \"Fwd: Communication "
+  "Book Update\", stating: \"I was not aware of who put this entry in at the time but I took it "
+  "out last week as it was clearly an indirect dig at the team and there is already a procedure to "
+  "follow with this certain entry\", and \"I just feel like it's being used as a 'burn book' more "
+  "than a professional tool that switchboard can use to communicate\". The Respondent pleads at "
+  "paragraph 12(a) that it \"admits that the Ms Taylor did remove pages from the Communication "
+  "Book on or around 6 June 2023\".<br/><br/>"
   "In its response to the Appellant's notice to admit facts, signed and served by Ms Renee "
   "Matheson, Senior Appeals Officer, on 18 February 2026, the Respondent admitted \"that Ms Taylor "
   "removed a page from the workplace communications book\", but did not admit that the page "
@@ -181,7 +188,7 @@ ITEMS = [
   "admitted that maintaining accurate contact details is \"a critical function of the Switchboard to "
   "ensure effective clinical handover and patient safety\", adding \"and says that there was a "
   "procedure in place for this to occur\", and denied a related paragraph on the stated ground "
-  "\"because there was already a procedure in place\".", ("R",)),
+  "\"because there was already a procedure in place\".", ("G", "S")),
 
  ("1(c)", "The matters raised in August and September 2023",
   "On 7 August 2023 at 12:21 pm the Appellant wrote asking that he be given \"some space\" and that "
@@ -196,7 +203,7 @@ ITEMS = [
   "6:57 pm Ms Reese sent HR Policy E12 and set out how a grievance could be submitted; on 4 "
   "September 2023 the Appellant replied that he had \"spoken to Chloe\" and they were \"seemingly on "
   "the path to working in a beneficial way\". The Appellant did not submit a grievance under that "
-  "policy in 2023.", ("G",)),
+  "policy in 2023.", ("H",)),
 
  ("1(d)", "The Special Pandemic Leave application",
   "The myHR leave request history for Process Reference 15480560 records the Appellant creating a "
@@ -235,7 +242,7 @@ ITEMS = [
   "Seventeen employees were balloted in December 2024 and the rosters took effect 20 January 2025. "
   "The Respondent does not allege that agreement under clause 6.2 was obtained before the rostering "
   "of the shifts of 17 and 18 March 2024, or that a ballot was conducted before the on-call change "
-  "of 15 April 2024.", ("I",)),
+  "of 15 April 2024.", ("J",)),
 
  ("2(a)", "The pay corrections",
   "On 3 May 2024 Ms Elaine Grant of Queensland Health Payroll wrote to Ms Taylor, copied to the "
@@ -251,7 +258,7 @@ ITEMS = [
   "increase, and neither PRN 15397775 nor PRN 15605601 appears in it although each falls between "
   "process numbers that do. The Respondent pleads that \"any discrepancies or errors were remedied "
   "in a timely manner\" and that \"there are no outstanding underpayments for the appellant\".",
-  ("J",)),
+  ("K",)),
 
  ("2(b)", "The delay in correcting the pay",
   "Payroll's instruction of 3 May 2024 was followed on 21 May 2024 at 12:33 pm by Ms Taylor's email "
@@ -263,7 +270,7 @@ ITEMS = [
   "21(c). The myHR report records that submission, process number 16450619, with an effective date "
   "of 30 March 2024, a processing date of 30 May 2024, and a status of \"Part Completed\", every "
   "other Attendance Variation and Allowance Claim in the period being recorded as \"Completed\".",
-  ("J",)),
+  ("K",)),
 
  ("3(a)", "The break of 17 and 18 March 2024",
   "The Appellant was rostered to finish at 23:00 on 17 March 2024 and to commence at 06:00 on 18 "
@@ -277,7 +284,7 @@ ITEMS = [
   "shift swap. The Leave Takings Report for 19 March 2024 records the Leave Category as \"Sick\", "
   "7.60 hours, status \"APPROVED\"; the Respondent pleads that the leave \"was paid leave\" and that "
   "under clause 18.10 of the Award the Appellant \"is not entitled to fatigue leave, because he was "
-  "not performing overtime\".", ("L",)),
+  "not performing overtime\".", ("M",)),
 
  ("3(b)", "The roster concerns, the employer's knowledge, and what was not in place",
   "<b>What was known.</b> On 26 April 2024 at 1:52 pm Ms Reese wrote to the Appellant about roster "
@@ -303,7 +310,7 @@ ITEMS = [
   "that \"there have been no 'consequential' changes to operating procedures over the period "
   "requested\", and that employee complaints about operational errors \"are made directly to the "
   "Line Manager of Switch Board and managed solely via email or verbally with the complainant\".",
-  ("K", "N")),
+  ("L", "O")),
 
  ("3(c)", "The fatigue leave request, the delay, and the refusal",
   "Review Decision 69983 records that the Appellant emailed Ms Taylor on 8 April 2024 requesting a "
@@ -328,7 +335,7 @@ ITEMS = [
   "Switchboard Manager role\". The Respondent does not allege that the agreement was reviewed, "
   "re-executed or re-confirmed between 17 June 2020 and 18 March 2024, that the Appellant was told "
   "before 1 May 2024 that he could terminate it, or that Ms Taylor was the Switchboard Manager on "
-  "17 June 2020.", ("M", "B")),
+  "17 June 2020.", ("N", "B")),
 
  ("3(d)", "The Review Decision",
   "Review Decision 69983 of 24 October 2024 records that the employer's own response included an "
@@ -342,7 +349,7 @@ ITEMS = [
   "8-hour agreement.\" Under the heading \"Conclusion\" it states that \"you sustained a personal "
   "injury of a psychological nature\" and that \"your injury arose out of employment, to the extent "
   "that it arose out of factors 2, 3 and 4, where employment was a significant contributing "
-  "factor\". The Respondent admitted the contents of that decision on 18 February 2026.", ("P",)),
+  "factor\". The Respondent admitted the contents of that decision on 18 February 2026.", ("Q",)),
 
  ("General", "The Appellant's contemporaneous account, and the documents the Respondent lists",
   "The Respondent pleads at paragraph 11 of its amended statement of facts and contentions: \"The "
@@ -355,7 +362,7 @@ ITEMS = [
   "attachments described as \"Event overview\", \"Witness statement - Carolyn Jeffrey\", \"Email: "
   "After hours on call process\", \"Email: Task change switchboard - 19/04/2024\" and \"Email: MASPER "
   "process - 09/05/2024\", and a follow up statement from Ms Jeffrey dated 1 August 2024.",
-  ("Q",)),
+  ("R",)),
 
  ("General", "The matters not done, and the matters not alleged",
   "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently "
@@ -370,7 +377,7 @@ ITEMS = [
   "or cross-reference, the management action relied upon for the contention in that paragraph. No "
   "document recording consultation with Switchboard operators before the change communicated by the "
   "email of 15 April 2024 has been identified or disclosed in the Respondent's disclosed material "
-  "presently before the Commission.", ("O", "S")),
+  "presently before the Commission.", ("P", "T")),
 ]
 
 H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=14, leading=17, spaceAfter=3)

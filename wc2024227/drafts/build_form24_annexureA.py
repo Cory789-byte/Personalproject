@@ -28,6 +28,10 @@ ITEMS = [
     "produced under Tab 1 of the Stressor 1(a) particulars bundle served 11 August 2026",
     "18 July 2023, 12:56 pm",
     "2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf", 3, 3),
+ ("1B", "Email, Ms C Taylor to Ms T Reese, \"Fwd: Communication Book Update\", with, beneath "
+    "it, Ms Taylor's email to Logan Switch of 6 June 2023 at 9:57 am, \"Communication Book "
+    "Update\"", "6 June 2023, 4:05 pm",
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 9, 10),
  (2, "Email chain, the Appellant to Ms C Taylor, Ms T Reese, Ms P Conaghan and Ms T Smith, "
     "\"Increase of hours and Workplace issues\", and the replies of Ms Taylor and Ms Reese in the "
     "same chain", "7 to 8 August 2023",
