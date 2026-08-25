@@ -403,7 +403,9 @@ st = [P("Form 24 &ndash; Notice to admit facts &nbsp;&middot;&nbsp; PART B: SUMM
         "not replace it and does not derogate from it.</b> Each fact below is a composite of facts "
         "already specified in Part A, and the paragraphs of Part A that specify them are identified "
         "against each. It is provided so that the respondent may, if it wishes, admit a limb as a "
-        "whole rather than paragraph by paragraph. A response to a fact in this Part is not a "
+        "whole rather than paragraph by paragraph. Each sentence of a row is severable: the "
+        "respondent may admit or dispute any sentence separately, and a response to part of a "
+        "row does not affect the balance of that row. A response to a fact in this Part is not a "
         "response to any fact in Part A, and the facts in Part A are unaffected by it.", B),
       Spacer(1, 2*mm)]
 
