@@ -32,6 +32,7 @@ R_PAY    = "Respondent's disclosure from witness conferencing (Queensland Health
 HR11     = "myHR submissions report for the Appellant, 1 February to 31 May 2024, produced by Metro South Health as Item 11 of the notice of non-party disclosure - Annexure A Tab 15"
 
 FACTS = [
+ ("#", "PART ONE - PRELIMINARY: THE ROLE, THE EMPLOYMENT AND THE HOURS"),
  ("A", "THE ROLE, AND WHAT IT REQUIRED"),
  (1, "Metro South Hospital and Health Service produced a role description for the position of Administration Officer, Switchboard Services, Logan Hospital, which states the classification as \"A03\".",
      "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital - produced by Metro South Hospital and Health Service - Annexure A Tab 1"),
@@ -111,6 +112,7 @@ FACTS = [
      "Email of Ms C Taylor, 27 September 2023 - Annexure A Tab 5"),
  (30, "That email states: \"happy to commence Full-time hours from the 16th October 2023\".",
      "As above"),
+ ("#", "PART TWO - STRESSOR 1"),
  ("C", "STRESSOR 1(a) - THE DATABASE, AND THE DIRECTIVES ISSUED WITHOUT CONSULTATION"),
  (31, "On 18 July 2023 at 12:56 pm Ms Ellen Stibbard, Switchboard Telecommunications Coordinator, sent an email to the Appellant and the Switchboard team, subject \"Hello & Update\", which states: \"My current role is a project role for the Switchboard team. It is a temporary position that predominantly focuses on fixing up the database that switchboard utilises.\"",
      "Email of Ms E Stibbard, 18 July 2023, produced under Tab 1 of the Stressor 1(a) particulars bundle served 11 August 2026 - Annexure A Tab 1A"),
@@ -398,6 +400,7 @@ FACTS = [
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (92, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that a ballot of affected employees was conducted before the change to after-hours on-call arrangements notified by Ms Taylor on 15 April 2024.",
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ ("#", "PART THREE - STRESSOR 2"),
  ("G", "STRESSOR 2 - THE PAY CORRECTION, AND THE THREAD \"COREY SHEPHERD 388372 PAY ISSUES\""),
  (93, "The Respondent's disclosure contains an email thread with the subject \"Corey Shepherd 388372 Pay issues\".",
      "R_PAY"),
@@ -461,7 +464,8 @@ FACTS = [
      "Respondent's amended statement of facts and contentions, 13 May 2026"),
  (120, "Neither AVAC PRN 15397775 nor AVAC PRN 15605601 appears in that report.",
      "HR11"),
- ("H", "STRESSOR 3 - THE ROSTER, AND THE EMPLOYER'S KNOWLEDGE OF FATIGUE BEFORE 18 JUNE 2024"),
+ ("#", "PART FOUR - STRESSOR 3, INCLUDING THE ROSTERING ERRORS AND CHANGES"),
+ ("H", "STRESSOR 3 - THE ROSTERING ERRORS AND CHANGES, AND THE EMPLOYER'S KNOWLEDGE OF FATIGUE BEFORE 18 JUNE 2024"),
  (121, "On 26 April 2024 at 1:52 pm Ms Reese sent an email to the Appellant with the subject \"Roster Concerns\", referring to a meeting on 16 April 2024 at which the Appellant raised a roster line ending with night shifts followed by three days off and then returning to night shifts.",
      "R_REESE"),
  (122, "That email states that Ms Taylor \"was working to fix this error and would get in touch with you about what alternative shifts she could offer\".",
@@ -546,30 +550,6 @@ FACTS = [
      "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
  (0, "That decision records Ms Taylor as confirming \"that since your commencement of full-time employment, all payments for public holidays not required had been processed\".",
      "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
- ("J", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
- (142, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, Metro South Health stated in relation to Item 4: \"the requested documents do not exist. Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants. The Logan Hospital Switchboard staff are non-clinical staff, and therefore there is no mandatory requirement for them to complete Fatigue Risk Management System training.\"",
-     "CE"),
- (143, "That letter states in relation to Item 5: \"The implementation of fatigue risk management assessment at Switchboard Logan Hospital occurred after 30 June 2024 in connection with an organisational change related to the reporting lines for Switchboard.\"",
-     "CE"),
- (144, "That letter states in relation to Item 7: \"the requested documents do not exist. Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants.\"",
-     "CE"),
- (145, "That letter states in relation to Item 3(c): \"there have been no 'consequential' changes to operating procedures over the period requested.\"",
-     "CE"),
- (146, "That letter states in relation to Item 3(a): \"All employee complaints relating to Logan Hospital Switchboard operational errors are made directly to the Line Manager of Switch Board and managed solely via email or verbally with the complainant.\"",
-     "CE"),
- (147, "That letter states in relation to Items 1 and 2: \"a spreadsheet of recorded MET calls is available for the period 17-18 March 2024.\"",
-     "CE"),
- ("K", "MATTERS NOT DONE, AND MATTERS NOT AVAILABLE"),
- (148, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that any fatigue risk assessment was conducted in respect of the Appellant's position at any time before 30 June 2024.",
-     "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (149, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that any fatigue risk management training was provided to the Appellant in respect of his position at any time before 30 June 2024.",
-     "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (150, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that fatigue risk management assessment was implemented at Logan Hospital Switchboard at any time before 30 June 2024.",
-     "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (151, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that any change was made to the operating procedures of Logan Hospital Switchboard as a consequence of any employee complaint over the period 1 December 2023 to 30 June 2024.",
-     "Respondent's amended statement of facts and contentions, 13 May 2026"),
- (152, "No document recording consultation with Switchboard operators before the change communicated by the email of 15 April 2024 has been identified or disclosed in the Respondent's disclosed material presently before the Commission.",
-     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
  ("L", "STRESSOR 3(d) - THE RESPONDENT'S OWN REVIEW DECISION OF 24 OCTOBER 2024"),
  (153, "Review Decision 69983 dated 24 October 2024 records that in its response the employer included an extract of the Hospital and Health Services General Employees (Queensland Health) Award which \"stated that employees must be provided with a break of not less than 10 hours between the termination of one shift and the commencement of another shift, and 8 hours applied instead of 10 only in specific circumstances\".",
      "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
@@ -583,6 +563,31 @@ FACTS = [
      "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
  (158, "That decision states, under the heading \"Conclusion\": \"your injury arose out of employment, to the extent that it arose out of factors 2, 3 and 4, where employment was a significant contributing factor\".",
      "Review Decision 69983 dated 24 October 2024 - the Respondent's own decision - Annexure A Tab 25"),
+ ("J", "THE EMPLOYER'S OWN STATEMENTS ABOUT ITS SYSTEMS AND RECORDS"),
+ (142, "By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer, Metro South Health stated in relation to Item 4: \"the requested documents do not exist. Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants. The Logan Hospital Switchboard staff are non-clinical staff, and therefore there is no mandatory requirement for them to complete Fatigue Risk Management System training.\"",
+     "CE"),
+ (143, "That letter states in relation to Item 5: \"The implementation of fatigue risk management assessment at Switchboard Logan Hospital occurred after 30 June 2024 in connection with an organisational change related to the reporting lines for Switchboard.\"",
+     "CE"),
+ (144, "That letter states in relation to Item 7: \"the requested documents do not exist. Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants.\"",
+     "CE"),
+ (145, "That letter states in relation to Item 3(c): \"there have been no 'consequential' changes to operating procedures over the period requested.\"",
+     "CE"),
+ (146, "That letter states in relation to Item 3(a): \"All employee complaints relating to Logan Hospital Switchboard operational errors are made directly to the Line Manager of Switch Board and managed solely via email or verbally with the complainant.\"",
+     "CE"),
+ (147, "That letter states in relation to Items 1 and 2: \"a spreadsheet of recorded MET calls is available for the period 17-18 March 2024.\"",
+     "CE"),
+ ("#", "PART FIVE - GENERAL: THE RECORD, THE ADMISSIONS AND THE MATTERS NOT ALLEGED"),
+ ("K", "MATTERS NOT DONE, AND MATTERS NOT AVAILABLE"),
+ (148, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that any fatigue risk assessment was conducted in respect of the Appellant's position at any time before 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (149, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that any fatigue risk management training was provided to the Appellant in respect of his position at any time before 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (150, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that fatigue risk management assessment was implemented at Logan Hospital Switchboard at any time before 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (151, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that any change was made to the operating procedures of Logan Hospital Switchboard as a consequence of any employee complaint over the period 1 December 2023 to 30 June 2024.",
+     "Respondent's amended statement of facts and contentions, 13 May 2026"),
+ (152, "No document recording consultation with Switchboard operators before the change communicated by the email of 15 April 2024 has been identified or disclosed in the Respondent's disclosed material presently before the Commission.",
+     "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
  ("M", "THE APPELLANT'S CONTEMPORANEOUS ACCOUNT, AND THE DOCUMENTS THE RESPONDENT LISTS"),
  (159, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 12 an email from the Appellant to WorkCover Queensland dated 12 July 2024 with the attachment described as \"Event overview - undated\".",
      "Respondent's amended List of Documents (Form 23) dated 14 August 2026"),
@@ -694,7 +699,10 @@ _L = 0
 _relab = []
 for _f in FACTS:
     if isinstance(_f[0], str):
-        _relab.append((chr(ord('A') + _L), _f[1])); _L += 1
+        if _f[0] == '#':
+            _relab.append(_f)
+        else:
+            _relab.append((chr(ord('A') + _L), _f[1])); _L += 1
     else:
         _relab.append(_f)
 FACTS = _relab
@@ -758,7 +766,8 @@ rows = [[P("<b>No.</b>", SMALL), P("<b>Fact to be admitted</b>", SMALL),
          P("<b>Admit / Deny</b>", SMALL), P("<b>Source (delete before service)</b>", SMALL)]]
 for f in FACTS:
     if isinstance(f[0], str):
-        rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
+        _lab = "" if f[0] == '#' else f[0]
+        rows.append([P(f"<b>{_lab}</b>", SMALL), P(f"<b>{f[1]}</b>", SMALL), P("", SMALL), P("", SMALL)])
     else:
         rows.append([P(f"<b>{f[0]}</b>", SMALL), P(f[1], SMALL), P("", SMALL), P(f[2], SMALL)])
 t = Table(rows, colWidths=[9*mm, 99*mm, 19*mm, 39*mm], repeatRows=1)
@@ -769,7 +778,8 @@ st = [('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
       ('TOPPADDING', (0,0), (-1,-1), 3.5), ('BOTTOMPADDING', (0,0), (-1,-1), 3.5)]
 for i, f in enumerate(FACTS, start=1):
     if isinstance(f[0], str):
-        st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor('#f0f0f0')))
+        shade = '#c9c9c9' if f[0] == '#' else '#f0f0f0'
+        st.append(('BACKGROUND', (0,i), (-1,i), colors.HexColor(shade)))
         st.append(('SPAN', (1,i), (3,i)))
 t.setStyle(TableStyle(st))
 s.append(t)

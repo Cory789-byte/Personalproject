@@ -308,7 +308,10 @@ ITEMS = [
   "there would be a rating of 11 which is moderate\", and: \"I acknowledge there has been a few "
   "rostering errors made by Chloe with regards to Cory's line in past rosters\". On 20 May 2024 at "
   "4:07 pm she followed up with LBH_HR, attaching the Queensland Health Fatigue Risk Management "
-  "Systems Implementation Guideline.<br/><br/>"
+  "Systems Implementation Guideline. Over the same period the after-hours on-call arrangements "
+  "(15 April 2024), the data-entry process (19 April 2024) and the MASPER call-routing process "
+  "(9 May 2024) were each changed by email to the team, as set out in the Stressor 1(a) rows "
+  "above.<br/><br/>"
   "<b>What was not in place.</b> By letter of 5 June 2026, reference K-LM26/729, signed by Ms "
   "Noelle Cridland as Chief Executive, Metro South Health stated that the requested fatigue "
   "training documents \"do not exist\" because \"Mandatory Fatigue Risk Management System training "
@@ -317,7 +320,7 @@ ITEMS = [
   "that \"there have been no 'consequential' changes to operating procedures over the period "
   "requested\", and that employee complaints about operational errors \"are made directly to the "
   "Line Manager of Switch Board and managed solely via email or verbally with the complainant\".",
-  ("L", "O")),
+  ("L", "P")),
 
  ("3(c)", "The fatigue leave request, the delay, and the refusal",
   "Review Decision 69983 records that the Appellant emailed Ms Taylor on 8 April 2024 requesting a "
@@ -356,7 +359,7 @@ ITEMS = [
   "8-hour agreement.\" Under the heading \"Conclusion\" it states that \"you sustained a personal "
   "injury of a psychological nature\" and that \"your injury arose out of employment, to the extent "
   "that it arose out of factors 2, 3 and 4, where employment was a significant contributing "
-  "factor\". The Respondent admitted the contents of that decision on 18 February 2026.", ("Q",)),
+  "factor\". The Respondent admitted the contents of that decision on 18 February 2026.", ("O",)),
 
  ("General", "The Appellant's contemporaneous account, and the documents the Respondent lists",
   "The Respondent pleads at paragraph 11 of its amended statement of facts and contentions: \"The "
@@ -384,7 +387,7 @@ ITEMS = [
   "or cross-reference, the management action relied upon for the contention in that paragraph. No "
   "document recording consultation with Switchboard operators before the change communicated by the "
   "email of 15 April 2024 has been identified or disclosed in the Respondent's disclosed material "
-  "presently before the Commission.", ("P", "T")),
+  "presently before the Commission.", ("Q", "T")),
 ]
 
 H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=14, leading=17, spaceAfter=3)
@@ -410,13 +413,23 @@ st = [P("Form 24 &ndash; Notice to admit facts &nbsp;&middot;&nbsp; PART B: SUMM
       Spacer(1, 2*mm)]
 
 rows = [[P("<b>Limb</b>", CB), P("<b>Fact to be admitted</b>", CB), P("<b>Admit / Deny</b>", CB)]]
+GRP = {'Prelim.': 'PART ONE - PRELIMINARY', '1(': 'PART TWO - STRESSOR 1',
+       '2(': 'PART THREE - STRESSOR 2', '3(': 'PART FOUR - STRESSOR 3, INCLUDING THE ROSTERING ERRORS AND CHANGES',
+       'General': 'PART FIVE - GENERAL'}
+banners = []
+_seen = set()
 for limb, head, body, secs in ITEMS:
+    key = next((k for k in GRP if limb.startswith(k)), None)
+    if key and key not in _seen:
+        _seen.add(key); banners.append(len(rows))
+        rows.append([P(f"<b>{GRP[key]}</b>", CB), P("", CB), P("", CB)])
     cell = [P(f"<b>{head}</b>", CB), P(body, C),
             P(f"Specified in Part A at paragraphs {rng(*secs)}.", REF)]
     rows.append([P(f"<b>{limb}</b>"), cell, P("", C)])
 
 t = Table(rows, colWidths=[14*mm, 129*mm, 26*mm], repeatRows=1, splitInRow=1)
-t.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.7, colors.black),
+_bansty = [('BACKGROUND', (0,b), (-1,b), colors.HexColor('#bfbfbf')) for b in banners] +           [('SPAN', (0,b), (-1,b)) for b in banners]
+t.setStyle(TableStyle(_bansty + [('GRID', (0,0), (-1,-1), 0.7, colors.black),
     ('VALIGN', (0,0), (-1,-1), 'TOP'), ('ALIGN', (0,0), (0,-1), 'CENTER'),
     ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#ececec')),
     ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),

@@ -85,8 +85,9 @@ rows = [[P("No.", CH), P("Fact to be Admitted (with Exhibit Reference)", CH), P(
 spans = []
 for f in FACTS:
     if len(f) == 2:
-        spans.append(len(rows))
-        rows.append([P(f"<b>{f[0]}</b>", SEC), P(f"<b>{f[1]}</b>", SEC), P("", CELL)])
+        spans.append((len(rows), f[0] == '#'))
+        _lab = "" if f[0] == '#' else f[0]
+        rows.append([P(f"<b>{_lab}</b>", SEC), P(f"<b>{f[1]}</b>", SEC), P("", CELL)])
     else:
         _txt = f[1]
         _m = re.search(r'Annexure A Tabs? ([0-9A-Z]+(?:[,\-] ?[0-9A-Z]+)*)', f[2] if len(f) > 2 else '')
@@ -99,8 +100,9 @@ st = [('GRID', (0,0), (-1,-1), 0.7, colors.black), ('VALIGN', (0,0), (-1,-1), 'T
       ('ALIGN', (0,0), (0,-1), 'CENTER'),
       ('LEFTPADDING', (0,0), (-1,-1), 4), ('RIGHTPADDING', (0,0), (-1,-1), 4),
       ('TOPPADDING', (0,0), (-1,-1), 4), ('BOTTOMPADDING', (0,0), (-1,-1), 4)]
-for i in spans:
-    st += [('BACKGROUND', (0,i), (-1,i), colors.HexColor('#ececec')), ('SPAN', (1,i), (2,i))]
+for i, isbanner in spans:
+    shade = '#bfbfbf' if isbanner else '#ececec'
+    st += [('BACKGROUND', (0,i), (-1,i), colors.HexColor(shade)), ('SPAN', (1,i), (2,i))]
 t.setStyle(TableStyle(st))
 story.append(t)
 story.append(Spacer(1, 6*mm))

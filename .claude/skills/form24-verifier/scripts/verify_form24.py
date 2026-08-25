@@ -54,7 +54,7 @@ for f in g['FACTS']:
     elif s.startswith('As above;'): s = s.replace('As above', last, 1)
     else: last = s
     facts.append({'n': f[0], 'sec': sec, 't': f[1], 's': s})
-letters = [f[0] for f in g['FACTS'] if isinstance(f[0], str)]
+letters = [f[0] for f in g['FACTS'] if isinstance(f[0], str) and f[0] != '#']
 print(f"L0  extracted {len(facts)} facts, {len(letters)} sections")
 
 a = open('build_form24_annexureA.py').read()
