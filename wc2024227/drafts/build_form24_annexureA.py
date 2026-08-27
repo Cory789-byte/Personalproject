@@ -93,9 +93,11 @@ ITEMS = [
  (14, "Email, Ms C Taylor to the Appellant copied to Ms T Reese, \"Validation of Claims older "
     "than 3 months - Please sign\", as forwarded by Ms Taylor on 10 July 2025", "28 May 2024, 8:36 am",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 43, None),
- (15, "myHR submissions report for the Appellant, produced by Metro South Health as Item 11",
+ (15, "myHR submissions report for the Appellant, produced by Metro South Health as Item 11 of "
+    "the notice of non-party disclosure",
     "1 February to 31 May 2024", "Item_11_myHR_report_Leave_submissions_Feb-May_2024.pdf", 1, None),
- (16, "QH Leave Takings Report for the Appellant, produced by Metro South Health as Item 15",
+ (16, "QH Leave Takings Report for the Appellant, produced by Metro South Health as Item 15 of "
+    "the notice of non-party disclosure",
     "19 March 2024",
     "disclosure-2026-06_MSH_production/Item 15 QH Leave Takings Report_Cory Shepherd_19 March 2024.pdf", 1, None),
  (17, "Movement forms recording approved changes to working hours, approved by Mr S Hughes as "

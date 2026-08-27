@@ -88,8 +88,8 @@ ITEMS = [
   "am\" and a finish \"between 2:00 to 5:00 pm\", and the Respondent does not allege that she "
   "stated fixed office hours to the Switchboard staff at any time between 23 August 2023 and "
   "17 May 2024. She did so on 17 May 2024 at 9:30 am, "
-  "32 days after the on-call notification, stating that her hours \"can vary\", that on school "
-  "drop-off days she would be in \"between 0800-830am\", and \"Otherwise my hours are from "
+  "32 days after the on-call notification, stating that her office hours \"can vary\", that on some "
+  "days she \"will be in later between 0800-830am\", and \"Otherwise my hours are from "
   "06:30-14:30\"; she undertook to \"advise of any change to my office hours for the week\" and "
   "directed that \"regardless of my start/finish times next week you are to please contact me "
   "through the day/afterhours either via switch, office or mobile\".<br/><br/>"
@@ -144,7 +144,7 @@ ITEMS = [
   "document was amended on or before 20 May 2024, or that the Switchboard staff were notified of "
   "the 22 February 2024 modifications.", ("D",)),
 
- ("1(a)", "The notification of unavailability, 13 to 15 May 2024",
+ ("1(a)", "The notified means of contact with Ms Taylor",
   "Ms Taylor's email of 15 April 2024 states that during office hours the Appellant was to contact "
   "her \"through switch/office or mobile\". Her email of 14 May 2024 at 12:08 pm, sent to the "
   "Appellant and copied to Ms Reese under the subject \"Sick leave 14.05.24\", states: \"in business "
@@ -386,8 +386,8 @@ st = [P("Form 24 &ndash; Notice to admit facts &nbsp;&middot;&nbsp; PART B: SUMM
       P("WC/2024/227 &middot; Shepherd v Workers' Compensation Regulator", SUB),
       P("<b>This Part is served with, and in addition to, the itemised notice to admit facts. It "
         "does not replace it and does not derogate from it.</b> Each fact below is a composite of "
-        "facts already specified in the itemised notice, together with intervals computed from the "
-        "dates there stated, and the paragraphs of the notice that specify them are identified "
+        "facts already specified in the itemised notice, together with intervals and counts computed "
+        "from the dates and occasions there stated, and the paragraphs of the notice that specify them are identified "
         "against each. It is provided as an aid to response, so that the respondent may, if it "
         "wishes, admit a limb as a whole rather than paragraph by paragraph; it is not itself a "
         "notice under rule 49, and the operative notices are the itemised Form 24 notice to admit "

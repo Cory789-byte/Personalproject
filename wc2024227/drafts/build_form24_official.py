@@ -93,7 +93,8 @@ for f in FACTS:
         _txt = f[1]
         _m = re.search(r'Annexure A Tabs? ([0-9A-Z]+(?:[,\-] ?[0-9A-Z]+)*)', f[2] if len(f) > 2 else '')
         if _m:
-            _txt += f" <font size=8 color='#555555'>(Annexure A, Tab {_m.group(1)})</font>"
+            _tb = 'Tabs' if re.search(r'[,\-]', _m.group(1)) else 'Tab'
+            _txt += f" <font size=8 color='#555555'>(Annexure A, {_tb} {_m.group(1)})</font>"
         rows.append([P(f"<b>{f[0]}</b>", CELL), P(_txt, CELL), P("", CELL)])
 t = Table(rows, colWidths=[11*mm, 118*mm, 29*mm], repeatRows=1)
 st = [('GRID', (0,0), (-1,-1), 0.7, colors.black), ('VALIGN', (0,0), (-1,-1), 'TOP'),
