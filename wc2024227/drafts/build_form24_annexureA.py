@@ -213,9 +213,16 @@ import fitz as _fitz
 _doc = _fitz.open(OUT)
 _total = _doc.page_count
 for _i, _pg in enumerate(_doc):
-    _pg.insert_text((_pg.rect.width - 92, _pg.rect.height - 10),
-                    f"Page {_i+1} of {_total}", fontsize=7.5, fontname="helv",
-                    color=(0.3, 0.3, 0.3))
+    _lbl = f"Page {_i+1} of {_total}"
+    _w = _fitz.get_text_length(_lbl, fontname="helv", fontsize=8.5)
+    _vis = _fitz.Rect(_pg.rect.width - _w - 14, _pg.rect.height - 18,
+                      _pg.rect.width - 6, _pg.rect.height - 4)
+    _mat = _pg.derotation_matrix
+    _box = (_vis * _mat).normalize()
+    _pg.draw_rect(_box, color=None, fill=(1, 1, 1), fill_opacity=0.85)
+    _pt = _fitz.Point(_vis.x0 + 4, _vis.y1 - 4) * _mat
+    _pg.insert_text(_pt, _lbl, fontsize=8.5, fontname="helv",
+                    color=(0, 0, 0), rotate=_pg.rotation)
 _links = 0
 for _tab, _desc, _date, _n, _a, _b in idx_rows:
     _snip = _re2.sub(r"\s+", " ", _desc.replace('\\"', '"'))[:32].rsplit(" ", 1)[0]
