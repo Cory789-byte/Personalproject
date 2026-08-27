@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """WC/2024/227 - ANNEXURE A to the second notice to admit facts.
-The documents referred to in Schedule B, stitched in one bundle behind a one-page index.
-No document is annotated, highlighted or altered. All metadata stripped.
+The documents referred to in the Notice to Admit Facts, stitched in one bundle behind a one-page index.
+Documents carry only identification headers/footers from prior service or production. All metadata stripped.
 """
 import io, os, pikepdf
 from reportlab.lib.pagesizes import A4
@@ -33,28 +33,28 @@ ITEMS = [
     "Update\"", "6 June 2023, 4:05 pm",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 9, 10),
  (2, "Email chain, the Appellant to Ms C Taylor, Ms T Reese, Ms P Conaghan and Ms T Smith, "
-    "\"Increase of hours and Workplace issues\", and the replies of Ms Taylor and Ms Reese in the "
-    "same chain", "7 to 8 August 2023",
+    "\"Increase of hours and Workplace issues\", and the reply of Ms Reese in the "
+    "same chain", "7 to 10 August 2023",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 16, 21),
  (3, "Email, Ms T Reese to the Appellant attaching HR Policy E12; and the emails of 4 and "
     "8 September 2023", "29 August to 8 September 2023",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 14, 15),
  (4, "Document, the Appellant to Ms C Taylor, \"Request to Increase Working Hours to Full Time "
     "Rotational Roster\"; and the reply of Ms Taylor of 7 August 2023 at 1:43 pm and the email of "
-    "Ms Reese to Ms Taylor of 7 August 2023 at 5:11 pm", "31 August 2023",
+    "Ms Reese to Ms Taylor of 7 August 2023 at 5:11 pm", "7 and 31 August 2023",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 22, 24),
  (5, "Email, Ms C Taylor to the Appellant, \"Approved - Permanent Full Time FTE\"",
     "27 September 2023, 1:52 pm", "2023-09-27_Taylor_FullTime_Appointment_APPROVED.pdf", 1, None),
  (6, "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Afterhours Oncall Process - "
-    "Switchboard\"", "15 April 2024, 12:39 pm",
+    "Switchboard\", as forwarded by the Appellant to WorkCover Queensland on 29 August 2024", "15 April 2024, 12:39 pm",
     "correspondence-packs/10_Amy_Mo_WorkCover_EMAILS_PACK_84pp.pdf", 49, 50),
  (7, "Email chain, \"Roster Concerns\", as produced under the Regulator's tab of that name - "
     "Ms T Reese to the Appellant of 26 April 2024 at 1:52 pm; the Appellant to Ms Reese of 1 May "
     "2024 at 1:18 pm; and Ms Reese to the Appellant of 8 May 2024 at 9:08 am",
     "26 April to 8 May 2024",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 26, 29),
- (8, "Emails, Ms T Reese to Mr M Pritchard \"FW: Roster Concerns\" with attachment "
-    "\"qh-gdl-401-3.3\", and Ms T Reese to LBH_HR", "10 and 20 May 2024",
+ (8, "Emails, Ms T Reese to Mr M Pritchard \"FW: Roster Concerns\", and Ms T Reese to LBH_HR "
+    "with attachment \"qh-gdl-401-3.3\"", "10 and 20 May 2024",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 12, 13),
  ("8A", "Cover page of the attachment to that email - Fatigue risk management systems, "
     "Implementation guideline QH-GDL-401-3.3:2021", "2021",
@@ -127,6 +127,10 @@ ITEMS = [
  (29, "Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special "
     "Pandemic Leave, signed by Ms N Cridland, produced as Item 13", "effective 5 December 2022",
     "disclosure-2026-06_MSH_production/item 13 delegation-hr-covid-directive-special-and-pandemic-leave-51222.pdf", 1, None),
+ ("30", "Emails, Ms C Taylor to Logan Switch and the Switchboard team - hours, absence and late-arrival notifications, including \"What's Chloe's Hours?!\" of 23 August 2023 and the email of 18 June 2024 at 8:58 am", "16 February 2023 to 25 July 2024",
+    "2026-08-28_Taylor_absence_notifications_Att9.pdf", 1, None),
+ ("31", "Screen capture of the workbook \"2024 Emergency Code Register.xlsx\" (MARCH 2024 sheet), showing the entries recorded for 16 to 20 March 2024", "March 2024",
+    "2026-08-28_Emergency_Code_Register_MARCH2024_capture.pdf", 1, None),
 ]
 
 built, errs, idx_rows = [], [], []
@@ -163,7 +167,7 @@ def build_index(first_page):
         ('LEFTPADDING',(0,0),(-1,-1),4),('RIGHTPADDING',(0,0),(-1,-1),4),
         ('TOPPADDING',(0,0),(-1,-1),3.5),('BOTTOMPADDING',(0,0),(-1,-1),3.5)]))
     st.append(t); st.append(Spacer(1, 4*mm))
-    st.append(P("The documents follow in the order listed. No document has been annotated, highlighted "
+    st.append(P("The documents follow in the order listed. Other than identification headers or footers carried on documents as previously served or produced, no document has been annotated, highlighted "
                 "or altered. Where only part of a document is reproduced, the balance is available on "
                 "request.", B))
     buf = io.BytesIO()
@@ -183,6 +187,15 @@ pdf.pages.extend(idx_pdf.pages)
 for tab, desc, date, sp, p1, end in pages:
     pdf.pages.extend(sp.pages[p1-1:end])
 
+# ---- bookmarks: an Index entry plus one per tab, at each tab's first page ----
+with pdf.open_outline() as _ol:
+    _ol.root.append(pikepdf.OutlineItem("Annexure A - Index", 0))
+    for _tab, _desc, _date, _n, _a, _b in idx_rows:
+        _title = f"Tab {_tab} - {_desc}"
+        if len(_title) > 90:
+            _title = _title[:87].rstrip() + "..."
+        _ol.root.append(pikepdf.OutlineItem(_title, _a - 1))
+
 try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
@@ -190,5 +203,42 @@ try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 pdf.save(OUT, linearize=True)
+
+# ---- post-process: page numbers on every page + index rows hyperlinked to their tabs ----
+import re as _re2
+import fitz as _fitz
+_doc = _fitz.open(OUT)
+_total = _doc.page_count
+for _i, _pg in enumerate(_doc):
+    _pg.insert_text((_pg.rect.width - 92, _pg.rect.height - 10),
+                    f"Page {_i+1} of {_total}", fontsize=7.5, fontname="helv",
+                    color=(0.3, 0.3, 0.3))
+_links = 0
+for _tab, _desc, _date, _n, _a, _b in idx_rows:
+    _snip = _re2.sub(r"\s+", " ", _desc.replace('\\"', '"'))[:32].rsplit(" ", 1)[0]
+    for _ipg in range(n_idx):
+        _hits = _doc[_ipg].search_for(_snip)
+        if _hits:
+            _r = _hits[0]
+            _row = _fitz.Rect(28, _r.y0 - 1, _doc[_ipg].rect.width - 28, _r.y1 + 1)
+            _doc[_ipg].insert_link({"kind": _fitz.LINK_GOTO, "from": _row,
+                                    "page": _a - 1, "to": _fitz.Point(0, 0)})
+            _links += 1
+            break
+_tmp = OUT.replace(".pdf", "_pp.pdf")
+_doc.save(_tmp, garbage=3, deflate=True)
+_doc.close()
+_p2 = pikepdf.open(_tmp)
+try: del _p2.Root.Metadata
+except (AttributeError, KeyError): pass
+with _p2.open_metadata(set_pikepdf_as_editor=False) as _m2: _m2.clear()
+try: del _p2.Root.Metadata
+except (AttributeError, KeyError): pass
+for _k in list(_p2.docinfo.keys()): del _p2.docinfo[_k]
+_p2.save(OUT, linearize=True)
+_p2.close()
+os.remove(_tmp)
+print(f"post-process: page numbers on {_total} pages; {_links}/{len(idx_rows)} index rows hyperlinked")
+
 print(f"built {OUT} - {len(idx_rows)} tabs, {len(pdf.pages)} pages")
 for e in errs: print("  !", e)

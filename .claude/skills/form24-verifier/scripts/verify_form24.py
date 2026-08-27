@@ -134,7 +134,7 @@ REG = [
   (datetime(2024,5,20,14,5)-datetime(2024,5,15,11,47)).seconds == 2*3600+18*60),
  ("three hours and two minutes", (datetime(2024,5,20,14,5)-datetime(2024,5,20,11,3)).seconds == 3*3600+2*60),
  ("two hours and twenty-five minutes", (datetime(2024,5,20,16,30)-datetime(2024,5,20,14,5)).seconds == 2*3600+25*60),
- ("approximately thirty-one months", (2025-2023)*12 + (11-4) == 31),
+ # retired 26 Aug 2026: the 31-months fact was deliberately removed (April 2023 date has no source in the bundle)
 ]
 alltext = ' '.join(f['t'] for f in facts)
 for frag, holds in REG:
@@ -170,9 +170,9 @@ import pikepdf
 for f in ['out/FORM24_COMPLETED_OFFICIAL_FORM.pdf', 'out/FORM24_ANNEXURE_A.pdf',
           'out/FORM24_PART_B_SUMMARY.pdf', 'out/FORM24_MOCK_RESPONSE.pdf']:
     if not os.path.exists(f): fail(f"missing output {f}"); continue
-    p = pikepdf.open(f)
-    if dict(p.docinfo) or '/Metadata' in p.Root: fail(f"metadata not stripped: {f}")
-    else: ok(f"metadata stripped: {f} ({len(p.pages)}pp)")
+    with pikepdf.open(f) as p:
+        if dict(p.docinfo) or '/Metadata' in p.Root: fail(f"metadata not stripped: {f}")
+        else: ok(f"metadata stripped: {f} ({len(p.pages)}pp)")
 served = pdftext('out/FORM24_COMPLETED_OFFICIAL_FORM.pdf')
 z = len(re.findall(r'^\s*0\s+[A-Z]', served, re.M))
 fail(f"{z} zero-numbered rows render in the served form") if z else ok("no zero-numbered rows in the served form")

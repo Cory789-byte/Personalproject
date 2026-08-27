@@ -6,7 +6,8 @@ present results as sensitivity, not prediction. Run from wc2024227/drafts/
 after the mock. Seeded for reproducibility."""
 import json, random, statistics, sys
 random.seed(20260825)
-F = json.load(open('/tmp/f185v.json')); N = len(F)
+import os, tempfile
+F = json.load(open(os.path.join(tempfile.gettempdir(), 'f185v.json'))); N = len(F)
 P = {'A': (0.97,0.025,0.005), 'A!': (0.99,0.01,0.0), 'A*': (0.90,0.08,0.02),
      'A~': (0.93,0.06,0.01), 'D?': (0.50,0.30,0.20), 'N': (0.15,0.85,0.0)}
 RIDER = 0.15

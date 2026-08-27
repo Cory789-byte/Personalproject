@@ -70,7 +70,7 @@ story.append(P("<b>PLEASE NOTE:</b> If there are more than two parties to this a
                "complete a <b>Form 1 &ndash; Parties list</b> and file it with this form.", BODY))
 story.append(box([[P("To:", FLD), P("Workers' Compensation Regulator<br/>"
                                     "Attention: Ms Renee Matheson, Senior Appeals Officer<br/>"
-                                    "PO Box 10119, Brisbane Adelaide Street QLD 4000", VAL)]],
+                                    "150 Mary Street, Brisbane QLD 4001<br/>Renee.Matheson@oir.qld.gov.au", VAL)]],
                  [40*mm, 118*mm]))
 story.append(Spacer(1, 3*mm))
 story.append(P("Take notice that the [&nbsp;&nbsp;] applicant &nbsp; <b>[X] appellant</b> &nbsp; "
@@ -144,7 +144,7 @@ if not SERVE_CLEAN:
                    "the current version of Form 24 on the Commission's website before filing or "
                    "serving. (4) Sign and date both signature blocks.", NOTE))
 
-OUT = "out/FORM24_COMPLETED_OFFICIAL_FORM.pdf"
+OUT = "out/FORM24_PART_A_SERVE_CLEAN.pdf" if SERVE_CLEAN else "out/FORM24_COMPLETED_OFFICIAL_FORM.pdf"
 doc = BaseDocTemplate(OUT, pagesize=A4, leftMargin=17*mm, rightMargin=17*mm,
                       topMargin=15*mm, bottomMargin=20*mm)
 frame = Frame(17*mm, 20*mm, A4[0]-34*mm, A4[1]-35*mm, id='n',

@@ -5,7 +5,7 @@ What the Respondent's Senior Appeals Officer would return if the notice were
 served as it now stands. Built by asking, for each fact: can this be denied,
 and on what document?  INTERNAL - never served, never filed.
 """
-import json, io, pikepdf
+import json, os, io, pikepdf
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.units import mm
@@ -14,7 +14,8 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
                                 Table, TableStyle, Spacer, KeepTogether)
 
 OUT = "out/FORM24_MOCK_RESPONSE.pdf"
-F = json.load(open('/tmp/f185.json'))
+import tempfile
+F = json.load(open(os.path.join(tempfile.gettempdir(), 'f185.json')))
 
 OWN = ['R_REESE','R_FRMS','R_TAYLOR','R_PAY','CE','HR11']
 
@@ -66,7 +67,7 @@ for f in F:
     v, r = cls(f)
     if f['n'] in CONTESTED: v, r = CONTESTED[f['n']]
     f['v'], f['r'] = v, r
-json.dump(F, open('/tmp/f185v.json','w'), indent=2)
+json.dump(F, open(os.path.join(tempfile.gettempdir(), 'f185v.json'),'w'), indent=2)
 
 LABEL = {'A!':'Admitted','A':'Admitted','A*':'Admitted','A~':'Admitted','N':'Not admitted','D?':'Denied (likely)'}
 FILL  = {'A!':'#cfe9cf','A':'#e8f4e8','A*':'#e8f4e8','A~':'#e8f4e8','N':'#fdf3e0','D?':'#fbe4e4'}
