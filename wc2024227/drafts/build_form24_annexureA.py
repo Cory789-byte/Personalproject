@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """WC/2024/227 - ANNEXURE A to the second notice to admit facts.
 The documents referred to in Schedule B, stitched in one bundle behind a one-page index.
-No document is annotated, highlighted or altered. All metadata stripped.
+No document is annotated, highlighted or altered, other than identification headers and footers. All metadata stripped.
 """
 import io, os, pikepdf
 from reportlab.lib.pagesizes import A4
@@ -33,28 +33,28 @@ ITEMS = [
     "Update\"", "6 June 2023, 4:05 pm",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 9, 10),
  (2, "Email chain, the Appellant to Ms C Taylor, Ms T Reese, Ms P Conaghan and Ms T Smith, "
-    "\"Increase of hours and Workplace issues\", and the replies of Ms Taylor and Ms Reese in the "
-    "same chain", "7 to 8 August 2023",
+    "\"Increase of hours and Workplace issues\", and the replies of Ms Reese in the "
+    "same chain", "7 to 10 August 2023",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 16, 21),
  (3, "Email, Ms T Reese to the Appellant attaching HR Policy E12; and the emails of 4 and "
     "8 September 2023", "29 August to 8 September 2023",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 14, 15),
  (4, "Document, the Appellant to Ms C Taylor, \"Request to Increase Working Hours to Full Time "
     "Rotational Roster\"; and the reply of Ms Taylor of 7 August 2023 at 1:43 pm and the email of "
-    "Ms Reese to Ms Taylor of 7 August 2023 at 5:11 pm", "31 August 2023",
+    "Ms Reese to Ms Taylor of 7 August 2023 at 5:11 pm", "7 and 31 August 2023",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 22, 24),
  (5, "Email, Ms C Taylor to the Appellant, \"Approved - Permanent Full Time FTE\"",
     "27 September 2023, 1:52 pm", "2023-09-27_Taylor_FullTime_Appointment_APPROVED.pdf", 1, None),
  (6, "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Afterhours Oncall Process - "
-    "Switchboard\"", "15 April 2024, 12:39 pm",
+    "Switchboard\", as forwarded by the Appellant to WorkCover Queensland on 29 August 2024", "15 April 2024, 12:39 pm",
     "correspondence-packs/10_Amy_Mo_WorkCover_EMAILS_PACK_84pp.pdf", 49, 50),
  (7, "Email chain, \"Roster Concerns\", as produced under the Regulator's tab of that name - "
     "Ms T Reese to the Appellant of 26 April 2024 at 1:52 pm; the Appellant to Ms Reese of 1 May "
     "2024 at 1:18 pm; and Ms Reese to the Appellant of 8 May 2024 at 9:08 am",
     "26 April to 8 May 2024",
     "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 26, 29),
- (8, "Emails, Ms T Reese to Mr M Pritchard \"FW: Roster Concerns\" with attachment "
-    "\"qh-gdl-401-3.3\", and Ms T Reese to LBH_HR", "10 and 20 May 2024",
+ (8, "Emails, Ms T Reese to Mr M Pritchard \"FW: Roster Concerns\", and Ms T Reese to LBH_HR "
+    "with attachment \"qh-gdl-401-3.3\"", "10 and 20 May 2024",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 12, 13),
  ("8A", "Cover page of the attachment to that email - Fatigue risk management systems, "
     "Implementation guideline QH-GDL-401-3.3:2021", "2021",
@@ -65,6 +65,9 @@ ITEMS = [
     "of the Stressor 1(a) particulars bundle served 11 August 2026",
     "9 May 2024 (issues logged 2-8 May 2024)",
     "2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf", 9, 12),
+ ("8C", "Email, Ms E Stibbard to the Switchboard team, \"Switchboard After Hours On Call Manager "
+    "PP24 13/5/24 - 26/5/24\"", "13 May 2024, 4:29 pm",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 19, None),
  (9, "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Switchboard Manager - On call "
     "and Hours.\"", "17 May 2024, 9:30 am",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 20, None),
@@ -75,14 +78,12 @@ ITEMS = [
  ("9B", "Email, Ms T Reese to the Appellant, \"RE: Office Hours and Departmental Directives\"",
     "21 May 2024, 2:53 pm",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 21, 21),
- ("9C", "Email, Ms C Taylor to Ms A McNamee, \"FW: Office Hours and Departmental Directives\"",
-    "17 May 2024, 1:20 pm",
-    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 36, 36),
  (10, "Email, Ms C Taylor to the Appellant, \"Sick leave 14.05.24\"; and, on the same page, the "
     "email of Ms Taylor to Ms T Reese of 15 May 2024 at 1:07 pm forwarding it", "14 and 15 May 2024",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 39, None),
  (11, "Emails, Ms S Marriott to Logan Switch \"Respiratory Nurse Educators\"; the Appellant to "
-    "Ms C Taylor; and the reply of Ms C Taylor", "15 and 20 May 2024",
+    "Ms C Taylor; and the reply of Ms C Taylor; as forwarded "
+    "by Ms Taylor on 1 July 2025", "15 and 20 May 2024",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 40, 41),
  (12, "Email thread, \"Corey Shepherd 388372 Pay issues\" - Payroll to the Line Manager copied to "
     "the Appellant; the Appellant to Payroll; Payroll to the Appellant", "3 to 13 May 2024",
@@ -90,7 +91,7 @@ ITEMS = [
  (13, "Same thread continued - the Line Manager to the Appellant", "21 May 2024, 12:33 pm",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 46, None),
  (14, "Email, Ms C Taylor to the Appellant copied to Ms T Reese, \"Validation of Claims older "
-    "than 3 months - Please sign\"", "28 May 2024, 8:36 am",
+    "than 3 months - Please sign\", as forwarded by Ms Taylor on 10 July 2025", "28 May 2024, 8:36 am",
     "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 43, None),
  (15, "myHR submissions report for the Appellant, produced by Metro South Health as Item 11",
     "1 February to 31 May 2024", "Item_11_myHR_report_Leave_submissions_Feb-May_2024.pdf", 1, None),
@@ -164,7 +165,7 @@ def build_index(first_page):
         ('TOPPADDING',(0,0),(-1,-1),3.5),('BOTTOMPADDING',(0,0),(-1,-1),3.5)]))
     st.append(t); st.append(Spacer(1, 4*mm))
     st.append(P("The documents follow in the order listed. No document has been annotated, highlighted "
-                "or altered. Where only part of a document is reproduced, the balance is available on "
+                "or altered, other than identification headers and footers. Where only part of a document is reproduced, the balance is available on "
                 "request.", B))
     buf = io.BytesIO()
     doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=16*mm, rightMargin=16*mm,

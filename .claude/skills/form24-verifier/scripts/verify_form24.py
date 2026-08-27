@@ -134,7 +134,8 @@ REG = [
   (datetime(2024,5,20,14,5)-datetime(2024,5,15,11,47)).seconds == 2*3600+18*60),
  ("three hours and two minutes", (datetime(2024,5,20,14,5)-datetime(2024,5,20,11,3)).seconds == 3*3600+2*60),
  ("two hours and twenty-five minutes", (datetime(2024,5,20,16,30)-datetime(2024,5,20,14,5)).seconds == 2*3600+25*60),
- ("approximately thirty-one months", (2025-2023)*12 + (11-4) == 31),
+ ("fifth calendar day", days('2024-05-03', '2024-05-08') == 5 and days('2024-05-15', '2024-05-20') == 5),
+ ("two hours after the conclusion", (datetime(2024,5,20,16,30)-datetime(2024,5,20,14,30)).seconds == 2*3600),
 ]
 alltext = ' '.join(f['t'] for f in facts)
 for frag, holds in REG:
