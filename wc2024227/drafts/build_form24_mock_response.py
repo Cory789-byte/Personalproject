@@ -39,6 +39,7 @@ def cls(f):
                                                return 'A','Served on the Respondent; also its own disclosure.'
     if s.startswith('The bundle'):             return 'A','Served on the Respondent 11 August 2026.'
     if s.startswith('Role description'):       return 'N','Employer document reaching the Appellant through the 2026 employment file. Not in the Respondent\'s List and never held by it.'
+    if s.startswith('Email of Ms E Stibbard to the Switchboard team'): return 'A','Own disclosure - the FRMS pack (List items 37-42).'
     if s.startswith('Email of Ms E Stibbard'): return 'N','Not itemised in the Respondent\'s List. Provenance is the Appellant\'s own mailbox.'
     if s.startswith('Movement forms'):         return 'N','2026 employer document, post-dating the claim.'
     if s.startswith('Consultation'):           return 'N','Employer document, not in the Respondent\'s List.'

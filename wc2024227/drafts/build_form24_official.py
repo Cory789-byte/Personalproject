@@ -70,7 +70,8 @@ story.append(P("<b>PLEASE NOTE:</b> If there are more than two parties to this a
                "complete a <b>Form 1 &ndash; Parties list</b> and file it with this form.", BODY))
 story.append(box([[P("To:", FLD), P("Workers' Compensation Regulator<br/>"
                                     "Attention: Ms Renee Matheson, Senior Appeals Officer<br/>"
-                                    "150 Mary Street, Brisbane QLD 4001<br/>Renee.Matheson@oir.qld.gov.au", VAL)]],
+                                    "150 Mary Street, Brisbane QLD 4001<br/>"
+                                    "Renee.Matheson@oir.qld.gov.au", VAL)]],
                  [40*mm, 118*mm]))
 story.append(Spacer(1, 3*mm))
 story.append(P("Take notice that the [&nbsp;&nbsp;] applicant &nbsp; <b>[X] appellant</b> &nbsp; "
@@ -92,7 +93,8 @@ for f in FACTS:
         _txt = f[1]
         _m = re.search(r'Annexure A Tabs? ([0-9A-Z]+(?:[,\-] ?[0-9A-Z]+)*)', f[2] if len(f) > 2 else '')
         if _m:
-            _txt += f" <font size=8 color='#555555'>(Annexure A, Tab {_m.group(1)})</font>"
+            _tb = 'Tabs' if re.search(r'[,\-]', _m.group(1)) else 'Tab'
+            _txt += f" <font size=8 color='#555555'>(Annexure A, {_tb} {_m.group(1)})</font>"
         rows.append([P(f"<b>{f[0]}</b>", CELL), P(_txt, CELL), P("", CELL)])
 t = Table(rows, colWidths=[11*mm, 118*mm, 29*mm], repeatRows=1)
 st = [('GRID', (0,0), (-1,-1), 0.7, colors.black), ('VALIGN', (0,0), (-1,-1), 'TOP'),
@@ -122,6 +124,9 @@ story.append(P("Take notice that the appellant also asks the respondent to admit
                "the respondent does not within 14 days after receiving this notice serve a notice "
                "on the appellant disputing the authenticity of those documents, the respondent is "
                "taken to admit their authenticity for this proceeding only.", BODY))
+story.append(P("The authenticity of the same documents is also the subject of a separate "
+               "<b>Form 25 - Notice to admit documents</b> served with this notice, annexing the "
+               "same Annexure A. This schedule is retained in this notice as a cross-reference.", BODY))
 drows = [[P("Tab", CH), P("Document", CH), P("Date", CH), P("Authenticity admitted / disputed", CH)]]
 for tab, d, dt in DOCS:
     drows.append([P(f"<b>{tab}</b>", CELL), P(d, CELL), P(dt, CELL), P("", CELL)])
@@ -142,9 +147,17 @@ if not SERVE_CLEAN:
                    "source document. (2) Check the radio selections above: the appellant proposes to "
                    "prove the facts, and the notice is served on the respondent. (3) Confirm this is "
                    "the current version of Form 24 on the Commission's website before filing or "
-                   "serving. (4) Sign and date both signature blocks.", NOTE))
+                   "serving. (4) Sign and date both signature blocks. (5) Tab 26 of Annexure A "
+                   "currently holds the unfilled render of the prior notice from the February 2026 "
+                   "response pack - substitute the copy actually served on the Regulator (the "
+                   "attachment to the service email sent to Ms Matheson before 18 February 2026, in "
+                   "the hotmail sent items) before service, or the Regulator may dispute the "
+                   "authenticity of Tab 26. (6) Verify the accompanying Form 25 against the current "
+                   "Form 25 (Version 4.1) on the Commission's website and transcribe it onto the "
+                   "official form. (7) Serve by email to Renee.Matheson@oir.qld.gov.au with the "
+                   "address for service block as above.", NOTE))
 
-OUT = "out/FORM24_PART_A_SERVE_CLEAN.pdf" if SERVE_CLEAN else "out/FORM24_COMPLETED_OFFICIAL_FORM.pdf"
+OUT = "out/FORM24_COMPLETED_OFFICIAL_FORM.pdf"
 doc = BaseDocTemplate(OUT, pagesize=A4, leftMargin=17*mm, rightMargin=17*mm,
                       topMargin=15*mm, bottomMargin=20*mm)
 frame = Frame(17*mm, 20*mm, A4[0]-34*mm, A4[1]-35*mm, id='n',

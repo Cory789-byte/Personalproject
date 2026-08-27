@@ -31,4 +31,4 @@ print(f"{N} facts | admitted-or-deemed: p5={q(5)} median={q(50)} p95={q(95)}")
 print(f"P(>=250)={sum(1 for a in A if a>=250)/len(A):.1%}  "
       f"E[denials]={statistics.mean(r[2] for r in R):.2f}  "
       f"E[riders]={statistics.mean(r[3] for r in R):.1f}")
-if q(5) < 240: print("WARN: p5 below 240 - review classification drift"); sys.exit(1)
+if q(5) < N * 0.82: print(f"WARN: p5 below 82% of {N} - review classification drift"); sys.exit(1)

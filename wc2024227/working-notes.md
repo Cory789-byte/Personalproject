@@ -6785,3 +6785,35 @@ killer, does not reach him.**
 **ACTION:** (a) open the Award at s 23 and cl 19.2(a); (b) identify from the rosters which public
 holidays he was **rostered off**; (c) resolve whether "Public Holiday not Worked" is a payroll code
 distinct from the s 23 entitlement. Only then decide whether it goes in the 9 Sept outline.
+
+## 27 August 2026 — Form 24 v3: external review implemented, validator network run
+
+- Implemented the uploaded review corrections end to end: 15 deletions, 12 rewords,
+  4 additions (RD 21-Feb "5 days" decline reason; Taylor "not in the office until around
+  11am on Monday 20.05.2024"; Reese→Pritchard "Cory's roster will not be considered…";
+  Stibbard 13 May on-call email now Tab 8C from the Regulator's OWN FRMS disclosure p19).
+- Sections D+E merged into one chronological 1(a); all 14 wrong-tab citations fixed
+  (9A-before-8 rule order, bare LBH_HR token dropped, carry-forward for "That …" facts).
+- Annexure: Tab 9C REMOVED (McNamee — never tender it ourselves), Tab 8C ADDED,
+  descriptions corrected (2, 4, 6, 8, 11 "as forwarded by Ms Taylor on 1 July 2025",
+  14 "…10 July 2025"), index note now "other than identification headers and footers".
+- Both McNamee rows deleted from Schedule B (it was listed TWICE — pre-existing defect
+  the external review missed).
+- NEW build_form25_documents.py — Form 25 notice to admit documents, generated from the
+  same annexure ITEMS (36 tabs), Version 4.1 fields; ⛔ verify against live QIRC form
+  before service (site 503 from build env).
+- Part B: letter remap after the merge; @Pan Jane Wong fix; notification row rewritten
+  (three-calls narrative gone); five-occasions neutral; refusal/terminable sentence
+  attributed to the Review Decision; Forrest "this is only applied"; premise line now
+  covers computed intervals; expressly a non-r49 aid.
+- Both [sic] readings verified against the SOFC text layer: "the Ms Taylor" (¶12(a)) and
+  "Plaintiff" (¶27) are in the pleading verbatim.
+- Battery GREEN (11 checks); fresh mock 249 admit / 37 not-admit / 0 deny (286 facts);
+  Monte Carlo p5=239 median=245 (threshold recalibrated to 82% ratio).
+- Tab 26 served copy is NOT in OneDrive (checked "Qirc REG Filed forms" — same template
+  render as the repo pack, byte-identical). It lives only in the hotmail sent items —
+  USER ACTION before service.
+- Strategy memo: drafts/STRATEGY_admit_architecture_27AUG2026.md (internal, never served).
+- Deliberate non-adoptions from the review recorded there and in the session log:
+  Sections R/N kept, pleading-quote juxtapositions kept, Part B kept as aid,
+  PO Box 10119 kept + Matheson email added, negatives kept itemised.

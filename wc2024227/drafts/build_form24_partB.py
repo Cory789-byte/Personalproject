@@ -75,34 +75,39 @@ ITEMS = [
   "and second Monday, 8:00 - 16:00\", directed that entries be requested from her directly, that an "
   "urgent entry needed on a day she was absent go to Ms Taylor, and that a request made \"after "
   "hours (overnights, on the weekend or public holiday)\" would \"have to wait until either Chloe or "
-  "myself are back\"; she also removed the Contact &amp; Number Changes book from the room. On the "
-  "Respondent's pleadings that access was not restored before 18 June 2024.<br/><br/>"
+  "myself are back\"; she also removed the Contact &amp; Number Changes book from the room. The "
+  "Respondent's amended statement of facts and contentions does not allege that access was "
+  "restored before 18 June 2024.<br/><br/>"
   "<b>The directives, and the hours.</b> On 15 April 2024 at 12:39 pm Ms Taylor notified Logan "
   "Switch that she and Ms Stibbard had added themselves to after-hours on call, \"effective from "
   "today\", directing that \"Process during office hours remains the same, please contact myself "
   "through switch/office or mobile unless otherwise advised\", and signing as \"A/Switchboard "
   "Manager\". Review Decision 69983 records that on 19 April 2024 she emailed the team imposing a "
-  "new data-entry process \"due to errors being made with respect to data entry\". On the "
-  "Respondent's pleadings the only statement of her hours then before the team was the range that "
-  "decision records her as noting in an email of 23 August 2023 - a start \"between 6:00 to 9:00 "
-  "am\" and a finish \"between 2:00 to 5:00 pm\" - and it is not alleged that she stated fixed office "
-  "hours at any time between 23 August 2023 and 17 May 2024. She did so on 17 May 2024 at 9:30 am, "
-  "32 days after the on-call notification, stating that her hours \"can vary\", that on school "
-  "drop-off days she would be in \"between 0800-830am\", and \"Otherwise my hours are from "
+  "new data-entry process \"due to errors being made with respect to data entry\". Review "
+  "Decision 69983 records her email of 23 August 2023 as noting a start \"between 6:00 to 9:00 "
+  "am\" and a finish \"between 2:00 to 5:00 pm\", and the Respondent does not allege that she "
+  "stated fixed office hours to the Switchboard staff at any time between 23 August 2023 and "
+  "17 May 2024. She did so on 17 May 2024 at 9:30 am, "
+  "32 days after the on-call notification, stating that her office hours \"can vary\", that on some "
+  "days she \"will be in later between 0800-830am\", and \"Otherwise my hours are from "
   "06:30-14:30\"; she undertook to \"advise of any change to my office hours for the week\" and "
   "directed that \"regardless of my start/finish times next week you are to please contact me "
-  "through the day/afterhours either via switch, office or mobile\".<br/><br/>"
+  "through the day/afterhours either via switch, office or mobile\". Her own email of 23 August "
+  "2023, \"What's Chloe's Hours?!\", had stated: \"My hours would range from starting between "
+  "6-9am and finishing 2-5pm\"; and on 18 June 2024 at 8:58 am she emailed Logan Switch, copied "
+  "to Ms Reese: \"I am taking today off\", \"I am sorry I haven't been there for you all over "
+  "the past week\", and \"Ellen will not be in today\".<br/><br/>"
   "<b>The MASPER accumulation.</b> On 3 May 2024 at 3:06 pm Vivian Kwok, MASPER Registrar, emailed "
-  "Ms Taylor, copied to Dr Pan Jane Wong, listing five occasions on 2 and 3 May 2024 - four on "
-  "which a call went to a number other than the one sought, and one at 14:46 when the \"MET call team "
+  "Ms Taylor, copied to Dr Pan Jane Wong, listing five occasions on 2 and 3 May 2024, including at 14:46 when the \"MET call team "
   "called x5290 asking where MET call was located 'VHUB' - switchboard could not tell them where "
   "VHUB was. Had to be redirected by MASPER\". On 8 May 2024 at 5:28 pm she reported four more, on "
   "5, 7 and 8 May, twice \"incorrectly put through to MASPER\" - nine occasions in all, the second "
   "email sent on the fifth calendar day after the first. Those occasions fell while the on-call "
   "arrangement notified on 15 April 2024 was in force. The Respondent does not allege that any "
-  "communication was sent to Logan Switch or the Switchboard staff about them before 10:15 am on "
-  "9 May 2024. Ms Taylor replied on 9 May 2024 at 9:20 am, asking \"@Pan Jane Wong\" to "
-  "confirm business hours because they were \"not provided on the rosters\", and told Logan "
+  "communication was sent to Logan Switch or the Switchboard staff about them after 3 May 2024 "
+  "and before 10:15 am on 9 May 2024. On 9 May 2024 at 9:20 am - five days, eighteen hours and "
+  "fourteen minutes after the first report - Ms Taylor replied, asking Dr Pan Jane Wong (\"@Pan Jane Wong\") to "
+  "confirm her business hours because they were \"not provided on the rosters\", and told Logan "
   "Switch at 10:15 am that day - six calendar days after the first report - that \"There have been "
   "many ongoing issues raised by the MASPER and the medical department about calls being "
   "transferred to the wrong medical teams\", directing that \"all calls that switch transfer to the "
@@ -119,9 +124,6 @@ ITEMS = [
   "answer\". On 21 May 2024 at 2:53 pm Ms Reese wrote that she \"will follow up on the issues "
   "raised\" and asked \"was there one or more particular changes and/or directives where you had "
   "concerns about consultation and communication?\"<br/><br/>"
-  "<b>The escalation of 17 May 2024.</b> The Respondent pleads at paragraph 16(b)(iv) that \"Ms "
-  "Taylor then raised this as an issue with Ms Reese at 1:20 pm\". The email sent at 1:20 pm on 17 "
-  "May 2024 was to Ms Adriana McNamee.<br/><br/>"
   "<b>The respiratory directory.</b> On 15 May 2024 at 11:47 am Ms Sue Marriott, Administration "
   "Officer, Integrated Respiratory Service, wrote to Logan Switch, marked of High importance: \"We "
   "are not Respiratory Medical OPD and we do not have any doctors working out of this area.\" The "
@@ -140,11 +142,24 @@ ITEMS = [
   "outpatients respiratory/medical\", adding \"Taking note of your recommendation, we can also put "
   "the updated procedures out to the team for consultation before implementing.\" Mr Richard Parry "
   "was among the recipients of Ms Stibbard's on-call roster email of 13 May 2024 and of Ms Taylor's "
-  "email of 17 May 2024 on hours. The Respondent's amended List of Documents dated 14 August 2026 lists no document created on "
-  "20 May 2024 recording that discussion, and no document recording any communication from Ms "
-  "Taylor or Mr Parry to Ms Marriott or the Integrated Respiratory Service that day; nor does the Respondent allege that the "
+  "email of 17 May 2024 on hours. The Respondent's amended List of Documents dated 14 August 2026 lists no document created "
+  "on 20 May 2024 recording that discussion, and no document recording any communication from "
+  "Ms Taylor or Mr Parry to Ms Marriott or the Integrated Respiratory Service that day; nor does "
+  "the Respondent allege that the "
   "document was amended on or before 20 May 2024, or that the Switchboard staff were notified of "
-  "the 22 February 2024 modifications.", ("D", "E")),
+  "the 22 February 2024 modifications.", ("D",)),
+
+ ("1(a)", "The notified means of contact with Ms Taylor",
+  "Ms Taylor's email of 15 April 2024 states that during office hours the Appellant was to contact "
+  "her \"through switch/office or mobile\". Her email of 14 May 2024 at 12:08 pm, sent to the "
+  "Appellant and copied to Ms Reese under the subject \"Sick leave 14.05.24\", states: \"in business "
+  "hours you are to follow the correct process and speak to me directly if its regarding emergent "
+  "leave, you can contact me either through switch or my office/mobile.\" Each of those two emails "
+  "identifies the Switchboard as a means by which the Appellant could contact Ms Taylor. The "
+  "Respondent's amended statement of facts and contentions, as presently constituted, does not "
+  "allege that the Appellant was informed, at any time before 14 May 2024, that notifying his "
+  "unavailability for a rostered shift by telephoning the Switchboard did not comply with the "
+  "process required of him.", ("H",)),
 
  ("1(b)", "The communication book",
   "On 6 June 2023 at 4:05 pm Ms Taylor emailed Ms Reese under the subject \"Fwd: Communication "
@@ -163,7 +178,7 @@ ITEMS = [
   "admitted that maintaining accurate contact details is \"a critical function of the Switchboard to "
   "ensure effective clinical handover and patient safety\", adding \"and says that there was a "
   "procedure in place for this to occur\", and denied a related paragraph on the stated ground "
-  "\"because there was already a procedure in place\".", ("G", "R")),
+  "\"because there was already a procedure in place\".", ("F", "R")),
 
  ("1(c)", "The matters raised in August and September 2023",
   "On 7 August 2023 at 12:21 pm the Appellant wrote asking that he be given \"some space\" and that "
@@ -177,8 +192,7 @@ ITEMS = [
   "yourself about missed shifts, as I could not find a copy of this email\". On 29 August 2023 at "
   "6:57 pm Ms Reese sent HR Policy E12 and set out how a grievance could be submitted; on 4 "
   "September 2023 the Appellant replied that he had \"spoken to Chloe\" and they were \"seemingly on "
-  "the path to working in a beneficial way\". The Appellant did not submit a grievance under that "
-  "policy in 2023.", ("H",)),
+  "the path to working in a beneficial way\".", ("G",)),
 
  ("1(d)", "The Special Pandemic Leave application",
   "The myHR leave request history for Process Reference 15480560 records the Appellant creating a "
@@ -192,29 +206,33 @@ ITEMS = [
   "attached\", that \"a review indicates that in fact, the attachments were present on the "
   "appellant's submission\", and that this was \"a matter of human error by Ms Taylor\". Review "
   "Decision 69983 records Ms Taylor as having \"requested that you send it to her so she could "
-  "submit it in MyHR\", and as having \"noted the statutory declaration you provided was sufficient "
-  "evidence\". The Instrument of Human Resource Sub-Delegation effective 5 December 2022 "
+  "submit it in MyHR\", records that on 21 February 2024 she \"informed she had to decline your "
+  "request in MyHR because the minimum period for Covid leave was 5 days for a positive staff "
+  "member\", and records her as having \"noted the statutory declaration you provided was "
+  "sufficient evidence\". The Instrument of Human Resource Sub-Delegation effective 5 December 2022 "
   "sub-delegates \"the power to approve/not approve paid Special Pandemic Leave ... to a Band 9 "
   "delegate\" and states: \"This Instrument does not permit the further sub-delegation of the powers "
   "outlined in (a) above.\" The Respondent does not allege that Ms Taylor or Ms Reese was a Band 9 "
   "delegate, does not identify who exercised that power in respect of this process reference, and "
   "does not allege that any other Switchboard employee was required to submit such a request "
-  "personally through myHR in February 2024.", ("F",)),
+  "personally through myHR in February 2024.", ("E",)),
 
  ("1(g)", "The union delegate and the roster consultation",
   "On 18 February 2026 the Respondent admitted \"that the Appellant sent a text to Ms Taylor at "
   "5.03pm that he was 'just putting his hand up'\", saying this was not a formal notification, and "
   "admitted that the Union Encouragement Policy QH-POL-248 \"says words to that effect\", the effect "
   "pleaded being that it \"requires managers to take a 'positive, supportive role' to facilitate "
-  "union membership and delegate elections\". The Appellant was endorsed as a workplace delegate on "
-  "or about 3 November 2025. The Consultation outcome of December 2024 states that under clause 6.2 of the Award "
+  "union membership and delegate elections\". The Appellant was endorsed as a workplace delegate by the "
+  "email of Mr H Moran, Organiser, Together Queensland, of 3 November 2025. The Consultation outcome of December 2024 states that under clause 6.2 of the Award "
   "\"agreement between MSH and the union, or MSH and the majority of employees affected must occur "
   "prior to changes to a shift roster\", agreement being \"consent from the majority (50+1%) of "
   "affected employees\" cast by online ballot; the Consultation Paper records that negotiation of a "
   "new roster commenced on 22 July 2021 and that the proposal was \"intended to introduce a more "
   "equitable roster\" including \"Redistribution of nights for greater equity based on FTE\". "
-  "Seventeen employees were balloted in December 2024 and the rosters took effect 20 January "
-  "2025.", ("I",)),
+  "Seventeen employees were balloted in December 2024 and the rosters took effect 20 January 2025. "
+  "The Respondent does not allege that agreement under clause 6.2 was obtained before the rostering "
+  "of the shifts of 17 and 18 March 2024, or that a ballot was conducted before the on-call change "
+  "of 15 April 2024.", ("I",)),
 
  ("2(a)", "The pay corrections",
   "On 3 May 2024 Ms Elaine Grant of Queensland Health Payroll wrote to Ms Taylor, copied to the "
@@ -226,8 +244,7 @@ ITEMS = [
   "Manager to have them corrected with an AVAC submitted through My HR.\" The myHR submissions "
   "report for 1 February to 31 May 2024 records seven submissions, five of them Attendance "
   "Variation and Allowance Claims, the initiator of each of those five being \"Donovan-Taylor, "
-  "Chloe\" and none being the Appellant; neither PRN 15397775 nor PRN 15605601 appears in that "
-  "report. The Respondent pleads that \"any discrepancies or errors were remedied "
+  "Chloe\" and none being the Appellant; neither PRN 15397775 nor PRN 15605601 appears in that report. The Respondent pleads that \"any discrepancies or errors were remedied "
   "in a timely manner\" and that \"there are no outstanding underpayments for the appellant\".",
   ("J",)),
 
@@ -250,19 +267,22 @@ ITEMS = [
   "error and not intentional or repeated\". It pleads at paragraph 22(e) that \"in June 2020, the "
   "Appellant signed an agreement allowing an 8-hour break between shifts\", and at 22(b) that \"the "
   "appellant could refuse shifts at anytime\". By email of 7 July 2026 Ms Forrest stated of the "
-  "8-hour agreement: \"however this is only applied where staff initiated shift swaps have occurred\"; the "
+  "8-hour agreement: \"this is only applied where staff initiated shift swaps have occurred\"; the "
   "Respondent does not allege that the shifts of 17 and 18 March 2024 arose from a staff initiated "
   "shift swap. The Leave Takings Report for 19 March 2024 records the Leave Category as \"Sick\", "
   "7.60 hours, status \"APPROVED\"; the Respondent pleads that the leave \"was paid leave\" and that "
   "under clause 18.10 of the Award the Appellant \"is not entitled to fatigue leave, because he was "
-  "not performing overtime\".", ("L",)),
+  "not performing overtime\". The shift of 18 March 2024 fell on a Monday, and the 2024 Emergency "
+  "Code Register records six entries between 6:00 and 14:00 that day - including \"NEONATAL MET "
+  "CALL THEATRE 2\" at 11:35 and \"NEONATAL MET CALL BIRTH SUITES 5\" at 13:09 - and, for the "
+  "evening of 17 March 2024, \"CODE BLUE WARD 2H BED 7\" at 19:20 and MET calls at 19:16 and "
+  "21:16.", ("L",)),
 
  ("3(b)", "The roster concerns, the employer's knowledge, and what was not in place",
   "<b>The April rostering error.</b> At a meeting on 16 April 2024 the Appellant raised a roster "
   "line ending with night shifts, followed by three days off, and then returning to night shifts. "
   "On 26 April 2024 at 1:52 pm Ms Reese wrote to him recording that Ms Taylor \"was working to fix "
-  "this error and would get in touch with you about what alternative shifts she could offer\", and "
-  "\"I asked Chloe to follow upon what should be the interpretation of this section with HR\". The "
+  "this error and would get in touch with you about what alternative shifts she could offer\". The "
   "Respondent's amended statement of facts and contentions, as presently constituted, does not "
   "allege that Ms Taylor got in touch with the Appellant about alternative shifts following that "
   "meeting.<br/><br/>"
@@ -300,9 +320,9 @@ ITEMS = [
   "break\". On 9 April 2024 Ms Taylor replied that she \"also escalated your enquiry regarding "
   "fatigue leave to Human Resources to confirm policies around this\", and asked him to raise "
   "concerns \"as soon as they arise so she could action them sooner\". On 24 April 2024 he wrote "
-  "that it had been \"more than 2 weeks without any response\". On 1 May 2024 - 23 days after the "
-  "request - she refused it \"due to the existing 8-hour agreement signed by you on 17 June 2020\", "
-  "noting \"However, she noted you are able to terminate this agreement going forward.\" The "
+  "that it had been \"more than 2 weeks without any response\". Review Decision 69983 records the refusal of 1 May 2024 - 23 days after the "
+  "request - as made \"due to the existing 8-hour agreement signed by you on 17 June 2020\", and "
+  "records: \"However, she noted you are able to terminate this agreement going forward.\" The "
   "Respondent does not allege that any response was made between 9 April and 1 May 2024.<br/><br/>"
   "The agreement was signed on 17 June 2020. That decision records the employer's response of 6 "
   "September 2024 as confirming there had been a \"change to your employment contract and "
@@ -355,10 +375,10 @@ ITEMS = [
   "disciplinary process, or to any formal performance management process, at any time before 18 "
   "June 2024, or describe any communication with him before that date as a warning or as part of "
   "such a process. Paragraph 27 of that statement does not identify, by particular, date, document "
-  "or cross-reference, the management action relied upon for the contention in that paragraph. No "
-  "document recording consultation with Switchboard operators before the change communicated by the "
-  "email of 15 April 2024 has been identified or disclosed in the Respondent's disclosed material "
-  "presently before the Commission.", ("P", "S")),
+  "or cross-reference, the management action relied upon for the contention in that paragraph. The "
+  "Respondent's amended List of Documents dated 14 August 2026 does not list any document "
+  "recording consultation with Switchboard operators before the change communicated by the email "
+  "of 15 April 2024.", ("P", "S")),
 ]
 
 H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=14, leading=17, spaceAfter=3)
@@ -373,14 +393,18 @@ def P(t, s=C): return Paragraph(t, s)
 
 st = [P("Form 24 &ndash; Notice to admit facts &nbsp;&middot;&nbsp; PART B: SUMMARY SCHEDULE", H1),
       P("WC/2024/227 &middot; Shepherd v Workers' Compensation Regulator", SUB),
-      P("<b>This Part is served with, and in addition to, the itemised schedule in Part A. It does "
-        "not replace it and does not derogate from it.</b> Each fact below is a composite of facts "
-        "already specified in Part A, and the paragraphs of Part A that specify them are identified "
-        "against each. It is provided so that the respondent may, if it wishes, admit a limb as a "
-        "whole rather than paragraph by paragraph. Each sentence of a row is severable: the "
-        "respondent may admit or dispute any sentence separately, and a response to part of a "
-        "row does not affect the balance of that row. A response to a fact in this Part is not a "
-        "response to any fact in Part A, and the facts in Part A are unaffected by it.", B),
+      P("<b>This Part is served with, and in addition to, the itemised notice to admit facts. It "
+        "does not replace it and does not derogate from it.</b> Each fact below is a composite of "
+        "facts already specified in the itemised notice, together with intervals and counts computed "
+        "from the dates and occasions there stated, and the paragraphs of the notice that specify them are identified "
+        "against each. It is provided as an aid to response, so that the respondent may, if it "
+        "wishes, admit a limb as a whole rather than paragraph by paragraph; it is not itself a "
+        "notice under rule 49, and the operative notices are the itemised Form 24 notice to admit "
+        "facts and the Form 25 notice to admit documents served with it. Each sentence of a row is "
+        "severable: the respondent may admit or dispute any sentence separately, and a response to "
+        "part of a row does not affect the balance of that row. A response to a fact in this Part "
+        "is not a response to any fact in the itemised notice, and the facts there specified are "
+        "unaffected by it.", B),
       Spacer(1, 2*mm)]
 
 rows = [[P("<b>Limb</b>", CB), P("<b>Fact to be admitted</b>", CB), P("<b>Admit / Deny</b>", CB)]]
@@ -395,7 +419,7 @@ for limb, head, body, secs in ITEMS:
         _seen.add(key); banners.append(len(rows))
         rows.append([P(f"<b>{GRP[key]}</b>", CB), P("", CB), P("", CB)])
     cell = [P(f"<b>{head}</b>", CB), P(body, C),
-            P(f"Specified in Part A at paragraphs {rng(*secs)}.", REF)]
+            P(f"Specified in the itemised notice at paragraphs {rng(*secs)}.", REF)]
     rows.append([P(f"<b>{limb}</b>"), cell, P("", C)])
 
 t = Table(rows, colWidths=[14*mm, 129*mm, 26*mm], repeatRows=1, splitInRow=1)
