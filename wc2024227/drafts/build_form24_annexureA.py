@@ -214,6 +214,16 @@ import re as _re2
 import fitz as _fitz
 _doc = _fitz.open(OUT)
 _total = _doc.page_count
+_stripped = 0
+for _pg in _doc:
+    _an = _pg.first_annot
+    while _an:
+        _nx = _an.next
+        if _an.type[1] != "Link":
+            _pg.delete_annot(_an); _stripped += 1
+        _an = _nx
+for _e in range(_doc.embfile_count() - 1, -1, -1):
+    _doc.embfile_del(_e)
 for _i, _pg in enumerate(_doc):
     _lbl = f"Page {_i+1} of {_total}"
     _w = _fitz.get_text_length(_lbl, fontname="helv", fontsize=8.5)
