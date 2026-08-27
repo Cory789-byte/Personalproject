@@ -178,7 +178,13 @@ ITEMS = [
   "admitted that maintaining accurate contact details is \"a critical function of the Switchboard to "
   "ensure effective clinical handover and patient safety\", adding \"and says that there was a "
   "procedure in place for this to occur\", and denied a related paragraph on the stated ground "
-  "\"because there was already a procedure in place\".", ("F", "R")),
+  "\"because there was already a procedure in place\". The amended statement of facts and "
+  "contentions, as presently constituted, does not identify the removed entry or its author, and "
+  "does not allege that the page has been located, that any copy of it exists, that any entry made "
+  "by the Appellant remains in the Communication Book, or that the Book ceased to be in the "
+  "possession of Metro South Hospital and Health Service at any time during the Appellant's "
+  "employment; and the Respondent's amended List of Documents dated 14 August 2026 does not list "
+  "the Communication Book, nor any page or entry from it.", ("F", "R")),
 
  ("1(c)", "The matters raised in August and September 2023",
   "On 7 August 2023 at 12:21 pm the Appellant wrote asking that he be given \"some space\" and that "
