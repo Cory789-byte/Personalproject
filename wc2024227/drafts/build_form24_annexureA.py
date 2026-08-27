@@ -130,8 +130,10 @@ ITEMS = [
  (29, "Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special "
     "Pandemic Leave, signed by Ms N Cridland, produced as Item 13", "effective 5 December 2022",
     "disclosure-2026-06_MSH_production/item 13 delegation-hr-covid-directive-special-and-pandemic-leave-51222.pdf", 1, None),
- ("30", "Emails, Ms C Taylor to Logan Switch and the Switchboard team - hours, absence and late-arrival notifications, including \"What's Chloe's Hours?!\" of 23 August 2023 and the email of 18 June 2024 at 8:58 am", "16 February 2023 to 25 July 2024",
-    "2026-08-28_Taylor_absence_notifications_Att9.pdf", 1, None),
+ ("30", "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"What's Chloe's Hours?!\", extracted from a compilation of Ms Taylor's notifications to Logan Switch held by the Appellant; the balance of the compilation is available on request", "23 August 2023, 2:18 pm",
+    "2026-08-28_Taylor_absence_notifications_Att9.pdf", 10, 10),
+ ("30A", "Email, Ms C Taylor to Logan Switch, copied to Ms T Reese and Ms E Stibbard, \"Good morning Team.\", extracted from the same compilation", "18 June 2024, 8:58 am",
+    "2026-08-28_Taylor_absence_notifications_Att9.pdf", 4, 4),
  ("31", "Screen capture of the workbook \"2024 Emergency Code Register.xlsx\" (MARCH 2024 sheet), showing the entries recorded for 16 to 20 March 2024", "March 2024",
     "2026-08-28_Emergency_Code_Register_MARCH2024_capture.pdf", 1, None),
 ]
