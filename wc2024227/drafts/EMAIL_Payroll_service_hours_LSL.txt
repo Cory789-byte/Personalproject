@@ -20,10 +20,13 @@ provide the following from my payroll record.
    (a) my commencement date; and
    (b) my recorded continuous service date.
 
-2. HOURS
-   (a) my substantive fortnightly hours as recorded today; and
+2. HOURS AND LEAVE CODING
+   (a) my substantive fortnightly hours as recorded today;
    (b) the fortnightly hours recorded against me for each period from 1 March 2026 to date, with the
-       effective dates of each.
+       effective dates of each; and
+   (c) the leave type recorded against each pay period from 3 July 2026 to date, and who applied it.
+       I ask because my pay advice of 12 August 2026 records "NP Sick Leave" for 76 hours, and I did
+       not apply for sick leave.
 
 3. LONG SERVICE LEAVE
    (a) my current long service leave balance in weeks;
@@ -32,7 +35,9 @@ provide the following from my payroll record.
        Award – State 2015; and
    (c) the rate at which long service leave would be paid if taken now — that is, whether it is paid
        at my substantive rate, at my currently recorded hours, or at an average, and if an average,
-       over what period.
+       over what period; and
+   (d) whether long service leave for a continuous shift worker is paid at base rate only, or
+       whether shift penalties or an equivalent loading are included.
 
 4. DOCUMENTS
    Could you please provide copies of HR Policy C38 — Long Service Leave, and the Ministerial
