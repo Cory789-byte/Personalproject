@@ -2384,3 +2384,161 @@ the SPOK dependency and ¶24 — **and several of those are not yet in the outli
 **The answer to *"like a manager"* was filed, sealed and on the Commission's file seven weeks before
 the remark was made — at paragraph 24 of an affidavit that was never opened, by a Commissioner who
 had just said he switches off at volume.**
+
+---
+
+# PART SIXTEEN — IT WAS SWORN AND FILED ANYWAY: WHAT FOLLOWS
+
+## 73. ⭐⭐⭐ THE WITHDRAWAL OF THE FORM 29 DID NOT WITHDRAW THE AFFIDAVIT
+
+The Form 20 affidavit was **affirmed 18 June 2026**, filed with the r 64G application, **sealed
+23 June 2026**, and **served on MSH** (postmaster delivery receipt, 25 June 2026, to Ms Ruttan) and
+on the Regulator. What was withdrawn on 28 August was **the application**. The affidavit was not.
+
+⇒ **It stands on the Commission's file: sworn, served, and — by both the Regulator and MSH —
+unanswered.**
+
+| Consequence | |
+|---|---|
+| ⭐ **It is sworn** | He has affirmed the truth of every paragraph, including ¶24 |
+| ⭐⭐ **Both opponents have held it since June** | Neither has filed anything contradicting a word of it |
+| ⭐ **It corroborates his consistency** | Evidence at hearing consistent with a statement affirmed fourteen months before will be hard to attack as reconstruction |
+| ⚠ **And it binds him** | Evidence *inconsistent* with it is cross-examination material. **Everything he says at hearing must match paragraphs 15–34** |
+| ⚠ It is not evidence in the appeal *of itself* | It proves nothing until he is sworn and cross-examined |
+
+⭐⭐ **Dwyer's own principle applies to it directly:** *"if you say something and it's not
+contradicted, then the likelihood is… it will be accepted."* **A sworn statement that the
+patient-safety function of the hospital's emergency communications was performed by him at the
+switchboard has sat, uncontradicted, on the file of both opponents for ten weeks.**
+
+## 74. THE MENTION, REASSESSED IN THAT LIGHT
+
+The Commissioner spent sixty-five minutes asking *"how would you prove this?"* while a sworn
+statement proving most of it sat on his file.
+
+⭐ **And the irony is exact.** His stated complaint was **volume** — *"page after page after page…
+that's how I fall into error."* But the affidavit is the one document that **solves** the volume
+problem: it ties every Form 29 item to a pleaded stressor and to a named custodian, and explains in
+ordinary language why each is needed. ⇒ **The volume complaint caused him to skip the document that
+answered the volume complaint.**
+
+⚠ **And it was not readable electronically.** The stamped copy is a **scanned image with no text
+layer** — it cannot be searched, and a member working from a screen cannot navigate it. **That is a
+production fact, not a criticism of anyone.**
+
+## 75. ⭐⭐ WHY THE HOUR WAS SURREAL — FROM THREE SEATS
+
+### 75.1 For the Regulator
+Ms Matheson is the respondent to an appeal about whether a psychological injury arose out of
+employment. She sat, near-silent, through sixty-five minutes in which the Commission examined **her
+opponent's case** in detail and **told him how to prove it** — that she must contradict what she
+disputes, that uncontradicted evidence is likely to be accepted, that he would cross-examine
+Ms Taylor, and that she is a model litigant who *"can't hide stuff from you."*
+
+⚠⚠ **And the structural oddity underneath it:** the Regulator must defend the reasonableness of
+management action **taken by people it does not employ, recorded in documents it did not create, in
+a workplace it has never seen** — and it cannot compel any of those people to give evidence for it.
+**It carries the defence of conduct it has no control over.**
+
+### 75.2 For Metro South Health
+MSH is the entity whose conduct is the **entire subject matter**, and it is **not a party**. It
+cannot file, cannot submit, cannot lead evidence, cannot cross-examine. It attended **under
+compulsion**, having missed the previous listing, and sat in silence while:
+
+- the Commissioner told the Appellant how to prove a case about **MSH's managers**;
+- the Commissioner said **MSH** would have to call evidence to justify its own objection;
+- the Commissioner described its objection as *"a very comprehensive objection"* in a sentence
+  about having *"a bit of work to do down there at the bar table"*; and
+- ⭐⭐ its Chief Executive's letter — written to **resist** disclosure — began its journey to
+  becoming **Annexure A Tab 20**.
+
+⇒ ⭐⭐⭐ **The entity whose conduct is in issue has no voice, no standing, and no way to answer —
+while its own letter is converted into evidence against it.**
+
+### 75.3 For the Appellant — the human layer
+He attended as **a current employee of MSH**: excluded from the workplace since 3 July, unpaid since
+13 July, with a live capacity process running against him — sitting in a Commission hearing while
+his employer's lawyer watched him being coached by the Commissioner, and while being asked whether
+a machine had written his material.
+
+## 76. ⭐⭐⭐ WHY HE WAS ASKING — THE AFFIDAVIT ANSWERS IT IN ITS OWN WORDS
+
+Four times, unprompted, the affidavit says why each item was sought:
+
+> ¶19 — the records of escalated complaints *"are held in my Line Manager's mailbox (Items 3(a) and
+> 3(b))"*
+> ¶22 — *"The records that would establish the full extent of that increase… are held by MSH (Items
+> 3(a), 3(b) and 3(c)), **and I cannot produce them**"*
+> ¶26 — *"The objective record of her working presence is held in MSH's security-access system
+> (Item 9)"*
+> ¶29 — *"that record **is held only by MSH and I cannot produce it** — my own statistics record
+> volume only"*
+
+⇒ **He was asking because he could not produce his own case.** And there are three reasons for
+that, each on the record:
+
+1. **The records are the employer's** — SPOK, the mailboxes, the access systems, the myHR audit
+   trails. He never had them.
+2. ⭐ **His own access was removed** — *"my health service email was restricted"* [36:42], and the
+   Regulator's own pleading at ¶16(b)(vii) says his email *"was ultimately removed from the
+   server."*
+3. ⭐⭐ **The Regulator's pleading demanded exactly what he could not produce** — ¶11: *"the
+   respondent does not admit the allegations in stressor 1(a)… **because there are no particulars or
+   details to respond to**."*
+
+⇒ ⭐⭐⭐ **He was asked for particulars he could not produce, because access to his own records had
+been removed. The Form 29 was the answer to paragraph 11.** That is the whole motive, and it was
+given once at the mention, in a clause, and cut off.
+
+## 77. ⭐⭐ THE FULL DISCLOSURE PICTURE — WHAT PRODUCTION WOULD HAVE SHOWN
+
+| Item | What it would have produced | Weight |
+|---|---|---|
+| **1–2 SPOK paging export + activation counts** | Every emergency page, whether it reached the right clinician, acknowledgement and failure records | ⭐⭐⭐ **The heaviest item in the Notice.** ⚠ And MSH's answer is itself significant: *"The system was upgraded in SPOK, and **records predating that upgrade were not retained**"* — **a hospital's emergency-paging audit trail was not carried through a system upgrade.** A MET spreadsheet for 17–18 March survives and was not produced |
+| **3(a)/3(b) complaints + management discussion** | The corpus of complaints about misrouted calls, out-of-date numbers and manager unavailability, and what management did with them | ⭐⭐⭐ **Problems reported, and what followed** |
+| **3(c) consequential changes** | — | ⭐⭐ MSH's answer *"there have been **no 'consequential' changes**"* means: **reported, and nothing changed** |
+| **4, 5, 7 FRMS training, assessment, register** | — | ⭐⭐⭐ *"do not exist"* · *"only applies to health practitioners and clinical assistants"* · *"implementation… occurred after 30 June 2024"*. **Producing nothing was heavier than producing something** |
+| **8 login records** · **10 manager email filters** | When the manager was actually working; the volume and pattern of *"effective immediately"* directives | ⭐⭐ Item 10 is the one Dwyer identified as live |
+| **9 building access** | — | ⛔ Dead — no swipe access for that office |
+| **11–13 myHR audit + delegation instrument** | ✅ Produced — now Tabs 15, 28, 29 | ⭐ The Band 9 sub-delegation limit came from here |
+| **14 text messages** | — | ⚠ *"the line manager **was not issued with a Queensland Health mobile device**"* — **leave decisions on an unretained channel** |
+| **15–16 leave ledger, AVAC** | ✅ Produced — Tab 16 and the Daily Staffing variance forms | |
+| **17 comparator payroll** · **12 comparator audit** | Partly produced; privacy objection on the rest | ⚠ **A genuine and reasonable objection** |
+| **18 comms book + 15 Nov 2023 business case minutes** | ⚠ The **business case minutes were never separately addressed** — MSH answered only the comms book | ⚠ **Unresolved** |
+| **19 union correspondence** | ⭐ MSH **proposed its own narrowing** and nobody took it up | |
+| **20 HR reaction to the PID** | — | *"does not exist"* — the reference commenced November 2024 |
+
+### 77.1 ⭐⭐⭐ THE AGGREGATE — AND WHY IT WOULD HAVE BEEN HEAVY
+
+Full compliance would have assembled, in one place:
+
+> **An emergency-communications function** — operating at 200–300 calls a shift — **without a
+> fatigue risk assessment, without fatigue training, without a complaint pathway independent of the
+> person complained about, with directory-maintenance access removed from the operators, with
+> leave decisions transacted on an unretained personal device, with the paging audit trail not
+> retained through a system upgrade, and with no consequential change made to any operating
+> procedure across the whole period.**
+
+⇒ ⚠⚠ **That is not a workers' compensation record. It is a clinical-governance and WHS picture**,
+and it would have sat on a Commission file, assembled by the employer's own production.
+
+⭐⭐ **And the weight falls on MSH, not the Regulator.** The Regulator's exposure is a compensation
+payment. **MSH's exposure is institutional** — and MSH is the party with no standing to answer.
+
+### 77.2 ⚠ A pattern worth recording, stated as pattern only
+The *"expense and inconvenience"* objections fall on **3(a), 3(b), 8, 10 and 19** — the five items
+that would have produced the systemic picture. The *"do not exist"* answers fall on **1, 2, 3(c),
+4, 5, 7, 14 and 20** — the items that establish the **absence** of protective systems.
+
+⛔ **No motive is alleged and none is needed.** The observation is only that **every route to the
+systemic picture was closed by one of those two answers**, and that the second class of answer is
+itself the strongest material in the appeal.
+
+## 78. THE FINDING
+
+**The Form 29 was not a fishing expedition. It was a request by a man who could not produce his own
+case, for records his employer held and he did not, in answer to a pleading that said he had given
+no particulars.** It was too broad, and it would have failed on breadth. **But its target was
+real, its purpose is stated on oath at paragraphs 19, 22, 26 and 29 of an affidavit nobody has
+contradicted, and what it drew out instead of documents — four admissions at Chief Executive
+level — is heavier than most of what it asked for.**
