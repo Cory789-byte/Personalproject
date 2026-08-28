@@ -1010,3 +1010,231 @@ own formulation, makes the earlier breaches worth examining.
 > medical teams in a department whose function is the dispatch of medical emergencies.*
 
 **That is the case, it is three sentences, and it is the register Dwyer asked for.**
+
+---
+
+# PART SIX — WHAT DWYER PLANNED, AND WHY: A FORENSIC RECONSTRUCTION
+
+> The hour was designed before he walked in. This Part reconstructs the design from the transcript,
+> identifies the problem it was built to solve, maps its execution phase by phase, and calibrates
+> what weight his provisional views can bear.
+
+## 30. THE EVIDENCE THAT IT WAS PLANNED, NOT IMPROVISED
+
+Seven markers, all in the first twelve minutes:
+
+1. **He announced the departure before making it** — *"we're going to do something a little bit
+   different today"* (recount, [00:00] region).
+2. **The recording opens mid-prepared-speech** on efficiency, interlocutory disputes and the
+   *"overriding consideration"* — remarks composed in advance, not responsive to anything said.
+3. **He named the target before touching it:** *"there are a number of aspects to the application
+   that you brought that I think are potentially going to impact on the efficiency of the conduct
+   of your proceedings"* [01:30].
+4. **He stated the objective:** *"One of the things I hope to achieve in our discussions today is a
+   different approach"* [01:44].
+5. **He sequenced it out loud:** *"I just want to take it back to first principles… **I'm going to
+   park the non-party disclosure application for the moment. I'm going to take you back to your
+   statement of facts and contentions. In fact, I'll take you back one step further than that.**"*
+   [02:22]
+6. **He forecast the method and its duration:** *"It's going to take us a little bit of time this
+   morning, but I'm hoping that this time in me stepping you through these things will put in
+   perspective what types of things will be relevant"* [05:03].
+7. **He sought consent on the record:** *"anybody got any objections to me going through this
+   process? It's going to take a little while, but hopefully it will save us some time and effort
+   down the track"* [12:05].
+
+⇒ He had read the Form 20, the Form 29 and K-LM26/729 before the listing, had formed a view, and
+had built a procedure to get there.
+
+## 31. THE PROBLEM HE WAS SOLVING — IN HIS OWN WORDS
+
+**A procedurally correct path led somewhere useless.**
+
+- He could not decide the objection on the papers: *"**I can't do that intervention this morning.
+  And I can't do that based on the papers. I'm going to need to hear evidence about what's
+  involved.**"* [31:24]
+- Which meant a contested hearing at which **MSH would have to call evidence** [30:16], with
+  lawyers he would allow [31:36], *"probably going to go longer than a day"* [31:44], and
+  *"probably be bigger than the hearing at the end of the day"* [31:58].
+- And at the end of it the appellant would be no closer to the actual question: *"**you won't be
+  getting to hearing until 2028** by the time you've worked through all of that"* [07:49].
+- Nor could he simply refuse it. Refusing a self-represented party's application without hearing
+  it is error. He said what he would have to decide: *"whether you're entitled to do that, or
+  whether it's unreasonable for you to require the health service… to do that"* [31:13].
+
+⇒ **The only clean exit was a voluntary withdrawal.** And you cannot direct a party to withdraw.
+You have to make them want to.
+
+## 32. THE DESIGN: TEACH THE CASE UNTIL THE APPLICATION BECOMES UNNECESSARY
+
+The plan, reduced to one line: **establish the framework, then walk every pleaded stressor through
+it, so that the appellant reaches the conclusion himself.**
+
+He said so: *"in me stepping you through these things will put in perspective what types of things
+will be relevant to you… and in explaining that to you, explaining also **what types of things are
+not relevant** to the proving of your case"* [05:06], and *"**that has nothing to do with a number
+of the documents that you are seeking from the health service**"* [06:26].
+
+⭐ **Note what that requires.** To make the argument he first had to install the framework:
+s 32 [02:55] → the SOFC is *"the framework of your case"* [03:28] → *"this is the document that
+will inform and determine really what's relevant"* [10:51] → therefore a document matters only if
+it proves a pleaded stressor. **Once that is accepted, the conclusion is mechanical.** Every
+subsequent question is a step in a proof the appellant is being walked through.
+
+## 33. THE FIVE PHASES
+
+| Phase | Time | What it was doing |
+|---|---|---|
+| **1. Framework** | 00:00–06:40 | Efficiency; interlocutory disputes; s 32; the SOFC as framework; ⭐ diagnosis not in dispute, causation is the crux; announcing the method; *"any questions or difficulties understanding all of that?"* |
+| **2. Softening and consent** | 06:40–12:18 | *"I'm not being critical"*; the 78-boxes tactic; getting documents ≠ getting them into evidence; the AI remark; *"I'm inclined to take a broad approach… relevance"*; asking permission |
+| **3. The walk-through** | 12:18–56:05 | Every stressor, same four questions (§34). 44 minutes — two-thirds of the hour |
+| **4. Diagnosis and lesson** | 56:05–61:30 | *"Has our discussion focused your understanding?"*; *"floundering around a bit"*; the systemic-grievance diagnosis; *"a much shorter list"* |
+| **5. Disposition** | 61:30–64:35 | Park the Form 29; four weeks; talk to Matheson; return on a single identified document |
+
+## 34. ⭐⭐ THE ENGINE — THE SAME FOUR QUESTIONS, TWENTY TIMES
+
+For every stressor he ran an identical loop:
+
+> **(a)** *This is what you claim.* (He reads the pleading aloud.)
+> **(b)** *How would you prove it?*
+> **(c)** *Is there a document?*
+> **(d)** *Do you have it?*
+
+Every answer fell into one of three buckets, and **each bucket removes the stressor from the
+disclosure application**:
+
+| Bucket | What he says | Stressors it took |
+|---|---|---|
+| **"You've got that."** | *"Done. You've got your documents for that stressor."* [37:25] · *"Okay, tick."* [38:45] · *"Okay, awesome."* [55:06] | 1(b), 1(c), 1(d), 1(e), 1(f), 2, 3(a), 3(b), 3(c), 3(d) |
+| **"That's testimony."** | *"Her erratic physical presence is something that you can give testimony about"* [14:18] · *"you don't need any documents for that"* [43:00] | erratic presence; the raised voice; the comparison; the delegate |
+| **"Ask the Regulator first."** | *"the starting point is to ask the regulator. Have you done that?"* [18:55] | 1(a) directives |
+
+⇒ **After forty-four minutes the residue was one item** — Ms Taylor's directive emails [62:38].
+That is not luck. **That is the design completing.**
+
+## 35. THE FAIRNESS ARCHITECTURE — WHY IT IS SAFE FROM APPEAL
+
+He built in four protections, and they are why this was legitimate case management rather than
+pressure:
+
+1. **Consent on the record** — *"anybody got any objections to me going through this process?"* [12:05]
+2. **Repeated non-criticism** — *"I want to stress I'm not being critical of you, Mr Shepherd"*
+   [06:47]; *"I'm not saying you are entirely wrong"* [07:19]; *"I understand you're acting for
+   yourself… and I'm in no way being critical in this respect"* [56:29]
+3. **The door left open, twice** — *"I'm not close to that idea if you really wish to press it.
+   I'm not close to that at all"* [61:23]; the matter merely *stood down* pending word from him [63:43]
+4. ⭐ **He checked he had not burdened the other side** — *"have I misrepresented your role in the
+   matter or **placed a burden on you that you're not prepared to accept**?"* to Ms Matheson
+   [61:26], and then the same to Ms Ruttan.
+
+⇒ He never decided anything. **He persuaded, and he documented that he was persuading.** Nothing
+adverse was ordered, so there is nothing to appeal — which was the point.
+
+## 36. THE AI REMARKS — THREE FUNCTIONS, ONLY ONE OF THEM ABOUT AI
+
+They are not a digression. They do work in the design.
+
+1. **Genuine.** He does struggle with dense material and said so plainly.
+2. **Instrumental — they justify the narrowing.** *"a simple message is always the best… I've got
+   to have a big case because then it looks more important. **You don't have to**"* [10:18] is the
+   same argument as the disclosure argument, in miniature. Less material, better outcome.
+3. ⚠ **Protective of himself.** *"That's how I fall into error"* [21:51] is a judge putting on the
+   record that excessive volume creates risk of error — **before** any decision is made. It
+   pre-empts a complaint about a decision made on material he did not fully absorb.
+
+⭐ **And note the timing of the second remark.** It comes at [21:38], in the middle of the four
+exchanges in which the Appellant could not immediately point him to an item number in his own
+summary. That is the moment of maximum demonstration — the point lands hardest exactly where the
+material has just failed to be navigable.
+
+## 37. WHAT THE METHOD COST HIM — AND IT COST HIM A LOT
+
+To run the demonstration he had to state his provisional views out loud. **A judge who simply
+decided the application would have revealed none of it.** The method obliged him to give away:
+
+- that the **diagnosis is not in dispute** and **causation is the crux** [04:08]
+- the test, correctly stated — *"a significant contributing factor"* [03:08]
+- that he takes a **broad approach to relevance** [10:59]
+- that he **expects the Regulator to call Ms Taylor** [35:11]
+- that uncontradicted evidence is **likely to be accepted** [15:40], [28:56]
+- that he **does not believe stressor 1(g)** [45:01], [48:56]
+- his instinct on 1(a) — *"like a manager"* — **and the exception that answers it** [27:24]
+- what he does with **policy breach alone** [57:52]
+- that he will decide **single-document disputes quickly** [60:26]
+
+⇒ **The intelligence gained is worth more than the application lost.** That is the trade the hour
+actually made, whether or not either man intended it.
+
+## 38. ⚠ WHAT HE DID NOT PLAN FOR
+
+**(a) That the Appellant knew the file.** The hand-up of the two-page summary [20:56] was not
+anticipated, and by [53:30] he had revised his working assumption far enough to hand over pace
+control — *"you tell me it'll save us some time… don't worry about interrupting me on that score."*
+That is an adjustment mid-plan, not a feature of it.
+
+**(b) ⛔ That "Not that I can recall, no" would be wrong.** He took the answer at face value and
+built the disposition on it. **This is where the preparation failure is precisely quantified:**
+
+> Had the answer at [18:29] been *"yes — they are in your own July 2025 disclosure: the 15 April
+> on-call directive 'effective from today', the 19 April data-entry process, the 9 May MASPER
+> direction"*, the entire *"ask the Regulator first"* step disappears. The one live point would
+> have been live **in the room**, with the documents in the annexure, and the Form 29 would have
+> been narrowed to that point rather than parked whole.
+
+The hour would have ended in the same place — a much shorter list — but reached by the Appellant
+demonstrating command rather than by the Commissioner demonstrating its absence.
+
+## 39. ⭐⭐ THE CALIBRATION THAT MATTERS: PERSUASION IS NOT ADJUDICATION
+
+**Every adverse view he expressed was expressed in service of getting the Form 29 withdrawn.**
+He said so repeatedly, and he was explicit that he was not deciding:
+
+- *"Anyway, let's not get into the case"* [27:38]
+- *"**I'm not going to get into the facts now because I'm not hearing the matter**"* [47:34]
+- *"I'm not making a ruling on that now for the purposes of the final hearing"* [48:44]
+- *"I'm not close to that idea… I'm not close to that at all"* [61:23]
+
+⇒ **"Like a manager" was said to show that the directives would not need documents — not as a
+considered ruling on s 32(5).** It was a demonstration device inside a persuasion exercise,
+delivered without evidence, without submissions, and without the patient-safety material ever being
+put. The same is true of the 1(g) scepticism, which rested on a generalisation from his own career
+(*"it's unusual in my experience"*) rather than on anything in the file.
+
+**They are indicators of instinct, not findings.** They tell you where the resistance will be. They
+do not tell you the outcome, and **treating them as findings would be the error the whole exercise
+was designed to avoid.**
+
+⚠ What *is* durable is the framework, because the framework was the part he was teaching, not
+arguing: s 32; the SOFC as the boundary of relevance; contradiction; and — the one to build
+everything on — **breach becomes material when something arises from it.**
+
+## 40. DID THE PLAN WORK
+
+**For Dwyer: entirely.** Form 29 withdrawn without a decision; no satellite hearing; no cost order;
+no appealable ruling; the appellant now dealing directly with the Regulator; and the matter
+programmed to hearing by Further Directions Order (3) twelve days later.
+
+**For the Appellant: better than the alternative, though not on the day.** The Form 29, if pressed,
+would probably have failed — he would have had to establish that requiring a non-party to produce
+that volume was reasonable, against an objection, at a hearing longer than a day, with costs
+exposure and MSH represented. **He lost an application that was likely to fail, and was handed a
+framework, a route back, and nine pieces of intelligence about how the case will be decided.**
+
+⭐ **And the route he took afterwards is better than the one he lost.** Rule 49 makes the
+Regulator's silence do the work Dwyer said uncontradicted evidence does — *"if you say something
+and it's not contradicted… it will be accepted"* — but with a 14-day clock instead of a hope.
+
+## 41. WHAT THIS MEANS FOR HOW THE REST OF THE MATTER IS RUN
+
+1. **He teaches before he decides.** Expect the same at any further listing: he will state the
+   framework and invite alignment with it. **Align, then argue inside it** — the framework is
+   favourable.
+2. **He responds to concession.** Every time the Appellant conceded a limit, the temperature fell
+   and he moved on. Every time the Appellant reached, he pulled away.
+3. **He will take a short answer at face value.** *"I have everything for this"* ended a stressor in
+   five seconds. Short answers are not just stylistically preferred; **they are operationally
+   decisive with him.**
+4. **He has pre-committed to a cheap remedy** — one identified document, quickly decided. Use it
+   rather than anything larger.
+5. **The register rule is his own, stated twice, and it is about volume, not authorship.** Anything
+   he personally reads: short.
