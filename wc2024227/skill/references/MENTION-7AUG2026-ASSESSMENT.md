@@ -2064,3 +2064,129 @@ by twice denying he held documents that are in the disclosure** — and that **h
 **Three of the four observers ended thinking better of him than they began.** The Commissioner
 ended thinking better of *him* and no better of *his case* — and the limb most likely to win it is
 the one he never looked at.
+
+---
+
+# PART THIRTEEN — TWO INSTINCTS TESTED AT SOURCE
+
+## A. "HE IS PAVING THE WAY TO HEARING AND DOES NOT THINK THE CASE IS FRIVOLOUS"
+
+### A.1 The evidence for it, and it is substantial
+
+| Where | What he said |
+|---|---|
+| [02:00] | *"this matter can get to hearing… you would like to have the question of whether you have sustained a workplace injury resolved sooner rather than later. **I want that for you too**"* |
+| [04:08] | *"if you have a diagnosis of a psychiatric condition **as you do in this particular case**"* |
+| [07:09] | *"I think I understand what you think you are trying to achieve, and **I'm not saying you are entirely wrong**"* |
+| [10:59] | *"**I'm inclined to take a broad approach** in terms of things of relevance"* |
+| [15:40], [28:56] | the contradiction principle, twice — *"that's a problem for them, not for you"* |
+| [35:11] | *"the regulator will call Ms Taylor… and **you'll get to cross-examine** Ms Taylor"* |
+| [37:25], [38:45], [55:06] | *"Done. You've got your documents for that stressor."* · *"Okay, tick."* · *"Okay, awesome."* |
+| [61:23] | *"**I'm not close to that idea** if you really wish to press it. I'm not close to that at all."* |
+| ⭐⭐⭐ [63:33] | *"And then you can get on with **the important business of getting this thing to a hearing**."* |
+
+And twelve days later he issued **Further Directions Order (3)** — witness lists, outlines, expert
+reports, and a direction to contact the Registry to proceed to a second s 552A conference **or to
+hearing**. ⇒ **He programmed it.**
+
+### A.2 ⚠ The distinction that has to be drawn
+
+**Wanting a matter to reach a hearing efficiently is not the same as thinking it will succeed.** A
+Commissioner programs weak cases and strong ones alike; procedural courtesy to a self-represented
+party is a professional norm, not a merits signal. **On its own, "he wants it to progress" proves
+nothing.**
+
+### A.3 ⭐⭐ But four things go beyond what case management requires
+
+1. ⭐⭐⭐ **He treated the diagnosis as established, unprompted** — *"as you do in this particular
+   case"* [04:08]. He did not have to say that. It is a substantive assessment of the medical limb,
+   volunteered in the first five minutes, and it removes the element on which most psychological
+   injury appeals fail.
+2. ⭐⭐⭐ **He taught the appellant how to win.** The contradiction principle explained twice,
+   unprompted, culminating in *"that's a problem for them, not for you."* **A Commissioner who
+   regarded the case as hopeless does not explain to the appellant the evidentiary mechanism by
+   which he might succeed against the respondent.**
+3. **He validated limb after limb** — *"Done"*, *"tick"*, *"awesome"* — as sufficiently evidenced.
+   That is a running assessment that the case is *provable*, limb by limb.
+4. *"**I'm not saying you are entirely wrong**"* [07:09] — a deliberate, qualified reservation
+   about the *substance*, offered in the middle of a criticism about *method*.
+
+### A.4 ⇒ THE ASSESSMENT
+
+**The instinct is well founded, but the accurate formulation is narrower and stronger than
+"he thinks my case is fine":**
+
+> **He assessed the matter as having a real question to be tried; treated the diagnosis as not in
+> issue; identified causation as the battleground; explained the evidentiary mechanism by which the
+> appellant might succeed; validated the documentary sufficiency of most limbs; and then programmed
+> the matter to hearing — while forming adverse provisional views on two limbs, and no view at all
+> on the strongest.**
+
+⛔ **What it is not:** a prediction of outcome, a view on s 32(5), or any assessment of Stressor 3,
+which he never examined. **Nothing he said forecloses a loss.** But *"the important business of
+getting this thing to a hearing"* is not language a member uses about a matter he expects to
+collapse — and **no one spends sixty-five minutes teaching a hopeless case how to prove itself.**
+
+---
+
+## B. "HE SAID HE HADN'T READ THE REGULATOR'S AMENDED PLEADING — BUT REVEALED HE HAD"
+
+### B.1 What he actually said, verbatim
+> [28:08] *"**I haven't checked the regulators' statement of facts and contentions in any great
+> detail.**"*
+
+⚠ **Note the qualifier.** *"In any great detail"* is a claim about **degree**, not about ignorance.
+It is not *"I have not read it."*
+
+### B.2 ⭐⭐⭐ And what he said next, seconds later
+
+> [28:24] *"the argument **might not be about whether you received emails** from Miss Taylor. The
+> argument **might be about whether or not they're correctly categorised by you as unassessed
+> directives made without consultation.** You've placed subjectively a characterisation on these
+> emails, which may be contradicted. **But the existence of the emails may not be in dispute, as far
+> as I can tell.**"*
+
+**Now compare the pleading he says he has not checked in any great detail — SOFC ¶11:**
+> *"The respondent does not admit that Ms Taylor maintained an erratic physical presence **or
+> imposed unassessed unilateral directives without consultation.**"*
+
+⇒ ⭐⭐⭐ **He predicted the pleading's exact structure — a denial aimed at the characterisation, not
+at the existence of the emails — and he used the pleading's own two words, "unassessed" and
+"without consultation," in that order.**
+
+⚠ *"As far as I can tell"* is an assessment of **the state of the pleadings**. That phrase is not
+available to someone who has not looked.
+
+### B.3 The allocation of his attention says the same thing
+
+| Limb | The Regulator's pleading | Time he spent |
+|---|---|---|
+| **1(e) PID** | ¶15 — *"the respondent **admits the allegation**"* | ⭐ **~20 seconds, no probing at all** |
+| **1(g) delegate** | ¶17(c)–(e) — three **positive** grounds: *"did not request assistance"*, *"Ms Taylor did provide advice and support"*, *"was provided with delegate information"* | ⭐⭐ **~7 minutes, probed hard** — *"how do you say that they actively suppressed…? Like what do they do?"* · *"Do you know that they did anything with it?"* |
+
+⇒ **He skipped the limb the Regulator admits and interrogated the limb where the Regulator has a
+positive case to run.** That allocation is very difficult to explain except by knowledge of the
+pleading.
+
+### B.4 ⚠ The honest counter-indication
+
+At [35:38] he asked *"So she's agreed it was taken out?"* and at [36:14] said *"she **might** admit
+she tore it out."* But **SOFC ¶12(a) does admit it** — *"admits that the Ms Taylor [sic] did remove
+pages from the Communication Book."* ⇒ **On ¶12 he plainly did not have the detail.**
+
+### B.5 ⇒ THE ASSESSMENT
+
+**The instinct is right, and the precise finding is this:**
+
+> **He had read the Regulator's amended statement of facts and contentions — but not closely, which
+> is exactly what he said.** *"In any great detail"* was accurate. He carried an accurate general
+> map of it (¶11's structure, ¶15's admission, ¶17's positive grounds) and had not retained the
+> particulars (¶12(a)).
+
+⭐⭐ **The consequence that matters:** his *"like a manager"* remark was made **while holding the
+Regulator's denial in mind** — he knew the contest would be about *characterisation*, and he was
+telling the Appellant, in advance, that the characterisation is where he would lose it.
+
+⇒ **That was not an idle observation. It was a preview of the real battleground, from someone who
+had looked at both pleadings** — which makes the answer to it (consequence, not absence of
+consultation) more important, not less.
