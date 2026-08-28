@@ -1652,3 +1652,175 @@ date the scenario resolves**, and it is already diarised. Until then:
    Ms Petering.
 6. ⚠ If reluctance to expose the managers drives a settlement approach, discipline 9 governs:
    **the deed releases the compensation claim only** — watch the scope.
+
+---
+
+# PART TEN — WHERE HE WAS STOPPED, WHAT WAS NEVER TOUCHED, AND WHAT THAT MEANS
+
+## 61. ⭐⭐⭐ FOUR STOPS, AND THEY ARE ALL ON THE SAME SUBJECT
+
+Dwyer interrupted or deflected the Appellant on substance four times in sixty-five minutes.
+**Every one of them was on the consequence of the directives — patient safety.**
+
+**Stop 1 — [08:50]. The relevance point, deflected.**
+> **Appellant:** *"it wasn't so much… what's inside those complaints. It's that they happened to
+> me… I wouldn't even need to read them."*
+> **Dwyer:** *"**You can explain that to me a bit more clearly** because… having read the material
+> that you've filed, it's pretty heavy-going stuff. **Is it AI-assisted, can I ask?**"*
+
+⇒ He asked for a fuller explanation and then did not take it. **A correct and quite subtle
+distinction — the fact of the complaints proves the consequence; the content is irrelevant — was
+answered with a question about authorship. It was never returned to.**
+
+**Stop 2 — [14:09]. Stopped one clause short of a document.**
+> **Appellant:** *"...I think I attached one attachment and it showed that **she didn't reply to a
+> complaint** about it—"*
+> **Dwyer:** *"**Hang on a sec.** Her erratic physical presence is something that you can give
+> testimony about. **I don't want you to do that now, which is what you're launching into.**"*
+
+⇒ He was mid-sentence identifying a specific annexed document showing a complaint going unanswered.
+**Stopped before he got there.**
+
+**Stop 3 — [27:36]. Patient safety raised and closed in seven seconds.**
+> **Appellant:** *"I think when it's in a patient safety environment that they—"*
+> **Dwyer:** *"If you think it's in a patient safety environment, you can raise that."* … *"**Anyway,
+> let's not get into the case.**"*
+
+**Stop 4 — [29:40]. The strongest content in the hour, explicitly moved off.**
+> **Appellant:** *"this number is an emergency contact. And then those doctors, the ones that get
+> called for an emergency, **they're sent to the wrong side of the room. They're not sent to someone
+> having a cardiac arrest. They're not sent to someone in respiratory distress.**"*
+> **Dwyer:** *"**I'm just going to move on for a moment, okay?** Because after my speech about
+> efficiency of conduct of proceedings, I'm concerned that the direction this is going in."*
+
+⇒ **Two minutes apart, the same point was closed twice.**
+
+*(Two further stops were procedural, not substantive: [40:24] "answer my question first… yes or
+no?", which suppressed the mailbox restriction; and [49:40] "Yes or no" on the second union.)*
+
+## 62. WHAT THE PATTERN MEANS — THE FAIR READING, AND THE CONSEQUENCE
+
+**The fair reading of intent:** this was a disclosure exercise. Patient-safety consequence is
+merits material. Dwyer said four times he was not hearing the matter. Stopping it was consistent
+with his stated purpose and it is not suppression.
+
+⭐⭐ **But the consequence stands regardless of intent, and it is significant:**
+
+> **He formed and expressed his view on Stressor 1(a) — *"Like a manager. Managers make decisions
+> without consulting staff all the time. It's totally legitimate"* — and then stopped the answer to
+> it. Twice. Within two minutes.**
+
+⇒ **The "like a manager" remark was made on a picture he had himself made incomplete.** That is not
+misconduct; it is the ordinary consequence of a case-management format. But it means the remark
+carries **even less weight than §39 allowed**. He has not heard the answer to his own objection.
+
+⭐ **And the material is intact.** Nothing was rejected, nothing was ruled inadmissible, nothing was
+disbelieved. **It was deferred.** It remains available, undamaged, for a hearing where merits are
+the business of the day — and Dwyer expressly left the door open: *"you can raise that."*
+
+## 63. ⭐⭐⭐ THE ALLOCATION — WHERE THE HOUR ACTUALLY WENT
+
+| Limb | Time | His posture |
+|---|---|---|
+| **1(a)** database, directives, presence | **≈18 min** [12:18–30:00] | Sceptical — *"like a manager"* |
+| **1(g)** union delegate | **≈7 min** [43:05–50:06] | Openly disbelieving — twice |
+| 1(f) reprisal / comparison | ≈4 min | Neutral; converted to cross-examination |
+| 1(b), 1(c), 1(d), 1(e) | ≈5 min total | *"Done." "Okay, tick."* |
+| **Stressor 2** pay | ≈4 min | Mildly sceptical |
+| ⭐ **STRESSOR 3 — ALL FOUR SUB-LIMBS** | ⛔ **99 seconds** [54:15–55:54] | **Untouched** |
+
+**The hour was spent almost entirely on the two limbs he doubts, and 99 seconds on the limb that
+wins the case.**
+
+## 64. ⛔⛔ WHAT HE NEVER TOUCHED — AND THE MOST STRIKING OMISSION
+
+**Stressor 3 in full**, verbatim from the tape:
+> *"…rostered the appellant to work consecutive shifts separated by a mere seven hour break.
+> Factoring in the appellant's established commute… 16 hours of wakefulness work and four hours of
+> high risk commuting, leaving approximately four hours of actual sleep."*
+> *"Okay, so this is going to need roster for the relevant period."* — *"I have everything for
+> this."* — *"Okay, so we don't need to go into this one?"* — *"No."*
+
+Then, in forty seconds: 3(b) *"we don't need to go over that"*; 3(c) *"is that all part of the same
+thing?"* — *"Yes"*; and then:
+
+> ⭐⭐⭐ *"**Admitted unreasonableness, the regulator's own independent review office, IRO, got all
+> that?**"* — **and he moved on.**
+
+⇒ **Seven seconds on the fact that the Regulator's own review officer found the rostering of these
+two shifts amounted to unreasonable management action, in direct contradiction to the award and the
+8-hour agreement.** The Commissioner read that sentence aloud and passed over it.
+
+**Also never touched:**
+- **Causation** — named as *"the real crux of your case"* at [04:08] and never returned to
+- **The medical evidence** — not discussed at all
+- **s 32(5)** — stated in the test at [03:14], never analysed except the *"like a manager"* aside
+- **The 2020 8-hour agreement**, and Ms Forrest's *"only applied where staff initiated shift swaps
+  have occurred"*
+- **The commute and sleep arithmetic** — read aloud, never examined
+- **The post-injury sequence** — read aloud, *"any documents… ?"*, *"No, I have one"*, moved on
+
+## 65. WHY: THE DISCLOSURE LENS EXPLAINS ALL OF IT
+
+Every skip has the same cause. **The exercise asked one question — "do you need documents?" —** and
+Stressor 3 answered *no*. A limb that generates no disclosure dispute generates no discussion. The
+strongest limb was skipped **because it is the best-documented**.
+
+⇒ ⚠ **The strategic consequence must be stated plainly: the decision-maker has spent the least time
+on the part of the case most likely to decide it, and the most time on the two parts he doubts.**
+Nothing at the hearing should reproduce that allocation.
+
+## 66. ASSESSING HIM ON WHAT HE ACTUALLY SAID
+
+Stripped of Dwyer's framing, the Appellant's substantive contributions across the hour:
+
+| # | What he said | What happened to it |
+|---|---|---|
+| 1 | The complaints matter as facts, not for their content | ⛔ **Deflected to AI** |
+| 2 | *"it happened over a whole year, so it's not just one shift"* | ⛔ **Ignored — topic changed** |
+| 3 | Access logs + login data corroborate presence; an annexed document shows a complaint unanswered | ⛔ **Stopped mid-sentence** |
+| 4 | *"Exactly"* — adopting Dwyer's own formulation of erratic presence | ✅ Accepted |
+| 5 | The directives were emails | ✅ Accepted |
+| 6 | *"I asked the person that controlled the documents"* | ⚠ Half-heard; he moved off it |
+| 7 | Handed up a two-page summary 30 seconds after the volume complaint | ✅ **Received** |
+| 8 | Taught him the table — heading, status, A–E, filters | ✅ **Landed and retained to [62:28]** |
+| 9 | *"I basically just want the count"* | ⚠ Not taken up |
+| 10 | Patient safety | ⛔ **Closed twice** |
+| 11 | Cardiac arrest; respiratory distress; wrong side of the room | ⛔ **Explicitly moved off** |
+| 12 | *"they got documents for it"* — correcting him | ✅ Accepted |
+| 13 | *"my health service email was restricted"* | ⛔ **Said once, cut off the second time** |
+| 14 | Four concessions against interest | ✅ Received well |
+| 15 | Corrected the 42% direction | ✅ Accepted |
+| 16 | *"I have everything for this"* | ✅ **Closed a whole stressor in 5 seconds** |
+| 17 | Volunteered the disclosure narrowing | ✅ *"we probably should have led with that"* |
+
+⭐⭐ **Of his six strongest contributions (1, 2, 3, 10, 11, 13), five were stopped, deflected or
+ignored.** Everything that was received, he handled well.
+
+## 67. THE HONEST VERDICT ON HIS PERFORMANCE
+
+**He said more, and better, than the hour reflects.** The two genuine failures stand — the document
+recall at Q10 and Q32 — and they were decisive. But the picture is not of a man who under-performed.
+It is of a man whose **best material was merits material in a procedural hearing**, delivered to a
+Commissioner who had announced he was not hearing the merits.
+
+⚠ **That is itself a real error of hearing-craft, and it should be named:** he kept arguing the case
+in a listing that was not about the case. Knowing what a listing is *for* is a skill, and it cost
+him — the emergency-dispatch answer at [29:18] was the strongest thing said all day and it landed
+as *"the direction this is going in."*
+
+⭐ **But the material is unused, not lost.** It was deferred, not rejected, and Dwyer said in terms
+that it can be raised. **The hearing is the forum where 1(a)'s answer, Stressor 3, causation and the
+Review Decision's own finding all belong — and none of them has yet been heard by the person who
+will decide them.**
+
+## 68. WHAT FOLLOWS FOR THE HEARING
+
+1. ⭐ **Lead with Stressor 3.** It has an admitted breach, the Regulator's own adverse finding, and
+   99 seconds of judicial attention. **Reverse the allocation.**
+2. ⭐ **Put the patient-safety consequence first within 1(a)**, not last. It is the answer to *"like
+   a manager"* and he has never heard it. *"You can raise that"* is an invitation on the record.
+3. ⭐ **Open the Review Decision finding, don't bury it.** Seven seconds is not engagement. The
+   Regulator's own officer found unreasonable management action.
+4. **The restricted mailbox goes in early**, as its own topic (now item 19 of the outline).
+5. **Do not re-run the disclosure argument.** It is finished, and it was never the case.
