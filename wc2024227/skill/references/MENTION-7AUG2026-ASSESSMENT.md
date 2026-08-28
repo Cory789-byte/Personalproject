@@ -1824,3 +1824,82 @@ will decide them.**
    Regulator's own officer found unreasonable management action.
 4. **The restricted mailbox goes in early**, as its own topic (now item 19 of the outline).
 5. **Do not re-run the disclosure argument.** It is finished, and it was never the case.
+
+---
+
+# PART ELEVEN — STEP BY STEP: WHAT WAS ACTUALLY UNDERSTOOD
+
+> The distillation. At each step: what got through, to whom, and what did not.
+
+| # | Step | What was understood | By whom |
+|---|---|---|---|
+| **1** | [00:00–06:40] **The framework** — s 32; the SOFC is the boundary of relevance; *"the presence or existence of an injury… is usually not so much in dispute"*; causation is the crux | ✅ The test, and that **the fight is causation, not diagnosis** | Both. The Appellant confirms: *"I understood."* |
+| **2** | [08:37] **The relevance point** — the complaints matter as events, not for their contents | ❌ **Nothing.** Deflected to the AI question and never resumed | Neither |
+| **3** | [08:58–10:31] **The AI and volume remarks** | ✅ The Appellant understands the **register problem** — and acts on it twelve minutes later. His own answer (*"it happened over a whole year"*) ❌ is not engaged with | One-way |
+| **4** | [13:12–15:00] **Erratic presence** — *"She showed up in the morning, left in the afternoon. Is that what you mean?"* → **"Exactly."** | ✅✅ **First full mutual understanding of an allegation.** And the Appellant learns the contradiction principle: uncontradicted evidence is likely accepted | Both |
+| **5** | [15:59–17:00] **The directives are emails** — *"tell me if I've got this wrong… she sent emails in the form of a directive"* → **"Correct."** | ✅ The directives exist and are documents | Both |
+| **6** | [17:24–19:45] **The disclosure question** | ⛔⛔ **A MISUNDERSTANDING IS ESTABLISHED** — that the disclosure contains no examples. ✅ One thing correctly understood: the starting point is the Regulator. ❌ Never understood: **MSH holds the mailboxes, not the Regulator** — said once at [19:45], not received | **This step decides the disposition** |
+| **7** | [22:12–26:31] **The hand-up and the table** | ✅ The schedule, item 10, the sub-items, and what a filter is. ⭐⭐ And something larger: **that the Appellant wrote and understands his own material** | Both — two understandings, content and author |
+| **8** | [27:06–27:36] **"Unassessed"** | ⚠ An understanding forms **and it is adverse**: absence of consultation = ordinary management. ❌ The patient-safety qualifier is closed off before it lands | Partial, and it hardens into a view |
+| **9** | [29:18–29:49] **The emergency calls** | ❌ **Nothing.** Explicitly moved off. **The consequence chain never entered his understanding** | Neither |
+| **10** | [30:00–33:00] **Cost and process** | ✅ The Appellant understands the hearing is long, costly, and would require MSH to call evidence. ✅ Dwyer understands the Appellant is receptive | Both |
+| **11** | [34:00–43:00] **The stressor sweep** | ✅ Limb by limb: he holds the documents for 1(b)–1(f). ❌ **Not understood: the restricted mailbox** — offered twice, passed over twice | Mostly one-way |
+| **12** | [43:00–50:00] **The delegate limb** | ✅ Understood — **and disbelieved**. ✅ The Appellant understands he cannot prove *"actively"* | Both |
+| **13** | [50:00–53:00] **Pay** | ⛔ Misunderstood, then ✅ **repaired** by one corrective sentence. ⚠ Only the public-holiday mechanism; **the AVAC / could-not-fix-it-myself dimension was never reached** | Partial |
+| **14** | [53:19–53:45] **The narrowing** | ✅✅ Dwyer understands the Appellant **can and will narrow** — and hands him pace control. **This is where the disposition became possible** | Both |
+| **15** | [54:15–55:54] **Stressor 3** | ✅ Understood **in form** — *"he has everything."* ❌ **Not understood in substance**: the seven-hour break, the commute, the sleep, and the Regulator's own finding of unreasonable management action — **none examined** | Formal only |
+| **16** | [56:00–61:30] **The diagnosis** | ✅ Dwyer's read of the Appellant: knows his file, over-broad, holds a systemic grievance, can narrow. ✅ The Appellant understands: focus on the stressors | Both |
+| **17** | [61:30–64:35] **The disposition** | ✅ Form 29 parked four weeks; talk to the Regulator; return on a single identified document | Both |
+
+---
+
+## THE THREE LEDGERS
+
+### ⭐ What the Commissioner understood by the end
+1. The Appellant **wrote and understands** his own material
+2. He will **narrow** when shown why
+3. The disclosure application is **largely unnecessary**
+4. **Ms Taylor's directive emails are the one live point**
+5. Erratic presence is a **testimony** question, not a documents question
+6. The Appellant **holds documents** for most limbs
+7. Stressor **1(g) is weak**
+8. The Appellant carries a **broad systemic grievance**
+9. **Stressor 3 requires no disclosure**
+
+### ⛔ What the Commissioner did NOT understand — and this is the case
+1. ❌ That the disclosure **did** contain the directive emails
+2. ❌ That **the Appellant's own mailbox had been restricted** — the reason for everything at step 6
+3. ❌ **The consequence chain** — misrouted emergency calls, cardiac arrest, respiratory distress
+4. ❌ **Why "unassessed" is not ordinary management** — the answer was closed off twice
+5. ❌ **The substance of Stressor 3** — the strongest limb, ninety-nine seconds
+6. ❌ That **the Regulator's own review found unreasonable management action** — seven seconds
+7. ❌ **Why the case is large** — a course of conduct over a year, said at [10:31], ignored
+8. ❌ That **MSH, not the Regulator, holds the mailboxes**
+
+⚠ **Eight items. They are the case.** None was rejected; each was deferred, deflected or never reached.
+
+### ✅ What the Appellant understood by the end
+1. The test, and that **causation is the crux**
+2. That **uncontradicted evidence is likely to be accepted**
+3. That **the Regulator is the starting point** for documents
+4. That **getting documents ≠ getting them into evidence**
+5. That **volume loses this Commissioner**
+6. That he **can and should narrow**
+7. That the Form 29 would be **long, costly and probably unsuccessful**
+8. That **Ms Taylor is likely to be called**, and that he would cross-examine her
+
+⇒ ⭐⭐⭐ **The Appellant left understanding more than the Commissioner did.** Dwyer understood the
+shape of the *application*. The Appellant came away understanding the shape of the *case* — which
+is the more valuable of the two, and it is why the Form 24 that followed is aimed correctly.
+
+---
+
+## THE THREE MISUNDERSTANDINGS LEFT STANDING
+
+| | Left standing | Corrected? |
+|---|---|---|
+| 1 | That the disclosure held no examples of the directives | ✅ **Cured 28 August** — they are now Annexure A Tabs 6, 8B and 25, quoted in the notice |
+| 2 | That deciding without consulting staff is ordinary management | ⛔ **Not corrected. Still standing.** The answer — consequence, not absence of consultation — has never been put |
+| 3 | That this is a broad grievance about a workplace | ⚠ **Half true, and unanswered.** It was answered at [10:31] and ignored |
+
+⇒ **Two of the three are the whole agenda for the hearing.**
