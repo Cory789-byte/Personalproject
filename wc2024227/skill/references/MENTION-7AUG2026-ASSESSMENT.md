@@ -587,3 +587,263 @@ on-call change) and Harrison-Jones ¶6–7 (the raised voice) are the two strong
 three outlines, and neither can be answered by a document.
 
 The risk is real and must be managed. **It is not a reason to drop them.**
+
+---
+
+# PART FOUR — WHY MSH WAS THERE, WHAT DWYER GAVE AWAY, AND A CORRECTION ON THE AI POINT
+
+## 19. ⛔ CORRECTION TO §2.1 — THE APPELLANT'S READ OF THE AI EXCHANGE IS BETTER THAN MINE
+
+§2.1 above treated the AI exchange as an unresolved adverse point. **On the transcript, that
+overstates it, and the Appellant's own read is closer to right.** Two things were conflated and
+must be separated:
+
+### (a) The AI *credibility* question — resolved, in the room, in his favour
+
+Dwyer's suspicion was triggered by **sophistication**, not by the documents alone. The question came
+immediately after the Appellant made a genuinely subtle relevance point [08:37] — *"it wasn't so
+much… what's inside those complaints. It's that they happened to me… I wouldn't even need to read
+them"* — and Dwyer's reply was *"You can explain that to me a bit more clearly"* before he asked
+*"Is it AI-assisted?"*
+
+⇒ **He asked because the point was good, not because it was bad.**
+
+**And the way it was answered is the only answer that could have worked.** A machine cannot explain
+itself in a room. Over the next fifty minutes the Appellant explained, live and unscripted, how the
+Form 29 items mapped to the pleaded stressors, what the filters were and why only a count was
+wanted, which documents he held for each limb, and where each sat. **That is affirmative proof of
+authorship and command of the file, and it is unfalsifiable by any suspicion about drafting.**
+
+**The evidence that it landed is in the last twelve minutes.** At [53:30], after the Appellant
+volunteered a narrowing, Dwyer said:
+
+> *"We probably should have led with that… **I'll leave it up to you to tell me if we get into
+> anything you think we don't need to get into, you tell me it'll save us some time, all right?
+> Don't worry about interrupting me on that score.**"*
+
+⭐⭐⭐ **A judge does not hand the pace of a review of a party's own pleading to that party unless
+he has concluded the party knows the file.** That is a marked change from the first twenty minutes,
+and it was earned by exactly the performance the Appellant describes — being put on the spot and
+being able to answer. It was immediately vindicated:
+
+> *"I have everything for this."* → *"Okay, so we don't need to go into this one?"* → *"No."*
+> → *"Okay, awesome."* [54:52–55:08]
+
+**Three stressors were disposed of in ninety seconds on the Appellant's own say-so.** No judge does
+that with a litigant he thinks is fronting someone else's work.
+
+⇒ **The AI credibility point should be treated as resolved favourably, and the earlier recount was
+right about that.** §2.1's "not closed" was wrong as to *credibility*.
+
+### (b) The *volume* instruction — which survives regardless, and is a different thing
+
+What does **not** dissolve is [21:38]. Read it again with the emphasis where it belongs:
+
+> *"when I'm **overloaded with page after page after page**… I switch off… my brain doesn't process
+> it… **That's how I fall into error.** If you give me way too much, if you talk at me for two hours
+> about something you could tell me in two minutes, I'm going to miss the point, **like any other
+> human being**."*
+
+The operative complaint is **quantity**, and the AI reference is only how he described the register.
+Even a Commissioner fully satisfied the Appellant wrote every word has told us that volume makes
+him miss the point. And at [10:12]:
+
+> *"If you want to persuade a court of something, a simple message is always the best. People make
+> the mistake — I've got to have a big case because then it looks more important. **You don't have
+> to.**"*
+
+⇒ **Two separate findings, and both are now settled:**
+| | Status |
+|---|---|
+| Did he doubt the Appellant's authorship / command of the case? | **Resolved in the Appellant's favour, in the room.** |
+| Does he want less paper in front of him? | **Yes, said twice, unequivocally, and it still governs.** |
+
+**The practical rule is unchanged and is not about AI at all:** anything Dwyer personally reads is
+short; anything he hears from the Appellant can be as detailed as it needs to be, **because live
+explanation is where this Appellant is strongest.** That is a genuine strategic asset and it should
+be built into the hearing plan — lead orally, keep the paper thin, and let cross-examination and
+answers from the box do the work.
+
+## 20. WHY MSH WAS AT THE MENTION — AND IT WAS NOT AS A WITNESS
+
+The recount describes Ms Ruttan as *"just there, used as a witness, I guess."* That is not the
+position, and the true position is more useful.
+
+**MSH attended as the objecting non-party, by requirement.** The Form 29 notice of non-party
+disclosure was directed at MSH; MSH filed a formal objection (K-LM26/729, 5 June 2026, signed
+Ms Cridland, enquiries Ms Ruttan). Under the disclosure machinery a non-party that objects is the
+party whose objection has to be dealt with — so it must be before the Commission when the
+application is managed. Per the recount, MSH was **ordered to appear personally because it had not
+appeared at the previous mention.**
+
+⇒ Ms Ruttan was there as **the legal representative of the objector**, not as a witness. She was
+addressed twice, both times on procedure — *"And Ms Ruttan, any…"* [61:38] and *"Ms Ruttan, is that
+all right with you?"* [63:56] — and said nothing substantive. That is exactly what an objecting
+non-party's representative does at a directions listing.
+
+### ⭐⭐ What that role produced — three things that cut MSH's way, badly
+
+**1. Dwyer told MSH it would have to call evidence.** [30:16]:
+> *"I'm going to schedule this disclosure dispute for a hearing. And **the health service is going
+> to need to call evidence to talk to their objections.**"*
+
+⇒ MSH's objection is not self-proving. If the Form 29 were pressed, **MSH would have to put
+witnesses in the box to justify the burden it asserts** — witnesses who could then be
+cross-examined about what records exist and how they are held. **MSH had at least as much reason to
+want this application gone as anyone in the room**, and probably more.
+
+**2. He criticised the objection-only posture — to both of them.** [30:36]:
+> *"**I see a very comprehensive objection.** But what the responsibility of the parties is, when
+> you have a disclosure dispute like this, is to get working on whether they can resolve it without
+> my intervention… I don't know whether that's happened or not, or whether it's just, this is what
+> I want, no, you can't have it. **If that's where we're at, well, you've got a bit of work to do
+> down there at the bar table.**"*
+
+⇒ *"A very comprehensive objection"* is not a compliment in that sentence. **"You've got a bit of
+work to do down there at the bar table" is addressed to the Regulator and MSH, not to the
+Appellant.** He put the resolution burden on them too.
+
+**3. He priced the fight for them.** [31:32]: *"I'd imagine the health service will probably want
+to engage [outside] law… and they'll bring their lawyers along, and I'll allow that."* The cost
+warning cut in every direction, including MSH's.
+
+⇒ ⭐ **The withdrawal of the Form 29 relieved MSH of a hearing at which it would have had to call
+evidence about its own record-keeping.** That is worth knowing when the tone of any future dealing
+with MSH is being set. It was not a one-sided retreat.
+
+## 21. ⭐⭐⭐ WHAT DWYER GAVE AWAY ABOUT THE SUBSTANTIVE CASE
+
+He said repeatedly he was not hearing the matter and would not get into the facts. He gave away a
+great deal anyway. Ranked by value.
+
+### 21.1 ⭐⭐⭐ He treated the diagnosis as established, and named causation as the battleground
+
+[04:08]:
+> *"the presence or existence of an injury for the purposes of a medical diagnosis is **usually not
+> so much in dispute**. The real crux of your case is going to be to show that **if you have a
+> diagnosis of a psychiatric condition as you do in this particular case**, how certain events or
+> things that took place in your workplace were **significant contributors to the cause** of that
+> condition."*
+
+⇒ **"as you do in this particular case."** He is not treating the psychiatric diagnosis as
+contentious. The case is going to be decided on **causation**, and he said so in the first four
+minutes.
+
+⇒ **This is the single most important strategic intelligence from the day**, and it validates the
+scope of the psychiatric report: the report's work is *causation and chronology* — which stressors
+contributed, and how — not establishing that there is a condition.
+
+### 21.2 ⭐⭐ He stated the test correctly — "a significant contributing factor"
+
+[03:08]: *"where your employment is **a significant contributing factor**, not excluded by the
+provisions of section 32.5, reasonable management action taken in a reasonable way."*
+
+⇒ No trace of the repealed "major significant" formulation. The standing discipline on this is
+confirmed from the bench.
+
+### 21.3 ⭐⭐ He is broad on relevance
+
+[10:59]:
+> *"**I'm inclined to take a broad approach in terms of things of relevance.** If something might
+> ultimately be relevant in a peripheral way, I won't have an issue with that necessarily."*
+
+⇒ Favourable, and it survives the disclosure argument. He is not a narrow-relevance decision-maker
+at the hearing.
+
+### 21.4 ⭐⭐ He expects the Regulator to call Ms Taylor
+
+[35:11]:
+> *"I would have thought **the regulator will call Ms Taylor to give her side of the story** and
+> you'll get to cross-examine Ms Taylor."*
+
+⇒ Bears directly on the witness list. If the Regulator calls her, no attendance notice is needed
+and the cross-examination happens anyway. **This is why covering EMAIL 2's question — will the
+Regulator call Taylor, Reese or Stibbard — is exactly the right question to have asked.**
+
+### 21.5 ⚠ He does not believe Stressor 1(g), and said so twice
+
+[45:01]: *"if they had a person who they were putting forward as their workplace delegate and they
+weren't getting cooperation from management… **they wouldn't sit on it for 13 months**."*
+[48:56]: *"**it's unusual in my experience** that a union wouldn't have gone to town on that."*
+
+⇒ **The weakest limb in the pleading, on the evidence of the decision-maker's own reaction.**
+Combined with the concession that "actively suppressed" cannot be proved (§8.2), this limb should
+be re-pleaded to the bare sequence or given very little weight at hearing. **Do not lead with it.**
+
+### 21.6 ⚠ His instinct on Stressor 1(a) is adverse — with one door open
+
+*"Like a manager. Managers make decisions without consulting staff all the time. It's totally
+legitimate."* [27:24] — followed by *"If you think it's in a patient safety environment, you can
+raise that"* [27:36]. See §2.3. **The consequence, not the absence of consultation.**
+
+### 21.7 ⚠ Mild scepticism about Stressor 2
+
+[50:37]: *"has that been the subject of an unpaid wages claim, or is your pay disparity been
+rectified?"* — and when told it had not been raised anywhere, he moved on without comment. ⇒ He was
+testing whether it is a live grievance or a causative stressor. **It needs the bridging fact: what
+the pay failure did to him, not merely that it happened.**
+
+### 21.8 ⭐⭐ How he thinks about breach-without-consequence — the roadmap for the whole case
+
+[57:52]:
+> *"You don't have to go too far in any organisation to find failures to comply with legislation,
+> failures to comply with protocol, failures to comply with policy. It happens every single day in
+> every single workplace. **It's a question of whether or not there's anything material that arises
+> from any of that** — and it's only a problem if somebody gets sacked or somebody gets killed…
+> **it's only then when these things get a light shot on them and they become relevant.**"*
+
+⇒ **This is the key to the whole case and it is also a warning.** Policy breach proves nothing by
+itself. What makes a breach matter is what it *produced*. For this appeal that is: the seven-hour
+break that produced the fatigue and the leave; the restricted database that produced misrouted
+emergency calls; the unanswered fatigue complaints that produced the accumulation.
+
+⇒ **Every stressor should be pleaded and led as breach → consequence → effect on the Appellant.**
+Not breach alone. He has told us exactly what he does with breach alone.
+
+### 21.9 ⭐⭐ He vouched for the Regulator — which is a resource
+
+[59:41]:
+> *"I think you will find Ms Matheson is sufficiently objective and cooperative… They have
+> responsibilities as a **model litigant**… **So they can't hide stuff from you. They can't be
+> sneaky or tricky or anything like that.**"*
+
+⇒ He staked his own credibility on the Regulator's cooperation. **If the Regulator is now
+uncooperative — for instance, if it does not engage properly with the Form 24 and Form 25 — that is
+a point he will be receptive to, because he made the prediction.** Keep a clean record of every
+request and every response.
+
+### 21.10 ⭐⭐ He pre-committed to a cheap single-document remedy
+
+[60:26]:
+> *"if there is a document in those discussions that Ms Matheson says, well, yeah, we know it
+> exists, but we don't think it's relevant, **you can come back to me. And looking at a single
+> document, I can tell you very quickly whether it should be disclosed or shouldn't be disclosed.**"*
+
+⇒ **An open invitation, at almost no cost, for a document-by-document dispute.** Far better than a
+Form 29. If the Form 24/25 responses identify a specific document the Regulator concedes exists but
+declines to produce, **that is the route back to him** — one document, one page, one answer.
+
+### 21.11 The disposition was deliberately preservative
+
+[61:23]: *"**I'm not close to that idea if you really wish to press it. I'm not close to that at
+all.**"* [63:43]: stood down four weeks *"pending hearing back from Mr Shepherd about whether he
+wishes to press any part of it."*
+
+⇒ He parked the Form 29 without deciding it, twice said the door was open, and put no adverse
+finding on the record about it. **Nothing about the day is a loss on the merits.**
+
+## 22. THE NET INTELLIGENCE PICTURE
+
+| Question | What the day revealed |
+|---|---|
+| Is the injury in dispute? | **No** — *"a diagnosis… as you do in this particular case"* |
+| Where will it be decided? | **Causation** — which stressors contributed, and how |
+| Which test? | **"A significant contributing factor"** — stated correctly from the bench |
+| Relevance approach at hearing? | **Broad** |
+| Will Taylor give evidence? | **He expects the Regulator to call her** |
+| Strongest limb in his eyes? | **Stressor 3** — disposed of in seconds, no scepticism at any point |
+| Weakest limb in his eyes? | **1(g) union delegate** — disbelieved twice |
+| Most vulnerable limb? | **1(a)** — *"like a manager"*, unless run as consequence |
+| What does he do with policy breach alone? | **Nothing.** Breach must produce something |
+| Route back on disclosure? | **One identified document at a time** |
+| Was anything decided against the Appellant? | **No** |
