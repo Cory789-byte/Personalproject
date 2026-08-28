@@ -20,8 +20,8 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=5)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=5)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=9.2, leading=11.8, spaceAfter=4)
-ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=9*mm, firstLineIndent=-9*mm, spaceAfter=3.4)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=9.1, leading=11.3, spaceAfter=3)
+ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=2.7)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=5)
 def P(t, s=INTRO): return Paragraph(t, s)
 
@@ -32,72 +32,80 @@ SERVED = ("Served pursuant to direction 2 of the Further Directions Order (3) da
           "Not filed in the Industrial Registry.")
 TAIL_W = ("This outline is a summary of the evidence the witness is expected to give. It is not a "
           "statement of the witness and is not signed by the witness.")
-TAIL_A = ("This outline states the topics on which the Appellant will give oral evidence. It is not "
-          "a statement of evidence and is not verified.")
+TAIL_A = ("This outline states the topics on which I will give oral evidence. It is not a statement "
+          "of evidence and is not verified.")
 
 OUTLINES = [
  ("OUTLINE_00_SHEPHERD", "OUTLINE OF EVIDENCE &ndash; MR CORY LEA SHEPHERD (APPELLANT)", TAIL_A,
-  "The Appellant will give evidence of the following.",
-  [("Employment.", "Commenced at Logan Hospital Switchboard in [MONTH] 2019; permanent from "
-    "3 March 2021; a continuous shift worker; full time from 16 October 2023."),
-   ("The role.", "Receiving emergency response notifications and distributing them to the correct "
-    "response groups per emergency code procedures, \"strictly adhering to protocols and "
-    "timeframes\"; maintaining the contact and paging numbers on which emergency paging depends; "
-    "keeping \"call queues to minimum at all times\"; the systems operated concurrently and the "
-    "call and emergency-code volume across a shift."),
-   ("The database and the contact book.", "That from 18 July 2023 operators could no longer correct "
-    "entries; that corrections went to Ms Stibbard or Ms Taylor; that the Contact &amp; Number "
-    "Changes book was removed from the operators' room; and what that meant when a number was "
-    "wrong, including overnight, at weekends and on public holidays."),
+  "I will give evidence of the following.",
+  [("Employment.", "I commenced at Logan Hospital Switchboard in [MONTH] 2019, became permanent "
+    "from 3 March 2021, am classified a continuous shift worker, and went full time from "
+    "16 October 2023."),
+   ("The role.", "Receiving emergency response notifications and distributing them to "
+    "the correct response groups per emergency code procedures, \"strictly adhering to protocols "
+    "and timeframes\"; maintaining the contact and paging numbers on which emergency paging "
+    "depends; keeping \"call queues to minimum at all times\"; the systems I operated at once, "
+    "and the call and emergency-code volume across a shift."),
+   ("The database and the contact book.", "That from 18 July 2023 I could no longer correct entries "
+    "myself; that corrections had to go to Ms Stibbard or Ms Taylor; that the Contact &amp; Number "
+    "Changes book was removed from our room; and what that meant when a number was wrong, including "
+    "overnight and at weekends."),
    ("The directives.", "The after-hours on-call arrangement of 15 April 2024, the data-entry "
-    "process of 19 April 2024 and the call-routing change of 9 May 2024; that he was not consulted "
-    "before any of them; and what each required of him."),
-   ("Ms Taylor's presence and hours.", "His observation of when she was and was not present across "
-    "2023&ndash;2024; that her office hours were not known to the operators; and his request of "
-    "15 May 2024 that she state them to the department."),
-   ("What happened at the console.", "What he observed when contact details were wrong &mdash; "
-    "calls for emergency responses and for medical teams reaching the wrong destination between "
-    "2 and 8 May 2024, and delays to urgent results reaching treating staff &mdash; and what he did "
-    "on each occasion."),
-   ("The communication book.", "The entry he wrote on or about 6 June 2023 about updating on-call "
-    "contact numbers; its removal; and what was said to him afterwards, and in front of whom."),
-   ("August&ndash;September 2023.", "The concerns raised in writing on 7 August 2023, the meeting "
+    "process of 19 April 2024 and the call-routing change of 9 May 2024; that I was not consulted "
+    "before any of them; and what each required of me."),
+   ("Ms Taylor's presence and hours.", "When she was and was not present across 2023&ndash;2024, "
+    "from my own observation; that I did not know her office hours; and my request of 15 May 2024 "
+    "that she state them to the department."),
+   ("What happened at the console.", "What I saw when contact details were wrong &mdash; calls for "
+    "emergency responses and for medical teams reaching the wrong destination between 2 and 8 May "
+    "2024, and delays to urgent results reaching treating staff &mdash; and what I did on each "
+    "time."),
+   ("The communication book.", "The entry I wrote on or about 6 June 2023 about updating on-call "
+    "contact numbers; that it was removed; and what was said to me afterwards, and in front of "
+    "whom."),
+   ("August&ndash;September 2023.", "The concerns I raised in writing on 7 August 2023, the meeting "
     "that followed, and the responses of Ms Taylor and Ms Reese."),
-   ("Special pandemic leave, February 2024.", "Being unwell with COVID-19; how many times he "
-    "submitted the request and what he attached; the reasons given for each decline; and the "
-    "approval given on the same material."),
-   ("13 and 15 May 2024.", "That he made a complaint on 13 May 2024, later determined to be a "
-    "public interest disclosure (content not set out); that on 15 May 2024 he was directed to "
-    "retract the email in which he had asked about office hours; and his knowledge of the email of "
+   ("Special pandemic leave, February 2024.", "That I was unwell with COVID-19; how many times I "
+    "submitted the request and what I attached each time; the reasons given for each decline; "
+    "and the approval given on the same material."),
+   ("13 and 15 May 2024.", "That I made a complaint on 13 May 2024, later determined to be a public "
+    "interest disclosure (content not set out); that on 15 May 2024 I was directed to "
+    "retract the email in which I had asked about office hours; and that I knew of the email of "
     "9 May 2024 in which Ms Taylor asked another person to confirm her hours."),
-   ("Union representation.", "When and to whom he expressed interest in becoming the Switchboard "
-    "delegate; what followed; and his endorsement on or about 3 November 2025."),
-   ("Pay.", "The public holidays he was not rostered to work between February and April 2024 and "
-    "the difference that made to his pay compared with colleagues; the errors Payroll identified "
-    "on 3 May 2024; and when they were corrected."),
-   ("The rostering pattern.", "That rostering errors affecting his line recurred across successive "
-    "roster periods, not once; when he identified them and to whom; and the acknowledgement in "
-    "Ms Reese's email of 10 May 2024 of \"a few rostering errors made by Chloe with regards to "
+   ("Union representation.", "When and to whom I expressed interest in becoming the Switchboard "
+    "delegate; what followed; and my endorsement on or about 3 November 2025."),
+   ("Pay &mdash; what was wrong.", "The public holidays I was not rostered to work between February "
+    "and April 2024 and the difference that made to my pay compared with colleagues. My concern was "
+    "not the amount. It was that my pay was wrong and I could not have it corrected."),
+   ("Pay &mdash; trying to have it corrected.", "That Payroll identified the errors on 3 May 2024 "
+    "and directed my manager to submit an AVAC for each fortnight; that I could not submit an AVAC "
+    "myself; what I did between 3 and 28 May 2024 and what I was told; that on 28 May 2024 I was "
+    "asked to sign a validation of claims older than three months; "
+    "that of the five AVACs recorded for me in that period none was initiated by me; that the two "
+    "AVAC process references Payroll identified do not appear in the record at all; and when I "
+    "stopped pursuing it, and why."),
+   ("The rostering pattern.", "That rostering errors affecting my line recurred across successive "
+    "roster periods, not once; when I identified them and to whom; and Ms Reese's "
+    "acknowledgement of 10 May 2024 of \"a few rostering errors made by Chloe with regards to "
     "Cory's line in past rosters\"."),
-   ("17 and 18 March 2024.", "Where he lived and his travel time each way; finishing at 23:00 on "
-    "17 March and commencing at 06:00 on 18 March; the rest actually available to him after travel; "
-    "the sleep he obtained; performing the duties at paragraph 2 in that condition on 18 March; and "
-    "the sick leave taken on 19 March 2024."),
-   ("Fatigue &mdash; what he raised, and what was never in place.", "The fatigue and rostering "
-    "concerns he raised and when; sending the fatigue toolkit to Ms Taylor for review and receiving "
-    "no response; his request of 8 April 2024 and the refusal given on 1 May 2024; and that at no "
-    "time before 30 June 2024 was he given fatigue risk management training, or a fatigue or "
-    "psychosocial risk assessment of his rostering, or any fatigue management process at the "
-    "Switchboard."),
-   ("After 18 June 2024.", "Meetings scheduled while he was on certified leave; that his employment "
-    "was ended under abandonment provisions while he held current medical certificates; and that he "
+   ("17 and 18 March 2024.", "Where I lived and my travel time each way; finishing at 23:00 on "
+    "17 March and commencing at 06:00 on 18 March; the rest actually available after travel; "
+    "the sleep I obtained; performing the duties at paragraph 2 in that condition on 18 March; and "
+    "the sick leave I took on 19 March 2024."),
+   ("Fatigue &mdash; what I raised, and what was never in place.", "The fatigue and rostering "
+    "concerns I raised and when; sending the fatigue toolkit to Ms Taylor and receiving no "
+    "response; my request of 8 April 2024 and the refusal of 1 May 2024; and that at no time "
+    "before 30 June 2024 was I given fatigue risk management training, any fatigue or "
+    "psychosocial risk assessment of my rostering, or any fatigue management process."),
+   ("After 18 June 2024.", "Meetings scheduled while I was on certified leave; that my employment "
+    "was ended under abandonment provisions while I held current medical certificates; and that I "
     "was subsequently reinstated."),
-   ("Onset and effect.", "The symptoms he experienced and when; the effect on his sleep, health and "
-    "daily functioning across the period; the onset date of 18 June 2024; attending his general "
-    "practitioner and lodging his application on 1 July 2024; and his treatment since. He offers no "
+   ("Onset and effect.", "The symptoms I experienced and when; the effect on my sleep, health and "
+    "daily functioning; the onset date of 18 June 2024; attending my general "
+    "practitioner and lodging my application on 1 July 2024; and my treatment since. I offer no "
     "clinical or diagnostic opinion."),
-   ("Documents.", "He will identify and produce the rosters and payslips for the relevant periods; "
-    "his emails and messages with his line manager and the Director; the leave and payroll records "
+   ("Documents.", "The rosters and payslips for the relevant periods; my emails and messages "
+    "with my line manager and the Director; the leave and payroll records "
     "produced by the employer; the role description; and the letter of Metro South Hospital and "
     "Health Service of 5 June 2026 (ref K-LM26/729)."),
   ]),
