@@ -123,3 +123,69 @@ the position.
 - ⛔ **HR Policy C38** and the **Ministerial Directive on Long Service Leave** — neither held.
 - ⛔ The **minimum period of leave to be taken at any one time** under the Directive.
 - ⚠ Whether any part of the LSL balance has already been taken or cashed out.
+
+---
+
+# ADDENDUM — 28 AUGUST 2026: START DATE ~MAY 2019
+
+⚠ **Cory's recollection: "I started May 2019 I think."** UNVERIFIED — but if correct:
+
+| | |
+|---|---|
+| Seven-year access threshold under Award cl 22(c) | **reached ~MAY 2026 — about three months ago** |
+| Continuous service as at 28 Aug 2026 | **≈ 7.3 years** |
+| ⭐ Accrual at cl 22(b), 1.3 weeks per year | **≈ 9.4 weeks at full pay** |
+| or, under cl 22(c) | **≈ 18.9 weeks at half pay** (same accrual, twice the calendar time, half the weekly amount) |
+
+⇒ ⭐⭐⭐ **On the face of the Award he is ALREADY ELIGIBLE, and has been since about May 2026.**
+That is real money — roughly two months of full-rate income — against a position of no wages since
+13 July and accommodation already given up.
+
+## ⛔⛔ THE NEW CRITICAL CATCH — AT WHAT RATE WOULD IT BE PAID?
+
+His fortnightly hours across 2026, from the movement forms (D3):
+
+| Form | Approved | Effective | Fortnightly hours |
+|---|---|---|---|
+| 1 | 27.02.2026 | 01.03–15.03.2026 | **56.00** |
+| 2 | 17.04.2026 | 16.03–26.04.2026 | **56.00** |
+| 3 | 09.06.2026 | 25.05–28.06.2026 | **40.00** |
+
+against a **full-time fortnight of 76 hours**.
+
+⛔⛔ **If long service leave is paid at the CURRENT or RECENTLY-AVERAGED rate, it would be paid
+against 40 hours a fortnight — roughly HALF the substantive full-time rate.** Every week of leave
+taken at that rate permanently consumes a week of the most valuable accrual he has, at half its
+value.
+
+⚠ And the reductions were **temporary** — each form records *"Change to Working Conditions
+(Temporary)"*. ⇒ **Taking LSL now risks crystallising a temporary reduction into a permanent
+depletion.**
+
+### ⭐ THE QUESTION TO PAYROLL, IN WRITING, BEFORE ANY APPLICATION
+> *"At what rate would long service leave be paid if taken now — my substantive rate, my current
+> actual hours, or an average, and over what averaging period? Please also confirm how the temporary
+> reduced-hours arrangements approved on 27 February, 17 April and 9 June 2026 are treated for that
+> calculation."*
+
+⇒ **Do not lodge an application until that answer is in writing.** If the answer is the reduced
+rate, that is itself a matter to raise — because the reduction was a temporary adjustment made to
+accommodate a medical condition.
+
+## FULL PAY OR HALF PAY?
+Clause 22(c) allows either. Same total money; half pay spreads it over twice the calendar time.
+
+⭐ **Full pay is probably right here** — he needs weekly amount, not duration, and every extra week
+recorded as "on leave" makes the *held-out-and-unpaid* argument harder to run. ⚠ Half pay keeps him
+on the books longer, which is the wrong direction while the wages claim is live.
+
+## ⇒ WHAT THIS CHANGES, AND WHAT IT DOES NOT
+✅ **Changes:** the fallback is real, substantial and available now, not theoretical.
+⛔ **Does not change:** the sequence. **Pay and the AVAC first.** The §6 warnings stand — an employee
+on approved leave is not held out, and this is the same transaction as Stressor 3(c).
+
+⭐ **Do this Monday regardless, in one email to Payroll (not to Roberts):** the service statement,
+the commencement date, confirmation the 2024 reinstatement preserved continuity, the current LSL
+balance in weeks, **the rate question above**, and copies of **HR Policy C38** and the **Ministerial
+Directive on Long Service Leave**. All of it is neutral, none of it commits him, and it takes the
+guesswork out before any decision has to be made.
