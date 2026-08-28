@@ -177,10 +177,9 @@ being told mid-answer that the material read as machine-written.
 | 10 | *"Have you examined those documents that have been disclosed to you… to see whether or not it contains examples of these unassessed, unilateral directives?"* [17:54] → *"do you say… there have been nothing that represents an example…?"* [18:10] | **"Not that I can recall, no."** | ⛔⛔ **THE MOST CONSEQUENTIAL WRONG ANSWER OF THE DAY.** The disclosure *did* contain them — and the Form 24 now annexes them from the Regulator's own July 2025 disclosure: the 15 April 2024 on-call directive (*"This new process is effective from today"*), the 9 May 2024 MASPER directive, the 17 May 2024 hours email. **This single answer is why the Form 29 was parked.** It has now been cured (§6). |
 | 11 | *"Have you asked them to produce the unassessed, unilateral directives?"* [19:05] | *"Not those specific things, no."* | **Honest and correct** — but combined with Q10 it handed Dwyer the disposition. |
 | 12 | *"the starting point for documents that you say exist that haven't been produced is the regulator. And you haven't specifically asked them for that?"* [19:37] | *"it was my understanding that I asked the person that controlled the documents."* | ⭐ **A fair point, poorly made.** MSH holds the mailboxes; the Regulator does not. That is a real answer to the "starting point" objection and it was not developed. |
-| 13 | *"Where do I find that in your application?"* [20:56] | Handed up the two-page summary | ⭐ **Good tactical instinct** — a short document, offered at the moment he complained of volume. |
+| 13 | *"Where do I find that in your application?"* [20:56] | **Handed up a prepared two-page summary within thirty seconds of the volume complaint** — *"Can I give you these two pieces of paper?"* [22:12] | ⭐⭐ **The best tactical move of the hour.** Dwyer had just said page-after-page makes him switch off. The answer was a two-page document, already prepared, produced immediately. **He answered the criticism rather than illustrating it.** |
 | 14 | *"This is the simple version, is it?"* [22:50] | *"Yes."* | ✅ Correct. |
-| 15 | *"Where's the bit about Chloe Taylor's unassessed unilateral directives?"* → *"Which heading? Which page? What number?"* [23:19] | *"Manager email filters… 10."* | ⚠ **Slow.** Took four exchanges to land on an item number. Not a substantive failure — but it fed the "can't follow your material" impression. |
-| 16 | *"What does filters mean?"* [23:38] — asked **three times** [24:44], [26:19] | Outlook analogy; *"my filters were effective immediately"* | ⚠ **Never landed.** *"I still don't understand what filters means"* [26:19] after three attempts. The correct answer was one sentence: *a keyword search of a mailbox, and I only want the count.* He had that answer [24:06] but buried it. |
+| 15–16 | *"Which heading? Which page? What number?"* [23:24] · *"What does filters mean?"* [23:38] · *"…**Doesn't make any sense to me**"* [24:29] · *"What does press mean?"* [24:42] · *"A-E. What's that a reference to?"* [25:35] · *"**I still don't understand what filters means**"* [26:19] | Item 10; the Outlook keyword analogy; *"my filters were effective immediately"*; *"I basically just want the count"*; *"Disposition of items, as in, this is what you want me to do with the items contained in your non-party disclosure"*; *"either swear it or produce it"*; *"A-B-C-D-E, which is number 10"* | ⭐⭐⭐ **This is the Appellant teaching the Commissioner, and it must not be read the other way.** Dwyer said of the Appellant's own table *"doesn't make any sense to me"* and *"I still don't understand"*, and the Appellant explained it term by term — the heading, the status column, the sub-items A–E, and the concept of a mailbox keyword filter. **Dwyer arrived**: *"So you're still pressing for disclosure of manager email filters A-E"* [24:51], then *"Okay"* [26:31] — and he still held the concept forty minutes later, calling it *"the unassessed directives or whatever"* and **the one live point** [62:28]. It took about three minutes because he was learning an unfamiliar technical concept from a document he had been handed ninety seconds earlier. |
 | 17 | *"What does press mean?"* [24:42] | *"either swear it or produce it"* | ✅ Fine. |
 | 18 | *"What do you mean by unassessed?"* [27:06] | Not in the room; no staff input | ⚠ See §2.3. **Led to the "like a manager" ruling.** |
 | 19 | (Patient safety raised) [27:29] | *"I think when it's in a patient safety environment that they…"* | ⭐⭐ **The right point, cut off and never resumed.** Dwyer expressly said *"If you think it's in a patient safety environment, you can raise that."* **That invitation was not taken up in the room.** |
@@ -275,9 +274,11 @@ Four patterns, all fixable:
    a broader grievance a view that systemically the place in which you worked had a number of
    failings… **You don't need to prove all of that.**"*
 
-4. **Burying the good answer.** The emergency-call explanation [29:18], the restricted-mailbox
-   point [36:38], and the *"I only want the count"* point [24:06] were all correct, all
-   under-delivered, and all abandoned.
+4. **Burying the good answer.** The emergency-call explanation [29:18] and the restricted-mailbox
+   point [36:38] were both correct, both under-delivered, and both abandoned.
+   ⭐ **The exception is item 10.** There the Appellant did the opposite — he answered the volume
+   complaint with a prepared two-page document and then taught the Commissioner how to read it
+   (§4, Q15–16). That passage is the model for how the rest should have gone.
 
 **Against that — the three answers that worked all had the same shape: short, plain, responsive.**
 *"Exactly."* *"Correct."* *"I have everything for this."* That is the entire lesson of the hour,
@@ -607,6 +608,15 @@ them"* — and Dwyer's reply was *"You can explain that to me a bit more clearly
 *"Is it AI-assisted?"*
 
 ⇒ **He asked because the point was good, not because it was bad.**
+
+⭐⭐ **And the decisive answer came nine minutes later, in conduct rather than words.** At [21:38]
+Dwyer said volume makes him switch off. At **[22:12]** — thirty seconds later — the Appellant handed
+up a prepared two-page summary. He was then asked what the headings of his own table meant, told
+*"doesn't make any sense to me"* [24:29] and *"I still don't understand"* [26:19], **and explained
+his own document term by term until the Commissioner had it** [23:24–26:31].
+
+**Nothing proves authorship like being cross-examined on your own document and knowing it.** A
+person fronting someone else's work cannot define its column headings on demand.
 
 **And the way it was answered is the only answer that could have worked.** A machine cannot explain
 itself in a room. Over the next fifty minutes the Appellant explained, live and unscripted, how the
@@ -1142,10 +1152,14 @@ They are not a digression. They do work in the design.
    record that excessive volume creates risk of error — **before** any decision is made. It
    pre-empts a complaint about a decision made on material he did not fully absorb.
 
-⭐ **And note the timing of the second remark.** It comes at [21:38], in the middle of the four
-exchanges in which the Appellant could not immediately point him to an item number in his own
-summary. That is the moment of maximum demonstration — the point lands hardest exactly where the
-material has just failed to be navigable.
+⭐ **And note what happened immediately after the second remark — because it is the opposite of
+what a first reading suggests.** The complaint lands at [21:38]. At **[22:12]**, thirty seconds
+later, the Appellant hands up a prepared two-page summary; and from [23:24] to [26:31] he explains
+that document to the Commissioner, who twice says he cannot follow it.
+
+⇒ **The volume complaint was answered on the spot, by the Appellant, with a shorter document and a
+live explanation of it.** Whatever the remark was designed to do, what it actually produced was the
+best demonstration in the hour that the Appellant knew his own material.
 
 ## 37. WHAT THE METHOD COST HIM — AND IT COST HIM A LOT
 
@@ -1167,10 +1181,13 @@ actually made, whether or not either man intended it.
 
 ## 38. ⚠ WHAT HE DID NOT PLAN FOR
 
-**(a) That the Appellant knew the file.** The hand-up of the two-page summary [20:56] was not
-anticipated, and by [53:30] he had revised his working assumption far enough to hand over pace
+**(a) That the Appellant knew the file.** This shows up far earlier than the concession at [53:30]
+usually credited with it. It shows at **[22:12]**, when the response to a complaint about volume was
+a prepared two-page summary, and across **[23:24]–[26:31]**, when the Appellant explained the
+headings, the status column, the sub-items A–E and the filter concept to a Commissioner who said
+twice that he could not follow them. By [53:30] Dwyer had revised far enough to hand over pace
 control — *"you tell me it'll save us some time… don't worry about interrupting me on that score."*
-That is an adjustment mid-plan, not a feature of it.
+**That is an adjustment forced by the Appellant's performance, not a feature of the design.**
 
 **(b) ⛔ That "Not that I can recall, no" would be wrong.** He took the answer at face value and
 built the disposition on it. **This is where the preparation failure is precisely quantified:**
