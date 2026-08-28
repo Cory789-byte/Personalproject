@@ -1400,3 +1400,137 @@ answerable by one fact he had, said once, and was cut off from saying the second
    item 19 by implication only. **It should be its own topic**, because it explains the shape of the
    entire case: he is the party who cannot produce his own contemporaneous record, because the
    employer removed his access to it.
+
+---
+
+# PART EIGHT — THE MENTION FROM METRO SOUTH'S SIDE OF THE BAR TABLE
+
+> MSH is **not a party to this appeal**. It attended as the objecting non-party, said almost
+> nothing, and left having got everything it came for. This Part reconstructs the hour from its
+> seat — what it wanted, what it watched, what it won, **and what it paid for the win without
+> apparently noticing.**
+
+## 47. WHAT THEY SAID IN SIXTY-FIVE MINUTES: TWO SENTENCES
+
+Ms Myla Ruttan, Principal Lawyer, attended because MSH had been **ordered to appear personally**
+after failing to appear at the previous listing. She was addressed twice, both times procedurally:
+
+- [61:38] *"And Ms Ruttan, any…"* — after Dwyer asked Ms Matheson whether he had misrepresented her
+  role or placed an unacceptable burden on her.
+- [63:56] *"Ms Ruttan, is that all right with you?"* — on the four-week stand-down.
+
+**Nothing substantive. No submission, no evidence, no position put.** Procedurally, spectators.
+
+## 48. WHAT THEY WALKED IN WANTING
+
+Three things, in order of importance to them:
+
+1. **Not to produce the documents.** The Form 29 (filed 22 April 2026) sought material across
+   twenty items with sub-items.
+2. **Not to be dragged into a hearing.** They are a stranger to the appeal; every hour spent is
+   pure cost with no upside.
+3. ⭐ **Not to have to justify the objection on evidence** — which is the one that mattered most,
+   and the one they are least likely to have said out loud.
+
+They had already filed a comprehensive written objection (K-LM26/729, 5 June 2026, signed by
+Ms Cridland as Chief Executive). Their strategy was to win on the paper.
+
+## 49. ⭐⭐ THE THREE THINGS DWYER SAID THAT CUT AGAINST THEM
+
+**(a) Their objection is not self-proving.** [30:16]:
+> *"I'm going to schedule this disclosure dispute for a hearing. And **the health service is going
+> to need to call evidence to talk to their objections.**"*
+
+⇒ ⭐⭐⭐ **This is the sentence that made the morning valuable to MSH.** To resist disclosure on
+burden they would have to put a witness in the box to explain their record-keeping — what systems
+hold what, what searches are feasible, what volume is involved. **That witness is cross-examinable**,
+and the cross-examination would run straight into the assertions in their own objection letter.
+
+**(b) The objection-only posture drew criticism.** [30:36]:
+> *"**I see a very comprehensive objection.** But what the responsibility of the parties is, when
+> you have a disclosure dispute like this, is to get working on whether they can resolve it without
+> my intervention… I don't know whether that's happened or not, or whether it's just, this is what
+> I want, no, you can't have it. If that's where we're at, well, **you've got a bit of work to do
+> down there at the bar table.**"*
+
+⇒ *"A very comprehensive objection"* is not praise in that sentence. **"Down there at the bar table"
+is addressed to the Regulator and MSH**, not to the Appellant. He put the resolution burden on them
+too, and neither of them answered it.
+
+**(c) He priced the fight for them as well.** [31:32] outside lawyers, allowed; a hearing *"probably
+going to go longer than a day"*; *"probably be bigger than the hearing at the end of the day"*.
+
+⇒ **MSH had at least as much reason to want that application gone as the Appellant did — and
+arguably more, because it had no upside at all.**
+
+## 50. ⭐⭐⭐ WHAT THEY PAID FOR THE WIN — AND MAY NOT HAVE REGISTERED
+
+To keep the documents in, MSH put things in writing. **That letter is now Annexure A, Tab 20 of the
+notice to admit facts, and the Regulator is being asked to admit its contents.**
+
+What the Chief Executive's letter states, on MSH's own hand, to the Commission:
+
+| The letter says | What it becomes |
+|---|---|
+| The fatigue training documents *"do not exist"* because *"Mandatory Fatigue Risk Management System training only applies to health practitioners and clinical assistants"* | **The Appellant was never within the cohort that received FRMS training** |
+| *"The implementation of fatigue risk management assessment at Switchboard Logan Hospital occurred after 30 June 2024"* | **There was no fatigue risk assessment at his workplace at any time before the injury** |
+| *"there have been no 'consequential' changes to operating procedures over the period requested"* | **Nothing was changed in response to anything he raised** |
+| Complaints about operational errors *"are made directly to the Line Manager of Switch Board and managed solely via email or verbally with the complainant"* | **There was no complaint system beyond the line manager** — who is the person complained about |
+
+⇒ ⭐⭐⭐ **MSH wrote the fatigue limb of the Appellant's case in order to avoid producing documents
+about it.** Every one of those statements is an assertion by the employer, in writing, signed at
+Chief Executive level, that the protective systems the Appellant says were missing were in fact
+missing.
+
+**That is the price of the win, and it is a very high one.** It is also unretractable — it is a
+letter to the Commission on the file.
+
+## 51. THE INTELLIGENCE DIVIDEND WAS NOT ONE-SIDED
+
+⚠ **Do not assume MSH left with nothing.** A Principal Lawyer sat through the same hour and will
+have written a file note. What she heard:
+
+- the diagnosis is not in dispute; **causation is the fight** [04:08]
+- the Commissioner is **broad on relevance** [10:59]
+- he **expects the Regulator to call Ms Taylor** [35:11] — an MSH employee
+- ⭐ *"Like a manager. Managers make decisions without consulting staff all the time. It's totally
+  legitimate"* [27:24] — **the most helpful thing said all day, from their side**
+- ⚠ and the exception immediately after it: *"If you think it's in a patient safety environment, you
+  can raise that"* [27:36]
+- that stressor 1(g) is disbelieved [45:01]
+- that the Appellant, self-represented, **knows his file** — he taught the Commissioner to read it
+  [23:24]–[26:31]
+
+⇒ **They know where the soft spot is (1(a) characterisation) and they know the Appellant is not
+going away.**
+
+## 52. WHERE MSH'S EXPOSURE NOW SITS — AND IT MOVED
+
+**It is no longer in the documents. It is in the people.**
+
+Dwyer said the mechanism himself: *"I would have thought the regulator will call Ms Taylor to give
+her side of the story and **you'll get to cross-examine Ms Taylor**"* [35:11]; and, on erratic
+presence, *"you could put it to her."*
+
+⇒ Every MSH officer whose conduct is in issue — Ms Taylor, Ms Reese, Ms Stibbard — is reachable at
+the hearing **whether or not MSH is a party**, either because the Regulator calls them or by
+attendance notice. And the Appellant's own corroborating witnesses (Ms Jeffrey, Ms Conaghan) are
+**current MSH employees** (Part Three).
+
+⚠ **So MSH is a spectator with no standing and no filings — and every witness in the case.** That is
+the real shape of it, and it is why the witness-protection steps at §17 matter more than anything
+about disclosure.
+
+## 53. WHAT TO WATCH, AND THE ROUTE IF THE REGULATOR HIDES BEHIND MSH
+
+1. ⭐ **The most likely Form 24 evasion is *"the Respondent cannot verify a document held by Metro
+   South Health."*** The Regulator has no obligation to chase MSH. Expect not-admits on the
+   MSH-sourced tabs on that basis.
+2. **The answer is not another Form 29.** It is (a) Dwyer's own single-document route [60:26], and
+   (b) an **attendance notice** to the relevant MSH officer at the hearing — Form 32 + 32A/B/C, once
+   dates are set, with r 62 expenses paid in time.
+3. **MSH cannot file anything, cannot make submissions, and cannot cross-examine.** It has no
+   standing in the appeal. It is reachable only by summons — which also means **it cannot answer the
+   CE letter** now sitting in Annexure A. It said what it said.
+4. ⚠ **Do not reactivate them.** Every disclosure step against MSH gives them a reason to appear,
+   to be heard, and to explain the letter. **The letter is more useful unexplained.**
