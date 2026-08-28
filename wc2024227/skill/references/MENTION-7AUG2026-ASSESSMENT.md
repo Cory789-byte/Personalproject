@@ -2290,3 +2290,97 @@ the Commissioner's view of the man, and paid for in the Commissioner's view of t
 **He expected to have to prise the application out of a man who would not let go. He met a man who
 handed it over, and adjusted his method twice inside the hour to account for it — improving his
 opinion of the litigant while never having to test the two points on which the litigant was right.**
+
+---
+
+# PART FIFTEEN — THE 64G AFFIDAVIT AGAINST THE OBJECTION: TWO CLAIMS TESTED
+
+> The Form 20 affidavit **affirmed 18 June 2026** (`lodgement/WC2024227_Form20_FINAL.md`), exhibits
+> CS-1 to CS-4, filed with the r 64G application and **sealed 23 June 2026**. It expressly refers to
+> MSH's letter of 5 June 2026 and the Regulator's disclosure of 11 June 2026. ⇒ **It was on the file
+> before Commissioner Dwyer on 7 August.**
+
+## 68. ⭐⭐⭐ WHAT THE AFFIDAVIT ACTUALLY CONTAINS — AND IT IS NOT A DISCLOSURE AFFIDAVIT
+
+| ¶ | What it establishes |
+|---|---|
+| 15–18 | The DSO function; roster and leave administration; weekend coverage. ⭐ **¶17: *"SPOK pages clinicians by reference to the on-call roster, so the accuracy of that roster determines whether an emergency page reaches the right, available clinician."*** |
+| 19–21 | Complaints arrive at the Switchboard first and come to him as operator; those escalated sit **in the Line Manager's mailbox** |
+| 20 | ⭐ *"I was receiving and managing complaints concerning **the very person to whom I would otherwise escalate them**"* |
+| 22 | The causal chain: the July 2023 restriction → directory out of date → complaints back to him |
+| 23 | *"approximately **200 to 300 calls per shift**, a substantial proportion from people who are distressed, frightened, in conflict or in crisis"* |
+| ⭐⭐⭐ 24 | ***"I was the operator through whom emergency codes were activated and urgent clinical and pathology results were relayed doctor-to-doctor. The patient-safety function of the hospital's emergency communications was performed by me at the Switchboard."*** |
+| 26 | 1(a): directives to the group distribution list, *"effective immediately"* |
+| 27 | ⭐ The MASPER analysis: *"a doctor, roster and coordination problem, **not an error of the operators**"* |
+| 29 | SPOK errors → pages to the wrong or unavailable clinician → *"direct delay, including to urgent clinical communications"* |
+| 30 | The vocabulary of the complaints — *"wrong ward"*, *"wrong team"*, *"misdirected"*, *"out of date"* |
+| 31–34 | 1(b)–1(e), each cross-referenced to the admitted facts of the February 2026 response |
+| 51 | An inventory of exactly what MSH produced under the objection |
+
+⇒ ⭐⭐ **This is a witness statement, not an interlocutory affidavit.** The entire patient-safety
+case — the mechanism, the vantage point, the volume, the consequence — is set out in it, in
+writing, **five weeks before the mention.**
+
+## 69. ⛔⛔ AND EVERY QUESTION DWYER SAID HE COULD NOT UNDERSTAND IS ANSWERED IN IT
+
+| He asked | The affidavit already said |
+|---|---|
+| *"How do you propose to prove that [erratic presence]?"* [13:12] | ¶26 — *"The objective record of her working presence is held in MSH's security-access system (Item 9)"* |
+| *"What does filters mean?"* ×3 [23:38]–[26:19] | ¶29–30 — the SPOK/roster mechanism, and the exact vocabulary of the complaints sought |
+| *"What do you mean by unassessed?"* [27:06] | ¶26 — directives to the group list, *"effective immediately"*; ¶27 — decided **without consulting the Switchboard, which could have identified the cause** |
+| ⭐⭐⭐ *"**Like a manager.** Managers make decisions without consulting staff all the time."* [27:24] | ¶24 — the patient-safety function; ¶17 — the roster determines whether an emergency page reaches the right clinician |
+| *"I'm concerned that the direction this is going in"* [29:53] — cutting off the cardiac-arrest passage | ¶24 and ¶29 — **the same content, already in evidence, in writing** |
+
+⇒ ⭐⭐⭐ **He asked, one after another, questions the affidavit on his own file had already answered
+— and the answer to his single most damaging remark is in paragraph 24.**
+
+⚠ **The honest limit:** absence of reference is not proof he did not read it. He never mentions the
+affidavit, CS-1 to CS-4, the 200–300 calls, the DSO function, ¶17 or ¶24 at any point in sixty-five
+minutes. **That is consistent with not having read it, and also with having read it and forgotten
+it under the volume he complained of.** ⛔ The affidavit is also a **scanned image with no text
+layer** — anyone reading electronically cannot search it.
+
+## 70. CLAIM 1 — "HE WOULD HAVE HAD BIG AMMUNITION TO ORDER THE DOCUMENTS"
+
+**Partly right — and precisely right in three places.** Set the affidavit against the objection
+item by item:
+
+| Item | The affidavit's ground | MSH's answer | Verdict |
+|---|---|---|---|
+| ⭐⭐⭐ **1–2 SPOK / MET** | ¶17, ¶29 — the roster determines whether the page reaches the right clinician | *"records do not exist… **However, a spreadsheet of recorded MET calls is available for the period 17–18 March 2024**"* — **and it is not in the enclosure list** | ⭐⭐⭐ **UNANSWERABLE.** Relevance established by the affidavit; existence conceded by MSH; production withheld |
+| ⭐⭐ **3(a)/3(b) complaints** | ¶19–22 — they came to him, accumulated, and the escalated ones sit in the Line Manager's mailbox | expense: searching *"individual staff member email accounts"* across seven months | ⭐⭐ **Strong on a NARROWED version — using MSH's own words.** MSH says *"All employee complaints… are made **directly to the Line Manager of Switch Board**."* ⇒ **One mailbox is not a 20,000-employee search.** The burden objection defeats itself |
+| ⭐ **19 union** | union correspondence with management | 20,006 headcount — **but MSH itself proposes** *"the date range ought to be narrowed to 17–18 March 2024, limited to emails received from Together Queensland by the Switchboard line manager and their Director"* | ⭐ **MSH offered its own narrowing and nobody took it up** |
+| 8, 10 | login/email searches | same expense ground, and *"unreasonably broad (lacking particularity)"* | ⚠ **Vulnerable** — Dwyer's *"fishing"* remark lands here |
+| 9 access | ¶26 — *"held in MSH's security-access system"* | *"The switchboard office **does not have its own access-swipe access**"* | ⛔ **Dead.** The affidavit's premise is wrong |
+| 3(c), 4, 5, 7, 14, 20 | — | do not exist / outside the period | ⛔ **Answered** — and the answers are the four CE admissions |
+
+⇒ **The 64G, argued on the affidavit against the objection, would probably have succeeded on three
+narrow items and failed on the breadth.** ⚠ **Which is exactly what Dwyer kept saying: narrow it.**
+
+⭐⭐ **And the affidavit had already done the narrowing work** — every item tied to a pleaded
+stressor and to a named custodian. **It was the argument. It was simply never opened in the room.**
+
+## 71. CLAIM 2 — "THE 64G WITH ITS STATEMENT WAS STRONG ENOUGH TO PROVE THE MATTER"
+
+⭐⭐⭐ **Substantially right, with one qualification that matters.**
+
+**Why it is right:** ¶¶15–34 are a complete statement of Stressor 1 and its mechanism, plus the
+role, the conditions, the volume, and the patient-safety function — sourced, dated, and
+cross-referenced to facts the Regulator had already admitted in February 2026. **Nothing further
+was needed to state the case.** It states it better than anything said at the mention, better than
+the Form 9A, and in the direction the Appellant actually reasons — consequence first.
+
+**The qualification:** an affidavit filed for an interlocutory purpose **is not evidence in the
+appeal.** It proves nothing until its author is sworn and cross-examined on it. Under FDO(3) the
+route in is the **one-page outline** and then oral evidence.
+
+⇒ ⭐⭐ **The operative consequence: the 18 June affidavit is the best existing statement of the
+case, and the hearing evidence should be drawn from it rather than composed afresh.** The current
+outline covers twenty topics; the affidavit carries the mechanism, the volume, the DSO function,
+the SPOK dependency and ¶24 — **and several of those are not yet in the outline at all.**
+
+## 72. THE FINDING IN ONE LINE
+
+**The answer to *"like a manager"* was filed, sealed and on the Commission's file seven weeks before
+the remark was made — at paragraph 24 of an affidavit that was never opened, by a Commissioner who
+had just said he switches off at volume.**
