@@ -1,0 +1,511 @@
+{
+ "meta": {
+  "file": "SCRATCHPAD_REASONING.json",
+  "generated": "2026-08-28",
+  "matter": "WC/2024/227 Shepherd v Workers' Compensation Regulator (QIRC, s 550(4) WCRA)",
+  "status": "INTERNAL WORKING SCRATCHPAD — not for service, not for filing, not quotable externally",
+  "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
+  "firewall": "QPS/criminal track (legal_system/) and the DFV material are NEVER voiced in WC/2024/227 or the employment track. No cross-track cognitive profile is to exist."
+ },
+ "documents_ingested_28AUG2026": [
+  {
+   "id": "D1",
+   "title": "Consultation Paper — Proposed Rosters for Switchboard Services, Logan Hospital",
+   "pages": 8,
+   "annexure": "Annexure A Tab 22",
+   "text_layer": false,
+   "method": "pdftoppm -r 130 -png",
+   "significance": "HIGHEST of the four",
+   "verbatim_findings": [
+    "'On 22 July 2021, Metro South Health management, affected staff and Together Queensland representatives commenced negotiating a new roster for Switchboard Services, Logan Hospital.'",
+    "purpose is 'to reinvigorate the consultation process'",
+    "'In August 2024, Switchboard Services, Logan Hospital was realigned from Health Information Management Services (HIMS), MSH to Corporate Services, LBHS, MSH.'",
+    "'Redistribution of nights for greater equity based on FTE.'",
+    "'Rotational roster for predictability and equity to all staff ensuring fair distribution of penalties.'",
+    "proposed roster 'trialled for a period of 6 months' then reviewed"
+   ],
+   "why_it_matters": [
+    "ROSTER CONSULTATION WAS OPEN FROM 22 JULY 2021 TO NOVEMBER 2024 - 3 years 4 months - and the employer's own word for the state of it is that it needed to be 'reinvigorated'. That spans the WHOLE exposure period (June 2023 - June 2024).",
+    "STAR: 'fair distribution of penalties' and 'greater equity based on FTE' are the EMPLOYER conceding that the EXISTING roster did not distribute penalties fairly. That is direct corroboration of the pay-disparity limb.",
+    "'predictability' - the employer's own November 2024 paper says the roster lacked it. The ECC of 3 July 2026 lists 'unpredictable rostering' as a stressor. Same defect, employer-documented, two years apart.",
+    "The August 2024 HIMS->Corporate Services realignment post-dates the injury and explains why the Director, Corporate Services is now the decision-maker - structurally relevant to the s 89 conflict letter."
+   ]
+  },
+  {
+   "id": "D2",
+   "title": "Letter — Conflict of interest, delegation and information handling (s 89 Public Sector Act 2022; Code cl 1.2)",
+   "ref": "MSH-INJ-5795",
+   "to": "Ms Noelle Cridland, Chief Executive, Metro South Health",
+   "date": "3 August 2026",
+   "verbatim_findings": [
+    "'I am not asking that anyone be removed... I make no allegation against any individual and I seek no finding about anyone.'",
+    "'I say only that this is a set of circumstances in which a conflict may exist.'",
+    "letters of 31 July written in the first person of the decision-maker and signed by Mr Scott Hughes, Director, Corporate Services",
+    "Q3 asks the GP whether he is fit to return 'under the existing reporting arrangements, including working with and reporting to [his] current line manager' - arrangements which sit INSIDE Corporate Services",
+    "3 October 2025 formal written request for review to A/Director HR Business Partnering concerning a process initiated by the same officer who signed the 31 July letters",
+    "the letter of 7 July 2026 records the treating practitioner advised of 'unresolved workplace matters involving line management'"
+   ],
+   "why_it_matters": [
+    "Part 2A converts 'unresolved workplace matters' into FOUR NAMED WHS/psychosocial matters - escalation of patient safety concerns; consultation on changes to work/roster/on-call; fatigue and recovery; genuine input into decisions. Those are the appeal's stressors stated in employment-track vocabulary.",
+    "STAR: item (b) - the consultation limb - is now CORROBORATED BY D1, the employer's own consultation paper. The two documents interlock.",
+    "The tone discipline is exemplary and is the model for all future correspondence: chronology, no motive, no allegation, questions that cannot be answered badly."
+   ]
+  },
+  {
+   "id": "D3",
+   "title": "Attachment 5 — Movement forms 2026",
+   "pages": 13,
+   "verbatim_findings": [
+    "Form 1: delegate Scott Hughes, approved 27.02.2026, effective 01.03.2026-15.03.2026, 56.00 hrs/fortnight",
+    "Form 2: delegate Scott Hughes, approved 17.04.2026, effective 16.03.2026-26.04.2026, 56.00 hrs/fortnight",
+    "Form 3: delegate Scott Hughes, approved 09.06.2026, effective 25.05.2026-28.06.2026, 40.00 hrs/fortnight",
+    "every form: 'Shift Arrangements: Continuous Shift Worker'; 'Position: AO Switchboard, AO3, Level 04'",
+    "Award: Hospital and Health Service General Employees (Queensland Health) Award - State 2015",
+    "'Reason For Additional Leave: Working Public Holidays, Continuous Shift Work'; Recreation Leave Accrual 6 weeks",
+    "Movement Task: 'Change to Working Conditions (Temporary)'; Reason: 'Change in Hours - Other'",
+    "Comments on Form 1: 'Cory Shepherd to extend reduce hours contract - 1.03.26 - 15.03.26 possible extension'"
+   ],
+   "why_it_matters": [
+    "STAR: 'Continuous Shift Worker' is recorded by the EMPLOYER on all three 2026 forms. That is the employer certifying the very working pattern the fatigue case depends on.",
+    "'Reason For Additional Leave: Working Public Holidays, Continuous Shift Work' - the employer's own form records that the role attracts public-holiday work. That interlocks with D1's 'fair distribution of penalties' and with the pay-disparity limb.",
+    "Scott Hughes approved all three as delegate - so the officer whose delegation is questioned in D2 is the same officer who approved the reduced-hours arrangements. Relevant to D2 but NOT to be run as motive.",
+    "56 -> 56 -> 40 hours is a DOWNWARD trajectory across 2026. Instruction question 3.6(e) asks whether that indicates deterioration or successful management of a stable condition. NOTE: 3.4-3.8 are now CUT from the narrowed report, so this is deferred."
+   ]
+  },
+  {
+   "id": "D4",
+   "title": "QSuper — Graduated Return to Work payment, CLM-317073",
+   "date": "5 August 2026, 16:12",
+   "verbatim_findings": [
+    "'We've sent your graduated return to work payment to your bank account. This covers you from 25 May 2026 to 31 May 2026.'",
+    "issuer: Australian Retirement Trust (ART) as trustee; QSuper branding"
+   ],
+   "why_it_matters": [
+    "Confirms IP/GRTW cover ENDS 31 May 2026 - consistent with 'IP benefits suspended 31 May 2026'.",
+    "Establishes the income cliff: last fund payment covers to 31 May; wages stopped 13 July; nothing in between.",
+    "Relevant to the ART/QSuper overpayment review track ONLY. NOT causation. Belongs in the prognosis/recovery-environment discussion if anywhere."
+   ]
+  },
+  {
+   "id": "D5",
+   "title": "SMS thread — Cory <-> Jacqui Roberts (MSH HR)",
+   "format": "screenshot, image",
+   "verbatim_findings": [
+    "Jacqui: 'Oh my gosh Cory that is alot! And understand why you may have a concern about accessing information. Lets continue our chat next week.'",
+    "Cory: 'My past experience include being safety advisor in Papua new Guinea working in various refugee centres. I also was a third year nurse at griffith the concerns were never interpersonal with my manager.'",
+    "Cory: 'relationship ending 6 months after my dismissal was then used as the issue. My ex partner attended my consults with me the distress never originated from my relationship.'",
+    "Cory: 'My most intimate sexual health and medical records were shared around and used to embarrass me then the cascade of my relationship ending 6 months after my dismissal...'",
+    "Jacqui: 'All the best with your move this weekend.'",
+    "Cory: 'I also need to go hand my keys over.'",
+    "Jacqui: 'Hi Cory. I think your phone may have lost charge. Please let me know you are ok.'"
+   ],
+   "why_it_matters": [
+    "STAR STAR: 'My ex partner attended my consults with me' - CORROBORATES the 24 October 2024 consultation at which the partner attended and was, on Dr Krishnaiah's own observation, supportive and protective. Question 3.1(b) of the instruction asks exactly this.",
+    "STAR: 'the distress never originated from my relationship' - his own contemporaneous position on the competing cause, stated to the employer, not constructed for the appeal.",
+    "STAR: 'the concerns were never interpersonal with my manager' - the correct framing, volunteered. Systemic/WHS, not personal conflict. Keeps s 32(5)(b) shut.",
+    "STAR: 'hand my keys over' + 'your move this weekend' - THIS DATES THE 2026 LOSS OF ACCOMMODATION, which was previously undated in the file. Fix the date from this thread.",
+    "Prior work history not previously in the file: safety advisor, Papua New Guinea refugee centres; third-year nursing student at Griffith. Relevant to the psychiatrist's history and to capability.",
+    "CAUTION: 'My most intimate sexual health and medical records were shared around and used to embarrass me' is a serious information-handling allegation made by SMS to HR. It is unparticularised in this medium and must NOT be run in the WC track. It belongs to the information-handling/privacy track and to D2."
+   ],
+   "discrepancy_flag": {
+    "issue": "'relationship ending 6 months after my dismissal'. Dismissal 9 Oct 2024 + 6 months = ~April 2025. The file elsewhere records relationship difficulty from ~Dec 2024 and separation Feb 2025.",
+    "why_it_matters": "Instruction question 3.1(a) asks Dr Krishnaiah to place each factor in time FROM HIS OWN RECORDS. A conflicting lay date in the Appellant's own SMS to the employer is a cross-examination handle.",
+    "action": "Do NOT resolve it by choosing a date. Let the psychiatrist date it from his file, which is what 3.1(a) is designed to produce. Never send him the timeline."
+   }
+  }
+ ],
+ "audio_forensics": {
+  "source": "PRF0466309_20260807_QIRCOIR_Brisbane — 64 kbps MP3, 3875.9 s (64m36s)",
+  "recording_starts": "mid-sentence, inside Dwyer's opening remarks; appearance announcements NOT on the tape",
+  "preprocessing": "16 kHz mono; high-pass 70 Hz; low-pass 7.6 kHz; 1-second-window AGC; soft limiter; normalise -3 dBFS. Average level raised 6.7x from -40 dBFS.",
+  "asr": {
+   "model": "Whisper large-v3 (CTranslate2 int8)",
+   "settings": "beam 5, best_of 5, temperature fallback, word timestamps, Silero VAD, domain-primed prompt",
+   "parallelism": "split at silences (996.9 / 1962.0 / 2882.5 s), two workers concurrent (4 GB each; four OOM'd)",
+   "result": "1068 segments, 0.00-3874.48 s, mean segment log-prob -0.180, zero segments below -0.6"
+  },
+  "diarisation": {
+   "problem": "Both principal speakers are men with median F0 136 Hz on one distant mic. Pure neural embedding clustering FAILED - it separated by segment length, not speaker.",
+   "breakthrough": "The AGC had erased the strongest cue. On the ORIGINAL audio the bench sits at -41 dB and the bar table at -53 dB - a 12 dB mic-distance gap.",
+   "final_method": "Viterbi over three evidence streams: (1) acoustic - Resemblyzer GE2E on un-normalised audio, PCA-32, centroids seeded from utterances only one person could make ('the appellant' = reading the pleading; 'my manager' = the Appellant); (2) lexical - ~60 weighted patterns; (3) adjacency - a question drops the switch penalty to 15%, and certain openings prove the PREVIOUS segment was the other speaker.",
+   "validation": "27/30 hand-checked anchors = 90%. Turn changes 202 (up from 139).",
+   "shares": {
+    "DWYER IC": "846 segs / 2949 s / 86.2%",
+    "MR SHEPHERD": "219 segs / 466 s / 13.6%",
+    "MS MATHESON": "3 segs / 7 s / 0.2%",
+    "MS RUTTAN": "0 - does not register acoustically"
+   },
+   "reliability": "Turn structure reliable. Residual errors concentrated in one- and two-word interjections and overlapping speech. NOT CERTIFIED."
+  },
+  "prosody": {
+   "method": "Praat via parselmouth, per segment",
+   "dwyer": {
+    "f0_median_hz": 136.7,
+    "f0_range_st": 7.6,
+    "rate_wps": 3.08,
+    "intensity_db": 66.0,
+    "seg_len_s": 2.88
+   },
+   "shepherd": {
+    "f0_median_hz": 135.5,
+    "f0_range_st": 5.14,
+    "rate_wps": 2.78,
+    "intensity_db": 62.0,
+    "seg_len_s": 2.18
+   },
+   "response_latency": {
+    "shepherd_median_s": 0.4,
+    "dwyer_median_s": 0.42,
+    "shepherd_turns_over_2s": "5 of 68",
+    "reading": "He answered as fast as the bench. Not the profile of a witness constructing answers. This is the strongest single fact the audio produced."
+   },
+   "outlier": {
+    "gap_s": 16.02,
+    "at": "23:19",
+    "after": "'Where's that?'",
+    "reading": "Longest silence in the hour by a factor of four. He was reading his own index to locate item 10 - he had handed up his only copy. Document-searching, not hesitation. Looks identical on paper, which is why the audio matters."
+   },
+   "the_tell": {
+    "finding": "Three of his five highest-pitched utterances are HEDGES - 'I do believe that I have received those' (+4.5 st), 'I do believe we have those' (+3.6 st), 'I would have to triple check' (+3.3 st).",
+    "contrast": "'No, I have all of that' at 9.7 w/s - three times baseline, flat, instant - disposed of Stressor 3.",
+    "rule": "When he knows, he is fast and flat. When he does not, his pitch rises and broadcasts it. In the box: say 'I'd have to check' at baseline pitch, short, and stop."
+   }
+  }
+ },
+ "transcript_comparison": {
+  "small_en_vs_large_v3": {
+   "words": {
+    "small_en": 9343,
+    "large_v3": 9616,
+    "delta_pct": 2.9
+   },
+   "verdict": "large-v3 more accurate; three passages change meaning"
+  },
+  "material_differences": [
+   {
+    "time": "16:31",
+    "small_en": "I didn't request, but I didn't be specific about that.",
+    "large_v3": "I guess I did request, but I didn't be specific about that.",
+    "significance": "OPPOSITE MEANING on the central question of the morning. large-v3's version is the one consistent with the rest of BOTH transcripts ('I have asked the regulator to produce what they have' [19:01]; 'Not those specific things, no' [19:09]). small.en contradicts itself; large-v3 does not."
+   },
+   {
+    "time": "06:40",
+    "small_en": "you're totally mute, so I'm not experienced with it, but I understood",
+    "large_v3": "you're telling me, so I'm not experienced in it, but I just did what I understood",
+    "significance": "small.en produced nonsense"
+   },
+   {
+    "time": "46:45",
+    "small_en": "The correspondence I also got from the minute",
+    "large_v3": "The correspondence I also got from the manager",
+    "significance": "substantive - he holds correspondence from the manager as well as the union"
+   },
+   {
+    "time": "64:33",
+    "small_en": "Thanks, Paddy, for your journey.",
+    "large_v3": "Thanks, Paddy.",
+    "significance": "small.en hallucination"
+   },
+   {
+    "time": "53:21",
+    "small_en": "Disclosures about what you know.",
+    "large_v3": "because disclosure is about what you know",
+    "significance": "small.en truncated a statement of principle by the Commissioner"
+   }
+  ],
+  "structural": "small.en has NO diarisation, so at [10:31] two speakers merge into one line: 'You don't have to. For me, it happened over a whole year, so it's not just one shift.' The second half is the Appellant's answer to the 'one shift' attack and is invisible without labels.",
+  "where_small_en_wins": "Name spelling - 'Shepherd' 13x vs large-v3's preference for 'Sheppard' (10 v 4). Spelling artefact, not comprehension.",
+  "use": "large-v3 for content; small.en as cross-check; NEITHER externally until certified. ATR0282381 is audio-only and stalled."
+ },
+ "the_mention": {
+  "shape": "Divides at 22:12. Before: standard disclosure-scepticism against a self-represented appellant. After: the roles invert.",
+  "opened": "[01:02] 'you won't be getting to hearing'",
+  "closed": "[63:33] 'the important business of getting this thing to a hearing'; stood down four weeks",
+  "three_sentences_that_matter": [
+   "[15:40] 'the regulator does have to contradict things that you say... if you say something and it's not contradicted... it will be accepted'",
+   "[28:56] 'if you give evidence that you were sent unassessed directives... and the regulator doesn't contradict it, doesn't cross-examine you, doesn't produce documents... that's a problem for them, not for you'",
+   "[35:11] 'the regulator will call Ms Taylor to give her side of the story and you'll get to cross-examine Ms Taylor'"
+  ],
+  "these_are_not_courtesies": "They are how he actually decided McCool [2021] QIRC 374 at [65]-[67]: 'insufficient evidence available... to activate the exclusions'. This is why the Form 24 was built.",
+  "the_ai_sequence": {
+   "09:02": "'Is it AI-assisted, can I ask? Because it feels like it.'",
+   "09:06": "Appellant, ~1.8 s at ~15 dB below the room: 'Just to the end. I do it all myself.' - four of six decodes agree; small.en agrees; ONE decode lost the turn entirely. Words are the best reconstruction, NOT a certainty.",
+   "09:55": "'I can't understand half of what I'm reading' / 'it is genuinely incomprehensible'",
+   "21:46": "'page after page after page of what looks like AI generated material - I switch off'",
+   "22:11": "Appellant: 'Can I give you these two pieces of paper?' - TWENTY-FIVE SECONDS after the second AI reference",
+   "22:13": "Dwyer: 'Hand it up, please.'",
+   "22:31": "Appellant: 'I haven't got a copy, but I can share.'",
+   "22:40-26:31": "Four minutes navigating a document he cannot see",
+   "never_raised_again": "after 22:11"
+  },
+  "what_the_handover_proved": [
+   "The allegation was not 'badly written' - it was 'no author, and no human can explain it'. A denial cannot answer that; only demonstration can, and demonstration REQUIRES the document in the judge's hands and not in yours.",
+   "STAR: Dwyer's confusion was itself the evidence. Generated text is CONVENTIONAL and instantly readable. What he could not read was a bespoke scheme built by one person for their own use.",
+   "STAR: he adopted the vocabulary FOUR SECONDS after asking what it meant - [24:37] 'What does press mean?' -> [24:46] 'To either swear it or produce it.' -> [24:50] 'So you press, so you're still pressing for disclosure'.",
+   "STAR: the table was an INDEX KEYED TO A SEALED FILING and the cross-reference was verified in the room - [24:59] 'which is on Form 29' -> [25:27] 'This is the Form 29 filed on the 22nd of April 2026, yeah.'",
+   "STAR: at [62:28], forty minutes later, Dwyer was still using the Appellant's own concept - 'the unassessed directives or whatever' - and calling it THE ONE LIVE POINT."
+  ],
+  "register_vs_architecture": "Register (the prose) drew the allegation. Architecture (the index, the numbering, the categories, the cross-references) defeated it. A model produces fluent prose; it does not produce your filing system.",
+  "lived_the_department": "[23:40] 'you put a word in Outlook and it filters all the words - so my filters were effective immediately'. Not a lawyer's explanation and not a generated one. A switchboard operator describing a mailbox rule he built to make the directives countable. The METHOD existed before the DOCUMENT.",
+  "corrections_made_this_session": [
+   "The paper was NOT handed up unprompted - he ASKED and was granted leave. Materially better fact.",
+   "The AI answer was NOT a bare denial - it was qualified ('Just to the end'), delivered without hesitation. A qualified answer is the stronger thing to have said.",
+   "The 26 October 2022 record was NOT unobtained - it is already at 1.3 of the letter of instruction, quoted from the PMH list of the 16 May 2024 Zhao->Amini referral."
+  ],
+  "what_was_not_achieved": [
+   "[08:37] the relevance point - made, deflected, abandoned",
+   "[10:31] 'it happened over a whole year' - the answer to the one-shift attack, made once and dropped",
+   "[36:42] 'my health service email was restricted' - the true answer to most of the questions, said once",
+   "[18:29] 'Not that I can recall' - the material was in his own July 2025 disclosure",
+   "[51:35] the 42% pay misreading - NEVER CLEANLY CORRECTED, still uncorrected on the record",
+   "[43:07],[48:56] the delegate limb drew open scepticism - since marked for deletion"
+  ]
+ },
+ "dwyer": {
+  "will_not_hear_the_appeal": "Appeal Guide 5.1, verbatim: 'The Member of the Commission who chairs such a conference will not be the Member who hears the appeal.' He chaired the s 552A conference on 13 March 2026.",
+  "where_his_view_still_matters": [
+   "case management - he made FDO(3) and decides any variation of direction 2",
+   "the Form 29 - PARKED, not dismissed: 'I'm not close to that idea if you really wish to press it'",
+   "direction 5 - he handed the election to the Appellant",
+   "STAR: he would CHAIR the second s 552A conference, which Guide 5.1 describes as a concession opportunity - 'the Respondent may decide to review its position or consider conceding the appeal where new information is presented'"
+  ],
+  "own_reasoning_McCool_2021_QIRC_374": [
+   "[68] beneficial construction, anchored to s 194(3)",
+   "[65]-[67] an evidentiary vacuum does not activate an exclusion - it defeats it",
+   "[26] independent witnesses weighted heavily",
+   "CAUTION: McCool is s 36 (journey), NOT s 32(5). Argue by analogy - 'the Commission has approached exclusions in this way' - never as authority."
+  ],
+  "what_he_punishes": "Andrews [2020] QIRC 104 - dismissed for non-cooperation with the Commission. NEVER let a direction pass without either compliance or an extension application.",
+  "the_prior": "s 552A conference 13 March 2026. Against a prior of 'this man is bright', [09:02] reads as DISAPPOINTMENT, not accusation - 'this does not sound like you'. Corroborated by [56:45] 'in no way at all being critical... you're floundering around a bit... because you're not sure what you need to do'. He attributes the difficulty to INEXPERIENCE, not incapacity.",
+  "the_march_remark": "CONFIDENTIAL. No evidentiary value. Never referred to in any filing, letter or hearing."
+ },
+ "the_case": {
+  "mechanism": "ONE mechanism - responsibility imposed, and the means to discharge it withheld - with ONE admitted instance: the seven-hour break of 17-19 March 2024.",
+  "authority_caution": "A 'composite course' is Delaney and Delaney is the Respondent's authority. One mechanism with one proven instance is Mahaffey. They sound identical and produce opposite results.",
+  "the_test": "s 32(1) - employment need only be A significant contributing factor. NEVER 'major'. The 2013 'major significant' test was repealed in 2019, long before the 18 June 2024 injury.",
+  "the_pivot": "Review Decision 69983, 24 October 2024 - the Regulator's OWN Review Unit found the rostering amounted to unreasonable management action AND that employment was a significant contributing factor. Contents ADMITTED at Form 24 response row 34.",
+  "their_case": "SOFC para 27 - ONE SENTENCE. 'any management action' was reasonable. No act, no date, no actor, no document, no witness, no medical evidence.",
+  "their_only_anchored_assertion": "Form 24 response row 32 - 'a past medical history of Anxiety and ADHD from 26 October 2022 which is missing from Exhibit A5'.",
+  "their_medical_position": "Amended List of Documents, 14 August 2026: NO medico-legal report, NO IME. The only medical items are Hawes and Ki Pang certificates, Krishnaiah's 24/10/2024 email, Krishnaiah's 13/02/2025 report, and Our Medical Ashmore practice records - ALL the Appellant's own treating evidence."
+ },
+ "live_risks": [
+  {
+   "rank": 1,
+   "risk": "The Form 9A's five false 'Admitted Fact' tags",
+   "detail": "paras 1.2, 1.3 (x2), 1.4 and 3(d) plead as ADMITTED five facts that are not admitted in the form pleaded. Response row numbers drift from Notice paragraph numbers after row 26.",
+   "worst": "para 1.2 pleads a 'clean psychiatric baseline' DIRECTLY AGAINST a document the Respondent says exists.",
+   "also": "'Independent Review Office (IRO)' does not exist - it is the Regulator's Review Unit. Dwyer read the phrase aloud at [55:20].",
+   "action": "FIX BEFORE 9 SEPTEMBER. As drafted these are the best argument the other side has, and they are self-inflicted."
+  },
+  {
+   "rank": 2,
+   "risk": "The 26 October 2022 Anxiety/ADHD record",
+   "detail": "Their only cheap route to a medical case is cross-examining Dr Krishnaiah on a history he was never shown. Already set out at 1.3 of the letter of instruction from the PMH list of the 16 May 2024 referral. OPEN: whether a separate consultation note of that date exists.",
+   "answer": "Not fatal. s 32(1) needs employment to be A significant contributing factor, and aggravation of a pre-existing condition is compensable on its own terms. But it must be met IN THE REPORT."
+  },
+  {
+   "rank": 3,
+   "risk": "The 42% pay disparity misreading, uncorrected on the record",
+   "detail": "[51:35] Dwyer took it as the Appellant AND colleagues being underpaid 42% - the opposite of the case.",
+   "STAR_NEW": "D1 (the Consultation Paper) FIXES THIS. 'Rotational roster for predictability and equity to all staff ensuring fair distribution of penalties' and 'Redistribution of nights for greater equity based on FTE' is the EMPLOYER conceding the existing roster did not distribute penalties equitably. The claim is not an underpayment - it is inequitable distribution of penalty-attracting shifts.",
+   "the_clean_sentence": "I was rostered off the public holidays my colleagues were rostered onto, so my fortnightly pay fell against theirs."
+  },
+  {
+   "rank": 4,
+   "risk": "The 2026 material leaking into the causation report",
+   "detail": "If the report attributes the current presentation to the 2026 exclusion and non-payment, the Regulator says the 2026 events are MANAGEMENT ACTION - and s 32(5)(a) is the exclusion the whole appeal turns on.",
+   "mitigation": "Narrowing to Matters 1, 2 and 3.1-3.3 removes 2026 from the report ENTIRELY. The causation section ends 24 October 2024."
+  },
+  {
+   "rank": 5,
+   "risk": "RFMI Q7 and the capacity sequence",
+   "detail": "Q7 takes 'working memory is affected under stress' - Dr Krishnaiah's own phrase from Feb 2025 - and asks what it means 'under NORMAL workplace demands'. Q6 asks about full inherent requirements. Q9 asks whether he can return if restrictions cannot be accommodated. Q7 is the predicate, Q6 the framing, Q9 the conclusion.",
+   "defence": "CAPACITY (intact - 29% FTE worked and tolerated twelve months without deterioration) vs CONDITIONS (predictable rostering, adequate recovery, limits on concurrent emergency load). Q7 blurs them; the answer keeps them sharp.",
+   "mitigation": "Q7 sits at 3.5(c). 3.4-3.8 are CUT. Deferred.",
+   "before_it_is_ever_answered": "Obtain FORMAL COGNITIVE TESTING. The Feb 2025 report records cognitive difficulty 'particularly with concentration and working memory' but expressly that 'no formal cognitive assessment was conducted'."
+  }
+ ],
+ "the_report": {
+  "narrowing": "Matters 1, 2 and 3.1-3.3 ONLY. 3.4-3.8 (prognosis, capacity, adjustments, inherent requirements, workplace discussions, foreseeable risk) are the Health Service's questions and are cut.",
+  "further_cuts": [
+   "1.4 premorbid personality - invites a characterisation of personality in a document going to the Regulator, and nothing turns on it",
+   "most of 2.4 (the three ECC stressors) - 2026 capacity material about EXACERBATION not onset. KEEP sub-question (ii) and fold it into 2.3."
+  ],
+  "length": {
+   "ten_questions": "~3 pages",
+   "twelve_questions": "4-5 pages",
+   "correction": "An earlier note in this session said two pages. That was too low - 1.3 alone has six sub-parts and 2.1-2.3 each ask for a mechanism."
+  },
+  "three_sections_that_carry_it": [
+   "1.3 - the 26 October 2022 entry met expressly",
+   "2.2 + 2.3 - where the ADMITTED FACTS become a MECHANISM. A psychiatrist cannot normally attribute causation to contested facts; here they are admitted, so the opinion rests on agreed ground. This is what the Form 24 was built for.",
+   "3.1 - every non-employment factor DATED, each stated before or after 18 June 2024, each independent or consequential. The section the report is judged on."
+  ],
+  "title_correction": "Part D(g) styles the report as answering MSH's request of 31 July. With 3.4-3.8 cut that title is FALSE and damaging. New styling: 'Psychiatric report concerning Mr Cory Lea Shepherd', dated, addressed to no one, standalone.",
+  "never_send_him": [
+   "the dated life-events timeline - question 3.1(a) asks him to place factors in time FROM HIS OWN RECORDS, and supplying dates destroys the answer's value",
+   "the 2026 housing loss - it belonged to 3.4, and 3.4 is cut",
+   "any new questions, anything on the merits, or any hint of the answer wanted"
+  ],
+  "the_life_events_timeline_INTERNAL_ONLY": [
+   {
+    "date": "26 Oct 2022",
+    "event": "the Anxiety/ADHD entry the Regulator asserts",
+    "status": "pre-existing"
+   },
+   {
+    "date": "17-19 Mar 2024",
+    "event": "the 7-hour break",
+    "status": "ADMITTED - aetiology"
+   },
+   {
+    "date": "18 Jun 2024",
+    "event": "ONSET",
+    "status": "causation assessed here"
+   },
+   {
+    "date": "9 Oct 2024",
+    "event": "employment ceased - abandonment letter, backdated to the day after the WorkCover decision, later reversed",
+    "status": "EMPLOYER CONDUCT, not a life event"
+   },
+   {
+    "date": "24 Oct 2024",
+    "event": "first consult with Dr Krishnaiah; PARTNER ATTENDED and was supportive and protective; Review Decision 69983 same day",
+    "status": "causation section stops here"
+   },
+   {
+    "date": "~Dec 2024",
+    "event": "personal and relationship matters commence",
+    "status": "+6 months post-onset"
+   },
+   {
+    "date": "Feb 2025",
+    "event": "separation",
+    "status": "+8 months"
+   },
+   {
+    "date": "13 Feb 2025",
+    "event": "Mind & Memory report - the Q6(b) 'multiple life stressors' sentence",
+    "status": ""
+   },
+   {
+    "date": "Mar 2025",
+    "event": "bereavement - grandfather",
+    "status": "+9 months, INDEPENDENT - concede it, that is what makes the rest credible"
+   },
+   {
+    "date": "~Apr 2025",
+    "event": "a displacement event",
+    "status": "EXCLUDED - entangled with never-voiced material. Do not date, describe or refer to it."
+   },
+   {
+    "date": "7 Apr 2025",
+    "event": "return to work ~29% FTE, six shifts a fortnight",
+    "status": "the adjustment working"
+   },
+   {
+    "date": "14 Jun 2026",
+    "event": "last shift worked",
+    "status": "course"
+   },
+   {
+    "date": "26 Jun / 3 Jul 2026",
+    "event": "excluded from the workplace",
+    "status": "course only"
+   },
+   {
+    "date": "13 Jul 2026",
+    "event": "wages stopped",
+    "status": "course only"
+   },
+   {
+    "date": "~Aug 2026",
+    "event": "handed keys over, moved - loss of accommodation (dated from D5)",
+    "status": "PROGNOSIS ONLY, never causation"
+   }
+  ],
+  "the_best_point": "The relationship breakdown is NOT independent of the employment matters. The Feb 2025 report records pay 'withheld or delayed for up to five months at a time, leading to significant financial stress and strain on his relationship'. And the partner ATTENDED the 24 Oct 2024 consultation and was protective - four months post-onset. Sequence: employment -> financial instability -> relationship strain -> separation. That converts their best competing cause into a consequence, in the treating psychiatrist's own prior words."
+ },
+ "the_hearing": {
+  "length": "Short - because the RESPONDENT'S case is short. Ask for 2 days, expect to finish inside 1.",
+  "why_short": [
+   "308 facts admitted removes the whole documentary layer - normally a day to a day and a half",
+   "outlines capped at one A4 page by direction 2",
+   "their s 32(5) case is one unparticularised sentence",
+   "only ONE witness on their side is structurally necessary"
+  ],
+  "the_cost_of_short": "The Form 24 converted a long DOCUMENTARY hearing into a short CREDIBILITY hearing. Nowhere to hide. The 37 not-admits are where cross starts. Weight preparation to cross-examination survival, not more documents.",
+  "seek": "written closing submissions - removes half a day and plays to his strongest medium",
+  "will_they_fold": {
+   "mechanism": "NOT volume. Three doors closing: documentary (Form 24 + Form 25), characterisation (para 27 with no witness), and MEDICAL - they have NO expert and direction 4 gives them 21 days from 9 September. A psychiatric medico-legal in Qld takes 6-10 weeks.",
+   "tells_all_on_30_september": [
+    "is Ms Taylor on their witness list? not on it = no s 32(5)(a) case at all",
+    "is Ms Reese on it?",
+    "IS THERE AN EXPERT REPORT? none = they cannot contest causation"
+   ],
+   "the_fold_door": "Direction 5 - the Appellant elects a second s 552A conference or hearing. Regulators fold at CONFERENCES, not hearings. Guide 5.1 calls it a concession opportunity.",
+   "sequence": [
+    "9 Sept - serve list, outlines, report",
+    "9 Sept - Calderbank #3, 21 days, expiring ~30 Sept, timed to expire on the day their list falls due",
+    "30 Sept - read their list",
+    "early Oct - elect"
+   ],
+   "probability": "Resolution before hearing MORE LIKELY THAN NOT, conditional on the report landing and the Form 9A tags being fixed. But build as though it is being heard, because that is the only thing that produces the fold."
+  }
+ },
+ "clocks": [
+  {
+   "date": "2026-09-02",
+   "what": "HARD BACKSTOP - registry extension email on direction 2 if the report is not in hand"
+  },
+  {
+   "date": "2026-09-09 16:00",
+   "what": "FILE+SERVE witness list (direction 1); SERVE outlines and any expert report (direction 2)"
+  },
+  {
+   "date": "2026-09-09",
+   "what": "Calderbank #3 - only if the report is in hand; 21 days, expiring ~30 Sept"
+  },
+  {
+   "date": "2026-09-11",
+   "what": "Form 24 / Form 25 responses fall due. r 49 - silence for 14 days IS the admission. DO NOT CHASE MATHESON."
+  },
+  {
+   "date": "2026-09-30 16:00",
+   "what": "Respondent's witness list, outlines and any expert reports. READ IT - it answers everything."
+  },
+  {
+   "date": "2026-10 early",
+   "what": "Direction 5 election - second s 552A conference vs hearing"
+  }
+ ],
+ "critical_sequencing_note": "The Form 24 was served 28 August 2026. Responses fall due 11 SEPTEMBER - TWO DAYS AFTER the expert report is due on 9 September. The 308 new facts are NOT admitted in time for the report. The psychiatric report therefore rests on the FEBRUARY 2026 admissions (the Regulator's response of 18 Feb 2026), which Dr Krishnaiah already holds as Attachment 1.",
+ "disciplines": [
+  "No conspiracy or collusion framing, ever.",
+  "The word 'fraud' never appears in the WC track.",
+  "State the CHRONOLOGY, never the MOTIVE. Motive is not an element of s 32(5)(a), and Briginshaw raises the bar for every characterisation.",
+  "NEVER open s 32(5)(b) - nothing about his expectation or PERCEPTION of management action. Avoid: punishment, hostile, capricious, reprisal.",
+  "The PID is an admitted fact (SOFC para 15) but is NEVER run as motive.",
+  "NEVER mention the December 2024 police protection matter, that it was withdrawn, or the separation document.",
+  "THE LEAKAGE RULE - employment vocabulary never enters the 9 September package; appeal vocabulary never enters anything to HR, the union or the practice.",
+  "At hearing: prove the NOUNS, retire the ADJECTIVES.",
+  "Every document from 9 September must be READABLE ON SIGHT by a stranger with no author present. Direction 2 is serve-only. The mechanism that rescued the index - explaining it aloud - is structurally unavailable from here.",
+  "Take TWO copies of everything to the hearing.",
+  "Never answer an authorship challenge with a denial. Answer it by being examined on the document.",
+  "Release the lived operational detail ON QUESTION, never volunteer it. At [29:18] the strongest content of the hour was volunteered and cut off at [29:40]."
+ ],
+ "unresolved": [
+  "The CERTIFIED TRANSCRIPT - ATR0282381 is audio-only and stalled. Nothing machine-produced is quotable externally.",
+  "PRIORITY CHECK in the certified transcript: the AI answer at [09:06]. If it records a fuller qualified answer, that is a materially better fact than the file records.",
+  "Whether a separate 26 October 2022 consultation note exists, distinct from the PMH list entry in the 16 May 2024 referral.",
+  "The exact date of the 2026 move - now datable from the D5 SMS thread. FIX IT.",
+  "The month of the grandfather's death, for 3.1.",
+  "The 'relationship ending 6 months after my dismissal' date discrepancy in D5 against ~Dec 2024 / Feb 2025 elsewhere.",
+  "Whether Dr Krishnaiah will proceed on Cory's instruction independently of MSH - the gating question in the covering email.",
+  "The fee for the narrowed report; whether a deposit is required; turnaround.",
+  "The MET call spreadsheet for 17-18 March 2024 - named and conceded in the MSH objection, still not produced.",
+  "The 14 November 2023 Taylor email (SOFC para 13(f)) and confirmation of the 10 August 2023 meeting.",
+  "Form 24 tags paras 1, 3, 5 and 14 - still unverified against Tab 27 pages 125-126.",
+  "Whether Ms Ruttan spoke at all beyond the two closing courtesies - she does not register acoustically."
+ ]
+}
