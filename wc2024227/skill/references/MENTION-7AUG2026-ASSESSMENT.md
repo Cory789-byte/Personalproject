@@ -2676,3 +2676,105 @@ an obstruction he names by mechanism.
 
 ⚠ **None of this is a finding, and none of it is a prediction.** But **the pattern of what he chose
 to say out loud, in front of both, is not the pattern of a member sceptical of an appellant.**
+
+---
+
+# PART EIGHTEEN — FOURTH PASS: SIX REFINEMENTS, TWO OF THEM MATERIAL
+
+> These do not change the overall picture. **Two of them change the weight of things previously
+> recorded as adverse**, and both cut the same way.
+
+## 85. ⭐⭐⭐ *"AND YOU MAY BE RIGHT ABOUT ALL OF THAT"* [57:45]
+
+The full sentence, in the middle of the broad-grievance diagnosis:
+> *"I get the sense that you've got that broad grievance and it's important to you. **And you may be
+> right about all of that.**"*
+
+⇒ ⭐⭐⭐ **He does not dispute that the workplace had the failings alleged. He disputes their
+relevance to this appeal.** Those are entirely different propositions, and Part Twelve recorded the
+diagnosis without this qualifier.
+
+**Restated correctly:** *the systemic failings may well be real; they do not decide this case unless
+something material arose from them.* ⇒ **Which is the same test as §63, and it is met** (Part Five).
+
+## 86. ⭐⭐ HE EXPRESSLY HEDGED THE DIAGNOSIS — *"I MAY JUST BE SPECULATING ABOUT THAT"* [57:38]
+
+> *"You, I think, have as a broader grievance a view that systemically the place in which you worked
+> had a number of failings… **I may just be speculating about that**, but I get the sense…"*
+
+⇒ **The broad-grievance characterisation is offered as an impression, expressly flagged as
+speculation** — not as a finding, and not even as a settled view.
+
+⭐ **And on his own method** (§16 — he states his understanding and invites correction, four times,
+accepting it every time) **that sentence was an invitation to correct.** It was not taken up.
+
+⚠ ⇒ **The most quoted adverse observation of the hour is the one he was least sure of, and the one
+he most clearly opened to challenge.**
+
+## 87. ⭐ HE ACCEPTS THAT SOME DOCUMENTS ARE NEEDED — TWICE
+
+> [57:05] *"Ultimately, **there's parts of this that are going to need documents**, but it sounds
+> like not the sort of volume of documents you're talking about."*
+> [59:04] *"Your case must focus on the stressors that you've identified **and to the extent that you
+> need documents to support those**."*
+> [59:10] *"From what I can see… **it's a much shorter list**, okay?"*
+
+⇒ **His position was never "you need no documents." It was "you need fewer."** A *"much shorter
+list"* is still a list. ⭐ **That is consistent with the MET call spreadsheet being exactly the kind
+of item he had in mind** — one document, identified, on the strongest limb.
+
+## 88. ⭐⭐ A THIRD UNQUALIFIED REFERENCE TO THE CONDITION AS EXISTING
+
+> [58:34] *"it's about those matters that you've identified as being causative of **your medical
+> condition**."*
+
+Not *"your alleged condition."* Not *"any condition."* ⇒ Together with [04:08] (*"a diagnosis of a
+psychiatric condition **as you do in this particular case**"*) and [04:13] (*"how certain events…
+were significant contributors to **the cause of that condition**"*), **that is three unqualified
+references to the condition as an existing fact.**
+
+## 89. ⚠ *"GEE"* — HE HAD FORMED A VIEW ON 1(g) BEFORE EXAMINING IT
+
+> [43:07] *"**Gee**, suppression of industrial representation during roster disputes."*
+
+**The only editorialising interjection in sixty-five minutes**, and it lands **before a single
+question** about the limb was asked.
+
+⇒ ⭐ **His scepticism on 1(g) was formed from the pleading, not from the examination** — which is
+consistent with the ground he later gave for it (*"it's unusual in my experience"*, [48:56]), a
+generalisation from his career rather than anything in the file.
+
+⚠ **It also tells you the pleading's own wording invited it.** *"The employer actively suppressed
+this appointment for 13 months"* and *"in direct contravention of union encouragement"* are the
+words he read aloud. **The overstatement in the pleading produced the reaction.**
+
+## 90. THE REFINED READING OF THE DIAGNOSIS PASSAGE
+
+Set the whole thing out as he actually said it:
+
+| He said | Weight |
+|---|---|
+| *"You're floundering around a bit"* | ⚠ but expressly *"in no way being critical in this respect"* |
+| *"people do make… the mistake of over-cooking it"* | ⚠ method criticism |
+| *"there's parts of this that are going to need documents"* | ⭐ **concedes need** |
+| *"you have as a broader grievance a view that systemically the place… had a number of failings"* | ⚠ characterisation |
+| *"**I may just be speculating about that**"* | ⭐⭐ **expressly hedged** |
+| *"**And you may be right about all of that**"* | ⭐⭐⭐ **does not dispute the substance** |
+| *"it's a question of whether or not there's anything **material** that arises"* | ⭐⭐⭐ **the test — and it is met** |
+| *"it's about those matters… causative of **your medical condition**"* | ⭐⭐ **condition treated as existing** |
+| *"it's a much shorter list"* | ⭐ **shorter, not empty** |
+
+⇒ ⭐⭐ **Read whole, the passage is far less adverse than its most-quoted line.** It is a criticism
+of **method and scope**, explicitly hedged, wrapped around **a concession that the substance may be
+correct** and a test that these facts satisfy.
+
+## 91. THE FOURTH-PASS FINDING
+
+**Nothing in the hour is a criticism of the truth of the Appellant's account.** Every adverse remark
+is directed at one of three things:
+1. **scope** — too many documents sought;
+2. **method** — merits argued in a procedural listing, material too long; or
+3. **two specific limbs** — 1(a)'s characterisation and 1(g)'s overstated wording.
+
+⚠ **And the harshest-sounding of them — the broad-grievance diagnosis — he flagged as speculation
+and immediately qualified with *"you may be right about all of that."***
