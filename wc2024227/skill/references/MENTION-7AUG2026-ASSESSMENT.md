@@ -1903,3 +1903,164 @@ is the more valuable of the two, and it is why the Form 24 that followed is aime
 | 3 | That this is a broad grievance about a workplace | ⚠ **Half true, and unanswered.** It was answered at [10:31] and ignored |
 
 ⇒ **Two of the three are the whole agenda for the hearing.**
+
+---
+
+# PART TWELVE — APPEARANCE, THREADS, AND THE FOUR OBSERVERS' VIEWS
+> Assessment only. No recommendations in this Part.
+
+## PART 1 — WHAT HE APPEARED, HOW HE ANSWERED, AND HOW MANY THREADS HE HELD
+
+### 1.1 What he appeared
+
+**Not a crank, not a performer, and not represented.** Across sixty-five minutes: no rhetoric, no
+indignation, no speeches, no imputation of motive to any individual. Flat, factual, concessive.
+Under criticism he did not bristle; under correction he adopted the correction; under pressure he
+substituted a document rather than defending one.
+
+**The one thing he unmistakably appeared to be is *the author of his own case*** — established not
+by assertion but by defining his own table's headings, status column and sub-items on demand, to a
+Commissioner who had twice said he could not follow them.
+
+### 1.2 How he answered — the four registers he used
+
+| Register | Where | Outcome |
+|---|---|---|
+| **The single word** — *"Exactly." "Correct."* | [14:53], [16:55] | ✅ Closed the topic instantly, twice |
+| **The status claim** — *"I have everything for this."* | [54:52] | ✅ Closed an entire stressor in five seconds |
+| **The taught explanation** — the table, the filters, A–E | [23:24]–[26:31] | ✅ Built comprehension across six attempts and it held 36 minutes |
+| **The five-part construction** — frame, negate, content, label, extend | [08:37], [13:38], [51:57] | ⛔ Buried the point in the middle every time |
+
+⇒ **Three of his four registers worked. The fourth is the one he defaults to under load**, and it
+is the one that produced every failed contribution.
+
+### 1.3 ⭐⭐ THE THREADS — HOW MANY HE WAS HOLDING
+
+**Twelve content threads**, all opened by the Commissioner walking the pleading, all of which he
+answered on:
+
+1 the role and the emergency function · 2 the database and the directives · 3 Ms Taylor's presence
+and hours · 4 the consequence at the console · 5 the Communication Book · 6 the August–September
+2023 grievance · 7 special pandemic leave · 8 the complaint and the retraction · 9 union
+representation · 10 pay (the 42% and the AVACs) · 11 the 17–18 March break and fatigue ·
+12 the post-injury conduct
+
+**Nine meta threads**, running concurrently and never closed:
+
+13 the Form 29's twenty items and sub-items · 14 the two-page summary's own structure ·
+15 what is in the Regulator's disclosure · 16 what he personally holds · 17 the Commissioner's
+register preference *(learned ~10 min, applied from 14 min)* · 18 the Commissioner's evolving
+disposition · 19 the running concede-or-press decision · 20 his own credibility after the AI
+question · 21 the cost exposure once raised at [31:32]
+
+⇒ **≈21 threads across the hour. Peak simultaneous load: five.**
+
+Measured at [13:27]–[14:09] — access records, login records, the annexed attachment, the
+proposition to be proved, and the organising abstraction, all in one breath-group. Measured again
+at [23:24]–[26:31] — the item numbers, the table's structure, the filter concept, what he actually
+wanted (*the count*), and the Commissioner's comprehension state.
+
+### 1.4 ⭐⭐⭐ What the thread analysis shows
+
+**He never lost a content thread.** Every one of the twelve was answered when raised, none was
+forgotten, none was confused with another, and thread 4 (the consequence) he returned to twice
+unprompted after being moved off it.
+
+**The two failures were not thread failures.** They were:
+- **thread 15** — *retrieval from a corpus he had received but not organised*; and
+- **serialisation** — emitting a five-item parallel structure through a linear channel.
+
+⇒ **He held more than the hearing asked him to hold. What broke was output, and one external
+lookup.**
+
+---
+
+## PART 2 — THE FOUR OBSERVERS: STARTING AND ENDING THOUGHT
+
+### 2.1 ⚠ THE WITNESSES — they were not there
+
+Ms Jeffrey, Mr Harrison-Jones and Ms Conaghan did not attend and formed no view of the mention.
+Their view of him predates it and is independent of it:
+- **Ms Jeffrey** had already given WorkCover two written statements (18 July and 1 August 2024) —
+  she had committed to supporting his account **two years before** the mention.
+- **Ms Conaghan** co-signed the 7 August 2023 hours request and was endorsed as a delegate
+  alongside him on 3 November 2025.
+- **Mr Harrison-Jones** is a former employee who worked beside him.
+
+⇒ **Nothing that happened on 7 August changed anything for them.** The only live question on their
+side is whether they have been asked — and the outlines record that several paragraphs remain
+*"to be confirmed with the witness."*
+
+### 2.2 COMMISSIONER DWYER
+
+**Starting thought — and he stated it aloud** [05:42]:
+> *"it's not at all uncommon to find an unrepresented person with an **intense focus on proving
+> certain things that are ultimately… utterly irrelevant**… sometimes people in that situation are
+> **very, very unwillingly disavowed** of that view. **That's what I'm going to attempt to do this
+> morning.**"*
+
+⇒ **He walked in expecting resistance from a man attached to irrelevant material.**
+
+**Ending thought — on the man:**
+- knows his own file (handed him the pace at [53:34])
+- *"we probably should have led with that"*
+- narrows when shown why
+- *"floundering around a bit"* — expressly qualified as not a criticism
+- holds a broad systemic grievance he does not need to prove
+
+**Ending thought — on the case:**
+- 1(a): **sceptical** — *"like a manager… totally legitimate"*
+- 1(g): **disbelieving** — twice
+- 1(b)–(f): **neutral**, and documented
+- Stressor 2: **mildly sceptical**
+- ⛔ **Stressor 3: no view formed at all** — ninety-nine seconds, never examined
+- The one live point: **Ms Taylor's directive emails** — *"you might be on to something there"*
+
+⇒ ⭐⭐⭐ **The decisive finding: his view of the man improved markedly across the hour; his view of
+the case did not move at all.** The adverse views on 1(a) and 1(g) were formed in the first half and
+never revisited, and **no view whatever was formed on the strongest limb.**
+
+⚠ **The Commission therefore ended with a picture of the case that is worse than the case is** —
+because the sample it examined was selected by a disclosure lens, which skipped everything
+well-documented.
+
+### 2.3 THE REGULATOR (Ms Matheson)
+
+**Starting:** a self-represented appellant generating interlocutory work, whose prior notice she had
+answered in February 2026 and whose Form 29 and 64G she had watched accumulate.
+
+**During:** near-silent. Answered when asked about disclosure [17:24]; *"Only just now"* on the
+two-pager; nothing volunteered at [61:26].
+
+**Ending:**
+- the interlocutory problem is resolved without her having to argue it
+- ⚠ she has been told from the bench that **the Regulator must contradict what it disputes**, and
+  that **uncontradicted evidence is likely to be accepted**
+- ⚠ she has been told the Commissioner **expects her to call Ms Taylor**
+- ⚠ she has been publicly vouched for as a **model litigant** who *"can't hide stuff from you"* —
+  which is a standard she is now held to on the record
+
+⇒ Her posture 21 days later is consistent with all of that: **minimal commitment** — *"The
+Regulator cannot confirm its witnesses at this stage"* — while volunteering the amendment route.
+**She is conceding nothing early and closing nothing off.**
+
+### 2.4 METRO SOUTH (Ms Ruttan and two colleagues)
+
+**Starting:** attending under order after failing to appear at the previous mention; expecting to
+defend a comprehensive objection; resourced for a contest.
+
+**Ending:** relief on the outcome, and a considerably raised estimate of the man —
+he wrote his own material, he does not overstate, he concedes readily and therefore cannot be
+broken on exaggeration, **and his clinical-governance framing threatens the Health Service in a way
+it does not threaten the Regulator.**
+
+⚠ And the two things a careful opponent would have written down: that **he gave away the application
+by twice denying he held documents that are in the disclosure** — and that **he will find them.**
+
+---
+
+## THE ONE-LINE SUMMARY OF PART 2
+
+**Three of the four observers ended thinking better of him than they began.** The Commissioner
+ended thinking better of *him* and no better of *his case* — and the limb most likely to win it is
+the one he never looked at.
