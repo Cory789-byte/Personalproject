@@ -1,7 +1,7 @@
 {
  "meta": {
   "file": "SCRATCHPAD_REASONING.json",
-  "generated": "2026-08-28 (rev 2 — six further documents integrated)",
+  "generated": "2026-08-28 (rev 3 — the Roberts thread integrated; D6 defect confirmed as SERVED)",
   "matter": "WC/2024/227 Shepherd v Workers' Compensation Regulator (QIRC, s 550(4) WCRA)",
   "status": "INTERNAL WORKING SCRATCHPAD — not for service, not for filing, not quotable externally",
   "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
@@ -194,6 +194,101 @@
     "Contains THIRD-PARTY names and payroll numbers. If it is ever served or tendered, consider redaction of other employees' payroll numbers.",
     "Hand-annotated in several colours - the annotations are not attributed on the face of the document. Do not assert who wrote them.",
     "The scanner metadata date (Oct 2020) is consistent with the content, but the document is a SCAN and its provenance should be stated when used."
+   ]
+  },
+  {
+   "id": "D9",
+   "title": "Email thread — 'Re: Follow up on Enquiries', Cory <-> Jacqui Roberts (Principal Consultant, HR, LBHS)",
+   "pages": 12,
+   "span": "18 August – 28 August 2026",
+   "cc": "Emily Petering (Together Qld), Terry McQuillan (MSH), LBHS Human Resources Team 1",
+   "significance": "HIGHEST — it confirms the authorisation defect was SERVED, and it dates the gate",
+   "chronology": [
+    {
+     "when": "18 Aug 15:22",
+     "who": "Roberts",
+     "what": "proposes meeting; cc Petering and LBHS HR Team 1"
+    },
+    {
+     "when": "18 Aug 17:22",
+     "who": "Cory",
+     "what": "confirms 14:30-16:30 Friday (21 Aug)"
+    },
+    {
+     "when": "Fri 21 Aug",
+     "who": "—",
+     "what": "meeting held; cut short (phone died); no outcome"
+    },
+    {
+     "when": "24 Aug 07:44",
+     "who": "Roberts",
+     "what": "'Sorry technology let us down on Friday'; offers Tue 25 Aug 3-5pm or Fri 28 Aug 9-11am; Petering available"
+    },
+    {
+     "when": "24 Aug 11:13",
+     "who": "Cory",
+     "what": "THE KEY EMAIL — see below"
+    },
+    {
+     "when": "24 Aug 12:19",
+     "who": "Roberts",
+     "what": "'I will review and come back to you'; 'I am speaking with Chloe this afternoon in relation to applying your leave'"
+    },
+    {
+     "when": "25 Aug 15:08",
+     "who": "Roberts",
+     "what": "Teams invite to continue (D10)"
+    },
+    {
+     "when": "27 Aug",
+     "who": "—",
+     "what": "Cory's appointment with Dr Krishnaiah"
+    },
+    {
+     "when": "28 Aug 14:18",
+     "who": "Cory",
+     "what": "the withdrawal email — SENT"
+    }
+   ],
+   "verbatim_24AUG": [
+    "'I apologise for Friday and for the state I was in.'",
+    "'For ease of reference, I attach: the QSuper letter; the communication I believe prompted the ECC; my movement details; MY AGREEMENT TO THE SHARING OF MEDICAL INFORMATION AND CORRESPONDENCE WITH MY TREATING PSYCHIATRIST'",
+    "'In the circumstances, I ask to be advised, IN ADVANCE, of what information is being shared with my treating psychiatrist, what questions are being asked of them, and what is proposed to be included in any correspondence with them.'",
+    "'In the interim, while Metro South Health seeks clarification regarding my medical information, I respectfully request that the appropriate leave be applied and that an AVAC be submitted on my behalf to facilitate the processing of my entitlements.'"
+   ],
+   "verbatim_28AUG": [
+    "'First, I wish to withdraw the Stage 2 grievance referral. My preference is to work through the outstanding issues directly with you. To be clear, I am withdrawing THE REFERRAL ONLY. My concerns regarding pay, the leave debited since 3 July 2026, and the adjustments contained in the Employee Capability Checklist dated 3 July 2026 remain unresolved and in dispute.'",
+    "'Second, could you please provide an update on the AVAC following your discussion with Ms Taylor on 24 August?'",
+    "'Third, I attended an appointment with my psychiatrist, DR RAVIKUMAR BANGALORE KRISHNAIAH, on 27 August 2026. Dr Krishnaiah advised that, DESPITE THE AUTHORITY I PROVIDED, QUEENSLAND HEALTH HAS NOT YET RESPONDED TO HIS REQUEST FOR INFORMATION.'",
+    "'Finally, could someone please contact Dr Krishnaiah's practice so that preparation of the report is not delayed? I would also appreciate being advised of any information being shared with Dr Krishnaiah and the matters on which their opinion is being sought.'"
+   ],
+   "why_it_matters": [
+    "STAR STAR STAR: THE 24 AUGUST EMAIL ATTACHED THE LIMITED SCOPE AUTHORISATION (D6). It is therefore NOT a draft awaiting signature — IT HAS BEEN SERVED ON MSH, naming 'Dr Rai Ravi Ravikumar'. See the elevated risk entry.",
+    "STAR STAR STAR: the name is definitively confirmed by Cory's own email of 28 August — 'Dr Ravikumar Bangalore Krishnaiah'. The authorisation names a different person.",
+    "STAR STAR: THE GATE IS NOW DOCUMENTED AND DATED. As at 27 August 2026 Queensland Health had NOT responded to Dr Krishnaiah's request for information. Direction 2 (4pm 9 September) is at real risk and the 2 September registry backstop is now ESSENTIAL, not optional.",
+    "STAR: the withdrawal is correctly framed — the REFERRAL only, with pay, the leave debited since 3 July, and the ECC adjustments expressly preserved as unresolved and in dispute.",
+    "STAR: he asked TWICE (24 and 28 August) to be told in advance what information MSH sends the psychiatrist and what questions are asked. Unanswered on the face of this thread. That request is protective and should be pressed.",
+    "The AVAC request is dated 24 August; Roberts spoke with Ms Taylor about leave on 24 August; the update was sought on 28 August."
+   ],
+   "cautions": [
+    "'I apologise for Friday and for the state I was in' is a candid disclosure of his condition made to the employer DURING a capacity process. Candour is right and should not be undone — but note it exists and that MSH holds it.",
+    "The thread is employment-track. THE LEAKAGE RULE APPLIES: none of this vocabulary enters the 9 September package."
+   ]
+  },
+  {
+   "id": "D10",
+   "title": "Teams meeting invitation — 'Meeting - Cory Shepherd', Jacqui Roberts",
+   "pages": 3,
+   "date": "25 August 2026, 15:08",
+   "to": "Cory Shepherd, Terry McQuillan, Emily Petering (Together Qld)",
+   "verbatim_findings": [
+    "'**Update 25/08/2026 – For Internal information only – adding in meeting room, not relevant for Emily or Cory**'",
+    "'As arranged, here is the link to join the meeting to continue our discussions from Friday.'"
+   ],
+   "why_it_matters": [
+    "Confirms the 21 August meeting was not concluded and was resumed on 25 August, with the union (Ms Petering) present.",
+    "MINOR INFORMATION-HANDLING OBSERVATION: an annotation expressly marked 'For Internal information only... not relevant for Emily or Cory' was left in a message sent TO Emily and Cory. Not material to the appeal; note it, do not run it.",
+    "Terry McQuillan is a consistent participant in the HR thread — record the role."
    ]
   }
  ],
@@ -429,11 +524,24 @@
    "before_it_is_ever_answered": "Obtain FORMAL COGNITIVE TESTING. The Feb 2025 report records cognitive difficulty 'particularly with concentration and working memory' but expressly that 'no formal cognitive assessment was conducted'."
   },
   {
-   "rank": 6,
-   "risk": "The Limited Scope Medical Information Authorisation, as drafted",
+   "rank": "1-EQUAL — ELEVATED",
+   "risk": "THE LIMITED SCOPE AUTHORISATION HAS BEEN SERVED WITH THE WRONG PRACTITIONER NAME, AND IS THE LIKELY CAUSE OF THE GATE",
    "detail": "Names the wrong practitioner ('Dr Rai Ravi Ravikumar' for Dr Ravikumar Bangalore Krishnaiah), and at clauses 1 and 3 authorises a report answering the EMPLOYER's questions - which re-opens RFMI Q7/Q6/Q9, the very questions the narrowing of the psychiatric instruction was designed to defer.",
    "tension": "Sits against the s 89 letter of 3 August 2026, Part 5(c), which expressly refused consent to the clinical material being used in connection with any other proceeding.",
-   "action": "DO NOT SIGN as drafted. Correct the name. Confine cl 3 by question number, excluding Q3 and Q9. Shorten the duration."
+   "action": [
+    "TODAY: reissue a corrected authorisation naming Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service, verified against the 13 February 2025 report and provider number 473280RT.",
+    "Send it to Jacqui Roberts with one line: the earlier authority contained a typographical error in the practitioner's name; this corrected authority replaces it; please action it today so the report is not delayed.",
+    "At the same time, narrow clause 3 by question number — exclude RFMI Q3 and Q9 — and shorten the twelve-month duration.",
+    "Send a copy to Dr Krishnaiah's practice so both ends hold the same instrument.",
+    "STILL DO the 2 September registry backstop regardless. Do not let the corrected authority substitute for the extension application."
+   ],
+   "confirmed": [
+    "D9 (24 Aug 11:13) attached 'my agreement to the sharing of medical information and correspondence with my treating psychiatrist' — i.e. D6 WAS SENT TO MSH ON 24 AUGUST 2026.",
+    "D6 names 'Dr Rai Ravi Ravikumar'.",
+    "D9 (28 Aug) confirms the treating psychiatrist is 'Dr Ravikumar Bangalore Krishnaiah'.",
+    "D9 (28 Aug) records that as at 27 August, 'despite the authority I provided, Queensland Health has not yet responded to his request for information'."
+   ],
+   "inference": "An authority naming a practitioner who does not exist cannot safely be acted on. The wrong name is a concrete, fixable and highly probable cause of the non-response now blocking the 9 September report. It is not the only possible cause, but it is the one that can be eliminated today."
   }
  ],
  "the_report": {
@@ -566,28 +674,49 @@
  },
  "clocks": [
   {
+   "date": "2026-08-28",
+   "what": "Form 24 / Form 25 / Annexure A / Part B SERVED. r 49 14-day clock running.",
+   "status": "DONE"
+  },
+  {
+   "date": "2026-08-28",
+   "what": "Stage 2 withdrawal email SENT to Roberts, 14:18",
+   "status": "DONE"
+  },
+  {
+   "date": "IMMEDIATE",
+   "what": "REISSUE THE CORRECTED MEDICAL AUTHORISATION — wrong practitioner name, served 24 Aug, likely cause of the gate",
+   "status": "URGENT"
+  },
+  {
    "date": "2026-09-02",
-   "what": "HARD BACKSTOP - registry extension email on direction 2 if the report is not in hand"
+   "what": "HARD BACKSTOP — registry extension email on direction 2. NOW ESSENTIAL: the gate is documented and dated (Dr K, 27 Aug: QH has not responded).",
+   "status": "OPEN"
   },
   {
    "date": "2026-09-09 16:00",
-   "what": "FILE+SERVE witness list (direction 1); SERVE outlines and any expert report (direction 2)"
+   "what": "FILE+SERVE witness list (direction 1); SERVE outlines and any expert report (direction 2)",
+   "status": "OPEN"
   },
   {
    "date": "2026-09-09",
-   "what": "Calderbank #3 - only if the report is in hand; 21 days, expiring ~30 Sept"
+   "what": "Calderbank #3 — only if the report is in hand; 21 days, expiring ~30 Sept",
+   "status": "CONDITIONAL"
   },
   {
    "date": "2026-09-11",
-   "what": "Form 24 / Form 25 responses fall due. r 49 - silence for 14 days IS the admission. DO NOT CHASE MATHESON."
+   "what": "Form 24 / Form 25 responses fall due. r 49 — silence IS the admission. DO NOT CHASE MATHESON.",
+   "status": "OPEN"
   },
   {
    "date": "2026-09-30 16:00",
-   "what": "Respondent's witness list, outlines and any expert reports. READ IT - it answers everything."
+   "what": "Respondent's witness list, outlines and any expert reports. READ IT — it answers everything.",
+   "status": "OPEN"
   },
   {
    "date": "2026-10 early",
-   "what": "Direction 5 election - second s 552A conference vs hearing"
+   "what": "Direction 5 election — second s 552A conference vs hearing",
+   "status": "OPEN"
   }
  ],
  "critical_sequencing_note": "The Form 24 was served 28 August 2026. Responses fall due 11 SEPTEMBER - TWO DAYS AFTER the expert report is due on 9 September. The 308 new facts are NOT admitted in time for the report. The psychiatric report therefore rests on the FEBRUARY 2026 admissions (the Regulator's response of 18 Feb 2026), which Dr Krishnaiah already holds as Attachment 1.",
@@ -621,6 +750,16 @@
   "The gap between the ECC appointment booked for 5 June 2026 (D7) and the ECC as executed on 3 July 2026 - account for it.",
   "Whether the hand annotations on the 2020 roster (D8) are attributable to anyone - do not assert.",
   "Whether D8 needs third-party payroll-number redaction before any service or tender.",
-  "Confirm Dr Krishnaiah's exact name and provider number from the 13 February 2025 report before any authorisation is signed."
- ]
+  "Whether the wrong practitioner name on the served authorisation is in fact why Queensland Health has not responded to Dr Krishnaiah — ask Roberts directly when reissuing.",
+  "What information MSH proposes to send Dr Krishnaiah, and what questions it proposes to ask — requested twice (24 and 28 August), unanswered.",
+  "The AVAC status following Roberts' discussion with Ms Taylor on 24 August.",
+  "Terry McQuillan's role."
+ ],
+ "people": {
+  "Jacqui Roberts": "Principal Consultant, Human Resources, Logan and Beaudesert Health Services, Metro South Health. p (07) 3542 2384 / 0487 313 927. The HR contact on the employment track since ~18 Aug 2026.",
+  "Terry McQuillan": "Metro South Health — consistent cc on the Roberts HR thread. Role not yet established.",
+  "Emily Petering": "Industrial officer, Together Queensland — attending the HR meetings.",
+  "Chloe Taylor": "Switchboard Manager, Switchboard Services, Logan Hospital. STILL the line manager as at May 2026 (D7). Roberts spoke with her about applying leave and the AVAC on 24 August 2026.",
+  "Dr Ravikumar Bangalore Krishnaiah": "Consultant Psychiatrist, Mind and Memory Service. Provider 473280RT. Name CONFIRMED from Cory's email of 28 August 2026. NOT 'Dr Rai Ravi Ravikumar'."
+ }
 }
