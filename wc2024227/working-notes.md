@@ -6817,3 +6817,36 @@ distinct from the s 23 entitlement. Only then decide whether it goes in the 9 Se
 - Deliberate non-adoptions from the review recorded there and in the session log:
   Sections R/N kept, pleading-quote juxtapositions kept, Part B kept as aid,
   PO Box 10119 kept + Matheson email added, negatives kept itemised.
+
+## 2026-08-28 14:09 — MATHESON REPLIES ON WITNESSES: "cannot confirm at this stage"
+Reply to Cory's 13:48 email (EMAIL 2 of the covering pair — directions/witnesses). Verbatim:
+> "The Regulator cannot confirm its witnesses at this stage. The parties should call witnesses
+> who they consider will provide evidence in support of their case. In response to your concerns
+> in relation to the Regulator's list, the parties can amend their list of witnesses with leave
+> of the Commission, should changes become necessary."
+
+READ:
+1. ⭐ She volunteered the AMENDMENT ROUTE unprompted. He asked whether they would call Taylor/
+   Reese/Stibbard; she declined to say and pointed him at leave to amend. That is the shape of
+   "you may need it" — a soft signal that MSH witnesses may not be on her list.
+2. ⭐⭐ THE EMAIL IS AN ASSET. It is written proof that he asked early, that the Regulator could
+   not answer, and that the Regulator itself identified amendment-with-leave as the remedy. If
+   Taylor is not on the 30 Sept list, this email is the foundation of the amendment application.
+   FILE IT.
+3. ⚠ TRAP IN THE FRIENDLINESS: "the parties should call witnesses who they consider will provide
+   evidence in support of their case" nudges him to LIST TAYLOR. ⛔ DO NOT. Guide 7.6.2 — the
+   party who did not call the witness cross-examines. Listing her forfeits the cross.
+4. Sequencing explains the non-answer: his outlines 9 Sept → Form 24 responses ~11 Sept → her
+   list 30 Sept. SHE SEES HIS HAND BEFORE SHE SHOWS HERS. "Cannot confirm" is probably honest.
+5. ⭐⭐⭐ STRUCTURAL POINT: the Regulator does NOT employ Taylor, Reese or Stibbard — MSH does.
+   For her to call them MSH must cooperate. "Cannot confirm" may mean "I do not yet know whether
+   MSH will give me anyone." Ties directly to Part Nine of the mention assessment.
+6. ⭐ WHAT PULLS HER TOWARD CALLING TAYLOR: her own SOFC pleads positives that die without her —
+   14(f) "a matter of human error by Ms Taylor on the background of high work demands"; 14(e) "a
+   review indicates that in fact, the attachments were present"; 22(a) "human error and not
+   intentional or repeated"; and the "roster was equitable" denial. Nobody but Taylor can prove
+   Taylor's state of mind. A no-witness case abandons the human-error defence entirely.
+ACTIONS: do not chase her again; serve the Form 24/25 (that is what shapes her decision);
+Taylor and Reese stay OFF his list, position reserved; diarise 30 Sept.
+⚠ OPEN: her reply addresses EMAIL 2 only. Confirm whether EMAIL 1 (service of Form 24, Form 25,
+Annexure A, Part B) has actually been sent — the 14-day clock does not start until it has.
