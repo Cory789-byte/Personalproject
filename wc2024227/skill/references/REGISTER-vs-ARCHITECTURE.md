@@ -94,3 +94,45 @@ already demonstrated in the room.
 ⇒ ⭐ **And it is the whole argument for the plainer register.** The architecture was never the
 problem; it was the only thing that worked. **The filings should now look like the table and sound
 like the man who explained it** — which is what the one-page outlines and the narrowed report do.
+
+---
+
+## 6. ⭐ HOW UNUSUAL THE MAP ACTUALLY WAS — AND THE FLAW INSIDE IT
+
+**Handing something up is not rare.** Counsel do it constantly — chronologies, outlines, notes,
+lists of authorities. Those are **conventional genres**, and a Commissioner reads them on sight.
+
+⭐⭐ **What was unusual here is the combination:**
+
+| | |
+|---|---|
+| **Self-represented** | The instinct under pressure is to hand up **more material**. He handed up **less** |
+| ⭐⭐ **A map, not content** | Told he had over-supplied, he answered with an **index** rather than an argument. **He diagnosed the problem as navigability, not volume** — which was correct |
+| ⭐ **His own notation** | *"disposition of items"*, *"status: press"*, *"manager email filters A–E"*. Not a chronology, not a Form 23 list. **A bespoke schema** |
+| **Two pages** | against a filing just described as *"page after page after page after page"* |
+
+## 7. ⛔⛔ BUT THE NOTATION WAS THE FLAW — AND IT IS THE LESSON FOR 9 SEPTEMBER
+
+**Dwyer could not read it.** *"Doesn't make any sense to me."* · *"What does press mean?"* ·
+*"What does filters mean?"* · *"A–E, what's that a reference to?"* · *"I still don't understand."*
+**Five expressions of incomprehension in three minutes**, over a two-page document.
+
+⚠ **A plain table — *what I still want · why · where it comes from* — would have been read in thirty
+seconds and needed no explanation at all.**
+
+⇒ ⭐⭐⭐ **The document's weakness produced its strongest effect.** Because it could not be read, it
+had to be **explained** — and the explanation is what proved authorship, inverted the roles, and put
+the concept into the Commissioner's mouth for the next forty minutes.
+
+⛔⛔ **That was a rescue, not a method. It must not be repeated.**
+
+### THE RULE FOR THE 9 SEPTEMBER PACKAGE
+1. ⛔ **Direction 2 is SERVE-ONLY.** The outlines go to the Regulator **with no hearing attached**.
+   **There is no opportunity to explain them to anybody.**
+2. ⛔ **At the hearing, nobody will walk him through his own outline.** The mechanism that rescued
+   the index is **structurally unavailable** from here on.
+3. ⭐ ⇒ **Every document from now must be readable on sight, by a stranger, with no author present.**
+   Conventional headings. No private vocabulary. No status codes. **If a term needs explaining, it
+   has already failed.**
+4. ⭐ **Keep the architecture. Change the notation.** The thinking that built the index is the asset;
+   the labels it wore are not.
