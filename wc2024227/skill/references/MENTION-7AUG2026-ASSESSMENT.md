@@ -2190,3 +2190,103 @@ telling the Appellant, in advance, that the characterisation is where he would l
 ⇒ **That was not an idle observation. It was a preview of the real battleground, from someone who
 had looked at both pleadings** — which makes the answer to it (consequence, not absence of
 consultation) more important, not less.
+
+---
+
+# PART FOURTEEN — DID HE EXPECT THE RESISTANCE TO BE HARDER TO OVERCOME?
+
+## Yes. He said so, out loud, at five minutes — and he built the hour for it
+
+> [05:42] *"I fully appreciate that as a person who is not represented, you may have some difficulty
+> differentiating between relevant and irrelevant. In fact, it's not at all uncommon to find an
+> unrepresented person with an intense focus on proving certain things that are ultimately from an
+> objective legal perspective utterly irrelevant. **It has been my experience throughout my career
+> that sometimes people in that situation are very, very unwillingly disavowed of that view. That's
+> what I'm going to attempt to do this morning.**"*
+
+⭐ ***"Very, very unwillingly."*** A doubled intensifier, in a prepared opening. **That is a stated
+prediction of hard resistance, made before a word of substance had been exchanged.**
+
+## The six things he built to overcome it
+
+| Preparation | What it tells you |
+|---|---|
+| **He budgeted an hour** — *"It's going to take us a little bit of time this morning"* [05:03] | He expected the disavowal to take time |
+| **He asked permission** — *"anybody got any objections to me going through this process?"* [12:05] | **You only seek consent for something you expect to be resisted** |
+| **He pre-deployed reassurance** — *"I'm not being critical of you"* [06:47] · *"I'm not saying you are entirely wrong"* [07:19] | De-escalation held ready, used before any friction occurred |
+| **He warned he would be firm** — *"I also need to be **very firm** in terms of explaining these things to you"* [06:56] | Anticipating pushback |
+| **He held an escalation in reserve** — *"if we can't work this out today… I'm going to schedule this disclosure dispute for a hearing"* [30:00] | A contingency for failure of the method |
+| **He prepared leverage** — the cost warning, outside lawyers, *"bigger than the hearing at the end of the day"* [31:32] | Pressure, ready if persuasion failed |
+
+⇒ ⭐⭐ **The whole architecture of the hour is a machine for overcoming an opponent who will not let
+go.** At [31:06] he names the objective in terms: *"where you can be **disavowed of the need** to
+extract thousands of documents."*
+
+## When he realised it was not coming
+
+Three receptiveness signals, all volunteered:
+
+> [30:12] *"Yeah. **I actually understand what you're getting to.**"*
+> [32:01] *"I think I can understand where you're getting it. I think I can make most of the way."*
+> [53:26] *"I think I actually said that **I'm not asking disclosure about that anymore**."*
+
+And the response to the third is the moment the expectation collapses:
+
+> [53:34] *"**We probably should have led with that.** … I'll leave it up to you to tell me if we get
+> into anything you think we don't need to get into, **you tell me** it'll save us some time…
+> **Don't worry about interrupting me on that score.**"*
+
+⭐⭐⭐ **That is the sound of a man discovering the resistance he prepared for does not exist.** He
+had spent fifty-three minutes building toward a narrowing the Appellant had, on his own account,
+already conceded — and he **abandoned the method mid-execution and handed over the pace.**
+
+## ⭐⭐ AND THE UNDERLYING FACT: THE APPELLANT NEVER ONCE DEFENDED THE APPLICATION
+
+Across sixty-five minutes he does not say *"I need this"*, *"you should order it"*, or *"the
+objection is wrong"* at any point. What he does instead:
+
+- **explains** what the items were for [13:38], [23:40]
+- **narrows** — *"I basically just want the count. I don't even… For me, it doesn't matter"* [24:06]
+- **withdraws** — *"I'm not asking disclosure about that anymore"* [53:26]
+- **agrees** — *"Sounds good"* [63:41]
+
+⇒ **He was never disavowed of anything, because he never held the position Dwyer came to break.**
+
+**The tonal record confirms it.** Before thirty minutes: *"I need to be very firm"*, *"I must
+confess"*, *"genuinely incomprehensible"*, *"I switch off"*, *"I'm not picking on you"*. After
+thirty minutes: *"That's okay. That's all right."*, *"Fine, that's okay"*, *"Okay, awesome"*,
+*"don't worry about interrupting me."* **The register changes at almost exactly the point the first
+receptiveness signal is given.**
+
+## ⚠ THE COST OF NOT RESISTING — AND IT IS REAL
+
+Dwyer prepared to disavow the Appellant of **irrelevant** focuses. Because the Appellant folded
+**across the board**, the relevant focuses folded with the irrelevant ones. **Two things that
+should have been pressed never were:**
+
+1. ⭐⭐⭐ **The MET call spreadsheet.** MSH's own objection says a spreadsheet of recorded MET calls
+   *"is available for the period 17–18 March 2024"* — and it is not in the enclosure list. **A
+   conceded, existing, unproduced document, on the exact shift pleaded in Stressor 3(a).** It was
+   never mentioned in the hearing.
+2. ⭐⭐ **The restricted mailbox.** Offered twice, cut off once, never pressed. It is the answer to
+   *"have you examined the disclosure?"* and to *"have you got that email?"* — the two questions
+   that cost the application.
+
+⇒ **The resistance Dwyer feared would have been useful in about two places. Not across twenty
+items — two.**
+
+## ⚠ AND HIS EXPECTATION DROVE THE ALLOCATION
+
+He spent longest where he anticipated the most argument — **eighteen minutes on 1(a)** and **seven
+on 1(g)** — and **ninety-nine seconds on the whole of Stressor 3**, which generated no argument at
+all because the Appellant simply said *"I have everything for this."*
+
+⇒ ⭐⭐ **Being easy to persuade produced a hearing in which the two limbs he doubts were examined
+exhaustively and the limb that is proved was not examined at all.** The compliance was rewarded in
+the Commissioner's view of the man, and paid for in the Commissioner's view of the case.
+
+## THE ANSWER, IN ONE LINE
+
+**He expected to have to prise the application out of a man who would not let go. He met a man who
+handed it over, and adjusted his method twice inside the hour to account for it — improving his
+opinion of the litigant while never having to test the two points on which the litigant was right.**
