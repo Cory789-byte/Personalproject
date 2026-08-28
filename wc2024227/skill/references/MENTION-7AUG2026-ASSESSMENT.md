@@ -1534,3 +1534,121 @@ about disclosure.
    CE letter** now sitting in Annexure A. It said what it said.
 4. ⚠ **Do not reactivate them.** Every disclosure step against MSH gives them a reason to appear,
    to be heard, and to explain the letter. **The letter is more useful unexplained.**
+
+---
+
+# PART NINE — WAR-GAME: MSH DOES NOT WANT ITS MANAGERS IN THE BOX
+
+> A live scenario, not a curiosity. After 7 August, MSH has good reason to keep Ms Taylor,
+> Ms Reese and Ms Stibbard out of the witness box — **and the appeal's cross-examination route
+> depends on the Respondent calling them.** This Part works the scenario through.
+
+## 54. WHY MSH WOULD NOW WANT THEM OUT
+
+Their lawyer heard Dwyer say the Regulator would probably call Ms Taylor and that the Appellant
+would cross-examine her [35:11]. She also knows what is now in the annexure. In the box, on their
+own documents, the managers can be taken to:
+
+| Witness | The document that does the work |
+|---|---|
+| **Ms Taylor** | her 9 May 2024 email — *"many ongoing issues… about calls being transferred to the wrong medical teams"*; her 9 May email asking Dr Wong to confirm her hours, against the 15 May direction that the Appellant retract his; the two pandemic-leave declines and the 21 February *"5 days"* reason against the pleaded statutory-declaration reason; the 15 April on-call directive *"effective from today"* |
+| **Ms Reese** | *"I acknowledge there has been a few rostering errors made by Chloe with regards to Cory's line in past rosters"* — against the pleading that it was *"not intentional or repeated"*; and *"Cory's roster will not be considered, however Cory is not yet aware of this as we cannot advise what is the roster we are planning on going with"* |
+| **Ms Stibbard** | the 18 July 2023 removal of database access, her own two-days-a-fortnight availability, and what consideration preceded a change to an emergency-dispatch control |
+
+⇒ **The unassessed element of Stressor 1(a) can only be proved or disproved by the people who made
+the decisions.** That is precisely why they are valuable in the box — and precisely why MSH would
+prefer them out of it.
+
+## 55. ⛔⛔ WHY THIS MATTERS MORE THAN IT LOOKS — WHO CALLS THE WITNESS DECIDES EVERYTHING
+
+**Appeal Guide 7.6.2:** *"After the examination-in-chief has finished, **the party who did not call
+the witness** will conduct the cross-examination."*
+
+| If… | Then |
+|---|---|
+| **The Respondent calls Ms Taylor** | ⭐ The Appellant **cross-examines** — leading questions, closed, document-anchored. This is the route Dwyer identified: *"you could put it to her"* |
+| **The Appellant calls Ms Taylor** | ⛔ He must conduct **examination-in-chief** — no leading questions, no confrontation — and **the Regulator's counsel cross-examines her**, i.e. gets to rehabilitate her |
+
+⇒ **Keeping Taylor off the Respondent's list does not merely remove a witness. It converts the
+Appellant's best cross-examination into the Regulator's rehabilitation opportunity.** That is the
+real damage MSH could do, and it does not require MSH to do anything improper at all — only to
+decline to volunteer.
+
+⚠ The s 17 *Evidence Act 1977* (Qld) unfavourable-witness route is discretionary, must be applied
+for, and is not something a self-represented appellant should plan around.
+
+## 56. ⭐⭐ BUT THE COST RUNS BOTH WAYS — AND DWYER SAID SO
+
+If the Respondent calls nobody, it must run the appeal on documents and submissions alone. Dwyer
+stated the consequence twice:
+
+> *"the regulator does have to contradict things that you say… **if you say something and it's not
+> contradicted, then the likelihood is… it will be accepted**"* [15:40]
+> *"if you give evidence that you were sent unassessed directives… and the regulator doesn't
+> contradict it, doesn't cross-examine you, doesn't produce documents for you to comment on…
+> **that's a problem for them, not for you**"* [28:56]
+
+⇒ **Neither side can costlessly keep Ms Taylor out.** MSH keeps her out of the box and the
+Appellant's account of erratic presence, the raised voice, the console observations and the fatigue
+stands uncontradicted from the only person who was there.
+
+## 57. ⭐⭐⭐ THE FORM 24 IS THE INSURANCE AGAINST THIS EXACT SCENARIO
+
+This is the point that resolves the war-game.
+
+**If the documentary facts are admitted or deemed admitted, the witnesses are no longer needed to
+prove them.** The 39 documents come in without a witness; the chronology is fixed; the intervals are
+arithmetic on admitted dates. What is left in dispute is **characterisation**, which is argument,
+not evidence.
+
+⇒ **The Form 24 converts "MSH won't give us witnesses" from a threat into an irrelevance for
+everything except four questions** (§58).
+
+⭐ And note the incentive it creates. **The cleanest way for the Regulator to avoid putting Ms Taylor
+in the box is to admit the facts** — because then there is nothing for her to prove or dispute.
+MSH's reluctance therefore *increases* the probability of admissions. The trap is a fair one:
+admitting the chronology is admitting the case, because the chronology **is** the case.
+
+## 58. WHAT ONLY A MANAGER CAN GIVE — THE SHORT LIST
+
+After the Form 24, the Appellant needs Ms Taylor for four things and no others:
+
+1. **Whether any assessment preceded the directives** — the *"unassessed"* element.
+2. **Whether she knew, or turned her mind to, the emergency-dispatch consequence** of removing the
+   operators' ability to correct the directory.
+3. **The raised voice** of 6 June 2023 (contested; not admitted).
+4. **The 21 February 2024 decline reason** — *"the minimum period for Covid leave was 5 days"* —
+   against the pleaded statutory-declaration reason.
+
+⇒ **Four topics. A focused cross-examination, not a general one.** Everything else is on the paper.
+
+## 59. THE THREE SCENARIOS, AND THE POSTURE FOR EACH
+
+| Scenario | Position | Posture |
+|---|---|---|
+| **A. Respondent admits the facts and calls no manager** | ⭐ **Best outcome.** Documents in; Appellant's evidence uncontradicted; only characterisation live | Do not summons. Rely on Dwyer's own principle. Argue the four topics from the documents |
+| **B. Respondent does not admit, and calls no manager** | The Respondent disputes facts while calling nobody able to dispute them | ⭐ **Say exactly that.** Dwyer vouched for the Regulator as a model litigant that *"can't hide stuff from you"* [59:41] — he staked his credibility on it and will hear the point. Then decide on §58 whether a summons is worth the loss of cross-examination |
+| **C. Respondent calls Ms Taylor** | The route Dwyer identified is live | Cross-examine on the four topics only. Short, closed, document-anchored, never *"why"* |
+
+**In all three the Appellant is serviceable.** That is what the Form 24 bought.
+
+## 60. THE DECISION POINT AND THE DISCIPLINE
+
+⭐ **30 September 2026** — the Respondent's witness list falls due under direction 3. **That is the
+date the scenario resolves**, and it is already diarised. Until then:
+
+1. **Ms Taylor and Ms Reese stay OFF the Appellant's list**, with the position reserved in the
+   covering letter. Listing them forfeits the cross-examination.
+2. **If they are not on the Respondent's list**, apply promptly for leave to amend and for
+   attendance notices (Form 32 + 32A/B/C, after hearing dates are set) — **but only if §58 still
+   requires it after the Form 24 responses are in.**
+3. ⛔ **Pay the r 62 expenses in time** or the witness has a lawful excuse not to attend.
+4. ⛔ **The summons decision is made on evidentiary need alone.** The pressure a summons creates for
+   MSH is a by-product of the case's shape, never a reason to issue one. **Nothing is served to
+   apply pressure**, and nothing is ever said to suggest it.
+5. ⚠ **The one genuinely damaging thing MSH can do is reach the Appellant's own witnesses** —
+   Ms Jeffrey and Ms Conaghan are current employees (Part Three). **Offer each of them an attendance
+   notice, so attendance is compelled rather than volunteered**, and route Ms Conaghan through
+   Ms Petering.
+6. ⚠ If reluctance to expose the managers drives a settlement approach, discipline 9 governs:
+   **the deed releases the compensation claim only** — watch the scope.
