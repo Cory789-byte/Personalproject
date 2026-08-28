@@ -304,3 +304,126 @@ reasoning from consequence in a forum that has asked him to start from breach.
 
 ⭐ **All four are fixed by the same two moves: index everything himself, and lead the chain
 backwards from the patient.**
+
+---
+
+# PART THREE — THE COMPREHENSION LOG: EVERY SHIFT, AND WHAT CAUSED IT
+
+> Tracking, minute by minute, where understanding actually moved — whose, in which direction, and
+> what event moved it. **The pattern is unusually clean and it converts directly into a method for
+> the hearing.**
+
+## 14. THE EXPLICIT MARKERS, IN ORDER
+
+| Time | Marker | State |
+|---|---|---|
+| [06:37] | *"do you have any questions or difficulties understanding all of that?"* → *"I understood."* | ✅ check passed |
+| [08:50] | *"**You can explain that to me a bit more clearly** because… it's pretty heavy-going stuff"* | ⛔ not understanding |
+| [09:52] | *"**I can't understand half of what I'm reading.** It is genuinely incomprehensible in some cases"* | ⛔ of the written material |
+| [13:12] | *"How do you propose to prove that other than your own testimony?"* | testing |
+| [14:18] | *"I don't want you to do that now, **which is what you're launching into**"* | ⚠ he understands the *intent* and stops it |
+| [14:38] | *"Is that what you mean by erratic presence?"* → **"Exactly."** | ✅✅ **mutual comprehension, one word** |
+| [16:44] | *"Do you mean by that, **and tell me if I've got this wrong**, that she sent emails in the form of a directive?"* → **"Correct."** | ✅✅ |
+| [18:10] | *"So do you say that in the disclosure… there have been nothing…"* | restating to confirm |
+| [19:55] | *"perhaps I'm getting into stuff you haven't even complained about"* | ⚠ flags his own possible misread |
+| [21:51] | *"my brain doesn't process it… I miss the point. **That's how I fall into error**"* | ⛔ restated |
+| [22:13], [22:37] | *"What am I looking at?"* ×2 | asking |
+| [23:24] | *"Which heading? Which page? What number?"* | ⛔ |
+| [23:38] | *"What does filters mean?"* | ⛔ #1 |
+| [24:29] | *"**Doesn't make any sense to me.**"* | ⛔ of the Appellant's own table heading |
+| [24:42] | *"What does press mean?"* | ⛔ |
+| [24:51] | *"**So you're still pressing for disclosure of manager email filters A-E.**"* | ✅ the ask understood |
+| [25:35] | *"A-E. What's that a reference to?"* | ⛔ relapse |
+| [26:19] | *"**I still don't understand what filters means.** Is this filtered by language? Is that what you're saying?"* | ⚠ ⭐ but now **offering a hypothesis** — partial |
+| [26:31] | *"**Okay.**"* | ✅ **achieved** |
+| [27:06] | *"What do you mean by unassessed?"* | ⛔ |
+| [27:24] | *"**Like a manager.** Managers make decisions without consulting staff all the time."* | ⚠⚠ **comprehension formed — and formed adversely** (§17) |
+| [29:40] | *"I'm just going to move on… I'm concerned that the direction this is going in"* | ⚠ he understands where it is heading and stops it |
+| [30:12] | Appellant: *"**I actually understand what you're getting to.**"* | ✅ **his** comprehension shifts |
+| [32:01] | Appellant: *"I think I can understand where you're getting it… I understand how…"* | ✅ deepening |
+| [46:05] | *"So actively means they deliberately. **Am I right about that? Or have I read that wrong?**"* → *"I don't know if I can prove it as much"* → *"**Well, that answers the question.**"* | ✅ |
+| [47:52] | *"**Well, what are you asking for if that's the case?**"* | ⚠ he sees a logical gap the Appellant has not |
+| [51:19]–[51:35] | *"You paid 42% under what you should be paying. Is that what you're saying?"* … *"**you and your colleagues were underpaid**"* | ⛔⛔ **miscomprehension forms and is stated** |
+| [51:57]–[52:26] | Appellant corrects → *"so somewhere in the rostering system you didn't get public holidays and therefore you didn't get the loading. **Is that what you're saying?**"* | ✅ **repaired** |
+| [53:34] | *"**We probably should have led with that.**"* | ✅ ⭐ his comprehension **of the Appellant** shifts |
+| [54:54] | *"**Oh, you've got everything for this?**"* | ✅ instant |
+| [56:17] | *"**Has our discussion focused your understanding of what your case is?**"* | explicit check |
+| [62:28] | *"the unassessed directives or whatever… **you might be on to something there**"* | ✅✅ **retained 36 minutes and now endorsed** |
+
+## 15. ⭐⭐ THE FILTERS ARC — A COMPLETE COMPREHENSION CYCLE IN THREE MINUTES
+
+**⛔ blank** [23:38] → **⛔ blank on the table itself** [24:29] → ✅ **partial: the *ask* understood**
+[24:51] → ⛔ **relapse on the sub-items** [25:35] → ⚠ **hypothesis offered** [26:19] → ✅ **achieved**
+[26:31] → ✅✅ **retained and endorsed** [62:28].
+
+⇒ **Comprehension in this room is not a switch. It is built, it relapses, and it must be rebuilt.**
+It took the Appellant six separate attempts. **He did not give up at any of them** — and that is
+what produced the endorsement thirty-six minutes later.
+
+## 16. ⭐⭐⭐ DWYER'S METHOD: HE STATES HIS UNDERSTANDING AND INVITES CORRECTION
+
+This is the single most useful mechanical observation in the transcript. Four times:
+
+> *"Do you mean by that, **and tell me if I've got this wrong**…"* [16:44]
+> *"**Am I right about that? Or have I read that wrong?**"* [46:05]
+> *"**Is that what you're saying?**"* [51:23]
+> *"**Is that what you're saying?**"* [52:33]
+
+⇒ **He does not assume. He formulates and offers it back.** And the [51:19]–[52:26] sequence proves
+he *accepts* correction: he stated the pay claim backwards, was corrected, and restated it right.
+
+⛔⛔ **THEREFORE, THE HEARING RULE: when he states an understanding that is wrong, correct it
+immediately, in one sentence, before he builds on it.** He has demonstrated he will take the
+correction. **A wrong formulation left standing becomes the version he reasons from** — and that is
+exactly what happened with *"like a manager."*
+
+## 17. ⚠⚠ THE ONE COMPREHENSION THAT FORMED ADVERSELY — AND WHY
+
+[27:06] *"What do you mean by unassessed?"*
+[27:12] Appellant: *"It would be that she wasn't even in the room… and makes a decision without any
+input of the staff."*
+[27:20] **"Like a manager?"** → [27:24] **"Like a manager. Managers make decisions without
+consulting staff all the time. It's totally legitimate."**
+
+⭐⭐⭐ **The Appellant answered with a definition of a category. Dwyer matched the category to a
+familiar one and rejected it.** That is what a category invites.
+
+**Contrast the answer that worked, eleven minutes earlier:** *"She showed up in the morning, left in
+the afternoon… Is that what you mean?"* — **"Exactly."** ✅ A **concrete instance**. No category to
+match against. No rejection available.
+
+⇒ ⛔ **Abstract definitions invite category-matching. Concrete instances with consequences resist
+it.** Had the answer been *"she changed the emergency call-routing without asking the operators, and
+within three weeks her own email recorded calls going to the wrong medical teams"* — **there is no
+familiar category to file that under.**
+
+## 18. WHAT ACTUALLY CAUSED EVERY SUCCESSFUL SHIFT
+
+| Shift | Cause | Type |
+|---|---|---|
+| [14:38] erratic presence understood | *"Exactly."* | **short declarative** |
+| [16:55] directives understood | *"Correct."* | **short declarative** |
+| [22:12]–[26:31] the schedule understood | **handing up a shorter document**, then defining its terms | **an action** |
+| [46:16] the delegate limb understood | *"I don't know if I can prove it as much."* | **a concession** |
+| [52:26] the pay claim repaired | one corrective sentence | **a correction** |
+| [53:34] the Appellant himself re-read | *"I'm not asking disclosure about that anymore."* | **a concession** |
+| [54:54] Stressor 3 closed | *"I have everything for this."* | **a status claim** |
+
+⇒ ⭐⭐⭐ **Not one comprehension shift in sixty-five minutes was produced by an explanation.**
+Every single one came from **an action, a concession, a correction, or a short declarative.**
+
+**And every extended explanation either failed, was abandoned, or was stopped** — the relevance
+point [08:37], the access-log method [13:38], patient safety [27:29], the emergency calls [29:18].
+
+## 19. THE FOUR RULES THIS YIELDS FOR THE HEARING
+
+1. ⭐ **Lead with the concrete instance, never the category.** Not *"unassessed directives"* —
+   *"on 15 April she changed the on-call process effective that day. Nobody asked us."*
+2. ⭐⭐ **Correct a wrong formulation the moment it is uttered.** He offers his understanding for
+   correction four times in one hour and accepts it every time. **Silence lets the wrong version
+   become the working one.**
+3. ⭐ **Prefer an action to an argument.** Hand up the document. Concede the surplus. State the
+   status. Those are what moved him, every time.
+4. **Expect to build comprehension six times, and relapse in between.** The filters took six
+   attempts across three minutes. **The Appellant's persistence is what earned the endorsement at
+   [62:28] — not the clarity of any single attempt.**
