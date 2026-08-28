@@ -20,8 +20,8 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=5)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=5)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=9.1, leading=11.3, spaceAfter=3)
-ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=2.7)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=9.0, leading=11.0, spaceAfter=2.6)
+ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=2.4)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=5)
 def P(t, s=INTRO): return Paragraph(t, s)
 
@@ -44,12 +44,11 @@ OUTLINES = [
    ("The role.", "Receiving emergency response notifications and distributing them to "
     "the correct response groups per emergency code procedures, \"strictly adhering to protocols "
     "and timeframes\"; maintaining the contact and paging numbers on which emergency paging "
-    "depends; keeping \"call queues to minimum at all times\"; the systems I operated at once, "
-    "and the call and emergency-code volume across a shift."),
+    "depends; keeping \"call queues to minimum at all times\"; and the call and emergency-code "
+    "volume across a shift."),
    ("The database and the contact book.", "That from 18 July 2023 I could no longer correct entries "
     "myself; that corrections had to go to Ms Stibbard or Ms Taylor; that the Contact &amp; Number "
-    "Changes book was removed from our room; and what that meant when a number was wrong, including "
-    "overnight and at weekends."),
+    "Changes book was removed from our room; and what that meant when a number was wrong."),
    ("The directives.", "The after-hours on-call arrangement of 15 April 2024, the data-entry "
     "process of 19 April 2024 and the call-routing change of 9 May 2024; that I was not consulted "
     "before any of them; and what each required of me."),
@@ -58,20 +57,18 @@ OUTLINES = [
     "that she state them to the department."),
    ("What happened at the console.", "What I saw when contact details were wrong &mdash; calls for "
     "emergency responses and for medical teams reaching the wrong destination between 2 and 8 May "
-    "2024, and delays to urgent results reaching treating staff &mdash; and what I did on each "
-    "time."),
+    "2024, and delays to urgent results reaching treating staff &mdash; and what I did each time."),
    ("The communication book.", "The entry I wrote on or about 6 June 2023 about updating on-call "
-    "contact numbers; that it was removed; and what was said to me afterwards, and in front of "
-    "whom."),
+    "contact numbers; that it was removed; and what was said to me afterwards, and before whom."),
    ("August&ndash;September 2023.", "The concerns I raised in writing on 7 August 2023, the meeting "
     "that followed, and the responses of Ms Taylor and Ms Reese."),
    ("Special pandemic leave, February 2024.", "That I was unwell with COVID-19; how many times I "
-    "submitted the request and what I attached each time; the reasons given for each decline; "
-    "and the approval given on the same material."),
+    "submitted the request and what I attached; the reasons given for each decline; and the "
+    "approval given on the same material."),
    ("13 and 15 May 2024.", "That I made a complaint on 13 May 2024, later determined to be a public "
-    "interest disclosure (content not set out); that on 15 May 2024 I was directed to "
-    "retract the email in which I had asked about office hours; and that I knew of the email of "
-    "9 May 2024 in which Ms Taylor asked another person to confirm her hours."),
+    "interest disclosure (content not set out); that on 15 May 2024 I was directed to retract the "
+    "email in which I had asked about office hours; and that I knew of the email of 9 May 2024 in "
+    "which Ms Taylor asked another person to confirm her hours."),
    ("Union representation.", "When and to whom I expressed interest in becoming the Switchboard "
     "delegate; what followed; and my endorsement on or about 3 November 2025."),
    ("Pay &mdash; what was wrong.", "The public holidays I was not rostered to work between February "
@@ -100,10 +97,12 @@ OUTLINES = [
    ("After 18 June 2024.", "Meetings scheduled while I was on certified leave; that my employment "
     "was ended under abandonment provisions while I held current medical certificates; and that I "
     "was subsequently reinstated."),
-   ("Onset and effect.", "The symptoms I experienced and when; the effect on my sleep, health and "
-    "daily functioning; the onset date of 18 June 2024; attending my general "
-    "practitioner and lodging my application on 1 July 2024; and my treatment since. I offer no "
-    "clinical or diagnostic opinion."),
+   ("Onset and effect.", "The symptoms I experienced and when; the effect on my sleep, health and daily functioning; the "
+    "onset date of 18 June 2024; attending my general practitioner and lodging my application on "
+    "1 July 2024; and my treatment since. I offer no clinical or diagnostic opinion."),
+   ("My access to my own records.", "That my Queensland Health email account was restricted, when "
+    "that occurred, and that I have since been unable to produce from my own records the emails I "
+    "sent and received at work."),
    ("Documents.", "The rosters and payslips for the relevant periods; my emails and messages "
     "with my line manager and the Director; the leave and payroll records "
     "produced by the employer; the role description; and the letter of Metro South Hospital and "

@@ -1255,3 +1255,148 @@ and it's not contradicted… it will be accepted"* — but with a 14-day clock i
    rather than anything larger.
 5. **The register rule is his own, stated twice, and it is about volume, not authorship.** Anything
    he personally reads: short.
+
+---
+
+# PART SEVEN — THE PERFORMANCE, REASSESSED IN FULL
+> ⭐ **This Part supersedes §§11–13.** Those were written before three passages were re-read against
+> the tape. Each re-reading moved in the same direction, and the reason is worth stating: the places
+> I marked as failures were, in several instances, the places where the Appellant was doing the
+> explaining. Two genuine failures survive intact and are stated below without softening.
+
+## 42. WHAT THE TAPE ACTUALLY SHOWS HIM DOING
+
+### 42.1 ⭐⭐⭐ He answered the volume criticism in thirty seconds, with a document
+[21:38] *"page after page after page… that's how I fall into error."* → **[22:12]** *"Can I give you
+these two pieces of paper?"* — a two-page summary, already prepared, produced immediately. Not
+argued with. Answered.
+
+### 42.2 ⭐⭐⭐ He then taught the Commissioner to read his own document
+Across [23:24]–[26:31] Dwyer said of the Appellant's table *"doesn't make any sense to me"* and
+*"I still don't understand what filters means"*. The Appellant defined the heading, the status
+column, the sub-items A–E and the concept of a mailbox keyword search, until Dwyer arrived —
+*"So you're still pressing for disclosure of manager email filters A-E"* — and **still held the
+concept forty minutes later as the one live point** [62:28].
+
+**Nothing proves authorship like being cross-examined on your own document and knowing it.**
+
+### 42.3 ⭐⭐ He volunteered two significant narrowings, unprompted
+- **[24:06]** *"I basically just want the count. I don't even… For me, it doesn't matter."* — he does
+  not want the emails, only the number. **That is proportionality offered at minute 24**, before any
+  pressure to concede it.
+- **[53:26]** *"I think I actually said that I'm not asking disclosure about that anymore."* → Dwyer:
+  *"We probably should have led with that."*
+
+### 42.4 ⭐⭐ He gave the correct legal answer to the "big case" criticism — at minute ten
+[10:25] Dwyer: *"People make the mistake. I've got to have a big case because then it looks more
+important. **You don't have to.**"*
+[10:31] Appellant: ***"For me, it happened over a whole year, so it's not just one shift."***
+
+⇒ **That is the course-of-conduct answer in fourteen words**, and it is the correct answer to the
+"broad grievance" diagnosis Dwyer would deliver forty-seven minutes later. **He had already answered
+it. It was never engaged with.**
+
+### 42.5 ⭐ He drew a sophisticated relevance distinction that was never answered
+[08:37] *"it wasn't so much… what's inside those complaints. It's that they happened to me… I
+wouldn't even need to read them."*
+
+⇒ The **fact** of the complaints proves the consequence of the directives; the content is
+irrelevant. That is a correct and quite subtle point. Dwyer's response was to ask whether the
+material was AI-assisted. **The point itself was never met.**
+
+### 42.6 He corrected the Commissioner's factual assumptions twice
+- [34:20] Dwyer: *"There aren't any documents for that, are you?"* → *"Well, they got documents for
+  it, so…"* — correct; Taylor's 6 June 2023 email exists and is admitted.
+- [51:35] Dwyer misread the pay claim as the Appellant **and** colleagues being underpaid 42% →
+  [51:57] *"over public holidays and things, my manager decided to roster me on different specific
+  days… it ends up being 42% difference between me and my colleague."* **The correction was made and
+  was clear enough.** (§4 Q42 overstated this as never corrected.)
+
+### 42.7 Every concession was correct, and against his own interest
+*"Not those specific things, no"* [19:09] · *"I don't have knowledge of that"* [42:42] ·
+*"I don't know if I can prove it as much"* [46:11] · *"I haven't raised that"* [50:44].
+No bluffing at any point in sixty-five minutes.
+
+### 42.8 Composure held under sustained personal criticism
+Told his material read as machine-written, that the Commissioner *"switches off"* reading it, and
+that he was *"floundering around a bit"* — he did not bristle, defend or argue. Most
+self-represented litigants lose the room there.
+
+### 42.9 Three answers each disposed of a topic instantly
+*"Exactly."* [14:53] · *"Correct."* [16:55] · *"I have everything for this."* [54:52] — the last
+closed the whole of Stressor 3 in five seconds.
+
+## 43. ⛔ THE TWO GENUINE FAILURES — UNSOFTENED
+
+**Q10 [18:29] — *"Not that I can recall, no."*** Asked whether the Regulator's disclosure contained
+examples of the unassessed unilateral directives. It did: the 15 April on-call directive
+*"effective from today"*, the 19 April data-entry process, the 9 May MASPER direction. **This answer
+is why the Form 29 was parked.**
+
+**Q32 [40:28] — *"No, I do not."*** Asked whether he had Ms Reese's retraction email. It is in the
+Regulator's own disclosure and is now Annexure A Tab 9A.
+
+**Both are the same failure: he did not know what was in the disclosure.** Mitigated by being asked
+to recall thousands of pages from memory, in a hearing, with no file — but the consequence was the
+whole application.
+
+## 44. ⭐⭐⭐ THE REAL FAILURE IS NEITHER OF THOSE — IT IS A FACT HE HELD AND DID NOT DEPLOY
+
+**His Queensland Health mailbox had been restricted.** It appears twice, and only twice:
+
+- **[36:42]** *"Some of those emails, but my health service email was restricted."* → *"Okay."* —
+  and Dwyer moved straight on.
+- **[40:21]** *"I was restricted in my—"* → **cut off**: *"Is it, first of all, answer my question
+  first. Is it in the form of an email? Yes or no?"*
+
+⇒ ⛔ **That single fact is the answer to both failed questions.** *I cannot tell you what is in the
+disclosure or produce my own emails, because my access to my own work email was removed.*
+
+**Said that way it is not a failure at all — it is an indictment**, and it is the reason the
+disclosure application existed. It converts the two most damaging answers of the day into the
+strongest point in the argument.
+
+⚠ **And it forces a correction to my own "evasion" criticism.** §5(1) said he answered the question
+behind the question and that this reads as evasion. On the tape, at [40:21], **he was trying to give
+the reason and was procedurally stopped from giving it.** The yes/no discipline is still right for
+the witness box — but what happened here was not evasion. **It was the most important fact in the
+hour being suppressed by the form of the question.**
+
+## 45. THE REVISED LEDGER
+
+| | First assessment (§§11–13) | On the tape |
+|---|---|---|
+| Command of his own file | Shown at [53:30] | ⭐ **Shown at [22:12]–[26:31]**, teaching the Commissioner |
+| The AI question | Unresolved, adverse | ⭐ **Resolved in his favour, in the room, by conduct** |
+| Item 10 / filters | "Slow", "never landed" | ⭐ **He was the one explaining; Dwyer arrived and retained it** |
+| Yes/no habit | Reads as evasion | ⚠ **He was giving the reason and was cut off** |
+| The 42% correction | "Never said the clean sentence" | ✅ **Corrected at [51:57]** |
+| Q10 and Q32 | The two wrong answers | ⛔ **Unchanged. Both wrong. Both decisive.** |
+| The mailbox restriction | Noted in passing | ⭐⭐⭐ **The great missed deployment of the day** |
+
+**Count, revised:** ~49 substantive questions — **roughly 24 answered cleanly**, **17 loosely**,
+**6 poorly**, **2 wrongly on fact**.
+
+## 46. THE VERDICT
+
+**He performed better than the recount records, better than my first assessment, and better than he
+believes.**
+
+The picture is of someone who **knew his case thoroughly as a narrative and as a document set, and
+did not know it as a disclosure inventory.** That is a precise and unusual profile: he could explain
+his own table's column headings to a judge under pressure, and could not say whether a particular
+email sat in the other side's July 2025 production. Both are true, and only the second one hurt.
+
+**The failures were of preparation, not of candour, competence or composure** — and they were both
+answerable by one fact he had, said once, and was cut off from saying the second time.
+
+**Two things follow, and they are the whole lesson:**
+
+1. ⭐ **Live explanation is his strongest register.** Every passage where he was allowed to explain —
+   item 10, the emergency calls, the "count" concession, the one-year answer — he was
+   effective. Every passage where he had to recall an inventory, he was not. **Lead orally at the
+   hearing; keep the paper thin; never rely on recall of what is in someone else's production.**
+2. ⭐⭐ **The restricted mailbox must be in evidence, early and expressly.** It is in the outline at
+   item 19 by implication only. **It should be its own topic**, because it explains the shape of the
+   entire case: he is the party who cannot produce his own contemporaneous record, because the
+   employer removed his access to it.
