@@ -172,3 +172,135 @@ experience** what he notices — difficulty ordering what he wants to say, losin
 holding several things at once, needing to restart sentences. **That is his evidence about himself.**
 The clinical significance, if any, is entirely a matter for Dr Krishnaiah, and this document should
 not be sent to him.
+
+---
+
+# PART TWO — WHAT THE SHAPE SHOWS ABOUT HOW HE REASONS
+
+⚠ *Inference from utterance structure in a single machine transcript. Not a claim about anyone's
+mind, and not clinical. Offered because it has direct practical consequences for the hearing.*
+
+## 7. ⭐⭐ THE FIVE-PART SHAPE IS NOT A SPEECH HABIT. IT IS A REASONING PROCEDURE SPOKEN ALOUD
+
+Read the five parts again as *operations* rather than as grammar:
+
+| Part | What it is doing |
+|---|---|
+| 1 · *"For me,"* | **Orient** — locate himself relative to the proposition before asserting it |
+| 2 · *"it wasn't so much X"* | ⭐ **Eliminate the wrong reading** — model the listener's likely misconstruction and kill it first |
+| 3 · *"It's that they happened to me"* | **Assert** |
+| 4 · *"so that was my point"* | **Verify** — audit whether the output matched the intention, and label it |
+| 5 · *"but I wouldn't even need to read them"* | **Concede the surplus** — test the boundary of his own claim and give back what he does not need |
+
+⇒ **orient → eliminate → assert → verify → concede.** That is a stress-test of a proposition, run in
+real time, out loud, under pressure. **It is rigorous.** It is simply being performed in a forum
+that only listens to step 3.
+
+⭐ **Step 2 is the expensive one.** To eliminate the wrong reading first, he has to hold *his own
+meaning* and *the listener's probable misreading* simultaneously, and answer the second before
+stating the first. That is why the operative clause ends up in the middle: **it is queued behind an
+objection nobody has yet made.**
+
+## 8. HE THINKS IN STRUCTURES, NOT ITEMS
+
+*"For me, it all works together as one big system"* is the most literal description of his own
+method on the tape. In the [13:27] passage he holds three evidentiary sources, one proposition and
+one unifying abstraction — and the abstraction comes out *as a sentence*, unprompted.
+
+⭐ **The proof is the table.** Forty minutes after handing it up he could define its column
+headings, its status entries and its sub-items on demand. **You can only do that if you are holding
+the schema, not the entries.**
+
+⇒ **He stores structures with facts hanging off them, not facts.**
+
+## 9. ⭐⭐⭐ HE REASONS BACKWARD FROM CONSEQUENCE — AND THE PLEADING RUNS THE OTHER WAY
+
+Watch the direction of travel at [29:18]. He does **not** begin at *"she did not consult us."* He
+begins at the mechanism and runs to the outcome:
+
+> *"this number is an **emergency contact**"* → *"those doctors, the ones that get called for an
+> emergency"* → *"they're sent to the **wrong side of the room**"* → *"not sent to someone having a
+> **cardiac arrest**"* → *"not sent to someone in **respiratory distress**"*
+
+**Control removed → directory wrong → call misrouted → wrong clinician → patient.** That is a
+causal chain traced from cause to effect, and it is delivered in a single unbroken run — the most
+fluent thirty seconds of the hour.
+
+⛔⛔ **And this is why Stressor 1(a) keeps failing him.** It is pleaded as *"erratic presence and
+unassessed unilateral directives without consultation"* — **the first link in the chain.** His
+reasoning lives in the **last** link. He has been made to argue from a premise that is not where he
+understands the case to be, against a Commissioner who then said the first link was *"totally
+legitimate."*
+
+⇒ ⭐⭐ **The fix is not better advocacy. It is pleading and leading the chain in the direction he
+actually reasons — consequence first, mechanism second, consultation last or not at all.** That is
+the same conclusion Part Five reached from the law. **It is now reached independently from the way
+he thinks, which is a good sign it is right.**
+
+## 10. HE TRIMS HIS OWN CLAIM AUTOMATICALLY
+
+*"I basically just want the count. I don't even… For me, it doesn't matter."* · *"I don't know if I
+can prove it as much."* · *"I don't have knowledge of that."* · *"Not those specific things, no."*
+
+⇒ **Most litigants inflate. He deflates, continuously and without being asked.** Step 5 of the
+procedure is doing this: every assertion is immediately tested at its boundary and the surplus
+handed back.
+
+⭐ **This is why he cannot be broken on exaggeration** — there is none to find — and why a
+cross-examiner's only route is patient accumulation of small concessions. It is a strength that
+creates one specific vulnerability, and both come from the same operation.
+
+## 11. ⭐⭐⭐ HIS MEMORY IS STRUCTURAL, NOT INDEXICAL — AND THIS IS THE OPERATIVE FINDING
+
+Set the two facts side by side:
+
+| ✅ He could | ⛔ He could not |
+|---|---|
+| define his own table's headings, status column and sub-items on demand, 40 minutes later | say whether the Regulator's disclosure contained the directive emails |
+| route the Commissioner through a 20-item schedule by number | say whether he held Ms Reese's retraction email |
+
+**Both concern the same underlying documents.** The difference is that **he built one and only
+received the other.**
+
+⇒ **He can recall anything he has organised. He cannot recall anything he has merely been given.**
+
+⭐⭐ **The practical rule follows immediately, and it is the most useful sentence in this document:**
+
+> **Nothing counts as "known" until it has passed through his own organising step.** Reading the
+> disclosure is not enough. **Indexing it is.**
+
+**And this is exactly what the Form 24 did.** Three hundred and eight facts, each dated, quoted and
+tab-numbered, built by him — which is why he now knows the disclosure cold and could not answer a
+question about it three weeks ago. **The instrument that repaired the failure was also the cure for
+its cause.**
+
+## 12. THE WRITTEN/SPOKEN GAP IS ONE MIND WITH AND WITHOUT A BUFFER
+
+Written: subordinated, nested, qualified. Spoken: flat, coordinate, restarted.
+
+⇒ **Writing gives him a serialisation buffer.** He can hold the parallel structure and lay it out
+across time, revising the order. Speech denies him that and forces the parallel structure through a
+linear channel in one pass — which is where the abandoned subordinate clauses and the connective
+slips come from.
+
+⭐ **So the gap Dwyer heard was not two registers and not two authors.** It was the same reasoning
+with and without time to serialise. **The writing looks "above what you'd anticipate" because it is
+his thinking with the bottleneck removed.**
+
+## 13. THE PROFILE, IN SIX LINES
+
+| | |
+|---|---|
+| **Builds instruments, not arguments** | the Form 24, the annexure, the two-page schedule — a systems-thinker's response to every problem |
+| **Anticipates** | the summary was in his hand for a criticism that had not yet been made |
+| **Adapts rather than defends** | four adjustments inside one hearing |
+| **Under-claims** | trims to what he can defend, every time |
+| **Reasons from consequence** | and is currently pleading from cause |
+| **Knows what he has structured** | and not what he has only received |
+
+⚠ **The four risks, all from the same source:** he will lose lookup questions; he will bury his best
+point behind a pre-empted objection; he will concede more than he needs to; and he will keep
+reasoning from consequence in a forum that has asked him to start from breach.
+
+⭐ **All four are fixed by the same two moves: index everything himself, and lead the chain
+backwards from the patient.**
