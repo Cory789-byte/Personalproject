@@ -189,3 +189,78 @@ the commencement date, confirmation the 2024 reinstatement preserved continuity,
 balance in weeks, **the rate question above**, and copies of **HR Policy C38** and the **Ministerial
 Directive on Long Service Leave**. All of it is neutral, none of it commits him, and it takes the
 guesswork out before any decision has to be made.
+
+---
+
+# ADDENDUM 2 — THE PROPOSED PLAN, ASSESSED
+> Proposal: ~8 weeks LSL at full pay, then remaining leave at half pay until exhausted, with a view
+> to having it re-credited later.
+
+## ⭐ WHAT IS RIGHT ABOUT IT
+- **Full pay first.** Correct. He needs weekly amount, not duration.
+- **It is his own money and it is available now.** With no wages since 13 July and accommodation
+  gone, that is not a small thing.
+- **The re-credit idea is real** — but not by the route it looks like. See §3.
+
+## 1. ⛔⛔ DO NOT TAKE PERSONAL / SICK LEAVE
+He is certified **fit with restrictions** on the Employee Capability Checklist of 3 July 2026, and
+the whole employment position is that he is **ready, willing and able**.
+
+⇒ **Personal leave requires being unfit.** Applying for it directly contradicts the position he is
+running, and hands the Health Service the answer to the wages claim in his own handwriting.
+
+⇒ **"My leave at half pay until exhausted" can only mean RECREATION leave. Not personal leave.**
+
+## 2. ⛔⛔⛔ DO NOT EXHAUST EVERYTHING — THIS IS THE BIG ONE
+
+### 2.1 It removes the only pressure currently on the employer
+Right now the non-payment is **their** problem. It is the single fact that makes the AVAC urgent,
+makes the union's involvement obvious, and makes the hold-out visible and costly.
+
+⇒ ⭐⭐⭐ **The moment he self-funds from his own accruals, the hold-out costs the Health Service
+nothing and can continue indefinitely.** Non-payment is his leverage. Spending his leave spends it.
+
+### 2.2 An employee with zero accruals is in a materially weaker position
+⚠ Look at where the RFMI sequence points — Q6 (full inherent requirements), Q9 (*"if we are not able
+to accommodate the restrictions… is he able to safely return"*). **An employee with no leave left,
+no capacity finding, and no income has no runway to contest anything.**
+
+⇒ **Keep a reserve. Always.**
+
+## 3. ⭐⭐ THE RE-CREDIT ROUTE — GET IT RIGHT
+| Route | Does it work? |
+|---|---|
+| ⛔ **Via the WC appeal** | **No, or not directly.** The appeal concerns the **2024** injury. The 2026 absence is not medical incapacity — he was working to 14 June 2026 and was certified **fit with restrictions** on 3 July. A successful appeal does not automatically re-credit 2026 leave |
+| ⭐⭐ **Via the WAGES claim** | **Yes.** If the Health Service pays, or is found obliged to pay, wages for the period he was held out, **he cannot be both on paid leave and owed wages for the same days.** Leave taken to cover that period should be re-credited |
+
+⇒ ⭐⭐⭐ **The re-credit runs through the wages claim, not the appeal.** Which is exactly why the
+protest wording at §6 of this file is not optional — **it is the mechanism that keeps the re-credit
+available.**
+
+## 4. ⭐ THE MODIFIED PLAN
+
+| Step | |
+|---|---|
+| **1. Monday** | The Payroll email — service statement, balance, **and the rate question**. ⛔ **No application until the rate is answered in writing.** If LSL pays against 40 hours a fortnight, "8 weeks at full pay" is 8 weeks at roughly half his substantive rate |
+| **2.** | **Take a DEFINED, LIMITED block of LSL at full pay — 4 weeks, not 8** — with a stated review point, expressly under protest |
+| **3.** | **Keep the balance in reserve.** ⭐ 4 weeks carries him past **9 September** and **30 September** — the two dates that decide the shape of the matter. Reassess with the Respondent's list in hand |
+| **4.** | ⛔ **Touch no recreation leave yet, and no personal leave at all** |
+| **5.** | **Put the re-credit request in the application itself**, tied to the wages claim |
+
+⭐ **The principle: take enough to survive, not enough to relieve them.**
+
+## 5. THE APPLICATION WORDING — PROTEST PLUS RE-CREDIT
+> *"I apply for four weeks' long service leave at full pay, commencing [date], **only because I have
+> received no wages since 13 July 2026 and no AVAC has been submitted despite my requests of 24 and
+> 28 August 2026**. I remain ready, willing and able to work within the restrictions recorded in the
+> Employee Capability Checklist of 3 July 2026, and I have been since 3 July 2026.*
+>
+> *This application is made **under protest and without prejudice** to my claim for wages for the
+> period I have been held out of the workplace. **I ask that the leave be re-credited in the event
+> that wages are paid, or found payable, for any part of the same period.** I reserve my position
+> in full.*
+>
+> *I confirm I am not applying for personal leave, as I am not unfit for work."*
+
+⇒ ⭐ The last line looks unnecessary. **It is not.** It forecloses any later suggestion that he was
+absent on health grounds rather than held out.
