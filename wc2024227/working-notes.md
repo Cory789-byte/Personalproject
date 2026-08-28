@@ -6850,3 +6850,37 @@ ACTIONS: do not chase her again; serve the Form 24/25 (that is what shapes her d
 Taylor and Reese stay OFF his list, position reserved; diarise 30 Sept.
 ⚠ OPEN: her reply addresses EMAIL 2 only. Confirm whether EMAIL 1 (service of Form 24, Form 25,
 Annexure A, Part B) has actually been sent — the 14-day clock does not start until it has.
+
+## 2026-08-28 — SERVICE CONFIRMED. THE 14-DAY CLOCK IS RUNNING → 11 SEPTEMBER 2026
+Cory confirms EMAIL 1 (Form 24, Form 25, Annexure A, Part B) went out today, before EMAIL 2
+(13:48). Matheson replied 14:09 — 21 minutes after Email 2.
+
+⭐ WHAT HER REPLY DOES AND DOES NOT ACKNOWLEDGE. She thanks him for "your email and update in
+relation to a forthcoming expert report" — EMAIL 2 only. She says NOTHING about the Form 24, the
+Form 25, Annexure A, the 14-day clock, or his offer to confer on narrowing witnesses. In 21
+minutes nobody reads 308 facts + a 39-tab schedule + 133 pages. ⇒ She dealt with the one discrete
+question and parked the notices. Her silence on them is neither good nor bad news — it is normal.
+⭐ ONE USEFUL INFERENCE: the covering email said "Annexure A is a large attachment. If it does not
+reach you, please let me know." She did not say it had not arrived. A bounced 20MB attachment is
+the kind of thing a Senior Appeals Officer mentions when replying 21 minutes later. Not proof —
+but if there were a delivery problem, that was the natural moment to raise it.
+⛔ STILL DO: preserve proof of service (the sent item with attachments, timestamp, recipients).
+Everything about the clock depends on it. Watch for a late bounce.
+
+⭐⭐ THE SEQUENCE THAT NOW GOVERNS EVERYTHING:
+  9 Sept  — his witness list (FILE + SERVE) and one-page outlines (SERVE ONLY)
+  11 Sept — Form 24 / Form 25 responses fall due; silence = DEEMED ADMISSION (r 49)
+  30 Sept — the Regulator's witness list under direction 3
+⇒ SHE MUST ANSWER THE NOTICES BEFORE SHE DECIDES HER WITNESSES. The admissions land first and
+then she works out who she needs. That is the incentive structure in Part Nine operating in the
+right order and it is favourable.
+
+⛔⛔ DO NOT CHASE HER ABOUT THE FORM 24. Under r 49 silence for 14 days IS the admission. His
+interest is in her doing nothing. A reminder that the clock is running invites a response he
+would rather not receive. Serve, then say nothing about it.
+
+EXPECT: an extension request — a 308-fact notice with a 14-day clock is long. If asked, grant ONE
+short extension in writing, to a stated date. Refusing looks unreasonable and she would get it
+anyway. Note it pushes the deemed-admission date further past 9 Sept, which is already the case.
+MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verification (Part Eight
+§53). Answer is Dwyer's single-document route or an attendance notice — never another Form 29.
