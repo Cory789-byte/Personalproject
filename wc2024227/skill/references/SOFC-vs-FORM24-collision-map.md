@@ -150,3 +150,149 @@ question generally, so the 42% is not wholly unanswered even if ¶19 is misdirec
 5. ⛔ **Two documents to obtain before the hearing:** the **14 November 2023** Taylor email
    (¶13(f)), and confirmation of the **10 August 2023 meeting** (¶13(c)) — both are hers, neither
    is annexed.
+
+---
+
+# PART TWO — STRUCTURAL WEAKNESSES ON THE FACE OF THEIR OWN DOCUMENTS
+> Added 28 August 2026 after reading the SOFC's opening and closing paragraphs and re-reading the
+> MSH objection. These are weaknesses visible **without any evidence at all** — on the pleading and
+> the objection as written.
+
+## A. THE REGULATOR'S PLEADING
+
+### A.1 ⭐⭐⭐ ¶27 IS THE ENTIRE s 32(5) CASE, AND IT IDENTIFIES NOTHING
+> *"27. The respondent contends that **any management action** involved in the causation of any
+> injury to the **Plaintiff [sic]** was reasonable management action taken in a reasonable way
+> pursuant to s 32(5) WCRA."*
+
+**That is the whole of it.** ¶26 admits he is a worker. **¶27 is the only contention paragraph, and
+it is one sentence.**
+
+Three defects on its face:
+1. ⭐⭐⭐ ***"any management action"*** — **it does not identify a single act, date, decision, actor
+   or document.** The exclusion that defeats most psychological-injury appeals is asserted at large.
+2. ***"the Plaintiff"*** — the wrong party descriptor entirely. There is no plaintiff in a QIRC
+   appeal.
+3. ⚠ **A second slip at ¶1** — *"in response to **the applicant's** fresh statement of facts."* He is
+   the **appellant**. ⇒ **Two wrong-party descriptors in a seven-page pleading.**
+
+⭐ The notice already puts this: *"Paragraph 27… does not identify, by particular, date, document or
+cross-reference, the management action relied upon."*
+
+### A.2 ⭐⭐⭐ THEY DENY CAUSATION BY REFERENCE TO EVIDENCE THEY NEVER IDENTIFY
+> *"10. …says that Dr Peter Hawes provided a medical certificate stating that the mechanism was
+> 'ongoing breaking of workplace rules by bosses, victimizing him' but **denies that as a fact
+> because this is not supported by the evidence on which the respondent relies**."*
+
+⚠ **What evidence?** In seven pages the Regulator identifies **no medical evidence of its own** —
+no report, no examination, no opinion. Its only medical assertion is ¶8: *"medical records identify
+a past medical history of anxiety."*
+
+⇒ ⭐⭐ **The Regulator's positive case reduces to two things: a past history of anxiety, and an
+unparticularised assertion of reasonableness.** Everything else is non-admission.
+
+### A.3 ⭐⭐ ¶3 UNDERSTATES THEIR OWN REVIEW DECISION
+> *"3. …The decision of WorkCover was **confirmed** by the respondent's review unit by way of
+> reasons for decision dated 24 October 2024."*
+
+⚠⚠ *"Confirmed"* flattens a decision that contains, in its own words:
+- *"I find **the rostering of these two shifts amounted to unreasonable management action** given
+  that it was in direct contradiction to the award and the 8-hour agreement"*; and
+- *"your injury arose out of employment, to the extent that it arose out of factors 2, 3 and 4,
+  **where employment was a significant contributing factor**."*
+
+⇒ ⭐⭐⭐ **The review unit did not simply confirm. It made findings against the Regulator's own
+present case on both unreasonableness and causation, and rejected the claim on other grounds.**
+Their own pleading conceals that.
+
+### A.4 ⚠ ¶25 CONCEDES MORE THAN IT INTENDS
+> *"25. …these alleged events occurred after the appellant made his workers' compensation
+> application (1 July 2024) and **post-date any injury**."*
+
+⇒ To say events *post-date the injury* is to accept **there was an injury, with a date**. **They do
+not dispute the timing of onset** — only the relevance of what came after.
+
+### A.5 ⚠ ¶6(d)(ii) STATES THE PERCEPTION LIMB BUT NEVER PLEADS IT
+The elements at ¶6 include *"the appellant's expectations or perception of reasonable management
+action."* **Nothing in ¶¶11–27 runs it as a positive case.**
+
+⛔ **STANDING DISCIPLINE — DO NOT TOUCH THIS.** It is recorded only so that it is known the
+s 32(5)(b) door is **not** affirmatively open on their pleading, and must not be opened from ours.
+
+### A.6 ⚠ THEY SEEK COSTS
+> *"Decision sought… **3. The appellant pay the respondent's costs of the hearing.**"*
+
+⚠ `[unresolved]` — **the costs regime for WCRA appeals must be verified against the Act before any
+reliance is placed on this**, either way. Recorded because it is a stated position against a
+self-represented appellant.
+
+### A.7 ⭐ THE FEBRUARY 2026 QUALIFICATION THEY MUST NOW PROVE
+Their response to ¶21 of the prior notice admits the 48-hour sequence *"but says **there was no
+correlation between the two events**."*
+
+⇒ **"No correlation" between two admitted events is an assertion about causation.** Who proves it?
+**Ms Reese.** ⇒ Another positive assertion requiring an MSH witness (Part One, §1).
+
+---
+
+## B. METRO SOUTH'S OBJECTION
+
+### B.1 ⭐⭐⭐ ITEM 20 WAS NOT ANSWERED — IT WAS DEFLECTED
+> *"The information requested in item 20 does not exist, as **the reference cited in the Notice
+> being 'PID24-ESU-1130' commenced in November 2024**, which falls outside the specified search
+> period of 13 May 2024 to 31 May 2024."*
+
+⚠⚠ **Read what that actually says.** The request was for the **operational HR reaction to the
+complaint made on 13 May 2024**. MSH has answered a question about **when a reference number was
+created**.
+
+⇒ **The complaint existed on 13 May 2024 regardless of when the PID reference was generated.**
+Whatever HR did with it that month either exists or does not — **and the creation date of a file
+number cannot determine that.**
+
+⭐⭐ **Item 20 is a non-answer dressed as an impossibility, and it is the only item in the objection
+of which that can be said.**
+
+### B.2 ⭐⭐ ITEM 3(a) DEFEATS ITS OWN BURDEN OBJECTION — TWICE
+> *"All employee complaints relating to Logan Hospital Switchboard operational errors are made
+> **directly to the Line Manager** of Switch Board and **managed solely via email or verbally** with
+> the complainant."*
+
+Two consequences, both against them:
+1. ⭐ **If by email, they are in one mailbox.** One mailbox is not the *"individual staff member
+   email accounts"* search they object to. **The burden objection defeats itself.**
+2. ⭐⭐ **If verbally, there is no record at all** — which establishes the absence of a
+   complaint-handling system, not the cost of searching one.
+
+### B.3 ⚠ THE 20,006 FIGURE INFLATES THE BURDEN
+Item 19 invokes *"approximately **20,006 MOHRI occupied headcount**"* — but the request concerned
+union correspondence **to identified managers**, and **MSH itself then proposes** limiting it to the
+line manager, the Director and the Logan HR team. ⇒ **They costed the widest possible reading and
+then offered the narrow one.**
+
+### B.4 ⚠ ITEMS 8 AND 9 TOGETHER
+Item 8: *"it is not clear which system is being referred to"* · Item 9: *"The switchboard office
+does not have its own access-swipe access."*
+
+⇒ Taken together, MSH states that it **cannot readily establish when a manager was physically
+present or logged in.** ⚠ That is a fair objection to the request — **and a notable statement about
+a health service's own records.**
+
+---
+
+## C. WHAT THIS ADDS UP TO
+
+| | |
+|---|---|
+| **Their s 32(5) case** | **One sentence, identifying nothing**, with a wrong-jurisdiction party name |
+| **Their medical case** | **No identified evidence** — one assertion of prior anxiety |
+| **Their own review decision** | Contains findings of **unreasonable management action** and **employment as a significant contributing factor** — described in their pleading as *"confirmed"* |
+| **Their positive assertions** | **Seven**, each requiring an MSH witness they do not employ |
+| **Onset date** | **Not disputed** |
+| **MSH's burden objections** | Defeated on 3(a) by MSH's own sentence; inflated on 19 by MSH's own alternative |
+| **MSH's Item 20** | **Not answered** |
+
+⇒ ⭐⭐⭐ **On the face of their own two documents, the Regulator has no particularised exclusion
+case, no identified medical evidence, and a review decision that found for the Appellant on both
+unreasonableness and causation before rejecting the claim; and the non-party's objection contains
+one unanswered item and one self-defeating burden ground.**
