@@ -2778,3 +2778,120 @@ is directed at one of three things:
 
 ⚠ **And the harshest-sounding of them — the broad-grievance diagnosis — he flagged as speculation
 and immediately qualified with *"you may be right about all of that."***
+
+---
+
+# PART NINETEEN — THE MENTION RE-READ AGAINST HIS OWN DECIDED REASONING
+
+> Fifth pass, done after locating and reading **McCool v Workers' Compensation Regulator [2021]
+> QIRC 374** (Dwyer IC, appeal allowed). Knowing how he has actually decided a contested appeal
+> changes what several passages mean. See `DWYER-IC-own-reasoning.md` for the citations and the
+> verification cautions.
+
+## 92. ⭐⭐⭐ HE DRAFTED THE EVIDENCE HIMSELF AND ASKED THE APPELLANT TO ADOPT IT
+
+Read [14:23]–[14:46] as a whole, in sequence:
+
+> *"**One way you'll prove that is that I worked there between 2023 and 2024 in my observation.
+> Chloe Taylor had an erratic presence.** What do you mean by that, Mr Shepherd?"*
+> *"**She was there some day. She was there, not some day. She showed up in the morning, left in the
+> afternoon. She was there in the afternoon, but not in the morning.**"*
+> *"**Is that what you mean by erratic presence?**"* → *"**Exactly.**"*
+
+⚠ *(The transcript carries no speaker labels. But the closing question — "Is that what you mean?" —
+only makes sense if the formulation preceding it was **his**.)*
+
+⇒ ⭐⭐⭐ **He composed the answer, in the first person, and invited the Appellant to adopt it.**
+*"Exactly"* — recorded throughout this assessment as the best answer of the hour — **was the
+Appellant adopting the Commissioner's own words.**
+
+⭐⭐ **And this is exactly what he did in McCool.** At [66] he constructed the theory favourable to
+the claimant that the claimant had not proved — *"the only theory for the delay that could sensibly
+be developed on the known facts is that the delay could be substantially explained by steps taken by
+Mr McCool to manage his fatigue"* — and then declined to let its unproved status defeat the claim.
+
+⇒ **In McCool he built the claimant's theory. At the mention he built the appellant's evidence. The
+same instinct, five years apart.**
+
+## 93. ⭐⭐⭐ *"IT'S OFTEN THROWN OUT THERE… THAT YOU HAVE THE ONUS"* IS A DIRECT ANSWER TO THEIR ¶5
+
+> [15:23] *"**It's often thrown out there, as an appellant, that you have the onus of proving your
+> case. That's true, but** the regulator does have to contradict things that you say."*
+
+**Now read the Regulator's own pleading, ¶5:**
+> *"As this appeal is to be determined as a hearing de novo, **the appellant bears the onus** to
+> prove that there was sustained an injury…"*
+
+⇒ ⭐⭐ ***"It's often thrown out there"* is not a general observation. It is a response to the
+proposition their pleading opens with** — and he qualified it, unprompted, in the appellant's
+favour, in their presence.
+
+⚠ And in McCool that qualification is what decided the case: the claimant bore the onus on s 32, and
+the **exclusion** still failed for want of material to activate it.
+
+## 94. ⭐⭐ THE THREE-FAILURE CHECKLIST IS McCOOL [67] IN OPERATIONAL FORM
+
+> [29:03] *"if you give evidence that you were sent unassessed directives by Miss Taylor… and the
+> regulator **(1) doesn't contradict it, (2) doesn't cross-examine you, (3) doesn't produce
+> documents for you to comment on** — that sort of thing, well, you know, **that's a problem for
+> them, not for you**."*
+
+**Three named omissions. Compare McCool [67]:** *"there is **insufficient evidence available in this
+matter to activate the exclusions**."*
+
+⇒ ⭐⭐ **He was telling the Appellant, in advance, the three ways the Respondent can fail to activate
+its own exclusion.** ⚠ And note the third — *"doesn't produce documents for you to comment on"* —
+which is an obligation to **put** its material to him, not merely to hold it.
+
+## 95. ⭐ HE NARROWED THE REAL DISPUTE THE SAME WAY IN BOTH
+
+| McCool [64] | The mention [28:45] |
+|---|---|
+| *"there is **no submission** that Mr McCool deviated… **no suggestion or evidence** that Mr McCool engaged in any activity unrelated to his employment"* | *"**the existence of the emails may not be in dispute, as far as I can tell**"* |
+
+⇒ **Both are the same analytical move: identify what nobody actually contests, and shrink the
+dispute to what is left.** ⭐ In this case what is left is **characterisation** — which is argument,
+not evidence, and which the patient-safety consequence answers.
+
+## 96. ⭐⭐ AND HE SAID THE CHARACTERISATION CAN BE PROVED WITHOUT THE DOCUMENTS
+
+> [28:50] *"**So you don't need the emails to prove that the emails are unassessed directives
+> necessarily.**"*
+
+⇒ A quietly significant proposition, and it survives the whole disclosure argument: **the quality of
+the directives is provable from the Appellant's account of what happened, not from the text of the
+emails.** ⚠ Which is why the Form 29 was never necessary to that limb — and why the
+patient-safety consequence, given orally, is the proof.
+
+## 97. ⚠ ONE PROCEDURAL TELL
+
+> [15:04] *"I'm not sure whether we've got to the exchange of outlines of evidence"*
+
+He did not know the procedural stage. **Twelve days later he issued Further Directions Order (3)
+requiring exactly that** — witness lists, one-page outlines, expert reports.
+
+⇒ He went away, checked, and **programmed the step he had been unsure about.** ⭐ Consistent with
+[63:33] — *"the important business of getting this thing to a hearing."*
+
+## 98. ⭐⭐⭐ THE CONSOLIDATED READ
+
+**Everything he said at the mention about evidence is what he has actually done in a decided case:**
+
+| At the mention | In McCool |
+|---|---|
+| Composed the Appellant's evidence and invited adoption | Composed the claimant's theory and declined to let it fail for want of proof |
+| *"the regulator does have to contradict things that you say"* | *"insufficient evidence… to activate the exclusions"* |
+| Three named ways the Respondent can fail | An exclusion not activated by silence |
+| *"more common than not… without relying heavily on documentary case"* | Claim allowed on testimony and inference across a documentary vacuum |
+| *"I'm inclined to take a broad approach"* | *"intended to confer a benefit and it ought to be applied in that way"* |
+| *"her side of the story"*; cross-examination twice offered | Independent witness treated as decisive |
+
+⇒ ⛔ **This is not encouragement offered to a litigant in person.** It is a description, given in
+advance and in the presence of both opponents, of **the method by which he has previously allowed a
+workers' compensation appeal.**
+
+⚠ **It remains no prediction of outcome** — McCool is a journey claim on different facts and a
+different exclusion, and he formed adverse provisional views on two limbs here that had no
+counterpart there. **But the disposition he brings to an exclusion, to an evidentiary gap, and to an
+appellant's uncontradicted testimony is now on the record twice: once in what he decided, and once
+in what he said.**
