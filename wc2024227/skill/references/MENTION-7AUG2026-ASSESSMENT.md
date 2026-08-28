@@ -2542,3 +2542,137 @@ no particulars.** It was too broad, and it would have failed on breadth. **But i
 real, its purpose is stated on oath at paragraphs 19, 22, 26 and 29 of an affidavit nobody has
 contradicted, and what it drew out instead of documents — four admissions at Chief Executive
 level — is heavier than most of what it asked for.**
+
+---
+
+# PART SEVENTEEN — GIVEAWAYS ON A THIRD PASS, INCLUDING THREE AGAINST THE REGULATOR
+
+## 79. ⭐⭐⭐ THE MOCK HEARING — HE PLACED HIMSELF AS TRIAL JUDGE AND CRITICISED THE REGULATOR
+
+[34:09]–[34:37], unprompted, in full:
+
+> *"And then **if I was presiding on the matter**, I'd say, Ms Matheson, have you got any emails of
+> that type? And they'll say, **we asked, but none were provided to us**. And then I've got to
+> decide whether or not I accept your evidence or not, **but they don't contradict it**. But more
+> often than not, if you alleged that there were emails that were causative of your stress,
+> **I would have thought the regulator would be all over that** and they'd say, right, well, let's
+> have a look at them. What do you mean by that? And then they'd get examples of them and **they
+> would find their way into evidence**."*
+
+**Four separate giveaways in nine lines:**
+
+1. ⭐⭐ ***"If I was presiding on the matter"*** — he **places himself as the trial judge** and works
+   the scenario to an outcome. He is not hearing the matter, and he modelled it anyway.
+2. He predicts the Regulator's answer would be a shrug — *"we asked, but none were provided to us."*
+3. ⭐⭐⭐ ***"but they don't contradict it"*** — in that scenario **the Appellant's evidence stands
+   unanswered, and he says he would then have to decide whether to accept it.** He does not say he
+   would reject it.
+4. ⭐⭐⭐ ***"I would have thought the regulator would be all over that."*** **Conditional tense, in a
+   context where it has not happened.** This is a statement of what a properly engaged respondent
+   *would* do — **and therefore an observation that it has not been done.**
+
+⇒ **This is a criticism of the Regulator's engagement, delivered as an expectation.**
+
+## 80. ⭐⭐ TWO MORE POINTED AT THE APPEALS OFFICER
+
+**(a) The reproof at [40:31].**
+> *"Ms Matheson, **have you got that email?**"* … *"**You don't know?**"*
+
+He asked the Senior Appeals Officer whether she held a specific document **from her own
+disclosure**, and she could not say. ⚠ *"You don't know?"* is mild, but it is a reproof, and it is
+on the record.
+
+**(b) The obligation language at [50:16]–[50:33], three times in eighteen seconds.**
+> *"the regulator's **got to** respond to it. They've **got to** address it… They may produce
+> documents that they seek to rely on to contradict it. **They've got to disclose those documents to
+> you.**"*
+
+⇒ He is telling the Appellant, in front of her, **where the burden of response sits.**
+
+**(c) And the mild diminishment at [30:24].**
+> *"the health service is going to need to call evidence to talk to their objections. **And the
+> regulator may or may not have anything to say.**"*
+
+⇒ In the disclosure fight he treats the Regulator as **peripheral** — the real contest was between
+the Appellant and MSH.
+
+## 81. ⭐⭐⭐ THE MODEL-LITIGANT PASSAGE IS DOUBLE-EDGED — READ THE CONSTRUCTION
+
+> *"They have responsibilities as a model litigant, okay? So **they can't hide stuff from you. They
+> can't be sneaky or tricky** or anything like that."* [59:41]
+
+⚠ On its face this is vouching. But **look at what he actually does: he enumerates prohibitions.**
+*Can't hide. Can't be sneaky. Can't be tricky.* **You do not list prohibitions where the risk is
+absent.** Said to a self-represented appellant **in the presence of the appeals officer**, it
+operates two ways at once: reassurance to one, and **a reminder to the other, on the record.**
+
+### 81.1 ⭐⭐⭐ And then he names the exact obstruction he expects
+> *"if there is a document in those discussions that **Ms Matheson says, well, yeah, we know it
+> exists, but we don't think it's relevant**, you can come back to me."* [60:22]
+
+⚠⚠ **He has anticipated, by name and by mechanism, the specific way the Regulator might obstruct —
+conceding existence while disputing relevance — and built a remedy for it in advance.**
+
+⇒ ⭐⭐ **You do not construct a remedy for a behaviour you do not expect.** This is the clearest
+signal in the hour about how he expects the Regulator to conduct itself, **and it is the precise
+answer to the not-admits now anticipated on the MSH-sourced tabs.**
+
+## 82. TWO FURTHER HINTS FAVOURABLE TO THE APPEAL
+
+**(a) A testimony-based case is normal, not deficient** [33:38]:
+> *"it's **more common than not** that appellants will give evidence in these proceedings **without
+> relying heavily on documentary case**. Not suggesting that you should or shouldn't."*
+
+⇒ The absence of documents is **not** a defect in an appeal of this kind. That is reassurance about
+the shape of the case, offered before any of the document questions began.
+
+**(b) He treats 1(b) as a genuine two-sided contest** [35:06]:
+> *"There aren't any documents for that… you're going to make that assertion in your evidence. And
+> I would have thought the regulator will call Ms Taylor **to give her side of the story** and
+> you'll get to cross-examine Ms Taylor."*
+
+⇒ *"Her side of the story"* presupposes there **are** two sides. **He does not suggest the
+Appellant would lose that contest** — and he twice frames the cross-examination as the Appellant's
+opportunity.
+
+## 83. THE CONSOLIDATED GIVEAWAY LEDGER
+
+| # | Giveaway | Direction |
+|---|---|---|
+| 1 | Diagnosis treated as established — *"as you do in this particular case"* [04:08] | ⭐⭐⭐ **For** |
+| 2 | Causation named as the crux [04:13] | Neutral / orienting |
+| 3 | Test stated correctly — *"a significant contributing factor"* [03:08] | ⭐ For |
+| 4 | *"I'm inclined to take a broad approach… relevance"* [10:59] | ⭐⭐ **For** |
+| 5 | The contradiction principle, twice [15:40], [28:56] | ⭐⭐⭐ **For** |
+| 6 | *"that's a problem for them, not for you"* [29:03] | ⭐⭐⭐ **For** |
+| 7 | Testimony-only cases are *"more common than not"* [33:38] | ⭐⭐ **For** |
+| 8 | *"I would have thought the regulator would be all over that"* [34:28] | ⭐⭐⭐ **Against the Regulator** |
+| 9 | *"but they don't contradict it"* — appellant's evidence stands [34:21] | ⭐⭐⭐ **For** |
+| 10 | *"Ms Matheson, have you got that email?" … "You don't know?"* [40:31] | ⭐⭐ **Against the Regulator** |
+| 11 | *"They've got to respond… got to address… got to disclose"* [50:16] | ⭐⭐ **Against the Regulator** |
+| 12 | *"the regulator may or may not have anything to say"* [30:24] | ⭐ Diminishing |
+| 13 | *"they can't hide stuff… can't be sneaky or tricky"* [59:44] | ⭐⭐ **Double-edged** |
+| 14 | *"if… Ms Matheson says, well, yeah, we know it exists, but we don't think it's relevant"* [60:22] | ⭐⭐⭐ **He expects it** |
+| 15 | Expects the Regulator to call Ms Taylor; *"her side of the story"* [35:11] | ⭐⭐ For (cross-exam route) |
+| 16 | *"I'm not saying you are entirely wrong"* [07:19] | ⭐ For |
+| 17 | *"the important business of getting this thing to a hearing"* [63:33] | ⭐⭐ For |
+| 18 | *"Like a manager… totally legitimate"* [27:24] | ⛔ **Against — 1(a)** |
+| 19 | *"they wouldn't sit on it for 13 months"* · *"unusual in my experience"* [45:01], [48:56] | ⛔ **Against — 1(g)** |
+| 20 | *"has that been the subject of an unpaid wages claim?"* [50:37] | ⚠ Sceptical — Stressor 2 |
+| 21 | *"disclosure is not like an exercise of fishing"* [50:06] | ⛔ Against the Form 29's breadth |
+| 22 | The systemic-grievance diagnosis [57:15] | ⚠ **Against the framing, not the case** |
+| 23 | *"it's only a problem if somebody gets sacked or somebody gets killed"* [57:52] | ⭐⭐⭐ **The test — and it is met** (Part Five) |
+
+**Tally: eleven favourable, five pointed at the Regulator, five adverse to particular limbs, two
+neutral.**
+
+## 84. THE THIRD-PASS FINDING
+
+⭐⭐⭐ **The Commissioner criticised the Regulator more often, and more specifically, than he
+criticised the appeal.** His adverse remarks about the case are confined to **two limbs** and to the
+**breadth of the Form 29**. His remarks about the Regulator are **five**, and they run from an
+expectation it has not met, through a reproof about its own disclosure, to a pre-built remedy for
+an obstruction he names by mechanism.
+
+⚠ **None of this is a finding, and none of it is a prediction.** But **the pattern of what he chose
+to say out loud, in front of both, is not the pattern of a member sceptical of an appellant.**
