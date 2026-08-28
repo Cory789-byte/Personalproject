@@ -847,3 +847,166 @@ finding on the record about it. **Nothing about the day is a loss on the merits.
 | What does he do with policy breach alone? | **Nothing.** Breach must produce something |
 | Route back on disclosure? | **One identified document at a time** |
 | Was anything decided against the Appellant? | **No** |
+
+---
+
+# PART FIVE — ⭐⭐⭐ THE APPELLANT'S POINT: DWYER'S TEST IS SATISFIED ON THESE FACTS
+
+> Raised by the Appellant, 28 August 2026, and it reframes the entire hour.
+
+## 23. THE TEST HE GAVE, IN FULL
+
+[57:52], delivered as a **warning against systemic grievance**:
+
+> *"You don't have to go too far in any organisation to find failures to comply with legislation,
+> failures to comply with protocol, failures to comply with policy. **It happens every single day
+> in every single workplace.** It's a question of whether or not there's anything **material** that
+> arises from any of that… and it's only a problem **if somebody gets sacked or somebody gets
+> killed** or somebody, you know… and it's only then when these things **get a light shot on them
+> and they become relevant.**"*
+
+He was telling the Appellant that policy breach, standing alone, proves nothing — and he was right
+about that as a general proposition.
+
+**But he gave the test as a generality, without applying it to these facts.** Applied, it is
+satisfied on every limb he named.
+
+## 24. ⭐⭐⭐ LIMB ONE — "IF SOMEBODY GETS SACKED"
+
+**Somebody did.** And Dwyer read it out himself, twenty minutes earlier, from the Appellant's own
+pleading [56:00]:
+
+> *"the employer **terminated the appellant under abandonment provisions despite holding continuous
+> medical certificates**. The appellant was subsequently reinstated."*
+
+He read it, registered it as post-injury (*"So this is after you sustained your injury?"* — *"Yeah."*),
+asked whether documents were needed, and moved on — **because it is not a pleaded stressor.**
+
+⇒ **He never connected his own trigger to the fact he had just read aloud.**
+
+⚠ **Keep it in its proper place.** The dismissal is **October 2024**; the injury is **18 June
+2024**. It cannot be causative of the injury and must never be pleaded as though it were. Its
+proper work is:
+- **the whole course of conduct** on severity and aggravation (evidence-in-chief, medical, closing —
+  standing discipline 7);
+- **the employer's credit**, and the reasonableness of the management action viewed as a whole under
+  s 32(5); and
+- ⭐ **exactly the "light shot on them" event Dwyer described** — the thing that makes the earlier
+  conduct examinable rather than an ordinary catalogue of workplace imperfection.
+
+## 25. ⭐⭐⭐ LIMB TWO — "OR SOMEBODY GETS KILLED"
+
+This is the Appellant's central point and it is the strongest one available to this case.
+
+**He is not an administrator who was inconvenienced. He is the emergency dispatch function.**
+
+The role description — already annexed, already quoted in the Form 24, and a document the Regulator
+will struggle to dispute — imposes exactly that:
+
+> *"**Participate in the Emergency Response process by receiving emergency response notifications
+> and distributing them to the appropriate response groups**, dependent on the category of
+> emergency, as per emergency code procedures, **strictly adhering to protocols and timeframes**."*
+
+> *"**Collate information and maintain Omnivista database** and SharePoint to ensure information
+> held within Switchboard Services is **accurate and appropriate**."*
+
+> *"Maintain call queues to minimum at all times."* · *"The ability to multitask and operate under
+> pressure, particularly where high volume call traffic is concerned."*
+
+### The mechanism, in one sentence
+
+**He was required to dispatch medical emergencies to the correct responders, strictly to protocol
+and timeframe, using a directory he had been forbidden to correct.**
+
+- **18 July 2023** — access to the database removed (*"I will be removing everyone's access"*), the
+  Contact & Number Changes book taken out of the room, corrections routed to one person working
+  *"every Tuesday and second Monday, 8:00–16:00"*, and after-hours requests to *"wait until either
+  Chloe or myself are back."*
+- **15 April 2024** — the after-hours on-call escalation changed, *"effective from today."*
+- **19 April 2024** — a new data-entry process imposed *"due to errors being made."*
+- **9 May 2024** — the emergency call-routing to the MASPER phone changed.
+
+**Every one of those directives is a patient-safety control**, not an administrative preference.
+
+### And the consequence is documented — in the employer's own words
+
+- **3 May 2024, 14:46** — *"MET call team called x5290 asking where MET call was located 'VHUB' —
+  switchboard could not tell them where VHUB was. Had to be redirected by MASPER."* A MET call is a
+  medical emergency response to a deteriorating patient. **The emergency team could not be told
+  where to go.**
+- **2–8 May 2024** — nine occasions logged by the MASPER Registrar, including calls *"incorrectly
+  put through to MASPER."*
+- ⭐⭐ **9 May 2024, 10:15 am — Ms Taylor's own email to the whole Switchboard:**
+  > *"There have been **many ongoing issues raised by the MASPER and the medical department about
+  > calls being transferred to the wrong medical teams**."*
+
+⇒ **The manager whose directives are in issue recorded, in her own email to the department, that
+calls were going to the wrong medical teams.** That is the patient-safety consequence, proved out of
+the employer's own document, and it is already in Annexure A.
+
+## 26. ⭐⭐ THIS IS ALSO THE COMPLETE ANSWER TO "LIKE A MANAGER"
+
+Dwyer's ruling and his exception were four seconds apart [27:24]:
+
+> *"**Like a manager. Managers make decisions without consulting staff all the time. It's totally
+> legitimate.**"*
+> …
+> *"**If you think it's in a patient safety environment, you can raise that.**"*
+
+He offered the exception as a narrow escape hatch. **On these facts the exception is not an
+exception — it is the entire subject matter.** This is the hospital switchboard: the node through
+which cardiac arrests, code calls and medical emergency teams are dispatched. There is no version
+of these directives that is not a patient-safety decision.
+
+⇒ **The submission is not "she did not consult."** It is:
+
+> *She made changes to the emergency-response and directory-maintenance controls of a hospital
+> switchboard without consulting the operators who held the information, removed the operators'
+> ability to correct the directory, and within weeks her own email recorded that calls were being
+> transferred to the wrong medical teams.*
+
+**That sentence survives "like a manager." "She did not consult us" does not.**
+
+## 27. HOW THE WARNING BECOMES THE ROADMAP
+
+Dwyer's own framework, applied:
+
+| His requirement | On these facts |
+|---|---|
+| *"anything **material** that arises"* | A psychological injury (18 June 2024) — **which he has already accepted is diagnosed** [04:08] |
+| *"if somebody gets **sacked**"* | Terminated under abandonment provisions in October 2024 while holding continuous medical certificates; reinstated — **he read it out himself** |
+| *"or somebody gets **killed**"* | The role is emergency dispatch; the MASPER register records a MET call that could not be located and nine misrouted calls in a week; **the manager's own email records "calls being transferred to the wrong medical teams"** |
+| *"a **light shot** on them"* | The injury, the dismissal, and the May 2024 register are the light |
+
+⇒ **Every limb of the test he gave is met, and two of the three are proved by the employer's own
+documents.**
+
+## 28. ⛔ WHAT THIS CHANGES — AND WHAT IT MUST NOT BECOME
+
+**It changes the framing of the case in one respect, and it is the right one:**
+stop defending against "systemic grievance" and start answering the question he actually asked —
+*what material thing arose?* Three things did, and they are dated and documented.
+
+⛔ **Discipline holds unchanged.** This is stated as **chronology and consequence, never as motive**:
+- Not *"she endangered patients"* — **"the directory could not be corrected, and her own email
+  records calls going to the wrong medical teams."**
+- Not *"they sacked him to punish him"* — **"he was terminated under abandonment provisions while
+  holding continuous medical certificates, and reinstated."**
+- No allegation about any individual's intent. The dated sequence does the work, and it cannot be
+  answered.
+- ⛔ Nothing here touches s 32(5)(b). The case is about what the conduct *was and produced*, never
+  about how it was perceived.
+
+**And the dismissal never becomes a causation argument.** It is October 2024. It goes to severity,
+to the whole course of conduct, and to the employer's credit — and it is the event that, on Dwyer's
+own formulation, makes the earlier breaches worth examining.
+
+## 29. ⭐ THE ONE SENTENCE FOR THE SUBMISSIONS
+
+> *The Commission observed that non-compliance becomes material when something arises from it. Here
+> three things arose: the Appellant sustained a diagnosed psychological injury; he was terminated
+> under abandonment provisions while medically certified, and reinstated; and, in the weeks before
+> the injury, the manager's own email recorded that calls were being transferred to the wrong
+> medical teams in a department whose function is the dispatch of medical emergencies.*
+
+**That is the case, it is three sentences, and it is the register Dwyer asked for.**
