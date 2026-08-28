@@ -425,3 +425,165 @@ statement about uncontradicted evidence into a 14-day clock.
 **The one thing still to get right is register.** The Commissioner said plainly that volume makes
 him miss the point and fall into error. Every document he personally reads from here decides
 whether that works for or against this appeal.
+
+---
+
+# PART TWO — THE PERFORMANCE OF MR SHEPHERD
+
+## 11. THE HONEST READ
+
+**Candour: high.** Every concession made was against his own interest and was made cleanly —
+*"Not those specific things, no"* [19:09]; *"I don't have knowledge of that"* [42:42]; *"I don't
+know if I can prove it as much"* [46:11]. He never bluffed, never claimed a document he did not
+have, never argued with a ruling. Dwyer's response to the third of those — *"Well, that answers the
+question"* — was not a rebuke; it was the sound of a judge getting a straight answer and moving on.
+**Judges remember which litigants concede.** This is the strongest thing about his performance and
+it should not be undervalued.
+
+**Preparation: the failure of the day.** He was tested, item by item, on what documents he held
+across fourteen months, from memory, without a file. He got two of them wrong — and both were
+*under*-claims of documents sitting in the Regulator's own disclosure (§4, Q10 and Q32). That is
+what lost the Form 29. Not the merits, not the framing — the inability to say *"yes, I have that,
+it's in your disclosure at tab X."*
+
+**Composure: good, and worth noting.** He was told mid-hearing that his material read as
+machine-written, that the Commissioner *"switches off"* reading it, and that he was
+*"floundering around a bit."* He did not bristle, did not defend, did not argue about his own
+competence. Self-represented litigants routinely lose the room at exactly that moment. He did not.
+
+**Register: the persistent mismatch.** He answers in systems; Dwyer wanted particulars.
+*"For me, it all works together as one big system"* [13:46] is the disposition Dwyer diagnosed
+forty minutes later: *"you have as a broader grievance a view that systemically the place in which
+you worked had a number of failings… **You don't need to prove all of that.**"* [57:15]
+⭐ **That diagnosis is correct, it is not hostile, and the case gets stronger the moment it is
+accepted.**
+
+**Responsiveness: the fixable habit.** Twice Dwyer had to stop him — *"answer my question first.
+Is it in the form of an email? Yes or no?"* [40:24]. He was answering the question behind the
+question. **In the witness box that reads as evasion even when it is not**, and the Regulator's
+counsel will not be as patient about it as the Commissioner was.
+
+**The three answers that worked:** *"Exactly."* [14:53] · *"Correct."* [16:55] · *"I have
+everything for this."* [54:52] — that last one disposed of the whole of Stressor 3 in five seconds.
+**He is capable of the register that works with this Commissioner. He simply did not sustain it.**
+
+## 12. WHAT MITIGATES — AND IT MITIGATES A LOT
+
+1. **No notice.** He came for a mention on a disclosure application and got a 65-minute directed
+   review of his entire pleading, announced on the day as *"something a little bit different."*
+2. **No file, no warning that holdings would be tested.** Nobody is accurate about fourteen months
+   of documents from memory.
+3. ⭐ **His Queensland Health mailbox was restricted** — *"Some of those emails, but my health
+   service email was restricted"* [36:38]. **This is the true answer to most of the questions he
+   answered badly, and he said it once and dropped it.** He could not check his own contemporaneous
+   record because access to it had been removed.
+4. **He is the injured party in a psychological injury claim**, excluded from work and unpaid since
+   13 July, being examined on the events that caused the injury.
+
+## 13. THE VERDICT ON PERFORMANCE
+
+He performed as a **capable, honest, under-prepared self-represented litigant who knows his case as
+a narrative but not yet in evidentiary form.** He lost the application on preparation, not on
+merit — and the Commissioner went out of his way to keep the door open (*"I'm not close to that at
+all"* [61:23]).
+
+⭐⭐ **And he has since answered on paper what he could not answer in the room.** The Form 24 is the
+corrected answer to the question that cost him the application. That is a better recovery than
+anything that was available on the day.
+
+---
+
+# PART THREE — ⚠ THE WITNESSES ARE MSH EMPLOYEES
+
+## 14. THE COMPOSITION, AND WHY IT IS A LIVE PROBLEM
+
+| Witness | Status | Exposure |
+|---|---|---|
+| **Ms Carolyn Jeffrey** | **Current** MSH employee, Logan Switchboard | Still rostered, leave-approved and managed within the department the case is about |
+| **Ms Patricia Conaghan** | **Current** MSH employee, Logan Switchboard; Together delegate (endorsed 3 Nov 2025) | Same — but with union standing and a delegate's protections |
+| **Mr Cory Harrison-Jones** | **Former** employee | None |
+
+**Two of the three still work at Logan Hospital Switchboard, and Ms Taylor is still the Switchboard
+Manager** — she signed correspondence in that title as recently as 19 May 2026. They are being
+asked to give evidence adverse to their own manager's conduct, about rostering, consultation and
+leave, while she continues to roster them and approve their leave.
+
+**The sequencing makes it concrete.** Outlines are served on the Regulator by 4pm 9 September. The
+Regulator liaises with MSH. ⇒ **MSH learns who is giving evidence against its management well
+before the hearing.** That window is the risk.
+
+**And the Appellant cannot protect them.** He is himself excluded, unpaid, and the subject of a
+live capacity process.
+
+## 15. WHAT ACTUALLY PROTECTS THEM — AND THEY SHOULD BE TOLD
+
+**(a) ⭐⭐ An attendance notice removes volition.** *Form 32 – Request for Attendance Notice* plus
+*Form 32A/32B/32C*, approved by a Member or the Registrar (Appeal Guide 6.2.2). Issued **once
+hearing dates are set** (7.6.4) — so not yet, but the decision is made now.
+
+⇒ **A compelled witness is not a volunteer.** She did not choose to help; she was required to
+attend. That single fact removes the whole "you chose to give evidence against your manager"
+framing, and it is the most protective thing available. **Offer it to each of them expressly.**
+
+⛔ **r 62 — witness expenses must be paid a reasonable period before the attendance day**, or the
+Commission may treat non-payment as a lawful excuse not to appear. Budget for it.
+
+**(b) IR Act 2016 general protections.** s 285 — a person must not take adverse action against
+another because that person has, or proposes to exercise, a workplace right; s 284(1)(c)(ii)
+includes being able to make a complaint or inquiry in relation to employment; s 282 defines adverse
+action to include injuring an employee in their employment or altering their position to their
+prejudice. **s 306 reverses the onus on the reason.** ⚠ Verify each provision against ATT27 before
+it is stated to a witness in writing.
+
+**(c) Ms Conaghan has a union and delegate standing.** Approach her **through Ms Petering**, not
+directly. That is both safer for her and safer for the Appellant.
+
+**(d) ⭐ Ms Jeffrey is already on the record.** She gave written statements to WorkCover on
+18 July 2024 and 1 August 2024 — **both listed in the Regulator's own amended List of Documents**
+(items 14 and 16). Her involvement is neither new nor secret, and MSH-side surprise is not
+available. **She is the lowest-risk of the two current employees.**
+
+## 16. ⛔⛔ THE URGENT PROBLEM: THE OUTLINES ARE NOT READY
+
+All three are **drafting frames, not outlines.** Every one carries unresolved placeholders —
+`[position]`, `[month/year]`, `[ward/unit]`, `[date]` — and bracketed instructions to the drafter:
+
+- Jeffrey ¶5: *"[She will say what the entry said, and that it was written by the Appellant —
+  **to be confirmed with the witness before service**.]"*
+- Jeffrey ¶6, Conaghan ¶2–3, Harrison-Jones ¶6–7: *"[X to describe…]"*
+
+⇒ **These read as written from the Appellant's knowledge, not from witness conferences.**
+
+**Serving an outline of evidence a witness has not confirmed is worse than not calling her.**
+Direction 2 requires an outline of the evidence the witness **is expected to give**. If she then
+gives different evidence, the inconsistency is put to her in cross-examination — and it is the
+Appellant's document that creates it.
+
+## 17. WHAT TO DO, IN ORDER, BEFORE 9 SEPTEMBER
+
+1. **Speak to each witness now.** Confirm they will attend, and confirm **every paragraph** of
+   their outline. Fill every placeholder from the witness, not from recollection.
+2. **Offer the attendance notice expressly** — *"I can ask the Commission to require your
+   attendance, so it is not a matter of you volunteering."* Say it first, not last.
+3. **Approach Ms Conaghan through Ms Petering.** Union channel, delegate to delegate.
+4. **Keep the approach short, written, factual, and free of any characterisation of Ms Taylor.**
+   The Appellant is excluded and under a live capacity process; an approach that reads as
+   canvassing staff against management is a risk **to him**, in the employment track, not just to
+   them.
+5. ⛔ **If a witness will not confirm, do not serve their outline.** Listing fewer witnesses and
+   seeking leave to add later is recoverable. Serving an outline that collapses is not — and it
+   also tells the Regulator, and through it MSH, who was willing to help, for no benefit.
+6. **Harrison-Jones first.** He is the free hitter — former employee, nothing to lose, and his
+   evidence goes to the raised voice, the one incident where demeanour is the issue.
+
+## 18. THE COUNTERWEIGHT — THEY ARE STILL THE RIGHT WITNESSES
+
+Dwyer's framework makes this clear: *"the regulator does have to contradict things that you say…
+if you say something and it's not contradicted… it will be accepted"* [15:40].
+
+**Independent corroboration from the employer's own current staff is the hardest evidence in this
+case for the Regulator to contradict.** Conaghan ¶5–6 (not consulted, not balloted on the 15 April
+on-call change) and Harrison-Jones ¶6–7 (the raised voice) are the two strongest paragraphs in the
+three outlines, and neither can be answered by a document.
+
+The risk is real and must be managed. **It is not a reason to drop them.**
