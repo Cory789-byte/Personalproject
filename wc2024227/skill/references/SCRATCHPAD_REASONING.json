@@ -1,7 +1,7 @@
 {
  "meta": {
   "file": "SCRATCHPAD_REASONING.json",
-  "generated": "2026-08-31 (rev 4 — the leave application SENT, Taylor's same-day reply, and the 0.5 FTE fork)",
+  "generated": "2026-08-31 (rev 5 — full thread filed in original form; correction sent 32 minutes after the 0.5 FTE appeared)",
   "matter": "WC/2024/227 Shepherd v Workers' Compensation Regulator (QIRC, s 550(4) WCRA)",
   "status": "INTERNAL WORKING SCRATCHPAD — not for service, not for filing, not quotable externally",
   "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
@@ -311,11 +311,12 @@
   {
    "id": "D12",
    "title": "Taylor reply — same afternoon, 31 August 2026",
-   "source": "pasted by Cory; obtain the .eml/PDF for the file",
+   "source": "VERIFIED FROM ORIGINAL — full thread export filed at documents/correspondence-2026/2026-08-31_FULL_THREAD_Taylor_LSL_AVAC_application_reply_and_correction.pdf. Sent Mon 31 Aug 2026 3:34:24 pm, To Cory, Cc Jacqui Roberts AND emily.petering@together.org.au.",
    "verbatim_findings": [
     "'I have applied your S/L and A/L in lieu of S/L for your absence from the workplace through an AVAC as requested, for the past fortnight 17th August 2026 – 30th August 2026.'",
     "'As you are on reduced roster 0.5 FTE, I have applied the leave as per reduced shifts - PRN 249 863 66'",
-    "'About your long service leave from the 13th July 2026 - the system is currently not allowing me to apply LSL, so I have made enquiries with Payroll to understand why this may be and I will get back you as soon as I have an update.'"
+    "'About your long service leave from the 13th July 2026 - the system is currently not allowing me to apply LSL, so I have made enquiries with Payroll to understand why this may be and I will get back you as soon as I have an update.'",
+    "⭐ Her reply was cc'd to Ms Roberts AND Ms Petering — the union saw the '0.5 FTE' position the moment it was taken."
    ],
    "what_it_gives": [
     "Same-day action with a reference number (PRN 249 863 66) — the deadline-and-number technique worked",
@@ -325,6 +326,21 @@
     "STAR STAR: THE SYSTEM WILL NOT APPLY LSL. Most probable diagnosis: the continuous service date was RESET at the 20 September 2024 separation and never corrected on the February 2025 reinstatement. The deed (recital B: commenced 25 March 2019; recital F: reinstated effective 20 September 2024) proves 7 years fell due 25 March 2026. If Payroll confirms a reset date, that is a payroll error persisting ~18 months after reinstatement, discovered only because he applied for LSL"
    ],
    "reply_drafted": "drafts/REPLY_Taylor_31AUG2026_FTE_leavetype_LSLblock.txt — four points: confirm leave types/hours under the PRN and re-credit any sick leave; apply at substantive 76 hrs (movement forms only, ECC kept OUT of the hours point); extend back to 13 July as an adjustment once LSL resolves; hand Payroll the service-date diagnosis WITHOUT mentioning the deed; confirm the 9 September pay run; re-attach the paragraph 4 protest basis in one line."
+  },
+  {
+   "id": "D13",
+   "title": "AS SENT — the four-point correction to Taylor",
+   "sent": "Monday 31 August 2026, 16:06 (32 minutes after Taylor's reply)",
+   "cc": "Jacqui Roberts; Emily Petering",
+   "filed_at": "documents/correspondence-2026/2026-08-31_FULL_THREAD_Taylor_LSL_AVAC_application_reply_and_correction.pdf (top message)",
+   "content": [
+    "1. Leave type — did not apply for sick leave; certified fit; confirm types and hours under PRN 249 863 66; re-credit and replace any sick leave debited",
+    "2. Hours — apply at substantive 76/fortnight; Form 3 temporary, effective 25.05–28.06.2026, not extended; no variation in force since 28 June; the 12 Aug payslip itself records 76.00 hours; 'if a different arrangement has been recorded... what it is and the document it is based on'",
+    "3. Period — application was from 13 July; apply back as an adjustment once LSL resolves; correct the earlier NP Sick Leave fortnights at the same time",
+    "4. LSL diagnosis for Payroll — commenced 25 March 2019; reinstatement effective 20 September 2024 with continuity preserved; seven years reached 25 March 2026; Award cl 22(c); a later service date in the system 'may not have been corrected following my reinstatement'. ⛔ Deed not mentioned",
+    "Asked that the 17–30 Aug payment be processed urgently; re-attached the paragraph 4 protest/re-credit basis in one line"
+   ],
+   "significance": "The 0.5 FTE was corrected on the record within 32 minutes of appearing, before it could set as a baseline, with the union copied at both ends of the exchange."
   }
  ],
  "audio_forensics": {
@@ -718,8 +734,8 @@
  "clocks": [
   {
    "date": "2026-08-31",
-   "what": "Leave application SENT 10:58 (Taylor, cc Roberts + Petering). Taylor actioned same day: AVAC for 17-30 Aug only, PRN 249 863 66, at '0.5 FTE', leave type includes S/L; LSL blocked by system, referred to Payroll. Reply drafted correcting FTE and leave type.",
-   "status": "DONE / REPLY PENDING SEND"
+   "what": "COMPLETE: application 10:59 -> Taylor actions + '0.5 FTE' 15:34 (cc union) -> four-point correction SENT 16:06. Full thread filed in original form. Awaiting: leave-type breakdown under PRN 249 863 66; any post-28-June instrument; Payroll on the service date and LSL block.",
+   "status": "DONE — AWAITING ANSWERS"
   },
   {
    "date": "2026-09-09",

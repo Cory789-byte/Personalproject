@@ -6899,3 +6899,9 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
 - ⭐ THE FORK (reserve, not sent): the 0.5 FTE cannot be alive for calculating leave and dead for
   rostering him. If defended, it goes to Petering as an industrial one-liner.
 - Diarise 9 Sept: check the pay — hours, leave types, amount.
+- 15:34 — Taylor's reply RECEIVED IN ORIGINAL (cc Roberts + PETERING — union saw the 0.5 FTE live).
+- 16:06 — the four-point correction SENT (32 min turnaround). Change from draft: asked for the
+  17–30 Aug payment "urgently" rather than naming the 9 Sept run.
+- Full thread filed: documents/correspondence-2026/2026-08-31_FULL_THREAD_Taylor_LSL_AVAC_application_reply_and_correction.pdf
+- AWAITING: PRN 249 863 66 leave-type breakdown; any post-28-June instrument; Payroll on service
+  date + LSL block. The fork stays in reserve.
