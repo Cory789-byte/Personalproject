@@ -1,7 +1,7 @@
 {
  "meta": {
   "file": "SCRATCHPAD_REASONING.json",
-  "generated": "2026-08-28 (rev 3 — the Roberts thread integrated; D6 defect confirmed as SERVED)",
+  "generated": "2026-08-31 (rev 4 — the leave application SENT, Taylor's same-day reply, and the 0.5 FTE fork)",
   "matter": "WC/2024/227 Shepherd v Workers' Compensation Regulator (QIRC, s 550(4) WCRA)",
   "status": "INTERNAL WORKING SCRATCHPAD — not for service, not for filing, not quotable externally",
   "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
@@ -290,6 +290,41 @@
     "MINOR INFORMATION-HANDLING OBSERVATION: an annotation expressly marked 'For Internal information only... not relevant for Emily or Cory' was left in a message sent TO Emily and Cory. Not material to the appeal; note it, do not run it.",
     "Terry McQuillan is a consistent participant in the HR thread — record the role."
    ]
+  },
+  {
+   "id": "D11",
+   "title": "AS SENT — application for long service leave and annual leave, and request for AVAC to be processed today",
+   "sent": "Monday 31 August 2026, 10:58",
+   "to": "Chloe Taylor",
+   "cc": "Jacqui Roberts; Emily Petering (Together Qld)",
+   "filed_at": "documents/correspondence-2026/2026-08-31_1058_Cory_to_Taylor_LSL_AL_AVAC_application_SENT.pdf",
+   "content": [
+    "Applies for LSL on full pay from 13 July 2026 (date of last wages) continuing; then annual leave on exhaustion, until further notice",
+    "Asks that the NP Sick Leave coding be corrected and REPLACED; confirms he is NOT applying for personal leave as he is not unfit",
+    "Asks the AVAC be submitted and processed TODAY with a reference number and the pay run confirmed",
+    "Paragraph 4: UNDER PROTEST AND WITHOUT PREJUDICE, on four express bases including 4(d): leave to be RE-CREDITED if wages are paid or found payable for any part of the same period, or if the recording of the absence is later corrected or determined otherwise",
+    "Paragraph 5: hardship stated plainly — no income since 13 July, accommodation given up; asks after any urgent/off-cycle payment mechanism",
+    "Paragraph 6: if any part cannot be actioned today, say today which part, why, and when"
+   ],
+   "significance": "The protest + re-credit election and the condition sit in the SAME document. The union was copied at the moment of application."
+  },
+  {
+   "id": "D12",
+   "title": "Taylor reply — same afternoon, 31 August 2026",
+   "source": "pasted by Cory; obtain the .eml/PDF for the file",
+   "verbatim_findings": [
+    "'I have applied your S/L and A/L in lieu of S/L for your absence from the workplace through an AVAC as requested, for the past fortnight 17th August 2026 – 30th August 2026.'",
+    "'As you are on reduced roster 0.5 FTE, I have applied the leave as per reduced shifts - PRN 249 863 66'",
+    "'About your long service leave from the 13th July 2026 - the system is currently not allowing me to apply LSL, so I have made enquiries with Payroll to understand why this may be and I will get back you as soon as I have an update.'"
+   ],
+   "what_it_gives": [
+    "Same-day action with a reference number (PRN 249 863 66) — the deadline-and-number technique worked",
+    "STAR: 'reduced roster 0.5 FTE' is now MSH'S WRITTEN POSITION ON HIS HOURS — contradicted by their own expired movement form (Form 3, effective 25.05–28.06.2026, temporary, never extended) and their own 12 Aug payslip recording the absence at 76.00 hours",
+    "'S/L and A/L in lieu of S/L' — sick leave has been applied in some form to a man who expressly did not apply for it and is certified fit",
+    "Only ONE fortnight actioned (17–30 Aug), not the period from 13 July as applied for",
+    "STAR STAR: THE SYSTEM WILL NOT APPLY LSL. Most probable diagnosis: the continuous service date was RESET at the 20 September 2024 separation and never corrected on the February 2025 reinstatement. The deed (recital B: commenced 25 March 2019; recital F: reinstated effective 20 September 2024) proves 7 years fell due 25 March 2026. If Payroll confirms a reset date, that is a payroll error persisting ~18 months after reinstatement, discovered only because he applied for LSL"
+   ],
+   "reply_drafted": "drafts/REPLY_Taylor_31AUG2026_FTE_leavetype_LSLblock.txt — four points: confirm leave types/hours under the PRN and re-credit any sick leave; apply at substantive 76 hrs (movement forms only, ECC kept OUT of the hours point); extend back to 13 July as an adjustment once LSL resolves; hand Payroll the service-date diagnosis WITHOUT mentioning the deed; confirm the 9 September pay run; re-attach the paragraph 4 protest basis in one line."
   }
  ],
  "audio_forensics": {
@@ -542,6 +577,14 @@
     "D9 (28 Aug) records that as at 27 August, 'despite the authority I provided, Queensland Health has not yet responded to his request for information'."
    ],
    "inference": "An authority naming a practitioner who does not exist cannot safely be acted on. The wrong name is a concrete, fixable and highly probable cause of the non-response now blocking the 9 September report. It is not the only possible cause, but it is the one that can be eliminated today."
+  },
+  {
+   "rank": "2-EQUAL — NEW 31 AUG",
+   "risk": "THE 0.5 FTE BASELINE MUST NOT SET",
+   "detail": "Taylor's reply treats him as 'on reduced roster 0.5 FTE'. If uncorrected it becomes the recorded baseline for the leave payment, the LSL rate, and any later calculation. The documents against it are MSH's own: movement form 3 was temporary and expired 28 June 2026 with no extension; the 12 Aug payslip records 76.00 hours; he was held out from 3 July — five days AFTER the reduction expired.",
+   "the_fork": "Either the 0.5 FTE arrangement is CURRENT — in which case there is a roster he is on and he should be returned to work it and paid — or it EXPIRED on 28 June — in which case leave pays at 76 hours. No coherent position has the arrangement alive for calculating leave and dead for rostering him. HELD IN RESERVE: not argued in the reply, which asks 'what document is it based on' and lets her answer force the choice. If they defend the 0.5 FTE, hand the fork to Petering as a one-sentence industrial grievance: 'MSH is paying my member's leave on a roster it refuses to roster him to.'",
+   "note": "40/76 = 0.53 and the ECC six-shift pattern ≈ 0.6 FTE — her '0.5' matches no document.",
+   "action": "Reply sent same day (drafted). Watch for: any instrument produced for a post-28-June arrangement; the leave-type breakdown under PRN 249 863 66; Payroll's answer on the recorded continuous service date."
   }
  ],
  "the_report": {
@@ -674,6 +717,16 @@
  },
  "clocks": [
   {
+   "date": "2026-08-31",
+   "what": "Leave application SENT 10:58 (Taylor, cc Roberts + Petering). Taylor actioned same day: AVAC for 17-30 Aug only, PRN 249 863 66, at '0.5 FTE', leave type includes S/L; LSL blocked by system, referred to Payroll. Reply drafted correcting FTE and leave type.",
+   "status": "DONE / REPLY PENDING SEND"
+  },
+  {
+   "date": "2026-09-09",
+   "what": "CHECK: payment for 17-30 Aug appears in this pay, at what hours and what leave types. If 0.5 FTE or sick leave persists, escalate to Petering with the fork.",
+   "status": "OPEN"
+  },
+  {
    "date": "2026-08-28",
    "what": "Form 24 / Form 25 / Annexure A / Part B SERVED. r 49 14-day clock running.",
    "status": "DONE"
@@ -682,11 +735,6 @@
    "date": "2026-08-28",
    "what": "Stage 2 withdrawal email SENT to Roberts, 14:18",
    "status": "DONE"
-  },
-  {
-   "date": "IMMEDIATE",
-   "what": "REISSUE THE CORRECTED MEDICAL AUTHORISATION — wrong practitioner name, served 24 Aug, likely cause of the gate",
-   "status": "URGENT"
   },
   {
    "date": "2026-09-02",

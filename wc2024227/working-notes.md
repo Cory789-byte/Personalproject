@@ -6884,3 +6884,18 @@ short extension in writing, to a stated date. Refusing looks unreasonable and sh
 anyway. Note it pushes the deemed-admission date further past 9 Sept, which is already the case.
 MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verification (Part Eight
 §53). Answer is Dwyer's single-document route or an attendance notice — never another Form 29.
+
+## 2026-08-31 — LEAVE APPLICATION SENT; TAYLOR ACTIONS SAME DAY; THE 0.5 FTE APPEARS
+- 10:58 — application SENT to Taylor (cc Roberts + Petering): LSL from 13 Jul, A/L on exhaustion,
+  AVAC today, ¶4 protest + re-credit, hardship stated. Filed as-sent at
+  documents/correspondence-2026/2026-08-31_1058_Cory_to_Taylor_LSL_AL_AVAC_application_SENT.pdf
+- Same afternoon — Taylor replies: AVAC done for 17–30 Aug ONLY, PRN 249 863 66, "S/L and A/L in
+  lieu of S/L", at "reduced roster 0.5 FTE"; LSL blocked by the system, referred to Payroll.
+- ⛔ 0.5 FTE contradicted by their own documents (Form 3 temporary, expired 28.06.26; payslip 76.00
+  hrs). Reply drafted same day: drafts/REPLY_Taylor_31AUG2026_FTE_leavetype_LSLblock.txt.
+- ⭐⭐ LSL system block — likely a service date reset at the 20.09.2024 separation, never corrected on
+  reinstatement. Deed recitals B and F prove 25.03.2019 commencement + continuity ⇒ 7 yrs fell due
+  25.03.2026. Payroll email (also sent today) asks for the recorded continuous service date cold.
+- ⭐ THE FORK (reserve, not sent): the 0.5 FTE cannot be alive for calculating leave and dead for
+  rostering him. If defended, it goes to Petering as an industrial one-liner.
+- Diarise 9 Sept: check the pay — hours, leave types, amount.
