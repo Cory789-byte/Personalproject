@@ -12,7 +12,7 @@ payment action was the ELEVENTH — and it produced one fortnight, at half rate.
 | # | Date | Channel | The ask | Answer received |
 |---|---|---|---|---|
 | 1 | ✅ **3 Jul, 15:18** | Taylor | *"could you please process the balance as annual leave rather than sick leave without pay"* | Taylor: will *"continue to process as Sick leave / Sick leave no pay"* until leave type confirmed |
-| 2 | **4–12 Jul** | IM/HR thread | ⚠ *"my request, made in EACH OF MY PREVIOUS EMAILS — that rostered shifts during this employer-directed period be treated as paid time and not deducted from my leave"* (his own words, 13 Jul). **Plural — the exact dates are in the 12pp thread**; counted here as ONE, conservatively | unanswered |
+| 2 | ✅ **10 Jul, 08:35** | Forrest / IM | *"If the Health Service decides not to roster me pending its assessment, **please confirm that these shifts will be treated as paid time and will not be deducted from my leave**, as I am certified fit and available to work"* — plus *"I ask that my return to rostered shifts be facilitated"* | unanswered until the 13 Jul QSuper deflection |
 | 3 | ✅ **13 Jul, 16:39** | Injury Mgmt / Forrest | *"…has not yet been answered. Given the above, **I ask again.**"* Paid time, not deducted from leave; if refused, confirm in writing | **15 Jul, Harrison: REFUSED** — *"we are not responsible for your payments whilst on this claim... sits with your QSuper Claim Manager"* |
 | 4 | ✅ **22 Jul** | Payroll | **Payroll Enquiry 4438861** lodged | *"Pending Investigation"* — ⛔ **still unresolved 40 days later** |
 | 5 | ✅ **28 Jul, 17:39** | IM / Forrest, cc union + fund | The EB12/Award letter — contests the sick-leave-no-pay coding and the 15 Jul "pay sits with QSuper" basis (*"an insurance arrangement which is not a source of wages"*) | 29 Jul EAF reply; 30 Jul holding reply |
@@ -47,8 +47,8 @@ from mid-June (*"no wages since 13 July"*). Workings still not provided.
 - ⛔ **The appeal**: NOT used. 2026 conduct never enters WC/2024/227.
 
 ## `[unresolved]`
-- Itemise the #2 "previous emails" (4–12 July) from
-  documents/correspondence-2026/2026-07_Cory_to_InjuryMgmt_ECC_further_information_FULL_THREAD_12pp.pdf
-  — the count is understated until then.
+- ✅ RESOLVED 31 Aug: the "previous emails" are 3 July 3:18 pm and 10 July 8:35 am — stitched
+  verbatim at skill/references/STITCHED-THREAD-2JUL-13JUL2026-verbatim.md. The count of ELEVEN
+  written requests is now fully itemised and source-verified.
 - Confirm the 5 Aug Stage 1 reply's exact pay wording from the sent copy (drafted "restored, and the
   leave debited since 3 July 2026 be recredited").
