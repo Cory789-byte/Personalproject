@@ -825,5 +825,10 @@
   "Emily Petering": "Industrial officer, Together Queensland — attending the HR meetings.",
   "Chloe Taylor": "Switchboard Manager, Switchboard Services, Logan Hospital. STILL the line manager as at May 2026 (D7). Roberts spoke with her about applying leave and the AVAC on 24 August 2026.",
   "Dr Ravikumar Bangalore Krishnaiah": "Consultant Psychiatrist, Mind and Memory Service. Provider 473280RT. Name CONFIRMED from Cory's email of 28 August 2026. NOT 'Dr Rai Ravi Ravikumar'."
+ },
+ "pay_requests_tally": {
+  "file": "skill/references/PAY-REQUESTS-TALLY-3JUL-31AUG2026.md",
+  "count": "at least 11 written to MSH in 59 days (3 Jul - 31 Aug), plus the 21 Aug verbal and one to the fund; #2 is conservatively one though his own 13 July email says 'each of my previous emails' (plural)",
+  "headline": "He asked on day one, tried every channel in order, and the first payment action came at request #11 - four and a half hours after a same-day deadline with the union copied."
  }
 }
