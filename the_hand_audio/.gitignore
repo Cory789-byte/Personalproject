@@ -1,2 +1,8 @@
 # build scratch (pid-scoped temp files from build.py)
 *.tmp.mp3
+
+# Regenerable build output — recreate with:  build.py && stitch.py
+audio/episodes/
+
+# Parts 1 and 2 together are the same audio; the single 46 MB file is not tracked.
+audio/The-Hand-Complete.mp3

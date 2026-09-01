@@ -11,9 +11,26 @@ be corrected and that episode re-rendered on its own.
 
 ## Listen
 
-`audio/` holds the MP3s, numbered in listening order and ID3-tagged (album, track
-number, title) so a phone or podcast app shelves them as one audiobook in the right
-sequence.
+`audio/` holds the finished files. They are stitched, not 22 separate tracks, and
+each carries **chapter markers** — so one long file still lets a player jump
+straight to a ground.
+
+| File | Runtime | Size | Contents |
+|---|---|---|---|
+| `The-Hand-Part-1-The-Story.mp3` | 1:00:38 | 28 MB | Episodes 0–11 — how to listen, Point 209, the ten grounds |
+| `The-Hand-Part-2-The-Record.mp3` | 39:40 | 18 MB | Episodes 12–21 — the annexures, and the forty questions |
+| `The-Hand-Complete.mp3` | 1:40:19 | 46 MB | All 22 chapters in one file |
+| `The-Hand-Questions.mp3` | 18:19 | 8 MB | Annexure E alone, for the room |
+| `00_name-check.mp3` | 3:56 | 2 MB | Pronunciation audit — see below |
+
+Two parts rather than one file because a single 46 MB attachment is over the limit
+on most things you would send it through. The seam is the natural one: the
+narrative ends, the apparatus begins.
+
+`audio/episodes/` holds the 22 per-episode renders. They are regenerable build
+output and are not tracked — run `build.py` to recreate them.
+
+### The chapters
 
 | # | Episode | Covers |
 |---|---------|--------|
@@ -39,9 +56,6 @@ sequence.
 | 19 | Sitting Three — Harriet, Maria, the Seven | Questions 22–28 |
 | 20 | Sitting Four — The Balsley Side | Questions 29–35 |
 | 21 | Sitting Five — You, Kiel, Now | Questions 36–40 |
-
-Plus `audio/00_name-check.mp3` — every difficult name in the book, read once each,
-slowly. See **Pronunciation** below.
 
 ### The five question episodes
 
@@ -106,14 +120,19 @@ that got passed down.
 python3 -m venv venv
 ./venv/bin/pip install edge-tts imageio-ffmpeg
 
-./venv/bin/python build.py            # all episodes
+./venv/bin/python build.py            # render all 22 episodes -> audio/episodes/
 ./venv/bin/python build.py 06 17      # only episodes 06 and 17
 ./venv/bin/python build.py --check    # the name-check track
+./venv/bin/python stitch.py           # stitch into the files in audio/
 ```
+
+Edit a script, re-render just that episode, re-run `stitch.py`. Nothing else has
+to be rebuilt.
 
 `build.py` synthesises each block, inserts real silence for every `[[PAUSE n]]`,
 concatenates, applies `loudnorm` so all episodes sit at the same level, and writes
-ID3 tags. `manifest.json` records every episode's runtime.
+ID3 tags. `manifest.json` records every episode's runtime, and `stitch.py` reads it to
+place the chapter marks.
 
 Voice, pace and pitch are the constants at the top of `build.py`:
 

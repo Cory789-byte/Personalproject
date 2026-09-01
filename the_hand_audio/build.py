@@ -29,7 +29,8 @@ ARTIST = "The Hand — Second Assembly"
 
 HERE    = os.path.dirname(os.path.abspath(__file__))
 SCRIPTS = os.path.join(HERE, "scripts")
-OUT     = os.path.join(HERE, "audio")
+OUT     = os.path.join(HERE, "audio", "episodes")   # per-episode renders (regenerable)
+DELIV   = os.path.join(HERE, "audio")                # stitched deliverables live here
 CONCURRENCY = 6
 
 # --- pronunciation ----------------------------------------------------------
@@ -188,7 +189,7 @@ CHECK_TERMS = [
 
 async def build_check(sem):
     work = tempfile.mkdtemp(prefix="check_")
-    out_path = os.path.join(OUT, "00_name-check.mp3")
+    out_path = os.path.join(DELIV, "00_name-check.mp3")
     try:
         parts, jobs = [], []
         intro = ("Name check. Every difficult name in the book, once each, slowly. "
@@ -217,6 +218,7 @@ async def build_check(sem):
 # --- main -------------------------------------------------------------------
 async def main():
     os.makedirs(OUT, exist_ok=True)
+    os.makedirs(DELIV, exist_ok=True)
     sem = asyncio.Semaphore(CONCURRENCY)
     args = [a for a in sys.argv[1:] if not a.startswith("-")]
 
