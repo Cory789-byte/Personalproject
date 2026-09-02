@@ -6905,3 +6905,14 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
 - Full thread filed: documents/correspondence-2026/2026-08-31_FULL_THREAD_Taylor_LSL_AVAC_application_reply_and_correction.pdf
 - AWAITING: PRN 249 863 66 leave-type breakdown; any post-28-June instrument; Payroll on service
   date + LSL block. The fork stays in reserve.
+
+## 2026-09-02 — THE DIRECTION 2 BACKSTOP
+- Variation application drafted: drafts/EMAIL_Registry_variation_direction2_2SEP2026.txt
+- NARROWED DELIBERATELY: expert report only, to 23 Sept. Direction 1 witness list and the lay
+  outlines still served 9 Sept as ordered. ⭐ Respondent's 30 Sept date expressly NOT disturbed —
+  they hold no medico-legal report on the 14 Aug amended LOD and must not be handed three weeks.
+- Reason given as "a third party" — no naming of Queensland Health, the RFMI or the capacity
+  process. Leakage rule holds.
+- ⛔ GATE CHECK BEFORE SENDING: has the practice confirmed (a) Dr K proceeds on Cory's instruction
+  and (b) a delivery date? Both yes and on/before 9 Sept ⇒ do not send.
+- Andrews [2020] QIRC 104 is why this goes a week early rather than late.
