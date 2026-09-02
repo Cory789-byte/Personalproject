@@ -6921,3 +6921,8 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   today or just passed. Asks ONE thing: is PRN 249 863 66 in the 9 Sept run, at what gross, at what
   hours — and if not, who authorises an urgent payment. Monday's four points expressly parked.
 - NOTHING received from MSH since 31 Aug 15:34 on any front.
+- 2 Sep — ⭐ NEW FACT: Cory cannot log into MyHR. Cannot submit leave, check balances or see what has
+  been applied. Added to the ad hoc payment email (once, factually, ask for restoration — no
+  allegation). Logged as a WATCH item: cf [36:42] "my health service email was restricted". If
+  access was removed rather than lapsed, that is an employment-track issue for Petering, not for
+  the payment email.
