@@ -6916,3 +6916,8 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
 - ⛔ GATE CHECK BEFORE SENDING: has the practice confirmed (a) Dr K proceeds on Cory's instruction
   and (b) a delivery date? Both yes and on/before 9 Sept ⇒ do not send.
 - Andrews [2020] QIRC 104 is why this goes a week early rather than late.
+- 2 Sep — URGENT payment follow-up drafted (drafts/EMAIL_Taylor_URGENT_2SEP2026_cutoff.txt). 51 days
+  without wages; three pay runs missed; QH cut-off for the 9 Sept pay falls ~1-2 Sept, so it is
+  today or just passed. Asks ONE thing: is PRN 249 863 66 in the 9 Sept run, at what gross, at what
+  hours — and if not, who authorises an urgent payment. Monday's four points expressly parked.
+- NOTHING received from MSH since 31 Aug 15:34 on any front.
