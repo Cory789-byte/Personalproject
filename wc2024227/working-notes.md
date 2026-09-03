@@ -7182,3 +7182,23 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
       special leave on full pay be applied instead."
   ⛔ "Elect"/"election" deliberately NOT used — term of art, invites a quibble. "Selected", "positive
   act", "chosen" carry the same force and are unanswerable. No motive anywhere.
+- 3 Sep — ⭐⭐⭐ THE 4 AUGUST ENTRY. Cory: "when the identified correction could have been made with
+  either annual leave, sick leave or special leave, the election was then again chosen as no pay."
+  VERIFIED FROM SOURCE (documents/correspondence-2026/2026-09_Leave.pdf, myHR Request Overview): the
+  entries are NOT a single standing code. They are DISCRETE DAILY LEAVE REQUESTS, each separately
+  entered and separately APPROVED — the record shows "SICK LEAVE - NO PAY (03.08.2026 - 03.08.2026)"
+  and "SICK LEAVE - NO PAY (04.08.2026 - 04.08.2026)", both APPROVED. Balances confirmed on the same
+  page: Recreation 51.31 hrs, Sick 14.66 hrs, RDO -0.33 (as at 02.09.2026).
+  ⇒ THE ARGUMENT, NOW AIRTIGHT: on 4 AUGUST — the very day Taylor wrote that she was required to process
+  leave on his behalf, named the 41.21 hrs and undertook to apply it "to ensure you receive the
+  available paid leave entitlement" — a SICK LEAVE – NO PAY request for that same day was entered and
+  approved. Four courses were open that day: annual leave (requested 3 Jul); recreation leave (she
+  identified it and undertook to apply it); special leave on full pay (requested the next morning); and,
+  WITHIN THE VERY CATEGORY SELECTED, paid sick leave, of which he held a balance. The one entered was
+  the unpaid variant — the only one of the four producing no payment.
+  ⛔ DISCIPLINE HELD: the 03.08.2026 entry (the day he served the Stage 1 notice) is QUOTED as part of
+  the record showing daily discrete requests, but NOT characterised and NOT linked to the notice.
+  The 4 Aug point needs no juxtaposition — it contradicts her own undertaking on its own date.
+  Notice page one also updated: "...and again on 4 August 2026, on the very day the Health Service
+  itself identified the paid alternative and undertook to apply it." Timeline entry for the myHR leave
+  record rewritten to name what it proves.

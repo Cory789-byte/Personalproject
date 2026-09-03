@@ -71,6 +71,6 @@ EVENTS=[
  ('3 Sep 2026','2:52 pm','Beetham (Together)','Referral to the Workers\' Psychological Support Service, described as assisting with work-related injury "including a lack of support from management", and providing financial counselling.',None),
  ('3 Sep 2026','','Harrison → Shepherd','The reimbursement paperwork for the 3 July consultation to be completed today; the clinic\'s invoice was received 2 September.',C+'2026-09-03_0738_Harrison_ECC_reimbursement_paperwork_to_be_completed_today.pdf'),
  ('2–3 Sep 2026','','myHR records','Payroll enquiries: 4471091 Ad Hoc Payment, 2 September, Pending; 4438861 Leave, 22 July, shown Resolved though never communicated; 4045255 Ad Hoc Payment, 11 March 2025, Resolved. Leave balances and the daily "Sick Leave – No Pay" entries.',C+'2026-09_My_payroll_enquiries.pdf'),
- ('2–3 Sep 2026','','myHR records','Leave records and balances.',C+'2026-09_Leave.pdf'),
+ ('2–3 Sep 2026','','myHR records','Leave record. Balances as at 2 September 2026: Recreation Leave 51.31 hours; Sick Leave 14.66 hours. Request overview showing "SICK LEAVE - NO PAY" entered as DISCRETE DAILY LEAVE REQUESTS, each separately APPROVED — including 03.08.2026 and 04.08.2026.',C+'2026-09_Leave.pdf'),
  ('Jul–Sep 2026','','Switchboard manager','Payment correspondence record.',C+'2026-09_Manager_Switchboard_Payment_Corro.pdf'),
 ]
