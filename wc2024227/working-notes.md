@@ -6954,3 +6954,18 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   of the two-part email: Directive 12/24 cl 6.1 via EB12 cl 9.12; applied 28 Jul + 5 Aug, never decided;
   ask = delegate's decision with reasons under cl 6.5 (reason/duration/impact). Motive not stated —
   chronology only. Directive now Section D of the pack (42pp). Table 2 row added. Petering ask 2 extended.
+- 3 Sep 14:52 — ⭐ THE UNION'S ANSWER (filed: documents/correspondence-2026/2026-09-03_1452_Together_Beetham_WPSS_referral_and_Petering_holding_reply.pdf).
+  Sequence: 2 Sep 12:14 Cory → Emily + Heath, six asks (wages claim; ad hoc payment; coding + 76 hrs
+  not 0.5 FTE; LSL service date; a decision under the 3 Jul restrictions or a written refusal naming
+  instrument + officer; Hall Payne referral). 2 Sep 11:07 Emily OOO. 3 Sep 14:10 Emily returns:
+  "reviewing the 14 emails I've received on your matter this week … reply … by the end of the week."
+  3 Sep 14:15 Cory: not asking substance today — one call to Payroll/Jacqui re the ad hoc payment,
+  or tell me who to contact; any member welfare/hardship option. 3 Sep 14:52 Matthew Beetham
+  (Member Assist): WPSS referral (wpss.org.au / 1800 370 732) incl. financial counselling. NOTHING on
+  the ad hoc payment, no hardship fund, no name to contact, no view on any of the six asks.
+  ⛔ READ: no union view on the merits exists. No industrial carriage since the 15 Jul referral to
+  Heath Moran ("still reviewing, industrial team", 17 Jul). Emily and Matthew both sign Member Assist
+  from representation@together.org.au — triage, not an assigned industrial officer.
+  ⚠️ VOLUME SIGNAL: "the 14 emails I've received on your matter this week" — the channel is saturated.
+  Next union contact should be ONE ask: EB12 cl 3.8.2 — a union official to escalate to the single
+  payroll point of contact. Deadline given: end of the week.
