@@ -17,7 +17,8 @@ s=[P('PAYMENT AND LEAVE — WHAT IS TO BE ACTIONED, BY PAY PERIOD',H1),
    P('Cory Shepherd (388372), AO3, Switchboard Services, Logan Hospital · 3 September 2026 · for Ms Taylor and Payroll',SM),Spacer(1,5),
    P('1. THE PAY PERIODS',H2)]
 rows=[[P('<b>Fortnight</b>',SMB),P('<b>What applies</b>',SMB),P('<b>Hours</b>',SMB),P('<b>Status</b>',SMB),P('<b>Pay date</b>',SMB)]]
-data=[('17 – 30 Aug','AVAC processed — process no. 24926366 (msg 39). Applied as “S/L and A/L in lieu of S/L” at “0.5 FTE” (msg 33)','should be 76 — substantive full time; the last reduced-hours arrangement ended 28 Jun','Confirm in writing: gross amount, hours, leave types. If processed at 0.5 FTE, adjust in the next run','Wed 9 Sep'),
+data=[('3 Jul – 30 Aug','“Sick Leave – No Pay” INCORRECTLY APPLIED since 3 Jul 2026. I confirmed in writing at 3:18 pm on 3 Jul that the leave was to be annual leave, not sick leave without pay (msg 4), and asked for the coding to be corrected on 10 Jul, 13 Jul, 28 Jul, 5 Aug, 31 Aug and 3 Sep. Not a request made after the fact','76','To be corrected from 3 Jul 2026 in the leave audit — and the correction applied before eligibility is recalculated','—'),
+ ('17 – 30 Aug','AVAC processed — process no. 24926366 (msg 39). Applied as “S/L and A/L in lieu of S/L” at “0.5 FTE” (msg 33)','should be 76 — substantive full time; the last reduced-hours arrangement ended 28 Jun','Confirm in writing: gross amount, hours, leave types. If processed at 0.5 FTE, adjust in the next run','Wed 9 Sep'),
  ('31 Aug – 3 Sep','Pre-eligibility on Payroll’s date. Currently “Sick Leave – No Pay” — not applied for; contrary to my instruction of 3 Jul 3:18 pm (msg 4)','76','Leave audit (Payroll) to correct the coding; wages for the held-out period remain claimed','Wed 23 Sep'),
  ('4 – 13 Sep','LONG SERVICE LEAVE, full pay, from Thu 4 Sep 2026 — Payroll’s own eligibility date (msg 40)','76 (38/week)','TO BE ENTERED NOW so it is in this run. No further “Sick Leave – No Pay” from 4 Sep','Wed 23 Sep'),
  ('14 Sep onward','Long service leave continuing until further notice','76','Continuing','Wed 7 Oct …'),
@@ -29,6 +30,7 @@ for x in ['Enter long service leave from Thursday 4 September 2026 at 76 hours p
           'Confirm in writing what will be paid on 9 September under process 24926366: gross amount, hours, and the leave types debited — and whether it was processed at 76 hours or at 0.5 FTE.',
           'Payroll: action ad hoc payment enquiry 4471091, or provide the reason in writing.']:
     s.append(P('•  '+x,B))
+s.append(P('The “Sick Leave – No Pay” coding is wrong from 3 July 2026 and has been contested from the day it was applied. It is not a request raised after the fact: the objection was made in writing at 3:18 pm on 3 July, before any question of long service leave eligibility arose, and on each occasion since.',B))
 s.append(P('All leave applied for is applied for under protest and subject to re-credit, on the basis set out in my application of 31 August (msg 32, paragraph 4), which continues to apply. I remain certified fit with restrictions and ready and available to work.',B))
 s.append(P('3. THE MESSAGES THIS REFERS TO',H2)); s.append(P('The application, the replies and the corrections of 31 August – 3 September, reproduced as sent. Standard email boilerplate omitted; nothing else altered.',SM)); s.append(PageBreak())
 SEL=[32,33,34,35,36,39,40,41]
