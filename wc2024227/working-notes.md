@@ -7055,3 +7055,12 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   Either the period is being treated as paid service for accrual, or the accrual is running on the
   substantive appointment — either way it is inconsistent with the "no pay" coding. Ask; do not assert.
   Union file rebuilt to 167pp with this as a tab: drafts/out/UNION_FILE_whole_picture_and_archive_3SEP2026.pdf
+- 3 Sep — BUILT: `drafts/out/LEAVE_TYPE_20JUL-2AUG_what_was_asked_and_what_was_applied.pdf` (17pp,
+  scrubbed). 2pp of explanation + 5 tabs of originals (2–3 Jul thread; 20 Jul myHR IP–No Pay entry;
+  4 Aug Stage 1 acknowledgement; 5 Aug reply; 12 Aug payslip). The argument in one place: three leave
+  types were in play, the one applied is the only one nobody requested and the only one that pays
+  nothing; C13 §6 required a written request for the type entered and none exists; the coding
+  contradicts the employer's own ECC; on the employer's own stated default 41.21 hrs = $1,832.20 gross
+  would have been paid; and the coding deferred the LSL eligibility now relied on to refuse the leave.
+  Five asks incl. the accrual anomaly (41.21 → 51.31 hrs) put as a question. Build:
+  drafts/build_leavetype_exhibit.py
