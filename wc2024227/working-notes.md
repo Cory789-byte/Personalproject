@@ -7020,3 +7020,14 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
     to the employer. Correct given the RFMI and the appeal. Do not relax it.
   Files: documents/correspondence-2026/2026-09-03_0738_Harrison_ECC_reimbursement_paperwork_to_be_completed_today.pdf;
          documents/correspondence-2026/2026-09-03_0858_MyDoctors_Waheed_signed_stamped_invoice_sent_2SEP.pdf
+- 3 Sep — BUILT: `drafts/out/UNION_FILE_whole_picture_and_archive_3SEP2026.pdf` (163pp, scrubbed).
+  Front matter 4pp — (1) the position at 3 Sep; (2) the coding and how it became the LSL obstacle;
+  (3) the SIX reasons given for not paying, each tied to a tab; (4) what Together has held and when,
+  from the 4 Oct 2025 complaint and the 3 Nov 2025 DELEGATE ENDORSEMENT through the 21 Aug conference
+  to Beetham's 3 Sep referral, ending on the seven weeks since the 14 Jul industrial referral with no
+  officer identified; (5) the TEN unanswered questions with dates and status; (6) the three asks
+  (carriage / cl 3.8.2 escalation / cl 7.2 risk assessment). Then 159pp of originals across 21 tabs,
+  4 Oct 2025 – 3 Sep 2026, nothing retyped.
+  ⛔ Disciplines held: chronology not motive; no s 32(5)(b) vocabulary; the deed appears only as "the
+  agreement of February 2025"; the appeal fenced in one line as a separate proceeding.
+  Build script: drafts/build_union_archive.py
