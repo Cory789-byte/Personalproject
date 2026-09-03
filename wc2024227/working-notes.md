@@ -7078,3 +7078,19 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   I will continue to process as Sick leave / Sick leave no pay"), and when he DID confirm — 29 minutes
   later, and again on 5 Aug — the confirmation was not applied. Disagreement treated as consent to a
   third option. That is provable from the documents and needs no motive.
+- 3 Sep — ⭐⭐ CORY'S POINT, AND IT IS THE BEST FRAMING YET: "it was a choice to then submit no pay —
+  that is the election to my detriment." Added as leading point (a) of the leave-type exhibit.
+  WHY IT IS BETTER THAN EVERYTHING BEFORE IT: it defeats the drift/disorganisation explanation
+  WITHOUT alleging motive. An entry in myHR is a POSITIVE ACT — a type selected from a menu and
+  submitted. The alternatives were available AND demonstrably known to the person entering it, because
+  she named the recreation balance (41.21 hrs) herself on 4 Aug and undertook to apply it. Three of the
+  four types in play pay; one does not; the one that does not was selected, daily, across eight weeks,
+  after eleven written objections. Repetition converts error into a course of conduct — the same logic
+  that forecloses "administrative slip" in the Hughes contradiction.
+  CONSEQUENCES: (1) kills the "the system wouldn't let us" line — the same menu held the alternative;
+  (2) C13 §6 makes each entry UNAUTHORISED, so it is an unauthorised positive act, not a neutral
+  default; (3) C13 §2 becomes a breach by commission, not omission — she was entering the very thing
+  that required rectification; (4) removes any suggestion the non-payment flowed from HIS inaction.
+  ⚠ LANGUAGE: "election" is a term of art (choosing between inconsistent rights) and this is not that.
+  In writing, describe the act — "the leave type was selected", "a choice was made between available
+  types" — do not label it an election. The substance is right; the label would invite a quibble.
