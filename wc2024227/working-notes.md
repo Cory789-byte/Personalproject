@@ -6940,3 +6940,13 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   payroll enquiries incl. ad hoc payment 11 Mar 2025 (precedent) and 4438861 shown "Resolved".
 - BUILT: RESPONSE_PACK_leave_and_pay_3SEP2026.pdf (counter 2pp + 3 exhibits + 41-message
   reproduction = 78pp); EMAIL_Taylor_Payroll_RESPONSE_3SEP2026.txt. LSL applied FORWARD from 4 Sep.
+- 3 Sep (later) — ⭐⭐ HR POLICY C13 (QH-POL-188, 23 Jun 2025) RECEIVED FROM CORY and read from source
+  (web fetch had failed). Filed documents/instruments/QH-POL-188_…pdf + VERIFIED_EXTRACTS.md. s8: ad hoc
+  is for a missed payment "outside of the regular pay day schedule without waiting for the next pay
+  cycle" — Taylor's 10:27 line is the opposite of the policy. s2: line manager MUST take all steps to
+  rectify once notified. s6: leave on an employee's behalf only on a documented written request — the
+  daily NP Sick entries have none. s8(4): locked out of myHR ⇒ line manager lodges the ad hoc.
+  ⚠ LIMIT: definition confines ad hoc to the "most recent prior pay period" (3–16 Aug, nil on 26 Aug);
+  24926366 (17–30 Aug) pays 9 Sep ON CYCLE under Directive 17/13 — do not argue ad hoc for it. Email
+  Part 2 reframed accordingly; rec leave 51.31h offered against 3–16 Aug without prejudice so money can
+  move; s9 review asked; new item 3 (s6 documents). G4 Absence management to obtain.

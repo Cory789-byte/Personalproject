@@ -1,34 +1,56 @@
-# THE POLICY BASIS FOR AN AD HOC (OFF-CYCLE) PAYMENT — WHAT IS VERIFIED, WHAT IS REPORTED
-> 3 September 2026. ⛔ Internal. Web sources returned 403/429/503 to every fetch; the Queensland Health
-> policy PDF (C13) could not be read from source. Anything marked REPORTED comes from search-result
-> text and must be checked against the document before it is quoted to anyone.
+# THE POLICY BASIS FOR AN AD HOC (OFF-CYCLE) PAYMENT — VERIFIED
+> 3 September 2026, revised the same day on receipt of **HR Policy C13 (QH-POL-188), 23 June 2025** —
+> now READ FROM SOURCE (`documents/instruments/QH-POL-188_C13_VERIFIED_EXTRACTS.md`). ⛔ Internal.
 
-## ✅ VERIFIED FROM SOURCE (instruments held in this repository)
+## ✅ VERIFIED FROM SOURCE
 | Instrument | Provision | What it establishes |
 |---|---|---|
-| **Award — HHS General Employees (QH) Award – State 2015**, cl 12.3(e) (ATT03) | *"Salaries shall be paid fortnightly and may at the discretion of the chief executive be paid by electronic funds transfer."* | The default cycle is fortnightly. Nothing in the clause prohibits a payment between cycles |
-| **EB12 — Public Health Sector CA (No. 12) 2025**, cl 3.8 (ATT02, certified copy) | 3.8.1 *"The role of the payroll working group is to: … (b) continue to improve processes for employees to undertake **if their pay is not correct**; and (c) … ensure employee's pays are **corrected in a timely manner**"* · **3.8.2** *"Following all reasonable steps being undertaken locally, there is a **single payroll point of contact for union officials to escalate concerns** to assist with the timely resolution of payroll errors."* | ⭐ Pay that is not correct is to be corrected in a timely manner — and **the union has a designated escalation channel into Payroll**. This is Petering's lever |
-| **EB11 — Public Health Sector CA 2022**, cl 3.8.3 (ATT01) | *"Within three months of certification of the Agreement, the payroll working group will determine an **appropriate use of ad hoc payments where an employee's pay is not correct**."* | ⭐ **Ad hoc payments are the agreed mechanism, by name, for pay that is not correct** — agreed between Queensland Health and the unions in 2022 |
-| **His own payroll record** (My Payroll Enquiries, 2 Sep 2026) | Enquiry type **"Ad Hoc Payment"** exists in myHR; **log 4045255, 11 Mar 2025, Ad Hoc Payment — Resolved**; **log 4471091, 2 Sep 2026, Ad Hoc Payment — Pending Investigation** | ⭐⭐ The mechanism exists in the system, **was used for him eighteen months ago**, and a request is already lodged |
-| **His own correspondence** (30 Jul 2026, msg 15) | asked *"that the rostered shifts from 3 July 2026 be processed by ad hoc payment, and the leave debited for that period be re-credited"* | The ad hoc request is not new — it was made on 30 July |
+| **HR Policy C13 (QH-POL-188)** §8 | *"enables employees to request a payment that was missed or requires correction **outside of the regular pay day schedule without waiting for the next pay cycle**"* | ⭐⭐ The purpose of the process, in the employer's own policy. *"Cannot be processed prior to Wednesday 9 September"* (Taylor, 3 Sep 10:27) is the opposite of what the process is for |
+| C13 §8(4) | *"in the event an employee is unable to access myHR … **the line manager can request an ad hoc payment on their behalf**"* | Cory could not log into myHR until 2 Sep. The duty sat with Taylor |
+| C13 §8(5), §5 table | lodge *"by 5pm payday Wednesday to ensure payment is received before the next regular pay day"*; include the PRN | 4471091 lodged Wed 2 Sep, a week before pay day 9 Sep, PRN 24926366 known. Timing condition met |
+| C13 §2 | *"Line managers, when notified by an employee of an incorrect wage payment, **must take all steps to rectify the error** including … preparing and submitting further forms … liaising with Payroll"* | ⭐ Mandatory line-manager duty, triggered by notice. Notice given 3 Jul and on every fortnight since (11 written requests) |
+| C13 §6 | line managers may submit leave on an employee's behalf only where *"the employee's request for leave is documented in writing"* and supporting documents (*"medical certificates for sick leave"*) are *"sourced and retained"*; must not *"unilaterally place employees on leave"* requiring mutual agreement | ⭐ The daily "Sick Leave – No Pay" entered on his behalf from 3 Jul rests on NO written request from him — his written request of 3 Jul was for annual leave. Part 1 question now has a policy footing |
+| C13 §4, §9 | either party may escalate to Payroll Services; where pay *"may be continuously incorrect"* the employee asks for a **review of pay entitlements** | The route for 3 Jul → 16 Aug as a block: a §9 review, alongside the audit already opened |
+| C13 §2 / PSC Directive 17/13 | pay day *"no later than ten calendar days after the completion of the fortnightly pay period"* | 17–30 Aug → 9 Sep is on-cycle and lawful. **The ad hoc claim must attach to pay already MISSED**, not to 24926366 |
+| C13 §4.2 | LWOP / WorkCover employees: line manager to ensure compliance with **HR Policy G4 Absence management** | G4 not held. Obtain — it governs how a 62-day unpaid absence should have been managed |
+| **Award** cl 12.3(e) (ATT03) | *"Salaries shall be paid fortnightly …"* | fixes the cycle; does not prohibit a payment between cycles |
+| **EB12** cl 3.8.1 / 3.8.2 (ATT02) | pay not correct → *"corrected in a timely manner"*; *"single payroll point of contact for union officials to escalate concerns"* | timeliness obligation; Petering's escalation channel |
+| **EB11** cl 3.8.3 (ATT01) | *"appropriate use of ad hoc payments where an employee's pay is not correct"* | ad hoc payments are the agreed mechanism, by name |
+| His payroll record (myHR, 2 Sep) | "Ad Hoc Payment" enquiry type; **4045255, 11 Mar 2025, Resolved**; **4471091, 2 Sep 2026, Pending** | precedent on his own record; request lodged |
+| His correspondence, 30 Jul (msg 15) | asked that the shifts from 3 July *"be processed by ad hoc payment"* | first ad hoc request — 5 weeks ago |
 
-## ⚠ REPORTED (search-result text; NOT read from source — verify before quoting)
-| Source | Reported wording | Use |
-|---|---|---|
-| Queensland Health careers site, *"Payroll assistance"* | *"If a missed payment or correction is needed outside of the regular fortnightly cycle, you can **request an ad hoc payment**. You can request an ad hoc payment in myHR if you were underpaid or a payment was missed, and to ensure the payment is received before the next regular pay day, you need to **lodge the request by 5 pm on pay day Wednesday**."* | ⭐ Queensland Health's own public guidance: ad hoc payments are precisely for payments *"outside of the regular fortnightly cycle"*. Directly contradicts *"cannot be processed prior to 9 September"* |
-| **HR Policy C13 — Payment of salary and wages and payroll deductions (QH-POL-188)** | Referenced in ATT10 (Reasonable Adjustment policy) as a related policy; the QH site hosts it at `/__data/assets/pdf_file/0040/395689/qh-pol-188.pdf`. **Could not be fetched.** | ⛔ Obtain it (Payroll, HR, or the union will have it). It is the operative policy on ad hoc payments and the approving delegate |
-| Nurses & Midwives (QH) CA 2025 (QIRC 2025_cb126) — a **comparator**, not his agreement | *"The employer will ensure underpayment is corrected within the current pay cycle, and can process an ad hoc payment at the request of the employee in accordance with HR Policy C13."* | ⚠ **Not in EB12 cl 3.8 (checked).** Use only as evidence of Queensland Health's stated payroll practice under C13 — never as a term of his agreement |
+## ⚠ THE LIMIT — READ BEFORE ARGUING
+C13 definition: *"missing pay in the **most recent prior pay period**, and seek the payment prior to
+the next pay day. **Not to be used for payment of missed pay for extended periods**. Refer to §9."*
+- The most recent prior pay period is **3–16 Aug**, paid at NIL on Wed 26 Aug (NP Sick 76 hrs). That is
+  the fortnight the ad hoc process is designed for. 20 Jul–2 Aug (paid 12 Aug, nil) and earlier are
+  "extended" → §9 review + the audit.
+- **24926366 (17–30 Aug) is NOT missed pay.** Its pay day is 9 Sep under Directive 17/13. Arguing ad hoc
+  for it lets Taylor answer correctly that it is on cycle. The 2 Sep ad hoc email asked for exactly that —
+  the reframing corrects it: ad hoc for 3–16 Aug; 24926366 confirmed in the 9 Sep run.
+- Ad hoc pays a **coded** entitlement. 3–16 Aug is coded NP Sick. Before the ad hoc can run, the fortnight
+  must be recoded (§8 step 2 "corrective payroll form"; §2 line manager "must take all steps"). What can
+  be coded TODAY: recreation leave **51.31 hrs** (all he has) → ≈ **$2,281 gross** at $44.46. LSL for the
+  balance/period depends on the eligibility date (audit). Applying the rec leave now is a choice: it
+  spends the only credit, but everything is under protest and subject to re-credit (31 Aug ¶4), and LSL
+  from 13 Jul on the agreement's dates re-credits it if the audit corrects the date.
+- §4.1: LSL applications are to be made *before* the leave. Answer: leave was applied for on 3 Jul (annual),
+  the employer chose the coding; §4.1 itself makes the line manager responsible for corrective action
+  where delay causes incorrect payment; the LSL application from the last pay date was made 31 Aug.
 
-## THE ARGUMENT, IN ORDER
-1. His pay is not correct: approved entitlement (process 24926366) unpaid; 52 days without wages.
-2. EB12 cl 3.8.1 — pay that is not correct is to be corrected in a timely manner.
-3. EB11 cl 3.8.3 — the agreed mechanism for pay that is not correct is an **ad hoc payment**.
-4. The mechanism exists in myHR, is described by QH itself as for payments *"outside of the regular
-   fortnightly cycle"*, and **was used for him on 11 March 2025**.
-5. ⇒ *"cannot be processed prior to 9 September"* describes the pay cycle, not the ad hoc process.
-   The request (4471091) is lodged; refusal requires a reason and a decision-maker.
-6. EB12 cl 3.8.2 — if local steps fail, **the union escalates to the single payroll point of contact**.
+## THE ARGUMENT, IN ORDER (as put in the two-part email)
+1. Pay is missed: 26 Aug pay day, nil, for 3–16 Aug (and the three pay days before it).
+2. C13 §8: ad hoc exists for missed pay "outside of the regular pay day schedule without waiting for
+   the next pay cycle" → "cannot be processed before 9 Sep" is not the policy.
+3. C13 §2 + §8(2)-(3): notified since 3 Jul; line manager must submit the corrective form (AVAC for
+   3–16 Aug) — the AVAC done for 17–30 Aug is the same form, one fortnight earlier.
+4. Coding for 3–16 Aug: LSL from 13 Jul (agreement dates); failing that, rec leave now, re-credit later.
+5. C13 §8(4)-(5): could not access myHR → duty on the line manager; lodged 2 Sep, before the Wednesday.
+6. C13 §9: review of pay entitlements from 3 Jul (continuous incorrect pay), with the audit.
+7. Refusal → reason, policy, officer, in writing. Then EB12 cl 3.8.2 via the union.
 
 ## ⛔ CAUTIONS
-- Never cite the nurses clause as EB12. Never quote C13 until read.
-- The ad hoc payment does not resolve the 0.5 FTE, the coding, or the wages claim — it is timing only.
+- Never argue ad hoc for 24926366 itself. Never cite the nurses' clause (2025_cb126) as EB12.
+- QH careers-page wording is superseded: quote C13 §8, which is held and verified.
+- G4 Absence management, C48, Directive 17/13 — NOT held. Name them, don't quote them.
+- Ad hoc = timing only. It does not resolve the coding, the 0.5 FTE, the eligibility date or the wages claim.

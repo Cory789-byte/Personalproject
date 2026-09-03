@@ -5,7 +5,9 @@
   "matter": "WC/2024/227 Shepherd v Workers' Compensation Regulator (QIRC, s 550(4) WCRA)",
   "status": "INTERNAL WORKING SCRATCHPAD — not for service, not for filing, not quotable externally",
   "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
-  "firewall": "QPS/criminal track (legal_system/) and the DFV material are NEVER voiced in WC/2024/227 or the employment track. No cross-track cognitive profile is to exist."
+  "firewall": "QPS/criminal track (legal_system/) and the DFV material are NEVER voiced in WC/2024/227 or the employment track. No cross-track cognitive profile is to exist.",
+  "revision": 7,
+  "last_updated": "2026-09-03 C13 ingested (D15)"
  },
  "documents_ingested_28AUG2026": [
   {
@@ -359,6 +361,30 @@
     "Leave balances 02.09.2026: Recreation 51.31 hrs; Sick 14.66 hrs; RDO -0.33",
     "Request overview: 'SICK LEAVE - NO PAY' entered DAILY on his behalf and APPROVED from 3 Aug 2026 (before AVAC processing)",
     "My payroll enquiries: 4471091 Ad Hoc Payment 02.09.2026 Pending; 4438861 Leave 22.07.2026 RESOLVED (never communicated); 4045255 Ad Hoc Payment 11.03.2025 Resolved — PRECEDENT"
+   ]
+  },
+  {
+   "id": "D15",
+   "title": "HR Policy C13 — Payment of salaries and wages (QH-POL-188), Chief Human Resources Officer, 23 June 2025 (8pp)",
+   "filed_at": "documents/instruments/QH-POL-188_HR_Policy_C13_Payment_of_salaries_and_wages_23JUN2025.pdf; extracts at documents/instruments/QH-POL-188_C13_VERIFIED_EXTRACTS.md",
+   "received": "3 Sep 2026, from Cory (web fetch had been blocked)",
+   "verified_provisions": [
+    "s8: ad hoc process 'enables employees to request a payment that was missed or requires correction outside of the regular pay day schedule without waiting for the next pay cycle' — DIRECTLY CONTRARY to Taylor 3 Sep 10:27 'cannot be processed prior to Wednesday 9th September'",
+    "s8(4): where employee unable to access myHR, the LINE MANAGER can request the ad hoc payment on their behalf — Cory locked out until 2 Sep",
+    "s8(5)/s5 table: lodge by 5pm pay day Wednesday, include PRN — 4471091 lodged Wed 2 Sep; PRN 24926366",
+    "s2: line manager notified of incorrect wage payment 'must take all steps to rectify the error' incl. submitting forms and liaising with Payroll — notice given 3 Jul + 10 further times",
+    "s6: line manager may submit leave on employee's behalf ONLY where the employee's request is documented in writing and supporting docs (medical certificates for sick leave) are retained; must not unilaterally place employee on leave requiring mutual agreement — the daily NP Sick Leave entries have NO written request from Cory (his 3 Jul request was annual leave)",
+    "s9: continuous incorrect pay → employee-requested review of pay entitlements",
+    "s2/PSC Directive 17/13: pay day no later than 10 days after period end — 17–30 Aug → 9 Sep is ON CYCLE; 24926366 is not 'missed pay'",
+    "Definition: ad hoc = 'missing pay in the most recent prior pay period … not to be used for payment of missed pay for extended periods' → ad hoc attaches to 3–16 Aug (paid nil 26 Aug); July fortnights go to s9 review + audit",
+    "s4.2: LWOP/WorkCover employees — line manager to ensure compliance with HR Policy G4 Absence management (NOT HELD — obtain)",
+    "s4.1: LSL applications to be made before the leave — answered by the 3 Jul leave request, the employer's coding choice, and s4.1's own corrective-action duty on the line manager"
+   ],
+   "what_changed": "Two-part email Part 2 reframed: ad hoc for 3–16 Aug (missed), not for 24926366 (on cycle); AVAC for 3 Jul–16 Aug demanded under s2; rec leave 51.31h offered against 3–16 Aug without prejudice so the ad hoc can run, re-credit on LSL from 13 Jul; s9 review requested; s6 documents for each NP Sick entry requested (new item 3). Petering email updated. Policy note rewritten with C13 verified.",
+   "leads": [
+    "HR Policy G4 Absence management",
+    "HR Policy C48 Overpayments and loans (if they ever assert overpayment)",
+    "PSC Directive 17/13"
    ]
   }
  ],
@@ -898,7 +924,8 @@
   "What information MSH proposes to send Dr Krishnaiah, and what questions it proposes to ask — requested twice (24 and 28 August), unanswered.",
   "The AVAC status following Roberts' discussion with Ms Taylor on 24 August.",
   "Terry McQuillan's role.",
-  "Were the deed cl 2(a)/(b) leave credits (54.16 A/L, 54.16 loading, personal leave as at separation) ever applied in Feb–Mar 2025? Their value was deducted from the settlement (cl 2(d)). Not verifiable from the FY25-26 payslip set; asked of Payroll 3 Sep."
+  "Were the deed cl 2(a)/(b) leave credits (54.16 A/L, 54.16 loading, personal leave as at separation) ever applied in Feb–Mar 2025? Their value was deducted from the settlement (cl 2(d)). Not verifiable from the FY25-26 payslip set; asked of Payroll 3 Sep.",
+  "HR Policy G4 Absence management (named in C13 s4.2) — not held; governs how the unpaid absence since 3 Jul should have been managed."
  ],
  "people": {
   "Jacqui Roberts": "Principal Consultant, Human Resources, Logan and Beaudesert Health Services, Metro South Health. p (07) 3542 2384 / 0487 313 927. The HR contact on the employment track since ~18 Aug 2026.",
