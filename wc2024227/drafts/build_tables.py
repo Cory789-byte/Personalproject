@@ -31,14 +31,15 @@ s.append(P('The leave type was confirmed at 3:18 pm on 3 July, twenty-nine minut
 s.append(PageBreak())
 s.append(P('TABLE 2 — PAYMENT: WHAT IS TO BE ACTIONED, BY PAY PERIOD',H1)); s.append(Spacer(1,5))
 rows=[[P('<b>Fortnight</b>',SMB),P('<b>What applies</b>',SMB),P('<b>Hours</b>',SMB),P('<b>Action</b>',SMB),P('<b>Pay date</b>',SMB)]]
-data=[('3 Jul – 30 Aug','“Sick Leave – No Pay” applied from 3 Jul (and to shifts before it, per the email of 2 Jul) against the instruction of 3 Jul 3:18 pm','76','Correct the coding from the first date it was applied, in the leave audit, before eligibility is recalculated','—'),
+data=[('3 Jul – 2 Aug','“Sick Leave – No Pay” applied from 3 Jul (and to shifts before it, per the email of 2 Jul) against the instruction of 3 Jul 3:18 pm. Paid nil on 15 Jul, 29 Jul and 12 Aug','76','Correct the coding from the first date it was applied; AVAC to be submitted (C13 §2); review of pay entitlements from 3 Jul (C13 §9), with the leave audit; long service leave from 13 Jul on the agreement’s dates','missed'),
+ ('3 – 16 Aug','Paid nil on Wed 26 Aug — the “most recent prior pay period” in the C13 definition of an ad hoc payment','76','AD HOC PAYMENT NOW — enquiry 4471091, lodged Wed 2 Sep (C13 §8). Coded as long service leave from 13 Jul; failing that, recreation leave 51.31 hrs without prejudice, re-credited when LSL is applied. AVAC to be submitted today','missed — pay today'),
  ('17 – 30 Aug','AVAC processed — process no. 24926366. Applied at “0.5 FTE” with “S/L and A/L in lieu of S/L”','should be 76','Confirm in writing: gross, hours, leave types. If at 0.5 FTE, adjust in the next run','Wed 9 Sep'),
- ('AD HOC','Enquiry 4471091, pending since 2 Sep. An ad hoc payment is off-cycle by definition; one was processed on 11 Mar 2025 (log 4045255)','—','Process today, or the written reason and the officer','today'),
- ('31 Aug – 3 Sep','Pre-eligibility on Payroll’s date; currently “Sick Leave – No Pay”','76','Audit; wages for the held-out period remain claimed','Wed 23 Sep'),
- ('4 – 13 Sep','LONG SERVICE LEAVE, full pay, from Thu 4 Sep — Payroll’s own eligibility date','76 (38/wk)','Enter now; no further “Sick Leave – No Pay” from 4 Sep','Wed 23 Sep'),
+ ('31 Aug – 3 Sep','Pre-eligibility on Payroll’s date; currently “Sick Leave – No Pay”','76','Audit; long service leave from 13 Jul covers it; wages for the held-out period remain claimed','Wed 23 Sep'),
+ ('4 – 13 Sep','LONG SERVICE LEAVE, full pay, from Thu 4 Sep at the latest — Payroll’s own eligibility date','76 (38/wk)','Enter now; no further “Sick Leave – No Pay” from 4 Sep','Wed 23 Sep'),
  ('14 Sep on','Long service leave continuing until further notice','76','Continuing','Wed 7 Oct …')]
 for r in data: rows.append([P(x,SM) for x in r])
 s.append(tbl(rows,[24*mm,66*mm,20*mm,46*mm,18*mm]))
+s.append(P('An ad hoc payment “enables employees to request a payment that was missed or requires correction outside of the regular pay day schedule without waiting for the next pay cycle” (HR Policy C13, QH-POL-188, §8). One was processed on 11 Mar 2025 (log 4045255). A line manager notified of an incorrect wage payment “must take all steps to rectify the error” (§2).',B))
 s.append(P('All leave applied for is applied for under protest and subject to re-credit, on the basis set out in the application of 31 August (email 32, paragraph 4). Certified fit with restrictions since 3 July 2026; ready and available to work throughout.',B))
 doc.build(s); buf.seek(0); out=pikepdf.open(buf)
 with out.open_metadata() as md:

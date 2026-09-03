@@ -1,12 +1,14 @@
 =================== EMAIL A — TAYLOR + PAYROLL (two parts) ===================
 TO: Chloe Taylor; PayrollMetroSouth    CC: Jacqui Roberts; Emily Petering
-ATTACH: out/EMAILS_leave_requests_from_3JUL_and_eligibility_3SEP2026.pdf
+ATTACH: ATTACHMENT_PACK_Taylor_Payroll_3SEP2026.pdf (the seventeen emails · the two tables · HR Policy C13)
 SUBJECT: Cory Shepherd (388372) — Part 1: the sick-leave coding since 3 July · Part 2: payment
 
 Dear Chloe, and Payroll,
 
-Two parts. The attachment is the emails only — the seventeen that bear on this, each reproduced
-once as sent, from 2 July to this morning.
+Two parts. The attachment has three sections: the seventeen emails that bear on this, each
+reproduced once as sent, from 2 July to this morning; two tables, the leave requests and the payment
+position by fortnight; and a copy of HR Policy C13, Payment of salaries and wages, which I refer to
+in Part 2.
 
 PART 1 — THE "SICK LEAVE – NO PAY" CODING
 
