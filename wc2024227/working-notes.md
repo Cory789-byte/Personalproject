@@ -7031,3 +7031,27 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   ⛔ Disciplines held: chronology not motive; no s 32(5)(b) vocabulary; the deed appears only as "the
   agreement of February 2025"; the appeal fenced in one line as a separate proceeding.
   Build script: drafts/build_union_archive.py
+- 3 Sep — ⭐⭐ THE 4 AUGUST STAGE 1 ACKNOWLEDGEMENT elevated (Cory's point: "Chloe's own email in
+  Stage 1, she never processed"). `documents/correspondence-2026/2026-08-04_1335_Taylor_Stage1_ack_24h_not_achieved_and_leave_request.pdf`,
+  cc HEATH MORAN — so the union has held it since 4 Aug. Four things in one document, all verbatim:
+  (a) concedes EB12 cl 1.11.2(a): the 24-hour Stage 1 timeframe "will not be achieved" — a conceded
+      breach of the dispute clause, on day one, in writing;
+  (b) "I am **required to process leave on your behalf** for the period 20 July 2026 to 2 August 2026"
+      ⇒ kills any suggestion the coding was his doing or his omission. SHE made the entry;
+  (c) a dated employer record of the recreation leave balance: **41.21 hours as at 4 Aug**;
+  (d) the undertaking: PP04 cut-off is "today"; absent a response "I will apply your remaining
+      recreation leave balance **to ensure you receive the available paid leave entitlement for this
+      period**."
+  ⛔ WHAT ACTUALLY HAPPENED: the 12 Aug payslip for that exact fortnight (20 Jul – 2 Aug) records
+  **"NP Sick Leave" 76.00 hours, gross $0.00**. 41.21 hrs at $44.46 = **$1,832.20 gross** not paid.
+  ⭐ THE PRECISE, DEFENSIBLE FORMULATION (do not overstate it as a broken promise — he did object to
+  recreation leave on 5 Aug 07:30, asking for special leave on full pay instead): she offered ONE leave
+  type, he asked for ANOTHER, and she applied a THIRD that pays nothing — and under C13 §6 she needed a
+  written request for the type she entered. She held a written request for annual leave (3 Jul) and one
+  for special leave (5 Aug). She held none for sick leave without pay, and he expressly confirmed he was
+  not applying for personal leave.
+  ⚠ ANOMALY TO PUT TO PAYROLL: recreation leave 41.21 hrs (4 Aug) → 51.31 hrs (2 Sep), +10.1 hrs across
+  two fortnights ≈ the full-time accrual rate. Recreation leave does not accrue on leave without pay.
+  Either the period is being treated as paid service for accrual, or the accrual is running on the
+  substantive appointment — either way it is inconsistent with the "no pay" coding. Ask; do not assert.
+  Union file rebuilt to 167pp with this as a tab: drafts/out/UNION_FILE_whole_picture_and_archive_3SEP2026.pdf
