@@ -7094,3 +7094,20 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   ⚠ LANGUAGE: "election" is a term of art (choosing between inconsistent rights) and this is not that.
   In writing, describe the act — "the leave type was selected", "a choice was made between available
   types" — do not label it an election. The substance is right; the label would invite a quibble.
+- 3 Sep — BUILT, the two big deliverables:
+  1. `drafts/out/NOTICE_OF_DISPUTE_STAGE2_cl1.11.2b_3SEP2026.pdf` (2pp). Stage 2 referral to ROBERTS as
+     the "appropriate management representative", cc Taylor, Payroll, Petering. Grounds: Stage 1 notice
+     3 Aug; 24-hr requirement conceded not achieved 4 Aug; the 7 days expired 10 Aug; NO STAGE 1 OUTCOME
+     EVER COMMUNICATED; the 28 Aug withdrawal was of the referral only, dispute expressly preserved.
+     Seven matters in dispute; cl 1.11.4 STATUS QUO and cl 1.11.5 DELAY both put in issue; conference
+     sought on or before Wed 10 Sept (cl 1.11.2(b) seven days); seven remedies; Stage 3 (EB12IG) and
+     Stage 4 (QIRC) expressly reserved. Appeal fenced in one line.
+  2. `drafts/out/EMPLOYMENT_RECORD_analysis_chronology_originals_3SEP2026.pdf` (288pp, scrubbed).
+     Part A: eleven findings. Part B: the complete chronology — 70 events, Feb–3 Sep 2026, every one
+     cross-referenced to its tab and page range. Part C: 51 tabs, 280pp of originals incl. the three
+     movement forms, the ECC, the RFMI set, the Stage 1 notice and acknowledgement, the payslip, the
+     myHR records and the SMS. Build: drafts/timeline_data.py + build_employment_record.py.
+  ⭐ THE STAGE READ: Stage 1 lapsed without outcome; Stage 2 was withdrawn 28 Aug so it is NOT spent —
+  re-referring is the unimpeachable step and it cannot be met with a jurisdictional objection. Going
+  straight to Stage 4 would invite one and cost weeks. Seven days lands 10 Sept, the day after the
+  9 Sept pay run, so the conference date and the payment test coincide.
