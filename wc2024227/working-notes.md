@@ -6969,3 +6969,19 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   ⚠️ VOLUME SIGNAL: "the 14 emails I've received on your matter this week" — the channel is saturated.
   Next union contact should be ONE ask: EB12 cl 3.8.2 — a union official to escalate to the single
   payroll point of contact. Deadline given: end of the week.
+- 3 Sep (later) — ⛔ CORRECTION TO THE TWO ENTRIES ABOVE, on Cory's instruction. The union has had the
+  WHOLE picture — pay, exclusion, patient safety, the department — for a long time, and Emily has had
+  it in person: (a) Cory is a Together-ENDORSED WORKPLACE DELEGATE (Heath, 3 Nov 2025) and Heath
+  worked the switchboard roster/consultation issues with him from late 2025; (b) Heath took the
+  urgent industrial referral 14 Jul; (c) Emily was IN THE ROOM at the 21 Aug conference with Roberts
+  and McQuillan — 2 hours, five agenda items, everything conferenced (see 21 Aug entry: no outcome,
+  cut short); (d) 25 Aug Teams continuation, Emily invited. The written record shows only the
+  pay-and-exclusion brief because the rest was verbal — that is a gap in MY record, not in hers.
+  ⇒ THE GAP IS NOT KNOWLEDGE, IT IS CARRIAGE. Seven weeks from the 14 Jul "urgent referral to the
+  industrial team" and no industrial officer has ever been identified; Member Assist (Emily, Beetham)
+  is holding a file the industrial team was meant to take. "Reviewing the 14 emails … by end of
+  week" is a delegate-known matter being re-read, not learned. Beetham's "lack of support from
+  management / work safety" is therefore more likely informed than boilerplate.
+  ⇒ THE ASK CHANGES: not more information — (1) who has carriage / is an industrial officer assigned,
+  in writing; (2) the cl 3.8.2 payroll escalation call; (3) the cl 7.2 risk assessment as the
+  union's own collective item. Delegate standing is the lever for (1).
