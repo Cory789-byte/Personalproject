@@ -7202,3 +7202,8 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   Notice page one also updated: "...and again on 4 August 2026, on the very day the Health Service
   itself identified the paid alternative and undertook to apply it." Timeline entry for the myHR leave
   record rewritten to name what it proves.
+- 3 Sep — SEND MECHANICS. The CE package is 13.0 MB. Optimising only reached 12.3 MB, so a two-part
+  split was built in case the Queensland Health gateway caps at 10 MB:
+  drafts/out/STAGE2_TO_CE_PART_1_of_2_pp1-150.pdf (8.2 MB) and
+  drafts/out/STAGE2_TO_CE_PART_2_of_2_pp151-291.pdf (5.0 MB). Both scrubbed. Send the single file
+  first; only use the split if it bounces.
