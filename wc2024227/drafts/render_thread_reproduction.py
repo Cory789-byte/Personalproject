@@ -12,7 +12,7 @@ SUBJ={'2026-07-03':'Cory - ECC/Leave Type','2026-07_Cory':'Cory Shepherd_ECC fur
  '2026-07-29':'RE: Response to 2-15 July 2026 correspondence (MSH-INJ-5795)','2026-07-30':'RE: Response to 2-15 July 2026 correspondence (MSH-INJ-5795)',
  '2026-08-05':'Stage 1 — roster, leave and pay (MSH-INJ-5795)','2026-08-13_1548':'RE: consent and EAF (MSH-INJ-5795)',
  '2026-08-13_1642':'Follow up on Enquiries — RECALL NOTICE','2026-08-18_1047':'Follow up on Enquiries','2026-08-18_to':'Follow up on Enquiries',
- '2026-08-25':'Meeting - Cory Shepherd (Teams invitation)','2026-08-31':'Cory Shepherd (388372) — application for long service leave and annual leave, and request for AVAC to be processed today'}
+ '2026-08-25':'Meeting - Cory Shepherd (Teams invitation)','2026-08-31':'Cory Shepherd (388372) — application for long service leave and annual leave, and request for AVAC to be processed today','2026-09_Manager':'RE: Cory Shepherd (388372) — application for long service leave and annual leave, and request for AVAC to be processed today','2026-09-02_Outlook':'Cory Shepherd (388372) RE: Please respond to Chloe Taylor regarding long service leave and why it can not be actioned'}
 def subj(m):
     if m['subj']: return m['subj']
     for k,v in SUBJ.items():
@@ -28,8 +28,8 @@ B=PS('b',fontName='Helvetica',fontSize=9,leading=11.6); MH=PS('mh',fontName='Hel
 HD=PS('hd',fontName='Helvetica',fontSize=8.6,leading=10.8,textColor=colors.HexColor('#333333'))
 buf=io.BytesIO()
 doc=SimpleDocTemplate(buf,pagesize=A4,leftMargin=17*mm,rightMargin=17*mm,topMargin=15*mm,bottomMargin=14*mm,title='',author='')
-s=[P('THE CORRESPONDENCE, MESSAGE BY MESSAGE — 2 JULY TO 31 AUGUST 2026',H1),
-   P('Cory Shepherd (388372), AO3, Switchboard Services, Logan Hospital · every email reproduced once, in date order, from the original exports · compiled 2 September 2026',SM),Spacer(1,4),
+s=[P('THE CORRESPONDENCE, MESSAGE BY MESSAGE — 2 JULY TO 3 SEPTEMBER 2026',H1),
+   P('Cory Shepherd (388372), AO3, Switchboard Services, Logan Hospital · every email reproduced once, in date order, from the original exports · compiled 3 September 2026',SM),Spacer(1,4),
    P('Each message appears once, in the form it was sent. Quoted copies repeated inside later threads have been removed. Standard email boilerplate (external-sender banners, disclaimers, acknowledgements, app footers) has been omitted; nothing else has been altered. Text messages are not included.',B),Spacer(1,6)]
 rows=[[P('<b>#</b>',SMB),P('<b>When</b>',SMB),P('<b>From</b>',SMB),P('<b>To</b>',SMB),P('<b>Subject</b>',SMB)]]
 for i,m in enumerate(M,1):
@@ -53,4 +53,4 @@ pdf=pikepdf.open(buf)
 with pdf.open_metadata() as md:
     for k in list(md): del md[k]
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
-out='out/CORRESPONDENCE_THREAD_reproduced_2JUL-31AUG2026.pdf'; pdf.save(out); print('pages',len(pdf.pages),'messages',len(M))
+out='out/CORRESPONDENCE_THREAD_reproduced_2JUL-3SEP2026.pdf'; pdf.save(out); print('pages',len(pdf.pages),'messages',len(M))

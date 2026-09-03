@@ -8,7 +8,7 @@ SOURCES=[  # order irrelevant; dedupe + sort handles it
  '2026-08-05_0730_SENT_Stage1_reply_cover_email','2026-08-13_1548_Harrison_reply_consent_and_EAF',
  '2026-08-13_1642_Roberts_FollowUpOnEnquiries_RECALLED','2026-08-18_1047_Roberts_FollowUpOnEnquiries_RESENT_personal_email',
  '2026-08-18_to_28_Roberts_FollowUpOnEnquiries_FULL_THREAD','2026-08-25_1508_Roberts_Teams_invite',
- '2026-08-31_FULL_THREAD_v2_Taylor_LSL_AVAC_incl_1606_correction']
+ '2026-08-31_FULL_THREAD_v2_Taylor_LSL_AVAC_incl_1606_correction','2026-09_Manager_Switchboard_Payment_Corro','2026-09-02_Outlook_Document235']
 HDR=re.compile(r'^\s*From:\s*(.*)$')
 FIELD=re.compile(r'^\s*(To|Cc|Sent|Subject):\s*(.*)$')
 BOILER=[r'This email originated from outside Queensland Health', r'DO NOT click on any links', r'you recognise the sender', r'^\s*safe\.\s*$',
