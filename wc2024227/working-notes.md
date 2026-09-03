@@ -7145,3 +7145,23 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   Remedies renumbered 1–7 with special leave first; item 7 (cl 7.2 risk assessment + task-by-task
   match) restored after a renumbering slip caught on review.
   FINAL: drafts/out/STAGE2_TO_CHIEF_EXECUTIVE_notice_and_full_record_3SEP2026.pdf — 291pp, scrubbed.
+- 3 Sep — ⛔ VERIFICATION PASS ON THE CE NOTICE — TWO REAL ERRORS CAUGHT AND FIXED BEFORE SERVICE.
+  1. "FOUR pay days at nil" → corrected to THREE (29 Jul, 12 Aug, 26 Aug). His own email of 2 Sep says
+     "fifty-one days and three pay runs". Serving a document that contradicts his own correspondence
+     on a countable fact is exactly the kind of self-inflicted opening the Form 9A already carries.
+     Part A finding 11 of the employment record carried the same slip and was corrected with it.
+  2. THE C7 RELIANCE REMOVED. The notice claimed "HR Policy C7 likewise places the decision with the
+     HSCE, divisional executive or delegate". CHECKED AND NOT SUPPORTABLE: every "special leave on full
+     pay" in C7 is category-specific (natural disasters §9; local government 1.9.2, 5 days mayor/chair
+     and 3 days other; returning officers 1.10). C7 has NO general paid-leave discretion, and it is
+     dated June 2020 and keyed to PSC Directive 05/17, which Directive 12/24 SUPERSEDES. Citing it
+     invited the answer "that policy is superseded and that clause is about floods". Replaced with the
+     verified C13 §6 point that the delegate is the officer listed in the HR Delegations Manual.
+     ⭐ This confirms the earlier note in POLICY-ad-hoc-off-cycle-payment.md: cite Directive 12/24, never C7.
+  Everything else in the notice checked against source and holds: the 76 hrs from the RFMI; the delegate
+  endorsement; the Stage 1 notice of 3 Aug; the 4 Aug "will not be achieved"; the 7 days expiring
+  10 Aug; the 28 Aug withdrawal wording; the 0.5 FTE quote; the 28 Jun expiry; the 04/09/2026 quote;
+  the 25 Mar 2019 commencement via "the agreement"; cl 6.1/6.5 verbatim.
+  ⚠ ONE GAP NOTED, NOT FIXED: the notice says "I earlier referred the matter to Stage 2" but the record
+  stitched behind it contains the WITHDRAWAL (28 Aug) and not the referral itself. The withdrawal
+  evidences the referral, so it holds — but if the referral was sent by email, add it as a tab.
