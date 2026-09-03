@@ -6985,3 +6985,21 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   ⇒ THE ASK CHANGES: not more information — (1) who has carriage / is an industrial officer assigned,
   in writing; (2) the cl 3.8.2 payroll escalation call; (3) the cl 7.2 risk assessment as the
   union's own collective item. Delegate standing is the lever for (1).
+- 3 Sep — SENT, and filed as sent: (1) 13:30 the TWO-PART email, addressed "Dear Jacqui, Chloe and
+  Payroll" — Jacqui made the primary recipient, Chloe + Payroll To, Emily cc
+  (2026-09-03_1330_..._TWO_PARTS_..._SENT.pdf, 20pp incl. the quoted thread); (2) 14:04 a direct
+  email to JOHN LAYSON (the Payroll CSO who wrote the 09:05 eligibility line) asking who has
+  authority to action an ad hoc payment TODAY, or the name/position/phone/email of the officer who
+  can, and for any refusal in writing with the policy and the decision-maker
+  (2026-09-03_1404_Cory_to_Layson_..._SENT.pdf).
+  ⭐ THE WRITTEN CHANNEL AT MSH IS NOW EXHAUSTED: line manager, HR (Roberts), Payroll generally, and
+  the named Payroll officer — all written to on the same day. Below executive level there is nobody
+  left to write to. The next written escalation is UPWARD and is a decision, not a reflex.
+- 2 Sep 17:29 — SMS Roberts → Cory (filed 2026-09-02_1729_SMS_Roberts_to_Cory_Chloe_working_on_it.jpg):
+  "I know that Chloe has been working hard on this today for you. I am sure she will get back to you
+  asap tomorrow about this." — sent in answer to his text asking for a call and for help getting paid
+  because he needed food. HR-level notice, in writing, deflected to the line manager; the line
+  manager's answer the next morning (10:27) was the refusal. That path is now spent, which is why the
+  next move on Roberts is voice (0487 313 927), not text.
+- ⚠ 9 SEPT EXPECTATION SET: PRN 24926366 was processed at 0.5 FTE ⇒ ~38 hrs ≈ $1,689 gross, less tax
+  and RemServ $354.46 ⇒ roughly $1,000 in hand, NOT a full fortnight. Diarise; do not be ambushed.
