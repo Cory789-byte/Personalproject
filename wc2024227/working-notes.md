@@ -7207,3 +7207,11 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   drafts/out/STAGE2_TO_CE_PART_1_of_2_pp1-150.pdf (8.2 MB) and
   drafts/out/STAGE2_TO_CE_PART_2_of_2_pp151-291.pdf (5.0 MB). Both scrubbed. Send the single file
   first; only use the split if it bounces.
+- 3 Sep — APPEAL-TRACK ANALYSIS BANKED: skill/references/MATHESON-FORM24-25-and-the-RECORD-3SEP2026.md.
+  Read from source: Form 24 as served = 290 facts A–S (not 76 — v3 of 27 Aug grew it), Form 25 = 39 tabs,
+  18 Feb response = 44 responses (numbering drift from response 26), SOFC ¶27 unparticularised (fact
+  290), Matheson's five emails, Amended LOD item 4 names the Review Unit decision-maker as VICTORIA
+  SQUIRES 24 Oct 2024 (the neutral fact beside the HopgoodGanim metadata — no allegation, request only,
+  not now). Verdict: beaten on the facts (¶1, ¶22(a), RD ¶247, 18 Feb ¶5, Tab 21), nothing particularised
+  on the pleading, never engaged outside a compelling rule; causation untouched; the Form 9A vocabulary
+  and five false tags remain HIS exposure before 9 Sept.
