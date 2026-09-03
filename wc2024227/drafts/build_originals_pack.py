@@ -17,13 +17,13 @@ H1=PS('h1',fontName='Helvetica-Bold',fontSize=13,leading=16,spaceAfter=3); SM=PS
 srcs=[pikepdf.open(f) for f,_,_ in ITEMS]; counts=[len(s.pages) for s in srcs]
 buf=io.BytesIO(); doc=SimpleDocTemplate(buf,pagesize=A4,leftMargin=16*mm,rightMargin=16*mm,topMargin=15*mm,bottomMargin=14*mm,title='',author='')
 s=[P('THE ORIGINAL EMAILS — LEAVE REQUESTED FROM 3 JULY 2026, AND THE ELIGIBILITY EXCHANGE OF 2–3 SEPTEMBER',H1),
-   P('Cory Shepherd (388372) · six original email documents as sent or received, in date order, containing the seventeen emails referred to · nothing retyped · 3 September 2026',SM),Spacer(1,5),
-   P('Each tab is the original document. Where an original is a thread, the earlier emails appear beneath the later ones in the usual way. The "Email" column gives the number used for that email in the covering email and in the numbered reproduction that follows this section.',B),Spacer(1,6)]
-rows=[[P('<b>Tab</b>',SMB),P('<b>Email</b>',SMB),P('<b>What it is</b>',SMB),P('<b>Pages</b>',SMB)]]
+   P('Cory Shepherd (388372) · six original email documents as sent or received, in date order · nothing retyped · 3 September 2026',SM),Spacer(1,5),
+   P('Each tab is the original document, unaltered. Where an original is a thread, the earlier emails appear beneath the later ones in the usual way. The covering email refers to these tabs.',B),Spacer(1,6)]
+rows=[[P('<b>Tab</b>',SMB),P('<b>What it is</b>',SMB),P('<b>Pages</b>',SMB)]]
 pg=2
 for i,((f,nums,desc),n) in enumerate(zip(ITEMS,counts),1):
-    rows.append([P(str(i),SM),P(nums,SM),P(desc,SM),P(f'{pg}–{pg+n-1}',SM)]); pg+=n
-t=Table(rows,colWidths=[9*mm,22*mm,131*mm,16*mm],repeatRows=1)
+    rows.append([P(str(i),SM),P(desc,SM),P(f'{pg}–{pg+n-1}',SM)]); pg+=n
+t=Table(rows,colWidths=[9*mm,153*mm,16*mm],repeatRows=1)
 t.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),('BACKGROUND',(0,0),(-1,0),colors.HexColor('#e8e8e8')),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),3),('RIGHTPADDING',(0,0),(-1,-1),3),('TOPPADDING',(0,0),(-1,-1),2),('BOTTOMPADDING',(0,0),(-1,-1),2)]))
 s.append(t); s.append(Spacer(1,6)); s.append(P(f'Total: {sum(counts)+1} pages including this index.',SM))
 doc.build(s); buf.seek(0); idx=pikepdf.open(buf); assert len(idx.pages)==1
