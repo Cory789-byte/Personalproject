@@ -777,6 +777,11 @@
  "clocks": [
   {
    "date": "2026-09-03",
+   "what": "SENT: response to Taylor/Payroll (eligibility calc, audit, LSL from 4 Sep, 9 Sep pay confirmation, ad hoc precedent, 4438861). DRAFTED: Petering update + asks; Roberts/Payroll email on the February 2025 agreement credits (54.16 A/L + 54.16 loading + personal leave reinstated; service from 25 Mar 2019, reinstatement effective 20 Sep 2024) — deed referred to only as 'the agreement', never attached.",
+   "status": "IN PROGRESS"
+  },
+  {
+   "date": "2026-09-03",
    "what": "RESPONSE to the 2–3 Sep emails: eligibility calculation requested; audit to correct coding from 3 Jul; LSL applied from 4 Sep forward at 76 hrs; written confirmation of the 9 Sep pay (process 24926366); ad hoc via enquiry 4471091 with the 11 Mar 2025 precedent; what resolved 4438861.",
    "status": "SEND TODAY"
   },
@@ -880,7 +885,8 @@
   "Whether the wrong practitioner name on the served authorisation is in fact why Queensland Health has not responded to Dr Krishnaiah — ask Roberts directly when reissuing.",
   "What information MSH proposes to send Dr Krishnaiah, and what questions it proposes to ask — requested twice (24 and 28 August), unanswered.",
   "The AVAC status following Roberts' discussion with Ms Taylor on 24 August.",
-  "Terry McQuillan's role."
+  "Terry McQuillan's role.",
+  "Were the deed cl 2(a)/(b) leave credits (54.16 A/L, 54.16 loading, personal leave as at separation) ever applied in Feb–Mar 2025? Their value was deducted from the settlement (cl 2(d)). Not verifiable from the FY25-26 payslip set; asked of Payroll 3 Sep."
  ],
  "people": {
   "Jacqui Roberts": "Principal Consultant, Human Resources, Logan and Beaudesert Health Services, Metro South Health. p (07) 3542 2384 / 0487 313 927. The HR contact on the employment track since ~18 Aug 2026.",
