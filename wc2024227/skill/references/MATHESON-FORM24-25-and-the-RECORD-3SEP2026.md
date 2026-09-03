@@ -1,5 +1,5 @@
 # MATHESON, THE FORM 24 / FORM 25, AND THE ADMIT/DENY — NEXT TO THE DOCUMENTED RECORD
-> 3 September 2026. Appeal track only. Read from source: the served Form 24 (290 facts, sections A–S),
+> 3 September 2026. Appeal track only. Read from source: the served Form 24 (⚠ the OFFICIAL FORM built 07:43 28 Aug = 308 facts, sections A–S; the 03:22 'SERVE_CLEAN' file is a superseded 290-fact build — cite the 308 numbering),
 > the Form 25 (39 tabs), the Respondent's response of 18 Feb 2026 (44 responses), the SOFC of 13 May
 > 2026, Matheson's emails of 16 Jul, 3 Aug, 14 Aug (x2) and 28 Aug, the Amended LOD of 14 Aug, the
 > prediction of 20 Aug, and the Hopgood note (Parts 4 and 8). ⛔ Employment vocabulary stays out.
@@ -53,24 +53,23 @@ RESPONSE number, not the notice number. (Known; five Form 9A tags already flagge
 | ¶22(a) | ADMITS "only a 7-hour break … human error and not intentional or repeated" | ⭐⭐ The admitted instance. "Not repeated" is contradicted by 18 Feb ¶5 (a prior rostering error) |
 | ¶22(e) | "in June 2020 the Appellant signed an agreement allowing an 8-hour break" | The single defence. Tab 21 (Forrest) and RD69983's own finding ("in direct contradiction to the award AND the 8-hour agreement") both cut it |
 | ¶25 | post-1 Jul 2024 events "not relevant" | Correct for causation; irrelevant to the Form 24, which is all pre-18 Jun 2024 except the 2026 documents used only for what the role IS |
-| ¶27 | "any management action … was reasonable management action taken in a reasonable way" | ⭐⭐⭐ Form 24 fact 290: it "does not identify, by particular, date, document or cross-reference, the management action relied upon". Her whole s 32(5)(a) case is one unparticularised sentence |
+| ¶27 | "any management action … was reasonable management action taken in a reasonable way" | ⭐⭐⭐ Form 24 fact 308: it "does not identify, by particular, date, document or cross-reference, the management action relied upon". Her whole s 32(5)(a) case is one unparticularised sentence |
 
 ## 4. THE FORM 24 STRUCTURE — WHY IT IS BUILT THE WAY IT IS
-290 facts, A–S, 39 tabs. Four kinds of fact, and each kind is aimed at one of her four moves:
+308 facts, A–S, 39 tabs, Annexure A 133 pp, plus Part B (15 composite limbs, each severable, expressly not itself a r 49 notice). Classified from the served text: 213 verbatim quotations of documents she disclosed/filed or of her own pleading; 39 "does not allege / identify / list / describe"; 22 facts about her own 18 Feb admissions; 9 pure arithmetic; 6 about her own List of Documents; 19 short inferences anchored to a tab (e.g. 68, 88, 96, 103, 165, 227, 230). Four kinds of fact, and each kind is aimed at one of her four moves:
 1. **Verbatim quotation of a document she disclosed or filed** (A, C, D, E, G, H, J, K — most of it). Beats
    move (iii): she cannot "not admit for want of possession" her own disclosure. And beats (i): quoting
    the words, not asserting their truth, leaves her nothing to "deny the accuracy" of.
 2. **Intervals and counts computed from her own dates** (58, 59, 91–93). Arithmetic cannot be denied.
-3. **"The Respondent's SOFC, as presently constituted, does not allege …"** (16, 21, 22, 25, 55, 60, 65,
-   94–96, 256–260, 287–290 — sections P and S). ⭐ The case theory is an ABSENCE: no assessment, no
+3. **"The Respondent's SOFC, as presently constituted, does not allege …"** (39 in all — e.g. 16, 21, 22, 25, 166, 269–273, 305–308 — sections H, P and S). ⭐ The case theory is an ABSENCE: no assessment, no
    training, no consultation, no discipline, no particulars. These are facts about HER pleading. She can
    only deny them by amending the pleading — which she has not done since 13 May.
-4. **Facts about what she already admitted on 18 Feb** (R, 270–286). Locks the February admissions
+4. **Facts about what she already admitted on 18 Feb** (R, 283–304 — 22 facts). Locks the February admissions
    into the record a second time so that "for this proceeding only" cannot be walked back by silence.
-Section N puts her OWN Review Decision to her: "unreasonable management action … in direct
-contradiction to the award and the 8-hour agreement" (247); "you sustained a personal injury of a
-psychological nature" (248); employment "a significant contributing factor" to factors 2, 3 and 4
-(249). She admitted its contents on 18 Feb (¶37, ¶44) with "not relevant — de novo". The de novo point
+Section N (257–262) puts her OWN Review Decision to her: "unreasonable management action … in direct
+contradiction to the award and the 8-hour agreement" (260); "you sustained a personal injury of a
+psychological nature" (261); employment "a significant contributing factor" to factors 2, 3 and 4
+(262). She admitted its contents on 18 Feb (¶37, ¶44) with "not relevant — de novo". The de novo point
 is right as to weight and wrong as to admissibility: it is her decision-maker's finding, and it is
 the best settlement fact in the file.
 
@@ -96,7 +95,7 @@ counting fallacy (Adams; Mahaffey) and it is argued on the reasoning, never on t
 - **On the facts, she is already beaten**: ¶1 (7-hour break), ¶22(a) (admitted), RD69983 ¶247 (her own
   finding), 18 Feb ¶5 (a prior rostering error — kills "not repeated"), Tab 21 (Forrest — kills ¶22(e)).
   One mechanism, one admitted instance. That is Mahaffey, not Delaney.
-- **On the pleading, she has nothing particularised**: fact 290. Seven "reasonable in all respects",
+- **On the pleading, she has nothing particularised**: fact 308. Seven "reasonable in all respects",
   no date, no document, no action identified.
 - **On disclosure, she has been late twice and apologised twice**, and her list confirms the NNPD
   material was disclosed on three dates — useful, because it fixes what she holds.
@@ -109,3 +108,29 @@ counting fallacy (Adams; Mahaffey) and it is argued on the reasoning, never on t
   Reprisal", "Flagrant", "IRO" — his headings hand her ¶11's denial for free and sit a sentence away
   from s 32(5)(b). The five false "Admitted Fact" tags are the other side's best cross. Fix before the
   outlines are served. The Form 24 is disciplined; the Form 9A is not yet.
+
+## 8. THE SERVED PACKAGE, TAB BY TAB — WHERE IT IS STRONGEST AND WHERE SHE CAN MOVE
+**Cannot be resisted (her own material):** Tabs 1B, 2, 3, 4, 7, 8, 8A, 8C, 9, 9A, 9B, 10, 11, 12, 13, 14
+(her July 2025 disclosure); 15, 16, 28, 29 (MSH's NNPD production, disclosed by her 11 Jun 2026);
+25 (her own Review Decision); 26–27 (her own 18 Feb response). ⇒ 24 of 39 tabs are documents she
+produced or authored. A "does not admit authenticity" on any of them is a dispute with her own file.
+**Contestable as to authenticity (his records):** Tabs 1, 5, 6, 17–24, 30, 30A, 31. Of these, 20
+(Cridland letter to the Commissioner) and 22–24 (consultation papers; Moran email) are third-party
+originals she can check; 30/30A (his compilation of Taylor's notifications) and 31 (a screen capture)
+are the only two where "does not admit" for want of verification is a respectable answer.
+**The one live fight (prediction stands):** Tab 21 / facts 224–225 (Forrest, 7 Jul 2026: the 8-hour
+agreement "is only applied where staff initiated shift swaps have occurred"; the roster "provides more
+than 10-hour breaks"). Admitting the words costs her ¶22(e). Fact 234 closes the exit: she "does not
+allege that the consecutive shifts of 17 and 18 March 2024 arose from a staff initiated shift swap".
+**Section H (162–166) is new since the 20 Aug draft** and is aimed at SOFC ¶16(b)(i) ("did not comply
+with the processes of properly notifying"): her own 15 Apr and 14 May emails name the Switchboard as a
+means of contact; 166 pleads she does not allege he was ever told otherwise before 14 May 2024.
+**The structural spine is the negatives (39 facts).** 166, 200, 203, 221, 234, 269–273, 305–308: no
+consultation, no fatigue assessment, no training, no feedback on the toolkit, no discipline, no
+performance management, no warning, no particulars. She cannot deny a fact about her own pleading
+without amending the pleading; she has not amended since 13 May.
+**Part B** collapses the 308 into 15 limbs with paragraph cross-references that MATCH the served
+numbering (1–16, 26–38, 283–304; 39–113; 162–166; …; 269–273, 305–308). It gives her a two-page
+route to admit whole limbs, and gives a commissioner a two-page read if the 308 are deemed admitted.
+**Parse artefacts, for the record:** "150 Mary Street" on p1 is the address line, not fact 150 (fact
+150 is the Communication Book negative); fact 249 is intact ("is 23 days").

@@ -7215,3 +7215,10 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   not now). Verdict: beaten on the facts (¶1, ¶22(a), RD ¶247, 18 Feb ¶5, Tab 21), nothing particularised
   on the pleading, never engaged outside a compelling rule; causation untouched; the Form 9A vocabulary
   and five false tags remain HIS exposure before 9 Sept.
+- 3 Sep — ⛔ CORRECTION: the served Form 24 is the COMPLETED_OFFICIAL_FORM (07:43, 28 Aug) — 308 facts,
+  no gaps, A–S with a new section H (162–166, the notified means of contact). The 03:22 SERVE_CLEAN
+  file (290 facts) is a superseded build; my first pass cited its numbering. Note re-keyed to 308:
+  ¶27 unparticularised = fact 308; Forrest = 224–225; "not repeated" = 226; no-swap negative = 234;
+  RD ¶247/248/249 = 260/261/262; 18 Feb ¶5 = 287; P = 269–273; S = 305–308. Part B cross-refs match
+  the served numbering. Composition from the served text: 213 quotes / 39 negatives / 22 18-Feb / 9
+  arithmetic / 6 LOD / 19 anchored inferences. 24 of 39 tabs are her own or MSH's NNPD production.
