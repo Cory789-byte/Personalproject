@@ -6926,3 +6926,17 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   allegation). Logged as a WATCH item: cf [36:42] "my health service email was restricted". If
   access was removed rather than lapsed, that is an employment-track issue for Petering, not for
   the payment email.
+
+## 2026-09-03 — THE ELIGIBILITY DATE, AND THE RESPONSE PACK
+- Thread 2–3 Sep filed (7 new messages; reproduction now 41 messages, 73pp). Ad hoc request SENT
+  2 Sep 11:07. Taylor 12:42: PRN processed, paid 9 Sep, "S/L and A/L in lieu of S/L". Cory regained
+  MyHR access 2 Sep. Taylor 16:16: process no. mistyped — correct 24926366; LSL enquiry 4469554
+  lodged 31 Aug. Payroll 3 Sep 09:05: LSL ELIGIBILITY 04/09/2026; leave audit log created. Taylor
+  10:27: no backdating; ad hoc not before 9 Sep.
+- ⭐⭐ 25 Mar 2019 + 7y = 25 Mar 2026; Payroll's 4 Sep is 163 days later — consistent with unpaid
+  periods excluded, of which the 2026 NP Sick Leave he never applied for (61 days) is the largest
+  block. Put as a QUESTION; audit asked to correct coding from 3 Jul first.
+- MyHR exhibits: rec leave 51.31h, sick 14.66h; NP Sick Leave entered DAILY on his behalf, approved;
+  payroll enquiries incl. ad hoc payment 11 Mar 2025 (precedent) and 4438861 shown "Resolved".
+- BUILT: RESPONSE_PACK_leave_and_pay_3SEP2026.pdf (counter 2pp + 3 exhibits + 41-message
+  reproduction = 78pp); EMAIL_Taylor_Payroll_RESPONSE_3SEP2026.txt. LSL applied FORWARD from 4 Sep.

@@ -1,7 +1,7 @@
 {
  "meta": {
   "file": "SCRATCHPAD_REASONING.json",
-  "generated": "2026-08-31 (rev 5 — full thread filed in original form; correction sent 32 minutes after the 0.5 FTE appeared)",
+  "generated": "2026-09-03 (rev 6 — 2–3 Sept emails; LSL eligibility date 04/09/2026; response pack)",
   "matter": "WC/2024/227 Shepherd v Workers' Compensation Regulator (QIRC, s 550(4) WCRA)",
   "status": "INTERNAL WORKING SCRATCHPAD — not for service, not for filing, not quotable externally",
   "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
@@ -341,6 +341,25 @@
     "Asked that the 17–30 Aug payment be processed urgently; re-attached the paragraph 4 protest/re-credit basis in one line"
    ],
    "significance": "The 0.5 FTE was corrected on the record within 32 minutes of appearing, before it could set as a baseline, with the union copied at both ends of the exchange."
+  },
+  {
+   "id": "D14",
+   "title": "Thread 2–3 Sept 2026 (Outlook_Document235, 15pp) + Manager_Switchboard_Payment_Corro (9pp)",
+   "filed_at": "documents/correspondence-2026/2026-09-03_1027_Taylor_Payroll_LSL_eligibility_04SEP_thread_2-3Sep.pdf; 2026-09_Manager_Switchboard_Payment_Corro.pdf",
+   "messages": [
+    "2 Sep 11:07 Cory→Taylor: ad hoc payment today (sent)",
+    "2 Sep 12:42 Taylor: PRN processed, paid 9 Sept; 'S/L and A/L in lieu of S/L'; LSL system won't allow; balances; IT reset number",
+    "2 Sep 13:00 Cory→Payroll cc Petering: 'Please respond to Chloe Taylor and resolve the issue with long service leave'",
+    "2 Sep 14:05 Cory→Payroll+Taylor: MyHR access REGAINED; no record of the PRN visible; Payroll by phone 13:24 'no information recorded' against it; asks for copies of the enquiry/records",
+    "2 Sep 16:16 Taylor: process number was mistyped — correct is 24926366; LSL payroll enquiry LOG 4469554 lodged 31 Aug, Pending Investigation",
+    "3 Sep 09:05 Payroll (John Layson, CSO): 'LSL eligibility date is only from 04/09/2026'; 'a log has been created for a leave audit, a CSO is currently working on it'",
+    "3 Sep 10:27 Taylor: forwards; has asked Payroll why 04/09/2026; LSL cannot be backdated before eligibility; ad hoc payment for 17–30 Aug 'cannot be processed prior to Wednesday 9th September'"
+   ],
+   "exhibits_from_MyHR_2Sep": [
+    "Leave balances 02.09.2026: Recreation 51.31 hrs; Sick 14.66 hrs; RDO -0.33",
+    "Request overview: 'SICK LEAVE - NO PAY' entered DAILY on his behalf and APPROVED from 3 Aug 2026 (before AVAC processing)",
+    "My payroll enquiries: 4471091 Ad Hoc Payment 02.09.2026 Pending; 4438861 Leave 22.07.2026 RESOLVED (never communicated); 4045255 Ad Hoc Payment 11.03.2025 Resolved — PRECEDENT"
+   ]
   }
  ],
  "audio_forensics": {
@@ -612,7 +631,19 @@
     "Cf mention transcript [36:42] — 'my health service email was restricted'. If system access was REMOVED rather than lapsed on absence, that is an employment-track issue in its own right."
    ],
    "discipline": "Ask for restoration. Do NOT allege removal and do NOT connect it to the exclusion. Access often lapses on extended absence.",
-   "action": "Raised once, factually, in the 2 September ad hoc payment email. Watch the answer."
+   "action": "Raised once, factually, in the 2 September ad hoc payment email. Watch the answer.",
+   "status": "CLOSED 2 Sep — access regained (msg 38); screenshots are his own"
+  },
+  {
+   "rank": "1-EQUAL — NEW 3 SEP",
+   "risk": "LSL ELIGIBILITY DEFERRED TO 04/09/2026 — LIKELY BY THE EMPLOYER'S OWN NP-SICK-LEAVE CODING",
+   "arithmetic": "deed commencement 25 Mar 2019 + 7 yrs = 25 Mar 2026; Payroll's date 4 Sep 2026 = 163 days later. Known unpaid periods: deed cl 4 LWOP 72 days (13 Dec 2024–23 Feb 2025) + FY25-26 unpaid ~34 days + 2026 'Sick Leave – No Pay' 61 days (3 Jul–2 Sep) ≈ 167. CONSISTENT with unpaid periods being excluded from continuous service.",
+   "why_it_matters": [
+    "If the 2026 NP Sick Leave days are excluded, the coding he never applied for (contradicted in writing 3 Jul 3:18 pm) is what deferred his LSL past the date he applied — and it moves out a day for every further day coded.",
+    "Put to Payroll as a QUESTION (show the calculation), not asserted. The leave audit (log created 3 Sep) is the vehicle to correct the coding from 3 July BEFORE eligibility is recalculated.",
+    "Independently: on Payroll's own date he is eligible from 4 Sep — LSL applied FORWARD from 4 Sep at 76 hrs. Forward-dating protects the 13 Jul–3 Sep wages claim, which now has no leave that could cover it (rec leave 51.31 hrs)."
+   ],
+   "action": "Response pack + email drafted 3 Sep: drafts/out/RESPONSE_PACK_leave_and_pay_3SEP2026.pdf; drafts/EMAIL_Taylor_Payroll_RESPONSE_3SEP2026.txt"
   }
  ],
  "the_report": {
@@ -744,6 +775,16 @@
   }
  },
  "clocks": [
+  {
+   "date": "2026-09-03",
+   "what": "RESPONSE to the 2–3 Sep emails: eligibility calculation requested; audit to correct coding from 3 Jul; LSL applied from 4 Sep forward at 76 hrs; written confirmation of the 9 Sep pay (process 24926366); ad hoc via enquiry 4471091 with the 11 Mar 2025 precedent; what resolved 4438861.",
+   "status": "SEND TODAY"
+  },
+  {
+   "date": "2026-09-04",
+   "what": "Payroll's own LSL eligibility date. LSL from this date forward must be actioned for the 23 Sep pay (fortnight 31 Aug–13 Sep).",
+   "status": "OPEN"
+  },
   {
    "date": "2026-08-31",
    "what": "COMPLETE: application 10:59 -> Taylor actions + '0.5 FTE' 15:34 (cc union) -> four-point correction SENT 16:06. Full thread filed in original form. Awaiting: leave-type breakdown under PRN 249 863 66; any post-28-June instrument; Payroll on the service date and LSL block.",
