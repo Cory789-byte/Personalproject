@@ -6950,3 +6950,7 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   24926366 (17–30 Aug) pays 9 Sep ON CYCLE under Directive 17/13 — do not argue ad hoc for it. Email
   Part 2 reframed accordingly; rec leave 51.31h offered against 3–16 Aug without prejudice so money can
   move; s9 review asked; new item 3 (s6 documents). G4 Absence management to obtain.
+- 3 Sep (later still) — Cory: "special leave can be applied, they are just punishing me." Added as ITEM 2
+  of the two-part email: Directive 12/24 cl 6.1 via EB12 cl 9.12; applied 28 Jul + 5 Aug, never decided;
+  ask = delegate's decision with reasons under cl 6.5 (reason/duration/impact). Motive not stated —
+  chronology only. Directive now Section D of the pack (42pp). Table 2 row added. Petering ask 2 extended.

@@ -7,7 +7,7 @@
   "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
   "firewall": "QPS/criminal track (legal_system/) and the DFV material are NEVER voiced in WC/2024/227 or the employment track. No cross-track cognitive profile is to exist.",
   "revision": 7,
-  "last_updated": "2026-09-03 C13 ingested (D15)"
+  "last_updated": "2026-09-03 C13 (D15) + special leave item"
  },
  "documents_ingested_28AUG2026": [
   {
@@ -938,5 +938,17 @@
   "file": "skill/references/PAY-REQUESTS-TALLY-3JUL-31AUG2026.md",
   "count": "at least 11 written to MSH in 59 days (3 Jul - 31 Aug), plus the 21 Aug verbal and one to the fund; #2 is conservatively one though his own 13 July email says 'each of my previous emails' (plural)",
   "headline": "He asked on day one, tried every channel in order, and the first payment action came at request #11 - four and a half hours after a same-day deadline with the union copied."
+ },
+ "special_leave_3SEP2026": {
+  "instrument": "Directive 12/24 Special Leave via EB12 cl 9.12.1; cl 6.1 discretionary paid leave 'for any purpose'; cl 6.5 mandatory considerations incl. (d) impact on the employee if refused; Sch Two cat 11 'Other Exceptional Circumstances'",
+  "history": [
+   "28 Jul 17:39 (msg 13 pt 4): applied — wording 'must be applied' (overstated; it is discretionary)",
+   "29 Jul 16:10 Harrison: silent on it",
+   "30 Jul 14:33 Harrison holding: silent",
+   "5 Aug 07:30 (msg 19): 'I have asked that the period be coded as special leave on full pay instead'",
+   "no decision communicated to 3 Sep — 37 days"
+  ],
+  "now": "Two-part email item 2: put to the delegate; decision in writing with reasons addressing cl 6.5 (reason = directed absence; duration 62 days; impact = no income since 15 Jul); if approved from 3 Jul, rec leave + LSL re-credited. Table 2 row added; Directive 12/24 is Section D of the attachment pack (42pp).",
+  "discipline": "chronology, not motive — Cory's 'they are just punishing me' stays out of the page"
  }
 }

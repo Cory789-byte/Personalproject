@@ -54,3 +54,19 @@ the next pay day. **Not to be used for payment of missed pay for extended period
 - QH careers-page wording is superseded: quote C13 §8, which is held and verified.
 - G4 Absence management, C48, Directive 17/13 — NOT held. Name them, don't quote them.
 - Ad hoc = timing only. It does not resolve the coding, the 0.5 FTE, the eligibility date or the wages claim.
+
+## THE THIRD LEAVE TYPE — SPECIAL LEAVE ON FULL PAY (added 3 Sep, on Cory's direction)
+| Source | Provision | Use |
+|---|---|---|
+| **EB12 cl 9.12.1** (ATT02, verified) | *"Directive 12/24: Special Leave applies to all employees covered by this Agreement."* | the chain into the Directive |
+| **Directive 12/24** cl 4.1(b)(ii) (ATT12) | applies to HHS industrial-instrument employees | applies to him |
+| cl 6.1 | *"A chief executive may approve paid leave for employees for any purpose, with duration appropriate to the purpose of the leave"*; 6.1(a) 5 days/yr/reason *"unless the chief executive considers that circumstances warrant the granting of additional paid leave"* | DISCRETIONARY — never say "must be applied" (the 28 Jul letter did; corrected) |
+| cl 6.5 | *"must consider: (a) the reason … (b) the duration … (d) the impact on the employee if the requested leave is not approved"* | ⭐ the mandatory considerations — the ask is a DECISION WITH REASONS |
+| Sch Two cat 11 | *"Other Exceptional Circumstances … should be granted to assist employees particularly on compassionate grounds"* | supportive, not decisive |
+| History | applied 28 Jul (msg 13, pt 4) and 5 Aug (msg 19); 29 Jul and 30 Jul replies silent; nothing since | ⭐ 37 days without a decision on a leave application — that is the fact to state |
+| C7 (QH-POL-231, June 2020) | keyed to the superseded Directive 05/17; no general paid-discretion clause of its own | cite the Directive, not C7 |
+
+⛔ Discipline: the email states the chronology (applied, unanswered, unanswered, no decision) and asks
+for the decision. It does not say why. "Punishing" is Cory's word for chat, never for the page.
+The stronger point remains that no power has been identified to direct a fit employee off work
+without pay — special leave is the mechanism, not the entitlement.

@@ -1,13 +1,13 @@
 TO: Chloe Taylor; PayrollMetroSouth    CC: Jacqui Roberts; Emily Petering
-ATTACH: ATTACHMENT_PACK_Taylor_Payroll_3SEP2026.pdf (the seventeen emails · the two tables · HR Policy C13)
+ATTACH: ATTACHMENT_PACK_Taylor_Payroll_3SEP2026.pdf (the seventeen emails · the two tables · HR Policy C13 · Directive 12/24)
 SUBJECT: Cory Shepherd (388372) — Part 1: the sick-leave coding since 3 July · Part 2: payment
 
 Dear Chloe, and Payroll,
 
 Two parts. The attachment has three sections: the seventeen emails that bear on this, each
 reproduced once as sent, from 2 July to this morning; two tables, the leave requests and the payment
-position by fortnight; and a copy of HR Policy C13, Payment of salaries and wages, which I refer to
-in Part 2.
+position by fortnight; a copy of HR Policy C13, Payment of salaries and wages; and a copy of
+Directive 12/24, Special Leave. I refer to both in Part 2.
 
 PART 1 — THE "SICK LEAVE – NO PAY" CODING
 
@@ -84,12 +84,29 @@ Separately, and so that I am paid from here:
       service leave is to be entered from 4 September at the latest so that it is in the fortnight
       ending 13 September, and no further "Sick Leave – No Pay" is to be entered from that date.
 
-   2. Written confirmation of what will be paid on 9 September under process 24926366 — the gross
+   2. Special leave on full pay from 3 July 2026. There is a third leave type, and it is the one that
+      fits an absence the employer directed. Directive 12/24, Special Leave, applies to every employee
+      covered by the certified agreement (EB12 cl 9.12). Clause 6.1 provides that a chief executive
+      "may approve paid leave for employees for any purpose, with duration appropriate to the purpose
+      of the leave", beyond five days where the chief executive "considers that circumstances warrant"
+      it. Clause 6.5 provides that in determining an application the chief executive "must consider …
+      the impact on the employee if the requested leave is not approved". Special leave is not debited
+      from any leave account. I applied for it on 28 July 2026 (email 13, point 4) and again on
+      5 August (email 19), for each day from 3 July on which I was certified fit with restrictions,
+      available, and directed not to attend. The reply of 29 July did not address it, the reply of
+      30 July did not address it, and no decision has been communicated since. I ask that the
+      application be put to the delegate now, and that I be given the decision in writing, with reasons,
+      including how the clause 6.5 considerations were weighed: the reason is an absence I did not
+      choose; the duration is 62 days and continuing; and the impact of refusal has been no income
+      since 15 July. If special leave on full pay is approved from 3 July, the recreation leave and long
+      service leave applied for above are to be re-credited in full.
+
+   3. Written confirmation of what will be paid on 9 September under process 24926366 — the gross
       amount, the hours, and the leave types debited — and whether it was processed at 76 hours or
       at 0.5 FTE. If at 0.5 FTE, the balance to be adjusted in the next run. The last reduced-hours
       arrangement ended on 28 June 2026 and nothing has replaced it.
 
-   3. The daily "Sick Leave – No Pay" entries. Section 6 of the policy permits a line manager to submit
+   4. The daily "Sick Leave – No Pay" entries. Section 6 of the policy permits a line manager to submit
       leave on an employee's behalf only where the employee's request for leave is documented in
       writing and the supporting documents are retained. My written request of 3 July was for annual
       leave. I ask for a copy of the written request and the supporting documents on which each
