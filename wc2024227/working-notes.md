@@ -7003,3 +7003,20 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   next move on Roberts is voice (0487 313 927), not text.
 - ⚠ 9 SEPT EXPECTATION SET: PRN 24926366 was processed at 0.5 FTE ⇒ ~38 hrs ≈ $1,689 gross, less tax
   and RemServ $354.46 ⇒ roughly $1,000 in hand, NOT a full fortnight. Diarise; do not be ambushed.
+- 3 Sep — BANKED: the ECC REIMBURSEMENT thread finally clears (33 days on the gate).
+  · Invoice 574370, 3 Jul 2026, $150.00 — the consultation at which Dr Ma completed the EMPLOYEE
+    CAPABILITY CHECKLIST, i.e. the document MSH required and the whole exclusion turns on. Cory PAID
+    IT HIMSELF on 10 Jul 2026 and has carried the cost through the entire unpaid period.
+  · 11 Aug 17:55 Cory → clinic (first request). 31 Jul Harrison had gated reimbursement on practice
+    confirmation (2026-07-31_1515_Harrison_reimbursement_practice-confirmation_gate.pdf).
+  · 2 Sep 18:25 Cory → clinic, cc LBH Injury Management (follow-up).
+  · 3 Sep 07:38 MICHELLE HARRISON: clinic's email received 02/09/2026, "will complete the paperwork
+    TODAY and send it through", and will provide him a copy for his records.
+    ⇒ DATABLE COMMITMENT. Diarise: copy of completed paperwork + the $150 actually reaching him.
+  · 3 Sep 08:58 Yasir Waheed, Practice Manager, MyDoctors Surfers: signed and stamped invoice was
+    sent to the designated address on 2 Sep.
+  ⭐ DISCIPLINE OBSERVED, KEEP IT: the subject line he set is "remittance to LBH Injury Management
+    only … NO MEDICAL RECORDS" — the clinic was scoped to send billing only, never clinical material,
+    to the employer. Correct given the RFMI and the appeal. Do not relax it.
+  Files: documents/correspondence-2026/2026-09-03_0738_Harrison_ECC_reimbursement_paperwork_to_be_completed_today.pdf;
+         documents/correspondence-2026/2026-09-03_0858_MyDoctors_Waheed_signed_stamped_invoice_sent_2SEP.pdf
