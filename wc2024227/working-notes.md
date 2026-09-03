@@ -7064,3 +7064,17 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   would have been paid; and the coding deferred the LSL eligibility now relied on to refuse the leave.
   Five asks incl. the accrual anomaly (41.21 → 51.31 hrs) put as a question. Build:
   drafts/build_leavetype_exhibit.py
+- 3 Sep — ⭐ REBUTTAL ADDED to the leave-type exhibit, point (b), on Cory's own formulation ("I did not
+  say don't pay it, I said I don't agree"). It forecloses the obvious answer — "he refused the leave, so
+  we couldn't pay him". As drafted: the 5 Aug email declines recreation leave AND nominates special
+  leave on full pay, which under Directive 12/24 is NOT debited from any leave account. So what was
+  declined was funding an employer-directed absence out of his own accrued credits; what was requested
+  was payment, from the leave type that exists for that circumstance. And the special leave application
+  has never been determined — neither granted nor refused.
+  ⛔ DISCIPLINE RESTATED: the word "punished" and the idea of being penalised for disagreeing stay in
+  conversation and NEVER on paper — motive raises the Briginshaw bar and opens s 32(5)(b). The safe and
+  stronger version is the process point: their operating rule from 3 July was that absence of agreement
+  defaults to the leave type that pays nothing (3 Jul 2:49 pm: "as you have not confirmed leave type …
+  I will continue to process as Sick leave / Sick leave no pay"), and when he DID confirm — 29 minutes
+  later, and again on 5 Aug — the confirmation was not applied. Disagreement treated as consent to a
+  third option. That is provable from the documents and needs no motive.
