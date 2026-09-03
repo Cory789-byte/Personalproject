@@ -7111,3 +7111,21 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   re-referring is the unimpeachable step and it cannot be met with a jurisdictional objection. Going
   straight to Stage 4 would invite one and cost weeks. Seven days lands 10 Sept, the day after the
   9 Sept pay run, so the conference date and the payment test coincide.
+- 3 Sep — REBUILT to the CHIEF EXECUTIVE on Cory's instruction.
+  `drafts/out/NOTICE_OF_DISPUTE_STAGE2_to_CE_3SEP2026.pdf` (3pp) and, stitched with the whole record,
+  `drafts/out/STAGE2_TO_CHIEF_EXECUTIVE_notice_and_full_record_3SEP2026.pdf` (291pp, 13.7MB, scrubbed).
+  TO: Noelle Cridland, Health Service Chief Executive (verified: she signed the 5 Jun objection
+  K-LM26/729 and directed the acknowledgement of the 3 Aug s 89 letter within 67 minutes).
+  CC: Roberts, Petering, MetroSouthCorro. ⛔ TAYLOR DELIBERATELY OFF IT, on instruction.
+  ⭐ NEW SECTION 2 — WHY THE CE IS THE APPROPRIATE MANAGEMENT REPRESENTATIVE. It is a jurisdictional
+  argument, not an escalation: Directive 12/24 cl 6.1/6.5 makes special leave A CHIEF EXECUTIVE'S
+  POWER (and C7 puts it with the HSCE/divisional executive or delegate), so no officer below her can
+  determine the application of 28 Jul / 5 Aug — a Stage 2 conference at HR level is structurally
+  incapable of resolving it. Second limb: no instrument or officer has ever been identified for the
+  direction, and that sits at executive level. Then the disarming line: he does not ask her to convene
+  it personally, will attend with any nominee, and asks only that the reserved matters be determined
+  by her or her delegate under the HR Delegations Manual. Remedy 3 now names that decision-maker.
+  ⛔ s 89 NOT MENTIONED anywhere in the notice — lanes kept separate, as advised. Cory's reason for the
+  cc list (Roberts and the CE have both already seen the s 89 letter) stays out of the document.
+  ⚠ CONSEQUENCE OF DROPPING TAYLOR: she is the person who submits the corrective AVAC. The payment ask
+  must keep running in the separate Taylor/Payroll thread — the dispute notice does not carry it to her.
