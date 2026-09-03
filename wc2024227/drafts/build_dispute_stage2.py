@@ -31,6 +31,7 @@ s.append(P('I earlier referred the matter to Stage 2 and withdrew that referral 
 s.append(P('2. WHY THIS REFERRAL IS MADE TO YOU',H2))
 s.append(P('Clause 1.11.2(b) requires the matter to be referred to "the appropriate management representative". Stage 1 was conducted with my immediate supervisor, as clause 1.11.2(a) provides. I refer Stage 2 to you because two of the matters in dispute cannot be decided below your office.',B))
 s.append(P('<b>Special leave is a chief executive\'s power.</b> Directive 12/24, which applies to every employee covered by the Agreement through clause 9.12, provides at clause 6.1 that "a chief executive may approve paid leave for employees for any purpose", and at clause 6.5 that "in determining an application for leave under clause 6.1 or clause 6.2, a chief executive must consider" the reason for the leave, its duration, and the impact on the employee if it is not approved. HR Policy C7 likewise places the decision with the Health Service Chief Executive, divisional executive or delegate. I applied for special leave on full pay on 28 July and again on 5 August 2026. It has never been determined. No officer below your office, or your delegate under the HR Delegations Manual, is able to determine it.',B))
+s.append(P('<b>A decision on special leave would resolve the immediate position on its own.</b> It is paid at full pay, and under Directive 12/24 it is not debited from any leave account. Granting it would therefore restore my income and leave my accrued entitlements intact. It would not require the Health Service to determine the leave coding, the hours at which leave has been applied, the long service leave eligibility date, or the basis of the direction that I not attend — each of which would remain in dispute and can be dealt with at the conference. It is the one decision in this matter that can be made now, by one office, and it requires no view to be taken on any of the others.',B))
 s.append(P('<b>No instrument or officer has ever been identified for the direction that I not attend.</b> I asked for both in the Stage 1 process on 4 August 2026 and have asked since. The identification of the delegate and the instrument, or the making of a decision, sits at executive level.',B))
 s.append(P('I do not ask that you convene the conference personally. If you nominate a representative to hold it and to decide the matters within their delegation, I will attend with them, and I ask only that the matters reserved to the chief executive be determined by you or by your delegate under the HR Delegations Manual.',B))
 s.append(P('3. THE MATTERS IN DISPUTE',H2))
@@ -49,15 +50,17 @@ s.append(P('<b>Clause 1.11.5</b> provides that "no party shall act in a manner u
 s.append(P('<b>Clause 1.11.2(b)</b> provides that the Stage 2 process "should not extend beyond seven days". I ask that the conference be arranged and held on or before <b>Wednesday 10 September 2026</b>.',B))
 
 s.append(P('5. WHAT I SEEK',H2))
-for n,txt in [('1','Payment of the wages withheld since 13 July 2026; alternatively, the leave I have applied for entered without debit to my accrued credits, and the ad hoc payment pending under enquiry 4471091 processed against it.'),
- ('2','Correction of the leave coding from the first date it was applied, and before long service leave eligibility is recalculated in the leave audit opened on 3 September 2026.'),
- ('3','A determination of my application for special leave on full pay, by you or by your delegate under the HR Delegations Manual, in writing, with reasons addressing the considerations in clause 6.5 of Directive 12/24.'),
- ('4','Leave and pay applied at 76 hours per fortnight, or the instrument relied on for any lesser figure.'),
- ('5','A written decision either returning me to work within the restrictions recorded on 3 July 2026 by a stated date, or declining to, identifying the instrument relied on and the officer who decided it.'),
- ('6','A copy of the written request and supporting documents on which each "Sick Leave – No Pay" entry since 3 July 2026 was made, as required by section 6 of HR Policy C13.'),
- ('7','The workplace psychosocial risk assessment sought on 28 July 2026.')]:
-    s.append(P(f'<b>{n}.</b>&nbsp;&nbsp;{txt}',BL))
-
+SEEK=[
+ '''A determination of my application for special leave on full pay from 3 July 2026, by you or by your delegate under the HR Delegations Manual, in writing, with reasons addressing the considerations in clause 6.5 of Directive 12/24.''',
+ '''Payment of the wages withheld since 13 July 2026; alternatively, the leave I have applied for entered without debit to my accrued credits, and the ad hoc payment pending under enquiry 4471091 processed against it.''',
+ '''Correction of the leave coding from the first date it was applied, and before long service leave eligibility is recalculated in the leave audit opened on 3 September 2026.''',
+ '''Leave and pay applied at 76 hours per fortnight, or the instrument relied on for any lesser figure.''',
+ '''A written decision either returning me to work within the restrictions recorded on 3 July 2026 by a stated date, or declining to, identifying the instrument relied on and the officer who decided it.''',
+ '''A copy of the written request and supporting documents on which each "Sick Leave – No Pay" entry since 3 July 2026 was made, as required by section 6 of HR Policy C13.''',
+ '''The workplace psychosocial risk assessment sought under clause 7.2 on 28 July 2026, and the task-by-task match of the role description against the Employee Capability Checklist sought the same day.''',
+]
+for i,txt in enumerate(SEEK,1):
+    s.append(P(f'<b>{i}.</b>&nbsp;&nbsp;{txt}',BL))
 s.append(P('6. IF THE DISPUTE REMAINS UNRESOLVED',H2))
 s.append(P('If the dispute is not resolved at Stage 2, I reserve my position under clause 1.11.2(c) to refer the matter to the EB12 Implementation Group, and under clause 1.11.2(d) to refer it to the Queensland Industrial Relations Commission.',B))
 s.append(P('Everything I have applied for remains on the basis set out at paragraph 4 of my application of 31 August 2026 — under protest and subject to re-credit. I remain certified fit with restrictions and available to work.',B))

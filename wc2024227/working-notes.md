@@ -7129,3 +7129,19 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   cc list (Roberts and the CE have both already seen the s 89 letter) stays out of the document.
   ⚠ CONSEQUENCE OF DROPPING TAYLOR: she is the person who submits the corrective AVAC. The payment ask
   must keep running in the separate Taylor/Payroll thread — the dispute notice does not carry it to her.
+- 3 Sep — ⭐⭐ SPECIAL LEAVE PROMOTED TO THE LEAD REMEDY (Cory: "she can resolve it because she is the
+  one that can approve special leave"). New paragraph in section 2 of the notice: a grant of special
+  leave resolves the immediate position ON ITS OWN — full pay, not debited from any leave account, so
+  income restored and accrued credits intact — and it requires NO view to be taken on the coding, the
+  hours, the LSL eligibility date or the basis of the direction, all of which stay in dispute for the
+  conference. "The one decision in this matter that can be made now, by one office, and it requires no
+  view to be taken on any of the others."
+  ⭐ WHY THIS IS THE KEY: it is the cheapest possible yes for them. Paying wages concedes the exclusion
+  was unlawful; correcting the coding concedes the entries were unauthorised; granting LSL from 13 Jul
+  concedes the service date. Granting special leave concedes NOTHING — it is a discretion. So it is the
+  outcome most likely to be agreed, and the only one that ends the money problem in a single decision.
+  And cl 6.5 forces her to consider "the impact on the employee if the requested leave is not approved"
+  — 52 days without income, accommodation lost — so a refusal has to grapple with that in writing.
+  Remedies renumbered 1–7 with special leave first; item 7 (cl 7.2 risk assessment + task-by-task
+  match) restored after a renumbering slip caught on review.
+  FINAL: drafts/out/STAGE2_TO_CHIEF_EXECUTIVE_notice_and_full_record_3SEP2026.pdf — 291pp, scrubbed.
