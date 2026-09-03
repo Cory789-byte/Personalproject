@@ -7165,3 +7165,20 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   ⚠ ONE GAP NOTED, NOT FIXED: the notice says "I earlier referred the matter to Stage 2" but the record
   stitched behind it contains the WITHDRAWAL (28 Aug) and not the referral itself. The withdrawal
   evidences the referral, so it holds — but if the referral was sent by email, add it as a tab.
+- 3 Sep — ⭐⭐ THE CHOICE FOREGROUNDED IN THE CE NOTICE, on Cory's instruction ("the choice to elect no
+  pay is the one I need to highlight"). Two changes:
+  (1) NEW PARAGRAPH ON PAGE ONE, closing section 1, so it is the first substantive thing the Chief
+      Executive reads: "On each day of that absence a leave type has been selected and entered on my
+      record on my behalf. Of the leave types available, three produce a payment and one does not. The
+      one that does not has been selected on every day since 3 July 2026 — after I instructed in writing
+      on that day that annual leave was to be applied, and after every objection I have made since.
+      That is why I have not been paid." It ends on the causal link, which nothing else in the notice did.
+  (2) MATTER 3 REWRITTEN and retitled "The leave coding, and how the payment became nil" — the positive
+      act; the alternatives known to the officer entering them (Taylor's own 41.21 hrs and the
+      undertaking); the payslip at $0.00 for that same fortnight; C13 §6 quoted; no written request for
+      the type entered; the 31 Aug confirmation he was not applying for personal leave; and the
+      pre-emption — "I have at no point declined to be paid: on 5 August I declined only that the
+      absence be funded out of my own accrued recreation leave, and asked in the same sentence that
+      special leave on full pay be applied instead."
+  ⛔ "Elect"/"election" deliberately NOT used — term of art, invites a quibble. "Selected", "positive
+  act", "chosen" carry the same force and are unanswerable. No motive anywhere.
