@@ -3,7 +3,7 @@
 from reportlab.lib.units import mm
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle as PS
-from reportlab.platypus import Paragraph as P, Spacer, Table, TableStyle
+from reportlab.platypus import Paragraph as P, Spacer, Table, TableStyle, PageBreak
 
 H1=PS('c_h1',fontName='Helvetica-Bold',fontSize=11.5,leading=14,spaceAfter=2)
 H2=PS('c_h2',fontName='Helvetica-Bold',fontSize=8.6,leading=10.5,spaceBefore=6,spaceAfter=2)
@@ -15,7 +15,7 @@ TINY=PS('c_t',fontName='Helvetica',fontSize=6.4,leading=7.8)
 ROWS=[
  ('17 Jun 2020','I signed a written agreement permitting a minimum break of 8 hours between shifts instead of 10. Whether it applied to rostered shifts is disputed.','Agreement, 17 Jun 2020',None),
  ('26 Oct 2022','General-practice record. "ADHD" and "Anxiety" appear in the Past Medical History list carried in the referral of 16 May 2024.','General-practice records','A4a'),
- ('16 Nov 2023','General-practice consultation, Dr Nanayakkara.','General-practice records','A4a'),
+ ('16 Nov 2023','General-practice consultation, Dr Priyal De Silva Nanayakkara. The note records: "Poor sleep. Shift work. Takes melatonin 2 mg to help to go to sleep … but does not help much. <b>Cannot work/ do shifts if he does not get a good sleep.</b> … <b>No psycological illness such as depression/ psycosis. mood good.</b>" Melatonin and temazepam prescribed. (Spelling as in the record.)','General-practice records','A4a'),
  ('20–27 Feb 2024','Period of leave, later the subject of a dispute about whether attachments had been supplied. The Respondent now records "a review indicates that in fact, the attachments were present" and "a matter of human error".','Schedule of assumed facts, 14(e), 14(f)','SCH'),
  ('17–18 Mar 2024','Rostered to finish at 23:00 and to commence at 06:00 — a break of 7 hours. The fatigue policy and the Award require a minimum of 10 hours, or 8 by written agreement. MET calls were recorded over that period.','Accepted — schedule items 1, 3','SCH'),
  ('19 Mar 2024','<b>The day after those shifts I was absent, and I funded it myself.</b> The employer’s own leave record shows 7.60 hours of Sick Leave, approved. Paid fatigue leave was not provided; the Regulator’s own pleaded case is that no fatigue leave was available under cl 18.10 of the Award, no overtime having been performed.','Employer leave record; Regulator’s pleading 24(b); accepted — schedule 22(c)','SCH'),
@@ -25,9 +25,9 @@ ROWS=[
  ('21 May 2024','"I am waiting payroll confirmation."','Accepted — schedule item 46','SCH'),
  ('28 May 2024','The correction was submitted — 8 weeks after the shifts.','Accepted — schedule item 41','SCH'),
  ('<b>18 Jun 2024</b>','<b>Onset of the injury, as pleaded in the appeal.</b>','Form 9A, as pleaded',None),
- ('28 Jun 2024','General-practice consultation, Dr Slawinski.','General-practice records','A4a'),
+ ('28 Jun 2024','General-practice consultation, Dr Bogdan Slawinski. Reason for visit recorded as "Anxiety". The note records "wants melatonin, to help to sleep … <b>stress at work</b> … upset by people not following rules".','General-practice records','A4a'),
  ('30 Jun 2024','Fatigue risk management assessment was implemented at Logan Hospital Switchboard only after this date. No fatigue risk management training records or register entries exist for the position, such training applying only to health practitioners and clinical assistants.','Chief Executive’s letter, 5 Jun 2026','A2'),
- ('1 Jul 2024','General-practice consultation, Dr Hawes. Application for compensation lodged with WorkCover Queensland.','General-practice records','A4a'),
+ ('1 Jul 2024','General-practice consultation, Dr Peter Hawes. Reason for visit recorded as "<b>work stress</b>". The note records "work problems- ethical complaint about manager and director … been there 5 years … they withhold pay at times, no overtime- not processed, <b>manipulate his roster- so he works lates then earlies</b>, not allowed to do this … all this is stressing him out, causing anxiety". Application for compensation lodged with WorkCover Queensland the same day.','General-practice records','A4a'),
  ('12 Jul 2024','"Event overview" provided by me to WorkCover Queensland.','Respondent’s List of Documents, item 12',None),
  ('8 Sep 2024','Workers’ compensation medical certificate signed by Dr Hawes.','Medical certificate','A4b'),
  ('Sep 2024','<b>Referred to Dr Krishnaiah by Dr Hawes.</b>','Referral, Dr Hawes',None),
@@ -73,6 +73,7 @@ def flowables(J=None, jumpbar=None):
         cell = src if not (linked and key) else src+' · '+J(key)
         r.append([P(date,SM),P(ev,SM),P(cell,SM)])
     s.append(_tbl(r,[26*mm,98*mm,46*mm]))
+    s.append(PageBreak())
     s.append(P('MATTERS NOT ESTABLISHED, AND MATTERS I CANNOT DATE',H2))
     r=[[P('<b>Item</b>',SMB),P('<b>Position</b>',SMB)]]
     for a,b in NOTES: r.append([P(a,SM),P(b,SM)])

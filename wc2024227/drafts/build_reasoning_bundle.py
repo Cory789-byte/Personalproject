@@ -129,9 +129,10 @@ for _ in range(6):
 else:
     raise SystemExit('front matter page count did not settle')
 print('front matter pages:',front_pages,'| link targets:',len(seq))
-assert front_pages==2, (
-    'FRONT MATTER IS NO LONGER 2 PAGES. Links stay correct, but the email describes a 1-page '
-    'finding aid and a 1-page chronology. Trim, or update the email before shipping.')
+EXPECTED_FRONT=3          # finding aid (1) + chronology (2). The email states these counts.
+assert front_pages==EXPECTED_FRONT, (
+    f'FRONT MATTER IS {front_pages} PAGES, EXPECTED {EXPECTED_FRONT}. Links stay correct, but the '
+    'email and the send sheet state the page counts. Trim, or update both before shipping.')
 
 # Identify each link by the dummy page it resolves to in `loc`, not by emission order:
 # a link that wraps across a line produces TWO annotations for one target, and positional
