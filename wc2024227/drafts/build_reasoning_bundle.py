@@ -93,7 +93,9 @@ def content(start):
         return P('<b>JUMP TO</b>  '+'  ·  '.join(SHORT[k]+' '+J(k) for k,_,_ in srcs),TINY)
     s.append(Spacer(1,3)); s.append(jumpbar())
     s.append(PageBreak())
-    s.extend(chronology.flowables(J=J, jumpbar=jumpbar))
+    # No jump bar on the chronology page: it costs a line the page does not have, and the
+    # bookmarks panel already reaches every enclosure from anywhere.
+    s.extend(chronology.flowables(J=J))
     return s
 
 def render(start):
@@ -112,7 +114,7 @@ def render(start):
         i=c.getPageNumber()-fp-1          # 0-based index into the dummy pages
         if 0<=i<len(uniq): c.bookmarkPage(uniq[i])
     buf=io.BytesIO()
-    doc=SimpleDocTemplate(buf,pagesize=A4,leftMargin=17*mm,rightMargin=17*mm,topMargin=13*mm,bottomMargin=12*mm,title='',author='')
+    doc=SimpleDocTemplate(buf,pagesize=A4,leftMargin=17*mm,rightMargin=17*mm,topMargin=11*mm,bottomMargin=10*mm,title='',author='')
     doc.build(flow,onLaterPages=later)
     buf.seek(0); return pikepdf.open(buf), seq, uniq
 

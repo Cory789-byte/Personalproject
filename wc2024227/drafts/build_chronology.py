@@ -5,8 +5,8 @@ from reportlab.lib.units import mm
 from reportlab.platypus import SimpleDocTemplate
 
 buf=io.BytesIO()
-SimpleDocTemplate(buf,pagesize=A4,leftMargin=17*mm,rightMargin=17*mm,topMargin=13*mm,
-                  bottomMargin=12*mm,title='',author='').build(chronology.flowables())
+SimpleDocTemplate(buf,pagesize=A4,leftMargin=17*mm,rightMargin=17*mm,topMargin=11*mm,
+                  bottomMargin=10*mm,title='',author='').build(chronology.flowables())
 buf.seek(0)
 d=pikepdf.open(buf)
 out=pikepdf.new(); out.pages.extend(d.pages)
