@@ -18,17 +18,19 @@ IN SHORT
                 adjustments). That letter is enclosed in attachment 2 and still contains
                 them — please disregard them. They are the employer's questions and are
                 not urgent.
-   No review:   Dr Krishnaiah may answer from his own assessment, his consultations with
-                me and his records. The enclosures are there if a page cite is wanted;
-                they do not need to be read to answer.
+   Basis:       questions 1, 2 and 4 are clinical — your own assessment, consultations and
+                records answer them. Questions 3 and 5 also ask you to assume some workplace
+                facts, because you were not there. They are summarised in question 3 and set
+                out in full, with a source for each, in the four-page schedule at page 10 of
+                attachment 2. Nothing beyond that schedule needs to be read.
    Fee:         I am happy to pay. Please tell me the fee and how to pay it. I can pay in
                 advance if that is easier.
    Reading:     this email → attachment 1 (the Notice, 6 pages) → attachment 3, a one-page
-                chronology → page 1 of attachment 2, a finding aid. Pages 1 and 2 of
-                attachment 2 are fully clickable — every page reference jumps to the
-                document, and a JUMP TO strip at the foot of each reaches all ten
-                enclosures in one click. The bookmarks panel does the same from anywhere.
-                The practice already holds its own file and the report of 13 February 2025.
+                chronology → page 1 of attachment 2, a finding aid → the schedule at page 10
+                of attachment 2, for questions 3 and 5. Pages 1 and 2 of attachment 2 are
+                fully clickable, and a JUMP TO strip on each reaches all ten enclosures in
+                one click; the bookmarks panel does the same from anywhere. The practice
+                already holds its own file and the report of 13 February 2025.
 
 WHY
 
@@ -50,6 +52,19 @@ Compensation Regulator, sealed by the Registry on 4 July 2025. It identifies the
    3. Was Mr Shepherd's employment a significant contributing factor to the injury.
 
 Those are the other party's questions. A short report answering those three is all that is required.
+
+THE TWO BASES
+
+I should be clear about this, because the two are easily run together and the difference matters.
+
+Questions 1, 2 and 4 rest on your own clinical assessment. Questions 3 and 5 cannot — you were not
+at the workplace — so for those you are asked to assume certain facts. Section A of the schedule at
+page 10 of attachment 2 is the facts the Workers' Compensation Regulator has accepted in writing;
+section B records what it does not accept, so the position is complete either way.
+
+It would help if the report said in one line which facts were assumed and which parts rest on your
+own assessment. That is the ordinary form, and an opinion that separates the two is a good deal
+easier to rely on than one that does not.
 
 THE FIVE QUESTIONS
 
