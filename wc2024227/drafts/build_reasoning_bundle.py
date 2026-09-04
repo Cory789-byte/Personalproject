@@ -44,6 +44,8 @@ def content(start):
        P('Cory Shepherd · WC/2024/227 · 4 September 2026. The three matters are those written on the Notice of Non-Party Disclosure requested by the Workers’ Compensation Regulator and sealed 4 July 2025, which is attached to my email separately. Every document referred to below is in this file, complete and unaltered. <b>The page references are clickable</b>, and the bookmarks panel lists each document.',TINY),
        Spacer(1,3),
        P('This page is a finding aid only. It makes no submission about what any item shows, and nothing in it is intended to bear on your opinion. It contains nothing that was not provided with my letter of 17 August 2026, other than the page references.',TINY),
+       Spacer(1,3),
+       P('<b>PLEASE NOTE — WHAT IS <u>NOT</u> ASKED.</b> The letter of instruction of 17 August 2026 (in this file at '+J('LOI')+') asks a longer set of questions. Only the five questions in my email of 4 September 2026 are asked now. In particular, <b>questions 3.4 to 3.8 of that letter — capacity, restrictions and adjustments — are NOT asked for this purpose and should be set aside.</b> They are the employer\'s questions, they are not urgent, and they can be dealt with separately.',TINY),
        Spacer(1,4),
        P('MATTER 1 — DID MR SHEPHERD SUSTAIN A PERSONAL INJURY?',H2)]
     r=[[P('<b>Material</b>',SMB),P('<b>Where</b>',SMB)]]
@@ -138,6 +140,6 @@ R['/PageMode']=pikepdf.Name('/UseOutlines')
 for pg in out.pages:
     for x in ('/Metadata','/PieceInfo'):
         if x in pg.obj: del pg.obj[x]
-out.save('out/BUNDLE_three_matters_Krishnaiah_4SEP2026.pdf',fix_metadata_version=False)
+out.save('out/02_Finding_aid_and_enclosures_4Sep2026.pdf',fix_metadata_version=False)
 print('TOTAL',len(out.pages),'pages')
 for k in KEYS: print(f'   {k:4s} → p.{starts[k]+1}')
