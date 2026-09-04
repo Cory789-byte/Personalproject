@@ -48,17 +48,36 @@ Those are the other party's questions. A short report answering those three is a
 THE FIVE QUESTIONS
 
    1. The diagnosis, and the date of onset as best the clinical record establishes it. The
-      workplace events I rely on begin with the paired shifts of 17 and 18 March 2024.
+      workplace events I rely on begin with the paired shifts of 17 and 18 March 2024 and
+      continue to the onset.
 
    2. Whether there was any pre-existing condition or vulnerability and, if so, whether the
       matters recorded in attachment 2 aggravated it, and to what extent.
 
    3. Whether the injury arose out of, or in the course of, the employment — having regard to
-      the requirements of the position as the employer describes them, and to these assumed
-      facts: a break of seven hours between the shifts of 17 and 18 March 2024, against a
-      rostering agreement of ten; no fatigue risk assessment for the position at any time
-      before 30 June 2024; and the pairing of shifts in a way that carried fatigue over from
-      one shift into the next without it being recovered in between.
+      the requirements of the position as the employer describes them, and to the assumed
+      facts below.
+
+      The assumed facts describe an accumulation running from March 2024 to the onset, from
+      three sources that did not resolve between them:
+
+      (a) Fatigue from the shift events. A break of seven hours between the shifts of
+          17 and 18 March 2024, against the ten hours the fatigue policy and the Award
+          require; those shifts worked on days on which MET calls were recorded; and no
+          fatigue risk assessment for the position at any time before 30 June 2024.
+
+      (b) Further rostering errors. A rostering error as to night shifts recorded on
+          7 August 2023; unpredictable rostering identified by the employer itself as a
+          stressor for the position; and the correction of shifts still being chased from
+          3 May to 28 May 2024.
+
+      (c) The continuing need to follow up unresolved issues. On the employer's own account
+          complaints about operational errors were "managed solely via email or verbally
+          with the complainant" — there was no system in which a matter closed. Complaint
+          handling, and being held accountable for the failures of others, are identified by
+          the employer itself as stressors for the position.
+
+      Each of these is at page 1 of attachment 2, with the page reference beside it.
 
    4. The non-employment factors — including the relationship breakdown, job loss and
       bereavement referred to in the report of 13 February 2025 — and where each sits in time
@@ -68,7 +87,8 @@ THE FIVE QUESTIONS
       to the injury.
 
 And, briefly, the documents and consultations relied on. Page 1 of attachment 2 is a finding aid
-only; it makes no submission about what any document shows.
+only; it makes no submission about what any document shows, and nothing in this email is intended
+to bear on Dr Krishnaiah's opinion.
 
 TIMING
 
@@ -77,7 +97,8 @@ Could you please tell me:
    1. whether Dr Krishnaiah can provide the report by 4:00 pm on Wednesday 9 September 2026;
    2. if not, the date by which it could be provided; and
    3. whether he is still awaiting information he requested from Queensland Health, and if so
-      what was requested and when.
+      what was requested and when; and
+   4. the fee, and how to pay it.
 
 If Wednesday is not possible I can apply to the Commission for an extension, but I need a firm date
 from the practice in order to do that. I would much rather apply in advance with a date than let the
