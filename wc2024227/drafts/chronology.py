@@ -34,7 +34,7 @@ ROWS=[
  ('13 Sep 2024','WorkCover Queensland rejected the application for compensation.','WorkCover reasons, 13 Sep 2024',None),
  ('20 Sep 2024','Separation date nominated by the employer in the agreement later executed.','Deed, recital D',None),
  ('late Sep / early Oct 2024','My grandfather died. <b>Exact date to be confirmed — see the note at the foot.</b>','To be confirmed',None),
- ('<b>9 Oct 2024</b>','<b>Dismissal.</b> The letter from the Acting Executive Director treating the employment as abandoned was forwarded to me at 4:10 pm. I replied in writing.','Employer letter, 9 Oct 2024',None),
+ ('<b>8/9 Oct 2024</b>','<b>Dismissal.</b> The letter from the Acting Executive Director treating the employment as abandoned. It was forwarded to me at 4:10 pm on 9 October 2024; my own earlier filing gives the date as 8 October. I replied in writing.','Employer letter, 8/9 Oct 2024',None),
  ('<b>24 Oct 2024</b>','<b>First consultation with Dr Krishnaiah. My partner attended that consultation with me.</b>','Your file',None),
  ('<b>24 Oct 2024</b>','<b>The review was rejected</b> — Review Decision 69983 issued the same day, confirming the rejection of the application for compensation. The appointment was that day; the decision arrived after it.','Review Decision 69983',None),
  ('13 Feb 2025','Dr Krishnaiah’s report to QSuper. It records workplace stress arising from management and rostering, and refers to relationship breakdown, job loss and bereavement.','Your file',None),

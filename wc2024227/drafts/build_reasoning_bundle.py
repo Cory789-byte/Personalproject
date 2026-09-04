@@ -83,7 +83,7 @@ def content(start):
      ('All of the material listed above','Matters 1 and 2'),
      ('Your report of 13 February 2025 referred to multiple life stressors including relationship breakdown, job loss and bereavement','held by the practice'),
      ('Your clinical relationship with me began on 24 October 2024, and my partner attended that consultation with me. Each of those matters arose while I was under your care and is recorded in your own file','held by the practice'),
-     ('The sequence, from sources other than my account: onset pleaded at or about 18 June 2024 · application for compensation lodged 1 July 2024 · rejected 13 September 2024 · correspondence as to abandonment 8 October 2024 · review decision 24 October 2024 · your report 13 February 2025 · reinstatement effective 20 September 2024, agreement executed 21 February 2025 · Employee Capability Checklist 3 July 2026','schedules A, B, C · '+J('SCH','schedule')),
+     ('The sequence, from sources other than my account: onset pleaded at or about 18 June 2024 · application for compensation lodged 1 July 2024 · rejected 13 September 2024 · correspondence as to abandonment 8/9 October 2024 · review decision 24 October 2024 · your report 13 February 2025 · reinstatement effective 20 September 2024, agreement executed 21 February 2025 · Employee Capability Checklist 3 July 2026','schedules A, B, C · '+J('SCH','schedule')),
      ('My letter of instruction of 17 August 2026, and the five questions in my email of 4 September 2026','Letter, '+J('LOI'))]:
         r.append([P(a,SM),P(b,SM)])
     s.append(tbl(r,[118*mm,52*mm]))
