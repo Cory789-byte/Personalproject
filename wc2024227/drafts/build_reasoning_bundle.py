@@ -110,17 +110,20 @@ def render(start):
     doc.build(flow,onLaterPages=later)
     buf.seek(0); return pikepdf.open(buf), seq, uniq
 
-# two passes so the printed page numbers are right (locator is 1 page)
-loc,seq,uniq=render(2)
-front_pages=1
+# the chronology is inserted immediately after the finding aid, so it is part of the front matter
+chron=pikepdf.open('out/SHEPHERD_03_Chronology_4Sep2026.pdf')
+front_pages=1+len(chron.pages)          # finding aid + chronology
+# two passes so the printed page numbers are right
+loc,seq,uniq=render(front_pages+1)
 loc,seq,uniq=render(front_pages+1)
 print('locator content page count (expect 1 + %d dummies):'%len(uniq), len(loc.pages))
-assert len(loc.pages)==front_pages+len(uniq), (
+assert len(loc.pages)==1+len(uniq), (
     'FINDING AID OVERFLOWED PAST ONE PAGE — every printed page reference would be wrong. '
     'Trim page 1 before shipping.')
 
 out=pikepdf.new()
 out.pages.append(loc.pages[0])
+out.pages.extend(chron.pages)
 starts={}
 for (k,lab,d),n in zip(srcs,counts):
     starts[k]=len(out.pages); out.pages.extend(d.pages)
@@ -134,6 +137,7 @@ for ann,key in zip(annots,seq):
 
 with out.open_outline() as ol:
     ol.root.append(pikepdf.OutlineItem('Where the material sits — the three matters', 0))
+    ol.root.append(pikepdf.OutlineItem('Chronology — for ease of reference only', 1))
     for k,lab,_ in srcs: ol.root.append(pikepdf.OutlineItem(lab, starts[k]))
 with out.open_metadata() as md:
     for x in list(md): del md[x]
