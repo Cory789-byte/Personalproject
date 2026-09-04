@@ -7222,3 +7222,70 @@ MAIN RISK: blanket "does not admit" on the MSH-sourced tabs for want of verifica
   RD ¶247/248/249 = 260/261/262; 18 Feb ¶5 = 287; P = 269–273; S = 305–308. Part B cross-refs match
   the served numbering. Composition from the served text: 213 quotes / 39 negatives / 22 18-Feb / 9
   arithmetic / 6 LOD / 19 anchored inferences. 24 of 39 tabs are her own or MSH's NNPD production.
+
+## 2026-09-04 — THE AD HOC LANDS, AND THE AUDIT MOVES THE DATE THE OTHER WAY
+Four documents filed (all scrubbed):
+ · `documents/correspondence-2026/2026-09-04_1030_Taylor_ADHOC_PROCESSED_PRN24973005_LSL_not_eligible.pdf` (22pp)
+ · `documents/correspondence-2026/2026-09-04_1429_Taylor_fwd_Payroll_Strachan_LSL_calculation_29SEP2026.pdf` (4pp)
+ · `documents/2026-09-04_Leave_Takings_Report_25MAR2019-04SEP2026_FULL.xlsx` (439 leave rows, the WHOLE history)
+ · `documents/2026-09-04_LSL_audit_calculator_screens_Payroll.docx` + the two screens as PNG
+
+⭐⭐⭐ **THE AD HOC PAYMENT WAS PROCESSED.** Taylor, 4 Sep 10:30: "Knowing that you are experiencing
+financial hardship and require funds urgently, I have taken steps to process all available leave
+balances (S/L and A/L in lieu of S/L) to be paid for PP03 (06/07/2026–17/07/2026). **ADHOC PRN
+24973005**", up to 48 hrs, possibly same day. ⇒ The C13 §8 argument of 3 Sep worked. 63 days after the
+first request, 5 days after the ad hoc enquiry, ~21 hrs after the two-part email.
+⚠ NOTE WHAT IT IS: the FIRST unpaid fortnight (6–17 Jul), not the 3–16 Aug fortnight asked for, and it
+is paid out of HIS OWN balances — sick leave and recreation leave — not wages. Diarise receipt.
+
+⭐⭐ **THE LSL DATE MOVED FROM 4 SEP TO 29 SEP 2026** (Grace Strachan, Senior Payroll Officer, 4 Sep
+13:53). Commenced 25 Mar 2019 ⇒ ordinarily eligible 25 Mar 2026, less three LWOP windows:
+ 1. 18 May 2022 – 10 Jun 2022 (23 days)
+ 2. **21 Jun 2024 – 20 Sep 2024 (91 days)** ← the WorkCover period
+ 3. 13 Dec 2024 – 23 Feb 2025 (72 days) ← the deed's own LWOP, cl 4, agreed
+ 186 days total; 25 Mar 2026 + 186 = 27 Sep 2026 (they say 29 Sep — within rounding). ARITHMETIC IS
+ INTERNALLY CONSISTENT. The audit he asked for produced a date 25 days FURTHER OUT, and it did the one
+ thing his 3 Sep email asked it not to: it recalculated eligibility from the coding instead of
+ correcting the coding first.
+
+⭐⭐⭐ **THE BALANCE EXISTS AND IS LARGE: 342.5518 HOURS** (calculator screen, "Balance Total").
+ = 4.51 fortnights = **9.01 weeks** = **$15,229.85 gross** at $44.46. Four weeks = $6,757.92 gross.
+ ⇒ The dispute has never been about whether he has LSL. It is only about the date he may take it.
+ Accrual periods on the calculator: 25.03.2019–17.05.2022 (155.508) · 11.06.2022–20.06.2024 (100.153)
+ · 21.09.2024–12.12.2024 (11.233) · 23.02.2025–04.09.2026 (75.656). ⭐ Period 5 starting 21.09.2024
+ SHOWS THE DEED'S REINSTATEMENT DATE BEING HONOURED — accrual resumes the day after 20 Sep 2024.
+
+⭐⭐⭐ **THE INTERLOCK — THE APPEAL DECIDES THE LSL DATE.** Window 2 (21 Jun – 20 Sep 2024) is the period
+he was off with a psychological injury, certified by Dr Hawes from 1 Jul 2024, with the WorkCover claim
+lodged 1 Jul 2024 and rejected 13 Sep 2024. It is coded LWOP — 71 daily entries, each APPROVED. If the
+appeal succeeds and the injury is accepted, that period is compensable absence, not leave without pay,
+and the 91-day exclusion falls away ⇒ eligibility reverts to ~**28 June 2026**, i.e. already passed, and
+the LSL he applied for from 13 July was available all along.
+⚠ VERIFY BEFORE ASSERTING: the accrual treatment of accepted-claim absence under the Award/WCRA. Put it
+as a question, not a proposition.
+
+⛔⛔⛔ **AWOL. THE LAST ENTRY ON THE RECORD IS "ABSENT WITHOUT LEAVE".**
+ `30/08/2026 · AWOL_NP · Absent Without Leave · 7.60 hrs · APPROVED`
+ It is the only AWOL entry in 439 rows spanning five and a half years. It sits on the last day of the
+ fortnight 17–30 Aug that Taylor told him on 31 Aug she had processed as "S/L and A/L in lieu of S/L"
+ under PRN 24926366. ⇒ IT CONTRADICTS WHAT HE WAS TOLD IN WRITING.
+ ⛔ This is the 2024 pattern: unauthorised absence is the predicate for abandonment. He pre-empted it on
+ 28 Jul by seeking abandonment protection under EB12 cl 6.1. RAISE IT IMMEDIATELY, FACTUALLY, ALONE —
+ one question, no characterisation: on what basis, by whom, and correct it.
+
+⭐⭐ **"INCOME PROTECTION LEAVE – NO PAY" IS ON THE FACE OF THE REPORT.** 13, 14, 18, 19, 20, 21, 22 and
+23 July 2026 are recorded not as sick leave but as leave type **"Income Protection Leave - No Pay"**
+(code SCK_NP). The insurance-classification thesis is no longer an inference from the 20 Jul myHR
+screen — it is the employer's own leave-type description, in the employer's own report.
+
+⚠ **THE WINDOWS DO NOT MATCH THE UNDERLYING DATA — ASK, DO NOT ASSERT.**
+ · Window 1 is stated as a continuous block 18 May – 10 Jun 2022. The record shows SEVEN scattered LWOP
+   days: 8, 17, 18 May and 15, 16, 18, 19 June 2022. **8 May and 15–19 June fall outside the window.**
+ · Window 2 is stated to begin 21 Jun 2024. **The first LWOP entry in the record is 10 June 2024.**
+ · 20 further LWOP entries fall between Mar 2025 and 18 May 2026 (incl. 6 May and 18 May 2026, 22.80
+   hrs each) and are NOT excluded by the calculator. If they should be, the date moves later again; if
+   they should not, why are the 2022 days treated as a block? The calculation is not transparent.
+ ⇒ One question: produce the rule applied, and reconcile the three windows against the leave record.
+
+ALSO: the calculator misspells the surname ("Sheperd") and its "Corrected LSL Date" field reads
+29/09/**2019**; the second screen gives "Original LSL Eligibility Date 29/09/2026". Minor, but note it.
