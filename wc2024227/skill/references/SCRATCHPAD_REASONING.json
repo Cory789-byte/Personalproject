@@ -7,7 +7,7 @@
   "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
   "firewall": "QPS/criminal track (legal_system/) and the DFV material are NEVER voiced in WC/2024/227 or the employment track. No cross-track cognitive profile is to exist.",
   "revision": 7,
-  "last_updated": "2026-09-03 C13 (D15) + special leave item"
+  "last_updated": "2026-09-04 ad hoc paid; LSL 29 Sept; AWOL found (D16)"
  },
  "documents_ingested_28AUG2026": [
   {
@@ -386,6 +386,22 @@
     "HR Policy C48 Overpayments and loans (if they ever assert overpayment)",
     "PSC Directive 17/13"
    ]
+  },
+  {
+   "id": "D16",
+   "title": "4 September 2026 — the ad hoc payment, the LSL audit result, and the full leave history",
+   "filed_at": "documents/correspondence-2026/2026-09-04_1030_Taylor_ADHOC_PROCESSED_PRN24973005_LSL_not_eligible.pdf; .../2026-09-04_1429_Taylor_fwd_Payroll_Strachan_LSL_calculation_29SEP2026.pdf; documents/2026-09-04_Leave_Takings_Report_25MAR2019-04SEP2026_FULL.xlsx; documents/2026-09-04_LSL_audit_calculator_screens_Payroll.docx (+2 PNG)",
+   "the_win": "AD HOC PROCESSED. Taylor 4 Sep 10:30: all available leave balances (S/L and A/L in lieu of S/L) paid for PP03 06–17 Jul 2026, ADHOC PRN 24973005, up to 48 hrs. The C13 s8 argument worked ~21 hrs after the two-part email. NOTE: it pays the FIRST unpaid fortnight, not 3–16 Aug, and out of his OWN balances, not as wages.",
+   "the_setback": "LSL eligibility moved 4 Sep -> 29 Sep 2026 (Grace Strachan, Senior Payroll Officer, 4 Sep 13:53). Three LWOP windows excluded: 18 May-10 Jun 2022 (23d); 21 Jun-20 Sep 2024 (91d); 13 Dec 2024-23 Feb 2025 (72d, the deed's own cl 4). 186 days; 25 Mar 2026 + 186 = 27 Sep. Internally consistent. The audit recalculated eligibility FROM the coding instead of correcting the coding first.",
+   "the_balance": "342.5518 HOURS ACCRUED = 4.51 fortnights = 9.01 weeks = $15,229.85 gross at $44.46. Four weeks = $6,757.92. The dispute was never about entitlement, only about the date.",
+   "the_interlock": "Window 2 (21 Jun-20 Sep 2024) is the WorkCover period - certified by Hawes from 1 Jul 2024, claim lodged 1 Jul, rejected 13 Sep. 71 daily LWOP entries, each APPROVED. If the appeal succeeds and the injury is accepted, that period is compensable absence not LWOP, the 91 days fall away, and eligibility reverts to ~28 June 2026 - already passed. THE APPEAL DECIDES THE LSL DATE. Verify the accrual rule before asserting.",
+   "the_alarm": "AWOL. 30/08/2026 AWOL_NP 'Absent Without Leave' 7.60 hrs APPROVED - the LAST entry on the record and the ONLY AWOL in 439 rows over five and a half years. It falls on the last day of the 17-30 Aug fortnight Taylor said on 31 Aug she had processed as S/L and A/L in lieu. It contradicts what he was told in writing, and unauthorised absence is the predicate for abandonment - the 2024 pattern. Raise alone, factually, one question.",
+   "insurance_thesis_confirmed": "13,14,18,19,20,21,22,23 July 2026 are recorded with leave type 'Income Protection Leave - No Pay' (SCK_NP) on the employer's own Leave Takings Report - no longer an inference from the 20 Jul myHR screen.",
+   "questions_not_assertions": [
+    "Window 1 stated as a block 18 May-10 Jun 2022; the record shows seven scattered days incl. 8 May and 15-19 June, outside the window",
+    "Window 2 stated to begin 21 Jun 2024; the first LWOP entry is 10 June 2024",
+    "20 further LWOP entries Mar 2025-18 May 2026 (incl. 6 and 18 May 2026, 22.80 hrs each) are not excluded - produce the rule applied and reconcile the windows against the record"
+   ]
   }
  ],
  "audio_forensics": {
@@ -584,6 +600,13 @@
   "fatigue_corroboration": "D8 shows the employer's own roster template has a dedicated '6hr Break' column tracked per employee per fortnight. The inter-shift break is a field the employer monitors on the face of the roster - directly material to the admitted 7-hour break of 17-18 March 2024."
  },
  "live_risks": [
+  {
+   "rank": 0,
+   "risk": "The AWOL entry of 30 August 2026",
+   "detail": "AWOL_NP 'Absent Without Leave', 7.60 hrs, APPROVED - the only one in 439 rows, on the last day of a fortnight Taylor said she had processed as S/L and A/L in lieu.",
+   "why": "Unauthorised absence is the predicate for abandonment. In October 2024 this employer converted his absence into termination for abandonment, backdated. He sought abandonment protection under EB12 cl 6.1 on 28 July 2026.",
+   "action": "Raise TODAY, alone, factually: on what basis, entered by whom, and correct it. No characterisation."
+  },
   {
    "rank": 1,
    "risk": "The Form 9A's five false 'Admitted Fact' tags",
