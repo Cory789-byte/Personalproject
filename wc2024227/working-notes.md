@@ -7305,3 +7305,54 @@ ALSO: the calculator misspells the surname ("Sheperd") and its "Corrected LSL Da
   is attacked through the APPEAL, not through the coding. And the coding argument is now CLEANER, because
   it stands purely on its own terms — unauthorised under C13 §6, wrong leave type, produced no payment —
   without needing to carry a consequence it does not have.
+- 4 Sep — ⭐⭐⭐ THE DEED READ FROM SOURCE (documents/2025-02_Deed_EXECUTED_Cory14Feb_Cridland21Feb2025.pdf,
+  4pp, text layer OK). Evaluated against Payroll's three exclusion windows.
+
+  ⛔⛔ CORRECTION FIRST — "CONTINUITY OF SERVICE PRESERVED" IS NOT IN THE DEED. Those words do not
+  appear. What clause 1 says is: "The Health Service reinstates the Applicant to his Employment with an
+  effective date of 20 September 2024. The Reinstatement takes effect despite any documents that the
+  Health Service may require the Applicant to execute (for example, for payroll purposes)." Continuity
+  is an EFFECT of reinstatement to the Employment (recital A/B: the employment that commenced 25 March
+  2019) — it is an argument, not an express term. ⚠ He has used the phrase "with continuity of service
+  preserved" in the 31 Aug application, the 3 Sep two-part email and the CE notice. Stop using it as a
+  quotation. Say instead: "reinstated to my employment with an effective date of 20 September 2024,
+  the reinstatement taking effect despite any payroll documentation."
+
+  ✅ WHAT PAYROLL GOT RIGHT: commencement 25 Mar 2019 (recital B). Window 3 (13 Dec 2024–23 Feb 2025)
+  is clause 4 VERBATIM — "The period from 13 December 2024 to 23 February 2025 will be treated as leave
+  without pay." Agreed, correct, unarguable. And the calculator's accrual resuming 21/09/2024 matches
+  clause 1's effective date, and clause 2(c)(i) — wages for 20 Sep–13 Dec 2024 — matches the accruing
+  period 21/09/2024–12/12/2024 (11.233 hrs). So two of the three windows are sound.
+
+  ⭐⭐⭐ THE FINDING: THE DEED SAYS NOTHING ABOUT 21 JUNE – 20 SEPTEMBER 2024. It recites the "Absences"
+  (recital C) and the Dismissal with a separation date of 20 September 2024 (recital D), and then at
+  clause 6: "The Health Service RESERVES THE RIGHT to deal with the outstanding matters of the
+  Applicant's absenteeism and communication with the Health Service regarding his Absences from the
+  workplace." ⇒ The pre-20-September absences were expressly LEFT OPEN, not characterised. The deed did
+  not agree they were leave without pay. Payroll's 91-day LWOP window is a UNILATERAL characterisation
+  of a period the parties reserved.
+  ⭐ AND CLAUSE 7 PRESERVES HIS ANSWER: "The Applicant reserves any legal rights or claims he may have
+  in relation to any future management action taken against him by the Health Service pursuant to
+  clause 6 herein." If characterising that period as LWOP in 2026 is dealing with the Absences, it is
+  clause 6 management action — and his rights over it are expressly reserved by clause 7.
+
+  ⇒ ARITHMETIC: 186 days total, of which the 2024 window is 91. Without it, 25 Mar 2026 + 95 days =
+  **28 June 2026** — already passed by 68 days. So the 91-day window is the whole dispute, and it now
+  has TWO independent routes of attack: (a) the appeal (accepted claim ⇒ compensable absence, not
+  LWOP); (b) the deed (clause 6 reserved it; clause 7 reserves his rights).
+
+  ⭐ CLAUSE 12 PERMITS DISCLOSURE "to enforce this Deed" (and to obtain legal advice, and as required by
+  law). So if the 91-day window has to be challenged on clauses 1, 6 and 7, naming the deed to the
+  Health Service is permitted by the deed itself. That is HIS call — the standing instruction is to say
+  "the agreement by which I was reinstated" — but he should know the door is open and that the other
+  party already holds it.
+  ✅ CLAUSE 8 confirmed: releases claims "arising from the Dismissal" only, EXCLUDING common law personal
+  injury, statutory workers' compensation, and anything not excludable at law. The 2026 conduct is not
+  "the Dismissal" and is not released at all.
+  ⚠ CLAUSE 10 (non-disparagement) binds him as to "any adverse comment ... relating to the matters
+  recited in this Deed" — the Absences, the Dismissal, the reinstatement application. Beneficiaries
+  include current and former officers and employees. The 2023–24 stressors are NOT recited, and clause 8
+  carves out the appeal, so the appeal pleadings are not caught. Another reason the chronology-not-motive
+  discipline is right. Clause 11 is the mirror obligation on the Health Service.
+  ⚠ CHECK: clause 2(a) credits (54.16 hrs annual leave + 54.16 hrs leave loading) and clause 2(b)
+  (personal leave balances reinstated as at separation) — verify they were actually applied.
