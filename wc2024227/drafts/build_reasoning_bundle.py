@@ -60,20 +60,22 @@ def content(start):
         r.append([P(a,SM),P(b,SM)])
     s.append(tbl(r,[118*mm,52*mm]))
     s.append(P('MATTER 2 — DID THE INJURY ARISE OUT OF, OR IN THE COURSE OF, THE EMPLOYMENT?',H2))
+    s.append(P('Rows are grouped to the three sources of accumulation described in question 3 of my email of 4 September 2026 — <b>(a)</b> fatigue from the shift events, <b>(b)</b> further rostering errors, <b>(c)</b> the continuing need to follow up unresolved issues. Rows marked <b>—</b> are context.',TINY))
     r=[[P('<b>Material</b>',SMB),P('<b>Where</b>',SMB)]]
     for a,b in [
-     ('The requirements of the position as the employer describes them — continuous shift work over the full 24-hour period, 7 days a week; the Emergency Response process "strictly adhering to protocols and timeframes"; "maintain call queues to minimum at all times"; multitasking under "high volume call traffic"; judgement "in situations where precedence have not been set and procedures not defined"; "limited supervision"','Attachment 3, '+J('A3')),
-     ('Accepted: on 17–18 March 2024 rostered to finish at 23:00 and commence at 06:00 — a break of 7 hours','schedule A item 1, '+J('SCH')),
-     ('Accepted: the fatigue policy and the Award require a minimum of 10 hours, or 8 hours by written agreement','schedule A item 3'),
-     ('The Regulator’s document of 13 May 2026: "only a 7-hour break (rather than an 8-hour break) … a result of human error and not intentional or repeated"; leave taken 19 March 2024, paid','schedule A2 22(a), 22(c)'),
-     ('Recorded by the Chief Executive: the requested fatigue risk management training records and register entries do not exist, such training applying only to health practitioners and clinical assistants; fatigue risk management assessment at that Switchboard was implemented only after 30 June 2024','Attachment 2, '+J('A2')),
-     ('Recorded by the Chief Executive: a spreadsheet of recorded MET calls is available for 17–18 March 2024; employee complaints about operational errors are "managed solely via email or verbally with the complainant"','schedule C items 1–2, 3(a)'),
-     ('Accepted: Ms Reese, 7 August 2023 — "a rostering error that was accidentally made by Chloe with regards to night shifts"','schedule A item 5'),
-     ('Accepted: maintaining accurate contact details for medical staff is "a critical function of the Switchboard to ensure effective clinical handover and patient safety"','schedule A item 8'),
-     ('The Regulator’s document of 13 May 2026 on the leave of 20–27 February 2024: "a review indicates that in fact, the attachments were present"; "a matter of human error"','schedule A2 14(e), 14(f)'),
-     ('Accepted: payroll instruction to correct the shifts issued 3 May 2024; "I am waiting payroll confirmation" 21 May 2024; correction submitted 28 May 2024','schedule A items 40, 46, 41'),
-     ('Changes to working hours approved during 2026 by Mr Hughes as delegate — 27 February, 17 April, 9 June','Attachment 5, '+J('A5')),
-     ('The three stressors identified in the Employee Capability Checklist of 3 July 2026 — complaint handling; being held accountable and blamed for the failures of others; unpredictable rostering','Attachment 4c, '+J('A4c'))]:
+     ('<b>—</b> The requirements of the position as the employer describes them — continuous shift work over the full 24-hour period, 7 days a week; the Emergency Response process "strictly adhering to protocols and timeframes"; "maintain call queues to minimum at all times"; multitasking under "high volume call traffic"; judgement "in situations where precedence have not been set and procedures not defined"; "limited supervision"','Attachment 3, '+J('A3')),
+     ('<b>(a)</b> Accepted: on 17–18 March 2024 rostered to finish at 23:00 and commence at 06:00 — a break of 7 hours','schedule A item 1, '+J('SCH')),
+     ('<b>(a)</b> Accepted: the fatigue policy and the Award require a minimum of 10 hours, or 8 hours by written agreement','schedule A item 3'),
+     ('<b>(a)</b> The Regulator’s document of 13 May 2026: "only a 7-hour break (rather than an 8-hour break) … a result of human error and not intentional or repeated"; leave taken 19 March 2024, paid','schedule A2 22(a), 22(c)'),
+     ('<b>(a)</b> Recorded by the Chief Executive: the requested fatigue risk management training records and register entries do not exist, such training applying only to health practitioners and clinical assistants; fatigue risk management assessment at that Switchboard was implemented only after 30 June 2024','Attachment 2, '+J('A2')),
+     ('<b>(a)</b> Recorded by the Chief Executive: a spreadsheet of recorded MET calls is available for the period 17–18 March 2024','schedule C items 1–2'),
+     ('<b>(b)</b> Accepted: Ms Reese, 7 August 2023 — "a rostering error that was accidentally made by Chloe with regards to night shifts"','schedule A item 5'),
+     ('<b>(b)</b> Accepted: payroll instruction to correct the shifts issued 3 May 2024; "I am waiting payroll confirmation" 21 May 2024; correction submitted 28 May 2024','schedule A items 40, 46, 41'),
+     ('<b>(c)</b> Recorded by the Chief Executive: employee complaints about Switchboard operational errors are "made directly to the Line Manager" and "managed solely via email or verbally with the complainant"','schedule C item 3(a)'),
+     ('<b>(c)</b> The Regulator’s document of 13 May 2026 on the leave of 20–27 February 2024: "a review indicates that in fact, the attachments were present"; "a matter of human error"','schedule A2 14(e), 14(f)'),
+     ('<b>(b)</b> and <b>(c)</b> The three stressors identified by the employer in the Employee Capability Checklist of 3 July 2026 — complaint handling; being held accountable and blamed for the failures of others; unpredictable rostering','Attachment 4c, '+J('A4c')),
+     ('<b>—</b> Accepted: maintaining accurate contact details for medical staff is "a critical function of the Switchboard to ensure effective clinical handover and patient safety"','schedule A item 8'),
+     ('<b>—</b> Changes to working hours approved during 2026 by Mr Hughes as delegate — 27 February, 17 April, 9 June','Attachment 5, '+J('A5'))]:
         r.append([P(a,SM),P(b,SM)])
     s.append(tbl(r,[118*mm,52*mm]))
     s.append(P('MATTER 3 — WAS THE EMPLOYMENT A SIGNIFICANT CONTRIBUTING FACTOR TO THE INJURY?',H2))
@@ -113,6 +115,9 @@ loc,seq,uniq=render(2)
 front_pages=1
 loc,seq,uniq=render(front_pages+1)
 print('locator content page count (expect 1 + %d dummies):'%len(uniq), len(loc.pages))
+assert len(loc.pages)==front_pages+len(uniq), (
+    'FINDING AID OVERFLOWED PAST ONE PAGE — every printed page reference would be wrong. '
+    'Trim page 1 before shipping.')
 
 out=pikepdf.new()
 out.pages.append(loc.pages[0])
@@ -140,6 +145,6 @@ R['/PageMode']=pikepdf.Name('/UseOutlines')
 for pg in out.pages:
     for x in ('/Metadata','/PieceInfo'):
         if x in pg.obj: del pg.obj[x]
-out.save('out/02_Finding_aid_and_enclosures_4Sep2026.pdf',fix_metadata_version=False)
+out.save('out/SHEPHERD_02_Finding_aid_and_enclosures_4Sep2026.pdf',fix_metadata_version=False)
 print('TOTAL',len(out.pages),'pages')
 for k in KEYS: print(f'   {k:4s} → p.{starts[k]+1}')
