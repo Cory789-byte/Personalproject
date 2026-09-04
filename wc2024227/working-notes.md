@@ -7289,3 +7289,19 @@ screen — it is the employer's own leave-type description, in the employer's ow
 
 ALSO: the calculator misspells the surname ("Sheperd") and its "Corrected LSL Date" field reads
 29/09/**2019**; the second screen gives "Original LSL Eligibility Date 29/09/2026". Minor, but note it.
+- 4 Sep — ⛔⛔ CORRECTION, AND IT MATTERS: the 2026 coding does NOT drive the LSL eligibility date.
+  The audit excludes only THREE historical windows (2022; 21 Jun–20 Sep 2024; 13 Dec 2024–23 Feb 2025).
+  The calculator's final accrual period runs **23/02/2025 – 04/09/2026 continuously, 75.656 hrs** — i.e.
+  the whole unpaid period since 3 July 2026 is being counted AS SERVICE. Nothing about the "Sick Leave –
+  No Pay" coding since 3 July is excluded, so recoding it — or being paid for it, as happened today —
+  does NOT move the date forward or back.
+  ⇒ MY 3 SEP INFERENCE WAS WRONG (that the 163-day gap to 4 Sep was made of the 2026 coding). It was an
+  inference from the arithmetic, not a reading of their rule, and the audit has disproved it.
+  ⇒ THE SAME PROPOSITION WAS IN HIS 3 SEP EMAIL ("the difference between the two dates is the unpaid
+  coding I have objected to since 3 July") and in matter 6 of the CE notice ("the coding in dispute is
+  the largest of them"). MATTER 6 NOW REWRITTEN to the audit's actual findings + the balance + the three
+  reconciliation questions. ⛔ DO NOT REPEAT the coding-drives-the-date proposition anywhere.
+  ⭐ WHAT REPLACES IT IS BETTER: the 91-day window of 21 Jun–20 Sep 2024 is the WorkCover period, and it
+  is attacked through the APPEAL, not through the coding. And the coding argument is now CLEANER, because
+  it stands purely on its own terms — unauthorised under C13 §6, wrong leave type, produced no payment —
+  without needing to carry a consequence it does not have.
