@@ -2,7 +2,8 @@ TODAY (Fri 4 Sep) · THREE ATTACHMENTS
 TO: info@mindandmemoryservice.com.au
 ATTACH: (1) out/SHEPHERD_01_Notice_of_Non-Party_Disclosure_sealed_4Jul2025.pdf  — 6 pages
         (2) out/SHEPHERD_02_Finding_aid_and_enclosures_4Sep2026.pdf  — 75 pages, 7.1 MB
-        (3) out/SHEPHERD_03_Chronology_4Sep2026.pdf  — 1 page (also inside attachment 2 at p. 2)
+        (3) out/SHEPHERD_03_Chronology_4Sep2026.pdf  — 1 page (also at p. 2 of attachment 2,
+            where its page references are clickable)
 SUBJECT: Cory Shepherd (DOB 11.01.1991) — one-page report by 9 Sep 2026 (happy to pay)
 
 Dear Mind and Memory Service,
@@ -22,9 +23,11 @@ IN SHORT
    Fee:         I am happy to pay. Please tell me the fee and how to pay it. I can pay in
                 advance if that is easier.
    Reading:     this email → attachment 1 (the Notice, 6 pages) → attachment 3, a one-page
-                chronology → page 1 of attachment 2, a finding aid with clickable page
-                references. Use the bookmarks panel if a document is wanted. The practice
-                already holds its own file and the report of 13 February 2025.
+                chronology → page 1 of attachment 2, a finding aid. Pages 1 and 2 of
+                attachment 2 are fully clickable — every page reference jumps to the
+                document, and a JUMP TO strip at the foot of each reaches all ten
+                enclosures in one click. The bookmarks panel does the same from anywhere.
+                The practice already holds its own file and the report of 13 February 2025.
 
 WHY
 
@@ -90,8 +93,9 @@ THE FIVE QUESTIONS
 
 And, briefly, the documents and consultations relied on.
 
-Attachment 3 is a one-page chronology of dated events with a column saying where each is recorded.
-Where a date is not established — my grandfather's date of death, for one — it says so rather than
+Attachment 3 is a one-page chronology of dated events with a column saying where each is recorded;
+inside attachment 2 that column is clickable. Where a date is not established — my grandfather's
+date of death, and the date of Dr Hawes' referral to your practice — it says so rather than
 estimating it. It draws no conclusion from the order of events. It is there so nothing has to be
 looked up, and, like page 1 of attachment 2, it makes no submission about what any document shows.
 Nothing in this email is intended to bear on Dr Krishnaiah's opinion.

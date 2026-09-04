@@ -4,6 +4,7 @@ from reportlab.lib.units import mm
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle as PS
 from reportlab.platypus import SimpleDocTemplate, Paragraph as P, Spacer, Table, TableStyle, PageBreak
+import chronology
 
 PK='out/pack_v2/'
 DOCS=[('LOI','Letter of instruction, 17 August 2026',PK+'00_LETTER_OF_INSTRUCTION.pdf'),
@@ -41,10 +42,8 @@ def content(start):
     for k,n in zip(KEYS,counts): pos[k]=pg; pg+=n
     def J(k,label=None): return L(k,(label or f'p. {pos[k]}'))
     s=[P('WHERE THE MATERIAL SITS AGAINST THE THREE MATTERS IN ISSUE',H1),
-       P('Cory Shepherd · WC/2024/227 · 4 September 2026. The three matters are those written on the Notice of Non-Party Disclosure requested by the Workers’ Compensation Regulator and sealed 4 July 2025, which is attached to my email separately. Every document referred to below is in this file, complete and unaltered. <b>The page references are clickable</b>, and the bookmarks panel lists each document.',TINY),
-       Spacer(1,3),
-       P('This page is a finding aid only. It makes no submission about what any item shows, and nothing in it is intended to bear on your opinion. It contains nothing that was not provided with my letter of 17 August 2026, other than the page references.',TINY),
-       Spacer(1,3),
+       P('Cory Shepherd · WC/2024/227 · 4 September 2026. The three matters are those written on the Notice of Non-Party Disclosure requested by the Workers’ Compensation Regulator and sealed 4 July 2025, which is attached to my email separately. Every document referred to below is in this file, complete and unaltered. <b>The page references are clickable</b>, and the bookmarks panel lists each document. This page is a finding aid only: it makes no submission about what any item shows, nothing in it is intended to bear on your opinion, and it contains nothing that was not provided with my letter of 17 August 2026 other than the page references.',TINY),
+       Spacer(1,2),
        P('<b>PLEASE NOTE — WHAT IS <u>NOT</u> ASKED.</b> The letter of instruction of 17 August 2026 (in this file at '+J('LOI')+') asks a longer set of questions. Only the five questions in my email of 4 September 2026 are asked now. In particular, <b>questions 3.4 to 3.8 of that letter — capacity, restrictions and adjustments — are NOT asked for this purpose and should be set aside.</b> They are the employer\'s questions, they are not urgent, and they can be dealt with separately.',TINY),
        Spacer(1,4),
        P('MATTER 1 — DID MR SHEPHERD SUSTAIN A PERSONAL INJURY?',H2)]
@@ -88,8 +87,13 @@ def content(start):
      ('My letter of instruction of 17 August 2026, and the five questions in my email of 4 September 2026','Letter, '+J('LOI'))]:
         r.append([P(a,SM),P(b,SM)])
     s.append(tbl(r,[118*mm,52*mm]))
-    s.append(Spacer(1,3))
-    s.append(P('Cory Shepherd · 0417 400 227 · coryshepherd1@hotmail.com',TINY))
+    SHORT={'LOI':'Instruction','SCH':'Schedule','A1':'Att 1','A2':'Att 2','A3':'Att 3','A4a':'Att 4a',
+           'A4b':'Att 4b','A4c':'Att 4c','A5':'Att 5','A7':'Att 7'}
+    def jumpbar():
+        return P('<b>JUMP TO</b>  '+'  ·  '.join(SHORT[k]+' '+J(k) for k,_,_ in srcs),TINY)
+    s.append(Spacer(1,3)); s.append(jumpbar())
+    s.append(PageBreak())
+    s.extend(chronology.flowables(J=J, jumpbar=jumpbar))
     return s
 
 def render(start):
@@ -100,38 +104,57 @@ def render(start):
         if k not in uniq: uniq.append(k)
     flow=list(body)
     for _ in uniq: flow.append(PageBreak()); flow.append(Spacer(1,1))
-    state={'n':0}
+    # Anchor each destination to its PAGE NUMBER, not to a running counter. The counter
+    # assumed the front matter was one page; when it grew to two, the chronology page
+    # consumed the first destination and every link shifted by one.
+    fp=start-1
     def later(c,d):
-        i=state['n']
-        if i < len(uniq): c.bookmarkPage(uniq[i])
-        state['n']+=1
+        i=c.getPageNumber()-fp-1          # 0-based index into the dummy pages
+        if 0<=i<len(uniq): c.bookmarkPage(uniq[i])
     buf=io.BytesIO()
     doc=SimpleDocTemplate(buf,pagesize=A4,leftMargin=17*mm,rightMargin=17*mm,topMargin=13*mm,bottomMargin=12*mm,title='',author='')
     doc.build(flow,onLaterPages=later)
     buf.seek(0); return pikepdf.open(buf), seq, uniq
 
-# the chronology is inserted immediately after the finding aid, so it is part of the front matter
-chron=pikepdf.open('out/SHEPHERD_03_Chronology_4Sep2026.pdf')
-front_pages=1+len(chron.pages)          # finding aid + chronology
-# two passes so the printed page numbers are right
-loc,seq,uniq=render(front_pages+1)
-loc,seq,uniq=render(front_pages+1)
-print('locator content page count (expect 1 + %d dummies):'%len(uniq), len(loc.pages))
-assert len(loc.pages)==1+len(uniq), (
-    'FINDING AID OVERFLOWED PAST ONE PAGE — every printed page reference would be wrong. '
-    'Trim page 1 before shipping.')
+# The front matter (finding aid + chronology) prints the enclosures' page numbers, so its own
+# length feeds back into those numbers. Iterate until it settles.
+front_pages=2
+for _ in range(6):
+    loc,seq,uniq=render(front_pages+1)
+    actual=len(loc.pages)-len(uniq)
+    if actual==front_pages: break
+    front_pages=actual
+else:
+    raise SystemExit('front matter page count did not settle')
+print('front matter pages:',front_pages,'| link targets:',len(seq))
+assert front_pages==2, (
+    'FRONT MATTER IS NO LONGER 2 PAGES. Links stay correct, but the email describes a 1-page '
+    'finding aid and a 1-page chronology. Trim, or update the email before shipping.')
+
+# Identify each link by the dummy page it resolves to in `loc`, not by emission order:
+# a link that wraps across a line produces TWO annotations for one target, and positional
+# matching then silently misdirects every link after it.
+dummy={loc.pages[front_pages+i].obj.objgen:k for i,k in enumerate(uniq)}
+keys=[]
+for i in range(front_pages):
+    for ann in (loc.pages[i].get('/Annots') or []):
+        d=ann.get('/Dest')
+        og=d[0].objgen if (d is not None and d[0] is not None) else None
+        assert og in dummy, 'link annotation with an unresolvable destination'
+        keys.append(dummy[og])
+assert set(keys)==set(uniq), 'a link target was emitted with no annotation'
 
 out=pikepdf.new()
-out.pages.append(loc.pages[0])
-out.pages.extend(chron.pages)
+for i in range(front_pages): out.pages.append(loc.pages[i])
 starts={}
 for (k,lab,d),n in zip(srcs,counts):
     starts[k]=len(out.pages); out.pages.extend(d.pages)
 
-annots=out.pages[0].get('/Annots')
-print('link annotations on page 1:',len(annots) if annots else 0,'| link targets in order:',len(seq))
-assert annots is not None and len(annots)==len(seq), 'annotation/target count mismatch'
-for ann,key in zip(annots,seq):
+annots=[]
+for i in range(front_pages): annots.extend(out.pages[i].get('/Annots') or [])
+print('link annotations across front matter:',len(annots),'| distinct targets:',len(uniq))
+assert len(annots)==len(keys), 'annotation count changed during assembly'
+for ann,key in zip(annots,keys):
     ann['/Dest']=pikepdf.Array([out.pages[starts[key]].obj, pikepdf.Name('/XYZ'), 0, 842, 0])
     ann['/Border']=pikepdf.Array([0,0,0])
 
