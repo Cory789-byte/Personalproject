@@ -58,6 +58,18 @@ NOTES=[
  ('What is left out','Physical health matters arising in 2026 — not within the three questions. The two deaths, the relationship ending and the loss of the job all appear above at the dates the record gives. I draw no conclusion from their order or their weight, and question 4 of my email asks you to address them.'),
 ]
 
+
+import re as _re
+_MON={m:i+1 for i,m in enumerate(['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'])}
+def _key(label):
+    """Sort key from a row's date label. Rows are authored in any order; the table is
+    always rendered in date order, so an inserted row cannot land in the wrong place."""
+    s=_re.sub(r'<[^>]+>','',label)
+    year=int(_re.search(r'\b(19|20)\d{2}\b',s).group(0))
+    mon=_MON[_re.search(r'\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b',s).group(0)]
+    d=_re.match(r'\s*(\d{1,2})\b',s)          # leading day number, if the label has one
+    return (year,mon,int(d.group(1)) if d else 0)
+
 def _tbl(rows,w):
     t=Table(rows,colWidths=w,repeatRows=1)
     t.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.35,colors.HexColor('#aaaaaa')),
@@ -70,19 +82,15 @@ def flowables(J=None, jumpbar=None):
     linked = J is not None
     s=[P('CHRONOLOGY — FOR EASE OF REFERENCE ONLY, NOT A SUBMISSION',H1),
        P('Cory Shepherd, date of birth 11 January 1991 · WC/2024/227 · prepared 5 September 2026. '
-         'Dated events, and where each is recorded. It draws no conclusion from any of them and is not '
-         'intended to bear on your opinion. Where a date is not established it says so, rather than estimating.'
+         'Dated events, and where each is recorded. It draws no conclusion from any of them, and is not '
+         'intended to bear on your opinion. Nothing is estimated: where the record gives no date, none is given.'
          + (' <b>The page references in the right-hand column are clickable.</b>' if linked else ''),TINY),
        Spacer(1,4)]
     r=[[P('<b>Date</b>',SMB),P('<b>Event</b>',SMB),P('<b>Where it is recorded</b>',SMB)]]
-    for date,ev,src,key in ROWS:
+    for date,ev,src,key in sorted(ROWS,key=lambda r:_key(r[0])):
         cell = src if not (linked and key) else src+' · '+J(key)
         r.append([P(date,SM),P(ev,SM),P(cell,SM)])
     s.append(_tbl(r,[26*mm,98*mm,46*mm]))
-    s.append(P('MATTERS NOT ESTABLISHED, AND MATTERS I CANNOT DATE',H2))
-    r=[[P('<b>Item</b>',SMB),P('<b>Position</b>',SMB)]]
-    for a,b in NOTES: r.append([P(a,SM),P(b,SM)])
-    s.append(_tbl(r,[38*mm,132*mm]))
     if jumpbar:
         s.append(Spacer(1,3)); s.append(jumpbar())
     s.append(Spacer(1,3))
