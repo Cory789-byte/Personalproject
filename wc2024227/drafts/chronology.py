@@ -13,7 +13,7 @@ TINY=PS('c_t',fontName='Helvetica',fontSize=6.4,leading=7.8)
 
 # (date, event, source-text, doc-key or None)
 ROWS=[
- ('2019','Employment with Metro South began — Administration Officer (AO3), Switchboard Services, Logan Hospital — <b>as a casual</b>.','Employer leave record, from 25 Mar 2019',None),
+ ('25 Mar 2019','Employment with Metro South commenced — Administration Officer, Switchboard Services, Logan Hospital — <b>as a casual</b>.','Deed, recital B',None),
  ('17 Jun 2020','I signed a written agreement permitting a minimum break of 8 hours between shifts instead of 10. Whether it applied to rostered shifts is disputed.','Agreement, 17 Jun 2020',None),
  ('26 Oct 2022','General-practice record. "ADHD" and "Anxiety" appear in the Past Medical History list carried in the referral of 16 May 2024.','General-practice records','A4a'),
  ('27 Sep 2023','My line manager approved permanent full-time hours.','Approval email, 27 Sep 2023',None),
@@ -38,14 +38,15 @@ ROWS=[
  ('8 Sep 2024','Workers’ compensation medical certificate signed by Dr Hawes.','Medical certificate','A4b'),
  ('Sep 2024','<b>Referred to Dr Krishnaiah by Dr Hawes.</b>','Referral, Dr Hawes',None),
  ('13 Sep 2024','WorkCover Queensland rejected the application for compensation.','WorkCover reasons, 13 Sep 2024',None),
- ('20 Sep 2024','Separation date nominated by the employer in the agreement later executed.','Deed, recital D',None),
- ('<b>8/9 Oct 2024</b>','<b>Dismissal.</b> The letter from the Acting Executive Director treating the employment as abandoned. It was forwarded to me at 4:10 pm on 9 October 2024; my own earlier filing gives the date as 8 October. I replied in writing.','Employer letter, 8/9 Oct 2024',None),
+ ('20 Sep 2024','The separation date later nominated by the abandonment correspondence — the deed calls it "the Dismissal". It became the effective date of my reinstatement.','Deed, recital D',None),
+ ('<b>8 Oct 2024</b>','<b>Dismissal.</b> I received correspondence from the Acting Executive Director treating me as absent without approved leave and as having abandoned my employment. It nominated a separation date of 20 September 2024. It was forwarded to me by email at 4:10 pm on 9 October. I replied in writing.','Deed, recital C; employer letter',None),
  ('<b>24 Oct 2024</b>','<b>First consultation with Dr Krishnaiah. My partner attended that consultation with me.</b>','Your file',None),
  ('<b>24 Oct 2024</b>','<b>The review confirmed the rejection</b> — issued the same day, after the appointment. The reviewer nonetheless determined that I "sustained a personal injury of a psychological nature", that my injury "arose out of employment … where employment was a significant contributing factor", and that the rostering of the 17 and 18 March shifts "amounted to unreasonable management action". The rejection rested on the statutory exclusion alone.','Review Decision 69983, pp. 26–27',None),
  ('13 Feb 2025','Dr Krishnaiah’s report to QSuper. It records workplace stress arising from management and rostering, and refers to relationship breakdown, job loss and bereavement.','Your file',None),
  ('Feb – Mar 2025','My relationship with my partner ended.','My account',None),
  ('<b>11 Jan 2025</b>','<b>My great-grandmother, Gwendoline Zena Boland (born Johnston), died</b> seven days after her ninety-fourth birthday (born 4 January 1931). Seven months and a day after her husband. It was my own birthday.','Family record',None),
- ('21 Feb 2025','The agreement with the employer was executed.','Deed',None),
+ ('25 Oct 2024','I applied to the Commission for reinstatement, matter TD/2024/110.','Deed, recital E',None),
+ ('<b>21 Feb 2025</b>','<b>The deed was executed, and it undid the dismissal.</b> The Health Service reinstated me "with an effective date of 20 September 2024", that reinstatement taking effect "despite any documents that the Health Service may require the Applicant to execute". Wages were payable for 20 September to 13 December 2024; the period from 13 December 2024 to 23 February 2025 was treated as leave without pay.','Deed, cll. 1, 2, 4',None),
  ('1 Jul 2025','<b>After the onset.</b> Fatigue leave I had submitted was declined in writing: "I have just checked MyHR and noticed your leave has been submitted as Fatigue leave … I have declined this please submit correct leave either S/L or A/L."','Email, Ms Taylor, 1 Jul 2025',None),
  ('3 Jul 2026','Employee Capability Checklist completed by the employer. It identifies three stressors for the position — complaint handling; being blamed for the failures of others; unpredictable rostering.','Capability Checklist','A4c'),
 ]
@@ -53,7 +54,6 @@ ROWS=[
 NOTES=[
  ('A date I cannot give','The day of Dr Hawes’ referral in September 2024. I have not estimated it; your own file or the general-practice record may show it.'),
  ('Any psychological diagnosis before 24 October 2024','None is recorded in the material I hold. The general-practice record of 26 October 2022 lists "ADHD" and "Anxiety" in a past medical history; I make no assertion about what that entry represents.'),
- ('The separation date','The documents differ — the agreement records 20 September 2024, an earlier filing of mine 8 October, the abandonment correspondence 9 October. All three fall after 18 June 2024. I have not resolved the difference and nothing here depends on it.'),
  ('What is left out','Physical health matters arising in 2026 — not within the three questions. The two deaths, the relationship ending and the loss of the job all appear above at the dates the record gives. I draw no conclusion from their order or their weight, and question 4 of my email asks you to address them.'),
 ]
 
