@@ -1,4 +1,17 @@
 # MATHESON, THE FORM 24 / FORM 25, AND THE ADMIT/DENY — NEXT TO THE DOCUMENTED RECORD
+> ⛔ CORRECTION 5 SEPTEMBER 2026 — READ FIRST. The notice SERVED on 28 August 2026 has **303 facts**, not
+> 308. The served files are `drafts/out/FORM24_SERVED_28AUG2026_303facts.pdf` (md5 e6abde34, 22pp, signed
+> 28/08/2026), `FORM25_SERVED_28AUG2026.pdf` (2459799e) and `FORM24_PART_B_SERVED_28AUG2026.pdf` (c73f90cb);
+> the served Annexure A is text-identical to `FORM24_ANNEXURE_A.pdf` (133pp). The 308-fact copy the repo had
+> been treating as served is a LATER, UNSERVED build carrying a draft note — now
+> `FORM24_UNSERVED_308facts_with_draft_note_DO_NOT_CITE.pdf`. **Never served:** repo facts 299–303 (the
+> section R PID/retraction admission facts). Reworded after service only: 1, 32, 38, 82. Every "308" below
+> should be read as 303. Mock on the served 303: **admitted 267 (212 A · 38 A* · 17 A!) · not admitted 36
+> (all provenance) · denied 0.** ⚠ **Tab 26 as served is the UNFILLED render of the February 2026 notice**
+> (blank fields), as the draft note warned. Facts quoting her 18 Feb answers cite Tab 27, which is sound;
+> expect a dispute on Tab 26's authenticity under the Form 25 and have the actually-served February notice
+> ready to substitute.
+
 > 3 September 2026. Appeal track only. Read from source: the served Form 24 (⚠ the OFFICIAL FORM built 07:43 28 Aug = 308 facts, sections A–S; the 03:22 'SERVE_CLEAN' file is a superseded 290-fact build — cite the 308 numbering),
 > the Form 25 (39 tabs), the Respondent's response of 18 Feb 2026 (44 responses), the SOFC of 13 May
 > 2026, Matheson's emails of 16 Jul, 3 Aug, 14 Aug (x2) and 28 Aug, the Amended LOD of 14 Aug, the
