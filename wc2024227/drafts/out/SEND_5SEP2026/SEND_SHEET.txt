@@ -12,7 +12,7 @@ ATTACH    all three, in this order:
           02_Finding_aid_and_enclosures_5Sep2026.pdf
           03_Chronology_5Sep2026.pdf
 
-TOTAL     7.49 MB.
+TOTAL     7.50 MB.
           Under Outlook's 20 MB limit. If a practice gateway bounces it at 10 MB, send
           attachment 02 in a second email — 01 and 03 are the ones needed for a fast answer.
 
