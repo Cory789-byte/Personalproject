@@ -18,5 +18,5 @@ for x in ('/Metadata','/PieceInfo','/Lang'):
 for pg in out.pages:
     for x in ('/Metadata','/PieceInfo'):
         if x in pg.obj: del pg.obj[x]
-out.save('out/SHEPHERD_03_Chronology_4Sep2026.pdf',fix_metadata_version=False)
+out.save('out/SHEPHERD_03_Chronology_5Sep2026.pdf',fix_metadata_version=False)
 print('standalone chronology pages:',len(out.pages))

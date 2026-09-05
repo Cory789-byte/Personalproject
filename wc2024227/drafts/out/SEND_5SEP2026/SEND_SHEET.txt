@@ -1,0 +1,19 @@
+SEND SHEET — Mind and Memory Service — 5 September 2026
+
+FROM      coryshepherd1@hotmail.com   (NOT the .onmicrosoft.com account)
+TO        info@mindandmemoryservice.com.au
+SUBJECT   Cory Shepherd (DOB 11.01.1991) — one-page report by 9 Sep 2026 (happy to pay)
+
+BODY      EMAIL_BODY_paste_into_Outlook.txt — paste whole, it begins at "Dear Mind and
+          Memory Service". Send as HTML if the arrows in the Reading line look wrong.
+
+ATTACH    all three, in this order:
+          01_Notice_of_Non-Party_Disclosure_sealed_4Jul2025.pdf
+          02_Finding_aid_and_enclosures_5Sep2026.pdf
+          03_Chronology_5Sep2026.pdf
+
+TOTAL     7.49 MB.
+          Under Outlook's 20 MB limit. If a practice gateway bounces it at 10 MB, send
+          attachment 02 in a second email — 01 and 03 are the ones needed for a fast answer.
+
+CHECK     the report is due 4:00 pm Wednesday 9 September 2026.

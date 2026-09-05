@@ -42,9 +42,9 @@ def content(start):
     for k,n in zip(KEYS,counts): pos[k]=pg; pg+=n
     def J(k,label=None): return L(k,(label or f'p. {pos[k]}'))
     s=[P('WHERE THE MATERIAL SITS AGAINST THE THREE MATTERS IN ISSUE',H1),
-       P('Cory Shepherd · WC/2024/227 · 4 September 2026. The three matters are those written on the Notice of Non-Party Disclosure requested by the Workers’ Compensation Regulator and sealed 4 July 2025, which is attached to my email separately. Every document referred to below is in this file, complete and unaltered. <b>The page references are clickable</b>, and the bookmarks panel lists each document. This page is a finding aid only: it makes no submission about what any item shows, nothing in it is intended to bear on your opinion, and it contains nothing that was not provided with my letter of 17 August 2026 other than the page references.',TINY),
+       P('Cory Shepherd · WC/2024/227 · 5 September 2026. The three matters are those written on the Notice of Non-Party Disclosure requested by the Workers’ Compensation Regulator and sealed 4 July 2025, which is attached to my email separately. Every document referred to below is in this file, complete and unaltered. <b>The page references are clickable</b>, and the bookmarks panel lists each document. This page is a finding aid only: it makes no submission about what any item shows, nothing in it is intended to bear on your opinion, and it contains nothing that was not provided with my letter of 17 August 2026 other than the page references.',TINY),
        Spacer(1,2),
-       P('<b>PLEASE NOTE — WHAT IS <u>NOT</u> ASKED.</b> The letter of instruction of 17 August 2026 (in this file at '+J('LOI')+') asks a longer set of questions. Only the five questions in my email of 4 September 2026 are asked now. In particular, <b>questions 3.4 to 3.8 of that letter — capacity, restrictions and adjustments — are NOT asked for this purpose and should be set aside.</b> They are the employer\'s questions, they are not urgent, and they can be dealt with separately.',TINY),
+       P('<b>PLEASE NOTE — WHAT IS <u>NOT</u> ASKED.</b> The letter of instruction of 17 August 2026 (in this file at '+J('LOI')+') asks a longer set of questions. Only the five questions in my email of 5 September 2026 are asked now. In particular, <b>questions 3.4 to 3.8 of that letter — capacity, restrictions and adjustments — are NOT asked for this purpose and should be set aside.</b> They are the employer\'s questions, they are not urgent, and they can be dealt with separately.',TINY),
        Spacer(1,4),
        P('MATTER 1 — DID MR SHEPHERD SUSTAIN A PERSONAL INJURY?',H2)]
     r=[[P('<b>Material</b>',SMB),P('<b>Where</b>',SMB)]]
@@ -59,7 +59,7 @@ def content(start):
         r.append([P(a,SM),P(b,SM)])
     s.append(tbl(r,[118*mm,52*mm]))
     s.append(P('MATTER 2 — DID THE INJURY ARISE OUT OF, OR IN THE COURSE OF, THE EMPLOYMENT?',H2))
-    s.append(P('Rows are grouped to the three sources of accumulation described in question 3 of my email of 4 September 2026 — <b>(a)</b> fatigue from the shift events, <b>(b)</b> further rostering errors, <b>(c)</b> the continuing need to follow up unresolved issues. Rows marked <b>—</b> are context.',TINY))
+    s.append(P('Rows are grouped to the three sources of accumulation described in question 3 of my email of 5 September 2026 — <b>(a)</b> fatigue from the shift events, <b>(b)</b> further rostering errors, <b>(c)</b> the continuing need to follow up unresolved issues. Rows marked <b>—</b> are context.',TINY))
     r=[[P('<b>Material</b>',SMB),P('<b>Where</b>',SMB)]]
     for a,b in [
      ('<b>—</b> The requirements of the position as the employer describes them — continuous shift work over the full 24-hour period, 7 days a week; the Emergency Response process "strictly adhering to protocols and timeframes"; "maintain call queues to minimum at all times"; multitasking under "high volume call traffic"; judgement "in situations where precedence have not been set and procedures not defined"; "limited supervision"','Attachment 3, '+J('A3')),
@@ -84,7 +84,7 @@ def content(start):
      ('Your report of 13 February 2025 referred to multiple life stressors including relationship breakdown, job loss and bereavement','held by the practice'),
      ('Your clinical relationship with me began on 24 October 2024, and my partner attended that consultation with me. Each of those matters arose while I was under your care and is recorded in your own file','held by the practice'),
      ('The sequence, from sources other than my account: onset pleaded at or about 18 June 2024 · application for compensation lodged 1 July 2024 · rejected 13 September 2024 · correspondence as to abandonment 8/9 October 2024 · review decision 24 October 2024 · your report 13 February 2025 · reinstatement effective 20 September 2024, agreement executed 21 February 2025 · Employee Capability Checklist 3 July 2026','schedules A, B, C · '+J('SCH','schedule')),
-     ('My letter of instruction of 17 August 2026, and the five questions in my email of 4 September 2026','Letter, '+J('LOI'))]:
+     ('My letter of instruction of 17 August 2026, and the five questions in my email of 5 September 2026','Letter, '+J('LOI'))]:
         r.append([P(a,SM),P(b,SM)])
     s.append(tbl(r,[118*mm,52*mm]))
     SHORT={'LOI':'Instruction','SCH':'Schedule','A1':'Att 1','A2':'Att 2','A3':'Att 3','A4a':'Att 4a',
@@ -175,6 +175,6 @@ R['/PageMode']=pikepdf.Name('/UseOutlines')
 for pg in out.pages:
     for x in ('/Metadata','/PieceInfo'):
         if x in pg.obj: del pg.obj[x]
-out.save('out/SHEPHERD_02_Finding_aid_and_enclosures_4Sep2026.pdf',fix_metadata_version=False)
+out.save('out/SHEPHERD_02_Finding_aid_and_enclosures_5Sep2026.pdf',fix_metadata_version=False)
 print('TOTAL',len(out.pages),'pages')
 for k in KEYS: print(f'   {k:4s} → p.{starts[k]+1}')

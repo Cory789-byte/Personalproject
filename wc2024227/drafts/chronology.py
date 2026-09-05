@@ -13,12 +13,15 @@ TINY=PS('c_t',fontName='Helvetica',fontSize=6.4,leading=7.8)
 
 # (date, event, source-text, doc-key or None)
 ROWS=[
+ ('2019','Employment with Metro South began — Administration Officer (AO3), Switchboard Services, Logan Hospital — <b>as a casual</b>.','Employer leave record, from 25 Mar 2019',None),
  ('17 Jun 2020','I signed a written agreement permitting a minimum break of 8 hours between shifts instead of 10. Whether it applied to rostered shifts is disputed.','Agreement, 17 Jun 2020',None),
  ('26 Oct 2022','General-practice record. "ADHD" and "Anxiety" appear in the Past Medical History list carried in the referral of 16 May 2024.','General-practice records','A4a'),
+ ('27 Sep 2023','My line manager approved permanent full-time hours.','Approval email, 27 Sep 2023',None),
+ ('<b>16 Oct 2023</b>','<b>Permanent full-time hours commenced</b>, having moved from casual to part-time before this. The position is continuous shift work across the full 24 hours, seven days a week; I handled roughly 200 to 300 calls per shift.','My outline; role description','A3'),
  ('16 Nov 2023','General-practice consultation, Dr Priyal De Silva Nanayakkara. The note records: "Poor sleep. Shift work. Takes melatonin 2 mg to help to go to sleep … but does not help much. <b>Cannot work/ do shifts if he does not get a good sleep.</b> … <b>No psycological illness such as depression/ psycosis. mood good.</b>" Melatonin and temazepam prescribed. (Spelling as in the record.)','General-practice records','A4a'),
  ('20–27 Feb 2024','Leave declined for want of an attached statutory declaration. The Respondent now records "a review indicates that in fact, the attachments were present" and "a matter of human error".','Schedule, 14(e), 14(f)','SCH'),
  ('17–18 Mar 2024','Rostered to finish at 23:00 and to commence at 06:00 — a break of 7 hours. The fatigue policy and the Award require a minimum of 10 hours, or 8 by written agreement. MET calls were recorded over that period.','Accepted — schedule items 1, 3','SCH'),
- ('19 Mar 2024','<b>The day after those shifts I was absent, and I funded it myself.</b> The employer’s own leave record shows 7.60 hours of Sick Leave, approved. Paid fatigue leave was not provided; the Regulator’s own pleaded case is that no fatigue leave was available under cl 18.10 of the Award, no overtime having been performed.','Employer leave record; Regulator’s pleading 24(b); accepted — schedule 22(c)','SCH'),
+ ('19 Mar 2024','<b>The day after those shifts I was absent, and I funded it myself</b> — 7.60 hours of Sick Leave, approved. Paid fatigue leave was not provided; the Regulator’s own pleaded case is that none was available under cl 18.10, no overtime having been performed.','Leave record; Regulator’s pleading 24(b); schedule 22(c)','SCH'),
  ('15 Apr 2024','A change to Switchboard working arrangements communicated by email. The Respondent lists no document recording consultation before it.','Respondent’s List of Documents',None),
  ('3 May 2024','Payroll instructed to correct the shifts.','Accepted — schedule item 40','SCH'),
  ('16 May 2024','General-practice note records "renew referral to psychiatrist".','General-practice records','A4a'),
@@ -38,7 +41,7 @@ ROWS=[
  ('20 Sep 2024','Separation date nominated by the employer in the agreement later executed.','Deed, recital D',None),
  ('<b>8/9 Oct 2024</b>','<b>Dismissal.</b> The letter from the Acting Executive Director treating the employment as abandoned. It was forwarded to me at 4:10 pm on 9 October 2024; my own earlier filing gives the date as 8 October. I replied in writing.','Employer letter, 8/9 Oct 2024',None),
  ('<b>24 Oct 2024</b>','<b>First consultation with Dr Krishnaiah. My partner attended that consultation with me.</b>','Your file',None),
- ('<b>24 Oct 2024</b>','<b>The review confirmed the rejection</b> — Review Decision 69983, issued the same day; the appointment was that day and the decision arrived after it. In doing so the reviewer determined that I "sustained a personal injury of a psychological nature", that my injury "arose out of employment … where employment was a significant contributing factor", and that the rostering of the 17 and 18 March 2024 shifts "amounted to unreasonable management action". The rejection was confirmed on the statutory exclusion alone, on a global evaluation of the management action.','Review Decision 69983, pp. 26–27',None),
+ ('<b>24 Oct 2024</b>','<b>The review confirmed the rejection</b> — issued the same day, after the appointment. The reviewer nonetheless determined that I "sustained a personal injury of a psychological nature", that my injury "arose out of employment … where employment was a significant contributing factor", and that the rostering of the 17 and 18 March shifts "amounted to unreasonable management action". The rejection rested on the statutory exclusion alone.','Review Decision 69983, pp. 26–27',None),
  ('13 Feb 2025','Dr Krishnaiah’s report to QSuper. It records workplace stress arising from management and rostering, and refers to relationship breakdown, job loss and bereavement.','Your file',None),
  ('Feb – Mar 2025','My relationship with my partner ended.','My account',None),
  ('<b>11 Jan 2025</b>','<b>My great-grandmother, Gwendoline Zena Boland (born Johnston), died</b> seven days after her ninety-fourth birthday (born 4 January 1931). Seven months and a day after her husband. It was my own birthday.','Family record',None),
@@ -65,10 +68,9 @@ def flowables(J=None, jumpbar=None):
     """J(key, label) -> markup for a link, or None for a plain chronology."""
     linked = J is not None
     s=[P('CHRONOLOGY — FOR EASE OF REFERENCE ONLY, NOT A SUBMISSION',H1),
-       P('Cory Shepherd, date of birth 11 January 1991 · WC/2024/227 · prepared 4 September 2026. '
-         'This page records dated events and where each is recorded. It draws no conclusion from any of '
-         'them, and it is not intended to bear on your opinion. Where the record is unclear or a date is '
-         'not established, that is said so in terms rather than estimated.'
+       P('Cory Shepherd, date of birth 11 January 1991 · WC/2024/227 · prepared 5 September 2026. '
+         'Dated events, and where each is recorded. It draws no conclusion from any of them and is not '
+         'intended to bear on your opinion. Where a date is not established it says so, rather than estimating.'
          + (' <b>The page references in the right-hand column are clickable.</b>' if linked else ''),TINY),
        Spacer(1,4)]
     r=[[P('<b>Date</b>',SMB),P('<b>Event</b>',SMB),P('<b>Where it is recorded</b>',SMB)]]
@@ -76,7 +78,6 @@ def flowables(J=None, jumpbar=None):
         cell = src if not (linked and key) else src+' · '+J(key)
         r.append([P(date,SM),P(ev,SM),P(cell,SM)])
     s.append(_tbl(r,[26*mm,98*mm,46*mm]))
-    s.append(PageBreak())
     s.append(P('MATTERS NOT ESTABLISHED, AND MATTERS I CANNOT DATE',H2))
     r=[[P('<b>Item</b>',SMB),P('<b>Position</b>',SMB)]]
     for a,b in NOTES: r.append([P(a,SM),P(b,SM)])
