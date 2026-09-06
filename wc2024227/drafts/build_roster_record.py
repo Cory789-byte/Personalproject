@@ -89,13 +89,55 @@ s.append(t2)
 s.append(PageBreak())
 s.append(P("C. What the record shows",H1))
 for t_ in [
- "<b>No published roster held shows a break under ten hours.</b> Across 25 fortnights the shortest break between consecutive rostered shifts is a late (finishing 22:00 or 23:00) followed by a night starting 22:00 or 23:00 the next day. The seven-hour break of 17 to 18 March 2024 is therefore not a roster the Appellant was published on. The 4 to 17 March roster ends on Sunday 17 March with a 15:00 to 23:00 shift. The 18 to 31 March roster as published has no line for the Appellant at all. The 06:00 start on Monday 18 March came from somewhere other than the published roster.",
- "<b>The rosters were reissued.</b> The fortnight of 30 October to 12 November 2023 was issued as v2.0. The fortnights of 15 to 28 April and 29 April to 12 May 2024 each exist in two different versions with the same v1.0 label. The April change moved the Appellant's nights from 23 to 25 April to 26 to 28 April, which with the following fortnight produced six consecutive night shifts from 26 April to 2 May. The May change replaced earlies on 10 to 12 May with lates. The updated versions also add 'After Hours Oncall' rows for Ms Taylor and Ms Stibbard, consistent with the 15 April 2024 email. Ms Reese's 10 May 2024 email acknowledging 'a few rostering errors made by Chloe with regards to Cory's line in past rosters' sits between the two reissues.",
- "<b>Consecutive shifts.</b> Runs of six or more consecutive rostered shifts occur eight times in the fortnights held (seven runs of six and one of seven), and runs of five a further eight times. From 16 October 2023 (full time) the pattern is nights, three days marked off, then earlies, then lates, in rotation.",
- "<b>Uncovered shifts.</b> 31 shifts appear in the rosters' own Uncovered Shifts row across the fortnights held: ten in the two fortnights of 18 September to 15 October 2023, six in 4 to 17 March 2024, three each in 1 to 14 May 2023 and 25 December to 7 January, and single shifts elsewhere. A roster published with an uncovered row is a roster that will be filled from the operators on it.",
- "<b>Sick leave sits at the end of runs and at the turn of the pattern.</b> 12 May 2023 on the third early; 15 June 2023 on the third late with a night to follow; 26 to 28 June 2023 on three consecutive nights; 21 to 22 November 2023 after five consecutive early starts (15 to 19 November), inside which falls the 16 November 2023 consultation recording poor sleep with shift work; 2 January 2024 on a night that followed an early; 19 March 2024 after the seven-hour break; 7 May 2024 on the third of four consecutive earlies; 13 to 14 May 2024 on lates following lates; 31 May 2024 on an early after a late; and 7 to 9 June 2024, the last three shifts before the bereavement, all lates, all taken as sick. Every rostered day from 17 June 2024 is leave without pay.",
- "<b>What the record does not show.</b> Sick leave of colleagues does not appear on published rosters; the team's leave management is visible only in the annual leave blocks, the N/A markings for casuals and the uncovered rows. The 2025 to 2026 working rosters in the same pack (22 scanned pages dated 22 March 2026) are annotated by hand with S/L, LWOP and shift changes across the team; three were read for this note and the remainder appear to be the same annotated series. They post-date the injury and are not analysed here.",
- "<b>Caveats.</b> Four fortnights in the window are not held. Cells were read from scanned images and two cells in the 19 February to 3 March 2024 fortnight were read from a skewed scan. The 18 to 31 March 2024 finding rests on the file as held; the employer's rostering system may hold a later version that includes the Appellant, and that version should be sought.",
+ "<b>In 206 rostered shifts across the fortnights held, the shortest break between consecutive shifts is fifteen hours.</b> "
+ "Not one break falls below twelve hours, and not one sits at the ten-hour Award minimum. The twelve shortest are all fifteen "
+ "hours, and they are of two kinds: an 07:00-15:00 followed by an 06:00-14:00 the next day, and a 15:00-23:00 followed by a "
+ "14:00-22:00 the next day. The median short-interval break is sixteen hours. On this record the ten-hour minimum was not "
+ "something the roster worked to; the roster ordinarily sat five or six hours above it.",
+ "<b>The seven-hour break of 17 to 18 March 2024 is therefore more than twice as short as anything else the Appellant was "
+ "rostered in the year, and it is the only break of its kind.</b> The Respondent pleads that it was human error and not "
+ "repeated. The record supports 'not repeated' and goes further: nothing remotely like it occurs anywhere else.",
+ "<b>It also falls across a fortnight boundary, and it appears on no published roster.</b> The roster for 4 to 17 March 2024 "
+ "ends with the Appellant on 15:00 to 23:00 on Sunday 17 March. The roster for 18 to 31 March 2024, as published and as held, "
+ "contains no line for him at all, although the Respondent admits he commenced at 06:00 on Monday 18 March. Read at 300 dpi, "
+ "that roster lists Jeffrey, Abbott, De Iacovo, Conaghan, Court, Parry, Fitzpatrick, Sutton-Mason, Ismail, Hu, Malsbury, "
+ "Nelson and Kendrick, and no Shepherd; the rosters immediately before and after it both carry his line and payroll number "
+ "388372. A late-to-early transition that straddles the boundary between two fortnightly rosters is visible on neither of "
+ "them. That is the kind of gap a fatigue risk assessment of the roster exists to catch, and Metro South has stated in "
+ "writing that no such assessment applied to the Switchboard before 30 June 2024.",
+ "<b>Thirteen backward rotations.</b> Counting transitions between blocks of shift types, the line rotates forward (start "
+ "times getting later) 37 times and backward (start times getting earlier) 18 times, of which thirteen are a block of late "
+ "shifts followed by a block of early shifts, with two to four days between. Dr Hawes recorded on 1 July 2024 that the "
+ "Appellant reported 'manipulate his roster- so he works lates then earlies'. That pattern is in the rosters, thirteen times "
+ "between April 2023 and June 2024, and it is the direction of rotation that the fatigue literature and the Queensland Health "
+ "fatigue guideline treat as the more demanding one.",
+ "<b>The rosters were reissued.</b> 30 October to 12 November 2023 was issued as v2.0. The fortnights of 15 to 28 April and "
+ "29 April to 12 May 2024 each exist in two different versions, both labelled v1.0. The April change moved the Appellant's "
+ "nights from 23 to 25 April to 26 to 28 April, which with the following fortnight produced six consecutive night shifts from "
+ "26 April to 2 May. The May change replaced earlies on 10 to 12 May with lates. The updated versions are also the first to "
+ "carry After Hours Oncall rows for Ms Taylor and Ms Stibbard. Ms Reese's email of 10 May 2024 acknowledging 'a few rostering "
+ "errors made by Chloe with regards to Cory\'s line in past rosters' sits between the two reissues.",
+ "<b>Consecutive shifts and uncovered shifts.</b> Runs of six or more consecutive rostered shifts occur eight times in the "
+ "fortnights held, and runs of five a further eight times. Thirty-one shifts appear in the rosters' own Uncovered Shifts row, "
+ "ten of them in the two fortnights of 18 September to 15 October 2023 and six in 4 to 17 March 2024.",
+ "<b>Sick leave sits at the end of runs and at the turn of the pattern.</b> Three consecutive nights in June 2023 all taken "
+ "as sick; 21 to 22 November 2023 after five consecutive early starts, inside which falls the 16 November 2023 consultation "
+ "recording poor sleep with shift work; 2 January 2024 on a night that followed an early; 19 March 2024 after the seven-hour "
+ "break; 7 May 2024 on the third of four consecutive earlies; 13 to 14 May 2024; 31 May 2024 on an early after a late; and "
+ "7 to 9 June 2024, the last three shifts before the bereavement, all lates, all taken as sick. Every rostered day from "
+ "17 June 2024 is leave without pay.",
+ "<b>What the published rosters cannot show.</b> A published roster records the shifts as planned and the leave already "
+ "approved when it was published. It does not record sick leave, which by its nature is taken after publication. The team's "
+ "unplanned absence is therefore not countable from this set. What is visible is planned annual leave, N/A markings against "
+ "casual staff, and the Uncovered Shifts row. The 22 working rosters scanned on 22 March 2026 are annotated by hand with "
+ "S/L, LWOP and shift changes across the team, and are the only documents held in which team absence appears; they post-date "
+ "the injury.",
+ "<b>Caveats.</b> Four fortnights in the window are not held: 10 July to 17 September 2023, 16 to 29 October 2023, 27 November "
+ "to 10 December 2023, and 8 to 21 January 2024. Cells were read by eye from scanned images and must be checked against the "
+ "page before use in a filing. The 18 to 31 March 2024 finding rests on the file as held; the employer's rostering system may "
+ "hold a later version that includes the Appellant, and that version should be sought, because either answer assists: no later "
+ "version means the shift was allocated off the published roster, and a later version means the roster was changed after "
+ "publication.",
 ]: s.append(P(t_))
 buf=io.BytesIO(); doc=BaseDocTemplate(buf,pagesize=PS,leftMargin=12*mm,rightMargin=12*mm,topMargin=11*mm,bottomMargin=11*mm)
 doc.addPageTemplates([PageTemplate(id='n',frames=[Frame(12*mm,11*mm,PS[0]-24*mm,PS[1]-22*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
