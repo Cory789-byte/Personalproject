@@ -66,8 +66,7 @@ OUTLINES = [
     "assessment at the Switchboard began only after 30 June 2024. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;256, 263&ndash;268]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
-    "early shifts, and of nights followed by days off and then nights again, which I raised on "
-    "16 April 2024; that rostering errors on my line recurred across successive roster periods; "
+    "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across successive roster periods; "
     "and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
     "rostering errors made by Chloe with regards to Cory's line in past rosters\". "
     "<i>[&para;&para; 211&ndash;223]</i>"),
@@ -102,8 +101,7 @@ OUTLINES = [
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
     "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
     "consultation with the team; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
-    "2024 at 9:30 am, Ms Taylor sent the whole department an email headed \"Switchboard Manager - "
-    "On call and Hours.\" stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
+    "2024 at 9:30 am, Ms Taylor sent the whole department an email stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
     "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
     "concerned about. "
     "<i>[&para;&para; 70&ndash;88]</i>"),
@@ -120,7 +118,9 @@ OUTLINES = [
     "be obtained. "
     "<i>[General-practice records disclosed by the Respondent]</i>"),
    ("Onset, presentation and diagnosis.", "My symptoms from about 18 June 2024 and their effect on "
-    "sleep, concentration, self-care and relationships. Attending Dr Slawinski "
+    "sleep, concentration, self-care and relationships, and on my capacity for work, from being "
+    "certified unfit from 1 July 2024 to returning on reduced hours and the restrictions recorded in "
+    "the Employee Capability Checklist of 3 July 2026. Attending Dr Slawinski "
     "on 28 June 2024, whose note records \"stress at work\" and \"upset by people not following "
     "rules\", and Dr Hawes on 1 July 2024, whose note records \"work stress\", that \"they withhold "
     "pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
