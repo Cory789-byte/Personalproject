@@ -42,13 +42,13 @@ ROWS = [
   "earlies\", and \"causing anxiety\". These entries are relied upon as the contemporaneous record of what was "
   "reported before any claim decision, dismissal or proceeding.",
   "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages in the served copy and marked as such."),
- ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July 2024, 11 August 2024 and 8 September 2024 "
-       "(Respondent's item 7).",
+ ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July, 11 August and 8 September 2024, and of Dr Ki "
+       "Pang dated 7 August 2024 (Respondent's items 7 and 8).",
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
-  "certification of no functional capacity from 1 July 2024; and the referral to a psychiatrist recorded on "
-  "8 September 2024.",
+  "continuous certification of no functional capacity from 1 July to 6 October 2024; and the referral to a "
+  "psychiatrist recorded on 8 September 2024.",
   "The recorded mechanism as a finding of fact. The events are proved by the notice to admit facts served "
-  "28 August 2026, not by the certificate."),
+  "28 August 2026, not by the certificates. Nothing as to medication; the medication box is unticked on each."),
  ("3", "Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at "
        "11:45 am, \"Medications\" (Respondent's item 9; Appellant's List item 22).",
   "That on the morning of 24 October 2024, at the first consultation, the treating psychiatrist told the "
