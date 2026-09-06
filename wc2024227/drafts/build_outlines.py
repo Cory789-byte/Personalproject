@@ -89,7 +89,7 @@ OUTLINES = [
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
     "nor the department knew her office hours, though directed to contact her through them; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
     "consultation with the team; Ms Reese's reply that evening that the email did not comply with "
-    "the Code of Conduct and asking me to retract it, and my reply; that two days later, on 17 May "
+    "the Code of Conduct and asking me to retract it, which I did; that two days later, on 17 May "
     "2024 at 9:30 am, Ms Taylor sent the whole department an email headed \"Switchboard Manager - "
     "On call and Hours.\" stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
     "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
