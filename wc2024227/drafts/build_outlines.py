@@ -120,7 +120,7 @@ OUTLINES = [
     "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
     "with shift work, that I could not do shifts without a good sleep, no psychological illness "
     "such as depression or psychosis, and mood good. The ADHD and anxiety noted in my history in "
-    "October 2022, and the referral to Dr Amini renewed on 16 May 2024 for which no appointment could "
+    "October 2022, and the psychiatrist referral to Dr Amini renewed on 16 May 2024 for which no appointment could "
     "be obtained. "
     "<i>[General-practice records disclosed by the Respondent]</i>"),
    ("Onset, presentation and diagnosis.", "My symptoms from about 18 June 2024 and their effect on "
