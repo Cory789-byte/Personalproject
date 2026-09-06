@@ -73,7 +73,13 @@ leave. Section 134(3) provides:
     including through illness or injury - (a) on paid leave approved by the employer;
     or (b) on unpaid leave approved by the employer."
 
-Every day excluded by the calculation is recorded on my own leave record as approved.
+The leave takings report you produced on 4 September 2026 records 103 entries of leave
+without pay across the whole of my service, and every one of them is marked approved.
+Sixty-seven of those entries fall in the period 21 June to 20 September 2024, each recorded
+as leave category "Special", leave type "Leave Without Pay", status "APPROVED". The Health
+Service's own record therefore places every excluded day inside section 134(3)(b), not
+outside it.
+
 Where the Act intends a period not to count towards service it says so expressly, as it
 does for parental leave at section 90(2). Clause 22(a) of the Hospital and Health Service
 General Employees (Queensland Health) Award - State 2015 points to the same Division of
@@ -97,7 +103,9 @@ date is 25 March 2026 and my application of 31 August 2026 falls to be determine
 I would add one thing about the largest of the three periods, 21 June to 20 September
 2024. The agreement by which I was reinstated deals with one period of leave without pay,
 being 13 December 2024 to 23 February 2025, which your calculation applies correctly. It
-does not deal with 21 June to 20 September 2024 in that way.
+does not deal with 21 June to 20 September 2024 in that way. It reserved those absences.
+They were then recorded as approved leave without pay, which is the very absence section
+134(3)(b) says does not break continuity of service.
 
 4. WHAT REMAINS OUTSTANDING, AND WHERE
 
