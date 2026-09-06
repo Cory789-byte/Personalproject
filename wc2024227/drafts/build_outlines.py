@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.6, spaceAfter=1.8)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.5, spaceAfter=1.6)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -131,15 +131,15 @@ OUTLINES = [
     "referral. My first consultation with Dr Krishnaiah on 24 October 2024, on that referral, when I "
     "was told I had major depressive disorder with anxiety state, confirmed by the practice in writing "
     "at 11:45 am that day, my fluoxetine increased and quetiapine added at night; his written report "
-    "of 13 February 2025; and my treatment since. The matters at paragraphs 2 to 7 above are the matters "
-    "I reported to each doctor, as their records show. I offer no clinical or diagnostic opinion."),
+    "of 13 February 2025; and my treatment since. The matters at paragraphs 2 to 7 above, and their "
+    "effect on me as each occurred and as they accumulated, are the matters I reported to each doctor, as their records show. I offer no clinical or diagnostic opinion."),
    ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; my "
     "employment ended under abandonment provisions in October 2024 while I held current certificates, "
     "and my later reinstatement; my return on reduced hours and the leave since; that my Queensland "
     "Health email was restricted, so I cannot produce my work emails myself. Documents: rosters and "
     "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
-    "payroll records; the role description; the medical records above; and the Metro South Hospital "
-    "and Health Service letter of 5 June 2026 (ref K-LM26/729)."),
+    "payroll records; the role description; the medical records above; and Metro South Health's "
+    "letter of 5 June 2026 (ref K-LM26/729)."),
   ]),
 
  ("OUTLINE_01_JEFFREY", "OUTLINE OF EVIDENCE &ndash; MS CAROLYN JEFFREY", TAIL_W,
