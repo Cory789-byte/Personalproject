@@ -52,14 +52,22 @@ TABS = [
   'indicating whether the leave applied for has been approved or not." Clause 25 (page 7): the definition of '
   'continuous service.',
   'Nothing. The Directive is reproduced in full.'),
+ ('QH-POL-188_HR_Policy_C13_Payment_of_salaries_and_wages_23JUN2025.pdf', None,
+  'HR Policy C13, Payment of salaries and wages (QH-POL-188), 23 June 2025',
+  'Section 6 (page 5): a line manager may submit leave on an employee\'s behalf only where the employee\'s request '
+  'for leave "is documented in writing" and any supporting documents "are sourced and retained"; and for leave types '
+  'requiring mutual agreement, naming annual and long service leave, line managers "must not unilaterally place '
+  'employees on leave". Section 2 (page 2): line managers notified of an incorrect wage payment "must take all steps '
+  'to rectify the error". Section 8 (page 6): the ad hoc payment process.',
+  'Nothing. The policy is reproduced in full.'),
 ]
 
 s = [Paragraph('METRO SOUTH HOSPITAL AND HEALTH SERVICE', HD),
      Paragraph('MSH-INJ-5795 &nbsp;|&nbsp; Cory Shepherd, employee number 388372', HD2),
      Paragraph('LONG SERVICE LEAVE &ndash; THE INSTRUMENTS', TITLE),
-     Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. These are the '
-               'instruments I have read in looking for the provision under which periods of approved leave without pay '
-               'are excluded from continuous service. They are reproduced from the sources named below and nothing has '
+     Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. Tabs 1 to 5 are the '
+               'instruments I have read in looking for the provision under which periods of approved leave without pay are '
+               'excluded from continuous service. Tab 6 is the policy governing what may be submitted on my behalf. They are reproduced from the sources named below and nothing has '
                'been retyped. Each page carries a footer identifying the instrument and its page number in the source '
                'document.', BODY)]
 data=[[Paragraph('Tab',CELLB),Paragraph('Instrument',CELLB),Paragraph('The provisions it carries',CELLB),
