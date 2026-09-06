@@ -41,7 +41,7 @@ ROWS = [
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
   "earlies\", and \"causing anxiety\". These entries are relied upon as the contemporaneous record of what was "
   "reported before any claim decision, dismissal or proceeding.",
-  "Entries unrelated to the injury. Private sexual-health entries on the extracted pages are redacted in the served copy and marked as such."),
+  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages in the served copy and marked as such."),
  ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July 2024, 11 August 2024 and 8 September 2024 "
        "(Respondent's item 7).",
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
