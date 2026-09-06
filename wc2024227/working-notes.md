@@ -7356,3 +7356,39 @@ ALSO: the calculator misspells the surname ("Sheperd") and its "Corrected LSL Da
   discipline is right. Clause 11 is the mirror obligation on the Health Service.
   ⚠ CHECK: clause 2(a) credits (54.16 hrs annual leave + 54.16 hrs leave loading) and clause 2(b)
   (personal leave balances reinstated as at separation) — verify they were actually applied.
+
+## 2026-09-06 — VERIFICATION PASS ON THE LSL PACKAGE (email + instruments bundle)
+Every quotation and every figure checked against source, not against notes.
+
+**Instrument quotations — 27 checked, 27 verbatim.** IR Act ss 90(2), 94, 134(3)(a)-(b);
+Award cll 4.1, 22(a), 22(c), Sch 3 AO3; EB12 cl 9.10.1; C38 §1 + Attachment One; Directive
+10/24 cll 7.1, 7.4, 8.1 ("Subject to clause 7.1"), 25; C13 §§2, 5, 6, 8.
+⚠ "5:00 PM on pay day Wednesday" FAILS a flat-text grep — the C13 §5 table interleaves
+columns in pdftotext. **Verified by rendering C13 page 4 at 130 dpi and reading the cell.**
+Do not treat a text-layer miss on a TABLE as absence.
+
+**Figures from the leave takings report (xlsx, read with openpyxl):** 103 LWOP entries, all
+103 APPROVED; 67 entries 21 Jun–20 Sep 2024; ONE block entry 18/05/2022–10/06/2022 of 112
+hrs; ONE block entry 13/12/2024–23/02/2025 of 395.2 hrs; ONE AWOL_NP entry, 30/08/2026,
+7.6 hrs, APPROVED.
+
+**Employer-sourced facts** verified against their own emails: commencement 25 Mar 2019;
+ordinary eligibility 25 Mar 2026; corrected 29 Sep 2026; the three windows; ADHOC PRN
+24973005 for PP03 (06/07–17/07/2026); "S/L and A/L in lieu of S/L" for 17–30 Aug under
+PRN 249 863 66; "the system is currently not allowing me to apply LSL".
+
+⛔ **PAGE-NUMBER CORRECTION — the citations were PDF positions, not printed pages.**
+IR Act PDF 115/117/146/147 = reprint pages **113/115/144/145**. EB12 PDF 37 = printed **35**.
+Award, C38, Directive 10/24 and C13 are one-to-one. The Act offset was dangerous: s 90(2)
+was cited at "page 115", and page 115 is where **s 94** sits. Footers now read "at page N"
+using the instrument's own numbering.
+
+⛔ **ANNOTATIONS ARE METADATA — the old scrub did not touch them.** C38 page 5 carried a
+visible /Circle annotation by **"Cody Moore"**, 06/08/2025 11:44:24+10:00, with a UUID.
+`drafts/scrub_pdf.py` now strips all annotations + doc/page metadata + embedded files and is
+called at the end of build_lsl_instruments.py and build_medical_bundle.py.
+Verify with docinfo + XMP + annots + a RAW BYTE scan for /CreationDate /Author /Producer
+xmpmeta. exiftool on the final file returns no PDF identity tags.
+
+⛔ **Stage 2 notice to the CE is NOT being pursued** (instruction, 6 Sep). Files parked at
+`drafts/out/HOLD_CE_STAGE2/`.
