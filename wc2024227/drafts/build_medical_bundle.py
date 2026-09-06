@@ -132,3 +132,5 @@ except (AttributeError,KeyError): pass
 for k in list(out.docinfo.keys()): del out.docinfo[k]
 dest='out/MEDICAL_DOCUMENTS_RELIED_UPON_schedule_and_pages.pdf'
 out.save(dest,linearize=True); print("built",dest,N,"pages")
+import scrub_pdf as _sc
+print('scrub:', _sc.scrub_file(dest if 'dest' in dir() else out_path), 'annotation(s) removed')

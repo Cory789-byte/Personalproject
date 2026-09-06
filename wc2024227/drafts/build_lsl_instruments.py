@@ -123,3 +123,5 @@ for pg in out.pages:
 dest='out/LSL_THE_INSTRUMENTS.pdf'
 out.save(dest,fix_metadata_version=False)
 print('built',dest,total,'pages')
+import scrub_pdf as _sc
+print('scrub:', _sc.scrub_file(dest if 'dest' in dir() else out_path), 'annotation(s) removed')
