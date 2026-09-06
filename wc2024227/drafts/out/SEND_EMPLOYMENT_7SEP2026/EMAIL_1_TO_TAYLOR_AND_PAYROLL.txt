@@ -47,19 +47,36 @@ If it is credited, the effect is that my eligibility date falls in late June 202
 than 29 September 2026 - 25 March 2026 plus the remaining excluded days - and has therefore
 already passed.
 
-Directive 15/24 took effect on 30 September 2024 and superseded Directive 01/19, so the
-earlier directive may be the one governing a period in June to September 2024. I have
-obtained Directive 01/19 from the Office of Industrial Relations and it carries the same
-row: for special leave to claim workers' compensation, the period recognised for long
-service leave is "Any period." Both are attached, at tabs 7 and 8. On this question it
-makes no difference which of them applies.
+WHICH DIRECTIVE APPLIED IN JUNE TO SEPTEMBER 2024
 
-I note as well that the application clause of Directive 01/19 names public service officers
-and employees engaged under sections 147(2)(a) and 148(2)(a) of the Public Service Act
-2008, and does not name Hospital and Health Services, whereas clause 4.1(b)(ii) of
-Directive 15/24 does. If the position is that Directive 01/19 did not apply to Health
-Service Employees, could you please tell me which instrument was applied to that period
-instead.
+Directive 15/24 took effect on 30 September 2024. That is ten days after the period ends,
+and the directive contains no transitional or retrospective provision. It cannot be applied
+to a period that had closed before it commenced.
+
+The directive in force during that period was Directive 01/19. I have obtained it from the
+Office of Industrial Relations and it is at tab 8. Clause 4 provides that it applies to
+public service officers, and to employees engaged under sections 147(2)(a) and 148(2)(a) of
+the Public Service Act 2008. Those sections concern general employees and fixed term
+temporary employees appointed by a departmental chief executive. I am neither. I am a
+health service employee appointed under section 67 of the Hospital and Health Boards Act
+2011, employed by Metro South Hospital and Health Service, which is why clause 4.1 of the
+Award applies it to "each hospital and health service, in their capacity as the employer".
+
+Directive 01/19 therefore did not apply to me. Clause 4.1(b)(ii) of Directive 15/24 is the
+first of these directives to extend to Hospital and Health Services, and it did so from
+30 September 2024.
+
+So for 21 June to 20 September 2024 there was no directive of this kind applying to my
+employment: the earlier one did not reach Health Service Employees, and the later one had
+not commenced. An exclusion from continuous service needs an instrument behind it, and for
+that period I cannot identify one. If you are relying on something I have not found, please
+tell me what it is.
+
+I should add that this does not stand alone. Even if a directive of this kind did apply to
+that period, both Directive 01/19 and Directive 15/24 carry the same row: for special leave
+to claim workers' compensation, the period recognised for long service leave is "Any
+period." On that row the whole of it is credited as service. The 91 days fall out of the
+calculation either way.
 
 THE THIRD PERIOD
 
