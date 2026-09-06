@@ -20,28 +20,28 @@ def C(t): return Paragraph(t, CELL)
 
 # (file, [source pages], instrument label, what it carries, what is omitted)
 TABS = [
- ('ATT22_Industrial_Relations_Act_2016_Qld.pdf', [115,117,146,147],
+ ('ATT22_Industrial_Relations_Act_2016_Qld.pdf', [(115,'113'),(117,'115'),(146,'144'),(147,'145')],
   'Industrial Relations Act 2016 (Qld), reprint current as at 1 January 2026',
-  'Section 90(2) (page 115): parental leave "not to be taken into account in working out the employee\'s period of '
-  'service". Section 94 (page 117): "the provisions of part 4 apply for working out an employee\'s rights and '
-  'entitlements to long service leave under this division". Section 134(3) (pages 146 to 147): continuity of service '
+  'Section 90(2) (page 113): parental leave "not to be taken into account in working out the employee\'s period of '
+  'service". Section 94 (page 115): "the provisions of part 4 apply for working out an employee\'s rights and '
+  'entitlements to long service leave under this division". Section 134(3) (pages 144 to 145): continuity of service '
   '"is not broken by an absence, including through illness or injury - (a) on paid leave approved by the employer; or '
   '(b) on unpaid leave approved by the employer".',
-  'The remainder of the 816-page reprint. Section 134(3) runs across two pages and both are included.'),
- ('ATT03_HHS_General_Employees_Award_2015.pdf', [1,5,16,40,51],
+  'The remainder of the reprint. Section 134(3) runs across two pages and both are included. Page numbers are the reprint\'s own.'),
+ ('ATT03_HHS_General_Employees_Award_2015.pdf', [(1,'title page'),(5,'5'),(16,'16'),(40,'40'),(51,'51')],
   'Hospital and Health Service General Employees (Queensland Health) Award - State 2015',
   'Clause 4.1 (page 5): the Award applies to "those employees described in Schedules 2, 3, 4, 5 and 6" and to "each '
   'hospital and health service, in their capacity as the employer". Clause 12.1(a) (page 16): the administrative '
   'stream. Schedule 3 (page 51): Administrative Officer Level 3 (AO3). Clause 22(a) (page 40): long service leave "is '
   'provided for in Division 9 of the QES". Clause 22(c) (same page): "Employees who have completed 7 years\' '
   'continuous service are entitled to take long service leave on full pay or half pay."',
-  'The remainder of the Award. Page 1 is included to identify the instrument; pages 5, 16 and 51 to show that it '
-  'covers an Administration Officer AO3 employed by a hospital and health service.'),
- ('ATT02_EB12_CA_No12_2025.pdf', [1,37],
+  'The remainder of the Award. The title page is included to identify the instrument; pages 5, 16 and 51 to show '
+  'that it covers an Administration Officer AO3 employed by a hospital and health service.'),
+ ('ATT02_EB12_CA_No12_2025.pdf', [(1,'certificate of approval'),(37,'35')],
   'Queensland Public Health Sector Certified Agreement No. 12',
-  'Clause 9.10.1 (page 37): "Long service leave entitlements and conditions are outlined in HR Policy C38 Long Service '
+  'Clause 9.10.1 (page 35): "Long service leave entitlements and conditions are outlined in HR Policy C38 Long Service '
   'Leave."',
-  'The remainder of the Agreement. Page 1 is included to identify the instrument.'),
+  'The remainder of the Agreement. The certificate of approval is included to identify the instrument.'),
  ('ATT28_HR_Policy_C38_Long_Service_Leave_QH-POL-163_Dec2021.pdf', None,
   'HR Policy C38, Long Service Leave (QH-POL-163), December 2021',
   'Section 1 (page 2): employees "may apply for pro rata long service leave on full pay, or half pay, after completing '
@@ -94,21 +94,25 @@ out.pages.extend(pikepdf.open(buf).pages)
 stamps=[None]
 for f,pp,label,_,_ in TABS:
     src=pikepdf.open(INST+f)
-    idx = [p-1 for p in pp] if pp else range(len(src.pages))
-    for k in idx:
-        out.pages.append(src.pages[k])
-        stamps.append((label, k+1))
+    pairs = pp if pp else [(i+1, str(i+1)) for i in range(len(src.pages))]
+    for pnum, printed in pairs:
+        out.pages.append(src.pages[pnum-1])
+        stamps.append((label, printed))
 total=len(out.pages)
 # footer stamps
 _keep=[]
 for n,info in enumerate(stamps):
     if info is None: continue
-    label,srcpage=info
+    label,printed=info
+    txt=(f'MSH-INJ-5795 · Cory Shepherd 388372 · Long service leave – the instruments · '
+         f'{label} · at page {printed} · page {n+1} of {total}')
     b=io.BytesIO(); c=_canvas.Canvas(b,pagesize=A4)
-    c.setFont('Helvetica',6.2); c.setFillColorRGB(.35,.35,.35)
-    c.drawRightString(A4[0]-14*mm, 7*mm,
-        f'MSH-INJ-5795 · Cory Shepherd 388372 · Long service leave – the instruments · '
-        f'{label} · source page {srcpage} · page {n+1} of {total}')
+    FS=6.0; c.setFont('Helvetica',FS)
+    w=c.stringWidth(txt,'Helvetica',FS); x=A4[0]-12*mm-w; y=3.6*mm
+    c.setFillColorRGB(1,1,1)
+    c.rect(x-1.5*mm, y-1.2*mm, w+3*mm, FS+1.8, stroke=0, fill=1)
+    c.setFillColorRGB(.35,.35,.35); c.setFont('Helvetica',FS)
+    c.drawString(x, y, txt)
     c.save(); b.seek(0)
     _sp=pikepdf.open(b); _keep.append(_sp)
     out.pages[n].add_overlay(_sp.pages[0])
