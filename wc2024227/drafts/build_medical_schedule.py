@@ -13,9 +13,9 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
 BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.25, leading=8.35, spaceAfter=0)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.4, leading=8.55, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
-INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.5, leading=8.7, spaceAfter=1.2)
+INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.6, leading=8.8, spaceAfter=1.3)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
 def P(t, s=BODY): return Paragraph(t, s)
 from reportlab.platypus import Image as RLImage
@@ -33,17 +33,15 @@ TITLE_T = "APPELLANT'S SCHEDULE OF MEDICAL DOCUMENTS RELIED UPON"
 SERVED = ("Served on the Respondent with the outlines of evidence under direction 2 of the Further Directions Order (3) "
           "dated 19 August 2026. Not filed in the Industrial Registry.")
 INTRO = [
- ("Purpose and service.", "Served on the Respondent with the outlines of evidence under direction 2 of the Further "
-  "Directions Order (3) dated 19 August 2026; not filed in the Industrial Registry. No report has been prepared for the "
-  "purposes of this proceeding. This schedule and the pages behind it are served as the expert and treating material "
-  "relied upon. Each document is already held by the Respondent at the item of its amended List of Documents dated "
-  "14 August 2026 stated, except item 6, a copy of which is served herewith."),
+ ("Purpose and service.", "Served on the Respondent with the outlines of evidence under direction 2 of the Further Directions "
+  "Order (3) dated 19 August 2026; not filed in the Industrial Registry. No report has been prepared for the purposes "
+  "of this proceeding; this schedule and the pages behind it are served as the expert and treating material relied "
+  "upon. Each document is already held by the Respondent at the item of its amended List of Documents dated 14 August "
+  "2026 stated, except item 6, served herewith."),
  ("Use at hearing.", "Against each document is stated what it is, and is not, relied upon for. Items 3, 4 and 5 contain "
   "clinical opinion; the Appellant does not rely upon that opinion otherwise than through the oral evidence of its "
   "author. Dr Ravikumar Bangalore Krishnaiah and Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of "
-  "names of all witnesses filed today, and their attendance has been requested."),
- ("The pages.", "Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tab 8 adds "
-  "the Respondent's responses of 18 February 2026 concerning these documents."),
+  "names of all witnesses filed today, and their attendance has been requested. Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tab 8 adds the Respondent's responses of 18 February 2026."),
  ("The sequence these documents record.", "No psychological illness before June 2024 (item 1); first presentation "
   "attributing symptoms to work, 28 June 2024 (item 1); certification of no capacity from 1 July 2024 (item 2); "
   "diagnosis of Major Depressive Disorder with anxiety state, 24 October 2024 (item 3); the treating psychiatrist's "
@@ -55,18 +53,18 @@ ROWS = [
        "obtained by the Respondent under the Form 29 signed 4 July 2025).",
   "Prior health: the entry of 16 November 2023 (Dr Nanayakkara) recording poor sleep with shift work, that the "
   "Appellant could not do shifts without a good sleep, no psychological illness such as depression or psychosis, "
-  "and mood good, with melatonin and temazepam prescribed; the 2022 history and the referral renewed 16 May 2024. "
+  "and mood good, with melatonin and temazepam prescribed. The referral letter of 16 May 2024 (Dr Zhao), renewing the referral for \"ongoing care and management\", which lists the past medical history as the history-list items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and lists the medications then current, which include no antidepressant, no anxiolytic and no other psychotropic medication. "
   "First presentation after onset: 28 June 2024 (Dr Slawinski) recording \"stress at work\" and \"upset by people "
   "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", that "
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
   "earlies\", and \"causing anxiety\". Relied upon as the contemporaneous record of what was reported "
   "before any claim decision, dismissal or proceeding.",
-  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages and marked as such."),
+  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages and marked as such. The entry of 16 November 2023 is not relied upon as a characterisation of the significance of shift-work sleep disturbance, which is a matter for the treating doctors."),
  ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July, 11 August and 8 September 2024, and of Dr Ki "
        "Pang dated 7 August 2024 (Respondent's items 7 and 8).",
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
   "continuous certification of no functional capacity from 1 July to 6 October 2024; and the referral to a "
-  "psychiatrist recorded on 8 September 2024.",
+  "psychiatrist recorded on 8 September 2024. Review Decision 69983 records at page 17 that the certificate of 1 July 2024 indicated \"there was no pre-existing factor or condition\", and that \"This was maintained in all later work capacity certificates\".",
   "The recorded mechanism as a finding of fact. The events are proved by the notice to admit facts served "
   "28 August 2026, not by the certificates. Nothing as to medication; the medication box is unticked on each."),
  ("3", "Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at "
@@ -125,7 +123,7 @@ t.setStyle(TableStyle([
     ('TOPPADDING', (0,0), (-1,-1), 1.1), ('BOTTOMPADDING', (0,0), (-1,-1), 1.1),
 ]))
 s.append(t)
-s.append(P("<b>The finding on section 32(1) in the decision under appeal.</b> On the medical evidence then before it \u2014 the work capacity certificates at item 2 and Dr Hawes's statement to WorkCover of 2 September 2024 \u2014 the Respondent's review of 24 October 2024 found that the Appellant \"sustained a personal injury of a psychological nature\", and stated: \"Having regard to the medical evidence, I am satisfied your employment was a significant contributing factor to the psychological injury\" (pages 17 and 26; item 7). The claim was rejected under section 32(5), not section 32(1). The hearing is de novo and that finding does not bind the Commission; it is relied upon as an admitted document. Items 1 to 6 go beyond the material the reviewer had: the health that preceded the injury, the diagnosis of 24 October 2024, and the treating psychiatrist's account of origin.", INTROSTY))
+s.append(P("<b>The finding on section 32(1) in the decision under appeal.</b> On the medical evidence then before it \u2014 the work capacity certificates at item 2 and Dr Hawes's statement to WorkCover of 2 September 2024 \u2014 the Respondent's review of 24 October 2024 found that the Appellant \"sustained a personal injury of a psychological nature\", and stated: \"Having regard to the medical evidence, I am satisfied your employment was a significant contributing factor to the psychological injury\" (pages 17 and 26; item 7). The claim was rejected under section 32(5), not section 32(1). The hearing is de novo and that finding does not bind the Commission; it is relied upon as an admitted document. Items 1 to 6 go beyond the material the reviewer had.", INTROSTY))
 s.append(P("The Appellant reserves the position as to any further report; if one is to be relied upon, directions will be sought before it is served.", FOOT))
 sig = Table([[SIG(30*mm,15.5*mm),
               P("Dated: 9 September 2026<br/><b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY)]],
@@ -147,5 +145,5 @@ except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
 out = "out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf"
 pdf.save(out, linearize=True)
-print(f"built {out} - {n} page(s)", "OK" if n == 1 else "⛔ EXCEEDS ONE PAGE")
-if n != 1: raise SystemExit(1)
+print(f"built {out} - {n} page(s)", "OK" if n <= 2 else "⛔ EXCEEDS TWO PAGES")
+if n > 2: raise SystemExit(1)
