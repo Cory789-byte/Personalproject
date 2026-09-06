@@ -56,18 +56,37 @@ three periods of leave without pay. I have four questions about it.
 
 3. On what basis was 21 June to 20 September 2024 classified as it was?
 
-   That period is 91 of the 188 days. My application for workers' compensation was lodged
-   on 1 July 2024 and rejected on 13 September 2024, both within it, and I was certified as
-   having no functional capacity from 1 July 2024.
+   That period is 91 of the 188 days.
 
-   The table has a row for special leave to claim workers' compensation, for which the
-   period recognised for long service leave is "Any period." On that row the whole of the
-   period is credited and the date moves back to late June 2026.
+   The leave type recorded against those days is "Leave Without Pay" (LWOP). That is not
+   one of the types in the "Leave credited as service" table. The table lists sick leave,
+   parental leave, special leave, purchased leave, study leave, special leave to undertake
+   service overseas, special leave to claim workers' compensation, and defence reserve
+   forces leave. A characterisation has therefore been made somewhere, and I would like to
+   know which type was chosen and on what basis.
 
-   The general special leave row recognises only "Any continuous period not exceeding 9
-   working days", and note (3) provides that where the total exceeds that, none of it is
-   credited. That row would explain all three exclusions. If it is the row applied to a
-   period of certified incapacity with a claim on foot, I would like to understand why.
+   The absence was medical from the outset. My leave record shows sick leave on 7, 8 and
+   9 June 2024, including sick leave without pay on 9 June, and leave without pay from
+   10 June. The work capacity certificate of 1 July 2024 records the date of injury as
+   18 June 2024; a medical certificate was issued on 28 June 2024; and I was certified as
+   having no functional capacity from 1 July 2024. My application for workers' compensation
+   was lodged on 1 July 2024 and rejected on 13 September 2024.
+
+   Two rows of the table would fit that absence, and both credit the period:
+
+     - sick leave, for which the period recognised is "The first 3 months of any continuous
+       period" - and 21 June to 20 September 2024 is three months less a day; and
+     - special leave to claim workers' compensation, for which it is "Any period."
+
+   The row that would produce the exclusion is general special leave, which recognises only
+   "Any continuous period not exceeding 9 working days", with note (3) providing that where
+   the total exceeds that, none of the period is credited.
+
+   I note as well that clause 5.2 of Directive 15/24 provides that where multiple types of
+   leave without salary are accessed consecutively within a continuous period, entitlements
+   are "based on and restricted to those available under the initial leave type taken". On
+   my record the initial type was sick leave. Directive 01/19 contains no equivalent
+   provision.
 
 4. Which directive was applied to that 2024 period?
 
