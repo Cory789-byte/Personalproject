@@ -115,7 +115,7 @@ OUTLINES = [
     "verbally, no safety assessment, investigation or change of procedure followed any complaint I made "
     "about misdirected calls, directory accuracy or fatigue before 30 June 2024, which is what Dr Hawes "
     "recorded on 1 July 2024 as \"they don't listen to his complaints\". "
-    "<i>[&para;&para; 143&ndash;181, 266&ndash;267, 283&ndash;299]</i>"),
+    "<i>[&para;&para; 143&ndash;181, 266&ndash;267, 287&ndash;294]</i>"),
    ("My health before June 2024.", "That before 18 June 2024 I had never been diagnosed with or "
     "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
     "with shift work, that I could not do shifts without a good sleep, no psychological illness "
