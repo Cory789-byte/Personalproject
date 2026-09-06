@@ -28,12 +28,15 @@ TABS = [
   '"is not broken by an absence, including through illness or injury - (a) on paid leave approved by the employer; or '
   '(b) on unpaid leave approved by the employer".',
   'The remainder of the 816-page reprint. Section 134(3) runs across two pages and both are included.'),
- ('ATT03_HHS_General_Employees_Award_2015.pdf', [1,40],
+ ('ATT03_HHS_General_Employees_Award_2015.pdf', [1,5,16,40,51],
   'Hospital and Health Service General Employees (Queensland Health) Award - State 2015',
-  'Clause 22(a) (page 40): long service leave "is provided for in Division 9 of the QES". Clause 22(c) (same page): '
-  '"Employees who have completed 7 years\' continuous service are entitled to take long service leave on full pay or '
-  'half pay."',
-  'The remainder of the Award. Page 1 is included to identify the instrument.'),
+  'Clause 4.1 (page 5): the Award applies to "those employees described in Schedules 2, 3, 4, 5 and 6" and to "each '
+  'hospital and health service, in their capacity as the employer". Clause 12.1(a) (page 16): the administrative '
+  'stream. Schedule 3 (page 51): Administrative Officer Level 3 (AO3). Clause 22(a) (page 40): long service leave "is '
+  'provided for in Division 9 of the QES". Clause 22(c) (same page): "Employees who have completed 7 years\' '
+  'continuous service are entitled to take long service leave on full pay or half pay."',
+  'The remainder of the Award. Page 1 is included to identify the instrument; pages 5, 16 and 51 to show that it '
+  'covers an Administration Officer AO3 employed by a hospital and health service.'),
  ('ATT02_EB12_CA_No12_2025.pdf', [1,37],
   'Queensland Public Health Sector Certified Agreement No. 12',
   'Clause 9.10.1 (page 37): "Long service leave entitlements and conditions are outlined in HR Policy C38 Long Service '
