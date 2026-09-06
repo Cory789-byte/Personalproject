@@ -28,7 +28,8 @@ INTRO = ("No report has been prepared for the purposes of this proceeding. The A
          "and reports below, each of which is already held by the Respondent at the item of its amended List of Documents "
          "dated 14 August 2026 stated, except item 6, a copy of which is served with this schedule. Against each document "
          "is stated what it is relied upon for and what it is not relied upon for, so that its use at the hearing is clear. The "
-         "pages relied upon follow at Tabs 1 to 7; pages not relied upon are omitted, and each tab sheet identifies them.")
+         "pages relied upon follow at Tabs 1 to 7; pages not relied upon are omitted, and each tab sheet identifies them. "
+         "Tab 8 adds the Respondent's own responses of 18 February 2026 concerning these documents.")
 
 ROWS = [
  ("1", "General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024 (Respondent's item 11; "
@@ -56,7 +57,8 @@ ROWS = [
   "Major Depressive Disorder with anxiety state\"; that fluoxetine was increased to two capsules \"from today\" and "
   "Seroquel 25 mg commenced at night, \"to restore basic needs- sleep, eating and routine\". Read with item 2, it "
   "records the progression of the injury certified as \"anxiety, stress\" on 1 July 2024 to a depressive "
-  "disorder by 24 October 2024.",
+  "disorder by 24 October 2024. The Appellant's email to QSuper at 5:12 pm that day (\"I have finally been able "
+  "to see a psychiatrist today\") is reproduced with it.",
   "The reference to preoccupation with the claim as a cause of the injury. The injury relied upon is that of "
   "18 June 2024; the email records its state four months later."),
  ("4", "Report of Dr Krishnaiah, Mind and Memory Service, 13 February 2025, prepared for QSuper "

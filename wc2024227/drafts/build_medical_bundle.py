@@ -37,11 +37,12 @@ TABS=[
       incl="The certificates of 7 August 2024 (Dr Pang), 11 August 2024 and 8 September 2024 (Dr Hawes), reproduced from the scanned copies annexed to the Appellant's application in TD/2024/110 filed 25 October 2024. Together with the certificate of 1 July 2024 at Tab 1 (bundle page 9), they certify no capacity for any work continuously from 1 July to 6 October 2024, each recording the stated date of injury as 18 June 2024 and first presentation on 1 July 2024; the certificate of 8 September 2024 records the referral to a psychiatrist.",
       omit="None. The medication box on each certificate is unticked; nothing is relied upon as to medication from these certificates.",
       src=('pdf', D+'related-matters/TD2024-110_Form12_Application_for_reinstatement_stamped_25.10.2024.pdf', [22,24,23])),
- dict(n=3, title="Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at 11:45 am, \"Medications\"",
-      held="Respondent's amended List of Documents item 9; Appellant's List item 22.",
-      incl="Page 1, the email as forwarded from the Appellant's mailbox on 25 November 2024, bearing the original header of 24 October 2024 11:45 am.",
-      omit="Page 2 (the continuation of the sender's signature block and a list of helpline numbers). Not relied upon.",
-      src=('pdf', D+'medical/2024-10-24_1145_Krishnaiah_email_Medications_MDD_with_anxiety_state_fluoxetine_increase_Seroquel_LODitem9.pdf', [1])),
+ dict(n=3, title="Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at 11:45 am, \"Medications\"; and the Appellant's email to QSuper at 5:12 pm the same day",
+      held="The practice email: Respondent's amended List of Documents item 9; Appellant's List item 22. The QSuper email: from the QSuper income-protection correspondence bundle held by the Appellant; served herewith.",
+      incl="Page 1 of the practice email, as forwarded from the Appellant's mailbox on 25 November 2024 and bearing the original header of 24 October 2024 11:45 am. Then the page of the QSuper correspondence bundle carrying the Appellant's email of 24 October 2024 at 5:12 pm (\"I have finally been able to see a psychiatrist today\"), which fixes the date of first consultation from a second, contemporaneous document.",
+      omit="Page 2 of the practice email (the continuation of the sender's signature block and a list of helpline numbers). The remainder of the QSuper bundle. Neither is relied upon.",
+      srcs=[('pdf', D+'medical/2024-10-24_1145_Krishnaiah_email_Medications_MDD_with_anxiety_state_fluoxetine_increase_Seroquel_LODitem9.pdf', [1]),
+            ('pdf', D+'2026-07-14_QSuper_IP_RTW_Correspondence_Bundle.pdf', [4])]),
  dict(n=4, title="Report of Dr Krishnaiah, Mind and Memory Service, 13 February 2025, prepared for QSuper",
       held="Respondent's amended List of Documents item 10.",
       incl="All four pages. The report is reproduced whole so that nothing relied upon is read out of its context.",
@@ -62,6 +63,11 @@ TABS=[
       incl="Page 17 (the medical evidence and the finding that employment was a significant contributing factor), and pages 26 and 27 (the findings on management action and the conclusion).",
       omit="The remaining 25 pages, which the Respondent holds and which are not relied upon for the purposes stated in the schedule.",
       src=('pdf', D+'Review_Decision_69983_24.10.2024.pdf', [17,26,27])),
+ dict(n=8, title="The Respondent's responses of 18 February 2026 to the Appellant's first notice to admit, so far as they concern the medical documents",
+      held="The Respondent's own document, served by it on 18 February 2026.",
+      incl="Page 4 of the notice (items 32 to 38: the 16 November 2023 entry, the Hawes certificate, the Review Decision finding and the Krishnaiah diagnosis) and page 9 of the response (rows 30 to 36, answering paragraphs 33 to 39), in which the Respondent admits that each document exists and says what it says, admits the contents of the Review Decision, and reserves only accuracy and relevance.",
+      omit="The remaining pages of the notice and response, which concern other subjects.",
+      src=('pdf', D+'2026-02-18_Form24_Response_and_email_communication.pdf', [4,9])),
 ]
 
 def tab_sheet(t):
@@ -72,7 +78,7 @@ def tab_sheet(t):
        P("Where the Respondent holds it",LAB),P(t['held']),
        P("Pages included",LAB),P(t['incl']),
        P("Pages omitted, and why",LAB),P(t['omit']),
-       Spacer(1,4*mm),P("Schedule row "+str(t['n'])+" states what this document is, and is not, relied upon for.",B)]
+       Spacer(1,4*mm),P(("Schedule row "+str(t['n'])+" states what this document is, and is not, relied upon for.") if t['n']<=7 else "This tab is added so that the Respondent's own position on the documents at Tabs 1, 2, 4 and 7 sits with them.",B)]
     doc.build(s); buf.seek(0); return pikepdf.open(buf)
 
 def scan_page(path):
@@ -96,15 +102,15 @@ add(pikepdf.open('out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf'))
 stamps=[('Schedule',None)]  # per output page: (label)
 for t in TABS:
     ts=tab_sheet(t); add(ts); stamps.append((f"Tab {t['n']}", 'sheet'))
-    if t['src'] is None: continue
-    kind,path,pages=t['src']
-    if kind=='pdf':
+    srcs=t.get('srcs') or ([t['src']] if t.get('src') else [])
+    for (kind,path,pages) in srcs:
+      if kind=='pdf':
         src=pikepdf.open(path); red=t.get('redacted',{})
         for pno in pages:
             if pno in red: add(scan_page(red[pno]))
             else: add(src,[pno])
             stamps.append((f"Tab {t['n']}", pno))
-    else:
+      else:
         add(img_page(path)); stamps.append((f"Tab {t['n']}", 'image'))
 
 N=len(out.pages)
