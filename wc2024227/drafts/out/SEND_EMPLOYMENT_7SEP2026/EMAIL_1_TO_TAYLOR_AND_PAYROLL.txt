@@ -13,26 +13,33 @@ calculation sent through that afternoon.
 
 THE ONE THING THAT IS TIME CRITICAL
 
-Could my long service leave please be entered from 13 July 2026, and on its exhaustion
-annual leave, as applied for on 31 August 2026, and entered before Payroll processes the
+Could my long service leave please be entered from 13 July 2026, followed on its exhaustion
+by annual leave, as applied for on 31 August 2026 - and entered before Payroll processes the
 run for the pay day of Wednesday 9 September 2026.
 
 That is the only part of this email that is urgent. Everything below it can be answered in
 your own time, and I would rather the leave was entered than that it waited on the answers.
 
-If the leave cannot be entered through the ordinary process in time for that run, could an
-ad hoc payment please be raised against it instead. Section 5 of HR Policy C13 sets that
-deadline at "5:00 PM on pay day Wednesday".
+If it is not practicable to enter the leave in time for that pay, could an ad hoc payment
+please be arranged for the amount due, or could you let me know what is needed from me to
+enable one. Section 5 of HR Policy C13 lists the submission deadline for ad hoc requests as
+"5:00 PM on pay day Wednesday", and section 8 describes the process as a way of obtaining a
+payment that was missed "outside of the regular pay day schedule". I note that section 8
+also says the process "is not to be used for payment of missed pay for extended periods",
+and directs longer periods to section 9. I am therefore asking for the ad hoc only as a
+fallback for the current pay period, not for the whole period since 13 July.
 
 I make the application on the same basis as my earlier ones: under protest, and subject to
 re-credit. If it is later determined that I was not eligible from 13 July 2026, I ask that I
-be told before any recovery is commenced and that any adjustment be dealt with under HR
-Policy C48, so that it can be worked out rather than simply reversed against me.
+be notified before any recovery action is commenced, and that any adjustment be dealt with
+in accordance with HR Policy C48 where applicable, so that it can be worked out rather than
+simply reversed against me.
 
 Where this leaves me, briefly. I have been held out of the workplace since 3 July 2026,
 certified fit with restrictions on the Health Service's own form that same day. I have
-received no wages since 13 July. Friday's payment was not wages - it was my own sick leave
-and recreation leave. I am now funding the same absence from my own long service leave.
+received no wages since 13 July. Friday's payment drew on my own accrued sick leave
+and recreation leave balances rather than being a payment of wages. I am now funding the
+same absence from my own long service leave.
 
 --------------------------------------------------------------------------------
 
@@ -88,17 +95,22 @@ three periods of leave without pay. I have four questions about it.
    my record the initial type was sick leave. Directive 01/19 contains no equivalent
    provision.
 
-4. Which directive was applied to that 2024 period?
+4. Which instrument was applied to that 2024 period, and on what temporal basis?
 
-   Directive 15/24 states an effective date of 30 September 2024, which is after the period
-   closed. If it is the one being applied, could you please identify the provision that
-   allows it to reach back.
+   I accept that Directive 15/24 applies to me now. Clause 4.1(b)(ii) applies it to
+   industrial instrument employees employed under the establishing legislation of a Hospital
+   and Health Service, which describes my position. My question is about timing, not
+   coverage: its effective date is 30 September 2024, ten days after the period closed, and
+   I cannot find a transitional or retrospective provision in it. If Directive 15/24 was
+   applied to that period, could you please identify the provision on which that is based.
 
-   If Directive 01/19 was applied instead, could you please identify the provision that
-   makes it applicable to me. Clause 4 of 01/19 applies it to public service officers and to
-   employees engaged under sections 147(2)(a) and 148(2)(a) of the Public Service Act 2008.
-   I am appointed under section 67 of the Hospital and Health Boards Act 2011 and employed
-   by the Health Service.
+   If Directive 01/19 was applied instead, could you please identify the basis on which it
+   applied to my employment, and the provision used to classify the period. Clause 4 of
+   01/19 applies it to public service officers and to employees engaged under sections
+   147(2)(a) and 148(2)(a) of the Public Service Act 2008. I am appointed under section 67
+   of the Hospital and Health Boards Act 2011 and employed by the Health Service, and 01/19
+   does not name Hospital and Health Services in the way that clause 4.1(b)(ii) of 15/24
+   later did.
 
    I have looked at 01/19 itself, at HR Policy C38 - which lists the directives it relies on
    and does not list one on leave credited as service - and at the Agreement, and I have not
@@ -118,10 +130,18 @@ of the 103 leave without pay entries on my record is marked approved.
 Whether a period counts towards the qualifying period is the separate question, and that is
 what the directive table governs. My four questions go to that, not to continuity.
 
-Attached: "Long service leave - the instruments" (45 pages). The first page is an index
-saying what each tab carries and at which page, and the file is bookmarked by tab. It holds
-the Industrial Relations Act extracts, the Award, the Agreement, HR Policies C38 and C13,
-and Directives 10/24, 15/24 and 01/19.
+Attached: "Long service leave - the instruments", 45 pages, in eight tabs. The first page is
+an index saying what each tab carries and at which page of the source document, and the file
+is bookmarked by tab:
+
+  1  Industrial Relations Act 2016 - sections 90(2), 94 and 134(3)
+  2  Hospital and Health Service General Employees (Queensland Health) Award - State 2015
+  3  Queensland Public Health Sector Certified Agreement (No. 12) 2025
+  4  HR Policy C38, Long Service Leave - in full
+  5  Directive 10/24, Long Service Leave - in full
+  6  HR Policy C13, Payment of salaries and wages - in full
+  7  Directive 15/24, Leave without Salary Credited as Service - in full
+  8  Directive 01/19, Leave without Salary Credited as Service - in full, as superseded
 
 Kind regards,
 
