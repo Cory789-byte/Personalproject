@@ -13,7 +13,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
 BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.45, leading=8.6, spaceAfter=0)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.25, leading=8.35, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
 INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.5, leading=8.7, spaceAfter=1.2)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
@@ -116,7 +116,7 @@ data = [[Paragraph("No.", CELLB), Paragraph("Document, and where the Respondent 
 for n, d, r, nr in ROWS:
     data.append([C(n), C(d), C(r), C(nr)])
 W = A4[0] - 30*mm
-t = Table(data, colWidths=[7*mm, W*0.30, W*0.45, W*0.25 - 7*mm], repeatRows=1)
+t = Table(data, colWidths=[7*mm, W*0.26, W*0.47, W*0.27 - 7*mm], repeatRows=1)
 t.setStyle(TableStyle([
     ('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
     ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#EEEEEE')),
@@ -125,6 +125,7 @@ t.setStyle(TableStyle([
     ('TOPPADDING', (0,0), (-1,-1), 1.1), ('BOTTOMPADDING', (0,0), (-1,-1), 1.1),
 ]))
 s.append(t)
+s.append(P("<b>The finding on section 32(1) in the decision under appeal.</b> On the medical evidence then before it \u2014 the work capacity certificates at item 2 and Dr Hawes's statement to WorkCover of 2 September 2024 \u2014 the Respondent's review of 24 October 2024 found that the Appellant \"sustained a personal injury of a psychological nature\", and stated: \"Having regard to the medical evidence, I am satisfied your employment was a significant contributing factor to the psychological injury\" (pages 17 and 26; item 7). The claim was rejected under section 32(5), not section 32(1). The hearing is de novo and that finding does not bind the Commission; it is relied upon as an admitted document. Items 1 to 6 go beyond the material the reviewer had: the health that preceded the injury, the diagnosis of 24 October 2024, and the treating psychiatrist's account of origin.", INTROSTY))
 s.append(P("The Appellant reserves the position as to any further report; if one is to be relied upon, directions will be sought before it is served.", FOOT))
 sig = Table([[SIG(30*mm,15.5*mm),
               P("Dated: 9 September 2026<br/><b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY)]],
