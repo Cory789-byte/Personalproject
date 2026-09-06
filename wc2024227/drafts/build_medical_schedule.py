@@ -1,0 +1,116 @@
+#!/usr/bin/env python3
+"""WC/2024/227 - Appellant's schedule of medical documents relied upon (direction 2, expert-report limb).
+ONE A4 PAGE. Serve on the Respondent with the outlines by 4.00 pm 9 September 2026. Not filed. Metadata stripped."""
+import io, pikepdf
+from reportlab.lib.pagesizes import A4
+from reportlab.lib import colors
+from reportlab.lib.units import mm
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Table, TableStyle, Spacer
+
+HD   = ParagraphStyle('HD', fontName='Helvetica-Bold', fontSize=8.6, leading=11, textColor=colors.HexColor('#333333'), spaceAfter=1)
+HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
+TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
+SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
+BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=8.2, leading=9.6, spaceAfter=2.5)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.7, leading=9.0, spaceAfter=0)
+CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
+FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=3)
+def P(t, s=BODY): return Paragraph(t, s)
+def C(t): return Paragraph(t, CELL)
+
+HEADER = ("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",
+          "Matter No. WC/2024/227 &nbsp;|&nbsp; Cory Lea Shepherd (Appellant) v Workers' Compensation Regulator (Respondent)")
+TITLE_T = "APPELLANT'S SCHEDULE OF MEDICAL DOCUMENTS RELIED UPON"
+SERVED = ("Served on the Respondent with the outlines of evidence under direction 2 of the Further Directions Order (3) "
+          "dated 19 August 2026. Not filed in the Industrial Registry.")
+INTRO = ("No report has been prepared for the purposes of this proceeding. The Appellant relies on the treating records "
+         "and reports below, each of which is already held by the Respondent at the item of its amended List of Documents "
+         "dated 14 August 2026 stated, except item 6, a copy of which is served with this schedule. Against each document "
+         "is stated what it is relied upon for and what it is not relied upon for, so that its use at the hearing is clear.")
+
+ROWS = [
+ ("1", "General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024 (Respondent's item 11; "
+       "obtained by the Respondent under the Form 29 signed 4 July 2025).",
+  "Prior health: the entry of 16 November 2023 (Dr Nanayakkara) recording poor sleep with shift work, that the "
+  "Appellant could not do shifts without a good sleep, no psychological illness such as depression or psychosis, "
+  "and mood good, with melatonin and temazepam prescribed; the 2022 history and the referral renewed 16 May 2024. "
+  "First presentation after onset: 28 June 2024 (Dr Slawinski) recording \"stress at work\" and \"upset by people "
+  "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", that "
+  "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
+  "earlies\", and \"causing anxiety\". These entries are relied upon as the contemporaneous record of what was "
+  "reported before any claim decision, dismissal or proceeding.",
+  "Entries unrelated to the injury."),
+ ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July 2024, 11 August 2024 and 8 September 2024 "
+       "(Respondent's item 7).",
+  "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
+  "certification of no functional capacity from 1 July 2024; and the referral to a psychiatrist recorded on "
+  "8 September 2024.",
+  "The recorded mechanism as a finding of fact. The events are proved by the notice to admit facts served "
+  "28 August 2026, not by the certificate."),
+ ("3", "Email of Dr Ravikumar Bangalore Krishnaiah noting injury and medication, 24 October 2024 "
+       "(Respondent's item 9; Appellant's List item 22).",
+  "The date of first consultation with the treating psychiatrist, 24 October 2024, and the medication then "
+  "commenced.",
+  "Any matter beyond its terms."),
+ ("4", "Report of Dr Krishnaiah, Mind and Memory Service, 13 February 2025, prepared for QSuper "
+       "(Respondent's item 10).",
+  "Diagnosis: Major Depressive Disorder with anxious distress (DSM-5 296.23). Severity and functional effect, "
+  "and treatment (fluoxetine increased to three capsules daily; quetiapine 25 mg at night). The treating "
+  "clinician's account of origin: \"workplace stress stemming from issues with management and rostering\"; that "
+  "the issues \"began approximately one year ago when a new manager was appointed\"; pay \"withheld or delayed for "
+  "up to five months at a time, leading to significant financial stress\"; and that \"premature exposure to the "
+  "workplace is more likely result in significant deterioration\".",
+  "Attribution among the individual events at paragraphs 2 to 7 of the Appellant's outline of evidence; any "
+  "matter after 24 October 2024 as a cause of the injury. The report was prepared for QSuper and is tendered as "
+  "a treating record, not as a report prepared for this proceeding."),
+ ("5", "Clinical records of Dr Krishnaiah from 24 October 2024 (offered by the practice on 5 September 2026 and "
+       "requested; not yet received).",
+  "What was reported at the first consultation and when; diagnosis and prescribing over time. To be served on "
+  "receipt. If any direction is required for reliance on them, the Appellant will apply for it.",
+  "Nothing until received."),
+ ("6", "Employee Capability Checklist completed by Dr Day Hong Ma, 3 July 2026 (copy served herewith).",
+  "Current capacity and restrictions, and the continuing effect of the injury, including \"symptom exacerbation "
+  "on exposure to the identified workplace stressors\".",
+  "Causation. It post-dates 1 July 2024 and is relied upon for effect and capacity only."),
+ ("7", "Review Decision 69983, reasons dated 24 October 2024, pages 26 to 27 (Respondent's item 4; contents "
+       "admitted 18 February 2026).",
+  "That the Respondent's own review found \"a personal injury of a psychological nature\" and that employment "
+  "\"was a significant contributing factor\" as to factors 2, 3 and 4, on the medical material then before it.",
+  "As a binding determination. The hearing is de novo; the finding is relied upon as an admitted document."),
+]
+
+s = [P(HEADER[0], HD), P(HEADER[1], HD2), P(TITLE_T, TITLE), P(SERVED, SUB), P(INTRO)]
+data = [[Paragraph("No.", CELLB), Paragraph("Document, and where the Respondent holds it", CELLB),
+         Paragraph("Relied upon for", CELLB), Paragraph("Not relied upon for", CELLB)]]
+for n, d, r, nr in ROWS:
+    data.append([C(n), C(d), C(r), C(nr)])
+W = A4[0] - 30*mm
+t = Table(data, colWidths=[7*mm, W*0.30, W*0.45, W*0.25 - 7*mm], repeatRows=1)
+t.setStyle(TableStyle([
+    ('GRID', (0,0), (-1,-1), 0.4, colors.HexColor('#999999')),
+    ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#EEEEEE')),
+    ('VALIGN', (0,0), (-1,-1), 'TOP'),
+    ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
+    ('TOPPADDING', (0,0), (-1,-1), 2), ('BOTTOMPADDING', (0,0), (-1,-1), 2),
+]))
+s.append(t)
+s.append(P("The Appellant reserves the position as to any further report. If one is to be relied upon, directions will be "
+           "sought before it is served.", FOOT))
+s.append(P("Dated: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "
+           "<b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY))
+buf = io.BytesIO()
+doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=11*mm, bottomMargin=11*mm)
+doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 11*mm, A4[0]-30*mm, A4[1]-22*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
+doc.build(s); buf.seek(0)
+pdf = pikepdf.open(buf); n = len(pdf.pages)
+try: del pdf.Root.Metadata
+except (AttributeError, KeyError): pass
+with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
+try: del pdf.Root.Metadata
+except (AttributeError, KeyError): pass
+for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
+out = "out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf"
+pdf.save(out, linearize=True)
+print(f"built {out} - {n} page(s)", "OK" if n == 1 else "⛔ EXCEEDS ONE PAGE")
+if n != 1: raise SystemExit(1)
