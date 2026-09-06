@@ -20,9 +20,9 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.3, spaceAfter=1.4)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.25, leading=9.15, spaceAfter=1.3)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
-FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
+FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=1)
 def P(t, s=INTRO): return Paragraph(t, s)
 
 HEADER = ("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",
@@ -57,12 +57,13 @@ OUTLINES = [
     "three MET calls and two neonatal MET calls while answering that queue of urgent handover, "
     "distressed callers and complaints; and the sick leave of 19 March; that those shifts were not a "
     "staff-initiated swap, the only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour "
-    "agreement applied. That when I raised fatigue, neither my manager nor the Director applied any "
+    "agreement applied; and that the copy I hold of the roster published for that fortnight, 18 to 31 "
+    "March 2024, contains no line for me. That when I raised fatigue, neither my manager nor the Director applied any "
     "fatigue protocol to my roster: no fatigue risk assessment was made, no FRMS register was kept, "
-    "and the toolkit at clause 10.4.1 of the Operations Manual, which I sent to Ms Taylor, had no "
+    "and the toolkit at clause 10.4.1 of the Operations Manual, sent to Ms Taylor, had no "
     "response; my request of 8 April 2024 and the refusal of 1 May 2024; and that Metro South has since "
     "stated in writing that the fatigue risk assessment records and register entries requested \"do not "
-    "exist\", that FRMS training applied only to clinical staff, and that fatigue risk management "
+    "exist\", that FRMS training applied only to clinical staff, and that fatigue management "
     "assessment at the Switchboard began only after 30 June 2024. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;256, 263&ndash;268]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
@@ -93,9 +94,8 @@ OUTLINES = [
     "3:06 pm and 8 May at 5:28 pm, nine calls reaching the wrong team, including the MET call team "
     "ringing because \"switchboard could not tell them where VHUB was\"; that her first response came "
     "on 9 May at 9:20 am, five days and eighteen hours after the first, asking Dr Wong for her business "
-    "hours because they were \"not provided on the rosters\" and noting her DECT phone \"is currently "
-    "switched off\", the manager herself describing the difficulty I describe in this paragraph and "
-    "the next; and at 10:15 am telling the team of "
+    "hours because they were \"not provided on the rosters\" and that her phone was \"switched off\", "
+    "the manager describing the same difficulty; and at 10:15 am telling the team of "
     "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 that \"we "
     "can not help patients or other clinical staff\"; and that on each occasion I could not correct the "
     "entry myself and the delay built up while the correction waited. "
