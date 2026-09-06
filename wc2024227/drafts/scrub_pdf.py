@@ -10,7 +10,7 @@ def scrub(pdf):
         if '/Annots' in pg.obj:
             removed += len(pg.obj['/Annots'])
             del pg.obj['/Annots']
-        for k in ('/Metadata', '/PieceInfo', '/LastModified'):
+        for k in ('/Metadata', '/PieceInfo', '/LastModified', '/StructParents', '/Tabs', '/B', '/Trans', '/AA'):
             if k in pg.obj:
                 del pg.obj[k]
     try:
@@ -20,7 +20,8 @@ def scrub(pdf):
         pass
     for k in list(pdf.docinfo.keys()):
         del pdf.docinfo[k]
-    for k in ('/Metadata', '/PieceInfo', '/Lang', '/Outlines', '/StructTreeRoot', '/MarkInfo'):
+    for k in ('/Metadata', '/PieceInfo', '/Lang', '/Outlines', '/StructTreeRoot', '/MarkInfo',
+              '/Threads', '/AcroForm', '/OpenAction', '/AA', '/SpiderInfo'):
         if k in pdf.Root:
             del pdf.Root[k]
     if '/Names' in pdf.Root and '/EmbeddedFiles' in pdf.Root.Names:
@@ -30,7 +31,9 @@ def scrub(pdf):
 def scrub_file(path):
     pdf = pikepdf.open(path, allow_overwriting_input=True)
     n = scrub(pdf)
-    pdf.save(path, fix_metadata_version=False)
+    # linearize forces a full rewrite, which drops objects no longer referenced
+    # (e.g. structure-tree nodes orphaned by deleting /StructTreeRoot)
+    pdf.save(path, fix_metadata_version=False, linearize=True)
     return n
 
 if __name__ == '__main__':
