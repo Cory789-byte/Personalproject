@@ -139,6 +139,41 @@ for t_ in [
  "version means the shift was allocated off the published roster, and a later version means the roster was changed after "
  "publication.",
 ]: s.append(P(t_))
+s.append(PageBreak())
+s.append(P("D. Every other roster held in the repository",H1))
+s.append(P("Checked 6 September 2026: the 2025-26 published set (20 fortnights, text layer, parsed automatically), the 22 handwritten "
+           "working copies scanned 22 March 2026, and the 2022 rosters inside the Chloe Taylor correspondence pack at pages 119 to 134.",B))
+for t_ in [
+ "<b>2025-26 published rosters: 162 rostered shifts, not one break under twelve hours.</b> The shortest is thirteen hours "
+ "(Mon 3 Nov 2025 15:00-23:00 to Tue 4 Nov 12:00-20:00), then two of fourteen, then a band of fifteen. Taken with the "
+ "2023-24 set, the Appellant was rostered <b>368 shifts across the two periods without a single break below twelve hours</b>. "
+ "The seven-hour break of 17 to 18 March 2024 stands alone in the whole record.",
+ "<b>The night pattern after the return to work.</b> In ten of the twenty fortnights the Appellant is rostered four "
+ "consecutive night shifts; in the other ten, none. A 12:00-20:00 shift appears in this period which does not appear in "
+ "2023-24. The set ends at 29 March 2026. The Employee Capability Checklist of 3 July 2026 recommends no more than two night "
+ "shifts; no roster after that date is held, so nothing in this set tests compliance with it. Rosters from July 2026 onward "
+ "should be sought if that question is to be answered.",
+ "<b>Team leave on the published 2025-26 rosters: 4,662 staff-days on the page, and two sick-leave entries.</b> Across the "
+ "twenty fortnights the rosters record 75 cells of annual leave, 51 of N/A against casual staff, 7 of long service leave, "
+ "3 of leave without pay, and 2 of sick leave. That is the proof of the structural point: a published roster records leave "
+ "approved before publication, so annual leave appears and sick leave does not. The team's unplanned absence cannot be "
+ "counted from published rosters, and any attempt to do so would understate it by an order of magnitude. The source for that "
+ "question is the employer's leave data for the Switchboard cost centre, which should be sought de-identified.",
+ "<b>The handwritten working copies are where changes appear.</b> The 22 pages scanned on 22 March 2026 are the working "
+ "copies of the same 2025-26 fortnights, annotated in pen. On the copy for 9 to 22 June 2025 the Appellant's night shift of "
+ "16 June is altered by hand from 23:00-07:00 to 22:00-06:00, and his shift of 22 June from 07:00-15:00 to 09:15-15:00. "
+ "Similar annotations, including S/L, LWOP and swaps, appear across the team on the other pages. These are the documents in "
+ "which post-publication change is recorded, and no equivalent set is held for 2023-24.",
+ "<b>2022 rosters, and what they show about version control.</b> The Chloe Taylor correspondence pack contains rosters for "
+ "19 September to 2 October 2022 at v3.0 and for 3 to 16 October 2022 at both v1.0 and v3.0. Reissuing a fortnight was "
+ "therefore ordinary practice, and it was ordinarily versioned. That matters for the two 2024 reissues: the fortnights of "
+ "15 to 28 April and 29 April to 12 May 2024 exist in two materially different versions <b>each labelled v1.0</b>. The change "
+ "is unversioned. The point about those reissues is not that they happened, which was routine, but what they contain and "
+ "that the version number did not move.",
+ "<b>Also held and not analysed here:</b> the Consultation Paper on Proposed Rosters of November 2024 and its outcome "
+ "document of December 2024 (14 scanned pages), and the photograph of the roster board of 4 April 2023 in the text messages. "
+ "Both post-date or sit outside the shift-by-shift analysis above.",
+]: s.append(P(t_))
 buf=io.BytesIO(); doc=BaseDocTemplate(buf,pagesize=PS,leftMargin=12*mm,rightMargin=12*mm,topMargin=11*mm,bottomMargin=11*mm)
 doc.addPageTemplates([PageTemplate(id='n',frames=[Frame(12*mm,11*mm,PS[0]-24*mm,PS[1]-22*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
 doc.build(s); buf.seek(0); pdf=pikepdf.open(buf)
