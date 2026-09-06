@@ -27,7 +27,8 @@ SERVED = ("Served on the Respondent with the outlines of evidence under directio
 INTRO = ("No report has been prepared for the purposes of this proceeding. The Appellant relies on the treating records "
          "and reports below, each of which is already held by the Respondent at the item of its amended List of Documents "
          "dated 14 August 2026 stated, except item 6, a copy of which is served with this schedule. Against each document "
-         "is stated what it is relied upon for and what it is not relied upon for, so that its use at the hearing is clear.")
+         "is stated what it is relied upon for and what it is not relied upon for, so that its use at the hearing is clear. The "
+         "pages relied upon follow at Tabs 1 to 7; pages not relied upon are omitted, and each tab sheet identifies them.")
 
 ROWS = [
  ("1", "General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024 (Respondent's item 11; "
@@ -78,10 +79,11 @@ ROWS = [
   "Current capacity and restrictions, and the continuing effect of the injury, including \"symptom exacerbation "
   "on exposure to the identified workplace stressors\".",
   "Causation. It post-dates 1 July 2024 and is relied upon for effect and capacity only."),
- ("7", "Review Decision 69983, reasons dated 24 October 2024, pages 26 to 27 (Respondent's item 4; contents "
-       "admitted 18 February 2026).",
-  "That the Respondent's own review found \"a personal injury of a psychological nature\" and that employment "
-  "\"was a significant contributing factor\" as to factors 2, 3 and 4, on the medical material then before it.",
+ ("7", "Review Decision 69983, reasons dated 24 October 2024, pages 17 and 26 to 27 (Respondent's item 4; "
+       "contents admitted 18 February 2026).",
+  "That the Respondent's own review recorded Dr Hawes's statement to WorkCover of 2 September 2024 that work events "
+  "were the sole cause, found \"a personal injury of a psychological nature\", found employment \"was a significant "
+  "contributing factor\" as to factors 2, 3 and 4, and found the March 2024 rostering to be unreasonable management action.",
   "As a binding determination. The hearing is de novo; the finding is relied upon as an admitted document."),
 ]
 
