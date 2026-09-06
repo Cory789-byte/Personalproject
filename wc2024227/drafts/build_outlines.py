@@ -20,8 +20,8 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.9, spaceAfter=2.0)
-ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.8)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.6, spaceAfter=1.8)
+ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
 def P(t, s=INTRO): return Paragraph(t, s)
 
@@ -46,8 +46,7 @@ OUTLINES = [
     "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
     "handover and distressed patients and families; and why an accurate entry matters where an urgent "
     "page goes to whatever number is recorded. My background: safety "
-    "advisor on Manus Island, Papua New Guinea, and earlier a third-year Bachelor of Nursing student, "
-    "which is why I raised what follows as safety matters. "
+    "advisor on Manus Island, Papua New Guinea, and earlier a third-year Bachelor of Nursing student. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
@@ -93,7 +92,9 @@ OUTLINES = [
     "3:06 pm and 8 May at 5:28 pm, nine calls reaching the wrong team, including the MET call team "
     "ringing because \"switchboard could not tell them where VHUB was\"; that her first response came "
     "on 9 May at 9:20 am, five days and eighteen hours after the first, asking Dr Wong for her business "
-    "hours because they were \"not provided on the rosters\", and at 10:15 am telling the team of "
+    "hours because they were \"not provided on the rosters\" and noting her DECT phone \"is currently "
+    "switched off\", the manager herself describing the difficulty I describe in this paragraph and "
+    "the next; and at 10:15 am telling the team of "
     "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 that \"we "
     "can not help patients or other clinical staff\"; and that on each occasion I could not correct the "
     "entry myself and the delay built up while the correction waited. "
