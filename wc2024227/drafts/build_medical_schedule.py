@@ -48,11 +48,16 @@ ROWS = [
   "8 September 2024.",
   "The recorded mechanism as a finding of fact. The events are proved by the notice to admit facts served "
   "28 August 2026, not by the certificate."),
- ("3", "Email of Dr Ravikumar Bangalore Krishnaiah noting injury and medication, 24 October 2024 "
-       "(Respondent's item 9; Appellant's List item 22).",
-  "The date of first consultation with the treating psychiatrist, 24 October 2024, and the medication then "
-  "commenced.",
-  "Any matter beyond its terms."),
+ ("3", "Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at "
+       "11:45 am, \"Medications\" (Respondent's item 9; Appellant's List item 22).",
+  "That on the morning of 24 October 2024, at the first consultation, the treating psychiatrist told the "
+  "Appellant, and confirmed in writing at 11:45 am that day, that he was \"suffering from psychological injury of "
+  "Major Depressive Disorder with anxiety state\"; that fluoxetine was increased to two capsules \"from today\" and "
+  "Seroquel 25 mg commenced at night, \"to restore basic needs- sleep, eating and routine\". Read with item 2, it "
+  "records the progression of the injury certified as \"anxiety, stress\" on 1 July 2024 to a depressive "
+  "disorder by 24 October 2024.",
+  "The reference to preoccupation with the claim as a cause of the injury. The injury relied upon is that of "
+  "18 June 2024; the email records its state four months later."),
  ("4", "Report of Dr Krishnaiah, Mind and Memory Service, 13 February 2025, prepared for QSuper "
        "(Respondent's item 10).",
   "Diagnosis: Major Depressive Disorder with anxious distress (DSM-5 296.23). Severity and functional effect, "

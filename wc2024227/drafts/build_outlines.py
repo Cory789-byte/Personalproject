@@ -128,9 +128,9 @@ OUTLINES = [
     "earlies\". Lodging my application for compensation "
     "on 1 July 2024. Dr Hawes's certificates of 1 July and 8 September 2024 and his psychiatrist "
     "referral. My first consultation with Dr Krishnaiah on 24 October 2024, on that referral, when I "
-    "was told I had major depressive disorder with anxious distress and was started on fluoxetine; "
-    "the later increase in dose and the addition of quetiapine at night; his written report of "
-    "13 February 2025; and my treatment since. The matters at paragraphs 2 to 7 above are the matters "
+    "was told I had major depressive disorder with anxiety state, confirmed by the practice in writing "
+    "at 11:45 am that day, my fluoxetine increased and quetiapine added at night; his written report "
+    "of 13 February 2025; and my treatment since. The matters at paragraphs 2 to 7 above are the matters "
     "I reported to each doctor, as their records show. I offer no clinical or diagnostic opinion."),
    ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; my "
     "employment ended under abandonment provisions in October 2024 while I held current certificates, "
