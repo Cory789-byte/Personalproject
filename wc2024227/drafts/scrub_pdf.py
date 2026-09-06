@@ -20,7 +20,7 @@ def scrub(pdf):
         pass
     for k in list(pdf.docinfo.keys()):
         del pdf.docinfo[k]
-    for k in ('/Metadata', '/PieceInfo', '/Lang', '/Outlines', '/StructTreeRoot', '/MarkInfo',
+    for k in ('/Metadata', '/PieceInfo', '/Lang', '/StructTreeRoot', '/MarkInfo',
               '/Threads', '/AcroForm', '/OpenAction', '/AA', '/SpiderInfo'):
         if k in pdf.Root:
             del pdf.Root[k]

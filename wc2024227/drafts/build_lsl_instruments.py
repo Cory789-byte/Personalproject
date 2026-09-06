@@ -140,6 +140,17 @@ for k in ('/Metadata','/PieceInfo','/Lang'):
 for pg in out.pages:
     for k in ('/Metadata','/PieceInfo'):
         if k in pg.obj: del pg.obj[k]
+# bookmarks: index page + one per tab, so a reader can jump straight to a provision
+_starts=[]; _n=1
+for f,pp,label,_,_ in TABS:
+    _src=pikepdf.open(INST+f)
+    _cnt=len(pp) if pp else len(_src.pages)
+    _starts.append((label,_n)); _n+=_cnt
+with out.open_outline() as _ol:
+    _ol.root.append(pikepdf.OutlineItem('Index - what each tab carries', 0))
+    for _i,(_lab,_pg) in enumerate(_starts,1):
+        _ol.root.append(pikepdf.OutlineItem(f'Tab {_i} - {_lab}', _pg))
+
 dest='out/LSL_THE_INSTRUMENTS.pdf'
 out.save(dest,fix_metadata_version=False)
 print('built',dest,total,'pages')
