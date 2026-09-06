@@ -37,76 +37,76 @@ TAIL_A = ("This outline states the topics on which I will give oral evidence. It
 
 OUTLINES = [
  ("OUTLINE_00_SHEPHERD", "OUTLINE OF EVIDENCE &ndash; MR CORY LEA SHEPHERD (APPELLANT)", TAIL_A,
-  "I will give evidence of the following.",
-  [("Employment.", "I commenced at Logan Hospital Switchboard in [MONTH] 2019, became permanent "
-    "from 3 March 2021, am classified a continuous shift worker, and went full time from "
-    "16 October 2023."),
-   ("The role.", "Receiving emergency response notifications and distributing them to "
-    "the correct response groups per emergency code procedures, \"strictly adhering to protocols "
-    "and timeframes\"; maintaining the contact and paging numbers on which emergency paging "
-    "depends; keeping \"call queues to minimum at all times\"; and the call and emergency-code "
-    "volume across a shift."),
-   ("The database and the contact book.", "That from 18 July 2023 I could no longer correct entries "
-    "myself; that corrections had to go to Ms Stibbard or Ms Taylor; that the Contact &amp; Number "
-    "Changes book was removed from our room; and what that meant when a number was wrong."),
-   ("The directives.", "The after-hours on-call arrangement of 15 April 2024, the data-entry "
-    "process of 19 April 2024 and the call-routing change of 9 May 2024; that I was not consulted "
-    "before any of them; and what each required of me."),
-   ("Ms Taylor's presence and hours.", "When she was and was not present across 2023&ndash;2024, "
-    "from my own observation; that I did not know her office hours; and my request of 15 May 2024 "
-    "that she state them to the department."),
-   ("What happened at the console.", "What I saw when contact details were wrong &mdash; calls for "
-    "emergency responses and for medical teams reaching the wrong destination between 2 and 8 May "
-    "2024, and delays to urgent results reaching treating staff &mdash; and what I did each time."),
-   ("The communication book.", "The entry I wrote on or about 6 June 2023 about updating on-call "
-    "contact numbers; that it was removed; and what was said to me afterwards, and before whom."),
-   ("August&ndash;September 2023.", "The concerns I raised in writing on 7 August 2023, the meeting "
-    "that followed, and the responses of Ms Taylor and Ms Reese."),
-   ("Special pandemic leave, February 2024.", "That I was unwell with COVID-19; how many times I "
-    "submitted the request and what I attached; the reasons given for each decline; and the "
-    "approval given on the same material."),
-   ("13 and 15 May 2024.", "That I made a complaint on 13 May 2024, later determined to be a public "
-    "interest disclosure (content not set out); that on 15 May 2024 I was directed to retract the "
-    "email in which I had asked about office hours; and that I knew of the email of 9 May 2024 in "
-    "which Ms Taylor asked another person to confirm her hours."),
-   ("Union representation.", "When and to whom I expressed interest in becoming the Switchboard "
-    "delegate; what followed; and my endorsement on or about 3 November 2025."),
-   ("Pay &mdash; what was wrong.", "The public holidays I was not rostered to work between February "
-    "and April 2024 and the difference that made to my pay compared with colleagues. My concern was "
-    "not the amount. It was that my pay was wrong and I could not have it corrected."),
-   ("Pay &mdash; trying to have it corrected.", "That Payroll identified the errors on 3 May 2024 "
-    "and directed my manager to submit an AVAC for each fortnight; that I could not submit an AVAC "
-    "myself; what I did between 3 and 28 May 2024 and what I was told; that on 28 May 2024 I was "
-    "asked to sign a validation of claims older than three months; "
-    "that of the five AVACs recorded for me in that period none was initiated by me; that the two "
-    "AVAC process references Payroll identified do not appear in the record at all; and when I "
-    "stopped pursuing it, and why."),
-   ("The rostering pattern.", "That rostering errors affecting my line recurred across successive "
-    "roster periods, not once; when I identified them and to whom; and Ms Reese's "
-    "acknowledgement of 10 May 2024 of \"a few rostering errors made by Chloe with regards to "
-    "Cory's line in past rosters\"."),
-   ("17 and 18 March 2024.", "Where I lived and my travel time each way; finishing at 23:00 on "
-    "17 March and commencing at 06:00 on 18 March; the rest actually available after travel; "
-    "the sleep I obtained; performing the duties at paragraph 2 in that condition on 18 March; and "
-    "the sick leave I took on 19 March 2024."),
-   ("Fatigue &mdash; what I raised, and what was never in place.", "The fatigue and rostering "
-    "concerns I raised and when; sending the fatigue toolkit to Ms Taylor and receiving no "
-    "response; my request of 8 April 2024 and the refusal of 1 May 2024; and that at no time "
-    "before 30 June 2024 was I given fatigue risk management training, any fatigue or "
-    "psychosocial risk assessment of my rostering, or any fatigue management process."),
+  "I will give evidence of the following. Paragraph references are to the notice to admit facts "
+  "served on the Respondent on 28 August 2026 (the Notice), whose Annexure A holds the documents "
+  "referred to.",
+  [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
+    "casual, became permanent from 3 March 2021, and worked full-time hours from 16 October 2023 "
+    "on my application of 31 August 2023, as a continuous shift worker. The duties: emergency "
+    "response notifications distributed to the response groups under the code procedures, "
+    "\"strictly adhering to protocols and timeframes\"; the pager and on-call records on which the "
+    "hospital's emergency paging depends; the call queues; and some 200 to 300 calls a shift, "
+    "including urgent clinical handover, distressed patients and families, and complaints. "
+    "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
+   ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and what I did about "
+    "it, including seeing my general practitioner on 16 November 2023 about poor sleep with shift "
+    "work, when melatonin and temazepam were prescribed. The shifts of 17 and 18 March 2024: where "
+    "I lived, my travel time each way, finishing at 23:00 and starting at 06:00, the rest and "
+    "sleep actually available, the emergency codes I handled on 18 March, and the sick leave I "
+    "took on 19 March. The fatigue concerns I raised and when; sending the fatigue toolkit to "
+    "Ms Taylor and receiving no response; my request of 8 April 2024 and the refusal of 1 May "
+    "2024; and that before 30 June 2024 I was given no fatigue training, no fatigue or "
+    "psychosocial risk assessment of my rostering, and no fatigue management process. "
+    "<i>[&para;&para; 17&ndash;25, 211&ndash;256, 263&ndash;268]</i>"),
+   ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
+    "early shifts, and of nights followed by days off and then nights again, which I raised on "
+    "16 April 2024; that rostering errors on my line recurred across successive roster periods; "
+    "when I identified each and to whom; and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
+    "rostering errors made by Chloe with regards to Cory's line in past rosters\". "
+    "<i>[&para;&para; 211&ndash;223]</i>"),
+   ("Pay and entitlements.", "The public holidays I was not rostered to work between February and "
+    "April 2024 and the difference that made to my pay; that Payroll identified the errors on "
+    "3 May 2024 and directed my manager to submit an AVAC for each fortnight; that I could not "
+    "submit one myself; what I did and was told between 3 and 28 May 2024; and the validation of "
+    "claims older than three months I was asked to sign on 28 May 2024. The special pandemic "
+    "leave application of February 2024: what I attached, the two declines, and the approval on "
+    "the same material. <i>[&para;&para; 114&ndash;142, 182&ndash;210]</i>"),
+   ("Management and the rules.", "That from 18 July 2023 operators could no longer correct "
+    "database entries and the Contact &amp; Number Changes book was removed, so corrections waited "
+    "on Ms Stibbard or Ms Taylor, including overnight, at weekends and on public holidays; the "
+    "directives of 15 April, 19 April and 9 May 2024, and that I was not consulted before any of "
+    "them; what I saw at the console between 2 and 8 May 2024 when calls reached the wrong teams; "
+    "that I did not know Ms Taylor's hours, my request of 15 May 2024 that she state them, and the "
+    "direction to retract that email; the communication book entry of 6 June 2023 and its "
+    "removal; the concerns I raised on 7 August 2023 and the responses; my complaint of 13 May "
+    "2024, later determined to be a public interest disclosure (content not set out); and my "
+    "interest in becoming the Switchboard union delegate and what followed. "
+    "<i>[&para;&para; 39&ndash;113, 143&ndash;181, 283&ndash;299]</i>"),
+   ("My health before June 2024.", "That before 18 June 2024 I had never been diagnosed with or "
+    "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
+    "with shift work, that I could not do shifts without a good sleep, no psychological illness "
+    "such as depression or psychosis, and mood good. The ADHD and anxiety noted in my history in "
+    "October 2022 and the specialist referral renewed on 16 May 2024, and what each concerned. "
+    "<i>[General-practice records disclosed by the Respondent]</i>"),
+   ("Onset, presentation and diagnosis.", "The symptoms I experienced from about 18 June 2024 and "
+    "their effect on my sleep, concentration, self-care and relationships. Attending Dr Slawinski "
+    "on 28 June 2024, whose note records \"stress at work\" and \"upset by people not following "
+    "rules\", and Dr Hawes on 1 July 2024, whose note records \"work stress\", that \"they withhold "
+    "pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
+    "earlies\", and \"they don't listen to his complaints\". Lodging my application for compensation "
+    "on 1 July 2024. Dr Hawes's work capacity certificates of 1 July and 8 September 2024 and his "
+    "referral to a psychiatrist. My first consultation with Dr Krishnaiah on 24 October 2024, on "
+    "that referral, and my treatment since. The matters at paragraphs 2 to 5 above are the matters "
+    "I reported to each doctor, as their records show. I offer no clinical or diagnostic opinion."),
    ("After 18 June 2024.", "Meetings scheduled while I was on certified leave; that my employment "
-    "was ended under abandonment provisions while I held current medical certificates; and that I "
-    "was subsequently reinstated."),
-   ("Onset and effect.", "The symptoms I experienced and when; the effect on my sleep, health and daily functioning; the "
-    "onset date of 18 June 2024; attending my general practitioner and lodging my application on "
-    "1 July 2024; and my treatment since. I offer no clinical or diagnostic opinion."),
-   ("My access to my own records.", "That my Queensland Health email account was restricted, when "
-    "that occurred, and that I have since been unable to produce from my own records the emails I "
-    "sent and received at work."),
-   ("Documents.", "The rosters and payslips for the relevant periods; my emails and messages "
-    "with my line manager and the Director; the leave and payroll records "
-    "produced by the employer; the role description; and the letter of Metro South Hospital and "
-    "Health Service of 5 June 2026 (ref K-LM26/729)."),
+    "was ended under abandonment provisions in October 2024 while I held current medical "
+    "certificates, and that I was subsequently reinstated; my return to work on reduced hours and "
+    "the leave I have taken since; and that my Queensland Health email account was restricted, so "
+    "that I cannot now produce from my own records the emails I sent and received at work."),
+   ("Documents.", "The rosters and payslips for the relevant periods; my emails and messages with "
+    "my line manager and the Director; the leave and payroll records produced by the employer; "
+    "the role description; the general-practice records and certificates referred to above; and "
+    "the letter of Metro South Hospital and Health Service of 5 June 2026 (ref K-LM26/729)."),
   ]),
 
  ("OUTLINE_01_JEFFREY", "OUTLINE OF EVIDENCE &ndash; MS CAROLYN JEFFREY", TAIL_W,
