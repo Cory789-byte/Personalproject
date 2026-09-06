@@ -12,6 +12,13 @@ HD2=ParagraphStyle('HD2',parent=HD,fontName='Helvetica',spaceAfter=12)
 B=ParagraphStyle('B',fontName='Helvetica',fontSize=10,leading=13.4,spaceAfter=7)
 BB=ParagraphStyle('BB',parent=B,fontName='Helvetica-Bold')
 def P(t,s=B): return Paragraph(t,s)
+from reportlab.platypus import Image as RLImage
+SIGW, SIGH = 38*mm, 20*mm
+def SIG(w=None,h=None):
+    _i = RLImage('assets/SIGNATURE_CoryShepherd.png', width=w or SIGW, height=h or SIGH)
+    _i.hAlign = 'LEFT'
+    return _i
+
 def build(story,out):
     buf=io.BytesIO()
     d=BaseDocTemplate(buf,pagesize=A4,leftMargin=24*mm,rightMargin=24*mm,topMargin=18*mm,bottomMargin=18*mm)
@@ -28,7 +35,7 @@ def build(story,out):
 def head(to):
     return [P("CORY LEA SHEPHERD",HD),
             P("15 Edmond Street, Coomera QLD 4209 &nbsp;|&nbsp; coryshepherd1@hotmail.com &nbsp;|&nbsp; 0422 438 627",HD2),
-            P(to,B), Spacer(1,3*mm), P("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2026",B), Spacer(1,3*mm)]
+            P(to,B), Spacer(1,3*mm), P("9 September 2026",B), Spacer(1,3*mm)]
 COMMON=[
  P("The appeal is a hearing before the Queensland Industrial Relations Commission. Under the Commission's "
    "Workers' Compensation Appeal Guide, all evidence is given orally and there are no witness statements or "
@@ -46,8 +53,8 @@ COMMON=[
 TAIL=[P("Could you please let me know by <b>Friday 2 October 2026</b> whether you are willing to attend, and if so "
         "whether you would prefer to be given an attendance notice. If it is easier, your practice manager can "
         "reply on your behalf.",B),
-      P("I am grateful for your time.",B), Spacer(1,10*mm),
-      P("Yours sincerely,",B), Spacer(1,12*mm),
+      P("I am grateful for your time.",B), Spacer(1,3*mm),
+      P("Yours sincerely,",B), Spacer(1,0.5*mm), SIG(34*mm,18*mm), Spacer(1,0.5*mm),
       P("<b>Cory Lea Shepherd</b>",B)]
 # ---- Krishnaiah ----
 s=head("Dr Ravikumar Bangalore Krishnaiah<br/>Mind and Memory Service<br/>Shop 6, Upper floor, 21 Coomera Grand Drive, Upper Coomera QLD 4209<br/>ravikumar@mindandmemoryservice.com.au")

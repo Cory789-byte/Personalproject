@@ -19,6 +19,13 @@ SUB = ParagraphStyle('S', fontName='Helvetica-Oblique', fontSize=8.2, leading=10
 C   = ParagraphStyle('C', parent=B, fontSize=9.2, leading=11.8, spaceAfter=0)
 CB  = ParagraphStyle('CB', parent=C, fontName='Helvetica-Bold')
 def P(t,s=B): return Paragraph(t,s)
+from reportlab.platypus import Image as RLImage
+SIGW, SIGH = 38*mm, 20*mm
+def SIG(w=None,h=None):
+    _i = RLImage('assets/SIGNATURE_CoryShepherd.png', width=w or SIGW, height=h or SIGH)
+    _i.hAlign = 'LEFT'
+    return _i
+
 
 def doc(story, out, land=False):
     buf=io.BytesIO()
@@ -67,8 +74,9 @@ s+=[Spacer(1,4*mm),
       "Compensation Appeal Guide. The Appellant may apply under Part 6 of that Guide for attendance "
       "notices requiring the attendance of any of the witnesses listed above.",B),
     Spacer(1,10*mm),
-    P("Dated &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2026",B),
-    Spacer(1,10*mm),
+    P("Dated 9 September 2026",B),
+    Spacer(1,4*mm),
+    SIG(),
     P("__________________________________",B),
     P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented",B)]
 doc(s,"out/WITNESS_LIST_SERVE_9SEP2026.pdf")
@@ -77,7 +85,7 @@ doc(s,"out/WITNESS_LIST_SERVE_9SEP2026.pdf")
 s=[P("CORY LEA SHEPHERD",HD), P("15 Edmond Street, Coomera QLD 4209 &nbsp;|&nbsp; coryshepherd1@hotmail.com",HD2),
    P("The Industrial Registrar<br/>Queensland Industrial Relations Commission<br/>qirc.registry@qirc.qld.gov.au",B),
    Spacer(1,3*mm),
-   P("Dated &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2026",B),
+   P("Dated 9 September 2026",B),
    Spacer(1,3*mm),
    P("<b>WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator</b><br/>"
      "<b>Direction 1 of the Further Directions Order (3) dated 19 August 2026</b>",B),
@@ -98,6 +106,6 @@ s=[P("CORY LEA SHEPHERD",HD), P("15 Edmond Street, Coomera QLD 4209 &nbsp;|&nbsp
      "attendance notices and will write to the Commission at that time.",B),
    P("The Appellant may also apply for attendance notices in respect of the witnesses named at items "
      "2 to 6, and will do so sufficiently in advance of the hearing.",B),
-   P("Yours faithfully,",B), Spacer(1,8*mm),
+   P("Yours faithfully,",B), Spacer(1,2*mm), SIG(), Spacer(1,1*mm),
    P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented",B)]
 doc(s,"out/COVERING_LETTER_REGISTRY_9SEP2026.pdf")

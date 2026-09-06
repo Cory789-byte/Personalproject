@@ -17,6 +17,13 @@ CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.7, leading=9.0, spaceAfter
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=3)
 def P(t, s=BODY): return Paragraph(t, s)
+from reportlab.platypus import Image as RLImage
+SIGW, SIGH = 38*mm, 20*mm
+def SIG(w=None,h=None):
+    _i = RLImage('assets/SIGNATURE_CoryShepherd.png', width=w or SIGW, height=h or SIGH)
+    _i.hAlign = 'LEFT'
+    return _i
+
 def C(t): return Paragraph(t, CELL)
 
 HEADER = ("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",
@@ -103,13 +110,14 @@ t.setStyle(TableStyle([
     ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#EEEEEE')),
     ('VALIGN', (0,0), (-1,-1), 'TOP'),
     ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
-    ('TOPPADDING', (0,0), (-1,-1), 2), ('BOTTOMPADDING', (0,0), (-1,-1), 2),
+    ('TOPPADDING', (0,0), (-1,-1), 1.4), ('BOTTOMPADDING', (0,0), (-1,-1), 1.4),
 ]))
 s.append(t)
 s.append(P("The Appellant reserves the position as to any further report. If one is to be relied upon, directions will be "
            "sought before it is served.", FOOT))
-s.append(P("Dated: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; September 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "
-           "<b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY))
+s.append(Spacer(1,0.5*mm))
+s.append(SIG(32*mm,17*mm))
+s.append(P("Dated: 9 September 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY))
 buf = io.BytesIO()
 doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=11*mm, bottomMargin=11*mm)
 doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 11*mm, A4[0]-30*mm, A4[1]-22*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
