@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=5)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=5)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=9.0, leading=11.0, spaceAfter=2.6)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.7, leading=10.5, spaceAfter=2.4)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=2.4)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=5)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -41,22 +41,20 @@ OUTLINES = [
   "served on the Respondent on 28 August 2026 (the Notice), whose Annexure A holds the documents "
   "referred to.",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
-    "casual, became permanent from 3 March 2021, and worked full-time hours from 16 October 2023 "
-    "on my application of 31 August 2023, as a continuous shift worker. The duties: emergency "
-    "response notifications distributed to the response groups under the code procedures, "
-    "\"strictly adhering to protocols and timeframes\"; the pager and on-call records on which the "
-    "hospital's emergency paging depends; the call queues; and some 200 to 300 calls a shift, "
-    "including urgent clinical handover, distressed patients and families, and complaints. "
+    "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
+    "shift worker. The duties: emergency response notifications distributed under the code "
+    "procedures \"strictly adhering to protocols and timeframes\"; the pager and on-call records on "
+    "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
+    "handover and distressed patients and families. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
-   ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and what I did about "
-    "it, including seeing my general practitioner on 16 November 2023 about poor sleep with shift "
-    "work, when melatonin and temazepam were prescribed. The shifts of 17 and 18 March 2024: where "
-    "I lived, my travel time each way, finishing at 23:00 and starting at 06:00, the rest and "
-    "sleep actually available, the emergency codes I handled on 18 March, and the sick leave I "
-    "took on 19 March. The fatigue concerns I raised and when; sending the fatigue toolkit to "
-    "Ms Taylor and receiving no response; my request of 8 April 2024 and the refusal of 1 May "
-    "2024; and that before 30 June 2024 I was given no fatigue training, no fatigue or "
-    "psychosocial risk assessment of my rostering, and no fatigue management process. "
+   ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024, including seeing my "
+    "general practitioner on 16 November 2023 about poor sleep with shift work, when melatonin and "
+    "temazepam were prescribed. The shifts of 17 and 18 March 2024: my travel time each way, "
+    "finishing at 23:00 and starting at 06:00, the rest and sleep actually available, the emergency "
+    "codes I handled on 18 March, and the sick leave of 19 March. The fatigue concerns I raised; "
+    "the toolkit sent to Ms Taylor with no response; my request of 8 April 2024 and the refusal of "
+    "1 May 2024; and that before 30 June 2024 I had no fatigue training, no fatigue or psychosocial "
+    "risk assessment of my rostering, and no fatigue management process. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;256, 263&ndash;268]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
     "early shifts, and of nights followed by days off and then nights again, which I raised on "
@@ -64,24 +62,42 @@ OUTLINES = [
     "when I identified each and to whom; and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
     "rostering errors made by Chloe with regards to Cory's line in past rosters\". "
     "<i>[&para;&para; 211&ndash;223]</i>"),
-   ("Pay and entitlements.", "The public holidays I was not rostered to work between February and "
-    "April 2024 and the difference that made to my pay; that Payroll identified the errors on "
-    "3 May 2024 and directed my manager to submit an AVAC for each fortnight; that I could not "
-    "submit one myself; what I did and was told between 3 and 28 May 2024; and the validation of "
-    "claims older than three months I was asked to sign on 28 May 2024. The special pandemic "
-    "leave application of February 2024: what I attached, the two declines, and the approval on "
-    "the same material. <i>[&para;&para; 114&ndash;142, 182&ndash;210]</i>"),
-   ("Management and the rules.", "That from 18 July 2023 operators could no longer correct "
-    "database entries and the Contact &amp; Number Changes book was removed, so corrections waited "
-    "on Ms Stibbard or Ms Taylor, including overnight, at weekends and on public holidays; the "
-    "directives of 15 April, 19 April and 9 May 2024, and that I was not consulted before any of "
-    "them; what I saw at the console between 2 and 8 May 2024 when calls reached the wrong teams; "
-    "that I did not know Ms Taylor's hours, my request of 15 May 2024 that she state them, and the "
-    "direction to retract that email; the communication book entry of 6 June 2023 and its "
-    "removal; the concerns I raised on 7 August 2023 and the responses; my complaint of 13 May "
-    "2024, later determined to be a public interest disclosure (content not set out); and my "
-    "interest in becoming the Switchboard union delegate and what followed. "
-    "<i>[&para;&para; 39&ndash;113, 143&ndash;181, 283&ndash;299]</i>"),
+   ("Pay and entitlements.", "The public holidays I was not rostered between February and April "
+    "2024 and the difference to my pay; that Payroll identified the errors on 3 May 2024 and "
+    "directed my manager to submit an AVAC for each fortnight; that I could not submit one myself; "
+    "what I was told between 3 and 28 May 2024; and the validation of claims older than three "
+    "months I was asked to sign on 28 May. The special pandemic leave application of February "
+    "2024: what I attached, the two declines, and the approval on the same material. "
+    "<i>[&para;&para; 114&ndash;142, 182&ndash;210]</i>"),
+   ("The database, the misdirected calls, and what I could not fix.", "That from 18 July 2023 "
+    "operators could no longer correct database entries and the Contact &amp; Number Changes book "
+    "was removed, so a wrong number waited on Ms Stibbard or Ms Taylor and after hours had to "
+    "\"wait until either Chloe or myself are back\"; the directives of 15 April, 19 April and 9 May "
+    "2024, and that I was not consulted before any of them. What I saw at the console between 2 and "
+    "8 May 2024: the nine occasions the MASPER Registrar reported of calls reaching the wrong team, "
+    "including the MET call team ringing to ask where the MET call was because \"switchboard could "
+    "not tell them where VHUB was\"; the Integrated Respiratory Service writing on 15 May and again "
+    "on 20 May 2024 that calls were still being put through to them and \"we can not help patients "
+    "or other clinical staff\"; that on each occasion I could not correct the entry myself and the "
+    "delay built up while the correction waited; my recommendation of 20 May 2024 that the clinic "
+    "contact document be reviewed; and Ms Taylor's statement to the department on 9 May 2024 of "
+    "\"many ongoing issues raised by the MASPER and the medical department about calls being "
+    "transferred to the wrong medical teams\". <i>[&para;&para; 39&ndash;113]</i>"),
+   ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
+    "nor the department knew her office hours, although we were directed to contact her through "
+    "them; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
+    "consultation with the team; Ms Reese's reply that evening that the email did not comply with "
+    "the Code of Conduct and asking me to retract it, and my reply; that two days later, on 17 May "
+    "2024 at 9:30 am, Ms Taylor sent the whole department an email headed \"Switchboard Manager - "
+    "On call and Hours.\" stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
+    "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
+    "concerned about. "
+    "<i>[&para;&para; 70&ndash;88]</i>"),
+   ("The book, the earlier concerns, and the delegate role.", "The communication book entry of "
+    "6 June 2023 and its removal; the concerns I raised on 7 August 2023 and the responses; my "
+    "complaint of 13 May 2024, later determined to be a public interest disclosure (content not set "
+    "out); and my interest in becoming the Switchboard union delegate and what followed. "
+    "<i>[&para;&para; 143&ndash;181, 283&ndash;299]</i>"),
    ("My health before June 2024.", "That before 18 June 2024 I had never been diagnosed with or "
     "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
     "with shift work, that I could not do shifts without a good sleep, no psychological illness "
@@ -96,17 +112,17 @@ OUTLINES = [
     "earlies\", and \"they don't listen to his complaints\". Lodging my application for compensation "
     "on 1 July 2024. Dr Hawes's work capacity certificates of 1 July and 8 September 2024 and his "
     "referral to a psychiatrist. My first consultation with Dr Krishnaiah on 24 October 2024, on "
-    "that referral, and my treatment since. The matters at paragraphs 2 to 5 above are the matters "
+    "that referral, and my treatment since. The matters at paragraphs 2 to 7 above are the matters "
     "I reported to each doctor, as their records show. I offer no clinical or diagnostic opinion."),
-   ("After 18 June 2024.", "Meetings scheduled while I was on certified leave; that my employment "
-    "was ended under abandonment provisions in October 2024 while I held current medical "
-    "certificates, and that I was subsequently reinstated; my return to work on reduced hours and "
-    "the leave I have taken since; and that my Queensland Health email account was restricted, so "
-    "that I cannot now produce from my own records the emails I sent and received at work."),
-   ("Documents.", "The rosters and payslips for the relevant periods; my emails and messages with "
-    "my line manager and the Director; the leave and payroll records produced by the employer; "
-    "the role description; the general-practice records and certificates referred to above; and "
-    "the letter of Metro South Hospital and Health Service of 5 June 2026 (ref K-LM26/729)."),
+   ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; that "
+    "my employment was ended under abandonment provisions in October 2024 while I held current "
+    "medical certificates, and my later reinstatement; my return on reduced hours and the leave "
+    "taken since; that my Queensland Health email account was restricted, so I cannot produce my "
+    "work emails myself. I will produce the rosters and payslips, my emails and "
+    "messages with my line manager and the Director, the leave and payroll records produced by the "
+    "employer, the role description, the general-practice records and certificates referred to "
+    "above, and the letter of Metro South Hospital and Health Service of 5 June 2026 "
+    "(ref K-LM26/729)."),
   ]),
 
  ("OUTLINE_01_JEFFREY", "OUTLINE OF EVIDENCE &ndash; MS CAROLYN JEFFREY", TAIL_W,
@@ -207,13 +223,13 @@ for stem, title, tail, intro, items in OUTLINES:
     for i, (lead, body) in enumerate(items, start=1):
         txt = f"<b>{i}.</b>&nbsp;&nbsp;" + (f"<b>{lead}</b> " if lead else "") + body
         s.append(P(txt, ITEM))
-    s.append(Spacer(1, 2*mm))
+    s.append(Spacer(1, 0.5*mm))
     s.append(P(tail, FOOT))
     buf = io.BytesIO()
     doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=17*mm, rightMargin=17*mm,
-                          topMargin=14*mm, bottomMargin=14*mm)
+                          topMargin=12*mm, bottomMargin=12*mm)
     doc.addPageTemplates([PageTemplate(id='n', frames=[
-        Frame(17*mm, 14*mm, A4[0]-34*mm, A4[1]-28*mm, leftPadding=0, rightPadding=0,
+        Frame(17*mm, 12*mm, A4[0]-34*mm, A4[1]-24*mm, leftPadding=0, rightPadding=0,
               topPadding=0, bottomPadding=0)])])
     doc.build(s); buf.seek(0)
     pdf = pikepdf.open(buf)
