@@ -24,12 +24,14 @@ HEADER = ("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",
 TITLE_T = "APPELLANT'S SCHEDULE OF MEDICAL DOCUMENTS RELIED UPON"
 SERVED = ("Served on the Respondent with the outlines of evidence under direction 2 of the Further Directions Order (3) "
           "dated 19 August 2026. Not filed in the Industrial Registry.")
-INTRO = ("No report has been prepared for the purposes of this proceeding. The Appellant relies on the treating records "
-         "and reports below, each of which is already held by the Respondent at the item of its amended List of Documents "
+INTRO = ("No report has been prepared for the purposes of this proceeding. Dr Ravikumar Bangalore Krishnaiah and "
+         "Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of names of all witnesses filed today, and "
+         "this schedule and the pages behind it are served under direction 2 as the expert and treating material to be "
+         "relied upon. Each document below is already held by the Respondent at the item of its amended List of Documents "
          "dated 14 August 2026 stated, except item 6, a copy of which is served with this schedule. Against each document "
-         "is stated what it is relied upon for and what it is not relied upon for, so that its use at the hearing is clear. The "
-         "pages relied upon follow at Tabs 1 to 7; pages not relied upon are omitted, and each tab sheet identifies them. "
-         "Tab 8 adds the Respondent's own responses of 18 February 2026 concerning these documents.")
+         "is stated what it is relied upon for and what it is not relied upon for, so that its use at the hearing is clear. "
+         "The pages relied upon follow at Tabs 1 to 7; pages not relied upon are omitted, and each tab sheet identifies "
+         "them. Tab 8 adds the Respondent's own responses of 18 February 2026 concerning these documents.")
 
 ROWS = [
  ("1", "General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024 (Respondent's item 11; "

@@ -146,93 +146,79 @@ OUTLINES = [
   ]),
 
  ("OUTLINE_01_JEFFREY", "OUTLINE OF EVIDENCE &ndash; MS CAROLYN JEFFREY", TAIL_W,
-  "Ms Jeffrey is employed by Metro South Hospital and Health Service as [position] at Logan "
-  "Hospital Switchboard. She has worked in that department since [month/year] and worked alongside "
-  "the Appellant throughout the period [month/year] to [month/year].",
-  [("", "Before Ms Chloe Taylor and Ms Ellen Stibbard came into the Switchboard department, "
-    "operators could access and update the database used by the Switchboard directly; a "
-    "Communication Book was kept in the operators' room in which staff recorded changes to contact "
-    "and paging numbers and matters for handover; and operators made changes to medical contact "
-    "numbers as those changes arose."),
-   ("", "After Ms Taylor and Ms Stibbard came into the department, four changes were made to the "
-    "way the Switchboard operated: the switchboard process was changed; operators' access to the "
-    "database was restricted; the Communication Book was removed from the operators' room; and "
-    "responsibility for updating contact and paging numbers was taken from operators."),
-   ("", "Ms Jeffrey was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
+  "Ms Jeffrey is an Administration Officer in Switchboard Services at Logan Hospital and has worked "
+  "in that department alongside the Appellant. She is expected to give evidence of the following.",
+  [("", "How the Switchboard operated before Ms Chloe Taylor and Ms Ellen Stibbard came into the "
+    "department: that operators could access and update the database used by the Switchboard "
+    "directly; that a Communication Book was kept in the operators' room in which staff recorded "
+    "changes to contact and paging numbers and matters for handover; and that operators made "
+    "changes to medical contact numbers as those changes arose."),
+   ("", "The changes made after Ms Taylor and Ms Stibbard came into the department: the change to "
+    "the switchboard process, the restriction of operators' access to the database, the removal of "
+    "the Communication Book from the operators' room, and the transfer away from operators of "
+    "responsibility for updating contact and paging numbers."),
+   ("", "That she was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
     "18 July 2023, in which Ms Stibbard stated that while she was fixing the database she would be "
     "\"removing everyone's access to the database\", that anyone wanting an entry amended was to "
     "contact her directly, and that a request made after hours would \"have to wait until either "
     "Chloe or myself are back\"."),
-   ("", "After access to the database was restricted, operators could not correct an inaccurate "
-    "entry themselves and had to wait for Ms Stibbard or Ms Taylor. [Ms Jeffrey to describe the "
-    "practical effect she observed on the accuracy of contact and paging numbers.]"),
-   ("", "Ms Jeffrey saw the entry that was removed from the Communication Book on or about 6 June "
-    "2023. [She will say what the entry said, and that it was written by the Appellant &mdash; to "
-    "be confirmed with the witness before service.]"),
-   ("", "[Ms Jeffrey to describe what she saw and heard at the time the entry was removed and "
-    "immediately afterwards, including anything said by Ms Taylor and by the Appellant.]"),
-   ("", "From about [month/year] Ms Jeffrey observed changes in the Appellant at work. "
-    "[Observations only &mdash; for example attendance, participation in handover, appearance, "
-    "engagement with colleagues. No opinion as to diagnosis or cause.]"),
-   ("", "In the period in which Ms Jeffrey worked alongside the Appellant she did not at any time "
-    "hear him say anything hostile about Ms Taylor or about any other member of staff."),
-   ("", "Ms Jeffrey provided a written statement to WorkCover Queensland on or about 18 July 2024 "
-    "and a further statement on or about 1 August 2024, each of which is listed in the Respondent's "
-    "amended List of Documents dated 14 August 2026."),
+   ("", "What she observed of the practical effect on the accuracy of contact and paging numbers "
+    "once operators could no longer correct an inaccurate entry themselves and had to wait for "
+    "Ms Stibbard or Ms Taylor."),
+   ("", "The removal of an entry from the Communication Book on or about 6 June 2023: what she saw "
+    "and heard at the time and immediately afterwards, and what was said."),
+   ("", "Any change she observed in the Appellant at work over the period, from her own "
+    "observation. She offers no opinion as to diagnosis or cause."),
+   ("", "That she did not at any time hear the Appellant say anything hostile about Ms Taylor or "
+    "about any other member of staff."),
+   ("", "The written statement she provided to WorkCover Queensland on or about 18 July 2024 and "
+    "the further statement of on or about 1 August 2024, each listed in the Respondent's amended "
+    "List of Documents dated 14 August 2026."),
   ]),
 
  ("OUTLINE_02_HARRISONJONES", "OUTLINE OF EVIDENCE &ndash; MR CORY HARRISON-JONES", TAIL_W,
-  "Mr Harrison-Jones was employed at Logan Hospital Switchboard from [month/year] to [month/year] "
-  "as [position]. He is no longer employed by Metro South Hospital and Health Service. He worked "
-  "alongside the Appellant during that period.",
-  [("", "A function of the Switchboard was to hold and maintain accurate contact and paging numbers "
-    "for medical staff, including on-call doctors, so that calls and emergency notifications could "
-    "be directed to the correct person."),
-   ("", "Over a period of approximately three months Mr Harrison-Jones observed the Appellant "
-    "working to obtain and record updates to medical doctor contact numbers. The updates for "
-    "[ward/unit] were consistently missed on [day of the week]. The Appellant raised this and "
-    "continued to seek the updates over that period."),
-   ("", "Mr Harrison-Jones was a recipient of the email sent by Ms Stibbard to the Switchboard team "
-    "on 18 July 2023 stating that she would be removing everyone's access to the database and that "
+  "Mr Harrison-Jones worked at Logan Hospital Switchboard during 2023 as a temporary part-time "
+  "operator alongside the Appellant. He is no longer employed by Metro South Hospital and Health "
+  "Service. He is expected to give evidence of the following.",
+  [("", "That a function of the Switchboard was to hold and maintain accurate contact and paging "
+    "numbers for medical staff, including on-call doctors, so that calls and emergency "
+    "notifications could be directed to the correct person."),
+   ("", "What he observed over a period of approximately three months of the Appellant working to "
+    "obtain and record updates to medical contact numbers; the updates that were repeatedly missed; "
+    "and that the Appellant raised the matter and continued to seek those updates."),
+   ("", "That he was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
+    "18 July 2023 stating that she would be removing everyone's access to the database and that "
     "changes were to be sent to her directly."),
-   ("", "After access was restricted, operators could not correct an entry themselves and had to "
-    "wait for Ms Stibbard or Ms Taylor to make the change."),
-   ("", "On or about [date] Mr Harrison-Jones was present in the Switchboard room at the "
-    "commencement of a shift. The Appellant had arrived and was reading the handover. He had not "
-    "yet signed on."),
-   ("", "Ms Taylor came into the room and asked the Appellant whether he had taken the reminder "
-    "out. [Mr Harrison-Jones to describe the sequence &mdash; who spoke first, whether Ms Taylor "
-    "spoke while the Appellant was speaking, and what each of them said.]"),
-   ("", "Mr Harrison-Jones heard Ms Taylor raise her voice. [He is to describe the manner and "
-    "volume, and the Appellant's response, from his own observation.]"),
-   ("", "In the period in which Mr Harrison-Jones worked alongside the Appellant he did not at any "
-    "time hear him say anything hostile about Ms Taylor or about any other member of staff."),
+   ("", "That after access was restricted operators could not correct an entry themselves and had "
+    "to wait for Ms Stibbard or Ms Taylor to make the change."),
+   ("", "An occasion on which he was present in the Switchboard room at the commencement of a "
+    "shift, when the Appellant had arrived and was reading the handover and had not yet signed on: "
+    "what Ms Taylor said to the Appellant about the removal of a reminder, the sequence in which "
+    "each of them spoke, and the manner and volume in which it was said, from his own observation."),
+   ("", "That he did not at any time hear the Appellant say anything hostile about Ms Taylor or "
+    "about any other member of staff."),
   ]),
 
  ("OUTLINE_03_CONAGHAN", "OUTLINE OF EVIDENCE &ndash; MS PATRICIA CONAGHAN", TAIL_W,
-  "Ms Conaghan is employed by Metro South Hospital and Health Service as [position] at Logan "
-  "Hospital Switchboard. She has worked in that department since [month/year] and worked alongside "
-  "the Appellant throughout the period [month/year] to [month/year].",
-  [("", "On 7 August 2023 the Appellant wrote to Ms Taylor, Ms Reese, Ms Conaghan and Ms Smith "
-    "recording that Ms Conaghan and the Appellant each wished to take on an additional two shifts "
-    "per fortnight. Ms Conaghan will confirm that she and the Appellant sought those additional "
-    "hours."),
-   ("", "Following the changes made to the Switchboard process, urgent pathology results for "
-    "clinical staff were delayed in reaching the treating team. [Ms Conaghan to describe what she "
-    "observed &mdash; what the process was before, what it became, and the delay that resulted.]"),
-   ("", "Between 2 and 8 May 2024 there were occasions on which calls were connected to the wrong "
-    "medical team, including calls concerning emergency responses. [Ms Conaghan to describe what "
-    "she observed at the console during that period.]"),
-   ("", "During that period operators had no means of correcting an incorrect entry in the "
+  "Ms Conaghan is an Administration Officer in Switchboard Services at Logan Hospital and has "
+  "worked in that department alongside the Appellant. She is expected to give evidence of the "
+  "following.",
+  [("", "That she and the Appellant each sought an additional two shifts per fortnight, as recorded "
+    "in his email of 7 August 2023 to Ms Taylor, Ms Reese, Ms Conaghan and Ms Smith."),
+   ("", "What she observed of urgent pathology results for clinical staff being delayed in reaching "
+    "the treating team following the changes made to the Switchboard process: what the process was "
+    "before, what it became, and the delay that resulted."),
+   ("", "What she observed at the console between 2 and 8 May 2024 of calls being connected to the "
+    "wrong medical team, including calls concerning emergency responses."),
+   ("", "That during that period operators had no means of correcting an incorrect entry in the "
     "directory themselves."),
-   ("", "Ms Conaghan was not consulted about the change to after-hours on-call arrangements "
-    "notified by Ms Taylor to the Switchboard on 15 April 2024, and was not asked to vote on that "
-    "change."),
-   ("", "Ms Conaghan was not consulted about, and was not balloted in relation to, changes to the "
-    "Switchboard roster before [date]."),
-   ("", "[If applicable: Ms Conaghan to describe any changes she observed in the Appellant at work "
-    "over the period, limited to her own observation.]"),
-   ("", "Ms Conaghan was endorsed as a workplace delegate of Together Queensland on or about "
+   ("", "That she was not consulted about the change to after-hours on-call arrangements notified "
+    "by Ms Taylor to the Switchboard on 15 April 2024, and was not asked to vote on that change."),
+   ("", "That she was not consulted about, and was not balloted in relation to, changes to the "
+    "Switchboard roster."),
+   ("", "Any change she observed in the Appellant at work over the period, from her own "
+    "observation. She offers no opinion as to diagnosis or cause."),
+   ("", "That she was endorsed as a workplace delegate of Together Queensland on or about "
     "3 November 2025, at the same time as the Appellant and Ms Jeffrey."),
   ]),
 ]
