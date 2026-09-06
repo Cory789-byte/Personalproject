@@ -106,9 +106,17 @@ for n,info in enumerate(stamps):
     label,printed=info
     txt=(f'MSH-INJ-5795 · Cory Shepherd 388372 · Long service leave – the instruments · '
          f'{label} · at page {printed} · page {n+1} of {total}')
-    b=io.BytesIO(); c=_canvas.Canvas(b,pagesize=A4)
-    FS=6.0; c.setFont('Helvetica',FS)
-    w=c.stringWidth(txt,'Helvetica',FS); x=A4[0]-12*mm-w; y=3.6*mm
+    _pg=out.pages[n]
+    _bx=_pg.obj.get('/CropBox') or _pg.obj.get('/MediaBox')
+    _x0,_y0,_x1,_y1=[float(v) for v in _bx]
+    PW,PH=_x1-_x0,_y1-_y0
+    b=io.BytesIO(); c=_canvas.Canvas(b,pagesize=(PW,PH))
+    FS=6.0
+    avail=PW-16*mm
+    while c.stringWidth(txt,'Helvetica',FS) > avail and FS > 4.0:
+        FS -= 0.1
+    c.setFont('Helvetica',FS)
+    w=c.stringWidth(txt,'Helvetica',FS); x=PW-8*mm-w; y=4.0*mm
     c.setFillColorRGB(1,1,1)
     c.rect(x-1.5*mm, y-1.2*mm, w+3*mm, FS+1.8, stroke=0, fill=1)
     c.setFillColorRGB(.35,.35,.35); c.setFont('Helvetica',FS)
