@@ -10,101 +10,85 @@ Good morning Chloe, and Payroll,
 Thank you both for Friday - the ad hoc under PRN 24973005, which I know was arranged
 quickly, and the long service leave calculation sent through that afternoon.
 
-THE CALCULATION, AND MY QUESTION
+THE CALCULATION
 
 The calculation confirms that I commenced on 25 March 2019 and that my eligibility would
 ordinarily arise on 25 March 2026. It then moves that date to 29 September 2026 by
 excluding three periods of leave without pay.
 
-Directive 15/24, Leave without Salary Credited as Service, prescribes when leave without
-salary is credited as service for long service leave purposes, and by clause 4.1(b)(ii) it
-applies to employees of Hospital and Health Services. Its table sets out, for each type of
-leave without salary, the period recognised for long service leave.
+MY QUESTIONS
 
-Could I please be advised which type of leave without salary each of the three excluded
-periods was treated as, and which row of that table was applied.
+1. For each of the three excluded periods, what classification of leave without pay was
+   recorded, and which row of the "Leave credited as service" table was applied to it?
 
-THE SECOND PERIOD - 21 JUNE TO 20 SEPTEMBER 2024
+   My leave takings report shows those days under the leave category "Special", type
+   "Leave Without Pay". That is a payroll category. It does not by itself identify which
+   row of the table governs, and the table turns on the type of leave, not on the code.
 
-I ask particularly about that one, which is 91 of the 188 days excluded.
+2. Could the calculation please be reconciled against the three date ranges? 18 May to
+   10 June 2022, 21 June to 20 September 2024 and 13 December 2024 to 23 February 2025
+   come to 186 days counted from the day after each start date and 189 counted
+   inclusively. The corrected date is 188 days after 25 March 2026. I am not suggesting
+   the figure is wrong - I would like to see how it is arrived at, so that I can check the
+   effect of any change to one period.
 
-That is the period during which I was certified unfit for work and my application for
-workers' compensation was lodged and rejected. Directive 15/24 provides that for special
-leave to claim workers' compensation, the period recognised for long service leave is
-"Any period." On that row the whole of the period is credited as service.
+3. On what basis was the period 21 June to 20 September 2024 classified as it was?
 
-If it was instead recorded as sick leave without salary, the directive credits "The first
-3 months of any continuous period", and 21 June to 20 September is three months.
+   That is 91 of the 188 days, and it is the period during which I was certified unfit for
+   work and my application for workers' compensation was lodged and later rejected. The
+   table in Directive 15/24, and the same table in Directive 01/19 before it, has a row
+   for special leave to claim workers' compensation, for which the period recognised for
+   long service leave is "Any period." If that is the correct classification of the
+   absence, the whole of the period is credited as service and the date moves back to late
+   June 2026.
 
-My leave record shows those days under the leave category "Special". The general special
-leave row recognises only "Any continuous period not exceeding 9 working days", and note (3)
-provides that where the total exceeds that, none of the period is credited. That would
-explain the exclusion of all three periods. If that is the row applied to 21 June to
-20 September 2024, could you please tell me, because on my understanding the applicable row
-is the workers' compensation one, and on that row the period is credited in full.
+   The general special leave row recognises only "Any continuous period not exceeding 9
+   working days", and note (3) provides that where the total exceeds that, none of the
+   period is credited. That row would explain the exclusion of all three periods. If it is
+   the row applied to a period of certified incapacity with a workers' compensation claim
+   on foot, I would like to understand why.
 
-If it is credited, the effect is that my eligibility date falls in late June 2026 rather
-than 29 September 2026 - 25 March 2026 plus the remaining excluded days - and has therefore
-already passed.
+4. Which directive was applied to the 2024 period, and on what footing?
 
-WHICH DIRECTIVE APPLIED IN JUNE TO SEPTEMBER 2024
+   Directive 15/24 states an effective date of 30 September 2024, which is after that
+   period closed, and I cannot find a transitional provision in it. If it is being applied
+   to that period, could you please identify the provision that allows it.
 
-Directive 15/24 took effect on 30 September 2024. That is ten days after the period ends,
-and the directive contains no transitional or retrospective provision. It cannot be applied
-to a period that had closed before it commenced.
+   If Directive 01/19 was applied instead, could you please identify the provision that
+   makes it applicable to a health service employee. Clause 4 of 01/19 applies it to
+   public service officers and to employees engaged under sections 147(2)(a) and 148(2)(a)
+   of the Public Service Act 2008. I am appointed under section 67 of the Hospital and
+   Health Boards Act 2011 and employed by the Health Service, which is why clause 4.1 of
+   the Award applies it to "each hospital and health service, in their capacity as the
+   employer". I have also looked at HR Policy C38, which lists the directives it relies on
+   and does not list one on leave credited as service, and at the Agreement. I have not
+   been able to find the link. If there is one, I would be grateful to be pointed to it.
 
-The directive in force during that period was Directive 01/19. I have obtained it from the
-Office of Industrial Relations and it is at tab 8. Clause 4 provides that it applies to
-public service officers, and to employees engaged under sections 147(2)(a) and 148(2)(a) of
-the Public Service Act 2008. Those sections concern general employees and fixed term
-temporary employees appointed by a departmental chief executive. I am neither. I am a
-health service employee appointed under section 67 of the Hospital and Health Boards Act
-2011, employed by Metro South Hospital and Health Service, which is why clause 4.1 of the
-Award applies it to "each hospital and health service, in their capacity as the employer".
+CONTINUITY IS A SEPARATE QUESTION
 
-Directive 01/19 therefore did not apply to me. Clause 4.1(b)(ii) of Directive 15/24 is the
-first of these directives to extend to Hospital and Health Services, and it did so from
-30 September 2024.
+Payroll's advice was that the excluded periods "affect the employee's continuous service".
+I think two different things are in play, and it may help to keep them apart.
 
-So for 21 June to 20 September 2024 there was no directive of this kind applying to my
-employment: the earlier one did not reach Health Service Employees, and the later one had
-not commenced. An exclusion from continuous service needs an instrument behind it, and for
-that period I cannot identify one. If you are relying on something I have not found, please
-tell me what it is.
+Whether my service is continuous is governed by the Act. Section 94 of the Industrial
+Relations Act 2016 applies Part 4 to long service leave, and section 134(3) provides that
+"An employee's continuity of service with an employer is not broken by an absence,
+including through illness or injury - (a) on paid leave approved by the employer; or (b) on
+unpaid leave approved by the employer." Every one of the 103 leave without pay entries on
+my record is marked approved, so on that provision my service has not been broken.
 
-I should add that this does not stand alone. Even if a directive of this kind did apply to
-that period, both Directive 01/19 and Directive 15/24 carry the same row: for special leave
-to claim workers' compensation, the period recognised for long service leave is "Any
-period." On that row the whole of it is credited as service. The 91 days fall out of the
-calculation either way.
+Whether a period counts towards the qualifying period is the separate question, and that is
+what the directive table governs. My questions above go to that.
 
-THE THIRD PERIOD
-
-The agreement by which I was reinstated deals with one period of leave without pay, being
-13 December 2024 to 23 February 2025, which the calculation applies. It does not deal with
-21 June to 20 September 2024 in that way.
-
-CONTINUITY
-
-Separately from whether a period is credited as service, Payroll's advice was that the
-excluded periods "affect the employee's continuous service". Section 94 of the Industrial
-Relations Act 2016 applies Part 4 of the Act to long service leave, and section 134(3)
-provides that "An employee's continuity of service with an employer is not broken by an
-absence, including through illness or injury - (a) on paid leave approved by the employer;
-or (b) on unpaid leave approved by the employer." Every one of the 103 leave without pay
-entries on my record is marked approved.
-
-The award that covers me is the Hospital and Health Service General Employees (Queensland
-Health) Award - State 2015 - clause 4.1 applies it to each hospital and health service as
-employer and to the employees in Schedules 2 to 6, and Schedule 3 sets out the
-Administrative Officer levels including AO3. The agreement is the Queensland Public Health
-Sector Certified Agreement (No. 12) 2025, and clause 9.10.1 points to HR Policy C38.
-
-Each of those instruments gives access at seven years: Award clause 22(c), Directive 10/24
-clause 8.1 and C38 section 1. Seven years fell on 25 March 2026. I accept that under clause
-7.1 of Directive 10/24 the taking of leave is subject to entity convenience, but requests
-are not to be unreasonably refused and clause 7.4 requires a response "in a timely manner
-indicating whether the leave applied for has been approved or not".
+For completeness, the award that covers me is the Hospital and Health Service General
+Employees (Queensland Health) Award - State 2015: clause 4.1 applies it to each hospital and
+health service as employer and to the employees in Schedules 2 to 6, and Schedule 3 sets out
+the Administrative Officer levels including AO3. The Agreement is the Queensland Public
+Health Sector Certified Agreement (No. 12) 2025, and clause 9.10.1 points to HR Policy C38.
+Award clause 22(c), Directive 10/24 clause 8.1 and C38 section 1 each give access at seven
+years, which fell on 25 March 2026. I accept that under clause 7.1 of Directive 10/24 the
+taking of leave is subject to entity convenience, but requests are not to be unreasonably
+refused and clause 7.4 requires a response "in a timely manner indicating whether the leave
+applied for has been approved or not".
 
 I have attached the instruments so you do not have to take my word for any of it; the first
 page lists what each carries.
@@ -118,21 +102,19 @@ being the date from which I have received no wages, and on its exhaustion annual
 Could that leave please be actioned from those dates, and entered before Payroll processes
 the run for the pay day of Wednesday 9 September 2026, so that it is paid on that run.
 
-I ask that it not be held over while the question above is worked through. If a provision
-excluding the period does exist, the leave can be reversed and re-credited and nothing is
-lost either way. If it does not, and the leave has been held over in the meantime,
-9 September becomes the fourth pay day in a row at nil - after 29 July, 12 August and
-26 August - over a question that can be answered afterwards.
+I make the application on the same basis as my earlier ones: under protest, and subject to
+re-credit. If it is determined that I was not eligible from 13 July 2026, I ask that I be
+told before any recovery is commenced, and that any adjustment be dealt with under HR Policy
+C48, so that the position can be worked out rather than simply reversed against me.
 
 Section 5 of HR Policy C13 sets the deadline for an ad hoc request at "5:00 PM on pay day
-Wednesday". If the leave cannot be entered through the ordinary process in time for the
-run, could an ad hoc payment please be raised against it instead, so the timing is met.
+Wednesday". If the leave cannot be entered through the ordinary process in time for the run,
+could an ad hoc payment please be raised against it instead, so the timing is met.
 
 I have been held out of the workplace since 3 July 2026, certified fit with restrictions on
 the Health Service's own form that same day, and have received no wages since 13 July.
 Friday's payment was not wages - it was my own sick leave and recreation leave. I am now
-funding the same absence from my own long service leave. As with my other applications,
-this one is made under protest and subject to re-credit.
+funding the same absence from my own long service leave.
 
 THE ENTRY OF 30 AUGUST 2026
 
