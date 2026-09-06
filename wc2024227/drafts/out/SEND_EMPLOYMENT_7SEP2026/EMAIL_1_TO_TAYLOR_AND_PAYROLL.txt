@@ -57,18 +57,47 @@ reconcile it against the underlying entries.
     field on the first screen reads 29/09/2019 while the second gives an eligibility date
     of 29/09/2026.
 
-3. THE PERIOD 21 JUNE TO 20 SEPTEMBER 2024
+3. THE EXCLUSION OF APPROVED LEAVE WITHOUT PAY
 
-The calculation excludes 91 days on the footing that they are leave without pay affecting
-continuous service. That is the largest of the three exclusions, and without it the
-eligibility date falls in late June 2026.
+The calculation excludes three periods on the footing that they are leave without pay
+affecting continuous service. Together they are 188 days, and they are the whole of the
+difference between 25 March 2026 and 29 September 2026.
 
-I am not asking Payroll to determine how that period should be characterised. I am asking
-only that you identify the instrument, agreement or decision under which it is treated as
-leave without pay for this purpose, and who applied it. The agreement by which I was
-reinstated addresses one period of leave without pay, being 13 December 2024 to 23
-February 2025, which your calculation applies correctly. It does not deal with 21 June to
-20 September 2024 in that way.
+I have looked for the provision that authorises that exclusion and have not found one, so
+I would be grateful if Payroll could identify it.
+
+Section 94 of the Industrial Relations Act 2016 applies Part 4 of the Act to long service
+leave. Section 134(3) provides:
+
+    "An employee's continuity of service with an employer is not broken by an absence,
+    including through illness or injury - (a) on paid leave approved by the employer;
+    or (b) on unpaid leave approved by the employer."
+
+Every day excluded by the calculation is recorded on my own leave record as approved.
+Where the Act intends a period not to count towards service it says so expressly, as it
+does for parental leave at section 90(2). Clause 22(a) of the Hospital and Health Service
+General Employees (Queensland Health) Award - State 2015 points to the same Division of
+the Act and adds no exclusion; clause 9.10.1 of the Agreement points to HR Policy C38, and
+C38 adds none either.
+
+Three of those instruments also give access at seven years rather than ten. Award clause
+22(c): "Employees who have completed 7 years' continuous service are entitled to take long
+service leave on full pay or half pay." Directive 10/24 clause 8.1: "employees are
+entitled to take pro rata long service leave after 7 years continuous service." HR Policy
+C38 section 1: employees "may apply for pro rata long service leave on full pay, or half
+pay, after completing seven years continuous service".
+
+I commenced on 25 March 2019, which your own calculation confirms. Seven years of
+continuous service fell on 25 March 2026.
+
+I am not asking Payroll to decide a question of construction. I am asking for the
+provision relied on. If one exists, I will consider it. If there is none, the eligibility
+date is 25 March 2026 and my application of 31 August 2026 falls to be determined.
+
+I would add one thing about the largest of the three periods, 21 June to 20 September
+2024. The agreement by which I was reinstated deals with one period of leave without pay,
+being 13 December 2024 to 23 February 2025, which your calculation applies correctly. It
+does not deal with 21 June to 20 September 2024 in that way.
 
 4. WHAT REMAINS OUTSTANDING, AND WHERE
 
