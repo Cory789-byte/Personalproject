@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=5)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=5)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.5, leading=10.2, spaceAfter=2.2)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.9, spaceAfter=2.0)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.8)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -38,21 +38,27 @@ TAIL_A = ("This outline states the topics on which I will give oral evidence. It
 OUTLINES = [
  ("OUTLINE_00_SHEPHERD", "OUTLINE OF EVIDENCE &ndash; MR CORY LEA SHEPHERD (APPELLANT)", TAIL_A,
   "I will give evidence of the following. Paragraph references are to the notice to admit facts "
-  "served on the Respondent on 28 August 2026 (the Notice), whose Annexure A holds the documents "
-  "referred to.",
+  "served 28 August 2026 (the Notice); its Annexure A holds the documents referred to.",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
     "shift worker. The duties: the emergency response notifications, \"strictly adhering to protocols "
     "and timeframes\"; the pager and on-call records on "
     "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
-    "handover and distressed patients and families. "
+    "handover and distressed patients and families; and why an accurate pager or phone entry matters "
+    "in that setting, where an urgent page goes to whatever number is recorded. My background before "
+    "Queensland Health: a safety advisor on Manus Island, Papua New Guinea, and before that a "
+    "third-year Bachelor of Nursing student, which is the background on which I raised the matters "
+    "below as safety matters. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
     "finishing at 23:00 and starting at 06:00, the rest and sleep actually available, the emergency "
-    "codes I handled on 18 March, and the sick leave of 19 March. The fatigue concerns I raised; "
-    "the toolkit sent to Ms Taylor with no response; my request of 8 April 2024 and the refusal of "
-    "1 May 2024; and that before 30 June 2024 I had no fatigue training, no fatigue or psychosocial "
+    "codes I handled on 18 March, and the sick leave of 19 March; that those shifts were not a "
+    "staff-initiated swap, the only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour "
+    "agreement applied. The fatigue concerns I raised; the fatigue toolkit at clause 10.4.1 of the "
+    "Operations Manual, which gives management the tools to roster for and manage fatigue and was "
+    "not in use at the Switchboard, which I sent to Ms Taylor and had no response; my request of "
+    "8 April 2024 and the refusal of 1 May 2024; and that before 30 June 2024 I had no fatigue training, no fatigue or psychosocial "
     "risk assessment of my rostering, and no fatigue management process. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;256, 263&ndash;268]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
@@ -83,16 +89,14 @@ OUTLINES = [
     "the shift. What I saw at the console between 2 and "
     "8 May 2024: the nine occasions the MASPER Registrar reported of calls reaching the wrong team, "
     "including the MET call team ringing because \"switchboard could "
-    "not tell them where VHUB was\"; the Integrated Respiratory Service writing on 15 May and again "
-    "on 20 May 2024 that calls were still being put through to them and \"we can not help patients "
-    "or other clinical staff\"; that on each occasion I could not correct the entry myself and the "
+    "not tell them where VHUB was\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 "
+    "that \"we can not help patients or other clinical staff\"; that on each occasion I could not correct the entry myself and the "
     "delay built up while the correction waited; and Ms Taylor's statement to the department on 9 May 2024 of "
     "\"many ongoing issues raised by the MASPER and the medical department about calls being "
     "transferred to the wrong medical teams\". <i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
     "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
-    "consultation with the team; Ms Reese's reply that evening that the email did not comply with "
-    "the Code of Conduct and asking me to retract it, which I did; that two days later, on 17 May "
+    "consultation with the team; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
     "2024 at 9:30 am, Ms Taylor sent the whole department an email headed \"Switchboard Manager - "
     "On call and Hours.\" stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
     "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
@@ -114,7 +118,7 @@ OUTLINES = [
     "on 28 June 2024, whose note records \"stress at work\" and \"upset by people not following "
     "rules\", and Dr Hawes on 1 July 2024, whose note records \"work stress\", that \"they withhold "
     "pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
-    "earlies\", and \"they don't listen to his complaints\". Lodging my application for compensation "
+    "earlies\". Lodging my application for compensation "
     "on 1 July 2024. Dr Hawes's certificates of 1 July and 8 September 2024 and his psychiatrist "
     "referral. My first consultation with Dr Krishnaiah on 24 October 2024, on that referral, when I "
     "was told I had major depressive disorder with anxious distress and was started on fluoxetine; "
