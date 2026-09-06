@@ -1,0 +1,114 @@
+#!/usr/bin/env python3
+"""MSH-INJ-5795 - Long service leave: the instruments. Index page + originals, page extracts.
+Serve with the email to the Switchboard Manager and Payroll. Metadata stripped."""
+import io, pikepdf
+from reportlab.lib.pagesizes import A4
+from reportlab.lib import colors
+from reportlab.lib.units import mm
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Table, TableStyle, Spacer
+from reportlab.pdfgen import canvas as _canvas
+
+INST = '../documents/instruments/'
+HD   = ParagraphStyle('HD', fontName='Helvetica-Bold', fontSize=8.6, leading=11, textColor=colors.HexColor('#333333'), spaceAfter=1)
+HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
+TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=3)
+BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=8.2, leading=9.6, spaceAfter=3)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.6, leading=9.0, spaceAfter=0)
+CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
+def C(t): return Paragraph(t, CELL)
+
+# (file, [source pages], instrument label, what it carries, what is omitted)
+TABS = [
+ ('ATT22_Industrial_Relations_Act_2016_Qld.pdf', [115,117,146,147],
+  'Industrial Relations Act 2016 (Qld), reprint current as at 1 January 2026',
+  'Section 90(2) (page 115): parental leave "not to be taken into account in working out the employee\'s period of '
+  'service". Section 94 (page 117): "the provisions of part 4 apply for working out an employee\'s rights and '
+  'entitlements to long service leave under this division". Section 134(3) (pages 146 to 147): continuity of service '
+  '"is not broken by an absence, including through illness or injury - (a) on paid leave approved by the employer; or '
+  '(b) on unpaid leave approved by the employer".',
+  'The remainder of the 816-page reprint. Section 134(3) runs across two pages and both are included.'),
+ ('ATT03_HHS_General_Employees_Award_2015.pdf', [1,40],
+  'Hospital and Health Service General Employees (Queensland Health) Award - State 2015',
+  'Clause 22(a) (page 40): long service leave "is provided for in Division 9 of the QES". Clause 22(c) (same page): '
+  '"Employees who have completed 7 years\' continuous service are entitled to take long service leave on full pay or '
+  'half pay."',
+  'The remainder of the Award. Page 1 is included to identify the instrument.'),
+ ('ATT02_EB12_CA_No12_2025.pdf', [1,37],
+  'Queensland Public Health Sector Certified Agreement No. 12',
+  'Clause 9.10.1 (page 37): "Long service leave entitlements and conditions are outlined in HR Policy C38 Long Service '
+  'Leave."',
+  'The remainder of the Agreement. Page 1 is included to identify the instrument.'),
+ ('ATT28_HR_Policy_C38_Long_Service_Leave_QH-POL-163_Dec2021.pdf', None,
+  'HR Policy C38, Long Service Leave (QH-POL-163), December 2021',
+  'Section 1 (page 2): employees "may apply for pro rata long service leave on full pay, or half pay, after completing '
+  'seven years continuous service". Attachment One: requests for leave "are not to be unreasonably refused" and the '
+  'employee "is to be given timely advice as to whether or not leave is approved".',
+  'Nothing. The policy is reproduced in full.'),
+ ('ATT29_Directive_10-24_Long_Service_Leave_CURRENT_eff30SEP2024.pdf', None,
+  'Directive 10/24, Long Service Leave, effective 30 September 2024',
+  'Clause 8.1 (page 3): "employees are entitled to take pro rata long service leave after 7 years continuous service". '
+  'Clause 7.4 (page 3): "The employer must respond to a request to take long service leave in a timely manner '
+  'indicating whether the leave applied for has been approved or not." Clause 25 (page 7): the definition of '
+  'continuous service.',
+  'Nothing. The Directive is reproduced in full.'),
+]
+
+s = [Paragraph('METRO SOUTH HOSPITAL AND HEALTH SERVICE', HD),
+     Paragraph('MSH-INJ-5795 &nbsp;|&nbsp; Cory Shepherd, employee number 388372', HD2),
+     Paragraph('LONG SERVICE LEAVE &ndash; THE INSTRUMENTS', TITLE),
+     Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. These are the '
+               'instruments I have read in looking for the provision under which periods of approved leave without pay '
+               'are excluded from continuous service. They are reproduced from the sources named below and nothing has '
+               'been retyped. Each page carries a footer identifying the instrument and its page number in the source '
+               'document.', BODY)]
+data=[[Paragraph('Tab',CELLB),Paragraph('Instrument',CELLB),Paragraph('The provisions it carries',CELLB),
+       Paragraph('Pages omitted',CELLB)]]
+for i,(f,pp,label,carries,omit) in enumerate(TABS,1):
+    data.append([C(str(i)),C(label),C(carries),C(omit)])
+W=A4[0]-30*mm
+t=Table(data, colWidths=[7*mm, W*0.24, W*0.51, W*0.25-7*mm], repeatRows=1)
+t.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),
+ ('BACKGROUND',(0,0),(-1,0),colors.HexColor('#EEEEEE')),('VALIGN',(0,0),(-1,-1),'TOP'),
+ ('LEFTPADDING',(0,0),(-1,-1),3),('RIGHTPADDING',(0,0),(-1,-1),3),
+ ('TOPPADDING',(0,0),(-1,-1),1.6),('BOTTOMPADDING',(0,0),(-1,-1),1.6)]))
+s.append(t)
+buf=io.BytesIO()
+doc=BaseDocTemplate(buf,pagesize=A4,leftMargin=15*mm,rightMargin=15*mm,topMargin=12*mm,bottomMargin=12*mm)
+doc.addPageTemplates([PageTemplate(id='n',frames=[Frame(15*mm,12*mm,A4[0]-30*mm,A4[1]-24*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
+doc.build(s); buf.seek(0)
+
+out=pikepdf.new()
+out.pages.extend(pikepdf.open(buf).pages)
+stamps=[None]
+for f,pp,label,_,_ in TABS:
+    src=pikepdf.open(INST+f)
+    idx = [p-1 for p in pp] if pp else range(len(src.pages))
+    for k in idx:
+        out.pages.append(src.pages[k])
+        stamps.append((label, k+1))
+total=len(out.pages)
+# footer stamps
+_keep=[]
+for n,info in enumerate(stamps):
+    if info is None: continue
+    label,srcpage=info
+    b=io.BytesIO(); c=_canvas.Canvas(b,pagesize=A4)
+    c.setFont('Helvetica',6.2); c.setFillColorRGB(.35,.35,.35)
+    c.drawRightString(A4[0]-14*mm, 7*mm,
+        f'MSH-INJ-5795 · Cory Shepherd 388372 · Long service leave – the instruments · '
+        f'{label} · source page {srcpage} · page {n+1} of {total}')
+    c.save(); b.seek(0)
+    _sp=pikepdf.open(b); _keep.append(_sp)
+    out.pages[n].add_overlay(_sp.pages[0])
+with out.open_metadata() as md:
+    for k in list(md): del md[k]
+for k in list(out.docinfo.keys()): del out.docinfo[k]
+for k in ('/Metadata','/PieceInfo','/Lang'):
+    if k in out.Root: del out.Root[k]
+for pg in out.pages:
+    for k in ('/Metadata','/PieceInfo'):
+        if k in pg.obj: del pg.obj[k]
+dest='out/LSL_THE_INSTRUMENTS.pdf'
+out.save(dest,fix_metadata_version=False)
+print('built',dest,total,'pages')
