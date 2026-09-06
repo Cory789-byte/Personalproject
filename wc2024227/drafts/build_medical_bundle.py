@@ -27,8 +27,11 @@ TABS=[
  dict(n=1, title="General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024",
       held="Respondent's amended List of Documents item 11. Obtained by the Respondent under the Form 29 signed 4 July 2025. The complete record is Exhibit A5, sealed by the Commission on 13 March 2026; these are extracts of it.",
       incl="Pages 5, 6, 7, 10, 11, 12 and 13 of the 14-page practice export: the consultation of 16 November 2023 (Dr Nanayakkara); the consultations of 16 May 2024 (Dr Zhao, referral renewed) and 28 June 2024 (Dr Slawinski); the consultation of 1 July 2024 (Dr Hawes); the referral letter to Dr Amini of 16 May 2024 with the past medical history; the medical certificate of 28 June 2024; and the work capacity certificate of 1 July 2024.",
-      omit="Pages 1 to 4 (patient details, medication and prescription lists, consultations of 2023 for unrelated conditions); page 8 (Gold Coast University Hospital discharge letter of 6 June 2024, dental); page 9 (medical certificate of 3 July 2023, unrelated); page 14 (blank). None is relied upon.",
-      src=('pdf', D+'medical/2025-07-22_OurMedicalAshmore_GP_records_via_Saines.PDF', [5,6,7,10,11,12,13])),
+      omit="Pages 1 to 4 (patient details, medication and prescription lists, consultations of 2023 for unrelated conditions); page 8 (Gold Coast University Hospital discharge letter of 6 June 2024, dental); page 9 (medical certificate of 3 July 2023, unrelated); page 14 (blank). None is relied upon. REDACTIONS: on source pages 5, 6 and 10, entries concerning private sexual-health matters unrelated to the injury have been blacked out by the Appellant and are marked as such on the page. Nothing relied upon has been redacted. The Respondent holds the unredacted record at item 11.",
+      src=('pdf', D+'medical/2025-07-22_OurMedicalAshmore_GP_records_via_Saines.PDF', [5,6,7,10,11,12,13]),
+      redacted={5:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-5-REDACTED.png',
+                6:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-6-REDACTED.png',
+                10:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-10-REDACTED.png'}),
  dict(n=2, title="Work capacity certificates of Dr Peter Hawes, 1 July 2024, 11 August 2024 and 8 September 2024",
       held="Respondent's amended List of Documents item 7.",
       incl="The certificate of 8 September 2024, from the Appellant's photograph of the signed original (the only copy the Appellant holds; the Respondent holds the original at item 7). The certificate of 1 July 2024 is reproduced at Tab 1 (bundle page 9; source page 13 of the practice export).",
@@ -72,6 +75,9 @@ def tab_sheet(t):
        Spacer(1,4*mm),P("Schedule row "+str(t['n'])+" states what this document is, and is not, relied upon for.",B)]
     doc.build(s); buf.seek(0); return pikepdf.open(buf)
 
+def scan_page(path):
+    buf=io.BytesIO(); c=canvas.Canvas(buf,pagesize=A4); c.drawImage(path,0,0,A4[0],A4[1]); c.showPage(); c.save(); buf.seek(0); return pikepdf.open(buf)
+
 def img_page(path):
     im=Image.open(path).convert('RGB'); w,h=im.size
     buf=io.BytesIO(); c=canvas.Canvas(buf,pagesize=A4)
@@ -93,8 +99,11 @@ for t in TABS:
     if t['src'] is None: continue
     kind,path,pages=t['src']
     if kind=='pdf':
-        src=pikepdf.open(path); before=len(out.pages); add(src,pages)
-        for k in range(len(out.pages)-before): stamps.append((f"Tab {t['n']}", pages[k]))
+        src=pikepdf.open(path); red=t.get('redacted',{})
+        for pno in pages:
+            if pno in red: add(scan_page(red[pno]))
+            else: add(src,[pno])
+            stamps.append((f"Tab {t['n']}", pno))
     else:
         add(img_page(path)); stamps.append((f"Tab {t['n']}", 'image'))
 
