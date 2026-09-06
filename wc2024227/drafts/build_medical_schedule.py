@@ -12,10 +12,11 @@ HD   = ParagraphStyle('HD', fontName='Helvetica-Bold', fontSize=8.6, leading=11,
 HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
-BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=8.2, leading=9.6, spaceAfter=2.5)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.7, leading=9.0, spaceAfter=0)
+BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.45, leading=8.6, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
-FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=3)
+INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.5, leading=8.7, spaceAfter=1.2)
+FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
 def P(t, s=BODY): return Paragraph(t, s)
 from reportlab.platypus import Image as RLImage
 SIGW, SIGH = 38*mm, 20*mm
@@ -31,14 +32,23 @@ HEADER = ("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",
 TITLE_T = "APPELLANT'S SCHEDULE OF MEDICAL DOCUMENTS RELIED UPON"
 SERVED = ("Served on the Respondent with the outlines of evidence under direction 2 of the Further Directions Order (3) "
           "dated 19 August 2026. Not filed in the Industrial Registry.")
-INTRO = ("No report has been prepared for the purposes of this proceeding. Dr Ravikumar Bangalore Krishnaiah and "
-         "Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of names of all witnesses filed today, and "
-         "this schedule and the pages behind it are served under direction 2 as the expert and treating material to be "
-         "relied upon. Each document below is already held by the Respondent at the item of its amended List of Documents "
-         "dated 14 August 2026 stated, except item 6, a copy of which is served with this schedule. Against each document "
-         "is stated what it is relied upon for and what it is not relied upon for, so that its use at the hearing is clear. "
-         "The pages relied upon follow at Tabs 1 to 7; pages not relied upon are omitted, and each tab sheet identifies "
-         "them. Tab 8 adds the Respondent's own responses of 18 February 2026 concerning these documents.")
+INTRO = [
+ ("Purpose and service.", "Served on the Respondent with the outlines of evidence under direction 2 of the Further "
+  "Directions Order (3) dated 19 August 2026; not filed in the Industrial Registry. No report has been prepared for the "
+  "purposes of this proceeding. This schedule and the pages behind it are served as the expert and treating material "
+  "relied upon. Each document is already held by the Respondent at the item of its amended List of Documents dated "
+  "14 August 2026 stated, except item 6, a copy of which is served herewith."),
+ ("Use at hearing.", "Against each document is stated what it is, and is not, relied upon for. Items 3, 4 and 5 contain "
+  "clinical opinion; the Appellant does not rely upon that opinion otherwise than through the oral evidence of its "
+  "author. Dr Ravikumar Bangalore Krishnaiah and Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of "
+  "names of all witnesses filed today, and their attendance has been requested."),
+ ("The pages.", "Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tab 8 adds "
+  "the Respondent's responses of 18 February 2026 concerning these documents."),
+ ("The sequence these documents record.", "No psychological illness before June 2024 (item 1); first presentation "
+  "attributing symptoms to work, 28 June 2024 (item 1); certification of no capacity from 1 July 2024 (item 2); "
+  "diagnosis of Major Depressive Disorder with anxiety state, 24 October 2024 (item 3); the treating psychiatrist's "
+  "account of origin, 13 February 2025 (item 4); continuing effect, 3 July 2026 (item 6)."),
+]
 
 ROWS = [
  ("1", "General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024 (Respondent's item 11; "
@@ -49,9 +59,9 @@ ROWS = [
   "First presentation after onset: 28 June 2024 (Dr Slawinski) recording \"stress at work\" and \"upset by people "
   "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", that "
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
-  "earlies\", and \"causing anxiety\". These entries are relied upon as the contemporaneous record of what was "
-  "reported before any claim decision, dismissal or proceeding.",
-  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages in the served copy and marked as such."),
+  "earlies\", and \"causing anxiety\". Relied upon as the contemporaneous record of what was reported "
+  "before any claim decision, dismissal or proceeding.",
+  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages and marked as such."),
  ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July, 11 August and 8 September 2024, and of Dr Ki "
        "Pang dated 7 August 2024 (Respondent's items 7 and 8).",
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
@@ -77,10 +87,10 @@ ROWS = [
   "clinician's account of origin: \"workplace stress stemming from issues with management and rostering\"; that "
   "the issues \"began approximately one year ago when a new manager was appointed\"; pay \"withheld or delayed for "
   "up to five months at a time, leading to significant financial stress\"; and that \"premature exposure to the "
-  "workplace is more likely result in significant deterioration\".",
+  "workplace is more likely result in significant deterioration\". The stressors so recorded correspond to facts specified in the notice to admit facts served 28 August 2026: management and rostering, and the night-shift line, at facts 211, 212 and 220; the shorter break, at facts 258 to 260; and pay withheld or delayed, at facts 185 to 190, 193, 195 and 203.",
   "Attribution among the individual events at paragraphs 2 to 7 of the Appellant's outline of evidence; any "
   "matter after 24 October 2024 as a cause of the injury. The report was prepared for QSuper and is tendered as "
-  "a treating record, not as a report prepared for this proceeding."),
+  "a treating record, not as a report prepared for this proceeding. The report bears the footer that the information was disclosed \"for the only reason of clinical information and not for medico-legal use\"."),
  ("5", "Clinical records of Dr Krishnaiah from 24 October 2024 (offered by the practice on 5 September 2026 and "
        "requested; not yet received).",
   "What was reported at the first consultation and when; diagnosis and prescribing over time. To be served on "
@@ -98,7 +108,9 @@ ROWS = [
   "As a binding determination. The hearing is de novo; the finding is relied upon as an admitted document."),
 ]
 
-s = [P(HEADER[0], HD), P(HEADER[1], HD2), P(TITLE_T, TITLE), P(SERVED, SUB), P(INTRO)]
+s = [P(HEADER[0], HD), P(HEADER[1], HD2), P(TITLE_T, TITLE)]
+for _lab, _txt in INTRO:
+    s.append(P('<b>' + _lab + '</b> ' + _txt, INTROSTY))
 data = [[Paragraph("No.", CELLB), Paragraph("Document, and where the Respondent holds it", CELLB),
          Paragraph("Relied upon for", CELLB), Paragraph("Not relied upon for", CELLB)]]
 for n, d, r, nr in ROWS:
@@ -110,17 +122,20 @@ t.setStyle(TableStyle([
     ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#EEEEEE')),
     ('VALIGN', (0,0), (-1,-1), 'TOP'),
     ('LEFTPADDING', (0,0), (-1,-1), 3), ('RIGHTPADDING', (0,0), (-1,-1), 3),
-    ('TOPPADDING', (0,0), (-1,-1), 1.4), ('BOTTOMPADDING', (0,0), (-1,-1), 1.4),
+    ('TOPPADDING', (0,0), (-1,-1), 1.1), ('BOTTOMPADDING', (0,0), (-1,-1), 1.1),
 ]))
 s.append(t)
-s.append(P("The Appellant reserves the position as to any further report. If one is to be relied upon, directions will be "
-           "sought before it is served.", FOOT))
-s.append(Spacer(1,0.5*mm))
-s.append(SIG(32*mm,17*mm))
-s.append(P("Dated: 9 September 2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY))
+s.append(P("The Appellant reserves the position as to any further report; if one is to be relied upon, directions will be sought before it is served.", FOOT))
+sig = Table([[SIG(30*mm,15.5*mm),
+              P("Dated: 9 September 2026<br/><b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY)]],
+            colWidths=[34*mm, W-34*mm])
+sig.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'BOTTOM'),
+                         ('LEFTPADDING',(0,0),(-1,-1),0), ('RIGHTPADDING',(0,0),(-1,-1),0),
+                         ('TOPPADDING',(0,0),(-1,-1),0), ('BOTTOMPADDING',(0,0),(-1,-1),0)]))
+s.append(sig)
 buf = io.BytesIO()
-doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=11*mm, bottomMargin=11*mm)
-doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 11*mm, A4[0]-30*mm, A4[1]-22*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
+doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=10*mm, bottomMargin=9*mm)
+doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 9*mm, A4[0]-30*mm, A4[1]-19*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
 doc.build(s); buf.seek(0)
 pdf = pikepdf.open(buf); n = len(pdf.pages)
 try: del pdf.Root.Metadata
