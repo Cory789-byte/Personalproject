@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.5, spaceAfter=1.6)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.3, spaceAfter=1.4)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -38,7 +38,7 @@ TAIL_A = ("This outline states the topics on which I will give oral evidence. It
 OUTLINES = [
  ("OUTLINE_00_SHEPHERD", "OUTLINE OF EVIDENCE &ndash; MR CORY LEA SHEPHERD (APPELLANT)", TAIL_A,
   "I will give evidence of the following. Paragraph references are to the notice to admit facts "
-  "served 28 August 2026 (the Notice); its Annexure A holds the documents referred to.",
+  "served 28 August 2026 (the Notice).",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
     "shift worker. The duties: the emergency response notifications, \"strictly adhering to protocols "
@@ -101,17 +101,21 @@ OUTLINES = [
     "entry myself and the delay built up while the correction waited. "
     "<i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
-    "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
-    "consultation with the team; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
+    "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
     "2024 at 9:30 am, Ms Taylor sent the whole department an email stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
     "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
     "concerned about. "
     "<i>[&para;&para; 70&ndash;88]</i>"),
-   ("The book, the earlier concerns, and the delegate role.", "The communication book entry of "
-    "6 June 2023 and its removal; the concerns I raised on 7 August 2023 and the responses; my "
-    "complaint of 13 May 2024, later determined to be a public interest disclosure (content not set "
-    "out); and my interest in becoming the Switchboard union delegate and what followed. "
-    "<i>[&para;&para; 143&ndash;181, 283&ndash;299]</i>"),
+   ("The complaints, and what followed them.", "The communication book entry of 6 June 2023 and its "
+    "removal; my email of 16 June 2023 recording no consultation on major changes; the concerns I raised "
+    "on 7 August 2023 and the responses; my complaint of 13 May 2024, later determined to be a public "
+    "interest disclosure (content not set out); my interest in becoming the Switchboard union delegate "
+    "and what followed; and that, to my knowledge and on Metro South's own statements that there were no "
+    "consequential changes to operating procedures and that complaints were managed solely by email or "
+    "verbally, no safety assessment, investigation or change of procedure followed any complaint I made "
+    "about misdirected calls, directory accuracy or fatigue before 30 June 2024, which is what Dr Hawes "
+    "recorded on 1 July 2024 as \"they don't listen to his complaints\". "
+    "<i>[&para;&para; 143&ndash;181, 266&ndash;267, 283&ndash;299]</i>"),
    ("My health before June 2024.", "That before 18 June 2024 I had never been diagnosed with or "
     "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
     "with shift work, that I could not do shifts without a good sleep, no psychological illness "
@@ -126,8 +130,7 @@ OUTLINES = [
     "on 28 June 2024, whose note records \"stress at work\" and \"upset by people not following "
     "rules\", and Dr Hawes on 1 July 2024, whose note records \"work stress\", that \"they withhold "
     "pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
-    "earlies\". Lodging my application for compensation "
-    "on 1 July 2024. Dr Hawes's certificates of 1 July and 8 September 2024 and his psychiatrist "
+    "earlies\". Dr Hawes's certificates of 1 July and 8 September 2024 and his psychiatrist "
     "referral. My first consultation with Dr Krishnaiah on 24 October 2024, on that referral, when I "
     "was told I had major depressive disorder with anxiety state, confirmed by the practice in writing "
     "at 11:45 am that day, my fluoxetine increased and quetiapine added at night; his written report "
