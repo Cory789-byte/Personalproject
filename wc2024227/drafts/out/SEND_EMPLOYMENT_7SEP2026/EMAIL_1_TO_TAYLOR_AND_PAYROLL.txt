@@ -14,39 +14,66 @@ THE CALCULATION, AND MY QUESTION
 
 The calculation confirms that I commenced on 25 March 2019 and that my eligibility would
 ordinarily arise on 25 March 2026. It then moves that date to 29 September 2026 by
-excluding three periods of leave without pay. Each of those three periods is recorded on
-the leave takings report as approved leave without pay, as are all 103 such entries across
-my service.
+excluding three periods of leave without pay.
 
-I am unaware of what provision is being applied to exclude approved leave without pay from
-continuous service. Could I please be advised what it is. If I have this wrong, please
-correct me and I will accept it - I am not asking Payroll to decide a question of
-construction, only to tell me the provision.
+Directive 15/24, Leave without Salary Credited as Service, prescribes when leave without
+salary is credited as service for long service leave purposes, and by clause 4.1(b)(ii) it
+applies to employees of Hospital and Health Services. Its table sets out, for each type of
+leave without salary, the period recognised for long service leave.
 
-WHY I ASK
+Could I please be advised which type of leave without salary each of the three excluded
+periods was treated as, and which row of that table was applied.
 
-I have looked for one and cannot find it. I have attached the instruments so you do not
-have to take my word for it; the first page lists what each carries.
+THE SECOND PERIOD - 21 JUNE TO 20 SEPTEMBER 2024
 
-Section 94 of the Industrial Relations Act 2016 applies Part 4 of the Act to long service
-leave, and section 134(3) provides that "An employee's continuity of service with an
-employer is not broken by an absence, including through illness or injury - (a) on paid
-leave approved by the employer; or (b) on unpaid leave approved by the employer." Where the
-Act intends a period not to count towards service it says so expressly, as it does for
-parental leave at section 90(2). It does not say so for approved unpaid leave.
+I ask particularly about that one, which is 91 of the 188 days excluded.
+
+That is the period during which I was certified unfit for work and my application for
+workers' compensation was lodged and rejected. Directive 15/24 provides that for special
+leave to claim workers' compensation, the period recognised for long service leave is
+"Any period." On that row the whole of the period is credited as service.
+
+If it was instead recorded as sick leave without salary, the directive credits "The first
+3 months of any continuous period", and 21 June to 20 September is three months.
+
+My leave record shows those days under the leave category "Special". If the row applied
+was general special leave rather than special leave to claim workers' compensation, could
+you please tell me, so that I understand the basis.
+
+I note that Directive 15/24 took effect on 30 September 2024 and supersedes Directive
+01/19. If the earlier directive governs the 2024 period, could I please be advised of the
+equivalent provision in it. I do not hold a copy.
+
+THE THIRD PERIOD
+
+The agreement by which I was reinstated deals with one period of leave without pay, being
+13 December 2024 to 23 February 2025, which the calculation applies. It does not deal with
+21 June to 20 September 2024 in that way.
+
+CONTINUITY
+
+Separately from whether a period is credited as service, Payroll's advice was that the
+excluded periods "affect the employee's continuous service". Section 94 of the Industrial
+Relations Act 2016 applies Part 4 of the Act to long service leave, and section 134(3)
+provides that "An employee's continuity of service with an employer is not broken by an
+absence, including through illness or injury - (a) on paid leave approved by the employer;
+or (b) on unpaid leave approved by the employer." Every one of the 103 leave without pay
+entries on my record is marked approved.
 
 The award that covers me is the Hospital and Health Service General Employees (Queensland
 Health) Award - State 2015 - clause 4.1 applies it to each hospital and health service as
 employer and to the employees in Schedules 2 to 6, and Schedule 3 sets out the
-Administrative Officer levels including AO3. Clause 22(a) points back to the same Division
-of the Act. The agreement is the Queensland Public Health Sector Certified Agreement
-(No. 12) 2025, and clause 9.10.1 points to HR Policy C38. Neither adds an exclusion.
+Administrative Officer levels including AO3. The agreement is the Queensland Public Health
+Sector Certified Agreement (No. 12) 2025, and clause 9.10.1 points to HR Policy C38.
 
-Each also gives access at seven years: Award clause 22(c), Directive 10/24 clause 8.1 and
-C38 section 1. Seven years fell on 25 March 2026. I accept that under clause 7.1 of the
-Directive the taking of leave is subject to entity convenience, but requests are not to be
-unreasonably refused and clause 7.4 requires a response "in a timely manner indicating
-whether the leave applied for has been approved or not".
+Each of those instruments gives access at seven years: Award clause 22(c), Directive 10/24
+clause 8.1 and C38 section 1. Seven years fell on 25 March 2026. I accept that under clause
+7.1 of Directive 10/24 the taking of leave is subject to entity convenience, but requests
+are not to be unreasonably refused and clause 7.4 requires a response "in a timely manner
+indicating whether the leave applied for has been approved or not".
+
+I have attached the instruments so you do not have to take my word for any of it; the first
+page lists what each carries.
 
 WHAT I AM ASKING FOR
 
@@ -79,7 +106,7 @@ August 2026 ... PRN 249 863 66", and 30 August is the last day of that fortnight
 please advise on what basis it was made and arrange for it to be corrected. I have at no
 time been absent without authority.
 
-Attached: "Long service leave - the instruments" (39 pages), including HR Policy C13 at tab
+Attached: "Long service leave - the instruments" (42 pages), including HR Policy C13 at tab
 6, which governs what may be submitted on my behalf.
 
 Could I please have a response before the pay run on Wednesday 9 September.

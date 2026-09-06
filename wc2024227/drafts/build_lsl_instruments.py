@@ -63,14 +63,18 @@ TABS = [
   'employees on leave". Section 2 (page 2): line managers notified of an incorrect wage payment "must take all steps '
   'to rectify the error". Section 8 (page 6): the ad hoc payment process.',
   'Nothing. The policy is reproduced in full.'),
+ ('ATT31_Directive_15-24_Leave_Without_Salary_Credited_As_Service_eff30SEP2024.pdf', None,
+  'Directive 15/24, Leave without Salary Credited as Service, effective 30 September 2024',
+  'Clause 4.1(b)(ii) (page 1): the directive applies to employees of Hospital and Health Services. Clause 5.1 (page 1): "Employees are to have leave without salary credited as service for leave and salary purposes as provided in this directive." The table "Leave credited as service" (pages 1 to 3) states, for each type of leave without salary, the period recognised for long service leave. For <b>special leave to claim workers&rsquo; compensation</b> (page 3) the period recognised is <b>"Any period."</b> For sick leave without salary (page 1) it is "The first 3 months of any continuous period."',
+  'Nothing. The directive is reproduced in full. It supersedes Directive 01/19, which is not held.'),
 ]
 
 s = [Paragraph('METRO SOUTH HOSPITAL AND HEALTH SERVICE', HD),
      Paragraph('MSH-INJ-5795 &nbsp;|&nbsp; Cory Shepherd, employee number 388372', HD2),
      Paragraph('LONG SERVICE LEAVE &ndash; THE INSTRUMENTS', TITLE),
-     Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. Tabs 1 to 5 are the '
-               'instruments I have read in looking for the provision under which periods of approved leave without pay are '
-               'excluded from continuous service. Tab 6 is the policy governing what may be submitted on my behalf. '
+     Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. Tabs 1 to 5 and tab 7 are the '
+               'instruments bearing on whether periods of leave without salary are credited as service for long service leave. '
+               'Tab 6 is the policy governing what may be submitted on my behalf. '
                'Each page carries a footer identifying the instrument and its page number in the source '
                'document.', BODY)]
 data=[[Paragraph('Tab',CELLB),Paragraph('Instrument',CELLB),Paragraph('The provisions it carries',CELLB),
