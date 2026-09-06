@@ -21,8 +21,8 @@ TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=5)
 INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.7, leading=10.5, spaceAfter=2.4)
-ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=2.4)
-FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=5)
+ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.8)
+FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
 def P(t, s=INTRO): return Paragraph(t, s)
 
 HEADER = ("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",
@@ -47,9 +47,8 @@ OUTLINES = [
     "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
     "handover and distressed patients and families. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
-   ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024, including seeing my "
-    "general practitioner on 16 November 2023 about poor sleep with shift work, when melatonin and "
-    "temazepam were prescribed. The shifts of 17 and 18 March 2024: my travel time each way, "
+   ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
+    "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
     "finishing at 23:00 and starting at 06:00, the rest and sleep actually available, the emergency "
     "codes I handled on 18 March, and the sick leave of 19 March. The fatigue concerns I raised; "
     "the toolkit sent to Ms Taylor with no response; my request of 8 April 2024 and the refusal of "
@@ -59,7 +58,7 @@ OUTLINES = [
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
     "early shifts, and of nights followed by days off and then nights again, which I raised on "
     "16 April 2024; that rostering errors on my line recurred across successive roster periods; "
-    "when I identified each and to whom; and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
+    "and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
     "rostering errors made by Chloe with regards to Cory's line in past rosters\". "
     "<i>[&para;&para; 211&ndash;223]</i>"),
    ("Pay and entitlements.", "The public holidays I was not rostered between February and April "
@@ -73,7 +72,11 @@ OUTLINES = [
     "operators could no longer correct database entries and the Contact &amp; Number Changes book "
     "was removed, so a wrong number waited on Ms Stibbard or Ms Taylor and after hours had to "
     "\"wait until either Chloe or myself are back\"; the directives of 15 April, 19 April and 9 May "
-    "2024, and that I was not consulted before any of them. What I saw at the console between 2 and "
+    "2024, and that I was not consulted before any of them. That from 15 April 2024, when Ms Taylor "
+    "notified the department that she and Ms Stibbard had placed themselves on after-hours call, "
+    "departments and clinicians ringing during my shifts with pager and phone updates asked for "
+    "her, and on many occasions neither they nor I could have the update or issue resolved during "
+    "the shift. What I saw at the console between 2 and "
     "8 May 2024: the nine occasions the MASPER Registrar reported of calls reaching the wrong team, "
     "including the MET call team ringing to ask where the MET call was because \"switchboard could "
     "not tell them where VHUB was\"; the Integrated Respiratory Service writing on 15 May and again "
@@ -84,8 +87,7 @@ OUTLINES = [
     "\"many ongoing issues raised by the MASPER and the medical department about calls being "
     "transferred to the wrong medical teams\". <i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
-    "nor the department knew her office hours, although we were directed to contact her through "
-    "them; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
+    "nor the department knew her office hours, though directed to contact her through them; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
     "consultation with the team; Ms Reese's reply that evening that the email did not comply with "
     "the Code of Conduct and asking me to retract it, and my reply; that two days later, on 17 May "
     "2024 at 9:30 am, Ms Taylor sent the whole department an email headed \"Switchboard Manager - "
@@ -120,8 +122,8 @@ OUTLINES = [
     "taken since; that my Queensland Health email account was restricted, so I cannot produce my "
     "work emails myself. I will produce the rosters and payslips, my emails and "
     "messages with my line manager and the Director, the leave and payroll records produced by the "
-    "employer, the role description, the general-practice records and certificates referred to "
-    "above, and the letter of Metro South Hospital and Health Service of 5 June 2026 "
+    "employer, the role description, the medical records referred to above, and the letter of "
+    "Metro South Hospital and Health Service of 5 June 2026 "
     "(ref K-LM26/729)."),
   ]),
 
@@ -223,13 +225,12 @@ for stem, title, tail, intro, items in OUTLINES:
     for i, (lead, body) in enumerate(items, start=1):
         txt = f"<b>{i}.</b>&nbsp;&nbsp;" + (f"<b>{lead}</b> " if lead else "") + body
         s.append(P(txt, ITEM))
-    s.append(Spacer(1, 0.5*mm))
     s.append(P(tail, FOOT))
     buf = io.BytesIO()
-    doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=17*mm, rightMargin=17*mm,
-                          topMargin=12*mm, bottomMargin=12*mm)
+    doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm,
+                          topMargin=11*mm, bottomMargin=11*mm)
     doc.addPageTemplates([PageTemplate(id='n', frames=[
-        Frame(17*mm, 12*mm, A4[0]-34*mm, A4[1]-24*mm, leftPadding=0, rightPadding=0,
+        Frame(15*mm, 11*mm, A4[0]-30*mm, A4[1]-22*mm, leftPadding=0, rightPadding=0,
               topPadding=0, bottomPadding=0)])])
     doc.build(s); buf.seek(0)
     pdf = pikepdf.open(buf)
