@@ -70,8 +70,8 @@ s = [Paragraph('METRO SOUTH HOSPITAL AND HEALTH SERVICE', HD),
      Paragraph('LONG SERVICE LEAVE &ndash; THE INSTRUMENTS', TITLE),
      Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. Tabs 1 to 5 are the '
                'instruments I have read in looking for the provision under which periods of approved leave without pay are '
-               'excluded from continuous service. Tab 6 is the policy governing what may be submitted on my behalf. Nothing has '
-               'been retyped. Each page carries a footer identifying the instrument and its page number in the source '
+               'excluded from continuous service. Tab 6 is the policy governing what may be submitted on my behalf. '
+               'Each page carries a footer identifying the instrument and its page number in the source '
                'document.', BODY)]
 data=[[Paragraph('Tab',CELLB),Paragraph('Instrument',CELLB),Paragraph('The provisions it carries',CELLB),
        Paragraph('Pages omitted',CELLB)]]
