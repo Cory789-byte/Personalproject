@@ -16,10 +16,10 @@ from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, 
 
 HD   = ParagraphStyle('HD', fontName='Helvetica-Bold', fontSize=8.6, leading=11,
                       textColor=colors.HexColor('#333333'), spaceAfter=1)
-HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=5)
+HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
-                      textColor=colors.HexColor('#555555'), spaceAfter=5)
+                      textColor=colors.HexColor('#555555'), spaceAfter=3)
 INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.3, leading=9.9, spaceAfter=2.0)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.8)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
@@ -44,20 +44,22 @@ OUTLINES = [
     "shift worker. The duties: the emergency response notifications, \"strictly adhering to protocols "
     "and timeframes\"; the pager and on-call records on "
     "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
-    "handover and distressed patients and families; and why an accurate pager or phone entry matters "
-    "in that setting, where an urgent page goes to whatever number is recorded. My background before "
-    "Queensland Health: a safety advisor on Manus Island, Papua New Guinea, and before that a "
-    "third-year Bachelor of Nursing student, which is the background on which I raised the matters "
-    "below as safety matters. "
+    "handover and distressed patients and families; and why an accurate entry matters where an urgent "
+    "page goes to whatever number is recorded. My background: safety "
+    "advisor on Manus Island, Papua New Guinea, and earlier a third-year Bachelor of Nursing student, "
+    "which is why I raised what follows as safety matters. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
-    "finishing at 23:00 and starting at 06:00, the rest and sleep actually available, the emergency "
-    "codes I handled on 18 March, and the sick leave of 19 March; that those shifts were not a "
+    "finishing at 23:00 and starting at 06:00, and the rest and sleep actually available; that on the "
+    "evening of 17 March I paged a MET call and, four minutes later, a Code Blue to the same bed, then "
+    "a further MET call; that between 06:00 and 14:00 on 18 March I paged a Code Grey, three MET "
+    "calls and two neonatal MET calls while carrying the ordinary load of urgent handover, distressed "
+    "callers and complaints; and the sick leave of 19 March; that those shifts were not a "
     "staff-initiated swap, the only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour "
-    "agreement applied. The fatigue concerns I raised; the fatigue toolkit at clause 10.4.1 of the "
-    "Operations Manual, which gives management the tools to roster for and manage fatigue and was "
-    "not in use at the Switchboard, which I sent to Ms Taylor and had no response; my request of "
+    "agreement applied. The fatigue toolkit at clause 10.4.1 of the Operations Manual, the tools for "
+    "management to roster for and manage fatigue, not in use at the Switchboard, sent by me to "
+    "Ms Taylor with no response; my request of "
     "8 April 2024 and the refusal of 1 May 2024; and that before 30 June 2024 I had no fatigue training, no fatigue or psychosocial "
     "risk assessment of my rostering, and no fatigue management process. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;256, 263&ndash;268]</i>"),
@@ -86,14 +88,15 @@ OUTLINES = [
     "notified the department that she and Ms Stibbard had placed themselves on after-hours call, "
     "departments and clinicians ringing during my shifts with pager and phone updates asked for "
     "her, and on many occasions neither they nor I could have the update or issue resolved during "
-    "the shift. What I saw at the console between 2 and "
-    "8 May 2024: the nine occasions the MASPER Registrar reported of calls reaching the wrong team, "
-    "including the MET call team ringing because \"switchboard could "
-    "not tell them where VHUB was\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 "
-    "that \"we can not help patients or other clinical staff\"; that on each occasion I could not correct the entry myself and the "
-    "delay built up while the correction waited; and Ms Taylor's statement to the department on 9 May 2024 of "
-    "\"many ongoing issues raised by the MASPER and the medical department about calls being "
-    "transferred to the wrong medical teams\". <i>[&para;&para; 39&ndash;113]</i>"),
+    "the shift. The MASPER Registrar's \"Switchboard issues\" emails to Ms Taylor of 3 May 2024 at "
+    "3:06 pm and 8 May at 5:28 pm, nine calls reaching the wrong team, including the MET call team "
+    "ringing because \"switchboard could not tell them where VHUB was\"; that her first response came "
+    "on 9 May at 9:20 am, five days and eighteen hours after the first, asking Dr Wong for her business "
+    "hours because they were \"not provided on the rosters\", and at 10:15 am telling the team of "
+    "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 that \"we "
+    "can not help patients or other clinical staff\"; and that on each occasion I could not correct the "
+    "entry myself and the delay built up while the correction waited. "
+    "<i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
     "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them and that changes be made in "
     "consultation with the team; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
@@ -125,15 +128,13 @@ OUTLINES = [
     "the later increase in dose and the addition of quetiapine at night; his written report of "
     "13 February 2025; and my treatment since. The matters at paragraphs 2 to 7 above are the matters "
     "I reported to each doctor, as their records show. I offer no clinical or diagnostic opinion."),
-   ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; that "
-    "my employment was ended under abandonment provisions in October 2024 while I held current "
-    "medical certificates, and my later reinstatement; my return on reduced hours and the leave "
-    "taken since; that my Queensland Health email account was restricted, so I cannot produce my "
-    "work emails myself. I will produce the rosters and payslips, my emails and "
-    "messages with my line manager and the Director, the leave and payroll records produced by the "
-    "employer, the role description, the medical records referred to above, and the letter of "
-    "Metro South Hospital and Health Service of 5 June 2026 "
-    "(ref K-LM26/729)."),
+   ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; my "
+    "employment ended under abandonment provisions in October 2024 while I held current certificates, "
+    "and my later reinstatement; my return on reduced hours and the leave since; that my Queensland "
+    "Health email was restricted, so I cannot produce my work emails myself. Documents: rosters and "
+    "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
+    "payroll records; the role description; the medical records above; and the Metro South Hospital "
+    "and Health Service letter of 5 June 2026 (ref K-LM26/729)."),
   ]),
 
  ("OUTLINE_01_JEFFREY", "OUTLINE OF EVIDENCE &ndash; MS CAROLYN JEFFREY", TAIL_W,
