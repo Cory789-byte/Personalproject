@@ -53,7 +53,7 @@ ROWS = [
        "obtained by the Respondent under the Form 29 signed 4 July 2025).",
   "Prior health: the entry of 16 November 2023 (Dr Nanayakkara) recording poor sleep with shift work, that the "
   "Appellant could not do shifts without a good sleep, no psychological illness such as depression or psychosis, "
-  "and mood good, with melatonin and temazepam prescribed. The referral letter of 16 May 2024 (Dr Zhao), renewing the referral for \"ongoing care and management\", which lists the past medical history as the history-list items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and lists the medications then current, which include no antidepressant, no anxiolytic and no other psychotropic medication. "
+  "and mood good, with melatonin and temazepam prescribed. The referral letter of 16 May 2024 (Dr Zhao), renewing a referral to a psychiatrist, Dr Amini, for \"ongoing care and management\", which lists the past medical history as the history-list items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and lists the medications then current, which include no antidepressant, no anxiolytic and no other psychotropic medication. "
   "First presentation after onset: 28 June 2024 (Dr Slawinski) recording \"stress at work\" and \"upset by people "
   "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", that "
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
