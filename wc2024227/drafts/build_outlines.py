@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=5)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=5)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.7, leading=10.5, spaceAfter=2.4)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.5, leading=10.2, spaceAfter=2.2)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.8)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -42,8 +42,8 @@ OUTLINES = [
   "referred to.",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
-    "shift worker. The duties: emergency response notifications distributed under the code "
-    "procedures \"strictly adhering to protocols and timeframes\"; the pager and on-call records on "
+    "shift worker. The duties: the emergency response notifications, \"strictly adhering to protocols "
+    "and timeframes\"; the pager and on-call records on "
     "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
     "handover and distressed patients and families. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
@@ -62,12 +62,16 @@ OUTLINES = [
     "rostering errors made by Chloe with regards to Cory's line in past rosters\". "
     "<i>[&para;&para; 211&ndash;223]</i>"),
    ("Pay and entitlements.", "The public holidays I was not rostered between February and April "
-    "2024 and the difference to my pay; that Payroll identified the errors on 3 May 2024 and "
-    "directed my manager to submit an AVAC for each fortnight; that I could not submit one myself; "
-    "what I was told between 3 and 28 May 2024; and the validation of claims older than three "
-    "months I was asked to sign on 28 May. The special pandemic leave application of February "
+    "2024 and the difference to my pay. The loop: on 8 April 2024 I asked Ms Taylor to review my "
+    "pay; on 9 April she directed me to raise the older dates through MyHR payroll enquiries; Payroll "
+    "told me the payments had to be processed by my manager, which I relayed to her on 24 April; on "
+    "3 May Payroll wrote to her, copying me, to \"submit an AVAC to correct these shifts for each "
+    "fortnight\"; when I followed up with Payroll on 10 May, Payroll on 13 May told me to \"speak to "
+    "your Line Manager\"; on 21 May she was still \"waiting payroll confirmation\"; on 28 May I was "
+    "asked to sign a validation of claims older than three months. That under the payroll process "
+    "only my manager could submit the AVAC. The special pandemic leave application of February "
     "2024: what I attached, the two declines, and the approval on the same material. "
-    "<i>[&para;&para; 114&ndash;142, 182&ndash;210]</i>"),
+    "<i>[&para;&para; 114&ndash;142, 182&ndash;210, 242&ndash;246]</i>"),
    ("The database, the misdirected calls, and what I could not fix.", "That from 18 July 2023 "
     "operators could no longer correct database entries and the Contact &amp; Number Changes book "
     "was removed, so a wrong number waited on Ms Stibbard or Ms Taylor and after hours had to "
@@ -78,12 +82,11 @@ OUTLINES = [
     "her, and on many occasions neither they nor I could have the update or issue resolved during "
     "the shift. What I saw at the console between 2 and "
     "8 May 2024: the nine occasions the MASPER Registrar reported of calls reaching the wrong team, "
-    "including the MET call team ringing to ask where the MET call was because \"switchboard could "
+    "including the MET call team ringing because \"switchboard could "
     "not tell them where VHUB was\"; the Integrated Respiratory Service writing on 15 May and again "
     "on 20 May 2024 that calls were still being put through to them and \"we can not help patients "
     "or other clinical staff\"; that on each occasion I could not correct the entry myself and the "
-    "delay built up while the correction waited; my recommendation of 20 May 2024 that the clinic "
-    "contact document be reviewed; and Ms Taylor's statement to the department on 9 May 2024 of "
+    "delay built up while the correction waited; and Ms Taylor's statement to the department on 9 May 2024 of "
     "\"many ongoing issues raised by the MASPER and the medical department about calls being "
     "transferred to the wrong medical teams\". <i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
@@ -106,8 +109,8 @@ OUTLINES = [
     "such as depression or psychosis, and mood good. The ADHD and anxiety noted in my history in "
     "October 2022 and the specialist referral renewed on 16 May 2024, and what each concerned. "
     "<i>[General-practice records disclosed by the Respondent]</i>"),
-   ("Onset, presentation and diagnosis.", "The symptoms I experienced from about 18 June 2024 and "
-    "their effect on my sleep, concentration, self-care and relationships. Attending Dr Slawinski "
+   ("Onset, presentation and diagnosis.", "My symptoms from about 18 June 2024 and their effect on "
+    "sleep, concentration, self-care and relationships. Attending Dr Slawinski "
     "on 28 June 2024, whose note records \"stress at work\" and \"upset by people not following "
     "rules\", and Dr Hawes on 1 July 2024, whose note records \"work stress\", that \"they withhold "
     "pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
