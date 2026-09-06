@@ -67,12 +67,16 @@ TABS = [
   'Directive 15/24, Leave without Salary Credited as Service, effective 30 September 2024',
   'Clause 4.1(b)(ii) (page 1): the directive applies to employees of Hospital and Health Services. Clause 5.1 (page 1): "Employees are to have leave without salary credited as service for leave and salary purposes as provided in this directive." The table "Leave credited as service" (pages 1 to 3) states, for each type of leave without salary, the period recognised for long service leave. For <b>special leave to claim workers&rsquo; compensation</b> (page 3) the period recognised is <b>"Any period."</b> For sick leave without salary (page 1) it is "The first 3 months of any continuous period."',
   'Nothing. The directive is reproduced in full. It supersedes Directive 01/19, which is not held.'),
+ ('ATT32_Directive_01-19_Leave_Without_Salary_Credited_As_Service_SUPERSEDED.pdf', None,
+  'Directive 01/19, Leave without Salary Credited as Service, effective 13 September 2019, superseded 30 September 2024',
+  'The directive in force before Directive 15/24. Its table carries the same row: for <b>special leave to claim workers&rsquo; compensation</b> the period recognised for long service leave is <b>"Any period."</b> Its application clause (page 1) names public service officers and employees engaged under sections 147(2)(a) and 148(2)(a) of the <i>Public Service Act 2008</i>, and does not name Hospital and Health Services.',
+  'Nothing. Reproduced in full, as published by the Office of Industrial Relations and marked superseded.'),
 ]
 
 s = [Paragraph('METRO SOUTH HOSPITAL AND HEALTH SERVICE', HD),
      Paragraph('MSH-INJ-5795 &nbsp;|&nbsp; Cory Shepherd, employee number 388372', HD2),
      Paragraph('LONG SERVICE LEAVE &ndash; THE INSTRUMENTS', TITLE),
-     Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. Tabs 1 to 5 and tab 7 are the '
+     Paragraph('Provided with my email of 7 September 2026 to the Switchboard Manager and Payroll. Tabs 1 to 5, 7 and 8 are the '
                'instruments bearing on whether periods of leave without salary are credited as service for long service leave. '
                'Tab 6 is the policy governing what may be submitted on my behalf. '
                'Each page carries a footer identifying the instrument and its page number in the source '

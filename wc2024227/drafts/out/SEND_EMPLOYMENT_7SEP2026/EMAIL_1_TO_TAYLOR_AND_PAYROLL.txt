@@ -36,13 +36,30 @@ leave to claim workers' compensation, the period recognised for long service lea
 If it was instead recorded as sick leave without salary, the directive credits "The first
 3 months of any continuous period", and 21 June to 20 September is three months.
 
-My leave record shows those days under the leave category "Special". If the row applied
-was general special leave rather than special leave to claim workers' compensation, could
-you please tell me, so that I understand the basis.
+My leave record shows those days under the leave category "Special". The general special
+leave row recognises only "Any continuous period not exceeding 9 working days", and note (3)
+provides that where the total exceeds that, none of the period is credited. That would
+explain the exclusion of all three periods. If that is the row applied to 21 June to
+20 September 2024, could you please tell me, because on my understanding the applicable row
+is the workers' compensation one, and on that row the period is credited in full.
 
-I note that Directive 15/24 took effect on 30 September 2024 and supersedes Directive
-01/19. If the earlier directive governs the 2024 period, could I please be advised of the
-equivalent provision in it. I do not hold a copy.
+If it is credited, the effect is that my eligibility date falls in late June 2026 rather
+than 29 September 2026 - 25 March 2026 plus the remaining excluded days - and has therefore
+already passed.
+
+Directive 15/24 took effect on 30 September 2024 and superseded Directive 01/19, so the
+earlier directive may be the one governing a period in June to September 2024. I have
+obtained Directive 01/19 from the Office of Industrial Relations and it carries the same
+row: for special leave to claim workers' compensation, the period recognised for long
+service leave is "Any period." Both are attached, at tabs 7 and 8. On this question it
+makes no difference which of them applies.
+
+I note as well that the application clause of Directive 01/19 names public service officers
+and employees engaged under sections 147(2)(a) and 148(2)(a) of the Public Service Act
+2008, and does not name Hospital and Health Services, whereas clause 4.1(b)(ii) of
+Directive 15/24 does. If the position is that Directive 01/19 did not apply to Health
+Service Employees, could you please tell me which instrument was applied to that period
+instead.
 
 THE THIRD PERIOD
 
@@ -106,7 +123,7 @@ August 2026 ... PRN 249 863 66", and 30 August is the last day of that fortnight
 please advise on what basis it was made and arrange for it to be corrected. I have at no
 time been absent without authority.
 
-Attached: "Long service leave - the instruments" (42 pages), including HR Policy C13 at tab
+Attached: "Long service leave - the instruments" (45 pages), including HR Policy C13 at tab
 6, which governs what may be submitted on my behalf.
 
 Could I please have a response before the pay run on Wednesday 9 September.
