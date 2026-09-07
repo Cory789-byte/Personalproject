@@ -123,7 +123,7 @@ OUTLINES = [
     "October 2022, and the psychiatrist referral to Dr Amini renewed on 16 May 2024 for which no appointment could "
     "be obtained. "
     "<i>[General-practice records disclosed by the Respondent]</i>"),
-   ("Onset, presentation and diagnosis.", "My symptoms from about 18 June 2024 and their effect on "
+   ("Onset, presentation and diagnosis.", "That I last worked a shift on 3 June 2024. My symptoms from about 18 June 2024 and their effect on "
     "sleep, concentration, self-care and relationships, and on my capacity for work, from being "
     "certified unfit from 1 July 2024 to returning on reduced hours and the restrictions recorded in "
     "the Employee Capability Checklist of 3 July 2026. Attending Dr Slawinski "
