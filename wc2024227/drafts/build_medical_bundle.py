@@ -83,7 +83,8 @@ def tab_sheet(t):
        P("Where the Respondent holds it",LAB),P(t['held']),
        P("Pages included",LAB),P(t['incl']),
        P("Pages omitted, and why",LAB),P(t['omit']),
-       Spacer(1,4*mm),P(("Schedule row "+str(t['n'])+" states what this document is, and is not, relied upon for.") if t['n']<=7 else "This tab is added so that the Respondent's own position on the documents at Tabs 1, 2, 4 and 7 sits with them.",B)]
+       Spacer(1,4*mm),P({8:"This tab is added so that the Respondent's own position on the documents at Tabs 1, 2, 4 and 7 sits with them.",
+         9:"This tab is added so that the author's own identification of the report at Tab 4 as his responsive report sits with it. Schedule row 4 states what that report is, and is not, relied upon for."}.get(t['n'], "Schedule row "+str(t['n'])+" states what this document is, and is not, relied upon for."),B)]
     doc.build(s); buf.seek(0); return pikepdf.open(buf)
 
 def scan_page(path):
