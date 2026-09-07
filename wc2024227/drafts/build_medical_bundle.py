@@ -68,6 +68,11 @@ TABS=[
       incl="Page 4 of the notice (items 32 to 38: the 16 November 2023 entry, the Hawes certificate, the Review Decision finding and the Krishnaiah diagnosis) and page 9 of the response (rows 30 to 36, answering paragraphs 33 to 39), in which the Respondent admits that each document exists and says what it says, admits the contents of the Review Decision, and reserves only accuracy and relevance.",
       omit="The remaining pages of the notice and response, which concern other subjects.",
       src=('pdf', D+'2026-02-18_Form24_Response_and_email_communication.pdf', [4,9])),
+ dict(n=9, title="Dr Krishnaiah's email of 8 September 2026 identifying the report at Tab 4 as the report responsive to the matters asked of him",
+      held="Not on the Respondent's list. Served with this bundle.",
+      incl="Page 1 of the email chain: the treating psychiatrist's message of 8 September 2026 at 7:18 am. Asked on 5 September 2026 to address whether the Appellant sustained a personal injury, whether it arose out of or in the course of employment, and whether employment was a significant contributing factor, he replied that he had attached \"the report that captures the relevant information you have requested\". The attachment is the report of 13 February 2025 at Tab 4; its text is identical and it is not reproduced again. No report has been prepared for this proceeding.",
+      omit="Pages 2 to 7, being the earlier messages of 5 September 2026 in the same chain, which are not relied upon.",
+      src=('pdf', D+'correspondence-2026/2026-09-08_0718_Krishnaiah_staff_sickness_records_not_sent_report_attached.pdf', [1]))
 ]
 
 def tab_sheet(t):

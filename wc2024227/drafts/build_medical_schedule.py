@@ -13,7 +13,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
 BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.4, leading=8.55, spaceAfter=0)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.3, leading=8.45, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
 INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.6, leading=8.8, spaceAfter=1.3)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
@@ -41,7 +41,7 @@ INTRO = [
  ("Use at hearing.", "Against each document is stated what it is, and is not, relied upon for. Items 3, 4 and 5 contain "
   "clinical opinion; the Appellant does not rely upon that opinion otherwise than through the oral evidence of its "
   "author. Dr Ravikumar Bangalore Krishnaiah and Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of "
-  "names of all witnesses filed today, and their attendance has been requested. Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tab 8 adds the Respondent's responses of 18 February 2026."),
+  "names of all witnesses filed today, and their attendance has been requested. Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tabs 8 and 9 add the Respondent's responses of 18 February 2026 and the author's email of 8 September 2026."),
  ("The sequence these documents record.", "No psychological illness before June 2024 (item 1); first presentation "
   "attributing symptoms to work, 28 June 2024 (item 1); certification of no capacity from 1 July 2024 (item 2); "
   "diagnosis of Major Depressive Disorder with anxiety state, 24 October 2024 (item 3); the treating psychiatrist's "
