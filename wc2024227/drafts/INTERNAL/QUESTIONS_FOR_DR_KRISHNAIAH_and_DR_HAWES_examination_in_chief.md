@@ -45,3 +45,19 @@ after 24 Oct 2024 as a cause.
 "Stemming from means significant." That is a submission. It lives in closing, built on the
 answers to K3, K4 and K8 above — or, if he does not attend, on the words of the report alone,
 with the s 32(1) "a significant" test and the reviewer's own finding at RD p.17.
+
+## Sequencing note for K5 and K7 (Cory, 8 Sep): NO PROCEEDING EXISTED AT THE FIRST CONSULTATION
+- 24 Oct 2024, 11:45 am: first consultation; diagnosis "Major Depressive Disorder with anxiety state" in
+  writing the same morning. The email's only reference is to "obsessive preoccupation about work cover
+  claim" - the compensation CLAIM (lodged 1 Jul, rejected 13 Sep, review sought 16 Sep 2024), not a
+  proceeding.
+- 24 Oct 2024: Review Decision 69983 dated that day (delivery time still to be obtained).
+- 25 Oct 2024: reinstatement application TD/2024/110 stamped - the day AFTER the diagnosis.
+- WC/2024/227 appeal: filed after the review decision, i.e. after the diagnosis (confirm the filing date).
+- 13 Feb 2025: the QSuper report. Its "ongoing legal proceedings" and "job loss" language describes the
+  Feb 2025 state. By then the appeal and the reinstatement matter were on foot and the deed was days away.
+=> Ask K5/K7 in that order: "When you first diagnosed him, on 24 October 2024, was any court or
+   commission proceeding on foot?" (No.) Then: "The legal proceedings you refer to in February 2025 -
+   when did they begin relative to that diagnosis?" The diagnosis predates every proceeding.
+=> Closing: the competing stressors the Regulator relies on from the report - job loss, legal
+   proceedings - post-date the diagnosis. They cannot have caused what was already diagnosed.
