@@ -7392,3 +7392,26 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 
 ⛔ **Stage 2 notice to the CE is NOT being pursued** (instruction, 6 Sep). Files parked at
 `drafts/out/HOLD_CE_STAGE2/`.
+
+## 2026-09-07 — MONDAY MORNING: FORM 24/25 FILING QUESTION, AND THE DAY'S SEND ORDER
+- Matheson 09:43: "these forms should also be filed with the QIRC registry"; confirms response by
+  COB Fri 11 Sep 2026.
+- ⭐ RESEARCHED: r 49(1) = notice "served on another party"; r 49(2) time runs from RECEIPT. No
+  filing requirement. Contrast r 50(4) (affidavit usable "only if it has been filed"). r 41(2)(g):
+  Commission's involvement is by directions order. Appeal Guide: ZERO references to notices to
+  admit. Form header cites rr 41, 49, 108, 113 (108/113 = Magistrates Court equivalents; generic
+  form). ⚠ QIRC website unreachable from the sandbox — official template and PD 3/2021 not
+  re-read directly; PD 3/2021 30-page hard-copy rule taken from search summary.
+- ⛔ DECISION (Cory): DO NOT file now. File Form 24 + Form 25 TOGETHER WITH the Regulator's
+  response after 11 Sep, covering note stating the rules are silent. Draft held at
+  drafts/out/SEND_9SEP2026/HOLD_AFTER_11SEP_EMAIL_REGISTRY_FILE_FORM24_FORM25_WITH_RESPONSE.txt.
+  Attach the EXACT files sent 28 Aug (from Sent folder) — 303- vs 308-fact builds both exist.
+- Reply to Matheson today (EMAIL_0B): confirms 28 Aug service, 11 Sep, rule silent on filing,
+  will file with the response.
+- ExpenseMe Pro (Harrison 09:29): both routes need an email FROM the QH mailbox. Cory IS logged
+  in. Send proxy nomination from QH account → expense_claim@health.qld.gov.au cc LBH IM; then
+  EMAIL_3 para A from hotmail. ⚠ CHECK: can he see 2024 emails? If yes, outline topic 10 line
+  "my Queensland Health email was restricted, so I cannot produce my work emails myself" must
+  change before Wed 9 Sep service.
+- Employment sends today (hotmail): EMAIL_1 LSL (+ 39pp 6-tab bundle + D15/24 + D01/19),
+  then EMAIL_2 AWOL, then EMAIL_3 Harrison. CE Stage 2 notice: NOT being sent (HOLD_CE_STAGE2).
