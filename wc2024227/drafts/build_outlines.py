@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.25, leading=9.15, spaceAfter=1.3)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.25, leading=9.0, spaceAfter=1.2)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=1)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -114,7 +114,8 @@ OUTLINES = [
     "consequential changes to operating procedures and that complaints were managed solely by email or "
     "verbally, no safety assessment, investigation or change of procedure followed any complaint I made "
     "about misdirected calls, directory accuracy or fatigue before 30 June 2024, which is what Dr Hawes "
-    "recorded on 1 July 2024 as \"they don't listen to his complaints\". "
+    "recorded on 1 July 2024 as \"they don't listen to his complaints\". What I said on these matters is "
+    "in my emails; I never said anything hostile about Ms Taylor or any other member of staff. "
     "<i>[&para;&para; 143&ndash;181, 266&ndash;267, 287&ndash;294]</i>"),
    ("My health before June 2024.", "That before 18 June 2024 I had never been diagnosed with or "
     "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
@@ -143,37 +144,6 @@ OUTLINES = [
     "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
     "payroll records; the role description; the medical records above; and Metro South Health's "
     "letter of 5 June 2026 (ref K-LM26/729)."),
-  ]),
-
- ("OUTLINE_01_JEFFREY", "OUTLINE OF EVIDENCE &ndash; MS CAROLYN JEFFREY", TAIL_W,
-  "Ms Jeffrey is an Administration Officer in Switchboard Services at Logan Hospital and has worked "
-  "in that department alongside the Appellant. She is expected to give evidence of the following.",
-  [("", "How the Switchboard operated before Ms Chloe Taylor and Ms Ellen Stibbard came into the "
-    "department: that operators could access and update the database used by the Switchboard "
-    "directly; that a Communication Book was kept in the operators' room in which staff recorded "
-    "changes to contact and paging numbers and matters for handover; and that operators made "
-    "changes to medical contact numbers as those changes arose."),
-   ("", "The changes made after Ms Taylor and Ms Stibbard came into the department: the change to "
-    "the switchboard process, the restriction of operators' access to the database, the removal of "
-    "the Communication Book from the operators' room, and the transfer away from operators of "
-    "responsibility for updating contact and paging numbers."),
-   ("", "That she was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
-    "18 July 2023, in which Ms Stibbard stated that while she was fixing the database she would be "
-    "\"removing everyone's access to the database\", that anyone wanting an entry amended was to "
-    "contact her directly, and that a request made after hours would \"have to wait until either "
-    "Chloe or myself are back\"."),
-   ("", "What she observed of the practical effect on the accuracy of contact and paging numbers "
-    "once operators could no longer correct an inaccurate entry themselves and had to wait for "
-    "Ms Stibbard or Ms Taylor."),
-   ("", "The removal of an entry from the Communication Book on or about 6 June 2023: what she saw "
-    "and heard at the time and immediately afterwards, and what was said."),
-   ("", "Any change she observed in the Appellant at work over the period, from her own "
-    "observation. She offers no opinion as to diagnosis or cause."),
-   ("", "That she did not at any time hear the Appellant say anything hostile about Ms Taylor or "
-    "about any other member of staff."),
-   ("", "The written statement she provided to WorkCover Queensland on or about 18 July 2024 and "
-    "the further statement of on or about 1 August 2024, each listed in the Respondent's amended "
-    "List of Documents dated 14 August 2026."),
   ]),
 
  ("OUTLINE_02_HARRISONJONES", "OUTLINE OF EVIDENCE &ndash; MR CORY HARRISON-JONES", TAIL_W,
@@ -218,8 +188,8 @@ OUTLINES = [
     "Switchboard roster."),
    ("", "Any change she observed in the Appellant at work over the period, from her own "
     "observation. She offers no opinion as to diagnosis or cause."),
-   ("", "That she was endorsed as a workplace delegate of Together Queensland on or about "
-    "3 November 2025, at the same time as the Appellant and Ms Jeffrey."),
+   ("", "That she did not at any time hear the Appellant say anything hostile about Ms Taylor or "
+    "about any other member of staff."),
   ]),
 ]
 
@@ -234,7 +204,7 @@ for stem, title, tail, intro, items in OUTLINES:
     doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm,
                           topMargin=11*mm, bottomMargin=11*mm)
     doc.addPageTemplates([PageTemplate(id='n', frames=[
-        Frame(15*mm, 11*mm, A4[0]-30*mm, A4[1]-22*mm, leftPadding=0, rightPadding=0,
+        Frame(15*mm, 10*mm, A4[0]-30*mm, A4[1]-20*mm, leftPadding=0, rightPadding=0,
               topPadding=0, bottomPadding=0)])])
     doc.build(s); buf.seek(0)
     pdf = pikepdf.open(buf)
