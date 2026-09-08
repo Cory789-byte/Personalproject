@@ -74,8 +74,8 @@ OUTLINES = [
     "two shifts to be unreasonable management action. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;261, 263&ndash;271, 285]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
-    "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across successive roster periods; "
-    "and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
+    "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across roster periods; "
+    "and Ms Reese's acknowledgement of \"a few "
     "rostering errors made by Chloe with regards to Cory's line in past rosters\"; and that I was not told my roster "
     "proposal would not be considered, and learned of Ms Reese's email of 10 May 2024 saying so only from the "
     "Respondent's disclosure in July 2025. "
