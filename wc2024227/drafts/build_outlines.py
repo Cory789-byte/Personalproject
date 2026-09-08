@@ -42,20 +42,23 @@ OUTLINES = [
   "8 September 2026; my evidence on them is what they were from the console and their effect on me.",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
-    "shift worker. The duties: the emergency response notifications, \"strictly adhering to protocols "
-    "and timeframes\"; the pager and on-call records on "
-    "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
-    "handover and distressed patients and families; and why an accurate entry matters where an urgent "
-    "page goes to whatever number is recorded. My background: safety "
-    "advisor on Manus Island, and earlier a nursing student. "
-    "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
+    "shift worker. The Switchboard is the hospital's communications hub: in a Code Blue or MET call it is the "
+    "Switchboard that activates and pages the response team, and an error or delay at the console is an error or "
+    "delay in the emergency response. Between 15 and 50 emergency codes go out in 24 hours; some 200 to 300 calls a "
+    "shift, many from people distressed, frightened or in crisis; urgent results relayed doctor to doctor; and "
+    "complaints from the public, clinicians and staff arrive at the console first, to the operator on duty, and "
+    "those my manager did not action came back to me. The standing condition of the role over the period: I was "
+    "held responsible for what went wrong anywhere in that system, while the means of correcting it, the directory, "
+    "the on-call roster, my own roster and my pay, were held by others. My background: safety advisor on Manus "
+    "Island, and earlier a nursing student. "
+    "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;48, 182&ndash;223]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
     "finishing at 23:00 and starting at 06:00, and the rest and sleep actually available; that on the "
     "evening of 17 March I handled a MET call and, four minutes later, a Code Blue to the same bed, then "
     "a further MET call; that 18 March was a Monday day shift, which carries the week's peak call volume "
     "and on which the queue is rarely cleared, and that between 06:00 and 14:00 I handled a Code Grey, "
-    "three MET calls and two neonatal MET calls while answering that queue of urgent handover, "
+    "three MET calls and two neonatal MET calls, in that state, while answering that queue of urgent handover, "
     "distressed callers and complaints; and the sick leave of 19 March; that those shifts were not a "
     "staff-initiated swap, the only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour "
     "agreement applied; and that the copy I hold of the roster published for that fortnight, 18 to 31 "
@@ -101,8 +104,8 @@ OUTLINES = [
     "hours because they were \"not provided on the rosters\" and that her phone was \"switched off\"; "
     "and at 10:15 am telling the team of "
     "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 that \"we "
-    "can not help patients or other clinical staff\"; and that on each occasion I could not correct the "
-    "entry myself and the delay built up while the correction waited. "
+    "can not help patients or other clinical staff\"; and that on each occasion the delay built up while the "
+    "correction waited on someone else. "
     "<i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
     "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
@@ -114,9 +117,8 @@ OUTLINES = [
     "removal; my email of 16 June 2023 recording no consultation on major changes; the concerns I raised "
     "on 7 August 2023 and the responses; my complaint of 13 May 2024, later determined to be a public "
     "interest disclosure (content not set out); my interest in becoming the Switchboard union delegate "
-    "and what followed; and that, to my knowledge and on Metro South's own statements that there were no "
-    "consequential changes to operating procedures and that complaints were managed solely by email or "
-    "verbally, no safety assessment, investigation or change of procedure followed any complaint I made "
+    "and what followed; and that, on Metro South's own statements, no safety assessment, investigation or change "
+    "of procedure followed any complaint I made "
     "about misdirected calls, directory accuracy or fatigue before 30 June 2024, which is what Dr Hawes "
     "recorded on 1 July 2024 as \"they don't listen to his complaints\". What I said on these matters is "
     "in my emails; I never said anything hostile about Ms Taylor or any other member of staff. "
@@ -207,7 +209,7 @@ for stem, title, tail, intro, items in OUTLINES:
     doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm,
                           topMargin=11*mm, bottomMargin=11*mm)
     doc.addPageTemplates([PageTemplate(id='n', frames=[
-        Frame(15*mm, 9*mm, A4[0]-30*mm, A4[1]-18*mm, leftPadding=0, rightPadding=0,
+        Frame(15*mm, 8*mm, A4[0]-30*mm, A4[1]-16*mm, leftPadding=0, rightPadding=0,
               topPadding=0, bottomPadding=0)])])
     doc.build(s); buf.seek(0)
     pdf = pikepdf.open(buf)
