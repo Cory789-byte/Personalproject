@@ -41,7 +41,7 @@ INTRO = [
  ("Use at hearing.", "Against each document is stated what it is, and is not, relied upon for. Items 3, 4 and 5 contain "
   "clinical opinion; the Appellant does not rely upon that opinion otherwise than through the oral evidence of its "
   "author. Dr Ravikumar Bangalore Krishnaiah and Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of "
-  "names of all witnesses filed today, and their attendance has been requested. Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tabs 8 and 9 add the Respondent's responses of 18 February 2026 and the exchange with the author of 5 to 8 September 2026."),
+  "names of all witnesses filed today. Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tabs 8 and 9 add the Respondent's responses of 18 February 2026 and the exchange with the author of 5 to 8 September 2026."),
  ("The sequence these documents record.", "No psychological illness before June 2024 (item 1); first presentation "
   "attributing symptoms to work, 28 June 2024 (item 1); certification of no capacity from 1 July 2024 (item 2); "
   "diagnosis of Major Depressive Disorder with anxiety state, 24 October 2024 (item 3); the treating psychiatrist's "
