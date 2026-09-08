@@ -56,8 +56,8 @@ OUTLINES = [
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;48, 182&ndash;223]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023; that after late shifts I would sleep in the car before driving home. The "
-    "shifts of 17 and 18 March 2024: my travel time each way, "
-    "finishing at 23:00 and starting at 06:00, and the rest and sleep actually available; that on the "
+    "shifts of 17 and 18 March 2024: my travel each way, "
+    "finishing at 23:00 and starting at 06:00, and the rest actually available; that on the "
     "evening of 17 March I handled a MET call and, four minutes later, a Code Blue to the same bed, then "
     "a further MET call; that 18 March was a Monday day shift, the week's peak, and that between 06:00 and 14:00 I "
     "handled a Code Grey, two MET calls (one cancelled a minute later) and two neonatal MET calls, in that state, while answering that queue of "
@@ -98,7 +98,7 @@ OUTLINES = [
     "\"wait until either Chloe or myself are back\"; the directives of 15 April, 19 April and 9 May "
     "2024, and that I was not consulted before any of them. That from 15 April 2024, when Ms Taylor "
     "notified the department that she and Ms Stibbard had placed themselves on after-hours call, "
-    "departments and clinicians ringing during my shifts with pager and phone updates asked for "
+    "departments and clinicians ringing during my shifts with updates asked for "
     "her, and on many occasions neither they nor I could have the update or issue resolved during "
     "the shift. The MASPER Registrar's \"Switchboard issues\" emails to Ms Taylor of 3 May 2024 at "
     "3:06 pm and 8 May at 5:28 pm, nine calls reaching the wrong team, including the MET call team "
@@ -112,7 +112,7 @@ OUTLINES = [
     "<i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
     "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
-    "2024 at 9:30 am, Ms Taylor sent the whole department an email stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
+    "2024 at 9:30 am, Ms Taylor sent the whole department an email stating \"Otherwise my hours are from 06:30-14:30\", the information I "
     "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
     "concerned about. "
     "<i>[&para;&para; 70&ndash;88]</i>"),
@@ -191,7 +191,8 @@ OUTLINES = [
   [("", "That she and the Appellant each sought an additional two shifts per fortnight, as recorded "
     "in his email of 7 August 2023 to Ms Taylor, Ms Reese, Ms Conaghan and Ms Smith."),
    ("", "The calls the Switchboard receives and what they are: that a substantial proportion come from people who are "
-    "distressed, frightened, angry or abusive; that calls of that kind are a regular and continuing feature of the work at "
+    "distressed, frightened, angry or abusive; that some callers make threats, including threats of harm to the operator, and "
+    "demand the name of the operator they are speaking to; that calls of that kind are a regular and continuing feature of the work at "
     "the console and not occasional events; that the operator on duty is the first person they reach; and that she "
     "observed the Appellant receiving such calls."),
    ("", "What she observed of clinicians and departments remaining on the line to express their frustration to the "
