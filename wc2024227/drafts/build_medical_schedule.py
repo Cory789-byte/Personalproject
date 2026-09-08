@@ -41,7 +41,7 @@ INTRO = [
  ("Use at hearing.", "Against each document is stated what it is, and is not, relied upon for. Items 3, 4 and 5 contain "
   "clinical opinion; the Appellant does not rely upon that opinion otherwise than through the oral evidence of its "
   "author. Dr Ravikumar Bangalore Krishnaiah and Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of "
-  "names of all witnesses filed today. Tabs 1 to 7 contain the pages relied upon; those omitted are identified on each tab sheet. Tabs 8 and 9 add the Respondent's responses of 18 February 2026 and the exchange with the author of 5 to 8 September 2026."),
+  "names of all witnesses filed today. Omitted pages are identified on each tab sheet. Tabs 8 and 9 add the Respondent's responses of 18 February 2026 and the exchange with the author of 5 to 8 September 2026."),
  ("The sequence these documents record.", "No psychological illness before June 2024 (item 1); first presentation "
   "attributing symptoms to work, 28 June 2024 (item 1); certification of no capacity from 1 July 2024 (item 2); "
   "diagnosis of Major Depressive Disorder with anxiety state, 24 October 2024 (item 3); the treating psychiatrist's "
@@ -88,7 +88,7 @@ ROWS = [
   "workplace is more likely result in significant deterioration\". The stressors so recorded correspond to facts admitted by the Respondent on 8 September 2026: management and rostering, and the night-shift line, at facts 211, 212 and 220; the shorter break, at facts 258 to 260; and pay withheld or delayed from the 5 February 2024 fortnight (facts 185 to 190), uncorrected at 13 May (fact 193), \"claims older than 3 months\" on 28 May (facts 196, 197), a claim effective 30 March \"Part Completed\" on 30 May (fact 203), and the two February claims absent from the myHR report (fact 210).",
   "Attribution among the individual events at paragraphs 2 to 7 of the Appellant's outline of evidence; any "
   "matter after 24 October 2024 as a cause of the injury. Prepared for QSuper; tendered as "
-  "a treating record, not as a report for this proceeding. The report bears the footer that the information was disclosed \"for the only reason of clinical information and not for medico-legal use\"."),
+  "a treating record. The report bears the footer that the information was disclosed \"for the only reason of clinical information and not for medico-legal use\"; the author's email of 8 September 2026 (Tab 9) identifies it as \"the report that captures the relevant information you have requested\" on the three matters in issue."),
  ("5", "Clinical records of Dr Krishnaiah from 24 October 2024 (offered by the practice on 5 September 2026 and "
        "requested; not yet received).",
   "What was reported at the first consultation and when; diagnosis and prescribing over time. To be served on "
