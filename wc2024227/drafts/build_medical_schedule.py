@@ -13,7 +13,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
 BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.3, leading=8.45, spaceAfter=0)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.2, leading=8.3, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
 INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.6, leading=8.8, spaceAfter=1.3)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
@@ -57,8 +57,8 @@ ROWS = [
   "First presentation after onset: 28 June 2024 (Dr Slawinski) recording \"stress at work\" and \"upset by people "
   "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", that "
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
-  "earlies\", and \"causing anxiety\". Relied upon as the contemporaneous record of what was reported "
-  "before any claim decision, dismissal or proceeding.",
+  "earlies\", and \"causing anxiety\" (facts 185 to 203 and 211 to 221, admitted 8 September 2026). Relied upon as the "
+  "contemporaneous record of what was reported before any claim decision, dismissal or proceeding.",
   "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages and marked as such. The entry of 16 November 2023 is not relied upon as a characterisation of the significance of shift-work sleep disturbance, which is a matter for the treating doctors."),
  ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July, 11 August and 8 September 2024, and of Dr Ki "
        "Pang dated 7 August 2024 (Respondent's items 7 and 8).",
@@ -102,7 +102,7 @@ ROWS = [
        "contents admitted 18 February 2026).",
   "That the Respondent's own review recorded Dr Hawes's statement to WorkCover of 2 September 2024 that work events "
   "were the sole cause, found \"a personal injury of a psychological nature\", found employment \"was a significant "
-  "contributing factor\" as to factors 2, 3 and 4, and found the March 2024 rostering to be unreasonable management action.",
+  "contributing factor\" as to factors 2, 3 and 4, and found the March 2024 rostering to be unreasonable management action (facts 257 to 261, admitted).",
   "As a binding determination. The hearing is de novo; the finding is relied upon as an admitted document."),
 ]
 
@@ -123,7 +123,7 @@ t.setStyle(TableStyle([
     ('TOPPADDING', (0,0), (-1,-1), 1.1), ('BOTTOMPADDING', (0,0), (-1,-1), 1.1),
 ]))
 s.append(t)
-s.append(P("<b>The finding on section 32(1) in the decision under appeal.</b> On the medical evidence then before it \u2014 the work capacity certificates at item 2 and Dr Hawes's statement to WorkCover of 2 September 2024 \u2014 the Respondent's review of 24 October 2024 found that the Appellant \"sustained a personal injury of a psychological nature\", and stated: \"Having regard to the medical evidence, I am satisfied your employment was a significant contributing factor to the psychological injury\" (pages 17 and 26; item 7). The claim was rejected under section 32(5), not section 32(1). The hearing is de novo and that finding does not bind the Commission; it is relied upon as an admitted document. Items 1 to 6 go beyond the material the reviewer had.", INTROSTY))
+s.append(P("<b>The finding on section 32(1) in the decision under appeal.</b> On the medical evidence then before it \u2014 the work capacity certificates at item 2 and Dr Hawes's statement to WorkCover of 2 September 2024 \u2014 the Respondent's review of 24 October 2024 found that the Appellant \"sustained a personal injury of a psychological nature\", and stated: \"Having regard to the medical evidence, I am satisfied your employment was a significant contributing factor to the psychological injury\" (pages 17 and 26; item 7). The claim was rejected under section 32(5), not section 32(1). The hearing is de novo and that finding does not bind the Commission; it is relied upon as an admitted document.", INTROSTY))
 s.append(P("The Appellant reserves the position as to any further report; if one is to be relied upon, directions will be sought before it is served.", FOOT))
 sig = Table([[SIG(30*mm,15.5*mm),
               P("Dated: 9 September 2026<br/><b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY)]],
