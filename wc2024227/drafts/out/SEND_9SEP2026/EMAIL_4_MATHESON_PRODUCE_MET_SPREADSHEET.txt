@@ -1,37 +1,65 @@
 TO:      Renee.Matheson@oir.qld.gov.au
-SUBJECT: WC/2024/227 Shepherd v Workers' Compensation Regulator - request to produce: spreadsheet
-         of recorded MET calls, 17 to 18 March 2024, and the March 2024 Emergency Code Register
+SUBJECT: WC/2024/227 Shepherd v Workers' Compensation Regulator - request to produce the documents
+         not admitted on 8 September 2026
 
 Dear Ms Matheson,
 
 I refer to the Regulator's responses of 8 September 2026 to the Form 24 and Form 25 notices.
 
-Facts 228 to 231 of the Form 24 are not admitted, and Tab 31 of Annexure A is disputed in the
-Form 25 response. Both concern the entries recorded for 17 to 19 March 2024 in the workbook
-"2024 Emergency Code Register.xlsx" kept at Logan Hospital Switchboard.
+Five facts are not admitted (154 and 228 to 231) and the authenticity of fourteen tabs of Annexure A
+is disputed (Tabs 1, 5, 6, 17 to 24, 30, 30A and 31), each on the footing that the copy came from my
+own records. At the mention on 7 August 2026 the Commissioner indicated that the starting point for
+a document held by Metro South Health is to ask the Regulator to make inquiries and produce it, before
+any further non-party disclosure is sought. I make that request now. Each document is identified by
+tab, date and author. No request is made in respect of fact 154 or Tab 24.
 
-Metro South Health has told the Commission that it holds a record of those events. Its letter to
-Commissioner Dwyer of 5 June 2026 (reference K-LM26/729) states, in relation to Items 1 and 2 of
-the notice of non-party disclosure: "a spreadsheet of recorded MET calls is available for the
-period 17-18 March 2024." The Regulator admitted that statement at fact 268. The spreadsheet was
-not among the documents enclosed with that letter.
+A. The Emergency Code Register, March 2024 (facts 228 to 231; Tab 31)
 
-At the mention on 7 August 2026 the Commissioner indicated that the starting point for a document
-of this kind is to ask the Regulator to make inquiries and produce it, before any further
-non-party disclosure is sought. I make that request now, confined to two documents:
+Metro South Health's letter to Commissioner Dwyer of 5 June 2026 (reference K-LM26/729) states, in
+relation to Items 1 and 2 of the notice of non-party disclosure: "a spreadsheet of recorded MET calls
+is available for the period 17-18 March 2024." The Regulator admitted that statement at fact 268. The
+spreadsheet was not among the documents enclosed with the letter. Please produce:
 
-  1. the spreadsheet of recorded MET calls for 17 to 18 March 2024 referred to in the letter of
-     5 June 2026; and
+  1. the spreadsheet of recorded MET calls for 17 to 18 March 2024 referred to in that letter; and
+  2. the March 2024 sheet of the workbook "2024 Emergency Code Register.xlsx" kept at Logan Hospital
+     Switchboard, in native format and as printed, or, if the spreadsheet at item 1 is that sheet, a
+     copy of it in both forms.
 
-  2. the March 2024 sheet of the workbook "2024 Emergency Code Register.xlsx", in native format
-     and as printed, or, if the spreadsheet at item 1 is that sheet, a copy of it in both forms.
+B. The other disputed tabs
 
-Both are within the possession or control of Metro South Health, to which the Regulator has
-access for the purposes of this appeal. I would be grateful if the Regulator would make the
-inquiry and produce the documents by Friday 18 September 2026, so that both parties hold them
-before the Respondent's material is due on 30 September 2026. If the Regulator is not able to
-produce them, please let me know by that date and I will seek them by notice of non-party
-disclosure, limited to these two documents.
+The contents of each of the following documents were admitted in the Form 24 response at the facts
+noted. What remains is the authenticity of the copy. Please produce the Regulator's or Metro South
+Health's copy of each, or confirm authenticity by reference to it.
+
+  Tab 1    Role description, AO3 Switchboard Services, Logan Hospital (facts 1 to 13). Produced by
+           Metro South Health as Item 6 of its production of June 2026.
+  Tab 5    Email, Ms Taylor to the Appellant, 27 September 2023 at 1:52 pm, "Approved - Permanent
+           Full Time FTE" (fact 38).
+  Tab 6    Email, Ms Taylor to Logan Switch, 15 April 2024 at 12:39 pm, "Afterhours Oncall Process -
+           Switchboard" (facts 49, 68, 163). Held by the Regulator as the attachment to item 25 of
+           its amended List of Documents.
+  Tabs 17 to 19  Movement forms of 27 February, 17 April and 9 June 2026, approved by Mr Hughes
+           (facts 14 to 16).
+  Tab 20   Letter, Metro South Health to Commissioner Dwyer, 5 June 2026, K-LM26/729 (facts 263 to
+           268). On the Commission's file.
+  Tab 21   Email, Ms Forrest to the Appellant, 7 July 2026 (fact 224).
+  Tab 22   Consultation Paper - Proposed Rosters for Switchboard Services, November 2024 (facts 169
+           to 175).
+  Tab 23   Consultation outcome - Proposed Rosters for Switchboard Services, December 2024 (facts
+           167, 176).
+  Tab 30   Email, Ms Taylor to Logan Switch, 23 August 2023 at 2:18 pm, "What's Chloe's Hours?!"
+           (facts 71, 72). Quoted in Review Decision 69983 (fact 70).
+  Tab 30A  Email, Ms Taylor to Logan Switch, 18 June 2024 at 8:58 am, "Good morning Team." (facts
+           85 to 87).
+
+Each document at Part B, other than Tab 20, was authored or issued by an officer of Metro South
+Health and is within its possession or control, to which the Regulator has access for the purposes
+of this appeal.
+
+I would be grateful for production, or confirmation, by Friday 18 September 2026, so that both
+parties hold the documents before the Respondent's material is due on 30 September 2026. If the
+Regulator is not able to produce any of them, please let me know by that date which, and I will
+seek those by notice of non-party disclosure limited to the documents named above.
 
 Yours sincerely,
 
