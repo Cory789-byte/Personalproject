@@ -7,15 +7,15 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.units import mm
 from reportlab.lib.styles import ParagraphStyle
-from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle
+from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, PageBreak
 from reportlab.platypus import Image as RLImage
 
 DATE = sys.argv[1] if len(sys.argv)>1 else "21 September 2026"
 REPLY_BY = sys.argv[2] if len(sys.argv)>2 else "Friday 25 September 2026"
 
-B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.8, spaceAfter=4)
+B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9.4, leading=12.2, spaceAfter=5)
 HB  = ParagraphStyle('HB', parent=B, fontName='Helvetica-Bold', spaceAfter=2)
-C   = ParagraphStyle('C', parent=B, fontSize=8.3, leading=10.2, spaceAfter=0)
+C   = ParagraphStyle('C', parent=B, fontSize=8.4, leading=10.4, spaceAfter=0)
 CB  = ParagraphStyle('CB', parent=C, fontName='Helvetica-Bold')
 def P(t,s=B): return Paragraph(t,s)
 def SIG():
@@ -66,16 +66,19 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
    P("If neither is done for any document by that date, I will seek that document by notice of non-party disclosure to "
      "Metro South Health limited to the documents named in the table, and I will refer to this correspondence if the "
      "question of the costs of that step arises.",B),
-   Spacer(1,1*mm), t, Spacer(1,2*mm),
-   P("No request is made in respect of fact 154 or Tab 24. For Tab 31, the request is for the spreadsheet of recorded "
-     "MET calls for 17 to 18 March 2024 referred to in the letter of 5 June 2026 and for the March 2024 sheet of the "
-     "workbook from which it is drawn, in native format and as printed.",B),
+   P("The documents are listed in the schedule on the following page. No request is made in respect of fact 154 or "
+     "Tab 24. For Tab 31, the request is for the spreadsheet of recorded MET calls for 17 to 18 March 2024 referred to "
+     "in the letter of 5 June 2026 and for the March 2024 sheet of the workbook from which it is drawn, in native format "
+     "and as printed.",B),
    P("Yours faithfully,",B), Spacer(1,1*mm), SIG(), Spacer(1,1*mm),
-   P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented",B)]
+   P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented",B),
+   PageBreak(),
+   P("<b>WC/2024/227 &ndash; Schedule to the letter of " + DATE + ": the documents not admitted on 8 September 2026</b>",B),
+   Spacer(1,2*mm), t]
 
 buf=io.BytesIO()
-d=BaseDocTemplate(buf,pagesize=A4,leftMargin=22*mm,rightMargin=22*mm,topMargin=13*mm,bottomMargin=13*mm)
-d.addPageTemplates([PageTemplate(id='n',frames=[Frame(22*mm,13*mm,A4[0]-44*mm,A4[1]-26*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
+d=BaseDocTemplate(buf,pagesize=A4,leftMargin=22*mm,rightMargin=22*mm,topMargin=11*mm,bottomMargin=11*mm)
+d.addPageTemplates([PageTemplate(id='n',frames=[Frame(22*mm,11*mm,A4[0]-44*mm,A4[1]-22*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
 d.build(s); buf.seek(0)
 pdf=pikepdf.open(buf); n=len(pdf.pages)
 try: del pdf.Root.Metadata
