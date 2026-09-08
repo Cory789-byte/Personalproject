@@ -59,7 +59,7 @@ ROWS = [
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
   "earlies\", and \"causing anxiety\" (facts 185 to 203 and 211 to 221, admitted 8 September 2026). Relied upon as the "
   "contemporaneous record of what was reported before any claim decision, dismissal or proceeding.",
-  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages and marked as such. The entry of 16 November 2023 is not relied upon as a characterisation of the significance of shift-work sleep disturbance, which is a matter for the treating doctors."),
+  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages and marked as such. The entry of 16 November 2023 is relied upon as the contemporaneous record that shift work was affecting the Appellant's sleep, and of what was prescribed for it, before any claim or proceeding (facts 2, 13, 214, 218, 263 to 265 and 269 to 271, admitted 8 September 2026); its clinical significance is a matter for the treating doctors."),
  ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July, 11 August and 8 September 2024, and of Dr Ki "
        "Pang dated 7 August 2024 (Respondent's items 7 and 8).",
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
