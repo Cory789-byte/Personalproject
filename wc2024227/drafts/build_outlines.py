@@ -116,7 +116,7 @@ OUTLINES = [
     "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
     "concerned about. "
     "<i>[&para;&para; 70&ndash;88]</i>"),
-   ("The complaints, and what followed them.", "The communication book entry of 6 June 2023 and its "
+   ("The complaints, and what followed them.", "The communication book entry of 6 June 2023, a reminder about the monthly update of doctors' contact numbers, and its "
     "removal; my email of 16 June 2023 recording no consultation on major changes; the concerns I raised "
     "on 7 August 2023 and the responses; my complaint of 13 May 2024, later determined to be a public "
     "interest disclosure (content not set out); my interest in becoming the Switchboard union delegate "
@@ -166,8 +166,10 @@ OUTLINES = [
     "numbers for medical staff, including on-call doctors, so that calls and emergency "
     "notifications could be directed to the correct person."),
    ("", "What he observed over a period of approximately three months of the Appellant working to "
-    "obtain and record updates to medical contact numbers; the updates that were repeatedly missed; "
-    "and that the Appellant raised the matter and continued to seek those updates."),
+    "obtain and record updates to medical contact numbers; that the monthly task of updating the spreadsheet of "
+    "number changes, allocated to a shift, was left undone over that period; that the Appellant placed a reminder "
+    "in the Communication Book about the allocation of that monthly task; and that the reminder was the entry "
+    "removed on or about 6 June 2023."),
    ("", "That he was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
     "18 July 2023 stating that she would be removing everyone's access to the database and that "
     "changes were to be sent to her directly."),
@@ -190,6 +192,8 @@ OUTLINES = [
    ("", "What she observed of urgent pathology results for clinical staff being delayed in reaching "
     "the treating team following the changes made to the Switchboard process: what the process was "
     "before, what it became, and the delay that resulted."),
+   ("", "What she observed of the Appellant updating pager and contact numbers at the console, and of pager "
+    "and number updates left unactioned over extended periods."),
    ("", "What she observed at the console between 2 and 8 May 2024 of calls being connected to the "
     "wrong medical team, including calls concerning emergency responses."),
    ("", "That during that period operators had no means of correcting an incorrect entry in the "
