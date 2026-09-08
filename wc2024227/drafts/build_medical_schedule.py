@@ -55,7 +55,7 @@ ROWS = [
   "Appellant could not do shifts without a good sleep, no psychological illness such as depression or psychosis, "
   "and mood good, with melatonin and temazepam prescribed. The referral letter of 16 May 2024 (Dr Zhao), renewing a referral to a psychiatrist, Dr Amini, for \"ongoing care and management\", which lists the past medical history as the history-list items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and lists the medications then current, which include no antidepressant, no anxiolytic and no other psychotropic medication. "
   "First presentation after onset: 28 June 2024 (Dr Slawinski) recording \"stress at work\" and \"upset by people "
-  "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", that "
+  "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", \"been there 5 years\", that "
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
   "earlies\", and \"causing anxiety\" (facts 185 to 203 and 211 to 221, admitted 8 September 2026). Relied upon as the "
   "contemporaneous record of what was reported before any claim decision, dismissal or proceeding.",

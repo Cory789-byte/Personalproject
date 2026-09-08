@@ -61,3 +61,6 @@ with the s 32(1) "a significant" test and the reviewer's own finding at RD p.17.
    when did they begin relative to that diagnosis?" The diagnosis predates every proceeding.
 => Closing: the competing stressors the Regulator relies on from the report - job loss, legal
    proceedings - post-date the diagnosis. They cannot have caused what was already diagnosed.
+
+## Addendum 8 September 2026 — Dr Hawes, tenure line (1 July 2024 note)
+- Q: On 1 July 2024, what did you record about how long he had been in the role?  (Expected: "been there 5 years" — recorded in the same note as "manipulate his roster- so he works lates then earlies". Use: five years of the same shift work tolerated; the change recorded is the management, not the job. Do not lead; do not put "cumulative".)

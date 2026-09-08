@@ -67,3 +67,30 @@ SHOWN: the phrase appears three times — in quoted r 49(1) and r 49(2), and the
 4. Tab 31 (facts 228–231) and fact 154 are the only refused facts: decide now whether to prove them by attendance notice to Metro South (fact 268 admits the MET-call spreadsheet exists) or abandon them.
 5. Do not treat the "for the proceeding only" gloss as a concession about the employment track; keep the two tracks' documents separate and do not deploy the 8 Sep admissions in the s 89 process without advice.
 6. Watch the Regulator's 30 Sep list for any IME request, extension request or reliance on "perception" material from Tab 4 pp 18–20; draft the reply on perception now — onset 18 June 2024 predates the claim, the appeal, and the dismissal proceedings the report mentions.
+---
+
+## 8. The filing enquiry, the sequence, and the metadata (added 8 September 2026)
+
+Assumes EMAIL_0B and EMAIL_0C were sent as drafted on 7 September 2026.
+
+| When (AEST) | Event | Source |
+|---|---|---|
+| Fri 28 Aug, 1:47 pm | Form 24 (303 facts), Form 25 and Annexure A served by email. Service only; not filed. | service email chain |
+| 28 Aug – 6 Sep | No communication from the Respondent. | file |
+| Mon 7 Sep, morning | Matheson asks whether the notices were filed with the Registry and who else received them; recites r 49; confirms response by COB Fri 11 Sep. | her email (uploaded; not in repo) |
+| Mon 7 Sep, morning | EMAIL_0B: r 49 is service only and silent on filing (contrast r 50(4)); Guide silent; the effect of admissions stated; extension offered; two filing courses put to her; "if filing is required, name the rule". | EMAIL_0B |
+| Mon 7 Sep, later | EMAIL_0C: notice narrows the issues; no characterisation in any fact; open extension to a date of her choosing. | EMAIL_0C |
+| Mon 7 Sep, 4:42:04 pm and 4:43:04 pm | Form 24 and Form 25 response PDFs generated (Producer pypdf; CreationDate = ModDate; one minute apart, one batch). The marking-up was complete that afternoon, after both replies. The decisions themselves are not timestamped. | PDF docinfo/XMP |
+| Tue 8 Sep, 11:13:17 | Word source of the cover letter last saved (SourceModified D:20260908011317 — field carries no timezone; read as UTC it is 11:13 AEST, one minute before conversion, which fits the workflow). | PDF docinfo |
+| Tue 8 Sep, 11:14:13–15 | Letter converted with Acrobat PDFMaker 26 for Word. Template title "OIR Internal Queensland Government Letterhead (1WS only)"; Author "Peter" (template); SharePoint Business unit "Office of the Deputy Director-General"; Company "Queensland Treasury"; _AdHocReviewCycleID with a _PreviousAdHocReviewCycleID; review sender Margaret.Kerrigan@oir.qld.gov.au. | PDF docinfo/XMP |
+| Tue 8 Sep, 11:24 | Served with the two forms. Email signed "Senior Appeals Officer"; letter signed "Appeals Officer" (template block). No reply to 0B or 0C. | service email |
+
+**Reading the metadata — what it shows and what it does not.**
+- SHOWN: forms finished the afternoon of the enquiry; letter written the next morning as the last document produced. The letter therefore post-dates her reading of EMAIL_0B's statement of the effect of admissions, and its two central headings ("Admissions are for the purposes of rule 49 only"; "Admissions as to documents are limited to existence and wording") answer that paragraph in substance.
+- SHOWN: the pypdf producer means the responses were produced by a script or tool overlaying the served PDF, not by re-typing; consistent with a decision to answer every fact in one pass.
+- CAUTION: the ad-hoc review-cycle properties, the Author "Peter" and the business-unit/company fields are Word document properties that can be inherited from the letterhead template and its SharePoint library. They are consistent with the letter having been circulated for review, and the previous-cycle ID with a second round, but they do not prove that THIS letter was reviewed twice or read outside the Appeals Unit (INFERENCE ~60%).
+- BEFORE: the amended SOFC of 13 May 2026 was created at 3:50 pm against a 4:00 pm deadline (working-notes). Same pattern: production completed close to the point of service, decisions made earlier and untimestamped.
+
+**Why ask about filing first (ranked).** (1) To learn whether the Commission had seen the notice — unfiled, the admissions exist only between the parties until tendered, so the response could travel with a framing letter. (2) To learn who else held it — the same concern as the three appearances of "for the proceeding only". (3) To fix the 11 September date on the record. (4) Regularity of any e-filing over the 30-page limit. (5) To have the appellant file before she answered — least supported.
+
+**Why no reply to 0B/0C.** 0B asked her to name the filing rule; there is none; a reply had to concede or invent. Serving "pursuant to rule 49" with the rule quoted in full answered the point without engaging it. Agreeing with 0C's "no characterisation" was not in her interest; disagreeing was not possible; a two-word column with no reasons is consistent with both. The extension was not needed: the forms were done by 4:43 pm on the day she asked.
