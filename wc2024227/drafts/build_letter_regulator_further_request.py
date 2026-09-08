@@ -52,19 +52,19 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
    P("Dear Ms Matheson,",B),
    P("I refer to the Respondent's responses of 8 September 2026 to the Form 24 and Form 25 notices, to my request of "
      "9 September 2026 concerning the facts and documents not admitted, and to the position as it now stands. The "
-     "documents concerned are set out in the table below. The contents of each, other than Tab 31, were admitted in the "
+     "documents concerned are set out in the schedule to this letter. The contents of each, other than Tab 31, were admitted in the "
      "Form 24 response at the facts noted; what is disputed is the authenticity of the copy served from my records.",B),
    P("At the mention on 7 August 2026 the Commissioner indicated that, for a document held by Metro South Health, the "
      "starting point is to ask the Regulator to make inquiries and produce it, and that non-party disclosure follows "
      "only if the Regulator does not. This letter is that step, put as a choice so that the matter can be closed "
      "without an application.",B),
-   P("For each document in the table, could the Regulator please, by " + REPLY_BY + ", do one of the following:",B),
+   P("For each document in the schedule, could the Regulator please, by " + REPLY_BY + ", do one of the following:",B),
    P("(a) produce the Regulator's or Metro South Health's copy of the document, or confirm the authenticity of the copy "
      "served by reference to that copy; or",B),
    P("(b) admit, under rule 49, the authenticity of the copy served at that tab of Annexure A, so that it may be tendered "
      "without further proof of what it is.",B),
    P("If neither is done for any document by that date, I will seek that document by notice of non-party disclosure to "
-     "Metro South Health limited to the documents named in the table, and I will refer to this correspondence if the "
+     "Metro South Health limited to the documents named in the schedule, and I will refer to this correspondence if the "
      "question of the costs of that step arises.",B),
    P("The documents are listed in the schedule on the following page. No request is made in respect of fact 154 or "
      "Tab 24. For Tab 31, the request is for the spreadsheet of recorded MET calls for 17 to 18 March 2024 referred to "
