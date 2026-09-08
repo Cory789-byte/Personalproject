@@ -82,7 +82,10 @@ s=[P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",H1),
      "56 to 68). The Integrated Respiratory Service wrote on 15 and 20 May 2024 that \"we can not help patients or other clinical "
      "staff\" (admitted: facts 89 to 104). These directives bottlenecked emergency workflows and caused delays to the "
      "communication of urgent clinical information to clinical staff. The Appellant's attempts to mitigate these clinical risks "
-     "were followed by the conduct described at (b), (c) and (f).",L),
+     "were followed by the conduct described at (b), (c) and (f). The removal of access, the on-call arrangement and the "
+     "directives were management decisions; the misdirected emergency calls, the corrections that waited on an absent "
+     "manager, and the complaints from clinicians, the public and staff that arrived at the console and returned to the "
+     "Appellant when not actioned, were the conditions in which the Appellant then had to do the work.",L),
    P("(b)&nbsp;&nbsp;<b>Unilateral Removal of a WHS Record:</b> On or about 6 June 2023, the Appellant recorded in the "
      "communication book a reminder regarding the necessity of updating medical on-call contact numbers. Ms Taylor removed "
      "the entry. When questioned, Ms Taylor subjected the Appellant to a hostile and verbally aggressive reprimand at the "
@@ -187,6 +190,14 @@ s=[P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",H1),
    P("<b>Contention 2: The Section 32(5) Exclusion Does Not Apply</b>",B),
    P("The Appellant accepts that he bears the onus, and discharges it on the facts admitted on 8 September 2026 and the "
      "evidence to be given.",B),
+   P("(i)&nbsp;&nbsp;<b>Conditions of work, not management action:</b> The misdirected emergency calls, the delays that "
+     "followed the removal of operators' access to the directory, the volume of calls from distressed and urgent callers, "
+     "and the complaints that arrived at and returned to the console were the conditions in which the Appellant performed "
+     "his work, and were not management action within s 32(5). To the extent the Commission finds those conditions to have "
+     "been a significant contributing factor to the injury, s 32(5) has no application to them.",L),
+   P("(ii)&nbsp;&nbsp;<b>Management action, where it applies:</b> The decisions that produced those conditions, and the "
+     "rostering, pay and retraction conduct pleaded above, were management action that was not reasonable, or was not taken "
+     "in a reasonable way, for the reasons at (a) and (b).",L),
    P("(a)&nbsp;&nbsp;<b>Global Evaluation (Delaney):</b> The clinical governance dereliction, the removal of the WHS record, the "
      "25-day AVAC delay and the retraction direction form a course of conduct that was not reasonable management action, and "
      "was not taken in a reasonable way.",L),
@@ -234,6 +245,7 @@ rows=[["Where","Was","Now","Why"],
  ["3(b) post-injury","\"8 October 2024 ... terminated\"","9 October 2024, treated as abandoned; reinstated with an effective date of 20 September 2024","Date corrected to the letter; reinstatement stated in the deed's terms"],
  ["3(c) post-injury","\"without issuing the mandatory Form 29 Notice (Rule 64C)\"","Records obtained before any Form 29 (row 25); notices later issued 4 July 2025","Accurate sequence; no rule breach asserted"],
  ["Part C, Contention 2","\"The Respondent bears the onus under Prizeman v Q-Comp\"","The Appellant accepts the onus and discharges it on the admitted facts","The Commission's Guide, Part 7.3, places the onus on the Appellant"],
+ ["Contention 2, new (i) and (ii)","No equivalent","The conditions of work (misdirected calls, directory lockout consequences, call volume, complaints at the console) pleaded as not management action, so that s 32(5) does not reach them if found to be significant contributors; the decisions that produced them and the rostering, pay and retraction conduct pleaded as management action not reasonable or not reasonably taken","Distinguishes the work from the management of the worker; both limbs rest on facts admitted on 8 September 2026"],
  ["Contention 2(a)","\"composite, hostile course of conduct\"","\"course of conduct that was not reasonable management action, and was not taken in a reasonable way\"","Section 32(5) test stated in its terms"],
  ["Contention 3","\"its own IRO finding\"","The Review Unit's findings on unreasonable management action and on significant contributing factor (257 to 262)","Both findings now admitted as the decision's contents"],
 ]
