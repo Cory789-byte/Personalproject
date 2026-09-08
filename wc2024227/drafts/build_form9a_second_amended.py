@@ -118,10 +118,23 @@ s=[P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",H1),
      "the department without local delegate representation during the period in which the Appellant was disputing unsafe "
      "rostering practices and fatigue risks.",L),
    P("<b>Stressor 2: Systemic Failure to Discharge Remuneration Obligations</b>",B),
-   P("(a)&nbsp;&nbsp;<b>Persistent Payroll Failures:</b> Between February and April 2024 the Appellant was not paid his correct "
-     "entitlements: top-ups and reductions across the fortnights from 5 February 2024 (admitted: facts 185 to 189), public "
-     "holidays not required still under review by payroll as at 1 May 2024 (admitted: facts 255 to 256), and two February "
-     "claims never appearing in the myHR submissions report (admitted: fact 210).",L),
+   P("(a)&nbsp;&nbsp;<b>Persistent Payroll Failures and Public Holiday Rostering:</b> Between February and April 2024 the "
+     "Appellant was not paid his correct entitlements. The fortnights from 5 February 2024 carried top-ups and reductions "
+     "arising from 7-hour shifts and unprocessed overtime (admitted: facts 185 to 189), and the two February corrections "
+     "never appeared in the myHR submissions report (admitted: fact 210). Over Easter 2024 the Appellant was rostered on for "
+     "Good Friday, 29 March, and Easter Sunday, 31 March, and rostered off on Easter Saturday, 30 March 2024, and worked the "
+     "06:00 shift on Monday 1 April 2024 following the 14:00 to 22:00 shift of Easter Sunday (Review Decision 69983, contents "
+     "admitted). As a continuous shift worker in receipt of the additional week's leave, the Appellant was entitled under "
+     "clause 23(h) of the Award to an additional day's wage or a day in lieu for Easter Saturday (admitted: fact 241); "
+     "colleagues rostered on that day were paid at double time and one-half under clause 23(c). No payment was made for "
+     "Easter Saturday until, following the Appellant's request of 8 April 2024, Ms Taylor submitted an AVAC for \"public "
+     "holiday not required\" on 9 April 2024 (admitted: facts 242 to 245); the older dates the Appellant raised were referred "
+     "to a payroll enquiry, and as at 1 May 2024 payroll was \"still reviewing your entitlements regarding public holidays "
+     "not required\" (admitted: fact 255). By way of background, the decision under appeal records the same pattern at "
+     "Easter 2023: on 4 April 2023 the Appellant told Ms Taylor the roster gave him 1 of 5 public holidays and reduced his "
+     "pay by $1,500 for the fortnight, and on 26 April 2023 that he had not been paid for the Easter Monday public holiday "
+     "(Review Decision 69983, contents admitted). The Appellant will give evidence of the rosters and pay advices for those "
+     "periods and of the colleagues rostered on the public holidays on which he was rostered off.",L),
    P("(b)&nbsp;&nbsp;<b>Unreasonable Delay:</b> On 3 May 2024 Queensland Health Payroll identified the errors and directed Ms "
      "Taylor: \"Please submit an AVAC to correct these shifts for each fortnight so Cory is paid corrected\" (admitted: fact "
      "190). On 13 May 2024 Payroll wrote that it could not see that any of the issues had been corrected (admitted: fact 193). "
@@ -211,7 +224,7 @@ rows=[["Where","Was","Now","Why"],
  ["1(e)","\"corrupt conduct complaint\"","\"complaint regarding clinical risks\"; row 20","Content of the disclosure not pleaded"],
  ["1(f)","Para 21 only","The 15 May 6:23 pm direction, the 17 May hours email, facts 74 to 84; row 21 retained","Sequence now admitted with dates"],
  ["1(g)","\"April 2023\"; \"suppressed ... for 13 months\"; Paras 17, 18","11 August 2023; no ballot before 18 June 2024; endorsed 3 November 2025; facts 179, 293, 294; row 18","The notification was 11 August 2023 (the Appellant's own affidavit and the Respondent's admission of the text); the duration is stated by dates"],
- ["2(a)","\"documented 42% pay disparity\"","The fortnights from 5 February 2024, the public holidays under review at 1 May 2024, the two February claims absent from myHR (185 to 189, 210, 255, 256)","The comparator pleaded in February was denied (Form 24 paras 42 to 45); the admitted pay facts are pleaded instead"],
+ ["2(a)","\"documented 42% pay disparity\"","The February fortnights (185 to 189, 210); Easter 2024 day by day from the Review Decision: on for Good Friday and Easter Sunday, off Easter Saturday 30 March, the Monday 06:00 shift after the Sunday 14:00 to 22:00 shift; Award cl 23(h) and (c) (fact 241); the AVAC for Easter Saturday submitted only on 9 April (242 to 245); payroll still reviewing at 1 May (255); the Easter 2023 pattern as recorded in the decision","The 42% comparator pleaded in February was denied (paras 42 to 45) and the comparator data is not held; the dates, the Award entitlement and the difference in what was paid are pleaded from the decision's own record and the Award, with the rosters and pay advices to be given in evidence"],
  ["2(b)","\"IMMEDIATELY\" (Para 40); \"admitted 25-day delay (Para 41)\"","The 3 May email quoted as written (fact 190); 13 May and 21 May (193, 195); AVAC 28 May (209); \"Part Completed\" (203); 25 days as arithmetic","The 3 May email does not contain \"IMMEDIATELY\"; para 41 was denied; the dates are now admitted"],
  ["3, heading","\"Admitted Breaches of Statutory Fatigue Management\"","\"Breaches of Fatigue Management\"","The breach is contended, not admitted"],
  ["3(a)","\"(Admitted Fact: Para 1)\"","SOFC paragraph 22(a); facts 224 to 235","Anchored to the Respondent's own pleading of the 7-hour break"],
