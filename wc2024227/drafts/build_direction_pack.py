@@ -104,7 +104,7 @@ s=[P("CORY LEA SHEPHERD",HD), P("15 Edmond Street, Coomera QLD 4209 &nbsp;|&nbsp
      "the Respondent's list filed by 30 September 2026 does not name them, the Appellant will seek "
      "attendance notices and will write to the Commission at that time.",B),
    P("The Appellant may also apply for attendance notices in respect of the witnesses named at items "
-     "2 to 6, and will do so sufficiently in advance of the hearing.",B),
+     "2 to 5, and will do so sufficiently in advance of the hearing.",B),
    P("Yours faithfully,",B), Spacer(1,2*mm), SIG(), Spacer(1,1*mm),
    P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented",B)]
 doc(s,"out/COVERING_LETTER_REGISTRY_9SEP2026.pdf")
