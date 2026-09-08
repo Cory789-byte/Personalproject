@@ -13,7 +13,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
 BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.2, leading=8.0, spaceAfter=0)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.2, leading=7.88, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
 INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.6, leading=8.65, spaceAfter=1.2)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
@@ -33,11 +33,11 @@ TITLE_T = "APPELLANT'S SCHEDULE OF MEDICAL DOCUMENTS RELIED UPON"
 SERVED = ("Served on the Respondent with the outlines of evidence under direction 2 of the Further Directions Order (3) "
           "dated 19 August 2026. Not filed in the Industrial Registry.")
 INTRO = [
- ("Purpose and service.", "Served on the Respondent with the outlines of evidence under direction 2 of the Further Directions "
-  "Order (3) dated 19 August 2026; not filed in the Industrial Registry. No report has been prepared for the purposes "
+ ("Purpose and service.", "Served with the outlines of evidence under direction 2 of the Further Directions Order (3) "
+  "dated 19 August 2026; not filed. No report has been prepared for the purposes "
   "of this proceeding; this schedule and the pages behind it are served as the expert and treating material relied "
   "upon. Each document is already held by the Respondent at the item of its amended List of Documents dated 14 August "
-  "2026 stated, except item 6, served herewith."),
+  "2026 stated, except item 5, which has not yet been received, and item 6, served herewith."),
  ("Use at hearing.", "Against each document is stated what it is, and is not, relied upon for. Items 3, 4 and 5 contain "
   "clinical opinion; the Appellant does not rely upon that opinion otherwise than through the oral evidence of its "
   "author. Dr Ravikumar Bangalore Krishnaiah and Dr Peter Hawes are named at items 2 and 3 of the Appellant's list of "
@@ -53,13 +53,13 @@ ROWS = [
        "obtained by the Respondent under the Form 29 signed 4 July 2025).",
   "Prior health: the entry of 16 November 2023 (Dr Nanayakkara) recording poor sleep with shift work, that the "
   "Appellant could not do shifts without a good sleep, no psychological illness such as depression or psychosis, "
-  "and mood good, with melatonin and temazepam prescribed. The referral letter of 16 May 2024 (Dr Zhao), the day after Ms Reese's email of 15 May 2024 at 6:23 pm asking the Appellant to retract his email (facts 76 and 77, admitted), renewing a referral to a psychiatrist, Dr Amini, for \"ongoing care and management\", which lists the past medical history as the history-list items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and lists the medications then current, which include no antidepressant, no anxiolytic and no other psychotropic medication. "
+  "and mood good, with melatonin and temazepam prescribed. The referral letter of 16 May 2024 (Dr Zhao), the day after Ms Reese's email of 15 May 2024 at 6:23 pm asking the Appellant to retract his email (facts 76 and 77, admitted), renewing a referral to a psychiatrist, Dr Amini, for \"ongoing care and management\", which lists among the past-medical-history items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and lists the medications then current, none of which is an antidepressant, an anxiolytic or any other psychotropic medication (one entry in that list is redacted as private and unrelated to the injury; it is none of those things and the Respondent holds the unredacted letter at item 11). "
   "First presentation after onset: 28 June 2024 (Dr Slawinski) recording \"stress at work\" and \"upset by people "
   "not following rules\", reason for visit anxiety; and 1 July 2024 (Dr Hawes) recording \"work stress\", \"been there 5 years\", that "
   "\"they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
   "earlies\", and \"causing anxiety\" (facts 185 to 203 and 211 to 221, admitted 8 September 2026). Relied upon as the "
   "contemporaneous record of what was reported before any claim decision, dismissal or proceeding.",
-  "Entries unrelated to the injury. Private medical entries unrelated to the injury are redacted on the extracted pages and marked as such. The entry of 16 November 2023 is relied upon as the contemporaneous record that shift work was affecting the Appellant's sleep, and of what was prescribed for it, before any claim or proceeding (facts 2, 13, 214, 218, 263 to 265 and 269 to 271, admitted 8 September 2026); its clinical significance is a matter for the treating doctors."),
+  "Entries unrelated to the injury; those are redacted on the extracted pages and marked as such. The entry of 16 November 2023 is relied upon as the contemporaneous record that shift work was affecting the Appellant's sleep, and of what was prescribed for it, before any claim or proceeding (facts 2, 13, 214, 218, 263 to 265 and 269 to 271, admitted 8 September 2026); its clinical significance is a matter for the treating doctors."),
  ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July, 11 August and 8 September 2024, and of Dr Ki "
        "Pang dated 7 August 2024 (Respondent's items 7 and 8).",
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
@@ -125,16 +125,16 @@ t.setStyle(TableStyle([
 s.append(t)
 s.append(P("<b>The finding on section 32(1) in the decision under appeal.</b> On the medical evidence then before it \u2014 the work capacity certificates at item 2 and Dr Hawes's statement to WorkCover of 2 September 2024 \u2014 the Respondent's review of 24 October 2024 found that the Appellant \"sustained a personal injury of a psychological nature\", and stated: \"Having regard to the medical evidence, I am satisfied your employment was a significant contributing factor to the psychological injury\" (pages 17 and 26; item 7). The claim was rejected under section 32(5), not section 32(1). The hearing is de novo and that finding does not bind the Commission; it is relied upon as an admitted document.", INTROSTY))
 s.append(P("The Appellant reserves the position as to any further report; if one is to be relied upon, directions will be sought before it is served.", FOOT))
-sig = Table([[SIG(21*mm,11*mm),
+sig = Table([[SIG(19*mm,10*mm),
               P("Dated: 9 September 2026<br/><b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY)]],
-            colWidths=[34*mm, W-34*mm])
+            colWidths=[31*mm, W-31*mm])
 sig.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'BOTTOM'),
                          ('LEFTPADDING',(0,0),(-1,-1),0), ('RIGHTPADDING',(0,0),(-1,-1),0),
                          ('TOPPADDING',(0,0),(-1,-1),0), ('BOTTOMPADDING',(0,0),(-1,-1),0)]))
 s.append(sig)
 buf = io.BytesIO()
-doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=9*mm, bottomMargin=8*mm)
-doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 8*mm, A4[0]-30*mm, A4[1]-17*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
+doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=8*mm, bottomMargin=7*mm)
+doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 7*mm, A4[0]-30*mm, A4[1]-15*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
 doc.build(s); buf.seek(0)
 pdf = pikepdf.open(buf); n = len(pdf.pages)
 try: del pdf.Root.Metadata

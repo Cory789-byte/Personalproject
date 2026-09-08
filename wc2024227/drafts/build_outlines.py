@@ -39,7 +39,8 @@ OUTLINES = [
  ("OUTLINE_00_SHEPHERD", "OUTLINE OF EVIDENCE &ndash; MR CORY LEA SHEPHERD (APPELLANT)", TAIL_A,
   "I will give evidence of the following. Paragraph references are to the notice to admit facts "
   "served 28 August 2026 (the Notice). The events at topics 2 to 7 are established by the facts admitted on "
-  "8 September 2026; my evidence on them is what they were from the console and their effect on me.",
+  "8 September 2026, except the emergency codes of 17 and 18 March 2024, which are not admitted and which I give "
+  "from my own knowledge; my evidence on them is what they were from the console and their effect on me.",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
     "shift worker. The Switchboard is the hospital's communications hub: in a Code Blue or MET call it is the "
@@ -70,12 +71,11 @@ OUTLINES = [
     "response; Ms Reese sending the fatigue guideline to Human Resources on 20 May 2024; that no fatigue risk "
     "assessment was made and no FRMS register kept; that Metro South has since stated in writing that those records "
     "\"do not exist\", that FRMS training applied only to clinical staff, and that fatigue management assessment at "
-    "the Switchboard began only after 30 June 2024; and that the Respondent's own review found the rostering of those "
-    "two shifts to be unreasonable management action. "
+    "the Switchboard began only after 30 June 2024. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;261, 263&ndash;271, 285]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
     "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across roster periods; "
-    "and Ms Reese's acknowledgement of \"a few "
+    "and Ms Reese's email to Human Resources of 10 May 2024 stating \"a few "
     "rostering errors made by Chloe with regards to Cory's line in past rosters\"; and that I was not told my roster "
     "proposal would not be considered, and learned of Ms Reese's email of 10 May 2024 saying so only from the "
     "Respondent's disclosure in July 2025. "
@@ -131,7 +131,8 @@ OUTLINES = [
     "with shift work, that I could not do shifts without a good sleep, no psychological illness "
     "such as depression or psychosis, and mood good. The ADHD and anxiety noted in my history in "
     "October 2022, and the psychiatrist referral to Dr Amini renewed on 16 May 2024, the day after the request that I "
-    "retract my email, with melatonin the only medication then current, for which no appointment could be obtained. "
+    "retract my email, listing the medications I was then taking, none of them an antidepressant or an anxiolytic, and "
+    "for which no appointment could be obtained. "
     "<i>[General-practice records disclosed by the Respondent; &para;&para; 76&ndash;77]</i>"),
    ("Onset, presentation and diagnosis.", "That I last worked a shift on 3 June 2024; that on days in May 2024 and in the first week of June 2024 I drove "
     "to work, could not bring myself to enter the building, and called in sick from the car park. My symptoms from "
@@ -148,13 +149,12 @@ OUTLINES = [
     "at 11:45 am that day, my fluoxetine increased and quetiapine added at night; his written report "
     "of 13 February 2025; and my treatment since. The matters at paragraphs 2 to 7 above, and their "
     "effect on me as each occurred and as they accumulated, are the matters I reported to each doctor, as their records show; "
-    "the events those records name are the facts admitted on 8 September 2026 (Tabs M1 to M4 of the schedule of medical "
-    "documents). I offer no clinical or diagnostic opinion."),
+    "the events those records name are the facts admitted on 8 September 2026 (Tabs M1 to M4). I offer no clinical or "
+    "diagnostic opinion."),
    ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; my "
     "employment ended under abandonment provisions in October 2024 while I held current certificates, "
     "and my later reinstatement; the months without pay after the injury and the claim, with the pay errors never "
-    "resolved; my return on reduced hours and the leave since; that my Queensland "
-    "Health email was restricted, so I cannot produce my work emails myself. Documents: rosters and "
+    "resolved; my return on reduced hours and the leave since. Documents: rosters and "
     "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
     "payroll records; and Metro South Health's letter of 5 June 2026."),
   ]),

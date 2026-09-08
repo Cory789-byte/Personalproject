@@ -27,11 +27,11 @@ TABS=[
  dict(n=1, title="General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024",
       held="Respondent's amended List of Documents item 11. Obtained by the Respondent under the Form 29 signed 4 July 2025. The complete record is Exhibit A5, sealed by the Commission on 13 March 2026; these are extracts of it.",
       incl="Pages 5, 6, 7, 10, 11, 12 and 13 of the 14-page practice export: the consultation of 16 November 2023 (Dr Nanayakkara); the consultations of 16 May 2024 (Dr Zhao, referral renewed) and 28 June 2024 (Dr Slawinski); the consultation of 1 July 2024 (Dr Hawes); the referral letter to Dr Amini of 16 May 2024 with the past medical history; the medical certificate of 28 June 2024; and the work capacity certificate of 1 July 2024.",
-      omit="Pages 1 to 4 (patient details, medication and prescription lists, consultations of 2023 for unrelated conditions); page 8 (Gold Coast University Hospital discharge letter of 6 June 2024, dental); page 9 (medical certificate of 3 July 2023, unrelated); page 14 (blank). None is relied upon. REDACTIONS: on source pages 5, 6 and 10, entries concerning private medical matters unrelated to the injury have been blacked out by the Appellant and are marked as such on the page. Nothing relied upon has been redacted. The Respondent holds the unredacted record at item 11.",
+      omit="Pages 1 to 4 (patient details, medication and prescription lists, consultations of 2023 for unrelated conditions); page 8 (Gold Coast University Hospital discharge letter of 6 June 2024, dental); page 9 (medical certificate of 3 July 2023, unrelated); page 14 (blank). None is relied upon. REDACTIONS: on source pages 5, 6 and 10, entries concerning private medical matters unrelated to the injury have been blacked out by the Appellant and are marked as such on the page. On source page 10 the redaction covers one entry in the list of current medications in the referral letter of 16 May 2024. That entry is a medication for a private condition unrelated to the injury; it is not an antidepressant, an anxiolytic or any other psychotropic medication, and the Respondent can confirm that from its own copy. Nothing else relied upon has been redacted. The Respondent holds the unredacted record at item 11.",
       src=('pdf', D+'medical/2025-07-22_OurMedicalAshmore_GP_records_via_Saines.PDF', [5,6,7,10,11,12,13]),
-      redacted={5:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-5-REDACTED.png',
-                6:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-6-REDACTED.png',
-                10:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-10-REDACTED.png'}),
+      redacted={5:'assets/redacted/gp150-5-REDACTED.png',
+                6:'assets/redacted/gp150-6-REDACTED.png',
+                10:'assets/redacted/gp150-10-REDACTED.png'}),
  dict(n=2, title="Work capacity certificates: Dr Ki Pang, 7 August 2024; Dr Peter Hawes, 11 August 2024 and 8 September 2024",
       held="Respondent's amended List of Documents items 7 (Hawes, 1 July, 11 August and 8 September 2024) and 8 (Pang, 7 August 2024).",
       incl="The certificates of 7 August 2024 (Dr Pang), 11 August 2024 and 8 September 2024 (Dr Hawes), reproduced from the scanned copies annexed to the Appellant's application in TD/2024/110 filed 25 October 2024. Together with the certificate of 1 July 2024 at Tab M1 (bundle page 9), they certify no capacity for any work continuously from 1 July to 6 October 2024, each recording the stated date of injury as 18 June 2024 and first presentation on 1 July 2024; the certificate of 8 September 2024 records the referral to a psychiatrist.",
@@ -107,8 +107,9 @@ def add(pdf, pages=None):
     for i,pg in enumerate(pdf.pages):
         if pages is None or (i+1) in pages: out.pages.append(pg)
 
-add(pikepdf.open('out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf'))
-stamps=[('Schedule',None)]  # per output page: (label)
+_sched=pikepdf.open('out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf')
+add(_sched)
+stamps=[('Schedule',None)]*len(_sched.pages)  # per output page: (label); the schedule may run to more than one
 for t in TABS:
     ts=tab_sheet(t); add(ts); stamps.append((f"Tab M{t['n']}", 'sheet'))
     srcs=t.get('srcs') or ([t['src']] if t.get('src') else [])
@@ -124,8 +125,9 @@ for t in TABS:
 
 N=len(out.pages)
 # footer stamp overlay on every page except the schedule
+SCHED_PP=len(_sched.pages)
 for idx,pg in enumerate(out.pages):
-    if idx==0: continue
+    if idx < SCHED_PP: continue
     lab,orig=stamps[idx]
     buf=io.BytesIO(); c=canvas.Canvas(buf,pagesize=(float(pg.mediabox[2])-float(pg.mediabox[0]), float(pg.mediabox[3])-float(pg.mediabox[1])))
     c.setFont('Helvetica',7); c.setFillColor(colors.HexColor('#444444'))

@@ -63,7 +63,7 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
    P("Under direction 2 of the Further Directions Order (3): outlines of evidence for the Appellant and for two lay "
      "witnesses, and the Appellant's schedule of medical documents relied upon with the documents at Tabs M1 to "
      "M9. The schedule states, for each document, what it is and is not relied upon for, and identifies at rows 1, "
-     "2, 4 and 7 the admitted facts to which the treating records correspond. No report has been prepared for the "
+     "4 and 7 the admitted facts to which the treating records correspond. No report has been prepared for the "
      "purposes of this proceeding.",B),
 
    P("5. Filing",HB),
