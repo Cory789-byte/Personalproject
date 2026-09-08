@@ -7423,3 +7423,19 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 - ART content: 23 Jun 2026 — ART "unaware of Cory's return to work" from ~April 2025; payslips provided by MSH at ART's request; requests hours/RTW plans. 31 Jul 2026 — benefits paused from 31 May 2026; payslips 17 Mar 2025–24 May 2026 reviewed, "substantial overpayment" identified; more payslips requested; benefit end date 24 Sep 2026; suggests paid leave; asks for GRTW plan. Harrison's 29 Jul query to ART (claim active? when does 2-year benefit expire?) is two days before the 31 Jul RFMI. ⛔ IP/ART track only; not the appeal; not the LSL reply.
 - Arithmetic on their own 14:24 position: exclusions reduce to the 2022 block (24 days) → LSL date ≈ 18 Apr 2026 (+ at most the 7–20 Sep 2024 tail if the sick period is dated from 7 Jun) — i.e. **eligible before 13 Jul 2026**, so the LSL applied for from 13 Jul is payable. That is what the 15:38 replacement removes.
 - Open: who submitted the 2024 LWOP forms ("as per the leave forms received"); what supporting document Payroll wants for an SNP form covering 13 Dec 2024–23 Feb 2025 (deed period; use the standing phrase only); whether the 13 Jul LSL was entered for the 9 Sep run.
+
+### Employment-track timeline addition (8 Sep 2026) — the insurer enquiry beside the RFMI
+| Date (AEST) | Event | Source |
+|---|---|---|
+| 3 Jul 2026 | Employee Capability Checklist: fit with restrictions; held out of the workplace from this date | ECC 3 Jul |
+| 15 Jul 2026, 13:10 | MSH to Cory and Zappia (ART): IP claim update | correspondence-2026 |
+| 15 Jul 2026 | Harrison: pay refused, discretion | correspondence-2026 |
+| 29 Jul 2026, 12:21 | Harrison → ART: is the claim still active; "when the 2 year benefit period for this claim is due to expire" | ART 31 Jul email (quoted below her query) |
+| 29 Jul 2026, 16:10 | MSH reply to Cory's 28 Jul letter: basis moves to WHS | correspondence-2026 |
+| 30 Jul 2026 | MSH holding reply: RFMI awaiting delegate approval | correspondence-2026 |
+| 31 Jul 2026, 11:43 | RFMI issued (Hughes letters to employee and to GP, 9 questions) | correspondence-2026 |
+| 31 Jul 2026, 14:01 | ART → Harrison: claim active; benefits paused from 31 May 2026; "substantial overpayment" on payslips 17 Mar 2025–24 May 2026; benefit end date **24 Sep 2026**; "Cory may wish to access any available paid leave"; asks for approved GRTW plan | ART 31 Jul |
+| 4 Sep 2026 | Payroll LSL calculation: eligibility date moved to **29 Sep 2026** by excluding three LWOP periods | Payroll 4 Sep |
+| 7 Sep 2026, 12:50–12:58 | Harrison prints both ART emails and sends them to Payroll, Service Leader, QSuper Employer Services and Taylor | metadata + chain |
+| 8 Sep 2026, 14:24 / 15:38 | Payroll: periods should have been SNP (first 3 months credited) → replaced by exclusion-only answer; 5 recall notices | correspondence-2026 |
+⛔ Dates only. Use: knowledge material for the exclusion decision and the RFMI (what MSH knew of his income position when pay was refused and he was kept out); privacy purpose question (why Injury Management needed the benefit expiry date). Put as a sequence at the Stage 2 conference or in any IR dispute; never as motive in a served document; never in WC/2024/227.
