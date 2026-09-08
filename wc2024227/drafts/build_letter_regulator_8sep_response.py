@@ -9,7 +9,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer
 from reportlab.platypus import Image as RLImage
 
-B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9.4, leading=12.2, spaceAfter=5)
+B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.8, spaceAfter=4)
 HB  = ParagraphStyle('HB', parent=B, fontName='Helvetica-Bold', spaceAfter=2)
 def P(t,s=B): return Paragraph(t,s)
 def SIG(): 
@@ -44,7 +44,8 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
      "does not rely on those documents as statements about some other event. That is the footing on which facts "
      "49, 66, 74 to 77 and 81 (the directives and the replies to them), 182 to 205 and 210 (the payroll thread and "
      "the myHR report), 211 to 223 (the rostering correspondence) and 263 to 271 (Metro South Health's statements "
-     "to the Commission in answer to the notice of non-party disclosure) are relied upon.",B),
+     "to the Commission in answer to the notice of non-party disclosure) are relied upon. Several of the documents in "
+     "those ranges were sent by Ms Taylor or Ms Reese, whom the Appellant expects the Respondent to call.",B),
 
    P("3. Documents recording the statements of others",HB),
    P("Where an admitted document records a statement, finding or opinion of another person &ndash; the treating "
