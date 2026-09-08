@@ -65,8 +65,8 @@ ROWS = [
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
   "continuous certification of no functional capacity from 1 July to 6 October 2024; and the referral to a "
   "psychiatrist recorded on 8 September 2024. Review Decision 69983 records at page 17 that the certificate of 1 July 2024 indicated \"there was no pre-existing factor or condition\", and that \"This was maintained in all later work capacity certificates\".",
-  "The recorded mechanism as a finding of fact. The events are proved by the notice to admit facts served "
-  "28 August 2026, not by the certificates. Nothing as to medication; the medication box is unticked on each."),
+  "The recorded mechanism as a finding of fact. The events are proved by the facts admitted by the Respondent on "
+  "8 September 2026, not by the certificates. Nothing as to medication; the medication box is unticked on each."),
  ("3", "Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at "
        "11:45 am, \"Medications\" (Respondent's item 9; Appellant's List item 22).",
   "That on the morning of 24 October 2024, at the first consultation, the treating psychiatrist told the "
@@ -85,7 +85,7 @@ ROWS = [
   "clinician's account of origin: \"workplace stress stemming from issues with management and rostering\"; that "
   "the issues \"began approximately one year ago when a new manager was appointed\"; pay \"withheld or delayed for "
   "up to five months at a time, leading to significant financial stress\"; and that \"premature exposure to the "
-  "workplace is more likely result in significant deterioration\". The stressors so recorded correspond to facts specified in the notice to admit facts served 28 August 2026: management and rostering, and the night-shift line, at facts 211, 212 and 220; the shorter break, at facts 258 to 260; and pay withheld or delayed, at facts 185 to 190, 193, 195 and 203.",
+  "workplace is more likely result in significant deterioration\". The stressors so recorded correspond to facts admitted by the Respondent on 8 September 2026 in response to the notice to admit facts served 28 August 2026: management and rostering, and the night-shift line, at facts 211, 212 and 220; the shorter break, at facts 258 to 260; and pay withheld or delayed, at facts 185 to 190, 193, 195 and 203.",
   "Attribution among the individual events at paragraphs 2 to 7 of the Appellant's outline of evidence; any "
   "matter after 24 October 2024 as a cause of the injury. The report was prepared for QSuper and is tendered as "
   "a treating record, not as a report prepared for this proceeding. The report bears the footer that the information was disclosed \"for the only reason of clinical information and not for medico-legal use\"."),
