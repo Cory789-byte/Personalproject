@@ -38,7 +38,8 @@ TAIL_A = ("This outline states the topics on which I will give oral evidence. It
 OUTLINES = [
  ("OUTLINE_00_SHEPHERD", "OUTLINE OF EVIDENCE &ndash; MR CORY LEA SHEPHERD (APPELLANT)", TAIL_A,
   "I will give evidence of the following. Paragraph references are to the notice to admit facts "
-  "served 28 August 2026 (the Notice).",
+  "served 28 August 2026 (the Notice). The events at topics 2 to 7 are established by the facts admitted by the "
+  "Respondent on 8 September 2026; my evidence on those topics is what they were from the console and their effect on me.",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
     "shift worker. The duties: the emergency response notifications, \"strictly adhering to protocols "
@@ -46,7 +47,7 @@ OUTLINES = [
     "which emergency paging depends; and some 200 to 300 calls a shift, including urgent clinical "
     "handover and distressed patients and families; and why an accurate entry matters where an urgent "
     "page goes to whatever number is recorded. My background: safety "
-    "advisor on Manus Island, Papua New Guinea, and earlier a third-year Bachelor of Nursing student. "
+    "advisor on Manus Island, and earlier a nursing student. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;38]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
@@ -69,7 +70,9 @@ OUTLINES = [
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
     "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across successive roster periods; "
     "and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
-    "rostering errors made by Chloe with regards to Cory's line in past rosters\". "
+    "rostering errors made by Chloe with regards to Cory's line in past rosters\"; and that I was not told my roster "
+    "proposal would not be considered, and learned of Ms Reese's email of 10 May 2024 saying so only from the "
+    "Respondent's disclosure in July 2025. "
     "<i>[&para;&para; 211&ndash;223]</i>"),
    ("Pay and entitlements.", "The public holidays I was not rostered between February and April "
     "2024 and the difference to my pay. The loop: on 8 April 2024 I asked Ms Taylor to review my "
@@ -80,7 +83,8 @@ OUTLINES = [
     "your Line Manager\"; on 21 May she was still \"waiting payroll confirmation\"; on 28 May I was "
     "asked to sign a validation of claims older than three months. That under the payroll process "
     "only my manager could submit the AVAC. The February 2024 special pandemic leave application: "
-    "what I attached, the two declines, and the approval on the same material. "
+    "what I attached, the two declines, and the approval on the same material; and the effect on me of going "
+    "without those payments over those months. "
     "<i>[&para;&para; 114&ndash;142, 182&ndash;210, 242&ndash;246]</i>"),
    ("The database, the misdirected calls, and what I could not fix.", "That from 18 July 2023 "
     "operators could no longer correct database entries and the Contact &amp; Number Changes book "
@@ -142,8 +146,7 @@ OUTLINES = [
     "and my later reinstatement; my return on reduced hours and the leave since; that my Queensland "
     "Health email was restricted, so I cannot produce my work emails myself. Documents: rosters and "
     "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
-    "payroll records; the role description; the medical records above; and Metro South Health's "
-    "letter of 5 June 2026 (ref K-LM26/729)."),
+    "payroll records; and Metro South Health's letter of 5 June 2026 (ref K-LM26/729)."),
   ]),
 
  ("OUTLINE_02_HARRISONJONES", "OUTLINE OF EVIDENCE &ndash; MR CORY HARRISON-JONES", TAIL_W,
