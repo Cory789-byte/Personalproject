@@ -49,8 +49,7 @@ OUTLINES = [
     "complaints from the public, clinicians and staff arrive at the console first, to the operator on duty, and "
     "those my manager did not action came back to me. The standing condition of the role over the period: I was "
     "held responsible for what went wrong anywhere in that system, while the means of correcting it, the directory, "
-    "the on-call roster, my own roster and my pay, were held by others. My background: safety advisor on Manus "
-    "Island, and earlier a nursing student. "
+    "the on-call roster, my own roster and my pay, were held by others. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;48, 182&ndash;223]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
@@ -127,13 +126,13 @@ OUTLINES = [
     "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
     "with shift work, that I could not do shifts without a good sleep, no psychological illness "
     "such as depression or psychosis, and mood good. The ADHD and anxiety noted in my history in "
-    "October 2022, and the psychiatrist referral to Dr Amini renewed on 16 May 2024 for which no appointment could "
-    "be obtained. "
-    "<i>[General-practice records disclosed by the Respondent]</i>"),
+    "October 2022, and the psychiatrist referral to Dr Amini renewed on 16 May 2024, the day after the request that I "
+    "retract my email, with melatonin the only medication then current, for which no appointment could be obtained. "
+    "<i>[General-practice records disclosed by the Respondent; &para;&para; 76&ndash;77]</i>"),
    ("Onset, presentation and diagnosis.", "That I last worked a shift on 3 June 2024. My symptoms from about 18 June 2024 and their effect on "
     "sleep, concentration, self-care and relationships, and on my capacity for work, from being "
     "certified unfit from 1 July 2024 to returning on reduced hours and the restrictions recorded in "
-    "the Employee Capability Checklist of 3 July 2026. Attending Dr Slawinski "
+    "the Checklist of 3 July 2026. Attending Dr Slawinski "
     "on 28 June 2024, whose note records \"stress at work\" and \"upset by people not following "
     "rules\", and Dr Hawes on 1 July 2024, whose note records \"work stress\", that \"they withhold "
     "pay at times, no overtime- not processed, manipulate his roster- so he works lates then "
@@ -142,7 +141,9 @@ OUTLINES = [
     "was told I had major depressive disorder with anxiety state, confirmed by the practice in writing "
     "at 11:45 am that day, my fluoxetine increased and quetiapine added at night; his written report "
     "of 13 February 2025; and my treatment since. The matters at paragraphs 2 to 7 above, and their "
-    "effect on me as each occurred and as they accumulated, are the matters I reported to each doctor, as their records show. I offer no clinical or diagnostic opinion."),
+    "effect on me as each occurred and as they accumulated, are the matters I reported to each doctor, as their records show; "
+    "the events those records name are the facts admitted on 8 September 2026 (Tabs M1 to M4 of the schedule of medical "
+    "documents). I offer no clinical or diagnostic opinion."),
    ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; my "
     "employment ended under abandonment provisions in October 2024 while I held current certificates, "
     "and my later reinstatement; my return on reduced hours and the leave since; that my Queensland "
