@@ -13,7 +13,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
 BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.2, leading=8.15, spaceAfter=0)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.2, leading=8.0, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
 INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.6, leading=8.65, spaceAfter=1.2)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
@@ -87,8 +87,8 @@ ROWS = [
   "up to five months at a time, leading to significant financial stress\"; and that \"premature exposure to the "
   "workplace is more likely result in significant deterioration\". The stressors so recorded correspond to facts admitted by the Respondent on 8 September 2026: management and rostering, and the night-shift line, at facts 211, 212 and 220; the shorter break, at facts 258 to 260; and pay withheld or delayed from the 5 February 2024 fortnight (facts 185 to 190), uncorrected at 13 May (fact 193), \"claims older than 3 months\" on 28 May (facts 196, 197), a claim effective 30 March \"Part Completed\" on 30 May (fact 203), and the two February claims absent from the myHR report (fact 210).",
   "Attribution among the individual events at paragraphs 2 to 7 of the Appellant's outline of evidence; any "
-  "matter after 24 October 2024 as a cause of the injury. Prepared for QSuper; tendered as "
-  "a treating record. The report bears the footer that the information was disclosed \"for the only reason of clinical information and not for medico-legal use\"; the author's email of 8 September 2026 (Tab M5) identifies it as \"the report that captures the relevant information you have requested\" on the three matters in issue."),
+  "matter after 24 October 2024 as a cause of the injury. The report's footer reads "
+  "\"for the only reason of clinical information and not for medico-legal use\"; the author's emails of 5 and 8 September 2026 (Tab M5) state of his records \"You can use them according to the need to support your legal issues\" and identify this report as \"the report that captures the relevant information you have requested\" on the three matters in issue."),
  ("5", "Clinical records of Dr Krishnaiah from 24 October 2024 (offered by the practice on 5 September 2026 and "
        "requested; not yet received).",
   "What was reported at the first consultation and when; diagnosis and prescribing over time. To be served on "
