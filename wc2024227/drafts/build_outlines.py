@@ -190,6 +190,13 @@ OUTLINES = [
   "following.",
   [("", "That she and the Appellant each sought an additional two shifts per fortnight, as recorded "
     "in his email of 7 August 2023 to Ms Taylor, Ms Reese, Ms Conaghan and Ms Smith."),
+   ("", "The calls the Switchboard receives and what they are: that a substantial proportion come from people who are "
+    "distressed, frightened, angry or abusive, and that the operator on duty is the first person they reach."),
+   ("", "What she observed of clinicians and departments remaining on the line to express their frustration to the "
+    "operator on duty, and treating the operator as accountable for matters that were the responsibility of others."),
+   ("", "Occasions she observed of complaints being directed at the Appellant at the console, including an orthopaedic "
+    "doctor who complained about the Appellant following a change in the way that doctor was to be contacted, and a "
+    "clinician who made repeated complaints through the Switchboard."),
    ("", "What she observed of urgent pathology results for clinical staff being delayed in reaching "
     "the treating team following the changes made to the Switchboard process: what the process was "
     "before, what it became, and the delay that resulted."),
