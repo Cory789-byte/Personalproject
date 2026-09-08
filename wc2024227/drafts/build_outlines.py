@@ -215,8 +215,8 @@ OUTLINES = [
     "Switchboard roster."),
    ("", "Any change she observed in the Appellant at work over the period, from her own "
     "observation. She offers no opinion as to diagnosis or cause."),
-   ("", "That she did not at any time hear the Appellant say anything hostile about Ms Taylor or "
-    "about any other member of staff."),
+   ("", "That in the time they have worked together she has not heard the Appellant speak of Ms Taylor, or of any "
+    "other member of staff, in hostile terms."),
   ]),
 ]
 
