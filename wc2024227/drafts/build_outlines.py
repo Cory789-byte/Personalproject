@@ -171,6 +171,10 @@ OUTLINES = [
     "number changes, allocated to a shift, was left undone over that period; that the Appellant placed a reminder "
     "in the Communication Book about the allocation of that monthly task; and that he was on shift and saw the Appellant "
     "check the contact numbers and write that reminder on handover."),
+   ("", "That the Communication Book was kept in the operators' room and used to record changes to contact and paging "
+    "numbers and matters for handover; that he read it in the course of handover during the period he worked at the "
+    "Switchboard; and that he did not see in it any entry made by the Appellant that criticised any person, directly or "
+    "indirectly."),
    ("", "That he was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
     "18 July 2023 stating that she would be removing everyone's access to the database and that "
     "changes were to be sent to her directly."),
@@ -209,6 +213,9 @@ OUTLINES = [
     "medical team, including calls concerning emergency responses."),
    ("", "That during that period operators had no means of correcting an incorrect entry in the "
     "directory themselves."),
+   ("", "That the Communication Book was used to record changes to contact and paging numbers and matters for handover; "
+    "that she has read it in the course of handover throughout the period she has worked with the Appellant; and that she "
+    "has not seen in it any entry made by the Appellant that criticised any person, directly or indirectly."),
    ("", "That she was not consulted about the change to after-hours on-call arrangements notified "
     "by Ms Taylor to the Switchboard on 15 April 2024, and was not asked to vote on that change."),
    ("", "That she was not consulted about, and was not balloted in relation to, changes to the "
