@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.25, leading=9.0, spaceAfter=1.2)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.25, leading=8.85, spaceAfter=1.1)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=1)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -38,8 +38,8 @@ TAIL_A = ("This outline states the topics on which I will give oral evidence. It
 OUTLINES = [
  ("OUTLINE_00_SHEPHERD", "OUTLINE OF EVIDENCE &ndash; MR CORY LEA SHEPHERD (APPELLANT)", TAIL_A,
   "I will give evidence of the following. Paragraph references are to the notice to admit facts "
-  "served 28 August 2026 (the Notice). The events at topics 2 to 7 are established by the facts admitted by the "
-  "Respondent on 8 September 2026; my evidence on those topics is what they were from the console and their effect on me.",
+  "served 28 August 2026 (the Notice). The events at topics 2 to 7 are established by the facts admitted on "
+  "8 September 2026; my evidence on them is what they were from the console and their effect on me.",
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
     "shift worker. The duties: the emergency response notifications, \"strictly adhering to protocols "
@@ -98,8 +98,8 @@ OUTLINES = [
     "3:06 pm and 8 May at 5:28 pm, nine calls reaching the wrong team, including the MET call team "
     "ringing because \"switchboard could not tell them where VHUB was\"; that her first response came "
     "on 9 May at 9:20 am, five days and eighteen hours after the first, asking Dr Wong for her business "
-    "hours because they were \"not provided on the rosters\" and that her phone was \"switched off\", "
-    "the manager describing the same difficulty; and at 10:15 am telling the team of "
+    "hours because they were \"not provided on the rosters\" and that her phone was \"switched off\"; "
+    "and at 10:15 am telling the team of "
     "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 that \"we "
     "can not help patients or other clinical staff\"; and that on each occasion I could not correct the "
     "entry myself and the delay built up while the correction waited. "
@@ -207,7 +207,7 @@ for stem, title, tail, intro, items in OUTLINES:
     doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm,
                           topMargin=11*mm, bottomMargin=11*mm)
     doc.addPageTemplates([PageTemplate(id='n', frames=[
-        Frame(15*mm, 10*mm, A4[0]-30*mm, A4[1]-20*mm, leftPadding=0, rightPadding=0,
+        Frame(15*mm, 9*mm, A4[0]-30*mm, A4[1]-18*mm, leftPadding=0, rightPadding=0,
               topPadding=0, bottomPadding=0)])])
     doc.build(s); buf.seek(0)
     pdf = pikepdf.open(buf)
