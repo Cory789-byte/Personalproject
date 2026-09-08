@@ -169,8 +169,7 @@ OUTLINES = [
    ("", "What he observed over a period of approximately three months of the Appellant working to "
     "obtain and record updates to medical contact numbers; that the monthly task of updating the spreadsheet of "
     "number changes, allocated to a shift, was left undone over that period; that the Appellant placed a reminder "
-    "in the Communication Book about the allocation of that monthly task; and that the reminder was the entry "
-    "removed on or about 6 June 2023."),
+    "in the Communication Book about the allocation of that monthly task."),
    ("", "That he was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
     "18 July 2023 stating that she would be removing everyone's access to the database and that "
     "changes were to be sent to her directly."),
@@ -200,13 +199,13 @@ OUTLINES = [
    ("", "Occasions she observed of complaints being directed at the Appellant at the console, including an orthopaedic "
     "doctor who complained about the Appellant following a change in the way that doctor was to be contacted, and a "
     "clinician who made repeated complaints through the Switchboard."),
-   ("", "What she observed of urgent pathology results for clinical staff being delayed in reaching "
-    "the treating team following the changes made to the Switchboard process: what the process was "
-    "before, what it became, and the delay that resulted."),
+   ("", "The process for relaying urgent pathology results before and after the changes made to the Switchboard "
+    "process: what the process was, what it became, and what she was told at the console by those calling back about "
+    "results that had not reached the treating team."),
    ("", "What she observed of the Appellant updating pager and contact numbers at the console, and of pager "
     "and number updates left unactioned over extended periods."),
-   ("", "What she observed at the console between 2 and 8 May 2024 of calls being connected to the "
-    "wrong medical team, including calls concerning emergency responses."),
+   ("", "What she was told at the console between 2 and 8 May 2024 by callers reporting that calls had reached the wrong "
+    "medical team, including calls concerning emergency responses."),
    ("", "That during that period operators had no means of correcting an incorrect entry in the "
     "directory themselves."),
    ("", "That she was not consulted about the change to after-hours on-call arrangements notified "
