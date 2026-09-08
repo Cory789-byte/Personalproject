@@ -13,9 +13,9 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10, textColor=colors.HexColor('#555555'), spaceAfter=3)
 BODY = ParagraphStyle('BODY', fontName='Helvetica', fontSize=7.9, leading=9.1, spaceAfter=1.6)
-CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.2, leading=8.3, spaceAfter=0)
+CELL = ParagraphStyle('CELL', parent=BODY, fontSize=7.2, leading=8.15, spaceAfter=0)
 CELLB= ParagraphStyle('CELLB', parent=CELL, fontName='Helvetica-Bold')
-INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.6, leading=8.8, spaceAfter=1.3)
+INTROSTY = ParagraphStyle('INTROSTY', fontName='Helvetica', fontSize=7.6, leading=8.65, spaceAfter=1.2)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=2, spaceAfter=0)
 def P(t, s=BODY): return Paragraph(t, s)
 from reportlab.platypus import Image as RLImage
@@ -85,10 +85,10 @@ ROWS = [
   "clinician's account of origin: \"workplace stress stemming from issues with management and rostering\"; that "
   "the issues \"began approximately one year ago when a new manager was appointed\"; pay \"withheld or delayed for "
   "up to five months at a time, leading to significant financial stress\"; and that \"premature exposure to the "
-  "workplace is more likely result in significant deterioration\". The stressors so recorded correspond to facts admitted by the Respondent on 8 September 2026: management and rostering, and the night-shift line, at facts 211, 212 and 220; the shorter break, at facts 258 to 260; and pay withheld or delayed, at facts 185 to 190, 193, 195 and 203.",
+  "workplace is more likely result in significant deterioration\". The stressors so recorded correspond to facts admitted by the Respondent on 8 September 2026: management and rostering, and the night-shift line, at facts 211, 212 and 220; the shorter break, at facts 258 to 260; and pay withheld or delayed from the 5 February 2024 fortnight (facts 185 to 190), uncorrected at 13 May (fact 193), \"claims older than 3 months\" on 28 May (facts 196, 197), a claim effective 30 March \"Part Completed\" on 30 May (fact 203), and the two February claims absent from the myHR report (fact 210).",
   "Attribution among the individual events at paragraphs 2 to 7 of the Appellant's outline of evidence; any "
-  "matter after 24 October 2024 as a cause of the injury. The report was prepared for QSuper and is tendered as "
-  "a treating record, not as a report prepared for this proceeding. The report bears the footer that the information was disclosed \"for the only reason of clinical information and not for medico-legal use\"."),
+  "matter after 24 October 2024 as a cause of the injury. Prepared for QSuper; tendered as "
+  "a treating record, not as a report for this proceeding. The report bears the footer that the information was disclosed \"for the only reason of clinical information and not for medico-legal use\"."),
  ("5", "Clinical records of Dr Krishnaiah from 24 October 2024 (offered by the practice on 5 September 2026 and "
        "requested; not yet received).",
   "What was reported at the first consultation and when; diagnosis and prescribing over time. To be served on "
@@ -125,7 +125,7 @@ t.setStyle(TableStyle([
 s.append(t)
 s.append(P("<b>The finding on section 32(1) in the decision under appeal.</b> On the medical evidence then before it \u2014 the work capacity certificates at item 2 and Dr Hawes's statement to WorkCover of 2 September 2024 \u2014 the Respondent's review of 24 October 2024 found that the Appellant \"sustained a personal injury of a psychological nature\", and stated: \"Having regard to the medical evidence, I am satisfied your employment was a significant contributing factor to the psychological injury\" (pages 17 and 26; item 7). The claim was rejected under section 32(5), not section 32(1). The hearing is de novo and that finding does not bind the Commission; it is relied upon as an admitted document.", INTROSTY))
 s.append(P("The Appellant reserves the position as to any further report; if one is to be relied upon, directions will be sought before it is served.", FOOT))
-sig = Table([[SIG(30*mm,15.5*mm),
+sig = Table([[SIG(21*mm,11*mm),
               P("Dated: 9 September 2026<br/><b>Cory Lea Shepherd</b>, Appellant, self-represented", BODY)]],
             colWidths=[34*mm, W-34*mm])
 sig.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'BOTTOM'),
@@ -133,8 +133,8 @@ sig.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'BOTTOM'),
                          ('TOPPADDING',(0,0),(-1,-1),0), ('BOTTOMPADDING',(0,0),(-1,-1),0)]))
 s.append(sig)
 buf = io.BytesIO()
-doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=10*mm, bottomMargin=9*mm)
-doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 9*mm, A4[0]-30*mm, A4[1]-19*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
+doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm, topMargin=9*mm, bottomMargin=8*mm)
+doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(15*mm, 8*mm, A4[0]-30*mm, A4[1]-17*mm, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
 doc.build(s); buf.seek(0)
 pdf = pikepdf.open(buf); n = len(pdf.pages)
 try: del pdf.Root.Metadata
