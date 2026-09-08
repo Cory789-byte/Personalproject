@@ -60,7 +60,7 @@ OUTLINES = [
     "finishing at 23:00 and starting at 06:00, and the rest and sleep actually available; that on the "
     "evening of 17 March I handled a MET call and, four minutes later, a Code Blue to the same bed, then "
     "a further MET call; that 18 March was a Monday day shift, the week's peak, and that between 06:00 and 14:00 I "
-    "handled a Code Grey, three MET calls and two neonatal MET calls, in that state, while answering that queue of "
+    "handled a Code Grey, two MET calls (one cancelled a minute later) and two neonatal MET calls, in that state, while answering that queue of "
     "urgent handover, distressed callers and complaints; and that those shifts were not a staff-initiated swap, the "
     "only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour agreement applied. The sequence that "
     "followed: my request of 8 April 2024; Ms Taylor's reply of 9 April that she had escalated it to Human Resources "
