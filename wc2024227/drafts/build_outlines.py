@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.2, leading=8.6, spaceAfter=1.0)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.2, leading=8.5, spaceAfter=0.9)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=1)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -55,20 +55,20 @@ OUTLINES = [
     "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
     "finishing at 23:00 and starting at 06:00, and the rest and sleep actually available; that on the "
     "evening of 17 March I handled a MET call and, four minutes later, a Code Blue to the same bed, then "
-    "a further MET call; that 18 March was a Monday day shift, which carries the week's peak call volume "
-    "and on which the queue is rarely cleared, and that between 06:00 and 14:00 I handled a Code Grey, "
-    "three MET calls and two neonatal MET calls, in that state, while answering that queue of urgent handover, "
-    "distressed callers and complaints; and the sick leave of 19 March; that those shifts were not a "
-    "staff-initiated swap, the only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour "
-    "agreement applied; and that the copy I hold of the roster published for that fortnight, 18 to 31 "
-    "March 2024, contains no line for me. That when I raised fatigue, neither my manager nor the Director applied any "
-    "fatigue protocol to my roster: no fatigue risk assessment was made, no FRMS register was kept, "
-    "and the toolkit at clause 10.4.1 of the Operations Manual, sent to Ms Taylor, had no "
-    "response; my request of 8 April 2024 and the refusal of 1 May 2024; and that Metro South has since "
-    "stated in writing that the fatigue risk assessment records and register entries requested \"do not "
-    "exist\", that FRMS training applied only to clinical staff, and that fatigue management "
-    "assessment at the Switchboard began only after 30 June 2024. "
-    "<i>[&para;&para; 17&ndash;25, 211&ndash;256, 263&ndash;268]</i>"),
+    "a further MET call; that 18 March was a Monday day shift, the week's peak, and that between 06:00 and 14:00 I "
+    "handled a Code Grey, three MET calls and two neonatal MET calls, in that state, while answering that queue of "
+    "urgent handover, distressed callers and complaints; and that those shifts were not a staff-initiated swap, the "
+    "only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour agreement applied. The sequence that "
+    "followed: my request of 8 April 2024; Ms Taylor's reply of 9 April that she had escalated it to Human Resources "
+    "\"to confirm policies around this\"; no response until 1 May, when the fatigue payment was refused \"after a "
+    "consultation with payroll and Human Resources\" on the basis of the 2020 agreement, so that the day of 19 March "
+    "came from my own leave; the toolkit at clause 10.4.1 of the Operations Manual, sent to Ms Taylor, with no "
+    "response; Ms Reese sending the fatigue guideline to Human Resources on 20 May 2024; that no fatigue risk "
+    "assessment was made and no FRMS register kept; that Metro South has since stated in writing that those records "
+    "\"do not exist\", that FRMS training applied only to clinical staff, and that fatigue management assessment at "
+    "the Switchboard began only after 30 June 2024; and that the Respondent's own review found the rostering of those "
+    "two shifts to be unreasonable management action. "
+    "<i>[&para;&para; 17&ndash;25, 211&ndash;261, 263&ndash;271, 285]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
     "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across successive roster periods; "
     "and Ms Reese's acknowledgement of 10 May 2024 of \"a few "
