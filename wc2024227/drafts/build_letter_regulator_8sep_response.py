@@ -9,7 +9,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer
 from reportlab.platypus import Image as RLImage
 
-B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.8, spaceAfter=4)
+B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9.0, leading=11.4, spaceAfter=3.5)
 HB  = ParagraphStyle('HB', parent=B, fontName='Helvetica-Bold', spaceAfter=2)
 def P(t,s=B): return Paragraph(t,s)
 def SIG(): 
@@ -44,8 +44,12 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
      "does not rely on those documents as statements about some other event. That is the footing on which facts "
      "49, 66, 74 to 77 and 81 (the directives and the replies to them), 182 to 205 and 210 (the payroll thread and "
      "the myHR report), 211 to 223 (the rostering correspondence) and 263 to 271 (Metro South Health's statements "
-     "to the Commission in answer to the notice of non-party disclosure) are relied upon. Several of the documents in "
-     "those ranges were sent by Ms Taylor or Ms Reese, whom the Appellant expects the Respondent to call.",B),
+     "to the Commission in answer to the notice of non-party disclosure) are relied upon. The same footing applies to the reports made "
+     "to the Switchboard manager by the MASPER Registrar on 3 and 8 May 2024 and by the Integrated Respiratory Service on "
+     "15 and 20 May 2024, and to the replies to them (facts 56 to 68 and 89 to 104): each report of calls reaching the wrong "
+     "team, or that \"we can not help patients or other clinical staff\", was made, and each reply given, on the date and in "
+     "the terms recorded. Several of the documents in those ranges were sent by Ms Taylor or Ms Reese, whom the Appellant "
+     "expects the Respondent to call.",B),
 
    P("3. Documents recording the statements of others",HB),
    P("Where an admitted document records a statement, finding or opinion of another person &ndash; the treating "
@@ -74,8 +78,8 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
    P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented",B)]
 
 buf=io.BytesIO()
-d=BaseDocTemplate(buf,pagesize=A4,leftMargin=22*mm,rightMargin=22*mm,topMargin=14*mm,bottomMargin=14*mm)
-d.addPageTemplates([PageTemplate(id='n',frames=[Frame(22*mm,14*mm,A4[0]-44*mm,A4[1]-28*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
+d=BaseDocTemplate(buf,pagesize=A4,leftMargin=22*mm,rightMargin=22*mm,topMargin=12*mm,bottomMargin=12*mm)
+d.addPageTemplates([PageTemplate(id='n',frames=[Frame(22*mm,12*mm,A4[0]-44*mm,A4[1]-24*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
 d.build(s); buf.seek(0)
 pdf=pikepdf.open(buf); n=len(pdf.pages)
 try: del pdf.Root.Metadata
