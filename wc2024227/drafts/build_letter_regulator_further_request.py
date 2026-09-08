@@ -10,8 +10,8 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, PageBreak
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv)>1 else "21 September 2026"
-REPLY_BY = sys.argv[2] if len(sys.argv)>2 else "Friday 25 September 2026"
+DATE = sys.argv[1] if len(sys.argv)>1 else "9 September 2026"
+REPLY_BY = sys.argv[2] if len(sys.argv)>2 else "Friday 18 September 2026"
 
 B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9.4, leading=12.2, spaceAfter=5)
 HB  = ParagraphStyle('HB', parent=B, fontName='Helvetica-Bold', spaceAfter=2)
@@ -47,17 +47,19 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
    P(f"Dated {DATE}",B),
    Spacer(1,2*mm),
    P("<b>WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator</b><br/>"
-     "<b>Further request: the documents not admitted on 8 September 2026</b>",B),
+     "<b>Request: the documents not admitted on 8 September 2026</b>",B),
    Spacer(1,1*mm),
    P("Dear Ms Matheson,",B),
-   P("I refer to the Respondent's responses of 8 September 2026 to the Form 24 and Form 25 notices, to my request of "
-     "9 September 2026 concerning the facts and documents not admitted, and to the position as it now stands. The "
-     "documents concerned are set out in the schedule to this letter. The contents of each, other than Tab 31, were admitted in the "
+   P("I refer to the Respondent's responses of 8 September 2026 to the Form 24 and Form 25 notices and to my letter of "
+     "today's date on the letter that accompanied them. Five facts are not admitted and the authenticity of fourteen tabs of "
+     "Annexure A is disputed. This request arises only from that response: had the authenticity of the copies been admitted, "
+     "as their contents were under the Form 24, none of these documents would need to be sought. The documents concerned "
+     "are set out in the schedule to this letter. The contents of each, other than Tab 31, were admitted in the "
      "Form 24 response at the facts noted; what is disputed is the authenticity of the copy served from my records.",B),
    P("At the mention on 7 August 2026 the Commissioner indicated that, for a document held by Metro South Health, the "
      "starting point is to ask the Regulator to make inquiries and produce it, and that non-party disclosure follows "
      "only if the Regulator does not. This letter is that step, put as a choice so that the matter can be closed "
-     "without an application.",B),
+     "without an application, and before the Respondent's material is due on 30 September 2026.",B),
    P("For each document in the schedule, could the Regulator please, by " + REPLY_BY + ", do one of the following:",B),
    P("(a) produce the Regulator's or Metro South Health's copy of the document, or confirm the authenticity of the copy "
      "served by reference to that copy; or",B),
@@ -87,4 +89,4 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
 try: del pdf.Root.Metadata
 except (AttributeError,KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
-out="out/LETTER_TO_REGULATOR_further_request_documents_not_admitted.pdf"; pdf.save(out,linearize=True); print("built",out,n,"page(s)")
+out="out/LETTER_TO_REGULATOR_request_documents_not_admitted_9SEP2026.pdf"; pdf.save(out,linearize=True); print("built",out,n,"page(s)")
