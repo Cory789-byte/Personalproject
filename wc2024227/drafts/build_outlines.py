@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.15, leading=8.45, spaceAfter=0.9)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.1, leading=8.35, spaceAfter=0.8)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=1)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -44,7 +44,10 @@ OUTLINES = [
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
     "shift worker. The Switchboard is the hospital's communications hub: in a Code Blue or MET call it is the "
     "Switchboard that activates and pages the response team, and an error or delay at the console is an error or "
-    "delay in the emergency response. Between 15 and 50 emergency codes go out in 24 hours; some 200 to 300 calls a "
+    "delay in the emergency response. What each code is: a Code Blue, a cardiac or respiratory arrest; a MET call, a "
+    "patient deteriorating on a ward; a Code Grey, an unarmed threat; a neonatal MET call, a newborn; what an urgent "
+    "pathology result is, and what turns on the responding team or the clinician being reached in time. Between 15 and "
+    "50 emergency codes go out in 24 hours; some 200 to 300 calls a "
     "shift, many from people distressed, frightened or in crisis; urgent results relayed doctor to doctor; and "
     "complaints from the public, clinicians and staff arrive at the console first, to the operator on duty, and "
     "those my manager did not action came back to me. The standing condition of the role over the period: from the "
