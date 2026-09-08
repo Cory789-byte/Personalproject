@@ -113,7 +113,7 @@ s=[P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",H1),
    P("(g)&nbsp;&nbsp;<b>Suppression of Industrial Representation During Roster Disputes:</b> On 11 August 2023 the Appellant "
      "notified Ms Taylor of his intention to become the Switchboard union delegate (the Respondent admits the text was sent: "
      "response of 18 February 2026, row 18; admitted: fact 294). The Union Encouragement Policy QH-POL-248 requires managers to "
-     "take a \"positive, supportive role\" (admitted: fact 293). No ballot or election for the position was held before "
+     "take a \"positive, supportive role\" (admitted: fact 293). No ballot or vote for the position was held before "
      "18 June 2024; the Appellant was endorsed as a workplace delegate only on 3 November 2025 (admitted: fact 179). This left "
      "the department without local delegate representation during the period in which the Appellant was disputing unsafe "
      "rostering practices and fatigue risks.",L),
