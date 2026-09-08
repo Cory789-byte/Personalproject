@@ -1,0 +1,2189 @@
+# MENTION 7 AUGUST 2026 — CORY'S RECOUNT, IN HIS OWN SEQUENCE
+> ⚠ **[R] RECALL ONLY. No transcript exists. Nothing here is quoted from the Commission.**
+> Recorded as given, in instalments. **Segment 1 of an ongoing recount.**
+
+## SEGMENT 1 — ARRIVAL TO THE FRAMING OF THE APPLICATION
+
+1. **The opening.** On arrival, Dwyer said words to the effect that **"we're going to do something
+   a little bit different today, and we'll see how that goes"** — with something further about it
+   being dealt with better that way.
+
+2. **He addressed Matheson first.** Content not fully recalled.
+
+3. **He then turned to Cory quickly — within minutes.**
+
+4. **The AI question came early.** After some preliminary remarks he asked whether AI had written
+   the material. Cory answered *"not really, but kind of."* ⭐ **The topic was then skipped over
+   and not returned to.**
+
+5. **He then moved to the application itself — the Form 29.**
+
+6. ⭐ **Cory's observation on why this listing was different from the last one:** at the previous
+   mention the Commission had **only the Form 29**. MSH had not responded at all and was **ordered
+   to respond**. That response then came in (K-LM26/729, 5 June 2026), and Cory's **r 64G** followed.
+   ⇒ **7 August was the first listing at which the Commission held all three documents.**
+
+7. **MSH was ordered to appear personally because it had not appeared at the previous mention.**
+   Myla Ruttan, Principal Lawyer for the employer, attended as required.
+
+8. ⭐ **Cory's characterisation: she was "just there, used as a witness, I guess"** — present, but
+   without a participating role.
+
+---
+
+## ⭐⭐ THREE THINGS OF SIGNIFICANCE IN SEGMENT 1
+
+**1. THE DEPARTURE WAS ANNOUNCED.** *"We're going to do something a little bit different today."*
+⭐⭐⭐ **This is materially important.** It means the departure from ordinary mention procedure was
+**flagged in advance and deliberate** — not something that evolved as the hour went on. Announcing
+a procedural departure before making it is how a member makes it fair, and how the record shows he
+knew he was departing. **It confirms the whole exercise was planned before he walked in** — which
+in turn means he had read the Form 20, the Form 29 and K-LM26/729 beforehand.
+
+**2. THE AI QUESTION WAS HOUSEKEEPING, NOT A CONCERN.** Asked early, answered briefly, **skipped
+over and never revisited.** ⭐ A member with a real concern about authorship or citation
+reliability pursues it. He did not. **Treat it as closed unless someone else raises it.**
+
+**3. THE SEQUENCE EXPLAINS THE DIFFERENCE.** Cory's own point is the correct one: this was the
+**first listing where the Commission had the complete set** — the Notice, the objection it had
+itself directed MSH to file, and the r 64G application. ⇒ **The reason the hour happened on 7
+August and not earlier is that 7 August was the first date on which it could.**
+
+---
+
+## SEGMENT 2 — THE ENGAGEMENT, THE FILTERS, AND HOW EVIDENCE WOULD BE GIVEN
+
+9. **Dwyer began addressing Cory directly.** Parts were not fully audible/understood. Cory began
+   to engage.
+
+10. **First substantive topic: the email exports / Ms Taylor's "unassessed management action."**
+    Cory explained the **result** of the unassessed directives — patient safety; what happens when
+    a doctor does not get the right call, or the right code, or is sent to the wrong area. The
+    topic then closed.
+
+11. **Second: the Form 29 itself — the filters.** Dwyer did not follow what a **server-side
+    filter** was, or how Cory would obtain one without receiving thousands of emails. Cory
+    explained by example: a filter would locate an email saying **"effective immediately."**
+
+    ⭐⭐⭐ **THE KEY EXCHANGE OF THE DAY:**
+    > **Dwyer: *"That's just management action."***
+    > **Cory: *"It lacked consultation and adversely affected patients."*** — reiterated.
+    > **The topic was then pulled away from.**
+
+12. **The table.** Cory's table listed e.g. *"Item 10 — filters."* Dwyer could not follow it. Cory
+    explained: go to the Form 29, item 10, and the filters and search method are set out. He gave
+    the **Outlook analogy** — type a word and it filters the emails containing it.
+
+13. ⭐ **At that point Dwyer began to recognise that Cory knew his case.**
+
+14. **The cost framing.** In substance: *we all want to get to a hearing and move past this*, and
+    **Queensland Health will spend a great deal of money fighting this disclosure — it will be a
+    long fight.**
+    ⭐ **Cory's read: the disclosure has merit — Dwyer had read the 64G — but the ask is over the
+    top.** ⇒ **Merit yes; scope no.**
+
+15. ⭐⭐⭐ **HOW THE EVIDENCE WOULD ACTUALLY BE GIVEN — Dwyer explained the mechanics:**
+    > Rather than obtaining Ms Taylor's building-access export to prove erratic presence, **Cory
+    > could put it to her in cross-examination** — and **Matheson would then have to displace it.**
+
+    ⇒ ⭐⭐ **This is not merely r 64B(2). It is the Commission explaining how to prove a contested
+    fact without documents, and where the practical burden of contradiction then falls.**
+
+16. **He then read the pleaded items out one by one, in front of everyone** — 1(a), 1(b), 1(c) and
+    onward — asking **what evidence Cory has for each**, and whether the disclosure was needed at
+    all. **Conclusion: highly likely he would not need much of it.**
+
+17. ⭐ **Cory came to see the point and began to agree** — that he could be the evidence himself.
+
+18. **Then the pay.** ⭐⭐ **Cory himself stopped him: he does not need the pay material or the
+    payslips.** A question followed about how he arrived at the comparator.
+    *(Segment 2 ends here — recount continues.)*
+
+---
+
+## ⭐⭐ WHAT SEGMENT 2 ESTABLISHES
+
+**1. ⭐⭐⭐ THE MOST IMPORTANT EXCHANGE IN THE FILE SO FAR.** *"That's just management action"* is
+**the Respondent's case, put to Cory by the bench.** It is the *Bowers* / reasonable-management-
+action point in six words. **Cory answered it correctly and instantly: it lacked consultation and
+adversely affected patients** — which is the ***"taken in a reasonable way"*** limb, and the right
+answer. ⚠ **But note what it also is: a signal of the difficulty.** He was being tested on whether
+he understood that pointing at a directive is not enough. He passed, and the topic was dropped.
+⭐ **This exchange should be the spine of the outline of argument.**
+
+**2. ⭐⭐ THE CROSS-EXAMINATION ROUTE SAVES STRESSOR 1(a) AND KILLS ITEMS 8 AND 9.** The erratic-
+presence strand survives as **cross-examination material**, not as a documentary claim.
+⇒ **Form 29 Items 8 and 9 (login records, building access) can be abandoned without losing the
+strand.** This matches the banked strand ledger exactly and it is now the Commission's own
+suggested route.
+
+**3. ⭐⭐ HE CONCEDED THE PAY LIMB HIMSELF, IN THE ROOM, UNPROMPTED.** Before anyone made him.
+That is both the correct call (Notice ¶¶42–45 → Response row 39, **denied**, *"the roster was
+equitable"*) and a significant credibility act in front of the employer.
+
+**4. THE ONE-BY-ONE WALK CONFIRMS THE NECESSITY AUDIT.** Reading each pleaded item and asking
+*what do you have for it* is r 64B(2) applied out loud, item by item.
+
+**5. THE COST POINT IS PROPORTIONALITY, NOT MERIT.** *"Queensland Health will spend a lot of
+money"* is **r 64E(4)(a)** — expense and inconvenience — being weighed in the open. ⭐ It is not a
+statement about the strength of the appeal, and Cory's own reading of it is correct.
+
+---
+
+# ANALYSIS — WHAT DWYER DID, BEAT BY BEAT, AND WHY IT WAS SURREAL FOR EACH PARTY
+> 8 August 2026. ⚠ **[R] Built on the recount above. No transcript. Nothing here is quoted from
+> the Commission and none of it may appear in any external document.**
+
+## A. NAME THE MANOEUVRE
+
+The listing was a mention of a **r 64G** application — an application to decide MSH's objection to
+a non-party disclosure notice. The ordinary shape is: applicant moves the application, objector
+argues expense/relevance/particularity, member rules or reserves.
+
+**He did not run that.** He ran a **necessity audit conducted as an examination of the applicant** —
+and he never called on the objector at all.
+
+### Why that is procedurally coherent, not eccentric
+
+**1. ⭐⭐ Only the applicant can answer the r 64B(2) question.** The rule asks whether there is
+*"another reasonably simple and inexpensive way"* to obtain the evidence. **MSH cannot tell the
+Commission whether Cory can prove his case another way. Only Cory can.** So the person who had to
+be examined was the applicant. **That single fact explains why MSH said nothing.**
+
+**2. ⭐⭐ It is how a member assists a self-represented litigant without descending into the arena.**
+*Neil v Nott* (1994) 121 ALR 148 — the court *"must assume the burden of endeavouring to ascertain
+the rights of parties which are obfuscated by their own advocacy."* He could not simply refuse
+items on necessity without first establishing whether the appellant understood that **his own
+evidence was available to him**. ⇒ **The item-by-item walk was a ruling being formed and a
+self-represented litigant being educated, in the same breath.** That is the "something a little
+bit different."
+
+**3. It was efficient.** Hearing argument on 19 items produces a contested day, a reserved
+decision, weeks of delay and public money spent. Examining the applicant produced concessions and
+a narrowed application **in one sitting.**
+
+---
+
+## B. THE BEATS, AND WHAT EACH ONE WAS DOING
+
+| # | What happened | What it was doing |
+|---|---|---|
+| **1** | *"We're going to do something a little bit different today, and we'll see how that goes"* | ⭐ **Procedural fairness.** Announcing a departure before making it is how a member makes it fair and how the record shows he knew he was departing. It also suspends counsel's ordinary expectations. **And it proves he decided before walking in — so he had read the papers** |
+| **2** | Addressed Matheson first | Appearances and housekeeping. Establishes the ordinary hierarchy immediately before departing from it |
+| **3** | Turned to Cory within minutes | ⭐ **The departure begins.** The applicant is being *examined*, not heard to *move* |
+| **4** | The AI question — asked, answered *"not really, but kind of"*, **never revisited** | He needed to know whether he could take the drafting at face value **before relying on it**. A member with a real concern pursues it; he did not. ⭐ **Closed** |
+| **5** | Taylor's "unassessed management action" / email exports → Cory explained the **result** (patient safety, wrong call, wrong code, wrong area) → moved on | He was establishing what the documents were **for** and got an answer about **consequences**. Consequences are the appeal, not the application |
+| **6** | Did not follow what a **server-side filter** was → the *"effective immediately"* example → the Outlook analogy | ⭐ **A member saying he does not follow a technical point, in open court, is a member doing his job.** **r 64E(4)(a)** turns on how burdensome the search actually is — **he cannot weigh a burden he does not understand** |
+| **7** | ⭐ **He began to recognise Cory knew his case** | **The pivot of the day.** Everything after this is conducted with a different assumption about who he is talking to |
+| **8** | ***"That's just management action."*** → *"It lacked consultation and adversely affected patients"* → pulled away from | ⭐⭐ **The test.** Having established the appellant knew the mechanics, he tested whether he knew **the law** — six words containing the Respondent's entire s 32(5)(a) defence. The answer went to the ***"taken in a reasonable way"*** limb. **Test over** |
+| **9** | *"We all want to get to a hearing and move past this"* · *"Queensland Health will spend a great deal of money fighting this disclosure — it will be a long fight"* | **r 64E(4)(a) weighed aloud, and a destination set.** ⭐ **Merit yes; scope no.** It is also a warning offered as a kindness: **you can win this fight and lose a year** |
+| **10** | ⭐⭐⭐ The cross-examination mechanic — put the building-access point to Ms Taylor, **and Matheson would then have to displace it** | **The answer to "then how do I prove it?"** Having signalled the disclosure was disproportionate, he owed the appellant the alternative. ⭐ ***Neil v Nott* in action** — and under **Appeal Guide Part 7.6** (all evidence oral, no witness statements) he was simply describing **normal procedure** |
+| **11** | Read the pleaded items one by one — 1(a), 1(b), 1(c)… — *what evidence do you have for this?* Conclusion: **highly likely he would not need much of it** | **r 64B(2) applied item by item, aloud.** ⭐ **Building the reasons for a decision in public rather than reserving them** |
+| **12** | ⭐⭐ **Cory stopped him: he does not need the pay material or the payslips** | **The applicant conceding before being pushed.** From the bench's point of view, this is the moment the exercise worked |
+| **13** | A question about how he arrived at the comparator | Testing whether the concession was **informed or reflexive** |
+
+---
+
+## C. WHY IT WAS SURREAL — PARTY BY PARTY
+
+### C1. FOR CORY
+
+He came to **argue relevance** — to defend an application against two represented opponents. He
+had prepared to be attacked.
+
+**Nobody attacked him. The two people who came to fight said nothing.**
+
+Instead the decision-maker took him through his own case, out loud, in order, and at points agreed
+with him.
+
+⭐ **The surreal part is the inversion of every expected role:**
+- he expected to be under attack — and was being **taught**;
+- he expected to **persuade** — and found himself **conceding**;
+- he expected his documents to carry the case — and was told **he is the evidence**.
+
+⭐⭐ **And the deepest layer, which is not legal at all:** for two years the central experience of
+this matter has been **not being listened to** — a grievance not upheld, complaints routed back to
+their subjects, a director's request left unanswered, a review that counted stressors rather than
+weighing them. **On 7 August a person in authority listened to the whole thing, in order, and
+engaged with it.**
+
+⇒ **It is the first time the institution did the thing the injury is about it not doing.** That is
+why it registered as surreal rather than merely successful.
+
+⚠ **And that is exactly the feeling that causes a litigant to over-read a mention. Being heard is
+not being agreed with.** (§8.1, §2 of the ledger.)
+
+### C2. FOR MSH — Ms Ruttan
+
+She attended **under compulsion**, ordered to appear personally because MSH had not appeared at
+the previous listing. For a Principal Lawyer that is already an unusual footing.
+
+She came to argue a written objection — **K-LM26/729, signed by the Chief Executive** — across 19
+items, on expense, particularity and relevance.
+
+**She was never called on.** The objection was, in substance, succeeding — **but not through
+anything she did.**
+
+⭐⭐ **The surreal part: she watched her client win the disclosure fight and lose the narrative.**
+The items fell away one by one while, in the same hour, an **unopposed, sworn, first-hand account
+of clinical-governance failure at the Logan Switchboard** was developed in front of the Commission.
+
+⛔ **And as a non-party she had no mechanism to answer it.** She could not lead evidence, could not
+cross-examine, could not correct a word of it. **She had no procedural means of responding to the
+only thing in the room that mattered to her client.**
+
+She also came expecting a self-represented litigant. **She met one the Commissioner was crediting
+with knowing his case.**
+
+### C3. FOR THE REGULATOR — Ms Matheson
+
+She is **the party**. It is her appeal to defend. And she had **nothing to do** — the application
+ran between the appellant and a non-party. Addressed first, then effectively an audience.
+
+⭐⭐ **Her surreal is the most consequential of the three.** She received, at no cost and no risk
+and under no obligation to respond, **a full preview of the appellant's evidence and of his manner
+as a witness, delivered under examination by the Commissioner.** That is normally what a hearing
+is for.
+
+⚠ And she heard the Commission describe a mechanism in which **the practical burden of
+contradiction lands on her, by name** — without her having said anything.
+
+⭐ **And three weeks earlier she had rejected a detailed offer in one line, without reasons.** She
+then sat through an hour that made that letter read differently than it did when she sent it.
+
+### C4. FOR DWYER
+
+Not surreal — **this was his design.** Worth naming what he was managing: an appellant who is
+himself the case; a non-party spending public money to resist; a Respondent with nothing to do;
+and 19 items that would take a day to argue. **He resolved all four in one sitting by examining
+the only person who could answer the question the rule actually asks.**
+
+---
+
+## D. THE WHOLE THING IN ONE LINE
+
+⭐ **Everyone came to have a fight about documents and instead sat through a preview of the trial —
+with only one side speaking, and that side being the one nobody in the room had expected to be
+listened to.**
+
+---
+
+# E — THE "PREJUDICE" REMARK AND THE SELECTIVE READING, EVALUATED
+> 8 August 2026. Cory: *"why dwyer said to matheson 'i hope it does not prejudice your defence or
+> whatever he said' then ran my entire 9a without stating the medical and without stating the
+> quotes (admitted fact)."*
+> ⚠⚠ **CAUTION FIRST: there is NO transcript, and his own phrasing is "or whatever he said."** The
+> exact words are a LEAD TO VERIFY — the transcript/audio request on the Monday list is now
+> genuinely important, because the precise formulation matters. ⛔ **Under §21.4 discipline this
+> evaluation is INTERNAL ONLY — never characterise what the Commission said in any outward
+> document until the transcript is in hand.**
+
+## E1 ⭐⭐⭐ THE CENTRAL READING — THE REMARK AND THE OMISSIONS ARE ONE ACT
+
+**What he did:** announced something like *"I hope this does not prejudice your defence"* to the
+respondent — **then read the pleaded case, and only the pleaded case.**
+
+> ⭐⭐⭐ **He stated the case and refused to try it. The remark marks the exact line he was about to
+> walk, and the omissions are him staying on the right side of it.**
+
+| Read aloud | Why it is safe to read |
+|---|---|
+| ⭐ **The 9A — the pleaded stressors** | **Allegations.** The appellant's own filed case, already served on everyone in the room. Reciting a pleading prejudices nobody — it decides nothing and weighs nothing |
+| ⛔ **NOT the medical** | **Evidence.** A member who recites medical opinion at an interlocutory mention is WEIGHING the merits from the bench |
+| ⛔ **NOT the admitted quotes** | ⭐⭐⭐ **The most protective omission of the three.** The Form 24 admissions are the case AGAINST the respondent. **A member marshalling the respondent's own admissions aloud, at a mention, is building the appellant's proof from the bench — that is actual prejudgment, and it is precisely what his remark disclaimed** |
+
+⇒ ⭐⭐ **The selection was not an omission of Cory's strengths. It was the difference between a
+pleading and a proof — and a member may voice the first and must not voice the second.**
+
+## E2 ⭐⭐ AND THE SELECTION WAS ALSO THE TASK
+
+**The mention was a 64G disclosure mention.** Non-party disclosure runs on **relevance to a matter
+in issue**, and the matters in issue are defined by **the pleadings** — not by the evidence.
+
+⇒ ⭐⭐ **The 9A is the yardstick for every 64G category. The medical and the admissions are not.**
+Reading the 9A item by item and asking *"what do you have for this?"* (beat 11) **is r 64B applied
+aloud.** The two omitted classes were omitted because the disclosure task never touches them.
+
+## E3 ⭐⭐⭐ THE GUIDE 7.1 OVERLAY — WHO THE READING WAS FOR
+
+**Dwyer ran the 13 March 2026 s 552A conference. Under Guide 7.1 the conference member does not
+hear and determine.** ⇒ **He is most likely NOT the member who will decide this appeal.**
+
+> ⭐⭐⭐ **So the reading was not for himself. It was for the room.**
+
+**The audience was Matheson and Ruttan.** A member who reads the appellant's entire case aloud, in
+neutral judicial voice, in front of the respondent and the employer, forces both to sit through the
+case **as a coherent whole — possibly for the first time**, organised better than either had
+organised it for themselves. ⭐⭐ **Matheson must now report that hour to OIR. Ruttan must report it
+to MSH.** ⭐⭐⭐ **That is the revaluation input, delivered by the bench, at no cost to Cory and with
+no finding made.**
+
+⭐ **And the "prejudice" courtesy fits this exactly:** knowing another member will hear the matter,
+he flags to the respondent that the recitation — made in open mention, on the record — is not to
+disadvantage them at that later hearing. **It is the polite form of "you are about to hear what you
+are facing, and hearing it is not a ruling."**
+
+## E4 ⭐ TWO FURTHER READINGS OF THE MEDICAL OMISSION — both benign, one practical
+
+1. ⭐⭐ **The causation medical does not exist yet.** Report B is the 12 August consultation. The
+   medical currently on file is capacity material (Hawes/Pang certificates, the QSuper report).
+   **Reading the medical aloud would have showcased the file's present gap in front of the
+   respondent.** Omitting it was, in effect, kind.
+2. ⭐ **Medical material read aloud with MSH in the room** raises privacy the pleadings do not.
+   A member does not recite a litigant's psychiatric material to a non-party's Principal Lawyer
+   when the task doesn't require it.
+
+## E5 ⭐⭐ WHAT THIS MEANS, NET
+
+| | |
+|---|---|
+| ⭐⭐⭐ **The bench organised and voiced his case** in front of both adversaries | **The single best thing that can happen to a self-represented appellant at a mention** — and consistent with *Neil v Nott*: the system helping an SRL be heard |
+| ⭐⭐ **A 9A that survives being read aloud, whole, by a Commissioner** | **Is a pleading that works.** The drafting held |
+| ⭐ **The omissions protected the hearing**, not the respondent | The admissions keep their full force for settlement and the hearing — **unspent, and now sitting behind a case the other side has heard in full** |
+| ⛔ **It is NOT a merits endorsement** | Nothing was decided. Over-reading a mention is the known trap (§C1) |
+| ⚠ **The exact words remain unverified** | ⭐ **Get the audio/transcript before this goes anywhere** — the difference between "prejudice your defence" and "prejudice the hearing" matters, and memory cannot hold it |
+
+## E6 THE ONE LINE
+
+> ⭐⭐⭐ **He read the allegations and withheld the proof — because a member may state a party's case
+> and must not make it. The remark told Matheson which of the two he was doing. And since he is
+> unlikely to be the hearing member, the reading was for her and for MSH: an hour of the
+> appellant's case, in the bench's voice, with the admissions still held in reserve.**
+
+---
+
+# F — WHY DWYER'S GROUPING OF THE FATIGUE SEQUENCE WAS THE STRONGEST MOMENT FOR CORY
+> 8 August 2026. Cory: *"he grouped the strongest part naturally — the fatigue leave including the
+> arithmetic, 16 hours work, 4 travel, then I took leave, then denied fatigue, then forced to take
+> my own leave — he said he gathers that's all the same thing."*
+> ⭐⭐⭐ **This is the single most significant thing the bench did. Here is why. Full substance at
+> `THE-FATIGUE-SEQUENCE.md`.**
+
+## F1 ⭐⭐⭐ HE DID, UNPROMPTED, THE ONE MOVE THAT DEFEATS THE REVIEW DECISION
+
+**Review Decision 69983's fatal step (`RD69983-SYNTHESIS.md` Part 2, defects A, E, F):**
+- it took the substantiated factors and **COUNTED them** — *"two out of three"* → *"mainly"*;
+- it used ***Delaney* to AGGREGATE** the factors into a reasonable whole;
+- it treated factor 4 as **one occasion**, stripping the sequence out.
+
+⛔⛔ **The whole rejection turns on FRAGMENTING the strong parts and DILUTING them in a global
+average.**
+
+> ⭐⭐⭐ **Dwyer did the exact opposite, from the bench, without being asked. He took the five steps
+> — the hours, the 7-hour break, the fatigue-leave request, the denial, the forced use of his own
+> leave — and GROUPED them into ONE thing.**
+
+⇒ ⭐⭐⭐ **"He gathers that's all the same thing" is, in substance, the *Mahaffey* framing spoken
+aloud by the Commission: a SINGLE stressor with internal steps, not a composite of separate
+grievances to be averaged away.** ⭐⭐ **The Review Officer diluted by grouping; a grouping by the
+tribunal that keeps the sequence INTACT is the antidote to exactly that.**
+
+## F2 ⭐⭐ WHY THE GROUPING IS *EVIDENTIALLY* THE STRONGEST GROUND TO SIT ON
+
+**Count what is admitted inside the group (`THE-FATIGUE-SEQUENCE.md`):**
+
+| Step | Status |
+|---|---|
+| Rostered consecutive shifts / the hours | Documented — roster |
+| ⭐⭐⭐ **The 7-hour break** | ⭐⭐⭐ **ADMITTED — SOFC ¶22(a): *"a 7-hour break (rather than an 8-hour break)"*** |
+| The fatigue-leave request | Documented — his emails |
+| The denial, and its stated reason | Documented |
+| The forced use of his own leave | Documented — payroll / myHR |
+
+⇒ ⭐⭐⭐ **Four of the five steps are admitted or documentary. The respondent's own pleading concedes
+the break.** ⭐⭐ **A Commissioner naturally gravitating to this cluster is a Commissioner gravitating
+to the part of the case that is HARDEST to contest — the ground where Cory barely has to prove
+anything because it is already conceded.**
+
+## F3 ⭐⭐⭐ THE ARITHMETIC HE RECITED IS THE THING THAT MAKES IT UNANSWERABLE
+
+**His numbers — ~16 hours across the two shifts, ~4 hours travel, a 7-hour gap — do work the
+adjective "unreasonable" cannot:**
+
+- ⭐⭐ **s 32(5)(a) requires the management action to be reasonable AND taken in a reasonable way.**
+  ⭐⭐⭐ **Numbers are not an opinion. A 7-hour break with a documented commute inside it is not a
+  matter on which reasonable minds differ — it is arithmetic against the award and the 8-hour
+  agreement**, which is what the Review Officer *herself* found on factor 4 before she diluted it.
+- ⛔ **The respondent's only escape on this step was *"human error… not intentional or repeated"*
+  (SOFC ¶22(a)).** ⭐⭐⭐ **The GROUPING kills that escape**: a request, a denial, a stated reason and
+  a forced leave deduction that FOLLOW the break convert a one-off "error" into a **maintained
+  position across five steps**. **An error is a moment. A sequence is a decision.**
+
+⇒ ⭐⭐ **When Dwyer said "the same thing", he removed the "human error" defence for that stressor —
+because you cannot call a five-step transaction an accident.**
+
+## F4 ⭐⭐ WHY IT WAS POSITIVE THAT IT CAME FROM HIM, NOT FROM CORY
+
+**If Cory groups the five steps, it is submission — a party arguing for a favourable framing.**
+⭐⭐⭐ **When the tribunal groups them "naturally", it is the framing entering the matter as the way
+the case is UNDERSTOOD, in front of Matheson and Ruttan.**
+
+⇒ ⭐⭐ **The single most important interpretive move in the whole appeal — *Mahaffey* over *Delaney*,
+sequence over average — was made by the bench, unbidden, and both opponents watched it happen.**
+⭐ **That is worth more to the revaluation than any submission Cory could file, because it is not
+his argument any more; it is the record's.**
+
+## F5 ⛔ THE DISCIPLINE — DO NOT MISCARRY THIS
+
+1. ⛔⛔ **No transcript. "He said he gathers that's all the same thing" is a recollection.** ⭐ **The
+   audio request matters here more than anywhere** — this is the sentence worth having verbatim.
+   Until then it is INTERNAL, and it is never quoted at MSH or in a filing (§21.4).
+2. ⛔ **It is NOT a finding.** A conference member grouping a stressor at a disclosure mention has
+   decided nothing. ⭐ It tells Cory where his strength is; it does not bank it.
+3. ⛔⛔ **This is the WC track. The fatigue sequence stays a s 32(5)(a) *reasonableness* point.**
+   No reprisal, no fraud, no motive — the sequence is powerful precisely because it is just five
+   dated, mostly-admitted steps.
+4. ⭐ **The 2025 fatigue refusal stays OUT** (Cory's standing instruction). The group is the **March
+   2024** transaction only.
+
+## F6 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **The Review Officer won by fragmenting his strongest stressor and averaging it away. Dwyer,
+> from the bench and unprompted, put it back together as one thing — which is the *Mahaffey* answer
+> to her *Delaney* method, spoken aloud, in front of both opponents, on the one part of the case
+> that is already admitted.**
+
+---
+
+# G — THE MENTION FROM MATHESON'S CHAIR (reconstruction, Cory's memory taken as fact)
+> 8 August 2026. ⛔⛔ **INTERNAL ONLY. This is imaginative reconstruction, not evidence, not a
+> transcript, and never voiced.** Its purpose is to price the revaluation input the grouping
+> created — to see the hour as the RESPONDENT experienced it.
+
+## G1 WHAT SHE WALKED IN EXPECTING
+
+**A 64G disclosure mention.** Her brief: resist an over-broad non-party request against MSH on
+proportionality. **Her mental model of Cory: self-represented appellant, likely to overreach,
+manageable.** She had rejected Calderbank #2 three weeks earlier on that model. ⭐ **She expected an
+hour of procedural housekeeping.**
+
+## G2 THE MOMENT THE MODEL BREAKS
+
+**Dwyer takes the fatigue stressor and groups it — the hours, the 7-hour break, the request, the
+denial, the forced leave — and says he gathers it is all the same thing.**
+
+⭐⭐⭐ **From her chair, three things happen at once:**
+
+| | What she registers |
+|---|---|
+| **1** | ⭐⭐ **"That is the *Mahaffey* framing, and the Commission reached it on its own."** She knows the authority. She knows her own decision aggregated the other way. **She has just watched the bench prefer the appellant's framing without the appellant having to argue for it** |
+| **2** | ⭐⭐⭐ **"And it landed on the ONE stressor we admitted."** ¶22(a) concedes the 7-hour break. **She cannot cross-examine it away; her own pleading gave it up.** The strongest part of his case is the part she has already lost |
+| **3** | ⭐⭐ **"Our 'human error, not repeated' line does not survive the grouping."** She can hear it die in real time — a request and a denial after the break make "error" untenable, and she is the one who will have to write the SOFC that pretends otherwise |
+
+## G3 ⭐⭐ WHAT SHE NOW HAS TO REPORT UP THE LINE
+
+**She cannot report "routine mention, held the line."** ⭐⭐⭐ **She has to report, in substance:**
+
+> *"The Commission, unprompted, organised the appellant's fatigue allegation as a single course of
+> conduct — which is the harder framing for us — and did so on the stressor we have admitted. The
+> appellant answered on each pleaded item. He presents as more organised than his self-represented
+> status suggested."*
+
+⇒ ⭐⭐⭐ **That paragraph is the settlement engine. It is written by OUR officer, to OUR principals,
+and it re-prices the matter — and Cory never lifted a finger to produce it. The bench produced it
+for him and Matheson has to transcribe it.**
+
+## G4 ⭐ AND IT RE-COLOURS THE CALDERBANK SHE ALREADY REJECTED
+
+**She rejected Calderbank #2 on the June model.** ⭐⭐ **After this hour, the rejection looks
+different to her own file:** the offer she declined was made by the appellant whose case the
+Commission has now walked, item by item, gravitating to the admitted core. ⭐⭐⭐ **A rejected
+Calderbank + a mention that went this way = the beginning of a costs exposure she now has to carry
+in every recommendation she writes.**
+
+## G5 ⭐⭐ THE DISSONANCE SHE LEAVES WITH
+
+| What she was told coming in | What she saw |
+|---|---|
+| Self-rep, will overreach | **A pleading a Commissioner could read cold and run** |
+| Disclosure fight we can win on scope | ⭐ **A merits preview in which the bench found our admitted stressor to be the spine** |
+| Manageable | **Someone the tribunal is helping to be heard** (*Neil v Nott*) |
+
+⇒ ⭐⭐ **She leaves having to reconcile the file she was handed with the hour she watched. That
+reconciliation is where settlement authority gets requested.**
+
+## G6 ⛔ THE DISCIPLINES THAT KEEP THIS USEFUL RATHER THAN DANGEROUS
+
+1. ⛔⛔ **This is RECONSTRUCTION. It is not what Matheson thought — it is what the hour makes it
+   RATIONAL for her to think.** ⛔ **Never attribute a state of mind to her in any document.**
+2. ⛔⛔ **Do NOTHING that breaks the spell.** ⭐⭐⭐ **The revaluation is working FOR Cory silently.
+   The provenance/conflict letter (`PRESERVATION_AND_CONFLICT_ENQUIRY`) is the one thing that could
+   re-cast him in her eyes from "organised appellant with a strong admitted stressor" to "litigant
+   chasing a metadata theory."** ⇒ ⭐⭐ **This section is the strongest argument yet for HOLDING that
+   letter until after the report, or routing it to the access channel instead (§14, Part 11).**
+3. ⭐⭐⭐ **FEED the reading, do not force it.** What confirms "organised and reasonable" is: 64G not
+   pressed, witnesses listed, report delivered, Calderbank #3 pitched sensibly. **Every one of those
+   deepens G5's dissonance in his favour. Send those. Let the fatigue grouping keep working.**
+4. ⛔ **Still no transcript.** The grouping is Cory's memory. ⭐ **The audio is what converts this
+   from a felt advantage into a usable one.**
+
+## G7 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **She came to win a disclosure scope fight and watched the Commission make the appellant's
+> strongest, already-admitted stressor into the organising spine of the case. She now has to report
+> that upward — and everything Cory does from here should confirm that report, not complicate it.**
+
+---
+
+# H — THE AMENDED 9A READ AGAINST WHAT DWYER DID
+> 8 August 2026. Reading `evidence-index/sources-text/Amended_Form_9A_07.04.2026.txt` (filed
+> 7 April 2026, the operative pleading) against the mention. ⚠ Verify pinpoints against the Form 24
+> before any filing; the mention wording remains a memory pending the audio.
+
+## H1 ⭐⭐⭐ HE GROUPED IT BECAUSE THE PLEADING GROUPED IT FIRST
+
+**The 9A already pleads the fatigue point as ONE stressor with internal steps — and labels it:**
+
+> **"Stressor 3 — Fatigue (KEYSTONE):"** (a) the 17–18 March consecutive shifts + 7-hour break;
+> (b) the rest-break standard; (c) the misapplied agreement + forced personal leave; (d) the IRO
+> unreasonable-management-action finding.
+
+⇒ ⭐⭐⭐ **Dwyer did not impose a framing on the case. He read back the architecture Cory built.**
+**"He gathers it's all the same thing" is him recognising Stressor 3 as pleaded — a single keystone
+stressor, not five scattered complaints.** ⭐⭐ **The drafting told him where the spine was, and he
+found it.**
+
+## H2 ⭐⭐⭐ AND HE GRAVITATED TO THE EXACT CONTENTION THE 9A LEADS WITH
+
+**Part C, Contention 2 pleads the defeat of s 32(5)(a) two ways:**
+- **2(a) — global evaluation (*Delaney*): the composite hostile course;**
+- ⭐⭐⭐ **2(b) — single unreasonable stressor (*Mahaffey*): "the admitted 7-hour break independently
+  defeats the defence."**
+
+⇒ ⭐⭐⭐ **When the bench grouped the fatigue sequence and settled on the admitted break, it landed
+on CONTENTION 2(b) — the pleading's own designated independent knockout.** ⭐⭐ **Of the two routes
+Cory pleaded, the Commission reached for the stronger, cleaner one, unbidden.** The pleading offered
+*Delaney* OR *Mahaffey*; **the tribunal took *Mahaffey*.**
+
+## H3 ⭐⭐ WHICH IS ALSO THE ANSWER TO A LIVE STRATEGIC QUESTION
+
+`RD69983-SYNTHESIS.md` shows the Review Officer used ***Delaney* to DILUTE**. The 9A pleads *both*
+*Delaney* (2(a)) and *Mahaffey* (2(b)). ⚠ **Running 2(a) hard invites the same aggregation that
+sank the review.** ⭐⭐⭐ **Dwyer's instinct is the tell: lead with 2(b) — the single admitted
+stressor — and keep 2(a) as support, not spine.** **The bench has shown which framing it finds
+natural, and it is the one that does not hand the respondent the averaging move.**
+
+## H4 ⛔⛔ BUT THE READING EXPOSES THE SOFT SPOTS INSIDE THE KEYSTONE — FIX BEFORE THE HEARING
+
+**The very stressor Dwyer elevated has three internal overstatements the 9A already flags. If the
+keystone is the spine, these cannot be left standing:**
+
+| 9A pleads | The contest | Action |
+|---|---|---|
+| **3(b): "minimum 10-hour rest break (Admitted ¶3)"** | ⛔⛔ **Form 24 ¶3 admits 10h OR 8h-by-agreement; ¶4 DENIES and asserts a signed June 2020 8-hour agreement.** The "10-hour minimum" is **OVERSTATED** | ⭐⭐⭐ **Re-plead to the live minimum. The point does NOT need 10h — 7 < 8 either way. Claiming 10h invites a clean denial on the keystone** |
+| **3(c): "forced use of personal leave 19 March"** | ⚠ **Regulator SOFC ¶22(c): the 19 March leave was PAID** | ⚠ **Resolve from payslip/myHR before asserting "forced". If it was paid, the step is "made to use his own leave entitlement", not "unpaid"** |
+| **3(c): fatigue leave denied** | ⚠ **SOFC ¶24(b): cl 18.10 denies fatigue leave as no overtime performed** | ⭐ **Verify Award cl 18.10. This is the respondent's technical escape on the denial step — meet it, don't ignore it** |
+
+⇒ ⭐⭐⭐ **The mention was a gift and a warning in one. He showed the keystone is where the case
+lives — which means the three overstatements inside it are now the highest-value corrections in the
+pleading.** ⭐⭐ **Volunteer the 10-hour correction the same way as the ¶37 error: before the other
+side lands it.**
+
+## H5 ⭐⭐ WHAT HE READ THAT HE DID NOT GROUP — AND WHY THAT IS ALSO PROTECTIVE
+
+**He read the whole 9A — Stressor 1 (hostile course / PID / reprisal), Stressor 2 (pay),
+Stressor 3 (fatigue).** ⭐⭐⭐ **But he gathered the FATIGUE into one thing. He did not build the
+reprisal narrative into a single edifice.**
+
+⇒ ⭐⭐ **That is the protective reading. Stressor 1 carries the discipline-sensitive material —**
+CLAUDE.md rules 1–3: **conspiracy/collusion framing never reaches paper; "fraud" only on the
+PID track; Items 8–9 anchor only to 1(a) + the roster denial.** ⭐⭐⭐ **A bench that gravitates to
+the clean, admitted, arithmetic keystone and does NOT weave the reprisal material into a theory is
+steering the case toward the ground where Cory is strongest and away from the ground the discipline
+rules exist to keep in reserve.** **That is the safest possible place for the tribunal's attention
+to rest.**
+
+## H6 ⭐⭐ THE VALIDATION, STATED PLAINLY
+
+| The 9A did | The mention showed |
+|---|---|
+| Labelled fatigue **"KEYSTONE"** | ⭐⭐⭐ The Commission independently treated it as the spine |
+| Pleaded ***Mahaffey* at 2(b)** as the independent knockout | ⭐⭐⭐ The bench reached for exactly that framing |
+| Grouped the fatigue sub-steps under one stressor | ⭐⭐ Dwyer "gathers it's all the same thing" |
+| Built the case so a reader finds the strong core | ⭐⭐ A Commissioner, reading cold, found it |
+
+⇒ ⭐⭐⭐ **The pleading was drafted to make the keystone unmissable, and a Commissioner did not miss
+it. That is the drafting doing its job — the single best evidence that the 9A works.**
+
+## H7 ⛔ THE ONE LINE
+
+> ⭐⭐⭐ **What Dwyer did was read Cory's own architecture back to him: he found the keystone the 9A
+> labels as the keystone, and reached for the *Mahaffey* contention the 9A pleads as its independent
+> knockout — which validates the drafting AND flags that the three overstatements inside that
+> keystone are now the corrections that matter most.**
+
+---
+
+# I — CORRECTION TO SECTION H: HE READ ALL OF IT, AND THE PACE ACCELERATED ON CORY'S CONFIRMATIONS
+> 8 August 2026. Cory's correction: *"he read it as it is, all of it, but it got fast and faster as
+> I was fast and faster saying that the documents I confirm I have already."*
+> ⛔ **Section H's "gravitated to the keystone" is REFINED, not the whole picture. What actually
+> happened is more useful.**
+
+## I1 ⭐⭐⭐ THE ACCELERATION IS THE FINDING
+
+**He did not skim to the strong part. He read the WHOLE 9A, item by item — and for each pleaded
+item he put the r 64B question: *what evidence do you have for this?*** ⭐⭐⭐ **The pace quickened
+because, item after item, Cory confirmed: *I already hold that document.***
+
+⇒ ⭐⭐⭐ **The tempo was not him rushing. It was the SOUND OF A CASE WITH NO EVIDENTIARY GAPS.**
+**A walk-through slows down where the member has to probe a hole. This one sped up — because every
+item was met with "have it", so there was nothing to probe.** ⭐⭐ **The acceleration is the
+demonstration.**
+
+## I2 ⭐⭐⭐ THIS IS WHAT PRODUCED BEAT 11'S CONCLUSION
+
+**The recount records Dwyer's conclusion from the one-by-one walk: *"highly likely he would not need
+much of it"* (the 64G disclosure).** ⭐⭐⭐ **NOW the mechanism is clear: he concluded Cory needs
+little from MSH BECAUSE, item by item, Cory kept confirming he already holds the proof.** **The
+acceleration IS the reason for the conclusion.**
+
+⇒ ⭐⭐ **That is the strongest possible foundation for the "not press the 64G" decision** (Scenario
+B): **the bench has effectively said, on the record of the walk-through, that the appellant's own
+holdings substantially cover the case.** ⭐ Narrowing the 64G is not a retreat — it is Cory agreeing
+with what the walk-through already showed.
+
+## I3 ⭐⭐ WHAT MATHESON AND RUTTAN WATCHED (revising Section G)
+
+**Not "an organised pleading read aloud."** ⭐⭐⭐ **A self-represented appellant confirming, document
+by document, at increasing speed, that the evidentiary base for each pleaded stressor is ALREADY IN
+HIS HANDS.**
+
+⇒ ⭐⭐⭐ **That obliterates the "will overreach / will fall over at hearing" model faster than any
+submission could.** **A litigant who answers "have it" to every item is a litigant who is ready to
+run a hearing.** ⭐⭐ **For Ruttan (MSH), it means the disclosure fight she came to win is moot — he
+is not fishing, he is confirming.** **For Matheson, it means the file she must report is
+hearing-ready.**
+
+## I4 ⛔⛔ THE ONE RISK IN AN ACCELERATING "I HAVE IT" — AND THE CHECK IT FORCES
+
+⚠⚠ **Speed and confirmation-under-momentum carry a specific hazard: confirming possession of a
+document he does NOT actually hold, or holds in a form that is not admissible/complete.** **On the
+record of that walk, Cory has now REPRESENTED to the Commission that he holds proof for each
+pleaded item.**
+
+⇒ ⛔⛔ ⭐⭐⭐ **HIGH-PRIORITY ACTION — THE HOLDINGS RECONCILIATION.** Go through the amended 9A
+item by item and confirm, against the actual files, that he HOLDS admissible proof for each thing
+he confirmed:
+
+| Pleaded item | Did he confirm "have it"? | Does he actually hold it, in usable form? |
+|---|---|---|
+| 1(b) comm-book removal, "I took it out last week" | ? | Admitted ¶14 — proof is the admission itself ✅ |
+| 1(d) COVID upload 20 Feb 11:41:27 | ? | ⚠ **The COVID doc "wasn't uploaded" per an earlier note — CHECK** |
+| 2(b) 3 May "IMMEDIATELY" / 25-day delay | ? | Admitted ¶40/41 ✅ |
+| 3(a) 7-hour break | ? | Admitted ¶1 + SOFC ¶22(a) ✅ |
+| 3(c) forced personal leave 19 Mar | ? | ⚠ **SOFC ¶22(c) says PAID — the payslip may CONTRADICT "have it"** |
+| Stressor 1(a) erratic presence / roster | ? | ⚠ **The roster/timesheet is on the "to obtain" list — MAY NOT HOLD** |
+
+⭐⭐⭐ **Wherever the answer is "confirmed but do not actually hold", that is now a gap he has
+represented as closed — and it must be closed in fact before the hearing, or the confirmation
+becomes an exposure.** ⚠ **No transcript, so which items he confirmed is itself a memory — the audio
+matters here too.**
+
+## I5 ⭐⭐ NET, CORRECTED
+
+> ⭐⭐⭐ **He read the whole case and the walk-through accelerated because Cory kept confirming he
+> already holds the proof, item by item. That is what led the bench to conclude he needs little
+> disclosure — which is the foundation for not pressing the 64G — and it is what re-cast him, in
+> front of both opponents, from "self-rep who will overreach" to "appellant whose file is
+> hearing-ready." The one cost: every "have it" is now a representation, so the holdings must be
+> reconciled against the actual files before hearing.**
+
+---
+
+# J — WHERE HE PROBED: THE THREE ITEMS THAT DID NOT MEET "HAVE IT"
+> 8 August 2026. Cory: *"he probed at some parts — the management directions, the erratic presence,
+> the union delegate request and my proof — and [showed] instead I can put Chloe at cross for
+> presence, and got me as far as I can only infer the union, and I started to explain the management
+> directive and PT safety."*
+> ⭐⭐⭐ **This is the other half of Section I. The walk sped up on the admitted items and SLOWED on
+> three. Where it slowed is the map of the remaining work.**
+
+## J1 ⭐⭐⭐ WHAT THE PROBING ACTUALLY WAS
+
+**The acceleration (Section I) was "have it → have it → have it." The probing was Dwyer stopping on
+the items where the proof is NOT a document Cory holds:**
+
+| Probed item | 9A location | Why it does not meet "have it" | ⭐ What Dwyer surfaced as the route |
+|---|---|---|---|
+| ⭐⭐ **Erratic presence / management directions** | Stressor 1(a) | **No single document proves "erratic presence" or that directives were unassessed** — it is a pattern, not a file | ⭐⭐⭐ **"Put Chloe [Taylor] at cross-examination for presence"** — the proof is ORAL, extracted from the manager, not tendered |
+| ⭐⭐ **Union delegate request** | Stressor 1(g) | ⭐ **He can only INFER the suppression** — the 13-month gap and QH-POL-248 are documented, but the causal "they suppressed it" is inference | ⚠ **Dwyer got him "as far as I can only infer" — i.e. flagged the evidentiary ceiling on this limb** |
+| ⭐⭐ **Management directive + patient safety** | Stressor 1(a) | **He STARTED to explain it** — it was mid-explanation, not resolved | ⚠ **Left open. This is the clinical-governance thread** |
+
+## J2 ⭐⭐⭐ THE GIFT INSIDE THE PROBE — DWYER TOLD HIM HOW TO PROVE 1(a)
+
+> ⭐⭐⭐ **"Instead I can put Chloe at cross for presence" is the single most useful thing a member
+> can give a self-represented appellant: the METHOD of proof for the item that has no document.**
+
+⭐⭐ **Stressor 1(a) — erratic presence + unassessed directives — has always been the limb with no
+tidy exhibit** (`confirmed-record.md` records the roster/timesheet as still-to-obtain). ⭐⭐⭐ **Dwyer
+told him: you do not prove presence with a document, you prove it by cross-examining the manager
+whose presence is in issue.** ⇒ **That converts a "gap" into a cross-examination plan.**
+
+**And it fits the standing architecture:** Items 8–9 anchor to **Stressor 1(a) + the "roster was
+equitable" denial** (CLAUDE.md rule 3). ⭐⭐ **Taylor at cross is where the "roster was equitable"
+denial gets tested against her own attendance.** **The 22:00-vs-23:00 shift-finish discrepancy, the
+roster, the timesheet — those become cross-examination FUEL, not tender documents.**
+
+## J3 ⚠⚠ THE UNION LIMB — HE WAS SHOWN ITS CEILING, AND THAT IS A WARNING
+
+⭐⭐ **"Got me as far as I can only infer the union" is Dwyer flagging that Stressor 1(g) rests on
+INFERENCE, not proof.** The documented parts (April 2023 interest — Admitted ¶18; QH-POL-248 —
+Admitted ¶17; 13-month suppression) establish the FACTS; ⛔ **but "suppressed as reprisal" is the
+inferential leap, and it is exactly the kind of limb the discipline rules keep in reserve.**
+
+⇒ ⭐⭐⭐ **STRATEGIC READ: the union-delegate limb is a SUPPORT point, not a spine point.** ⚠ **Do not
+build weight on it — Dwyer has already signalled it cannot bear much.** ⭐ It corroborates the
+course of conduct (source diversity — payroll + union + rostering, per the fatigue-file §13.6); it
+does not stand alone. **Plead it as corroboration; never as a load-bearing stressor.**
+
+## J4 ⛔⛔ THE PATIENT-SAFETY / MANAGEMENT-DIRECTIVE THREAD — HANDLE WITH THE MOST CARE
+
+**He "started to explain the management directive and PT safety" — and (per the earlier recount) at
+the CLINICAL GOVERNANCE point is exactly where Dwyer MOVED ON.** ⭐⭐⭐ **Two beats now line up: he
+probed it, Cory began to explain, and it did not land / was moved past.**
+
+| ⭐ Why this thread is powerful | ⛔ Why it is dangerous |
+|---|---|
+| **Patient safety in a hospital switchboard is the subject matter, not colour** — and the Review Decision DELETED it (`RD69983-SYNTHESIS.md` defect D) | ⛔⛔ **It shades toward the reprisal / clinical-cover-up framing that rules 1–2 keep off paper** |
+| It is the s 32(5)(a) *manner* point — unassessed directives that bottlenecked emergency workflows | ⛔ **"Started to explain" = not yet crisp. An un-crisp patient-safety allegation sounds like grievance, not injury cause** |
+
+⇒ ⭐⭐⭐ **ACTION: this thread must be REDUCED TO A CLEAN, DOCUMENTED, NON-ACCUSATORY LINE before the
+hearing** — the 19 April data-entry directive + the 30 Aug "failure to consult putting patients at
+risk" email, as a *consultation/manner* failure, NOT as a cover-up. ⛔ **It is the highest-risk /
+highest-value thread in Stressor 1 and it is currently unresolved on his own account.**
+
+## J5 ⭐⭐⭐ WHAT THE PROBE PATTERN TELLS HIM — THE WHOLE MAP IN ONE VIEW
+
+| Tier | Items | Proof status at the mention |
+|---|---|---|
+| ⭐⭐⭐ **SPINE — proven** | Fatigue keystone (3a–d), pay delay (2b), comm-book (1b) | ⭐⭐ **"Have it" — admitted/documentary. The acceleration items** |
+| ⭐⭐ **PROVABLE BY CROSS** | Erratic presence / roster (1a) | ⭐⭐⭐ **Taylor at cross — Dwyer gave the method** |
+| ⚠ **CORROBORATION ONLY** | Union delegate (1g) | ⚠ **Inference-limited — support, not spine** |
+| ⛔ **NEEDS CRISPENING** | Management directive / patient safety (1a clinical) | ⛔⛔ **Unresolved — reduce to a clean manner-point, de-risk the framing** |
+
+⇒ ⭐⭐⭐ **Dwyer did not just hear the case — he SORTED it by proof-type, out loud, and handed Cory
+the method for the one gap that had a method (Taylor at cross) and the ceiling for the one that
+did not (the union inference). That is a free evidence-planning session from the bench.**
+
+## J6 ⛔ DISCIPLINE
+
+1. ⛔ **No transcript — which items he probed, and how far, is memory.** ⭐ **The audio is now
+   critical for THIS beat specifically**, because it defines the witness-examination plan.
+2. ⭐⭐ **This directly shapes the WITNESS LIST (this week) and HEARING-PLAN.md.** ⭐⭐⭐ **Taylor must
+   be on the witness list as a cross-examination target for presence/roster — Dwyer effectively
+   said so.**
+3. ⛔ **The patient-safety thread stays a s 32(5)(a) manner point. No cover-up, no reprisal, no
+   motive** (rules 1–2).
+4. ⚠ **The union limb is corroboration. Do not let it become a spine the respondent can knock over
+   to imply the rest is as thin.**
+
+---
+
+# K — THE OTHER READING OF THE PATIENT-SAFETY MOVE-ON
+> 8 August 2026. Cory: *"i think he just wanted to stop me from explaining on the record about the
+> patient safety aspects."*
+> ⛔ **Section J gave only the benign reading. That was incomplete. Both readings are live; here is
+> the honest weighing — and why the ACTION is the same either way.**
+
+## K1 ⚠ HIS READING IS PLAUSIBLE AND MUST NOT BE DISMISSED
+
+**A member CAN steer a self-represented litigant away from a topic for reasons that are not the
+litigant's benefit.** ⭐ Cory was in the room; I was not. His instinct that the move-on was to keep
+patient-safety OFF the record is a reasonable reading of a real event, and it is now recorded as
+such.
+
+**What would make his reading correct:**
+- ⭐⭐ **Patient safety in a public hospital is institutionally radioactive.** A switchboard operator
+  saying on the record that management directives *"put patients at risk"* is a statement no
+  Queensland Health entity wants transcribed — it reaches past this appeal into clinical governance,
+  the HHS's risk register, potentially the media and the CCC.
+- ⭐ **A member managing the institution's exposure — consciously or by trained reflex — moves
+  past it.** ⚠ **That is not necessarily improper; it can be case-management instinct. But its
+  EFFECT is the same: the patient-safety allegation does not go on the transcript.**
+
+## K2 ⚖️ THE TWO READINGS, SIDE BY SIDE — AND WHY IT CANNOT BE RESOLVED FROM MEMORY
+
+| | **Reading A (Section J): protective of Cory** | **Reading B (Cory's): protective of the institution** |
+|---|---|---|
+| Why he moved on | The point was not crisp; not the disclosure task; belongs at hearing | To keep a patient-safety allegation off the record |
+| What it implies about the bench | Helping an SRL stay on the strong ground | Managing QH's exposure |
+| Evidence for it | The point WAS mid-explanation and un-crisp | Patient safety is uniquely sensitive; he stopped THAT, specifically |
+
+⛔⛔ **NO TRANSCRIPT. The tone, the exact words, whether he cut in or let it trail — that is what
+separates A from B, and it is precisely what memory cannot hold reliably.** ⭐⭐⭐ **The audio is now
+the single most important thing to obtain for this beat.** Until then, ⚠ **hold BOTH readings; assert
+neither.**
+
+## K3 ⭐⭐⭐ WHY THE ACTION IS IDENTICAL UNDER EITHER READING
+
+**This is the point that matters, and it does not depend on which reading is true:**
+
+> ⭐⭐⭐ **If patient safety is important to the case, it cannot live in an extempore explanation from
+> the bar table that a member can move past. It must go in as a DOCUMENT and as PLEADED, WRITTEN
+> EVIDENCE — where no one can move him on.**
+
+| | |
+|---|---|
+| ⛔ **The vulnerability both readings share** | **Spoken, mid-flow, it is at the mercy of the room.** Whether moved on to protect him or to protect QH, **the spoken version did not survive the mention** |
+| ⭐⭐⭐ **The fix** | **Put it where it cannot be interrupted:** (i) the pleaded **Stressor 1(a)** clinical-governance particular, in writing; (ii) the **30 August 2024 email** — subject *"Failure to consult putting patients at risk"* — as a tendered exhibit; (iii) evidence-in-chief drawn from the document, not from free narration |
+| ⭐⭐ **And the Review-Decision hook makes it unavoidable** | `RD69983-SYNTHESIS.md` defect D: the decision **deleted** the words *"patients at risk"* and recorded only *"failed to consult."* ⭐⭐⭐ **That is a written, provable omission. It puts patient safety on the record as a DOCUMENTARY discrepancy — which no one can move past, because it is Exhibit-anchored, not narrated** |
+
+⇒ ⭐⭐⭐ **Reading B, if true, is not a defeat — it is INFORMATION. It tells Cory the one channel that
+does not work (talking about it) and forces him to the channel that cannot be shut (documenting it).
+Reading A leads to the same place. So the disagreement about motive does not change a single next
+step.**
+
+## K4 ⛔⛔ THE DISCIPLINE — AND IT IS SHARPER NOW
+
+1. ⛔⛔⛔ **This SUSPICION IS HELD, NEVER VOICED.** ⭐ A self-represented appellant who suggests the
+   Commissioner suppressed his evidence has attacked the tribunal that will decide (or influence)
+   his matter. ⛔⛔ **That is the single most self-destructive thing available. It NEVER enters a
+   filing, a letter, the hearing, or a word to Matheson or MSH.**
+2. ⭐⭐ **The remedy for "he moved me on" is NOT to complain — it is to make the point
+   UN-MOVE-ON-ABLE by documenting it.** Channel the suspicion into exhibit discipline, not
+   grievance.
+3. ⛔ **Patient safety stays a s 32(5)(a) MANNER point** — *unassessed directives, failure to
+   consult, bottlenecked emergency workflows.* ⛔⛔ **NOT a cover-up, NOT a reprisal, NOT "they
+   silenced me."** Rules 1–2. **The moment it becomes an accusation of suppression it stops being
+   evidence of his injury and starts being a theory about his enemies.**
+4. ⭐ **Get the audio.** It resolves A vs B, and it protects him: if he was moved on, the transcript
+   shows the point was RAISED — which preserves it even though it was not developed.
+
+## K5 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **Maybe he was helping and maybe he was managing the institution's exposure — the audio will
+> tell, and until then hold both. But it does not matter to what Cory does: a point that a member
+> can move past from the bar table has to be put where it cannot be moved past — pleaded, and tendered
+> as the 30 August email against the Review Decision's deletion of "patients at risk." Document it;
+> never allege it was suppressed.**
+
+---
+
+# L — "IT'S JUST MANAGEMENT ACTION" WHEN HE RAISED DOCTORS SENT TO WRONG LOCATIONS
+> 8 August 2026. Cory clarifies: when he began explaining the PROBLEM WITH THE DIRECTIVES — *doctors
+> being sent to the wrong locations, or unable to be contacted* — Dwyer uttered something like *"it's
+> just management action"* / a move-on. ⭐⭐⭐ **This reframes Sections J–K. It was not the patient-
+> safety angle being shut down. It was the s 32(5)(a) CHARACTERISATION being applied — and that is a
+> different, and more useful, thing.**
+
+## L1 ⭐⭐⭐ WHAT THE CONCRETE PARTICULAR ACTUALLY IS
+
+**Stressor 1(a) pleads *"unassessed unilateral directives; bottlenecked emergency workflows."*
+Abstract. What Cory was giving is the CONCRETE INSTANCE:**
+
+> ⭐⭐⭐ **The directives resulted in DOCTORS BEING SENT TO THE WRONG LOCATIONS, or being
+> UNCONTACTABLE — in a hospital switchboard that routes Code Blue and MET (life-safety) calls.**
+
+⭐⭐ **That is not "colour." In a switchboard, a doctor sent to the wrong location or uncontactable
+during a code is a DIRECT CLINICAL-SAFETY CONSEQUENCE.** ⇒ **It is the specific, vivid, provable
+face of the abstract pleading — and it is exactly what a hearing needs and a pleading currently
+lacks.**
+
+## L2 ⭐⭐⭐ WHY "IT'S JUST MANAGEMENT ACTION" IS THE WHOLE BATTLE, NOT A DISMISSAL
+
+**s 32(5)(a) excludes injury from *"reasonable management action taken in a reasonable way."***
+
+⇒ ⭐⭐⭐ **"It's just management action" is the FIRST HALF of the test. The case is the SECOND HALF:
+was it REASONABLE, and taken in a REASONABLE WAY?**
+
+> ⭐⭐⭐ **A directive that sends doctors to the wrong location, or leaves them uncontactable during
+> emergency calls, is powerful evidence that the management action was NOT reasonable and NOT taken
+> in a reasonable way.** ⭐⭐ **The clinical consequence is not a separate "patient safety" story — it
+> is the REASONABLENESS-DEFEATER for the management-action label.**
+
+⇒ ⭐⭐⭐ **So Cory's instinct to push was RIGHT ON SUBSTANCE.** ⚠ **Whether Dwyer was (A) dismissing
+it, or (B) testing whether Cory could articulate WHY it defeats "reasonable", the answer is the
+same: the concrete clinical consequence is the reason the label does not hold.**
+
+## L3 ⛔⛔ THE TRAP IN LETTING "JUST MANAGEMENT ACTION" STAND
+
+**This is EXACTLY how Review Decision 69983 worked** (`RD69983-SYNTHESIS.md`): it labelled each
+factor "management action", asked whether it was reasonable at a high level of generality, and
+**never engaged with the specific consequence.** ⛔⛔ **"It's just management action" un-answered is
+the on-ramp to the same dilution.**
+
+⇒ ⭐⭐⭐ **The answer to "it's just management action" is never to accept the label and move on. It is:
+*"Yes, it is management action — and it was unreasonable, because it sent doctors to the wrong
+place during code calls. The Act excludes only REASONABLE management action."*** ⭐⭐ **That single
+sentence is the hinge of the whole s 32(5)(a) contest and Cory needs it ready.**
+
+## L4 ⭐⭐⭐ HOW IT GOES IN — CONCRETE, DOCUMENTED, NON-ACCUSATORY
+
+| Do | Do not |
+|---|---|
+| ⭐⭐ **Plead the concrete instance:** specific dates/occasions where a directive sent a doctor to the wrong location or left one uncontactable | ⛔ Leave it as abstract "bottlenecked workflows" — that invites the "just management action" label to stand |
+| ⭐⭐⭐ **Frame it as the reasonableness-defeater** under s 32(5)(a) — the *manner* was unreasonable | ⛔⛔ Frame it as "they endangered patients / covered it up" — reprisal/cover-up (rules 1–2) |
+| ⭐⭐ **Anchor to documents:** the 19 April 2024 data-entry directive; the 30 Aug email *"failure to consult putting patients at risk"*; any incident log / IIMS / switchboard record of a mis-routed code | ⛔ Rely on narration a member can move past |
+| ⭐⭐ **Prove it by Taylor at cross** — the directives were hers; the consequence is put to her | ⛔ Assert it as established without the witness |
+
+⚠⚠ **NEW EVIDENCE TARGET:** ⭐⭐⭐ **any RECORD of a doctor mis-routed or uncontactable due to a
+directive** — an IIMS/RiskMan incident report, a switchboard log, an email escalation, a code-call
+record. **If one exists, it is the single most powerful exhibit in Stressor 1(a)** — a documented
+clinical-safety consequence converts "just management action" into "unreasonable management action"
+on paper. **Add to the holdings reconciliation (Section I) and the disclosure targets.**
+
+## L5 ⚠ ON WHICH READING OF DWYER IS RIGHT — IT STILL DOES NOT MATTER, BUT NOTE THIS
+
+⭐ **If (B) he was testing:** the lesson is Cory needs the reasonableness-defeater sentence rehearsed
+so that next time "just management action" is met instantly with the clinical consequence.
+⭐ **If (A)/Section-K he was steering it off:** the lesson is identical — get it in as pleaded,
+documented evidence a member cannot move past.
+⛔⛔ **Either way: NEVER voice the suspicion that he suppressed it. The remedy is the exhibit, not
+the complaint.** ⭐ **The audio still matters — it will show whether the point was RAISED (preserving
+it) and how he responded.**
+
+## L6 ⭐⭐⭐ THE ONE LINE
+
+> ⭐⭐⭐ **"It's just management action" is not the end of the point — it is the beginning of the only
+> question that matters: was it reasonable? A directive that sent doctors to the wrong place during
+> code calls is the answer, and it belongs in the pleading and in an incident record, framed as the
+> reasonableness-defeater under s 32(5)(a) — never as a cover-up.**
+
+---
+
+# M — THE MASPER EVENT AND EMAIL FLOW ALREADY CARRY THE INSTANCE — AND A CONTAMINATION TO STRIP
+> 8 August 2026. Cory: *"I am already using the MASPER event and the email flow."*
+> ⭐⭐⭐ **Correct — and the MASPER flow IS the "doctors mis-routed / uncontactable" instance from
+> Section L, already documented and already pleaded as CS-1. But the flow carries a rule-2
+> contamination that must be excluded before tender.**
+
+## M1 ⭐⭐⭐ MASPER IS THE CONCRETE CLINICAL CONSEQUENCE — ALREADY IN EVIDENCE
+
+**From the 18 May 2024 "issues" email (corpus p.848) — Cory's own contemporaneous account:**
+
+> ⭐⭐⭐ *"A pathologist calling on various occasions over a period of 2 hours and unable to handover
+> critical results possibly affecting patient outcomes as the masper registrar Anh DOAN fails and
+> refuses to take pathologists calls when also rostered as the consults register."*
+
+⇒ ⭐⭐⭐ **THAT is the Section L reasonableness-defeater, in a contemporaneous document:** a directive
+(the 9 May MASPER change), issued without consultation, that resulted in **critical pathology
+results not being handed over for two hours.** ⭐⭐ **It is exactly "just management action" defeated
+by its clinical consequence — and it is already CS-1** (`HEARING-PLAN.md` item 14; the 9 May MASPER
+email chain, 4pp, HELD; LOD item 24).
+
+**The documentary chain is already assembled:**
+| Date | Document | Role |
+|---|---|---|
+| **15 Apr 2024** | After-hours on-call removed "effective immediately", no consultation | The directive pattern |
+| ⭐ **9 May 2024** | ⭐⭐⭐ **The MASPER directive — CS-1** (Taylor directs the process change) | ⭐⭐ **The unconsulted directive** |
+| ⭐ **18 May 2024** | The "issues" email — the Anh Doan / pathologist instance | ⭐⭐⭐ **The clinical consequence** |
+| **30 Aug 2024** | *"Failure to consult putting patients at risk as the masper register wasn't watching"* | Puts it to WorkCover |
+
+## M2 ⛔⛔⛔ THE CONTAMINATION — THE 18 MAY EMAIL CONTAINS THE FRAUD LINE
+
+**The SAME 18 May email that carries the clinical instance also contains (corpus p.848):**
+
+> ⛔⛔ *"Chloe **knowingly defrauds the department** and generally does not come into work or do the
+> full-time hours…"*
+
+⛔⛔⛔ **THIS IS THE RULE-2 VIOLATION SITTING INSIDE HIS STRONGEST DOCUMENT.** If the 18 May email is
+tendered whole, the word **"defrauds"** goes in with it, and three things happen:
+1. ⛔⛔ **It imports the FRAUD characterisation into the WC track** — CLAUDE.md rule 2, the one that
+   is *never* to appear here.
+2. ⛔⛔ **It opens s 32(5)(b)** — the *perception* limb. A worker who writes that his manager
+   "defrauds the department" invites the argument that his injury arose from his own (mistaken)
+   perceptions of management conduct. ⛔ **That limb is UNPLEADED and must stay shut.**
+3. ⛔ **It hands MSH the "he accuses everyone of fraud" narrative** that colours his credibility on
+   everything else.
+
+## M3 ⭐⭐⭐ HOW TO USE MASPER WITHOUT THE CONTAMINATION
+
+| ⭐ Use | ⛔ Exclude |
+|---|---|
+| ⭐⭐⭐ **The clinical instance** — pathologist unable to hand over critical results for 2 hours (the reasonableness-defeater) | ⛔⛔ **The "knowingly defrauds the department" sentence** — never relied on, never read, never quoted |
+| ⭐⭐ **The 9 May MASPER directive (CS-1)** — the unconsulted process change | ⛔ **"does not come into work / disappears early"** — that is the "erratic presence" characterisation, hard to prove, and it drags toward the fraud framing |
+| ⭐⭐ **The failure-to-consult / clinical-risk manner point** | ⛔ Any framing of Taylor's conduct as dishonest or deliberate |
+
+⭐⭐⭐ **THE MECHANISM: lead evidence of the SPECIFIC EVENT (the pathologist, the two hours, the
+critical results), not the whole email.** ⚠ **If the 18 May email is tendered as a document, be
+ready for MSH to read the "defrauds" line back — better to lead the FACT through oral evidence and
+the CS-1 directive, and NOT tender the 18 May email whole.** ⭐ Consider whether the clinical
+instance can be proved through a cleaner source (see M4) so the contaminated email never goes in.
+
+## M4 ⭐⭐ THE CORROBORATION WITNESSES ALREADY NAMED IN THE FLOW
+
+**The 18 May email names people who can prove the instance WITHOUT the fraud line:**
+| Name | What they corroborate |
+|---|---|
+| ⭐⭐ **Patrisha Co** | *"can confirm the nature of this call"* — the Anh Doan call-back |
+| ⭐ **Anh Doan** (MASPER registrar) | The failure to take pathologist calls (adverse, but the event) |
+| ⭐ **Pan Jane Wong** | Directed by Taylor on 9 May re business hours |
+
+⚠ **These are corroboration, not spine, and each needs the s 32(5)(a) *manner* framing.** ⭐⭐ **The
+cleanest exhibit remains any IIMS/RiskMan/switchboard log of the 2-hour pathology delay (Section L)
+— a system record proves the clinical consequence with NO email, NO fraud line, NO characterisation.
+That is now the highest-value single document to obtain for Stressor 1(a).**
+
+## M5 ⭐ NET
+
+> ⭐⭐⭐ **He is already anchored correctly — MASPER is the documented instance that defeats "just
+> management action". The job now is (i) lead the SPECIFIC clinical event, not the whole 18 May
+> email; (ii) STRIP the "defrauds" and "doesn't come to work" lines out of what is relied on; and
+> (iii) obtain a system incident record so the reasonableness-defeater can be proved without the
+> contaminated email ever being tendered.**
+
+---
+
+# N — THE MASPER RESPONSE-LATENCY POINT: "ERRATIC PRESENCE" TURNED INTO A NUMBER
+> 8 August 2026. Cory: *"in the MASPER email look at how many days Chloe takes to respond to
+> multiple emails."* ⭐⭐⭐ **This is the answer to Dwyer's probe on 1(a). It converts the
+> unprovable characterisation ("erratic presence") into a COUNTABLE metric from Taylor's own
+> email flow — the same move as the fatigue arithmetic.**
+
+## N1 ⭐⭐⭐ WHAT THE EMAIL FLOW SHOWS
+
+**From the 18 May 2024 "issues" email (corpus p.847–867):**
+- ⭐ **9 May 2024** — **Taylor directs the team to contact her / provide business hours** (she
+  directs Pan Jane Wong; the business-hours expectation is set).
+- ⭐⭐ **Across the following days** — Cory sends **multiple emails to contact Chloe during business
+  hours**; they go unanswered.
+- ⭐⭐⭐ **15 May 2024** — **he is forced to formally request her official office hours** *"in response
+  to multiple emails sent out to contact Chloe during business hours."*
+
+⇒ ⭐⭐⭐ **THE SELF-CONTRADICTION: the manager who MANDATES that the team contact her during business
+hours is herself UNCONTACTABLE across multiple emails for days — to the point a subordinate must
+formally ask what her office hours even are.**
+
+## N2 ⭐⭐⭐ WHY THIS DEFEATS "IT'S JUST MANAGEMENT ACTION" AND ANSWERS DWYER'S PROBE
+
+**Dwyer probed 1(a) because *"erratic presence"* is a CHARACTERISATION — hard to prove**
+(`confirmed-record.md`: *"'erratic presence' is characterisation and hard to prove — anchor to the
+directives, not the presence"*). ⭐⭐⭐ **Response latency is NOT a characterisation. It is
+arithmetic:**
+
+> ⭐⭐⭐ **Count the days between each email and her reply. Count how many emails went unanswered
+> before 15 May. Those numbers come from HER OWN email timestamps — the same way the 7-hour break
+> is a number, not an adjective.**
+
+⭐⭐ **This is precisely the technique Dwyer GROUPED and gravitated to on the fatigue point (Section
+F): turn the stressor into a countable fact the respondent cannot argue with.** ⇒ ⭐⭐⭐ **"Erratic
+presence" becomes "X days' response latency across Y unanswered emails, while directing the team to
+contact her in business hours." That is provable, documentary, and clean.**
+
+## N3 ⭐⭐ AND IT IS THE MANNER-UNREASONABLENESS OF THE SAME DIRECTIVE
+
+**It ties straight into MASPER (Section M):** ⭐⭐⭐ **an unconsulted directive changing call-handling,
+issued by a manager who is herself uncontactable for days — that is management action taken in an
+UNREASONABLE WAY.** The low job control (directives without consultation) + the manager's own
+unavailability = the **core mechanism of the injury** (`confirmed-record.md`: *"this is LOW JOB
+CONTROL, the core mechanism"*). ⭐ **The response-latency count is the proof of the "unreasonable
+way", from her own documents.**
+
+## N4 ⭐⭐⭐ THIS IS THE FUEL FOR TAYLOR AT CROSS (Dwyer's suggested method)
+
+**Section J: Dwyer said put Taylor at cross for presence.** ⭐⭐⭐ **THIS is what you cross-examine her
+ON — not "were you present" (she'll say yes) but her OWN EMAIL TIMESTAMPS:**
+> *"You directed the team to contact you during business hours on 9 May. This email of mine, sent
+> [date/time], went unanswered for [N] days. So did this one. On 15 May I had to ask what your
+> office hours were. Do you agree these are your response times?"*
+
+⭐⭐ **She cannot dispute her own timestamps. The characterisation proves itself.** ⇒ **The
+response-latency count converts Dwyer's "you'll need to cross Chloe" into a concrete, unanswerable
+cross-examination line.**
+
+## N5 ⛔ THE ONE THING TO DO — BUILD THE ACTUAL COUNT
+
+⚠ **The narrative (9 May → 15 May, "multiple emails") is in the 18 May summary. The PROOF is the
+underlying email flow with TIMESTAMPS.** ⭐⭐⭐ **HIGH-VALUE TASK: extract, from the email flow Cory
+already holds, the exact table —**
+
+| Email sent (date/time) | To Taylor | Reply received | Days elapsed |
+|---|---|---|---|
+| … | … | (none / date) | … |
+
+⭐⭐ **That table IS the exhibit. It is clean (no fraud line — Section M), it is her own data, and it
+is the numeric proof of 1(a) that Dwyer signalled the limb was missing.** ⛔ **Build it from the
+timestamps, not from the 18 May narrative — the narrative is the lead, the timestamps are the
+proof.**
+
+## N6 ⭐ NET
+
+> ⭐⭐⭐ **Cory has found the way to prove the limb Dwyer probed as unprovable: not by asserting
+> "erratic presence" but by counting Taylor's own response latency — days per email, unanswered
+> emails before 15 May — while she was directing the team to contact her in business hours. It is
+> the fatigue-arithmetic technique applied to presence, it is clean of the fraud contamination, and
+> it is the exact cross-examination fuel Dwyer pointed him toward. Build the timestamp table.**
+
+---
+
+# N.1 — ⛔ THE MASPER REPLY TIMESTAMP IS NOT IN THE INGESTED CORPUS — GAP FLAGGED
+> 8 August 2026. Cory: *"the MASPER email complaint — look how long until she responded."*
+> ⛔⛔ **HONEST ANSWER: I CANNOT COUNT IT FROM WHAT IS LOADED.** The response time is real and
+> provable — but it is NOT in the searchable material, and I will not invent a number.
+
+## N.1.1 WHAT IS ACTUALLY INGESTED vs WHAT IS NOT
+
+| | |
+|---|---|
+| ✅ **In the corpus** | Cory's **18 May 2024 "issues" self-note** (his own summary: 9 May directive, 15 May request for office hours) and the **30 Aug 2024** complaint subject line to WorkCover |
+| ⛔⛔ **NOT in the corpus** | ⭐⭐⭐ **THE ACTUAL MASPER EMAIL CHAIN with timestamps — including the complaint email TO Taylor and HER REPLY.** The corpus `MESSAGE_INDEX.tsv` has **ZERO entries for May 2024** — a real gap |
+| ⭐ **Where it lives** | ⭐⭐⭐ **CS-1** — *"Email chain re the MASPER directive, incl. the line manager's email of 9 May 2024 — 4 pages"* (`HEARING-PLAN.md` item 14, marked **HELD**; Form 4/64G covering email). **The reply timestamp is on those 4 pages** |
+
+## N.1.2 ⭐⭐⭐ WHAT TO DO — READ IT OFF CS-1
+
+**Cory holds CS-1. The answer is on it. Extract, from the 4-page chain:**
+1. ⭐ **The complaint email TO Taylor** — date + time (the email raising the MASPER/consultation/
+   patient-safety concern).
+2. ⭐ **Taylor's REPLY** — date + time (if any).
+3. ⭐⭐⭐ **The gap in days.** ⚠ **And if there is NO reply in the chain — that is the stronger fact:
+   a patient-safety/consultation complaint that drew no response at all.**
+
+⛔ **Send me CS-1 (or the timestamps off it) and I will build the exact count.** Until then the
+number is unverified and does not go in any document.
+
+## N.1.3 ⭐⭐ WHY THE ANSWER MATTERS WHICHEVER IT IS
+
+| If she replied after N days | ⭐⭐ **N days' delay to a complaint that flagged critical results not being handed over is management action taken in an unreasonable way** — the s 32(5)(a) *manner* point, proved by her own timestamp |
+| If she never replied | ⭐⭐⭐ **Stronger still — a patient-safety complaint met with silence.** Ties to the Factor-2 defect in the Review Decision (`RD69983-SYNTHESIS.md` C): complaints closed/ignored without investigation |
+
+⭐ **Either way it compounds Section N: the response-latency pattern is not just Cory's routine
+emails — it extends to a formal patient-safety COMPLAINT.**
+
+## N.1.4 ⛔ ADD TO THE INGEST / VERIFY LIST
+- ⭐⭐⭐ **CS-1 (the 4-page MASPER chain) — extract every timestamp.** The complaint-to-reply gap is
+  a Stressor 1(a) exhibit and it is currently UN-INGESTED.
+- ⚠ **The May 2024 corpus gap** — no May 2024 messages are in `MESSAGE_INDEX.tsv`. Check whether the
+  May 2024 mailbox export was ever ingested; if not, ingest it (the MASPER chain, and Taylor's
+  response times generally, live there).
+- ⭐ This is the same **timestamp-table** task as Section N.5 — CS-1 is where the raw data is.
+
+## N.1.5 ⭐ UPDATE — CS-1 IS ATTACHED TO THE 64G, BUT THE EXHIBIT PAGES ARE NOT TEXT-READABLE HERE
+> Cory: *"it's attached to the 64G."* ✅ Confirmed it is referenced there — but the raw email
+> headers still cannot be read from the ingested files.
+
+**What the Form 4 (64G) text confirms:**
+- `lodgement/WC2024227_Form4_FINAL.pdf` line 265: the application relies on *"individual examples
+  (the **manager's 9 May 2024 email**; the **18–20 May 2024 union correspondence**)"*.
+- line 516: *"the retracted email and the 9 May…"*
+
+⇒ ⭐ **So the 9 May MASPER directive and the 18–20 May correspondence are the pleaded exhibit
+window.** ⛔⛔ **BUT the actual CS-1 exhibit pages — the email chain showing the complaint TO Taylor
+and HER REPLY with timestamps — are NOT text-extractable from any filing I hold.** The Form 4
+*describes* them; it does not *reproduce* the headers. The 4-page chain is almost certainly a
+**scanned / image exhibit** (no text layer) or a bundle not separately ingested.
+
+## N.1.6 ⭐⭐⭐ SO THE ANSWER IS ONE OF TWO STEPS
+
+1. ⭐⭐ **Cory reads it off CS-1 directly** — open the 64G bundle, exhibit CS-1 (4pp), find Taylor's
+   reply email header, read the **date + time**. Count from the complaint email's date/time.
+2. ⭐⭐⭐ **OR upload CS-1 (the 4-page MASPER exhibit) and I will extract every timestamp** — if it is
+   a scan I will render it with `pdftoppm` and read the headers off the image.
+
+⚠ **INFERENCE AVAILABLE BUT UNVERIFIED:** the Form 4 pairs the **9 May** directive with **18–20 May**
+correspondence. **If Taylor's substantive response to the consultation/patient-safety concern only
+came in that 18–20 May window, that is roughly a 9-to-11-day gap from the 9 May directive.** ⛔ **DO
+NOT rely on that — it is an inference from the filing's framing, not from her reply timestamp.
+Confirm off CS-1.**
+
+## N.1.7 ⛔ THE DISCIPLINE HOLDS
+⭐ **The number, once read off CS-1, is a clean documentary fact — her own reply time to a
+patient-safety/consultation complaint.** ⛔ **No fraud line, no "erratic presence" adjective — just
+the gap in days.** ⭐⭐ **It belongs in the Section N timestamp table and is proof of the s 32(5)(a)
+*manner* point. Get the CS-1 pages to me or read the header directly.**
+
+---
+
+# N.2 — ⭐⭐⭐ I RENDERED THE FILED AFFIDAVIT AND READ IT. THE "OFFICE HOURS" EMAIL IS ADMITTED REPRISAL, NOT JUST LATENCY.
+> 8 August 2026. Cory: *"read them then."* Done — the Form 20 affidavit
+> (`documents/filings/2026-02-27_Affidavit_for_Form4_Disclosure_stamped.pdf`) is a **scanned image
+> with NO text layer** (that is why every grep failed). Rendered at 130dpi and read.
+
+## N.2.1 ⭐⭐⭐ WHAT THE AFFIDAVIT ACTUALLY ESTABLISHES — §6.1, VERBATIM FROM THE PAGE
+
+> **34. On 13 May 2024, I lodged a formal PID complaint regarding the conduct of Ms Chloe Taylor
+> and Ms Tammy Reese (Exhibit E3).**
+> **35. At paragraph 20 of the Admissions Response (Exhibit AR), the Respondent admits that on
+> 15 May 2024 — 48 hours after the PID complaint was lodged — Ms Tammy Reese directed me to retract
+> an email I had sent inquiring about office hours.**
+> **36. At paragraph 21 of the Admissions Response, the Respondent admits that on 9 May 2024,
+> Ms Chloe Taylor sent a substantively similar email regarding another staff member's hours, and
+> that Ms Taylor was not directed to issue a retraction.**
+
+⇒ ⭐⭐⭐ **THE "OFFICE HOURS" EMAIL IS PLEADED STRESSOR 1(f) — THE ADMITTED REPRISAL.** It is not
+primarily a response-latency exhibit. **The "response" to Cory's office-hours email was not Taylor
+replying — it was Reese directing him to RETRACT it, 48 hours after his PID — while Taylor's OWN
+comparable 9 May email drew no retraction at all.**
+
+## N.2.2 ⛔ CORRECTION TO SECTION N — THE LATENCY THEORY WAS BUILT ON THE SELF-NOTE
+
+**Section N built a "days-to-respond" theory from Cory's 18 May self-note.** ⚠ **The FILED,
+ADMITTED framework is different and stronger:**
+| Section N (my construction) | ⭐⭐⭐ N.2 (the filed, admitted fact) |
+|---|---|
+| Taylor slow to respond to office-hours emails | **Cory was DIRECTED TO RETRACT his office-hours email — admitted** |
+| Inference from a self-note | ⭐⭐ **Admitted at Admissions Response ¶20 and ¶21** |
+| "Erratic presence" proxy | ⭐⭐⭐ **Differential treatment / reprisal — the 48-hour proximity to the PID** |
+
+⇒ ⭐⭐ **The response-latency angle is SECONDARY. The primary, admitted point is the RETRACTION
+ASYMMETRY. Lead with the admitted fact, not the inferred latency.**
+
+## N.2.3 ⭐⭐⭐ THE OTHER ADMITTED FACTS ON THESE PAGES — ALL FROM THE FILED AFFIDAVIT
+
+| ¶ | Admitted fact | Exhibit / admission |
+|---|---|---|
+| **26** | ⭐⭐⭐ ***"Ms Chloe Taylor physically removed pages from the… Communication Book"*** | **Admissions Response ¶11(a)** |
+| **27** | Taylor's own 6 June 2023 email: ***"I have taken this out of the communication book"*** | Exhibit E1 |
+| **28** | Carolyn Jeffrey witness statement: ***"Chloe rips the page out that Cory had put in"*** | Exhibit I2 |
+| **35–36** | ⭐⭐⭐ **The retraction asymmetry (above)** | **AR ¶20, ¶21** |
+| **37** | 3 May 2024 Payroll (Elaine Grant) directed Taylor to ***"submit an AVAC to correct these shifts"*** | Exhibit E2 |
+| **38** | ⭐⭐ 21 May 2024 (18 days later) Taylor said she was ***"waiting for payroll confirmation"*** | **AR ¶38** |
+| **39** | Taylor did not submit the AVAC until **28 May 2024** | AR ¶38 |
+| **30–32** | ⭐⭐ IT Service Request **QH-RITM16413751** (5–8 Aug 2025) to restore email archives was ***"cancelled by the department"*** | affidavit |
+
+## N.2.4 ⭐⭐ WHERE THE RAW TIMESTAMP LIVES — EXHIBIT E5
+
+**The affidavit's exhibit list (page rendered) shows:** ⭐⭐⭐ **Exhibit E5 — "Business Hours
+Discrepancy Evidence" — "Already filed."** ⇒ **The RAW office-hours email chain, with the actual
+send/reply times, is Exhibit E5 — a SEPARATE filed exhibit, not in this affidavit bundle, and not
+text-extractable in anything I hold.**
+
+⛔ **So "how long until she responded" in the literal sense is still on E5.** ⭐⭐ **But it now matters
+LESS**, because the admitted fact (directed to retract, 48h post-PID, vs Taylor's un-retracted 9 May
+email) is stronger than any latency figure. ⭐ **Upload Exhibit E5 and I will read the exact
+timings; otherwise the admitted §6.1 facts already carry the point.**
+
+## N.2.5 ⛔⛔ DISCIPLINE — THIS IS THE REPRISAL TRACK, AND IT IS ADMITTED
+⚠⚠ **1(f) is the REPRISAL limb. It is pleaded and ADMITTED (¶21), so it is IN — but it is exactly
+where CLAUDE.md rules 1–3 bite.** ⭐⭐⭐ **Run it as the ADMITTED DIFFERENTIAL-TREATMENT FACT — "same
+conduct, opposite treatment, 48 hours after a PID" — NOT as a narrative about conspiracy or
+victimisation.** ⛔ **The admission does the work; the adjectives undo it.** ⭐ And note the
+**PID-timing** sits in the reprisal/PID track — keep the WC-track framing to the *differential
+treatment* fact, per rule 3.
+
+## N.2.6 ⭐ NET
+> ⭐⭐⭐ **I read the filed affidavit. The office-hours email is not a "how slow did she reply"
+> exhibit — it is the ADMITTED reprisal: Cory was directed to retract it 48 hours after his PID,
+> while Taylor's substantively identical 9 May email drew no retraction, both admitted at AR ¶20–21.
+> The raw reply timestamp is on Exhibit E5 (already filed) if the latency figure is still wanted —
+> but the admitted asymmetry is the stronger point and needs no timestamp.**
+
+---
+
+# N.3 — THE TWO EMAILS: THE ADMITTED SIMILARITY, AND THE DIFFERENCE THAT CUTS FOR CORY
+> 8 August 2026. Cory clarifies (both emails + the MASPER email are reproduced together in "the
+> report"): **Taylor's email was written TO A DOCTOR then SHARED AMONG STAFF (business hours);
+> Cory's came AFTER her non-responsiveness — he could not get a response, and DOCTORS WERE TRYING
+> TO REACH HER.**
+
+## N.3.1 ⭐⭐⭐ THE SIMILARITY (ADMITTED) IS NOW SPECIFIED
+
+**Both emails concern the SAME subject: staff business hours / availability, in the context of
+DOCTORS needing to reach people.**
+- **Taylor, 9 May 2024:** an email **to a doctor**, about business hours, then **shared among staff.**
+- **Cory:** an email about business hours **prompted by Taylor's own non-responsiveness** — he could
+  not get a response, and **doctors were trying to reach her.**
+
+⇒ ⭐⭐⭐ **That is why the Respondent's admission (AR ¶21) that they are "substantively similar" is
+not just a concession — it is TRUE on the content: same subject, same operational context (doctor
+availability), same type of communication.** ⭐⭐ **The admission is safe because it is accurate.**
+
+## N.3.2 ⭐⭐⭐ THE DIFFERENCE MAKES THE REPRISAL WORSE, NOT WEAKER
+
+**The one difference is the direction of legitimacy:**
+| | Taylor's 9 May email | Cory's email |
+|---|---|---|
+| Prompt | Her own initiative | ⭐⭐⭐ **A real operational failure — she was unreachable, doctors could not reach her** |
+| Purpose | Communicate a staff member's hours | ⭐⭐ **Solve a problem she had created** |
+| Treatment | ✅ **No retraction directed** | ⛔ **Directed to retract (48h after his PID)** |
+
+⇒ ⭐⭐⭐ **Cory's email was the MORE legitimate of the two — it responded to a genuine
+availability/clinical-contact problem — and HIS was the one retracted. That does not dilute the
+"substantively similar" admission; it sits ON TOP of it.** ⭐⭐ **"Same subject, admitted similar —
+and mine was actually the justified one, because doctors couldn't reach her — yet mine was the one
+I was ordered to withdraw."**
+
+## N.3.3 ⭐⭐⭐ THIS CONNECTS 1(f) TO 1(a) — ONE ROOT FACT, TWO CLEAN LANES
+
+**Taylor's UNAVAILABILITY is the root fact, and it does work in two separate pleaded limbs:**
+| Lane | Limb | The use |
+|---|---|---|
+| ⭐⭐ **Manner** | **1(a)** — unreasonable management action | **A manager unreachable to the point doctors and staff cannot contact her = management action taken in an unreasonable way** (the reasonableness-defeater, Section L/M) |
+| ⭐⭐ **Reprisal** | **1(f)** — admitted differential treatment | **Raising that unavailability got HIS email retracted; her own similar email did not** (admitted, AR ¶21) |
+
+⛔⛔ **KEEP THE TWO LANES SEPARATE. Do NOT fuse them into "she was unavailable AND punished me for
+saying so, therefore conspiracy."** ⭐⭐⭐ **Run them as two discrete, documented facts: (1) the
+unavailability had operational/clinical consequences [1(a) manner]; (2) the differential retraction
+is admitted [1(f)]. Each stands alone. Fusing them is the rule-1 conspiracy framing.**
+
+## N.3.4 ⛔ THE DISCIPLINE ON "WHY THEY ARE SIMILAR"
+⚠ **Cory now understands WHY the emails are similar — good for his own clarity and cross-prep.**
+⛔⛔ **But in the FILING, still rely on the ADMISSION (AR ¶21), not on his own comparison.** ⭐ The
+understanding is for the witness box and cross; the pleaded proposition is *"the Respondent admits
+they are substantively similar."* **Never argue the Commission INTO the similarity when the
+Respondent has already conceded it — that only creates room to lose it.**
+
+## N.3.5 ⭐ "THE REPORT" — WHERE ALL THREE EMAILS SIT TOGETHER
+⭐⭐ **Cory says both emails + the MASPER email are reproduced together in "the report."** ⚠ **Which
+report is not yet identified in the repo** (could be a compiled evidence bundle, Exhibit E5, or a
+context annexure). ⭐⭐⭐ **ACTION: identify and name that report, and if it holds all three emails
+with headers, IT is the single source for: (i) the two office-hours emails' exact text/timestamps
+(the E5 content), and (ii) the MASPER complaint→reply timing (Section N.1).** ⛔ **Upload "the
+report" and I will extract all three verbatim with dates — that closes both the similarity content
+and the response-timing question in one pass.**
+
+---
+
+# N.4 — ⭐⭐⭐ FOUND AND READ THE ACTUAL EMAILS (Regulator's disclosure, FRMS bundle)
+> 8 August 2026. Source: `documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf`
+> — the Regulator's **"Disclosure from witness conferencing – Chloe Taylor."** Text-extractable.
+> These are the raw emails, verbatim.
+
+## N.4.1 CORY'S EMAIL — the one he was directed to retract
+**From: Cory Shepherd — Wed 15 May 2024 1:15 PM — To: Chloe Taylor; Logan Switch — Cc: [entire
+department ~20 incl. Tammy Reese, LBH_HR] — Subject: "Office Hours and Departmental Directives":**
+> *"could you please share your office hours so the entire department can be aware of your regular
+> schedule? There has been some noted **inconsistency in your arrival and departure times**… please
+> ensure that any directives and changes within the department is made **in consultation with the
+> team**."*
+
+⭐⭐⭐ **And the CLINICAL HOOK is INSIDE this email (his 15 May 7:09 PM reply):**
+> *"there have been several instances where **clinicians and staff from other departments have
+> sought updates on pager statuses and other requests, often left unresolved due to ambiguity
+> around when Chloe is available**."*
+
+## N.4.2 THE RETRACTION DIRECTION
+**From: Tammy Reese — Wed 15 May 2024 6:23 PM — Importance: High:**
+> *"could I please ask you to **retract this email**. Steps included below… **'Recall This Message'**…
+> Chloe and I will follow-up with you next week."*
+⇒ ⭐⭐ **13 May PID → 15 May retraction direction. The 48-hour reprisal, in the document.**
+
+## N.4.3 ⭐⭐⭐ THE COMPARATORS — SAME CONDUCT, NOT RETRACTED
+
+| Email | Sender | Date | Content | Retracted? |
+|---|---|---|---|---|
+| ⭐⭐ **"Switchboard Manager - On call and Hours"** | **CHLOE TAYLOR** → whole dept | **Fri 17 May 2024 9:30 AM** | *"My office hours can vary… my hours are from 06:30-14:30. Moving forward… I will be sending an email to switch to advise of any change to my office hours"* | ⛔ **NO** |
+| **On-call roster** | **Ellen Stibbard** → whole team | **Mon 13 May 2024 4:29 PM** | *"During business hours you are to still contact Chloe… **Business Hours: Every Tuesday and second Monday 8:00–16:00**"* | ⛔ **NO** |
+| ⭐ **"Office Hours and Departmental Directives"** | **CORY** → whole dept | **Wed 15 May 2024 1:15 PM** | Requests the manager's office hours be shared | ⛔⛔ **YES — directed to retract** |
+
+## N.4.4 ⭐⭐⭐ THE ANSWER: ARE THEY MATERIALLY SIMILAR? YES — AND IT IS PROVABLE, NOT JUST ADMITTED
+
+> ⭐⭐⭐ **Chloe Taylor sent a department-wide email about her own office hours TWO DAYS AFTER Cory
+> was directed to retract a department-wide email about office hours — and SHE was not retracted.
+> Ellen Stibbard did the same on 13 May and was not retracted.**
+
+⇒ ⭐⭐⭐ **This is STRONGER than the admission. The admission (AR ¶21) says they are "substantively
+similar." The documents PROVE the conduct was NORMAL AND ACCEPTED — the manager and the coordinator
+both did it, unremarked, in the same week. Only Cory's drew a retraction.** ⭐⭐ **Same subject, same
+audience (whole department), same week — opposite treatment.**
+
+## N.4.5 ⚠ A DATE POINT TO VERIFY
+**The affidavit ¶36 / AR ¶21 admission refers to a Chloe email of *9 May 2024* re *another staff
+member's* hours** (the self-note: Chloe directs Pan Jane Wong). ⚠ **The comparator I have READ is
+Chloe's *17 May* email re *her own* hours.** ⇒ ⭐ **There are potentially TWO+ un-retracted
+comparators (9 May, 13 May Ellen, 17 May Chloe). Confirm which one AR ¶21 admits, and keep the
+others as corroboration.** ⛔ **Do not cite "9 May" as the comparator until located — the 17 May
+Chloe email is the one actually in hand.**
+
+## N.4.6 ⛔⛔ DISCIPLINE — AND ONE LIVE HAZARD
+1. ⭐⭐ **Rely on the ADMISSION (AR ¶21) as the pleaded proposition; use the 17 May Chloe email + the
+   13 May Ellen email as documentary CORROBORATION.** The documents show it was normal; the
+   admission concedes similarity. Both, but plead the admission.
+2. ⭐⭐⭐ **The clinical hook (clinicians unable to get pager status due to Chloe's unavailability) is
+   INSIDE Cory's own contemporaneous email** — that is the 1(a) reasonableness-defeater, dated
+   15 May 2024, in his own words, at the time. ⭐ **Strong, and clean of hindsight.**
+3. ⛔⛔ **HAZARD — Cory's 15 May 7:09 PM reply says: *"the information will be forwarded to the
+   ethical unit for investigation."*** ⚠⚠ **That is the PID/ethical-unit linkage IN the email. It
+   ties the office-hours email to the reprisal track. Handle with rule-1/2 care: the reprisal is
+   ADMITTED (retraction), so run the admitted differential-treatment fact — do NOT amplify the
+   "I threatened to report them" framing, which invites the s 32(5)(b) perception argument.**
+4. ⛔ **Keep 1(a) and 1(f) in separate lanes (Section N.3.3). The same email feeds both; do not fuse
+   them into one grievance narrative.**
+
+## N.4.7 ⭐ SOURCE NOTE
+- ⭐⭐ These emails are in the **REGULATOR'S OWN DISCLOSURE** (witness-conferencing bundle) — i.e.
+  **the respondent produced them.** That is the cleanest provenance possible.
+- ⭐ Also present in the same bundle: Reese's **21 May 2024 2:53 PM** follow-up (*"was there one or
+  more particular changes and/or directives where you had concerns"* — fishing), and Cory's full
+  iCARE-values reply.
+- ⛔ **The MASPER complaint→reply email is NOT in this extract range** — still to locate for the
+  Section N.1 timing (check the rest of this FRMS PDF and the Reese/Payroll conferencing bundles).
+
+## N.4.8 ⛔ THE 9 MAY PAN JANE WONG EMAIL IS NOT IN THE REPO — ONLY THE SELF-NOTE
+> Cory clarifies: the admitted comparator is Chloe's **9 May** email to/re **Pan Jane Wong**
+> ("when she requested the doctor time on the 9th"). ⛔ **I searched everything and the RAW 9 May
+> email is not in the repo.**
+
+**Searched:** corpus, the 462pp Taylor pack, the FRMS disclosure **text** (47pp) AND its
+**image-only pages** (rendered 27–35: they are iMessage/roster **screenshots**, not the email),
+and every 2025-07 and 2026-06 disclosure PDF. ⛔ **The only reference to the 9 May Pan Jane Wong
+email anywhere is Cory's own 18 May self-note:** *"9th of may Chloe Taylor directs Pan Jane Wong to
+provide buisness hours."*
+
+## N.4.9 ⭐⭐⭐ BUT CORY DOES NOT NEED THE RAW 9 MAY EMAIL — TWO REASONS
+1. ⭐⭐⭐ **IT IS ADMITTED.** AR ¶21 concedes Chloe sent a *"substantively similar"* email on 9 May re
+   another staff member's hours, **not retracted**. ⭐⭐ **The admission proves existence + similarity
+   + non-retraction. He pleads the admission; he does not need the document.**
+2. ⭐⭐⭐ **AND HE HAS TWO OTHER COMPARATORS IN THE REGULATOR'S OWN DISCLOSURE** (N.4.3): Chloe's
+   **17 May** dept-wide office-hours email and Ellen's **13 May** business-hours email — both
+   documented, both un-retracted. ⭐⭐ **The differential treatment is provable from held documents
+   even with the 9 May email missing.**
+
+## N.4.10 ⭐ IF THE RAW 9 MAY EMAIL IS WANTED — WHERE TO GET IT
+- ⭐ **It is likely in Exhibit E5 ("Business Hours Discrepancy Evidence"), filed but not in the
+  accessible bundle** — check E5.
+- ⭐ **Otherwise add to the Matheson disclosure list:** *"Ms Taylor's email of 9 May 2024 concerning
+  Dr/Ms Pan Jane Wong's hours."*
+- ⛔ **But note: pursuing it is optional — the admission already carries the point.** ⭐ **Do not
+  spend effort proving a fact the respondent has conceded.**
+
+---
+
+# N.5 — ⛔ "MORE CONCERNED ABOUT THEIR HOURS THAN PATIENTS" — THE TRAP AND THE DOCUMENTED VERSION
+> 8 August 2026. Cory: *"I notified that I would report the matter to the ESU because I thought it
+> was needed, and her and Tammy were more concerned about their hours than patients."*
+> ⚠⚠ **The FEELING is understandable and the CONCERN was legitimate. But the CHARACTERISATION is
+> the single most dangerous sentence to put in this case. Here is why, and what to say instead.**
+
+## N.5.1 ⛔⛔⛔ WHY "MORE CONCERNED ABOUT THEIR HOURS THAN PATIENTS" MUST NEVER BE VOICED
+
+**Two separate landmines in one sentence:**
+
+1. ⛔⛔ **s 32(5)(b) — THE PERCEPTION LIMB.** The Act excludes injury arising from the worker's
+   **expectation or perception** of management conduct. ⭐⭐⭐ **"They cared more about their hours
+   than patients" is a PERCEPTION OF MOTIVE. Framing his injury around it hands the Regulator the
+   s 32(5)(b) argument on a plate — and that limb is UNPLEADED and must stay shut** (standing rule).
+   **His injury arose from the CONDUCT (unavailability, retraction, non-consultation), not from his
+   READING of their priorities.**
+2. ⛔⛔ **RULE 1 — MOTIVE/CONSPIRACY FRAMING.** Ascribing a bad motive ("they cared about themselves,
+   not patients") is exactly the conspiracy framing that never reaches paper. ⭐ **It converts strong
+   documented facts into an accusation he then has to prove — and motive is unprovable.**
+
+⇒ ⛔⛔⛔ **NEVER write or say: "they were more concerned about their hours than patients." It is a
+perception of motive. It opens s 32(5)(b), breaches rule 1, and it is unprovable.**
+
+## N.5.2 ⭐⭐⭐ THE DOCUMENTED VERSION — SAME FORCE, ZERO RISK
+
+**What he FELT is a perception. What HAPPENED is documented, and it is devastating on its own:**
+
+> ⭐⭐⭐ **He raised a patient-contact concern — clinicians unable to reach the manager for pager
+> status (his 15 May email, verbatim). The employer's response engaged ONLY with the propriety of
+> his email and NEVER addressed the clinical concern.**
+
+**Proof, from the Regulator's own disclosure (N.4):**
+| Document | What it engaged with | What it IGNORED |
+|---|---|---|
+| Cory 15 May | ⭐ *"clinicians… sought updates on pager statuses… left unresolved due to ambiguity around when Chloe is available"* | — |
+| ⭐⭐ **Reese 15 May 6:23 PM** | **Only the "Respect"/Code of Conduct propriety of copying the department + how to recall the email** | ⛔⛔ **The patient-contact concern — not one word** |
+| ⭐⭐ **Reese 21 May 2:53 PM** | Asks about "consultation and communication" | ⛔ **The patient-contact concern — not one word** |
+
+⇒ ⭐⭐⭐ **He does not need to SAY they cared more about hours than patients. He shows that when he
+raised a clinical-contact problem, the documented response was about email etiquette and message
+recall — and never about the patients. THE RECORD SAYS IT; HE DOES NOT HAVE TO.**
+
+## N.5.3 ⭐⭐ AND THIS IS THE SAME PATTERN AS THE REVIEW DECISION
+
+⭐⭐⭐ **This is the THIRD instance of the identical pattern (`RD69983-SYNTHESIS.md` defect D; Section
+L):**
+| Instance | Patient/clinical concern raised | Response engaged with |
+|---|---|---|
+| **May 2024 — Reese** | Clinicians can't reach the manager | ⛔ Email propriety, recall steps |
+| **Aug 2024 — his 30 Aug email** | *"failure to consult putting patients at risk"* | ⛔ Recorded as *"failed to consult"* |
+| **Oct 2024 — Review Decision** | The MASPER/patient-safety element | ⛔ **DELETED — 0 occurrences of "patient"** |
+
+⇒ ⭐⭐ **A documented, three-point pattern: every time the clinical dimension is raised, the response
+addresses the form and drops the substance.** ⛔ **State it as a pattern of RESPONSES (documented),
+never as a pattern of MOTIVE (perception).**
+
+## N.5.4 ⭐ THE ESU NOTIFICATION — KEEP IT ON THE PID TRACK
+⭐⭐ **"I notified I would report to the ESU because I thought it was needed" is legitimate — it is
+the protected-disclosure intent.** ⚠ **But it lives on the PID/reprisal track:**
+- ⭐ The **13 May PID** is the disclosure; the **admitted retraction** (15 May, 48h later) is the
+  admitted reprisal (1(f)).
+- ⛔ **In the WC track, run the ADMITTED differential-treatment fact, not "I was going to report
+  them."** The "I'll forward to the ethical unit" line in his 15 May reply is his own — ⛔ **do not
+  amplify it; it feeds the s 32(5)(b) perception argument.**
+
+## N.5.5 ⭐⭐⭐ THE ONE LINE
+> ⭐⭐⭐ **Do not say they cared more about their hours than patients — that is a perception of
+> motive that opens s 32(5)(b) and breaches rule 1. Say instead, and only, what the documents show:
+> he raised that clinicians could not reach the manager, and the employer's response addressed the
+> propriety of his email and never the clinical concern — the same pattern the Review Decision
+> repeated when it deleted "patients at risk." The record carries the point; his opinion of their
+> priorities must not.**
+
+---
+
+# N.6 — ⭐⭐⭐ "SHE COULD HAVE JUST SENT THE TEAM THE HOURS" — THE POINT THAT COLLAPSES THE CHARACTERISATION
+> 8 August 2026. Cory: *"claiming I wanted her hours — she could have just sent the team the hours."*
+
+## N.6.1 THE RESPONDENT'S FRAMING, AND WHY IT FAILS ON ITS OWN DOCUMENTS
+**Reese's 15 May email treated the request as a "Respect"/Code-of-Conduct problem** — as if asking
+for the manager's office hours was improper conduct requiring a **retraction**.
+
+⇒ ⭐⭐⭐ **But the thing he asked for was trivially reasonable and trivially satisfiable: share the
+office hours with the team. The obvious reasonable management response was one email. Instead the
+response was to direct him to RETRACT his — 48 hours after his PID.**
+
+## N.6.2 ⭐⭐⭐ THE PROOF IT WAS REASONABLE: SHE DID EXACTLY THAT, DAYS LATER
+| Date | Who | Did exactly what Cory "wanted" |
+|---|---|---|
+| **13 May** | Ellen Stibbard | ⭐ Sent the team her business hours (*"Every Tuesday and second Monday 8:00–16:00"*) — unremarked |
+| ⭐⭐⭐ **17 May** | **CHLOE TAYLOR** | ⭐⭐⭐ **Sent the whole team her office hours** (*"my hours are from 06:30-14:30… I will be sending an email to switch to advise of any change to my office hours"*) — **unremarked** |
+
+⇒ ⭐⭐⭐ **The manager published to the team the very thing he was directed to retract asking for —
+TWO DAYS LATER, voluntarily, and no one suggested it was improper.** ⭐⭐ **That proves his request
+was normal and reasonable, and that the retraction direction was a response out of all proportion
+to a one-email problem.**
+
+## N.6.3 ⭐⭐ WHY THIS IS A CLEAN s 32(5)(a) MANNER POINT
+**s 32(5)(a) protects only management action that is reasonable AND taken in a reasonable way.**
+> ⭐⭐⭐ **The reasonable response to "please share your office hours" was to share the office hours.
+> That option was available, simple, and in fact taken by the manager herself days later. Choosing
+> instead to direct a retraction — treating a basic, easily-answered request as misconduct — is
+> management action taken in an UNREASONABLE way.**
+
+⭐ **It needs no motive.** The gap between *the available reasonable response* and *the response
+given* is the unreasonableness, and both are documented.
+
+## N.6.4 ⛔ DISCIPLINE
+- ⭐ **Run it as: the reasonable response was available and simple; the response given was to direct
+  a retraction. Both documented.** ⛔ **NOT "they refused out of spite / to punish me"** — that is
+  motive (rule 1) and perception (s 32(5)(b)).
+- ⭐⭐ **Pairs with the differential-treatment fact (N.4):** not only was the reasonable response
+  available, the manager took it herself for her own hours and was not retracted. **Same lane —
+  1(a) manner + the admitted 1(f) differential treatment, kept separate.**
+- ⭐ **This also rebuts any "he was demanding/excessive" characterisation:** the requested thing was
+  so ordinary the manager volunteered it 48 hours later.
+
+---
+
+# N.7 — ⭐⭐⭐ THEY CLASSIFIED HIS MOTIVE TO JUSTIFY THE RETRACTION — CAN THEY PROVE IT? NO, AND THE ONUS IS THEIRS.
+> 8 August 2026. Cory: *"they classified my motive, so they said retract — and can they prove it?"*
+
+## N.7.1 WHAT THEY ASSERTED
+**Reese's 15 May email gave the STATED REASON for directing the retraction:**
+> *"this did not demonstrate our iCARE2 value of **Respect** and did not comply with our **Code of
+> conduct** 'showing respect towards all persons…'"*
+
+⇒ **They characterised his conduct/motive as DISRESPECTFUL, and used that characterisation to direct
+an adverse action (retract).**
+
+## N.7.2 ⭐⭐⭐ WHO HAS TO PROVE IT — THE ONUS IS ON THE RESPONDENT
+⭐⭐⭐ **On a s 32(5)(a) defence the RESPONDENT bears the onus (*Prizeman v Q-COMP* [2005] QIC 53):
+they must prove the management action was reasonable AND taken in a reasonable way.** ⇒ ⭐⭐ **If they
+rely on "his email was disrespectful, so directing retraction was reasonable," THEY must establish
+the email was actually disrespectful. Cory proves nothing here. It is their burden.**
+
+## N.7.3 ⭐⭐⭐ CAN THEY DISCHARGE IT? NO — THE DOCUMENTS DEFEAT THE CHARACTERISATION
+**Reasonableness is judged OBJECTIVELY; the decision-maker's label is not determinative — the
+tribunal reads the actual email and decides for itself.**
+
+| Their assertion | The document says |
+|---|---|
+| The email was **disrespectful** | ⭐⭐⭐ **The email (in the Regulator's own disclosure) is measured, values-based, no abuse, no personal attack** — it requests office hours and consultation, expressly *"not… borne out of malintent"* |
+| The **disrespect** was emailing the team about hours | ⭐⭐⭐ **The manager did the SAME on 17 May and Ellen on 13 May — neither disrespectful, neither retracted.** The act cannot be disrespectful when the manager did it herself |
+| Breach of **"showing respect towards all persons"** | ⭐⭐ **No standard is identified that a polite request for office hours breaches.** The Code point is asserted, not substantiated |
+
+⇒ ⭐⭐⭐ **They cannot prove the stated reason. The email is objectively reasonable on its face, and
+the manager's own materially-similar email days later refutes any suggestion the CONDUCT was
+disrespectful.**
+
+## N.7.4 ⭐⭐ THE CONSEQUENCE — THE LIMB FAILS ON THEIR OWN ONUS
+> ⭐⭐⭐ **They classified his motive to justify the retraction. Motive/characterisation is theirs to
+> prove; the objective document and the manager's own comparable email disprove it. So the
+> "reasonable management action" defence on this limb is not made out — and the retraction direction
+> stands revealed as management action taken in an UNREASONABLE way.**
+
+## N.7.5 ⛔ DISCIPLINE
+- ⭐⭐ **Run it as ONUS + DOCUMENT:** *"the respondent bears the onus; the stated reason (disrespect)
+  is not established on the face of the email and is contradicted by the manager's own comparable
+  email."* ⛔ **NOT "they lied about my motive to persecute me"** (rule 1 / s 32(5)(b)).
+- ⭐ **Let the tribunal read the email itself** — the document is the strongest advocate. ⛔ Do not
+  argue the Commission INTO "it wasn't disrespectful"; hand them the email and the 17 May comparator
+  and let them conclude it.
+- ⭐⭐ **This is the mirror of N.6:** the reasonable response (share the hours) was available; instead
+  they mischaracterised the request and directed a retraction. Same manner-unreasonableness, from
+  the other side.
+
+---
+
+# N.8 — ⭐⭐⭐ THE DIRECTOR ASSUMED HIS MOTIVE ("MAKING A POINT / IN THE FIRST INSTANCE") — AND ACTED ON IT WITHOUT CHECKING
+> 8 August 2026. Cory: *"the director saying I was trying to make a point — but that is an
+> assumption. I tried to call her."*
+
+## N.8.1 WHAT REESE ACTUALLY WROTE (verbatim, from the Regulator's disclosure)
+> *"There is a correct way to give feedback and to offer suggestions such as these and that would be
+> by communicating with your manager and/or myself… **but not by sending such an email to all
+> department staff in the first instance** as well. Thus, could I please ask you to retract this
+> email."*
+
+⇒ ⭐⭐⭐ **The retraction direction rests on an ASSUMPTION: that Cory went to the whole team "IN THE
+FIRST INSTANCE" — i.e. that this was a performative act to "make a point," rather than a last resort
+after trying to reach the manager directly.**
+
+## N.8.2 ⭐⭐⭐ THE ASSUMPTION IS UNVERIFIED, AND CONTRADICTED BY THE RECORD
+| Reese assumed | The record shows |
+|---|---|
+| He emailed the team **"in the first instance"** to make a point | ⭐⭐⭐ **He had already tried to contact Ms Taylor** — his own email: *"in response to multiple emails sent out to contact Chloe during business hours"*; *"no one in the department can provide a definitive answer in response to directives to contact Chloe during office hours"* |
+| It was **performative** ("making a point") | ⭐⭐ **It followed a documented failure of direct contact** — the team-email was the last step, not the first. ⚠ **And Cory's evidence: he tried to CALL her** |
+
+⇒ ⭐⭐⭐ **"Trying to make a point" is an inference about MOTIVE. On a s 32(5)(a) defence the
+respondent must PROVE the action was reasonable — including any factual assumption it rests on
+(*Prizeman* onus). The assumption is not only unproven, it is contradicted by his documented prior
+attempts to reach the manager.**
+
+## N.8.3 ⭐⭐⭐ THE DEEPER MANNER-UNREASONABLENESS: SHE ACTED ON THE ASSUMPTION WITHOUT CHECKING
+> ⭐⭐⭐ **Reese directed an adverse action (retract) founded on an assumption about his motive that
+> she never verified. She did not ask him whether he had tried to reach Ms Taylor directly before
+> emailing the team. She assumed "first instance," and acted on it.**
+
+⭐⭐ **Acting adversely on an unverified assumption about a worker's motive is management action taken
+in an UNREASONABLE way** — the *manner* the s 32(5)(a) test is directed at. ⭐ *Bowers* tolerates
+blemishes, but this is not a blemish — **it is the entire factual basis of the direction, and it was
+assumed, not established.**
+
+## N.8.4 ⭐⭐ THE CROSS-EXAMINATION IT SETS UP (Reese)
+> *"You wrote that he sent the email 'in the first instance.' Before you directed him to retract it,
+> did you ask him whether he had tried to contact Ms Taylor directly? … His email refers to multiple
+> attempts to reach her — were you aware of those? … So the basis for your direction — that this was
+> a first-instance email to make a point — was an assumption you did not check with him?"*
+
+⭐⭐ **Reese is on the witness list target for the retraction; this is the line.** ⭐ It needs no
+motive theory — it tests whether her stated basis was verified.
+
+## N.8.5 ⛔ DISCIPLINE
+- ⭐⭐ **Run it as: an ADVERSE DIRECTION FOUNDED ON AN UNVERIFIED, CONTRADICTED ASSUMPTION.** Onus on
+  them (*Prizeman*); the assumption fails on his own documented contact attempts. ⛔ **NOT "she
+  deliberately mischaracterised me to punish me"** (rule 1 / s 32(5)(b)).
+- ⚠ **"I tried to CALL her" is Cory's EVIDENCE** — it is his testimony. ⭐ **The documented part is
+  the "multiple emails" to contact Chloe (in his own 15 May email).** ⛔ **Confirm whether any call
+  attempt is recorded (phone log / Teams). If only testimony, present it as his evidence, not as an
+  established document.**
+- ⭐ **Even if he WAS "making a point" about transparency, that is not disrespect** — but he does not
+  need that fallback, because the assumption is factually wrong.
+
+---
+
+# N.9 — ⭐⭐⭐ NOT "ALL DEPARTMENT STAFF" — IT WAS HIS OWN TEAM + HR (THE AFFECTED PEOPLE + THE CORRECT CHANNEL)
+> 8 August 2026. Cory: *"it also was not all department, it was only my department and HR."*
+
+## N.9.1 THE ACTUAL RECIPIENTS (verbatim header, Regulator's disclosure)
+> **To:** Chloe Taylor; **Logan Switch**
+> **Cc:** Anisha Ismail; Carolyn Jeffrey; Cherrie Abbott; Deborah Neville; Ellen Stibbard; Jesse
+> Kendrick; Jude Nelson; Kay Marie Court; Linda Hu; Meegan Malsbury; Patricia Conaghan; Peter
+> Fitzpatrick; Richard Parry; Simon De Iacovo; Sonya Willmann; Stacey Sutton-Masson; **Tammy Reese;
+> LBH_HR**
+
+⇒ ⭐⭐⭐ **The audience was: the SWITCHBOARD TEAM (the "Logan Switch" list + its members), the MANAGER
+(Taylor), the DIRECTOR (Reese), and HR (LBH_HR). NOT the wider hospital. NOT other departments.**
+
+## N.9.2 ⭐⭐⭐ WHY THIS DEFEATS "MAKING A POINT / IN THE FIRST INSTANCE"
+1. ⭐⭐⭐ **The recipients were exactly the people AFFECTED** — the switchboard team who are directed
+   to contact Ms Taylor during her (unknown) office hours. **They are the people who NEED the
+   information.** Sending it to them is targeted and appropriate, not performative.
+2. ⭐⭐⭐ **HR (LBH_HR) was included — the CORRECT escalation channel.** ⛔ **A worker "making a point"
+   does not copy HR; a worker raising a genuine concern does.** Including HR is the opposite of a
+   disrespectful broadcast — it is proper process.
+3. ⭐⭐ **It was NOT sent beyond the department.** No other departments, no broadcast. Reese's
+   *"all department staff"* frames it as inappropriately broad; the audience was in fact the team +
+   the management/HR chain.
+
+## N.9.3 ⭐⭐⭐ AND THE KILLER: IT IS THE SAME DISTRIBUTION MANAGEMENT THEMSELVES USED
+| Email | To/Cc audience | Retracted? |
+|---|---|---|
+| **Ellen Stibbard, 13 May** | ⭐ **The same switchboard team list** (Logan Switch + members) | ⛔ No |
+| ⭐⭐⭐ **Chloe Taylor, 17 May** | ⭐⭐⭐ **The same list — Logan Switch + the team + Cory** | ⛔ No |
+| **Cory, 15 May** | **The same team + Reese + HR** | ⛔⛔ **Yes — retracted** |
+
+⇒ ⭐⭐⭐ **The manager and the coordinator sent their own office-hours emails to the SAME team
+distribution Cory used — and were not retracted. The audience therefore cannot be what made Cory's
+email "disrespectful" or "making a point." Same recipients, same subject, opposite treatment.**
+
+## N.9.4 ⛔ DISCIPLINE
+- ⭐⭐ **Run it as documentary fact:** *"the email went to the switchboard team and HR — the affected
+  staff and the appropriate channel — the same distribution management used for their own
+  office-hours emails, which were not retracted."* ⛔ **NOT "Reese lied about the audience to make me
+  look bad"** (rule 1).
+- ⭐ **Including HR is a NEUTRAL, STRONG fact** — it shows he used the proper channel, which rebuts
+  both "disrespect" and "making a point." ⛔ **But do not lean it toward the PID/reprisal narrative;
+  keep it as "correct process," a s 32(5)(a) manner rebuttal.**
+- ⭐⭐ **This is the third documentary refutation of the same retraction:** N.6 (she could have just
+  sent the hours), N.7 (they must prove disrespect and cannot), N.8 (assumed motive, unchecked),
+  N.9 (targeted audience, not a broadcast). **All four are on the face of the documents. Together
+  they make the retraction direction indefensible on the manner limb.**
+
+---
+
+# N.10 — ⭐⭐⭐ "REESE SOUGHT HR ADVICE" IS THE REGULATOR'S OWN PLEADED FACT — WHICH MAKES THE HR ADVICE DISCOVERABLE AND DIRECTLY RELEVANT
+> 8 August 2026. Cory: *"she said she sought advice from HR about it."* ✅ Confirmed — it is in the
+> Regulator's SOFC (13.05.2026), pleaded as part of the reasonableness defence on Stressor 1(f).
+
+## N.10.1 WHAT THE REGULATOR PLEADS (SOFC 13.05.2026, item 16 — Stressor 1(f))
+> **1(f) reprisal/retraction — DOES NOT ADMIT; says "Ms Reese was UNAWARE that the appellant had
+> lodged a PID"; narrates 13–15 May (absence/on-call non-compliance; 15 May 1.15pm "mass email";
+> **Reese sought HR advice**, emailed 6.23pm; email "ultimately removed from the server");
+> "reasonable in all respects."**
+
+⇒ ⭐⭐⭐ **The Regulator RELIES on "Reese sought HR advice" to support "reasonable in all respects."
+They have put it in issue. They must PROVE it. And the HR advice is now directly relevant to a
+matter in issue — the reasonableness of the retraction.**
+
+## N.10.2 ⭐⭐⭐ IT IS DISCOVERABLE — AND NOT PRIVILEGED
+- ⭐⭐ **HR advice is NOT legal professional privilege** (HR is not a lawyer giving legal advice).
+  ⇒ **It is discoverable. Reese cannot shield it.**
+- ⭐⭐⭐ **And unlike the review-decision provenance (§9.7 — not a matter in issue, de novo), THIS is
+  squarely a matter in issue:** the reasonableness of the management action is the exact question
+  s 32(5)(a) poses, and the respondent pleaded the HR advice as its basis. ⭐ **Clean, on-point
+  disclosure target for the Matheson list.**
+
+## N.10.3 ⭐⭐⭐ THE REASONABLENESS OF ADVISED ACTION TURNS ON WHAT WAS PUT TO HR
+> ⭐⭐⭐ **Advice is only as reasonable as the facts fed to the adviser. If Reese told HR "he sent a
+> disrespectful MASS EMAIL to all staff to make a point," she fed HR the mischaracterisation
+> (N.7–N.9) — and advice built on a false account does not rescue the reasonableness of the
+> direction.**
+
+**Three questions the HR advice answers:**
+1. ⭐⭐⭐ **What did Reese TELL HR?** Did she say he had tried to contact Ms Taylor directly (N.8)?
+   Did she say it went to the team + HR, or overstate it as "all staff" (N.9)?
+2. ⭐⭐⭐ **Did HR see the ACTUAL email?** ⭐⭐ **LBH_HR was CC'd on the original 15 May email** — so
+   HR HAD the real, polite email. **Did HR advise on the actual email, or on Reese's account of it?**
+3. ⭐⭐ **Did HR actually advise a RETRACTION, or did Reese?** The SOFC says "sought HR advice" — it
+   does not say HR advised her to direct a retraction. ⚠ **That gap is worth opening.**
+
+## N.10.4 ⚠⚠ THE DOUBLE EDGE — STATE IT HONESTLY
+⛔ **"Reese sought HR advice" ALSO helps the respondent** — it frames the direction as considered
+and procedurally proper, not impulsive. ⭐⭐ **So the point is NOT "she sought advice" (that looks
+reasonable); the point is WHAT SHE PUT TO HR and WHETHER HR SAW THE REAL EMAIL.** ⛔ **Do not argue
+"seeking HR advice was wrong" — argue that advice on a mischaracterised set of facts cannot make an
+unreasonable direction reasonable.**
+
+## N.10.5 ⭐ THE "REESE UNAWARE OF THE PID" DEFENCE — SIDESTEP IT
+**The SOFC's core answer to 1(f) is "Reese was UNAWARE of the PID."** ⇒ ⭐⭐⭐ **That defeats only the
+REPRISAL MOTIVE. It does NOT touch the ADMITTED differential-treatment fact or the manner-
+unreasonableness (N.6–N.9).** ⛔ **So run 1(f) in the WC track as the admitted acts + unreasonable
+manner — NOT as reprisal motive. That sidesteps "Reese unaware" entirely** (the knowledge fight
+belongs to the PID track). ⚠ **Note also: AR (Form 24) ADMITS the retraction and the comparator;
+the SOFC "does not admit" the reprisal characterisation — consistent: acts admitted, motive denied.**
+
+## N.10.6 ⭐⭐ DISCLOSURE + CROSS TARGETS
+**Add to the Matheson disclosure list (matter in issue — reasonableness of the 1(f) action):**
+> *"All records of the human resources advice sought and received by Ms Reese in relation to the
+> email of 15 May 2024 and its retraction, including Ms Reese's request for that advice and any
+> response."*
+
+**Cross-examination (Reese / the HR officer):**
+> *"You sought HR advice. What did you tell HR the email was? Did you tell them he had tried to
+> contact Ms Taylor first? HR were copied on the original email — did they read it, or your
+> description? Did HR advise you to direct a retraction, or was that your decision?"*
+
+⛔ **DISCIPLINE: run it as "advice on mischaracterised facts," onus on them (*Prizeman*). NOT "Reese
+and HR colluded to punish me" (rule 1).**
+
+---
+
+# N.11 — ⭐⭐⭐/⚠⚠ CHLOE'S 17 MAY EMAIL TO HR ("OUT TO GET ME") — A DOUBLE-EDGED DOCUMENT
+> 8 August 2026. Cory: *"Chloe wrote HR that I was out to get her — maybe out to get her office
+> hours so I can contact her like she directed, so clinical staff can contact her… even relay her
+> hours to clinic staff."* ✅ FOUND: Chloe Taylor → **Adriana McNamee (HR)**, **Fri 17 May 2024
+> 1:20 PM**, FW: Office Hours and Departmental Directives (Regulator's disclosure, FRMS bundle).
+
+## N.11.1 WHAT CHLOE WROTE TO HR (verbatim key lines)
+> *"I have had been advised from staff verbally telling me that he has told them **he is out to get
+> me** and for me to watch/be careful of Cory… It is not unknown within the switchboard of Corys
+> behaviour and **malice towards me**… I am currently **experiencing high anxiety** interacting with
+> this staff member and am **fearful** as to what his next actions maybe."*
+> …and: *"There would never be a time unless I am on emergent leave that I wouldn't be in the office
+> around the times Cory had called."*
+
+## N.11.2 ✅ WHERE IT HELPS — THREE CLEAN, DOCUMENTARY POINTS
+1. ⭐⭐⭐ **"OUT TO GET ME" IS UNSOURCED DOUBLE HEARSAY.** Chloe did not witness it. She says *staff
+   verbally told her* that *Cory told them* — no named source, no email, nothing. ⇒ **As proof of
+   hostile motive it has NO probative weight, and it is unprovable.** ⭐⭐ **It is a
+   CHARACTERISATION, not evidence.**
+2. ⭐⭐⭐ **THE OBJECT REFUTES THE "MALICE."** Cory's point is exactly right: the thing he sought was
+   her **office hours** — which he needed to **contact her as SHE directed** (her own email: staff
+   calling in leave must contact her *"via switch, office or my mobile"*) and so **clinical staff
+   could reach her.** ⇒ **The request had an operational/clinical object, not a personal one.**
+3. ⭐⭐⭐ **CHLOE CONTRADICTS HERSELF THE SAME DAY.** To HR (1:20 PM) she says she is essentially
+   always available. But her email TO THE TEAM at **9:30 AM the SAME DAY** (N.4.3) says *"my office
+   hours can vary… I will be sending an email to advise of any change to my office hours."* ⇒ ⭐⭐
+   **Her own 17 May team email concedes the variability she denied to HR three hours later —
+   documenting the very problem Cory raised.**
+
+## N.11.3 ⭐⭐ THE PATTERN — AND THE LINK TO THE HR ADVICE (N.10)
+⭐⭐⭐ **This email IS the "what was put to HR" answer from N.10.3.** The input to HR was not the
+polite office-hours email — it was Chloe's *"out to get me / malice / I'm fearful"* framing. ⇒ **The
+HR advice and the retraction (N.10) were built on an unsourced hostility narrative, not on the
+actual conduct.** ⭐ **And note the pattern (N.5): Chloe's HR email is entirely about Cory's alleged
+hostility and her feelings — NOT one word on whether clinical staff could reach her. The clinical
+substance is dropped; the focus shifts to the messenger.**
+
+## N.11.4 ⚠⚠ WHERE IT HURTS — BE HONEST, THIS DOCUMENT CUTS BOTH WAYS
+⛔⛔ **The SAME email arms the respondent, and Cory must see this clearly:**
+1. ⚠⚠ **"He did not want to speak to me" (×3).** Chloe documents Cory repeatedly declining to speak
+   to his manager when calling in leave. **The respondent will run this as HE was uncooperative /
+   avoidant** — and it is in his own conduct, contemporaneously recorded.
+2. ⚠⚠ **CHLOE'S "ANXIETY / FEARFUL" NARRATIVE.** She casts HERSELF as the injured party. ⛔⛔ **This
+   is a COMPETING-VICTIM narrative the respondent can use to muddy causation and to frame Cory as
+   the aggressor.** ⚠ **It is also a s 32(5)(b) trap magnet — do NOT let the case become "who was
+   hostile to whom."**
+
+## N.11.5 ⛔⛔ DISCIPLINE — THE SHARPEST ON THE FILE
+- ⭐⭐ **USE (narrow, documentary):** *(a)* the "out to get me" is unsourced double hearsay with no
+  probative value; *(b)* the employer acted adversely (retraction) on that unsourced characterisation
+  without investigating or putting it to Cory — **unreasonable manner (s 32(5)(a)), mirroring N.8**;
+  *(c)* Chloe's own 17 May team email contradicts her "always available" claim to HR.
+- ⛔⛔⛔ **NEVER ADOPT "SHE WAS OUT TO GET ME / SHE LIED TO HR TO DESTROY ME."** That is the
+  conspiracy framing (rule 1) AND the perception limb (s 32(5)(b)) in one — the exact trap. **Run
+  the employer's PROCESS as unreasonable (acted on hearsay), never their MOTIVE as malicious.**
+- ⛔⛔ **DO NOT PROVOKE A HOSTILITY CONTEST.** Chloe's "fear/anxiety" narrative is bait. ⭐ **Cory's
+  injury arose from the CONDITIONS (unavailability, non-consultation, clinical-contact failure, the
+  retraction), NOT from a personal feud.** Keep it there.
+- ⚠ **Flag for the 12 Aug report:** the respondent may deploy Chloe's "she was anxious/fearful of
+  Cory" as a competing narrative. ⭐ **The psychiatrist should understand the FULL context** — that
+  Cory's requests were operational and values-based — **so the injury is not mischaracterised as a
+  two-way interpersonal conflict.**
+
+## N.11.6 ⭐ DISCLOSURE + CROSS TARGETS
+**Disclosure (Matheson list) — directly relevant to reasonableness of the 1(f) action:**
+> *"All communications between Ms Taylor and Human Resources (including Ms Adriana McNamee)
+> concerning the appellant and the email of 15 May 2024."*
+**Cross (Chloe):**
+> *"You told HR staff said he was 'out to get' you. Which staff? On what date? Did you record it? …
+> You told HR there would never be a time you weren't in the office around those hours — yet your
+> own email to the team that morning says your hours 'can vary.' Both are 17 May, correct?"*
+⛔ **Onus on them (*Prizeman*); test the hearsay and the contradiction — do not allege malice.**
+
+---
+
+# N.12 — ⭐⭐⭐ THE TIMING OF CHLOE'S HR EMAIL AGAINST EVERYTHING ELSE, AND HOW IT WAS WRITTEN
+> 8 August 2026. Cory: *"look at the timing of this email against everything else and how she wrote
+> it."* All times AEST, from the Regulator's own disclosure + the SOFC + the 9A.
+
+## N.12.1 THE MINUTE-LEVEL SEQUENCE, 13–17 MAY 2024
+| Date/time | Event | Source |
+|---|---|---|
+| ⭐⭐⭐ **Mon 13 May** | **Cory lodges the PID** (ESU corrupt-conduct complaint re Taylor & Reese) | 9A 1(e); Form 24 admits |
+| Mon 13 May | Cory calls in unwell before his 1500 shift; **declines to be transferred to Chloe**; Chloe calls his mobile | Chloe→HR 17 May |
+| Mon 13 May 4:29 PM | Ellen's on-call/business-hours email to the team — **not retracted** | FRMS |
+| ⭐ **Tue 14 May** | Chloe documents "call process"; sends email + **follow-up text "advised by the last HR rep"** | Chloe→HR 17 May |
+| ⭐⭐ **Tue 14 May** | ⭐⭐ **HR IS ALREADY COACHING CHLOE** (the "last HR rep" advice) — **before Cory's email** | Chloe→HR 17 May |
+| Wed 15 May ~1:00 PM | Cory calls in leave, asks to relay he wants Annual Leave | Chloe→HR 17 May |
+| ⭐ **Wed 15 May 1:15 PM** | **Cory's office-hours email** | FRMS |
+| ⭐⭐⭐ **Wed 15 May 6:23 PM** | ⭐⭐⭐ **Reese directs the RETRACTION — "sought HR advice"** | SOFC; FRMS |
+| Wed 15 May 7:09 PM | Cory's reply | FRMS |
+| ⭐⭐⭐ **Fri 17 May 9:30 AM** | ⭐⭐⭐ **Chloe → TEAM: "my office hours CAN VARY… I will advise of any change"** | FRMS |
+| ⭐⭐⭐ **Fri 17 May 1:20 PM** | ⭐⭐⭐ **Chloe → HR (McNamee) "AS REQUESTED": "out to get me / malice / fearful / I'm always available"** | FRMS |
+
+## N.12.2 ⭐⭐⭐ WHAT THE TIMING REVEALS — FOUR THINGS
+
+### (1) ⭐⭐⭐ THE "MALICE" ACCOUNT WAS WRITTEN *AFTER* THE RETRACTION — AND HR ASKED FOR IT
+**The retraction was directed 15 May 6:23 PM. Chloe's "out to get me/malice/fearful" account is
+17 May 1:20 PM — TWO DAYS LATER — and expressly "as requested" by HR.**
+⇒ ⭐⭐⭐ **It is a SOLICITED, POST-ACTION account — a document created for the HR file AFTER the
+adverse action, not a contemporaneous report of a genuine threat.** ⭐⭐ **Two consequences:**
+- ⭐⭐⭐ **The retraction CANNOT have been justified by it — the retraction predates it by 2 days.**
+  (Sharpens N.10: so what WAS the 15 May HR advice based on?)
+- ⭐⭐ **Its weight as evidence of a real threat is low** — a retrospective, requested, self-serving
+  narrative, not a spontaneous safety report.
+
+### (2) ⭐⭐⭐ THE SAME-DAY, TWO-AUDIENCE CONTRADICTION (17 MAY)
+> ⭐⭐⭐ **9:30 AM — to the TEAM: my hours "can vary." 1:20 PM — to HR: there would "never be a time…
+> I wouldn't be in the office."** **Same day. Four hours apart. Opposite propositions.**
+⇒ ⭐⭐ **To the team she CONCEDES Cory's point (variable hours); to HR she DENIES it and calls him
+malicious for raising it.** ⛔ **This is not a slip — it is two stories for two audiences on one
+day, and both are in her own hand.**
+
+### (3) ⭐⭐ HR–CHLOE COORDINATION PREDATES CORY'S EMAIL
+**14 May: Chloe is "advised by the last HR rep."** ⇒ ⭐ **The HR–manager axis was already active on
+14 May — before the 15 May office-hours email.** ⚠ **Documentary fact only; no motive inferred.**
+
+### (4) ⚠ THE ADVERSE CLUSTER FOLLOWS THE PID — BUT THIS IS PID-TRACK
+**PID 13 May → call-process documentation 14 May → retraction 15 May → solicited adverse HR account
+17 May.** ⛔⛔ **The clustering-after-PID is a REPRISAL inference and belongs to the PID track ONLY**
+(and the SOFC's "Reese unaware of PID" answers the motive there). ⛔ **Do NOT run it as reprisal in
+the WC track.** ⭐ In the WC track it is only: post-action, solicited, contradicted, low-weight.
+
+## N.12.3 ⭐⭐ HOW SHE WROTE IT — THE CONSTRUCTION
+- ⭐⭐ **A day-by-day built narrative** (Mon/Tue/Wed) engineered to portray Cory as uncooperative
+  (repeatedly "did not want to speak to me") and escalating to *"malice… out to get me… fearful."*
+- ⭐⭐⭐ **Written "as requested" for the HR file** — an **advocacy/justification document**, not a
+  contemporaneous operational email. ⭐ That framing is itself the tell: it is constructed to support
+  a conclusion already reached (the 15 May retraction).
+- ⭐⭐ **It never mentions the PID and never engages the clinical concern** (pager/pathology contact)
+  — same drop-the-substance pattern (N.5): the account is entirely about the messenger and her
+  feelings.
+
+## N.12.4 ⛔⛔ DISCIPLINE
+- ⭐⭐ **USE (WC track, documentary):** the "malice/threat" account is **post-action, solicited by
+  HR, internally contradicted the same day, and could not have justified the retraction that
+  preceded it.** Onus on them (*Prizeman*).
+- ⛔⛔⛔ **DO NOT run "they built a file to destroy me after my PID."** That is rule 1 + s 32(5)(b) +
+  the PID track, all at once. **The clustering-after-PID stays PID-track and is not voiced in the WC
+  appeal.**
+- ⚠ **The "declined to speak to my manager" material is STILL a live risk** (N.11.4) — the timing
+  does not cure it. ⭐ Handle by explaining the conduct (calling in leave, unwell, a claim developing)
+  — not by attacking Chloe.
+- ⭐ **Cross (Chloe):** *"Your account to HR is dated 17 May, two days after the retraction, and you
+  wrote it because HR asked you to — correct? That morning you told the team your hours 'can vary';
+  that afternoon you told HR you're always in the office. Both 17 May?"*
+
+---
+
+# N.13 — ⚠⚠ "AFTER REESE LEARNED OF THE PID" — TRUE FOR THE 17 MAY EMAIL, BUT THIS IS PID-TRACK
+> 8 August 2026. Cory: *"it's also after Reese learned of the PID."* ✅ Documented in
+> `confirmed-record.md` (11 June disclosure bundle) — but the precision matters, and the discipline
+> matters more.
+
+## N.13.1 THE DOCUMENTED PID-KNOWLEDGE TIMELINE (from the 11 June bundle, confirmed-record)
+| Date/time | Event |
+|---|---|
+| **Wed 15 May 3:35 PM** | Cory's **PID email** → MetroSouthESU; CO_Complaints; **LBH_HR** |
+| **Wed 15 May 3:41 PM** | **Harrison (LBH_HR) forwards** → Punch, McGinley, McNamee (**6-minute routing**) — ⛔ **NOT to Reese** |
+| ⭐ **Wed 15 May 6:23 PM** | **Reese directs the RETRACTION** — *no document shows Reese had the PID yet* |
+| ⭐⭐⭐ **Thu 16 May 11:43 AM** | ⭐⭐⭐ **McGinley forwards the complaint form → REESE (+ Tracey Smith; Cc Punch, Pritchard, McNamee), attachment "Chloe Taylor scc-complaint-form.docx"** |
+| **Fri 17 May 1:20 PM** | **Chloe → HR (McNamee) "as requested": the "out to get me / malice / fearful" account** |
+| **Tue 21 May 2:53 PM** | Reese's follow-up to Cory |
+
+## N.13.2 ⭐⭐ WHAT THE TIMING ACTUALLY ESTABLISHES — AND ITS TWO LIMITS
+> ⭐⭐⭐ **Reese personally received the PID complaint form on 16 May 11:43 AM. So Chloe's 17 May HR
+> account, and Reese's 21 May follow-up, occurred AFTER Reese knew — which puts the SOFC's "Ms Reese
+> was unaware" plea in difficulty for everything from 16 May onward.**
+
+⛔⛔ **BUT TWO HARD LIMITS — DO NOT OVERCLAIM:**
+1. ⛔ **The RETRACTION (15 May 6:23 PM) PREDATES the documented notification to Reese (16 May
+   11:43 AM).** On the documents, "Reese unaware **at the retraction**" holds. ⚠ **The 6-minute HR
+   routing on 15 May went to Punch/McGinley/McNamee — NOT Reese.** ⛔ **Do NOT assert Reese knew when
+   she directed the retraction — the paper does not support it.**
+2. ⛔⛔ **"Reese learned of the PID" is a REPRISAL/KNOWLEDGE fact. That is the PID TRACK.**
+
+## N.13.3 ⛔⛔⛔ THE DISCIPLINE — THIS IS THE LINE THAT MATTERS MOST TODAY
+⭐⭐ **`confirmed-record.md` already marks this cluster: "reserve / order-6 + hearing material — NOT
+pleaded in the 64G."** ⇒ ⛔⛔⛔ **The Reese-knew-of-the-PID point is HELD. It is NOT run as reprisal
+motive in the WC appeal.** Reasons, restated:
+- ⛔ **It imports MOTIVE** (reprisal) — CLAUDE.md rules 1–3. The WC track runs 1(f) as the **admitted
+  differential-treatment fact + unreasonable manner (N.6–N.12)**, never as "they retaliated for my
+  PID."
+- ⛔ **It opens s 32(5)(b)** and a knowledge contest Cory does not need and may not win at the
+  retraction point.
+- ⭐ **It is more powerful where it belongs:** the **PID/reprisal track** (a subject-manager, Reese,
+  learning of a disclosure that named her, and adverse HR file-building continuing after) — and as a
+  **disclosure-relevance** argument (`confirmed-record.md` 3041: *"the 'unaware' defence is in
+  difficulty… the strongest relevance argument"*).
+
+## N.13.4 ⭐ WHERE IT LEGITIMATELY DOES WORK
+1. ⭐⭐ **DISCLOSURE RELEVANCE (not WC merits):** the SOFC pleads "Reese unaware." The 16 May
+   McGinley→Reese forward contradicts it from 16 May. ⇒ **That makes the HR-routing/PID material
+   relevant and disclosable** — a reason to compel it, argued on relevance, not motive.
+2. ⭐ **THE PID / REPRISAL TRACK (sequenced BEHIND the WC settlement, rule 8):** the knowledge
+   timeline is the spine of any reprisal analysis — **there, not here.**
+3. ⛔ **NOT in the WC de novo appeal as a reason the injury is compensable.** The injury runs on
+   conditions + admitted acts + unreasonable manner.
+
+## N.13.5 ⭐⭐ THE ONE LINE
+> ⭐⭐⭐ **Yes — Reese received the PID complaint form on 16 May 11:43 AM, so Chloe's 17 May HR account
+> and Reese's later conduct are "after Reese learned." That defeats the SOFC's "unaware" plea from
+> 16 May on, and it is gold for the PID track and for disclosure relevance. But the retraction
+> itself predates it, and the reprisal/knowledge point is HELD — it is not run as motive in the WC
+> appeal, where 1(f) stands on the admitted acts and the unreasonable manner alone.**
+
+---
+
+# N.14 — THE RETRACTION-KNOWLEDGE (EVEN-HANDED) + THE "MALICE" CHARACTERISATION HAS NO PRIOR DOCUMENTARY TRACE
+> 8 August 2026. Cory: *"possibly she didn't know, possible she got a phone call — either way she
+> knew by the 16th; and Chloe was writing an email that was never documented before that in any way."*
+
+## N.14.1 ⭐⭐ POINT 1 — THE HONEST, DISCIPLINED POSITION ON THE RETRACTION
+⭐⭐⭐ **Cory's even-handedness IS the correct position, and it protects him:**
+- ⛔ **The documents do not show Reese knew of the PID at 6:23 PM on 15 May.** The 3:41 PM HR forward
+  went to Punch/McGinley/McNamee, not Reese.
+- ⚠ **A phone call to Reese between 3:41 and 6:23 PM is POSSIBLE — but undocumented.** ⛔ **Possible
+  ≠ provable. Do NOT assert it.**
+- ✅ **What IS documented: Reese received the complaint form 16 May 11:43 AM.** ⇒ **State only that.**
+
+⇒ ⭐⭐ **The disciplined line: "The documents establish Reese knew by 16 May. Whether she knew earlier
+is not established." Cory volunteering that even-handedness is exactly right — it makes him the
+reliable narrator and denies the respondent any "he overstated it" comeback.**
+
+## N.14.2 ⭐⭐⭐ POINT 2 — THE "MALICE / OUT TO GET ME / FEARFUL" NARRATIVE HAS NO DOCUMENT BEFORE 17 MAY
+> ⭐⭐⭐ **This is the real point. The characterisation of Cory as malicious, hostile, "out to get
+> her," a person to be "fearful" of — appears for the FIRST TIME on 17 May 2024, in an account HR
+> SOLICITED ("as requested"). There is NO contemporaneous documentation of it predating that email.**
+
+**And Chloe's own words claim a history she does not document:**
+> *"It is **not unknown** within the switchboard of Corys behaviour and malice towards me… I have
+> had **multiple staff inform me… not just this week**."*
+⇒ ⭐⭐⭐ **She ASSERTS a prior pattern ("not just this week", "not unknown") — but produces NOT ONE
+dated record of it before 17 May. No file note, no incident report, no email, no prior complaint.**
+
+## N.14.3 ⭐⭐ WHY THAT MATTERS EVIDENTIALLY (WC-track safe)
+1. ⭐⭐⭐ **RECENT + SOLICITED + UNCORROBORATED = LOW WEIGHT.** A serious allegation that surfaces for
+   the first time only when HR asks for it, with no contemporaneous footprint, carries little weight
+   as proof that Cory was actually hostile or a threat. **It is an account, not a record.**
+2. ⭐⭐⭐ **THE RETRACTION CANNOT REST ON A HOSTILITY PATTERN THAT ISN'T DOCUMENTED.** If the "reasonable
+   management action" defence leans on "he was malicious/a threat," ⇒ **there is no dated record of
+   that hostility before the action. The defence has no documentary foundation for it.**
+3. ⭐⭐ **IT BLUNTS THE COMPETING-VICTIM NARRATIVE (N.11.4 risk).** Chloe's "high anxiety / fearful"
+   claim, with no contemporaneous trace before the solicited 17 May account, is a **recent,
+   uncorroborated** narrative — which limits its power to muddy causation or cast Cory as aggressor.
+
+## N.14.4 ⚠ THE PRECISE DISTINCTION — DO NOT OVERSTATE
+| Has SOME contemporaneous trace | Has NO trace before 17 May |
+|---|---|
+| ⚠ **The leave/call conduct** ("declined to speak to me") — Chloe's **14 May** call-process email touches it | ⭐⭐⭐ **The "MALICE / OUT TO GET ME / FEARFUL" characterisation — nothing before the solicited 17 May account** |
+
+⇒ ⛔ **Do not claim "nothing was documented" broadly — the leave/call-process conduct has a 14 May
+footprint. The point is NARROW and therefore strong: the HOSTILITY/THREAT characterisation is what
+first appears on 17 May, solicited, uncorroborated.**
+
+## N.14.5 ⛔⛔ DISCIPLINE
+- ⭐⭐ **RUN IT AS:** *"the characterisation of the appellant as hostile/a threat is uncorroborated by
+  any contemporaneous record predating the solicited account of 17 May 2024."* Onus on them
+  (*Prizeman*) — they cannot found reasonableness on an undocumented hostility.
+- ⛔⛔⛔ **DO NOT RUN "she fabricated it to retaliate for my PID."** That is fabrication + motive +
+  reprisal (rules 1–2, s 32(5)(b), PID track) all at once. **"No prior documentation" is a
+  RECORDS point; "she invented it to punish me" is a MOTIVE allegation. Only the first is voiced.**
+- ⭐ **CROSS (Chloe):** *"You told HR his malice was 'not unknown' and 'not just this week.' Can you
+  point to any document — email, file note, incident report — recording that, dated before 17 May
+  2024?"* ⭐⭐ **Let the absence answer. Do not supply a motive.**
+
+## N.14.6 ⭐ THE ONE LINE
+> ⭐⭐⭐ **Reese knew by 16 May (earlier is possible but unproven — say only that). And the "malice /
+> out to get me / fearful" portrayal of Cory has no contemporaneous record before the HR-solicited
+> account of 17 May, though it claims a history — which makes it a recent, uncorroborated account
+> that cannot found the reasonableness of the retraction and blunts the fear narrative. Run it as a
+> RECORDS gap, never as invention-to-retaliate.**
+
+---
+
+# N.15 — MY HONEST READ OF THE 13–17 MAY SEQUENCE (candid, and why it does not change the play)
+> 8 August 2026. Cory: *"the sequence is quite strange, don't you think — what would you think
+> here?"* An honest analytical answer, held as a working theory, not asserted as fact.
+
+## N.15.1 ⭐⭐ YES — IT IS UNUSUAL. HERE IS WHAT IS UNUSUAL.
+**Laid flat, one afternoon and two days do a lot of work:**
+- ⭐ **15 May, one afternoon:** office-hours email **1:15 PM** → PID lodged **3:35 PM** → HR
+  mobilised (Harrison → Punch/McGinley/McNamee) **3:41 PM** → **retraction directed 6:23 PM.**
+- ⭐ **HR was already coaching the manager on 14 May** ("advised by the last HR rep") — *before* the
+  office-hours email.
+- ⭐ **The retraction's stated basis (disrespect) is thin** — the email is polite, and the two
+  comparable manager/coordinator emails were not retracted.
+- ⭐ **The "malice / out to get me / fearful" narrative is first written on 17 May, solicited by HR,
+  with no prior documentary trace** — and after the subject-manager (Reese) received the PID form.
+- ⭐ **The same manager gives two audiences opposite accounts on one day (17 May).**
+
+⇒ ⭐⭐ **A fair-minded observer would find that CLUSTER notable. It is consistent with an institution
+that mobilised quickly and defensively once a disclosure NAMING MANAGEMENT landed — coordinating
+HR, directing a retraction on a thin basis, and building a justificatory file after the fact.**
+**That is my honest read of what the pattern LOOKS like.**
+
+## N.15.2 ⛔⛔ BUT "LOOKS LIKE" IS NOT "IS" — AND THE GAP IS THE WHOLE DISCIPLINE
+⚠⚠ **The same sequence is ALSO consistent with an innocent read:** an employee repeatedly calling in
+leave and declining to speak to his manager, who sent a critical department-wide email, and a
+management/HR response that was **defensive and imperfect but not coordinated retaliation.** ⛔ **I
+cannot tell the two apart from the documents, and neither can a tribunal.** The suggestive pattern
+is **not proof of motive** — and motive is exactly what cannot be established from a timeline.
+
+> ⭐⭐⭐ **The honest position: the sequence RAISES the question. It does not ANSWER it. Living inside
+> it, the pattern feels like proof. It is not proof — it is a pattern, and patterns have innocent
+> explanations that a respondent will supply.**
+
+## N.15.3 ⭐⭐⭐ AND HERE IS THE THING — YOU DO NOT NEED IT TO BE PROOF
+**Every documented step is adverse to the employer WITHOUT the sinister narrative:**
+- ⭐ Retraction on a thin, mischaracterised basis → **unreasonable manner** (N.6–N.9).
+- ⭐ HR advice on facts that were mischaracterised → **N.10**.
+- ⭐ The same-day contradiction → **N.12.2**.
+- ⭐ The uncorroborated, recent, solicited "malice" account → **N.14**.
+
+⇒ ⭐⭐⭐ **These win on their own. They need no conspiracy. In fact they are STRONGER without it,
+because each is a neutral documentary fact the respondent cannot dispute — whereas the moment you
+say "this was coordinated retaliation," you take on a burden you cannot discharge and hand them the
+s 32(5)(b) opening.**
+
+## N.15.4 ⛔⛔ WHERE THE "STRANGE SEQUENCE" ACTUALLY BELONGS
+1. ⭐⭐ **THE PID / REPRISAL TRACK** — this is precisely its home. Speed, coordination, subject-manager
+   knowledge, file-building after a disclosure naming management: **that is a reprisal analysis, and
+   it is HELD** (`confirmed-record.md`: reserve, not pleaded, sequenced behind the WC settlement).
+2. ⭐ **DISCLOSURE RELEVANCE** — the pattern is why the HR-routing/PID material is relevant and
+   compellable (N.13.4).
+3. ⛔ **NOT the WC de novo appeal as a motive theory.** There, it is only the neutral documented
+   facts.
+
+## N.15.5 ⭐ THE HUMAN NOTE — SAID PLAINLY
+⭐⭐ **You are not wrong to see the pattern. It is there, and it is reasonable to be disturbed by it.**
+⭐⭐⭐ **The discipline is not to deny what you see — it is to understand that a tribunal decides on
+what can be PROVEN, and the provable version is already very strong.** The suspicion is the fuel that
+made you find the documented facts. **Now let the documented facts carry it, and keep the suspicion
+in the track built to test it.**
+
+## N.15.6 ⇒ AND THE PROPORTION, ONE LAST TIME
+⭐⭐ **All of this is the s 32(5)(a) MANNER case, and it is now very well built.** ⛔ **None of it is
+worth as much as WEDNESDAY'S REPORT, which carries s 32(1) — the gate the whole appeal turns on.**
+**Four days.**
+
+---
+
+# N.16 — THE ON-CALL PROCESS BEFORE SHE CHANGED IT + "I NEED A BREAK FROM HER"
+> 8 August 2026. Cory: *"evaluate what was in place before she changed it — the on-call thing was
+> changed when I was seeking pay on the 1st of May; the process was not the one asserted; and on
+> 'declining to speak with her' — there was a point where I emailed Tammy and said I need a break
+> from her."*
+
+## N.16.1 ⭐⭐ WHAT WAS IN PLACE BEFORE — THE BASELINE (documented)
+**From Cory's 29 Aug 2024 email "Afterhours Oncall Process – Switchboard" (pack 10 p.50) and his
+statement (corpus 1180–1230):**
+- ⭐ **BEFORE 15 April 2024:** the **switchboard** held the **after-hours on-call delegation** — the
+  24-hour rotational **switchboard staff** (including Cory) took and actioned the after-hours calls.
+- ⭐ **The managers were DAY WORKERS.** *"just as the previous manager Sandra Johnstone was a day
+  worker, both Chloe Taylor and Ellen Stibbard are also **Day Workers only**."* On-call was a
+  **switchboard** function, not a day-worker-manager function.
+
+## N.16.2 ⛔ WHAT CHANGED — UNILATERALLY, NO CONSULTATION
+> ⭐⭐⭐ *"On April 15, 2024 with **no consultation** after hours on call delegation was **removed from
+> switchboard** as both Ellen and Chloe **decided effective immediately** it was a necessity that
+> they were on call and was done **without consulting** those who were taking the call and actioning
+> the decision."*
+
+⇒ ⭐⭐ **Two day-worker managers removed an established switchboard function and took it for
+themselves, effective immediately, without consulting the staff who performed it.** ⭐ **That is a
+textbook unassessed unilateral directive — Stressor 1(a), documented and specific.**
+
+## N.16.3 ⭐⭐⭐ WHY IT MATTERS — THE "CALL PROCESS" THEY ASSERT IS THE CHANGED ONE
+**The SOFC (1(f)) and Chloe's account justify the retraction partly on Cory's "on-call
+non-compliance" — i.e. that he breached "the call process" (contact Chloe via switch/office/mobile).**
+⇒ ⭐⭐⭐ **But that "call process" is the RECENTLY, UNILATERALLY CHANGED process — imposed 15 April
+without consultation. Treating "non-compliance" with a freshly, unilaterally imposed process as
+misconduct is not reasonable management action.** ⭐⭐ **The process they assert was not the
+established one; it was the one they had just changed.**
+
+⭐ **And the day-worker point compounds it:** managers who do not work shifts imposed an on-call role
+on themselves — and were then unavailable (the office-hours/clinical-contact failure, N.4/N.16).
+**The same change that took the function also produced the unavailability Cory was raising.**
+
+## N.16.4 ⚠ THE "1 MAY / SEEKING PAY" LINK — PARTLY VERIFIED, PARTLY TO CONFIRM
+- ✅ **The on-call removal is documented as 15 April 2024.**
+- ⚠ **Cory recalls it "when I was seeking pay on the 1st of May."** His pay-seeking IS documented —
+  **8 April** formal pay-review request; the fatigue/pay refusal in the **~1 May** window (the "1 May
+  refusal" in the Factor 4 sequence). ⛔ **CONFIRM: is the "1 May" a SEPARATE process change, or the
+  pay/fatigue refusal coinciding with the on-call change?** ⭐ **Do not assert a 1 May on-call change
+  until located — the documented on-call change is 15 April.** ⚠ **The point still stands: the
+  process changes cluster with the period he was raising pay and fatigue.**
+
+## N.16.5 ⭐⭐⭐ "I EMAILED TAMMY AND SAID I NEED A BREAK FROM HER" — RECASTS THE AVOIDANCE RISK
+**This directly answers the N.11.4 risk (Chloe's "he did not want to speak to me").**
+- ⭐⭐ **If Cory emailed the DIRECTOR (Reese) stating he needed a break from Chloe, then his declining
+  to speak to Chloe is NOT unexplained avoidance — it is consistent with a REASONABLE, DOCUMENTED
+  request to management for relief from contact with a manager he was in conflict with** (and had
+  lodged a PID naming).
+- ⭐⭐⭐ **And it flips the manner point:** management's response to his request for relief was to
+  **direct him to keep contacting her** (the retraction / "call process"). ⇒ **They insisted on the
+  very contact he had asked to be relieved of.**
+
+⛔⛔ **BUT — LOCATE THE EMAIL. I have NOT found the "I need a break from her" email TO TAMMY in the
+repo.** ⭐ I found a *"decided to distance myself from communication with them"* email — but that is
+to **Amy Mo (WorkCover)**, during the claim (corpus 1108), **not to Reese.** ⇒ ⚠ **The email to
+Tammy is currently CORY'S EVIDENCE, not a located document. Find it (his sent items / disclosure)
+before relying on it. If it exists, it is a strong risk-neutraliser; until located, it is testimony.**
+
+## N.16.6 ⛔ DISCIPLINE
+- ⭐⭐ **On-call change → 1(a) unassessed unilateral directive (WC manner). Clean, documentary.**
+- ⭐⭐ **"Asserted process ≠ established process" → rebuts the on-call-non-compliance justification:
+  non-compliance with a unilaterally-changed process cannot found reasonableness.** ⛔ Keep it
+  documentary; do not frame as "they changed it to trap me" (motive).
+- ⚠⚠ **"Break from her" — frame as a REASONABLE REQUEST FOR RELIEF that management refused, NOT as
+  "I couldn't work with her."** ⛔ **The latter is the s 32(5)(b) interpersonal-conflict trap.** ⭐
+  The point is management's RESPONSE (insisting on contact), not his feelings about her.
+- ⛔ **The "distance myself — they contributed to my injury" email is a CLAIM-context account to
+  WorkCover** — fine as his account, but ⚠ it is his perception of causation; do not over-rely on
+  it as proof.

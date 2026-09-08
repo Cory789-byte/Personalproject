@@ -1,0 +1,99 @@
+EMAIL TO QUEENSLAND HEALTH PAYROLL — service, hours and long service leave
+Send Monday 31 August 2026, business hours. ⚠ To PAYROLL. Not Roberts. Not the line manager.
+Cc yourself. Keep the sent record.
+
+⭐⭐ DRAFTING PRINCIPLE FOR THIS EMAIL: ASK FOR THE RECORD, NOT FOR CONFIRMATION OF A PROPOSITION.
+Do not explain why you are asking. Do not name a period you think matters. Do not flag a gap.
+A request for raw data gets answered by a clerk in ten minutes. A request that contains a theory
+gets escalated, considered, and sometimes corrected against you.
+
+---
+
+SUBJECT: Cory Shepherd, employee 388372 — service, hours and long service leave enquiry
+
+Good morning,
+
+I am an AO3 in Switchboard Services, Logan Hospital, employee number 388372. Could you please
+provide the following from my payroll record.
+
+1. SERVICE
+   (a) my commencement date; and
+   (b) my recorded continuous service date.
+
+2. HOURS AND LEAVE CODING
+   (a) my substantive fortnightly hours as recorded today;
+   (b) the fortnightly hours recorded against me for each period from 1 March 2026 to date, with the
+       effective dates of each; and
+   (c) the leave type recorded against each pay period from 3 July 2026 to date, and who applied it.
+       I ask because my pay advice of 12 August 2026 records "NP Sick Leave" for 76 hours, and I did
+       not apply for sick leave.
+
+3. LONG SERVICE LEAVE
+   (a) my current long service leave balance in weeks;
+   (b) the date on which I reached, or will reach, seven years' continuous service for the purposes
+       of clause 22(c) of the Hospital and Health Service General Employees (Queensland Health)
+       Award – State 2015; and
+   (c) the rate at which long service leave would be paid if taken now — that is, whether it is paid
+       at my substantive rate, at my currently recorded hours, or at an average, and if an average,
+       over what period; and
+   (d) whether long service leave for a continuous shift worker is paid at base rate only, or
+       whether shift penalties or an equivalent loading are included.
+
+4. PAY RUN
+   Could you please confirm the payroll cut-off date for the pay of Wednesday 9 September 2026.
+
+5. DEDUCTIONS
+   Could you please advise how I suspend, effective immediately:
+   (a) my salary packaging deduction; and
+   (b) my voluntary superannuation contributions.
+   If you are able to action either directly, please treat this as my request to do so.
+
+6. DOCUMENTS
+   Could you please provide copies of HR Policy C38 — Long Service Leave, and the Ministerial
+   Directive on Long Service Leave, including any minimum period of leave required to be taken at
+   any one time.
+
+Separately, I have today applied to my manager for long service leave and, on its exhaustion, annual
+leave, and have asked that an AVAC be processed. I am asking the questions above so that I
+understand my position and can check that what is processed is correct.
+
+Kind regards,
+Cory Shepherd
+Employee number 388372
+0417 400 227
+coryshepherd1@hotmail.com
+
+---
+⛔ INTERNAL
+
+WHAT CHANGED FROM THE FIRST DRAFT, AND WHY
+1. ⛔ **The October 2024 cessation is OUT.** Cory confirms the reinstatement preserved continuity and
+   he knows it. The earlier wording asked Payroll to "confirm the reinstatement preserved continuity
+   rather than resetting the date" — which RAISES A CESSATION a payroll officer had no reason to
+   think about, and invites a review of a record that is probably already right.
+   ⇒ **Item 1(b) now just asks for the recorded date.** If it comes back as May 2019, nothing more is
+   needed. If it comes back wrong, THEN raise the reinstatement — with the correct answer already in
+   hand.
+2. ⛔ **The reasoning behind the hours question is OUT.** The earlier draft explained the effective
+   periods and said he wanted the record checked "for the periods in between and after" — which
+   points at the 29-day gap (27 April – 24 May 2026) and at the expiry of Form 3 on 28 June 2026.
+   ⚠ **A flagged gap can be "tidied up" retrospectively.** Item 2(b) now asks for the raw schedule of
+   recorded hours and lets the record speak.
+
+WHAT THE ANSWER SHOULD SHOW, IF THE RECORD IS ACCURATE
+| Period | Recorded hours |
+|---|---|
+| 01.03 – 15.03.2026 | 56 |
+| 16.03 – 26.04.2026 | 56 |
+| **27.04 – 24.05.2026** | **76 (no approved variation)** |
+| 25.05 – 28.06.2026 | 40 |
+| **29.06.2026 – to date** | **76 (no approved variation)** |
+
+⭐⭐⭐ **If item 2 comes back showing 76 from 29 June, the wages claim is at full-time rate — ≈250
+hours from 13 July to 28 August — and long service leave should be paid at the substantive rate.**
+⚠ **If it comes back showing 40, that is a discrete payroll error, and it is exactly the class of
+error already pleaded in the appeal.** Either answer is useful. Neither requires him to have argued
+anything.
+
+⛔ STILL TO CONFIRM SEPARATELY: that no fourth movement form exists after 9 June 2026. Attachment 5
+was compiled for a purpose and may not be exhaustive. Item 2(b) will surface it without asking.

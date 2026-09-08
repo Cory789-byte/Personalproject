@@ -1,0 +1,170 @@
+================================================================================
+MONDAY 3 AUGUST 2026 — THE FIVE EMAILS, READY TO PASTE
+Send in this order. Email 0 first. Then 1, 2, 3, 4.
+Each attachment is in  wc2024227/drafts/out/
+================================================================================
+
+
+================================================================================
+EMAIL 0 — ⛔ NOT SENDING (Cory, 3 Aug) — Petering email withdrawn from today's send.
+The four MSH emails go alone. Petering and Moran still receive everything live via
+their Cc on emails 1–3. The appeal-window question (PETERING_URGENT_EMAIL.txt) is
+HELD — raise it with Emily separately when ready; the combined-documents PDF
+(Shepherd_Documents_MSH-INJ-5795_3Aug2026.pdf) is in drafts/out/ if ever wanted.
+================================================================================
+
+
+================================================================================
+EMAIL 1 — THE RESPONSE
+================================================================================
+TO:      LBH.HRTeam1@health.qld.gov.au
+CC:      lbh_InjuryManagement@health.qld.gov.au; Emily Petering; Heath Moran
+SUBJECT: Response — Request for Medical Information, MSH-INJ-5795 [CLM-317073]
+
+(Directed to HR per Cory's instruction 3 Aug. Injury Management stays in Cc so the response is
+received inside their own seven-day window — do not remove them, or MSH can claim non-receipt.)
+ATTACH:  RFMI_Response_and_Allocation_MSH-INJ-5795.pdf        (8pp)
+         PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf              (3pp)
+         NOTICE_Appointments_and_Costs_MSH-INJ-5795.pdf        (2pp)
+
+>>> Body is the full text of  RFMI_RESPONSE_EMAIL.txt  — paste it as it stands.
+
+(The email body already covers all three attachments.)
+
+
+================================================================================
+EMAIL 2 — THE REQUEST   ***THIS ONE STARTS THE 21 DAYS***
+================================================================================
+TO:      LBH.HRTeam1@health.qld.gov.au
+CC:      Emily Petering; Heath Moran
+SUBJECT: Request under clause 10.3.2 — change in the way I work — C Shepherd, MSH-INJ-5795
+
+(Directed to HR only per Cory's instruction 3 Aug — Taylor removed. Receipt by HR starts the
+21 days; HR is the employer for cl 10.3 purposes.)
+ATTACH:  REQUEST_Change_in_the_way_I_work_cl10.3_MSH-INJ-5795.pdf   (5pp)
+
+--------------------------------------------------------------------------------
+Dear Injury Management team,
+
+I attach a request under clause 10.3.2 of the certified agreement for a change in the way I
+work. I have made it as a separate document so that there is no question about what it is or
+when it was received.
+
+The request sets out the change I am asking for and my reasons for it, in the form clause 10.3.3
+requires. I have asked that the decision be made by an officer outside Corporate Services, for
+the reasons at part 4.
+
+I would much prefer this be resolved by discussion and I am available at any time.
+
+Kind regards,
+Cory Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227
+--------------------------------------------------------------------------------
+
+DO NOT mention the 21 days in this email. It is in the document at part 6, quoted from the
+clause. Saying it twice makes it a demand instead of a citation.
+
+
+================================================================================
+EMAIL 3 — THE DISPUTE   ***MUST GO TO CHLOE TAYLOR***
+================================================================================
+TO:      chloe.taylor3@health.qld.gov.au; LBH.HRTeam1@health.qld.gov.au
+CC:      Emily Petering; Heath Moran
+SUBJECT: Notice of dispute — clause 1.11 — attendance, roster, leave and pay from 26 June 2026
+
+(Routing per Cory's instruction 3 Aug: To Taylor AND HR, union in Cc, Injury Management off.)
+ATTACH:  NOTICE_OF_DISPUTE_cl1.11_Stage1.pdf   (4pp)
+
+--------------------------------------------------------------------------------
+Dear Chloe,
+
+I attach a notice of dispute under clause 1.11.2(a) of the certified agreement. It is addressed
+to you as my immediate supervisor because the clause requires that.
+
+I would prefer this resolved at Stage 1 and I am available to discuss it at any time, including
+today. I have asked that a support person and my union representative be present.
+
+I have raised at part 5 a question about who should conduct the Stage 1 discussion. I make no
+allegation against anyone and will attend whichever way the Health Service prefers.
+
+Kind regards,
+Cory Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227
+--------------------------------------------------------------------------------
+
+It must go to Chloe Taylor even though the conflict is raised. Clause 1.11.2(a) requires the
+immediate supervisor to be informed — if she is skipped, the Health Service can say Stage 1
+never started and Stages 2 to 4 never opened. Part 5 of the notice handles the conflict inside
+the same document.
+
+
+================================================================================
+EMAIL 4 — THE CONFLICT   ***TO THE CHIEF EXECUTIVE. NOT HUGHES. NOT TAYLOR. NOT MSH LEGAL.***
+================================================================================
+TO:      MetroSouthCorro@health.qld.gov.au   (Office of the Chief Executive — the published
+         correspondence address; no Cc — directed to her alone)
+         Optionally also: noelle.cridland@health.qld.gov.au — the standard QH address format,
+         NOT verified. If used and it bounces, the Corro address still lands; do not resend.
+SUBJECT: Attention Ms Noelle Cridland, Chief Executive — Conflict of interest and information
+         handling — C Shepherd, MSH-INJ-5795
+ATTACH:  LETTER_Conflict_and_Information_Handling_MSH-INJ-5795.pdf   (4pp)
+         + the four thin enclosures listed at part 8 of that letter:
+           RFMI signature page · question 3 extract · ECC page · the 2 July 2026 email
+         (NOT the forensic packs, NOT the analysis files)
+
+--------------------------------------------------------------------------------
+Dear Ms Cridland,
+
+I attach a letter concerning the decisions being made about my attendance and my return to duty,
+and the handling of my personal information. I would be grateful if your office would bring it
+to your personal attention: it is a disclosure under section 89 of the Public Sector Act 2022,
+which the Act directs to the chief executive.
+
+I have addressed it to you because section 89 of the Public Sector Act 2022 makes the chief
+executive the person to whom a conflict is disclosed, and the only person who may authorise an
+officer to continue to act in a matter affected by one. I do not raise it with you in order to
+escalate it.
+
+I make no allegation against any individual and I ask for no finding to be made about anyone.
+The letter asks five questions and proposes the ordinary separation of functions. If the answers
+show the matter has been dealt with, that will resolve it and I will take it no further.
+
+Kind regards,
+Cory Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227
+--------------------------------------------------------------------------------
+
+
+================================================================================
+BEFORE YOU SEND
+================================================================================
+[x] RESOLVED 2 Aug — no appointment dates needed. The notice now asks MSH to confirm the question
+    set first; on confirmation Cory rebooks BOTH consultations within three business days and
+    advises the dates the day they are made. Backstop: if no confirmation within seven days, he
+    rebooks anyway on his proposed allocation. ⭐ ZERO placeholders remain in the package.
+    DIARISE: their confirmation, or day 7 of silence → rebook regardless.
+
+[x] RESOLVED 1 Aug - no February 2026 complaint is established anywhere in the corpus. Part 5.2
+    now cites the request for review dated 3 October 2025 (its own face date, pack 03 p.345); the
+    Dr Ma note corrected to match. NOTE: that email BOUNCED as spam to both recipients - confirm
+    with Cory whether it was re-sent successfully before anyone claims MSH failed to respond.
+
+[ ] Four separate emails to MSH — not one email with five attachments. Receipt of each starts its
+    own clock, and each document says on its face that it does not answer the others.
+
+
+================================================================================
+AFTER YOU SEND — DIARISE
+================================================================================
+TUE 4 AUG    Stage 1 discussion due (cl 1.11.2(a) — 24 hours)
+FRI 7 AUG    64G mention before Dwyer — volunteer nothing about any of this
+             MSH's seven-day period ends
+MON 10 AUG   Stage 1 ends — YOU must refer it to Stage 2 in writing. It does not self-execute.
+             One line: "The dispute remains unresolved. I refer it to the appropriate management
+             representative under clause 1.11.2(b)."
+MON 17 AUG   Stage 2 ends
+MON 24 AUG   ***cl 10.3.6 decision due. Silence = deemed refusal, IR Act s 29.***
+~8 SEP       AD Act limitation — date it with Petering

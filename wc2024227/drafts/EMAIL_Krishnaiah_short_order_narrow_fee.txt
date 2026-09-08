@@ -1,0 +1,102 @@
+SHORT COVERING EMAIL — send this. The long letter (LETTER_Krishnaiah_order_fee_and_narrowing.txt)
+is the fallback if a formal letter is preferred. Do not send both.
+
+TO:      [practice email — same channel as the 17 August pack]
+CC:      [practice manager, if separately addressed]
+SUBJECT: Mr Cory Shepherd — psychiatric report — Commission order, narrowed scope, and fee
+
+ATTACHED: Further Directions Order (3), QIRC WC/2024/227, sealed 19 August 2026 — 1 page
+
+---
+
+Dear Dr Krishnaiah,
+
+Further to my letter of instruction of 17 August 2026. Three short matters.
+
+1. The Commission has since made an order, attached. Direction 2 requires me to serve any expert
+report I rely on by 4.00pm on Wednesday 9 September 2026. Your report is that report.
+
+2. I have narrowed what I am asking you for. Please answer Matters 1, 2 and 3.1 to 3.3 only — the
+diagnosis, my background and past medical history, the conditions of the work, the rostering and
+administrative sequence, the other factors placed in time, the interval, and your conclusion on
+causation. I am no longer asking you to answer 3.4 to 3.8 in this report; those are the Health
+Service's questions about capacity and adjustments, and I will deal with them separately.
+
+I am also not asking you to answer 1.4 (premorbid personality features), and of 2.4 I ask only
+sub-question (ii) — whether dealing with the consequences of others' administrative errors can
+contribute to the condition — which sits naturally with 2.3.
+
+Everything else in my letter of 17 August stands — the same seven attachments, the schedule of
+assumed facts, and Part D as to form. You do not need anything further from me.
+
+One change to Part D(g). As the report no longer answers the Health Service's request, please do
+not use the title given there. Please style it simply "Psychiatric report concerning Mr Cory Lea
+Shepherd", dated, addressed to no one, identifying me only as the subject. The rest of Part D(g)
+stands — a standalone report rather than a letter to me.
+
+A report of two or three pages answering those questions with your reasons is of more use to me
+than a longer one. I do not need narrative history, a treatment or medication chronology, or any
+restatement of the workplace facts; those are already in the attachments and in your report of
+13 February 2025.
+
+3. I am meeting the cost myself, so the report does not wait on the Health Service or on its
+request of 31 July. Could the practice please tell me the fee for the narrowed report, whether a
+deposit is required and how to pay it, and the likely turnaround.
+
+Could you also confirm you are able to proceed on my instruction. If 9 September is not achievable,
+please tell me before Wednesday 2 September and I will ask the Commission for more time — I would
+much rather do that than have you compress the work.
+
+Two small things on form: please ensure the report does not carry the practice's standard notation
+that it is not prepared for medico-legal purposes, and please date and sign it.
+
+Your opinion is yours alone and I have no view I wish you to reach.
+
+Kind regards,
+Cory Shepherd
+[telephone]
+
+---
+⛔ INTERNAL
+
+ATTACH — ONE DOCUMENT ONLY
+  ✅ Further Directions Order (3), sealed 19 Aug 2026.
+He already holds all seven attachments and the schedule from 17 August. Re-sending 10MB is noise.
+
+⛔⛔ DO NOT ATTACH THE FORM 24 SERVED TODAY (28 Aug — 308 facts, Form 25, Annexure A, Part B).
+Responses fall due 11 SEPTEMBER under r 49 — that is TWO DAYS AFTER the direction 2 deadline.
+Those facts are NOT ADMITTED YET and cannot be reasoned from in a report served on 9 September.
+⭐ The report rests on the FEBRUARY 2026 admissions — the Regulator's response of 18 Feb 2026,
+which he already has as Attachment 1. Nothing about the Form 24 changes. Send nothing on it.
+
+⛔ DO NOT ATTACH
+- Cory's own Form 29 sealed 22 April 2026 — WITHDRAWN 10 Aug 2026. Never re-send a withdrawn notice.
+- The Regulator's Form 29 (sealed 4 Jul 2025) — he already has it as Attachment 6. Refer to it by
+  date if needed. Only re-attach if the practice manager raises the r 64I expenses point, and note
+  r 64I covers producing DOCUMENTS, not writing a report.
+- The dated life-events timeline. Q3.1 asks him to place factors in time "from your own records
+  rather than by assumption" — supplying dates destroys the answer.
+- The 2026 housing loss / exclusion / non-payment. It belonged to 3.4, and 3.4 is now out. Keeping
+  2026 out of the appeal report entirely is the point — it closes the s 32(5)(a) trap.
+- Any new questions, MSH correspondence, or hint of the answer wanted.
+
+THE FOUR ASKS, IN ORDER OF IMPORTANCE
+1. Can you proceed on my instruction? (severs the MSH gate)
+2. Fee, deposit, turnaround.
+3. Ready by 9 Sept — yes or no, told to me by 2 Sept.
+4. Footer off; dated and signed.
+
+EXPECT $1,500-$3,500 for a focused causation report in Qld. Ask, do not assume.
+
+LENGTH — THE HONEST NUMBER
+Ten questions survive after the two further cuts ⇒ ~3 pages. Answering all twelve ⇒ 4-5 pages.
+⛔ Two pages was too low; 1.3 alone has six sub-parts and 2.1-2.3 each ask for a mechanism.
+The three sections that carry it: 1.3 (the 26/10/2022 entry), 2.2+2.3 (admitted facts becoming a
+mechanism), and 3.1 (the factors placed in time — the section the report is judged on).
+Full breakdown: skill/references/REPORT-SHAPE-and-page-budget.md
+
+⛔⛔ THE TITLE. Part D(g) of the 17 Aug letter styles the report as answering MSH's request of
+31 July. With 3.4-3.8 cut that title is false and damaging - it invites the question why an
+employer-requested capacity report is opining on causation. The email now corrects it.
+
+BACKSTOP: no reply by Wed 2 Sept ⇒ email the Registry for an extension of direction 2 anyway.

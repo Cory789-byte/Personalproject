@@ -1,0 +1,1553 @@
+Received: from SY8P300MB0334.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:266::11)
+ by SY9P300MB1547.AUSP300.PROD.OUTLOOK.COM with HTTPS; Tue, 4 Aug 2026
+ 03:35:27 +0000
+ARC-Seal: i=2; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=pass;
+ b=g+BTkMzOaQgXr9E8wLFkJmiD7EH/yO81IJraEICH8Kmnw9EZgjFLOgnuHROnqekRU2lb9Y+HTsGlGuN8Euii7emYkFLf2L3AIkt3hibdnlz2eufghtveva95fwXK/Fn2bGEqJ4eeH36AeJ4mL0enXOkUpwOEJace3mype7Wc2SjkmdwlCJ+hw5t+4UlJnsRnRviEYZB8hxLkVZO4JTHWJQMoeLDuXd833Eaj1dE6gApBAvhDVMn9aIjUYrhoeVdF4pRYTrQSJrup35YuiIJ5VY9w6I0N9WO3XVYflj2Qf13WuRt231h1VarVWwVkhn5xWkinHQcLsNOTKjZbr48hTg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=vKdXlUvGOpOy/iEoBflT0ooFQi4pOjx82sTDVVEGvZg=;
+ b=KKfkJEoUBns4OLsGKJ/8D0YDq9y2VHl0mGBLN0l2/B4+w71rtF66jm27fFeJB3qZmVrgbC1AM5Eorq4eyDqV712qgX+R+GNGzJJqoa8ucWUHBvT/tRdzLxdIXxe6syYUnoq+wsFiayf+0PH9FUbB6eZFqwBr8XkpN8Xp6hUgpYbSsoJoQM17tefgWGvRPLr/dwEdUSA2yAhYSXJrEsTCphBLFMmpX3wvjDrirYQx3eVKVHOkibOH34Z5pgXeKJPGjJbiMUwv+kcvModOAsQjuV0eOgZg0XrlPS0E4Le1DQ3S7U0ZyPdbqAnQhAR3p0+xhuovIBSCApofFmS/Y1afjA==
+ARC-Authentication-Results: i=2; mx.microsoft.com 1; spf=pass (sender ip is
+ 40.107.39.46) smtp.rcpttodomain=hotmail.com smtp.mailfrom=health.qld.gov.au;
+ dmarc=pass (p=reject sp=reject pct=100) action=none
+ header.from=health.qld.gov.au; dkim=pass (signature was verified)
+ header.d=health.qld.gov.au; arc=pass (0 oda=1 ltdi=1
+ spf=[1,1,smtp.mailfrom=health.qld.gov.au]
+ dkim=[1,1,header.d=health.qld.gov.au]
+ dmarc=[1,1,header.from=health.qld.gov.au])
+Received: from DU7P194CA0015.EURP194.PROD.OUTLOOK.COM (2603:10a6:10:553::10)
+ by SY8P300MB0334.AUSP300.PROD.OUTLOOK.COM (2603:10c6:10:266::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.270.18; Tue, 4 Aug
+ 2026 03:35:22 +0000
+Received: from DB1PEPF00039233.eurprd03.prod.outlook.com
+ (2603:10a6:10:553:cafe::ab) by DU7P194CA0015.outlook.office365.com
+ (2603:10a6:10:553::10) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.21.270.18 via Frontend Transport; Tue, 4
+ Aug 2026 03:35:20 +0000
+Authentication-Results: spf=pass (sender IP is 40.107.39.46)
+ smtp.mailfrom=health.qld.gov.au; dkim=pass (signature was verified)
+ header.d=health.qld.gov.au;dmarc=pass action=none
+ header.from=health.qld.gov.au;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of health.qld.gov.au
+ designates 40.107.39.46 as permitted sender) receiver=protection.outlook.com;
+ client-ip=40.107.39.46; helo=SY2PR01CU004.outbound.protection.outlook.com;
+ pr=C
+Received: from SY2PR01CU004.outbound.protection.outlook.com (40.107.39.46) by
+ DB1PEPF00039233.mail.protection.outlook.com (10.167.8.106) with Microsoft
+ SMTP Server (version=TLS1_3, cipher=TLS_AES_256_GCM_SHA384) id 15.21.292.8
+ via Frontend Transport; Tue, 4 Aug 2026 03:35:17 +0000
+X-IncomingTopHeaderMarker: OriginalChecksum:EF64BE519B4F5B983FA6A966708C1666F8DAE6B471A46E0124A966FE3F91C322;UpperCasedChecksum:12BE0195A6EE2F70BA755869EB3515F1F7B3E2FB4EF08EB03729365E47CB14E6;SizeAsReceived:8542;Count:44
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=HjxlCpBGRBxmBNoT4440zU9lHAwlRAFJr8FCrNXD76TxJbcBLbSV6Qewy6ye/9dZrExoz7AXxg5bN6wPVqNZeqplCo5aPm7sDyZtC1fnGRUHXQP96SxBy+khscJ8/7os+u2/AGS2lEYXGGcvD3eO0YSINyrr9I8emfkPH65kdDq7eKFQloooeA45oxV94Dc7ngHX9kLhYS8nitXgkZm3qsd3qzy7KeiN6W013VO+66+/Gp6uqp+NnprMLLubB1daoNvQYI9OJdZw5UgtGB/MdJT2wNvXcLvrMTXMohf20XehhfsFkZf4H0uWOPFzDoOSUUUuHGIoNaDnveEizxtkHg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=vKdXlUvGOpOy/iEoBflT0ooFQi4pOjx82sTDVVEGvZg=;
+ b=Nc9/xqfgGe2O4/0teyn2+3M0yf15iMUX0LoDZti2fWcY/7k0vtTz8BjucNsMdnW2sIrpljIsTnl+uHTZhbrVJm6koAb2aXn6RR33OdaP9uz1R2vJRWFcDmqUugCI9K1FocCJTurPkeO1TWuglqiqGq87gbLww4MRu3uglkdPCMIWtDIkQGnV7ts073lnR/XJvV6E8m1xH6ek+aalXkmtuFY04lS9ILCSfuiqUZRhkKY3qvVRG5eYuAlYVQ6nyPTe6NTyueRVc16RZEMUKTz5KKQ60c/YO+sp6a6IhgrnI4d9QVPER43yMgX7daT3UrzrXraNS6lTzhFOdtUjrNcHGQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=health.qld.gov.au; dmarc=pass action=none
+ header.from=health.qld.gov.au; dkim=pass header.d=health.qld.gov.au; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=health.qld.gov.au;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=vKdXlUvGOpOy/iEoBflT0ooFQi4pOjx82sTDVVEGvZg=;
+ b=Zlw9ZGX+dYuiRxZpzM2b6nA4/nrXhSPS+ACNhXc9dTuhlPfeglAOmGCrN7YLjOaHskvkaNfCxJzVaEAt4VOS7SkzckmVjcTibm5MyyfD50NbNJt9tP61Dg0v6dmJ2DEIpKk6V/LSwtND6YihzkLGqO0nl8IaY6vOrI0jGusIG4dG3aRbMvkYws7KcDZOBbN/DsF7AMT6AFJQGivfekTvIq6kBST8EyosvZD7Z3TFV10b2eFnFLLDFmJER9XtF0nONbWlFHCF2axOvMeNzzXvejfL3Dgaq+5tImHDJKSQzqch+CKfeBcclht6xZz2b+6h8QO/Lzg0qrM4ORmUt1Y1kg==
+Received: from SY3PPF6FE002882.ausprd01.prod.outlook.com (2603:10c6:18::419)
+ by SY2PPFF18BF1211.ausprd01.prod.outlook.com (2603:10c6:18::2ba) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.270.18; Tue, 4 Aug
+ 2026 03:35:11 +0000
+Received: from SY3PPF6FE002882.ausprd01.prod.outlook.com
+ ([fe80::e217:1df7:2c8:245e]) by SY3PPF6FE002882.ausprd01.prod.outlook.com
+ ([fe80::e217:1df7:2c8:245e%5]) with mapi id 15.21.0270.017; Tue, 4 Aug 2026
+ 03:35:11 +0000
+From: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>
+To: Cory Shepherd <coryshepherd1@hotmail.com>, LBH Injury Management
+	<LBH_InjuryManagement@health.qld.gov.au>, LBH_HR <LBH_HR@health.qld.gov.au>
+CC: Heath Moran <heath.moran@together.org.au>
+Subject: =?Windows-1252?Q?RE:_Notice_of_dispute_=97_clause_1.11_=97_attendance,_ro?=
+ =?Windows-1252?Q?ster,_leave_and_pay_from_26_June_2026?=
+Thread-Topic: =?Windows-1252?Q?Notice_of_dispute_=97_clause_1.11_=97_attendance,_roster?=
+ =?Windows-1252?Q?,_leave_and_pay_from_26_June_2026?=
+Thread-Index: AQHdIt+KVB8M4T3Dyke4dpGlZeFzfbaNPSZQ
+Date: Tue, 4 Aug 2026 03:35:11 +0000
+Message-ID: <SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42@SY3PPF6FE002882.ausprd01.prod.outlook.com>
+References: <SY9P300MB154779E583D4D3652F0C6EF0ECD52@SY9P300MB1547.AUSP300.PROD.OUTLOOK.COM>
+In-Reply-To: <SY9P300MB154779E583D4D3652F0C6EF0ECD52@SY9P300MB1547.AUSP300.PROD.OUTLOOK.COM>
+Accept-Language: en-AU, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=health.qld.gov.au;
+x-ms-traffictypediagnostic: SY3PPF6FE002882:EE_|SY2PPFF18BF1211:EE_|DB1PEPF00039233:EE_|SY8P300MB0334:EE_|SY9P300MB1547:EE_
+X-MS-Office365-Filtering-Correlation-Id: 88134e76-6982-457a-0030-08def1d96775
+x-qh-source: Internal
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;ARA:13230040|23010399003|6049299003|1800799024|376014|366016|13003099007|38070700021|4053099003|6133799003|56012099006|10067099003|8096899003|22082099003|18002099003;
+X-Microsoft-Antispam-Message-Info-Original: QKCE+fPep6NPaNPXV1SEaXE0ASfcgTEdVRHP21XHSonpI2riTs7DAK6Xqvc1Puv6tDhmjFYasqZAZFJtKkfgF53/8Q3kfHbaLR+Kaxp9RttCkiMcaurN1qnJ3sqQeD42WrM1YXgVhkObk4YtUGjLbFMlpUZnSYlEOkIeLxnBJOHTASjUwvyRerFtP+Mcm04SpdWf2uVJDovRQwHIO9HmSCfhnuV5JQDjtE3oqiDGRpNMOkbZ7A5ezjd6+/1wydar9GODaOOwH0fYxL9YyZkbUbB2s5jPc5S3EReFfJWUTWXMfMsV3AE7PxAa28hMbOc/Hdg2LWfSFwmbJejDrpHBbuHK1dhlDRGshFxThD/CkVvmHY8g/svrq6jlQqDBmjb+t42qOEV+6tbnqyoCaiz9LMzsD6Dr3Gwvitc0V3/9vDDZDmrT+3+yYH+f7+lM+eK2P0HYQIDf8UjjNFRLQvCK5YCCBQKAqfDkm3FVRvU2DiVA16mnGPcAOxhCGJrSUNlLFmlihHLgeTrVnpWmCVfrE51hsOj+HJl267+noNgFqkhkWwcJWQyc3eywgadxB1v1QTce92CbcwO06kyxwyycr7MZCiGPMk7wz4dp3YIKAGWauMzbxDNVhIuiQvV0te5wg+NF41Ag9bSgBr9QZbWyAM0vtMjd3N30S4TptGGs1vg=
+X-Forefront-Antispam-Report-Untrusted: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SY3PPF6FE002882.ausprd01.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(23010399003)(6049299003)(1800799024)(376014)(366016)(13003099007)(38070700021)(4053099003)(6133799003)(56012099006)(10067099003)(8096899003)(22082099003)(18002099003);DIR:OUT;SFP:1101;
+X-MS-Exchange-AntiSpam-MessageData-Original-ChunkCount: 1
+X-MS-Exchange-AntiSpam-MessageData-Original-0: =?Windows-1252?Q?ds0o9FdJaXvoMtdPlOdkFDG77b16t6ZSBILfaQ+Gl4TTBp6uM/HlkYyR?=
+ =?Windows-1252?Q?48tWTSlU09y/5D752cIW/AS0Df4lOeJ8qa1O2+dyBGLSIXQOWaOvt752?=
+ =?Windows-1252?Q?T5G8o+C0pbmIUxvsHZruMJKXsljPW82cxRzzO0RdM9Zfgo2V2uF3VUXN?=
+ =?Windows-1252?Q?qkopw0EduDb21W2fhvyLxQYjMkOlZx8s2/VjL0qLqtlWSR2zAJiPtapp?=
+ =?Windows-1252?Q?MxWjwG+/HXa2bz6jV50Q/AYfCLDHeemO3P6uAZxQcwiFvm8zWuKgpXmE?=
+ =?Windows-1252?Q?Q6zqQ9Gn5xOsAxd+62eek9l0M1zAfmesIv9/OUfmTBoXrrFAV86spb3D?=
+ =?Windows-1252?Q?BON06LJ1D3Cv/wocgzWMwUreLJikc0cEwFLXmlJcY1L7Kkeir5jTqxJP?=
+ =?Windows-1252?Q?jq5OFaC/VVp7JFuTeApue9s89VYnSURV9+TJX2cOii83Wmzbn0seUg2l?=
+ =?Windows-1252?Q?FPxEovK4XY5UuZ1o4Tt3ZjLCwMJzrGaH7i7na5r9PUc2Po17uRzwIRxU?=
+ =?Windows-1252?Q?t91ZwssxJs50WTasbc0czcTjuR+blSkAM+D7aHTcMNUEOcy6He6WGraA?=
+ =?Windows-1252?Q?+x10Usxx3mpVgbNuXe4P2rPDrBW2Zjhus1X8APxgORE3wgIA09/4cQPh?=
+ =?Windows-1252?Q?sgv1S/Z9EBzUQYDFz2JuqRoUtwDjOBeMJTt0mUT/iKs0p4lH2YZ32fpr?=
+ =?Windows-1252?Q?A4orgDQ3eFMJR+sm294AvRbc4Jodg4mUzBo9ocy5m0k4tmEUbd3ekq9l?=
+ =?Windows-1252?Q?RVH7jHmwVYPTBMsPaSoEMAK8uo+nfWdUYKwznbns1BjBc8UXwiQYysUI?=
+ =?Windows-1252?Q?8RLkuclvKp1TMW9QO0OAMb9cR+NqlhpP9QrMzVxXMIVn5OkqspXxmtC2?=
+ =?Windows-1252?Q?xx8h/RN4OSbNDquLy8+75F/gBQ4RmskLtqyjJLMqy16uh4kb9wR8opD1?=
+ =?Windows-1252?Q?kxx0KJexwVN7/uuCiXH35Jql7C5bvdZcReevPmZlRvsTMoejdae6LALe?=
+ =?Windows-1252?Q?tGTWH5VWYgTZRF/kTU7g4yRiptV+5KMd4Ac0hLXMVGAppYX1xEfq51r0?=
+ =?Windows-1252?Q?pBia/ZJ3SakXmJQHCfmeyPz98Wi8L2fXpA5p8qDQRYdb672Fj/2t8wYk?=
+ =?Windows-1252?Q?s6fLkCHgW725tEWsMHONUg1JTYqQ3xLkW3rwiLhtdg40Rj/QnG7Oq2tf?=
+ =?Windows-1252?Q?SZgLyT8elGKNM/EUhfl7u2cgtEKIKxk9X0L2a2/WuyMSQM+VaH05sy9E?=
+ =?Windows-1252?Q?nmZzsuE20g+URCdjF5jJfo+j8jDk0RFuqD7PJljmOCY3/pQgyx3Qw9kx?=
+ =?Windows-1252?Q?uWe1tfwZbD3i5mVcNH31zko/jDGqzAbC1Kdcj6mBQ8tcFrlx2oLxXbs5?=
+ =?Windows-1252?Q?oEZRNwztrplA8p2xLnn+9v9E7C2MKJu/zUQB7zmb9SiptY84UuG/2n73?=
+ =?Windows-1252?Q?GXlEN0Zmsxo4bzjjt1XMjY28MtoA7YyvgCHa+l4ra5NlyJXWQToPHYQ9?=
+ =?Windows-1252?Q?yYf99IamaDGxRV5WzTJJRr0TqDFM92SrwKgGpybpqNu4+k2TjwREzeLd?=
+ =?Windows-1252?Q?SlXZO5UOOO9N/p4rTTlLovmcOEqR1audMTfQeqIBf8aoEZkeS4skanua?=
+ =?Windows-1252?Q?jwILtcArdR0lqVU1jUpOY7q6WQVsvUcykUQl4flVQN8PnQW4uwa5J6Av?=
+ =?Windows-1252?Q?LFLTvOMdfEgrFv4Og+lDi3jYZH64DNYbhhk/ilpYboE3WTL4RNDlfPly?=
+ =?Windows-1252?Q?X3uEK6+lSi07otbGMLaMz5FXMBs7+N7g43+RE8aG3W9ATE0d6TaC4TQH?=
+ =?Windows-1252?Q?RukyRyEylmXcXolqxaLRHnGFvk8j8X2YNB/bdpsHp/7haYG/Tk3DvQ77?=
+ =?Windows-1252?Q?lu15HDHTYpSOV/2KKX0zawW1iQHZsLHUi8o=3D?=
+Content-Type: multipart/related;
+	boundary="_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_";
+	type="multipart/alternative"
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY2PPFF18BF1211
+X-IncomingHeaderCount: 44
+Return-Path: Chloe.Taylor3@health.qld.gov.au
+X-MS-Exchange-Organization-ExpirationStartTime: 04 Aug 2026 03:35:17.9107
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 88134e76-6982-457a-0030-08def1d96775
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: DB1PEPF00039233.eurprd03.prod.outlook.com
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted: DB1PEPF00039233.eurprd03.prod.outlook.com
+X-MS-PublicTrafficType: Email
+X-MS-Exchange-Organization-AuthSource: DB1PEPF00039233.eurprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 8/4/2026 3:29:12 AM
+X-MS-Office365-Filtering-Correlation-Id-Prvs: c8e3166d-222e-4cc6-4f6f-08def1d96382
+X-Sender-IP: 40.107.39.46
+X-MS-Exchange-EOPDirect: true
+X-SID-PRA: CHLOE.TAYLOR3@HEALTH.QLD.GOV.AU
+X-SID-Result: PASS
+X-MS-Exchange-AtpMessageProperties: SA|SL
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;ARA:1444111002|6120799021|11020799012|3069299007|20103052905119|20103052907095|9400799043|10300799038|4039299003|32060799003|6092099016|67000799015|50300799015|1602099012|5090599003|30041999003|2607281247196008|56899033|1360799030|1380799030|1370799030|3412199025|4302099013|440099028;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Aug 2026 03:35:17.3442
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 88134e76-6982-457a-0030-08def1d96775
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource: DB1PEPF00039233.eurprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SY8P300MB0334
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:09.6721220
+X-MS-Exchange-Processed-By-BccFoldering: 15.21.0270.016
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:1;dest:I;OFR:SpamFilterPass;ENG:(5062000311)(920221119095)(90000117)(920221120095)(90013020)(91025020)(91040095)(9050020)(9065024)(9100341)(1010050)(944500132)(4810010)(4910033)(9920006)(9510006)(10105021)(9320005)(9230038)(120001)(1110175);
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MTtHRD0xO1NDTD0tMQ==
+X-Microsoft-Antispam-Message-Info:
+	=?Windows-1252?Q?Gnq0yjKTRIWS79n0iceDzpgbLyAeItro8yK5v/LFihTmtyq9UON0wrAD?=
+ =?Windows-1252?Q?0PjSedtR3ejPj/DtKSSpzqzqiQLS6KA6Rv5Cyq6jjXgmK1Sa4E3icQkd?=
+ =?Windows-1252?Q?v/Od+ypGSHfnbhGiHU99K//Y8FwPRJB9pLNqCsaaNe1BY2jLUZeFEjyn?=
+ =?Windows-1252?Q?YxITAqZBdiqk2oe4DlEJTPvX498IWxTcVh/0/OSnq8swSUh9CUPpjR85?=
+ =?Windows-1252?Q?ONVhqFp86/g4LzIlVlvePwb7oBwGS0Ly/01GkbmXH07i9pbMxIifXCEs?=
+ =?Windows-1252?Q?hLFcBxb2mRQ2X6qFgMZVfNyweiu+SrNksNR1q63yAUCoLWy0FMAsF3Hh?=
+ =?Windows-1252?Q?ainB/itQAnvhx2T0gieMppy6+/OvUajmblZLyFh3K5KBU+E4W/d4yZwK?=
+ =?Windows-1252?Q?j6ws1hbFUhI4XrNmEaCp5Uimr6HKlLlfITmBhQiX1M/mCRMvYNdbSJso?=
+ =?Windows-1252?Q?fI1QHchpUhilqLmtXVqnl59PopL2VmewEzRdHXQ9vtycuyFMVs2xaW6w?=
+ =?Windows-1252?Q?vuC6EDj1j2JJ/eAh1cyaod2t5JXnKX24XtX7Bne0WSyYpR+KBT9QHegh?=
+ =?Windows-1252?Q?xqF14bSKCq9gOxqR4mGQJ/7MLNGNOCK9IcBTupzbDXhFYLLDNaAxabrT?=
+ =?Windows-1252?Q?FHYj8Ns1m8lGk/FOJ3dTwcGkhRD2aZRcKNQkFpyQRFL0ly8dOI/3TtRD?=
+ =?Windows-1252?Q?NU5bjpyQqvxdu53yna1HcbxuNx6cejGsiXbq6J5Vi8mawco6E44f1oZ0?=
+ =?Windows-1252?Q?Yzy2JqW/8mpmnlYWTH4YKWE9OzN6DxKClLsnrGWJhLyffQ7mVuyqcZSZ?=
+ =?Windows-1252?Q?znvCM7MZXiLDfo06sVxlxmpBGnmOfzttd6DAhwHggZ6FvlD1y1GoUW66?=
+ =?Windows-1252?Q?LvGeowupaXAEzODewmeXh3lYmtAzMcFrA2EhlCOEw82ykKWqmzjSs0go?=
+ =?Windows-1252?Q?OfAmTSwH/s2RBt0wn9ifL4Wbe8IBL62fl7e5tz82S0wVyMupBMRQXD1n?=
+ =?Windows-1252?Q?oYPBAsTGWIzyoLScGUfaCOvh0sNaKDfRuMeoaQMHFcpfW3z2ZdwZMACr?=
+ =?Windows-1252?Q?/u3CpRuQt5YvlGqAzWew1LL2uiG8HrYdl36f9X8ib7ct7zcg2Hku4sT1?=
+ =?Windows-1252?Q?jsJw9chmUcioAnfj2P5lERdoJD82G6WaR+Uew9wIT/1oJ1a5fjsZIoAr?=
+ =?Windows-1252?Q?HulbxvWF+e86fSQLMMj2SaaQbLr4w6PumewgOfHXrthAaVUn1FozhybY?=
+ =?Windows-1252?Q?MPz/qGwkLHG1V4vUOlmf6+aBvMNaaehypyu5KRruigUjmW9ARGsNXvQC?=
+ =?Windows-1252?Q?4E5n4kdyPEz4rCcf5AISCO60o9WJno5f+N6kWXelrgdeZ8NzUqvTc9Dv?=
+ =?Windows-1252?Q?49dQbjU8IMPb4hdUVpUBLvQvwheZ6cbRONZeN5pFamtF9hvASg3gtDXJ?=
+ =?Windows-1252?Q?VX6PjzOiFZfzSShSaoRQ6trKQizkO+Zwq9Mj7tVgBNy+zlj/jVs5h4MH?=
+ =?Windows-1252?Q?iCTp0Oh5UANW86bVWQB4HsqFB0R9vM3H8xGw7l2GDGoFwgdCO8ToLzqw?=
+ =?Windows-1252?Q?ymM6VO3R3NjMF5iDqDnvpeduy2Becq31HVyYNsoT3jCFmI9rbDezKpBX?=
+ =?Windows-1252?Q?zCfMbNWjqmSoi4qjKUykau5tRBu5gy3CksPsSsV8naPFMtN3nnhU7oWQ?=
+ =?Windows-1252?Q?Ar3raYNu0bExbkGDtivwacdQ7+mNlRHxCz//RgF4EEnuIcTv1ju+I5Qp?=
+ =?Windows-1252?Q?E/Yc/Kb/wVMc6ejCadHvU8eo5OT6EMC/7vZQx/IHWw71QKUTR/C4JHzy?=
+ =?Windows-1252?Q?f8wnrqFqNwlzHE2tftu7XY4Bvnird83djX7qTtw8dW6es337fzaqYixN?=
+ =?Windows-1252?Q?0WXEyeUED21dm+v7ECl/dD0rCS/S6O2hZqjTa8VNRU/wlJuqE/d1Pt06?=
+ =?Windows-1252?Q?w5zzxCZIV53C8p6Z/+u1OTUOGSxYqqxTNHOVprQIyiXq4JMyyKZxBQCb?=
+ =?Windows-1252?Q?Ea3C39XYvkBzzl5deukzNUgLg1Zzp4gVrjIbW5cep8y6JWuoW5/4lpT3?=
+ =?Windows-1252?Q?vbfz0wa5yadV9MfXXOsUmEHtvNXQPUVQ1j989bLoEvbrIBehmuC4zc11?=
+ =?Windows-1252?Q?D0Z/M35LBlhJogZba5Wc26Bnuvx5bRkA5fQaI8j1zrOScienhtfz2X15?=
+ =?Windows-1252?Q?oTyYy3eNGWCLQp+NP8251uSrDqjHPxyb+1OZnoD6UB6dVrdlrXBQ0aRI?=
+ =?Windows-1252?Q?ndXdayRecvx9bxMdERtW++Wa+0w+C/lASnub2gJ4Puee77BOT090eBv5?=
+ =?Windows-1252?Q?40LlzmNFS/Tuv3NJrZyJ1rx/7GXxA8ctjJ7R7kwtMgQyd8kCwNfFAeWD?=
+ =?Windows-1252?Q?qXdM4dOMTm1V0AeT9bpNK1kCUn51gmlNx+MwMEayvphnH+qJr8Z60Q43?=
+ =?Windows-1252?Q?Uc6KgEGJFmMfwFlu/ykVLIK+kk3MsbODcFYmcatD3NZ4rCWVgETPx1vq?=
+ =?Windows-1252?Q?3HfVBMu+qFW5z9v3nsw1mJHXxHqf6ZdzRdemIH7R78+kWV5thkWN4Nyf?=
+ =?Windows-1252?Q?Hwmz7JUYhRlwbHZc?=
+MIME-Version: 1.0
+
+--_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: multipart/alternative;
+	boundary="_000_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_"
+
+--_000_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Cory
+
+I am writing in response to your Stage 1 Dispute dated 3 August 2026, in wh=
+ich you disagree with the decision that has prevented you from attending yo=
+ur rostered shifts since 3 July 2026. Your dispute has been lodged in accor=
+dance with clause 1.11.2(a) of the Queensland Public Health Sector Certifie=
+d Agreement (No. 12) 2025 (EB12).
+
+I wish to acknowledge that clause 1.11.2(a) of EB12 requires that Stage 1 d=
+iscussions should be conducted within 24 hours. This letter confirms that y=
+our dispute has been received and is currently under review. While every ef=
+fort has been made to progress this matter promptly, the 24-hour timeframe =
+specified in the clause will not be achieved. Upon completion of the review=
+, you will be contacted as soon as practicable to discuss the outcome of yo=
+ur dispute and any appropriate next steps. You will also be provided with a=
+n opportunity to raise any questions and discuss the matter further as requ=
+ired.
+
+Please be advised that I am required to process leave on your behalf for th=
+e period 20 July 2026 to 2 August 2026. As at today's date, you have a rema=
+ining recreation leave balance of 41.21 hours. Could you please advise whet=
+her you would like this recreation leave balance applied to this period? If=
+ so, the remaining hours within the fortnight would be recorded as sick lea=
+ve without pay. I acknowledge that your dispute includes concerns regarding=
+ your leave entitlements. However, pending resolution of the dispute, it is=
+ necessary that your absence continues to be managed through the appropriat=
+e leave arrangements.
+
+As the payroll cut-off for PP04 is today, I would appreciate your response =
+as soon as possible. If I do not receive a response before payroll processi=
+ng occurs, I will apply your remaining recreation leave balance to ensure y=
+ou receive the available paid leave entitlement for this period.
+
+Employee Assistance
+I understand this may be a difficult time for you. Should you wish to seek =
+further support, the Employee Assistance Program, provided through TELUS He=
+alth on 1800 604 640, is available free of charge for all employees of Metr=
+o South Health. This service is a confidential counselling and support serv=
+ice.
+
+Should you wish to access this service, please contact TELUS Health on 1800=
+ 604 640 or for Aboriginal and Torres Strait Islander support, please conta=
+ct 1800 816 152.
+
+More information about the support TELUS Health can provide can be found ou=
+t their website https://app.one.telushealth.com/ or by downloading the free=
+ TELUS Health One app. You can log on to both using the following credentia=
+ls:
+
+Username:      mshhs
+Password:       mshhs
+
+Kind regards,
+Chloe
+
+
+Chloe Taylor
+Switchboard Manager | Local Telecommunications Representative | Switchboard=
+ Services
+Logan Hospital | Metro South | Queensland Health
+P
+(07) 2891 9190<tel:(07)%202891%209190>
+E
+chloe.taylor3@health.qld.gov.au<mailto:chloe.taylor3@health.qld.gov.au>
+W
+www.health.qld.gov.au<https://www.health.qld.gov.au/>
+A
+Level 2, Building 1, Cnr Loganlea and Armstrong Roads QLD 4131
+T
+Call me on Teams<https://teams.microsoft.com/l/call/0/0?users=3Dchloe.taylo=
+r3@health.qld.gov.au>
+[Delivering for Queensland]
+[Facebook]<https://www.facebook.com/QLDHealth/>
+[LinkedIn]<https://www.linkedin.com/company/queensland-health>
+[YouTube]<https://www.youtube.com/user/HealthierQueensland>
+[Instagram]<https://www.instagram.com/qldhealth/>
+Queensland Health acknowledges the Traditional Custodians of the land acros=
+s Queensland, and pays respect to First Nations Elders past and present.
+
+
+
+
+From: Cory Shepherd <coryshepherd1@hotmail.com>
+Sent: Monday, 3 August 2026 11:38 AM
+To: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>; LBH Injury Management <=
+LBH_InjuryManagement@health.qld.gov.au>; LBH_HR <LBH_HR@health.qld.gov.au>
+Cc: Heath Moran <heath.moran@together.org.au>
+Subject: Notice of dispute =97 clause 1.11 =97 attendance, roster, leave an=
+d pay from 26 June 2026
+
+
+This email originated from outside Queensland Health. DO NOT click on any l=
+inks or open attachments unless you recognise the sender and know the conte=
+nt is safe.
+
+________________________________
+Dear Chloe,
+
+I attach a notice of dispute under clause 1.11.2(a) of the certified agreem=
+ent. It is addressed to you as my immediate supervisor because the clause r=
+equires that.
+
+I would prefer this resolved at Stage 1 and I am available to discuss it at=
+ any time, including today. I have asked that a support person and my union=
+ representative be present.
+
+I have raised at part 5 a question about who should conduct the Stage 1 dis=
+cussion. I make no allegation against anyone and will attend whichever way =
+the Health Service prefers.
+
+Kind regards,
+Cory Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227
+
+
+
+
+
+
+***************************************************************************=
+*******
+
+Disclaimer: This email and any attachments may contain legally privileged o=
+r confidential information and may be protected by copyright. You must not =
+use or disclose them other than for the purposes for which they were suppli=
+ed. The privilege or confidentiality attached to this message and attachmen=
+ts is not waived by reason of mistaken delivery to you. If you are not the =
+intended recipient, you must not use, disclose, retain, forward or reproduc=
+e this message or any attachments. If you receive this message in error, pl=
+ease notify the sender by return email or telephone and destroy and delete =
+all copies. Unless stated otherwise, this email represents only the views o=
+f the sender and not the views of the Queensland Government.
+
+Queensland Health carries out monitoring, scanning and blocking of emails a=
+nd attachments sent from or to addresses within Queensland Health for the p=
+urposes of operating, protecting, maintaining and ensuring appropriate use =
+of its computer network.
+
+***************************************************************************=
+*******
+
+--_000_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252"><meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium=
+)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"EN-AU" link=3D"#467886" vlink=3D"#96607D" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US">Hi Cory<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US">I am writing in response=
+ to your Stage 1 Dispute dated 3 August 2026, in which you disagree with th=
+e decision that has prevented you from attending
+ your rostered shifts since 3 July 2026. Your dispute has been lodged in ac=
+cordance with clause 1.11.2(a) of the
+<i>Queensland Public Health Sector Certified Agreement (No. 12) 2025</i> (<=
+b>EB12</b>).<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US">I wish to acknowledge th=
+at clause 1.11.2(a) of EB12 requires that Stage 1 discussions should be con=
+ducted within 24 hours. This letter confirms that
+ your dispute has been received and is currently under review. While every =
+effort has been made to progress this matter promptly, the 24-hour timefram=
+e specified in the clause will not be achieved. Upon completion of the revi=
+ew, you will be contacted as soon
+ as practicable to discuss the outcome of your dispute and any appropriate =
+next steps. You will also be provided with an opportunity to raise any ques=
+tions and discuss the matter further as required.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US">Please be advised that I=
+ am required to process leave on your behalf for the period 20 July 2026 to=
+ 2 August 2026. As at today's date, you have a
+ remaining recreation leave balance of <b>41.21 hours</b>. Could you please=
+ advise whether you would like this recreation leave balance applied to thi=
+s period? If so, the remaining hours within the fortnight would be recorded=
+ as sick leave without pay. I acknowledge
+ that your dispute includes concerns regarding your leave entitlements. How=
+ever, pending resolution of the dispute, it is necessary that your absence =
+continues to be managed through the appropriate leave arrangements.<o:p></o=
+:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US">As the payroll cut-off f=
+or PP04 is today, I would appreciate your response as soon as possible. If =
+I do not receive a response before payroll processing
+ occurs, I will apply your remaining recreation leave balance to ensure you=
+ receive the available paid leave entitlement for this period.<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span>=
+</p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:11.0pt;font-family:&quot=
+;Calibri&quot;,sans-serif;mso-fareast-language:EN-US">Employee Assistance<o=
+:p></o:p></span></i></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif">I understand this may be a difficult time for you. =
+Should you wish to seek further support, the Employee Assistance Program, p=
+rovided through TELUS Health on 1800 604 640,
+ is available free of charge for all employees of Metro South Health. This =
+service is a confidential counselling and support service.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif">Should you wish to access this service, please cont=
+act TELUS Health on 1800 604 640 or for Aboriginal and Torres Strait Island=
+er support, please contact 1800 816 152.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif">More information about the support TELUS Health can=
+ provide can be found out their website
+<a href=3D"https://aus01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2=
+F%2Fapp.one.telushealth.com%2F&amp;data=3D05%7C02%7C%7C88134e766982457a0030=
+08def1d96775%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C63921411327451592=
+2%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiO=
+iJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3DbhTYO7=
+fn3liIDI3MPiCKn8OVGhQ9Hg1i4cQy9m295hA%3D&amp;reserved=3D0" originalsrc=3D"h=
+ttps://app.one.telushealth.com/"><span style=3D"color:#467886">https://app.=
+one.telushealth.com/</span></a> or by downloading the free TELUS Health One=
+ app. You can log on to both using the following credentials:
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif">Username: &nbsp;&nbsp;&nbsp;&nbsp; mshhs
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif">Password:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mshhs=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-ligatures:standardcontextual"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-ligatures:standardcontextual">Kind regards,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;font-family:&quot;Ca=
+libri&quot;,sans-serif;mso-ligatures:standardcontextual">Chloe
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;mso-fareast-language=
+:EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"700" style=3D"width:525.0pt;background:white;border-collaps=
+e:collapse">
+<tbody>
+<tr>
+<td style=3D"padding:0cm 0cm 7.5pt 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><b><span style=3D"font-=
+family:&quot;Arial&quot;,sans-serif;color:#003E7D">Chloe Taylor</span></b><=
+span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;colo=
+r:#444444"><br>
+</span><b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans=
+-serif;color:#005EB0">Switchboard Manager | Local Telecommunications Repres=
+entative | Switchboard Services</span></b><span style=3D"font-size:9.0pt;fo=
+nt-family:&quot;Arial&quot;,sans-serif;color:#444444"><br>
+Logan Hospital | Metro South | Queensland Health<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0cm 0cm 0cm 0cm">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"20" style=3D"width:15.0pt;padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><b><span style=3D"font-=
+size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#04284C">P</span>=
+</b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:#444444"><o:p></o:p></span></p>
+</td>
+<td width=3D"100" style=3D"width:75.0pt;padding:0cm 11.25pt 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444"><a href=3D"=
+tel:(07)%202891%209190"><span style=3D"color:#444444">(07) 2891 9190</span>=
+</a><o:p></o:p></span></p>
+</td>
+<td width=3D"20" style=3D"width:15.0pt;padding:0cm 0cm 0cm 0cm"></td>
+<td style=3D"padding:0cm 0cm 0cm 0cm"></td>
+</tr>
+<tr>
+<td style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><b><span style=3D"font-=
+size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#04284C">E</span>=
+</b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:#444444"><o:p></o:p></span></p>
+</td>
+<td colspan=3D"3" style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444"><a href=3D"=
+mailto:chloe.taylor3@health.qld.gov.au"><span style=3D"color:#444444">chloe=
+.taylor3@health.qld.gov.au</span></a><o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><b><span style=3D"font-=
+size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#04284C">W</span>=
+</b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:#444444"><o:p></o:p></span></p>
+</td>
+<td colspan=3D"3" style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444"><a href=3D"=
+https://aus01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fwww.hea=
+lth.qld.gov.au%2F&amp;data=3D05%7C02%7C%7C88134e766982457a003008def1d96775%=
+7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C639214113274566750%7CUnknown%7=
+CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIk=
+FOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3DjV6yqm47ftuHt96ptv7=
+mgGTgyiru%2FnPIvhmqsbTclLo%3D&amp;reserved=3D0" originalsrc=3D"https://www.=
+health.qld.gov.au/"><span style=3D"color:#444444">www.health.qld.gov.au</sp=
+an></a><o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><b><span style=3D"font-=
+size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#04284C">A</span>=
+</b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:#444444"><o:p></o:p></span></p>
+</td>
+<td colspan=3D"3" style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444">Level 2, Bu=
+ilding 1, Cnr Loganlea and Armstrong Roads QLD 4131<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><b><span style=3D"font-=
+size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#04284C">T</span>=
+</b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif=
+;color:#444444"><o:p></o:p></span></p>
+</td>
+<td colspan=3D"3" style=3D"padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444"><a href=3D"=
+https://aus01.safelinks.protection.outlook.com/?url=3Dhttps%3A%2F%2Fteams.m=
+icrosoft.com%2Fl%2Fcall%2F0%2F0%3Fusers%3Dchloe.taylor3%40health.qld.gov.au=
+&amp;data=3D05%7C02%7C%7C88134e766982457a003008def1d96775%7C84df9e7fe9f640a=
+fb435aaaaaaaaaaaa%7C1%7C0%7C639214113274586624%7CUnknown%7CTWFpbGZsb3d8eyJF=
+bXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIld=
+UIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3Dix1WXgR9G74RZiyaLHB9TXu5a%2FOMOScyc8=
+sZJmPm1Nw%3D&amp;reserved=3D0" originalsrc=3D"https://teams.microsoft.com/l=
+/call/0/0?users=3Dchloe.taylor3@health.qld.gov.au"><span style=3D"color:#44=
+4444">Call me on Teams</span></a><o:p></o:p></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:7.5pt 0cm 7.5pt 0cm">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" style=3D"width:100.0%;border-collapse:collapse">
+<tbody>
+<tr>
+<td width=3D"520" style=3D"width:390.0pt;padding:0cm 0cm 0cm 0cm">
+<p class=3D"MsoNormal"><img border=3D"0" width=3D"339" height=3D"55" style=
+=3D"width:3.5312in;height:.5729in" id=3D"Picture_x0020_9" src=3D"cid:image0=
+01.png@01DD2415.BC0B1920" alt=3D"Delivering for Queensland"><o:p></o:p></p>
+</td>
+<td style=3D"padding:15.0pt 0cm 0cm 0cm">
+<div align=3D"right">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr>
+<td style=3D"padding:0cm 6.0pt 0cm 0cm">
+<p class=3D"MsoNormal"><a href=3D"https://aus01.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fwww.facebook.com%2FQLDHealth%2F&amp;data=3D05%7C=
+02%7C%7C88134e766982457a003008def1d96775%7C84df9e7fe9f640afb435aaaaaaaaaaaa=
+%7C1%7C0%7C639214113274603685%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRyd=
+WUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0=
+%7C%7C%7C&amp;sdata=3DEQvU3ldjB%2BJTQQ0kzFb2r%2F4BSm2vLrWb90%2FxFv8B0qc%3D&=
+amp;reserved=3D0" originalsrc=3D"https://www.facebook.com/QLDHealth/"><span=
+ style=3D"color:#105CB6;text-decoration:none"><img border=3D"0" width=3D"24=
+" height=3D"24" style=3D"width:.25in;height:.25in" id=3D"Picture_x0020_8" s=
+rc=3D"cid:image002.png@01DD2415.BC0B1920" alt=3D"Facebook"></span></a><o:p>=
+</o:p></p>
+</td>
+<td style=3D"padding:0cm 6.0pt 0cm 0cm">
+<p class=3D"MsoNormal"><a href=3D"https://aus01.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fqueensland-health&a=
+mp;data=3D05%7C02%7C%7C88134e766982457a003008def1d96775%7C84df9e7fe9f640afb=
+435aaaaaaaaaaaa%7C1%7C0%7C639214113274619976%7CUnknown%7CTWFpbGZsb3d8eyJFbX=
+B0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUI=
+joyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3D4DMJtKKei8Y%2Bqd9ElTmfoqtYTRl%2FYE7MVT=
+7P0SbNIaw%3D&amp;reserved=3D0" originalsrc=3D"https://www.linkedin.com/comp=
+any/queensland-health"><span style=3D"color:#105CB6;text-decoration:none"><=
+img border=3D"0" width=3D"24" height=3D"24" style=3D"width:.25in;height:.25=
+in" id=3D"Picture_x0020_7" src=3D"cid:image003.png@01DD2415.BC0B1920" alt=
+=3D"LinkedIn"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0cm 6.0pt 0cm 0cm">
+<p class=3D"MsoNormal"><a href=3D"https://aus01.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fwww.youtube.com%2Fuser%2FHealthierQueensland&amp=
+;data=3D05%7C02%7C%7C88134e766982457a003008def1d96775%7C84df9e7fe9f640afb43=
+5aaaaaaaaaaaa%7C1%7C0%7C639214113274635491%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0=
+eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjo=
+yfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=3DCEs9CBhLwkPiRbT7LKTQVn6spZy3kmBZcaRQPuDY=
+Vy0%3D&amp;reserved=3D0" originalsrc=3D"https://www.youtube.com/user/Health=
+ierQueensland"><span style=3D"color:#105CB6;text-decoration:none"><img bord=
+er=3D"0" width=3D"24" height=3D"24" style=3D"width:.25in;height:.25in" id=
+=3D"Picture_x0020_6" src=3D"cid:image004.png@01DD2415.BC0B1920" alt=3D"YouT=
+ube"></span></a><o:p></o:p></p>
+</td>
+<td style=3D"padding:0cm 6.0pt 0cm 0cm">
+<p class=3D"MsoNormal"><a href=3D"https://aus01.safelinks.protection.outloo=
+k.com/?url=3Dhttps%3A%2F%2Fwww.instagram.com%2Fqldhealth%2F&amp;data=3D05%7=
+C02%7C%7C88134e766982457a003008def1d96775%7C84df9e7fe9f640afb435aaaaaaaaaaa=
+a%7C1%7C0%7C639214113274655563%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRy=
+dWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C=
+0%7C%7C%7C&amp;sdata=3D39OVJ8VbkCsnE27tJZFjqKJRBUd6TGABTOoX7CvnWGI%3D&amp;r=
+eserved=3D0" originalsrc=3D"https://www.instagram.com/qldhealth/"><span sty=
+le=3D"color:#105CB6;text-decoration:none"><img border=3D"0" width=3D"24" he=
+ight=3D"24" style=3D"width:.25in;height:.25in" id=3D"Picture_x0020_5" src=
+=3D"cid:image005.png@01DD2415.BC0B1920" alt=3D"Instagram"></span></a><o:p><=
+/o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:7.5pt 0cm 7.5pt 0cm">
+<p class=3D"MsoNormal" style=3D"line-height:15.0pt"><span style=3D"font-siz=
+e:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#444444">Queensland =
+Health acknowledges the Traditional Custodians of the land across Queenslan=
+d, and pays respect to First Nations Elders past
+ and present.<o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0cm 0cm 0cm 0cm">
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse">
+<tbody>
+<tr>
+<td style=3D"padding:0cm 0cm 0cm 0cm"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"mso-ligatures:standardcontextual"><o:=
+p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt"><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;mso-fareast-language=
+:EN-US"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:11.0pt;mso-fareast-language=
+:EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm =
+0cm 0cm">
+<p class=3D"MsoNormal"><b><span lang=3D"EN-US" style=3D"font-size:11.0pt;fo=
+nt-family:&quot;Calibri&quot;,sans-serif">From:</span></b><span lang=3D"EN-=
+US" style=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"> =
+Cory Shepherd &lt;coryshepherd1@hotmail.com&gt;
+<br>
+<b>Sent:</b> Monday, 3 August 2026 11:38 AM<br>
+<b>To:</b> Chloe Taylor &lt;Chloe.Taylor3@health.qld.gov.au&gt;; LBH Injury=
+ Management &lt;LBH_InjuryManagement@health.qld.gov.au&gt;; LBH_HR &lt;LBH_=
+HR@health.qld.gov.au&gt;<br>
+<b>Cc:</b> Heath Moran &lt;heath.moran@together.org.au&gt;<br>
+<b>Subject:</b> Notice of dispute =97 clause 1.11 =97 attendance, roster, l=
+eave and pay from 26 June 2026<o:p></o:p></span></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p><b><span style=3D"font-size:10.0pt;font-family:&quot;Arial&quot;,sans-se=
+rif;color:red">This email originated from outside&nbsp;Queensland Health. D=
+O NOT click&nbsp;on any links or open attachments unless you recognise the =
+sender and know the content is safe.</span></b><o:p></o:p></p>
+<div class=3D"MsoNormal" align=3D"center" style=3D"text-align:center">
+<hr size=3D"2" width=3D"100%" align=3D"center">
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">Dear Chloe,<o:p></o:p></=
+span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">I attach a notice of dis=
+pute under clause 1.11.2(a) of the certified agreement. It is addressed to =
+you as my immediate supervisor because the clause requires that.<o:p></o:p>=
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">I would prefer this reso=
+lved at Stage 1 and I am available to discuss it at any time, including tod=
+ay. I have asked that a support person and my union representative be prese=
+nt.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">I have raised at part 5 =
+a question about who should conduct the Stage 1 discussion. I make no alleg=
+ation against anyone and will attend whichever way the Health Service prefe=
+rs.<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black"><o:p>&nbsp;</o:p></span>=
+</p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">Kind regards,<o:p></o:p>=
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">Cory Shepherd<o:p></o:p>=
+</span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">AO3, Switchboard Service=
+s, Logan Hospital<o:p></o:p></span></p>
+</div>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:black">0417 400 227<o:p></o:p><=
+/span></p>
+</div>
+<div id=3D"ms-outlook-mobile-body-separator-line">
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#212121"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+</div>
+</div>
+<p class=3D"3D&quot;MsoNormal&quot;"><span style=3D"3D&quot;font-size:7.0pt=
+;color:#1F497D;mso-far" east-language:EN-AU?=3D""><o:p>&nbsp;</o:p></span><=
+/p>
+<p class=3D"3D&quot;MsoNormal&quot;"><o:p>&nbsp;</o:p></p>
+<div></div>
+<p>************************************************************************=
+**********</p>
+<p>Disclaimer: This email and any attachments may contain legally privilege=
+d or confidential information and may be protected by copyright. You must n=
+ot use or disclose them other than for the purposes for which they were sup=
+plied. The privilege or confidentiality
+ attached to this message and attachments is not waived by reason of mistak=
+en delivery to you. If you are not the intended recipient, you must not use=
+, disclose, retain, forward or reproduce this message or any attachments. I=
+f you receive this message in error,
+ please notify the sender by return email or telephone and destroy and dele=
+te all copies. Unless stated otherwise, this email represents only the view=
+s of the sender and not the views of the Queensland Government.
+</p>
+<p>Queensland Health carries out monitoring, scanning and blocking of email=
+s and attachments sent from or to addresses within Queensland Health for th=
+e purposes of operating, protecting, maintaining and ensuring appropriate u=
+se of its computer network.
+</p>
+<p>************************************************************************=
+**********</p>
+</body>
+</html>
+
+--_000_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_--
+
+--_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=33853;
+	creation-date="Tue, 04 Aug 2026 03:35:10 GMT";
+	modification-date="Tue, 04 Aug 2026 03:35:10 GMT"
+Content-ID: <image001.png@01DD2415.BC0B1920>
+Content-Transfer-Encoding: base64
+
+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
+
+--_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: image/png; name="image002.png"
+Content-Description: image002.png
+Content-Disposition: inline; filename="image002.png"; size=605;
+	creation-date="Tue, 04 Aug 2026 03:35:10 GMT";
+	modification-date="Tue, 04 Aug 2026 03:35:10 GMT"
+Content-ID: <image002.png@01DD2415.BC0B1920>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsSAAALEgHS3X78AAAC
+D0lEQVRIic2XPWzTQBiGn1hVpDoVsSIhZSqeW9F2ykYVsdCltEPDbBZmGJjxwkIGGNhriQl5cSSG
+TCiCDkhd4gEmhjRTVaSqrloPWcJwVxNfSnxOi8W72ffzfPf33Xul8XhMlsyWZwG7QBPYANaVKiHQ
+B3pAEPvOWVafpVlgs+XZgCuh1cwIhSIgANzYdwa5wWbLey6husDrAnBj33mnBZbT6gE7cwJVdQBH
+nf4UWEJ7TK/hTRUCzUm4oVTw8kKrlTKbq3Xu3V2aVW1d9p0oGbFc07e6wO3GMm2nwbIC3HK7fPl+
+/LdmL67W3JBQG7GRtKEfXz6cgmrIlaxkql1y7N6208gLvFJVsigt7u1bwEAXvGbX+NZ+nPr36XDI
+h95PossR4eCU6HI0q4sIsBfIlxywKuXU93k84smbz7rNkaxdA5EG51Y4OJ2nWdNA5N6itVFa3NvP
+vCXW7Brtp2JDWWaZ+3YtKTuPR6lRP3t/wNGvi0zygk54VqXMg5X6tWV3zHSZDhSmM9eNNNSE3jpY
+d7QgznGfHPl5c7VO191Kvr/+OObRq26uAIHQQDiHotU3ENdg0eoZCJsSFQiNgMCQl3NQIDiIfeds
+8nYqYtSRZInjJN2gWwA4cZ7JOZbOoPMPoZ1Jx6mmTIcMs3d0csFr/88JHJ5oJY1Q9p3o/7C3SgDF
+GnoFblP0E0YJ4NYfbb8BUgzSThGkVJMAAAAASUVORK5CYII=
+
+--_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: image/png; name="image003.png"
+Content-Description: image003.png
+Content-Disposition: inline; filename="image003.png"; size=666;
+	creation-date="Tue, 04 Aug 2026 03:35:10 GMT";
+	modification-date="Tue, 04 Aug 2026 03:35:10 GMT"
+Content-ID: <image003.png@01DD2415.BC0B1920>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsSAAALEgHS3X78AAAC
+TElEQVRIic2XPW/aUBSGn1iIgaASIVFlKgxIraga+AGN5E6p2iEsMKWS56RDO2RKpPoftHOXWMro
+DLBlROmWCYjSKVJJJ1QkhCvwwEIH39yaG/MRTFHfhSv7cJ9z7sc5x2uj0YhZipWsDaAI6EAByCsm
+DaAO1ICKaxu9WXOuTQPHSlYGMAU0MdNDTw5QAUzXNloPBsdK1gcBnRcY5IDp2saXucBiWS1gd0Gg
+qipgqMs/BhbQGvf3MKwagO6Ha4qB9Q+giDkt/wMJFns6tryJ9Sjv3+Y4KhdIp+Jh4buCAYilFqe3
+jnKQvh68ZE/PAvCz0+fZ/llYuAMUXNto3UVsqlCA9OO/UT4JHzGCYQJovuRwT81WV46vfOOQKsZK
+1kaEKcnh8OSS5o8uifUop7WbZYETQDGClwYDlU7Fue30oeONmwPPiXwmKW0urtu807NsP9/EcYfc
+/upzWrvBGQynwfUIXu4N1N6rLEcl7/W37212Pp2TzyQ5N19Lm6tWlxc+RwCOywWe7p9Ngxc0Qt5b
+FQrwKBbluDwxHoB8JAwU4Lc7lPt/8CYnn28FOORXaPDhyaUEb2WSbOc2AeTvJKkp88Fq+K7ZxXV7
+7v9peAl8YTUXu98NDS9Vrlp1Da8Mrlo1Da9NcVYIdYCKJopzZYXgimsbvallMZ2KywrVGwxptoJT
+ZpC9+k5IlkXZ+ogi/Xl5gQXq413zp/ZcFZbX5KmqurYhy6+aQAxC3usJaoi5pcbA4qDpeC3pslRF
+6TDhf2roFXiGVX/CKA4s/aPtDyEL8AxBndshAAAAAElFTkSuQmCC
+
+--_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: image/png; name="image004.png"
+Content-Description: image004.png
+Content-Disposition: inline; filename="image004.png"; size=634;
+	creation-date="Tue, 04 Aug 2026 03:35:10 GMT";
+	modification-date="Tue, 04 Aug 2026 03:35:10 GMT"
+Content-ID: <image004.png@01DD2415.BC0B1920>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsSAAALEgHS3X78AAAC
+LElEQVRIic2XMYzSYBTHfzQXEoGEyyU4HqyaXI5FJgcmc4kmxyCufg4u6uBye2dZHHRysM51gEST
+i4NhuOlcICTOhdEm5JpwHVhw6Hek/WzpRwH1v/X19f2+vu/re6+5xWJBmgptax9oAU2gDhwrLkNg
+APSBrm+Lq7SYuVXgQtuqAaaEllNXGMgDuoDp28JZG1xoW68lVBcYtwDTt8VbLbBMqwWcZgSq6gFC
+TX8ELKF9/tzDTTUEmmG4oThYO4AiY1phwxIs93Rb6Y3TqWQAMtXy9A7IfpB05QF13xbOnjSYKrRc
+zPPh5X3KxTzVSonDSkkr8sSdMXZneNdznr+/wLueR8JKlsjdevxxH3DC4HIxzzfzhKPaQcYXCzRy
+pjwwz1W4B9QMYopDRzQ2hgIc1Q7oiIZqLgMtg6AMRlS9rZdWHSXEahoEtTfqnLKfX35M9MHxseoG
+Md9t2kF69/Und1581lpAQqxjtYBoa+zOePLmOyfmOSNnuvbzmcGbai/dJV7VSonOswaP7h1mBg9R
+9nnizlbu86uHd7WBE3cWZx4aBKUyonG881LrvGVCrIFB0Aajzr9Wg9dRQqy+QTCmeGHrmXWZ6aSq
+GjlTzqxL1ewB3ZvuZAFPw3ezNomRM+XKnyc1CYBPvi3EP2uLBoCcBs0dQyE0eaozV5fdTSE93xat
+mwu1cgmC73rbGsrYS0XAcgpsEoyk21IPZcKE/2mgV+A1/vYvjLKArf+0/QaNCu7L2mhARQAAAABJ
+RU5ErkJggg==
+
+--_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_
+Content-Type: image/png; name="image005.png"
+Content-Description: image005.png
+Content-Disposition: inline; filename="image005.png"; size=870;
+	creation-date="Tue, 04 Aug 2026 03:35:10 GMT";
+	modification-date="Tue, 04 Aug 2026 03:35:10 GMT"
+Content-ID: <image005.png@01DD2415.BC0B1920>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsSAAALEgHS3X78AAAD
+GElEQVRIic1XP0waURz+JBcGuBRjco3TwcCEUVnQRc3FwTQptS7QRdNz6qBDO+DicjMOdaBDu3hJ
+O8mCFBPTgRDbSRbRyNSB3mQkIWLwBhY63OPl3uNOrtX++aa79373+37/37uRXq+HYQik9FEAKwAU
+AHEA05xIDcApgAqAgplXr4fpHLmLOJDSIwA0QhoaaqGFNoACAM3Mq41fJg6k9NeE1CuhkwGamVd3
+PRGTsOoAnv8mIY8DACoffoaYkFYwmMP7ogZAsZP7OAH9D5CC6NTtC9RjktO3/BdhScRmMoapyBhd
+m4+NMzJf65f0+azRQq5Ux49mx8mAN/2cj/R6vX71noIrpDUlivcbc979Irgxu8jsneBj5Tu/1QYQ
+N/NqQyALGk8alkRKet5oIZ0tu3nBfLOdjmOVGHx8ccl/EyJcqs82HBhsJmOUdEk7GkoaCvqxsz6D
+3GEdn4infR0cVgIpfVSAy3Do5zSdLaN922UIlhMy5MciAMC46qBYNbAwMY5kQgYAZPZOsKpEmbrg
+vF4RYI1BV9g9nYqMYX9rEbIkMjLbzQ7S2TJe7JRxfHHJGOoCRYA1ewcwGvCzZgb9lLRUNZA7rCMU
+9GNNiSKZkLG/tYjZTJEh5XXYEPfBpW8nuTAtJ2RKms5ann0+sZ5LVQOyJGKZhNpNhw3T/ABxRT+n
+Di2C3GGdkfECz8R9OOUvFHQN6f2JjSuryDafDrbImhJlZLwS15w2zhst5r1YNWA0O7SQns3IWJgY
+x/7WIpIJGUbTaqu7dNhQE2CNyoECuzbZkLZvu0hny5QoaSskg7QTnwZehw2nAqxj8KWbRFgSaS+f
+NVqYzRQdB4idNCwNLbKKAOuasgtuep01WpiPWaFc0o6o4vZt17Gy7dhOx6kOB7QBFHzkcC7wu7mS
+1SKTkTF80Z548QJhScSHjTmsKlHcmF2qg0PBzKvXQ4/FnfUZPHKfQK549e7bncfiv70I9BFI6QU8
+3CWPx4GZV+nxyw8QFS59fU/UiG4KhpgUmgLrSvpQOAB3wwT+pws9Rx7B3/6F4Qx48J+2n36ZgLZF
+PhMgAAAAAElFTkSuQmCC
+
+--_008_SY3PPF6FE002882E78DF4DF4BCEA938ACDFB6D42SY3PPF6FE002882_--

@@ -1,0 +1,93 @@
+STAGE 2 REFERRAL — DRAFT SKELETON. Built 4 Aug 2026 evening, finalise Mon 10 Aug morning.
+[SLOTS] absorb Wed–Fri events. ⛔ Do not send before Monday unless Stage 1 formally fails
+earlier. Route: To LBH_HR (asking routing to the appropriate management representative),
+Cc Taylor, Injury Management, Moran, Petering. Attach: the dispute notice (3 Aug), the
+Stage 1 response (4 Aug, v9 PDF), Taylor's letter (4 Aug).
+==============================================================================
+Subject: Referral to Stage 2 — clause 1.11.2(b) — attendance, roster, leave and pay from
+26 June 2026
+
+Dear Human Resources team,
+
+I refer the dispute lodged on 3 August 2026 to Stage 2 under clause 1.11.2(b) of EB12,
+and I ask that it be routed to the appropriate management representative, who under the
+clause shall arrange a conference of the parties. Given the matters set out in my letter
+to the Chief Executive of 3 August, I ask that the representative be an officer
+independent of the matters in dispute.
+
+1  Why the referral is made
+
+Stage 1 has concluded unresolved. The record is short:
+
+1.1  The dispute was acknowledged as validly lodged on 4 August ("Your dispute has been
+     lodged in accordance with clause 1.11.2(a)").
+1.2  The 24-hour discussion did not occur; the Health Service's letter of 4 August states
+     "the 24-hour timeframe specified in the clause will not be achieved."
+1.3  The discussion foreshadowed in that letter ("You will also be provided with an
+     opportunity to... discuss the matter further") did not occur. [SLOT: adjust if a
+     discussion happened — record its date and what was and was not answered.]
+1.4  My letter of 4 August set out five facts and invited correction; none has been
+     corrected. It asked seven questions so the correct arrangement could be applied;
+     [SLOT: none / only questions X] have been answered.
+1.5  [SLOT: leave applied without consent on payroll processing of ~5 Aug — state what
+     was debited and that it was reserved, without consent, subject to re-credit.]
+1.6  [SLOT: any response to the special leave request under Directive 12/24 — or its
+     absence.]
+
+2  What the conference needs to resolve
+
+2.1  The instrument question: what decision prevents my attendance since 26 June 2026,
+     made by whom, on what date, under what power. (Asked 3 August, 4 August, and in
+     earlier correspondence; unanswered.)
+2.2  Pay and leave: wages from 26 June; re-credit of all leave debited; the coding of the
+     absence (special leave with pay under Directive 12/24 was proposed on 4 August);
+     cessation of further debits per clause 1.11.4 (status quo: before 26 June I was
+     rostered, working and paid).
+2.3  Return to work: my proposal of 3 August stands; the Employee Capabilities Checklist
+     of 3 July certifies me fit with restrictions; the checklist's stated purpose — "to
+     facilitate a Return to Work Plan" — remains unperformed: no Return to Work Plan
+     exists.
+2.4  The position communicated to my insurer: on 4 August my income protection insurer
+     recorded, on information from the Health Service, that the Health Service is
+     "currently unable to accommodate a graduated return to work". I have not been given
+     that position directly. My letter of 4 August offered a simple resolution — recall
+     the position, correct the record, re-credit the leave and arrange my return — or,
+     if it is maintained, provide it to me from its maker with reasons. [SLOT: their
+     response / silence.]
+2.5  The psychosocial assessment of the work area, requested 3 August, under the
+     consultation the WHS Act requires.
+
+3  Delegate status
+[SLOT — include once the union's written notification to MSH has been sent:]
+For completeness, I note that I hold office as a delegate of Together Queensland, as the
+union confirmed to the Health Service on [date]. Clause 3.1.5 provides that the delegate
+role "is to be formally recognised, accepted and supported to participate effectively in
+consultative structures, perform a representative role, and further the effective
+operation of grievance and dispute settlement procedures." I therefore ask that this
+Stage 2 process be conducted consistently with that clause: that my role be recognised in
+the conduct of the procedure, and that the conference be arranged so that the procedure
+the clause protects can operate effectively.
+
+4  Arrangements
+
+Clause 1.11.2(b) provides the management representative shall arrange a conference, and
+that the process should not extend beyond seven days — that is, by Monday 17 August. I am
+available at any time, with my support person and union representative present, and I ask
+that whoever attends for the Health Service have authority to resolve the matters at 2.1
+to 2.5, and that the answers to the seven questions of 4 August be available at the
+conference. I will provide anything further required the same day it is requested.
+
+I remain ready, willing and able to work, and my object in this referral is unchanged:
+to return to work, paid, under the certified restrictions, with the matters above
+resolved in the ordinary way.
+
+Yours sincerely,
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227 · coryshepherd1@hotmail.com
+==============================================================================
+FINALISATION CHECKLIST (Mon 10 Aug morning)
+□ Fill slots 1.3–1.6, 2.4 from the week's events    □ Delegate ¶ only if union notice sent
+□ Verify every date against source PDFs             □ Sweeps: forbidden terms, placeholders
+□ Build as PDF (house style), scrub metadata        □ Same-day filing of the sent copy
+□ Cover email: two lines                            □ Log Stage 2 clock: conference by 17 Aug

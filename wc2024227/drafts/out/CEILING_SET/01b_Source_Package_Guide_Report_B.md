@@ -1,0 +1,113 @@
+# WHAT TO GIVE THE PSYCHIATRIST — the source package
+### A practical hand-over guide for the consultation with Dr Krishnaiah, Wed 12 August 2026 · WC/2024/227
+
+**The governing idea, read this first.** There are two witnesses and two jobs. **You** prove what happened at work — the role, the load, the roster, the break, the complaints, the responses. **Dr Krishnaiah** opines on those facts *as assumed facts*. The single most important sentence Report B must contain is: *"I am instructed to assume the facts set out in the statement of Mr Shepherd dated [date], and in the documents listed at [schedule]."* Everything in this package exists to make that sentence possible. If the workplace story lives only inside the doctor's report, it is hearsay, it is attacked there, and his opinion falls with it. So the package has a strict division: **the statement carries the facts; the documents corroborate them; the doctor supplies only the medicine.**
+
+Two words to hold the whole package to: the legal test is whether employment was **"a significant contributing factor"** — never "major", never "the main cause". Employment need not be the only or even the main cause; competing causes need not be outweighed. Say it to the doctor exactly that way, because stating it correctly is not leading and misstating it is.
+
+---
+
+## PART 1 — THE SIGNED STATEMENT (the spine of the whole package)
+
+**What it is:** your own account, first person, in your own words, dated and signed at the end (*"I make this statement believing its contents to be true"*). Not a submission, not argument — a witness statement of fact. This is the document the doctor is instructed to assume, and the one you will later verify on oath. It must be **complete on the workplace facts on its own**, so that nothing about the workplace has to be sourced from the doctor's memory of what you told him in the room.
+
+**Why it exists:** so the doctor never becomes a fact-finder. When cross-examined, he answers *"I was instructed to assume Mr Shepherd's account; the facts are his evidence, the opinion is mine."* That is unbreakable. A doctor who has absorbed disputed workplace facts as his own findings is a witness to events he never saw — and that is the exact vulnerability this structure removes.
+
+**What it must contain — in this order, each as plain narrated fact:**
+
+1. **The role and its demands.** AO3 Switchboard operator, Logan Hospital, Metro South HHS. That the role coordinates **Code Blue / MET (medical emergency) calls** — a life-safety function; that the Role Description requires *continuous shift work across the full 24-hour period, 7 days a week*. The volume you personally handled (your own figure — the corpus records ~200–300 calls per shift in the Form 20 and a higher load profile elsewhere; **use the number you can stand behind as the operator, and be consistent with your Form 20**). That **Monday is the peak shift** — weekend backlog, clinics resuming, admissions and elective lists restarting — and why. *Proves: the demand–control–support conditions the doctor reasons from, and that this was not an ordinary desk role. Criticality of the function is already admitted (Form 24 ¶8), so it is assumed fact, not contest.*
+
+2. **The load, in your first-hand words.** What a shift actually involved — routing, emergency pathology, doctor-to-doctor urgent, hospital-to-hospital, the codes. *Proves: sustained high demand with low control — the mechanism the doctor opines on. This is knowledge only you have, as the person who ran it.*
+
+3. **The roster and the 17–18 March 2024 break.** Rostered shift Sunday 17 March ending 23:00; rostered to recommence Monday 18 March at 06:00 — **a 7-hour gap**, less again after your established commute; roughly 4 hours' sleep; then straight into the peak Monday shift in the emergency-coordination role. *Proves: the keystone stressor. The 7-hour break is admitted by everyone (Form 24 ¶1; SOFC ¶22(a) — "a 7-hour break rather than an 8-hour break… human error"). Your ~4 hours' sleep rests on your evidence alone, so it must be in the statement to exist at all.*
+
+4. **The fatigue request, the denial, and your own leave.** That you raised it; that on 1 May 2024 fatigue payment was refused on a 17 June 2020 agreement you signed as a casual, and you were told only then that you could have terminated that agreement at any time; and that **your own accrued personal leave funded the recovery** (19 March 2024). ⚠ **Be exact about sequence here** — pin down whether your own leave on 19 March was taken *before* the 1 May refusal (which it was, by six weeks) and write it as *"I absorbed the cost from my own leave, then asked to be made good, and was refused"* — not *"they required me to exhaust my leave."* The loose version is what a cross-examiner opens with. *Proves: financial insecurity as a recognised stressor, and that the employer's own rule produced the harm by subtraction.*
+
+5. **The directives and the non-consultation.** The changes to the Switchboard's processes made without consulting you (e.g. the 9 May 2024 MASPER change to call-handling), and the retraction direction of 15 May 2024. State factually what was directed and that you were not consulted. *Proves: responsibility imposed, means to discharge it withheld — the pleaded mechanism.* ⛔ **Describe the conduct and its effect. Do not label it "bullying" or "harassment", and do not say you "perceived" it as unjust** (that opens the unpleaded s 32(5)(b) perception limb). The case is **a course of management conduct** — describe the conduct, not your interpretation of the actors' motives.
+
+6. **The complaints of 8 April, 9 April, 24 April and 1 May 2024, and the responses.** What you wrote on 8 April (the shift pairing and the Award's minimum-break provision, which you cited yourself); the 9 April escalation "to Human Resources to confirm policies"; your 24 April chase recording "more than two weeks without any response"; the 1 May refusal. *Proves: two things at once. (a) The stressor — a rostering-safety question answered with a payroll answer and never resolved. (b) The earliest dated, self-authored, employer-received trace of the injury forming — material that sits inside the September-2024 gap the Regulator relies on.* Give the **dates and what you wrote and what you were experiencing and how you were sleeping** — facts only. Whether any of it means anything clinically is the doctor's question, not yours to assert.
+
+7. **Onset, and how it felt.** Onset is **18 June 2024** — hold that line exactly. Describe the state you were in by then. ⛔ **Never let the framing drift to "I was injured in April."** The April–May fatigue material is the condition *developing* inside the pleaded course; **"developing" is not "onset."** Moving the onset date would be a serious amendment and must not be invited.
+
+8. **The continued working.** That you kept working a life-safety role through the period and presented to a GP late (first seen 1 July 2024, certificate 8 September 2024). State the fact of continuing; do not explain it away. *Proves the raw fact; the clinical significance of late presentation in high-responsibility roles is an observation for the doctor to make, not an excuse for you to offer.*
+
+9. **The return-to-work struggle.** That you returned to work on 24 February 2025 — 11 days after Dr Krishnaiah's "complete incapacity" note — because your **income had been restored, not because you had recovered**, and that you *struggled even to get there*. Describe the difficulty attending. *Proves: the return was employment-driven, not recovery-driven — which converts A4's "complete incapacity" from a failed prediction into evidence of ongoing impact.* ⚠ **Frame current incapacity as a consequence of the exclusion and its handling, and your capacity as capacity for the role with adjustments** — consistent with the 3 July 2026 ECC (fit with adjustments). Do **not** describe yourself as inherently unfit for any work; that would contradict your own employment position and undermine the pay claim.
+
+**One discipline that governs the whole statement:** it is a statement about **decisions and a system**, not about people's states of mind. No "pattern", no "disregard", no "again", no "as usual", no motive. The dates do that work.
+
+---
+
+## PART 2 — THE DOCUMENTS BUNDLE (the corroboration, listed and scheduled)
+
+Hand these as a **numbered schedule** — because the sources list is the single most-attacked part of any report, and *"you were not given X"* is the first cross-examination question. A short list is a vulnerability; a complete, itemised list is armour. Each item below is an **assumed fact** the doctor relies on — he does not weigh it, he opines on it.
+
+1. **A one-page dated chronology.** Baseline (16 Nov 2023) → exposure (2023–June 2024) → complaints (April–May 2024) → onset (18 June 2024) → GP (1 Jul / 8 Sep 2024) → diagnosis (24 Oct 2024) → 2025–2026. *Function: gives the doctor the temporal spine so his reasoning tracks a sequence, not a grievance, and so competing causes can be placed in time.*
+
+2. **The Amended Form 9A (operative pleaded stressors, 7/8 April 2026).** *Function: this tells the doctor what the pleaded case actually is — a course of management conduct — so his opinion maps onto the pleaded stressors and not onto "bullying/harassment" (A4's wrong framing). A report that opines on a different complaint from the one before the Commission is attacked for exactly that.*
+
+3. **The Form 24 admitted-facts extract.** Pull the admissions the doctor can reason from with zero risk: ¶1 (rostered, 7-hour break), ¶8 (criticality of the function), ¶40–41 (delay in handling the claim). *Function: these are conceded by the Regulator. It lets him reason from admitted ground rather than contested ground.* ⛔ **Do not, in this extract, flag the ¶37 "contents of Review Decision 69983 admitted" line as a fact for the doctor to reason from** — an admission that the decision's *contents* are as stated is not an admission that causation is established, and pointing the doctor at it invites exactly the "instructed" attack (see item 4).
+
+4. **⛔ Do NOT hand the doctor the Review Decision's conclusions as facts to reason from.** The delegate's findings — that the 17–18 March rostering *"amounted to unreasonable management action"* and that *"I am satisfied your employment was a significant contributing factor"*, and Dr Hawes recorded *"no pre-existing factor or condition"* / *"work events were the sole cause"* — are powerful, but their place is **the hearing and the settlement**: your own submissions and the Calderbank. They must **not** enter the psychiatrist's report as assumed facts or reasoning ground. Three independent red-team passes converge on this as the single biggest risk in the whole instruction: if the doctor is shown a decision that already found causation, and his sources list records that he read it, the Regulator says his causation opinion merely rubber-stamped a conclusion handed to him — and *a report that reads as instructed is worth less than none.* The de novo appeal also strips the finding of any binding status (the decision under appeal rejected the claim; s 558(1)(c); relevance reserved at Form 24 ¶37). **What the doctor reasons from is the admitted 7-hour break and the documented sequence — not the delegate's conclusions.** Keep Review Decision 69983 in your hearing/settlement toolkit, out of the report bundle. If any part of it must be provided at all for completeness of the record, provide it expressly *not* as a fact to assume and *not* as determinative of causation. *(The "pre-existing history" attack is answered instead by giving the doctor the actual GP records at item overleaf and letting him reason through the 26 Oct 2022 entries himself — a far stronger answer than a delegate's recital.)*
+
+5. **The roster / timesheet for 17–18 March 2024** — and, if obtained, **the MET call spreadsheet** for those dates (MSH has confirmed in writing, ref K-LM26/729, that it "is available"). *Function: puts the shift pairing and the code volume beyond your own say-so — the one document that puts a number on the Monday.*
+
+6. **The payroll / fatigue correspondence chain — as the actual emails.** The 8 April, 9 April, 24 April and 1 May 2024 emails, and the 3 May / 13 May / 21 May loop. ⭐ **Give the primary emails themselves, not the Review Decision's recitation of them** (per item 4, RD 69983 stays out of the bundle). *Function: contemporaneous, employer-received, self-authored material from the exposure period — proves the complaints existed and were answered as they were, without you having to be believed.*
+
+7. **The work capacity certificates (WCCs).** Dr Hawes (8 Sep 2024; claim S23LW142013; mechanism recorded; psychiatrist referral) and Dr Ma's 3 July 2026 ECC (**fit with adjustments; "exacerbated on exposure"**). *Function: continuity of the medical record from onset to now, and — critically — the ECC fixes the capacity language the report must stay consistent with (fit with adjustments), so Report B does not accidentally sink the pay claim.*
+
+8. **Exhibit A4 — Dr Krishnaiah's own QSuper report (13 Feb 2025).** Give him his own prior work. *Function: two reasons. (a) He builds Report B on his own contemporaneous diagnosis, severity and mechanism findings — which pre-date the pleading and are strong. (b) A4 is in the Regulator's hands and contains material Report B must address head-on and reason through, not ignore: the competing causes it names (relationship breakdown, job loss, bereavement), the "restarting Vyvanse" line, and the "perceives as unjust" sentence. He needs to see it to deal with it.*
+
+*(Deliberately NOT in this bundle — see Part 4.)*
+
+---
+
+## PART 3 — THE MEDICAL HISTORY TO DISCLOSE (fully, in time, nothing hidden)
+
+The principle here is candour with structure. The doctor will ask about relationships, finances, health, family and legal matters; he should, and an IME will ask the same and will notice if the first report has no answers. A competing stressor that is **named and placed in time** is far less damaging than one that surfaces later.
+
+1. **The 26 October 2022 anxiety / ADHD entries.** Disclose them — do not let the doctor discover them cold. *Function: three things. (a) Candour, which protects the whole report's credibility. (b) It lets the doctor reason about the aggravation route — s 32(3)(b): an aggravation of a pre-existing condition is itself an injury where employment is a significant contributing factor to the aggravation. (c) It lets him address the entries clinically rather than being met with them in cross-examination.* ⛔ The Regulator has already pleaded these (Form 24 ¶32/¶35). A report that names and weighs them is very strong; a report that omits them is worthless in cross.
+
+2. **The 16 November 2023 baseline entry** (Exhibit A5 — *"no psychological illness such as depression/psychosis"*). *Function: the clean-baseline anchor immediately before the exposure period; the entry being listed is admitted (Form 24 ¶34).*
+
+3. **The Vyvanse history.** A4 records *"restarting Vyvanse"* — disclose the prior use frankly so the doctor can address it, rather than leaving "restarting" to imply a concealed ADHD history from inside your own expert's report. *Function: closes the inference the Regulator will otherwise draw from A4 unaided.*
+
+4. **The premorbid personality material.** The A4 line — detail-oriented, perfectionistic, conscientious, *"can become consumed by issues he perceives as unjust"* — should be **raised with the doctor, not to retract it** (a doctor who retracts under instruction is finished as a witness) **but so Report B reasons about premorbid traits properly** and that one line is not left as the only clinical word on your personality. *Function: premorbid conscientiousness is not a disqualifier; a diagnosed MDD with an identified stressor is not displaced by traits — but it has to be reasoned, not ignored. The "perceives as unjust" phrase is s 32(5)(b) in your own expert's words, and the Regulator holds it.*
+
+5. **The competing life stressors, placed IN TIME.** A4 names relationship breakdown, job loss and bereavement. Give the doctor the **dates**, so the temporal picture is complete:
+   - **Job loss** = the dismissal in about October 2024 — **after** the 18 June 2024 onset, and the employer's own act (later reversed). It cannot be a competing non-work cause of a June 2024 injury. (⚠ the exact cessation date is itself in tension in the record — the deed reads 20 Sep, Form 20 ¶43 reads 8 Oct; say "about October 2024" until it is pinned, and note nothing turns on which, since both post-date onset.)
+   - **The separation / relationship breakdown** — later still (post-dates onset). A stressor that post-dates the injury cannot have caused it; it can bear only on later *course*, not on causation.
+   - **Bereavement** — placed on the timeline by date.
+   
+   *Function: completeness (so no IME can ambush the report), and the temporal structure itself does the defensive work — the later stressors post-date onset and are irrelevant to causation at 18 June 2024, leaving employment a significant contributor at onset.*
+   
+   ⚠ **Discipline on this item:** give the doctor only the **temporal structure** — that the named stressors sit at different points in time. **The personal / DFV detail is sensitive (R-11) and is your instruction to give, not something to volunteer** — decide with your representative what content, if any, the doctor needs for competing-cause completeness. The dates defuse A4; the private detail is not required to do it.
+
+---
+
+## PART 4 — WHAT NOT TO DO
+
+1. **Do not ask the doctor to gather colleague evidence.** Collateral about your *person* (as your mother gave in A4) is orthodox and helpful. Collateral about the *disputed workplace events* is forensically dangerous: it turns the doctor into a witness to facts he cannot test, imports the colleagues' accounts as untestable hearsay, and breaches the confidence of your treatment. *The right architecture is the reverse:* colleagues give **their own** evidence (witness list, one-page outline, oral evidence), their accounts become **assumed facts**, and the doctor opines on those. Approach that through the union, and only for what colleagues alone can prove — the load, and an observed change in you across the period.
+
+2. **Do not suggest the conclusion, and do not ask a leading question.** Never *"Do you agree the fatigue was an early symptom?"* — instead *"What, if anything, do you make of the reports of fatigue recorded in April and May 2024, in the context of the diagnosis you made in October 2024?"* **A report that reads as instructed is worth less than no report.** The whole value of the exercise is that the opinion is his, reasoned from the facts — *"because A, B and C, in my opinion…"* An asserted conclusion is worth little; a reasoned one survives an opposing IME.
+
+3. **Do NOT put the 2025 fatigue-refusal material or the 8 September 2025 Hughes "34 occasions" letter into the bundle.** Every route into the 2025 refusal runs through a letter cataloguing your lateness and absences across 34 occasions, and the same 2025 material records the employer's assertion that your fatigue was *"personal circumstances and not work related"* — you would be handing the Regulator a dated, written causation defence and paying for it to be considered. It also muddies the 18 June 2024 onset date. Keep it out entirely.
+
+4. **Do NOT provide the DFV attachments, the QPS-track material, or the Matheson "material development" letter.** None is needed for causation; all carry risk. The personal timeline goes to the doctor only as **dates**, on your instruction (Part 3, item 5).
+
+5. **Do not let "bullying" or "harassment" language into anything.** The pleaded case is a **course of management conduct**. A4's "bullying, harassment" framing describes a different complaint from the one before the Commission — Report B must describe the matter correctly: *a workers' compensation appeal concerning a course of management conduct.*
+
+6. **Do not let the report say "complete incapacity" or "totally unfit for work."** That contradicts the 3 July 2026 ECC (fit with adjustments) and destroys the wages claim that runs on it. The report must express capacity as **capacity for the substantive role with the identified adjustments**, with any current incapacity as a **consequence of the exclusion and its handling**, not an inherent inability to work. **Raise this with the doctor expressly on Wednesday — it is a real risk and invisible unless someone names it.**
+
+---
+
+## THE FIVE THINGS TO CONFIRM WITH DR KRISHNAIAH ON THE DAY
+
+1. **No *"not for medico-legal use"* footer** — A4's fatal flaw. Confirm **in writing before the report is written** that Report B is prepared for use in the QIRC appeal.
+2. **The report will carry the assumed-facts declaration** — *"I am instructed to assume the facts in Mr Shepherd's statement dated [X] and the documents at [Y]"* — and **a complete sources list** (every document, every person seen, dates and duration of each attendance).
+3. **The s 32(1) question answered in terms** — whether employment was *a significant contributing factor* — with **differentials named and reasoned** (the 26 Oct 2022 entries and the A4 competing causes addressed, not omitted), and **diagnosis + criteria met + when** (MDD with anxious distress, DSM-5 296.23; onset 18 June 2024). Ask the **2026 continuity question separately**, so it can be used or not used independently.
+4. **He will attend for oral evidence and be cross-examined** (Guide 7.6.5 — a report alone cannot stand). **Ask his rooms for a fee estimate** (you, the appellant, pay) **and whether he can give evidence by telephone or video**, which the Guide permits for experts.
+5. **The capacity language will be consistent with the 3 July 2026 ECC** — fit with adjustments (Part 4, item 6).
+
+---
+
+**Repo references relied on (all under `/home/user/Personalproject/wc2024227`):** `skill/references/REPORT-B-ARCHITECTURE.md`; `skill/references/A4-RED-TEAM.md`; `skill/references/THE-FATIGUE-SEQUENCE.md`; `skill/references/confirmed-record.md`; existing draft at `drafts/out/CEILING_SET/01_Letter_of_Instruction_Report_B.pdf` (this guide is the source-package companion to that letter of instruction — the letter asks the questions; this package supplies the assumed facts the letter refers to).

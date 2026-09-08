@@ -1,0 +1,35 @@
+PASTE-READY BRIEF FOR EXTERNAL AI SECOND OPINION (Grok) — sanitised, 11 Aug 2026
+⛔ Do NOT add: names, the deed or its terms, WP/settlement content, internal analytics or
+percentages, the memoirs, Report B strategy detail, rule-10 items. Treat the reply as
+red-team input only — verify any legal claim against sources before it changes a decision.
+---
+I'm a self-represented appellant in a Queensland workers' compensation appeal
+(psychological injury, de novo hearing in the industrial commission), also running a
+parallel employment dispute about being held out of work while certified fit with
+restrictions. I've assembled my matter as follows and want your critique of the METHOD —
+not legal advice on the facts.
+
+The assembly: (1) a single repository of all source documents with a full-text search
+index; (2) a strict rule that no fact, date or quote is asserted anywhere without being
+verified against the source page first — verified facts are kept in a separate layer from
+working theory; (3) a running log where every finding and decision is recorded with dates;
+(4) discipline rules governing everything sent out: neutral procedural tone, chronology
+stated but never motive, no accusations, every letter written to read well if a tribunal
+later sees it; (5) a case theory reduced to one mechanism with one admitted keystone
+incident, with everything else as context, because the case law here punishes scattergun
+multi-stressor cases; (6) the case built mainly from the opposing parties' own documents —
+their pleaded admissions, their internal risk assessment scoring my roster as elevated
+risk before my injury, their executive-signed letter conceding no risk assessment existed;
+(7) strict separation between two medical reports: a capacity report for the employer, a
+causation report for the appeal, never crossed; (8) external dependencies (union support,
+settlement offers) designed as removable modules so nothing outside my control is
+load-bearing; (9) escalation steps tied to event-based triggers with privately held
+deadlines; (10) parallel legal tracks (reprisal, systemic complaints) deliberately
+sequenced BEHIND the compensation claim rather than run simultaneously.
+
+Questions: (a) What are the weaknesses or failure modes of this assembly method that its
+author is least likely to see from inside it? (b) Where do self-represented litigants with
+strong documentation typically still lose, and does anything in this method leave those
+doors open? (c) What would a senior practitioner add, remove, or simplify? (d) Is there
+any well-known litigation or negotiation principle this structure violates? Be blunt; I
+want the critique, not reassurance.

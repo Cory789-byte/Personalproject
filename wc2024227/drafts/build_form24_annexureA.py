@@ -1,0 +1,266 @@
+#!/usr/bin/env python3
+"""WC/2024/227 - ANNEXURE A to the second notice to admit facts.
+The documents referred to in Schedule B, stitched in one bundle behind a one-page index.
+No document is annotated, highlighted or altered, other than identification headers and footers. All metadata stripped.
+"""
+import io, os, pikepdf
+from reportlab.lib.pagesizes import A4
+from reportlab.lib import colors
+from reportlab.lib.units import mm
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
+                                Table, TableStyle, Spacer)
+D = "../documents"
+OUT = "out/FORM24_ANNEXURE_A.pdf"
+H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=12.5, leading=16, spaceAfter=3)
+SUB = ParagraphStyle('SUB', fontName='Helvetica', fontSize=8.6, leading=11.5,
+                     textColor=colors.HexColor('#555555'), spaceAfter=5)
+B   = ParagraphStyle('B', fontName='Helvetica', fontSize=9, leading=12.4, spaceAfter=4)
+C   = ParagraphStyle('C', fontName='Helvetica', fontSize=8.2, leading=11)
+CH  = ParagraphStyle('CH', parent=C, fontName='Helvetica-Bold')
+def P(t, s=C): return Paragraph(t, s)
+
+# tab, description, date, path, first, last
+ITEMS = [
+ (1, "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital",
+    "undated", "AO3_Switchboard_Role_Description_MSH.pdf", 1, None),
+ ("1A", "Email, Ms E Stibbard to the Appellant and the Switchboard team, \"Hello & Update\", "
+    "produced under Tab 1 of the Stressor 1(a) particulars bundle served 11 August 2026",
+    "18 July 2023, 12:56 pm",
+    "2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf", 3, 3),
+ ("1B", "Email, Ms C Taylor to Ms T Reese, \"Fwd: Communication Book Update\", with, beneath "
+    "it, Ms Taylor's email to Logan Switch of 6 June 2023 at 9:57 am, \"Communication Book "
+    "Update\"", "6 June 2023, 4:05 pm",
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 9, 10),
+ (2, "Email chain, the Appellant to Ms C Taylor, Ms T Reese, Ms P Conaghan and Ms T Smith, "
+    "\"Increase of hours and Workplace issues\", and the replies of Ms Reese in the "
+    "same chain", "7 to 10 August 2023",
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 16, 21),
+ (3, "Email, Ms T Reese to the Appellant attaching HR Policy E12; and the emails of 4 and "
+    "8 September 2023", "29 August to 8 September 2023",
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 14, 15),
+ (4, "Document, the Appellant to Ms C Taylor, \"Request to Increase Working Hours to Full Time "
+    "Rotational Roster\"; and the reply of Ms Taylor of 7 August 2023 at 1:43 pm and the email of "
+    "Ms Reese to Ms Taylor of 7 August 2023 at 5:11 pm", "7 and 31 August 2023",
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 22, 24),
+ (5, "Email, Ms C Taylor to the Appellant, \"Approved - Permanent Full Time FTE\"",
+    "27 September 2023, 1:52 pm", "2023-09-27_Taylor_FullTime_Appointment_APPROVED.pdf", 1, None),
+ (6, "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Afterhours Oncall Process - "
+    "Switchboard\", as forwarded by the Appellant to WorkCover Queensland on 29 August 2024", "15 April 2024, 12:39 pm",
+    "correspondence-packs/10_Amy_Mo_WorkCover_EMAILS_PACK_84pp.pdf", 49, 50),
+ (7, "Email chain, \"Roster Concerns\", as produced under the Regulator's tab of that name - "
+    "Ms T Reese to the Appellant of 26 April 2024 at 1:52 pm; the Appellant to Ms Reese of 1 May "
+    "2024 at 1:18 pm; and Ms Reese to the Appellant of 8 May 2024 at 9:08 am",
+    "26 April to 8 May 2024",
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 26, 29),
+ (8, "Emails, Ms T Reese to Mr M Pritchard \"FW: Roster Concerns\", and Ms T Reese to LBH_HR "
+    "with attachment \"qh-gdl-401-3.3\"", "10 and 20 May 2024",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 12, 13),
+ ("8A", "Cover page of the attachment to that email - Fatigue risk management systems, "
+    "Implementation guideline QH-GDL-401-3.3:2021", "2021",
+    "disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf", 30, 30),
+ ("8B", "MASPER register email records - Ms Taylor to Vivian Kwok, MASPER Registrar, and Dr Wong, \"RE: Switchboard "
+    "issues 5 May, 7 May, and 8 May\"; Ms Taylor to Logan Switch and Switchboard staff, \"MASPER "
+    "process\"; and the underlying switchboard issue logs of 2 to 8 May 2024, produced under Tab 3 "
+    "of the Stressor 1(a) particulars bundle served 11 August 2026",
+    "9 May 2024 (issues logged 2-8 May 2024)",
+    "2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf", 9, 12),
+ ("8C", "Email, Ms E Stibbard to the Switchboard team, \"Switchboard After Hours On Call Manager "
+    "PP24 13/5/24 - 26/5/24\"", "13 May 2024, 4:29 pm",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 19, None),
+ (9, "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"Switchboard Manager - On call "
+    "and Hours.\"", "17 May 2024, 9:30 am",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 20, None),
+ ("9A", "Email chain, \"Office Hours and Departmental Directives\" - the Appellant to Ms C Taylor "
+    "and Logan Switch copied to Switchboard staff, Ms T Reese and LBH_HR at 1:15 pm; the reply of "
+    "Ms Reese at 6:23 pm; and the reply of the Appellant at 7:09 pm", "15 May 2024",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 15, 17),
+ ("9B", "Email, Ms T Reese to the Appellant, \"RE: Office Hours and Departmental Directives\"",
+    "21 May 2024, 2:53 pm",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 21, 21),
+ (10, "Email, Ms C Taylor to the Appellant, \"Sick leave 14.05.24\"; and, on the same page, the "
+    "email of Ms Taylor to Ms T Reese of 15 May 2024 at 1:07 pm forwarding it", "14 and 15 May 2024",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 39, None),
+ (11, "Emails, Ms S Marriott to Logan Switch \"Respiratory Nurse Educators\"; the Appellant to "
+    "Ms C Taylor; and the reply of Ms C Taylor; as forwarded "
+    "by Ms Taylor on 1 July 2025", "15 and 20 May 2024",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 40, 41),
+ (12, "Email thread, \"Corey Shepherd 388372 Pay issues\" - Payroll to the Line Manager copied to "
+    "the Appellant; the Appellant to Payroll; Payroll to the Appellant", "3 to 13 May 2024",
+    "disclosure-2025-07/Disclosure_witness_conferencing_QldHealth_Payroll.pdf", 5, 6),
+ (13, "Same thread continued - the Line Manager to the Appellant", "21 May 2024, 12:33 pm",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 46, None),
+ (14, "Email, Ms C Taylor to the Appellant copied to Ms T Reese, \"Validation of Claims older "
+    "than 3 months - Please sign\", as forwarded by Ms Taylor on 10 July 2025", "28 May 2024, 8:36 am",
+    "disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf", 43, None),
+ (15, "myHR submissions report for the Appellant, produced by Metro South Health as Item 11 of "
+    "the notice of non-party disclosure",
+    "1 February to 31 May 2024", "Item_11_myHR_report_Leave_submissions_Feb-May_2024.pdf", 1, None),
+ (16, "QH Leave Takings Report for the Appellant, produced by Metro South Health as Item 15 of "
+    "the notice of non-party disclosure",
+    "19 March 2024",
+    "disclosure-2026-06_MSH_production/Item 15 QH Leave Takings Report_Cory Shepherd_19 March 2024.pdf", 1, None),
+ (17, "Movement forms recording approved changes to working hours, approved by Mr S Hughes as "
+    "delegate", "27 February 2026", "2026-02-27_Movement_56hrs_1Mar-15Mar_HughesApproved.pdf", 1, None),
+ (18, "Movement form", "17 April 2026", "2026-04-17_Movement_56hrs_16Mar-26Apr_HughesApproved.pdf", 1, None),
+ (19, "Movement form", "9 June 2026", "2026-06-09_Movement_40hrs_25May-28Jun_HughesApproved.pdf", 1, None),
+ (20, "Letter, Metro South Hospital and Health Service to Commissioner Dwyer, reference "
+    "K-LM26/729, signed by Ms N Cridland, Chief Executive",
+    "5 June 2026", "2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf", 1, 5),
+ (21, "Email, Ms L Forrest, Senior Consultant Human Resources, to the Appellant",
+    "7 July 2026", "2026-07-07_Forrest_ECC_further_information_FULL.pdf", 1, None),
+ (22, "Consultation Paper - Proposed Rosters for Switchboard Services, Logan Hospital",
+    "November 2024", "2024-11-14_MSH_Consultation_Paper_Proposed_Rosters_LH_Switchboard.pdf", 1, None),
+ (23, "Consultation outcome - Proposed Rosters for Switchboard Services, Logan Hospital",
+    "December 2024", "2024-12_MSH_Consultation_Outcome_Proposed_Rosters_LH_Switchboard.pdf", 1, None),
+ (24, "Email, Mr H Moran, Organiser, Together Queensland, to Ms C Jeffrey, Ms P Conaghan and the "
+    "Appellant, \"Switchboard Roster Feedback - For Delegates\"", "3 November 2025",
+    "2025-11-03_Together_Moran_delegate_endorsement_Shepherd_Jeffrey_Conaghan.pdf", 1, None),
+ (25, "Review Decision 69983, Workers' Compensation Regulator", "24 October 2024",
+    "Review_Decision_69983_24.10.2024.pdf", 1, None),
+ (26, "Notice to admit facts served by the Appellant on the Respondent, to which the response at "
+    "Tab 27 was given", "served before 18 February 2026",
+    "2026-02-18_Form24_Response_and_email_communication.pdf", 1, 6),
+ (27, "Respondent's response to that notice, signed by Ms R Matheson, Senior Appeals Officer",
+    "18 February 2026",
+    "2026-02-18_Form24_Response_and_email_communication.pdf", 7, 10),
+ (28, "myHR leave request history for Process Reference 15480560, produced by Metro South Health "
+    "as Item 11 of the notice of non-party disclosure", "20 February to 1 March 2024",
+    "disclosure-2026-06_MSH_production/Item 11 AVAC PRN 15480560 History.pdf", 1, None),
+ (29, "Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special "
+    "Pandemic Leave, signed by Ms N Cridland, produced as Item 13", "effective 5 December 2022",
+    "disclosure-2026-06_MSH_production/item 13 delegation-hr-covid-directive-special-and-pandemic-leave-51222.pdf", 1, None),
+ ("30", "Email, Ms C Taylor to Logan Switch and Switchboard staff, \"What's Chloe's Hours?!\", extracted from a compilation of Ms Taylor's notifications to Logan Switch held by the Appellant; the balance of the compilation is available on request", "23 August 2023, 2:18 pm",
+    "2026-08-28_Taylor_absence_notifications_Att9.pdf", 10, 10),
+ ("30A", "Email, Ms C Taylor to Logan Switch, copied to Ms T Reese and Ms E Stibbard, \"Good morning Team.\", extracted from the same compilation", "18 June 2024, 8:58 am",
+    "2026-08-28_Taylor_absence_notifications_Att9.pdf", 4, 4),
+ ("31", "Screen capture of the workbook \"2024 Emergency Code Register.xlsx\" (MARCH 2024 sheet), showing the entries recorded for 16 to 20 March 2024", "March 2024",
+    "2026-08-28_Emergency_Code_Register_MARCH2024_capture.pdf", 1, None),
+]
+
+built, errs, idx_rows = [], [], []
+pdf = pikepdf.Pdf.new()
+pages = []
+for tab, desc, date, rel, p1, p2 in ITEMS:
+    path = os.path.join(D, rel)
+    if not os.path.exists(path):
+        errs.append(f"tab {tab}: MISSING {rel}"); continue
+    try:
+        sp = pikepdf.open(path)
+        end = p2 if p2 else (len(sp.pages) if p1 == 1 else p1)
+        end = min(end, len(sp.pages))
+        pages.append((tab, desc, date, sp, p1, end))
+    except Exception as e:
+        errs.append(f"tab {tab}: {e}")
+
+def build_index(first_page):
+    idx_rows = []
+    start = first_page
+    for tab, desc, date, sp, p1, end in pages:
+        n = end - p1 + 1
+        idx_rows.append((tab, desc, date, n, start, start + n - 1))
+        start += n
+    st = [P("Annexure A to the notice to admit facts - the documents", H1),
+          P("WC/2024/227 &middot; Shepherd v Workers' Compensation Regulator &middot; the documents "
+            "listed in the schedule to the notice, in the order there listed", SUB)]
+    rows = [[P("Tab", CH), P("Document", CH), P("Date", CH), P("Pages", CH), P("At", CH)]]
+    for tab, desc, date, n, a, b in idx_rows:
+        rows.append([P(str(tab)), P(desc), P(date), P(str(n)), P(f"{a}-{b}" if b > a else str(a))])
+    t = Table(rows, colWidths=[10*mm, 108*mm, 26*mm, 14*mm, 20*mm], repeatRows=1)
+    t.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),
+        ('BACKGROUND',(0,0),(-1,0),colors.HexColor('#dddddd')),('VALIGN',(0,0),(-1,-1),'TOP'),
+        ('LEFTPADDING',(0,0),(-1,-1),4),('RIGHTPADDING',(0,0),(-1,-1),4),
+        ('TOPPADDING',(0,0),(-1,-1),3.5),('BOTTOMPADDING',(0,0),(-1,-1),3.5)]))
+    st.append(t); st.append(Spacer(1, 4*mm))
+    st.append(P("The documents follow in the order listed. No document has been annotated, highlighted "
+                "or altered, other than identification headers and footers. Where only part of a document is reproduced, the balance is available on "
+                "request.", B))
+    buf = io.BytesIO()
+    doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=16*mm, rightMargin=16*mm,
+                          topMargin=16*mm, bottomMargin=16*mm)
+    doc.addPageTemplates([PageTemplate(id='n', frames=[Frame(16*mm, 16*mm, A4[0]-32*mm, A4[1]-32*mm)])])
+    doc.build(st); buf.seek(0)
+    return idx_rows, pikepdf.open(buf)
+
+idx_rows, idx_pdf = build_index(2)
+n_idx = len(idx_pdf.pages)
+idx_rows, idx_pdf = build_index(n_idx + 1)
+if len(idx_pdf.pages) != n_idx:
+    n_idx = len(idx_pdf.pages)
+    idx_rows, idx_pdf = build_index(n_idx + 1)
+pdf.pages.extend(idx_pdf.pages)
+for tab, desc, date, sp, p1, end in pages:
+    pdf.pages.extend(sp.pages[p1-1:end])
+
+# ---- bookmarks: an Index entry plus one per tab, at each tab's first page ----
+with pdf.open_outline() as _ol:
+    _ol.root.append(pikepdf.OutlineItem("Annexure A - Index", 0))
+    for _tab, _desc, _date, _n, _a, _b in idx_rows:
+        _title = f"Tab {_tab} - {_desc}"
+        if len(_title) > 90:
+            _title = _title[:87].rstrip() + "..."
+        _ol.root.append(pikepdf.OutlineItem(_title, _a - 1))
+
+try: del pdf.Root.Metadata
+except (AttributeError, KeyError): pass
+with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
+try: del pdf.Root.Metadata
+except (AttributeError, KeyError): pass
+for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
+pdf.save(OUT, linearize=True)
+
+# ---- post-process: page numbers on every page + index rows hyperlinked to their tabs ----
+import re as _re2
+import fitz as _fitz
+_doc = _fitz.open(OUT)
+_total = _doc.page_count
+_stripped = 0
+for _pg in _doc:
+    _an = _pg.first_annot
+    while _an:
+        _nx = _an.next
+        if _an.type[1] != "Link":
+            _pg.delete_annot(_an); _stripped += 1
+        _an = _nx
+for _e in range(_doc.embfile_count() - 1, -1, -1):
+    _doc.embfile_del(_e)
+for _i, _pg in enumerate(_doc):
+    _lbl = f"Page {_i+1} of {_total}"
+    _w = _fitz.get_text_length(_lbl, fontname="helv", fontsize=8.5)
+    _vis = _fitz.Rect(_pg.rect.width - _w - 14, _pg.rect.height - 18,
+                      _pg.rect.width - 6, _pg.rect.height - 4)
+    _mat = _pg.derotation_matrix
+    _box = (_vis * _mat).normalize()
+    _pg.draw_rect(_box, color=None, fill=(1, 1, 1), fill_opacity=0.85)
+    _pt = _fitz.Point(_vis.x0 + 4, _vis.y1 - 4) * _mat
+    _pg.insert_text(_pt, _lbl, fontsize=8.5, fontname="helv",
+                    color=(0, 0, 0), rotate=_pg.rotation)
+_links = 0
+for _tab, _desc, _date, _n, _a, _b in idx_rows:
+    _snip = _re2.sub(r"\s+", " ", _desc.replace('\\"', '"'))[:32].rsplit(" ", 1)[0]
+    for _ipg in range(n_idx):
+        _hits = _doc[_ipg].search_for(_snip)
+        if _hits:
+            _r = _hits[0]
+            _row = _fitz.Rect(28, _r.y0 - 1, _doc[_ipg].rect.width - 28, _r.y1 + 1)
+            _doc[_ipg].insert_link({"kind": _fitz.LINK_GOTO, "from": _row,
+                                    "page": _a - 1, "to": _fitz.Point(0, 0)})
+            _links += 1
+            break
+_tmp = OUT.replace(".pdf", "_pp.pdf")
+_doc.save(_tmp, garbage=3, deflate=True)
+_doc.close()
+_p2 = pikepdf.open(_tmp)
+try: del _p2.Root.Metadata
+except (AttributeError, KeyError): pass
+with _p2.open_metadata(set_pikepdf_as_editor=False) as _m2: _m2.clear()
+try: del _p2.Root.Metadata
+except (AttributeError, KeyError): pass
+for _k in list(_p2.docinfo.keys()): del _p2.docinfo[_k]
+_p2.save(OUT, linearize=True)
+_p2.close()
+os.remove(_tmp)
+print(f"post-process: page numbers on {_total} pages; {_links}/{len(idx_rows)} index rows hyperlinked; bookmarks {len(idx_rows)+1}")
+
+print(f"built {OUT} - {len(idx_rows)} tabs, {len(pdf.pages)} pages")
+for e in errs: print("  !", e)

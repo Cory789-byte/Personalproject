@@ -22,7 +22,7 @@ The 7-hour break sits in the SEAM between two fortnightly rosters (variance form
 ## Medical / causation chain
 - Krishnaiah: MDD diagnosis; Hawes: mechanism ("ongoing breaking of workplace rules by bosses, victimizing him" — certificate signed 8 Sept 2024).
 - The injury theory = cumulative institutional response (every channel closed; using them made Cory "the problem"). This is the s 32(1) causation spine — degree/duration/density.
-- **Watch:** Regulator asserts anxiety/ADHD history from 26 Oct 2022 "missing from Exhibit A5" (Form 24 ¶32) — cuts at the clean-baseline point (admitted 16 Nov 2023 "no psychological illness"). Be ready.
+- **Watch:** Regulator asserts anxiety/ADHD history from 26 Oct 2022 (Form 24 ¶32) — cuts at the clean-baseline point (admitted 16 Nov 2023 "no psychological illness"). Be ready.
 
 ## Witness statement architecture (expert-evidence rule)
 Cory's statement proves the FACTS (load, break, channels). The psychiatrist's report ASSUMES those facts and opines on the clinical consequence — it must say "I am instructed to assume the facts in Mr Shepherd's statement dated X." The load description must NOT live only in the psychiatrist's report (hearsay attack). Commission the report AFTER production so its assumptions include the objective record; meanwhile ensure treating notes capture the work context.
