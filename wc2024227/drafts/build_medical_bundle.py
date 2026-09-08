@@ -34,7 +34,7 @@ TABS=[
                 10:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-10-REDACTED.png'}),
  dict(n=2, title="Work capacity certificates: Dr Ki Pang, 7 August 2024; Dr Peter Hawes, 11 August 2024 and 8 September 2024",
       held="Respondent's amended List of Documents items 7 (Hawes, 1 July, 11 August and 8 September 2024) and 8 (Pang, 7 August 2024).",
-      incl="The certificates of 7 August 2024 (Dr Pang), 11 August 2024 and 8 September 2024 (Dr Hawes), reproduced from the scanned copies annexed to the Appellant's application in TD/2024/110 filed 25 October 2024. Together with the certificate of 1 July 2024 at Tab 1 (bundle page 9), they certify no capacity for any work continuously from 1 July to 6 October 2024, each recording the stated date of injury as 18 June 2024 and first presentation on 1 July 2024; the certificate of 8 September 2024 records the referral to a psychiatrist.",
+      incl="The certificates of 7 August 2024 (Dr Pang), 11 August 2024 and 8 September 2024 (Dr Hawes), reproduced from the scanned copies annexed to the Appellant's application in TD/2024/110 filed 25 October 2024. Together with the certificate of 1 July 2024 at Tab M1 (bundle page 9), they certify no capacity for any work continuously from 1 July to 6 October 2024, each recording the stated date of injury as 18 June 2024 and first presentation on 1 July 2024; the certificate of 8 September 2024 records the referral to a psychiatrist.",
       omit="None. The medication box on each certificate is unticked; nothing is relied upon as to medication from these certificates.",
       src=('pdf', D+'related-matters/TD2024-110_Form12_Application_for_reinstatement_stamped_25.10.2024.pdf', [22,24,23])),
  dict(n=3, title="Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at 11:45 am, \"Medications\"; and the Appellant's email to QSuper at 5:12 pm the same day",
@@ -50,7 +50,7 @@ TABS=[
       src=('pdf', D+'medical/2025-02-13_MindAndMemory_report_QSuper_LouiseIngs.pdf', [1,2,3,4])),
  dict(n='4A', title="The question put to the treating psychiatrist, and the report he identified as his answer: Major Depressive Disorder with anxious distress, presenting as \"workplace stress stemming from issues with management and rostering at Queensland Health\" (5 to 8 September 2026)",
       held="Not on the Respondent's list, except the notice at item 3, which is the Respondent's own Form 29. Served with this bundle.",
-      incl="Three documents, in this order. (1) The Appellant's email to Dr Krishnaiah of 5 September 2026 at 10:49 am, asking him to address the three matters in issue named in the Respondent's notice of non-party disclosure - whether the Appellant sustained a personal injury, whether it arose out of or in the course of employment, and whether employment was a significant contributing factor - from his own assessments and records (pages 5 to 7 of the chain as printed). (2) Dr Krishnaiah's reply of 8 September 2026 at 7:18 am: that he had attached \"the report that captures the relevant information you have requested\" (page 1 of the chain). (3) The Respondent's Form 29 notice of non-party disclosure to the Mind and Memory Service, sealed 4 July 2025, pages 1 and 2, being the sealed cover and the page stating the three matters in issue. The report he attached is the report of 13 February 2025 at Tab 4, and is not reproduced here. In it, at page 1: the diagnosis, \"Major Depressive Disorder with anxious distress (DSM 5- 296.23)\"; that he \"presented with workplace stress stemming from issues with management and rostering at Queensland Health\"; that \"These issues began approximately one year ago when a new manager was appointed\"; that after raising concerns about rostering and fatigue management \"he experienced changes in work conditions including shorter breaks, more night shifts\"; and that \"His pay was withheld or delayed for up to five months at a time, leading to significant financial stress\". No report has been prepared for this proceeding.",
+      incl="Three documents, in this order. (1) The Appellant's email to Dr Krishnaiah of 5 September 2026 at 10:49 am, asking him to address the three matters in issue named in the Respondent's notice of non-party disclosure - whether the Appellant sustained a personal injury, whether it arose out of or in the course of employment, and whether employment was a significant contributing factor - from his own assessments and records (pages 5 to 7 of the chain as printed). (2) Dr Krishnaiah's reply of 8 September 2026 at 7:18 am: that he had attached \"the report that captures the relevant information you have requested\" (page 1 of the chain). (3) The Respondent's Form 29 notice of non-party disclosure to the Mind and Memory Service, sealed 4 July 2025, pages 1 and 2, being the sealed cover and the page stating the three matters in issue. The report he attached is the report of 13 February 2025 at Tab M4, and is not reproduced here. In it, at page 1: the diagnosis, \"Major Depressive Disorder with anxious distress (DSM 5- 296.23)\"; that he \"presented with workplace stress stemming from issues with management and rostering at Queensland Health\"; that \"These issues began approximately one year ago when a new manager was appointed\"; that after raising concerns about rostering and fatigue management \"he experienced changes in work conditions including shorter breaks, more night shifts\"; and that \"His pay was withheld or delayed for up to five months at a time, leading to significant financial stress\". No report has been prepared for this proceeding.",
       omit="Pages 2 to 4 of the email chain, being the intervening messages of 5 September 2026, which are not relied upon; and pages 3 to 6 of the Form 29, being the schedule of documents sought and the remaining form pages.",
       srcs=[('pdf', D+'correspondence-2026/2026-09-08_0718_Krishnaiah_staff_sickness_records_not_sent_report_attached.pdf', [5,6,7]),
             ('pdf', D+'correspondence-2026/2026-09-08_0718_Krishnaiah_staff_sickness_records_not_sent_report_attached.pdf', [1]),
@@ -81,12 +81,12 @@ def tab_sheet(t):
     buf=io.BytesIO()
     doc=BaseDocTemplate(buf,pagesize=A4,leftMargin=18*mm,rightMargin=18*mm,topMargin=16*mm,bottomMargin=16*mm)
     doc.addPageTemplates([PageTemplate(id='n',frames=[Frame(18*mm,16*mm,A4[0]-36*mm,A4[1]-32*mm,leftPadding=0,rightPadding=0,topPadding=0,bottomPadding=0)])])
-    s=[P(HEADER[0],HD),P(HEADER[1],HD2),P(f"TAB {t['n']}",TAB),P(t['title'],TT),
+    s=[P(HEADER[0],HD),P(HEADER[1],HD2),P(f"TAB M{t['n']}",TAB),P(t['title'],TT),
        P("Where the Respondent holds it",LAB),P(t['held']),
        P("Pages included",LAB),P(t['incl']),
        P("Pages omitted, and why",LAB),P(t['omit']),
-       Spacer(1,4*mm),P({8:"This tab is added so that the Respondent's own position on the documents at Tabs 1, 2, 4 and 7 sits with them.",
-         '4A':"This tab is added so that the question, the answer and the notice the question came from can be read together with the report at Tab 4, which precedes it. Schedule row 4 states what the report is, and is not, relied upon for."}.get(t['n'], "Schedule row "+str(t['n'])+" states what this document is, and is not, relied upon for."),B)]
+       Spacer(1,4*mm),P({8:"This tab is added so that the Respondent's own position on the documents at Tabs M1, M2, M4 and M7 sits with them.",
+         '4A':"This tab is added so that the question, the answer and the notice the question came from can be read together with the report at Tab M4, which precedes it. Schedule row 4 states what the report is, and is not, relied upon for."}.get(t['n'], "Schedule row "+str(t['n'])+" states what this document is, and is not, relied upon for."),B)]
     doc.build(s); buf.seek(0); return pikepdf.open(buf)
 
 def scan_page(path):
@@ -109,7 +109,7 @@ def add(pdf, pages=None):
 add(pikepdf.open('out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf'))
 stamps=[('Schedule',None)]  # per output page: (label)
 for t in TABS:
-    ts=tab_sheet(t); add(ts); stamps.append((f"Tab {t['n']}", 'sheet'))
+    ts=tab_sheet(t); add(ts); stamps.append((f"Tab M{t['n']}", 'sheet'))
     srcs=t.get('srcs') or ([t['src']] if t.get('src') else [])
     for (kind,path,pages) in srcs:
       if kind=='pdf':
@@ -117,9 +117,9 @@ for t in TABS:
         for pno in pages:
             if pno in red: add(scan_page(red[pno]))
             else: add(src,[pno])
-            stamps.append((f"Tab {t['n']}", pno))
+            stamps.append((f"Tab M{t['n']}", pno))
       else:
-        add(img_page(path)); stamps.append((f"Tab {t['n']}", 'image'))
+        add(img_page(path)); stamps.append((f"Tab M{t['n']}", 'image'))
 
 N=len(out.pages)
 # footer stamp overlay on every page except the schedule
