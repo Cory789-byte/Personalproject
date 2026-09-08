@@ -169,7 +169,8 @@ OUTLINES = [
    ("", "What he observed over a period of approximately three months of the Appellant working to "
     "obtain and record updates to medical contact numbers; that the monthly task of updating the spreadsheet of "
     "number changes, allocated to a shift, was left undone over that period; that the Appellant placed a reminder "
-    "in the Communication Book about the allocation of that monthly task."),
+    "in the Communication Book about the allocation of that monthly task; and that he was on shift and saw the Appellant "
+    "check the contact numbers and write that reminder on handover."),
    ("", "That he was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
     "18 July 2023 stating that she would be removing everyone's access to the database and that "
     "changes were to be sent to her directly."),
