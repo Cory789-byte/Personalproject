@@ -20,7 +20,7 @@ HD2  = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=3)
 TITLE= ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=11.5, leading=14, spaceAfter=2)
 SUB  = ParagraphStyle('SUB', fontName='Helvetica-Oblique', fontSize=7.8, leading=10,
                       textColor=colors.HexColor('#555555'), spaceAfter=3)
-INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.2, leading=8.5, spaceAfter=0.9)
+INTRO= ParagraphStyle('INTRO', fontName='Helvetica', fontSize=8.15, leading=8.45, spaceAfter=0.9)
 ITEM = ParagraphStyle('ITEM', parent=INTRO, leftIndent=8.5*mm, firstLineIndent=-8.5*mm, spaceAfter=1.5)
 FOOT = ParagraphStyle('FOOT', parent=SUB, spaceBefore=1)
 def P(t, s=INTRO): return Paragraph(t, s)
@@ -47,12 +47,13 @@ OUTLINES = [
     "delay in the emergency response. Between 15 and 50 emergency codes go out in 24 hours; some 200 to 300 calls a "
     "shift, many from people distressed, frightened or in crisis; urgent results relayed doctor to doctor; and "
     "complaints from the public, clinicians and staff arrive at the console first, to the operator on duty, and "
-    "those my manager did not action came back to me. The standing condition of the role over the period: I was "
-    "held responsible for what went wrong anywhere in that system, while the means of correcting it, the directory, "
+    "those my manager did not action came back to me. The standing condition of the role over the period: from the "
+    "moment I logged onto the board I was held responsible for what went wrong anywhere in that system, while the means of correcting it, the directory, "
     "the on-call roster, my own roster and my pay, were held by others. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;48, 182&ndash;223]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
-    "temazepam prescribed on 16 November 2023. The shifts of 17 and 18 March 2024: my travel time each way, "
+    "temazepam prescribed on 16 November 2023; that after late shifts I would sleep in the car before driving home. The "
+    "shifts of 17 and 18 March 2024: my travel time each way, "
     "finishing at 23:00 and starting at 06:00, and the rest and sleep actually available; that on the "
     "evening of 17 March I handled a MET call and, four minutes later, a Code Blue to the same bed, then "
     "a further MET call; that 18 March was a Monday day shift, the week's peak, and that between 06:00 and 14:00 I "
@@ -89,8 +90,8 @@ OUTLINES = [
     "without those payments over those months. "
     "<i>[&para;&para; 114&ndash;142, 182&ndash;210, 242&ndash;246]</i>"),
    ("The database, the misdirected calls, and what I could not fix.", "That from 18 July 2023 "
-    "operators could no longer correct database entries and the Contact &amp; Number Changes book "
-    "was removed, so a wrong number waited on Ms Stibbard or Ms Taylor and after hours had to "
+    "operators could no longer correct database entries and the changes book was removed, so a wrong "
+    "number waited on Ms Stibbard or Ms Taylor and after hours had to "
     "\"wait until either Chloe or myself are back\"; the directives of 15 April, 19 April and 9 May "
     "2024, and that I was not consulted before any of them. That from 15 April 2024, when Ms Taylor "
     "notified the department that she and Ms Stibbard had placed themselves on after-hours call, "
@@ -129,8 +130,10 @@ OUTLINES = [
     "October 2022, and the psychiatrist referral to Dr Amini renewed on 16 May 2024, the day after the request that I "
     "retract my email, with melatonin the only medication then current, for which no appointment could be obtained. "
     "<i>[General-practice records disclosed by the Respondent; &para;&para; 76&ndash;77]</i>"),
-   ("Onset, presentation and diagnosis.", "That I last worked a shift on 3 June 2024. My symptoms from about 18 June 2024 and their effect on "
-    "sleep, concentration, self-care and relationships, and on my capacity for work, from being "
+   ("Onset, presentation and diagnosis.", "That I last worked a shift on 3 June 2024; that on days in May 2024 and in the first week of June 2024 I drove "
+    "to work, could not bring myself to enter the building, and called in sick from the car park. My symptoms from "
+    "about 18 June 2024 and their effect on sleep, concentration, self-care and relationships, and on my capacity for "
+    "work, from being "
     "certified unfit from 1 July 2024 to returning on reduced hours and the restrictions recorded in "
     "the Checklist of 3 July 2026. Attending Dr Slawinski "
     "on 28 June 2024, whose note records \"stress at work\" and \"upset by people not following "
@@ -149,7 +152,7 @@ OUTLINES = [
     "and my later reinstatement; my return on reduced hours and the leave since; that my Queensland "
     "Health email was restricted, so I cannot produce my work emails myself. Documents: rosters and "
     "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
-    "payroll records; and Metro South Health's letter of 5 June 2026 (ref K-LM26/729)."),
+    "payroll records; and Metro South Health's letter of 5 June 2026."),
   ]),
 
  ("OUTLINE_02_HARRISONJONES", "OUTLINE OF EVIDENCE &ndash; MR CORY HARRISON-JONES", TAIL_W,
@@ -210,7 +213,7 @@ for stem, title, tail, intro, items in OUTLINES:
     doc = BaseDocTemplate(buf, pagesize=A4, leftMargin=15*mm, rightMargin=15*mm,
                           topMargin=11*mm, bottomMargin=11*mm)
     doc.addPageTemplates([PageTemplate(id='n', frames=[
-        Frame(15*mm, 8*mm, A4[0]-30*mm, A4[1]-16*mm, leftPadding=0, rightPadding=0,
+        Frame(13*mm, 8*mm, A4[0]-26*mm, A4[1]-16*mm, leftPadding=0, rightPadding=0,
               topPadding=0, bottomPadding=0)])])
     doc.build(s); buf.seek(0)
     pdf = pikepdf.open(buf)
