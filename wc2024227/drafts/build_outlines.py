@@ -89,8 +89,8 @@ OUTLINES = [
     "your Line Manager\"; on 21 May she was still \"waiting payroll confirmation\"; on 28 May I was "
     "asked to sign a validation of claims older than three months. That under the payroll process "
     "only my manager could submit the AVAC. The February 2024 special pandemic leave application: "
-    "what I attached, the two declines, and the approval on the same material; and the effect on me of going "
-    "without those payments over those months. "
+    "what I attached, the two declines, and the approval on the same material; and the effect on me of being unable "
+    "to have those errors resolved over those months. "
     "<i>[&para;&para; 114&ndash;142, 182&ndash;210, 242&ndash;246]</i>"),
    ("The database, the misdirected calls, and what I could not fix.", "That from 18 July 2023 "
     "operators could no longer correct database entries and the changes book was removed, so a wrong "
@@ -152,7 +152,8 @@ OUTLINES = [
     "documents). I offer no clinical or diagnostic opinion."),
    ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; my "
     "employment ended under abandonment provisions in October 2024 while I held current certificates, "
-    "and my later reinstatement; my return on reduced hours and the leave since; that my Queensland "
+    "and my later reinstatement; the months without pay after the injury and the claim, with the pay errors never "
+    "resolved; my return on reduced hours and the leave since; that my Queensland "
     "Health email was restricted, so I cannot produce my work emails myself. Documents: rosters and "
     "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
     "payroll records; and Metro South Health's letter of 5 June 2026."),
