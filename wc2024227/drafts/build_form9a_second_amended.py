@@ -191,7 +191,7 @@ s=[P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",H1),
    P("The Appellant accepts that he bears the onus, and discharges it on the facts admitted on 8 September 2026 and the "
      "evidence to be given.",B),
    P("(i)&nbsp;&nbsp;<b>Conditions of work, not management action:</b> The misdirected emergency calls, the delays that "
-     "followed the removal of operators' access to the directory, the volume of calls from distressed and urgent callers, "
+     "followed the removal of operators' access to the directory, the volume of calls from distressed, urgent and abusive callers as a regular feature of the work, "
      "and the complaints that arrived at and returned to the console were the conditions in which the Appellant performed "
      "his work, and were not management action within s 32(5). To the extent the Commission finds those conditions to have "
      "been a significant contributing factor to the injury, s 32(5) has no application to them.",L),
