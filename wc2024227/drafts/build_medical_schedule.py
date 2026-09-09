@@ -101,8 +101,9 @@ ROWS = [
  ("7", "Review Decision 69983, reasons dated 24 October 2024, pages 17 and 26 to 27 (Respondent's item 4; "
        "contents admitted 18 February 2026).",
   "That the Respondent's own review recorded Dr Hawes's statement to WorkCover of 2 September 2024 that work events "
-  "were the sole cause, found \"a personal injury of a psychological nature\", found employment \"was a significant "
-  "contributing factor\" as to factors 2, 3 and 4, and found the March 2024 rostering to be unreasonable management action (facts 257 to 261, admitted).",
+  "were the sole cause (page 17), found \"a personal injury of a psychological nature\", found employment \"was a "
+  "significant contributing factor\" as to factors 2, 3 and 4, and found the March 2024 rostering to be unreasonable "
+  "management action (facts 257 to 262, admitted).",
   "As a binding determination. The hearing is de novo; the finding is relied upon as an admitted document."),
 ]
 

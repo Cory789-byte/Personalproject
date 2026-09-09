@@ -72,7 +72,7 @@ OUTLINES = [
     "assessment was made and no FRMS register kept; that Metro South has since stated in writing that those records "
     "\"do not exist\", that FRMS training applied only to clinical staff, and that fatigue management assessment at "
     "the Switchboard began only after 30 June 2024. "
-    "<i>[&para;&para; 17&ndash;25, 211&ndash;261, 263&ndash;271, 285]</i>"),
+    "<i>[&para;&para; 17&ndash;25, 211&ndash;227, 232&ndash;261, 263&ndash;271, 285]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
     "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across roster periods; "
     "and Ms Reese's email to Human Resources of 10 May 2024 stating \"a few "
@@ -106,7 +106,7 @@ OUTLINES = [
     "on 9 May at 9:20 am, five days and eighteen hours after the first, asking Dr Wong for her business "
     "hours because they were \"not provided on the rosters\" and that her phone was \"switched off\"; "
     "and at 10:15 am telling the team of "
-    "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 and 20 May 2024 that \"we "
+    "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 May and again on 20 May 2024, when it said \"we "
     "can not help patients or other clinical staff\"; and that on each occasion the delay built up while the "
     "correction waited on someone else. "
     "<i>[&para;&para; 39&ndash;113]</i>"),
@@ -125,7 +125,7 @@ OUTLINES = [
     "about misdirected calls, directory accuracy or fatigue before 30 June 2024, which is what Dr Hawes "
     "recorded on 1 July 2024 as \"they don't listen to his complaints\". What I said on these matters is "
     "in my emails; I never said anything hostile about Ms Taylor or any other member of staff. "
-    "<i>[&para;&para; 143&ndash;181, 266&ndash;267, 287&ndash;294]</i>"),
+    "<i>[&para;&para; 143&ndash;153, 155&ndash;181, 266&ndash;267, 287&ndash;294]</i>"),
    ("My health before June 2024.", "That before 18 June 2024 I had never been diagnosed with or "
     "treated for depression. My general practitioner's record of 16 November 2023 notes poor sleep "
     "with shift work, that I could not do shifts without a good sleep, no psychological illness "

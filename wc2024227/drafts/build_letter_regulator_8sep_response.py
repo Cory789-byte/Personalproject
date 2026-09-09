@@ -36,19 +36,19 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
      "the fact admitted.",B),
 
    P("2. What the admitted facts are",HB),
-   P("Each fact in the notice states that a named document was sent, published, submitted, recorded, approved or "
-     "received on a stated date, and what it says. The admissions establish those facts. Where the document is "
+   P("The facts in the ranges below each state that a named document was sent, published, submitted, recorded, "
+     "approved or received on a stated date, and what it says. The admissions establish those facts. Where the document is "
      "itself the step taken &ndash; a roster as published, a directive as issued by email, a payroll instruction or "
      "claim as recorded, a request as made and the reply as given, each on the date recorded &ndash; the Appellant "
      "relies on the admission as establishing that the step was taken on that date in those terms. The Appellant "
      "does not rely on those documents as statements about some other event. That is the footing on which facts "
      "49, 66, 74 to 77 and 81 (the directives and the replies to them), 182 to 205 and 210 (the payroll thread and "
-     "the myHR report), 211 to 223 (the rostering correspondence) and 263 to 271 (Metro South Health's statements "
+     "the myHR report), 211 to 223 (the rostering correspondence) and 263 to 268 (Metro South Health's statements "
      "to the Commission in answer to the notice of non-party disclosure) are relied upon. The same footing applies to the reports made "
-     "to the Switchboard manager by the MASPER Registrar on 3 and 8 May 2024 and by the Integrated Respiratory Service on "
-     "15 and 20 May 2024, and to the replies to them (facts 56 to 68 and 89 to 104): each report of calls reaching the wrong "
-     "team, or that \"we can not help patients or other clinical staff\", was made, and each reply given, on the date and in "
-     "the terms recorded. Several of the documents in those ranges were sent by Ms Taylor or Ms Reese, whom the Appellant "
+     "by the MASPER Registrar to the Switchboard manager on 3 and 8 May 2024 and by the Integrated Respiratory Service "
+     "to Logan Switch on 15 and 20 May 2024, and the replies to them (facts 56 to 68 and 89 to 104): each report of calls "
+     "reaching the wrong team, or that \"we can not help patients or other clinical staff\", was made on the date and in "
+     "the terms recorded, and where a reply was given it was given on the date and in the terms recorded. Several of the documents in those ranges were sent by Ms Taylor or Ms Reese, whom the Appellant "
      "expects the Respondent to call.",B),
 
    P("3. Documents recording the statements of others",HB),

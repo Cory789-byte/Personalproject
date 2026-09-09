@@ -71,7 +71,7 @@ s.append(t)
 s+=[Spacer(1,4*mm),
     P("Witnesses 2 and 3 are expert witnesses within the meaning of Part 4.11 of the Workers' "
       "Compensation Appeal Guide. The Appellant may apply under Part 6 of that Guide for attendance "
-      "notices requiring the attendance of any of the witnesses listed above.",B),
+      "notices requiring the attendance of the witnesses named at items 2 to 5.",B),
     Spacer(1,10*mm),
     P("Dated 9 September 2026",B),
     Spacer(1,4*mm),
