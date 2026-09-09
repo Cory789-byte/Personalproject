@@ -288,7 +288,64 @@ version that survives the covering letter of 8 September.
 Raised 9 September 2026: a second late-finish/early-start pairing in April 2024, **2200 to 0600 —
 eight hours**.
 
-## 8.1 ⛔⛔ EIGHT HOURS IS NOT A BREACH ON THE RESPONDENT'S OWN PLEADED CASE
+## 8.0 ⛔⛔⛔ CORRECTION — §8.1 BELOW IS WRONG. THE 8-HOUR AGREEMENT DOES NOT APPLY.
+
+**Fact 225, ADMITTED.** Ms L Forrest, Senior Consultant Human Resources, LBHS, 7 July 2026:
+> *"acknowledge you also signed an 8 hour agreement on 17 June 2020, which allows you to work with
+> only an 8 hour break, **however this is only applied where staff initiated shift swaps have
+> occurred**."*
+
+**Fact 234, ADMITTED.**
+> *"The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently
+> constituted, **does not allege that the consecutive shifts of 17 and 18 March 2024 arose from a
+> staff initiated shift swap**."*
+
+## ⭐⭐⭐ THE INTERLOCK, AND BOTH HALVES ARE ADMITTED
+
+| | |
+|---|---|
+| The **employer's own Human Resources** says the 2020 agreement applies **only** to staff-initiated shift swaps | fact 225 |
+| The **Respondent does not allege** the March shifts arose from a shift swap | fact 234 |
+
+⇒ ⭐⭐⭐ **The 2020 agreement does not apply to 17–18 March 2024. The minimum was 10 hours, not 8.
+The shortfall is three hours, not one.**
+
+⇒ And their pleaded ¶22(a) — *"separated by only a 7-hour break (**rather than an 8-hour break**)"*
+(fact 226) — measures against a figure **their own HR says they are not entitled to use here**.
+
+## ⭐⭐ AND IT REVERSES THE APRIL ANALYSIS
+
+If an April pairing was **employer-rostered rather than a staff-initiated swap**, the agreement does
+not reach it either. **The minimum was 10 hours. An 8-hour break IS a breach.**
+
+⇒ Two employer-rostered breaches of the 10-hour minimum, three weeks apart — which answers ¶22(a)'s
+*"not intentional or **not repeated**"* on its own terms, without needing the arc.
+
+⚠ **The question to settle first is not whether it was 8 hours. It is whether it was a staff-
+initiated shift swap.** On the record, for March, the Respondent has admitted it does not say so.
+
+## ⚠⚠ 8.0.1 BUT CHECK WHICH "APRIL" IS BEING REMEMBERED
+
+**Review Decision 69983, p 13**, reciting the Appellant's own email of **8 April 2024**, describes
+the March shifts as: *"Sunday shift, **2:00 pm to 10:00 pm**"* and *"Monday shift, **6:00 am to
+2:00 pm**"* — **a 10 pm finish and a 6 am start. Eight hours.**
+
+⇒ ⚠ **That may be the "April, 10 pm to 6 am, eight hours" recollection** — not a second occurrence,
+but **his own 8 April description of the March pairing.**
+
+⭐ **If so it is still valuable, differently:** it is the source of the internal contradiction in the
+decision under appeal — **p 13 recites 8 hours from his account; p 26 reasons on 7 hours** and
+implies a 23:00 finish. **Two different Sunday finish times inside the Regulator's own decision, on
+the keystone fact.**
+
+⛔ **Settle this before either version is used.** Read PP22 and PP23 at full size against the date
+header. A second employer-rostered pairing is a second breach of the 10-hour minimum; the 8 April
+email is an inconsistency in their decision. **They are different arguments and only one of them is
+true.**
+
+---
+
+## 8.1 ⛔ SUPERSEDED BY §8.0 — retained to show what was corrected
 
 **Fact 232, ADMITTED:**
 > *"That amended statement of facts and contentions states at paragraph 22(e): 'says in June 2020,
