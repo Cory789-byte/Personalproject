@@ -54,14 +54,39 @@ Send from **coryshepherd1@hotmail.com**.
 - `SEND_EMPLOYMENT_9SEP2026/Email_5_...long_service_leave.txt` — **employment track, not the appeal.**
   Kept out of this folder so it cannot be attached to an appeal email by mistake.
 
-## The two combined PDFs
+## Everything separated by destination
 
-| File | What it is | Use |
+Nothing is mixed. The Registry gets direction 1 only. The Respondent gets direction 1 and 2.
+
+**Goes to the Industrial Registry** (email 1, copied to the Respondent)
+
+| File | pp | Why |
 |---|---|---|
-| `WITNESS_LIST_AND_OUTLINES_9SEP2026.pdf` | 5 pages: a contents page, then the witness list and the three outlines exactly as served | Serve on the Respondent in place of four separate attachments if you prefer one file. ⛔ It carries direction 2 material, so it is **not** filed. The Registry gets the witness list on its own. |
-| `REVIEW_BUNDLE_9SEP2026.pdf` | 60 pages: everything going out today | Reading and printing only. Every page is stamped "not for service or filing". |
+| `1_COMMISSION/Appellant_List_of_Witnesses_WC2024227.pdf` | 1 | Direction 1. This is the only document that is filed. |
+| `1_COMMISSION/Covering_Letter_to_Industrial_Registrar_WC2024227.pdf` | 1 | The covering letter for that filing. |
 
-Build them with `python3 drafts/build_9sep_outlines_bundle.py` and
+⛔ Nothing else goes to the Registry today. Direction 2 says the outlines and the medical material are
+served and **not** filed.
+
+**Goes to the Respondent only**
+
+| File | pp | Email |
+|---|---|---|
+| `OUTLINES_OF_EVIDENCE_9SEP2026.pdf` | 4 | 2 — the three outlines behind one contents page. Use it instead of the three separate outline files if you prefer one attachment. |
+| `2_REGULATOR/Letter_to_Regulator_re_letter_of_8_September_2026_WC2024227.pdf` | 1 | 2 — the reply to her letter of 8 September. |
+| `2_REGULATOR/Schedule_of_Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf` | 43 | 2 — the schedule and Tabs M1 to M9. |
+| `2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf` | 2 | 3 — the request about the documents not admitted. Reply sought by Friday 18 September 2026. |
+
+The three outlines also remain as separate one-page files in `2_REGULATOR/`, and the witness list and
+Registry covering letter appear there too because she receives them on the copy to email 1.
+
+**Neither served nor filed**
+
+| File | pp | Why |
+|---|---|---|
+| `REVIEW_BUNDLE_9SEP2026.pdf` | 60 | Your reading and printing copy of the whole set. Every page is stamped "not for service or filing". |
+
+Build the two bundles with `python3 drafts/build_9sep_outlines_bundle.py` and
 `python3 drafts/build_9sep_review_bundle.py`, after `build_9sep_final.py`.
 
 ## Rebuilding

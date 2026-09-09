@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""WC/2024/227 — the list of witnesses and the three outlines of evidence, stitched into one PDF.
+"""WC/2024/227 — the three outlines of evidence, stitched into one PDF for the Respondent.
 
-⛔ CONTAINS DIRECTION 2 MATERIAL. Serve on the Respondent. DO NOT FILE in the Industrial Registry.
-The list of witnesses is filed separately on its own under direction 1; the outlines are not filed.
+⛔ DIRECTION 2 MATERIAL ONLY. Serve on the Respondent. DO NOT FILE in the Industrial Registry.
+The list of witnesses is NOT in this bundle: it is a direction 1 document, it is filed in the
+Registry, and it stays a separate one-page file so the two directions never travel together.
 
 The four documents are reproduced page for page exactly as served, with nothing added to their
 pages, so any page taken out of this bundle is the served document. Only the contents page in
@@ -22,7 +23,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 os.chdir(HERE)
 
 F = "out/FINAL_9SEP2026"
-OUT = "out/WITNESS_LIST_AND_OUTLINES_9SEP2026.pdf"
+OUT = "out/OUTLINES_OF_EVIDENCE_9SEP2026.pdf"
 
 HD = ParagraphStyle('HD', fontName='Helvetica-Bold', fontSize=8.6, leading=11,
                     textColor=colors.HexColor('#333333'), spaceAfter=1)
@@ -36,9 +37,6 @@ CB = ParagraphStyle('CB', parent=C, fontName='Helvetica-Bold')
 
 # file, description, direction
 DOCS = [
-    (f"{F}/2_REGULATOR/Appellant_List_of_Witnesses_WC2024227.pdf",
-     "Appellant's list of names of all witnesses",
-     "Direction 1 &ndash; filed and served"),
     (f"{F}/2_REGULATOR/Outline_of_Evidence_Cory_Lea_Shepherd_WC2024227.pdf",
      "Outline of evidence &ndash; Mr Cory Lea Shepherd (Appellant)",
      "Direction 2 &ndash; served, not filed"),
@@ -61,7 +59,7 @@ for path, desc, direction in DOCS:
     page += len(pdf.pages)
 total = page - 1
 
-rows = [[Paragraph("Page", CB), Paragraph("Document", CB), Paragraph("Under the Further Directions Order (3)", CB)]]
+rows = [[Paragraph("Page", CB), Paragraph("Document", CB), Paragraph("Direction", CB)]]
 for (path, desc, direction), p, pdf in zip(DOCS, start, srcs):
     n = len(pdf.pages)
     label = str(p) if n == 1 else f"{p}&ndash;{p+n-1}"
@@ -81,11 +79,12 @@ story = [
     Paragraph("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", HD),
     Paragraph("Matter No. WC/2024/227 &nbsp;|&nbsp; Cory Lea Shepherd (Appellant) v Workers' "
               "Compensation Regulator (Respondent)", HD2),
-    Paragraph("APPELLANT'S LIST OF WITNESSES AND OUTLINES OF EVIDENCE", TITLE),
-    Paragraph("Served on the Respondent under directions 1 and 2 of the Further Directions Order (3) "
-              "dated 19 August 2026.", B),
-    Paragraph("This bundle contains direction 2 material and is not filed in the Industrial Registry. "
-              "The list of witnesses at page 2 is filed separately, on its own, under direction 1.", WARN),
+    Paragraph("APPELLANT'S OUTLINES OF EVIDENCE", TITLE),
+    Paragraph("Served on the Respondent under direction 2 of the Further Directions Order (3) dated "
+              "19 August 2026, one A4 page per witness.", B),
+    Paragraph("Direction 2 material. Served on the Respondent and not filed in the Industrial Registry. "
+              "The Appellant's list of names of all witnesses is a direction 1 document and is filed in the "
+              "Registry as a separate one-page document; it is not part of this bundle.", WARN),
     Spacer(1, 3*mm),
     t,
     Spacer(1, 5*mm),
