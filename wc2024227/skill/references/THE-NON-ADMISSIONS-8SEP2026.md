@@ -414,3 +414,93 @@ weeks before their own direction 3 and 4 material is due would cost them far mor
    named, seek attendance notices, as foreshadowed to the Registrar.
 5. **At the hearing** — §4 is one paragraph of submission and answers any objection on tender.
    §5 is the one that is argued.
+
+---
+
+# 8. ⭐⭐⭐ WHAT THE LETTER OF 9 SEPTEMBER DOES TO THEM
+> Added after the letter was served with email 2 on 9 September 2026.
+
+## 8.1 Why Dwyer said it matters more than what he said
+
+He was not lecturing. At [15:40] and [28:56] he was **persuading the Appellant to drop the Form 29**.
+The uncontradicted-evidence principle was his *reason* why the documents were not needed. That makes
+it a position he committed to in order to obtain an outcome — and he obtained it.
+
+⭐⭐ **And the Appellant took the deal in writing.** Covering email, 28 August 2026, 1:47 pm, served
+on the Regulator:
+
+> *"I have withdrawn my Form 29 application. **Consistent with what was discussed at the mention on
+> 7 August 2026**, I have reviewed the disclosure the Regulator has already provided. **Rather than
+> seek further documents, I am asking the Regulator to admit what that material already shows.**"*
+
+That sentence is dated, served, and unanswered. It records that the rule 49 route was taken
+*because of* the mention, and that an application was given up to take it.
+
+## 8.2 The specification Dwyer gave for the way back
+
+He did not shut the door — he described the door.
+
+| | |
+|---|---|
+| *"I'm not close to that idea if you really wish to press it. **I'm not close to that at all**"* [61:23] | ⭐ **Reserved, not refused.** The application was stood down, never dismissed |
+| *"**looking at a single document, I can tell you very quickly whether it should be disclosed**"* [61:31] | The exact specification of an application he would entertain |
+| *"the **starting point** is to ask the regulator. Have you done that?"* [18:55] | The precondition |
+| *"constructive, polite and professional discussions"* [62:21] | The manner |
+| *"page after page after page… **that's how I fall into error**"* [21:38] | What defeated the Form 29 |
+
+## 8.3 The three doors, and there is no fourth
+
+**(a) Produce or confirm the copy** → the document is proved, and the Appellant has lost nothing.
+**(b) Admit authenticity under r 49** → the same result, sooner.
+**(c) Silence until 18 September** → and this is where it turns.
+
+⇒ ⭐⭐⭐ **Silence hands the Appellant the application he lost in August, rebuilt to Dwyer's own
+specification — and the Regulator removed the objections itself.**
+
+| What defeated the Form 29 in August | Where it stands now |
+|---|---|
+| Volume — *"page after page after page"* [21:38] | **14 named documents on one page.** Not categories, not filters, not "A–E" |
+| Not single identified documents [61:31] | Every one identified by tab, author, date, time and subject |
+| *"Have you asked the regulator?"* [18:55] — effectively no | **Asked twice**: the Form 25 on 28 August, this letter on 9 September |
+| Relevance contested — *"what's inside those complaints"* [08:50] | **Contents admitted as facts.** Relevance is no longer arguable document by document |
+| Manner | A letter offering two ways out and a date, copied to nobody, no adjective in it |
+| The application | ⭐ Stood down, not dismissed [61:23] |
+
+⭐ **Tab 31 alone is an application Dwyer said he could decide "very quickly."** One document. Its
+contents refused (facts 228–231). And **admitted fact 268** records Metro South telling the
+Commission that *"a spreadsheet of recorded MET calls is available for the period 17-18 March
+2024."* They refused the copy and admitted the original.
+
+## 8.4 And if it never gets that far, the hearing bind is the same
+
+1. **Tender.** An authenticity objection dies on the letter: asked on 9 September, told where the
+   copy sits, did neither, and has never said what is wrong with the document.
+2. **Browne v Dunn.** No stated basis, no identified person who formed one (§3A). Nothing to put.
+3. **[15:40].** Uncontradicted evidence is accepted.
+4. **To contradict the codes they must call a Switchboard witness** — Ms Taylor or Ms Reese — and
+   then *"you'll get to cross-examine"* [35:11].
+
+## 8.5 ⚠ The four honest weaknesses. Name them, do not hide them.
+
+1. ⚠ **The costs reservation is pressure, not recovery.** r 64G(3): each party bears its own costs
+   unless otherwise ordered, and a self-represented appellant recovers little. Its value is in the
+   making. **If it is ever challenged, drop it without argument.**
+2. ⚠ **Dwyer's remarks are not a ruling and he is not bound by them.** ⛔ Never say "your Honour
+   indicated" as if holding him to a bargain. The only safe framing is: *I withdrew the application
+   and asked the Regulator instead, as was discussed; this is where that got to.*
+3. ⚠⚠ **The real risk is Tab 31 itself.** If Metro South produces the register and it does not match
+   the screen capture — different entries, different times, or not a contemporaneous record — that
+   is the one way this goes badly, and it goes badly on the limb that matters most.
+   ⇒ **Satisfy yourself now, before anyone else looks, that the capture is exactly what it is said
+   to be.**
+4. ⚠ **Nine of the fourteen are a legitimate refusal** (Class A, §3C). Do not present all fourteen
+   as a scandal. The weight is in Classes B, C and D — three documents their own List, decision and
+   admitted facts already carry, one on the Commission's file, and Tab 31.
+
+## 8.6 The clock
+
+| | |
+|---|---|
+| **Fri 18 Sep 2026** | Reply falls due. Produced or admitted → point spent, and it was worth making |
+| If silent | Notice of non-party disclosure to Metro South, **limited to the schedule**; Tab 31 first |
+| **Tue 30 Sep 2026** | Their witness list and outlines. If Taylor and Reese are absent, attendance notices |
