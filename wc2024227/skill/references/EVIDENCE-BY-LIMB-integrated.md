@@ -625,3 +625,74 @@ records what was **worked**, not what was **published**.
 Its June 2026 production contains items 6, 11, 12, 13, 15 and 16 — a role description, leave forms,
 an AVAC history, a myHR report, a leave takings report, pandemic directives and these two variance
 pages. ⛔ **Not one roster.** The 91 rosters held are the Appellant's own.
+
+---
+
+# 11. ⭐⭐⭐ THE 2024 ROSTER SCAN DATES — CORRECTING §9.5, AND A BETTER FINDING
+
+⛔ **§9.5 inferred the publication timing of a 2024 roster from 2023 scan dates in filenames. That
+was a cross-year inference and it should not have been made.** The 2024 files carry their own
+timestamps. Every one was scanned on a Konica Minolta KM_C300i; these are the scan dates.
+
+| Roster | Covers | ⭐ Scanned | Lead |
+|---|---|---|---|
+| PP17 | 22 Jan – 4 Feb | 8 Jan 2024 09:27 | 14 d |
+| PP18 | 5 – 18 Feb | 21 Jan 2024 09:31 | 15 d |
+| PP19 | 19 Feb – 3 Mar | 5 Feb 2024 10:46 | 14 d |
+| PP20 | 4 – 17 Mar | 16 Feb 2024 10:27 | 17 d |
+| ⭐ **PP21** *(no Shepherd line)* | **18 – 31 Mar** | ⭐ **1 Mar 2024 12:45** | 17 d |
+| PP22 | 1 – 14 Apr | 15 Mar 2024 10:31 | 17 d |
+| PP23 **a_original** | 15 – 28 Apr | 26 Mar 2024 14:57 | 20 d |
+| ⭐⭐ PP23 **b_UPDATED** | 15 – 28 Apr | ⭐⭐ **15 Apr 2024 11:48** | — |
+| PP24 **a_original** | 29 Apr – 12 May | 12 Apr 2024 13:39 | 17 d |
+| ⭐⭐ PP24 **b_UPDATED** | 29 Apr – 12 May | ⭐⭐ **15 Apr 2024 11:48** | — |
+| PP25 | 13 – 26 May | 26 Apr 2024 13:55 | 17 d |
+
+## 11.1 ⭐⭐⭐ TWO FORTNIGHTS RE-ISSUED IN THE SAME MINUTE — AND 51 MINUTES LATER, THE DIRECTIVE
+
+**PP23_b_UPDATED and PP24_b_UPDATED were both scanned at 15 April 2024, 11:48.** Two different
+fortnights, re-issued together.
+
+**Facts 49 and 51, ADMITTED:**
+> *"On **15 April 2024 at 12:39 pm** Ms Taylor sent an email to Logan Switch, copied to Ms Reese and
+> to Switchboard staff including the Appellant, with the subject 'Afterhours Oncall Process -
+> Switchboard'."* … *"That email states: '**This new process is effective from today**.'"*
+
+⇒ ⭐⭐⭐ **The two rosters were re-issued at 11:48 am. The directive went out at 12:39 pm. Fifty-one
+minutes apart, on the same day.**
+
+⚠ **What this establishes, and no more:** the on-call directive of 15 April and a rewrite of the
+next two fortnights' rosters were done together. ⭐ The likely and innocent reading is that the new
+on-call process **required** the roster changes — which is itself the point: **a process introduced
+"effective from today" carried immediate consequences for rosters already published, and neither the
+change nor its effect was consulted on.**
+
+⛔ **State it as contemporaneity. Do not assert a purpose.** The timestamps are scan times, not
+publication times; two files scanned in the same minute were processed together, and nothing more
+is established.
+
+## 11.2 ⚠ AND IT CONFIRMS THE §9.5 CAUTION, NOW ON PROPER FOOTING
+
+**PP21 v1.0 — the roster with no line for the Appellant — was scanned on 1 March 2024**, seventeen
+days before the fortnight and:
+- **before** the 17–18 March break
+- **before** the roster-pairing complaint of 8 April 2024
+- **before** the refusal of 1 May 2024
+
+⇒ ⛔ **"After I complained" cannot refer to the April roster complaint.** The dates are now
+established from the 2024 documents, not inferred.
+
+⚠⚠ **The one complaint in the window is the pandemic leave dispute — myHR process reference
+15480560, submitted 20 February 2024, running to 1 March 2024** (facts 114–128, Tab 28). **PP21 was
+scanned on 1 March 2024.** ⭐ Same day.
+
+⛔⛔ **That is contemporaneity, not causation, and it must never be put as more.** §9.5 stands
+without amendment: **do not run the sequence.** The differential — thirteen operators published, one
+not — is a question for cross-examination, not an allegation.
+
+## 11.3 What to do with the scan dates
+1. ⭐ **Compare PP23a with PP23b and PP24a with PP24b line by line.** Both updates were made on
+   15 April 2024. What changed in the Appellant's line, and in anyone else's, is now a dated
+   question.
+2. ⭐⭐ **Ask for the Daily Staffing Variance Forms** (§10). They record what was **worked**; the
+   scan dates only tell us when each version of what was **published** was made.
