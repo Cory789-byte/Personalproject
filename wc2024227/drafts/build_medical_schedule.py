@@ -35,7 +35,7 @@ SERVED = ("Served on the Respondent with the outlines of evidence under directio
 INTRO = [
  ("Purpose and service.", "Served with the outlines of evidence under direction 2 of the Further Directions Order (3) "
   "dated 19 August 2026; not filed. No report has been prepared for the purposes "
-  "of this proceeding; this schedule and the pages behind it are served as the expert and treating material relied "
+  "of this proceeding; this schedule and the pages served with it are the expert and treating material relied "
   "upon. Each document is already held by the Respondent at the item of its amended List of Documents dated 14 August "
   "2026 stated, except item 5, which has not yet been received, and item 6, served herewith."),
  ("Use at hearing.", "Against each document is stated what it is, and is not, relied upon for. Items 3, 4 and 5 contain "

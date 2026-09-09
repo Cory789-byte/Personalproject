@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""WC/2024/227 - Medical documents relied upon: the schedule, then the pages relied on, by tab.
+"""WC/2024/227 - Medical documents relied upon: the pages relied on, by tab.
+
+The one-page schedule is a SEPARATE served document (build_medical_schedule.py) and is not bound
+into this file. This file is Tabs M1 to M9 only, numbered within itself.
 Originals only. Pages not relied upon are omitted whole and identified on each tab sheet. Metadata stripped."""
 import io, pikepdf
 from reportlab.lib.pagesizes import A4
@@ -107,9 +110,9 @@ def add(pdf, pages=None):
     for i,pg in enumerate(pdf.pages):
         if pages is None or (i+1) in pages: out.pages.append(pg)
 
-_sched=pikepdf.open('out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf')
-add(_sched)
-stamps=[('Schedule',None)]*len(_sched.pages)  # per output page: (label); the schedule may run to more than one
+# The schedule is a separate served document and is NOT bound into this one. This file is the
+# pages only, behind Tabs M1 to M9, numbered within itself.
+stamps=[]
 for t in TABS:
     ts=tab_sheet(t); add(ts); stamps.append((f"Tab M{t['n']}", 'sheet'))
     srcs=t.get('srcs') or ([t['src']] if t.get('src') else [])
@@ -124,10 +127,8 @@ for t in TABS:
         add(img_page(path)); stamps.append((f"Tab M{t['n']}", 'image'))
 
 N=len(out.pages)
-# footer stamp overlay on every page except the schedule
-SCHED_PP=len(_sched.pages)
+assert len(stamps)==N, f"stamp/page mismatch: {len(stamps)} vs {N}"
 for idx,pg in enumerate(out.pages):
-    if idx < SCHED_PP: continue
     lab,orig=stamps[idx]
     buf=io.BytesIO(); c=canvas.Canvas(buf,pagesize=(float(pg.mediabox[2])-float(pg.mediabox[0]), float(pg.mediabox[3])-float(pg.mediabox[1])))
     c.setFont('Helvetica',7); c.setFillColor(colors.HexColor('#444444'))
@@ -141,7 +142,7 @@ with out.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
 try: del out.Root.Metadata
 except (AttributeError,KeyError): pass
 for k in list(out.docinfo.keys()): del out.docinfo[k]
-dest='out/MEDICAL_DOCUMENTS_RELIED_UPON_schedule_and_pages.pdf'
+dest='out/MEDICAL_DOCUMENTS_TABS_M1_to_M9.pdf'
 out.save(dest,linearize=True); print("built",dest,N,"pages")
 import scrub_pdf as _sc
 print('scrub:', _sc.scrub_file(dest if 'dest' in dir() else out_path), 'annotation(s) removed')
