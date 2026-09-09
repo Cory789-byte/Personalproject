@@ -576,3 +576,64 @@ is not yet secured.**
 named it; ***Adams* [21]** showed it is how these cases are lost; and the ***Delaney*** comparison
 isolates it as the single respect in which he is behind.
 ⇒ ⛔⛔ **Everything else on this file is in good order. Secure the doctors.**
+
+---
+
+# 17. ⭐⭐⭐ THE EVENTS THEMSELVES — WERE HIS HAZARDS WORSE THAN *DELANEY*'S?
+> Answering the narrower question: not the legal posture, **the conduct and the hazard.**
+
+## 17.1 ⭐⭐⭐ DELANEY'S SEVEN ARE ADMINISTRATIVE. CORY'S ARE OPERATIONAL AND SAFETY-CRITICAL.
+| | *Delaney* | Shepherd |
+|---|---|---|
+| **Nature** | ⭐ **process failures affecting one man's dignity and procedural rights** — a claim not processed timely, a grievance not notified, no consultation on a unit closure, a union letter, a WHS-representative election irregularity, a 12-month grievance delay | ⭐⭐⭐ **responsibility for a safety-critical function with the means of performing it removed** |
+| **Third-party risk** | ⛔ **none** | ⭐⭐⭐ **a wrong directory entry is a delay in an emergency response** |
+| **On the record** | — | ⭐⭐⭐ **fact 289, admitted by the Regulator**: maintaining accurate contact details is *"a critical function of the Switchboard to ensure **effective clinical handover and patient safety**"* |
+| **Evidenced by** | his own account | ⭐⭐ **a MASPER Registrar, a doctor and a clinical service, in writing at the time** — *"switchboard could not tell them where VHUB was"*; *"we can not help patients or other clinical staff"* |
+
+⇒ ⭐⭐⭐ **Delaney was distressed by how he was treated. Cory was made responsible for something that
+mattered to other people's safety and had the means of doing it taken away. That is a heavier hazard,
+and it is a different kind of hazard.**
+
+## 17.2 ⭐⭐ AND THREE CATEGORIES *DELANEY* HAS NO EQUIVALENT FOR AT ALL
+1. ⭐⭐⭐ **A physiological hazard.** A **seven-hour break** between a 2300 finish and an 0600 start
+   against a **10-hour award minimum**, then a Monday day shift — the week's peak — handling a Code
+   Grey, two MET calls and two neonatal MET calls. Plus **melatonin and temazepam prescribed
+   16 November 2023** for shift-related sleep, and sleeping in the car before driving home.
+   ⭐ **Fatigue in a safety-critical role is a recognised psychosocial hazard. *Delaney* contains
+   nothing of the kind.**
+2. ⭐⭐ **Financial deprivation as a continuing state.** Four defective fortnights, months unresolved,
+   and **only the manager could submit the correction** — plus a leave application declined twice on
+   a ground that was wrong. ⚠ *Delaney*'s untimely claim processing is the nearest analogue, but it
+   is **one event, not a system he was locked out of.**
+3. ⭐⭐ **Inherent exposure at the console** — Ms Conaghan ¶¶2–4: distressed, angry and abusive
+   callers, **threats of harm**, demands for the operator's name, clinicians holding the operator
+   accountable for others' failures. ⭐⭐⭐ **And on *Delaney* heading (5) reasoning that is NOT
+   management action at all — so s 32(5) cannot reach it.**
+
+## 17.3 ⚠ WHERE *DELANEY*'S EVENTS WERE WORSE — AND THEY WERE, IN THREE WAYS
+1. ⚠ **Duration.** *Delaney* ran roughly **two years** (Feb 2000 – 2002). Cory's core period is about
+   **eleven months** (18 July 2023 – 18 June 2024).
+2. ⚠ **One failure more egregious than any single one of his** — a grievance allowed to run
+   **twelve months** without seeking an extension, and an interview *"expressly required by the terms
+   of reference"* refused outright.
+3. ⚠⚠ **Known prior decompensation.** The same conduct carried **more culpability** because the
+   employer knew he was vulnerable. ⭐ Cory's analogue is weaker: **knowledge of the problem**, not of
+   the person.
+⚠ **And *Delaney* ran a bullying/harassment allegation (heading 4).** ⛔ **Cory has deliberately not.
+That is a choice, and the right one — not a deficit.**
+
+## 17.4 ⭐⭐⭐ THE ANSWER, AND THE CAUTION THAT GOES WITH IT
+⭐⭐⭐ **Yes — his events and hazards are worse than *Delaney*'s in kind and in seriousness, though
+*Delaney*'s ran longer and carried one more culpable single failure.**
+
+⛔⛔ **BUT GRAVITY IS NOT A GROUND.** ***Delaney* succeeded on the CHARACTER of the management
+failures, not their gravity.** The statutory questions remain: **was it management action, was it
+unreasonable or unreasonably done, and did it cause the injury.**
+⇒ ⭐⭐ **Where gravity does real work is CAUSATION** — it makes it far easier to accept that these
+events produced a major depressive disorder in a man with no psychiatric history. ⭐ **That is
+exactly the limb where this case is weakest, so the gravity belongs there and nowhere else.**
+
+⛔⛔ **And gravity is precisely where the temptation to characterise lives.** ⭐ **The safety dimension
+is the MEASURE OF THE RESPONSIBILITY — never a cause he championed, never a disclosure.** That
+boundary does not move because the events were serious. See
+`THE-PATIENT-SAFETY-SPINE-and-the-boundary.md` §4.
