@@ -362,3 +362,75 @@ form at `THE-PATIENT-SAFETY-SPINE-and-the-boundary.md` §4.
 ⭐⭐ **The position is now stated and conceded on both sides. Nothing further is written to the
 Regulator about the 8 September letter.** The next two live dates are **Fri 11 September** (objection
 to the filing course) and **Fri 18 September** (the response on originals and authenticity).
+
+
+---
+
+# 11. ⛔⛔ CORRECTION — THE "TWO REVIEW CYCLES" POINT DOES NOT HOLD
+> 9 September 2026, after Cory asked whether it was really something. **It is not. §2 over-read it.
+> This section governs.**
+
+## 11.1 THE TEST
+Pulled `_AdHocReviewCycleID`, `_PreviousAdHocReviewCycleID`, `_AuthorEmail` and `_EmailSubject` from
+**every PDF in the repo carrying them** (6 files):
+
+| Document | AdHocReviewCycleID | Previous | _AuthorEmail | _EmailSubject |
+|---|---|---|---|---|
+| Regulator SOFC, **22 Jul 2025** | **1542059378** | — | Cheryl-Lea.Godfrey@oir | *"FYI"* |
+| Regulator SOFC Form 9C original | **1542059378** | — | Cheryl-Lea.Godfrey@oir | *"FYI"* |
+| ⭐ Regulator **AMENDED** SOFC, **13 May 2026** | ⭐⭐⭐ **1542059378** | — | Cheryl-Lea.Godfrey@oir | *"FYI"* |
+| ⭐ Regulator **Form 24 response, 18 Feb 2026** | 228523223 | — | **Renee.Matheson@oir** | ⭐⭐ *"WC/2024/227 - Cory Shepherd v WCR - **Draft REG response to notice to admit**"* |
+| **ATT03 HHS Award 2015** *(a QIRC award, nothing to do with the Regulator)* | −915965526 | ⭐ **626083021** | patricia.faulkner@justice | *"2015/2016 awards."* |
+| **Cover letter, 8 Sep 2026** | −808179628 | 1947825810 | Margaret.Kerrigan@oir | ⛔ **(empty)** |
+
+## 11.2 ⛔⛔ THREE THINGS KILL THE INFERENCE
+1. ⭐⭐⭐ **The IDs are sticky and inherited.** The **22 July 2025** SOFC and the **13 May 2026 amended**
+   SOFC carry the **identical** `_AdHocReviewCycleID` (1542059378) — ten months and a substantive
+   amendment apart. ⇒ **The ID rode along in the file. It records nothing about the later document.**
+2. ⭐⭐⭐ **The two-ID pattern is unremarkable.** A **QIRC-published award from 2015**, with no
+   connection to the Regulator, carries **both** an ID and a Previous ID. **Two IDs simply mean a
+   Word file has been emailed for review more than once at some point in its life — including as a
+   template.**
+3. ⭐⭐⭐ **The empty `_EmailSubject` cuts AGAINST a fresh circulation.** Every file here with a
+   genuine, identifiable send has a **populated, descriptive subject** — *"Draft REG response to
+   notice to admit"*, *"2015/2016 awards."*, *"FYI"*. ⛔ **The 8 September letter's subject is
+   blank.** ⇒ Consistent with **inheritance from the letterhead template**, not a send.
+
+⇒ ⭐⭐⭐ **The whole cluster on the cover letter — `Author: "Peter"`, `Title: "OIR Internal Queensland
+Government Letterhead (1WS only)"`, `_AuthorEmail: Margaret.Kerrigan`, both cycle IDs, empty subject
+— is one object: TEMPLATE METADATA.** ⛔ **Do not say the letter was circulated twice. Do not say Ms
+Kerrigan touched it. Do not name her at all.**
+
+## 11.3 ✅ WHAT SURVIVES, AND IT NEVER DEPENDED ON THE METADATA
+The deliberation case stands on six things visible on the face of the documents:
+1. **Two pages of headed legal argument** attached to a two-line enclosure.
+2. **r 49(1), (2) AND (3) quoted verbatim** to a man who recited r 49(2) accurately eleven days earlier.
+3. **Three named evidentiary categories**, not a generic reservation.
+4. **A heading disowning their own review decision.**
+5. ⭐ **Written 18½ hours after the answering was completed** (7 Sep 16:42:04 / 16:43:04 → 8 Sep
+   11:13:17), on **independently tested** timestamps.
+6. **Finalised 56 seconds before conversion; served 10 minutes later; three days early.**
+⭐ **None of that needs a review-cycle field.**
+
+---
+
+# 12. ⭐⭐⭐ AND THE TEST FOUND SOMETHING BETTER — FEBRUARY AND SEPTEMBER WERE DIFFERENT PROCESSES
+
+| | **18 February 2026 response** | **8 September 2026 responses** |
+|---|---|---|
+| How made | ⭐ a **Word document**, converted by **Acrobat PDFMaker 25** | ⛔ **`pypdf` overlays on the Appellant's own PDFs** |
+| Internal step | ⭐⭐⭐ circulated **as a draft**, from **Matheson's own account**, subject *"WC/2024/227 - Cory Shepherd v WCR - **Draft REG response to notice to admit**"* — **matter-specific and document-specific** | ⛔ **none discernible** |
+| Timing | — | ⛔ Form 24 **16:42:04**, Form 25 **16:43:04** — **sixty seconds apart** |
+| Signature | ⭐ **signed** | ⛔ **unsigned; the only signature on the page is the Appellant's, dated 28/08/2026** |
+| Reasons | ⭐ **a reason given for each denial** | ⛔ **no reason for any of the nineteen refusals** |
+| Status now | ⭐ **Annexure A Tab 27 — authenticity ADMITTED** | 14 tabs disputed |
+
+⇒ ⭐⭐⭐ **The February process and the September process were not the same process, and the metadata
+shows it without relying on any inference about review cycles.** ⭐ **February: drafted, circulated
+for review under a subject line naming this matter, converted, signed, reasons given. September:
+filled over his own files in a single sitting sixty seconds apart, unsigned, no reasons.**
+
+⛔⛔ **STILL INTERNAL. Never put, never hinted at, never in correspondence.** ⭐ **Its only proper use
+is the one already in §3A of the non-admissions file: the contrast between the two responses is
+stated, if ever, as a difference in FORM — signed with reasons, against unsigned without — and never
+as a conclusion about why.**
