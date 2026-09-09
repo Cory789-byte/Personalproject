@@ -507,3 +507,56 @@ mechanism for the absence.**
 
 ⭐ **That is a single identified document of the kind the Commissioner said he could decide "very
 quickly"** [61:31] — and it proves the point either way it comes back.
+
+## 9.5 ⛔⛔ "AND PUBLISHED EVERYONE ELSE'S, AFTER I COMPLAINED" — DO NOT RUN THIS
+
+### The dates may not support it
+Publication lead, measured from the scan dates in the filenames of the same series:
+
+| Roster | Covers from | Published |
+|---|---|---|
+| PP07 | 18 Sep 2023 | 19 days ahead |
+| PP08 | 2 Oct 2023 | 27 days ahead |
+| PP11 | 30 Oct 2023 | 13 days ahead |
+| PP12 | 13 Nov 2023 | 14 days ahead |
+| PP14 | 11 Dec 2023 | 27 days ahead |
+| PP15 | 25 Dec 2023 | 34 days ahead |
+
+⇒ **PP21 covers from 18 March 2024, so on this series it was published around late February 2024.**
+
+⛔⛔ **That is BEFORE the roster-pairing complaint of 8 April 2024, before the refusal of 1 May, and
+before the 17–18 March break itself.** The only complaint in the window is the **pandemic leave
+dispute of 20 February – 1 March 2024** — and that is *contemporaneous*, not clearly prior.
+
+⚠ **Being contradicted on a date, on a point he volunteered, costs far more than never having said
+it.** ⛔ **The publication date of PP21 v1.0 is not established and must not be assumed.**
+
+### And even if the sequence held, it should not be run
+1. ⛔ **It is a reprisal inference.** That is **s 32(5)(b)** opened from his own side, in a proceeding
+   where the Respondent has **not pleaded it**.
+2. ⚠ ***Briginshaw*.** Alleging that a manager removed an employee from a roster because he
+   complained is a serious allegation. It raises **his own** standard of proof — and he would have
+   to prove not just the order of events but the reason.
+3. **Sequence is not causation.** *Post hoc* reasoning is the weakest form of argument and it will be
+   seen for what it is.
+4. **Rule 8** — the PID and reprisal track is sequenced **behind** the workers' compensation
+   resolution. **It is not this proceeding.**
+
+### ⭐⭐ WHAT TO DO INSTEAD — DO NOT EXPLAIN THE ABSENCE. MAKE THEM EXPLAIN IT.
+The fact needs no reason attached to be useful: **thirteen operators published, one not, in a
+fortnight the Respondent admits he worked.**
+
+In cross-examination, with no motive in it:
+> *"The roster published for 18 to 31 March 2024 lists thirteen operators. Mr Shepherd is not among
+> them. He worked the shift commencing at 6 am on 18 March. How did that come about?"*
+
+⭐ **Her answer is the evidence. His assertion is not.** And whatever she says has to sit against
+fact 234 — that the Respondent does not allege a shift swap.
+
+### ⭐⭐⭐ AND THE POINT THAT SETTLES IT: HE DOES NOT NEED THIS
+Seven hours against a ten-hour minimum, **admitted**; their own reviewer calling it **unreasonable
+management action**; their own Human Resources saying the eight-hour agreement reaches only
+staff-initiated swaps (fact 225); and their own pleading not alleging one (fact 234).
+
+⇒ **That limb is already won on the documents.** Adding a reprisal inference trades a certain point
+for a contested one, and opens a door the Respondent has kept shut.
