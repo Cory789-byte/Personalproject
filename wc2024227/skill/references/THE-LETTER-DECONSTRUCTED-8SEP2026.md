@@ -223,3 +223,87 @@ documents.** ⭐ **The most heavily defended point in the response was already g
    invites a contest about reading; the 9 September request letter already carries the only thing
    that needed saying.**
 3. ⛔ **Never put any of Part 4 on paper.**
+
+---
+
+# 7. ⭐⭐⭐ WHO THE LETTER IS ACTUALLY FOR
+
+**Addressed to him. Written for the file.** The evidence is in the letter itself.
+
+## 7.1 ⭐⭐⭐ THE TELL — THEY EXPLAINED r 49 TO THE PERSON WHO HAD JUST EXPLAINED IT TO THEM
+His service email of **28 August 2026, 1:47 pm**, states:
+> *"Under each notice, **if you do not serve a notice disputing the facts, or the authenticity of the
+> documents, within 14 days, they are taken to be admitted for this proceeding only**."*
+
+⭐ **That is r 49(2) recited accurately, including the words "for this proceeding only".**
+
+Their letter then sets out r 49(1), (2) and (3) **verbatim under a heading "The relevant law"**, and
+presents as a limitation the very phrase he used first:
+> *"any admission that is made is an admission **'for the proceeding only'**"*
+
+⇒ ⭐⭐⭐ **You do not explain a rule to the person who explained it to you eleven days earlier — unless
+the explanation is for a reader who has not seen his email.**
+
+## 7.2 ⭐⭐ THE SECOND TELL — r 49(3) HAS NO OPERATION BETWEEN THE PARTIES
+r 49(3) is *"The other party may, **with the leave of the court, commission or registrar**, withdraw
+an admission…"*. ⭐ **It speaks only to a body that can grant leave.** Quoting it in a letter to the
+opponent addresses nobody in the correspondence.
+
+## 7.3 ⭐⭐ AND NEITHER DOES ANYTHING ELSE OPERATIVE IN IT
+| What the letter reserves | Where that reservation can operate |
+|---|---|
+| relevance | ⭐ the Commission |
+| admissibility, and objection *"at the hearing of this appeal"* | ⭐ the Commission |
+| that Review Decision 69983 does not bind | ⭐ the Commission |
+| the truth of statements in admitted documents | ⭐ the Commission, on weight |
+| *"all of its rights"* | ⭐ the Commission |
+
+⇒ ⭐⭐⭐ **Every operative word is addressed to a decision-maker. Only the salutation is addressed to
+the Appellant.**
+
+## 7.4 THE AUDIENCES, IN ORDER
+1. ⭐⭐⭐ **The Commission at the hearing** — a contemporaneous document showing the Respondent
+   bounded its admissions at the time it made them, so the bounding is not invented later.
+2. ⭐⭐ **The Regulator's own file** — a record that the exposure was identified and limited.
+   ⭐ Consistent with the two internal review cycles and with circulation from an account other than
+   the signatory's (§2).
+3. **Him** — for the two lines of enclosure, and nothing else.
+
+⛔ **All of §7 is internal.** It is inference from construction and from his own email. **Nothing here
+is put to them or to the Commission.**
+
+---
+
+# 8. ⭐⭐⭐ THEY SEE THE FRAME — WHAT THAT IS WORTH, AND THE ONE RULE THAT FOLLOWS
+
+**What they see** — from the letter's own targeting: that the admitted set, read in sequence,
+carries the chronology out of **the Respondent's own pleading, its own decision under appeal, and
+the employer's own records**, so that the Appellant has to prove very little himself. **That is the
+structure at §17, and their bullet three says in the past tense that they found it.**
+
+## 8.1 ⭐⭐ WHAT IT IS WORTH
+1. ⭐⭐⭐ **It moves settlement value now, not at the hearing.** A party that writes a two-page
+   framing memorandum on day 11 of 14, three days early, has already done the assessment.
+   ⭐ **Guide 5.1: the second s 552A conference is the point at which the Respondent may *"consider
+   conceding the appeal where new information is presented."* He now holds the new information —
+   the four chains, the four failures in the leave decline, and the statutory declaration
+   timestamp.** ⇒ **That election is the highest-value decision on the board.**
+2. ⭐⭐ **It maps the fight**: relevance and admissibility at the hearing (⇒ **plan the tender of
+   every tab now**), and the truth of statements by treating practitioners and MSH employees
+   (⇒ **the medical report is still the case, and Chain 1 must close on Tab 25 and their pleading,
+   not on Forrest**).
+3. ⚠ **It raises, slightly, the risk of a r 49(3) application.** Low. **And the answer is in their
+   own letter (§3.1): these were express admissions, not admissions "taken to have been made under
+   subrule (2)".**
+
+## 8.2 ⛔⛔ THE RULE THAT FOLLOWS — AND IT IS THE MOST IMPORTANT LINE IN THIS FILE
+⭐⭐⭐ **Their framing is now fixed in writing. Do not disturb it.**
+
+A reply that engages with the frame — that argues the admissions do more than the letter allows, or
+that answers bullet three — **hands them the opportunity to reformulate the limitation before the
+hearing, with the benefit of knowing how he reads it.** ⛔ **The letter as it stands is a document
+they cannot improve unless he prompts them to.**
+
+⇒ ⛔⛔ **Say nothing back about the letter.** The 9 September request letter on originals and
+authenticity is the only correspondence needed, and it is already sent. ⭐ **Silence is the
+strongest available move.**
