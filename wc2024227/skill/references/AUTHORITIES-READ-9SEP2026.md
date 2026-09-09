@@ -518,3 +518,61 @@ year and they show what the current bench does to a worker who loses.**
 
 **The three live risks, unchanged:** Dr Krishnaiah's attendance · *Adams* [20] (the pleaded stressors
 are the boundary) · **six unread dismissals**.
+
+---
+
+# 16. ⭐⭐⭐ IS HIS CASE WORSE THAN *DELANEY*? — THE COMPARISON, HONESTLY
+
+## 16.1 ⭐⭐ WHERE *DELANEY* WAS STRONGER
+1. ⭐⭐⭐ **Steps 1 and 2 were already conceded.** *"The Acting Industrial Magistrate also found that
+   the Appellant's employment had been a significant contributing factor… **there is no challenge to
+   that finding upon the appeal**."* ⇒ **Delaney arrived at the Industrial Court arguing only the
+   exclusion.** ⚠ **Cory arrives at a de novo hearing where the pleading contests the injury and
+   s 32(1) as well.** ⭐ **Narrowed, though, by the Review Decision having found both in his favour.**
+2. ⭐⭐⭐ **A known prior decompensation.** *"the cardinal role to be played by 'fairness' when (as
+   here) **management are dealing with a staff member known to management to have decompensated in
+   the face of workplace pressure on an earlier occasion**."* ⇒ ⚠⚠ **A heightened fairness duty Cory
+   does not have.** ⭐ His nearest equivalent is weaker but real: **knowledge of the problem** — the
+   fatigue toolkit sent and unactioned, Ms Reese's *"a few rostering errors made by Chloe"*, the
+   payroll thread.
+3. ⚠ **Longer and more clear-cut process breaches** — a **twelve-month** grievance delay and an
+   interview *"expressly required by the terms of reference"* refused outright. **Cory's delays are
+   weeks, not months.**
+
+## 16.2 ⭐⭐⭐⭐ WHERE CORY IS STRONGER — AND IT IS THE LIMB THAT DECIDES IT
+1. ⭐⭐⭐⭐ **The unreasonableness finding is already made.** **Delaney had to OVERTURN an Acting
+   Industrial Magistrate who had found every interaction reasonable.** ⭐ **Cory starts with fact
+   260, admitted: *"the rostering of these two shifts amounted to unreasonable management action
+   given that it was in direct contradiction to the award and the 8-hour agreement."***
+   ⇒ ⭐⭐⭐⭐ **He begins where Delaney had to fight to arrive.**
+2. ⭐⭐⭐ **298 admitted facts.** Delaney contested what happened. **Cory's chronology is conceded.**
+3. ⭐⭐⭐ **More instruments, and the breach of one is conceded.** Delaney rested on **one** — the
+   *Nurses (Queensland Public Hospitals) Award 1991* grievance procedure (*"neither casual nor
+   consensual… no room for selective observance"*). ⭐ **Cory has the Award's 10-hour minimum (facts
+   257, 285), Award cl 6.2 consultation (167, 180), the FRMS Implementation Guideline (223), the
+   Operations Manual cl 10.4.1 toolkit (214–215), and the Instrument of Sub-Delegation (127–128).**
+4. ⭐⭐⭐ **Two corroborating lay witnesses, one still employed by the employer.** No equivalent
+   appears in *Delaney*.
+5. ⭐⭐ **Delaney won on a NARROWER base.** Heading (5) was **not management action at all**; headings
+   (1), (2) and (4) did not carry him; **he succeeded essentially on (3) consultation, (7) delay and
+   process, and (6) only because it did not stand alone.**
+
+## 16.3 ⛔ WHERE HIS CASE IS GENUINELY WORSE — ONE PLACE
+> ⭐⭐⭐⭐ **The medical evidence, and only the medical evidence.**
+
+**Delaney's injury and its causal connection to employment were unchallenged findings.** ⛔ **Cory's
+are live**, rest on **treating** evidence, and ⚠⚠ **Dr Krishnaiah's attendance is still unsecured.**
+
+⚠ **Three lesser ones:** no heightened-fairness footing (§16.1(2)) · ***Adams* [20]** — more pleaded
+stressors than Delaney's seven, and **each must be proved as pleaded**, so more surface to lose on ·
+**the 12 July 2024 statement's motive language** inside Tab 25, for which Delaney had no equivalent.
+
+## 16.4 ⭐⭐⭐ THE ANSWER
+⭐⭐⭐ **Not worse overall. Materially STRONGER on the management-action limb — the limb *Delaney* was
+actually about — and weaker in exactly one place: causation, because it is contested and the expert
+is not yet secured.**
+
+⇒ ⭐⭐⭐ **And that is now the third independent route to the same conclusion:** the second audit
+named it; ***Adams* [21]** showed it is how these cases are lost; and the ***Delaney*** comparison
+isolates it as the single respect in which he is behind.
+⇒ ⛔⛔ **Everything else on this file is in good order. Secure the doctors.**
