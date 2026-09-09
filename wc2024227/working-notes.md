@@ -7536,3 +7536,34 @@ Metro South Hospital and Health Service; he is now an officer of the Queensland 
   documents prove. Take them from him before he is examined.
 - ⚠ Do not write that he has left **Queensland Health**. Metro South HHS and the Queensland Ambulance
   Service are different employers; what is documented is that he has left Metro South.
+
+### 2026-09-09 — FINAL SWEEP: every fact in the served set matched to the 303 and the 8 Sep response
+Tool committed at `drafts/check_facts_against_response.py`; fact text at
+`documents/regulator-response-2026-09-08/FORM24_FACTS.json`. Re-run it after any edit.
+- ⛔⛔ **THE SCANNER BUG WORTH REMEMBERING.** The first version read the numbers after "facts" with a
+  character class that also matched the letters in "and"/"to". On **"Facts 228 to 231 not admitted"**
+  it swallowed the trailing prose, failed to parse, and **silently discarded the whole citation** —
+  so four refused facts reported as clean. Any scanner over this notice must consume only numbers
+  and the connectors joining them and stop at the first other token. The committed tool self-tests
+  on that exact string and exits if it regresses.
+- **Result, after the fix.** Of the served documents, only the request letter points at a
+  not-admitted fact (154, 228–231), which is the letter *about* those facts and is correct.
+  Every other document — the outlines, the schedule and the reply letter — rests **only** on facts
+  admitted on 8 September. Shepherd outline: 274 facts, all admitted.
+- **Fact-to-tab.** Every fact the request letter puts against a tab names that tab in its own text.
+  ⭐ The one apparent mismatch is not one: for Tab 30 the letter cites facts 71 and 72 (the email
+  itself) and separately notes fact 70, which is **Review Decision 69983 (Tab 25) recording the same
+  hours**. So even with Tab 30's authenticity disputed, the content is independently admitted at
+  fact 70. The Tab 30 dispute is largely academic — do not spend the attendance notice on it.
+- **Quoted phrases.** Every quotation in the outlines, the reply letter and the request letter is
+  verbatim in an admitted fact, except five from the general-practice notes ("stress at work",
+  "upset by people not following rules", "work stress", "they withhold pay at times, no overtime-
+  not processed, manipulate his roster- so he works lates then earlies", "they don't listen to his
+  complaints"). Those were never put to admission; they are proved by Tab M1 and the doctors.
+  All five verified against the served page (bundle p 5 = GP source p 7).
+- ⚠ **Content note on the served report.** Tab M4, bundle **page 19** (Krishnaiah, 13 Feb 2025, p 2)
+  contains his partner feeling like a **"sugar mommy"** from the financial strain of withheld pay,
+  and Cory's own word **"illiterate"** for stress-impaired concentration. Both are clinical evidence
+  of harm and both tie to the admitted pay facts; neither is adverse. The Regulator already holds
+  the report at **item 10**, so serving it discloses nothing new. Cory should simply know they are
+  in the pages he is serving.
