@@ -224,9 +224,8 @@ further procedural gain now available.**
    it. They will notice the gap.**
 2. ⚠ **The outline is detailed enough to function as a statement in practice**, notwithstanding its
    footer (*"not a statement of evidence and is not verified"*). ⭐ **The footer protects the form,
-   not the substance: any departure at the hearing will be cross-examined.** ⇒ **He must be able to
-   give all ten topics from memory, in his own words — the same discipline as the four minutes at
-   [22:11].**
+   not the substance: any departure at the hearing will be cross-examined.** ⛔ **See §10 — an
+   earlier version of this line said he must give all ten topics from memory. That was wrong.**
 
 ---
 
@@ -289,3 +288,70 @@ any commissioned report.**
    ⭐ **The answer is short and should be prepared, not improvised:** it is a clinical document made
    for a superannuation claim; **Dr Krishnaiah's opinion is given orally, on oath, not through the
    document.**
+
+
+---
+
+# 10. ⛔ CORRECTION — THE GUIDE, READ. TWO THINGS I HAD WRONG.
+> 9 September 2026, after Cory: *"I can read off a paper… and the guide says he needs to be called."*
+> **Both correct.** Source: **QIRC Workers' Compensation Appeal Guide, Version 2.10, 11 March 2025**,
+> `documents/guides/QIRC_Workers_Compensation_Appeal_Guide.pdf`.
+
+## 10.1 ⭐⭐⭐ THE GUIDE MAKES CALLING THE DOCTOR MANDATORY, NOT STRATEGIC
+> **§7.7, verbatim:** *"It is important to note that **presenting a medical report on its own cannot
+> be considered without having the expert witness give evidence orally to support that document and
+> being available for cross-examination by the other party**."*
+
+⇒ ⭐⭐⭐ **A report on its own cannot be considered. Calling Dr Krishnaiah is not a fallback and not a
+choice — it is the only way any medical opinion enters the appeal at all.**
+
+⇒ ⭐⭐⭐ **AND IT DISPOSES OF THE "GET A REPORT" ARGUMENT ENTIRELY.** A newly commissioned report
+carries the **identical** requirement. ⭐ **It would not reduce the attendance problem — it would
+duplicate it, creating a second expert who must also attend and be cross-examined, at his expense.**
+⇒ ⛔ **§8 of this file and §9.4 of the disclosure red-team both over-weighted the report. The
+attendance of the treating doctors is the whole medical case, and always was.**
+
+## 10.2 ⭐⭐ THE MECHANICS THE GUIDE SUPPLIES
+| Guide | What it gives |
+|---|---|
+| **§6.2.2** | *"In workers' compensation appeals, **medical witnesses may require a notice which requires that they attend the Commission and produce a copy of their report**."* ⇒ **Form 32 – Request for Attendance Notice**, with **Form 32A / 32B / 32C**; approved by a Member or the Registrar, then served |
+| ⭐⭐⭐ **§7.6.5** | *"Whilst lay witnesses must give evidence in person, generally, **expert witnesses may give evidence over the phone or by video, if the Commission allows**."* |
+| **§7.6.5** | arrange **"well in advance of the date of hearing"**, for a **pre-determined time during the hearing**; the calling party pays the expert's expenses |
+| **§7.6.4** | if a witness will not come freely, an attendance notice is requested **once hearing dates are advised in the Further Directions Order** |
+| **Part 10.1** | ⚠ **expert witnesses are entitled to a higher rate of conduct money**; the longer the expert is required, the greater the cost |
+
+⇒ ⭐⭐⭐ **§7.6.5 is the answer to a psychiatrist who declined to write a report: video evidence at a
+booked time is a far smaller ask than a report or a day in Brisbane.** ⭐ **Put the request that way.**
+
+⚠ **Budget it.** Two experts' conduct money at the higher rate is a real cost against no wages since
+3 July 2026. ⭐ **Cheaper than a commissioned report, and the Guide says the report would need the
+attendance anyway.**
+
+## 10.3 ⭐ AND HE MAY WORK FROM THE PAGE
+> **Part 12.1, verbatim:** on the brief statement describing what the matter is about — *"It is a
+> good idea to have this prepared in advance, **you can read from it if you wish**."*
+
+⚠ **Precisely:** that passage is about **the opening statement**, not about evidence in the box; the
+Guide does not address reading while giving evidence.
+⭐⭐ **But the practical position is his:** the Commission accommodates self-represented parties, a
+witness may refresh from a document, **and his outline of evidence is already served — so there is no
+surprise and the Respondent holds a copy.** ⇒ ⭐ **Ask leave once, at the start, in one line:**
+*"Commissioner, may I refer to my outline of evidence as served while giving my evidence?"*
+**Routinely granted; costs nothing; removes the question.**
+
+⭐⭐⭐ **And the concern is answered by the record in any event.** At the mention, **[22:11]**, he
+surrendered his only copy and for four minutes defined his own terminology on demand, to a
+Commissioner who could see the page and could not read it. **The capacity is demonstrated.**
+
+⚠ **The one part that cannot be read remains cross-examination** — not a rule, just structure: Ms
+Matheson asks the questions. ⭐ **That is the only preparation that matters, and it is the part he has
+already shown he can do.**
+
+## 10.4 THE TASK LIST THIS PRODUCES
+1. ⭐⭐ **When hearing dates issue in the next Further Directions Order: Form 32 + Form 32A for
+   Dr Krishnaiah and Dr Hawes**, seeking attendance **and production of the report**.
+2. ⭐⭐ **Ask for video attendance at a pre-determined time** (§7.6.5) — put it to Dr Krishnaiah that
+   way before any summons.
+3. ⭐ **Proof both on K1–K9 and the Hawes questions** in conference beforehand.
+4. ⚠ **Cost the conduct money** at the higher expert rate for two witnesses.
+5. ⭐ **Ask leave to refer to the served outline** at the start of his own evidence.
