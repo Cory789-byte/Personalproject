@@ -302,3 +302,119 @@ scale, discretionary, and compensatory only.**
 choice, and settlement should be taken only at a number that reflects those odds.**
 ⇒ ⭐⭐ **The objective is no longer "resolve at almost any price". It is: secure the doctors, prove
 the pleaded stressors, and let them make an offer that reflects a case they are likely to lose.**
+
+---
+
+# 10. ⭐⭐⭐⭐ *STRETTON* [2023] ICQ 015 — THE PARAGRAPH THE CASE TURNS ON
+> ***State of Queensland (Queensland Police Service) v Workers' Compensation Regulator & Neville
+> Stretton* [2023] ICQ 015.** **The EMPLOYER appealed. APPEAL DISMISSED.** The Commission had found
+> the investigation into a complaint **was not conducted in a reasonable way** and the injury **was
+> not excluded by s 32(5)**. ⭐ **That stood.**
+> ⭐⭐ **And it succeeded on the HARDER, repealed test** — *"the major significant contributing
+> factor"*. **Cory's 18 June 2024 injury is governed by "A significant contributing factor".**
+
+## 10.1 ⭐⭐⭐⭐ [84] — ONE UNREASONABLE ASPECT IS ENOUGH
+> *"**It does not mean that when considering s 32(5)(a) of the WCR Act one must look at the
+> management action as a series of related actions** to assess whether or not reasonable management
+> action has been taken in a reasonable way… ⭐⭐⭐⭐ **There may be ONE significant aspect of the
+> management action taken which cannot be described as reasonable or reasonably taken or both. If
+> that event was a significant contributor to the worker's suffering a psychological or psychiatric
+> injury and arose out of or in the course of the worker's employment, then unless there was
+> something else, THAT IS SUFFICIENT FOR THE WORKER TO SUCCEED.**"*
+
+## 10.2 ⭐⭐⭐ [81] — DOMINANT CAUSE IS IRRELEVANT, STATED PLAINLY
+> *"Should a finding be made that the conduct was not reasonable, **the carve out did not apply. It
+> was irrelevant to the Commission to determine whether the unreasonableness was the dominant cause
+> of the disorder.**"*
+
+## 10.3 ⭐⭐⭐ [85]–[86] — *MAHAFFEY* [54] AND [57], QUOTED AND APPLIED
+> **[54]:** *"…'**where two constructions of a Workers' Compensation Act are possible that which is
+> favourable to the worker should be preferred**'. The construction favoured by this Court has been
+> that **a worker can suffer a compensable injury even if reasonable management action has had some
+> causative effect**."*
+> ⭐⭐⭐ **[57]:** *"**In the cases decided in this Court any attempt to provide some type of formula
+> or application of dominant cause has been rejected.** Section 32 must be applied in the light of
+> the evidence accepted by the Commission. **If, after considering all the relevant evidence and
+> weighing up the factors which were accepted as having given rise to the personal injury, the
+> Commission forms a conclusion that any of the conduct referred to in s 32(5) does not, on balance,
+> displace the evidence in favour of the worker, then a finding in the worker's favour must
+> follow.**"*
+
+## 10.4 ⭐⭐ [79] — *DAVIS v BLACKWOOD* [2014] ICQ 9 [47], THE PROPER TASK
+> *"The task of the Commission when applying s 32(5) **does not involve setting out what it regards
+> as the type of actions that would have been reasonable**… **The proper task is to assess the
+> management action which was taken and determine whether it was reasonable and whether it was taken
+> in a reasonable way.**"*
+
+---
+
+# 11. ⭐⭐⭐⭐ THE APPLICATION — THE REVIEWER'S OWN FINDINGS DECIDE IT
+**Admitted, Tab 25 authenticity admitted, Review Decision Conclusion:**
+1. ✅ *"you sustained a **personal injury of a psychological nature**"*
+2. ✅ *"your injury **arose out of employment**… where **employment was a significant contributing
+   factor**"*
+3. ⭐⭐⭐⭐ *"**factor 4 amounted to unreasonable management action**"* — and at fact **260**,
+   *"the rostering of these two shifts amounted to unreasonable management action given that it was
+   in direct contradiction to the award and the 8-hour agreement."*
+
+**Now apply *Stretton* [84]:** one significant aspect of the management action that cannot be
+described as reasonable or reasonably taken + a significant contributor + arising out of employment
+= **sufficient for the worker to succeed, unless there was something else.**
+
+⇒ ⭐⭐⭐⭐ **The reviewer made every finding the worker needs, and then defeated them with a counting
+paragraph that six authorities say is wrong:**
+| Authority | What it rejects |
+|---|---|
+| ***Stretton* [84]** | that the action must be assessed as **a series of related actions** |
+| ***Stretton* [81]** | that dominant cause is relevant |
+| ***Mahaffey* [57]** | **any formula, any dominant-cause application** |
+| ***Mahaffey* [54]** | that reasonable management action having *some* causative effect defeats the claim |
+| ***Hochen* [10], [12]** | that s 32(5)(a) bars pointing to particular stressful events; and the "mainly" question |
+| ***Adams* [23]** | the dominant-cause enquiry |
+| ***Delaney*** (via *Mahaffey*) | that a surviving reasonable-management-action finding defeats a claim |
+| ***Rowe*** (via *Mahaffey* [50]) | that one caught stressor removes the injury from s 32(1) |
+
+⇒ ⭐⭐⭐ **The correct question under *Mahaffey* [57] is whether the s 32(5) conduct "does not, on
+balance, displace the evidence in favour of the worker". The reviewer never asked it.**
+
+---
+
+# 12. ⭐⭐⭐ FINAL POSITION — 9 SEPTEMBER 2026
+| | |
+|---|---|
+| This morning | 70–75% |
+| After the second audit, on unread authority | 55–70% |
+| After the first tranche | 70–78% |
+| ⭐⭐ **Now, all authorities read** | ⭐⭐⭐ **75–85%, centred ~80%** |
+
+**The uplift is not optimism. Each step is a judgment in `documents/authorities/`:**
+- ⭐⭐⭐⭐ *Stretton* [84] — **one unreasonable aspect suffices**, and the reviewer already found one.
+- ⭐⭐⭐ *Mahaffey* [57] — the correct test, which was never applied.
+- ⭐⭐⭐ *Dodd* [186] — **s 32(5)(c) does not bite on grievances aired with treating practitioners.**
+- ⭐⭐⭐ *Adams* [21] — the expert-evidence failure mode **this case does not have**, because the
+  history is admitted.
+- ⭐⭐ *Stretton* succeeded on the **harder repealed test**; Cory's is *"a significant contributing
+  factor"*.
+
+**What still holds it down — and these are the only live risks:**
+1. ⚠⚠ **Dr Krishnaiah's attendance.** ⭐ **The single largest remaining variable in the case.**
+2. ⚠ ***Adams* [20]** — the pleaded stressors are the boundary; each must be proved **as pleaded**.
+3. ⚠ **The three dismissals (Firat, Granato, Richards) are still unread.**
+
+## 12.1 ⭐⭐⭐ AND THE ADVICE, SETTLED
+| | |
+|---|---|
+| **Merits** | ⭐ **~80%** |
+| **Downside if lost** | ⭐ **~$10,450 on the *Firat* comparator** — discretionary, scale-capped, compensatory |
+| ⇒ **Posture** | ⭐⭐⭐ **Run it. Take a settlement only at a number that reflects a case they are likely to lose.** |
+
+⛔ **Everything I said earlier today about settling to escape an unbearable costs tail is withdrawn.**
+⭐⭐ **The tail is about the price of one expert report. The merits are strong and now evidenced.**
+
+## 12.2 ⛔ TWO FILES STILL WRONG — AND IT IS A CITATION ERROR, NOT A DOWNLOAD ERROR
+⛔ *Delaney* and *Bowers* are the **same wrong PDFs in this bundle**. ⭐ **The cause is the
+citation:** the real ***Delaney v Q-COMP* is (2005) 178 QGIG 197** — a **QGIG report reference, not
+an ICQ neutral citation.** Searching "[2005] ICQ 11" returns *Wesche v Vancrete*.
+⇒ ⭐⭐ **Search Queensland Judgments / QGIG by the QGIG volume and page, not the neutral citation.**
+⚠ **Delaney's holding is set out at length inside *Mahaffey*, which is sufficient to reason from —
+but the primary text must be held before it is cited in a submission.**
