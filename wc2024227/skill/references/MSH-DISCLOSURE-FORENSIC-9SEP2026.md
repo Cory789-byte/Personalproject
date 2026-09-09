@@ -279,3 +279,75 @@ produced the wrong document against a request framed on his duties. Read for wha
    existed on 19 March 2024 in the fortnight whose published roster omits him (§2.1).
 5. ⚠ **Assembled 8 May – 2 June 2026, three days before the objection letter of 5 June.** State the
    dates, never the inference.
+
+---
+
+# 7. ⭐⭐⭐ THE DECLINE HAD NO VALID GROUND — FOUR INDEPENDENT FAILURES, ALL DOCUMENTARY
+
+> Added 9 September 2026 after Cory's correction: **there were two statements, and the second was
+> never required.** He is right, and the reason is on the face of the employer's own documents.
+
+## 7.1 The two statements
+| | What it is | When |
+|---|---|---|
+| **Statement 1** | ⭐ **The declaration printed on the front of the application itself** | inherent in the submission, 20.02.2024 **11:41:27** |
+| **Statement 2** | The Commonwealth statutory declaration executed on myGov | 20.02.2024 **11:38 AEST** |
+
+**Statement 1, verbatim from page 1 of `Item 11_Leave form PRN 15480560 pandemic leave.pdf`:**
+> **Special Pandemic leave – COVID-19 positive diagnosis**
+> *"**I declare that I**, or an immediate family or household member, **was diagnosed as COVID-19
+> positive through a positive polymerase chain reaction test or rapid antigen test, resulting in my
+> inability to work for the period of this leave request.**"*
+
+⇒ ⭐⭐⭐ **The declaration of the diagnosis is a built-in term of the application. He made it at the
+front, by submitting. The statutory declaration was a second, voluntary statement of the same fact.**
+
+## 7.2 FAILURE 1 — no statutory declaration is mandated anywhere
+**Metro South's own Item 13, `directive-01-20-implementation-guide-v2.pdf`, §8 "Employee evidence –
+Special Pandemic Leave", verbatim:**
+> *"While there is still a requirement for employees to provide supporting evidence (**documentation
+> or advice to the satisfaction of the Chief Executive or delegate**) for all periods of absence on
+> Special Pandemic Leave… they **may not be required to provide a medical certificate**. Employees
+> **may** provide a copy of a record to confirm they… have undergone a relevant assessment **or such
+> other documentation or other advice which satisfies agency requirements**.*
+> ⭐⭐⭐ ***There is no one type of mandated evidence prescribed by the Directive.***"
+
+⇒ **Their ¶14(d) (admitted fact 133) says the application was declined because "the *required*
+statutory declaration was not attached."** ⭐⭐⭐ **No such requirement exists in the Directive or the
+Implementation Guide — and Metro South produced both of them, itself, at Item 13.**
+
+## 7.3 FAILURE 2 — the sufficiency of evidence was a **delegate's** assessment
+The Guide fixes the assessor: *"to the satisfaction of the **Chief Executive or delegate**"*.
+⭐ **Ms Taylor signed the certification page as "Reviewer". Ms Reese signed as "Delegate", on
+01.03.2024 — nine days after the first decline and one day after the second.**
+⇒ ⭐⭐⭐ **The evidentiary sufficiency question was assessed, adversely, twice, by a person who was
+not the delegate — and the Guide gives that assessment to the delegate by name of office.** This is
+the facts 127–131 interlock landing on the very ground of the decline, not merely on the power.
+
+## 7.4 FAILURE 3 — the form expressly contemplates documents NOT being attached
+The **Delegate** certification, page 2, verbatim:
+> *"I am the delegate, or I have approval from the delegate to approve this request… **I have seen
+> and will retain all the supporting documents not attached to this request.**"*
+
+⇒ ⭐⭐ **Non-attachment is a state the system is built to handle — the delegate certifies to having
+seen documents that are not attached. "Not attached" therefore cannot, on the employer's own form,
+be a ground of refusal.**
+
+## 7.5 FAILURE 4 — it was attached anyway
+Admitted **fact 134**, ¶14(e): *"a review indicates that **in fact, the attachments were present** on
+the appellant's submission."* And Metro South produced the statutory declaration itself, timestamped
+**11:38**, **three minutes and thirty-three seconds before the 11:41:27 submission** (§5.1).
+
+## 7.6 ⭐⭐⭐ THE NET
+**A decision adverse to the Appellant was taken twice, on a ground that (1) the Directive does not
+impose, (2) the assessor was not the officer authorised to assess, (3) the form itself makes
+incapable of being a ground, and (4) was factually wrong — as the Respondent now admits.**
+
+⇒ Their answer is ¶14(f), **"human error by Ms Taylor"** (fact 135). ⭐ **Four failures in one
+decision is not error; but the Appellant does not need to say so.** State the four, in order, from
+four documents, and stop. ⛔ **Never assert motive** (rule 1). ⛔ **Never say "systemic" or
+"pattern"** — this is one decision, described exactly.
+
+⚠ **The s 32(5)(a) point still needs the authority at §4.1** — whether an act outside a delegation
+is "management action" at all. **But failures 1, 3 and 4 do not depend on the delegation question,
+and can be put without it.** That is the safe form of the point until the reading is done.

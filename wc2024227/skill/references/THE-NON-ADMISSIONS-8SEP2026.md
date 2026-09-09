@@ -1154,3 +1154,82 @@ question is decided — and specifically the *"taken in a reasonable way"* limb.
 ⇒ **Do not cross to destroy her. Cross to establish that the means to do the job were not provided,
 and that nothing changed when that was reported.** Every honest answer she gives helps, because the
 sequence is already admitted.
+
+---
+
+# 16. ⭐⭐ WHAT DWYER ACTUALLY SAW, AND WHAT HE WAS TOLD
+
+> 9 September 2026, answering Cory: *"Dwyer obviously saw something or was told something."*
+> ⛔ **Passages below are from the machine diarisation** (`documents/transcripts/`), which has
+> visible speaker-attribution errors. **Nothing here is quoted into a filing except from the
+> approved QTranscripts transcript, ATR0282381, 18 August 2026.**
+
+## 16.1 He did not see a secret. He saw the file, and he knows the Regulator.
+| | |
+|---|---|
+| **[08:56]** | *"having read the material that you've filed"* |
+| **[12:18]–[13:02]** | he reads **Stressor 1 aloud, verbatim**, then breaks it into its elements |
+| **[25:27]** | *"This is the Form 29 file"* |
+
+⇒ ⭐ **He had the Form 9A and the Form 29 and had read them.** That accounts for everything he said
+about the case. There is no third source and none is needed.
+
+⭐⭐ **The one thing that looks like inside knowledge, he sources himself:**
+> **[59:48–59:58]** *"they will operate in the way that I've always experienced them operating **both
+> as a commissioner and as a practitioner, appearing against them on many occasions** as
+> professionals."*
+
+⇒ **His confidence about how the Regulator behaves comes from years opposite it and above it — not
+from this file.** ⭐ **That is worth more than a secret would be: it makes what he said a general
+standard, not a case-specific impression.**
+
+## 16.2 ⭐⭐⭐ WHAT HE WAS TOLD — AND IT WAS TOLD TO HIM BY THE REGULATOR, ON THE RECORD
+> **[17:22]** DWYER IC: *"Ms Matheson, has disclosure in respect of documents taken place over the
+> course of the matter so far?"*
+> **[17:35]** ⭐⭐⭐ MS MATHESON: *"**Yes, Commissioner. We've disclosed all we have currently.**"*
+
+⇒ That representation was made **to the Commission**, on 7 August 2026, unqualified.
+
+## 16.3 ⭐⭐⭐ AND THIS IS THE STANDARD HE SET, WITH MATHESON IN THE ROOM
+| | |
+|---|---|
+| **[59:42]** | *"They have responsibilities **as a model litigant**, okay, so **they can't hide stuff from you, they can't be sneaky or tricky**"* |
+| ⭐⭐⭐ **[60:05]** | *"if there's a document that you can properly identify as being something **that they can readily access through their liaison with the health service**, then **they should be able to provide it to you**"* |
+| **[62:52]** | *"the fact that you make the assertion that you were sent these emails **needs to be addressed by the regulator**"* |
+| **[15:36]** | *"**the regulator does have to contradict things that you say**… if you say something and it's not contradicted… there's a likelihood that it'll be accepted"* |
+
+⇒ ⭐⭐⭐ **Dwyer stated, as something he treated as obvious and uncontradicted, that the Regulator has
+a liaison with the health service and can readily access its documents through it.** ⭐ **Neither
+Ms Matheson nor Ms Ruttan demurred — he expressly invited them to at [61:29]: *"anything arising out
+of all of that, Ms Matheson? Have I misrepresented your role in the matter…?"* The answer was
+"No."**
+
+## 16.4 ⭐⭐ WHAT THAT DOES TO THE 8 SEPTEMBER NON-ADMISSIONS
+On 8 September the Regulator declined to admit the **authenticity** of 14 documents — including
+**Tab 20, a letter from the Commission's own file**, and **Tabs 5, 6 and 30, records the employer
+generated** (§3C classes B and C). Authenticity of a document held by MSH is verifiable by the
+liaison Dwyer described, and §3C.1 proves that liaison operating: **Chloe Taylor → Renee Matheson,
+10 July 2025, 2:48 pm, eight attachments, "Please find attached requested information."**
+
+⇒ ⭐⭐ **One month after being told on the record that documents the Regulator can readily access
+through its liaison with the health service "should be able to be provided", it refused to
+authenticate documents that liaison could confirm in a single email — an email of exactly the kind
+already on the file.**
+
+⛔⛔ **HOW FAR THIS CAN BE PUT — AND NO FURTHER**
+1. ⛔ **Never as bad faith, never as a breach of the model litigant obligation, never as "sneaky".**
+   Those are Dwyer's words about the Regulator's *duties*, not a licence to accuse it. Rule 1.
+2. ⭐ **The permissible form is the one already in the 9 September letter: an offer.** *"If the
+   Respondent is unable to verify authenticity from its own records, the Appellant will provide
+   originals or the Respondent may confirm with the employer."* **Neutral, procedural, and it puts
+   the choice on them.** §8 already has this right — do not escalate it.
+3. ⛔⛔ **Dwyer will not hear the appeal** (Guide 5.1; he chaired the 13 March 2026 s 552A
+   conference). ⚠ **Nothing he said is a ruling, and none of it binds the trial Commissioner.**
+4. ⭐⭐ **Where it is worth something is the second s 552A conference — which he would chair**, and
+   which Guide 5.1 describes as the point at which *"the Respondent may… consider conceding the
+   appeal where new information is presented."* ⇒ **The non-admissions, the four failures at
+   §7 of the disclosure file, and the statutory declaration timestamp are that new information.**
+   ⭐ **That is the forum for this, not the hearing.**
+5. ⚠ **[15:36] cuts both ways and is the most useful line in the transcript for the Appellant's own
+   preparation**: uncontradicted evidence is likely to be accepted — which is why **direction 1
+   (the witness list) and the 30 September Respondent's list matter more than the non-admissions do.**
