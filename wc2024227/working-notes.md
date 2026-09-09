@@ -7442,3 +7442,59 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 - Addition: the 29 Jul enquiry to ART came **16 days after Cory's 13 Jul 16:39 email** telling Injury Management "I no longer have an active open QSuper Income Protection claim; that claim is now closed ... There is accordingly no income support available to me from that source", and 14 days after Harrison's 15 Jul reply ("as we have been provided information that you do hold a current QSuper Income Protection Claim ... please provide a copy of [closure] correspondence"; "The only information supplied to QSuper/ART from injury management is the email I cc'd you in on Monday 13/07/2026"). ART's 31 Jul answer: claim "active", benefits "temporarily paused" from 31 May 2026, no payments — i.e. the substance of what Cory said (no income from that source) confirmed to MSH on 31 Jul; label differs ("closed" vs "active/paused"). ⚠ Going forward use ART's words: "no benefit has been paid since 31 May 2026; benefits paused". Knowledge point: from 31 Jul MSH knew the IP-claim premise for refusing pay produced nothing, and continued the hold-out; the 29 Jul contact was employer-initiated and not copied to Cory, against the 15 Jul description of the flow.
 - ART claim status, from the repo (8 Sep check): 13 Mar 2026 10:00 Cory→Ings "would like the super to stop paying me", "following up on an earlier email mid last year" (that mid-2025 email is NOT in the repo — locate in Hotmail sent items). ART 4 Aug 2026 (Zappia): acknowledges the cease request "on 16 March 2026"; "no record of receiving notification from you in April or May 2025"; last payment 28 May 2026 (25–31 May); payments "temporarily suspended from 31 May 2026" pending overpayment review 7 Apr 2025–31 May 2026; partial benefit formula; "you may be entitled to ongoing benefits". QSuper Resolutions (Beck) 28 May 2026: James contacted the employer for payslips; payments on hold from 1 Jun 2026. Cory 12 Aug 2026: agrees the recalculation basis; asks for workings and for assessment of entitlement from mid-June 2026 (no wages since 13 Jul). ⇒ Precise formulation for MSH: "I asked the insurer in writing on 13 March 2026 to stop paying me; the last payment covered the week to 31 May 2026; payments have been on hold since 1 June 2026 pending the insurer's review." ⛔ Never "closed" again; never "receiving benefits".
 - Date adjacency recorded (8 Sep 2026, no inference): MSH abandonment confirmation K-CF24/3270 (Johns, per Firoz) — Word file created **9 Oct 2024 16:08:05**, forwarded 16:10. HopgoodGanim DMS record for "Reasons for decision - WCR reject - Worker applicant - Mr Cory Shepherd" — **HgDMSDate 09.10.2024**, PDF made 24 Oct 2024 10:16. Same calendar day, two organisations, no document connecting them. ⛔ The DMS date is the record date; a DMS description can be set on any save; it cannot be said the outcome was known on 9 Oct. ⛔ Not for the appeal; §7.8 question only, after 30 Sep.
+
+## 2026-09-09 — THE 9 SEPTEMBER SET FINALISED: rebuilt from one source, three audits, nineteen corrections
+- **Build.** `drafts/build_9sep_final.py` now runs every builder in order and writes `FINAL_9SEP2026`,
+  `SEND_9SEP2026` and the `TO_MATHESON_9SEP2026` mirror from the same build, so no superseded copy of a
+  served document can survive anywhere. It verifies every PDF for docinfo, XMP, page metadata,
+  annotations and embedded files, and **fails** rather than emit a two-page outline (direction 2).
+  `drafts/build_9sep_review_bundle.py` makes a 60-page reading copy, footer-stamped "not for service".
+- ⛔⛔ **NEAR MISS — the Tab M1 redactions.** `build_medical_bundle.py` pointed at a scratch directory
+  from an earlier session that no longer exists. A rebuild would have served the **unredacted** GP pages
+  (sexual-health entries, chlamydia exposure, erectile dysfunction). The three redacted pages were
+  recovered out of the last built PDF and are now at **`drafts/assets/redacted/`**. ⭐ **They are the only
+  copy. If they are lost the bundle rebuilds unredacted.**
+- **Three audits run against the record: citations; dates/names/quotations; set-level consistency.**
+  Nineteen corrections applied. The ones worth remembering:
+  - MSH June 2026 production **Item 6 is the role description for the Switchboard MANAGER**, not the AO3.
+    The request letter had cited it as the holder of Tab 1. The AO3 description is **RFMI Attachment 2 of
+    31 July 2026**. ⛔ Do not cite Item 6 for the AO3 role description again.
+  - **Respondent's amended LOD item 3 is the Application for Review**, not the Form 29 to Mind and Memory.
+    No non-party notice to the practice appears on the Respondent's list at all.
+  - ⛔ **There is NO order sealing Exhibit A5.** The record holds only the Commissioner's *indication* on
+    13 March 2026 that it *will be* sealed, and Cory's acceptance of it. Never assert a sealing order.
+  - **Harrison-Jones**: nothing supports "temporary part-time operator" or that he has left MSH; the
+    20 Aug note records him as a **current MSH employee**. Both assertions removed from his outline and
+    from the witness list.
+  - **Conaghan's ballot denial** was contradicted by admitted **facts 176–177** (17 employees invited to
+    vote, Nov–Dec 2024). Now bounded to "before 30 June 2024".
+  - The MASPER emails log **nine occasions**, of which seven are wrong-team calls; the VHUB entry is the
+    MET team ringing for a location. "Nine calls reaching the wrong team" was an overstatement.
+  - The Respiratory Service quote "we can not help patients or other clinical staff" is in the **20 May**
+    email only, not the 15 May one.
+  - The four work capacity certificates leave **10 August 2024 uncovered** — never say "continuous".
+  - Separation date is **20 September 2024** (Johns, signed 8 Oct 2024), not "October 2024".
+  - ⛔ **The Communication Book and the "Contact & Number Changes book" are different books.** Both lay
+    outlines had conflated them; corrected.
+  - The 16 May 2024 referral lists **three** medications (azithromycin, melatonin, Viagra). Melatonin m/r
+    is ATC N05CH01, so "no other psychotropic" is contestable — say **"no antidepressant or anxiolytic"**.
+  - Volume figures (15–50 codes per 24h; 200–300 calls per shift) are **not admitted facts**; they come
+    from Form 20 ¶¶9, 12, 23. Now attributed in the outline to his own records.
+- ⛔ **DATA FIX — `FORM24_RESPONSE_parsed_fact_by_fact.tsv` was wrong.** It had the Form 25 tab statuses
+  interleaved into the fact rows: facts 5, 6, 17–24, 30 and 31 read "Disputed" when all were **Admitted**,
+  and it showed 12 disputed tabs instead of 14. Rebuilt (303 rows, full fact text). Tab statuses now in
+  `FORM25_RESPONSE_tab_authenticity.tsv`. Recorded in the interlock skill's source-integrity reference.
+  ⭐ **The response is 298 admitted / 5 not admitted (154, 228–231); 14 tabs disputed
+  (1, 5, 6, 17–24, 30, 30A, 31) — exactly the 14 sourced from Cory's own records.**
+- **Outline changes on instruction.** Topic 2 drops the Review Decision's unreasonable-management-action
+  finding (a third party's characterisation, not lay evidence) and gains the **emergency code register,
+  its entries for 17–19 March 2024 and Cory's screen capture** — needed because facts 228–231 were refused
+  and Tab 31's authenticity disputed, so only his evidence proves them. Topic 5 now ends on what the delay
+  meant at the console for the codes and calls he was handling: the operational-consequence limb.
+  Topic 3 states what Reese's 10 May email says rather than calling it an acknowledgement. Topic 10 drops
+  the unverified claim that the QH mailbox was restricted.
+- **Open for the hearing, not for service:** the Krishnaiah report's first paragraph refers to "his unfair
+  dismissal, workplace conflicts, alleged bullying, harassment" and to collateral from his mother — expect
+  the Regulator to use it as perception material; schedule row 4 already fences attribution. Item 5 (the
+  clinical records) still not received; serve on receipt. Tab 31 / facts 228–231 to be pressed by the
+  request letter, then by attendance notice to MSH if nothing comes by 18 September.

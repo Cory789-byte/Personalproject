@@ -44,16 +44,14 @@ OUTLINES = [
   [("Employment and the role.", "I commenced at Logan Hospital Switchboard on 25 March 2019 as a "
     "casual, became permanent from 3 March 2021 and full time from 16 October 2023, as a continuous "
     "shift worker. The Switchboard is the hospital's communications hub: in a Code Blue or MET call it is the "
-    "Switchboard that activates and pages the response team, and an error or delay at the console is an error or "
-    "delay in the emergency response. What each code is: a Code Blue, a cardiac or respiratory arrest; a MET call, a "
-    "deteriorating patient; a Code Grey, an unarmed threat; a neonatal MET call, a newborn; what an urgent pathology "
-    "result is, and what turns on the clinician being reached in time. Between 15 and "
-    "50 emergency codes go out in 24 hours; some 200 to 300 calls a "
-    "shift, many from people distressed, frightened or in crisis; urgent results relayed doctor to doctor; and "
-    "complaints from the public, clinicians and staff arrive at the console first, to the operator on duty, and "
-    "those my manager did not action came back to me. The standing condition of the role over the period: from the "
-    "moment I logged onto the board I was held responsible for what went wrong anywhere in that system, while the means of correcting it, the directory, "
-    "the on-call roster, my own roster and my pay, were held by others. "
+    "Switchboard that activates and pages the response team, and a delay at the console is a delay in the "
+    "emergency response. What each code is and what it requires of the operator, and what an urgent pathology "
+    "result is, and what turns on the clinician being reached in time. From my own records, between 15 and "
+    "50 emergency codes go out in 24 hours and some 200 to 300 calls a "
+    "shift, many from people in distress or crisis; urgent results relayed doctor to doctor; and the complaints that "
+    "reach the console first, including those my manager did not action, which came back to me. The standing condition of the role over the period: from the "
+    "moment I logged onto the board I was held responsible for what went wrong anywhere in that system, while the means "
+    "of correcting it, the directory, the on-call roster, my own roster and my pay, were held by others. "
     "<i>[Notice &para;&para; 1&ndash;16, 26&ndash;48, 182&ndash;223]</i>"),
    ("Sleep and fatigue.", "My sleep on rotating shifts across 2023 and 2024 and the melatonin and "
     "temazepam prescribed on 16 November 2023; that after late shifts I would sleep in the car before driving home. The "
@@ -61,9 +59,9 @@ OUTLINES = [
     "finishing at 23:00 and starting at 06:00, and the rest and sleep actually available; that on the "
     "evening of 17 March I handled a MET call and, four minutes later, a Code Blue to the same bed, then "
     "a further MET call; that 18 March was a Monday day shift, the week's peak, and that between 06:00 and 14:00 I "
-    "handled a Code Grey, two MET calls (one cancelled a minute later) and two neonatal MET calls, in that state, while answering that queue of "
-    "urgent handover, distressed callers and complaints; the register of emergency codes kept at the Switchboard, its "
-    "entries for 17 to 19 March 2024, and the screen capture of its March 2024 sheet that I took; "
+    "handled a Code Grey, two MET calls (one cancelled a minute later) and two neonatal MET calls, in that state, while "
+    "answering that queue of urgent handover, distressed callers and complaints; the register of emergency codes kept at the Switchboard, its "
+    "entries for 17 to 19 March 2024, and my screen capture of its March 2024 sheet; "
     "and that those shifts were not a staff-initiated swap, the "
     "only case in which, by Ms Forrest's email of 7 July 2026, the 8-hour agreement applied. The sequence that "
     "followed: my request of 8 April 2024; Ms Taylor's reply of 9 April that she had escalated it to Human Resources "
@@ -76,23 +74,23 @@ OUTLINES = [
     "the Switchboard began only after 30 June 2024. "
     "<i>[&para;&para; 17&ndash;25, 211&ndash;227, 232&ndash;261, 263&ndash;271, 285]</i>"),
    ("Rostering: lates then earlies.", "The pattern on my roster line of late shifts followed by "
-    "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line recurred across roster periods; "
+    "early shifts, and of nights, days off, then nights again, raised on 16 April 2024; that rostering errors on my line "
+    "recurred across roster periods; "
     "and Ms Reese's email to Human Resources of 10 May 2024 stating \"a few "
     "rostering errors made by Chloe with regards to Cory's line in past rosters\"; and that I was not told my roster "
-    "proposal would not be considered, and learned of Ms Reese's email of 10 May 2024 saying so only from the "
-    "Respondent's disclosure in July 2025. "
+    "proposal would not be considered, and learned of that email only from the Respondent's disclosure in July 2025. "
     "<i>[&para;&para; 211&ndash;223]</i>"),
    ("Pay and entitlements.", "The public holidays I was not rostered between February and April "
     "2024 and the difference to my pay. The loop: on 8 April 2024 I asked Ms Taylor to review my "
     "pay; on 9 April she directed me to raise the older dates through MyHR payroll enquiries; Payroll "
-    "told me the payments had to be processed by my manager, which I relayed to her on 24 April; on "
+    "told me the payments had to be processed by my manager; on "
     "3 May Payroll wrote to her, copying me, to \"submit an AVAC to correct these shifts for each "
     "fortnight\"; when I followed up with Payroll on 10 May, Payroll on 13 May told me to \"speak to "
     "your Line Manager\"; on 21 May she was still \"waiting payroll confirmation\"; on 28 May I was "
     "asked to sign a validation of claims older than three months. That under the payroll process "
     "only my manager could submit the AVAC. The February 2024 special pandemic leave application: "
     "what I attached, the two declines, and the approval on the same material; and the effect on me of being unable "
-    "to have those errors resolved over those months. "
+    "to have those errors resolved. "
     "<i>[&para;&para; 114&ndash;142, 182&ndash;210, 242&ndash;246]</i>"),
    ("The database, the misdirected calls, and what I could not fix.", "That from 18 July 2023 "
     "operators could no longer correct database entries and the changes book was removed, so a wrong "
@@ -103,9 +101,9 @@ OUTLINES = [
     "departments and clinicians ringing during my shifts with pager and phone updates asked for "
     "her, and on many occasions neither they nor I could have the update or issue resolved during "
     "the shift. The MASPER Registrar's \"Switchboard issues\" emails to Ms Taylor of 3 May 2024 at "
-    "3:06 pm and 8 May at 5:28 pm, nine calls reaching the wrong team, including the MET call team "
+    "3:06 pm and 8 May at 5:28 pm, the nine occasions they log, including calls put through to the wrong team and the MET call team "
     "ringing because \"switchboard could not tell them where VHUB was\"; that her first response came "
-    "on 9 May at 9:20 am, five days and eighteen hours after the first, asking Dr Wong for her business "
+    "on 9 May at 9:20 am, five days, eighteen hours and fourteen minutes after the first, asking Dr Wong for her business "
     "hours because they were \"not provided on the rosters\" and that her phone was \"switched off\"; "
     "and at 10:15 am telling the team of "
     "\"many ongoing issues\" about calls \"transferred to the wrong medical teams\"; the Integrated Respiratory Service writing on 15 May and again on 20 May 2024, when it said \"we "
@@ -113,13 +111,13 @@ OUTLINES = [
     "correction waited on someone else, and what that meant for the codes and calls I was handling at the time. "
     "<i>[&para;&para; 39&ndash;113]</i>"),
    ("Ms Taylor's hours: the question, the retraction request, and the answer.", "That neither I "
-    "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them; Ms Reese's reply that evening asking me to retract it, which I did; that two days later, on 17 May "
+    "nor the department knew her office hours; my email of 15 May 2024 at 1:15 pm asking her to share them; Ms Reese's reply that evening asking me to retract it, and what followed; that two days later, on 17 May "
     "2024 at 9:30 am, Ms Taylor sent the whole department an email stating \"Otherwise my hours are from 06:30-14:30\", the very information I "
     "had asked for; and Ms Reese's reply of 21 May 2024 asking me to identify the directives I was "
     "concerned about. "
     "<i>[&para;&para; 70&ndash;88]</i>"),
-   ("The complaints, and what followed them.", "The communication book entry of 6 June 2023, a reminder about the monthly update of doctors' contact numbers, and its "
-    "removal; my email of 16 June 2023 recording no consultation on major changes; the concerns I raised "
+   ("The complaints, and what followed them.", "The communication book entry, a reminder about the monthly update of doctors' contact numbers, and its "
+    "removal; my email of 16 June 2023 about consultation on changes; the concerns I raised "
     "on 7 August 2023 and the responses; my complaint of 13 May 2024, later determined to be a public "
     "interest disclosure (content not set out); my interest in becoming the Switchboard union delegate "
     "and what followed; and that, on Metro South's own statements, no safety assessment, investigation or change "
@@ -154,7 +152,7 @@ OUTLINES = [
     "the events those records name are the facts admitted on 8 September 2026 (Tabs M1 to M4). I offer no clinical or "
     "diagnostic opinion."),
    ("After 18 June 2024, and documents.", "Meetings scheduled while I was on certified leave; my "
-    "employment ended under abandonment provisions in October 2024 while I held current certificates, "
+    "employment was ended under abandonment provisions with a separation date of 20 September 2024, while I held current certificates, "
     "and my later reinstatement; the months without pay after the injury and the claim, with the pay errors never "
     "resolved, and the leave since. Documents: rosters and "
     "payslips; my emails and messages with my line manager and the Director; the employer's leave and "
@@ -162,9 +160,8 @@ OUTLINES = [
   ]),
 
  ("OUTLINE_02_HARRISONJONES", "OUTLINE OF EVIDENCE &ndash; MR CORY HARRISON-JONES", TAIL_W,
-  "Mr Harrison-Jones worked at Logan Hospital Switchboard during 2023 as a temporary part-time "
-  "operator alongside the Appellant. He is no longer employed by Metro South Hospital and Health "
-  "Service. He is expected to give evidence of the following.",
+  "Mr Harrison-Jones worked at Logan Hospital Switchboard alongside the Appellant. He is expected to "
+  "give evidence of the following.",
   [("", "That a function of the Switchboard was to hold and maintain accurate contact and paging "
     "numbers for medical staff, including on-call doctors, so that calls and emergency "
     "notifications could be directed to the correct person."),
@@ -173,8 +170,8 @@ OUTLINES = [
     "number changes, allocated to a shift, was left undone over that period; that the Appellant placed a reminder "
     "in the Communication Book about the allocation of that monthly task; and that he was on shift and saw the Appellant "
     "check the contact numbers and write that reminder on handover."),
-   ("", "That the Communication Book was kept in the operators' room and used to record changes to contact and paging "
-    "numbers and matters for handover; that he read it in the course of handover during the period he worked at the "
+   ("", "That the Communication Book was kept in the operators' room and used by the Switchboard team to communicate "
+    "and for matters of handover; that he read it in the course of handover during the period he worked at the "
     "Switchboard; and that he did not see in it any entry made by the Appellant that criticised any person, directly or "
     "indirectly."),
    ("", "That he was a recipient of the email sent by Ms Stibbard to the Switchboard team on "
@@ -215,13 +212,13 @@ OUTLINES = [
     "medical team, including calls concerning emergency responses."),
    ("", "That during that period operators had no means of correcting an incorrect entry in the "
     "directory themselves."),
-   ("", "That the Communication Book was used to record changes to contact and paging numbers and matters for handover; "
+   ("", "That the Communication Book was used by the Switchboard team to communicate and for matters of handover; "
     "that she has read it in the course of handover throughout the period she has worked with the Appellant; and that she "
     "has not seen in it any entry made by the Appellant that criticised any person, directly or indirectly."),
    ("", "That she was not consulted about the change to after-hours on-call arrangements notified "
     "by Ms Taylor to the Switchboard on 15 April 2024, and was not asked to vote on that change."),
    ("", "That she was not consulted about, and was not balloted in relation to, changes to the "
-    "Switchboard roster."),
+    "Switchboard roster at any time before 30 June 2024."),
    ("", "Any change she observed in the Appellant at work over the period, from her own "
     "observation. She offers no opinion as to diagnosis or cause."),
    ("", "That in the time they have worked together she has not heard the Appellant speak of Ms Taylor, or of any "
