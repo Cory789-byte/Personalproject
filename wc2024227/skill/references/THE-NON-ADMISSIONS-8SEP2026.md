@@ -1324,3 +1324,35 @@ motive, never say the refusals were tactical** (rule 1). ⛔ Never *"pattern"*, 
 3. ⚠ **Fact 230 is the only refused fact carrying real weight** — six emergency entries between
    06:00 and 14:00 on 18 March, i.e. **the workload during the shift that followed the short break**.
    That goes to exposure, not to the shortfall. ⭐ **Chain 1 does not need it. Its loss is contained.**
+
+
+---
+
+# 18. ⭐⭐⭐ WHAT HE ACTUALLY DID TO THEM — HE DID NOT ARGUE MEANING, HE STATED USE
+> 9 September 2026, recording Cory's own summary: *"they tried to brush the admissions to mean less
+> and I put it back to them what it will be used for and what it means."* ⭐ **That is exactly what
+> the letter of 9 September does, and it is why it works.**
+
+## 18.1 THE TWO MOVES ARE NOT THE SAME MOVE
+| | |
+|---|---|
+| ⛔ **Arguing meaning** — *"the admissions prove more than your letter allows"* | invites a contest about interpretation, which they can answer, and lets them **reformulate the limitation** knowing how he reads it |
+| ⭐⭐⭐ **Stating use** — *"here is what each admission is relied upon FOR"* | **there is nothing to answer.** A stated use is either available on the admission or it is not, and **for an operative document it plainly is** |
+
+## 18.2 ⭐⭐⭐ AND HE STATED THE BOUNDARY IN THE SAME BREATH
+> §2: *"Where the document is **itself the step taken**… the Appellant relies on the admission as
+> establishing that the step was taken on that date in those terms. **The Appellant does not rely on
+> those documents as statements about some other event.**"*
+> §3: *"Where an admitted document records a statement, finding or opinion of another person… the
+> Appellant relies on the admission for the **existence and wording** of the document and on **the
+> oral evidence of its author** for the rest."*
+
+⇒ ⭐⭐⭐ **He accepted their limitation in full and then showed that on their own limitation the case
+still closes** — because for an operative document, existence and wording **is** the fact.
+⭐ **He gave up nothing he needed and conceded everything they asked for.**
+
+## 18.3 ⭐⭐ WHY IT CANNOT BE UNDONE
+To narrow it further they must contend that admitting the existence and wording of an email does not
+establish that the email was sent. ⛔ **That is not arguable.** ⇒ ⭐⭐⭐ **Their limitation is now
+fixed, conceded, and shown not to reach the case — and the concession is his, on the record, so it
+also removes the target of their "any conclusion you have drawn" reservation.**

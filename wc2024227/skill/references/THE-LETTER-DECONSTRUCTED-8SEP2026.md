@@ -434,3 +434,61 @@ filled over his own files in a single sitting sixty seconds apart, unsigned, no 
 is the one already in §3A of the non-admissions file: the contrast between the two responses is
 stated, if ever, as a difference in FORM — signed with reasons, against unsigned without — and never
 as a conclusion about why.**
+
+
+---
+
+# 13. ⭐⭐⭐ PARTIAL RE-CORRECTION — THE SHAREPOINT COLUMNS ARE NOT THE SAME AS THE CYCLE IDs
+> 9 September 2026. §11 swept the SharePoint fields in with the template cluster. **That was too
+> broad.** Tested separately, they behave differently, and Cory's instinct on them is sound.
+
+## 13.1 THE TEST — SITE COLUMNS ACROSS EVERY PDF IN THE REPO
+| Document | ContentTypeId | ⭐ Business unit | ⭐ Landing page |
+|---|---|---|---|
+| ⭐⭐⭐ **Regulator cover letter, 8 Sep 2026** | ✔ | ⭐ **"132;#Office of the Deputy Director-General\|38036b16…"** | ⭐ **"698;#Correspondence\|010b1a33…"** |
+| Regulator **SOFC**, 22 Jul 2025 | ⛔ **none** | ⛔ none | ⛔ none |
+| Regulator **AMENDED SOFC**, 13 May 2026 | ⛔ **none** | ⛔ none | ⛔ none |
+| ⭐ Regulator **Form 24 response, 18 Feb 2026** | ⛔ **none** | ⛔ none | ⛔ none |
+| QH policies, EB12, IME Guideline *(4 files)* | ✔ bare id only | ⛔ none | ⛔ none |
+
+## 13.2 ⭐⭐⭐ WHAT THAT SHOWS — AND WHY IT SURVIVES WHERE THE CYCLE IDs DID NOT
+⭐⭐⭐ **The cover letter is the ONLY Regulator document in this matter carrying any SharePoint
+provenance at all, and the only document anywhere in the repo carrying populated managed-metadata
+columns.**
+
+⇒ **The template-inheritance objection that killed the cycle IDs does not work the same way here:**
+| Cycle IDs | SharePoint columns |
+|---|---|
+| ⛔ appear on **unrelated** documents (a 2015 QIRC award) | ⭐ appear on **no** other document in the matter |
+| ⛔ **repeat identically** across ten months and an amendment (SOFC: 1542059378 twice) | ⭐ **nothing to repeat against** — the other OIR documents have none |
+| ⛔ the letter's `_EmailSubject` is **blank** where real sends carry a descriptive one | ⭐ the values are **specific**: a named business unit and a named document class |
+
+⭐⭐ **Decisive comparator: the 18 February 2026 Form 24 response is also OIR, also a Word document,
+also converted by PDFMaker — and it carries NO SharePoint columns whatever.** ⇒ **If these were mere
+template artefacts, that document should look similar. It does not.**
+
+## 13.3 ⭐⭐ THE SAFE STATEMENT, AND THE LIMIT
+✅ **What is shown:** the source document was held in, or built from a template held in, an **OIR
+SharePoint document library**, under a defined content type, filed as **Landing page =
+Correspondence** within **Business unit = Office of the Deputy Director-General**. ⭐ **No other
+document served in this matter has that provenance.**
+
+⇒ ⭐⭐⭐ **This letter was produced through the corporate correspondence machinery. Everything else
+they have sent in this matter was not.** ⭐ **That is a document-to-document distinction, and it is
+the strongest metadata point on the file.**
+
+⛔⛔ **What is NOT shown, and must never be asserted:**
+1. ⛔ **That anyone reviewed or approved it.** Taxonomy columns are **filing** metadata — there is no
+   approval field, no workflow id, no version history in what we hold.
+2. ⛔⛔ **That it went to the Deputy Director-General.** *Business unit* is a **classification**, not a
+   routing record. ⛔ **Never say or imply the DDG saw it.**
+3. ⛔ **That Ms Kerrigan wrote it, settled it, or touched this letter.** `_AuthorEmail` remains
+   unsafe (§11). ⛔ **Do not name her.**
+
+## 13.4 ⭐ AND THE ORDINARY INFERENCE, WHICH NEEDS NO METADATA
+⭐⭐ A Senior Appeals Officer in a regulator's appeals unit does not normally issue a two-page
+statement of legal position in a contested appeal without it being settled by someone. **That is a
+reasonable expectation from ordinary institutional practice** — and it is the same conclusion, reached
+without touching a metadata field. ⭐ **Rely on the practice, never on the fields.**
+
+⛔⛔ **All of §13 is internal. Metadata never appears in correspondence, a filing, or the hearing.**
