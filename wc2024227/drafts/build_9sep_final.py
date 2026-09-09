@@ -142,8 +142,7 @@ def main():
     # their ATTACH blocks name the FINAL filenames, and a second copy under different names is
     # how the wrong version gets sent. SEND_9SEP2026 holds the PDFs and the held drafts only.
     for required in ("Email_1_to_Industrial_Registry_cc_Regulator.txt",
-                     "Email_2_to_Regulator_direction_2_material.txt",
-                     "Email_3_to_Regulator_request_documents_not_admitted.txt",
+                     "Email_2_to_Regulator_directions_and_request.txt",
                      "Email_4_to_Dr_Krishnaiah_records_still_needed.txt"):
         if not os.path.exists(os.path.join(MAIL, required)):
             failures.append(f"{required}: MISSING from 3_EMAILS")

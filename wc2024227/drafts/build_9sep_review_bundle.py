@@ -50,19 +50,19 @@ DOCS = [
      "SERVED on the Respondent only. Email 2, attachment 2."),
     (f"{F}/2_REGULATOR/Outline_of_Evidence_Cory_Lea_Shepherd_WC2024227.pdf",
      "Outline of evidence — Mr Cory Lea Shepherd",
-     "Direction 2. SERVED on the Respondent. NOT filed. Served in the outlines document, email 2 attachment 3."),
+     "Direction 2. SERVED on the Respondent. NOT filed. Served in the outlines document, email 2 attachment 4."),
     (f"{F}/2_REGULATOR/Outline_of_Evidence_Cory_Harrison-Jones_WC2024227.pdf",
      "Outline of evidence — Mr Cory Harrison-Jones",
-     "Direction 2. SERVED on the Respondent. NOT filed. Served in the outlines document, email 2 attachment 3."),
+     "Direction 2. SERVED on the Respondent. NOT filed. Served in the outlines document, email 2 attachment 4."),
     (f"{F}/2_REGULATOR/Outline_of_Evidence_Patricia_Conaghan_WC2024227.pdf",
      "Outline of evidence — Ms Patricia Conaghan",
-     "Direction 2. SERVED on the Respondent. NOT filed. Served in the outlines document, email 2 attachment 3."),
+     "Direction 2. SERVED on the Respondent. NOT filed. Served in the outlines document, email 2 attachment 4."),
     (f"{F}/2_REGULATOR/Schedule_of_Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf",
      "Schedule of medical documents relied upon, and Tabs M1 to M9",
-     "Direction 2, expert limb. SERVED on the Respondent. NOT filed. Email 2, attachment 4. 43 pages, the schedule at page 1."),
+     "Direction 2, expert limb. SERVED on the Respondent. NOT filed. Email 2, attachment 5. 43 pages, the schedule at page 1."),
     (f"{F}/2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf",
      "Request: the documents not admitted on 8 September 2026",
-     "SERVED on the Respondent. Email 3, sole attachment. Reply sought by Friday 18 September 2026."),
+     "SERVED on the Respondent. Email 2, attachment 3. Reply sought by Friday 18 September 2026."),
 ]
 
 
@@ -98,10 +98,10 @@ def cover():
          Paragraph("The four emails", LAB),
          Paragraph("1. To the Industrial Registry, copied to the Regulator: the witness list and the "
                    "covering letter.<br/>"
-                   "2. To the Regulator: the witness list, the letter on its 8 September letter, the "
-                   "outlines of evidence as one document, and the medical schedule with Tabs M1 to M9.<br/>"
-                   "3. To the Regulator: the request about the documents not admitted.<br/>"
-                   "4. To Dr Krishnaiah: the clinical records and his attendance at the hearing.<br/>"
+                   "2. To the Regulator: the witness list, the letter on its 8 September letter, the request "
+                   "about the documents not admitted, the outlines of evidence as one document, and the "
+                   "medical schedule with Tabs M1 to M9.<br/>"
+                   "3. To Dr Krishnaiah: the clinical records and his attendance at the hearing.<br/>"
                    "The text of each is in FINAL_9SEP2026/3_EMAILS. Send from the personal address, "
                    "not the Queensland Health account.", B),
          Paragraph("Held back", LAB),

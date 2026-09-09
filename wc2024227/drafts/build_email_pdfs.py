@@ -38,10 +38,8 @@ ATT = ParagraphStyle('ATT', fontName='Helvetica', fontSize=9.0, leading=12.4,
 EMAILS = [
     ("Email_1_to_Industrial_Registry_cc_Regulator.txt",
      "EMAIL 1 — TO THE INDUSTRIAL REGISTRY, COPIED TO THE RESPONDENT"),
-    ("Email_2_to_Regulator_direction_2_material.txt",
-     "EMAIL 2 — TO THE RESPONDENT: THE DIRECTION 2 MATERIAL"),
-    ("Email_3_to_Regulator_request_documents_not_admitted.txt",
-     "EMAIL 3 — TO THE RESPONDENT: THE DOCUMENTS NOT ADMITTED"),
+    ("Email_2_to_Regulator_directions_and_request.txt",
+     "EMAIL 2 — TO THE RESPONDENT: DIRECTIONS 1 AND 2, AND THE DOCUMENTS NOT ADMITTED"),
     ("Email_4_to_Dr_Krishnaiah_records_still_needed.txt",
      "EMAIL 4 — TO DR KRISHNAIAH: THE RECORDS AND HIS ATTENDANCE"),
 ]

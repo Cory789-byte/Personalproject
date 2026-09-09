@@ -18,9 +18,11 @@ to the Industrial Registry. The outlines and the medical schedule go to the Regu
 | # | Email | To | Cc | Attach |
 |---|---|---|---|---|
 | 1 | `3_EMAILS/Email_1_to_Industrial_Registry_cc_Regulator.txt` | qirc.registry@qirc.qld.gov.au | Renee.Matheson@oir.qld.gov.au | both files in `1_COMMISSION/` |
-| 2 | `3_EMAILS/Email_2_to_Regulator_direction_2_material.txt` | Renee.Matheson@oir.qld.gov.au | — | the four files its ATTACH block names, from `2_REGULATOR/` |
-| 3 | `3_EMAILS/Email_3_to_Regulator_request_documents_not_admitted.txt` | Renee.Matheson@oir.qld.gov.au | — | `2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf` |
-| 4 | `3_EMAILS/Email_4_to_Dr_Krishnaiah_records_still_needed.txt` | ravikumar@mindandmemoryservice.com.au | info@mindandmemoryservice.com.au | none |
+| 2 | `3_EMAILS/Email_2_to_Regulator_directions_and_request.txt` | Renee.Matheson@oir.qld.gov.au | — | the five files its ATTACH block names, from `2_REGULATOR/` |
+| 3 | `3_EMAILS/Email_4_to_Dr_Krishnaiah_records_still_needed.txt` | ravikumar@mindandmemoryservice.com.au | info@mindandmemoryservice.com.au | none |
+
+Three emails, not four: the request about the documents not admitted now travels with the direction 2
+material in the one email to the Respondent rather than in a second email of its own.
 
 Send from **coryshepherd1@hotmail.com**.
 
@@ -75,7 +77,7 @@ served and **not** filed.
 | `2_REGULATOR/Outlines_of_Evidence_WC2024227.pdf` | 4 | 2 — the three outlines behind one contents page. This is what email 2 attaches. The three outlines also remain as separate one-page files in the same folder if they are ever needed singly. |
 | `2_REGULATOR/Letter_to_Regulator_re_letter_of_8_September_2026_WC2024227.pdf` | 1 | 2 — the reply to her letter of 8 September. |
 | `2_REGULATOR/Schedule_of_Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf` | 43 | 2 — the schedule at page 1, then the pages behind it under Tabs M1 to M9. |
-| `2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf` | 2 | 3 — the request about the documents not admitted. Reply sought by Friday 18 September 2026. |
+| `2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf` | 2 | 2 — the request about the documents not admitted. Reply sought by Friday 18 September 2026. |
 
 The three outlines also remain as separate one-page files in `2_REGULATOR/`, and the witness list and
 Registry covering letter appear there too because she receives them on the copy to email 1.
@@ -84,7 +86,7 @@ Registry covering letter appear there too because she receives them on the copy 
 
 | File | Why |
 |---|---|
-| `4_EMAILS_AS_PDF/Email_1` to `Email_4` `.pdf` | Each email rendered as a clean one-page PDF for printing and the matter file. The wording is identical to the `.txt` you paste; a word-for-word check runs on every build. |
+| `4_EMAILS_AS_PDF/*.pdf` | Each email rendered as a clean one-page PDF for printing and the matter file. The wording is identical to the `.txt` you paste; a word-for-word check runs on every build. |
 
 **Neither served nor filed**
 
