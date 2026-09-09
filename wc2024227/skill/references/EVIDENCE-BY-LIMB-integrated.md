@@ -458,3 +458,52 @@ independently prove the first.**
 2. **PP23a against PP23b**, and **PP24a against PP24b**, side by side — what changed, and when.
 3. ⭐ **The fortnight boundaries**, which is where the March pairing occurred (PP20 ends 17 Mar,
    PP21 begins 18 Mar): check the last day of each roster against the first day of the next.
+
+## 9.4 ⭐⭐ THE PP21 ABSENCE — WHAT IT IS WORTH, AND THE TRAP IN IT
+
+Cory, 9 September 2026: he was taken off the roster completely.
+
+### ⛔ What must NOT be said
+**"She took me off the roster"** is a statement about **who did it and why**. The document does not
+establish either, and asserting it puts motive on the record, raises his own standard under
+*Briginshaw*, and invites the s 32(5)(b) answer. ⛔ **It never goes in a filing, an outline, or an
+answer in the box.**
+
+### ⭐ What IS established, and it is made of admitted facts
+| | |
+|---|---|
+| The published roster **PP21 v1.0, 18–31 March 2024** lists **13 operators** and **does not include the Appellant** | the document |
+| He **worked the shift commencing 06:00 on 18 March 2024** | ⭐ **admitted** (fact 1) |
+| That shift **fell on a Monday** | ⭐ **admitted** (fact 227) |
+| He **took 7.60 hours of leave on 19 March 2024** | ⭐ **admitted** (fact 235, Tab 16) |
+
+⇒ ⭐⭐⭐ **The employer's published roster for that fortnight records nothing about a person whom the
+Respondent admits worked in it and took leave in it.** Stated that flatly, it needs no author and no
+motive — and it is the proof of §9.1: **the published roster is not a record of what was worked.**
+
+### ⚠⚠ THE TRAP — AND IT IS THE ONE ROUTE BACK TO THE 8-HOUR FIGURE
+An absence from the published roster invites: *"then the 18 March shift was picked up or swapped."*
+⇒ **A staff-initiated shift swap is exactly the condition on which Ms Forrest says the 2020
+agreement operates (fact 225).** That is the only way the Respondent gets back to measuring against
+8 hours instead of 10.
+
+⭐ **Fact 234 currently blocks it:** their pleading *"as presently constituted, does not allege that
+the consecutive shifts of 17 and 18 March 2024 arose from a staff initiated shift swap."*
+⇒ To run it they must **amend**, at hearing, to defeat an admitted fact — and in doing so concede
+that the roster was changed after publication.
+
+⚠ **Be ready for it, and do not walk into it.** The safe formulation is the passive one: *the
+published roster does not record him; the Respondent admits he worked.* ⛔ **Never volunteer a
+mechanism for the absence.**
+
+### ⭐⭐ THE DOCUMENT THAT SETTLES IT
+**A later version of PP21.** Versioned rosters exist elsewhere in the same series — `PP11_v2.0`,
+`PP05_v2.0`, and both `PP23` and `PP24` are held in two versions. **Only `PP21 v1.0` is held.**
+
+⇒ Add to the inspection request and, failing production, to any non-party notice:
+1. ⭐ **Every version of the roster for pay period 21, 18–31 March 2024**, including any version
+   later than v1.0.
+2. **The record of hours actually worked**, 1 February to 31 May 2024 (§9.2).
+
+⭐ **That is a single identified document of the kind the Commissioner said he could decide "very
+quickly"** [61:31] — and it proves the point either way it comes back.
