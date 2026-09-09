@@ -2,8 +2,8 @@
 
 > Rebuilt by `python3 build_case_file.py`. **Copies, never moves** — the builders, the
 > full-text index and the manifest all reference the original paths, so nothing here is
-> authoritative for a script. Bulk collections are not copied; each folder that has one
-> behind it carries a `POINTER.md`.
+> authoritative for a script. Bulk collections are copied in as sub-folders; a folder that has
+> anything else behind it also carries a `POINTER.md`.
 
 > Folder descriptions are descriptive only: what a document is, who it is from, and
 > when. They carry no assessment of the case or of any document.
@@ -21,15 +21,15 @@
 | `03_SERVED_ON_THE_RESPONDENT/03_earlier_service` | Served on the Respondent before 9 September 2026. 4 file(s) |
 | `04_FROM_THE_RESPONDENT/01_response_to_the_notices_8SEP2026` | The Respondent's responses to the notices to admit facts and documents, and its covering letter, served on 8 September 2026. 7 file(s) |
 | `04_FROM_THE_RESPONDENT/02_pleadings_and_lists` | The Respondent's statements of facts and contentions and its lists of documents. 5 file(s) |
-| `04_FROM_THE_RESPONDENT/03_review_decision_and_notices` | Review Decision 69983 and notices of non-party disclosure issued by the Respondent. 6 file(s) + pointer |
-| `05_FROM_METRO_SOUTH/01_answer_to_the_commission` | Metro South Hospital and Health Service's response to the notice of non-party disclosure, addressed to the Commission. 1 file(s) + pointer |
+| `04_FROM_THE_RESPONDENT/03_review_decision_and_notices` | Review Decision 69983 and notices of non-party disclosure issued by the Respondent. 7 file(s) + pointer |
+| `05_FROM_METRO_SOUTH/01_answer_to_the_commission` | Metro South Hospital and Health Service's response to the notice of non-party disclosure, addressed to the Commission. 2 file(s) + pointer |
 | `05_FROM_METRO_SOUTH/02_employment_correspondence` | Correspondence with Metro South Hospital and Health Service concerning the Appellant's employment. 7 file(s) |
 | `06_EVIDENCE/01_the_role` | Role description, Administration Officer (AO3), Switchboard Services, Logan Hospital. 1 file(s) |
-| `06_EVIDENCE/02_rosters` | Published Logan Hospital Switchboard Services rosters. 0 file(s) + pointer |
-| `06_EVIDENCE/03_payroll_and_leave` | Payroll and leave records. 3 file(s) |
+| `06_EVIDENCE/02_rosters` | Published Logan Hospital Switchboard Services rosters. 1 file(s) + pointer |
+| `06_EVIDENCE/03_payroll_and_leave` | Payroll and leave records. 5 file(s) |
 | `06_EVIDENCE/04_emergency_codes` | Screen capture of the workbook "2024 Emergency Code Register. 1 file(s) |
-| `06_EVIDENCE/05_medical` | The schedule of medical documents relied upon, served 9 September 2026. 1 file(s) + pointer |
-| `06_EVIDENCE/06_correspondence_packs` | Correspondence packs, produced on 5 August 2026 as items 9 to 14 of the Appellant's list of documents. 0 file(s) + pointer |
+| `06_EVIDENCE/05_medical` | The schedule of medical documents relied upon, served 9 September 2026. 2 file(s) + pointer |
+| `06_EVIDENCE/06_correspondence_packs` | Correspondence packs, produced on 5 August 2026 as items 9 to 14 of the Appellant's list of documents. 3 file(s) + pointer |
 | `07_WORKING_PAPERS` | Working papers. 7 file(s) |
 | `08_NOT_FOR_SERVICE` | Material that is neither served nor filed. 3 file(s) |
 

@@ -13,9 +13,10 @@ working papers; and material neither served nor filed.
 ⛔ Folder descriptions are DESCRIPTIVE ONLY. They say what a document is, who it is from and when.
 They carry no assessment of the case, of any document's weight, or of any party's position.
 
-Bulk collections (91 rosters, the correspondence packs, the disclosure productions, medical) are
-NOT copied. Each folder that has such a collection behind it carries a POINTER.md naming the
-directory to open. Run:  python3 build_case_file.py
+Bulk collections — the rosters, the correspondence packs, the disclosure productions and the
+medical records — ARE copied in, as sub-folders. Git stores identical content once regardless of
+path, so the duplication costs working-tree disk and almost nothing in the repository.
+Run:  python3 build_case_file.py
 """
 import os, shutil, glob, sys
 
@@ -178,6 +179,28 @@ TREE = {
 }
 
 
+# destination folder  ->  [(source directory, subfolder name or None)]
+# whole collections copied in. Git stores identical content once regardless of path, so the
+# duplication costs disk in the working tree but almost nothing in the repository.
+DIRS = {
+ "03_SERVED_ON_THE_RESPONDENT/01_notices_to_admit_28AUG2026": [],
+ "04_FROM_THE_RESPONDENT/03_review_decision_and_notices": [
+     ("documents/disclosure-2025-07", "disclosure_July_2025")],
+ "05_FROM_METRO_SOUTH/01_answer_to_the_commission": [
+     ("documents/disclosure-2026-06_MSH_production", "production_June_2026")],
+ "06_EVIDENCE/02_rosters": [
+     ("documents/rosters", "rosters")],
+ "06_EVIDENCE/03_payroll_and_leave": [
+     ("documents/financial", "financial"), ("documents/evidence", "analyses")],
+ "06_EVIDENCE/05_medical": [
+     ("documents/medical", "records")],
+ "06_EVIDENCE/06_correspondence_packs": [
+     ("documents/correspondence-packs", "packs"),
+     ("documents/correspondence", "correspondence_to_2025"),
+     ("documents/correspondence-2026", "correspondence_2026")],
+}
+
+
 def main():
     if os.path.isdir(ROOT):
         shutil.rmtree(ROOT)
@@ -185,8 +208,8 @@ def main():
     lines = ["# WC/2024/227 — CASE FILE", "",
              "> Rebuilt by `python3 build_case_file.py`. **Copies, never moves** — the builders, the",
              "> full-text index and the manifest all reference the original paths, so nothing here is",
-             "> authoritative for a script. Bulk collections are not copied; each folder that has one",
-             "> behind it carries a `POINTER.md`.", "",
+             "> authoritative for a script. Bulk collections are copied in as sub-folders; a folder that has",
+             "> anything else behind it also carries a `POINTER.md`.", "",
              "> Folder descriptions are descriptive only: what a document is, who it is from, and",
              "> when. They carry no assessment of the case or of any document.", "",
              "| Folder | What is in it |", "|---|---|"]
@@ -198,13 +221,20 @@ def main():
                 print(f"  ⛔ MISSING  {src}"); missing += 1; continue
             shutil.copy2(src, os.path.join(ROOT, dest, name or os.path.basename(src)))
             got.append(name or os.path.basename(src)); placed += 1
+        for srcdir, sub in DIRS.get(dest, []):
+            if not os.path.isdir(srcdir):
+                print(f"  ⛔ MISSING DIR  {srcdir}"); missing += 1; continue
+            tgt = os.path.join(ROOT, dest, sub or os.path.basename(srcdir))
+            shutil.copytree(srcdir, tgt)
+            n = sum(len(fs) for _, _, fs in os.walk(tgt))
+            got.append(f"{sub or os.path.basename(srcdir)}/  ({n} files)"); placed += n
         with open(os.path.join(ROOT, dest, "README.md"), "w") as fh:
             fh.write(f"# {dest}\n\n{blurb}\n")
             if got:
                 fh.write("\n## In this folder\n\n" + "".join(f"- `{g}`\n" for g in sorted(got)))
         if pointers:
             with open(os.path.join(ROOT, dest, "POINTER.md"), "w") as fh:
-                fh.write(f"# Held elsewhere — {dest}\n\n" + "".join(f"- {p}\n" for p in pointers))
+                fh.write(f"# Also held elsewhere — {dest}\n\n" + "".join(f"- {p}\n" for p in pointers))
         lines.append(f"| `{dest}` | {blurb.split('.')[0]}. {len(got)} file(s)"
                      f"{' + pointer' if pointers else ''} |")
     lines += ["", "## Orders, and submissions to the Commission", "",
