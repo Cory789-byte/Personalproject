@@ -405,3 +405,56 @@ for PP24 (29 Apr – 12 May).
 **The Form 24 is served and answered. April is not among the 303 facts and cannot be added to them.**
 It reaches the Commission only through the rosters and his own oral evidence — which is enough for
 uses 1 and 2 above, and is not enough to make it a proven breach.
+
+---
+
+# 9. THE ROSTER SWEEP, FEBRUARY TO MAY 2024 — RESULT AND WHY IT MATTERS
+
+Searched for a shift ending 22:00 or 23:00 followed the next day by one starting 06:00 or 07:00.
+Rendered at scale 4.0 and cropped to the date header plus the FT rows, so the column alignment is
+directly readable.
+
+| Roster | The Appellant's line | Pairing found |
+|---|---|---|
+| **PP20** 4–17 Mar | on the roster, FT, 388372. ⭐ **ends Sun 17 Mar 1500–2300** | — the first half of the admitted March break |
+| ⛔ **PP21** 18–31 Mar | ⛔⛔ **NO LINE AT ALL.** 13 other operators listed | ⛔ **the 18 Mar 06:00 start appears on no roster** |
+| **PP22** 1–14 Apr | 1400-2200 · 2300-0700 · x · x · x · 0700-1500 · 0700-1500 · 0700-1500 · 0600-1400 · RDO · — · 1400-2200 · 1500-2300 · 1500-2300 | **none** |
+| **PP23a** 15–28 Apr *(original)* | 1500-2300 ×3 · — · 0700-1500 · 0600-1400 · 0600-1400 · RDO · 2300-0700 ×3 · x ×3 | **none** |
+| **PP23b** 15–28 Apr *(updated)* | 1500-2300 ×3 · — · 0700-1500 · 0600-1400 · 0600-1400 · A/L · 0700-1500 · 0600-1400 · — · 2300-0700 ×3 | **none** — ⭐ but the second week was **rewritten** |
+| **PP25** 13–26 May | 1500-2300 ×3 · — · RDO · 0600-1400 ×3 · 2200-0600 ×3 · x ×3 | **none** |
+| ⚠ **PP24a/b** 29 Apr–12 May | ⚠ **alignment not confidently read** | **not established** |
+
+## 9.1 ⭐⭐⭐ THE FINDING IS NOT THE ABSENCE — IT IS WHY THE ABSENCE PROVES NOTHING
+
+⛔⛔ **PP21 has no line for the Appellant, and he indisputably worked on 18 March 2024** — the
+Respondent has admitted the shift and the 7-hour break (fact 1).
+
+⇒ ⭐⭐⭐ **A published roster that omits him during a fortnight he demonstrably worked is not a record
+of what was worked. It is a record of what was published, v1.0, before change.**
+
+⇒ **Therefore the rosters cannot disprove a second pairing.** They did not capture the first one.
+
+⭐ And two fortnights are held in **two versions each** — PP23 and PP24, `_a_original` and
+`_b_UPDATED`. PP23's second week was substantially rewritten between them. **Rosters in this unit
+were amended after publication as a matter of course**, so the published version is not the worked
+version.
+
+## 9.2 ⇒ THE ROSTERS ARE THE WRONG INSTRUMENT. ASK FOR THE WORKED-HOURS RECORD.
+
+What would settle a second occurrence is **the record of hours actually worked**, not the roster as
+published:
+- the **AVAC / attendance variation records** for February to May 2024 (the myHR submissions report
+  at Tab 15 covers submissions, not worked hours)
+- **timesheets or the payroll worked-hours extract** for the same period
+- ⛔ **no 2024 payslip is held** (§6.2)
+
+⇒ ⭐⭐ **Add the worked-hours record for 1 February to 31 May 2024 to the inspection request**
+(`DISCLOSURE-COMPARED-by-9A.md` §4) and, failing production, to any notice of non-party disclosure.
+**It is the only document class that can establish a second occurrence — and it would also
+independently prove the first.**
+
+## 9.3 ⚠ Still to do by hand
+1. **PP24a and PP24b (29 Apr – 12 May)** at full size — the one fortnight not confidently read.
+2. **PP23a against PP23b**, and **PP24a against PP24b**, side by side — what changed, and when.
+3. ⭐ **The fortnight boundaries**, which is where the March pairing occurred (PP20 ends 17 Mar,
+   PP21 begins 18 Mar): check the last day of each roster against the first day of the next.
