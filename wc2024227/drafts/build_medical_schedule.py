@@ -63,8 +63,8 @@ ROWS = [
  ("2", "Work capacity certificates of Dr Peter Hawes dated 1 July, 11 August and 8 September 2024, and of Dr Ki "
        "Pang dated 7 August 2024 (Respondent's items 7 and 8).",
   "The stated date of injury, 18 June 2024; that the Appellant was first seen for this injury on 1 July 2024; "
-  "continuous certification of no functional capacity from 1 July to 6 October 2024; and the referral to a "
-  "psychiatrist recorded on 8 September 2024. Review Decision 69983 records at page 17 that the certificate of 1 July 2024 indicated \"there was no pre-existing factor or condition\", and that \"This was maintained in all later work capacity certificates\".",
+  "certification of no functional capacity for any type of work over the period 1 July to 6 October 2024; and the "
+  "referral to a psychiatrist recorded on 8 September 2024. Review Decision 69983 records at page 17 that the certificate of 1 July 2024 indicated \"there was no pre-existing factor or condition\", and that \"This was maintained in all later work capacity certificates\".",
   "The recorded mechanism as a finding of fact. The events are proved by the facts admitted on "
   "8 September 2026, not by the certificates. Nothing as to medication; the medication box is unticked on each."),
  ("3", "Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at "
