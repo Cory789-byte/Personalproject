@@ -74,6 +74,83 @@ Verify with:
 
 ---
 
+## 3A. ⭐⭐ NOBODY SIGNED IT, AND NOBODY GAVE A REASON
+
+⛔ **Verified on the rendered pages 9 September 2026.** The text layer does not show signature
+images; render with `pypdfium2` before relying on any of this.
+
+**What the 8 September response physically is.** Not a document of the Respondent's own. It is
+**the Appellant's own served Form 24 and Form 25**, returned with the right-hand column completed.
+
+| On the last page of each 8 Sep response | |
+|---|---|
+| Signature | **Cory Lea Shepherd's** (image, his own) |
+| Print name | **Cory Lea Shepherd** |
+| Title of office held | **Appellant (self-represented)** |
+| Date | **28 / 08 / 2026** — the date *he* served it |
+| Respondent's signature, name, office or date | ⛔ **None. There is no respondent's block at all.** |
+| Reason given against any of the 19 entries not admitted | ⛔ **None** |
+
+⇒ **The only signature on the document disputing his documents is his own, over the date he
+served it.** Nothing on either response says who completed the column, or when.
+
+**Contrast their own conduct in this proceeding, seven months earlier.** The response of
+**18 February 2026** to the Appellant's earlier notice to admit facts is a **separate document of
+the Respondent's own** headed *"Respondent's Response"*, closing with a full respondent's details
+block — Name: Workers' Compensation Regulator · Name of contact person: Ms Renee Matheson ·
+postal address · phone · fax · email · **Signature: [signed] · Date: 18/02/2026** — and it gives a
+**reason for every denial**: *"denies untrue the fact, **because** Ms Taylor needed confirmation
+from payroll…"*, *"denies as untrue the fact, **because** the statement was not false or
+misleading."*
+
+⭐⭐⭐ **And that signed, reasoned document is Annexure A Tab 27 — described in the served schedule
+as *"Respondent's response to that notice, signed by Ms R Matheson, Senior Appeals Officer"* — and
+its authenticity is ADMITTED.** Their own signed response sits on the record as an admitted
+document, three tabs away from an unsigned one.
+
+⚠ Minor, do not build on it: February signs *"Senior Appeals Officer"*; the 8 September covering
+letter signs *"Appeals Officer, Appeals Unit"*.
+
+### ⛔ This is NOT a validity point. Do not run it as one.
+
+Rule 49 is deliberately asymmetric on its face:
+
+> **49(1)** — the first party asks *"by notice **in the approved form**"* → Forms 24 and 25, signed.
+> **49(2)** — the other party need only *"**serve a notice** on the first party disputing the facts
+> or the authenticity of the documents"* → **no approved form, no signature, no reason required.**
+
+And the **covering letter of 8 September is signed** by Ms Matheson (the same signature as
+February) and expressly adopts the enclosures: *"The enclosed documents indicates the Respondent's
+notice under rule 49(2) disputing those of the stated facts and documents that are not admitted."*
+
+⇒ **The disputes are effective.** Arguing they are not would be lost, and would spend credibility
+that the Tab 31 point needs. Kill the thought now. (The same asymmetry cuts the Appellant's way:
+the 298 admissions bind despite being on an unsigned marked-up copy.)
+
+### ⭐ What it IS worth — it completes §3
+
+§3 shows the answers sort perfectly by the source column. §3A shows **no one attested to the sort
+and no one gave a reason for any of it**. Together they describe a **clerical pass down a column,
+not an exercise of judgement about any document** — and that is the finding, stated without an
+adverb and without a motive.
+
+It also closes the *Browne v Dunn* loop from §4: there is no stated basis for any of the fourteen,
+and no identified person who formed one. There is nothing to put to the Appellant, and nobody who
+could be asked to put it.
+
+**The submission, when it is finally made, is two sentences of pure comparison:**
+
+> The Respondent's response of 18 February 2026 in this proceeding is a document of its own,
+> signed by Ms Matheson, giving a reason for each denial. The response of 8 September 2026 is the
+> Appellant's own notice returned with a column completed; it bears no signature but the
+> Appellant's, no date but the Appellant's, and no reason against any of the nineteen entries not
+> admitted.
+
+⛔ **Do not ask them to sign it or to give reasons.** They would, and both §3 and §3A would
+evaporate. Same rule as §6.
+
+---
+
 ## 4. WHAT THAT MEANS — AND IT IS NOT AN ACCUSATION
 
 ⛔ **Do not argue impropriety.** Rule 49(2) entitles a party to dispute without giving any reason,

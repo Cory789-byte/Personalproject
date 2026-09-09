@@ -7644,3 +7644,33 @@ consequence: the dispute is about the absence of a corroborating copy, not about
 
 Next: 18 Sep (reply falls due) → non-party disclosure to MSH limited to the schedule if not →
 30 Sep (Respondent's witness list; attendance notices if Taylor and Reese are absent).
+
+### Addendum, same day — the 8 September responses are unsigned (Cory's catch)
+
+⛔ **Verified on rendered pages; the text layer does not show signature images.** The Respondent's
+"responses" of 8 September 2026 are **the Appellant's own served Form 24 and Form 25** with the
+right-hand column completed. The only signature on either is **Cory's own**, over **28/08/2026**,
+as "Appellant (self-represented)". There is **no respondent's signature, name, office or date
+anywhere on either document**, and **no reason against any of the 19 entries not admitted**.
+
+Contrast the response of **18 February 2026** in this same proceeding: a **separate document of the
+Respondent's own**, headed "Respondent's Response", with a full details block — contact Ms Renee
+Matheson, address, phone, fax, email — **signed, dated 18/02/2026**, and giving a reason for every
+denial ("denies untrue the fact, **because** Ms Taylor needed confirmation from payroll…").
+⭐ That signed document is **Annexure A Tab 27** and its **authenticity is admitted**.
+
+⛔ **Not a validity point — do not run it as one.** r 49(1) requires the *first party's* notice to
+be "in the approved form"; r 49(2) requires the other party only to "serve a notice … disputing" —
+no form, no signature, no reasons. And the **covering letter of 8 September is signed** and
+expressly adopts the enclosures as the r 49(2) notice. The disputes are effective. The same
+asymmetry helps: the 298 admissions bind despite the same informality.
+
+⭐ **What it is worth:** it completes the provenance pattern. The answers sort perfectly by source
+column (§3) and **nobody attested to the sort or gave a reason for any of it** (§3A) — a clerical
+pass down a column rather than a judgement about any document, stated as comparison with their own
+February conduct, without adverb or motive. It also closes the *Browne v Dunn* loop: no stated
+basis for any of the fourteen, and no identified person who formed one.
+
+⛔ **Do not ask them to sign or to give reasons.** They would, and the point evaporates.
+
+Written into `skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §3A.
