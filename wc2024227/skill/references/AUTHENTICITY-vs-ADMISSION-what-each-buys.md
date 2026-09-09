@@ -164,3 +164,59 @@ twelve unnecessary ones.**
   made then, in front of the trial Commissioner, at no cost now.
 - ⛔ **Do not apply for a tab whose contents are already admitted facts.** ⭐ **There is nothing to
   win, and something to lose.**
+
+---
+
+# 8. ⭐⭐⭐ THE FRAMING IN THE REQUEST LETTER — IT IS DONE, AND IT IS DONE WELL
+> 9 September 2026. ⛔ **Correcting my own over-caution.** The letter needed no adjective because it
+> never used one, and it is stronger for it.
+
+## 8.1 FIVE DEVICES, NONE OF THEM A CHARACTERISATION
+1. ⭐⭐ **Causation assigned without accusation.** *"This request arises only from that response: **had
+   the authenticity of the copies been admitted, as their contents were under the Form 24, none of
+   these documents would need to be sought**."* ⇒ **A but-for statement.** It puts the entire cost of
+   the exercise on the refusal, as a fact — and buries the contradiction (contents admitted,
+   authenticity not) in a subordinate clause **where there is nothing to deny.**
+2. ⭐⭐⭐ **The "Copy known to be held" column — and it is a COLUMN, not a sentence.**
+   *"The Commission's file"* · *"Respondent's amended List of Documents, attachment to item 25"* ·
+   *"Metro South Health (Attachment 2 to the Request for Medical Information of 31 July 2026)"* ·
+   *"the Respondent's claim file"*.
+   ⇒ ⭐⭐⭐ **A reader does not need to be told the refusal is unreasonable. The column does it.
+   And a column cannot be answered — there is no proposition in it to contest.**
+3. ⭐⭐ **Measured against the Commissioner's own indication**, recited neutrally: *"the starting point
+   is to ask the Regulator to make inquiries and produce it, and that non-party disclosure follows
+   only if the Regulator does not. **This letter is that step**."* ⇒ **Any refusal is now measured
+   against what the Commission said, without the Commission being cited as authority.**
+4. ⭐ **Two exits, a date, and a stated consequence.** ⇒ **A party offered two ways out that takes
+   neither establishes unreasonableness by arithmetic.**
+5. ⭐⭐⭐ **The restraint IS the frame.** *"No request is made in respect of fact 154 or Tab 24."*
+   ⇒ **Dropping items proves the request is targeted — which is what makes the remainder look
+   reasonable and the refusal look otherwise.**
+
+⇒ ⭐⭐⭐ **It does not show them "being difficult". It builds a record in which their refusal is
+measured against their own possession of the documents — using only facts and structure.**
+
+## 8.2 ⛔⛔ SO WHERE THE DISCIPLINE ACTUALLY BITES — IT IS NOT THE LETTER
+⭐ **The letter is finished. The framing is complete. Nothing more should be added to it, in any
+forum.**
+⚠⚠ **The risk was never the letter. It is what gets said NEXT** — in a follow-up email, at a mention,
+in oral submissions. ⇒ ⭐⭐⭐ **The power of this letter is the adjective it withheld. If the point is
+ever put orally, the temptation will be to supply that word — and supplying it would give them the
+one thing they can answer.**
+⇒ ⛔ **Every further word spent on their reasonableness subtracts from what the letter already
+achieved.**
+
+## 8.3 ⭐⭐ AND IT IS ALREADY SPENT EITHER WAY
+- ⭐ **If they concede** — the framing was the mechanism that produced the concession. **It worked.
+  Take the concession in one line and say nothing about the letter.**
+- ⭐ **If they refuse** — the letter is the exhibit, already written, already served, already dated.
+  **It needs no supplement.**
+⇒ ⭐⭐⭐ **In both branches the work is done. There is nothing left to add and something to lose by
+adding it.**
+
+## 8.4 ⚠ ONE SMALL THING
+The costs line is **weak as an entitlement** — the general position is that parties bear their own
+costs, and **r 64G(3) says so expressly** for non-party disclosure. ⭐ **It is sound as a marker of
+reasonableness and as notice.** ⚠ **If it is ever put back** — *"there is no costs jurisdiction"* —
+**do not argue it.** One line: *"I note that; the correspondence stands as a record of the steps
+taken."*
