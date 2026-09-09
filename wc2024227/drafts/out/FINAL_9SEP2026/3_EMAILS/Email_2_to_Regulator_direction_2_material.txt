@@ -17,8 +17,8 @@ In accordance with direction 2, and not filed, I serve:
   - a schedule of the medical documents relied upon, which states for each document what it is
     relied upon for and what it is not relied upon for; and
 
-  - the pages of those documents, under nine tabs (M1 to M9), in a separate document of 42 pages.
-    Pages not relied upon are omitted and each tab sheet identifies them.
+  - the pages of those documents, under nine tabs (M1 to M9), in one document of 43 pages with the
+    schedule at page 1. Pages not relied upon are omitted and each tab sheet identifies them.
     Entries concerning private medical matters unrelated to the injury are redacted and marked as
     such. Every document at items 1 to 7 is already held by the Respondent at the item of its amended
     List of Documents dated 14 August 2026 identified in the schedule, except the Employee Capability
@@ -45,5 +45,4 @@ ATTACH:  Appellant_List_of_Witnesses_WC2024227.pdf
          Outline_of_Evidence_Cory_Lea_Shepherd_WC2024227.pdf
          Outline_of_Evidence_Cory_Harrison-Jones_WC2024227.pdf
          Outline_of_Evidence_Patricia_Conaghan_WC2024227.pdf
-         Schedule_of_Medical_Documents_Relied_Upon_WC2024227.pdf
-         Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf
+         Schedule_of_Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf

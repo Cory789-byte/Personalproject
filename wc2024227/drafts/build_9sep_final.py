@@ -58,14 +58,10 @@ MAP = [
      None,
      "Outline_of_Evidence_Patricia_Conaghan_WC2024227.pdf",
      "05_OUTLINE_CONAGHAN.pdf"),
-    ("out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf",
+    ("out/MEDICAL_DOCUMENTS_RELIED_UPON_schedule_and_pages.pdf",
      None,
-     "Schedule_of_Medical_Documents_Relied_Upon_WC2024227.pdf",
-     "07_MEDICAL_SCHEDULE.pdf"),
-    ("out/MEDICAL_DOCUMENTS_TABS_M1_to_M9.pdf",
-     None,
-     "Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf",
-     "08_MEDICAL_DOCUMENTS_TABS_M1_to_M9.pdf"),
+     "Schedule_of_Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf",
+     "07_MEDICAL_SCHEDULE_AND_DOCUMENTS.pdf"),
 ]
 
 ONE_PAGE_ONLY = {   # direction 2: one A4 page per witness

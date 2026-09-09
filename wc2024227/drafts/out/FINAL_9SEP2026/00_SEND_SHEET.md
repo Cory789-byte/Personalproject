@@ -74,8 +74,7 @@ served and **not** filed.
 |---|---|---|
 | `OUTLINES_OF_EVIDENCE_9SEP2026.pdf` | 4 | 2 — the three outlines behind one contents page. Use it instead of the three separate outline files if you prefer one attachment. |
 | `2_REGULATOR/Letter_to_Regulator_re_letter_of_8_September_2026_WC2024227.pdf` | 1 | 2 — the reply to her letter of 8 September. |
-| `2_REGULATOR/Schedule_of_Medical_Documents_Relied_Upon_WC2024227.pdf` | 1 | 2 — the schedule itself: what each document is, and is not, relied upon for. |
-| `2_REGULATOR/Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf` | 42 | 2 — the pages behind it, under Tabs M1 to M9. |
+| `2_REGULATOR/Schedule_of_Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf` | 43 | 2 — the schedule at page 1, then the pages behind it under Tabs M1 to M9. |
 | `2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf` | 2 | 3 — the request about the documents not admitted. Reply sought by Friday 18 September 2026. |
 
 The three outlines also remain as separate one-page files in `2_REGULATOR/`, and the witness list and
@@ -85,7 +84,7 @@ Registry covering letter appear there too because she receives them on the copy 
 
 | File | pp | Why |
 |---|---|---|
-| `REVIEW_BUNDLE_9SEP2026.pdf` | 61 | Your reading and printing copy of the whole set. Every page is stamped "not for service or filing". |
+| `REVIEW_BUNDLE_9SEP2026.pdf` | 60 | Your reading and printing copy of the whole set. Every page is stamped "not for service or filing". |
 
 Build the two bundles with `python3 drafts/build_9sep_outlines_bundle.py` and
 `python3 drafts/build_9sep_review_bundle.py`, after `build_9sep_final.py`.
