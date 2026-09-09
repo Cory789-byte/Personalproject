@@ -161,13 +161,15 @@ OUTLINES = [
 
  ("OUTLINE_02_HARRISONJONES", "OUTLINE OF EVIDENCE &ndash; MR CORY HARRISON-JONES", TAIL_W,
   "Mr Harrison-Jones was employed part time at Logan Hospital Switchboard and worked as an operator "
-  "alongside the Appellant. He was on shift at the time of the events he describes below. He has since "
-  "left the department and is no longer employed by Metro South Hospital and Health Service; he is now "
-  "an officer of the Queensland Ambulance Service. He is expected to give evidence of the following.",
+  "alongside the Appellant. He was a member of the Switchboard team from 2022, and was still a member "
+  "on 18 July 2023, when he received the email at item 4 below. He was on shift at the time of the "
+  "events he describes. He has since left the department and is no longer employed by Metro South "
+  "Hospital and Health Service; he is now an officer of the Queensland Ambulance Service. He is "
+  "expected to give evidence of the following.",
   [("", "That a function of the Switchboard was to hold and maintain accurate contact and paging "
     "numbers for medical staff, including on-call doctors, so that calls and emergency "
     "notifications could be directed to the correct person."),
-   ("", "What he observed over a period of approximately three months of the Appellant working to "
+   ("", "What he observed, over a period of approximately three months in that time, of the Appellant working to "
     "obtain and record updates to medical contact numbers; that the monthly task of updating the spreadsheet of "
     "number changes, allocated to a shift, was left undone over that period; that the Appellant placed a reminder "
     "in the Communication Book about the allocation of that monthly task; and that he was on shift and saw the Appellant "

@@ -7515,9 +7515,24 @@ Metro South Hospital and Health Service; he is now an officer of the Queensland 
   fit, in the witness list. The source is Cory's own knowledge of his colleague; there is no document in
   the repo for the classification, so if it is ever challenged the answer is his evidence and Metro
   South's employment records, which the Respondent can obtain.
-- ⚠ Still not documented: the **dates** he worked at the Switchboard. His outline item 2 gives the period
-  from his own knowledge ("approximately three months"). The corpus shows him on Switchboard distribution
-  lists from **February 2022 to July 2023**, which is longer than three months — if the period matters,
-  take the dates from him before he is examined, and do not assert "during 2023".
+- ⭐⭐ **HIS TIME AT THE SWITCHBOARD IS NOW ESTABLISHED FROM DOCUMENTS, and served.** Swept the whole
+  index (115 hits). He is on the Logan Switch team distribution lists continuously from **21 February
+  2022** — then 24 Feb, 11 Apr, 10 May, 24 May, 19/21/23 Sep, 16 and 31 Oct 2022, 14 and 28 Mar 2023
+  (`documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf`, mirrored in the Taylor
+  pack) — and he is a **named recipient of Ms Stibbard's "Hello & Update" of Tue 18/07/2023 12:56 PM**
+  ("Cory Harrison-Jones <Cory.Harrison-Jones@health.qld.gov.au>"), verified on the rendered page 3 of
+  `documents/2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf`.
+  ⭐ That last one is the strong link: **Tab 1A's authenticity is ADMITTED** and facts 39 to 45 are
+  admitted, so his membership of the team on 18 July 2023 is provable from the Respondent's own
+  admissions. His outline now says he was a member **from 2022 and still a member on 18 July 2023**, and
+  item 2's "approximately three months" is now expressly a window **within** that time, so the two no
+  longer read as inconsistent.
+- ⛔ **Where the "temporary" descriptor came from.** Stibbard's own 18 July 2023 email describes **her
+  own** role — "My current role is a project role for the Switchboard team. It is a temporary position
+  that predominantly focuses on fixing up the database". An earlier draft had transferred "temporary" to
+  Harrison-Jones. It is **hers, not his**. Never write that he held a temporary position.
+- ⚠ Still open: his exact start and finish dates, and the date he moved to the Queensland Ambulance
+  Service. Nothing turns on them in the served outline, which is deliberately bounded by what the
+  documents prove. Take them from him before he is examined.
 - ⚠ Do not write that he has left **Queensland Health**. Metro South HHS and the Queensland Ambulance
   Service are different employers; what is documented is that he has left Metro South.
