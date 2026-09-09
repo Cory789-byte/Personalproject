@@ -1064,3 +1064,93 @@ to s 32(1).
 
 **The date that answers all of this is 30 September 2026** — the Respondent's witness list. If
 Ms Taylor and Ms Reese are not on it, attendance notices follow, as foreshadowed to the Registrar.
+
+---
+
+# 15. ⭐⭐⭐ CROSS-EXAMINING WITH THE DOCUMENTS ALREADY ADMITTED
+
+## 15.1 Why this is a different exercise
+
+Ordinary cross-examination spends most of its length getting documents into evidence and getting
+the witness to accept them. **That work is finished before she opens her mouth.** Existence, wording,
+sender, recipient and time are admitted for 38 of 39 tabs.
+
+⇒ ⭐⭐ **"I don't recall" stops working.** Her recollection is irrelevant to what an admitted document
+says. If she does not remember sending the email of 15 April 2024, the email still says *"This new
+process is effective from today"*, and fact 51 admits it.
+
+Every question can therefore be built the same way: **put an admitted document, then ask what was
+done.** She can only accept it or contradict it — and contradicting an admitted document damages
+her, not him.
+
+## 15.2 Her statement can do only three things
+
+| If her statement… | Then |
+|---|---|
+| **agrees** with the documents | it adds nothing; cross goes to the gaps between them |
+| ⭐ **contradicts** an admitted document | best outcome. Do not argue — put the document, get the answer, stop |
+| **explains around** them | this is the real contest, and it is the s 32(5)(a) *"taken in a reasonable way"* limb |
+
+## 15.3 The four sequences that are ready now
+
+**1. 20 May 2024 — the channel and the hours.** Facts 82, 88 (office hours stated to all staff,
+concluding 2:30 pm) · 94, 96 (his email, 2:05 pm, within those hours) · 100, 103 (her reply, 4:30 pm,
+two hours after them) · 104 (the matter discussed with another operator *"this morning"*).
+⇒ *Who was told, when, and by what means was he to know?*
+
+**2. The payroll chain — the question with only bad answers.** Facts 183–190 (Payroll to **her**,
+3 May, four defective fortnights, **AVAC PRN 15397775** and **15605601**, *"please submit an AVAC
+… for each fortnight"*) · 195 (21 May: *"still waiting … I will submit an AVAC"*) · 196–197 (28 May:
+asks **him** to sign) · 200, 201 (every AVAC initiated by her; none by him) · 206, 210 (**neither PRN
+appears in the report**).
+⇒ ⭐⭐⭐ ***Did you submit either of those two claims?*** *"Yes"* is contradicted by the employer's own
+system record. *"No"* concedes it. *"I don't recall"* leaves the record standing.
+
+**3. The means — July 2023 onward.** Facts 40 (database access removed from everyone) · 41 (the
+coordinator present *"every Tuesday and second Monday"*) · 44 (after hours, *"have to wait"*) ·
+45 (the Contact & Number Changes book removed from the room). Against admitted facts 6 and 8 — his
+duty to maintain accurate information and to distribute emergency notifications *"strictly adhering
+to protocols and timeframes"*.
+⇒ *With what was he to do the job?*
+
+**4. The MASPER escalation.** Facts 56–61 — the Registrar reported **nine occasions in seven days**
+to her. Fact 66 — on 9 May she issued a process instruction **to the operators**.
+⇒ *What was changed, other than an instruction to the people already doing it?*
+
+## 15.4 ⛔ FIVE CAUTIONS, AND THEY ARE NOT OPTIONAL
+
+1. ⛔ **Never put motive.** No suggestion of hostility, targeting, punishment or reprisal. It opens
+   **s 32(5)(b)** from his own side and it turns him into the aggressor in the room. Every question
+   is *what did you do, and when* — never *why did you do this to me*.
+2. ⚠ **Briginshaw.** Any serious allegation raises **his own** standard of proof. Chronology, not
+   character.
+3. ⚠ **She may be sympathetic** — an acting manager, school drop-offs, an under-resourced switchboard,
+   no support from above. ⭐ **That is not a bad outcome. Take it.** If the system failed her too,
+   the management action was still unreasonable in the way it was taken, and the case does not
+   require her to be at fault.
+4. ⚠ **Do not argue with the witness.** Put the document, take the answer, move on. A self-
+   represented appellant who debates loses more than the answer was worth. Silence after an answer
+   does more than a follow-up.
+5. ⚠ ***Browne v Dunn* runs both ways.** If he will submit that the two AVACs were never submitted,
+   **he must put that to her in terms.** Anything not put cannot be argued later.
+
+## 15.5 What "and anything else" reaches
+
+Her own witness statement; the documents in the Respondent's disclosure that she authored (its items
+37 and 39, obtained through witness conferencing in July 2025); and ⭐ **the documents on their list
+that he has not yet seen** — item 39's *"Email C Taylor to A McNamee – background to request hours –
+17/05/24"* and the *"validation of claims older than 3 months – 04/09/24"*.
+
+⇒ **That is why the inspection list at `DISCLOSURE-COMPARED-by-9A.md` §4 matters before the hearing
+and not after it.** Cross-examining on a document first seen in the witness box is the one avoidable
+way to waste this position.
+
+## 15.6 ⭐ The honest bottom line
+
+**Cross-examination of Ms Taylor is not where this is won.** The 20 May interlock and the payroll
+subtraction stand whether or not any witness is believed (§14.6). Cross is where the **s 32(5)(a)**
+question is decided — and specifically the *"taken in a reasonable way"* limb.
+
+⇒ **Do not cross to destroy her. Cross to establish that the means to do the job were not provided,
+and that nothing changed when that was reported.** Every honest answer she gives helps, because the
+sequence is already admitted.
