@@ -701,3 +701,81 @@ the pattern is ever put, and **put the weight on Tab 31**.
 Switchboard record, kept in the ordinary course, or a document assembled later?* That is the
 question to be ready for. It is answered by evidence about **how the workbook was kept and by
 whom** — not by the screen capture.
+
+---
+
+# 11. ⭐⭐⭐ TAB 31 — THE APPELLANT IS THE AUTHOR OF THE REGISTER
+> Cory, 9 September 2026: *"I author the spreadsheet."* This changes §10.2 and it changes it for the
+> better — provided the step at §11.3 is taken.
+
+## 11.1 Authorship defeats "your own artefact", using their own admissions
+
+Their best line at §10.2 was: *this is the appellant's document, not a system record.* Authorship
+turns that round, because **the role description facts are admitted**:
+
+| Fact | Status | What it establishes |
+|---|---|---|
+| **8** | **Admitted** | The role requires *"**receiving** emergency response notifications and **distributing** them to the appropriate response groups… **strictly adhering to protocols and timeframes**"* |
+| **6** | **Admitted** | The role requires *"**Collate information and maintain** … [records] to ensure information held within Switchboard Services is **accurate and appropriate**"* |
+| 2 | Admitted | *"continuous shift work over the full 24-hour period, 7 days a week"* |
+
+⇒ ⭐⭐ **Receiving and dispatching emergency codes was his job, and collating and maintaining accurate
+Switchboard information was his job.** A register of emergency codes he created and kept at the
+console is a record made in the ordinary course of performing a duty the Respondent has admitted.
+That is a business record whose maker is available and can be cross-examined — the best position a
+document can be in.
+
+⛔ **And they cannot say record-keeping was outside his role without contradicting admitted facts 6
+and 8.**
+
+## 11.2 It also closes the SPOK gap
+
+SPOK is the **paging system**. The register is the **Switchboard's own log** of codes received and
+dispatched. Two different artefacts. Metro South's statement that *"records predating that upgrade
+were not retained"* is therefore **not evidence against the register** — it says nothing about it.
+The absence of a system export stops implying anything about the capture.
+
+⭐ Small but real: fact 231 records the notation *"CALLED VIA **SWITRCHBOARD**"* [sic]. A typo in a
+live operational log is a hallmark of contemporaneous entry. Nobody assembling a document afterwards
+types that.
+
+## 11.3 ⚠⚠ THE ONE THING TO DO, AND IT IS URGENT
+
+Authorship cuts both ways and they will run it: *you made it, you control it, and you have produced
+a picture of it rather than the file.* That cross-examination is fair, and **the answer is the
+file.**
+
+⇒ ⭐⭐⭐ **Locate the native `2024 Emergency Code Register.xlsx` and read its own metadata before
+anyone else sees it — created date, last-modified date, author field, sheet history.**
+
+- Created early 2024, modified consistently with ordinary use → **powerful corroboration**, and
+  Tab 31 stops being contestable.
+- Last modified in 2026 → an explanation is needed, and it is needed **before** it is put to him,
+  not on the day.
+
+⚠ **And establish whether the file still exists in his hands at all.** It may have lived on the
+Switchboard PC or a Queensland Health drive; his QH access was restricted and he separated on
+20 September 2024. If only the screen capture survives, the case on Tab 31 rests on his oral
+evidence plus whatever Metro South produces — and the MET spreadsheet corroborates **only the MET
+calls of 17–18 March** (§10.2): not the Code Blue, not the Code Grey, not 19 March.
+
+## 11.4 ⛔ Harrison-Jones cannot corroborate this — do not plan on him
+
+His served outline covers contact numbers and the monthly update task, the Communication Book, the
+Stibbard email of 18 July 2023, the database restriction, the raised-voice occasion, and that he
+never heard the Appellant say anything hostile. **It does not mention the emergency code register,
+and it does not reach March 2024.** Calling him to prove the register would go outside his outline
+and invite an objection. The outline is served and is not to be amended.
+
+## 11.5 Get the authorship facts exactly right, and keep them identical every time
+
+Not "I author the spreadsheet" but, precisely:
+
+- Did he **create** the workbook, or maintain one that already existed? (Both work; they are
+  different answers.)
+- **Where** was it kept — the console PC, a shared drive, SharePoint?
+- **Who else** used it? ⭐ A shared Switchboard register is materially stronger than a personal note.
+- **When** were entries made relative to the code — at the time, at the end of shift, on handover?
+- How did the March 2024 sheet come to be captured, and when?
+
+Five answers, written down once, and never varied.
