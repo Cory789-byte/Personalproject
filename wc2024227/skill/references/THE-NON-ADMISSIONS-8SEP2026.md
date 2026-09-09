@@ -504,3 +504,58 @@ Commission that *"a spreadsheet of recorded MET calls is available for the perio
 | **Fri 18 Sep 2026** | Reply falls due. Produced or admitted → point spent, and it was worth making |
 | If silent | Notice of non-party disclosure to Metro South, **limited to the schedule**; Tab 31 first |
 | **Tue 30 Sep 2026** | Their witness list and outlines. If Taylor and Reese are absent, attendance notices |
+
+---
+
+# 9. ⭐⭐⭐ TAB 20 — THE TIGHTEST CONTRADICTION IN THE RESPONSE
+
+Tab 20 is Metro South's letter of 5 June 2026 to Commissioner Dwyer, ref K-LM26/729, objecting to
+the Form 29. **Authenticity disputed.** Six facts drawn from it are **admitted**:
+
+| Fact | Status | What it admits |
+|---|---|---|
+| **263** | **Admitted** | ⭐⭐⭐ *"By letter dated 5 June 2026, reference K-LM26/729, signed by Ms Noelle Cridland as Chief Executive of Metro South Hospital and Health Service and addressed to Commissioner Dwyer…"* |
+| 264 | Admitted | Item 5 — FRMS implementation *"occurred after 30 June 2024"* |
+| 265 | Admitted | Item 7 — *"the requested documents do not exist…"* |
+| 266 | Admitted | Item 3(c) — *"there have been no 'consequential' changes…"* |
+| 267 | Admitted | Item 3(a) — complaints go *"directly to the Line Manager of Switch Board"* |
+| **268** | **Admitted** | ⭐ Items 1–2 — *"a spreadsheet of recorded MET calls is available for the period 17-18 March 2024"* |
+
+⇒ **Fact 263 is the point.** They have admitted the letter's **date, its reference number, its
+signatory, the office she holds, and to whom it was addressed** — every identifying characteristic
+a document can have — and then declined to admit that the copy at Tab 20 is that letter.
+
+## 9.1 And the copy is the one the Rules made its author send him
+
+⭐ **r 64E(3): "The objection must— (a) be written; and (b) be served on the party…"**
+
+The Appellant issued the Form 29, so he is *the party*. **Metro South was required by the Rules to
+serve that objection on him.** The copy at Tab 20 is the copy its own author served under the
+Rules — not something scraped together. Describing it in the Form 25 schedule as *"Copy from the
+Appellant's own records"* is accurate, and it undersells it.
+
+⚠ **Verified vs not.** Verified: r 64E(3)(b) required service on the Appellant; the Commission holds
+the original; Ms Matheson was in the room on 7 August when that objection was the subject of the
+mention, with Ms Ruttan appearing for its author. **Not verified:** whether Ms Matheson was a named
+recipient on the letter itself — the text mirror carries no distribution block. The QIRC listing
+distribution list includes her (`CONNECTION-MAP-5AUG.md` §1), and Ms Griffin's service email of
+30 April 2026 copied her, but do not assert service of *this* letter without checking the PDF.
+
+## 9.2 ⛔ Say none of this out loud, and here is the practical reason
+
+The instinct — *this is absurd* — is right, and it is exactly why the word must never appear. Six
+admitted facts and a refusal is a thing that states itself. An adjective in front of it invites an
+answer; without one there is nothing to answer. Discipline rule 5: **Dwyer must discover it
+himself**, and this is a document on his own file.
+
+## 9.3 Tab 20 costs the Appellant nothing — its use is calibration
+
+- Its **contents are in evidence anyway**, admitted at facts 263–268.
+- Authenticity is provable in one line: *"That is the objection Metro South served on me under
+  rule 64E(3)(b) on or about 5 June 2026."*
+- The Commission can compare it with its own file.
+
+⇒ So Tab 20 is not a problem to be solved. It is **the single clearest illustration of §3** — the
+one item that shows the fourteen were not assessed document by document, because nobody assessing
+this document individually refuses it. Hold it for the moment the pattern is ever put (§6), and use
+it there in one sentence, without an adjective.
