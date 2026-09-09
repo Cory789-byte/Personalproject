@@ -464,3 +464,70 @@ must be obtained.**
 ⇒ ⭐⭐⭐ **The full set did not make him much more likely to win. It made it much harder for them to
 lose slowly** — fewer procedural exits, fewer grounds to delay, and a smaller range of outcomes.
 ⭐⭐ **For an institution, a narrow band centred on defeat is the condition in which it settles.**
+
+---
+
+# O. ⭐⭐⭐ AUTHENTICITY OR SETTLEMENT — WHICH, AND WHAT EACH MEANS
+
+## O.1 ⭐⭐ THEY ARE NOT ALTERNATIVES. THEY ARE SEQUENTIAL.
+The request falls due **18 September**. A settlement decision needs an approval chain that **will not
+complete before then** (§K.0). ⇒ ⭐⭐⭐ **The authenticity answer is the near-certain next event.
+Settlement is a later and separate decision.**
+
+## O.2 THE NUMBERS
+| | |
+|---|---|
+| **Substantive response of some kind by ~18 Sep** | ⭐ **~80%** — ignoring a dated request in a live proceeding is poor practice and invites the non-party application |
+| ⭐⭐ **At least some tabs conceded or confirmed** | ⭐⭐ **~65–70%** |
+| All fourteen conceded | ~10% |
+| Everything refused or deflected | ~20% |
+| **Settlement approach before 30 Sep** | ~20% |
+| Settlement approach after 30 Sep, before listing | ~45% |
+| ⭐ **Resolution before hearing, ever** | **~65%** |
+
+⇒ ⭐⭐⭐ **Authenticity concession is far more likely, and far sooner: ~65–70% inside nine days,
+against ~20% of any settlement approach in the same period.**
+
+## O.3 ⭐⭐⭐ WHY — CONCEDING AUTHENTICITY COSTS THEM ALMOST NOTHING
+It is **not a concession on the merits.** It says only *"this copy is what it purports to be."*
+⇒ ⭐⭐ **It is the cheapest available way to look reasonable, meet the model litigant obligation the
+Commissioner named on the record, and avoid a non-party application — while conceding nothing about
+what the documents prove.**
+⛔ **Do not read a broad concession as capitulation. It is good housekeeping, and it is also simply
+the right thing for them to do.**
+
+## O.4 TAB BY TAB — LIKELIHOOD OF CONCESSION
+| Tab | | Why |
+|---|---|---|
+| **20** — MSH CE letter to Commissioner Dwyer | ⭐ **~80%** | **on the Commission's own file.** The weakest refusal they hold |
+| **6** — Taylor, on-call, 15 Apr 2024 | ⭐ **~75%** | **an attachment to item 25 of their OWN amended List of Documents** |
+| **1** — AO3 role description | ~60% | attached to the RFMI of 31 July 2026 |
+| **5, 30, 30A** — Taylor emails | ~55–60% | MSH-held; **30 is also on their own claim file** |
+| **17–19** — movement forms | ~50% | MSH-held, approved by Mr Hughes |
+| **22, 23** — consultation paper and outcome | ~50% | MSH-held |
+| ⭐⭐⭐ **21** — **Ms Forrest, 7 July 2026** | ⚠ **~40%** | ⭐ **the shift-swap sentence. The one they most want to keep disputed** |
+| **31** — the Emergency Code Register | ⛔ **~10%** | they will point to Metro South |
+
+⇒ ⭐ **Likely shape: eight to eleven conceded or confirmed; Tab 31 refused.**
+
+## O.5 ⭐⭐⭐ TAB 21 IS THE TELL
+- ⭐ **Tab 21 conceded** ⇒ they have decided the shift-swap point is not worth holding ⇒ **either the
+  rostering limb is accepted, or they are moving to resolve.**
+- ⚠ **Tab 21 held, alone or with 31** ⇒ a **considered, targeted** refusal ⇒ **they are preparing to
+  fight s 32(5)(a) on the rostering limb.**
+
+## O.6 ⭐⭐⭐ AND THE REAL READ COMES FROM THE PAIR — 18 SEP × 30 SEP
+| | **Ms Taylor NOT listed 30 Sep** | **Ms Taylor listed 30 Sep** |
+|---|---|---|
+| ⭐ **Broad concession 18 Sep** | ⭐⭐⭐ **Close to a decision to resolve.** Narrowing the file and declining to lead the evidence the exclusion needs. **Expect an approach.** | ⭐ **Tidying the file for a fight.** They intend to run it and want to look clean doing so. **Build the cross.** |
+| ⚠ **Refusal 18 Sep** | ⚠⚠ **The worst combination to read** — most likely means the internal recommendation has not landed yet. **Hold; do not chase.** | ⛔ **They are running it.** Proceed to the non-party notice and prepare fully. |
+
+⇒ ⭐⭐⭐ **Neither date means much alone. The pair is the signal.** ⛔ **Do not act on 18 September
+until 30 September is in.**
+
+## O.7 ⚠ TWO CAUTIONS
+1. ⚠ **A concession may arrive paired with a request** — particulars, or an extension of the 30
+   September date. ⭐ **Accept the concession in one line; treat any request separately and on its
+   own merits.** ⛔ **Never trade an admission for an indulgence.**
+2. ⛔ **A settlement approach is not a reason to slow the preparation.** ⭐ **Preparation is what
+   produces the offer; stopping is what withdraws it.**
