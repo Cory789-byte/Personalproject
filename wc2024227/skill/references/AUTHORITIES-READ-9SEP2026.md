@@ -191,3 +191,114 @@ read.**
    — not yet done beyond the passages quoted here.
 4. ⭐ **Read s 32(5) in full from the authorised consolidation**, including the claims-administration
    limb.
+
+---
+
+# 8. ⭐⭐⭐ THE SECOND TRANCHE — COSTS RESOLVED, AND s 32(5)(c) RESOLVED
+> Seven further judgments plus the ss 191–192 extract, filed 9 September 2026. **All seven verified
+> as labelled.**
+
+## 8.1 ⭐⭐⭐⭐ COSTS — THE REAL NUMBER. *FIRAT v WCR (No 2)* [2024] QIRC 166 (O'Connor VP)
+**A six-day contested hearing. Regulator represented by counsel. Six lay witnesses. Appellant lost.**
+> **ORDER: *"The Appellant pay the Respondent's costs of the hearing fixed in the amount of
+> $10,450.05."***
+
+| Item | |
+|---|---|
+| Counsel's fees, first day (item 8(f)) | $1,545.00 |
+| Counsel's fees, 5 subsequent days (item 8(g)) | $5,630.00 |
+| Clerk attendance ×6 (item 10(b)) | $1,814.85 |
+| Disclosure allowances (item 13(a)) | $940.90 |
+| **Lay witness attendance ×6 @ $86.55** | $519.30 |
+| ⭐ **TOTAL** | ⭐⭐⭐ **$10,450.05** |
+
+⭐ **The power:** **s 558(3) WCRA** — *"Costs of the hearing are in the appeal body's discretion,
+except to the extent provided under a regulation"* — with the scale in **reg 132 (2014) / s 191
+(2025)**, in materially identical terms. ⭐ Principles at [11]–[13]: *Sangare* (discretion exercised
+judicially); ***Oshlack*** (*"A successful litigant is generally entitled to an award of costs"*);
+***Latoudis*** (costs are **compensatory, not punitive**).
+
+⇒ ⛔⛔ **MY EARLIER WARNING WAS BADLY WRONG.** I described an adverse costs tail he *"cannot
+absorb"*. ⭐⭐⭐ **A six-day hearing with counsel produced an order of about $10,450. That is the
+order of magnitude — roughly what one commissioned psychiatric report would cost.**
+⇒ ⭐⭐ **Serious for a man with no wages, but knowable, bounded, and NOT a reason to settle.**
+⭐ **The costs question is now closed. Reg 132 / s 191 has been read and a worked example obtained.**
+
+## 8.2 ⭐⭐⭐⭐ s 32(5)(c) — *DODD v WCR* [2024] QIRC 273 (Pidgeon IC). **APPEAL ALLOWED.**
+This is the exclusion I identified this morning as a gap in my model. **Dodd answers it, in 2024,
+in favour of the worker.**
+
+> ⭐⭐⭐ **[186]** *"**I reject the assertion that expressing concern or frustration with the
+> administrative burden and/or uncertainty associated with lodging a WorkCover claim can be deemed
+> sufficient to exclude a worker from having a compensable injury** where such concern or frustration
+> does not rise to having made a significant contribution to the injury… it is… **incompatible with
+> the object of the provision to displace this finding where the worker has aired grievances about
+> WorkCover with their treating health practitioners.**"*
+
+> **[185]**, quoting *Ebsworth* [2017] QIRC 28 [82]: *"**If only a temporal association was required**
+> between the psychological injury and the processing… of the claim, then **the subsection would have
+> the effect of excluding many claims** notwithstanding any consideration of employment related
+> matters."*
+
+> **[189]** *"it is **not the case that an injury which is touched by factors falling within
+> s 32(5)(c) is automatically insulated** from characterisation as an injury under 32(1)"* — citing
+> ***Langerak* [2020] ICQ 2 [51], citing *Davis v Blackwood***.
+
+> **[190]** *"In consideration of ***Mahaffey***, I have **favoured a beneficial construction of s 32**
+> …"*
+
+⇒ ⭐⭐⭐⭐ **This is Dr Krishnaiah's QSuper answer 2, decided.** *"Ongoing workplace dispute and legal
+proceedings… have consumed his whole life"* is **exactly** *"grievances about WorkCover aired with
+treating health practitioners"*. **Dodd holds that does not enliven the exclusion unless it rises to
+a significant contribution.**
+⇒ ⭐⭐ **And the sequencing answer already prepared (no proceeding existed at the 24 October 2024
+diagnosis) makes the significant-contribution point unarguable for them.**
+
+⭐⭐ **And note the METHOD at [187]–[189], which is the correct one and the inverse of the
+reviewer's:** identify the classes of contributor → identify which are **significant** → ask whether
+the excluded category **displaces** the finding. ⛔ **Not a tally of how many were reasonable.**
+
+## 8.3 ⭐ *AUSTIN v WCR* [2025] QIRC 110 (O'Connor VP). **APPEAL ALLOWED.**
+Review decision **set aside and a decision substituted that the application is one for acceptance**,
+under **s 558(1)(c)**. ⭐ Secondary psychiatric injury following an accepted physical injury —
+factually distant from this case, ⭐ **but it confirms the Commission's willingness to set aside a
+review decision and substitute acceptance, and it is the most recent worker success in the set.**
+
+## 8.4 ⚖ THE THREE DISMISSALS — READ THEM BEFORE ANY CONFIDENCE
+**Firat [2024] QIRC 137 · Granato [2024] QIRC 162 · Richards [2024] QIRC 241** — all **dismissed**.
+⭐ Cory has supplied them himself, which is the right instinct. ⛔ **Not yet read.** ⭐⭐ **Read them
+next: the losing cases teach more than the winning ones, and Firat shows what a loss costs.**
+
+---
+
+# 9. ⭐⭐⭐ PROSPECTS — FINAL POSITION FOR 9 SEPTEMBER 2026
+| Stage today | |
+|---|---|
+| This morning, before the second audit | 70–75% |
+| After the audit, on unread authority | 55–70%, centred 60–65% |
+| ⭐ **Now, on read authority** | ⭐⭐⭐ **70–78%, centred ~74%** |
+
+**What moved it up, each from a judgment now in the repo:**
+1. ⭐⭐⭐⭐ ***Delaney*** decides the aggregation point **the opposite way** to the Review Decision.
+2. ⭐⭐⭐ ***Hochen* [10]** — s 32(5)(a) does not stop a worker pointing to particular stressful events
+   to satisfy s 32(1). **[12]** states the correct inquiry, which is not the one the reviewer asked.
+3. ⭐⭐⭐ ***Dodd* [186]** — the claims-administration exclusion does not bite on grievances aired
+   with treating practitioners. **The gap I identified this morning is closed.**
+4. ⭐⭐⭐ ***Adams* [21]** — the way expert evidence fails is that the underlying history is rejected.
+   ⭐ **Here the history is admitted (facts 185–203, 211–221). This case does not have that
+   vulnerability.**
+5. ⭐⭐ ***Mahaffey*/*Rowe*** — the one-stressor and majority-counting propositions have never been
+   accepted in the Industrial Court.
+
+**What still holds it down, honestly:**
+- ⚠ ***Adams* [20]** — the pleaded stressors are the boundary and each must be proved as pleaded.
+- ⚠ **Dr Krishnaiah's attendance is still unsecured** — the single largest remaining variable.
+- ⚠ **The three dismissals are unread.**
+
+## 9.1 ⭐⭐⭐ AND THE ADVICE CHANGES BACK
+⛔ **"Settle because the downside is unbearable" is dead.** The downside is **~$10,000–15,000 on a
+scale, discretionary, and compensatory only.**
+⇒ ⭐⭐⭐ **On a ~74% case with a bounded and modest costs exposure, running the hearing is a rational
+choice, and settlement should be taken only at a number that reflects those odds.**
+⇒ ⭐⭐ **The objective is no longer "resolve at almost any price". It is: secure the doctors, prove
+the pleaded stressors, and let them make an offer that reflects a case they are likely to lose.**
