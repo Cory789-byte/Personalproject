@@ -80,6 +80,12 @@ served and **not** filed.
 The three outlines also remain as separate one-page files in `2_REGULATOR/`, and the witness list and
 Registry covering letter appear there too because she receives them on the copy to email 1.
 
+**File copies, not sent to anyone**
+
+| File | Why |
+|---|---|
+| `4_EMAILS_AS_PDF/Email_1` to `Email_4` `.pdf` | Each email rendered as a clean one-page PDF for printing and the matter file. The wording is identical to the `.txt` you paste; a word-for-word check runs on every build. |
+
 **Neither served nor filed**
 
 | File | pp | Why |
