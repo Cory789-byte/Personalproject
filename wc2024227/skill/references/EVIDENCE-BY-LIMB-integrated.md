@@ -185,3 +185,98 @@ the **MET calls only** — not the Code Blue of 17 March, not the Code Grey of 1
    only. Per the Respondent's pleading an **amended payslip of 24 April 2024** exists.
 3. The delegate limb (1(g)) drew open scepticism at the mention and is marked for deletion.
 4. Motive, characterisation, and every word that opens s 32(5)(b).
+
+---
+
+# 7. ⭐⭐⭐ THE ARC — WHAT IT IS FOR, AND WHERE IT MUST NOT GO
+
+## 7.1 The instinct is right about persuasion
+
+Laid end to end, and every step admitted:
+
+| | |
+|---|---|
+| Jul 2023 | database access removed from everyone; the contact book taken out of the room; the coordinator present a day and a half a fortnight |
+| Aug 2023 | the manager's hours published as variable, 6–9 am to 2–5 pm |
+| Aug–Sep 2023 | he raises it; answered the same day; told to continue reporting to her |
+| Feb–Mar 2024 | the pandemic leave application |
+| **17–18 Mar 2024** | **the 7-hour break** |
+| 19 Mar 2024 | leave taken for the recovery |
+| 15 Apr 2024 | the on-call directive, *"effective from today"* |
+| **3 May 2024** | Payroll → **the manager**: four defective fortnights, two claims named, *"please submit an AVAC"* |
+| 2–8 May 2024 | the Registrar reports **nine occasions in seven days** |
+| 9 May 2024 | a process instruction issued **to the operators** |
+| **13 May 2024** | Payroll → him: *"I cannot see that any of the issues below have been corrected"* |
+| 15, 20 May 2024 | the Respiratory Service, twice: *"we can not help patients or other clinical staff"* |
+| **20 May 2024** | his email inside her published hours; her reply two hours after they closed |
+| 21 May 2024 | *"still waiting… I will submit an AVAC"* |
+| 28 May 2024 | he is asked to sign |
+| **18 Jun 2024** | *"I am sorry I haven't been there for you all over the past week"* — the pleaded date of onset |
+
+⇒ The force of it is real: **an explanation for one event does not explain why the same shape
+recurred after it was reported.**
+
+## 7.2 ⛔⛔ BUT THE ARC AS THE ARGUMENT IS THE RESPONDENT'S CASE, NOT OURS
+
+**A "composite course" is *Delaney* territory, and *Delaney* is the Respondent's authority.**
+A global evaluation of fourteen months of management action tends to find it reasonable overall.
+One mechanism with one proven instance is ***Mahaffey***. They sound identical and produce opposite
+results.
+
+⚠ And Dwyer aimed his clearest warning at exactly this: *"it's about those matters that you've
+identified as being causative of your medical…"* [58:34] · *"Your case must focus on the stressors
+that you've identified"* [59:04] · *"From what I can see… **it's a much shorter list**"* [59:10].
+
+⇒ ⭐⭐⭐ **The arc is simultaneously the most persuasive thing in the file and the framing the
+Commissioner told him to cut. Both are true, and the resolution is about where it is deployed.**
+
+## 7.3 ⭐⭐ THE RESOLUTION — THE ARC IS THE REBUTTAL, NOT THE CASE
+
+**In chief:** one mechanism — responsibility imposed, the means to discharge it withheld — with one
+admitted instance where the employer's own rule answers by subtraction. *Mahaffey*. Short.
+
+**In rebuttal:** when the Respondent says each event was reasonable management action, the arc
+answers the *individual* explanation. Not *"look how much happened"* but ***"the same failure
+recurred after it was reported, and the explanation offered for each occasion does not explain the
+recurrence."***
+
+⭐ **Repetition after notice is not a composite course. It is a quality of the single mechanism.**
+That distinction is what keeps this in *Mahaffey* and out of *Delaney*, and it must be stated that
+way every time.
+
+⛔ **Never use the words "composite", "course of conduct", "pattern" or "systemic" on paper or aloud.**
+
+## 7.4 ⚠ WHAT CAN BE EXPLAINED AWAY — RED TEAM, HONESTLY
+
+Their best case is coherent and should be expected:
+
+> *An under-resourced switchboard; an acting manager with competing duties and no support from
+> above; a payroll system that requires manager-initiated claims; a genuine belief that the tasks
+> were in hand. Things went wrong because the service was stretched, not because anyone acted
+> unreasonably toward the Appellant.*
+
+⚠⚠ **And that story runs straight at s 32(5)(b)** — the events happened, but the injury came from
+how he *experienced* them. If the Commission accepts that, the exclusion bites, and it bites hardest
+on the parts of the arc that depend on how things felt.
+
+## 7.5 ⭐⭐⭐ WHICH IS WHY THE ARITHMETIC, NOT THE ARC, DECIDES IT
+
+The one place where perception is irrelevant:
+
+- **17–18 March 2024, a 7-hour break** — admitted (fact 1).
+- **A 10-hour minimum, 8 only by written agreement** — admitted (fact 3).
+- **The Respondent's own reviewer found the rostering unreasonable management action** — admitted
+  (facts 257–262).
+
+Nobody's feelings enter that. It is subtraction against the employer's own rule, on facts the
+Respondent has admitted, with its own review decision agreeing.
+
+⇒ **The arc supports. The arithmetic decides.** Run the arithmetic first, keep it short, and hold
+the arc for the moment they say the management action was reasonable.
+
+## 7.6 ⚠ And state the arc accurately when it is used
+
+Every step above is admitted as **a document sent or received, on a date, in those words** — not as
+proof of the operational failure asserted inside it (§13.5 of `THE-NON-ADMISSIONS-8SEP2026.md`).
+The arc is an arc of **what was reported and what followed**. That is enough, and it is the only
+version that survives the covering letter of 8 September.
