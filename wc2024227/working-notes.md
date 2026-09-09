@@ -7720,3 +7720,36 @@ kept only what it means — which is the fight we want, because the case is the 
 consequence of what the documents *did*, not the truth of anything asserted in them.
 
 All at `skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §§3B–3D.
+
+### Addendum 3 — CORRECTION: Class A is "not asked", not "cannot verify" (Cory's catch)
+
+⛔ **My earlier note called the nine Class A tabs "outside the Regulator's knowledge" and legitimate
+without qualification. That was wrong and Cory corrected it.** The Regulator can verify those
+documents by asking Metro South, and it has done so in this appeal.
+
+**The proof is in the Regulator's own file.** `documents/2024-01-14_DFV_text_disclosure/
+2025-07-10_Taylor_to_Matheson_covering_email.txt` — **10 July 2025, 2:48 pm, Ms Chloe Taylor to
+Ms Renee Matheson**, subject *"WC/2024/227 … **Request for documentation**"*, body *"Please find
+attached requested information."* Eight attachments, which became **Tabs 1B, 2, 9A, 11, 12–13 and
+14** — and the Form 25 schedule records Tab 14 as *"as forwarded by Ms Taylor on 10 July 2025"* and
+Tab 11 as forwarded by her on 1 July 2025. ⭐⭐⭐ **The tabs obtained that way are among those whose
+authenticity the Regulator has now ADMITTED. The tabs it disputed are the ones it did not ask
+about.** Corroborated by the 14 July 2025 Quatrix production (payroll 24pp, Reese witness-
+conferencing 50pp, FRMS 47pp, 52MB witness bundle) — `CONNECTION-MAP-5AUG.md` §4.
+
+**The distinction to hold:** *"we have not verified this"* is true and r 49(2) requires no inquiry.
+*"We cannot verify it"* is not available to them.
+
+⛔ **Still not an impropriety argument — r 49(2) imposes no duty to inquire. Never allege one.**
+The value is that it destroys the anticipated 18 September answer, and ⭐⭐ it repairs Dwyer's own
+premise: *"the starting point is to ask the regulator"* [18:55] only works as a direction because
+the Regulator can obtain Metro South's documents. Ms Matheson's own request proves it. If the reply
+is "not within our knowledge", that contradicts the footing on which the Form 29 was stood down —
+and it is answered to the Commission, in one sentence, not to her.
+
+⭐ **The letter of 9 September was drafted better than my analysis of it.** Option (a) already asks
+for *"the Regulator's or Metro South Health's copy"*, and its schedule covers **thirteen** of the
+fourteen disputed tabs — every one a document Metro South holds — expressly dropping **Tab 24**, the
+union email, the one Metro South could not supply. That exclusion was correct.
+
+`skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §3C.1.

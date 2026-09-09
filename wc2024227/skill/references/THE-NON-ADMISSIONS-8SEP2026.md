@@ -246,7 +246,13 @@ worked through 303 facts and 39 documents one by one, and it returned a differen
 The fourteen are not one thing. Sorting them by what the Respondent could actually have checked
 produces four classes, and only two of them are worth any argument.
 
-### Class A — outside the Regulator's knowledge. Legitimate. **9 tabs**
+### Class A — not in the Regulator's file. ⚠ **NOT "outside its knowledge". 9 tabs**
+
+⛔ **CORRECTED 9 September 2026 — an earlier draft of this section called Class A "outside the
+Regulator's knowledge" and legitimate without qualification. That was too generous, and Cory caught
+it. See §3C.1: the Regulator can obtain these documents from Metro South by asking, it has done so
+in this appeal, and Ms Matheson did it herself.**
+
 `1` role description · `17` `18` `19` movement forms 2026 · `21` Forrest email 7 Jul 2026 ·
 `22` `23` MSH consultation paper and outcome Nov–Dec 2024 · `24` union email 3 Nov 2025 ·
 `30A` Taylor email 18 Jun 2024
@@ -260,6 +266,56 @@ the day before service) identified the appellant-held class as *"the only class 
 and named the rider in advance: *"She may say 'not admitted — not within the Regulator's
 knowledge'. That is the expected rider, it is honest, and it costs us nothing now."* **It is what
 happened.** Nothing here is a surprise and nothing here should be treated as one.
+
+
+### ⭐⭐⭐ 3C.1 — THE REGULATOR CAN VERIFY THESE. IT ASKS METRO SOUTH. IT HAS.
+
+**10 July 2025, 2:48 pm. Ms Chloe Taylor → Ms Renee Matheson.**
+Subject: *"WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator - **Request for
+documentation**"*. Body: *"Please find attached requested information. I have attached in order of
+list below…"*. Eight attachments:
+
+| Attachment as sent | Became |
+|---|---|
+| Fw Communication Book Update.msg | **Tab 1B** |
+| Fw Increase of hours and Workplace issues.msg | **Tab 2** |
+| Fw Validation of Claims older than 3 months - Please sign.msg | **Tab 14** — the Form 25 schedule says *"as forwarded by Ms Taylor on 10 July 2025"* |
+| Fw Office Hours and Departmental Directives.msg | **Tab 9A** |
+| Fw Respiratory Nurse Educators.msg | **Tab 11** (Taylor forward, 1 July 2025) |
+| Att 3 - Line Manager addressing Pay Concerns.PDF | the pay thread, **Tabs 12–13** |
+| Fw Urgent Leave and Roster Update for Sunday January 14th.msg | — |
+
+⇒ ⭐⭐⭐ **Ms Matheson requested documents from Ms Taylor and Ms Taylor supplied them. The tabs the
+Regulator obtained that way are among the tabs whose authenticity it has now ADMITTED. The tabs it
+disputed are the ones it did not ask about.**
+
+Corroborated by the wider channel (`CONNECTION-MAP-5AUG.md` §4): the 14 July 2025 Quatrix
+production carried QH Payroll 24pp, **witness-conferencing material for Ms Reese 50pp**, FRMS 47pp
+and a 52MB witness bundle. Metro South supplies the Regulator with documentary and witness material
+for this appeal as a matter of course.
+
+**⇒ The distinction that matters:**
+
+| Available to them | Not available to them |
+|---|---|
+| *"We have not verified this document."* True, and r 49(2) requires no inquiry | ⛔ *"We **cannot** verify it."* Untrue — the channel exists, it has been used in this appeal, and Ms Matheson used it herself |
+
+⛔ **Still not an impropriety argument.** Rule 49(2) imposes no duty to make inquiries before
+declining to admit. Never allege one. The value is entirely defensive-turned-forward: it **destroys
+the anticipated answer**.
+
+⭐⭐ **And it repairs Dwyer's own premise.** *"The starting point is to ask the regulator. Have you
+done that?"* [18:55] only works as a direction **because the Regulator can obtain Metro South's
+documents.** Ms Matheson's own request of 10 July 2025 proves the premise. If the reply on
+18 September is *"not within the Regulator's knowledge"*, that answer contradicts the footing on
+which the Form 29 was stood down — and it is answered from the Regulator's own file, in one
+sentence, to the Commission and not to her.
+
+⭐ **The letter of 9 September already reflects this and was drafted better than the analysis of it.**
+Its option (a) asks for *"the Regulator's **or Metro South Health's** copy"*. And of the fourteen
+disputed tabs its schedule asks about **thirteen** — every one a document Metro South holds — and
+expressly drops **Tab 24**, the Together Queensland email, which is the one document of the fourteen
+Metro South could **not** supply. That exclusion is correct and it was not an accident.
 
 ### Class B — the Regulator's own record already carries the document. **3 tabs**
 
