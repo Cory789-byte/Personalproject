@@ -831,7 +831,72 @@ the distinction himself is credible; one who draws it after it is put to him is 
 ⛔ **File nothing further about it now.** There is no vehicle, and a supplementary affidavit would
 advertise a point that may never be taken.
 
-## 12.3 ⚠⚠⚠ THE SWORN PROMISE THAT MUST NOT FAIL
+## 12.3 ⛔ CORRECTED — THE AFFIRMED PROMISE IS INTACT. IT DOES NOT COVER THE WORKBOOK.
+
+⛔ **An earlier draft of this section raised an alarm that the affirmed "producible" was at risk
+because Cory is locked out of the workplace. That was wrong, and it is corrected here.**
+
+**¶9 and the exhibit index attach to the *monthly call statistics*, not to the register**, and those
+statistics were **produced**:
+
+> **Appellant's List of Documents, Part 1 — documents in the Appellant's possession, item 4:**
+> *"2020–2026 · **Monthly call statistics authored by the Appellant** (volume only — calls handled
+> and **emergency codes activated**) · Author: Appellant · Status: **Produced herewith**"*
+> (and item 5, *"Individual monthly statistics, April 2025"*, 1 page, produced herewith)
+
+The List was served **after** the mention of 7 August 2026 — that is, **after** the exclusion of
+3 July. He held those records then and holds them now. **The affirmation stands.**
+
+### What he genuinely cannot get
+
+| | |
+|---|---|
+| Monthly call statistics (¶9, List items 4–5) | ✅ **held and produced** |
+| Screen capture of the March 2024 sheet (Tab 31) | ✅ **held and served** |
+| ⛔ Native `2024 Emergency Code Register.xlsx` | ⛔ **on Metro South systems. Excluded from the workplace since 3 July 2026** |
+
+### ⭐⭐ And the sequence answers it completely
+
+| | |
+|---|---|
+| **23 June 2026** | Affidavit affirmed and filed. He had access. It was true when made |
+| **3 July 2026** | Excluded from the workplace — **ten days later** |
+| Since | The workbook sits on the employer's systems |
+
+⛔ **State this as sequence and nothing more.** No motive, no characterisation. ⛔ Never *reprisal*,
+*punishment*, *hostile* or *capricious* — that opens s 32(5)(b) from our own side, and it is not
+needed: the dates do the work.
+
+⭐⭐⭐ **It is also the plain reason option (a) of the 9 September letter exists.** The Respondent
+disputes the authenticity of a document and puts the Appellant to proof of it, while access to the
+original is controlled by the employer that excluded him. That is not a complaint. It is what makes
+the request reasonable and non-party disclosure the proper route.
+
+## 12.3A ⚠ ONE GAP TO CLOSE NOW, AND IT IS CHEAP
+
+⚠ **The register capture is NOT on the Appellant's List of Documents.** Items 4 and 5 are the
+monthly statistics; the register appears nowhere on the List.
+
+⇒ **Add it by ongoing disclosure.** One line: *"Screen capture of the workbook '2024 Emergency Code
+Register.xlsx' (MARCH 2024 sheet), authored and maintained by the Appellant — produced."* It costs
+nothing, it is correct practice, it removes a small line of attack (*"you never listed it"*), and
+⭐ it puts the register on his own disclosure list **under his name as author** at no cost.
+
+## 12.3B ROUTES TO A SECOND COPY THAT DO NOT NEED WORKPLACE ACCESS
+
+1. ⭐⭐ **WorkCover / the Regulator's own claim file.** Tab 6 is annexed *"as forwarded by the
+   Appellant to WorkCover Queensland on 29 August 2024"* — he has sent material to WorkCover before.
+   **If anything containing the register or code data went to WorkCover, the Regulator holds it on
+   its own claim file**, and it authenticates from their records rather than his. Worth checking his
+   sent items to WorkCover across 2024.
+2. **The original capture file.** ⚠ The served PDF carries **no metadata at all** — no docinfo, no
+   XMP, no EXIF (image 1712×1244, Flate). It cannot self-authenticate. **If the original snip or
+   phone photo survives on a personal device, it may carry a creation date. Find it.**
+3. **Personal email and OneDrive** — anything ever mailed to himself.
+4. **IP Act / RTI application to Metro South** for his own records — already the identified route
+   for the 2026 employment file. Slow, but it does not depend on their goodwill.
+
+## 12.3X (superseded heading retained) THE SWORN PROMISE
 
 The exhibit index affirms those records are **"producible if the Commission requires."**
 
