@@ -637,3 +637,59 @@ exactly the limb where this case is weakest, so the gravity belongs there and no
 is the MEASURE OF THE RESPONSIBILITY — never a cause he championed, never a disclosure.** That
 boundary does not move because the events were serious. See
 `THE-PATIENT-SAFETY-SPINE-and-the-boundary.md` §4.
+
+---
+
+# 18. ⭐⭐⭐ THE AFTERMATH — WHERE IT BELONGS, AND THE ONE PLACE IT MUST NOT GO
+> The sequence after 18 June 2024: claim lodged 1 July, **rejected 13 September 2024** · employment
+> ended under **abandonment provisions, separation 20 September 2024, while current certificates were
+> held** · **about five months without pay** · **roughly three months until a superannuation claim
+> was needed simply to live** · a **reinstatement application** · and the **review decision of
+> 24 October 2024 confirming the rejection**.
+
+## 18.1 ⛔⛔ IT CANNOT GO TO CAUSATION — AND THIS IS THE LARGEST SELF-INFLICTED RISK ON THE FILE
+**Every item post-dates the 18 June 2024 onset. None of it can have caused an injury that already
+existed.** And it is not merely irrelevant — **it is the excluded category.**
+
+⭐⭐⭐ ***Dodd* [2024] QIRC 273 protects him ONLY while the claims-administration difficulties do NOT
+rise to a significant contribution.** [186]: the exclusion does not bite *"where such concern or
+frustration **does not rise to having made a significant contribution to the injury**."*
+
+⇒ ⛔⛔⛔ **The harder he presses the aftermath as harm that damaged him, the closer he moves himself
+from the protected side of *Dodd* to the excluded side of s 32(5)(c). Emphasis here is not neutral —
+it is actively dangerous.**
+
+⭐ **And *Delaney* itself models the discipline.** Delaney suffered a **myocardial infarction in June
+2002** which ended his working life and put him on a disability pension — and *"did not seek to rely
+upon the myocardial infarction as an injury… and has not relied upon it in the subsequent appeals."*
+⇒ ⭐⭐⭐ **The case whose facts otherwise track his shows a worker with a devastating post-onset
+consequence deliberately keeping it out — and winning.**
+
+⭐ Reinforced by ***Adams* [20]** (the pleaded stressors are the boundary) and by ***Delaney***'s
+order of analysis: injury → employment a significant contributing factor → **then** the exclusion.
+
+## 18.2 ⭐⭐⭐ WHERE IT DOES BELONG — AND IT IS SUBSTANTIAL
+1. ⭐⭐⭐ **Severity and the course of the injury.** Five months without pay, a superannuation claim
+   made to live, dismissal while holding current certificates — **that is how bad it was and how long
+   it lasted.** ⭐ **Topic 10 of the outline already places it correctly**, and the medical schedule
+   row 4 already fences it: **nothing after 24 October 2024 relied on as a cause.**
+2. ⭐⭐⭐ **QUANTUM.** If the appeal succeeds the claim is one for acceptance, and **weekly benefits
+   and medical expenses run from the incapacity** — **the five months without pay is compensated as
+   entitlement, not argued as injury.**
+3. ⭐⭐ **The other tracks.** Dismissal under abandonment while certificated → the **reinstatement
+   application**. The exclusion from work since 3 July 2026 → the **employment track**.
+   ⛔ **Rule 8: those sit BEHIND the WC settlement. Rule 9: the deed releases the compensation claim
+   ONLY** — and that term is not negotiable.
+
+## 18.3 ⭐⭐ SO — WAS THE AFTERMATH WORSE THAN *DELANEY*'S?
+⚠ **Comparable in gravity, and differently distributed.** Delaney's aftermath was **medical and
+final** (a myocardial infarction, sickness benefits, a disability pension). ⭐ **Cory's is
+financial, prolonged and administrative** — five months unpaid, a super claim to survive, a dismissal
+while certificated.
+⇒ ⭐⭐ **Neither is "worse" in a way that helps. What matters is that BOTH men were right to keep it
+out of causation, and one of them won by doing so.**
+
+## 18.4 ⭐ THE RULE, IN ONE LINE
+⭐⭐⭐ **Everything before 18 June 2024 is CAUSE. Everything after it is CONSEQUENCE.** ⛔ **Say which
+one you are using a document for, every single time — and never let the second migrate into the
+first.**
