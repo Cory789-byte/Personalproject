@@ -263,3 +263,120 @@ at 70–75% against is worse than wide variance at 65%.**
    know exactly where to press.**
 3. ⚠⚠ **It named a serving Metro South employee.** ⇒ ⭐⭐ **See the attendance-notice point** —
    move to a summons for Ms Conaghan once hearing dates issue, and tell her that is why.
+
+---
+
+# K. ⭐⭐⭐ THEIR MOVE — THE DECISION TREE, WITH PROBABILITIES
+
+## K.0 ⚠ FIRST, THE CONSTRAINT THAT SETS THE TIMING
+⭐ Their cover letter was **circulated internally at least twice** and from an account other than the
+signatory's. ⇒ **Decisions of substance go up a chain.** A settlement recommendation in a regulator's
+appeals unit needs an assessment, an approval, and instructions on a sum.
+⇒ ⭐⭐⭐ **The assessment is being made now. The approach cannot follow at the same speed.** Expect:
+**assessment complete by ~18 September · recommendation up around 30 September · any approach late
+September to mid-October.** ⛔ **Do not read silence in the next fortnight as indifference.**
+
+## K.1 **Fri 11 Sep — the filing course**
+| | |
+|---|---|
+| ⭐ **Do not object** | **~85%** — objecting means telling the Commission their own letter should not be on the file |
+| Neutral holding reply | ~50% that they write anything at all |
+| Object | ~10% |
+
+⇒ **His move:** diarise it. **If nothing by close of business Friday, lodge.** ⭐ **Record the
+non-objection in the working notes — it matters if admissibility is contested later.**
+
+## K.2 ⭐⭐ **Fri 18 Sep — the authenticity request. THE FIRST REAL SIGNAL**
+| Response | ⭐ |
+|---|---|
+| **Partial concession** — most likely **Tabs 6 and 20 first** (one is in their own List at item 25, one is on the Commission's file), probably with 5, 30, 30A, framed *"on further inquiry…"* | **~55%** |
+| **Produce or confirm** rather than admit (functionally the same for him) | ~15% |
+| **Full concession of all fourteen** | ~10% |
+| **Refuse or deflect** — *"those are Metro South's documents; issue a notice"* | ~20%, and **near-certain for Tab 31** |
+
+⭐⭐⭐ **Whatever they do on 18 September is the best available reading of their internal assessment.**
+- **Broad concession** ⇒ they have decided the document fight is unwinnable and want the matter
+  **narrowed for resolution.**
+- **Flat refusal** ⇒ either they intend to run it, or **the recommendation has not gone up yet.**
+⚠ **A mixed answer is the base case and means little on its own — read it with the 30 September list.**
+
+⇒ **His move:** ⭐ **accept any concession in one line, in writing, with thanks, and no comment on why
+it came.** ⛔ **Never remark on the change of position.** For anything refused, the schedule and the
+correspondence are already built for the non-party notice.
+
+## K.3 **Between now and 30 Sep — particulars or objection**
+| | |
+|---|---|
+| Particulars sought on **"and what followed"** (topic 7) | ~35% |
+| Objection to parts of **topic 10** as post-injury / severity only | ~25% |
+| Nothing | ~50% |
+
+⇒ **His move:** answer narrowly and once. ⭐ On *"and what followed"*: **dates, documents, and that
+nothing followed.** ⛔ **Never a consequence, never a motive, never the PID's content.** ⭐ On topic
+10: concede it goes to **severity and the course of the injury**, not to s 32(1). **That concession
+costs nothing and closes the objection.**
+
+## K.4 ⭐⭐⭐ **Tue 30 Sep — their witness list. THE DOCUMENT THAT DECIDES EVERYTHING**
+| | |
+|---|---|
+| **Ms Taylor and Ms Reese** | **~40%** — the orthodox choice if they intend to run s 32(5)(a) properly |
+| One of them only | ~20% |
+| ⭐ **Neither** — documents only, or a WorkCover/Regulator officer | **~25%** |
+| No list, an extension, or a signal of resolution | ~15% |
+
+⭐⭐⭐ **This is the most informative document still to come.**
+- **Ms Taylor on the list** ⇒ they are running the exclusion. ⭐ **Build the cross now** — fact 134,
+  the Reviewer/Delegate split, the two variance forms she signed, the six submissions she initiated,
+  PP21, and Ms Conaghan.
+- **Ms Taylor absent** ⇒ ⭐⭐⭐ **the exclusion has no evidentiary foundation.** Closing runs on
+  ***McCool* [67]** — *"insufficient evidence available in this matter to activate the exclusions"* —
+  and on Dwyer at **[15:36]**.
+
+## K.5 **Settlement**
+| | |
+|---|---|
+| Approach **before** 30 Sep | ~20% |
+| Approach **between 30 Sep and the listing** | ⭐ **~45%** |
+| No approach; runs to hearing | ~35% |
+| ⭐ **Resolution before hearing, overall** | ⭐⭐ **~65%** |
+
+⚠⚠ **Why 65% and not 75%:** ⭐ **a regulator runs cases it expects to lose more often than a
+commercial party does.** Consistency across claims, precedent, and **the absence of any costs
+exposure** change the calculus. ⛔ **Do not plan on settlement. Plan on the hearing, and let
+settlement arrive.**
+
+## K.6 **A r 49(3) withdrawal application** — ~10%
+⭐ Low, and the answer is in their own letter: **these were express admissions, and r 49(3) on its
+face reaches only admissions *"taken to have been made under subrule (2)"*.**
+
+---
+
+# L. ⭐⭐⭐ THE ASSESSMENT THEY ARE WRITING RIGHT NOW
+> *Liability exposure is high. The review decision under appeal found the personal injury, found that
+> employment was a significant contributing factor, and found one causative factor to be unreasonable
+> management action; the exclusion rests on a global-evaluation paragraph that is vulnerable.
+> The appellant holds 298 admitted facts covering the chronology, admitted authenticity of the review
+> decision, two treating doctors to be called, and two lay witnesses — one of them a current Metro
+> South employee. The exclusion cannot be run without calling Ms Taylor, whose evidence is exposed on
+> the leave decline, the seven-hour break and the roster. The appellant's principal weakness is
+> medical: causation rests on treating evidence with no independent report.
+> **Recommend resolution, subject to quantum. Failing that, brief and prepare Ms Taylor and expect a
+> contested hearing.**"
+
+---
+
+# M. ⭐⭐ SO WHAT HE DOES — IN ORDER
+1. ⭐⭐ **Nothing to them until a date falls due.** ⛔ **Do not chase, do not follow up early, do not
+   remark on their letter.** The clocks are running in his favour.
+2. ⭐⭐⭐ **Secure Dr Krishnaiah.** ⭐ Put **video evidence at a booked time** (Guide §7.6.5) before
+   any summons. **This is the 25–30% of downside and the only part still in his hands.**
+3. ⭐⭐ **Compute the quantum** — weekly benefits from 1 July 2024, medical expenses, the lump-sum/DPI
+   path — **before the end of September**, so an offer meets a figure and not a feeling.
+4. ⭐⭐ **Read *Adams*, *Delaney*, *Hochen*, *Bowers*, *Mahaffey* to ratio.** Part B of this file is
+   the case and it rests on authorities not yet read from source.
+5. ⭐ **Build the Taylor cross now**, whether or not she is listed. **If she is listed on 30
+   September, there is no time to build it then.**
+6. ⭐ **Once hearing dates issue: Form 32 + 32A for both doctors and for Ms Conaghan.** ⭐ The
+   summons protects a serving employee as much as it compels her.
+7. ⭐⭐ **Elect the second s 552A conference when direction 5 is reached** — Dwyer chairs it, Guide
+   5.1 makes it the concession forum, and their own timing points there.
