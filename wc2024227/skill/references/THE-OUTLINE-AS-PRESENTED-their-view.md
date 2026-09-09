@@ -227,3 +227,65 @@ further procedural gain now available.**
    not the substance: any departure at the hearing will be cross-examined.** ⇒ **He must be able to
    give all ten topics from memory, in his own words — the same discipline as the four minutes at
    [22:11].**
+
+---
+
+# 9. ⛔ CORRECTION — "THE REPORT" IS NOT THE VARIABLE. ATTENDANCE IS.
+> 9 September 2026, after Cory: *"the dr will be called which is what is needed regardless."*
+> **He is right, and §8 above overstated the gap. This section governs.**
+
+## 9.1 ⭐⭐⭐ WHY CALLING THEM IS NECESSARY REGARDLESS
+The report of **13 February 2025 is a QSuper document.** On its face, twice: *"This information was
+disclosed for Qsuper and **not for medico-legal use**"*; addressed to **Louise Ings, Claims Manager**;
+and its three numbered questions are TPD-style — daily activities, non-medical factors, treatment
+plan. ⇒ ⭐⭐⭐ **It was never asked the s 32(1) question and cannot answer it on paper. The only route
+to that opinion is Dr Krishnaiah in the box.** Calling him is not a substitute for a report — **it is
+the only mechanism.**
+
+## 9.2 ⭐⭐⭐ AND THE TREATING EVIDENCE HAS TWO THINGS A COMMISSIONED REPORT CANNOT BUY
+1. ⭐⭐⭐ **The diagnosis predates every proceeding.** 24 October 2024, 11:45 am, in writing —
+   reinstatement TD/2024/110 stamped **the next day**, the appeal later still. A report written in
+   late 2026 is retrospective and open to *"built on his account, for the purpose"*. **The 24 October
+   2024 diagnosis and Dr Hawes's note of 1 July 2024 are not.**
+2. ⭐⭐⭐ **The history the doctors took is separately admitted.** The standing weakness of treating
+   evidence — *"the doctor knows only what the patient told him"* — does not bite here: Hawes
+   recorded *"they withhold pay at times, no overtime- not processed, manipulate his roster- so he
+   works lates then earlies"*, and **facts 185–203 and 211–221 are admitted**.
+
+⇒ ⭐⭐ **A commissioned report would add a stranger's retrospective opinion to a file whose strength is
+contemporaneity. It is not obviously an improvement, and it is expensive and slow.**
+
+## 9.3 ⚠⚠ THE ONE REAL EXPOSURE IN THE REPORT — AND IT IS ALREADY ANSWERED
+Question 2, *"other non-medical factors influencing capacity to work"*, answered at length:
+> *"Ongoing workplace dispute and **legal proceedings**, including WorkCover claim and industrial
+> relations review, **have consumed his whole life severely affecting his functioning**"* — with
+> financial stress, relationship strain, *"perceived discrimination"*, and limited union support.
+
+⚠⚠ **That is the Respondent's best paragraph in the entire medical file, in his own treating
+psychiatrist's hand. They will put it.**
+
+⭐⭐⭐ **The answer is built and it is clean** (`QUESTIONS_FOR_DR_KRISHNAIAH_and_DR_HAWES…` §
+"Sequencing note"): **no proceeding existed at the first consultation.** Ask K5 then K7 in order —
+*"When you first diagnosed him, on 24 October 2024, was any court or commission proceeding on
+foot?"* ⇒ **No.** ⭐ **Those stressors describe the February 2025 state, not the June 2024 onset;
+they cannot have caused what was already diagnosed.** ⭐ And **schedule row 4 already fences it in the
+served document**: nothing after 24 October 2024 relied on as a cause.
+
+## 9.4 ⭐⭐⭐ SO THE VARIABLE IS ATTENDANCE
+⚠⚠ **Dr Krishnaiah declined to write a report on 5 September 2026 and the records were not sent on
+8 September.** The internal note already records the fallback — *"if he does not attend, [closing
+rests] on the words of the report alone"* — ⛔ **and that is a materially weaker position.**
+
+⇒ ⭐⭐⭐ **The live task is not obtaining a report. It is securing his attendance** — voluntarily if
+possible, by **witness summons** if not, planned well ahead of the hearing date and not left to the
+listing. ⭐ **Dr Hawes likewise.**
+⇒ ⭐⭐ **And the conference to proof both of them on K1–K9 and the Hawes questions is worth more than
+any commissioned report.**
+
+## 9.5 ⚠ TWO PRACTICAL FLAGS ON THE 13 FEBRUARY 2025 REPORT
+1. ⛔⛔ **It carries his then-residential address on its face.** ⇒ **Redact before any tender, and
+   never connect the suburb to anything** (CLAUDE.md rule 10).
+2. ⚠ **The *"not for medico-legal use"* line appears twice.** They will make something of it.
+   ⭐ **The answer is short and should be prepared, not improvised:** it is a clinical document made
+   for a superannuation claim; **Dr Krishnaiah's opinion is given orally, on oath, not through the
+   document.**
