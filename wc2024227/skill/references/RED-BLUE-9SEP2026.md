@@ -118,3 +118,68 @@ his control.** That is the single most important strategic fact in this matter.
 ⇒ And the likeliest real outcome is neither: **the admissions of 8 September raised the Respondent's
 litigation risk, which moves settlement more than it moves judgment.** The value of what was
 achieved is more likely to be realised in a negotiated resolution than at a hearing.
+
+---
+
+# PART 4 — ⛔ CORRECTION TO PART 1.2: "PERCEIVED" IS WEAKER THAN I RATED IT
+
+Part 1.2 called *"perceived"* the single best word available to the Respondent. **That over-rates it,
+and Cory is right about why: the word does different work once the events are admitted.**
+
+## 4.1 What the word is actually doing
+
+*"Perceived"* in a treating psychiatrist's report is **a clinician's hedge about the limits of his
+own knowledge, not a comment on the patient's accuracy.** Dr Krishnaiah had no access to the
+employer's records. He could not verify whether pay was withheld or the roster altered. Writing
+*"perceived"* is professionally correct and says nothing about whether it happened.
+
+⭐⭐ **The admissions of 8 September now supply precisely what he lacked.** What he could only record
+as reported is now established. The sentence no longer reads as a doubt; it reads as an accurate
+report of something since proved.
+
+## 4.2 The same report states the central matter as fact, not perception
+
+| Qualified | Stated flat |
+|---|---|
+| *"**perceived** discrimination and unfair treatment in the workplace have eroded self-esteem"* | *"workplace stress **stemming from** issues with management and rostering at Queensland Health"* |
+| | *"These issues **began** approximately one year ago when a new manager was appointed"* |
+| | ⭐ *"**His pay was withheld or delayed** for up to five months at a time, leading to significant financial stress"* |
+
+⇒ **He hedged one clause and stated the rest.** And the matter stated flat — pay withheld or delayed
+— is admitted at facts 185–190, 193, 196–197, 203 and 210.
+
+## 4.3 ⭐⭐⭐ This is exactly what *Prizeman* is for
+
+s 32(5)(b) excludes injury arising from the worker's **expectation or perception** of reasonable
+management action. It does **not** exclude injury arising from management action that actually
+occurred, merely because a doctor wrote *"perceived"* at a time when he could not verify it.
+*Prizeman* is reality versus perception — **and the reality is admitted.**
+
+⚠ And running it hard is dangerous for them: to submit that the treatment was only *perceived*, on a
+record where every event is admitted, invites the answer that they are asking the Commission to find
+an injury arose from the perception of things that indisputably happened.
+
+## 4.4 ⭐ The served schedule already does this work
+
+The schedule of medical documents served 9 September ties each clinical attribution to an admitted
+fact: management and rostering to facts 211, 212 and 220; the shorter break to 258–260; pay withheld
+or delayed to 185–190, 193, 196–197, 203 and 210. **The answer to "perceived" is already on the
+record, and it was served before the word was ever run.**
+
+## 4.5 ⚠ What the real medical risk actually is
+
+Not the word. The risk is **competing causes and timing**:
+- *"multiple life stressors, including relationship breakdown, job loss, and bereavement"*
+- *"treatment resistant depressive state"* · *"collateral information from his mother"*
+- the report is dated **13 February 2025** — eight months after onset, after the separation, after
+  the claim was rejected.
+
+⭐ **And the statute largely absorbs that:** s 32(1) requires employment to be **"a significant
+contributing factor"** — not the only one, not the major one. Competing causes need not be
+outweighed. (The 2013 *"major significant"* test was repealed in 2019, long before 18 June 2024.)
+
+## 4.6 Effect on the call
+
+The narrow case never depended on the medical wording, so **65–70% stands**. The broad case improves
+slightly — call it **45–50%** — because one of its two risks was over-rated. ⚠ **The *Delaney* risk
+is independent and unchanged**, which is why the narrow run remains the right one.
