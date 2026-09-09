@@ -693,3 +693,43 @@ out of causation, and one of them won by doing so.**
 ⭐⭐⭐ **Everything before 18 June 2024 is CAUSE. Everything after it is CONSEQUENCE.** ⛔ **Say which
 one you are using a document for, every single time — and never let the second migrate into the
 first.**
+
+## 18.5 ⭐⭐⭐ THE PID AND THE REINSTATEMENT — AND THE TRAP THEY MAKE TOGETHER
+
+### (a) ⚠ THE PID SITS ON THE OTHER SIDE OF THE LINE FROM THE REST
+⭐ **The complaint of 13 May 2024 is PRE-onset.** It is not aftermath. **It is already in topic 7,
+correctly and neutrally:** *"my complaint of 13 May 2024, **later determined to be a public interest
+disclosure (content not set out)**"*.
+⭐⭐ **Its usable proposition is inaction:** a complaint was made and **nothing followed** — no safety
+assessment, no investigation, no change of procedure — anchored to Dr Hawes's *"they don't listen to
+his complaints"*.
+⛔ **Never: a disclosure was made and he was punished for it.**
+
+### (b) ⭐⭐⭐ THE REINSTATEMENT IS MORE SIGNIFICANT THAN IT HAS BEEN GIVEN CREDIT FOR
+He was **ended under abandonment provisions on 20 September 2024 while holding current medical
+certificates — and then reinstated.**
+1. ⭐⭐⭐ **An employer does not reinstate unless the separation was unsustainable.** ⭐ **That can be
+   stated as a fact — the dismissal was made and then undone — with no characterisation at all.**
+2. ⭐⭐⭐ **He is therefore STILL AN EMPLOYEE.** That is why the 2026 exclusion, the RFMI, the G3
+   process and the long service leave question all exist, and it preserves **continuity of service**.
+3. ⭐⭐ **For quantum it helps**: the period of incapacity runs continuously rather than being cut
+   off by a separation.
+⚠ **And one way it cuts against him:** ⭐ the Respondent can say the dismissal produced **no lasting
+loss** because it was reversed. ⭐⭐ **Harmless — the dismissal is post-onset and is not relied on as
+a cause anyway.**
+⛔⛔ **TO VERIFY, AND IT MATTERS FOR THE DEED:** **was the reinstatement by consent in TD/2024/110,
+by order, or by the employer's own decision — and on what terms?** ⚠ **If there are terms, the WC
+deed must not disturb them** (rule 9).
+
+### (c) ⛔⛔⛔ AND TOGETHER THEY ARE THE MOST DANGEROUS FRAMING AVAILABLE TO HIM
+**complaint → PID → dismissal → reinstatement.** ⭐ **That reads as a story, and it is the story he
+must not tell in this appeal.**
+1. ⛔⛔ **It opens s 32(5)(b)** — it is a motive narrative, and motive is the door this whole file is
+   built to keep shut.
+2. ⛔⛔ **It converts the case from an employment-conditions case into a whistleblowing case**, where
+   the issue becomes **how a complaint was handled** — far easier ground for the Respondent, and
+   ground the Review Decision has already occupied once.
+3. ⛔⛔ **It collides with rules 1, 8 and 9** — the parallel tracks sit behind the WC settlement, and
+   a disclosure narrative on the WC record makes the deed scope argument available to them.
+⇒ ⭐⭐⭐ **The dismissal-and-reinstatement is a fact of the COURSE of the injury. The PID is a
+complaint that produced NOTHING. Neither is a cause, and the two are never joined.**
