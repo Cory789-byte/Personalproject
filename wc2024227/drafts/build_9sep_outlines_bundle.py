@@ -29,6 +29,8 @@ HD = ParagraphStyle('HD', fontName='Helvetica-Bold', fontSize=8.6, leading=11,
                     textColor=colors.HexColor('#333333'), spaceAfter=1)
 HD2 = ParagraphStyle('HD2', parent=HD, fontName='Helvetica', spaceAfter=12)
 TITLE = ParagraphStyle('TITLE', fontName='Helvetica-Bold', fontSize=13, leading=16.5, spaceAfter=4)
+# WARN is retained for future use; the contents page carries no warning paragraph, because
+# each outline states on its own face that it is served under direction 2 and not filed.
 WARN = ParagraphStyle('WARN', fontName='Helvetica-Bold', fontSize=9.4, leading=12.6,
                       textColor=colors.HexColor('#8a2010'), spaceAfter=8)
 B = ParagraphStyle('B', fontName='Helvetica', fontSize=9.4, leading=12.6, spaceAfter=6)
@@ -82,17 +84,8 @@ story = [
     Paragraph("APPELLANT'S OUTLINES OF EVIDENCE", TITLE),
     Paragraph("Served on the Respondent under direction 2 of the Further Directions Order (3) dated "
               "19 August 2026, one A4 page per witness.", B),
-    Paragraph("Direction 2 material. Served on the Respondent and not filed in the Industrial Registry. "
-              "The Appellant's list of names of all witnesses is a direction 1 document and is filed in the "
-              "Registry as a separate one-page document; it is not part of this bundle.", WARN),
     Spacer(1, 3*mm),
     t,
-    Spacer(1, 5*mm),
-    Paragraph("Each document is reproduced exactly as served. The outlines state the topics on which "
-              "each witness will give oral evidence; they are not statements of evidence and are not "
-              "verified. No expert report has been prepared for the purposes of this proceeding: the "
-              "treating material relied upon is identified in the Appellant's schedule of medical "
-              "documents, served with this bundle.", B),
     Spacer(1, 8*mm),
     Paragraph("Dated 9 September 2026", B),
     Paragraph("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B),
