@@ -462,3 +462,70 @@ capacity to research a sign of recovery from the condition you diagnosed, or a f
 
 ⚠ **And the honest limit:** ⭐ **it explains the activity; it does not by itself prove incapacity for
 work.** The certificates and Dr Hawes carry that. **Keep the two separate.**
+
+---
+
+# 12. ⭐⭐ THE NURSING STUDY AND THE SAFETY ADVISOR ROLE — CHECKED, AND THE CALL
+
+## 12.1 ✅ THE CHECK
+**Searched every served document of 9 September 2026** (the two letters, the witness list, all three
+outlines, the medical schedule, the registry covering letter) **and all 303 facts**, for *nurse*,
+*nursing*, *Manus*, *safety advisor*, *Border Force*, *qualification*.
+⇒ ⭐ **ZERO HITS. It appears nowhere in anything served, and in no admitted fact.**
+
+**Where it does live:** `skill/references/confirmed-record.md` — *"safety advisor, Manus Island
+(Australian Border Force / Immigration contractor) · **third-year Bachelor of Nursing (ceased)** ·
+Diploma of Fitness · six years operational in the health service"* — recorded in the **redeployment
+and capability case on the EMPLOYMENT track**, not in the appeal.
+⚠ **And confirmed-record.md flags it as unverified:** *"Still to confirm from him: the Manus Island
+contracting entity and the exact period."*
+
+## 12.2 ⚠⚠ AND THERE IS A REAL GAP IN TOPIC 1 THAT THIS EXPOSES
+Topic 1 undertakes that he will give evidence of *"**what an urgent pathology result is, and what
+turns on the clinician being reached in time**"*.
+
+⇒ ⚠⚠ **The obvious cross-examination is: *"You are an administration officer. How do you know what
+turns on a pathology result reaching a clinician?"*** ⭐⭐ **As served, the outline does not answer
+that. The third-year nursing study does.**
+
+## 12.3 ⭐⭐⭐ THE CALL — THE NURSING STUDY IN, MANUS ISLAND OUT
+### ✅ THE NURSING STUDY: LEAD IT IN CHIEF, DO NOT AMEND ANYTHING
+1. ⭐ **It answers an identified cross-examination risk** and explains **knowledge, not status**.
+2. ⭐ **It is modest and verifiable**, and must be put exactly that way — *"I studied to the third
+   year of a Bachelor of Nursing. I did not complete it."* ⛔ **Never as a credential; never
+   "nursing background"; never anything that implies he is or was a nurse.**
+3. ⭐⭐⭐ **No amendment is needed.** Topic 1 already undertakes to give that evidence; **the study is
+   the foundation for it, not a separate topic.** It comes out in chief as the answer to *"how do you
+   know that?"*, and it is inside the served scope.
+   ⛔ **Do not serve a supplementary note.** Re-opening the served set over one line signals anxiety
+   and invites scrutiny of the rest (cf §4.1).
+⚠ **Anticipate the sting** — *"You did not complete it, did you?"* ⭐ **Answer: "No."** Nothing
+follows from it, because the claim is knowledge, not qualification.
+
+### ⛔ MANUS ISLAND: KEEP IT OUT OF THE WC TRACK
+1. ⛔⛔ **It is unverified in the file** — entity and period unconfirmed. ⭐ **The cardinal habit
+   forbids putting an unverified employment detail into evidence.**
+2. ⚠⚠ **It carries an association that will consume hearing time on an irrelevance**, and invites
+   questions with no bearing on 18 June 2024.
+3. ⭐⭐⭐ **And its work is already done, better, by admitted documents.** The point it would make —
+   *why an operator reached for the WHS framework* — is proved without a word about his CV:
+   | Fact | Admitted |
+   |---|---|
+   | **214** | his email of 1 May 2024 citing **s 4, cl 10.4.1 of the Operations Manual**: *"a toolkit required by management to manage fatigue and implement appropriate protocols and adhere to the workplace health and s[afety]…"* |
+   | **215** | *"I forwarded the toolkit to Chloe last week for review and action but have yet to receive feedback"* |
+   | **219** | Ms Reese: *"as per Cory's second extract detailing the **Roster Risk assessment Matrix**, Chloe and I have run thought this and we say at best there would be a rating of 11 which is moderate"* |
+   | **223** | Ms Reese's email to LBH_HR attaching **qh-gdl-401-3.3**, the QH Fatigue Risk Management Systems Implementation Guideline |
+   ⇒ ⭐⭐⭐ **He supplied the framework and the matrix, and the employer's own managers used them.
+   That is on the record, admitted, and it is stronger than any prior job title.**
+4. ⭐ **It keeps its proper home**: the redeployment and capability case on the **employment track**,
+   where the realistic AO4–AO5 band is argued. ⭐ **Rule 8 — the tracks stay separate.**
+
+## 12.4 ⭐ AND IT SHARPENS THE §11.3 ANSWER
+The competence attack (*"he is formidable and he is fine"*) has **two** answers, and they are
+complementary:
+1. ⭐⭐⭐ **Dr Krishnaiah, K10** — the researching and rumination are features of the diagnosed
+   condition. **Led from the psychiatrist.**
+2. ⭐⭐ **The documents at facts 214, 215, 219 and 223** — he brought a safety framework to his
+   employer **in May 2024, before any injury or claim**, and his managers ran it. ⇒ **Capability
+   that predates the injury is not evidence that the injury did not occur.**
+⛔ **Neither answer requires him to describe his own qualifications, and he should not.**
