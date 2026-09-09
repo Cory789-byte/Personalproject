@@ -42,3 +42,28 @@
 
 Material served under direction 2 of the Further Directions Order (3) is served and
 not filed. It is at `03_SERVED_ON_THE_RESPONDENT/`.
+| `02_SUBMISSIONS_TO_QIRC/01_pleadings` | Documents in this proceeding. 2 file(s) |
+| `02_SUBMISSIONS_TO_QIRC/02_applications_and_notices` | Documents in this proceeding. 12 file(s) |
+| `03_SERVED_ON_THE_RESPONDENT/03_earlier_service` | Documents in this proceeding. 2 file(s) |
+| `04_FROM_THE_RESPONDENT/02_pleadings_and_lists` | Documents in this proceeding. 6 file(s) |
+| `05_FROM_METRO_SOUTH/02_employment_correspondence` | Documents in this proceeding. 71 file(s) |
+| `06_EVIDENCE/03_payroll_and_leave` | Documents in this proceeding. 8 file(s) |
+| `06_EVIDENCE/05_medical` | Documents in this proceeding. 3 file(s) |
+| `07_WORKING_PAPERS/references` | Working papers. 177 file(s) |
+| `07_WORKING_PAPERS/evidence_index` | Working papers. 8 file(s) |
+| `07_WORKING_PAPERS/transcripts` | Working papers. 4 file(s) |
+| `09_LAW_AND_INSTRUMENTS` | Legislation, awards, certified agreements, directives, policies, guidelines and authorities referred to in this proceeding. 40 file(s) |
+| `10_PROTECTED/01_legal_professional_privilege` | Communications with Saines Legal. 3 file(s) |
+| `10_PROTECTED/02_without_prejudice` | Settlement correspondence and the deed of 2025. 5 file(s) |
+| `10_PROTECTED/03_public_interest_disclosure` | Documents recording a public interest disclosure. 1 file(s) |
+| `11_INDEX_AND_PROVENANCE` | The full-text index of the file, the manifest of scanned documents, the export provenance records, and the consolidated correspondence text. 9 file(s) |
+| `11_INDEX_AND_PROVENANCE/ocr_cache` | Cached optical character recognition output for scanned documents, keyed by file hash. 37 file(s) |
+| `07_WORKING_PAPERS/produced_documents` | Documents produced in the course of this matter, as built. 146 file(s) |
+| `07_WORKING_PAPERS/produced_documents/packs` | Assembled packs, as built. 39 file(s) |
+| `07_WORKING_PAPERS/references/working` | Working papers. 3 file(s) |
+| `02_SUBMISSIONS_TO_QIRC/02_applications_and_notices/as_lodged` | The rule 64G application and its accompanying documents in the form lodged on 23 June 2026. 4 file(s) |
+| `07_WORKING_PAPERS/produced_documents/packs/final_9sep2026` | The 9 September 2026 set as built, including the email texts and their rendered copies. 7 file(s) |
+| `07_WORKING_PAPERS/produced_documents/packs/earlier_sends` | Assembled packs, as built. 23 file(s) |
+| `07_WORKING_PAPERS/produced_documents/superseded` | Superseded drafts, retained. 3 file(s) |
+| `07_WORKING_PAPERS/produced_documents/other` | Working products in other formats. 3 file(s) |
+| `12_UNIDENTIFIED` | A document whose origin has not been established. 1 file(s) |

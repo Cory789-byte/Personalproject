@@ -201,6 +201,135 @@ DIRS = {
 }
 
 
+# ── the deep sweep ──────────────────────────────────────────────────────────────
+# destination folder -> glob patterns. Applied after TREE and DIRS.
+GLOBS = {
+ "02_SUBMISSIONS_TO_QIRC/01_pleadings": [
+    "documents/WC2024227_Outline_of_Submissions.pdf",
+    "evidence-index/sources-text/Amended_Form_9A_07.04.2026.txt"],
+ "02_SUBMISSIONS_TO_QIRC/02_applications_and_notices": [
+    "lodgement/*.md", "lodgement/*.docx", "lodgement/WC2024227_Form4_FINAL.pdf",
+    "lodgement/WC2024227_Draft_Order_FINAL.pdf", "lodgement/WC2024227_Form20_FrontSheet.pdf",
+    "evidence-index/sources-text/Form4_64G_covering_email_23.06.2026.txt"],
+ "03_SERVED_ON_THE_RESPONDENT/03_earlier_service": [
+    "documents/2026-07-01_Cory_Calderbank2_covering_email_SERVICE_PROOF.pdf",
+    "evidence-index/sources-text/Calderbank_SENT_2026-07-01.txt"],
+ "04_FROM_THE_RESPONDENT/02_pleadings_and_lists": [
+    "documents/2026-02-18_Form24_Response_and_email_communication.pdf",
+    "documents/B4_EXHIBIT_Form9C_Statement_of_Reasons.pdf",
+    "documents/WC.2024.227_Shepherd_REG_disclosure_to_APP_11.06.2026.pdf",
+    "documents/2026-06-11_Matheson_disclosure_cover_email_screenshot.jpg",
+    "documents/2026-08-14_1329_Matheson_reply_31July_WP_position_unchanged.pdf",
+    "evidence-index/sources-text/Regulator_SOFC_13.05.2026.txt"],
+ "05_FROM_METRO_SOUTH/02_employment_correspondence": [
+    "documents/2023-09-27_Taylor_FullTime_Appointment_APPROVED.pdf",
+    "documents/2024-09-02_Floyd_*.pdf", "documents/2026-0[2-9]-*.pdf",
+    "documents/2026_Movement_Forms_*.pdf", "documents/2026-08-2*.pdf",
+    "documents/2025-04-08_*.pdf", "documents/2025-11-03_Together_*.pdf",
+    "documents/2025-hughes-history/2025-*.pdf",
+    "documents/2025-hughes-history/AttE_*.pdf", "documents/2025-hughes-history/AttF_*.pdf",
+    "documents/sent-2026-08-03/*", "documents/sent-2026-08-03/attachments-as-sent/*",
+    "documents/sent-2026-08-12/*", "documents/qsuper-2026/*",
+    "documents/related-matters/*"],
+ "06_EVIDENCE/03_payroll_and_leave": [
+    "documents/Item_11_*.pdf", "documents/2026-09-04_LSL_*",
+    "documents/2026-08-12_Payslip_*.pdf", "documents/2026-07-22_Payroll_*.pdf",
+    "documents/2026-07-20_myHR_*.pdf"],
+ "06_EVIDENCE/05_medical": [
+    "documents/2025-10-2*_Medical_*", "documents/2026-05-28_QSuper_*.pdf"],
+ "07_WORKING_PAPERS/references": ["skill/references/*.md"],
+ "07_WORKING_PAPERS/evidence_index": ["evidence-index/*.md", "evidence-index/sources-text/*.md",
+                                      "evidence-index/sources-text/2026-0[67]*.txt"],
+ "07_WORKING_PAPERS/transcripts": ["documents/transcripts/*", "documents/METADATA_REGISTER.md"],
+ "09_LAW_AND_INSTRUMENTS": ["documents/instruments/*", "documents/guides/*",
+                            "documents/Prizeman_v_QComp_2005_QIC_53.pdf"],
+ "10_PROTECTED/01_legal_professional_privilege": [
+    "documents/2024-11-26_Saines_Cost_Agreement.pdf", "documents/2025-02-1*_Saines_*.pdf"],
+ "10_PROTECTED/02_without_prejudice": [
+    "documents/*Deed*", "documents/2024-12-11_StoneGroup_*.pdf",
+    "documents/2025-01-28_Griffin_*.pdf", "documents/2024-11-26_Griffin_*.pdf"],
+ "10_PROTECTED/03_public_interest_disclosure": [
+    "documents/2024-05-13_ESU_PID_*.pdf"],
+ "11_INDEX_AND_PROVENANCE": ["index/*.txt", "index/*.tsv", "index/*.md",
+                             "documents/provenance/*", "corpus/*"],
+ "11_INDEX_AND_PROVENANCE/ocr_cache": ["index/ocr/*.json"],
+ "07_WORKING_PAPERS/produced_documents": ["drafts/out/*.pdf", "drafts/out/*.md",
+                                          "drafts/out/*.html", "drafts/out/*.xlsx",
+                                          "drafts/out/*.txt"],
+ "07_WORKING_PAPERS/produced_documents/packs": [
+    "drafts/out/CEILING_SET/*", "drafts/out/pack_v2/*", "drafts/out/SEND_31JUL/*",
+    "drafts/out/SEND_9SEP2026/*", "drafts/out/SEND_9SEP2026/TO_MATHESON_9SEP2026/*",
+    "drafts/out/SEND_EMPLOYMENT_9SEP2026/*"],
+ "07_WORKING_PAPERS/references/working": ["skill/references/fpa5sep_working/*.md"],
+ "02_SUBMISSIONS_TO_QIRC/02_applications_and_notices/as_lodged": [
+    "lodgement/WC2024227_Draft_Order.pdf", "lodgement/WC2024227_Form20_FINAL.pdf",
+    "lodgement/WC2024227_Form21_Certificates.pdf",
+    "lodgement/WC2024227_Form_4_Application_Rule_64G.pdf"],
+ "07_WORKING_PAPERS/produced_documents/packs/final_9sep2026": [
+    "drafts/out/FINAL_9SEP2026/*.md", "drafts/out/FINAL_9SEP2026/3_EMAILS/*",
+    "drafts/out/FINAL_9SEP2026/4_EMAILS_AS_PDF/*"],
+ "07_WORKING_PAPERS/produced_documents/packs/earlier_sends": [
+    "drafts/out/SEND_4SEP2026/*", "drafts/out/SEND_5SEP2026/*",
+    "drafts/out/SEND_EMPLOYMENT_7SEP2026/*", "drafts/out/HOLD_CE_STAGE2/*"],
+ "07_WORKING_PAPERS/produced_documents/superseded": ["drafts/out/SUPERSEDED/*"],
+ "07_WORKING_PAPERS/produced_documents/other": ["drafts/out/*.docx", "drafts/out/*.zip"],
+ "12_UNIDENTIFIED": ["documents/Outlook_Document99.pdf"],
+}
+
+GLOB_BLURB = {
+ "09_LAW_AND_INSTRUMENTS":
+   "Legislation, awards, certified agreements, directives, policies, guidelines and authorities "
+   "referred to in this proceeding. Verified extracts accompany some of them.",
+ "10_PROTECTED":
+   "Material for which privilege or statutory protection is claimed, or which is without "
+   "prejudice. Kept separate from the rest of the file.",
+ "10_PROTECTED/01_legal_professional_privilege":
+   "Communications with Saines Legal. Privilege claimed at item 22 of the Appellant's list of "
+   "documents.",
+ "10_PROTECTED/02_without_prejudice":
+   "Settlement correspondence and the deed of 2025. Without prejudice.",
+ "10_PROTECTED/03_public_interest_disclosure":
+   "Documents recording a public interest disclosure. Statutory protection claimed under "
+   "section 65 of the Public Interest Disclosure Act 2010 at item 23 of the Appellant's list of "
+   "documents, with non-publication sought at order 6 of the draft order.",
+ "11_INDEX_AND_PROVENANCE":
+   "The full-text index of the file, the manifest of scanned documents, the export provenance "
+   "records, and the consolidated correspondence text.",
+ "07_WORKING_PAPERS/references": "Working papers.",
+ "07_WORKING_PAPERS/evidence_index": "Working papers.",
+ "07_WORKING_PAPERS/transcripts": "Working papers.",
+ "07_WORKING_PAPERS/produced_documents":
+   "Documents produced in the course of this matter, as built. Some were served or filed and appear "
+   "in their own folders above; the rest are working products.",
+ "07_WORKING_PAPERS/produced_documents/packs": "Assembled packs, as built.",
+ "07_WORKING_PAPERS/references/working": "Working papers.",
+ "02_SUBMISSIONS_TO_QIRC/02_applications_and_notices/as_lodged":
+   "The rule 64G application and its accompanying documents in the form lodged on 23 June 2026.",
+ "11_INDEX_AND_PROVENANCE/ocr_cache":
+   "Cached optical character recognition output for scanned documents, keyed by file hash.",
+ "07_WORKING_PAPERS/produced_documents/packs/final_9sep2026":
+   "The 9 September 2026 set as built, including the email texts and their rendered copies. What "
+   "was actually filed and served is at 02 and 03.",
+ "07_WORKING_PAPERS/produced_documents/packs/earlier_sends": "Assembled packs, as built.",
+ "07_WORKING_PAPERS/produced_documents/superseded": "Superseded drafts, retained.",
+ "07_WORKING_PAPERS/produced_documents/other": "Working products in other formats.",
+ "12_UNIDENTIFIED":
+   "A document whose origin has not been established. Recorded here rather than filed under a "
+   "heading it may not belong to.",
+}
+
+# ⛔ Held out of the case file by standing instruction. Named, not described.
+EXCLUDE_DIRS = [
+ ("documents/2024-01-14_DFV_text_disclosure",
+  "Domestic and family violence material. Held out by standing instruction; not part of this "
+  "appeal. It remains in the working repository at its original path."),
+ ("documents/2025-hughes-history/AttA", "Held out by standing instruction."),
+ ("documents/2025-hughes-history/AttB", "Held out by standing instruction."),
+ ("documents/2025-hughes-history/AttC", "Held out by standing instruction."),
+ ("documents/2025-hughes-history/AttD", "Held out by standing instruction."),
+]
+
+
 def main():
     if os.path.isdir(ROOT):
         shutil.rmtree(ROOT)
@@ -244,7 +373,51 @@ def main():
               "  9 September 2026; and documents prepared for filing after 11 September 2026.", "",
               "Material served under direction 2 of the Further Directions Order (3) is served and",
               "not filed. It is at `03_SERVED_ON_THE_RESPONDENT/`."]
+    # ── the deep sweep ─────────────────────────────────────────────────────────
+    excluded = {p for pref, _ in EXCLUDE_DIRS
+                for p in glob.glob(pref + "*") + glob.glob(pref + "/**", recursive=True)}
+    swept = 0
+    for dest, pats in GLOBS.items():
+        d = os.path.join(ROOT, dest)
+        os.makedirs(d, exist_ok=True)
+        got = []
+        for pat in pats:
+            for src in sorted(glob.glob(pat)):
+                if not os.path.isfile(src) or src in excluded:
+                    continue
+                tgt = os.path.join(d, os.path.basename(src))
+                if os.path.exists(tgt):
+                    continue
+                shutil.copy2(src, tgt); got.append(os.path.basename(src)); swept += 1
+        rd = os.path.join(d, "README.md")
+        if got and not os.path.exists(rd):
+            open(rd, "w").write(f"# {dest}\n\n"
+                                f"{GLOB_BLURB.get(dest, 'Documents in this proceeding.')}\n\n"
+                                "## In this folder\n\n"
+                                + "".join(f"- `{g}`\n" for g in sorted(got)))
+        elif got:
+            with open(rd, "a") as fh:
+                fh.write("\n" + "".join(f"- `{g}`\n" for g in sorted(got)))
+        if got:
+            lines.append(f"| `{dest}` | "
+                         f"{GLOB_BLURB.get(dest, 'Documents in this proceeding.').split('.')[0]}. "
+                         f"{len(got)} file(s) |")
+    for parent, blurb in GLOB_BLURB.items():
+        p = os.path.join(ROOT, parent)
+        if os.path.isdir(p) and not os.path.exists(os.path.join(p, "README.md")):
+            open(os.path.join(p, "README.md"), "w").write(f"# {parent}\n\n{blurb}\n")
+
+    with open(os.path.join(ROOT, "EXCLUDED.md"), "w") as fh:
+        fh.write("# Held out of this case file\n\n"
+                 "The following remain in the working repository at their original paths and are "
+                 "not copied here.\n\n")
+        for pref, why in EXCLUDE_DIRS:
+            fh.write(f"- `{pref}` — {why}\n")
+        fh.write("\nSource scripts (`*.py`), the reasoning scratchpad and directory placeholders are "
+                 "not copied. They remain in `drafts/`, `lodgement/` and `skill/references/`.\n")
+
     open(os.path.join(ROOT, "00_INDEX.md"), "w").write("\n".join(lines) + "\n")
+    print(f"  deep sweep: {swept} further files")
     print(f"\n{ROOT}: {placed} files placed, {len(TREE)} folders"
           + (f", ⛔ {missing} MISSING" if missing else ", nothing missing"))
     if missing:

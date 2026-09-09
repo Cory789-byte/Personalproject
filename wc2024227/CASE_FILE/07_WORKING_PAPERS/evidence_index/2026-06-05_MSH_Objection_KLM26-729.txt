@@ -1,0 +1,182 @@
+SOURCE: MSH letter of objection to the Form 29, ref K-LM26/729, 5 June 2026.
+Signed Ms Noelle Cridland, Chief Executive, Metro South HHS. Enquiries: Myla Ruttan,
+Principal Lawyer, Metro South Legal Services (07 3069 4755, metrosouthlegal@health.qld.gov.au).
+Addressed to Commissioner Dwyer, QIRC. Re WC/2024/227 — Cory Lea Shepherd v Workers' Compensation Regulator.
+Greppable text mirror of documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf (byte-identical to the
+"01 FINISHED APPEAL" copy). Extracted via M365 connector 2026-06-27. Enc.: documents for items 6, 11, 12, 13, 15, 16.
+------------------------------------------------------------------------------------------------
+
+I refer to the Form 29 – Notice of non-party disclosure (the Notice) regarding the above matter. Mr
+Shepherd is a current employee of Metro South Hospital and Health Service (Metro South Health) as
+Switchboard Operator at Logan Hospital.
+
+The Notice compels Metro South Health to produce various documents that Mr Shepherd claims to
+require for his Workers' Compensation Appeal. Metro South Health has complied with some of the Items
+requested in the Notice as outlined below. In accordance with Rule 64E(4) of the Industrial Relations
+(Tribunals) Rules 2011, our objections to production/compliance with the Notice are also outlined below.
+
+At the outset, it should be noted that Metro South Health is not in receipt of the Applicant's Amended
+Statement of Facts and Contentions (Form 9A). Throughout the Notice, the Applicant has expressed
+various opinions and views about the relevance of the documents to the allegations and stressors the
+subject of the appeal. While Metro South Health's substantiative grounds of objection to compliance with
+the Notice are outlined below, our ability to determine whether the requested documents are 'relevant' to
+the proceeding (and therefore give rise to an objection under Rule 64E4(b)) has, to some extent been
+limited. We submit this ought to be taken into consideration by the Commissioner.
+
+Items 1 and 2 - SPOK emergency paging export and Aggregate SPOK activation counts
+Metro South Health cannot comply with the request for Items 1 and 2. The requested records do not exist.
+The system was upgraded in SPOK, and records predating that upgrade were not retained. However, a
+spreadsheet of recorded MET calls is available for the period 17-18 March 2024.
+
+Item 3(a) - Complaints received - server side exchange filter
+Metro South Health objects to the production of Item 3(a). The reason for this objection is the expense and
+inconvenience that Metro South Health will incur (Rule 64E(4)(a)). All employee complaints relating to
+Logan Hospital Switchboard operational errors are made directly to the Line Manager of Switch Board and
+managed solely via email or verbally with the complainant. Metro South Health's core function is to provide
+health services to the public. Compliance with a request of this date range would require approval from the
+Health Service Chief Executive to engage external resources and assistance from eHealth Queensland at
+the Department of Health to review and search individual staff member email accounts. This would have a
+significant administrative and operational burden. Particularly as the date range requested is so broad
+(between the period 1 December 2023 to 30 June 2024). In circumstances where the Matter in Issue as
+pleaded in the Notice relates to "consecutive shifts of 17 to 18 March 2024", Metro South Health submits a
+search of the requested range and breadth will take an unreasonable amount of time and resourcing and
+detract from our core functions of providing health care to the community.
+
+Item 3(b) - Management discussion of complaints
+Metro South Health relies on the same grounds for objection as for Item 3(a) above.
+
+Item 3(c) - Consequential changes to operating procedures
+Metro South Health cannot comply with the request for Item 3(c) because there have been no
+'consequential' changes to operating procedures over the period requested.
+
+Item 4 - FRMS risk assessment record
+Metro South Health cannot comply with the Notice in relation to Item 4. This is because the requested
+documents do not exist. Mandatory Fatigue Risk Management System training only applies to health
+practitioners and clinical assistants. The Logan Hospital Switchboard staff are non-clinical staff, and
+therefore there is no mandatory requirement for them to complete Fatigue Risk Management System training.
+
+Item 5 - FRMS training and competency records
+Metro South Health cannot comply with the request in relation to Item 5. The implementation of fatigue risk
+management assessment at Switchboard Logan Hospital occurred after 30 June 2024 in connection with an
+organisational change related to the reporting lines for Switchboard.
+
+Item 6 – FRMS delegation and governance record
+Metro South Health encloses the attached Role Description for Manager of Switchboard Services.
+
+Item 7 - FRMS register entries and switchboard roster expectations
+Metro South Health cannot comply with the Notice in relation to Item 7. This is because the requested
+documents do not exist. Mandatory Fatigue Risk Management System training only applies to health
+practitioners and clinical assistants.
+
+Item 8 – Management System Log in records
+Metro South Health objects to the production of Item 8. The reason for this objection is the expense and
+inconvenience that Metro South Health will incur (Rule 64E(4)(a)). Compliance with a request of this date
+range would require approval from the Health Service Chief Executive to engage external resources and
+assistance from eHealth Queensland at the Department of Health to review and search individual staff
+member email accounts. This would have a significant administrative and operational burden, particularly as
+the date range requested is so broad (between the period 1 December 2023 to 30 June 2024) and a search
+of the requested range and breadth will take an unreasonable amount of time and resourcing and detract
+from our core functions of providing health care to the community. In circumstances where the Matter in
+Issue as pleaded in the Notice relates to "consecutive shifts of 17 to 18 March 2024", Metro South Health
+submits this date range is a reasonable range to search. Further, the reference to "Management system
+login records - Active Directory / Entra ID / Citrix. Native electronic 2024 export of Windows Active
+Directory, Entra ID and Citrix session-login audit records" is unreasonably broad (lacking particularity).
+Metro South Health uses various application platforms and it is not clear which system is being referred to.
+
+Item 9 - Management building access
+Metro South Health objects to the production of Item 9 on the basis that the request lacks relevance,
+particularity and could affect a person (Rule 64E(4)(b)(c) and (f). The Switchboard office is collocated in an
+office area where there are other staff from various departments going through the office area. The
+switchboard office does not have its own access-swipe access. The Applicant is a current employee and
+reports directly to the line manager. The request is unreasonably broad (lacks particularity) and production
+could have an effect on the line manager.
+
+Item 10 - various
+Metro South Health objects to the production of the documents requested in Item 10. The reason for this
+objection is the expense and inconvenience that Metro South Health will incur (Rule 64E(4)(a)). Compliance
+with a request of this date range would require approval from the Health Service Chief Executive to engage
+external resources and assistance from eHealth Queensland at the Department of Health to review and
+search individual staff member email accounts. This would have a significant administrative and operational
+burden. Particularly as the date range requested is so broad (between the period 1 December 2023 to 30
+June 2024). In circumstances where the Matter in Issue as pleaded in the Notice relates to "consecutive
+shifts of 17 to 18 March 2024", Metro South Health submits a search of the requested range and breadth
+will take an unreasonable expenditure of time and resourcing, and detract from our core functions of
+providing health care to the community.
+
+Item 11 - Appellant's MyHR audit trail - COVID Special Pandemic Leave (Process Reference 15480560)
+Metro South Health encloses the following documents in compliance with the request for Item 11:
+- MyHR report leave submission for period 1 February 2024 to 31 May 2024;
+- Leave form evidence of pandemic leave for period 20 to 27 February 2024;
+- Leave form for period 20 to 27 February 2024;
+- AVAC history for pandemic leave for the period 20 to 27 February 2024.
+
+Item 12 – Comparator MyHR audit trails
+In compliance with the request for Item 12, Metro South Health encloses a complete audit trail of the
+requested pandemic leave for the period requested for Logan Hospital Switchboard. Metro South Health
+otherwise objects to the production of other documents as outlined in Item 12. This request would require
+accessing the relevant staff members' supporting evidence of their Special Pandemic Leave requests
+during the period 1 January 2024 – 30 June 2024. Examples of supporting evidence could be a photograph
+of a positive COVID test, medical certificate, lab results confirming COVID diagnosis, or letter from their
+child's school in the event of school closure. This request is unreasonable in circumstances where the effect
+of production would have on the other staff members (i.e. breach of their right to their privacy and reputation)
+and that the proof of COVID test contains confidential and sensitive personal health information of the
+relevant staff members.
+
+Item 13 – Line Manager authority framework – COVID Special Pandemic Leave processing
+In compliance with the request for Item 13, we enclose:
+- HR Delegation COVID-19 Pandemic Event – Paid Special Pandemic Leave signed 23 November 2022;
+- Pandemic Directive 01/20 – Employment Arrangements in the event of a Health Pandemic
+  Implementation Guideline – Directive 01/20 dated 14 April 2020.
+
+Item 14 - Text message and electronic communication corpus - Appellant and Line Manager concerning COVID Special Pandemic Leave
+The requested information in Item 14 is not in control or possession of Metro South Health. The line
+manager was not issued with a Queensland Health mobile device, and as such the SMS messages
+exchanged between the Applicant and the Line manager relating to the pandemic leave request was made
+using the line manager's personal mobile device. The Queensland Health retention policy does not apply to
+employee's personal mobile. The Switchboard line manager was issued with Queensland Health mobile
+device in or around the third quarter of 2024.
+
+Item 15 - Leave ledger - 19 March 2024
+In compliance with the request for Item 15, we enclose: Leave takings report for the Applicant 19 March 2024.
+
+Item 16 - AVAC payroll export - Appellant (PRN 15397775 and PRN 15605601).
+In compliance with the request for Item 16, we enclose:
+- Daily Staffing variance form for the period 5 to 18 February 2024.
+- Daily Staffing variance form for the period 19 February 2024 to 3 March 2024.
+
+Item 17 – Comparator payroll export
+Metro South Health objects to the production of Item 17 on the basis of Rule 64E(4)(e). Disclosing the
+requested information would infringe upon the human rights to privacy and reputation of the team members
+within the switchboard team, because: the staff members' identity can be easily re-identified even if
+redacted; the Logan Hospital Switchboard team is comprised of a small team; given that the Applicant is a
+current employee within the same team, re-identification of the other team member would create a real risk
+of harm to their reputation.
+
+Item 18 - Communication Book and 15 November 2023 Business Case minutes
+Metro South Health objects to the production of Item 18 on the grounds of irrelevance (Rule 64E(4)(b)). The
+Notice indicates that the destruction of the record had already been pleaded at Form 9A, Part B, para 2
+Stressor l(b) (Form 24, Para 14). In those circumstances, it is difficult to identify the relevance of the
+present request, given that the issue appears to have already been conceded.
+
+Item 19 - Union delegate correspondence - server-side Exchange server
+Metro South Health objects to the production of Item 19 on the basis of Rule 64E(4)(a) and (f). Metro South
+Health employed approximately 20,006 MOHRI occupied headcount during the period of the dates of the
+Notice. The requested documents require searching through these staff's email messages received from
+Together Queensland. Compliance with a request of this date range and email recipients would require
+approval to engage external resources and assistance from eHealth Queensland at the Department of
+Health, resulting in a significant administrative and operational burden. We consider that the date range
+ought to be narrowed to 17-18 March 2024, limited to emails received from Together Queensland by the
+Switchboard line manager and their Director, or by members of the Logan Hospital Human Resources team
+who were employed by and remained with Metro South Health. Further, any disclosure of correspondence
+involving Together Queensland would also require consultation with or issuing a production notice to them
+(as an affected party), if they were included in the email communication.
+
+Item 20 - Operational HR reaction to PID 24-ESU-1130
+The information requested in item 20 does not exist, as the reference cited in the Notice being
+"PID24-ESU-1130" commenced in November 2024, which falls outside the specified search period of
+13 May 2024 to 31 May 2024.
+
+[Closing] In the event you have any questions or concerns about this correspondence, I have arranged for a
+Principal Lawyer from the Metro South Health Legal team to be available to assist. Yours sincerely,
+Ms Noelle Cridland, Chief Executive, Metro South Hospital and Health Service.
+Enc. Documents relating to items 6, 11, 12, 13, 15 and 16 of the Notice.

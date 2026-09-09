@@ -1,0 +1,65 @@
+SOURCE: Appellant's Amended Statement of Facts and Contentions (Form 9A), filed 7 April 2026
+(with leave). The OPERATIVE pleading of Cory's case. Ingested from OneDrive "Qirc REG Filed forms"
+via M365 connector 2026-06-27. Rich with "Admitted Fact: Form 24, Para X" pinpoints — VERIFY each
+against the Form 24 Response before relying (the Regulator's SOFC contests several; see SOFC file).
+------------------------------------------------------------------------------------------------
+
+PART A: Appellant Cory Lea Shepherd; Employer State of Qld (Qld Health) — Logan Hospital Switchboard;
+Role Administration Officer (OO3); INJURY: "Major Depressive Disorder with Anxious Distress (DSM-5 296.23)";
+Date of onset 18 June 2024.
+
+PART B — MATERIAL FACTS
+1. Clean baseline:
+ 1.1 Switchboard, coordinating life-safety codes (Code Blue, MET).
+ 1.2 Clean psychiatric baseline; 16 Nov 2023 clinical record "No psychological illness such as
+     depression/psychosis" (Admitted Fact: Form 24, Para 34).
+ 1.3 18 June 2024 onset; diagnosed by Dr Ravikumar Krishnaiah as MAJOR DEPRESSIVE DISORDER
+     (Admitted Fact: Form 24, Para 38); Krishnaiah warned premature workplace exposure would likely
+     cause clinical deterioration (Admitted Fact: Form 24, Para 39).
+ 1.4 Treating GP Dr Hawes recorded mechanism: "ongoing breaking of workplace rules by bosses,
+     victimizing him" (Admitted Fact: Form 24, Para 36).
+
+2. Causative stressors (composite course ~June 2023–June 2024):
+ Stressor 1 — Hostile course / reprisal / suppression:
+  (a) Dereliction of clinical governance: Taylor's erratic presence + unassessed unilateral directives;
+      bottlenecked emergency workflows; delayed urgent pathology results.
+  (b) Destruction of WHS records: 6 June 2023 comm-book entry removed by Taylor; admitted "I took it out
+      last week" (Admitted Fact: Form 24, Para 14).
+  (c) Refusal to investigate WHS/fatigue: 7 Aug 2023 grievance dismissed same day by Reese
+      (Admitted Fact: Form 24, Para 5).
+  (d) COVID leave obstruction: 20 Feb–1 March 2024; upload timestamp 11:41:27am 20 Feb; declined twice
+      then approved on identical evidence.
+  (e) PID: 13 May 2024 corrupt-conduct complaint; ESU determined it a PID (Admitted Fact: Form 24, Para 20).
+  (f) Immediate reprisal: within 48hrs of the PID, Reese directed retraction of a routine email; a
+      comparable Taylor email attracted none (Admitted Fact: Form 24, Para 21).
+  (g) Suppression of representation: April 2023 union-delegate interest (Admitted Fact: Form 24, Para 18);
+      contra QH-POL-248 (Admitted Fact: Form 24, Para 17); suppressed 13 months.
+ Stressor 2 — Remuneration:
+  (a) Persistent payroll failures Feb–April 2024; "42% pay disparity."
+  (b) 3 May 2024 payroll directed Taylor to correct "IMMEDIATELY" (Admitted Fact: Form 24, Para 40);
+      not actioned until 28 May — admitted 25-day delay (Admitted Fact: Form 24, Para 41).
+ Stressor 3 — Fatigue (KEYSTONE):
+  (a) 17-18 March 2024 consecutive shifts, 7-hour break (Admitted Fact: Form 24, Para 1); ~4 hours sleep.
+  (b) "The Award and the FRMS mandate a minimum 10-hour rest break (Admitted Fact: Form 24, Para 3)."
+      [NOTE: Form 24 Resp ¶3 admits 10h OR 8h-by-agreement; Resp ¶4 DENIES no-agreement / asserts a signed
+      June 2020 8-hr agreement. The "10-hour minimum" is OVERSTATED here — the live minimum is contested
+      and the Regulator's position is 8 hours. Same overstatement as the Calderbank draft (now fixed).]
+  (c) Misapplied a "superseded 2020 casual agreement" to deny paid fatigue leave; forced use of personal
+      leave 19 March 2024. [Regulator SOFC ¶22(c) says 19 March leave was PAID; ¶24(b) says cl 18.10 of the
+      Award denies fatigue leave as no overtime performed.]
+  (d) IRO formally found the 7-hour break constituted unreasonable management action (Admitted Fact: Form 24,
+      Para 37). [Admitted as CONTENTS, relevance reserved de novo — persuasive, not binding.]
+
+3. Subsequent aggravating conduct: (a) 12 & 16 July 2024 meetings while on certified leave; (b) 8 Oct 2024
+   "abandonment" termination despite continuous certificates, later reinstated; (c) medical records obtained
+   without a Form 29 (Admitted Fact: Form 24, Para 25). [Regulator SOFC ¶25: post-injury, "not relevant."]
+
+PART C — CONTENTIONS
+1. Compensable injury (s 32(1)).
+2. s 32(5)(a) exclusion fails: Respondent bears onus (Prizeman); (a) global evaluation (Delaney) — composite
+   hostile course; (b) single unreasonable stressor (Mahaffey) — the admitted 7-hour break independently defeats
+   the defence.
+3. Evidentiary contradiction: "all management action reasonable" vs the Regulator's own IRO finding.
+
+PART D — ORDERS SOUGHT: appeal allowed; decision set aside / claim accepted; declaration of compensable injury;
+costs reserved. Filed 7 April 2026.

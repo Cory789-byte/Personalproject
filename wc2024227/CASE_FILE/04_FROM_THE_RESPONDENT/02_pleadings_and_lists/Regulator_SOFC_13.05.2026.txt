@@ -1,0 +1,67 @@
+SOURCE: Respondent's (Regulator's) Statement of Facts and Contentions, Form 9C v4.4,
+filed 13 May 2026, signed Renee Matheson (Senior Appeals Officer, OIR). The OPERATIVE
+defence pleading. Ingested from OneDrive "Qirc REG Filed forms" via M365 connector 2026-06-27.
+This is the document the full-picture red-team cited (¶22 causation/costs); now verbatim.
+------------------------------------------------------------------------------------------------
+
+1. Fresh SOFC in response to the appellant's fresh SOFC filed 7 April 2026.
+2-4. WC application 1 July 2024; WorkCover rejection 13 Sept 2024; review unit confirmed 24 Oct 2024;
+     Notice of Appeal filed 26 Nov 2024.
+5. Hearing de novo; APPELLANT BEARS THE ONUS to prove an injury under the WCRA.
+6. Appellant must prove on the balance of probabilities: (a) personal injury (psychiatric/psychological);
+   (b) arose out of/in course of employment; (c) employment a significant contributing factor; (d) the
+   injury did NOT arise out of (i) reasonable management action taken reasonably, (ii) expectation/
+   perception of such, (iii) WorkCover action.
+
+7. DOES NOT ADMIT 1.1 (employment particulars — pleads MSH employer).
+8. DOES NOT ADMIT 1.2 (clean baseline) "because medical records identify a PAST MEDICAL HISTORY OF ANXIETY."
+9. DOES NOT ADMIT 1.3 (the MDD/Krishnaiah diagnosis) — "matters for determination by the Commission at a hearing."
+10. ADMITS 1.4 that Dr Hawes' certificate STATES the mechanism "ongoing breaking of workplace rules by bosses,
+    victimizing him" — BUT "denies that as a fact because this is not supported by the evidence."
+
+STRESSOR 1:
+11. 1(a) erratic presence/unilateral directives — DOES NOT ADMIT ("no particulars"); DENIES hostility/UMA.
+12. 1(b) comm-book — ADMITS Taylor removed pages ~6 June 2023; says reported to Reese same day; says it
+    followed a 9.57am reminder email re correct Comm Book use; "actions reasonable in all respects."
+13. 1(c) 7 Aug grievance — DOES NOT ADMIT; says it was an email not a formal grievance; DENIES Reese dismissed it
+    (says it prompted a 10 Aug meeting; Reese emailed 29 Aug re grievance option, 8 Sept further; Taylor emailed
+    14 Nov re shift/break compliance + 15 Nov meeting); "reasonable in all respects."
+14. 1(d) COVID leave — DOES NOT ADMIT; says Taylor declined because (on her assessment) the stat dec was not
+    attached; "a review indicates the attachments WERE present"; "human error by Ms Taylor on a background of
+    high work demands"; "NOT unreasonable management action in the circumstances."
+15. 1(e) PID — ADMITS.
+16. 1(f) reprisal/retraction — DOES NOT ADMIT; says "Ms Reese was UNAWARE that the appellant had lodged a PID";
+    narrates 13-15 May (absence/on-call non-compliance; 15 May 1.15pm mass email; Reese sought HR advice,
+    emailed 6.23pm; email "ultimately removed from the server"); "reasonable in all respects."
+17. 1(g) union delegate — DOES NOT ADMIT; says the 5.03pm text "just putting his hand up" was not a formal
+    notification; DENIES policy breach/active suppression; says no assistance requested; delegate info provided;
+    no deliberate inaction; "reasonable in all respects."
+
+STRESSOR 2 (pay):
+18. 2(a) — DOES NOT ADMIT ("no particulars").
+19. payroll/2(a) — DOES NOT ADMIT; Easter 8-9 April 2023; "rostered in an equitable way... would not have
+    earned 42% less"; "reasonable in all respects."
+20. Further: pay issues raised over 2023-2024 "all investigated in a timely manner"; "discrepancies/errors
+    remedied in a timely manner"; not entitled to 'Public Holiday not Worked'; "no outstanding underpayments";
+    "reasonable and taken in a reasonable way."
+21. 2(b) AVAC delay — DOES NOT ADMIT; 3 May payroll email to submit AVAC; 21 May Taylor awaiting confirmation;
+    "Taylor submitted the AVAC on 28 May 2024"; "reasonable in all respects."
+
+STRESSOR 3 (fatigue — THE KEYSTONE):
+22. 3(a) — DOES NOT ADMIT; (a) "the shift was separated by only a 7-hour break (RATHER THAN AN 8-HOUR BREAK)...
+    a result of HUMAN ERROR and NOT intentional or repeated"; (b) "the appellant could refuse shifts at anytime";
+    (c) "took leave on 19 March 2024 but says this was PAID leave"; (d) leave-fatigue policy + the Award define
+    the operative circumstances; (e) "in June 2020, the Appellant SIGNED AN AGREEMENT allowing an 8-HOUR break
+    between shifts"; (f) "this issue was NOT CAUSATIVE of the appellant's injury."
+23. 3(b) — DOES NOT ADMIT; "no breach of any mandate"; repeats 3(a).
+24. 3(c) — DOES NOT ADMIT; repeats 3(a); (a) 19 March leave was paid; (b) "pursuant to CLAUSE 18.10 of the Award,
+    the appellant is NOT ENTITLED to fatigue leave, because he was not performing overtime."
+
+25. Subsequent conduct 3(a)-(c) — "occurred AFTER the WC application (1 July 2024) and POST-DATE any injury...
+    NOT RELEVANT."
+
+26. Admits the appellant is a worker (s 11 WCRA).
+27. Contends any management action causative of any injury was reasonable management action taken reasonably (s 32(5)).
+
+DECISION SOUGHT: (1) appeal DISMISSED; (2) the 24 Oct 2024 decision CONFIRMED; (3) "The appellant PAY THE
+RESPONDENT'S COSTS of the hearing."

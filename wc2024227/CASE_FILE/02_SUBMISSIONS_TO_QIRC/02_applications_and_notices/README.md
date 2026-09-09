@@ -11,3 +11,16 @@ Applications and notices filed in the Industrial Registry.
 - `2026-06-23_Draft_Order_for_the_Form4.pdf`
 - `2026-06-23_Form21_Exhibit_Certificates.pdf`
 - `2026-06-23_Form4_Application_Rule_64G.pdf`
+
+- `Form4_64G_covering_email_23.06.2026.txt`
+- `PRE-LODGEMENT-CHECKLIST.md`
+- `WC2024227_Draft_Order.docx`
+- `WC2024227_Draft_Order_FINAL.md`
+- `WC2024227_Draft_Order_FINAL.pdf`
+- `WC2024227_Form20_FINAL.md`
+- `WC2024227_Form20_FrontSheet.md`
+- `WC2024227_Form20_FrontSheet.pdf`
+- `WC2024227_Form21_Certificates.md`
+- `WC2024227_Form4_FINAL.md`
+- `WC2024227_Form4_FINAL.pdf`
+- `WC2024227_Form_4_Application_Rule_64G.docx`
