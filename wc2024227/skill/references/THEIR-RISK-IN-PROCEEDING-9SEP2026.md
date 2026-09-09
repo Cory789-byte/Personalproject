@@ -153,3 +153,113 @@ claim only** (rule 9); the employment and disclosure tracks stay out of it.
 2. ⭐⭐ **Preparation for hearing IS the settlement strategy.** The two are the same act.
 3. ⛔ **Read *Adams*, *Delaney*, *Hochen*, *Bowers* and *Mahaffey* to ratio before Part B is put in
    any submission** — the whole of B rests on authorities not yet read from source.
+
+---
+
+# I. ⭐⭐⭐ WHAT THE OUTLINE DID TO THEIR RISK — READ AS A PAIR WITH THE LETTER
+
+**The pair works because it is two documents doing two jobs.** The letter of 9 September **states the
+rule**; the outline **applies it to every topic and shows that it holds.** Neither alone would have
+this effect.
+
+Their letter set four limits. Take each against the pair.
+
+## I.1 "For the proceeding only" — conceded, no movement
+Accepted at §1. ⭐ Costs him nothing (rule 8 keeps the tracks separate anyway). **Their risk:
+unchanged.**
+
+## I.2 Relevance and admissibility — slightly worse for them
+⭐ Every topic closes with fact ranges tied to a pleaded stressor, which makes a relevance objection
+awkward; and §5 puts the notices, the responses, **their letter** and Annexure A on the Registry file.
+⚠ **This remains their live ground.** **Their risk: marginally worse.**
+
+## I.3 ⭐⭐ "Any conclusion you have drawn or may draw" — the reservation now guards nothing
+§1: *"draws no characterisation, conclusion or inference from any admitted fact beyond the fact
+admitted."* ⭐⭐⭐ **The outline then proves he meant it** — ten topics, no adjectives, no
+characterisation, the mechanism stated once as how he experienced the role rather than as an
+allegation.
+
+⇒ ⭐⭐ **Their bullet was aimed at over-reach. There is none to aim at.** ⭐ And a Commissioner reading
+the pair sees a Respondent that reserved against conclusions the Appellant then conspicuously
+declined to draw. **A small credibility transfer, and it runs one way.**
+
+## I.4 ⭐⭐⭐ "Not the truth of the contents" — each named category answered, and one turned back
+They named three. **The pair answers each differently, and each answer is correct.**
+
+### (a) *"any statement by a treating medical practitioner"* → **answered by calling them**
+Letter §3 takes the records for existence and wording and **the opinion from the author orally**;
+**Dr Krishnaiah and Dr Hawes are items 2 and 3 of the witness list.**
+⇒ ⭐⭐ **Guide §7.7 required that anyway** (*"a medical report on its own cannot be considered"*).
+**Their reservation buys them only the cross-examination they would have had regardless.**
+**Risk: unchanged.**
+
+### (b) ⭐⭐⭐ *"any finding recorded in Review Decision 69983"* → **THE BIND**
+The outline and the schedule take RD 69983 as *"an admitted document recording the Regulator's own
+review on the medical evidence then before it"*, expressly not as binding.
+
+⭐⭐⭐ **But the findings he needs from it are the Regulator's OWN conclusions against interest:**
+*"employment was a significant contributing factor"* · *"factor 4 amounted to unreasonable management
+action"* · *"you still did not receive a minimum 8-hour break"* · the award's *"not less than 10
+hours"*.
+
+⇒ ⭐⭐⭐ **A party's own decision recording its own reasoning on the very question is not a hearsay
+problem. It is their statement.** And it produces the bind:
+| | |
+|---|---|
+| **The more they disown RD 69983** | ⭐⭐⭐ the less their own decision supports the exclusion **they are here to defend** |
+| **The more they rely on it** | ⭐⭐⭐ the more its findings **in his favour** bind them |
+
+⭐⭐⭐ **Heading 4 was drafted to neutralise the review decision. Applied to the maker's own findings,
+it neutralises the decision they are defending.** **Risk: materially worse.**
+
+### (c) ⭐⭐⭐ *"any statement made by an officer or employee of Metro South"* → **answered by two people**
+The reservation bites **only where he has nothing but the document.** ⭐ **He now has witnesses:**
+| Document reserved against | Live witness who gives it directly |
+|---|---|
+| the MASPER Registrar's and Ms Marriott's emails | **Conaghan ¶5, ¶7** — the pathology process, and what she was told at the console **2–8 May 2024** |
+| the Stibbard email of 18 July 2023 | ⭐ **Harrison-Jones ¶4–5** — **he received it**, and operators then had to wait |
+| the absence of consultation | **Conaghan ¶10–11** — not consulted, **not balloted** |
+| any suggestion he was the difficulty | **Harrison-Jones ¶7 and Conaghan ¶13** |
+
+⇒ ⭐⭐⭐ **Their third category was answered by two witnesses they did not know existed until
+yesterday.** **Risk: materially worse.**
+
+## I.5 ⭐⭐⭐ AND THE RESERVATION FEEDS THE WITNESS BIND
+Reserving against the truth of MSH employees' statements **is only worth something if they call MSH
+employees to contradict them.**
+⇒ ⭐⭐⭐ **Their own letter increases the pressure to call Ms Taylor — and calling Ms Taylor is their
+worst option (Part D).** ⭐ **The limitation they wrote to protect themselves narrows their own
+choices.**
+
+---
+
+# J. ⭐⭐ THE MOVEMENT, QUANTIFIED
+
+| | 8 Sep, after their letter | 9 Sep, after the pair |
+|---|---|---|
+| Admissions | 298/303, 25/39 tabs | unchanged |
+| Their limitation | untested | ⭐ **stated, conceded, and shown not to reach the case** |
+| Appellant's evidence | himself, unknown | ⭐⭐ **himself + 2 treating doctors + 2 lay witnesses, one still employed by MSH** |
+| RD 69983 | a decision to be disowned | ⭐⭐⭐ **a source of their own admissions against interest** |
+| Over-reach to exploit | plausible | ⭐ **none** |
+| Medical | no report | ⭐ unchanged, **and now confirmed to them in writing** |
+| ⭐ **Assessed loss probability** | ~**65%** | ⭐⭐ **70–75%** |
+
+⭐ **The uplift comes almost entirely from two things: the two lay witnesses, and the RD 69983 bind.**
+
+## J.1 ⭐⭐⭐ AND WHAT MOVED MOST IS NOT PROBABILITY — IT IS TRACTABILITY
+On 8 September they could still hope the case was **diffuse**, and that a self-represented appellant
+would **over-reach** and hand them the answer.
+⇒ ⭐⭐⭐ **The pair removed that hope. A case that is narrow, documented and witnessed is a case that
+settles — because there is nothing left to win by waiting.**
+⭐ **Variance narrowed as well as the mean moved.** For a risk-averse institution, **narrow variance
+at 70–75% against is worse than wide variance at 65%.**
+
+## J.2 ⚠ WHAT THE PAIR DID NOT CHANGE, AND ONE THING IT COST
+1. ⚠⚠ **The medical position is unchanged, and §4 told them so in writing:** *"No report has been
+   prepared for the purposes of this proceeding."* ⭐ **Their best fact, now confirmed.**
+2. ⚠ **It flagged the soft spot:** the header names the emergency codes of 17–18 March as the one
+   thing not admitted, given from his own knowledge. ⭐ **Honest, and the right trade — but they now
+   know exactly where to press.**
+3. ⚠⚠ **It named a serving Metro South employee.** ⇒ ⭐⭐ **See the attendance-notice point** —
+   move to a summons for Ms Conaghan once hearing dates issue, and tell her that is why.
