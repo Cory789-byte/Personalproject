@@ -7674,3 +7674,49 @@ basis for any of the fourteen, and no identified person who formed one.
 ⛔ **Do not ask them to sign or to give reasons.** They would, and the point evaporates.
 
 Written into `skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §3A.
+
+### Addendum 2, same day — file forensics, the four classes, and the Dwyer question
+
+**When the responses were last changed.** Form 24 response written **Mon 7 Sep 2026 16:42:04
+AEST**; Form 25 response **16:43:04** — sixty seconds later. `ModDate == CreationDate` on both:
+written once, never revised. Served 8 Sep 11:24. The 7 Sep stamp cannot be a local artefact — the
+files were not received until 8 Sep.
+
+**They are the Appellant's own PDFs with a column stamped over them.** Producer on both is
+**pypdf**, a Python library; no Word or Acrobat lineage at all. The text layer proves the
+mechanism: on page 3 of the Form 25 the twelve labels sit **at 97% through the content stream, as a
+block after all the table text**, not inline in their rows — an overlay, not a filled-in table.
+Which is why no respondent's signature block could be added (Addendum 1). ⭐ Ms Matheson's service
+email says the same thing: *"the **updated** forms 24 & 25 with the Regulator's responses."*
+
+**The covering letter is a real drafted document**: Acrobat PDFMaker for Word, created 8 Sep
+11:14:13, modified 11:14:15, served 11:24 — **ten minutes before service**, the same pattern as the
+amended SOFC of 13 May 2026. Word review-cycle fields show it was circulated **at least twice**
+(`_PreviousAdHocReviewCycleID` as well as `_AdHocReviewCycleID`); `_AuthorEmail` is
+Margaret.Kerrigan@oir.qld.gov.au. ⚠ The `Author: "Peter"` field is inherited from the OIR letterhead
+template — **do not use it.** ⛔ None of this goes into correspondence.
+
+**Timing kills any r 49(3) application.** Served Fri 28 Aug 1:47 pm → 14 days = Fri 11 Sep.
+Responses written day 10, served day 11. **Three days early — never suggest lateness.** But the
+28 August covering email told them the rule in terms ("if you do not serve a notice disputing the
+facts, or the authenticity of the documents, within 14 days, they are taken to be admitted"). An
+admission made after being told the consequence, taking ten of fourteen days over 303 facts and 39
+documents, is not made by inadvertence.
+
+**The fourteen sort into four classes** (§3C): **A** — outside the Regulator's knowledge, 9 tabs
+(1, 17–19, 21, 22–24, 30A), legitimate, ⭐ **and predicted verbatim by
+`drafts/STRATEGY_admit_architecture_27AUG2026.md` the day before service**; **B** — the Regulator's
+own record already carries the document, 3 tabs (6 = its own amended LOD item 25 names the email;
+5 = its own Review Decision recites the approval; ⭐ 30 = **admitted fact 70** records that Review
+Decision 69983 **quotes that very email**); **C** — on the Commission's own file, 1 tab (20); **D** —
+the only one with substantive effect, 1 tab (**31**). Concede A, list B and C, pursue only D.
+
+**Did they forget the mention? No — and do not run it.** Motive never reaches paper, and the
+evidence is against it: Matheson was in the room, and her covering letter is written *against*
+[15:40] — reserving relevance, admissibility, weight, truth, characterisation and inference. ⭐ But
+the shield is narrow, and that is the good news: it does **not** say any document is not genuine and
+does **not** contradict one of the 298 admitted events. They have conceded the whole chronology and
+kept only what it means — which is the fight we want, because the case is the operational
+consequence of what the documents *did*, not the truth of anything asserted in them.
+
+All at `skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §§3B–3D.

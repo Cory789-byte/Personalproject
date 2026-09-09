@@ -151,6 +151,188 @@ evaporate. Same rule as §6.
 
 ---
 
+## 3B. HOW AND WHEN THE RESPONSES WERE MADE — THE FILE FORENSICS
+
+⛔ **Internal, and it stays internal.** Metadata-mining the other side's documents and putting it
+to them in correspondence would be a serious misstep. This is for understanding what happened, and
+for the r 49(3) point at §3B.4 — nothing else.
+
+### 1. When the Form 24 and Form 25 responses were last written
+
+| | Form 24 response | Form 25 response |
+|---|---|---|
+| CreationDate | **2026-09-07 16:42:04 +10:00** | **2026-09-07 16:43:04 +10:00** |
+| ModDate | 2026-09-07 16:42:04 | 2026-09-07 16:43:04 |
+| Producer | **pypdf** | **pypdf** |
+| Word / Acrobat lineage | ⛔ none | ⛔ none |
+| XMP CreatorTool | ⛔ none | ⛔ none |
+
+⇒ **Both written once, sixty seconds apart, on Monday 7 September 2026 at about 4.42 pm, and never
+re-saved.** `ModDate == CreationDate` on both: there is no later revision. They were served the
+following morning at 11:24.
+
+⭐ **Why the timestamps are the Respondent's and not an artefact of this repo.** The files entered
+the repository in a single commit and no script here writes to those names. More decisively, they
+were stamped **7 September** — the day *before* the Appellant received them at 11:24 on 8 September.
+Nothing he did after receipt could produce a 7 September stamp.
+
+### 2. ⭐ They are the Appellant's PDFs with a column stamped over them
+
+`pypdf` is a Python library, not an authoring tool. A document re-authored in Word and re-exported
+carries `Acrobat PDFMaker` / `Adobe PDF Library`; the covering letter does (see §3B.3). These do not.
+
+The text layer confirms the mechanism. On page 3 of the Form 25 response the twelve
+Admitted/Disputed labels appear **at 97% through the page's content stream — as a block after all
+the table text**, not inline in their rows:
+
+```
+...Copy of the bundle served by the Appellant on the Respondent on 11 August 2026
+Disputed Admitted Admitted Admitted Admitted Admitted Disputed Disputed Admitted ...
+```
+
+That is the signature of a **column overlaid onto the Appellant's served PDF**, not of a table
+filled in. Which is also why no respondent's signature block could appear on it (§3A): there was no
+Word document to add one to.
+
+⭐ **And Ms Matheson's own service email says exactly this.** 8 September, 11:24: *"Please see the
+attached response cover letter and **the updated forms 24 & 25** with the Regulator's responses."*
+Not a response document of the Respondent's own — his forms, updated.
+
+### 3. The covering letter, by contrast, is a real drafted document
+
+| | |
+|---|---|
+| Creator / Producer | Acrobat PDFMaker 26 for Word / Adobe PDF Library 26.1.29 |
+| Word source last saved | 8 Sep 2026, 11:13:17 UTC (= 21:13 AEST… read as one minute before export) |
+| PDF created → modified | 8 Sep 2026 **11:14:13 → 11:14:15 +10:00** |
+| Served | **11:24** — ten minutes later |
+| Template | *"OIR Internal Queensland Government Letterhead (1WS only)"*, Company: Queensland Treasury, Business unit: Office of the Deputy Director-General |
+| Word review-cycle fields | `_AdHocReviewCycleID`, **`_PreviousAdHocReviewCycleID`**, `_NewReviewCycle` — circulated for review **at least twice** |
+| `_AuthorEmail` | **Margaret.Kerrigan@oir.qld.gov.au** (Margaret Kerrigan) — the sender in a Send-for-Review cycle |
+| `Author` | "Peter" |
+
+⚠ **Do not use the `Author: "Peter"` field.** In a PDFMaker export that field is inherited from the
+**letterhead template**, not the author of this letter. It says nothing reliable about who wrote it.
+
+⭐ The letter was finalised **ten minutes before service** — the same pattern already recorded for
+the amended SOFC of 13 May 2026 (created 3:50 pm against a 4:00 pm deadline). Production completed
+at the point of service; the decisions made earlier and untimestamped.
+
+### 4. ⭐ The timing kills any future r 49(3) application
+
+| | |
+|---|---|
+| Served | Fri **28 August 2026, 1:47 pm** |
+| 14 days under r 49(2) | Fri **11 September 2026** |
+| Responses written | Mon **7 September** — day 10 of 14 |
+| Served | Tue **8 September, 11:24** — day 11 of 14 |
+
+**Three days early, not late.** There is no lateness point and it should never be suggested.
+
+But the Appellant's covering email of 28 August told them the rule in terms:
+
+> *"Under each notice, if you do not serve a notice disputing the facts, or the authenticity of the
+> documents, within 14 days, they are taken to be admitted for this proceeding only."*
+
+⇒ If the Respondent ever seeks leave under **r 49(3)** to withdraw an admission, the answer is on
+the file: it was told the consequence in writing on service, it took ten of its fourteen days, it
+worked through 303 facts and 39 documents one by one, and it returned a differentiated answer.
+**An admission made in those circumstances is not made by inadvertence.**
+
+---
+
+## 3C. ⭐ WHY THEY DISPUTED EACH ONE — THE FOUR CLASSES
+
+The fourteen are not one thing. Sorting them by what the Respondent could actually have checked
+produces four classes, and only two of them are worth any argument.
+
+### Class A — outside the Regulator's knowledge. Legitimate. **9 tabs**
+`1` role description · `17` `18` `19` movement forms 2026 · `21` Forrest email 7 Jul 2026 ·
+`22` `23` MSH consultation paper and outcome Nov–Dec 2024 · `24` union email 3 Nov 2025 ·
+`30A` Taylor email 18 Jun 2024
+
+Metro South or union documents that never entered the Regulator's claim file. It has never held
+them and cannot verify them. **This is the honest answer and it costs nothing** — the contents of
+every one are admitted, and each is provable by the Appellant or by its author.
+
+⭐ **It was predicted, exactly.** `drafts/STRATEGY_admit_architecture_27AUG2026.md` (27 August,
+the day before service) identified the appellant-held class as *"the only class she can decline"*
+and named the rider in advance: *"She may say 'not admitted — not within the Regulator's
+knowledge'. That is the expected rider, it is honest, and it costs us nothing now."* **It is what
+happened.** Nothing here is a surprise and nothing here should be treated as one.
+
+### Class B — the Regulator's own record already carries the document. **3 tabs**
+
+| Tab | The document | What the Regulator's own record says |
+|---|---|---|
+| **6** | Taylor, 15 Apr 2024 12:39 pm, *"Afterhours Oncall Process - Switchboard"* | The Respondent's **amended List of Documents of 14 August 2026 names this very email** at item 25 — *"Email: After hours on call process"*. Contents admitted at facts 49 and 163 |
+| **5** | Taylor, 27 Sep 2023 1:52 pm, *"Approved - Permanent Full Time FTE"* | **Review Decision 69983** — the Regulator's own decision — recites the full-time approval. Contents admitted at fact 38 |
+| **30** | Taylor, 23 Aug 2023 2:18 pm, *"What's Chloe's Hours?!"* | ⭐ **Fact 70 is ADMITTED**, and fact 70 records that Review Decision 69983 **quotes this very email**: Ms Taylor *"noted her start time would range between 6:00 to 9:00 am, and her finish time would range between 2:00 to 5:00 pm"*. Contents admitted at facts 71–72 |
+
+⇒ For these three the Respondent listed, recited or quoted the document in its own materials and
+then declined to admit that the copy is genuine. **Tab 30 is the sharpest: its own review decision
+quotes the email, and that quotation is an admitted fact.**
+
+### Class C — the document is on the Commission's own file. **1 tab**
+`20` — Metro South's letter of 5 June 2026 to **Commissioner Dwyer**, ref K-LM26/729. Contents
+admitted at facts 263–268. The Commission can compare it with its own record.
+
+### Class D — the only one with substantive effect. **1 tab**
+`31` — the emergency code register, March 2024 sheet. **The only disputed tab whose contents were
+also refused** (facts 228–231). See §5. Fact 268, admitted, records MSH telling the Commission the
+MET-call spreadsheet for 17–18 March 2024 exists.
+
+### ⇒ What to do with the classes
+
+**Class A is conceded, cheerfully.** Never argue it. It is the answer any careful respondent gives,
+it was foreseen, and arguing it would make the real points look like grievance.
+
+**Classes B and C are the observation** — three documents the Respondent's own List, decision and
+admitted facts already carry, and one on the Commission's file. They are not argued either; they
+are simply listed if the pattern is ever put (§3, §6).
+
+**Class D is the only one to be pursued.** It is the request letter's first schedule row, and it is
+what a notice of non-party disclosure would be limited to on 18 September.
+
+---
+
+## 3D. DID THEY FORGET WHAT DWYER SAID? — NO, AND DO NOT RUN IT
+
+⛔ Two reasons, and the second is the useful one.
+
+**First**, it is state-of-mind reasoning about the other side. Motive never reaches paper in this
+matter (discipline rule 1), it is unprovable, and it is the sort of submission that costs a
+self-represented appellant the bench's patience.
+
+**Second, the evidence points the other way, and that is better news.** Ms Matheson was in the room
+on 7 August; Dwyer asked her directly whether he had misrepresented her position [61:38]. Then read
+her covering letter of 8 September against the mention:
+
+| Dwyer, 7 August | The covering letter, 8 September |
+|---|---|
+| *"if you say something and it's not contradicted… it will be accepted"* [15:40] | *"reserves the right to object to the relevance or admissibility of any fact or document at the hearing"* |
+| *"you don't need the emails to prove that the emails are unassessed directives"* [28:50] | *"Admissions as to documents are limited to existence and wording"* — *"not an admission of the truth of any statement, opinion, finding or assertion recorded in it"* |
+| The appeal turns on the Appellant's own account | *"The appeal is a hearing de novo"* — nothing binds the Commission |
+
+⇒ **That letter is written against [15:40], not in ignorance of it.** It went through at least two
+Word review cycles (§3B.3). It is a considered shield.
+
+⭐ **And knowing that is worth more than the "they forgot" theory ever was, because the shield is
+narrow.** Read what it does *not* say:
+
+- It does **not** say any of the fourteen documents is not genuine.
+- It does **not** contradict a single one of the 298 admitted events.
+- It reserves **relevance, admissibility, weight, truth, characterisation and inference** — and
+  nothing else.
+
+⇒ The Respondent has conceded the entire chronology and reserved only what the chronology *means*.
+**That is the fight the Appellant wants.** The case is the operational consequence of what these
+documents *did* — responsibility imposed, the means to discharge it withheld — not the truth of
+anything asserted inside them. A letter that concedes every event and fights over inference has
+handed over the half that is hard to prove and kept the half that is argued.
+
+---
+
 ## 4. WHAT THAT MEANS — AND IT IS NOT AN ACCUSATION
 
 ⛔ **Do not argue impropriety.** Rule 49(2) entitles a party to dispute without giving any reason,
