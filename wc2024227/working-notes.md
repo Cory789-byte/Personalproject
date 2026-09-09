@@ -7801,3 +7801,18 @@ zoomed read; the 7-hour break is admitted at fact 1 in any event and does not ne
 ⚠ **Unresolved:** the Review Decision at p 15 is recorded as saying he **was** rostered on Good
 Friday 29 March and Easter Sunday 31 March 2024, which the only PP21 roster held contradicts.
 Resolve before either is asserted.
+
+## 9 September 2026 — as-sent verification of the served outlines
+Cory supplied the **as-sent** `Outlines_of_Evidence_WC2024227.pdf` (4pp: contents page + the three
+outlines). Verified against the repo copy at `drafts/out/FINAL_9SEP2026/2_REGULATOR/`:
+- ⭐ **Extracted text IDENTICAL** — 18,469 characters both, character for character. The repo copy
+  **is** the as-sent copy. (File hashes differ only from a re-save in transit; content does not.)
+- ⭐ **Metadata clean on both** — `docinfo` empty, XMP empty. **The strip worked.** Nothing of the
+  kind found in the Respondent's own cover letter (author email, review-cycle IDs, template title,
+  SharePoint columns) exists in anything served by the Appellant.
+- ✅ **Searched the as-sent text for** *nurs* · *Manus* · *safety advis* · *Border Force* · *fitness*
+  · *diploma* — **all absent.** The third-year nursing study and the Manus Island safety-advisor role
+  are in **no** served document. They live only in
+  `drafts/EMAIL_TO_UNION_context_and_assessment.txt` (union track).
+⇒ **The analysis at `THE-OUTLINE-AS-PRESENTED-their-view.md` §§7, 11 and 12 was performed on the
+served text and stands unchanged.**
