@@ -380,3 +380,87 @@ face reaches only admissions *"taken to have been made under subrule (2)"*.**
    summons protects a serving employee as much as it compels her.
 7. ⭐⭐ **Elect the second s 552A conference when direction 5 is reached** — Dwyer chairs it, Guide
    5.1 makes it the concession forum, and their own timing points there.
+
+---
+
+# N. ⭐⭐⭐ THE ASSESSMENT WITH THE FULL SET SERVED
+
+## N.1 ⭐⭐⭐ THE LINE IN THE MEDICAL SCHEDULE THAT MATTERS MOST TO THEM
+> *"Each document is **already held by the Respondent at the item of its amended List of Documents
+> dated 14 August 2026** stated, except item 5, which has not yet been received, and item 6, served
+> herewith."*
+
+⇒ ⭐⭐⭐ **Every medical document he relies on came out of their own disclosure. There is no ambush,
+nothing new, nothing to investigate.**
+1. ⛔ **They cannot seek time to consider the medical material.** They disclosed it.
+2. ⛔ **They cannot claim prejudice or surprise**, and no adjournment ground arises from it.
+3. ⭐⭐⭐ **And the decisive inference: their 8 September position was taken with FULL SIGHT of the
+   medical file.** They already knew there was no report — their own List shows it. **So "no report"
+   was priced into the letter when they wrote it.** ⇒ **A party that already held the appellant's
+   best weakness, and still wrote two pages of preservation, is a party that had assessed the rest of
+   the file and did not like it.**
+
+## N.2 ⭐⭐ THE DOCTORS BEING CALLED CLOSES HEADING 4's FIRST LIMB
+Their reservation was drafted for **paper**. ⭐ Oral evidence from the authors is not paper, and
+**Guide §7.7 made it compulsory anyway.**
+⚠ **And it forces two decisions on them:**
+1. **Whether to cross-examine Dr Hawes on his own contemporaneous note** — *"they withhold pay at
+   times, no overtime- not processed, manipulate his roster- so he works lates then earlies."*
+   ⭐ **Dangerous, because the events in that note are now admitted facts** (185–203, 211–221). Cross
+   on it and the note is read again, in the doctor's own voice, with the events proved.
+2. ⭐⭐⭐ **Whether to obtain their own medical evidence (an IME).** ⇒ **A new decision point** — see
+   §N.5.
+
+## N.3 ⭐⭐⭐ EVERY DOCUMENT IN THE CASE CAME OUT OF THEIR SYSTEMS OR THE EMPLOYER'S
+The role description, the emails, the rosters, the payroll thread, the myHR audit trail, the leave
+forms, the variance forms, the MSH letter to Dwyer, the review decision, their own pleading, their
+own List of Documents, their own 18 February response.
+⇒ ⭐⭐⭐ **He contributed the arrangement, not the content.**
+⇒ ⭐⭐ **So the standard answer — *"the appellant's account is reconstructed and self-serving"* — has
+no purchase. There is no unreliable source to attack, because the sources are theirs.**
+
+## N.4 ⭐⭐⭐ WHY THEY BUILT THE LETTER — PRESERVATION IS WHAT YOU DO WHEN YOU CANNOT DENY
+Every heading in the 8 September letter is a **preservation**: for the proceeding only · relevance
+reserved · admissibility reserved · **no conclusion accepted** · truth not admitted · de novo · **all
+rights reserved**.
+
+⇒ ⭐⭐⭐ **They were not writing to win a point. They were writing to keep ground available.** And you
+do not reserve ground you are confident you will not need.
+⇒ ⭐⭐⭐ **With 303 facts about documents in their own systems, and 39 tabs mostly sourced from the
+employer, DENIAL WAS UNAVAILABLE. Preservation was the only move left.** ⭐ **The letter is therefore
+the most reliable evidence on the file of their own assessment.**
+
+## N.5 ⭐⭐ NEW DECISION POINT FOR THEM — AN INDEPENDENT MEDICAL EXAMINATION
+| | |
+|---|---|
+| **Obtain an IME** | ~**25–30%** — the orthodox step if they intend to contest causation properly |
+| **Do not** | ~70–75% |
+
+⭐⭐⭐ **If an IME is commissioned, it is the clearest possible signal that they are running the
+matter** — it is expensive, it takes weeks, and it would require a variation of the directions.
+⚠ **And it cuts both ways for them**: an examiner may find for him on a file where their own reviewer
+already found employment a significant contributing factor. ⭐ **Watch for any IME appointment
+request; treat it as a running signal, not a settlement signal.**
+
+## N.6 ⚠⚠ AND WHAT THE SCHEDULE COSTS HIM — IT CLOSES HIS MEDICAL CASE
+> *"**No report has been prepared** for the purposes of this proceeding; **this schedule and the pages
+> behind it are served as the expert and treating material relied upon**."*
+
+⇒ ⚠⚠ **He has bounded his own medical case under direction 2.** ⭐ Honest and correct — **but a report
+obtained later is no longer free**: it would need a variation of direction 2 or leave to serve late.
+⇒ ⭐⭐⭐ **This settles the earlier debate for good. The path is now fixed: proof the treating
+doctors, secure their attendance, and do not chase a report.** ⚠ **Item 5 remains outstanding and
+must be obtained.**
+
+## N.7 ⭐⭐ THE NUMBERS, UPDATED
+| | |
+|---|---|
+| **Probability he succeeds at hearing** | ⭐ **70–75% — unchanged** |
+| **What moved** | ⭐⭐⭐ **the FLOOR, not the mean.** The admitted facts and the reviewer's own findings now carry the case even on a poor medical day |
+| **What did not move** | ⚠ the medical ceiling — no independent report, and **Dr Krishnaiah's attendance still unsecured** |
+| **Their optionality** | ⭐⭐⭐ **materially reduced**: no surprise, no prejudice, no adjournment ground, no unreliable source to attack, and heading 4's medical limb spent |
+| ⭐ **Resolution before hearing** | **~65%**, unchanged — regulators run losing cases more often than commercial parties |
+
+⇒ ⭐⭐⭐ **The full set did not make him much more likely to win. It made it much harder for them to
+lose slowly** — fewer procedural exits, fewer grounds to delay, and a smaller range of outcomes.
+⭐⭐ **For an institution, a narrow band centred on defeat is the condition in which it settles.**
