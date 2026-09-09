@@ -296,14 +296,69 @@ structure at §17, and their bullet three says in the past tense that they found
    own letter (§3.1): these were express admissions, not admissions "taken to have been made under
    subrule (2)".**
 
-## 8.2 ⛔⛔ THE RULE THAT FOLLOWS — AND IT IS THE MOST IMPORTANT LINE IN THIS FILE
-⭐⭐⭐ **Their framing is now fixed in writing. Do not disturb it.**
+## 8.2 ⭐⭐⭐ THE REPLY IS ALREADY SENT — AND IT IS BETTER THAN SILENCE
+> ⛔ **CORRECTION.** An earlier version of this section said to say nothing back. **The letter of
+> 9 September 2026 was already served, and reading it against their letter, it does the job better
+> than silence would have.** The reasoning below replaces the earlier advice.
 
-A reply that engages with the frame — that argues the admissions do more than the letter allows, or
-that answers bullet three — **hands them the opportunity to reformulate the limitation before the
-hearing, with the benefit of knowing how he reads it.** ⛔ **The letter as it stands is a document
-they cannot improve unless he prompts them to.**
+**Why silence looked right:** a reply that argued the admissions do more than their letter allows
+would have let them reformulate the limitation before the hearing, knowing how he reads it.
 
-⇒ ⛔⛔ **Say nothing back about the letter.** The 9 September request letter on originals and
-authenticity is the only correspondence needed, and it is already sent. ⭐ **Silence is the
-strongest available move.**
+⭐⭐⭐ **His letter does the opposite of that. It concedes their limitation in full and then shows
+that the case closes on the limitation as they wrote it.**
+
+| His §  | What it does |
+|---|---|
+| ⭐⭐⭐ **§1** | *"The admissions are made for this proceeding only… The hearing is de novo. Relevance, admissibility and weight are for the Commission. The Appellant does not contend otherwise, and **draws no characterisation, conclusion or inference from any admitted fact beyond the fact admitted**."* ⇒ **That is the answer to their bullet three, and it removes the premise instead of leaving it standing.** |
+| ⭐⭐⭐ **§2** | *"Where the document is itself the step taken – a roster as published, a directive as issued by email, a payroll instruction or claim as recorded, a request as made and the reply as given, each on the date recorded – the Appellant relies on the admission as establishing that **the step was taken on that date in those terms**."* |
+| ⭐⭐ **§3** | for the treating records, the report of 13 February 2025 and Review Decision 69983: **existence and wording from the admission, the rest from the author's oral evidence** — Dr Krishnaiah and Dr Hawes named on the witness list. And RD 69983 *"not relied upon as binding the Commission"* but as an admitted document recording the Regulator's own review. |
+| ⭐⭐⭐ **§5** | he will deliver **to the Industrial Registry** the notices as served, the responses, **their letter of 8 September** and Annexure A — objection invited by 11 September. |
+
+## 8.3 ⭐⭐⭐ WHY §2 CANNOT BE REFORMULATED
+Their heading 3 limits the admissions to **existence and wording**, and not to *"the truth of any
+statement, opinion, finding or assertion recorded in"* a document.
+
+⭐⭐⭐ **For a whole class of the documents, existence and wording is the entire fact, because the
+document is not a report of an act — it IS the act.** An email issuing a directive is not a statement
+that a directive was issued; **sending it is the issuing.** A roster as published, a payroll claim as
+lodged, a request made and a reply given — each is constituted by its own existence and wording.
+
+⇒ ⭐⭐⭐ **On their own limitation, facts 49, 66, 74–77, 81, 182–205, 210, 211–223 and 263–268 still
+establish that each step was taken, on its date, in its terms.** ⇒ **There is nothing for them to
+reformulate: they would have to contend that admitting the existence and wording of an email does not
+establish that the email was sent.**
+
+⭐ And §2 forecloses the over-reach in his own words: *"The Appellant does not rely on those documents
+as statements about some other event."*
+
+## 8.4 ⭐⭐⭐ §5 IS THE SHARPEST MOVE IN THE SET
+Their letter was written for the Commission (§7). ⭐⭐⭐ **He is now putting it on the Commission's
+file himself — in his bundle, at his time, with his own letter of 9 September sitting beside it,**
+as his opening paragraph says: *"so that the two positions sit together on the record."*
+⇒ **The document they drafted for the trial Commissioner's eventual reader arrives in front of that
+reader as part of the Appellant's filing.** ⭐ And objection is invited by **Friday 11 September** —
+⚠ **diarise it; silence closes the point.**
+
+## 8.5 ⚠ THREE THINGS TO WATCH — NONE REQUIRING ACTION
+1. ⚠ **The schedule cites Tab 21's contents at "Fact 224".** ✅ Correct — 224 is the identifying fact
+   (*Ms Forrest… "currently provides more than 10-hour breaks between shifts"*). ⭐ But **the
+   substantive one is 225** (the shift-swap limitation). **Under-inclusive, not wrong. Do not write
+   a correction; cite 224 and 225 together in the outline.**
+2. ⚠ **The costs reservation in the request letter is weak.** The IR Act's general position is that
+   parties bear their own costs, and **r 64G(3) provides expressly that each party bears its own
+   costs** on non-party disclosure. ⭐ **It is sound as notice and as a record of reasonableness.
+   Never rely on it as a costs entitlement.**
+3. ⚠ **§2 names Ms Taylor and Ms Reese as witnesses "the Appellant expects the Respondent to call"**,
+   before their list is due on 30 September. ⭐ Mild, and arguably useful — it puts *Browne v Dunn*
+   territory on the record early. **No action.**
+
+## 8.6 ✅ AND THE PATIENT-SAFETY MATERIAL IN §2 IS INSIDE THE LINE
+It appears as *"each report of calls reaching the wrong team, or that 'we can not help patients or
+other clinical staff', **was made on the date and in the terms recorded**"*. ⭐ **The report as a step
+taken — not patient safety as a cause, not a disclosure, not a consequence.** ✅ Exactly the permitted
+form at `THE-PATIENT-SAFETY-SPINE-and-the-boundary.md` §4.
+
+## 8.7 THE RULE GOING FORWARD
+⭐⭐ **The position is now stated and conceded on both sides. Nothing further is written to the
+Regulator about the 8 September letter.** The next two live dates are **Fri 11 September** (objection
+to the filing course) and **Fri 18 September** (the response on originals and authenticity).
