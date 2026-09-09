@@ -355,3 +355,110 @@ already shown he can do.**
 3. ⭐ **Proof both on K1–K9 and the Hawes questions** in conference beforehand.
 4. ⚠ **Cost the conduct money** at the higher expert rate for two witnesses.
 5. ⭐ **Ask leave to refer to the served outline** at the start of his own evidence.
+
+---
+
+# 11. ⭐⭐⭐ WHO THE OUTLINE SAYS HE IS — AND THE ONE ATTACK IT INVITES
+
+## 11.1 THE IDENTITY THE DOCUMENT BUILDS, IN ORDER
+
+**1. ⭐⭐⭐ An ascending five-year record, and a man who asked for MORE work.**
+*"commenced… 25 March 2019 as a casual, became permanent from 3 March 2021 and full time from
+16 October 2023, as a continuous shift worker."* And Conaghan ¶1: he and she **each sought an
+additional two shifts per fortnight**. Dr Hawes, 1 July 2024: *"been there 5 years."*
+⇒ ⭐⭐⭐ **This destroys the standard s 32(5)(a) narrative before it is opened.** That narrative needs
+a disengaged employee who dislikes being managed. **Casual → permanent → full time, asking for extra
+shifts, five years of the same rotating roster tolerated.** ⭐ **The variable that changed was the
+management, not the job or the man.**
+
+**2. ⭐⭐ The person who knows the work — an expert in fact.**
+*"in a Code Blue or MET call it is the Switchboard that activates and pages the response team, and a
+delay at the console is a delay in the emergency response… what an urgent pathology result is, and
+what turns on the clinician being reached in time."*
+⇒ ⭐⭐ **He holds domain knowledge nobody else in the room has, and he will teach it.** ⭐ **Exactly
+what he did at the mention, [22:11], defining his own terminology for four minutes without the page.**
+
+**3. ⭐⭐ A person who keeps his own records.**
+*"**From my own records**, between 15 and 50 emergency codes go out in 24 hours and some 200 to 300
+calls a shift."* ⭐ Consistent with the register he authored and the monthly statistics at Form 20
+¶9. ⚠ **And see §11.3 — this is the double-edged trait.**
+
+**4. ⭐⭐⭐ Someone who used every internal channel, and none of them worked.**
+The fatigue request of 8 April → escalated → nothing until 1 May → refused · the **Operations Manual
+clause 10.4.1 toolkit** sent to Ms Taylor, no response · the payroll loop: Taylor → MyHR → Payroll →
+*"speak to your Line Manager"* → *"waiting payroll confirmation"* → sign a validation · the
+recommendation to review the clinic contact document · the email about consultation on changes · his
+interest in the **union delegate** role.
+⇒ ⭐⭐⭐ **A constructive employee who went further into the system, not around it.** ⭐ And he
+**supplied the very principle he was rejected on** — he sent the fatigue toolkit before Ms Reese sent
+the fatigue guideline to HR.
+
+**5. ⭐⭐ Not hostile — and he says it first, then two others say it.**
+His topic 7; Harrison-Jones ¶7; Conaghan ¶13. ⭐ **Right order: he asserts it, two independent
+witnesses corroborate it.**
+
+**6. ⭐⭐⭐ A witness who polices the limits of his own competence.**
+*"which are not admitted and **which I give from my own knowledge**"* · *"**I offer no clinical or
+diagnostic opinion**"* · *"(content not set out)"*. ⭐ Same instinct as dropping fact 154 and Tab 24
+from the request, and as Conaghan ¶12's *"She offers no opinion as to diagnosis or cause."*
+⇒ ⭐⭐⭐ **A witness who three times declines to assert is believed on what he does assert. That is
+the credibility architecture of the whole set.**
+
+**7. ⭐⭐ Things were done to him, and he uses no adjectives.**
+*access was removed · the changes book was removed · the contact book removed · the fatigue payment
+was refused · the day of 19 March came from my own leave · I was asked to sign a validation · I was
+asked to retract.*
+⇒ ⭐⭐⭐ **Not one word of complaint anywhere in ten topics.** No *unfairly*, no *deliberately*, no
+*targeted*. **The chronology carries it; he never editorialises.** ⭐ **That is the CLAUDE.md
+discipline turned into a voice.**
+
+**8. ⭐⭐⭐ And one sentence where he is simply a person.**
+> *"on days in May 2024 and in the first week of June 2024 I drove to work, **could not bring myself
+> to enter the building, and called in sick from the car park**."*
+
+⭐⭐⭐ **The most persuasive line in the document, and the only one purely about him.** Concrete,
+undignified, unarguable. **It establishes onset behaviourally, before any diagnosis, in a way no
+certificate can.** ⚠ **Check it against the sick-leave record for those dates — the calls from the
+car park should appear as sick leave.**
+
+## 11.2 ⭐⭐⭐ SO, TO THEM, WHO IS HE?
+> **A five-year operator who asked for more work; who knows the job better than anyone who will be in
+> the room; who kept his own records; who used every channel the employer provided; who never said a
+> hostile word about anybody; who is scrupulous about the limits of his own knowledge — and who ended
+> up sitting in a car park unable to walk into the building.**
+
+⇒ ⭐⭐⭐ **That is the hardest witness a Regulator can face on s 32(5)(a), because reasonable
+management action needs an employee who is the problem. This outline gives them nobody to blame.**
+
+## 11.3 ⚠⚠ AND THE ONE ATTACK IT INVITES — THE COMPETENCE ITSELF
+⛔⛔ **Their available counter-narrative is not "he is difficult". It is "he is formidable, and he is
+fine."** A man who ran 303 admissions against a government regulator and carried 298 of them does not
+look incapacitated.
+
+**The cross-examination writes itself:**
+> *"You prepared these notices yourself? You reviewed thirty-nine documents? You have conducted this
+> appeal for two years, without a lawyer? And you did all of that while suffering from major
+> depressive disorder?"*
+
+## 11.4 ⭐⭐⭐ THE ANSWER IS ALREADY IN DR KRISHNAIAH'S OWN REPORT
+The report of 13 February 2025 describes, as **findings on examination**:
+> *"**extensive researching, and planning on fact findings for work-related issues including reading
+> up on policies, procedures, and legislations**"* · *"obsessive rumination"* · *"kept repeating the
+> same issues despite gentle nudging"* · *"these issues… **appeared to dominate his cognitive
+> processes**"* · *"ongoing workplace dispute and legal proceedings… **have consumed his whole
+> life**"*
+
+⇒ ⭐⭐⭐ **On his own treating psychiatrist's account, the capacity to litigate is not evidence of
+health — it is the disorder expressing itself. The preoccupation IS the symptom.**
+
+⛔⛔ **This must be led from Dr Krishnaiah in chief. It must never be improvised by the Appellant
+under cross-examination** — a witness who explains his own diagnosis argues; a psychiatrist who
+explains it testifies.
+
+⭐⭐ **NEW QUESTION FOR THE EXAMINATION-IN-CHIEF LIST (added to
+`QUESTIONS_FOR_DR_KRISHNAIAH_and_DR_HAWES…`):** *"Doctor, in your report you describe extensive
+researching and planning on fact-findings, and rumination dominating his cognitive processes. Is that
+capacity to research a sign of recovery from the condition you diagnosed, or a feature of it?"*
+
+⚠ **And the honest limit:** ⭐ **it explains the activity; it does not by itself prove incapacity for
+work.** The certificates and Dr Hawes carry that. **Keep the two separate.**

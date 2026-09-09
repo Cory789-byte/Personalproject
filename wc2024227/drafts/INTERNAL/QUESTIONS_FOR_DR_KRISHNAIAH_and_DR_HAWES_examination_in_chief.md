@@ -110,3 +110,18 @@ All from Annexure A Tab 3, produced by the Respondent in its own July 2025 discl
 | 4 | Nov 2024 | Consultation Paper (facts 171–175 admitted) | proposed roster "intended to introduce **a more equitable roster**"; "**Redistribution of nights for greater equity based on FTE**"; "Rotational roster … ensuring **fair distribution of penalties**" |
 ⇒ He proposed proportionate distribution by FTE; he was invited to revise to that standard and resend; he did the work (his instruction: six rosters, 40+ hours — TO BE GIVEN BY HIM, not in any document); his rosters were rejected on that same standard, in terms withheld from him; and the employer's own proposal seven months later adopted it.
 ⛔ No motive. Put items 1–4 as four documents in date order. This is the strongest single sequence on the "reasonable way" limb after facts 79–80.
+
+## ⭐⭐⭐ Addendum 9 September 2026 — K10: THE COMPETENCE ATTACK, ANSWERED FROM THE REPORT
+Their strongest cross of the Appellant is not "you were difficult" but "you are formidable and you
+are fine": he ran 303 admissions self-represented and carried 298. The answer is in the 13 Feb 2025
+report as findings on examination, and must be led from Dr Krishnaiah, NOT improvised by the
+Appellant under cross.
+
+**K10.** "Doctor, in your report you describe 'extensive researching, and planning on fact findings
+for work-related issues including reading up on policies, procedures, and legislations', obsessive
+rumination, and that these issues 'appeared to dominate his cognitive processes'. Is that capacity to
+research a sign of recovery from the condition you diagnosed, or a feature of it?"
+(— ask after K8; do not lead the answer; one question, then stop.)
+
+⚠ Limit: this explains the activity. It does not prove incapacity for work — the certificates and
+Dr Hawes carry that. Keep the two separate and never merge them in closing.
