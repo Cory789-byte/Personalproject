@@ -991,3 +991,76 @@ document's face: that an email was sent, by whom, to whom, at what time, saying 
 interlock (facts 88, 94, 96, 100, 103) and the payroll subtraction (facts 200, 201, 206, 210) are
 built entirely out of that class. **Neither needs the truth of anything asserted inside a document.**
 That is why they survive the letter untouched — and why the case should be run on them.
+
+---
+
+# 14. ⚠ WHO HAS TO CALL WHOM — AND WHAT ORAL EVIDENCE CAN AND CANNOT DO
+
+## 14.1 ⛔ The onus is the Appellant's. Do not revive the old error.
+
+**The Appellant bears the onus** of establishing each element of s 32(1) **and of excluding
+s 32(5)(a)**, on the balance of probabilities. The filed SOFC once read *"The Respondent bears the
+onus under Prizeman"* — that was wrong twice and was **deleted**; the amended pleading concedes the
+onus squarely. *Prizeman* is about reality versus perception, not onus.
+
+⇒ **Nobody is obliged to call anybody.** The Respondent can run its case on cross-examination and
+submissions alone. Framing it as *"they must defend it"* is the error that was already fixed once.
+
+⭐ And the case is deliberately built so it does not turn on the answer: **the only live issue is
+s 32(5)(a), and it succeeds whoever bears the onus** — either the conduct is not management action,
+so there is nothing to exclude, or it is not reasonable, or it was not taken in a reasonable way.
+
+## 14.2 ⭐ But the practical position is close to the instinct, for a different reason
+
+Reasonableness of management action is proved by **the people who took it**. Documents do not explain
+why a thing was done the way it was done. If the Respondent wants a finding that the rostering, the
+directives and the payroll handling were reasonable **and taken in a reasonable way**, it needs
+someone who can say why — which means **Ms Taylor, Ms Reese or Ms Stibbard**.
+
+> *"the regulator will call Ms Taylor **to give her side of the story** and **you'll get to
+> cross-examine**"* — Dwyer, [35:11]
+
+⇒ If it calls none of them, it asks the Commission to find reasonableness with no evidence from
+anyone who acted, on a record where every event is admitted. If it does call them, the Appellant
+cross-examines on documents whose existence and wording are already admitted.
+
+## 14.3 ⚠ The doctors are the other way round
+
+Dr Krishnaiah and Dr Hawes are at items 2 and 3 of the **Appellant's** witness list. **He calls
+them; the Respondent cross-examines.** It does not need to call them to challenge them.
+
+⭐ And it may not contest the medical at all: its own Review Decision found *"a personal injury of a
+psychological nature"* and employment *"a significant contributing factor"*, and rejected the claim
+under **s 32(5), not s 32(1)**.
+
+## 14.4 ⚠⚠ WHAT SAYING IT IN PERSON DOES NOT FIX
+
+Oral evidence reaches only **what is within the witness's own knowledge**. It does not cure the
+truth-of-contents reservation for anything he did not witness.
+
+| He can give evidence of | He cannot give evidence of |
+|---|---|
+| What he saw on the console; the codes he handled; what he did, sent and was told; the hours he worked; the effect on him | That the MET team actually could not be told where VHUB was (fact 58) unless he was on that call. That admits only that the **Registrar wrote it** |
+
+⇒ The assertions inside third-party documents need **their authors** — the MASPER Registrar,
+Ms Marriott — or they are not proved as true. That is what §13.5 means in practice.
+
+## 14.5 The two rules that do help, stated accurately
+
+1. ⚠ **Uncontradicted evidence is usually accepted, but it is not a rule.** A tribunal may reject
+   evidence that is implausible or inconsistent with the documents even if nobody contradicts it.
+   Dwyer's [15:40] is a strong practical statement, not a legal guarantee.
+2. ⭐ ***Browne v Dunn* is a rule.** If the Respondent intends to submit that his account is wrong,
+   it must put that to him in cross-examination. If it does not put it, it cannot later invite the
+   Commission to disbelieve him on it.
+
+## 14.6 ⭐⭐ And the spine of the case does not depend on being believed at all
+
+The 20 May interlock (facts 88, 94, 96, 100, 103) and the payroll subtraction (facts 200, 201, 206,
+210) are built from facts complete on the face of admitted documents — times, senders, recipients,
+wording, and an absence in the employer's own system record. **They stand whether or not any witness
+is believed.** His oral evidence adds the element only he can supply: the effect on him, which goes
+to s 32(1).
+
+**The date that answers all of this is 30 September 2026** — the Respondent's witness list. If
+Ms Taylor and Ms Reese are not on it, attendance notices follow, as foreshadowed to the Registrar.
