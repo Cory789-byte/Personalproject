@@ -280,3 +280,71 @@ Every step above is admitted as **a document sent or received, on a date, in tho
 proof of the operational failure asserted inside it (§13.5 of `THE-NON-ADMISSIONS-8SEP2026.md`).
 The arc is an arc of **what was reported and what followed**. That is enough, and it is the only
 version that survives the covering letter of 8 September.
+
+---
+
+# 8. ⚠⚠ THE APRIL 2024 PAIRING — 10 pm TO 6 am, AND WHY IT IS NOT A SECOND BREACH
+
+Raised 9 September 2026: a second late-finish/early-start pairing in April 2024, **2200 to 0600 —
+eight hours**.
+
+## 8.1 ⛔⛔ EIGHT HOURS IS NOT A BREACH ON THE RESPONDENT'S OWN PLEADED CASE
+
+**Fact 232, ADMITTED:**
+> *"That amended statement of facts and contentions states at paragraph 22(e): 'says in June 2020,
+> **the Appellant signed an agreement allowing an 8-hour break between shifts**'."*
+
+⇒ ⛔ **Run an 8-hour break as a second breach and the answer is already pleaded: *"that is precisely
+the arrangement he signed and does not dispute signing."*** It hands them the point, and it makes
+the March complaint look opportunistic.
+
+⭐ **This is why 7 hours works and 8 does not.** Seven is below the minimum **on any view, including
+their own**. That asymmetry is the keystone of Stressor 3 and must not be blurred.
+
+## 8.2 ⭐⭐ WHAT IT IS GENUINELY WORTH — THREE USES, NONE OF THEM "BREACH"
+
+**1. It destroys *"not repeated"*.** Their own February 2026 response, admitted, calls the March
+shortfall *"a result of **human error** and **not intentional or repeated**"*. A second late-finish
+to early-start pairing three weeks later shows the **practice continued** — the March 7-hour was not
+an isolated slip in an otherwise 10-hour roster but a variation on a continuing pattern.
+⇒ **Put as recurrence of the practice, not recurrence of the breach.**
+
+**2. ⭐⭐⭐ It is the occasion of the 8 April complaint.** The record has: *"8 April 2024 — on what
+basis is the roster pairing consistent with the minimum-break provision? — answered only by a
+refusal citing a 2020 agreement"*, and *"8 Apr raised → 1 May refused"*.
+⇒ **If there was an April pairing, that is what he was complaining about.** That converts it from a
+weak breach into strong **notice**: raised on 8 April, refused on 1 May, and no fatigue risk
+management at the Switchboard until **after 30 June 2024** (fact 264, admitted).
+
+**3. It supports the alternative on the 2020 agreement — which must be pleaded as an alternative.**
+
+| | |
+|---|---|
+| **Primary** | The minimum is **10 hours**. The 2020 agreement was a **casual** agreement, superseded, and inapplicable to a permanent continuous shift worker ⇒ **both March and April fall below the minimum** |
+| **Alternative** | Even if it applied, **7 < 8**, so March breaches **on any view** |
+
+⚠ **April is a breach only on the primary case.** ⛔ **State the two as alternatives explicitly, or
+it reads as inconsistency** — the SOFC already pleads at Stressor 3(c) that a *"superseded 2020
+casual agreement"* was misapplied, while the March point uses that agreement's own figure.
+
+## 8.3 ⛔ VERIFICATION — NOT ESTABLISHED, AND I COULD NOT ESTABLISH IT
+
+- **PP22 (1–14 April 2024)** — his line was read; **no 2200→0600 pairing is visible**.
+- **PP23 (15–28 April 2024)** — ⚠ **the scan's column headers are offset from the data rows and cell
+  alignment cannot be read reliably.** ⛔ **No pairing is asserted from it.**
+- ⛔ **This is the same caution given for PP20. A limb must not be built on a misaligned scan.**
+
+⭐ **What to do:** open **PP22 and PP23 at full size** and read his row against the date header, cell
+by cell. Write down the finish time and the next start time for every consecutive pair in April.
+⚠ **If the pairing is not there, say nothing about April at all.**
+
+⭐⭐ **And compare `2024-04-15_to_04-28_PP23_v1.0_a_original.pdf` against
+`..._b_UPDATED.pdf`.** A roster amended for the fortnight beginning 15 April, a week after a
+complaint made on 8 April, is worth knowing about either way. The same two-version pattern exists
+for PP24 (29 Apr – 12 May).
+
+## 8.4 ⚠ AND THE PROCEDURAL LIMIT
+
+**The Form 24 is served and answered. April is not among the 303 facts and cannot be added to them.**
+It reaches the Commission only through the rosters and his own oral evidence — which is enough for
+uses 1 and 2 above, and is not enough to make it a proven breach.
