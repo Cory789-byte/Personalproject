@@ -139,6 +139,14 @@ for pg in out.pages:
             del pg.obj[k]
 out.save(OUT, linearize=True)
 
+# put it where the emails attach from, and mirror it into the numbered folder
+import shutil
+for dest in (f"{F}/2_REGULATOR/Outlines_of_Evidence_WC2024227.pdf",
+             "out/SEND_9SEP2026/06_OUTLINES_OF_EVIDENCE.pdf",
+             "out/SEND_9SEP2026/TO_MATHESON_9SEP2026/06_OUTLINES_OF_EVIDENCE.pdf"):
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    shutil.copy2(OUT, dest)
+
 chk = pikepdf.open(OUT)
 clean = (not dict(chk.docinfo)) and '/Metadata' not in chk.Root and \
         not any('/Annots' in p.obj for p in chk.pages)

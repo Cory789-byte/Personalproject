@@ -18,7 +18,7 @@ to the Industrial Registry. The outlines and the medical schedule go to the Regu
 | # | Email | To | Cc | Attach |
 |---|---|---|---|---|
 | 1 | `3_EMAILS/Email_1_to_Industrial_Registry_cc_Regulator.txt` | qirc.registry@qirc.qld.gov.au | Renee.Matheson@oir.qld.gov.au | both files in `1_COMMISSION/` |
-| 2 | `3_EMAILS/Email_2_to_Regulator_direction_2_material.txt` | Renee.Matheson@oir.qld.gov.au | — | the six files its ATTACH block names, from `2_REGULATOR/` |
+| 2 | `3_EMAILS/Email_2_to_Regulator_direction_2_material.txt` | Renee.Matheson@oir.qld.gov.au | — | the four files its ATTACH block names, from `2_REGULATOR/` |
 | 3 | `3_EMAILS/Email_3_to_Regulator_request_documents_not_admitted.txt` | Renee.Matheson@oir.qld.gov.au | — | `2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf` |
 | 4 | `3_EMAILS/Email_4_to_Dr_Krishnaiah_records_still_needed.txt` | ravikumar@mindandmemoryservice.com.au | info@mindandmemoryservice.com.au | none |
 
@@ -72,7 +72,7 @@ served and **not** filed.
 
 | File | pp | Email |
 |---|---|---|
-| `OUTLINES_OF_EVIDENCE_9SEP2026.pdf` | 4 | 2 — the three outlines behind one contents page. Use it instead of the three separate outline files if you prefer one attachment. |
+| `2_REGULATOR/Outlines_of_Evidence_WC2024227.pdf` | 4 | 2 — the three outlines behind one contents page. This is what email 2 attaches. The three outlines also remain as separate one-page files in the same folder if they are ever needed singly. |
 | `2_REGULATOR/Letter_to_Regulator_re_letter_of_8_September_2026_WC2024227.pdf` | 1 | 2 — the reply to her letter of 8 September. |
 | `2_REGULATOR/Schedule_of_Medical_Documents_Relied_Upon_Tabs_M1_to_M9_WC2024227.pdf` | 43 | 2 — the schedule at page 1, then the pages behind it under Tabs M1 to M9. |
 | `2_REGULATOR/Request_to_Regulator_documents_not_admitted_WC2024227.pdf` | 2 | 3 — the request about the documents not admitted. Reply sought by Friday 18 September 2026. |
