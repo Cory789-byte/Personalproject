@@ -917,3 +917,77 @@ else sees it.**
 2. ⭐ ¶49 affirms the 5 June letter is *"already before the Commission"* — that is **Tab 20**, whose
    authenticity is now disputed (§9). He deposed to it on oath in June; the point needs no adjective
    then either.
+
+---
+
+# 13. ⭐⭐⭐ WHAT THE COVERING LETTER SHOWS THEY UNDERSTOOD
+
+Nobody writes a two-page letter about a notice they think is inert. The letter of 8 September 2026
+is proportionate to a perceived threat, and **its reservations are a map of what they concluded the
+Form 24 had done.** Read each one backwards to its target.
+
+## 13.1 The tense — *"you have drawn"*
+
+> *"any characterisation, conclusion, inference or submission **you have drawn or may draw** from an
+> admitted fact or document is accepted by the Respondent"*
+
+⭐⭐⭐ **"Have drawn" is past tense.** They are not only guarding the future. They read the 303 facts
+and concluded the notice **already contains a construction** — that something had been drawn before
+they ever answered.
+
+⇒ **They saw the architecture.** They understood that the facts are individually unarguable and that
+the argument is in the assembly, and they wrote a reservation aimed at the assembly rather than at
+any fact.
+
+## 13.2 It is not boilerplate — the three named categories prove that
+
+> *"…not an admission of the truth of any statement, opinion, finding or assertion recorded in it
+> including **any statement by a treating medical practitioner**, **any finding recorded in Review
+> Decision 69983**, or **any statement made by an officer or employee of Metro South Hospital and
+> Health Service**."*
+
+Those are precisely the three classes of admitted document that carry **somebody else's assertion**.
+That list is the product of someone classifying 303 facts, not of a template.
+
+## 13.3 The three risks they identified, and they identified them correctly
+
+| What they reserved | What it is aimed at |
+|---|---|
+| ⭐ Characterisation, conclusion, inference, submission | **The chronology.** Admitting each fact does not admit what the facts, in order, amount to |
+| ⭐⭐ *"limited to existence and wording"* — not the truth of what a document says | **The assertions inside the documents.** Fact 58 admits that the MASPER Registrar *wrote* that switchboard could not tell the MET team where VHUB was. It does not admit that it happened |
+| ⭐ Review Decision 69983, named twice — once for truth, once for *de novo* | **Facts 239–262**, which put their own reviewer's findings of unreasonable management action and *"a significant contributing factor"* into evidence as an admitted document |
+
+## 13.4 ⭐⭐ What they did NOT reserve is the other half of the answer
+
+- They did **not** say any fact is wrong.
+- They did **not** dispute the accuracy of any quotation.
+- They did **not** reserve on any **date** or on the **sequence**.
+- They did **not** raise s 32(5)(b) — perception — anywhere.
+
+⇒ ⭐⭐⭐ **Their conclusion was that the facts could not be fought, so the contest had to be moved off
+the facts.** The letter records, in writing and on their own initiative, that this case is no longer
+about what happened. It is about what is made of what happened.
+
+That is a concession wearing the clothes of a reservation. Every event in fourteen months is now
+common ground; the hearing is an argument about inference from agreed facts; and on the s 32(5)(a)
+exclusion the party arguing from those agreed facts is **them**.
+
+## 13.5 ⚠ AND THE RESERVATIONS WORK — PLAN FOR THAT
+
+⛔ Do not treat this as a rout. Two of the three are correctly taken and will hold:
+
+**The truth of what an admitted document asserts is not admitted.** Fact 58 gets the Registrar's
+words into evidence and no further. The nine MASPER occasions, the Respiratory Service's *"we can
+not help patients or other clinical staff"*, the treating practitioners' opinions — the **fact of
+the statement** is admitted; the **truth of it** is not.
+
+⇒ **The truth comes from witnesses, and that is what the witness list is for.** Dr Krishnaiah and
+Dr Hawes for the medical; the Appellant for what the console showed; and, on the operational
+consequences, whoever the Respondent calls — *"the regulator will call Ms Taylor to give her side of
+the story and you'll get to cross-examine"* [35:11].
+
+⭐ **The one class of fact the reservation cannot reach** is the fact that is complete on the
+document's face: that an email was sent, by whom, to whom, at what time, saying what. The 20 May
+interlock (facts 88, 94, 96, 100, 103) and the payroll subtraction (facts 200, 201, 206, 210) are
+built entirely out of that class. **Neither needs the truth of anything asserted inside a document.**
+That is why they survive the letter untouched — and why the case should be run on them.
