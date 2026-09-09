@@ -779,3 +779,76 @@ Not "I author the spreadsheet" but, precisely:
 - How did the March 2024 sheet come to be captured, and when?
 
 Five answers, written down once, and never varied.
+
+---
+
+# 12. ⭐⭐⭐ THE 64G AFFIDAVIT ALREADY DEALS WITH THIS — AND CARRIES ONE TRAP
+> `lodgement/WC2024227_Form20_FINAL.md` — Affidavit of Cory Lea Shepherd, filed in support of the
+> Form 4 under r 64G, **filed and sealed 23 June 2026**. Affirmed, not sworn — say "affirmed".
+
+## 12.1 What was already on oath, eleven weeks before the dispute
+
+| ¶ | What was affirmed |
+|---|---|
+| **9** | ⭐⭐ *"I **maintain and author** monthly call statistics ('Individual monthly stats') which tally volume only — the number of calls I handled and **emergency codes activated**."* |
+| Exhibit index | ⭐⭐ The monthly call statistics are **"Deposed, not annexed… held by the Appellant (producible if the Commission requires)"** |
+| **50** | *"I operate the SPOK paging system as part of my daily duties, and it is the system through which the Switchboard activates and records emergency codes and pages."* And: *"**I am not able to reconcile an upgrade of the system with the disposal of its emergency-code paging records.**"* |
+| **49** | ⭐ Of the MSH letter of 5 June 2026 (= **Tab 20**): *"That letter is **already before the Commission**, and I therefore do not annex it."* |
+| 38–39 | The 7-hour break of 17–18 March 2024, and coordinating emergency codes under exhaustion |
+
+⇒ **Authorship of emergency-code records was affirmed on 23 June 2026** — before the Form 24/25
+existed, before any authenticity dispute was foreseeable, and on a document sealed on the
+Commission's file. That is a prior consistent statement on oath, and it is worth more than anything
+said now.
+
+⇒ And ¶50 is a **sworn challenge to the "not retained" claim**, made months before it became the
+Respondent's best point on Tab 31.
+
+## 12.2 ⚠⚠ THE TRAP — AND IT IS SHARP
+
+**¶9 also says the monthly statistics *"tally volume only"* and *"do not record which clinicians were
+paged, whether a page was received or acknowledged, or whether a page was misdirected."***
+
+**Tab 31 records per-code detail** — *"MET CALL WARD 2H BED 7"* at 19:16, *"CODE BLUE WARD 2H BED 7"*
+at 19:20, ward, bed, time, code type (facts 228–231).
+
+⇒ The cross-examination writes itself: *"In June you affirmed your own records tally volume only. In
+August you produced a document giving the ward, the bed and the time of every code. Which is it?"*
+
+### The answer is good, but it must be exact
+
+1. ⭐ **They are two different documents.** ¶9 is about **monthly call statistics** — an aggregate
+   tally used to state volume figures. Tab 31 is the **2024 Emergency Code Register** — an
+   operational log of codes as received and dispatched.
+2. ⭐⭐ **And ¶9 remains true of the register.** What ¶9 disclaimed was **SPOK-level paging data**:
+   which clinicians were paged, whether a page was received, acknowledged or misdirected. Look at
+   facts 228–231 — the register records **none of that**. It records what code went out and when.
+   ⇒ **The two statements are consistent, and the reconciliation is in the words of ¶9 itself.**
+
+⛔ **Lead this in evidence-in-chief. Do not wait to be cross-examined on it.** A witness who draws
+the distinction himself is credible; one who draws it after it is put to him is repairing.
+
+⛔ **File nothing further about it now.** There is no vehicle, and a supplementary affidavit would
+advertise a point that may never be taken.
+
+## 12.3 ⚠⚠⚠ THE SWORN PROMISE THAT MUST NOT FAIL
+
+The exhibit index affirms those records are **"producible if the Commission requires."**
+
+⇒ **An affirmed "producible" that turns out not to be producible is far worse than never having said
+it.** This converts §11.3 from prudent housekeeping into an obligation already on the file:
+
+**Establish now — before 18 September — that the monthly call statistics AND the 2024 Emergency Code
+Register are actually in his possession, and read the native workbook's own metadata before anyone
+else sees it.**
+
+## 12.4 Two open items
+
+1. ⚠ **The three February 2026 affidavits have NO TEXT LAYER** (12, 38 and 16 extractable
+   characters): `2026-02-25_Supplementary_Affidavit_Form20.pdf`,
+   `2026-02-26_Supplementary_Affidavit_stamped.pdf`,
+   `2026-02-27_Affidavit_for_Form4_Disclosure_stamped.pdf`. **They have not been checked for what
+   they say about the register.** Render with `pypdfium2` before relying on or contradicting them.
+2. ⭐ ¶49 affirms the 5 June letter is *"already before the Commission"* — that is **Tab 20**, whose
+   authenticity is now disputed (§9). He deposed to it on oath in June; the point needs no adjective
+   then either.
