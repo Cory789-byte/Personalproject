@@ -128,3 +128,102 @@ events stand on their own footing.
 ⚠⚠ **None of that proves causation.** Doctors recording what he told them is not an opinion that the
 employment was a significant contributing factor. ⭐⭐⭐ **That gap is exactly what they read in topic
 9, and it is why the report is now worth more than any further procedural gain.**
+
+---
+
+# 7. ⭐⭐⭐ THE FRAME — WHAT THE FOUR DOCUMENTS DO TOGETHER
+
+## 7.1 ⭐⭐⭐ THE OUTLINE IS ORDERED AS THE CAUSATION TEST, NOT AS A CHRONOLOGY
+It is not in date order and it does not follow the Form 9A stressor numbering. **It runs:**
+| Topics | Function |
+|---|---|
+| **1–7** | ⭐ **the exposure** — the role and the four instances |
+| **8** | ⭐⭐ **the baseline** — *"before 18 June 2024 I had never been diagnosed with or treated for depression"*, GP 16 Nov 2023: *"no psychological illness such as depression or psychosis, and mood good"* |
+| **9** | ⭐⭐ **onset, presentation, diagnosis** — with contemporaneous attribution in the treating doctors' own words |
+| **10** | sequelae and the documentary bridge |
+
+⇒ ⭐⭐⭐ **Exposure → negative control → onset → sequelae. That is the architecture an expert report
+would use.** ⭐ **The outline is the skeleton of the report that does not yet exist — and the doctors
+who wrote the notes are on the witness list to be called.**
+
+## 7.2 ⭐⭐⭐ AND THE MEDICAL SCHEDULE STATES THAT CHAIN AS A SEQUENCE OF DOCUMENTS
+> *"**The sequence these documents record.** No psychological illness before June 2024 (item 1);
+> first presentation attributing symptoms to work, 28 June 2024 (item 1); certification of no
+> capacity from 1 July 2024 (item 2); diagnosis of Major Depressive Disorder with anxiety state,
+> 24 October 2024 (item 3); the treating psychiatrist's account of origin, 13 February 2025
+> (item 4); continuing effect, 3 July 2026 (item 6)."*
+
+⭐⭐ **A causation chain with no expert opinion in it and no argument around it.**
+
+⭐⭐⭐ **And item 2 answers their heading 3 pre-emptively, document by document, the day after they
+wrote it:**
+> Not relied upon for: *"The recorded mechanism as a finding of fact. **The events are proved by the
+> facts admitted on 8 September 2026, not by the certificates.**"*
+
+⭐⭐ **Item 1 ties Dr Hawes's note of 1 July 2024** — *"they withhold pay at times, no overtime- not
+processed, manipulate his roster- so he works lates then earlies"* — **to facts 185–203 and 211–221,
+admitted.** ⇒ **The doctor named the pay and the roster contemporaneously, and both are separately
+admitted as events.**
+
+⭐⭐⭐ **And item 2 carries the pre-existing-condition answer out of their own decision:** RD 69983 at
+p 17 records the certificate of 1 July 2024 indicated *"there was no pre-existing factor or
+condition"*, and *"This was maintained in all later work capacity certificates."* ⇒ **That is the
+Respondent's own decision closing topic 8's ADHD/anxiety exposure before they can open it.**
+
+## 7.3 ⭐⭐⭐ ONE MECHANISM, STATED ONCE, THEN EVIDENCED FOUR TIMES
+Topic 1 states it as *"the standing condition of the role"*: *"from the moment I logged onto the
+board I was held responsible for what went wrong anywhere in that system, **while the means of
+correcting it, the directory, the on-call roster, my own roster and my pay, were held by others**."*
+
+| Topic | Responsibility his | Means held by another |
+|---|---|---|
+| 2 fatigue | the shifts he worked | the roster, and the fatigue decision |
+| 3 rostering | his own line | the roster |
+| 4 pay | the claim | ⭐ **only the manager could submit the AVAC** |
+| 5 database | the console | ⭐ **no correction after 18 July 2023; had to wait** |
+
+⇒ ⭐⭐⭐ **This is why it is *Mahaffey* and not *Delaney*: not a list of grievances that dilute one
+another, but one mechanism evidenced four times.** ⭐ **And the outline achieves that without ever
+using "pattern", "course of conduct" or "systemic".**
+
+## 7.4 ⭐⭐⭐ THE FRAME ACROSS ALL FOUR DOCUMENTS — NOTHING IS ASSERTED, EVERYTHING IS LOCATED
+| Document | The same move |
+|---|---|
+| **Letter §2** | *"where the document is itself the step taken"* — the act is in their admission |
+| **Outline** | every topic closes with the admitted-fact range |
+| **Medical schedule** | what each document is, and **is not**, relied upon for — the events proved by the admissions, **not** by the certificate |
+| **Request letter** | for each disputed tab, ⭐ **where their own copy sits** |
+
+⇒ ⭐⭐⭐ **The Appellant is not asking to be believed. He is pointing at where the proof already sits
+— in their pleading, their decision, their file, their employer's records, and their own
+admissions.** ⭐⭐ **And that is why there is almost nothing to object to: a party cannot object to
+having its own documents located.**
+
+## 7.5 ⭐⭐ AND IT IS WRITTEN IN HIS VOICE
+*"I will give evidence of the following."* First person, topic by topic, plain. ⭐ **That is the
+answer to [09:30] at the mention** — *"complexities of language that go above and beyond what you'd
+anticipate from a human being"*. **The register is the correction, and it was made without being
+argued.**
+
+---
+
+# 8. ⭐⭐⭐ THE ONE HOLE — AND HE HAS NAMED IT HIMSELF, TWICE
+> Letter §4: *"No report has been prepared for the purposes of this proceeding."*
+> Schedule: *"Items 3, 4 and 5 contain clinical opinion; **the Appellant does not rely upon that
+> opinion otherwise than through the oral evidence of its author**."*
+
+⭐⭐⭐ **The frame is complete, self-consistent and un-objectionable — and it has exactly one gap: the
+causal opinion, which is the only thing that cannot be located in the Respondent's documents.**
+
+⇒ ⭐⭐⭐ **That is the whole remaining question in the appeal, and it is why the report outranks every
+further procedural gain now available.**
+
+## 8.1 ⚠ TWO LIVE ITEMS THE SET ITSELF DISCLOSES
+1. ⚠⚠ **Schedule item 5 "has not yet been received"** — a document relied upon that he does not
+   hold. ⭐ **Disclosed honestly, and Tab M5 documents the chase of 5–8 September 2026.** ⇒ **Obtain
+   it. They will notice the gap.**
+2. ⚠ **The outline is detailed enough to function as a statement in practice**, notwithstanding its
+   footer (*"not a statement of evidence and is not verified"*). ⭐ **The footer protects the form,
+   not the substance: any departure at the hearing will be cross-examined.** ⇒ **He must be able to
+   give all ten topics from memory, in his own words — the same discipline as the four minutes at
+   [22:11].**
