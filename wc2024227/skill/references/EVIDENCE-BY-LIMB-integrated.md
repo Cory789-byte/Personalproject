@@ -560,3 +560,68 @@ staff-initiated swaps (fact 225); and their own pleading not alleging one (fact 
 
 ⇒ **That limb is already won on the documents.** Adding a reprisal inference trades a certain point
 for a contested one, and opens a door the Respondent has kept shut.
+
+---
+
+# 10. ⭐⭐⭐ THE DAILY STAFFING VARIANCE FORM — THE WORKED-HOURS RECORD, AND IT EXISTS
+
+## 10.1 What Metro South actually produced at Item 16
+Two files, each **one page**, each headed **"Daily Staffing Variance Form"** — **not** an AVAC record.
+
+| | **Item 16, PRN 15397775** | **Item 16, PRN 15605601** |
+|---|---|---|
+| Team | 72010875 — MSH CI LOGH Switchboard Srvs | same |
+| Fortnight | **05/02/2024 – 18/02/2024** | **19/02/2024 – 03/03/2024** |
+| Day shown | Friday **09-February-2024** | Wednesday **28-February-2024** |
+| Page | **8 of 14** | **10 of 14** |
+| Run by | 371009, 06/02/2024 07:07 AEST | 371009, 29/02/2024 09:07 AEST |
+| ⭐ **Approved by** | **Chloe Taylor, A/Switchboard Manager, signed, 13-02-24** | **Chloe Taylor, A/Switchboard Manager, signed, 1-03-24** |
+| **The Shepherd line** | *Shepherd, Cory · 00388372 · AO3 · 0002130204 ·* **shift 23:00–07:00** *·* ⭐ ***"Shift change 7hrs worked"*** *· Actual Start* **2300** *· Actual Finish* **0600** | *Shepherd, Cory · 00388372 · AO3 · 0002130204 ·* **shift 06:00–14:00** *·* ⭐ ***"Shift change 7hrs worked"*** *· Actual* **0600–1300** |
+
+⚠ These are **7-hour shifts**, not 7-hour breaks. ⛔ **Do not conflate them with 17–18 March.** They
+match admitted facts 186 and 187 — the 09.02.24 and 28.02.24 shifts behind the two AVAC references.
+
+## 10.2 ⭐⭐⭐ WHY THIS CHANGES THE DISCLOSURE POSITION COMPLETELY
+
+**The form carries, for every employee, every day:** rostered Shift Time · **Actual Start** ·
+**Actual Finish** · Meal Break Taken · Leave Type · Leave Hours Taken · a free-text comment ·
+employee initials · and **the manager's signature, position and date**.
+
+⇒ ⭐⭐⭐ **This is precisely the worked-hours record §9.2 said was needed — and it is not
+hypothetical. It exists, Metro South holds it, and Metro South has already produced two pages of
+it.**
+
+| What it would settle | How |
+|---|---|
+| ⭐⭐ **The 17–18 March break, independently of admission** | Actual Finish on 17 March; Actual Start on 18 March |
+| ⭐⭐⭐ **Whether there was a second occurrence** | Actual Start and Finish for every day in April and May |
+| ⭐⭐ **The PP21 absence** | Whether he appears on the variance form for 18–31 March, whatever the published roster shows |
+| **Who knew** | ⭐ **Ms Taylor signs each fortnight.** She signed 13 February and 1 March 2024 |
+| **The payroll limb** | The variances were identified and **approved by her at the time** — and were still uncorrected when Payroll wrote on **13 May**: *"I cannot see that any of the issues below have been corrected"* (fact 193) |
+
+## 10.3 ⭐ AND THE PRODUCTION WAS ONE PAGE OF FOURTEEN
+Each form runs to **14 pages** — one per day of the fortnight. **Metro South produced a single page
+from each of two fortnights**, being the day each AVAC reference related to. **It produced none at
+all for March, April or May 2024.**
+
+## 10.4 ⭐⭐⭐ THE REQUEST — NAMED, EXISTING, AND ALREADY PARTLY PRODUCED
+
+> **Daily Staffing Variance Forms for Team 72010875 (MSH CI LOGH Switchboard Services), all pages,
+> for the fortnights:**
+> **04/03/2024 – 17/03/2024 · 18/03/2024 – 31/03/2024 · 01/04/2024 – 14/04/2024 ·
+> 15/04/2024 – 28/04/2024 · 29/04/2024 – 12/05/2024**
+
+⭐⭐ **It cannot be objected to on the ground that it does not exist, cannot be identified, or would
+be burdensome to find** — the document class is named on its own face, the team number is on it, the
+system generates it per fortnight, and **Metro South has already produced two pages of it in this
+proceeding.**
+
+⇒ Add to the inspection request (`DISCLOSURE-COMPARED-by-9A.md` §4) and to any notice of non-party
+disclosure. ⭐ **It is a single identified document class of the kind the Commissioner said he could
+decide "very quickly"** [61:31], and it answers the roster problem at §9 completely — because it
+records what was **worked**, not what was **published**.
+
+## 10.5 ⛔ And Metro South produced no roster at all
+Its June 2026 production contains items 6, 11, 12, 13, 15 and 16 — a role description, leave forms,
+an AVAC history, a myHR report, a leave takings report, pandemic directives and these two variance
+pages. ⛔ **Not one roster.** The 91 rosters held are the Appellant's own.
