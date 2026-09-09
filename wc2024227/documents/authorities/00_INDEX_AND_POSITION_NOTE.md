@@ -2,6 +2,8 @@
 
 Compiled 10 September 2026. All PDFs are the Queensland Judgments “original version” files unless noted. Official regulation PDF is from legislation.qld.gov.au (authorised reprint current from 1 September 2025).
 
+**Read `00_VERIFICATION.md` first.** Two files in the first zip were the wrong cases (QJ number ≠ QIC number). They have been replaced. Do not reason from any file until the face citation on page 1 matches the name in the table.
+
 This note answers the push at 23fd764: costs tail, the unread authorities, the Mackenzie lead, and 2024–2026 s 32 psychiatric comparators.
 
 ---
@@ -94,7 +96,7 @@ All in `02_classic_s32/`:
 
 | Case | Citation | File | Point in short |
 |---|---|---|---|
-| Delaney v Q-COMP | [2005] QIC 11; (2005) 178 QGIG 197 | Delaney_v_QCOMP_2005_ICQ_11.pdf | Psychiatric injury / reasonable management action lineage |
+| Delaney v Q-COMP Review Unit | (2005) 178 QGIG 197; QJ [2005] ICQ 7 (also cited [2005] QIC 11) | Delaney_v_QCOMP_Review_Unit_2005_ICQ_7_178_QGIG_197.pdf | Appeal allowed. QJ path is icq/2005/7 — icq/2005/11 is Wesche v Vancrete and is not this case |
 | Blackwood v Adams | [2015] ICQ 1 | Blackwood_v_Adams_2015_ICQ_1.pdf | Dominant-cause enquiry is the wrong test |
 | Blackwood v Mahaffey | [2016] ICQ 10; (2016) 259 IR 137 | Blackwood_v_Mahaffey_2016_ICQ_10.pdf | Mixed stressors; presence of some RMA does not automatically exclude; still must ask whether the injury arose out of / in the course of RMA taken in a reasonable way |
 | Prizeman v Q-COMP | [2005] ICQ 43 (also cited as [2005] QIC 53) | Prizeman_v_QCOMP_2005_ICQ_43.pdf | Reality of management action, not worker’s perception |
@@ -102,7 +104,7 @@ All in `02_classic_s32/`:
 | Q-COMP v Rowe | [2009] ICQ 32; (2009) 191 QGIG 67 | QCOMP_v_Rowe_2009_ICQ_32.pdf | One non-RMA stressor does not automatically win the claim; the s 32(5)(a) question still has to be answered |
 | Q-COMP v Hochen | [2010] ICQ 10 | QCOMP_v_Hochen_2010_ICQ_10.pdf | Unreasonable management action with sufficient causal connection may require a negative answer to s 32(5)(a) |
 | Q-COMP v Hohn | [2008] ICQ 13; (2008) 187 QGIG 139 | QCOMP_v_Hohn_2008_ICQ_13.pdf | Often read with Mahaffey / Rowe on mixed stressors |
-| Bowers | [2002] QIC 18 / [2002] QIC 8 | Bowers_v_WorkCover_2002_ICQ_18_SHORT.pdf | **Incomplete QJ file (~26 KB).** Prefer the AustLII HTML in a browser: https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/qld/QIC/2002/18.html |
+| Bowers v WorkCover Queensland | (2002) 170 QGIG 1 | Bowers_v_WorkCover_170_QGIG_1.pdf | Appeal dismissed. Search by 170 QGIG 1. QJ path is icq/2002/16 — icq/2002/18 is Murrays Australia |
 
 QIRC first-instance Rowe (appeal later overturned): Glen Rowe v Q-COMP [2009] QIRComm 9; 190 QGIG 93 — https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/qld/QIRComm/2009/9.html
 
@@ -140,10 +142,10 @@ Keyword sweep of QIRC/ICQ decisions 2024–2026. This is not every WC appeal. It
 6. **Firat v Workers’ Compensation Regulator [2024] QIRC 137** (O’Connor VP, 29 May 2024) — **DISMISSED**. A secondary blog summary that this appeal was allowed is wrong. Costs of the hearing later fixed at $10,450.05 in *Firat (No 2)* [2024] QIRC 166.  
 7. **Granato v Workers’ Compensation Regulator [2024] QIRC 162** — **DISMISSED**.  
 8. **Richards v Workers’ Compensation Regulator [2024] QIRC 241** — **DISMISSED**.  
-9. **Kerr v Workers’ Compensation Regulator [2025] QIRC 190** (Dwyer IC) — 15 stressors; RMA taken in a reasonable way; **dismissed**. Not in the zip (obtain from https://www.queenslandjudgments.com.au/caselaw/qirc/2025/190/pdf).  
-10. **Anderson v Workers’ Compensation Regulator [2025] QIRC 361** (Hartigan DP, 19 December 2025) — conversation with junior doctor found to be RMA taken in a reasonable way; **dismissed**. https://www.queenslandjudgments.com.au/caselaw/qirc/2025/361/pdf  
-11. **Canning v Workers’ Compensation Regulator [2026] QIRC 51** (Pidgeon IC, 25 February 2026) — failed first limb of s 32; medical witness treated as advocate; **dismissed**. https://www.queenslandjudgments.com.au/caselaw/qirc/2026/51/pdf  
-12. **Dones v Workers’ Compensation Regulator [2026] QIRC 25 / 225** (O’Neill IC, 15 July 2026) — employment not major significant contributing factor; **dismissed**.
+9. **Kerr v Workers’ Compensation Regulator [2025] QIRC 190** (Dwyer IC) — **DISMISSED**. File: `04_comparators_2024_2026/Kerr_v_WCR_2025_QIRC_190_DISMISSED.pdf`  
+10. **Anderson v Workers’ Compensation Regulator [2025] QIRC 361** (Hartigan DP, 19 December 2025) — **DISMISSED**. File: `Anderson_v_WCR_2025_QIRC_361_DISMISSED.pdf`  
+11. **Canning v Workers’ Compensation Regulator [2026] QIRC 51** (Pidgeon IC, 25 February 2026) — **DISMISSED**. File: `Canning_v_WCR_2026_QIRC_51_DISMISSED.pdf`  
+12. **Dones v Workers’ Compensation Regulator [2026] QIRC 225** (O’Neill IC, 15 July 2026) — **DISMISSED**. File: `Dones_v_WCR_2026_QIRC_225_DISMISSED.pdf`. QJ `qirc/2026/25` is not this case.
 
 Pattern: recent *allowed* psychiatric appeals that published are concentrated on **secondary psychiatric injury to an accepted physical injury** (Dodd, Austin) or on **employer appeals failing to establish RMA** (DAF, Stretton). Straight “workplace investigation / performance management / interpersonal conflict” worker appeals in 2024–26 are still more often dismissed (Firat, Granato, Richards, Kerr, Anderson, Canning).
 
@@ -181,13 +183,14 @@ Pattern that worked: `https://www.queenslandjudgments.com.au/caselaw/{court}/{ye
 - Rowe ICQ: https://www.queenslandjudgments.com.au/caselaw/icq/2009/32/pdf
 - Hohn ICQ: https://www.queenslandjudgments.com.au/caselaw/icq/2008/13/pdf
 - Prizeman ICQ: https://www.queenslandjudgments.com.au/caselaw/icq/2005/43/pdf
-- Delaney ICQ: https://www.queenslandjudgments.com.au/caselaw/icq/2005/11/pdf
+- Delaney: https://www.queenslandjudgments.com.au/caselaw/icq/2005/7/pdf
+- Bowers: https://www.queenslandjudgments.com.au/caselaw/icq/2002/16/pdf
 - Dodd: https://www.queenslandjudgments.com.au/caselaw/qirc/2024/273/pdf
 - Austin: https://www.queenslandjudgments.com.au/caselaw/qirc/2025/110/pdf
 - DAF: https://www.queenslandjudgments.com.au/caselaw/qirc/2024/53/pdf
 - Regulation PDF: https://www.legislation.qld.gov.au/view/pdf/inforce/current/sl-2025-0116
 
-Still worth collecting at the QIRC Library / SCLQ this week (not obtained as full clean PDFs here): Bowers [2002] QIC 8 / 18 full text; Glen Rowe QIRC 190 QGIG 93; any 2026 allowed s 32 primary-psychiatric decisions published after this sweep.
+Still worth collecting at the QIRC Library / SCLQ this week: Glen Rowe QIRC 190 QGIG 93; any 2026 allowed s 32 primary-psychiatric decisions published after this sweep. Bowers is now in the zip (QJ icq/2002/16).
 
 ---
 
@@ -196,5 +199,5 @@ Still worth collecting at the QIRC Library / SCLQ this week (not obtained as ful
 - These PDFs are unreported judgments as published by Queensland Judgments. Cite the medium-neutral citation, not the filename.
 - Mackenzie must not be cited for s 32(5).
 - Firat must not be cited as an allowed appeal.
-- Bowers file in this zip is incomplete. Use AustLII.
+- First-zip Delaney (`icq/2005/11`) and Bowers (`icq/2002/18`) were the wrong cases. Replaced. See `00_VERIFICATION.md`.
 - This is a document-assembly and case-location note, not advice on prospects of any particular appeal. Independent advice remains required before the range is used in a Calderbank / offer.

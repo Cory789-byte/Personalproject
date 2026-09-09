@@ -418,3 +418,103 @@ an ICQ neutral citation.** Searching "[2005] ICQ 11" returns *Wesche v Vancrete*
 ⇒ ⭐⭐ **Search Queensland Judgments / QGIG by the QGIG volume and page, not the neutral citation.**
 ⚠ **Delaney's holding is set out at length inside *Mahaffey*, which is sufficient to reason from —
 but the primary text must be held before it is cited in a submission.**
+
+---
+
+# 13. ⭐⭐⭐⭐ THE REAL *DELANEY* — READ. AND IT IS THE OPPOSITE OF THE REVIEWER'S USE.
+> ***Paul Andrew Delaney AND Q-COMP Review Unit*** (C90 of 2004), **Hall P, 2 March 2005**,
+> **(2005) 178 QGIG 197**. ⭐ **Correct QJ path `icq/2005/7`.** The earlier file was
+> *Wesche v Vancrete* at `icq/2005/11`. **28 files now verified face-page by face-page.**
+> ⭐⭐⭐ **ORDER: appeal ALLOWED, decision of the Acting Industrial Magistrate SET ASIDE, injury found.**
+
+## 13.1 ⭐⭐⭐⭐ DELANEY'S SEVEN STRESSORS TRACK CORY'S ALMOST ITEM FOR ITEM
+| Delaney | Shepherd |
+|---|---|
+| 1. failure to deal with a workers' compensation application **in a timely manner** | the fatigue request of 8 April → nothing until 1 May |
+| 2. **failure to notify** of what was happening with a grievance | learned of Ms Reese's 10 May email only from disclosure in July 2025 |
+| ⭐⭐⭐ 3. **lack of any consultation** concerning the closure of a unit | ⭐ **the directives of 15 and 19 April and 9 May 2024, none consulted on** — and **Conaghan ¶10–11** |
+| 4. bullied or harassed to complete a form | the request to retract |
+| 5. a letter of no confidence in **union delegates** | ⭐ the union delegate limb |
+| ⭐⭐ 6. failure to deal with **non-election of the Workplace Health and Safety representative in accordance with the relevant legislation** | ⭐ the fatigue toolkit and cl 10.4.1, unactioned |
+| ⭐⭐ 7. **delay** in dealing with grievances, **failure to take a statement**, **lack of notification** | the payroll loop, the 7 August 2023 concerns |
+
+## 13.2 ⭐⭐⭐⭐ THE RATIO ON GLOBAL ASSESSMENT — VERBATIM
+> *"…the events and courses of conduct marshalled up by the Acting Industrial Magistrate under the
+> headings set forth above **were not truly discreet**."*
+> ⭐⭐⭐⭐ *"**If the matters at heading (6) had stood alone, the Acting Industrial Magistrate's
+> description of them as a 'blemish' would have been entirely open to His Honour. THE PROBLEM IS
+> THAT THE EVENTS DID NOT STAND ALONE. THIS WAS A CASE FOR A GLOBAL ASSESSMENT.**"*
+
+⇒ ⭐⭐⭐⭐ **Global assessment in *Delaney* is a tool for AGGREGATING the worker's case — for refusing
+to dismiss individually-minor failures as "blemishes" when they do not stand alone.**
+⇒ ⛔⛔ **The Review Decision inverted it**: it used *"a global evaluation"* to hold that because two
+of three factors were reasonable, the injury *"mainly arose out of"* reasonable management action.
+⭐⭐⭐ **Delaney says the opposite: the presence of other events is why a minor failure cannot be
+excused, not why a serious one can be outweighed.**
+
+## 13.3 ⭐⭐⭐ AND THE INDIVIDUAL FINDINGS ARE CORY'S LIMBS, DECIDED FOR THE WORKER
+**On consultation (heading 3):**
+> *"I am **unable to locate evidence that the Appellant was included within the consultation**. All of
+> that goes back to the Appellant's concern that **he was being ignored and being treated as without
+> value**… Consultation may well not have made a difference to his opposition… ⭐⭐⭐ **but may well
+> have made a difference to his mental health.**"*
+⇒ ⭐⭐⭐ **That is Stressor 1(g) and Ms Conaghan ¶¶10–11, decided in a worker's favour by the
+President of the Industrial Court.**
+
+**On delay and process (heading 7):**
+> *"To allow the process to drag on for twelve months without seeking an extension of time by consent
+> was **'industrially unfair' and (in all the circumstances) unreasonable**… the interview was
+> **expressly required by the terms of reference and by every consideration of natural justice**."*
+⇒ ⭐⭐ **A required process not followed is unreasonable — even where the worker had left the
+workplace and "endured part only of the agony of the delay."**
+
+**On heading (5) — and this is a useful limit:**
+> *"as the activity was **not management action** there can be no question of the activity removing
+> the Appellant's 'injury' from the definition"*
+⇒ ⭐⭐ **Conduct that is not management action at all cannot enliven s 32(5).** ⭐ **That is the home
+for the conditions-of-work evidence (Conaghan ¶¶2–4: abusive callers, threats, clinicians holding the
+operator accountable) — it is not management action, so the exclusion cannot touch it.**
+
+## 13.4 ⚠⚠ AND THE ONE PASSAGE THAT DISCIPLINES HIS SUBMISSION
+> *"Given the history of the legislation, it would be **wrong to start at the other end, eliminate all
+> work related causes which might be characterised as reasonable management action reasonably taken
+> and inquire whether any remaining causes might be characterised as significant causes of the
+> injury**."*
+
+⇒ ⛔⛔ **He must NOT submit "put factors 2 and 3 aside as reasonable and look at what is left."**
+⭐⭐⭐ **The correct order, from *Delaney* itself:** (1) injury; (2) employment a significant
+contributing factor; (3) **then** ask whether s 32(5) withdraws it — assessed globally where the
+events are not truly discrete.
+⭐ **The Review Decision's first two steps are already findings in his favour. The submission is
+about step 3 only.**
+
+---
+
+# 14. ⭐⭐ THE BUNDLE IS NOW COMPLETE AND VERIFIED — 28 FILES
+✅ **Every file's face page checked.** ⭐ The two wrong PDFs are gone; **Delaney (`icq/2005/7`,
+178 QGIG 197)** and **Bowers (`icq/2002/16`, 170 QGIG 1)** are correct.
+⚠ **Note for future searches:** a Queensland Judgments path `icq/{year}/{n}` is **not** the
+medium-neutral `[year] ICQ n` for pre-2014 Gazette extracts. **That is what produced both errors.**
+
+⭐ **Four further dismissals added for calibration, two of them from 2026:**
+**Anderson [2025] QIRC 361 · Kerr [2025] QIRC 190 · Canning [2026] QIRC 051 · Dones [2026] QIRC 225.**
+⛔ **All four still unread.** ⭐⭐ **They are now the highest-value reading left: two are from this
+year and they show what the current bench does to a worker who loses.**
+
+---
+
+# 15. ⭐⭐⭐ POSITION AT THE CLOSE OF 9 SEPTEMBER 2026
+| | |
+|---|---|
+| ⭐ **Merits** | ⭐⭐⭐ **75–85%, centred ~80%** — unchanged by *Delaney*, but now **anchored in the primary text** rather than a secondary account |
+| **Downside if lost** | ~**$10,450** on the *Firat* comparator — discretionary, scale-capped |
+| **Posture** | ⭐⭐ **Run it. Settle only at a number reflecting a case they are likely to lose.** |
+
+**The three propositions the case now rests on, each from a judgment in the repo:**
+1. ⭐⭐⭐⭐ ***Stretton* [84]** — one significant unreasonable aspect suffices. **The reviewer found one.**
+2. ⭐⭐⭐⭐ ***Delaney*** — global assessment aggregates the worker's case; it does not dilute it.
+3. ⭐⭐⭐ ***Mahaffey* [57]** — no formula, no dominant cause; the question is whether the s 32(5)
+   conduct **displaces the evidence in favour of the worker**. **The reviewer never asked it.**
+
+**The three live risks, unchanged:** Dr Krishnaiah's attendance · *Adams* [20] (the pleaded stressors
+are the boundary) · **six unread dismissals**.
