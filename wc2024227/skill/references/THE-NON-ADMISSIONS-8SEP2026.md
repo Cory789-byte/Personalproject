@@ -1233,3 +1233,94 @@ already on the file.**
 5. ⚠ **[15:36] cuts both ways and is the most useful line in the transcript for the Appellant's own
    preparation**: uncontradicted evidence is likely to be accepted — which is why **direction 1
    (the witness list) and the 30 September Respondent's list matter more than the non-admissions do.**
+
+---
+
+# 17. ⭐⭐⭐ THE ADMITTED SET IS SELF-EXECUTING — AND THE FENCE CANNOT REACH IT
+
+> 9 September 2026, testing Cory: *"reading the admitted facts word by word or from the grouping,
+> something establishes itself regardless of what they try to fence — and I think they understood
+> it also."* **Both halves hold. The mechanism is below.**
+
+## 17.1 ⭐⭐⭐ WHY IT SELF-EXECUTES — THE STRUCTURAL POINT
+The notice was drafted as **facts about documents**. No item contains a conclusion, a
+characterisation or a compound proposition. ⇒ **Every fact is individually harmless, which is
+exactly why 298 of 303 were admitted.**
+
+⭐⭐⭐ **But the conclusions do not live in the facts. They live in the relations between them — and
+r 49 has no mechanism for refusing a relation.** A party answers *facts*. It cannot answer the
+arithmetic performed across them. ⇒ **The fence is built at the level of the primitives. The case
+is built one level up, out of primitives they have already conceded.**
+
+## 17.2 THE FOUR CHAINS THAT CLOSE ON ADMITTED FACTS ALONE
+**No refused fact touches any of them.**
+
+### CHAIN 1 — the break is **three hours** short, not one
+| Fact | Admitted content |
+|---|---|
+| **226** | their ¶22(a): *"the shift was separated by only a **7-hour break** (rather than an 8-hour break)… **human error** and not intentional or repeated"* |
+| **232** | their ¶22(e): *"in June 2020, the Appellant signed an agreement allowing an 8-hour break between shifts"* |
+| ⭐ **225** | Forrest, 7 July 2026: *"acknowledge you also signed an 8 hour agreement on 17 June 2020… **however this is only applied where staff initiated shift swaps have occurred**"* |
+| ⭐ **234** | their pleading *"**does not allege** that the consecutive shifts of 17 and 18 March 2024 arose from a staff initiated shift swap"* |
+
+⇒ ⭐⭐⭐ **The 8-hour figure has no application on their own material. The 10-hour minimum stands.
+The shortfall is three hours.** Every input admitted; the conclusion is subtraction.
+
+### CHAIN 2 — the leave decline had no valid ground
+**133** (the stated reason) + **134** (*"in fact, the attachments were present"*) + **127/128** (power
+to a Band 9 delegate, no further sub-delegation) + **129/130/131** (they do not allege either woman
+held it, and do not identify who exercised it) — **all from their own pleading and the Instrument.**
+⇒ With the four documentary failures at `MSH-DISCLOSURE-FORENSIC-9SEP2026.md` §7, this closes
+without a single contested fact.
+
+### CHAIN 3 — the documents for their own assertions are not on their own list
+⭐ **Four admitted negatives about the Respondent's amended List of Documents of 14 August 2026:**
+**105** (no record of the 20 May discussion) · **106** (nothing from Ms Taylor to Ms Marriott on
+20 May) · **107** (nothing from Mr Parry to Ms Marriott on 20 May) · **273** (no record of
+consultation before the 15 April 2024 change).
+⇒ **Their statement of facts asserts the events. Their List does not carry the documents.** Admitted
+four times over.
+
+### CHAIN 4 — the register exists, on the employer's own word
+⭐ **268 admitted**: the 5 June 2026 letter *"states in relation to Items 1 and 2: 'a spreadsheet of
+recorded MET calls **is available** for the period 17-18 March 2024.'"*
+
+## 17.3 ⭐⭐ THE FENCE, MEASURED — FIVE FACTS OF 303, IN TWO CLUSTERS
+| | |
+|---|---|
+| **228, 229, 230, 231** | ⭐ **what the "2024 Emergency Code Register" (Tab 31) contains** for 17, 18 and 19 March 2024 |
+| **154** | *"The Respondent's amended List of Documents dated 14 August 2026 does not list the Communication Book, nor any page or entry from it."* |
+
+### ⭐⭐⭐ AND THE FENCE CONTRADICTS ITSELF IN TWO PLACES
+1. ⭐⭐ **They admitted that the register exists (268) and refused only what it says (228–231).**
+   That is a fence around **contents**, not existence. ⇒ **A party that did not know what the
+   contents did would have no reason to draw the line in that particular place.**
+2. ⭐⭐ **154 is the same species as 105, 106, 107 and 273 — a negative fact about their own List of
+   Documents. Those four were admitted. This one was not.** ⇒ **Nine such facts admitted, one
+   refused. Their own answers isolate it.** And it is provable simply by reading the List, which is
+   the Respondent's own served document. ⛔ **Do not argue fact 154. Tender the List.**
+
+## 17.4 ⭐⭐ DID THEY UNDERSTAND IT? — THEIR OWN WORDS SAY SO
+The covering letter of 8 September reserves against
+> ⭐⭐⭐ *"any characterisation, conclusion, inference or submission **you have drawn or may draw**"*
+
+⇒ **Past tense.** A schedule of neutral document facts does not, on its face, contain a conclusion.
+⭐⭐⭐ **To reserve against a conclusion already drawn, they had to have read across the facts and
+found one — the same reading Cory did.** (§13 develops this.)
+
+⛔⛔ **AND THAT IS THE FURTHEST IT GOES.** The letter is evidence that they read a conclusion into
+the notice. It is **not** evidence of why they answered as they did. ⛔ **Never put design, never put
+motive, never say the refusals were tactical** (rule 1). ⛔ Never *"pattern"*, *"systemic"* or
+*"course of conduct"* here.
+
+## 17.5 WHAT FOLLOWS, PRACTICALLY
+1. ⭐⭐ **Put the chains, not the facts.** Cite the admitted numbers, set them in order, and stop.
+   **The arithmetic must be left to the Commission to perform** — an argued conclusion invites a
+   contest; an unargued one does not.
+2. ⭐ **Tab 31's contents now have to be proved another way, and 268 is the lever**: the employer
+   says the spreadsheet is available. **The cheap step first — ask the Regulator to produce it**
+   (the mention, [60:05]: documents it *"can readily access through their liaison with the health
+   service"*), before any further 64G.
+3. ⚠ **Fact 230 is the only refused fact carrying real weight** — six emergency entries between
+   06:00 and 14:00 on 18 March, i.e. **the workload during the shift that followed the short break**.
+   That goes to exposure, not to the shortfall. ⭐ **Chain 1 does not need it. Its loss is contained.**
