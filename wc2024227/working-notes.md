@@ -7567,3 +7567,38 @@ Tool committed at `drafts/check_facts_against_response.py`; fact text at
   of harm and both tie to the admitted pay facts; neither is adverse. The Regulator already holds
   the report at **item 10**, so serving it discloses nothing new. Cory should simply know they are
   in the pages he is serving.
+
+### 2026-09-09 — RULE AND GUIDE CITATIONS IN THE SERVED SET: all verified to source
+Every legal citation in the 9 September documents, checked against the instrument itself.
+- **rule 49, Industrial Relations (Tribunals) Rules 2011** — confirmed from the Regulator's own
+  letter of 8 September, which sets out rr 49(1), (2) and (3) in full. Correct name and rule.
+- **Directions 1 and 2, Further Directions Order (3) dated 19 August 2026** — confirmed against the
+  order. Direction 1 file + serve the witness list by 4.00 pm 9 Sep; direction 2 serve but NOT file
+  the lay outlines (one A4 page per witness) and any expert reports by the same time; directions 3
+  and 4 put the Respondent's equivalents at 4.00 pm 30 Sep.
+- ⭐ **Guide Part 4.11 "Expert Reports"** (v2.10, 11 Mar 2025) — verified verbatim: *"each of the
+  experts that you will be calling in a matter (doctors, psychologists, psychiatrists, etc.) should
+  have prepared and supplied to you a report about your injury. You must supply those reports to the
+  other parties... Likewise, the Respondent/s in the matter must supply you with the reports of the
+  experts that they will be calling... **Unless otherwise directed, expert reports are only to be
+  exchanged between the parties and not filed in the Registry.**"*
+  ⇒ Calling Krishnaiah and Hawes expert witnesses within Part 4.11 is right — they are doctors he
+  will call. ⇒ The Part independently confirms the serve-not-file treatment of the medical material,
+  and it is the hook for the Regulator's obligation to serve its own experts' reports by 30 Sep.
+- ⭐ **Guide 7.6.5 "Expert evidence"** — verified: expert witnesses *"may give evidence over the phone
+  or by video, if the Commission allows"*; the calling party *"will need to pay the expenses of the
+  expert witness"* and *"should request that an attendance notice to give evidence be issued"*.
+  ⇒ The 9 Sep email to Dr Krishnaiah is accurate on all three points (phone/video, fee met by Cory,
+  attendance notice available). **Guide Part 6** is the attendance-notice Part (Forms 32/32A/32B/32C;
+  Form 29 is the non-party disclosure form) — the witness list's reference is correct.
+- **s 32, 32(1) and 32(5) WCRA** as used in the schedule — verified against Review Decision 69983
+  p 27: *"I find overall your psychological injury arose out of reasonable management action taken in
+  a reasonable way and section 32(5) is consequently enlivened... the provisions of section 32(5) of
+  the Act exclude your psychological condition from the definition of 'injury' within section 32(1)"*.
+  ⇒ The schedule's *"The claim was rejected under section 32(5), not section 32(1)"* is exactly right.
+  ⚠ The same page runs **Delaney** and the global-evaluation reasoning — the reviewer's own authority,
+  and the thing the one-mechanism framing exists to answer.
+- p 17 verified verbatim for the three things the schedule attributes to it: no pre-existing factor or
+  condition and *"maintained in all later work capacity certificates"*; Dr Hawes to WorkCover on
+  2 Sep 2024 that work events were the **sole cause**; and *"I am satisfied your employment was a
+  significant contributing factor to the psychological injury."*
