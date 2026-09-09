@@ -7509,9 +7509,15 @@ Metro South Hospital and Health Service; he is now an officer of the Queensland 
   control, which removes the employment pressure on a witness giving evidence against it. He is on the
   witness list and will be called; an attendance notice under Part 6 of the Guide remains available and
   is now a much lower-risk step than it was in August.
-- ⚠ Still **not** documented, and therefore **not** asserted anywhere: his classification while at the
-  Switchboard (an earlier draft called him a "temporary part-time operator" — unsupported, removed) and
-  the dates he worked there. His own outline item 2 gives the period from his own knowledge
-  ("approximately three months"). If the classification or dates are needed, take them from him.
+- ⭐ **Confirmed by Cory the same day and now served:** he was **employed part time** at Logan Hospital
+  Switchboard, worked there **as an operator alongside Cory**, was **on shift at the time of the events
+  he describes**, and has **since left the department**. All four are in his outline and, so far as they
+  fit, in the witness list. The source is Cory's own knowledge of his colleague; there is no document in
+  the repo for the classification, so if it is ever challenged the answer is his evidence and Metro
+  South's employment records, which the Respondent can obtain.
+- ⚠ Still not documented: the **dates** he worked at the Switchboard. His outline item 2 gives the period
+  from his own knowledge ("approximately three months"). The corpus shows him on Switchboard distribution
+  lists from **February 2022 to July 2023**, which is longer than three months — if the period matters,
+  take the dates from him before he is examined, and do not assert "during 2023".
 - ⚠ Do not write that he has left **Queensland Health**. Metro South HHS and the Queensland Ambulance
   Service are different employers; what is documented is that he has left Metro South.
