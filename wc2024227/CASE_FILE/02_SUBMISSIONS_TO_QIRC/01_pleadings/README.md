@@ -1,6 +1,6 @@
 # 02_SUBMISSIONS_TO_QIRC/01_pleadings
 
-The Appellant's case as pleaded.
+The Appellant's statement of facts and contentions.
 
 ## In this folder
 

@@ -1,6 +1,6 @@
 # 06_EVIDENCE/03_payroll_and_leave
 
-Stressor 2. ⭐ Facts 182–210 are all admitted and prove the limb by subtraction — see 07_WORKING_ANALYSIS/EVIDENCE-BY-LIMB-integrated.md §2. ⛔ No 2024 payslip is held.
+Payroll and leave records. No payslip for the 2024 calendar year is held.
 
 ## In this folder
 

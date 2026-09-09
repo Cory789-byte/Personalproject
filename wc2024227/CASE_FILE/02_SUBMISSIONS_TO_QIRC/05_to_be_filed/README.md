@@ -1,6 +1,6 @@
 # 02_SUBMISSIONS_TO_QIRC/05_to_be_filed
 
-Held, not yet filed.
+Prepared for filing. Not yet filed.
 
 ## In this folder
 

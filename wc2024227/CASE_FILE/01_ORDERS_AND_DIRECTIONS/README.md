@@ -1,6 +1,6 @@
 # 01_ORDERS_AND_DIRECTIONS
 
-Issued BY the Commission. The Further Directions Order (3) of 19 August 2026 is the live one: directions 1 and 2 fell due 4.00 pm 9 September 2026; directions 3 and 4 fall due 4.00 pm 30 September 2026.
+Orders and directions issued by the Commission in this proceeding.
 
 ## In this folder
 

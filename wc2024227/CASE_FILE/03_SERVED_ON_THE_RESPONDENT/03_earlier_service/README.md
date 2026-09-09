@@ -1,6 +1,6 @@
 # 03_SERVED_ON_THE_RESPONDENT/03_earlier_service
 
-Served before 9 September 2026.
+Served on the Respondent before 9 September 2026.
 
 ## In this folder
 

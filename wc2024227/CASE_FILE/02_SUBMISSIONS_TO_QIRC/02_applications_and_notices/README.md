@@ -1,6 +1,6 @@
 # 02_SUBMISSIONS_TO_QIRC/02_applications_and_notices
 
-Applications and notices filed in the Registry.
+Applications and notices filed in the Industrial Registry.
 
 ## In this folder
 

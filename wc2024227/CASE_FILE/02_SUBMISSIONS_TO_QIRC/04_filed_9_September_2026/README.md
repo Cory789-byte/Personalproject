@@ -1,6 +1,6 @@
 # 02_SUBMISSIONS_TO_QIRC/04_filed_9_September_2026
 
-Direction 1 of the Further Directions Order (3). ⭐ The only documents FILED on 9 September 2026 — direction 2 material is served and NOT filed.
+Filed in the Industrial Registry on 9 September 2026 under direction 1 of the Further Directions Order (3) dated 19 August 2026. Material served under direction 2 is at 03_SERVED_ON_THE_RESPONDENT.
 
 ## In this folder
 

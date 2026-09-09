@@ -1,6 +1,6 @@
 # 02_SUBMISSIONS_TO_QIRC/03_affidavits
 
-⛔ The three February 2026 affidavits have NO TEXT LAYER. Render them; do not grep them.
+Affidavits filed in the Industrial Registry. The three February 2026 affidavits are scans without a text layer.
 
 ## In this folder
 

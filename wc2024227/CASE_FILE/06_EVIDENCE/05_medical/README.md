@@ -1,6 +1,6 @@
 # 06_EVIDENCE/05_medical
 
-Contention 1, s 32(1). Served 9 September 2026 behind the schedule of medical documents.
+The schedule of medical documents relied upon, served 9 September 2026.
 
 ## In this folder
 

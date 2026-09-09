@@ -1,6 +1,6 @@
 # 08_NOT_FOR_SERVICE
 
-⛔ Neither served nor filed, and not to be.
+Material that is neither served nor filed.
 
 ## In this folder
 

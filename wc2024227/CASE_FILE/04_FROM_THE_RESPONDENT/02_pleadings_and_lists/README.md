@@ -1,6 +1,6 @@
 # 04_FROM_THE_RESPONDENT/02_pleadings_and_lists
 
-The Respondent's own case and disclosure.
+The Respondent's statements of facts and contentions and its lists of documents.
 
 ## In this folder
 

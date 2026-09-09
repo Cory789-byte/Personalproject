@@ -1,6 +1,6 @@
 # 05_FROM_METRO_SOUTH/02_employment_correspondence
 
-The employment track. ⛔ Sequenced behind the appeal; keep its arguments out of appeal filings.
+Correspondence with Metro South Hospital and Health Service concerning the Appellant's employment.
 
 ## In this folder
 

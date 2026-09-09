@@ -1,6 +1,6 @@
 # 03_SERVED_ON_THE_RESPONDENT/02_direction_2_material_9SEP2026
 
-⛔ SERVED, NOT FILED. Direction 2 of the Further Directions Order (3).
+Served on the Respondent on 9 September 2026 under direction 2 of the Further Directions Order (3) dated 19 August 2026. Not filed.
 
 ## In this folder
 

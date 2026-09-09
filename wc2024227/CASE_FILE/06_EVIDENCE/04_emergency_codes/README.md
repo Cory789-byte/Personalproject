@@ -1,6 +1,6 @@
 # 06_EVIDENCE/04_emergency_codes
 
-⛔ Stressor 3 and the ONLY contested document in the case. Annexure A Tab 31; facts 228–231 not admitted; authenticity not admitted. The native workbook is on Metro South's systems.
+Screen capture of the workbook "2024 Emergency Code Register.xlsx", March 2024 sheet. Annexure A Tab 31. The native workbook is held on Metro South Health's systems.
 
 ## In this folder
 

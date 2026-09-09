@@ -1,6 +1,6 @@
 # 05_FROM_METRO_SOUTH/01_answer_to_the_commission
 
-Metro South is a non-party. Its letter of 5 June 2026 is Annexure A Tab 20 and is already before the Commission; its authenticity was not admitted on 8 September 2026.
+Metro South Hospital and Health Service's response to the notice of non-party disclosure, addressed to the Commission. Metro South Health is not a party to this proceeding.
 
 ## In this folder
 

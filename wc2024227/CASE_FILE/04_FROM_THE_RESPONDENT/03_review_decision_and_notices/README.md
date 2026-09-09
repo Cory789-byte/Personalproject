@@ -1,6 +1,6 @@
 # 04_FROM_THE_RESPONDENT/03_review_decision_and_notices
 
-⚠ The Review Decision copy here is a later re-save. The clean original (f59eb0c1…, sha256 d0b2a514…) is NOT in the repository — re-obtain it before any forensic use.
+Review Decision 69983 and notices of non-party disclosure issued by the Respondent. The copy of the Review Decision held here is a later re-save; the original file is not in the repository.
 
 ## In this folder
 

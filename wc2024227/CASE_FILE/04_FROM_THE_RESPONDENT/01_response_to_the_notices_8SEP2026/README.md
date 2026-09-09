@@ -1,6 +1,6 @@
 # 04_FROM_THE_RESPONDENT/01_response_to_the_notices_8SEP2026
 
-⭐ 298 of 303 facts admitted; 14 of 39 tabs disputed as to authenticity. See 07_WORKING_ANALYSIS for what that response is and is not.
+The Respondent's responses to the notices to admit facts and documents, and its covering letter, served on 8 September 2026.
 
 ## In this folder
 
