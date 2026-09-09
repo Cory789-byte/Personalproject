@@ -138,9 +138,144 @@ Add it to the two-hour reading task. **Do not put the delegation point until tha
 
 ---
 
-# 5. STILL TO READ
-- `Item 11_Leave form PRN 15480560 pandemic leave.pdf` (2pp) and `…Evidence pandemic leave.pdf` —
-  ⭐ the second may be the attachment ¶14(e) admits **was** present. **Render and read.**
-- `item 12 Pandemic leave switch_Redacted.pdf` — what was redacted, and by whom.
-- `Item 6 Role description Switchboard manager as at 2021.pdf` — ⚠ already known to be the
-  **manager's** role description, not the AO3. Read for what it says the manager was responsible for.
+# 5. ⭐⭐⭐ THE FOUR REMAINING SCANS — READ 9 SEPTEMBER 2026
+
+## ⭐⭐⭐ 5.1 `Item 11_Leave form PRN 15480560 Evidence pandemic leave.pdf`
+**It is a Commonwealth Statutory Declaration** (Statutory Declarations Act 1959), made by
+C. Shepherd, in these terms: *"On the 20th February 2024 have tested Covid positive"*.
+
+**The myGov execution block on its face:**
+> ⭐⭐⭐ **"Declared on 20 February 2024 at 11:38AM AEST"**
+> Document ID **35373a95-6335-4399-9e5f-a07f1a21aa7c**
+
+### ⭐⭐⭐ THE THREE MINUTES
+| | |
+|---|---|
+| **20.02.2024 11:24:48** | draft created (fact 114) |
+| ⭐⭐⭐ **20.02.2024 11:38** | **the statutory declaration is executed on myGov** |
+| **20.02.2024 11:41:27** | the application is **submitted** (fact 115) |
+| **21.02.2024 12:23:43** | ⛔ **declined by Ms Taylor** (fact 116) |
+
+⇒ ⭐⭐⭐ **The document whose absence was the stated reason for the decline was executed three
+minutes and thirty-three seconds before the submission it was attached to — and Metro South
+produced it, from its own file, in its own r 64C production.**
+
+⇒ This is the documentary proof of admitted **fact 134** (¶14(e): *"a review indicates that in fact,
+the attachments were present"*). Their own concession is now corroborated by their own record. The
+decline of 21 February cannot stand on its stated reason, and the Respondent no longer contests that.
+
+⚠ **The declaration bears his then-residential address.** ⛔ Do not quote the address; redact it if
+the page is ever tendered, and **do not connect the suburb named on it to anything** (CLAUDE.md
+rule 10). Nothing in the point requires the address — the date, the time and the subject matter are
+the whole of it.
+
+## ⭐⭐ 5.2 `Item 11_Leave form PRN 15480560 pandemic leave.pdf`, page 1 — the request
+| Field | Value |
+|---|---|
+| Process Reference | 000015480560 |
+| Leave Type | **Special Pandemic Leave** |
+| ⭐ Start / End | **20.02.2024 – 27.02.2024** |
+| "I do not have a roster yet" | **NO** |
+| Consent clause | insufficient entitlement is **debited from the sick leave balance** |
+
+⭐ **"I do not have a roster yet — NO"** is his own contemporaneous statement, on the employer's
+form, that he was rostered for that period. It sits beside the Item 15 footnote (§2.1) and the PP21
+omission as a third record on the same question.
+
+⚠ The consent clause is why the leave outcome matters financially: a failed pandemic-leave
+application does not simply lapse — it draws down accrued sick leave.
+
+## ⭐⭐⭐ 5.3 Page 2 — the Certification page. **The form itself separates Reviewer from Delegate.**
+Four signature roles, all completed:
+
+| Role | Name | Date |
+|---|---|---|
+| Employee | **Cory Shepherd** | 20.02.2024 |
+| ⭐ **Reviewer** | **Chloe Donovan-Taylor** | 29.02.2024 |
+| Manager | **Tammy Reese** | 01.03.2024 |
+| ⭐⭐⭐ **Delegate** | **Tammy Reese** | 01.03.2024 |
+
+The Delegate certification reads: *"I am the delegate, or I have approval from the delegate to
+approve this request… I have seen and will retain all the supporting documents not attached to this
+request."*
+
+### ⭐⭐⭐ Why this is the strongest corroboration of the §4.1 interlock
+1. **The employer's own form distinguishes the two roles.** "Reviewer" and "Delegate" are separate
+   certifications with separate wording. The distinction is Metro South's, not an argument of his.
+2. ⭐ **Ms Taylor signed as Reviewer. She never signed as Delegate.** Ms Reese signed the Delegate
+   certification, on 1 March 2024 — **nine days after the first decline and one day after the
+   second.**
+3. ⇒ **The two adverse decisions of 21 and 29 February were taken by the Reviewer, before any
+   Delegate certification existed on the form.** That is the interlock at facts 127–131 shown on the
+   face of the employer's own instrument, without a word of characterisation.
+4. ⭐ **The certified form shows only Ms Taylor's final 29.02 endorsement.** The two declines appear
+   **nowhere on the form** — they exist only in the myHR audit history (§4). ⇒ On the certified
+   record alone, the application looks like a clean nine-day approval. **The audit trail is the only
+   document that shows it was refused twice.** That is precisely why the r 64G production mattered.
+
+⚠ The Delegate wording is disjunctive — *"I am the delegate, **or I have approval from the
+delegate**"* — so the form does not itself establish that Ms Reese held Band 9. It establishes the
+opposite of what is needed against Ms Taylor: **that a Delegate certification was required, was a
+distinct act, and was not hers.** ⛔ The verification caution at §4.1 still stands before the
+delegation point is put.
+
+## ⭐⭐ 5.4 `item 12 Pandemic leave switch_Redacted.pdf` — a team-wide report, six months wide
+Not a "switch" document at all. It is a **QH Leave Takings Report**:
+
+| Parameter | Value |
+|---|---|
+| Unit | **72010875** (LOGH CORP Switchboard Operations) |
+| ⭐ Date From / To | **01/01/2024 – 30/06/2024** |
+| Leave Category / Type / Status | **ALL / ALL / All** |
+
+**Nine rows, every one "Special / Pandemic Full Pay Leave / PAND_FP", every one APPROVED.** Eight
+employees' names and payroll IDs are **redacted**. One is not:
+
+> ⭐ **Shepherd, Cory · 00388372 · 20/02/2024 – 27/02/2024 · 30.40 hours · APPROVED**
+
+### ⭐⭐⭐ 5.4.1 The scoping contrast — and it is the answer to §2
+**The same report type, produced by the same employer, in the same production:**
+
+| | Item 12 | Item 15 |
+|---|---|---|
+| Unit | 72010875 | 72010875 |
+| Filters | ALL / ALL / All | ALL / ALL / All |
+| ⭐ **Date range** | **01/01/2024 – 30/06/2024 (six months)** | ⛔ **19/03/2024 – 19/03/2024 (one day)** |
+| Scope | **the whole team** | **him alone** |
+
+⇒ ⭐⭐⭐ **Metro South can run this report team-wide across six months — it did, in this very
+production. When the subject was the Appellant's own leave, it ran the identical report for a single
+day.** The narrow scope at Item 15 was therefore a **choice**, not a limitation of the system.
+
+⇒ That defeats any suggestion that the absence of fatigue-leave or comparative material reflects
+what the system can produce. ⛔ **State the scoping contrast and stop.** Do not assert why it was
+scoped that way (rule 1: the asymmetry, held in reserve).
+
+⭐ **Nine pandemic-leave takings in the unit in six months, all approved.** His was approved too —
+**after two declines that no other row's history is before the Commission to match.** ⚠ The eight
+redacted rows carry no dates visible for comparison; **do not assert that his was the only one
+declined.** What can be said: nine were approved, and only one person's audit trail was produced.
+
+## ⭐ 5.5 `Item 6 Role description Switchboard manager as at 2021.pdf`
+⚠ Already flagged: this is the **manager's** role description, not the AO3 operator's. Metro South
+produced the wrong document against a request framed on his duties. Read for what it makes the
+**manager** responsible for — that is the only use it has, and it may be a use.
+
+---
+
+# 6. WHAT THE PRODUCTION AS A WHOLE NOW SHOWS
+
+1. ⭐⭐ **Everything produced is about the pandemic-leave episode.** Item 11 (×4), Item 12, Item 15,
+   Item 13 (×3) — eight of eleven substantive files go to February–March 2024 leave.
+2. ⛔ **Nothing was produced on the two matters the appeal actually turns on**: **no roster of any
+   kind**, and **no emergency-code or call-statistics material**.
+3. ⭐⭐ **The two Item 16 files that do go to worked hours are the redacted Daily Staffing Variance
+   Forms** — and they carry **no metadata at all**, stripped by redaction. They are also the two
+   documents signed by Ms Taylor at the time (13.02.24 and 01.03.24) recording *"Shift change 7hrs
+   worked"* — see the integrated file §10.
+4. ⭐⭐⭐ **The production proves, from Metro South's own systems, three things the Respondent's
+   pleading has to live with**: the statutory declaration existed before the submission (§5.1); the
+   Delegate certification was a separate act and was not Ms Taylor's (§5.3); and a scheduled shift
+   existed on 19 March 2024 in the fortnight whose published roster omits him (§2.1).
+5. ⚠ **Assembled 8 May – 2 June 2026, three days before the objection letter of 5 June.** State the
+   dates, never the inference.
