@@ -54,6 +54,16 @@ Send from **coryshepherd1@hotmail.com**.
 - `SEND_EMPLOYMENT_9SEP2026/Email_5_...long_service_leave.txt` — **employment track, not the appeal.**
   Kept out of this folder so it cannot be attached to an appeal email by mistake.
 
+## The two combined PDFs
+
+| File | What it is | Use |
+|---|---|---|
+| `WITNESS_LIST_AND_OUTLINES_9SEP2026.pdf` | 5 pages: a contents page, then the witness list and the three outlines exactly as served | Serve on the Respondent in place of four separate attachments if you prefer one file. ⛔ It carries direction 2 material, so it is **not** filed. The Registry gets the witness list on its own. |
+| `REVIEW_BUNDLE_9SEP2026.pdf` | 60 pages: everything going out today | Reading and printing only. Every page is stamped "not for service or filing". |
+
+Build them with `python3 drafts/build_9sep_outlines_bundle.py` and
+`python3 drafts/build_9sep_review_bundle.py`, after `build_9sep_final.py`.
+
 ## Rebuilding
 
 `python3 drafts/build_9sep_final.py` rebuilds every document from source, verifies that no metadata,
