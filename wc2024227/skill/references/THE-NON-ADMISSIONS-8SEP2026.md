@@ -616,6 +616,30 @@ one item that shows the fourteen were not assessed document by document, because
 this document individually refuses it. Hold it for the moment the pattern is ever put (§6), and use
 it there in one sentence, without an adjective.
 
+## 9.4 ⭐⭐⭐ AND THERE IS A STEP THAT ENDS THE TAB 20 QUESTION WITHOUT ANYONE CONCEDING ANYTHING
+**The original is on the Commission's file in this very matter** — it was written to Commissioner
+Dwyer, about the Form 29 in WC/2024/227, and it was the subject of the 7 August mention.
+
+⇒ ⭐⭐⭐ **Ask the Industrial Registry for a copy of the letter of 5 June 2026, ref K-LM26/729, as a
+document on the file in WC/2024/227.** ⭐ He is a party, it is his own matter, and **he is already
+attending the Registry this week to lodge the notices, the responses, their letter and Annexure A
+under §5 of his letter of 9 September.** ⇒ **Ask at the same time. It costs one line.**
+
+**If he obtains the file copy:**
+1. ⭐⭐⭐ **The authenticity dispute on Tab 20 is over, and it ends without the Regulator conceding
+   anything and without troubling Metro South.** He compares his copy with the file copy and proves
+   it in a sentence: *"That is the objection served on me under rule 64E(3)(b), and it is the
+   document on the Commission's file."*
+2. ⭐⭐ **Better than a concession**, because it does not depend on them and cannot be withdrawn.
+3. ⭐ **And it removes the most eye-catching tab from any future application**, leaving the narrowed
+   Tab 31 request standing alone — which is the posture §7 of
+   `AUTHENTICITY-vs-ADMISSION-what-each-buys.md` recommends.
+
+⚠ **If the Registry declines**, nothing is lost: the contents are admitted at facts 263–268 anyway,
+and the refusal simply stays where it is, on the file, for the one sentence in closing.
+⛔ **Ask neutrally, as a routine request for a copy of a document on the file. No explanation, no
+reference to the authenticity dispute, no adjective.**
+
 ---
 
 # 10. ⭐⭐ RED TEAM — THE RESPONSE READ FROM THE APPEALS UNIT'S SIDE
