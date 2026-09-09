@@ -178,3 +178,100 @@ not on an independent psychiatric report.
    objection aimed at any over-reach. ⇒ **Re-read the Shepherd outline once more against the
    admitted-fact numbers before anything further is served.**
 6. ⛔⛔ **None of this document is ever put, hinted at, or referred to.**
+
+---
+
+# 10. ⭐⭐⭐ THE SECOND READ — THE EMAIL AND THE WITNESS MATERIAL, AND WHAT THEY LEARN ABOUT THE PLAN
+> Added 9 September 2026 after reading `Email_2_to_Regulator_directions_and_request.txt`, the filed
+> witness list, and the Harrison-Jones and Conaghan outlines. ⛔⛔ **INTERNAL ONLY.**
+
+## 10.1 ⭐⭐⭐ THE WITNESS LIST IS THE DOCUMENT THAT WILL WORRY THEM MOST
+| # | Who | Why it matters to them |
+|---|---|---|
+| 1 | the Appellant | — |
+| 2–3 | ⭐ **Dr Krishnaiah, Dr Hawes** — expressly identified as **expert witnesses within Part 4.11 of the Guide** | **he knows the Guide** |
+| 4 | ⭐⭐⭐ **Mr Cory Harrison-Jones** — ex-Switchboard, **has left MSH, now Queensland Ambulance Service** | ⭐⭐⭐ **an insider who has got out. Nothing at stake, nothing to manage.** |
+| 5 | ⭐⭐⭐ **Ms Patricia Conaghan** — ⭐ **a CURRENT MSH Administration Officer, still in Switchboard Services** | ⭐⭐⭐ **a serving employee giving evidence for the Appellant against her own department's manager** |
+
+⇒ ⭐⭐⭐ **One insider who escaped and one still inside. That combination is what they will think about
+longest.** ⭐ **If they call Ms Taylor, Ms Conaghan contradicts her from inside the same room. If they
+do not, Ms Conaghan is uncontradicted.**
+
+⭐⭐ **And the list forecloses the obvious response in advance:** *"The Appellant **may apply under
+Part 6 of that Guide for attendance notices** requiring the attendance of the witnesses named at
+items 2 to 5."* ⇒ **He has said, in a filed document, that the evidence is coming whether or not
+anyone is comfortable.**
+
+## 10.2 ⭐⭐⭐ THE TWO LAY OUTLINES CLOSE THE s 32(5)(a) DOOR BEFORE THEY CAN OPEN IT
+⭐⭐⭐ **Both end on the same proposition, independently:**
+- Harrison-Jones ¶7: *"did not at any time hear the Appellant say anything hostile about Ms Taylor or
+  about any other member of staff"*
+- Conaghan ¶13: the same.
+⇒ ⭐⭐⭐ **Two witnesses pre-empt the "difficult employee" answer before it is run — and one of them
+still works there.**
+
+**And both read the Communication Book on handover** (H-J ¶3, Conaghan ¶9): *"did not see in it any
+entry made by the Appellant that criticised any person, directly or indirectly."*
+⇒ ⭐⭐ **That is why refusing fact 154 cost them nothing and gained them nothing: he does not need
+their List of Documents. He has two people who read the book.**
+
+## 10.3 ⭐⭐⭐ EVERY LIMB NOW HAS A WITNESS WHO IS NOT HIM
+| Limb | Corroborated by |
+|---|---|
+| **the means withheld** | ⭐⭐⭐ H-J ¶4–5: **he received the Stibbard email of 18 July 2023** removing database access, and operators then had to wait · Conaghan ¶8, the same for May 2024 |
+| **consultation** | ⭐⭐⭐ Conaghan ¶10–11: **not consulted and not balloted** on the 15 April on-call change, or on any roster change before 30 June 2024 ⇒ **"he wasn't consulted" becomes "the team wasn't consulted"** |
+| **the conditions of the work** | ⭐⭐⭐ Conaghan ¶2–4: distressed, angry and abusive callers, **threats of harm**, demands for the operator's name; clinicians holding the operator accountable for others' failures |
+| **the pathology delays** | ⭐⭐ Conaghan ¶5: the process before and after, and **what callers said about results that had not reached the treating team** — ⭐ the Stressor 1 allegation Dwyer pressed at [12:38] now has a witness |
+| **the misdirected calls** | ⭐⭐ Conaghan ¶7: what she was told at the console **between 2 and 8 May 2024** |
+| **deterioration** | ⭐⭐ Conaghan ¶12: change observed in him at work — ⭐ *"She offers no opinion as to diagnosis or cause."* **Properly limited, and it is the *McCool* [26] independent-witness point** |
+
+⇒ ⭐⭐⭐ **Their read: this is no longer a self-represented appellant relying on his own account.**
+
+## 10.4 ⭐⭐⭐ AND HARRISON-JONES ¶6 IS THE PARAGRAPH THEY WILL PREPARE FOR
+> *"…what Ms Taylor said to the Appellant about the removal of a reminder, the sequence in which each
+> of them spoke, and **the manner and volume in which it was said, from his own observation**."*
+
+⭐⭐⭐ **An eyewitness to how a manager spoke to him, from a man no longer employed by Metro South.**
+**That is the "in a reasonable way" limb of s 32(5)(a) evidenced by a third party** — and the drafting
+is careful: it characterises nothing, it lists what he will describe.
+⚠ **They will read it as the one paragraph aimed at a person, and they will prepare Ms Taylor for
+it.**
+
+## 10.5 ⭐⭐ WHAT THE EMAIL TELLS THEM ABOUT THE PLAN
+1. **Direction 1 filed and served; direction 2 served and not filed** — ⭐ **exact compliance, on the
+   day, described in the Order's own words.**
+2. ⭐⭐⭐ **Three clocks now run, and every one expires before their own material is due:**
+   **Fri 11 Sep** (objection to the filing course) · **Fri 18 Sep** (produce, confirm or admit) ·
+   **Tue 30 Sep** (their witness list and outlines).
+3. ⭐⭐ **The fallback is stated, not threatened:** non-party disclosure to MSH **limited to the
+   schedule**, with the correspondence referred to if costs arise.
+⇒ ⭐⭐⭐ **The plan they will read: clear every procedural question before 30 September, so that when
+their material lands nothing else is open.**
+
+## 10.6 ⭐⭐⭐ THE CONCLUSION THEY WILL DRAW — AND IT IS DOUBLE-EDGED
+**Everything in the package points at a hearing**: five witnesses, attendance notices flagged,
+outlines that pre-empt defences, a schedule that fences each medical document, and a filing course
+that puts the whole record before the Commission.
+
+⇒ ⭐⭐ **It raises settlement value.** ⚠ **And it removes any impression that he is looking for a way
+out.** ⭐ **They will read it as: he will not settle cheaply.** ⭐⭐ **Which is the right message,
+provided he is genuinely prepared to run it — and on this material he is.**
+
+## 10.7 WHAT STILL COMFORTS THEM
+1. ⭐ **No report** — though Guide §7.7 means that matters less than it first appears (§10 of the
+   outline file).
+2. ⭐ **Conaghan ¶12 disclaims diagnosis and cause** — ⇒ **the lay evidence cannot reach causation.**
+3. ⚠ **Neither lay outline is signed by the witness, and both say so.** ⇒ ⭐ **They will test whether
+   the witnesses adopt them.**
+4. ⭐ **s 32(5)(a) remains the battlefield and it is a real fight.**
+
+## 10.8 ⚠⚠ TWO THINGS FOR HIM, AND THE SECOND IS THE IMPORTANT ONE
+1. ⚠ **The list says *"The Appellant **will** call the following witnesses"* — unqualified.** ⭐
+   Mitigated by the attendance-notice sentence that follows, but it is a filed commitment. **No
+   action; just be aware of it if a witness falls away.**
+2. ⭐⭐⭐ **Ms Conaghan is a serving Metro South employee and her name is now with the Regulator,
+   which liaises with Metro South.** ⚠⚠ **That is a real-world exposure for her, not a legal problem
+   with the filing — direction 1 required the name.**
+   ⇒ ⭐⭐⭐ **Move to an attendance notice for her sooner rather than later, once hearing dates issue.
+   A summonsed witness attends under compulsion; a volunteer attends by choice. The compulsion
+   protects her, and it protects the evidence.** ⭐ **Tell her that is why it is being done.**
