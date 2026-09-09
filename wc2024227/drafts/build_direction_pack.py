@@ -53,7 +53,7 @@ def heading():
 W=[("1","Cory Lea Shepherd","Appellant"),
    ("2","Dr Ravikumar Bangalore Krishnaiah","Consultant Psychiatrist, Mind and Memory Service &ndash; the Appellant's treating psychiatrist"),
    ("3","Dr Peter Hawes","General Practitioner, Our Medical Ashmore &ndash; the Appellant's treating general practitioner at the date of injury"),
-   ("4","Mr Cory Harrison-Jones","Worked at Switchboard Services, Logan Hospital, with the Appellant"),
+   ("4","Mr Cory Harrison-Jones","Formerly of Switchboard Services, Logan Hospital, with the Appellant; now an officer of the Queensland Ambulance Service"),
    ("5","Ms Patricia Conaghan","Administration Officer, Switchboard Services, Logan Hospital")]
 s=heading()
 s+=[Spacer(1,4*mm),

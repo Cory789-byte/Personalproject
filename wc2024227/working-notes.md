@@ -7498,3 +7498,20 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
   the Regulator to use it as perception material; schedule row 4 already fences attribution. Item 5 (the
   clinical records) still not received; serve on receipt. Tab 31 / facts 228–231 to be pressed by the
   request letter, then by attendance notice to MSH if nothing comes by 18 September.
+
+### 2026-09-09 — ⛔ CORRECTION on Mr Cory Harrison-Jones (Cory's instruction, same day)
+The 20 August note ("who is a **current MSH employee**", working-notes ~6424) is **wrong and superseded**.
+Cory documents that Harrison-Jones **is no longer a Switchboard employee and is no longer employed by
+Metro South Hospital and Health Service; he is now an officer of the Queensland Ambulance Service.**
+- The witness list and his outline of evidence now say so, as served on 9 September 2026.
+- ⭐ **This reverses the August risk assessment on him.** That assessment rested on his being inside
+  Metro South, and it is the reason he was marked "DO NOT COMPEL". He is now outside Metro South's
+  control, which removes the employment pressure on a witness giving evidence against it. He is on the
+  witness list and will be called; an attendance notice under Part 6 of the Guide remains available and
+  is now a much lower-risk step than it was in August.
+- ⚠ Still **not** documented, and therefore **not** asserted anywhere: his classification while at the
+  Switchboard (an earlier draft called him a "temporary part-time operator" — unsupported, removed) and
+  the dates he worked there. His own outline item 2 gives the period from his own knowledge
+  ("approximately three months"). If the classification or dates are needed, take them from him.
+- ⚠ Do not write that he has left **Queensland Health**. Metro South HHS and the Queensland Ambulance
+  Service are different employers; what is documented is that he has left Metro South.

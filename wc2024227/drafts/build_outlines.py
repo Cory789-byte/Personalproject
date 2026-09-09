@@ -160,8 +160,9 @@ OUTLINES = [
   ]),
 
  ("OUTLINE_02_HARRISONJONES", "OUTLINE OF EVIDENCE &ndash; MR CORY HARRISON-JONES", TAIL_W,
-  "Mr Harrison-Jones worked at Logan Hospital Switchboard alongside the Appellant. He is expected to "
-  "give evidence of the following.",
+  "Mr Harrison-Jones worked at Logan Hospital Switchboard alongside the Appellant. He is no longer "
+  "employed at the Switchboard or by Metro South Hospital and Health Service, and is now an officer of "
+  "the Queensland Ambulance Service. He is expected to give evidence of the following.",
   [("", "That a function of the Switchboard was to hold and maintain accurate contact and paging "
     "numbers for medical staff, including on-call doctors, so that calls and emergency "
     "notifications could be directed to the correct person."),
