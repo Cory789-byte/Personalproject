@@ -615,3 +615,89 @@ himself**, and this is a document on his own file.
 one item that shows the fourteen were not assessed document by document, because nobody assessing
 this document individually refuses it. Hold it for the moment the pattern is ever put (§6), and use
 it there in one sentence, without an adjective.
+
+---
+
+# 10. ⭐⭐ RED TEAM — THE RESPONSE READ FROM THE APPEALS UNIT'S SIDE
+
+⛔ Internal. Written to find out whether the 8 September response was the mistake it looks like.
+**Conclusion: no, not overall. It was right in substance, wrong in form, wrong on three tabs, and
+wrong in one strategic respect that matters more than the other two.**
+
+## 10.1 The case that it was correct — and it is a good case
+
+1. **You cannot admit what you have not seen.** Admitting authenticity is a representation to the
+   Commission. A single appeals officer, 14 days, 303 facts, 39 documents, 133 pages.
+2. ⭐ **The rule makes declining the safe default.** An admission can only be withdrawn **with
+   leave** (r 49(3)). A refusal costs nothing — the appellant proves the document, or it is admitted
+   later once checked. The asymmetry is deliberate, and a careful officer declines everything
+   unverified.
+3. **298 of 303 was the concession.** The whole documentary chronology was given away. Reserving 14
+   unverified copies is the minimum consistent with having done that.
+4. ⭐⭐ **The pattern at §3 exists *because* the officer was consistent.** Admit what I hold, decline
+   what I don't, applied evenly to 39 tabs. A sloppier officer who admitted eight of the fourteen at
+   random would leave no pattern at all. **The best point against them is a by-product of them doing
+   the job properly** — which is exactly why it must be stated flat and never as an accusation
+   (§4, §9.2).
+5. ⚠ **Tab 20 has an answer, and it should be expected.** *"I admitted what the letter says because
+   I have seen the letter — it is in this proceeding. I have not certified that this printout is a
+   true and complete copy of it."* The 5 June letter carried **enclosures for items 6, 11, 12, 13,
+   15 and 16**; Tab 20 annexes the letter. Completeness is a fair question. It is not the knockout
+   it looks like.
+
+## 10.2 ⭐⭐⭐ Tab 31 is not a slip. It is the one deliberate refusal, and it is well aimed.
+
+It is the **only** tab where both the copy and the contents were refused. Read the MSH objection
+from their side:
+
+> Items 1 and 2 — SPOK emergency paging export. *"**The requested records do not exist. The system
+> was upgraded in SPOK, and records predating that upgrade were not retained.** However, a
+> spreadsheet of recorded MET calls is available for the period 17-18 March 2024."*
+
+⇒ **There is no system export to check Tab 31 against.** It is a screen capture of a Switchboard-kept
+Excel workbook — the Appellant's own artefact, not a system record. And it is the sole evidence
+quantifying the workload during the seven-hour break, the one limb where the employer's own rule
+answers by subtraction.
+
+⚠⚠ **And the MET spreadsheet only partly corroborates it:**
+
+| Tab 31 records | Covered by the MSH spreadsheet? |
+|---|---|
+| 17 Mar — MET CALL 19:16, MET CALL 21:16 | ✅ MET calls, 17–18 March |
+| 17 Mar — **CODE BLUE** 19:20 | ⛔ not a MET call |
+| 18 Mar — **CODE GREY QAS TRIAGE AIRLOCK** 8:48 | ⛔ not a MET call |
+| 18 Mar — MET / NEONATAL MET calls | ✅ |
+| **19 Mar** — MET CALL 11:34 *"CALLED VIA SWITRCHBOARD"* | ⛔ **outside the 17–18 March period** |
+
+⇒ **Whatever is produced will corroborate some of Tab 31 and cannot corroborate the rest.** Plan for
+that now, not on the day.
+
+## 10.3 What they got wrong
+
+1. ⛔ **The form.** Unsigned, unreasoned, stamped onto the Appellant's own PDFs (§3A, §3B). A
+   separate signed document with one line per refusal — *"not within the Regulator's knowledge; the
+   Regulator holds no copy"* — was twenty minutes' work and would have erased §3A and most of §3.
+   An unforced error, and it is the half a Commissioner actually sees.
+2. ⛔ **Three tabs they cannot explain in a sentence.** **Tab 6** (their own amended List names the
+   email at item 25), **Tab 30** (their own Review Decision quotes it, and that quotation is
+   admitted fact 70), **Tab 20** (they admitted its date, reference, signatory and addressee at
+   fact 263). Three weak refusals make the eleven defensible ones look worse than they are.
+3. ⭐⭐⭐ **The strategic error, and it is the real one. They hid their best card in a fan of bad
+   ones.** Conceding eleven and refusing only Tab 31 would have cost them nothing — the contents
+   were admitted anyway — and would have left the Appellant with a single contested document and no
+   pattern. Instead they produced a fourteen-row schedule: **the narrow, single-document application
+   Dwyer said he could decide "very quickly"** [61:31], to replace the sprawling one the Appellant
+   had already abandoned.
+
+## 10.4 ⚠ THE OPERATIVE LESSON, AND IT CUTS AGAINST US
+
+Their real case is **Tab 31 alone**. Everything else is noise they generated.
+
+⇒ **Do not spread across all fourteen.** Fighting all of them does their sorting for them and
+dilutes the only contest that decides anything. Concede the nine, note the three in a sentence if
+the pattern is ever put, and **put the weight on Tab 31**.
+
+⇒ And on Tab 31, the exposure is provenance, not authenticity: *is the register a contemporaneous
+Switchboard record, kept in the ordinary course, or a document assembled later?* That is the
+question to be ready for. It is answered by evidence about **how the workbook was kept and by
+whom** — not by the screen capture.
