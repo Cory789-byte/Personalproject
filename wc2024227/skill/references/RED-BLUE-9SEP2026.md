@@ -183,3 +183,79 @@ outweighed. (The 2013 *"major significant"* test was repealed in 2019, long befo
 The narrow case never depended on the medical wording, so **65–70% stands**. The broad case improves
 slightly — call it **45–50%** — because one of its two risks was over-rated. ⚠ **The *Delaney* risk
 is independent and unchanged**, which is why the narrow run remains the right one.
+
+---
+
+# PART 5 — ⭐⭐⭐ THE ARC AND *DELANEY*: THE OBSERVATION IS RIGHT, THE EFFECT IS BACKWARDS
+
+Cory: *"the arc seems to support Delaney in every aspect."* **Correct as an observation, and that is
+precisely the problem.**
+
+## 5.1 *Delaney* has a threshold, and the threshold is the worker's protection
+
+> ***Delaney* permits global evaluation ONLY where actions are joined by subject matter, time and
+> personality.** ⭐⭐ **That threshold is the WORKER'S protection.**
+
+⇒ It is **not** a hurdle to clear. It is a **gate that keeps his strongest factor from being diluted.**
+
+## 5.2 What global evaluation actually does
+
+> ***Delaney*** — *"lets you sweep an **UNREASONABLE** factor into a **REASONABLE** whole. The
+> aggregation engine."*
+
+⭐⭐⭐ **It dilutes. It does not accumulate.** More strands do not add up — they average out. One
+unreasonable act among a dozen defensible ones reads as reasonable overall.
+
+## 5.3 ⛔⛔ AND IT HAS ALREADY BEEN RUN ON HIM, SUCCESSFULLY
+
+**Review Decision 69983 found the 17–18 March rostering unreasonable — and then excluded the claim
+anyway, on the global approach.** That is not a risk to be modelled. It is the decision under appeal.
+
+⇒ ⭐⭐⭐ **The arc is the raw material that engine needs.** Running it as the case in chief supplies
+the joinder in subject matter, time and personality that lets them do to the 7-hour break exactly
+what the reviewer already did to it.
+
+**The very coherence that makes the arc persuasive is what satisfies the threshold that destroys it.**
+
+## 5.4 ⭐⭐ THE RIGHT MOVE IS THE OPPOSITE ONE — DENY THE THRESHOLD
+
+> *"The Delaney threshold (subject matter/time/personality) was **never tested** — factors differ on
+> all three. Lead **Mahaffey**, keep Delaney as support."*
+
+The reviewer **recited the threshold and skipped it**. Attack that:
+
+| Element | The answer |
+|---|---|
+| **Subject matter** | Rostering and fatigue · directory access and emergency routing · payroll administration. Three different subjects |
+| **Personality** | Ms Taylor · Ms Reese · Ms Stibbard · Metro South Payroll. Different actors |
+| **Time** | Discrete, separated events, not one continuous act |
+
+⇒ **No joinder, no global evaluation. Each stressor stands alone — and the one that stands alone
+unreasonably is not diluted.** That is *Mahaffey*, and it is how the decision under appeal is beaten
+on its own reasoning.
+
+## 5.5 ⭐ And a second, independent attack on the same decision
+
+The reviewer's counting formula produced *"two out of the three… **mainly** arose out of such
+management action."* ⭐⭐ ***"Mainly" is a dominant-cause test*** — which ***Adams*** [2015] ICQ 1 at
+[23], adopting ***Hochen***, **rejected**. The statutory test is *"a significant contributing
+factor"*, not the main one.
+
+⇒ Two errors in the decision under appeal: **an untested aggregation threshold, and a dominant-cause
+formula.** Neither requires the arc.
+
+## 5.6 ⚠⚠ THE CAVEAT THAT LIMITS ALL OF PART 5
+
+⛔ ***Delaney*, *Bowers*, *Prizeman* and *Rowe* have been read only THROUGH Review Decision 69983 —
+not to ratio.** The repository lists *"read Bowers, Davis v Blackwood, Mahaffey, Delaney to ratio —
+two hours — before any submission"* as an **open task**, and it is still open.
+
+⚠ Everything in Part 5 rests on the reviewer's own use of *Delaney* and on the repository's analysis
+of it. **Before any of it is put to the Commission, the judgments must be read.** The standing rule
+after the *Prizeman* error is that no case is cited from a summary.
+
+## 5.7 The call, restated
+
+Nothing here moves the numbers — **it explains them.** The broad run sits lower **because** the arc
+satisfies the aggregation threshold. Deny the threshold, lead the single stressor, and the 65–70%
+narrow figure is the one that applies.
