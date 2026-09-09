@@ -7602,3 +7602,45 @@ Every legal citation in the 9 September documents, checked against the instrumen
   condition and *"maintained in all later work capacity certificates"*; Dr Hawes to WorkCover on
   2 Sep 2024 that work events were the **sole cause**; and *"I am satisfied your employment was a
   significant contributing factor to the psychological injury."*
+
+---
+
+## 9 September 2026 (evening) — the non-admissions, read against the mention
+
+Closed the loop between what Commissioner Dwyer explained on 7 August 2026 and what the Regulator
+did on 8 September. Written up at `skill/references/THE-NON-ADMISSIONS-8SEP2026.md`. ⛔ Internal.
+
+**The finding.** The Form 25 answers sort **perfectly** along the "Copy produced from" column of the
+Appellant's own schedule — **39 of 39 tabs, no exception in either direction**. All 14 tabs sourced
+"Copy from the Appellant's own records" are disputed; all 25 from every other source are admitted,
+**including Tabs 1A and 8B, which came from the Appellant** but in bundles already served on the
+Respondent on 11 August 2026. So the discriminator is not the Appellant; it is whether the
+Respondent holds a copy to check against. No reason was given for any of the 14, no discrepancy
+identified, no competing copy produced, and no assertion that any document is not genuine.
+
+**The interlock.** Dwyer at [15:40] — *"if you say something and it's not contradicted… it will be
+accepted"* — and at [28:56] — *"doesn't contradict it, doesn't cross-examine you, doesn't produce
+documents… that's a problem for them, not for you"*. Those were explanations, not rulings, and were
+said before any admission existed. They are worth more now: for 13 of the 14 disputed tabs the
+Form 24 **admits what the document says**, so the Respondent admits the words and disputes the copy,
+and has nothing to put in cross-examination.
+
+**⭐ Tab 31 is the one that matters.** It is the only disputed tab whose contents were also refused
+(facts 228–231, the emergency codes of 17–19 March 2024 — the workload record for the seven-hour
+break). In the same response fact 268 is **admitted**: MSH's letter to Commissioner Dwyer states
+*"a spreadsheet of recorded MET calls is available for the period 17-18 March 2024"*. They refused
+the copy and admitted the original exists. Tab 20 is the same shape — a letter on the Commission's
+own file, authenticity disputed, contents admitted at facts 263–268.
+
+**⛔ Tactical decision: the pattern is NOT put to the Regulator.** Its value is that no reason has
+been given; asking for one invites a reason, and a thin reason on the file helps them. The request
+letter of today already offers the way out (produce/confirm, or admit) by Friday 18 September and
+cites Dwyer's *"the starting point is to ask the regulator"* [18:55]. It stays as served. The
+pattern is a submission to the Commission, made once, late, only if the dispute is still alive.
+
+⚠ **Do not argue impropriety.** r 49(2) permits a dispute without reasons. Impropriety is a
+*Briginshaw* allegation and motive-reasoning, and it is the one way to lose the point. Argue the
+consequence: the dispute is about the absence of a corroborating copy, not about the documents.
+
+Next: 18 Sep (reply falls due) → non-party disclosure to MSH limited to the schedule if not →
+30 Sep (Respondent's witness list; attendance notices if Taylor and Reese are absent).
