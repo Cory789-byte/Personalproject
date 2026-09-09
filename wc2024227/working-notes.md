@@ -7753,3 +7753,51 @@ fourteen disputed tabs — every one a document Metro South holds — expressly 
 union email, the one Metro South could not supply. That exclusion was correct.
 
 `skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §3C.1.
+
+### 9 September 2026 — rosters and pay: what is held, and the comparator that was already deleted
+
+**Asked for:** rosters over the periods where the Appellant earned less than colleagues, and payslip
+examples of the difference.
+
+**⛔ 1. No 2024 payslips are held.** The repository holds FY2025–26 payslips and 2026 payroll
+correspondence only. The pleaded pay period is **February to May 2024** and there is no payslip for
+any part of it. The index says so in three places. ⇒ *"Payslip examples of the differences" cannot
+be produced from the file as it stands.* Per the Respondent's own pleading an **amended payslip of
+24 April 2024** exists — that is what the Form 29 to Queensland Health of 4 July 2025 was built to
+obtain.
+
+**⛔ 2. The colleague comparator was deliberately deleted, and the reasons still hold.** Recorded at
+the Form 24 strategy stage: the comparator payslip (Exhibit D1) **is not held**; it depends on
+Form 29 **Item 17**, which Metro South objected to on **privacy** under r 64E(4)(e); the figure is
+ambiguous (**42% of his own gross, 29.8% of the comparator's**); and ⭐⭐ **it cuts against the
+fatigue case** — it asserts he was rostered *too few* hours while the case is that his *recovery
+time was too short*. Add a fourth reason now: **Dwyer already misread it at [51:35]** as the
+Appellant and colleagues being underpaid 42%, and the correction was only half made. Reviving the
+comparator re-opens the one thing on the record that went wrong and was never fixed.
+
+**⭐ 3. The version that survives is Cory-vs-Cory, not Cory-vs-colleagues.** Public holiday "not
+required" (working note 23 Aug 2026): his own entitlement under Award s 23, no comparator, no
+privacy objection, and it does not carry the too-few-hours defect. Open actions there remain (a)
+open the Award at s 23 and cl 19.2(a); (c) resolve whether "Public Holiday not Worked" is a payroll
+code distinct from the s 23 entitlement.
+
+**⭐⭐ 4. Action (b) — the rosters — advanced today. 91 roster files held.** Coverage is **unbroken
+PP17 (22 Jan 2024) through PP27 (23 Jun 2024)**, the whole pleaded period; 2023 has gaps (PP28 Jun →
+PP07 Sep, PP08 → PP11, PP12 → PP14, PP15 → PP17). ⛔ **Every roster is a scan with no text layer —
+grep cannot see any of them.** Render with `pypdfium2` and read the page.
+
+⭐⭐ **PP21, 18–31 March 2024, v1.0 — the Appellant has NO LINE ON THE ROSTER AT ALL.** Thirteen
+named operators appear (Jeffrey, Abbott, De Iacovo, Conaghan, Court, Parry, Fitzpatrick,
+Sutton-Mason, Ismail, Hu, Malsbury, Nelson, Kendrick, plus a Casual/Training row). He is not among
+them, and this is not a leave marking — a person on leave keeps a row with A/L in it (Fitzpatrick
+has exactly that). ⇒ **The fortnight beginning the day after the 7-hour break does not contain him.**
+The header marks **29, 30 and 31 March 2024 in red** (Good Friday, Easter Saturday, Easter Sunday);
+every other operator carries shifts across them. ⛔ **No v2.0 of PP21 is held.**
+
+**PP20, 4–17 March 2024, v1.0 — he IS on it**, sixth row, *Shepherd, Cory, 388372, FT*.
+⚠ His individual shift cells were read from a scan and are **not** to be asserted without a careful
+zoomed read; the 7-hour break is admitted at fact 1 in any event and does not need the roster.
+
+⚠ **Unresolved:** the Review Decision at p 15 is recorded as saying he **was** rostered on Good
+Friday 29 March and Easter Sunday 31 March 2024, which the only PP21 roster held contradicts.
+Resolve before either is asserted.
