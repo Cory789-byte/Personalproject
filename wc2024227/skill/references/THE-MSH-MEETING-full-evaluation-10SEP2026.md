@@ -83,3 +83,61 @@ with people, or only with paper.** ⭐⭐ **She already knows the paper is again
 she has to say so in the room.**
 ⇒ ⭐⭐⭐⭐ **The 30 September witness list is Metro South's answer to that question, and it is the
 single most informative document remaining in this appeal.**
+
+---
+
+# 10. ⭐⭐⭐⭐ WHY CONFERENCING CAME BEFORE CERTIFICATION — AND WHAT IT EXPOSES
+
+## 10.1 ⭐⭐ THE SEQUENCE IS ORDINARY
+| | |
+|---|---|
+| **4 Jul 2025** | NNPDs to Queensland Health, Mind and Memory, Our Medical Ashmore |
+| **14 and 22 Jul 2025** | disclosure made |
+| **27 Apr 2026** | NNPD to Queensland Health (K Wright) — the leave-form audit trail |
+| **13 May 2026** | amended SOFC |
+| ⭐ **11 Jun 2026** | supplementary disclosure — *"received through Notice of Non-Party Disclosure request **and conferencing**"* |
+| **14 Aug 2026** | amended List of Documents + NNPD copies served |
+| ⛔ **8 Sep 2026** | **authenticity of fourteen tabs disputed** |
+
+⭐ **Conferencing is INVESTIGATIVE — you talk to the officers, they hand over what they hold, you
+find out what happened. It builds a review position and a pleading.** ⭐ **Certification only becomes
+an issue when someone proposes to TENDER — which did not arise until his Form 25 of 28 August 2026.**
+⇒ **So the order is normal: investigate, plead, then deal with tender mechanics when raised.**
+
+## 10.2 ⭐⭐⭐⭐ BUT THE ORDINARY SEQUENCE HAS AN EXTRAORDINARY CONSEQUENCE HERE
+⇒ ⭐⭐⭐⭐ **By the time they disputed authenticity, they had ALREADY COLLECTED THE DOCUMENTS FROM
+THE CUSTODIANS.** ⭐⭐ **The dispute was raised by the party holding the means of resolving it in its
+own files.**
+
+## 10.3 ⭐⭐⭐⭐ AND THE PROOF IS TAB 5 — VERIFIED
+> **Fact 103, source:** *"**Respondent's disclosure from witness conferencing (C Taylor)** —
+> Annexure A **Tabs 5**, 9, 10, 13, 14"*
+
+⭐⭐⭐⭐ **Tab 5 — Ms Taylor's email to the Appellant of 27 September 2023, 1:52 pm, *"Approved -
+Permanent Full Time FTE"* — came to him from the RESPONDENT'S OWN CONFERENCING OF ITS AUTHOR.**
+⭐⭐ **Its contents are admitted at fact 38.**
+⛔⛔ **And on 8 September they disputed its AUTHENTICITY.**
+
+## 10.4 ⭐⭐⭐⭐ AND THE INTERNAL INCONSISTENCY IS INSIDE A SINGLE SOURCE
+⭐ **Five tabs came from that one conferencing session: 5, 9, 10, 13, 14.**
+⇒ ⭐⭐⭐⭐ **Four were not disputed. ONE — Tab 5 — was.** ⭐⭐ **There is no principle in that.**
+⇒ ⭐⭐⭐ **This is the cleanest available proof that the 8 September authenticity dispute was a
+BLANKET PRECAUTION applied to documents served from his records, not a considered position — and it
+cannot survive the check she is now going to run.**
+
+## 10.5 ⭐⭐⭐⭐ AND IT SHARPENS WHAT THE MSH MEETING IS ACTUALLY FOR
+⛔ **She does NOT need to go to Metro South to find out what Ms Taylor would say. She has known
+since mid-2026 — she conferenced her.**
+⇒ ⭐⭐⭐⭐ **She needs to go to find out whether Metro South will let her CALL them, now that the job
+has changed: before 8 September a witness was a NARRATOR of admitted-to-be-proved events; after
+8 September a witness is a DEFENDER of reasonableness against a record that includes her own
+review decision's finding.**
+⇒ ⭐⭐⭐ **The conferencing answered the "what will they say" question a year ago. The meeting
+answers the "will they stand up and say it" question. Only the second is open.**
+
+## 10.6 ⛔ HOW THIS IS USED — AND IT IS ONE SENTENCE, LATE
+⛔⛔ **Never write to her about Tab 5. Never raise it before she answers on 25 September.**
+⭐⭐⭐ **If Tab 5 is still disputed after 25 September, it is one line in a submission:**
+> *"Tab 5 was produced to the Appellant by the Respondent, from its own conferencing of the
+> document's author, and its contents are admitted at fact 38."*
+⭐⭐ **That sentence ends the authenticity question and needs no adjective.**
