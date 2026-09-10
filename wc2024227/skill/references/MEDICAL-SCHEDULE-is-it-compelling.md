@@ -431,3 +431,56 @@ short and dated — *"that commenced around December 2024, six months after onse
 further.** ⛔⛔ **Never volunteer detail, never explain, never let it open.**
 ⭐⭐ **And the same rule governs any report or any question put to a doctor: the DATE is the answer,
 and the date is enough.**
+
+---
+
+# 11. ⭐⭐⭐⭐ AND THE ATTACK THEY WOULD READ FOR IS ALREADY ANSWERED IN THE SET
+
+## 11.1 ⭐⭐⭐ WHAT TAB M5 PUTS IN FRONT OF THEM
+1. ⭐ **Their OWN Form 29** to the practice, sealed 4 July 2025 — the three statutory questions
+2. ⭐⭐⭐ **His email of 5 September** putting those questions to Dr Krishnaiah *"from his own
+   assessments and records"* — ⭐⭐⭐ **including point 4: *"Non-employment factors in your 13 February
+   2025 report (relationship breakdown, job loss, bereavement) — AND WHEN EACH SITS RELATIVE TO
+   ONSET."***
+3. ⭐⭐ **His reply of 8 September** attaching *"the report that captures the relevant information"* —
+   ⭐⭐⭐ **being the 13 February 2025 report, which is THEIR OWN ITEM 10**
+
+## 11.2 ⭐⭐⭐⭐ SO THE LINE IS CLOSED BEFORE THEY REACH IT
+| ⛔ What they cannot put | ⭐ Why |
+|---|---|
+| *"You never asked your doctor about the other stressors"* | ⭐⭐⭐ **He did, in writing, and served it** |
+| *"The doctor was never told about them"* | ⭐⭐⭐ **The doctor RECORDED them himself, at Q6(b), in a report made for QSuper before this appeal** |
+| *"He was not asked to consider them against onset"* | ⭐⭐⭐ **That is the exact wording of point 4** |
+| *"An independent examiner would have identified factors the treating doctor missed"* | ⭐⭐ **He missed none. He named all three and attributed the presentation to workplace stress anyway** |
+
+⇒ ⭐⭐⭐⭐ **The treating psychiatrist recorded the adverse material HIMSELF, and still attributed the
+condition to *"workplace stress stemming from issues with management and rostering"*. That is the
+strongest form an attribution can take.**
+
+## 11.3 ⛔ AND I HAD TAB M5 BACKWARDS, TOO
+⛔ **Earlier today I called serving M5 *"handing them the evidence of his own difficulty"*.
+WITHDRAWN.**
+⭐⭐⭐ **M5 is DEFENSIVE ARMOUR. It proves he put the adverse material to his own treating practitioner
+and sought an independent answer — which is exactly what a party acting properly does, and exactly
+what a party building a case does not.**
+⭐⭐ **It also proves the doctor refused to write to order.** ⇒ ⭐⭐⭐ **Serving it was right, and it is
+worth more than the report he did not get.**
+
+## 11.4 ⭐⭐⭐ SO WHAT IS ACTUALLY LEFT FOR THEM — ONE THING
+⛔ **The non-employment factors: CLOSED** (dated, §10; disclosed, §11).
+⛔ **Reconstruction: CLOSED** (28 June and 1 July, before any decision).
+⛔ **History unreliable: CLOSED** (298 admissions).
+⭐⭐⭐ **STILL OPEN: the *"26/10/2022 ADHD"* and *"26/10/2022 Anxiety"* entries** — against certificates
+recorded as indicating *"no pre-existing factor or condition"*, *"maintained in all later work
+capacity certificates"* (RD69983 p 17).
+
+⇒ ⭐⭐⭐ **THAT is where an independent examination would be aimed, and it is the ONLY place left.**
+⇒ ⭐⭐⭐ **Which fixes his preparation exactly:**
+1. ⭐⭐⭐ **Obtain Tab M6** — the answer lives there.
+2. ⭐⭐⭐ **Establish what Dr Amini treats him for** — he knows.
+3. ⭐⭐ **And hold the answer already available: 16 November 2023, their own item 11 — *no
+   psychological illness such as depression or psychosis; mood good*; no antidepressant or anxiolytic
+   current in May 2024.**
+
+⭐⭐ **If an IME report arrives, expect it on the 2022 entries and the interval — not on the life
+events. Those are dated and gone.**
