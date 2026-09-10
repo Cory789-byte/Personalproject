@@ -117,3 +117,23 @@ Commissioner Dwyer asked for.**
 ⭐⭐⭐ **The Form 25 response was never revised — it was written sixty seconds after the Form 24
 response by running down the "Copy produced from" column I wrote myself, disputing every row that
 said "the Appellant's own records". The fix is to correct the description, not to fight the dispute.**
+
+---
+
+# 7. ⛔⛔ CORRECTION TO §1 AND §2 — REMOVE THE SPEED CLAIM
+
+⛔ **§2's line "they did not read 39 documents in sixty seconds" is WITHDRAWN.** ⭐ **Sixty seconds is
+the gap between two files being written out, not the time spent answering.** Measured on the actual
+base PDF, the whole 22-page ReportLab + pypdf overlay renders in **0.114 seconds** — so the minute is
+**idle operator time between two exports**, and the answering was done earlier, in a prepared list of
+342 row-by-row decisions that was never served.
+
+⇒ ⭐⭐⭐ **What the timestamps establish is narrower and still useful:** both responses were **exported
+from one answer set in a single sitting**, and **neither was reopened afterwards**. ⛔ **They say
+nothing about how long the exercise took, when it began, or how carefully it was done** — a revision
+made before the render leaves no trace at all.
+
+⇒ ⭐⭐⭐ **The finding stands on the correlation alone, and it is stronger without the timing:
+fourteen of fourteen disputed tabs are exactly the rows my own column marks "Copy from the
+Appellant's own records".** ⛔ **Never argue it as haste. Argue it, if ever, as a description
+problem — which is also the only version that is fixable (§5).**

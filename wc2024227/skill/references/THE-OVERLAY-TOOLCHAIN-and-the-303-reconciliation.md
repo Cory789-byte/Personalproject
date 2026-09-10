@@ -88,3 +88,44 @@ response proves no fact and answers no question; raising it reads as an attack a
 audit of his own build.**
 ⭐⭐⭐ **The one usable output is §2: the count is settled at 303 / 298 / 5 / 14.** ⭐ **Correct it
 wherever "308" appears in the working papers and use 303 in every document from here.**
+
+---
+
+# 5. ⛔⛔ CORRECTION — THE SIXTY SECONDS IS EXPORT TIME, NOT WORK TIME
+
+⛔ **I wrote that "sixty seconds was enough" to answer the authenticity column. That inference is
+WITHDRAWN. The sixty seconds measures two files being written out, and writing the answers takes far
+longer than that.**
+
+## 5.1 ⭐⭐ MEASURED, NOT ASSUMED
+An equivalent overlay of the same shape — ReportLab canvas, 22 pages, ~18 centred labels per page,
+then `pypdf` `merge_page` and write — run against the actual base PDF:
+
+| Stage | Time |
+|---|---|
+| ReportLab render, 22 pp | **0.015 s** |
+| pypdf merge + write, 22 pp | **0.100 s** |
+| ⭐ **total** | ⭐ **0.114 s** |
+
+⇒ ⭐⭐⭐ **The compute is a tenth of a second. Sixty seconds is idle time between two runs — an
+operator moving from one document to the next — not effort.**
+
+## 5.2 ⭐⭐⭐ SO THE ANSWERING HAPPENED EARLIER, SOMEWHERE WE CANNOT SEE
+⭐⭐ **The overlay script cannot run without a prepared data set** — 342 decisions, each bound to a row
+(303 facts + 39 tabs). ⇒ ⭐⭐⭐ **That list is the real working document, and it was authored before
+16:42:04 on 7 September in a medium that was never served: a spreadsheet, a list, a script table.**
+⛔ **Nothing in the PDFs dates it. It could have taken days.**
+
+## 5.3 ⭐ WHAT THE TIMESTAMPS DO AND DO NOT ESTABLISH
+| ⭐ Established | ⛔ NOT established |
+|---|---|
+| Both responses were **exported from one prepared answer set in one sitting**, 7 Sep afternoon — 22 pp, then 5 pp sixty seconds later | ⛔ **How long the answering took**, or when it began |
+| **Neither file was reopened after export** — pypdf writes ModDate = CreationDate, and the base carried no metadata to inherit | ⛔ **That the Form 25 answers were not reconsidered BEFORE export.** A revision before the render leaves no trace |
+| The two authenticity columns (Form 24 pp 20–22 and Form 25 pp 3–5) are **identical because both were stamped from the same list, sixty seconds apart** | ⛔ **That the exercise was careless.** The render time says nothing about the care taken |
+
+## 5.4 ⭐⭐⭐ THE FINDING THAT MATTERS IS UNAFFECTED
+⭐⭐⭐ **The sort key never rested on the sixty seconds.** It rests on the correlation: the fourteen
+disputed tabs are exactly the rows whose *"Copy produced from"* column in the served Form 25 reads
+*"Copy from the Appellant's own records"* — **14 of 14, no exception in either direction.**
+⇒ ⭐⭐ **Drop the timing from the reasoning entirely. The column carries it alone, and it carries it
+better without a speed claim attached.**
