@@ -371,3 +371,48 @@ and every one of them is an MSH employee with no obligation to be there.**
    early-service advantage is repaid.**
 4. ⛔⛔ **Write nothing to her about any of this. No hint that he is thinking about their
    preparation.**
+
+---
+
+# 15. ⭐⭐⭐ HAVE THEY ACCEPTED THE FRAME, AND WILL THERE BE AN IME?
+
+## 15.1 ⭐⭐⭐ THREE FRAMES — HE IS RIGHT ON ONE, HALF RIGHT ON ANOTHER, AND THERE IS NO EVIDENCE ON THE THIRD
+| Frame | Status |
+|---|---|
+| ⭐⭐⭐ **1. FACTUAL — what happened** | ⭐⭐⭐⭐ **ACCEPTED. 298 of 303. That contest is over** |
+| ⚠ **2. EVIDENTIARY — the documents prove the steps; the treating doctors speak to causation** | ⚠⚠ **PARTLY. Heading 3 of 8 September expressly reserves on *the treating practitioner* and *the RD 69983 findings*. That is a PRESERVED OBJECTION, not acceptance** |
+| ⛔ **3. LEGAL — s 32(1) "a significant contributing factor", with s 32(5) as the answer** | ⛔⛔ **NOT ADDRESSED AT ALL. Nothing in her email touches it** |
+⇒ ⭐⭐⭐ **And frame 3 is the one that decides the case.**
+
+## 15.2 ⛔⛔ THE ABSENCE OF AN IME PROVES NOTHING YET — IT IS ONE DAY
+⭐ **The medical schedule was served 9 September. It is 10 September.** ⛔ **Nobody decides on an
+independent medical examination in a day, and arranging one — instructing, booking, examining,
+reporting — takes weeks.** ⇒ ⚠ **Silence today is not a signal.**
+
+## 15.3 ⭐⭐⭐⭐ AND THEY MAY NOT NEED ONE — WHICH IS THE POINT HE SHOULD TAKE
+⭐⭐⭐ **They hold the GP and psychiatrist FILES already, from the NNPDs of 4 July 2025** — Mind and
+Memory Service (*"full copy of notes, reports… concerning work related issues"*) and Our Medical
+Ashmore (01/01/2023–01/08/2024).
+⇒ ⭐⭐⭐⭐ **So the realistic alternative to an IME is: cross-examine the TREATING DOCTORS on their
+OWN RECORDS.** ⭐⭐ **Cheaper, faster, and against treating doctors who have written no medico-legal
+report, potentially effective.**
+⇒ ⛔⛔ **Absence of an IME is therefore NOT acceptance of the frame. It may be a decision to attack
+causation by cross-examination instead of by expert.**
+
+## 15.4 ⭐⭐ THE REVISED NUMBER
+| | Was | ⭐ **Now** |
+|---|---|---|
+| **IME sought** | ~35–40% | ⭐ **~30%** |
+⭐ *(Down because: a single officer carrying a hearing list; the Regulator does not pay the
+compensation and must justify the cost; and they already hold the clinical files.)*
+⇒ ⭐⭐⭐ **THE MARKER: if no IME is sought by the end of September, they have decided not to contest
+causation with an expert — leaving cross-examination of the treating doctors as their only causation
+tool.**
+
+## 15.5 ⭐⭐⭐⭐ WHICH CHANGES WHAT HE MUST PREPARE — AND MAKES IT MORE URGENT, NOT LESS
+⛔ **Not: defending against an IME report.**
+⭐⭐⭐⭐ **But: preparing Dr Krishnaiah and Dr Hawes to withstand cross-examination ON THEIR OWN
+RECORDS — records the Regulator has held since July 2025 and he has largely not seen** *(Row 5 still
+not received)*.
+⇒ ⭐⭐⭐ **That is the same task as before, arriving from a different direction: SECURE THE DOCTORS,
+OBTAIN ROW 5, AND KNOW WHAT IS IN THOSE FILES BEFORE THE REGULATOR CROSS-EXAMINES ON IT.**
