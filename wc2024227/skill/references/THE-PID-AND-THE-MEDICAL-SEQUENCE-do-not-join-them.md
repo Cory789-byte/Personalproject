@@ -89,3 +89,63 @@ Appellant lodged a complaint with the Ethical Standards Unit"* — as his own ac
 with NO reference to its routing, NO reference to who received it, and NO suggestion of any
 connection to what followed.** ⛔⛔⛔ **Anything beyond that hands them the seventeen hours and the
 perception limb in the same breath.**
+
+---
+
+# 5. ⛔⛔ CORRECTION — IT IS ALREADY SWORN AND FILED. AND I HAD THE WRONG SIDE OF THE CASE.
+
+⛔ **I advised keeping the PID off the WC track. It has been on it since 23 June 2026, in his own
+sworn affidavit — and it is handled correctly there.**
+
+## 5.1 ⭐⭐⭐ WHAT IS ALREADY ON THE RECORD
+> ⭐⭐⭐ **Form 20 ¶34:** *"On 13 May 2024 I made a complaint concerning Ms Taylor and Ms Reese, which
+> the Ethical Standards Unit **determined on 24 December 2024 to constitute a Public Interest
+> Disclosure** (**Admitted Fact: Form 24, Para 20**); the determination bears reference
+> **PID 24-ESU-1130**. **I do not set out the content of that disclosure in this affidavit.**"*
+> ⭐⭐⭐ **Form 20 ¶35:** *"On 15 May 2024, **within 48 hours of the matter referred to in the preceding
+> paragraph**, the Director, Ms Reese, directed me to retract an email…"*
+
+⇒ ⭐⭐ **The status is ADMITTED. The content is withheld (s 65 PID Act). The proximity is stated as a
+period, and NO CAUSAL CLAIM IS MADE.** ⭐⭐⭐ **That drafting is right and it should not be touched.**
+
+## 5.2 ⭐⭐ AND BE PRECISE ABOUT WHAT *"LATER ACCEPTED"* MEANS
+⭐⭐ **A determination that a complaint CONSTITUTES a public interest disclosure goes to the CHARACTER
+of the disclosure** — that it was made by a person who honestly believed on reasonable grounds that it
+tended to show a matter within the Act.
+⛔⛔ **It is NOT a finding that the allegations were substantiated, and it must never be described as
+one.** ⚠ **What the ESU found on the substance is not established in this file.**
+⭐⭐ **What it does establish, and it is enough: the complaint was not frivolous. It was a disclosure
+the Act protects.** ⭐ **And it took 225 days, landing 24 December 2024, during his certified
+incapacity.**
+
+## 5.3 ⭐⭐⭐⭐ THE REAL CORRECTION — IT BELONGS TO s 32(1), NOT s 32(5)(a)
+| Limb | ⭐ What runs it | ⭐⭐ The PID |
+|---|---|---|
+| ⭐⭐⭐ **s 32(5)(a) — was their conduct unreasonable?** | **fact 260** and the admitted conduct of 8–20 May | ⛔⛔⛔ **IRRELEVANT — and dangerous. Using it here asserts MOTIVE, the 17 hours defeats it, and s 32(5)(b) opens** |
+| ⭐⭐⭐ **s 32(1) — was employment a significant contributing factor?** | ⭐⭐⭐ **the ACCUMULATION** | ⭐⭐⭐ **RELEVANT AND SAFE — as a circumstance of his employment, going to HIS state, not to anyone's motive** |
+
+⇒ ⭐⭐⭐⭐ **That is the reconciliation, and he was right and I was answering the wrong question. He is
+not saying they retaliated. He is saying that in a single fortnight he was carrying: a complaint on
+foot about his manager and director; emergency calls misrouted with nothing said to the team; four
+fortnights of pay uncorrected on payroll's own account; a fatigue toolkit sent and never reviewed; a
+promise of a response never kept; and then a direction to retract a written question. ⭐⭐⭐ AND THE
+NEXT DAY HE ASKED HIS DOCTOR TO RENEW HIS PSYCHIATRIST.**
+⇒ ⭐⭐⭐ **That is an accumulation argument on causation. It requires nobody's knowledge and nobody's
+motive, and it is exactly what a treating practitioner is asked to speak to.**
+
+## 5.4 ⛔⛔⛔ AND THE ONE LINE THAT MUST NEVER BE CROSSED
+⛔⛔⛔ **From proximity to motive.** ⭐ The moment it is said or implied that the retraction was
+*because of* the disclosure: **the 17 hours defeats it out of his own document, and s 32(5)(b) —
+his perception of management action — is open.**
+⭐⭐⭐ **¶35 as sworn does not cross it. Nothing added should either.** ⛔ **And the repo's own red team
+already flagged this: *"it is a retaliation sequence, which edges into s 32(5)(b)"*
+(`A4-RED-TEAM.md` §5).**
+
+## 5.5 ⭐⭐ WHERE IT GOES, PRACTICALLY
+1. ⭐⭐ **It is already in the affidavit at ¶34–35. Leave it exactly as drafted.**
+2. ⭐⭐⭐ **In the amended outline ¶8 it appears, if at all, as ONE dated fact among the fortnight — *"a
+   complaint he had lodged on 13 May 2024, later determined to constitute a public interest
+   disclosure"* — with the content withheld and no connection asserted.**
+3. ⭐⭐⭐ **And it is a matter for the DOCTORS, not for him: if the clinical records record it among
+   the stressors, that is the treating practitioner's evidence of what his patient was carrying.**
+   ⭐⭐ **One more reason Tab M6 must be obtained.**
