@@ -479,3 +479,64 @@ the words of s 32(1). Not before. Nothing else on this file is open.**
 ⛔ **"The case is made out" never appears in a letter, a submission, or anything served.** ⭐ **It
 invites them to fight harder, and it reads badly if one element slips.** ⭐⭐ **The posture stays what
 it has been and what Dwyer rewarded: neutral, procedural, document by document.**
+
+---
+
+# 12. ⭐⭐⭐ DOES THE WITNESS LIST HURT THEM, AND DOES IT HURT THEIR OUTLINE?
+> ⭐⭐ **Yes — and the sharper damage is to the outlines they must serve on 30 September, not to
+> their case theory.**
+
+## 12.1 ⭐⭐⭐⭐ HE SERVED FIRST, INTO A FIELD OF 298 ADMISSIONS. THAT IS THE TRAP.
+⭐ **Direction sequence: he served 9 Sep; the Respondent serves 30 Sep.** ⭐ **Normally the second
+server has the advantage — they write knowing what will be said.**
+⛔⛔ **Not here. Because 298 facts are admitted, anything their witness says that collides with an
+admitted fact is WORSE than saying nothing.** ⇒ ⭐⭐⭐ **Their outline must thread between the
+admissions and two named witnesses' dated specifics. The gap may not exist.**
+| If Ms Taylor's outline… | Consequence |
+|---|---|
+| ⛔ **says consultation occurred** | collides with **Conaghan ¶11** (*"not consulted about, and was not balloted… at any time before 30 June 2024"*) and with the admitted record |
+| ⛔ **is silent on consultation** | ⭐⭐⭐ **heading 3 and the s 32(5)(a) case lose their evidentiary base**, and ***Browne v Dunn*** closes it at the hearing |
+
+## 12.2 ⭐⭐⭐ THE FOUR WAYS THE LIST ITSELF HURTS THEM
+1. ⭐⭐⭐ **Both doctors named as experts under Guide Part 4.11 with Part 6 notices flagged** ⇒ **their
+   best hope — that his medical case never gets off the ground — is now visibly addressed.**
+2. ⭐⭐ **Mr Harrison-Jones is OUT of MSH and now QAS.** ⇒ ⭐ **Unreachable through the employer,
+   nothing at stake, no motive attack available.**
+3. ⭐⭐ **Ms Conaghan is a SERVING employee giving evidence against her own employer's position.**
+   ⇒ ⭐⭐ **That is evidence a Commission weighs heavily, and its motive is hard to impugn.**
+4. ⭐⭐⭐⭐ **Conaghan ¶1 is the one they will not have priced.** She is a **named co-recipient of the
+   7 August 2023 email**, and she *"and the Appellant EACH sought an additional two shifts per
+   fortnight"*. ⇒ ⭐⭐⭐ **That converts a personal grievance into a shared condition of the
+   workplace, and it runs directly at their 9C ¶6 denial that the roster was *"equitable"*.**
+
+## 12.3 ⭐⭐ AND IT CONSTRAINS THEIR MEDICAL OPTIONS
+⭐ **To challenge causation they must now either obtain an IME (discretionary, undated) or
+cross-examine two treating doctors with no expert of their own.** ⚠ **The second is a weak posture
+and they will know it.**
+
+## 12.4 ⚠⚠ WHAT THE OUTLINES COST HIM — TWO THINGS, BOTH ALREADY SERVED
+1. ⛔⛔ **The hostility pre-emption telegraphs the issue.** **Conaghan ¶13** (*"has not heard the
+   Appellant speak of Ms Taylor… in hostile terms"*) and **Harrison-Jones ¶7** (*"did not at any time
+   hear the Appellant say anything hostile"*). ⚠ **A cross-examiner reads a pre-emption and asks why
+   ⇒ straight to the 12 July 2024 WorkCover statement** (*"treated with hostility"*, *"spreading
+   rumours"*, *"workplace bullying"*). ⭐ **The prepared answer already exists** — *"That is what I
+   told WorkCover in July 2024, three weeks after I stopped work and before I had any of the
+   documents. What I rely on in this appeal is in my outline, and it is the documents."*
+   ⚠ **They are also negative propositions and easily softened** — *"you were not with him at all
+   times, were you?"*
+2. ⚠ **Conaghan ¶12** — *"Any change she observed in the Appellant at work… She offers no opinion as
+   to diagnosis or cause."* ⭐ **Correctly fenced**, ⚠ **but it invites cross on whether she observed
+   much at all.** ⛔ **If the answer is thin, it is a hit on his EFFECT evidence — the exposed
+   surface.** ⇒ ⭐⭐ **Ask her, before the hearing, what she actually observed. Do not discover it in
+   the room.**
+
+## 12.5 ⛔ AND ONE DISCIPLINE WARNING
+⚠⚠ **Harrison-Jones ¶6** — *"the manner and volume in which it was said, from his own observation"*
+— **is the closest either outline comes to s 32(5)(b) territory.** ⛔⛔ **Observation only. NEVER
+characterised.** ⛔ **No *punishment*, *hostile*, *capricious*, *reprisal* — in the question or in
+the answer.** ⭐ **Lead it as: what did she say, in what order, how loudly. Then stop.**
+
+## 12.6 ⭐⭐ NEITHER LAY WITNESS REACHES STRESSOR 2 OR THE PANDEMIC LEAVE
+⭐ **True, and it does not matter: both rest on admitted documents, where there is nothing to
+contradict.** ⇒ ⭐⭐ **If their 30 September outline concentrates fire there, it is firing at the
+admissions.**
