@@ -177,3 +177,65 @@ authenticity track, and their tool would tell them not to volunteer it.**
 that if the doctor does not, the opinion does not either.**
 ⇒ ⭐⭐⭐ **Convert *"will be called"* into a confirmed, booked attendance, and every other
 recommendation on their board fails.**
+
+---
+
+# 8. ⭐⭐⭐ IF THE DOCTOR IS CALLED — WHAT THEIR TOOL WOULD TELL THEM, AND HOW IT PLAYS
+
+## 8.1 ⭐⭐⭐ YES. IT WOULD TELL THEM IT IS VERY HARD TO CONTEST — AND HERE IS THE REASON THEY WOULD NOT LIKE
+⭐⭐⭐ **THE 298 ADMISSIONS DISARM THEIR OWN IME.**
+⭐⭐ **An independent examiner's usual lever against a treating practitioner is: *"the history I was
+given was inaccurate or incomplete."*** ⇒ ⛔⛔⛔ **That lever is gone. They admitted the history — 298
+facts of it.** ⇒ ⭐⭐⭐ **Their IME must accept every event and argue ONLY about attribution, which is
+the ground on which a treating practitioner with longitudinal contact is strongest.**
+
+**And what he would be contradicting:**
+| | |
+|---|---|
+| ⭐⭐⭐ **A TREATING psychiatrist**, not a retained expert — continuous contact since 24 October 2024 | ⛔ their IME sees him once |
+| ⭐⭐⭐ **A report of 13 February 2025 made for QSuper income protection — NOT for this proceeding** | ⛔⛔ **no forensic purpose. That is its single strongest feature** |
+| ⭐⭐⭐ **A doctor who REFUSED to write to order** — *"I can't provide preformed answers as you have asked"* — now served at Tab M5 | ⭐⭐⭐ **his refusal to help the Appellant is the best evidence of his independence** |
+| ⭐⭐ Attribution in the employer's own conduct: *"management and rostering"*, *"shorter breaks, more night shifts"*, after raising concerns about **rostering and fatigue management** | ⛔ and it matches the admitted facts |
+| ⭐⭐⭐ **Their OWN delegate at facts 261 and 262** | ⛔⛔ **their IME would be contradicting the treating psychiatrist AND their own review decision** |
+
+⇒ ⭐⭐⭐ **Their tool's conclusion: if Dr Krishnaiah attends, the appeal is very likely lost, and they
+should resolve BEFORE he is secured.**
+
+## 8.2 ⭐⭐⭐ WHICH INVERTS THE SETTLEMENT TIMING — AND CORRECTS §3 OF `THE-PLAY…`
+⛔ **Do not propose while the doctor is unsecured.** ⭐ **While attendance is open, their optimal play
+is to stall and hope — so an offer then is read as weakness and answered with delay.**
+⇒ ⭐⭐⭐ **SEQUENCE: (1) SECURE THE ATTENDANCE. (2) LET THEM KNOW IT IS SECURED. (3) THEN PROPOSE.**
+⭐⭐ **Their settlement value peaks the day the doctor is confirmed, not before.**
+
+## 8.3 ⭐⭐ HOW IT PLAYS IN THE ROOM
+
+**Evidence in chief — SHORT. Ten minutes.** ⭐⭐⭐ **Identify the report of 13 February 2025; confirm it
+is his; confirm the diagnosis; confirm what the patient presented with; confirm the clinical
+records. STOP.**
+⛔⛔⛔ **Do not ask him to opine beyond his file.** ⭐ **He has twice declined to do medico-legal work.
+Pushing produces a bad answer and undoes the independence that is his chief value.** ⇒ ⭐⭐⭐ **Build
+the case so the doctor need only confirm his own document.**
+
+**Cross-examination — four lines, and only one is dangerous:**
+| Put to him | ⭐ The answer |
+|---|---|
+| *"You took the history from the patient and did not verify it."* | ⭐⭐⭐ **The history is admitted — 298 facts. The Commission has it independently of him** |
+| *"Your report was for QSuper, not for this proceeding."* | ⭐⭐⭐ **Exactly — no forensic purpose. It is a strength** |
+| *"You first saw him 24 October 2024, four months after the pleaded onset."* | ⭐⭐ **Tab M1 (28 June 2024, first presentation attributing symptoms to work) and Tab M2 fill it — from the Respondent's OWN item 11** |
+| ⛔⛔⛔ *"Relationship breakdown, job loss and bereavement are in your own report. Where do they sit?"* | ⛔⛔⛔ **THIS IS THE CROSS. It decides the appeal** |
+
+**Re-examination:** ⭐ likely none. **Length:** ⭐ Krishnaiah 30–45 minutes; Dr Hawes 15–20.
+
+## 8.4 ⛔⛔⛔ THE ONE THING NOT YET PREPARED — AND IT MAKES TAB M6 ESSENTIAL
+⛔⛔⛔ **He does not yet know what Dr Krishnaiah says about the non-employment factors.** ⭐ He asked
+it at point 4 of the 5 September letter — *"Non-employment factors in your 13 February 2025 report
+(relationship breakdown, job loss, bereavement) — and when each sits relative to onset"* — ⛔ **and it
+was not answered.**
+
+⛔⛔ **A witness must not go into the box with the most dangerous question unanswered.** ⭐⭐ **That is
+not seeking a preformed answer; it is knowing the evidence.**
+⇒ ⭐⭐⭐ **THE ANSWER LIVES IN THE CLINICAL RECORDS AT TAB M6 — offered 5 September, still not
+received.**
+⇒ ⭐⭐⭐ **So M6 is not a tidy-up. It is the second most important item on the whole list, behind only
+the attendance itself. GET IT — from the practice, and from the Respondent under its own Form 29
+sealed 4 July 2025, which it has held for fourteen months.**
