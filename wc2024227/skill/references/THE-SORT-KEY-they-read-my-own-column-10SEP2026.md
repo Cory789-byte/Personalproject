@@ -290,3 +290,54 @@ conceded.**
 ⇒ ⭐⭐⭐ **His instinct was right about there being a tell, and about the wrong column.** ⭐⭐ **Build the
 hearing around the two contests they reserved: the Book, and the workload.** ⭐ **Tab 31 is the only
 tab worth an application, and §10.1 is why.**
+
+---
+
+# 11. ⭐⭐⭐ THE RESOLVED POSITION — WHAT THEY DID, AND WHY
+
+## 11.1 ⭐⭐⭐ THE DECIDING OBSERVATION: THE TWO COLUMNS WERE NOT PRODUCED THE SAME WAY
+| | ⭐ **The 303 facts** | ⛔ **The 39 tabs** |
+|---|---|---|
+| **Character** | ⭐⭐ **triaged, and carefully** — 298 conceded, 5 held | ⛔⛔ **mechanical to the point of thoughtless** |
+| **Evidence** | ⭐⭐⭐ fact **230** refused although it **carries no tab citation** — refusing it requires following that it inherits from 229, which rests on Tab 31. ⭐⭐ fact **154** refused although true and checkable, because admitting it concedes a disclosure gap | ⛔⛔ **Tab 20 disputed** — Metro South's letter to Commissioner Dwyer, **on the Commission's own file**. ⛔ **Tab 25 admitted** — the Review Decision carrying **fact 260**. ⭐⭐⭐ **14 of 14 track one field in his own schedule** |
+
+⇒ ⭐⭐⭐ **Two different processes ran on the same afternoon. That asymmetry is the whole finding.**
+
+## 11.2 ⭐⭐⭐ THE POSITION
+⭐⭐⭐ **A tool made the bulk pass over the 303 facts, and a lawyer reviewed it. The review is visible
+in exactly two places — the four Tab 31 refusals and fact 154. Everything else in that column is what
+a bulk pass produces. The 39-tab column got no review at all, and was answered by running down the
+"Copy produced from" column in the served Form 25.**
+
+⭐⭐ **Supporting it:** the overlay pipeline is **purpose-built** (table-registered, 381 labels, zero
+misses) and **requires a machine-readable answer set keyed to each row** — a workflow designed around
+bulk generation, not around a person writing "Admitted" 303 times. ⭐ **They met a 14-day deadline on
+303 facts plus 39 documents without asking for time** — and then asked for time on 10 September for a
+different task.
+
+⛔⛔ **THE HONEST LIMIT: nothing in the file distinguishes a model from a paralegal with a checklist,
+and nothing ever will.** ⭐ **What the file shows is bulk generation, reviewed at two points, and a
+documents column that was not reviewed.** ⛔ **Do not state the AI question as a conclusion, even
+internally — it is not established.**
+
+## 11.3 ⭐⭐⭐ WHY THEY DID IT THIS WAY — AND IT IS NOT LAZINESS
+1. ⭐⭐ **Volume forced the tool.** 303 facts, each needing a document check, in 14 days, in a small
+   appeals unit.
+2. ⭐⭐⭐ **The admissions were cheap and they knew it.** ⭐ Almost every fact he pleaded **quotes a
+   document they hold.** ⛔ **Denying accurately-quoted contents is indefensible and costs credibility
+   at hearing.** ⇒ **"Admit what is accurately quoted" is not a shortcut — it is the correct posture,
+   and it is what was cleared upstairs.**
+3. ⭐⭐⭐ **The reservations carry the defence instead.** ⭐ They conceded the facts and reserved
+   **relevance, admissibility and characterisation.** ⇒ ⭐⭐⭐ **Give him the bricks, contest the
+   building.** ⭐⭐ **That is why the LETTER got two review cycles and the columns got none.**
+4. ⭐⭐ **The tabs column was treated as a formality — because on their theory it is one.** ⭐ They had
+   already admitted the contents of **13 of the 14**. ⇒ **Disputing authenticity costs them nothing on
+   their own case and buys a tender fight.** ⭐⭐ **Running down the provenance column was the fast
+   route to a defensible-looking "no" without making 39 assessments.**
+
+## 11.4 ⭐⭐⭐ THE UPSHOT HE SHOULD ACT ON
+⭐⭐⭐ **The reviewed part is where their case is. The unreviewed part is where it is not.**
+- ⭐⭐⭐ **Their thinking went into the letter's three reservations and the five refusals.** ⇒ **Fight
+  there: relevance and characterisation, the Communication Book, and the workload on 17–18 March.**
+- ⛔ **It did not go into the fourteen disputes.** ⇒ ⭐⭐ **Do not fight there. Fix it with a corrected
+  description (§5), and keep Tab 31 as the only tab worth an application.**
