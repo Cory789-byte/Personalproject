@@ -481,3 +481,79 @@ Commission, which parked it at minute two.
 ⭐⭐⭐⭐ **And that is the operational lesson, already proved twice over: an instrument that merely
 ASKS gets silence; an instrument that carries a CONSEQUENCE gets an answer in a day.** ⭐⭐ **The
 Form 29 asked. The Form 24 consequenced. ⇒ Anything served from here carries its own clock.**
+
+---
+
+# 12. ⭐⭐⭐⭐ HOW HE EXPLAINED COST — THREE REGISTERS, IN A DELIBERATE ORDER
+
+⭐⭐⭐⭐ **Systemic FIRST. Then the CAUSE on the Appellant. Then the BURDEN on MSH.**
+⇒ ⭐⭐⭐ **The order is the technique, and it is why the hour worked.**
+
+## 12.1 ⭐⭐ REGISTER ONE — SYSTEMIC, AND IT WAS PREPARED IN ADVANCE
+> **The recording opens MID-SPEECH** on efficiency, interlocutory disputes and the *"overriding
+> consideration"* — composed before he sat down, responsive to nothing said.
+
+| | |
+|---|---|
+| [01:02] | *"a tendency to **proliferate interlocutory disputes**"* |
+| [01:30] | *"aspects to the application that you brought that… **impact on the efficiency of the conduct of your proceedings**"* |
+| [01:44] | *"One of the things I hope to achieve… is **a different approach**"* |
+| [12:05] | *"hopefully it will **save us some time and effort** down the track"* |
+
+⇒ ⭐⭐⭐ **This is the IR Act efficiency register — the Commission's own resources.** ⭐⭐ **It is
+impersonal, and it is what makes everything said afterwards sound like management rather than
+criticism.**
+
+## 12.2 ⭐⭐⭐⭐ REGISTER TWO — THE CAUSE ATTRIBUTED TO HIM, AND THE CURRENCY IS **TIME, NOT MONEY**
+| | |
+|---|---|
+| [01:02] | *"**you won't be getting to hearing**"* — on the present course |
+| ⭐⭐ [07:49] | ⭐⭐ *"**you won't be getting to hearing until 2028** by the time you've worked through all of that"* |
+| [10:25] | *"People make the mistake. I've got to have a big case because then it looks more…"* |
+| [21:38] | *"page after page after page… that's how I fall into error"* |
+
+⇒ ⭐⭐⭐⭐ **AND THIS IS THE PART THAT MATTERS MOST, AND IT IS FAVOURABLE:**
+| ⛔ What he NEVER said | |
+|---|---|
+| ⛔ **A costs order against the Appellant** | ⭐⭐⭐ **Never raised. Not once.** r 64G(3) is **each party bears its own costs** |
+| ⛔ **r 64I — the party pays the non-party's reasonable expenses of production** | ⭐⭐⭐⭐ **NEVER MENTIONED — and it is the ONLY real money exposure the Form 29 carried.** He had the point and did not use it |
+| ⛔ Criticism | ⭐⭐ **The opposite, three times:** *"I want to stress **I'm not being critical of you**, Mr Shepherd"* [06:47] · *"**I'm not saying you are entirely wrong**"* [07:19] · *"I understand you're acting for yourself… and **I'm in no way being critical** in this respect"* [56:29] |
+
+⇒ ⭐⭐⭐⭐ **The cost put on the Appellant was DELAY AND FUTILITY — two years and no result. It was
+never a financial threat, and the one financial lever available (r 64I) was left on the table.**
+
+## 12.3 ⭐⭐⭐ REGISTER THREE — AND THE CONCRETE COST WAS PUT ON MSH, NOT ON HIM
+| | |
+|---|---|
+| ⭐⭐⭐ [30:16] | *"I'm going to schedule this disclosure dispute for a hearing. And **the health service is going to need to call evidence to talk to their objections**"* |
+| ⭐⭐⭐⭐ [30:36] | *"**I see a very comprehensive objection.** But what the responsibility of the parties is… is to get working on whether they can resolve it **without my intervention**… If that's where we're at, well, **you've got a bit of work to do down there at the bar table**"* |
+| [31:32] | *"I'd imagine **the health service will probably want to engage** [outside] law… and they'll bring their lawyers along, and I'll allow that"* |
+| [31:44] · [31:58] | *"longer than a day"* · ⭐⭐ *"**probably be bigger than the hearing at the end of the day**"* |
+
+⇒ ⭐⭐⭐⭐ **The heaviest cost in the room was priced against MSH: outside lawyers, a multi-day
+hearing, and a witness in the box cross-examined on its own record-keeping — a hearing with no
+upside for a stranger to the appeal.** ⭐⭐⭐ ***"A very comprehensive objection"* is not praise in
+that sentence, and *"down there at the bar table"* is addressed to the Regulator and MSH.**
+
+## 12.4 ⭐⭐⭐⭐ WHY THE ORDERING IS THE TECHNIQUE
+⭐⭐⭐ **Open on the system → the attribution to the Appellant reads as neutral, not adverse.**
+⭐⭐⭐ **Then price it against MSH → withdrawal becomes a relief to everyone rather than a defeat for
+one.**
+⇒ ⭐⭐⭐⭐ **AND EFFICIENCY IS A REASON THAT REQUIRES NOBODY TO BE WRONG.** ⭐⭐ **That is precisely how
+the merits were never reached: the application was not refused, it was made UNECONOMIC.**
+⇒ ⭐⭐⭐ **Same finding as §2 and §9, arrived at from the cost language alone.**
+
+## 12.5 ⭐⭐⭐⭐ AND THE PART THAT SURVIVES, AND IT IS THEIRS
+⭐⭐⭐⭐ **[30:36] was a DIRECTION TO CONFER, addressed to the Regulator and MSH. Neither did
+anything about the disclosure dispute between 7 August and the withdrawal on 28 August.**
+
+⇒ ⭐⭐⭐⭐ **AND THE CONFERRED OUTCOME HE WAS ASKING FOR ALREADY EXISTED — Draft Order v2, order 2:
+production by server-side export, *"no inbox review, reading or relevance-assessment of any email
+being required."*** ⭐⭐⭐ **That is the narrowing. It had been served on Ms Ruttan on 25 June and on
+the Regulator, and it was six weeks old when he asked for it.**
+
+## 12.6 ⭐⭐⭐ THE ANSWER IN ONE LINE
+⭐⭐⭐⭐ **He explained the cost as the system's, blamed the volume on the Appellant in years rather
+than dollars, priced the actual fight against MSH, and never once put money at risk on the
+Appellant's side — and the narrowing he asked all three of them to go away and negotiate was
+already written on page one of the order nobody opened.**
