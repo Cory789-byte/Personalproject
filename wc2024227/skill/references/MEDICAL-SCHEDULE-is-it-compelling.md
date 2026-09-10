@@ -380,3 +380,54 @@ is not aggressive and is not a fallback — it is the recommended course, and it
 Krishnaiah's own objection: he attends and answers, he does not write.**
 ⭐ **Video is available with leave. Book the time, then request the notice.**
 ⚠ **And note: HE pays the expert's expenses.** ⭐ **That must be arranged now, not at the hearing.**
+
+---
+
+# 10. ⭐⭐⭐⭐ THE NON-EMPLOYMENT FACTORS — EVERY ONE POST-DATES ONSET
+> ⭐ Confirms his point. Already worked up at
+> `SHORTEST-KRISHNAIAH-REPORT-and-the-life-events-timeline.md` §2, from Dr Krishnaiah's own report of
+> 13 February 2025 (Q6(b): *"multiple life stressors, including relationship breakdown, job loss, and
+> bereavement"*) — **item 10 of the Regulator's own List of Documents.**
+
+| Event | Date | ⭐ Distance from onset |
+|---|---|---|
+| ⭐⭐⭐ **ONSET** | **18 June 2024** | — |
+| ⛔ *"job loss"* | **9 Oct 2024** | ⭐⭐⭐ **and it is NOT a life event — it is the employer's own abandonment termination, backdated to the day after the WorkCover decision, and LATER REVERSED** |
+| **Personal and relationship matters commence** | **~Dec 2024** | ⭐⭐ **6 months late** |
+| **Separation** | **Feb 2025** | ⭐⭐ **8 months late** |
+| **Bereavement (his grandfather)** | **Mar 2025** | ⭐⭐ **9 months late** |
+
+⇒ ⭐⭐⭐⭐ **NOT ONE OF THEM IS CAPABLE OF EXPLAINING A CONDITION THAT PRECEDED IT. The nearest is six
+months late; the others eight and nine.**
+
+## 10.1 ⭐⭐⭐⭐ AND THE DIAGNOSIS CONSULTATION SETTLES IT
+⭐⭐⭐ **24 October 2024 — the first consultation and the diagnosis.** ⭐⭐⭐⭐ **His partner attended, and
+on Dr Krishnaiah's OWN observation was supportive and protective.**
+⇒ ⭐⭐⭐⭐ **At the moment the Major Depressive Disorder was diagnosed, the relationship was intact and
+recorded as a support. The breakdown comes AFTER the diagnosis.** ⭐⭐ **That is in the treating
+psychiatrist's own record, and it is the complete answer.**
+
+## 10.2 ⭐⭐⭐ SO THE IME ATTACK HAS NO GROUND
+⭐⭐ **An examiner instructed on the non-employment factors would have to say that events of December
+2024, February 2025 and March 2025 contributed to an injury sustained on 18 June 2024.**
+⇒ ⛔ **They can bear on PROGNOSIS and ongoing incapacity. They cannot bear on CAUSATION of the injury
+sustained.**
+⭐⭐ **And the schedule's architecture already carries this** — item 3: *"The injury relied upon is that
+of 18 June 2024; the email records its state four months later."* ⭐⭐⭐ **The same principle answers the
+factors: anything after 18 June 2024 is not a cause of what was already sustained.**
+
+## 10.3 ⭐⭐⭐ AND HIS 5 SEPTEMBER LETTER PUT IT TO THE DOCTOR HIMSELF
+⭐⭐⭐ **Point 4: *"Non-employment factors in your 13 February 2025 report (relationship breakdown, job
+loss, bereavement) — and when each sits relative to onset."*** ⇒ ⭐⭐ **He asked the dating question
+directly. It is the right question, and it is the one the records answer.**
+
+## 10.4 ⛔⛔⛔ BUT THIS IS THE ONE AREA WHERE PROBING LEADS SOMEWHERE HE HAS CLOSED
+⚠⚠ **The timeline at §2 also carries an entry marked *"DO NOT PUT THIS IN THE REPORT — Excluded"*,
+and standing rule 10 bars certain 2024–2025 personal material from this track entirely.**
+⇒ ⛔⛔⛔ **The non-employment factors are ADJACENT to material he has excluded. Exploring them is the
+one route by which it could be reached.**
+⇒ ⭐⭐⭐ **THEREFORE THE HANDLING IS: DATE THEM AND CLOSE THE TOPIC.** ⭐⭐ **In cross, the answer is
+short and dated — *"that commenced around December 2024, six months after onset"* — and it goes no
+further.** ⛔⛔ **Never volunteer detail, never explain, never let it open.**
+⭐⭐ **And the same rule governs any report or any question put to a doctor: the DATE is the answer,
+and the date is enough.**
