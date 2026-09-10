@@ -119,3 +119,56 @@ somebody else's compensation claim.
 ⇒ ⭐⭐ **Approach him courteously first, explain the notice is to protect him rather than to compel
 him against his wishes, and then issue it.** ⭐ **The same considerations apply to Ms Conaghan, who is
 still employed there and has more to lose than either of them.**
+
+---
+
+# 6. ⭐⭐⭐⭐ AND A QAS OFFICER KNOWS WHAT A MISROUTED MET CALL MEANS — WITHOUT SAYING SO
+
+## 6.1 ⛔⛔⛔ HE MUST NOT BE ASKED THE QUESTION
+⛔ **He is called as a LAY witness. Asking him what a delayed emergency response means for a patient
+is asking for EXPERT OPINION he has not been called to give.** ⇒ ⛔ **It would be objected to, and
+rightly.**
+
+## 6.2 ⭐⭐⭐⭐ AND HE DOES NOT NEED TO BE — THE FIRST LINE OF HIS OUTLINE ALREADY DOES IT
+> ⭐⭐⭐ *"He has since left the department… **he is now an officer of the Queensland Ambulance
+> Service.**"*
+
+⇒ ⭐⭐⭐⭐ **The Commission learns his occupation before he opens his mouth, and it colours everything
+after it without a word being argued.** ⭐⭐ **A tribunal hearing evidence about misrouted MET calls
+from a witness who is now a paramedic does not need to be TOLD what that means.**
+⇒ ⭐⭐⭐ **Same technique as the rest of the case: state the fact, let the significance arrive on its
+own.**
+
+## 6.3 ⭐⭐⭐ WHAT HE CAN PROPERLY SAY IS ALREADY PLEADED, AND IT IS ENOUGH
+> ⭐⭐ **¶1:** *"That a function of the Switchboard was to hold and maintain accurate contact and
+> paging numbers for medical staff, including on-call doctors, **so that calls and emergency
+> notifications could be directed to the correct person**."*
+
+⭐⭐ **That is FACT, from his own time at the console — not opinion, and not offered as a paramedic.**
+⭐ **Lead it exactly as drafted. Do not extend it.**
+
+## 6.4 ⭐⭐⭐⭐ AND HE NEVER HAS TO ASSERT THE SIGNIFICANCE — THEY ADMITTED IT
+> ⭐⭐⭐⭐ **Fact 289, ADMITTED** (their own response of 18 February 2026, Tabs 26–27 authenticity
+> admitted): *"Maintaining accurate contact details for medical staff is a **critical function of the
+> Switchboard to ensure effective clinical handover and patient safety**."*
+
+**And the interlock, entirely inside their own documents:**
+| | |
+|---|---|
+| **289** | the function is **critical to patient safety** — *the Regulator's own words* |
+| **8** | the role requires adherence to emergency code procedures **and timeframes** |
+| **58, 61** | MET calls that **could not be located** and calls *"incorrectly put through to MASPER"* |
+| **265** | MSH: fatigue risk management training *"**only applies to health practitioners and clinical assistants**"* |
+| **269–271** | ⛔ **no fatigue assessment, training or implementation for this position before 30 June 2024** |
+
+⇒ ⭐⭐⭐⭐ **A function the Regulator admits is critical to patient safety was expressly outside the
+fatigue risk management system — and the man performing it finished at 23:00 and started at 06:00.**
+
+## 6.5 ⛔⛔⛔ THE BOUNDARY — AND IT IS ABSOLUTE
+⛔⛔⛔ **NO PATIENT HARM IS ALLEGED, AND NONE NEEDS TO BE.** ⭐⭐ **The case is about the FUNCTION and the
+LOAD, not an outcome.**
+⇒ ⛔ **An allegation that a patient came to harm is unprovable, outside the pleaded case, and a
+serious allegation against a health service made without evidence.** ⭐⭐⭐ **It would also convert the
+strongest quiet point in the matter into something the Commission has to shut down.**
+⭐⭐ **The admitted words are enough. They are theirs, and they are stronger than anything he could
+say.**
