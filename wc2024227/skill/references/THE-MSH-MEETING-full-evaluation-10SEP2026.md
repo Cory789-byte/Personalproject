@@ -141,3 +141,16 @@ answers the "will they stand up and say it" question. Only the second is open.**
 > *"Tab 5 was produced to the Appellant by the Respondent, from its own conferencing of the
 > document's author, and its contents are admitted at fact 38."*
 ⭐⭐ **That sentence ends the authenticity question and needs no adjective.**
+
+---
+
+> ⛔⛔⛔ **SUPERSEDED IN PART — 10 September 2026.** The Tab 5 point stated above is **WITHDRAWN**: the
+> served Form 25 schedule records Tab 5 as *"Copy from the Appellant's own records"*, the Form 24
+> sources fact 38 to *"Annexure A Tab 5"* rather than to the conferencing label, and the build takes
+> Tab 5 from a standalone file. The `R_TAYLOR` label's tab list is over-inclusive and is never used
+> for a Tab 5 fact. ⛔ **Do not put Tab 5 to the Respondent or the Commission.**
+> ⭐⭐⭐ **And the provenance rule is not hers — it is mine.** The fourteen disputed tabs are exactly
+> the rows whose *"Copy produced from"* column in my own Form 25 reads *"Copy from the Appellant's own
+> records"* — 14 of 14, no exceptions — answered sixty seconds after the Form 24 response and never
+> reopened. ⇒ **See `THE-SORT-KEY-they-read-my-own-column-10SEP2026.md` for the corrected finding and
+> the handling.**

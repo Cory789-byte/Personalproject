@@ -297,3 +297,16 @@ the content read.**
 - ⭐⭐ **Hold §9.1 and §9.2 in reserve for tender at hearing, one line each, only if tender is
   resisted.** ⛔ **Never as a characterisation of her conduct.** The table does the work; adding an
   adjective to it takes work away.
+
+---
+
+> ⛔⛔⛔ **SUPERSEDED IN PART — 10 September 2026.** The Tab 5 point stated above is **WITHDRAWN**: the
+> served Form 25 schedule records Tab 5 as *"Copy from the Appellant's own records"*, the Form 24
+> sources fact 38 to *"Annexure A Tab 5"* rather than to the conferencing label, and the build takes
+> Tab 5 from a standalone file. The `R_TAYLOR` label's tab list is over-inclusive and is never used
+> for a Tab 5 fact. ⛔ **Do not put Tab 5 to the Respondent or the Commission.**
+> ⭐⭐⭐ **And the provenance rule is not hers — it is mine.** The fourteen disputed tabs are exactly
+> the rows whose *"Copy produced from"* column in my own Form 25 reads *"Copy from the Appellant's own
+> records"* — 14 of 14, no exceptions — answered sixty seconds after the Form 24 response and never
+> reopened. ⇒ **See `THE-SORT-KEY-they-read-my-own-column-10SEP2026.md` for the corrected finding and
+> the handling.**
