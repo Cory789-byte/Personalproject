@@ -228,3 +228,57 @@ significant contributing factor and factor 4 unreasonable management action. ⛔
 her to have been a genuine, independent decision-maker. Suggesting her correspondence is drafted and
 cleared above her destroys it.**
 ⇒ ⭐⭐ **Internal only. It informs who he is really negotiating with — and nothing else.**
+
+---
+
+# 9. ⭐⭐⭐ CORRECTION AND CONSEQUENCE — IT WAS NOT CARELESSNESS. IT DID NOT MATTER TO THEM.
+
+## 9.1 ⛔ FIRST, CORRECT §8.1 — "PETER" IS NOT THE AUTHOR
+⛔ **I said the letter was "created by Peter". Withdraw that.** ⭐⭐ **`/Title` is
+*"OIR Internal Queensland Government Letterhead (1WS only)"* — the document is built on an OIR
+letterhead TEMPLATE, and `/Author` on a Word document made from a template routinely carries the
+TEMPLATE's author.** ⇒ ⛔ **"Peter" is most likely whoever built the letterhead, not whoever wrote
+this letter. Do not name him, even internally, as its author.**
+
+⭐⭐⭐ **What IS document-specific and does hold:**
+`/_AuthorEmail: Margaret.Kerrigan@oir.qld.gov.au` · `/_AuthorEmailDisplayName: Margaret Kerrigan` ·
+`/_AdHocReviewCycleID: -808179628` · ⭐⭐⭐ `/_PreviousAdHocReviewCycleID: 1947825810`
+⇒ ⭐⭐ **Those are Word "Send for Review" artefacts, set on the document, not inherited from a
+template.** ⇒ ⭐⭐⭐ **TWO review cycles — a previous one and a current one — circulated by
+Ms Kerrigan, in the Deputy Director-General's business unit.** ⭐ **The letter went round at least
+twice before it was signed and served.**
+
+## 9.2 ⭐⭐⭐ AND THE INDIFFERENCE IS THE POINT — CORRECTING §8.2
+⛔ **§8.2 read the leak as an absence of policy. That under-reads it.** ⭐⭐⭐ **They know the Appellant
+reads metadata. They served it anyway. The right conclusion is not that they forgot — it is that
+THERE WAS NOTHING TO HIDE.**
+
+⭐⭐⭐ **Internal review of significant correspondence is ordinary and entirely proper.** ⭐⭐ **A letter
+conceding 298 of 303 facts in a matter listed for hearing SHOULD be cleared above the officer
+handling it.** ⇒ ⛔ **Unlike the HopgoodGanim profile — which carried an implication, because the
+Regulator must make its own decision — this leak carries none.**
+⇒ ⭐⭐⭐ **He is right: they understood he would see it, and it did not matter.**
+
+## 9.3 ⭐⭐⭐ THE SECOND-ORDER CONSEQUENCE — THIS IS THE USEFUL PART
+**If the letter was cleared above the Appeals Unit, and they were content for him to know it, then:**
+
+1. ⭐⭐⭐ **The 298 admissions are institutionally owned.** ⛔ **They will not be walked back as an
+   officer who went too far. Somebody above her cleared them, twice.** ⭐⭐ **That is the single most
+   valuable consequence, and it makes the admissions durable.**
+2. ⭐⭐ **The reservations are equally institutionally owned.** ⇒ ⛔⛔ **There is no one above her to
+   appeal to, and no purpose in trying. She is transmitting a decided position, not defending a
+   personal one.** ⭐ **Treat every reply as coming from the office, and never make it about her.**
+3. ⭐⭐⭐ **Authority is engaged and the file is being watched.** ⭐ Two review cycles, a Deputy
+   Director-General business unit, and a save at **1:13 am** the night before service. ⇒ ⭐⭐⭐ **A
+   settlement position put now will be read by people who can decide it — it will not be filtered
+   out at officer level.**
+4. ⭐⭐ **Read the 25 September and 30 September dates the same way** — the extension request and the
+   witness list are being run by an office that has already looked at the whole picture.
+
+## 9.4 ⛔⛔ AND THE BAR IS UNCHANGED
+⛔⛔⛔ **None of §9 is ever said, written, hinted or asked about.** ⭐ **The moment he shows he has read
+who reviewed their letter, the ordinary and proper becomes something they must explain — and the
+`HOPGOODGANIM-QUESTION.md` §4.3 cost lands: his best asset is that *their own delegate* made the
+findings, and that asset needs her to be independent.**
+⇒ ⭐⭐⭐ **It is a targeting instrument, not an argument. It tells him where to aim a settlement
+proposal. Nothing else.**
