@@ -547,3 +547,59 @@ wrote.**
 ⇒ **That is why "I am the evidence" works. He is not the only evidence. He is the half the
 documents cannot supply — and they supply the half he cannot.** Neither stands alone; together
 neither can be dislodged without calling the author.
+
+---
+
+# ⭐⭐⭐⭐ ADDENDUM — 10 SEPTEMBER 2026: WHY MS TAYLOR AND MS REESE ARE NOT ON THE LIST, AND MUST NOT BE
+
+⭐⭐⭐ **The witness list served 9 September names five: the Appellant, Dr Krishnaiah, Dr Hawes,
+Mr Harrison-Jones, Ms Conaghan.** ⛔ **Neither Ms Chloe Taylor nor Ms Tammy Reese appears — and that
+is correct.**
+
+## 1. ⛔⛔⛔ CALLING THEM WOULD NOT BE MERELY UNNECESSARY. IT WOULD FORFEIT THE BEST THING HE HAS
+| ⛔ If he calls her | ⭐⭐⭐ If the Respondent calls her |
+|---|---|
+| ⛔ She is **his** witness | ⭐⭐ She is **theirs** |
+| ⛔⛔ **No cross-examination. No leading questions. He is bound by her answers** | ⭐⭐⭐⭐ **He cross-examines, and may lead** |
+| ⛔ He must vouch for her credit | ⭐⭐⭐ He may attack it |
+
+> ⭐⭐⭐ **[35:11]** *"the regulator will call Ms Taylor **to give her side of the story** and **you'll
+> get to cross-examine**"* · ⭐⭐ **Appeal Guide 7.6.2** — *the party who did NOT call the witness
+> conducts the cross-examination.*
+
+⇒ ⭐⭐⭐⭐ **The moment he calls her, he loses the cross-examination the Commissioner already told him
+he would get.**
+
+## 2. ⭐⭐⭐⭐ AND BOTH BRANCHES NOW FAVOUR HIM
+| | |
+|---|---|
+| ⭐⭐⭐ **They call Taylor** | ⭐⭐⭐ **He cross-examines her on 298 ADMITTED facts — without having to prove one of them first** |
+| ⭐⭐⭐⭐ **They do not call her** | ⭐⭐⭐⭐ **[15:40] operates: the Respondent disputes facts while calling NOBODY able to dispute them** |
+
+## 3. ⭐⭐⭐⭐ AND THE CONSEQUENCE LIMB IS NOT PROVED BY EITHER OF THEM — IT IS ALREADY PROVED
+⛔ **Correction to the instinct that calling them would "show that their management actions had
+consequences."** ⭐⭐⭐⭐ **The consequences are proved by THIRD PARTIES, in writing, and ADMITTED:**
+| Source | |
+|---|---|
+| ⭐⭐⭐ **MASPER Registrar → Switchboard manager, 3 and 8 May 2024** | facts 56–68 |
+| ⭐⭐⭐⭐ **Integrated Respiratory Service → Logan Switch, 15 and 20 May 2024** | *"**we can not help patients or other clinical staff**"* — facts 89–104 |
+| ⭐⭐⭐⭐ **Ms Reese's OWN escalation to HR, 8–20 May 2024** | facts 217–223 — *"concerns over how his manager is rostering… impacting on staff fatigue"* · *"**I acknowledge there has been a few rostering errors made by Chloe**"* |
+
+⇒ ⭐⭐⭐⭐ **HE ALREADY HAS MS REESE. HE HAS HER IN HER OWN WORDS, ON HER OWN DATES, ADMITTED BY THE
+RESPONDENT — which is stronger than Ms Reese in a witness box being invited to agree, because a
+document cannot resile, qualify, or not recall.**
+
+## 4. ⭐⭐⭐ SO WHAT WOULD CROSS-EXAMINING MS TAYLOR ACTUALLY BE FOR? NARROW, AND NOT CONSEQUENCES
+⭐⭐⭐ **The two live contests only:**
+1. ⭐⭐ **The Communication Book** (facts 150–153).
+2. ⭐⭐⭐⭐ **CHARACTERISATION** — Dwyer's own preview at **[28:24]**: *"the existence of the emails
+   may not be in dispute… the argument might be about **whether or not they're correctly categorised
+   by you as unassessed directives made without consultation**."*
+
+⇒ ⭐⭐⭐⭐ **He does not need her to concede anything. He needs her to be THERE so the characterisation
+contest can be run — and if she is not there, he wins that contest by default under [15:40].**
+
+## 5. ⛔ THE STANDING RULE
+⛔⛔ **Do not add either name to the witness list.** ⛔ **Do not seek an attendance notice for either.**
+⭐⭐⭐ **The list is served and it is right. The attendance notices that matter are items 2 to 5 —
+and the decisive ones remain Dr Hawes and Dr Krishnaiah.**
