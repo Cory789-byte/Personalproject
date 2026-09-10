@@ -484,3 +484,61 @@ capacity certificates"* (RD69983 p 17).
 
 ⭐⭐ **If an IME report arrives, expect it on the 2022 entries and the interval — not on the life
 events. Those are dated and gone.**
+
+---
+
+# 12. ⭐⭐⭐ THE 2022 ENTRIES — THEY WERE NEVER IN THE RESPONDENT'S PRODUCTION
+> ⭐ From `ASHMORE-PRODUCTION-GAP.md`, established from the face of two documents.
+
+⭐⭐ **The Form 29 to Our Medical Ashmore, sealed 4 July 2025, specified on its face:
+*"Time between: 01/01/2023 to 01/08/2024"*.**
+⇒ ⭐⭐⭐ **The *"26/10/2022 ADHD"* and *"26/10/2022 Anxiety"* entries are OUTSIDE that range. They were
+never requested and are not in the production.**
+⇒ ⭐⭐⭐⭐ **The Respondent knows of them for one reason only: they appear in the past-history list of
+the 16 May 2024 referral letter, which HE served at Tab M1 and quoted in his own schedule.**
+
+## 12.1 ⭐⭐ WHAT THAT DOES TO THE ONE OPEN ATTACK
+1. ⭐⭐ **It was still right to disclose.** ⭐ The referral letter was going in for the medication point,
+   and the candour is what makes the whole schedule credible. ⛔ **Concealing it would have been
+   worse.**
+2. ⭐⭐⭐ **But to RUN a pre-existing-condition case on those entries they would have to OBTAIN the
+   2022 records** — which needs a further notice, to a practice, for a period before the one they
+   themselves scoped. ⚠ **That is a step, it is visible, and it is late.**
+3. ⭐⭐ **And an examiner cannot be properly instructed on entries nobody holds.**
+⇒ ⭐⭐⭐ **So the last open attack is thinner than it looked. ⭐ He should still get Tab M6 and the
+Dr Amini answer — but the burden of putting the 2022 material into evidence is THEIRS, and they have
+not taken a step toward it.**
+
+## 12.2 ⭐⭐⭐ AND THE SAME FILE CARRIES SOMETHING BETTER — THE MISSING MONTH
+⭐⭐ **The notice required production to 1 August 2024. The practice produced to 1 July 2024. ONE MONTH
+SHORT** (*"Subpoena generated using the following date range: 01/01/2023 to 01/07/2024"*).
+⇒ ⭐⭐⭐ **The month not produced is the month of the injury** — it contains the **first attendance of
+1 July 2024**, the **registration of the claim**, and the whole of the first month after the pleaded
+onset of 18 June 2024.
+⚠ **No motive is asserted. It is a non-party practice's production against a sealed notice, and the
+discrepancy is stated as a fact.** ⭐⭐ **But it means the Regulator's own production does not cover
+the onset window — and he should hold that, because it bears on any submission that the medical
+record is thin.**
+
+---
+
+# 13. ⚠⚠ THE UNREDACTED RECORD — NOT A WC POINT, AND NOT A JOKE
+⭐⭐ **What is established:** the notice was **date-scoped but NOT subject-scoped** — nineteen months of
+a whole-of-practice GP record, which necessarily captured matters unrelated to the injury, including
+intimate content. ⭐ **The Respondent holds the unredacted record at item 11.**
+⛔ **"Unscoped" is not accurate and should not be said** — the notice specified its period on its
+face. ⭐⭐ **The accurate complaint is that a date range is not a subject-matter limit.**
+
+## 13.1 ⭐⭐ AND HIS OWN CONDUCT IS THE CONTRAST
+⭐⭐⭐ **He redacted it, marked each redaction on the page, explained what it was, and told them they
+hold the unredacted copy and can verify from it.** ⇒ ⭐⭐ **That is the standard being met on one side
+of the record and not the other, and it needs no comment at all — it is simply visible.**
+
+## 13.2 ⛔⛔ WHERE IT GOES — AND IT IS NOT THE APPEAL
+⛔⛔⛔ **Not on the WC track.** ⭐ It is collateral to s 32, it reads as grievance, and the material is
+Harman-constrained in his hands too.
+⭐⭐ **It belongs on the information-handling / IP Act track already drafted today**
+(`IP-ACT-2009-what-the-letter-sets-up.md`, and the 18 September email).
+⭐⭐⭐ **And there is one place it is properly a WC matter: A SETTLEMENT TERM.** ⭐⭐ **The return or
+destruction of medical material held under compulsory process is an ordinary term of resolution, and
+resolution is the natural moment to raise it.** ⇒ ⭐ **A term, not a complaint.**
