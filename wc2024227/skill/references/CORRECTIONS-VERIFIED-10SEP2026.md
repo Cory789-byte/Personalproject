@@ -70,3 +70,64 @@ without. That is triage, not delay.**
 was never going to produce Tab 31 before their witness list, on his date or hers.**
 ⚠ **And Metro South has already objected once — Tab 20 IS its r 64E objection to the last Form 29 —
 so the realistic path is objection → r 64F stay → r 64G application → hearing.**
+
+---
+
+# 6. ✅✅ §3 RESOLVED — THE EMAIL IS NOW FILED, AND IT CONFIRMS THE WORDING
+
+⭐⭐⭐ **Filed 10 September 2026:**
+`documents/correspondence-2026/2026-09-10_1442_Matheson_extension_request_to_25SEP2026.pdf`
+· mirror at `CASE_FILE/04_FROM_THE_RESPONDENT/02_extension_request_10SEP2026/`
+· verbatim text at `evidence-index/sources-text/2026-09-10_1442_Matheson_extension_request_VERBATIM.txt`
+· **SHA-256 `89463267bc113c89afa626956679b91c554ea5faee8d1781082f87508c779c76`**
+⭐ **Capture:** Chromium *"Reading Pane"* print by the Appellant, PDF created **2026-09-10 08:48:17
+UTC = 18:48:17 +10:00** — about four hours after receipt. ⭐ **He is the recipient and can prove it.**
+
+## 6.1 ⭐⭐⭐ THE BODY, VERBATIM
+> **From:** Renee Matheson · **To:** Cory Shepherd · **Sent:** Thursday 10 September at 14:42
+> **Subject:** RE: SUBJECT: WC/2024/227 – Shepherd v Workers' Compensation Regulator – directions 1 and 2
+>
+> Dear Mr Shepherd,
+>
+> ⭐⭐ I refer to your letter dated 9 September 2026, **asking the Regulator to produce documentation**
+> by Friday 18 September 2026.
+>
+> I am in another hearing **next week** in relation to another matter which will greatly limit my
+> ability to complete other actions, could I please kindly request an extension until Friday
+> 25 September 2026 **to enable me time to review this request** and **if needed reach out to MSH in
+> relation to the requested documents**?
+>
+> Thank you for your consideration of this request.
+>
+> Kind regards, Renee Matheson, Senior Appeals Officer…
+
+## 6.2 ✅ WHAT IS CONFIRMED
+1. ✅ ***"next week"*** — she wrote **Thursday 10 September**, so the hearing is **Mon 14 – Fri 18**.
+   ⭐⭐⭐ **One clear working day before his date. §5 stands.**
+2. ✅ *"could I please kindly request"* and *"if needed reach out to MSH in relation to the requested
+   documents"* — both as transcribed.
+3. ✅ His service **Wednesday 9 September 12:37 PM**; her reply **14:42 Thursday** — **26 hours**.
+
+## 6.3 ⭐⭐⭐ AND TWO THINGS THAT ARE NEW — BOTH MATERIAL
+
+### ⭐⭐⭐ (A) *"to enable me time TO REVIEW THIS REQUEST"*
+⭐⭐⭐ **Not to review the documents. Not to form a position. To review THE REQUEST.**
+⇒ ⭐⭐⭐ **On her own words, 26 hours after service she had not yet reviewed the request itself.** She
+read far enough to see the date and the addressee, and asked for time to do the rest.
+⇒ ⭐⭐⭐ **That is direct confirmation of the finding at `THE-SORT-KEY…` and the omission analysis:
+THERE WAS NO DOCUMENT-BY-DOCUMENT POSITION TO RESTATE, because none had been formed.**
+
+### ⭐⭐⭐ (B) SHE DESCRIBES IT AS A REQUEST TO **PRODUCE DOCUMENTATION** — DROPPING EXIT (b)
+⭐⭐ His letter offered **two** exits: **(a)** produce or confirm by reference to their copy, **or
+(b)** admit authenticity under **rule 49**, which costs nothing and requires no third party.
+⛔⛔⛔ **Her opening line records only (a): *"asking the Regulator to produce documentation."***
+⇒ ⭐⭐⭐ **She is answering the letter as a DISCLOSURE request. That is what generates the need for
+time and for MSH contact — the expensive exit. The free one is not in her description at all.**
+⇒ ⭐⭐ **Consistent with (A): she had not read it closely enough to see that thirteen of the fourteen
+could be closed without leaving her building.**
+⛔⛔ **DO NOT correct her.** ⭐ **Her own framing is doing more work for him than exit (b) would: it
+commits the Regulator, in writing, to treating this as a production task within its remit.**
+
+## 6.4 ⭐⭐ AND ONE SMALL CONFIRMATION OF THE BEHAVIOUR READING
+⭐ **No one else was copied — not Appeals@oir.qld.gov.au, not counsel.** ⇒ ⭐⭐ **An officer-level
+administrative reply requiring no authority, which is why it could be written in 26 hours.**
