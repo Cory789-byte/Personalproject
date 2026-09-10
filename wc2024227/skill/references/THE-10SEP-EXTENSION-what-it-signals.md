@@ -416,3 +416,38 @@ RECORDS — records the Regulator has held since July 2025 and he has largely no
 not received)*.
 ⇒ ⭐⭐⭐ **That is the same task as before, arriving from a different direction: SECURE THE DOCTORS,
 OBTAIN ROW 5, AND KNOW WHAT IS IN THOSE FILES BEFORE THE REGULATOR CROSS-EXAMINES ON IT.**
+
+---
+
+# 16. ⭐⭐ "NO REAL REASON TO WAIT" — RIGHT ON THE FACTS, AND IT CHANGES NOTHING HE SHOULD DO
+
+## 16.1 ⭐⭐⭐ HE IS RIGHT: FOUR OF THE THIRTEEN NEED NO MSH CONTACT AT ALL
+| Tab | Where it is | Time to check |
+|---|---|---|
+| **6** | ⭐ **an attachment to item 25 of the RESPONDENT'S OWN amended List of Documents** | **minutes** |
+| **20** | ⭐ **the Commission's own file** | **minutes** |
+| **30** | ⭐ **quoted in RD 69983 — fact 70, admitted** | **minutes** |
+| **1** | attachment 2 to MSH's own RFMI of 31 July 2026 | **a phone call** |
+⇒ ⭐⭐ **Those four could be confirmed inside an hour. They did not need sixteen days.**
+
+## 16.2 ⚠ AND THE ORDINARY REASONS WHY THEY WILL BE DONE AS A SET
+1. ⚠ **She is in a hearing next week. A one-hour task that is not urgent does not get done.**
+2. ⚠ **Partial answers create work** — two letters, two reviews, two records. Practitioners answer
+   once.
+3. ⭐⭐ **Consistency.** ⭐ **If she concedes four now and must refuse nine later, the four
+   concessions make the nine refusals look worse. Answering as a SET lets her calibrate.**
+
+## 16.3 ⭐⭐⭐ AND THAT THIRD REASON IS THE INFORMATIVE ONE
+⇒ ⭐⭐⭐ **She wants to see the whole MSH position before committing to ANY of it.** ⭐⭐ **That is
+the behaviour of someone who expects the MSH answer to matter — which means TAB 31 is being actively
+considered, not reflexively refused.**
+⭐ **Mildly encouraging, and the only inference worth drawing.**
+
+## 16.4 ⛔⛔ SO HE SAYS NOTHING, AND THE REASON IS ARITHMETIC NOT MANNERS
+⭐⭐⭐ **The concessions he could win early are the ones worth LEAST — four documents whose contents
+are already admitted.** ⭐⭐ **The one that matters, Tab 31, is precisely the one that genuinely needs
+MSH contact.**
+⇒ ⛔⛔ **Pressing for a partial early answer would burn the goodwill of a same-day unconditional
+extension, to obtain four housekeeping concessions of no merit value, and would cost the one thing
+that is worth real money on s 558(3) costs: the appearance of accommodation.**
+⇒ ⭐⭐⭐ **Right observation. File it. Do not act on it.**
