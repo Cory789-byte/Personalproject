@@ -255,3 +255,57 @@ from the other side, and it is worth far more.**
 over what it holds, most tabs conceded on 25 September, nothing dramatic occurs, and Tab 31 is
 refused or deferred.**
 ⛔ **Do not build a strategy on links 3 and 4. Build it on the 30 September list.**
+
+---
+
+# 13. ⭐⭐⭐⭐ THE READING HE PUT — THE DOCUMENT CALL AND THE WITNESS CALL CANNOT BE SEPARATED
+
+## 13.1 ⚠ WHAT THE SENTENCE ACTUALLY SAYS
+> *"reach out to MSH **in relation to the requested documents**"*
+⛔ **On its face it is about the documents. Reading witnesses into it is INFERENCE, not text.**
+
+## 13.2 ⭐⭐⭐ BUT THE INFERENCE IS SOUND, FOR THREE REASONS
+1. ⭐⭐ **You cannot ask about those documents without discussing those people.** ⭐ **Tabs 5, 6, 30
+   and 30A are Ms Taylor's emails. Tabs 22 and 23 are the consultation paper and outcome. Tab 21 is
+   Ms Forrest.** ⇒ **To confirm them she must go to the officers who would be the witnesses.**
+2. ⭐⭐ **The timing forces it.** Any MSH conversation in the week of 15–25 September sits inside the
+   window for the 30 September witness list. ⭐ **You do not ring the same officers twice.**
+3. ⭐⭐⭐ *"Can you confirm this is Ms Taylor's email of 15 April 2024?"* **is one step from** *"will
+   Ms Taylor be available to give evidence about it?"*
+
+## 13.3 ⭐⭐⭐⭐ AND THE ADMISSIONS HAVE TRANSFORMED WHAT AN MSH WITNESS WOULD BE **FOR**
+| Before 8 September | After 8 September |
+|---|---|
+| An MSH officer proves **the events** — uncontroversial factual evidence | ⭐⭐⭐ **The events are admitted. The ONLY remaining purpose of an MSH witness is to say the management action was REASONABLE** |
+
+⇒ ⭐⭐⭐⭐ **That is a materially different thing to ask of an officer.** ⭐⭐ **She would be
+cross-examined on the roster, the pay loop, the database restrictions and the seven-hour break, on
+a record of 298 admitted facts — and against the Regulator's own review decision, which found the
+17–18 March rostering *"amounted to unreasonable management action… in direct contradiction to the
+award and the 8-hour agreement"* (fact 260, admitted).**
+⭐⭐⭐ **The admissions did not just remove the factual contest. They converted the witness role from
+narrator to defender.**
+
+## 13.4 ⭐⭐⭐ AND MSH HAS EVERY REASON TO DECLINE
+- ⭐ **MSH is not a party. It is under no obligation to supply anyone.**
+- ⭐ **Its Chief Executive signed a 28-page objection resisting disclosure in this very matter.**
+- ⚠ **There is a live employment dispute with the same employee, and a public interest disclosure.**
+- ⭐⭐ **An officer called to defend reasonableness would be examined on all of it.**
+⇒ ⭐⭐⭐ **The rational MSH position is: hand over the documents, decline the witnesses.**
+
+## 13.5 ⭐⭐⭐⭐ WHICH IS THE SETTLEMENT MECHANISM, AND IT REQUIRES NOBODY TO CONCEDE ANYTHING
+⭐⭐⭐ **If MSH will not provide witnesses, the Regulator's realistic options are:**
+| Option | What it looks like |
+|---|---|
+| **Run on documents and submissions alone** | ⚠ **the *Bowers* argument with NO WITNESS, against fact 260 and *Stretton* [84]** |
+| ⭐ **Resolve** | ⭐⭐ **no admission required, no concession of principle** |
+⇒ ⭐⭐⭐⭐ **Nobody has to decide the appeal was wrong. MSH only has to say it would rather not.**
+
+## 13.6 ⛔⛔ THE LIMITS — AND THEY MATTER
+1. ⛔ **The sentence says documents. That is all it says.**
+2. ⚠ **She may have had the witness conversation weeks ago** — heading 3 of the 8 September letter
+   already reserves on *"MSH officer statements"*, which suggests it was live before he asked.
+3. ⛔⛔ **"A serious discussion being made about it" is speculation about internal deliberation he
+   cannot see. Do not plan around it.**
+⇒ ⭐⭐⭐ **The 30 SEPTEMBER LIST remains the only observable, and it answers the question either
+way. Everything else is reading tea leaves.**
