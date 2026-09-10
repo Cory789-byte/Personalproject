@@ -196,3 +196,62 @@ Note it and say nothing.**
 work related issues"*.** ⇒ ⭐⭐ **That is how the Regulator holds the Krishnaiah material, including
 the 13 February 2025 report — by lawful compulsion, not by a QSuper release.** ⭐ **Consistent with
 §9.4 of the earlier assessment: assume they have read all of it.**
+
+---
+
+# 12. ⭐⭐⭐ THE CHAIN — IF SHE GETS THE DOCUMENTS, WHAT FOLLOWS
+> The four links, and where the chain breaks.
+
+## 12.0 THE THIRTEEN IN THE REQUEST
+**31 · 1 · 5 · 6 · 17 · 18 · 19 · 20 · 21 · 22 · 23 · 30 · 30A.** *(Tab 24 and fact 154 expressly
+excluded.)*
+
+## 12.1 ⭐⭐ LINK 1 — GETTING THEM **IS** CONCEDING AUTHENTICITY. THEY ARE THE SAME EVENT.
+⭐ **If MSH produces its copy and it matches the copy he served, the dispute is over.** ⭐⭐ **There
+would be no basis to maintain it, and maintaining it would be indefensible.**
+⇒ ⭐ **HOLDS.**
+
+## 12.2 ⛔⛔ LINK 2 — BUT IT DOES NOT MOVE THE MERITS AT ALL. **THE CHAIN BREAKS HERE.**
+⭐⭐⭐ **Twelve of the thirteen have their CONTENTS ALREADY ADMITTED.** ⭐ **Authenticating a copy of
+a document whose contents are admitted adds nothing.**
+⇒ ⛔⛔ **Conceding authenticity costs the Regulator NOTHING on the merits, and getting the documents
+gives him NOTHING he does not already have — except Tab 31.**
+⇒ ⭐⭐ **This is why a broad concession on 25 September is housekeeping and not a signal.**
+
+## 12.3 ⭐⭐⭐ LINK 3 — COULD MSH OBJECT TO A **REGULATOR** NOTICE? ONLY WITH DIFFICULTY.
+| r 64E(4) ground | Against the Regulator |
+|---|---|
+| **non-existence** | ⛔ **unavailable for 6, 20, 30** — they are already on the Respondent's own List of Documents, its own claim file and the Commission's file |
+| **expense / inconvenience (a)** | ⚠ **They ran this against HIM** — CE approval, eHealth Queensland, diversion from health care. ⭐⭐⭐ **But the Regulator already obtained material from the SAME custodians through conferencing without any of that apparatus.** ⭐ *"The documents are the same; the custodians are the same; only the requester differs. A burden that varies with the identity of the party asking is not a burden within rule 64E(4)(a)."* |
+| **relevance / particularity (b), (c)** | ⚠ **Hard to run against the party that defines the issues in the appeal** |
+| **privacy (e)** | ⚠ **Available in principle, but these are workplace records about him** |
+⇒ ⭐⭐⭐ **An objection by MSH to a Regulator notice, for documents it has already been conferencing
+with the Regulator about, would be very hard to justify — and conspicuous.**
+
+## 12.4 ⛔⛔ LINK 4 — AND IF MSH DID DECLINE, THE REGULATOR WOULD **NOT** SAY "WE CONCEDE"
+⭐⭐⭐ **The Regulator defends the REVIEW DECISION. MSH refusing to produce a copy of a document does
+not make the review decision wrong.** ⇒ ⛔ **There is no logical route from an MSH refusal to a
+Regulator concession.**
+
+### 12.4.1 ⭐⭐⭐⭐ BUT THERE IS A REAL CONSEQUENCE, AND IT IS BETTER THAN THE ONE HE IS REACHING FOR
+⭐⭐⭐⭐ **The Regulator has NO WITNESSES OF ITS OWN to the workplace events. Every fact about
+reasonableness lives with Metro South Health.**
+⇒ ⭐⭐⭐⭐ **If MSH will not help on documents, the Regulator cannot run a s 32(5)(a) defence at all —
+not because it concedes, but because it CANNOT PROVE ITS CASE.** ⭐⭐ **Same outcome, different
+route.**
+⭐ **Dwyer said as much on 7 August:** the Regulator *"necessarily will need to call potentially
+people who work for the health service as witnesses in the case, potentially. Maybe not, but
+maybe."*
+⭐⭐⭐ **MSH is not a party. It cannot be made to give evidence except by attendance notice. An MSH
+that is unhelpful on documents is unlikely to be helpful on witnesses.**
+
+## 12.5 ⭐⭐⭐ SO THE THING TO WATCH IS THE 30 SEPTEMBER WITNESS LIST, NOT THE TABS
+⭐⭐ **If MSH officers are absent from the Respondent's witness list, one possible reason is that
+MSH will not provide them.** ⇒ ⭐⭐⭐ **That is the same signal as an authenticity refusal, arriving
+from the other side, and it is worth far more.**
+
+## 12.6 ⚠⚠ AND THE HONEST LIMIT — NONE OF THIS IS THE LIKELY PATH
+⭐ **She wrote *"if needed reach out to MSH"*.** ⭐⭐ **The ~80% path is: informal contact, MSH hands
+over what it holds, most tabs conceded on 25 September, nothing dramatic occurs, and Tab 31 is
+refused or deferred.**
+⛔ **Do not build a strategy on links 3 and 4. Build it on the 30 September list.**
