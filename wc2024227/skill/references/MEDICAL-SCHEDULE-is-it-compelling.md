@@ -269,3 +269,63 @@ weight.**
 and the sequence is untouched. If mood, the November 2023 entry is the complete answer.** ⭐⭐⭐ **Either
 way the sequence stands. Know it before the doctors are called, not to change the case but to be
 ready for the question.**
+
+---
+
+# 8. ⛔⛔ CORRECTION TO §7.5 — THE NOTE IS SILENT, NOT CONTRADICTORY. HE SUPPLIES THE REASON.
+
+⛔ **I said he could not say the 16 May visit was about work because *"the note would contradict
+him"*. WRONG. The note does not contradict him — IT IS SILENT.**
+⭐⭐⭐ ***"Renew referral to psychiatrist"* is what the GP recorded HE DID. It says nothing about why
+the patient attended, and it is exactly what a GP writes when a patient comes in and asks for a
+referral to be renewed.**
+
+## 8.1 ⭐⭐⭐ HE IS A WITNESS, AND THIS IS HIS OWN KNOWLEDGE
+⭐⭐⭐ **He can give evidence that on 16 May 2024 he attended his general practitioner and asked for
+his psychiatric referral to be renewed, and that he did so after the events of 15 May 2024.**
+⇒ ⭐ **First-hand. Admissible. Needs no document, no admission and no authenticity.**
+⇒ ⭐⭐⭐ **And the record CORROBORATES it: the visit, the date, the referral, the melatonin — all in
+the Respondent's own item 11.**
+
+## 8.2 ⭐⭐⭐ THE DISTINCTION THAT MUST BE KEPT — AND IT IS THE SAME ONE AS THE SHIFTS
+| ⛔ Do NOT say | ⭐⭐⭐ Say |
+|---|---|
+| *"The referral shows I sought psychiatric help after the retraction email."* ⛔ **The document does not show that** | *"I attended my GP on 16 May 2024 and asked him to renew my psychiatric referral."* ⭐⭐ **and let the record corroborate the date and the fact** |
+
+⇒ ⭐⭐⭐ **HIS EVIDENCE CARRIES IT. THE DOCUMENT CORROBORATES.** ⭐⭐ **Identical to the emergency calls
+on 17–18 March: it is the architecture that has been right all day, and it is why nothing they refuse
+can stop him.**
+
+## 8.3 ⭐⭐ THE CROSS, AND IT HAS CLEAN ANSWERS
+| Put to him | ⭐ Answer |
+|---|---|
+| *"You were already seeing Dr Amini. This was a renewal."* | ⭐ **"Yes."** |
+| *"So you had ongoing psychiatric care before any of this."* | ⭐⭐⭐ **16 November 2023, their own item 11: no psychological illness such as depression or psychosis; mood good** |
+| *"The note does not mention work."* | ⭐⭐⭐ **"No. I asked for the referral to be renewed. The doctor recorded what he did."** |
+
+⇒ ⭐⭐ **None of those requires him to claim the note says something it does not.**
+
+## 8.4 ⛔⛔⛔ AND IT EXPOSES A GAP IN THE OUTLINE THAT IS BIGGER THAN THE ¶3 ONE
+⭐ **Outline ¶8 as served:** *"He will give evidence of the symptoms he experienced and when; of the
+onset date of 18 June 2024; of attending his general practitioner on 1 July 2024; and of lodging his
+application for compensation on 1 July 2024. He offers no clinical or diagnostic opinion."*
+
+⛔⛔⛔ **¶8 STARTS AT 18 JUNE 2024. The entire sequence at §7.1 — November 2023, 16 May, 28 June — is
+NOT PLEADED ANYWHERE IN HIS OUTLINE.**
+⇒ ⭐⭐⭐ **The best-documented, most contemporaneous part of his medical case is currently outside the
+evidence he has told the Commission he will give.**
+
+### ⭐⭐ PROPOSED ¶8, and it breaches nothing
+> **8. Onset and first presentation.** He will give evidence of the difficulty sleeping he
+> experienced in connection with shift work, and of attending his general practitioner about it,
+> including in November 2023; of attending his general practitioner on 16 May 2024 and asking for his
+> psychiatric referral to be renewed; of attending again on 28 June 2024; of the symptoms he
+> experienced and when; of the onset date of 18 June 2024; of attending his general practitioner on
+> 1 July 2024; and of lodging his application for compensation on 1 July 2024. **He offers no
+> clinical or diagnostic opinion.**
+
+⭐⭐ **Every added item is a FACT about what he did and experienced — attendance, a request, sleep
+difficulty.** ⛔ **No condition is named, no cause is asserted, and the no-opinion sentence is kept
+intact.**
+⇒ ⭐⭐ **Serve it with the ¶3 amendment on 25 September** (`THE-OUTLINE-GAP…` §4.1), as one short
+letter particularising both.
