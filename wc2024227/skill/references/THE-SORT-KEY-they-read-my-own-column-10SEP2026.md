@@ -253,3 +253,40 @@ rule 2 requires reading across rows. The script rendered the result. A person de
 
 ⇒ ⭐⭐⭐ **KEEP THE THOUGHT. NEVER SPEND IT.** ⭐ **The right posture is the opposite one, and it is
 free: whatever answered it, they are bound by it.**
+
+---
+
+# 10. ⛔⛔ CORRECTION TO §9 — THE FIVE REFUSALS DO NOT SHOW A HUMAN. THEY SHOW CARE.
+
+⛔ **§9.1 concluded that fact 230's dependency and fact 154's judgement proved a person answered.
+That is WITHDRAWN. Both are squarely within what a competent model does** — tracing that 230
+inherits from 229, and picking the concession-avoiding answer on 154, are exactly the tasks such a
+tool is good at.
+
+⇒ ⭐⭐⭐ **What the five refusals actually establish is narrower and still worth having: this was NOT a
+naive, unreviewed, row-by-row pass.** ⛔ **Whether the care was a person's or a tool's cannot be
+determined from anything in the file, and nothing in the file ever could.**
+
+## 10.1 ⭐⭐⭐ AND THAT MAKES THE BETTER POINT AVAILABLE — THE OUTPUT IS A TRIAGE EITHER WAY
+⭐⭐ **Five refusals out of 303 is an extraordinarily narrow selection. A narrow selection is a
+considered one, whoever or whatever made it.** ⇒ ⭐⭐⭐ **So the five ARE the answer to "what did they
+decide they could not afford to admit":**
+
+| Refused | ⭐⭐⭐ What it protects |
+|---|---|
+| ⭐⭐ **154** | *"The Respondent's amended List of Documents dated 14 August 2026 does not list the Communication Book, nor any page or entry from it."* ⇒ **the disclosure gap on the Communication Book** |
+| ⭐⭐⭐ **228, 229, 230, 231** | the **2024 Emergency Code Register** entries for 17–19 March 2024 — the MET calls, the codes, the six entries between 6:00 and 14:00 on 18 March ⇒ ⭐⭐⭐ **how busy the shifts actually were** |
+
+⇒ ⭐⭐⭐ **Those are the only two places left where a fresh factual contest can be run: what was in the
+Book, and what the workload was on the nights of the seven-hour break.** ⭐⭐ **Everything else they
+conceded.**
+
+## 10.2 ⭐⭐⭐ SO THE TELL IS IN THE FACTS COLUMN, NOT THE DOCUMENTS COLUMN — TWO DIFFERENT PROCESSES RAN
+| Column | ⭐ Process | ⭐⭐ What it tells him |
+|---|---|---|
+| ⭐⭐⭐ **The 303 facts** | **triaged** — 298 conceded, 5 held | ⭐⭐⭐ **THE TELL. The 5 are the danger set.** |
+| ⛔ **The 39 tabs** | **mechanical** — 14 of 14 track his own *"Copy produced from"* column | ⛔ **NOT a danger set.** ⭐⭐⭐ **Proof: Tab 25 — the Review Decision carrying fact 260 — was authenticated in full. No triage leaves that in.** |
+
+⇒ ⭐⭐⭐ **His instinct was right about there being a tell, and about the wrong column.** ⭐⭐ **Build the
+hearing around the two contests they reserved: the Book, and the workload.** ⭐ **Tab 31 is the only
+tab worth an application, and §10.1 is why.**

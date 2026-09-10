@@ -187,3 +187,44 @@ describe any communication before 18 June 2024 as a **warning** (302).
   admission is fixed and survives any amendment. ⇒ ⭐⭐⭐ **Fact 303 is the durable one of the four,
   and it is an admission that their pleaded case does not particularise the management action it
   relies on.**
+
+---
+
+# 8. ⭐⭐⭐ THEY KNOW HE READS METADATA — AND THEY CHANGED NOTHING
+
+⭐ **Premise accepted: the HopgoodGanim question was put to them, so the Regulator knows the Appellant
+reads document metadata.** ⇒ ⭐⭐ **The 8 September service is the test of whether that changed their
+handling. It did not.**
+
+| Document | How produced | ⭐ What it leaked |
+|---|---|---|
+| **Form 24 + Form 25 responses** | ⭐ **the pypdf pipeline** | ⛔ **nothing** — Producer and two dates. No author, no company, no DMS profile. ⭐⭐ **Bare because pypdf writes nothing, NOT because anyone scrubbed it** |
+| ⭐⭐⭐ **The cover letter** | ⛔ **Word → Acrobat PDFMaker 26** | ⛔⛔ **everything** |
+
+## 8.1 ⭐⭐ WHAT THE COVER LETTER CARRIES
+`/Author: Peter` · `/_AuthorEmail: Margaret.Kerrigan@oir.qld.gov.au` ·
+`/_AuthorEmailDisplayName: Margaret Kerrigan` · `/_AdHocReviewCycleID` and
+`/_PreviousAdHocReviewCycleID` · `/Business unit: Office of the Deputy Director-General` ·
+`/Company: Queensland Treasury` · `/SourceModified: 8 Sep 2026 01:13:17` ·
+`/Landing page: Correspondence`
+
+⇒ ⭐⭐ **The two review-cycle IDs are the artefact of Word's "send for review".** ⇒ ⭐⭐⭐ **The letter was
+created by "Peter", circulated for review by Ms Kerrigan, within the Deputy Director-General's
+business unit, last saved at 1:13 am, converted at 11:14 am and served at 11:24 am.**
+⇒ ⭐⭐⭐ **Ms Matheson's name appears nowhere in it. She signed and served the letter; the metadata does
+not show her authoring it.**
+
+## 8.2 ⭐⭐⭐ THE POINT ABOUT THEIR HANDLING
+⭐⭐⭐ **Word → PDFMaker is the exact production path that carried a law firm's DMS profile into Review
+Decision 69983. They used it again, on the one document a person made, and it leaked again.**
+⇒ ⛔ **There is no metadata policy and no scrubbing.** ⭐ **So nothing in the 8 September set was
+staged for him to find, and nothing was hidden from him — the two production paths simply behave
+differently.**
+
+## 8.3 ⛔⛔⛔ AND IT GOES NOWHERE — SAME BAR AS HOPGOODGANIM
+⛔ **Never raised, in any forum.** ⭐ **`HOPGOODGANIM-QUESTION.md` §4.3 is decisive and applies
+identically here: his best settlement asset is that *the Regulator's own delegate* found employment a
+significant contributing factor and factor 4 unreasonable management action. ⛔⛔ That argument needs
+her to have been a genuine, independent decision-maker. Suggesting her correspondence is drafted and
+cleared above her destroys it.**
+⇒ ⭐⭐ **Internal only. It informs who he is really negotiating with — and nothing else.**
