@@ -197,3 +197,58 @@ blow.** ⭐⭐⭐ **The blow is K8, answered in the words of s 32(1), by a treat
 | A typical **self-represented** s 32 appeal | ⭐⭐⭐⭐ **Far outside the range. They will not have seen one like it.** |
 | A **represented** appellant with a commissioned report | ⭐ **Level on documents. Behind on medical.** |
 | ⭐ **What decides it** | ⭐⭐⭐ **The medical, which is the one thing the set does not supply.** |
+
+---
+
+# 9. ⭐⭐⭐⭐ THE CANDOUR — IT IS A STRUCTURE, NOT A TONE. AND IT IS BRITTLE.
+> Cory, 10 Sep 2026: *"it will be read as complete honesty candour and events in time."* ⭐⭐⭐
+> **Correct — and it is the most valuable single property of the set.**
+
+## 9.1 ⭐⭐⭐ EVERY DOCUMENT CARRIES AT LEAST ONE CONCESSION AGAINST INTEREST, UNPROMPTED
+| Document | The concession nobody asked for |
+|---|---|
+| ⭐⭐⭐⭐ **Medical schedule** | the ***"Not relied upon for"*** column — **row 3 fences preoccupation with the claim · row 4 fences everything after 24 Oct 2024 · row 6 fences causation · row 7 fences binding effect** |
+| ⭐⭐⭐ **Response letter §1** | *"draws **no characterisation, conclusion or inference** from any admitted fact beyond the fact admitted"* |
+| ⭐⭐⭐ **Response letter §3** | *"Review Decision 69983 is **not relied upon as binding** the Commission"* — ⭐ **conceding the status of the document that carries fact 260, his best fact** |
+| ⭐⭐⭐⭐ **Response letter §4** | *"**No report has been prepared for the purposes of this proceeding.**"* ⭐ **The biggest weakness in his own case, volunteered in writing** |
+| ⭐⭐⭐ **Request letter** | *"had the authenticity of the copies been admitted… **none of these documents would need to be sought**"* · *"**No request is made** in respect of fact 154 or Tab 24"* · ⭐⭐ **and it tells them twelve of thirteen have contents already admitted, which WEAKENS his own request** |
+| ⭐⭐⭐ **Outline, opening** | *"except the emergency codes of 17 and 18 March 2024, **which are not admitted and which I give from my own knowledge**"* ⭐ **flagging exactly where he is uncorroborated** |
+| ⭐⭐ **Outline, topic 9** | *"**I offer no clinical or diagnostic opinion.**"* |
+
+⇒ ⭐⭐⭐⭐ **A tribunal notices this. It is what makes a Commissioner willing to accept uncorroborated
+evidence of EFFECT from a witness with no document behind it — which is exactly what topic 9 needs.**
+
+## 9.2 ⚠ ON "EVENTS IN TIME" — TWO DIFFERENT THINGS, AND HE SHOULD KNOW WHICH IS WHICH
+- ⭐⭐ **The MEDICAL SCHEDULE is a chronology**: *"No psychological illness before June 2024 (item 1);
+  first presentation 28 June 2024; certification 1 July 2024; diagnosis 24 October 2024; the
+  psychiatrist's account 13 February 2025; continuing effect 3 July 2026."*
+- ⛔ **The OUTLINE is NOT chronological.** It is the **causation test** — exposure (1–7), baseline
+  (8), onset (9), sequelae (10) — ⭐ **built out of chronologies inside each topic** (8 Apr → 9 Apr →
+  1 May; 3 May 3:06pm → 8 May 5:28pm → 9 May 9:20am → 10:15am).
+⇒ ⭐⭐ **If asked "is this in date order?" the answer is NO, and there is a good reason.** Say it
+once: *"It is ordered by what each topic proves, and each topic is in date order within itself."*
+
+## 9.3 ⛔⛔ THE ASYMMETRY — CANDOUR PAYS MORE AND BREAKS HARDER
+⭐⭐⭐⭐ **A candid witness caught overstating ONCE loses more than an argumentative one does**, because
+the impression is retroactive. ⇒ ⛔ **Two live exposures:**
+
+### ⛔⛔ 1. THE FACT 219 SENTENCE IS THE WHOLE OF THE RISK TO THE IMPRESSION
+> **Topic 2:** *"that **no fatigue risk assessment was made**"* — **absolute**, against **fact 219**,
+> whose admission **he procured himself**.
+⭐⭐⭐ **Handled in ONE clean sentence, the candour survives and is reinforced.** ⛔⛔ **Equivocated
+over, the candour of every other document is retroactively damaged.** ⭐ **This is now the highest-value
+preparation item after securing the doctors.**
+
+### ⚠⚠ 2. THE WIDE-NET PRIOR — DWYER HAS ALREADY SAID IT ONCE
+> **[26:34], of the Form 29:** ⛔ ***"It's a pretty wide net you're casting."***
+⚠ **The thirteen-tab request risks reading as the same habit repeating, to the same reader.**
+⭐ **Mitigated — the letter distinguishes Tab 31 and excludes fact 154 and Tab 24 — but not cured.**
+⇒ ⭐⭐⭐ **Narrow HARD at the next step. If they concede broadly on 18 September, accept in one line
+and reduce everything after it to Tab 31 alone.** ⭐ **That converts the prior into its opposite.**
+
+## 9.4 ⛔ AND THE LIMIT
+⚠⚠ **Candour on paper establishes a posture. The hearing tests it.** ⭐⭐ **It will be tested at
+topic 9 — the evidence of effect — where there is no document to stand behind, where overstatement
+is most tempting, and where it costs the most.**
+⇒ ⭐⭐⭐ **Plainly, without adjectives, exactly as the outline is written. The understatement IS the
+case.**
