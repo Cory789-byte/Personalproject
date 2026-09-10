@@ -290,12 +290,11 @@ Hospital and Health Service, and it is addressed personally to *"Commissioner Dw
 
 | | |
 |---|---|
-| ⭐⭐ **Who would have sworn** | ⛔ **NOT the Chief Executive.** Draft order (c) sought *"an officer with **direct knowledge of the searches**"* |
-| ⭐⭐⭐⭐ **Which is the sharper exposure, not the softer one** | ⭐⭐⭐⭐ **A subordinate, on oath, reconciling the 6–8 May search artefacts against the CHIEF EXECUTIVE's signed 5 June letter to the Commissioner.** ⭐⭐ Either the oath confirms the CE's letter against the artefacts, or it does not |
+| ⭐⭐⭐⭐ **Who would have sworn** | ⭐⭐⭐⭐ **THE CHIEF EXECUTIVE HERSELF. See §10 — I got this wrong and it is corrected there.** Draft Order **v2, order 3**: *"MSH, **by its Chief Executive or a delegated Director**, file and serve… a verification affidavit"* |
 
-⇒ ⭐⭐⭐ **So the substance of the instinct is right, and it is sharper than stated: the request did
-not ask the CE to swear. It asked someone junior to her to swear to the thing she had already
-written.**
+⇒ ⭐⭐⭐⭐ **The instinct was exactly right and I understated it: the filed draft order asked the
+Chief Executive to swear to the non-existence she had already asserted in a letter under her own
+signature.**
 
 ## 9.2 ⭐⭐⭐⭐ AND THE MENTION WAS BUILT ON THAT LETTER — THIS IS VERIFIABLE, AND IT NEEDS NO MOTIVE
 ⭐⭐⭐ **The CE's letter makes one procedural complaint, at its outset:**
@@ -361,3 +360,75 @@ WANT TO LIST IT — AND HE GAVE HIS REASON.**
 
 ⇒ ⭐⭐⭐⭐ **That is the whole point, made without a word about anybody's state of mind — and it is
 the only application left worth making.**
+
+---
+
+# 10. ⭐⭐⭐⭐ THE DRAFT ORDER — READ PROPERLY, AND A CORRECTION
+
+> ⛔⛔ **CORRECTION.** In §8 and §9 I described the **12 June** draft order — one page, marked
+> *"SUPERSEDED"*. ⭐⭐⭐ **The order actually filed with the application is DRAFT ORDER v2, prepared
+> 18 June 2026 and filed 23 June.** The covering email lists it: *"4. **Draft Order (version 2) —
+> 3 pages**."* ⛔ **`documents-and-64g.md` also describes v1 and is now stale on this point.**
+
+| | v1 — 12 June (SUPERSEDED) | ⭐⭐⭐⭐ v2 — FILED 23 JUNE |
+|---|---|---|
+| Pages | 1 | **3** — operative orders 1–8 on **page 1**; pages 2–3 are the Schedule |
+| ⭐⭐⭐⭐ **Who swears** | *"an officer or officers with **direct knowledge of the searches**"* | ⭐⭐⭐⭐ ***"MSH, BY ITS CHIEF EXECUTIVE or a delegated Director"*** |
+
+⇒ ⭐⭐⭐⭐ **So the contention was literally correct. The filed draft order asks the Chief Executive
+of Metro South Health to swear, on oath, to the non-existence she asserted in her own signed letter
+of 5 June 2026 to Commissioner Dwyer.**
+
+## 10.1 ⭐⭐⭐⭐ AND THE OPERATIVE ORDERS ARE ONE PAGE, AND EACH ONE ANSWERS SOMETHING HE SPENT THE HOUR ON
+
+| Order | What it says | ⛔ What he spent the hour saying |
+|---|---|---|
+| ⭐⭐⭐⭐ **2** | production *"by **native electronic export** of the messages and records returned by the **server-side filters**… **no inbox review, reading or relevance-assessment of any email being required**"* | ⛔⛔⛔ **[18:31] *"It's quite an imposition"*** · the expense ground · *"fishing"*. ⭐⭐⭐⭐ **The expense objection is answered ON THE FACE OF THE ORDER, in one clause** |
+| ⭐⭐⭐⭐ **4** | *"The time for production… **is fixed and is not contingent upon the supply of any pleading to MSH**"* | ⛔⛔ **The Chief Executive's OPENING COMPLAINT** — *"not in receipt of the Applicant's Amended Statement of Facts and Contentions"*. ⭐⭐⭐ **Answered, in one sentence, in the order** |
+| ⭐⭐⭐ **1** | the Notice *"**upheld as varied**"* — pressed Items reduced to **1, 2, 3(a), 3(b), 9, 10, 19**, Item 10 confined to (a)–(e) | ⛔⛔ **[01:02] *"you won't be getting to hearing"*** · [21:38] *"page after page after page"* · [59:10] *"it's a much shorter list"*. ⭐⭐⭐⭐ **THE NARROWING HE ASKED FOR HAD ALREADY BEEN DONE, IN THE ORDER, SEVEN WEEKS EARLIER** |
+| ⭐⭐⭐ **3** | the **Chief Executive** verification affidavit, 7 business days | ⛔ [47:52] *"Well, what are you asking for if that's the case?"* — ⭐⭐⭐ **THIS is the answer, and it is order 3 on page 1** |
+| ⭐⭐ **6** | s 580 IR Act **non-publication** of the PID reference and the ESU determination, giving effect to **s 65 PID Act** | ⭐⭐ **He had already protected the PID himself, unprompted** |
+| **5, 7, 8** | produce to the Commission first if privacy is raised; **costs reserved**; liberty to apply | ⭐ **costs exposure already neutralised on the face of the order** |
+
+⇒ ⭐⭐⭐⭐ **Every substantive thing Dwyer pressed him on for sixty-five minutes — breadth, expense,
+inbox burden, the missing pleading, costs, the PID — was already disposed of on the first page of
+the order he was being asked to make.**
+
+## 10.2 ⭐⭐⭐ AND THE SCHEDULE PRE-EMPTED THE ANSWER THEY WOULD GIVE
+⭐⭐⭐ **Schedule, Part 1(1):** *"a **bare assertion of non-existence, unsupported by a deposed search,
+being insufficient**"* — then: who searched, whether that person **had access to the systems**, which
+mailboxes and repositories, which search terms and date-ranges, **and the date of the search.**
+⭐⭐ **Part 1(2):** whether it **ever** existed; if so when and by what means it ceased to exist,
+**on whose authority**, and under what retention schedule.
+
+⭐⭐⭐⭐ **And Part 2, Items 1–2 — the pre-emption that matters most:** the affidavit must say whether
+the *"spreadsheet of recorded MET calls"* is **(a)** a SPOK export, **(b)** an MSH administrative
+record, or ⭐⭐⭐⭐ **(c) *"the Appellant's own monthly call-statistics sheet (volume only)"*** — and
+**if (c), confirm that the SPOK system-level records have been separately searched.**
+
+⇒ ⭐⭐⭐⭐ **He had already worked out that the one document MSH offered might be his own document
+handed back to him, and closed that exit in the draft order — in June.**
+
+## 10.3 ⭐⭐⭐⭐ THE FINDING
+1. ⭐⭐⭐⭐ **The contention is right and I understated it: the filed order names the Chief Executive.**
+2. ⭐⭐⭐⭐ **The operative orders are one page, and they answer the expense objection, the missing-
+   pleading complaint, the breadth complaint and the costs risk — the four things the hour was
+   actually about.**
+3. ⭐⭐⭐ **Not one of them was mentioned in sixty-five minutes.** ⛔ Not order 2's *"no inbox review"*
+   against *"quite an imposition."* ⛔ Not order 1's narrowed item list against *"a much shorter
+   list."* ⛔ Not order 4 against the Chief Executive's own opening complaint.
+4. ⇒ ⭐⭐⭐⭐ **The narrowing exercise the mention was held to achieve had already been performed, in
+   writing, on page one of the order — and the hour was spent asking for it.**
+
+## 10.4 ⛔ AND THE DISCIPLINE DOES NOT CHANGE
+⛔⛔⛔ **This is still never said, and the reason is now stronger, not weaker.** ⭐⭐ *"Everything you
+asked for was on page one"* is the single most humiliating thing that can be put to a decision-maker
+and it would cost more than it could ever win. ⛔ **It is a build rule, not an argument.**
+
+⭐⭐⭐ **What it changes operationally:**
+| ⭐ | |
+|---|---|
+| ⭐⭐⭐⭐ **The narrowing is already drafted, and it is HIS** | Order 1's list — **Items 1, 2, 3(a), 3(b), 9, 10, 19** — is the narrowed case, prepared before the mention. ⭐⭐ **Any fresh application starts from it, not from scratch** |
+| ⭐⭐⭐⭐ **Order 2's clause is the answer to any expense objection, ever** | ***"no inbox review, reading or relevance-assessment of any email being required"*** — ⭐⭐ **put that clause on the face of the fresh application for the MET spreadsheet** |
+| ⭐⭐⭐ **Schedule Part 2, Items 1–2 (c) is the trap that is still set** | ⭐⭐⭐ **If they ever produce the "available spreadsheet" and it is his own call-statistics sheet, that is already anticipated in writing, dated June 2026** |
+| ⛔ **Fix the stale reference** | `documents-and-64g.md` describes draft order v1 (*"an officer with direct knowledge"*). ⭐ **It must read: v2, order 3 — the Chief Executive or a delegated Director** |
