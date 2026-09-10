@@ -432,3 +432,52 @@ and it would cost more than it could ever win. ⛔ **It is a build rule, not an 
 | ⭐⭐⭐⭐ **Order 2's clause is the answer to any expense objection, ever** | ***"no inbox review, reading or relevance-assessment of any email being required"*** — ⭐⭐ **put that clause on the face of the fresh application for the MET spreadsheet** |
 | ⭐⭐⭐ **Schedule Part 2, Items 1–2 (c) is the trap that is still set** | ⭐⭐⭐ **If they ever produce the "available spreadsheet" and it is his own call-statistics sheet, that is already anticipated in writing, dated June 2026** |
 | ⛔ **Fix the stale reference** | `documents-and-64g.md` describes draft order v1 (*"an officer with direct knowledge"*). ⭐ **It must read: v2, order 3 — the Chief Executive or a delegated Director** |
+
+---
+
+# 11. ⭐⭐⭐ WHO ANSWERED THE APPLICATION — NOBODY
+
+> **Service complete 25 June 2026, 08:31. The mention is 7 August. Forty-four days.**
+
+## 11.1 ⭐⭐⭐⭐ MS RUTTAN — FAST WHEN IT REDUCED EXPOSURE, SILENT WHEN IT TESTED IT
+| Date | What she did | Elapsed |
+|---|---|---|
+| 22 Apr | *(Form 29 served on MSH)* | — |
+| ⭐ **30 Apr** | **MSH extension-of-time application (r 64E)** | ⭐ **8 days — quick** |
+| ⛔ **22 May** | ⛔ **MSH DOES NOT ATTEND the mention** — the Commissioner expressly notes it | — |
+| ⭐ **5 Jun** | **The objection, K-LM26/729** — signed by the Chief Executive, enquiries to her | ⭐ on time |
+| ⭐⭐⭐⭐ **25 Jun → 7 Aug** | ⛔⛔⛔ **NOTHING. No acknowledgement, no submissions, no material, no answer to the application seeking to overrule her own objection** | ⛔⛔ **44 days** |
+| ⛔ **6 Aug** | ⛔ **She does not confirm her own attendance.** Ms Matheson's email merely **cc's** her; the Appellant's email has to record that the notice *"requires the attendance of Myla Ruttan"* | — |
+| ⛔⛔ **7 Aug** | ⛔ Addressed **twice, both procedural** — *"And Ms Ruttan, any…"* [61:38] · *"Ms Ruttan, is that all right with you?"* [63:56] | ⛔⛔⛔ **NOTHING SUBSTANTIVE SAID** |
+
+⇒ ⭐⭐⭐⭐ **The pattern is consistent and it is one line: fast on anything that REDUCED MSH's
+exposure — the extension, the objection. Absent on everything that would have TESTED it — the
+22 May mention, the application, the room.**
+⇒ ⭐⭐⭐ **Under r 64G the Commission decides the objection. MSH filed nothing in support of its own
+objection in six weeks, and then said nothing about it in person.**
+
+## 11.2 ⭐⭐ MS MATHESON — ALSO NOTHING ON THE 64G, BUT IT SIGNIFIES LESS
+⚠ **She was not the objector.** The 64G put nothing to her that required an answer, so her silence
+on it is weak evidence.
+
+⭐⭐ **What her cadence in that same window actually shows:**
+| Sent to her | Her reply | Elapsed |
+|---|---|---|
+| Calderbank #2 — **1 Jul** | rejection **16 Jul 15:54** | **15 days** |
+| Disclosure-list request — **24 Jul** | **3 Aug 07:17** | **10 days** |
+| *(attendance confirmation)* | **6 Aug 14:47** — ⚠ *"**Apologies for the delay in this notification**"* | ⛔ **the day before** |
+| ⭐⭐⭐⭐ **The Form 24 notice to admit + the 9 Sep letter** | ⭐⭐⭐⭐ **10 Sep 14:42** | ⭐⭐⭐⭐ **26 HOURS** |
+
+⇒ ⭐⭐⭐⭐ **The rule that explains all four: she moves at the speed of the CONSEQUENCE, not the
+document.** ⭐⭐ **The 64G asked her for nothing and got months. The r 49 notice carried a
+deemed-admission clock and got 26 hours.**
+
+## 11.3 ⭐⭐⭐ THE FINDING
+⭐⭐⭐⭐ **The application was received by everyone and answered by no one.** ⛔ Not by the objector,
+who filed nothing and said nothing. ⛔ Not by the Regulator, who was not asked. ⛔ Not by the
+Commission, which parked it at minute two.
+⇒ ⭐⭐⭐ **It was never contested. It was never determined. It was left.**
+
+⭐⭐⭐⭐ **And that is the operational lesson, already proved twice over: an instrument that merely
+ASKS gets silence; an instrument that carries a CONSEQUENCE gets an answer in a day.** ⭐⭐ **The
+Form 29 asked. The Form 24 consequenced. ⇒ Anything served from here carries its own clock.**
