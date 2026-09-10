@@ -309,3 +309,65 @@ narrator to defender.**
    cannot see. Do not plan around it.**
 ⇒ ⭐⭐⭐ **The 30 SEPTEMBER LIST remains the only observable, and it answers the question either
 way. Everything else is reading tea leaves.**
+
+---
+
+# 14. ⭐⭐⭐ THE CONFERENCE HYPOTHESIS — AND WHY IT IS THE THING MOST LIKELY TO END THIS
+
+## 14.1 ⭐⭐ IT IS NOT SPECULATION. IT IS HER DOCUMENTED PRACTICE.
+⭐ **Annexure A tabs are sourced to *"the Respondent's disclosure from witness conferencing
+(C Taylor)"* and *"(T Reese)"*.** ⇒ ⭐⭐ **She has conferenced these officers before and produced
+documents through that channel. Assume she will do it again, and that the admissions and his served
+outlines are on the table when she does.**
+
+## 14.2 ⚠ WHAT HE HAS GIVEN THEM — REAL, AND UNAVOIDABLE
+⭐ **The outline (ten topics, fact ranges), two lay outlines, the witness list including both
+doctors, and the medical schedule with the "not relied upon for" column.**
+⇒ ⚠ **They can prepare officers to specific topics, anticipate the cross, and shape their own
+outlines to meet his.**
+⛔ **This was COMPELLED by direction 2. There was no choice and there is no error to correct.**
+⭐⭐ **But it means the case no longer contains a surprise — and he must stop holding one in
+reserve. It wins on documents.**
+
+## 14.3 ⭐⭐⭐⭐ THREE THINGS THAT LIMIT THE ADVANTAGE SEVERELY
+1. ⭐⭐⭐ **The flow STOPS on 30 September.** Direction 2 is sequential: he went first, they go
+   second, and he owes nothing further. ⇒ ⭐⭐ **From 30 September he knows their case and they
+   learn nothing more. He then has weeks to build cross-examination against their outlines, having
+   written his against nothing.**
+2. ⭐⭐⭐⭐ **Preparation cannot change the documents.** ⭐ **298 admissions are fixed. Fact 260 is
+   fixed.** ⇒ ⭐⭐⭐ **What a witness can be prepared to SAY cannot alter what the record SHOWS —
+   and the more an officer is prepared to defend reasonableness against admitted documents, the
+   more the evidence is CONSTRUCTED rather than RECALLED. That is precisely what cross-examination
+   exposes.**
+3. ⭐⭐⭐⭐ ***Browne v Dunn* runs AGAINST them once they conference.** ⭐ **If Ms Taylor gives an
+   account contradicting his evidence, they must put it to him. If they do not put it, they cannot
+   rely on it.** ⇒ ⭐⭐ **Conferencing creates an OBLIGATION, not only an advantage.**
+
+## 14.4 ⭐⭐⭐⭐ AND THE POINT HE SHOULD ACTUALLY HOLD
+⭐⭐⭐⭐ **A war-game of the admissions is the exercise MOST LIKELY to produce a settlement
+recommendation.**
+⭐⭐ **Sit MSH officers down. Walk them through 298 admitted facts, through fact 260 — their own
+Regulator's decision finding the rostering *"unreasonable management action… in direct contradiction
+to the award and the 8-hour agreement"* — and through what cross-examination on the roster, the pay
+loop, the database restrictions and the seven-hour break will look like.**
+⇒ ⭐⭐⭐⭐ **The answer that comes back from that room is usually: "we would rather not."**
+⇒ ⭐⭐⭐ **The conference he is worried about is the conference most likely to end this — not
+because anyone is persuaded he is right, but because the officers are shown what the box looks
+like.**
+
+## 14.5 ⭐⭐ "A DEFENCE OR A WALL" — THE WORD IS RIGHT
+⭐⭐⭐ **What they can build now is not a case. It is a CONTAINMENT.** ⭐ **The events cannot be
+disputed; only their characterisation can.**
+⇒ ⭐⭐⭐ **A containment built on witness accounts standing against admitted documents is the
+weakest available structure, because every brick in it is a person who can be cross-examined —
+and every one of them is an MSH employee with no obligation to be there.**
+
+## 14.6 ⭐ WHAT CHANGES FOR HIM — LITTLE, AND ALL OF IT PREPARATION
+1. ⛔ **Nothing to undo. The set is served.**
+2. ⭐⭐⭐ **BUILD THE TAYLOR CROSS NOW.** *(Already a standing task.)* **If she is conferenced and
+   listed he needs it. If she is not listed he has lost nothing.**
+3. ⭐⭐⭐ **Plan the 30 September read: their outlines against the 298 admitted facts, line by line,
+   looking for anything that contradicts an admitted fact.** ⭐ **Mechanical, and it is where the
+   early-service advantage is repaid.**
+4. ⛔⛔ **Write nothing to her about any of this. No hint that he is thinking about their
+   preparation.**
