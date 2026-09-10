@@ -221,3 +221,96 @@ documents is the Respondent, and it has no witness to carry it.**
 
 **Range unchanged: 70–80%, centred ~75%. The three-stressor structure raises the floor, not the
 ceiling — because it takes only one to succeed.**
+
+---
+
+# 8. ⛔⛔ CORRECTION — *BOWERS* DOES NOT SAVE THEM (Cory, 10 Sep 2026)
+> ⭐⭐⭐ **He is right, and I had fact 260 badly under-described.** ⛔ **I have been calling it "the
+> shorter break". It is not. It is THEIR FINDING OF UNREASONABLE MANAGEMENT ACTION.**
+
+## 8.1 ⭐⭐⭐⭐ FACT 260, VERIFIED FROM THE BUILD SOURCE
+> **Fact 260** *(RD 69983, 24 Oct 2024 — the Respondent's own decision — Annexure A Tab 25;
+> **admitted 8 September 2026**)*:
+> *"That decision states: **'Based on this, I find the rostering of these two shifts amounted to
+> UNREASONABLE MANAGEMENT ACTION given that it was in DIRECT CONTRADICTION TO THE AWARD AND THE
+> 8-HOUR AGREEMENT.'**"*
+
+⭐ **With fact 258** — *"The break between the shift on 17 March 2024 and 18 March 2024 equated to
+7 hours."* — **and fact 259** — *"even if you were allowed to leave early… you still did not receive
+a minimum 8-hour break."* **All three admitted.**
+
+## 8.2 ⭐⭐⭐ WHY *BOWERS* CANNOT REACH IT
+***Bowers*, via *Kerr* [306]:** *"Reasonable schemes, reasonably implemented, can miscarry."*
+That defence needs three things:
+| Limb | Status |
+|---|---|
+| (a) a scheme | ⭐ **admitted** — 9C ¶33 (fatigue policy + Award govern), ¶34 (*"the contents of this agreement provide the accurate terms"*) |
+| (b) reasonably **implemented** | ⛔ **gone — see 8.3** |
+| (c) a **miscarriage** | ⛔⛔ **gone — their own decision calls it "DIRECT CONTRADICTION TO THE AWARD"** |
+
+⇒ ⭐⭐⭐⭐ **A departure a decision-maker characterises as "direct contradiction" to a written
+instrument is not a scheme that miscarried. *Bowers* protects the scheme that was followed. This
+one, on their own finding, was not.**
+⇒ ⭐⭐⭐ **And admitting ¶33 and ¶34 converts the scheme from a DEFENCE into a YARDSTICK.** ⭐ **They
+fixed the measure, then their own decision measured the departure.**
+
+## 8.3 ⭐⭐⭐ THE WITNESS OUTLINES CLOSE THE ¶40 ESCAPE — ON BOTH ADJECTIVES
+9C ¶40 concedes a breach *"a result of **human error** and **not intentional or repeated**"*.
+| Adjective | What contradicts it | Source |
+|---|---|---|
+| ⛔ **"human error"** | ⭐⭐ the Stibbard email of **18 July 2023** removing everyone's database access, **changes to be sent to her directly** — ⭐ **a management DECISION, not an error** | **Harrison-Jones ¶4** *(he received it)*, **¶5** |
+| ⛔ **"not repeated"** | the monthly update task left undone across **~3 months** | **Harrison-Jones ¶2** |
+| ⛔ **"not repeated"** | pager and number updates *"left unactioned **over extended periods**"* | **Conaghan ¶6** |
+| ⛔ **"not repeated"** | 2–8 May 2024, operators *"had **no means** of correcting an incorrect entry… themselves"* | **Conaghan ¶8** |
+| ⛔ **limb (b) — implementation** | ⭐⭐⭐ *"not consulted about, and was **not balloted** in relation to, changes to the Switchboard roster **at any time before 30 June 2024**"* | ⭐⭐⭐ **Conaghan ¶11** |
+| ⛔ **limb (b)** | not consulted, not asked to vote on the **15 April 2024** on-call change | **Conaghan ¶10** |
+
+⇒ ⭐⭐⭐⭐ **Conaghan ¶11 is the single most valuable line in either lay outline.** ⭐ **A consultation
+mechanism that was never engaged, for the whole Stressor 3 period, on the evidence of a SECOND
+EMPLOYEE about HERSELF.** ⛔ **That is not answerable by "you were consulted, you have forgotten" —
+it is not his recollection.**
+⇒ ⭐⭐ **Harrison-Jones is out of MSH (now QAS) and has nothing at stake.** ⭐ **He is the one who
+proves the access removal was a decision.**
+
+## 8.4 ⭐⭐ AND FACT 219 NOW READS FOR HIM, NOT AGAINST HIM
+> **Fact 219** *(R_FRMS, admitted)*: *"as per Cory's second extract detailing the Roster Risk
+> assessment Matrix, **Chloe and I have run thought this and we say at best there would be a rating
+> of 11 which is moderate**"*
+
+⇒ ⭐⭐ **An assessment WAS run, and it returned a rating.** ⛔ **That removes "we did not know" — it
+does not supply reasonableness.** ⭐ **Knowledge of the risk plus a roster their own decision calls a
+direct contradiction of the award is worse for them than no assessment at all.**
+⛔⛔ **REPAIR REQUIRED:** the outline's *"no fatigue risk assessment was made"* is **wrong on fact 219
+and must be corrected** to: ⭐ *"a rating was run and returned 11, moderate"*.
+⚠ **Verify the date and subject-matter linkage between the fact 219 email and the 17–18 March
+rostering before this goes into any submission.** ⛔ **Do not assert the link from this note.**
+
+## 8.5 ⚠ WHERE *BOWERS* DOES SURVIVE — AND WHY IT DOES NOT MATTER
+⚠ **Stressor 1(e)–(f), the 13–15 May sequence.** 9C ¶15: Reese, ***"having sought advice from Human
+Resources"***, acted at 6:23pm. ⭐ **That is a scheme reasonably implemented, and neither lay witness
+reaches it.** ⛔ **Concede it if pressed.**
+⇒ ⭐⭐⭐ **It does not matter. *Stretton* [84] requires ONE significant aspect that cannot be described
+as reasonable or reasonably taken. Fact 260 supplies it, and the Respondent's own decision-maker
+wrote it.** ⭐ **They must win everywhere. He must win once.**
+
+## 8.6 ⛔ THE HONEST LIMIT ON FACT 260
+⚠ **It is admitted that the decision SAYS that. It is not admitted that it is TRUE**, and their
+heading 3 reserves on the RD 69983 findings. ⭐ **The medical schedule row 7 already fences binding
+effect, so nothing is overclaimed.**
+⇒ ⭐⭐⭐ **But it is an admission against interest by the body whose decision is under appeal,
+reached on its own investigation.** ⭐⭐ **On a s 561(3) rehearing the Commission decides for itself —
+and it would be remarkable for it to find MORE favourably to the Regulator on that discrete point
+than the Regulator found against itself.**
+⇒ ⭐⭐⭐ **Their real position is therefore: "that one rostering event was unreasonable, but the
+injury is still not compensable."** ⛔⛔ **That is precisely the *Delaney* error — starting at the
+other end — and precisely what *Stretton* [84] forbids.**
+
+## 8.7 ⭐⭐⭐ WHAT THIS DOES TO THE NUMBER
+⭐ **The exclusion limb was the residual risk. On Stressor 3 it is effectively conceded by their own
+decision.** ⇒ ⭐⭐⭐ **The case reduces to ONE open variable: causation, which is the doctors.**
+| Scenario | Probability of success |
+|---|---|
+| ⭐⭐⭐ **Krishnaiah and Hawes secured, K8 answered in the statutory words** | ⭐ **75–85%, centred ~80%** |
+| ⚠ **Doctors not secured** | **~70%** *(the treating records alone, Guide §7.7 unmet)* |
+
+⛔⛔ **Everything now turns on two video attendances and Row 5. Nothing else on this file is open.**
