@@ -137,3 +137,68 @@ made before the render leaves no trace at all.
 fourteen of fourteen disputed tabs are exactly the rows my own column marks "Copy from the
 Appellant's own records".** ⛔ **Never argue it as haste. Argue it, if ever, as a description
 problem — which is also the only version that is fixable (§5).**
+
+---
+
+# 8. ⭐⭐⭐ TWO HYPOTHESES TESTED — ⛔ BOTH FAIL, AND ONE IS DANGEROUS TO HIM
+
+## 8.1 ⛔⛔ "A SCRIPT MEANS AI ANSWERED IT" — ⛔ IT DOES NOT FOLLOW, AND IT MUST NEVER BE SAID
+1. ⛔ **A script is a rendering mechanism, not an author.** The overlay stamps one of three words at a
+   computed coordinate. **Nothing about it distinguishes a list authored by a person working through
+   a spreadsheet from a list authored any other way.** ⭐ **303 single-word answers is ordinary
+   officer work with a list open beside the notice.**
+2. ⛔ **There is no artefact that could settle it.** The response PDFs carry no annotations, no form
+   fields, no author string, no editing trail. ⭐ **The only authorship trail in the whole 8 September
+   service is human and in Word** — `/Author: Peter`, `_AuthorEmail: Margaret.Kerrigan@oir.qld.gov.au`,
+   Office of the Deputy Director-General, source last saved 8 Sep 01:13:17.
+3. ⛔⛔⛔ **AND THIS IS THE ONE ALLEGATION HE CANNOT MAKE.** Commissioner Dwyer put it to him twice at
+   the 7 August mention: *"**Is it AI-assisted, can I ask? Because it feels like it.**"* [09:02] and
+   *"when I'm overloaded with page after page after page **of what looks like AI generated material** —
+   **I switch off**"* [21:46]. ⇒ ⛔⛔⛔ **If he raises AI against the Regulator, he hands that frame
+   straight back and Dwyer applies it to both sides. He answered the accusation by demonstration and
+   it is behind him. Do not reopen it — not in a letter, not in submissions, not in a mention, not as
+   an aside.**
+
+## 8.2 ⛔⛔ "THEY ANSWERED IT, THEN MOVED SOME DOCUMENTS TO DISPUTED SO THEY COULD NOT BE
+AUTHENTICATED" — ⛔ THE EVIDENCE IS AGAINST IT
+
+⚠ **Testable, and it fails three ways:**
+
+1. ⭐⭐⭐ **THE DECISIVE ONE — TAB 25 WAS ADMITTED.** If they were selecting by danger, the first
+   document off the list is **Review Decision 69983**, which carries **fact 260**: *"I find the
+   rostering of these two shifts amounted to unreasonable management action given that it was in
+   direct contradiction to the award and the 8-hour agreement."* ⭐⭐⭐ **That is the most damaging
+   document in the bundle, it is their own, and they authenticated the whole 28 pages without a
+   murmur** — along with their own Form 24 response at Tabs 26–27. ⇒ ⛔⛔ **No tactical selector
+   leaves that in.**
+2. ⭐⭐⭐ **A TACTICAL OVERRIDE WOULD BREAK THE CORRELATION. IT IS UNBROKEN.** The fourteen map onto
+   *"Copy from the Appellant's own records"* **14 of 14, with no exception in either direction.**
+   ⭐ **Moving even one document across for a reason of its own would leave a residual. There is
+   none.**
+3. ⭐⭐ **The two authenticity columns are identical.** The Form 24 cross-reference schedule
+   (pp 20–22) and the Form 25 (pp 3–5) were stamped from the same list, sixty seconds apart, and
+   agree on all 39 rows. ⛔ **No change between the exports.** ⚠ **A change before the export would
+   leave no trace at all — so the hypothesis cannot be disproved from the file. It is disproved by
+   points 1 and 2.**
+
+## 8.3 ⭐⭐ WHAT SURVIVES OF THE INSTINCT — ⭐⭐⭐ THE EFFECT IS REAL; THE INTENT IS NOT SHOWN
+⭐⭐ **He is right about the consequence.** The fourteen are disproportionately the **post-injury and
+2026 material** — the Nov/Dec 2024 roster consultation (22, 23), the 2026 movement forms approved by
+Mr Hughes as delegate (17–19), Ms Forrest (21), Metro South's objection to the Commissioner (20).
+⇒ ⭐⭐ **Disputing those does make tender hardest exactly where he most wants it easy.**
+⛔ **But that follows from where he obtained the copies — those documents did not exist when they
+disclosed in July 2025 — not from a choice about which documents to obstruct.** ⭐ **Effect, not
+design.**
+
+## 8.4 ⭐⭐⭐ AND THIS IS HOW THE HYPOTHESIS BECOMES TESTABLE — THE CORRECTED DESCRIPTION IS THE EXPERIMENT
+⭐⭐⭐ **Right now he has a suspicion with no test. After 25 September he can have a test.**
+1. ⭐⭐ **Re-describe** the tabs that have an independent maker and custodian — Tab 20 (Metro South,
+   ref K-LM26/729, on the Commission's file); Tabs 22–23 (Metro South, issued to switchboard staff);
+   Tabs 17–19 (Metro South HR, approved by Mr Hughes as delegate); Tab 1 (Metro South role
+   description); Tab 21 (Ms Forrest, Metro South HR) — and invite reconsideration on that basis.
+2. ⭐⭐⭐ **If the dispute is then withdrawn, the description was the cause and his hypothesis is
+   answered.** ⭐⭐⭐ **If it is MAINTAINED against documents whose maker and custodian are Metro
+   South's own, the refusal has no innocent explanation left — and he will have built that record
+   with facts and a table, not an allegation.**
+3. ⛔⛔ **Until then, say nothing about motive.** ⭐ **The chronology, never the motive** — and here the
+   chronology has not yet been given a chance to speak.
