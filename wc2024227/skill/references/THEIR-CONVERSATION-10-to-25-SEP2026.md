@@ -202,3 +202,47 @@ their own sequence.**
 3. ⭐⭐ **10 Sep — they ask for time.**
 ⇒ ⭐⭐⭐ **The medical is the last open element of HIS case. It is not what moved theirs. The
 architecture did.**
+
+---
+
+# 10. ⭐⭐⭐ AND HE HAD ALREADY GIVEN THEM THE TIME — WHAT THE EXTENSION REQUEST ACTUALLY DID
+
+## 10.1 ⭐⭐ WHAT THE 9 SEPTEMBER LETTER ALREADY OFFERED
+> ⭐ *"For each document in the schedule, could the Regulator please, **by Friday 18 September 2026**,
+> do one of the following: **(a)** produce the Regulator's or Metro South Health's copy… or confirm
+> the authenticity of the copy served by reference to that copy; **or (b)** admit, under rule 49, the
+> authenticity of the copy served…"*
+> ⭐⭐ *"…put as a choice so that the matter can be closed **without an application**, and **before the
+> Respondent's material is due on 30 September 2026**."*
+
+⇒ ⭐⭐⭐ **A choice, a date, a stated consequence, and a rationale tied to THEIR OWN deadline. The time
+was already on the table.**
+
+## 10.2 ⭐⭐⭐ SO THE REQUEST WAS NOT FOR TIME. IT WAS FOR A LONGER CLOCK IN PLACE OF AN ANSWER
+⭐⭐ **Exit (a) or (b) ENDS the issue. Asking for time ends nothing.** ⇒ ⭐⭐⭐ **They took neither exit
+and moved the date instead.**
+⚠⚠ **And 25 September sits FIVE days before their 30 September material — collapsing the very buffer
+the letter was built to preserve** (*"before the Respondent's material is due on 30 September"*).
+
+## 10.3 ⭐⭐ THE FAIR READING OF IT, STATED ONCE
+⭐⭐ **She is in a hearing all week and cannot do the assessment by the 18th. Asking on the 10th — the
+day after receipt, rather than letting the date pass — is what a diligent officer does.** ⭐ **That is
+to her credit and it is probably the whole of it.**
+⇒ ⛔⛔ **Do not characterise it as anything else, ever.**
+
+## 10.4 ⭐⭐⭐ BUT THE STRUCTURAL GAIN IS REAL, AND IT IS HIS
+⭐⭐⭐ **18 September was HIS date. A self-represented appellant cannot impose deadlines, and they could
+have ignored it and argued exactly that.**
+⇒ ⭐⭐⭐ **By asking to EXTEND it, they adopted it. A party that seeks more time to answer has conceded
+that an answer is owed.**
+⇒ ⭐⭐⭐ **25 September is now an AGREED date on which a response is expected — which is more than
+18 September ever was.** ⭐⭐ **The extension request converted his unilateral date into a bilateral
+one, and it cost him nothing to grant.**
+
+## 10.5 ⭐⭐ THE ONE PRACTICAL CONSEQUENCE — FIVE DAYS, NOT TWELVE
+⚠⚠ **If they refuse or stay silent on 25 September, he has FIVE days before their material lands.**
+⇒ ⭐⭐⭐ **So both instruments must be finished and sitting ready BEFORE the 25th:**
+1. ⭐⭐ **The short corrected-description letter** (`THE-SORT-KEY…` §5), with the amended outline ¶3
+   folded in (`THE-OUTLINE-GAP…` §4).
+2. ⭐⭐⭐ **The one-document non-party notice for Tab 31**, drawn on **fact 268**, ready to issue.
+⇒ ⛔ **Nothing is drafted after the 25th. Whichever way it goes, no day is lost.**
