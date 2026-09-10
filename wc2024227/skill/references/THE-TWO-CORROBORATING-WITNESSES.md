@@ -72,3 +72,50 @@ are negative facts that no cross-examination can improve.**
 ⛔⛔ **And he is the single least controlled element of Cory's own case, for the same reasons.**
 ⇒ ⭐⭐⭐ **The fix is not to drop him. It is to CONFIRM HE CAN ATTEND, LET HIM READ HIS OWN OUTLINE,
 AND LEAD ¶3 AND ¶7 HARD AND ¶6 LIGHTLY.**
+
+---
+
+# 5. ⛔⛔ CORRECTION — I ASSUMED A FRIENDSHIP. THERE ISN'T ONE, AND THAT IS THE POINT.
+
+⛔ **I called him an *"unprepared friendly witness"*. WITHDRAWN.** ⭐ **They are former colleagues who
+worked shifts together. He left. That is the whole of the relationship.**
+
+## 5.1 ⭐⭐⭐⭐ THE ABSENCE OF FRIENDSHIP IS THE CREDIBILITY
+| A friend | ⭐⭐⭐ A former colleague, now in another service |
+|---|---|
+| has a motive to help | ⭐⭐⭐ **has none** |
+| can be put as partisan | ⭐⭐⭐ **cannot** |
+| gains something from the outcome | ⭐⭐⭐ **gains nothing, and is not there by choice of loyalty** |
+
+⇒ ⭐⭐⭐ **And the outline as drafted already says it correctly and neutrally:** *"was employed part
+time at Logan Hospital Switchboard and **worked as an operator alongside the Appellant**"* · *"was a
+member of the Switchboard team from 2022"*. ⭐⭐ **No relationship is asserted, and none should ever
+be.**
+
+## 5.2 ⭐⭐⭐⭐ AND IT MAKES THEIR BEST QUESTION THEIR WORST
+⭐⭐ **The obvious cross is *"You're a friend of the Appellant's, aren't you?"*** — because it is the
+only way to make a stake appear.
+⇒ ⭐⭐⭐⭐ **If the true answer is *"No. We worked shifts together. I have not worked with him since I
+left the department"* — that question hands the witness his own independence, in his own words, out
+of THEIR mouth.** ⭐⭐ **It is the best question they could ask him.**
+⛔⛔ **Which is exactly why nothing on Cory's side may ever suggest otherwise** — not in the outline,
+not in his own evidence, not in submissions.
+
+## 5.3 ⛔⛔⛔ BUT IT REVERSES THE PRACTICAL ADVICE — THE NOTICE IS THE FIRST STEP, NOT THE FALLBACK
+⛔ **I said use an attendance notice *"if there is any doubt"*. WRONG WAY ROUND.**
+⭐⭐⭐ **With no friendship there is no favour to call in.** He would be asking a former colleague — now
+a QAS officer on shift work — to take a day off, unpaid in his own time, to attend a hearing about
+somebody else's compensation claim.
+⇒ ⭐⭐⭐⭐ **SO ISSUE THE FORM 32 ATTENDANCE NOTICE AS THE ORDINARY COURSE, NOT AS A LAST RESORT.**
+
+**And it does three things at once:**
+1. ⭐⭐⭐ **It PROTECTS THE WITNESS.** ⭐⭐ **A person required to attend is not a person choosing sides.**
+   ⇒ **For someone with no stake, that is precisely what he would want.**
+2. ⭐⭐ **It gives him a clean answer to his own employer** for the absence, and to anyone who asks why
+   he is giving evidence at all.
+3. ⭐⭐⭐ **It PROTECTS THE EVIDENCE** — a compelled witness is far harder to characterise as partisan
+   than one who came voluntarily.
+
+⇒ ⭐⭐ **Approach him courteously first, explain the notice is to protect him rather than to compel
+him against his wishes, and then issue it.** ⭐ **The same considerations apply to Ms Conaghan, who is
+still employed there and has more to lose than either of them.**
