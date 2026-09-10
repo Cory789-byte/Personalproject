@@ -69,3 +69,46 @@ chronology.**
 
 ⇒ ⭐⭐⭐ **THE ONE LINE: the case was finished on the ninth. From here the job is to keep it that way,
 and to get the doctor in the room.**
+
+---
+
+# 5. ⛔⛔ CORRECTION TO MY VOCABULARY — IT IS A CERTIFICATION QUESTION, NOT A DISCLOSURE FIGHT
+
+⛔ **I have been calling it a disclosure or authenticity "fight". That is the wrong description for
+thirteen of the fourteen, and the wrong description invites the wrong remedy.**
+
+## 5.1 ⭐⭐⭐ WHAT THE REQUEST ACTUALLY ASKS FOR
+⭐⭐ **Not production. He has them.** ⇒ ⭐⭐⭐ **It asks them to CERTIFY — to confirm, by reference to the
+copy they already hold, that the document is what it plainly is.**
+⭐⭐ **And they hold the answer already:** the July 2025 witness-conferencing disclosure · the June 2026
+Metro South production (Items 11, 13, 15) · their own claim file · the Review Decision file · their
+own **amended List of Documents of 14 August 2026** · and, for Tab 20, **the Commission's file**.
+⇒ ⭐⭐⭐ ***"Not admitted"* here is not "we do not know". It is a decision not to say what they know or
+can check in a minute.**
+
+## 5.2 ⭐⭐⭐ THE CLEAN TAXONOMY — AND IT SPLITS ONE FROM THIRTEEN
+| | ⭐ What it is | ⭐⭐ The right response |
+|---|---|---|
+| ⭐⭐ **Thirteen tabs** | ⭐⭐⭐ **A CERTIFICATION question.** He holds them; they know them; contents admitted | ⭐⭐⭐ **He proves each himself, from his own knowledge, in minutes.** ⛔⛔ **No application. Ever.** |
+| ⭐⭐⭐ **Tab 31** | ⭐⭐⭐ **A PRODUCTION question — the only one on the file.** He holds a capture; the ORIGINAL sits with the custodian | ⭐⭐ **Fact 268, and Dwyer's route: the Regulator asks and produces; non-party disclosure only if it does not** |
+
+## 5.3 ⚠⚠ AND HE IS NOT BOUND BY THE STATED CONSEQUENCE IN HIS OWN LETTER
+⚠ **The 9 September letter says:** *"I will seek that document by notice of non-party disclosure to
+Metro South Health limited to the documents named in the schedule."*
+⛔⛔ **For thirteen tabs that consequence does not fit — he does not need Metro South's copy, and a
+thirteen-document application is exactly the list Dwyer told him to whittle down.**
+⇒ ⭐⭐ **A stated intention is not a commitment to do something that would harm him.** ⭐⭐⭐ **If it comes
+to it, he narrows to Tab 31 and says so plainly** — ⭐ which is itself the narrowing the Commissioner
+asked for, and reads as restraint, not retreat.
+
+## 5.4 ⭐⭐⭐ AND THE ONE FRAMING THAT WORKS IF IT EVER HAS TO BE SAID
+⛔⛔⛔ **NEVER *"they refused disclosure"*.** ⭐ It is inaccurate, and it is the document fight Dwyer
+warned against.
+⭐⭐⭐ **The accurate framing converts it into HEARING TIME — which is the thing this Commissioner
+actually cares about:**
+> *"The Respondent has not admitted the authenticity of documents whose contents it has admitted. I
+> hold each of them and will prove them from my own knowledge. That adds [x] minutes to the
+> hearing."*
+
+⇒ ⭐⭐⭐ **No grievance, no characterisation, no application. A statement about the length of the
+hearing, made by the party who has been shortening it.**
