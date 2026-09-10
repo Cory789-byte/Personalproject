@@ -129,3 +129,61 @@ disputed tabs are exactly the rows whose *"Copy produced from"* column in the se
 *"Copy from the Appellant's own records"* — **14 of 14, no exception in either direction.**
 ⇒ ⭐⭐ **Drop the timing from the reasoning entirely. The column carries it alone, and it carries it
 better without a speed claim attached.**
+
+---
+
+# 6. ⭐⭐⭐ THE ARTEFACT TEST — ⛔ THERE IS NO ARTEFACT. THE OVERLAY IS REGISTERED TO HIS TABLE.
+
+> ⭐ **Right instinct: a script overlay normally betrays itself** — drift down the page, a label
+> overrunning a rule, one landing in the wrong cell, a mismatch at a page break. ⛔ **None of that is
+> present. The registration is exact, and the exactness is the finding.**
+
+## 6.1 ⭐⭐⭐ HORIZONTAL — CENTRED ON THE MIDPOINT OF HIS OWN COLUMN
+His Form 24 table rules, read from the base content stream (origin x = 51.024, local rules at
+0 · 36.85 · 419.53 · 493.23):
+⇒ **the "Admit / Deny" column runs x = 470.55 → 544.25. Its midpoint is 507.40.**
+⭐⭐⭐ **Every label is centred on 507.40** — `Admitted` at 489.65 (w ≈ 35.5), `Disputed` at 488.15
+(w ≈ 38.5), `Not admitted` at 479.90 (w ≈ 55.0); each x + half-width = 507.40.
+⭐⭐ **Swept across both documents: 381 labels, x-range 480.5 → 534.4. ZERO outside the column.**
+
+## 6.2 ⭐⭐⭐ VERTICAL — CENTRED IN EACH ROW, SO THE ROW HEIGHTS WERE KNOWN
+The offset from each fact-number baseline is **not constant**: −5.7 · −11.5 · −17.3 · −23.1 —
+⭐⭐⭐ **multiples of half a line (5.77 pt), varying with how many lines that fact occupies.**
+⇒ ⭐⭐⭐ **The label sits at the vertical centre of its cell. To centre a label in a row you must know
+the row's top and bottom — so the script had his row heights, not just page coordinates.**
+
+⇒ ⭐⭐⭐ **CONCLUSION: the overlay parsed his table geometry — column rules and row heights — and
+placed 381 labels inside it without a single miss.** ⭐⭐ **That is a purpose-built tool, competently
+run. It is the opposite of a rushed script.**
+
+## 6.3 ⛔ AND ONE APPARENT ARTEFACT WAS MINE, NOT THEIRS
+⛔ **A first pass showed page 22 mis-paired (a label seemingly above its row).** ⭐ **That was my
+extraction dropping the lettered row "30A".** Read correctly, p 22 is **28 Admitted · 29 Admitted ·
+30 Disputed · 30A Disputed · 31 Disputed** — five rows, five labels, in order.
+⇒ ⛔⛔ **Do not repeat that as a finding.**
+
+## 6.4 ⭐⭐ WHAT IT ACTUALLY TELLS HIM
+⭐⭐⭐ **The Regulator has a working pipeline for answering notices to admit.** ⭐ This was not improvised
+for him — someone in that office has a tool that ingests a served notice, reads its table, and stamps
+a prepared answer set into it. ⇒ ⭐⭐ **Expect the same on any further notice, and expect it fast.**
+⛔ **It says nothing at all about who chose the word in each row** — see
+`THE-SORT-KEY…` §9.
+
+---
+
+# 7. ⭐⭐⭐ HOW THE LAST ONE WAS ANSWERED — ⭐⭐ FACT 303, ADMITTED
+> **Fact 303:** *"Paragraph 27 of the Respondent's amended statement of facts and contentions dated
+> 13 May 2026 **does not identify, by particular, date, document or cross-reference, the management
+> action relied upon** for the contention in that paragraph."* → ⭐⭐⭐ **Admitted.**
+
+⭐ **And the three before it, all admitted**, that the SOFC *"as presently constituted"* does not
+allege any **disciplinary process** (300), any **formal performance management process** (301), or
+describe any communication before 18 June 2024 as a **warning** (302).
+
+⚠⚠ **BUT NOTE THE ASYMMETRY, AND IT IS HIS OWN DRAFTING:**
+- ⚠ **300–302 are qualified *"as presently constituted"*.** ⛔ **That qualifier is why they were cheap
+  to admit — an amended SOFC displaces them.** ⭐ **Treat those three as contingent, not fixed.**
+- ⭐⭐⭐ **303 is NOT qualified.** It is tied to **a dated document — the SOFC of 13 May 2026** — so the
+  admission is fixed and survives any amendment. ⇒ ⭐⭐⭐ **Fact 303 is the durable one of the four,
+  and it is an admission that their pleaded case does not particularise the management action it
+  relies on.**
