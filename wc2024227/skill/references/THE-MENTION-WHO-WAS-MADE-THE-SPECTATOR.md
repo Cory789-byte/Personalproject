@@ -178,3 +178,53 @@ anything after 24 October 2024).** ⭐ **They had not seen the schedule.**
 4. ⛔ **The Form 29 is parked and revivable. It has not gone anywhere.**
 
 **Range unchanged: 75–85% with the doctors secured, ~70% without.**
+
+---
+
+# 6. ⭐⭐⭐⭐ AND SOME OF IT WAS NOT SAID TO THE APPELLANT AT ALL — IT WAS SAID FOR MSH TO HEAR
+> ⭐ Cory's observation, 10 September 2026. ⭐⭐ **The transcript supports it, and there is a structure
+> to it.**
+
+## 6.1 ⭐⭐⭐ WHAT MSH HAD TO SIT THROUGH
+⭐⭐ **Ms Ruttan — Principal Lawyer, the author of K-LM26/729 — spoke twice: *"Yes, Your Honour,
+that's fine, thank you."*** ⭐ **Ms Matheson: 3 turns, 7 seconds, 0.2%.**
+⇒ ⭐⭐⭐ **Sixty-five minutes about THEIR documents, in which they were told they were not involved,
+told their objection would not be ruled on, and told the Regulator would be asked to obtain their
+documents instead.** ⭐⭐ **That is a party being MANAGED, not a party being HEARD.**
+
+## 6.2 ⭐⭐⭐⭐ THE FOUR REMARKS ADDRESSED TO HIM AND AIMED PAST HIM
+| Verbatim | ⭐ Form | ⭐⭐⭐ Function |
+|---|---|---|
+| **[18:31]** *"the health service **is not a party**… They're not involved in these proceedings **apart from the consequences of the application you file today**"* | to Cory | ⭐⭐⭐ **Reassurance to MSH — with a sting. There ARE consequences, and they attach** |
+| **[59:53]** *"**They have responsibilities as a model litigant**… they **can't hide stuff from you, they can't be sneaky or tricky**"* | about the Regulator | ⭐⭐⭐ **Said with MSH's principal lawyer in the room. MSH is a State agency too, and the principles bind it as well** |
+| **[59:58]** *"looking at a **SINGLE document**, I can tell you **very quickly** whether it should be disclosed or shouldn't be disclosed"* | an offer to Cory | ⭐⭐⭐⭐ **A warning shot over MSH: a one-document ruling is quick, cheap and available** |
+| *"if you still wish to press any aspect of it, we'll get down to the **serious business** of dealing with your specific application"* | parking the Form 29 | ⭐⭐⭐⭐ **Unambiguously for MSH to hear: the application is not dead. It sits there** |
+
+## 6.3 ⭐⭐⭐ AND ONE THING DONE FOR MSH BY OMISSION
+⭐⭐⭐ **He never adjudicated their objection. He routed around it.**
+⇒ ⭐⭐ **That spared them a ruling — and left the objection unresolved and the application alive.**
+⭐⭐⭐ **Both halves were deliberate, and both were for MSH's benefit and MSH's discomfort at once.**
+
+## 6.4 ⭐⭐⭐ AND THE ARRANGEMENT WAS CONFIRMED IN THEIR PRESENCE
+⭐⭐⭐ **[61:26]** *"Have I misrepresented your role… or placed a burden on you that you're not prepared
+to accept?"* — put to Ms Matheson, **with MSH sitting there.**
+⇒ ⭐⭐⭐ **MSH heard the Regulator accept the liaison burden. The route to their documents was
+established in front of them, and neither of them said a word about it.**
+
+---
+
+# 7. ⛔⛔ BUT THE THING MSH HAD TO WATCH NO LONGER EXISTS — AND HE REMOVED IT
+⛔⛔⛔ **The Form 29 was WITHDRAWN on 28 August 2026**, expressly *"Consistent with what was discussed
+at the mention"*.
+⇒ ⭐ **At the time that was right** — it answered *"a tendency to proliferate interlocutory disputes"*
+and it was the withdrawal Dwyer had invited.
+⇒ ⛔⛔ **But the consequence is real: the parked application that hung over MSH is gone, and MSH now
+has nothing pending against it.** ⭐⭐ **Any Tab 31 step is a FRESH application, not a revival.**
+
+## 7.1 ⭐⭐ WHAT SURVIVES OF IT
+⭐⭐ **The single-document indication was about METHOD, not a docket item** — a fresh one-document
+application still attracts what he said about how quickly such a thing can be decided.
+⚠⚠ **But Guide 7.1 means he is very likely not the member who hears the appeal, and there is no
+guarantee a fresh interlocutory returns to him.**
+⇒ ⭐⭐⭐ **So the value of the mention is not leverage over MSH any more. It is METHOD — and the method
+is what produced 298 admissions.**
