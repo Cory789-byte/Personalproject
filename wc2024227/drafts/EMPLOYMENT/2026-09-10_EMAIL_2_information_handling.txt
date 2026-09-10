@@ -44,8 +44,9 @@ On 15 July 2026 Michelle Harrison wrote that I had signed the declaration and au
 page 7 of the Income Protection Application, and that this permits QSuper to request relevant
 information from the employer in relation to the claim.
 
-That instrument authorises the fund and the insurer to collect information from the employer to
-assess and manage the income protection claim. The published process is that the fund requests
+That instrument is the fund's authorisation. It authorises the fund and the insurer to collect
+information from the employer to assess and manage the income protection claim. It is not an
+authorisation given to Metro South Health. The published process is that the fund requests
 Part B. For Queensland Government employees the member is not required to hand Part B to HR.
 
 It does not authorise Metro South Health to send health information to Australian Retirement
@@ -188,6 +189,9 @@ recollection.
 The sequence is:
 
 - 13 May 2024 - I made the complaint to the Ethical Standards Unit.
+- 15 to 16 May 2024 - correspondence concerning my complaint, and the operational and
+  human-resources response to it, was created and circulated within Metro South Health. I ask for
+  those records at (f) and (g).
 - 18 June 2024 - psychological injury, followed by certified incapacity from 1 July 2024.
 - 24 October 2024 - diagnosis of major depressive disorder with anxiety state.
 - 24 December 2024 - the Ethical Standards Unit determination.
@@ -204,7 +208,11 @@ not treated as one missed pay, and so that the handling is understood as having 
 ran on. What this email asks is that the handling stop, and that the recipient lists and the
 authorities be stated in writing.
 
-E. What I ask LBH HR and Injury Management to confirm in writing by Friday 18 September 2026
+E. What I ask of Metro South Health
+
+I ask that, by Friday 18 September 2026, LBH HR and Injury Management confirm in writing:
+
+An account of what has been done
 
 (a) every person and system to whom the 13 July 2026 email to the fund, the attached Employee
     Capability Checklist, the 15 July 2026 reply, and the 13 August 2026 4:42 pm email were sent
@@ -213,32 +221,34 @@ E. What I ask LBH HR and Injury Management to confirm in writing by Friday 18 Se
 (b) the authority relied upon for each of those sendings, identified by instrument and date, and
     not by a general reference to process;
 
-(c) that Metro South Health no longer treats me as holding a current income protection claim for
-    the purpose of pay or leave;
-
-(d) that no further report of my income or health information will be made to Australian
-    Retirement Trust, QSuper or Solv unless I am first told what will be sent, to whom and on
-    what authority. Payroll SuperStream already reports contributions when I am paid, and any
-    overpayment reconciliation is between me and the fund;
-
-(e) that the statement of 13 August 2026 at 4:42 pm is withdrawn in writing to every person who
-    received it;
-
-(f) every person and system to whom Injury Management or LBH HR has sent my public interest
+(c) every person and system to whom Injury Management or LBH HR has sent my public interest
     disclosure, the determination or outcome, or any summary of them, and the authority for each
     sending, including any sending before 13 July 2026. The reference PID 24-ESU-1130 was
     assigned on the determination of 24 December 2024, so a search confined to that reference, or
     to dates from November 2024, will not capture material about the complaint from May 2024
     onward. Please search by subject matter and not by reference number alone;
 
-(g) the records of the operational and human-resources response to the matters I raised between
+(d) the records of the operational and human-resources response to the matters I raised between
     13 and 31 May 2024, including any correspondence between the Switchboard manager and human
-    resources in that period, and what was done with it; and
+    resources in that period, and what was done with it;
 
-(h) that any further handling of my health, income protection and public interest disclosure
-    information will be confined to officers with a demonstrated need to know, and will not be
-    copied to group inboxes, the fund, Solv or other third parties without prior written notice
-    to me.
+What will happen from here
+
+(e) that further communication about my health, my claim and my disclosure will be with the
+    appropriate officer, and not with a group list;
+
+(f) that Metro South Health will act in accordance with its own privacy policies, procedures and
+    practices, the Information Privacy Act 2009 and section 65 of the Public Interest Disclosure
+    Act 2010; that Injury Management and LBH HR will not initiate contact with Australian
+    Retirement Trust, QSuper or Solv about my health or my claim; and that if the fund requests
+    information through the ordinary Part B process, that is the fund's request and I am to be
+    told what is provided;
+
+(g) that Metro South Health no longer treats me as holding a current income protection claim for
+    the purpose of pay or leave; and
+
+(h) that the statement of 13 August 2026 at 4:42 pm is withdrawn in writing to every person who
+    received it.
 
 I am not asking, in this email, for a decision on long service leave or the SNP forms. Those
 matters are in the separate email.
