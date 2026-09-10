@@ -109,7 +109,7 @@ request the file copy.** Until then it is a very strong inference, not a verifie
 | ⛔ [25:35] *"A-E. What's that a reference to?"* | ⛔ **Schedule item 10, sub-items A–E** |
 | ⛔ [23:38] · [24:29] · [26:19] *"What does filters mean?"* → *"Doesn't make any sense to me"* → *"I still don't understand"* | ⛔ **Form 29 Schedule A and affidavit ¶29–30** |
 | ⛔ [23:24] *"Which heading? Which page? What number?"* | ⛔⛔ **the question of a man who cannot search a document** |
-| ⛔⛔⛔ [47:29] *"Well, what are you asking for if that's the case?"* | ⛔⛔⛔ **Draft Order (c): *a verification affidavit by an officer with direct knowledge of the searches*. It is one page. He was holding the answer** |
+| ⚠ [47:52] *"Well, what are you asking for if that's the case?"* | ⚠ **See §8 — this one does NOT prove he had not read the draft order. It proves which document he had in mind: the NOTICE, not the application** |
 | ⛔ [13:12] *"How do you propose to prove that?"* | ⛔ **affidavit ¶26** — *"held in MSH's security-access system (Item 9)"* |
 | ⛔⛔ [27:24] *"Like a manager. Managers make decisions without consulting staff all the time."* | ⛔⛔⛔ **affidavit ¶24** — *"The patient-safety function of the hospital's emergency communications was performed by me at the Switchboard"* |
 | ⛔ **Never once**, in 65 minutes: the affidavit, CS-1 to CS-4, the 200–300 calls, the DSO function, ¶17, ¶24 | ⛔ **45 pages, sealed, on his file for six weeks** |
@@ -192,3 +192,80 @@ and here, not even the chronology.**
 ## 7.2 ⭐⭐⭐ THE ONE LINE
 ⭐⭐⭐⭐ **The best document he has ever filed was made unreadable by the act of filing it — and the
 hearing that was supposed to decide it was listed before it existed.**
+
+---
+
+# 8. ⭐⭐⭐⭐ *"WELL, WHAT ARE YOU ASKING FOR IF THAT'S THE CASE?"* — WHAT IT ACTUALLY SHOWS
+
+> ⚠ **Correction to §4.2.** I first listed this as proof he had not read the draft order. **That was
+> overstated.** The remark is compatible with having read it and with not having read it. ⭐⭐⭐ **What
+> it does prove is narrower and more useful: he was answering the FORM 29, not the 64G APPLICATION.**
+
+## 8.1 THE EXCHANGE, IN SEQUENCE — AND IT IS ON THE WEAKEST LIMB IN THE CASE
+> **Subject: Stressor 1(g), the union delegate. Schedule item 19 — the Together Queensland emails.**
+
+| | |
+|---|---|
+| [45:21] | *"how do you say that they **actively suppressed** your appointment for 13 months? What did they do?"* → *"The union said that they've emailed."* |
+| ⛔ [46:05] | *"So actively means they deliberately. Am I right about that?"* → ⛔ ***"I don't know if I can prove it as much."*** → *"Well, that answers the question."* |
+| [47:29] | *"**Do you know they did anything with it?**"* → *"Well, I didn't."* → *"I'm asking for evidence or **a sworn statement** to say… they didn't do anything with it."* |
+| ⭐⭐ [47:34] | ⭐⭐ ***"I'm not going to get into the facts now because I'm not hearing the matter."*** |
+| [47:52] | *"**Well, what are you asking for if that's the case?**"* |
+
+⇒ ⭐⭐ **It landed hard because the limb underneath it was soft — a pleaded word (*"actively
+suppressed"*) he had conceded ninety seconds earlier he could not prove.** ⭐ **1(g) has since been
+marked for deletion.** The question was not really about the affidavit.
+
+## 8.2 ⭐⭐⭐⭐ IT IS A RULE-64B POINT, AND ON THE NOTICE IT IS CORRECT
+⭐⭐⭐ **r 64B compels production of a DOCUMENT that (i) exists, (ii) is in the non-party's
+possession, and (iii) is producible at hearing.**
+⇒ ⭐⭐⭐⭐ **If the Appellant's own case is that MSH did NOTHING with the union's email, then no
+document was ever created — and the notice has nothing to bite on.** ⇒ *"What are you asking for"*
+is not rhetoric. **It is the instrument asking to be named, and on the Form 29 there was no answer.**
+
+⭐⭐ **That point is available to anyone who has read only the notice.** ⇒ ⛔ **It cannot be used as
+evidence either way about the application.**
+
+## 8.3 ⭐⭐⭐⭐ BUT IT IS WRONG ABOUT THE APPLICATION — AND THAT IS THE POINT
+| Instrument | Can it compel a sworn statement of an absence? |
+|---|---|
+| ⛔ **Form 29 (r 64B)** | ⛔ **No. Existing documents only** |
+| ⭐⭐⭐ **r 64G(2)** | ⭐⭐⭐⭐ ***"the tribunal may make ANY ORDER IT CONSIDERS APPROPRIATE"*** — non-exhaustive, and the 64G was the live instrument on 7 August |
+
+⭐⭐⭐⭐ **So the answer existed, it was one page long, and it was never given:**
+> ⭐⭐⭐ ***"Order (c) of my draft order — a verification affidavit by an officer with direct knowledge
+> of the searches — sought under rule 64G(2), not under the notice."***
+
+⚠ **Do not over-plead the authority.** *Bunney* [2020] QIRC 210 is in the file as the template for
+**production** orders under r 64H(1) on a Form 29 objection. ⛔ **It is not authority that a
+verification affidavit is available, and it is held only in summary.** ⭐ **The power is r 64G(2)
+itself.** ⛔ **Never cite it from the summary.**
+
+## 8.4 ⭐⭐⭐ AND HE WAS NOT RULING
+> ⭐⭐ [47:34] ***"I'm not going to get into the facts now because I'm not hearing the matter."***
+
+⇒ ⭐⭐⭐ **Said five seconds before the question. It is a demonstration inside a persuasion exercise,
+not a determination** — the same register as *"let's not get into the case"* [27:38], *"I'm not
+making a ruling on that now"* [48:44], *"I'm not close to that at all"* [61:23].
+⇒ ⛔ **Nothing was decided against him at [47:52].**
+
+## 8.5 ⭐⭐⭐⭐ AND THE PROBLEM IT EXPOSED IS ALREADY SOLVED, BY A BETTER ROUTE
+⭐⭐⭐ **He was right that an absence cannot be DISCLOSED. He was answering the wrong question about
+whether it can be PROVED.**
+
+| ⛔ What was being attempted | ⭐⭐⭐⭐ What was done instead |
+|---|---|
+| Compel a **non-party** to swear that nothing exists | ⭐⭐⭐⭐ **Ask THE PARTY to admit that its own pleading does not allege it and its own List does not list it** — facts 105–110, 213, 216, 250, 269–271, 273, 300–303 |
+
+⇒ ⭐⭐⭐⭐ **The does-not-allege and does-not-list negatives are the only way an absence can be proved,
+and they did not exist on 7 August 2026. They exist now, admitted, against the party actually before
+the Commission.**
+
+## 8.6 ⭐⭐⭐ THE RESOLVED POSITION
+1. ⛔ **It is not evidence that he read the 64G.**
+2. ⭐⭐⭐ **It is evidence of which document was in his hand: the notice.** ⇒ **Consistent with §2 —
+   the 7 August listing was set on 15 June to deal with the OBJECTION and the NOTICE, and the
+   application never entered its frame.**
+3. ⭐⭐ **The question was right about the notice, wrong about the application, and unanswered
+   because the answer was in a document nobody opened.**
+4. ⭐⭐⭐ **It decided nothing, and the underlying problem has since been solved better.**
