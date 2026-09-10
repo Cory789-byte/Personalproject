@@ -72,3 +72,50 @@ cross-examination.** ⭐⭐ **Give the facts. Let their own document and his doc
 I do."**
 ⇒ ⭐⭐ **Everything else in the fatigue case is already admitted, authenticated, or comes from the
 doctor.**
+
+---
+
+# 5. ⭐⭐⭐ TENDERING THE CODES AND THE CALL RECORDS — TWO ROUTES, AND ONE QUESTION TO SETTLE FIRST
+
+⭐⭐ **His evidence carries the fatigue. The documents corroborate it. Neither depends on the other,
+and that is the strength of the position — but the tender still has to be planned.**
+
+## 5.1 ⭐⭐⭐ ROUTE B IS THE ONE TO RUN — THE CUSTODIAN'S OWN COPY, ON FACT 268
+> **Fact 268, ADMITTED:** Metro South's Chief Executive told Commissioner Dwyer, by letter of
+> 5 June 2026 ref K-LM26/729: *"**a spreadsheet of recorded MET calls is available for the period
+> 17-18 March 2024.**"*
+
+⭐⭐⭐ **A one-document non-party notice on that sentence produces the ORIGINAL from the employer.**
+⇒ ⭐⭐ **No authenticity dispute survives it. No question about how he came by it. And it arrives with
+the custodian's own production.** ⭐⭐⭐ **This is the only tab worth an application, and this is why.**
+⭐ **Timing: after 30 September** (per `THE-PLAY…` §3).
+
+## 5.2 ⚠⚠ ROUTE A — HIS OWN CAPTURE — WORKS, BUT SETTLE ONE THING FIRST
+⭐⭐ **He is the MAKER of the Tab 31 capture. A witness who made a copy can prove the copy** — *"I
+opened the workbook '2024 Emergency Code Register.xlsx', MARCH 2024 sheet, on [date]; this is a true
+image of what was displayed."* ⇒ **That needs no admission from anyone.**
+
+⛔⛔⛔ **BUT SETTLE THIS BEFORE DECIDING TO TENDER IT: WHEN, AND ON WHAT AUTHORITY, DID HE MAKE THE
+CAPTURE?**
+| If | Then |
+|---|---|
+| ⭐ **During employment, on a system he was authorised to use, in the course of his duties** | ⭐⭐ **Tender it. He proves it himself and there is nothing to answer.** |
+| ⛔⛔ **After exclusion, or from a system he was not then authorised to access** | ⛔⛔⛔ **DO NOT TENDER IT ON ROUTE A.** ⭐ **The cross would be about how he obtained a hospital record, not about the shifts — and that is a worse hearing than not having the document.** ⇒ **Route B only.** |
+
+⇒ ⭐⭐⭐ **He must answer this for himself before 30 September. It decides the route, and nothing else
+does.**
+
+## 5.3 ⭐⭐ "THE SHIFT CALL" — ESTABLISH IT EXISTS BEFORE ASKING FOR IT
+⚠ **Fact 268 covers MET calls for 17–18 March. It does not cover general switchboard call volume.**
+⚠⚠ **And fact 263 admits Metro South's answer on Item 4: *"the requested documents do not exist."***
+⇒ ⭐⭐ **So before any request for call-volume records: identify the sentence in which the employer has
+said THOSE records exist.** ⛔ **If there is no such sentence, do not ask** — the request letter's whole
+strength is that every line rests on the employer's own written statement of possession.
+⇒ ⭐⭐⭐ **If it does not exist on paper, the shift's call load comes from HIM, under §2. That is
+sufficient, and it is not contingent on anyone.**
+
+## 5.4 ⭐⭐ AND THE ORDER AT HEARING
+1. ⭐⭐⭐ **His evidence first** — the clock, the duties, what he noticed. ⭐ **It stands alone.**
+2. ⭐⭐ **Then the documents, as corroboration** — never as the foundation.
+⇒ ⭐⭐⭐ **Put that way, a successful objection to a document costs him nothing. Put the other way
+round, it costs him the stressor.**
