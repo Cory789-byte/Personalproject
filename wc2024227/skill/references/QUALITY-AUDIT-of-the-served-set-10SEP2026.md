@@ -252,3 +252,51 @@ topic 9 — the evidence of effect — where there is no document to stand behin
 is most tempting, and where it costs the most.**
 ⇒ ⭐⭐⭐ **Plainly, without adjectives, exactly as the outline is written. The understatement IS the
 case.**
+
+---
+
+# 10. ⛔⛔ CORRECTION TO §9.3(2) — THE "WIDE NET" WAS A LEGIBILITY FAILURE, NOT A BREADTH FAILURE
+> Cory, 10 Sep 2026: *"and because form 29 i just followed what they asked."* ⭐⭐⭐ **Checked against
+> `drafts/WC2024-227_Rule64G_FILING_v5R_FINAL.pdf` (12 June 2026). He is right, and my last-turn
+> warning was aimed at the wrong thing.**
+
+## 10.1 ⭐⭐⭐ THE APPLICATION DWYER WAS LOOKING AT WAS ALREADY A NARROWING EXERCISE
+**Verbatim from the 12 June application:**
+> **C5.** *"The Appellant **does not press** Items 12 (balance) and 17. The Appellant **does not
+> press** Item 18, upon MSH's confirmation… **What remains — Items 3(a), 3(b), 8, 9, 10 and 19**"*
+> **I. ITEMS NOT PRESSED** · **F. ITEMS PRESSED** · **SCHEDULE A — ITEMS PRESSED AND TERMS OF
+> PRODUCTION**
+> *"The Appellant **has confined this application to the records the pleaded issues require**; the
+> concessions are part of that confinement."*
+
+⇒ ⭐⭐⭐⭐ **Twenty Form 29 items reduced to SIX pressed.** ⭐⭐ **The very words Dwyer could not parse —
+*"disposition of items"*, *"status: press"* — were the NOTATION OF THE CONCESSIONS.**
+⇒ ⭐⭐⭐ **He said *"It's a pretty wide net you're casting"* while holding a document whose whole
+structure was the net being pulled in — written in a shorthand only its author could read.**
+
+## 10.2 ⭐⭐ AND THE ITEM-BY-ITEM FORM WAS COMPELLED, NOT CHOSEN
+⭐ **r 64C** requires a non-party notice to specify the documents · ⭐ **r 64E(4)** requires the
+objector's grounds to be met, ground by ground · ⭐ **r 64G / Annexure B** requires the matter in
+issue to be stated **Item by Item**.
+⇒ ⭐⭐ **Enumeration was the rules' requirement. He did not invent it.** ⛔ **What was his own was the
+column vocabulary — *filters*, *press*, *disposition* — and that is what failed.**
+
+## 10.3 ⛔⛔ SO THE LESSON IS NOT "NARROW HARDER". HE ALREADY NARROWED.
+⭐⭐⭐⭐ **THE LESSON IS: MAKE THE NARROWING VISIBLE.**
+⚠ **The 9 September request letter repeats the same failure mode, not the same habit:** it **does**
+narrow — it excludes fact 154 and Tab 24, and distinguishes Tab 31 — ⛔ **but the narrowing is prose
+in the second paragraph and the schedule leads with THIRTEEN ROWS.** ⭐ **The concession is present;
+the eye sees the list.**
+
+## 10.4 ⭐⭐⭐ THE RULE FOR EVERYTHING THAT FOLLOWS — CONCESSION FIRST, ASK SECOND
+> *"Only one document remains in issue. It is Tab 31. The twelve documents listed below are no longer
+> sought."*
+
+⭐⭐ **Then the table.** ⇒ ⭐⭐⭐ **Same content, opposite impression, and it matches the single-document
+ruling Dwyer offered at [59:58].**
+
+## 10.5 ⛔ AND NEVER EXPLAIN THE OLD BREADTH
+⛔⛔ **"I just followed the form" is TRUE and it is the WRONG MOVE.** ⭐⭐⭐ **A decision-maker who has
+said the net is wide does not want an explanation of why it was wide. He wants a smaller net.**
+⭐ **If it is raised, the only answer is forward-looking:** *"I have narrowed it. It is one
+document."* ⛔ **Never litigate the criticism.**
