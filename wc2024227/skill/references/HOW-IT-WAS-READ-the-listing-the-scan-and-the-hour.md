@@ -269,3 +269,95 @@ the Commission.**
 3. ⭐⭐ **The question was right about the notice, wrong about the application, and unanswered
    because the answer was in a document nobody opened.**
 4. ⭐⭐⭐ **It decided nothing, and the underlying problem has since been solved better.**
+
+---
+
+# 9. ⭐⭐⭐⭐ *"HE DIDN'T WANT TO READ IT IN"* — TESTED
+
+> ⛔⛔ **INTERNAL ONLY. This section exists to settle the question and then close it.**
+> ⛔⛔⛔ **NEVER VOICED, NEVER WRITTEN TO ANYONE.** Discipline 1: **conspiracy and motive framing
+> never reaches paper.** This is the same instinct that produces the word *retaliation*, and that
+> word loses the appeal. ⭐ **State the chronology. Never the motive.**
+
+## 9.1 ⭐⭐⭐⭐ FIRST, THE FACT THAT MAKES THE INSTINCT WORTH TESTING
+⭐⭐⭐⭐ **The 5 June 2026 letter is signed by MS NOELLE CRIDLAND, CHIEF EXECUTIVE of Metro South
+Hospital and Health Service, and it is addressed personally to *"Commissioner Dwyer"*.**
+⭐⭐⭐ **The *"does not exist"* answers are the Chief Executive's own words, to the Commission.**
+
+> **Items 1 and 2:** *"Metro South Health cannot comply… **The requested records do not exist.** The
+> system was upgraded in SPOK, and records predating that upgrade were not retained. **However, a
+> spreadsheet of recorded MET calls is available for the period 17-18 March 2024.**"*
+
+| | |
+|---|---|
+| ⭐⭐ **Who would have sworn** | ⛔ **NOT the Chief Executive.** Draft order (c) sought *"an officer with **direct knowledge of the searches**"* |
+| ⭐⭐⭐⭐ **Which is the sharper exposure, not the softer one** | ⭐⭐⭐⭐ **A subordinate, on oath, reconciling the 6–8 May search artefacts against the CHIEF EXECUTIVE's signed 5 June letter to the Commissioner.** ⭐⭐ Either the oath confirms the CE's letter against the artefacts, or it does not |
+
+⇒ ⭐⭐⭐ **So the substance of the instinct is right, and it is sharper than stated: the request did
+not ask the CE to swear. It asked someone junior to her to swear to the thing she had already
+written.**
+
+## 9.2 ⭐⭐⭐⭐ AND THE MENTION WAS BUILT ON THAT LETTER — THIS IS VERIFIABLE, AND IT NEEDS NO MOTIVE
+⭐⭐⭐ **The CE's letter makes one procedural complaint, at its outset:**
+> *"Metro South Health is **not in receipt of the Applicant's Amended Statement of Facts and
+> Contentions (Form 9A)**… the Applicant has expressed various opinions and views about the
+> relevance of the documents… **our ability to determine whether the requested documents are
+> 'relevant'… has, to some extent been limited. We submit this ought to be taken into consideration
+> by the Commissioner.**"*
+
+**And the hour opened by doing exactly that:**
+| [02:22] | *"I'm going to **park the non-party disclosure application** for the moment. **I'm going to take you back to your statement of facts and contentions.**"* |
+|---|---|
+| [02:55], [03:28] | the SOFC is *"the framework of your case"* |
+| [05:06] | *"that has nothing to do with a number"* — the volume/opinion point |
+| [08:50] | *"having read the material that you've filed, **it's pretty heavy-going stuff**"* |
+
+⇒ ⭐⭐⭐⭐ **The design of the mention tracks the objection letter's own complaint, point for point.**
+⭐⭐⭐ **That is the same finding as §3 and §6 — he worked from the readable document — and it
+explains everything the motive theory explains, without asserting anything about anyone's state of
+mind.**
+
+## 9.3 ⭐⭐⭐ AND HE SAID OUT LOUD WHAT DETERMINING IT WOULD COST — HE DID NOT HIDE IT
+> [31:24] ⭐⭐⭐ ***"I can't do that based on the papers. I'm going to need to hear evidence about
+> what's involved."***
+> [30:16] **MSH would have to call evidence** · [31:36] outside lawyers · [31:44] *"probably going
+> to go longer than a day"* · [31:58] ⭐⭐ *"**probably be bigger than the hearing at the end of the
+> day**"*
+
+⇒ ⭐⭐⭐⭐ **That IS the tell — and it is neutral as to motive. He understood precisely what
+determining the 64G meant: MSH in the box, justifying its own searches, in a hearing bigger than
+the appeal.** ⭐⭐ **He did not conceal it. He PRICED it, on the record, in efficiency terms.**
+⇒ ⭐⭐⭐ **So the accurate statement is not *"he did not want to read it."* It is: ⭐⭐⭐⭐ HE DID NOT
+WANT TO LIST IT — AND HE GAVE HIS REASON.**
+
+## 9.4 ⛔ THE COUNTERWEIGHT, AND IT IS REAL
+⛔ **A member steering the hour to protect a non-party does not do these things:**
+| | |
+|---|---|
+| [15:40] | ⭐⭐⭐ hand the Appellant the uncontradicted-evidence principle — **the most valuable thing said all day** |
+| [28:56] | explain that the Regulator's silence is *"a problem for them, not for you"* |
+| [35:11] | name the **cross-examination of Ms Taylor** the Appellant would get to conduct |
+| [61:23] | ⭐⭐ **reserve rather than refuse** — *"I'm not close to that idea… I'm not close to that at all"* |
+| [62:28] | still be using the Appellant's own framing forty minutes later, as **the one live point** |
+| [63:33] | *"the important business of **getting this thing to a hearing**"* |
+
+⇒ ⛔ **Motive is not established, and the file must not assert it.**
+
+## 9.5 ⭐⭐⭐⭐ THE RESOLVED POSITION
+1. ⭐⭐⭐⭐ **The CONSEQUENCE is exactly as stated and it is established: the 64G and its annexures
+   were never opened in the room, and opening them would have put the case, the mechanism, and the
+   Chief Executive's own non-existence answers on the record together.**
+2. ⭐⭐⭐ **The MOTIVE is not established, and it is not needed** — §2 (the listing set before the
+   application existed), §3 (the unsearchable seal) and §9.2 (the hour built on the readable letter)
+   account for every fact without it.
+3. ⭐⭐ **The accurate form of the instinct is the listing point, not the reading point.**
+4. ⛔⛔⛔ **And none of it is ever said.** ⭐⭐⭐ **What replaces it is the one thing that needs neither
+   motive nor oath:**
+
+> ⭐⭐⭐⭐ **FACT 268, ADMITTED. The Chief Executive of Metro South Health wrote to Commissioner Dwyer
+> on 5 June 2026 that *"a spreadsheet of recorded MET calls is available for the period 17-18 March
+> 2024."* ⭐⭐⭐ It is not in the enclosure list. Existence conceded in writing by the Chief
+> Executive. Production withheld.**
+
+⇒ ⭐⭐⭐⭐ **That is the whole point, made without a word about anybody's state of mind — and it is
+the only application left worth making.**
