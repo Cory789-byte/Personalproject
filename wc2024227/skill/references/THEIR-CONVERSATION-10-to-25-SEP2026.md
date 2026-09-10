@@ -153,3 +153,52 @@ TO APPROVE:**
 3. ⭐⭐⭐ **Give them a form of words that does not require anyone to say the pleading was wrong.**
 4. ⭐⭐ **And keep the hearing preparation running in parallel** — ⛔ **because §7.1 is still the most
    likely explanation of the last two weeks, and it means nothing has been decided at all.**
+
+---
+
+# 9. ⭐⭐⭐ WHAT ACTUALLY TIPPED IT — AND IT WAS THE NINTH
+
+## 9.1 ⭐⭐⭐ THE 8TH LOST THEM THE FACTS. THE 9TH LOST THEM THE HEARING.
+⭐⭐ **The 298 admissions were served on 8 September — BEFORE his bundle. So the 9th did not cause the
+concession.** ⇒ ⭐⭐⭐ **What the 9th did was close the ONE route back that remained.**
+
+⭐⭐⭐ **After conceding 298 facts, their only remaining hope was PRESENTATION** — that a
+self-represented appellant with 303 facts and 39 tabs would arrive with a case a Commissioner could
+not follow, and that they would win on the running of it rather than its merits. ⭐⭐ **And Dwyer had
+already signalled exactly that impatience** — *"you're floundering around a bit"*, *"I can't
+understand half of what I'm reading"*, *"whittle this list right down"*.
+
+⇒ ⭐⭐⭐ **The 9 September service removed that hope in a single delivery.**
+
+## 9.2 ⭐⭐⭐ WHAT THE SET ACTUALLY COMMUNICATES
+| Served 9 September | ⭐⭐ What it tells them |
+|---|---|
+| ⭐⭐⭐ **The outline — TEN SHORT PARAGRAPHS**, each anchored to an admitted fact or to their own SOFC | ⭐⭐⭐ **He is not running a sprawling case. The hearing will be short, clean and hard to derail** |
+| **Three outlines, a filed witness list** | ⭐ organised, and the corroboration is already lined up |
+| ⭐⭐⭐ **The medical schedule — 43 pages, item by item, "relied upon for / NOT relied upon for", and where THEY hold each one** | ⭐⭐⭐ **see §9.3 — this is the sharpest document in the set** |
+| ⭐⭐ **The request letter — every document named, with the column "Copy known to be held"** | ⭐⭐ **a party who builds a record, offers exits, sets a date, and will not be delayed** |
+| **The letter answering their 8 September reservations** | ⭐ nothing left unanswered |
+
+⇒ ⭐⭐⭐ **Read together: this appellant gets to hearing, runs it in a day or two, and every element is
+their own document or their own admission. There is no chaos to exploit and no volume to drown in.**
+
+## 9.3 ⭐⭐⭐ THE SHARPEST THING IN IT — THE "NOT RELIED UPON FOR" COLUMN
+⭐⭐⭐ **He states, for every medical document, what he does NOT rely on it for.** ⭐⭐ And on the clinical
+opinion: *"does not rely upon that opinion otherwise than through the oral evidence of its author."*
+⇒ ⭐⭐⭐ **Their letter reserved RELEVANCE and ADMISSIBILITY. That reservation is far weaker against a
+party who has already limited his own use of every document.** ⇒ ⛔ **There is very little ground left
+to object from, because he has taken it himself.**
+
+## 9.4 ⭐⭐ AND THE TIMING SUPPORTS IT
+⭐ **Their response was served 8 September, 11:24 am.** ⭐ **His set went on the 9th.** ⭐⭐⭐ **Her
+extension request came on the 10th — the day after HIS service, not after their own.**
+⇒ ⭐⭐ **The request for time follows his bundle. That is a reaction to what landed, not a step in
+their own sequence.**
+
+## 9.5 ⭐⭐⭐ SO THE ORDER OF EVENTS IS
+1. ⭐⭐ **8 Sep — they concede the facts** (cleared twice, above the Appeals Unit).
+2. ⭐⭐⭐ **9 Sep — he shows them the hearing**: short, anchored, self-limited, tendered from their own
+   documents.
+3. ⭐⭐ **10 Sep — they ask for time.**
+⇒ ⭐⭐⭐ **The medical is the last open element of HIS case. It is not what moved theirs. The
+architecture did.**
