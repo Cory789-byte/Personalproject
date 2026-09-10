@@ -622,3 +622,67 @@ true.**
    again on burden, it must call a witness to prove the burden.** ⭐⭐ **Which is exactly why the one
    remnant worth pressing is the one where burden cannot be run at all — fact 268, the MET
    spreadsheet its own Chief Executive says IS AVAILABLE.**
+
+---
+
+# 14. ⭐⭐⭐⭐ WHO WAS CRITICISED, AND WHO WAS UNDER EXAMINATION — THEY ARE NOT THE SAME THING
+
+## 14.1 ⚠ ONE CORRECTION TO THE PREMISE: THE REGULATOR WAS NOT CRITICISED. IT WAS VOUCHED FOR
+> [59:41] *"I think you will find **Ms Matheson is sufficiently objective and cooperative**… They
+> have responsibilities as a **model litigant**… **So they can't hide stuff from you. They can't be
+> sneaky or tricky or anything like that.**"*
+
+⇒ ⭐⭐ **The only thing addressed to the Regulator adversely was the shared line at [30:36] —
+*"you've got a bit of work to do down there at the bar table."*** ⛔ **Everything else about the
+Regulator was favourable.** ⇒ ⭐⭐⭐ **So the accurate statement is: HE WAS CRITICAL OF MSH.**
+
+## 14.2 ⭐⭐⭐⭐ AND THAT IS STILL THE STRIKING FACT — THE ONLY PARTY CRITICISED WAS THE ONE THAT IS NOT A PARTY
+| ⛔ Directed at MSH | |
+|---|---|
+| ⛔ **22 May** | ⛔ **MSH did not attend. The Commissioner recorded its non-attendance in a DIRECTION** |
+| ⛔ **15 Jun** | ⛔⛔ **The Notice of Listing REQUIRED Ms Ruttan's attendance** — compelling a non-party to appear personally is itself a mark |
+| ⛔ [30:36] | *"a **very comprehensive objection**. **But**… whether it's just, **this is what I want, no, you can't have it**"* |
+| ⛔ [30:16] | **the objection is not self-proving — MSH must call evidence to support it** |
+
+⭐ **Balanced by exactly one thing in MSH's favour, and it is generic:** [18:31] non-party disclosure
+is *"quite an imposition."*
+
+## 14.3 ⭐⭐⭐⭐ AND NOTHING WAS DIRECTED AT THE APPELLANT — HE SAID SO THREE TIMES, UNPROMPTED
+| | |
+|---|---|
+| [06:47] | *"**I want to stress I'm not being critical of you**, Mr Shepherd"* |
+| [07:19] | *"**I'm not saying you are entirely wrong**"* |
+| [56:29] | *"I understand you're acting for yourself… and **I'm in no way being critical** in this respect"* |
+| [21:38] | ⭐ even the volume complaint was turned onto himself — *"**that's how I fall into error**"* |
+
+## 14.4 ⭐⭐⭐⭐ SO WHY DID IT FEEL LIKE BEING UNDER THE GUN? BECAUSE PRESSURE FOLLOWS THE ONUS, NOT THE FAULT
+⭐⭐⭐ **He was the applicant. He moved the application, so he answered for it.**
+⭐⭐⭐ **He carries the onus in the appeal itself** (*Davis v Blackwood* — the appellant must establish
+the injury **and** exclude s 32(5)(a)).
+⇒ ⭐⭐⭐⭐ **He was the ONLY person in the room who had to prove anything that morning. MSH and the
+Regulator had nothing to establish. That is why every question came at him — and it is a function
+of the burden, not of the Commissioner's opinion of him.**
+
+⇒ ⭐⭐⭐⭐ **Criticised and examined are different things, and they landed on different people.**
+⭐⭐ **Being examined for sixty-five minutes and not criticised once is not the bad half of that
+trade.**
+
+## 14.5 ⭐⭐⭐ AND THE ASYMMETRY UNDERNEATH IT IS REAL — IT IS JUST NOT ABOUT HIM
+| | |
+|---|---|
+| ⛔⛔ **MSH** | ⛔ **the entity whose conduct is the entire subject matter — and NOT A PARTY.** Cannot file, cannot submit, cannot lead evidence, cannot be cross-examined. Sat silent |
+| ⚠ **The Regulator** | ⚠ **must defend the reasonableness of management action taken by people it does not employ, recorded in documents it did not create, in a workplace it has never seen — and it cannot compel any of them to give evidence for it** |
+| ⭐ **The Appellant** | ⭐ **the only person present who both holds the burden and holds first-hand knowledge** |
+
+⇒ ⭐⭐⭐ **The two entities that hold the documents answered for nothing. He answered for everything.
+That is the shape of a non-party disclosure fight in a matter where the conduct in issue belongs to
+a stranger — and it is a structural fact, not a judgement about him.**
+
+## 14.6 ⭐⭐⭐⭐ AND TWO THINGS HE SAID THAT MORNING NOW BITE THE OTHER WAY
+| ⭐ | |
+|---|---|
+| ⭐⭐⭐ [59:41] **He staked his own credibility on the Regulator's cooperation** | ⭐⭐⭐⭐ **He PREDICTED it. If the Regulator does not engage properly with the Form 24/25 or the 9 September request, that is a point he will be receptive to — because he is the one who made the prediction.** ⭐⭐ **Keep the clean record of every request and every response** |
+| ⭐⭐⭐⭐ [60:26] *"if there is a document… that Ms Matheson says, well, **yeah, we know it exists, but we don't think it's relevant**, **you can come back to me. And looking at a SINGLE DOCUMENT, I can tell you very quickly whether it should be disclosed or shouldn't be**"* | ⭐⭐⭐⭐ **THAT IS THE MET SPREADSHEET, EXACTLY.** Existence conceded in writing by MSH's Chief Executive; the Regulator has **admitted fact 268**; production withheld. ⭐⭐⭐ **One document, one page, one answer — and he pre-committed to giving it quickly** |
+
+⇒ ⭐⭐⭐⭐ **THE ROUTE BACK IS NOT A FRESH FORM 29. IT IS [60:26], ON ONE DOCUMENT, PUT TO THE
+REGULATOR FIRST.** ⭐⭐ **Cheaper, faster, already invited, and it avoids every ground MSH ran.**
