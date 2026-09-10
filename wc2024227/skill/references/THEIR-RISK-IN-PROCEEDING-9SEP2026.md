@@ -531,3 +531,10 @@ until 30 September is in.**
    own merits.** ⛔ **Never trade an admission for an indulgence.**
 2. ⛔ **A settlement approach is not a reason to slow the preparation.** ⭐ **Preparation is what
    produces the offer; stopping is what withdraws it.**
+
+
+> ⛔⛔ **CORRECTION (10 Sep 2026):** this file describes the second s 552A conference as a
+> concession opportunity. That is a partial quotation. Guide §5.1 says *"No commercial settlement is
+> possible at the conference"*, that conferences *"are not intended to facilitate conciliations"*, and
+> that issue-clarification is *"the more likely outcome"*. See
+> `GUIDE-5.1-what-the-conference-actually-is.md`.

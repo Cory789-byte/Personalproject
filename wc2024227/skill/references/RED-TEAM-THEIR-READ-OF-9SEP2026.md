@@ -275,3 +275,10 @@ provided he is genuinely prepared to run it — and on this material he is.**
    ⇒ ⭐⭐⭐ **Move to an attendance notice for her sooner rather than later, once hearing dates issue.
    A summonsed witness attends under compulsion; a volunteer attends by choice. The compulsion
    protects her, and it protects the evidence.** ⭐ **Tell her that is why it is being done.**
+
+
+> ⛔⛔ **CORRECTION (10 Sep 2026):** this file describes the second s 552A conference as a
+> concession opportunity. That is a partial quotation. Guide §5.1 says *"No commercial settlement is
+> possible at the conference"*, that conferences *"are not intended to facilitate conciliations"*, and
+> that issue-clarification is *"the more likely outcome"*. See
+> `GUIDE-5.1-what-the-conference-actually-is.md`.

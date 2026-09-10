@@ -56,3 +56,14 @@ KRISHNAIAH — everything downstream is scheduled off that.**
 | Ms Taylor AND Ms Reese both listed 30 Sep | #3 and #4 — they are running it, and prediction 4 drops toward 45% |
 | An amended SOFC at any point | not falsifying, but it moves #4 down and #6 up |
 | No conference requested by mid-October | ⛔ **the delay is then HIS, and #5 fails on his own timing** |
+
+---
+
+> ⛔⛔⛔ **CORRECTED 10 September 2026 — READ WITH `SETTLE-OR-RUN-the-signals-to-watch.md` PART TWO.**
+> ⛔ **The percentages above have no statistical foundation and should be read as directional
+> judgments only.** ⛔ **Prediction 3's reasoning is unsound as stated: the Respondent need not call
+> Ms Taylor to run s 32(5)(a), because the ONUS IS THE APPELLANT'S** (*Davis v Blackwood*), **and the
+> reasonableness case is pleaded with particulars at SOFC ¶¶11–16, not only at ¶27.**
+> ⛔ **Predictions 4 and 5 assume the s 552A conference is a settlement venue. Guide §5.1 says *"No
+> commercial settlement is possible at the conference"* — see
+> `GUIDE-5.1-what-the-conference-actually-is.md`.**
