@@ -178,3 +178,50 @@ this as a production task within its remit — which is worth more to him than e
 has been asked — NOT a rule 49 admission.** ⭐⭐ **Expect the certification question to stay open past
 the 25th, and treat that as the base case rather than the bad case.**
 ⇒ ⭐⭐⭐ **Which changes nothing, because he holds every document and can prove each of them himself.**
+
+---
+
+# 8. ⛔ CORRECTION TO §5 — TWO WORKING DAYS, NOT ONE. AND THE WEEK IS NOT FOR HER DIARY.
+
+## 8.1 ✅ HE DID SAY FRIDAY
+⭐ **His letter: *"could the Regulator please, **by Friday 18 September 2026**, do one of the
+following…"*** ⭐ **And she quotes it back: *"asking the Regulator to produce documentation by Friday
+18 September 2026."*** ⇒ ✅ **Confirmed on both sides.**
+
+## 8.2 ⛔ THE COUNT — I REPEATED THE STEELMAN'S FIGURE AND IT WAS SHORT BY ONE
+| | |
+|---|---|
+| Calendar days, 10–18 Sep | **9** |
+| Working days | **7** — Thu 10, Fri 11, Mon 14, Tue 15, Wed 16, Thu 17, Fri 18 |
+| Consumed by the hearing (*"next week"* = Mon 14 – Fri 18) | **5** |
+| ⭐⭐ **Free** | ⭐⭐ **2 — Thursday 10 (she wrote at 14:42, so part of it) and Friday 11 (whole)** |
+
+⇒ ⛔ **"One clear working day" was wrong. It is a day and a half to two days.**
+
+## 8.3 ⭐⭐ AND *"IN A HEARING"* IS NOT *"UNABLE"*
+⭐ **Her own words are that the hearing *"will greatly limit my ability to complete other actions"*** —
+⭐⭐ **a statement about CAPACITY, not impossibility.**
+⭐ **And she works outside court hours: her reply of 3 August 2026 was sent at 07:17** (filed PDF,
+time in the header).
+⇒ ⭐⭐ **So the hearing does not account for the whole week on its own.**
+
+## 8.4 ⭐⭐⭐ SO WHAT IS THE WEEK ACTUALLY FOR? — READ THE SENTENCE
+> ⭐⭐⭐ *"…an extension until Friday 25 September 2026 **to enable me time to review this request AND
+> IF NEEDED REACH OUT TO MSH** in relation to the requested documents"*
+
+⭐⭐ **Two working days is ample to read a two-page letter.** ⛔⛔ **It is not enough to read it, decide,
+write to Metro South Health, and get an answer back.**
+⇒ ⭐⭐⭐ **THE WEEK IS SIZED FOR A THIRD-PARTY ROUND TRIP, NOT FOR HER OWN DESK WORK. The hearing is the
+reason she cannot START; the week is for what happens after she starts.**
+⇒ ⭐⭐ **That reconciles both readings honestly, and it is better than either.**
+
+## 8.5 ⭐⭐⭐ WHICH FIRMS UP THE PREDICTION — AND NAMES THE RISK
+⭐⭐⭐ **If the week is sized for an MSH round trip, the 25 September answer reflects what MSH said:
+documents produced, or a report that MSH has been asked.** ⛔ **Not a refusal, and not silence.**
+
+⚠⚠ **AND THE RISK IS THE NON-PARTY, NOT THE OFFICER.** ⭐⭐⭐ **The same Metro South Health that
+objected to his last Form 29 by the letter of 5 June 2026, and that has left the RFMI to
+Dr Krishnaiah unsent since 31 July 2026 — six weeks and counting — is the body she is waiting on.**
+⇒ ⭐⭐⭐ **If MSH does not answer her in time, the natural output on 25 September is A SECOND
+EXTENSION.** ⭐⭐ **Plan for it. It is not a signal about the appeal; it is the same non-party being
+slow to two people at once.**
