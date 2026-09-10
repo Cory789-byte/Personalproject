@@ -30,12 +30,22 @@ Payroll had put that question to the line manager the previous day, 7 September 
     13.12.2024 - 23.02.2025. This will affect the employee's LSL date... we would require a
     leave form to be submitted for both periods. Could you please confirm?"
 
-That request was addressed to the line manager and copied to the Payroll Service Leader, with
-Injury Management in the chain. No reply has been received from any recipient. The pay period
-cut-off has since passed without the recalculation being completed.
+That request was addressed to Chloe and copied to the Payroll Service Leader, with Injury
+Management in the chain. I acknowledge that Chloe acted on 4 September 2026, processing ad hoc
+PRN 24973005 and stating she was "continuing to work with Payroll to confirm your correct LSL
+eligibility date". No confirmation of the two periods has been recorded since Payroll asked for
+it on 7 September. The pay period cut-off has since passed without the recalculation being
+completed.
+
+This is also the answer to the position reported on 4 September. Chloe wrote that "the system
+is currently showing that you are not eligible from this date". Payroll has since identified
+why: the two periods are coded LWOP when, on Payroll's own view, they should be SNP. The
+ineligibility reported on 4 September is a consequence of the coding, and Payroll has said what
+is needed to correct it.
 
 I do not accept deferral to the following cycle. I ask that this be processed and paid by ad
-hoc, as was done last week under PRN 24973005, and that I receive a response.
+hoc, and that I receive a response. When Payroll advised on 3 September that an ad hoc could not
+be processed before 9 September, it was nonetheless processed the following day.
 
 Why it matters, on Payroll's own figures. I commenced with Queensland Health on
 25 March 2019. Payroll's calculation of 4 September 2026 records that commencement date.
@@ -47,6 +57,11 @@ passed.
 
 Nobody has said I did not complete the qualifying period. Nobody has said the entitlement was
 forfeited. What remains is an administrative step that Payroll has already specified.
+
+Why it cannot wait. The ad hoc of 4 September paid "all available leave balances (S/L and A/L
+in lieu of S/L)" and it covered PP03 only, 6 to 17 July 2026. There are no further balances to
+draw on. From 18 July 2026 there is nothing available to me but long service leave, and long
+service leave is blocked by a code Payroll has said is wrong.
 
 What I ask to be done, today, Thursday 10 September 2026:
 
@@ -74,9 +89,9 @@ Please confirm in writing by close of business on Friday 12 September 2026:
     (b)  if that has not been done, who has decided it will not be done and the written basis
          for that decision.
 
-Three requests about this have now gone unanswered. If I have no substantive response by
-Friday 12 September 2026 I will ask Together Queensland to take the matter up on my behalf and
-will write to the delegate.
+Together Queensland is already copied on this thread. If I have no substantive response by
+Friday 12 September 2026 I will ask Ms Petering to take the matter up on my behalf and will
+write to the delegate.
 
 A separate matter, not to be conflated with the above. Since 3 July 2026 I have been certified
 fit for duties with restrictions and available, and I have not been provided work. Those days
@@ -84,9 +99,10 @@ are currently recorded as leave without pay. I ask that the coding of that perio
 separately, on its own merits, after the two forms above are lodged. I raise it now only so it
 is not overlooked, and I do not want it to delay paragraph 1.1.
 
-Reservation. I have received no wages for work since 13 July 2026. What I have been paid since
-then, including the ad hoc payment under PRN 24973005, has been drawn from my own leave
-accruals and not paid as wages. I am accessing leave only for that reason. I remain ready,
+Reservation. I have not been provided work since 3 July 2026 and have received no wages for
+work since. The only payment I have received is ad hoc PRN 24973005, which paid my sick leave
+and annual leave in lieu of sick leave for PP03, 6 to 17 July 2026. That was drawn from my own
+accruals and was not paid as wages, and it exhausted those balances. I am accessing leave only for that reason. I remain ready,
 willing and able to work within the restrictions recorded in the Employee Capability Checklist
 of 3 July 2026. Any leave taken or paid in this period is taken under protest and without
 prejudice to my claim for wages for the period I have not been provided work, and I reserve the
