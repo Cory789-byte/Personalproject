@@ -135,3 +135,64 @@ discretion runs on. Keep it filed. Do not spend it.**
 2. ⭐ **Diarise 25 September — and if it passes, do NOTHING.**
 3. ⭐⭐ **Diarise 30 September as the real date.**
 4. ⭐ **If he holds the earlier "in a hearing" email, file it to `documents/correspondence-2026/`.**
+
+---
+
+# 11. ⭐⭐⭐ THE REGULATOR'S OWN USE OF THE FORM 29 — AND WHETHER SHE WILL USE IT AGAIN
+
+## 11.1 ⭐⭐ SHE HAS SERVED QUEENSLAND HEALTH TWICE
+| Filed | On | Sought |
+|---|---|---|
+| **4 July 2025** | Queensland Health | original payslips (fortnights from 5 Feb 2024) · ⭐⭐ **"any amended Payslips … (including date of amendment)"** · ⭐⭐ the **"complete"** 8-hour shift agreement of ~17/06/2020 · payroll emails 08/04/24–01/07/2024 |
+| **27 April 2026** | Queensland Health (K Wright, Director Client Service & Performance) | ⭐⭐ leave form **process reference 15480560** — ***"screenshot(s) of the request progression over time"***, leave details, correspondence, additional material |
+*(and on 4 July 2025, Mind and Memory Service and Our Medical Ashmore)*
+
+## 11.2 ⭐⭐⭐⭐ WHY FORMALLY, AND NOT INFORMALLY — THE ANSWER IS IN WHAT SHE ASKED FOR
+⭐ **Amended payslips *including the date of amendment*.** ⭐ **The *"complete"* agreement.**
+⭐ **The *request progression over time*.**
+⇒ ⭐⭐⭐⭐ **All three are INTEGRITY CHECKS ON QUEENSLAND HEALTH'S OWN RECORDS.** ⭐⭐ **You do not
+ask an entity informally to hand over the evidence of whether it altered, or completed, or
+progressed its own records. You compel it, sealed, so that provenance and completeness are
+proved.**
+⇒ ⭐⭐⭐ **THE RULE IN HER PRACTICE: conferencing for accounts and documents an officer will hand
+over; a SEALED NOTICE where provenance or completeness is the question.**
+
+## 11.3 ⭐⭐ AND SHE RUNS BOTH CHANNELS
+Her covering email of **12 June 2026**: material *"received through **Notice of Non-Party
+Disclosure request AND conferencing**"*. ⭐ **Annexure A tabs are sourced to "the Respondent's
+disclosure from witness conferencing (C Taylor)" and "(T Reese)".**
+⇒ ⭐ **The informal channel with MSH officers is already open and has already produced documents.**
+
+## 11.4 ⭐⭐⭐ WHY SIXTEEN DAYS
+⭐ **Nine days is enough to check her own List of Documents and her own claim file. She asked for
+sixteen.**
+⭐⭐⭐ **Sixteen is what you need to write to MSH, wait, and then decide** — and note: **r 64E and
+r 64B(3) run on SEVEN DAYS.** ⭐⭐ **A notice served around 15–18 September closes its seven-day
+window on or about 25 September.**
+⇒ ⭐⭐ **The length of the extension is consistent with a plan that includes a formal step, not only
+a file check.** ⚠⚠ **It is equally consistent with a hearing all next week and wanting time after
+it. Do not over-read it.**
+
+## 11.5 ⭐⭐⭐ WILL SHE SERVE A FORM 29 AGAIN?
+| | ⭐ **Assessment** |
+|---|---|
+| **A new Form 29 on MSH before 30 Sep** | ⭐ **~30–35%** |
+| **If she does, for TAB 31 alone** | ⭐⭐ **most likely** — it is the only item where provenance is genuinely the question |
+| **For tabs 6, 20, 30** | ⛔ **no** — her own List of Documents, her own claim file, the Commission's file |
+| **For tabs 1, 5, 17–19, 22, 23, 30A** | ⛔ **unlikely** — MSH-held and the conferencing channel already delivers this class |
+⚠ **And a notice is slow: seven days minimum plus MSH's objection right. Against 30 September that
+is tight.** ⇒ ⭐ **Conferencing is the cheaper and more probable route.**
+
+## 11.6 ⭐⭐⭐⭐ AND IF SHE DOES SERVE ONE FOR TAB 31, THAT IS A GOOD OUTCOME FOR HIM
+⭐⭐⭐ **It is the one document he cannot get himself.** His own Form 29 is parked; MSH answered
+Item 20 with *"does not exist"*; and fact 268 records the CE's letter saying *"a spreadsheet of
+recorded MET calls is available for the period 17-18 March 2024."*
+⇒ ⭐⭐⭐⭐ **A Regulator notice compels it, and it arrives with provenance — which is exactly what
+the authenticity request was for.** ⛔ **So do not resist or comment on a notice if one issues.
+Note it and say nothing.**
+
+## 11.7 ⭐⭐ ONE COLLATERAL POINT ALREADY ESTABLISHED
+⭐ **The 4 July 2025 notice to Mind and Memory Service sought the practice's full file *"concerning
+work related issues"*.** ⇒ ⭐⭐ **That is how the Regulator holds the Krishnaiah material, including
+the 13 February 2025 report — by lawful compulsion, not by a QSuper release.** ⭐ **Consistent with
+§9.4 of the earlier assessment: assume they have read all of it.**
