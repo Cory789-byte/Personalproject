@@ -137,3 +137,76 @@ in view of the other, and because he has disclaimed every over-reach in advance.
 ⛔⛔ **It is compelling CONDITIONALLY. It needs a doctor in the room, and it needs him to know, before
 that happens, what the treating doctors say about the 2022 ADHD and anxiety entries and about the
 non-employment factors. Both answers are in item 5, and item 5 has not arrived.**
+
+---
+
+# 5. ⛔⛔⛔ CORRECTION TO §1.2 — THE 16 MAY 2024 REFERRAL IS NOT A WEAPON. DO NOT LEAD WITH IT.
+
+⛔ **I called it *"the sharpest juxtaposition in the whole file"* and *"devastating"*. I was reading
+the schedule's DESCRIPTION of it. Having now rendered and read the document itself, that is
+WITHDRAWN.**
+
+## 5.1 ⭐⭐⭐ WHAT THE LETTER ACTUALLY SAYS — Tab M1, source page 10
+> **Our Medical Ashmore · 16/05/2024**
+> **Dr Arash Amini, Evandale Practice, Bundall**
+> Re: Mr Cory Lea Shepherd
+>
+> ⭐⭐⭐ ***"Dear Arash, Thank you for seeing Mr Cory Lea Shepherd for ongoing care and management."***
+>
+> **Current medications are:** Azithromycin 500mg — 2 tablets stat · Melatonin 5mg modified release —
+> before bed 6mg nocte prn, compounded · [one entry redacted by the Appellant]
+
+## 5.2 ⛔⛔⛔ THREE THINGS THAT KILL THE TIMING POINT
+1. ⛔⛔⛔ **NO REASON FOR REFERRAL IS STATED. NONE.** ⭐ The body is one sentence of thanks and a
+   medication list. ⇒ **The document does not say what the psychiatric care is for.**
+2. ⛔⛔⛔ ***"Thank you for seeing"* — past and continuing. It is a CONTINUATION letter.** ⭐ Dr Amini
+   was **already** seeing him. ⇒ ⭐⭐⭐ **The care PREDATES the retraction email. A renewal on 16 May
+   cannot be a response to something on 15 May.**
+3. ⚠⚠ **The current medications shown are an ANTIBIOTIC and MELATONIN.** ⇒ ⚠ **Consistent with a
+   letter generated at a consultation about something else entirely.**
+
+## 5.3 ⛔⛔⛔ AND THE DANGER IS REAL, NOT THEORETICAL
+⭐ The same letter carries the past-history entries ***"26/10/2022 ADHD"*** and ***"26/10/2022
+Anxiety"***.
+⚠⚠ **In Australia adult ADHD stimulant prescribing requires a psychiatrist, and annual continuation
+letters of exactly this form are routine.**
+⇒ ⛔⛔⛔ **If Dr Amini is the ADHD prescriber, then leading with *"the referral came the day after the
+retraction email"* invites the answer: *"That is his ADHD psychiatrist, renewed routinely — and the
+past history on the same page records anxiety from 2022."*** ⭐⭐ **That would hand them the
+pre-existing-condition point AND damage his credibility on the whole medical set, in one exchange.**
+
+⇒ ⭐⭐⭐ **THE TIMING POINT FAILS EITHER WAY:**
+| If Dr Amini treats… | Then |
+|---|---|
+| ⭐ **ADHD** | ⛔ **the date is coincidence and the point is worse than useless** |
+| ⭐ **mood / anxiety** | ⛔ **the care already existed, so 16 May is a RENEWAL, not a response — and ongoing psychiatric care before onset is THEIR best material** |
+
+## 5.4 ⭐⭐ WHAT THE LETTER IS GOOD FOR — AND IT IS WHAT THE SCHEDULE ALREADY USES IT FOR
+⭐⭐⭐ **The schedule relies on it, correctly, for the MEDICATION point: *"lists the medications then
+current, none of which is an antidepressant or an anxiolytic."*** ⇒ ⭐⭐ **That is a sound, purely
+defensive use and it should stay exactly as it is.**
+⛔⛔ **The parenthetical *"the day after Ms Reese's email… asking the Appellant to retract"* is the
+risky half.** ⭐ **It is already served and cannot be unserved — but it must never be developed, led
+on, or put to a witness.** ⭐⭐ **Left where it is, it is a date in a chronology. Raised, it becomes a
+question he cannot answer.**
+
+## 5.5 ⭐⭐⭐ AND HE MUST ESTABLISH ONE FACT HE ALREADY KNOWS — TODAY
+⇒ ⭐⭐⭐ **WHAT DOES DR AMINI TREAT HIM FOR?** ⭐ He knows. ⛔⛔ **Nobody should plan any part of the
+medical case until that is written down.** ⭐⭐ **It also decides how the 2022 entries are handled
+(§3.1), which is the most exposed point in the set.**
+
+---
+
+# 6. ⭐⭐⭐ AND WHAT DOES ABOLISH THE RECONSTRUCTION ATTACK — IT IS THE GP ENTRIES, NOT THE REFERRAL
+⭐⭐⭐ **These state their reason on their face, to a GP, before any claim decision:**
+> ⭐⭐ **28 June 2024 (Dr Slawinski):** *"stress at work"* · *"upset by people not following rules"* ·
+> reason for visit **anxiety**
+> ⭐⭐⭐ **1 July 2024 (Dr Hawes):** *"work stress"* · *"been there 5 years"* · *"**they withhold pay at
+> times, no overtime- not processed, manipulate his roster- so he works lates then earlies**"* ·
+> *"causing anxiety"*
+
+⇒ ⭐⭐⭐ **THAT is the medical answer to any suggestion the account was reconstructed after the
+rejection, the dismissal or this appeal — and every element of it is now an ADMITTED FACT
+(185–203, 211–221).** ⭐⭐ **It needs no inference from a date, and there is nothing in it to
+cross-examine.**
+⇒ ⭐⭐⭐ **Build on 28 June and 1 July. Leave 16 May where it sits.**
