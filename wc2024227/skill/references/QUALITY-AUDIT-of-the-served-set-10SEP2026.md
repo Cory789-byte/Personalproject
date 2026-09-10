@@ -145,3 +145,55 @@ better than that.** ⚠ **A silk would have narrowed the request to one tab, wou
 *"no fatigue risk assessment was made"* absolutely, and would have made topic 9 carry more.**
 ⇒ ⭐⭐⭐ **The gap is small and none of it is fatal. The three defects are all curable by PREPARATION
 rather than paper, and preparation is the thing he is best at.**
+
+---
+
+# 8. ⭐⭐⭐⭐ HOW POWERFUL IS IT — A DIFFERENT QUESTION FROM HOW GOOD
+> ⭐ **Quality is whether it is well made. Power is what it DOES to them, and whether it works while
+> he sleeps.**
+
+## 8.1 ⭐⭐⭐ OPTIONS REMOVED — THREE OF THEIR FIVE WAYS TO WIN, REMOVED BY STRUCTURE NOT ARGUMENT
+| Their route | Status after 9 Sep |
+|---|---|
+| The facts are disputed | ⛔ **gone** — but by their own admissions, not by this set |
+| ⭐⭐⭐ **His medical case never gets off the ground** | ⛔ **REMOVED** — the schedule + the witness list naming both doctors under Part 4.11 |
+| ⭐⭐⭐ **The expert's history is unreliable (*Adams* [21])** | ⛔ **REMOVED** — Row 4's cross-map to admitted facts |
+| ⭐⭐ **s 32(5)(c) claims-administration stress (*Dodd* [186])** | ⛔ **REMOVED** — the *"Not relied upon for"* column |
+| **s 32(5)(a) reasonable management action** | ⚠ **OPEN — but only outside Stressor 3** |
+
+## 8.2 ⭐⭐⭐⭐ THE REAL MEASURE — FOUR BILATERAL TRAPS, EACH PAYING OUT ON **BOTH** BRANCHES
+| # | The instrument | If they act | If they do not |
+|---|---|---|---|
+| ⭐⭐ **1** | **the 18 Sep request** | the tabs are resolved | ⭐ **the non-party notice is justified and the costs correspondence exists** |
+| ⭐⭐⭐⭐ **2** | *"whom the Appellant **expects the Respondent to call**"* | ⭐ **he cross-examines the authors of admitted documents** | ⭐⭐⭐ ***Browne v Dunn* closes heading 3 and every reservation in it** |
+| ⭐⭐ **3** | **§5, the filing paragraph, with an 11 Sep date** | ⭐ **their posture is disclosed** | ⭐⭐ **the whole exchange lands on the Commission's file, where Dwyer reads it** |
+| ⭐⭐ **4** | **the *"Not relied upon for"* column** | ⭐ **the post-Oct 2024 attack is already disclaimed** | ⭐ **unfenced ground he does not need** |
+
+⇒ ⭐⭐⭐⭐ **THAT is what "powerful" means in litigation: structure with no losing branch.** ⭐⭐ **Not
+rhetoric — four separate positions that advance whether the Respondent moves or stands still.**
+
+## 8.3 ⚠ WHAT A HOSTILE READER DOES WITH IT
+| Document | Their handle |
+|---|---|
+| **Appellant's outline** | ⚠ **fact 219**, and ⚠ **topic 9's thinness.** ⭐ Real hits, survivable |
+| ⛔ **Request letter** | ⛔⛔ **Take the twelve free concessions, refuse Tab 31, look cooperative.** ⭐ **The one leak** |
+| ⭐ **Response letter** | ⭐⭐ **Nothing. It gives them no handle at all** |
+| **Lay outlines** | ⚠ Conaghan ¶12 (*what did you actually see?*); ¶13/¶7 softened by *"you weren't with him always"* |
+| **Medical schedule** | ⚠ Row 5 absent; no commissioned report |
+
+⇒ ⭐⭐ **It survives, with two bruises and one leak.**
+
+## 8.4 ⛔⛔ AND THE CEILING ON ITS POWER — SAY THIS PLAINLY
+⭐⭐⭐⭐ **Every one of the four traps constrains THEM. Not one of them proves that he was injured, or
+that work caused it.** ⇒ ⛔ **The set is powerful against their case and does nothing for his own
+affirmative case, which is still carried entirely by two doctors who have not been booked.**
+⇒ ⭐⭐⭐⭐ **IT IS A CAGE, NOT A WEAPON.** ⭐ **It is built so they cannot get out. It does not land the
+blow.** ⭐⭐⭐ **The blow is K8, answered in the words of s 32(1), by a treating doctor in the box.**
+⚠ ***Anderson*** **is the case where every exit was closed and the appellant still lost on the onus.**
+
+## 8.5 ⭐⭐ CALIBRATION
+| Compared with | Where this set sits |
+|---|---|
+| A typical **self-represented** s 32 appeal | ⭐⭐⭐⭐ **Far outside the range. They will not have seen one like it.** |
+| A **represented** appellant with a commissioned report | ⭐ **Level on documents. Behind on medical.** |
+| ⭐ **What decides it** | ⭐⭐⭐ **The medical, which is the one thing the set does not supply.** |
