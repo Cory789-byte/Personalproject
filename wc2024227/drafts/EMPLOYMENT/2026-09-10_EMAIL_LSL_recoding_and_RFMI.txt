@@ -47,13 +47,27 @@ I do not accept deferral to the following cycle. I ask that this be processed an
 hoc, and that I receive a response. When Payroll advised on 3 September that an ad hoc could not
 be processed before 9 September, it was nonetheless processed the following day.
 
-Why it matters, on Payroll's own figures. I commenced with Queensland Health on
-25 March 2019. Payroll's calculation of 4 September 2026 records that commencement date.
-Payroll has identified 189 days presently excluded: 24 days (18 May to 10 June 2022), 92 days
-(21 June to 20 September 2024) and 73 days (13 December 2024 to 23 February 2025). If the two
-2024 and 2024-25 periods are recoded, the first three months of each are recognised, and
-substantially all of those 165 days return. On that arithmetic the seven-year date has already
-passed.
+Why it matters, on Payroll's own figures. Payroll wrote on 4 September 2026 at 1:53 pm:
+
+    "The employee commenced with Queensland Health on 25 March 2019. Based on their
+    commencement date, their Long Service Leave eligibility date would ordinarily be
+    25 March 2026. However, the following periods of Leave Without Pay (LWOP) need to be
+    excluded from the calculation... After excluding these LWOP periods, the corrected Long
+    Service Leave eligibility date is 29 September 2026."
+
+The three excluded periods total 189 days: 24 days (18 May to 10 June 2022), 92 days (21 June
+to 20 September 2024) and 73 days (13 December 2024 to 23 February 2025). That is what moves
+the date from 25 March 2026 to 29 September 2026.
+
+Both of the periods Payroll has now identified as wrongly coded fall within three months: the
+2024 period is 92 days from 21 June, and the 2024-25 period is 73 days. On Payroll's own
+statement that "we can recognise the first three months of each period", both are recognised in
+full and 165 of the 189 days return. Only the 24 days in 2022 remain excluded, which places the
+eligibility date in April 2026.
+
+So on the uncorrected codes I become eligible in nineteen days, and on the corrected codes I
+have been eligible since April. Either way I have had no income since 17 July 2026, and the
+correction is what allows payment to be made now rather than at the end of the month.
 
 Nobody has said I did not complete the qualifying period. Nobody has said the entitlement was
 forfeited. What remains is an administrative step that Payroll has already specified.
