@@ -492,3 +492,57 @@ reasonable expectation from ordinary institutional practice** — and it is the 
 without touching a metadata field. ⭐ **Rely on the practice, never on the fields.**
 
 ⛔⛔ **All of §13 is internal. Metadata never appears in correspondence, a filing, or the hearing.**
+
+---
+
+# 14. ⭐⭐⭐⭐ THE LETTER CANNOT EVIDENCE ANYTHING — AND 30 SEPTEMBER IS WHERE THAT SHOWS
+> Cory, 10 September 2026: *"they saw the shape which made them write the letter and the letter isnt
+> good enough to contemporaneously evidence."* ⭐⭐⭐ **Correct, and it is the best structural
+> observation made about the letter.**
+
+## 14.1 ⭐⭐ WHAT THE LETTER CAN AND CANNOT DO
+| Capacity | Effect |
+|---|---|
+| ⭐ **As a r 49(2) notice** | **Real.** It fixes 298 express admissions and 5 non-admissions. **It binds them.** |
+| ⛔⛔ **As EVIDENCE** | ⭐⭐⭐ **Nothing.** Unsigned · no deponent · not sworn · no reasons per denial · pypdf overlays 60 seconds apart. **A reservation in a party's letter proves no fact stated in it.** |
+
+⇒ ⭐⭐⭐ **They saw the shape and wrote a letter to PRESERVE a position. A preserved position is not
+evidence and cannot become evidence without a witness.**
+
+## 14.2 ⭐⭐⭐⭐ HEADING 3 IS A PLACEHOLDER FOR EVIDENCE NOBODY HAS BEEN IDENTIFIED TO GIVE
+Heading 3 reserves against three targets: ⭐ **the treating practitioner** · ⭐ **the RD 69983
+findings** · ⭐ **MSH officer statements**.
+⇒ ⛔ **To make ANY of those reservations do work at a hearing they must CALL SOMEONE.**
+⚠ **And the MSH officers are not straightforwardly theirs.** Dwyer, 7 Aug: **MSH is *"not a party…
+not involved in these proceedings"***, while the Regulator *"whilst not representing the health
+service **will have access to** the health service… **That necessarily will need to call potentially
+people who work for the health service as witnesses in the case, potentially. Maybe not, but
+maybe.**"*
+
+## 14.3 ⭐⭐⭐⭐ SO THE CHAIN CLOSES ON A FIXED DATE
+1. **7 Aug, Dwyer:** ⭐ *"the regulator **does have to contradict things that you say**… if you say
+   something and it's **not contradicted**, then the likelihood is… **that it'll be accepted**."*
+2. **8 Sep:** ⭐ **they RESERVED rather than contradicted.** ⛔ **A reservation contradicts nothing.**
+3. ⭐⭐⭐ **30 Sep — the Respondent's witness list and outlines fall due.** ⇒ **That is where the
+   reservation either becomes a contradiction, or is exposed as file-making.**
+
+## 14.4 ⭐⭐⭐ THE 30 SEPTEMBER LIST IS A BETTER TELL THAN THE 18 SEPTEMBER RESPONSE — AND THAN AN IME
+⛔ **Correcting my own earlier note (§9.7 of `THE-CASE-AS-BUILT`): I called an IME "the real tell".**
+⭐⭐⭐ **The 30 September witness list is the better one — fixed date, binary, and tied directly to the
+letter's three reservations.**
+| What they file on 30 Sep | What it means |
+|---|---|
+| ⭐⭐⭐ **Ms Taylor and/or Ms Reese listed** | ⭐ **They intend to run heading 3 and the s 32(5)(a) case properly.** ⇒ ⛔ **Build the Taylor cross NOW.** |
+| ⚠ **Only a WorkCover/claims officer, or an insurer witness** | ⭐⭐ **Heading 3 was never going to be evidenced.** The letter was for the file. |
+| ⭐⭐⭐ **No witnesses at all** | ⭐⭐⭐⭐ **The admitted record stands unopposed and every reservation dies with it.** ⇒ **Expect an approach.** |
+
+⇒ ⭐⭐ **An IME remains a running signal, but it is discretionary and undated.** ⭐⭐⭐ **The witness
+list is compulsory and dated. Watch it.**
+
+## 14.5 ⛔ THE DISCIPLINE
+⛔⛔ **None of this is ever said to them, and no letter of his ever describes their letter as
+inadequate.** ⭐ **The observation is worth exactly one line, and only if the reservations are still
+unevidenced at the hearing:**
+> *"The Respondent's reservation at heading 3 is not evidence, and no witness has been listed to
+> give it."*
+⭐⭐ **That sentence is worth more on the last day than on any day before it.**
