@@ -74,3 +74,72 @@ proportionately less.**
 # 7. ⭐⭐ THE ONE PRACTICAL CONSEQUENCE
 ⭐⭐⭐ **Seek a 3-day listing, expect to finish in 2.5, and be ready to finish in 2.**
 ⭐ **A 3-day listing is easier to obtain than a 5-day one and materially easier to bring on.**
+
+---
+
+# 8. ⭐⭐⭐⭐ SIZING THE CASE TO THE CONTEST — HE IS RIGHT, WITH ONE MECHANICAL CORRECTION
+
+## 8.1 ⚠ THE CORRECTION — HE STILL GOES FIRST AT THE HEARING
+⭐ **He is the appellant and bears the onus. He opens, calls his case, and closes it BEFORE they
+call anyone.** ⇒ ⛔ **He cannot literally wait and see what they run.**
+⭐⭐⭐ **BUT the direction sequence gives him the information anyway: their outlines land
+30 SEPTEMBER. By the hearing he knows who they will call and what each will say — therefore what is
+ACTUALLY IN CONTEST.**
+⇒ ⭐⭐⭐⭐ **He can size the case to the CONTEST, not to the FILE. That is exactly right, and it is
+an advantage the sequential direction handed him.**
+⭐ **And anything arising from their case can ordinarily be met by tender in reply.**
+
+## 8.2 ⭐⭐⭐⭐ THE PRINCIPLE — TENDER WHAT PROVES THE ELEMENTS, NOT WHAT PROVES THE STORY
+**He must prove four things and no more:**
+| Element | Status |
+|---|---|
+| **a worker under s 11** | ⭐ **ADMITTED — 9C ¶¶45–46. Nothing to tender** |
+| **a psychiatric or psychological disorder** | **medical** |
+| **employment A SIGNIFICANT contributing factor** | **medical + the events** |
+| **s 32(5) does not exclude** | **the instruments + fact 260** |
+
+## 8.3 ⭐⭐⭐ THE CORE BUNDLE — ABOUT FOURTEEN DOCUMENTS, NOT THIRTY-NINE TABS
+**Injury and causation**
+1. GP record **16 Nov 2023** — the negative control
+2. Dr Slawinski **28 June 2024**
+3. Dr Hawes **1 July 2024** note and certificate
+4. **RD 69983 p 17** — Hawes's *"sole cause"*, and *"no pre-existing factor or condition"*
+5. Krishnaiah **24 Oct 2024** diagnosis + **13 Feb 2025** report
+
+**The exclusion**
+6. **RD 69983 — facts 258, 259, 260** *(their own finding of unreasonable management action)*
+7. **The Award** — the 10-hour provision
+8. **The 2020 8-hour agreement** *(9C ¶34 admits its terms)*
+9. **Fact 219** — the matrix rated *"11 which is moderate"*
+10. **The FRMS guideline**
+
+**The mechanism, if contested**
+11. **Stibbard, 18 July 2023** — access removed
+12. **Taylor, 15 April 2024** — after-hours on-call
+13. **MASPER 3 and 8 May; Integrated Respiratory 15 and 20 May**
+14. **The payroll thread, 8 April – 28 May 2024**
+
+## 8.4 ⭐⭐⭐ AND THE CASE IN A PARAGRAPH — HE IS RIGHT THAT IT FITS
+> *"I worked at a hospital switchboard. I was responsible for what went wrong across that system
+> while the means of correcting it — the directory, the on-call roster, my own roster and my pay —
+> were held by others. Between July 2023 and June 2024 those means failed repeatedly and were not
+> restored when I raised them. On 17 and 18 March 2024 I worked two shifts separated by seven hours,
+> which the Regulator's own review decision found amounted to unreasonable management action in
+> direct contradiction of the award. I had no psychological illness before June 2024. I was
+> certified unfit from 1 July 2024 and diagnosed with major depressive disorder with anxiety state
+> on 24 October 2024. My treating doctors will say the employment was a significant contributing
+> factor."*
+⇒ ⭐⭐ **That is the case. Everything else is support for one of its sentences.**
+
+## 8.5 ⛔⛔ THE CAUTION — THE ONUS IS HIS, AND UNDER-TENDERING IS A REAL RISK
+⚠⚠ **A short case is safe ONLY if every element is covered.** ⭐ **If he does not tender the
+instrument, he cannot prove the departure — and *Delaney*'s order of proof still runs: event →
+instrument → exposure → corroboration → what he reported → the opinion → THEN s 32(5).**
+⇒ ⭐⭐⭐ **"A paragraph" is the NARRATIVE. It is not the PROOF.**
+
+## 8.6 ⭐⭐⭐ WHAT TO DO NOW — BUILD TWO BUNDLES
+1. ⭐⭐ **CORE** — the ~14 above. **Indexed, paginated, ready to tender.**
+2. ⭐ **RESERVE** — everything else, indexed, not tendered unless their case makes it necessary.
+3. ⭐⭐⭐ **On 30 September, read their outlines and move items from RESERVE to CORE.** ⭐ **That is
+   the decision their material triggers, and it is the whole payoff of having served first.**
+4. ⛔ **Never tender to "complete the picture". Tender to prove an element.**
