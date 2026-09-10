@@ -131,3 +131,50 @@ commits the Regulator, in writing, to treating this as a production task within 
 ## 6.4 ⭐⭐ AND ONE SMALL CONFIRMATION OF THE BEHAVIOUR READING
 ⭐ **No one else was copied — not Appeals@oir.qld.gov.au, not counsel.** ⇒ ⭐⭐ **An officer-level
 administrative reply requiring no authority, which is why it could be written in 26 hours.**
+
+---
+
+# 7. ⛔⛔ CORRECTION TO §6.3(B) — SHE KNOWS WHAT WAS ASKED. THE FRAMING IS A CHOICE, NOT A GAP.
+
+⛔ **I inferred from her describing the letter as *"asking the Regulator to produce documentation"*
+that she had not read it closely enough to see exit (b). WITHDRAWN.**
+
+## 7.1 ⭐⭐⭐ SHE CANNOT NOT KNOW WHAT EXIT (b) IS
+1. ⭐⭐⭐ **She operated rule 49 in this matter two days earlier.** ⭐ **The 8 September Form 25 response
+   IS a rule 49 answer** — fourteen non-admissions and twenty-five admissions of authenticity.
+   ⇒ ⭐⭐⭐ **Exit (b) is not an unfamiliar mechanism. It is "revisit the answer you gave on Monday."**
+2. ⭐⭐ **She is a Senior Appeals Officer who has herself served a Form 29** (to the Mind and Memory
+   Service, sealed 4 July 2025).
+3. ⭐ **The letter is two pages and the options are lettered (a) and (b), one sentence each.**
+4. ⭐⭐ ***"To review this request"* means she intends to review it — not that she does not know what is
+   in it.** ⛔ **A person can know exactly what is asked and still take time to decide.**
+
+⇒ ⭐⭐⭐ **The characterisation is HER FORMULATION, not a symptom of not having read it.**
+
+## 7.2 ⭐⭐⭐ AND THE FORMULATION IS WHAT MAKES THE EXTENSION COHERENT
+⭐⭐ **Exit (b) costs nothing, needs no third party, and could close thirteen of the fourteen from her
+own desk in an afternoon.** ⇒ ⛔⛔ **A letter described as offering that is very hard to answer with
+*"may I have another week"*.** ⇒ ⭐⭐⭐ **A letter recharacterised as *"produce documentation"* is easy
+to answer that way — because production genuinely does take time and does require MSH.**
+⇒ ⭐⭐ **Whether or not that was deliberate, it is the only framing under which the request for time
+follows.**
+
+⚠ **The fair counter, stated once:** a rule 49 admission binds the Regulator for the proceeding, and
+an officer might reasonably decline to make fourteen of them without checking.
+⛔⛔ **But she made fourteen rule 49 NON-admissions on 8 September without checking** — the 14-of-14
+correlation with a single column of his own schedule proves it. ⇒ ⭐⭐ **"I need time before binding
+the Regulator" sits awkwardly beside a dispute entered mechanically two days earlier.**
+
+## 7.3 ⭐⭐⭐ WHAT SURVIVES — AND IT IS STRONGER THAN WHAT I WITHDREW
+⭐⭐⭐ **The 8 September dispute was formed mechanically. On 10 September she neither stood on it nor
+unwound it — she asked for time, and the reason she gave describes only the expensive half of what
+was asked.** ⭐ **Whether she had read the letter closely is now beside the point.**
+
+## 7.4 ⭐⭐ THE PRACTICAL CONSEQUENCE FOR 25 SEPTEMBER
+⛔⛔ **Do not correct her framing.** ⭐⭐ **Her own words commit the Regulator, in writing, to treating
+this as a production task within its remit — which is worth more to him than exit (b) would be.**
+⇒ ⭐⭐⭐ **But plan on this: if she is running it as a production exercise, what arrives on
+25 September is most likely (i) Metro South's copies of some documents, or (ii) a statement that MSH
+has been asked — NOT a rule 49 admission.** ⭐⭐ **Expect the certification question to stay open past
+the 25th, and treat that as the base case rather than the bad case.**
+⇒ ⭐⭐⭐ **Which changes nothing, because he holds every document and can prove each of them himself.**
