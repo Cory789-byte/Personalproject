@@ -90,3 +90,63 @@ room, not more documents.**
 
 ⇒ ⭐⭐⭐ **All five are targeting instruments. They tell him where to aim. None of them is an argument,
 and each one costs more than it pays if spoken.**
+
+---
+
+# 6. ⛔⛔ CORRECTION TO §2.1 — THE 5 SEPTEMBER LETTER IS A SHIELD, NOT A LIABILITY
+
+⛔ **I flagged *"I can't provide preformed answers as you have asked"* as a cross-examination risk.
+WITHDRAWN. I had not read the letter it answers. Read, it is the opposite.**
+
+## 6.1 ⭐⭐⭐ WHAT HE ACTUALLY ASKED, 5 SEPTEMBER 2026, 10:49
+| ⭐ In the letter | ⭐⭐ Effect |
+|---|---|
+| ⭐⭐⭐ The three questions are **the Regulator's own**, from the **Notice of Non-Party Disclosure sealed 4 July 2025** — injury; arising out of or in the course of employment; **significant contributing factor** | ⭐⭐⭐ **He asked his doctor to answer the REGULATOR'S questions, not his** |
+| *"Please answer **from your own assessments, consultations, and records**."* | ⭐⭐ independence, in terms |
+| ⭐⭐⭐ *"My appeal pleads onset on or about 18 June 2024… **If your record puts onset elsewhere, please say so**."* | ⭐⭐⭐ **expressly invites contradiction of his own pleaded case** |
+| *"Any **pre-existing condition or vulnerability**"* | ⭐⭐ against interest |
+| ⭐⭐⭐ *"**Non-employment factors** in your 13 February 2025 report (**relationship breakdown, job loss, bereavement**) — and when each sits relative to onset"* | ⭐⭐⭐ **he put the causation attack to his own doctor himself** |
+| *"Nothing here asks you to comment on anyone else's opinion."* | ⭐ scope discipline |
+
+⇒ ⭐⭐⭐ **No one who reads that letter thinks he tried to lead the witness.** ⭐⭐ **The doctor's phrase
+is a reaction to the five-point BREAKDOWN reading as a form — not to any answer being supplied.**
+⇒ ⭐⭐⭐ **If the exchange ever surfaces, it helps him. Tender it rather than avoid it.**
+
+## 6.2 ⭐⭐⭐ AND HIS POINT IS THE STRONGER HALF — THE INSTITUTIONS ASKED IN THEIR WAY AND GOT NOTHING
+⭐⭐ **Two institutional requests are open on the same doctor:**
+1. ⭐ **The Regulator's NNPD, sealed 4 July 2025** — the three s 32 questions, put to the practice as a
+   non-party. ⭐⭐ **The Regulator has held that file since July 2025.**
+2. ⭐⭐⭐ **Metro South's RFMI MSH-INJ-5795, 31 July 2026** — ⛔⛔ **and on 10 September there is still no
+   written confirmation that any request was ever sent to him, what it contained, or when.**
+
+⭐⭐⭐ **The sequence on the RFMI:** 31 Jul request · **12 Aug** written consent given · ⭐⭐⭐ **24 Aug
+11:13 am he agreed to the sharing of medical information ON CONDITION he be given prior notice of
+what would be shared AND WHAT QUESTIONS WOULD BE ASKED** — acknowledged 12:19 pm · **Dr Krishnaiah
+contacted Logan Hospital and Queensland Health did not respond** · 28 Aug he told LBH HR · 4 Sep he
+wrote again · **10 Sep: nothing.**
+
+⇒ ⭐⭐⭐ **His own recorded condition was to SEE the questions, not to shape the answers. That sentence,
+sitting beside the doctor's, closes the point completely.**
+⇒ ⭐⭐⭐ **And the exclusion since June 2026 rests on Metro South not holding medical information —
+which they requested on 31 July, were consented to on 12 and 24 August, and then never sent. Six
+weeks, with the treating psychiatrist chasing THEM.** ⭐⭐ **That gap is theirs.**
+
+## 6.3 ⭐⭐⭐ THE CONSEQUENCE THAT CHANGES THE ASK — HE WILL NOT WRITE FOR ANYONE, SO STOP ASKING FOR WRITING
+⭐⭐⭐ **Dr Krishnaiah's objection is to DOING MEDICO-LEGAL WORK — to writing.** ⛔ **It is not an
+objection to knowing, and it is not a refusal to attend.**
+
+⇒ ⭐⭐⭐ **The medical case is therefore: (a) the existing report of 13 February 2025 — which already
+addresses relationship breakdown, job loss and bereavement; (b) the clinical records, which he has
+OFFERED free; and (c) ATTENDANCE.**
+⇒ ⭐⭐ **Guide §7.7 requires attendance in any event — a report alone cannot be considered. So the
+report he declined was never sufficient on its own.**
+
+⭐⭐⭐ **SO CHANGE THE ASK:**
+1. ⭐⭐⭐ **Ask for a DATE, not a document.** *"Would you be available to give evidence by video for a
+   defined window on [date]? No written report is sought."*
+2. ⭐⭐ **Take the records now.** They were offered on 5 September and have not been collected.
+3. ⭐⭐⭐ **If he will not commit to a date, an attendance notice under Guide Part 6 is the mechanism** —
+   and ⭐⭐ **it answers his own objection: he attends and answers, he does not write.** ⛔ **Frame it to
+   him that way, courteously, before it issues.**
+4. ⛔ **Do not send another five-point breakdown to any practitioner.** ⭐ **Availability and an
+   opinion. Nothing structured.**
