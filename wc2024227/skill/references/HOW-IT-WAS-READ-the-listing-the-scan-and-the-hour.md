@@ -557,3 +557,68 @@ the Regulator, and it was six weeks old when he asked for it.**
 than dollars, priced the actual fight against MSH, and never once put money at risk on the
 Appellant's side — and the narrowing he asked all three of them to go away and negotiate was
 already written on page one of the order nobody opened.**
+
+---
+
+# 13. ⭐⭐⭐⭐ THE COST FRAME WAS NOT HIS VIEW OF MSH'S RESPONSE — IT IS WHAT LET HIM AVOID FORMING ONE
+
+⚠ **Do not merge these.** ⭐⭐⭐ **The efficiency/cost register was aimed at THE DISPUTE, and it
+covered everyone in the room.** ⭐⭐⭐⭐ **He did also express a view on MSH's response — separately,
+in about ninety seconds, and only ONE of its three parts was favourable to MSH.**
+
+## 13.1 THE ONE FAVOURABLE PART — AND IT IS A PRINCIPLE, NOT A FINDING
+> [18:31] *"making an order for a third party to disclose documents is a step **sort of beyond what
+> normally happens in disclosure**. **It's quite an imposition** because the health service is not a
+> party to these proceedings."*
+
+⚠ **Read what it actually is: a general proposition about NON-PARTIES.** ⛔ **It is not an
+endorsement of a single ground MSH ran, and it names no item.** ⭐⭐ **And it is answered on the face
+of Draft Order v2, order 2 — *"no inbox review, reading or relevance-assessment of any email being
+required."***
+
+## 13.2 ⭐⭐⭐ THE POSTURE — CRITICISED
+> [30:36] *"**I see a very comprehensive objection. BUT** what the responsibility of the parties is,
+> when you have a disclosure dispute like this, is to **get working on whether they can resolve it
+> without my intervention**… I don't know whether that's happened or not, or whether it's just,
+> **this is what I want, no, you can't have it.** If that's where we're at, well, **you've got a bit
+> of work to do down there at the bar table.**"*
+
+⇒ ⭐⭐⭐ **The word is *"comprehensive"*, and the next word is *"But"*.** ⭐⭐⭐⭐ **The view expressed
+is that a comprehensive objection is not the same as compliance, and that filing one INSTEAD of
+conferring is the wrong posture.** ⛔ ***"This is what I want, no, you can't have it"* is his
+characterisation of a disclosure fight in which nobody has talked** — and *"down there at the bar
+table"* is where MSH and the Regulator were sitting.
+
+## 13.3 ⭐⭐⭐⭐ THE SUBSTANCE — HELD TO BE UNPROVEN
+> [30:16] *"I'm going to schedule this disclosure dispute for a hearing. And **the health service is
+> going to need to call evidence to talk to their objections.**"*
+
+⇒ ⭐⭐⭐⭐ **THE OBJECTION IS NOT SELF-PROVING.** ⭐⭐⭐ **Comprehensiveness on paper buys nothing: to
+resist on burden, MSH must put a witness in the box to explain what systems hold what, what searches
+are feasible, and what volume is involved — and that witness is cross-examinable, straight into the
+assertions in the Chief Executive's own letter.**
+
+## 13.4 ⛔⛔⛔ AND HERE IS THE GAP THAT MATTERS
+⛔⛔⛔ **HE NEVER ADJUDICATED A SINGLE GROUND OF THE OBJECTION.**
+| Ground MSH ran | Decided? |
+|---|---|
+| ⛔ expense/inconvenience — r 64E(4)(a) | ⛔ **No** |
+| ⛔ relevance — r 64E(4)(b) | ⛔ **No** |
+| ⛔ particularity | ⛔ **No** |
+| ⛔⛔⛔ **the non-existence answers (Items 1–2, 3(c), 4, 5, 7, 14, 20)** | ⛔⛔⛔ **NO VIEW EXPRESSED AT ALL, IN EITHER DIRECTION** |
+
+⇒ ⭐⭐⭐⭐ **THAT IS THE FUNCTION OF THE COST FRAME. Efficiency is a reason that requires nobody to be
+wrong — so it disposed of the dispute without anyone having to decide whether MSH's answers were
+true.**
+
+## 13.5 ⭐⭐⭐ THE RESOLVED POSITION
+1. ⛔ **The cost/systemic framing was NOT a view about MSH.** It was the instrument that made a view
+   unnecessary.
+2. ⭐⭐⭐ **The actual view of MSH's response was: comprehensive, procedurally premature, and
+   unproven.** ⭐⭐ **Two of those three are adverse to MSH, and the third is a generic principle.**
+3. ⭐⭐⭐⭐ **Nothing was decided against the Appellant on the merits of any item — because nothing
+   was decided at all.**
+4. ⭐⭐⭐ **And [30:16] is a STANDING cost on MSH in any fresh application: the moment it objects
+   again on burden, it must call a witness to prove the burden.** ⭐⭐ **Which is exactly why the one
+   remnant worth pressing is the one where burden cannot be run at all — fact 268, the MET
+   spreadsheet its own Chief Executive says IS AVAILABLE.**
