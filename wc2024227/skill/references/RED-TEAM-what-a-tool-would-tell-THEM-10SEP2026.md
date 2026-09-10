@@ -239,3 +239,61 @@ received.**
 ⇒ ⭐⭐⭐ **So M6 is not a tidy-up. It is the second most important item on the whole list, behind only
 the attendance itself. GET IT — from the practice, and from the Respondent under its own Form 29
 sealed 4 July 2025, which it has held for fourteen months.**
+
+---
+
+# 9. ⭐⭐⭐ THE BOTTOM LINE THEIR TOOL WOULD PUT TO THEM: SETTLE
+
+## 9.1 ⭐⭐ THE ARITHMETIC
+| To run it, they spend | To win, they must |
+|---|---|
+| a psychiatric **IME** | ⛔ beat a **treating** psychiatrist on **admitted** facts |
+| **counsel** for a 2–4 day hearing | ⛔⛔ displace **fact 260** — their own delegate's finding of unreasonable management action *"in direct contradiction to the award and the 8-hour agreement"* — against ***Stretton* [84]** |
+| **officer and executive time** (one letter already took two review cycles in the DDG's business unit) | ⛔⛔ persuade the Commission to reject **facts 261 and 262**, their own delegate's findings of injury and significant contribution |
+| **tender fights** on 14 tabs | ⛔⛔⛔ 13 of which have their contents ALREADY ADMITTED — ⭐ so the fight buys nothing and is run in front of a Commissioner who said *"whittle this list right down to next to nothing"* |
+| ⛔ **exposure to s 558(3) costs** | |
+
+⇒ ⭐⭐⭐ **And on the certification point specifically: the authenticity position is not an asset. It is
+a liability that must be abandoned or lost — and Tab 31, the only one that matters, is obtainable
+from the custodian on their own admitted fact 268.**
+
+## 9.2 ⭐⭐⭐ AND THE INSTITUTIONAL POINT THEIR TOOL WOULD PUT PLAINLY
+⚠⚠ **On appeal the Regulator is contending AGAINST ITS OWN REVIEWING OFFICER.** ⭐ Fact **226**,
+admitted: the SOFC ¶22(a) says the seven-hour break *"was a result of human error and not intentional
+or repeated"* — ⛔⛔ **arguing reasonableness against fact 260, which is their own delegate's finding
+that it was not.**
+⇒ ⭐⭐⭐ **A published decision recording that, after 298 admissions, is an institutional cost well
+beyond this file.** ⭐⭐ **Add the model-litigant expectation on a State respondent not to put a party
+to proof of what it knows to be true, and the recommendation is settlement.**
+
+## 9.3 ⭐⭐ WHY THEY MIGHT STILL NOT — AND IT IS NOT ANALYTICAL
+1. ⚠ **Reversing a pleaded position is an admission somebody made a decision.** The SOFC of
+   13 May 2026 is on the file.
+2. ⚠ **De novo gives them a respectable reason to say the Commission should decide it.**
+3. ⛔⛔⛔ **AND THE UNSTATED ONE: ATTRITION.** ⭐⭐⭐ **While the doctor is unsecured, waiting costs them
+   institutional money and costs him wages, health and time he does not have.** ⇒ ⭐⭐ **Any competent
+   analysis on their side scores delay as CHEAP FOR THEM AND EXPENSIVE FOR HIM.**
+
+## 9.4 ⭐⭐⭐ SO THE ANSWER TO "SHOULD I SETTLE, MOVE ON, NOT WASTE THE FUNDS"
+⭐⭐⭐ **The economics favour settlement — but they favour it for BOTH sides, and the side under real
+financial pressure is his.** ⇒ ⛔⛔ **So the answer is not "wait for them to be reasonable". It is
+COMPRESS THE TIMELINE.**
+
+**In order, and it is short:**
+1. ⭐⭐⭐ **Book the doctor.** ⭐ It removes their only hope and it is the only step that changes their
+   arithmetic.
+2. ⭐⭐ **Get Tab M6** — from the practice, and from the Respondent under its own Form 29 sealed
+   4 July 2025.
+3. ⭐⭐ **Tell them the attendance is confirmed.** ⭐ Factually, in one line, no argument.
+4. ⭐⭐⭐ **Then propose — and make it easy to say yes to.** ⛔ **Do not ask them to concede the SOFC was
+   wrong.** ⭐⭐⭐ **Offer the form of words that costs them nothing: that on the facts now admitted and
+   the medical evidence now available, the claim should be accepted.** ⇒ **A face-saving exit is worth
+   more to a public respondent than a discount.**
+5. ⭐ **Put a date on it**, and let 30 September do the rest.
+
+## 9.5 ⭐⭐ AND ON ASKING THE DOCTOR HIMSELF — IT COSTS HIM NOTHING
+⭐⭐⭐ **He is self-represented. He wrote to his treating psychiatrist, put the REGULATOR'S OWN three
+questions, asked him to answer from his own records, invited him to contradict the pleaded onset,
+and served the whole exchange at Tab M5.** ⇒ ⭐⭐⭐ **That is unimpeachable, and it is the ordinary
+conduct of a person without a lawyer.** ⛔ **There is nothing in it to attack, and their tool would
+not waste a line on it.**
