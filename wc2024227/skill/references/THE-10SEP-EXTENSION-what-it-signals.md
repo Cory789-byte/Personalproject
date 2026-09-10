@@ -83,3 +83,55 @@ position on the merits.** ⚠⚠ **An extension request is the single most ordin
 litigation, and over-reading it is the real risk here.**
 ⇒ ⭐⭐⭐ **The one safe conclusion: the request was correctly aimed, it is being taken seriously, and
 the answer will be shaped by what she finds on her own file. Nothing more.**
+
+---
+
+# 10. ⚠⚠ THE PRIOR — VERIFIED, AND IT QUALIFIES §8
+> Cory, 10 Sep 2026: she has used *"I'm in a hearing"* before to delay disclosures.
+
+## 10.1 ⭐⭐ WHAT THE RECORD CONFIRMS
+| Date | Event |
+|---|---|
+| **24 July 2026** | ⭐ He serves a **seven-item disclosure list** on Matheson |
+| **31 July / 1 Aug** | ⛔ **`working-notes.md`: "MATHESON SILENCE: the 24 July disclosure-list request is UNANSWERED"** |
+| **3 Aug 2026, 07:17** | ⭐ Matheson: *"**I apologise for the delay**… will have this and the NNPD copies to you **as soon as possible this week**"* |
+| **14 Aug 2026, 10:28** | ⭐ She delivers — amended Form 23 LOD + four sealed Form 29 NNPDs — **again apologising for the delay** |
+
+⇒ ⭐⭐⭐ **24 July → 14 August is 21 DAYS.** ⭐⭐ **And an express promise of *"as soon as possible
+this week"* on 3 August was met eleven days later.**
+⚠ **The STATED REASON on that occasion is not in the repository.** ⭐ **The delay is documented. The
+"in a hearing" wording is his recollection — if he holds that email, file it.**
+
+## 10.2 ⭐⭐⭐ WHAT IT CHANGES — AND WHAT IT DOES NOT
+⛔ **CHANGES: treat 25 September as soft.** ⭐ **On the one prior instance a "this week" promise
+slipped by eleven days. Plan for the answer to arrive late or not at all.**
+⭐⭐⭐ **DOES NOT CHANGE: she delivered.** ⭐ **In full — the amended LOD and four sealed NNPDs.**
+⇒ ⭐⭐ **The history is LATE BUT COMPLETE, not stonewalling. That materially supports §8: a
+substantive answer is still the likely outcome, just not necessarily on the day.**
+
+## 10.3 ⭐⭐⭐⭐ THE PROTECTION IS 30 SEPTEMBER, AND IT IS AN ORDER
+⭐⭐⭐ **25 September is a date HE proposed and she asked to move. She can let it pass.**
+⭐⭐⭐⭐ **30 September is direction 2 of the Further Directions Order (3). She cannot move that
+without applying to Commissioner Dwyer.**
+⇒ ⭐⭐⭐⭐ **So do not enforce 25 September. Let 30 September carry it.** ⭐⭐ **If the authenticity
+answer has not come by 30 September and their witness list has, the unanswered request sits beside
+a filed witness list — and that is a far better fact than a chased answer.**
+
+## 10.4 ⛔⛔ AND THE STANDING DISCIPLINE APPLIES — IT IS ALREADY IN THE FILE
+> `WILL-THEY-FOLD-assessment-28AUG2026.md`: ⛔ *"**And do not chase.** Not Matheson on the Form 24 —
+> silence there is the admission."*
+> `MONDAY_31AUG_PLAN.md`: ⛔ *"**DO NOT CHASE MATHESON. Silence is the admission**"*
+
+⇒ ⛔ **Add nothing to the reply of today.** ⭐⭐ **A "please note the previous delay" line would be
+the first ungracious act on his side of a file where restraint is the entire posture — and the
+24 July → 14 August sequence is already dated and documented. It does not need saying now. It needs
+saying once, later, and only if it matters.**
+⇒ ⭐⭐ **Where it matters is COSTS.** ⭐ **s 558(3) is discretionary. A documented 21-day delay on a
+July request, and a further slip after an agreed extension, is exactly the material that
+discretion runs on. Keep it filed. Do not spend it.**
+
+## 10.5 ⭐ WHAT TO DO
+1. ⭐ **Send the reply as drafted. Unconditional. No reference to the prior delay.**
+2. ⭐ **Diarise 25 September — and if it passes, do NOTHING.**
+3. ⭐⭐ **Diarise 30 September as the real date.**
+4. ⭐ **If he holds the earlier "in a hearing" email, file it to `documents/correspondence-2026/`.**
