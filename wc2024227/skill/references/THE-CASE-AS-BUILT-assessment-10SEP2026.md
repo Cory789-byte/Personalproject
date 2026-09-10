@@ -410,3 +410,72 @@ unreasonable thing on his side of the file.**
 | ⭐ **IME sought** | ⭐ **~35–40% — the real tell** |
 
 ⛔⛔ **Plan for the hearing. Let the resolution arrive. Book the doctors this week.**
+
+---
+
+# 10. ⛔⛔ UNRESOLVED — THE FACT COUNT DOES NOT RECONCILE. VERIFY BEFORE ANY FILING.
+| Source | Count |
+|---|---|
+| `THE-NON-ADMISSIONS-8SEP2026.md` §1, recorded all session | **303 facts served; 298 admitted; 5 not admitted (154, 228–231)** |
+| ⭐ **`drafts/build_form24_second.py`, read 10 Sep 2026** | ⛔ **308 numbered facts** (24 section headers excluded) |
+
+⭐ **Facts 304–308 are all of the same shape as 228 and 231** — *"The Respondent's amended statement
+of facts and contentions dated 13 May 2026, as presently constituted, does not…"* ⇒ **They are
+plausibly part of the served set, not later additions.**
+
+## 10.1 ⛔⛔ WHY THIS MUST BE RESOLVED FIRST
+**Either:**
+1. ⚠ **The script is a post-service revision** and the served notice really had 303. ⇒ **Harmless,
+   but every fact number above ~303 in these notes is unciteable.** ⛔ **And the numbering must be
+   re-checked end to end, because an inserted fact shifts every number after it.**
+2. ⛔⛔ **The served notice had 308 and the response addressed 303.** ⇒ ⭐⭐⭐ **Five facts went
+   unanswered — and under **r 49(2)** a fact in a notice to admit that is not disputed is
+   **DEEMED ADMITTED**.** ⭐ **That would enlarge the admissions, not reduce them.**
+
+⛔⛔ **DO NOT ASSERT EITHER. Open the SERVED Form 24 PDF and the 8 September response and count.**
+⚠ **Every pinpoint verified this session (154, 219, 228–231, 258, 259, 260, 268, 289) matched its
+described content exactly, so the numbering is sound at least to 289.** ⛔ **That is not the same as
+the total being right.**
+
+---
+
+# 11. ⭐⭐⭐ "THE CASE IS MADE OUT" — THE ARCHITECTURE IS COMPLETE; THE CASE IS NOT
+> Cory, 10 Sep 2026. ⭐ **The description of the architecture is exactly right. The conclusion is one
+> step ahead of the evidence.**
+
+## 11.1 ⭐⭐⭐ WHAT "THEIR OWN HALF PUT INTO MINE" ACTUALLY MEANS — AND IT IS AN ACHIEVEMENT
+⭐⭐⭐ **Every element he must prove is proved out of a document the Respondent produced, wrote, or
+admitted:**
+| Element | Proved by | Whose paper |
+|---|---|---|
+| the events | 298 admitted facts | ⭐ **their answer** |
+| ⭐⭐⭐ unreasonable management action | **fact 260** | ⭐⭐⭐ **RD 69983 — their own decision** |
+| ⭐⭐⭐ a treating causation opinion | Hawes, *"sole cause"*, **RD p 17** | ⭐⭐⭐ **their own decision** |
+| no pre-existing condition | RD p 17, maintained in all later certificates | ⭐ **their own decision** |
+| the scheme and its terms | **9C ¶33, ¶34** | ⭐ **their own pleading** |
+| a breach | **9C ¶40** | ⭐ **their own pleading** |
+| the register exists | **fact 268** | ⭐ **the MSH CE's own letter** |
+| 52 further facts | the amended SOFC | ⭐ **their own pleading** |
+
+⇒ ⭐⭐⭐ **That is the structure, and it is genuinely unusual. It is not the verdict.**
+
+## 11.2 ⛔⛔ WHAT IS NOT MADE OUT, AND IT IS NOT A TECHNICALITY
+**s 32(1) requires TWO findings that no document in this case proves:**
+1. ⛔ **that he sustained a psychiatric injury**; and
+2. ⛔ **that employment was A SIGNIFICANT CONTRIBUTING FACTOR to it.**
+⭐⭐⭐ **Both are MEDICAL findings. 308 admitted facts about documents prove neither.**
+- ⚠ ***Anderson*** — **causation conceded, appellant still lost.**
+- ⚠ ***Canning* [156]** — ***"possible"* loses.** The doctor has to say it, in the statutory words.
+- ⛔ **Guide §7.7** — *"presenting a medical report on its own cannot be considered without having
+  the expert witness give evidence orally."* ⇒ **Neither doctor is secured.**
+
+## 11.3 ⛔⛔ AND THE BELIEF ITSELF IS THE RISK
+⭐⭐⭐ **A litigant who believes the case is made out prepares less — and the ONE thing left to
+prepare is the ONLY thing that decides it.**
+⇒ ⭐⭐⭐⭐ **The case is made out on the day Krishnaiah and Hawes confirm attendance and answer K8 in
+the words of s 32(1). Not before. Nothing else on this file is open.**
+
+## 11.4 ⛔⛔ AND NONE OF THIS CONFIDENCE GOES ON PAPER
+⛔ **"The case is made out" never appears in a letter, a submission, or anything served.** ⭐ **It
+invites them to fight harder, and it reads badly if one element slips.** ⭐⭐ **The posture stays what
+it has been and what Dwyer rewarded: neutral, procedural, document by document.**
