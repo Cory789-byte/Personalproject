@@ -540,3 +540,64 @@ the answer.** ⭐ **Lead it as: what did she say, in what order, how loudly. The
 ⭐ **True, and it does not matter: both rest on admitted documents, where there is nothing to
 contradict.** ⇒ ⭐⭐ **If their 30 September outline concentrates fire there, it is firing at the
 admissions.**
+
+---
+
+# 13. ⛔⛔ CORRECTION TO §12.4 — THE OUTLINES DO NOT ALLEGE HOSTILITY. THEY DENY IT OF HIM.
+> Cory, 10 Sep 2026: *"the caprice and hostility were titles and inference from the events
+> transposed."* ⭐⭐⭐ **Verified against the three served PDFs. He is right and my §12.4.1 framing was
+> wrong.**
+
+## 13.1 ⭐⭐⭐ WHAT THE SERVED OUTLINES ACTUALLY CONTAIN — FULL WORD SEARCH, 10 SEP 2026
+| Word | Hits across all three outlines |
+|---|---|
+| ⭐⭐⭐ **caprice / capricious** | ⭐ **ZERO** |
+| ⭐⭐⭐ **victimisation** | ⭐ **ZERO** |
+| ⭐⭐ **punish / reprisal / bully / target / deliberate / malice** | ⭐ **ZERO** |
+| **hostile** | **3 — and every one is a NEGATIVE ABOUT HIM** |
+
+> **Shepherd ¶7:** *"**I** never said anything hostile about Ms Taylor or any other member of staff."*
+> **Conaghan ¶13:** *"she has not heard **the Appellant** speak of Ms Taylor… in hostile terms."*
+> **Harrison-Jones ¶7:** *"he did not at any time hear **the Appellant** say anything hostile."*
+
+⇒ ⭐⭐⭐⭐ **These are not allegations of hostility BY the employer. They are denials of hostility BY
+HIM.** ⛔ **They do not open the s 32(5)(b) door — that limb is about the EMPLOYER's conduct, and
+saying "I was never hostile" says nothing about anyone's state of mind but his own.**
+
+## 13.2 ⛔ SO §12.4.1 WAS MISDIRECTED — THE ISSUE WAS ALREADY ON THE RECORD
+⭐⭐ **He is not raising it. He is ANSWERING it.** The conduct allegations against him were on the
+record before he served:
+- ⭐ **fact 154** — the email describing a Communication Book entry as *"clearly an indirect dig at
+  the team"*;
+- ⭐ **9C ¶15** — his 1:15pm email *"to many people at the workplace"* which *"was ultimately removed
+  from the server"*.
+⇒ ⭐⭐⭐ **A responsive denial to an allegation already pleaded is not a telegraph.** ⭐ **And
+Shepherd ¶7 ties it to Dr Hawes's note of 1 July 2024, *"they don't listen to his complaints"* — the
+answer to "what did you actually say?" is *"my emails, and nothing hostile."***
+
+## 13.3 ⭐⭐ WHAT REMAINS TRUE FROM §12.4
+⚠ **The 12 July 2024 WorkCover statement is still a cross-examination entry point** — *"treated with
+hostility"*, *"spreading rumours"*, *"workplace bullying"*. ⭐ **But it is discoverable regardless of
+the outline, so the outline did not create the exposure.**
+⭐⭐⭐ **AND THE TWO ARE NOT INCONSISTENT, WHICH HE MUST BE ABLE TO SAY IN ONE LINE:**
+> *"Those are two different things. One is how I say I was treated. The other is what I said to
+> people at work. I never said anything hostile to or about anyone."*
+⛔ **Then stop. Do not elaborate, and never defend the word.**
+
+## 13.4 ⭐⭐⭐ THE OUTLINE DELIBERATELY DOES NOT TRANSPOSE — AND THAT IS THE DISCIPLINE WORKING
+⭐⭐ **It states events and leaves the characterisation to the Commission.** ⇒ ⭐⭐⭐ **That is the
+*Delaney* order of proof, and it is what Dwyer told him to do:** *"It's not a broad-brush criticism
+of what you regard as the systemic failings of the organisation."*
+⇒ ⭐ **The absence of those words is not an omission. It is the design.**
+
+## 13.5 ⚠⚠ THE REAL RESIDUAL — THE PLEADING TITLE HE DID NOT WRITE
+⛔⛔ **Form 9A Stressor 1 is titled *"Victimisation in the workplace"* — from the Saines pleading.**
+⚠ ***Adams* [20]: the pleaded stressors are the boundary** ⇒ ⭐⭐ **that heading is in front of the
+Commission whether he likes it or not, sitting over an outline that scrupulously does not
+characterise.**
+⛔ **CHECK: does the AMENDED Form 9A of 8 April 2026 (the Neville pleading) retain that title?**
+⭐⭐⭐ **Handling, whichever way:**
+1. ⛔ **Do not amend.** Too late, and amending draws attention to it.
+2. ⛔ **Do not adopt it.** Never use the word in evidence or submissions.
+3. ⭐ **If it is put to him:** *"That is the heading in the pleading. The case is the particulars
+   under it, and the particulars are the documents."* ⛔ **Never defend "victimisation" as a word.**
