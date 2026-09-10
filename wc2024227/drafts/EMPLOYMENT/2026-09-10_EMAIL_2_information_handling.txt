@@ -1,28 +1,30 @@
 To:   Jacqui Roberts, LBH HR; LBH Injury Management
 Cc:   MetroSouthCorro@health.qld.gov.au; Emily Petering (Together Queensland)
-Subject: Cory Shepherd (388372) - information handling: the authorities relied on, the disclosures to ART, QSuper and Solv, and the email of 13 August 2026
+Subject: Cory Shepherd (388372) - information handling: the authorities relied on, the disclosures to ART, QSuper and Solv, the email of 13 August 2026, and PID file 24-ESU-1130
 
 Dear Jacqui, Injury Management and HR,
 
 This email is separate from my email today on long service leave coding and Dr Krishnaiah. It
-deals only with how my personal and health information has been handled, and with the
-authorities Metro South Health has treated as giving it standing to do so. It does not ask
-anyone to decide the matters in that other email, and nothing here should delay them.
+deals only with how my personal, health and public interest disclosure information has been
+handled, and with the authorities Metro South Health has treated as giving it standing to do so.
+It does not ask anyone to decide the matters in that other email, and nothing here should delay
+them.
 
 I wrote to the Chief Executive on 3 August 2026 about conflict of interest and information
 handling. Metro South Executive Services acknowledged that letter the same day. The concerns
-have not been answered in substance. What follows is not a first event.
+have not been answered in substance. What follows is not a first event. It is a further
+circulation after that letter was already on the Chief Executive's file.
 
-I ask for written confirmation of the matters in part D by Friday 18 September 2026.
+I ask for written confirmation of the matters in part E by Friday 18 September 2026.
 
-For a reader coming to this without the history: I am an Administration Officer at Logan
-Hospital Switchboard, employee number 388372. I have been absent through a psychological injury
-sustained in June 2024, and since 3 July 2026 I have been certified fit for duties with
-restrictions and have not been provided work.
+For a reader coming to this without the history: I am an Administration Officer at Logan Hospital
+Switchboard, employee number 388372. I have been absent through a psychological injury sustained
+in June 2024, and since 3 July 2026 I have been certified fit for duties with restrictions and
+have not been provided work.
 
 A. The authorities relied on do not reach what has been done
 
-There are three separate instruments. They are not one open licence.
+There are three different instruments. They are not one open licence.
 
 1. The QSuper income protection application declaration
 
@@ -54,11 +56,46 @@ information with my treating psychiatrist. I required prior notice of what would
 what questions would be asked. You acknowledged that email at 12:19 pm.
 
 Those authorities were for contact with Dr Krishnaiah about the RFMI. They did not exist on
-13 July. They cannot be applied retrospectively. They do not authorise contact with Australian
+13 July. They cannot be applied backwards. They do not authorise contact with Australian
 Retirement Trust, Solv or a group HR list.
 
-To the extent any instrument is still being treated as current authority for any use beyond its
-original purpose, that implied reliance is withdrawn.
+3. My public interest disclosure - file 24-ESU-1130
+
+There is no authority from me that permits Injury Management or LBH HR to circulate my public
+interest disclosure, the determination, or the outcome as operational material. Section 65 of the
+Public Interest Disclosure Act 2010 makes that information confidential by default. The
+exceptions are narrow. A group HR email is not one of them.
+
+The disclosure is file 24-ESU-1130. It was made in May 2024. I raised it independently with the
+director. That was the proper place for it.
+
+The context was patient safety: the database Switchboard uses to hold contact details for
+medical clinicians. The after-hours on-call function, notified on 15 April 2024, was left
+unexplained for more than a month. On 3 May 2024 and 8 May 2024 MASPER listed switchboard
+failures in that period, including a MET call that could not locate VHUB and calls going to the
+wrong medical teams.
+
+That safety-related context is established. It is an agreed fact in a proceeding, admitted on
+8 September 2026. I do not argue that case here. I record it only so that the context of the
+disclosure is not treated as a personal issue about me.
+
+That context was shared and distributed by HR, including Ms Harrison, in a group. It was then
+discussed with the manager of the department. What followed did not address the failings as
+failings of the department. The email from the department manager of 17 May 2024 at 9:30 am is
+what that discussion became.
+
+The same turn was made again in 2026. On 13 July 2026 at 4:20 pm Ms Harrison emailed Australian
+Retirement Trust and Solv and attached my Employee Capability Checklist. On 15 July the same
+officers were still copying the fund. On 13 August 2026 at 4:42 pm a group email went to LBH HR
+Team 1. It was recalled at 4:45 pm. There has been no written withdrawal. I had already written
+to the Chief Executive about that handling on 3 August 2026.
+
+I have not added anyone to Metro South Health's distribution list. Anyone who holds the
+disclosure from an Injury Management or LBH HR email holds it from Metro South Health, not from
+me.
+
+To the extent any of those instruments is still being treated as current authority for any use
+beyond its original purpose, that implied reliance is withdrawn.
 
 B. I had already advised the fund. Payroll already reports income. Any overpayment is not a
 Queensland Health matter
@@ -72,32 +109,35 @@ CLM-317073 throughout 2026:
 - 28 May 2026 - QSuper Resolutions issued the complaint outcome, recording Mr Zappia as claims
   manager and that benefits had stopped. I provided that letter to you on 24 August 2026.
 - 23 June 2026 - further claim correspondence from QSuper on CLM-317073.
-- 13 July 2026, 3:53 pm - I told Injury Management the claim was not an active open paying
-  claim. That was before Ms Harrison emailed Mr Zappia.
-- 13 July 2026, 4:56 pm - I wrote to Injury Management, copied Mr Zappia, and asked what had
-  been given to the fund, on what dates, and on what authority.
+- 13 July 2026, 3:53 pm - I told Injury Management the claim was not an active open paying claim.
+  That was before Ms Harrison emailed Mr Zappia.
+- 13 July 2026, 4:56 pm - I wrote to Injury Management, copied Mr Zappia, and asked what had been
+  given to the fund, on what dates, and on what authority.
 - 28 July, 29 July, 31 July and 12 August 2026 - I wrote again to Mr Zappia. On 31 July I marked
   a forward "FYI for the file only - No ART action requested."
 - 4 August 2026 - Mr Zappia confirmed that ART's review of an overpayment was not complete.
 
-That overpayment is a matter between me and the fund. Queensland Health is not a party to that
-reconciliation. Payroll's only role is the ordinary SuperStream reporting of contributions when
-they are deducted from pay.
+That overpayment is a matter between me and the fund. It arises from the interaction of my
+voluntary member contributions and any repayments on the income protection file. Queensland
+Health is not a party to that reconciliation. Payroll's only role is the ordinary SuperStream
+reporting of those voluntary contributions when they are deducted from pay. That function does
+not give Injury Management standing to circulate my Employee Capability Checklist, to join the
+overpayment review, or to treat the review as a reason to withhold wages.
 
-Payroll already notifies the fund of income in the ordinary course. Each paid fortnight,
-Employer Direct reports employer contributions, standard member contributions and any voluntary
+Payroll already notifies the fund of income in the ordinary course. Each paid fortnight, Employer
+Direct reports employer contributions, standard member contributions and any voluntary
 contributions I have arranged, and from 1 July 2026 Single Touch Payroll also reports qualifying
-earnings. That reporting has occurred for every date on which I have been paid wages by Metro
-South Health. It does not involve the Employee Capability Checklist.
+earnings. That reporting has occurred for every date on which Metro South Health has paid me
+wages. It does not involve the Employee Capability Checklist.
 
 If I am paid, the next contribution file shows it. If I am not paid, the file shows nothing.
 There is then no income for Injury Management to advise the fund about.
 
-Against that background - a direct member-to-fund channel open since April 2026, an overpayment
-review that does not involve the Health Service, ordinary payroll reporting of every
-contribution, and an earlier circulation already raised with the Chief Executive - I do not
-understand what authority remained for Injury Management to attach my Employee Capability
-Checklist to an email to Australian Retirement Trust and Solv.
+Against that background - a live member-to-fund channel open since April 2026, an overpayment
+that does not involve the Health Service, ordinary payroll reporting of every contribution, and
+an earlier circulation already raised with the Chief Executive - Injury Management had no
+remaining authority to attach my Employee Capability Checklist to an email to Australian
+Retirement Trust and Solv.
 
 C. Sequence
 
@@ -105,16 +145,16 @@ C. Sequence
 time, a prompt Request for Medical Information, and interim duties within the 3 July Employee
 Capability Checklist.
 
-13 July 2026, 4:20 pm - Ms Harrison emailed Mr Zappia, copied notes@solv.com.au and me,
-attached the Employee Capability Checklist, and recorded that Metro South Health could not
-facilitate my return.
+13 July 2026, 4:20 pm - Ms Harrison emailed Mr Zappia, copied notes@solv.com.au and me, attached
+the Employee Capability Checklist, and recorded that Metro South Health could not facilitate my
+return.
 
 13 July 2026, 4:56 pm - I asked for the disclosure particulars, still copying Mr Zappia.
 
 15 July 2026 - Injury Management answered, still copying Mr Zappia and Solv, that the 13 July
 email was what had been supplied; that conversations had treated me as holding a current claim;
-and that because of that claim Metro South Health was not responsible for my pay. Pay and
-interim duties were refused.
+and that because of that claim Metro South Health was not responsible for my pay. Pay and interim
+duties were refused.
 
 13 August 2026, 4:42 pm - an email from the LBH Injury Management mailbox, signed in your name,
 was sent to me and copied to Emily Petering and LBH HR Team 1. It stated that I had a current
@@ -122,17 +162,28 @@ open QSuper claim and that Metro South Health may need to advise QSuper of any i
 It attached a screenshot of leave balances.
 
 13 August 2026, 4:45 pm - the same mailbox issued a recall. A recall is not a correction. The
-statement was already on a group list. I still have the original, and I have received no written
+statement was already on a group list. I still have the original. I have not received a written
 withdrawal.
 
 18 August 2026 - I again recorded that I have received no income protection payments since
-31 May 2026, and that superannuation contributions continue to be reported through payroll in
-the ordinary course.
+31 May 2026, and that superannuation contributions continue to be reported through payroll in the
+ordinary course.
 
 24 August 2026, 11:13 am - I sent you the QSuper letter and the limited agreement for the
 psychiatrist. You acknowledged receipt at 12:19 pm.
 
-D. What I ask LBH HR and Injury Management to confirm in writing by Friday 18 September 2026
+D. Cost of the handling
+
+The first effect of that material being shared in a group was on my working relationship at
+Switchboard. What has followed from that, over more than a year, has been the effect on my health
+and on my life, and the loss of income since 13 July 2026.
+
+I cannot put a reliable figure on that in this letter. I do not allege a sum here. I do not
+attach invoices and I do not ask LBH HR to assess a claim. I record the order of it so that it is
+not treated as one missed pay. What this email asks is that the handling stop, and that the
+recipient lists and the authorities be stated in writing.
+
+E. What I ask LBH HR and Injury Management to confirm in writing by Friday 18 September 2026
 
 (a) every person and system to whom the 13 July 2026 email to the fund, the attached Employee
     Capability Checklist, the 15 July 2026 reply, and the 13 August 2026 4:42 pm email were sent
@@ -146,22 +197,24 @@ D. What I ask LBH HR and Injury Management to confirm in writing by Friday 18 Se
 
 (d) that no further report of my income or health information will be made to Australian
     Retirement Trust, QSuper or Solv unless I am first told what will be sent, to whom and on
-    what authority;
+    what authority. Payroll SuperStream already reports contributions when I am paid, and any
+    overpayment reconciliation is between me and the fund;
 
 (e) that the statement of 13 August 2026 at 4:42 pm is withdrawn in writing to every person who
-    received it; and
+    received it;
 
-(f) that any further handling of my health and income protection information will be confined to
-    officers with a demonstrated need to know, and will not be copied to group inboxes, the
-    fund, Solv or other third parties without prior written notice to me.
+(f) every person and system to whom Injury Management or LBH HR has sent my public interest
+    disclosure, file 24-ESU-1130, the determination or outcome, or any summary of them, and the
+    authority for each sending, including any sending before 13 July 2026 and including the
+    handling that sat with the email of 17 May 2024; and
 
-I am not asking, in this email, for a decision on long service leave or the SNP forms. Those are
-in the separate email.
+(g) that any further handling of my health, income protection and public interest disclosure
+    information will be confined to officers with a demonstrated need to know, and will not be
+    copied to group inboxes, the fund, Solv or other third parties without prior written notice
+    to me.
 
-This is an ordinary enquiry about the handling of my own information. It is not made under any
-other process, and I am not asking for it to be treated as anything other than a request for
-information. It is copied to Metro South correspondence so that it is on the record, and I am
-content for it to be answered at the operational level.
+I am not asking, in this email, for a decision on long service leave or the SNP forms. Those
+matters are in the separate email.
 
 Ms Petering at Together Queensland is copied so that the union has the same request. Please do
 not copy Australian Retirement Trust, QSuper or Solv on any reply.
