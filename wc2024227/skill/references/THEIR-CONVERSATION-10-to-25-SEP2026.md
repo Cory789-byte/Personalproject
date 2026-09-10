@@ -246,3 +246,56 @@ one, and it cost him nothing to grant.**
    folded in (`THE-OUTLINE-GAP…` §4).
 2. ⭐⭐⭐ **The one-document non-party notice for Tab 31**, drawn on **fact 268**, ready to issue.
 ⇒ ⛔ **Nothing is drafted after the 25th. Whichever way it goes, no day is lost.**
+
+---
+
+# 11. ⭐⭐⭐ THE POINT UNDERNEATH ALL OF IT — SHE WAS AT THE MENTION, AND THE MENTION WAS ABOUT THIS
+
+## 11.1 ⭐⭐⭐ WHAT SHE ACCEPTED, ON THE RECORD, ON 7 AUGUST 2026
+⭐ **The mention was about documents from end to end** — narrowing, *"you're floundering around a
+bit"*, *"fewer documents means simpler case"*, *"whittle this list right down to next to nothing if
+not nothing"*.
+⭐⭐ **And Dwyer set the ROUTE**: for a document held by Metro South Health, **the Regulator makes the
+inquiries and produces it; non-party disclosure follows only if the Regulator does not.**
+⭐⭐ **He then PARKED the Form 29** — *"I'd like to park the Form 29 for a little bit longer"* — to be
+revived if something was still needed after the prescribed step.
+⭐⭐⭐ **And he put the role to her directly: *"Have I misrepresented your role… or placed a burden on
+you that you're not prepared to accept?"* — and the answer was *"No."***
+> ⚠ **Timestamps are machine-derived; confirm against the certified transcript before any external
+> use.**
+
+⇒ ⭐⭐⭐ **She accepted the conduit role in front of the Commissioner. Metro South was made the
+spectator. That is the frame she is answering inside on 25 September.**
+
+## 11.2 ⭐⭐⭐ SO THE 25TH IS NOT AN ADMINISTRATIVE DATE
+⭐⭐⭐ **It is the date on which she must either perform the role she accepted, or decline it — five
+days before her own material is due.** ⇒ ⭐⭐ **And she knows a refusal returns the question to Dwyer,
+on the exact issue he spent the whole mention on, by the route he himself prescribed.**
+⇒ ⭐⭐ **That does not make the extension request sinister. It makes it the cheapest way to defer the
+moment of decision, by an officer who genuinely has a hearing that week.**
+
+## 11.3 ⛔⛔ BUT THE PRESSURE IS NARROWER THAN IT FEELS — AND THAT IS THE USEFUL PART
+⛔⛔⛔ **A refusal across thirteen tabs costs her very little.** ⭐ Their contents are already admitted;
+Dwyer dislikes document fights; and a thirteen-tab revival is precisely **the list he told him to
+whittle down**. ⇒ ⛔ **Taking that back to him is the fight he warned against, and it lands on
+everyone.**
+
+⭐⭐⭐ **TAB 31 IS DIFFERENT, AND IT IS THE ONLY ONE THAT IS:**
+| | |
+|---|---|
+| ⭐⭐⭐ **Metro South's Chief Executive told COMMISSIONER DWYER, in writing**, that *"a spreadsheet of recorded MET calls is available for the period 17-18 March 2024"* | letter of 5 June 2026, K-LM26/729 |
+| ⭐⭐⭐ **The Regulator has ADMITTED she said it** | **fact 268** |
+| ⭐⭐ **Its contents are the ONLY ones they refused** | facts 228–231 |
+| ⭐⭐⭐ **And Dwyer said of exactly this shape of application:** *"looking at a single document, I can tell you very quickly whether it should be disclosed or shouldn't be disclosed"* | |
+
+⇒ ⭐⭐⭐ **A single-document revival, on a document the non-party has told the Commission it holds, by
+the route the Commission prescribed, is the narrowest and most decidable application on the file.**
+⇒ ⭐⭐⭐ **THAT is the consequence she is actually weighing. Not fourteen tabs. One.**
+
+## 11.4 ⭐⭐ AND HE SHOULD SAY NOTHING ABOUT ANY OF IT
+⭐⭐⭐ **The 9 September letter already does the work, and does it without a word of pressure:** it
+recites the Commissioner's indication neutrally and says *"**This letter is that step.**"*
+⇒ ⛔⛔⛔ **Nothing further about the mention, the parked Form 29, or what she accepted is ever put to
+her.** ⭐⭐ **Reciting what a Commissioner said is a record. Reminding a party what they agreed to in
+front of him is a threat, and it would forfeit the whole advantage.**
+⇒ ⭐⭐⭐ **The letter is finished. Let 25 September arrive.**
