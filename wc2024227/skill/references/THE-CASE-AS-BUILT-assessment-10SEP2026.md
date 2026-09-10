@@ -134,3 +134,90 @@ sufficient.**
 secured, and Row 5 is not received.** ⭐⭐⭐ **Everything else on this file is finished work.**
 
 **Range unchanged: 70–80%, centred ~75% — and both remaining variables are within his control.**
+
+---
+
+# 6. ⛔ CORRECTION — THERE ARE THREE STRESSORS, NOT A LIST (Cory, 10 Sep 2026)
+
+## 6.1 THE PLEADED STRUCTURE, VERIFIED
+| # | Stressor | Paragraphs |
+|---|---|---|
+| **1** | *"Victimisation in the workplace"* — sub-limbs **(a)–(g)** | ¶¶ 5–19 |
+| **2** | *"Failure to pay entitlements in full and in a timely matter"* | ¶¶ 20–32 |
+| **3** | *"Fatigue due to rostering"* | ¶¶ 33–43 |
+
+⛔ **§3.2 above was wrong.** It treated the seven-hour break, the pay loop and the pandemic leave as
+three separately exposed items each needing its own corroboration. **They are not three stressors.**
+The pandemic leave is **Stressor 1(d)**; the pay loop is **Stressor 2**; the seven-hour break is
+**Stressor 3**. ⭐ **Sub-particulars do not each need to survive — the stressor does.**
+
+## 6.2 ⭐⭐⭐ WHY THAT IS BETTER, NOT NEUTRAL
+- ⭐⭐⭐ ***Stretton* [84]** — *"There may be ONE significant aspect of the management action taken
+  which cannot be described as reasonable or reasonably taken or both. If that event was a
+  significant contributor… that is sufficient for the worker to succeed."* ⇒ **Three heads, and he
+  needs one.**
+- ⭐⭐⭐ ***Delaney*** — *"THIS WAS A CASE FOR A GLOBAL ASSESSMENT"*. ⇒ **The three aggregate; they are
+  not scored separately and averaged.**
+- ⭐⭐ ***Adams* [20]** — the pleaded stressors are the boundary. ⇒ **A three-head boundary with
+  seven sub-limbs under head 1 is a wide boundary, not a narrow one.**
+
+## 6.3 ⭐⭐ AND STRESSOR 3 HAS AN ADMITTED BREACH IN IT
+Form 9C ¶34: the **2020 agreement** — ⭐ *"the contents of this agreement provide the accurate
+terms"* — **admitted.** ¶40: a breach — ⭐⭐ **admitted**, qualified *"a result of human error and
+not intentional or repeated"*.
+⇒ ⭐⭐ **Intention is not an element. s 32(5)(a) is objective — was the action reasonable, and taken
+in a reasonable way.** ⭐ **"Human error" concedes the act.**
+⚠⚠ **But it is also their *Bowers* argument** (*Kerr* [306]: *"Reasonable schemes, reasonably
+implemented, can miscarry"*). ⛔ **Do not run ¶40 as though it decides the exclusion.** ⭐ **Run it
+with fact 260 and the instruments — the award's 10 hours, cl 6.2 consultation, the FRMS guideline —
+so what is admitted is not a miscarriage of a good scheme but a departure from a written standard.**
+
+---
+
+# 7. ⭐⭐⭐ THE *KERR* INVERSION — IT IS THE RESPONDENT'S POSITION THAT IS AT ODDS WITH THE FACTS
+> Cory, 10 Sep 2026. ⭐ **Correct, and it is a better point than I had it.**
+
+## 7.1 WHERE THEIR ANSWER IS NOT RECONCILABLE WITH THEIR OWN ANSWER
+| # | The admission | The refusal beside it |
+|---|---|---|
+| 1 | ⭐ **fact 268 admitted** — the register exists | ⛔ **228–231 not admitted** — what the register records |
+| 2 | ⭐ **105, 106, 107, 273 admitted** — the List omissions | ⛔ **154 not admitted** |
+| 3 | ⭐ **¶9** — *"the accurate date is 14 January 2024"*; ⭐ **¶11** — *"occurred over the period of 13 May to 15 May 2024"* | ⛔ **¶10** — *"does not admit this event occurred in April 2024 **or at all**"* |
+| 4 | ⭐ **RD 69983 contents admitted 18 Feb 2026**; ⭐ 52 facts quote their own amended SOFC | ⛔ **heading 3** reserves against the RD 69983 findings and the treating practitioner |
+| 5 | ⭐ **the 30-page Stressor 1(a) bundle served 12 Aug 2026; 68 particulars** | ⛔ **SOFC ¶11 re-makes** *"no particulars or details to respond to"* (13 May 2026) |
+
+⇒ ⭐⭐⭐ **Row 3 is the sharpest. They corrected two of his dates from the documents. On the third they
+declined to say whether the event happened at all.** ⭐ **The same records were available for all
+three.**
+
+## 7.2 ⛔ WHERE IT LANDS — AND WHERE IT DOES NOT
+⛔⛔ ***Kerr* [310] is a CREDIT finding about a WITNESS.** The Regulator is **not** a witness and has
+**no credit to lose**. ⛔ **Never run this as "the Respondent is not credible."**
+⭐⭐⭐ **It lands in three other places, all of them useful:**
+1. ⭐⭐⭐ **Weight.** ⭐ **The five non-admissions cannot be given weight against facts the Respondent
+   has itself admitted.** ⇒ *(the four chains — see `THE-NON-ADMISSIONS-8SEP2026.md` §17)*
+2. ⭐⭐ **What is left to try.** With 298 facts admitted, **the factual contest is over**; what
+   remains is characterisation. ⭐ **A contention is not evidence.**
+3. ⭐⭐ **Costs.** **s 558(3) WCRA** + **s 191, WCR Regulation 2025** — discretionary, scale-capped,
+   1.5× where inadequate. ⚠ *Firat (No 2)* fixes a six-day hearing with counsel at **$10,450.05**,
+   so the sum is modest. ⭐ **The point is the discretion, not the amount.**
+
+## 7.3 ⛔⛔ HOW IT IS SAID — THE ONLY SAFE FORM
+⛔ **Never:** dishonest · deliberate · pattern · systemic · course of conduct · motive of any kind.
+⭐⭐⭐ **Only this, and let Dwyer draw it:**
+> *"The Respondent's answer at ¶10 is not reconcilable with its answers at ¶¶9 and 11. The
+> Commission does not need to resolve that. Nothing in the appeal turns on the five facts not
+> admitted; each is established by facts the Respondent has admitted."*
+
+⭐⭐ **That is the whole submission. It is two sentences and it does not accuse anyone of anything.**
+
+## 7.4 ⭐⭐ THE NET EFFECT ON *KERR*
+***Kerr* failed because the appellant's account was *"so consistently at odds with the facts"* —
+*"firmly held, but subjective perception."***
+⇒ ⭐⭐⭐ **That failure mode requires a contest between an account and the documents. Here the
+Appellant's account and the documents are the same thing, because the Respondent admitted them.**
+⭐⭐ **The *Kerr* trap is not merely avoided — the only party whose position sits against the
+documents is the Respondent, and it has no witness to carry it.**
+
+**Range unchanged: 70–80%, centred ~75%. The three-stressor structure raises the floor, not the
+ceiling — because it takes only one to succeed.**
