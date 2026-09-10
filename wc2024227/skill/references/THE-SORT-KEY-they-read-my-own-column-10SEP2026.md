@@ -202,3 +202,54 @@ design.**
    with facts and a table, not an allegation.**
 3. ⛔⛔ **Until then, say nothing about motive.** ⭐ **The chronology, never the motive** — and here the
    chronology has not yet been given a chance to speak.
+
+---
+
+# 9. ⭐⭐⭐ THE NARROWER CLAIM TESTED — "AI ANSWERED THE ADMIT/DENY, DRIVEN BY A SCRIPT"
+
+> ⭐ **The right question, and it is answerable from the answers themselves.** ⛔ **It fails — the five
+> refusals are the thing that decides it.**
+
+## 9.1 ⭐⭐⭐ THE FIVE "NOT ADMITTED" ARE 154, 228, 229, 230 AND 231 — AND THAT SET IS NOT NOISE
+| Fact | ⭐ What it is | ⭐⭐ Why refusing it is a judgement |
+|---|---|---|
+| **228** | the 17 March 2024 Code Register entries **(Tab 31)** | Tab 31 is the **one tab whose authenticity they disputed AND whose contents they refused** |
+| **229** | the 18 March 2024 entries **(Tab 31)** | same document |
+| ⭐⭐⭐ **230** | *"Six of the entries recorded in that register for 18 March 2024 bear times between 6:00 and 14:00."* | ⭐⭐⭐ **NO TAB CITATION AT ALL.** It is arithmetic **derived from 229**. Refusing it requires **following the dependency**, not matching a reference |
+| **231** | the 19 March 2024 entry, *"CALLED VIA SWITRCHBOARD" [sic]* **(Tab 31)** | same document |
+| ⭐⭐ **154** | *"The Respondent's amended List of Documents dated 14 August 2026 **does not list the Communication Book**, nor any page or entry from it."* | ⭐⭐ a **true, checkable, negative fact about their own disclosure**. ⛔ **Admitting it concedes a disclosure gap.** Refusing it is a considered choice against the obvious answer |
+
+⇒ ⭐⭐⭐ **Fact 230 is the test and it settles it.** A row-by-row automated pass answers a bare
+arithmetic proposition with no document reference by **admitting it** — there is nothing in the row to
+object to. ⭐⭐⭐ **They refused it, because they understood it inherits from 229 and 229 rests on
+Tab 31.** ⇒ **That is comprehension of a dependency chain across rows, applied consistently.**
+⇒ ⭐⭐ **And fact 154 is the mirror: the automated answer is "admitted" — it is plainly true. The
+lawyer's answer is "not admitted".**
+
+## 9.2 ⭐⭐ AND THE PERFECT CORRELATION POINTS THE SAME WAY, NOT THE OTHER
+⛔ **A model asked to assess the authenticity of 39 documents produces NOISE — some yes, some no,
+some hedged.** ⭐⭐⭐ **It does not produce a result that maps onto one visible column 14 times out of
+14 with nothing left over.** ⇒ ⭐⭐ **Perfect correlation with a single field is the signature of a
+RULE being applied, and a person running down a column is the simplest thing that does that.**
+
+## 9.3 ⭐⭐⭐ FOUR RULES PRODUCE ALL 342 ANSWERS
+1. ⭐ **Admit any fact that accurately quotes a document we hold.** → 298
+2. ⭐ **Refuse anything resting on Tab 31**, the one document we cannot verify. → 228–231
+3. ⭐ **Refuse the fact that concedes a gap in our own disclosure.** → 154
+4. ⭐ **Dispute authenticity wherever his schedule says the copy came from his own records.** → the 14
+
+⇒ ⭐⭐⭐ **It looks mechanical because it IS mechanical — but rules 2 and 3 are legal judgements and
+rule 2 requires reading across rows. The script rendered the result. A person decided it.**
+
+## 9.4 ⛔⛔⛔ AND EVEN IF HE WERE RIGHT, IT WOULD BUY HIM NOTHING AND COST HIM EVERYTHING
+1. ⛔ **There is no rule against a party using a tool to prepare its response**, and none against a
+   script rendering it. ⇒ **No remedy attaches. There is nothing to apply for.**
+2. ⭐⭐⭐ **The response is signed and served by the Regulator. It binds them whatever produced it.**
+   Under **r 49 an admission is an admission**, "for this proceeding only", and **298 of them are his
+   asset.** ⇒ ⛔⛔⛔ **Litigating how they were produced can only put that asset in question. It is the
+   one thing capable of unravelling what he has won.**
+3. ⛔⛔⛔ **And it walks him back into Dwyer's own accusation** [09:02, 21:46]. ⇒ **The frame returns,
+   and it lands on both sides.**
+
+⇒ ⭐⭐⭐ **KEEP THE THOUGHT. NEVER SPEND IT.** ⭐ **The right posture is the opposite one, and it is
+free: whatever answered it, they are bound by it.**
