@@ -220,3 +220,80 @@ costs, and **r 64G(3) says so expressly** for non-party disclosure. ⭐ **It is 
 reasonableness and as notice.** ⚠ **If it is ever put back** — *"there is no costs jurisdiction"* —
 **do not argue it.** One line: *"I note that; the correspondence stands as a record of the steps
 taken."*
+
+---
+
+# 9. ⭐⭐⭐ THE DISPUTED FOURTEEN — WHAT THE SET ITSELF DISCLOSES (10 September 2026)
+
+> Question put: *"the documents she didn't want to certify — are they the tell?"*
+> ⭐⭐⭐ **Answer: yes, but not about her case. About her method. She did not sort by danger. She
+> sorted by filing cabinet.**
+
+## 9.1 THE MAPPING — EVERY TAB AGAINST THE SOURCE FILE IT WAS BUILT FROM
+Taken from `drafts/build_form24_annexureA.py` (the ITEMS table, which records the source PDF behind
+every tab in Annexure A).
+
+| Source of the copy | Tabs | Their position on authenticity |
+|---|---|---|
+| `disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf` | 1B, 2, 3, 4, 7, 8A | ✅ **all admitted** |
+| `disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf` | 8, 8C, 9, 9A, 9B, 10, 11, 13, 14 | ✅ **all admitted** |
+| `disclosure-2025-07/Disclosure_witness_conferencing_QldHealth_Payroll.pdf` | 12 | ✅ admitted |
+| MSH production, numbered Items (11, 13, 15) | 15, 16, 28, 29 | ✅ **all admitted** |
+| The Review Decision 69983 | 25 | ✅ admitted |
+| Their own 18 Feb 2026 Form 24 response | 26, 27 | ✅ admitted |
+| The Appellant's Stressor 1(a) bundle **served on Ms Matheson 11 Aug 2026** | 1A, 8B | ✅ **admitted** |
+| ⛔ **Anything else — a loose file** | **1, 5, 6, 17, 18, 19, 20, 21, 22, 23, 24, 30, 30A, 31** | ⛔ **all disputed** |
+
+⇒ ⭐⭐⭐ **The line is perfect and it is not forensic. Every tab whose copy sits inside a named,
+numbered document set that passed through her hands is admitted. Every tab that arrived as a loose
+file is disputed. Not one exception in either direction.**
+
+## 9.2 ⭐⭐⭐ THAT IS A CLERICAL RULE, AND IT WAS APPLIED WITHOUT READING
+1. ⭐⭐ **She matched containers, not contents.** Six tabs out of the Reese conferencing PDF: admitted.
+   Nine out of the FRMS PDF: admitted. Four numbered MSH Items: admitted. **Her own response:**
+   admitted. **His bundle that she was personally served with:** admitted.
+2. ⛔⛔ **The rule fails its own test at Tab 5.** Fact 103 records the source of Tabs 5, 9, 10, 13 and
+   14 as *"Respondent's disclosure from witness conferencing (C Taylor)"*. Tabs 9, 10, 13 and 14 sit
+   inside `Disclosure_from_witnesses_part_FRMS_content.pdf` — **admitted**. Tab 5 was rebuilt as a
+   standalone file — **disputed**. ⇒ ⭐⭐⭐ **Same source, same custodian, same conferencing session,
+   same disclosure. Only the filename differs.**
+3. ⛔ **And at Tab 20** — Metro South's letter of 5 June 2026 to Commissioner Dwyer, ref K-LM26/729,
+   signed by the Chief Executive, **served under the Rules and sitting on the Commission's own file.**
+   A loose file to her, so disputed.
+
+⇒ ⭐⭐⭐ **A rule that disputes a document produced by the party asserting the dispute, and a document
+on the Commission's file, is not a forensic position. It is an unread list.**
+
+## 9.3 ⚠ THE COMPETING READ — CONTENT — AND WHY IT DOES NOT SURVIVE
+⚠ **The disputed set does look content-skewed:** the role description (1), the hours spine (5, 6, 30,
+30A), the **post-injury roster consultation** (22, 23), the **2026 Hughes-approved movement forms**
+(17–19), and the Code Register (31). ⇒ On its face that reads as *the documents showing the employer
+changed the roster after he broke.*
+⛔ **But the confound is total.** Those are precisely the documents he obtained himself — from MSH,
+from his own inbox, from a screen capture — and the 2026 documents did not exist when she disclosed
+in July 2025. **Provenance explains all fourteen. Content explains a subset, and only where
+provenance already explains it.** ⇒ ⭐⭐ **Provenance is the operative rule. Do not build anything on
+the content read.**
+
+## 9.4 ⭐⭐⭐ SO WHAT THE SET ACTUALLY TELLS HIM — THREE THINGS
+1. ⭐⭐⭐ **There is no document in the fourteen that she has identified as fatal.** Had she found one,
+   the dispute would have been on **contents**, in the Form 24 — and it was not. **Thirteen of the
+   fourteen have their contents admitted** (§7). ⇒ **The authenticity list is where she did not look.**
+2. ⭐⭐⭐ **The place she did look is the Form 24 non-admissions and the three reserved categories in
+   the 8 September letter.** ⇒ ⭐ **That is where the real tell is** — see
+   `THE-NON-ADMISSIONS-8SEP2026.md`. **Not here.**
+3. ⭐⭐⭐ **The inverse is the stronger point: look at what she authenticated.** She admitted the
+   authenticity of **her own file** — the whole of the Review Decision at Tab 25, her own Form 24
+   response at Tabs 26–27, and every page of the July 2025 witness conferencing. ⇒ ⭐⭐⭐ **And her own
+   file is where fact 260 lives** — *"the rostering of these two shifts amounted to unreasonable
+   management action given that it was in direct contradiction to the award and the 8-hour
+   agreement."* **She authenticated the finding against her without a murmur, and disputed the copy of
+   an email she produced herself.**
+
+## 9.5 ⛔ HANDLING — UNCHANGED
+- ⛔ **Do not put §9 to her before 25 September.** The extension was granted unconditionally; let it run.
+- ⭐ **If tabs are still disputed on 25 September:** the proportionate response remains §7.1 — **narrow
+  to Tab 31**, note the rest once, move on.
+- ⭐⭐ **Hold §9.1 and §9.2 in reserve for tender at hearing, one line each, only if tender is
+  resisted.** ⛔ **Never as a characterisation of her conduct.** The table does the work; adding an
+  adjective to it takes work away.
