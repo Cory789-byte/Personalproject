@@ -314,3 +314,99 @@ decision.** ⇒ ⭐⭐⭐ **The case reduces to ONE open variable: causation, wh
 | ⚠ **Doctors not secured** | **~70%** *(the treating records alone, Guide §7.7 unmet)* |
 
 ⛔⛔ **Everything now turns on two video attendances and Row 5. Nothing else on this file is open.**
+
+---
+
+# 9. ⭐⭐⭐ CONCEDE, AUTHENTICATE, OR CONTINUE — THE THREE EXITS AND WHICH ARE OPEN
+> 10 September 2026, after the witness list, the outlines and the medical schedule were served
+> together on 9 September. ⛔ Internal.
+
+## 9.1 ⭐⭐⭐ THE MEDICAL SCHEDULE DID NOT CLOSE THE EXCLUSION — IT CLOSED THE *ESCAPE FROM* IT
+Before 9 September they held a real hope: ⭐ **that his medical case never got off the ground.**
+No commissioned report · Krishnaiah's report *"not for medico-legal use"* · **Guide §7.7** — a report
+alone cannot be considered. ⇒ **On that hope, s 32(5)(a) never had to be argued at all.**
+**The schedule took it:**
+| Row | What it showed them |
+|---|---|
+| ⭐⭐⭐⭐ **7** | **Hawes's "sole cause" statement is at p 17 of THEIR OWN decision, contents admitted 18 Feb 2026** |
+| ⭐⭐⭐⭐ **4** | the psychiatrist's history is **cross-mapped to admitted facts** ⇒ ⛔ **the *Adams* [21] attack — reject the history, the opinion falls — is unavailable** |
+| ⭐⭐ **M5** | **Krishnaiah has released the records** and identified the 13 Feb 2025 report as the relevant one |
+| ⭐⭐ **list** | both doctors named as **expert witnesses under Guide Part 4.11**, with **Part 6 attendance notices flagged** |
+
+⇒ ⭐⭐⭐ **The list is the sentence that costs them most. It tells them he knows the mechanism.**
+⭐⭐ **Their remaining hope is that he does not use it. That is a hope, not a defence.**
+
+## 9.2 ⭐⭐⭐ AUTHENTICATION HAS STOPPED BEING A REAL DECISION FOR THEM
+⭐ **Fact 260 is at Tab 25, and Tab 25's authenticity was never disputed.** ⇒ ⭐⭐⭐ **The single most
+valuable document in the case is outside the 14 disputed tabs.**
+⭐ **13 of the 14 have contents already admitted.** ⭐ **Tab 31 goes only to facts 228–231 — and
+Chain 4 already runs on fact 268** (*"a spreadsheet of recorded MET calls is available for the
+period 17-18 March 2024"*, the CE's own letter, **admitted**).
+⇒ ⭐⭐⭐ **Conceding the tabs now buys them nothing and costs them nothing. Refusing them costs him
+almost nothing.** ⛔⛔ **So a broad concession on 18 September is NOT a settlement signal any more.
+It has become housekeeping. Do not read it as capitulation.**
+⭐⭐ **What still carries information: Tab 21 (Forrest, 7 July 2026, the shift-swap sentence).
+Tab 31's refusal is expected and means nothing.**
+
+## 9.3 ⭐⭐⭐ SO WHAT IS ACTUALLY LEFT TO THEM AT A HEARING
+| Ground | Status |
+|---|---|
+| ⛔ the events | **closed** — 298 admitted |
+| ⛔ the history behind the reports | **closed** — Row 4 cross-mapping |
+| ⛔ s 32(5)(a) on Stressor 3 | ⭐⭐⭐ **closed by their own finding — fact 260** |
+| ⛔ pre-existing condition | **closed** — RD p 17, *"no pre-existing factor or condition"*, maintained in all later certificates |
+| ⛔ s 32(5)(c) claims administration | **closed** — the schedule's *"Not relied upon for"* column, and *Dodd* [186] |
+| ⚠ **the appellant's evidence of EFFECT** | ⭐ **open** — the *Kerr* surface, and the only one |
+| ⚠⚠ **non-work stressors in the clinical records** | ⭐⭐ **open, and it is their best remaining ground** |
+| ⚠ procedural — he fails to secure the doctors | **open, but it is a hope** |
+
+## 9.4 ⚠⚠ THE ONE GROUND I MUST NOT UNDERSTATE — THEY ALREADY HOLD THE CLINICAL RECORDS
+⭐ **NNPDs of 4 July 2025 were served on BOTH practices** — `NNPD_Regulator_to_MindAndMemory` and
+`NNPD_Regulator_to_OurMedicalAshmore`. ⇒ ⚠⚠ **They have the GP and psychiatrist files, including
+anything recording a non-work stressor.** ⛔ **Assume they have read all of it.**
+⭐⭐ **But it does not win for them, and this is why:** **s 32(1) is "A significant contributing
+factor"** · ***Stretton* [81]** — dominant cause irrelevant · ***Delaney*** — global assessment.
+⇒ ⭐⭐ **A competing cause reduces; it does not defeat.** ⚠ ⛔ **Rule 10 and the DFV discipline stand:
+hold, do not volunteer, take instructions if raised.**
+
+## 9.5 ⛔⛔ THE COUNTERWEIGHT THAT KEEPS THEM IN — AND IT IS REAL
+⛔ **The Regulator does not pay the claim. WorkCover does.** ⭐ **The Regulator defends the review
+decision.** ⇒ ⚠⚠ **Their own exposure is the costs order (order of *Firat (No 2)* — $10,450.05) and
+officer time, NOT the compensation tail.**
+⇒ ⛔⛔ **The "they will concede to save money" logic is weak here, and I should not lean on it.**
+⭐ **What moves an institution is not cost. It is a published decision that recites its own decision
+finding unreasonable management action beside its own answer that will not reconcile with itself.**
+
+## 9.6 ⭐⭐⭐ THE ANSWER
+⭐⭐⭐ **Yes — they now have a reason to resolve rather than authenticate or continue, and it is that
+all three exits closed in the same week:** the factual exit (their 298 admissions), the exclusion
+exit (**fact 260, their own finding**), and the medical exit (**the schedule and the witness list**).
+⛔ **But it will present as SETTLEMENT, not concession.** ⭐ **A regulator does not file a consent
+order allowing a s 550(4) appeal. It approaches, and the appeal is discontinued on terms.**
+⛔⛔ **And it will do the cheap thing first.** ⇒ ⭐ **Expect a substantive authenticity response by
+18 September conceding a good deal — because it now costs nothing — with no settlement signal in it.**
+
+## 9.7 ⭐⭐⭐ THE LEADING INDICATOR TO WATCH — AN IME
+⭐⭐ **The schedule leaves them with no expert and shows them their causation attack has to come from
+somewhere.** ⇒ **Revised from §N.5:**
+| Their move | Was | ⭐ **Now** |
+|---|---|---|
+| **Seek an independent medical examination** | ~25–30% | ⭐ **~35–40%** |
+| No IME by end September | ~70–75% | **~60–65%** |
+
+⇒ ⭐⭐⭐ **An IME request means THEY INTEND TO RUN. No IME by end September means they have decided
+not to contest causation properly — and that is the settlement tell, not the 18 September response.**
+⛔ **Do not resist an IME request. It is a running signal, and refusing it would be the first
+unreasonable thing on his side of the file.**
+
+## 9.8 ⭐⭐ NUMBERS, FINAL
+| | |
+|---|---|
+| Success at hearing, **doctors secured** | ⭐ **75–85%, centred ~80%** |
+| Success at hearing, **doctors not secured** | **~70%** |
+| ⭐ **Resolution before hearing** | ⭐⭐ **~70%** *(up from ~65% — the medical exit closing is what moved it)* |
+| Settlement approach **before 30 September** | **~25%** |
+| Substantive authenticity response by 18 Sep | **~80%**, ⛔ **carrying little information now** |
+| ⭐ **IME sought** | ⭐ **~35–40% — the real tell** |
+
+⛔⛔ **Plan for the hearing. Let the resolution arrive. Book the doctors this week.**
