@@ -98,3 +98,64 @@ down.**
 available answer is yes.**
 ⇒ ⭐⭐⭐ **The witness is not a source of evidence. The witness is a person being walked past the
 evidence in front of the Commissioner.**
+
+---
+
+# 10. ⭐⭐⭐⭐ WHAT THEY CAN ACTUALLY COME UP WITH — GIVEN THE ADMISSIONS, THE STATED USE, AND THE TENDER
+
+## 10.1 ⭐⭐⭐⭐ THEIR BEST CASE REQUIRES NO WITNESSES AT ALL
+⭐⭐⭐ **Take the admitted documents. Argue that each event was an ordinary administrative act; that
+mistakes occurred and were corrected; and that the whole is reasonable management action taken in a
+reasonable way.** ⭐⭐ **Three sentences of submission, from documents nobody disputes.**
+⇒ ⭐⭐⭐⭐ **Nobody to cross-examine. Nothing to test. Cheap, safe, and undamageable in the box.**
+⇒ ⭐⭐⭐ **THAT IS THE WALL, AND IT IS THEIR BEST PLAY.**
+⚠⚠ **What defeats it: FACT 260. Their own decision-maker already found one limb UNREASONABLE. A
+submission that everything was reasonable contradicts the decision under appeal, which is in
+evidence and admitted.**
+
+## 10.2 ⭐⭐⭐⭐ AND THE STRONGEST CONSTRUCT AVAILABLE TO THEM — NAME IT NOW
+> ⭐⭐⭐⭐ ***"All of these things happened. None of them was unreasonable. The Appellant perceived
+> them as directed at him. That perception is not compensable."***
+
+⭐⭐⭐ **A case built ENTIRELY from admitted facts, requiring NO witness, turning his own documents
+into the evidence of his perception.**
+⭐⭐ **And it is live on their own sealed document:** the NNPD of **27 April 2026** lists as a matter
+in issue *"**Mr Shepher[d]'s expectations or perception of reasonable management action being taken
+against him**"*.
+⛔⛔ **This is the s 32(5)(b) door. NEVER open it from his side. But be ready — the repo already
+flagged it is "more live in their framing than the 9C suggested."**
+
+## 10.3 ⭐⭐⭐⭐ HOW IT IS ANSWERED — AND THIS IS WHAT THE LAY WITNESSES ARE ACTUALLY FOR
+| Their proposition | The answer |
+|---|---|
+| *"He perceived it as directed at him"* | ⭐⭐⭐⭐ **fact 260 — their OWN decision found ACTUAL unreasonableness, not perceived** |
+| *"Only he saw a problem with the roster"* | ⭐⭐⭐⭐ **Conaghan ¶11 — a SECOND EMPLOYEE, not consulted and not balloted on ANY roster change before 30 June 2024** |
+| *"Only he saw a problem with the database"* | ⭐⭐⭐ **Harrison-Jones ¶4 — he RECEIVED the Stibbard email removing access** |
+| *"Only he thought the system was failing"* | ⭐⭐⭐⭐ **MASPER Registrar, 3 and 8 May; Integrated Respiratory Service, 15 and 20 May — THIRD-PARTY CLINICIANS reporting the system failing, in real time, not about him** |
+⇒ ⭐⭐⭐⭐ **CORROBORATION IS THE ANSWER TO THE PERCEPTION LIMB. That is what Conaghan and
+Harrison-Jones are for — not to prove the events, which are admitted, but to prove HE WAS NOT THE
+ONLY ONE WHO SAW IT.**
+
+## 10.4 ⚠ THE ONE PLACE THE TENDER GENUINELY LEAVES THEM SOMETHING
+⭐ **His response letter §2 divided the documents correctly:**
+- ⭐⭐ **SELF-EXECUTING** — a directive is issued by being sent; a roster is published; a claim is
+  recorded. ⇒ **The admission establishes the step. Safe.**
+- ⚠⚠ **INFERENTIAL** — e.g. *"under the payroll process only my manager could submit the AVAC."*
+  ⇒ ⭐ **The document proves the request was made. It does not prove the process required it.**
+⇒ ⭐⭐⭐ **That is their remaining foothold, and it is narrow. Where he needs a PROCESS proposition,
+he must prove the process — from the instrument, not from the email.**
+⛔ **Audit every inferential step in the outline before the hearing and find its instrument.**
+
+## 10.5 ⛔ WHAT THEY CANNOT COME UP WITH
+⛔ **A different set of events.** ⛔ **A denial of any document.** ⛔ **An account that contradicts an
+admitted fact without contradicting themselves.** ⛔ **Any answer to fact 260 that is not "it was a
+mistake."**
+
+## 10.6 ⭐⭐⭐ THE SHAPE OF THE HEARING THAT FOLLOWS
+⭐ **If they call nobody:** documents in, his evidence and his witnesses uncontradicted, their case
+is three sentences of submission against their own decision. ⇒ ⭐⭐⭐ **Best outcome for him, and
+*Browne v Dunn* closes heading 3 entirely.**
+⚠ **If they call Taylor and/or Reese:** the room is §§4–6 above, and the cross closes it in about a
+dozen questions. ⇒ ⭐⭐ **Also good — a live witness can be damaged; a submission cannot.**
+⇒ ⭐⭐⭐⭐ **Either branch is favourable. What decides the case is not what they come up with. It is
+whether K8 is answered in the words of s 32(1).**
