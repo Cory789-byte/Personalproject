@@ -341,3 +341,54 @@ internally — it is not established.**
   there: relevance and characterisation, the Communication Book, and the workload on 17–18 March.**
 - ⛔ **It did not go into the fourteen disputes.** ⇒ ⭐⭐ **Do not fight there. Fix it with a corrected
   description (§5), and keep Tab 31 as the only tab worth an application.**
+
+---
+
+# 12. ⭐⭐⭐ THE DECISIVE POINT — HE ALREADY HOLDS THEM. THIS IS NOT A PRODUCTION DISPUTE.
+
+## 12.1 ⭐⭐⭐ WHAT A REFUSAL ACTUALLY WITHHOLDS: NOTHING
+⛔ **They are not keeping a document from him. He has every one of them.** ⭐⭐ **Authenticity buys
+tender WITHOUT PROVING THE COPY. A refusal does not remove the document — it makes him prove it.**
+⇒ ⭐⭐⭐ **Only Tab 31 has an original elsewhere that he does not hold. For the other thirteen, the
+refusal costs him minutes in the witness box and the convenience of a bundle going in by consent.
+Nothing else.**
+
+## 12.2 ⭐⭐⭐ AND HE CAN PROVE ALMOST ALL OF THEM HIMSELF — HE IS THE RECIPIENT
+| Tab | ⭐ His relationship to it |
+|---|---|
+| **5** | *Email, Ms C Taylor **to the Appellant**, "Approved – Permanent Full Time FTE"* — ⭐⭐ **addressee** |
+| **21** | *Email, Ms L Forrest **to the Appellant*** — ⭐⭐ **addressee** |
+| **6, 30, 30A** | *Ms C Taylor **to Logan Switch and Switchboard staff*** — ⭐⭐ **recipient** |
+| **22, 23** | Consultation Paper and Outcome, **issued to the switchboard staff** — ⭐⭐ **recipient** |
+| **24** | *Mr H Moran to Ms Jeffrey, Ms Conaghan **and the Appellant*** — ⭐ **addressee** (already excluded) |
+| **17–19** | **Movement forms recording changes to HIS OWN hours** |
+| **1** | **The role description for HIS OWN position** |
+| **31** | ⭐ **his own screen capture** — he is its maker |
+
+⇒ ⭐⭐⭐ **A recipient proves an email he received:** *"I received this on that date from that address;
+this is a true copy of it as it appeared in my mailbox."* ⭐⭐ **That is ordinary, it needs nobody's
+admission, and it cannot be refused into non-existence.**
+
+## 12.3 ⭐⭐⭐ AND TAB 20 IS NOT EVEN THAT — IT IS THE COMMISSION'S OWN
+⭐⭐⭐ **Metro South's letter of 5 June 2026 to Commissioner Dwyer, ref K-LM26/729, signed by the Chief
+Executive, served under the Rules and FILED IN THIS PROCEEDING.**
+⭐⭐ **And his affidavit already swears it, at ¶49:**
+> *"That letter is **already before the Commission**, and I therefore do not annex it but refer to it
+> and rely upon it."*
+
+⇒ ⭐⭐⭐ **He does not need the Regulator to certify a document the COMMISSION HOLDS and that he has
+already sworn he relies on without annexing.**
+⇒ ⭐⭐ **If tender is ever resisted, one line, and no argument:** *"That letter was filed in this
+proceeding by Metro South Health on 5 June 2026 under reference K-LM26/729 and is on the Commission's
+file. I ask that the Commission have regard to it."*
+
+## 12.4 ⭐⭐⭐ SO THE REFUSAL IS AN INCONVENIENCE, NOT AN OBSTACLE — AND THAT SETTLES 25 SEPTEMBER
+1. ⭐⭐⭐ **Tab 20 — do nothing at all, ever.** It is on the file.
+2. ⭐⭐ **The twelve — he proves them himself from the box.** ⭐ Note once, move on. ⛔ **No application.**
+3. ⭐⭐⭐ **Tab 31 — the only one where the ORIGINAL matters**, and **fact 268** is the route to it.
+
+⇒ ⭐⭐⭐ **REFRAME THE 25 SEPTEMBER LETTER ACCORDINGLY. Its real purpose is to carry the amended outline
+¶3** (`THE-OUTLINE-GAP…` §4), **which must land before their 30 September witness decision.** ⭐⭐ **The
+corrected-description table rides along as a courtesy that saves hearing time — offered, not
+demanded.**
+⇒ ⛔⛔ **Nothing in it may read as needing an answer. He does not need one.**
