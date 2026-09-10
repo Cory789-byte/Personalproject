@@ -87,3 +87,93 @@ DECIDES THE APPEAL.**
   build the cross on the admissions.**
 - ⛔⛔ **An amended SOFC at any time** ⇒ ⭐⭐⭐ **the most dangerous single event on the calendar. Watch
   for it.**
+
+---
+
+# 6. ⭐⭐⭐ THE 9 SEPTEMBER SERVICE — WHAT THEIR TOOL WOULD REPORT
+
+## 6.1 ⛔⛔ FIRST, CORRECT MY OWN OVER-PESSIMISM
+⛔ **I have been saying "he has no medical". That is WRONG and the medical schedule shows why.**
+
+⭐⭐⭐ **TAB M5 is the strongest document in the 9 September set.** Its four parts, in order:
+1. ⭐⭐ **The RESPONDENT'S OWN Form 29 notice of non-party disclosure to the Mind and Memory Service,
+   sealed 4 July 2025**, at the page stating the three matters in issue.
+2. His email of 5 September putting **those same three matters** to Dr Krishnaiah, to be answered
+   *"from his own assessments and records"*.
+3. The reply of 5 September, 12:04 pm.
+4. ⭐⭐⭐ **The reply of 8 September 2026, 7:18 am, attaching *"the report that captures the relevant
+   information you have requested"* — being the report of 13 February 2025 at Tab M4.**
+
+⇒ ⭐⭐⭐ **The treating psychiatrist was asked the REGULATOR'S OWN three statutory questions and
+answered by identifying his existing report as his answer.** ⛔ **That is not "no medical". That is a
+treating opinion, adopted in writing, against the Regulator's own framing.**
+
+⭐⭐⭐ **And what the adopted report says, at page 1:**
+*"Major Depressive Disorder with anxious distress (DSM 5- 296.23)"* · he *"presented with **workplace
+stress stemming from issues with management and rostering at Queensland Health**"* · *"These issues
+began approximately one year ago when a new manager was appointed"* · after raising concerns about
+rostering and fatigue management *"he experienced **changes in work conditions including shorter
+breaks, more night shifts**"* · *"His pay was withheld or delayed for up to five months at a time,
+leading to significant financial stress"*.
+
+## 6.2 ⭐⭐ AND THE REST OF THE SET IS BUILT WELL — THEIR TOOL WOULD HAVE TO SAY SO
+1. ⭐⭐⭐ **The pre-existing-condition attack is closed by THEIR OWN DISCLOSURE.** Tab M1 is the GP
+   record 1 Jan 2023 – 1 Jul 2024, **obtained by the Respondent under its own Form 29 and held at
+   item 11**, and it shows **no psychological illness before June 2024**.
+2. ⭐⭐ **§7.7 handled correctly** — *"does not rely upon that opinion otherwise than through the oral
+   evidence of its author."*
+3. ⭐⭐ **Tab M2** — four Work Capacity Certificates, no capacity 1 July–6 Oct 2024, each recording
+   date of injury **18 June 2024**.
+4. ⭐⭐ **Tab M3 fixes the first psychiatric consultation from TWO contemporaneous documents.**
+5. ⭐ **Redactions declared, explained, and answerable from their own copy.**
+
+## 6.3 ⛔⛔⛔ NOW THE OPENINGS THEIR TOOL WOULD FIND — AND THE FIRST IS SELF-INFLICTED
+
+### ⛔⛔⛔ (A) THE DISCLAIMER IS A TRAP HE BUILT HIMSELF
+> *"Items 3, 4 and 5 contain clinical opinion; **the Appellant does not rely upon that opinion
+> otherwise than through the oral evidence of its author.**"*
+> *"Dr Krishnaiah and Dr Hawes… **will be called**."*
+
+⛔⛔⛔ **If Dr Krishnaiah does not attend, he has DISCLAIMED RELIANCE on the very opinion that carries
+causation.** ⇒ ⭐⭐⭐ **Their tool's recommendation is one line: GIVE HIM NOTHING. No accommodation on
+dates, no agreed video arrangement, no consent. Make him compel attendance. If the doctor does not
+appear, the opinion falls away by his own words.**
+⇒ ⭐⭐⭐ **And they know from his own Tab M5 that the doctor has said he has no time for medico-legal
+work.** ⛔⛔ **He served them the evidence of his own difficulty. That was right — candour, and it was
+the practitioner's file anyway — but it means they will not help him.**
+
+### ⚠⚠ (B) THE REPORT DOES NOT DATE THE ORIGIN TO 17–18 MARCH 2024
+⚠ *"These issues began approximately one year ago when a new manager was appointed."*
+⇒ ⭐⭐ **It attributes the condition to a PERIOD and a course of management, not to the two shifts.**
+⇒ ⭐⭐⭐ **That is fine — it is a *Delaney* global case and always was — but their tool will use it to
+widen the field of "management action" they can then characterise as reasonable.**
+⭐⭐ **Answer: *Stretton* [84]. One significant unreasonable aspect suffices, and their delegate has
+already found it at fact 260.**
+
+### ⚠⚠ (C) THE PAY STRESSOR IN THE REPORT
+⚠ *"His pay was withheld or delayed for up to five months at a time."* ⇒ **Their tool will test
+whether the psychiatric attribution MATCHES the pleaded stressors.** ⭐⭐ **It does — outline ¶6, and
+facts 186–189 on the payroll thread at Tab 12 are admitted — but the alignment must be shown, not
+assumed.**
+
+### ⚠ (D) THE INTERVAL, AND THE RETROSPECTIVE DIAGNOSIS
+⚠ First presentation attributing symptoms to work: **28 June 2024**. Shifts: **17–18 March 2024**.
+Diagnosis: **24 October 2024**. ⇒ **Their IME will be instructed on that spread.**
+
+### ⭐⭐⭐ (E) TAB M6 — AND THIS IS AN ACTION FOR HIM, TODAY
+⛔ **Tab M6 (Dr Krishnaiah's clinical records from 24 October 2024) — *"Offered by the practice on
+5 September 2026 and requested. Not yet received."*** ⇒ **He relies on records he does not hold.**
+⭐⭐⭐ **BUT THE RESPONDENT SERVED A FORM 29 ON THAT PRACTICE, SEALED 4 JULY 2025 — it is reproduced at
+the front of his own Tab M5.** ⇒ ⭐⭐⭐ **Whatever the practice produced under that notice, THEY HOLD,
+and have held for fourteen months.**
+⇒ ⭐⭐⭐ **ASK THEM FOR IT. Ordinary disclosure of material obtained under their own notice, in a
+matter where the appellant has served a schedule relying on it. It is unanswerable, it is not on the
+authenticity track, and their tool would tell them not to volunteer it.**
+
+---
+
+# 7. ⭐⭐⭐ SO THE WHOLE RED TEAM REDUCES TO ONE SENTENCE
+⭐⭐⭐ **Their best case is that the doctor does not walk into the room — because his own schedule says
+that if the doctor does not, the opinion does not either.**
+⇒ ⭐⭐⭐ **Convert *"will be called"* into a confirmed, booked attendance, and every other
+recommendation on their board fails.**
