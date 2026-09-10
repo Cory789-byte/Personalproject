@@ -86,3 +86,70 @@ into the box, and if he does not, the appeal fails."***
    25 September.**
 4. ⭐⭐⭐ **Settlement comes AFTER the confirmation, not before** (red team §8.2). ⭐ **Their value peaks
    the day they learn the doctor is coming.**
+
+---
+
+# 6. ⛔⛔ CORRECTION — "THEY ARE WAITING FOR THE MEDICAL TO FAIL" IS THE WEAKEST READING, NOT THE BEST
+
+⛔ **§2 and §3.3 overweighted it. Withdrawn as the primary reading. Three things in their own hands
+make it implausible.**
+
+1. ⭐⭐⭐ **Tab M5 shows a RESPONSIVE doctor, not an absent one.** ⭐ He replied **5 September 12:04 pm**
+   — same day. ⭐ He replied again **8 September 7:18 am**, attaching *"the report that captures the
+   relevant information you have requested"*. ⭐⭐ He **offered his complete records**. ⇒ ⭐⭐⭐ **A
+   competent reader sees a treating psychiatrist engaging within hours, twice. He declines to WRITE
+   TO ORDER. That is not a doctor who will not come.**
+2. ⭐⭐ **They know attendance can be compelled.** ⭐ Guide Part 6. ⇒ ⭐⭐ **And they know an appellant who
+   has served a 43-page medical schedule, named both doctors on a filed witness list and run the
+   matter to this standard will use it.**
+3. ⭐⭐⭐ **There is no ambush left for them to hope for.** ⭐⭐ **He disclosed the non-employment factors
+   HIMSELF** — relationship breakdown, job loss, bereavement, in his own schedule. ⭐ He **declared
+   every redaction** and told them they could verify it from their own copy. ⭐ He **served the
+   doctor's refusal**. ⇒ ⭐⭐⭐ **An IME's usual advantage is undisclosed history. He has disclosed it.
+   There is nothing for one to find.**
+
+⇒ ⭐⭐⭐ **So "wait and hope" is not a strategy available to a competent adviser on their side. It was
+my inference and it does not survive their own material.**
+
+---
+
+# 7. ⭐⭐⭐ THE TWO READINGS THAT DO SURVIVE
+
+## 7.1 ⭐⭐⭐ THE ADMINISTRATIVE ONE — AND IT IS PROBABLY THE TRUE ONE FOR 10 SEPTEMBER
+⭐⭐ **She said she is in a hearing all week. That is very likely simply true, and the work was not
+done.** ⇒ ⭐⭐⭐ **Not every gap is strategy.** ⭐ **The 25 September date is most likely an
+administrative date and nothing more.**
+
+## 7.2 ⭐⭐⭐ THE ONE THAT FITS THE SHAPE OF THE 8 SEPTEMBER RESPONSE — THEY ARE POSITIONING TO RESOLVE
+| What they did | ⭐⭐ What it is consistent with |
+|---|---|
+| ⭐⭐⭐ **Admitted 298 of 303 facts** | ⛔ **not the act of a party gearing up to fight** |
+| ⭐⭐⭐ **Two review cycles above the Appeals Unit, in the DDG's business unit** | ⭐⭐ **what an agency does when preparing or seeking a DECISION — not when running a defence** |
+| ⭐⭐ **Reserved relevance, admissibility, characterisation — and nothing else** | ⭐⭐⭐ **exactly what you preserve to keep BOTH doors open: enough to negotiate with, enough to run a narrow point if you must** |
+
+⇒ ⭐⭐⭐ **The better reading of 10–25 September is not tactics. It is APPROVAL.** ⭐⭐ **Authority to
+resolve a matter at this level takes weeks in a public agency, and the file is already sitting where
+that decision is made.**
+
+## 7.3 ⚠⚠ AND THE ONE THING THAT GENUINELY SLOWS THEM — WHAT ACCEPTANCE LEADS TO
+⚠⚠ **Accepting the claim is not the end of their exposure. It opens the statutory entitlements and,
+downstream, the common law pathway.** ⇒ ⭐⭐ **That is a real calculation, it needs advice, and it is a
+proper reason to take weeks.**
+⇒ ⭐⭐⭐ **It is also why they would prefer a NEGOTIATED resolution with terms over a bare concession.**
+
+---
+
+# 8. ⭐⭐⭐ WHAT THIS CHANGES FOR HIM — LESS PRESSURE, MORE CONSTRUCTION
+⛔ **§5.1's "leverage point" framing is downgraded.** ⭐ **Book the doctors this week regardless — but
+the reason is that it is the last open element of HIS OWN case, and a confirmed medical is what makes
+a resolution CONSTRUCTIBLE. It is not about defeating a hope they probably do not hold.**
+
+⇒ ⭐⭐⭐ **If they are working toward resolution, the useful thing is to make it EASY TO BUILD AND EASY
+TO APPROVE:**
+1. ⭐⭐ **Nothing before 25 September that has to be answered.** ⭐ An officer preparing an approval does
+   not need another letter in the file.
+2. ⭐⭐⭐ **Have the terms ready before they ask** — what he actually wants, in what form, and what he
+   would accept. ⭐ **Per `SETTLEMENT-APPROACH-protocol.md`; do not improvise it.**
+3. ⭐⭐⭐ **Give them a form of words that does not require anyone to say the pleading was wrong.**
+4. ⭐⭐ **And keep the hearing preparation running in parallel** — ⛔ **because §7.1 is still the most
+   likely explanation of the last two weeks, and it means nothing has been decided at all.**
