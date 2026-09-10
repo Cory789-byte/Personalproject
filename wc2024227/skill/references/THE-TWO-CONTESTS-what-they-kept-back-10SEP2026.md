@@ -111,3 +111,54 @@ that matters.**
    alleged to exist.**
 4. ⛔ **Do not spend anything on the other thirteen tabs.** ⭐ **Correct the description (§5 of
    `THE-SORT-KEY…`) and move on.**
+
+---
+
+# 5. ⭐⭐⭐⭐ THE COLUMN THAT DOES THE WORK — *"COPY KNOWN TO BE HELD"*
+
+⭐⭐⭐⭐ **The 9 September request letter does not argue with the fourteen non-admissions. It
+TABULATES them, and adds one column naming where a copy already sits.** ⭐⭐⭐ **The letter never says
+what the column means. The reader says it.**
+
+| Tab | Document | ⭐⭐⭐⭐ Copy known to be held |
+|---|---|---|
+| ⭐⭐⭐⭐ **20** | **MSH's letter to Commissioner Dwyer, 5 Jun 2026, K-LM26/729** | ⭐⭐⭐⭐ ***"THE COMMISSION'S FILE"*** |
+| ⭐⭐⭐⭐ **6** | Taylor → Logan Switch, 15 Apr 2024, *"Afterhours Oncall Process"* | ⭐⭐⭐⭐ ***"RESPONDENT'S AMENDED LIST OF DOCUMENTS, attachment to item 25"*** |
+| ⭐⭐⭐ **30** | Taylor → Logan Switch, 23 Aug 2023, *"What's Chloe's Hours?!"* | ⭐⭐⭐ ***"Metro South Health; THE RESPONDENT'S CLAIM FILE"*** — ⭐⭐⭐⭐ **and quoted in Review Decision 69983, which is ADMITTED at fact 70** |
+| ⭐⭐ **1** | AO3 Switchboard role description | ⭐⭐ *"Attachment 2 to the **Request for Medical Information of 31 July 2026**"* — **MSH's own medico-legal enclosure** |
+| ⭐⭐⭐ **31** | Emergency Code Register, March 2024 sheet | ⭐⭐⭐ **fact 268 — MSH's CE: the MET spreadsheet *"is available"*** |
+| 5, 17–19, 21, 22, 23, 30A | | Metro South Health |
+
+## 5.1 ⭐⭐⭐⭐ WHAT THE COLUMN ESTABLISHES WITHOUT ONE ADJECTIVE
+⭐⭐⭐⭐ **The authenticity of copies was disputed for documents that sit on the Commission's own
+file, in the Respondent's own List of Documents, in the Respondent's own claim file, and quoted in
+the Respondent's own Review Decision.**
+⇒ ⭐⭐⭐ **And the CONTENTS of every one of them — except Tab 31 — were ADMITTED in the same
+response.** ⭐⭐⭐⭐ **Admitting what a document says while denying that the copy is what it purports
+to be is not a position that can be held in front of the Commission.**
+
+## 5.2 ⭐⭐⭐ AND THE LETTER PUTS THE COST OF IT BACK WHERE IT AROSE
+> ⭐⭐⭐ *"**This request arises only from that response**: had the authenticity of the copies been
+> admitted, as their contents were under the Form 24, **none of these documents would need to be
+> sought**."*
+> *"If neither is done for any document by that date, I will seek that document by notice of
+> non-party disclosure… and **I will refer to this correspondence if the question of the costs of
+> that step arises**."*
+
+⇒ ⭐⭐ **The work is theirs, the record says so, and the costs sentence is one line and unemotional.**
+
+## 5.3 ⭐⭐⭐⭐ AND — THE REASON IT WILL PROBABLY WORK — HE BUILT THEM A COSTLESS EXIT
+| Option | What it costs the Respondent |
+|---|---|
+| **(a)** *"produce the Regulator's or MSH's copy… **or confirm the authenticity of the copy served by reference to that copy**"* | ⭐⭐⭐⭐ **NOTHING. No admission, no concession, no loss of face** |
+| (b) admit authenticity under r 49 | a formal admission |
+
+⇒ ⭐⭐⭐⭐ **Option (a) lets them unwind fourteen non-admissions without ever saying they were wrong.**
+⭐⭐⭐ **That is why the 10 September answer is an extension and *"if needed reach out to MSH"* — not
+a defence of the non-admissions. Nobody defends a position they can exit for free.**
+
+## 5.4 ⭐⭐⭐ THE DISCIPLINE IS THE POINT
+⛔ **The letter NEVER says *"you disputed a document on the Commissioner's own file."*** ⭐⭐⭐⭐ **It
+puts the row in a table and stops.**
+⇒ ⭐⭐⭐ **That is *state the chronology, never the motive*, executed — and it is why the letter cannot
+be answered defensively.** ⭐⭐ **There is nothing in it to push back against; there is only a column.**
