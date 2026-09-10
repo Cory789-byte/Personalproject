@@ -546,3 +546,34 @@ unevidenced at the hearing:**
 > *"The Respondent's reservation at heading 3 is not evidence, and no witness has been listed to
 > give it."*
 ⭐⭐ **That sentence is worth more on the last day than on any day before it.**
+
+## 14.6 ⛔⛔ "NO WITNESS ⇒ EVERYTHING ACCEPTED" — NO. THE LIMIT MATTERS.
+⭐ **Dwyer hedged the proposition TWICE in the same breath, and the hedges are the operative words:**
+> **[15:00]** *"the regulator does have to contradict things that you say. **It's not the same thing
+> as an onus**, but if you say something and it's not contradicted, then the likelihood is **it's
+> NOT GUARANTEED, but there's a LIKELIHOOD** that it'll be accepted."*
+
+### ⭐⭐⭐ WHAT NO WITNESS DOES BUY — AND IT IS A LOT
+1. ⭐⭐⭐ ***Browne v Dunn*.** ⭐ **If they do not put a contrary case to a witness in
+   cross-examination, they generally cannot submit later that the witness was wrong about it.**
+   ⇒ ⭐⭐⭐⭐ **Heading 3's three reservations become UNARGUABLE.** They cannot submit consultation
+   occurred if they never put it to Ms Conaghan.
+2. ⭐⭐⭐ **Their s 32(5)(a) case collapses to a SUBMISSION built entirely from documents he has
+   admitted or produced** — ⭐⭐ **and the central one, RD 69983, carries fact 260 against them.**
+3. ⭐⭐ **His evidence of EFFECT — the exposed surface, the thing *Kerr* died on — goes
+   uncontradicted by any competing account.**
+
+### ⛔⛔ WHAT NO WITNESS DOES **NOT** BUY — THREE THINGS SURVIVE INTACT
+| # | Survives | Why |
+|---|---|---|
+| ⛔⛔ **1** | **CROSS-EXAMINATION** | ⭐⭐⭐ **They need no witness to attack his.** ***Kerr* fell exactly this way** — *"firmly held, but subjective perception"*, on the appellant's own evidence, with no respondent witness required |
+| ⛔⛔ **2** | **The reasonableness SUBMISSION** | ⭐⭐ **s 32(5)(a) is an EVALUATIVE FINDING for the Commission, not a fact to be proved.** They can argue it from the award, the fatigue policy, ¶15's HR advice and ¶40's *"human error"* — **all his own material** |
+| ⛔⛔ **3** | ⭐⭐⭐⭐ **THE ONUS** | ⭐ **It is his.** Dwyer: *"you have the onus of proving your case, and **that's true**"* ⇒ **If injury and s 32(1) causation are not positively established, he loses whether or not they call anyone** |
+
+### ⭐⭐⭐⭐ AND THE ONE THAT DECIDES IT
+⛔⛔ **Uncontradicted medical evidence still has to EXIST before it can be uncontradicted.**
+⇒ ⭐⭐⭐ **If the doctors do not attend, their silence does not fill the hole — it makes the hole
+decisive, because there would be nothing at all on causation and the onus is his.**
+⇒ ⭐⭐⭐⭐ **THE CORRECT STATEMENT: no witness makes the FACTS safe. The facts are ALREADY safe — they
+are admitted. What no witness removes is their ability to contradict his EFFECT evidence and his
+MEDICAL evidence. It does not remove cross-examination, the reasonableness submission, or his onus.**
