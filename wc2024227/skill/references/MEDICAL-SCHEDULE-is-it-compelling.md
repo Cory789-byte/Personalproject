@@ -210,3 +210,62 @@ rejection, the dismissal or this appeal — and every element of it is now an AD
 (185–203, 211–221).** ⭐⭐ **It needs no inference from a date, and there is nothing in it to
 cross-examine.**
 ⇒ ⭐⭐⭐ **Build on 28 June and 1 July. Leave 16 May where it sits.**
+
+---
+
+# 7. ⛔⛔ CORRECTION TO §5 — HE IS RIGHT. IT IS THE SEQUENCE, AND THE SEQUENCE IS IN THEIR OWN ITEM 11.
+
+⛔ **I attacked a claim he was not making** — that the referral was CAUSED by the retraction email.
+⭐⭐⭐ **His point is the sequence, and having now rendered and read the consultation records, the
+sequence is real, documented, contemporaneous, and one-directional.**
+
+## 7.1 ⭐⭐⭐ THE RECORDS, VERBATIM — Tab M1, source pages 5 to 7
+| Date | Recorded by | ⭐ What the note says |
+|---|---|---|
+| ⭐⭐⭐ **16 Nov 2023** | Dr Nanayakkara | poor sleep **with shift work** · **could not do shifts without a good sleep** · ⭐⭐⭐ **no psychological illness such as depression or psychosis · mood good** · **melatonin and temazepam prescribed** |
+| ⭐⭐ **16 May 2024** | Dr W Zhao | ***"renew referral to psychiatrist"*** · Actions: letter to Dr Amini printed · ⭐⭐ **Prescription printed: Melatonin 5mg modified release** |
+| ⭐⭐⭐ **28 Jun 2024** | Dr B Slawinski | ***"wants melatonin / to help to sleep"*** · ***"stress at work"*** · ***"upset by people not following rules"*** · Examination: *well, alert, t 36.6* · ⭐⭐⭐ **Reason for visit: ANXIETY** · **Melatonin prescribed; medical certificate** |
+| ⭐⭐⭐ **1 Jul 2024** | Dr P Hawes | *"work problems- **ethical complaint about manager and director, they don't follow the law**"* · *"been there 5 years"* · *"feels he is undervalued"* · *"**they withhold pay at times, no overtime- not processed, manipulate his roster- so he works lates then earlies, not allowed to do this**"* · *"they don't listen to his complaints"* · *"**all this is stressing him out, causing anxiety**"* · ⭐⭐⭐ **Reason for visit: WORK STRESS** · **QLD Work capacity certificate** |
+
+## 7.2 ⭐⭐⭐⭐ THE THROUGH-LINE IS SLEEP, AND IT RUNS FROM NOVEMBER 2023 TO JULY 2024
+⭐⭐⭐ **Melatonin at every step: Nov 2023 · 16 May 2024 · 28 June 2024.** ⭐⭐ **And in November 2023 the
+GP tied it to SHIFT WORK in terms — *"could not do shifts without a good sleep"* — seven months
+before onset and before any claim existed.**
+⇒ ⭐⭐⭐ **Nothing in the sequence improves. Every visit adds. It ends in a certificate of no
+capacity.**
+
+## 7.3 ⭐⭐⭐ WHY THAT DEFEATS THE PRE-EXISTING ATTACK RATHER THAN FEEDING IT
+⛔ **I said a RENEWAL of psychiatric care was their best material. That was wrong.**
+⭐⭐⭐ **What is being renewed is care for a man whose GP recorded, seven months earlier, NO
+PSYCHOLOGICAL ILLNESS SUCH AS DEPRESSION OR PSYCHOSIS AND MOOD GOOD** — in the Respondent's own
+item 11, obtained under the Respondent's own Form 29.
+⇒ ⭐⭐⭐ **So whatever Dr Amini treats, the contemporaneous GP record says it was not depression, not
+psychosis, and mood was good. The answer to the 2022 entries sits SEVEN MONTHS BEFORE the referral,
+in the same document set.**
+
+## 7.4 ⭐⭐⭐ AND THIS IS HIS OWN TECHNIQUE — STATE THE CHRONOLOGY, NEVER THE MOTIVE
+⭐⭐⭐ **The sequence needs NO claim about why he attended on 16 May:**
+> **16 Nov 2023** — sleep and shift work; no psychological illness; melatonin
+> **15 May 2024, 6:23 pm** — asked to retract his email *(facts 76 and 77, **admitted**)*
+> **16 May 2024** — psychiatric referral renewed; melatonin prescribed
+> **28 Jun 2024** — *"stress at work"*; *"upset by people not following rules"*; **reason for visit:
+> anxiety**
+> **1 Jul 2024** — the full work account; **reason for visit: work stress**; no capacity certified
+
+⇒ ⭐⭐⭐ **Every line is a date and an event. Not one is an argument. The proximity of 15 and 16 May is
+left on the page for the Commission to see, and is never asserted as a cause.**
+⇒ ⭐⭐⭐ **That is exactly the discipline he has applied throughout the Form 24 and the outline, and I
+misread it as an argument he was making.**
+
+## 7.5 ⛔ THE ONE LIMIT THAT STILL HOLDS — AND IT IS NARROW
+⛔ **The 16 May note reads *"renew referral to psychiatrist"* and NOTHING ELSE.** ⇒ ⛔⛔ **He cannot
+say the 16 May visit was ABOUT work, and must never be drawn into saying it. The note would
+contradict him.**
+⭐⭐⭐ **He does not need to. Put as a date in the sequence, it costs nothing and carries its own
+weight.**
+
+## 7.6 ⭐⭐ AND ONE FACT STILL TO ESTABLISH — BUT IT IS NO LONGER A REASON TO DROP ANYTHING
+⭐ **What does Dr Amini treat him for?** ⇒ ⭐⭐ **If ADHD, *"renew referral to psychiatrist"* is neutral
+and the sequence is untouched. If mood, the November 2023 entry is the complete answer.** ⭐⭐⭐ **Either
+way the sequence stands. Know it before the doctors are called, not to change the case but to be
+ready for the question.**
