@@ -17,7 +17,7 @@ already done.**
 > work… **I can't provide preformed answers as you have asked.** … I can provide all medical records
 > I have to you."*
 
-⛔⛔⛔ **He declined the report.** ⭐ **Guide §7.7: a report alone cannot be considered — the
+⛔⛔⛔ **He declined the report.** ⭐ **Guide §7.6.5: a report alone cannot be considered — the
 practitioner must attend.** ⇒ ⛔⛔⛔ **Right now the medical case rests on Dr Hawes's Work Capacity
 Certificates and on the Regulator's OWN finding at fact 262 — and that finding is theirs, its
 relevance is expressly reserved, and the appeal is de novo.**
@@ -138,7 +138,7 @@ objection to knowing, and it is not a refusal to attend.**
 ⇒ ⭐⭐⭐ **The medical case is therefore: (a) the existing report of 13 February 2025 — which already
 addresses relationship breakdown, job loss and bereavement; (b) the clinical records, which he has
 OFFERED free; and (c) ATTENDANCE.**
-⇒ ⭐⭐ **Guide §7.7 requires attendance in any event — a report alone cannot be considered. So the
+⇒ ⭐⭐ **Guide §7.6.5 requires attendance in any event — a report alone cannot be considered. So the
 report he declined was never sufficient on its own.**
 
 ⭐⭐⭐ **SO CHANGE THE ASK:**

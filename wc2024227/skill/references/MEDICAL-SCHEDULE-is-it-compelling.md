@@ -329,3 +329,54 @@ difficulty.** ⛔ **No condition is named, no cause is asserted, and the no-opin
 intact.**
 ⇒ ⭐⭐ **Serve it with the ¶3 amendment on 25 September** (`THE-OUTLINE-GAP…` §4.1), as one short
 letter particularising both.
+
+---
+
+# 9. ⛔⛔ TWO CORRECTIONS — AND HE IS RIGHT: THE DISCLAIMER IS NOT A VULNERABILITY
+
+## 9.1 ⛔⛔⛔ FIRST, A CITATION ERROR I REPEATED ALL DAY
+⛔ **I cited the rule as Guide §7.7. WRONG. §7.7 is SUBMISSIONS.** ⭐⭐⭐ **The rule is GUIDE 7.6.5,
+verbatim:**
+> ⭐⭐⭐ *"**It is important to note that presenting a medical report on its own cannot be considered
+> without having the expert witness give evidence orally to support that document and being available
+> for cross-examination by the other party.**"*
+
+⭐⭐ **And 7.6.5 also provides:** the party calling the expert **pays the expert's expenses** ·
+arrangements **"well in advance of the date of hearing"**, at a pre-determined time · ⭐⭐⭐ **an
+ATTENDANCE NOTICE should be requested to secure attendance (Form 32 + 32A/B/C, per 6.2.2)** ·
+⭐⭐ **experts may appear by PHONE OR VIDEO if the Commission allows.**
+
+## 9.2 ⭐⭐⭐⭐ AND THAT PROVES HIS POINT — THE DISCLAIMER CONCEDES NOTHING
+⛔⛔ **I called it *"a trap he built himself"* and *"self-inflicted"*. WITHDRAWN.**
+⭐⭐⭐ **Oral evidence is required REGARDLESS. It is the Commission's own stated practice, applying to
+every appellant who relies on a medical report.** ⇒ ⭐⭐⭐ **His schedule does not create the
+requirement. It RECORDS COMPLIANCE WITH IT.**
+⭐⭐ **And the Respondent had already reserved on exactly that ground** — *"not an admission of the
+truth of any statement, opinion… including any statement by a treating medical practitioner"* —
+⇒ ⛔ **so the disclaimer hands them nothing they had not already reserved.**
+⇒ ⭐⭐⭐ **Stating it in advance is what makes the rest of the schedule credible.** ⭐⭐ **A party who
+says *"I do not rely on this opinion except through its author"* is a party whose other reliance
+claims can be trusted — the same discipline that guts their relevance objection.**
+
+## 9.3 ⭐⭐⭐ AND HE IS RIGHT THAT THE CONTEMPORANEOUS RECORD CARRIES MORE THAN I CREDITED
+⭐⭐⭐ **Without any oral opinion at all the Commission still has:**
+| | |
+|---|---|
+| ⭐⭐⭐ **Contemporaneous GP complaints attributing it to work** | 28 Jun *"stress at work"*, reason for visit **anxiety**; 1 Jul the full account, reason for visit **work stress** — ⭐ **from the Respondent's own item 11** |
+| ⭐⭐⭐ **No pre-existing condition** | RD69983 p 17: the 1 July certificate indicated *"there was no pre-existing factor or condition"*, *"maintained in all later work capacity certificates"* |
+| ⭐⭐⭐ **No psychological illness before onset** | 16 Nov 2023, their own item 11 |
+| ⭐⭐⭐ **Their own delegate's findings** | facts **261, 262** |
+| ⭐⭐⭐ **The overlay** | three medical contacts in four months, each against an event, the record otherwise empty |
+
+⇒ ⭐⭐ **The DIAGNOSIS and the ATTRIBUTION need the author under 7.6.5. ⭐⭐⭐ But the SEQUENCE is proved
+by the records, and the records are contemporaneous, clinical, and pre-litigation.**
+⇒ ⛔ **REVISING `PROSPECTS-REASSESSED-10SEP2026.md` §4: the no-attendance figure of 45–60% was too
+low. On this material it is nearer 60–70%.** ⭐⭐⭐ **Attendance still materially improves it — but it
+is the difference between COMFORTABLE and CONTESTED, not between winning and losing.**
+
+## 9.4 ⭐⭐ AND THE MECHANISM IS THE GUIDE'S OWN RECOMMENDATION
+⭐⭐⭐ **7.6.5 says an attendance notice SHOULD be requested to secure attendance.** ⇒ ⭐⭐ **Issuing one
+is not aggressive and is not a fallback — it is the recommended course, and it answers Dr
+Krishnaiah's own objection: he attends and answers, he does not write.**
+⭐ **Video is available with leave. Book the time, then request the notice.**
+⚠ **And note: HE pays the expert's expenses.** ⭐ **That must be arranged now, not at the hearing.**
