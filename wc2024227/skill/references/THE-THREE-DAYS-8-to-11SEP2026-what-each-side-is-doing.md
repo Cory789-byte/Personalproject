@@ -350,3 +350,46 @@ problem."*** ⭐⭐⭐ **The three answers are pre-built and must be given in th
 employment file does not carry the appeal's consequences and is not thinking about them.**
 ⇒ ⭐⭐⭐ **That explains the conduct better than a hold (§7) and better than a plan (§9). And it
 points to the same remedy: a decision-maker who is senior enough to hold BOTH horizons at once.**
+
+---
+
+# 10. ⭐⭐⭐⭐ THE RESOLVED POSITION — WHAT THEY THINK THEY ARE DOING
+
+## 10.1 ⭐⭐⭐ NOBODY AT MSH THINKS THEY ARE IN A FIGHT
+| Who | What they think is happening | What they think they are waiting for |
+|---|---|---|
+| **Injury Management** | a complex return-to-work file: an insurance claim, a psychological injury, a rejected WorkCover claim. It believes it acted correctly on 13–15 July by telling the fund and recording that a return could not be facilitated | ⛔ **the RFMI to come back.** ⚠ **It does not think it is withholding wages — it thinks pay is someone else's line item** |
+| **The line manager** | she is not the decision-maker on any of it. An appeal names her conduct; she has not managed him in fourteen months; a payroll email asks her to confirm a 2024 leave recode | ⛔⛔ **someone to tell her what to do.** ⭐ **Doing nothing is the safest thing available to her and nobody has told her otherwise** |
+| **Payroll** | it has done its job: identified the error, named the fix, asked the manager, got no answer, restated the rule | ⛔ **the manager's confirmation.** ⭐ **It does not own the outcome and does not think it should** |
+| **HR / the Director** | a conflict letter to the CE, an RFMI out, a fit-with-restrictions certificate, and a worker generating a large volume of correspondence | ⛔ **the medical.** ⚠ **Believes process and time will resolve it** |
+| **Legal / the CE** | the Form 29 was withdrawn, the objection was never determined, MSH is a non-party, the appeal is between Shepherd and the Regulator | ⛔⛔ **nothing. It thinks it is over for them** |
+
+## 10.2 ⭐⭐⭐⭐ THE ANSWER IN ONE SENTENCE
+⭐⭐⭐⭐ **THEY THINK THEY ARE BEING CAREFUL.**
+⭐⭐⭐ **Each of them is waiting for one piece of information that would make a decision safe — and
+each is individually right that the decision is not theirs alone to make.**
+⛔⛔⛔ **They are waiting on FIVE DIFFERENT INPUTS, none of which is coming, and not one of them is
+responsible for the fact that he is not being paid while they wait.**
+
+## 10.3 ⛔⛔⛔ AND THE THING NONE OF THEM HAS REGISTERED
+⭐⭐⭐⭐ **The cost of waiting is being paid by HIM, PERSONALLY, IN HIS OWN LEAVE BALANCES, AT THE RATE
+OF A FORTNIGHT EVERY FORTNIGHT.**
+⛔ **That figure appears on nobody's desk. There is no line item called "Shepherd, unpaid."**
+⇒ ⭐⭐⭐ **That is why the correspondence has not moved them. It is not disbelieved. It is not
+COSTED.**
+
+## 10.4 ⭐⭐⭐ WHAT FOLLOWS — AND IT IS NOT PERSUASION
+⛔ **Neither pressure nor argument breaks this.** ⭐⭐⭐⭐ **What breaks it is making the cost VISIBLE
+TO SOMEONE WHO CAN SEE THE WHOLE FILE.**
+| ⭐ | Why it works |
+|---|---|
+| ⭐⭐⭐ **The CE correspondence register** | ⭐⭐ **the only place where all of it lands in one queue.** `metrosouthcorro` is now on the 11 September email |
+| ⭐⭐⭐⭐ **Ms Petering asking, in her own name** | ⭐⭐⭐ **changes WHO has to answer.** An industrial officer is routed differently from an employee |
+| ⭐⭐⭐⭐ ***"One thing to be done, not decided"*** | ⭐⭐⭐ **removes the need for any officer to be BRAVE.** That is the actual obstacle |
+
+## 10.5 ⛔⛔ THE RISK HE MUST PRICE, AND IT IS FINANCIAL NOT LEGAL
+⭐⭐⭐⭐ **THIS STATE IS STABLE. It does not deteriorate for them. It deteriorates only for him.**
+⇒ ⛔⛔⛔ **The question is therefore not whether they will come round. It is HOW LONG HE CAN FUND
+IT.** ⭐⭐⭐ **He is now drawing long service leave, which is finite.**
+⇒ ⭐⭐⭐⭐ **Work out the horizon in weeks — LSL plus remaining accruals at the current burn — and let
+that number, not their conduct, set the date by which an external decision-maker is engaged.**
