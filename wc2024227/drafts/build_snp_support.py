@@ -5,7 +5,8 @@ from reportlab.lib.units import mm
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
-                                Spacer, Table, TableStyle)
+                                Spacer, Table, TableStyle, Image)
+from pypdf import PdfReader, PdfWriter
 
 OUT = 'out/SNP_supporting_statement_two_periods_11SEP2026.pdf'
 AUTHOR = 'Cory Shepherd'
@@ -143,22 +144,48 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        'they are not an acceptance of any position about 2026.'),
      Spacer(1, 14),
      Paragraph('<b>Signed</b>', SIGN),
-     Spacer(1, 20),
+     Spacer(1, 4),
+     Image('assets/SIGNATURE_CoryShepherd.png', width=44*mm, height=23*mm, hAlign='LEFT'),
      Paragraph('______________________________________', SIGN),
      Spacer(1, 3),
      Paragraph('Cory Lea Shepherd', SIGN),
      Paragraph('Administration Officer, Switchboard Services, Logan Hospital', SIGN),
      Paragraph('Employee no. 388372', SIGN),
      Spacer(1, 8),
-     Paragraph('Date: &nbsp;______ / ______ / 2026', SIGN),
+     Paragraph('Date: &nbsp;11 September 2026', SIGN),
      Spacer(1, 14),
-     Paragraph('<i>Attached: work capacity certificates of Dr Peter Hawes dated 1 July, 11 August '
-               'and 8 September 2024, and of Dr Ki Pang dated 7 August 2024.</i>', ADDR)]
+     Paragraph('<i>Attached: work capacity certificate of Dr Peter Hawes signed 8 September 2024 (2 pages). '
+               'Further certificates of Dr Ki Pang dated 7 August 2024 and Dr Peter Hawes dated 11 August 2024 '
+               'can be provided on request. The certificate of Dr Peter Hawes dated 1 July 2024 is held by the '
+               'Workers&rsquo; Compensation Regulator at item 7 of its list of documents.</i>', ADDR)]
 
 doc.build(S)
 
 now = datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=10)
 stamp = now.strftime("D:%Y%m%d%H%M%S+10'00'")
+pdf = pikepdf.open(OUT, allow_overwriting_input=True)
+if '/Metadata' in pdf.Root: del pdf.Root['/Metadata']
+for k in ('/PieceInfo','/Names','/AcroForm','/OpenAction','/AA','/StructTreeRoot','/MarkInfo','/Lang'):
+    if k in pdf.Root: del pdf.Root[k]
+for pg in pdf.pages:
+    for k in ('/Metadata','/PieceInfo','/Annots','/AA'):
+        if k in pg.obj: del pg.obj[k]
+for k in list(dict(pdf.docinfo)): del pdf.docinfo[k]
+pdf.docinfo['/Author'] = AUTHOR
+pdf.docinfo['/Title'] = TITLE
+pdf.docinfo['/CreationDate'] = stamp
+pdf.docinfo['/ModDate'] = stamp
+pdf.save(OUT, linearize=False, fix_metadata_version=False,
+         object_stream_mode=pikepdf.ObjectStreamMode.generate)
+
+# stitch the certificate on the end
+w = PdfWriter()
+for pg in PdfReader(OUT).pages: w.add_page(pg)
+for pg in PdfReader('out/pack_v2/04b_ATTACHMENT_4_Hawes_Work_Capacity_Certificate_signed_8Sep2024.pdf').pages:
+    w.add_page(pg)
+with open(OUT,'wb') as fh: w.write(fh)
+
+# scrub again after the merge
 pdf = pikepdf.open(OUT, allow_overwriting_input=True)
 if '/Metadata' in pdf.Root: del pdf.Root['/Metadata']
 for k in ('/PieceInfo','/Names','/AcroForm','/OpenAction','/AA','/StructTreeRoot','/MarkInfo','/Lang'):
