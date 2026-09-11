@@ -111,3 +111,70 @@ disputed as to authenticity — every one a copy from his own records.**
 must put a positive case or the dispute falls away.**
 ⛔⛔ **BUT UNTIL THEY DO: cross-check every outline line and every schedule of assumed facts against
 those 14 before it goes to a doctor or into a filing.** ⭐ **That check is still outstanding.**
+
+---
+---
+
+# 8. ⭐⭐⭐⭐ ADDENDUM — THE AUTHENTICITY DISPUTE IS HOLLOWER THAN THE COUNT SUGGESTS
+
+## 8.1 ⭐⭐⭐⭐ A DOCUMENT HE WROTE IS PROVED BY HIM
+⛔ **§7 overstated the exposure.** ⭐⭐⭐⭐ **He gives evidence. He is the author and the sender. An
+email he wrote is proved by his own sworn evidence that he wrote it, sent it, and that the copy is
+a true copy.** ⇒ **For every disputed document he authored, "disputed as to authenticity" means the
+Respondent must positively assert he did not write or send it — with no stated ground, no
+discrepancy identified, and no different copy produced.** ⭐⭐ **It collapses the moment he says so
+from the witness box.**
+
+## 8.2 ⭐⭐⭐⭐ SO THE 14 MUST BE SPLIT BY AUTHOR, NOT BY WHO HOLDS THE COPY
+⚠⚠ **The provenance rule was about CUSTODY — *"copy from the Appellant's own records"*. It says
+nothing about AUTHORSHIP.** ⭐⭐⭐⭐ **The 14 divide into two very different problems:**
+| | Exposure |
+|---|---|
+| **Disputed, and HE authored it** | ⭐⭐⭐ **None. He proves it.** |
+| ⚠⚠ **Disputed, and MSH authored it, and he holds the only copy** | ⚠⚠ **This is the only real gap — and it is also the most absurd position for them to hold** |
+
+⭐⭐⭐⭐ **REVISED TASK — replaces "cross-check the 14": split tabs 1, 5, 6, 17, 18, 19, 20, 21, 22,
+23, 24, 30, 30A, 31 by AUTHOR.** ⚠ **Tab 1 is the role description — MSH-authored. Expect several
+others to be theirs too.**
+
+## 8.3 ⭐⭐⭐⭐ AND FOR THE MSH-AUTHORED ONES THE POSITION IS UNTENABLE
+⭐⭐⭐⭐ **MSH wrote it. MSH's own disclosure is how it is in the proceeding. And MSH now says it may
+not be genuine — with no reason given.** ⇒ **To maintain that at hearing they must call the author
+to say *"I did not write this"* or *"our records do not contain it."*** ⛔ **Nobody does that on
+fourteen documents without a stated ground.**
+
+## 8.4 ⭐⭐⭐ THE MOVE IS A LETTER, NOT AN APPLICATION
+⭐⭐⭐ **One short written request to Ms Matheson:**
+> *"In relation to the documents at tabs [x], the Respondent has not admitted authenticity. Could
+> you please identify, for each, what is in dispute — authorship, date, completeness, or the
+> accuracy of the copy — and whether the Respondent holds a copy of the document."*
+
+⭐⭐⭐⭐ **BOTH ANSWERS HELP:**
+- **They hold a copy** ⇒ **the document is proved and the dispute evaporates.**
+- ⭐⭐⭐ **They do not hold a copy of a document MSH authored** ⇒ **that is itself a record-keeping
+  fact, and it joins the six absences at §5.**
+
+⚠ **Send it after Monday's lodgement and separately from the 5:11 pm disclosure request — one
+question per letter.**
+
+---
+
+# 9. ⭐⭐⭐⭐⭐ THE THREE ANSWERS A WITNESS HAS, AND WHY ONLY ONE IS REAL
+⭐⭐⭐⭐ **For each of the 104 facts resting on a document an MSH officer wrote, the witness has
+exactly three options:**
+
+| | The answer | What it costs them |
+|---|---|---|
+| 1 | ⭐ **"Yes, I wrote it."** | ⭐⭐⭐⭐ **The fact stands. Nothing changes.** |
+| 2 | ⛔ **"I did not write it."** | ⛔⛔ **Extraordinary — and refutable from their own disclosure. No one will do this.** |
+| 3 | ⭐⭐⭐⭐ **"I wrote it, but it does not mean what he says."** | ⭐⭐⭐⭐ **This is the only realistic answer — and it is the s 32(5)(a) argument, not a dispute of fact.** |
+
+⭐⭐⭐⭐⭐ **SO OPTION 3 IS THE WHOLE HEARING — AND IT CONCEDES EVERY FACT HE NEEDS.** ⇒ **The
+contest is not what happened. It is what it meant. And "what it meant" is decided on the documents,
+by the Commission, on the manner limb.**
+
+## 9.1 ⚠ THE PRICE OF OWNING HIS OWN DOCUMENTS
+⭐⭐ **Saying plainly "I wrote that, and I meant it" is the right posture and it removes the
+authenticity problem.** ⚠⚠ **It also puts him in the box.** ⭐⭐⭐ **The cross-examination he will
+face is the 8 September 2025 attendance letter and the thirty-four occasions.** ⛔ **That is
+prepared for separately and it is not a reason to soften anything here.**
