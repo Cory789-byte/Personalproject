@@ -141,10 +141,19 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        'I reserve the right to seek reinstatement of the leave taken.</b> These two applications relate '
        'to 2024 and 2025 and are made solely to give effect to the recoding Payroll has identified; '
        'they are not an acceptance of any position about 2026.'),
-     Spacer(1, 12),
-     Paragraph('Cory Shepherd', SIGN),
+     Spacer(1, 14),
+     Paragraph('<b>Signed</b>', SIGN),
+     Spacer(1, 20),
+     Paragraph('______________________________________', SIGN),
+     Spacer(1, 3),
+     Paragraph('Cory Lea Shepherd', SIGN),
+     Paragraph('Administration Officer, Switchboard Services, Logan Hospital', SIGN),
      Paragraph('Employee no. 388372', SIGN),
-     Paragraph('11 September 2026', SIGN)]
+     Spacer(1, 8),
+     Paragraph('Date: &nbsp;______ / ______ / 2026', SIGN),
+     Spacer(1, 14),
+     Paragraph('<i>Attached: work capacity certificates of Dr Peter Hawes dated 1 July, 11 August '
+               'and 8 September 2024, and of Dr Ki Pang dated 7 August 2024.</i>', ADDR)]
 
 doc.build(S)
 
