@@ -439,3 +439,76 @@ condition §10.4 identified as missing.**
 consequence to attach is the one that costs nothing and changes WHO must answer:**
 ⇒ ⭐⭐⭐⭐ **ASK MS PETERING TO PUT THE SAME TWO QUESTIONS — THE LEAVE FORMS, AND THE RFMI — IN HER
 OWN NAME.** ⛔ **Not another email to the same list.**
+
+---
+
+# 12. ⭐⭐⭐⭐ THE SAME 48 HOURS, FROM THE OTHER SIDE — FOUR TEAM EMAILS
+> **Filed with hashes at `documents/correspondence-2026/`. All four are addressed to Logan Switch
+> and cc the whole Switchboard team — INCLUDING `Cory.Shepherd@health.qld.gov.au`.**
+
+| When | Subject | |
+|---|---|---|
+| **Wed 9 Sep 09:20** | *"Christmas / New Years leave."* | *"Could everyone please send through Christmas/New Year leave requests as soon as possible, so I can start putting the roster together."* |
+| ⭐⭐⭐⭐ **Fri 11 Sep 11:47** | *"MyHR Leave"* | ⭐⭐⭐ ***"Payroll submission cut off is @ 1pm Monday 14th September."*** · ⭐⭐⭐⭐ ***"I would like to welcome Sara into our team for a SIX WEEK CONTRACT TO BACKFILL LEAVE – Sara is from our Logan hospital casual admin pool and will be joining us from next Monday 14th September for training."*** |
+| **Fri 11 Sep 12:01** | *"Shift swaps approved"* | *"All shift swaps have been approved and PRN in spreadsheet"* |
+| **Fri 11 Sep 12:27** | *"PP09 Switchboard Roster"* | *"Thank you to all staff who I have been in **consultation** with for any shift changes / rostered shifts."* |
+
+## 12.1 ⭐⭐⭐⭐ SET AGAINST THE PAYROLL CHRONOLOGY
+| | |
+|---|---|
+| **Mon 7 Sep 1:28 pm** | **Payroll → the LINE MANAGER:** confirm whether the two periods were meant to be SNP not LWOP. *"This will affect the employee's LSL date… Could you please confirm?"* |
+| **Tue 8 Sep** | ⛔ **no reply.** Payroll restates the exclusion |
+| **Wed 9 Sep 09:20** | ⭐ **she emails the team about Christmas leave** |
+| **Thu 10 Sep 4:25 pm** | his email: *"No reply has been received from any recipient. The pay period cut-off has since passed."* |
+| ⭐⭐⭐ **Fri 11 Sep 11:47 / 12:01 / 12:27** | ⭐⭐⭐⭐ **three emails in FORTY MINUTES — leave, payroll cut-offs, shift swaps, the roster and a new starter** |
+
+⇒ ⭐⭐⭐ **Whatever explains the silence to Payroll, IT IS NOT UNAVAILABILITY, and it is not that
+leave and payroll administration was beyond reach that week. That is the category of work she was
+doing.**
+⛔⛔⛔ **STATE IT THAT WAY AND NO FURTHER. "She had time for everything except me" is the
+retaliation framing and it loses this the way it would lose the appeal.**
+
+## 12.2 ⭐⭐⭐⭐ THE ONE THAT MATTERS IS THE BACKFILL — AND IT IS NOT ABOUT THE LSL AT ALL
+> ⭐⭐⭐⭐ **A six-week contract, from the casual admin pool, starting Monday 14 September, TO BACKFILL
+> LEAVE.**
+
+⭐⭐⭐ **He has been certified FIT FOR DUTIES WITH RESTRICTIONS since 3 July 2026, on the Health
+Service's own form, has been available throughout, and has not been provided work.**
+⚠ **MSH's position of 15 July 2026 was that it *"could not facilitate"* his return.**
+⇒ ⭐⭐⭐⭐ **In the same week, a resourcing decision was made to bring someone in for six weeks.**
+
+⛔⛔ **That is a FACT ABOUT RESOURCING, not an allegation about anyone.** ⭐⭐⭐ **And it is the
+cleanest question he has been able to ask since July, because it cannot be answered badly.**
+
+## 12.3 ⚠⚠ THE ROSTER EMAIL CUTS BOTH WAYS — DO NOT REACH FOR IT
+⚠ ***"Thank you to all staff who I have been in consultation with for any shift changes / rostered
+shifts."*** ⚠⚠ **"Consultation" is the exact word at the centre of Stressor 1(a).**
+⛔⛔ **It is 2026, not 2024, and it is far more useful DEFENSIVELY than offensively** — if the
+Respondent ever runs *"she consults the team"*, the admitted facts of 2024 answer it.
+⛔⛔⛔ **DO NOT PUT IT IN ANY LETTER. Preserve it and leave it.**
+
+## 12.4 ⭐⭐⭐ AND THE CONTRADICTION THAT SITS ON THE FACE OF ALL FOUR
+⭐⭐⭐⭐ **He is on the Switchboard distribution list. He receives the roster, the leave reminders, the
+payroll cut-off and the Christmas leave call — as a current member of the team.**
+⇒ ⭐⭐⭐ **He is treated as a rostered employee for every purpose EXCEPT being paid and being given
+work.**
+
+## 12.5 ⭐⭐⭐⭐ WHAT TO DO WITH IT — ONE QUESTION, AND IT IS NOT AN ACCUSATION
+⛔ **Nothing goes out today reciting any of §12.1.** ⭐⭐⭐⭐ **One neutral request, and it is a request
+for WORK:**
+
+> ⭐⭐⭐ *"I note from the email to the team of 11 September 2026 that a six-week contract has been
+> arranged from 14 September 2026 to backfill leave. I remain certified fit for duties with
+> restrictions on the Employee Capability Checklist of 3 July 2026, and I remain available. Please
+> confirm whether that work, or any part of it, is within those restrictions, and if it is, that I
+> be allocated it."*
+
+⭐⭐⭐ **No adjective. No comparison. No motive. It asks for work and it puts the resourcing fact on
+the record in the same sentence.**
+
+## 12.6 ⛔⛔ AND THE LIVE DATE IS NOW MONDAY, NOT TODAY
+⭐⭐⭐⭐ **Her own email gives it: *"Payroll submission cut off is @ 1pm Monday 14th September."***
+⇒ ⭐⭐⭐ **That is the next opportunity for the two leave forms to be lodged and the LSL recalculated.**
+⇒ ⭐⭐⭐⭐ **If nothing arrives today on the 12 September deadline, ASK MS PETERING TO PUT THE TWO
+QUESTIONS IN HER OWN NAME ON MONDAY MORNING, BEFORE 1 PM.** ⭐⭐ **The cut-off is the deadline that
+actually bites, and it is three days away.**
