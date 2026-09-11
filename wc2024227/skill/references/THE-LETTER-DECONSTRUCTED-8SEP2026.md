@@ -776,3 +776,106 @@ it would forfeit the sequence.**
 ⭐⭐⭐ **File the letter and both response forms as served, with hashes**, and then complete §17.6:
 > ⭐⭐ **Measure the words under each heading.** ⭐⭐⭐ **The longest heading is where the anxiety
 > sits.** ⚠ **Prediction to test: Heading 3.** ⛔ **Do not report a proportion until it is counted.**
+
+---
+---
+
+# 19. ⭐⭐⭐⭐⭐ READ TO SOURCE AT LAST — AND FOUR CORRECTIONS TO §§15–17
+**11 September 2026 · source:
+`CASE_FILE/04_FROM_THE_RESPONDENT/01_response_to_the_notices_8SEP2026/2026-09-08_Regulator_COVER_LETTER_response_to_notices.pdf`
+— 2 pages, 617 words of body. ⛔⛔ THE PROVENANCE FLAG IS WITHDRAWN. §§15–17 are now corrected
+against the text.**
+
+> ⛔⛔ **I said the letter was not in the repository. It is, and it always was.** I searched
+> `documents/correspondence-2026/`, `drafts/out/` and `index/FULLTEXT.txt` — **none of which covers
+> `CASE_FILE/04_FROM_THE_RESPONDENT/`.** ⭐⭐⭐ **LESSON FOR EVERY FUTURE SESSION: the Respondent's
+> own documents live under `CASE_FILE/04`, and FULLTEXT does not index them. Search the tree, not
+> the index.**
+
+## 19.1 ⭐⭐⭐⭐ THE PROPORTIONS, COUNTED — AND MY PREDICTION WAS WRONG
+| Section | Words | Own prose |
+|---|---|---|
+| preamble / enclosure | 69 | 69 |
+| **The relevant law** | **218** | ⭐ **94** (124 is r 49 quoted verbatim) |
+| ⭐⭐⭐⭐ **Admissions are for the purposes of rule 49 only** | **133** | ⭐⭐⭐⭐ **133 — the most original drafting in the letter** |
+| **Admissions as to documents are limited to existence and wording** | **73** | 73 |
+| The appeal is a hearing de novo | **44** | 44 |
+| Reservation of rights | **48** | 48 |
+
+⛔ **§18 predicted Heading 3 would be longest. It is the second shortest.**
+⭐⭐⭐⭐ **The effort went into HEADING 2 — four bullets saying an admission is not a concession of
+relevance, admissibility, characterisation/inference, or accuracy/reliability/weight.**
+⇒ ⭐⭐⭐⭐ **What they worked hardest on is: *an admission is not an agreement about what it means*.
+That is the characterisation ground, and the word count says it is where the concern sits.**
+
+## 19.2 ⛔⛔ CORRECTION — "RESERVING TRUTH IS INCOHERENT" WAS WRONG
+⛔⛔ **§15.3 said they reserved the *truth* of admitted facts and that this was incoherent. THE
+LETTER DOES NOT SAY THAT.** What it says, verbatim:
+> *"Where the Respondent has admitted that a document contains particular words, that is an
+> admission of the existence and wording of that document only. **It is not an admission of the
+> truth of any statement, opinion, finding or assertion recorded in it**…"*
+
+⭐⭐⭐ **That is orthodox and correct.** Admitting that a document contains words is not admitting
+that what it records is true. ⛔ **The "incoherence" point is withdrawn.**
+⚠ **And the formal *Reservation of rights* heading reserves only *relevance or admissibility* —
+not truth, not weight.**
+
+## 19.3 ⛔ CORRECTION — HEADING 4 IS NOT "THE INTRUDER"
+⛔ **§17.3 read Heading 4 as a patch inserted after someone saw what had been admitted.** **The
+text does not support it.** It is **44 words**, the shortest section, proportionate to Heading 5,
+and it says only that nothing in the responses admits any finding in RD 69983 is correct or binding.
+⭐⭐ **Short, accurate, narrow, and plainly part of the plan.** ⛔ **Withdraw the inference.**
+
+## 19.4 ⭐⭐⭐⭐ WHAT SURVIVES — AND IT IS NOW PROVABLE FROM THE TEXT
+> **Heading 3, in full:** *"Where the Respondent has admitted that a document contains particular
+> words, that is an admission of the existence and wording of that document only. It is not an
+> admission of the truth of any statement, opinion, finding or assertion recorded in it **including
+> any statement by a treating medical practitioner, any finding recorded in Review Decision 69983,
+> or any statement made by an officer or employee of Metro South Hospital and Health Service**."*
+
+⭐⭐⭐⭐⭐ **THE GAP, EXACTLY: that paragraph is drafted for documents that RECORD STATEMENTS. It has
+nothing to say about documents that PERFORM ACTS.** An instruction to submit an AVAC is not a
+*"statement, opinion, finding or assertion"* whose truth is in question — **it is a direction, and a
+direction has no truth value.** ⇒ **The paragraph does not reach it, because it was not drafted to.**
+
+⭐⭐⭐⭐⭐ **AND THE SECOND HALF OF THE GAP IS BIGGER: Heading 3 is about the FORM 25. The 298
+admitted facts are the FORM 24.** Fact **190** is an admitted **fact** — *"That message states:
+'Please submit an AVAC to correct these shifts…'"* — not a document admission. ⇒ ⭐⭐⭐⭐ **Nothing
+in the letter limits the Form 24 facts at all.**
+
+## 19.5 ⭐⭐⭐ TWO DRAFTING POINTS IN THE TEXT
+1. ⭐ *"The enclosed documents **indicates** the Respondent's notice under rule 49(2)…"* —
+   subject-verb disagreement. **Worth nothing on its own; noted only for completeness.**
+2. ⭐⭐⭐ **A CONFLATION.** The enclosures are described as *"the Respondent's notice under rule
+   49(2) **disputing** those of the stated facts and documents that are not admitted."* ⭐⭐ **That
+   is accurate for the 5 facts and 14 documents refused.** ⚠ **But the same enclosures also
+   EXPRESSLY ADMIT 298 facts and 25 documents, and an express admission is not made "under rule
+   49(2)" — r 49(2) is the DEEMING provision that operates only where no disputing notice is
+   served.** ⭐ **The limitation probably still attaches, because r 49(1) frames the request as one
+   to admit "for the proceeding only".** ⛔⛔ **So do NOT run this as a point. It is a drafting
+   imprecision, not a door.**
+
+## 19.6 ⭐⭐⭐⭐ WHAT IS ABSENT — ALL FOUR CONFIRMED AGAINST THE TEXT
+✅ **No reason for any of the 14 authenticity refusals.** ✅ **No statement anywhere of what IS in
+issue.** ✅ **No mention of the five facts not admitted.** ✅ **No acknowledgment of, or reply to,
+EMAIL_0B or EMAIL_0C** — the letter never refers to them.
+
+## 19.7 ⭐⭐⭐⭐ THE ANSWER TO THE QUESTION PUT
+> *"is it a clear legal review"*
+
+⛔ **No — and it never claims to be.** ⭐⭐⭐ It announces its own purpose in its second paragraph:
+*"**So that there is no misunderstanding as to the effect of the enclosed responses**, the
+Respondent notes the following."* ⇒ **It is a note on EFFECT, and it does that job competently.**
+
+⭐⭐⭐ **COMPETENT:** r 49 quoted accurately and in full · *"As rule 49(1) makes clear on its face"*
+is a correct and well-made point · the four bullets are cleanly separated and cover distinct ground
+· Heading 3 names its three targets precisely rather than generally · no rhetoric, no hostility,
+correct register · served three days early.
+⚠ **NOT A REVIEW:** ⛔ **it states no case, identifies no issue, assesses no exposure, and gives no
+ground for a single refusal.** ⭐⭐⭐⭐ **A review tells you what the party's position is. This tells
+you only what the admissions do not do.**
+
+⭐⭐⭐⭐⭐ **THE ONE THING IT DOES GIVE HIM, AND IT IS UNCHANGED BY THE CORRECTIONS:** Heading 3
+names **three sources by name** — *the treating medical practitioners · the findings in Review
+Decision 69983 · statements by MSH officers and employees.* ⇒ **That is their own list of what they
+most need neutralised, written by them, and it is exactly the three pillars the case stands on.**
