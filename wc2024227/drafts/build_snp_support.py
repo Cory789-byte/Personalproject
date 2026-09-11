@@ -118,17 +118,20 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        'already held, please let me know and I will obtain it from the treating practice. I would '
        'rather be told what is missing than have the application held.'),
 
-     H('4A. &nbsp;The medical evidence is already held in myHR'),
-     P('Medical certificates for these absences were provided at the time and are held in myHR '
-       'against the leave records for these periods, including certificates submitted as '
-       'photographs. A copy of the work capacity certificate of Dr Peter Hawes signed '
-       '8 September 2024 is attached to this statement as an example. Further copies can be '
-       'provided on request.'),
-     P('If certificates were provided and are held against these periods, the question of how the '
-       'periods came to be recorded as leave without pay rather than sick leave without pay is the '
-       'question I raised with Payroll on 7 September 2026, and it remains open. '
-       '<b>Nothing in these two applications depends on that question being answered</b>, and I do '
-       'not ask that it be answered before the recoding is effected.'),
+     H('4A. &nbsp;The medical evidence, and where it is held'),
+     P('Four work capacity certificates are attached to this statement: <b>Dr Peter Hawes, 1 July '
+       '2024</b>; <b>Dr Ki Pang, 7 August 2024</b>; and <b>Dr Peter Hawes, 11 August and '
+       '8 September 2024</b>. Together they certify <b>no capacity for any work over the period '
+       '1 July to 6 October 2024</b>, each recording the stated date of injury as 18 June 2024 and '
+       'first presentation on 1 July 2024.'),
+     P('The same certificates are held by the Workers&rsquo; Compensation Regulator at items 7 and 8 '
+       'of its list of documents, and certificates for these absences were provided to Metro South '
+       'Health at the time. If anything further is required, please tell me what it is and I will '
+       'provide it.'),
+     P('The question of how these periods came to be recorded as leave without pay rather than sick '
+       'leave without pay is the question I raised with Payroll on 7 September 2026, and it remains '
+       'open. <b>Nothing in these two applications depends on that question being answered</b>, and I '
+       'do not ask that it be answered before the recoding is effected.'),
 
      H('5. &nbsp;The effect, on Payroll&rsquo;s own figures'),
      P('Payroll&rsquo;s calculation of 4 September 2026 records my commencement with Queensland Health '
@@ -166,10 +169,8 @@ S = [Paragraph('CORY SHEPHERD', NAME),
      Spacer(1, 8),
      Paragraph('Date: &nbsp;11 September 2026', SIGN),
      Spacer(1, 14),
-     Paragraph('<i>Attached: work capacity certificate of Dr Peter Hawes signed 8 September 2024 (2 pages), as an '
-               'example of the certificates already held in myHR against these periods. Further certificates, '
-               'including those of Dr Ki Pang dated 7 August 2024 and Dr Peter Hawes dated 1 July and '
-               '11 August 2024, can be provided on request.</i>', ADDR)]
+     Paragraph('<i>Attached: work capacity certificates of Dr Peter Hawes dated 1 July 2024, Dr Ki Pang dated '
+               '7 August 2024, and Dr Peter Hawes dated 11 August and 8 September 2024.</i>', ADDR)]
 
 doc.build(S)
 
@@ -190,10 +191,19 @@ pdf.docinfo['/ModDate'] = stamp
 pdf.save(OUT, linearize=False, fix_metadata_version=False,
          object_stream_mode=pikepdf.ObjectStreamMode.generate)
 
-# stitch the certificate on the end
+# stitch the four certificates, cropping the bundle footer off each page
+SCHED = 'out/SEND_9SEP2026/07_MEDICAL_SCHEDULE_AND_DOCUMENTS.pdf'
+CERT_PAGES = [8, 10, 11, 12]          # 0-indexed: bundle p9 (Hawes 1 Jul), pp11-13 (Pang, Hawes x2)
+FOOT = 34                              # points cropped from the foot of each page
 w = PdfWriter()
 for pg in PdfReader(OUT).pages: w.add_page(pg)
-for pg in PdfReader('out/pack_v2/04b_ATTACHMENT_4_Hawes_Work_Capacity_Certificate_signed_8Sep2024.pdf').pages:
+src = PdfReader(SCHED)
+for idx in CERT_PAGES:
+    pg = src.pages[idx]
+    lx, ly, ux, uy = (float(v) for v in pg.mediabox)
+    pg.mediabox.lower_left = (lx, ly + FOOT)
+    pg.cropbox.lower_left  = (lx, ly + FOOT)
+    pg.cropbox.upper_right = (ux, uy)
     w.add_page(pg)
 with open(OUT,'wb') as fh: w.write(fh)
 
