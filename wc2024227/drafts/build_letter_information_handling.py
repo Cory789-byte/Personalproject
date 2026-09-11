@@ -45,7 +45,7 @@ S = [Paragraph('CORY SHEPHERD', NAME),
      Paragraph('Handling of my personal, health and public interest disclosure information, '
                'and the authorities relied upon &nbsp;&ndash;&nbsp; MSH-INJ-5795', SUBJ),
      P('Dear Jacqui, Injury Management and HR,'),
-     P('This email is separate from my email yesterday on long service leave coding and Dr Krishnaiah. '
+     P('This letter is separate from my email yesterday on long service leave coding and Dr Krishnaiah. '
        'It deals only with how my personal, health and public interest disclosure information has been '
        'handled, and with the authorities Metro South Health has treated as giving it standing to do so. '
        'It does not ask anyone to decide the matters in that other email, and nothing here should delay them.'),
@@ -115,7 +115,7 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        '<i>Public Interest Disclosure Act 2010</i> makes that information confidential by default.'),
      P('The exceptions are narrow. A group HR email is not one of them. I do not set out the content of the '
        'disclosure here. That content is now documented. In the appeal those events are agreed facts. I will '
-       'not go over them in this email, and I am not asking anyone here to revisit them. The point is confined '
+       'not go over them in this letter, and I am not asking anyone here to revisit them. The point is confined '
        'to how the information has been handled since.'),
      P('I have not added anyone to Metro South Health&rsquo;s distribution list. Anyone who holds material '
        'about that disclosure from an Injury Management or LBH HR email holds it from Metro South Health, '
@@ -200,8 +200,8 @@ S = [Paragraph('CORY SHEPHERD', NAME),
      B('24 October 2024 &mdash; diagnosis of major depressive disorder with anxiety state.'),
      B('24 December 2024 &mdash; the Ethical Standards Unit determination.'),
      B('24 February 2025 &mdash; a return to work was confirmed for 7:00 am that day and did not proceed.'),
-     B('Since then &mdash; the costs of my health detriment, the costs of substantial family proceedings, and '
-       'the costs of the matters set out in this email, over more than a year.'),
+     B('Since then &mdash; the cost to my health, the loss of my housing, and the cost of the matters '
+       'set out in this letter, over more than a year.'),
      B('13 July 2026 &mdash; Metro South Health has paid me no wages for work since that date.'),
      P('I am not asking LBH HR to assess a claim against those costs and or place the figure on any of it. '
        'I record the human cost so that the handling is not treated as one missed pay. I am notifying the '
@@ -219,8 +219,8 @@ S = [Paragraph('CORY SHEPHERD', NAME),
                'information in the ordinary Part B process, that is the fund&rsquo;s request; and', BULL),
      Paragraph('(c) &nbsp;the statement of 13 August 2026 at 4:42 pm is withdrawn in writing to every person '
                'who received it.', BULL),
-     P('I am not asking, in this email, for a decision on long service leave or the SNP forms. Those matters '
-       'are in the separate email yesterday.'),
+     P('I am not asking, in this letter, for a decision on long service leave or the SNP forms. Those matters '
+       'were raised in my separate email yesterday.'),
      P('Ms Petering at Together Queensland is copied so that the union has the same notice.'),
      Spacer(1, 10),
      Paragraph('Kind regards,', SIGN), Spacer(1, 16),
