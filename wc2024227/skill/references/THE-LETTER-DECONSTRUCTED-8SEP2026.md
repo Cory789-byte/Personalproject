@@ -577,3 +577,93 @@ decisive, because there would be nothing at all on causation and the onus is his
 ⇒ ⭐⭐⭐⭐ **THE CORRECT STATEMENT: no witness makes the FACTS safe. The facts are ALREADY safe — they
 are admitted. What no witness removes is their ability to contradict his EFFECT evidence and his
 MEDICAL evidence. It does not remove cross-examination, the reasonableness submission, or his onus.**
+
+---
+---
+
+# 15. ⭐⭐⭐⭐ THE LETTER TESTED AGAINST THE ADMISSIONS THEMSELVES (11 September 2026)
+> Question put: *"why is the regulator letter completely wrong from what is admitted, or soon to be"*
+> ⛔⛔ **CORRECTION FIRST: it is not wrong. It is AIMED AT THE WRONG INSTRUMENT, and written a step
+> behind.** ⭐⭐⭐ **"Completely wrong" is a framing that would be punished if it were ever voiced —
+> the law in it is right. What it does not do is reach the thing that actually moved.**
+
+## 15.1 ⭐⭐⭐⭐ THE CENTRAL DEFECT — IT FENCES THE FORM 25 WHILE THE FORM 24 HAD ALREADY GONE FURTHER
+> ⭐⭐⭐ **Heading 3:** *"Admissions as to documents are **limited to existence and wording**."*
+
+⭐⭐⭐⭐ **Two independent reasons that reservation buys almost nothing:**
+1. ⭐⭐⭐⭐ **For an operative document, existence and wording ARE the whole of it.** A direction, an
+   instruction, a refusal — the act is performed in the words. **A direction has no truth value.**
+   ⇒ **There is nothing left over to reserve.**
+2. ⭐⭐⭐⭐⭐ **AND THE FACTS ADMITTED GO BEYOND EXISTENCE AND WORDING ANYWAY.** Fact 190 is not
+   *"the document at Tab X exists and contains these words."* It is: *"**That message states:
+   'Please submit an AVAC to correct these shifts for each fortnight…'**"* — and with it facts 183
+   and 184 fix **the sender, the addressee, the copy list, the date and the signature block.**
+   ⇒ ⭐⭐⭐⭐ **298 such facts are admitted. The Form 24 conceded authorship, addressee, date, time
+   and content. Heading 3 limits the Form 25 — the instrument where the damage was NOT done.**
+
+⇒ ⭐⭐⭐⭐⭐ **THAT IS THE DEFECT IN ONE LINE: the letter was written to fence the documents, after
+the facts had already been given away.**
+
+## 15.2 ⭐⭐⭐⭐ HEADING 4 — DE NOVO IS A REASON TO RE-DECIDE, NOT A REASON TO UN-SAY
+⭐⭐⭐ **The law is right.** s 550 makes it a hearing de novo and they are not bound by Review
+Decision 69983. ⛔⛔ **But they admitted its CONTENTS** — fact **295** (18 Feb 2026, *"admitted the
+contents of the Respondent's review unit decision"*) **and again on 8 September**, and facts
+**258–262** reproduce the findings:
+> *"The break between the shift on 17 March 2024 and 18 March 2024 **equated to 7 hours**."* **[258]**
+> *"Based on this, **I find the rostering of these two shifts amounted to unreasonable management
+> action**."* **[260]**
+> *"**you sustained a personal injury of a psychological nature**"* **[261]**
+> *"**your injury arose out of employment**, to the extent that it aros…"* **[262]**
+
+⭐⭐⭐⭐ **So the position is:** they may argue the Review Officer was **wrong**. ⛔ **They cannot
+deny that their own delegate, on this material, reached those conclusions.** ⇒ **A party inviting
+the Commission to reject its own delegate's reasoning, on facts it admits, has to say why — and
+that reason has to come from a witness.**
+
+## 15.3 ⭐⭐⭐ HEADING 5 — THE RESERVATION OF "TRUTH" IS THE INCOHERENT ONE
+The cover letter reserved **truth, relevance, admissibility, weight, characterisation and
+inference.**
+| Reserved | What it is worth |
+|---|---|
+| **relevance** | ⛔ nil — a matter for the Commission on any view |
+| **admissibility** | ⛔ nil — **proof of an admitted fact is dispensed with; admissibility does not arise** |
+| **weight** | ⛔ nil — an admitted fact is not weighed |
+| **characterisation, inference** | ⭐⭐⭐ **the only real ones — and they are the whole of their remaining case** |
+| ⭐⭐⭐⭐ **truth** | ⭐⭐⭐⭐⭐ **incoherent. A party cannot admit a fact and reserve its truth.** |
+
+⭐⭐⭐⭐ **This is the reservation that a statement of agreed facts would force out** — see
+`NARROWING-THE-ISSUES-the-proposal-and-its-timing.md` §1.1.
+
+## 15.4 ⭐⭐ HEADING 2 DEFENDS AGAINST A USE NEVER PROPOSED
+*"Admissions are for the purposes of rule 49 only."* ⭐ **True, and it is what the rule says.** ⛔
+**But an admission for this proceeding is exactly what was sought and exactly what binds this
+hearing.** ⇒ **It answers a question nobody asked.** ⭐ Heading 1 is the same — see §7.2: **r 49(3)
+has no operation between the parties.**
+
+## 15.5 ⭐⭐⭐⭐ AND THE METADATA EXPLAINS WHY
+⭐⭐⭐⭐ **The answers were finished at 16:42:04 and 16:43:04 on 7 September. The letter was last
+saved at 11:13:17 on 8 September — about 18½ hours later** (§1). ⇒ ⭐⭐⭐ **The letter was written
+by someone reading the completed answers. It fences what could still be fenced — the documents —
+because the facts were already gone.** ⛔⛔ **State the sequence. Never state who realised what.**
+
+---
+
+# 16. ⭐⭐⭐⭐ "OR SOON TO BE" — WHAT 30 SEPTEMBER MUST NOW LIVE WITH
+⭐⭐⭐⭐ **Whatever is filed on 30 September has to be consistent with two things they have already
+signed:**
+1. ⭐⭐⭐⭐ **298 admitted facts** — so the outline **cannot dispute what happened** without leave.
+2. ⭐⭐⭐⭐ **Their own reservation of "characterisation and inference"** — which is a statement, in
+   writing, that **meaning is the only thing left.**
+
+⇒ ⭐⭐⭐⭐⭐ **THE TEST TO APPLY ON 30 SEPTEMBER, AND IT IS A SINGLE QUESTION:**
+> **Does their outline argue about what happened, or only about what it meant?**
+
+| What lands | What it means |
+|---|---|
+| ⭐⭐⭐ **Only meaning** | **they have accepted the frame.** The hearing is s 32(5)(a) manner and causation, and nothing else |
+| ⚠⚠ **Any dispute of fact** | **it contradicts their own 8 September response** — ⭐⭐⭐ **and the contradiction is theirs to explain, not his to point out** |
+| ⚠⚠ **A witness list with Ms Taylor and/or Ms Reese** | ⭐ they intend to run meaning **through people who must first adopt their own documents** |
+| ⭐⭐⭐ **A bare or empty list** | ⭐⭐⭐ **the facts stand unexplained and the hearing is short** — ⚠ but see §14.6: that is not "everything accepted" |
+
+⛔⛔ **HE SAYS NONE OF THIS TO THEM.** ⭐⭐⭐ **§14.5 governs. The 30 September list is read, filed,
+and answered with the narrowing proposal — not with an argument about their letter.**
