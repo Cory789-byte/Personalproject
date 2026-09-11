@@ -6121,10 +6121,18 @@ employer records it going well; Taylor approves FT "very pleased" 27 Sep 2023. T
    with suggesting wording… recommending asking if he could retract the email." Punch is also on the
    15 May 15:41 PID-complaint forward. ⚠ Her call time to Punch NOT stated — do not assert order
    vs 15:41. PID-track; rule 1.
-2. 7 Aug 2023 5:11 PM Reese→Taylor: 8-month roster audit of Cory same day as the space request
-   ("in case he wishes to make a claim") + "can you send me an email of your recent communication
-   with Cory about contacting yourself about missed shifts, AS I COULD NOT FIND A COPY of this
-   email" — the claimed call-process communication could not be located by the Director in Aug 2023.
+2. 7 Aug 2023 5:11 PM Reese→Taylor: 8-month roster data sent to Taylor the same day as the space
+   request + "can you send me an email of your recent communication with Cory about contacting
+   yourself about missed shifts, AS I COULD NOT FIND A COPY of this email" — the claimed
+   call-process communication could not be located by the Director in Aug 2023.
+   ⛔⛔ CORRECTION 11 Sep 2026 — THE QUOTATION ABOVE WAS TRUNCATED AND THE TRUNCATION INVERTED THE
+   MEANING. Read to source (index/FULLTEXT.txt ~line 91280), the email says: "This just gives us a
+   guide as to how he has been rostered the past 8 months and also info about whether he routinely
+   picks up additional shifts, IN CASE HE WISHES TO MAKE A CLAIM FOR ADDITIONAL SHIFTS." It is a
+   claim for ADDITIONAL SHIFTS under cl 11.7, not a claim in the litigation sense. ⇒ This is NOT a
+   surveillance/audit document. It is the Director acting on his 12:21 pm cl 11.7 request the same
+   day, and it is FAVOURABLE. Never run it as adverse. See
+   skill/references/THE-511PM-EMAIL-read-to-source-11SEP2026.md.
 3. "Minimum 2 hours notice" appears only as Reese's 2025 recollection of "our Switchboard
    guidelines" — written Sick Leave Process V1.1 is 4 Feb 2025. Locate the 2024 written guideline
    or note its absence (disclosure/cross question).
