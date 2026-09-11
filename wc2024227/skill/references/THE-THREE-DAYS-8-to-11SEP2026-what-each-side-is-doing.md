@@ -159,3 +159,68 @@ date is the one that cannot move.**
    than anything else he has written this week.**
 4. ⭐⭐⭐ **The Regulator has taken no position on anything. Holding the filing was right. Nothing is
    owed until 25 and 30 September.**
+
+---
+
+# 7. ⭐⭐⭐⭐ IS MSH HOLDING OUT UNTIL THE APPEAL HEARING? — TESTED, AND THE ANSWER IS NO
+
+## 7.1 ⛔⛔ THE TIMING DEFEATS IT
+⛔⛔⛔ **THERE IS NO HEARING DATE. Direction 5 has not been reached. A contested hearing is 2027.**
+⇒ ⭐⭐⭐ **"Holding out until the hearing" would mean holding out TWELVE OR MORE MONTHS against a wage
+liability that ACCRUES THE WHOLE TIME.** ⛔ **That is not a saving. It is a growing exposure.**
+⇒ ⭐⭐ **And MSH is a NON-PARTY. It cannot file, cannot lead evidence, cannot be heard. It has
+almost nothing to gain from the appeal's timing.**
+
+## 7.2 ⛔⛔ AND FIVE THINGS A COORDINATED HOLD WOULD NOT DO
+| ⛔ | |
+|---|---|
+| ⛔⛔ | **Payroll would not have written at 2:24 pm on 8 September identifying the error and naming the remedy.** Payroll is MSH |
+| ⛔⛔ | **The same team would not have issued the contrary advice at 3:38 pm.** Coordination produces ONE position |
+| ⛔ | **Nobody would have recalled the 13 August email three minutes after sending it** |
+| ⛔ | **The ad hoc under PRN 24973005 would not have been processed on request** |
+| ⛔⛔⛔ | ⭐⭐⭐ **A STRATEGY NEEDS AN AUTHOR. No officer has taken a position on his employment since 15 July.** Hughes signed the RFMI; Roberts is Injury Management; Taylor is the line manager; Cridland is CE; Ruttan is Legal. **None of them has written a word committing the Service to anything since then** |
+
+## 7.3 ⭐⭐⭐⭐ WHAT IS ACTUALLY HAPPENING — A STUCK POSITION WITH NO OWNER
+⭐⭐⭐⭐ **One position was taken on 15 July 2026 and has never been revisited:** that because of the
+QSuper claim, **Metro South Health was not responsible for his pay.**
+⛔ **It was taken on a factual premise he had corrected the day before** — 13 July, 3:53 pm, the
+claim is not an active open paying claim.
+⇒ ⭐⭐⭐ **Nobody has revisited it because nobody has been asked in a way that FORCES a decision, and
+nobody wants to be the officer who reverses it.**
+
+## 7.4 ⭐⭐⭐⭐ AND THE DIFFERENCE IS OPERATIONAL, NOT SEMANTIC
+| | ⛔ A HOLD | ⭐ A VACUUM |
+|---|---|---|
+| **What ends it** | the thing it waits for arrives | ⛔⛔ **NOTHING. It does not end on its own** |
+| **What waiting does** | works | ⛔⛔⛔ **COSTS HIM, EVERY FORTNIGHT** |
+| **What breaks it** | pressure, or time | ⭐⭐⭐⭐ **A NAMED DECISION-MAKER, A BINARY QUESTION, A DATE, AND A CONSEQUENCE** |
+
+⇒ ⭐⭐⭐⭐ **HIS 10 SEPTEMBER EMAIL HAS THREE OF THE FOUR. The missing one is THE CONSEQUENCE — what
+happens on 12 September if nobody answers.**
+
+## 7.5 ⚠ THE ONE PLACE WHERE INERTIA AND INTEREST POINT THE SAME WAY
+⚠ **The RFMI.** Six weeks. Authority given **twice** — 12 and 24 August. The psychiatrist records
+that **he contacted Logan Hospital and Queensland Health did not respond.**
+⚠⚠ **A report from his treating psychiatrist confirming fitness for restricted duties would remove
+the stated basis for not providing work.**
+⛔⛔⛔ **DO NOT ASSERT THAT AS A MOTIVE ANYWHERE.** ⭐⭐⭐ **The 10 September email already does the
+only thing needed: it puts the binary — still required, or withdrawn in writing.** ⭐⭐ **Let the
+answer, or the absence of one, be the fact.**
+
+## 7.6 ⭐⭐⭐ THE ESCALATION THAT ACTUALLY WORKS AGAINST A VACUUM
+⛔ **Another email to the same list will not break it.** ⭐⭐⭐⭐ **What breaks a vacuum is a
+DECISION-MAKER WHO IS NOT INSIDE MSH.**
+| Option | |
+|---|---|
+| ⭐⭐⭐ **Together Queensland** | ⭐⭐ **Ms Petering is already copied on everything.** An industrial officer asking the same question changes WHO has to answer, and costs nothing |
+| ⭐⭐ **The Chief Executive** | the 3 August letter is unanswered in substance, and **Metro South Corro is now copied** on the 11 September email. The register is the pressure |
+| ⚠⚠ **An industrial dispute (non-payment of wages)** | ⭐ **the only step that certainly produces a decision-maker** — ⛔⛔ **but it changes the posture, and discipline 8 sequences the parallel tracks BEHIND the WC settlement. Weigh it; do not take it reflexively** |
+
+⇒ ⭐⭐⭐⭐ **Recommended: ask Ms Petering to put the SAME two questions — the leave forms, and the
+RFMI — in her own name, this week. It is the cheapest escalation available and it is the one that
+changes the identity of the person who must answer.**
+
+## 7.7 ⭐⭐⭐ THE ANSWER IN TWO LINES
+⭐⭐⭐⭐ **They are not holding out. There is nobody to do the holding.**
+⛔⛔ **Which is worse for him than a hold, because a hold ends and this does not — and every
+fortnight it continues is paid for out of his own accruals.**
