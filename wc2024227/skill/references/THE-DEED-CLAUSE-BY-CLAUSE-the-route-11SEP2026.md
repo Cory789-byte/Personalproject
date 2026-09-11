@@ -178,3 +178,183 @@ for the Settlement Sum calculation — not a new claim.**
    recited. Everything stays procedural and chronological.
 4. ⛔ **The December draft is never cited** (clause 20).
 5. ⛔ **Parallel tracks stay sequenced behind the WC settlement**, and rule 9 is never traded.
+
+---
+---
+
+# ⭐⭐⭐⭐ PART TWO — EXPANDED: WHY EACH MECHANISM ACTUALLY WORKS
+
+# 7. ⭐⭐⭐⭐ THE RELEASE: WHY "ARISING FROM THE DISMISSAL" IS A WALL WITH ONE DOOR IN IT
+
+## 7.1 ⭐⭐⭐ "The Dismissal" IS A DEFINED TERM, SO THE BOUNDARY IS NOT AT LARGE
+Recital D: *"The correspondence nominated a separation date being 20 September 2024 (**the
+Dismissal**)."* ⇒ ⭐⭐⭐⭐ **Clause 8 does not release claims connected with his employment, or with
+his absences, or with the events of 2024. It releases claims arising from one piece of
+correspondence and the separation it nominated.** A drafter who wanted more had the words available
+and did not use them.
+
+## 7.2 ⭐⭐⭐⭐ THE INJURY PREDATES THE DISMISSAL BY THREE AND A HALF MONTHS
+⭐⭐⭐⭐ **This is the load-bearing fact and it needs no carve-out at all.** The injury was sustained
+on **18 June 2024**. The Dismissal is **8 October 2024**. **A claim founded on an injury that was
+already complete cannot arise from an event that had not yet happened.** Every stressor pleaded —
+the retraction direction of 15 May, the pay obstruction through May–July, the meetings of 12 and
+16 July — sits on the earlier side of the line.
+⇒ ⭐⭐⭐ **The release is passed by chronology, before any question of construction arises.**
+
+## 7.3 ⭐⭐ THE CARVE-OUT IS THE SECOND LAYER, NOT THE FIRST
+*"excluding any common law personal injury claim, statutory Workers' Compensation claim, or any
+claim that cannot be excluded at law."*
+⭐⭐⭐ **This is unqualified in the executed Deed.** ⚠ It was **qualified** in the 9 December 2024
+draft, where personal injury claims *"arising out of or in any way related to the Abandonment
+Process or Reinstatement Application"* sat **inside** the released set. ⭐⭐⭐⭐ **Removing that
+qualification is the single most valuable thing achieved in the 13 February 2025 amendments.**
+⛔ **But the draft cannot be used to construe the executed Deed** — clause 20 makes it the entire
+agreement, and the draft is without-prejudice material. **It explains what he got. It is not an
+argument.**
+
+## 7.4 ⚠ ONE PRINCIPLE TO PULL BEFORE IT EVER GOES ON PAPER
+⚠⚠ There is long-standing High Court authority that **general words in a release are confined to
+the matters the parties actually had in contemplation**, so a release is not given an operation
+wider than its subject. ⛔⛔ **DO NOT CITE THIS FROM MEMORY.** ⭐ The chronology at §7.2 wins
+without it. **If it is ever needed, the authority is pulled and read in full first.**
+
+---
+
+# 8. ⭐⭐⭐ THE DEED POLL: WHY SUING AN INDIVIDUAL BUYS NOTHING
+
+⭐ **A deed poll is a one-sided promise that binds the maker in favour of people who never signed
+it.** Ordinarily a stranger to an agreement cannot enforce it. **Clause 17 removes that obstacle
+for every Beneficiary in clause 18** — each of them can plead clause 8 in their own right, without
+needing MSH to run the point for them.
+
+⇒ ⭐⭐⭐ **There is no tactical gain in choosing an individual defendant to route around the
+release.** ⭐⭐⭐⭐ **The release is escaped by what is pleaded, never by who is sued.** ⚠ This
+matters directly on the PID track, where s 42 creates personal liability: **the pleading must rest
+on pre-dismissal detriment whether the defendant is MSH or a person.**
+
+---
+
+# 9. ⭐⭐⭐⭐ CLAUSE 4 AND CLAUSE 5: WHY 5 GOVERNS
+
+## 9.1 ⭐⭐⭐ THEY ARE CONSECUTIVE AND DEAL WITH THE SAME MOMENT
+> **4.** *"The period from 13 December 2024 to 23 February 2025 will be treated as leave without pay."*
+> **5.** *"If the Applicant is not fit to return to the workplace on executing this deed, he will
+> apply for leave using the usual application process."*
+
+⭐⭐ **Clause 4 is descriptive** — it fixes a payment status for a window. ⭐⭐⭐ **Clause 5 is
+operative** — it imposes an obligation on him to do something, in the future, through a defined
+process.
+
+## 9.2 ⭐⭐⭐⭐ IF CLAUSE 4 SETTLED EVERYTHING, CLAUSE 5 WOULD HAVE NOTHING TO DO
+⭐⭐⭐⭐ **On the reading MSH would have to advance — that clause 4 exhaustively characterises the
+period — clause 5 is surplusage for that very period.** The parties provided a mechanism, in the
+next line, for him to apply for leave in the ordinary way. **An instrument is construed so its
+terms have work to do.** ⇒ **Clause 4 fixed that the period is unpaid; clause 5 provided how it
+would be characterised.**
+
+## 9.3 ⭐⭐⭐⭐ THE CONDITION IN CLAUSE 5 WAS SATISFIED — AND THE PROOF IS DATED THE DAY BEFORE
+Clause 5 is conditional: *"**If** the Applicant is not fit to return to the workplace **on
+executing this deed**…"*
+⭐⭐⭐⭐ **He executed on 14 February 2025. Dr Krishnaiah's report is dated 13 February 2025 — the
+day before — and records the continuing diagnosis, its severity, its functional effect and the
+treatment then in place.** ⇒ ⭐⭐⭐⭐ **The condition was enlivened on the day of execution, and the
+document proving it predates the signature by twenty-four hours.** **He did not return until
+24 February 2025.**
+⭐⭐ **Nothing about the clause 5 route depends on hindsight.**
+
+## 9.4 ⭐⭐ AND CLAUSE 15 REINFORCES IT
+*"The Applicant must execute all further documents required by the Health Service to give effect
+to this Deed."* ⭐⭐⭐ **Payroll has required leave forms. Lodging them is performance of clauses 5
+and 15 — not a new claim, not a variation, not a request for indulgence.** ⇒ **That is the
+register the applications are written in, and why they read as administrative.**
+
+---
+
+# 10. ⭐⭐⭐⭐ THE ARITHMETIC, IN FULL
+
+| Step | Working |
+|---|---|
+| Commencement | 25 March 2019 |
+| Ordinary eligibility | 25 March 2026 (7 years) |
+| Excluded, per Payroll 4 Sep 2026 | **189 days** = 24 + 92 + 73 |
+| Corrected date as it stands | **29 September 2026** |
+| Period 1: three months from 21 Jun 2024 | ends **21 Sep 2024**; period closes **20 Sep** ⇒ **all 92 days inside** |
+| Period 2: three months from 13 Dec 2024 | ends **13 Mar 2025**; period closes **23 Feb** ⇒ **all 73 days inside** |
+| Returned on recode | **165 days** |
+| Left excluded | **24 days** (18 May – 10 Jun 2022) |
+| ⭐⭐⭐⭐ Resulting date | **≈ 17 April 2026 — ALREADY PASSED** |
+| Balance then payable | **342.5518 hours** ≈ **9 weeks** at 76 hrs/fortnight |
+
+⚠⚠ **A THIRD PERIOD EXISTS AND IS NOT BEING OPENED.** The 2022 exclusion is 24 days of LWOP
+(18 May – 10 Jun 2022, 183 hrs across 9 takings). **If that absence was also medical, the same
+argument would return it and the date would fall back to 25 March 2026** — a difference of three
+weeks. ⛔⛔ **DO NOT RAISE IT NOW.** Payroll has put two periods on the table; adding a third
+invites a fresh review of all three and risks the 1pm Monday deadline. ⭐ **Note it, verify whether
+the 2022 absence was medical, and raise it only after the two recodes are effected.**
+
+---
+
+# 11. ⭐⭐⭐ THE TRAP IN TAKING THE LEAVE
+
+⭐⭐⭐⭐ **Long service leave is his own accrued entitlement. It is not wages.** Taking it while
+excluded from the workplace hands MSH the sentence *"he has been paid"* — and the leave, once
+taken, does not regenerate.
+
+**Three protections, all of which must be in place before a single hour is drawn:**
+1. ⭐⭐⭐ **The identical protest wording on every form, without variation** — applied for and taken
+   **under protest and without prejudice** to the wages claim, **with the right to seek
+   reinstatement of the leave taken expressly reserved.** ⚠ **Identical, because a reservation that
+   changes wording between forms invites the argument that the later one narrowed the earlier.**
+2. ⭐⭐ **The wages claim is pressed in parallel and never paused because leave is being paid.**
+   Being paid from his own accruals is the injury, not the answer to it.
+3. ⭐ **Ask Payroll whether long service leave at half pay is available** — it doubles the duration
+   at the same total cost to the balance, which matters if the exclusion continues.
+
+---
+
+# 12. ⭐⭐⭐ THE CLAUSE 2 AUDIT: HOW TO ASK, AND WHY IT IS SAFE
+
+⭐⭐⭐ **Frame it as enforcement, because clause 12 says enforcement is permitted.** One written
+request, to Payroll, asking for **the Settlement Sum calculation** and confirmation of each
+clause 2 item **with the date it was applied**. ⛔ **Not a grievance. Not a complaint. A request
+for a calculation the Health Service made and has never produced.**
+
+## 12.1 ⭐⭐⭐ SUPERANNUATION IS THE ITEM MOST OFTEN MISSED
+Clause 2(c)(i) pays *"the amount the applicant would have been paid in **wages**"* for 20 September
+to 13 December 2024. ⭐⭐⭐ **Wages for a period of restored service are ordinary time earnings, and
+superannuation is payable on them.** ⚠ **Check the fund statement for the contribution covering
+that quarter.** ⭐⭐ **If it is short, clause 12 expressly permits disclosure to the Australian
+Taxation Office** — so a superannuation guarantee shortfall can be reported **without breaching
+confidentiality, and without a fight.**
+
+## 12.2 ⭐⭐ WHY THE DEDUCTION UNDER 2(d) NEEDS CHECKING
+Clause 2(d) permits deduction of *"the **gross** amount of the credited leave balances, as
+calculated by the Health Service"*. ⭐⭐⭐ **It permits deduction of that amount and no other.**
+⚠ The calculation was MSH's to make and has never been shown. **Two things to confirm: that the
+deduction equalled the gross value of 54.16 + 54.16 hours, and that the $5,000 legal component was
+not reduced by it.**
+
+---
+
+# 13. ⭐⭐⭐⭐ THE ORDER OF OPERATIONS
+
+| When | What | Authority relied on |
+|---|---|---|
+| ⭐⭐⭐⭐ **Before 1pm Mon 14 Sep** | **The two SNP applications in myHR. Nothing else.** | Payroll 8 Sep 2026 + the four certificates |
+| After lodgement lands | **One email: the clause 2 audit and the Settlement Sum calculation** | cl 12 ("to enforce this Deed"), cl 15 |
+| Once the recode is effected | **The long service leave application**, with the protest wording | the corrected date |
+| Only if MSH raises it | **The clause 4 answer** — §§9.1–9.4 | cl 5, cl 15 |
+| Only after the two recodes | **The 2022 period**, if that absence was medical | the same argument |
+| ⛔ Behind the WC settlement | Everything on the parallel tracks | rule 8 |
+
+---
+
+# 14. ⛔⛔ THE SIX THINGS NOT TO DO
+1. ⛔⛔ **Do not put the Deed, or any clause of it, in front of Payroll, HR, the line manager or
+   myHR.** The applications need nothing from it.
+2. ⛔⛔ **Do not raise clause 4 first.** Raising it concedes there is something to answer.
+3. ⛔⛔ **Do not argue the two periods together.** Period 1 is outside the Deed and must not be
+   made to carry a deed argument.
+4. ⛔ **Do not cite the December draft** — clause 20, and it is without-prejudice material.
+5. ⛔ **Do not draw an hour of long service leave without the reservation wording.**
+6. ⛔ **Do not open the 2022 period before the two recodes are effected.**
