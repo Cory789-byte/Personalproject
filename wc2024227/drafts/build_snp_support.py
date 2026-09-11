@@ -114,9 +114,21 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        'in place.'),
      B('The period ends on <b>23 February 2025</b>, being the day before a return to work was '
        'confirmed for <b>7:00 am on 24 February 2025</b>.'),
-     P('If a work capacity certificate specific to this period is required, please let me know and I '
-       'will obtain it from the treating practice. I would rather be told what is missing than have '
-       'the application held.'),
+     P('If a work capacity certificate specific to this period is required in addition to what is '
+       'already held, please let me know and I will obtain it from the treating practice. I would '
+       'rather be told what is missing than have the application held.'),
+
+     H('4A. &nbsp;The medical evidence is already held in myHR'),
+     P('Medical certificates for these absences were provided at the time and are held in myHR '
+       'against the leave records for these periods, including certificates submitted as '
+       'photographs. A copy of the work capacity certificate of Dr Peter Hawes signed '
+       '8 September 2024 is attached to this statement as an example. Further copies can be '
+       'provided on request.'),
+     P('If certificates were provided and are held against these periods, the question of how the '
+       'periods came to be recorded as leave without pay rather than sick leave without pay is the '
+       'question I raised with Payroll on 7 September 2026, and it remains open. '
+       '<b>Nothing in these two applications depends on that question being answered</b>, and I do '
+       'not ask that it be answered before the recoding is effected.'),
 
      H('5. &nbsp;The effect, on Payroll&rsquo;s own figures'),
      P('Payroll&rsquo;s calculation of 4 September 2026 records my commencement with Queensland Health '
@@ -154,10 +166,10 @@ S = [Paragraph('CORY SHEPHERD', NAME),
      Spacer(1, 8),
      Paragraph('Date: &nbsp;11 September 2026', SIGN),
      Spacer(1, 14),
-     Paragraph('<i>Attached: work capacity certificate of Dr Peter Hawes signed 8 September 2024 (2 pages). '
-               'Further certificates of Dr Ki Pang dated 7 August 2024 and Dr Peter Hawes dated 11 August 2024 '
-               'can be provided on request. The certificate of Dr Peter Hawes dated 1 July 2024 is held by the '
-               'Workers&rsquo; Compensation Regulator at item 7 of its list of documents.</i>', ADDR)]
+     Paragraph('<i>Attached: work capacity certificate of Dr Peter Hawes signed 8 September 2024 (2 pages), as an '
+               'example of the certificates already held in myHR against these periods. Further certificates, '
+               'including those of Dr Ki Pang dated 7 August 2024 and Dr Peter Hawes dated 1 July and '
+               '11 August 2024, can be provided on request.</i>', ADDR)]
 
 doc.build(S)
 
