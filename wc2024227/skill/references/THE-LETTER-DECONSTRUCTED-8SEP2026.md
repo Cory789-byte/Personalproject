@@ -667,3 +667,98 @@ signed:**
 
 ⛔⛔ **HE SAYS NONE OF THIS TO THEM.** ⭐⭐⭐ **§14.5 governs. The 30 September list is read, filed,
 and answered with the narrowing proposal — not with an argument about their letter.**
+
+---
+---
+
+# 17. ⭐⭐⭐⭐ THE ARRANGEMENT AUDIT — WHAT THE SHAPE MEANS (11 September 2026)
+> Question put: *"it's not just the 298 facts, is it the shape of it"* — ⭐⭐⭐⭐ **Yes. The
+> arrangement carries more than the content does.**
+> ⚠⚠ **§17.6 cannot be completed without the source PDF — see §18.**
+
+## 17.1 ⭐⭐⭐⭐ THE ORGANISING PRINCIPLE IS HIS EMAIL, NOT THE ENCLOSURES
+⭐⭐⭐⭐ **A covering letter is organised around what it encloses: Form 24, then Form 25.** This one
+is not. Per `drafts/INTERNAL/2026-09-08_REGULATOR_LETTER_ADMISSIONS_SCHEDULE_evaluation.md` §8, its
+**two central headings answer, in substance, the paragraph of EMAIL_0B that stated the effect of
+admissions.**
+⇒ ⭐⭐⭐⭐ **The document is structured as a reply to a letter it never acknowledges.** ⭐⭐ **That is
+why it opens on *"the effect of the enclosed responses"* — "effect" is 0B's territory, not a
+transmittal word.**
+
+## 17.2 ⭐⭐⭐⭐ THE ORDER IS THE ORDER OF A REBUTTAL
+**1** the rule → **2** the scope of admissions generally → **3** the scope of document admissions →
+**4** the Review Decision → **5** a catch-all.
+⭐⭐⭐ **Each heading fences a smaller thing than the last.** ⇒ **That is the shape of someone
+working outward from a problem they cannot fix: state the general rule, narrow, narrow again,
+disown one specific document, then reserve everything else.**
+
+## 17.3 ⭐⭐⭐⭐⭐ HEADING 4 IS THE INTRUDER, AND IT MARKS WHAT WAS FOUND LATE
+⭐⭐⭐⭐ **Headings 1, 2, 3 and 5 are all about ADMISSIONS. Heading 4 is about ONE DOCUMENT —
+Review Decision 69983. It does not belong in a document about the effect of admissions.**
+⭐⭐⭐⭐ **And the timing places it:** the two response forms were complete at **16:42:04 and
+16:43:04 on 7 September**; the letter was written the next morning. ⇒ **Between those points
+someone read what had been admitted — facts 258–262, and fact 295 admitting the decision's contents
+in February — and saw that the most damaging admission was not a fact about Ms Taylor at all. It
+was their own decision.**
+⭐⭐⭐⭐⭐ **Heading 4 is the patch, and its position in the sequence is where the patch shows.**
+
+## 17.4 ⭐⭐⭐ THE CATCH-ALL AT POSITION 5 IS A CONFIDENCE SIGNAL
+⭐⭐⭐ **Four specific fences, then "and everything else as well."** ⇒ **A general reservation is
+written by a party who is not sure the specific ones did the job.**
+
+## 17.5 ⭐⭐⭐⭐ *"FOR THE PROCEEDING ONLY"* APPEARS THREE TIMES IN TWO PAGES
+⭐⭐⭐⭐ **A point made once is a position. Made three times, it is a worry about use somewhere
+else.** ⭐⭐⭐ And it matches the **first** thing she did: before answering a single fact, after ten
+days' silence, the opening move was **to ask whether the notices had been filed and who else had
+received them.**
+⇒ ⭐⭐⭐⭐ **The instinct on receiving 303 facts was not "are they true". It was "where has this
+gone."** ⛔⛔ **That is an observation about sequence. It is never stated as motive, and it is never
+put to them.**
+⚠⚠ **AND IT CUTS AT HIM TOO — rule: do not deploy the 8 September admissions in the s 89 process
+or the employment track without advice.** The repetition is a warning as much as a tell.
+
+## 17.6 ⭐⭐⭐⭐ THE NEGATIVE SPACE — WHAT A LETTER LIKE THIS WOULD NORMALLY CONTAIN
+| Absent | Weight |
+|---|---|
+| ⭐⭐⭐⭐ **any reason for any of the 14 authenticity refusals** | **14 refusals, no ground stated** |
+| ⭐⭐⭐ **any identified discrepancy, or a different copy** | — |
+| ⭐⭐⭐⭐⭐ **any statement of what IS in issue** | ⭐⭐⭐⭐⭐ **the central absence** |
+| ⭐⭐⭐ any proposal on directions, narrowing or the hearing | — |
+| ⭐⭐⭐ **any reply to EMAIL_0B or EMAIL_0C** | ⭐⭐⭐ 0B asked her to **name the filing rule**; there is none |
+| ⭐⭐ any explanation of the five facts not admitted | — |
+
+⭐⭐⭐⭐⭐ **THE SHAPE IN ONE LINE: the letter explains at length what the admissions do NOT mean,
+and never once says what the Respondent's case IS.** ⇒ **That is a damage-limitation document, not
+a position document.**
+
+## 17.7 ⭐⭐⭐⭐⭐ AND THE PRIZE — IT IS A MAP OF THEIR CONCERNS, DRAWN BY THEM
+⭐⭐⭐⭐⭐ **He did not have to work out which admissions hurt. They told him, by choosing what to
+fence.**
+| They fenced | ⇒ what they think is dangerous |
+|---|---|
+| ⭐⭐⭐⭐ **Heading 3 — the documents, *"limited to existence and wording"*** | ⭐⭐⭐⭐ **the operative documents** — and for those, existence and wording is the whole of it (§15.1) |
+| ⭐⭐⭐⭐⭐ **Heading 4 — Review Decision 69983** | ⭐⭐⭐⭐⭐ **their own decision, and facts 258–262** |
+| ⭐⭐⭐ **Heading 5 — characterisation and inference** | ⭐⭐⭐ **meaning — which is a written concession that meaning is all that is left** |
+| ⭐⭐⭐ **"for the proceeding only" ×3** | ⭐⭐⭐ **use of the admissions outside this appeal** |
+
+⭐⭐⭐⭐ **Four fences, four confirmations. The strongest reading of the letter is not that it is
+weak — it is that it is ACCURATE about where the weight sits, and it handed him that assessment for
+nothing.**
+
+## 17.8 ⛔⛔ THE RESOLVED READING — AND THE LIMIT ON IT
+⭐⭐⭐⭐ **Defensible, and provable from the documents:** *the letter is organised around his email
+rather than its own enclosures, one of its five headings is off-topic, and it post-dates the
+completed answers by about eighteen and a half hours.* ⇒ **Marks of a document assembled after the
+substantive decisions were made, by someone reading what had just been given away.**
+⛔⛔ **NOT defensible, and never said:** that anyone panicked, realised too late, or acted in bad
+faith. ⭐⭐⭐ **The sequence is the evidence. The state of mind is not his to assert, and asserting
+it would forfeit the sequence.**
+
+---
+
+# 18. ⚠⚠ A GAP IN THE FILE — FIX IT
+⚠⚠ **The Respondent's covering letter of 8 September 2026 does not appear to be filed in
+`documents/correspondence-2026/` with a SHA-256, although every other item in the thread is.**
+⭐⭐⭐ **File the letter and both response forms as served, with hashes**, and then complete §17.6:
+> ⭐⭐ **Measure the words under each heading.** ⭐⭐⭐ **The longest heading is where the anxiety
+> sits.** ⚠ **Prediction to test: Heading 3.** ⛔ **Do not report a proportion until it is counted.**
