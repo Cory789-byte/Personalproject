@@ -95,10 +95,10 @@ S = [Paragraph('CORY SHEPHERD', NAME),
 
 doc.build(S)
 
-CERTS = ['assets/certs/redacted/cert_1_hawes_01jul2024.png',
-         'assets/certs/redacted/cert_2_pang_07aug2024.png',
-         'assets/certs/redacted/cert_3_hawes_11aug2024.png',
-         'assets/certs/redacted/cert_4_hawes_08sep2024.png']
+CERTS = ['assets/certs/clean/cert_1_hawes_01jul2024.png',
+         'assets/certs/clean/cert_2_pang_07aug2024.png',
+         'assets/certs/clean/cert_3_hawes_11aug2024.png',
+         'assets/certs/clean/cert_4_hawes_08sep2024.png']
 buf = io.BytesIO(); c = _canvas.Canvas(buf, pagesize=A4)
 PW, PH = A4; M = 12*mm
 for path in CERTS:
