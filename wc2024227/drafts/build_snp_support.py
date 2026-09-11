@@ -98,11 +98,9 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        'from 1 July onward.'),
      B('Further work capacity certificates were issued on <b>7 August 2024 (Dr Ki Pang)</b> and on '
        '<b>11 August and 8 September 2024 (Dr Hawes)</b>.'),
-     B('Review Decision 69983 records that the certificate of 1 July 2024 indicated &ldquo;there was '
-       'no pre-existing factor or condition&rdquo;, and that this &ldquo;was maintained in all later '
-       'work capacity certificates&rdquo;.'),
-     B('My application for workers&rsquo; compensation was <b>lodged on 1 July 2024</b> and rejected '
-       'on 13 September 2024. That rejection is under appeal and is not a matter for this application.'),
+     B('Each certificate records that there was <b>no pre-existing factor or condition</b>.'),
+     B('The certificates record the stated date of injury as <b>18 June 2024</b> and first '
+       'presentation on <b>1 July 2024</b>.'),
 
      H('4. &nbsp;Application 2 &ndash; 13 December 2024 to 23 February 2025'),
      P('The absence was a continuation of the same medical condition:'),
@@ -124,10 +122,8 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        '8 September 2024</b>. Together they certify <b>no capacity for any work over the period '
        '1 July to 6 October 2024</b>, each recording the stated date of injury as 18 June 2024 and '
        'first presentation on 1 July 2024.'),
-     P('The same certificates are held by the Workers&rsquo; Compensation Regulator at items 7 and 8 '
-       'of its list of documents, and certificates for these absences were provided to Metro South '
-       'Health at the time. If anything further is required, please tell me what it is and I will '
-       'provide it.'),
+     P('Certificates for these absences were provided at the time. If anything further is required, '
+       'please tell me what it is and I will provide it.'),
      P('The question of how these periods came to be recorded as leave without pay rather than sick '
        'leave without pay is the question I raised with Payroll on 7 September 2026, and it remains '
        'open. <b>Nothing in these two applications depends on that question being answered</b>, and I '
@@ -191,20 +187,26 @@ pdf.docinfo['/ModDate'] = stamp
 pdf.save(OUT, linearize=False, fix_metadata_version=False,
          object_stream_mode=pikepdf.ObjectStreamMode.generate)
 
-# stitch the four certificates, cropping the bundle footer off each page
-SCHED = 'out/SEND_9SEP2026/07_MEDICAL_SCHEDULE_AND_DOCUMENTS.pdf'
-CERT_PAGES = [8, 10, 11, 12]          # 0-indexed: bundle p9 (Hawes 1 Jul), pp11-13 (Pang, Hawes x2)
-FOOT = 34                              # points cropped from the foot of each page
+# append the four certificates, rebuilt at stencil resolution on clean A4 pages
+from reportlab.pdfgen import canvas as _canvas
+from reportlab.lib.utils import ImageReader
+import io as _io
+CERTS = ['assets/certs/cert_1_hawes_01jul2024.png',
+         'assets/certs/cert_2_pang_07aug2024.png',
+         'assets/certs/cert_3_hawes_11aug2024.png',
+         'assets/certs/cert_4_hawes_08sep2024.png']
+buf = _io.BytesIO(); c = _canvas.Canvas(buf, pagesize=A4)
+PW, PH = A4; M = 12*mm
+for path in CERTS:
+    ir = ImageReader(path); iw, ih = ir.getSize()
+    sc = min((PW-2*M)/iw, (PH-2*M)/ih)
+    w_, h_ = iw*sc, ih*sc
+    c.drawImage(ir, (PW-w_)/2, (PH-h_)/2, w_, h_, preserveAspectRatio=True)
+    c.showPage()
+c.save(); buf.seek(0)
 w = PdfWriter()
 for pg in PdfReader(OUT).pages: w.add_page(pg)
-src = PdfReader(SCHED)
-for idx in CERT_PAGES:
-    pg = src.pages[idx]
-    lx, ly, ux, uy = (float(v) for v in pg.mediabox)
-    pg.mediabox.lower_left = (lx, ly + FOOT)
-    pg.cropbox.lower_left  = (lx, ly + FOOT)
-    pg.cropbox.upper_right = (ux, uy)
-    w.add_page(pg)
+for pg in PdfReader(buf).pages: w.add_page(pg)
 with open(OUT,'wb') as fh: w.write(fh)
 
 # scrub again after the merge
