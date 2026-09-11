@@ -288,3 +288,65 @@ the wages dispute.** ⭐ **Discipline 8 — the tracks stay sequenced.**
 2. ⛔⛔ **It cannot cause one. It is not a party and it cannot instruct the Regulator.**
 3. ⭐⭐⭐ **And it is currently doing the opposite of what that interest would dictate — which is why
    the employment conduct should be read as an unowned file, not as a plan.**
+
+---
+
+# 9. ⭐⭐⭐⭐ "THE CONDUCT COULD BE THEIR WAY OF GETTING THE APPEAL ALLOWED" — TESTED
+
+⭐⭐⭐ **The mechanism proposed: acceptance moves him onto workers' compensation, off their payroll,
+and the employment problem becomes WorkCover's.** ⛔ **It fails on three legs, and the evidence that
+it fails is MSH's own sentence.**
+
+## 9.1 ⛔⛔⛔ LEG ONE — ACCEPTANCE ENGAGES AN OBLIGATION THEY HAVE EXPRESSLY DENIED
+> ⭐⭐⭐⭐ **MSH's position, 15 July 2026:** the WCRA rehabilitation obligation *"applies to workers
+> with **accepted** workers' compensation claims, and **does not extend to me**."*
+
+⇒ ⭐⭐⭐⭐ **ACCEPTANCE REVERSES THAT SENTENCE.** ⭐⭐⭐ **It engages the employer's statutory
+rehabilitation and SUITABLE-DUTIES obligations** (`WHAT-ACCEPTANCE-ACTUALLY-DELIVERS.md` §1.4 —
+*"the single most useful practical consequence"*).
+⇒ ⛔⛔ **An accepted claim gives MSH MORE obligation to provide work, not less. Nobody engineers a
+result that hands them a duty they are currently disclaiming.**
+
+## 9.2 ⛔⛔ LEG TWO — IT DOES NOT PAY FOR THE 2026 EXCLUSION, SO IT SOLVES NOTHING FOR THEM
+⭐⭐⭐ **Weekly compensation requires CERTIFIED INCAPACITY. He is certified FIT WITH RESTRICTIONS
+since 3 July 2026.**
+⇒ ⛔⛔⛔ **THE 2026 LOSS IS A WITHHELD-WAGES PROBLEM, NOT A COMPENSATION PROBLEM.** It is recovered,
+if at all, on the **employment track** — Award, agreement, grievance, dispute.
+⇒ ⭐⭐⭐ **Acceptance would backdate compensation for the 2024–Feb 2025 incapacity and would not
+discharge one dollar of the current wages claim.** ⛔ **It does not get them out of anything.**
+
+## 9.3 ⛔⛔⛔ LEG THREE — IT OPENS THE DOOR THEY MOST NEED SHUT
+⭐⭐⭐⭐ **Acceptance is the gateway to common law damages** (limitation ~18 Jun 2027) — **the one
+exposure where MSH, not WorkCover, is the target.**
+⇒ ⛔⛔ **Trading a fortnightly wages liability for a damages gateway is a catastrophic trade. No
+rational actor makes it.**
+
+## 9.4 ⭐⭐⭐ BUT THE INSTINCT BEHIND THE QUESTION IS SOUND, AND IT IS DOCUMENTED
+⭐⭐⭐⭐ **MSH HAS DEMONSTRABLY USED "HE HAS A CLAIM" AS A REASON NOT TO PAY.** They did it on
+**15 July 2026** with the **QSuper** claim: *"because of that claim Metro South Health was not
+responsible for your pay."*
+⇒ ⭐⭐⭐ **The behavioural pattern he identifies is REAL. It is simply that applying it to the WC
+claim would rebound on them.**
+
+## 9.5 ⭐⭐⭐⭐ AND THE FORWARD-LOOKING POINT, WHICH IS THE VALUABLE PART
+⛔⛔ **IF THE APPEAL IS ALLOWED, EXPECT MSH TO SAY *"he is on workers' compensation now — not our
+problem."*** ⭐⭐⭐ **The three answers are pre-built and must be given in this order:**
+1. ⭐⭐⭐ **There is no weekly compensation for this period.** Compensation requires certified
+   incapacity; he is certified **fit with restrictions**.
+2. ⭐⭐⭐⭐ **Acceptance ENGAGES the rehabilitation and suitable-duties obligation MSH said on 15 July
+   did not extend to him.** ⇒ **Quote their own sentence back.**
+3. ⭐⭐⭐ **The wages claim is an employment-track claim and is unaffected by acceptance.** ⭐⭐ **And
+   every leave day taken since 13 July is reserved under protest.**
+
+## 9.6 ⭐⭐⭐⭐ THE RESOLVED POSITION — AND IT IS A THIRD THING, NOT A HOLD AND NOT A PLAN
+⭐⭐⭐⭐ **The best explanation of the conduct is INDIFFERENCE TO THE APPEAL'S OUTCOME.**
+| | |
+|---|---|
+| ⭐⭐⭐ | **Either result costs MSH nothing directly** — WorkCover Queensland is the insurer |
+| ⭐⭐⭐⭐ | **The downstream consequences are abstract and years away. The immediate problem — an employee they do not want to place — is present** |
+| ⭐⭐⭐⭐ | **Injury Management is solving THIS FORTNIGHT. Nobody at MSH is pricing 2027** |
+
+⇒ ⭐⭐⭐⭐ **Different directorate, different risk, different time horizon. The officer handling the
+employment file does not carry the appeal's consequences and is not thinking about them.**
+⇒ ⭐⭐⭐ **That explains the conduct better than a hold (§7) and better than a plan (§9). And it
+points to the same remedy: a decision-maker who is senior enough to hold BOTH horizons at once.**
