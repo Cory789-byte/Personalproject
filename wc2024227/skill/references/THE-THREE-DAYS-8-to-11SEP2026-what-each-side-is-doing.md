@@ -393,3 +393,49 @@ TO SOMEONE WHO CAN SEE THE WHOLE FILE.**
 IT.** ⭐⭐⭐ **He is now drawing long service leave, which is finite.**
 ⇒ ⭐⭐⭐⭐ **Work out the horizon in weeks — LSL plus remaining accruals at the current burn — and let
 that number, not their conduct, set the date by which an external decision-maker is engaged.**
+
+---
+
+# 11. ⭐⭐⭐ DID THE EMAIL OF 11 SEPTEMBER BREAK IT? — NO, BUT IT DID THE ONE THING THAT COULD
+
+## 11.1 ⚠ AGAINST THE FOUR-PART TEST (§7.4) IT SCORES THREE AGAIN
+| | |
+|---|---|
+| ⛔ **Named decision-maker** | ⛔ **No.** Same list — Roberts, Injury Management, LBH HR |
+| ⭐⭐⭐ **Binary question** | ⭐⭐ **Yes, and (c) is the sharpest thing in it** — *"the statement of 13 August 2026 at 4:42 pm is **withdrawn in writing to every person who received it**."* **That is a yes/no ACT, not an opinion** |
+| ⭐⭐ **A date** | ⭐ **Yes — 18 September** |
+| ⛔⛔ **A consequence** | ⛔⛔⛔ **NO. Still missing. Same gap as 10 September** |
+
+## 11.2 ⭐⭐⭐⭐ BUT THE `metrosouthcorro` CC IS THE REAL MOVE
+⭐⭐⭐ **It lands in the Chief Executive's correspondence register — the same register that
+acknowledged the 3 August s 89 conflict letter *at the Chief Executive's personal direction*,
+within 67 minutes, and has never answered it in substance.**
+⇒ ⭐⭐⭐⭐ **The 11 September email is now the SECOND DATED, UNANSWERED ITEM from the same
+correspondent in the same monitored queue, on a related subject.** ⭐⭐ **Registers are tracked. Two
+open items from one person with dates attached is the shape of thing that generates an internal
+enquiry.**
+
+## 11.3 ⭐⭐⭐⭐ AND THE EFFECT THAT MATTERS MOST — THE WHOLE PICTURE IS FINALLY ON ONE SCREEN
+⭐⭐⭐ **Corro now reads, in one document: the PID and s 65; the fund and the Employee Capability
+Checklist; the group-list disclosure and its recall; the unactioned RFMI; and the sentence *"Since
+3 July 2026 I have been certified fit for duties with restrictions, I have been available, and
+Metro South Health has not provided me with work."***
+⇒ ⭐⭐⭐⭐ **NOBODY AT MSH HAS PREVIOUSLY HAD ALL OF IT IN ONE PLACE.** ⭐⭐⭐ **That is precisely the
+condition §10.4 identified as missing.**
+
+## 11.4 ⛔⛔ THE HONEST LIMITS, AND ONE REAL RISK
+1. ⛔ **Nothing happens before 18 September.** The email does not move tomorrow.
+2. ⛔⛔ **The money problem is the 12 SEPTEMBER deadline — the two leave forms — and this email does
+   not touch it.**
+3. ⚠⚠ **RISK: a privacy complaint can SLOW the payroll fix**, by giving HR a reason to route the
+   whole file to legal or privacy, which is slower than Payroll acting on a manager's confirmation.
+   ⭐⭐⭐ **He saw this and wrote the protective sentence — *"it does not ask anyone to decide the
+   matters in that other email, and nothing here should delay them."*** ⚠ **That sentence is
+   correct and may still not survive contact with an officer who escalates on reading a privacy
+   complaint. WATCH FOR IT.**
+
+## 11.5 ⭐⭐⭐⭐ SO THE NEXT MOVE IS UNCHANGED AND IT IS TOMORROW
+⭐⭐⭐ **If nothing arrives on the two leave forms by close of business Friday 12 September, the
+consequence to attach is the one that costs nothing and changes WHO must answer:**
+⇒ ⭐⭐⭐⭐ **ASK MS PETERING TO PUT THE SAME TWO QUESTIONS — THE LEAVE FORMS, AND THE RFMI — IN HER
+OWN NAME.** ⛔ **Not another email to the same list.**
