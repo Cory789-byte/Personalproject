@@ -70,9 +70,8 @@ S = [Paragraph('CORY SHEPHERD', NAME),
        '8 September 2024. They record the stated date of injury as 18 June 2024, first presentation on '
        '1 July 2024, no pre-existing factor or condition, and <b>no functional capacity for any type of '
        'work over the period 1 July to 6 October 2024</b>. The second period was a continuation of the '
-       'same condition, under the care of a treating specialist from 24 October 2024, and it ends on '
-       '23 February 2025 &ndash; the day before my return to work at 7:00 am on 24 February 2025. If '
-       'anything further is required, please tell me what it is and I will provide it.'),
+       'same condition, under the care of a treating specialist from 24 October 2024. If anything '
+       'further is required, please tell me what it is and I will provide it.'),
      P('<b>Effect.</b> Payroll records commencement on 25 March 2019 and 189 days presently excluded, '
        'moving the long service leave date to 29 September 2026. Each of these two periods falls '
        'entirely within its own first three months, so on Payroll&rsquo;s stated approach 165 of those '
