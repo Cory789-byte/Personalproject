@@ -671,6 +671,20 @@ and answered with the narrowing proposal — not with an argument about their le
 ---
 ---
 
+> ⛔⛔⛔ **PROVENANCE FLAG, 11 September 2026 — READ BEFORE RELYING ON §§15–17.**
+> ⛔⛔ **The Respondent's covering letter of 8 September 2026 IS NOT IN THIS REPOSITORY AND HAS NOT
+> BEEN READ IN THIS SESSION.** The uploads hold the 11:24 covering **email** only
+> (`Outlook_Document274`); the letter was an attachment and was never supplied.
+> ⚠⚠ **Everything in §§15–17 is built on the structure recorded in Parts 1–3 of this file and in
+> `drafts/INTERNAL/2026-09-08_REGULATOR_LETTER_ADMISSIONS_SCHEDULE_evaluation.md` §8 — both written
+> when the letter WAS in front of the author. That is WORKING THEORY DERIVED FROM A SECONDARY
+> RECORD, not a reading to source.**
+> ⭐⭐⭐ **The structural findings are probably sound — the headings and the quoted fragments are
+> consistent across two independent internal notes. The PROSE has never been assessed and no
+> statement about how it is written is supported.**
+> ⭐⭐⭐⭐ **ACTION: obtain the letter, file it in `documents/correspondence-2026/` with a SHA-256
+> alongside both response forms as served, and re-run §§15–17 against the text.**
+
 # 17. ⭐⭐⭐⭐ THE ARRANGEMENT AUDIT — WHAT THE SHAPE MEANS (11 September 2026)
 > Question put: *"it's not just the 298 facts, is it the shape of it"* — ⭐⭐⭐⭐ **Yes. The
 > arrangement carries more than the content does.**
