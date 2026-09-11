@@ -146,7 +146,7 @@ far is the textbook behaviour of each.**
 |---|---|
 | Repeat player **resists disclosure** | ⭐ The 64G was resisted; MSH's objection was signed by the **Chief Executive** |
 | Repeat player **litigates procedure, not merits** | ⭐ The objection, the extension requests, the authenticity dispute |
-| Repeat player **settles what would make an embarrassing record** | ⭐⭐⭐⭐ **303 deemed admissions under r 49(2) are exactly that** |
+| Repeat player **settles what would make an embarrassing record** | ⭐⭐⭐⭐ **298 of 303 facts admitted on 8 September 2026 are exactly that** |
 | One-shotter **equalises only through the record** | ⭐⭐⭐⭐ The 9 September filing, the admissions, the medical schedule |
 | Delay costs the repeat player little | ⭐ Seventeen months and counting |
 
@@ -154,7 +154,7 @@ far is the textbook behaviour of each.**
 1. ⭐⭐⭐⭐ **Costs follow the event** in workers' compensation appeals (Guide Part 10; reg 132).
    ⇒ **The attrition advantage is removed. A one-shotter who can recover costs is a funded
    litigant.**
-2. ⭐⭐⭐⭐ **The deemed admissions are rule-like, not fact-like.** They bind in this matter and
+2. ⭐⭐⭐⭐ **The admissions are rule-like, not fact-like.** They bind in this matter and
    they are embarrassing beyond it. ⇒ **Galanter predicts that a repeat player settles precisely
    this case.**
 
@@ -202,3 +202,16 @@ doctor.** ⭐⭐ The moment a self-represented appellant offers a theory of inst
 he stops being a witness to facts and becomes an advocate of a thesis — and the thesis is the
 thing that gets tested, instead of the twenty days.
 ⭐⭐⭐⭐ **The file wins by chronology. The lens is for knowing which chronology to build.**
+
+---
+
+> ⛔⛔ **CORRECTION, 11 September 2026.** Earlier in this file, and twice in conversation, I
+> described the Form 24 admissions as **deemed admissions under r 49(2)**. ⛔ **That is wrong.**
+> The notice was served **28 August 2026 at 1:47 pm** and the Regulator's response was served
+> **8 September 2026 at 11:24 am — within the 14 days.** ⇒ ⭐⭐⭐ **They are actual, considered
+> admissions, not deemed ones: 298 of 303 facts admitted, five not admitted (154, 228, 229, 230,
+> 231); 25 of 39 documents admitted, 14 disputed as to authenticity.** ⭐⭐ **Considered admissions
+> are in one respect stronger than deemed ones — they were made deliberately, by a represented
+> party, after eleven days.** ⚠ **But the cover letter reserves truth, relevance, admissibility,
+> weight, characterisation and inference, and limits the document admissions to "existence and
+> wording". Never state the position without that reservation attached.**
