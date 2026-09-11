@@ -224,3 +224,67 @@ changes the identity of the person who must answer.**
 ⭐⭐⭐⭐ **They are not holding out. There is nobody to do the holding.**
 ⛔⛔ **Which is worse for him than a hold, because a hold ends and this does not — and every
 fortnight it continues is paid for out of his own accruals.**
+
+---
+
+# 8. ⭐⭐⭐⭐ WOULD MSH PREFER THE APPEAL SETTLED? — YES, STRONGLY. AND IT CANNOT CAUSE ONE.
+
+## 8.1 ⭐⭐⭐⭐ WHAT A SETTLEMENT SAVES THEM, AND IT IS NOT THE COMPENSATION
+⛔ **MSH pays nothing on the claim. WorkCover Queensland is the insurer** (Amy Mo, Claims
+Representative; MSH holds an employer portal). ⇒ **Acceptance costs MSH no compensation directly.**
+
+⭐⭐⭐⭐ **What a settlement saves is everything that a HEARING would produce:**
+| ⭐ | A settlement means… |
+|---|---|
+| ⭐⭐⭐⭐ | ⛔ **NO FINDINGS.** No published QIRC decision naming Metro South Health, its managers and the Switchboard |
+| ⭐⭐⭐⭐ | ⛔ **Ms Taylor and Ms Reese are NEVER CROSS-EXAMINED** |
+| ⭐⭐⭐ | ⛔ **MSH's record-keeping is never tested** — and on [30:16] it would have to call evidence to justify its own objection |
+| ⭐⭐⭐ | ⛔ **The 298 admissions stay admissions *"for this proceeding only"* and never become FINDINGS** |
+| ⭐⭐⭐⭐ | ⛔⛔ **And the real one: the COMMON LAW CLAIM.** ⭐⭐⭐ **Acceptance is the gateway** (limitation ~18 Jun 2027). ⭐⭐⭐⭐ **A damages claim against MSH with a QIRC finding of unreasonable management action already on the record is materially worse for MSH than the same claim without it** |
+
+⇒ ⭐⭐⭐ **MSH's exposure is not in the appeal. It is DOWNSTREAM OF the appeal — and the appeal is
+what makes the downstream claim viable and pre-proves part of it.**
+
+## 8.2 ⛔⛔ BUT IT HAS NO MECHANISM
+| ⛔ | |
+|---|---|
+| ⛔⛔⛔ | **MSH is a NON-PARTY.** It cannot offer, cannot settle, cannot discontinue |
+| ⛔⛔ | **It cannot instruct the Regulator.** The Regulator is a separate statutory office which **"must act independently when making a decision under this Act"** (s 326(4) WCRA) and carries model litigant obligations |
+| ⛔ | **It was made a spectator on 7 August** and said nothing substantive |
+
+⇒ ⭐⭐⭐⭐ **MSH WOULD MUCH PREFER A SETTLEMENT AND HAS NO WAY TO BRING ONE ABOUT.**
+
+## 8.3 ⭐⭐⭐⭐ AND THE EMPLOYMENT CONDUCT RUNS AGAINST THAT INTEREST — WHICH SETTLES THE QUESTION
+⭐⭐⭐ **If MSH wanted the appeal gone, the rational play is to make his position EASIER: pay him,
+provide the restricted duties its own form certified, answer the RFMI, remove the grievances that
+feed the record.**
+⛔⛔ **Instead every unpaid fortnight generates NEW, contemporaneous, documented material — and it
+is the material that builds the downstream damages picture and the employment track.**
+
+⇒ ⭐⭐⭐⭐ **THE CONDUCT IS AGAINST MSH'S OWN INTEREST IN THE APPEAL.** ⇒ ⭐⭐⭐ **That is further proof
+of §7: nobody is running both files. An employer that was coordinating would not be manufacturing
+evidence against itself while hoping the case goes away.**
+
+## 8.4 ⭐⭐⭐⭐ THE OPERATIONAL PAYOFF — AND IT COMES FROM HER OWN EMAIL
+> ⭐⭐⭐⭐ **Matheson, 10 September 2026:** *"…to enable me time to review this request and **if needed
+> reach out to MSH in relation to the requested documents**."*
+
+⭐⭐⭐⭐ **THAT IS THE CHANNEL.** ⭐⭐⭐ **MSH has ignored him since 15 July. It will not ignore the
+Regulator — a statutory office, in a live proceeding, with the Commission's 7 August indication on
+the record that the Regulator is the starting point.**
+
+⇒ ⭐⭐⭐⭐ **RULE: anything he wants FROM MSH on documents goes through the REGULATOR'S request, not
+direct.** ⭐⭐ **He has already built that route — the 9 September request letter asks the Regulator
+to *"produce or confirm the copy held by it or by Metro South Health."* ⇒ Leave it to run to
+25 September untouched. It is doing work he cannot do himself.**
+
+⛔⛔ **And keep the two entirely separate in correspondence.** ⭐⭐⭐ **The employment emails must
+never reference the appeal's settlement posture, and the appeal correspondence must never reference
+the wages dispute.** ⭐ **Discipline 8 — the tracks stay sequenced.**
+
+## 8.5 ⭐⭐⭐ THE ANSWER IN THREE LINES
+1. ⭐⭐⭐⭐ **Yes — MSH would much prefer it settled, because settlement buys silence: no findings, no
+   cross-examination, and no platform for the common law claim.**
+2. ⛔⛔ **It cannot cause one. It is not a party and it cannot instruct the Regulator.**
+3. ⭐⭐⭐ **And it is currently doing the opposite of what that interest would dictate — which is why
+   the employment conduct should be read as an unowned file, not as a plan.**
