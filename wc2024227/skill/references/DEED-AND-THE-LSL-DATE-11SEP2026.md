@@ -57,3 +57,60 @@ non-disparagement clause. ⭐ **The SNP applications stand entirely on Payroll's
 email and the four work capacity certificates — they need nothing from the deed.** If period 2 is
 refused *by reference to* clause 4, the reply is §4 above, and it is made by whoever raises the
 deed first, not by him.
+
+---
+
+# 6. ⭐⭐⭐⭐ ADDENDUM — "THE DEED SAID ALL WOULD BE CREDITED INCLUDING MY LSL"
+**Checked against the executed deed, rendered and read page by page, 11 September 2026.**
+
+## 6.1 ⛔ CLAUSE 2(a) HAS ONLY TWO SUBPARAGRAPHS
+Page 1 of the deed ends:
+> *"(a) Credit leave balances paid out to the Applicant on 23 October 2024 as follows;*
+> *(i) annual leave: 54.16 hours.*
+> *(ii) leave loading: 54.16 hours"*
+
+⭐ **Page 2 opens at (b).** There is no (iii). ⛔ **Long service leave is not named anywhere in the
+deed.** It could not have been: at the 20 September 2024 separation date he had 5.5 years' service,
+below the 7-year threshold, so no LSL was paid out on 23 October 2024 and there was nothing to
+credit back. Payroll's own panel agrees — **previously paid out 0.0000, taken 0.00**.
+
+## 6.2 ⭐⭐⭐ BUT THE INSTINCT IS RIGHT ABOUT SERVICE, AND THE LEDGER PROVES IT
+⭐⭐⭐⭐ **Reinstatement "effective 20 September 2024" (recital F and clause 1) restored continuous
+service, and Payroll's LSL accrual table shows it did:**
+
+| Row | Accrues? | LSL hours |
+|---|---|---|
+| 25/03/2019 – 17/05/2022 | ✔ | 155.508 |
+| **18/05/2022 – 10/06/2022** | ✘ LWOP | 0.000 |
+| 11/06/2022 – 20/06/2024 | ✔ | 100.153 |
+| **21/06/2024 – 20/09/2024** | ✘ LWOP | 0.000 |
+| ⭐ **21/09/2024 – 12/12/2024** (the reinstatement period) | ⭐ **✔** | ⭐ **11.233** |
+| **13/12/2024 – 23/02/2025** | ✘ LWOP | 0.000 |
+| 23/02/2025 – 04/09/2026 | ✔ | 75.656 |
+| | | **342.5518** |
+
+⭐⭐⭐ **The deed credited the reinstatement period as service.** What it did not credit — the only
+service the deed itself removed — is the clause 4 period.
+
+## 6.3 ⭐⭐⭐⭐ CLAUSE 4 DOES NOT SAY THE PERIOD IS EXCLUDED FROM LONG SERVICE LEAVE
+> *"4. The period from 13 December 2024 to 23 February 2025 **will be treated as leave without
+> pay**."*
+
+⭐⭐⭐⭐ **That is the whole clause.** It does not say the period is not continuous service, and it
+does not mention long service leave. **The exclusion is a consequence of the LWOP *code*, not of
+the deed.** ⭐⭐⭐ **And on Payroll's own stated approach, a period properly coded Sick No Pay has
+its first three months recognised towards the LSL date.** ⇒ **Clause 4 and the recoding sit
+together: the period stays unpaid leave, and the first three months count.**
+
+## 6.4 ⭐⭐⭐⭐ CLAUSE 5 IS THE ANSWER TO ANY CLAUSE 4 OBJECTION
+> ⭐⭐⭐⭐ *"5. If the Applicant is not fit to return to the workplace on executing this deed, **he
+> will apply for leave using the usual application process**."*
+
+⭐⭐⭐⭐ **He was not fit, and clause 5 contemplated precisely a leave application for that period.**
+⇒ **Clause 4 set the default characterisation; clause 5 supplied the mechanism to characterise it
+properly.** ⭐⭐ **Applying now for sick leave without pay over 13 December 2024 to 23 February 2025
+is doing what clause 5 provided for — late, and at Payroll's own request.**
+
+## 6.5 ⛔⛔ AND IT STILL DOES NOT GO IN THE myHR FORM
+⛔⛔ **§5 stands.** The deed is confidential (clause 12). ⭐ **This argument is held in reserve and
+deployed only if MSH raises clause 4 first.**
