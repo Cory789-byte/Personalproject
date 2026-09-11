@@ -93,3 +93,96 @@ Commission, with a reason.
 ⛔⛔ **And none of this is ever written as a "pattern" or a "course of conduct". Sixteen loops are
 sixteen facts about sixteen occasions, and they are set out one at a time, in date order, with
 nothing joining them but the calendar.**
+
+---
+---
+
+# 5. ⭐⭐⭐⭐ ADDENDUM — THE SEVENTEENTH LOOP, AND THE STRESSOR MAP
+
+## 5.1 ⭐⭐⭐⭐ LOOP 17 — STRESSOR 1(c): THE REQUEST FOR SPACE, ANSWERED BY THE PERSON
+| Time, 7 August 2023 | Admitted fact |
+|---|---|
+| **12:21 pm** | **155** — his email states: *"**Please give me some space and stop with any further communication** as I have had enough of it."* |
+| ⭐⭐⭐⭐ **1:43 pm** | ⭐⭐⭐⭐ **156, 157** — **Ms Taylor herself replies, 82 minutes later**: *"My sincere apologises about your rostered Monday 7th 0700-1500 shift, I can confirm **this was an oversight**"* · *"Would you like me to roster you off tomorrow Tuesday 8th 0700-1500 to give you the required rest period"* |
+| ⭐⭐⭐ **3:13 pm** | ⭐⭐⭐ **158** — Ms Reese: *"As Chloe is your current line manager and as such **you are required to continue to communicate with Chloe** for work related issues, shift concerns, leave, etc."* |
+| ⭐⭐ **5:11 pm** | ⭐⭐ **159** — Ms Reese to Ms Taylor, attaching *"Rostered shifts Cory S. past 8 months.xlsx"*: *"can I ask if you can send me an email of your recent communication with Cory about contacting yourself about missed shifts, **as I could not find a copy of this email**."* |
+| 29 Aug · 4 Sep | **160, 161** — the grievance policy is sent; he replies that he has spoken to Ms Taylor and hopes not to need the process |
+
+⭐⭐⭐⭐ **A request to stop communication from one person was answered by that person inside 82
+minutes, and followed by a direction that he was *required* to keep communicating with her.**
+⭐⭐ **And fact 159 is an absence recorded by the Director herself.**
+
+## 5.2 ⭐⭐⭐⭐ THE STRESSOR MAP — WHAT CLOSES, AND WHERE
+
+| Stressor | Loops that close | Count | Reaches |
+|---|---|---|---|
+| ⭐⭐⭐⭐ **1(a)** — directives without consultation, erratic presence | **4** office hours · **5** the 20 May escalation · **6** MASPER · **10** the retraction | **4** | Ms Taylor, Ms Reese |
+| **1(b)** — the Communication Book | **11** | **1** | Ms Taylor |
+| ⭐⭐⭐ **1(c)** — August–September 2023 | ⭐ **17** | **1** | Ms Taylor, Ms Reese |
+| ⭐⭐⭐ **1(d)** — special pandemic leave | **7** | **1** | Ms Taylor, and the **Instrument of Sub-Delegation** |
+| **1(g)** — union delegate, roster consultation | **12** · **13** | **2** | the employer's own consultation paper |
+| ⭐⭐⭐⭐ **Stressor 2** — pay | **1** the AVAC delay · **2** the authorship · **3** the two PRNs | **3** | Payroll, Ms Taylor |
+| ⭐⭐⭐⭐⭐ **Stressor 3** — rostering, fatigue, the break | **8** the 7-hour break · **9** the 23 days · **14** *"will not be considered"* · **15** the documents that *"do not exist"* | **4** | ⭐⭐⭐⭐ **the Director, the Chief Executive, and the Regulator's own Review Officer** |
+| — corroboration | **16** | **1** | the Respondent's own List |
+| | | ⭐⭐⭐⭐ **17** | |
+
+⚠⚠ **THE GAP: there is no section in the notice for Stressor 1(e) or 1(f), and no loop closes on
+them.** ⛔ **Check the amended SOFC and the Form 9A for whether 1(e) and 1(f) exist as pleaded
+stressors. If they do, they are the only part of the case still resting on his own evidence alone.**
+
+---
+
+# 6. ⭐⭐⭐⭐ THE REGULATOR'S OWN WORDS ARE ACTS TOO — AND THAT IS THE TURN
+
+⭐⭐⭐⭐ **Review Decision 69983 is not a submission. It is a decision, made by the Regulator's own
+Review Officer in the exercise of a statutory function. Its words did something.**
+> ⭐⭐⭐⭐⭐ **Fact 260:** *"Based on this, **I find the rostering of these two shifts amounted to
+> unreasonable management action**."*
+> ⭐⭐⭐⭐ **Fact 261:** *"you sustained a personal injury of a psychological nature"*
+> ⭐⭐⭐⭐ **Fact 262:** *"your injury arose out of employment, to the extent that it aros…"*
+
+⭐⭐⭐ **Admitted on 18 February 2026** (fact 295 — *"admitted the contents of the Respondent's
+review unit decision"*) **and admitted again on 8 September 2026.**
+
+⇒ ⭐⭐⭐⭐ **Every closed loop is built out of the other side's material — their decision, their
+pleading, their List, their officers' contemporaneous emails, their Chief Executive's letter.**
+**At no point is the Commission asked to prefer his word over theirs.**
+
+---
+
+# 7. ⛔⛔ BUT "THEIR ARGUMENT IS MEANINGLESS" IS THE WRONG WORD, AND A DANGEROUS ONE
+
+⛔⛔ **It is not meaningless. It is CONFINED.** ⭐⭐⭐⭐ **Three things remain live, and one of them
+is heavy:**
+
+1. ⛔⛔ **HE BEARS THE ONUS.** *Davis v Blackwood* [2014] ICQ 9 — the appellant must prove the
+   injury is compensable **and** exclude s 32(5)(a). ⭐⭐⭐⭐ **The admissions destroy their ability
+   to contest what happened. They do NOT discharge his burden.**
+2. ⭐⭐⭐⭐ **CAUSATION** — that the employment was **a significant** contributing factor.
+   ⚠ **That is medical. It is the blue ink in the overlay. It needs Dr Hawes and Dr Krishnaiah in
+   the room.**
+3. ⭐⭐⭐ **s 32(5)(a) REASONABLENESS** — the one ground they reserved in terms on 8 September, and
+   the only ground on which a closed loop can still be answered.
+
+⭐⭐⭐⭐ **THE ACCURATE STATEMENT:** *On seventeen occasions the Respondent can no longer argue about
+what happened. It can only argue that what happened was reasonable, and reasonably done. On
+Stressor 3, its own Review Officer has already found that it was not.*
+
+---
+
+# 8. ⭐⭐⭐⭐ AND HOW HE EXPLAINS IT — HE DOES NOT
+
+⭐⭐⭐⭐ **The closing is done by ARRANGEMENT, not by argument.** For each stressor, in the outline:
+
+> **[Stressor heading]**
+> [the dated facts, in order, verbatim, each with its number]
+> *Each of the facts set out in this section was admitted by the Respondent on 8 September 2026.*
+
+⛔⛔ **Then stop.** ⛔ **No "clearly". No "demonstrates". No "this shows". No adjective anywhere.**
+⭐⭐⭐⭐ **The moment he explains what a closed fact means, he converts it from an admitted primary
+fact into a contested characterisation — which is the exact category the Respondent has already
+shown, twice, that it will refuse.**
+⭐⭐⭐ **Seventeen loops set out in date order with nothing joining them but the calendar are read
+by the Commission as what they are. A paragraph of explanation attached to any one of them invites
+the answer that it is for the Commission to determine — and hands back the ground the admissions
+took.**
