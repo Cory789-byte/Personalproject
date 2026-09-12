@@ -494,3 +494,76 @@ purpose. Rule 1 (§5) — operative clause first — is the fix, and this is the
 Pause structure shows *whether someone is reading, composing, or disposing*. It does not show mood,
 and it never becomes evidence. Its whole use is calibrating Cory's own delivery and knowing when the
 bench has stopped listening. ⛔ Never on paper, never to the Regulator.
+
+---
+
+## 21. ⭐⭐⭐ THE TWO MEN COMPARED — MEASURED, AND THREE EARLIER CLAIMS CORRECTED
+> 12 September 2026. Speaker labels from `TRANSCRIPT_diarised_prosody.md` mapped onto the word-level
+> timings in `MENTION_7AUG2026_segments.jsonl` (9,693 words, 189 contiguous turns). My mapping
+> reproduces the file's own share figures (862/203/3 segments v its 846/219/3), so the mapping is sound.
+> ⚠ Labels are inferential at a stated 90% on hand-checked anchors. Everything below is a tendency, not a certainty.
+
+### 21.1 The floor
+| | Dwyer | Shepherd |
+|---|---|---|
+| Share of talk time | **86.2%** | **13.6%** |
+| Words | 8,362 | 1,314 |
+| Words per turn | **89.0** | **14.3** |
+| Turns containing a question | **70%** (66/94) | 15% (14/92) |
+⇒ In his own disclosure application the Appellant spoke for **7 minutes 46 seconds of 65**. He was not
+running the application; he was being examined about it.
+
+### 21.2 ⛔ CORRECTION 1 — "slow to react" is not in the data
+Median gap before the reply begins: **Shepherd answering Dwyer 0.38 s; Dwyer answering Shepherd 0.33 s.**
+Indistinguishable. His p90 is longer (1.72 s v 1.20 s) — he takes an extra beat perhaps one time in ten —
+but there is **no response-latency deficit**. Any account of him as slow to answer is wrong.
+
+### 21.3 ⛔ CORRECTION 2 — the two men articulate at the same speed
+**Shepherd 2.94 w/s; Dwyer 2.98 w/s.** Identical. Every apparent difference of "pace" anywhere in this
+file is **pausing**, not speaking speed (see §20.4).
+
+### 21.4 ⚠ CORRECTION 3 — §3's subordination claim needs qualifying
+Per 100 words: subordinators **Shepherd 1.67, Dwyer 1.71** — the same. Coordinators **6.24 v 5.55**.
+⇒ He does **not** subordinate less than the bench. He coordinates *more*.
+⚠ **But the comparison is weak**: his turns are one-sixth as long (14.3 v 89.0 words), and a 14-word turn
+has little room to complete a subordinate structure. The defensible finding is narrower than §3 stated:
+**not that he cannot subordinate, but that his turns end before the subordination lands.**
+What does survive, and strongly: **self-repair markers — Shepherd 0.91 per 100 words, Dwyer 0.39. 2.3×.**
+That is the measurable trace of the abandonment §3 described.
+
+### 21.5 ⭐⭐⭐ THE OPERATIVE FINDING — WHO SPEAKS IN SYSTEMS AND WHO SPEAKS IN ITEMS
+Per 100 words:
+| | system nouns¹ | instance nouns² | **ratio** |
+|---|---|---|---|
+| **Dwyer** | 0.20 | 0.86 | **0.24** |
+| **Shepherd** | 0.08 | **1.60** | **0.05** |
+¹ process, system, procedure, framework, structure, policy, practice, mechanism, principle, rule, onus,
+standard, proportionate, equitable, consultation. ² email, call, shift, roster, page, entry, document,
+letter, number, attachment, form.
+⇒ **Dwyer speaks in processes at nearly five times the Appellant's rate. The Appellant speaks in items at
+nearly twice the bench's.** They are working the same problem at two different altitudes.
+⛔ **This is not a comprehension deficit.** His written work is the most systemic material in the file
+(the Form 24 architecture, the instruments chain, the M-tab schedule). **He sees the system on paper and
+answers in instances aloud.** The gap is the buffer, exactly as §12 said — but §21 locates it: it is not
+that he reasons less abstractly under load, it is that **the retrieved unit is the instance**.
+⭐ **The filters exchange is the whole finding in miniature.** Dwyer: *"What does filters mean?"* — a
+request for the **category**. Shepherd answers with the **instance**: *"you go into… let's say Outlook…
+and you put a word in."* He is then at 2.56 w/s, his most careful articulation of the day (§20.6), and it
+does not land. **The care was never the problem. The altitude was.**
+⇒ **THE RULE THIS YIELDS:** when the bench asks what something *means*, answer with the **class and its
+purpose in one sentence**, then offer the instance only if invited. *"Filters are a search of the mailbox
+for a phrase. I want the count of emails containing 'effective immediately'."* Category, purpose, then example.
+
+### 21.6 ⛔ MISATTRIBUTIONS IDENTIFIED — FIVE, ALL IN SHORT TURNS, AS THE FILE PREDICTED
+| Seg | Labelled | Should be | Why |
+|---|---|---|---|
+| **1008** "No." | MR SHEPHERD | **MS MATHESON** | Answers *"anything arising out of all of that, Ms Matheson? Have I misrepresented your role… that you're not prepared to accept?"* |
+| **627–628** "I do believe we have those, and I do believe we've disclosed them." | MR SHEPHERD | **MS MATHESON** | Answers *"Ms. Matheson, have you got that email?"*; seg 626 is already hers; **"we've disclosed them" is the Regulator's voice**, not the Appellant's |
+| **231/232** "There has been some emails… but I have to probably / consider that." | SHEPHERD / DWYER | **one speaker** | A single clause split across two labels. Whoever said it, it cannot be two people |
+| **623** "All right." | MR SHEPHERD | probably **DWYER** | Acknowledgement closing his own question at 624 |
+| **1009** "All right." | MR SHEPHERD | probably **DWYER** | Same pattern, immediately before he turns to Ms Ruttan |
+⇒ **Ms Matheson spoke at least five times, not three.** The share table understates her and overstates the
+Appellant by roughly 30 words. ⛔ No conflict was found anywhere between content markers and labels on the
+**long** turns (0 of 1,068 segments), so the substantive analysis above is unaffected.
+⚠ Ms Ruttan: addressed once (*"And Ms. Rutland, any?"*, seg 1010, the name mis-transcribed) and **no answer
+is on the tape**. The 0.0% share appears correct.
