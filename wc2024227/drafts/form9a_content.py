@@ -453,12 +453,31 @@ S3 = [
  ("<b>A late shift does not shorten the day that precedes it.</b> The Appellant had been awake "
   "throughout that day before commencing it, and the period of wakefulness is accordingly measured "
   "from waking that morning and not from the commencement of the shift.", [-1]),
- ("The Appellant will give evidence that from waking on the morning of 17 March 2024 to the "
-  "conclusion of the shift at 23:00 was approximately sixteen hours; that he then travelled home, "
-  "obtained approximately four hours of sleep, and travelled back to commence the first shift of the "
-  "working week at 06:00; that the two shifts and the journeys between and about them required "
-  "approximately four hours of travel in total; and of where he lived and the distance and travel "
-  "time each way.", [-1]),
+ ("The Appellant will give evidence of where he lived, of the distance between his residence and "
+  "Logan Hospital, and of his travel time each way.", [-1]),
+ ("<b>Wakefulness before the finish.</b> He will give evidence that the period from waking on the "
+  "morning of 17 March 2024 to the conclusion of that shift at 23:00 was <b>approximately sixteen "
+  "hours</b>, of which the shift itself was the latter part.", [-1]),
+ ("<b>Travel.</b> He will give evidence that the two shifts and the journeys to and from them "
+  "required <b>approximately four hours of travel in total</b>, of which approximately half fell "
+  "within the seven-hour interval between the two shifts &mdash; the journey home after 23:00 on "
+  "17 March and the journey back before 06:00 on 18 March.", [-1]),
+ ("<b>Sleep.</b> He will give evidence that within that interval, after travelling home and before "
+  "travelling back, he obtained <b>approximately four hours of sleep</b>.", [-1]),
+ ("<b>The interval, accounted for.</b> The seven hours between the rostered finish and the rostered "
+  "commencement therefore comprised the journey home, approximately four hours of sleep, and the "
+  "journey back. That accords with the Appellant\u2019s contemporaneous submission of 9 August 2024, "
+  "recorded in the review decision, that with travel factored in the break was less than five "
+  "hours.", [251]),
+ ("<b>The shift then worked.</b> He commenced the first shift of the working week at 06:00 on "
+  "18 March 2024, a Monday.", [284, 227]),
+ ("He will give evidence that he worked that shift through to 14:00, a further eight hours, and of "
+  "the emergency workload carried during it, which is recorded in the register at (h) below.", [-1]),
+ ("<b>The position in summary.</b> Approximately sixteen hours of wakefulness to the finish at "
+  "23:00; approximately four hours of travel across the two shifts; approximately four hours of "
+  "sleep within a seven-hour rostered interval; and then an eight-hour shift beginning at 06:00 on "
+  "which the Appellant was responsible for receiving and distributing emergency response "
+  "notifications strictly adhering to protocols and timeframes.", [8]),
  ("The Award and the employer’s own fatigue policy are directed to the rest opportunity between "
   "shifts. The emergency duties pleaded at Stressor 1(g) and recorded at (h) below were performed on "
   "the shift of 18 March 2024 in that condition.", []),
