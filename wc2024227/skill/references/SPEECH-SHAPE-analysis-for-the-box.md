@@ -628,3 +628,51 @@ Regulator's letter of 8 September: an operational consequence is neither a state
 truth can be reserved, nor management action s 32(5) can reach. ⭐ **Document → what was said → what it did
 in the department. Three moves, no adjective.** The transcript is the proof that the third move is the one
 that lands.
+
+---
+
+## 23. ⛔⛔ CORRECTION TO §22 — SEGMENT 437 IS THE APPELLANT, NOT THE BENCH. §22.3 IS WITHDRAWN.
+> 12 September 2026, on Cory's first-hand correction: **"segment 437 is me."** He was in the room. I was
+> reading an inferential diarisation whose own stated failure mode is short interjections inside long runs.
+
+### 23.1 The grammar settles it independently
+Dwyer's sentence runs **432 → 436 → 438 → 439** as one structure:
+> *"if you can't get yourself to a point where you're satisfied with the approach, a different approach or
+> a more practical approach, or a more cohesive and cooperative approach **with the parties that are sitting
+> at the other end of the table.** … **If we can't get to that,** I'm going to schedule this disclosure
+> dispute for a hearing."*
+**Seg 437 is spliced into the middle of it**, opens with the appellant backchannel *"Yeah,"*, and is 8 words
+inside a 471-word run. Seg **440** *"Yeah."* three lines later is the same error.
+⇒ ⛔ **§22.3 is wrong and is withdrawn in full.** *"Yeah, I actually understand what you're getting at"* is
+**Cory accepting the Commissioner's criticism on the spot**, not the Commissioner conceding a point.
+
+### 23.2 ⛔ A SIXTH MISATTRIBUTION CLASS, on top of §21.6's five
+The diariser assigns **backchannels to whoever holds the floor**. Bare acknowledgements sitting inside long
+Dwyer runs: segs **440, 620, 673, 792, 908** — plus **437**, which is not bare and therefore was not caught
+by the same test. **Eleven misattributions now identified.** All inflate Dwyer's share and all are of the
+same kind: **the listener's voice absorbed into the speaker's turn.**
+⚠ **Standing caution for every future pass on this tape: a short acknowledgement inside a long run is the
+other person, until proved otherwise.**
+
+### 23.3 What survives of §22, and what it now means
+Unaffected: the **5.74 s** pause is real and is still the longest gap before any Dwyer reply not explained
+by him reading a document; the patient-safety passage immediately precedes it; *"I'm concerned at the
+direction this is going in"* is real; the register change at that boundary (§17, §20.4) is real; the
+27:32 deflection (*"Anyway, let's not get into the case"*) is real.
+⛔ **Gone: any basis for saying the bench acknowledged the point.** The 5.74 s is now better read as
+**Dwyer deciding how to stop a line**, not absorbing one.
+
+### 23.4 ⭐⭐ AND CORY'S OWN ACCOUNT CHANGES THE LESSON — FOR THE BETTER
+His account: *the first time he was able to explain the doctors was that passage, it was answering what
+Dwyer had said earlier, and by then the moment had passed.*
+⇒ The patient-safety answer was **the right answer to a question that had already closed.** Dwyer had put
+the characterisation criticism at 404–412 (his three slowest segments of the hearing). The answer arrived at
+420–429 — **after he had moved on.**
+⭐ **The lesson is therefore not "consequence lands" but: consequence lands only while the question is still
+open.** The content was right. The timing was eight to fifteen seconds late, and at that distance a correct
+answer reads as a new topic and gets stopped.
+⇒ **THE RULE FOR THE BOX:** when a proposition is put — *"you've placed subjectively a characterisation on
+these emails"* — the consequence must come **in the very next breath**, not after the exchange has turned.
+*"No. The consequence was that a MET call went to the wrong ward."* One sentence, immediately.
+⭐ And note what he did when stopped: **seg 437 — he took the correction instantly and said so.** That is a
+credit point and it is in the transcript.
