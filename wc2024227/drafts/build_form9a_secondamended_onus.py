@@ -446,7 +446,10 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "receiving it and had sent the complaint form to the Director the following morning; the meeting to "
    "discuss the outcome was convened by that Director on dates within a period for which the Appellant "
    "is certified as having had no functional capacity; and no document recording what was done with "
-   "the referral has been disclosed (Stressor 1(n)). The Appellant does not allege that any of this was "
+   "either referral has been disclosed (Stressor 1(n)). The concerns were referred to Human Resources "
+   "twice &mdash; on 27 May 2024 and again on 24 December 2024 &mdash; and the conditions pleaded at "
+   "Stressor 1(a) to (i) were, on the Respondent's own material, unchanged after both. The Appellant "
+   "does not allege that any of this was "
    "done for any improper purpose. He contends only that it was not, in those respects, action taken "
    "in a reasonable way.", PLD),
 

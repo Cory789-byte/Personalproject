@@ -388,29 +388,39 @@ S1 = [
   "to review it, but not to the extent that there was no response to it”, and its Conclusion "
   "finds that the Appellant’s injury arose out of employment to the extent that it arose out of "
   "factors 2, 3 and 4.", [262]),
- ("On 24 December 2024 the Ethical Standards Unit determined that the complaint constituted a public "
-  "interest disclosure, reference 24-ESU-1130.", [-1]),
+ ("<b>The second determination, 24 December 2024.</b> On 24 December 2024 the Ethical Standards Unit "
+  "determined that the Appellant had made a public interest disclosure, reference 24-ESU-1130.", [-1]),
  ("On 18 February 2026, in its response to the Appellant’s earlier notice to admit facts, the "
   "Respondent admitted that on 24 December 2024 the Ethical Standards Unit determined that the "
   "Appellant’s complaint constituted a Public Interest Disclosure. That admission is paragraph 20 "
   "of the response of that date.", [-1]),
- ("No document recording what was done by Human Resources in consequence of the referral of "
-  "27 May 2024 has been identified or disclosed to the Appellant in the Respondent’s disclosed "
-  "material presently before the Commission.", [-1]),
+ ("<b>The second referral to Human Resources.</b> By that same determination the Unit identified "
+  "further administrative issues and referred them, for remediation, to Human Resources at Logan and "
+  "Beaudesert. That is the second occasion on which the matters the Appellant raised on 13 May 2024 "
+  "were referred to Human Resources, the first being the referral of 27 May 2024 pleaded above.", [-1]),
+ ("<b>The Appellant does not plead that his allegations were substantiated.</b> What was determined on "
+  "24 December 2024 is that he had made a public interest disclosure. The content of that disclosure "
+  "is not set out in this statement.", []),
+ ("No document recording what was done by Human Resources in consequence of either referral — that "
+  "of 27 May 2024 or that of 24 December 2024 — has been identified or disclosed to the Appellant "
+  "in the Respondent’s disclosed material presently before the Commission.", [-1]),
  ("The matters pleaded at Stressor 1(p) above are repeated: the Respondent’s material records that "
   "the complaints received at the console did not result in any consequential change to operating "
   "procedures, that fatigue risk management records for the Switchboard do not exist, and that fatigue "
   "risk management assessment at the Switchboard was implemented only after 30 June 2024.", [263, 264, 265, 269, 270, 271]),
  ("<b>The sequence, stated neutrally.</b> The conditions pleaded at (a) to (i) above arose at the "
-  "console. They were raised on 13 May 2024 with the Ethical Standards Unit. That Unit finalised its "
-  "assessment fourteen days later and referred the concerns and complaints to Human Resources — "
-  "the function that had itself distributed the complaint on 15 and 16 May 2024. The meeting to "
-  "discuss the outcome was convened by the Director to whom that function had sent the complaint "
-  "form, on dates on which the Appellant is certified as having had no functional capacity. No "
-  "document recording what Human Resources did with the referral has been disclosed, and on the "
-  "Respondent’s own material the conditions were unchanged. <b>The Appellant alleges no "
-  "impropriety, and no motive, in that sequence.</b> It is pleaded because it is the course the "
-  "conditions took after he raised them, and because the decision under appeal has found that his "
+  "console. They were raised on 13 May 2024 with the Ethical Standards Unit. <b>They were referred to "
+  "Human Resources twice.</b> On 27 May 2024, fourteen days after the complaint was lodged, the Unit "
+  "finalised its assessment and referred the concerns and complaints to Human Resources &mdash; the "
+  "function that had itself distributed the complaint on 15 and 16 May 2024. The meeting to discuss "
+  "that outcome was convened by the Director to whom that function had sent the complaint form, on "
+  "dates on which the Appellant is certified as having had no functional capacity. Seven months later, "
+  "on 24 December 2024, the same Unit determined that he had made a public interest disclosure, "
+  "identified further administrative issues, and referred them to Human Resources again. No document "
+  "recording what Human Resources did with either referral has been disclosed, and on the "
+  "Respondent’s own material the conditions pleaded at (a) to (i) were unchanged. <b>The Appellant "
+  "alleges no impropriety, and no motive, in that sequence.</b> It is pleaded because it is the course "
+  "the conditions took after he raised them, and because the decision under appeal has found that his "
   "injury arose in part out of this factor.", []),
  ("The Appellant’s contemporaneous medical record for the same week, including the renewed "
   "referral to a psychiatrist dated 16 May 2024, is pleaded at Part B.1, paragraph 1.3 above.", []),
