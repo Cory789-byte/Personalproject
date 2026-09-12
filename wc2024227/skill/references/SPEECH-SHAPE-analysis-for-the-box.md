@@ -781,3 +781,82 @@ characterisation on these emails."*
 ⇒ ⭐⭐⭐ **When a member repeats your own words back nine times, the words are the problem.** That is a
 direct instruction to change the pleading, and it is the strongest support in the tape for the
 Second Amended 9A stripping the characterisation vocabulary.
+
+---
+
+## 26. ⭐⭐⭐ THE COMMISSIONER'S RHYTHM AT THE POINTS OF INTERRUPTION
+
+**26.0 Method, and three limits stated first.** The audio (`PRF0466309_20260807_QIRCOIR_Brisbane`)
+is **no longer in the session** — the container was recycled on 12 September. This section is
+therefore built from `documents/transcripts/MENTION_7AUG2026_segments.jsonl`, which preserves the
+Whisper word-level timestamps, with per-segment speaker labels reconstructed from the turn headers
+in `TRANSCRIPT_diarised_prosody.md` (so the §23 corrections are carried in). Three limits:
+
+1. **No new pitch or intensity.** F0 and dB cannot be recomputed without the audio. The `↑st`,
+   `wide`, `quieter` markers in the transcript are from the earlier Praat pass and are not re-derived
+   here. This is a **rhythm** analysis only.
+2. **Overlap cannot be proved.** Whisper transcribes a single stream; genuine simultaneous speech is
+   largely lost. A handover gap of +0.00 s means the segmenter placed the turns **adjacent with no
+   measurable pause** (latching). It is not evidence of acoustic talk-over.
+3. **Labels remain inferential** (90% on hand-checked anchors). Interjections under four words are
+   the weakest category and are reported separately and marked low confidence.
+
+Articulation rate throughout = words ÷ speaking time, counting inter-word gaps only up to 0.15 s.
+
+**26.1 Baselines.** DWYER **2.95 w/s** over 8,343 words. SHEPHERD **2.90 w/s** over 1,333 words.
+98 D→S handovers, 100 S→D. Median handover gap +0.32 s (D→S) and +0.36 s (S→D).
+
+**26.2 ⭐ The interruptions land on his fast stretches, not his slow ones.**
+
+| Dwyer's rate in the segment he hands over in | w/s |
+|---|---|
+| baseline (all his speech) | 2.95 |
+| when the Appellant waits > 0.5 s (n=27) | 3.58 |
+| when the Appellant comes straight in (n=70) | **3.89** |
+| the seven mid-clause cuts with ≥ 4 words in (n=7) | 3.71 (median 3.80) |
+
+He is not interrupted while deliberating. He is interrupted while accelerating. Fastest immediately
+before a handover: **6.85 w/s** (51:24), **6.35** (40:13, *"Is it in the form of an email?"*),
+**5.10** (21:29), **4.90** (27:59).
+
+**26.3 ⭐ He absorbs an interruption by slowing, not by stopping.** After a mid-clause cut he resumes
+at **3.15 w/s**, down from the 3.71 he was cut from, and the **median silence before resuming is
+0.12 s**. On latched handovers the drop is steeper: 4.16 → 3.38. No regrouping pause. This is a
+practised floor-management habit and is consistent with §25.3 (floor management 0.96 per 100 words,
+eight times any other habit).
+
+**26.4 He abandons the interrupted sentence in five of seven cases.** At 37:16 he is mid-question —
+*"Did Miss Tammy Rees do that in an email or a letter?"* — is answered, and proceeds directly to
+*"Disparate treatment and statutory leave obstruction, COVID."* The stressor walk resumes; the
+question is dropped.
+
+**26.5 ⭐⭐ The exception, and it is the tell.** At **27:59** he is building the hypothetical —
+*"she just kept sending these emails through saying"* — and the Appellant supplies *"effective
+immediately we're going to do this, effective immediately we're going to do that."* He then takes
+**1.18 s**, ten times his median recovery and the longest in the set, before returning at 3.03 w/s
+with *"You can say that."* The one place the Appellant completed his sentence for him, and got the
+wording right, is the one place his rhythm breaks. Fact 51, admitted, reads: *"This new process is
+effective from today."*
+
+**26.6 ⭐⭐ Where the bench came in over the Appellant.** Ten mid-clause entries with no measurable
+pause, mean **3.27 w/s (+0.32 over baseline)**. The two fastest:
+
+- **5.41 w/s at 26:29** — *"A through to E."* Keeping the stressor walk moving.
+- **4.69 w/s at 27:32** — APPELLANT: *"…patient safety environment that they —"* / DWYER: *"If you
+  think it's in a patient safety environment you can raise that. Anyway, let's not get into the
+  case."*
+
+That is his fastest substantive entry over the Appellant in 64 minutes, and it lands on the
+patient-safety sentence. Two minutes later the same point is given in full at 29:17 and is followed
+by the **5.74 s** silence recorded at §22 — the only long pause on the tape that reading a handed-up
+document does not explain. ⇒ **Two opposite rhythm signatures on one topic: fastest in, then longest
+quiet.** This is the third independent measure pointing at the same place (§22, §25.5, §26.6), and it
+is why the safety consequence must reach the Commission as a document rather than as a submission.
+
+**26.7 The only completed clause.** At 51:26 — APPELLANT: *"That's what me and my colleagues over a
+six week —"* / DWYER: *"period. Over a six week period."* The only point in the hearing at which
+either man finishes the other's sentence, and it is the bench finishing the Appellant's.
+
+**26.8 What cannot be answered without the audio.** Whether the fast entries at 26:29 and 27:32 were
+also louder or higher in pitch. If the recording is restored to a session, re-run Praat over those
+two entries and over 27:59 and 29:17; that is the single highest-value remaining measurement.
