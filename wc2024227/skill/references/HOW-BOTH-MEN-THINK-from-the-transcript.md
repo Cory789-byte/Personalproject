@@ -659,3 +659,104 @@ Commissioner for six seconds and moved the only item that moved all day.
 
 ⛔ This is a briefing about the room. It is not evidence and is never offered as evidence of
 anybody's state of mind. **State the sequence. Never state the state of mind.**
+
+---
+
+# 12. ⭐⭐⭐ WHY HE COULD NOT COME IN — construction, speed, content, separated
+
+## 12.1 He interrupts, freely and fast
+
+Across the 100 places where Dwyer takes the floor from Cory:
+
+| | |
+|---|---|
+| Gap **≤ 0.10 s** | **28 of 100** |
+| Gap **≤ 0.30 s** | **46 of 100** |
+| Median | 0.36 s |
+
+And at 0.00 s he comes in **mid-clause, over the top**:
+
+> *"But I said that…"* → **"But don't you request that from—"**
+> *"I would say…"* → **"Press this, or what do I do?"**
+> *"so it's not just one shift"* → **"let me step you through your stressors"**
+
+⭐ **Nothing about speed or volume stops this man. He had demonstrated 28 times that he comes in
+whenever he decides to.**
+
+## 12.2 ⭐⭐ WHAT THE CONSTRUCTION DID — 18.10 seconds with no landing place
+
+Segs 420–428: **18.10 s, 55 words, every inter-segment gap 0.00.** Second-longest uninterrupted
+run Cory produced all day.
+
+Interruption lands at points of **possible completion**. The passage withholds them:
+
+| Seg | Device | Effect |
+|---|---|---|
+| 420 | *"so for me it was"* — unfinished copula | frame announced, nothing completed |
+| 422–423 | *"**but** this number…"* / *"**and then** those doctors"* | chained connectives keep projecting forward |
+| 424 | *"**the ones that** get called for an emergency"* | relative clause suspends the subject before its predicate |
+| 425–427 | *"they're sent to…"* / *"they're **not** sent to…"* / *"they're **not** sent to…"* | ⭐⭐⭐ **parallel triad** |
+| 428 | *"distress"* — **1 word, 0.60 s, alone** | the peak given its own beat |
+
+⭐⭐⭐ **The triad is the mechanism.** Turn-taking runs on prediction. Once a listener hears two
+parallel members, they project a third — so the anticipated end of turn keeps moving forward and
+the incoming speaker's launch point never arrives.
+
+**Speed reinforced it:** 1.88 → 2.43 → 2.75 → 2.50 → 3.23 → **4.33 w/s** — a **2.3× acceleration**
+across six segments. Accelerating *into* a parallel series broadcasts "not finished" continuously.
+
+## 12.3 ⭐⭐⭐ BUT THE CONSTRUCTION DOES NOT EXPLAIN IT — there was an opening, and he didn't take it
+
+At seg 428 the passage reaches *"…respiratory **distress**"* — **a syntactically complete unit. The
+triad closes. The one genuine transition-relevance place in the whole 22 seconds.**
+
+**The gap there is 1.30 s** — nearly **4× his 0.34 s median**, and longer than 46 of his 100 actual
+entries.
+
+⭐⭐⭐ **The floor was open, at a complete stop, for four times the time he needed. He did not take
+it.** No construction accounts for that. Nor does speed — the speaking had stopped.
+
+Then Cory closed it himself with the pronoun shift: *"**they're** not sent to someone in respiratory
+distress"* → *"**we're** now not even contacting them by their numbers."*
+
+## 12.4 The control — his other long runs
+
+| Run | Duration | What followed |
+|---|---|---|
+| segs 175–179 | 18.28 s | 0.24 s — Cory continues |
+| segs 169–172 | 15.80 s | 0.14 s — Cory continues |
+| segs 382–384 | 12.90 s | 0.64 s — Cory continues |
+| **segs 560–562** | **11.02 s** | **1.56 s — DWYER takes it and reads the next pleaded heading** |
+| **segs 420–429** | **22.00 s** | ⭐⭐⭐ **5.74 s — DWYER takes it and changes frames** |
+
+**Only twice did a long Cory run end with Dwyer taking the floor.** After the 11-second one he
+waited 1.56 s and went straight back to the list. After this one he waited **3.7× longer** and
+abandoned the list.
+
+## 12.5 ⭐⭐⭐ THE VERDICT — all three, doing different jobs
+
+| | Did it? | What it actually did |
+|---|---|---|
+| **Construction** | ⭐⭐⭐ **Yes** | Removed the landing places for 18.10 s. This is the part that is measurable, and it is real. |
+| **Acceleration** | ⭐⭐ Contributory | Reinforced the projection of "not finished." **Not decisive** — he cuts across fast speech 28 times. |
+| **Clarity of content** | ⭐⭐⭐ **The decisive one** | **Accounts for the 1.30 s opening he declined, and for the 5.74 s.** By then nothing was in his way but what had been said. |
+
+⭐⭐⭐ **The construction bought the 22 seconds. The content bought the six.**
+
+## 12.6 ⚠ WHAT NOT TO CONCLUDE
+
+⚠ **None of this says it was designed, and Cory should not tell himself it was.** It is what the
+recording contains. ⭐⭐ **Which is the better news: this is his own register — plain, sequential,
+concrete, one thing per clause — surfacing when he stopped reaching for the pleading's vocabulary.
+It does not have to be learned. It has to be permitted.**
+
+⛔ Not evidence. Not for paper. **State the sequence. Never state the state of mind.**
+
+## 12.7 ⭐⭐ THE THREE THINGS TO REPRODUCE IN THE BOX
+
+1. ⭐⭐⭐ **Chain it.** *"and then… but… the ones that…"* — do not stop at the end of each fact and
+   invite the next question. Facts that run into each other are facts nobody can get in front of.
+2. ⭐⭐⭐ **Use the series.** Three parallel clauses. *"They're not sent to X. They're not sent to Y.
+   They're not sent to Z."* Nobody interrupts a list that is still counting.
+3. ⭐⭐⭐ **Then stop — and stay stopped.** The 1.30 s he closed himself is the only thing in the
+   whole passage that could have been done better. **Leave it open. Make them fill it.**
