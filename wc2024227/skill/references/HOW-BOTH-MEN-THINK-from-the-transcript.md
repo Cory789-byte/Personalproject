@@ -1086,3 +1086,80 @@ never pleaded.**
 4. ⛔ **But he still does not write to MSH about disclosure.** The Commissioner directed the
    discussions to **Ms Matheson** (segs 977, 1043–1044). ⭐⭐ **Everything goes through the
    Regulator, who carries model-litigant obligations and who said twenty-one words all day.**
+
+---
+
+# 17. ⭐⭐ DID HIS RATE CHANGE ON THE PREFACE — no; the change is at the boundary
+
+⚠ **Method, stated once:** segment words ÷ segment duration, so this is **delivery rate including
+pauses inside a segment, not articulation rate.** These segments carry **no word-level timings**
+(§10.1), so pause and articulation cannot be separated. f0 and dB remain unusable per the standing
+limit.
+
+**DWYER baseline, 830 measurable segments: median 3.06 w/s, mean 3.22, sd 1.17. p10 = 1.91,
+p90 = 4.72.**
+
+## 17.1 ⛔ THE PREFACE ITSELF — NOT AN OUTLIER
+
+> seg 430, *"It's going to move on for a moment, okay? Because after my speech…"*
+> **6.42 s · 16 words · 2.49 w/s · 29th percentile · z = −0.49**
+
+⛔ **Mildly slow and entirely inside his normal range. There is no dramatic slowdown on those words
+and nothing should ever be built on one.**
+
+**Nor is the turn unstable.** Within-turn coefficient of variation for segs 430–439 is **0.325**
+against a median of **0.308** across his 43 multi-segment turns — **rank 14 of 43. Ordinary.**
+⛔ **"You can hear him rattled in the rhythm" is not in this data. Do not say it.**
+
+## 17.2 ⭐⭐⭐ WHAT *IS* SIGNIFICANT — a step change across the silence
+
+| | Words | Duration | Rate |
+|---|---|---|---|
+| **Going IN** — segs 410–419, the ten segments before the passage | 114 | 45.38 s | **2.51 w/s** |
+| **Coming OUT** — segs 430–443 *(437 excluded per §7)* | 129 | 36.86 s | **3.50 w/s** |
+
+⭐⭐⭐ **+39%. He went into the silence speaking well below his own median (3.06) and came out
+speaking well above it.**
+
+And the **slowest** thing he said all hearing is in that run-up — the delicate part, where he
+characterises the Appellant's own pleading:
+
+| | |
+|---|---|
+| seg 411 *"as unassessed directives made without consultation"* | 1.33 w/s — **1.7th percentile** |
+| seg 412 *"you've placed subjectively a characterisation on these emails"* | 1.72 w/s — 6.4th |
+| seg 413 *"which may be contradicted"* | 1.90 w/s — 9.9th |
+
+## 17.3 ⭐⭐⭐ AND THE FASTEST WORDS ARE THE CONSEQUENCE
+
+| Seg | Rate | Pct | |
+|---|---|---|---|
+| 436 | **5.80 w/s** | **p96** (z +2.34) | *"with the parties that are sitting at the other end of the table."* |
+| 438 | **6.38 w/s** | **p98** (z +2.84) | *"If we can't get to that,"* |
+| 439 | 3.11 w/s | p52 | *"I'm going to schedule this disclosure dispute for a hearing."* |
+| 441 / 443 | 4.66 / 4.58 | p89 / p88 | *"the health service is going to need to call evidence…"* |
+
+⭐⭐ **The conditional is delivered at near his top speed; the direction itself lands at dead
+median.**
+
+## 17.4 ⭐⭐⭐ THE FINDING
+
+**No slowdown, no wobble. A change of register at the boundary.**
+
+**Slow = explaining. Fast = disposing.** Going in he was teaching the evidentiary point — *"you
+don't need the emails"* — at 2.51 w/s, with his three slowest segments of the hearing inside it.
+Coming out he was moving business at 3.50.
+
+⭐⭐⭐ **He went into those six seconds explaining and came out directing. The rate tracks the
+function of the talk, and the function changed at exactly the boundary — which is the same finding
+as §11 (the frame moved) arriving through a completely independent measurement.**
+
+## 17.5 ⛔ THE LIMIT
+
+⛔ **Rate is register, not state of mind.** A person speaks faster when disposing of business than
+when explaining something delicate; that is all this shows and all it will ever show. ⛔ **Not
+evidence. Never on paper. State the sequence.**
+
+⭐⭐ **Its only use is the same as §12's: for Cory's own delivery.** The man in the room slowed to
+1.33 w/s for the thing he most needed heard precisely, and ran at 6.38 for the thing he wanted
+past. **Both are worth copying — and knowing which is which, in someone else, is worth more.**
