@@ -288,7 +288,27 @@ def render(stressor, title):
                                  "paragraph number when a further notice to admit produces one.]", NOTE))
     return out
 
-s += [P("<b>2. &nbsp;Causative stressors (composite course, June 2023 &ndash; June 2024)</b>", SEC)]
+s += [P("<b>2. &nbsp;Causative stressors (composite course, June 2023 &ndash; June 2024)</b>", SEC),
+ P("<b>2.0 &nbsp;The environment in which these conditions operated.</b> The Switchboard is the point "
+   "at which emergency response notifications are received and distributed to the response groups, by "
+   "category of emergency, \"as per emergency code procedures, strictly adhering to protocols and "
+   "timeframes\"{{8}}, at which call queues are kept to a minimum at all times{{5}}, and at which the "
+   "occupant is required to operate under pressure where high volume call traffic is concerned{{10}}. "
+   "The position is required to follow defined service quality standards and occupational health and "
+   "safety procedures \"to ensure high quality, safe services and workplaces\"{{12}}. On 18 February "
+   "2026 the Respondent admitted, in those words, that <b>\"Maintaining accurate contact details for "
+   "medical staff is a critical function of the Switchboard to ensure effective clinical handover and "
+   "patient safety\"</b>{{289}}. <b>That admission is the measure of what the conditions pleaded below "
+   "placed at risk, and it is the Respondent\'s own.</b>", PLD),
+ P("<b>2.0.1 &nbsp;What is and is not alleged about that risk.</b> <b>The Appellant does not allege "
+   "that any patient was harmed, and no allegation of patient harm is made or relied upon in this "
+   "appeal.</b> What is pleaded is that the duty described in the admission at 2.0 remained on his "
+   "position throughout the period at Stressor 1(b), while the means of performing it did not; that "
+   "the consequences were reported to the Switchboard by clinicians and by a clinical service, in "
+   "their own words and marked of high importance; and that the Appellant was the person at the "
+   "console when they arrived. The significance of those matters is that they identify the setting in "
+   "which the circumstances pleaded below were experienced, which is relevant to their causal "
+   "capacity and to whether they are management action at all.", PLD)]
 s += render(C.S1, "STRESSOR 1 &mdash; THE CONDITIONS IN WHICH THE WORK WAS CARRIED ON")
 s += [P("[⚠ NOT IN THE NOTICE &mdash; none of the 303 paragraphs refers to the Ethical Standards Unit, "
    "a public interest disclosure, or a complaint of 13 May 2024. Stressor 1(n) is to be proved from "
@@ -445,7 +465,7 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
  P("<b>4. &nbsp;Section 32(5)(a), first limb &mdash; circumstances that are not management "
    "action.</b> The following circumstances pleaded in Stressor 1 are not action taken by or on "
    "behalf of the employer against the worker. They are the state in which the work was required to "
-   "be performed: (i) the position was required to keep the contact and paging information accurate "
+   "be performed, in the environment described at Part B.2.0 &mdash; one the Respondent has itself admitted to be an environment in which the accuracy of the information held at the Switchboard is critical to clinical handover and patient safety{{289}}: (i) the position was required to keep the contact and paging information accurate "
    "while the means of amending it was held by others (Stressor 1(a) to (c)); (ii) emergency response "
    "notifications reached the wrong medical team on nine occasions reported by a clinician, and the "
    "Switchboard was not told of them for six days (Stressor 1(g)); (iii) a clinical service was unable to "

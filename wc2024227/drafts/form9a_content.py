@@ -66,11 +66,16 @@ S1 = [
  ("The Appellant pleads no characterisation of any person. The availability of those two persons is "
   "pleaded because it determined how long an incorrect entry remained uncorrected.", []),
 ]),
-("d", "The criticality of the function, as admitted by the Respondent", [], [
+("d", "The criticality of the function to patient safety, as admitted by the Respondent", [], [
  ("On 18 February 2026 the Respondent responded to an earlier notice to admit facts in this "
   "proceeding.", [283]),
  ("It admitted that “Maintaining accurate contact details for medical staff is a critical "
   "function of the Switchboard to ensure effective clinical handover and patient safety”.", [289]),
+ ("<b>The consequence of that admission.</b> The contact and paging information the Appellant was "
+  "required to keep accurate is, on the Respondent’s own admission, the information by which "
+  "clinical handover occurs and by which patient safety is maintained. The means of amending it was "
+  "removed on 18 July 2023 and, on the Respondent’s pleaded case, was not restored at any time "
+  "before 18 June 2024.", [55]),
  ("In admitting that paragraph it added “and says that there was a procedure in place for this to "
   "occur”, and it denied a further paragraph on the ground that there was already a procedure in "
   "place.", [290, 291]),
@@ -189,6 +194,16 @@ S1 = [
  ("The Respondent does not allege that any communication was sent to Logan Switch or to the "
   "Switchboard staff concerning those occasions at any time after 3 May 2024 and before 10:15 am on "
   "9 May 2024.", [69]),
+ ("<b>What those nine occasions were.</b> They are occasions on which, on the reporting clinician’s "
+  "own account, emergency response notifications did not reach the team they were meant to reach. On "
+  "one of them a medical emergency team telephoned the Switchboard to be told where the emergency "
+  "was, and could not be told.{{58}} The Switchboard Manager’s own description of the position, six "
+  "days later, was of “many ongoing issues raised by the MASPER and the medical department about "
+  "calls being transferred to the wrong medical teams”.{{67}} <b>No allegation of harm to any "
+  "patient is made.</b> The matters are pleaded because they are what arrived at the console while "
+  "the Appellant was required to keep the information accurate and the means of doing so was held by "
+  "others, and because the Respondent has admitted that the accuracy of that information is critical "
+  "to patient safety.", []),
 ]),
 ("h", "What arrived at the console: the Integrated Respiratory Service, 15 to 20 May 2024", [], [
  ("On 15 May 2024 at 11:47 am an Administration Officer of the Integrated Respiratory Service wrote "
@@ -219,6 +234,14 @@ S1 = [
  ("The Respondent does not allege that the contact-details document was amended on or before 20 May "
   "2024, or that the Switchboard staff were notified of the modifications made to it on 22 February "
   "2024.", [109, 110]),
+ ("<b>What that service was reporting.</b> Its second email states, in its own words, that it "
+  "“can not help patients or other clinical staff with OPD issues”.{{91}} The entry it asked "
+  "to have corrected was, on the Respondent’s admission pleaded at (d) above, an entry of the kind "
+  "critical to clinical handover and patient safety.{{289}} Five calendar days separated its first "
+  "email from its second, and the Respondent does not allege that the entry was corrected at any time "
+  "before 20 May 2024. <b>No allegation of harm to any patient is made.</b> The matter is pleaded "
+  "because it is what arrived at the console, in a clinical service’s own words, while the means of "
+  "correcting the entry was held by others.", []),
 ]),
 ("i", "The office hours of the manager to whom the position reports", [3, 4], [
  ("The position reports to the Switchboard Manager, and the role description names that person as the "
