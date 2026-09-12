@@ -728,3 +728,56 @@ complete, with a pause between.** Target the bench's own shape — **about 5.5 w
 idea every 2 seconds.** Not faster, not shorter. **Slower arrival, fuller units.**
 ⇒ **Practical test in the box: if you have said three separate things and not yet stopped, you have
 already passed the point at which he is building the structure for you.** Stop. Let him ask.
+
+---
+
+## 25. ⭐⭐⭐ READING THE COMMISSIONER FROM HIS OWN SPEECH — THE METHOD, AND WHERE IT COMES FROM
+> 12 September 2026. 8,324 Dwyer words, §23 corrections applied. Rates per 100 words.
+
+### 25.1 The opening is the whole method in 2½ minutes — and he asked NOTHING in it
+**First tenth of the hearing: 61 segments, 0 questions.** Eight moves, in order:
+1. **The principle** — *"the efficient administration of justice, which is an overriding consideration that I've got my eye on."*
+2. **What it means in practice** — *"that involves me directing certain things to happen or declining to allow certain things to happen."*
+3. **The general problem, stated generally** — *"a tendency to proliferate interlocutory disputes… Disclosure disputes can oftentimes be exactly that."*
+4. ⭐ **The criticism, disclaimed before it lands** — *"**Without specifically being critical of the matters that you are pursuing**, in broad terms, there are a number of aspects to the application that you brought that I think are potentially going to impact on the efficiency."*
+5. **His objective for the day** — *"a different approach that will leave you satisfied that you are not in any way at all compromised."*
+6. ⭐⭐ **Alignment with the self-represented party's own goal** — *"which I would assume is your objective… **and I want that for you too**."*
+7. **Widening to the public interest** — *"and I want that for the people of Queensland who are resourcing these proceedings."*
+8. **The reset** — *"I just want to take it back to first principles okay."*
+⇒ **This is a practised set-piece**, not improvisation. It is what an experienced member says to a
+self-represented litigant whose application is the problem, and it is built so that every later
+correction is already licensed by it.
+
+### 25.2 ⭐⭐ HE LAYS A FRAME AND RETURNS TO IT TO CLOSE THINGS DOWN
+At 29:39, the intervention opens: *"**Because after my speech about efficiency of conduct of
+proceedings**, I'm concerned at the direction this is going in."*
+⇒ **He invoked his own opening to stop a line.** The frame laid in the first two minutes is the
+standard everything is measured against for the remaining sixty-three.
+⭐ **Operative for Cory: the opening is the test he will apply all day. Listen to it, write down the
+standard, and answer to that standard.**
+
+### 25.3 What he does per 100 words
+| Habit | Rate | Reading |
+|---|---|---|
+| **Floor management** (*okay, all right, anyway, look, now, so, first of all*) | **0.96** | **8× anything else — the single most characteristic feature of his speech.** He punctuates constantly and uses it to open, close and redirect |
+| Procedural direction (*I'm going to, what I want to do, I'll schedule*) | 0.25 | |
+| **Teaching the law** (*the onus, witness box, cross-examine, you don't need*) | **0.23** | ⭐ **He explains the law almost as much as he directs procedure.** At a mention. That is a choice |
+| Concession / softening (*I'm not being critical, I'm not picking on you, with respect*) | 0.13 | ⚠ **A tell. When it appears, the criticism is arriving** — 11 times |
+| Invoking his own experience (*in my experience, back in my day, if I was presiding*) | 0.12 | He grounds rulings in practice, not authority |
+| Hypothetical staging (*let's just pretend, say you, for instance*) | 0.08 | Teaches by simulation — *"you're here in the witness box and you say…"* |
+| **Restate-and-check** (*is that what you're saying, do you say*) | **0.11 — only 9 times** | ⚠ **Corrects §16.** It is a signature move, not a constant one. It appears when he has stopped following |
+
+### 25.4 The question arc — he frames first, then inquires
+Questions as a share of his segments, by tenth: **0% → 5% → 21% → 19% → 7% → 19% → 17% → 22% → 17% → 13%.**
+⇒ Nothing for the first 6½ minutes; then a sustained ~20% for the rest. **The dip to 7% is the long
+teaching stretch immediately after the 29:39 intervention** — he stopped asking and started explaining.
+
+### 25.5 ⛔ THE ONE PHRASE HE COULD NOT LEAVE ALONE
+His only content trigram used ≥9 times, besides *"the health service"* (14) and *"I'm going to"* (9):
+> **"unassessed unilateral directives" — 9 times.**
+He repeated the Appellant's **own pleaded phrase** nine times in 65 minutes, and the three slowest
+segments of the entire hearing are him taking it apart (§17, §22.4): *"you've placed subjectively a
+characterisation on these emails."*
+⇒ ⭐⭐⭐ **When a member repeats your own words back nine times, the words are the problem.** That is a
+direct instruction to change the pleading, and it is the strongest support in the tape for the
+Second Amended 9A stripping the characterisation vocabulary.
