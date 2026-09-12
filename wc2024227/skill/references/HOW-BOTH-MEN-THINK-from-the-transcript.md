@@ -1000,3 +1000,89 @@ a ground.
 
 ⭐⭐ **The whole hearing was two men. The two entities the application was aimed at contributed
 twenty-eight words between them, and neither said anything about a document.**
+
+---
+
+# 16. ⭐⭐⭐ WAS IT AN INVITATION? NO — AND WHAT MSH WAS ACTUALLY THERE FOR
+
+## 16.1 The sentence, read in its own context
+
+`30:19`–`30:26`, segs 439–443:
+
+> *"**I'm going to schedule this disclosure dispute for a hearing.** / And the health service **is
+> going to need to call evidence** / to talk to their objections, / and the regulator may or may not
+> have anything to say,"*
+
+⭐⭐⭐ **Future conditional. "Call evidence" means lead witness evidence at a listed contested
+hearing — not make oral submissions now.** It sits inside the priced deterrent of `31:01`
+(*"they'll bring their lawyers along… cost consequences… a big sideshow"*). **It is a description
+of what pressing the application would cost, not an invitation to anyone in the room.**
+
+**No invitation. Not to MSH, not to the Regulator, not to anybody.**
+
+## 16.2 ⭐⭐⭐ BUT LOOK WHAT MSH WAS THERE FOR — from the file, not the transcript
+
+| | |
+|---|---|
+| **5 June 2026** | ⭐⭐⭐ **MSH files its objection — the 20-item objection (K-LM26/729), Cridland signature, Myla Ruttan contact** |
+| **15 June 2026** | ⭐⭐⭐ **Notice of listing: 7 August before Dwyer — *Myla Ruttan (MSH) REQUIRED TO ATTEND*** |
+| Register note | *"This is the listing at which **the objection / 64G is dealt with**."* |
+| Cory's note of the day | *"Myla Ruttan (**compelled**, named in the notice — **appearance only**); Lauren Griffin (**unordered**); Matheson; + an unannounced man"* |
+
+*(Sources: `evidence-index/communications-register.md` ll. 22, 52, 56; `working-notes.md` ll. 118,
+546, 4388; `FULL-PICTURE.md` l. 22. ⚠ **Re-read the 5 June objection to source before relying on
+the item count.**)*
+
+⚠ **And note: the recording begins mid-sentence at `00:00.00`. The appearances are NOT on this
+file.** Who appeared for whom comes from the notice and Cory's own note, not the transcript.
+
+## 16.3 ⭐⭐⭐ SO: COULD THEY HAVE SPOKEN? YES — AND THEY WERE ASKED
+
+| | |
+|---|---|
+| `61:39` seg 1010 | ⭐⭐⭐ ***"And Ms Rutland, any?"*** — an **express, open invitation**. **1.12 s. Nothing transcribed.** Then *"Okay, all right."* |
+| `63:52` seg 1051 | *"Ms Rutten, is that alright with you?"* — a closed question about the stand-down |
+| `63:56` seg 1052 | ***"Yes, Your Honour, that's fine, thank you."*** — **the whole of it. Seven words.** |
+
+**A lawyer compelled by notice to attend the listing at which her client's own objection was to be
+determined was asked outright whether she had anything, and had nothing.**
+
+## 16.4 ⭐⭐⭐ WHY SHE DIDN'T NEED ANYTHING
+
+**Because the objection was already in writing, and the application was parked at `02:29` — before
+the Appellant's first word. If the merits are never reached, the objection is never tested, and
+silence costs the objector nothing.**
+
+⭐⭐⭐ **The listing was convened to deal with MSH's objection. In 64 minutes the objection was not
+examined for one second. What was examined, item by item for 64 minutes, was the Appellant's own
+pleading.**
+
+Nor was it put to anyone else: the three things asked of Ms Matheson were about the **Regulator's**
+disclosure (`17:35`), whether she had seen a document handed up (`22:29`), and an email request
+(`40:36`). **Nobody in the room was asked to justify a single objection.**
+
+## 16.5 ⛔⛔ THE LIMIT — say it once
+
+⛔ **Nothing improper. Not a ground. Never on paper, never to the Registry, never in a letter.**
+A Commissioner may case-manage; an objector whose objection is in writing and not reached is under
+no duty to argue it; and the application was **deferred with rights expressly reserved**, not
+refused. ⛔ **This is the asymmetry, and per the standing rule the asymmetry is held in reserve and
+never pleaded.**
+
+## 16.6 ⭐⭐⭐ WHAT IT CHANGES FOR THE FOUR WEEKS
+
+1. ⭐⭐⭐ **The document to work is the 5 June objection, not the Form 29.** MSH has **twenty stated
+   grounds in writing that have never been tested by anyone.** Narrow *against those*, item by
+   item — an objection answered on its own terms is the only thing that shortens the list without
+   surrendering it.
+2. ⭐⭐⭐ **Their silence is not agreement, but it is not a position either.** They banked nothing
+   oral. Whatever they argue later must come out of the 5 June document — **so pin them to it now,
+   in writing, before anything is pressed.** The authenticity letter already queued is the right
+   instrument; the objection is the second one.
+3. ⭐⭐ **Attendance is a cost to them too.** Ruttan attended under compulsion, *appearance only*.
+   If any part is pressed, she must attend again. ⭐ **That is the mirror of the cost the
+   Commissioner priced against Cory — and it is a reason MSH may prefer to resolve items in the
+   four weeks rather than argue them.**
+4. ⛔ **But he still does not write to MSH about disclosure.** The Commissioner directed the
+   discussions to **Ms Matheson** (segs 977, 1043–1044). ⭐⭐ **Everything goes through the
+   Regulator, who carries model-litigant obligations and who said twenty-one words all day.**
