@@ -264,8 +264,10 @@ S1 = [
 ]),
 ("n", "The complaint of 13 May 2024", [], [
  ("On 13 May 2024 the Appellant lodged a complaint with the Metro South Health Ethical Standards "
-  "Unit, on that Unit\u2019s own complaint form. <b>The content of the complaint is not set out in "
-  "this statement.</b>", [-1]),
+  "Unit, on that Unit\u2019s own complaint form.", [-1]),
+ ("The complaint concerned matters falling within the circumstances pleaded at (a) to (i) above, "
+  "including the effect on clinical staff and on the time taken for calls to reach them. <b>Its "
+  "content is not otherwise set out in this statement.</b>", [-1]),
  ("On 15 May 2024 at 3:35 pm he sent that complaint by email to the Ethical Standards Unit, to "
   "CO_Complaints and to LBH_HR.", [-1]),
  ("At 3:41 pm that afternoon, six minutes later, an officer of Human Resources forwarded that "
