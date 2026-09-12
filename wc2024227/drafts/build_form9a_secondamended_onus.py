@@ -382,14 +382,47 @@ s += [P("<b>S1.11 &nbsp;The matters raised in August and September 2023, and the
    "commence full-time hours from 16 October 2023.", SUBP)]
 s += q(list(range(26,39))+list(range(155,162)))
 
-s += [P("<b>S1.12 &nbsp;The special pandemic leave application, February 2024.</b> The leave request "
-   "history records the application as created, submitted, declined, resubmitted, declined again, "
-   "resubmitted and approved, the Appellant being recorded as having submitted it on three occasions "
-   "and the Manager as having declined it on two. The interval between the final submission and its "
-   "approval was thirteen minutes and thirty-five seconds. The Instrument of Human Resource "
-   "Sub-Delegation for paid special pandemic leave does not permit further sub-delegation of the "
-   "powers it confers.", SUBP)]
-s += q(list(range(114,143)))
+s += [P("<b>S1.12 &nbsp;The special pandemic leave application, February 2024 &mdash; the sequence.</b> "
+   "On 20 February 2024 the Appellant messaged the Switchboard Manager stating that he had tested "
+   "positive for COVID-19 and asking what the policy was. The review decision records that she "
+   "advised he was eligible for up to five days of paid leave under the Special Pandemic Leave "
+   "request, that photo evidence of the test against his identification was required, and that she "
+   "\"requested that you send it to her so she could submit it in MyHR\". The Respondent pleads that "
+   "she asked the Appellant to submit the request himself via myHR and attach a statutory declaration "
+   "or photo evidence. The myHR submissions report records the initiator of that Smart Leave Request "
+   "as the Appellant, and the Respondent does not allege that any other Switchboard employee was "
+   "required to submit a Special Pandemic Leave request personally through myHR in February 2024.", SUBP),
+ P("The leave request history for Process Reference 15480560 records the Appellant creating a draft "
+   "at 11:24:48 on 20 February 2024 and submitting the request at 11:41:27 the same morning; the "
+   "request being declined at 12:23:43 on 21 February 2024; being submitted again at 06:07:32 on "
+   "28 February; being declined again at 09:06:07 on 29 February; being submitted a third time at "
+   "11:07:28 on 29 February; and being approved at 11:21:03 that morning, thirteen minutes and "
+   "thirty-five seconds after that third submission. The history records the Appellant as having "
+   "submitted the request on three occasions and the Manager as having declined it on two. The "
+   "interval between the creation of the draft and the final approval recorded at 16:05:08 on "
+   "1 March 2024 is ten days, four hours, forty minutes and twenty seconds.", SUBP),
+ P("Two reasons for the declines appear on the record and they are not the same. The review decision "
+   "records that on 21 February 2024 the Manager messaged that she had to decline the request because "
+   "the minimum period for COVID leave was five days for a positive staff member, and that she noted "
+   "the statutory declaration provided was sufficient evidence and asked him to resubmit his leave "
+   "days; it records the Appellant as having messaged that he was confused about why his amended "
+   "request was declined and that he had done everything as required. The Respondent pleads that she "
+   "declined the application because on her assessment the required statutory declaration was not "
+   "attached to the myHR submission, and pleads further that <b>a review indicates that in fact the "
+   "attachments were present on the Appellant's submission</b>, and that this was human error on the "
+   "background of high work demands.", SUBP)]
+s += q(list(range(114,126))+list(range(132,143)))
+
+s += [P("<b>S1.12A &nbsp;The authority to decide that application.</b> The power to approve paid "
+   "special pandemic leave was sub-delegated by an Instrument of Human Resource Sub-Delegation signed "
+   "by the Health Service Chief Executive on 23 November 2022 and effective from 5 December 2022. "
+   "That Instrument states that it \"does not permit the further sub-delegation of the powers "
+   "outlined in (a) above\". In the leave request history the Switchboard Manager is identified as "
+   "\"Reviewer\" and the Director as \"Manager\". The Respondent does not allege that either of them "
+   "was a Band 9 delegate at any relevant time in February or March 2024, and does not identify the "
+   "person who exercised the power sub-delegated by that Instrument in respect of Process Reference "
+   "15480560.", SUBP)]
+s += q([126,127,128,129,130,131])
 
 s += [P("<b>S1.13 &nbsp;The complaint of 13 May 2024.</b> On 13 May 2024 the Appellant made a "
    "complaint to the Metro South Health Ethical Standards Unit, which that Unit determined on "
