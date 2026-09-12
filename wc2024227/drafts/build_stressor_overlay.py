@@ -5,8 +5,10 @@ The three stressors, built only from the facts the Respondent answered on 8 Sept
 with the role description placed at each point where a duty bears on what follows, and the
 2024 Emergency Code Register carried in red as material still to be admitted.
 
-Facts are pulled from build_form24_second.py with the renumber pass applied, so every number
-is the number on the served Form 24 and no text is retyped.
+Facts are the 303 paragraphs of the notice to admit facts served 28 August 2026 as the
+Respondent answered them on 8 September 2026, read from
+documents/regulator-response-2026-09-08/SERVED_303_facts_and_verdicts.json via served_facts.py.
+Not from build_form24_second.py, which is a working draft and has moved on from what was served.
 """
 import io, re, pikepdf
 from reportlab.lib.pagesizes import A4
@@ -15,14 +17,8 @@ from reportlab.lib.units import mm
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer
 
-src = open('build_form24_second.py').read()
-_blk = src[src.index('R_TAYLOR ='):src.index('\n]\n', src.index('FACTS = ')) + 2]
-_end = "del _n, _new, _L, _relab, _prev"
-_ren = src[src.index('import re as _re'):src.index(_end) + len(_end)]
-_g = {}; exec(_blk, _g, _g); exec(_ren, _g, _g)
-F = {f[0]: re.sub(r'\s+', ' ', f[1]).strip() for f in _g['FACTS'] if not isinstance(f[0], str)}
-assert len(F) == 308, len(F)
-PENDING = {154, 228, 229, 230, 231}
+from served_facts import FACT as F, NOT_ADMITTED as PENDING, TOTAL
+assert TOTAL == 303
 
 BLUE = colors.HexColor('#123f8c'); GREY = colors.HexColor('#6b6b6b'); RED = colors.HexColor('#9b1c1c')
 H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=13, leading=15.5, spaceAfter=2)
@@ -112,9 +108,9 @@ DOC = [
  (None, "4(a) &nbsp;What was provided, and what the Respondent lists",
   [("f", list(range(274, 283)))]),
  (None, "4(b) &nbsp;Facts already admitted in this proceeding on 18 February 2026",
-  [("f", list(range(283, 305)))]),
+  [("f", list(range(283, 300)))]),
  (None, "4(c) &nbsp;Matters the Respondent does not allege",
-  [("f", list(range(305, 309)))]),
+  [("f", list(range(300, 304)))]),
 ]
 
 s = [P("THE STRESSOR OVERLAY &ndash; THE POSITION, THE THREE STRESSORS, AND THE ADMITTED FACTS", H1),
@@ -166,8 +162,8 @@ for _, _, parts in DOC:
     for kind, payload in parts:
         if kind != "note": used += payload
 seen = sorted(set(used))
-missing = [i for i in range(1, 309) if i not in seen]
+missing = [i for i in range(1, 304) if i not in seen]
 dupes = sorted({x for x in used if used.count(x) > 1})
-print(f"built {out} - {n} page(s); {len(seen)} of 308 facts placed")
+print(f"built {out} - {n} page(s); {len(seen)} of 303 facts placed")
 print("missing:", missing if missing else "none")
 print("placed twice (role lines repeated by design):", dupes)

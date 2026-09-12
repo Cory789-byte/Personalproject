@@ -4,8 +4,10 @@
 The position as the role description states it, and against each duty, the facts the
 Respondent admitted on 8 September 2026, in full and word for word.
 
-Facts are pulled from build_form24_second.py (the single source of truth) with the
-renumber pass applied, so the numbers are the numbers on the served Form 24.
+Facts are the 303 paragraphs of the notice to admit facts served 28 August 2026 as the
+Respondent answered them on 8 September 2026, read from
+documents/regulator-response-2026-09-08/SERVED_303_facts_and_verdicts.json via served_facts.py.
+Not from build_form24_second.py, which is a working draft and has moved on from what was served.
 
 INTERNAL working document. No characterisation; every black and blue line is the text
 of a document. Red is navigation only and is not evidence.
@@ -17,14 +19,8 @@ from reportlab.lib.units import mm
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, KeepTogether
 
-src = open('build_form24_second.py').read()
-_blk = src[src.index('R_TAYLOR ='):src.index('\n]\n', src.index('FACTS = ')) + 2]
-_end = "del _n, _new, _L, _relab, _prev"
-_ren = src[src.index('import re as _re'):src.index(_end) + len(_end)]
-_g = {}; exec(_blk, _g, _g); exec(_ren, _g, _g)
-FACT = {f[0]: re.sub(r'\s+', ' ', f[1]).strip() for f in _g['FACTS'] if not isinstance(f[0], str)}
-assert len(FACT) == 308, len(FACT)
-NOT_ADMITTED = {154, 228, 229, 230, 231}
+from served_facts import FACT, NOT_ADMITTED, TOTAL   # the 303 facts as served and answered
+assert TOTAL == 303
 
 BLUE = colors.HexColor('#123f8c'); GREY = colors.HexColor('#6b6b6b'); RED = colors.HexColor('#8a2b2b')
 H1  = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=13, leading=15.5, spaceAfter=2)
@@ -98,7 +94,7 @@ S = [
  "employer has stated in writing what did and did not exist for this position over the period."),
 
 ("I. &nbsp;What the Respondent does not allege about the Appellant's performance of the role", [],
- [305, 306, 307, 308],
+ [300, 301, 302, 303],
  "Four negatives, each tied to the pleading as presently constituted."),
 ]
 

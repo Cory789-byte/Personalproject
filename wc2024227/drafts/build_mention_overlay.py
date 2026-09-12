@@ -4,8 +4,10 @@
 What was said at the mention of 7 August 2026, and what the Respondent admitted on
 8 September 2026 in answer to the notice to admit facts served 28 August 2026.
 
-Facts are pulled verbatim from build_form24_second.py (the single source of truth) with
-the renumber pass applied, so the numbers here are the numbers on the served Form 24.
+Facts are the 303 paragraphs of the notice to admit facts served 28 August 2026 as the
+Respondent answered them on 8 September 2026, read from
+documents/regulator-response-2026-09-08/SERVED_303_facts_and_verdicts.json via served_facts.py.
+Not from build_form24_second.py, which is a working draft and has moved on from what was served.
 
 INTERNAL. The mention transcript is a working transcript produced from the approved audio.
 It is NOT a certified transcript and the speaker labels are inferred (90% on hand-checked
@@ -19,14 +21,8 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, KeepTogether
 
 # ---------- facts, verbatim, with the served numbering ----------
-src = open('build_form24_second.py').read()
-_blk = src[src.index('R_TAYLOR ='):src.index('\n]\n', src.index('FACTS = ')) + 2]
-_end = "del _n, _new, _L, _relab, _prev"
-_ren = src[src.index('import re as _re'):src.index(_end) + len(_end)]
-_g = {}; exec(_blk, _g, _g); exec(_ren, _g, _g)
-FACT = {f[0]: re.sub(r'\s+', ' ', f[1]).strip() for f in _g['FACTS'] if not isinstance(f[0], str)}
-assert len(FACT) == 308, len(FACT)
-NOT_ADMITTED = {154, 228, 229, 230, 231}
+from served_facts import FACT, NOT_ADMITTED, TOTAL   # the 303 facts as served and answered
+assert TOTAL == 303
 
 BLUE  = colors.HexColor('#123f8c')
 GREY  = colors.HexColor('#6b6b6b')
@@ -164,7 +160,7 @@ E = [
    "well, you know, that's a problem for them, not for you.")],
  [],
  "He was right about the characterisation, and it should go. On 8 September the Respondent "
- "admitted 303 of the 308 facts, not admitted five (154 and 228 to 231), denied none, and gave no "
+ "admitted 298 of the 303 facts, not admitted five (154 and 228 to 231), denied none, and gave no "
  "reasons. The test he set is met on his own terms."),
 
 ("10. &nbsp;34:43 &ndash; the communication book",
@@ -227,7 +223,7 @@ E = [
 # ---------- the authenticity point ----------
 TAIL_HEAD = "What the Respondent did not admit, and the pattern in it"
 TAIL = [
- "Five facts of 308 were not admitted: 154 (that the Communication Book is not on the amended List "
+ "Five facts of 303 were not admitted: 154 (that the Communication Book is not on the amended List "
  "of Documents) and 228 to 231 (the entries in the 2024 Emergency Code Register for 17, 18 and "
  "19 March 2024). Nothing was denied and no reasons were given.",
  "Separately, on the Form 25, the authenticity of fourteen documents was disputed, among them "
