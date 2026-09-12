@@ -104,11 +104,14 @@ E = [
   ("DWYER IC", "Have you asked them to produce the unassessed unilateral directives?"),
   ("MR SHEPHERD", "Not those specific things, no.")],
  [],
- "⭐ It had already been done. The Appellant asked the Regulator for an up-to-date list of "
- "documents and for the non-party notices with the documents produced under each on "
- "24 July 2026 - fourteen days before the mention. On 3 August the Regulator undertook to "
- "provide them \"as soon as possible this week\"; they arrived on 14 August 2026, seven days "
- "after the mention. That request was outstanding on the day and was not said on the record. "
+ "⭐ A written request was already outstanding, though not the narrower one directed. The "
+ "Appellant had asked the Regulator for an up-to-date list of documents and for the non-party "
+ "notices with the documents produced under each on "
+ "24 July 2026 - fourteen days before the mention. On 3 August the Regulator apologised for the "
+ "delay and undertook to provide them \"as soon as possible this week\"; they arrived on "
+ "14 August 2026, seven days after the mention. The narrower step the bench directed - asking "
+ "for the directives by description - had NOT been taken. But a written request was overdue on "
+ "the day, and that was not said on the record. "
  "The later request of 9 September 2026 asks for the remaining documents by item; the reply of "
  "10 September seeks until 25 September."),
 
