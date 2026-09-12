@@ -860,3 +860,65 @@ either man finishes the other's sentence, and it is the bench finishing the Appe
 **26.8 What cannot be answered without the audio.** Whether the fast entries at 26:29 and 27:32 were
 also louder or higher in pitch. If the recording is restored to a session, re-run Praat over those
 two entries and over 27:59 and 29:17; that is the single highest-value remaining measurement.
+
+---
+
+## 27. ⭐⭐⭐ WHAT THE BENCH WAS ACTUALLY DOING — AND WHY THE APPELLANT WAS NOT SLOW
+
+> 12 September 2026. Recorded at the Appellant's correction of an assessment made in conversation.
+
+**27.1 ⛔ Correction.** It was said in conversation that the frame was laid "before he knew what the
+application contained." **That is wrong**, and it contradicts a quotation already in §25.1. The tape
+shows the bench had read the material before he opened:
+
+- His own fourth move: *"there are a number of aspects to **the application that you brought** that I
+  think are potentially going to impact on the efficiency."*
+- He reads the Form 9A stressors aloud verbatim, one by one, from A to G.
+- *"I see a very comprehensive objection"* — Metro South Health's letter of 5 June 2026, which
+  admitted fact 263 records was **addressed to Commissioner Dwyer**.
+- *"I'm not sure that these documents form part of your non-party disclosure from recollection."*
+
+The frame was laid **after** reading and **before engaging on the record**. That is a different
+thing, and the difference matters.
+
+**27.2 ⭐⭐ The better reading: a three-cornered problem, solved without an order.** He was holding
+three things at once — a non-party facing what he called *"quite an imposition"*; a self-represented
+appellant whose application would consume the matter; and an appeal he wanted left intact. The route
+he chose delivered all three: MSH out without a ruling, no adverse order against the Appellant,
+nothing about that hour on the record, and the appeal running.
+
+**27.3 ⭐⭐⭐ And it produced more than the order would have.** The redirect — *ask the Regulator
+first* — ran:
+
+| | |
+|---|---|
+| 11 Aug 2026 | Stressor 1(a) particulars bundle, 30 pages, six tabs (admitted, fact 282) |
+| 28 Aug 2026 | Form 24, 303 paragraphs |
+| 8 Sep 2026 | **298 admitted, 5 not admitted, 0 denied** |
+
+Most of Metro South Health's material arrived from the Regulator, without compelling a non-party.
+
+**27.4 The one cost, and it is exactly one.** Paragraphs **228 to 231** — the 2024 Emergency Code
+Register for 17 to 19 March 2024 — are four of the five not admitted. That is the item the non-party
+route would have compelled. It is the single outstanding item on 25 September 2026. ⇒ **The redirect
+cost one document, and it is the one still being chased.**
+
+**27.5 ⭐⭐ The Appellant was not slow to catch it.** The mention of 7 August 2026 was **listed as the
+hearing of the rule 64G application**. He came to argue disclosure because disclosure was the listed
+question. The bench changed the question inside the first 6½ minutes **without announcing it**, and
+the measurement of that is §25.1: 61 segments, **zero questions**. A reframe that has not been put
+cannot be answered. Substantive engagement with the new question begins about 16:00 and lands by
+18:31 — *"Have you asked them to produce the unassessed unilateral directives?" / "Not those specific
+things, no."* **Twelve minutes to identify an unannounced change of question, first mention,
+unrepresented.**
+
+**27.6 ⭐⭐⭐ THE TRANSFERABLE TELL.** A member who speaks for six minutes without asking anything has
+already decided. From that point the hearing is about **their** frame, not the listed question. The
+move on spotting it is one sentence:
+
+> *"Commissioner, am I right that you'd prefer I take this up with the Regulator before pressing the
+> application today?"*
+
+That converts twelve minutes of catching up into a single question, and puts the party in front of
+the redirect instead of behind it. ⭐ **Watch the question rate in the first tenth. Zero means the
+frame is already set.**
