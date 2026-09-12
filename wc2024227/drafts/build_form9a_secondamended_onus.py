@@ -228,13 +228,27 @@ s += [
    "two persons were also the after-hours contact, and from 14 May 2024 the same person was the route "
    "for notifying unavailability.", SUBP)]
 s += duty([6,7])
-s += q([39,40,41,42,43,44,45,55,49,50,51,52,53,54,111,112,113,162,163,164,165,166,273])
+s += q([39,40,41,42,43,44,45,46,47,48,55,49,50,51,52,53,54,111,112,113,162,163,164,165,166,273])
+s += [P("(a1) &nbsp;<b>The criticality of the function, as admitted by the Respondent.</b> On "
+   "18 February 2026 the Respondent admitted that \"Maintaining accurate contact details for "
+   "medical staff is a critical function of the Switchboard to ensure effective clinical handover "
+   "and patient safety\", adding that there was a procedure in place for this to occur, and denied "
+   "a further paragraph on the ground that there was already a procedure in place. The procedure in "
+   "place from 18 July 2023 is the procedure pleaded at (a) above: the operator could not amend an "
+   "entry, and an amendment was to be sought from one of two persons, one of whom worked one and a "
+   "half days a fortnight in a temporary project role. Its operation between 2 and 20 May 2024 is "
+   "pleaded at (h) below.", SUBP)]
+s += q([283,289,290,291])
 s += [P("(b) &nbsp;<b>The Communication Book entry of 6 June 2023.</b> A reminder concerning the "
    "monthly update of medical contact numbers was removed. The Respondent admits the removal in its "
    "pleading and again on 8 September 2026, does not allege the page has been located or copied, and "
-   "does not list the Communication Book.", SUBP)]
+   "does not list the Communication Book. On 18 February 2026 the Respondent admitted that Ms Taylor "
+   "removed a page from the workplace communications book, and did not admit that the page contained "
+   "the Appellant's handwriting \"because the respondent does not have a copy of the page\". It also "
+   "admitted that in an email to Ms Reese of 6 June 2023 Ms Taylor stated: \"I did raise my voice and "
+   "asked him to please stop talking over the top of me.\"", SUBP)]
 s += duty([9])
-s += q([143,144,145,146,147,148,149,150,151,152,153,154])
+s += q([143,144,145,146,147,148,149,150,151,152,153,154,288,292])
 s += [P("(c) &nbsp;<b>The matters raised in August and September 2023, and the response.</b>", SUBP)]
 s += q(list(range(26,39))+list(range(155,162)))
 s += [P("(d) &nbsp;<b>The special pandemic leave application, February 2024.</b> Submitted three "
@@ -303,7 +317,7 @@ s += [P("(b) &nbsp;The Respondent pleads that any discrepancies were remedied in
    "that there are no outstanding underpayments. The claim submitted on 28 May 2024 is recorded as "
    "\"Part Completed\", and neither claim reference identified by Payroll on 3 May 2024 appears in the "
    "report.", SUBP)]
-s += q([203,204,207,208,209,210])
+s += q([203,204,207,208,209,210,296,297,298])
 s += [P("[⚠ CORRECTIONS TO THE AMENDED FORM 9A OF 7 APRIL 2026 &mdash; (i) the word \"IMMEDIATELY\" "
    "does not appear in the Payroll instruction of 3 May 2024; paragraph 195 records \"Please submit an "
    "AVAC to correct these shifts for each fortnight\". (ii) The \"42% pay disparity\" is not supported "
@@ -320,11 +334,28 @@ s += duty([2,13])
 s += q(list(range(211,224)))
 s += [P("(a1) &nbsp;<b>The rostering history.</b> A rostering error in August 2023 was acknowledged by the manager, who offered to roster the Appellant off the following day \"to give you the required rest period\", and by the Director, who accepted there had been \"a rostering error that was accidentally\" made. The Appellant applied in writing to increase his hours to a full-time rotational roster, confirmed he was able and willing to work any roster presented to him including the full 24-hour rotational schedule, expressed willingness to take on additional night shifts, and provided a draft roster spreadsheet. In November and December 2024 the employer released a Consultation Paper and outcome proposing a more equitable roster with redistribution of nights based on FTE and a rotational roster ensuring fair distribution of penalties.", SUBP)]
 s += q([28,30,31,33,35,156,157,159,287]+list(range(167,182)))
+s += [P("(a2) &nbsp;<b>The Respondent's pleaded position on the roster.</b> On 18 February 2026 "
+   "the Respondent denied paragraphs of the Appellant's earlier notice on the grounds \"because the "
+   "comparator used does not represent a true comparator in the circumstances and because the "
+   "roster was equitable\". In November 2024 the employer released a Consultation Paper proposing a "
+   "roster \"intended to introduce a more equitable roster for Switchboard Services\", including "
+   "\"Redistribution of nights for greater equity based on FTE\" and a \"Rotational roster for "
+   "predictability and equity to all staff ensuring fair distribution of penalties\".", SUBP)]
+s += q([299,171,172,173])
 s += [P("(b) &nbsp;The shifts of 17 and 18 March 2024 were separated by a seven-hour break. The Award "
    "requires a break of not less than ten hours, and eight hours applies instead of ten only in "
    "specific circumstances. The 8-hour agreement of 17 June 2020 applies only where staff-initiated "
    "shift swaps have occurred, and the Respondent does not allege these shifts arose from such a swap.", SUBP)]
-s += q(list(range(17,26))+list(range(224,228))+[257])
+s += q(list(range(17,26))+list(range(224,228))+[232,233,234,257,284,285,286])
+s += [P("(b1) &nbsp;<b>The standard, as admitted.</b> On 18 February 2026 the Respondent admitted "
+   "that \"The Employer's 'Fatigue Risk Management Policy' and the relevant Award require a minimum "
+   "break of 10 hours between shifts, or 8 hours by written agreement\", and that the shifts of "
+   "17 and 18 March 2024 resulted in \"a break of only 7 hours\". It denied a further paragraph on "
+   "the ground of the agreement of June 2020. The Respondent pleads that the Appellant could refuse "
+   "shifts at any time; the role description states, under mandatory requirements, that the "
+   "position is a continuous shift working role and that the occupant must be able to work a roster "
+   "covering multiple shifts over a 24/7 period.", SUBP)]
+s += duty([13])
 s += [P("[⚠ CORRECTION &mdash; the Amended Form 9A of 7 April 2026 pleaded a flat \"10-hour minimum\". "
    "The minimum is ten hours with eight applying only in specific circumstances (paragraph 257), and "
    "the agreement's scope is now answered by paragraphs 224, 225 and 234 rather than asserted.]", NOTE),
@@ -341,7 +372,16 @@ s += [P("[TO BE ADMITTED &mdash; the 2024 Emergency Code Register, a Metro South
    "enquiry was escalated to Human Resources on 9 April. No response is alleged between 9 April and "
    "1 May, an interval of 23 days, when the payment was refused. The leave of 19 March 2024 came from "
    "the Appellant's own leave.", SUBP)]
-s += q(list(range(242,257)))
+s += q(list(range(242,257))+[235,236,237,239,240])
+s += [P("(d1) &nbsp;<b>The leave of 19 March 2024, and the employer's own policy.</b> The Leave "
+   "Takings Report produced by Metro South Hospital and Health Service records the leave taken on "
+   "19 March 2024 as Leave Category \"Sick\", Leave Type \"Sick Leave\", Time Code \"SCK\". The "
+   "Respondent pleads that the leave was paid, and that clause 18.10 of the Award denies fatigue "
+   "leave because no overtime was performed. The employer's own fatigue policy of June 2020, as "
+   "recorded in the review decision, states that many problems regarding fatigue leave can be "
+   "overcome by not rostering an employee who is on call for the first shift of the following day, "
+   "and by not rostering on call an officer who is rostered for the first shift on the following "
+   "day.", SUBP)]
 s += [P("(e) &nbsp;The Respondent's own review decision of 24 October 2024 finds that the break "
    "equated to seven hours, that the rostering of the two shifts amounted to unreasonable management "
    "action, that the Appellant sustained a personal injury of a psychological nature, and that his "
@@ -423,7 +463,7 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "and contentions does not identify, by particular, date, document or cross-reference, the "
    "management action relied upon. No disciplinary process, formal performance management or "
    "communication described as a warning before 18 June 2024 is alleged.", PLD)]
-s += q([300,301,302,303])
+s += q([238,295,300,301,302,303])
 
 s += [P("PART D &mdash; ORDERS SOUGHT", PART),
  P("1. The appeal be allowed. 2. The decision of the Respondent dated 24 October 2024 be set aside. "
