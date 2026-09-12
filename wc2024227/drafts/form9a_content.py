@@ -70,14 +70,61 @@ S1 = [
   "means of notification was required.", [166]),
 ]),
 ("f", "The obligation to consult, and the absence of any record of consultation", [11], [
- ("Clause 3.2 of the Queensland Public Health Sector Certified Agreement (No. 11) 2022 provides that "
-  "the requirement of consultation is never to be treated perfunctorily or as a mere formality; that "
-  "consultation involves more than a mere exchange of information and requires participants to "
-  "contribute to the decision-making process “not only in appearance, but in fact”; and that "
-  "the process requires the exchange of timely information so that the parties have “an actual "
-  "and genuine opportunity to influence the outcome, before a final decision is made”. Clause "
-  "4.1.4 requires a business case to be tabled for consultation for significant organisational change "
-  "including major alterations to current service delivery arrangements.", [-1]),
+ ("<b>The instrument in operation.</b> The Queensland Public Health Sector Certified Agreement "
+  "(No. 11) 2022 was certified by the Commission on 26 May 2023 under section 193 of the "
+  "<i>Industrial Relations Act 2016</i> and had a nominal expiry date of 31 August 2025. Clause 1.13.3 "
+  "records that the policies preserved by the Agreement apply to “Queensland Health including HHS "
+  "employees”, and the Agreement prescribes classifications and rates of pay for Administration "
+  "Officers including AO3. It was accordingly the certified agreement in operation at every time "
+  "pleaded in this statement. The Queensland Public Health Sector Certified Agreement (No. 12) 2025 "
+  "was not certified until 23 December 2025 and has no application to any matter pleaded here.", [-1]),
+ ("<b>Clause 3.2 — Commitment to Consultation.</b> Clause 3.2.2 records the parties’ commitment "
+  "to involving employees and their union representatives in “the decision-making processes that "
+  "may affect the workplace”, and that employees “will be encouraged to participate in the "
+  "consultation processes by being allowed adequate time to understand, analyse and seek appropriate "
+  "advice from their union and respond to such information”.", [-1]),
+ ("Clause 3.2.3 provides that “[t]he requirement of consultation is never to be treated "
+  "perfunctorily or as a mere formality”. Clause 3.2.4 provides that consultation “involves "
+  "more than a mere exchange of information” and that for consultation to be effective “the "
+  "participants must be contributing to the decision making process not only in appearance, but in "
+  "fact”. Clause 3.2.5 provides that the process “requires the exchange of timely information "
+  "relevant to the issues at hand so that the parties have an actual and genuine opportunity to "
+  "influence the outcome, before a final decision is made”.", [-1]),
+ ("<b>The Appellant does not contend that the employer was obliged to decide differently.</b> Clause "
+  "3.2.5 also provides that the consultation process “does not remove the rights of management to "
+  "make the final decision in matters that may affect the workplace”. What is pleaded is not the "
+  "content of the decision but the absence of the opportunity that clause 3.2.5 requires to precede "
+  "it.", []),
+ ("<b>Clause 1.7.4.</b> Where a policy or process introduced by the employer is inconsistent with the "
+  "Agreement or less favourable, the industrial instrument prevails to the extent of the "
+  "inconsistency.", [-1]),
+ ("<b>The Award — clause 11.</b> Clause 11.1(a) of the Award requires an employer who decides to "
+  "introduce changes in organisation or structure likely to have significant effects on employees to "
+  "notify the employees who may be affected. Clause 11.1(b) defines “significant effects” as "
+  "including “the alteration of hours of work”. Clause 11.2(a) requires the employer to "
+  "consult the employees affected about the introduction of the changes and their likely effects; "
+  "clause 11.2(b) requires that consultation to occur “as soon as practicable after making the "
+  "decision”; and clause 11.2(c) requires the employer to provide in writing “all relevant "
+  "information about the changes”.", [-1]),
+ ("<b>The Award — clause 6.2.</b> Where facilitative provisions allow conditions of employment to "
+  "be determined by agreement between the employer and the majority of employees affected, clause "
+  "6.2(c) provides that they “can only be implemented by agreement”, clause 6.2(d) that "
+  "neither party should unreasonably withhold agreement, and clause 6.2(e) that agreement “is "
+  "defined as obtaining consent of greater than 50% of employees directly affected”.", [-1]),
+ ("<b>Clause 4.1.4, in the alternative.</b> Clause 4.1.4 requires significant organisational change "
+  "or restructuring that will impact on the workforce, including major alterations to current service "
+  "delivery arrangements, to be subject to the employer establishing its benefits in a business case "
+  "tabled for consultation; a business case is not required for minor change. The Appellant does not "
+  "need to establish that the changes were significant in order to succeed on clause 3.2 or clause 11, "
+  "and pleads clause 4.1.4 in the alternative only. He relies, as to characterisation, on the "
+  "employer’s own description of its rostering proposal as a “business case for change”, "
+  "pleaded at Stressor 3(b) below.", [221]),
+ ("<b>The clause referred to on the review.</b> The decision under appeal records that in his response "
+  "of 9 August 2024 the Appellant referred to the employer not following principles in the Agreement "
+  "“particularly section 1.9”. Clause 1.9 of the Agreement is headed <i>Posting of the "
+  "Agreement</i>. The Appellant, who was self-represented and unwell, does not rely on clause 1.9 in "
+  "this appeal. He relies on the clauses set out above, which he bears the onus of establishing and "
+  "which are proved by the instruments themselves.", [-1]),
  ("The change notified on 15 April 2024 was stated to be effective the day it was notified.", [51]),
  ("The Respondent’s amended List of Documents records no document recording consultation with "
   "Switchboard operators before that change.", [273]),
@@ -280,6 +327,29 @@ S1 = [
   "Appellant on 11 June 2026, and is relied upon as the Respondent\u2019s own disclosed material.", [-1]),
  ("On 24 December 2024 the Ethical Standards Unit determined that the complaint constituted a public "
   "interest disclosure, reference 24-ESU-1130.", [-1]),
+ ("On 18 February 2026, in its response to the Appellant’s earlier notice to admit facts, the "
+  "Respondent admitted that on 24 December 2024 the Ethical Standards Unit determined that the "
+  "Appellant’s complaint constituted a Public Interest Disclosure. That admission is paragraph 20 "
+  "of the response of that date.", [-1]),
+ ("<b>Where the matter went after the determination.</b> By that same letter the Ethical Standards "
+  "Unit identified administrative issues and referred them, for remediation, to Human Resources at "
+  "Logan and Beaudesert — the same human-resources unit to which the Appellant had sent the "
+  "complaint on 15 May 2024 at 3:35 pm and from which it was forwarded at 3:41 pm, as pleaded above.", [-1]),
+ ("No document recording what was done in consequence of that referral has been identified or "
+  "disclosed to the Appellant in the Respondent’s disclosed material presently before the "
+  "Commission.", [-1]),
+ ("The matters pleaded at Stressor 1(p) above are repeated: the Respondent’s material records that "
+  "the complaints received at the console did not result in any consequential change to operating "
+  "procedures, that fatigue risk management records for the Switchboard do not exist, and that fatigue "
+  "risk management assessment at the Switchboard was implemented only after 30 June 2024.", [263, 264, 265, 269, 270, 271]),
+ ("<b>The sequence, stated neutrally.</b> The matter therefore began at the console in May 2024, was "
+  "raised with the Ethical Standards Unit, was determined by that Unit in December 2024, and was "
+  "returned to the human-resources unit from which the Appellant’s own correspondence had been "
+  "distributed in May 2024, with no documented outcome and, on the Respondent’s own material, no "
+  "consequential change to the conditions pleaded at (a) to (i) above. <b>The Appellant alleges no "
+  "impropriety in that sequence.</b> It is pleaded because the conditions he raised were, on the "
+  "Respondent’s material, still unchanged after the process he used to raise them had run its full "
+  "course.", []),
  ("The Appellant’s contemporaneous medical record for the same week, including the renewed "
   "referral to a psychiatrist dated 16 May 2024, is pleaded at Part B.1, paragraph 1.3 above.", []),
  ("<b>No connection between the complaint, its distribution, and any other conduct pleaded in this "
@@ -346,6 +416,13 @@ S2 = [
   "required arising while you were a part-time employee”.", [255]),
  ("The Manager confirmed “that since your commencement of full-time employment, all payments for "
   "public holidays not required had been processed”.", [256]),
+ ("<b>The rostering rule that governs public holidays.</b> Clause 9.16.1 of the Queensland Public "
+  "Health Sector Certified Agreement (No. 11) 2022 provides that accumulated days off “must not "
+  "coincide with a public holiday or weekend (Saturday or Sunday) unless requested by the employee "
+  "and agreed to by the employer”, and that another day determined by mutual agreement is to be "
+  "taken in lieu, within the same four weekly work cycle where possible.", [-1]),
+ ("The Respondent does not allege that the Appellant requested that any accumulated day off coincide "
+  "with a public holiday, or that any such request was agreed.", [-1]),
 ]),
 ("c", "The correction sought, and where each direction sent it", [], [
  ("The Respondent’s disclosure contains an email thread with the subject “Corey Shepherd "
@@ -501,8 +578,39 @@ S3 = [
   "shifts. The emergency duties pleaded at Stressor 1(g) and recorded at (h) below were performed on "
   "the shift of 18 March 2024 in that condition.", []),
 ]),
-("f", "The standard, as admitted", [], [
- ("The review decision records that the employer’s own response included an extract of the Award "
+("f", "The standard: the Award, the certified agreement, and what the Respondent admits", [], [
+ ("<b>Publication of the roster.</b> Clause 15.2(b) of the Award requires a roster setting out the "
+  "employee’s days of duty and starting and finishing times to be displayed in a convenient place "
+  "or made available electronically “at least one calendar week in advance of the roster "
+  "cycle”. Clause 9.13.1 of the Agreement requires that the roster “shall be published at "
+  "least 14 days in advance of each roster cycle”. By clause 1.7.2 of the Agreement, where there "
+  "is any inconsistency between the Agreement and the Award the terms of the Agreement apply to the "
+  "extent of the inconsistency. The operative standard was therefore fourteen days.", [-1]),
+ ("<b>Consecutive shifts.</b> Clause 15.2(c) of the Award provides that “[a] shift worker shall "
+  "not perform more than two consecutive shifts (e.g. day shift/afternoon shift; afternoon "
+  "shift/night shift)”.", [-1]),
+ ("<b>Changes within a roster.</b> Clause 15.2(d) of the Award provides that changes within a roster "
+  "“shall be by agreement between the employer and the employee concerned but, failing agreement, "
+  "24 hours’ notice of any change in the roster must be given by the employer or double time is "
+  "to be paid for the employee’s next shift”.", [-1]),
+ ("<b>Introduction of shift work and roster variations.</b> Clause 15.2(a) of the Award provides that "
+  "shift work “shall be worked in accordance with a roster mutually agreed between the employer "
+  "and the union, in consultation with the employees directly affected”, and that any discussions "
+  "concerning the introduction of shift work or roster variations “shall be conducted in "
+  "accordance with the provisions of clause 6.2 of this Award” — the facilitative-provisions "
+  "procedure pleaded at Stressor 1(f) above.", [-1]),
+ ("<b>Roster concerns and fatigue.</b> Clause 9.14.2 of the Agreement records that a request for a "
+  "roster change is usually made “to address work life balance or fatigue issues”. Clause "
+  "9.14.3 provides that “[t]he employer is committed to working with its employees and their "
+  "union/s to address any rostering practices or concerns”. Clause 9.14.4 provides that the "
+  "employer “will genuinely engage with employees and their union representatives through "
+  "consultation on addressing the concerns and the design of any proposed new roster”.", [-1]),
+ ("<b>Fatigue as an agreed hazard.</b> Clause 7.1.5 of the Agreement records that, without limiting "
+  "the issues which may be included, the parties agree to address the hazards and issues of "
+  "“fatigue risk management” (clause 7.1.5(b)) and “guidelines for work arrangements "
+  "(including hours of work)” (clause 7.1.5(c)). Clause 7.2.1 records the parties’ commitment "
+  "to support psychosocial workplace audits and risk assessments of workplaces.", [-1]),
+ ("<b>The rest standard.</b> The review decision records that the employer’s own response included an extract of the Award "
   "stating that employees must be provided with a break of not less than ten hours between the "
   "termination of one shift and the commencement of another, and that eight hours applied instead of "
   "ten only in specific circumstances.", [257]),

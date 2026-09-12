@@ -427,9 +427,18 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "identified by Payroll appears in the report at all (Stressor 2(c) to (e)); (iii) the special pandemic "
    "leave application was declined twice on reasons which do not correspond, the second of which the "
    "Respondent concedes was wrong on its own review (Stressor 1(l)); (iv) the fatigue enquiry of 8 April 2024 "
-   "drew no response for 23 days (Stressor 3(j)); and (v) the Appellant's roster was decided upon and the "
-   "decision expressly withheld from him (Stressor 3(b)). The intervals at Part B.4 and the matters at Part "
-   "B.5 are relied upon.", PLD),
+   "drew no response for 23 days (Stressor 3(j)); (v) the Appellant's roster was decided upon and the "
+   "decision expressly withheld from him (Stressor 3(b)); and <b>(vi)</b> the shifts of 17 and 18 March 2024 "
+   "were rostered contrary to the standards in the industrial instruments pleaded at Stressor 3(f) &mdash; "
+   "clause 15.2(c) of the Award, which provides that a shift worker shall not perform more than two "
+   "consecutive shifts, and clause 15.2(d), which requires changes within a roster to be by agreement or, "
+   "failing agreement, on 24 hours' notice or at double time &mdash; and the roster concerns then raised "
+   "were not addressed in the manner clauses 9.14.3 and 9.14.4 of the certified agreement require, against "
+   "the background that fatigue risk management and guidelines for hours of work are hazards the parties to "
+   "that agreement expressly agreed to address (clause 7.1.5(b) and (c)). <b>The review decision has already "
+   "found the rostering of those two shifts to be unreasonable management action.</b> The instruments "
+   "identify the standard against which that finding was, and is, correctly made. The intervals at Part B.4 "
+   "and the matters at Part B.5 are relied upon.", PLD),
 
  P("<b>6. &nbsp;<i>Delaney</i>.</b> Where multiple management actions form a course of conduct, "
    "their reasonableness may be evaluated in context and as a whole. That evaluation must "
