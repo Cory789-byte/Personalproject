@@ -29,10 +29,10 @@ S1 = [
  ("<b>The removal of access was stated to be for the duration of a temporary role.</b> The email of "
   "18 July 2023 states in terms: “My current role is a project role for the Switchboard team. It "
   "is a temporary position that predominantly focuses on fixing up the database that switchboard "
-  "utilises.” The removal of access was expressed to run with that work &mdash; “While I am "
+  "utilises.”{{39}} The removal of access was expressed to run with that work &mdash; “While I am "
   "fixing up the database and all of its entries, I will be removing everyone’s access to the "
-  "database.” The decision under appeal records the same thing: the role was “a project role, "
-  "which was a temporary position that focused on fixing the database used by the switchboard”.", [39, 40, 47]),
+  "database.”{{40}} The decision under appeal records the same thing: the role was “a project role, "
+  "which was a temporary position that focused on fixing the database used by the switchboard”.{{47}}", []),
  ("<b>The role was still operating nine months later, and had been extended.</b> The email of "
   "15 April 2024 states: “You will see that Ellen and myself have added Afterhours on call, the "
   "days that are highlighted in purple show who is on call after hours.”", [52]),
@@ -156,9 +156,12 @@ S1 = [
   "Switchboard operators before that change.", [273]),
  ("The Respondent does not allege that agreement under clause 6.2 of the Award was obtained, or that "
   "a ballot of affected employees was conducted, before it.", [180, 181]),
- ("The employer conducted that process on other occasions. Its Consultation outcome document defines "
-  "agreement as the consent of a majority of affected employees, and records that seventeen employees "
-  "were invited to vote, seventeen votes were received, and the proposal was accepted.", [167, 168, 169, 170, 176, 177]),
+ ("The employer conducted that process on other occasions.{{169,170}} Its Consultation outcome document "
+  "records that the process was conducted in accordance with clause 6.2 of the Award{{167}} and defines "
+  "agreement as “obtaining consent from the majority (50+1%) of affected employees, with all affected "
+  "employees invited to cast their vote via an online Ballot Form”.{{168}} It records that a proposed "
+  "roster was released for consultation on 14 November 2024{{176}} and that seventeen affected employees "
+  "were invited to vote, seventeen votes were received, and the proposed rosters were accepted.{{177}}", []),
  ("On 20 May 2024 at 4:30 pm the Switchboard Manager wrote: “Taking note of your recommendation, "
   "we can also put the updated procedures out to the team for consultation before implementing.”", [101]),
 ]),
@@ -206,7 +209,7 @@ S1 = [
  ("The Respondent does not allege that the Appellant was rostered to work after 2:05 pm that day.", [99]),
  ("The reply at 4:30 pm stated: “Thank you for bringing this to my attention however this task "
   "was being actioned. I had discussed with Richard this morning about the update of outpatients "
-  "respiratory/medical.”", [100, 104]),
+  "respiratory/medical.”{{100}} The morning referred to is the morning of 20 May 2024.{{104}}", []),
  ("It was sent two hours and twenty-five minutes after the Appellant’s email, and two hours "
   "after the conclusion of the office hours stated to all Switchboard staff on 17 May 2024.", [102, 103]),
  ("The Respondent’s amended List of Documents records no document created on 20 May 2024 "
@@ -238,11 +241,11 @@ S1 = [
  ("At 7:09 pm the Appellant replied that “Requesting clarity on business hours is a "
   "reasonable” request.", [78]),
  ("On 17 May 2024 at 9:30 am the Manager wrote to the whole department, headed “Switchboard "
-  "Manager - On call and Hours”, stating that her hours “can vary”, that “I will "
-  "be in later between 0800-830am. Otherwise my hours are from 06:30-14:30”, that “I will "
-  "not be in the office until around 11am on Monday 20.05.2024”, and that “Moving forward "
+  "Manager - On call and Hours”,{{81}} stating that her hours “can vary”, and that “I will "
+  "be in later between 0800-830am. Otherwise my hours are from 06:30-14:30”,{{82}} that “I will "
+  "not be in the office until around 11am on Monday 20.05.2024”,{{83}} and that “Moving forward "
   "so communication is clear for the team, I will be sending an email to switch to advise of any "
-  "change to my office hours for the week”.", [81, 82, 83, 84, 113]),
+  "change to my office hours for the week”.{{84}} Mr Richard Parry was among its recipients.{{113}}", []),
  ("Those stated office hours concluded at 2:30 pm.", [88]),
  ("On 21 May 2024 at 2:53 pm the Director replied that she would follow up on the issues raised, and "
   "asked “can I ask was there one or more particular changes and/or directives where you had "
@@ -314,14 +317,14 @@ S1 = [
   "interval from draft to final approval was ten days, four hours, forty minutes and twenty seconds.", [124, 125]),
  ("Two reasons for the declines appear on the record and they are not the same. The review decision "
   "records that on 21 February the Manager messaged that she had to decline because the minimum "
-  "period for COVID leave was five days for a positive staff member, that she noted the statutory "
-  "declaration provided was sufficient evidence, and that she asked him to resubmit his leave days.", [137, 138]),
+  "period for COVID leave was five days for a positive staff member,{{137}} that she noted the statutory "
+  "declaration provided was sufficient evidence, and that she asked him to resubmit his leave days.{{138}}", []),
  ("It records the Appellant messaging that he was confused about why his amended request was "
   "declined, and that he had done everything as required.", [139]),
  ("The Respondent pleads that she declined the application because on her assessment the required "
-  "statutory declaration was not attached; that “a review indicates that in fact, the "
-  "attachments were present on the appellant’s submission”; and that this was human error "
-  "on the background of high work demands.", [133, 134, 135]),
+  "statutory declaration was not attached;{{133}} that “a review indicates that in fact, the "
+  "attachments were present on the appellant’s submission”;{{134}} and that this was human error "
+  "on the background of high work demands.{{135}}", []),
 ]),
 ("m", "The authority to decide that application", [], [
  ("The power to approve paid special pandemic leave was sub-delegated by an Instrument of Human "
@@ -486,9 +489,9 @@ S2 = [
 ("a", "What is pleaded in this stressor, and what is not", [2, 13], [
  ("<b>This stressor is not a claim that money is outstanding.</b> The Appellant does not plead that "
   "any amount remains unpaid, and he does not ask the Commission to determine any amount. He accepts "
-  "that the Respondent pleads that any discrepancies were remedied and that there are no outstanding "
-  "underpayments, and that the decision under appeal records that the pay issues were ultimately "
-  "resolved.", [207, 208]),
+  "that the Respondent pleads that “any discrepancies or errors were remedied in a timely manner”{{207}} "
+  "and that “there are no outstanding underpayments for the appellant”,{{208}} and that the decision "
+  "under appeal records that the pay issues were ultimately resolved.", []),
  ("<b>What is pleaded is the means by which a correct payment had to be obtained.</b> The entitlement "
   "accrued automatically under the Award and the certified agreement. The means of correcting the "
   "record when it did not &mdash; the Attendance Variation and Allowance Claim, the validation of "
@@ -530,9 +533,9 @@ S2 = [
   "AVAC to correct these shifts for each fortnight so Cory is paid corrected and his contracted hours "
   "are correct.”", [185, 186, 187, 188, 189, 190]),
  ("On 10 May 2024 at 2:21 pm the Appellant wrote to PayrollMetroSouth and the Manager.", [191]),
- ("On 13 May 2024 at 8:21 am Payroll replied to the Appellant: “I cannot see that any of the "
+ ("On 13 May 2024 at 8:21 am Payroll replied to the Appellant{{192}}: “I cannot see that any of the "
   "issues below have been corrected. Please speak to your Line Manager to have them corrected with an "
-  "AVAC submitted through My HR”.", [192, 193]),
+  "AVAC submitted through My HR”.{{193}}", []),
  ("On 21 May 2024 at 12:33 pm the Manager wrote that she was “still I am waiting payroll "
   "confirmation”.", [194, 195]),
  ("On 28 May 2024 at 8:36 am she wrote: “Please find attached Validation of claims older than 3 "
@@ -577,13 +580,15 @@ S2 = [
   "sequence within the factor it describes as the withholding of pay.", [-1]),
  ("<b>The same mechanism appears in it.</b> The entitlement accrued on the Appellant testing positive. "
   "The means of obtaining it was a request in myHR which, on the Respondent’s own pleaded case, he "
-  "was asked to submit himself, and which the Manager and the Director alone could decline or approve. "
-  "He submitted it three times; it was declined twice; the interval from draft to final approval was "
-  "ten days, four hours, forty minutes and twenty seconds.", [124, 125, 132, 140, 141]),
+  "was asked to submit himself,{{132}} and which the Manager and the Director alone could decline or "
+  "approve. The myHR submissions report records that request{{140}} and records its initiator as the "
+  "Appellant.{{141}} He submitted it three times; it was declined twice; the approval followed the third "
+  "submission by thirteen minutes and thirty-five seconds{{124}} and the interval from draft to final "
+  "approval was ten days, four hours, forty minutes and twenty seconds.{{125}}", []),
  ("<b>The reason given did not hold.</b> The Respondent pleads that the application was declined "
-  "because on the Manager’s assessment the required statutory declaration was not attached, and "
+  "because on the Manager’s assessment the required statutory declaration was not attached,{{133}} and "
   "that “a review indicates that in fact, the attachments were present on the appellant’s "
-  "submission”.", [133, 134]),
+  "submission”.{{134}}", []),
  ("The Appellant does not plead that the leave was ultimately unpaid. He pleads the means by which it "
   "had to be obtained, and the concession as to the reason on which it was twice refused.", []),
 ]),
@@ -699,7 +704,7 @@ S3 = [
   "recorded in the review decision, that with travel factored in the break was less than five "
   "hours.", [251]),
  ("<b>The shift then worked.</b> He commenced the first shift of the working week at 06:00 on "
-  "18 March 2024, a Monday.", [284, 227]),
+  "18 March 2024,{{284}} a Monday.{{227}}", []),
  ("He will give evidence that he worked that shift through to 14:00, a further eight hours, and of "
   "the emergency workload carried during it, which is recorded in the register at (h) below.", [-1]),
  ("<b>The position in summary.</b> Approximately sixteen hours of wakefulness to the finish at "

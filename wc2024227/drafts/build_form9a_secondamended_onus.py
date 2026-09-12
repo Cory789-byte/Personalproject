@@ -12,7 +12,7 @@ Facts via served_facts.py - the 303 as served 28 August 2026 and answered 8 Sept
 ⛔ DRAFT. Leave to amend required; not before 30 September 2026, and not less than 7 days
 before the hearing (Appeal Guide Part 4.6).
 """
-import io, os, pikepdf
+import io, os, re as _re2, pikepdf
 SERVE = bool(os.environ.get('SERVE'))
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
@@ -47,6 +47,34 @@ def _collapse(ns):
         out.append(str(ns[i]) if j==i else f"{ns[i]} to {ns[j]}")
         i=j+1
     return ", ".join(out)
+
+def cite(ns):
+    """Inline citation. -1 marks a proposition whose admitted paragraph is still to come;
+    a paragraph the Respondent has not admitted is treated the same way, so that nothing in
+    the filed pleading cites a paragraph as a particular unless it is admitted."""
+    if not ns: return ""
+    pend_slot = (-1 in ns) or any(n in NOT_ADMITTED for n in ns)
+    adm = [n for n in ns if n != -1 and n not in NOT_ADMITTED]
+    parts = []
+    if adm:
+        parts.append(("&para;&para; " if len(adm) > 1 else "&para; ") + _collapse(adm))
+    if pend_slot:
+        parts.append("&para; ___")
+    col = '#123f8c' if adm else '#6b6b6b'
+    return f" <font size=\"6.4\" color=\"{col}\">[{'; '.join(parts)}]</font>"
+
+_TOK = _re2.compile(r'\{\{([-0-9,\s]+)\}\}')
+def _toknums(t):
+    out = []
+    for m in _TOK.finditer(t):
+        out += [int(x) for x in m.group(1).replace(' ', '').split(',') if x not in ('', '-')]
+    return out
+def inl(t):
+    """Replace a {{39}} or {{39,40}} token with an inline citation at that exact point,
+    so each proposition carries its own paragraph reference instead of the paragraph
+    carrying a pooled list at its end."""
+    return _TOK.sub(lambda m: cite([int(x) for x in m.group(1).replace(' ', '').split(',')
+                                    if x not in ('', '-')]), t)
 def q(ns, st=ADM):
     ns = [n for n in ns if n != -1]
     if SERVE:
@@ -68,6 +96,9 @@ def q(ns, st=ADM):
         tag = ' <b>[NOT YET ADMITTED]</b>' if n in NOT_ADMITTED else ''
         out.append(P(f"<b>[{n}]</b> {F[n]}{tag}", stl))
     return out
+def qi(ns):
+    """Internal-only particulars block, for paragraphs whose citations are already inline."""
+    return [] if SERVE else q(ns)
 def duty(ns):
     if SERVE:
         return [P("Duty engaged: paragraphs " + _collapse(ns) + " of that notice (the role description).",
@@ -77,7 +108,7 @@ def duty(ns):
 _P_orig = P
 def P(t, st):
     if SERVE and st is NOTE: return None
-    return _P_orig(t, st)
+    return _P_orig(inl(t), st)
 
 s=[P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A)" if SERVE else
      "SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A) &ndash; DRAFT", H1),
@@ -100,8 +131,12 @@ s += [
 
  P("PART A", PART),
  P("Appellant: Cory Lea Shepherd. Employer: State of Queensland (Queensland Health) &ndash; Logan "
-   "Hospital Switchboard. Role: Administration Officer, Switchboard Services, classification AO3, a "
-   "continuous shift working role.", PLD),
+   "Hospital Switchboard. Role: Administration Officer, Switchboard Services, classification AO3{{1}}, "
+   "reporting to the Switchboard Manager, Corporate Services, Logan Hospital{{3,4}}, a continuous shift "
+   "working role required to be worked \"over the full 24-hour period, 7 days a week\"{{2}} on \"a roster "
+   "which covers multiple shifts\"{{13}}. Three approved movement forms in 2026 each record the "
+   "Appellant's shift arrangements as \"Continuous Shift Worker\"{{14,15}}, and the Respondent does not "
+   "allege that he ceased to be a continuous shift worker{{16}}.", PLD),
  P("<b>Injury:</b> major depressive disorder with anxious distress (DSM-5 296.23), diagnosed by "
    "the Appellant's treating psychiatrist on 24 October 2024.", PLD),
  P("<b>The injury is a diagnosed medical condition arising from the Appellant's employment over "
@@ -110,7 +145,7 @@ s += [
    "recorded on the work capacity certificates of the treating general practitioner is 18 June 2024. "
    "That date is the practitioner's and is a matter for the medical evidence; the Appellant asserts "
    "no date of onset of his own.", PLD)]
-s += q([1,2,3,4,13,14,15,16])
+s += qi([1,2,3,4,13,14,15,16])
 
 s += [P("PART B &mdash; MATERIAL FACTS", PART),
  P("The documentary facts identified below have been admitted to the extent recorded in the "
@@ -136,10 +171,15 @@ s += [P("[⚠ THE MEDICAL IS NOT IN THE NOTICE &mdash; <b>no paragraph of the 30
    "temazepam prescribed that day. <b>[Tab M1 &mdash; general-practice records, Our Medical Ashmore, "
    "1 January 2023 to 1 July 2024, obtained by the Respondent under the Form 29 signed 4 July 2025; "
    "Respondent\'s item 11.]</b> Relied upon as the contemporaneous record that shift work was affecting "
-   "the Appellant\'s sleep, and of what was prescribed for it, before any claim or proceeding. Its "
-   "clinical significance is a matter for the treating doctors. Private entries unrelated to the injury "
-   "are redacted on the extracted pages and marked as such.", SUBP)]
-s += q([2,13,214,218] + list(range(263,266)) + list(range(269,272)))
+   "the Appellant\'s sleep, and of what was prescribed for it, before any claim or proceeding. The "
+   "position was a continuous shift working role over the full 24-hour period{{2,13}}; the Director "
+   "recorded to Human Resources in May 2024 that the Appellant was raising concerns about rostering "
+   "and fatigue{{214,218}}; and the Respondent does not allege that any fatigue risk assessment was "
+   "conducted, that training was provided, or that fatigue risk management was implemented at the "
+   "Switchboard before 30 June 2024{{263,264,265,269,270,271}}. Its clinical significance is a matter "
+   "for the treating doctors. Private entries unrelated to the injury are redacted on the extracted "
+   "pages and marked as such.", SUBP)]
+s += qi([2,13,214,218] + list(range(263,266)) + list(range(269,272)))
 
 s += [P("1.3 &nbsp;<b>The referral of 16 May 2024.</b> The referral letter of 16 May 2024 (Dr Zhao) "
    "renews a referral to a psychiatrist, Dr Amini, for \"ongoing care and management\". It lists the "
@@ -147,14 +187,15 @@ s += [P("1.3 &nbsp;<b>The referral of 16 May 2024.</b> The referral letter of 16
    "lists the medications then current, <b>which include no antidepressant, no anxiolytic and no other "
    "psychotropic medication</b>. <b>[Tab M1.]</b> The referral falls within the week in which the "
    "matters pleaded at Stressor 1, sub-paragraphs (i) and (n) occurred, and was written the day after "
-   "the email of 15 May 2024 at 6:23 pm asking the Appellant to retract his email of that afternoon. "
+   "the email of 15 May 2024 at 6:23 pm asking the Appellant to retract his email of that "
+   "afternoon{{76,77}}. "
    "That sequence is pleaded as to date only; no connection between the two is alleged. The referral "
    "is relied upon as part of the chronology of the Appellant's deterioration across the course of "
    "conduct pleaded at Part A, and not as the consequence of any single event. Read with paragraph 1.2 "
    "above, it marks the point at which the Appellant's general practitioner sought specialist "
    "psychiatric input while he remained on no antidepressant, no anxiolytic and no other psychotropic "
    "medication. No appointment with the psychiatrist was obtained on that referral.", SUBP)]
-s += q([76,77])
+s += qi([76,77])
 
 s += [P("1.4 &nbsp;<b>Deterioration and first presentation.</b> The Appellant last worked a shift "
    "on 3 June 2024. On days in May 2024 and in the first week of June 2024 he drove to work, was "
@@ -194,11 +235,11 @@ s += [P("1.4 &nbsp;<b>Deterioration and first presentation.</b> The Appellant la
    "for up to five months at a time, leading to significant financial stress\"; and that \"premature "
    "exposure to the workplace is more likely result in significant deterioration\". <b>[Tab M4; "
    "Respondent\'s item 10.]</b> The stressors so recorded correspond to matters admitted on 8 September "
-   "2026: management and rostering, and the night-shift line; the shorter break; and pay withheld or "
-   "delayed from the 5 February 2024 fortnight, uncorrected at 13 May, \"claims older than 3 months\" on "
-   "28 May, a claim effective 30 March recorded \"Part Completed\" on 30 May, and the two February "
-   "claims absent from the myHR report.", SUBP)]
-s += q([211,212,220,258,259,260,193,196,197,203,210])
+   "2026: management and rostering, and the night-shift line{{211,212,220}}; the shorter "
+   "break{{258,259,260}}; and pay uncorrected at 13 May 2024{{193}}, \"claims older than 3 months\" on "
+   "28 May{{196,197}}, a claim effective 30 March recorded \"Part Completed\" on 30 May{{203}}, and the "
+   "two February claims absent from the myHR report{{210}}.", SUBP)]
+s += qi([211,212,220,258,259,260,193,196,197,203,210])
 s += [P("1.8 &nbsp;<b>The report\'s footer, and the author\'s position.</b> The report bears a footer "
    "reading \"for the only reason of clinical information and not for medico-legal use\". The author\'s "
    "emails of 5 and 8 September 2026 state of his records \"You can use them according to the need to "
@@ -216,29 +257,15 @@ s += [P("1.8 &nbsp;<b>The report\'s footer, and the author\'s position.</b> The 
    "of the treating psychiatrist from 24 October 2024 were offered by the practice on 5 September 2026 "
    "and have been requested; they are not yet received and will be served on receipt. On the medical "
    "evidence then before it, the Respondent\'s review of 24 October 2024 found that the Appellant "
-   "\"sustained a personal injury of a psychological nature\" and stated: \"Having regard to the medical "
-   "evidence, I am satisfied your employment was <b>a significant contributing factor</b> to the "
-   "psychological injury\". The claim was rejected under section 32(5), not section 32(1). "
+   "\"sustained a personal injury of a psychological nature\"{{261}} and stated: \"Having regard to the "
+   "medical evidence, I am satisfied your employment was <b>a significant contributing factor</b> to "
+   "the psychological injury\"{{262}}. The claim was rejected under section 32(5), not section 32(1). "
    "<b>[Tabs M7 and M9.]</b> The hearing is de novo and that finding does not bind the Commission; it is "
    "relied upon as an admitted document.", SUBP)]
-s += q([261,262])
+s += qi([261,262])
 
 import form9a_content as C
 
-def cite(ns):
-    """Inline citation. -1 marks a proposition whose admitted paragraph is still to come;
-    a paragraph the Respondent has not admitted is treated the same way, so that nothing in
-    the filed pleading cites a paragraph as a particular unless it is admitted."""
-    if not ns: return ""
-    pend_slot = (-1 in ns) or any(n in NOT_ADMITTED for n in ns)
-    adm = [n for n in ns if n != -1 and n not in NOT_ADMITTED]
-    parts = []
-    if adm:
-        parts.append(("&para;&para; " if len(adm) > 1 else "&para; ") + _collapse(adm))
-    if pend_slot:
-        parts.append("&para; ___")
-    col = '#123f8c' if adm else '#6b6b6b'
-    return f" <font size=\"6.4\" color=\"{col}\">[{'; '.join(parts)}]</font>"
 
 def render(stressor, title):
     out=[P(f"<b>{title}</b>", SEC)]
@@ -249,9 +276,11 @@ def render(stressor, title):
         else:
             first_done = False
         for sent, fs in items:
-            lead = "" if first_done else f"<b>({letter}) &nbsp;{heading}.</b> "
+            dcite = cite(dfacts) if (dfacts and SERVE) else ""
+            lead = "" if first_done else f"<b>({letter}) &nbsp;{heading}.</b>{dcite} "
             out.append(P(lead + sent + cite(fs), SUBP))
             first_done = True
+            fs = _toknums(sent) + list(fs)
             if not SERVE and fs:
                 out += q(fs)
                 if -1 in fs:
@@ -284,50 +313,54 @@ s += [P("<b>3. &nbsp;Subsequent conduct, and the contemporaneous record</b>", SE
  P("<b>3.2 &nbsp;What the Appellant provided to WorkCover Queensland, and when.</b> The Respondent's "
    "amended List of Documents of 14 August 2026 records that the Appellant provided to WorkCover "
    "Queensland, at item 12, an email of 12 July 2024 with an attachment described as \"Event overview "
-   "- undated\"; at item 14, an email of 18 July 2024 with an attachment described as \"Witness "
-   "statement - Carolyn Jeffrey\"; at item 25, an email of 29 August 2024 described as regarding the "
-   "after hours on call change, with an attachment described as \"Email: After hours on call "
-   "process\"; at item 26, an email of 30 August 2024 described as regarding failure to consult, with "
-   "an attachment described as \"Email: Task change switchboard - 19/04/2024\"; and at item 27, an "
-   "email of 30 August 2024 described as regarding failure to consult, with an attachment described "
-   "as \"Email: MASPER process - 09/05/2024\". It further records, at item 16, an email from "
-   "Ms Carolyn Jeffrey to WorkCover Queensland of 1 August 2024 described as a follow up statement. "
-   "The documents at items 25, 26 and 27 are the three directives pleaded at Stressor 1(e) and Stressor 1(g) above. "
-   "They were provided by the Appellant to WorkCover Queensland in August 2024, before any decision "
-   "on his claim and more than two years before this pleading.", SUBP),
+   "- undated\"{{274}}, which he provided on that date{{280}}; at item 14, an email of 18 July 2024 with "
+   "an attachment described as \"Witness statement - Carolyn Jeffrey\"{{275}}; at item 25, an email of "
+   "29 August 2024 described as regarding the after hours on call change, with an attachment described "
+   "as \"Email: After hours on call process\"{{277}}; at item 26, an email of 30 August 2024 described "
+   "as regarding failure to consult, with an attachment described as \"Email: Task change switchboard "
+   "- 19/04/2024\"{{278}}; and at item 27, an email of 30 August 2024 described as regarding failure to "
+   "consult, with an attachment described as \"Email: MASPER process - 09/05/2024\"{{279}}. It further "
+   "records, at item 16, an email from Ms Carolyn Jeffrey to WorkCover Queensland of 1 August 2024 "
+   "described as a follow up statement{{276}}. The documents at items 25, 26 and 27 are the three "
+   "directives pleaded at Stressor 1(e) and Stressor 1(g) above. They were provided by the Appellant "
+   "to WorkCover Queensland in August 2024, before any decision on his claim and more than two years "
+   "before this pleading.", SUBP),
  P("<b>3.3 &nbsp;The particulars bundle of 11 August 2026.</b> The Respondent's amended statement of "
    "facts and contentions states at paragraph 11 that it does not admit the allegations in Stressor "
-   "1(a) of the Appellant's statement \"because there are no particulars or details to respond to\". "
-   "On 11 August 2026 the Appellant served a bundle titled \"Stressor 1(a) - Particulars support "
-   "bundle\", comprising 30 pages and six tabs, each stating a particular of that stressor and "
-   "enclosing the documents recording it.", SUBP)]
-s += q(list(range(274,283)))
+   "1(a) of the Appellant's statement \"because there are no particulars or details to respond "
+   "to\"{{281}}. On 11 August 2026 the Appellant served a bundle titled \"Stressor 1(a) - Particulars "
+   "support bundle\", comprising 30 pages and six tabs, each stating a particular of that stressor and "
+   "enclosing the documents recording it{{282}}.", SUBP)]
+s += qi(list(range(274,283)))
 
 s += [P("<b>4. &nbsp;The intervals</b>", SEC),
  P("The following intervals are computed from dates and times admitted by the Respondent. They are "
    "matters of arithmetic and do not depend on the truth of any statement recorded in a document.", PLD),
  P("<b>4.1</b> &nbsp;Between the MASPER Registrar's first report of 3 May 2024 at 3:06 pm and the "
-   "first reply of 9 May 2024 at 9:20 am: <b>five days, eighteen hours and fourteen minutes</b>. Her "
-   "second report was sent on the fifth calendar day after the first; the reply was sent on the sixth.", SUBP),
+   "first reply of 9 May 2024 at 9:20 am: <b>five days, eighteen hours and fourteen minutes</b>{{62}}. Her "
+   "second report was sent on the fifth calendar day after the first{{63}}; the reply was sent on the "
+   "sixth{{64}}.", SUBP),
  P("<b>4.2</b> &nbsp;Between the first email of the Integrated Respiratory Service of 15 May 2024 at "
    "11:47 am and its second of 20 May 2024 at 11:03 am: <b>the fifth calendar day</b>. Between that "
    "first email and the Appellant's escalation of 20 May 2024 at 2:05 pm: <b>five days, two hours and "
-   "eighteen minutes</b>. Between the Service's second email and that escalation: <b>three hours and "
-   "two minutes</b>. Between the escalation and the reply at 4:30 pm: <b>two hours and twenty-five "
-   "minutes</b>, that reply being sent two hours after the conclusion of the office hours stated to "
-   "all Switchboard staff on 17 May 2024.", SUBP),
+   "eighteen minutes</b>{{98}}. Between the Service's second email and that escalation: <b>three hours "
+   "and two minutes</b>{{97}}. Between the escalation and the reply at 4:30 pm: <b>two hours and "
+   "twenty-five minutes</b>{{102}}, that reply being sent two hours after the conclusion of the office "
+   "hours stated to all Switchboard staff on 17 May 2024{{103}}. The Service's second email was sent on "
+   "the fifth calendar day after its first{{92}}.", SUBP),
  P("<b>4.3</b> &nbsp;Between the Appellant's fatigue enquiry of 8 April 2024 and the response of "
    "1 May 2024: <b>23 days</b>, during which the Respondent does not allege that any response was "
-   "made.", SUBP),
+   "made{{249}}.", SUBP),
  P("<b>4.4</b> &nbsp;Between the third submission of the special pandemic leave request at 11:07:28 "
    "on 29 February 2024 and its approval at 11:21:03 the same morning: <b>thirteen minutes and "
-   "thirty-five seconds</b>. Between the creation of the draft on 20 February 2024 and the final "
-   "approval on 1 March 2024: <b>ten days, four hours, forty minutes and twenty seconds</b>.", SUBP),
+   "thirty-five seconds</b>{{124}}. Between the creation of the draft on 20 February 2024 and the final "
+   "approval on 1 March 2024: <b>ten days, four hours, forty minutes and twenty seconds</b>{{125}}.", SUBP),
  P("<b>4.5</b> &nbsp;Between the removal of database access on 18 July 2023 and 18 June 2024: "
-   "<b>eleven months</b>, during which the Respondent does not allege that access was restored. "
+   "<b>eleven months</b> (336 days), during which the Respondent does not allege that access was "
+   "restored{{55}}. "
    "Between 23 August 2023 and 17 May 2024: <b>nine months</b>, during which the Respondent does not "
    "allege that fixed office hours were stated to the Switchboard staff.", SUBP)]
-s += q([62,63,64,92,97,98,102,103,124,125,249])
+s += qi([62,63,64,92,97,98,102,103,124,125,249,55])
 
 s += [P("<b>5. &nbsp;Matters the Respondent does not allege, and documents it does not list</b>", SEC),
  P("The following are admitted as to the state of the Respondent's amended statement of facts and "
@@ -335,44 +368,50 @@ s += [P("<b>5. &nbsp;Matters the Respondent does not allege, and documents it do
    "admissions as to the truth of the contents of any document, and the qualification in the "
    "Respondent's letter of 8 September 2026 does not reach them.", PLD),
  P("<b>5.1 &nbsp;As to the directory and the changes to process.</b> That access to the database was "
-   "restored to the Appellant before 18 June 2024; that any document records consultation with "
-   "Switchboard operators before the change communicated on 15 April 2024; that agreement under "
-   "clause 6.2 of the Award was obtained, or a ballot conducted, before that change.", SUBP),
+   "restored to the Appellant before 18 June 2024{{55}}; that any document records consultation with "
+   "Switchboard operators before the change communicated on 15 April 2024{{273}}; that agreement under "
+   "clause 6.2 of the Award was obtained{{180}}, or a ballot conducted{{181}}, before that change; or "
+   "that the Appellant was informed before 14 May 2024 that any other means of notifying "
+   "unavailability was required{{166}}.", SUBP),
  P("<b>5.2 &nbsp;As to what followed the reports at the console.</b> That any communication was sent "
    "to Logan Switch or the Switchboard staff about the occasions reported on 3 and 8 May 2024 before "
-   "10:15 am on 9 May 2024; that any response was made to the Integrated Respiratory Service before "
-   "20 May 2024, or before 2:05 pm on that day; that any document created on 20 May 2024 records the "
-   "discussion referred to in the reply of that afternoon; that any communication was sent by either "
-   "named person to that Service on that day; that the contact-details document was amended on or "
-   "before 20 May 2024; that the Switchboard staff were notified of the modifications made to it on "
-   "22 February 2024; or that the Appellant was rostered to work after 2:05 pm on 20 May 2024.", SUBP),
+   "10:15 am on 9 May 2024{{69}}; that any response was made to the Integrated Respiratory Service "
+   "before 20 May 2024{{90}}, or before 2:05 pm on that day{{93}}; that any document created on "
+   "20 May 2024 records the discussion referred to in the reply of that afternoon{{105}}; that any "
+   "communication was sent by the Manager{{106}} or by Mr Parry{{107,108}} to that Service on that day; "
+   "that the contact-details document was amended on or before 20 May 2024{{109}}; that the Switchboard "
+   "staff were notified of the modifications made to it on 22 February 2024{{110}}; or that the "
+   "Appellant was rostered to work after 2:05 pm on 20 May 2024{{99}}.", SUBP),
  P("<b>5.3 &nbsp;As to the office hours.</b> That fixed office hours were stated to the Switchboard "
-   "staff at any time between 23 August 2023 and 17 May 2024.", SUBP),
+   "staff at any time between 23 August 2023 and 17 May 2024{{73}}; or that the Manager was the "
+   "Switchboard Manager other than in an acting capacity at the relevant times{{25}}.", SUBP),
  P("<b>5.4 &nbsp;As to the Communication Book.</b> That the entry removed, or its author, is "
-   "identified; that the removed page has been located or that any copy of it exists; that any entry "
-   "made by the Appellant remains in the book; or that the book ceased to be in the possession of "
-   "Metro South Health during the Appellant's employment. The book, and any page or entry from it, is "
-   "not listed in the List of Documents.", SUBP),
- P("<b>5.5 &nbsp;As to the special pandemic leave.</b> That either person recorded in the leave "
-   "history was a Band 9 delegate at any relevant time; the identity of the person who exercised the "
-   "sub-delegated power in respect of Process Reference 15480560; or that any other Switchboard "
-   "employee was required to submit such a request personally through myHR in February 2024.", SUBP),
+   "identified{{150}}; that the removed page has been located or that any copy of it exists{{151}}; that "
+   "any entry made by the Appellant remains in the book{{152}}; or that the book ceased to be in the "
+   "possession of Metro South Health during the Appellant's employment{{153}}. The book, and any page "
+   "or entry from it, is not listed in the List of Documents{{154}}.", SUBP),
+ P("<b>5.5 &nbsp;As to the special pandemic leave.</b> That the Manager{{129}} or the Director{{130}} "
+   "was a Band 9 delegate at any relevant time; the identity of the person who exercised the "
+   "sub-delegated power in respect of Process Reference 15480560{{131}}; or that any other Switchboard "
+   "employee was required to submit such a request personally through myHR in February 2024{{142}}.", SUBP),
  P("<b>5.6 &nbsp;As to the roster and fatigue.</b> That the Switchboard Manager got in touch with the "
-   "Appellant about alternative shifts after the meeting of 16 April 2024; that the fatigue toolkit "
-   "was reviewed or feedback given before 18 June 2024; that the consecutive shifts of 17 and "
-   "18 March 2024 arose from a staff-initiated shift swap; that any response was made to the fatigue "
-   "enquiry between 9 April and 1 May 2024; that any fatigue risk assessment was conducted, that any "
-   "fatigue risk management training was provided, or that fatigue risk management assessment was "
-   "implemented at the Switchboard, before 30 June 2024; or that any change was made to the operating "
-   "procedures of the Switchboard as a consequence of any employee complaint over the period "
-   "1 December 2023 to 30 June 2024.", SUBP),
+   "Appellant about alternative shifts after the meeting of 16 April 2024{{213}}; that the fatigue "
+   "toolkit was reviewed or feedback given before 18 June 2024{{216}}; that the consecutive shifts of "
+   "17 and 18 March 2024 arose from a staff-initiated shift swap{{234}}; that any response was made to "
+   "the fatigue enquiry between 9 April and 1 May 2024{{250}}; that any fatigue risk assessment was "
+   "conducted{{269}}, that any fatigue risk management training was provided{{270}}, or that fatigue "
+   "risk management assessment was implemented at the Switchboard{{271}}, before 30 June 2024; that any "
+   "change was made to the operating procedures of the Switchboard as a consequence of any employee "
+   "complaint over the period 1 December 2023 to 30 June 2024{{272}}; that the 8-hour agreement of "
+   "17 June 2020 was terminated{{21}}; that the Appellant was informed it continued to apply after he "
+   "became full-time{{22}}; or that he ceased to be a continuous shift worker{{16}}.", SUBP),
  P("<b>5.7 &nbsp;As to the Appellant's performance and conduct.</b> That he was subject to any "
-   "disciplinary process, or that his work performance was the subject of any formal performance "
-   "management process, before 18 June 2024; nor does the Respondent describe any communication with "
-   "him before that date as a warning. Paragraph 27 of its statement of facts and contentions does "
-   "not identify, by particular, date, document or cross-reference, the management action relied upon "
-   "for the contention in that paragraph.", SUBP)]
-s += q([16,21,22,25,55,69,73,90,93,99,105,106,107,108,109,110,129,130,131,142,150,151,152,153,154,166,180,181,213,216,234,250,269,270,271,272,273,300,301,302,303])
+   "disciplinary process{{300}}, or that his work performance was the subject of any formal performance "
+   "management process{{301}}, before 18 June 2024; nor does the Respondent describe any communication "
+   "with him before that date as a warning{{302}}. Paragraph 27 of its statement of facts and "
+   "contentions does not identify, by particular, date, document or cross-reference, the management "
+   "action relied upon for the contention in that paragraph{{303}}.", SUBP)]
+s += qi([16,21,22,25,55,69,73,90,93,99,105,106,107,108,109,110,129,130,131,142,150,151,152,153,154,166,180,181,213,216,234,250,269,270,271,272,273,300,301,302,303])
 
 
 s += [P("PART C &mdash; CONTENTIONS", PART),
@@ -479,9 +518,11 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "it.", PLD),
  P("<b>10. &nbsp;The Respondent's pleaded case.</b> Paragraph 27 of the amended statement of facts "
    "and contentions does not identify, by particular, date, document or cross-reference, the "
-   "management action relied upon. No disciplinary process, formal performance management or "
-   "communication described as a warning before 18 June 2024 is alleged.", PLD)]
-s += q([238,295,300,301,302,303])
+   "management action relied upon{{303}}. No disciplinary process{{300}}, formal performance "
+   "management{{301}} or communication described as a warning{{302}} before 18 June 2024 is alleged. "
+   "The Respondent admits the contents of the documents recording the Appellant's account without "
+   "admitting the truth of what they record{{238,295}}.", PLD)]
+s += qi([238,295,300,301,302,303])
 
 s += [P("PART D &mdash; THE QUESTIONS FOR DETERMINATION", PART),
  P("1. &nbsp;Did the Appellant sustain a personal injury of a psychological nature?", PLD),
