@@ -567,3 +567,64 @@ Appellant by roughly 30 words. ⛔ No conflict was found anywhere between conten
 **long** turns (0 of 1,068 segments), so the substantive analysis above is unaffected.
 ⚠ Ms Ruttan: addressed once (*"And Ms. Rutland, any?"*, seg 1010, the name mis-transcribed) and **no answer
 is on the tape**. The 0.0% share appears correct.
+
+---
+
+## 22. ⭐⭐⭐ WHAT DISRUPTED THE COMMISSIONER — ONE TOPIC, TWICE, AND IT IS THE ANSWER TO THE OUTLINE QUESTION
+> 12 September 2026. Reply-latency and repair analysis over the 92 turns where Dwyer answered Shepherd.
+> Baseline: **median pause before his reply 0.39 s; p90 1.98 s.**
+
+### 22.1 Only one pause is unexplained
+The two longer gaps before a Dwyer reply (25.58 s, 15.80 s) are both him **reading the handed-up table**
+(§20.2), and the 4.14 s at 34:38 is him **reading the pleading aloud**. Strip the reading and **one pause
+is left, and it is the largest: 5.74 s at 29:39** — fifteen times his median.
+
+### 22.2 What produced it
+Immediately before (segs 420–429), the Appellant:
+> *"direct calls to this number / but this number is an emergency contact / and then those doctors / the
+> ones that get called for an emergency / **they're sent to the wrong side of the room** / **they're not
+> sent to someone having a cardiac arrest** / **they're not sent to someone in respiratory distress** /
+> we're now not even contacting them by their numbers."*
+
+**5.74 s of silence.** Then (seg 430): *"It's going to move on for a moment, okay? Because after my speech
+about efficiency of conduct of proceedings, **I'm concerned at the direction this is going in, Mr Shepherd.**"*
+— a 471-word turn at **3.74 w/s, his fastest articulation measured anywhere** (mean 2.98).
+
+### 22.3 ⭐⭐⭐ AND SEVEN SECONDS INTO THAT TURN HE BREAKS OFF TO SAY IT LANDED
+> **Seg 437: *"Yeah, I actually understand what you're getting at."***
+Mid-intervention, unprompted, between *"a more cohesive and cooperative approach with the parties"* and
+*"If we can't get to that, I'm going to schedule this disclosure dispute for a hearing."*
+**"Actually" is the whole word.** It marks a move from not-following to following.
+
+### 22.4 ⭐⭐ WHAT HE HAD JUST BEEN SAYING — AND WHY THE ANSWER WORKED
+The run-up (segs 404–412) is Dwyer putting the central criticism, and §17 measured these as **his three
+slowest segments of the entire hearing** (1.33, 1.72, 1.90 w/s — 1.7th, 6.4th and 9.9th percentile):
+> *"the argument might be about whether or not they're **correctly categorised by you** as unassessed
+> directives made without consultation… **you've placed subjectively a characterisation on these emails**"*
+⇒ He was slowly, deliberately telling the Appellant that **his case was characterisation**.
+⇒ The Appellant answered not with more characterisation but with **consequence**: the wrong room, the
+cardiac arrest, the respiratory distress.
+⇒ **That is what produced the 5.74 s and "I actually understand what you're getting at."**
+⭐⭐⭐ **THE FINDING: the one thing said all day that visibly moved the bench was an operational
+consequence stated without an adjective.** Not a characterisation, not a document, not a submission.
+
+### 22.5 The same topic had been deflected eight minutes earlier
+At 27:32, on patient safety: *"If you think it's in a patient safety environment you can raise that.
+**Anyway, let's not get into the case.**"* — one of his four most repair-heavy replies.
+⇒ **Twice the same topic broke his procedural line; twice he moved away from it.** ⚠ Read that as a
+statement about **forum, not merit** — it was a disclosure mention and he was steering back to procedure.
+The point was strong enough to derail a procedural hearing, which is precisely why it belongs **in evidence**.
+
+### 22.6 The honest alternative, and why I do not prefer it
+*"I actually understand what you're getting at"* could be courtesy before a redirect. ⚠ Against that:
+**courtesy does not take 5.74 seconds to formulate**, it is his longest non-reading pause of the hearing,
+and the register change §17 measured at exactly this boundary is real (articulation 3.09 → 3.72). Something
+was processed in that silence.
+
+### 22.7 ⇒ WHAT THIS DECIDES FOR THE OUTLINE
+Cory's own instruction — *"what the documents say and what was said and how each event affected the
+workplace"* — **is the structure that worked in that room, tested live.** It is also the answer to the
+Regulator's letter of 8 September: an operational consequence is neither a statement in a document whose
+truth can be reserved, nor management action s 32(5) can reach. ⭐ **Document → what was said → what it did
+in the department. Three moves, no adjective.** The transcript is the proof that the third move is the one
+that lands.
