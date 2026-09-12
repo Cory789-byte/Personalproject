@@ -67,25 +67,106 @@ s=[P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A) &ndash; DRAFT"
 s += q([1,2,3,4,13,14,15,16])
 
 s += [P("PART B &mdash; MATERIAL FACTS", PART),
- P("<b>1. &nbsp;Baseline</b>", SEC),
+ P("<b>1. &nbsp;Baseline &mdash; the medical record</b>", SEC),
  P("1.1 &nbsp;The Switchboard receives emergency response notifications and distributes them to the "
    "response groups by category of emergency, and maintains the contact and paging information by "
    "which that is done.", PLD)]
 s += duty([8,7,5,10])
-s += [P("1.2 &nbsp;Before 18 June 2024 the Appellant had not been diagnosed with or treated for "
-   "depression. The general practice record of 16 November 2023 notes poor sleep with shift work and "
-   "\"no psychological illness such as depression or psychosis\", with mood good.", PLD),
- P("[⚠ NOT IN THE NOTICE &mdash; no paragraph of the 303 refers to any medical record, practitioner or "
-   "diagnosis. The baseline is proved from the general-practice records disclosed by the Respondent "
-   "and served at Tabs M1 to M9 of the schedule of medical documents of 9 September 2026, and by the "
-   "oral evidence of their authors (Appeal Guide 7.6.5). The pinpoints carried in the Amended Form 9A "
-   "of 7 April 2026 (\"Form 24, Para 34/36/38/39\") are references to the SUPERSEDED notice of "
+s += [P("[⚠ THE MEDICAL IS NOT IN THE NOTICE &mdash; <b>no paragraph of the 303 refers to any medical "
+   "record, practitioner, referral, certificate or diagnosis.</b> Everything at 1.2 to 1.10 is proved "
+   "from the schedule of medical documents served 9 September 2026 (Tabs M1 to M9) and, as to clinical "
+   "opinion, by the oral evidence of its author (Appeal Guide 7.6.5). The pinpoints carried in the "
+   "Amended Form 9A of 7 April 2026 (\"Form 24, Para 34/36/38/39\") refer to the SUPERSEDED notice of "
    "February 2026 and must not be carried forward.]", NOTE),
- P("1.3 &nbsp;Onset 18 June 2024; first consultation with Dr Krishnaiah 24 October 2024; diagnosis of "
-   "major depressive disorder with anxiety state; treatment since.", PLD),
- P("1.4 &nbsp;The treating general practitioner recorded the mechanism contemporaneously on "
-   "1 July 2024.", PLD),
 
+ P("1.2 &nbsp;<b>Prior health.</b> Before 18 June 2024 the Appellant had not been diagnosed with or "
+   "treated for depression. The general-practice record of 16 November 2023 (Dr Nanayakkara) records "
+   "poor sleep with shift work, that the Appellant could not do shifts without a good sleep, "
+   "\"no psychological illness such as depression or psychosis\", and mood good, with melatonin and "
+   "temazepam prescribed that day. <b>[Tab M1 &mdash; general-practice records, Our Medical Ashmore, "
+   "1 January 2023 to 1 July 2024, obtained by the Respondent under the Form 29 signed 4 July 2025; "
+   "Respondent\'s item 11.]</b> Relied upon as the contemporaneous record that shift work was affecting "
+   "the Appellant\'s sleep, and of what was prescribed for it, before any claim or proceeding. Its "
+   "clinical significance is a matter for the treating doctors. Private entries unrelated to the injury "
+   "are redacted on the extracted pages and marked as such.", SUBP)]
+s += q([2,13,214,218] + list(range(263,266)) + list(range(269,272)))
+
+s += [P("1.3 &nbsp;<b>The referral of 16 May 2024.</b> The referral letter of 16 May 2024 (Dr Zhao) "
+   "renews a referral to a psychiatrist, Dr Amini, for \"ongoing care and management\". It lists the "
+   "past medical history as the history-list items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and "
+   "lists the medications then current, <b>which include no antidepressant, no anxiolytic and no other "
+   "psychotropic medication</b>. <b>[Tab M1.]</b> It was written the day after the email of "
+   "15 May 2024 at 6:23 pm asking the Appellant to retract his email of that afternoon. That sequence "
+   "is pleaded as to date only; no connection between the two is alleged. No appointment with the "
+   "psychiatrist was obtained on that referral.", SUBP)]
+s += q([76,77])
+
+s += [P("1.4 &nbsp;<b>Onset and first presentation.</b> Onset 18 June 2024. The Appellant last worked "
+   "a shift on 3 June 2024. On 28 June 2024 (Dr Slawinski) the record shows \"stress at work\" and "
+   "\"upset by people not following rules\", reason for visit anxiety. On 1 July 2024 (Dr Hawes) the "
+   "record shows \"work stress\", \"been there 5 years\", that \"they withhold pay at times, no "
+   "overtime- not processed, manipulate his roster- so he works lates then earlies\", and \"causing "
+   "anxiety\". <b>[Tab M1.]</b> The events those records name are the matters admitted on "
+   "8 September 2026 and pleaded at Part B.2 below. The records are relied upon as the contemporaneous "
+   "record of what was reported, before any claim decision, dismissal or proceeding; not as a finding "
+   "of fact as to mechanism.", SUBP),
+
+ P("1.5 &nbsp;<b>Certification.</b> The work capacity certificates of Dr Hawes dated 1 July, "
+   "11 August and 8 September 2024, and of Dr Ki Pang dated 7 August 2024, state the date of injury as "
+   "18 June 2024, that the Appellant was first seen for this injury on 1 July 2024, and certify no "
+   "functional capacity continuously from 1 July to 6 October 2024. The referral to a psychiatrist is "
+   "recorded on the certificate of 8 September 2024. Review Decision 69983 records at page 17 that the "
+   "certificate of 1 July 2024 indicated \"there was no pre-existing factor or condition\", and that "
+   "\"This was maintained in all later work capacity certificates\". <b>[Tab M2; Respondent\'s items 7 "
+   "and 8.]</b> The medication box is unticked on each certificate.", SUBP),
+
+ P("1.6 &nbsp;<b>Diagnosis, 24 October 2024.</b> At the first consultation, on the referral, the "
+   "treating psychiatrist told the Appellant, and confirmed in writing at 11:45 am that day, that he "
+   "was \"suffering from psychological injury of Major Depressive Disorder with anxiety state\"; that "
+   "fluoxetine was increased to two capsules \"from today\" and Seroquel 25 mg commenced at night, "
+   "\"to restore basic needs- sleep, eating and routine\". The Appellant\'s email of 5:12 pm that day "
+   "reads \"I have finally been able to see a psychiatrist today\". <b>[Tab M3; Respondent\'s item 9.]</b> "
+   "Read with 1.5, it records the progression from the injury certified as anxiety and stress on "
+   "1 July 2024 to a depressive disorder by 24 October 2024.", SUBP),
+
+ P("1.7 &nbsp;<b>The report of 13 February 2025.</b> Diagnosis: Major Depressive Disorder with "
+   "anxious distress (DSM-5 296.23). Severity, functional effect and treatment (fluoxetine increased to "
+   "three capsules daily; quetiapine 25 mg at night). The treating clinician records the origin as "
+   "\"workplace stress stemming from issues with management and rostering\"; that the issues \"began "
+   "approximately one year ago when a new manager was appointed\"; that pay was \"withheld or delayed "
+   "for up to five months at a time, leading to significant financial stress\"; and that \"premature "
+   "exposure to the workplace is more likely result in significant deterioration\". <b>[Tab M4; "
+   "Respondent\'s item 10.]</b> The stressors so recorded correspond to matters admitted on 8 September "
+   "2026: management and rostering, and the night-shift line; the shorter break; and pay withheld or "
+   "delayed from the 5 February 2024 fortnight, uncorrected at 13 May, \"claims older than 3 months\" on "
+   "28 May, a claim effective 30 March recorded \"Part Completed\" on 30 May, and the two February "
+   "claims absent from the myHR report.", SUBP)]
+s += q([211,212,220,258,259,260,193,196,197,203,210])
+s += [P("1.8 &nbsp;<b>The report\'s footer, and the author\'s position.</b> The report bears a footer "
+   "reading \"for the only reason of clinical information and not for medico-legal use\". The author\'s "
+   "emails of 5 and 8 September 2026 state of his records \"You can use them according to the need to "
+   "support your legal issues\", and identify the report of 13 February 2025 as \"the report that "
+   "captures the relevant information you have requested\" on the matters in issue. <b>[Tab M5.]</b> The "
+   "report is not relied upon for attribution among the individual events pleaded at Part B.2, nor for "
+   "any matter after 24 October 2024 as a cause of the injury.", SUBP),
+
+ P("1.9 &nbsp;<b>Current capacity.</b> The Employee Capability Checklist completed by Dr Day Hong Ma "
+   "on 3 July 2026 records current capacity and restrictions and the continuing effect of the injury, "
+   "including \"symptom exacerbation on exposure to the identified workplace stressors\". <b>[Tab M6.]</b> "
+   "Relied upon for effect and capacity only, not for causation; it post-dates 1 July 2024.", SUBP),
+
+ P("1.10 &nbsp;<b>Outstanding, and the finding in the decision under appeal.</b> The clinical records "
+   "of the treating psychiatrist from 24 October 2024 were offered by the practice on 5 September 2026 "
+   "and have been requested; they are not yet received and will be served on receipt. On the medical "
+   "evidence then before it, the Respondent\'s review of 24 October 2024 found that the Appellant "
+   "\"sustained a personal injury of a psychological nature\" and stated: \"Having regard to the medical "
+   "evidence, I am satisfied your employment was <b>a significant contributing factor</b> to the "
+   "psychological injury\". The claim was rejected under section 32(5), not section 32(1). "
+   "<b>[Tabs M7 and M9.]</b> The hearing is de novo and that finding does not bind the Commission; it is "
+   "relied upon as an admitted document.", SUBP)]
+s += q([261,262])
+
+s += [
  P("<b>2. &nbsp;Causative stressors (composite course, June 2023 &ndash; June 2024)</b>", SEC),
  P("<b>Stressor 1 &mdash; the conditions in which the work was carried on</b>", SEC),
  P("(a) &nbsp;<b>The directory, and the removal of the means of correcting it.</b> On 18 July 2023 "
