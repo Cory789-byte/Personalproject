@@ -280,6 +280,8 @@ S1 = [
   "Appellant on 11 June 2026, and is relied upon as the Respondent\u2019s own disclosed material.", [-1]),
  ("On 24 December 2024 the Ethical Standards Unit determined that the complaint constituted a public "
   "interest disclosure, reference 24-ESU-1130.", [-1]),
+ ("The Appellant’s contemporaneous medical record for the same week, including the renewed "
+  "referral to a psychiatrist dated 16 May 2024, is pleaded at Part B.1, paragraph 1.3 above.", []),
  ("<b>No connection between the complaint, its distribution, and any other conduct pleaded in this "
   "statement is alleged or relied upon. The matters in this sub-paragraph are pleaded as part of the "
   "sequence of matters the Appellant raised and the responses he received, and for no other "

@@ -145,10 +145,15 @@ s += [P("1.3 &nbsp;<b>The referral of 16 May 2024.</b> The referral letter of 16
    "renews a referral to a psychiatrist, Dr Amini, for \"ongoing care and management\". It lists the "
    "past medical history as the history-list items \"26/10/2022 ADHD\" and \"26/10/2022 Anxiety\", and "
    "lists the medications then current, <b>which include no antidepressant, no anxiolytic and no other "
-   "psychotropic medication</b>. <b>[Tab M1.]</b> It was written the day after the email of "
-   "15 May 2024 at 6:23 pm asking the Appellant to retract his email of that afternoon. That sequence "
-   "is pleaded as to date only; no connection between the two is alleged. No appointment with the "
-   "psychiatrist was obtained on that referral.", SUBP)]
+   "psychotropic medication</b>. <b>[Tab M1.]</b> The referral falls within the week in which the "
+   "matters pleaded at Stressor 1, sub-paragraphs (i) and (n) occurred, and was written the day after "
+   "the email of 15 May 2024 at 6:23 pm asking the Appellant to retract his email of that afternoon. "
+   "That sequence is pleaded as to date only; no connection between the two is alleged. The referral "
+   "is relied upon as part of the chronology of the Appellant's deterioration across the course of "
+   "conduct pleaded at Part A, and not as the consequence of any single event. Read with paragraph 1.2 "
+   "above, it marks the point at which the Appellant's general practitioner sought specialist "
+   "psychiatric input while he remained on no antidepressant, no anxiolytic and no other psychotropic "
+   "medication. No appointment with the psychiatrist was obtained on that referral.", SUBP)]
 s += q([76,77])
 
 s += [P("1.4 &nbsp;<b>Deterioration and first presentation.</b> The Appellant last worked a shift "
