@@ -47,6 +47,13 @@ def q(ns):
         tag = ' <b>[NOT YET ADMITTED]</b>' if n in NOT_ADMITTED else ''
         out.append(P(f"<b>[{n}]</b> {F[n]}{tag}", st))
     return out
+DUTY= ParagraphStyle('DUTY', fontName='Helvetica', fontSize=8.0, leading=9.8, leftIndent=8*mm,
+                     textColor=BLUE, spaceAfter=1.1, spaceBefore=1)
+def duty(ns):
+    out = [P("<b>THE DUTY ENGAGED &mdash; the role description states:</b>", DUTY)]
+    for n in ns:
+        out.append(P(f"<b>[{n}]</b> {F[n]}", DUTY))
+    return out
 def rng(a, b): return f"<i>Admitted: paragraphs {a} to {b}.</i>"
 
 s = [P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS &ndash; RESTRUCTURED DRAFT", H1),
@@ -71,12 +78,14 @@ s = [P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS &ndash; RESTRUCTURED D
    "is a continuous shift working role over a 24-hour period, seven days a week. It reports to the "
    "Switchboard Manager, and the contact named for the position is Ms Chloe Taylor.", PLD)]
 s += q([1, 2, 3, 4, 13, 14, 15, 16])
-s += [P("2. &nbsp;Three key responsibilities of the position are relied on. They are the duties the "
-   "matters pleaded below bear upon.", PLD)]
-s += q([5, 6, 7, 8, 10])
+s += [P("2. &nbsp;The key responsibilities of the position are pleaded below at the point at which "
+   "each bears on the matter relied upon. They are not pleaded as a list. Each section of Parts B, "
+   "C and D opens with the duty it engages, in the words of the role description.", PLD)]
 
 s += [P("PART B &ndash; STRESSOR 1: THE CONDITIONS IN WHICH THE WORK WAS CARRIED ON", PART),
- P("<b>B1. The duty to keep the directory accurate, and the removal of the means of doing it</b>", SEC),
+ P("<b>B1. The duty to keep the directory accurate, and the removal of the means of doing it</b>", SEC),]
+s += duty([6, 7])
+s += [
  P("3. &nbsp;On 18 July 2023 access to the database was removed from all operators, the Contact "
    "and Number Changes book was taken out of the room, and a correction sought after hours was to "
    "wait until one of two named persons returned. The Respondent does not allege that access was "
@@ -84,7 +93,9 @@ s += [P("PART B &ndash; STRESSOR 1: THE CONDITIONS IN WHICH THE WORK WAS CARRIED
    "throughout.", PLD)]
 s += q([39, 40, 41, 42, 43, 44, 45, 55])
 
-s += [P("<b>B2. The repair path, and how long a wrong entry stayed wrong</b>", SEC),
+s += [P("<b>B2. The repair path, and how long a wrong entry stayed wrong</b>", SEC),]
+s += duty([3, 4])
+s += [
  P("4. &nbsp;From 18 July 2023 an incorrect entry could be corrected only by Ms Stibbard, whose "
    "stated working hours were one and a half days a fortnight in a temporary project role, or by "
    "Ms Taylor. The Appellant does not plead any characterisation of Ms Taylor. He pleads the hours "
@@ -97,7 +108,9 @@ s += [P("5. &nbsp;From 15 April 2024 the same two persons were also the after-ho
    "rostered shift.", PLD)]
 s += q([49, 50, 51, 52, 53, 111, 112, 113, 162, 163, 164, 165, 166])
 
-s += [P("<b>B3. What then arrived at the console</b>", SEC),
+s += [P("<b>B3. What then arrived at the console</b>", SEC),]
+s += duty([8, 5, 10])
+s += [
  P("6. &nbsp;On 3 and 8 May 2024 the MASPER Registrar reported to Ms Taylor nine occasions on "
    "which calls reached the wrong medical team. Those occasions fell while the arrangement notified "
    "on 15 April 2024 was in force. The first reply was sent five days, eighteen hours and fourteen "
@@ -115,7 +128,9 @@ s += [P("7. &nbsp;On 15 and 20 May 2024 the Integrated Respiratory Service asked
    "Switchboard staff of the modification.", PLD)]
 s += q(list(range(89, 111)))
 
-s += [P("<b>B4. The obligation to consult, and its absence</b>", SEC),
+s += [P("<b>B4. The obligation to consult, and its absence</b>", SEC),]
+s += duty([11])
+s += [
  P("8. &nbsp;Clause 3.2 of the Queensland Public Health Sector Certified Agreement (No. 11) 2022 "
    "requires that consultation be more than a mere exchange of information, that participants "
    "contribute to the decision-making process \"not only in appearance, but in fact\", and that the "
@@ -134,7 +149,9 @@ s += [P("10. &nbsp;On 20 May 2024 the manager wrote that updated procedures coul
    "for consultation before implementing.", PLD)]
 s += q([101])
 
-s += [P("<b>B5. What the Appellant raised, and what followed</b>", SEC),
+s += [P("<b>B5. What the Appellant raised, and what followed</b>", SEC),]
+s += duty([9])
+s += [
  P("11. &nbsp;On 6 June 2023 a reminder placed in the Communication Book concerning the monthly "
    "update of medical contact numbers was removed. The Respondent admits the removal in its "
    "pleading and again on 8 September 2026. It does not allege that the removed page has been "
@@ -172,7 +189,9 @@ s += [P("14. &nbsp;In February 2024 a special pandemic leave application was sub
    "and declined twice before being approved on the same material.", PLD)]
 s += q(list(range(114, 143)))
 
-s += [P("<b>B6. What the employer states about its own systems</b>", SEC),
+s += [P("<b>B6. What the employer states about its own systems</b>", SEC),]
+s += duty([12])
+s += [
  P("15. &nbsp;By letter of 5 June 2026 to the Commission, Metro South Hospital and Health Service "
    "stated that the fatigue risk management records do not exist, that the mandatory training "
    "applies only to health practitioners and clinical assistants, that fatigue risk management "
@@ -181,7 +200,9 @@ s += [P("<b>B6. What the employer states about its own systems</b>", SEC),
    "are made to the line manager and \"managed solely via email or verbally with the complainant\".", PLD)]
 s += q(list(range(263, 273)))
 
-s += [P("PART C &ndash; STRESSOR 2: REMUNERATION", PART),
+s += [P("PART C &ndash; STRESSOR 2: REMUNERATION", PART),]
+s += duty([2, 13])
+s += [
  P("16. &nbsp;Between February and May 2024 the Appellant's pay required correction. On 3 May 2024 "
    "Payroll identified four fortnights and asked the manager to submit an Attendance Variation and "
    "Allowance Claim for each. On 13 May Payroll directed the Appellant to his line manager. On "
@@ -196,7 +217,9 @@ s += [P("17. &nbsp;The Respondent pleads that any discrepancies were remedied in
    "reference numbers identified by Payroll on 3 May 2024 appears in that report at all.", PLD)]
 s += q([203, 204, 207, 208, 209, 210])
 
-s += [P("PART D &ndash; STRESSOR 3: THE ROSTER AND FATIGUE", PART),
+s += [P("PART D &ndash; STRESSOR 3: THE ROSTER AND FATIGUE", PART),]
+s += duty([2, 13])
+s += [
  P("18. &nbsp;Rostering errors on the Appellant's line were acknowledged by the Director in "
    "writing. On 10 May 2024 she wrote to Human Resources that the Appellant's roster would not be "
    "considered and that he was not yet aware of it. On 21 May she asked him to identify the changes "
