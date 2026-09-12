@@ -113,7 +113,8 @@ def P(t, st):
 s=[P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A)" if SERVE else
      "SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A) &ndash; DRAFT", H1),
  P("WC/2024/227 &ndash; Cory Lea Shepherd (Appellant) v Workers' Compensation Regulator "
-   "(Respondent). Section 550(4), Workers' Compensation and Rehabilitation Act 2003.", H2)]
+   "(Respondent). Appeal under section 549 of the Workers' Compensation and Rehabilitation Act 2003; "
+   "notice of appeal filed under section 550(4). The appeal is by way of hearing de novo.", H2)]
 if SERVE:
     s += [P("Particulars are given by reference to the paragraph numbers of the Appellant's notice to "
             "admit facts served on the Respondent on 28 August 2026, to which the Respondent responded "
