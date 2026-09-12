@@ -465,19 +465,40 @@ S1 = [
  ("The Respondent does not allege that the Appellant was subject to any disciplinary process, or "
   "that his work performance was the subject of any formal performance management process, before "
   "18 June 2024, nor does it describe any communication with him before that date as a warning.", [300, 301, 302]),
- ("The matters at (j), (k), (l), (m), (n) and (o) above, and at paragraph 3 below, are pleaded as "
-  "part of the sequence of matters the Appellant raised and the responses he received. They are not "
-  "relied upon as independent causative circumstances, and no retaliatory or reprisal connection "
-  "between any of them and any other conduct is alleged. The causative circumstances relied upon in "
-  "Stressor 1 are those at (a) to (i) and (p).", []),
+ ("The matters at (j), (k), (n) and (o) above, and at paragraph 3 below, are pleaded as part of the "
+  "sequence of matters the Appellant raised and the responses he received. They are not relied upon "
+  "as independent causative circumstances, and no retaliatory or reprisal connection between any of "
+  "them and any other conduct is alleged. The causative circumstances relied upon in Stressor 1 are "
+  "those at (a) to (i) and (p).", []),
+ ("<b>The matters at (l) and (m) are in a different position.</b> They are set out in this stressor "
+  "because that is where the sequence and the question of authority belong, but they are relied upon "
+  "as causative in <b>Stressor 2</b>, at sub-paragraph (g) of that stressor, as part of the means by "
+  "which a paid entitlement had to be obtained. They are not relied upon as causative in this "
+  "stressor, and are not counted twice.", []),
 ]),
 ]
 
 S2 = [
-("a", "The basis of the entitlement", [2, 13], [
+("a", "What is pleaded in this stressor, and what is not", [2, 13], [
+ ("<b>This stressor is not a claim that money is outstanding.</b> The Appellant does not plead that "
+  "any amount remains unpaid, and he does not ask the Commission to determine any amount. He accepts "
+  "that the Respondent pleads that any discrepancies were remedied and that there are no outstanding "
+  "underpayments, and that the decision under appeal records that the pay issues were ultimately "
+  "resolved.", [207, 208]),
+ ("<b>What is pleaded is the means by which a correct payment had to be obtained.</b> The entitlement "
+  "accrued automatically under the Award and the certified agreement. The means of correcting the "
+  "record when it did not &mdash; the Attendance Variation and Allowance Claim, the validation of "
+  "claims older than three months, the myHR payroll enquiry &mdash; were held by others. That is the "
+  "same mechanism as is pleaded at Stressor 1: a responsibility that rested on the Appellant, and a "
+  "means of discharging it that did not.", []),
+ ("<b>The decision under appeal identifies the complaint in those terms.</b> It records: "
+  "“Throughout your submissions you have expressed your dissatisfaction with the process of the "
+  "employer in reviewing your payments and highlighted it was unreasonable for you to be required to "
+  "fight for your entitlements.”", [-1]),
  ("The position is a continuous shift working role over the full 24-hour period, seven days a week, "
   "and under mandatory requirements the occupant must be able to work a roster which covers multiple "
-  "shifts over a 24/7 period.", [2, 13]),
+  "shifts over a 24/7 period, so that entitlements arising from public holidays, weekend and night "
+  "work accrued in the ordinary course of the position.", [2, 13]),
 ]),
 ("b", "Public holidays on which the Appellant was not required to work", [], [
  ("The review decision records that section 23 of the Award provides that where an employee in "
@@ -543,6 +564,42 @@ S2 = [
   "concerns, that would be great.”", [222]),
  ("That email attached the document “qh-gdl-401-3.3”, the Queensland Health Fatigue Risk "
   "Management Systems Implementation Guideline.", [223]),
+]),
+("g", "The special pandemic leave application as a payment matter", [], [
+ ("<b>The decision under appeal deals with this application under the pay factor.</b> The sequence of "
+  "20 February to 1 March 2024 is set out in full at Stressor 1(l) and Stressor 1(m) above and is "
+  "repeated here rather than restated. It is repeated in this stressor because paid special pandemic "
+  "leave is a paid entitlement, and because the decision under appeal deals with the whole of that "
+  "sequence within the factor it describes as the withholding of pay.", [-1]),
+ ("<b>The same mechanism appears in it.</b> The entitlement accrued on the Appellant testing positive. "
+  "The means of obtaining it was a request in myHR which, on the Respondent’s own pleaded case, he "
+  "was asked to submit himself, and which the Manager and the Director alone could decline or approve. "
+  "He submitted it three times; it was declined twice; the interval from draft to final approval was "
+  "ten days, four hours, forty minutes and twenty seconds.", [124, 125, 132, 140, 141]),
+ ("<b>The reason given did not hold.</b> The Respondent pleads that the application was declined "
+  "because on the Manager’s assessment the required statutory declaration was not attached, and "
+  "that “a review indicates that in fact, the attachments were present on the appellant’s "
+  "submission”.", [133, 134]),
+ ("The Appellant does not plead that the leave was ultimately unpaid. He pleads the means by which it "
+  "had to be obtained, and the concession as to the reason on which it was twice refused.", []),
+]),
+("h", "The finding under appeal on this factor, and what is challenged in it", [], [
+ ("The decision under appeal finds that the Appellant’s dissatisfaction was with the process of "
+  "reviewing his payments and with being “required to fight for” his entitlements; that "
+  "“the extent of pay issues experienced by you amounted to blemished management action”; "
+  "that the pay issues “ultimately were all resolved”; and that “while the occurrence of "
+  "the issues was a blemish, the resolution of them amounted to reasonable management action taken in "
+  "a reasonable manner”.", [-1]),
+ ("<b>What is challenged is the step from the second finding to the third.</b> The Appellant accepts "
+  "the finding that the payments were ultimately made. He contends that the question posed by section "
+  "32(5)(a) is whether the management action from which the injury arose was taken in a reasonable "
+  "way, and that the action from which this part of the injury arose is the process of obtaining the "
+  "entitlements, not the arrival of the money at the end of it. A process is not shown to have been "
+  "reasonable by the fact that it eventually produced the right result.", []),
+ ("<b>No allegation of purpose is made.</b> The Appellant does not allege that any payment was "
+  "withheld deliberately, or for any improper reason, and he does not rely on any such allegation. "
+  "Any statement to the contrary recorded in the decision under appeal is not pleaded or relied upon "
+  "in this appeal.", []),
 ]),
 ]
 

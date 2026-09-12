@@ -265,7 +265,7 @@ s += [P("[⚠ NOT IN THE NOTICE &mdash; none of the 303 paragraphs refers to the
    "a public interest disclosure, or a complaint of 13 May 2024. Stressor 1(n) is to be proved from "
    "the Unit's determination and the Respondent's response of 18 February 2026 at Annexure A, Tab 27, "
    "or carried into a further notice to admit.]", NOTE)]
-s += render(C.S2, "STRESSOR 2 &mdash; REMUNERATION")
+s += render(C.S2, "STRESSOR 2 &mdash; ENTITLEMENTS, AND THE MEANS OF OBTAINING THEM")
 s += render(C.S3, "STRESSOR 3 &mdash; THE ROSTER AND FATIGUE")
 s += [P("[⚠ NOT ADMITTED &mdash; the distance, the travel time, the four hours of sleep and the "
    "sixteen hours of wakefulness at Stressor 3(e) are the Appellant's own evidence and are not the "
@@ -421,12 +421,15 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "action: (i) the change notified on 15 April 2024 was effective the day it was notified, with no "
    "document of prior consultation, against clause 3.2 of the certified agreement, which requires "
    "contribution to decision-making not only in appearance but in fact and a genuine opportunity to "
-   "influence the outcome before a final decision is made (Stressor 1(e), Stressor 1(f)); (ii) the remuneration "
-   "correction was returned across four fortnights to the only person able to submit it, and the "
-   "claim submitted on 28 May 2024 remains recorded as Part Completed, while neither claim reference "
-   "identified by Payroll appears in the report at all (Stressor 2(c) to (e)); (iii) the special pandemic "
-   "leave application was declined twice on reasons which do not correspond, the second of which the "
-   "Respondent concedes was wrong on its own review (Stressor 1(l)); (iv) the fatigue enquiry of 8 April 2024 "
+   "influence the outcome before a final decision is made (Stressor 1(e), Stressor 1(f)); <b>(ii)</b> the means of "
+   "correcting the remuneration record were held by others: the correction was returned across four fortnights to "
+   "the only person able to submit it, the claim submitted on 28 May 2024 remains recorded as Part Completed, and "
+   "neither claim reference identified by Payroll appears in the report at all &mdash; and the decision under appeal, "
+   "having found the occurrence of those issues to be a blemish, rested its conclusion upon their eventual resolution "
+   "(Stressor 2(c) to (e), Stressor 2(h)); (iii) the special pandemic leave application was declined twice on reasons "
+   "which do not correspond, the second of which the Respondent concedes was wrong on its own review, and the "
+   "entitlement was obtained only on a third submission ten days after the first (Stressor 1(l), Stressor 2(g)); "
+   "(iv) the fatigue enquiry of 8 April 2024 "
    "drew no response for 23 days (Stressor 3(j)); (v) the Appellant's roster was decided upon and the "
    "decision expressly withheld from him (Stressor 3(b)); <b>(vi)</b> the shifts of 17 and 18 March 2024 "
    "were rostered contrary to the standards in the industrial instruments pleaded at Stressor 3(f) &mdash; "
