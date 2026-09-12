@@ -193,3 +193,57 @@ same register as *"I don't even, for me, it doesn't matter."*** ⭐⭐⭐⭐ **H
 person, parallel, and about consequence to others.** ⇒ **In the box: answer with what happened, in
 sequence, to whom. Not with what it meant to him.** ⭐⭐ **He already knows how to do it. He did it
 for twenty-two seconds on 7 August.**
+
+---
+---
+
+# 7. ⛔⛔ CORRECTION — SEGMENT 437 IS ALMOST CERTAINLY THE APPELLANT, NOT THE COMMISSIONER
+**12 September 2026 · Cory's reading, tested against the transcript and accepted.**
+
+> ⛔⛔ **§6 and the answer built on it said Dwyer "broke his own sentence to acknowledge him". THAT
+> IS WRONG.** ⭐⭐⭐⭐ **Segment 437 — *"Yeah, I actually understand what you're getting at."* — is
+> on balance the APPELLANT interjecting, and the diarisation is misfiring.**
+
+## 7.1 ⭐⭐⭐⭐ THE EVIDENCE, ALL ONE-DIRECTIONAL
+| Test | Result |
+|---|---|
+| ⭐⭐⭐⭐ **"Yeah" as a segment opener** | ⭐⭐⭐⭐ **Shepherd 13 · Dwyer 2** — 6.5 : 1 |
+| ⭐⭐⭐⭐ **"getting at" anywhere else in 64 minutes** | ⭐⭐⭐⭐ **seg 472, MR SHEPHERD: *"understand where you're getting at"*** — same construction, his mouth |
+| ⭐⭐⭐ **"I actually" anywhere else** | ⭐⭐⭐ **seg 865, MR SHEPHERD: *"I think I actually said that"*** |
+| ⭐⭐⭐ **length** | 8 words. **81% of Shepherd's segments are ≤9 words; his median is 5.** |
+| ⭐⭐⭐⭐⭐ **structure** | **436 ends a noun phrase. 438 RESUMES the conditional — *"If we can't get to that,"*.** ⇒ **A speaker interrupted and resuming is ordinary. A speaker interrupting himself to say he understands, then resuming, is not.** |
+| ⭐⭐⭐⭐ **timing** | gap in **0.24 s**, gap out **0.00 s**. ⇒ **Zero-gap resumption is the signature of someone who was waiting to continue.** |
+| ⭐⭐⭐⭐ **precedent** | ⭐⭐⭐⭐ **49 single-segment Shepherd interjections sit inside Dwyer turns across the hearing, 24 of them over five words.** This is his most frequent conversational move. |
+
+## 7.2 ⭐⭐⭐ WHY THE CLASSIFIER GOT IT WRONG AT conf = 1.00
+⭐⭐⭐ **The method note says the lexical stream marks the bench by *"judicial first person and
+second-person reference"*.** ⇒ ⭐⭐⭐⭐ ***"**I** actually understand what **you're** getting at"* is
+first-person cognition plus second-person address — **exactly the shape the rule is built to catch.
+The confidence is high because the rule fired cleanly, not because the attribution is sound.**
+⛔ **This is the documented failure mode, and it is why "Yeah" openers were flagged as the weak
+point.**
+
+## 7.3 ⭐⭐⭐⭐⭐ WHAT CHANGES — AND IT MATTERS
+| | Old reading (wrong) | ⭐⭐⭐⭐ Corrected |
+|---|---|---|
+| Who acknowledged | Dwyer acknowledged the patient-safety point mid-sentence | ⭐⭐⭐⭐⭐ **Dwyer NEVER acknowledged it. Not once, anywhere in the transcript.** |
+| The 5.74 s silence | followed by an acknowledgement | ⭐⭐⭐⭐ **followed by a redirect that expressly declines to engage — *"It's going to move on for a moment"* — then the disfluency cluster, then *"I'm going to schedule this disclosure dispute for a hearing."*** |
+| The interjection | his | ⭐⭐⭐⭐ **HIS OWN.** He interrupted a Commissioner mid-sentence **to tell the Commissioner that HE understood HIM** |
+
+⭐⭐⭐⭐⭐ **THE SILENCE AND THE STUMBLE NOW STAND ALONE AND UNANSWERED. That makes them MORE
+significant, not less.** ⇒ **There is no point in sixty-four minutes at which the bench engages
+what was said about the cardiac arrest and the respiratory distress.**
+
+## 7.4 ⛔⛔ AND IT IS THE CONCESSION PATTERN IN ITS PUREST FORM
+⭐⭐⭐⭐ **He had just delivered the strongest twenty-two seconds of his hearing. The bench went
+silent for 5.74 seconds, declined the subject, and stumbled three times.** ⛔⛔ **His contribution
+to that moment was to reassure the Commissioner that he had understood him.**
+⇒ ⭐⭐⭐⭐ **This is the same instinct as *"I don't even, for me, it doesn't matter"* — and it is now
+evidenced twice, in the same hearing, four minutes apart.** ⭐⭐⭐ **It is the single thing to drill
+before he gives evidence: after a strong answer, STOP. Do not reassure the room.**
+
+## 7.5 ⭐⭐ THE ONE THING STILL TO VERIFY
+⚠⚠ **This is a re-attribution against a conf-1.00 machine label. It is sound on the text, but it is
+not proof.** ⭐⭐⭐ **Play `29:45`–`30:20` of the audio and listen for the voice at `30:12.98`.**
+⭐⭐ **If confirmed, correct the attribution in `MENTION_7AUG2026_segments.jsonl` and re-run the
+speaker statistics** — 8 words move from one column to the other and nothing else changes.
