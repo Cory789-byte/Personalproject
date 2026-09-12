@@ -488,3 +488,81 @@ the one thing 64 minutes produced.
 ⭐⭐ And the correction to §8.7 stands alongside, not against it: **the passage worked.** It did not
 get acknowledged in the room, and it still moved the only item that moved. **Substance over
 reassurance — that is the lesson twice over.**
+
+---
+
+# 10. ⭐⭐ DOES THOUGHT CATCH UP TO SPEECH — the mechanics of the lag
+
+## 10.1 Correction to §8.4
+
+§8.4 called seg 434 *"three restarts in eleven words"* on the strength of *"or or"*. **Withdraw the
+"or or".** Seg 433 ends on *"or"* and seg 434 begins on *"or"* — a segment boundary, and these
+segments carry **no word-level timings**, so it cannot be shown to be two spoken tokens rather
+than a transcription overlap.
+
+**What survives, and is stronger:** in `30:00.78`–`30:10.50` — **9.72 seconds** — he says
+**"approach" four times**, with a different modifier each time:
+
+> *"satisfied with **the approach**, **a different approach** or / or **a more practical
+> approach**, / or **a more cohesive and cooperative approach** / with the parties that are
+> sitting at the other end of the table."*
+
+Measured across all 8,275 of his words, **4 repetitions of one content word inside 15 seconds is
+tied for the densest in the hearing.** The others at that density are *page*, *email*, *union*,
+*book*, *press*, *prove* — **topic** words, repeated because he is talking about the same object.
+**This one is the only one at that density that is reformulation: four attempts at the same empty
+slot, none of them accepted.**
+
+## 10.2 ⭐⭐⭐ YES — AND THE TRANSCRIPT SHOWS BOTH HALVES OF IT
+
+Speech production and the evaluation of what you just heard **do not run on the same clock**. A
+turn is planned before the previous speaker finishes — that is why ordinary transitions land at
+~0.2 s, faster than a single word can be planned from scratch. So a speaker with a plan already
+loaded will **execute the loaded plan** even when something has arrived that the plan does not
+account for. Understanding does not cancel the queued utterance. It arrives behind it.
+
+**Three things in the record carry that, in order:**
+
+**(1) The plan executed.** What came out of the silence was not a reply. It refers *backwards* to
+his own opening: *"because after **my speech about efficiency of conduct of proceedings**…"*
+⭐ **He did not answer you. He resumed himself** — with a preface bolted on the front to cover the
+join (*"It's going to move on for a moment, okay?"*). That is a plan re-entering, not a response.
+
+**(2) Something was being carried alongside it.** The four-times-"approach" chain, 9.72 s, densest
+reformulation in 64 minutes, immediately after. A formulation being repaired mid-flight is what
+divided attention sounds like.
+
+**(3) The uptake arrived 33 minutes late, and arrived as his own conclusion.** At `62:27` the
+position has moved — *"they might have an obligation to provide those"* — and **he never says it
+moved.** No *"as you were saying earlier."* No reference back to the passage. ⭐⭐⭐ **That is
+exactly what late uptake looks like: the content is absorbed, the source is dropped, and it
+re-emerges as the speaker's own finding.** Acknowledgement and effect are not the same event and
+frequently do not occur together.
+
+## 10.3 ⭐⭐⭐ THE RULE TO TAKE FROM IT
+
+**A disrupted plan does not stop. It completes, and then it adjusts.**
+
+Resumption is not rejection. The person who keeps going after you have said the strongest thing
+you have to say is not necessarily refusing it — very often they are finishing the sentence that
+was already built while the thing you said is still being processed. ⭐⭐ **The test of whether it
+landed is never the next turn. It is the position taken at the end.**
+
+Here: the next turn was the hardest thing said against him all day. **The position at the end was
+the only concession in the hearing.**
+
+## 10.4 ⛔ THE LIMIT, AND THE USE
+
+⛔ **None of §10 describes what Commissioner Dwyer thought.** It describes general mechanics of
+speech and comprehension, and three things visible in a transcript. It is not evidence of anything
+and must never be offered as evidence of anything. **State the sequence. Never state the state of
+mind.**
+
+⭐⭐ **Its whole value is as a briefing about rooms:**
+
+1. **Do not read a resumption as a rejection** — not in the hearing room, not in a letter, not in
+   Ms Matheson's replies. Judge by the position taken at the end.
+2. **Do not repeat yourself to force an acknowledgement that is never coming.** The four-week
+   stand-down exists *because* uptake is slow. ⭐⭐⭐ **The interval is the mechanism. Let it run.**
+3. **And the same discipline as §8.7, from the other side:** having said the strong thing, the
+   silence that follows is not failure. It is the processing. **Do not fill it.**
