@@ -427,3 +427,70 @@ point [08:37], the access-log method [13:38], patient safety [27:29], the emerge
 4. **Expect to build comprehension six times, and relapse in between.** The filters took six
    attempts across three minutes. **The Appellant's persistence is what earned the endorsement at
    [62:28] — not the clarity of any single attempt.**
+
+---
+
+## 20. ⭐⭐⭐ THE SILENCE MAP — WHAT THE PAUSES SHOW THAT THE RATE COULD NOT
+> 12 September 2026. Computed from `documents/transcripts/MENTION_7AUG2026_segments.jsonl`.
+> ⚠ **Method correction to §17.** §17 said the segments carry no word-level timings and that delivery
+> rate and articulation rate therefore could not be separated. **That is wrong.** All 1,068 segments
+> carry per-word start/end times (9,693 words). Delivery rate, articulation rate and pause structure
+> are all separable, and are separated below. §17's boundary finding survives; its caveat does not.
+
+### 20.1 The baseline
+65 minutes. **615 s of silence — 15.9% of the hearing.** Median inter-word gap 0.22 s; p90 1.18 s;
+p99 4.02 s. Whole-hearing delivery 2.50 w/s, **articulation 2.94 w/s**.
+
+### 20.2 ⭐⭐⭐ The four longest silences in the hearing are one event
+| Silence | At | Before it | After it |
+|---|---|---|---|
+| **25.58 s** | 25:01 | "A. Yeah, A to A, which is on form 29." | "This is the Form 29 file" |
+| **16.82 s** | 25:34 | "…the 22nd of April, 2025, 26, yeah." | "A, C, E, what's that a reference to?" |
+| **16.02 s** | 23:03 | "Where's that?" | "Manager, email, filters, that's what it would be" |
+| **15.80 s** | 25:58 | "A, B, C, D, E, which is number 10." | "manager email filters" |
+| 10.38 s | 22:14 | "Hand it up, please." | "What am I looking at?" |
+| 8.38 s | 21:16 | "…in respective directives." | "Where do I find that in your application?" |
+**Every one is the bench reading the two-page table handed up.** The stretch ends at seg 362:
+*"I still don't understand what filters"*.
+
+### 20.3 The silence is concentrated, and it is concentrated there
+Silence >0.5 s per 5-minute block: 20:00–25:00 **61.5 s**, 25:00–30:00 **88.4 s**. Every other block
+16–39 s. **One ten-minute window carries a quarter of all the silence in the hearing.**
+
+### 20.4 ⭐⭐ Articulation is near-flat; the variation is pausing
+| Passage | Words | Delivery | **Articulation** | Pause share |
+|---|---|---|---|---|
+| Handing up the table (316–331) | 117 | 1.92 | **3.20** | **40.1%** |
+| His own explanation of filters (337–346) | 77 | 2.22 | **2.56** | 13.5% |
+| "Let's just look at line 10" (347–356) | 124 | 2.49 | 2.94 | 15.2% |
+| "When I'm overloaded… miss the point" (299–313) | 104 | 3.01 | 3.18 | **5.3%** |
+| Run-up to the §17 boundary (420–429) | 64 | 2.91 | 3.09 | 5.9% |
+| After it (430–443) | 138 | 3.34 | **3.72** | 10.2% |
+| **Whole hearing** | 9,693 | 2.50 | 2.94 | 15.0% |
+⇒ Across the reading block, articulation is **normal or above** (3.20 v 2.94 mean). Nobody slowed
+down. **They stopped talking.** The "slow" passages of §17 are pause artefacts, not slow speech —
+**except** at the §17 boundary itself, where articulation also rises 3.09 → 3.72 (+20%). That part
+of §17 is a genuine change of speaking speed and survives the correction.
+
+### 20.5 ⭐⭐⭐ THE OPERATIVE FINDING — the most important thing he said was the most fluent
+*"when I'm overloaded with page after page after page after page of what looks like AI generated
+material I switch off … I'm a human being too Mr Shepherd and my brain doesn't process it … if you
+talk at me for two hours about something you can tell me in two minutes I'm going to miss the point."*
+**5.3% pause — the lowest of any passage measured, against a 15.0% baseline.** People pause while
+composing. He did not compose it. It came out whole.
+⇒ **It was not a reaction to Cory. It is a position he holds and has stated before.** Treat it as a
+standing instruction from the bench, not a rebuke on the day.
+⇒ ⛔ **And 18 minutes later the silence data shows it happening.** He said overload makes him miss
+the point; then he read a two-page table in 84 seconds of silence and said *"I still don't understand"*.
+
+### 20.6 The one that is about Cory, not Dwyer
+His own explanation of filters (337–346) is the **slowest articulation of any passage measured —
+2.56 w/s**, 13% below the hearing mean, with the analogy ("let's say Outlook… you put a word in") in
+the middle of it. He was speaking as carefully as he spoke all day **and it still did not land**.
+⇒ The failure was not delivery. It was that the explanation started from the mechanism instead of the
+purpose. Rule 1 (§5) — operative clause first — is the fix, and this is the proof of it.
+
+### 20.7 The limit
+Pause structure shows *whether someone is reading, composing, or disposing*. It does not show mood,
+and it never becomes evidence. Its whole use is calibrating Cory's own delivery and knowing when the
+bench has stopped listening. ⛔ Never on paper, never to the Regulator.
