@@ -198,7 +198,7 @@ S1 = [
   "page has been located or that any copy exists, does not allege that any entry made by the "
   "Appellant remains in the book, and does not allege that the book ceased to be in its possession "
   "during his employment.", [150, 151, 152, 153]),
- ("Neither the book nor any page or entry from it is listed in its amended List of Documents.", [154]),
+ ("The Respondent has admitted that it does not have a copy of the removed page.", [288]),
 ]),
 ("k", "The matters raised in August and September 2023, and the response", [], [
  ("On 7 August 2023 at 12:21 pm the Appellant wrote: “Please give me some space and stop with "
@@ -301,6 +301,9 @@ S1 = [
   "consequence of any employee complaint, at any time before 30 June 2024.", [269, 270, 271, 272]),
 ]),
 ("q", "Matters pleaded as context only", [], [
+ ("The Respondent does not allege that the Appellant was subject to any disciplinary process, or "
+  "that his work performance was the subject of any formal performance management process, before "
+  "18 June 2024, nor does it describe any communication with him before that date as a warning.", [300, 301, 302]),
  ("The matters at (j), (k), (l), (m), (n) and (o) above, and at paragraph 3 below, are pleaded as "
   "part of the sequence of matters the Appellant raised and the responses he received. They are not "
   "relied upon as independent causative circumstances, and no retaliatory or reprisal connection "
@@ -446,10 +449,10 @@ S3 = [
  ("The review decision records the Appellant’s response of 9 August 2024 as stating that the "
   "break “did not include travel time”, and: “If you factored in travel time, your "
   "break between shifts would have been less than 5 hours.”", [251]),
- ("The shift of 17 March 2024 was a late shift, concluding at 23:00. <b>A late shift does not shorten "
-  "the day that precedes it.</b> The Appellant had been awake throughout that day before commencing "
-  "it, and the period of wakefulness is accordingly measured from waking that morning and not from "
-  "the commencement of the shift.", [-1]),
+ ("The shift of 17 March 2024 was a late shift, concluding at 23:00.", [284]),
+ ("<b>A late shift does not shorten the day that precedes it.</b> The Appellant had been awake "
+  "throughout that day before commencing it, and the period of wakefulness is accordingly measured "
+  "from waking that morning and not from the commencement of the shift.", [-1]),
  ("The Appellant will give evidence that from waking on the morning of 17 March 2024 to the "
   "conclusion of the shift at 23:00 was approximately sixteen hours; that he then travelled home, "
   "obtained approximately four hours of sleep, and travelled back to commence the first shift of the "
@@ -485,6 +488,8 @@ S3 = [
   "a 24/7 period.", [13]),
 ]),
 ("h", "The emergency workload carried on those shifts", [], [
+ ("Metro South Health has stated in writing that “a spreadsheet of recorded MET calls is "
+  "available for the period 17-18 March 2024”.", [268]),
  ("The emergency workload carried on those shifts is recorded in the employer’s Emergency Code "
   "Register. For 17 March 2024 the register records eight entries, including a MET call to Ward 2H "
   "Bed 7 at 19:16, a Code Blue to the same bed at 19:20 — four minutes later — and a "
@@ -537,7 +542,10 @@ S3 = [
   "not rostering on call an officer who is rostered for the first shift on the following day.”", [240]),
 ]),
 ("l", "The absence of fatigue risk management at the Switchboard", [], [
- ("The matters pleaded at Stressor 1(p) above are repeated.", []),
+ ("The matters pleaded at Stressor 1(p) above are repeated: the fatigue risk management records do "
+  "not exist, the mandatory training applies only to health practitioners and clinical assistants, "
+  "and fatigue risk management assessment at the Switchboard was implemented only after "
+  "30 June 2024.", [263, 264, 265, 269, 270, 271]),
 ]),
 ("m", "The findings in the decision under appeal", [], [
  ("The review decision states: “The break between the shift on 17 March 2024 and 18 March 2024 "
