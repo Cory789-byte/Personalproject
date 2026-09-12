@@ -919,3 +919,84 @@ hearing: he concedes the room before he states his own position.**
 4. ⭐⭐⭐ **Do not begin with "I understand." Do not concede the room before he has said anything to
    concede to.** Understanding is what he grants after he has been heard — not the price of being
    heard.
+
+---
+
+# 15. ⭐⭐⭐ MSH SAID SEVEN WORDS
+
+## 15.1 ⚠ A DEFECT IN THE FILE — three labels, four speakers
+
+`MENTION_7AUG2026_segments.jsonl` carries only **DWYER IC**, **MR SHEPHERD**, **MS MATHESON**.
+**There is no label for the Metro South representative**, addressed by the Commissioner as *"Ms
+Rutland"* (seg 1010) and *"Ms Rutten"* (seg 1051) — the ASR is not reliable on the name. **Her words
+are folded into a DWYER-labelled segment.** ⚠ **Any speaker statistic run off this file understates
+the number of parties. Record it before the next pass.**
+
+*(Checked and cleared: segs 706 and 779 — "we've followed up with the health service" — are Cory
+paraphrasing the union's letter, not a fourth speaker.)*
+
+## 15.2 ⭐⭐⭐ THE WHOLE OF MSH'S CONTRIBUTION
+
+**`63:56`, seg 1052 — 40 seconds before the hearing ended:**
+
+> ***"Yes, Your Honour, that's fine, thank you."***
+
+**Seven words.** Agreeing to the four-week stand-down.
+
+And at **`61:39`, seg 1010**, invited expressly — ***"And Ms Rutland, any?"*** — **1.12 s of nothing
+transcribed**, then the Commissioner moves on with *"Okay, all right."*
+
+## 15.3 The floor, corrected
+
+| | Words | Share |
+|---|---|---|
+| **DWYER IC** | ~8,275 | ~86% |
+| **MR SHEPHERD** | ~1,322 | ~13.7% |
+| **MS MATHESON** (Regulator) | **21**, in 4 utterances | 0.22% |
+| **MSH** (Ms Rutten/Rutland) | **7**, in 1 utterance | 0.07% |
+
+⭐⭐⭐ **BOTH RESPONDENTS TO THE APPLICATION, COMBINED: 28 WORDS OUT OF 9,661. 0.29% OF THE
+HEARING.**
+
+*(Corroborating detail: Matheson says "Commissioner", the fourth speaker says "Your Honour" — two
+different people, consistent with the diarisation defect above.)*
+
+## 15.4 ⭐⭐⭐ THE FINDING
+
+**Metro South Health is the entity whose refusal produced the application, and whose objections
+were the entire subject of the listing.** The Commissioner said so at `30:20`, seg 441:
+
+> *"**the health service is going to need to call evidence to talk to their objections**"*
+
+⭐⭐⭐ **MSH was present for 64 minutes, was expressly invited to speak, and did not articulate,
+explain or defend a single objection. Not one document. Not one ground. Their objections have never
+been stated aloud, let alone tested.**
+
+**And note what that does to the deterrent at `31:01`** — *"they'll bring their lawyers along…
+cost consequences… this is going to be a big sideshow."* **That priced a contested hearing in which
+MSH argues. MSH was in the room and argued nothing.**
+
+## 15.5 ⭐⭐ WHAT IT IS WORTH — and the limit
+
+⛔ **Same discipline as §14.5. This is not a grievance and never goes on paper.** MSH is a
+**non-party**; a non-party at a directions listing is under no obligation to argue, and the
+application was parked before anyone reached the merits — **there was nothing for them to answer
+yet.** Their objections are presumably in writing. Nothing improper occurred and nothing here is
+a ground.
+
+⭐⭐⭐ **What it is worth is the asymmetry, held in reserve and used only as planning:**
+
+1. ⭐⭐⭐ **The objections are untested and unstated.** If he presses any part of the Form 29, MSH
+   must justify each one — and on this record they have committed to nothing oral that constrains
+   them, but equally have banked nothing.
+2. ⭐⭐⭐ **The four weeks is the negotiation, and MSH is not in it.** The Commissioner directed the
+   discussions to **Ms Matheson** (segs 977, 1043–1044) — the Regulator, who has 21 words on the
+   record and model-litigant obligations. **MSH is not his counterpart in the next four weeks.
+   Do not write to them about disclosure.**
+3. ⭐⭐ **Get the objections in writing before pressing anything.** The authenticity letter already
+   pending (what is disputed about each tab, and does the Respondent hold a copy) is the right
+   instrument. **A stated objection can be answered. An unstated one cannot — and it cannot be
+   relied on either.**
+
+⭐⭐ **The whole hearing was two men. The two entities the application was aimed at contributed
+twenty-eight words between them, and neither said anything about a document.**
