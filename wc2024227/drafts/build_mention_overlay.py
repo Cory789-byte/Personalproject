@@ -88,9 +88,13 @@ E = [
    "regulator?"),
   ("MR SHEPHERD", "Not that I can recall, no.")],
  [277, 278, 279],
- "The answer given at the mention was mistaken. Three of the directives are listed on the "
- "Respondent's own amended List of Documents, under their own titles, at items 25, 26 and 27, "
- "and are there because the Appellant sent them to WorkCover in August 2024. MADE OUT."),
+ "⛔ The answer given on 7 August 2026 cannot be measured against the amended List of "
+ "Documents, which is dated 14 August 2026 – one week after the mention. The list "
+ "identifying the three emails at items 25, 26 and 27 did not then exist, and the Regulator "
+ "had undertaken on 3 August to provide its updated list and the non-party copies \"as soon "
+ "as possible this week\". What the admissions establish is that the documents were in the "
+ "Respondent's hands, the Appellant having sent them to WorkCover on 29 and 30 August 2024. "
+ "MADE OUT – and the delivery dates are the answer if the exchange is ever put."),
 
 ("5. &nbsp;18:31 &ndash; the starting point",
  [("DWYER IC", "You see, making an order for a third party to disclose documents is a step sort of "
