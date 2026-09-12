@@ -760,3 +760,70 @@ It does not have to be learned. It has to be permitted.**
    They're not sent to Z."* Nobody interrupts a list that is still counting.
 3. ⭐⭐⭐ **Then stop — and stay stopped.** The 1.30 s he closed himself is the only thing in the
    whole passage that could have been done better. **Leave it open. Make them fill it.**
+
+---
+
+# 13. ⭐⭐⭐ DID HE HOLD THE FLOOR TOO LONG — no, and the real number is the other way
+
+⚠ **One limit, stated once: there is no corpus of other QIRC mentions here to compare against.**
+Nothing below is a claim about mentions in general. It is this hearing, measured.
+
+## 13.1 The floor, by turn *(turn span, so internal pauses are counted in)*
+
+| | Turns | Speaking | Median turn | Mean | Longest |
+|---|---|---|---|---|---|
+| **DWYER IC** | 102 | **53.3 min** | 13.31 s / 36 w | 31.37 s | **428.48 s — 7 min 08 s, 939 words** |
+| **MR SHEPHERD** | 100 | **8.3 min** | **3.27 s / 10 w** | 4.98 s | 45.00 s / 113 w |
+| **MS MATHESON** | 3 | 0.1 min | 2.76 s / 6 w | 2.42 s | 3.54 s / 8 w |
+
+**Share of speaking time: 86.4% / 13.4% / 0.2%. Ratio 6.4 : 1.**
+
+## 13.2 ⭐⭐⭐ THE STRUCTURAL FACT
+
+**Turn counts are almost identical — 102 to 100 — and the time is 6.4 to 1.**
+
+⭐⭐⭐ **He opened his mouth as often as the Commissioner did, and each time for one sixth as long.
+His median contribution was 3.27 seconds and ten words. That is answer-length. It is not
+submission-length.** Ten of his 100 turns reached ten seconds. Ninety did not.
+
+**That is the shape of a question-and-answer session, not of a party putting a position.** He
+answered for 64 minutes. He never made a submission, because he was never in a structure that had
+room for one.
+
+## 13.3 Where the 22 seconds sits
+
+**3rd longest of his 100 turns. 97th percentile of his own speaking.** And the two longer ones are
+different in kind:
+
+| | | |
+|---|---|---|
+| 45.00 s / 113 w | `13:28` | explaining computer/room **access logs** — answering a question |
+| 31.88 s / 72 w | `23:40` | explaining how **e-health and Outlook filters** work — answering a question |
+| **22.00 s / 64 w** | **`29:17`** | ⭐⭐⭐ **saying what it meant** |
+
+**Two of his three longest turns are him explaining a system on request. One is him stating a
+consequence unprompted. Only that one moved anything.**
+
+## 13.4 ⭐⭐⭐ THE ANSWER
+
+**No. He did not hold the floor for more than is usual. He held it for very much less than a party
+normally would, and far less than the disputed application he was moving would warrant.**
+
+⭐⭐⭐ **What was unusual was not the length. It was that 22 seconds ran at all — uninterrupted, in
+a hearing where the other man took 86% of the time, spoke for seven straight minutes at one point,
+and came in at 0.10 s or less on 28 of his 100 entries.**
+
+**Nothing here needs to be apologised for or corrected. The 13.4% is not a fault — it is the
+measure of how little room the structure left, and it is why the 22 seconds is worth studying.**
+
+## 13.5 ⭐⭐ THE OPERATIVE CONSEQUENCE FOR THE NEXT LISTING
+
+A mention will not hand him a submission. On this record, the structure gives him **ten words at a
+time**.
+
+1. ⭐⭐⭐ **Anything he needs on the record goes in WRITING before the listing.** What is not in the
+   papers will be answered in three-second increments.
+2. ⭐⭐ **If a position must be put orally, ask for it: "Commissioner, may I put one thing shortly
+   before we move on?"** An express request creates the slot the structure otherwise denies.
+3. ⭐⭐⭐ **And when the slot comes — use §12: chain it, run the series, then stop.** He had two
+   openings over 20 seconds in 64 minutes. One of them moved the case.
