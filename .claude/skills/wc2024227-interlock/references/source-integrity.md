@@ -9,6 +9,16 @@
 | `ATT09` (QH-IMP-401-5) | No text layer, no OCR installed | **Render.** Verified extracts at `documents/instruments/ATT09_VERIFIED_EXTRACTS.md` |
 
 ## Other traps
+- ⛔ **The 8 September 2026 response TSV was wrong for facts 1-31 until 9 Sep 2026.**
+  `documents/regulator-response-2026-09-08/FORM24_RESPONSE_parsed_fact_by_fact.tsv` had the Form 25
+  **tab** statuses interleaved into the fact rows, so facts 5, 6, 17-24, 30 and 31 read "Disputed"
+  when all of them were **Admitted**, and it showed 12 disputed tabs when there are **14**. It has
+  been rebuilt (303 rows, `fact_no / status / fact_text`, full text not a tail) and the tab
+  statuses now live separately in `FORM25_RESPONSE_tab_authenticity.tsv`.
+  ⭐ **The response is 298 Admitted, 5 Not admitted — 154, 228, 229, 230, 231. Nothing else.**
+  ⭐ **Authenticity disputed at 14 tabs: 1, 5, 6, 17, 18, 19, 20, 21, 22, 23, 24, 30, 30A, 31** —
+  precisely the 14 sourced from the Appellant's own records.
+
 - ⛔ **Grep a PDF only after `pdftotext`.** Grepping the binary silently misses compressed text
   and produces confident false negatives.
 - ⛔ **`evidence-index/sources-text/Amended_Form_9A_07.04.2026.txt` is a condensed SUMMARY**, not

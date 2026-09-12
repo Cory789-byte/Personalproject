@@ -6121,10 +6121,18 @@ employer records it going well; Taylor approves FT "very pleased" 27 Sep 2023. T
    with suggesting wording… recommending asking if he could retract the email." Punch is also on the
    15 May 15:41 PID-complaint forward. ⚠ Her call time to Punch NOT stated — do not assert order
    vs 15:41. PID-track; rule 1.
-2. 7 Aug 2023 5:11 PM Reese→Taylor: 8-month roster audit of Cory same day as the space request
-   ("in case he wishes to make a claim") + "can you send me an email of your recent communication
-   with Cory about contacting yourself about missed shifts, AS I COULD NOT FIND A COPY of this
-   email" — the claimed call-process communication could not be located by the Director in Aug 2023.
+2. 7 Aug 2023 5:11 PM Reese→Taylor: 8-month roster data sent to Taylor the same day as the space
+   request + "can you send me an email of your recent communication with Cory about contacting
+   yourself about missed shifts, AS I COULD NOT FIND A COPY of this email" — the claimed
+   call-process communication could not be located by the Director in Aug 2023.
+   ⛔⛔ CORRECTION 11 Sep 2026 — THE QUOTATION ABOVE WAS TRUNCATED AND THE TRUNCATION INVERTED THE
+   MEANING. Read to source (index/FULLTEXT.txt ~line 91280), the email says: "This just gives us a
+   guide as to how he has been rostered the past 8 months and also info about whether he routinely
+   picks up additional shifts, IN CASE HE WISHES TO MAKE A CLAIM FOR ADDITIONAL SHIFTS." It is a
+   claim for ADDITIONAL SHIFTS under cl 11.7, not a claim in the litigation sense. ⇒ This is NOT a
+   surveillance/audit document. It is the Director acting on his 12:21 pm cl 11.7 request the same
+   day, and it is FAVOURABLE. Never run it as adverse. See
+   skill/references/THE-511PM-EMAIL-read-to-source-11SEP2026.md.
 3. "Minimum 2 hours notice" appears only as Reese's 2025 recollection of "our Switchboard
    guidelines" — written Sick Leave Process V1.1 is 4 Feb 2025. Locate the 2024 written guideline
    or note its absence (disclosure/cross question).
@@ -7442,3 +7450,383 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 - Addition: the 29 Jul enquiry to ART came **16 days after Cory's 13 Jul 16:39 email** telling Injury Management "I no longer have an active open QSuper Income Protection claim; that claim is now closed ... There is accordingly no income support available to me from that source", and 14 days after Harrison's 15 Jul reply ("as we have been provided information that you do hold a current QSuper Income Protection Claim ... please provide a copy of [closure] correspondence"; "The only information supplied to QSuper/ART from injury management is the email I cc'd you in on Monday 13/07/2026"). ART's 31 Jul answer: claim "active", benefits "temporarily paused" from 31 May 2026, no payments — i.e. the substance of what Cory said (no income from that source) confirmed to MSH on 31 Jul; label differs ("closed" vs "active/paused"). ⚠ Going forward use ART's words: "no benefit has been paid since 31 May 2026; benefits paused". Knowledge point: from 31 Jul MSH knew the IP-claim premise for refusing pay produced nothing, and continued the hold-out; the 29 Jul contact was employer-initiated and not copied to Cory, against the 15 Jul description of the flow.
 - ART claim status, from the repo (8 Sep check): 13 Mar 2026 10:00 Cory→Ings "would like the super to stop paying me", "following up on an earlier email mid last year" (that mid-2025 email is NOT in the repo — locate in Hotmail sent items). ART 4 Aug 2026 (Zappia): acknowledges the cease request "on 16 March 2026"; "no record of receiving notification from you in April or May 2025"; last payment 28 May 2026 (25–31 May); payments "temporarily suspended from 31 May 2026" pending overpayment review 7 Apr 2025–31 May 2026; partial benefit formula; "you may be entitled to ongoing benefits". QSuper Resolutions (Beck) 28 May 2026: James contacted the employer for payslips; payments on hold from 1 Jun 2026. Cory 12 Aug 2026: agrees the recalculation basis; asks for workings and for assessment of entitlement from mid-June 2026 (no wages since 13 Jul). ⇒ Precise formulation for MSH: "I asked the insurer in writing on 13 March 2026 to stop paying me; the last payment covered the week to 31 May 2026; payments have been on hold since 1 June 2026 pending the insurer's review." ⛔ Never "closed" again; never "receiving benefits".
 - Date adjacency recorded (8 Sep 2026, no inference): MSH abandonment confirmation K-CF24/3270 (Johns, per Firoz) — Word file created **9 Oct 2024 16:08:05**, forwarded 16:10. HopgoodGanim DMS record for "Reasons for decision - WCR reject - Worker applicant - Mr Cory Shepherd" — **HgDMSDate 09.10.2024**, PDF made 24 Oct 2024 10:16. Same calendar day, two organisations, no document connecting them. ⛔ The DMS date is the record date; a DMS description can be set on any save; it cannot be said the outcome was known on 9 Oct. ⛔ Not for the appeal; §7.8 question only, after 30 Sep.
+
+## 2026-09-09 — THE 9 SEPTEMBER SET FINALISED: rebuilt from one source, three audits, nineteen corrections
+- **Build.** `drafts/build_9sep_final.py` now runs every builder in order and writes `FINAL_9SEP2026`,
+  `SEND_9SEP2026` and the `TO_MATHESON_9SEP2026` mirror from the same build, so no superseded copy of a
+  served document can survive anywhere. It verifies every PDF for docinfo, XMP, page metadata,
+  annotations and embedded files, and **fails** rather than emit a two-page outline (direction 2).
+  `drafts/build_9sep_review_bundle.py` makes a 60-page reading copy, footer-stamped "not for service".
+- ⛔⛔ **NEAR MISS — the Tab M1 redactions.** `build_medical_bundle.py` pointed at a scratch directory
+  from an earlier session that no longer exists. A rebuild would have served the **unredacted** GP pages
+  (sexual-health entries, chlamydia exposure, erectile dysfunction). The three redacted pages were
+  recovered out of the last built PDF and are now at **`drafts/assets/redacted/`**. ⭐ **They are the only
+  copy. If they are lost the bundle rebuilds unredacted.**
+- **Three audits run against the record: citations; dates/names/quotations; set-level consistency.**
+  Nineteen corrections applied. The ones worth remembering:
+  - MSH June 2026 production **Item 6 is the role description for the Switchboard MANAGER**, not the AO3.
+    The request letter had cited it as the holder of Tab 1. The AO3 description is **RFMI Attachment 2 of
+    31 July 2026**. ⛔ Do not cite Item 6 for the AO3 role description again.
+  - **Respondent's amended LOD item 3 is the Application for Review**, not the Form 29 to Mind and Memory.
+    No non-party notice to the practice appears on the Respondent's list at all.
+  - ⛔ **There is NO order sealing Exhibit A5.** The record holds only the Commissioner's *indication* on
+    13 March 2026 that it *will be* sealed, and Cory's acceptance of it. Never assert a sealing order.
+  - **Harrison-Jones**: nothing supports "temporary part-time operator" or that he has left MSH; the
+    20 Aug note records him as a **current MSH employee**. Both assertions removed from his outline and
+    from the witness list.
+  - **Conaghan's ballot denial** was contradicted by admitted **facts 176–177** (17 employees invited to
+    vote, Nov–Dec 2024). Now bounded to "before 30 June 2024".
+  - The MASPER emails log **nine occasions**, of which seven are wrong-team calls; the VHUB entry is the
+    MET team ringing for a location. "Nine calls reaching the wrong team" was an overstatement.
+  - The Respiratory Service quote "we can not help patients or other clinical staff" is in the **20 May**
+    email only, not the 15 May one.
+  - The four work capacity certificates leave **10 August 2024 uncovered** — never say "continuous".
+  - Separation date is **20 September 2024** (Johns, signed 8 Oct 2024), not "October 2024".
+  - ⛔ **The Communication Book and the "Contact & Number Changes book" are different books.** Both lay
+    outlines had conflated them; corrected.
+  - The 16 May 2024 referral lists **three** medications (azithromycin, melatonin, Viagra). Melatonin m/r
+    is ATC N05CH01, so "no other psychotropic" is contestable — say **"no antidepressant or anxiolytic"**.
+  - Volume figures (15–50 codes per 24h; 200–300 calls per shift) are **not admitted facts**; they come
+    from Form 20 ¶¶9, 12, 23. Now attributed in the outline to his own records.
+- ⛔ **DATA FIX — `FORM24_RESPONSE_parsed_fact_by_fact.tsv` was wrong.** It had the Form 25 tab statuses
+  interleaved into the fact rows: facts 5, 6, 17–24, 30 and 31 read "Disputed" when all were **Admitted**,
+  and it showed 12 disputed tabs instead of 14. Rebuilt (303 rows, full fact text). Tab statuses now in
+  `FORM25_RESPONSE_tab_authenticity.tsv`. Recorded in the interlock skill's source-integrity reference.
+  ⭐ **The response is 298 admitted / 5 not admitted (154, 228–231); 14 tabs disputed
+  (1, 5, 6, 17–24, 30, 30A, 31) — exactly the 14 sourced from Cory's own records.**
+- **Outline changes on instruction.** Topic 2 drops the Review Decision's unreasonable-management-action
+  finding (a third party's characterisation, not lay evidence) and gains the **emergency code register,
+  its entries for 17–19 March 2024 and Cory's screen capture** — needed because facts 228–231 were refused
+  and Tab 31's authenticity disputed, so only his evidence proves them. Topic 5 now ends on what the delay
+  meant at the console for the codes and calls he was handling: the operational-consequence limb.
+  Topic 3 states what Reese's 10 May email says rather than calling it an acknowledgement. Topic 10 drops
+  the unverified claim that the QH mailbox was restricted.
+- **Open for the hearing, not for service:** the Krishnaiah report's first paragraph refers to "his unfair
+  dismissal, workplace conflicts, alleged bullying, harassment" and to collateral from his mother — expect
+  the Regulator to use it as perception material; schedule row 4 already fences attribution. Item 5 (the
+  clinical records) still not received; serve on receipt. Tab 31 / facts 228–231 to be pressed by the
+  request letter, then by attendance notice to MSH if nothing comes by 18 September.
+
+### 2026-09-09 — ⛔ CORRECTION on Mr Cory Harrison-Jones (Cory's instruction, same day)
+The 20 August note ("who is a **current MSH employee**", working-notes ~6424) is **wrong and superseded**.
+Cory documents that Harrison-Jones **is no longer a Switchboard employee and is no longer employed by
+Metro South Hospital and Health Service; he is now an officer of the Queensland Ambulance Service.**
+- The witness list and his outline of evidence now say so, as served on 9 September 2026.
+- ⭐ **This reverses the August risk assessment on him.** That assessment rested on his being inside
+  Metro South, and it is the reason he was marked "DO NOT COMPEL". He is now outside Metro South's
+  control, which removes the employment pressure on a witness giving evidence against it. He is on the
+  witness list and will be called; an attendance notice under Part 6 of the Guide remains available and
+  is now a much lower-risk step than it was in August.
+- ⭐ **Confirmed by Cory the same day and now served:** he was **employed part time** at Logan Hospital
+  Switchboard, worked there **as an operator alongside Cory**, was **on shift at the time of the events
+  he describes**, and has **since left the department**. All four are in his outline and, so far as they
+  fit, in the witness list. The source is Cory's own knowledge of his colleague; there is no document in
+  the repo for the classification, so if it is ever challenged the answer is his evidence and Metro
+  South's employment records, which the Respondent can obtain.
+- ⭐⭐ **HIS TIME AT THE SWITCHBOARD IS NOW ESTABLISHED FROM DOCUMENTS, and served.** Swept the whole
+  index (115 hits). He is on the Logan Switch team distribution lists continuously from **21 February
+  2022** — then 24 Feb, 11 Apr, 10 May, 24 May, 19/21/23 Sep, 16 and 31 Oct 2022, 14 and 28 Mar 2023
+  (`documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf`, mirrored in the Taylor
+  pack) — and he is a **named recipient of Ms Stibbard's "Hello & Update" of Tue 18/07/2023 12:56 PM**
+  ("Cory Harrison-Jones <Cory.Harrison-Jones@health.qld.gov.au>"), verified on the rendered page 3 of
+  `documents/2026-08-11_Stressor1a_Particulars_Bundle_SERVED_on_Matheson.pdf`.
+  ⭐ That last one is the strong link: **Tab 1A's authenticity is ADMITTED** and facts 39 to 45 are
+  admitted, so his membership of the team on 18 July 2023 is provable from the Respondent's own
+  admissions. His outline now says he was a member **from 2022 and still a member on 18 July 2023**, and
+  item 2's "approximately three months" is now expressly a window **within** that time, so the two no
+  longer read as inconsistent.
+- ⛔ **Where the "temporary" descriptor came from.** Stibbard's own 18 July 2023 email describes **her
+  own** role — "My current role is a project role for the Switchboard team. It is a temporary position
+  that predominantly focuses on fixing up the database". An earlier draft had transferred "temporary" to
+  Harrison-Jones. It is **hers, not his**. Never write that he held a temporary position.
+- ⚠ Still open: his exact start and finish dates, and the date he moved to the Queensland Ambulance
+  Service. Nothing turns on them in the served outline, which is deliberately bounded by what the
+  documents prove. Take them from him before he is examined.
+- ⚠ Do not write that he has left **Queensland Health**. Metro South HHS and the Queensland Ambulance
+  Service are different employers; what is documented is that he has left Metro South.
+
+### 2026-09-09 — FINAL SWEEP: every fact in the served set matched to the 303 and the 8 Sep response
+Tool committed at `drafts/check_facts_against_response.py`; fact text at
+`documents/regulator-response-2026-09-08/FORM24_FACTS.json`. Re-run it after any edit.
+- ⛔⛔ **THE SCANNER BUG WORTH REMEMBERING.** The first version read the numbers after "facts" with a
+  character class that also matched the letters in "and"/"to". On **"Facts 228 to 231 not admitted"**
+  it swallowed the trailing prose, failed to parse, and **silently discarded the whole citation** —
+  so four refused facts reported as clean. Any scanner over this notice must consume only numbers
+  and the connectors joining them and stop at the first other token. The committed tool self-tests
+  on that exact string and exits if it regresses.
+- **Result, after the fix.** Of the served documents, only the request letter points at a
+  not-admitted fact (154, 228–231), which is the letter *about* those facts and is correct.
+  Every other document — the outlines, the schedule and the reply letter — rests **only** on facts
+  admitted on 8 September. Shepherd outline: 274 facts, all admitted.
+- **Fact-to-tab.** Every fact the request letter puts against a tab names that tab in its own text.
+  ⭐ The one apparent mismatch is not one: for Tab 30 the letter cites facts 71 and 72 (the email
+  itself) and separately notes fact 70, which is **Review Decision 69983 (Tab 25) recording the same
+  hours**. So even with Tab 30's authenticity disputed, the content is independently admitted at
+  fact 70. The Tab 30 dispute is largely academic — do not spend the attendance notice on it.
+- **Quoted phrases.** Every quotation in the outlines, the reply letter and the request letter is
+  verbatim in an admitted fact, except five from the general-practice notes ("stress at work",
+  "upset by people not following rules", "work stress", "they withhold pay at times, no overtime-
+  not processed, manipulate his roster- so he works lates then earlies", "they don't listen to his
+  complaints"). Those were never put to admission; they are proved by Tab M1 and the doctors.
+  All five verified against the served page (bundle p 5 = GP source p 7).
+- ⚠ **Content note on the served report.** Tab M4, bundle **page 19** (Krishnaiah, 13 Feb 2025, p 2)
+  contains his partner feeling like a **"sugar mommy"** from the financial strain of withheld pay,
+  and Cory's own word **"illiterate"** for stress-impaired concentration. Both are clinical evidence
+  of harm and both tie to the admitted pay facts; neither is adverse. The Regulator already holds
+  the report at **item 10**, so serving it discloses nothing new. Cory should simply know they are
+  in the pages he is serving.
+
+### 2026-09-09 — RULE AND GUIDE CITATIONS IN THE SERVED SET: all verified to source
+Every legal citation in the 9 September documents, checked against the instrument itself.
+- **rule 49, Industrial Relations (Tribunals) Rules 2011** — confirmed from the Regulator's own
+  letter of 8 September, which sets out rr 49(1), (2) and (3) in full. Correct name and rule.
+- **Directions 1 and 2, Further Directions Order (3) dated 19 August 2026** — confirmed against the
+  order. Direction 1 file + serve the witness list by 4.00 pm 9 Sep; direction 2 serve but NOT file
+  the lay outlines (one A4 page per witness) and any expert reports by the same time; directions 3
+  and 4 put the Respondent's equivalents at 4.00 pm 30 Sep.
+- ⭐ **Guide Part 4.11 "Expert Reports"** (v2.10, 11 Mar 2025) — verified verbatim: *"each of the
+  experts that you will be calling in a matter (doctors, psychologists, psychiatrists, etc.) should
+  have prepared and supplied to you a report about your injury. You must supply those reports to the
+  other parties... Likewise, the Respondent/s in the matter must supply you with the reports of the
+  experts that they will be calling... **Unless otherwise directed, expert reports are only to be
+  exchanged between the parties and not filed in the Registry.**"*
+  ⇒ Calling Krishnaiah and Hawes expert witnesses within Part 4.11 is right — they are doctors he
+  will call. ⇒ The Part independently confirms the serve-not-file treatment of the medical material,
+  and it is the hook for the Regulator's obligation to serve its own experts' reports by 30 Sep.
+- ⭐ **Guide 7.6.5 "Expert evidence"** — verified: expert witnesses *"may give evidence over the phone
+  or by video, if the Commission allows"*; the calling party *"will need to pay the expenses of the
+  expert witness"* and *"should request that an attendance notice to give evidence be issued"*.
+  ⇒ The 9 Sep email to Dr Krishnaiah is accurate on all three points (phone/video, fee met by Cory,
+  attendance notice available). **Guide Part 6** is the attendance-notice Part (Forms 32/32A/32B/32C;
+  Form 29 is the non-party disclosure form) — the witness list's reference is correct.
+- **s 32, 32(1) and 32(5) WCRA** as used in the schedule — verified against Review Decision 69983
+  p 27: *"I find overall your psychological injury arose out of reasonable management action taken in
+  a reasonable way and section 32(5) is consequently enlivened... the provisions of section 32(5) of
+  the Act exclude your psychological condition from the definition of 'injury' within section 32(1)"*.
+  ⇒ The schedule's *"The claim was rejected under section 32(5), not section 32(1)"* is exactly right.
+  ⚠ The same page runs **Delaney** and the global-evaluation reasoning — the reviewer's own authority,
+  and the thing the one-mechanism framing exists to answer.
+- p 17 verified verbatim for the three things the schedule attributes to it: no pre-existing factor or
+  condition and *"maintained in all later work capacity certificates"*; Dr Hawes to WorkCover on
+  2 Sep 2024 that work events were the **sole cause**; and *"I am satisfied your employment was a
+  significant contributing factor to the psychological injury."*
+
+---
+
+## 9 September 2026 (evening) — the non-admissions, read against the mention
+
+Closed the loop between what Commissioner Dwyer explained on 7 August 2026 and what the Regulator
+did on 8 September. Written up at `skill/references/THE-NON-ADMISSIONS-8SEP2026.md`. ⛔ Internal.
+
+**The finding.** The Form 25 answers sort **perfectly** along the "Copy produced from" column of the
+Appellant's own schedule — **39 of 39 tabs, no exception in either direction**. All 14 tabs sourced
+"Copy from the Appellant's own records" are disputed; all 25 from every other source are admitted,
+**including Tabs 1A and 8B, which came from the Appellant** but in bundles already served on the
+Respondent on 11 August 2026. So the discriminator is not the Appellant; it is whether the
+Respondent holds a copy to check against. No reason was given for any of the 14, no discrepancy
+identified, no competing copy produced, and no assertion that any document is not genuine.
+
+**The interlock.** Dwyer at [15:40] — *"if you say something and it's not contradicted… it will be
+accepted"* — and at [28:56] — *"doesn't contradict it, doesn't cross-examine you, doesn't produce
+documents… that's a problem for them, not for you"*. Those were explanations, not rulings, and were
+said before any admission existed. They are worth more now: for 13 of the 14 disputed tabs the
+Form 24 **admits what the document says**, so the Respondent admits the words and disputes the copy,
+and has nothing to put in cross-examination.
+
+**⭐ Tab 31 is the one that matters.** It is the only disputed tab whose contents were also refused
+(facts 228–231, the emergency codes of 17–19 March 2024 — the workload record for the seven-hour
+break). In the same response fact 268 is **admitted**: MSH's letter to Commissioner Dwyer states
+*"a spreadsheet of recorded MET calls is available for the period 17-18 March 2024"*. They refused
+the copy and admitted the original exists. Tab 20 is the same shape — a letter on the Commission's
+own file, authenticity disputed, contents admitted at facts 263–268.
+
+**⛔ Tactical decision: the pattern is NOT put to the Regulator.** Its value is that no reason has
+been given; asking for one invites a reason, and a thin reason on the file helps them. The request
+letter of today already offers the way out (produce/confirm, or admit) by Friday 18 September and
+cites Dwyer's *"the starting point is to ask the regulator"* [18:55]. It stays as served. The
+pattern is a submission to the Commission, made once, late, only if the dispute is still alive.
+
+⚠ **Do not argue impropriety.** r 49(2) permits a dispute without reasons. Impropriety is a
+*Briginshaw* allegation and motive-reasoning, and it is the one way to lose the point. Argue the
+consequence: the dispute is about the absence of a corroborating copy, not about the documents.
+
+Next: 18 Sep (reply falls due) → non-party disclosure to MSH limited to the schedule if not →
+30 Sep (Respondent's witness list; attendance notices if Taylor and Reese are absent).
+
+### Addendum, same day — the 8 September responses are unsigned (Cory's catch)
+
+⛔ **Verified on rendered pages; the text layer does not show signature images.** The Respondent's
+"responses" of 8 September 2026 are **the Appellant's own served Form 24 and Form 25** with the
+right-hand column completed. The only signature on either is **Cory's own**, over **28/08/2026**,
+as "Appellant (self-represented)". There is **no respondent's signature, name, office or date
+anywhere on either document**, and **no reason against any of the 19 entries not admitted**.
+
+Contrast the response of **18 February 2026** in this same proceeding: a **separate document of the
+Respondent's own**, headed "Respondent's Response", with a full details block — contact Ms Renee
+Matheson, address, phone, fax, email — **signed, dated 18/02/2026**, and giving a reason for every
+denial ("denies untrue the fact, **because** Ms Taylor needed confirmation from payroll…").
+⭐ That signed document is **Annexure A Tab 27** and its **authenticity is admitted**.
+
+⛔ **Not a validity point — do not run it as one.** r 49(1) requires the *first party's* notice to
+be "in the approved form"; r 49(2) requires the other party only to "serve a notice … disputing" —
+no form, no signature, no reasons. And the **covering letter of 8 September is signed** and
+expressly adopts the enclosures as the r 49(2) notice. The disputes are effective. The same
+asymmetry helps: the 298 admissions bind despite the same informality.
+
+⭐ **What it is worth:** it completes the provenance pattern. The answers sort perfectly by source
+column (§3) and **nobody attested to the sort or gave a reason for any of it** (§3A) — a clerical
+pass down a column rather than a judgement about any document, stated as comparison with their own
+February conduct, without adverb or motive. It also closes the *Browne v Dunn* loop: no stated
+basis for any of the fourteen, and no identified person who formed one.
+
+⛔ **Do not ask them to sign or to give reasons.** They would, and the point evaporates.
+
+Written into `skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §3A.
+
+### Addendum 2, same day — file forensics, the four classes, and the Dwyer question
+
+**When the responses were last changed.** Form 24 response written **Mon 7 Sep 2026 16:42:04
+AEST**; Form 25 response **16:43:04** — sixty seconds later. `ModDate == CreationDate` on both:
+written once, never revised. Served 8 Sep 11:24. The 7 Sep stamp cannot be a local artefact — the
+files were not received until 8 Sep.
+
+**They are the Appellant's own PDFs with a column stamped over them.** Producer on both is
+**pypdf**, a Python library; no Word or Acrobat lineage at all. The text layer proves the
+mechanism: on page 3 of the Form 25 the twelve labels sit **at 97% through the content stream, as a
+block after all the table text**, not inline in their rows — an overlay, not a filled-in table.
+Which is why no respondent's signature block could be added (Addendum 1). ⭐ Ms Matheson's service
+email says the same thing: *"the **updated** forms 24 & 25 with the Regulator's responses."*
+
+**The covering letter is a real drafted document**: Acrobat PDFMaker for Word, created 8 Sep
+11:14:13, modified 11:14:15, served 11:24 — **ten minutes before service**, the same pattern as the
+amended SOFC of 13 May 2026. Word review-cycle fields show it was circulated **at least twice**
+(`_PreviousAdHocReviewCycleID` as well as `_AdHocReviewCycleID`); `_AuthorEmail` is
+Margaret.Kerrigan@oir.qld.gov.au. ⚠ The `Author: "Peter"` field is inherited from the OIR letterhead
+template — **do not use it.** ⛔ None of this goes into correspondence.
+
+**Timing kills any r 49(3) application.** Served Fri 28 Aug 1:47 pm → 14 days = Fri 11 Sep.
+Responses written day 10, served day 11. **Three days early — never suggest lateness.** But the
+28 August covering email told them the rule in terms ("if you do not serve a notice disputing the
+facts, or the authenticity of the documents, within 14 days, they are taken to be admitted"). An
+admission made after being told the consequence, taking ten of fourteen days over 303 facts and 39
+documents, is not made by inadvertence.
+
+**The fourteen sort into four classes** (§3C): **A** — outside the Regulator's knowledge, 9 tabs
+(1, 17–19, 21, 22–24, 30A), legitimate, ⭐ **and predicted verbatim by
+`drafts/STRATEGY_admit_architecture_27AUG2026.md` the day before service**; **B** — the Regulator's
+own record already carries the document, 3 tabs (6 = its own amended LOD item 25 names the email;
+5 = its own Review Decision recites the approval; ⭐ 30 = **admitted fact 70** records that Review
+Decision 69983 **quotes that very email**); **C** — on the Commission's own file, 1 tab (20); **D** —
+the only one with substantive effect, 1 tab (**31**). Concede A, list B and C, pursue only D.
+
+**Did they forget the mention? No — and do not run it.** Motive never reaches paper, and the
+evidence is against it: Matheson was in the room, and her covering letter is written *against*
+[15:40] — reserving relevance, admissibility, weight, truth, characterisation and inference. ⭐ But
+the shield is narrow, and that is the good news: it does **not** say any document is not genuine and
+does **not** contradict one of the 298 admitted events. They have conceded the whole chronology and
+kept only what it means — which is the fight we want, because the case is the operational
+consequence of what the documents *did*, not the truth of anything asserted in them.
+
+All at `skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §§3B–3D.
+
+### Addendum 3 — CORRECTION: Class A is "not asked", not "cannot verify" (Cory's catch)
+
+⛔ **My earlier note called the nine Class A tabs "outside the Regulator's knowledge" and legitimate
+without qualification. That was wrong and Cory corrected it.** The Regulator can verify those
+documents by asking Metro South, and it has done so in this appeal.
+
+**The proof is in the Regulator's own file.** `documents/2024-01-14_DFV_text_disclosure/
+2025-07-10_Taylor_to_Matheson_covering_email.txt` — **10 July 2025, 2:48 pm, Ms Chloe Taylor to
+Ms Renee Matheson**, subject *"WC/2024/227 … **Request for documentation**"*, body *"Please find
+attached requested information."* Eight attachments, which became **Tabs 1B, 2, 9A, 11, 12–13 and
+14** — and the Form 25 schedule records Tab 14 as *"as forwarded by Ms Taylor on 10 July 2025"* and
+Tab 11 as forwarded by her on 1 July 2025. ⭐⭐⭐ **The tabs obtained that way are among those whose
+authenticity the Regulator has now ADMITTED. The tabs it disputed are the ones it did not ask
+about.** Corroborated by the 14 July 2025 Quatrix production (payroll 24pp, Reese witness-
+conferencing 50pp, FRMS 47pp, 52MB witness bundle) — `CONNECTION-MAP-5AUG.md` §4.
+
+**The distinction to hold:** *"we have not verified this"* is true and r 49(2) requires no inquiry.
+*"We cannot verify it"* is not available to them.
+
+⛔ **Still not an impropriety argument — r 49(2) imposes no duty to inquire. Never allege one.**
+The value is that it destroys the anticipated 18 September answer, and ⭐⭐ it repairs Dwyer's own
+premise: *"the starting point is to ask the regulator"* [18:55] only works as a direction because
+the Regulator can obtain Metro South's documents. Ms Matheson's own request proves it. If the reply
+is "not within our knowledge", that contradicts the footing on which the Form 29 was stood down —
+and it is answered to the Commission, in one sentence, not to her.
+
+⭐ **The letter of 9 September was drafted better than my analysis of it.** Option (a) already asks
+for *"the Regulator's or Metro South Health's copy"*, and its schedule covers **thirteen** of the
+fourteen disputed tabs — every one a document Metro South holds — expressly dropping **Tab 24**, the
+union email, the one Metro South could not supply. That exclusion was correct.
+
+`skill/references/THE-NON-ADMISSIONS-8SEP2026.md` §3C.1.
+
+### 9 September 2026 — rosters and pay: what is held, and the comparator that was already deleted
+
+**Asked for:** rosters over the periods where the Appellant earned less than colleagues, and payslip
+examples of the difference.
+
+**⛔ 1. No 2024 payslips are held.** The repository holds FY2025–26 payslips and 2026 payroll
+correspondence only. The pleaded pay period is **February to May 2024** and there is no payslip for
+any part of it. The index says so in three places. ⇒ *"Payslip examples of the differences" cannot
+be produced from the file as it stands.* Per the Respondent's own pleading an **amended payslip of
+24 April 2024** exists — that is what the Form 29 to Queensland Health of 4 July 2025 was built to
+obtain.
+
+**⛔ 2. The colleague comparator was deliberately deleted, and the reasons still hold.** Recorded at
+the Form 24 strategy stage: the comparator payslip (Exhibit D1) **is not held**; it depends on
+Form 29 **Item 17**, which Metro South objected to on **privacy** under r 64E(4)(e); the figure is
+ambiguous (**42% of his own gross, 29.8% of the comparator's**); and ⭐⭐ **it cuts against the
+fatigue case** — it asserts he was rostered *too few* hours while the case is that his *recovery
+time was too short*. Add a fourth reason now: **Dwyer already misread it at [51:35]** as the
+Appellant and colleagues being underpaid 42%, and the correction was only half made. Reviving the
+comparator re-opens the one thing on the record that went wrong and was never fixed.
+
+**⭐ 3. The version that survives is Cory-vs-Cory, not Cory-vs-colleagues.** Public holiday "not
+required" (working note 23 Aug 2026): his own entitlement under Award s 23, no comparator, no
+privacy objection, and it does not carry the too-few-hours defect. Open actions there remain (a)
+open the Award at s 23 and cl 19.2(a); (c) resolve whether "Public Holiday not Worked" is a payroll
+code distinct from the s 23 entitlement.
+
+**⭐⭐ 4. Action (b) — the rosters — advanced today. 91 roster files held.** Coverage is **unbroken
+PP17 (22 Jan 2024) through PP27 (23 Jun 2024)**, the whole pleaded period; 2023 has gaps (PP28 Jun →
+PP07 Sep, PP08 → PP11, PP12 → PP14, PP15 → PP17). ⛔ **Every roster is a scan with no text layer —
+grep cannot see any of them.** Render with `pypdfium2` and read the page.
+
+⭐⭐ **PP21, 18–31 March 2024, v1.0 — the Appellant has NO LINE ON THE ROSTER AT ALL.** Thirteen
+named operators appear (Jeffrey, Abbott, De Iacovo, Conaghan, Court, Parry, Fitzpatrick,
+Sutton-Mason, Ismail, Hu, Malsbury, Nelson, Kendrick, plus a Casual/Training row). He is not among
+them, and this is not a leave marking — a person on leave keeps a row with A/L in it (Fitzpatrick
+has exactly that). ⇒ **The fortnight beginning the day after the 7-hour break does not contain him.**
+The header marks **29, 30 and 31 March 2024 in red** (Good Friday, Easter Saturday, Easter Sunday);
+every other operator carries shifts across them. ⛔ **No v2.0 of PP21 is held.**
+
+**PP20, 4–17 March 2024, v1.0 — he IS on it**, sixth row, *Shepherd, Cory, 388372, FT*.
+⚠ His individual shift cells were read from a scan and are **not** to be asserted without a careful
+zoomed read; the 7-hour break is admitted at fact 1 in any event and does not need the roster.
+
+⚠ **Unresolved:** the Review Decision at p 15 is recorded as saying he **was** rostered on Good
+Friday 29 March and Easter Sunday 31 March 2024, which the only PP21 roster held contradicts.
+Resolve before either is asserted.
+
+## 9 September 2026 — as-sent verification of the served outlines
+Cory supplied the **as-sent** `Outlines_of_Evidence_WC2024227.pdf` (4pp: contents page + the three
+outlines). Verified against the repo copy at `drafts/out/FINAL_9SEP2026/2_REGULATOR/`:
+- ⭐ **Extracted text IDENTICAL**, character for character, across all four pages. The repo copy
+  **is** the as-sent document.
+- ⭐⭐ **Byte-level diff against the repo copy: 14,417 bytes each; exactly 120 bytes differ, and
+  ALL 120 sit inside the two `/ID [<…><…>]` trailer arrays. ZERO bytes differ anywhere else** —
+  not in the content streams, the fonts, the page tree or the trailer dictionaries. The `/ID` is
+  regenerated by pikepdf on every save, which is the metadata-strip step. ⇒ **Same document.**
+- ✅ **Cory supplied it twice (uploads `7281dbe6…` and `71f7520e…`): SHA-256 identical
+  (`36f6d3fc…`). There is only ONE version of the served outlines.**
+- ⭐ **Metadata clean on both** — `docinfo` empty, XMP empty. **The strip worked.** Nothing of the
+  kind found in the Respondent's own cover letter (author email, review-cycle IDs, template title,
+  SharePoint columns) exists in anything served by the Appellant.
+- ✅ **Searched the as-sent text for** *nurs* · *Manus* · *safety advis* · *Border Force* · *fitness*
+  · *diploma* — **all absent.** The third-year nursing study and the Manus Island safety-advisor role
+  are in **no** served document. They live only in
+  `drafts/EMAIL_TO_UNION_context_and_assessment.txt` (union track).
+⇒ **The analysis at `THE-OUTLINE-AS-PRESENTED-their-view.md` §§7, 11 and 12 was performed on the
+served text and stands unchanged.**

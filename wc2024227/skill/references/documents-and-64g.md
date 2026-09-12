@@ -52,7 +52,7 @@ Plus order (b): MET-call spreadsheet for 17–18 Mar 2024 (unopposed). Native el
 
 (a) overrule objections 3(a), 3(b), 8, 9, 10, 19; produce per Schedule A in 14 days; (b) MET spreadsheet (unopposed); (c) **verification affidavit by an officer with DIRECT KNOWLEDGE of the searches** — covers the non-existence answers, the Item 14 device date, and the Item 16 PRN reconciliation (15397775 / 15605601, absent from the Item 11 report); (d) Item 18 not pressed on the destruction-concession confirmation; (e) Items 12(bal), 17 not pressed; (f) own costs (r 64G(3)); (g) further orders. Separate draft order carries the Items 8–9 confidentiality regime (Registry/parties-only, credential/date/timestamp fields, redactions), the TQ 7-day notice mechanism with liberty to apply, and the affidavit form.
 
-**Order (c) is the engine:** the metadata (search artifacts dated 6–8 May vs. the 5 June "does not exist") means a direct-knowledge deponent must reconcile the contradiction. This is the false-verification exposure (Layer 3) and it is what makes the non-existence answers dangerous to swear.
+**Order (c) is the engine (⛔ NOTE: this describes DRAFT ORDER v1 of 12 June, which was SUPERSEDED. The order FILED on 23 June is v2, whose order 3 requires the affidavit "by its Chief Executive or a delegated Director" — see `HOW-IT-WAS-READ-the-listing-the-scan-and-the-hour.md` §10):** the metadata (search artifacts dated 6–8 May vs. the 5 June "does not exist") means a direct-knowledge deponent must reconcile the contradiction. This is the false-verification exposure (Layer 3) and it is what makes the non-existence answers dangerous to swear.
 
 ## Annexure decisions (confirmed)
 

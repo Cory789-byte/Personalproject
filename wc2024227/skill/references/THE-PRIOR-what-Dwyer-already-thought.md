@@ -124,3 +124,10 @@ resolves is a Commissioner who has twice formed a good view of the man sitting a
 
 ⇒ ⛔ **None of which decides anything. The report, the 26 October 2022 record and the Form 9A tags
 still decide it.**
+
+
+> ⛔⛔ **CORRECTION (10 Sep 2026):** this file describes the second s 552A conference as a
+> concession opportunity. That is a partial quotation. Guide §5.1 says *"No commercial settlement is
+> possible at the conference"*, that conferences *"are not intended to facilitate conciliations"*, and
+> that issue-clarification is *"the more likely outcome"*. See
+> `GUIDE-5.1-what-the-conference-actually-is.md`.

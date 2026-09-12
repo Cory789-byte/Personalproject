@@ -1,0 +1,74 @@
+SOURCE: Calderbank offer, WC/2024/227, SENT 1 July 2026 by Cory Lea Shepherd to the Regulator
+(Appeals@oir.qld.gov.au, Attn Renee Matheson). Without Prejudice Save as to Costs. This is the
+OPERATIVE sent renewed offer (Calderbank #2). 5 pages. Text mirror (pdftotext).
+------------------------------------------------------------------------------------------------
+HEADER: To the Workers' Compensation Regulator c/- OIR (Appeals), Attn Matheson, Appeals@oir.qld.gov.au.
+From Cory Shepherd. Date 1 July 2026. WPSATC; Calderbank v Calderbank [1976] Fam 93.
+
+1. PURPOSE — offer to resolve the appeal "and all related matters" on the Part 6 terms; may be
+   produced only on costs; invites the Regulator to get its own advice; model-litigant framing.
+
+2. INJURY & CAUSE ESTABLISHED — MDD w/ anxious distress, diagnosed by Dr Krishnaiah (psychiatrist);
+   Regulator admits the report states that diagnosis (Form 24 Para 38); 16 Nov 2023 "no psychological
+   illness" record admitted listed (Para 34). Employment a significant contributing factor (s 32(1)).
+   Hawes mechanism (disregard of workplace rules to his detriment) admitted as to contents; corroborated
+   by the 31 Aug 2023 contemporaneous record (Exhibit CS-3) pre-dating any injury/claim. Krishnaiah:
+   referred by Hawes Sept 2024, diagnosed 24 Oct 2024, WRITTEN REPORT (Exhibit A4) dated 13 Feb 2025 —
+   independent clinical pathway, not a litigation reconstruction.
+
+3. ONLY ISSUE = s 32(5)(a); appeal succeeds whoever bears the onus (either not "management action" -> nothing
+   to exclude; or it is, but can't be shown reasonable on the admitted facts).
+
+4. EXCLUSION NOT ENGAGED — a COURSE OF INACTION (omissions measured against positive duties: WHS Act 2011,
+   fatigue framework, consultation, union rep, grievance/PID). s 32(5)(a) is a defence to positive management
+   ACTION, a confined concept (Read v WCR [2017] QIRC 72; Allwood v WCR [2017] QIRC 88). Unifying pattern:
+   inaction, and where management acted, MISDIAGNOSIS blaming the switchboard/appellant (CS-1 misrouting).
+
+5. IN ANY EVENT NOT DISCHARGEABLE:
+   5.2 The Regulator's OWN REVIEW found the 17-18 Mar fatigue failure "amounted to unreasonable management
+       action" + employment a significant contributing factor; contents admitted (Form 24 Para 37); can't
+       now press "reasonable in all respects."
+   5.3 MSH's own 5 June letter: no FRMS applied (Item 4); implemented only "after 30 June 2024" (Item 5);
+       no consequential change (3(c)); paging records not retained (Items 1-2) — confirmations of inaction.
+   5.4 Comm-book page removed 6 June 2023 (removal admitted, Form 24 Para 6); management texts off-system
+       (Item 14) outside retention.
+   5.5 NEW: Reese misrepresented the appellant's FTE cyclic-roster proposal to HR (10 May 2024: "not fair and
+       equitable," "Cory's roster will not be considered," "Cory is not yet aware") and omitted his proportionate
+       offer; on his payslip loadings the proportionate method pays part/full-time the same effective rate.
+   5.6 NEW: Ultra vires — the COVID leave declined 3x by an AO4 who held NO delegation (CE Instrument of
+       Sub-Delegation eff. 5 Dec 2022, confined to a Band-9 delegate, no sub-delegation; produced at Item 13,
+       described signed 23 Nov 2022) -> decisions BEYOND POWER, not valid/"reasonable" management action; same
+       want of authority attended the pay delay ("escalate for delegate approval").
+   5.7 Single unreasonable stressor suffices (Q-COMP v Hochen, adopted Mahaffey [2016] ICQ 10 [51],[54]-[57]);
+       not arithmetical, exclusion not restored by outnumbering (Adams [2015] ICQ 1 [23]); pleaded stressors
+       define the enquiry (Adams [19]-[20]); global evaluation (Delaney; Carr [2022] QIRC 59).
+
+6. THE OFFER
+ 6.1 CORE: (a) Regulator consents to appeal allowed + claim accepted (or set aside/remit to a different
+     decision-maker); (b) Regulator PAYS the Appellant's costs of the appeal (counsel, expert, solicitor),
+     agreed or assessed under s 558(3) WCRA on the s 191 WCR Regulation 2025 scale.
+ 6.2 ADDITIONAL (SEVERABLE, not conditions of 6.1): (c) on acceptance, Appellant DISCONTINUES the r 64G
+     application so the 7 Aug 2026 mention is vacated (no disclosure order needed; MSH relieved); (d) Appellant
+     RELEASES the Regulator (and the State of Qld and its entities) from any complaint re the MANNER his
+     medical/personal info was obtained/disseminated (Form 29 w/o objection; service w/o notice), incl. QCAT/OIC,
+     no costs on those; (e) confidentiality + return/destroy litigation copies of medical info; (f) otherwise
+     walk-away, each party own remaining costs save (b).
+ 6.3 6.2 terms severable; only the 6.1 core carries the costs reservation.
+ 6.4 OPEN 21 DAYS from date (i.e. to ~22 July 2026), then lapses unless extended in writing. Willing to discuss.
+
+ >>> SCOPE NOTE (discipline check): the s 40-42 PID REPRISAL TORT is NOT released; only the narrow
+     medical-info-handling complaint (6.2(d)) is released, and it is SEVERABLE. The reprisal track is preserved.
+     WATCH: 6.2(c) offers to DISCONTINUE the 64G (the disclosure/citable-decision escape) — severable; if the
+     Regulator accepts the core + (c), the disclosure and the sworn records are given up. Conscious call if they bite.
+
+7. COSTS — s 558(3) WCRA: costs of a WC appeal are in the Commission's discretion and ORDINARILY FOLLOW THE
+   EVENT (Canton v WCR [2019] QIRC 145 [33], applying Latoudis v Casey (1990) 170 CLR 534), assessed on the
+   s 191 scale. Appellant WILL brief counsel + instructing solicitor + call Dr Krishnaiah (updated report +
+   cross-exam) -> substantial real costs, recoverable on likely success, exceeding the contribution offered.
+   Reserves the right to produce this letter on costs; on an outcome >= this offer, seeks costs from
+   refusal/lapse with up to 1.5x uplift (s 191(3)) and indemnity where power exists; unreasonable rejection
+   goes to basis of assessment + model-litigant obligations.
+
+8. THE CHOICE — accept = claim accepted, costs contribution, 64G discontinued, finality, no published decision.
+   Refuse = a hearing likely to lose (Review Officer's findings + admitted Review Decision contents + MSH's FRMS
+   confirmation), costs to follow. Genuine good-faith offer; no admission; rights reserved.

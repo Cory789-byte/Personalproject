@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 """WC/2024/227 - Medical documents relied upon: the schedule, then the pages relied on, by tab.
+
+ONE served document. The schedule (build_medical_schedule.py) sits at the top, page 1, and the
+pages behind it follow under Tabs M1 to M9. Footers number the tab pages within the whole file.
 Originals only. Pages not relied upon are omitted whole and identified on each tab sheet. Metadata stripped."""
 import io, pikepdf
 from reportlab.lib.pagesizes import A4
@@ -25,16 +28,16 @@ HEADER=("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION",
 
 TABS=[
  dict(n=1, title="General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024",
-      held="Respondent's amended List of Documents item 11. Obtained by the Respondent under the Form 29 signed 4 July 2025. The complete record is Exhibit A5, sealed by the Commission on 13 March 2026; these are extracts of it.",
+      held="Respondent's amended List of Documents item 11. Obtained by the Respondent under the Form 29 signed 4 July 2025. The complete record is Exhibit A5; these are extracts of it.",
       incl="Pages 5, 6, 7, 10, 11, 12 and 13 of the 14-page practice export: the consultation of 16 November 2023 (Dr Nanayakkara); the consultations of 16 May 2024 (Dr Zhao, referral renewed) and 28 June 2024 (Dr Slawinski); the consultation of 1 July 2024 (Dr Hawes); the referral letter to Dr Amini of 16 May 2024 with the past medical history; the medical certificate of 28 June 2024; and the work capacity certificate of 1 July 2024.",
-      omit="Pages 1 to 4 (patient details, medication and prescription lists, consultations of 2023 for unrelated conditions); page 8 (Gold Coast University Hospital discharge letter of 6 June 2024, dental); page 9 (medical certificate of 3 July 2023, unrelated); page 14 (blank). None is relied upon. REDACTIONS: on source pages 5, 6 and 10, entries concerning private medical matters unrelated to the injury have been blacked out by the Appellant and are marked as such on the page. Nothing relied upon has been redacted. The Respondent holds the unredacted record at item 11.",
+      omit="Pages 1 to 4 (patient details, medication and prescription lists, consultations of 2023 for unrelated conditions); page 8 (Gold Coast University Hospital discharge letter of 6 June 2024, dental); page 9 (medical certificate of 3 July 2023, unrelated); page 14 (blank). None is relied upon. REDACTIONS: on source pages 5, 6 and 10, entries concerning private medical matters unrelated to the injury have been blacked out by the Appellant and are marked as such on the page. On source page 10 the redaction covers one entry in the list of current medications in the referral letter of 16 May 2024. That entry is a medication for a private condition unrelated to the injury; it is not an antidepressant, an anxiolytic or any other psychotropic medication, and the Respondent can confirm that from its own copy. Nothing else relied upon has been redacted. The Respondent holds the unredacted record at item 11.",
       src=('pdf', D+'medical/2025-07-22_OurMedicalAshmore_GP_records_via_Saines.PDF', [5,6,7,10,11,12,13]),
-      redacted={5:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-5-REDACTED.png',
-                6:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-6-REDACTED.png',
-                10:'/tmp/claude-0/-home-user-Personalproject/a3f5ec62-69fa-5452-a28c-d1c8e460180e/scratchpad/gp150-10-REDACTED.png'}),
+      redacted={5:'assets/redacted/gp150-5-REDACTED.png',
+                6:'assets/redacted/gp150-6-REDACTED.png',
+                10:'assets/redacted/gp150-10-REDACTED.png'}),
  dict(n=2, title="Work capacity certificates: Dr Ki Pang, 7 August 2024; Dr Peter Hawes, 11 August 2024 and 8 September 2024",
       held="Respondent's amended List of Documents items 7 (Hawes, 1 July, 11 August and 8 September 2024) and 8 (Pang, 7 August 2024).",
-      incl="The certificates of 7 August 2024 (Dr Pang), 11 August 2024 and 8 September 2024 (Dr Hawes), reproduced from the scanned copies annexed to the Appellant's application in TD/2024/110 filed 25 October 2024. Together with the certificate of 1 July 2024 at Tab M1 (bundle page 9), they certify no capacity for any work continuously from 1 July to 6 October 2024, each recording the stated date of injury as 18 June 2024 and first presentation on 1 July 2024; the certificate of 8 September 2024 records the referral to a psychiatrist.",
+      incl="The certificates of 7 August 2024 (Dr Pang), 11 August 2024 and 8 September 2024 (Dr Hawes), reproduced from the scanned copies annexed to the Appellant's application in TD/2024/110 filed 25 October 2024. Together with the certificate of 1 July 2024 at Tab M1 (bundle page 9), they certify no capacity for any work over the period 1 July to 6 October 2024, each recording the stated date of injury as 18 June 2024 and first presentation on 1 July 2024; the certificate of 8 September 2024 records the referral to a psychiatrist.",
       omit="None. The medication box on each certificate is unticked; nothing is relied upon as to medication from these certificates.",
       src=('pdf', D+'related-matters/TD2024-110_Form12_Application_for_reinstatement_stamped_25.10.2024.pdf', [22,24,23])),
  dict(n=3, title="Email from the practice of Dr Ravikumar Bangalore Krishnaiah to the Appellant, 24 October 2024 at 11:45 am, \"Medications\"; and the Appellant's email to QSuper at 5:12 pm the same day",
@@ -49,8 +52,8 @@ TABS=[
       omit="None.",
       src=('pdf', D+'medical/2025-02-13_MindAndMemory_report_QSuper_LouiseIngs.pdf', [1,2,3,4])),
  dict(n=5, title="The question put to the treating psychiatrist, and the report he identified as his answer: Major Depressive Disorder with anxious distress, presenting as \"workplace stress stemming from issues with management and rostering at Queensland Health\" (5 to 8 September 2026)",
-      held="Not on the Respondent's list, except the notice, which is the Respondent's own Form 29 at item 3. Served with this bundle.",
-      incl="Four documents, in this order. (1) The Respondent's Form 29 notice of non-party disclosure to the Mind and Memory Service, sealed 4 July 2025, pages 1 and 2, being the sealed cover and the page stating the three matters in issue. (2) The Appellant's email to Dr Krishnaiah of 5 September 2026 at 10:49 am, asking him to address the three matters in issue named in the Respondent's notice of non-party disclosure - whether the Appellant sustained a personal injury, whether it arose out of or in the course of employment, and whether employment was a significant contributing factor - from his own assessments and records (pages 5 to 7 of the chain as printed). (3) The end of Dr Krishnaiah's reply of 5 September 2026 at 12:04 pm: \"I can provide all medical records I have to you. You can use them according to the need to support your legal issues\" (page 4 of the chain). (4) Dr Krishnaiah's reply of 8 September 2026 at 7:18 am: that he had attached \"the report that captures the relevant information you have requested\" (page 1 of the chain). The report he attached is the report of 13 February 2025 at Tab M4, and is not reproduced here. In it, at page 1: the diagnosis, \"Major Depressive Disorder with anxious distress (DSM 5- 296.23)\"; that he \"presented with workplace stress stemming from issues with management and rostering at Queensland Health\"; that \"These issues began approximately one year ago when a new manager was appointed\"; that after raising concerns about rostering and fatigue management \"he experienced changes in work conditions including shorter breaks, more night shifts\"; and that \"His pay was withheld or delayed for up to five months at a time, leading to significant financial stress\". No report has been prepared for this proceeding.",
+      held="Not on the Respondent's amended List of Documents. The notice at the front of this tab is the Respondent's own notice of non-party disclosure to the practice, sealed 4 July 2025. Served with this bundle.",
+      incl="Four documents, in this order. (1) The Respondent's Form 29 notice of non-party disclosure to the Mind and Memory Service, sealed 4 July 2025, pages 1 and 2, being the sealed cover and the page stating the three matters in issue. (2) The Appellant's email to Dr Krishnaiah of 5 September 2026 at 10:50 am, asking him to address the three matters in issue named in the Respondent's notice of non-party disclosure - whether the Appellant sustained a personal injury, whether it arose out of or in the course of employment, and whether employment was a significant contributing factor - from his own assessments and records (pages 5 to 7 of the chain as printed). (3) The end of Dr Krishnaiah's reply of 5 September 2026 at 12:04 pm: \"I can provide all medical records I have to you. You can use them according to the need to support your legal issues\" (page 4 of the chain). (4) Dr Krishnaiah's reply of 8 September 2026 at 7:18 am: that he had attached \"the report that captures the relevant information you have requested\" (page 1 of the chain). The report he attached is the report of 13 February 2025 at Tab M4, and is not reproduced here. In it, at page 1: the diagnosis, \"Major Depressive Disorder with anxious distress (DSM 5- 296.23)\"; that he \"presented with workplace stress stemming from issues with management and rostering at Queensland Health\"; that \"These issues began approximately one year ago when a new manager was appointed\"; that after raising concerns about rostering and fatigue management \"he experienced changes in work conditions including shorter breaks, more night shifts\"; and that \"His pay was withheld or delayed for up to five months at a time, leading to significant financial stress\". No report has been prepared for this proceeding.",
       omit="Pages 2 and 3 of the email chain, being the Appellant's reply of 5 September 2026 at 1:16 pm and the first part of Dr Krishnaiah's message of 12:04 pm, which are not relied upon; and pages 3 to 6 of the Form 29, being the schedule of documents sought and the remaining form pages.",
       srcs=[('pdf', D+'2025-07-04_NNPD_Regulator_to_MindAndMemory_SEALED.pdf', [1,2]),
             ('pdf', D+'correspondence-2026/2026-09-08_0718_Krishnaiah_staff_sickness_records_not_sent_report_attached.pdf', [5,6,7]),
@@ -73,7 +76,7 @@ TABS=[
       src=('pdf', D+'Review_Decision_69983_24.10.2024.pdf', [17,26,27])),
  dict(n=9, title="The Respondent's responses of 18 February 2026 to the Appellant's first notice to admit, so far as they concern the medical documents",
       held="The Respondent's own document, served by it on 18 February 2026.",
-      incl="Page 4 of the notice (items 32 to 38: the 16 November 2023 entry, the Hawes certificate, the Review Decision finding and the Krishnaiah diagnosis) and page 9 of the response (rows 30 to 36, answering paragraphs 33 to 39), in which the Respondent admits that each document exists and says what it says, admits the contents of the Review Decision, and reserves only accuracy and relevance.",
+      incl="Page 4 of the notice (items 32 to 38: the 16 November 2023 entry, the Hawes certificate, the Review Decision finding and the Krishnaiah diagnosis) and page 9 of the response, which carries the Respondent's answers to those items and in which the Respondent admits the contents of the Review Decision, and for the other documents admits that each exists and says what it says while reserving accuracy and relevance. Two answers on that page go further and are set out as they stand: at row 32 the Respondent denies the fact put about Exhibit A5 on the ground that the records show a past medical history of anxiety and ADHD from 26 October 2022, and at row 33 it admits the content of the certificate but puts its date as 8 September 2024.",
       omit="The remaining pages of the notice and response, which concern other subjects.",
       src=('pdf', D+'2026-02-18_Form24_Response_and_email_communication.pdf', [4,9])),
 ]
@@ -107,8 +110,9 @@ def add(pdf, pages=None):
     for i,pg in enumerate(pdf.pages):
         if pages is None or (i+1) in pages: out.pages.append(pg)
 
-add(pikepdf.open('out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf'))
-stamps=[('Schedule',None)]  # per output page: (label)
+_sched=pikepdf.open('out/SCHEDULE_OF_MEDICAL_DOCUMENTS_RELIED_UPON.pdf')
+add(_sched)
+stamps=[('Schedule',None)]*len(_sched.pages)  # the schedule may run to more than one page
 for t in TABS:
     ts=tab_sheet(t); add(ts); stamps.append((f"Tab M{t['n']}", 'sheet'))
     srcs=t.get('srcs') or ([t['src']] if t.get('src') else [])
@@ -123,9 +127,10 @@ for t in TABS:
         add(img_page(path)); stamps.append((f"Tab M{t['n']}", 'image'))
 
 N=len(out.pages)
-# footer stamp overlay on every page except the schedule
+assert len(stamps)==N, f"stamp/page mismatch: {len(stamps)} vs {N}"
+SCHED_PP=len(_sched.pages)          # the schedule carries its own dateline; no footer on it
 for idx,pg in enumerate(out.pages):
-    if idx==0: continue
+    if idx < SCHED_PP: continue
     lab,orig=stamps[idx]
     buf=io.BytesIO(); c=canvas.Canvas(buf,pagesize=(float(pg.mediabox[2])-float(pg.mediabox[0]), float(pg.mediabox[3])-float(pg.mediabox[1])))
     c.setFont('Helvetica',7); c.setFillColor(colors.HexColor('#444444'))

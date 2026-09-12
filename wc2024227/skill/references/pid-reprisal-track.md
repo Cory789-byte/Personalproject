@@ -113,3 +113,63 @@ reasonable-excuse explanation), and stop treating "verify soon" as deferrable.**
   rule; s 9A late-notice/reasonable-excuse.
 - ESU PID Outcome Letter, 24-ESU-1130, 24 Dec 2024 (OneDrive `E5 PID Outcome Letter`).
 - Reprisal chronology: Amended 9A 1(f)/3; Form 24 Resp ¶21; Regulator SOFC ¶16 (Reese unaware).
+
+---
+
+## 7. ⭐⭐⭐⭐ ADDENDUM, 11 SEPTEMBER 2026 — "WHAT IF I GET A LAWYER"
+
+### 7.1 ⭐⭐⭐⭐ THE REPRISAL TORT IS THE MOST FUNDABLE THING IN THE WHOLE FILE
+| ⭐ | Why a plaintiff firm wants this more than the WC common law claim |
+|---|---|
+| ⭐⭐⭐⭐ | **s 42: *"A reprisal is a tort and a person who takes a reprisal is liable in damages"*** — ⭐⭐⭐ **MSH is the DEFENDANT, not WorkCover** |
+| ⭐⭐⭐ | **Exemplary damages available.** District or Supreme Court |
+| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ ***"The Workers' Compensation and Rehabilitation Act 2003 does NOT apply to proceedings for damages brought under this section."*** ⇒ **NO Chapter 5 pre-court regime. NO Notice of Assessment. NO irreversible election. NO scheme filter** |
+| ⭐⭐⭐⭐ | ⭐⭐⭐ **IT IS NOT GATED BEHIND THE APPEAL.** The WC common law claim needs acceptance → assessment → election. **This needs none of them** |
+| ⭐⭐ | **Limitation open** — ~May–Oct 2027 on the 3-year personal-injury clock |
+
+⇒ ⭐⭐⭐⭐ **That is a claim a firm can take on a no-win-no-fee basis TODAY, without waiting for the
+appeal to resolve.** ⭐⭐ **It is the answer to "why would a lawyer act for me."**
+
+### 7.2 ⛔⛔⛔ BUT THE URGENT THING IS NOT THE CLAIM — IT IS THE PIPA NOTICE, AND IT HAS SLIPPED
+⛔⛔ **§4 of this file, written JUNE 2026, said: *"the PIPA notice sub-clock is probably already
+running late… obtain specialist advice NOW… and stop treating 'verify soon' as deferrable."***
+⛔⛔⛔ **THAT ACTION ITEM IS STILL UNTICKED. THREE MONTHS HAVE PASSED.**
+⇒ ⭐⭐⭐ **Late notice is curable on a *"reasonable excuse for delay"* (PIPA s 9A) — but EVERY MONTH
+OF DELAY WEAKENS THE EXCUSE, and the delay is now longer than it was when the warning was written.**
+⇒ ⭐⭐⭐⭐ **The advice being sought is about a CLOCK, not a strategy. It does not wait on the appeal,
+on MSH, on the doctors, or on money.**
+
+### 7.3 ⛔⛔ THE CONTEST IS CAUSATION, AND THE DEFENCE IS ALREADY PLEADED
+> ⛔ **Regulator's SOFC ¶16(a): *"says that Ms Reese was unaware that the appellant had lodged a
+> PID."***
+
+⇒ ⛔⛔⛔ **A reprisal claim requires him to ALLEGE AND PROVE MOTIVE — detriment *because of* the
+disclosure.** ⭐⭐⭐⭐ **Everything built over two years is designed to win WITHOUT alleging motive.
+The reprisal claim INVERTS THAT DISCIPLINE.**
+⇒ ⭐⭐⭐ **That is the single biggest reason it must be run by a lawyer and not by him, and the
+single biggest reason it is not pleaded yet.**
+
+### 7.4 ⭐⭐⭐ SO WHAT A LAWYER WOULD ACTUALLY DO, IN ORDER
+1. ⭐⭐⭐⭐ **Take instructions on the reprisal tort IMMEDIATELY — because the PIPA question cannot be
+   fixed later.** ⭐⭐ Resolve: does PIPA apply at all; is a Part 1 Notice required; the precise
+   limitation date.
+2. ⭐⭐⭐ **Give any required notice promptly, with the reasonable-excuse explanation.**
+3. ⛔⛔ **NOT plead it yet.** ⭐⭐ Preserve it and hold. ⭐ A finding of unreasonable management
+   action, or acceptance, improves its causation and detriment evidence **at no cost**.
+4. ⭐⭐⭐ **Use the WAGES problem as the immediate lever** — cheap, fast, and it produces a
+   decision-maker.
+
+### 7.5 ⭐⭐⭐⭐ AND THE SIDE EFFECT THAT ANSWERS THE VACUUM
+⭐⭐⭐⭐ **A lawyer holding this brief changes MSH's posture WITHOUT A WORD BEING PLEADED.**
+⇒ ⭐⭐⭐ **The moment a personal injuries firm writes to Metro South Health about employee 388372,
+the file stops being unowned. It goes to Legal — and Legal HAS a decision-maker.**
+⛔⛔ **That is a CONSEQUENCE, not a purpose.** ⛔⛔⛔ **NEVER threaten a reprisal claim to extract
+wages.** ⭐⭐ **Engage the lawyer on the merits; the ownership effect follows on its own.**
+
+### 7.6 ⛔⛔ TWO THINGS TO BRIEF ANY LAWYER ON, IN THE FIRST MEETING
+1. ⛔⛔⛔ **The deed reservation is NON-NEGOTIABLE** — ss 40–42 PID Act and any claim against MSH
+   must survive any WC settlement (rule 9; held Calderbank ¶3). ⭐ **A deed scope error extinguishes
+   the tort with the compensation money.**
+2. ⛔⛔⛔ **Disciplines 1 and 2 govern the WC track absolutely.** ⭐ The PID includes corrupt-conduct
+   and fraud allegations against named individuals. ⛔ **None of that reaches the appeal, the
+   outlines, evidence-in-chief or closing — whoever is acting.**
