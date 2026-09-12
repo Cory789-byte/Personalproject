@@ -12,7 +12,8 @@ Facts via served_facts.py - the 303 as served 28 August 2026 and answered 8 Sept
 ⛔ DRAFT. Leave to amend required; not before 30 September 2026, and not less than 7 days
 before the hearing (Appeal Guide Part 4.6).
 """
-import io, pikepdf
+import io, os, pikepdf
+SERVE = bool(os.environ.get('SERVE'))
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.units import mm
@@ -35,8 +36,27 @@ DUTY= ParagraphStyle('DUTY', parent=ADM, leftIndent=8*mm, spaceBefore=1)
 PEN = ParagraphStyle('PEN', parent=ADM, textColor=RED)
 NOTE= ParagraphStyle('NOTE', fontName='Helvetica-Oblique', fontSize=7.6, leading=9.3,
                      leftIndent=8*mm, textColor=RED, spaceAfter=3)
+PART_REF = ParagraphStyle('PART_REF', fontName='Helvetica-Oblique', fontSize=7.8, leading=9.6,
+                          leftIndent=8*mm, spaceAfter=2.5)
 def P(t, s): return Paragraph(t, s)
+def _collapse(ns):
+    ns = sorted(set(ns)); out=[]; i=0
+    while i < len(ns):
+        j=i
+        while j+1 < len(ns) and ns[j+1]==ns[j]+1: j+=1
+        out.append(str(ns[i]) if j==i else f"{ns[i]} to {ns[j]}")
+        i=j+1
+    return ", ".join(out)
 def q(ns, st=ADM):
+    if SERVE:
+        if not ns: return []
+        pend = [n for n in ns if n in NOT_ADMITTED]
+        txt = "Particulars: paragraphs " + _collapse([n for n in ns if n not in NOT_ADMITTED]) + \
+              " of the notice to admit facts served 28 August 2026, admitted 8 September 2026."
+        if pend:
+            txt += " Paragraph" + ("s " if len(pend)>1 else " ") + _collapse(pend) + \
+                   " of that notice " + ("are" if len(pend)>1 else "is") + " not admitted."
+        return [P(txt, PART_REF)]
     out=[]
     for n in ns:
         stl = PEN if n in NOT_ADMITTED else st
@@ -44,19 +64,33 @@ def q(ns, st=ADM):
         out.append(P(f"<b>[{n}]</b> {F[n]}{tag}", stl))
     return out
 def duty(ns):
+    if SERVE:
+        return [P("Duty engaged: paragraphs " + _collapse(ns) + " of that notice (the role description).",
+                  PART_REF)]
     return [P("<b>Duty engaged &mdash; the role description states:</b>", DUTY)] + \
            [P(f"<b>[{n}]</b> {F[n]}", DUTY) for n in ns]
+_P_orig = P
+def P(t, st):
+    if SERVE and st is NOTE: return None
+    return _P_orig(t, st)
 
-s=[P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A) &ndash; DRAFT", H1),
+s=[P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A)" if SERVE else
+     "SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A) &ndash; DRAFT", H1),
  P("WC/2024/227 &ndash; Cory Lea Shepherd (Appellant) v Workers' Compensation Regulator "
-   "(Respondent). Same architecture as the Amended Form 9A filed 7 April 2026.", H2),
- P("<b>Black</b> is pleaded text. <font color='#123f8c'><b>Blue</b> is a paragraph admitted by the "
-   "Respondent on 8 September 2026, word for word, with its number on the notice served 28 August "
-   "2026. 298 of 303 admitted; five not admitted; none denied. Rule 49, for this proceeding only.</font> "
-   "<font color='#9b1c1c'><b>Red is not yet admitted, or not supported by the notice and to be "
-   "proved otherwise.</b></font>", KEY),
- P("⛔ <b>DRAFT.</b> Leave required; not before 30 September 2026, and not less than seven days "
-   "before the hearing. ⭐ <b>The onus is accepted as resting on the Appellant</b> &mdash; see Part C.1.", KEY),
+   "(Respondent). Section 550(4), Workers' Compensation and Rehabilitation Act 2003.", H2)]
+if SERVE:
+    s += [P("Particulars are given by reference to the paragraph numbers of the Appellant's notice to "
+            "admit facts served on the Respondent on 28 August 2026, to which the Respondent responded "
+            "on 8 September 2026.", KEY)]
+else:
+    s += [P("<b>Black</b> is pleaded text. <font color='#123f8c'><b>Blue</b> is a paragraph admitted by the "
+      "Respondent on 8 September 2026, word for word, with its number on the notice served 28 August "
+      "2026. 298 of 303 admitted; five not admitted; none denied. Rule 49, for this proceeding only.</font> "
+      "<font color='#9b1c1c'><b>Red is not yet admitted, or not supported by the notice and to be "
+      "proved otherwise.</b></font>", KEY),
+     P("⛔ <b>DRAFT.</b> Leave required; not before 30 September 2026, and not less than seven days "
+      "before the hearing. ⭐ <b>The onus is accepted as resting on the Appellant</b> &mdash; see Part C.1.", KEY)]
+s += [
  Spacer(1,2*mm),
 
  P("PART A", PART),
@@ -234,7 +268,11 @@ s += [P("<b>Stressor 2 &mdash; remuneration</b>", SEC),
    "the manager was awaiting payroll confirmation; on 28 May the Appellant was asked to sign a "
    "validation of claims older than three months. The myHR submissions report records the manager as "
    "the initiator of each of the five such claims in the period and the Appellant as the initiator of "
-   "none.", SUBP)]
+   "none.", SUBP),
+ P("(a1) &nbsp;<b>Public holidays on which the Appellant was not required to work.</b> Section 23 of the Hospital and Health Service General Employees (Queensland Health) Award provides that where an employee in receipt of the additional week's leave prescribed by clause 19.2(a) is rostered off on Easter Saturday, Easter Sunday, Show Day or Labour Day, that employee is to be paid an additional day's wage or granted a day's holiday in lieu. The Appellant was rostered off on public holidays between February and April 2024. As at 1 May 2024 payroll was still reviewing his entitlements regarding public holidays not required, while the manager confirmed that since his commencement of full-time employment all payments for public holidays not required had been processed.", SUBP)]
+s += q([241,255,256])
+s += [P("(a2) &nbsp;<b>Rostering practices.</b> On 20 May 2024 the Director wrote to LBH_HR following up a query raised in relation to an email received from a staff member about the department's rostering practices, attaching the Queensland Health Fatigue Risk Management Systems Implementation Guideline.", SUBP)]
+s += q([222,223])
 s += duty([2,13])
 s += q(list(range(182,207)))
 s += [P("(b) &nbsp;The Respondent pleads that any discrepancies were remedied in a timely manner and "
@@ -256,6 +294,8 @@ s += [P("<b>Stressor 3 &mdash; the roster and fatigue</b>", SEC),
    "directives about which he had concerns.", SUBP)]
 s += duty([2,13])
 s += q(list(range(211,224)))
+s += [P("(a1) &nbsp;<b>The rostering history.</b> A rostering error in August 2023 was acknowledged by the manager, who offered to roster the Appellant off the following day \"to give you the required rest period\", and by the Director, who accepted there had been \"a rostering error that was accidentally\" made. The Appellant applied in writing to increase his hours to a full-time rotational roster, confirmed he was able and willing to work any roster presented to him including the full 24-hour rotational schedule, expressed willingness to take on additional night shifts, and provided a draft roster spreadsheet. In November and December 2024 the employer released a Consultation Paper and outcome proposing a more equitable roster with redistribution of nights based on FTE and a rotational roster ensuring fair distribution of penalties.", SUBP)]
+s += q([28,30,31,33,35,156,157,159,287]+list(range(167,182)))
 s += [P("(b) &nbsp;The shifts of 17 and 18 March 2024 were separated by a seven-hour break. The Award "
    "requires a break of not less than ten hours, and eight hours applies instead of ten only in "
    "specific circumstances. The 8-hour agreement of 17 June 2020 applies only where staff-initiated "
@@ -358,6 +398,7 @@ s += [P("PART D &mdash; ORDERS SOUGHT", PART),
    "Workers' Compensation and Rehabilitation Act 2003. 4. The Appellant's application for "
    "compensation be accepted. 5. Costs reserved.", PLD)]
 
+s = [x for x in s if x is not None]
 buf=io.BytesIO()
 doc=BaseDocTemplate(buf,pagesize=A4,leftMargin=16*mm,rightMargin=16*mm,topMargin=12*mm,bottomMargin=12*mm)
 doc.addPageTemplates([PageTemplate(id='n',frames=[Frame(15*mm,11*mm,A4[0]-30*mm,A4[1]-23*mm,
@@ -370,6 +411,7 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
 try: del pdf.Root.Metadata
 except (AttributeError,KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
-out="INTERNAL/2026-09-12_FORM9A_SECOND_AMENDED_original_architecture_onus_accepted.pdf"
+out = ("out/FORM9A_SECOND_AMENDED_FOR_FILING.pdf" if SERVE else
+       "INTERNAL/2026-09-12_FORM9A_SECOND_AMENDED_original_architecture_onus_accepted.pdf")
 pdf.save(out,linearize=True)
 print(f"built {out} - {n} page(s)")
