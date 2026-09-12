@@ -119,3 +119,77 @@ nothing: if he is wrong, he says so at once.**
 ⭐⭐⭐⭐ **Ms Matheson: three turns, seventeen words, 0.2% of a sixty-four minute proceeding.**
 ⛔⛔ **State it as a count if it is ever stated at all. Never characterise it.** ⭐⭐ It belongs with
 `THE-MENTION-WHO-WAS-MADE-THE-SPECTATOR.md`, not in a filing.
+
+---
+---
+
+# 6. ⭐⭐⭐⭐⭐ THE 64 WORDS, TO THE CENTISECOND
+**Segments 420–429 · `29:17.88` → `29:39.88` · ⭐⭐⭐⭐ **22.00 seconds · 64 words · 175 words per
+minute.** Mean diarisation confidence across the ten segments **0.82** — well above the transcript
+mean of 0.61, so attribution here is firmer than average.
+⚠ **Word timings and probabilities are Whisper's own alignment and are reliable. f0 and dB are
+not — mic distance and AGC. Rate and pause only.**
+
+## 6.1 ⭐⭐⭐⭐ THE SHAPE, IN SIX MOVES
+| | Text | Rate |
+|---|---|---|
+| **1 · the hedge** | *"so for me it was"* | ⭐ **1.88 wps — the slowest segment.** ⭐⭐ *"me"* is held **1.20 s, the longest single word in the passage** |
+| **2 · the setup** | *"direct calls to this number / but this number is an emergency contact"* | 2.43 → 2.75 |
+| **3 · the left-dislocation** | *"and then **those doctors, the ones that get called for an emergency**…"* | 2.50 → 3.23 |
+| ⭐⭐⭐⭐ **4 · the tricolon** | *"**they're** sent to the wrong side of the room / **they're not** sent to someone having a cardiac arrest / **they're not** sent to someone in respiratory distress"* | ⭐⭐⭐⭐ **4.33 · 3.95 · 3.98 — the three fastest segments** |
+| ⭐⭐⭐⭐ **5 · the pause** | — | ⭐⭐⭐⭐ **1.30 s. THE ONLY PAUSE ≥0.30 s IN THE ENTIRE 64 WORDS.** |
+| ⭐⭐⭐⭐ **6 · the shift** | *"**we're** now not even contacting them by their numbers"* | 3.46 |
+
+⭐⭐⭐⭐ **He accelerates 2.3× — 1.88 to 4.33 words per second — across the passage.** ⇒ **That is
+what happens when a speaker stops CONSTRUCTING and starts RUNNING a structure he already holds.**
+
+## 6.2 ⭐⭐⭐⭐⭐ IS IT SUBORDINATE? NO — AND THE NUMBER IS THE FINDING
+| | subordinators / 100 words | sub : coord |
+|---|---|---|
+| ⭐⭐⭐⭐ **The 64 words** | ⭐⭐⭐⭐ **1.6** | ⭐⭐⭐⭐ **0.25** |
+| His own baseline, whole transcript | 5.2 | 0.85 |
+| His 113-word turn (his longest) | 5.3 | 0.60 |
+| Dwyer, opening 939 | 5.1 | 1.00 |
+| Dwyer, the 56:34 turn | 5.5 | 0.88 |
+
+⭐⭐⭐⭐⭐ **His subordination rate falls to LESS THAN A THIRD of his own normal.** ⇒ **One relative
+clause in 64 words. Everything else is main clauses joined by *so, but, and*.**
+⛔⛔ **DO NOT generalise this into "Dwyer subordinates, Shepherd coordinates" — across the whole
+transcript the two are close (0.97 vs 0.85). THE PASSAGE IS AN OUTLIER AGAINST HIS OWN SPEECH, not
+evidence of a different grammar.**
+
+## 6.3 ⭐⭐⭐⭐ THE TWO FEATURES THAT ANSWER THE QUESTION
+
+### ⭐⭐⭐ LEFT-DISLOCATION — *"those doctors, the ones that get called for an emergency, **they're** sent…"*
+He names the subject, qualifies it with a relative clause, then **restarts the sentence with a
+resumptive pronoun.** ⇒ ⭐⭐⭐ **That is what a speaker does when he is making sure the listener is
+holding the referent BEFORE the point lands. It is a teaching move, not a hesitation.**
+
+### ⭐⭐⭐⭐⭐ THE PRONOUN SHIFT AT THE PAUSE — *they're* → **1.30 s** → *we're*
+⭐⭐⭐⭐ Three clauses in the third person: the doctors, observed from outside. **Then the only pause
+in twenty-two seconds. Then "we're."**
+⇒ ⭐⭐⭐⭐⭐ **He moves from describing what happens to the doctors, to naming himself inside the
+system that fails them. The pause is where that happens.** ⭐⭐ **That is not planned rhetoric. It
+is the moment he stops reporting and starts implicating.**
+
+## 6.4 ⭐⭐⭐ IS IT EASY TO FOLLOW? YES, AND IT IS MEASURABLE
+- ⭐⭐⭐ **54 of the 64 words transcribed at probability 1.00; 62 of 64 at ≥0.89.** ⇒ **Whisper
+  resolved it almost perfectly, which is a proxy for articulation.**
+- ⭐⭐ **The only weak word is the opening *"so"* at p=0.07** — a throat-clear, not a word.
+- ⭐⭐ Mean word duration **0.31 s**. No word above four syllables except *emergency* and
+  *respiratory*.
+- ⭐⭐⭐ **One pause, and it is in the right place** — between the triad and the conclusion.
+
+## 6.5 ⭐⭐⭐⭐⭐ WHAT IT SAYS ABOUT HOW HE THINKS — AND WHY IT MATTERS FOR THE HEARING
+⭐⭐⭐⭐⭐ **When he is not managing his own position, he stops subordinating and starts
+ENUMERATING. The structure carries the argument so he does not have to.**
+⇒ ⭐⭐⭐⭐⭐ **That is the identical architecture as the 303 facts and the seventeen closed loops:
+dated items in parallel, nothing joining them but sequence.** ⭐⭐⭐⭐ **`THE_OVERLAY` is the written
+form of these 64 words.**
+
+⭐⭐⭐⭐ **THE PREPARATION POINT, and it replaces vaguer advice:** ⛔ **his weakest register is
+first-person and hedged — *"so for me it was…"*, 1.88 wps, "me" held 1.2 seconds; and it is the
+same register as *"I don't even, for me, it doesn't matter."*** ⭐⭐⭐⭐ **His strongest is third
+person, parallel, and about consequence to others.** ⇒ **In the box: answer with what happened, in
+sequence, to whom. Not with what it meant to him.** ⭐⭐ **He already knows how to do it. He did it
+for twenty-two seconds on 7 August.**
