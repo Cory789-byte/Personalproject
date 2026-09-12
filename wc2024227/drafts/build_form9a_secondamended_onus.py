@@ -680,14 +680,105 @@ s += [P("<b>S3.11 &nbsp;The absence of fatigue risk management at the Switchboar
 s += q(list(range(258,263)))
 
 
-s += [P("<b>3. &nbsp;Subsequent conduct</b>", SEC),
- P("(a) Meetings scheduled while the Appellant held current medical certificates. (b) Employment "
-   "ended under abandonment provisions in October 2024 while certificates were current, and the "
-   "Appellant was reinstated to his employment with an effective date of 20 September 2024, the "
-   "reinstatement taking effect despite any payroll documentation. (c) The documents the Appellant "
-   "provided to WorkCover Queensland in July and August 2024, and what the Respondent's amended List "
-   "of Documents records of them.", PLD)]
+s += [P("<b>3. &nbsp;Subsequent conduct, and the contemporaneous record</b>", SEC),
+ P("<b>3.1 &nbsp;Conduct after the injury.</b> Meetings were scheduled while the Appellant held "
+   "current medical certificates. His employment was ended under abandonment provisions in "
+   "October 2024 while those certificates were current, and he was reinstated to his employment with "
+   "an effective date of 20 September 2024, the reinstatement taking effect despite any payroll "
+   "documentation. These matters are pleaded as context only, in accordance with S1.16 above.", SUBP),
+ P("<b>3.2 &nbsp;What the Appellant provided to WorkCover Queensland, and when.</b> The Respondent's "
+   "amended List of Documents of 14 August 2026 records that the Appellant provided to WorkCover "
+   "Queensland, at item 12, an email of 12 July 2024 with an attachment described as \"Event overview "
+   "- undated\"; at item 14, an email of 18 July 2024 with an attachment described as \"Witness "
+   "statement - Carolyn Jeffrey\"; at item 25, an email of 29 August 2024 described as regarding the "
+   "after hours on call change, with an attachment described as \"Email: After hours on call "
+   "process\"; at item 26, an email of 30 August 2024 described as regarding failure to consult, with "
+   "an attachment described as \"Email: Task change switchboard - 19/04/2024\"; and at item 27, an "
+   "email of 30 August 2024 described as regarding failure to consult, with an attachment described "
+   "as \"Email: MASPER process - 09/05/2024\". It further records, at item 16, an email from "
+   "Ms Carolyn Jeffrey to WorkCover Queensland of 1 August 2024 described as a follow up statement. "
+   "The documents at items 25, 26 and 27 are the three directives pleaded at S1.5 and S1.7 above. "
+   "They were provided by the Appellant to WorkCover Queensland in August 2024, before any decision "
+   "on his claim and more than two years before this pleading.", SUBP),
+ P("<b>3.3 &nbsp;The particulars bundle of 11 August 2026.</b> The Respondent's amended statement of "
+   "facts and contentions states at paragraph 11 that it does not admit the allegations in Stressor "
+   "1(a) of the Appellant's statement \"because there are no particulars or details to respond to\". "
+   "On 11 August 2026 the Appellant served a bundle titled \"Stressor 1(a) - Particulars support "
+   "bundle\", comprising 30 pages and six tabs, each stating a particular of that stressor and "
+   "enclosing the documents recording it.", SUBP)]
 s += q(list(range(274,283)))
+
+s += [P("<b>4. &nbsp;The intervals</b>", SEC),
+ P("The following intervals are computed from dates and times admitted by the Respondent. They are "
+   "matters of arithmetic and do not depend on the truth of any statement recorded in a document.", PLD),
+ P("<b>4.1</b> &nbsp;Between the MASPER Registrar's first report of 3 May 2024 at 3:06 pm and the "
+   "first reply of 9 May 2024 at 9:20 am: <b>five days, eighteen hours and fourteen minutes</b>. Her "
+   "second report was sent on the fifth calendar day after the first; the reply was sent on the sixth.", SUBP),
+ P("<b>4.2</b> &nbsp;Between the first email of the Integrated Respiratory Service of 15 May 2024 at "
+   "11:47 am and its second of 20 May 2024 at 11:03 am: <b>the fifth calendar day</b>. Between that "
+   "first email and the Appellant's escalation of 20 May 2024 at 2:05 pm: <b>five days, two hours and "
+   "eighteen minutes</b>. Between the Service's second email and that escalation: <b>three hours and "
+   "two minutes</b>. Between the escalation and the reply at 4:30 pm: <b>two hours and twenty-five "
+   "minutes</b>, that reply being sent two hours after the conclusion of the office hours stated to "
+   "all Switchboard staff on 17 May 2024.", SUBP),
+ P("<b>4.3</b> &nbsp;Between the Appellant's fatigue enquiry of 8 April 2024 and the response of "
+   "1 May 2024: <b>23 days</b>, during which the Respondent does not allege that any response was "
+   "made.", SUBP),
+ P("<b>4.4</b> &nbsp;Between the third submission of the special pandemic leave request at 11:07:28 "
+   "on 29 February 2024 and its approval at 11:21:03 the same morning: <b>thirteen minutes and "
+   "thirty-five seconds</b>. Between the creation of the draft on 20 February 2024 and the final "
+   "approval on 1 March 2024: <b>ten days, four hours, forty minutes and twenty seconds</b>.", SUBP),
+ P("<b>4.5</b> &nbsp;Between the removal of database access on 18 July 2023 and 18 June 2024: "
+   "<b>eleven months</b>, during which the Respondent does not allege that access was restored. "
+   "Between 23 August 2023 and 17 May 2024: <b>nine months</b>, during which the Respondent does not "
+   "allege that fixed office hours were stated to the Switchboard staff.", SUBP)]
+s += q([62,63,64,92,97,98,102,103,124,125,249])
+
+s += [P("<b>5. &nbsp;Matters the Respondent does not allege, and documents it does not list</b>", SEC),
+ P("The following are admitted as to the state of the Respondent's amended statement of facts and "
+   "contentions of 13 May 2026 and its amended List of Documents of 14 August 2026. They are not "
+   "admissions as to the truth of the contents of any document, and the qualification in the "
+   "Respondent's letter of 8 September 2026 does not reach them.", PLD),
+ P("<b>5.1 &nbsp;As to the directory and the changes to process.</b> That access to the database was "
+   "restored to the Appellant before 18 June 2024; that any document records consultation with "
+   "Switchboard operators before the change communicated on 15 April 2024; that agreement under "
+   "clause 6.2 of the Award was obtained, or a ballot conducted, before that change.", SUBP),
+ P("<b>5.2 &nbsp;As to what followed the reports at the console.</b> That any communication was sent "
+   "to Logan Switch or the Switchboard staff about the occasions reported on 3 and 8 May 2024 before "
+   "10:15 am on 9 May 2024; that any response was made to the Integrated Respiratory Service before "
+   "20 May 2024, or before 2:05 pm on that day; that any document created on 20 May 2024 records the "
+   "discussion referred to in the reply of that afternoon; that any communication was sent by either "
+   "named person to that Service on that day; that the contact-details document was amended on or "
+   "before 20 May 2024; that the Switchboard staff were notified of the modifications made to it on "
+   "22 February 2024; or that the Appellant was rostered to work after 2:05 pm on 20 May 2024.", SUBP),
+ P("<b>5.3 &nbsp;As to the office hours.</b> That fixed office hours were stated to the Switchboard "
+   "staff at any time between 23 August 2023 and 17 May 2024.", SUBP),
+ P("<b>5.4 &nbsp;As to the Communication Book.</b> That the entry removed, or its author, is "
+   "identified; that the removed page has been located or that any copy of it exists; that any entry "
+   "made by the Appellant remains in the book; or that the book ceased to be in the possession of "
+   "Metro South Health during the Appellant's employment. The book, and any page or entry from it, is "
+   "not listed in the List of Documents.", SUBP),
+ P("<b>5.5 &nbsp;As to the special pandemic leave.</b> That either person recorded in the leave "
+   "history was a Band 9 delegate at any relevant time; the identity of the person who exercised the "
+   "sub-delegated power in respect of Process Reference 15480560; or that any other Switchboard "
+   "employee was required to submit such a request personally through myHR in February 2024.", SUBP),
+ P("<b>5.6 &nbsp;As to the roster and fatigue.</b> That the Switchboard Manager got in touch with the "
+   "Appellant about alternative shifts after the meeting of 16 April 2024; that the fatigue toolkit "
+   "was reviewed or feedback given before 18 June 2024; that the consecutive shifts of 17 and "
+   "18 March 2024 arose from a staff-initiated shift swap; that any response was made to the fatigue "
+   "enquiry between 9 April and 1 May 2024; that any fatigue risk assessment was conducted, that any "
+   "fatigue risk management training was provided, or that fatigue risk management assessment was "
+   "implemented at the Switchboard, before 30 June 2024; or that any change was made to the operating "
+   "procedures of the Switchboard as a consequence of any employee complaint over the period "
+   "1 December 2023 to 30 June 2024.", SUBP),
+ P("<b>5.7 &nbsp;As to the Appellant's performance and conduct.</b> That he was subject to any "
+   "disciplinary process, or that his work performance was the subject of any formal performance "
+   "management process, before 18 June 2024; nor does the Respondent describe any communication with "
+   "him before that date as a warning. Paragraph 27 of its statement of facts and contentions does "
+   "not identify, by particular, date, document or cross-reference, the management action relied upon "
+   "for the contention in that paragraph.", SUBP)]
+s += q([16,21,22,25,55,69,73,90,93,99,105,106,107,108,109,110,129,130,131,142,150,151,152,153,154,166,180,181,213,216,234,250,269,270,271,272,273,300,301,302,303])
+
 
 s += [P("PART C &mdash; CONTENTIONS", PART),
  P("<b>1. &nbsp;⭐ The onus, accepted.</b> The Appellant accepts that he bears the onus of proving "
@@ -717,19 +808,34 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "being <b>a significant contributing factor</b>. The injury is the diagnosed condition identified at "
    "Part A, arising from the course of conduct pleaded at Part B.2 and not from an event on a single "
    "day. The Respondent's own review decision so finds.", PLD),
- P("<b>4. &nbsp;Section 32(5)(a), first limb &mdash; the matters at Stressor 1(a) and 1(h) are not "
-   "management action.</b> A directory the occupant of the position is required to keep accurate but "
-   "cannot correct; emergency notifications reaching the wrong team; a clinical service unable to "
-   "assist patients because a directory entry is wrong &mdash; these are the conditions in which the "
-   "work was carried on, not action taken by the employer against the worker. One decision was taken, "
-   "on 18 July 2023, for a stated project reason; what followed is a state of the system, and "
+ P("<b>4. &nbsp;Section 32(5)(a), first limb &mdash; circumstances that are not management "
+   "action.</b> The following circumstances pleaded in Stressor 1 are not action taken by or on "
+   "behalf of the employer against the worker. They are the state in which the work was required to "
+   "be performed: (i) the position was required to keep the contact and paging information accurate "
+   "while the means of amending it was held by others (S1.1 to S1.3); (ii) emergency response "
+   "notifications reached the wrong medical team on nine occasions reported by a clinician, and the "
+   "Switchboard was not told of them for six days (S1.7); (iii) a clinical service was unable to "
+   "assist patients or other clinical staff because a directory entry was wrong, and the entry is not "
+   "alleged to have been amended (S1.8); and (iv) complaints arriving at the console were, on the "
+   "employer's own statement, managed solely by email or verbally with the complainant, with no "
+   "consequential change to operating procedures (S1.15). One decision was taken, on 18 July 2023, "
+   "for a stated project reason. What followed is the condition of the system, and the exclusion in "
    "subsection (5) does not reach it.", PLD),
- P("<b>5. &nbsp;Section 32(5)(a), second limb &mdash; where the matters pleaded are management "
-   "action, it was not taken in a reasonable way.</b> The change of 15 April 2024 was effective the "
-   "day it was notified, with no record of prior consultation, against an instrument requiring a "
-   "genuine opportunity to influence the outcome before a final decision. The remuneration correction "
-   "was returned across four fortnights to the only person able to make it and is recorded as Part "
-   "Completed. The fatigue enquiry drew no response for 23 days.", PLD),
+ P("<b>5. &nbsp;Section 32(5)(a), second limb &mdash; where the circumstances are management action, "
+   "it was not taken in a reasonable way.</b> If and to the extent that the following are management "
+   "action: (i) the change notified on 15 April 2024 was effective the day it was notified, with no "
+   "document of prior consultation, against clause 3.2 of the certified agreement, which requires "
+   "contribution to decision-making not only in appearance but in fact and a genuine opportunity to "
+   "influence the outcome before a final decision is made (S1.5, S1.6); (ii) the remuneration "
+   "correction was returned across four fortnights to the only person able to submit it, and the "
+   "claim submitted on 28 May 2024 remains recorded as Part Completed, while neither claim reference "
+   "identified by Payroll appears in the report at all (S2.3 to S2.5); (iii) the special pandemic "
+   "leave application was declined twice on reasons which do not correspond, the second of which the "
+   "Respondent concedes was wrong on its own review (S1.12); (iv) the fatigue enquiry of 8 April 2024 "
+   "drew no response for 23 days (S3.9); and (v) the Appellant's roster was decided upon and the "
+   "decision expressly withheld from him (S3.2). The intervals at Part B.4 and the matters at Part "
+   "B.5 are relied upon.", PLD),
+
  P("<b>6. &nbsp;<i>Delaney</i>.</b> Where multiple management actions form a course of conduct, "
    "their reasonableness may be evaluated in context and as a whole. That evaluation must "
    "nevertheless first identify the circumstances that constitute management action. Operational "
