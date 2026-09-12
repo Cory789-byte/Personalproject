@@ -827,3 +827,95 @@ time**.
    before we move on?"** An express request creates the slot the structure otherwise denies.
 3. ⭐⭐⭐ **And when the slot comes — use §12: chain it, run the series, then stop.** He had two
    openings over 20 seconds in 64 minutes. One of them moved the case.
+
+---
+
+# 14. ⛔⭐⭐⭐ CORRECTION TO §13 — MEASURED AGAINST THE OBJECTIVE, THE ANSWER REVERSES
+
+## 14.1 What §13 got wrong
+
+§13.2 called 13.4% *"the shape of a question-and-answer session"* and §13.5 said *"a mention will
+not hand him a submission."* ⛔ **Both reason from the label on the listing instead of from what
+the listing was for. Withdraw them.**
+
+## 14.2 ⭐⭐⭐ WHAT THE LISTING WAS FOR — in the Commissioner's own words
+
+**`01:35`, segs 14–16:**
+
+> *"there are a number of aspects to **the application that you brought** that I think are
+> potentially going to impact on the efficiency of the conduct of your proceedings."*
+
+⭐⭐⭐ **This was not a general mention. It was listed on the Appellant's own Form 29 non-party
+disclosure application. Cory was the moving party.**
+
+The objective of such a listing is to hear and dispose of that application: **the applicant opens,
+the respondents answer, the decision-maker rules or directs.** Measured against *that* objective,
+every number in §13 changes meaning.
+
+## 14.3 ⭐⭐⭐ THE SEQUENCE
+
+| Time | |
+|---|---|
+| `00:00` | Commissioner begins |
+| **`02:29`** (seg 25) | ⭐⭐⭐ ***"I'm going to park the non-party disclosure application for the moment."*** |
+| `02:36` | *"I'm going to take you back to your statement of facts and contentions"* |
+| **`07:09`** (seg 69) | ⭐⭐⭐ **The Appellant's first word of the hearing** |
+| `61:50` | *"I'd like to park the Form 29 for a little bit longer"* |
+| `64:00` | Stood down four weeks |
+
+⭐⭐⭐ **The application was parked at 2 minutes 29 seconds — 4 minutes 40 seconds before the moving
+party said a single word.**
+
+**The Commissioner's opening ran 429.4 seconds — 7 min 09 s, 939 words — in one unbroken turn. It
+is the longest turn in the hearing by a factor of nine.** The Appellant's first contribution came
+after it.
+
+## 14.4 ⭐⭐⭐ THE CORRECTED ANSWER
+
+**No. Measured against the objective of the listing, he did not hold the floor for anything like
+long enough — and that was not his doing.**
+
+- He was the **applicant on his own interlocutory application** and received **8.3 of 64 minutes**,
+  in a median of **3.27 seconds and ten words** at a time.
+- The **Respondent contributed 17 words in total.**
+- ⭐⭐⭐ **The application was never heard on its merits. It was parked before he opened his mouth,
+  and parked again at the end.**
+
+**13.4% was never "structurally normal for a mention." It is the measure of an application that was
+deferred rather than determined.**
+
+## 14.5 ⛔⛔⛔ WHAT THIS IS NOT, AND MUST NEVER BECOME
+
+⛔⛔ **This is not a grievance, not a ground, not a complaint, and it never goes near paper, the
+Regulator, or any listing.** Say it once here and never again:
+
+**Nothing improper happened.** The Commissioner expressly invoked *"the efficient administration of
+justice, which is an overriding consideration"* (seg 0). He is entitled to case-manage, and
+narrowing a 36-item disclosure application by discussion instead of running a costly contested
+hearing is orthodox and, on the costs he described, arguably generous. ⭐⭐ **He did not refuse the
+application. He deferred it, expressly reserved the right to press it — *"I'm not closed to that at
+all"* — and stood it down four weeks.** The application is alive and undetermined.
+
+⛔ **Any suggestion that he was not heard, put anywhere, converts a live application into a
+complaint about a judicial officer and destroys the four weeks. Never.**
+
+## 14.6 ⭐⭐⭐ WHAT IT IS FOR — and the one thing that *is* his
+
+**It is a planning fact.** When the matter returns, if he presses any part of the Form 29, **he is
+the moving party on his own application and is entitled to open it.** He has never yet done so.
+
+⭐⭐ **And the one thing in §14 that is his to fix:** his first words of the hearing, on his own
+application, at `07:09` — ***"I understand, I think I understand, what you think you are trying to
+achieve and I'm not…"***
+
+**An accommodation. Before a single word of his application.** Same pattern as §7 (*"Yeah, I
+actually understand what you're getting at"*) and §8.5 — **now evidenced three times in one
+hearing: he concedes the room before he states his own position.**
+
+⭐⭐⭐ **THE DRILL, FINAL FORM. In the next listing, on any application he is moving:**
+1. **Open it.** *"Commissioner, this is my application — may I state shortly what I seek and why?"*
+2. **State the relief, then the reason — §12 construction: chain it, run the series.**
+3. **Then stop.**
+4. ⭐⭐⭐ **Do not begin with "I understand." Do not concede the room before he has said anything to
+   concede to.** Understanding is what he grants after he has been heard — not the price of being
+   heard.
