@@ -77,7 +77,7 @@ S1 = [
   "the process requires the exchange of timely information so that the parties have “an actual "
   "and genuine opportunity to influence the outcome, before a final decision is made”. Clause "
   "4.1.4 requires a business case to be tabled for consultation for significant organisational change "
-  "including major alterations to current service delivery arrangements.", []),
+  "including major alterations to current service delivery arrangements.", [-1]),
  ("The change notified on 15 April 2024 was stated to be effective the day it was notified.", [51]),
  ("The Respondent’s amended List of Documents records no document recording consultation with "
   "Switchboard operators before that change.", [273]),
@@ -266,7 +266,7 @@ S1 = [
  ("On 13 May 2024 the Appellant made a complaint to the Metro South Health Ethical Standards Unit, "
   "which that Unit determined on 24 December 2024 constituted a public interest disclosure, reference "
   "24-ESU-1130. <b>The content of the disclosure is not set out, and no connection between it and any "
-  "subsequent conduct is pleaded or relied upon in this appeal.</b>", []),
+  "subsequent conduct is pleaded or relied upon in this appeal.</b>", [-1]),
 ]),
 ("o", "Workplace representation", [], [
  ("The Respondent has admitted that the Union Encouragement Policy QH-POL-248 requires managers to "
@@ -449,13 +449,13 @@ S3 = [
  ("The shift of 17 March 2024 was a late shift, concluding at 23:00. <b>A late shift does not shorten "
   "the day that precedes it.</b> The Appellant had been awake throughout that day before commencing "
   "it, and the period of wakefulness is accordingly measured from waking that morning and not from "
-  "the commencement of the shift.", []),
+  "the commencement of the shift.", [-1]),
  ("The Appellant will give evidence that from waking on the morning of 17 March 2024 to the "
   "conclusion of the shift at 23:00 was approximately sixteen hours; that he then travelled home, "
   "obtained approximately four hours of sleep, and travelled back to commence the first shift of the "
   "working week at 06:00; that the two shifts and the journeys between and about them required "
   "approximately four hours of travel in total; and of where he lived and the distance and travel "
-  "time each way.", []),
+  "time each way.", [-1]),
  ("The Award and the employer’s own fatigue policy are directed to the rest opportunity between "
   "shifts. The emergency duties pleaded at Stressor 1(g) and recorded at (h) below were performed on "
   "the shift of 18 March 2024 in that condition.", []),
@@ -498,8 +498,8 @@ S3 = [
   "commenced at 06:00 after the rest pleaded at (e) above.", [230]),
  ("For 19 March 2024 it records a MET call to Ward 2I Bed 20 at 11:34 with the notation that it was "
   "called via switchboard.", [231]),
- ("Those paragraphs were not admitted by the Respondent and will be proved by the register and any "
-  "other admissible evidence.", []),
+ ("The register is produced at Tab 31 of Annexure A to the notice to admit facts served "
+  "28 August 2026. It will be proved by the register and any other admissible evidence.", []),
 ]),
 ("i", "The leave of 19 March 2024", [], [
  ("The Leave Takings Report produced by Metro South Health in respect of 19 March 2024 records the "

@@ -48,6 +48,7 @@ def _collapse(ns):
         i=j+1
     return ", ".join(out)
 def q(ns, st=ADM):
+    ns = [n for n in ns if n != -1]
     if SERVE:
         if not ns: return []
         pend = [n for n in ns if n in NOT_ADMITTED]
@@ -220,12 +221,18 @@ s += q([261,262])
 import form9a_content as C
 
 def cite(ns):
+    """Inline citation. -1 marks a proposition whose admitted paragraph is still to come;
+    a paragraph the Respondent has not admitted is treated the same way, so that nothing in
+    the filed pleading cites a paragraph as a particular unless it is admitted."""
     if not ns: return ""
-    pend=[n for n in ns if n in NOT_ADMITTED]; adm=[n for n in ns if n not in NOT_ADMITTED]
-    parts=[]
-    if adm:  parts.append(("&para;&para; " if len(adm)>1 else "&para; ") + _collapse(adm))
-    if pend: parts.append(("&para;&para; " if len(pend)>1 else "&para; ") + _collapse(pend) + " not admitted")
-    col = '#9b1c1c' if (pend and not adm) else '#123f8c'
+    pend_slot = (-1 in ns) or any(n in NOT_ADMITTED for n in ns)
+    adm = [n for n in ns if n != -1 and n not in NOT_ADMITTED]
+    parts = []
+    if adm:
+        parts.append(("&para;&para; " if len(adm) > 1 else "&para; ") + _collapse(adm))
+    if pend_slot:
+        parts.append("&para; ___")
+    col = '#123f8c' if adm else '#6b6b6b'
     return f" <font size=\"6.4\" color=\"{col}\">[{'; '.join(parts)}]</font>"
 
 def render(stressor, title):
@@ -242,6 +249,9 @@ def render(stressor, title):
             first_done = True
             if not SERVE and fs:
                 out += q(fs)
+                if -1 in fs:
+                    out.append(P("[&para; ___ &mdash; no admitted paragraph yet. Insert the "
+                                 "paragraph number when a further notice to admit produces one.]", NOTE))
     return out
 
 s += [P("<b>2. &nbsp;Causative stressors (composite course, June 2023 &ndash; June 2024)</b>", SEC)]
@@ -443,13 +453,35 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "communication described as a warning before 18 June 2024 is alleged.", PLD)]
 s += q([238,295,300,301,302,303])
 
-s += [P("PART D &mdash; ORDERS SOUGHT", PART),
- P("1. The appeal be allowed. 2. The decision of the Respondent dated 24 October 2024 be set aside. "
-   "3. It be declared that the Appellant sustained an injury within the meaning of section 32 of the "
-   "Workers' Compensation and Rehabilitation Act 2003. 4. The Appellant's application for "
-   "compensation be accepted. 5. Costs reserved.", PLD)]
+s += [P("PART D &mdash; THE QUESTIONS FOR DETERMINATION", PART),
+ P("1. &nbsp;Did the Appellant sustain a personal injury of a psychological nature?", PLD),
+ P("2. &nbsp;Did that injury arise out of, or in the course of, his employment, and was his "
+   "employment <b>a significant contributing factor</b> to it?", PLD),
+ P("3. &nbsp;Which of the circumstances pleaded in Part B.2 constitute management action taken by or "
+   "on behalf of the employer in connection with the Appellant's employment, and which are conditions "
+   "in which the work was required to be performed?", PLD),
+ P("4. &nbsp;In respect of those circumstances that are management action, was that action reasonable "
+   "and was it taken in a reasonable way?", PLD),
+ P("5. &nbsp;Does section 32(5)(a) of the Act operate to exclude the Appellant's psychological "
+   "disorder from the definition of injury, having regard to the circumstances found not to be "
+   "management action and to any management action found not to have been reasonable or not to have "
+   "been taken in a reasonable way?", PLD),
 
-s = [x for x in s if x is not None]
+ P("PART E &mdash; ORDERS SOUGHT", PART),
+ P("1. &nbsp;That the appeal be allowed.", PLD),
+ P("2. &nbsp;That the decision of the Respondent dated 24 October 2024, Review Decision 69983, be set "
+   "aside.", PLD),
+ P("3. &nbsp;That it be declared that the Appellant sustained an injury within the meaning of section "
+   "32 of the Workers' Compensation and Rehabilitation Act 2003, being a psychological injury arising "
+   "out of, or in the course of, his employment with Metro South Hospital and Health Service, "
+   "employment being a significant contributing factor to that injury.", PLD),
+ P("4. &nbsp;That the Appellant's application for compensation be accepted, and that the matter be "
+   "remitted to the Respondent for assessment of the Appellant's entitlement to compensation "
+   "consequent upon that acceptance.", PLD),
+ P("5. &nbsp;Such further or other order as the Commission considers appropriate.", PLD),
+ P("6. &nbsp;Costs reserved.", PLD)]
+
+
 buf=io.BytesIO()
 doc=BaseDocTemplate(buf,pagesize=A4,leftMargin=16*mm,rightMargin=16*mm,topMargin=12*mm,bottomMargin=12*mm)
 doc.addPageTemplates([PageTemplate(id='n',frames=[Frame(15*mm,11*mm,A4[0]-30*mm,A4[1]-23*mm,
