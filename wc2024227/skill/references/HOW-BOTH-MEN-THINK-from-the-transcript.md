@@ -382,3 +382,109 @@ room.** The passage worked. It was 64 words, 175 wpm, 54 of 64 words at p=1.00, 
 the longest content-caused silence of the hearing. **That is what a good answer sounds like, and
 what a good answer does. The error was afterwards — filling the room's silence with his own
 reassurance.** After a strong answer: stop. Let the silence be theirs.
+
+---
+
+# 9. ⭐⭐⭐ WHAT THE 5.74 SECONDS ACTUALLY BOUGHT — the high-water mark
+
+## 9.1 Correction to §8.5
+
+§8.5 said *"nothing in the following 34 minutes returns to it."* **Too strong — narrow it.** Four
+minutes later, at `34:43`, he reads the pleaded version of the same subject aloud from the SOFC
+(*"…the necessity of updating medical on-call contact numbers. Ms Taylor unilaterally removed and
+destroyed this entry"*). Every other post-`430` mention of safety, on-call or clinical risk is him
+reading a pleaded heading. **The accurate statement: he never engaged the oral passage. He did
+return to the pleaded subject — and handled it exactly as he had handled everything else.**
+
+## 9.2 ⭐⭐⭐ THE REVERSAL
+
+His position on the Taylor emails, **30 seconds before the passage** (segs 415–419, `28:49`):
+
+> *"So you don't need the emails to prove that the emails are unassessed directives, necessarily.
+> And if you give evidence that you were sent unassessed directives by Ms Taylor… and the
+> regulator doesn't contradict it… that's a problem for them, not for you."*
+
+Same move again at `35:06` (seg 515), on the on-call numbers stressor:
+
+> *"You're not going to need documents for that, are you? … So you don't need any documents for
+> that, do you?"*
+
+His position on the **same category** at `62:27`–`63:10` (segs 1027–1041), the last substantive
+thing he said in the hearing:
+
+> *"If you're going to talk about those things that we talked about before, which was **the
+> unassessed directives** or whatever, **you might be on to something there. They might have an
+> obligation to provide those.** … it seems to me that those are going to be more about **the
+> character of those emails** as opposed to whether they were actually sent or not … **that
+> particular point is the one — one area I think in all of what we've been through that there
+> might be something to look at.**"*
+
+⭐⭐⭐ **From "you don't need them" to "they might have an obligation to provide them."
+From "were they sent" to "the character of those emails."
+Out of a 36-item Form 29 walked item by item for 64 minutes, ONE survived — and it is the one the
+64 words were about: not that the emails existed, but what was in them.**
+
+**The passage did not supply a document. It supplied the reason the documents matter.** That is
+exactly the distance between the two positions.
+
+## 9.3 ⚠ WHAT THE 5.74 SECONDS WAS NOT: a derailment
+
+The plan, stated at `02:29` (seg 25): ⭐ ***"I'm going to park the non-party disclosure application
+for the moment."***
+
+The order, at `61:50` (seg 1015): ⭐ ***"I'd like to park the Form 29 for a little bit longer."***
+
+**Same verb. Same disposition. He ended where he began.** *"I'm going to schedule this disclosure
+dispute for a hearing"* was never the plan and never became the plan — and the transcript shows
+what it actually was within ninety seconds of him saying it (segs 458–470, `31:01`):
+
+> *"if we can't reach some understanding today… we're going to need to have a hearing… that's
+> going to have **cost consequences**… they'll bring their lawyers along… **this is going to be a
+> big sideshow**, probably bigger than the hearing at the end of the day — **and if you want it,
+> you can have it.**"*
+
+That is a **priced deterrent**, not a listing. It was never executed. It was stood down for four
+weeks.
+
+## 9.4 ⭐⭐ THE SHAPE — read it as one curve
+
+| Time | Seg | What happened |
+|---|---|---|
+| `02:29` | 25 | Plan: **park** the disclosure application |
+| `28:49` | 415–419 | **"You don't need the emails."** |
+| `29:17–29:39` | 420–429 | **The 64 words** |
+| `29:39–29:45` | — | **5.74 s** |
+| `29:45` | 430 | *"It's going to move on for a moment"* → **hearing threat** |
+| `31:01–31:59` | 458–470 | Threat **priced**: costs, lawyers, *"a big sideshow"* |
+| `35:06` | 515 | Same move on the on-call stressor: *"you don't need documents"* |
+| `53:34` | 868 | *"I'll leave it up to you to tell me… don't worry about interrupting me"* |
+| `59:21` | 975–976 | *"**I'm not closed to that idea if you really wish to press it. I'm not closed to that at all.**"* |
+| `62:27` | 1027–8 | *"**you might be on to something there. They might have an obligation to provide those.**"* |
+| `63:07` | 1040–1 | *"**the one area… that there might be something to look at.**"* |
+| `61:50` / `64:00` | 1015, 1053 | **Park it four weeks**; *"if you still wish to press any aspect of it…"* |
+
+⭐⭐⭐ **`29:45` is the high-water mark of resistance in the entire hearing. Everything after it
+retreats from it.** The single hardest thing said against him came out of that silence — and by
+the end it had been converted into a four-week stand-down, an express reservation of his right to
+press, and a named survivor.
+
+## 9.5 ⚠ THE CONFOUND, ONCE
+
+Thirty-three minutes and roughly 5,000 words separate the silence from the reversal, including the
+whole item-by-item walk of the Form 29 and Cory's own abandonment of items along the way. **The
+passage cannot be isolated as the cause and never will be.** What the record does establish is
+direction and subject: the reversal runs *against* the position stated 30 seconds before the
+silence, and it lands on the same category.
+
+## 9.6 ⭐⭐⭐ THE OPERATIVE CONSEQUENCE
+
+⛔ None of §9 is for paper. It is for the four weeks.
+
+⭐⭐⭐ **He named the survivor himself, on the record: the Taylor emails, and specifically their
+character. That is the disclosure to press, and it is the only one to press.** Everything the
+hearing did to the Form 29 was subtraction except this. Going back in with the long list forfeits
+the one thing 64 minutes produced.
+
+⭐⭐ And the correction to §8.7 stands alongside, not against it: **the passage worked.** It did not
+get acknowledged in the room, and it still moved the only item that moved. **Substance over
+reassurance — that is the lesson twice over.**
