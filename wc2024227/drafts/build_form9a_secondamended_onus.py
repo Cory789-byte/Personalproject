@@ -96,8 +96,15 @@ s += [
  P("PART A", PART),
  P("Appellant: Cory Lea Shepherd. Employer: State of Queensland (Queensland Health) &ndash; Logan "
    "Hospital Switchboard. Role: Administration Officer, Switchboard Services, classification AO3, a "
-   "continuous shift working role. Injury: major depressive disorder with anxious distress. Date of "
-   "onset: 18 June 2024.", PLD)]
+   "continuous shift working role.", PLD),
+ P("<b>Injury:</b> major depressive disorder with anxious distress (DSM-5 296.23), diagnosed by "
+   "the Appellant's treating psychiatrist on 24 October 2024.", PLD),
+ P("<b>The injury is a diagnosed medical condition arising from the Appellant's employment over "
+   "the course of conduct pleaded at Part B.2 below, between approximately June 2023 and June 2024. "
+   "It is not pleaded as arising from an event occurring on a single day.</b> The date of injury "
+   "recorded on the work capacity certificates of the treating general practitioner is 18 June 2024. "
+   "That date is the practitioner's and is a matter for the medical evidence; the Appellant asserts "
+   "no date of onset of his own.", PLD)]
 s += q([1,2,3,4,13,14,15,16])
 
 s += [P("PART B &mdash; MATERIAL FACTS", PART),
@@ -135,8 +142,10 @@ s += [P("1.3 &nbsp;<b>The referral of 16 May 2024.</b> The referral letter of 16
    "psychiatrist was obtained on that referral.", SUBP)]
 s += q([76,77])
 
-s += [P("1.4 &nbsp;<b>Onset and first presentation.</b> Onset 18 June 2024. The Appellant last worked "
-   "a shift on 3 June 2024. On 28 June 2024 (Dr Slawinski) the record shows \"stress at work\" and "
+s += [P("1.4 &nbsp;<b>Deterioration and first presentation.</b> The Appellant last worked a shift "
+   "on 3 June 2024. On days in May 2024 and in the first week of June 2024 he drove to work, was "
+   "unable to enter the building, and reported himself unfit from the car park. The date of injury "
+   "recorded on the certificates is 18 June 2024. On 28 June 2024 (Dr Slawinski) the record shows \"stress at work\" and "
    "\"upset by people not following rules\", reason for visit anxiety. On 1 July 2024 (Dr Hawes) the "
    "record shows \"work stress\", \"been there 5 years\", that \"they withhold pay at times, no "
    "overtime- not processed, manipulate his roster- so he works lates then earlies\", and \"causing "
@@ -357,7 +366,9 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "complainant.", PLD),
  P("<b>3. &nbsp;Compensable injury &mdash; section 32(1).</b> The Appellant sustained a personal "
    "injury of a psychological nature arising out of, or in the course of, his employment, employment "
-   "being <b>a significant contributing factor</b>. The Respondent's own review decision so finds.", PLD),
+   "being <b>a significant contributing factor</b>. The injury is the diagnosed condition identified at "
+   "Part A, arising from the course of conduct pleaded at Part B.2 and not from an event on a single "
+   "day. The Respondent's own review decision so finds.", PLD),
  P("<b>4. &nbsp;Section 32(5)(a), first limb &mdash; the matters at Stressor 1(a) and 1(h) are not "
    "management action.</b> A directory the occupant of the position is required to keep accurate but "
    "cannot correct; emergency notifications reaching the wrong team; a clinical service unable to "
