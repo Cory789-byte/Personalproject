@@ -195,9 +195,10 @@ S1 = [
   "Switchboard staff concerning those occasions at any time after 3 May 2024 and before 10:15 am on "
   "9 May 2024.", [69]),
  ("<b>What those nine occasions were.</b> They are occasions on which, on the reporting clinician’s "
-  "own account, emergency response notifications did not reach the team they were meant to reach. On "
-  "one of them a medical emergency team telephoned the Switchboard to be told where the emergency "
-  "was, and could not be told.{{58}} The Switchboard Manager’s own description of the position, six "
+  "own account, emergency response notifications did not reach the team they were meant to reach. Of "
+  "one of them that clinician\u2019s email records that a medical emergency team telephoned the "
+  "Switchboard to be told where the emergency was and could not be told, and had to be redirected by "
+  "MASPER.{{58}} The Switchboard Manager’s own description of the position, six "
   "days later, was of “many ongoing issues raised by the MASPER and the medical department about "
   "calls being transferred to the wrong medical teams”.{{67}} <b>No allegation of harm to any "
   "patient is made.</b> The matters are pleaded because they are what arrived at the console while "
