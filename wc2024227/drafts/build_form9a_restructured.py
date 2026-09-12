@@ -142,10 +142,27 @@ s += [P("<b>B5. What the Appellant raised, and what followed</b>", SEC),
    "Documents.", PLD)]
 s += q([143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154])
 s += [P("12. &nbsp;The Appellant raised matters concerning hours and workplace issues in August and "
-   "September 2023, and lodged a complaint on 13 May 2024 which the Ethical Standards Unit "
-   "determined constituted a public interest disclosure. The content of that disclosure is not set "
-   "out and is not relied on in this proceeding as evidence of motive.", PLD)]
+   "September 2023.", PLD)]
 s += q(list(range(26, 39)) + list(range(155, 162)))
+s += [P("12A. &nbsp;On 13 May 2024 the Appellant made a complaint to the Metro South Health Ethical "
+   "Standards Unit, which that Unit determined on 24 December 2024 constituted a public interest "
+   "disclosure, reference 24-ESU-1130. <b>The content of the disclosure is not set out, and no "
+   "connection between it and any subsequent conduct is pleaded or relied upon in this appeal.</b> "
+   "The fact is pleaded only to complete the sequence of matters the Appellant raised.", PLD),
+ P("[⚠ SOURCING &mdash; this paragraph is NOT supported by the notice to admit facts served "
+   "28 August 2026. None of the 303 paragraphs refers to the Ethical Standards Unit, to a public "
+   "interest disclosure, or to a complaint of 13 May 2024. It must be proved from the Unit's "
+   "determination and the Respondent's response of 18 February 2026 at Annexure A, Tab 27, or "
+   "carried into a further notice to admit.]", NOTE),
+ P("<b>B5A. The distribution lists</b>", SEC),
+ P("12B. &nbsp;The recipients of the relevant communications are admitted. The Appellant's email of "
+   "15 May 2024 went to the manager and to Logan Switch, copied to the Switchboard staff, the "
+   "Director and LBH_HR. The Director's reply that evening was copied to the manager and marked of "
+   "High importance. The manager's email of 17 May 2024 went to Logan Switch, copied to the "
+   "Director and the Switchboard staff, and included Mr Richard Parry, as did the on-call roster "
+   "email of 13 May 2024. These facts are pleaded as to the distribution of departmental "
+   "communications and the consultation obligation at paragraph 8, and for no other purpose.", PLD)]
+s += q([74, 76, 81, 111, 112, 113])
 s += [P("13. &nbsp;On 15 May 2024 the Appellant asked that directives and changes be made in "
    "consultation and asked for the manager's office hours. He was asked that evening to retract "
    "that email. Two days later the office hours were sent to the whole department. On 21 May he was "
@@ -236,7 +253,22 @@ s += [P("PART E &ndash; CONTENTIONS", PART),
  P("27. &nbsp;<b>Mahaffey.</b> A single unreasonable stressor suffices. The rostering of the shifts "
    "of 17 and 18 March 2024 is found by the Respondent's own decision to have amounted to "
    "unreasonable management action.", PLD),
- P("28. &nbsp;<b>The Respondent's pleaded case.</b> Paragraph 27 of the amended statement of facts "
+ P("28. &nbsp;<b>The effect of the admissions.</b> By letter of 8 September 2026 the Respondent "
+   "states that an admission of a document is \"an admission of the existence and wording of that "
+   "document only\", and not of the truth of any statement, opinion or finding recorded in it, "
+   "including any statement by a treating medical practitioner, any finding in Review Decision "
+   "69983, or any statement by an officer of Metro South Hospital and Health Service. That "
+   "qualification is accepted so far as it goes. It does not reach four classes of admitted fact "
+   "relied on in this pleading: (i) facts as to what the Respondent's statement of facts and "
+   "contentions does not allege; (ii) facts as to what the Respondent's List of Documents does not "
+   "list; (iii) computed intervals of time; and (iv) the identity of the recipients of a "
+   "communication. None of those involves the truth of a statement recorded in a document. The "
+   "Respondent has not identified any admitted fact it contends is irrelevant.", PLD),
+ P("29. &nbsp;<b>The hearing de novo.</b> The Respondent says that no finding in Review Decision "
+   "69983 binds the Commission. That is accepted, and it applies to the whole of the decision. The "
+   "conclusion under appeal is a conclusion of that decision, reached upon the findings recorded in "
+   "it and set out at paragraphs 257 to 262 above.", PLD),
+ P("30. &nbsp;<b>The Respondent's pleaded case.</b> Paragraph 27 of the amended statement of facts "
    "and contentions does not identify, by particular, date, document or cross-reference, the "
    "management action relied upon. The Respondent does not allege any disciplinary process, any "
    "formal performance management, or any communication described as a warning before 18 June 2024.", PLD)]
