@@ -325,31 +325,67 @@ S1 = [
   "information and finalised their assessment we will reach out to discuss next steps\u201d.", [-1]),
  ("The correspondence of 15 and 16 May 2024 referred to above was disclosed by the Respondent to the "
   "Appellant on 11 June 2026, and is relied upon as the Respondent\u2019s own disclosed material.", [-1]),
+ ("<b>What the Ethical Standards Unit did, as recorded in the decision under appeal.</b> The decision "
+  "records that on 15 May 2024 the Director of the Ethical Standards Unit emailed the Appellant to "
+  "acknowledge receipt of his complaint form, and “noted that since you had further information to "
+  "provide, they would wait for further details from you to progress the assessment”.", [-1]),
+ ("It records that a Principal Investigator emailed him on 20 May 2024 to follow up further "
+  "information, advising that “to progress the assessment of the broad concerns raised by you, "
+  "they required particulars for each matter”.", [-1]),
+ ("<b>The referral to Human Resources, 27 May 2024.</b> It records that on 27 May 2024 the Principal "
+  "Investigator emailed him stating that “in the absence of any particulars relevant to your "
+  "allegations, they finalised an assessment of the matter and determined it did not raise reasonable "
+  "suspicion of corrupt conduct and <b>would refer your concerns and complaints to Human "
+  "Resources</b>”, and that they invited him to provide further information if he wished to in "
+  "the future.", [-1]),
+ ("The assessment was accordingly finalised fourteen days after the complaint form was lodged on "
+  "13 May 2024, and seven days after particulars were first requested on 20 May 2024.", [-1]),
+ ("<b>Where the referral went.</b> Human Resources, to which the Appellant’s concerns and "
+  "complaints were referred on 27 May 2024, is the same function that had received his email of "
+  "15 May 2024 at 3:35 pm, had forwarded that material to three further officers of Human Resources "
+  "six minutes later, and had sent his complaint form to the Director at 11:43 am on 16 May 2024, as "
+  "pleaded above.", [-1]),
+ ("<b>Who convened the meeting about the outcome.</b> The decision records that in an undated email "
+  "the Director scheduled a meeting with the Appellant at 10:00 am on 12 July 2024 “to discuss "
+  "the outcome of your complaint”, and that by email dated 12 July 2024 she rescheduled it to "
+  "16 July 2024. The Director is the officer to whom the complaint form had been sent by Human "
+  "Resources on 16 May 2024, and the officer who had sent the email of 15 May 2024 at 6:23 pm pleaded "
+  "at (e) above.", [-1]),
+ ("<b>The employer’s position, and the Appellant’s capacity at that time.</b> The decision "
+  "records the employer’s response of 15 August 2024 as stating that “due to your refusal to "
+  "participate in the process, they were unable to take any action to resolve your concerns”. The "
+  "work capacity certificates pleaded at Part B.1, paragraph 1.5 above record the Appellant as having "
+  "<b>no functional capacity continuously from 1 July to 6 October 2024</b>. Both meeting dates "
+  "— 12 and 16 July 2024 — fall within that period.", [-1]),
+ ("<b>The finding made on this factor.</b> The decision finds this factor “is able to be "
+  "substantiated to the extent that you lodged a complaint, and some action was taken by management "
+  "to review it, but not to the extent that there was no response to it”, and its Conclusion "
+  "finds that the Appellant’s injury arose out of employment to the extent that it arose out of "
+  "factors 2, 3 and 4.", [262]),
  ("On 24 December 2024 the Ethical Standards Unit determined that the complaint constituted a public "
   "interest disclosure, reference 24-ESU-1130.", [-1]),
  ("On 18 February 2026, in its response to the Appellant’s earlier notice to admit facts, the "
   "Respondent admitted that on 24 December 2024 the Ethical Standards Unit determined that the "
   "Appellant’s complaint constituted a Public Interest Disclosure. That admission is paragraph 20 "
   "of the response of that date.", [-1]),
- ("<b>Where the matter went after the determination.</b> By that same letter the Ethical Standards "
-  "Unit identified administrative issues and referred them, for remediation, to Human Resources at "
-  "Logan and Beaudesert — the same human-resources unit to which the Appellant had sent the "
-  "complaint on 15 May 2024 at 3:35 pm and from which it was forwarded at 3:41 pm, as pleaded above.", [-1]),
- ("No document recording what was done in consequence of that referral has been identified or "
-  "disclosed to the Appellant in the Respondent’s disclosed material presently before the "
-  "Commission.", [-1]),
+ ("No document recording what was done by Human Resources in consequence of the referral of "
+  "27 May 2024 has been identified or disclosed to the Appellant in the Respondent’s disclosed "
+  "material presently before the Commission.", [-1]),
  ("The matters pleaded at Stressor 1(p) above are repeated: the Respondent’s material records that "
   "the complaints received at the console did not result in any consequential change to operating "
   "procedures, that fatigue risk management records for the Switchboard do not exist, and that fatigue "
   "risk management assessment at the Switchboard was implemented only after 30 June 2024.", [263, 264, 265, 269, 270, 271]),
- ("<b>The sequence, stated neutrally.</b> The matter therefore began at the console in May 2024, was "
-  "raised with the Ethical Standards Unit, was determined by that Unit in December 2024, and was "
-  "returned to the human-resources unit from which the Appellant’s own correspondence had been "
-  "distributed in May 2024, with no documented outcome and, on the Respondent’s own material, no "
-  "consequential change to the conditions pleaded at (a) to (i) above. <b>The Appellant alleges no "
-  "impropriety in that sequence.</b> It is pleaded because the conditions he raised were, on the "
-  "Respondent’s material, still unchanged after the process he used to raise them had run its full "
-  "course.", []),
+ ("<b>The sequence, stated neutrally.</b> The conditions pleaded at (a) to (i) above arose at the "
+  "console. They were raised on 13 May 2024 with the Ethical Standards Unit. That Unit finalised its "
+  "assessment fourteen days later and referred the concerns and complaints to Human Resources — "
+  "the function that had itself distributed the complaint on 15 and 16 May 2024. The meeting to "
+  "discuss the outcome was convened by the Director to whom that function had sent the complaint "
+  "form, on dates on which the Appellant is certified as having had no functional capacity. No "
+  "document recording what Human Resources did with the referral has been disclosed, and on the "
+  "Respondent’s own material the conditions were unchanged. <b>The Appellant alleges no "
+  "impropriety, and no motive, in that sequence.</b> It is pleaded because it is the course the "
+  "conditions took after he raised them, and because the decision under appeal has found that his "
+  "injury arose in part out of this factor.", []),
  ("The Appellant’s contemporaneous medical record for the same week, including the renewed "
   "referral to a psychiatrist dated 16 May 2024, is pleaded at Part B.1, paragraph 1.3 above.", []),
  ("<b>No connection between the complaint, its distribution, and any other conduct pleaded in this "

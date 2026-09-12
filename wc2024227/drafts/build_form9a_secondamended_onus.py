@@ -428,7 +428,7 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "leave application was declined twice on reasons which do not correspond, the second of which the "
    "Respondent concedes was wrong on its own review (Stressor 1(l)); (iv) the fatigue enquiry of 8 April 2024 "
    "drew no response for 23 days (Stressor 3(j)); (v) the Appellant's roster was decided upon and the "
-   "decision expressly withheld from him (Stressor 3(b)); and <b>(vi)</b> the shifts of 17 and 18 March 2024 "
+   "decision expressly withheld from him (Stressor 3(b)); <b>(vi)</b> the shifts of 17 and 18 March 2024 "
    "were rostered contrary to the standards in the industrial instruments pleaded at Stressor 3(f) &mdash; "
    "clause 15.2(c) of the Award, which provides that a shift worker shall not perform more than two "
    "consecutive shifts, and clause 15.2(d), which requires changes within a roster to be by agreement or, "
@@ -438,7 +438,17 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "that agreement expressly agreed to address (clause 7.1.5(b) and (c)). <b>The review decision has already "
    "found the rostering of those two shifts to be unreasonable management action.</b> The instruments "
    "identify the standard against which that finding was, and is, correctly made. The intervals at Part B.4 "
-   "and the matters at Part B.5 are relied upon.", PLD),
+   "and the matters at Part B.5 are relied upon. <b>(vii)</b> As to the management action taken in "
+   "response to the Appellant's complaint &mdash; the factor the decision under appeal finds "
+   "contributed to the injury &mdash; the assessment was finalised fourteen days after the complaint "
+   "was lodged and seven days after particulars were first sought; the concerns and complaints were "
+   "then referred to the same function that had distributed the complaint within six minutes of "
+   "receiving it and had sent the complaint form to the Director the following morning; the meeting to "
+   "discuss the outcome was convened by that Director on dates within a period for which the Appellant "
+   "is certified as having had no functional capacity; and no document recording what was done with "
+   "the referral has been disclosed (Stressor 1(n)). The Appellant does not allege that any of this was "
+   "done for any improper purpose. He contends only that it was not, in those respects, action taken "
+   "in a reasonable way.", PLD),
 
  P("<b>6. &nbsp;<i>Delaney</i>.</b> Where multiple management actions form a course of conduct, "
    "their reasonableness may be evaluated in context and as a whole. That evaluation must "
