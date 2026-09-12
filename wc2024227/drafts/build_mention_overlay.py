@@ -92,7 +92,7 @@ E = [
  "Documents, which is dated 14 August 2026 – one week after the mention. The list "
  "identifying the three emails at items 25, 26 and 27 did not then exist, and the Regulator "
  "had undertaken on 3 August to provide its updated list and the non-party copies \"as soon "
- "as possible this week\". What the admissions establish is that the documents were in the "
+ "as possible this week\" - it arrived on 14 August 2026. What the admissions establish is that the documents were in the "
  "Respondent's hands, the Appellant having sent them to WorkCover on 29 and 30 August 2024. "
  "MADE OUT – and the delivery dates are the answer if the exchange is ever put."),
 
@@ -104,9 +104,13 @@ E = [
   ("DWYER IC", "Have you asked them to produce the unassessed unilateral directives?"),
   ("MR SHEPHERD", "Not those specific things, no.")],
  [],
- "Done. The request letter of 9 September 2026 asks for them by item. Ms Matheson replied on "
- "10 September at 2:42 pm seeking until 25 September. OUTSTANDING &ndash; the only step of his "
- "not yet completed."),
+ "⭐ It had already been done. The Appellant asked the Regulator for an up-to-date list of "
+ "documents and for the non-party notices with the documents produced under each on "
+ "24 July 2026 - fourteen days before the mention. On 3 August the Regulator undertook to "
+ "provide them \"as soon as possible this week\"; they arrived on 14 August 2026, seven days "
+ "after the mention. That request was outstanding on the day and was not said on the record. "
+ "The later request of 9 September 2026 asks for the remaining documents by item; the reply of "
+ "10 September seeks until 25 September."),
 
 ("6. &nbsp;19:51 &ndash; how the stressor is proved",
  [("DWYER IC", "the way in which you prove this, if you were going to prove this, is you would give "
