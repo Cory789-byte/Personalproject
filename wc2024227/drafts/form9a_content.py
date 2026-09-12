@@ -263,10 +263,25 @@ S1 = [
   "Instrument in respect of Process Reference 15480560.", [129, 130, 131]),
 ]),
 ("n", "The complaint of 13 May 2024", [], [
- ("On 13 May 2024 the Appellant made a complaint to the Metro South Health Ethical Standards Unit, "
-  "which that Unit determined on 24 December 2024 constituted a public interest disclosure, reference "
-  "24-ESU-1130. <b>The content of the disclosure is not set out, and no connection between it and any "
-  "subsequent conduct is pleaded or relied upon in this appeal.</b>", [-1]),
+ ("On 13 May 2024 the Appellant lodged a complaint with the Metro South Health Ethical Standards "
+  "Unit, on that Unit\u2019s own complaint form. <b>The content of the complaint is not set out in "
+  "this statement.</b>", [-1]),
+ ("On 15 May 2024 at 3:35 pm he sent that complaint by email to the Ethical Standards Unit, to "
+  "CO_Complaints and to LBH_HR.", [-1]),
+ ("At 3:41 pm that afternoon, six minutes later, an officer of Human Resources forwarded that "
+  "material to three further officers of Human Resources.", [-1]),
+ ("On 16 May 2024 at 11:43 am an Acting Senior Consultant, Human Resources sent the complaint form "
+  "to the Director and to a further officer, copied to four other officers, stating: \u201cCory sent "
+  "his complaint directly to the Ethical Standards Unit\u2026 Once ESU have received all of the "
+  "information and finalised their assessment we will reach out to discuss next steps\u201d.", [-1]),
+ ("The correspondence of 15 and 16 May 2024 referred to above was disclosed by the Respondent to the "
+  "Appellant on 11 June 2026, and is relied upon as the Respondent\u2019s own disclosed material.", [-1]),
+ ("On 24 December 2024 the Ethical Standards Unit determined that the complaint constituted a public "
+  "interest disclosure, reference 24-ESU-1130.", [-1]),
+ ("<b>No connection between the complaint, its distribution, and any other conduct pleaded in this "
+  "statement is alleged or relied upon. The matters in this sub-paragraph are pleaded as part of the "
+  "sequence of matters the Appellant raised and the responses he received, and for no other "
+  "purpose.</b>", []),
 ]),
 ("o", "Workplace representation", [], [
  ("The Respondent has admitted that the Union Encouragement Policy QH-POL-248 requires managers to "
