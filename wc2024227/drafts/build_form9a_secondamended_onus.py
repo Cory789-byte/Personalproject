@@ -51,7 +51,11 @@ def q(ns, st=ADM):
     if SERVE:
         if not ns: return []
         pend = [n for n in ns if n in NOT_ADMITTED]
-        txt = "Particulars: paragraphs " + _collapse([n for n in ns if n not in NOT_ADMITTED]) + \
+        adm  = [n for n in ns if n not in NOT_ADMITTED]
+        if not adm:
+            return [P("Particulars: paragraphs " + _collapse(pend) +
+                      " of the notice to admit facts served 28 August 2026.", PART_REF)]
+        txt = "Particulars: paragraphs " + _collapse(adm) + \
               " of the notice to admit facts served 28 August 2026, admitted 8 September 2026."
         if pend:
             txt += " Paragraph" + ("s " if len(pend)>1 else " ") + _collapse(pend) + \
@@ -108,6 +112,10 @@ s += [
 s += q([1,2,3,4,13,14,15,16])
 
 s += [P("PART B &mdash; MATERIAL FACTS", PART),
+ P("The documentary facts identified below have been admitted to the extent recorded in the "
+   "Respondent's response of 8 September 2026. Those admissions provide evidence from which the "
+   "Commission is invited to determine the nature, reasonableness and causal significance of the "
+   "relevant circumstances.", PLD),
  P("<b>1. &nbsp;Baseline &mdash; the medical record</b>", SEC),
  P("1.1 &nbsp;The Switchboard receives emergency response notifications and distributes them to the "
    "response groups by category of emergency, and maintains the contact and paging information by "
@@ -270,6 +278,13 @@ s += q(list(range(56,70))+list(range(89,111))+list(range(167,182))+[101])
 s += [P("(i) &nbsp;<b>What the employer states about its own systems.</b>", SUBP)]
 s += q(list(range(263,273)))
 
+s += [P("<b>Matters pleaded as context only</b>", SEC),
+ P("The matters at (c), (d), (e) and (g) above, and at paragraph 3 below, are pleaded as part of "
+   "the sequence of matters the Appellant raised and the responses he received. They are not relied "
+   "upon as independent causative circumstances, and no retaliatory or reprisal connection between "
+   "any of them and any other conduct is alleged. The causative circumstances relied upon are those "
+   "at (a), (b), (f), (h) and (i) above and at Stressors 2 and 3 below.", PLD)]
+
 s += [P("<b>Stressor 2 &mdash; remuneration</b>", SEC),
  P("(a) &nbsp;Between February and May 2024 the Appellant's pay required correction. On 3 May 2024 "
    "Payroll identified four fortnights and asked the manager to submit an Attendance Variation and "
@@ -313,8 +328,9 @@ s += q(list(range(17,26))+list(range(224,228))+[257])
 s += [P("[⚠ CORRECTION &mdash; the Amended Form 9A of 7 April 2026 pleaded a flat \"10-hour minimum\". "
    "The minimum is ten hours with eight applying only in specific circumstances (paragraph 257), and "
    "the agreement's scope is now answered by paragraphs 224, 225 and 234 rather than asserted.]", NOTE),
- P("(c) &nbsp;The emergency workload carried on those two shifts is recorded in the employer's own "
-   "register. Those paragraphs were not admitted and no reason was given.", SUBP)]
+ P("(c) &nbsp;The emergency workload carried on those shifts is recorded in the employer's "
+   "Emergency Code Register. Those paragraphs were not admitted by the Respondent and will be proved "
+   "by the register and any other admissible evidence.", SUBP)]
 s += q([228,229,230,231])
 s += [P("[TO BE ADMITTED &mdash; the 2024 Emergency Code Register, a Metro South Hospital and Health "
    "Service workbook kept at Logan Hospital Switchboard, produced at Tab 31. Not admitted 8 September "
@@ -382,17 +398,23 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "genuine opportunity to influence the outcome before a final decision. The remuneration correction "
    "was returned across four fortnights to the only person able to make it and is recorded as Part "
    "Completed. The fatigue enquiry drew no response for 23 days.", PLD),
- P("<b>6. &nbsp;<i>Delaney</i>.</b> A global evaluation is an evaluation of management actions. It "
-   "cannot absorb a causative factor that is not management action.", PLD),
- P("<b>7. &nbsp;<i>Mahaffey</i>.</b> A single unreasonable stressor suffices. The rostering of the "
-   "shifts of 17 and 18 March 2024 is found by the Respondent's own decision to have amounted to "
-   "unreasonable management action.", PLD),
- P("<b>8. &nbsp;The effect of the admissions.</b> The Respondent states that an admission of a "
-   "document is an admission of existence and wording only. That is accepted, and does not reach four "
-   "classes of admitted fact relied on: what the statement of facts and contentions does not allege; "
-   "what the List of Documents does not list; computed intervals of time; and the identity of the "
-   "recipients of a communication. The Respondent has not identified any admitted fact it contends is "
-   "irrelevant.", PLD),
+ P("<b>6. &nbsp;<i>Delaney</i>.</b> Where multiple management actions form a course of conduct, "
+   "their reasonableness may be evaluated in context and as a whole. That evaluation must "
+   "nevertheless first identify the circumstances that constitute management action. Operational "
+   "conditions that are not management action do not become management action merely because they "
+   "occurred alongside management decisions.", PLD),
+ P("<b>7. &nbsp;<i>Mahaffey</i>.</b> The presence of reasonable management action among the "
+   "circumstances contributing to an injury does not necessarily enliven the exclusion where an "
+   "unreasonable management action, or a circumstance that is not management action, also had a "
+   "sufficient causal connection to the disorder. The rostering of the shifts on 17 and 18 March "
+   "2024 was found in the review decision to constitute unreasonable management action. The "
+   "Appellant relies upon the medical and contemporaneous evidence to establish its contribution as "
+   "part of the pleaded course of causative circumstances.", PLD),
+ P("<b>8. &nbsp;The effect of the admissions.</b> The admissions are made for this proceeding "
+   "under rule 49 and are relied upon as evidence of the existence and terms of the documents "
+   "admitted, and of the matters the Respondent's statement of facts and contentions and List of "
+   "Documents do not contain. The Appellant does not contend that any admission determines the "
+   "reasonableness of any conduct; that is a matter for the Commission.", PLD),
  P("<b>9. &nbsp;The hearing de novo.</b> The Respondent says no finding in Review Decision 69983 "
    "binds the Commission. That is accepted, and it applies to the whole of the decision. The "
    "conclusion under appeal is a conclusion of that decision, reached upon the findings recorded in "
