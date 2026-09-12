@@ -529,8 +529,31 @@ s += q([299,171,172,173,174,175])
 
 s += [P("<b>S3.4 &nbsp;The shifts of 17 and 18 March 2024.</b> The Appellant was rostered to finish "
    "at 23:00 on 17 March 2024 and to commence at 06:00 on 18 March 2024, a break of seven hours. The "
-   "shift commencing on 18 March fell on a Monday. The Respondent does not allege that those "
-   "consecutive shifts arose from a staff-initiated shift swap.", SUBP)]
+   "shift commencing on 18 March fell on a Monday, the first shift of the working week. The "
+   "Respondent does not allege that those consecutive shifts arose from a staff-initiated shift "
+   "swap.", SUBP),
+ P("<b>S3.4A &nbsp;The rest actually available between those shifts.</b> The seven-hour figure is "
+   "the interval between the rostered finish and the rostered commencement. It is not the rest that "
+   "was available. The review decision records the Appellant's response of 9 August 2024 as stating "
+   "that the break \"did not include travel time\", and: \"If you factored in travel time, your break "
+   "between shifts would have been less than 5 hours.\"", SUBP),
+ P("The shift of 17 March 2024 was a late shift, concluding at 23:00. <b>A late shift does not "
+   "shorten the day that precedes it.</b> The Appellant had been awake throughout that day before "
+   "commencing it, and the period of wakefulness is accordingly not measured from the commencement "
+   "of the shift but from waking that morning. The Appellant will give evidence that from waking on "
+   "the morning of 17 March 2024 to the conclusion of the shift at 23:00 was approximately sixteen "
+   "hours; that he then travelled home, obtained approximately four hours of sleep, and travelled "
+   "back to commence the first shift of the working week at 06:00 on 18 March 2024; and that the two "
+   "shifts and the journeys between and about them required approximately four hours of travel in "
+   "total. He will give evidence of where he lived and of the distance and travel time each way.", SUBP),
+ P("The Award and the employer's own fatigue policy are directed to the rest opportunity between "
+   "shifts. The emergency duties pleaded at S1.7 and recorded at S3.7 below were performed on the "
+   "shift of 18 March 2024 in that condition.", SUBP)]
+s += q([251])
+s += [P("[⚠ NOT ADMITTED &mdash; the distance, the travel time, the four hours of sleep and the "
+   "sixteen hours of wakefulness are the Appellant's own evidence and are not the subject of any "
+   "paragraph of the notice. Paragraph 251 admits only that the review decision records his "
+   "submission of 9 August 2024 in those terms. To be given orally.]", NOTE)]
 s += q(list(range(17,26))+list(range(224,228))+[234])
 
 s += [P("<b>S3.5 &nbsp;The standard, as admitted.</b> The review decision records that the employer's "
@@ -556,9 +579,18 @@ s += duty([13])
 s += q([232,233])
 
 s += [P("<b>S3.7 &nbsp;The emergency workload carried on those shifts.</b> The emergency workload "
-   "carried on those shifts is recorded in the employer's Emergency Code Register. Those paragraphs "
-   "were not admitted by the Respondent and will be proved by the register and any other admissible "
-   "evidence.", SUBP)]
+   "carried on those shifts is recorded in the employer's Emergency Code Register. For 17 March "
+   "2024 the register records eight entries, including a MET call to Ward 2H Bed 7 at 19:16, a Code "
+   "Blue to the same bed at 19:20 &mdash; four minutes later &mdash; and a further MET call to Ward "
+   "2Q Bed 5 at 21:16, each in the final hours of the shift before the 23:00 finish. For 18 March "
+   "2024 it records a Code Grey at the QAS triage airlock at 8:48, MET calls to Ward 6A Bed 8 at "
+   "9:20 and Ward 3DR Bed 14 at 11:31, a cancelled MET call to the same bed one minute later at "
+   "11:32, a neonatal MET call to Theatre 2 at 11:35 and a neonatal MET call to Birth Suites 5 at "
+   "13:09; six of the entries for that day bear times between 6:00 and 14:00, and so fall within "
+   "the shift commenced at 06:00 after the rest pleaded at S3.4A. For 19 March 2024 it records a "
+   "MET call to Ward 2I Bed 20 at 11:34 with the notation that it was called via switchboard. Those "
+   "paragraphs were not admitted by the Respondent and will be proved by the register and any other "
+   "admissible evidence.", SUBP)]
 s += q([228,229,230,231])
 s += [P("[TO BE ADMITTED &mdash; the 2024 Emergency Code Register, a Metro South Hospital and Health "
    "Service workbook kept at Logan Hospital Switchboard, produced at Tab 31. Production was requested "
@@ -589,7 +621,7 @@ s += [P("<b>S3.9 &nbsp;The enquiry of 8 April 2024, the delay, and the refusal o
    "the employer's response did not mention the shift of 18 March 2024; and that there was "
    "uncertainty between the Appellant and the employer as to whether the 8-hour agreement continued "
    "to apply.", SUBP)]
-s += q(list(range(242,255)))
+s += q([n for n in range(242,255) if n != 251])
 
 s += [P("<b>S3.10 &nbsp;The employer's own fatigue policy.</b> The review decision records that the "
    "policy regarding fatigue leave following weekends and rostered days off is dated June 2020, and "
