@@ -37,6 +37,35 @@ Long turns and question-answer exchanges are reliable. The residual errors are c
 one- and two-word interjections and in overlapping speech. ⛔ **Order the certified transcript
 before any passage is quoted externally.**
 
+## ⛔ SPEAKER CORRECTIONS APPLIED — 12 SEPTEMBER 2026
+The Viterbi assignment below is **inferential** and its known failure mode is a short acknowledgement
+inside a long run: the diariser gives the backchannel to whoever holds the floor. Eleven segments were
+re-examined; **ten are corrected**, one is confirmed as originally labelled. Corrections are listed here
+rather than rewritten into the body so that the original machine output remains auditable.
+
+| Seg | Time | Labelled | **Corrected to** | Basis | Confidence |
+|---|---|---|---|---|---|
+| **437** | 30:13 | DWYER IC | **MR SHEPHERD** | *"Yeah, I actually understand what you're getting at."* Spliced into the middle of one Dwyer sentence that runs 432→436→438→439 (*"…at the other end of the table. … If we can't get to that,"*). **Confirmed first-hand by the Appellant, who was present.** | **Certain** |
+| 440 | 30:19 | DWYER IC | **MR SHEPHERD** | *"Yeah."* Bare backchannel inside the same 471-word run | High |
+| 620 | 40:28 | DWYER IC | **MR SHEPHERD** | *"Yes."* answers *"Is it in the form of an email? Yes or no?"* — the bench does not ask and answer, then ask again | High |
+| 673 | 42:59 | DWYER IC | **MR SHEPHERD** | *"Yeah."* interrupts Dwyer's own sentence (*"…put to Ms. Taylor … and you don't need any other documents"*) | High |
+| 792 | 49:53 | DWYER IC | **MR SHEPHERD** | *"Yeah."* answers *"So they didn't have coverage of that workplace?"* | High |
+| 623 | 40:30 | MR SHEPHERD | **DWYER IC** | *"All right."* acknowledges the Appellant's *"No, I do not."* immediately before the bench turns to Ms Matheson | High |
+| 1008 | 61:37 | MR SHEPHERD | **MS MATHESON** | *"No."* answers *"Have I misrepresented your role in the matter or placed a burden on you that you're not prepared to accept?"* — a question addressed to Ms Matheson | High |
+| 1009 | 61:38 | MR SHEPHERD | **DWYER IC** | *"All right."* immediately precedes *"And Ms. Rutland, any?"* | High |
+| 627 | 40:36 | MR SHEPHERD | **MS MATHESON** | *"I do believe we have those"* — answers *"Ms. Matheson, have you got that email?"*; seg 626 is already hers | High |
+| 628 | 40:41 | MR SHEPHERD | **MS MATHESON** | *"and I do believe we've disclosed them."* — **"we've disclosed them" is the Regulator's voice** | High |
+| 231–232 | 17:45 | SHEPHERD / DWYER | **one speaker, probably MS MATHESON** | *"There has been some emails to involve the quality of the staff, but I have to probably / consider that."* is **a single clause split across two labels** and cannot be two people. It answers a question put to Ms Matheson | ⚠ Uncertain |
+| 908 | 55:53 | DWYER IC | **no change** | *"Okay."* is the bench's own marker between pleaded items he is reading aloud — the same *"Okay. All right."* pattern he uses throughout | Confirmed |
+
+**Effect on the share table below:** Ms Matheson spoke at least **six** times, not three; the Appellant's
+count rises by four short turns and falls by four; the Commissioner's share is overstated by roughly
+30 words. The 86% / 14% split is not materially altered.
+
+⚠ **The substantive analysis is unaffected**: no conflict was found between content markers and speaker
+labels on any long turn (0 of 1,068 segments). Every correction is in a turn of ten words or fewer, except
+627–628.
+
 ## SPEAKING SHARE
 | Speaker | Segments | Talk time | Share |
 |---|---|---|---|
