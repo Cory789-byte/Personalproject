@@ -969,7 +969,7 @@ register of answering rather than building; the Appellant answered 98 times.
 
 **28.6 ⭐⭐ Strength in the box, liability in submissions.** Eight-word declaratives are checkable,
 hard to mischaracterise and hard to trap — the opposite of the vocabulary the bench spent nine
-repetitions dismantling (§25.5). But a tribunal reasons in long units. **29:17** is the proof: nine
+repetitions dismantling (§25.5). But the load is not parsing, it is **integration**. **29:17** is the proof: nine
 propositions in under thirty seconds, every one now an admitted fact or supported by one, and no
 connective tissue — no *which is why the emergency response was delayed*, no *and that is a condition
 of the work, not a decision taken against me*. The bench had to do the joining, did not, and after
@@ -979,3 +979,26 @@ of the work, not a decision taken against me*. The bench had to do the joining, 
 cannot be lost: one connective sentence after a dense run, or a document whose layout does the
 linking. That is the design principle behind the role and stressor overlays — duty above, failure
 below, the join made by the page rather than by the listener.
+
+**28.7 ⛔ CORRECTION TO 28.6 — it is not a register mismatch with the bench.** It was first written
+that the difficulty arises because "a tribunal reasons in long units." That is wrong, and the
+Appellant identified why. **Speech rate is normal — 2.90 w/s against 2.95.** Nobody in the room was
+speaking fast. What is fast is the **information rate**, and the two men are hard to follow in
+different places:
+
+| | parsing load | linking load |
+|---|---|---|
+| DWYER | **high** — 15-word units, 0.91 subordinators each | **low** — the subordinators state the relations; floor markers flag every turn |
+| SHEPHERD | **low** — 9-word declaratives, little embedding | **high** — a proposition every 3.26 s, 0.55 subordinators per unit, relations unstated |
+
+⇒ Short sentences are easy to parse and easy to mistake for easy. The listener must **store and
+infer** at 1.6× the rate, with the relations left implicit — and **inferring an unstated relation
+requires holding the domain**. Another Switchboard operator links *"sent to the wrong side of the
+room" → "not sent to someone having a cardiac arrest"* instantly, because they know what a misrouted
+code page does. A member of the public cannot. A Commissioner cannot. The relation is obvious from
+inside the console and invisible from outside it.
+
+⇒ ⭐⭐⭐ **The deficit is stated relations, not pace and not sentence length.** Both of those are
+already correct and changing either would cost the witness his strengths. One connective per dense
+run — *because*, *so*, *which means* — converts the same nine propositions into a chain, and costs
+about a second.
