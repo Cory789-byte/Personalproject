@@ -15,7 +15,7 @@ S1 = [
   "current information.", [7]),
  ("That duty is the duty by reference to which each of (b) to (h) below is pleaded.", []),
 ]),
-("b", "The removal of the means of performing that duty, 18 July 2023", [], [
+("b", "The removal of the means of performing that duty, 18 July 2023, and how long it lasted", [], [
  ("On 18 July 2023 at 12:56 pm the Switchboard Telecommunications Coordinator wrote to the Appellant "
   "and the Switchboard team explaining that her role was a temporary project role focused on fixing "
   "the database.", [39]),
@@ -26,6 +26,32 @@ S1 = [
  ("The Respondent’s own review decision records the same matters.", [46, 47, 48]),
  ("The Respondent does not allege that access to the database was restored to the Appellant at any "
   "time before 18 June 2024.", [55]),
+ ("<b>The removal of access was stated to be for the duration of a temporary role.</b> The email of "
+  "18 July 2023 states in terms: “My current role is a project role for the Switchboard team. It "
+  "is a temporary position that predominantly focuses on fixing up the database that switchboard "
+  "utilises.” The removal of access was expressed to run with that work &mdash; “While I am "
+  "fixing up the database and all of its entries, I will be removing everyone’s access to the "
+  "database.” The decision under appeal records the same thing: the role was “a project role, "
+  "which was a temporary position that focused on fixing the database used by the switchboard”.", [39, 40, 47]),
+ ("<b>The role was still operating nine months later, and had been extended.</b> The email of "
+  "15 April 2024 states: “You will see that Ellen and myself have added Afterhours on call, the "
+  "days that are highlighted in purple show who is on call after hours.”", [52]),
+ ("On 13 May 2024 at 4:29 pm the Coordinator herself circulated the Switchboard after-hours on-call "
+  "roster for the fortnight 13 to 26 May 2024, stating that she was on call after hours for "
+  "Switchboard from that day.", [111, 112]),
+ ("<b>The Respondent does not allege that the project described in the email of 18 July 2023 was "
+  "completed, or that the temporary role described in it ceased, at any time before 18 June 2024.</b> "
+  "The Respondent’s amended statement of facts and contentions dated 13 May 2026, as presently "
+  "constituted, makes no reference to that role, to that project, to the database, or to database "
+  "access.", [-1]),
+ ("<b>The duration.</b> The period from 18 July 2023 to 18 June 2024 is eleven months, being "
+  "336 days. The matters pleaded at (e) to (h) below all fall within it. Throughout it the duty at "
+  "(a) remained on the position and the means of performing it remained with others.", [55]),
+ ("<b>The Appellant does not allege that the role was converted into a permanent position, and makes "
+  "no allegation about how any person came to hold it.</b> What is pleaded is the duration: an "
+  "arrangement introduced as temporary, and a removal of access expressed to last only while the "
+  "database was being fixed, subsisted for the whole of the period in which the matters at (g) and "
+  "(h) occurred.", []),
  ("The duty at (a) remained on the position throughout that period.", []),
 ]),
 ("c", "The repair path, and its availability", [], [

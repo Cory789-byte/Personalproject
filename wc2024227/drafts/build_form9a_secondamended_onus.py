@@ -414,8 +414,8 @@ s += [P("PART C &mdash; CONTENTIONS", PART),
    "alleged to have been amended (Stressor 1(h)); and (iv) complaints arriving at the console were, on the "
    "employer's own statement, managed solely by email or verbally with the complainant, with no "
    "consequential change to operating procedures (Stressor 1(p)). One decision was taken, on 18 July 2023, "
-   "for a stated project reason. What followed is the condition of the system, and the exclusion in "
-   "subsection (5) does not reach it.", PLD),
+   "for a stated reason that was expressly temporary &mdash; a project role fixing the database, with access "
+   "removed <i>while</i> that work was done. The Respondent does not allege that the project was completed, that the role ceased, or that access was restored, at any time before 18 June 2024, and the Coordinator was still circulating the Switchboard on-call roster in May 2024. What followed the decision is therefore not the decision but the condition it left in place for eleven months, and the exclusion in subsection (5) does not reach it.", PLD),
  P("<b>5. &nbsp;Section 32(5)(a), second limb &mdash; where the circumstances are management action, "
    "it was not taken in a reasonable way.</b> If and to the extent that the following are management "
    "action: (i) the change notified on 15 April 2024 was effective the day it was notified, with no "
