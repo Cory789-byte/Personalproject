@@ -247,3 +247,138 @@ before he gives evidence: after a strong answer, STOP. Do not reassure the room.
 not proof.** ⭐⭐⭐ **Play `29:45`–`30:20` of the audio and listen for the voice at `30:12.98`.**
 ⭐⭐ **If confirmed, correct the attribution in `MENTION_7AUG2026_segments.jsonl` and re-run the
 speaker statistics** — 8 words move from one column to the other and nothing else changes.
+
+---
+
+# 8. THE 5.74 SECONDS — what a silence of that length is
+
+## 8.1 The measurement
+
+| | |
+|---|---|
+| Passage ends (seg 429, *"…by their numbers"*) | `29:37.28` → `29:39.88` |
+| Next speech begins (seg 430, DWYER IC) | `29:45.62` |
+| **Silence** | **5.74 s** |
+
+Baselines from this hearing's own 1,067 inter-segment intervals:
+
+| Measure | Value |
+|---|---|
+| Median gap, all segments | **0.02 s** |
+| Median gap at a **change of speaker** (n=204) | **0.34 s** |
+| Median gap, **Shepherd → Dwyer** (n=100) | **0.36 s** |
+| Mean, Shepherd → Dwyer | 1.03 s |
+| **5.74 s as a multiple of that median** | **≈ 16×** |
+| Rank among all 204 speaker-transition gaps | **3rd of 204** |
+| Gaps ≥ 2.0 s in the whole hearing | 40 of 1,067 (3.7%) |
+
+## 8.2 ⭐⭐⭐ WHY THE RANK MATTERS MORE THAN THE NUMBER
+
+The two transition gaps longer than this one are **both document searches**, and both follow
+Cory reading annexure references aloud:
+
+- **25.58 s** — after seg 356, *"A. Yeah, A to A, which is on form 29."* → *"This is the Form 29 file…"*
+- **15.80 s** — after seg 360, *"A, B, C, D, E, which is number 10."* → *"manager email filters"*
+
+Every other long silence in the hearing sits in the same stretch — `21:16`–`26:40`, the paper
+hunt (16.82 s, 16.02 s, 10.38 s, 8.38 s). **Nine of the forty gaps ≥ 2 s fall in those five
+minutes.** The next one down, 4.14 s after Cory's *"Anyway."* (seg 509), is Dwyer finding his
+place to read the next pleaded stressor aloud.
+
+⭐⭐⭐ **So: 5.74 s is the longest silence in the entire 64 minutes that was not somebody looking
+for a piece of paper. It is the longest gap in the hearing caused by something that was said.**
+
+## 8.3 What the silence was longer than
+
+Ms Matheson spoke three times in 64 minutes:
+
+| Seg | Time | Duration | gap in | Words |
+|---|---|---|---|---|
+| 229 | `17:35.36` | 2.76 s | 0.34 s | *"Yes, Commissioner. We've disclosed all we have currently."* |
+| 318 | `22:29.58` | 0.96 s | 0.38 s | *"Only just now."* |
+| 626 | `40:36.74` | 3.54 s | 0.90 s | *"The request for conducting an email,"* |
+| | | **7.26 s total** | | **17 words** |
+
+**The silence after the patient-safety passage ran longer than anything the Regulator's
+representative said in the whole hearing, and 79% as long as everything she said put together.**
+Her own three gaps-in are 0.34, 0.38, 0.90 — she never once left a pause. She was in the room for
+the 22 seconds and the 5.74, and did not speak.
+
+Nor did Cory. He had a 5.74-second floor and did not take it — consistent with §6: he finished
+the passage and stopped.
+
+## 8.4 ⭐⭐ WHAT A 5.74-SECOND SILENCE *IS* — the mechanics
+
+*(Findings below are from the conversation-analysis literature, held from knowledge. Verify to
+source before any of it goes on paper — see the standing rule. The numbers in §§8.1–8.3 are from
+the transcript and stand on their own.)*
+
+1. **Ordinary transition is ~0.2 s.** Cross-linguistically, speakers change turns with a gap
+   around 200 ms — faster than the ~600 ms it takes to plan a spoken word. Listeners therefore
+   predict the end of a turn and launch their own before it arrives. This hearing's 0.34 s median
+   is squarely in that range. **Turn-taking is not a polite convention; it is a prediction
+   machine, and it runs almost without error.**
+2. **~1.0 s is the standard maximum silence.** Past about a second, a gap stops being a gap and
+   becomes *noticeable* — the machine has visibly failed, and one of the parties normally repairs
+   it (repeats, rephrases, prompts).
+3. **At ~4 s the silence becomes attributable.** Everyone in the room assigns it to someone. It
+   stops being an absence and becomes an event with an author.
+4. **Delay is the marker of a dispreferred response.** Agreement, acceptance and affiliation come
+   fast and unmarked. Disagreement, refusal and non-affiliation come **delayed, prefaced, and
+   accounted for** — that is the canonical three-part shape.
+
+⭐⭐⭐ **All three components are present here, in order:**
+
+| Component | Where |
+|---|---|
+| **Delay** | 5.74 s |
+| **Preface** | *"It's going to move on for a moment, okay?"* |
+| **Account** | *"Because after my speech about efficiency of conduct of proceedings, I'm concerned at the direction this is going in, Mr Shepherd."* |
+
+Then the disfluency cluster — *"a different approach or or a more practical approach, or a more
+cohesive and cooperative approach"* — three restarts in eleven words, against a speaker whose
+baseline is fluent, subordinating, 170 wpm.
+
+## 8.5 ⭐⭐⭐ THE FINDING
+
+**The 5.74 seconds is the only response the patient-safety passage ever received.**
+
+Nothing in the following 34 minutes returns to it. No question about the numbers, the emergency
+line, the wrong side of the room, the cardiac arrest, the respiratory distress. The turn that
+followed the silence is not an answer to the passage — it is a turn that **declines to take it
+up**, delayed, prefaced and accounted for in the textbook order, and ends four segments later at
+*"I'm going to schedule this disclosure dispute for a hearing."*
+
+**The content was converted into a procedural direction without ever being addressed.** That is
+what the silence did.
+
+And with §7's re-attribution, the sentence that would have been the acknowledgement —
+*"Yeah, I actually understand what you're getting at"* — is **Cory's own**, spoken *into* the
+Commissioner's turn, 33 seconds after his own passage went unanswered. He supplied the
+acknowledgement himself, to the person who had not given it.
+
+## 8.6 ⚠ THE ONE CONFOUND
+
+The transcript records no speech in the 5.74 s. ASR of this type can drop a very quiet utterance —
+a *"Mmm"*, a *"Right"*, a throat-clear. **If anything was said there, it was said below the level
+that carried to the recorder, which is itself the point, but the duration would need restating.**
+⭐⭐ **Play `29:37`–`29:46`.** Same listening pass as the §7.5 check at `30:12.98` — one sitting,
+both questions.
+
+## 8.7 What this is worth, and what it is not
+
+**Worth:** it is measurable, it is in the machine-generated timings rather than in anybody's
+recollection, it does not depend on the diarisation (neither speaker is in doubt across this
+boundary), and it establishes a **sequence**: passage → 5.74 s → express refusal to engage →
+procedural direction.
+
+**Not worth:** it proves nothing about what Commissioner Dwyer thought, intended or felt, and it
+never will. ⛔ **State the sequence. Never state the state of mind.** The moment this is offered as
+evidence of an attitude it becomes an attack on a decision-maker and it is worthless — worse than
+worthless.
+
+⭐⭐ **Where it actually earns its keep: nowhere on paper. It is a briefing note to Cory about the
+room.** The passage worked. It was 64 words, 175 wpm, 54 of 64 words at p=1.00, and it produced
+the longest content-caused silence of the hearing. **That is what a good answer sounds like, and
+what a good answer does. The error was afterwards — filling the room's silence with his own
+reassurance.** After a strong answer: stop. Let the silence be theirs.
