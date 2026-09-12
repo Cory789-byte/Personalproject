@@ -676,3 +676,55 @@ these emails"* — the consequence must come **in the very next breath**, not af
 *"No. The consequence was that a MET call went to the wrong ward."* One sentence, immediately.
 ⭐ And note what he did when stopped: **seg 437 — he took the correction instantly and said so.** That is a
 credit point and it is in the transcript.
+
+---
+
+## 24. ⭐⭐⭐ HOW MANY THREADS EACH MAN HOLDS IN ONE SPEAKING MOMENT — AND THE INVERSION
+> 12 September 2026. Clause counts over 171 turns of 3+ words, **with the §23 corrections applied.**
+> A "thread" = one clause, i.e. one proposition the listener must hold open. Counted on clause markers
+> and terminal punctuation. ⚠ Whisper punctuation is automatic, so treat the absolute numbers as
+> comparative, not exact. The *ratios* are robust.
+
+### 24.1 Per turn — Dwyer holds twice as many
+| | Dwyer | Shepherd |
+|---|---|---|
+| Words per turn | 86.1 | 17.3 |
+| **Clauses per turn, median** | **8** | **4** |
+| p75 / p90 / max | 20 / 37 / **132** | 6 / 9 / **27** |
+| Turns carrying 8+ clauses | **54%** | 15% |
+| Turns ending unresolved (no terminal stop) | 14% | **22%** |
+| Distinct referents per turn (max) | 1.8 (7) | 0.5 (3) |
+
+### 24.2 ⭐⭐⭐ PER WORD AND PER SECOND, IT REVERSES — AND THIS IS THE FINDING
+| | Dwyer | Shepherd |
+|---|---|---|
+| **Words per clause** | **5.44** | **3.35** |
+| **Clauses per 100 words** | 18.4 | **29.8** |
+| **Seconds per proposition** | **2.09 s** | **1.25 s** |
+| **Propositions per 10 seconds** | **4.8** | **8.0** |
+⇒ **The Appellant is not holding fewer ideas. He is holding them 62% more densely and delivering them
+67% faster.** Both men articulate at the same speed (§21.3, 2.94 v 2.98 w/s) — so this is not talking
+faster. **The same number of words is carrying nearly twice as many separate ideas.**
+
+### 24.3 What that does to context and comprehension
+A listener builds context by holding one proposition open long enough to attach the next to it.
+**At 2.09 s per proposition there is room to do that. At 1.25 s there is not.**
+And at **3.35 words per clause** there is barely room to name a thing and predicate something of it —
+**no room left for the connective that says how it relates to the one before.** Hence the coordinator
+surplus (§21.4): *"and… and… but…"* signals *another one* without saying *how it fits*.
+⇒ **The bench receives a fast list and has to build the structure itself.** That is exactly why Dwyer's
+method is to restate and invite correction (§16) — *"Is that what you're saying?"* He is reconstructing
+the frame the speech did not supply.
+⇒ It also explains §21.5. **At 3.35 words you get the abstraction or the instance, not both.** He gives
+the instance, because it is the half that carries the content.
+⇒ And it is precisely what Dwyer complained of: *"my brain doesn't process it… I miss the point."*
+**His objection was density, not volume.**
+
+### 24.4 ⚠ THIS REFINES RULE 2 OF §5 — AND PARTLY CORRECTS IT
+§5 Rule 2 says *"Short flat sentences joined by full stops."* ⚠ **His clauses are already short — 3.35
+words, 38% shorter than the bench's.** Read as "say more, shorter things", Rule 2 makes the problem worse.
+⭐ **The correct rule is the opposite of what it appears to be: FEWER propositions, each LONGER and
+complete, with a pause between.** Target the bench's own shape — **about 5.5 words per clause, one new
+idea every 2 seconds.** Not faster, not shorter. **Slower arrival, fuller units.**
+⇒ **Practical test in the box: if you have said three separate things and not yet stopped, you have
+already passed the point at which he is building the structure for you.** Stop. Let him ask.
