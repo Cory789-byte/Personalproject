@@ -922,3 +922,60 @@ move on spotting it is one sentence:
 That converts twelve minutes of catching up into a single question, and puts the party in front of
 the redirect instead of behind it. ⭐ **Watch the question rate in the first tenth. Zero means the
 frame is already set.**
+
+---
+
+## 28. ⭐⭐⭐ THE DENSITY INVERSION, MEASURED PROPERLY — AND A CORRECTION TO §24
+
+> 12 September 2026. Recomputed from `/tmp` segment data with speaker labels reconstructed from the
+> corrected transcript. Unit = split on terminal punctuation and on comma + coordinator; units of
+> fewer than two words discarded. Absolute values are method-dependent; the ratios are not.
+
+**28.1 Subordination per word is identical.** DWYER **6.01** subordinators per 100 words; SHEPHERD
+**6.09**. ⇒ Neither man's speech is more grammatically complex per word. Any explanation resting on
+"the bench speaks in more complex sentences" is wrong.
+
+**28.2 ⭐ But per unit the bench subordinates 1.65× as much.**
+
+| | words/unit | subordinators per unit |
+|---|---|---|
+| DWYER | 15.07 | **0.91** |
+| SHEPHERD | 9.11 | **0.55** |
+
+His typical unit is built around a subordinate clause — *"the way in which you prove this, if you
+were going to prove this, is you would give evidence…"* The Appellant's are mostly simple
+declaratives in sequence. ⇒ The difference is **packaging, not complexity**.
+
+**28.3 ⛔ About a third of the raw gap is a turn-length artefact.** Mean segment length: DWYER 9.8
+words, SHEPHERD 6.1. Short turns force short units. Controlling for it — segments of ≤10 words only,
+where most of both men's words sit:
+
+| | words/unit | subordinators/100w |
+|---|---|---|
+| DWYER short segments | 11.71 | 5.83 |
+| SHEPHERD short segments | 8.05 | 5.87 |
+
+Gap falls from 1.65× to **1.45×**. Real, but smaller than the raw figure. The Appellant has **no
+segment of 25 words or more in the entire hearing**.
+
+**28.4 ⛔ CORRECTION TO §24.** The propositional rate advantage is **~1.6×, not 2×**. At equal
+articulation (2.90 v 2.95 w/s) the Appellant delivers a unit every **3.26 s** against the bench's
+**5.14 s**. §24's 1.25 s v 2.09 s is the same ratio; any statement of "twice as much" overstates it.
+
+**28.5 What it is.** Short declarative units, one fact each, minimal embedding, normal speed — the
+register of **operational communication**: switchboard, dispatch, clinical handover, radio. Long
+subordinated units fail under noise and interruption, so that register drops them. It is also the
+register of answering rather than building; the Appellant answered 98 times.
+
+**28.6 ⭐⭐ Strength in the box, liability in submissions.** Eight-word declaratives are checkable,
+hard to mischaracterise and hard to trap — the opposite of the vocabulary the bench spent nine
+repetitions dismantling (§25.5). But a tribunal reasons in long units. **29:17** is the proof: nine
+propositions in under thirty seconds, every one now an admitted fact or supported by one, and no
+connective tissue — no *which is why the emergency response was delayed*, no *and that is a condition
+of the work, not a decision taken against me*. The bench had to do the joining, did not, and after
+5.74 s moved on (§22, §26.6).
+
+⇒ ⭐⭐⭐ **Do not slow the delivery — it is what makes him a good witness.** Put the joining where it
+cannot be lost: one connective sentence after a dense run, or a document whose layout does the
+linking. That is the design principle behind the role and stressor overlays — duty above, failure
+below, the join made by the page rather than by the listener.
