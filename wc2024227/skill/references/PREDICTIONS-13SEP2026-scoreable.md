@@ -697,3 +697,39 @@ pleadings and admissions were exchanged.
   contested phase. Equality of arms is not an argument to make; it is a fact to state.
 - ⭐ **New leading indicator, replacing the old one:** an appearance email naming Willson (or other
   counsel) for the conference or hearing. That is the signal that the hearing phase has begun.
+
+### E14 · The one-day turnaround is itself the signal (Cory, 13 Sep)
+
+**The facts:** counsel has been on the file since February (E13). On 9 September two considered
+letters arrived — the footing letter and the request — with the outlines, the medical schedule and
+the Registry letter. The request set **Friday 18 September**. The footing letter set **Friday
+11 September** for objection. **At 14:42 on 10 September — one day later — the reply was a request
+for 25 September.**
+
+**What they could have done instead, and did not:**
+
+| Option | Cost | Taken? |
+|---|---|---|
+| **Hold the 8 September position** — "the documents are not admitted; seek them from MSH" | ⭐ **instant and free** — one line, consistent with the response of two days earlier | **No** |
+| Answer on the 17th or 18th, inside the time set | none | No |
+| Ask for an extension on the 16th, when time was actually short | none | No |
+| Say nothing until the 18th | none | No |
+| **Ask on day one for the last Friday before their own deadline** | commits them to a "review" | ⭐ **Yes** |
+
+⇒ **Two things follow, and both are structural rather than inferred about anyone's mind:**
+
+1. **Holding the line was the fastest and cheapest move, and they did not make it.** Asking for
+   time to "review" is already a step off the 8 September position. If the intention were to
+   maintain the authenticity disputes, the one-day reply would have said so. **The extension is the
+   first visible movement away from the response of two days earlier.**
+
+2. **Asking on day one means the decision that the answer needs the full window was made on
+   reading.** With counsel already knowing the file, nothing in the *facts* needed fifteen days.
+   What needed the window was the **re-plan** — how the whole matter is now to be run against the
+   package — and the 25th is simply the last day available before their own 30 September deadline
+   (E6). **One day + the maximum Friday = a file being re-planned, not administered.**
+
+**Effects:** E10 (the thirteen conceded) and E11 (answer aligned with the 30th) both **firm**.
+"Some answer before 25 September" **falls** to ~15% — a party that asks on day one for the last
+available day intends to use it. And the reading of the 25th letter stands: read it as the
+approved, aligned position it will be.
