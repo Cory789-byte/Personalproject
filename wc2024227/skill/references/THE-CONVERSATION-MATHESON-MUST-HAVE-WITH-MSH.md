@@ -187,3 +187,36 @@ there** — which means part of the work this analysis has been chasing was done
 
 The 9A remains worth serving this week for the other three reasons, and it is the document that
 makes the record legible. But the *footing* has already reached her, and cannot be unreached.
+
+## 9 · Who the re-plan actually reaches — those above the Switchboard (Cory, 13 Sep)
+
+The re-plan on the Regulator's side cannot stay with Ms Taylor. Everything it needs sits above
+her:
+
+| Level | Person | Why the re-plan reaches them |
+|---|---|---|
+| Director | **Ms Reese** | a witness the Regulator needs; the 15 May 6:23 pm email and the 10 May email to HR are hers |
+| Director Corporate Services | **Mr Hughes** | approved the 2026 movement forms (Tabs 17–19, disputed); signed the RFMI; the directorate the Switchboard sits in |
+| Principal Lawyer | **Ms Ruttan** | signed off the 5 June objection; the legal interface for any request to make staff available |
+| Director, Employment Relations | **Ms Griffin** | on the Commission's distribution list for every listing; forwarded MSH correspondence to the Registry 30 Apr 2026 |
+| Executive Director | **Mr Thorburn** | on the distribution list |
+| Chief Executive | **Ms Cridland** | signed the 5 June objection to the Commission |
+
+⭐ **And this is where Ms Conaghan lands.** A serving Switchboard officer on the Appellant's list,
+saying no consultation and no ballot, is not a matter for her line manager. It is a matter for the
+directorate and for Employment Relations — the same people who must authorise Taylor and Reese
+being made available.
+
+### ⚠ A distinction to keep straight
+The Registry sends **its own listings and orders** to the distribution list (Griffin, Thorburn,
+Ruttan, Tribunal Matters). It does **not** forward a party's filings. So the witness list and
+Registry letter of 9 September did not reach MSH through the Registry. **MSH above the Switchboard
+learns of Conaghan, and of the attendance-notice intention, when the Regulator goes to it for
+witnesses** — in the week of 21–25 September, on the reading at E9–E11. Until then, the only MSH
+knowledge established from the Commission's own records is of the **timetable** (FDO(3) of
+19 August, distributed).
+
+⇒ Which means the MSH re-plan is **one step behind** the Regulator's: the Regulator saw the package
+on the 9th; MSH's directorate sees it when asked for witnesses. **The 25th letter and the 30th
+filing are the Regulator's; MSH's own reaction to a serving employee on the other side comes after
+that** — and it is the part of this that neither the Appellant nor the Regulator controls.
