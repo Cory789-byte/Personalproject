@@ -511,3 +511,58 @@ under Guide Part 6 come only after hearing dates are set.
 
 ⭐ **The single highest-value act available to the Appellant is not chasing documents. It is getting
 the matter listed on 1 October.**
+
+### E9 · ⭐⭐⭐ The request and the outlines are the SAME work (Cory, 13 Sep)
+
+This is the point the earlier entries kept circling. **The documents whose authenticity she disputed
+are the documents her witnesses' outlines will be built from.** They are not competing tasks in the
+same week. They are one task.
+
+| Tab | Document | Whose document it is |
+|---|---|---|
+| 5 | 27 Sep 2023, "Approved – Permanent Full Time FTE" | ⭐ **Chloe Taylor's own email** |
+| 6 | 15 Apr 2024, "Afterhours Oncall Process" | ⭐ **Chloe Taylor's own email** |
+| 30 | 23 Aug 2023, "What's Chloe's Hours?!" | ⭐ **Chloe Taylor's own email** |
+| 30A | 18 Jun 2024, "Good morning Team." | ⭐ **Chloe Taylor's own email** |
+| 21 | 7 Jul 2026 | Ms Forrest's own email |
+| 22, 23 | Consultation Paper and outcome | the roster consultation Taylor ran |
+| 1 | AO3 role description | MSH HR; describes the reporting line to Taylor |
+| 17–19 | movement forms 2026 | MSH; approved by Mr Hughes as delegate |
+| 20 | MSH → Commissioner Dwyer | the Commission's file |
+| **31** | **Emergency Code Register** | ⛔ **the only one requiring an actual search** |
+
+**Ten of the eleven are verifiable either from her own file or by a person confirming their own
+document.** Four of them are Taylor's own emails.
+
+⇒ **When she drafts an outline of Taylor's evidence in the week of 21–25 September, Taylor will be
+reading her own correspondence. Confirming "yes, I sent that" is the first thing any conference
+does. The authenticity of Tabs 5, 6, 30 and 30A is settled as a by-product of the work she has to
+do anyway.**
+
+That is why 25 September and not 30: the answer falls out of the outline work, and it falls out
+*before* the outlines are finalised.
+
+### ⭐⭐ The testable read this produces
+
+Her 25 September answer is no longer merely a **signal** of the 30 September list. It is a
+**by-product** of drafting it. Which gives a specific, checkable inference on four named tabs:
+
+| What comes back on 25 Sep | What it means about the 30 Sep list |
+|---|---|
+| authenticity conceded on **Tabs 5, 6, 30, 30A** | she has been through Taylor's own correspondence with her ⇒ **Taylor is being prepared as a witness** |
+| those four **still disputed** | ⭐ **strong evidence Taylor is NOT being prepared** ⇒ expect her absent from the list, and move on attendance notices |
+
+⇒ **Read Tabs 5, 6, 30 and 30A first when the answer arrives.** They are the tell.
+
+### Effect on the predictions
+- **split or broad concession on 25 September: 55% → 60%** — verification is now a by-product, so
+  conceding costs nothing.
+- **B2 (register not produced by 25 Sep) unchanged at 65%** — Tab 31 is the sole item needing a
+  real search, and MSH's turnaround, not hers, is the constraint.
+- **B4 unchanged at 92%**, but now with a five-day early indicator attached to it.
+
+### ⛔ Do not put this in the letter
+The value here is **predictive, not rhetorical.** Writing "your witness can verify these" probes her
+preparation and crosses the line set at E7. The letter as drafted already reaches the same place by
+a safe route — the request's own schedule records the source of each copy, and says nothing about
+witnesses. **Leave it.**
