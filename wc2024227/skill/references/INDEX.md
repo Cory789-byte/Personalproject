@@ -1,6 +1,6 @@
 # Reference index — generated, do not hand-edit
 > Regenerate: `python3 scripts/build_reference_index.py` from `wc2024227/`.
-> 192 notes. The first blockquote line of each note is its provenance line.
+> 194 notes. The first blockquote line of each note is its provenance line.
 
 ## ⭐ START HERE — state of play and verified record  (6)
 
@@ -388,16 +388,20 @@
 - **`ASSESSMENT-DESIGN-gold-standard.md`** · 4KB — HOW A COMPREHENSIVE PSYCHOSOCIAL + WHS ASSESSMENT WOULD ACTUALLY BE RUN HERE
   <br><sub>⛔ Strategy layer / ready position. The gold-standard methodology to hold against whatever</sub>
 
-## OTHER  (11)
+## OTHER  (13)
 
-- **`PREDICTIONS-13SEP2026-scoreable.md`** · 51KB — Data-driven predictions, 13 September 2026 — written to be scored
+- **`PREDICTIONS-13SEP2026-scoreable.md`** · 61KB — Data-driven predictions, 13 September 2026 — written to be scored
   <br><sub>⭐ **The point of this file is falsifiability.** Each prediction has a date, a stated</sub>
+- **`TAYLOR-AND-REESE-on-the-admitted-record.md`** · 16KB — Taylor and Reese on the admitted record — at odds, aligned, or aligned with the events missing
+  <br><sub>13 September 2026. Every fact number is an **admitted** Form 24 fact (8 Sep 2026 response)</sub>
 - **`SCENARIO-MODEL-13SEP2026.md`** · 15KB — Scenario model — settle, call, or documents alone
   <br><sub>13 September 2026. ⚠ **Branch probabilities are calibrated judgements, not computed</sub>
 - **`THE-CONVERSATION-MATHESON-MUST-HAVE-WITH-MSH.md`** · 13KB — The conversation Matheson has to have with Metro South Health
   <br><sub>13 September 2026 (Cory's point). Sources: the served response of 8 September 2026; the</sub>
 - **`REGULATOR-SIGNALS-the-full-data-set.md`** · 11KB — Regulator signals — the full data set, what each presumes, what each predicts
   <br><sub>13 September 2026, late. Consolidates every Regulator-side observation in the repo into one</sub>
+- **`WHO-THEY-NEED-TO-CALL-to-rebut-the-outlines.md`** · 8KB — Who the Respondent needs to call to rebut the served outlines — topic by topic
+  <br><sub>13 September 2026. Read against the three outlines as served 9 Sep 2026</sub>
 - **`HOW-THE-REGULATOR-CONCEDES.md`** · 7KB — How the Regulator concedes — the mechanism, the trigger, the timing
   <br><sub>13 September 2026. Read from the QIRC Workers' Compensation Appeal Guide (Parts 5 and 10),</sub>
 - **`META-ANALYSIS-13SEP2026-evening.md`** · 7KB — Meta-analysis and model re-run — 13 September 2026, evening
