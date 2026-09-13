@@ -89,3 +89,30 @@ deliberately.
 | **Corroborate Stressor 3(e)** — distance, travel time | removes the softest target in cross-examination |
 | **Prepare him on his own 2024 statements** | the single largest credit risk, and it is entirely preparable |
 | Doctors attending and presenting well | Guide 7.6.5; assumed secured, not yet evidenced in the repo |
+
+---
+
+## ⛔ ADDENDUM, 13 Sep evening — "settles" is the wrong word, and the shape moved
+
+**Guide 5.1: "No commercial settlement is possible."** The branch labelled *settles* means
+**the Respondent concedes**. And the Guide places concession **following a conference**, on
+*"new information … not yet considered"* — so the timing reshaped:
+
+| | morning | **evening** |
+|---|---|---|
+| concession before a conference | 8% | **3%** |
+| following the second conference | — | **22%** ← the forcing point |
+| after listing, before hearing | 18% | **8%** |
+| at or during hearing | 7% | **5%** |
+| **total** | 33% | **38%** |
+| names Taylor and Reese | 92% | **93%** (over-determined) |
+| documents alone, no lay witness | 5.8% | **8.1%** — executing the notice is now priced as a choice, and it is the worst outcome |
+| outcome if it runs (blended) | 56.5% | **53.5%** — credit attack partly pre-empted (+); s 556 IME expected (−); item 5 missing (−) |
+
+**Joint, this evening:** concedes without a hearing **33.0%** · runs and succeeds **30.5%** · runs
+and fails **26.5%** · documents alone **5.0%** · concedes at hearing **5.0%**.
+
+⭐ **What moved the outcome number down is not the case — it is two unclosed items**: the s 556
+examination that has to be expected, and Dr Krishnaiah's clinical records that have not arrived.
+Both are actionable. See `S556-EXAMINATION-and-the-s32-elements.md` and
+`WHAT-THE-REGULATOR-HOLDS-ON-THE-MEDICAL.md`.

@@ -51,7 +51,7 @@ producing documents is not one that wants its Switchboard Manager cross-examined
 
 ## 4 · What it is actually worth
 
-1. **It is a settlement pressure that builds as a hearing date approaches** — not now. It bites at
+1. **It is a concession pressure that builds as a hearing date approaches** (there is no settlement in a WC appeal — Guide 5.1) — not now. It bites at
    the point witnesses must genuinely be prepared and a date is listed.
 2. **It bears on whether the Regulator calls Taylor and Reese.** If MSH is reluctant to make them
    available, the Regulator may prefer not to call them — which is exactly why the Registry letter

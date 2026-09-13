@@ -78,7 +78,7 @@ cost credit.** Read before repeating any of them.
 | 1 | The appeal is under s 550(4) | Brought under **s 549**; s 550(4) is only the filing step. Every sealed order is headed s 549 | WCRA ss 549, 550; `documents/orders/2026-08-19_Further_Directions_Order_3_SEALED.pdf` |
 | 2 | The de novo character comes from s 550 | **No provision says so.** It comes from the Appeal Guide and authority. s 561(3) is the appeal to the Industrial Court | WCRA s 561; Appeal Guide p 279 |
 | 3 | The notice has 308 facts | **303.** `build_form24_second.py` is a working draft that moved on after service | the served response |
-| 4 | The UCPR applies | ⛔ **It does not.** Every UCPR reference in the IR(T) Rules is for Industrial Magistrates Court claims or costs scales | IR(T) Rules rr 70, 106, 111, 123ZB |
+| 4 | The UCPR applies / the UCPR does not apply | **Both were wrong in turn.** The IR(T) Rules do not adopt it — but **WCRA s 553(1) applies UCPR ch 7 pt 2** (disclosure generally, incl. **r 215** originals for inspection, and interrogatories) **and ch 9 pt 4** (mediation, case appraisal). **r 189 (notice to admit) still does not apply** — it is in ch 6. r 49 IR(T) remains the admissions provision | WCRA s 553; IR(T) rr 70, 106, 111, 123ZB |
 | 5 | r 49(3) is the risk to the 298 | r 49(3) reaches an admission **"taken to have been made under subrule (2)"** — a *deemed* one. These are **express**, served in 11 days. The rule does not on its face reach them | IR(T) r 49; the response |
 | 6 | r 49 carries a costs sanction for refusing | ⛔ It does not. **UCPR r 189(4)** does; r 49 has no equivalent. Costs run through **WCRA s 558(3)** | both rules |
 | 7 | The ESU referred the matter to HR in Dec 2024 | **Twice — 27 May 2024 and again 24 Dec 2024.** The May referral is in the decision under appeal at Factor 2 | Review Decision 69983 pp 12–13 |
@@ -89,6 +89,10 @@ cost credit.** Read before repeating any of them.
 | 12 | The employer "relied solely on information from you" and closed fairly | Lodged 13 May, **closed 27 May — 14 days**, 7 days after particulars were first sought | Review Decision 69983 |
 | 13 | The Form 24 outline citations | Ranges were derived from an enumeration that counted headings as facts; all nine were wrong by ~4. **Never hand-count** | the served numbering |
 | 14 | Form 24 (Feb 2026) response numbering is 1:1 | Drifts after ¶25. All "Form 24, Para N" cites are in **notice** numbering | `2026-02-18_Form24_Response...pdf` |
+| 15 | There is "settlement" to be had | ⛔ **No commercial settlement is possible** (Guide 5.1). The outcomes are **concession**, discontinuance, or hearing. Concession follows a **conference**, on "new information … not yet considered" | Appeal Guide 5.1 |
+| 16 | Counsel can simply be hired | **WCRA s 552B** — a lawyer may appear at a conference or hearing **only with** the other party's agreement or the appeal body's **leave** | WCRA s 552B |
+| 17 | The Regulator holds the psychiatric file | Its amended List of Documents lists **only the report** (item 10) and the **GP** records (item 11) — no Mind & Memory file or correspondence. The 4 Jul 2025 notice was limited to "concerning work related issues" | LOD 14 Aug 2026; NNPD 4 Jul 2025 |
+| 18 | Executing the attendance-notice threat is always good | It is the **worst** of three outcomes: he cannot lead or cross-examine his own witness, and pays her conduct money. The **threat** is valuable; **execution** is a fresh decision on 1 Oct | Guide 10.1; IR(T) r 62; s 531 |
 
 **Corrections that were mine about people, not documents** — Dwyer knew what the application contained;
 the disclosure answer of 18:03 was not mistaken; the 24 July request had *not* already been done in the
@@ -115,18 +119,27 @@ every one was an inference about why someone did something.** See §7.
 
 ---
 
-## 6 · WHAT IS NOT BUILT
+## 6 · WHAT IS NOT BUILT — refreshed 13 Sep evening
 
-- ⛔ **An exhibit list** keyed to the 39 tabs + M1–M9, in tender order. Guide 7.6.1 — an admission is
-  not a tender. **This is the biggest gap.**
-- ⛔ **The Emergency Code Register** (¶¶ 228–231, not admitted). MSH has admitted a MET-call
-  spreadsheet for 17–18 March 2024 is available (¶ 268). Get production **before** seeking
-  admissions — r 46(2) ends their disclosure duty on a matter once it is admitted.
-- ⛔ **The 24 December 2024 ESU letter** is not in the repo. OneDrive `E5 PID Outcome Letter`.
-- ⛔ **An authenticity position** for the 14 disputed tabs.
-- ⛔ **The letter to Matheson** on ¶ 154, ¶ 230 and the 13 tabs.
-- ◻ Witness decision on Ms Jeffrey and Mr Parry — **before 30 September** if they are to be added.
-- ◻ 46 pending `[¶ ___]` slots in the 9A; only ~8 are genuinely unproved.
+**Built today, awaiting his decision:** the letter to Matheson (extension agreed; ¶6 foreshadow
+behind a flag) · the one-page **element grid** for the conference · the **Second Amended Form 9A**
+(⚠ **still a draft, not served**).
+
+- ⛔ **An exhibit list** keyed to the 39 tabs + M1–M9, in tender order. ⭐ **Now with a statutory
+  deadline: WCRA s 554** — every document to be adduced must be given to the other side **at least
+  10 business days before the hearing**, or it cannot be relied on without leave.
+- ⛔ **The Emergency Code Register** (¶¶ 228–231). Production first, admissions second (r 46(2)).
+  **UCPR r 215** (via s 553) is available for originals of anything they have disclosed a copy of.
+- ⛔ **Item 5 — Dr Krishnaiah's clinical records**, requested 5 Sep, not received. ⭐ Fold in the
+  question of **what Mind and Memory produced to the Regulator** under the 4 Jul 2025 notice, and
+  on what scope. One letter, two answers.
+- ⛔ **The 24 December 2024 ESU letter** — OneDrive `E5 PID Outcome Letter`.
+- ⛔ **The doctors' availability confirmed in writing**, and **conduct money** at expert rates
+  budgeted (Guide 10.1; IR(T) r 62). Nothing in the repo evidences either.
+- ⛔ **Readiness for a WCRA s 556 examination** — consent promptly; be heard on the **brief**
+  (the admitted facts + Tabs M1–M4), specialty, costs, timing.
+- ◻ Witness decision on Ms Jeffrey and Mr Parry — before 30 September if they are to be added.
+- ◻ 46 pending `[¶ ___]` slots in the 9A; only ~8 genuinely unproved.
 
 ---
 
