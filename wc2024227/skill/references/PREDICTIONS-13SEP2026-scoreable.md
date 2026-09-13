@@ -454,3 +454,60 @@ is presumptuous, and it is unnecessary.
 Health in any event. If so, the spreadsheet referred to at fact 268 may be capable of being raised
 at the same time."* Assumes nothing, is helpful on its face, and makes the record for **WCRA
 s 558(3)** that the request was cheap to satisfy.
+
+### E8 · ⛔ Correction to E7, and the real answer to "why wait" (Cory, 13 Sep)
+
+**E7 was too strong. She does not *have* to contact Metro South Health to comply with directions 3
+and 4, and Cory is right to say so.**
+
+- **Direction 3** requires only **a list of names**. She has known the names since she conferenced
+  **Reese on 8 July 2025** and **Taylor on 10 July 2025**.
+- **Direction 4** requires **an outline of evidence, one A4 page per lay witness**. With conferencing
+  material already on her file (items 37–39 and 41 of her own List of Documents), an outline can be
+  drafted from the file. Confirming it with the witness is good practice; it is not a requirement.
+
+⇒ The MSH channel remains **open and cheap** (E7's real point), but it is **not compelled** by the
+directions. Correct E7 accordingly.
+
+### So why the 25th, and why wait at all? ⭐ Because nothing happens if she does
+
+There is **no hearing date**. Without a listing, nothing in this proceeding is operationally urgent.
+And the 18 September date was **not imposed by anyone** — the Appellant chose it in his own letter.
+If she misses it, the only stated consequence is a notice of non-party disclosure to MSH, which on
+this file's own history produces nothing quickly (Form 29 sealed 22 April 2026 → objection
+5 June 2026, about six weeks).
+
+⭐⭐ **The pattern is now proved twice, in the same fortnight, by the same officer:**
+
+| Deadline | Consequence of missing it | Her response |
+|---|---|---|
+| **r 49(2), 14 days from 28 August** | ⭐ **automatic deemed admission** | answered in **11 days — three days early** |
+| **his request, 18 September** | none that bites | extension sought in **1 day**, pushed **15 days** |
+
+**Speed tracks consequence, not workload.** That is the same shape as the 2024 behavioural finding
+at A2 — what is free to answer is answered in hours; what costs something waits — and it is the
+whole explanation. No strategy needs to be inferred, and none should be.
+
+### ⭐⭐⭐ The operational conclusion — this is the important part
+
+If a request carries no consequence, it will keep slipping. The consequences actually available
+are: a Form 29 to MSH (slow, and useless before a hearing); the costs record under **WCRA
+s 558(3)** (what the letter of 13 September builds); or **the Commission**.
+
+**And every one of those turns on the matter being listed.**
+
+⚠ **But direction 5 opens only after the directions are finalised:** *"Once all directions have been
+finalised, the Appellant is to contact the Industrial Registry in order to proceed to a second
+s 552A conference, or to hearing."* Directions 3 and 4 finalise **30 September**.
+
+⇒ **He cannot force a listing before 1 October. The drift until then is structural and
+unavoidable.**
+
+⇒ **Therefore the posture to 30 September is exactly as already settled: serve the Second Amended
+Form 9A this week, send the mild letter, press nothing.** Then on **1 October, move immediately on
+direction 5.** Listing is the forcing function for everything — settlement (18% of the scenario
+model sits on the post-listing branch), the register, the witnesses, and attendance notices, which
+under Guide Part 6 come only after hearing dates are set.
+
+⭐ **The single highest-value act available to the Appellant is not chasing documents. It is getting
+the matter listed on 1 October.**
