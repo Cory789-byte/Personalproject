@@ -88,3 +88,45 @@ conversation. Serving it after 25 September means it is not.**
 
 That is now the strongest reason to serve before the 25th, and it is independent of the Guide 4.10
 ambush point.
+
+---
+
+## 7 · ⛔ CORRECTION, same day — how likely is she actually to show them the admitted record?
+
+**Section 5 overstated it.** "MSH sees the consolidated record and pushes toward concession" was
+treated as a live pathway. On analysis it is **thin**. Three different things were run together:
+
+| Level | What it is | Likelihood |
+|---|---|---|
+| **1** | **Taylor and Reese are shown their own correspondence** in conference | ⭐ **~95%** — you cannot draft a one-page outline of a witness's evidence without putting the documents in front of them |
+| **2** | **MSH is told the general shape** — that a large number of facts were admitted and the witnesses will be cross-examined on their own emails | **~55%** — she must justify the ask, but "I need Ms Taylor on the roster and the process changes" would do it |
+| **3** | **MSH receives the consolidated record** — the 303 and the response, or the amended pleading | **~30%**, rising to **~45% if the Second Amended Form 9A has been served** |
+
+### ⚠ And the reason the pathway is thin, which I under-weighted
+
+**From Matheson's professional standpoint, admitting 298 documentary facts is not a concession of
+anything, and her covering letter says so in terms** — not relevance, not admissibility, not
+characterisation, not the truth of contents. She may regard the response as entirely routine, and
+therefore as nothing to flag to a non-party at all.
+
+The same applies to whoever reads it at MSH. The natural reader is a lawyer — **Ms Ruttan signed
+off on the objection of 5 June 2026** — who will see *documents admitted*, not *liability
+conceded*.
+
+⇒ Compound probability of the section 5 pathway (MSH sees it **and** reacts institutionally):
+roughly **0.35 × 0.15 ≈ 5%.** ⛔ **Do not plan around it. It is a possibility, not a route.**
+
+### ⭐⭐ What survives, and it is the only lever available
+
+**The Second Amended Form 9A is the forwardable document.**
+
+A notice to admit and its response are procedural artefacts — 303 numbered paragraphs and a column
+of verdicts. Nobody forwards that to explain a case. **A statement of facts and contentions *is* the
+case**, in one document, with every proposition carrying its admitted paragraph inline.
+
+If she forwards anything to Metro South Health to explain why she needs two witnesses, **that is
+what she forwards.**
+
+⇒ Serving it this week moves level 3 from **~30% to ~45%**. That is the entire extent of the
+Appellant's influence over any of this, it costs nothing, and it is one more reason to serve before
+the 25th rather than after.
