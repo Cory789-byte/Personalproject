@@ -1,6 +1,6 @@
 # Reference index — generated, do not hand-edit
 > Regenerate: `python3 scripts/build_reference_index.py` from `wc2024227/`.
-> 178 notes. The first blockquote line of each note is its provenance line.
+> 192 notes. The first blockquote line of each note is its provenance line.
 
 ## ⭐ START HERE — state of play and verified record  (6)
 
@@ -16,7 +16,7 @@
 - **`STATE-OF-PLAY-14AUG2026.md`** · 13KB — THE STATE OF PLAY — 7 to 14 August 2026: withdrawal, service, disclosure, confirmation, question
   <br><sub>14 August 2026. One week in which the appeal's disclosure architecture was rebuilt by consent,</sub>
 
-## THE APPEAL — case theory, s 32(5), authorities, the pleading  (31)
+## THE APPEAL — case theory, s 32(5), authorities, the pleading  (32)
 
 - **`S32-5-A-JUDGMENT-THREE-DOCUMENTS.md`** · 148KB — WEIGHING THE THREE DOCUMENTS UNDER s 32(5)(a) — a judgment
   <br><sub>15 August 2026. The AO3 role description · the Form 24 Notice and the Respondent's Response ·</sub>
@@ -43,6 +43,8 @@
   <br><sub>8 August 2026. The synthesis document. Built on everything in this session.</sub>
 - **`FORM24-EXHIBITS-AND-ADMISSION-LAW.md`** · 11KB — FORM 24 — EXHIBIT AVAILABILITY AND THE LAW OF THE ADMISSIONS
   <br><sub>5 August 2026. Companion to `FORM24-VERIFICATION-5AUG.md`.</sub>
+- **`RULES-admissions-documents-and-sequence.md`** · 11KB — Admitting documents, facts and the email sequence — the rules that actually apply
+  <br><sub>Researched from source 12 September 2026. Every provision below was read on the page,</sub>
 - **`DEFENCE-REBUTTAL-MATRIX.md`** · 10KB — DEFENCE-REBUTTAL MATRIX — every respondent defence, and its answer
   <br><sub>8 August 2026. ⛔⛔ **INTERNAL MASTER BRIEF. NOT a filing. NOT served. NOT tendered.**</sub>
 - **`NOTICE-TO-ADMIT-ARCHITECTURE.md`** · 10KB — BUILDING AN UNANSWERABLE NOTICE TO ADMIT — the ladder, the binaries, and the medical residue
@@ -55,8 +57,8 @@
   <br><sub>The Regulator's operative defence pleading, signed Matheson. Read against: the earlier Form 24</sub>
 - **`FORM24-25-RESPONSE-against-the-rules.md`** · 8KB — The 8 September 2026 response, broken down against rule 49
   <br><sub>Built 12 September 2026 from the served originals at</sub>
-- **`RULES-admissions-documents-and-sequence.md`** · 8KB — Admitting documents, facts and the email sequence — the rules that actually apply
-  <br><sub>Researched from source 12 September 2026. Every provision below was read on the page,</sub>
+- **`S556-EXAMINATION-and-the-s32-elements.md`** · 8KB — WCRA s 556 examinations, and what "going through s 32 element by element" means
+  <br><sub>13 September 2026. Read from WCRA s 556 (ATT26) and QIRC Workers' Compensation Appeal Guide</sub>
 - **`THE-BOARD-element-ledger.md`** · 8KB — THE BOARD — EVERY LEGAL ELEMENT: WHAT IS SET UP, AND WHAT THEIR NEXT MOVE COMPLETES
   <br><sub>Built 2 August 2026, on the eve of the send. The capstone ledger. For each regime: which</sub>
 - **`THE-TRAP-analysis.md`** · 8KB — HAVE MSH WALKED INTO A TRAP? — the comprehensive read
@@ -79,7 +81,7 @@
 - **`THE-TWO-JUDGMENTS-10AUG2026.md`** · 2KB — The Two Judgments — reasons-based analysis (10 Aug 2026)
   <br><sub>Cory's reframe: run the analysis on the facts each side holds + how the Commission actually</sub>
 
-## THE HEARING — plan, witnesses, length, evidence  (10)
+## THE HEARING — plan, witnesses, length, evidence  (11)
 
 - **`WITNESS-EVIDENCE-LEDGER.md`** · 32KB — WITNESS EVIDENCE LEDGER — what the Appellant can give from the box, priced
   <br><sub>8 August 2026. Built after the 7 August mention, where the Commission indicated the pleaded</sub>
@@ -95,6 +97,8 @@
   <br><sub>28 August 2026. Written against the Form 24 (308 facts, 19 sections), the Part B summary, the</sub>
 - **`STITCHED-THREAD-2JUL-13JUL2026-verbatim.md`** · 8KB — THE JULY EXCLUSION THREAD, STITCHED — EVERY ORIGINAL EMAIL, 2–13 JULY 2026, VERBATIM
   <br><sub>31 August 2026. Assembled from two source documents, text layers intact, quoted verbatim:</sub>
+- **`MENTION-what-Dwyer-said-about-witnesses.md`** · 5KB — What Dwyer said at the mention about the Regulator's witnesses
+  <br><sub>13 September 2026. Read from `documents/transcripts/TRANSCRIPT_diarised_prosody.md`</sub>
 - **`LIVED-THE-DEPARTMENT-the-evidentiary-asset.md`** · 4KB — "I LIVED THE DEPARTMENT" — WHY THAT IS THE ANSWER, AND WHY IT IS ALSO THE CASE
   <br><sub>28 August 2026. ⛔ Internal.</sub>
 - **`TRANSCRIPT-ACCURACY-comparison.md`** · 4KB — WHICH TRANSCRIPT IS MORE ACCURATE — MEASURED, NOT ASSERTED
@@ -173,7 +177,7 @@
 - **`THE-AI-ANSWER-what-the-audio-supports.md`** · 6KB — WHAT HE ACTUALLY SAID WHEN ASKED ABOUT AI — AND WHAT THE INDEX-ONLY NAVIGATION PROVES
   <br><sub>28 August 2026. Forensic re-examination of 536–566 s, and of the [22:31]–[26:31] navigation.</sub>
 
-## MEDICAL and causation  (16)
+## MEDICAL and causation  (18)
 
 - **`REPORT-B-LOI-VERIFICATION-9AUG2026.md`** · 39KB — Report B — letter of instruction: adversarial verification and fixes (9 Aug 2026)
   <br><sub>*"On the assumed facts provided to me, which I was instructed to take as established,</sub>
@@ -201,10 +205,14 @@
   <br><sub>15 August 2026. Established from the face of two documents. ⛔ No motive is asserted: this is a</sub>
 - **`IF-THEY-TRY-MEDICAL-SEPARATION.md`** · 7KB — IF THEY ATTEMPT A MEDICAL-UNFITNESS SEPARATION — what the s 89 letter of 3 August does to it
   <br><sub>15 August 2026. Assumes, for analysis only, that a capacity separation is intended.</sub>
+- **`WHAT-THE-REGULATOR-HOLDS-ON-THE-MEDICAL.md`** · 6KB — What the Regulator actually holds on the medical — and the question to close first
+  <br><sub>13 September 2026, prompted by Cory's concern that the Regulator has seen his correspondence with</sub>
 - **`Q7-what-the-question-is-designed-to-do.md`** · 5KB — RFMI QUESTION 7 — WHAT IT IS DESIGNED TO DO, AND WHY NARROWING THE REPORT DEFERS IT
   <br><sub>28 August 2026. ⛔ Internal. ⚠ Analysis of the question's function. **No intention is asserted** —</sub>
 - **`SAFETY-ADVISOR-LENS-question-set.md`** · 5KB — THE SAFETY-ADVISOR LENS — the high-exposure-environment method applied to the switchboard
   <br><sub>⛔ Strategy layer. Banked 4 Aug 2026. A framing exercise: how an advisor from a high-risk</sub>
+- **`THE-MEDICAL-SCHEDULE-how-it-is-built.md`** · 5KB — The medical schedule of 9 September — how it is organised, and what that does
+  <br><sub>13 September 2026. Read from the served original,</sub>
 - **`PROGNOSIS-4AUG.md`** · 4KB — PROGNOSIS — WC/2024/227 + EMPLOYMENT TRACK, as at 4 August 2026
   <br><sub>200,000-run terminal-scenario model (`skill/references/mc_prognosis_4aug.py`), seeded.</sub>
 
@@ -380,7 +388,27 @@
 - **`ASSESSMENT-DESIGN-gold-standard.md`** · 4KB — HOW A COMPREHENSIVE PSYCHOSOCIAL + WHS ASSESSMENT WOULD ACTUALLY BE RUN HERE
   <br><sub>⛔ Strategy layer / ready position. The gold-standard methodology to hold against whatever</sub>
 
-## OTHER  (1)
+## OTHER  (11)
 
+- **`PREDICTIONS-13SEP2026-scoreable.md`** · 51KB — Data-driven predictions, 13 September 2026 — written to be scored
+  <br><sub>⭐ **The point of this file is falsifiability.** Each prediction has a date, a stated</sub>
+- **`SCENARIO-MODEL-13SEP2026.md`** · 15KB — Scenario model — settle, call, or documents alone
+  <br><sub>13 September 2026. ⚠ **Branch probabilities are calibrated judgements, not computed</sub>
+- **`THE-CONVERSATION-MATHESON-MUST-HAVE-WITH-MSH.md`** · 13KB — The conversation Matheson has to have with Metro South Health
+  <br><sub>13 September 2026 (Cory's point). Sources: the served response of 8 September 2026; the</sub>
+- **`REGULATOR-SIGNALS-the-full-data-set.md`** · 11KB — Regulator signals — the full data set, what each presumes, what each predicts
+  <br><sub>13 September 2026, late. Consolidates every Regulator-side observation in the repo into one</sub>
+- **`HOW-THE-REGULATOR-CONCEDES.md`** · 7KB — How the Regulator concedes — the mechanism, the trigger, the timing
+  <br><sub>13 September 2026. Read from the QIRC Workers' Compensation Appeal Guide (Parts 5 and 10),</sub>
+- **`META-ANALYSIS-13SEP2026-evening.md`** · 7KB — Meta-analysis and model re-run — 13 September 2026, evening
+  <br><sub>Run against the repo as it stands and the actions taken and pending. Branch probabilities are</sub>
+- **`OUTLINE-vs-9A-what-each-does.md`** · 7KB — The outline against the Form 9A — what changed, why, and what it costs them
+  <br><sub>13 September 2026. Compares the served outline of 9 September 2026 with the Second Amended</sub>
+- **`WHAT-THE-SERVED-OUTLINES-FORCE.md`** · 7KB — What the outlines served on 9 September force the Respondent to do
+  <br><sub>13 September 2026. Read from the served originals at</sub>
 - **`FRMS-BUNDLE-DEEP-DIVE-11AUG2026.md`** · 6KB — THE FRMS BUNDLE DEEP-DIVE — the Regulator's own 47pp, mined (11 Aug 2026, ~1am)
   <br><sub>Source: documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf —</sub>
+- **`THE-PUBLIC-FORUM-problem-and-who-carries-it.md`** · 5KB — The public forum — who actually carries the exposure, and why it must never be voiced
+  <br><sub>13 September 2026. Verified: Appeal Guide 8.1; IR Act s 580; the served admissions;</sub>
+- **`THE-SECOND-REVIEW-who-authored-the-8-September-letter.md`** · 4KB — The second review — who authored the 8 September letter, and what it does to the model
+  <br><sub>13 September 2026. From PDF metadata on the served originals; cross-referenced to</sub>

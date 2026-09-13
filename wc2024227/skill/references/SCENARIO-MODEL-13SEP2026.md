@@ -116,3 +116,93 @@ and fails **26.5%** · documents alone **5.0%** · concedes at hearing **5.0%**.
 examination that has to be expected, and Dr Krishnaiah's clinical records that have not arrived.
 Both are actionable. See `S556-EXAMINATION-and-the-s32-elements.md` and
 `WHAT-THE-REGULATOR-HOLDS-ON-THE-MEDICAL.md`.
+
+---
+
+## ⭐ ADDENDUM 2, 13 Sep late — the signal-fold: what the seven classes do to the tree, and the Respondent's decision problem
+
+> Source: `REGULATOR-SIGNALS-the-full-data-set.md` (classes 1–7) and
+> `PREDICTIONS-13SEP2026-scoreable.md` Part F. Same caution: calibrated judgements, written before
+> the 25th so they can be scored.
+
+### 1 · The tree, re-scored
+
+| Node | Branch | evening | **signal-fold** | moved by |
+|---|---|---|---|---|
+| 30 Sep list | names Taylor and Reese | 93% | **93%** | unchanged — over-determined (class 5, Dwyer 34:43) |
+| the 25th | thirteen tabs conceded | — | **85%** | class 4 (column rule), class 6 (day-one ask), E10 |
+| | Tab 31 "MSH asked" | — | **55%** | class 4: the one considered position; class 1: 21-day MSH round trip |
+| concession | before a conference | 3% | **2%** | class 6: they change position at boundaries, and the Guide's boundary is the conference |
+| | following the second conference | 22% | **24%** | class 7: the anchor has not been re-affirmed since 8 Sep; class 4: they drop positions shown to be mechanical |
+| | after listing, before hearing | 8% | **8%** | — |
+| | at or during hearing | 5% | **4%** | — |
+| | **total concedes** | 38% | **38%** | shape moved toward the conference; total flat |
+| runs | documents alone, no lay witness | 8.1% | **7%** | class 5 lowers it; the attendance-notice choice keeps it above the morning figure |
+| | s 556 examination applied for or proposed | — | **55%** | class 5 (WHS counsel), class 4 (items 10–11 only) |
+| outcome if it runs | blended | 53.5% | **53.5%** | nothing in the signals touches the merits |
+
+**Joint, signal-fold:** concedes without a hearing **34%** · runs and succeeds **31%** · runs and
+fails **27%** · documents alone **4%** · concedes at hearing **4%**.
+
+### 2 · ⭐ The 25th as a conditional — pre-committed re-scores
+
+The 25 September letter is the next observation. Commit now to what each reading does to the
+post-conference concession branch (currently 24%), so the update is not made after the fact:
+
+| What the 25th shows | class | concession following conference → | thirteen conceded? |
+|---|---|---|---|
+| legal register; thirteen conceded; formula **absent**; Tab 31 "asked" | 2, 4, 7 | **32%** | yes |
+| legal register; thirteen conceded; formula **repeated** | 7 | **12%** — re-affirmed after testing | yes |
+| operational register; "still reviewing"; nothing conceded | 2 | **unchanged 24%**, answer still coming; watch the 30th | not yet |
+| any register; thirteen **maintained** with reasons | 4 falsified | **8%** — a fight chosen; s 558(3) record starts | no |
+| silence past the 25th | 1 | **18%**; the file has been re-prioritised; conference request on 1 Oct regardless | unknown |
+
+### 3 · The Respondent's decision problem — what it is doing to understand the case, and what it can do
+
+⚠ "Doing" is split by the verified/inferred rule. The **verified** column is what the documents
+show; the **inferred** column is the reading. Only the verified column ever reaches paper.
+
+**3.1 · What it is doing now, to understand its position**
+
+| Work | Verified | Inferred |
+|---|---|---|
+| Reading the package of 9 Sep against its own 298 admissions | asked for the full window on day one (E14); replied in the direction thread (E3) | that the outlines and the footing letter, not the facts, are what needed the window (E15) |
+| Testing the 8 Sep reservations against the footing letter | the reservations were drafted 7–8 Sep; the footing letter arrived 9 Sep; the reply on 10 Sep did not hold the 8 Sep line | that three of the four reservations were found inert on the operative documents |
+| Deciding the witness list | direction 4 due 30 Sep; the Registry letter of 9 Sep foreclosed naming nobody quietly | that Taylor and Reese are being asked whether they will give evidence, and told what is admitted |
+| Deciding the thirteen tabs | 54 admitted facts sit on those tabs; every one bar Tab 31 was sent to him by an MSH officer on an admitted fact | that the column rule cannot be defended before Dwyer, who set the process at the mention |
+| Chasing Tab 31 | she wrote "may reach out to MSH"; NNPD channel exists and is disclosed (E7/E8) | that MSH has been asked, and will answer slowly |
+| Re-testing the pleaded position | the formula has not been repeated since 8 Sep (class 7) | that the 13 May SOFC is being read against ¶¶ 281–282 and Part B.5 |
+| Medical | holds items 10–11 only; item 5 requested 5 Sep and not received; his schedule is served | that counsel is deciding whether a s 556 opinion is needed on element (d) |
+| Sign-off | the legally careful documents carry a non-Matheson author field (class 3) | that the 25th answer goes through the same second hand, which is why it needed until the 25th |
+
+**3.2 · What it can do — the option set, with what each costs it**
+
+| Option | Mechanism | Cost to the Respondent | Signal evidence | p (by the date shown) |
+|---|---|---|---|---|
+| **Concede the thirteen** | a letter; Form 25 authenticity is "for the proceeding only" (r 49) | nothing — the facts on them are already admitted | classes 4, 6 | **85% by 25 Sep** |
+| **Maintain the thirteen** | say so; he proves authenticity at hearing from his own evidence | Commission time on a point Dwyer has already addressed; s 558(3) exposure; Guide Part 10 | off-pattern for class 4 | 5% |
+| **Convert the dispute into inspection** | UCPR r 215 via WCRA s 553: demand the originals for inspection | small; it is the honest form of "Appellant's own records" | class 4's column rule invites it | 10% |
+| **Apply to withdraw admissions** | r 49(3), but the 298 are express, not deemed; *Tuesley* | an explanation on oath; costs against the withdrawing party | class 3: deliberation is proved | 7% |
+| **Amend the SOFC** | leave / directions | shows the anchor moved; must plead against ¶¶ 281–282 | class 7 | 10% by 30 Sep; 45% by hearing |
+| **Carry the new case in the outlines instead** | direction 3 | cheaper; the outline is not a pleading | class 6 | **70% by 30 Sep** |
+| **Name Taylor and Reese** | direction 4 | preparing decision-makers to be examined on 298 admitted facts | class 5 | **93%** |
+| **Name nobody — the onus defence** | direction 4; Guide 7.3; *Prizeman* | the attendance-notice paragraph makes it visible and costly; fact 260 and Part B.5 answer it | class 5 | 7% |
+| **Seek a s 556 examination** | application, or by consent | a report he is entitled to; time | class 5 | **55% after 30 Sep** |
+| **Interrogatories / further disclosure** | s 553, UCPR ch 7 pt 2 | time; opens r 46 both ways | no signal | 15% |
+| **Request the conference and concede there** | s 552A; Guide 5.1 on "new information" | a published decision is avoided (s 580); the fund pays | classes 6, 7 | **24%** |
+| **Object to the Second Amended 9A** | if served inside 3 business days of their outlines, or if the foreshadow did not go | an application on timing, not substance | class 1 | 20% if served late; 5% if foreshadowed and served on the 25th |
+| **Ask to vacate the timetable** | letter to chambers | a mention; Dwyer asks why | class 1: Commission dates are met | 5% |
+
+**3.3 · What the option set means for him**
+
+- Their cheapest good move on the 25th is the one predicted: concede the thirteen, chase Tab 31,
+  say nothing about footing, and carry the real answer into the 30 September outlines. Read the
+  25th letter for those four things in that order.
+- Their only cheap *bad* move is the r 215 inspection demand. It costs him nothing — the originals
+  exist — but it should be answered on the day, in the operational register, with a date.
+- The two moves that would actually change the case are the s 556 examination and an amended SOFC.
+  Both come after the 30th, and both are answered by work already listed: consent and be heard on
+  the brief; read any amended pleading against ¶¶ 281–282 and Part B.5 before replying.
+- Nothing in the option set lets them avoid the conference if he asks for it on 1 October, and the
+  conference is the only place the Guide lets them concede. That is why the request goes on 1 Oct
+  with the element grid, whatever the 25th says.

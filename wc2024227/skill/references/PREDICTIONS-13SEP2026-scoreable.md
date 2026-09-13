@@ -117,8 +117,13 @@ genuine settlement reassessment (B7 → closer to 50/50).
 see, and it would move five of these eight predictions.
 
 ### Leading indicators to watch
-1. **A new name on any email from OIR** — the clearest signal available.
-2. **Counsel appearing on the Respondent's witness list** on 30 September.
+⛔ **Superseded 13 Sep, late, by the dated watchlist in `REGULATOR-SIGNALS-the-full-data-set.md` §B
+and by Part F below.** Item 1 was written when counsel was thought to be unobserved (struck at E13);
+the usable version of it is the *register* and the *author field* of the 25 September reply, not a
+new name. Items 3–5 stand and are re-scored at F1.
+1. ~~**A new name on any email from OIR** — the clearest signal available.~~
+2. ~~**Counsel appearing on the Respondent's witness list** on 30 September.~~ → an appearance email
+   naming counsel (F4).
 3. **A reply before 24 September.** Off-pattern; means the file has been re-prioritised.
 4. **Silence past 25 September.** Means it has not been looked at — which is its own information.
 5. **Any reference to MSH's response** in her 25 September letter — tells you whether the non-party
@@ -759,3 +764,82 @@ built did not fit the case they now had to meet.** That is what the one-day exte
 it, recognised it, and did the sensible thing. What is knowable is that they did not hold their
 position and bought the maximum time. Whether it felt like derailment inside OIR is not knowable
 and does not need to be.
+
+---
+
+## F · SIGNAL-FOLD, 13 September 2026, late — the seven classes applied to B1–B8, and five new predictions
+
+> Source: `REGULATOR-SIGNALS-the-full-data-set.md`. The classes are: **1** timing-by-consequence;
+> **2** register (operational / position / legal); **3** authorship and production; **4** selection;
+> **5** representation and appearance; **6** sequencing; **7** anchoring to the 13 May SOFC.
+> Every number below is written before the 25th so it can be scored against it.
+
+### F1 · B1–B8 re-scored against the signal classes
+
+| # | Prediction | Was | **Now** | Which class moved it, and why |
+|---|---|---|---|---|
+| B1 | answers 24–25 Sep, not before | 75 / early 10 / late 15 | **78 / early 12 / late 10** | class 1: the 25th is self-set with the 30th behind it, so "late" falls; class 6: asked on day one for the last Friday, so "early" is a holding reply at most |
+| B2 | Register not produced by 25 Sep | 70 / partial 20 / produced 10 | **70 / "MSH asked" wording 22 / produced 8** | class 4: Tab 31 is the one considered position; class 1: MSH round trip 21 days last time. The words "has been asked" are the likely form |
+| B3 | directions 3 and 4 met on 30 Sep | 85 | **90** | class 1: Commission-imposed dates have always been met; class 6: the 25th exists *because* of the 30th |
+| B4 | list names Taylor and Reese | 80 both / 90 one | **85 both / 93 one** | class 5: Dwyer at the mention (34:43) plus a WHS-specialist counsel who frames management action through the decision-makers |
+| B5 | no application to withdraw an admission | 90 | **93** | class 4: they do not deny what they cannot deny; class 3: the cover letter proves deliberation (*Tuesley* limb (a)) |
+| B6 | some of the 14 conceded if put in writing | 60 | **85 for the thirteen; 30 for Tab 31** | class 4: a column rule, not a judgement, and 54 admitted facts sit on the same tabs; E10: Dwyer's process |
+| B7 | no *settlement* before a hearing date | 75 | ⛔ **reworded — no *concession* before a conference: 95** | Guide 5.1: no commercial settlement; concession follows a conference on new information |
+| B8 | a second s 552A conference before any hearing date | 65 | **72** | class 6: they answer at boundaries, and a conference is the boundary the Guide provides for a change of position; direction 5 puts the request in his hands on 1 Oct |
+
+### F2 · Five new predictions, each scoreable on a single document
+
+**F2.1 · The 25 September reply is in the *legal* register, not the operational one.**
+**Confidence 70%** (operational holding reply 20%, position-formula-only 10%).
+Class 2. Conceding authenticity of thirteen tabs is a change of pleaded position; the two changes of
+position in the file (Feb 2026 response; 8 Sep cover letter) were both written in the legal mode by
+a non-Matheson hand. *Score:* first person + apology = operational; rules quoted + reservations
+structured = legal. **OUTCOME:** ______
+
+**F2.2 · The thirteen provenance tabs are conceded, in terms, on or by 25 September.**
+**Confidence 85%** (partial — some conceded, some "subject to inspection" — 10%; all maintained 5%).
+Classes 4 and 6, E10. If maintained, the s 558(3) costs record starts that day and the conference
+request on 1 Oct says so. **OUTCOME:** ______
+
+**F2.3 · The sentence *"as outlined in our Statement of Facts and Contentions"* does not appear in
+the 25 September reply.**
+**Confidence 65%** (repeated verbatim 25%, replaced with a new formula 10%).
+Class 7. The formula anchors to 13 May 2026, a pleading that predates the 303 facts and whose ¶11
+is closed by ¶¶ 281–282. A reply that concedes authenticity while repeating the anchor would be
+internally inconsistent; the legal mode does not usually do that. ⭐ **If it is repeated, F1's B8
+holds but the post-conference concession branch in the scenario model falls from 22% to ~12%.**
+**OUTCOME:** ______
+
+**F2.4 · An appearance email naming counsel arrives before the hearing is listed.**
+**Confidence 40% by 30 Sep; 80% by listing.**
+Class 5. Willson appeared for the contested pleading phase and was absent for the two exchange
+listings. The hearing phase is the next contested phase. *Score on the date of the first email or
+document naming counsel for the Respondent.* **OUTCOME:** ______
+
+**F2.5 · A s 556 application, or a letter proposing an examination by consent, comes after
+30 September and before any hearing date.**
+**Confidence 55%** (never 35%; before 30 Sep 10%).
+Class 5: a WHS-specialist counsel will want its own psychiatric opinion on element (d); class 4:
+they have item 10 (the report) and item 11 (GP records) only, and item 5 was requested 5 Sep and not
+received. See `S556-EXAMINATION-and-the-s32-elements.md`. **OUTCOME:** ______
+
+**F2.6 · An amended SOFC is served before any hearing date.**
+**Confidence 45%** (never 45%; before 30 Sep 10%).
+Class 7. If the anchor moves (F2.3), the honest way to move it is an amended pleading; the cheaper
+way is to say nothing and let the outlines carry the new case. Direction 3 outlines are the more
+likely vehicle. **OUTCOME:** ______
+
+### F3 · What the signals say the Regulator is doing now — verified layer only
+
+| Verified | From |
+|---|---|
+| Asked on **day one** for the **last Friday** before its own direction-3/4 date | 10 Sep 14:42 email; E6, E14 |
+| Replied **inside the direction 1 and 2 thread**, not to the request letter as a fresh matter | E3 |
+| Has held counsel throughout (Gray Dec 2024; Willson from ≤17 Feb 2026) | class 5 |
+| Produced the verdicts by **script** on Monday and the **legal** letter by a second hand on Tuesday, ten minutes before service | class 3 |
+| Has not repeated the position formula since the admissions of 8 Sep | class 7 |
+| Holds: 303 facts, its own 298 admissions, the April 9A, items 10–11, the outlines, the medical schedule, the witness list, the footing letter, the request quoting the mention | E15 |
+
+Everything else about "what they are doing" — sign-off above Matheson, MSH being asked about Tab 31
+and about Taylor and Reese, a re-plan rather than administration — is inferred, and is marked so in
+`REGULATOR-SIGNALS-the-full-data-set.md` §D and in the scenario model's Addendum 2.
