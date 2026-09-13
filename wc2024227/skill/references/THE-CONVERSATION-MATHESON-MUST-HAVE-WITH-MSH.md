@@ -130,3 +130,60 @@ what she forwards.**
 ⇒ Serving it this week moves level 3 from **~30% to ~45%**. That is the entire extent of the
 Appellant's influence over any of this, it costs nothing, and it is one more reason to serve before
 the 25th rather than after.
+
+## 8 · ⭐⭐ REVISION — she has been told the footing, and that changes level 2
+
+**Cory's point, and it is right.** Section 7 priced level 2 as though she had a free choice about
+what to tell Metro South Health. **She does not, because she has already been told in writing what
+the admissions are being used for.**
+
+The letter of **9 September 2026**, paragraph 2, states the footing document by document:
+
+> "Where the document is itself the step taken … the Appellant relies on the admission as
+> establishing that **the step was taken on that date in those terms**… That is the footing on which
+> facts 49, 66, 74 to 77 and 81 … 182 to 205 and 210 … 211 to 223 … and 263 to 268 are relied
+> upon."
+
+and closes:
+
+> ⭐⭐ **"Several of the documents in those ranges were sent by Ms Taylor or Ms Reese, whom the
+> Appellant expects the Respondent to call."**
+
+And the covering letter **filed with the Registry** the same day foreshadows attendance notices if
+the 30 September list does not name them.
+
+### Why that forces the disclosure downward
+
+She must prepare two witnesses to be cross-examined **on their own correspondence, which her own
+side has admitted was sent on those dates in those terms.** She cannot responsibly prepare Ms Taylor
+without telling her that:
+
+- these emails are admitted — she cannot dispute sending them;
+- she will be cross-examined on them;
+- the Appellant relies on them as **the steps themselves**, not as evidence of something else.
+
+⚠ **A witness who meets an admitted document for the first time in the box is a preparation
+failure**, and it would be Matheson's. ⇒ **Preparing the witness properly *is* telling her what was
+admitted.** Levels 1 and 2 collapse into one another.
+
+### Revised
+
+| Level | Was | **Now** |
+|---|---|---|
+| 1 · witnesses shown their own correspondence | 95% | **95%** |
+| 2 · **MSH / the witnesses told what was admitted and why it matters** | 55% | ⭐ **85%** |
+| 3 · consolidated record passed to MSH | 30% (45% if 9A served) | **40%** (**55%** if the 9A is served) |
+| the section 5 concession pathway | ~5% | **~8–10%** — still thin, ⛔ **still not a plan** |
+
+### ⭐ And a correction to section 7's "forwardable document"
+
+I said the Second Amended Form 9A is the forwardable document. **The letter of 9 September is more
+forwardable still** — one page, written by the other side, stating in its own words what the
+admissions are being used for and naming the two witnesses. Forwarding *"the appellant's letter"* is
+the most natural thing in the file.
+
+⇒ **It has already been served. It is already in her hands. Nothing more needs to be done to put it
+there** — which means part of the work this analysis has been chasing was done on 9 September.
+
+The 9A remains worth serving this week for the other three reasons, and it is the document that
+makes the record legible. But the *footing* has already reached her, and cannot be unreached.
