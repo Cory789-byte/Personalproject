@@ -55,3 +55,54 @@ case as now built.
   and reads as considered. It also stops the question-behind-the-question reflex.
 - The two under-claims (Q10, Q32) were memory under no-notice, not speed. With the fact numbers in
   front of him the same questions get *"yes — fact 49, Tab 6."*
+
+## Syntax, hedging and thread-holding — his 100 turns against the Commissioner's 102
+> Same source. ⚠ 1,324 words of spontaneous speech, mostly answers to closed questions, through
+> ASR. Enough for pattern, not for precision. Rates per 100 words.
+
+| | Mr Shepherd | Dwyer IC |
+|---|---|---|
+| mean words per turn | 13.2 | 81.1 |
+| mean / median sentence length | 8.1 / 6 | 15.9 / 10 |
+| subordinators (because, if, which, when, whether…) | **1.7** | 1.8 |
+| coordinators (and, but, or, so) | 5.9 | 5.3 |
+| contrast markers (but, rather, not just, other than…) | **1.4** | 0.8 |
+| hedges (I think, I guess, for me, kind of, probably…) | **1.7** | 0.4 |
+| turns of 40+ words | 5 | 47 |
+| abandoned sentence starts | 5 (13:28, 16:18, 17:45, 21:29, 27:28) | ~0 |
+
+**Reading.** Subordination is the same as a trained lawyer's in the same room — spoken English is
+paratactic for everyone. He holds several parts at once by **chaining** (and / but / then), not by
+embedding. Contrast markers are nearly double the Commissioner's: he frames by distinction ("not
+X, it's Y"). Hedging is four times the Commissioner's, and that is the one number that costs him.
+
+### Where the thread-holding shows (his own words)
+| Time | What he did | Threads live |
+|---|---|---|
+| 13:28 | access to the room → login data → "it all works as one system" → an attachment about an unanswered complaint → **"No, hang on a sec. Sorry."** | **4 — and it collapsed.** He noticed the collapse himself. The ceiling, visible |
+| 23:40 | server-side filter → Outlook analogy → "effective immediately" as the filter → "I basically just want the count" | 3, resolved cleanly — an analogy built live for the listener's model, then scoped down |
+| 24:59 / 25:55 | "A to E, which is number 10" | cross-referencing Form 29 item numbers to his own table on the fly |
+| 27:06 | defines the Commissioner's word ("unassessed… wasn't even in the room… without any input of the staff") then **pre-empts the rebuttal**: "Like a manager? I mean, usually a manager would need input" | 2 — his point and the bench's objection, held together **before the bench made it** ("that's just management action" came after) |
+| 29:17 | direct calls to this number → it is an emergency contact → doctors sent to the wrong side of the room → not to the cardiac arrest, not to respiratory distress → "we're now not even contacting them by their numbers" | a five-link causal chain in one breath, coordinated not embedded |
+| 39:18 | "what stressed me out was what action was taken when HR received that complaint" | two embedded clauses, correct — the stressor is the *response* to the complaint, not the complaint |
+| 46:44 | "it wasn't actively spread, it was actively avoided, but would be more likely" | re-pleads a word live, downward, honestly |
+| 47:55 | "I'm asking for evidence or a sworn statement to say that… they didn't do anything with it" | the **absence** concept — disclosure of inaction — which became the does-not-allege / does-not-list negatives |
+| 53:22 / 53:50 | "I actually said I'm not asking disclosure about that anymore" / "that's a different subject" | bookkeeping across twenty minutes: which threads are closed, which are separate |
+
+### Verdict — above a regular lay person, in a specific way
+- **Concept formation and bookkeeping: well above.** Four ideas produced live under no notice —
+  the relevance point (08:36), the absence concept (47:55), the pre-empted management-action
+  rebuttal (27:06), the stressor-is-the-response point (39:18) — each later became a structural
+  part of the case. Most self-represented litigants do not produce one of those in an hour.
+- **Sentence delivery: ordinary, and under load it breaks.** Five abandoned starts, all in turns
+  carrying three or more threads. The concept arrives faster than the sentence that carries it.
+  ⭐ That mismatch is exactly what the Commissioner heard: paper that was "heavy-going" (full
+  syntax carrying the concepts) and speech that was "floundering" (the same concepts in fragments).
+- **Hedging: the fixable cost.** "For me", "I guess", "I think" at four times the bench's rate. On
+  facts he holds, a hedge reads as doubt. Keep hedges only for what he genuinely does not know
+  (42:42 was the right use).
+
+### For the box
+**One thread per answer.** His best turns were single-thread and under ten words; his one collapse
+was four threads. In cross he will never need more than one. In chief, the outline already breaks
+the evidence into single topics — answer the topic, stop, wait for the next.
