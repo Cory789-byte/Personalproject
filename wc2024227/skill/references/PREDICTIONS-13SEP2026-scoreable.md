@@ -614,3 +614,39 @@ decision, not hers; the ~65% on non-production stands.
    documents are what they purport to be. It is **not** accepting the truth of their contents, and
    she will keep that reservation — her letter of 8 September makes it in terms. **That reservation
    is the hearing.** Nothing about Dwyer's process reaches it.
+
+### E11 · With E10 in hand — why the 25th, what it changes in the ask, and how she decides
+
+**Why the 25th, if the thirteen are forced.** Because the request is **the first written position she
+must take after seeing the whole case.** On 9 September she received not a document request but a
+package: the footing letter, his outline, two lay outlines (one from a serving MSH employee), the
+self-limiting medical schedule, and a Registry letter that removes the quiet exit on witnesses. The
+answer to the request has to be **consistent with the 30 September filing and with everything
+served on the 9th** — so it gets the same deliberation as the whole, and the whole needs the one
+clear week she has. Plus Tab 31 needs a real MSH round trip, and a reversal of a pleaded position
+needs sign-off.
+
+**What it changes in what he asked.** Nothing in the request itself — it already offers the cheap
+path. But it reframes the drafted extension letter: **¶3 (the documents are in his records because
+MSH's officers sent them) is not pressure; it is the material she needs to justify the concession
+internally.** And **¶6 (the 9A foreshadow) becomes more important, not less** — he now intends to
+serve on or after the 25th, which lands the amended pleading one to three business days before
+their outlines, and ¶6 is the only thing that forecloses a Guide 4.10 objection to that.
+
+**How she decides — by elimination.** Each served document removes an option:
+
+| Served | Option removed |
+|---|---|
+| 298 admissions, 0 denials | contesting the facts |
+| the footing letter | the truth-of-contents escape on operative documents |
+| the medical schedule | surprise on the medical; the footer and the "preoccupation" line are already answered |
+| the Registry letter | not naming Taylor and Reese quietly |
+| the served request quoting the mention | disputing authenticity on the thirteen |
+
+**What is left is the only defence available, and she will take it:** concede the documents;
+name Taylor and Reese; contest **why** (s 32(5)(a) reasonableness) and **causation** (s 32(1),
+the medical) — and seek a **s 556** examination as the strongest remaining move.
+
+⇒ The 25th letter: thirteen conceded, MSH asked on Tab 31, **no comment on the footing** (silence
+is safer than agreement), nothing withdrawn. The 30th filing: Taylor and Reese, outlines on *why*.
+**One decision, expressed in two documents five days apart.**
