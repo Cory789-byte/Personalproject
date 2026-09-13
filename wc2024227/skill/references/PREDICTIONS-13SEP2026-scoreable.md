@@ -308,3 +308,54 @@ Commission's, and that the cheaper option was offered throughout.
 If that letter goes: **the split answer rises from ≈55% to ≈65%**, and **some answer before
 25 September rises from ~10% to ~25%** — because the letter hands her three items she can close in
 minutes without contacting anyone.
+
+### E5 · Why the 25th — the date is not about how long the task takes
+
+Cory is right that the work does not take fifteen days. **The date is not a measure of the task.
+It is a position in her calendar.**
+
+Her working days between her email and her own hard deadline:
+
+| | |
+|---|---|
+| Thu 10 – Fri 11 Sep | two days; she spent one sending the extension request |
+| **Mon 14 – Fri 18 Sep** | *"another hearing next week"* — **unavailable**, and the deadline he set falls on the last day of it |
+| ⭐ **Mon 21 – Fri 25 Sep** | **the only clear week she has** |
+| Mon 28 – Wed 30 Sep | ⛔ **directions 3 and 4**: witness list, an outline of evidence for **each** lay witness, and any expert reports, by 4 pm Wednesday |
+
+**25 September is the last working day of the only clear week she has, and the last Friday before
+her own deadline.** She did not ask for fifteen days because the task needs fifteen days. She
+deferred it to the end of the only week in which she has time — and the week after that is spoken
+for by her own obligations.
+
+### ⭐⭐ The consequence that matters: her answer is a leading indicator of her witness list
+
+The week of **21–25 September is the same week she must build the 30 September material**. Her
+answer on the request will therefore be written by someone who has just spent that week deciding
+**who to call and what they will say**.
+
+That gives a testable relationship:
+
+| If she is minded to | Then conceding authenticity is | Because |
+|---|---|---|
+| **call Taylor and Reese** | **cheaper** | the documents they sent are trivially provable through them; conceding saves hearing time and costs nothing |
+| **not call them** | **dearer** | the disputed tabs retain value as friction |
+
+⇒ **Her 25 September answer signals her 30 September witness list, five days early.**
+A broad concession on authenticity is evidence she intends to call them (supports **B4**).
+A flat maintenance of all fourteen is evidence she does not.
+
+### Does the 25th cost the Appellant anything?
+
+**On the documents: no.** Tab 31 is not needed until a hearing, and none is listed. Even a notice
+of non-party disclosure served on 25 September would not produce anything quickly — MSH's last
+objection took roughly six weeks (Form 29 sealed 22 April 2026 → objection 5 June 2026). Nothing
+was going to be produced before 30 September on any timetable.
+
+**On the pleading: only if he waits.** ⇒ **He should not.** The one time-critical step is service
+of the Second Amended Form 9A, it is entirely within his control, and it must not be coupled to her
+date.
+
+⚠ **A tactical reading is available** — the 25th leaves three business days before her material is
+due — **but it does not pay.** There is nothing the Appellant needs to do in those three days that
+depends on her answer. ⛔ Do not plead it, write it, or rely on it.
