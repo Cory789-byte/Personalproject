@@ -133,3 +133,43 @@ the admitted record already says there is none.
   (whether their outlines go to *why* — `REGULATOR-SIGNALS` §B). If their outlines supply the
   seven missing events for the first time, that is the case they will run, and each one is
   testable against the List.
+
+## 6 · If they call both — why the admitted documents make the cross easier, and how to run it
+
+**Why easier.** The hardest thing a self-represented cross-examiner does is get a document in
+through a hostile witness: prove it is what it is, prove the words, prove the date, then ask the
+question. With 298 facts admitted and (on the 25th) the thirteen conceded, none of that happens.
+Every question starts from a fact the Commission already has. The witness's agreement to the
+document is not needed; only the answer to the one thing the document does not say.
+
+**The form.** One document, one admitted fact, one closed question, then stop.
+> *"Tab 7. Your email of 26 April 2024. It says Ms Taylor 'would get in touch with you about
+> what alternative shifts she could offer'. When did she?"*
+Not "why didn't she". Not "isn't it the case that". The date or the document, and if there is
+neither, *"Is that recorded anywhere?"* — and the List's silence is already admitted (¶213).
+
+**What the cross is for.** Not to win an admission that the action was unreasonable — that is for
+submissions on the whole record. It is to **fix the absence and the sequence** in the witness's
+own mouth: the event did not happen, or happened and is on no List, or the direction came before
+the document (¶158 → ¶159). Three or four fixed absences per witness are worth more than twenty
+arguments.
+
+**Two witnesses, same documents.** The documents cannot be inconsistent with each other; only the
+answers can. Put the same Tab 8 sentence — *"Chloe and I have run thought this"* — to both. Ask
+that witnesses be excluded from the room until called, so the second does not hear the first.
+Whatever daylight appears is between their accounts, and the documents are the fixed points.
+
+**Where it goes wrong, and the answer.**
+- *The witness supplies the missing event orally.* De novo, s 531(2)(a), Dwyer will let it in.
+  Do not argue. Ask: *"Is that recorded anywhere? Is it on the Respondent's List?"* Then leave it;
+  the weight of an unrecorded event first mentioned in the witness box is a submission point.
+- *"I don't recall."* Recall is not needed for anything admitted. Move to the next document.
+- *Asking "why".* It invites the reasonableness account, which is their case in chief. Let them
+  give the reasons in chief; test the reasons against the documents in cross.
+- *Not putting it.* The Commission applies the fairness rule in *Browne v Dunn*: an absence to be
+  relied on in submissions must be put to the witness who could explain it. **The question sets
+  in §4 are not optional if the absences are to be used.**
+
+**Order.** The Respondent calls in its own order; usually Taylor then Reese. Anything Taylor
+fixes (or fails to fix) can be put to Reese as *"Ms Taylor could not point to a record of that.
+Can you?"* — a question, not an assertion.
