@@ -266,3 +266,45 @@ A refusal now runs against a position the request attributes to the Commissioner
 reservation already made. That is a second reason why "review" rather than a same-week answer is
 the expected response — and it is visible on the face of the letter, without inferring anything
 about her.
+
+### E4 · The time sought is not needed for the work the request describes (Cory, 13 Sep)
+
+**Correct, and it is demonstrable on admitted facts — not on inference.**
+
+The request offers, for every document, **(a)** produce a copy **or (b)** admit authenticity under
+r 49. **Option (b) requires no document at all.** It is a decision, and the contents of every tab
+except Tab 31 are already admitted.
+
+And on the schedule the Appellant himself served, **three of the twelve are held by the Respondent
+or sit on the Commission's file**:
+
+| Tab | Why no non-party contact is needed | Admitted fact |
+|---|---|---|
+| **6** — Taylor, 15 Apr 2024, "Afterhours Oncall Process" | ⭐ The **Respondent's own amended List of Documents** lists at item 25 an attachment described as *"Email: After hours on call process"* — this document. She served that list on 14 August 2026 | **277**, and 49, 163 |
+| **20** — MSH to **Commissioner Dwyer**, 5 Jun 2026, K-LM26/729 | Addressed to the Commissioner; **on the Commission's file** | **263 to 268** |
+| **30** — Taylor, 23 Aug 2023, "What's Chloe's Hours?!" | ⭐⭐ **Review Decision 69983 — the decision under appeal — quotes it.** The Regulator's own review officer had it | **70**, and 71, 72 |
+
+⇒ **Only Tab 31 genuinely requires Metro South Health.** Everything else needs a decision, and
+three of them need not even that.
+
+### What to do with it — and what not to do
+
+⛔ **Do not write "you do not need that time."** That is an allegation about her, it invites a
+defensive answer, and it breaches the standing rule (*ask, never allege*).
+
+⭐ **Recommended: grant the extension, and record the position.** A short letter that
+**(a)** agrees to 25 September without qualification; **(b)** notes, neutrally, that option (b)
+requires no document, and that the schedule identifies Tabs 6, 20 and 30 as held by the Respondent
+or on the Commission's file, *if answering those sooner would assist*; **(c)** adds no new
+reservation, the costs position of 9 September already standing.
+
+**Why bother, when the documents are not needed until a hearing is listed:** r 49 carries **no
+costs-of-proof sanction**. The only route is **WCRA s 558(3)**, and that turns entirely on the
+correspondence record. If Tab 31 has to be chased by non-party disclosure later, the record should
+show that fifteen days were given, that three of the documents were the Respondent's own or the
+Commission's, and that the cheaper option was offered throughout.
+
+### Effect on the predictions
+If that letter goes: **the split answer rises from ≈55% to ≈65%**, and **some answer before
+25 September rises from ~10% to ~25%** — because the letter hands her three items she can close in
+minutes without contacting anyone.
