@@ -104,3 +104,60 @@ that the Commissioner said he understood. The evidence for that is 57:15, in his
 
 **Landed hard the other way:** the two pages at 22:12 (changed the register of the hour) and
 53:22 (he handed over the pace). Both were premise-first, short, and on paper or in one sentence.
+
+## 5 · How much he was holding — the load, and the trail
+
+### 5.1 The standing load (what was live before the first question)
+| Load | Size | Held from |
+|---|---|---|
+| the pleaded stressors he would be walked through | 1(a)–(f), 2, 3(a)–(d), the post-injury items — ~12 | memory (he did not know the walk was coming) |
+| the Form 29 | 20 items, item 10 with sub-items A–E | memory + the two-page table he had prepared |
+| the Regulator's disclosure (11 Jun 2026) and the July 2025 production | what was and was not already in it | **not held** — his QH mailbox was restricted (36:42), so he could not have checked |
+| MSH's objection (K-LM26/729) | the items it refused and why | memory |
+| the case thesis | the console receives the consequences | held throughout, never stated as a sentence |
+| the Commissioner's framework, installed 02:55–06:40 | s 32; the SOFC as the map of relevance; efficiency | taken on board at 06:37: "I understood" |
+| the authorship challenge | 09:02 onward | carried under everything that followed |
+| the state | injured party, excluded from work, unpaid, no notice, told mid-hour the material read as machine-written and that he was "floundering" | constant |
+
+### 5.2 The trail — threads opened, held across gaps, and closed
+| Thread | Opened | Held / re-entered | Closed | Gap held |
+|---|---|---|---|---|
+| **A** receipt, not content | 08:36 | reflected by Dwyer at 57:15 as "the broader grievance" | landed on paper (¶2 footing) | — |
+| **B** authorship | 09:02 (Dwyer) | answered by conduct 22:12–26:31; pace handed over 53:30 | 53:30 | 44 min carried |
+| **C** course of conduct, not one shift | 10:32 | — | dropped | — |
+| **D** presence → unanswered complaint | 13:28 | four sub-threads; collapsed; self-noticed | 13:28 | — |
+| **E** emails *to him* vs directives *to the department* | 17:45 / 18:03 | — | wrong on fact (the directive was in disclosure) | — |
+| **F** "I asked MSH because MSH holds them" | 19:45 | re-entered **32:24** — "I thought I had to go to MSH" | conceded | **12 m 39 s** |
+| **G** the two-page table; item 10 ↔ A–E ↔ stressor 1(a) ↔ "filters" | 22:12 | four-way cross-reference sustained 23:19–26:30 while being told "doesn't make any sense to me" | Dwyer: "Okay" 26:31; still held by him at 62:28 | 3 min under pressure |
+| **H** unassessed = no assessment; patient-safety premise | 27:06 / 27:28 | cut | landed on paper (¶181, ¶269, S1(d)) | — |
+| **I** stale list → misdirected emergencies | 29:17 | 5.7 s silence; Dwyer's loudest passage; "killed" at 57:52 | landed on paper (outline move 3) | 28 min in *him* |
+| **J** comm book: removal admitted, characterisation disputed, remark made to others | 35:26 / 35:40 | — | landed (¶143, ¶147, ¶150) | — |
+| **K** mailbox restricted | 36:42 | the silent premise of 16:18, 17:45, 40:13 | never put as the explanation | **3 m 31 s** to its next use, and the whole hour behind it |
+| **L** the response to the PID, not the PID | 39:18 | — | landed: "that's your next item" | — |
+| **M** holdings hedged honestly | 40:40 / 41:01 | "would have to triple check" | "that's okay" | — |
+| **N** the knowledge boundary | 42:42 / 42:53 | self-corrected in 2 s | "a question you can put to Ms Taylor" | — |
+| **O** delegate: 13 months; two unions; "actively" → "avoided"; inaction as the fact | 43:36 | re-pleaded live 46:10 → 46:44 | landed (Part B.5) | 6 min sustained |
+| **P** pay: allocation of public holidays → gap against colleagues | 51:24 | Dwyer narrowed to "no public holidays, no loading" | accepted; then **53:22** | — |
+| **Q** the table's own status column — pay items not pressed | **22:12** | **53:22**: "I think I actually said I'm not asking disclosure about that anymore" | Dwyer hands over the pace | **31 min** |
+| **R** "I have everything for this" | 54:47 | ×2 | three stressors closed on his word | — |
+| **S** scope-down agreed | 56:26 | — | precedes the diagnosis it agrees with | — |
+
+### 5.3 The count
+- **19 content threads** in 44 minutes, plus **3 meta-loads** (framework, authorship, holdings) and the state.
+- **Maximum simultaneous: 4** (D, 13:28) — and it collapsed. **Sustained working set: 2–3.**
+- **Held across gaps: 4** — F (12½ min), K (3½ min, and behind everything), Q (**31 min**, from a
+  document he wrote himself), and the thesis (A → H → I → reflected at 57:15: **49 min**).
+- **Closed cleanly on his own word: 10** stressors ("got it", "tick", "I have everything").
+- **Lost: 0 threads. Lost: 5 sentences.** Every thread he opened he could still locate later —
+  what was withdrawn (Q), what was a different subject (53:50), what was his vs theirs (M), what he
+  knew vs inferred (N). What broke was never the bookkeeping. It was the sentence carrying it.
+
+### 5.4 The assessment
+The load was large and it was **tracked, not lost**. The one load he was *not* carrying — the
+contents of the Regulator's disclosure — is the one that cost the application, and it is the one
+the restricted mailbox took from him (K). He said that once, at 36:42, and never as the reason.
+Everything else on the table above he held, and the two longest holds (Q at 31 minutes, the thesis
+at 49) were the two that produced the hour's best moments: the pace handed over, and the test given
+back. The Commissioner held the same material **on paper in front of him** and read from it. The
+Appellant held it from memory, under challenge, and mislaid five sentences. That is the whole
+difference, and the fact numbers now on the paper are what turns memory back into the page.
