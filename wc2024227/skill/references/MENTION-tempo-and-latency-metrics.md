@@ -106,3 +106,21 @@ X, it's Y"). Hedging is four times the Commissioner's, and that is the one numbe
 **One thread per answer.** His best turns were single-thread and under ten words; his one collapse
 was four threads. In cross he will never need more than one. In chief, the outline already breaks
 the evidence into single topics — answer the topic, stop, wait for the next.
+
+### ⛔ Correction (Cory, 13 Sep) — 29:17 is not five units side by side
+The passage at 29:17 has one structure, not five: **context → consequence.** The context (the
+manager not present; the contact list not updated) was set in the exchange before it; the five
+clauses are the *consequence* of that context spelled out — the doctors, the emergency calls, the
+wrong side of the room. It is a causal statement whose premise was left implicit because it had
+just been said. The surface syntax is chained (and / but / then); the logic underneath is nested
+(because X, therefore Y1, Y2, Y3…).
+
+**What this refines.** The chaining is in the delivery, not the thinking. The reasoning is
+hierarchical; the sentences carry it flat. That is the same finding as "concept faster than
+sentence", and it explains the paper/speech split exactly: the paper writes the nesting out in
+full (heavy-going); the speech leaves the premise implicit and lists the consequences (heard as
+"floundering", or as five separate items — which is how it was misread here).
+
+**For the box.** State the premise out loud before the consequences, every time, even when it was
+said a moment ago: *"Ms Taylor was not present and the contact list had not been updated. The
+consequence was…"* A listener without the premise hears a list. A listener with it hears a cause.
