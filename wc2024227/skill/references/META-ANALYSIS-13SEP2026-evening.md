@@ -95,8 +95,7 @@ the LOD; the mention transcript.
 **Inferred and not verifiable:** why Matheson chose the 25th; whether counsel is being briefed;
 what MSH is told; whether an IME is already commissioned.
 
-⭐⭐ **The one unobserved variable that moves five predictions remains whether OIR briefs counsel
-before 30 September.** Leading indicator: a new name on any OIR email.
+⛔ **Corrected 13 Sep, late:** counsel is **not** a variable. Willson (WHS-specialist panel counsel) has been on the file since at least 17 Feb 2026 and appeared through 7 Apr; Gray was paid Dec 2024. **The variable is whether counsel APPEARS for the hearing phase.** Leading indicator: an appearance email naming counsel for the conference or hearing.
 
 ⛔ **And the single largest exposure not yet priced in the repo is costs following the event**
 (Guide Part 10; reg 132 unverified). It runs both ways, it is not protected by self-representation,

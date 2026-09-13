@@ -106,7 +106,8 @@ is the cheaper path and the one the Commission prefers.
 
 ## C · WHAT WOULD MAKE ME WRONG
 
-⭐⭐ **One unobserved variable dominates: whether OIR briefs counsel before 30 September.**
+~~⭐⭐ **One unobserved variable dominates: whether OIR briefs counsel before 30 September.**~~
+⛔ **Struck 13 Sep, late — see E13.** Counsel has been on the file since at least 17 Feb 2026 (Willson; Gray paid Dec 2024). The variable is whether counsel **appears** for the hearing phase.
 
 If they do, expect within days — a tidier Form 25 position (B6 → near certain), possibly an
 application about the Second Amended Form 9A, a sharper focus on *Delaney* and on causation, and a
@@ -663,3 +664,36 @@ application becomes the expected next move after the 30th**; the 25 Sep letter w
 the footing; the defence will be narrowed to s 32(5)(a) and causation.
 ⚠ "Peter" is unresolved and could be anyone. The inference rests on the pattern.
 ⛔ No outward use. Prediction only.
+
+### E13 · ⛔ Correction — counsel is a constant, not a variable (Cory, 13 Sep)
+
+Since E1 these predictions have carried *"whether OIR briefs counsel before 30 September"* as the one
+unobserved variable moving five of eight. **That was wrong, and the repo already said so.**
+
+`confirmed-record.md` line 10 and `working-theories.md` lines 69 and 77 record that **Ms Lisa
+Willson, WHS-specialist panel counsel for the Regulator**, was briefed by **17 February 2026** at the
+latest (the unavailability email that moved the mention), **appeared at 27 Feb, 13 Mar and 7 Apr
+2026**, and **did not appear on 22 May** or at the 7 August mention. **Stephen Gray** was paid by
+OIR on 12 December 2024 and authored the February response. Counsel has been on this file for the
+whole of 2026, and on the money since the quarter of the review decision.
+
+⭐ And `working-theories.md` line 69 already made the point E12 treated as new: *"standing down
+from APPEARANCES is not ceasing to ADVISE — counsel advises without appearing. The extreme care of
+Matheson's cover email … is the FINGERPRINT of considered, advised drafting."* **The "Peter" letter
+of 8 September is one more instance of a documented pattern, not a discovery.**
+
+### What the variable actually is
+Not *whether* counsel — **whether counsel APPEARS** at the conference and the hearing, and
+**who**. The repo's own indicator stands: **Willson's reappearance = a move toward hearing or
+resolution.** Her absence since 22 May is consistent with an advisory-only phase while the
+pleadings and admissions were exchanged.
+
+### Effects
+- E12's effects **stand**, but the reasoning is stronger than E12 gave it: they were never
+  "probably" counsel-driven; they have been counsel-driven since February.
+- The **s 556** expectation stands — and a WHS-specialist counsel is exactly who would frame the
+  causation and management-action case tightly.
+- The **s 552B** point strengthens: the Regulator has been represented by counsel throughout the
+  contested phase. Equality of arms is not an argument to make; it is a fact to state.
+- ⭐ **New leading indicator, replacing the old one:** an appearance email naming Willson (or other
+  counsel) for the conference or hearing. That is the signal that the hearing phase has begun.

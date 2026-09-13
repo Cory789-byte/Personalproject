@@ -33,9 +33,7 @@ supervisor's — on this pattern it is counsel's.**
 The predictions have said since E1 that the single variable moving five of eight is *"whether OIR
 briefs counsel before 30 September."*
 
-**On this evidence, counsel is already on the file.** Not inferred from behaviour — recorded in the
-author field of the document that made the 298 admissions, on the same pattern as the February
-response.
+**Counsel has been on the file since at least 17 February 2026** (`confirmed-record.md` l.10; `working-theories.md` l.69, 77 — Willson appeared 27 Feb, 13 Mar, 7 Apr; absent 22 May and 7 Aug; Gray paid Dec 2024). The "Peter" letter is **one more instance of a documented pattern** — counsel advising without appearing — not a discovery. See E13.
 
 ⚠ **Caveat, stated plainly:** "Peter" could be a paralegal, a manager, or a template profile. The
 February author was resolved to a barrister by an external payments file; the September author is
