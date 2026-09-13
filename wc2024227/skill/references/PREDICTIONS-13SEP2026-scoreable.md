@@ -359,3 +359,46 @@ date.
 ⚠ **A tactical reading is available** — the 25th leaves three business days before her material is
 due — **but it does not pay.** There is nothing the Appellant needs to do in those three days that
 depends on her answer. ⛔ Do not plead it, write it, or rely on it.
+
+### E6 · Why not the 30th — 25 September was the only date available
+
+**Every deadline in this exchange follows a rule, and it is visible on the record:**
+
+| Date | Set by | What |
+|---|---|---|
+| **Wed 9 Sep** | **Commission** | directions 1 and 2 |
+| Fri 11 Sep | party | his letter re her 8 September letter — objection sought |
+| Fri 18 Sep | party | his request — documents not admitted |
+| Fri 25 Sep | party | her extension |
+| **Wed 30 Sep** | **Commission** | directions 3 and 4 |
+
+⭐ **Party-set correspondence deadlines are Fridays. Commission-set dates are Wednesdays.**
+Three of three, and two of two.
+
+**The Fridays available to her when she wrote on Thursday 10 September:**
+
+| | |
+|---|---|
+| Fri 11 Sep | the next day — not a real extension |
+| Fri 18 Sep | inside her stated hearing week |
+| ⭐ **Fri 25 Sep** | **the only one that works** |
+| Fri 2 Oct | after her own 30 September deadline |
+
+⇒ **25 September was not chosen. It was the only date left.**
+
+### Why she would not ask for the 30th
+1. It is a **Wednesday** — a Commission filing date, not a correspondence date. Nobody sets a
+   correspondence deadline on the day court material is due.
+2. It is **her own 4 pm deadline** for a witness list, an outline of evidence for *each* lay
+   witness, and any expert reports. Answering the request that day means doing both at once.
+3. Asking for it would read as parking the request behind her own obligations, and would invite
+   exactly that observation.
+
+### ⚠ And the inference worth flagging, clearly marked as one
+If the authenticity question were **independent** of her witness material, she could have parked it
+to 30 September or beyond. Choosing a date **five days before** her own deadline is consistent with
+needing it resolved **in order to** finalise that material.
+
+That sharpens **E5**: her answer may not merely *signal* the witness list — it may be an **input**
+to it. ⛔ **Inference, not fact.** The Friday analysis above is sufficient on its own and requires
+no inference at all.
