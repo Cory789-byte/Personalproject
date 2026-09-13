@@ -76,3 +76,31 @@ written in first.
 carried silently. It landed as paper because paper forces the premise onto the page.** The hearing
 is the third surface, and it is a speech surface. The instruction for it is already written at the
 foot of the metrics note: premise first, out loud, every time.
+
+## 4 · Did he understand, and did anything land hard
+
+**Understood — three times over.** (i) At 27:24 he pre-empted the thesis before it was finished
+("that's just management action"): he knew what the case was. (ii) At 57:15 he named the premise
+back — systemic failings, non-compliance with protocol, procedure, legislation — and said *"you may
+be right about all of that."* (iii) He then gave the materiality test for it: *"it's only a problem
+if somebody gets sacked or somebody gets killed… and it's only then… they become relevant."* A
+Member who states the hurdle has understood the thesis. What he did not do is apply the test to the
+facts he had himself just read out (the abandonment termination at 56:00; the emergency calls at
+29:17) — because it was the case, and the listing was disclosure.
+
+**Landed hard — 29:17, and the transcript shows it.**
+- **5.7 s of silence** before he answered: the longest pause he took after anything the Appellant
+  said, excluding the two where he was reading the handed-up pages (24:59, 25:55).
+- Then: *"I'm going to move on… I'm concerned at the direction this is going in."*
+- Then the loudest, highest-pitched passage of the hour (`↑+5.9st louder`): *"If we can't get to
+  that, I'm going to schedule this disclosure dispute for a hearing."*
+- **28 minutes later**, unprompted, the only reference to death in the hour — *"or somebody gets
+  killed"* — following the only reference to cardiac arrest in the hour. Sequence, not proof.
+
+⛔ **Attribution check.** *"Yeah, I actually understand what you're getting at"* at 30:13 is
+**Mr Shepherd's** line, spliced by the diariser into the middle of Dwyer's sentence — confirmed by
+the Appellant, who was present (prosody transcript, correction table row 437). It is not evidence
+that the Commissioner said he understood. The evidence for that is 57:15, in his own words.
+
+**Landed hard the other way:** the two pages at 22:12 (changed the register of the hour) and
+53:22 (he handed over the pace). Both were premise-first, short, and on paper or in one sentence.
