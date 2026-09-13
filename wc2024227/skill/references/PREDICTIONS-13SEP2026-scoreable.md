@@ -566,3 +566,51 @@ The value here is **predictive, not rhetorical.** Writing "your witness can veri
 preparation and crosses the line set at E7. The letter as drafted already reaches the same place by
 a safe route — the request's own schedule records the source of each copy, and says nothing about
 witnesses. **Leave it.**
+
+### E10 · ⛔ Correction — the mention constrains HER, and the thirteen tabs are close to certain (Cory, 13 Sep)
+
+I priced authenticity concession as a choice she makes according to her witness posture. **It is
+not a free choice. The Commissioner prescribed the process, and she is on the other end of it.**
+
+At **18:31** and **19:51** Dwyer laid it out, to the Appellant, in her presence:
+1. see what the Regulator has disclosed;
+2. write to the Regulator — *"that document should be in your possession or control and I want
+   you to make inquiries and produce it to me"*;
+3. *"if they don't, well, then you go to your non-party disclosure."*
+
+And he put the Regulator forward as the channel: *"the regulator whilst not representing the
+health service **will have access to the health service**."*
+
+**The Appellant did exactly that.** The request of 9 September asks the Regulator, not MSH, and
+quotes the Commissioner's indication on its face.
+
+### What that does to the thirteen tabs
+
+If she maintains the authenticity dispute on the 25th, the next step is an application **before the
+Commissioner who prescribed the process**, on documents whose **contents she has admitted**, which
+**her client's own officers sent to the Appellant** (admitted), three of which **she holds herself
+or sit on the Commission's file**. The appellant would say: *I did what the bench told me to do; the
+channel the bench vouched for has not produced.*
+
+⇒ That is not a position a Senior Appeals Officer takes in front of Dwyer. **Concession of
+authenticity on the thirteen: ~85–90%** (was priced inside a ~60% "split"). Cory's word is
+"guarantee"; I will not use it, but his reasoning is sound and mine was not.
+
+### Tab 31 is different, and the same process explains why
+
+She **cannot certify a document she does not hold**. Dwyer's step 2 is *make inquiries and
+produce*; step 3 is non-party disclosure if they don't. So on Tab 31 the expected 25th answer is
+**"MSH has been asked"** — and if MSH does not produce, the Commissioner has **already contemplated**
+the non-party route. Her incentive is to be seen to have asked. ⚠ Whether MSH produces is MSH's
+decision, not hers; the ~65% on non-production stands.
+
+### ⛔ Two consequences for my own earlier entries
+
+1. **E9's "tell" is weaker than stated.** If authenticity on Tabs 5, 6, 30 and 30A is conceded
+   *regardless* of witness posture — because the process forces it — then those four tabs **no longer
+   discriminate** between full and minimal defence. What still discriminates: **who is named on the
+   30th**, and whether the 25th letter says anything about Tab 31 having been sought.
+2. **"Accept what is the truth" needs one distinction kept.** Conceding authenticity = accepting the
+   documents are what they purport to be. It is **not** accepting the truth of their contents, and
+   she will keep that reservation — her letter of 8 September makes it in terms. **That reservation
+   is the hearing.** Nothing about Dwyer's process reaches it.
