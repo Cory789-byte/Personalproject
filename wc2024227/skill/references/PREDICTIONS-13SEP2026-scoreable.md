@@ -175,3 +175,40 @@ file**. Only **Tab 31** genuinely requires MSH.
 ⇒ ⭐ **Most likely single outcome on 25 September (≈45%): a split answer** — authenticity admitted
 or conceded on the straightforward tabs, with Tab 31 deferred as "MSH has been asked". That would
 partly resolve **B6** early and leave **B2** intact.
+
+### E2 · A better reading of why the time was needed at all (Cory, 13 Sep)
+
+⛔ **I put the MSH element first. Her sentence does not.**
+
+> *"…to enable me time to **review this request** and **if needed** reach out to MSH in relation to
+> the requested documents"*
+
+**"Review this request" is unconditional. "Reach out to MSH" is conditional.** The review is the
+main thing she asked for; MSH is the contingency. I had it the wrong way round.
+
+### What the sequence shows
+
+| | |
+|---|---|
+| **8 Sep** | She admits 298 facts, and disputes 14 authenticities by applying a provenance rule mechanically — 14 of 14 "from the Appellant's own records", 16 of 16 "produced by the Respondent" |
+| **9 Sep** | Two letters. **One states the footing**: where a document *is* the step taken, the admission establishes that the step was taken on that date in those terms. **The other shows the authenticity disputes cannot stand with her own admissions**, offers admission under r 49 as the cheap option, and reserves costs if non-party disclosure becomes necessary |
+| **10 Sep** | ⭐ Extension sought — **1 day. The fastest response anywhere in the file.** |
+
+⇒ The provenance rule was applied **before** she had been told what the admissions would be used to
+establish. After the letters of 9 September the same rule reads differently, because for thirteen
+of the fourteen tabs she has **already admitted the contents**. That is a reason to review rather
+than to answer.
+
+### The two explanations are not rivals
+- **Her hearing week (14–18 Sep) explains the _length_** — one Friday to the next.
+- **What she was told on 9 September explains why _review_ was needed at all**, rather than simply
+  exercising option (b), which costs nothing and requires no contact with MSH.
+
+⚠ **Verifiable:** the sequence, the one-day latency, the grammar of her sentence, and that option
+(b) needs no MSH contact. **Inferred, and not verifiable:** that the letters caused the need for
+review. ⛔ This is the class of inference the assistant is least reliable at — see ONBOARDING §7.
+
+### Effect on the predictions
+**The split answer moves from ≈45% to ≈55%**, and **B6 (some authenticity conceded if pressed)
+from 60% to ≈70%** — because on this reading the thing under review *is* the authenticity
+question, not the logistics of obtaining documents from a non-party.
