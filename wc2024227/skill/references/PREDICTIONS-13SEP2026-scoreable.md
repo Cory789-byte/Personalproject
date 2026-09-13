@@ -733,3 +733,29 @@ for 25 September.**
 "Some answer before 25 September" **falls** to ~15% — a party that asks on day one for the last
 available day intends to use it. And the reading of the 25th letter stands: read it as the
 approved, aligned position it will be.
+
+### E15 · What was actually new to them on 9 September — not the facts, the architecture (Cory, 13 Sep)
+
+They already held the substance: the April 9A, the 303 facts, their own 298 admissions, the medical
+documents at items 10 and 11 of their List, and the case theory from the mention. **Nothing factual
+arrived on 9 September.** What arrived was the structure by which those facts would be deployed,
+and that structure removed options they had been preserving.
+
+| New on 9 Sep | What it removed |
+|---|---|
+| ⭐⭐⭐ **Ms Conaghan** — a serving MSH Switchboard officer on the Appellant's list, saying no consultation, no ballot | the one thing that **could not be inferred from the file**, because it is a person's decision, not a document. Every other item below could have been anticipated from the 303; this could not |
+| ⭐⭐ **The footing letter** — operative documents *are* the step taken | the truth-of-contents reservation they had drafted **the day before**, on ~200 of the 298. Within 24 hours the reservation was shown to be largely inert |
+| ⭐ **The medical schedule** — self-limiting; "preoccupation with the claim" and the footer disclosed by him | the surprise attack on causation, which was their best remaining ground |
+| **Mr Harrison-Jones** — eyewitness to the reprimand | the possibility of leaving Taylor's account uncontradicted on the incident Dwyer singled out |
+| **The Registry letter** — he will not call Taylor or Reese; expects them to; attendance notices otherwise | the quiet exit of naming nobody |
+| **The request quoting the mention** | the authenticity dispute on the thirteen |
+
+⇒ **The 8 September letter was designed to preserve four things — relevance, admissibility,
+characterisation, truth of contents.** By the 10th, three of the four had been shown not to help on
+the operative documents, and the fourth is answered by the pleading. **The defence they had just
+built did not fit the case they now had to meet.** That is what the one-day extension recognises.
+
+⚠ **On the word "derailed":** the same evidence fits a disciplined reading — a counsel-led team read
+it, recognised it, and did the sensible thing. What is knowable is that they did not hold their
+position and bought the maximum time. Whether it felt like derailment inside OIR is not knowable
+and does not need to be.
