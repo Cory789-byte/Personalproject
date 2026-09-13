@@ -650,3 +650,16 @@ the medical) — and seek a **s 556** examination as the strongest remaining mov
 ⇒ The 25th letter: thirteen conceded, MSH asked on Tab 31, **no comment on the footing** (silence
 is safer than agreement), nothing withdrawn. The 30th filing: Taylor and Reese, outlines on *why*.
 **One decision, expressed in two documents five days apart.**
+
+### E12 · The counsel variable may already be resolved — see `THE-SECOND-REVIEW-who-authored-the-8-September-letter.md`
+
+The 8 September cover letter carries the PDF author **"Peter"**, finalised ten minutes before
+service; the February response carried **Stephen Gray**, a barrister paid by OIR. Both responses to
+the notices to admit bear a non-Matheson hand on the legally careful document, on OIR's established
+pattern of in-house officer plus briefed counsel.
+
+⇒ **Counsel is probably already on the file.** Effects: E10 holds or rises; B4 holds; **a s 556
+application becomes the expected next move after the 30th**; the 25 Sep letter will be silent on
+the footing; the defence will be narrowed to s 32(5)(a) and causation.
+⚠ "Peter" is unresolved and could be anyone. The inference rests on the pattern.
+⛔ No outward use. Prediction only.
