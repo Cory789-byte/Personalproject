@@ -843,3 +843,142 @@ likely vehicle. **OUTCOME:** ______
 Everything else about "what they are doing" — sign-off above Matheson, MSH being asked about Tab 31
 and about Taylor and Reese, a re-plan rather than administration — is inferred, and is marked so in
 `REGULATOR-SIGNALS-the-full-data-set.md` §D and in the scenario model's Addendum 2.
+
+### E16 · Why the shape — why not concede the papers after a quick email to MSH and discuss the rest later (Cory, 13 Sep)
+
+**The question.** Verifying thirteen emails is half an hour's work. Conceding their authenticity is
+one line. MSH could confirm them in a day. Why fifteen days, and why a single aligned answer rather
+than "here are the papers, the rest later"?
+
+**Three reasons already in the file, briefly:**
+1. **Reversal of counsel's drafted position (classes 2, 3).** The 8 Sep reservations were written in
+   the legal register by a second hand and served ten minutes after its last save. Conceding on the
+   10th would have been Matheson, in her own voice, undoing that letter within 48 hours. The same
+   hand drafts the retreat, and that hand had a hearing week in between. The wait is the review
+   cycle, not the task.
+2. **The MSH email is not one question (E9).** The thirteen documents are the ones Taylor and Reese
+   would be examined on. Asking MSH to verify the papers is the same conversation as asking whether
+   its officers will give evidence, and on what. That answer feeds direction 4 on the 30th, which
+   is why the 25th sits five days in front of it.
+3. **One move, not two (classes 6, 7).** Their pleaded position still anchors to 13 May 2026. A
+   concession on the 11th would be a second move in a fortnight, made before the outlines and the
+   list that state the new case. Institutions move position once, aligned.
+
+**The fourth reason is the interesting one, and it is in the served text.**
+
+#### What the footing letter of 9 September actually told them
+
+The letter is at `documents/served-2026-09-09/Letter_to_Regulator_re_letter_of_8_September_2026_AS_SERVED.pdf`.
+Three paragraphs do the work.
+
+**¶2 — the documents are the acts, not reports of them.** *"Where the document is itself the step
+taken – a roster as published, a directive as issued by email, a payroll instruction or claim as
+recorded, a request as made and the reply as given, each on the date recorded – the Appellant relies
+on the admission as establishing that the step was taken on that date in those terms. The Appellant
+does not rely on those documents as statements about some other event."* The ranges named are
+facts 49, 66, 74–77, 81, 182–205, 210, 211–223, 263–268, 56–68 and 89–104 — **some 80 facts**.
+And the paragraph closes: *"Several of the documents in those ranges were sent by Ms Taylor or
+Ms Reese, whom the Appellant expects the Respondent to call."*
+
+**¶3 — the documents that record what others said come in with their authors.** *"the Appellant
+relies on the admission for the existence and wording of the document and on the oral evidence of
+its author for the rest."* Dr Krishnaiah and Dr Hawes are named and *"will be called"*. Review
+Decision 69983 is *"not relied upon as binding the Commission"*.
+
+**¶1 — no stretch.** *"draws no characterisation, conclusion or inference from any admitted fact
+beyond the fact admitted."*
+
+And the request letter of the same day: *"had the authenticity of the copies been admitted, as
+their contents were under the Form 24, none of these documents would need to be sought"* — with
+option (b), admit authenticity under r 49, costing nothing, and the Commissioner's own process from
+the mention quoted back.
+
+⚠ **Correction to the shorthand used in conversation.** It is not accurate that conceding the
+thirteen "closes the truth-of-contents reservation on most of the 298". The thirteen only close
+**tender**. What makes the reservation inert is ¶2, and it does so on the ~80 operative facts, not
+on most of 298. The balance of the reservation — *"any statement by a treating medical
+practitioner, any finding recorded in Review Decision 69983"* — stays live, and ¶3 answers it by
+calling the authors rather than by argument. The reservation is not defeated; it is **left with
+nothing to bite on**, range by range.
+
+#### What they understand from it — read as counsel would read the three documents together
+
+1. **The reservation they drafted on the 8th has no work to do on the operative ranges.** A
+   reservation about the truth of a statement protects against a document being used to prove that
+   some event happened. ¶2 says the documents will not be used that way. A roster is not a claim
+   that something happened; it *is* the thing that happened. The directive of 15 April 2024 is not
+   evidence that a directive was issued; it *is* the directive. On ~80 facts the objection they
+   preserved cannot be taken, because nothing is being asserted that the objection could meet.
+
+2. **What is left on those 80 facts is relevance, weight and characterisation — and none of those
+   can be argued from the documents.** Whether a published roster was reasonable management action
+   is not on the face of the roster. It is in the reasons for it. The documents give the act, the
+   date and the words. Only the author can add the reason. ¶2's last sentence names the authors
+   and says who is expected to call them. The Registry letter of the same day says the Appellant
+   will not, and will seek attendance notices if the list of 30 September does not. **The
+   Appellant has put on the record, before their own list is due, that the explanation of the acts
+   is theirs to supply.**
+
+3. **The medical is met the same way.** The reservation on *"any statement by a treating medical
+   practitioner"* is answered by the practitioners attending. Their reserved objection converts
+   into cross-examination of two doctors on records they wrote at the time, with the schedule
+   already conceding what each document is not relied on for. If they want a different medical
+   view they have to bring one — hence the s 556 expectation.
+
+4. **There is no stretch to attack.** ¶1 disclaims any inference beyond the fact admitted. The one
+   argument that would justify a *Tuesley*-type application — that admissions are being used for
+   more than they say — has been taken off the table by the Appellant in writing.
+
+5. **The authenticity dispute is now visibly mechanical.** Contents admitted on every tab but 31;
+   option (b) costs nothing; the Commissioner's process quoted; non-party disclosure and costs if
+   neither option is taken. Maintaining it means telling Dwyer that a copy of an email whose
+   contents they have admitted may not be what it appears to be.
+
+⇒ **The case, as they now read it, has three steps. Two are the Appellant's and are closed or
+closing. One is theirs and is open.**
+
+| Step | Proves | Whose | State on 9 Sep |
+|---|---|---|---|
+| 1 · the acts | what was done, when, in what words | Appellant, by admission | closed on contents; **tender closes when the thirteen are conceded** |
+| 2 · the injury and its connection to the acts | s 32(1), element (d) | Appellant, by the doctors in person | closing — schedule served, authors listed; item 5 outstanding |
+| 3 · the reasons for the acts | s 32(5)(a) — reasonable management action, reasonably taken | **Respondent, by Taylor and Reese** | **open, and theirs to fill by 30 Sep** |
+
+#### Why that forces "witnesses first, then papers"
+
+Conceding the thirteen finishes step 1. Once step 1 is finished, the appeal is decided at step 3,
+and step 3 is a witness question. So before they let go of the papers they need to know three
+things, and none of them can be known from the file:
+
+- **Will MSH release Taylor and Reese to give evidence?** MSH is a non-party whose last instinct in
+  this proceeding was to object (the letter of 5 June 2026, K-LM26/729 — itself one of the
+  thirteen tabs).
+- **Can those officers give reasons that survive the record?** Their evidence has to be consistent
+  with ~80 admitted acts, the ~40 admitted negatives at Part B.5, fact 260 (the review officer's
+  own finding on the 17–18 March rostering) and the conferencing notes taken from them on 8 and
+  10 July 2025 (items 37–39 and 41 of their List) — **notes taken before the admissions existed**.
+  Those notes now have to be re-read against what has since been admitted.
+- **If the answer to either is no, what then?** Then conceding the thirteen is conceding the
+  case in substance, and Guide 5.1 says that is done following a conference, not in a letter.
+
+That is the order: **find out whether step 3 is available, then close step 1.** A party that
+conceded the papers on the 11th and found on the 24th that its witnesses would not come, or could
+not carry the reasons, would have closed the Appellant's case for him before knowing whether it had
+one of its own. The fifteen days are the time it takes to ask MSH the real question and get an
+answer, aligned with the 30th because the same answer fills the list.
+
+#### What follows, and how it scores
+
+- **The 25th letter will not mention the witnesses.** That is the 30th's document. But if the
+  thirteen are conceded on the 25th, the inference is that the witness answer had come back in a
+  form they could live with. **Confidence 80%** that a full concession on the 25th is followed by
+  Taylor and Reese on the 30th list. *(This is the coupling. If the thirteen are conceded and the
+  list names neither, the coupling is wrong and E16 is falsified.)*
+- **A holding reply on the 25th** (operational register, "still making enquiries") means the MSH
+  answer had not arrived — and then the list on the 30th is the document to read for the same
+  information.
+- **Tab 31 is outside this logic.** Its contents are *not* admitted, so it is genuine step-1 work
+  and can be answered in either direction without touching step 3. That is why it can be "asked"
+  while the thirteen are conceded.
+- ⛔ **For him:** the same reading tells them where their whole effort goes — the reasons through
+  Taylor and Reese, and his credit on his own 2024 statements. Nothing in E16 changes the
+  preparation already listed in the scenario model; it explains why it is the right preparation.
