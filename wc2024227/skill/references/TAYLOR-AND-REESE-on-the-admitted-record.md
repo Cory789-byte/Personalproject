@@ -173,3 +173,21 @@ Whatever daylight appears is between their accounts, and the documents are the f
 **Order.** The Respondent calls in its own order; usually Taylor then Reese. Anything Taylor
 fixes (or fails to fix) can be put to Reese as *"Ms Taylor could not point to a record of that.
 Can you?"* — a question, not an assertion.
+
+## 7 · The bind if they call one and not the other
+
+A called witness can give her own account of an event. She cannot contest the document —
+existence, words and date are admitted. Where the document is the *other* witness's statement
+about her, rebutting it means the Respondent's two decision-makers disagree in writing. **The
+rebuttal is available but unaffordable.**
+
+| They call | Left standing, unqualified | The called witness's problem |
+|---|---|---|
+| **Taylor only** | Reese's ¶287, ¶220 ("a few … errors made by Chloe"), ¶221 ("not yet aware"), ¶219 ("Chloe and I"), ¶159 ("could not find a copy"), ¶217/¶222 (HR chase) | can answer "Chloe and I"; cannot explain what Reese told HR or when he was to be told. Contradict Reese on the errors = witnesses disagree; adopt = plural errors against SOFC ¶22(a) "not repeated" (¶226) |
+| **Reese only** | Taylor's ¶212 (alternative shifts), ¶215/¶216 (toolkit), ¶100/¶105–108 (Parry, no record), ¶81/¶73/¶88 (hours first stated 17 May), ¶156 (oversight) | the reasons for the acts are Taylor's; Reese gives them second-hand from the available, uncalled person, on events the List does not record; must own "asap" (¶217) against "not yet aware" (¶221) |
+| **Neither** | everything, plus the ~40 negatives and ¶260 | the onus defence — already priced; attendance-notice choice is his, not reflexive |
+| **Both** | nothing unqualified | two accounts that must match each other and the documents; witnesses excluded until called |
+
+No combination removes the absences, because the absences are in the List, not in the witnesses.
+⚠ A single name on the 30 Sep list is not the weaker choice for them; read it as the one that
+leaves the other's documents standing, and build the cross on the standing documents.
