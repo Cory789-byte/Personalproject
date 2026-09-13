@@ -132,3 +132,46 @@ are data; the confidences are mine. The 2024 behavioural pattern at A2 is the st
 because it rests on admitted facts with timestamps — and it is about **institutional behaviour
 under cost**, which is the kind of thing that repeats. The predictions about what a particular
 person decides are weaker, and B6 and B7 are the two I would least defend.
+
+---
+
+## E · ADDENDUM, 13 September 2026 — what the 25th is actually answering
+
+⛔ **Correction to my own analysis above: I treated 9 September as one clock. It was three.**
+
+| Served 9 Sep | Deadline it set | Her 10 Sep email |
+|---|---|---|
+| Direction 2 material — witness list, outlines, medical schedule M1–M9 | none (compliance with an order) | **not mentioned** |
+| Letter on her letter of 8 September — ¶5 sought objection to the filing course | **Friday 11 September** | **not mentioned; the date has passed with no objection.** ¶¶1–4, the footing on which the admissions are relied, remain unanswered |
+| Request for the documents not admitted | **Friday 18 September** | ⭐ **the only one she engaged with**, quoted by date in her first line |
+
+### Why 25 September — the ordinary explanation, and it is probably the right one
+- **18 September is a Friday. 25 September is the next Friday. Exactly one week.**
+- *"I am in another hearing next week"* — from Thursday 10 September that is the week of
+  **14–18 September**, the week ending on the deadline set. Her unavailable week swallows it; she
+  asks for the following Friday.
+
+**No inference of design is needed or available.** But the consequence is independent of the reason:
+
+### ⭐⭐ The consequence — a forced decision now
+**25 Sep (Fri) → 30 Sep (Wed) is 5 calendar days, 3 business days.**
+
+The Second Amended Form 9A cannot wait for her answer. Serving it on 28–29 September leaves the
+Respondent one or two business days to prepare witness outlines against an amended pleading, which
+hands them an objection, an extension application, or the Guide 4.10 "ambush" complaint that the
+letter of 9 September was written to foreclose.
+
+⇒ **The two clocks are independent. Hers is about documents; the pleading is governed by the
+Respondent's 30 September obligation. Serving the 9A this week is the decision her extension
+forces, whatever her reason for choosing the date.**
+
+### The request is bifurcated; her answer treats it as unitary
+The letter offers, for each document, **(a)** produce MSH's copy **or** **(b)** simply admit
+authenticity under r 49. For ten of the twelve tabs, option (b) costs nothing, requires no contact
+with MSH, and rests on a Form 24 response in which she has **already admitted the contents** of
+every one of them. Tab 20 is MSH's own letter to Commissioner Dwyer and is **on the Commission's
+file**. Only **Tab 31** genuinely requires MSH.
+
+⇒ ⭐ **Most likely single outcome on 25 September (≈45%): a split answer** — authenticity admitted
+or conceded on the straightforward tabs, with Tab 31 deferred as "MSH has been asked". That would
+partly resolve **B6** early and leave **B2** intact.
