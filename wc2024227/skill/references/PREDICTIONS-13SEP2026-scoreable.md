@@ -212,3 +212,57 @@ review. ⛔ This is the class of inference the assistant is least reliable at �
 **The split answer moves from ≈45% to ≈55%**, and **B6 (some authenticity conceded if pressed)
 from 60% to ≈70%** — because on this reading the thing under review *is* the authenticity
 question, not the logistics of obtaining documents from a non-party.
+
+### E3 · What "this request" is, textually — and what she received with it
+
+**Her words:** *"I refer to your letter dated 9 September 2026, asking the Regulator to produce
+documentation by Friday 18 September 2026… to enable me time to review **this request**…"*
+
+⭐ **The antecedent is express.** "This request" = the letter that asks the Regulator to produce
+documentation by 18 September = **`Request_to_Regulator_documents_not_admitted_AS_SERVED.pdf`**.
+It is the only 9 September document that both asks for production and sets that date.
+
+⛔ **It is not** the outlines, the witness list, the medical schedule, or the letter on her letter
+of 8 September.
+
+### But she replied inside the direction 1 and 2 thread
+
+Her subject line is **"RE: SUBJECT: WC/2024/227 – Shepherd v Workers' Compensation Regulator –
+directions 1 and 2"**. So the whole 9 September package reached her on one thread: witness list,
+three outlines, the 43-page medical schedule, the footing letter, and the production request. She
+replied to that thread and named one item.
+
+**The parsimonious reading — and it needs no inference about her:** of everything served, only the
+production request required her to *do* something by a date. The outlines and witness list asked
+nothing of her. The footing letter asked only for objection to a filing course **by 11 September**,
+and she let that date pass without objecting.
+
+⚠ Whether she read the rest closely cannot be determined from the email. What *is* determinable is
+that she had it.
+
+### ⭐⭐ What she was reading alongside it — the witness-list positioning
+
+The covering letter **filed with the Registry** on 9 September states:
+
+> "the Appellant does not presently propose to call Ms Chloe Taylor or Ms Tammy Reese. Their
+> evidence is material to the matters pleaded, and the Appellant proceeds on the basis that the
+> Respondent will call them. **If the Respondent's list filed by 30 September 2026 does not name
+> them, the Appellant will seek attendance notices and will write to the Commission at that
+> time.**"
+
+That is on the **Commission's file**, not merely in correspondence. It makes not calling them
+costly and visible.
+
+⇒ **B4 is revised upward: their witness list names Taylor and Reese — 80% → 88%; at least one,
+90% → 95%.**
+
+### And the request invokes the bench
+
+> "At the mention on 7 August 2026 the Commissioner indicated that, for a document held by Metro
+> South Health, the starting point is to ask the Regulator to make inquiries and produce it, and
+> that non-party disclosure follows only if the Regulator does not."
+
+A refusal now runs against a position the request attributes to the Commissioner, with the costs
+reservation already made. That is a second reason why "review" rather than a same-week answer is
+the expected response — and it is visible on the face of the letter, without inferring anything
+about her.
