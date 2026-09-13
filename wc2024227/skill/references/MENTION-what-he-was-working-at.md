@@ -161,3 +161,56 @@ at 49) were the two that produced the hour's best moments: the pace handed over,
 back. The Commissioner held the same material **on paper in front of him** and read from it. The
 Appellant held it from memory, under challenge, and mislaid five sentences. That is the whole
 difference, and the fact numbers now on the paper are what turns memory back into the page.
+
+## 6 · He gave the application away at minute 32 — and the Commissioner had built the hour for a fight
+
+**When it happened.** 30:19–32:02 is the cost speech: a contested disclosure hearing, MSH bringing
+lawyers, cost consequences, "longer than a day", "a big sideshow, probably bigger than the hearing
+at the end of the day — **and if you want it, you can have it.**" Delivered at his loudest. At
+**32:02**, on the beat: *"I think I can understand where you're getting at. I think I can meet most
+of the way."* The application was given away there — 20 minutes into a 65-minute listing, before
+the walk-through was half done.
+
+**Evidence he expected more resistance.**
+1. **He did not accept it.** His next move (32:10) was to test it — *"Have you had discussions
+   with the regulator…"* — and then: *"before I release you to do that, I just want to bring you
+   back to the statement of stressors."* He ran the remaining **24 minutes of the walk-through
+   after the concession**, because the walk-through was the persuasion device and he had not yet
+   believed the concession.
+2. **53:30:** *"We probably should have led with that."* The acknowledgement that the Appellant had
+   already moved further than the Commissioner had registered.
+3. **The disposition is hedged four ways for a party who wishes to press:** "I'm open to the
+   parties telling me otherwise"; "pending hearing back from Mr Shepherd about whether he wishes
+   to press any part of it"; "if you still wish to press any aspect of it, we'll get down to the
+   serious business"; and earlier, twice, *"I'm not closed to that idea if you really wish to
+   press it. I'm not closed to that at all."* That is the fairness architecture of a Member who
+   expects a self-represented applicant to hang on, making sure the concession is voluntary.
+4. **He kept arguing the Appellant's side of the one live point** — *"you might be on to something
+   there. They might have an obligation to provide those… they're likely to come out one way or
+   the other."* He was still holding the door for the applicant to keep something.
+
+Then the Form 29 was **withdrawn in writing** — further than the stand-down invited.
+
+**What the concession did.**
+- It is **discipline rule 6** (concede what is available; it makes the rest grantable), performed
+  in the room before the rule was written down.
+- It is the moment the **authorship question died**: a litigant fronting machine-generated
+  material does not drop his application on a cost speech in eight words. Candour is not
+  generated.
+- It **cost nothing.** The one live item he was told to keep — Taylor's directive emails — came
+  out anyway, by admission, three weeks later, along with 297 other paragraphs. He gave away the
+  disclosure fight and received the documents by admission instead. The Commissioner's own
+  forecast at 62:38 — *"they're likely to come out one way or the other"* — is exactly what
+  happened, on the Appellant's route rather than the Commission's.
+- ⭐ **The dividend is credit for the next insistence.** A Member who has watched an appellant give
+  away an application on proportionality alone will read that appellant's *next* firm position —
+  the register, an attendance notice, a conference on 1 October — as something worth having, not
+  as a litigant who fights everything.
+
+**Why it read as "meet most of the way" and not "I withdraw".** The concession was on scope, not
+merit; the recount's own read stands — *merit yes, scope no*. He conceded the proportionality
+point the moment it was put, kept the one item the Commissioner thought had legs, and then
+resolved even that item by a better route. That is the whole pattern of the case since: concede
+relevance, admissibility and weight (footing letter ¶1); concede what the medical is not relied on
+for (the schedule); and insist only on the thing the other side cannot give — the reasons for the
+acts.
