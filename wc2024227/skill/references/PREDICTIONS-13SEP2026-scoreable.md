@@ -402,3 +402,55 @@ needing it resolved **in order to** finalise that material.
 That sharpens **E5**: her answer may not merely *signal* the witness list — it may be an **input**
 to it. ⛔ **Inference, not fact.** The Friday analysis above is sufficient on its own and requires
 no inference at all.
+
+### E7 · She must contact Metro South Health that week anyway — and the channel already exists (Cory, 13 Sep)
+
+**This is the strongest point in the sequence, and it is proved by the Respondent's own List of
+Documents.**
+
+Her stated reason was *"to review this request **and if needed** reach out to MSH in relation to the
+requested documents."* The MSH contact is framed as a contingency.
+
+**It is not a contingency.** The Regulator employs nobody who witnessed anything at the Logan
+Switchboard. Every lay witness it can call on the facts is a Metro South Health employee. To comply
+with **directions 3 and 4 — a witness list AND an outline of evidence for each lay witness, by 4 pm
+on 30 September** — it must be in contact with MSH and with those people. In the week of
+**21–25 September**. The same week.
+
+### ⭐⭐⭐ And the channel is already open, and already disclosed
+
+The **Respondent's own amended List of Documents of 14 August 2026** records:
+
+| Item | Document | From | Date |
+|---|---|---|---|
+| **37** | Disclosure through **witness conferencing** (8 documents) | **Tammy Reese** | **8 July 2025** |
+| **38** | Disclosure through **witness conferencing** (7 documents) | **Tammy Reese** | **8 July 2025** |
+| **39** | Disclosure through **witness conferencing** (5 documents) | **Chloe Taylor** | **10 July 2025** |
+| 41 | Disclosure through witness conferencing (2 documents) | Tammy Reese | various |
+
+⇒ **The Regulator conferenced Reese on 8 July 2025 and Taylor on 10 July 2025, and both produced
+documents from their own records.** The channel is established, used, and disclosed by the
+Respondent itself.
+
+So raising the spreadsheet at fact 268 is one line in an email that will be sent in any event.
+
+### Effect on the predictions
+
+**B4 — their witness list names Taylor and Reese: 88% → 92%** (at least one: 95% → 97%).
+The Regulator conferenced both in July 2025 and disclosed the product. Combined with 298 facts
+admitted leaving only characterisation live, characterisation requiring the decision-makers, and
+the Appellant's Registry letter foreshadowing attendance notices, this is about as strong as a
+prediction gets on this record.
+
+**B2 — register not produced by 25 September: 70% → 65%**, and the *composition* changes. The
+marginal cost to her of asking is now near zero, so the likely answer shifts from *"I have not had
+time"* to *"Metro South Health has been asked."* ⚠ MSH's turnaround remains the binding constraint,
+not hers — its last objection to a Form 29 took about six weeks.
+
+### For the letter — the right way to use this
+⛔ **Do not write that she must be contacting MSH about witnesses.** That probes her preparation and
+is presumptuous, and it is unnecessary.
+⭐ **Write instead:** *"I appreciate the Respondent may have occasion to correspond with Metro South
+Health in any event. If so, the spreadsheet referred to at fact 268 may be capable of being raised
+at the same time."* Assumes nothing, is helpful on its face, and makes the record for **WCRA
+s 558(3)** that the request was cheap to satisfy.

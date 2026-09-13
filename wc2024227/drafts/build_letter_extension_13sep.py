@@ -66,7 +66,8 @@ s=[P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&nb
      "<b>Tab 30</b> &ndash; Review Decision 69983 records and quotes this email (fact 70).", SM),
    P("Only Tab 31 appears to require a copy held by Metro South Health, and the request in respect of that tab is "
      "for the spreadsheet of recorded MET calls for 17 to 18 March 2024 that Metro South Health has said is "
-     "available (fact 268).",B),
+     "available (fact 268). I appreciate the Respondent may have occasion to correspond with Metro South Health "
+     "in any event. If so, that spreadsheet may be capable of being raised at the same time.",B),
 
    P("5. Nothing further is reserved",HB),
    P("This letter adds no reservation. The position set out in my letters of 9 September 2026 is unchanged, and I "
