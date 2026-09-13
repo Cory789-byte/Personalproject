@@ -5,7 +5,50 @@
 > (legislation.qld.gov.au PDF, current 13 Sep 2024); Evidence Act 1977 (legislation.qld.gov.au
 > PDF, current 1 Jul 2026); QIRC Workers' Compensation Appeal Guide (repo).
 
-## 1. The UCPR does not apply to this appeal
+## 0. ⛔⛔ CORRECTION, 13 September 2026 — PART OF THE UCPR *DOES* APPLY
+
+**Part 1 below was written from the IR(T) Rules alone and is wrong in its headline. The WCRA was
+not checked.**
+
+> **WCRA s 553 — Application of Uniform Civil Procedure Rules 1999 and Industrial Relations
+> (Tribunals) Rules 2011**
+> (1) The *Uniform Civil Procedure Rules 1999*, **chapter 7, part 2** and **chapter 9, part 4**, and
+> the *Industrial Relations (Tribunals) Rules 2011*, **apply to an appeal under this division** with
+> necessary changes.
+> (2) However, if there is an inconsistency … the provision of this division prevails.
+
+| What applies | What it contains |
+|---|---|
+| **UCPR ch 7 pt 2** — *Disclosure generally* | rr 209–227: duty of disclosure (211), list of documents (214), ⭐ **requirement to produce original documents (215)**, court orders relating to disclosure (223), consequences of nondisclosure (225), production at trial (227) — **and Subdivision 2, interrogatories** |
+| **UCPR ch 9 pt 4** — *Alternative dispute resolution* | rr 313–344: **mediation** (323–333) and **case appraisal** (334–344) |
+
+⭐⭐ **r 215 is directly usable here:** *"a party (the first party) may require another party to
+produce for inspection of the first party specified original documents of which copies are, or are
+to be, disclosed."* Where the Respondent disputes the authenticity of a copy but has itself
+disclosed a copy — **Tab 6 is listed as the attachment to item 25 of its own amended List of
+Documents** — r 215 is a direct route to the original, without a notice of non-party disclosure.
+
+### ✅ What survives from Part 1 unchanged
+**UCPR r 189 (notice to admit) still does NOT apply** — it sits in **chapter 6** (Pleadings),
+which s 553 does not pick up. So **r 49 of the IR(T) Rules remains the governing provision for
+admissions**, and the point that **r 49 carries no costs-of-proof sanction** (unlike r 189(4))
+stands.
+
+### ⛔ Also missed, and important
+**WCRA s 554 — Exchanging evidence before hearing.** *"(1) At least 10 business days before the
+hearing, each party must give each other party any relevant document the party wants to adduce as
+evidence at the hearing. (2) At the hearing, a party can not rely on a document that was not given
+to the other party as required by subsection (1), unless the appeal body agrees."*
+⇒ A hard exchange deadline with a sanction. **The exhibit list is not optional and not late-able.**
+
+### The lesson
+⭐ The answer lived in a statute nobody opened because the question looked procedural. This is the
+interlock failure the skill exists to prevent: **reasoning from one instrument without checking the
+one that governs it.**
+
+---
+
+## 1. ⚠ SUPERSEDED HEADLINE — the UCPR does not apply *via the IR(T) Rules*
 
 Every reference to the *Uniform Civil Procedure Rules 1999* in the IR(T) Rules is confined to:
 
