@@ -214,3 +214,19 @@ resolved even that item by a better route. That is the whole pattern of the case
 relevance, admissibility and weight (footing letter ¶1); concede what the medical is not relied on
 for (the schedule); and insist only on the thing the other side cannot give — the reasons for the
 acts.
+
+## 7 · When the mechanism was first put through as one thing — the chronology
+| Date | Document | How the four parts appear |
+|---|---|---|
+| 2024–25; 7 Apr 2026 | original and Amended Form 9A, Stressor 1(a) | **separately**: erratic presence; unilateral directives; the MASPER directive as "a doctor, roster and coordination problem"; SPOK errors → wrong clinician. Parts, no chain |
+| **18 Jun 2026** (filed 23 Jun with the 64G) | **Form 20 affidavit ¶¶23–25** — "the standing condition of the role" | ⭐ **first joined statement, on oath**: vantage point over everything that goes wrong; held responsible for much of it; the patient-safety function performed at the Switchboard; *"while the support above me was absent or unmaintained"*. The Commissioner had read this before 7 Aug — and still walked the parts separately, because the affidavit went to disclosure and read as "heavy-going" |
+| Jun 2026 | 64G application ¶11 | role = coordination of life-safety codes; the complaints "directed to the safe operation of that function". Role + consequence; **no correction bottleneck** |
+| 7 Aug 2026 | the mention | four parts spoken (08:36, 13:28, 27:06, 29:17), never joined |
+| 11 Aug 2026 | Stressor 1(a) particulars bundle, served on Matheson | ⭐ first document to put the parts **in the chain's order**: (i) access removed while duties remained → (ii) 24-hour function, on-call self-delegated, hours never stated → (iii) erratic presence · MASPER · six days → (iv)–(v) "we can not help patients" → (vi) two weeks without response → (vii) hours asked, retract |
+| 28 Aug 2026 | Form 24 Part B, row 1(a) | ⭐ first time in **one paragraph**: "The database, the directives, the stated hours, and the two accumulations" — with the negative "does not allege that access was restored before 18 June 2024" |
+| **9 Sep 2026** | **served outline**, topics 1 and 5 | ⭐ first **evidence** document to say the joining sentence in the form the hearing will hear it: *"held responsible for what went wrong anywhere in that system, while the means of correcting it… were held by others"*; topic 5: *"what I could not fix"*. And the first to move the premise from **her** ("support absent") to **the system** ("means held by others") — the version that survives "that's just management action" |
+| unserved | Second Amended 9A draft, B1–B3 and ¶24 | first to **plead** the chain with its legal consequence: a state of the system, not management action; s 32(5) does not reach it |
+
+⇒ The Form 20 said it first, on oath, in June. The outline said it first **as evidence**, in the
+right form, in September. Between them the bundle put it in order and the Form 24 put it in one
+paragraph and had it admitted piece by piece. The sentence itself was never spoken in the room.
