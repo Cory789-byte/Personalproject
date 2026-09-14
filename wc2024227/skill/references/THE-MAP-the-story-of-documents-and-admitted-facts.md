@@ -88,3 +88,24 @@ record. The usual failure mode of a conditions case is vagueness; the Form 24 ma
 conditions atomic — dated, quoted, admitted — which is dismissal-case rigour applied to
 environment facts. That combination is the uniqueness, and it is why neither side's standard
 playbook fits.
+
+**11 · The evidentiary DNA of the role (added 14 Sep).** Six properties of the Switchboard made
+this architecture possible, and most jobs lack most of them:
+(1) the work IS records — directives to a distribution list, published rosters, code registers,
+paging and database systems; (2) the worker is the **addressee** — the operative acts were sent
+TO him (and to seventeen colleagues, so every exhibit is replicated in witnesses' inboxes);
+(3) **time is native** — a console runs on timestamps, so neglect becomes computable intervals;
+(4) **safety-criticality converts system failure into third-party contemporaneous complaints** —
+clinicians writing "we can not help patients" are independent voices the conditions generate
+automatically; an office's bad system produces grumbling, not documented clinical risk;
+(5) the duty is written — role descriptions, on both sides of the reporting line; (6) the
+**public sector** supplies written norms (certified agreement, Award cl 6.2 ballots, directives,
+delegation instruments) against which deviation is measurable, plus a model-litigant respondent.
+Rare, not unique: the same DNA lives in emergency dispatch, air-traffic and rail control rooms,
+pharmacy dispensing, lab specimen handling — logged-work roles. A café, a sales floor, a generic
+office cannot build this case; their psychological injuries must be process cases or fail.
+⚠ And the DNA needed its reader: the role generated the record, but the method (index, verbatim
+notice, negatives) made it a case — a records-native role met a records-native mind. One irony
+belongs on the record: the manager's own preference for governing by one-to-many email, and the
+employer's restriction of his mailbox (which forced early external preservation), together
+manufactured and preserved the exhibits.
