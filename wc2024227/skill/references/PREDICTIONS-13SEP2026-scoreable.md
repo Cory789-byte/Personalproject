@@ -1838,3 +1838,25 @@ That is why it is their worst ground, why the IME is the tie-breaker, and why a 
 respondent reads the corridor and looks for the exit. Disposition read ("fair, not letting them
 take advantage") held one step short: what is on the record is the shape he set, not his view.
 Numbers unchanged. **OUTCOME:** ______
+
+**E31.3 · The pre-existing line answered on the record — two limbs, the second verified from the
+Act (Cory, 14 Sep, late).**
+Cory: their own produced record says 16 Nov 2023 "No psychological illness such as depression/
+psychosis"; a GP visit for stress/anxiety never diagnosed is not a psychiatric disorder — everyone
+gets stressed; the injury is the disorder diagnosed in 2024, "when you lose yourself."
+Limb 1 (chronology, his to put): 2022 entry + Nov 2023 "no psychological illness" read together =
+whatever 2022 was had resolved; no continuing disorder at the date of injury; the disorder
+diagnosed after 18 Jun 2024 is the injury; employment a significant contributing factor on the
+treating evidence and the work-timed onset.
+Limb 2 (VERIFIED, ATT26 WCRA current 1 Jan 2025, s 32(3)(b)): "Injury includes ... an
+aggravation of the following, if the aggravation arises out of, or in the course of, employment
+and the employment is a significant contributing factor to the aggravation — (i) a personal
+injury; (ii) a disease; (iii) a medical condition, if the condition becomes a personal injury or
+disease because of the aggravation." Same threshold; no "major"; no psychiatric carve-out in the
+aggravation limb. s 32(4): an injury "only to the extent of the effects of the aggravation" — here
+the extent is total (no illness Nov 2023 → certified MDD mid-2024). ⇒ The pre-existing line, even
+winning on its facts, does not defeat the claim; at most it goes to extent.
+How put: never "records irrelevant" (de novo); chronology + s 32(3)(b); Findings B/C as
+inconsistency, never estoppel. ⛔ Medicine led through Krishnaiah/Hawes on their own evidence
+(stress response vs major depressive disorder is theirs to say); nothing suggested to doctors;
+intimate entries never restated; "a significant" never "major". **OUTCOME:** ______
