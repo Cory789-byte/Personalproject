@@ -77,6 +77,13 @@ E23 = {"S1_documents_only": 50, "S2_matter_addressed": 37.5, "S3_hold_line": 8,
        "S4_concede_by_letter": 6, "S5_other_slippage": 0,
        "thirteen_conceded": 85, "register_legal": 70, "formula_absent": 68}
 
+# E25 (14 Sep, evening): Cory's posture challenge adjudicated — slippage repriced
+# to the consequence-backed class, false MSH dependency removed, undertaking
+# sentence treated as in-class (S2-lite). Third scored model.
+E25 = {"S1_documents_only": 52, "S2_matter_addressed": 19, "S3_hold_line": 9,
+       "S4_concede_by_letter": 2, "S5_other_slippage": 18,
+       "thirteen_conceded": 76, "register_legal": 70, "formula_absent": 71}
+
 def median(xs):
     s = sorted(xs); n = len(s)
     return s[n//2] if n % 2 else (s[n//2-1]+s[n//2])/2
@@ -129,14 +136,16 @@ if __name__ == "__main__":
         register = args.get("--register", "legal") == "legal"
         formula  = args.get("--formula", "absent") == "absent"
         print("MULTICLASS BRIER (shape):")
-        print(f"  E23 solo : {brier_multi(E23, winner)}")
-        print(f"  E24 panel: {brier_multi(agg, winner)}")
+        print(f"  E23 solo       : {brier_multi(E23, winner)}")
+        print(f"  E24 panel      : {brier_multi(agg, winner)}")
+        print(f"  E25 adjudicated: {brier_multi(E25, winner)}")
         print("BINARY BRIER:")
-        for name, p23, p24, out in [
-            ("thirteen_conceded", E23["thirteen_conceded"], agg["thirteen_conceded"], thirteen),
-            ("register_legal",    E23["register_legal"],    agg["register_legal"],    register),
-            ("formula_absent",    E23["formula_absent"],    agg["formula_absent"],    formula)]:
-            print(f"  {name:18s} E23 {brier_binary(p23,out):.4f}  E24 {brier_binary(p24,out):.4f}")
+        for name, out in [("thirteen_conceded", thirteen),
+                          ("register_legal", register),
+                          ("formula_absent", formula)]:
+            print(f"  {name:18s} E23 {brier_binary(E23[name],out):.4f}  "
+                  f"E24 {brier_binary(agg[name],out):.4f}  "
+                  f"E25 {brier_binary(E25[name],out):.4f}")
         sys.exit(0)
     print(json.dumps({"median": med, "trimmed_mean": {k: round(v,1) for k,v in trm.items()},
                       "final_refuter_adjusted": agg}, indent=2))

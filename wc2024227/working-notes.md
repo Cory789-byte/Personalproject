@@ -7522,3 +7522,11 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
   E24 side by side on the 25th. SKILL.md step 5a added.
 - Findings updated in place with panel numbers, originals preserved for dual scoring: B1, F2.1
   (67), F2.2 (69 by-the-25th), F2.3 (71, scored jointly with shape), E23 (superseded note).
+
+## 14 Sep 2026 (later) — E25: posture challenge adjudicated
+- Cory challenged E24 as underweighting his case. Upheld on three points (25th is
+  consequence-backed not soft; MSH dependency false for the thirteen; 16 Jul undertaking =
+  in-class behaviour → S2-lite); not upheld on E23's big-move S2 (35–40 stays dead) or the
+  hybrid cell. No merits number moved — the panel never repriced the case, only the letter.
+- E25 final: S1 52 / S2 19 / S3 9 / S4 2 / S5 18; thirteen-by-25th 76; register 70; formula
+  absent 71. Added as third scored model in panel_aggregate.py (E23/E24/E25 Brier side by side).

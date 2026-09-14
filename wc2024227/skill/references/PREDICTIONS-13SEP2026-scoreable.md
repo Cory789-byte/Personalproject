@@ -1318,3 +1318,55 @@ sentence (~49%), but E23's 35–40% matter-addressed mass was motivated overreac
 alternatives are deferral past a self-set soft date and a concede-plus-boilerplate hybrid, not a
 case-level reveal — which is why thirteen-conceded falls from 85 to ~69 **on timing, not
 direction**. **OUTCOME:** ______
+
+---
+
+### E25 · Cory's posture challenge adjudicated (14 Sep, evening) — the panel over-corrected on slippage and the undertaking
+
+**The challenge.** "You are not reading the posture correctly — you underweight my case." Adjudicated
+against the panel's own surviving counterarguments (E24 ##1 and ##2, which the synthesis flagged and
+then failed to act on).
+
+**Upheld (three corrections to E24):**
+1. **Wrong reference class for the 25th.** The ~17 deferral/slippage points rest on ONE observed
+   slip (3 Aug "this week") — an internal soft aside with no consequence attached. The 25th was
+   requested in writing, by her, on day one, opposite a live costs reservation, welded to her own
+   always-met-early 30 Sep Commission date. Class 1 puts it with the consequence-backed dates.
+   S5(b) 9→5, S5(c) 5→3, S5(d) 3→2.
+2. **False MSH dependency.** Eleven of thirteen tabs are answerable from the Regulator's own
+   holdings; MSH latency reaches Tab 31 only. A "will revert" deferral covering ALL tabs has no
+   footing. Also trims the "maintained pending MSH" S3 branch: 11→9.
+3. **The undertaking is in-class behaviour, not first-ever.** "Should our position change at any
+   point, we will advise you" (16 Jul) is their own written promise, and this office keeps formal
+   written commitments. One position sentence in an otherwise documents-only letter — S2-lite —
+   is cheaper than the panel priced. S2 14→19; position-addressed-in-terms ~30 (was E23 45,
+   panel-implicit ~14).
+
+**Not upheld (the panel keeps these):**
+- S2 as E23 defined it (conference proposed / variation / concession foreshadowed) stays dead at
+  the big-move level — Guide 5.1, no variation ever sought, the 1 Oct request is the Appellant's
+  automatic move six days later. E23's 35–40 does not come back.
+- The S5(a) hybrid (concede-plus-formula/reservation, ~8) stands — the 8 Sep cover letter is the
+  observed reflex. The scoring resolution (S1 = clean letter) stands with it.
+- No merits number moves. The panel never touched the case — outcome-if-it-runs, the witness cage,
+  the conduct limb were inputs, not outputs. A strong case predicts a quiet opponent letter;
+  S1 modal is the case working.
+
+**E25 final (the third scored model — E23 solo, E24 panel, E25 adjudicated all Brier-scored on
+the 25th):**
+
+| Quantity | E23 | E24 | **E25** |
+|---|---|---|---|
+| S1 clean documents-only | ~50 | 49 | **52** |
+| S2 matter-addressed (now incl. S2-lite undertaking sentence) | ~35–40 | 14 | **19** |
+| S3 hold-the-line | ~8 | 11 | **9** |
+| S4 concession by letter | ~6 | 2 | **2** |
+| S5 hybrid/deferral/silence | 0 | 24 | **18** (a 8 · b 5 · c 3 · d 2) |
+| Thirteen conceded by the 25th | 85 | 69 | **76** |
+| Legal register | 70 | 67 | **70** |
+| Formula absent | 68 | 71 | **71** |
+
+**One line:** the panel was right that the letter is document-shaped and right to build the hybrid
+cell, wrong to price this office as a generic late agency — the 25th behaves like a
+consequence-backed date, the thirteen need no MSH, and the undertaking makes one position sentence
+in-class; thirteen-by-the-25th lands nearer 76 than either 85 or 69. **OUTCOME:** ______
