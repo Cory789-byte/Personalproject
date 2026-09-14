@@ -1057,3 +1057,19 @@ Source: `INSTITUTIONAL-POSITIONS-14SEP2026.md`; register classifier run on all s
 **Inferred (marked):** that Reese's absence from 2026 reflects a decision about who fronts the
 employment track, not about the appeal; that MSH will release Taylor because she has already
 been the face of every 2026 communication and presents well.
+
+### E20 · Will MSH respond to the Appellant before 25 September? (14 Sep)
+MSH does not correspond with him about the appeal — it is a non-party and speaks to the
+Commission (K-LM26/729) and to the Regulator (the 6 Aug cc channel). So the question is the
+employment track, where its pattern is 1–3 days on anything operational and no answer on any
+decision.
+
+| MSH communication to him before 25 Sep | p |
+|---|---|
+| Payroll / Taylor on leave coding, the SNP leave forms, or a further ad hoc | **90** |
+| Harrison on the ECC reimbursement (ExpenseMe Pro / proxy) | **80** |
+| Roberts follow-up on the AVAC / catch-up | **60** |
+| an answer to Dr Krishnaiah's four questions of 19 Aug (to him or to the doctor) | **20** |
+| a decision on return to duties / the ECC of 3 July | **15** |
+| anything from MSH about the appeal, the witnesses or the register | **5** |
+**OUTCOME:** ______
