@@ -169,3 +169,91 @@ lawyer in the room — Dwyer's own August method (reading the pleading aloud) in
 appellant reading and everything read admitted. Maintaining the dispute converts a silent paper
 concession into an oral preview of the case. That is the full price of refusal, and they can
 price it themselves.
+
+---
+
+## Part 3 — the Member's read: the fourteen disputed documents, admissions alongside, the crystallisation email last
+> The same walk, worn from the bench. What a decision-maker registers, document by document,
+> each page arriving with two labels: "authenticity disputed" and "contents admitted at ¶N".
+> Tab 31 is taken with its facts still disputed, to show how a Member handles the one document
+> that must prove itself. ⛔ Internal rehearsal.
+
+**Tab 1.** So this is the job. Emergency response notifications, distributed to the right group,
+strictly to protocols and timeframes. Keep the database accurate, because the distribution
+depends on it. Queues to minimum at all times. Multitask under pressure. I am told the
+authenticity of this page is disputed; I am also told its contents are admitted, thirteen times,
+and that the employer attached this same document to its own correspondence in July 2026.
+I put the dispute to one side. This page is my measuring stick.
+
+**Tab 5.** They made him permanent full time. "Very pleased." Whatever the department thought of
+this man in September 2023, it is in this email. Contents admitted. Noted.
+
+**Tab 30.** "What's Chloe's Hours?!" Her own subject line. "I am fulltime and work flex hours."
+Starting between 6 and 9, finishing 2 and 5. So the manager's availability varied by up to three
+hours daily, on her own account, from August 2023. Quoted in the Regulator's own review
+decision, I see. Authenticity disputed. Of a document their decision quotes.
+
+**Tab 6.** April 2024. The manager and the coordinator "have added" themselves to after-hours
+on call, effective from today. The same two who, I have read elsewhere in the admissions, held
+the only rights to correct the database since July 2023. A 24-hour function, and every road now
+runs to two people, one of whom works three days a fortnight and the other of whom has just
+told me her hours vary. No ballot is alleged. I do not yet say unreasonable. I say: someone
+will need to explain how this was meant to work at 2 am.
+
+**Tabs 17 to 19.** 2026, and he is still a Continuous Shift Worker. The role never changed.
+The duty at Tab 1 ran through all of it. Approved by the delegate, their own forms.
+
+**Tab 21.** Their HR, 2026: the 8-hour agreement "is only applied where staff initiated shift
+swaps have occurred." I will want to look again at the pleading that the March 2024 break rested
+on that agreement, and at the decision of 1 May 2024 refusing the fatigue payment on it. The
+employer's own letter confines its own instrument. That is not his assertion. That is theirs.
+
+**Tab 22.** November 2024. The employer proposes "a more equitable roster", "redistribution of
+nights for greater equity", "fair distribution of penalties". An organisation does not propose
+equity it believes it already has. This paper is dated five months after the injury I am asked
+to decide. I note who wrote it.
+
+**Tab 23.** And here is how the employer changes a roster when it follows its own Award: a
+defined ballot, seventeen invited, seventeen returned. Set against the directives of 2024, which
+on the admissions had none of this. The employer has provided me its own control group.
+
+**Tab 24.** November 2025, endorsed as a delegate. The man is still there. Still in the role.
+That will matter when someone tells me he was the problem.
+
+**Tab 20.** The Chief Executive, to this Commission. The fatigue records do not exist. The
+training was never for these staff. Assessment came only after 30 June 2024. No consequential
+changes to procedures. And every complaint of operational error went to one line manager,
+"managed solely via email or verbally". I have rarely seen a respondent's case disposed of in
+its own correspondence. If the conditions I have been reading needed a system behind them, the
+employer certifies there was none. Authenticity disputed. It is addressed to me.
+
+**Tab 31 — the one that must prove itself.** These entries are not admitted, so this document
+does not ride on the notice; it must come in as what it is, the employer's register, and MSH
+has told the Commission it is available. If it comes in: the evening of 17 March carries a MET
+call at 19:16, a Code Blue to the same bed at 19:20, another MET call at 21:16, in the last
+hours before a 23:00 finish. The 06:00 shift that followed, on the break I have read about,
+carries a Code Grey at 8:48, MET calls, two neonatal MET calls, six codes inside eight hours.
+The review officer found this rostering unreasonable without seeing this page. I would be
+seeing what the officer did not: what the man was actually dispatching while it happened. And
+the entry for the day after, "CALLED VIA SWITRCHBOARD", misspelt — registers kept by busy
+people look exactly like this. Weight: the employer's own contemporaneous record. If the
+Respondent wishes me not to see it, it will need a better reason than the one I have heard.
+
+**Tab 30A, last.** 18 June 2024, 8:58 in the morning. "I am taking today off, and hopefully
+will be back tomorrow." "I am sorry I haven't been there for you all over the past week."
+"Ellen will not be in today." I have read the certificates. The injury on every one of them
+dates from 18 June 2024. The manager's own email, on that morning, apologising for a week of
+the very absence this whole file describes, with the coordinator away too. I make no finding
+sitting here. But I know what I will be listening for when he gives his evidence about that
+morning, and I know that nothing in this email can be put in issue, because its every line is
+admitted.
+
+**What the bench is left holding.** The duty, from their document. The conditions, from their
+documents. The certificate that no system stood behind the conditions, from their Chief
+Executive, to me. The load carried through those conditions, from their register. Their own
+2024 justification confined by their own 2026 letter, and their own later paper conceding the
+roster wanted equity. And an onset date written by the manager herself. The questions that
+remain are the ones documents cannot answer: what this was like from the console and what it
+did to him — his evidence, and his doctors'. And whether anyone is coming to tell me the
+reasons — their list, due 30 September. That is the whole residue of a three-year file:
+two questions, and a date.
