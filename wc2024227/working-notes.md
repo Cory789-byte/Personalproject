@@ -7553,3 +7553,13 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
   assembled = exit path. Read the 25th WITH the 30 Sep list; scoreable after the 30th.
 - Her exact words verified from source PDF: "...to enable me time to review this request and
   if needed reach out to MSH in relation to the requested documents".
+
+## 14 Sep 2026 (night) — E28.3–E28.5 appended
+- E28.3 MSH clause as de-escalation cover + safe-opponent triad; E28.1 refined (30 Sep list is
+  the reliable limb, letter wording weak both ways).
+- E28.4 sign-off-and-consult read of the 15 days (inside view of the 35-point pre-outline
+  concede/narrow branch); signatures listed; touch nothing.
+- E28.5 employment-track silence = legal hold (verified layer: Ruttan at the mention, missed
+  12 Sep deadline, timing); liaison probable but not needed to explain silence; ⛔ silence does
+  not disambiguate concede-vs-defend. Roberts one-liner stays payroll-only, likely 15-16 Sep,
+  no reply expected before the 30th.

@@ -1615,3 +1615,25 @@ placeholder, or absent — witnesses are not briefed for a case being signed off
 ⛔ Discipline: touch nothing while this may be running. Quiet period holds; any Roberts LSL
 one-liner stays purely payroll-administrative, no appeal reference. **OUTCOME (score with the
 25th/30th pair):** ______
+
+**E28.5 · The employment-track silence read (Cory, 14 Sep, late) — liaison likely, but the hold
+explains everything.** Cory's feeling: MSH has already been liaising with the appeal Regulator,
+hence the total employment-track silence. Layered: VERIFIED — the channel exists and is routine
+(shared claim file, RFMI traffic, disclosure items), Ruttan attended the 7 Aug mention in person
+(MSH Legal needs no briefing on the appeal's turn), the silence itself (MSH missed its own 12 Sep
+deadline; nothing from Roberts/HR/IM since the 10-11 Sep letters), and the timing correlation
+(9 Sep service → 10 Sep extension naming MSH → silence from ~11-12 Sep). INFERRED (marked) —
+live liaison is probable but unneeded to explain the data: the parsimonious chain is legal hold
+("route everything Shepherd-related through Legal; answer nothing non-essential pending the
+appeal"), which produces identical silence with or without a phone call; his letters now land on
+Ruttan's desk, not Roberts's. §10's holding pattern has become total subordination: the
+employment track is downstream of the 25th/30th.
+⛔ Over-read guard: silence does NOT disambiguate concede-vs-defend — a defence build (Taylor
+released, instructions taken) freezes the employment track exactly the same way. The silence
+confirms only that the appeal is the master track. Disambiguation stays with E28.1: the letter,
+then the filed list.
+Practical: silence ≠ refusal (LSL etc. are held, not decided); each unanswered deadlined letter
+is a record row; the Roberts one-liner stays payroll-only with no reply expected before the
+30th; nothing else outbound to MSH while both institutions may be reading the same evidence.
+**OUTCOME (score if the mechanism ever becomes visible — e.g. a letter reveals the hold or the
+liaison):** ______
