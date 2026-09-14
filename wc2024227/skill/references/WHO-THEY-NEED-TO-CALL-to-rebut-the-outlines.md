@@ -99,3 +99,18 @@ The one witness group **neither side needs and the defence cannot afford.**
   Held as a contingency only; do not signal it.
 ⇒ The clinical voice is in the case, in writing, admitted, at maximum weight (contemporaneous,
 spontaneous, against no interest). Leave it on the page.
+
+**§6 addendum — occurrence, strand by strand (Cory, 14 Sep).**
+- **Kwok occasions (2–8 May):** occurrence is **admitted** (¶68). No witness, either side; it
+  passes into the decision as a fact taken as admitted (r 49). To contest it the Respondent
+  would need leave to withdraw an express admission (*Tuesley* — effectively unavailable).
+- **IRS strand (15 & 20 May):** occurrence is not admitted (the facts are contents + acts of
+  sending). The finding is still available without any clinician: (i) the emails are business
+  records — Evidence Act s 92(1)(b) makes the statements admissible as to their truth, and
+  s 102 weight (contemporaneous, clinician author, no incentive to misrepresent) is at its
+  maximum; (ii) s 531(2)(a) besides; (iii) his and Ms Conaghan's console evidence; (iv) if
+  uncontradicted, likely accepted (the bench's own gloss). The party that needs a clinician is
+  the one who wants to say it did NOT happen — and their own emails forbid that witness.
+⇒ Nobody needs to call the clinicians for occurrence. He gets the finding from the admissions
+(Kwok) and the business-records route plus console evidence (IRS); they could only call one to
+contest, into her own words. Marriott stays a silent reserve.
