@@ -272,3 +272,29 @@ they are the best twenty minutes the Respondent's counsel will have.
 **The other exposure the outline carries deliberately:** topic 2's account of 17–18 March (sixteen
 hours, four hours' travel, four hours' sleep) is his alone. Corroboration of distance and travel
 time remains on the task list; the register (Tab 31) proves the codes.
+
+## 9 · The 9 September letters are the Commissioner's sentences, returned as steps — the map
+Ms Matheson heard every line in the left column on 7 August. She received every line in the right
+column on 9 September.
+
+| Dwyer, 7 Aug | The letter, 9 Sep |
+|---|---|
+| 18:31 *"the health service is not a party… The starting point is to ask the regulator to produce those documents"* | Request ¶3: *"the Commissioner indicated that, for a document held by Metro South Health, the starting point is to ask the Regulator to make inquiries and produce it, and that non-party disclosure follows only if the Regulator does not. This letter is that step"* |
+| 62:38 *"either they give them to you and you have them, or you contend they were sent and they produce them"* | Request ¶4: option (a) *produce… or confirm the authenticity of the copy served*; option (b) *admit, under rule 49, the authenticity of the copy served* |
+| 62:38 *"those are going to be more about the character of those emails as opposed to whether they were actually sent"* | Footing ¶2: relies on the admission *"as establishing that the step was taken on that date in those terms"*; ¶1: *"draws no characterisation, conclusion or inference from any admitted fact beyond the fact admitted"* |
+| 60:20 *"if there is a document… that Ms Matheson says… we don't think it's relevant, you can come back to me… looking at a single document I can tell you very quickly"* | Request ¶3: *"put as a choice so that the matter can be closed without an application"*; ¶5: NNPD *"limited to the documents named in the schedule"* |
+| 08:04 *"it's one thing to get the documents, it's another thing to get the documents into evidence… relevance"* | Footing ¶1: *"Relevance, admissibility and weight are for the Commission. The Appellant does not contend otherwise"* |
+| 49:53 *"once you've made the assertion, the regulator's got to respond to it… they may produce documents… they've got to disclose those documents to you"* | Request ¶2: *"had the authenticity of the copies been admitted, as their contents were under the Form 24, none of these documents would need to be sought"*; the s 558(3) costs reference in ¶5 |
+| 34:43 *"I would have thought the regulator will call Ms Taylor to give her side of the story and you'll get to cross-examine Ms Taylor"* | Footing ¶2: *"Several of the documents in those ranges were sent by Ms Taylor or Ms Reese, whom the Appellant expects the Respondent to call"*; Registry letter: *"proceeds on the basis that the Respondent will call them… will seek attendance notices"* |
+| 43:00 *"her erratic physical presence is something that you can give testimony about… you don't need any documents for that"* | Outline topics 5 and 6: what was observed from the console; hours stated for the first time on 17 May |
+| 27:59 *"You can say… she gave us these directives… never asked us anything… effective immediately"* | Outline topic 5: *"the directives of 15 April, 19 April and 9 May 2024, and that I was not consulted before any of them"* |
+| 57:15 *"you don't need to prove all of that… focus on the stressors that you've identified as being causative"* | Outline topic 9: *"The matters at paragraphs 2 to 7 above… are the matters I reported to each doctor… I offer no clinical or diagnostic opinion"* |
+| 10:12 *"a simple message is always the best"*; 21:38 *"page after page after page… I switch off"* | three outlines, one A4 page each; the build fails if any runs to two |
+| 30:20 *"the party should work very hard at formulating a bundle of documents that might satisfy you"*; 32:43 *"constructive civil conversation"* | Footing, opening: *"so that the two positions sit together on the record"*; Request ¶4: *"could the Regulator please, by Friday 18 September 2026, do one of the following"* |
+| 62:38 *"the unassessed directives or whatever, you might be on to something there… they're likely to come out one way or the other"* | they came out: ¶49, ¶54, ¶66–67, ¶81 admitted 8 Sep — the one live item resolved before the letter was written |
+
+**What that does to the reader.** The letters do not say "as you heard the Commissioner say." They
+say "the Commissioner indicated," once, and then simply do what he described. A reader who was
+present supplies the rest herself. The register is his — process, not grievance — which is the
+register he told the Appellant to use. And the answer she writes goes back in front of the person
+whose sentences she is answering.
