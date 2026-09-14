@@ -69,3 +69,22 @@ boundary: **causation and credit findings are ordinary contested-evidence findin
 preferred over treating doctors, or an uncorroborated account found unpersuasive, is neither
 obvious nor readily disturbed on appeal. The legibility shield covers the conduct; the medical
 corridor is defended only by preparation.
+
+**10 · Where this sits in the published run (added 14 Sep).** The recurring s 32(5)(a)
+psychological-injury appeals are **process cases**: discipline, performance management,
+investigations, show-cause, transfers, the handling of complaints — a discrete action taken AT
+the worker, defended by the process file and the decision-maker's evidence. Ambient
+**conditions-of-work** cases are rarer and usually fail the other way: on particularity — the
+"broad-brush toxic workplace" Dwyer warned against at 57:15. This matter is the hybrid the
+published run does not contain: **a conditions case with process-case particularity.** Two
+consequences: (i) the employer's home ground does not exist — there is no process file to
+defend because there was no process (¶¶300–302 admit none, ever), and an employer wins RMA
+cases by producing exactly the paper this one certifies does not exist; (ii) the exclusion
+itself strains — the first-limb contention (conditions are the state of the system, not action
+taken against the worker) attacks s 32(5)(a) where it is doctrinally weakest. Why it could be
+built here: the workplace was a communications hub, so the conditions themselves generated the
+paper (directives, rosters, registers, list emails), and the operator was the addressee of the
+record. The usual failure mode of a conditions case is vagueness; the Form 24 made the
+conditions atomic — dated, quoted, admitted — which is dismissal-case rigour applied to
+environment facts. That combination is the uniqueness, and it is why neither side's standard
+playbook fits.
