@@ -7506,3 +7506,19 @@ termination, acutely ill, self-represented: instrument clause contested, dated c
 numbered attachments, interstate authorities cited, specific relief. If Dwyer case-managed this
 file ([R] above), his first exposure to the litigant was already this document — which reads
 directly onto the March 2026 "coin flip" and the 7 August investment.
+
+## 14 Sep 2026 (evening) — E24: the ultracode panel re-evaluation of the 25th
+- Ran workflow wf_655766b9-cbc (15 agents, 0 errors): 5 evidence readers → 5 anti-anchored
+  forecasting lenses → 4 adversarial refuters → xhigh synthesis judge.
+- Integrated final (judge ⊕ mechanical aggregation stack): S1 clean docs-only 49 / S2 matter 14 /
+  S3 hold 11 / S4 concede 2 / S5 unpriced-cell 24; thirteen-conceded-by-25th 69 (direction
+  unchanged, timing repriced); legal register 67; formula absent 71.
+- Two corrections to E23: S2 35–40 was motivated overreach (refuted — all sub-branches foreclosed
+  or unprecedented); E23 had no slippage/hybrid shape at all (taxonomy refuter) — the
+  concede-plus-formula hybrid and the "MSH contacted, will revert" deferral now carry ~24.
+- Scoring resolution FIXED pre-event: S1 = clean letter; concede+formula = S5(a).
+- New: wc2024227/scripts/panel_aggregate.py — median → trimmed mean → logit extremization (d=1.3,
+  binaries only) → half-strength refuter updates → normalise; `score` mode Brier-scores E23 vs
+  E24 side by side on the 25th. SKILL.md step 5a added.
+- Findings updated in place with panel numbers, originals preserved for dual scoring: B1, F2.1
+  (67), F2.2 (69 by-the-25th), F2.3 (71, scored jointly with shape), E23 (superseded note).

@@ -52,6 +52,14 @@ the model already said.
    outcome into every prediction the letter scores (`comms_signals.py score` lists them).
    Replace `______` with the outcome and the date. Never revise a prediction after the fact;
    add a new numbered entry that says what was wrong and why.
+5a. **Dual Brier scoring (added 14 Sep — E24).** For the 25 Sep letter, run
+   `python3 wc2024227/scripts/panel_aggregate.py score S<n> --thirteen y|n --register legal|op
+   --formula absent|present` to Brier-score E23 (solo) and E24 (adversarially verified panel)
+   side by side — multiclass on the shape, binary on the three quantities. ⛔ Shape-scoring
+   resolution fixed in E24: S1 is the CLEAN documents-only letter; concede-plus-formula or
+   concede-plus-fresh-reservation scores S5(a) hybrid; formula_absent is scored jointly with the
+   shape, never alone. Record which process won in the E-entry — later predictions (30 Sep,
+   1 Oct) are then made by the winning process.
 6. **Watchlist.** Update §B of REGULATOR-SIGNALS: which items fired, which are next.
 7. **Write the read** as a new E-entry in PREDICTIONS (verified layer first, inferred layer
    marked), and a one-paragraph note to Cory: what it means, what it does not, what to watch next.

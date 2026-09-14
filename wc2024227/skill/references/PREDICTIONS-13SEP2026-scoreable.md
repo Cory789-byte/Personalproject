@@ -778,7 +778,7 @@ and does not need to be.
 
 | # | Prediction | Was | **Now** | Which class moved it, and why |
 |---|---|---|---|---|
-| B1 | answers 24–25 Sep, not before | 75 / early 10 / late 15 | **78 / early 12 / late 10** | class 1: the 25th is self-set with the 30th behind it, so "late" falls; class 6: asked on day one for the last Friday, so "early" is a holding reply at most |
+| B1 | answers 24–25 Sep, not before | 75 / early 10 / late 15 | **78 / early 12 / late 10** · *E24 panel: on-time substantive ~76 / early ~7 / late-or-interim-only ~17* | class 1: the 25th is self-set with the 30th behind it, so "late" falls; class 6: asked on day one for the last Friday, so "early" is a holding reply at most. ⛔ E24 re-raised "late": the one prior soft commitment slipped 11 days and MSH round trips exceed the window |
 | B2 | Register not produced by 25 Sep | 70 / partial 20 / produced 10 | **70 / "MSH asked" wording 22 / produced 8** | class 4: Tab 31 is the one considered position; class 1: MSH round trip 21 days last time. The words "has been asked" are the likely form |
 | B3 | directions 3 and 4 met on 30 Sep | 85 | **90** | class 1: Commission-imposed dates have always been met; class 6: the 25th exists *because* of the 30th |
 | B4 | list names Taylor and Reese | 80 both / 90 one | **85 both / 93 one** | class 5: Dwyer at the mention (34:43) plus a WHS-specialist counsel who frames management action through the decision-makers |
@@ -794,12 +794,17 @@ and does not need to be.
 Class 2. Conceding authenticity of thirteen tabs is a change of pleaded position; the two changes of
 position in the file (Feb 2026 response; 8 Sep cover letter) were both written in the legal mode by
 a non-Matheson hand. *Score:* first person + apology = operational; rules quoted + reservations
-structured = legal. **OUTCOME:** ______
+structured = legal. *E24 panel: **67%** — the discount is the deferral branch: holding/extension
+letters are Matheson's hand, so the register prediction is conditional on the letter being
+substantive at all.* **OUTCOME:** ______
 
 **F2.2 · The thirteen provenance tabs are conceded, in terms, on or by 25 September.**
 **Confidence 85%** (partial — some conceded, some "subject to inspection" — 10%; all maintained 5%).
 Classes 4 and 6, E10. If maintained, the s 558(3) costs record starts that day and the conference
-request on 1 Oct says so. **OUTCOME:** ______
+request on 1 Oct says so. *E24 panel: **69% by the 25th** — direction unchanged (no lens or refuter
+priced maintained-with-reasons above ~13), timing repriced: the deferral branch ("MSH contacted,
+will revert", further extension, silence into the 30 Sep filing) carries the missing mass. The
+destination number by 30 Sep/1 Oct stays at the original height.* **OUTCOME:** ______
 
 **F2.3 · The sentence *"as outlined in our Statement of Facts and Contentions"* does not appear in
 the 25 September reply.**
@@ -808,7 +813,10 @@ Class 7. The formula anchors to 13 May 2026, a pleading that predates the 303 fa
 is closed by ¶¶ 281–282. A reply that concedes authenticity while repeating the anchor would be
 internally inconsistent; the legal mode does not usually do that. ⭐ **If it is repeated, F1's B8
 holds but the post-conference concession branch in the scenario model falls from 22% to ~12%.**
-**OUTCOME:** ______
+*E24 panel: **71% absent** — and ⛔ scored JOINTLY with the shape: a letter that concedes the
+thirteen but pastes the formula scores S5(a) hybrid, not S1; the taxonomy refuter showed that
+hybrid is the most institutionally natural letter (~8 points) and the 8 Sep cover letter shows
+exactly that reservation reflex.* **OUTCOME:** ______
 
 **F2.4 · An appearance email naming counsel arrives before the hearing is listed.**
 **Confidence 40% by 30 Sep; 80% by listing.**
@@ -1185,4 +1193,128 @@ it spends it deciding how to exit. The letter is the first visible move of that 
 30 Sep (≈50%), with a rising chance the letter itself reaches for the conference/position (≈35–40%);
 hold-the-line and letter-concession are the tails. **Outcome-if-it-runs is untouched at ~53.5%**
 — the 25th moves procedure and pressure, never the merits, which stay in the medical corridor.
-**OUTCOME:** ______
+⛔ **Superseded for the headline numbers by E24** (the adversarially verified panel, below):
+S1 49 / S2 14 / S3 11 / S4 2 / S5 24, with S1 redefined as the *clean* documents-only letter.
+E23's numbers stay here untouched and are Brier-scored alongside E24's on the 25th — the file
+learns which process to trust. **OUTCOME:** ______
+
+---
+
+### E24 · ⭐⭐⭐ The adversarially verified panel (ultracode run wf_655766b9-cbc, 14 Sep) — E23 stress-tested by 15 agents
+
+**What ran.** Five evidence readers over the record (behaviour ledger, prediction file with numbers
+flagged as prior opinion, procedure, disputed-tabs record, institutions) → five independent
+forecasting lenses under an explicit anti-anchoring rule (empiricist, government litigation lawyer,
+game theorist, reference-class skeptic, steelman-of-Cory's-read) → four adversarial refuters
+attacking the consensus → one xhigh synthesis judge. 15 agents, 0 errors, ~993k tokens.
+
+**Method (the aggregation stack, run in `wc2024227/scripts/panel_aggregate.py`).** The layers with
+the best published forecasting track record, applied in order: (1) panel **median** (robust to the
+deliberately extreme lenses); (2) **trimmed mean** (drop min/max, mean the middle three); (3) mild
+**logit extremization** (Satopää d=1.3) on the binary quantities only — five forecasters holding
+partial information under-confidence-pool, so the aggregate is pushed slightly off 50; the S1–S5
+categorical is medianed and renormalised, never extremized; (4) **half-strength refuter updates**
+— a surviving refutation is one more voice, not an oracle; (5) normalise. The judge's deliberative
+synthesis is then averaged with the mechanical stack at equal weight. Judge and stack landed within
+~5 points of each other on every quantity — the convergence is itself evidence the numbers are not
+an artefact of either method.
+
+**The five lenses (anti-anchored, before refutation):**
+
+| Lens | S1 docs-only | S2 matter | S3 hold | S4 concede | S5 other | 13 conceded | legal reg. | formula absent |
+|---|---|---|---|---|---|---|---|---|
+| Empiricist | 55 | 18 | 9 | 2 | 16 | 72 | 63 | 74 |
+| Government lawyer | 58 | 15 | 10 | 2 | 15 | 65 | 68 | 66 |
+| Game theorist | 50 | 28 | 6 | 3 | 13 | 76 | 70 | 65 |
+| Reference-class skeptic | 40 | 14 | 20 | 2 | 24 | 48 | 55 | 62 |
+| Steelman (Cory's read) | 46 | 29 | 7 | 4 | 14 | 74 | 66 | 72 |
+| **Median** | **50** | **18** | **9** | **2** | **15** | **72** | **66** | **66** |
+
+Note what the steelman did: given every argument for the matter-addressed reading at full strength,
+it still priced S2 at 29 — under E23's 35–40. No lens reached E23's S2 number.
+
+**The four refutations and what survived:**
+
+| Attack | Verdict | Net effect |
+|---|---|---|
+| "Thirteen-conceded-by-the-25th too high" | Fails on **direction**, lands on **timing**: a holding "MSH contacted, will revert" letter covering all tabs is underpriced (MSH round trips 21 days–6 weeks; Matheson's plural "requested documents" wording) | 13-conceded ↓ on timing only |
+| "S2 overpriced" | **Survives.** All four S2 sub-branches foreclosed or unprecedented: Guide 5.1 puts concession after the conference; no directions variation ever sought; the s 552A request is the Appellant's automatic 1 Oct move six days later; "position under review" mixes registers that never mix. Addendum 4's 30% conference figure imported Appellant-side exposure logic into an officer who may read the exchange as routine | S2 ↓ sharply |
+| "S3 underpriced" | **Survives.** Authority asymmetry: conceding needs sign-off, maintaining needs none; "disputes maintained pending MSH verification" is an S3-shaped letter with a stock reason; the counsel-will-say-concede chain is inference (Willson unseen since 22 May; 8 Sep legal review lasted ten minutes) | S3 ↑ modestly |
+| "Taxonomy gap" | **Survives — the sharpest finding of the run.** The most institutionally natural letter — concede the thirteen, then paste the SOFC formula or a footing reservation to neutralise any look of weakness — fits none of S1–S4. The 8 Sep cover letter shows exactly this reservation reflex. The cell was named in E23's own tells ("thirteen conceded + formula repeated → 12%") but never given a shape | S5 ↑, S1 redefined |
+
+**⛔ Scoring resolution adopted (from the taxonomy refuter):** **S1 is the CLEAN documents-only
+letter** — no formula, no fresh reservation. A letter that concedes the tabs but restates the
+formula or adds a protective reservation scores **S5(a)**, the hybrid. `formula_absent` is scored
+jointly with the shape, never alone. This is fixed NOW, before the event, so the 25th cannot be
+scored into whichever cell flatters the model.
+
+**The integrated final (judge ⊕ mechanical stack, equal weight):**
+
+| Shape of the 25th | E23 | **E24 final** | Movement |
+|---|---|---|---|
+| **S1 · clean documents-only** — thirteen conceded, Tab 31 "MSH asked", silent on position | ~50 | **~49** | holds, but now means *clean* |
+| **S2 · matter-addressed** — conference / variation / position-under-review / concession foreshadowed | ~35–40 | **~14** | ⛔ collapsed — the panel's largest correction |
+| **S3 · hold-the-line** — disputes maintained, incl. "pending MSH verification" with a reason | ~8 | **~11** | up: the pending-MSH maintenance letter is S3-shaped |
+| **S4 · concession of the appeal by letter** | ~6 | **~2** | down: no mechanism exists pre-conference (Guide 5.1) |
+| **S5 · the unpriced cell** — (a) concede-plus-formula/reservation hybrid ~8 · (b) further extension / "will revert" holding note ~9 · (c) silence past the 25th, answer folded into 30 Sep ~5 · (d) bare acknowledgement ~3 | 0 (not priced) | **~24** | ⭐ the shape E23 did not have |
+
+| Quantity | E23 | **E24 final** |
+|---|---|---|
+| Thirteen conceded in terms **on or by the 25th** | 85 | **~69** — direction unchanged, timing repriced; by 30 Sep/1 Oct the destination number stays high |
+| Reply in the legal register | 70 | **~67** — deferral letters are Matheson's hand, so the register prediction is conditional on the letter being substantive |
+| SOFC formula absent | 68 | **~71** — unused since the admissions, absent from every legal-register document, anchored to a superseded pleading |
+
+**Deltas vs E23, in words.** The panel kept the modal story — a counsel-reviewed, documents-only
+concession of the thirteen with "MSH has been asked" on Tab 31 — and broke two of E23's numbers.
+First, **S2 at 35–40 was motivated overreach**: every S2 sub-branch requires a first-ever behaviour
+from an office that has never volunteered case-level content, never sought a variation, and whose
+concession mechanism (Guide 5.1) only opens after the conference the Appellant will request on
+1 Oct anyway. The MSH-exposure/filed-list logic (E21) is real but it prices what happens by the
+**30th**, not what is written on the **25th**. Second, **E23 had no slippage shape at all** in a
+file whose own A1 data shows the one prior soft commitment slipping 11 days, MSH round trips of
+21 days–6 weeks, and a self-set date with no sanction behind it except the reserved costs letter.
+A quarter of the probability now lives there. The thirteen still get conceded — the panel moved
+*when*, not *whether*.
+
+**Surviving counterarguments (kept live, verbatim substance):**
+1. Consequence-ordered compliance may make the 25th quasi-binding after all — the 9 Sep letter
+   attached NNPD-plus-costs consequences and the 25th is welded to the always-met 30 Sep filing;
+   if so, the ~17 points on deferral/silence are overpriced and 13-conceded sits nearer 85.
+2. The 16 Jul undertaking plus the filed-list device makes the 25th the natural one-sentence
+   vehicle for S2 content; if the day-one maximum-Friday ask really was a counsel re-plan, 14
+   underprices a first-ever behaviour that needs only one cheap sentence.
+3. Authority asymmetry cuts the other way too: if the letter goes out in Matheson's hand under
+   hearing-week pressure without counsel review, S3 above 11 and 13-conceded well below 69 follow.
+4. S1 and formula_absent are coupled: a scorer who reads closing boilerplate as not breaking S1's
+   silence shifts ~8 points from S5 back to S1 — hence the scoring resolution above.
+5. The register-purity and counsel-reviews-last inferences rest on five letters and thin metadata;
+   ordinary boilerplate recurrence suggests formula presence above 30%.
+6. MSH latency could dominate everything: a pure holding letter or an outright slip could deserve
+   well above the ~14 points priced across S5(b)–(d).
+
+**Watchlist for the 25th (score in this order):**
+1. Service date/time — on or before Fri 25 Sep, or slipped; anything interim before it.
+2. Author and register — PDF author field (Matheson vs "Peter"/counsel profile), first-person
+   apologetic vs rule-citing, creation-to-service gap (minutes = legal review last).
+3. Opening scope — answers the 9 Sep options (a) produce / (b) admit under r 49 in terms, or
+   reframes the request.
+4. Disposition of the thirteen — conceded in r 49 terms / partial / deferred "pending MSH
+   verification" / maintained with the provenance reason restated.
+5. Tab 31 — "MSH has been asked", a production commitment, or silence.
+6. Any position sentence — the exact formula, a variant, "position under review", or true silence.
+7. Any mention of 30 Sep, the witness list, a s 552A conference, or timetable variation (S2 markers).
+8. Whether the footing letter and reserved NNPD costs are engaged, ignored, or met with fresh
+   reservations (the 8 Sep reservation reflex).
+
+**Scoring both models.** On the 25th, run
+`python3 wc2024227/scripts/panel_aggregate.py score S<n> --thirteen y|n --register legal|op --formula absent|present`
+— it Brier-scores E23 (solo) and E24 (panel) side by side, multiclass on the shape and binary on
+the three quantities. The file learns which process to trust before the 30 Sep and 1 Oct
+predictions are made the same way.
+
+**One line (the judge's, adopted):** the modal 25 September letter remains a counsel-reviewed,
+documents-only concession of the thirteen tabs with "MSH has been asked" on Tab 31 and no position
+sentence (~49%), but E23's 35–40% matter-addressed mass was motivated overreach — the real
+alternatives are deferral past a self-set soft date and a concede-plus-boilerplate hybrid, not a
+case-level reveal — which is why thirteen-conceded falls from 85 to ~69 **on timing, not
+direction**. **OUTCOME:** ______
