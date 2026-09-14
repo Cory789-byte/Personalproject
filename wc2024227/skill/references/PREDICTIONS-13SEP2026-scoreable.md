@@ -1860,3 +1860,17 @@ How put: never "records irrelevant" (de novo); chronology + s 32(3)(b); Findings
 inconsistency, never estoppel. ⛔ Medicine led through Krishnaiah/Hawes on their own evidence
 (stress response vs major depressive disorder is theirs to say); nothing suggested to doctors;
 intimate entries never restated; "a significant" never "major". **OUTCOME:** ______
+
+**E32 · The Guide test applied — see `THE-GUIDE-TEST-new-information-and-conceding.md` (15 Sep).**
+Verified verbatim: Guide §5.1 ("Following the conference, the Respondent may decide to review its
+position or consider conceding the appeal where new information is presented that they may not
+have yet considered"; "whether any elements of s 32 ... can be agreed"), §7.1, §7.5; FDO(3)
+directions 1-5 (rendered); r 49(1)-(3) (withdrawal only of DEEMED admissions — the 298 are
+express); s 558(1),(3); s 32. Findings: the Guide's trigger is "new information", not the
+conference (permissive; settle "at any time"); the condition is met by the 28 Aug-9 Sep material
+including their own 298 admissions; element-by-element, the Respondent holds nothing on (i)/(ii),
+a self-contradicted contention with no expert on (iii), and an unwitnessed plea on (iv). The path:
+30 Sep names + "any expert reports" → 1 Oct letter (mandatory) → conference (elements agreed) →
+"review its position / concede" — or s 558(1)(c) by consent at any earlier point. Numbers
+unchanged; the 30 Sep bundle now carries a second tell beside the names: **whether any expert
+report is served at all** (direction 4's own words).
