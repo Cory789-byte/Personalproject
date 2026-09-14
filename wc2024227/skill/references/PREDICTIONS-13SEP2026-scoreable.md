@@ -1370,3 +1370,10 @@ the 25th):**
 cell, wrong to price this office as a generic late agency — the 25th behaves like a
 consequence-backed date, the thirteen need no MSH, and the undertaking makes one position sentence
 in-class; thirteen-by-the-25th lands nearer 76 than either 85 or 69. **OUTCOME:** ______
+
+**E25.1 · Cory's registered stake (14 Sep, evening).** "Concede by 25" — the thirteen tabs
+conceded in terms on or by 25 September: **Cory ~85** vs E25 76 vs E24 panel 69. Pre-registered
+before the event; scored on her letter alongside the three models. If it lands, the solo read
+beats both aggregates on the headline quantity and takes more weight for the 30 Sep / 1 Oct
+predictions. (Concession of the appeal itself by the 25th is a different event and stays priced
+at ~2 — Guide 5.1 places that after the conference.) **OUTCOME:** ______
