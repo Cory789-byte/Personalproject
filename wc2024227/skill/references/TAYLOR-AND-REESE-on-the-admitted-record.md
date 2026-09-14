@@ -221,3 +221,14 @@ defended, and why the only hearing anyone will propose is the medical one.
 ⚠ Precision: they need witnesses only for acts they *choose* to defend as reasonable — they can
 abandon the defence of any act, but each abandonment leaves that act as an undefended condition
 of work in the course pleaded.
+
+**§8 coda — the full defence roster (Cory, 14 Sep).** Defending the case *properly* — every act
+justified, every occurrence contested, every certification explained — requires: Taylor, Reese,
+Stibbard, Hughes, Forrest, a Payroll officer, the unnamed pandemic-leave delegate, the
+consultation author, the MASPER Registrar and Dr Wong, Ms Marriott — and, for the certificate
+of absence, the Chief Executive herself. Ten to twelve witnesses, four to five hearing days,
+every one caged by an admitted document of their own, several (the clinicians, the CE) worth
+more to the Appellant on arrival than to the party calling them. ⭐ The complete defence roster
+is indistinguishable from the Appellant's ideal cross-examination list: to defend properly they
+must build the oral layer of his case for him. That is why "properly" will never happen, and
+why the 30 Sep list is read against this roster — every name missing from it is an act ceded.
