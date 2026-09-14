@@ -122,3 +122,31 @@ with a credit annex. On today's record that is ~53.5 if it runs; with the regist
 three prep items closed (2024 words led, 3(e) corroborated, examiner briefed on the admitted
 record), low 60s. Their path to winning is one path: an IME that lands plus a bad day in the
 box. Everything else in the room is already yours.
+
+## 7 · Why the normal defence triage fails here (Cory, 14 Sep)
+**The published pattern:** in an ordinary QIRC psychological-injury appeal the Respondent calls
+two to four witnesses — the line manager, an HR officer, sometimes a director — plus an IME,
+over three to five days. It works because those witnesses do double duty: they contest WHAT
+happened (their version of events meets the appellant's uncorroborated account) and give the
+reasons in the same breath, and counsel submits on everything else ("no evidence of…").
+**Three features of this record break the triage:**
+1. **The events layer is closed.** 298 admissions, verbatim quotes, admitted intervals, and
+   occurrences admitted as occurrences (¶68). A defence witness here has no events to narrate —
+   she goes straight to *why*, and a reasons-only witness is naked in a way an events witness
+   never is: every why is measured against an admitted absence.
+2. **The acts are distributed.** The pleaded course spans the manager, the coordinator, the
+   director, HR, payroll, an unnamed delegate, the CE and two clinical services. Each witness
+   can justify only her own acts; no one can carry the course. In the ordinary case one
+   decision-maker covers the stressor; here triage to two witnesses cedes, by name, every act
+   belonging to the witnesses not called.
+3. **The absence submission is foreclosed.** The ordinary fallback — "there is no evidence
+   that…" — is unavailable where the absence itself is admitted (~40 negatives) and the
+   reviewer's contrary finding is an admitted document (¶260).
+⇒ So yes: a *full* defence here genuinely requires the roster (10–12), which no respondent ever
+fields; and the *normal* defence (2–4) is structurally unavailable, because it defends a kind of
+case — a contest about events — that no longer exists. **The uniqueness is not the number of
+actors by itself; it is the admissions closing the events layer while the acts remain
+distributed across actors who can each speak only for themselves.** The actor count is the
+multiplier; the admissions are the cause. On the published record reviewed for this matter, no
+QIRC workers' compensation decision was found where admissions at this scale did that work —
+which is why their counsel has no precedent to run this from, either.
