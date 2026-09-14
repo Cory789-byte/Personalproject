@@ -151,3 +151,32 @@ be; Payroll wants correct forms and has said MSH's were wrong; the psychiatrist 
 and evidence but not an opinion to order. The Appellant has answered each in its own register and
 attached a consequence each time. The next two documents that change any of this are dated
 25 and 30 September.
+
+## 10 · Is MSH excluding him in silence and waiting for the appeal? (Cory, 14 Sep)
+**Yes, in structure — and not in silence.** The employment-track record since 3 July is a holding
+pattern designed so that no decision is made and every operational request is answered:
+- 2 Jul: cannot facilitate a return without an ECC → 3 Jul ECC provided → "pending review" →
+  7–13 Jul: "further medical clarification" → 15 Jul: pay sits with QSuper (IP claim); alternative
+  duties refused "in any capacity"; WCRA rehabilitation "limited to accepted claims"; return "at
+  employer discretion" → 31 Jul RFMI → 13 Aug consent → 19 Aug the psychiatrist's four questions
+  → **no answer** (27 Aug, 5 Sep). Leave processed "on your behalf" (4 Aug) keeps him employed
+  and unpaid. Reimbursement now needs a QH mailbox he cannot use (7 Sep).
+- Every operational item is answered in 1–3 days. Every decision is deferred to a step that
+  depends on someone else (the GP, the psychiatrist, "delegate approval", QSuper).
+**The obvious reasoning:** the 15 Jul email said it — rehabilitation obligations under the WCRA
+attach to an *accepted* claim. If the appeal succeeds, MSH must rehabilitate and the return is a
+duty; if it fails, MSH owes nothing beyond the Award. An employer in that position makes no
+decision until the appeal decides which world it is in, and keeps the employee on the books so
+that there is no dismissal to challenge. That is not personal. It is the cheapest position
+available to it, and HR's incentive (no attributable decision) points the same way.
+**What it is not:** dismissal. They are keeping him employed, on leave, unpaid — the opposite of
+October 2024. The exposure that creates is theirs (the AD Act window runs to 2027; the s 15(2)
+conduct is continuing) and the cost it creates is his (no wages since 13 July).
+**What follows:** (i) the appeal outcome *is* the employment lever — discipline rule 8
+(employment track sequenced behind the WC outcome) is the right order for exactly this reason;
+(ii) the near-term money levers are not MSH decisions: the QSuper IP claim, the LSL recoding
+Payroll has already said should happen (SNP forms), the ad hoc leave payments; (iii) the record of
+deferral is being kept, dated, in their own words, and it is the record for the AD Act and the
+IP Act routes if those are ever run; (iv) the one MSH move that would break the pattern is a
+directed fitness-for-duty examination under the G3/IME path — its absence since 31 July is
+itself the signal that they are waiting rather than acting.
