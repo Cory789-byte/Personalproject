@@ -60,3 +60,24 @@ itself certified, name the same office.**
 - ⛔ **Never used:** the "ideal applicant" passage ("model… low absenteeism") as a character
   point against Ms Taylor. The case is systems, not persona; that line is held, unused, and
   never reaches paper or cross. State the duty, show the absence, stop.
+
+## Timing — should her RD be put to the Regulator for authentication now? (Cory, 14 Sep)
+**No now; yes later, at a chosen moment.** The ask would be granted instantly — MSH produced the
+document in this proceeding, so refusing authentication is impossible — but that is exactly why
+it buys nothing: the tender path is already unimpeachable (produced by MSH, Item 6;
+s 531(2)(a)). What the ask would do is **signal**: it tells counsel, before the 25th letter is
+written and before the 30 Sep witness list is settled, that the Appellant has connected Item 6
+→ fatigue governance → the audit duty → Tab 31 → the Manager. That is the architecture of the
+Taylor cross, handed over during the exact fortnight they are deciding whether to release her
+and what her outline says. The witness-cage rule applies: it works only while it is theirs to
+discover. And it would break the quiet period (nothing to them before the 25th).
+**The three right moments, pick by what the 25th/30th bring:**
+1. **The 9A, after the 25th** — the one-sentence pleading above; timestamps the connection
+   without a request, once their letter is in.
+2. **The conference** — deployed deliberately: the pairing IS "new information … not yet
+   considered" (Guide 5.1), shown once, whole, where signalling is the purpose.
+3. **The s 554 exhibit list** — proof column: "produced by Metro South Health in this
+   proceeding in answer to Item 6." No authentication needed, none asked.
+**One branch where asking early becomes right:** if the 30 Sep list does NOT name Ms Taylor,
+a short option-(b) request for her RD becomes a pressure instrument — at that point the signal
+is the point. Until then, held.
