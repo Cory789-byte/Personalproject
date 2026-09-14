@@ -250,3 +250,36 @@ the table, toward the Regulator resolving the appeal without a hearing. That pre
 invisible in the correspondence and real in the tree — it is part of why concession-following-
 the-conference carries 26 and rising.
 ⛔ Never say any of this to anyone. The cage works only if it is theirs to discover.
+
+## 11 · What "if needed reach out to MSH" transmits, and how much of the plan they can see (Cory, 14 Sep)
+Her words (10 Sep, 2:42 pm): time to consider the request "and **if needed** reach out to MSH in
+relation to the documents".
+**What she needs MSH for, item by item.** For eleven of the thirteen tabs: nothing — her own
+holdings answer them (the LOD item 25 attachment, the claim file, the Commission's file), and
+option (b) needs no document at all. "If needed" is accurate: MSH is *needed* only for **Tab 31**
+(the workbook) and, optionally, for comparison copies of the MSH-authored tabs. So if the
+documents were the whole task, the reach-out is one email and the fifteen days are unexplained.
+What is *unavoidably* MSH's is the **witness question** (direction 3 filing, 30 Sep) — and the
+same call covers both. "If needed" is the documents; the need is the list.
+**Can they see the plan? Yes — by design, in three layers.**
+1. **Tender:** the request letter says option (b) exists "so that it may be tendered without
+   further proof of what it is", and the schedule's custodian column shows the proof paths that
+   operate if they refuse. Any lawyer reconstructs §10's tender map from the letter itself.
+2. **Use of the CE letter, expressly:** the footing letter ¶2 names ¶¶263–268 — "Metro South
+   Health's statements to the Commission in answer to the notice of non-party disclosure" — as
+   relied on as statements *made on the date and in the terms recorded*; and the served outline
+   deploys them (topic 2: records "do not exist", training clinical-only, assessment only after
+   30 June; topic 7: "on Metro South's own statements, no safety assessment, investigation or
+   change of procedure followed any complaint"). They know Tab 20 will be tendered and what it
+   will be used to establish.
+3. **The fallback:** NNPD limited to the schedule, costs reserved.
+**What they cannot see from the letters:** the downstream architecture — the sole-channel chain
+(¶267 as keystone), the witness cage (§10 collisions), the ¶266-v-9-May contradiction. Those are
+reconstructible by counsel from the admitted record, but they are not announced. ⭐ **And the
+transmission mechanism is her call, not his letters:** when Matheson "reaches out", what MSH
+hears in substance is — *he will tender your CE's letter; its contents are admitted; his outline
+already uses your statements as the certificate of absence; my choices are concede authenticity
+or make him prove it with your officers watching.* The cage is discovered on their side of the
+table, by their own lawyer explaining it to them. That is the disclosure-by-design working as
+intended, and it is why the plan loses nothing by being visible: every path it discloses is one
+they cannot block.
