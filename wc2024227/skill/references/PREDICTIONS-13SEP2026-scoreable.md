@@ -1700,3 +1700,28 @@ office that had not yet chosen defend (MSH mandatory) vs concede (MSH unnecessar
   reflexive bureaucratic hedging). The spine under it — MSH mandatory on the defend path — is
   solid, and it makes the caged roster the ENGINE of the concession, not a separate discovery.
 **OUTCOME (score with the 25th/30th pair):** ______
+
+**E28.9 · Why the schedule CLOSES element (d), not just supports it — the affirmative build plus the
+foreclosed competing cause (Cory, 14 Sep, night).** Cory: the medical schedule is very supportive
+— the hx, the shift pairing, the melatonin/sleep thread, the clean "no prior psychological injury"
+baseline, the referral, the certificates, the psychiatrist's "everything is there" — and the
+relationship breakdown was positioned outside the Respondent's reach. Assessment: element (d)
+(causation, s 32(1) "a significant contributing factor") is closed from BOTH directions.
+AFFIRMATIVE build: clean pre-morbid baseline (no competing pre-existing condition), work-timed
+onset 18 Jun 2024 with the shift/console conditions as mechanism, physiological corroboration
+(melatonin/sleep = contemporaneous, treatment not testimony), unbroken referral+certificate spine,
+affirmative psychiatric opinion behind the schedule's roadmap. FORECLOSED counter: the one live
+respondent move on (d) is the competing-cause argument (private life, not work); the relationship
+breakdown is the candidate, and it is defeated (i) by chronology if it post-dates 18 Jun onset —
+sequela not cause, an effect cannot be the cause — and (ii) by the statutory test regardless —
+employment need only remain "a significant" contributor, never the major/outweighing one, so a
+competing stressor does not defeat the claim unless it DISPLACES employment as significant, which
+the built record prevents.
+⛔ Disciplines: (1) NEVER volunteer the relationship breakdown — "outside their reach" is a
+defensive posture, not a point to lead; it stays out of issue unless the Respondent opens it, and
+if opened the answer is minimal + chronological (post-onset) only (the prepared box answer).
+Leading it is the one way to reopen a closed exit. (2) DFV material AttA-AttD stays UNOPENED — not
+needed; chronology + the statutory test carry the point without it. (3) Honesty guard: the
+schedule proves the (d) case is BUILT and hard to attack, not that the finding is MADE; the
+Respondent's rational read is "we'll likely lose on (d)", which suffices to concede but is not the
+win. This is the substance under E28.7 (schedule = the reason). **OUTCOME:** ______
