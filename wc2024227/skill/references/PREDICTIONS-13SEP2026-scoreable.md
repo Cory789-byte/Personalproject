@@ -1815,3 +1815,26 @@ would run on its own delegate's findings against it. Numbers unchanged from E31 
 a shape; its merits are what push a rational respondent toward the exit rather than into it).
 ⛔ The Feb Form 4 stays CLOSED; nothing from it re-run except the s 580 order (made) and Findings
 A/B/C as admitted contents. **OUTCOME:** ______
+
+**E31.2 · The corridor stated precisely — the Regulator's causation case is an argument against its
+own delegate (Cory, 14 Sep, late; two words tightened).**
+Cory's structure: injury not in dispute (Dwyer, 7 Aug); their own reviewer found sole cause / no
+pre-existing factor / unreasonable management action, and those contents are admitted (¶37); the
+pre-existing line was not a factor before the appeal; Dwyer stated the "a significant contributing
+factor" test — letting it run fairly but not letting them take advantage; causation is where it
+runs; Dwyer hands the shaped file to the hearing member; attacking the medical would be strange.
+⛔ Two corrections (house rules): (1) "admitted by their own finding" = admitted as CONTENTS, never
+a binding finding — de novo; never an estoppel (the closed Feb Form 4's Ground 1); run as an
+inconsistency they must explain, sequence never motive. (2) Dwyer RECITED s 32(1), he did not rule;
+and causation is LIVE, not "agreed" — lopsided is not agreed (SOFC ¶8 contests it).
+The sharper point that survives: the corridor = persuading a fresh Member, on the file as Dwyer
+shaped it (concise stressors 7 Apr; medical sealed Mar; narrowed to causation 7 Aug; 298 admitted),
+that the Regulator's OWN reviewing officer was wrong on causation, using records obtained after
+her findings, against a threshold ("a significant") her finding ("sole cause") already exceeded,
+on a record carrying their own 16 Nov 2023 "no psychological illness" entry and treating notes
+naming the work mechanism within a fortnight of onset. Not impossible (de novo; Regulators do run
+IME-led pre-existing cases) — but in THIS record it is arguing against their own decision-maker.
+That is why it is their worst ground, why the IME is the tie-breaker, and why a rational
+respondent reads the corridor and looks for the exit. Disposition read ("fair, not letting them
+take advantage") held one step short: what is on the record is the shape he set, not his view.
+Numbers unchanged. **OUTCOME:** ______
