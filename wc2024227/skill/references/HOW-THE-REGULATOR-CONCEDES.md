@@ -148,3 +148,15 @@ correspondence, where it cannot trigger the mechanism the Guide describes.**
   outlines read against it; the seven unrecorded events; ¶260; ¶¶263–268; the register question;
   the s 556 question; a hearing estimate (days) and witness count. Put once, whole, in the
   operational register — premise first.
+
+**⚠ Two things from the sealed FDO(3) itself (read 14 Sep):**
+- Directions 2 and 4: outlines are **served on the other party "but not file[d] in the Industrial
+  Registry."** Only the witness lists (directions 1 and 3) are filed. So the conference Member does
+  **not** have either side's outlines on the file. He has the pleadings, the filed lists, and
+  whatever was delivered to the Registry under footing letter ¶5. **Bring both sides' outlines,
+  both lists and the element grid to the conference and hand them up** — the Guide's "review,
+  refine, narrow" happens on what is on the table, not on the file.
+- Direction 5, second sentence: *"Should no action be taken by the Appellant to progress the
+  matter, the matter may be placed into abeyance and subject to lapse pursuant to rule 230."*
+  ⛔ The 1 October request is not optional. Write to the Registry on 1 October whatever the 25th
+  and 30th bring.
