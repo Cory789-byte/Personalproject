@@ -137,3 +137,28 @@ the appellant supplied the hours himself (self-represented, union demarcated out
 the evidentiary barrier fell because the role generated the record (§11) and r 49 substituted
 admissions for the disclosure wars that kill conditions cases. The barriers were never legal —
 which is why, once removed, nothing in the law stood behind them.
+
+**§12 footnote — the PTSD presumption, checked against the authorised Act (ATT26, 14 Sep).**
+ss 36EA–36ED (current 1 Jan 2025): the presumption applies to a person "diagnosed by a
+psychiatrist… as having **post-traumatic stress disorder**" who was a *first responder*
+(occupation prescribed by regulation + time-critical life-threatening response) or an *eligible
+employee* (employed by/in an **entity prescribed by regulation** + repeated or extreme exposure
+to graphic details of traumatic incidents — the Act's own example at 36EC(1)(b)(ii): *"a fire
+communications officer whose employment requires the officer to respond to calls for information
+and advice in emergency situations"*). 36ED(3): the presumption applies **despite s 32(5)(a),
+(b) and (c)** — Parliament switched off the RMA exclusion for prescribed-class PTSD entirely.
+**Application to this matter: the presumption is NOT available.** Gate 1 (dispositive): it is
+PTSD-only; the diagnosed injury is major depressive disorder with anxious distress. Gate 2
+(unverified): the prescribed classes sit in Reg 2014 ss 144A–144C / Schs 6A–6B — practitioner
+summaries list police, ambulance, fire, corrections, child safety, youth justice, and doctors/
+nurses in emergency, trauma, acute, critical or high-dependency care; whether an HHS switchboard
+operator falls in any prescribed entity/occupation is NOT verified (the Regulation could not be
+retrieved; standing task with reg 132).
+⛔ **Discipline: no PTSD re-diagnosis is ever pursued for the presumption.** The MDD diagnosis is
+the case, treating evidence is its strength, and diagnosis-shopping would poison both. The
+presumption's value here is context only: (i) 36EC's own example recognises emergency
+call-handling as traumatic work (colour for topic 1, never pleaded); (ii) 36ED(3) shows the
+"invisible dispatcher docket" mechanism — prescribed-class PTSD never litigates; his
+conditions-injury class always must. If a distinct PTSD were ever *clinically* diagnosed in
+future (e.g. from specific code events or caller threats), a separate claim could then engage
+36ED — a matter for the doctors, never for the litigation.
