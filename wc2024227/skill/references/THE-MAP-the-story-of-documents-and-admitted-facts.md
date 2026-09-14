@@ -55,3 +55,17 @@ decision be assembled from admissions minimises the labour of finding for the ap
 maximises the labour of finding against him (every contrary finding must be built from oral
 evidence against a written admission). That asymmetry of drafting effort is itself a quiet
 force on outcomes, and this record was built to create it.
+
+**9 · The legibility of error (added 14 Sep).** The record does not only make finding for the
+Appellant easy to write; it makes finding against him on the conduct **visibly strained**. The
+admissions bind for the proceeding (r 49): a finding inconsistent with an admitted fact is error
+on the face of a published decision (s 580), and the appeal to the Industrial Court (WCRA s 561;
+*Davis v Blackwood* [2014] ICQ 9 — rehearing, not confined to error of law) is conducted on
+exactly this record. An adverse decision on s 32(5)(a) would have to either omit numbered
+admissions (checkable in minutes against the notice) or recite them and reason around ¶260,
+¶¶263–268, ¶68 and the negatives without witnesses' reasons to stand on. Members know what
+survives rehearing; the map polices the decision before it is written. ⚠ The protection has a
+boundary: **causation and credit findings are ordinary contested-evidence findings** — an IME
+preferred over treating doctors, or an uncorroborated account found unpersuasive, is neither
+obvious nor readily disturbed on appeal. The legibility shield covers the conduct; the medical
+corridor is defended only by preparation.
