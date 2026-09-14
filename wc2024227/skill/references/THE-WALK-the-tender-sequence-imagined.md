@@ -153,3 +153,19 @@ person who set the process.
 Respondent now. A refusal on the 25th buys this mention; the mention has one outcome; therefore
 the refusal buys nothing but the record of it. That is the mechanism by which the letter
 enforces itself.
+
+**Addendum (Cory, 14 Sep) — the admissions are read aloud with every tab.** Identifying each
+document at that mention *is* reading its admissions into the record: the admission is the
+document's identification, so the reading is not colour, it is the necessary step. Tab 6 is not
+"an email of 15 April"; it is "the email the Respondent admits was sent at 12:39 pm to the whole
+department, copied to Ms Reese, adding the manager and the coordinator to after-hours on call,
+effective from today — paragraphs 49 and 163." Tab 20 is the CE's sentences read out, one by
+one, ending "and a spreadsheet of recorded MET calls is available — paragraph 268." Tab 30 is
+"I am fulltime and work flex hours" in open Commission. **No objection exists to any of it** —
+the words are the Respondent's own admissions, and the exercise is the one the bench directed.
+So a refusal on the 25th does not keep the documents out; it **schedules a public reading of the
+worst passages**, before the Member who set the process and chairs the conference, with MSH's
+lawyer in the room — Dwyer's own August method (reading the pleading aloud) inverted, with the
+appellant reading and everything read admitted. Maintaining the dispute converts a silent paper
+concession into an oral preview of the case. That is the full price of refusal, and they can
+price it themselves.
