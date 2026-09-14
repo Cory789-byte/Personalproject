@@ -162,3 +162,83 @@ it will have followed. If it does not, this note is the mention script, the tend
 the s 558(3) exhibit, in that order. Either way, the dispute has already done its only lasting
 work: it selected, elevated and lined up the operative documents of the case, and put the
 Respondent's signature under the admission of every line on them.
+
+---
+
+# Part 2 — what each document SAYS once it is in (Tab 31 assumed admitted)
+> The same fourteen, read not for proof but for effect: the evidentiary work each does the
+> moment it is verified, and the combined reading.
+
+**Tab 1 — the standard.** The job *was* the emergency-response function: receive the
+notifications, distribute them to the right response group, strictly to protocols and
+timeframes, and keep the database accurate so that is possible. Everything else in the case is
+measured against this page. It also builds the pressure in: call queues to minimum at all
+times, multitask under high volume, judgement where no procedure exists.
+
+**Tab 5 — the worker they chose.** Ten weeks after the August 2023 roster events, the employer
+approved him permanent full time, "very pleased." The employer's own contemporaneous assessment
+of the man it later could not roster lawfully.
+
+**Tab 6 — the condition imposed.** The two people who already held the only correction rights
+made themselves the after-hours channel, "effective from today," to a distribution list, no
+ballot alleged (¶181). The document *is* the act: the single point of dependency, self-installed,
+same-day.
+
+**Tabs 17–19 — the role never changed.** In 2026 he is still a "Continuous Shift Worker," his
+hours still varied by approved instrument. The duty at Tab 1 ran unbroken through everything.
+
+**Tab 20 — the certificate of absence.** The employer's Chief Executive, to the Commission: no
+fatigue records, training clinical-only, no fatigue assessment at the Switchboard until after
+30 June 2024, no consequential changes to procedures, and the entire complaints system for
+operational errors was one line manager, by email or verbally. One page that certifies there was
+no system behind the person — and that the register exists.
+
+**Tab 21 — the agreement that never applied.** The employer's own HR, in writing: the 8-hour
+agreement "is only applied where staff initiated shift swaps have occurred." 17–18 March 2024
+was rostered, not a swap. The sentence removes the only justification ever offered for the
+7-hour break — the same "existing 8-hour agreement" cited to refuse the fatigue payment on
+1 May 2024 (¶247) and pleaded at SOFC ¶22(a). Their 2026 letter kills their 2024 reason.
+
+**Tab 22 — the confession of inequity.** November 2024, the employer's own consultation paper:
+the new roster is "intended to introduce a more equitable roster," with "redistribution of
+nights for greater equity" and "fair distribution of penalties." An employer does not propose
+equity it already has. Five months after the injury, in its own words, it describes what the
+roster he complained of was not.
+
+**Tab 23 — what consultation looks like when it is done.** Award cl 6.2 quoted, agreement
+defined as a 50%+1 online ballot, seventeen invited, seventeen voted. This is the employer's
+own template of lawful change — and the measure of every 2024 directive that had none of it.
+
+**Tab 24 — the delegate, eventually.** November 2025: endorsed. The end point of the
+thirteen-month thread, and the standing he now writes from.
+
+**Tab 30 — the hours, from her own hand.** August 2023: "I am fulltime and work flex hours,"
+starting "between 6-9am," finishing "2-5pm." The unstated-hours condition is not his
+characterisation; it is her subject line with an exclamation mark.
+
+**Tab 30A — the day it broke.** 18 June 2024, 8:58 am, the pleaded onset date: "I am taking
+today off." "I am sorry I haven't been there for you all over the past week." "Ellen will not
+be in today." On the day the injury crystallised, the manager absent, the coordinator absent,
+the whole correction-and-escalation layer gone — in the manager's own words, timestamped.
+
+**Tab 31 — what the shifts actually carried (assumed admitted).** 17 March, the final hours
+before the 23:00 finish: a MET call at 19:16, a Code Blue to the same bed at 19:20, a further
+MET call at 21:16. Then the 06:00 start on seven hours' turnaround: a Code Grey at 8:48, MET
+calls at 9:20 and 11:31, a cancellation a minute later, neonatal MET calls at 11:35 and 13:09 —
+six emergency codes inside the shift. And on 19 March, the day he was on sick leave, a MET call
+noted "CALLED VIA SWITRCHBOARD." The register converts the review officer's finding (¶260) from
+"the rostering breached the award" into *"and this is what he was dispatching while it
+happened."* It is the exhibit behind a finding already once made in his favour — the single
+biggest outcome lever in the scenario model (52 → 62 if it runs).
+
+## The combined reading
+Fourteen documents, all theirs or from their officers, and together they are the case minus the
+medical: **the duty** (1, 17–19) · **the worker they promoted** (5) · **the conditions imposed
+on him** (6, 30) · **the certificate that no system stood behind those conditions** (20) · **the
+emergency load actually carried through them** (31) · **the justification that never applied**
+(21) · **the employer's own later admission of the roster's inequity and its own template of
+lawful consultation** (22, 23) · **the day it broke, in the manager's words** (30A) · **and the
+man still standing in the role, now its delegate** (24). The Respondent's authenticity column
+was pointed at the fourteen pages that, once read together, leave s 32(5)(a) nothing to stand
+on — which, read backwards, is the most precise damage assessment anyone on their side has
+produced.
