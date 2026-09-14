@@ -180,3 +180,30 @@ deferral is being kept, dated, in their own words, and it is the record for the 
 IP Act routes if those are ever run; (iv) the one MSH move that would break the pattern is a
 directed fitness-for-duty examination under the G3/IME path — its absence since 31 July is
 itself the signal that they are waiting rather than acting.
+
+## 11 · From Ruttan's chair — the Form 29 withdrawn, and what the win turned into
+The objection succeeded completely: no production hearing, no orders, the application withdrawn
+by the applicant himself. No ruling to appeal, no compulsion to complain of. Then the sequence
+that followed:
+1. The objection letter (K-LM26/729, signed by the CE) made its case by **statements of fact** —
+   records "do not exist"; "no consequential changes to operating procedures"; complaints handled
+   "solely via email or verbally with the complainant"; FRMS training clinical-only; fatigue
+   assessment at Switchboard only after 30 June 2024; and one concession, "a spreadsheet of
+   recorded MET calls is available for the period 17–18 March 2024."
+2. On 28 August those statements were served back as facts to admit (¶¶263–268). On 8 September
+   **the Regulator admitted every one of them.** The letter written to defeat production is now
+   Tab 20 — authenticity "disputed", contents admitted — and each sentence is a documented
+   absence of system, voluntary, signed at CE level.
+3. The one document the letter conceded exists is the one item now being sought — through the
+   Regulator, on the Commissioner's own stated process, with costs reserved. The expense
+   objection (r 64E(4)(a)) that defeated the mailbox searches cannot be raised for one
+   spreadsheet MSH has said is "available", and the withdrawal of the Form 29 removed the forum
+   in which any objection could be heard.
+4. The objection's own narrow reading of the matter in issue — "consecutive shifts of 17 to 18
+   March 2024" — is exactly the period the spreadsheet covers.
+**The feeling, honestly:** the disclosure war was won and the victory dispatch became the other
+side's exhibit. Defending the documents cost the facts. And the officer who signed it cannot be
+consulted about the appeal without being reminded that her letter is in evidence.
+⚠ For our side, the lesson runs both ways: it worked because the withdrawal was real, the tone
+was procedural, and the statements were theirs. Nothing about this is to be said to anyone —
+the position speaks when the register is produced or refused.
