@@ -1738,3 +1738,27 @@ RFMI); the five-witness list vs the caged, named-back defence roster; element (d
 foreclosed by chronology + the "a significant" test); the Dwyer/7-Aug-mention invocation as
 immediate pressure not foundation. The one isolated inference: whether they have DECIDED — pending
 the 25 Sep letter (register) and 30 Sep list (decision).
+
+**E30 · Cory's hypothesis — concession, read through specific NAME signals (14 Sep, thread-end).**
+Reviewing turns E24-E29: the leading read is concession, and it is legible through names, not prose
+— because MSH contact and soft wording occur on both branches (E28.8), while a FILED witness list
+is a commitment device (names you can actually box, on the record, under direction). The name
+signals live on the **30 Sep filed list**, not the 25 Sep letter.
+
+Name-signal scorecard (score on the 30 Sep list):
+| Name | Appears → | Absent → |
+|---|---|---|
+| **Reese** | conduct defence attempted (very unlikely; most caged, ¶219-221; absent all 2026 comms) | **conduct limb ceded — strongest concede signal** |
+| **Taylor** | broad = defending conduct; narrow/causation = limited | conduct ceded |
+| **Clinicians** (MASPER Registrar / IRS) | contesting the occurrence (won't) | occurrence conceded; findings stand (¶68, s 92) |
+| **Counsel named** (Willson/Gray, appearance or outline) | gearing for contested hearing | no re-engagement = concede/settle |
+
+Rule: a list with **Reese on it** = defend; a list with **no MSH conduct witness** = concession of
+the conduct war, whatever the 25th letter says. The 25th = register; the 30 Sep names = decision.
+⛔ Two guards: (1) distinguish "thirteen tabs conceded" (near-certain by the 30th) from "appeal
+conceded" (endgame ~35) and from "causation-only corridor" (~35) — the last two share the SAME
+name-absence signature, so a MSH-conduct-free list confirms the conduct war is over but does not by
+itself split outright-concession from causation-only; the letter's register and any position
+sentence break that tie. (2) Read SPECIFIC absence (no Reese, no clinicians), not mere thinness — a
+placeholder/"to be confirmed" list can be a defensive filing. **OUTCOME (score with the 30 Sep
+list):** ______
