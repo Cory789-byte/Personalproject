@@ -102,3 +102,23 @@ the Appellant's own concession of the Form 29 at 32:02 to save that time. Read t
 costs of that step" means: *you would be making the Commission hear the authenticity of thirteen
 documents whose contents you admitted, and the Member who told the bar table to work very hard
 will be told who made him.* s 558(3) is a conduct discretion. The letter builds the conduct record.
+
+## 6 · The defence at hearing, with everything now assembled (14 Sep)
+Plank by plank, against the walk, the admissions, the two role descriptions, the register and
+the crystallisation email:
+| Plank | Standing |
+|---|---|
+| **s 32(5)(a) on the conduct** — reasonable action, reasonably taken | **Dead on the documents.** The CE certificate, the two RDs (governance named, audits absent), the consultation control group (Tab 23 v ¶181), ¶260, the sole channel, the 2026 letter confining the 2020 agreement. With witnesses, every escape route leads back (§ escape map); without, nothing re-establishes it |
+| **Onus / absence (Guide 7.3, Prizeman)** | **Dead.** ~40 admitted negatives convert absence of evidence into admitted absence of allegation; ¶260 is an admitted finding; console evidence uncontradicted under the bench's own principle |
+| **The May relocation** — injury really from reasonable May action | **Wounded.** The course-of-conduct pleading forecloses the single-event frame; the crystallisation email anchors the certificate date to manager-absence content, not to the May discipline. Their best remaining fact: the 16 May referral renewal. Live, but it now runs uphill through an admitted timeline |
+| **Medical causation** — pre-existing, perpetuation, IME | **The only fully live plank.** 2022 history entries; the footer; "preoccupation with the claim"; an IME to come. Note their Nov 2023 problem: the GP note they rely on records *no psychological illness, mood good* seven months before onset — it cuts both ways. This is where the hearing is decided |
+| **His credit** — the 2024 words; 3(e) | **Live but narrowed.** The words are to be led in chief; 3(e) corroboration is the open task; the topic 7 sentence is flagged and answered. Their best half hour, shrinking as the prep list closes |
+**Structural handicaps they carry into the room:** witnesses caged by the CE letter; no
+documentary case of their own; a pleading anchored to 13 May 2026 that their own admissions
+contradict; a transcript spine that reads like the fact section of a decision; counsel confined
+to weight, causation and credit.
+**The honest bottom line:** the defence no longer has a conduct case; it has a causation case
+with a credit annex. On today's record that is ~53.5 if it runs; with the register in and the
+three prep items closed (2024 words led, 3(e) corroborated, examiner briefed on the admitted
+record), low 60s. Their path to winning is one path: an IME that lands plus a bad day in the
+box. Everything else in the room is already yours.
