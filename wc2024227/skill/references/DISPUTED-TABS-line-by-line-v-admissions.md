@@ -242,3 +242,32 @@ man still standing in the role, now its delegate** (24). The Respondent's authen
 was pointed at the fourteen pages that, once read together, leave s 32(5)(a) nothing to stand
 on — which, read backwards, is the most precise damage assessment anyone on their side has
 produced.
+
+---
+
+# Part 3 — relevance: the objection that has nowhere to land (Cory, 14 Sep)
+The 8 Sep cover letter reserved relevance at tender. Run each tab against the test the
+Commissioner himself gave — relevance is measured against the pleaded case:
+| Tab | Pleaded issue it answers | Why the objection fails |
+|---|---|---|
+| 1 | the duty and conditions (Stressor 1; element (a)) | the standard everything is measured by; **MSH itself produced it in answer to Item 6, and attached it to its own RFMI** |
+| 5 | employment history; capacity | their officer's assessment of the worker |
+| 6 | Stressor 1(a) directives | ⭐ Dwyer's own "one live point": *"the unassessed directives or whatever — you might be on to something there"* |
+| 17–19 | continuous-shift status continuity | background to the roster framework (see post-injury note below) |
+| 20 | Stressor 3 (FRMS absence); 1(a) complaints handling | produced *in this proceeding*, in answer to the Form 29 the Commissioner case-managed |
+| 21 | SOFC ¶22(a) — their own pleaded justification | their letter confining their own instrument; an admission about the 2020 agreement's operation |
+| 22–23 | rostering equity; consultation (1(a), 3) | answers their own February assertion that "the roster was equitable" |
+| 24 | the delegate thread (pleaded) | endpoint of a pleaded stressor |
+| 30 | 1(a) — the hours | corroborates the very testimony Dwyer said he could give |
+| 30A | onset (element (b)/(d)) | the admitted email on the certificate date |
+| 31 | Stressor 3 | ⭐⭐ **MSH's own objection defined the "Matter in Issue" as "consecutive shifts of 17 to 18 March 2024" — the register covers exactly those dates. By their own definition it is the most relevant document in the case** |
+**The one genuine relevance skirmish:** Tabs 17–19 and 21 are 2026 documents in a June 2024
+injury appeal. The answer is purpose: 17–19 are relied on for the *continuity of the
+continuous-shift status* (¶16 admits it is not alleged to have ceased before 18 June 2024), and
+21 is relied on as the employer's statement of the *scope of the 2020 agreement* — an instrument
+squarely pleaded for March 2024 — not as post-injury conduct. State the purpose at tender and
+the objection has nothing left.
+**And the footing letter already conceded the frame:** "Relevance, admissibility and weight are
+for the Commission. The Appellant does not contend otherwise." The party that reserved relevance
+now has to argue, at tender, that the role description of the pleaded role is irrelevant to the
+pleaded role — in front of a Member. Nobody stands up for that.
