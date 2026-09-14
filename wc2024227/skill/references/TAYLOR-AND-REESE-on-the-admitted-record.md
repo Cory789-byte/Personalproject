@@ -191,3 +191,33 @@ rebuttal is available but unaffordable.**
 No combination removes the absences, because the absences are in the List, not in the witnesses.
 ⚠ A single name on the 30 Sep list is not the weaker choice for them; read it as the one that
 leaves the other's documents standing, and build the cross on the standing documents.
+
+## 8 · The per-act witness burden (Cory, 14 Sep) — the acts came in without witnesses; the reasons cannot
+Two directions, kept precise:
+- **To prove the acts: nobody needs a witness.** They are admitted (r 49) — that work is done,
+  for both sides, forever.
+- **To justify the acts** (s 32(5)(a): reasonable action, *taken in a reasonable way*): the
+  reasons are not on the face of any document — a directive states what, never why — so every
+  act they choose to defend needs its **actor** in the box. Counsel cannot supply reasons from
+  the bar table; a submission with no evidence leaves his account and the admitted absences
+  uncontradicted (Dwyer's gloss), and Browne v Dunn runs against them too: reasons never put in
+  evidence cannot ground a submission.
+**The act → witness map:**
+| Acts (admitted) | The only witness who can give the reasons |
+|---|---|
+| database access removal; book removed; PP24 on-call (Tabs 1A, 8C) | **Ms Stibbard** |
+| the directives, the hours, the on-call addition, the sick-leave process, the 20 May reply, the AVACs, the COVID declines (Tabs 6, 9, 10, 11, 30, 30A; ¶¶132–137, 297–298) | **Ms Taylor** |
+| 7 Aug 2023 handling, the retraction request, "will follow up", the HR referrals (Tabs 2, 3, 7, 8, 9A, 9B) | **Ms Reese** |
+| the 2026 movement-form approvals (Tabs 17–19) | **Mr Hughes** |
+| the 8-hour-agreement scope letter (Tab 21) | **Ms Forrest** |
+| the payroll loop (Tabs 12–13) | a **Payroll officer** |
+| the pandemic-leave approval under sub-delegation | **the delegate the pleading never names** (¶¶129–131) — a witness they cannot call without first identifying |
+| the consultation paper and ballot (Tabs 22–23) | its author |
+⇒ **Fully defending the course of conduct costs six to eight MSH witnesses**, every one caged by
+the CE's letter, converting the one-day medical hearing into a week of exactly the public
+examination MSH resists. That is the final shape of the trap: the acts entered without a single
+witness; the reasons cannot enter without all of them. It is why the conduct will not be
+defended, and why the only hearing anyone will propose is the medical one.
+⚠ Precision: they need witnesses only for acts they *choose* to defend as reasonable — they can
+abandon the defence of any act, but each abandonment leaves that act as an undefended condition
+of work in the course pleaded.
