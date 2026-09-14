@@ -982,3 +982,30 @@ answer, aligned with the 30th because the same answer fills the list.
 - ⛔ **For him:** the same reading tells them where their whole effort goes — the reasons through
   Taylor and Reese, and his credit on his own 2024 statements. Nothing in E16 changes the
   preparation already listed in the scenario model; it explains why it is the right preparation.
+
+### E17 · They have held his stated intention to brief counsel since 1 July — and the 16 July reply contains an undertaking (Cory, 14 Sep)
+
+**Verified.** Calderbank #2, served 1 July 2026, ¶7 (costs): *"Appellant WILL brief counsel +
+instructing solicitor + call Dr Krishnaiah (updated report + cross-exam) → substantial real costs,
+recoverable on likely success"*; ¶6.1(b): the Regulator to pay the Appellant's costs *"(counsel,
+expert, solicitor)"*; costs to follow the event (Canton v WCR [2019] QIRC 145 [33]); uplift and
+indemnity sought on refusal. Rejected 16 July with the position formula — **and one further
+sentence: *"Should our position change at any point, we will advise you as soon as possible."***
+
+**What it does to their reading.**
+1. Every document since 1 July reads to them as consistent with counsel already instructed behind
+   the paper. Whether that is true does not matter; the mention answered the only alternative
+   explanation. Category four was set on 1 July and confirmed on 9 September.
+2. **A Calderbank bites only if the offeror's recoverable costs are real.** A self-represented
+   appellant's costs are largely disbursements. The 1 July letter told them the costs would be
+   counsel, solicitor and expert — i.e., real — and the refusal is measured from 16 July, **before
+   the 298 admissions**. The same refusal, re-read after 8 September, is the costs argument.
+3. The 25 September letter is the first document that can be the advice they undertook to give.
+   ⭐ **Scoreable:** does the 25 Sep letter say the Respondent's *position* has changed, or use the
+   16 July formula unchanged? Formula unchanged = the undertaking has not been triggered in their
+   view (see class 7). Any sentence beginning "the Respondent's position…" is the tell.
+   **Confidence that "position" is addressed in terms on 25 Sep: 45%.** **OUTCOME:** ______
+4. ⚠ **The handover question and the Calderbank are the same question.** Briefing for the hearing
+   is what makes the 1 July offer carry its stated costs consequence. Not briefing does not falsify
+   the letter (it stated an intention) but it removes most of the costs exposure the letter
+   created. Decide the two together, and before any Calderbank #3 (`CEILING_SET/06`).
