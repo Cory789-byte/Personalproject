@@ -1762,3 +1762,37 @@ itself split outright-concession from causation-only; the letter's register and 
 sentence break that tie. (2) Read SPECIFIC absence (no Reese, no clinicians), not mere thinness — a
 placeholder/"to be confirmed" list can be a defensive filing. **OUTCOME (score with the 30 Sep
 list):** ______
+
+**E31 · The mention folded in — what Dwyer said about the injury (7 Aug, verbatim from the transcript)
+against the thesis (14 Sep, night). No agents; straight analysis.**
+Verified lines: [247-276] "the presence or existence of an injury ... is usually not so much in
+dispute ... as you do in this particular case. So the real crux ... significant contributors to the
+cause of that condition"; [175-199] the test — onus, s 32, "a significant contributing factor",
+"not excluded by 32.5, reasonable management action taken in a reasonable way"; [3357] "So this is
+after you sustained your injury?" — "Yeah" (injury fixed as a dated event; post-injury events not
+stressors); [3405-3680] "overcooking it ... not a toxic place ... not that Miss Taylor was a
+terrible manager ... fewer documents means simpler case"; [130-144] "resolved sooner rather than
+later ... the people of Queensland who are resourcing these proceedings".
+What it does: (1) the DIAGNOSIS was taken off the table on the record on 7 Aug, before any
+September material — the Regulator has known for a month it cannot win on the injury; (2) the
+Member named the only live grounds — causation and s 32(5)(a) — and the 9 Sep package answered
+exactly those two (schedule → (d); admissions + conditions-of-work outline → the exclusion);
+(3) the injury date is fixed by the Member himself — the competing-cause defence dies on it;
+(4) the 9 Sep package IS the Member's 7 Aug instruction executed (one page per witness,
+conditions of work, employer's own words, records keyed to pleaded stressors) — the Regulator
+watched the direction taken and returned as a case shaped to it; (5) the conditions-of-work frame
+takes the causative stressors OUTSIDE s 32(5)(a) (which reaches only management action), and
+where the stressor is management action, "taken in a reasonable way" runs into the admitted
+negatives + ¶260 — the conduct war is over and no-Reese remains the signal; (6) the efficiency
+standard is the Member's own words behind the costs pressure.
+⛔ Where it cuts against: narrowing to causation makes a CAUSATION-ONLY defence the legitimate,
+expected shape — an IME-plus-no-MSH list is compliance with the framing, not a retreat. It
+confirms the conduct war is over; it does not split concede from corridor (E30 guard #1, firmer).
+The corridor is legitimate as a shape but weak on the merits (clean baseline; treating notes
+naming the work mechanism 28 Jun / 1 Jul 2024; dated injury; foreclosed competing cause; an IME two
+years later against contemporaneous treating attribution).
+Numbers: conduct over 80→**83**; name method **85** (unchanged, same limit); outright ever
+55→**52**; causation-only corridor 30→**33**; outright in window 35→**32**. Tie-breaker added to
+the scorecard: **the IME** — an independent psychiatrist on the 30 Sep list or a s 556 move =
+corridor; MSH-free list AND no IME move = concession (F2.5 ~55% post-30 Sep now carries the
+concede-vs-corridor split). **OUTCOME (score with the 30 Sep list + any s 556 step):** ______
