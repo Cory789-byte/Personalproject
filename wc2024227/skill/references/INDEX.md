@@ -1,6 +1,6 @@
 # Reference index — generated, do not hand-edit
 > Regenerate: `python3 scripts/build_reference_index.py` from `wc2024227/`.
-> 197 notes. The first blockquote line of each note is its provenance line.
+> 206 notes. The first blockquote line of each note is its provenance line.
 
 ## ⭐ START HERE — state of play and verified record  (6)
 
@@ -16,7 +16,7 @@
 - **`STATE-OF-PLAY-14AUG2026.md`** · 13KB — THE STATE OF PLAY — 7 to 14 August 2026: withdrawal, service, disclosure, confirmation, question
   <br><sub>14 August 2026. One week in which the appeal's disclosure architecture was rebuilt by consent,</sub>
 
-## THE APPEAL — case theory, s 32(5), authorities, the pleading  (32)
+## THE APPEAL — case theory, s 32(5), authorities, the pleading  (33)
 
 - **`S32-5-A-JUDGMENT-THREE-DOCUMENTS.md`** · 148KB — WEIGHING THE THREE DOCUMENTS UNDER s 32(5)(a) — a judgment
   <br><sub>15 August 2026. The AO3 role description · the Form 24 Notice and the Respondent's Response ·</sub>
@@ -26,6 +26,8 @@
   <br><sub>*The employer operated a life-safety clinical-coordination function (Code Blue</sub>
 - **`RD69983-SYNTHESIS.md`** · 29KB — REVIEW DECISION 69983 — THE SYNTHESIS
   <br><sub>8 August 2026. **Everything from this session in one place: how the document was made, how the</sub>
+- **`FORM24-25-RESPONSE-against-the-rules.md`** · 21KB — The 8 September 2026 response, broken down against rule 49
+  <br><sub>Built 12 September 2026 from the served originals at</sub>
 - **`RD69983-OBJECT-LEVEL-FORENSICS.md`** · 18KB — REVIEW DECISION 69983 — EXHAUSTIVE OBJECT-LEVEL FORENSICS
   <br><sub>8 August 2026. Worked **only** from `f59eb0c1-Review_Decision_69983.pdf` (Cory's clean copy —</sub>
 - **`SOFC-vs-FORM24-collision-map.md`** · 18KB — THE REGULATOR'S PLEADING AGAINST THE FORM 24 AND ANNEXURE A
@@ -53,10 +55,10 @@
   <br><sub>Built 31 July 2026. **Everything here rests on MSH's own words in their own letter.**</sub>
 - **`THE-ROLE-DESCRIPTION-GAP.md`** · 9KB — THE REGULATOR HAS THE MANAGER'S ROLE DESCRIPTION. SHE DOES NOT HAVE HIS.
   <br><sub>15 August 2026, on Cory's question. Established from the amended List of Documents of</sub>
+- **`TWO-ROLE-DESCRIPTIONS-side-by-side.md`** · 9KB — The two role descriptions, side by side — his duty and hers
+  <br><sub>14 September 2026. His: AO3 Administration Officer, Switchboard Services (Annexure A Tab 1,</sub>
 - **`9C-contradiction-matrix.md`** · 8KB — The Regulator's Form 9C (SOFC, 13 May 2026, v4.4) — contradiction matrix
   <br><sub>The Regulator's operative defence pleading, signed Matheson. Read against: the earlier Form 24</sub>
-- **`FORM24-25-RESPONSE-against-the-rules.md`** · 8KB — The 8 September 2026 response, broken down against rule 49
-  <br><sub>Built 12 September 2026 from the served originals at</sub>
 - **`S556-EXAMINATION-and-the-s32-elements.md`** · 8KB — WCRA s 556 examinations, and what "going through s 32 element by element" means
   <br><sub>13 September 2026. Read from WCRA s 556 (ATT26) and QIRC Workers' Compensation Appeal Guide</sub>
 - **`THE-BOARD-element-ledger.md`** · 8KB — THE BOARD — EVERY LEGAL ELEMENT: WHAT IS SET UP, AND WHAT THEIR NEXT MOVE COMPLETES
@@ -106,7 +108,7 @@
 - **`KNOWN-ITEM-completeness-test.md`** · 3KB — THE KNOWN-ITEM COMPLETENESS TEST — auditing the Regulator's list when it arrives
   <br><sub>⛔ Strategy layer. Built 4 Aug 2026, BEFORE the list lands, so completeness is tested against</sub>
 
-## THE RECORD — chronology, sequences, maps  (21)
+## THE RECORD — chronology, sequences, maps  (23)
 
 - **`THE-FATIGUE-SEQUENCE.md`** · 61KB — THE FATIGUE SEQUENCE — one stressor, five steps
   <br><sub>8 August 2026. Written after Cory's reminder that at the mention the Commission **grouped the</sub>
@@ -116,6 +118,8 @@
   <br><sub>Built 1 August 2026. Every ask now sits under a named provision that compels an answer, carries a</sub>
 - **`LEGAL-CONSEQUENCES-external-drafting.md`** · 32KB — THE LEGAL CONSEQUENCES — if the review decision was drafted by an insurer-side firm
   <br><sub>8 August 2026. Answering Cory: *"the legal solicitor from a WorkCover insurer employer side</sub>
+- **`THE-WALK-the-tender-sequence-imagined.md`** · 23KB — The walk — the documents tendered in the Commission, imagined in order
+  <br><sub>14 September 2026. A rehearsal narrative of the documentary spine tendered at hearing,</sub>
 - **`COMPLETE-MASTER-TIMELINE.md`** · 19KB — COMPLETE MASTER TIMELINE — every filing, order, mention, communication and event
   <br><sub>14 August 2026. Built from source: the corpus index (154 messages), the 82-item documents</sub>
 - **`PROCEDURAL-ROADMAP-APPEAL-GUIDE.md`** · 18KB — HOW THIS APPEAL ACTUALLY RUNS — from the Commission's own guide
@@ -148,6 +152,8 @@
   <br><sub>8 August 2026. Written after building the risk register. The un-rosy version: the whole matter,</sub>
 - **`THE-CONVERGENCE-7AUG.md`** · 5KB — THE CONVERGENCE — Friday 7 August 2026, and what HR now holds
   <br><sub>Built 5 Aug 17:52. Three clocks mature on one day; four MSH positions are mutually</sub>
+- **`THE-MAP-the-story-of-documents-and-admitted-facts.md`** · 4KB — The map — the story of the documents and the admitted facts
+  <br><sub>14 September 2026. The narrative of the case's architecture, in the order it was built.</sub>
 - **`THE-28-DAY-GAP.md`** · 3KB — THE 28-DAY GAP — why the "we needed medical information" defence fails on its own dates
   <br><sub>⛔ Strategy layer. Banked 4 Aug 2026 (Cory's formulation). The single strongest manner</sub>
 
@@ -392,22 +398,28 @@
 - **`ASSESSMENT-DESIGN-gold-standard.md`** · 4KB — HOW A COMPREHENSIVE PSYCHOSOCIAL + WHS ASSESSMENT WOULD ACTUALLY BE RUN HERE
   <br><sub>⛔ Strategy layer / ready position. The gold-standard methodology to hold against whatever</sub>
 
-## OTHER  (14)
+## OTHER  (20)
 
-- **`PREDICTIONS-13SEP2026-scoreable.md`** · 65KB — Data-driven predictions, 13 September 2026 — written to be scored
+- **`PREDICTIONS-13SEP2026-scoreable.md`** · 74KB — Data-driven predictions, 13 September 2026 — written to be scored
   <br><sub>⭐ **The point of this file is falsifiability.** Each prediction has a date, a stated</sub>
+- **`DISPUTED-TABS-line-by-line-v-admissions.md`** · 20KB — The fourteen disputed tabs, line by line against the admissions
+  <br><sub>14 September 2026. Each document the Form 25 marks "authenticity disputed", read line by line</sub>
+- **`SCENARIO-MODEL-13SEP2026.md`** · 18KB — Scenario model — settle, call, or documents alone
+  <br><sub>13 September 2026. ⚠ **Branch probabilities are calibrated judgements, not computed</sub>
+- **`THE-CONVERSATION-MATHESON-MUST-HAVE-WITH-MSH.md`** · 18KB — The conversation Matheson has to have with Metro South Health
+  <br><sub>13 September 2026 (Cory's point). Sources: the served response of 8 September 2026; the</sub>
+- **`INSTITUTIONAL-POSITIONS-14SEP2026.md`** · 16KB — The position of each institution, from its own communications — 14 September 2026
+  <br><sub>Built under the `regulator-signals` skill from every 2026 communication in</sub>
 - **`TAYLOR-AND-REESE-on-the-admitted-record.md`** · 16KB — Taylor and Reese on the admitted record — at odds, aligned, or aligned with the events missing
   <br><sub>13 September 2026. Every fact number is an **admitted** Form 24 fact (8 Sep 2026 response)</sub>
-- **`SCENARIO-MODEL-13SEP2026.md`** · 15KB — Scenario model — settle, call, or documents alone
-  <br><sub>13 September 2026. ⚠ **Branch probabilities are calibrated judgements, not computed</sub>
-- **`THE-CONVERSATION-MATHESON-MUST-HAVE-WITH-MSH.md`** · 13KB — The conversation Matheson has to have with Metro South Health
-  <br><sub>13 September 2026 (Cory's point). Sources: the served response of 8 September 2026; the</sub>
+- **`THE-GAPS-AND-THE-WORLD-FACTS.md`** · 15KB — The gaps and the world-facts — the admissions that never touch a page
+  <br><sub>14 September 2026. Two classes of the 298, compiled in full: the admitted GAPS</sub>
+- **`HOW-THEIR-COUNSEL-WOULD-RUN-IT.md`** · 12KB — How the Respondent's counsel would run it — and whether it is a bad brief
+  <br><sub>14 September 2026. Written from Ms Willson's chair (WHS-specialist panel counsel, on the file</sub>
 - **`REGULATOR-SIGNALS-the-full-data-set.md`** · 11KB — Regulator signals — the full data set, what each presumes, what each predicts
   <br><sub>13 September 2026, late. Consolidates every Regulator-side observation in the repo into one</sub>
 - **`HOW-THE-REGULATOR-CONCEDES.md`** · 10KB — How the Regulator concedes — the mechanism, the trigger, the timing
   <br><sub>13 September 2026. Read from the QIRC Workers' Compensation Appeal Guide (Parts 5 and 10),</sub>
-- **`HOW-THEIR-COUNSEL-WOULD-RUN-IT.md`** · 9KB — How the Respondent's counsel would run it — and whether it is a bad brief
-  <br><sub>14 September 2026. Written from Ms Willson's chair (WHS-specialist panel counsel, on the file</sub>
 - **`WHO-THEY-NEED-TO-CALL-to-rebut-the-outlines.md`** · 8KB — Who the Respondent needs to call to rebut the served outlines — topic by topic
   <br><sub>13 September 2026. Read against the three outlines as served 9 Sep 2026</sub>
 - **`META-ANALYSIS-13SEP2026-evening.md`** · 7KB — Meta-analysis and model re-run — 13 September 2026, evening
@@ -418,7 +430,13 @@
   <br><sub>13 September 2026. Read from the served originals at</sub>
 - **`FRMS-BUNDLE-DEEP-DIVE-11AUG2026.md`** · 6KB — THE FRMS BUNDLE DEEP-DIVE — the Regulator's own 47pp, mined (11 Aug 2026, ~1am)
   <br><sub>Source: documents/disclosure-2025-07/Disclosure_from_witnesses_part_FRMS_content.pdf —</sub>
+- **`THE-SENT-PAIR-10-11SEP-what-it-means.md`** · 6KB — The sent pair of 10–11 September — what it means, read as their lawyers will read it
+  <br><sub>14 September 2026. Analysis of the two as-sent emails:</sub>
 - **`THE-PUBLIC-FORUM-problem-and-who-carries-it.md`** · 5KB — The public forum — who actually carries the exposure, and why it must never be voiced
   <br><sub>13 September 2026. Verified: Appeal Guide 8.1; IR Act s 580; the served admissions;</sub>
+- **`NINE-A-the-sole-channel-chain.md`** · 4KB — The sole-channel chain — the ¶267 keystone for the Second Amended 9A (Cory, 14 Sep)
+  <br><sub>Drafting note. The builders already cite ¶267, but as one item in the catalogue of MSH's</sub>
+- **`THE-CRYSTALLISATION-18-JUNE-0858.md`** · 4KB — 18 June 2024, 8:58 am — the email on the onset date (Cory, 14 Sep)
+  <br><sub>The coincidence is real and is not yet drawn anywhere: the injury date on every certificate is</sub>
 - **`THE-SECOND-REVIEW-who-authored-the-8-September-letter.md`** · 4KB — The second review — who authored the 8 September letter, and what it does to the model
   <br><sub>13 September 2026. From PDF metadata on the served originals; cross-referenced to</sub>
