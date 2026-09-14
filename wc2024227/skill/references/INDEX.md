@@ -1,6 +1,6 @@
 # Reference index — generated, do not hand-edit
 > Regenerate: `python3 scripts/build_reference_index.py` from `wc2024227/`.
-> 195 notes. The first blockquote line of each note is its provenance line.
+> 197 notes. The first blockquote line of each note is its provenance line.
 
 ## ⭐ START HERE — state of play and verified record  (6)
 
@@ -151,7 +151,7 @@
 - **`THE-28-DAY-GAP.md`** · 3KB — THE 28-DAY GAP — why the "we needed medical information" defence fails on its own dates
   <br><sub>⛔ Strategy layer. Banked 4 Aug 2026 (Cory's formulation). The single strongest manner</sub>
 
-## THE MENTION of 7 August 2026  (13)
+## THE MENTION of 7 August 2026  (14)
 
 - **`MENTION-7AUG2026-ASSESSMENT.md`** · 184KB — MENTION 7 AUGUST 2026 — COMPREHENSIVE ASSESSMENT
   <br><sub>28 August 2026. Assessed against the machine transcript of the QIRC audio</sub>
@@ -159,6 +159,8 @@
   <br><sub>⚠ **[R] RECALL ONLY. No transcript exists. Nothing here is quoted from the Commission.**</sub>
 - **`SPEECH-SHAPE-analysis-for-the-box.md`** · 64KB — THE SHAPE OF HIS ANSWERS — A STRUCTURAL READ, AND WHAT TO DO IN THE BOX
   <br><sub>28 August 2026. A correction and a working tool.</sub>
+- **`MENTION-what-he-was-working-at.md`** · 30KB — The mention, re-read with the premise held — what he was working at, and how each turn landed
+  <br><sub>13 September 2026. Every substantive turn of Mr Shepherd's (8+ words) read against what the</sub>
 - **`bench-notes-reception.md`** · 21KB — Bench Notes — how the Commission would annotate the Form 29, the MSH response, and the 64G
 - **`MENTION-7AUG-what-is-normal-and-prep.md`** · 18KB — THE 7 AUGUST MENTION — WHAT IS NORMAL A WEEK OUT, AND WHAT TO PREPARE
   <br><sub>Asked 1 August 2026: should MSH have confirmed attendance, emailed something, or filed something</sub>
@@ -168,6 +170,8 @@
   <br><sub>Built 12 September 2026 on Cory's request: what protects him, what the bench said about the</sub>
 - **`DWYER-IC-own-reasoning.md`** · 10KB — COMMISSIONER DWYER'S OWN REASONING — WHAT HIS DECISIONS SHOW, AND HOW IT MAPS ONTO 7 AUGUST
   <br><sub>28 August 2026. Two decisions of Dwyer IC located and read from source, plus what the mention</sub>
+- **`MENTION-tempo-and-latency-metrics.md`** · 10KB — Mention of 7 August 2026 — tempo and response-latency metrics
+  <br><sub>13 September 2026. Computed from `documents/transcripts/MENTION_7AUG2026_segments.jsonl`</sub>
 - **`MENTION-AUDIO-prosody-findings.md`** · 7KB — WHAT THE AUDIO SHOWS THAT THE WORDS DO NOT
   <br><sub>28 August 2026. Acoustic analysis of `PRF0466309_20260807` — the audio of the proceeding of</sub>
 - **`THE-AI-ALLEGATION-and-the-only-copy.md`** · 7KB — THE AI ALLEGATION, AND WHAT HANDING OVER THE ONLY COPY DID TO IT
@@ -176,8 +180,6 @@
   <br><sub>28 August 2026. ⛔ Internal. ⚠ The March conference remark is **Cory's own recollection** and is</sub>
 - **`THE-AI-ANSWER-what-the-audio-supports.md`** · 6KB — WHAT HE ACTUALLY SAID WHEN ASKED ABOUT AI — AND WHAT THE INDEX-ONLY NAVIGATION PROVES
   <br><sub>28 August 2026. Forensic re-examination of 536–566 s, and of the [22:31]–[26:31] navigation.</sub>
-- **`MENTION-tempo-and-latency-metrics.md`** · 4KB — Mention of 7 August 2026 — tempo and response-latency metrics
-  <br><sub>13 September 2026. Computed from `documents/transcripts/MENTION_7AUG2026_segments.jsonl`</sub>
 
 ## MEDICAL and causation  (18)
 
@@ -390,9 +392,9 @@
 - **`ASSESSMENT-DESIGN-gold-standard.md`** · 4KB — HOW A COMPREHENSIVE PSYCHOSOCIAL + WHS ASSESSMENT WOULD ACTUALLY BE RUN HERE
   <br><sub>⛔ Strategy layer / ready position. The gold-standard methodology to hold against whatever</sub>
 
-## OTHER  (13)
+## OTHER  (14)
 
-- **`PREDICTIONS-13SEP2026-scoreable.md`** · 61KB — Data-driven predictions, 13 September 2026 — written to be scored
+- **`PREDICTIONS-13SEP2026-scoreable.md`** · 65KB — Data-driven predictions, 13 September 2026 — written to be scored
   <br><sub>⭐ **The point of this file is falsifiability.** Each prediction has a date, a stated</sub>
 - **`TAYLOR-AND-REESE-on-the-admitted-record.md`** · 16KB — Taylor and Reese on the admitted record — at odds, aligned, or aligned with the events missing
   <br><sub>13 September 2026. Every fact number is an **admitted** Form 24 fact (8 Sep 2026 response)</sub>
@@ -402,10 +404,12 @@
   <br><sub>13 September 2026 (Cory's point). Sources: the served response of 8 September 2026; the</sub>
 - **`REGULATOR-SIGNALS-the-full-data-set.md`** · 11KB — Regulator signals — the full data set, what each presumes, what each predicts
   <br><sub>13 September 2026, late. Consolidates every Regulator-side observation in the repo into one</sub>
+- **`HOW-THE-REGULATOR-CONCEDES.md`** · 10KB — How the Regulator concedes — the mechanism, the trigger, the timing
+  <br><sub>13 September 2026. Read from the QIRC Workers' Compensation Appeal Guide (Parts 5 and 10),</sub>
+- **`HOW-THEIR-COUNSEL-WOULD-RUN-IT.md`** · 9KB — How the Respondent's counsel would run it — and whether it is a bad brief
+  <br><sub>14 September 2026. Written from Ms Willson's chair (WHS-specialist panel counsel, on the file</sub>
 - **`WHO-THEY-NEED-TO-CALL-to-rebut-the-outlines.md`** · 8KB — Who the Respondent needs to call to rebut the served outlines — topic by topic
   <br><sub>13 September 2026. Read against the three outlines as served 9 Sep 2026</sub>
-- **`HOW-THE-REGULATOR-CONCEDES.md`** · 7KB — How the Regulator concedes — the mechanism, the trigger, the timing
-  <br><sub>13 September 2026. Read from the QIRC Workers' Compensation Appeal Guide (Parts 5 and 10),</sub>
 - **`META-ANALYSIS-13SEP2026-evening.md`** · 7KB — Meta-analysis and model re-run — 13 September 2026, evening
   <br><sub>Run against the repo as it stands and the actions taken and pending. Branch probabilities are</sub>
 - **`OUTLINE-vs-9A-what-each-does.md`** · 7KB — The outline against the Form 9A — what changed, why, and what it costs them
