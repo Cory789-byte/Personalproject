@@ -1568,3 +1568,27 @@ thirteen-conceded is that the dispute dies at one question ("does the Regulator 
 Appellant fabricated this?" — the only truthful answer is no). ⛔ Discipline: this is never
 voiced in correspondence — "you effectively alleged forgery" appears in no letter; the record
 does this work untouched.
+
+**E28.3 · The MSH clause as de-escalation drafting, and the safe-opponent triad (Cory, 14 Sep, late).**
+(1) Cory's read of the 10 Sep email: "if needed reach out to MSH" was cover — drafted so he would
+not apply to Dwyer. The request letter carried an 18 Sep deadline with NNPD + reserved costs and
+quoted the bench's process; a bare workload excuse justifies a week and invites escalation. The
+MSH clause supplies a legitimate procedural purpose, justifies the LENGTH (to the last Friday),
+and makes escalation look unreasonable while enquiries are "on foot". The tell: a genuine work
+plan does not hedge its own justifying step — "if needed" is the honesty leaking through the
+drafting. It worked because he let it work (extension granted in a day, graciously, keeping the
+exchange bilateral — where concession is cheapest). That she ASKED rather than slipped shows his
+deadlines are treated as real; his filing record is the enforcement mechanism behind them.
+- ⛔ Refinement to E28.1: MSH wording in the 25 Sep letter is downgraded to WEAK evidence both
+  ways ("MSH asked" may be the cover continuing; MSH absence may mean the cover was never
+  cashed). The RELIABLE limb is the 30 Sep filed list — MSH engagement remains objectively
+  indispensable to defend (officers, instructions, Tab 31), so the list answers "if needed"
+  truthfully. The letter tells you the register; the list tells you the case.
+(2) The safe-opponent triad, complete: they know he is honest (E28.2 — checked, matched, never
+once wrong); they know he wants to resolve (Calderbank ×2 priced and served, the WP letter — a
+documented willing settler, and the reasonableness record if costs are argued); they know exactly
+how the hearing runs if they don't (the served architecture). Institutions delay concession when
+they fear what is on the other side of it; this record shows nothing on the other side but an
+honest opponent who offered a cheaper exit twice. The triad is why conceding to HIM is the
+low-risk move in a way generic reference classes cannot see. **OUTCOME (score with the 25th/30th
+pair):** ______
