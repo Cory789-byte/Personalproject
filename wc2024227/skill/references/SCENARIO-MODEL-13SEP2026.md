@@ -240,3 +240,13 @@ two more points and the post-listing branch two fewer.
 3. The employment-track record (four unanswered questions; Payroll's coding statement) is not for
    this appeal, but it is the reason MSH will not want its HR officers anywhere near the box —
    which is why an HR witness sits at 20.
+
+## ADDENDUM 4, 14 Sep — the MSH-exposure fold (Predictions E21)
+Direction 3's **filed** witness list makes 30 Sep a commitment device: MSH names become registry
+record. The 25th is the last exit before it. Revised branches: concession before a conference
+2 → **5**; following the conference 26 → **28**; conference-before-outlines on the 25th 20 → **30**;
+files on the 30th as directed 72 → **60–65**. Total concedes without a hearing **34 → 37**;
+runs-and-succeeds/fails rebalance to **29.5 / 26**; documents alone 4; at hearing 3.5. Outcome if
+it runs unchanged (53.5) — the exposure logic never touches causation, which is why a
+documents-only 25th letter would be the strongest signal yet that causation is the case they
+intend to run.

@@ -1073,3 +1073,39 @@ decision.
 | a decision on return to duties / the ECC of 3 July | **15** |
 | anything from MSH about the appeal, the witnesses or the register | **5** |
 **OUTCOME:** ______
+
+### E21 · Re-evaluation of the 25th on the MSH-exposure fold (Cory, 14 Sep) — E18 revised upward, and why
+Cory's argument: MSH's willingness to pay to stay out of the forum is not inferred, it is
+**revealed** — a CE-signed objection to the Commissioner was the price it paid to resist
+producing documents. A hearing now delivers strictly more than the objection was written to
+prevent: its officers cross-examined under the CE's letter, the register in evidence, the CE
+letter read aloud, a published decision. So the fifteen days are not about thirteen tabs; they
+are the matter being reconsidered under MSH pressure, and the 25th will address the matter.
+
+**The structural fact the model had underweighted.** Direction 3 requires the Respondent to
+**file in the Industrial Registry** its list of witnesses by 30 September. Filing puts MSH
+officers' names on the public record of the proceeding — a commitment of MSH people into the
+forum that cannot later be quietly unwound. The Regulator therefore cannot simply "wait and
+see": by the 30th it must either commit MSH names to a filed document, or move before that date
+(concede, propose a conference with a variation of directions 3–4, or announce its position is
+under review). ⭐ **The 25th — their own chosen date, five days before the filing — is the last
+exit before MSH names become registry record.** That is consistent with, and better explains,
+the day-one ask for the last available Friday (E6/E14): the window was set to end where the
+choice must be made.
+
+**Revised numbers for the 25 September letter (E18 remains the scoreboard):**
+| Reading | E18 | **E21** |
+|---|---|---|
+| thirteen tabs conceded | 85 | **85** |
+| letter addresses the **matter**, not only the documents (any of: position under review; conference proposed before the outlines; variation of directions 3–4 sought; concession foreshadowed or made) | ~23 combined | **35–40** |
+| outright concession of the appeal by letter | 3 | **6** — Guide 5.1's conference path is custom, not a precondition; s 558 consent orders are available at any time, and conceding before the 30th saves them the filing |
+| conference proposed before the outlines | 20 | **30** |
+| files list and outlines on the 30th as directed | 72 | **60–65** |
+
+**What still caps it, honestly:** OIR's institutional interest is not MSH's — the fund pays
+either way, and conceding compensability carries portfolio cost; a statutory respondent's
+culture is the conference; and MSH's preference reaches the Regulator as influence, not
+instruction. If the 25th letter is documents-only, that will mean the Regulator absorbed MSH's
+pressure and still chose to file — which would itself be a strong tell that they believe in the
+causation case (the one contest the exposure logic does not touch). **Scored with E18 on the
+letter. OUTCOME:** ______
