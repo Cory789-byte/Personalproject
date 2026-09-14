@@ -20,6 +20,8 @@ from reportlab.lib.units import mm
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer
 from served_facts import FACT as F, NOT_ADMITTED, TOTAL
+HYP = bool(os.environ.get('HYP25'))  # hypothesis build: the 25 Sep response admits everything
+HYP_PENDING = set(NOT_ADMITTED)
 assert TOTAL == 303
 
 BLUE = colors.HexColor('#123f8c'); GREY = colors.HexColor('#6b6b6b'); RED = colors.HexColor('#9b1c1c')
@@ -53,11 +55,16 @@ def cite(ns):
     a paragraph the Respondent has not admitted is treated the same way, so that nothing in
     the filed pleading cites a paragraph as a particular unless it is admitted."""
     if not ns: return ""
-    pend_slot = (-1 in ns) or any(n in NOT_ADMITTED for n in ns)
-    adm = [n for n in ns if n != -1 and n not in NOT_ADMITTED]
+    pend_slot = (-1 in ns) or ((not HYP) and any(n in NOT_ADMITTED for n in ns))
+    adm = [n for n in ns if n != -1 and (HYP or n not in NOT_ADMITTED)]
+    real = [n for n in adm if n not in HYP_PENDING or not HYP]
+    hyp  = [n for n in adm if HYP and n in HYP_PENDING]
+    real = [n for n in real if n not in hyp]
     parts = []
-    if adm:
-        parts.append(("&para;&para; " if len(adm) > 1 else "&para; ") + _collapse(adm))
+    if real:
+        parts.append(("&para;&para; " if len(real) > 1 else "&para; ") + _collapse(real))
+    if hyp:
+        parts.append(("&para;&para; " if len(hyp) > 1 else "&para; ") + _collapse(hyp) + "*")
     if pend_slot:
         parts.append("&para; ___")
     col = '#123f8c' if adm else '#6b6b6b'
@@ -87,13 +94,19 @@ def q(ns, st=ADM):
         txt = "Particulars: paragraphs " + _collapse(adm) + \
               " of the notice to admit facts served 28 August 2026, admitted 8 September 2026."
         if pend:
-            txt += " Paragraph" + ("s " if len(pend)>1 else " ") + _collapse(pend) + \
-                   " of that notice " + ("are" if len(pend)>1 else "is") + " not admitted."
+            if HYP:
+                txt += " Paragraph" + ("s " if len(pend)>1 else " ") + _collapse(pend) + \
+                       " of that notice " + ("are" if len(pend)>1 else "is") + \
+                       " cited on the hypothesis of admission by the Respondent's further response* &mdash; confirm before filing."
+            else:
+                txt += " Paragraph" + ("s " if len(pend)>1 else " ") + _collapse(pend) + \
+                       " of that notice " + ("are" if len(pend)>1 else "is") + " not admitted."
         return [P(txt, PART_REF)]
     out=[]
     for n in ns:
         stl = PEN if n in NOT_ADMITTED else st
-        tag = ' <b>[NOT YET ADMITTED]</b>' if n in NOT_ADMITTED else ''
+        tag = (' <b>[HYPOTHESIS: ADMITTED &mdash; CONFIRM 25 SEP]</b>' if (HYP and n in NOT_ADMITTED)
+               else (' <b>[NOT YET ADMITTED]</b>' if n in NOT_ADMITTED else ''))
         out.append(P(f"<b>[{n}]</b> {F[n]}{tag}", stl))
     return out
 def qi(ns):
@@ -115,10 +128,17 @@ s=[P("SECOND AMENDED STATEMENT OF FACTS AND CONTENTIONS (FORM 9A)" if SERVE else
  P("WC/2024/227 &ndash; Cory Lea Shepherd (Appellant) v Workers' Compensation Regulator "
    "(Respondent). Appeal under section 549 of the Workers' Compensation and Rehabilitation Act 2003; "
    "notice of appeal filed under section 550(4). The appeal is by way of hearing de novo.", H2)]
+if HYP:
+    s.insert(1, _P_orig("<font color='#9b1c1c'><b>DRAFT ON THE HYPOTHESIS THAT THE RESPONDENT'S RESPONSE DUE "
+        "25 SEPTEMBER 2026 ADMITS PARAGRAPHS 154 AND 228 TO 231 AND CONCEDES THE AUTHENTICITY OF THE "
+        "DISPUTED TABS. CITATIONS MARKED * DEPEND ON THAT RESPONSE. NOT FOR FILING.</b></font>", H2))
 if SERVE:
     s += [P("Particulars are given by reference to the paragraph numbers of the Appellant's notice to "
             "admit facts served on the Respondent on 28 August 2026, to which the Respondent responded "
             "on 8 September 2026.", KEY)]
+    if HYP:
+        s += [P("Citations marked * are to paragraphs of that notice not admitted on 8 September 2026, "
+                "and are made on the hypothesis that the Respondent's further response admits them.", KEY)]
 else:
     s += [P("<b>Black</b> is pleaded text. <font color='#123f8c'><b>Blue</b> is a paragraph admitted by the "
       "Respondent on 8 September 2026, word for word, with its number on the notice served 28 August "
@@ -587,7 +607,11 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
 try: del pdf.Root.Metadata
 except (AttributeError,KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
-out = ("out/FORM9A_SECOND_AMENDED_FOR_FILING.pdf" if SERVE else
-       "INTERNAL/2026-09-12_FORM9A_SECOND_AMENDED_original_architecture_onus_accepted.pdf")
+if HYP:
+    out = ("out/FORM9A_SECOND_AMENDED_HYPOTHESIS_ALL_ADMITTED.pdf" if SERVE else
+           "INTERNAL/FORM9A_HYPOTHESIS_ALL_ADMITTED_annotated.pdf")
+else:
+    out = ("out/FORM9A_SECOND_AMENDED_FOR_FILING.pdf" if SERVE else
+           "INTERNAL/2026-09-12_FORM9A_SECOND_AMENDED_original_architecture_onus_accepted.pdf")
 pdf.save(out,linearize=True)
 print(f"built {out} - {n} page(s)")
