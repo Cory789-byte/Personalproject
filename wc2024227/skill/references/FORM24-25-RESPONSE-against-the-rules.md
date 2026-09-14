@@ -292,3 +292,31 @@ it most ("the authenticity of the Chief Executive's letter to the Commission was
 records that mattered and certified the absences; the Regulator's Form 25 identified the
 documents that mattered and forced the reconciliation. Both instruments of resistance became
 maps of the target. Neither side's resistance document survived contact with its own contents.
+
+**§4 extension (Cory, 14 Sep) — the fifth category: facts about the world, not about documents.**
+The cover letter's central qualification is, in terms, about documents: *"Admissions as to
+documents are limited to existence and wording."* A class of the 298 is not an admission as to
+any document at all — it admits events, states and arithmetic directly, and the qualification
+cannot reach it by its own words:
+- **¶68 — the crown.** *"The occasions reported by Vivian Kwok on 3 and 8 May 2024 **occurred**
+  while the after-hours on-call arrangement notified by Ms Taylor on 15 April 2024 **was in
+  force**."* Not "an email says calls were misdirected" — the occasions **occurred**, and the
+  arrangement **was in force**. The Respondent has admitted the patient-safety events
+  themselves, and the operative condition they occurred under.
+- **¶14** — MSH **approved** three movement forms, each approved by Mr Hughes as delegate: acts
+  of the employer, admitted as acts.
+- **¶179** — he **was endorsed** as a workplace delegate: a state of the world.
+- **¶227** — 18 March 2024 **fell on a Monday**: pure fact, no document anywhere in it.
+- **The synthesis facts** — ¶63, ¶64, ¶249 (the intervals); ¶88 (the stated hours **concluded**
+  at 2:30 pm); ¶96 (his email **was sent within** those hours); ¶102, ¶103 (her reply **was
+  sent** 2h25m later, two hours **after** the stated hours ended). Each asserts a computed truth
+  spanning documents, admitted as true.
+- And every "On [date] X **sent** an email to Y" fact admits the **act of sending** — sender,
+  recipient, time — which is an event, and is exactly the footing ¶2 relies on.
+**Consequences.** (1) At hearing these need no tender and no authenticity: a fact admitted under
+r 49 is simply taken as admitted — there is nothing to mark, prove or object to. (2) The
+truth-of-contents reservation, drafted for documents, does not touch them on its own terms.
+(3) ¶68 alone carries Stressor 1(g)'s substance without a single page: the misdirections
+happened, during the arrangement. The walk can say "occurred", not "was reported", wherever
+¶68 reaches — and only there. ⚠ Precision: ¶68's "occurred" covers the nine Kwok-reported
+occasions; the IRS misdirections remain "reported" (¶¶89–104 are content facts).
