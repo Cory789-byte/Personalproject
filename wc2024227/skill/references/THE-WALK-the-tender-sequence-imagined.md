@@ -93,3 +93,63 @@ console, and their effect on me. I now give that evidence."
 number; the only voices are the Appellant's and the employer's own documents; and the walk takes
 half a day, not 2028. It is the case Dwyer described at the mention, built: "fewer documents
 means simpler case, means easier for someone like me to understand it and not get it wrong."
+
+---
+
+## The other walk — the documents mention, if the 25th refuses or goes silent
+> The fallback scene: a short mention before Dwyer IC on the outstanding documents only. His own
+> offer at the August mention: *"if there is a document… that Ms Matheson says, well, yeah, we
+> know it exists, but we don't think it's relevant, you can come back to me. And looking at a
+> single document, I can tell you very quickly whether it should be disclosed or shouldn't be."*
+> Probability this is ever needed: ~10–15%. Its value is mostly that they know it exists.
+
+**The set-up.** One page in hand: the schedule from the 9 September letter. The opening:
+"Commissioner, on 9 September I asked the Respondent, in accordance with the process you
+indicated on 7 August, either to confirm the authenticity of thirteen documents whose contents
+it has admitted, or to admit them under rule 49; and to obtain one document Metro South Health
+has told the Commission is available. The Respondent sought until 25 September. [It has
+maintained the disputes / It has not answered.] I ask for directions on the schedule, one
+document at a time. It should take fifteen minutes."
+
+**Tab 6, first, because it is the shortest.** "The email of 15 April 2024. Its contents are
+admitted at paragraphs 49 and 163. The copy I served is the attachment to item 25 of the
+Respondent's own amended List of Documents." — The bench, to the bar table: *"You disclosed this
+document and you dispute its authenticity?"* There is no second question.
+
+**Tab 20.** "Metro South Health's letter of 5 June 2026, addressed to you, Commissioner, on the
+Commission's file. Contents admitted at paragraphs 263 to 268." — Nothing needs to be said after
+that sentence at all.
+
+**Tab 30.** "Quoted in the Respondent's own review decision, which is admitted at paragraph 70.
+The copy sits in the Respondent's claim file."
+
+**The MSH-authored balance (1, 5, 17–19, 21, 22–23, 30A).** "Each was sent to me by a Metro
+South officer, on facts the Respondent has admitted. If the Respondent says any copy is not what
+it appears to be, I ask that it say what is wrong with it." — This is Dwyer's 49:53 principle
+pointed the other way: the dispute must be *responded to*; a bare column entry is not a case of
+inauthenticity, and the bench will ask the bar table exactly that: *"What do you say is wrong
+with the document?"* There is no answer on the record, because there has never been one.
+
+**Tab 31, differently — production, not authenticity.** "Metro South told the Commission on
+5 June that a spreadsheet of recorded MET calls is available for 17 and 18 March 2024 — that
+statement is admitted at paragraph 268. On your indication, I asked the Respondent to obtain it.
+I ask for a direction that the Respondent request and produce the March 2024 sheet of that
+workbook within fourteen days, failing which I have leave to issue a notice of non-party
+disclosure limited to that document." — This is the single-document look he offered: he can
+tell "very quickly."
+
+**The close.** "The costs of this step are addressed in my letter of 9 September, and I say
+nothing further about them today." — One sentence, no argument; the reservation does its own
+work by existing.
+
+**What the bar table can say, and how each lands.** "We maintain the copies are from the
+Appellant's records" → the bench asks what is wrong with them; silence. "We need more time" →
+the bench asks what has been done since 10 September; the ledger answers. "We concede the
+thirteen and will chase the register" → the mention ends in ten minutes and the only order is
+the Tab 31 timetable. The third is what happens, because the first two are said in front of the
+person who set the process.
+
+**Why the scene matters without ever being played:** every path in it is visible to the
+Respondent now. A refusal on the 25th buys this mention; the mention has one outcome; therefore
+the refusal buys nothing but the record of it. That is the mechanism by which the letter
+enforces itself.
