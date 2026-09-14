@@ -206,3 +206,37 @@ show; the **inferred** column is the reading. Only the verified column ever reac
 - Nothing in the option set lets them avoid the conference if he asks for it on 1 October, and the
   conference is the only place the Guide lets them concede. That is why the request goes on 1 Oct
   with the element grid, whatever the 25th says.
+
+---
+
+## ADDENDUM 3, 14 Sep — the institutional fold (`INSTITUTIONAL-POSITIONS-14SEP2026.md`, Predictions E19)
+
+| Node | Branch | signal-fold | **institutional fold** | moved by |
+|---|---|---|---|---|
+| 30 Sep list | Taylor named | 93 (both) | **Taylor 90 · Reese 75 · at least one 93** | Reese absent from every 2026 communication |
+| | Stibbard named | — | **35** | topic 5 is her email; MSH's cheapest third witness |
+| | an expert listed | — | **30** | no appellant report to attack → they want their own |
+| the 25th | thirteen conceded | 85 | **85** | — |
+| | Tab 31 "MSH asked" | 55 | **60** | liaison channel named; MSH has said the spreadsheet exists |
+| | formula absent | 65 | **68** | not used since 8 Sep; 8 Sep letter legal with no formula |
+| concession | before a conference | 2 | **2** | — |
+| | following the second conference | 24 | **26** | MSH wants its officers out of the forum; HR will not state a basis to the treating doctor |
+| | after listing, before hearing | 8 | **6** | the conference absorbs it |
+| | at or during hearing | 4 | **4** | — |
+| | **total concedes** | 38 | **38** | shape, not total |
+| runs | documents alone | 7 | **6** | Taylor will be offered |
+| | s 556 examination | 55 | **60** | no expert report served by the Appellant |
+| outcome if it runs | blended | 53.5 | **53.5** | nothing in the communications touches the merits; Taylor's demeanour is neutral if the cross stays on documents |
+
+**Joint:** concedes without a hearing **34%** · runs and succeeds **31%** · runs and fails **27%** ·
+documents alone **4%** · concedes at hearing **4%**. Unchanged in total; the conference carries
+two more points and the post-listing branch two fewer.
+
+**What the communications add that the numbers cannot hold:**
+1. The cross of Ms Taylor is on paper only. Her 2026 register will win any contest of manner.
+2. If Ms Reese is not named on the 30th, do not treat that as the onus defence: MSH's pattern is
+   to front Taylor. The seven unrecorded events that are Reese's (¶159, ¶217/¶221/¶222, ¶219) then
+   stand unqualified, and the attendance-notice decision for Reese alone is a fresh one.
+3. The employment-track record (four unanswered questions; Payroll's coding statement) is not for
+   this appeal, but it is the reason MSH will not want its HR officers anywhere near the box —
+   which is why an HR witness sits at 20.

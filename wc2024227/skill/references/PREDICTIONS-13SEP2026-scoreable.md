@@ -1032,3 +1032,28 @@ and whether they *propose* a conference before the outlines rather than after.
 outlines, Cory's read was right and the model under-weighted the recalculation. If it concedes the
 thirteen, chases Tab 31 and says nothing about the case, the model's shape holds and the 30th is
 the next observation. **OUTCOME:** ______
+
+### E19 · The institutional fold (14 Sep) — what the 2026 communications, read whole, do to the numbers
+Source: `INSTITUTIONAL-POSITIONS-14SEP2026.md`; register classifier run on all six Regulator letters.
+
+**Verified, and what each moves**
+| Finding | Moves |
+|---|---|
+| The 8 Sep cover letter scores **legal / 14 markers / no formula**; the formula has not appeared in any document since the admissions | class 7 holds; **F2.3 (formula absent on 25 Sep) 65 → 68** |
+| Every Regulator letter classifies cleanly into one of two hands — operational (3 Aug, 10 Sep) or legal/position (16 Jul, 14 Aug, 8 Sep) | **F2.1 (legal register on 25 Sep) holds at 70**; an operational 25th = holding reply, not answer |
+| The 6 Aug attendance email names the MSH liaison channel — Ruttan, Griffin, Thorburn, Tribunalmatters@health | the fifteen days were never logistics; **E14/E16 (sign-off + witnesses-first) firm** |
+| MSH Legal's posture: minimise, "claims to require", keep officers and records out of the forum; but it has told the Commission the MET spreadsheet exists | **B2 register not produced by 25 Sep holds at 70; "MSH has been asked" wording 55 → 60** |
+| **Ms Reese appears in no 2026 communication**; Taylor in all of them, cooperative register | split **B4**: Taylor named **90**; Reese named **75**; at least one **93**. MSH may offer Taylor + Stibbard and hold Reese |
+| MSH HR: no decision attributable; the psychiatrist's four questions unanswered since 19 Aug | employment track; but an employer that will not state the basis for a psychiatric assessment to the treating doctor will not welcome the same doctor in the box — **concession-after-conference +1** |
+| Payroll (8 Sep): MSH's own Injury Team says the two absences should have been coded Sick No Pay | employment track only; no WC effect. Record it |
+| Krishnaiah: records and oral evidence, no report to order (5 Sep) | the appellant medical case is treating records + two doctors, as the schedule says; the Regulator has nothing expert to attack and will want its own — **F2.5 (s 556) 55 → 60** |
+| MSH's objection reads "the Matter in Issue" as "consecutive shifts of 17 to 18 March 2024" | MSH's own view of the case is Stressor 3; expect their outlines to run March = human error, not repeated — against ¶220, ¶287, ¶226 |
+| Taylor's 2026 register: prompt, kind, "working to find a solution" | no change to numbers; **changes the cross**: documents only, never demeanour |
+
+**Two new scoreable predictions**
+- **E19.1 — the 30 Sep list, by name:** Taylor 90 · Reese 75 · Stibbard 35 · an HR/IM officer (Forrest/Harrison/Hughes) 20 · an expert 30 · nobody from MSH 7. **OUTCOME:** ______
+- **E19.2 — the 25 Sep letter refers to MSH by name as having been asked about Tab 31:** 60. **OUTCOME:** ______
+
+**Inferred (marked):** that Reese's absence from 2026 reflects a decision about who fronts the
+employment track, not about the appeal; that MSH will release Taylor because she has already
+been the face of every 2026 communication and presents well.
