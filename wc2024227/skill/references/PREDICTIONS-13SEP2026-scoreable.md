@@ -1551,3 +1551,20 @@ list before concluding anything.
 conceding the thirteen with Tab 31 reported to MSH and silence on the case (~55) — and the deeper
 tell is not what the letter says but whether MSH appears in it at all, because an office that can
 answer everything without MSH is an office that is not assembling a defence. **OUTCOME:** ______
+
+**E28.2 · The honesty premise — they never believed anything was fake (Cory, 14 Sep, late).**
+The 14 authenticity disputes were a filing posture, never a belief: (1) the 54 admitted
+contents-facts sit on the disputed tabs themselves — nobody admits an email's words while
+believing the email fabricated; a real suspicion denies facts, and they denied zero of 303;
+(2) the dispute was a mechanical provenance column ("Appellant's own records" → disputed,
+14/14), and disbelief is specific, never categorical; (3) Tab 31: ¶268 admits MSH told the
+Commission the spreadsheet "is available", and the "SWITRCHBOARD" typo runs the wrong way for
+fabrication — a fabricator does not invent the employer's own typo; (4) the verification record:
+Tabs 6/30/20/1 all held independently (their own List item 25, claim file, Commission file,
+MSH RFMI) and all match — two years, four institutions, zero discrepancies ever found;
+(5) the medical schedule limits its OWN reliance per document and rests on unedited clinical
+disclosure — the signature of nothing arranged. Consequence for the model: the floor under
+thirteen-conceded is that the dispute dies at one question ("does the Regulator suggest the
+Appellant fabricated this?" — the only truthful answer is no). ⛔ Discipline: this is never
+voiced in correspondence — "you effectively alleged forgery" appears in no letter; the record
+does this work untouched.
