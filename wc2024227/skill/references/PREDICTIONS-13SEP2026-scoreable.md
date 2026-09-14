@@ -1377,3 +1377,22 @@ before the event; scored on her letter alongside the three models. If it lands, 
 beats both aggregates on the headline quantity and takes more weight for the 30 Sep / 1 Oct
 predictions. (Concession of the appeal itself by the 25th is a different event and stays priced
 at ~2 — Guide 5.1 places that after the conference.) **OUTCOME:** ______
+
+**E25.2 · ⛔ Correction — the conference is a script, not a mechanism (Cory, 14 Sep, late).**
+Cory: "They already know their position — would they need to call a conference to then go and
+concede? I don't think they would." Upheld. Guide 5.1 is administrative habit, not law: nothing
+prevents concession by letter + consent orders under s 558(1) on any day. E24's "no mechanism
+exists pre-conference" overstated it — the SCRIPTED pathway opens 1 Oct; the legal pathway is
+always open. The conference's three institutional functions (cover for sign-off, a forcing date,
+the citable script) are real, but its INFORMATIONAL function — the ordinary reason concession
+"follows the conference" — is already spent in this matter: the new-information trigger was
+served on paper 28 Aug–9 Sep (the 298, the outline, the witness architecture, the custodian
+schedule). A conference here teaches the Regulator nothing.
+- Concession vehicles reordered: (1) the 30 Sep outline (causation-only = conduct conceded in
+  function; the serving letter can carry more), (2) consent-orders correspondence once outlines
+  cross, no conference needed, (3) the conference — which is the APPELLANT's forcing device
+  (1 Oct letter mandatory regardless, r 230) and their face-saving ramp, not their necessity.
+- Numbers: the 25th unchanged (S4 ~2 — that letter's job is documents; the decision cycle cannot
+  complete inside her window). Post-30 Sep: mass shifts from "concession at/after conference"
+  toward "concession by correspondence after outlines exchange." Scenario-model split for the
+  endgame: concession by correspondence pre-conference now ≥ concession at conference.
