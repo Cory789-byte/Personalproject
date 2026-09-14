@@ -51,3 +51,30 @@ and the email is theirs."
    admitted-facts overlay?) — check the schedule rows; the treating account "reported the
    matters at topics 2 to 7" already carries it generically.
 4. **Never in correspondence** — this is hearing material; it loses force retold in a letter.
+
+## The way in from the events — the moral-load stressor (Cory, 14 Sep)
+The route that captures the traumatic dimension without the PTSD presumption already exists in
+the case, and it is not "trauma from the codes". It is the **position**: a written duty for the
+emergency-response function {{8}}, the means of keeping it safe held by others {{39–45}},
+harm to patients foreseen and reported — "we can not help patients or other clinical staff",
+"switchboard could not tell them where VHUB was" — and nothing done: no communication to the
+staff for six days {{69}}, no response to the IRS alleged {{90,93}}, no safety assessment,
+investigation or consequential change following any complaint {{266,267,272}}. Sustained
+foreseeable-harm burden plus futility. The clinical literature calls it moral distress; the
+pleading never needs the label, because **the treating notes already carry it in their own
+words, contemporaneously**: 28 Jun 2024, "stress at work… upset by people not following rules";
+1 Jul 2024, "they don't listen to his complaints". The doctors wrote the mechanism down within
+a fortnight of onset, unprompted. That is the causation bridge for THIS stressor, already built.
+**Where it lives:** S1(d) (patient safety), B.2.0 (the admitted environment, ¶289), outline
+topics 1 and 7, and the evidence-in-chief moment: what it was like to dispatch a code knowing
+the directory might be wrong — the premise-first account (see the 29:17 correction).
+**The s 32(5) bonus:** this stressor is a *condition + its non-remedy*, not action taken against
+the worker — first-limb territory; and even the complaint-handling limb is management action
+whose reasonableness they must prove with the witnesses they cannot afford.
+⛔ **The PID discipline holds unchanged:** the WC track pleads the fact of the complaint of
+13 May 2024, its determination, and the absence of any response to the functions raised — the
+content of the disclosure is never set out, and "patient safety" as the descriptor of the PID
+itself stays off WC paper; the patient-safety substance enters through the admitted clinical
+emails and MSH's certified absences instead, which is stronger anyway.
+⛔ And nothing is ever suggested to the doctors. They found the mechanism themselves in 2024;
+their independence is its value.
