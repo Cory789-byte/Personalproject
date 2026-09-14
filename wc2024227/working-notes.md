@@ -7456,3 +7456,23 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 - Sent-version deltas noted: information-handling email as sent DROPPED "family proceedings", the
   appeal/298 references, and the written-withdrawal demand (E-asks reduced to E1–E2). Part D reprisal
   framing retained — PID/employment track only, never crosses to the appeal.
+
+## 14 September 2026 — [R] Dwyer also case-managed TD/2024/110 (Cory's recall, UNVERIFIED)
+- Cory advises Commissioner Dwyer was the case manager for **TD/2024/110** (Form 12
+  reinstatement application, stamped 25 Oct 2024, Shepherd v Queensland Health Logan Hospital),
+  which resolved with reinstatement (Feb 2025, effective 20 Sep 2024). The repo confirms the
+  matter (confirmed-record l.132, l.3310) but not the allocated member — **[R] verify from any
+  TD/2024/110 Notice of Listing / directions email before this is relied on anywhere.**
+- If confirmed, implications (prediction only, never voiced):
+  1. Dwyer's knowledge of the October 2024 dismissal is **first-hand supervisory**, not just
+     from reading the 9A aloud at 56:00 — he watched the employer walk it back rather than
+     defend it. Employer credit is coloured at the source.
+  2. The conference chair has already seen this respondent-side constellation concede once
+     with this worker. Concession is precedented behaviour in his direct experience.
+  3. It helps explain the 7 Aug investment (65 minutes; "a coin flip" remark at the March
+     conference per confirmed-record l.832): he has known this litigant across two matters.
+  4. **No recusal/bias point exists or is ever raised** — case-managing a related matter is
+     routine; he will not hear this appeal (Guide 5.1/7.1); raising it would only cost the one
+     Member who invests.
+- ⛔ Disciplines unchanged: TD/2024/110 stays out of WC filings (parallel track, confirmed-record
+  l.132); settlement terms never discussed; reinstatement wording stays in the fixed form.
