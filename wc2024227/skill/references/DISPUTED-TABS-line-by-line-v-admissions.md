@@ -271,3 +271,23 @@ the objection has nothing left.
 for the Commission. The Appellant does not contend otherwise." The party that reserved relevance
 now has to argue, at tender, that the role description of the pleaded role is irrelevant to the
 pleaded role — in front of a Member. Nobody stands up for that.
+
+---
+
+# Part 4 — the layer beneath the tabs: the admitted facts that need no document at all
+The cover letter's qualification is about documents ("admissions as to documents are limited to
+existence and wording"). A class of the 298 admits **events, states and arithmetic directly**,
+and the qualification cannot reach it on its own terms:
+| Fact | What is admitted, as a truth of the world |
+|---|---|
+| ¶68 ⭐ | the misdirected-call occasions **occurred**, while the 15 April arrangement **was in force** — the events themselves, not correspondence about them |
+| ¶14 | MSH **approved** the three movement forms, Mr Hughes as delegate — acts of the employer |
+| ¶179 | the Appellant **was endorsed** as a workplace delegate |
+| ¶227 | the 18 March shift **fell on a Monday** — no document in the sentence |
+| ¶63, ¶64, ¶249 | the intervals — sixth calendar day; 5 d 18 h 14 m; 23 days |
+| ¶88, ¶96 | the stated hours **concluded** at 2:30 pm; his email **was sent within** them |
+| ¶102, ¶103 | her reply **was sent** 2 h 25 m later, two hours **after** the stated hours ended |
+| every "On [date] X sent…" | the **act of sending** — sender, recipient, time — an event |
+At hearing this layer needs no tender and no authenticity: facts admitted under r 49 are simply
+taken as admitted. ⚠ Precision: ¶68's "occurred" covers the nine Kwok-reported occasions only;
+the IRS misdirections remain "reported".
