@@ -78,3 +78,27 @@ itself stays off WC paper; the patient-safety substance enters through the admit
 emails and MSH's certified absences instead, which is stronger anyway.
 ⛔ And nothing is ever suggested to the doctors. They found the mechanism themselves in 2024;
 their independence is its value.
+
+## Adverse outcomes — the line that is never crossed (Cory, 14 Sep)
+The case is built so that **no patient outcome is needed, asserted or implied**, and that is a
+strength, not a gap:
+1. **His injury is from carrying the risk, not from a result.** The stressor is the duty (¶8),
+   the foreseen and reported misdirections (¶68 occurred; "we can not help patients"), and the
+   futility (¶¶266, 272). Whether any patient was ultimately harmed changes his injury not at
+   all — the burden was the foreseeing. "No one died" does not diminish the case by one line.
+2. ⛔ **Never allege, hint or invite an inference of patient harm.** Unproven, it is the fastest
+   route back to the "broad grievance" Dwyer warned against, it would read as leveraging patient
+   tragedy for compensation, and any real adverse outcome belongs to other jurisdictions
+   (clinical incident / RCA processes carry their own statutory privileges; the coroner has his
+   own). If such a thing exists, it is not his to run here — and it would only deepen their
+   reasons never to let this reach a room.
+3. **"No adverse outcome" is a trap for THEM, not him.** If their counsel runs "the codes were
+   routine, nothing came of the misdirects": (a) it concedes the events; (b) it trivialises
+   their own duty statement — the RD makes response time-critical precisely because outcomes
+   turn on minutes; the submission argues against their own document; (c) it asserts a negative
+   only their clinical-incident records could prove — records they refused to search as too
+   burdensome. The answer, if it is ever put to him: "My duty was to prevent that question from
+   ever having an answer. That is why the reports distressed me." Premise first, then stop.
+4. **If an adverse outcome ever surfaces independently**, his contemporaneous warnings become
+   prescient — vindication that needs no help — and this appeal still does not change: it was
+   never pleaded on outcomes and never needs to be.
