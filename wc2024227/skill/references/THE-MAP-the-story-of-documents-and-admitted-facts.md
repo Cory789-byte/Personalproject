@@ -109,3 +109,13 @@ notice, negatives) made it a case — a records-native role met a records-native
 belongs on the record: the manager's own preference for governing by one-to-many email, and the
 employer's restriction of his mailbox (which forced early external preservation), together
 manufactured and preserved the exhibits.
+
+**§10 research footnote (14 Sep).** Searched the web indexes of the Supreme Court Library /
+queenslandjudgments.com.au for any QIRC workers' compensation appeal by a hospital switchboard
+operator or telephonist: **none surfaced.** (Coverage caveat: the SCL full-text database is not
+directly queryable from here; the finding is "none found", not "none exists".) The category
+norm is confirmed from the published run and the 2024 practitioner reviews: almost all QIRC
+psychological-injury appeals turn on the reasonable-management-action defence to a discrete
+process — e.g. *Grace v WCR* [2021] QIRC 285 (support worker; CEO's disciplinary email and
+meeting; pure RMA contest) is the textbook shape. On the accessible record this matter is the
+first of its occupation and the first of its architecture.
