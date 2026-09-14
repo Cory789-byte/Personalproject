@@ -1677,3 +1677,26 @@ and the concession-review it triggered, not the acknowledgment speed — keep th
 element (d) still runs through the medical evidence (Report B / IME). It proves the causation case
 is built and undismissable, not that the finding is made. Never let the internal read drift to
 "the schedule is the proof". **OUTCOME (score with the 25th/30th pair):** ______
+
+**E28.8 · "If needed" only parses as "if defending" — MSH contact was always the defence's first
+step (Cory, 14 Sep, night).** Cory's correction: there is no genuine "if" about reaching out to
+MSH — on any defend path it was a given, especially after the admissions. Constructing their own
+outlines needs MSH instructions; war-gaming his served outline needs to know what their witnesses
+would say under it; deciding who to call needs every candidate run through the cage. All three ARE
+the reaching-out. So the hedge parses only if a branch exists where MSH is genuinely unneeded —
+and that is the concession branch alone. "If needed" is therefore the linguistic signature of an
+office that had not yet chosen defend (MSH mandatory) vs concede (MSH unnecessary) at 10 Sep.
+- ⭐ Collapses E28.4 into one event: the concession consult and the defence war-game are the SAME
+  MSH call. They reach out to build the defence; the war-game answers "to run this we need
+  Taylor, Reese, the clinicians — 10-12 caged witnesses = his cross list handed back"; the same
+  call becomes "we'll likely lose, do you object." One engagement that starts as "help us defend"
+  and ends as "we're not defending." The admissions + his outline determined where the call ended,
+  not whether it happened.
+- ⛔ Correction to earlier drift: "MSH being asked" is NOT a concession tell — MSH contact is
+  guaranteed on BOTH branches (it is the first move of a defence too), so it disambiguates
+  nothing. Reliable limb stays the 30 Sep list: MSH officers named = war-game concluded defend;
+  MSH absent = concluded can't. The list is where the call's ending becomes visible.
+- Honesty guard: "if needed" as decision-state evidence is strong-but-not-certain (could be
+  reflexive bureaucratic hedging). The spine under it — MSH mandatory on the defend path — is
+  solid, and it makes the caged roster the ENGINE of the concession, not a separate discovery.
+**OUTCOME (score with the 25th/30th pair):** ______
