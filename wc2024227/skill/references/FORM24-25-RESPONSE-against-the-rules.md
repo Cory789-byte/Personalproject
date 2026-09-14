@@ -277,3 +277,18 @@ them. And it is displayed, not argued — no "inconsistent", no characterisation
 whose adjacency is the argument. It also converts the 25th into the lowest-friction concession
 available: the letter can be written by accepting his table, and the table is already the
 checklist. The contradiction was theirs; the clarity was his; the exit is prepaid.
+
+**§9 addendum 2 (Cory, 14 Sep) — the dispute as a selection signal.** The fourteen were generated
+by a provenance rule, not a content judgement — but look at what the rule caught. Documents "from
+the Appellant's own records" are, by definition, the documents MSH *sent him*: the directives,
+approvals, notifications and determinations — the acts. So the mechanical rule coincided with the
+damage map, and the Form 25 became an inventory of the operative documents of the case, compiled
+by the Respondent. The schedule then literally lines them up: the spine of the case in one table,
+each with its admitted-contents label and its proof path. Two effects follow. (1) **Elevation:**
+at hearing, the "previously disputed" documents draw the Member's eye first — a document the
+Respondent tried to keep out and could not carries the history of the attempt, and Tab 20 carries
+it most ("the authenticity of the Chief Executive's letter to the Commission was disputed until
+25 September"). (2) **The pattern repeats across institutions:** MSH's objection identified the
+records that mattered and certified the absences; the Regulator's Form 25 identified the
+documents that mattered and forced the reconciliation. Both instruments of resistance became
+maps of the target. Neither side's resistance document survived contact with its own contents.
