@@ -1146,3 +1146,43 @@ runs-branch defence: witnesses case ~55 · causation-only case (expert + cross, 
 pure onus/documents ~15. An expert on the 30 Sep list (30) becomes the tell for the corridor.
 **Watch:** if the 30th names an expert and no MSH officer, that is the causation-only defence
 declared — do not read it as weakness; read it as the case they can run without MSH.
+
+### E23 · Consolidated re-evaluation of the 25th (14 Sep, thread-end) — knowing the full structure served
+Everything since E18 folded into one read. The 25 September letter answers a package it now has
+had 15 days to metabolise: outline + witness list + footing letter + request + medical schedule.
+
+**What is settled (near-certain, drives the rest):**
+- Thirteen provenance tabs conceded, or the register-only production offered with them: **~85%.**
+  Nothing survives being read against the "Contents admitted at" column.
+- No withdrawal-of-admission application accompanies it (Tuesley): **93%.**
+- Register (Tab 31): "MSH has been asked"/"will be produced", not produced with the letter: **~70%.**
+
+**What the letter's FORM will reveal (the tells, in reading order):**
+1. **Register** — legal (counsel-drafted, a change of pleaded position) **70%** vs operational
+   holding **20%** vs position-formula **10%**.
+2. **The SOFC formula** — absent **~68%**; if repeated verbatim, the position is re-affirmed after
+   testing and the post-conference concession branch falls (12% not 24%).
+3. **"The Respondent's position"** addressed in terms (16 Jul undertaking engaged) **~45%.**
+4. **Author field** — non-Matheson on any attachment = counsel's hand (read only, never cited).
+
+**The three shapes, with probabilities:**
+| Shape of the 25th | p | What it means |
+|---|---|---|
+| **Documents-only** — thirteen conceded, Tab 31 chased, silent on footing/position/case | **~50%** | orderly retreat on paper; the real decision deferred to the 30 Sep list; model holds; ⭐ if in this shape they still FILE on the 30th, that is the causation-only defence declared (E22) |
+| **Matter-addressed** — any of: conference proposed before outlines · directions-variation sought · position "under review" · concession foreshadowed | **~35–40%** | the re-plan surfaced; MSH-exposure + the filed-list commitment device (E21) pushed them off "wait and see"; Cory's read (E18) |
+| **Hold-the-line** — thirteen maintained with reasons, SOFC formula repeated | **~8%** | a fight chosen; falsifies classes 4/6; s 558(3) record starts; conference sought 1 Oct regardless |
+| outright concession of the appeal by letter | **~6%** | Guide 5.1 path skipped; consent orders; saves them the 30 Sep filing |
+
+**The structure's own weight on the number (why "matter-addressed" is up from the 13 Sep 23%):**
+what they metabolised for 15 days is not thirteen tabs — it is a case in which (i) the conduct
+limb is closed on their own admissions + the CE letter + the two role descriptions; (ii) a full
+defence needs 10–12 caged witnesses they will not field (per-act map); (iii) the only live
+contest is causation/credit, a one-day medical hearing; (iv) every path is already visible to
+them (disclosure-by-design). A rational reader of that package does not spend the 25th defending;
+it spends it deciding how to exit. The letter is the first visible move of that decision.
+
+**Net, one line:** most likely a clean documents-only concession that pushes the real choice to
+30 Sep (≈50%), with a rising chance the letter itself reaches for the conference/position (≈35–40%);
+hold-the-line and letter-concession are the tails. **Outcome-if-it-runs is untouched at ~53.5%**
+— the 25th moves procedure and pressure, never the merits, which stay in the medical corridor.
+**OUTCOME:** ______
