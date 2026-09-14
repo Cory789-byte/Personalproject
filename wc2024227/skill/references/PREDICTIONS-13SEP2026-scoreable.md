@@ -1465,3 +1465,28 @@ is forced in the drafting week (21–30 Sep), which is also exactly Matheson's 2
 is an order to write the defence down against their own 298 admissions, the cheapest day to
 concede is the day before that page must exist, and if the page is served anyway it arrives as
 the Appellant's cross-examination plan in the Respondent's handwriting. **OUTCOME:** ______
+
+**E27 · ⭐⭐⭐ The cover is already served — the 9 Sep package IS the "new information" (Cory, 14 Sep, late).**
+Cory: the outline, the "medical evidence" (the 43pp schedule), the way the case will be run — that
+is the very "new information" they will cite to concede. Upheld, and it completes E25.2/E26: the
+conference's three functions were cover, a date, and a script. E26 showed the date is direction
+4's blank page. This shows the COVER is the Appellant's own 9 Sep service: a government concession
+cannot say "we were wrong"; it says "position reviewed in light of new material" — the formula
+that protects the review officer (right on the material then available; conceded on the material
+now served). None of the 9 Sep package was before the review officer: the 303/298, the outline,
+the witness list, the keyed medical schedule. The schedule need not be new medicine — "not yet
+considered" is literally true of the ARCHITECTURE; novelty of consideration is all the formula
+requires. The concession letter's first paragraph is pre-written by the Appellant's own service.
+The conference now supplies nothing: cover = his paper; date = their blank page; script = the
+words "new information", available in correspondence.
+- Endgame re-split (from E26): pre-outline concede/narrow 32→**35** · causation-only set **35** ·
+  conduct outline attempted **16** · conference-first 10→**8** · slippage **6**.
+- **E27.1 (scoreable):** if concession/narrowing comes in correspondence, the letter cites the
+  Appellant's served material ("material/information served on 9 September", "further medical
+  evidence", the outline or schedule) as the ground: **~75%.** **OUTCOME:** ______
+- **E27.2 (tell for the 25th):** any sentence acknowledging the served material BEYOND the
+  documents request (outline/schedule mentioned at all) = the concession register warming up —
+  the strongest S2-lite marker, ranked above the formula's absence. Priced ~20% on the 25th.
+  **OUTCOME:** ______
+- ⛔ Discipline: never point the exit out to them. No letter says or implies the served material
+  supplies their new-information basis. The ramp works because they find it. Theirs to discover.
