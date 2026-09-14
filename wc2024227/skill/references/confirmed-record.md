@@ -833,6 +833,27 @@ range, never a point.
 **Source: Cory, 5 Aug 2026.** The member who will hear the matter assessed it at **~50/50 in
 March 2026** — the **13 March 2026 s 552A conference**. ⛔ Add to the chronology.
 
+### ⛔ TO CONFIRM — "THE MEDICAL WOULD BE ON RECORD BUT SEALED" (Cory, 14 Sep 2026)
+**Source: Cory's recall, 14 Sep 2026.** He reports Commissioner Dwyer saying the medical
+records would come on the record but be **sealed**, in connection with how the other side had
+handled/shared his medical records, and that the hearing would be on causation.
+**Verification (14 Sep):** ⛔ NOT in the 7 Aug 2026 mention transcript (every segment and the
+corrected PDF searched — nothing on sealing, non-publication, s 580, or medical-record sharing);
+no order on the file carries a confidentiality clause. The only s 580 material on the file is
+the Appellant's OWN draft order 6 in the 64G (non-publication of the PID/ESU determination,
+s 65 PID Act) — parked, withdrawn, never made. ⇒ If said, the setting was the **13 Mar 2026
+s 552A conference** (off-record; same setting as the "coin flip") or the 27 Feb 2026 mention.
+**Record who said it, when, in what setting.** Weight as DISPOSITION, never as commitment;
+cannot be cited; does not bind the hearing member.
+⛔ House rules engaged: the Regulator obtained the medical records under a Registry-sealed
+Form 29 of 4 Jul 2025 — never "unlawfully obtained"; the sharing grievance is the employment
+track (RFMI routing / HR-IM handling), not a Commission ruling. What IS available regardless:
+seek a s 580 non-publication order over Tabs M1-M9 at the 1 Oct letter or the conference
+(draft order 6 precedent; r 64E(2) grounds (e) confidential nature, (f) effect on any person).
+Effect on the analysis: none on "corridor legitimate as a shape, weak on the merits" (rests on
+the record, not on sealing); a sealed-medical causation hearing removes HIS exposure and
+leaves MSH's untouched — sharpens the pressure read, does not move the corridor probability.
+
 ### ⚠ WHY THIS OUTRANKS THE MODEL — and a methodological admission
 The Monte Carlo **AND-combines five blocks**. That is conservative *by construction*: five
 independent-ish conditions each at .85 yields **.44**, not .85. **A member forming a view does not
