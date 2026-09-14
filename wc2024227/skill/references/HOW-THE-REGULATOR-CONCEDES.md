@@ -118,3 +118,33 @@ correspondence, where it cannot trigger the mechanism the Guide describes.**
   documents for inspection, and interrogatories) and **UCPR ch 9 pt 4** (mediation and case
   appraisal) to this appeal. See the correction at the head of
   `RULES-admissions-documents-and-sequence.md`.
+
+## 6 · The second conference — mechanics, from Guide 5.1, 5.2 and 7.1 (added 14 Sep)
+- **Who chairs:** *"Usually the same Member… will also chair the second conference"* — the first
+  s 552A conference was 13 March 2026 before Commissioner Dwyer; expect him. **And (5.1, 7.1):
+  the conference Member will not hear the appeal; the file is allocated to a different Member for
+  hearing.** So Dwyer's accumulated understanding sits with the conference — the concession event —
+  and not with the decision-maker. That settles the earlier "may or may not hear it" uncertainty.
+- **Trigger:** direction 5 — the Appellant writes to the Registry by 1 Oct requesting a second
+  s 552A conference (or a hearing). Chambers lists it. s 552A(2): the parties must attend.
+- **Room (5.2):** a conference room around a table — parties, the Member, the Associate. Recorded
+  and transcribed (parties may order the transcript). The Member may **go off the record into
+  private conference** and speak to each side separately — not recorded. ⭐ That is where a Member
+  tells a respondent, privately, what he makes of its prospects.
+- **Not adversarial (5.2):** "not about winning… or stating a case." Purpose: review, refine,
+  narrow — *"whether any elements of s 32 can be agreed"*; the nature of the evidence; number of
+  hearing days; number of witnesses; whether the FDO needs amending for further material or an
+  amended SOFC (**this is where leave for the Second Amended 9A is raised, and where any amended
+  SOFC of theirs surfaces**).
+- **Lawyers (s 552B):** only with the other party's agreement or the Commission's leave. Decide
+  before the listing whether to agree to counsel attending for the Regulator. Refusing reads as
+  obstruction; agreeing puts the person who advises on concession in the room to hear it.
+- **After (5.1):** *"Following the conference, the Respondent may decide to review its position or
+  consider conceding the appeal where new information is presented…"* Then, by letter (the 16 Jul
+  undertaking: "should our position change… we will advise you"), and consent orders / decision
+  set aside under s 558(1). Or (7.1) the Member establishes the parties want a hearing, allocates
+  to a different Member, and hearing directions follow (s 554 exchange; exhibit list).
+- **What to bring:** the element grid (one page); the admitted record; their 30 Sep list and
+  outlines read against it; the seven unrecorded events; ¶260; ¶¶263–268; the register question;
+  the s 556 question; a hearing estimate (days) and witness count. Put once, whole, in the
+  operational register — premise first.
