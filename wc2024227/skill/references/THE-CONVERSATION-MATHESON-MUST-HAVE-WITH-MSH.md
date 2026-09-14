@@ -220,3 +220,33 @@ knowledge established from the Commission's own records is of the **timetable** 
 on the 9th; MSH's directorate sees it when asked for witnesses. **The 25th letter and the 30th
 filing are the Regulator's; MSH's own reaction to a serving employee on the other side comes after
 that** — and it is the part of this that neither the Appellant nor the Regulator controls.
+
+## 10 · The CE's letter sits over every answer — why MSH does not want an officer near the stand (Cory, 14 Sep)
+The hearing is public and the decision is published (s 580). Every MSH witness gives evidence
+underneath a letter their own Chief Executive signed to the Commissioner, whose contents are
+admitted (¶¶263–268). Each answer is checked against that signature in real time, and there are
+only two directions an answer can go — adopt the CE's certified absences, or contradict the CE
+in public. Three collisions are already visible:
+1. **¶267 v any account of a complaints process.** The CE: complaints are "managed solely via
+   email or verbally with the complainant." If Ms Taylor describes escalation, referral, or any
+   process beyond herself, she contradicts the CE. If she adopts the sentence, she confirms she
+   was the whole system — the sole-channel chain pleads itself from the box.
+2. **¶266 v Ms Taylor's own 9 May 2024 email.** The CE: "no consequential changes to operating
+   procedures" over the requested period. Her 10:15 email announced a new process for MASPER
+   transfers. *"Your email introduced a new process. The Chief Executive told the Commission
+   there were none. Which is right?"* Either answer costs someone.
+3. **¶¶263–265/269 v ¶219 — Ms Reese's collision, and the sharpest.** The CE: FRMS records "do
+   not exist"; no assessment alleged before 30 June 2024. Ms Reese to HR: "Chloe and I have run
+   through this… a rating of 11." An assessment with no record, sworn to in public, contradicts
+   the CE's certification of non-existence; denying it contradicts her own admitted email.
+   ⇒ Ms Reese is the most caged witness on their side — consistent with her absence from every
+   2026 communication and the split prediction (Taylor 90 / Reese 75).
+**What it does to the MSH conversation.** The release decision is no longer "will our officers
+perform well." It is "every answer is measured against Noelle Cridland's signature, publicly,
+in a decision that will be published." A health service that objected to disclosure to keep its
+records out of the forum does not volunteer its officers into that position. Expect: Taylor
+released with a narrow scope; Reese held if possible; and upward pressure, from MSH's side of
+the table, toward the Regulator resolving the appeal without a hearing. That pressure is
+invisible in the correspondence and real in the tree — it is part of why concession-following-
+the-conference carries 26 and rising.
+⛔ Never say any of this to anyone. The cage works only if it is theirs to discover.
