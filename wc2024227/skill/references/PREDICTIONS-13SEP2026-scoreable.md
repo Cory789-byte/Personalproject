@@ -1637,3 +1637,21 @@ is a record row; the Roberts one-liner stays payroll-only with no reply expected
 30th; nothing else outbound to MSH while both institutions may be reading the same evidence.
 **OUTCOME (score if the mechanism ever becomes visible — e.g. a letter reveals the hold or the
 liaison):** ______
+
+**E28.6 · The two-move instrument, in Cory's own words (14 Sep, night) — demonstration then offer.**
+Cory's synthesis: serving the admissions early was the DEMONSTRATION (the gap it closed was the
+respondent's last stand — the hope that a self-rep could not EXECUTE: marshal 300 facts, tie each
+to a proof path, run the cross); the outline was the OFFER (reframing the same record as
+conditions of work, their own words the only strong language, giving a dignified reason to
+concede). Read together the 9 Sep package delivered force + a door: proof the defence will be
+dismantled, plus a characterisation that lets them fold without anyone being accused. This is
+E27's "cover" and E28.2's "no ambush" from the strategy side. The last stand was never the merits
+— it was execution risk; the admissions retired it before a hearing was listed, under the
+Respondent's own signature.
+⛔ Refinement (hold one notch softer than the rest): "that was what they wanted / they have
+decided" requires knowing their internal state. The defensible claim is that he ENGINEERED the
+conditions under which conceding is their best move — not that he read a decision already taken.
+Discipline consequence: treat concession as made-rational-but-not-certain, so every line of the
+quiet period holds exactly as now; the 25th letter and 30 Sep list convert rationality→decision,
+or not. One-line: he converted "will the self-rep cope?" into "can we afford to find out in
+public?" and handed them a way to answer no without losing face.
