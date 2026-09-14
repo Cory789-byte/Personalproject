@@ -257,3 +257,62 @@ remain are the ones documents cannot answer: what this was like from the console
 did to him — his evidence, and his doctors'. And whether anyone is coming to tell me the
 reasons — their list, due 30 September. That is the whole residue of a three-year file:
 two questions, and a date.
+
+---
+
+## Part 4 — after the reading: the Commission's side of the room
+> The sequel to Part 2. The documents mention has been run; the admissions were read aloud with
+> each disputed tab. This is the Commission's side of what just happened, and what follows from
+> it. ⛔ Internal rehearsal.
+
+**During.** The Member's eyes are not on the reader for most of the fifteen minutes; they are on
+the bar table. The reading is only half the event. The other half is that nothing interrupts it.
+There is no objection available against a party reciting the other side's admissions, and every
+lawyer in the room knows it, so the recital runs in a silence that the Member hears as clearly
+as the words. "You disclosed this document and you dispute its authenticity?" is asked once,
+early, and not repeated, because the answer to it is the same silence. By Tab 20 the Member has
+stopped making notes. The sentences being read are addressed to him; he has read them before; he
+is watching who else in the room is hearing them read aloud for the first time in public — the
+principal lawyer of the health service whose Chief Executive signed them.
+
+**The register entry.** One line is read that is not admitted: "a MET call at 19:16; a Code Blue
+to the same bed at 19:20; a further MET call at 21:16." The Member lets it be read because it is
+the identification of the document whose production is sought, and because MSH told him in
+writing the spreadsheet exists. That is the only moment of the fifteen minutes that is new to
+him, and it is the one he writes down.
+
+**The orders take four minutes.** Concessions at the bar table are noted on the record.
+The Respondent to request and produce the March 2024 sheet of the register within fourteen
+days; liberty to apply; the notice of non-party disclosure, limited to that document, may issue
+without further leave if it is not produced. Costs reserved, in a tone that requires no
+elaboration, because the correspondence reserving them is already in the bundle.
+
+**In chambers, after.** The Member will not hear this appeal — the Guide gives the hearing to
+another Member — and that is precisely why the fifteen minutes mattered. **The mention was
+transcribed.** The reading is now a document: the spine of the case, in the Respondent's own
+admitted words, tab by tab, in the record that travels with the file. Whoever is allocated the
+hearing opens a transcript that reads like the facts section of a decision already drafted, and
+whoever chairs the conference — the same Member — now holds it in the form in which he heard
+it. Either party may order the transcript. The Appellant will.
+
+**The efficiency ledger.** The Member opened this file's first hour with the overriding
+consideration, and closed it by telling the bar table to work very hard. The party that then
+had to be listed, to concede in person what one line could have conceded by letter, is recorded.
+No finding attaches to that. Discretion does. Every case-management call after this mention —
+timetables, indulgences, the shape of the conference, costs when they come — is made by a
+person who watched fifteen minutes of his own Commission's time spent proving that a column
+was a reflex.
+
+**Down the corridor, the same afternoon.** The health service's lawyer reports to the office
+whose signature was read aloud. The report can only say one thing: the letter we sent to resist
+producing documents was today recited in open Commission as the appellant's evidence, it will
+be recited again at the hearing, and the only question still travelling to that hearing is
+whether our officers appear beside it. The conference is now not a forum the Regulator might
+use. It is the last room in which this ends quietly, and everyone who was at the mention leaves
+knowing it.
+
+**The Member's diary note, in substance:** *matter capable of resolution at or shortly after
+the second conference; if not, the hearing Member inherits a record in which the facts are
+closed and only the reasons and the medicine remain; estimate reduced accordingly.* That note
+is the whole consequence of the reading, and the Respondent's copy of the transcript says the
+same thing to whoever, above the officer with carriage, finally reads it.
