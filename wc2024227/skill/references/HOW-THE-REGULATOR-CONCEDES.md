@@ -160,3 +160,22 @@ correspondence, where it cannot trigger the mechanism the Guide describes.**
   matter, the matter may be placed into abeyance and subject to lapse pursuant to rule 230."*
   ⛔ The 1 October request is not optional. Write to the Registry on 1 October whatever the 25th
   and 30th bring.
+
+## 7 · The streamlined (medical-only) hearing — what the classified record makes possible (14 Sep)
+With the 298 classified (world/gaps/acts need nothing; contents answered by the footing), the
+conference can realistically produce a **one-day hearing confined to the medical**: elements and
+conduct facts recorded as agreed; witnesses reduced to the Appellant, Dr Hawes, Dr Krishnaiah,
+and any IME; cross confined to causation and credit. The element grid + the classified-facts
+document are the instruments that produce it (Guide 5.2: the conference settles the evidence,
+the days, the witnesses; the FDO can be amended accordingly).
+⚠ **Calibration — the streamline cuts both ways.** A medical-only hearing is not "extremely
+unlikely"; it is the **most likely form of any hearing** (the E22 causation-only corridor,
+~30% of the runs branch and rising if the conduct is conceded), precisely because narrowing
+makes running cheap for them too: one day, no MSH officers in the box, no public reading of the
+conduct — much of the MSH-exposure pressure dissolves. What is near-zero is a full conduct
+hearing with their witnesses. Two consequences: (1) the medical corridor remains the entire
+residual risk, so its four preparation items are the case; (2) ⭐ the conference question that
+decides everything: **"what medical evidence do you rely on for element (d)?"** If they arrive
+without an IME, the medical-only path has no content and collapses into concession; if an
+expert is on the 30 Sep list, the one-day hearing is where this ends, and it is his best
+possible hearing — but still a hearing.
