@@ -175,3 +175,21 @@ statement of evidence / submissions when directed) — no free-standing write-up
 forum the same propositions revert to contentions, and the r 49 label is not carried across;
 (iv) sensitive medical content going on the record engages the sealing options (s 580) when
 the time comes.
+
+**§12 footnote (b) — what the role description proves toward the definitions (14 Sep).** Each
+statutory definition has two limbs: (a) prescribed by regulation, (b) functional. Tab 1 proves
+limb (b) of **both**, almost word for word, and it is admitted:
+- 36EB(b) (first responder): "respond to incidents that are life-threatening or otherwise
+  traumatic… for which time may be critical to prevent actual or potential death or injury" ↔
+  ¶8: "Participate in the Emergency Response process by receiving emergency response
+  notifications and distributing them to the appropriate response groups… as per emergency code
+  procedures, **strictly adhering to protocols and timeframes**."
+- 36EC(1)(b)(ii) (eligible employee): "experiencing traumatic incidents as they happen to other
+  persons" (example: a communications officer responding to emergency calls) ↔ the console:
+  codes as they happen (¶8, ¶68, Tab 31), crisis callers and threats (topic 1; Conaghan item 2).
+What it cannot prove: limb (a) — the Regulation's list — and the diagnosis gate. So the RD makes
+the functional case one line long **if** the other two gates ever open (future clinical PTSD +
+prescribed class). Present-case use: one restrained sentence of context at most — the admitted
+duty sits within the class of work Parliament has recognised as trauma-exposed — never as a
+claim that the presumption applies, and never in a way that reads as dressing the MDD case in
+PTSD clothing.
