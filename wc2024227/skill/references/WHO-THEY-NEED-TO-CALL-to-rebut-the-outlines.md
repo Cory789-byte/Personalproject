@@ -80,3 +80,22 @@ even then the rebuttal is confined to reasons, observations and causation.** The
 on 30 September is scored against this: Taylor + Reese = the reasons defence; + Stibbard = they
 mean to meet topic 5 head-on; an expert listed = the s 556 route is already chosen; none of them =
 the onus defence.
+
+## 6 · The clinicians — Kwok, Dr Wong, Marriott (Cory, 14 Sep)
+The one witness group **neither side needs and the defence cannot afford.**
+- **He does not need them.** Their evidence is already in the record in its best possible form:
+  their own contemporaneous emails, wording admitted (¶¶56–62, 89–104), and for the Kwok
+  occasions the occurrence itself is admitted (¶68). A clinician in the box adds colour at the
+  cost of a busy, reluctant MSH-side witness; the console-side corroboration is already
+  Ms Conaghan (her item 7). The filed list rightly excludes them.
+- **The Regulator cannot use them.** They are the complainants. Called to soften ("it was
+  routine"), each faces her own admitted words — "we can not help patients or other clinical
+  staff", "switchboard could not tell them where VHUB was", "wrong medical teams" — and the
+  cross is one question per email. A defence witness who impeaches her own contemporaneous
+  report is worse than no witness.
+- **The one reserve:** if their outlines ever dispute that the IRS misdirections occurred (that
+  strand is "reported", not "occurred" — ¶¶89–104 are content facts), **Ms Marriott** proves
+  occurrence in ten minutes; attendance notice + conduct money, by leave to add to the list.
+  Held as a contingency only; do not signal it.
+⇒ The clinical voice is in the case, in writing, admitted, at maximum weight (contemporaneous,
+spontaneous, against no interest). Leave it on the page.
