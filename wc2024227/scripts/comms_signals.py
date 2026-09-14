@@ -22,7 +22,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 LEDGER = os.path.join(ROOT, "index", "COMMS_SIGNAL_LEDGER.tsv")
 PRED = os.path.join(ROOT, "skill", "references", "PREDICTIONS-13SEP2026-scoreable.md")
-FORMULA = re.compile(r"position remains to defend the appeal as outlined in (our|the) statement of facts and contentions", re.I)
+FORMULA = re.compile(r"position\s+remains\s+to\s+defend\s+the\s+appeal\s+as\s+outlined\s+in\s+(our|the)\s+statement\s+of\s+facts\s+and\s+contentions", re.I)
 
 def load():
     with open(LEDGER, newline="") as f:
@@ -86,7 +86,7 @@ def score():
     print(f"\n{n} predictions await an outcome. Score by replacing '______' with the outcome and a date.")
 
 def register(path):
-    t = open(path, errors="ignore").read()
+    t = re.sub(r"\s+", " ", open(path, errors="ignore").read())
     low = t.lower()
     ops = sum(low.count(k) for k in ("i apologise", "i am in the process", "could i please", "kindly", "i will get back", "i am in another"))
     pos = 1 if FORMULA.search(t) else 0
