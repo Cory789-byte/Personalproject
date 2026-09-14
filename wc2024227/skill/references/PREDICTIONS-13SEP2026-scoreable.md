@@ -1655,3 +1655,25 @@ Discipline consequence: treat concession as made-rational-but-not-certain, so ev
 quiet period holds exactly as now; the 25th letter and 30 Sep list convert rationality→decision,
 or not. One-line: he converted "will the self-rep cope?" into "can we afford to find out in
 public?" and handed them a way to answer no without losing face.
+
+**E28.7 · The schedule is the reason, the outline is the frame (Cory, 14 Sep, night) — element (d)
+was the last live hope.** Cory's refinement: the outline + medical is the "new final information"
+that supplies the reason to concede, and the schedule specifically is what made the Regulator
+move. Assessment — correct, and it separates the two documents by function. What was already dead
+before 9 Sep: the conduct limb (298 admissions + negatives + CE letter ¶¶263-268) and
+execution-risk (the notice itself, E28.6). The ONE live hope left on 8 Sep was element (d) —
+causation under s 32(1) ("a significant contributing factor"): the chance the medical case was
+thin/unbuilt/contestable enough to run a one-day hearing on. The 43pp schedule, keyed
+document-by-document with "relied on for / NOT relied on for", is a map of a causation case
+already built, corroborated and honestly bounded (the self-limiting column is the tell). It closes
+the last live element → "we'll likely lose" becomes arithmetic → the Guide's "new information"
+reason crystallises. So: outline = the dignified FRAME (conditions of work, E27's door);
+schedule = the REASON (last element closed). The outline lets them concede without losing face;
+the schedule makes conceding rational.
+⛔ Two honesty guards: (1) the DAY-ONE speed of the 10 Sep ask is over-determined by the request
+letter's 18 Sep deadline + NNPD/costs (E14); the schedule most cleanly explains the 15-DAY LENGTH
+and the concession-review it triggered, not the acknowledgment speed — keep the claim there.
+(2) The schedule is the ROADMAP of the element-(d) case, not the psychiatric proof itself;
+element (d) still runs through the medical evidence (Report B / IME). It proves the causation case
+is built and undismissable, not that the finding is made. Never let the internal read drift to
+"the schedule is the proof". **OUTCOME (score with the 25th/30th pair):** ______
