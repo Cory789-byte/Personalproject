@@ -78,3 +78,38 @@ producing documents is not one that wants its Switchboard Manager cross-examined
 consequences of airing them. Let the other side do its own arithmetic.** It does not need help,
 and offering help would be the one thing capable of converting a strong position into a
 sanctionable one.
+
+## The price of the full defence, and the same week in public (added 14 Sep)
+> ⚠ Estimates for prediction only — ranges, not quotes; reg 132 scale still unverified.
+> ⛔ No number below ever appears in correspondence; the costs position stays as the one-line
+> reservation already served.
+
+**The money (their side of the bar table).**
+| Item | Range |
+|---|---|
+| counsel: 4–5 hearing days + 8–12 prep/conference days (proofing 10–12 witnesses against 298 admissions) | $80k–150k |
+| instructing (OIR officers / Crown Law time) | $30k–60k |
+| IME (s 556): report + attendance | $8k–15k |
+| transcript, sundries | $5k–10k |
+| **OIR subtotal** | **~$120k–235k** |
+| MSH (non-party, its own lawyers preparing caged officers; backfilling a 24/7 switchboard while its manager, coordinator and officers sit in court for a week) | $40k–90k + operational disruption |
+| exposure to the Appellant's costs on the event (counsel briefed, per Calderbank #2), with uplift risk from 16 Jul | $60k–120k+ |
+⇒ The defended hearing costs the public purse **two to four times the statutory compensation in
+issue**, before the costs-follow-the-event exposure. The memo above Matheson can be written in
+one line: *the defence costs more than losing, even if we win.*
+
+**The same week, in public.** Hearings are open; the decision is published (s 580) and indexed
+forever. Day one: the CE's letter read into the record — "the requested documents do not
+exist… managed solely via email or verbally." Day two: Ms Stibbard on removing everyone's
+access; Ms Taylor beginning under "What's Chloe's Hours?!". Day three: Taylor continuing under
+the 9 May department-wide email; ¶68's occurrences put as admitted; the register on the screen
+— a Code Blue four minutes after a MET call to the same bed, dispatched by a man on a
+seven-hour turnaround. Day four: Ms Reese under "Cory's roster will not be considered, however
+Cory is not yet aware". Day five: the doctors, then closings built from admissions. Every
+sentence quotable, in the employer's own words, in a published decision that names Logan
+Hospital's emergency-call failures with MSH's certificate of absence beside them — citable in
+every later FRMS, WHS, AD Act or PID forum, and readable by every switchboard operator, union
+official and journalist in the state, forever. For the Appellant, the same week is vindication;
+he carries nothing into it that is not already admitted. **The publicity is a one-way valve:
+everything public hurts one side only — which is why the side it hurts is not the one that
+will choose the room.**
