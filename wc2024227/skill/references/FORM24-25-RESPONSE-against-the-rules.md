@@ -162,3 +162,28 @@ deployed in the employment track, the PID/reprisal track, or any other forum.
    position.
 
 Tone: ask, never allege. The object is an election, not a fight.
+
+## 8 · Tab 20 at tender — why the dispute of the CE's letter is self-impeaching (Cory, 14 Sep)
+Two layers sit on Tab 20, and both collapse at the same point.
+**Authenticity (Form 25: "Disputed — Appellant's own records").** The document is MSH's letter to
+Commissioner Dwyer, signed by the Chief Executive, filed in THIS proceeding. The Commission is
+the custodian of the original; the request letter's schedule already records "Copy known to be
+held: the Commission's file." Maintaining the dispute means telling the Member that a letter
+addressed to him, on his own file, may not be what it appears. It is also the visible proof that
+the fourteen disputes were a column reflex: this one document is demonstrably not sourced from
+the Appellant's records alone.
+**Truth of contents (the 8 Sep cover letter reserves "any statement made by an officer or
+employee of Metro South").** Here the reservation points backwards. The letter's statements are
+admissions of absence — records "do not exist", "no consequential changes", complaints handled
+"solely via email or verbally", assessment only after 30 June 2024. To contend the letter is NOT
+true, the Respondent must prove the opposite of its own CE's signed statements: produce the
+records said not to exist, or put a witness on oath to contradict the Chief Executive's letter to
+the Commission. That witness does not exist, and no counsel calls one.
+**The tender, at hearing.** The Appellant tenders Tab 20 and reads it. Any objection requires
+counsel to rise and say the words above out loud. ⇒ This is the r 49 trap in its purest form: the
+notice offered them admission without oath; the only alternative the dispute leaves is someone
+swearing against their own principal. That is why Tab 20 concedes with the thirteen — and if it
+does not, it is the emblem for the conference and for s 558(3).
+⚠ Precision for our side: the letter is relied on as MSH's statement to the Commission of what
+does and does not exist (¶¶263–268 — admitted), never as proof that MSH's objections were
+justified. State the reliance that way and the reservation has nothing left to hold.
