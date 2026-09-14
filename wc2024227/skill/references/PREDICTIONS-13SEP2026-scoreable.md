@@ -1009,3 +1009,26 @@ sentence: *"Should our position change at any point, we will advise you as soon 
    is what makes the 1 July offer carry its stated costs consequence. Not briefing does not falsify
    the letter (it stated an intention) but it removes most of the costs exposure the letter
    created. Decide the two together, and before any Calderbank #3 (`CEILING_SET/06`).
+
+### E18 · Two predictions for the 25th, side by side (Cory v model, 14 Sep)
+
+**Cory:** the 25th is the recalculation of their prospects, and it is where they concede — not
+the 30th with outlines. The reply will show the re-plan, not just the thirteen.
+
+**Model:** the 25th is the recalculation, agreed; but the Guide places concession of the *appeal*
+after a conference on new information (5.1), and class 1 says Commission-imposed dates are met.
+So the 25th concedes the **documents** and the re-plan shows in the register, the anchor sentence
+and whether they *propose* a conference before the outlines rather than after.
+
+| What the 25 Sep letter does | Cory | Model |
+|---|---|---|
+| concedes the thirteen | yes | **85%** |
+| concedes the **appeal** (accepts the claim) by letter | the substance of his call | **3%** — off-form for a statutory respondent before a conference |
+| proposes a conference / asks to defer or vary the 30 Sep outlines pending one | — | **20%** — the middle path; the tell that the recalculation went badly for them |
+| files outlines and list on the 30th as directed, and the concession (if any) comes at or after the conference | — | **72%** |
+| drops the 16 Jul formula | implied | 65% (F2.3) |
+
+**How to score it.** If the 25th letter concedes the appeal or proposes a conference *before* the
+outlines, Cory's read was right and the model under-weighted the recalculation. If it concedes the
+thirteen, chases Tab 31 and says nothing about the case, the model's shape holds and the 30th is
+the next observation. **OUTCOME:** ______
