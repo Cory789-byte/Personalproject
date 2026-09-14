@@ -73,3 +73,21 @@ scenario model's number — outcome if it runs ~53% for the Appellant — from t
 3. **3(e).** Corroborate distance and travel time; the register proves the codes.
 4. **The IME.** Consent; be heard on the brief; make sure the examiner has the admitted facts and
    Tabs M1–M4, not the SOFC alone (`S556-EXAMINATION-and-the-s32-elements.md`).
+
+## 5 · The costs case — what is already visible, what is not, and what makes it real
+**Visible on the record (reads as a costs case being assembled alongside the merits):**
+- Calderbank #2 ¶¶6.1(b), 7 (1 Jul): costs "counsel, expert, solicitor"; follow the event; uplift/indemnity on refusal.
+- Witness list (9 Sep): the doctors designated *"expert witnesses within the meaning of Part 4.11 of the Guide"*; attendance notices reserved *"under Part 6"* for items 2–5 — the framing for expert fees and conduct money (r 62).
+- Request letter ¶5 (9 Sep): costs of the NNPD step reserved, *"I will refer to this correspondence if the question of the costs of that step arises."*
+- s 558(3) referenced in the footing analysis; the record of the thirteen tabs from 25 Sep onward.
+**Not yet visible:** any appearance or notice of representation; a solicitor on the record; an expert engagement or fee letter; a running costs schedule; conduct money tendered.
+
+**What makes it real rather than apparent (in order):**
+1. A costs schedule from 1 July 2026, kept as incurred: filing, service, transcript, expert fees, conduct money, counsel, solicitor.
+2. Counsel engaged in writing with costs disclosure (direct brief or via a solicitor — confirm which is available for this matter before engaging).
+3. The doctors' fee and availability letters; Report B (if any) as a disbursement with its invoice.
+4. Conduct money tendered with any attendance notice, at expert rates for the doctors.
+5. The appearance letter to the Regulator and the Registry **after** the conference unless counsel is wanted at the conference (s 552A/552B: lawyer at the conference only by agreement or leave). The appearance is itself a class-5 signal in reverse — send it when it is meant to be read.
+6. ⚠ reg 132 / scale still unverified — verify before any costs figure is put in a letter.
+
+**The counterweight, plainly:** s 558(3) is a discretion and Guide Part 10 says costs follow the event. If the appeal fails, the same rule runs the other way, and the Regulator's counsel has been on the file since February. The costs case is an asset only on the branch where the appeal succeeds (~53% if it runs; ~34% concedes before hearing). Brief for the merits; let the costs follow.
