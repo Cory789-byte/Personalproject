@@ -320,3 +320,20 @@ truth-of-contents reservation, drafted for documents, does not touch them on its
 happened, during the arrangement. The walk can say "occurred", not "was reported", wherever
 ¶68 reaches — and only there. ⚠ Precision: ¶68's "occurred" covers the nine Kwok-reported
 occasions; the IRS misdirections remain "reported" (¶¶89–104 are content facts).
+
+## 11 · Her letter, clause by clause — how each reservation was emptied (14 Sep)
+The 8 Sep cover letter was never contradicted; it was **agreed with until empty**. Each clause
+preserved a battleground; each battleground was vacated before she could fight on it:
+| Her reservation | The answer, and by which instrument | Residue |
+|---|---|---|
+| "for the proceeding only" (r 49 quoted) | agreed — and the same rule she quoted is the mechanism the narrowing proposal uses to record the concessions (¶2, citing r 49) | none |
+| no concession of **relevance** | footing ¶1: "Relevance… for the Commission. The Appellant does not contend otherwise"; every tab maps to a pleaded issue (Part 3 relevance map); the narrowing note "makes no submission on the merits" | an objection she must voice at tender against the pleaded role's own role description — never spoken |
+| **admissibility** / objection at tender reserved | the only tender objection with content was authenticity; option (b) / narrowing ¶2(b) ends it ("tendered without further proof of what it is"); s 531(2)(a) behind it | none on 13 tabs; Tab 31 = production |
+| no acceptance of **characterisation, conclusion or inference** | none is drawn anywhere — footing ¶1 disclaims them; the pleading, outlines and notices state facts and let adjacency argue | reserved against a use that does not exist |
+| no acceptance of **truth, accuracy, reliability or weight** of contents — "any statement by a treating medical practitioner, any finding in RD 69983, or any statement by an officer of MSH" | footing ¶2: the operative documents are the **acts**, not statements about events (~80 facts); ¶3: the authors are called for the rest; RD 69983 "not relied upon as binding"; classes A/B/C (96 facts) assert no document at all | lives only on class D contents — where the doctors attend and MSH's statements are relied on as *having been made to the Commission* (¶¶263–268), which is all they need to be |
+| **de novo**; earlier findings do not bind | embraced in the 9A header and outline; everything is re-proved by admission plus oral evidence; ¶260 is used as an admitted document recording a finding, not as a binding finding | none |
+**The mechanism in one line:** every reservation was expressly accepted, and the acceptance
+stripped it of function — the letter now defends six positions nobody is attacking, and the
+narrowing proposal converts her own quoted rule into the instrument that records the surrender
+of the seventh (authenticity), which was the only one her letter did not reserve because her
+Form 25 had already spent it.
