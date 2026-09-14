@@ -81,3 +81,29 @@ discover. And it would break the quiet period (nothing to them before the 25th).
 **One branch where asking early becomes right:** if the 30 Sep list does NOT name Ms Taylor,
 a short option-(b) request for her RD becomes a pressure instrument — at that point the signal
 is the point. Until then, held.
+
+## At the hearing — what the pairing does to her, and the escape-route map (Cory, 14 Sep)
+⛔ Reframe first: the target is never her credit; it is the s 32(5)(a) defence. The ideal
+outcome is a truthful, sympathetic witness who confirms every absence. Her credit can survive
+intact while the defence dies — that is the best version, and the gentlest cross produces it.
+**The sequence (each question her document + an admitted absence):**
+1. "This is your role description, produced by Metro South in this proceeding." (Yes.)
+2. "It required you to monitor and audit all emergency code groups and responses and provide
+   regular reports to relevant committees." (Yes — it is on the page.)
+3. "The register at Tab 31 is that monitoring." (Whatever she says, the register is in.)
+4. "Where are the committee reports for March to May 2024?" — the fork.
+**Every exit leads somewhere that helps:**
+| Her answer | Where it goes |
+|---|---|
+| "I did report" | the documents are on no List (¶ absences) — the Respondent's problem, put to it in submissions |
+| "I didn't have time / resources / training" | the whole function sat on one under-resourced person — the pleaded condition, from her own mouth, and the blame moves **up**: s 32(5)(a) judges the employer's action, not hers personally |
+| "The RD didn't reflect the real job" | MSH's own answer to the governance request collapses, and the CE's "solely via email or verbally" stands alone |
+| "The audits happened informally" | ¶266: no consequential changes; ¶¶56–68: nine occasions and six days — the informal system's measured output |
+**Counsel's likely shield:** the RD is dated 2020, HIMS era; duties changed. Answer: MSH
+produced it in June 2026 as its **current** answer to the governance request; if a later RD
+exists, it was theirs to produce and is on no List.
+**Effect:** not damage to her as a person — damage to the proposition that the management of
+these conditions was reasonable, delivered through documents she can only confirm. The Member
+watches a decent witness agree, page by page, that the system was one person and the paper
+does not exist. That is worth more than any dent in her credit, and it costs nothing in the
+room. Gentle is the weapon.
