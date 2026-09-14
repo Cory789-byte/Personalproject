@@ -7476,3 +7476,33 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
      Member who invests.
 - ⛔ Disciplines unchanged: TD/2024/110 stays out of WC filings (parallel track, confirmed-record
   l.132); settlement terms never discussed; reinstatement wording stays in the fixed form.
+
+## 14 September 2026 — TD/2024/110 Form 12 READ FROM SOURCE (rendered; no text layer)
+Form typed with hand-inked crosses (⛔ correct the recall: not handwritten). Self-represented,
+no representative. Respondent contact: HR Consultant Faiza Firoz, lbh_hr. Key contents verified:
+- **5.1 commencement 28/03/2019** — ⚠ CONFLICT with the pleaded/payroll date 25 March 2019.
+  Verify from first payslip; minor (TD closed) but note which is right before any date is reused.
+- 5.2 notification 09/10/2024 · 5.3 effect 08/10/2024 · 5.4 Administration officer · 5.5 the Award.
+- **6. Decision sought (other orders):** "An apology letter; 6 months remuneration;
+  Reinstatement of employment of a position that is equivalent or greater position suitable."
+- 7. Within 21 days: yes.
+- **8.1 Unfair Dismissal Statement** (typed, one page): contests Award cl 9.6 abandonment;
+  certificates 1 Jul / 7 Aug / 11 Aug / 8 Sep 2024 valid to 7 Oct 2024, confirmed by WorkCover
+  (Attachment 3); 15 Jul 2024 advised Ms Taylor updates would come via HR as WorkCover confirmed;
+  18 Sep 2024 WorkCover notified HR of the claim; **20 Sep 2024 "Steven Johns acknowledged
+  reviewing WorkCover claim, which was concluded on that date"** — ⭐ the later reinstatement
+  effective date (20 Sep 2024) is the same date; denial of liability at Attachment 4; RTW
+  intention 3 Oct 2024 answering **Executive Director Anne Coccetti's letter of 27 Sep 2024**
+  (Attachment 5); grandfather's funeral leave mishandled; **precedents cited: Stevenson v Murdoch
+  Community Services [2010] FCA 648; Sharpe v MCG Group [2010] FWA 2357 (Asbury C)**; relief
+  sought per Sharpe.
+- ⚠ 2024-words flag: the statement says the Johns termination "appears to be retaliatory due to
+  my claims against the department." Proper in that forum; MSH holds it. Same handling rule as
+  the RD 69983 words: never repeated forward; led first if ever surfaced. Not a WC-track document.
+- Attachments (pp ~7–34, not yet rendered): LTR letter; Att 2 (situation); Att 3 (certificates +
+  WorkCover confirmations); Att 4 (denial of liability); Att 5 (Coccetti letter).
+**Read-through:** the method was already fully formed in October 2024, seventeen days after
+termination, acutely ill, self-represented: instrument clause contested, dated certificates,
+numbered attachments, interstate authorities cited, specific relief. If Dwyer case-managed this
+file ([R] above), his first exposure to the litigant was already this document — which reads
+directly onto the March 2026 "coin flip" and the 7 August investment.
