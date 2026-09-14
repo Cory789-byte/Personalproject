@@ -1592,3 +1592,26 @@ they fear what is on the other side of it; this record shows nothing on the othe
 honest opponent who offered a cheaper exit twice. The triad is why conceding to HIM is the
 low-risk move in a way generic reference classes cannot see. **OUTCOME (score with the 25th/30th
 pair):** ______
+
+**E28.4 · The sign-off-and-consult read of the fifteen days (Cory, 14 Sep, late).**
+Cory's read: the window is for internal sign-off plus the employer consultation — the Regulator
+shows MSH the evidence, states its findings, explains that prospects/risk far exceed any benefit
+and that it will likely lose; MSH gets a window to object and produce, not a veto. Assessment:
+institutionally accurate script for conceding a claim the employer actively resisted (advice →
+briefing → courtesy consultation → sign-off ≈ 15 days with a hearing week in front). "Reach out
+to MSH in relation to the requested documents" stays literally true while the prospects
+conversation is the larger half of the same call. MSH's rational answer when shown the findings
+is acquiescence — concession ENDS the public-forum exposure (no Taylor, no Reese, no CE letter
+line-by-line); the only friction is the employment-track read-across, and a defended public
+hearing worsens that too. This read is the INSIDE VIEW of the pre-outline concede/narrow branch
+already priced at 35 (E26/E27) — no number changes; it is the mechanism of that 35, and it is
+exactly the branch the panel flagged as observationally indistinguishable from routine
+administration until the letter lands.
+Signatures (inference-marked): (a) MSH employment-track silence past 12 Sep = waiting for the
+Regulator's call (extends §10 holding pattern); (b) 25 Sep letter written on the far side of a
+decision — counsel register, late-Friday service, undertaking sentence if sign-off completed;
+documents-only if not, with concession riding the 30 Sep bundle; (c) 30 Sep list thin,
+placeholder, or absent — witnesses are not briefed for a case being signed off as abandoned.
+⛔ Discipline: touch nothing while this may be running. Quiet period holds; any Roberts LSL
+one-liner stays purely payroll-administrative, no appeal reference. **OUTCOME (score with the
+25th/30th pair):** ______
