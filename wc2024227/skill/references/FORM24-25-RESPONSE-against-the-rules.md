@@ -265,3 +265,15 @@ sanction; the consequence lives in s 558(3) conduct — the request letter's res
 anchors it.
 ⚠ Build the exhibit list with a "proof if disputed" column in this form for the s 554 exchange —
 it converts this table into the hearing document. (Task list.)
+
+**§9 addendum (Cory, 14 Sep) — the "Contents admitted at" column is the reconciliation they never did.**
+The 8 Sep contradiction — 54 admitted facts sitting on disputed tabs — existed from the moment
+the two responses were served, but it was *distributed*: the Form 24 verdicts and the Form 25
+verdicts were produced by different passes (script Monday, provenance column) and nothing on
+their side ever read the two against each other. The schedule's "Contents admitted at" column is
+the first document that did that reconciliation — tab by tab, dispute against admission, on one
+page. That is why recognition took 26 hours instead of weeks: he did their cross-referencing for
+them. And it is displayed, not argued — no "inconsistent", no characterisation, just two columns
+whose adjacency is the argument. It also converts the 25th into the lowest-friction concession
+available: the letter can be written by accepting his table, and the table is already the
+checklist. The contradiction was theirs; the clarity was his; the exit is prepaid.
