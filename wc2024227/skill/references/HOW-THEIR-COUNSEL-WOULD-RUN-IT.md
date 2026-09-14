@@ -91,3 +91,14 @@ scenario model's number — outcome if it runs ~53% for the Appellant — from t
 6. ⚠ reg 132 / scale still unverified — verify before any costs figure is put in a letter.
 
 **The counterweight, plainly:** s 558(3) is a discretion and Guide Part 10 says costs follow the event. If the appeal fails, the same rule runs the other way, and the Regulator's counsel has been on the file since February. The costs case is an asset only on the branch where the appeal succeeds (~53% if it runs; ~34% concedes before hearing). Brief for the merits; let the costs follow.
+
+**⛔ Correction to the reading of "costs" in the 9 September letters (Cory, 14 Sep).** The costs
+reserved in the request letter are not the Appellant's own — a self-represented party recovers
+little beyond disbursements, and both sides know it. The word is doing two other jobs: (i) it
+refers to the *future* — the costs that exist once counsel and experts are engaged, per Calderbank
+#2 ¶7; and (ii) its real currency is **the Commission's time** — the Member's stated overriding
+consideration at 00:00 (*"the efficient administration of justice"*), his cost speech at 30:19, and
+the Appellant's own concession of the Form 29 at 32:02 to save that time. Read that way, "the
+costs of that step" means: *you would be making the Commission hear the authenticity of thirteen
+documents whose contents you admitted, and the Member who told the bar table to work very hard
+will be told who made him.* s 558(3) is a conduct discretion. The letter builds the conduct record.
