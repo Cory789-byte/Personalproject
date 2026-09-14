@@ -237,3 +237,31 @@ none of them for authenticity — the Regulator's List, the Regulator's claim fi
 Commission's file and MSH's own service records supply it — so the dispute buys nothing except
 the record of having made it. That is what turns option (b) from a concession into the cheap
 exit, and it is why the thirteen concede.
+
+## 10 · The tender map — proving each disputed tab if the dispute is maintained (Cory, 14 Sep)
+Four proof paths exist independently of the Respondent, and every disputed tab has at least two:
+(A) contents admitted under the Form 24 (54 facts); (B) an independent custodian copy;
+(C) the Appellant's own oath as sender or recipient; (D) IR Act s 531(2)(a) — the Commission is
+not bound by the rules of evidence — with Evidence Act s 92 (business records) in reserve.
+
+| Tab | Document | Proof if maintained |
+|---|---|---|
+| 1 | AO3 role description | A (¶¶1–13) + B (Attachment 2 to MSH's own RFMI, 31 Jul 2026) + C |
+| 5 | Taylor 27 Sep 2023 "Approved – Permanent Full Time FTE" | A (¶38) + C (addressed to him) |
+| 6 | Taylor 15 Apr 2024 directive | A (¶¶49, 163) + B (**the Respondent's own LOD, attachment to item 25**) + C |
+| 17–19 | movement forms approved by Hughes | A (¶¶14–15) + B (MSH) |
+| 20 | K-LM26/729 | A (¶¶263–268) + B (**the Commission's file**) — see §8 |
+| 21 | Forrest 7 Jul 2026 email | A (¶¶224–225) + C |
+| 22–23 | consultation paper & outcome | A (¶¶167–177) + C + Ms Conaghan (also a recipient) |
+| 24 | Moran 3 Nov 2025 delegate email | A (¶¶178–179) + C (+ Mr Moran if ever needed) |
+| 30 | "What's Chloe's Hours?!" 23 Aug 2023 | A (¶¶71–72) + B (**the Respondent's claim file** — RD 69983 quotes it, ¶70) + C |
+| 30A | Taylor 18 Jun 2024 "Good morning Team." | A (¶¶85–87) + C |
+| 31 | Emergency Code Register | the exception: contents NOT admitted. Path is **production** — ¶268 admits MSH told the Commission the spreadsheet "is available"; then NNPD if needed. Not provable by his oath |
+**Mechanics at hearing:** identify the document, tender it. If an objection is taken, the answer
+is one sentence per path: the contents are admitted at ¶N; the same document sits in [their List /
+their claim file / the Commission's file / MSH's RFMI]; I sent or received it and say so on oath;
+and s 531(2)(a). No path requires the Respondent's consent. **Costs:** r 49 has no costs-of-proof
+sanction; the consequence lives in s 558(3) conduct — the request letter's reservation already
+anchors it.
+⚠ Build the exhibit list with a "proof if disputed" column in this form for the s 554 exchange —
+it converts this table into the hearing document. (Task list.)
