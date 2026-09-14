@@ -1,27 +1,29 @@
 id	date	time_aest	dir	party	track	doc	kind	answers	latency_days	register	formula	consequence	author_field	source	note
 R01	2026-04-22		OUT	Regulator	WC	Form 29 served on Matheson (affected party)	procedural				N	N		documents/correspondence-2026/2026-04-22_*	
-M01	2026-06-05		IN	MSH	WC	K-LM26/729 objection to Form 29 (signed Cridland CE; enquiries Ruttan)	legal	R01		legal	N	Commission direction		documents/ (objection)	"very comprehensive objection" — Dwyer 30:20
+M01	2026-06-05		IN	MSH	WC	K-LM26/729 objection to Form 29 (signed Cridland CE; enquiries Ruttan)	legal	R01		legal	N	Commission direction		documents/ (objection)	very comprehensive objection — Dwyer 30:20
 R02	2026-06-23		OUT	Regulator	WC	64G application filed; served on Ruttan 24-25 Jun	procedural				N	N		lodgement/	
 R03	2026-07-01	12:16	OUT	Regulator	WC	Calderbank #2 (WPSATC) — states counsel/solicitor/expert will be briefed; costs follow event	offer			N	N	21-day window		evidence-index/sources-text/Calderbank_SENT_2026-07-01.txt	
-R04	2026-07-16	15:54	IN	Regulator	WC	Matheson rejection of Calderbank #2	position	R03	15	position	Y	none		documents/correspondence-2026/2026-07-16_1554_*	"position remains to defend… as outlined in our SOFC"; undertaking: "should our position change… we will advise"
+R04	2026-07-16	15:54	IN	Regulator	WC	Matheson rejection of Calderbank #2	position	R03	15	position	Y	none		documents/correspondence-2026/2026-07-16_1554_*	"position remains to defend… as outlined in our SOFC; undertaking: ""should our position change… we will advise"""
 R05	2026-07-24	19:09	OUT	Regulator	WC	Request: updated list of documents + NNPD copies + documents produced	request			N	N	none (soft)		documents/correspondence-2026/2026-08-14_DISCLOSURE_REQUEST_CHAIN.md	
 E01	2026-07-28	17:39	OUT	MSH	EMP	Letter to LBH HR: incorrect application of EB12/Award/policies	request			N	N	none		documents/correspondence-2026/2026-07-28_1739_*	
 E02	2026-07-29	16:10	IN	MSH	EMP	MSH reply to 28 July letter	reply	E01	1	operational	N	none		documents/correspondence-2026/2026-07-29_1610_*	
 E03	2026-07-30	14:33	IN	MSH	EMP	MSH holding reply — delegate approval	holding	E01	2	operational	N	none		documents/correspondence-2026/2026-07-30_1433_*	
+R06	2026-07-31	10:46	OUT	Regulator	WC	"WP ""material development"" letter to Matheson"	offer			N	N	none		documents/correspondence-2026/2026-07-31_1046_*	
 E04	2026-07-31	11:43	IN	MSH	EMP	Hughes RFMI — nine questions to Dr Ma, 7 days	request			legal	N	7-day deadline		documents/ (RFMI)	
-R06	2026-07-31	10:46	OUT	Regulator	WC	WP "material development" letter to Matheson	offer			N	N	none		documents/correspondence-2026/2026-07-31_1046_*	
-R07	2026-08-03	07:17	IN	Regulator	WC	Matheson holding reply: "I apologise for the delay… as soon as possible this week"	holding	R05	10	operational	N	none		documents/correspondence-2026/2026-08-03_0717_*	soft commitment, slipped 11 further days
+R07	2026-08-03	07:17	IN	Regulator	WC	"Matheson holding reply: ""I apologise for the delay… as soon as possible this week"""	holding	R05	10	operational	N	none		documents/correspondence-2026/2026-08-03_0717_*	soft commitment, slipped 11 further days
 E05	2026-08-03	11:38	OUT	MSH	EMP	3 August package (Stage 1 dispute; RFMI response; CE letter)	response	E04	3	N	N	21-day clock (E2)		documents/sent-2026-08-03/	
 E06	2026-08-04	13:35	IN	MSH	EMP	Taylor Stage 1 acknowledgement (24h not achieved)	ack	E05	1	operational	N	none		documents/correspondence-2026/2026-08-04_1335_*	
 R08	2026-08-06	14:47	IN	Regulator	WC	Matheson attendance confirmation to Registry (mention)	procedural			procedural	N	Commission listing		documents/correspondence-2026/2026-08-06_1447_*	
-R09	2026-08-07		—	Regulator+MSH	WC	Mention before Dwyer IC — Matheson 17 words; Ruttan ~1 line	hearing							documents/transcripts/	"work very hard at a bundle that might satisfy you"
+R09	2026-08-07		—	Regulator+MSH	WC	Mention before Dwyer IC — Matheson 17 words; Ruttan ~1 line	hearing							documents/transcripts/	work very hard at a bundle that might satisfy you
 R10	2026-08-11		OUT	Regulator	WC	Stressor 1(a) particulars bundle served on Matheson	procedural				N	N		documents/2026-08-11_Stressor1a_*	
-R11	2026-08-14	10:28	IN	Regulator	WC	Amended List of Documents + NNPD copies delivered ("sincerely apologise on the delay")	reply	R05	21	operational	N	none	Kerstin Bednarek (2018 template)	documents/correspondence-2026/2026-08-14_1028_*	
-R12	2026-08-14		IN	Regulator	WC	WP reply: "position remains unchanged… As mentioned previously"	position	R06	14	position	Y	none		(WP letter)	
 E07	2026-08-13	15:48	IN	MSH	EMP	Harrison reply: consent and EAF	reply			operational	N	none		documents/2026-08-13_1548_*	
+R12	2026-08-14		IN	Regulator	WC	"WP reply: ""position remains unchanged… As mentioned previously"""	position	R06	14	position	Y	none		(WP letter)	
+R11	2026-08-14	10:28	IN	Regulator	WC	"Amended List of Documents + NNPD copies delivered (""sincerely apologise on the delay"")"	reply	R05	21	operational	N	none	Kerstin Bednarek (2018 template)	documents/correspondence-2026/2026-08-14_1028_*	
 R13	2026-08-28		OUT	Regulator	WC	Form 24 (303 facts) + Form 25 served	notice			N	N	r 49: deemed admission after 14 days (11 Sep)		drafts/out/FORM24_SERVED_28AUG2026_303facts.pdf	
-R14	2026-09-08	11:24	IN	Regulator	WC	Form 24/25 responses (298 admitted / 5 not / 0 denied; 14 tabs disputed) + cover letter of reservations	legal	R13	11	legal	N	met 3 days early	"Peter" (cover); pypdf (verdicts, Mon 7 Sep 16:42)	documents/ (8 Sep set); METADATA_REGISTER Part 6	
+R14	2026-09-08	11:24	IN	Regulator	WC	Form 24/25 responses (298 admitted / 5 not / 0 denied; 14 tabs disputed) + cover letter of reservations	legal	R13	11	legal	N	met 3 days early	Peter (cover); pypdf (verdicts, Mon 7 Sep 16:42)	documents/ (8 Sep set); METADATA_REGISTER Part 6	
 R15	2026-09-09		OUT	Regulator	WC	Package: footing letter; request (reply by 18 Sep; NNPD + costs if not); witness list (filed); outlines; medical schedule; Registry letter	request			N	N	18 Sep (soft, self-set)		documents/served-2026-09-09/	
+E08	2026-09-10		OUT	MSH	EMP	Information-handling email to Roberts/HR/IM, cc Corro + Petering: three instruments; 13 Jul and 13 Aug disclosures; PID s 65; asks (a)(b)(c) confirmations	request					written confirmation by Fri 18 Sep 2026		drafts/out/2026-09-10_EMAIL_2_information_handling_MSH-INJ-5795.txt	SENT STATUS UNCONFIRMED in repo; companion EMAIL_1 (LSL coding + Krishnaiah) not found in repo
 R16	2026-09-10	14:42	IN	Regulator	WC	Matheson seeks extension to Fri 25 Sep on the request only	holding	R15	1	operational	N	none		documents/correspondence-2026/2026-09-10_1442_*	replied in the direction 1-2 thread; day-one ask for the last Friday before the 30th
+E09	2026-09-18		IN?	MSH	EMP	EXPECTED: MSH reply to the information-handling email (a)(b)(c)	expected	E08	8						predict: acknowledgement 70%; substantive confirmation of (a)-(c) by 18 Sep 15%; written withdrawal of the 13 Aug statement to all recipients 10%
 R17	2026-09-25		IN?	Regulator	WC	EXPECTED: answer to R15 (thirteen tabs; Tab 31; footing; register; formula)	expected	R15							score F2.1-F2.3, E18
 R18	2026-09-30	16:00	IN?	Regulator	WC	EXPECTED: direction 3 list + direction 4 outlines (Commission date)	expected								score B4, F2.4
