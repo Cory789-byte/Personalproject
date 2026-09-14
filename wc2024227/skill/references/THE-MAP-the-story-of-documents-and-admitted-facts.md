@@ -46,3 +46,12 @@ the map runs through material they cannot dispute — their admissions, their Li
 file, their CE's letter, the Commission's file. **The map is the case; the hearing is a walk
 through it; and the other side's remaining choices are which stations to concede before the
 walk begins.**
+
+**8 · Decisional economy (added 14 Sep).** A cold reader building a case from this admitted
+record finds the decision's fact section already written: duty → conditions → occurrences →
+absences → their own reviewer's finding, each paragraph citable to an admitted number. Members,
+like everyone, follow the path of least resistance when writing; a record that lets the
+decision be assembled from admissions minimises the labour of finding for the appellant and
+maximises the labour of finding against him (every contrary finding must be built from oral
+evidence against a written admission). That asymmetry of drafting effort is itself a quiet
+force on outcomes, and this record was built to create it.
