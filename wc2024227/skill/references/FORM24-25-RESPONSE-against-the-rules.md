@@ -337,3 +337,22 @@ stripped it of function — the letter now defends six positions nobody is attac
 narrowing proposal converts her own quoted rule into the instrument that records the surrender
 of the seventh (authenticity), which was the only one her letter did not reserve because her
 Form 25 had already spent it.
+
+**§11 coda — the patient-safety firewall, and where it actually sits (Cory, 14 Sep).** Was Tab 1
+disputed because the role description powers the patient-safety case heard at the mention
+(29:17: cardiac arrest, respiratory distress; 57:52: "somebody gets killed")? On the evidence,
+the authenticity column was a provenance reflex, not tab-specific intent — and MSH itself fed
+the RD into the proceeding twice (Item 6; the RFMI attachment). **The real anti-patient-safety
+device is in the cover letter, not the Form 25:** the reservations of *characterisation and
+inference* and of *the truth of "any statement made by an officer or employee of Metro South"*
+are precisely the firewall against the 29:17 leap — they concede the words of the duty and of
+the "wrong medical teams" emails while reserving the right to say none of it establishes
+dangerous conditions. That was counsel's answer to the mention's most dangerous moment.
+**And it was breached before it was built:** ¶68 admits the misdirection occasions *occurred* —
+a world-fact the truth-of-contents reservation cannot touch by its own terms — the verdicts
+script passed it because it does not read as a contents fact; the business-records route
+(s 92) stands behind the IRS strand; and the outline then framed the whole thing as conditions,
+not characterisation, leaving the firewall guarding a leap nobody needs to make. The
+patient-safety case now rests on: an admitted duty (¶8) + admitted occurrences (¶68) + the
+employer's own department-wide warning (¶¶66–67) + the register — none of which passes through
+anything the cover letter reserved.
