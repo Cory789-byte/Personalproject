@@ -1796,3 +1796,22 @@ Numbers: conduct over 80→**83**; name method **85** (unchanged, same limit); o
 the scorecard: **the IME** — an independent psychiatrist on the 30 Sep list or a s 556 move =
 corridor; MSH-free list AND no IME move = concession (F2.5 ~55% post-30 Sep now carries the
 concede-vs-corridor split). **OUTCOME (score with the 30 Sep list + any s 556 step):** ______
+
+**E31.1 · The March sealing, verified — the shape of the corridor was set seven months ago (14 Sep, late).**
+Cory's recall upheld in substance: he sought an interim s 580 non-publication and sealing order
+over the medical exhibits himself (Form 4 stamped 27 Feb 2026, Sch B Order 9; first sought 9 Feb),
+recalled the Form 4/20 orally at the 13 Mar conference, and the file's own earlier entry records
+that the records were sealed from publication while remaining on the record for causation ("sealed,
+but still relied on"; "the Commission has already made a sealing order in this proceeding").
+Documentary gap: no March 2026 order or email in the repo — corpus has zero 2026-03 rows; ingest
+from Hotmail. What it does to the thesis: (1) the causation-only corridor is a hearing on SEALED
+medical exhibits — the only cost it ever carried for him (publication) was removed in March, MSH's
+public-forum cost untouched; (2) "weak on the merits" now stands on the file's own admitted
+material (Findings B/C admitted ¶37; their own produced record of 16 Nov 2023; s 32 covers
+aggravation; contention first appears 18 Feb 2026) — sequence only, never motive; (3) the Member
+who set that shape in March is the Member who narrowed the case to causation on 7 Aug — the
+corridor is the hearing he has been describing since March, and it is the hearing the Regulator
+would run on its own delegate's findings against it. Numbers unchanged from E31 (corridor ~33 as
+a shape; its merits are what push a rational respondent toward the exit rather than into it).
+⛔ The Feb Form 4 stays CLOSED; nothing from it re-run except the s 580 order (made) and Findings
+A/B/C as admitted contents. **OUTCOME:** ______

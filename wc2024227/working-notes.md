@@ -7563,3 +7563,15 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
   12 Sep deadline, timing); liaison probable but not needed to explain silence; ⛔ silence does
   not disambiguate concede-vs-defend. Roberts one-liner stays payroll-only, likely 15-16 Sep,
   no reply expected before the 30th.
+
+## 14 Sep 2026 (late) — the March sealing verified; Feb Form 4 rendered
+- Rendered (no text layer) the 25/27 Feb 2026 Form 4 + Sch B: Part F Order 9 = s 580 interim
+  non-publication + sealing of Exhibits A4/A5. Form 4/20 recalled orally at 13 Mar conference
+  (confirmed-record: CLOSED). File's earlier entry: records sealed but still relied on;
+  "Commission has already made a sealing order in this proceeding." Recall corroborated.
+- ⛔ Gap: zero March 2026 emails in corpus; no March order in documents/orders. Ask Cory for the
+  Hotmail March 2026 items (recall confirmation; 20 Mar Matheson email; any Registry note of the
+  s 580 order) → evidence-ingest.
+- E31.1 appended; confirmed-record TO-CONFIRM block replaced with CORROBORATED block.
+- ⛔ Feb Form 4 stays CLOSED; Ground 3 wrong (r 64D party carve-out); intimate-entry content
+  never propagated.
