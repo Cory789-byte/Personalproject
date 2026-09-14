@@ -187,3 +187,53 @@ does not, it is the emblem for the conference and for s 558(3).
 ⚠ Precision for our side: the letter is relied on as MSH's statement to the Commission of what
 does and does not exist (¶¶263–268 — admitted), never as proof that MSH's objections were
 justified. State the reliance that way and the reservation has nothing left to hold.
+
+## 9 · What the request letter of 9 September actually told them — the close read (Cory, 14 Sep)
+Beyond asking for the documents, the letter communicated five things a legal reader cannot miss.
+
+**1 · The tender plan, announced in terms.** Option (b) asks for authenticity "so that it may be
+tendered **without further proof of what it is**." That phrase is the exact function of a r 49
+document admission. He told them the documents will be tendered, told them the only issue the
+dispute creates is proof-of-what-it-is at tender, and told them the price of closing that issue
+is one line. Nothing about relevance or weight was asked for — the letter concedes those stay
+live, which is why the ask is so hard to refuse.
+
+**2 · The "Copy known to be held" column is a provenance demolition, tab by tab.** The Form 25
+rule was "from the Appellant's own records → disputed." The schedule answers with an independent
+custodian for every tab:
+- **Tab 6** (the 15 Apr 2024 directive) — *the Respondent's own amended List of Documents,
+  attachment to item 25*. They disputed the authenticity of a document their own disclosure list
+  carries.
+- **Tab 30** (the 23 Aug 2023 "What's Chloe's Hours?!" email) — MSH **and the Respondent's claim
+  file**; quoted in Review Decision 69983, which ¶70 admits.
+- **Tab 20** — the Commission's file.
+- **Tab 1** (the role description) — *Attachment 2 to MSH's own RFMI of 31 July 2026*: the
+  employer attached the same document to its request to his GP six weeks earlier. The
+  employment-track paper proves the WC-track provenance.
+- Tabs 5, 17–19, 21, 22–23, 30A — MSH, by named author and date.
+⇒ The column says: the "own records" premise is false on your own holdings, and I know where
+every copy sits across three custodians and two tracks — including inside your List and your
+claim file — better than your Form 25 did.
+
+**3 · Cost-causation, fixed in one sentence.** "Had the authenticity of the copies been admitted,
+as their contents were under the Form 24, none of these documents would need to be sought."
+Whatever burden follows — the NNPD to MSH, Commission time, costs — traces to the dispute, not
+to him. The s 558(3) record has its causation paragraph already written, in their hands, dated
+before any of it was incurred.
+
+**4 · Tab 31 asked for forensically.** Not "the spreadsheet" but the March 2024 sheet **"of the
+workbook from which it is drawn, in native format and as printed."** Native format carries the
+metadata and formulas; "the workbook from which it is drawn" pre-empts an extract being offered
+in place of the source. MSH's letter said a spreadsheet "is available"; the request defines what
+"available" must produce.
+
+**5 · Selectivity as credibility.** "No request is made in respect of fact 154 or Tab 24." One
+sentence of not-pressing tells the reader the rest is pressed deliberately — the same restraint
+signature as the Form 29 withdrawal, and it is what makes the fourteen-item schedule read as a
+list, not a net.
+
+**Net effect on the other side:** the letter is a proof map. It shows that at hearing he needs
+none of them for authenticity — the Regulator's List, the Regulator's claim file, the
+Commission's file and MSH's own service records supply it — so the dispute buys nothing except
+the record of having made it. That is what turns option (b) from a concession into the cheap
+exit, and it is why the thirteen concede.
