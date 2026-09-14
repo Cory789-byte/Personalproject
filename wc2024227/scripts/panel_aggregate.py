@@ -84,6 +84,12 @@ E25 = {"S1_documents_only": 52, "S2_matter_addressed": 19, "S3_hold_line": 9,
        "S4_concede_by_letter": 2, "S5_other_slippage": 18,
        "thirteen_conceded": 76, "register_legal": 70, "formula_absent": 71}
 
+# E28 (14 Sep, late): FINAL - v2 reweighted panel (readers cached, lenses/refuters/
+# judge re-run with E25-E27 injected). Judge's synthesis adopted.
+E28 = {"S1_documents_only": 55, "S2_matter_addressed": 17, "S3_hold_line": 6,
+       "S4_concede_by_letter": 3, "S5_other_slippage": 19,
+       "thirteen_conceded": 70, "register_legal": 68, "formula_absent": 77}
+
 def median(xs):
     s = sorted(xs); n = len(s)
     return s[n//2] if n % 2 else (s[n//2-1]+s[n//2])/2
@@ -139,13 +145,15 @@ if __name__ == "__main__":
         print(f"  E23 solo       : {brier_multi(E23, winner)}")
         print(f"  E24 panel      : {brier_multi(agg, winner)}")
         print(f"  E25 adjudicated: {brier_multi(E25, winner)}")
+        print(f"  E28 final panel: {brier_multi(E28, winner)}")
         print("BINARY BRIER:")
         for name, out in [("thirteen_conceded", thirteen),
                           ("register_legal", register),
                           ("formula_absent", formula)]:
             print(f"  {name:18s} E23 {brier_binary(E23[name],out):.4f}  "
                   f"E24 {brier_binary(agg[name],out):.4f}  "
-                  f"E25 {brier_binary(E25[name],out):.4f}")
+                  f"E25 {brier_binary(E25[name],out):.4f}  "
+                  f"E28 {brier_binary(E28[name],out):.4f}")
         sys.exit(0)
     print(json.dumps({"median": med, "trimmed_mean": {k: round(v,1) for k,v in trm.items()},
                       "final_refuter_adjusted": agg}, indent=2))

@@ -7542,3 +7542,14 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
   outline ever 32; contradiction-buildable if served 90).
 - If outlines land 30 Sep: run the disputed-tabs method on them immediately (line vs admission
   schedule) — their outline becomes the cross plan.
+
+## 14 Sep 2026 (final) — E28: reweighted panel v2, the finalised 25th
+- v2 rerun (readers cached; lenses/refuters/judge re-run with E25-E27 reweight + her verified
+  "if needed" wording). FINAL: S1 55 / S2 17 / S3 6 / S4 3 / S5 19; thirteen-by-25th 70;
+  register 68; formula absent 77. Four models pre-registered for Brier on the letter
+  (E23/E24/E25/E28 + Cory's stake E25.1 at 85).
+- E28.1 (Cory's key): "if needed" decoded — MSH engagement is 100% necessary TO DEFEND (list,
+  outlines, Tab 31, IME), so a letter resolving everything without MSH = nothing being
+  assembled = exit path. Read the 25th WITH the 30 Sep list; scoreable after the 30th.
+- Her exact words verified from source PDF: "...to enable me time to review this request and
+  if needed reach out to MSH in relation to the requested documents".

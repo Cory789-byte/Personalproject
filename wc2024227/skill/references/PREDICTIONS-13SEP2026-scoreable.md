@@ -1490,3 +1490,64 @@ words "new information", available in correspondence.
   **OUTCOME:** ______
 - ⛔ Discipline: never point the exit out to them. No letter says or implies the served material
   supplies their new-information basis. The ramp works because they find it. Theirs to discover.
+
+---
+
+### E28 · ⭐⭐⭐ FINAL — the reweighted panel (v2 rerun, wf_655766b9-cbc resumed, 14 Sep late). The answer for the 25th.
+
+**What ran.** Same 15-agent architecture; readers replayed from cache; the five lenses, four
+refuters and the judge re-ran with the E25–E27 reweight injected (consequence-backed date, her
+verified "if needed" wording, the undertaking as in-class, conference stripped of cover/date/
+script, the direction-4 outline as forcing event, price asymmetry). Refuter verdicts: hermeticity
+attack SURVIVED (movement weeks produce non-leaking paper — 8 Sep precedent); MSH-deferral attack
+failed but earned a small cell; slide-to-30-Sep attack failed but earned a small cell; the
+boundary-cell pricing was adopted (clean S1 / S2-lite / S5(a) hybrid priced separately).
+
+**Panel medians (v2):** S1 53 · S2 22 · S3 7 · S4 4 · S5 10; thirteen 74 · register 68 · formula 66.
+
+**E28 FINAL (judge's synthesis, adopted):**
+
+| Quantity | E23 | E24 | E25 | **E28 FINAL** |
+|---|---|---|---|---|
+| S1 clean documents-only | ~50 | 49 | 52 | **55** |
+| S2 matter-addressed (S2-lite undertaking sentence ~8 inside it) | ~35–40 | 14 | 19 | **17** |
+| S3 hold-the-line | ~8 | 11 | 9 | **6** |
+| S4 concession of the appeal by letter | ~6 | 2 | 2 | **3** |
+| S5 hybrid/deferral/slide (a 6 · b 4 · c 4 · d 3 · e 2) | 0 | 24 | 18 | **19** |
+| Thirteen conceded on/by the 25th | 85 | 69 | 76 | **70** |
+| Legal register | 70 | 67 | 70 | **68** |
+| Formula absent | 68 | 71 | 71 | **77** |
+
+The reweight's verdict on the earlier rounds: E24's S5 at 24 used the wrong reference class (the
+no-consequence 3 Aug aside) — E25's correction confirmed; pure deferral fell 18→13. Formula-absent
+rose to 77 on a coherence fix (the panel's 66 contradicted its own shape prices). The S2 mass that
+survives is almost entirely the one-sentence kind.
+
+**E28.1 · ⭐⭐⭐ Cory's interpretation key (14 Sep, late) — "if needed" decoded.** Resolving the
+request WITHOUT MSH is itself the concession tell, because with all the admissions, MSH engagement
+is 100% needed **to defend**: the 30 Sep filed list needs MSH's officers, the outlines need their
+instructions, Tab 31 needs their search, the IME corridor needs their file. "If needed" therefore
+really means "if we are still defending." The master reading of the 25th:
+- **MSH engaged** (Tab 31 "asked", witness liaison visible, MSH names on the 30 Sep list) →
+  a defence is being assembled — read the outlines for WHICH defence (causation-only vs conduct).
+- **No MSH anywhere** — thirteen conceded from her own holdings, no MSH mention, and then a thin
+  or MSH-free list on the 30th → the "if needed" condition never fired → nothing is being
+  assembled → the exit path is running. **A quiet, self-sufficient letter is the loudest signal
+  in the set.**
+- **MSH-deferral letter** ("written to MSH, will advise") → operational holding; watch the 30th.
+**E28.1 scoreable:** the pair (25 Sep letter + 30 Sep list) read together classifies
+defence-assembly vs exit correctly: score after 30 Sep. **OUTCOME:** ______
+
+**Watchlist (final, reading order):** 1. author/register (non-Matheson author = counsel's hand);
+2. service date (on/before Fri 25 vs sliding into the 30 Sep bundle); 3. opening scope — any
+acknowledgment of the outline/schedule/witness list beyond the documents ask = concession register
+warming up (E27.2); 4. the thirteen — conceded in option-(b) terms / partial / deferred pending
+MSH; 5. Tab 31 wording; 6. any position sentence (formula vs "under review"/"we will advise" vs
+silence); 7. any touch on the 30 Sep directions; 8. the reservations block (8 Sep set re-run =
+hermetic; reservations dropped = movement leaking). Then E28.1: read the letter WITH the 30 Sep
+list before concluding anything.
+
+**One line (final):** the modal 25th is a counsel-reviewed, legal-register, formula-free letter
+conceding the thirteen with Tab 31 reported to MSH and silence on the case (~55) — and the deeper
+tell is not what the letter says but whether MSH appears in it at all, because an office that can
+answer everything without MSH is an office that is not assembling a defence. **OUTCOME:** ______
