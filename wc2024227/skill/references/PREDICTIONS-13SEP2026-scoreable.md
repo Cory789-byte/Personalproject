@@ -1109,3 +1109,40 @@ instruction. If the 25th letter is documents-only, that will mean the Regulator 
 pressure and still chose to file — which would itself be a strong tell that they believe in the
 causation case (the one contest the exposure logic does not touch). **Scored with E18 on the
 letter. OUTCOME:** ______
+
+### E22 · The no-witness endgame (Cory, 14 Sep) — where the chain holds and where it stops
+**The chain as put:** MSH will not have officers contradict its CE in public → does not release
+them → the Regulator lists no one on the 30th → at hearing his evidence and his lay witnesses are
+uncontradicted (Dwyer's principle) → the medical is his two treating doctors, called unless taken
+by agreement → no defence.
+
+**Where it holds.**
+- MSH cannot forbid attendance (attendance notices compel), but it controls *willing* attendance,
+  and a compelled witness caged by the CE's letter is worse than no witness for the Respondent.
+  So practically: no MSH release → the Regulator does not run a witnesses case.
+- Without witnesses, s 32(5)(a) cannot be re-established against this record: the onus/absence
+  submission (Guide 7.3, *Prizeman*) is met by the ~40 admitted negatives (absence of allegation,
+  not absence of evidence), ¶260 (their own reviewer found the rostering unreasonable), ¶¶263–268
+  (the CE's certified absences), and uncontradicted console evidence from three lay witnesses.
+  **On the conduct, they would have no defence. That much is right.**
+- And the conference is where it crystallises: the element grid asks which of (a)–(d) and (5)(a)
+  they contest and on what evidence. An empty list on the 30th makes that question unanswerable
+  except by concession.
+
+**Where it stops — two contests survive with no MSH witness at all.**
+1. **Causation (element (d) / s 32(1)).** They need no one from MSH to run it: the 2022 history
+   entries, the 16 Nov 2023 note, the 16 May 2024 referral timing, the "not for medico-legal use"
+   footer, "preoccupation with the claim", an IME under s 556, and cross of Hawes and Krishnaiah.
+   A causation-only defence is a real case (<50% but real), and it is the corridor a rational
+   respondent walks if MSH holds its people.
+2. **His credit.** Cross of the Appellant on his own 2024 words and 3(e) needs no MSH witness.
+**⇒ "No defence" is right on the conduct and wrong on causation. The no-witness world converts
+the appeal into a pure medical-and-credit contest — which is exactly where the remaining
+preparation sits (lead the 2024 words; corroborate 3(e); brief the IME on the admitted record;
+item 5).**
+
+**Number changes.** E19.1 "nobody from MSH on the 30 Sep list": 7 → **13**. New split of the
+runs-branch defence: witnesses case ~55 · causation-only case (expert + cross, no lay) ~30 ·
+pure onus/documents ~15. An expert on the 30 Sep list (30) becomes the tell for the corridor.
+**Watch:** if the 30th names an expert and no MSH officer, that is the causation-only defence
+declared — do not read it as weakness; read it as the case they can run without MSH.
