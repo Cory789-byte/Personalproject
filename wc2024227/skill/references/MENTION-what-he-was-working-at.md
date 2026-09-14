@@ -230,3 +230,45 @@ acts.
 ⇒ The Form 20 said it first, on oath, in June. The outline said it first **as evidence**, in the
 right form, in September. Between them the bundle put it in order and the Form 24 put it in one
 paragraph and had it admitted piece by piece. The sentence itself was never spoken in the room.
+
+## 8 · The outline against the earlier explanations — stronger, more direct, more risk-averse, and the one line that is not
+*(Package served 9 September, not the 7th — corrected.)*
+
+| | Amended 9A (Apr 2026) / Form 20 (Jun) / the mention (Aug) | Outline (9 Sep) |
+|---|---|---|
+| **vocabulary** | "erratic physical presence", "unassessed unilateral directives", "capriciously declined", "actively suppressed", "hostile and verbally aggressive reprimand", "unilaterally removed and destroyed" | none of it. The only strong words on the page are the employer's, quoted: "removing everyone's access", "wait until either Chloe or myself are back", "we can not help patients", "many ongoing issues… wrong medical teams" |
+| **subject** | *her* — what she did to him; "the support above me was absent or unmaintained" | *the system* — "the means of correcting it… were held by others"; "what I could not fix" |
+| **proof** | assertion + documents sought by disclosure | every event tied to an admitted fact by paragraph number; his evidence confined to "what they were from the console and their effect on me" |
+| **the word Dwyer punctured** | "actively" — "I don't know if I can prove it as much" (46:10) | gone. Topic 7 says "what followed" and cites MSH's own statement that nothing followed (¶¶266–267) |
+| **the medical** | reserved by them; feared as the surprise | disclosed by him first: the 2022 history entries, the 16 May 2024 referral, "I offer no clinical or diagnostic opinion" |
+| **opinion** | contentions in the first person | none; conclusions left to the Commission |
+
+**Stronger** because nothing on the page can be denied: it is admitted, or it is his own observation
+from the console. **More direct** because the mechanism is stated in the first person as what he
+will say, premise first (topic 1 opens with the standing condition). **More risk-averse** because
+every adjective a cross-examiner could turn on him is gone, and the soft points are conceded before
+they can be put.
+
+### ⚠ The one line that is not risk-averse — topic 7, last sentence
+*"What I said on these matters is in my emails; I never said anything hostile about Ms Taylor or
+any other member of staff."*
+
+Review Decision 69983 is an admitted document (Tab 25), and the scenario model already records
+what it quotes from his own 2024 review submissions: *corruption*, a *"plot to obtain additional
+income"*, *"misuse of government funds"*, *"used her authority to withhold your payments
+maliciously"*. That is the single largest credit exposure in the case, and this sentence invites it:
+*"You wrote to the Regulator that she withheld your payments maliciously. Is that not hostile?"*
+
+**Fix — in chief, not by amendment (the served outline stands).** Lead it yourself and confine the
+sentence to what it is true of:
+- in the workplace — to her, to the team, in the Communication Book — nothing hostile: that is
+  what the emails show and what Ms Conaghan and Mr Harrison-Jones will say (their items 13 and 7);
+- in the review submission to the Regulator in 2024, he used words he would not use now, about
+  the *conduct*, at a time he was unwell and unrepresented; he does not rely on them and the
+  Second Amended 9A does not use them.
+Said first, in chief, the review-decision quotes become an already-answered point. Left for cross,
+they are the best twenty minutes the Respondent's counsel will have.
+
+**The other exposure the outline carries deliberately:** topic 2's account of 17–18 March (sixteen
+hours, four hours' travel, four hours' sleep) is his alone. Corroboration of distance and travel
+time remains on the task list; the register (Tab 31) proves the codes.
