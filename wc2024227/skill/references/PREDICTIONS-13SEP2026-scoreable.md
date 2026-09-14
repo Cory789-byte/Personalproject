@@ -1725,3 +1725,16 @@ needed; chronology + the statutory test carry the point without it. (3) Honesty 
 schedule proves the (d) case is BUILT and hard to attack, not that the finding is MADE; the
 Respondent's rational read is "we'll likely lose on (d)", which suffices to concede but is not the
 win. This is the substance under E28.7 (schedule = the reason). **OUTCOME:** ______
+
+**E29 · De-hedged run-through of the served instrument — see `THE-COMPLETE-INSTRUMENT-as-served.md`.**
+Cory's instruction: stop hedging what is known. The served material is fact (files exist,
+metadata-clean, served 9 Sep, contents fixed); only the Regulator's internal decision is inference.
+New reference file runs the whole instrument verified against the served PDFs: the 298 admissions
+(certificate of genuineness — disputes die at one question); the acts (facts 49, 66, 74-77, 81,
+182-205, 210, 211-223, 263-268, 56-68, 89-104 — proved on paper, no witness needed); the 13
+disputed tabs inert with independent holders (their List item 25, Commission file, claim file, MSH
+RFMI); the five-witness list vs the caged, named-back defence roster; element (d) closed both ways
+(clean baseline + treating doctors called; "no report prepared for the proceeding"; competing cause
+foreclosed by chronology + the "a significant" test); the Dwyer/7-Aug-mention invocation as
+immediate pressure not foundation. The one isolated inference: whether they have DECIDED — pending
+the 25 Sep letter (register) and 30 Sep list (decision).
