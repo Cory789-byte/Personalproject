@@ -162,3 +162,16 @@ call-handling as traumatic work (colour for topic 1, never pleaded); (ii) 36ED(3
 conditions-injury class always must. If a distinct PTSD were ever *clinically* diagnosed in
 future (e.g. from specific code events or caller threats), a separate claim could then engage
 36ED — a matter for the doctors, never for the litigation.
+
+**13 · Using the map lawfully — write-ups from admitted facts + clinical notes (14 Sep).**
+Both inputs are his to use: admissions are usable in THIS proceeding (r 49 — "for the
+proceeding only"), and his own clinical records are his own health information. Boundaries:
+(i) **audience decides form** — to his doctors: neutral chronology + admitted facts, no
+argument (the 5 Sep package to Dr K and the 10 Sep black/blue overlay are the models), and
+assume the Regulator sees anything a witness holds (NNPD reached Mind & Memory once already);
+(ii) to the Commission: through the proper instruments at the proper time (outline served;
+statement of evidence / submissions when directed) — no free-standing write-up is filed;
+(iii) ⛔ never outside this proceeding as "admitted" — in the employment track or any other
+forum the same propositions revert to contentions, and the r 49 label is not carried across;
+(iv) sensitive medical content going on the record engages the sealing options (s 580) when
+the time comes.
