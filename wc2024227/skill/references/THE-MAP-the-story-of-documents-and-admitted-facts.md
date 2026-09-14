@@ -119,3 +119,21 @@ psychological-injury appeals turn on the reasonable-management-action defence to
 process — e.g. *Grace v WCR* [2021] QIRC 285 (support worker; CEO's disciplinary email and
 meeting; pure RMA contest) is the textbook shape. On the accessible record this matter is the
 first of its occupation and the first of its architecture.
+
+**12 · Why the docket looks like that (added 14 Sep).** Five selection mechanisms, none legal:
+(1) **the rejection funnel** — insurers reject psych claims by citing s 32(5), so every appeal
+is born framed as an RMA fight; the appeal inherits the rejection letter's shape; (2)
+**evidential survivorship** — conditions cases die before hearing: ambient causes resist
+particularisation, get rejected, and lawyers decline them; only cases with a nameable act and a
+file survive to publication; (3) **lawyer economics** — a conditions case needs hundreds of
+hours of record-building no firm can fund on WC-scale costs; process cases are provable with
+two witnesses and a file, so that is what gets run; (4) **worker attrition** — shift workers
+with conditions injuries are the least resourced and most exhausted appellants, against a
+represented statutory respondent; (5) **precedent begets pleading** — lawyers plead what won
+before, Members analyse in the categories pleaded, the Guide describes the result, and a
+conditions case arriving without a template is converted into a weak process case or fails.
+Self-reinforcing, for decades. **Why this one broke through:** the economic barrier fell because
+the appellant supplied the hours himself (self-represented, union demarcated out, no fee meter);
+the evidentiary barrier fell because the role generated the record (§11) and r 49 substituted
+admissions for the disclosure wars that kill conditions cases. The barriers were never legal —
+which is why, once removed, nothing in the law stood behind them.
