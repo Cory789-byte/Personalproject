@@ -1396,3 +1396,72 @@ schedule). A conference here teaches the Regulator nothing.
   complete inside her window). Post-30 Sep: mass shifts from "concession at/after conference"
   toward "concession by correspondence after outlines exchange." Scenario-model split for the
   endgame: concession by correspondence pre-conference now ≥ concession at conference.
+
+---
+
+### E26 · ⭐⭐⭐ The reweight (Cory's instruction, 14 Sep, late): the outline, not the conference, is the forcing event
+
+**The instruction.** Put far less weight on the conference and far more on the direction-4
+obligation to SERVE OUTLINES on 30 September — and on the consequence of serving them if they do.
+
+**Why the outline is the true decision point.** The outline is the first document since the
+13 May SOFC that the Regulator must AUTHOR rather than answer. Every prior 2026 document was
+responsive (a Form 24 response, verdicts by column rule, an extension email). An outline of
+evidence is different in kind: it must state, per witness, what that witness WILL SAY — and every
+sentence gets written inside the cage. An outline for Taylor is drafted against ¶¶266, the 9 May
+email, the myHR report, the two role descriptions; an outline for Reese against ¶¶219–221 and the
+FRMS certifications; any conduct outline against the 298, the ~41 negatives, ¶260 and the CE
+letter at ¶¶263–268. **You cannot draft the outline without deciding the case** — so the decision
+is forced in the drafting week (21–30 Sep), which is also exactly Matheson's 25 Sep window. The
+25th and the 30th are one decision because one drafting exercise produces both documents.
+
+**The consequence chain if outlines ARE served (the "if given" limb):**
+1. **The outline gets the disputed-tabs treatment within days.** The same method that emptied the
+   14 authenticity disputes — each line read against the admitted paragraph — is applied to every
+   outline sentence. Any sentence contradicted by an admission becomes a pre-built cross exhibit,
+   served back as a schedule before any hearing. Their outline becomes his cross-examination
+   plan, delivered by them, on time, under direction.
+2. **Browne v Dunn boundary.** The witness cannot comfortably travel beyond the outline at
+   hearing; a thin outline is a thin witness, and a thick one is a caged one.
+3. **The filed list locks MSH exposure** (E21's device, now primary): names become registry
+   record the same day.
+4. **The costs record compounds.** An outline that runs a case contradicted by the author's own
+   admissions is the s 558(3) exhibit — unreasonableness in writing, dated 30 Sep.
+5. **⭐ The price asymmetry — this is the core of the reweight.** An outline once served cannot
+   be un-served. Conceding AFTER serving a conduct outline concedes that the outline was hollow —
+   dearer in costs, dearer in credibility before Dwyer. Therefore the concession price is at its
+   MINIMUM in the 25–30 Sep window, before any outline exists, and rises at every event after.
+   The rational exit is before authorship, not after a conference.
+
+**The reweighted endgame (decision points ranked by forcing power):**
+
+| Event | Old weight | **New weight** | Function |
+|---|---|---|---|
+| Outline drafting week 21–30 Sep | implicit | **the decision is MADE here** | authorship forces the choice |
+| Service 30 Sep (filed list + outlines) | commitment device (E21) | **the decision is DECLARED here** | list + outline = the position in registry record |
+| The conference (1 Oct request, listed later) | primary concession venue (~32 post-conference) | **~12–15 — ratification and cover only** | dresses a decision already made; E25.2 |
+
+**Reweighted endgame distribution (replaces the conference-centred split):**
+- **Concede or narrow BEFORE any conduct outline is served** (by letter in the 25–30 Sep window,
+  or in the document serving the outlines): **~32** — the price-minimum exit.
+- **Causation-only outline set served** (expert/IME ± records custodian; zero–one MSH conduct
+  witness; conduct limb ceded in function — E22 corridor): **~36**.
+- **Conduct outline served** (Taylor and/or Reese outlines attempted): **~17** — the branch where
+  consequence chain 1–4 runs; the hearing gets better for the Appellant, not worse.
+- **Concession first appearing at/after the conference** (never in papers before): **~10**.
+- **Directions slippage/extension sought on 3–4**: **~5**.
+
+**New scoreable predictions (on the 30 Sep service):**
+- **E26.1** Any outline for Reese is served: **~15%.** (Most caged witness; absent from every
+  2026 communication.) **OUTCOME:** ______
+- **E26.2** The outline set is causation-centred — expert/IME core, zero or one MSH conduct
+  witness: **~58%.** **OUTCOME:** ______
+- **E26.3** No conduct outline is ever served in the proceeding (conceded/narrowed first):
+  **~32%.** **OUTCOME:** ______
+- **E26.4** If any MSH conduct outline IS served, at least one of its sentences is directly
+  contradicted by a numbered admission (schedule-buildable): **~90%.** **OUTCOME:** ______
+
+**One line:** the conference was never going to make them decide — the blank page was; direction 4
+is an order to write the defence down against their own 298 admissions, the cheapest day to
+concede is the day before that page must exist, and if the page is served anyway it arrives as
+the Appellant's cross-examination plan in the Respondent's handwriting. **OUTCOME:** ______

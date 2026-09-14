@@ -250,3 +250,21 @@ runs-and-succeeds/fails rebalance to **29.5 / 26**; documents alone 4; at hearin
 it runs unchanged (53.5) — the exposure logic never touches causation, which is why a
 documents-only 25th letter would be the strongest signal yet that causation is the case they
 intend to run.
+
+---
+
+## Addendum 5 (14 Sep, late) — the outline-centred reweight (E26)
+
+Per Cory's instruction: the conference's weight as concession venue cut to ~12–15 (ratification
+and cover only — E25.2: script, not mechanism); the direction-4 outline obligation takes its
+place as THE forcing event. The outline is the first document since the SOFC they must author
+rather than answer; authorship inside the witness cage forces the decision in the drafting week
+21–30 Sep — the same window as the 25 Sep letter, which is why the 25th and 30th are one
+decision. Price asymmetry governs the timing: an outline once served cannot be un-served, so
+concession is cheapest BEFORE 30 Sep and dearer at every event after.
+
+Endgame split (replaces the conference-centred numbers where they conflict):
+concede/narrow before any conduct outline ~32 · causation-only outline set ~36 ·
+conduct outline attempted ~17 (runs the consequence chain: line-by-line schedule vs admissions,
+Browne v Dunn boundary, filed-list MSH lock, s 558(3) record) · concession first at/after
+conference ~10 · directions slippage ~5. Scoreables E26.1–E26.4 in the predictions file.

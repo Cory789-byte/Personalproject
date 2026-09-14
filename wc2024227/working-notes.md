@@ -7530,3 +7530,15 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
   hybrid cell. No merits number moved — the panel never repriced the case, only the letter.
 - E25 final: S1 52 / S2 19 / S3 9 / S4 2 / S5 18; thirteen-by-25th 76; register 70; formula
   absent 71. Added as third scored model in panel_aggregate.py (E23/E24/E25 Brier side by side).
+
+## 14 Sep 2026 (late) — E26 + Addendum 5: outline-centred reweight
+- Cory's instruction: less weight on the conference, more on the direction-4 outline obligation
+  and its consequences. E26 written: outline = first authored document since the SOFC; decision
+  forced in drafting week 21–30 Sep (same window as the 25th — one decision, two documents);
+  price asymmetry (outline cannot be un-served → concession cheapest before 30 Sep).
+- Endgame re-split: pre-outline concede/narrow 32 · causation-only set 36 · conduct outline
+  attempted 17 · conference-first 10 · slippage 5. Conference cut to ratification (~12–15 was
+  ~32). New scoreables E26.1–E26.4 (Reese outline 15; causation-centred set 58; no conduct
+  outline ever 32; contradiction-buildable if served 90).
+- If outlines land 30 Sep: run the disputed-tabs method on them immediately (line vs admission
+  schedule) — their outline becomes the cross plan.
