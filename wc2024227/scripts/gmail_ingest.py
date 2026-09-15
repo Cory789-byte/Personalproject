@@ -91,7 +91,7 @@ def raw_attach(path, outdir):
     open(os.path.join(outdir,'_message.txt'),'w').write(f"Subject: {msg.get('Subject')}\nDate: {msg.get('Date')}\nFrom: {msg.get('From')}\nTo: {msg.get('To')}\n{'='*70}\n{strip_boiler(txt)}\n")
     for part in msg.walk():
         fn = part.get_filename()
-        if fn and part.get_content_disposition() in ('attachment','inline', None):
+        if fn and part.get_content_disposition() in ('attachment','inline', None) and not re.match(r'(?i)(image0\d+\.|ATT0\d+\.|.*\.gif$)', fn):
             payload = part.get_payload(decode=True)
             if not payload: continue
             h = hashlib.md5(payload).hexdigest()[:8]

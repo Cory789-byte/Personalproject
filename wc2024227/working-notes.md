@@ -7575,3 +7575,12 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
 - E31.1 appended; confirmed-record TO-CONFIRM block replaced with CORROBORATED block.
 - ⛔ Feb Form 4 stays CLOSED; Ground 3 wrong (r 64D party carve-out); intimate-entry content
   never propagated.
+
+## 15 Sep 2026 — ⛔ INCIDENT (fixed): identity-document image in a forward chain
+- The 6 Dec 2024 OIR Info-Releases / RTI forwards carried an inline iPhone screenshot of an
+  UNRELATED email showing an identity document. It was decoded into
+  documents/gmail-ingest-2026-09-15/attachments/2024-12-06_*/image004.png and committed+pushed
+  in the first ingest commit. Removed from the working tree, purged from branch history
+  (filter-branch over the last 3 commits, force-with-lease push), .gitignore now excludes
+  inline image0*/ATT0*/*.gif under the ingest folder. Rule going forward: raw-attach extracts
+  only non-inline, non-image attachments unless explicitly asked.
