@@ -424,6 +424,47 @@ qualification, it is not raised with anyone, and nothing is alleged about the co
 production. It is recorded because it bears on the closed-set proposition at §2 of the long-form
 read: the Respondent itself fixed the boundaries of the documentary record.
 
+**F23 · The document the Regulator confirmed at the mention is NOT one of the fourteen it later
+disputed — and that is the point. [D]**
+
+**What she confirmed, precisely.** Both her answers at 40:36 and 41:01 concern the **same document**:
+the email from Ms Reese to the Appellant of or about **15 May 2024** directing him to retract a
+routine workplace email. The bench identified it in terms — *"an email from Ms Rees to Mr Sheppard on
+or about 15 May 2024, the effect of which is purported to be a direction to retract an email that he
+has sent"* — after this exchange:
+> DWYER: *"Have you got that email?"* · MR SHEPHERD: *"**No, I do not.**"*
+> DWYER: *"Ms Matheson, have you got that email?"*
+> MS MATHESON: *"I do believe we have those, and **I do believe we've disclosed them**."*
+
+**That document is Annexure A, Tab 9A** — facts 74 to 78, including ¶76 (Ms Reese's reply of 15 May
+2024 at 6:23 pm, High importance, that his email *"did not demonstrate our iCARE2 value of Respect"*)
+and ¶77 (*"That reply of Ms Reese asked the Appellant to retract his email"*).
+
+⭐ **Tab 9A is not among the fourteen disputed tabs.** The disputed set is 1, 5, 6, 17–19, 20, 21,
+22, 23, 30, 30A and 31. **Its authenticity was admitted.** So there is no contradiction on that
+document — and the reason there is none is instructive: **it is a document they hold their own copy
+of, and where they hold their own copy they admitted.**
+
+⭐⭐⭐ **Which is exactly the request letter's premise, and one of the fourteen breaks it.**
+**Tab 6** — Ms Taylor's email to Logan Switch of 15 April 2024, 12:39 pm, *"Afterhours Oncall Process
+- Switchboard"*, contents admitted at facts 49 and 163 — has its "copy known to be held" recorded in
+the schedule as the **Respondent's own amended List of Documents, attachment to item 25**. Item 25 of
+that list reads: *"Email Appellant to WorkCover regarding after hours on call change, including
+attachment: **Email: After hours on call process**"*, 29 August 2024.
+⇒ **They disputed the authenticity of a copy of a document that sits as an attachment on their own
+list of documents.** Two others in the fourteen are of the same character: **Tab 20** is on the
+**Commission's own file** (Metro South's letter to the Commissioner of 5 June 2026), and **Tab 1** is
+the role description **Metro South served on the Appellant itself** as Attachment 2 to the Request for
+Medical Information of 31 July 2026.
+
+⇒ **The mention supplies the demonstration the request letter needs.** Asked at the bar table about a
+document they held, the Regulator said it had it and had disclosed it — and in September admitted
+that tab's authenticity. For Tab 6 they need only look at their own list. The letter of 9 September
+asks precisely that: *"produce the Regulator's or Metro South Health's copy … or confirm the
+authenticity of the copy served by reference to that copy."*
+⛔ Stated as it stands, nothing more. No allegation about the disputes is made or implied, the
+provenance rule is not characterised, and none of this goes into correspondence before the 25th.
+
 ---
 
 ## 4. What this file changes, and what it does not
