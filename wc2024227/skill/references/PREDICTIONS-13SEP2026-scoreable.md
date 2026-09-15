@@ -1887,3 +1887,21 @@ no MSH reply on anything after 8 Sep. ⛔ F9 (7–10 Sep juxtaposition) is chron
 no liaison, decides nothing between concede and defend, and is never voiced. ⛔ F11: 2026
 employment-track words are NOT in the appeal record and stay out. Numbers unchanged (E28 stands).
 **OUTCOME:** ______
+
+**E34 · The Form 29 inquiries re-read — the Regulator obtained the pre-onset leave record itself
+(Cory, 15 Sep; verified same day).** All four sealed Form 29s re-rendered. Verified: the 4 Jul 2025
+Queensland Health notice sought original AND amended payslips (with date of amendment) for the
+fortnights commencing 5 Feb, 19 Feb, 18 Mar and 1 Apr 2024, the complete 17/06/2020 8-hour agreement,
+and the payroll emails 08/04–01/07/2024; the 27 Apr 2026 notice sought the myHR leave-request
+progression for 20–27 Feb 2024 (PRN 15480560). Payslips carry leave balances ⇒ the pay inquiry was
+also a leave inquiry. Production (11 Jul 2025) is item 40 of their own amended Form 23. On the page:
+sick leave 11.78 → 6.69 → 8.61 → 3.02 → **1.25** → 2.92 hrs (28 Feb – 5 Jun 2024) while recreation
+leave accrues 46–60 hrs; unpaid carer's leave 8–9 Apr 2024; NP_Sick_Leave adjustment; fact 235
+(admitted) = 19 Mar 2024 Sick Leave SCK 7.60. ⇒ The Respondent holds an employer-sourced
+deterioration signature for the four months before onset, in the same file as its causation denial —
+a further item in the E31.2 corridor (arguing against its own material), and one more thing a
+defend-path outline has to accommodate on 30 Sep. ⛔ Handling: corroboration through the treating
+chronology only; never an attendance/performance proposition; the Sep 2025 34-occasions letter stays
+out; never pleaded as a stressor (mirror-image "fewer shifts because less available" risk);
+never in correspondence. Numbers unchanged (E28 stands) — this raises confidence in the causation
+read, it does not move the 25 Sep shape. **OUTCOME:** ______

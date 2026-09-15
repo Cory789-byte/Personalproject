@@ -229,11 +229,62 @@ the employment side is not. [A from D]**
   two dozen bodies are ingested as text; the rest are in the corpus packs or are duplicates to be
   confirmed by the overlap check.
 
+
+**F13 · The Regulator went and got the leave and pay record itself, and it has held it since
+11 July 2025. [D]** Its Form 29 to Queensland Health (filed 4 Jul 2025, sealed) sought, in its own
+words, the **original payslips** for the fortnights commencing 5 Feb, 19 Feb, 18 Mar and 1 Apr 2024;
+**"Any amended Payslips ... (including date of amendment to the Payslip)"** for the same fortnights;
+the **"Complete 8 hour shift agreement signed by Mr Cory Shepherd on or around 17/06/2020"**; and the
+payroll emails of 8 Apr – 1 Jul 2024. Its second Form 29 (27 Apr 2026) sought the **leave form for
+20–27 Feb 2024, process reference 15480560, with "screenshot(s) of the request progression over
+time"**. The production came in on 11 July 2025 and appears in the Regulator's own amended List of
+Documents (Form 23, 14 Aug 2026) at **item 40, "Notice of Non-party disclosure from Qld Health
+payroll", Samantha Christesen, 11/07/2025**. *Limit:* what a party asks for shows what it was
+checking, not what it concluded. The amended-payslip request with the date of amendment is a check
+on retrospective alteration; the myHR progression request is a check on an audit trail. Neither is
+a finding.
+
+**F14 · What that record shows on its face: sick leave consumed to near nothing in the four months
+before the onset, while recreation leave accrued untouched. [D, verified page by page]**
+From the produced payslips (`documents/disclosure-2025-07/Disclosure_witness_conferencing_QldHealth_Payroll.pdf`,
+read on the page — the file has a broken optional-content list and must not be read from the index):
+
+| Pay date | Recreation leave (hrs) | Sick leave (hrs) |
+|---|---|---|
+| 28.02.2024 | 46.16 | 11.78 |
+| 13.03.2024 | 53.44 | 6.69 |
+| 27.03.2024 | 60.72 | 8.61 |
+| 10.04.2024 | 52.00 | 3.02 |
+| 24.04.2024 | 59.29 | **1.25** |
+| 05.06.2024 | 47.88 | 2.92 |
+
+The same pages carry **unpaid** entries — `NP_Carer's_Leave` 08 and 09.04.2024 and an
+`NP_Sick_Leave – Adjustment` — and the January 2024 `Special_Leave` adjustments with an overpayment
+recovery. Fact **235** (admitted) records the Leave Takings Report entry for 19 March 2024: Leave
+Category "Sick", Type "Sick Leave", Code "SCK", 7.60 hours. **Read as a series:** sick leave falls
+from 11.78 hours to 1.25 hours — under one shift — by 24 April 2024, and is still ~2.92 hours in
+June, while recreation leave accrues and sits in the fifties. A worker drawing down sick leave to
+zero while his recreation leave accrues is not taking holidays. That is a contemporaneous,
+employer-generated deterioration signature in the four months before the 18 June 2024 onset, and it
+is **in the Regulator's own possession and on its own list**.
+
+**⛔ How this is and is not used.** It is corroboration, and it is theirs, so it need not be proved.
+It is put — if at all — as chronology through the treating evidence (Hawes, Krishnaiah), never as an
+argument of its own. It is **never** characterised as an attendance record, a performance question,
+or "struggling to attend": that is the frame MSH's 8/10 September 2025 letter (34 occasions) sets,
+that letter is post-onset, employment-track and the biggest risk document in the repo, and ⛔ **it
+stays out of WC/2024/227 entirely**. Nor is it pleaded as a stressor: the file already logs the
+mirror-image danger that a record of absence supports the Respondent's "he was rostered fewer shifts
+because he was less available" answer to the roster-disparity limb. The finding here is narrow and
+one-directional — **the Regulator holds employer-sourced evidence consistent with the injury it
+denies**, and it went looking for it itself.
+
 ---
 
 ## 4. What this file changes, and what it does not
 
-- **Changes:** three of the four corpus attachment gaps are closed; the March 2026 gap is closed;
+- **Changes:** three of the four corpus attachment gaps are closed; F13/F14 put the Regulator's own
+  Form 29 inquiries and the payroll production it obtained into the reasoning for the first time; the March 2026 gap is closed;
   the K-LM26/729 originals are in; the employment line from 5 May to 9 Sep 2026 is documented from
   originals with headers; F6/F7 give the employment track a concrete, Payroll-originated correction
   to pursue (SNP forms) that needs no argument.
