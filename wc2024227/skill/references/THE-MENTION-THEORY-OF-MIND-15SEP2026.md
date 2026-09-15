@@ -171,8 +171,9 @@ and the explanation is the admission.** The document that defeated production su
 
 ⚠ **Note r 64G(3) against what was said in the room.** The rule's **default on a 64G application is
 that each side bears its own costs**. The warning given was that a contested hearing would carry
-*"cost consequences"* because *"the health service will probably want to engage HopgoodGanim …
-and I'll allow that"*. That is the **discretionary exception**, not the default. ⛔ Nothing improper
+*"cost consequences"* because *"the health service will probably want to engage [firm name — the
+audio is rendered in the transcript as "aged ground law" and the name is NOT established] and they'll
+bring their lawyers along and I'll allow that"*. That is the **discretionary exception**, not the default. ⛔ Nothing improper
 is suggested — the tribunal may order otherwise and said so — but the risk as conveyed sat at the
 top of the range, to a litigant in person, at the moment he was being steered off the application.
 
@@ -254,3 +255,68 @@ records that every past error in this file was an inference about **why someone 
 never in a filing or a letter, and it changes no number in the model. What it changes is where the
 attention goes on 25 and 30 September: **the audience for everything said on 7 August is the party
 that must decide, by 30 September, whether it can field a case at all.**
+
+---
+
+# 8. ⛔⛔ CORRECTION — A QUOTATION I FABRICATED, AND THE ANSWER TO WHO THE COSTS WARNING WAS FOR
+
+## 8.1 The fabricated quotation [corrected 15 Sep 2026]
+Earlier today I twice quoted the bench as saying the health service would *"engage HopgoodGanim"*.
+**The transcript does not contain that name.** The audio at **31:34** is rendered:
+> *"because I'd imagine the health service will probably want to engage **aged ground law** and
+> they'll bring their lawyers along and I'll allow that"*
+
+⇒ ⛔ **I pattern-matched an unclear phrase to a firm name already in this repository and wrote it as
+a direct quotation.** That is exactly the failure the interlock protocol exists to prevent, and it is
+now corrected in both files. **The firm, if one was named, is not established.** The segment carries
+a good overall transcription score (avg_logprob −0.155) but no word-level probabilities, and ⚠ **the
+transcript is not certified** — only the certified transcript can settle what was said.
+⚠ **And the collateral risk was real:** `HOPGOODGANIM-QUESTION.md` concerns that firm's position on
+**WorkCover Queensland's** legal services panel — the insurer side, not Metro South. Importing the
+name into the bench's mouth would have connected two unrelated threads on a mis-hearing.
+
+## 8.2 ⭐ Who the costs warning was addressed to — the pronouns settle it [D]
+
+**Two different sentences, two different addressees.**
+
+**(a) To the room** [30:57]:
+> *"If that's where we're at, well, **you've got a bit of work to do down there at the bar table**."*
+Collective, about negotiating a bundle, following *"the parties need to be doing [it] as well"*.
+
+**(b) The costs passage — to the Appellant, singular, seven times** [31:01–32:00]:
+> *"if we can't reach some understanding today where **you** can be disavowed of the need to extract
+> thousands of documents … I need to decide whether **you're** entitled to do that or whether it's
+> unreasonable for **you** to require the health service … this is a complicated matter potentially
+> **if you want it to be** and then there'll be cost consequences. That's a hearing that's probably
+> going to go longer than a day because there's a lot of items in **your** list and lots of sub-items
+> in **your** list … this is going to be a big sideshow … and **if you want it, you can have it**."*
+
+⇒ **Not one second-person reference in the costs passage is to the Regulator or to Metro South.**
+The bar-table remark was to the room; **the costs warning was to him alone.**
+
+## 8.3 ⚠ What the costs rules actually provide [D, verbatim]
+
+| Provision | Text | Effect |
+|---|---|---|
+| **r 64G(3)** | *"**Unless the industrial tribunal otherwise orders, each party to an application to decide an objection must bear the party's own costs** of the application."* | ⭐ **The default on a 64G is own costs.** A non-party's legal fees in resisting are, by default, **its own** |
+| **r 64I(1)** | *"**Subject to rule 64G(3)**, the party must pay the non-party's reasonable expenses of **producing a document**."* | The Appellant's real exposure — but it is **expenses of production**, not fees of resistance, and it arises only **if production is ordered and occurs**, i.e. **only if he wins** |
+| **WCRA s 558(3)** | *"Costs of the hearing are in the appeal body's discretion, except to the extent provided under a regulation."* | the substantive appeal, not the interlocutory |
+
+⇒ ⭐⭐ **The chain as delivered was: they will engage lawyers, therefore cost consequences. Under
+r 64G(3) that does not follow by default** — their fees would be their own unless the tribunal ordered
+otherwise. The Appellant's own exposure ran the other way, under r 64I, and only on success.
+⚠ **This is not a criticism.** The tribunal *may* order otherwise, and an unsuccessful applicant who
+has put a non-party to thousands of documents' work is precisely the discretionary case. The warning
+was of a **real discretionary risk, stated at the top of its range, without the default beside it**,
+to a litigant in person, at the moment he was being steered off the application.
+
+## 8.4 ⭐ And no external firm ever acted [D]
+Metro South ran the objection **in-house throughout**: Ms Ruttan, Principal Lawyer (Health Law),
+Metro South Legal Services; Ms Griffin, Director Employment Relations; Mr Thorburn serving; the
+letter signed by the Chief Executive. **No external firm appears as an actor anywhere in this
+matter.** The lawyers-and-costs scenario was hypothetical and never materialised — because the
+application was withdrawn three days later.
+
+⛔ **Handling.** None of this is raised with anyone. No costs figures go in correspondence. The
+standing rule on that firm is unchanged: **ask, never allege** — and it now has a second limb,
+**never put a name in anyone's mouth from an unclear recording.**

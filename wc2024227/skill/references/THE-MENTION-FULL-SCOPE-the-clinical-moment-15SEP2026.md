@@ -90,8 +90,9 @@ Something happened.
 
 And then, without a break, into: if this cannot be worked out today, the disclosure dispute is
 **listed for hearing**; *"the health service is going to need to call evidence to talk to their
-objections"*; *"I'd imagine the health service will probably want to engage HopgoodGanim and they'll
-bring their lawyers along and I'll allow that"*; *"and then there'll be **cost consequences**."*
+objections"*; *"I'd imagine the health service will probably want to engage [firm name unestablished —
+the transcript renders the audio as "aged ground law"] and they'll bring their lawyers along and I'll
+allow that"*; *"and then there'll be **cost consequences**."*
 
 ⇒ It triggered the sharpest procedural turn in the mention — the hearing-and-costs warning.
 ⚠⚠ **But see §3A: reading it as a single adverse event was wrong.** He had already granted the
