@@ -268,9 +268,26 @@ Earlier today I twice quoted the bench as saying the health service would *"enga
 
 ⇒ ⛔ **I pattern-matched an unclear phrase to a firm name already in this repository and wrote it as
 a direct quotation.** That is exactly the failure the interlock protocol exists to prevent, and it is
-now corrected in both files. **The firm, if one was named, is not established.** The segment carries
-a good overall transcription score (avg_logprob −0.155) but no word-level probabilities, and ⚠ **the
-transcript is not certified** — only the certified transcript can settle what was said.
+now corrected in both files. **The firm, if one was named, is not established.**
+
+⛔⛔ **CORRECTION to this paragraph, 15 Sep: it said the segment carried "no word-level
+probabilities". It does — every word in the file carries one, in the `p` field.** Reading them makes
+the point far harder than the overall score did:
+
+| Word | Confidence |
+|---|---|
+| …want to **engage** | 1.00 |
+| ⛔⛔ **aged** | ⭐⭐ **0.02** |
+| **ground** | 0.78 |
+| **law** | 0.84 |
+| and they'll bring their **lawyers** along | 0.97 – 1.00 |
+
+⇒ ⭐⭐⭐ **The model was 98% unsure of that one word while every word around it was near-certain.
+The transcript flagged its own guess, at exactly the point where a firm name would sit, and the flag
+was never read before a name was written into the bench's mouth.** This does not reopen the name —
+it closes it harder. A 0.02 rendering is not evidence of what was said; it is evidence that **the
+audio there cannot be read**. ⚠ **The transcript is not certified** — only the certified transcript
+can settle what was said.
 ⚠ **And the collateral risk was real:** `HOPGOODGANIM-QUESTION.md` concerns that firm's position on
 **WorkCover Queensland's** legal services panel — the insurer side, not Metro South. Importing the
 name into the bench's mouth would have connected two unrelated threads on a mis-hearing.

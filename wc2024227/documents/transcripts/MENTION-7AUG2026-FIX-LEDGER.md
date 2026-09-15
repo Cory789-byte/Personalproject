@@ -31,13 +31,13 @@ failure this whole exercise exists to stop, and it had happened again inside the
 
 | | Before | After |
 |---|---|---|
-| Rows in the file | 1,068 | **1,070** (two merged segments split) |
-| DWYER IC | 846 | **852** |
-| MR SHEPHERD | 219 | **209** |
+| Rows in the file | 1,068 | **1,072** (four merged segments split) |
+| DWYER IC | 846 | **853** |
+| MR SHEPHERD | 219 | **210** |
 | MS MATHESON | 3 | **9** |
-| Segments reattributed | — | ⭐ **41** |
-| Segments split into two speakers | — | **2** (863, 864) |
-| Rows where the diariser's own cluster contradicts the label | **75** | **45** |
+| Segments reattributed | — | ⭐ **44** |
+| Segments split into two speakers | — | **4** (63, 483, 863, 864) |
+| Rows where the diariser's own cluster contradicts the label | **75** | **44** |
 | Rows with no diariser cluster at all | 50 | 50 |
 
 ⇒ **Nothing but the `speaker` field changed, except at 863 and 864.** No text and no timestamp was
@@ -48,7 +48,10 @@ original rows — only 863 and 864 differ, and only because they were split.
 
 # PART 1 — THE TRANSCRIPT FIXES
 
-## 1. All 41 reattributions, in time order
+## 1. The reattributions, in time order
+
+⚠ **This table is the first 41, applied 15 September.** Three more (segs 64, 482, 483) were added the
+same day by the flip-shape audit at **Part 3**, taking the total to **44**. They are listed at §17.
 
 Generated directly from the diff. **Segment 437 is the one that matters most** and is explained in
 §2.
@@ -462,3 +465,157 @@ the appeal**, and Dwyer has said nothing about the merits.
 - ⛔⛔ **The Second Amended Form 9A remains unserved** (§11). The live 8 April 2026 pleading carries
   five false *"Admitted Fact"* tags. The fix exists at
   `drafts/out/FORM9A_SECOND_AMENDED_FOR_FILING.pdf`. **Their outlines are due 30 September.**
+
+---
+
+# PART 3 — THE FLIP-SHAPE AUDIT
+
+> **The question put on 15 September: are the reattributions a full flip of the speakers?**
+> Answered from the data, not from impression.
+
+## 17. ⭐ The answer: full flip per segment, **not** a full flip of the transcript
+
+**Per segment — yes.** Every one of the 44 is a complete reassignment: the line moves wholly from
+one mouth to another. There is no partial or hedged attribution anywhere in the file.
+
+**Across the transcript — no, and the measurements say so plainly:**
+
+| Test | Result | What it rules out |
+|---|---|---|
+| Worst 20-segment window | **7 of 20 flipped** (35%) | never a majority anywhere |
+| Worst 5-minute block | **14.7%** (40–45 min) | no wholesale inverted region |
+| Blocks with **zero** flips | **0–5, 5–10, 10–15, 20–25 min** | the first 25 minutes are almost untouched |
+| Consecutive runs flipped together | **31 runs; 25 of them a single segment** | not block drift |
+| True adjacent swap pairs (a question and its answer exchanged) | ⭐ **1** — segs 613/614 | the machine was not systematically trading turns |
+| Median length of a flipped segment | **5 words** (file median 8); **24 of 41 were ≤5 words** | it is the short-turn failure, as documented |
+
+⇒ ⭐⭐ **The error was never "the speakers are swapped". It was "a short line inside a long run went
+to whoever held the floor" — 21 of the 41 sat exactly there.** That is why the fixes are scattered
+and short, and why every long turn survived untouched (**0 conflicts in 1,068 long turns**).
+
+**But there is one true thing in the full-flip reading, and it should be held:** the flips are
+**directionally clustered by region**, which is not random noise.
+
+| Block | Flips | Direction |
+|---|---|---|
+| 15–20 min | 3 | ⭐ **all** DWYER → SHEPHERD |
+| 25–30 min | 5 | ⭐ **all** SHEPHERD → DWYER |
+| 40–45 min | 15 | fully mixed — **and the only block with a third speaker in it** |
+
+⇒ The diariser locks onto the wrong cluster for a stretch and then recovers. **40–45 minutes is the
+disordered zone** — it is where Ms Matheson speaks, and the diariser has **no Matheson cluster at
+all**, so her six segments were dealt out to the other two.
+
+## 18. ⭐⭐ The audit found three more, and two are now fixed
+
+Running the same test over the regions that were **never reviewed** turned up four candidates of
+exactly the 437 shape. Two are certain on the structural basis already used for 26 other segments —
+*a judge does not ask and answer his own question* — and are **applied**. Two turn on a sentence
+that spans a speaker change and **need confirmation**.
+
+### ✅ APPLIED — 06:39, segment 63 split and segment 64 reattributed
+
+The bench asked the question and the machine gave him the answer as well:
+
+| Was | Now |
+|---|---|
+| DWYER: *"…Do you have any questions or difficulties understanding all of that **at the moment? No, I mean, you're telling me, so I'm not experienced in it, but I just did what I understood.**"* | DWYER: *"…at the moment?"* → ⭐ **SHEPHERD: *"No, I mean, you're telling me, so I'm not experienced in it, but I just did what I understood."*** → DWYER: *"That's okay. I want to stress… I'm not being critical of you, Mr Shepherd"* |
+
+⭐ **No judge says "I'm not experienced in it".** And there is a **1.12-second silence** between
+*"moment?"* and *"No,"* — the longest gap in the passage, and the split boundary.
+⚠ **This is the Appellant's first answer of the hearing on the record**, and it was attributed to the
+bench.
+
+### ✅ APPLIED — 32:24, segment 482 reattributed and 483 split
+
+| Was | Now |
+|---|---|
+| DWYER: *"have, have you had"* → SHEPHERD: *"constructive discussions with / **them?** We have not / not like a constructive discussion"* | DWYER: *"have, have you had **constructive discussions with them?**"* → ⭐ **SHEPHERD: *"We have not, not like a constructive discussion."*** |
+
+The question had been broken across two speakers mid-clause.
+
+### ⚠ OPEN — two that need the Appellant's confirmation
+
+**(a) Segment 69, at 07:09 — ⭐⭐ the mirror image of segment 437.**
+
+> 68 **DWYER**: *"…how this impacts the efficient conduct of the proceedings."*
+> 69 **labelled MR SHEPHERD**: *"I understand, I think I understand, what you think you are trying to achieve **and I'm not**"*
+> 70 **DWYER**: *"**saying you are entirely wrong** and the thing with disclosure is that if…"*
+
+⛔ *"and I'm not"* + *"saying you are entirely wrong"* is **one clause spanning 69 into 70**. A clause
+cannot change speaker mid-way. So either **all of 69 is the bench**, or the boundary sits **inside**
+69 (*"I understand, I think I understand"* his, the rest the bench's). The cluster says DWYER at 0.64.
+
+⭐⭐ **Why this one matters more than its length.** Segment 437 — the fix that changed the meaning of
+the hour — is *"I actually understand what you're getting at"*, and the error there ran **Shepherd
+→ wrongly labelled Dwyer**. Segment 69 is the same phrase family running **the other way**. If 69 is
+the bench, then the *"I understand"* register belongs to both men and 437 stops being distinctive.
+**If 69 is his, he said it twice — at minute 7 and at minute 30 — and the second time it was
+accepted.** ⛔ Not resolvable from the machine. It needs the man who was in the room.
+
+**(b) Segment 72, at 07:25.**
+
+> 71 **DWYER**: *"…someone's willing to give you some documents you've asked for **and they**"*
+> 72 **labelled MR SHEPHERD**: *"**don't have any problem with it** that's fine I don't have a problem with that"*
+
+Same defect: *"and they"* + *"don't have any problem with it"* is one clause across the boundary. The
+first half must be the bench. *"I don't have a problem with that"* may be either.
+
+## 19. ⛔ A correction to the fix record itself — the word-level confidences were there all along
+
+`THE-MENTION-THEORY-OF-MIND-15SEP2026.md` §8.1 records that the *"aged ground law"* segment
+*"carries a good overall transcription score (avg_logprob −0.155) but **no word-level
+probabilities**"*. **That is wrong. Every word in the file carries one**, in the `p` field of the
+`words` array. Reading them changes what can be said about that passage:
+
+| Word | Confidence |
+|---|---|
+| …want to **engage** | 1.00 |
+| ⛔⛔ **aged** | ⭐⭐ **0.02** |
+| **ground** | 0.78 |
+| **law** | 0.84 |
+| and they'll bring their **lawyers** along | 0.97 – 1.00 |
+
+⇒ ⭐⭐⭐ **The model itself was 98% unsure of that word, and every word around it is near-certain.**
+The transcript was flagging its own guess, at the exact point where a firm name would sit, and
+nobody looked at the flag before a name was written into the bench's mouth.
+
+⛔ **This does not reopen the name — it closes it harder.** A 0.02 rendering is not evidence of what
+was said; it is evidence that **the audio there cannot be read**. The firm, if one was named, remains
+**unestablished**, and only the certified transcript can settle it.
+
+⭐ **The rule this yields:** *before relying on any phrase that carries weight, read the per-word `p`
+values.* They were free, they were in the file, and they would have stopped the error on their own.
+
+## 20. Housekeeping — the split-id scheme, made collision-proof
+
+The first two splits took ids **8631** and **8641** (parent + "1"). ⚠ That scheme **collides**: under
+it segment 63 would produce id 631, which is an existing segment. All split children are therefore
+renumbered on one rule:
+
+> ⭐ **a split child's id is `100000 + parent id`.** Any id ≥ 100000 is the second half of a split
+> segment; subtract 100000 for its parent.
+
+| Parent | Child | Time | Speaker |
+|---|---|---|---|
+| 63 | **100063** | 06:40.80 | MR SHEPHERD |
+| 483 | **100483** | 32:27.38 | MR SHEPHERD |
+| 863 | **100863** *(was 8631)* | 53:15.64 | MR SHEPHERD |
+| 864 | **100864** *(was 8641)* | 53:19.96 | DWYER IC |
+
+## 21. Where the remaining risk now sits
+
+The audit moved the residual from a guess to a map. **44 rows** still carry a cluster that
+contradicts their label — but the cluster is demonstrably unreliable, so that is an **upper bound on
+risk, not a count of errors**: seg 188 (*"What do you mean by that, Mr Sheppard?"*) is flagged, and
+is obviously the bench.
+
+| Block | Flagged rows | Reviewed? |
+|---|---|---|
+| **30–35 min** | ⚠ **9 of 81** | ⛔ **no** — and this is the block containing segment 437 |
+| **5–15 min** | ⚠ **13 of 151** | ⛔ **no** — it produced both fixes at §18 and both open items |
+| 40–45 min | **1 of 102** | ✅ yes — reviewed hard, now the cleanest block in the file |
+
+⇒ ⭐ **The next review, if one is done, is 5–15 minutes and 30–35 minutes.** The 5–15 block has
+already yielded two applied fixes and two open questions from a single pass, which is the highest
+error density found anywhere.

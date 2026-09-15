@@ -24,11 +24,12 @@ the floor.* All ten corrections are of exactly that kind.
 
 ## What was corrected — final, applied 15 September 2026
 
-**⭐ Forty-one segments were reattributed and two were split.** No segment is now unattributed.
+**⭐ Forty-four segments were reattributed and four were split.** No segment is now unattributed.
+**Final counts: DWYER IC 853 · MR SHEPHERD 210 · MS MATHESON 9 across 1,072 rows.**
 ⚠ **The figure was 38 here until 15 September, when it was recomputed against the data and found wrong** —
 it had been carried forward from an intermediate commit. The full verified ledger, with the reproducible
 diff that produces it, is `MENTION-7AUG2026-FIX-LEDGER.md`.
-Final counts: **DWYER IC 852 · MR SHEPHERD 209 · MS MATHESON 9** across 1,070 segments.
+⚠ *(superseded — see the line above; the flip-shape audit of 15 Sep added segs 64, 482, 483 and split 63 and 483.)*
 
 **A. The 12 September review** — 437 (30:12) DWYER → **MR SHEPHERD**, ⭐ *Certain, confirmed first-hand
 by the Appellant*; 623, 1009 → DWYER IC; 627, 628 (40:40) and 1008 → **MS MATHESON**; 908 confirmed
@@ -82,3 +83,18 @@ withdrawn 10 August, the notice to admit 303 facts served 28 August, 298 admitte
   Appellant confirmed them — **a person who was in the room outranks the machine**. **0 of 1,068 long
   turns** show any conflict, so every substantive analysis is unaffected. **Others may remain.** Any
   short interjection still has to be checked against who was asked the question before it is relied on.
+
+---
+
+## ⭐⭐ Split-segment ids
+
+A split child's id is **`100000 + parent id`**. Any id ≥ 100000 is the second half of a segment the
+diariser had merged across a speaker change; subtract 100000 for its parent. Current children:
+**100063, 100483, 100863, 100864**. ⚠ The earlier scheme (8631/8641) collided with real segment ids
+and was withdrawn.
+
+## ⭐ Read the per-word confidences before relying on a phrase
+
+Every word carries a probability in the `p` field of its `words` entry. The fabricated-quotation
+error of 15 September sat on a word the model scored at **0.02** while every word around it scored
+0.97–1.00. **The file was flagging its own guess and nobody read the flag.**

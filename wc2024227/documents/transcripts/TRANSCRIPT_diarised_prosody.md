@@ -152,8 +152,13 @@ to those stressors and how, for example, that has
 nothing to do with a number of the documents that you are seeking
 from the health service. Okay, so that's just to set the  `quieter`
 scene in terms of where we're going. Do you have any questions or difficulties understanding all of that  `flat`
-at the moment? No, I mean, you're  `quieter`
+at the moment?  `quieter`
+
+**06:40.80  MR SHEPHERD**  
+No, I mean, you're
 telling me, so I'm not experienced in it, but I just did what I understood.  `flat quieter`
+
+**06:47.30  DWYER IC**  
 That's okay. I want to stress, I'm not  `↑+4.1st`
 I'm not being critical of you, Mr Shepherd, but I also need to be very firm in terms of
 explaining these things to you so that I impress upon you the concern I have with respect to  `flat`
@@ -784,10 +789,11 @@ and can't facilitate in respect of
 disclosure for documents that you say  `flat`
 they could have or should  `quieter`
 have, have you had  `quieter`
-
-**32:24.58  MR SHEPHERD**  
 constructive discussions with
-them? We have not  `wide fast 5.6w/s`
+them?
+
+**32:27.38  MR SHEPHERD**  
+We have not  `wide fast 5.6w/s`
 not like a constructive discussion
 
             *(3.5s pause)*
