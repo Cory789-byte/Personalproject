@@ -337,6 +337,43 @@ documented non-receipt, no inference, raised with nobody.
 otherwise complete. Retrieve it. It is the order whose 13 August 2025 witness-list date was extended
 to 28 August 2025 by consent, so it also dates the first witness-list direction in the matter.
 
+**F19 · ⚠⚠ THE BIGGEST RISK IN THE 2024 FILE IS ONE SENTENCE OF HIS OWN, AND THE REGULATOR HAS IT.
+[D]** Writing to the WorkCover claims representative on **20 August 2024**, Cory said of the injury:
+*"This is a psychological effect; sustained and that has developed over time, ultimately leading me
+to seek medical attention from my doctor. **Due to this it was difficult to give an exact date of
+injury which I have mentioned to begin with.**"* That email is on WorkCover's claim file, so it is
+in the Regulator's material. It is the best sentence available to anyone attacking the pleaded onset
+of 18 June 2024, and it sits beside the payroll record at F7 (last attended 3 June 2024, sick leave
+from 7 June 2024). **The answer is documentary and it is already in evidence:** the Work Capacity
+Certificate of 1 July 2024 records the date of injury as 18 June 2024; a certificate issued
+28 June 2024; the treating records fix the period; and difficulty in nominating a single date is
+ordinary for a gradual-onset psychological injury — which is what the same sentence says. ⛔ Never
+volunteered. It is answered, if opened, by the certificates and by Krishnaiah and Hawes, whose
+evidence it is. ⛔ Nothing is put to either doctor about it.
+*Also from this thread:* the covering email for the **16 August 2024 employer response** is now
+documented — Amy Mo, 16 Aug 2024 3:07pm: *"Please see attached response from your employer. Should
+you have any further factual evidence to support your claim, please provide by 20/08/2024."* The
+response and its eight attachments remain the one outstanding corpus gap.
+*And one correction to carry:* his 2024 email says the ethical-standards complaint was closed
+*"within just 7 days"*. The verified figure is **14 days** (lodged 13 May, closed 27 May 2024).
+⛔ Never repeat the 7-day figure.
+
+**F20 · The 2025 strike-out theory is closed, quarantined, and is the reason several standing rules
+exist. [D]** The 15 September forwards include the brief sent to a prospective solicitor on
+**14 August 2025**, which argued the appeal as five "pillars" of procedural abuse. It uses
+"fraudulent", "vexatious", "bad faith" and "concealment" of the Respondent and its appeals officer;
+it quantifies costs recovery; and it asserts that the onus shifts to the Respondent, which is wrong
+(corrections ledger #10) and had to be withdrawn from a filed pleading. The theory became the
+February 2026 Form 4, which was recalled at the 13 March 2026 conference and is closed; its ground
+that the medical was unlawfully obtained fails on the r 64D(1)(a) party carve-out. The document is
+stored with a hard quarantine and is used for nothing. *Why it is in this file at all:* it dates the
+low point of the self-represented phase — the same fortnight Saines Legal ceased acting, the stay
+request went astray, and the Regulator volunteered an extension — and it measures the distance
+between that and the instrument served on 9 September 2026. One observation survives it, and only in
+neutral form: the Respondent's pleading concedes payroll discrepancies were remedied after complaint
+while denying significant underpayment. That is run as an inconsistency to be explained, stated as
+chronology.
+
 ---
 
 ## 4. What this file changes, and what it does not

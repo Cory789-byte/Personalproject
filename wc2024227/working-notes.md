@@ -7601,3 +7601,31 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
 - Still open: 16 Aug 2024 employer response + attachments (Gmail RAW fails at 15 MB; OneDrive copy
   unreadable by the connector — git route from the PC); overlap check vs corpus; remaining 2024–25
   bodies; FULLTEXT rebuild; corpus README/INDEX.
+
+## 15 Sep 2026 (later) — second Gmail batch: 2024-25 items, pushed in four chunks
+- A large second batch of forwards arrived (Saines Legal, Hughes/Taylor 2025, Matheson 2025,
+  WorkCover 2024, Rinkin, Quatrix). Pulled and pushed in chunks as requested.
+- Written: 16 Jul 2026 Calderbank rejection (origin of BOTH standing formulas); 20 Aug 2025
+  Matheson (extension mechanism offered unprompted + abeyance + r 230; consent 80 minutes later;
+  her own record that the 14 Aug 2025 stay request never reached her); 19 Mar 2025 Hughes
+  ("I received your sick cert"); 28 Mar 2025 Taylor return-to-work 31 Mar; 6/15 Aug 2025 meeting
+  invite (7 Aug 2025, Hughes + Taylor, one month before the Sep 2025 attendance letter);
+  16/20 Aug 2024 Amy Mo thread.
+- ⛔⛔ TWO QUARANTINES CREATED, both stored, neither propagated:
+  1. Feb-Mar 2025 Hughes leave chain — personal/separation content in Cory's own words to his
+     employer. Post-onset (8 months). Risk reduced by MSH's own 19 Mar 2025 record of a sick
+     certificate. Neutral chronology only extracted.
+  2. 14 Aug 2025 Rinkin Law brief — "fraudulent"/"vexatious"/"bad faith", costs numbers, and the
+     reversed-onus error. Superseded by the closed Feb 2026 Form 4. Used for nothing.
+- ⚠⚠ F19 flagged: Cory's own 20 Aug 2024 email to WorkCover says it "was difficult to give an exact
+  date of injury". On the claim file ⇒ in the Regulator's hands. Answer is the certificates + the
+  treating doctors; never volunteered; nothing suggested to the doctors.
+- ⚠ Do not repeat his 2024 "7 days" figure for the ESU closure — verified figure is 14 days.
+- ⚠ DOCUMENT GAP FOUND: Amended Further Directions Order (2), 16 Jul 2025 — attached to the
+  20 Aug 2025 Matheson email but NOT in documents/orders/. Retrieve.
+- Findings F13-F20 added to THE-REASONING-CASE. E33/E34 in PREDICTIONS. Numbers unchanged (E28).
+- ⛔ Identity-image history purge COMPLETED and pushed this session (branch rewritten, committer
+  reset, force-with-lease accepted; image004.png absent from every commit local and remote).
+- Still outstanding: the 16 Aug 2024 employer response attachments (RAW fails at ~15 MB — Cory to
+  re-forward in 2-3 attachment chunks, or push from his PC); the 13 Jul 2026 QSuper attachments;
+  ~180 further forwards in the second batch not yet pulled; overlap check; FULLTEXT rebuild.
