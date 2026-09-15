@@ -152,3 +152,105 @@ and the explanation is the admission.** The document that defeated production su
 - ⛔ **The corrections ledger's own lesson applies here more than anywhere:** every correction it
   records was an inference about **why someone did something**. This file is made entirely of that
   kind of reasoning. It is planning material and nothing else.
+
+---
+
+# 7. ⭐⭐⭐ THE STRUCTURAL READ — the listing itself is the signal (Cory, 15 Sep; data-driven)
+
+## 7.1 The rule, verbatim, and what powers existed [D]
+
+> **r 64F — Objection stays notice.** *"Service of an objection under rule 64E operates as a **stay
+> of the notice**."*
+> **r 64G(1).** *"Within **7 days** after service of an objection under rule 64E, the party may apply
+> to the industrial tribunal for a decision about the objection."*
+> **r 64G(2).** *"The industrial tribunal **may make any order it considers appropriate** including,
+> but not limited to, an order — (a) **lifting the stay**; or (b) **varying the notice**; or
+> (c) **setting aside the notice**."*
+> **r 64G(3).** *"**Unless the industrial tribunal otherwise orders, each party to an application to
+> decide an objection must bear the party's own costs** of the application."*
+
+⚠ **Note r 64G(3) against what was said in the room.** The rule's **default on a 64G application is
+that each side bears its own costs**. The warning given was that a contested hearing would carry
+*"cost consequences"* because *"the health service will probably want to engage HopgoodGanim …
+and I'll allow that"*. That is the **discretionary exception**, not the default. ⛔ Nothing improper
+is suggested — the tribunal may order otherwise and said so — but the risk as conveyed sat at the
+top of the range, to a litigant in person, at the moment he was being steered off the application.
+
+## 7.2 The clock, in days [D]
+
+| Date | Event | Gap |
+|---|---|---|
+| 22 Apr 2026 17:08 | Form 29 sealed and served on MSH | — |
+| 30 Apr | Ruttan seeks an extension of time to object | +8 |
+| 7 May | Registry, for chambers: no compliance until after the 22 May mention; Notice of Listing issued | +7 |
+| **22 May** | **Mention. ⭐ MSH did not attend. Counsel for the Regulator did not attend.** Chambers direction 1:45 pm: objections by 4:00 pm **5 June** | +15 |
+| **5 Jun 15:02** | Objection served. ⭐⭐ **r 64F — THE NOTICE IS STAYED FROM THIS MOMENT** | +14 |
+| 12 Jun | 64G application filed — **within the 7 days r 64G(1) allows** | +7 |
+| 23 Jun | Re-filed in approved form and sealed | +11 |
+| **7 Aug** | **The mention** | **+45** |
+| 10 Aug | Appellant withdraws the application and the outstanding items | +3 |
+
+⇒ **objection → mention: 63 days · application → mention: 56 days · sealed application → mention:
+45 days.**
+⇒ ⭐⭐ **The notice was stayed for 66 days and was never determined.** From service to withdrawal:
+**110 days**.
+
+## 7.3 What the numbers in the room say [D]
+
+| Speaker | Turns | Share |
+|---|---|---|
+| **DWYER IC** | 852 | **79.6%** |
+| **MR SHEPHERD** | 213 | 19.9% |
+| **MS MATHESON** | 9 | **0.8%** |
+| **MS RUTTAN (MSH — the objector)** | ~1 line | **~0.1%** |
+
+⇒ ⭐⭐⭐ **The objector and the respondent together spoke under one per cent of a hearing listed on
+the objector's own objection.** That is the single most telling measurement in the transcript.
+⇒ Under the rules Ms Matheson was **neither the objector (MSH) nor the applicant (the Appellant)**.
+She had **no formal role in the 64G at all**, and was required to attend and sat through 65 minutes.
+
+## 7.4 ⭐⭐ The inference, and it is the strongest available [A]
+
+**The 7 August listing was never going to determine the objection, and he said so** [1881]:
+> *"I can't do that in a mention this morning and **I can't do that based on the papers** — I'm going
+> to need to **hear evidence** about what's involved."*
+
+⇒ So the question is not *why didn't he close it* — on his own view, deciding a breadth-and-expense
+objection under r 64E(4)(a) needs evidence. **The question is why, holding that view since mid-June,
+he listed a mention in August rather than a hearing.** And what he then did with the time answers it:
+- **At 2 minutes 29 seconds** he set the application aside — *"I'm going to **park** the non-party
+  disclosure application for the moment. I'm going to take you back to your statement of facts and
+  contentions."*
+- **He never returned to it** except to stand it down four weeks and hand the election to the
+  Appellant.
+- **He spent the hour on the appeal** — the stressors one by one, the onus, what proves what, who
+  will be called, what is and is not relevant.
+
+⇒ ⭐⭐⭐ **The 64G was the occasion, not the subject. It was the jurisdictional hook that put both
+sides in one room and let the case-managing Member reframe the appeal.** A Commissioner cannot
+convene a hearing to tell a party how to run its case. He can list a disclosure application — and,
+having listed it, say what he said, **with the respondent present and required to listen**.
+
+⇒ **That is why Ms Matheson's presence matters more than her nine turns.** Every substantive thing
+said that morning was said **in front of the party that decides whether to defend**: the diagnosis is
+not much in dispute *"as you do in this particular case"*; causation is the only crux; uncontradicted
+evidence is likely to be accepted, said twice; *"I would have thought the regulator will call Ms
+Taylor"*; *"I would have thought the regulator would be all over that"*; and resolve it sooner
+*"for the people of Queensland who are resourcing these proceedings"*.
+⇒ **She was not left out. She was the audience.**
+
+## 7.5 ⚠ The honest alternatives, weighed
+
+| Alternative | Weight |
+|---|---|
+| **Listing congestion** — 45 days from a sealed interlocutory application to a mention is unremarkable | ⚠ **Real, and it explains the delay** — but it does not explain **the use of the time**. Parking the application at 2:29 and never returning to it is a decision made in the room, not a product of the list |
+| **He intended to decide and changed his mind** | ⚠ Weak. He states he cannot decide it on the papers or at a mention. That view is not formed in the moment; it follows from r 64E(4)(a) |
+| **Ordinary assistance to a litigant in person** | ⭐ **Strong, and not inconsistent.** It can be both: assistance to the unrepresented party **and** a reframing addressed to the represented one. The content supports both at once |
+| **Deliberate use of the hook** | ⭐⭐ **Best fit for the content**, weakest on direct proof. Nothing on the record states a purpose |
+
+⛔ **And the discipline that governs all of it.** This is planning material. The corrections ledger
+records that every past error in this file was an inference about **why someone did something**, and
+§7.4 is exactly that kind of inference. It is never said to the Commission, never to the Regulator,
+never in a filing or a letter, and it changes no number in the model. What it changes is where the
+attention goes on 25 and 30 September: **the audience for everything said on 7 August is the party
+that must decide, by 30 September, whether it can field a case at all.**
