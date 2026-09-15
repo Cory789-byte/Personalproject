@@ -320,3 +320,97 @@ application was withdrawn three days later.
 ⛔ **Handling.** None of this is raised with anyone. No costs figures go in correspondence. The
 standing rule on that firm is unchanged: **ask, never allege** — and it now has a second limb,
 **never put a name in anyone's mouth from an unclear recording.**
+
+---
+
+# 9. ⭐⭐ HOW HE DID IT — the two registers, measured (Praat F0 and intensity per segment)
+
+**Source:** per-segment prosody in `MENTION_7AUG2026_segments.jsonl` — median F0 (Hz), pitch
+variation (semitones), mean intensity (dB), intensity variation, and rate (words per second).
+⚠ **Prosody is suggestive, not probative.** Loudness varies with microphone distance and posture,
+and the transcript is not certified. What follows is a pattern, not a proof.
+
+## 9.1 The bar-table stretch — low, loud, flat, fast [D]
+
+| Time | What he says | F0 med | dB | dB variation | words/sec |
+|---|---|---|---|---|---|
+| 30:26 | *"but in the meantime, **the party should work very hard**"* | **156.8** | 69.2 | 5.63 | 4.17 |
+| 30:29 | *"at formulating a bundle of documents **that might satisfy you**"* | 151.3 | 64.1 | 9.48 | **2.44** (slow, deliberate) |
+| **30:36** | ⭐⭐ *"**I see a very comprehensive objection**"* | 138.9 | **71.2 — the loudest in the passage** | **4.23** (controlled) | 3.33 |
+| 30:44 | *"is to get working on whether they can resolve it"* | 130.2 | 69.7 | **3.67** | 4.31 |
+| 30:47 | *"**without my intervention**."* | 130.2 | 68.4 | **3.59** | 3.06 |
+| 30:49 | *"That's what the parties need to be doing **as well**."* | 132.9 | 68.4 | 5.33 | 5.05 |
+| 30:56 | *"no, you can't have it."* | 129.5 | 69.0 | 3.67 | 5.81 |
+| 30:57 | *"If that's where we're at, well, **you've got a bit of work**"* | 129.1 | **69.3** | 4.21 | **6.32 — fastest** |
+| **30:59** | ⭐ *"**to do down there at the bar table**."* | **119.3 — lowest** | 66.5 | **3.65** | 5.97 |
+
+⇒ **Low pitch + high volume + flat intensity + fast delivery = clipped declarative.** That is the
+register of instruction, not discussion. It does not invite a reply, and it did not get one.
+⇒ ⭐⭐ **"I see a very comprehensive objection" is the loudest utterance in the passage and among the
+most controlled.** Sitting between *"I don't know to what extent that's happened so far"* and
+*"what the responsibility of the parties is"*, it is not admiration. It is the observation that
+resources went into **resisting** and he wants some going into **resolving**.
+
+## 9.2 ⭐⭐⭐ The register flips at one sentence boundary [D]
+
+| | 30:59 — the bar table | 31:01 — turning back to the Appellant |
+|---|---|---|
+| **F0 median** | 119.3 Hz | **143.0 Hz** (+24 Hz, ≈ +3 semitones) |
+| **Intensity** | 66.5 dB | **62.3 dB** (quietest in the stretch) |
+| **Intensity variation** | 3.65 (flat) | **11.57** (three times more varied) |
+| **Rate** | 5.97 w/s | **1.77 w/s** (three times slower) |
+
+⇒ **Every parameter inverts at once.** Louder→softer, lower→higher, flat→varied, fast→slow.
+⇒ ⭐⭐⭐ **That is the acoustic signature of turning to a different listener.** He stops instructing
+the bar table and starts explaining to the man in front of him. **The addressee change is audible in
+the measurements, not only in the pronouns.**
+
+## 9.3 ⭐⭐⭐ And the direct put to the Regulator — 61:31, nineteen words
+
+He had spent the hour describing what the Regulator would have to do: produce documents asked of
+it; use its access to the health service; *"necessarily … need to call … people who work for the
+health service as witnesses"*; contradict what the Appellant says or see it likely accepted;
+*"I would have thought the regulator would be **all over that**"*; *"I would have thought the
+regulator **will call Ms Taylor**."*
+
+Then he gathered all of it into one question:
+
+| Time | | F0 med | pitch variation | dB | dB variation | voiced |
+|---|---|---|---|---|---|---|
+| 61:29 | *"anything arising out of all of that, **Ms Matheson**?"* | 127.9 | 2.82 | 67.2 | 5.70 | 0.85 |
+| **61:31** | ⭐⭐ *"**Have I misrepresented your role in the matter**"* | 131.1 | 3.45 | **70.1** | **2.51 — flattest** | **0.96 — no hesitation** |
+| 61:33 | *"or placed a burden on you"* | **146.7** (rises) | 1.89 | 67.4 | 8.86 | 0.69 |
+| **61:35** | *"**that you're not prepared to accept?**"* | 143.7 | **0.74 — near monotone** | 68.7 | 4.75 | 0.86 |
+| 61:37 | **MS MATHESON: "No."** | 125.5 | 0.48 | **62.1 — 8 dB quieter than the question** | 8.21 | 0.77 |
+| 61:38 | *"All right."* | **71.4 — drops an octave from 143.7** | 5.23 | 56.7 | 10.84 | 0.30 |
+
+⇒ **Loud, flat, fully voiced, ending on a near-monotone** is the register of a **formal put**, not a
+conversational check. It is framed to require an answer for the record, and it got a one-word one.
+⇒ ⭐ **The octave collapse on *"All right"* is a closure marker.** Put, taken, closed.
+⇒ Then *"And Ms. Rutland, any?"* [Ms Ruttan] at **1.49 words per second — the slowest utterance in
+the stretch**. He gave the non-party its own slow, separate invitation. Nothing is recorded in
+answer.
+
+## 9.4 ⭐⭐ What the "No" actually did
+
+The question was not courtesy. It asked the Regulator to confirm, on the record, that **(a)** he had
+described its role correctly and **(b)** the burden he had just placed on it was one it was
+**prepared to accept**.
+⇒ **She said "No" — no misrepresentation, and no unacceptable burden.**
+⇒ ⭐⭐⭐ **In one syllable the Respondent accepted, before the case-managing Member, the whole
+morning's description of what defending this appeal would require of it** — production on request,
+access to the health service, calling its people, contradicting what is said or watching it be
+accepted. **That is the sternest thing that happened to the Regulator all day, and it took nineteen
+words to set up and one to conclude.**
+⚠ **[A] as to significance.** A Commissioner routinely asks parties whether they take issue before
+moving on, and "No" is the ordinary answer. The reading above rests on **what had just been said**,
+not on the form of the question. ⛔ It is never characterised to anyone as an undertaking or a
+concession; it is an answer given at a mention and it binds nothing.
+
+## 9.5 The contrast, in one line
+**To the Appellant:** higher, softer, slower, far more varied — up to 164.5 Hz at the emphatic
+moments, 1.77–2.6 words per second, wide intensity swings. **Teaching.**
+**To the bar table and to the Regulator:** lower or flatter, louder, more controlled, faster or
+monotone. **Instructing, and putting.**
+⇒ **He ran two registers in the same hour and switched between them mid-passage. The transcript
+shows the words; the measurements show who each sentence was for.**
