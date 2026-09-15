@@ -79,6 +79,86 @@ twice, ~15:00 and 49:53):
 
 ---
 
+## 1A. ⭐⭐⭐ What he had read, what he had not, and the third requirement I missed
+
+**He had read the Appellant's case closely.** He walks it stressor by stressor: "I'm going to take
+you back to your statement of facts and contentions" [157]; "You have placed before the Commission
+... an amended statement of facts in contentions and **the amended statement of facts and
+contentions is the framework of your case**" [205]; "so I'm looking at your statement of facts and
+contentions" [642]; "under the heading, the causative stressors ... category" [707]; "and your
+application as well" [2009]; "looking at your material" [3506]. Before him were the amended Form 9A
+of 8 April 2026, the sealed Form 29 of 22 April 2026 and the rule 64G application with its
+annexures.
+
+**⭐⭐ And he had not read the Respondent's [1688]:**
+> "I haven't checked the regulator's statement of facts and contentions in any great detail."
+
+⇒ **Every assessment he gave was formed on Cory's own submitted material.** "The presence or
+existence of an injury ... is usually not so much in dispute — as you do in this particular case."
+"You may be right about all of that." "From what I can see from them it's a much shorter list."
+Those are readings of what the Appellant had put in, by a member who had been case-managing the
+matter since the directions order of 3 December 2024. They are not generic remarks and they were not
+derived from the Regulator's pleading.
+
+### The third requirement: legibility. He said it about himself, and he said it plainly [1297–1330]
+> "when it's not simple, I'll tell you right now, and I don't mind saying this, **when I'm
+> overloaded with page after page after page after page of what looks like AI generated material —
+> I switch off. I'm a human being too, Mr Shepherd, and my brain doesn't process it, and so what
+> happens amongst all of that is I miss the point. That's how I fall into error.** If you give me
+> way too much, if you talk at me for two hours about something you can tell me in two minutes, I'm
+> going to miss the point. Like any other human being."
+
+And at the close [3678]:
+> "**Fewer documents means simpler case, means easier for someone like me to understand it.**"
+
+That is not case management. That is the bench stating the mechanism by which this appellant would
+lose: not on the law, not on the facts, but by burying the point.
+
+**And on the day, it happened in front of him.** Handed two pages, he asked twice [1345, 1360]
+**"What am I looking at, Mr Sheppard?"**, then "This is the simple version, is it?" [1371], then
+"Where's the bit about Chloe Taylor's unassessed unilateral directives?" [1373] — which he could not
+find. Matheson, asked if she had seen it: "Only just now" [1350].
+
+⇒ **The Form 24 is the answer to that sentence.** One fact, one source, one date; every fact a fact
+about a document; a tab reference on each; a "Contents admitted at" column on every disputed tab.
+The verification discipline adopted for it states the test in those terms — whether the Commissioner
+can walk it from the notice and the cited tab without reading the underlying email volume.
+⭐⭐ **And the proof that it worked is not that we find it clear. It is that the opponent could walk
+it and answer 303 facts in eleven days.** An illegible notice draws blanket non-admissions. This one
+drew 298 admissions and no denials. The legibility Dwyer said he needed was demonstrated on the only
+reader whose comprehension could be measured.
+
+⚠ **Live discipline, carried forward:** "what looks like AI generated material — I switch off."
+Everything that reaches this Commission must not read that way. It applies to the outlines, to the
+1 October letter, and to anything taken to the conference.
+
+### He also forecast where the fight would land, and he was right [1684–1712]
+> "I haven't checked the regulator's statement of facts and contentions in any great detail. They
+> may wish to contradict that. They may not want to contradict that. They might say the manager sent
+> emails giving directions to staff. Here's an example of one. And **the argument might not be about
+> whether you received emails from Ms Taylor, the argument might be about whether or not they're
+> correctly categorised by you.**"
+
+⇒ That is exactly what occurred. On 8 September the Respondent admitted the documents and their
+contents and reserved relevance, admissibility, **characterisation** and truth of contents. The
+contest moved to categorisation, as he said it would. The instrument was built so that
+categorisation is the only thing left standing, and the acts footing fixes the acts beneath it.
+
+### And he set out the disclosure procedure the 9 September letter follows [3605–3636]
+> "that they can readily access through their liaison with the health service, then they should be
+> able to provide it to you. But it'll be subject to constructive discussions about — well, **what is
+> it? How do we identify it? How's it relevant?** ... And if there is a document in those discussions
+> that Ms Matheson says, well, yeah, **we know it exists, but we don't think it's relevant, you can
+> come back to me. And looking at a single document, I can tell you very quickly whether it should be
+> disclosed or shouldn't be disclosed. There's also a case of being able to identify it.**"
+
+⇒ The request letter of 9 September 2026 is that procedure, in writing: each document identified,
+what it is, why it is relevant, production or concession invited, a date set, and the non-party
+route and costs reserved behind it. It is not an application. It is the step he said comes before
+one.
+
+---
+
 ## 2. What that adds up to, which is a specification
 
 Read in sequence, the mention is not a warning. It is a list of requirements, said out loud, with
@@ -95,6 +175,9 @@ the opponent present, by a member who did not know the Appellant already held th
 | "anything material that arises from any of that ... if somebody gets sacked" | **injured 18 June 2024; dismissed 9 October 2024**, backdated to the day after the WorkCover decision |
 | "you may be right about all of that" | the substance was never the problem; **proof and materiality were**, and both were supplied |
 | "not the sort of volume of documents you're talking about" | the volume problem **dissolved** — an admitted document needs no production |
+| "**I switch off ... I miss the point. That's how I fall into error**" · "What am I looking at, Mr Shepherd?" | one fact, one source, one date, a tab on each — **legibility proved on the opponent**, who answered 303 facts in 11 days |
+| "the argument might be about whether or not they're **correctly categorised** by you" | exactly what they reserved on 8 Sep; the acts footing fixes the acts beneath the characterisation |
+| "what is it? How do we identify it? How's it relevant?" · "we know it exists but we don't think it's relevant, you can come back to me" | the **request letter of 9 September** — identification, relevance, a date, production or concession, the NNPD and costs behind it |
 
 ## 3. The inversion, stated exactly
 
