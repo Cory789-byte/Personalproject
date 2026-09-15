@@ -115,6 +115,62 @@ derived from the Regulator's pleading.
 thin on the Regulator's pleading, and without the produced documents.** That is the vantage point
 from which every assessment at the mention was given.
 
+### ⭐⭐ The attachments already before him — filed 23 June 2026, sealed, 45 pages
+
+From the covering email to the Industrial Registrar of 23 June 2026 (verbatim, verified):
+
+| # | Document | Extent |
+|---|---|---|
+| 1 | **Form 4 — Application in existing proceedings (r 64G)**, carrying **Schedule A** (items pressed and terms of production), **Annexure B** (statement of the matter in issue, item by item), **Annexure C** (extract from the Respondent's disclosure — an email of 16 May 2024) | 15 pp |
+| 2 | **Form 20 — Affidavit of Cory Lea Shepherd in support** | 15 pp |
+| 3 | **Form 21 — Certificates of Exhibit (four)** | 12 pp |
+| 3(a) | **CS-1** — email chain re the MASPER directive, **including the line manager's email of 9 May 2024** | 4 pp |
+| 3(b) | **CS-2** — **the Respondent's own disclosure to the Appellant, dated 11 June 2026** | 3 pp |
+| 3(c) | **CS-3** — correspondence 18–20 May 2024 with Together (Ms Heather Hayes) re the union delegate | 3 pp |
+| 3(d) | **CS-4** — the Appellant's application of 31 August 2023 to increase to full-time hours | 2 pp |
+| 4 | Draft Order (version 2) | 3 pp |
+
+Together with the amended Form 9A of 8 April 2026, which the application expressly relies on.
+
+**Three consequences.**
+
+**(i) Emails were already exhibited, on affidavit, before the hypothetical was put.** CS-1 is an email
+chain including a line manager's email; Annexure C is a 16 May 2024 email taken from the
+Respondent's own disclosure. So when the bench constructed *"and where are the emails
+Mr Sheppard?"* [2041], documents of exactly that class were in the application in front of him,
+certified under Form 21. **The hypothetical described a case the Appellant did not have.**
+
+**(ii) ⚠ A refinement to §1's "the assumption broke".** He was not unaware that documents existed —
+at [2883] he says, on the record, *"your case is going to be, **based on the documents that I
+understand you've got now**..."*. What he was testing was narrower: whether there were documents
+**for each particular stressor**. On the unassessed unilateral directives the answer given was "Not
+that I can recall, no" [1109]; on the communication book stressor it was **"Well, they've got
+documents for it, so..." / "Yes"** [2121–2127]. The correct statement is therefore: the bench knew
+there were documents, and was probing stressor by stressor where the proof sat. The pivot at
+[2121] remains the pivot — it is where the answer came back "yes" on the stressor he had just said
+would need no documents.
+
+**(iii) ⭐⭐ Annexure B is the ancestor of the Form 24, and the method is already visible in June.**
+Its heading is *"STATEMENT OF THE MATTER IN ISSUE, ITEM BY ITEM (RULE 64C(1))"*, and each entry ties
+an item to a pleaded stressor **and to the Respondent's own answer**:
+> "The Respondent's Form 24 response denies the pleaded facts concerning the handling of complaints
+> and delegate support (**including Response ¶¶9 and 19**)."
+> "denies the pleaded pay disparity on the footing that **'the roster was equitable' (Response ¶39**,
+> responding to Notice ¶¶42–45)."
+> "The floor of 16–19 March 2024 is **anchored to the admitted 7-hour break (Response ¶1)**."
+> "The direction of 15 May 2024 concerning the Appellant's email of that day **is admitted
+> (Response ¶21)**, its connection to the disclosures contested."
+
+⇒ **In June 2026 the case was already being built item by item off the Respondent's own admissions
+and denials.** The line of descent is: **Annexure B** (item → matter in issue → their own response
+paragraph) → **Form 24** (one fact, one source, one date, a tab on each) → **the request-letter
+schedule of 9 September** (tab → "Contents admitted at" → independent holder). Same method, three
+refinements, and the bench saw the first one.
+
+⇒ And **CS-2 is the proof of concept for the whole instrument**: the Respondent's own disclosure,
+exhibited back to the Commission on affidavit. That is precisely what the Form 24 later industrialised
+across 303 facts — use their documents, and make them own them.
+
 ### ⭐⭐ And he gave a merits assessment. One area, out of everything [3744–3790]
 > "If you're going to talk about those things that we talked about before, which was the unassessed
 > directives or whatever, **you might be on to something there.** They might have an obligation to
