@@ -856,13 +856,21 @@ on causation; the sealing "was done back in March in the submissions."
    already made a sealing order in this proceeding" (precedent for draft order 6). ⇒ Consistent
    with the recall: Form 4 recalled; records stay on the record for causation; sealed from
    publication.
-**What this is NOT yet:** a document. ⛔ No March 2026 order is in `documents/orders/`; **zero
-March 2026 emails are in the corpus** (MESSAGE_INDEX has no 2026-03 rows — the 20 Mar 2026
-Matheson email quoted in this file is likewise not in the corpus). The "sealing order made"
-statement traces to Cory's account (5 Aug 2026), now twice consistent. **Action:** obtain the
-sealed order or the Registry/Matheson correspondence of March 2026 (Hotmail sent/received,
-Mar 2026) and ingest via evidence-ingest — the recall confirmation, the 20 Mar email, and any
-record of the s 580 order.
+**✅ DOCUMENTED (15 Sep 2026, Gmail ingest):** the recall/withdrawal email EXISTS and is in the repo —
+`documents/gmail-ingest-2026-09-15/messages/2026-03-20_0414UTC_Cory_to_Registry+Matheson_UPDATE_post_s552A_conference_13Mar_RECALL_of_Form4.txt`
+(Cory → Registry + Matheson, 20 Mar 2026 14:14 AEST): *"Noting the Commissioner's indication on
+the record that the Medical Exhibit will be sealed if it comes on the record ... I accept the
+Commissioner's indication that Exhibit A5 will be sealed on the Commission's file to protect my
+privacy pursuant to s 580 of the Industrial Relations Act 2016. On this basis, I do not require a
+formal hearing on the exclusion of this evidence ... I withdraw the portions of my Form 4
+Application (filed 11 February 2026) and Supplementary Form 4 Application (filed 23 February
+2026) seeking orders for findings of statutory reprisal, referrals to external agencies, or
+personal/indemnity costs ... I no longer press for orders regarding representative removal or the
+strike-out of the Respondent's defence."* ⇒ Dwyer's sealing INDICATION was given ON THE RECORD at
+the 13 Mar 2026 conference (his own words as reported the same week, in writing, to the Registry
+and the Regulator, uncontradicted); the formal s 580 order document is still not in the repo.
+Matheson's reply the same day (17:11 AEST) is ingested alongside ("I will disclose them to you
+without the need for a Notice to Produce").
 **Effect on the analysis:** the March order fixed the SHAPE of any causation hearing seven
 months ago — medical on the record, sealed from publication, relied on by both sides. That
 removes the one cost to him of the causation-only corridor (publication of clinical detail)
