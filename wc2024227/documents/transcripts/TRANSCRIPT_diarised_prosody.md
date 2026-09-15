@@ -40,8 +40,11 @@ before any passage is quoted externally.**
 ## ⛔ SPEAKER CORRECTIONS APPLIED — 12 SEPTEMBER 2026
 The Viterbi assignment below is **inferential** and its known failure mode is a short acknowledgement
 inside a long run: the diariser gives the backchannel to whoever holds the floor. Eleven segments were
-re-examined; **ten are corrected**, one is confirmed as originally labelled. Corrections are listed here
-rather than rewritten into the body so that the original machine output remains auditable.
+re-examined; **ten are corrected**, one is confirmed as originally labelled. **APPLIED TO THE BODY 15 SEPTEMBER 2026.** The corrections below are now marked inline in the
+transcript body as well as listed here, so the body can no longer be read with the wrong speaker.
+Every inline marker names the original machine label, so the raw output remains auditable. The
+same corrections are applied in `MENTION_7AUG2026_segments.jsonl`, where each corrected segment
+carries `speaker_machine`, `speaker_corrected`, `correction_confidence` and `correction_basis`.
 
 | Seg | Time | Labelled | **Corrected to** | Basis | Confidence |
 |---|---|---|---|---|---|
@@ -382,7 +385,7 @@ Yes, Commissioner. We've disclosed all we have currently.
 **17:38.96  DWYER IC**  
 Okay. Does that include email communications from Ms Chloe Taylor to staff?
 
-**17:45.20  MR SHEPHERD**  `↑+3.3st quieter`  
+**17:45.20  ⚠ SPEAKER DISPUTED — probably MS MATHESON**  `↑+3.3st quieter`  ⚠ *labelled MR SHEPHERD by the machine (segs 231-232); a single clause split across two labels cannot be two people, and it answers a question put to Ms Matheson. Confidence: **Uncertain** — do not attribute this line to anyone without the certified transcript.*  
 There has been some emails to involve the quality of the staff, but I have to probably
 consider that.  `flat quieter`
 
@@ -723,7 +726,11 @@ yourself to a point where you're satisfied with the approach, a different approa
 or a more practical approach,  `flat`
 or a more cohesive and cooperative approach  `↑+2.3st`
 with the parties that are sitting at the other end of the table.  `flat fast 5.8w/s`
-Yeah, I actually understand what you're getting at.  `wide`
+
+> ⛔ **MR SHEPHERD** — seg 437, 30:12 — *corrected from DWYER IC, confidence **Certain**, confirmed first-hand by the Appellant who was present:*
+> **"Yeah, I actually understand what you're getting at."**  `wide`
+
+**[DWYER IC resumes]**
 If we can't get to that,  `↑+5.9st fast 6.4w/s louder`
 I'm going to schedule this disclosure dispute for a hearing.
 
@@ -1000,7 +1007,7 @@ You don't know?  `flat quieter`
 **40:36.74  MS MATHESON**  `↑+2.4st wide`  
 The request for conducting an email,
 
-**40:40.42  MR SHEPHERD**  `↑+3.2st flat quieter`  
+**40:40.42  MS MATHESON**  `↑+3.2st flat quieter`  ⛔ *corrected from MR SHEPHERD (segs 627-628, High) — answers "Ms Matheson, have you got that email?"; "we've disclosed them" is the Regulator's voice*  
 I do believe we have those,
 and I do believe we've disclosed them.  `flat quieter`
 
@@ -1569,9 +1576,11 @@ Have I misrepresented your role in the matter
 or placed a burden on you
 that you're not prepared to accept?  `flat fast 5.1w/s`
 
-**61:37.14  MR SHEPHERD**  `flat`  
+**61:37.14  MS MATHESON**  `flat`  ⛔ *corrected from MR SHEPHERD (seg 1008, High) — answers "Have I misrepresented your role in the matter…", put to Ms Matheson*  
 No.
-All right.  `↓-11.3st`
+
+> ⛔ **DWYER IC** — seg 1009, 61:38 — *corrected from MR SHEPHERD (High), immediately precedes "And Ms Rutland, any?":*
+> **"All right."**  `↓-11.3st`
 
 **61:39.12  DWYER IC**  `wide`  
 And Ms. Rutland, any?
