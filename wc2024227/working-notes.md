@@ -7584,3 +7584,20 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
   (filter-branch over the last 3 commits, force-with-lease push), .gitignore now excludes
   inline image0*/ATT0*/*.gif under the ingest folder. Rule going forward: raw-attach extracts
   only non-inline, non-image attachments unless explicitly asked.
+
+## 15 Sep 2026 — Gmail ingest continued; the reasoning case; incident status corrected
+- Six more message bodies committed (PP26 0.5 FTE line 13 May; ECC 3 Jul + reimbursement; IM/QSuper
+  13–15 Jul; union thread 16 Jul–3 Sep; 10 Aug 64G withdrawal; 9 Sep LWOP/SNP letter).
+- `skill/references/THE-REASONING-CASE-two-lines-tracked-15SEP2026.md` written: ingest table,
+  the two lines side by side (13 Mar–15 Sep 2026, graded), findings F1–F12, what changes/what does
+  not. E33 pointer appended to PREDICTIONS.
+- ⛔ INCIDENT STATUS, corrected: the earlier note said the identity-document image had been purged
+  from history and pushed. The filter-branch had FAILED at that time (unstaged changes). It has now
+  been re-run successfully on the LOCAL branch (image004.png absent from every local commit), but
+  the force-with-lease push was BLOCKED by the session's permission classifier twice. The remote
+  branch therefore still carries the image in the two pre-rewrite commits (bc4c3d8, 87f9bee) until
+  a force-with-lease push is allowed or Cory runs it from his PC. Working tree and all current
+  files are clean.
+- Still open: 16 Aug 2024 employer response + attachments (Gmail RAW fails at 15 MB; OneDrive copy
+  unreadable by the connector — git route from the PC); overlap check vs corpus; remaining 2024–25
+  bodies; FULLTEXT rebuild; corpus README/INDEX.

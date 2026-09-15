@@ -1874,3 +1874,16 @@ a self-contradicted contention with no expert on (iii), and an unwitnessed plea 
 "review its position / concede" — or s 558(1)(c) by consent at any earlier point. Numbers
 unchanged; the 30 Sep bundle now carries a second tell beside the names: **whether any expert
 report is served at all** (direction 4's own words).
+
+**E33 · The two lines tracked together — see `THE-REASONING-CASE-two-lines-tracked-15SEP2026.md`
+(15 Sep, Gmail ingest).** Findings F1–F12, graded. Verified layer: the 20 Mar 2026 recall/sealing
+email exists (indication on the record, not an order seen); Matheson's same-day "disclose ... without
+the need for a Notice to Produce"; MSH Legal's first act (30 Apr) addressed to the Registrar and
+sent to the Regulator, corrected by Griffin; the employment line's originals 26 Jun–9 Sep; Harrison
+15 Jul "does not extend"; Roberts 13 Aug "does not support"; Payroll 8 Sep "should have been booked
+as Sick No Pay"; PIARCT 7 Sep "last attended work 03/06/24, sick leave commencing 07/06/24"
+(corroborates the known last-day/onset item — treating-doctor territory, ⛔ nothing suggested);
+no MSH reply on anything after 8 Sep. ⛔ F9 (7–10 Sep juxtaposition) is chronology only — proves
+no liaison, decides nothing between concede and defend, and is never voiced. ⛔ F11: 2026
+employment-track words are NOT in the appeal record and stay out. Numbers unchanged (E28 stands).
+**OUTCOME:** ______
