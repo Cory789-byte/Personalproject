@@ -100,6 +100,52 @@ Those are readings of what the Appellant had put in, by a member who had been ca
 matter since the directions order of 3 December 2024. They are not generic remarks and they were not
 derived from the Regulator's pleading.
 
+### What was actually in front of him on 7 August, itemised
+
+| Material | Was it before him? | Evidence |
+|---|---|---|
+| Amended Form 9A / SOFC (8 Apr 2026) | **Yes, read closely** | walked stressor by stressor [157, 205, 642, 707, 899] |
+| The rule 64G application and its annexures | **Yes** | "and your application as well" [2009]; "Where do I find that in your application?" [1285] |
+| **MSH's objection K-LM26/729** (5 Jun 2026, Cridland; enquiries Ruttan) | **Yes, and he said so** | ⭐ **"I see a very comprehensive objection"** [1837]; "the health service is going to need to call evidence to talk to their objections" [1820] |
+| Review Decision 69983 (24 Oct 2024) — the decision under appeal | **On the file necessarily** (annexed to the Form 9) | ⚠ but he made **no reference to it** at the mention, and see the next row |
+| The Regulator's SOFC (13 May 2026) | **Not worked through** | ⭐ "**I haven't checked the regulator's statement of facts and contentions in any great detail**" [1688] |
+| MSH's June 2026 **production** under the Form 29 | ⚠ **Probably not** | **r 64H(1)**: the non-party produces "for inspection **by the party**", not to the Commission. The 10 Aug withdrawal letter records the produced documents "remain with the parties". He knew of it only as described to him |
+
+⇒ The shape of his knowledge: **deep on the Appellant's case, current on Metro South's resistance,
+thin on the Regulator's pleading, and without the produced documents.** That is the vantage point
+from which every assessment at the mention was given.
+
+### ⭐⭐ And he gave a merits assessment. One area, out of everything [3744–3790]
+> "If you're going to talk about those things that we talked about before, which was the unassessed
+> directives or whatever, **you might be on to something there.** They might have an obligation to
+> provide those ... it seems to me that those are going to be more about **the character of those
+> emails as opposed to whether they were actually sent or not** — so the fact that you make the
+> assertion that you were sent these emails **needs to be addressed by the regulator**, and to that
+> end **they're likely going to produce them if they haven't disclosed them already** ... that
+> particular point is **the one area I think in all of what we've been through that there might be
+> something to look at.**"
+
+Two things in that, and both came true.
+1. **He named the live ground** — the unassessed unilateral directives — as the one thing in the
+   whole case with something in it. That is the Stressor 1(a) material the particulars bundle of
+   11 August was built on.
+2. **He forecast the contest a second time: character, not authenticity.** On 8 September the
+   Respondent admitted the documents and their contents and reserved relevance, admissibility,
+   characterisation and truth of contents. Exactly that.
+
+### And what withdrawing on 10 August avoided [1861–1899]
+> "if we can't reach some understanding today ... **we're going to need to have a hearing** and I
+> need to decide whether you're entitled to do that ... **I can't do that based on the papers, I'm
+> going to need to hear evidence** about what's involved, and that's going to have **cost
+> consequences** as well, because I'd imagine **the health service will probably want to engage
+> HopgoodGanim and they'll bring their lawyers along and I'll allow that** ... and then there'll be
+> cost consequences."
+
+⇒ The alternative was a contested disclosure hearing, Metro South on evidence, its lawyers engaged
+with leave, and costs exposure — over documents. The application was withdrawn on 10 August, and the
+documents came anyway, by admission, three weeks later. ⛔ No costs numbers in correspondence, and
+the HopgoodGanim rule stands: ask, never allege.
+
 ### The third requirement: legibility. He said it about himself, and he said it plainly [1297–1330]
 > "when it's not simple, I'll tell you right now, and I don't mind saying this, **when I'm
 > overloaded with page after page after page after page of what looks like AI generated material —
