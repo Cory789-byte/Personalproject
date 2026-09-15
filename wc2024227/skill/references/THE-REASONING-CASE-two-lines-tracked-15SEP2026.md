@@ -374,6 +374,36 @@ neutral form: the Respondent's pleading concedes payroll discrepancies were reme
 while denying significant underpayment. That is run as an inconsistency to be explained, stated as
 chronology.
 
+**F21 · Confirmed by the Appellant, 15 September 2026 — four open items closed. [D]**
+1. ⭐ **No reply from Metro South on anything since 8 September 2026.** The silence now runs seven
+   days across the special-leave determination sought from the Chief Executive on 4 September, the
+   sick-no-pay leave forms Payroll asked for on 8 September, and the letter to Ms Roberts of
+   9 September. F9's juxtaposition stands as chronology only.
+2. ⭐⭐ **21 August 2026 — the Stage 2 referral was withdrawn, and only the referral.** The email is
+   in the repo at `documents/correspondence-2026/2026-08-18_to_28_Roberts_FollowUpOnEnquiries_FULL_THREAD.pdf`:
+   *"I wish to withdraw the Stage 2 grievance referral. My preference is to work through the
+   outstanding issues directly with you. **To be clear, I am withdrawing the referral only.** My
+   concerns regarding pay, the leave debited since 3 July 2026, and the adjustments contained in the
+   Employee Capability Checklist dated 3 July 2026 remain unresolved and in dispute."*
+   The 21 August agenda was: restoration of pay including the paid special leave sought 28 July;
+   recrediting of all leave debited since 3 July; implementation of the certified adjustments and
+   return to work; the flexible-working request with its decision period ending 24 August; and the
+   Stage 2 referral. The same letter corrects the medical framing: *"fitness to return to work with
+   adjustments is not my personal view. It is the certification provided by Dr Ma … completed on the
+   Health Service's own form and at the Health Service's request."*
+   ⭐⭐ **That is the third instance of one pattern: give up the mechanism, keep the substance.**
+   20 March — orders withdrawn, *"does not constitute an abandonment of the factual matters"*.
+   10 August — application withdrawn, produced documents *"remain with the parties"*.
+   21 August — referral withdrawn, *"the referral only"*, concerns expressly preserved. **All three
+   were uncontradicted.**
+3. **The Amended Further Directions Order (2) of 16 July 2025 is not being pursued** (F18 closed at
+   the Appellant's direction). It is superseded by FDO(3) and nothing turns on it.
+4. ⛔⛔ **Nothing has been sent or raised about the Second Amended Form 9A.** It remains built and
+   **unserved**, and the live pleading is still the Amended Form 9A of 8 April 2026 with the five
+   false admitted-fact tags and the clean-baseline plea. **Fifteen days remain before the
+   Respondent's outlines fall due on 30 September.** This is the open exposure at §7 of the
+   full-context scratchpad and it is unchanged.
+
 ---
 
 ## 4. What this file changes, and what it does not

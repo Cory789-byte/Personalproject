@@ -21,31 +21,33 @@ but the table was at the top of the file and the *body* still carried the machin
 The documented failure mode is: *a short acknowledgement inside a long run is given to whoever holds
 the floor.* All ten corrections are of exactly that kind.
 
-## What was corrected (applied 15 September 2026)
+## What was corrected — final, applied 15 September 2026
 
-| Seg | Time | Machine label | Corrected to | Confidence |
+**Thirty-five segments were reattributed and two were split.** No segment is now unattributed.
+Final counts: **DWYER IC 852 · MR SHEPHERD 212 · MS MATHESON 6** across 1,070 segments.
+
+**A. The ten from the 12 September review** — 437 (30:12) DWYER → **MR SHEPHERD**, ⭐ *Certain,
+confirmed first-hand by the Appellant*; 440, 620, 673, 792 → MR SHEPHERD; 623, 1009 → DWYER IC;
+627, 628 (40:40) and 1008 → **MS MATHESON**; 908 confirmed unchanged.
+
+**B. Six confirmed by the Appellant, who was present, on 15 September 2026**
+
+| Seg | Time | Was | Now | The line |
 |---|---|---|---|---|
-| **437** | 30:12 | DWYER IC | **MR SHEPHERD** | ⭐ **Certain** — confirmed first-hand by the Appellant, who was present |
-| 440 | 30:19 | DWYER IC | MR SHEPHERD | High |
-| 620 | 40:28 | DWYER IC | MR SHEPHERD | High |
-| 623 | 40:30 | MR SHEPHERD | **DWYER IC** | High |
-| 627 | 40:40 | MR SHEPHERD | **MS MATHESON** | High |
-| 628 | 40:41 | MR SHEPHERD | **MS MATHESON** | High |
-| 673 | 42:59 | DWYER IC | MR SHEPHERD | High |
-| 792 | 49:53 | DWYER IC | MR SHEPHERD | High |
-| 1008 | 61:37 | MR SHEPHERD | **MS MATHESON** | High |
-| 1009 | 61:38 | MR SHEPHERD | **DWYER IC** | High |
-| 908 | 55:53 | DWYER IC | *no change* | Confirmed |
-| 231–232 | 17:45 | MR SHEPHERD | ⚠ **DISPUTED — probably MS MATHESON** | ⚠ **Uncertain — do not attribute** |
+| 396–399 | 27:44 | MR SHEPHERD | **DWYER IC** | *"She's erratic physical presence and imposes unassessed unilateral directives."* — the bench reading the stressor aloud |
+| 231–232 | 17:45 | unattributed | **MR SHEPHERD** | *"There has been some emails to involve the quality of the staff…"* |
+| 863 | 53:14 | DWYER IC (merged) | **split** | *"holidays?"* → DWYER IC · *"There's probably a few"* → MR SHEPHERD |
+| 864 | 53:18 | DWYER IC (merged) | **split** | *"things yes."* → MR SHEPHERD · *"Well probably or is because disclosure is about what you know"* → DWYER IC |
+| 893 | 54:47 | MR SHEPHERD | **DWYER IC** | *"roster for the relevant period"* |
+| 429 | 29:37 | MR SHEPHERD | *confirmed, unchanged* | *"we're now not even contacting them by their numbers"* — **the Appellant's line** |
+| 633–634 | 41:01 | MR SHEPHERD | *confirmed, unchanged* | *"I do believe that I have received those, Commissioner, and disclosed them."* |
 
-**The corrections are written straight into the `speaker` field and the old labels are gone.** The
-data files now contain the correct attribution and nothing else — no residual machine label that a
-search could hit, and no per-segment correction metadata. The table above is the record of what was
-changed; the same table appears in `TRANSCRIPT_diarised_prosody.md` and in the corrected PDF.
+⚠ Segments 863 and 864 each contained **two speakers in one segment**. They were split and the
+boundary timestamp interpolated; the surrounding timings are unchanged.
 
-⚠ **Segs 231–232 are set to `SPEAKER UNRESOLVED`,** not to Ms Matheson. That correction is rated
-Uncertain, so the wrong label was removed without inventing a right one. Do not attribute that line
-to anyone without the certified transcript.
+**C. Nineteen resolved by question-and-answer structure** — a judge does not ask and answer his own
+question. 227, 247, 249, 537, 588, 614, 616, 706, 707, 708, 730, 779, 819 → **MR SHEPHERD**;
+375, 523, 533, 552, 554, 562, 613, 669, 671, 700, 834, 914, 919 → **DWYER IC**.
 
 ## ⛔ Seg 437 — why it matters
 
