@@ -465,6 +465,54 @@ authenticity of the copy served by reference to that copy."*
 ⛔ Stated as it stands, nothing more. No allegation about the disputes is made or implied, the
 provenance rule is not characterised, and none of this goes into correspondence before the 25th.
 
+**F24 · ⚠ The 24 July request is still only half answered, and the unanswered half is the half that
+would settle the disputed tabs. [D on the documents; [R] on the in-person request]**
+
+**What was asked (24 July 2026, 7:09 pm).** Two things: **(1)** an up-to-date list of documents
+disclosed; **(2)** copies of the Form 29 notices the Regulator had issued, ***"together with the
+documents produced in response to each"***.
+
+**What was delivered (14 August 2026, 10:28 am), verbatim:**
+> *"In regard to point 1 of your request — please see attached an amended list of documents …*
+> *In regard to point 2 of your request — please see attached copies of the Notice of Non-Party
+> Disclosure (NNPD) issued by the Regulator in relation to this matter. **The Regulator confirms
+> that it has already disclosed the documentation received from these NNPD's on 14 July 2025,
+> 22 July 2025 and 11 June 2026.**"*
+
+⇒ ⭐ **The notices were produced. The documents produced under them were not — they were
+cross-referenced to three past dates.** That is an assertion about what was disclosed, not a
+production, and **it has never been matched notice by notice against what actually arrived on those
+three dates.** The file has carried this as an open item since 12 September.
+
+⚠ **And there is reason to think the match would not close.** The general-practice notice was scoped
+**01/01/2023–01/08/2024**, and the practice **produced less than the notice required**
+(`ASHMORE-PRODUCTION-GAP.md`) — so at least one of the four notices has a known shortfall between
+what was sought and what came in.
+
+⭐⭐ **Why this matters now, and it is the sharpest point available before 25 September.** The letter
+of 9 September asks the Regulator, for each of fourteen tabs, either to **produce its own or Metro
+South's copy** or to **admit the authenticity** of the copy served. The material most likely to
+contain those copies is the very production under the four notices — which has been asserted as
+already disclosed and never itemised. ⇒ **The unanswered half of the 24 July request and the
+9 September request are the same question, fourteen months apart.**
+
+⚠ **[R] — the Appellant's account, to be verified.** After the mention, in person, he asked
+Ms Matheson for material she said she would obtain, and it has still not all come. **Nothing in this
+repository records a request between 7 and 14 August 2026** — the log runs mention (7 Aug),
+Stressor 1(a) bundle served (11 Aug), her two replies (14 Aug). The account is consistent with the
+close of the mention, where the bench told him to *"have some discussions with Ms Matheson"* and said
+*"with Miss Matheson I'm sure you will be able to achieve that"*. ⇒ **To verify: the date, the
+channel and what was asked for.** If it was oral only, it is his account and not a document; if
+anything was put in writing, it belongs in `documents/correspondence-2026/`.
+⚠ Note the file already carries a related unresolved recollection — that material was handed over
+**the day before the mention** — which nothing in the repository supports. The two may be the same
+memory. Resolve both together before either is relied on.
+
+⛔ **Handling.** This is not raised with the Regulator before the 25th, and nothing is alleged about
+the completeness of any production. If the 25 September letter does not produce or confirm the
+fourteen, the itemisation of the four notices is the natural content of the 1 October letter and of
+the second conference — put as a request, never as a complaint.
+
 ---
 
 ## 4. What this file changes, and what it does not
