@@ -124,3 +124,94 @@ full (heavy-going); the speech leaves the premise implicit and lists the consequ
 **For the box.** State the premise out loud before the consequences, every time, even when it was
 said a moment ago: *"Ms Taylor was not present and the contact list had not been updated. The
 consequence was…"* A listener without the premise hears a list. A listener with it hears a cause.
+
+---
+
+# ADDENDUM — 15 September 2026: the voice, segment by segment
+> Computed fresh from the 199 Appellant segments carrying Praat prosody in
+> `MENTION_7AUG2026_segments.jsonl` (speaker labels corrected 15 Sep). Internal; witness preparation.
+
+## A. The baseline
+**Rate 2.83 w/s (median) · pitch 136.4 Hz (median) · volume 62.2 dB · range 74–202 Hz, 1.18–9.68 w/s.**
+
+## B. ⭐⭐⭐ THE CERTAINTY SIGNATURE — fast AND low
+
+| Time | w/s | pitch | What was said |
+|---|---|---|---|
+| **56:07** | **9.68** — 3.4× baseline | **124.8** (12 Hz *below* baseline) | *"No, I have all of that."* |
+| 36:54 | 8.33 | 127.2 (below) | *"I have a copy of that."* |
+| 40:29 | 6.90 | 127.5 (below) | *"No, I do not."* |
+| 42:55 | 5.56 | 131.3 (below) | *"I don't know that."* |
+| 52:46 | 5.47 | 129.1 (below) | *"I have all the evidence for that."* |
+| 9:07 | 5.43 | 125.8 (below) | *"I do it all myself."* |
+
+⇒ ⭐⭐⭐ **When he knows, he accelerates and his pitch DROPS.** Six of the fastest utterances are
+short declaratives of possession or denial, every one below his own median pitch.
+⇒ ⭐⭐ **And it holds for knowing that he does not know:** *"I don't know that"* is delivered at
+5.56 w/s and 131 Hz — the same signature as *"I have all of that."* **Certainty about the limit of
+his knowledge sounds identical to certainty about a fact.** That is the ideal and he already does it.
+
+## C. ⛔ THE OPPOSITE SIGNATURE — hedges go UP
+
+| Rise | Words |
+|---|---|
+| +4.5 st | *"I do believe that I have received those, Commissioner"* |
+| +3.6 st | *"I do believe we have those"* |
+| +3.3 st | *"I would have to triple check to be…"* |
+| ⚠ **202.4 Hz — his highest pitch of the hour** | **[41:37] *"Correct."* at 1.43 w/s — slow** |
+
+⚠⚠ **[41:37] is the one to fix.** A single word of agreement, delivered **slowly at the very top of
+his range**. A confirmation should be his fastest, lowest utterance. Delivered that way it reads as
+agreeing while unsure. ⇒ **Rule: "Correct" and "Yes" are fast and low, or they are not said.**
+
+## D. ⚠ A THIRD MODE — fast, high and loud is pressure, not certainty
+
+| Time | w/s | pitch | dB | |
+|---|---|---|---|---|
+| 14:12 | 5.43 | **164.5** | **77.1 — loudest of the hour** | *"No, hang on a sec."* |
+| 45:56 | 5.88 | 148.7 | 70.1 | *"We didn't have one."* (after *"No, no, no, no. It's a simple question."*) |
+
+⇒ Fast **and low** is certainty. Fast **and high and loud** is pushing back while under pressure.
+**They feel the same from the inside and sound completely different from the bench.**
+
+## E. Where he laboured — and it is one place, not everywhere
+The ten slowest are **his own system and his trailing sentences**: *"So my filters were effective
+immediately"* (1.20), *"The 20 questions of my request of disclosure"* (1.65), *"So the 20…"* (1.58),
+*"constructive discussions with"* (1.21), *"Well, second union, they basically…"* (1.24).
+⇒ **He slows when explaining his own architecture, not when answering about facts.** The fix is a
+prepared sentence for each structure, not more speed.
+
+## F. ⭐⭐ THE ARC ACROSS THE HOUR — knocked back, then stronger to the end
+
+| Block | Turns | Rate | Pitch | Volume |
+|---|---|---|---|---|
+| 0–10 min | 13 | 3.20 | 134.8 | 61.3 |
+| **10–20 min** | 32 | **2.84 — slowest** | 134.5 | **59.3 — quietest** |
+| 20–30 min | 48 | 2.90 | 140.3 | 61.8 |
+| 30–40 min | 27 | 3.13 | 136.1 | 62.2 |
+| **40–50 min** | 45 | **3.24 — fastest** | 137.0 | 61.8 |
+| 50–60 min | 32 | 3.14 | 139.6 | 61.9 |
+
+⇒ ⚠ **The dip is real and it is immediately after the AI question at 9:02.** The 10–20 minute block
+is his slowest and quietest of the hour.
+⇒ ⭐⭐⭐ **And the recovery is complete.** From 30 minutes he never again drops below his opening
+rate, and **his two strongest blocks are the last two**. He finished faster than he started, after
+an hour of sustained pressure in his first hearing. **That is stamina, and it is the opposite of a
+speaker who wilts.**
+
+## G. The best stages, in order
+1. **08:36** — the relevance point. The insight that became ¶2 of the 9 September footing letter.
+2. **22:11 onward** — the table passage. Surrendered his only copy and defined his own terminology
+   from memory for four minutes. The AI question was never raised again after it.
+3. **36:54 – 40:29** — the communication-book sequence. Fast, low, certain: *"I have a copy of
+   that" · "No, I do not."*
+4. **42:42 – 42:55** — the 3.9-second pause before *"I don't have knowledge of that"*, then the
+   two-second self-correction to *"I don't know that… to a certainty."* **Best judgement of the day.**
+5. **52:46 – 56:07** — the closing document run, ending at **9.68 w/s**, the fastest utterance of the
+   hour, which disposed of Stressor 3.
+
+## H. The three rules this produces for the box
+1. **Answers are fast and low, or they wait.** His certainty signature already exists; use it.
+2. **"I'd have to check" flat and short.** The rise is what does the damage, not the hedge.
+3. **One prepared sentence per structure** (the filters, the twenty questions, the tabs) so the
+   slow patches never recur under cross.
