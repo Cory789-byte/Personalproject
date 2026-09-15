@@ -404,6 +404,26 @@ chronology.
    Respondent's outlines fall due on 30 September.** This is the open exposure at §7 of the
    full-context scratchpad and it is unchanged.
 
+**F22 · ⭐⭐ The Regulator made THREE on-record disclosure representations at the mention, and the
+third is qualified. [D — speaker attribution confirmed by the Appellant, 15 Sep 2026]**
+With the attributions settled, Ms Matheson spoke nine times on 7 August 2026, and three of those
+turns are representations about disclosure:
+
+| Time | What she said | About |
+|---|---|---|
+| **17:35** | *"Yes, Commissioner. **We've disclosed all we have currently.**"* | disclosure in the matter as a whole |
+| **40:40** | *"I do believe **we have those**, and I do believe **we've disclosed them**."* | the email the bench had just identified |
+| **41:01** | *"I do believe that **I have received those**, Commissioner, **and disclosed them**. ⚠ **I would have to triple check to be…**"* | ⭐ **the email from Ms Reese to the Appellant of or about 15 May 2024, described by the bench as "purported to be a direction to retract an email that he has sent"** |
+
+⇒ ⭐⭐ **The third is the important one.** It is specific to the 15 May 2024 retract direction — the
+document at the centre of Stressor 1 and of admitted facts 74 to 79 — and it is the only one she
+qualified. The bench accepted the qualification (*"That's okay. That's all right."*) and moved on.
+⇒ Read with the first, the Respondent told the Commission, three times in twenty-four minutes, that
+what it holds has been disclosed. ⛔ **Chronology and register only.** No inference is drawn from the
+qualification, it is not raised with anyone, and nothing is alleged about the completeness of any
+production. It is recorded because it bears on the closed-set proposition at §2 of the long-form
+read: the Respondent itself fixed the boundaries of the documentary record.
+
 ---
 
 ## 4. What this file changes, and what it does not

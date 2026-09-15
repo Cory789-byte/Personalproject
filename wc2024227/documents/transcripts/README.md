@@ -23,8 +23,8 @@ the floor.* All ten corrections are of exactly that kind.
 
 ## What was corrected — final, applied 15 September 2026
 
-**Thirty-five segments were reattributed and two were split.** No segment is now unattributed.
-Final counts: **DWYER IC 852 · MR SHEPHERD 212 · MS MATHESON 6** across 1,070 segments.
+**Thirty-eight segments were reattributed and two were split.** No segment is now unattributed.
+Final counts: **DWYER IC 852 · MR SHEPHERD 209 · MS MATHESON 9** across 1,070 segments.
 
 **A. The ten from the 12 September review** — 437 (30:12) DWYER → **MR SHEPHERD**, ⭐ *Certain,
 confirmed first-hand by the Appellant*; 440, 620, 673, 792 → MR SHEPHERD; 623, 1009 → DWYER IC;
@@ -40,7 +40,8 @@ confirmed first-hand by the Appellant*; 440, 620, 673, 792 → MR SHEPHERD; 623,
 | 864 | 53:18 | DWYER IC (merged) | **split** | *"things yes."* → MR SHEPHERD · *"Well probably or is because disclosure is about what you know"* → DWYER IC |
 | 893 | 54:47 | MR SHEPHERD | **DWYER IC** | *"roster for the relevant period"* |
 | 429 | 29:37 | MR SHEPHERD | *confirmed, unchanged* | *"we're now not even contacting them by their numbers"* — **the Appellant's line** |
-| 633–634 | 41:01 | MR SHEPHERD | *confirmed, unchanged* | *"I do believe that I have received those, Commissioner, and disclosed them."* |
+| 633–635 | 41:01 | MR SHEPHERD | **MS MATHESON** | *"I do believe that I have received those, Commissioner, and disclosed them. I would have to triple check to be…"* — 635 continues her own sentence, and the bench answers it with *"That's okay. That's all right."* |
+| 183 | 14:20 | DWYER IC | *confirmed, unchanged* | *"And I don't want you to do that now, which is what you're launching into."* |
 
 ⚠ Segments 863 and 864 each contained **two speakers in one segment**. They were split and the
 boundary timestamp interpolated; the surrounding timings are unchanged.
