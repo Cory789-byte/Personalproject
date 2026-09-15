@@ -385,7 +385,7 @@ Yes, Commissioner. We've disclosed all we have currently.
 **17:38.96  DWYER IC**  
 Okay. Does that include email communications from Ms Chloe Taylor to staff?
 
-**17:45.20  ⚠ SPEAKER DISPUTED — probably MS MATHESON**  `↑+3.3st quieter`  ⚠ *labelled MR SHEPHERD by the machine (segs 231-232); a single clause split across two labels cannot be two people, and it answers a question put to Ms Matheson. Confidence: **Uncertain** — do not attribute this line to anyone without the certified transcript.*  
+**17:45.20  SPEAKER UNRESOLVED**  `↑+3.3st quieter`  
 There has been some emails to involve the quality of the staff, but I have to probably
 consider that.  `flat quieter`
 
@@ -727,10 +727,11 @@ or a more practical approach,  `flat`
 or a more cohesive and cooperative approach  `↑+2.3st`
 with the parties that are sitting at the other end of the table.  `flat fast 5.8w/s`
 
-> ⛔ **MR SHEPHERD** — seg 437, 30:12 — *corrected from DWYER IC, confidence **Certain**, confirmed first-hand by the Appellant who was present:*
-> **"Yeah, I actually understand what you're getting at."**  `wide`
 
-**[DWYER IC resumes]**
+**30:12.98  MR SHEPHERD**  `wide`  
+Yeah, I actually understand what you're getting at.
+
+**30:13.60  DWYER IC**  
 If we can't get to that,  `↑+5.9st fast 6.4w/s louder`
 I'm going to schedule this disclosure dispute for a hearing.
 
@@ -1007,7 +1008,7 @@ You don't know?  `flat quieter`
 **40:36.74  MS MATHESON**  `↑+2.4st wide`  
 The request for conducting an email,
 
-**40:40.42  MS MATHESON**  `↑+3.2st flat quieter`  ⛔ *corrected from MR SHEPHERD (segs 627-628, High) — answers "Ms Matheson, have you got that email?"; "we've disclosed them" is the Regulator's voice*  
+**40:40.42  MS MATHESON**  `↑+3.2st flat quieter`  
 I do believe we have those,
 and I do believe we've disclosed them.  `flat quieter`
 
@@ -1576,11 +1577,11 @@ Have I misrepresented your role in the matter
 or placed a burden on you
 that you're not prepared to accept?  `flat fast 5.1w/s`
 
-**61:37.14  MS MATHESON**  `flat`  ⛔ *corrected from MR SHEPHERD (seg 1008, High) — answers "Have I misrepresented your role in the matter…", put to Ms Matheson*  
+**61:37.14  MS MATHESON**  `flat`  
 No.
 
-> ⛔ **DWYER IC** — seg 1009, 61:38 — *corrected from MR SHEPHERD (High), immediately precedes "And Ms Rutland, any?":*
-> **"All right."**  `↓-11.3st`
+**61:38.40  DWYER IC**  
+All right.  `↓-11.3st`
 
 **61:39.12  DWYER IC**  `wide`  
 And Ms. Rutland, any?

@@ -38,10 +38,14 @@ the floor.* All ten corrections are of exactly that kind.
 | 908 | 55:53 | DWYER IC | *no change* | Confirmed |
 | 231–232 | 17:45 | MR SHEPHERD | ⚠ **DISPUTED — probably MS MATHESON** | ⚠ **Uncertain — do not attribute** |
 
-Every corrected segment in the `.jsonl` carries `speaker_machine` (the original label),
-`speaker_corrected: true`, `correction_confidence` and `correction_basis`. The disputed pair carries
-`speaker_disputed: true`. **Nothing was deleted — the machine output is still recoverable from the
-`speaker_machine` field.**
+**The corrections are written straight into the `speaker` field and the old labels are gone.** The
+data files now contain the correct attribution and nothing else — no residual machine label that a
+search could hit, and no per-segment correction metadata. The table above is the record of what was
+changed; the same table appears in `TRANSCRIPT_diarised_prosody.md` and in the corrected PDF.
+
+⚠ **Segs 231–232 are set to `SPEAKER UNRESOLVED`,** not to Ms Matheson. That correction is rated
+Uncertain, so the wrong label was removed without inventing a right one. Do not attribute that line
+to anyone without the certified transcript.
 
 ## ⛔ Seg 437 — why it matters
 
@@ -62,3 +66,7 @@ withdrawn 10 August, the notice to admit 303 facts served 28 August, 298 admitte
   hallucinations — see `skill/references/TRANSCRIPT-ACCURACY-comparison.md`.
 - Residual errors are concentrated in **one- and two-word interjections and overlapping speech**.
   Long turns and question-and-answer exchanges are reliable.
+- ⚠⚠ **Only eleven segments were ever re-examined.** Across the file there are roughly **75 segments
+  where the diariser's own speaker cluster disagrees with the label**, plus ~50 with no cluster at
+  all. The ten corrections applied here are the reviewed ones. **Others may remain.** Any short
+  interjection still has to be checked against who was asked the question before it is relied on.
