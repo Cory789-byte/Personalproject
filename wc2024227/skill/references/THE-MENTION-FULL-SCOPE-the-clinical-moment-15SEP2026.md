@@ -81,9 +81,12 @@ And then, without a break, into: if this cannot be worked out today, the disclos
 objections"*; *"I'd imagine the health service will probably want to engage HopgoodGanim and they'll
 bring their lawyers along and I'll allow that"*; *"and then there'll be **cost consequences**."*
 
-⇒ ⛔ **On the record, that moment did not land as gravity. It landed as the appellant going
-off-course, and it triggered the costs warning.** The clinical content was the trigger for the
-sharpest turn in the mention.
+⇒ It triggered the sharpest procedural turn in the mention — the hearing-and-costs warning.
+⚠⚠ **But see §3A: reading it as a single adverse event was wrong.** He had already granted the
+patient-safety frame two minutes earlier, he says he understands the point thirty seconds later, he
+puts the work on the other side within a minute, and he returns to the substance four times in the
+last six minutes. The concern he expressed was about **the direction of the proceeding**, not the
+content.
 
 ### 3.5 What the record supports about the silence itself, stated carefully
 The transcript records **silence**. It does not record why, and neither reading can be proved.
@@ -103,6 +106,82 @@ the hour separating **the man** from **the filing**.
 been raised at the March conference, then by 7 August he had met it three times — in the pleading he
 read out at [738], in the conference, and now expanding orally. That would explain the speed of the
 redirect. **It is an inference from recollection and is not a fact.**
+
+---
+
+## 3A. ⭐⭐⭐ CORRECTION — the arc, not the moment (Cory, 15 Sep; accepted)
+
+The reading at §3.4 was too narrow. It treated [1786] as a single adverse event. **The transcript
+shows a registration arc that starts two minutes before the pause and runs to the end of the hour.**
+
+### (i) He had already granted the frame — two minutes BEFORE the pause
+[1649]–[1656]:
+> MR SHEPHERD: *"But I think when it's in a **patient safety environment** that they—"*
+> ⭐ **DWYER IC: "If you think it's in a patient safety environment, **you can raise that**. Anyway,
+> let's not get into the case."**
+
+⇒ ⭐⭐ **That is express permission, unprompted, before the clinical passage.** He did not reject the
+frame. He told the Appellant it was available to him and said this was not the forum. **So what he
+stopped at [1786] was not the concept — it was re-arguing the case orally at a mention, mid-way
+through a disclosure application.**
+
+### (ii) Thirty seconds after the pause, he says he has registered it
+[1810]–[1813], inside the same passage:
+> *"…or a more cohesive and cooperative approach with the parties that are sitting at the other end
+> of the table. **Yeah, I actually understand what you're getting at.**"*
+
+⇒ The concern he named was *"the direction this is going in"* — the conduct of the proceeding. Within
+half a minute he separates that from the substance and says he understands the substance.
+
+### (iii) And he immediately turns the obligation onto the other side
+[1820]–[1859]:
+> *"**the health service is going to need to call evidence to talk to their objections**, and the
+> regulator may or may not have anything to say, but in the meantime, **the party should work very
+> hard at formulating a bundle of documents that might satisfy you**. … what the responsibility of
+> the parties is when you have a disclosure dispute like this is to get working on whether they can
+> resolve it **without my intervention. That's what the parties need to be doing as well.** … If
+> that's where we're at, well, **you've got a bit of work to do down there at the bar table.**"*
+
+⇒ ⭐ *"a bundle of documents that might **satisfy you**"* — the standard he sets for their production
+is the Appellant's satisfaction. *"the parties … **as well**"* and *"**down there at the bar table**"*
+are addressed to the room, with Ruttan and Matheson in it. **This is the moment he puts work on
+them.** It arrives within one minute of the pause.
+
+### (iv) Then he returns to the substance three times, 28–33 minutes later
+| Time | What he says |
+|---|---|
+| [3465] ~57:45 | ⭐ *"**and you may be right about all of that**"* |
+| [3490]–[3496] ~58:10 | *"it's only a problem **if somebody gets sacked or somebody gets killed** or somebody, you know what I mean?"* |
+| [3748] ~62:28 | ⭐ *"you might be **on to something there**"* |
+| [3787]–[3790] ~63:07 | ⭐⭐ *"that particular point is **the one area I think in all of what we've been through that there might be something to look at**"* |
+
+⇒ **A judge who had dismissed the material does not come back to it four times.** The arc is:
+permission granted (27:33) → oral expansion (29:37) → **5.74 s** → concern about *direction*
+(29:46) → *"I actually understand what you're getting at"* (30:13) → work imposed on the other side
+(30:27–30:58) → *"you may be right"* (57:45) → *"on to something"* (62:28) → *"the one area"* (63:07).
+
+### (v) ⚠ "somebody gets killed" — the inference, weighed honestly
+**For it:** there is no death in this case, no WHS prosecution, and nothing else in the hour that
+would prompt the word; it arrives 28 minutes after misrouted emergency calls, a MET call that could
+not be located, cardiac arrest and respiratory distress; and he pairs it with *"sacked"*, which **is**
+a fact of this matter.
+**Against it:** *"sacked or killed"* is a conventional judicial shorthand for when breaches of policy
+become legally examinable — unfair dismissal and work health and safety. It is not unusual language.
+⇒ **Verdict: available, plausible, and not provable.** ⛔ It is never asserted to anyone, and it does
+not need to be — the admitted facts carry the same content without it. Recorded as an inference,
+graded [A], and left there.
+
+### (vi) What the whole shape shows
+He parked the Form 29 rather than dismissing it, told the Appellant the patient-safety frame was his
+to raise **in evidence**, told the other side to build a bundle that would satisfy him, warned that a
+contested hearing would cost, and then named the unassessed directives as the one live point. ⇒ **He
+was holding both sides to the same line: the appeal is to be run on the stressors, and if the other
+side will not produce, the Appellant is entitled to have it decided.** That is the same disposition
+the file records elsewhere as letting it run fairly without letting either side take advantage.
+
+⛔ **Unchanged by any of this:** the facts go in, the conclusion never does. What he permitted was
+raising the environment **in evidence**, not pleading dereliction or asserting harm. The served
+instrument does exactly that, and §4 below is how.
 
 ---
 
