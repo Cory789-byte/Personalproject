@@ -295,7 +295,13 @@ all 2024, so nothing in this material is presently in the appeal record.
 correspondence, never in a filing; the content is quarantined at
 `documents/gmail-ingest-2026-09-15/messages/2025-02-27_and_03-03_Hughes_leave_approvals_QUARANTINE_personal.txt`
 and is not restated in any analysis file; if the subject is opened by them, the answer is minimal
-and chronological. The only facts drawn forward are neutral chronology: the leave requests and
+and chronological. **⭐ And the risk is smaller than it first reads, on MSH's own record.** Hughes wrote on
+**19 March 2025**: *"I received your sick cert Thanks. Your roster attached ,hope you are feeling
+better see you Monday."* Taylor on 28 March 2025 asked for *"a copy of Dr Certificate, so I can
+process your requested Annual leave from the 24th March - 28th March."* So the employer's own
+contemporaneous record treats the early-2025 absence as **medically certified**, not as a personal
+matter. That is the answer to sit beside the chronology, and it comes from their documents.
+The only facts drawn forward are neutral chronology: the leave requests and
 approvals of 24 Feb – 3 Mar 2025, the return to work on 31 March 2025 with a 0700 foyer meet, the
 annual leave of 24–28 March 2025, Roberts' first appearance in the file on 27 February 2025, and
 Hughes' statement of 3 March 2025 that the roster would go to the personal email **"until my work
@@ -308,6 +314,28 @@ will advise you as soon as possible."* Both sentences reappear verbatim on 14 Au
 to the 31 July material-development letter. Neither has appeared since the 298 admissions of
 8 September. *Limit:* a formula repeated twice and then absent for five weeks is a register
 observation, not a position. The 25 September letter is where it is scored.
+
+**F17 · The appeals officer's conduct baseline runs back to August 2025, and it is consistent.
+[D]** On **20 August 2025**, told by Saines Legal that Cory was unrepresented, Matheson wrote
+unprompted: she attached the Amended Further Directions Order (2) of 16 July 2025, pointed out that
+the witness list had been due at 4pm on 13 August 2025, and set out the remedy — *"you can request
+an extension of time if needed. Simply email me the request and once I confirm the Regulator's
+consent, you then email the QIRC registry"* — with abeyance as the alternative and r 230 lapse
+spelled out. Eighty minutes later she consented to a fortnight: *"As the Respondent, I am happy to
+consent to the two week extension ... should you require more time, please do not hesitate to
+contact me."* *Why it matters:* the "safe opponent" premise at E28.3 is not an impression formed in
+2026. It is a documented pattern thirteen months old — the same officer who offered the disclosure
+shortcut on 20 March 2026 (F2) and who admitted 298 facts on 8 September 2026. *Limit:* courtesy is
+not a position, and none of it predicts the 25 September letter. It bears on how the letter should
+be read, not on what it will say. **Second item, chronology only:** she recorded that Cory's
+14 August 2025 stay request never reached her — *"I didn't receive this email of 14 August 2025 for
+some reason. I can confirm my email address is correct so unsure what has happened."* ⛔ A
+documented non-receipt, no inference, raised with nobody.
+
+**F18 · One order is missing from the series. [D]** The Amended Further Directions Order (2) dated
+**16 July 2025** is attached to the 20 August 2025 email but is not in `documents/orders/`, which is
+otherwise complete. Retrieve it. It is the order whose 13 August 2025 witness-list date was extended
+to 28 August 2025 by consent, so it also dates the first witness-list direction in the matter.
 
 ---
 
