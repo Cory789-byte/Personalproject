@@ -231,3 +231,62 @@ built findings on whichever passage was in front of me, and I repeated "298 admi
 as though it described the matter. It describes one notice. The February denial and the unserved
 pleading correction were both in the file the whole time and neither reached any answer I gave until
 this pass.
+
+---
+
+## 8. CORRECTION TO §5.1 AND §7 — a history-list note is not a diagnosis (Cory, 15 Sep; accepted)
+
+**The point.** The 26 October 2022 items are **past-medical-history list entries**, carried on
+Dr Zhao's **referral letter of 16 May 2024**. They are not a diagnosis, not a consultation record,
+not a certified condition, and not a treatment episode. "Anxiety" as a history-list notation is not
+a psychiatric disorder, and ADHD is a neurodevelopmental condition, not depression. The injury is
+**Major Depressive Disorder with anxious distress (DSM-5 296.23)**.
+
+**And the same record answers the denial three times, all of it already served on 9 September:**
+1. **16 November 2023 (Dr Nanayakkara)** — positively records *"no psychological illness such as
+   depression or psychosis"*, *"mood good"*, poor sleep attributed to **shift work**, melatonin and
+   temazepam prescribed. **Thirteen months after the 2022 notations; seven months before onset.**
+2. **The 16 May 2024 referral letter itself** — the very document carrying the 2022 history list
+   also *"lists the medications then current, **none of which is an antidepressant or an
+   anxiolytic**"*. Whatever was noted in 2022, in May 2024 he was on nothing for either.
+3. **Dr Hawes, work capacity certificate 1 July 2024** — *"there was no pre-existing factor or
+   condition"*, and Review Decision 69983 records at p 17 that *"This was maintained in all later
+   work capacity certificates."*
+
+⭐ The schedule's own opening line already states the proposition: *"The sequence these documents
+record. **No psychological illness before June 2024.**"*
+
+⭐⭐ **And one point that runs the other way, from their own conduct.** The Regulator's Form 29 to
+the general practice was scoped **01/01/2023 to 01/08/2024**. The 2022 entries were **never within
+that scope**. So when row 32 said the entries were *"missing from Exhibit A5"*, it was describing a
+gap its own notice created. **They have never obtained the 2022 records. They inferred a condition
+from a list.**
+
+⚠ **What genuinely survives, and it is narrow.** Dr Krishnaiah's report of 13 February 2025 records
+*"Restarting Vyvanse 30 mg"* — "restarting" implies prior use, and Vyvanse is principally an ADHD
+medication. That sits inside the Appellant's own expert material. ⚠ But it supports **prior ADHD**,
+which is not the injury and is not depression; and *"treatment resistant"* in that report describes
+the **depressive state as at 2025**, post-injury, so it speaks to severity and prognosis, not to a
+pre-existing condition. ⛔ All of this is clinical, it belongs to Krishnaiah and Hawes, and nothing
+is put to either of them.
+
+⭐ **And at its highest it still does not defeat the claim.** WCRA **s 32(3)(b)**: aggravation of a
+personal injury, disease or medical condition **is an injury** where the aggravation arises out of
+employment and employment is **a significant contributing factor to the aggravation** — same
+threshold, no psychiatric carve-out. **s 32(4)** confines it to the extent of the effects of the
+aggravation, and here that extent runs the whole distance from *"no psychological illness"* in
+November 2023 to certified Major Depressive Disorder in 2024.
+
+### ⇒ What changes, and what does not
+
+| | Revised position |
+|---|---|
+| **§5.1 — the February denial** | ⬇ **Weaker than stated.** It rests on a history-list notation, it is answered on the face of their own record three ways, and the 2022 records were never within the scope of their own notice. It is not a medical case; it is an inference from a list |
+| **§7(3) — "that is their case"** | ⬇ **Overstated.** Correct that a denial exists and that "0 denied" describes one notice only; wrong to imply the denial carries weight it does not |
+| **§5.2 / §7(2) and (4) — the pleading** | ⬛ **UNCHANGED, and this is the point.** ¶1.2 of the live Form 9A tags *"clean psychiatric baseline"* as *"(Admitted Fact: Form 24, Para 34)"*. **The defect is the assertion of admission, not the merits of the baseline** — they admitted only that *"the entry is listed"*, and denied at the next paragraph. The tag is false whether or not the baseline is in fact clean. The Second Amended Form 9A removes every tag and discloses the 2022 items on its face, and it **remains unserved** |
+| **§7(5) — the causation bridge** | ⬛ unchanged: Krishnaiah declined 5 Sep; no expert report served; element (d) on treating records plus oral evidence |
+
+⛔ **Standing discipline reaffirmed:** never "records irrelevant" (de novo); the chronology limb plus
+the verified s 32(3)(b) limb; Findings A/B/C as inconsistency, never estoppel; medicine led through
+the treating doctors on their own evidence; ⛔ nothing suggested to any doctor; "a significant
+contributing factor", never "major"; intimate entries never restated.
