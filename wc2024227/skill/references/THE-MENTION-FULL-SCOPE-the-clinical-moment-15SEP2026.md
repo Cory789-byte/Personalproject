@@ -1,4 +1,16 @@
 # The mention in full scope — the prior he carried, the clinical moment, and the 5.7 seconds
+**⛔⛔ SOURCE-INTEGRITY RULE, added 15 September 2026 after an error.** The canonical transcript is
+`documents/transcripts/MENTION_7AUG2026_TRANSCRIPT_diarised_CORRECTED.pdf`, which carries a table of
+**ten speaker corrections applied 12 September 2026**. The raw `MENTION_7AUG2026_segments.jsonl` is
+**machine output with known mislabelling** — 90% accuracy on hand-checked anchors, ~75 of 1,068
+segments with a cluster/label mismatch, and a documented failure mode: *"a short acknowledgement
+inside a long run — the diariser gives the backchannel to whoever holds the floor."* ⛔ **Never
+attribute a short line from the JSONL without checking the corrections table.** The corrections that
+matter: **437 (30:13) → MR SHEPHERD (Certain)**; 440, 620, 673, 792 → MR SHEPHERD; 623, 1009 →
+DWYER IC; **627, 628 (40:36, 40:41) → MS MATHESON**; 1008 → MS MATHESON; 231–232 (17:45) probably
+MS MATHESON (Uncertain). ⚠ And the transcript itself is **not certified** — order the certified
+version before any passage is quoted externally.
+
 **15 September 2026. Internal. Every quotation and every interval verified by timestamp from
 `documents/transcripts/MENTION_7AUG2026_segments.jsonl`. Intervals computed from segment
 start/end times. ⛔ Nothing in this file is sent to anyone.**
@@ -125,13 +137,36 @@ frame. He told the Appellant it was available to him and said this was not the f
 stopped at [1786] was not the concept — it was re-arguing the case orally at a mention, mid-way
 through a disclosure application.**
 
-### (ii) Thirty seconds after the pause, he says he has registered it
-[1810]–[1813], inside the same passage:
-> *"…or a more cohesive and cooperative approach with the parties that are sitting at the other end
-> of the table. **Yeah, I actually understand what you're getting at.**"*
+### (ii) ⛔⛔ CORRECTED — thirty seconds after the pause, **the Appellant** says he has taken it
 
-⇒ The concern he named was *"the direction this is going in"* — the conduct of the proceeding. Within
-half a minute he separates that from the substance and says he understands the substance.
+**I attributed [1813] to the bench. It is the Appellant's line, and the file already said so.**
+The corrected transcript, `MENTION_7AUG2026_TRANSCRIPT_diarised_CORRECTED.pdf`, records at
+**segment 437, 30:13**: labelled DWYER IC, **corrected to MR SHEPHERD**, confidence **Certain**,
+basis — *"Spliced into the middle of one Dwyer sentence that runs 432→436→438→439 … **Confirmed
+first-hand by the Appellant, who was present.**"* The raw cluster field agrees: `spk=0`
+(Shepherd's cluster) at `conf=1.0`, inside a run of `spk=1`.
+
+So the exchange is:
+> DWYER [1786]–[1810]: *"I'm concerned at the direction this is going in, Mr Shepherd. And
+> ultimately what I'm proposing is if we can't work this out today, if you can't get yourself to a
+> point where you're satisfied with **the approach, a different approach or a more practical
+> approach, or a more cohesive and cooperative approach with the parties that are sitting at the
+> other end of the table.**"*
+> ⭐⭐ **MR SHEPHERD [1813]: "Yeah, I actually understand what you're getting at."**
+
+⇒ ⭐⭐⭐ **The registration at 30:13 is the Appellant's, not the bench's — and that is the more
+important fact.** What he had just been told, forty seconds earlier, was the method: *"if you give
+evidence that you were sent unassessed directives … and the regulator doesn't contradict it, doesn't
+cross-examine you, doesn't produce documents for you to comment on … that's a problem for them, not
+for you."* The Appellant's own account of what he understood in that moment is that the bench wanted
+the disclosure fight parked, and was showing him **how to prove the case without the documents**.
+
+⇒ **That is the turning point of the mention, and it is his move, not the bench's.** The line of
+action that follows is continuous with it: the 64G and the outstanding Form 29 items withdrawn on
+**10 August**; the notice to admit 303 facts on **28 August**; 298 admitted and none denied on
+**8 September**; and the footing letter of **9 September** relying on the admissions as acts, so the
+steps are proved without a witness. **He accepted the method on the record at 30:13 and executed it
+over the next five weeks.**
 
 ### (iii) And he immediately turns the obligation onto the other side
 [1820]–[1859]:

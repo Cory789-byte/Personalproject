@@ -11,7 +11,7 @@ a conclusion appears. Internal.**
 |---|---|---|---|
 | Event spine | `index/EVENT_LEDGER.tsv` | **181 events, 17 Jun 2020 → 14 Aug 2026** | ✅ in full |
 | Communication signals | `index/COMMS_SIGNAL_LEDGER.tsv` | 30 rows, Apr 2026 → 30 Sep 2026 (incl. 4 expected) | ✅ in full |
-| Mention transcript | `MENTION_7AUG2026_segments.jsonl` | 1,068 segments (Dwyer 846 / Shepherd 219 / **Matheson 3**) | ✅ key passages by timestamp; not every segment |
+| Mention transcript | `MENTION_7AUG2026_segments.jsonl` | 1,068 segments (Dwyer ~840 / Shepherd ~225 / Matheson ~6 (raw 846/219/3, adjusted by the 12 Sep corrections)) | ✅ key passages by timestamp; not every segment |
 | Filings | `documents/filings/`, `lodgement/`, covering emails | Feb 2026 ×5, Apr 2026 Form 9A, Apr 2026 Form 29, Jun 2026 64G (45pp), Aug 2026 Form 24/25 | ✅ |
 | Orders | `documents/orders/` | 6 held; ⚠ **AFDO(2) of 16 Jul 2025 missing** | ✅ |
 | Reasoning corpus | `skill/references/*.md` | **213 notes** | ⚠ **titles all reviewed; ~15 read in substance** — the assessment/signal cluster. The rest not re-read this pass |
