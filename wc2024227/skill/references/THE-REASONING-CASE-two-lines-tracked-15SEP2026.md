@@ -484,10 +484,9 @@ cross-referenced to three past dates.** That is an assertion about what was disc
 production, and **it has never been matched notice by notice against what actually arrived on those
 three dates.** The file has carried this as an open item since 12 September.
 
-⚠ **And there is reason to think the match would not close.** The general-practice notice was scoped
-**01/01/2023–01/08/2024**, and the practice **produced less than the notice required**
-(`ASHMORE-PRODUCTION-GAP.md`) — so at least one of the four notices has a known shortfall between
-what was sought and what came in.
+⚠ **And there is now a verified reason the match would not close. See F25:** the general-practice
+notice required records to **1 August 2024**; the export produced was generated to **1 July 2024**.
+**One of the four notices is a month short on its face.**
 
 ⭐⭐ **Why this matters now, and it is the sharpest point available before 25 September.** The letter
 of 9 September asks the Regulator, for each of fourteen tabs, either to **produce its own or Metro
@@ -512,6 +511,54 @@ memory. Resolve both together before either is relied on.
 the completeness of any production. If the 25 September letter does not produce or confirm the
 fourteen, the itemisation of the four notices is the natural content of the 1 October letter and of
 the second conference — put as a request, never as a complaint.
+
+**F25 · ⛔ The general-practice export was NOT modified — and the real finding is better. [D,
+verified from both source documents, 15 Sep 2026]**
+
+**The claim tested:** that the practice gave the Regulator everything it held from 2022, and the
+production was afterwards narrowed.
+
+**What the two documents say on their faces.**
+- **The notice** (Form 29, sealed 4 July 2025, to Our Medical Ashmore), schedule item 1, rendered
+  from the sealed PDF: *"**Time between: 01/01/2023 to 01/08/2024** … Full copy of notes, reports,
+  memorandums, letter, and other correspondence whether in written or electronic form in relation to
+  Mr Cory Shepherd (DOB: 11/01/1991) between 01/01/2023 to 01/08/2024."*
+- **The production** (Exhibit A5, 14 pages, no text layer, rendered), page 1 header: *"**Patient
+  Subpoena Export** … Our Medical Ashmore … **Printed on 8th July 2025** … **Subpoena generated
+  using the following date range: 01/01/2023 to 01/07/2024**."*
+
+⇒ ⛔⛔ **The date range was applied by the practice's own software and is printed on the face of the
+export.** The Regulator did not narrow it; the export was generated that way and says so. **The 2022
+entries were never in it, and could not have been** — which is exactly and consistently what the
+Respondent said at row 32 of its February 2026 response: the 2022 anxiety and ADHD history is
+*"missing from Exhibit A5"*. Their statement and the document agree.
+⇒ ⛔ **An inference of modification, alteration or concealment is not available on this material and
+is never voiced.** The house rule holds: ask, never allege.
+
+⭐⭐ **But there IS a verified shortfall, and it is precise: the export is one month short of the
+notice.** The notice required records **to 1 August 2024**. The export was generated **to 1 July
+2024**. ⇒ **The month from 2 July to 1 August 2024 was required and was not produced.**
+⚠ That is the month immediately after the WorkCover application was lodged (1 July 2024) and the
+month in which the certification of no functional capacity ran. It is a gap in the Respondent's own
+production against the Respondent's own notice.
+⇒ ⭐ **And it is fixable without anyone's permission.** They are the Appellant's own records. A
+request to the practice for the missing month — and, separately, for 2022 if it is ever wanted —
+needs no notice, no application and no consent from the Regulator.
+⛔ **Handling:** stated as a date comparison and nothing more. It is not raised with the Regulator
+before 25 September, no motive is attributed to the practice or to anyone else, and it is never
+described as anything but a production that stopped a month short of its notice.
+
+⚠ **Two collateral notes.**
+1. **The pagination question is now narrowed, not answered.** The Form 24 cites Exhibit A5 at pages
+   **48, 50, 52 and 53** (item 33 puts the 16 November 2023 entry at A5 p 52). The held file is
+   **13 pages of content and one blank**. ⇒ The held copy is paginated differently from whatever was
+   cited — most likely A5 is an extract within a continuously paginated bundle. **Resolve before any
+   tender**; it is a referencing question, not a completeness one.
+2. ⛔ **Page 1 of the export carries a current-medications list that includes an entry within the
+   standing exclusion.** It is not restated here or anywhere, and it is a further reason the s 580
+   sealing of A5 matters. Note also that the list is dated by the **print date of 8 July 2025**, not
+   by the subpoena range — so it describes July 2025, not the period of the injury. ⚠ Do not read it
+   against the 16 May 2024 referral letter, which records a different and earlier state.
 
 ---
 
