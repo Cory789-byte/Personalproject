@@ -279,6 +279,36 @@ because he was less available" answer to the roster-disparity limb. The finding 
 one-directional — **the Regulator holds employer-sourced evidence consistent with the injury it
 denies**, and it went looking for it itself.
 
+**F15 · ⛔ RISK, stated plainly: the competing-cause material exists in Cory's own words, written to
+his employer, and it is dated February 2025. [D]** The 15 September forwards include the
+Hughes leave chain of 24 February, 27/28 February and 3 March 2025 and Taylor's return-to-work
+email of 28 March 2025. In the February emails Cory gives his employer personal reasons for the
+absence arising from the separation. The file's existing rule already covers this material; what is
+new is that it is **contemporaneous, in his own hand, and held by MSH** (Hughes, Taylor and Roberts
+were the recipients), not only in the DFV attachments that have deliberately never been opened.
+**The answer, and it is a complete one:** the dates. Onset is **18 June 2024**; these emails are
+**eight months later**. On the chronology the separation is sequela, not cause, and s 32(1) asks
+only whether employment was **a significant contributing factor**, not whether it outweighed
+everything else. The Respondent's Form 29 ranges stop 30 June 2024 and its pleaded stressors are
+all 2024, so nothing in this material is presently in the appeal record.
+**⛔ Handling, unchanged and now reinforced:** never volunteered, never led, never in
+correspondence, never in a filing; the content is quarantined at
+`documents/gmail-ingest-2026-09-15/messages/2025-02-27_and_03-03_Hughes_leave_approvals_QUARANTINE_personal.txt`
+and is not restated in any analysis file; if the subject is opened by them, the answer is minimal
+and chronological. The only facts drawn forward are neutral chronology: the leave requests and
+approvals of 24 Feb – 3 Mar 2025, the return to work on 31 March 2025 with a 0700 foyer meet, the
+annual leave of 24–28 March 2025, Roberts' first appearance in the file on 27 February 2025, and
+Hughes' statement of 3 March 2025 that the roster would go to the personal email **"until my work
+email is set up"** — which dates the IT-access thread.
+
+**F16 · The two standing formulas have a single origin, and it is the Calderbank rejection of
+16 July 2026. [D]** Matheson that day: *"The Respondent's position remains to defend the appeal as
+outlined in our Statement of Facts and Contentions. Should our position change at any point, we
+will advise you as soon as possible."* Both sentences reappear verbatim on 14 August 2026 in answer
+to the 31 July material-development letter. Neither has appeared since the 298 admissions of
+8 September. *Limit:* a formula repeated twice and then absent for five weeks is a register
+observation, not a position. The 25 September letter is where it is scored.
+
 ---
 
 ## 4. What this file changes, and what it does not
