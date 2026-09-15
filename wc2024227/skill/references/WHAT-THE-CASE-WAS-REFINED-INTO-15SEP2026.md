@@ -105,7 +105,7 @@ has to put it there.
 
 ### (b) The speech was not tuition. It was a case-management address with both opponents present.
 
-**Verified from the transcript speaker list: Dwyer 846 segments, Shepherd 219, MS MATHESON 3.** The
+**Verified from the transcript speaker list: Dwyer 852 segments, Shepherd 209, MS MATHESON 9** (corrected counts — the raw machine figures 846/219/3 understated her by six segments; see `documents/transcripts/MENTION-7AUG2026-FIX-LEDGER.md`). The
 Regulator's Senior Appeals Officer was in the room, on the record, and answered from the bar table
 ("Yes, Commissioner. We've disclosed all we have currently."). Metro South was required to attend
 the application. Everything said was heard by the people who decide whether to defend.

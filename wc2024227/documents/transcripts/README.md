@@ -8,6 +8,7 @@
 | `TRANSCRIPT_diarised_prosody.md` | reading with prosody (F0, intensity, rate, pauses) | ⭐ corrections now marked **inline in the body** |
 | `MENTION_7AUG2026_segments.jsonl` | **machine search, timestamps, interval arithmetic** | ⭐ corrections now **applied to the `speaker` field** |
 | `diarise_inferential.py` | how the labels were produced | tool |
+| ⭐⭐ `MENTION-7AUG2026-FIX-LEDGER.md` | **every fix ever made to the mention — transcript and reading — in one place, recomputed from the data** | ⭐ start here |
 
 ## ⛔⛔ The rule that exists because it was broken
 
@@ -23,19 +24,25 @@ the floor.* All ten corrections are of exactly that kind.
 
 ## What was corrected — final, applied 15 September 2026
 
-**Thirty-eight segments were reattributed and two were split.** No segment is now unattributed.
+**⭐ Forty-one segments were reattributed and two were split.** No segment is now unattributed.
+⚠ **The figure was 38 here until 15 September, when it was recomputed against the data and found wrong** —
+it had been carried forward from an intermediate commit. The full verified ledger, with the reproducible
+diff that produces it, is `MENTION-7AUG2026-FIX-LEDGER.md`.
 Final counts: **DWYER IC 852 · MR SHEPHERD 209 · MS MATHESON 9** across 1,070 segments.
 
-**A. The ten from the 12 September review** — 437 (30:12) DWYER → **MR SHEPHERD**, ⭐ *Certain,
-confirmed first-hand by the Appellant*; 440, 620, 673, 792 → MR SHEPHERD; 623, 1009 → DWYER IC;
-627, 628 (40:40) and 1008 → **MS MATHESON**; 908 confirmed unchanged.
+**A. The 12 September review** — 437 (30:12) DWYER → **MR SHEPHERD**, ⭐ *Certain, confirmed first-hand
+by the Appellant*; 623, 1009 → DWYER IC; 627, 628 (40:40) and 1008 → **MS MATHESON**; 908 confirmed
+unchanged.
+⚠ **440, 620, 673, 792 already carried `MR SHEPHERD` in this `.jsonl`.** They were corrections to the
+**other** machine baseline — the diarisation pass behind the PDF. ⛔ **There are two machine baselines in
+this matter. Always say which one a correction is against.**
 
 **B. Six confirmed by the Appellant, who was present, on 15 September 2026**
 
 | Seg | Time | Was | Now | The line |
 |---|---|---|---|---|
 | 396–399 | 27:44 | MR SHEPHERD | **DWYER IC** | *"She's erratic physical presence and imposes unassessed unilateral directives."* — the bench reading the stressor aloud |
-| 231–232 | 17:45 | unattributed | **MR SHEPHERD** | *"There has been some emails to involve the quality of the staff…"* |
+| 231–232 | 17:45 | *(no diariser cluster on 232)* | **MR SHEPHERD, confirmed** | *"There has been some emails to involve the quality of the staff…"* ⚠ both already carried this label; the confirmation supports a label the machine could not |
 | 863 | 53:14 | DWYER IC (merged) | **split** | *"holidays?"* → DWYER IC · *"There's probably a few"* → MR SHEPHERD |
 | 864 | 53:18 | DWYER IC (merged) | **split** | *"things yes."* → MR SHEPHERD · *"Well probably or is because disclosure is about what you know"* → DWYER IC |
 | 893 | 54:47 | MR SHEPHERD | **DWYER IC** | *"roster for the relevant period"* |
@@ -46,7 +53,7 @@ confirmed first-hand by the Appellant*; 440, 620, 673, 792 → MR SHEPHERD; 623,
 ⚠ Segments 863 and 864 each contained **two speakers in one segment**. They were split and the
 boundary timestamp interpolated; the surrounding timings are unchanged.
 
-**C. Nineteen resolved by question-and-answer structure** — a judge does not ask and answer his own
+**C. Twenty-six resolved by question-and-answer structure** *(the count read "Nineteen" until 15 Sep; the ids listed here have always been 26)* — a judge does not ask and answer his own
 question. 227, 247, 249, 537, 588, 614, 616, 706, 707, 708, 730, 779, 819 → **MR SHEPHERD**;
 375, 523, 533, 552, 554, 562, 613, 669, 671, 700, 834, 914, 919 → **DWYER IC**.
 
@@ -69,7 +76,9 @@ withdrawn 10 August, the notice to admit 303 facts served 28 August, 298 admitte
   hallucinations — see `skill/references/TRANSCRIPT-ACCURACY-comparison.md`.
 - Residual errors are concentrated in **one- and two-word interjections and overlapping speech**.
   Long turns and question-and-answer exchanges are reliable.
-- ⚠⚠ **Only eleven segments were ever re-examined.** Across the file there are roughly **75 segments
-  where the diariser's own speaker cluster disagrees with the label**, plus ~50 with no cluster at
-  all. The ten corrections applied here are the reviewed ones. **Others may remain.** Any short
-  interjection still has to be checked against who was asked the question before it is relied on.
+- ⚠⚠ **Residual risk, measured 15 September.** The diariser's own cluster contradicts the label on
+  **45 segments** (down from 75 — **32 of the 41 fixes came out of that set**), and **50 segments have
+  no cluster at all**. ⭐ Two fixes were applied *against* the cluster (segs 399, 864) because the
+  Appellant confirmed them — **a person who was in the room outranks the machine**. **0 of 1,068 long
+  turns** show any conflict, so every substantive analysis is unaffected. **Others may remain.** Any
+  short interjection still has to be checked against who was asked the question before it is relied on.

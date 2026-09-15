@@ -563,7 +563,10 @@ for a phrase. I want the count of emails containing 'effective immediately'."* C
 | **623** "All right." | MR SHEPHERD | probably **DWYER** | Acknowledgement closing his own question at 624 |
 | **1009** "All right." | MR SHEPHERD | probably **DWYER** | Same pattern, immediately before he turns to Ms Ruttan |
 ⇒ **Ms Matheson spoke at least five times, not three.** The share table understates her and overstates the
-Appellant by roughly 30 words. ⛔ No conflict was found anywhere between content markers and labels on the
+Appellant by roughly 30 words.
+⭐ **Updated 15 Sep 2026: the final verified figure is nine** — segs 627, 628, 633, 634, 635, 1008 were
+reattributed to her, giving **Dwyer 852 / Shepherd 209 / Matheson 9** across 1,070 rows. Full ledger at
+`documents/transcripts/MENTION-7AUG2026-FIX-LEDGER.md`. ⛔ No conflict was found anywhere between content markers and labels on the
 **long** turns (0 of 1,068 segments), so the substantive analysis above is unaffected.
 ⚠ Ms Ruttan: addressed once (*"And Ms. Rutland, any?"*, seg 1010, the name mis-transcribed) and **no answer
 is on the tape**. The 0.0% share appears correct.

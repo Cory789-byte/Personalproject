@@ -1,7 +1,7 @@
 # The long form — the mention read as one movement, and what was built from it
 **15 September 2026. Internal. Every quotation verified by timestamp from
 `documents/transcripts/MENTION_7AUG2026_segments.jsonl`. Speaker counts for the whole mention:
-Dwyer ~840, Shepherd ~225, Matheson ~6 (raw counts 846/219/3, adjusted by the 12 Sep corrections). She was in the room and answered from the bar
+**Dwyer 852, Shepherd 209, Matheson 9** across 1,070 segments (verified after all 41 reattributions; the earlier figures ~840/~225/~6 were pre-correction estimates). She was in the room and answered from the bar
 table. Nothing in this file is sent to anyone.**
 
 > ⚠ Held throughout: a mention is not a ruling. These were indications given while managing a case.
