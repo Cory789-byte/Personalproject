@@ -1905,3 +1905,27 @@ chronology only; never an attendance/performance proposition; the Sep 2025 34-oc
 out; never pleaded as a stressor (mirror-image "fewer shifts because less available" risk);
 never in correspondence. Numbers unchanged (E28 stands) — this raises confidence in the causation
 read, it does not move the 25 Sep shape. **OUTCOME:** ______
+
+**E35 · The mention re-read as an address to the room, and the materiality threshold met literally
+(Cory, 15 Sep; two corrections to my reading, both accepted).**
+(1) ⭐ Dwyer's own test for when ubiquitous non-compliance becomes examinable — "it's only a problem
+if somebody gets sacked or somebody gets killed" — is met on the facts, not by analogy: employment
+ceased 9 Oct 2024 by abandonment letter backdated to the day after the WorkCover decision, later
+overturned. ⚠ And the discipline that keeps the dismissal out of causation is what allowed the bench
+to read him as carrying "a broader grievance". ⛔ No change to the discipline: post-onset ⇒
+aggravation and prognosis only, never causation, never s 32(5)(b), TD/2024/110 stays out. ⭐ It needs
+no pleading — Response row 36 already quotes Krishnaiah's "disputed unfair dismissal proceedings",
+so it is in their material through the medical.
+(2) ⭐⭐ VERIFIED from the segment speaker counts: Dwyer 846, Shepherd 219, **Matheson 3** — the
+Regulator was in the room and spoke. The 7 Aug address was case management with both opponents
+present, not tuition. What the Regulator heard: diagnosis not really in dispute "as you do in this
+particular case"; causation is the only crux; uncontradicted evidence is likely to be accepted (said
+twice); "I would have thought the regulator will call Ms Taylor"; "I would have thought the regulator
+would be all over that"; resolve it sooner for "the people of Queensland who are resourcing these
+proceedings". The firmness toward Cory is what made those signals credible to the side that had to
+act on them. ⇒ Five weeks later: 298 admitted, 0 denied, no expert served, "cannot confirm its
+witnesses at this stage". That is the opposite of what the bench expected of a party intending to
+fight, and it is the strongest non-numerical support yet for the concession read.
+⚠ Limits: a mention is not a ruling; Guide 7.1 puts a different Member on the hearing; binds nobody.
+Numbers unchanged (E28 stands) — this raises confidence in the read, not the probabilities.
+**OUTCOME:** ______
