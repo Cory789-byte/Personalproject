@@ -215,3 +215,74 @@ speaker who wilts.**
 2. **"I'd have to check" flat and short.** The rise is what does the damage, not the hedge.
 3. **One prepared sentence per structure** (the filters, the twenty questions, the tabs) so the
    slow patches never recur under cross.
+
+---
+
+# ADDENDUM 2 — 15 September 2026: where he initiated, and the one express inversion
+
+## A. Five modes of initiating — 113 turns, and these are the ones that are not answers
+
+| Mode | Where | What |
+|---|---|---|
+| **Interrupting** | 14:12 | *"No, hang on a sec."* — **77.1 dB, the loudest utterance of the hour**, 164 Hz. He stops the bench mid-flow |
+| | 21:29 | *"Could I give you a simplified—"* cutting across *"And this is the other difficulty in respect of the…"* |
+| **Offering** | **22:11** | *"Can I give you these two pieces of paper?"* — **ninety seconds after the switch-off speech.** He answers the hardest passage of the morning with a solution, not a defence. Bench: *"Hand it up, please."* |
+| | 32:02 | *"I think I can understand where you're getting at… I think I can **meet most of the way**"* — 0.00 s latency, straight after the costs warning. A negotiating move, not an answer |
+| **Teaching** | 22:40–23:40 | four minutes in which the bench asks and he is the only source |
+| **Correcting** | 53:22 | *"I think I actually said that I'm not asking disclosure about that anymore"* — 0.00 s, and **he was right** |
+| **Setting scope** | 53:49 → | *"So that's a different subject."* · *"I have everything for this."* · *"I think I can get it easier in a path that I could probably really scope a lot of that."* |
+
+## B. ⭐⭐ Inversion one — the table passage, about four minutes
+
+> DWYER: *"What am I looking at?"* · *"You've seen this, I take it, Ms Matheson?"* · *"What am I
+> looking at, Mr Sheppard?"* · *"This is the simple version, is it?"* · *"Where's the bit about
+> Chloe Taylor's unassessed unilateral directives?"* · *"Where's that?"* · *"**Which heading, which
+> page, what number?**"* · *"Item 10?"* · *"**What does filters mean?**"*
+
+⇒ **The Commissioner is holding a document he cannot navigate, and the only person who can read it
+is the self-represented appellant.** For four minutes the questions run one way.
+⚠ **And it cost him his only copy** — *"I haven't got a copy, but I can share"* — **which is exactly
+why it worked.** He had to carry the content in his head, in front of a bench that had just asked
+whether the material was machine-written. **The AI question was never raised again.**
+⚠ **But he did not capitalise.** His slowest utterances of the whole hour sit in this stretch
+(*"So the 20…"* 1.58 w/s; *"The 20 questions of my request of disclosure"* 1.65), and the 16-second
+silence falls at its start. **The room inverted; the delivery did not rise to meet it.**
+
+## C. ⭐⭐⭐ Inversion two — the express handover at 53:30. This is the finding.
+
+He corrected the bench's premise. The bench checked itself and then said:
+
+> *"Okay, alright, fine, that's okay. **We probably should have led with that. I'll leave it up to
+> you to tell me.** If we get into anything that you think we don't need to get into, **you tell me**
+> and it'll save us some time, all right? **Don't worry about interrupting me on that score**, OK?"*
+
+⇒ ⭐⭐⭐ **A Commissioner formally transferring control of scope to a self-represented appellant, and
+expressly licensing interruption. It was triggered by a correction that was right.**
+
+**And it held for the rest of the hearing:**
+| Time | |
+|---|---|
+| 53:48 | DWYER: *"Are we still dealing with this one?"* → SHEPHERD: *"So that's a different subject."* |
+| 54:04 | DWYER: *"So I recall that we don't need to go over that too… That's all I need to know."* |
+| 54:09 | DWYER: *"**If you think we don't need to go over it, we can skip over.**"* |
+| 56:07 | SHEPHERD: *"No, I have all of that."* — **9.68 w/s, fastest of the hour**, disposing of Stressor 3 |
+| 56:26 | SHEPHERD: *"I think I can get it easier in a path that I could probably really scope a lot of that."* |
+
+⇒ **For the last ten minutes the room ran on his say-so about what needed covering.**
+
+## D. ⚠ Was it really an inversion? The honest answer is: scope, not control
+
+1. ⚠ **It is also a known case-management technique.** A Member who has spent an hour narrowing a
+   case often hands the litigant the pen at the end, because *"you tell me what we don't need"* is
+   also *"you now own the reduction."* The handover served the thing he had wanted since minute two.
+2. ⚠ **He never surrendered the proceeding.** He still stood the matter down, still set four weeks,
+   still handed the election, still closed the hearing. **Control of scope moved. Control of the
+   room did not.**
+3. ⭐ **But it happened, it is on the record, and the trigger was a correction that was right.** A
+   self-represented appellant in his first hearing was told by the bench to interrupt him.
+
+## E. ⭐ What follows for the second s 552A conference
+The same Member would chair it. **He has already demonstrated that he responds to being told what
+is not needed** — and said so expressly. ⇒ At that conference the strongest posture is the one he
+invited: **name what does not need to be covered, early, and be right about it.** ⛔ It works only
+while the corrections are correct; one wrong one and the licence closes.
