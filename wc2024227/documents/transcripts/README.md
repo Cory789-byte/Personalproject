@@ -9,6 +9,7 @@
 | `MENTION_7AUG2026_segments.jsonl` | **machine search, timestamps, interval arithmetic** | ⭐ corrections now **applied to the `speaker` field** |
 | `diarise_inferential.py` | how the labels were produced | tool |
 | ⭐⭐ `MENTION-7AUG2026-FIX-LEDGER.md` | **every fix ever made to the mention — transcript and reading — in one place, recomputed from the data** | ⭐ start here |
+| ⭐⭐ `MENTION-7AUG2026-UNCERTAIN-ATTRIBUTION.md` | **the 83 segments that cannot be safely attributed — percentages instead of names** | ⛔ check before quoting any short line |
 
 ## ⛔⛔ The rule that exists because it was broken
 
