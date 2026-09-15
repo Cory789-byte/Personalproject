@@ -1,0 +1,66 @@
+THREAD: 1a0a287589887391 (messages 1a0a287589887391, 1a0a287645580742) | ORIG_FOLDER: Inbox
+ATTACHMENTS: "250716 WC227[2024] Amended Further Directions Order (2).pdf" (16 Jul 2025 — ⚠ NOT
+in documents/orders/); "URGENT - Request for Temporary Stay of Proceedings - WC2024227
+IMPORTANCE- HIG.pdf" (Cory's 14 Aug 2025 letter)
+==============================================================================
+[1] Renee Matheson (Senior Appeals Officer, WCRS/OIR) → Cory | Wednesday 20 August 2025 01:16:43 UTC
+    (11:16 AEST) | Subject: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Mr Shepherd,
+
+We have been informed by Saines Legal that you are no longer being represented by them in relation
+to this appeal matter.
+
+I note from the attached QIRC Amended Further Directions Order (2), dated 16 July 2025, that you
+were to file and serve upon the registry and the Regulator a list of witnesses you will be calling
+to give evidence in this matter by 4pm on 13 August 2025.
+
+I understand this may be difficult now that you are no longer represented and wished to confirm
+that you can request an extension of time if needed. Simply email me the request and once I confirm
+the Regulator's consent, you then email the QIRC registry with your request.
+
+Alternatively, if you wish to continue in this appeal however need additional time and not sure how
+long you need, you can request the QIRC to place your matter in abeyance (on hold) and it can sit
+there for 12 months to await you to be ready to progress the matter again.
+
+Once it is in abeyance please note: The appellant is responsible for the matter proceeding and if
+no action is taken by you to progress the matter within 12 months of the last action, the matter
+will lapse pursuant to rule 230 of the Industrial Relations (Tribunals) Rules 2011.
+
+I hope this is of assistance, if you have any questions in relation to the above please do not
+hesitate to contact me.
+
+Kind regards, Renee Matheson
+------------------------------------------------------------------------------
+[2] Cory → Matheson | Wednesday 20 August 2025 12:11 PM AEST
+"I have sent an email through to you last week. I am unsure if it was received but have attached
+the correspondence that will address the email." [attaching the 14 Aug 2025 stay request]
+------------------------------------------------------------------------------
+[3] Matheson → Cory | Wednesday 20 August 2025 02:36:14 UTC (12:36 AEST)
+
+Hi Cory,
+
+Apologies, but I didn't receive this email of 14 August 2025 for some reason. I can confirm my
+email address is correct so unsure what has happened.
+
+As the Respondent, I am happy to consent to the two week extension that you have requested to
+28 August 2025.
+
+If you were to forward this email with my consent to the QIRC registry, requesting the extension be
+granted, the QIRC should then provide us with a new directions order with new dates.
+
+should you require more time, please do not hesitate to contact me.
+
+Kind regards, Renee Matheson
+==============================================================================
+⭐ REGISTER NOTES
+1. ⭐⭐ CONDUCT BASELINE. Unprompted, on learning he was unrepresented, the appeals officer set out
+   the extension mechanism, offered consent in advance, explained abeyance, and quoted r 230 — then
+   consented to a fortnight the same morning. This is the earliest and clearest instance of the
+   "safe opponent" pattern relied on at E28.3. It is also the first appearance in the file of the
+   r 230 warning that FDO(3) direction 5 now carries.
+2. ⭐ NON-RECEIPT EVENT, in her own words: the 14 August 2025 stay request did not reach her, and
+   her address was correct. A documented delivery failure in the appeal correspondence, stated by
+   the Respondent. ⛔ Chronology only — no inference is drawn, and it is not raised with anyone.
+3. ⚠ DOCUMENT GAP: the Amended Further Directions Order (2) of 16 July 2025 is attached to this
+   email but is NOT in `documents/orders/`. Retrieve it — the orders series is otherwise complete.
