@@ -191,9 +191,14 @@ seconds.
 
 ## 4A.2 THE THREE RULES
 
-1. ⭐ **Answer the link, not the chain.** They will ask about one act. Give that act. **The chain is
-   for closing**, where *Delaney* does the work — the composite course assessed globally. Under
-   cross the chain is a liability; in closing it is the case.
+1. ⭐ **Answer the link, not the chain.** They will ask about one act. Give that act.
+   ⛔⛔ **CORRECTION (16 Sep 2026): the chain is NOT for closing either, and *Delaney* is NOT his
+   authority.** *Delaney* is the **Respondent's** — the global/composite approach is how Review
+   Decision 69983 applied s 32(5) **against him** after finding the 17–18 March rostering
+   unreasonable. A composite course invites global weighing and dilution across thirteen items.
+   **Run *Mahaffey*: one mechanism — responsibility imposed, the means to discharge it withheld —
+   with one proven instance, the seven-hour break of 17–19 March 2024.** Under cross the chain is a
+   liability; in closing it is a trap. See `S32-5-A-JUDGMENT-THREE-DOCUMENTS.md` §Gate 3.
 2. ⭐ **Concede early and without being pushed.** *A manager may change a process? She was entitled
    to fix a database? She had a department to run?* **Yes.** Conceding against interest before being
    pressed is a demonstrated strength and it costs nothing — the case does not depend on Ms Taylor
@@ -233,7 +238,7 @@ fact"*. That is the map. Three fronts:
 | Front | Exposure | Answer |
 |---|---|---|
 | **The medical / causation** | ⚠⚠ **The live one.** Feb ¶32 — the records show anxiety and ADHD from **26 Oct 2022**, *"which is missing from Exhibit A5"*; SOFC ¶8 refuses a clean baseline. **No admission touches it** | Dr Krishnaiah, and his own evidence of the change over the period. Do not argue the diagnosis from the box |
-| **Reasonableness (s 32(5)(a))** | Real but weak — they must defend **each admitted act** as reasonable, and one unreasonable stressor suffices (*Hochen*, adopted in *Mahaffey*; not cured by outnumbering, *Adams*) | Concede authority, contest the manner. §4A.2 rule 2 |
+| **Reasonableness (s 32(5)(a))** | Real but weak **on the keystone** — one unreasonable stressor suffices (*Hochen*, adopted in *Mahaffey*; not cured by outnumbering, *Adams*). ⛔ Do **not** invite a global weighing of all thirteen items: that is *Delaney*, and it is theirs | Concede authority, contest the manner, keep the weight on the admitted break. §4A.2 rule 1 |
 | **Him** | State of mind, his own emails, a hostility narrative | **Harrison-Jones ¶7** and **Conaghan ¶13** — neither has heard him speak of Ms Taylor or any staff member in hostile terms |
 
 ## 4A.6 WHS IS A YARDSTICK, NEVER A CHARGE
