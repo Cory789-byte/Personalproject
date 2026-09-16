@@ -6,6 +6,70 @@
 
 ---
 
+# ⛔⛔ SUPERSEDING BLOCK — 16 SEPTEMBER 2026
+
+**Everything below this block was written 22 August and stops three weeks short. Read this first.**
+
+## What has happened since 22 August
+
+| Date | Event |
+|---|---|
+| **28 Aug 13:47** | **Form 24 (303 facts), Form 25 (39 documents), Annexure A (133pp), Part B served.** Form 29 withdrawal confirmed in the covering email |
+| **8 Sep 11:24** | ⭐⭐⭐ **THE RESPONDENT'S RESPONSE: 298 of 303 facts ADMITTED. 5 not admitted. 0 DENIED.** Three days inside the r 49 deadline |
+| **9 Sep 16:00** | **Filed + served under FDO(3):** witness list (5 names), outlines for Shepherd, Harrison-Jones and Conaghan, schedule of medical documents M1–M9, letter on the 8 Sep response, and a request for the documents not admitted (answer due **18 Sep**) |
+| **16 Sep** | Mention audio obtained; six disputed windows re-decoded at beam 10 and the whole file independently re-diarised (ECAPA, 93.8% agreement). Amendments **A1 corroborated**, **A2 confirmed** |
+
+## ⭐ THE CASE HAS CHANGED SHAPE
+
+**The facts are closed.** What the Respondent reserved in its covering letter is **relevance,
+admissibility, weight and inference — not the facts.** Stressor 1(a) is made out end to end on
+admissions (Section D of the notice). See `analysis/2026-09-16_Form24_Admissions_Map.md`,
+`analysis/2026-09-16_SEQUENCE_mention_to_admissions.md` and
+`analysis/2026-09-16_DWYER_DIFFICULTY_MAP.md`.
+
+⛔ **RUN *MAHAFFEY*, NOT *DELANEY*.** One mechanism — responsibility imposed, the means to discharge
+it withheld — with one proven instance, the seven-hour break. **A composite course is *Delaney*, it is
+the Respondent's authority, and it is how Review Decision 69983 applied s 32(5) against him.**
+
+## ⛔⛔ THE LIVE CLOCKS
+
+| Date | What | Why it bites |
+|---|---|---|
+| **Fri 18 Sep** | Response due on the documents not admitted (5 facts, 14 disputed tabs) | Self-imposed; follow up if silent |
+| **Wed 30 Sep** | **Respondent's** witness list, outlines and **any expert report** | Check for Taylor and Reese. An expert report here is the asymmetry — none was served for the Appellant |
+| **⛔ From 30 Sep** | **DIRECTION 5 — THE APPELLANT must contact the Industrial Registry** to elect a second s 552A conference or a hearing | *"Should no action be taken by the Appellant to progress the matter, the matter may be placed into abeyance and **subject to lapse pursuant to rule 230**."* **This is an obligation with a consequence, not an election.** Diarise hard |
+
+## ⚠ THE FOUR REAL RISKS
+
+1. **⚠⚠ CAUSATION IS THE WHOLE REMAINING FIGHT.** No admission touches s 32(1). Their ground is the
+   **26 October 2022** anxiety/ADHD history entries *"missing from Exhibit A5"* and SOFC ¶8. This
+   turns on Dr Krishnaiah.
+2. **⚠⚠ No expert report was prepared for this proceeding** — treating material served instead, with
+   both doctors to be called. Guide Part 7 supports that (*"a medical report on its own cannot be
+   considered without having the expert witness give evidence orally"*), but **expert expenses are
+   the calling party's and attendance notices are not yet sought**, with no income since 13 July.
+3. **⚠ Stressor 2 is not fixed by any admission** — Dwyer misunderstood the 42% at [51:35]. Needs one
+   rehearsed sentence: *one named comparator, one stated period, one figure.*
+4. **⚠ The Amended 9A still pleads "actively suppressed"**, which was conceded at [46:10] and
+   re-specified to *"avoided"* at [46:44]. Re-plead to what the facts carry.
+
+## ⚠ Two document integrity items
+
+- **Tab 26 as served is the UNFILLED render of the February 2026 notice.** Facts quoting the 18 Feb
+  answers cite Tab 27, which is sound. Have the actually-served February notice ready to substitute.
+- **First-notice numbering drift** — 44 responses to ~50 paragraphs. Every *"Admitted Fact: para X"*
+  tag must be checked against the **response** number.
+
+## ✅ Two items closed
+
+- **All seven repositories are PRIVATE**, verified from GitHub metadata 16 Sep. The `01-appeal`
+  README's "Public" claim was wrong; the setting never was. **The confidential medical exhibits were
+  not exposed.**
+- **The appeal provision is s 549** (right of appeal); s 550 is procedure and s 550(4) the filing
+  step. Confirmed by the sealed FDO(3) header. `CLAUDE.md` corrected.
+
+---
+
 ## WHERE THE MATTER IS, IN ONE PARAGRAPH
 
 The QIRC has programmed the appeal (Further Directions Order (3), 19 Aug 2026). Cory's witness
