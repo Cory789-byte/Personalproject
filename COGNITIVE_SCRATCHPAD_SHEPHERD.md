@@ -362,8 +362,15 @@ not dramatise them; he stated them as facts he assumed were shared.
 someone…"), the same device as "The dog knows me. The dog doesn't know her." The definitions land
 at the point of maximum consequence, not as an opener — correct argumentative ordering, produced live.
 
-**Scope.** The utterance is 64 words; from "direct calls to this number" to "respiratory distress"
-is **exactly 50**. Those 50 words reach the consequence limb of stressor 1(a), the subject matter of
+**Scope. ✅ VERIFIED AGAINST THE AUDIO, 16 September 2026.** From "direct calls to this number" to
+"respiratory distress" is **exactly 50 words** — re-counted on a beam-10 re-decode of the audio, not
+on the original transcript. ⭐ **And the utterance runs 11 words further than this section had it.**
+It continues: *"…they're sent, **we're now not even contacting them by their numbers**"* — 61 words
+from the same start. **That closing clause is the database.** So the single utterance carries the
+mechanism (the directory nobody could update — Stibbard's access removal, fact 40 admitted, never
+restored per fact 55) **and** the consequence (wrong clinician, cardiac arrest, respiratory distress)
+**in one breath**. It is not the consequence limb alone; it is the whole of Stressor 1(a), stated
+once, at 29:17, and answered with 5.7 seconds of silence and a costs warning. Those 50 words reach the consequence limb of stressor 1(a), the subject matter of
 1(b), the criticality underpinning stressor 3, and the content of the disclosure at 1(e).
 
 **Correction (his).** Stressor 1 is **one** stressor — "a hostile course of management conduct,

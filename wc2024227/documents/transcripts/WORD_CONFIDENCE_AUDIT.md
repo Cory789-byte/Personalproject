@@ -86,6 +86,54 @@ words. the words."* against the context pass's *"it filters all the words."* ⇒
 artefact, not a meaning difference. **Recorded so that the AGREE=False flag is not misread as a
 substantive conflict.**
 
+## ✅ ALL SIX WINDOWS RE-DECODED — 16 September 2026, 1215.7s total
+
+| Window | Outcome |
+|---|---|
+| **N1** *"I guess I did request"* | ✅ Confirmed. Settles the small.en split |
+| **N2** filters | ✅ Confirmed verbatim. ⚠ *"Absolutely."* is spurious |
+| **Nine words** | ✅ Confirmed. ⭐ Recovered a closing clause that extends the chain |
+| **A1** | ⚠ *"Yeah,"* unsupported. ⭐ Overlap signature corroborates the amendment |
+| **N3** *"spread"* | ✅ Confirmed. **The operator's "suppressed" hypothesis is refuted** |
+| **N4** comparator | ✅ Confirmed. ⭐ *"six week period"* resolved |
+
+### ⭐ The nine words — and the clause we did not have
+
+*cardiac* **0.99** · *arrest* **1.00** · *respiratory* **0.99** · *distress* **1.00**, and
+*"they're **sent to the wrong side of the room**"* at **1.00 on every word**.
+
+The utterance runs further than the transcript showed:
+*"…they're sent, **we're now not even contacting them by their numbers.**"*
+
+⇒ **That closing clause is the database.** One utterance carries both the mechanism and the
+consequence. ✅ The **50-word** span from *"direct calls to this number"* to *"respiratory distress"*
+is **verified against the audio**; the full span to *"by their numbers"* is **61 words**.
+
+### ⭐ N4 — "six week period" resolved by the Commissioner's echo
+
+The Appellant's own *"week"* is **p = 0.33** (0.44 in the original). But Dwyer repeats the phrase back
+immediately — *"**Over a six week period** you and your colleagues were underpaid…"* — with
+**six 1.00 · week 1.00 · period 1.00**.
+
+⇒ **The period is confirmed, from the echo rather than the token.** This closes the flag raised
+earlier that the 42% had an uncertain denominator. **The figure (42 = 1.00) and the period are both
+sound; only the comparator class is defective**, and that is confirmed verbatim at 1.00:
+*"Between me and my colleague"* → *"My colleagues generally"*.
+
+### ⛔ THE RULE THIS RUN ESTABLISHES — low probability is not error
+
+Three low-probability tokens were tested against the audio. **They did not behave the same way:**
+
+| Token | Original p | Survives independent re-decode? | Verdict |
+|---|---|---|---|
+| *"spread"* 46:48 | 0.23 | ✅ **yes** — 3 of 4 passes, incl. the unprimed one | **Real. Quietly spoken** |
+| *"Absolutely."* 24:02 | 0.03 | ❌ no — absent from both passes | **Insertion. Never said** |
+| *"Yeah,"* 30:12 | 0.37 | ❌ no — absent from both passes | **Insertion. Never said** |
+
+⇒ **A low probability alone proves nothing.** The test is **persistence under independent decoding**.
+That test was unavailable before the audio was obtained, which is why the original audit could flag
+words but not adjudicate them.
+
 ## WHAT IS VERBATIM-CERTAIN, AND CAN BE QUOTED
 
 | Passage | Per-word probabilities | Status |
