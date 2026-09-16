@@ -192,13 +192,31 @@ seconds.
 ## 4A.2 THE THREE RULES
 
 1. ⭐ **Answer the link, not the chain.** They will ask about one act. Give that act.
-   ⛔⛔ **CORRECTION (16 Sep 2026): the chain is NOT for closing either, and *Delaney* is NOT his
-   authority.** *Delaney* is the **Respondent's** — the global/composite approach is how Review
-   Decision 69983 applied s 32(5) **against him** after finding the 17–18 March rostering
-   unreasonable. A composite course invites global weighing and dilution across thirteen items.
-   **Run *Mahaffey*: one mechanism — responsibility imposed, the means to discharge it withheld —
-   with one proven instance, the seven-hour break of 17–19 March 2024.** Under cross the chain is a
-   liability; in closing it is a trap. See `S32-5-A-JUDGMENT-THREE-DOCUMENTS.md` §Gate 3.
+   ⛔⛔ **CORRECTION TO THE CORRECTION (16 Sep 2026, second pass).** An earlier edit today said
+   *Delaney* is the Respondent's authority. **That over-corrected and is wrong.** The settled
+   position — established by Cory on 16 August, at `S32-5-A-JUDGMENT-THREE-DOCUMENTS.md` **Part 31**
+   — is that ***Delaney* is HIS**, cited in his own Form 4 for the proposition that *"the composite
+   course of conduct, not isolated shifts, is the unit of assessment."*
+
+   ⭐ **Delaney is the answer to ATOMISATION.** The Regulator's defence is the isolation clamp at
+   SOFC ¶22(a) — *"human error and **not intentional or repeated**."* *Delaney* breaks it: the unit
+   of assessment is the course, so the seven-hour break cannot be reduced to one absorbable blemish.
+   And the course here is not an event but a **STATE** — no fatigue assessment, no register, nothing
+   implemented until after 30 June 2024, on the Chief Executive's own certificate. **A state cannot
+   be atomised.**
+
+   ⚠ **The real risk is FLATTENING, not *Delaney*.** If the course is drawn wide enough to become a
+   referendum on the managers' general reasonableness — thirteen items — a global assessment can
+   find most of it ordinary.
+
+   ⇒ ⭐⭐⭐ **They are two halves, not alternatives. *Delaney* refuses the atomisation; *Mahaffey*
+   refuses the flattening.** The composite is **the standing fatigue and recovery condition**;
+   everything else is context. **Thirteen mini-trials invite global weighing. One tall keystone
+   defeats it.**
+
+   **Under cross, still answer the link, not the chain** — that part stands, for the reason given
+   above: cross is where a chain gets cut.
+
 2. ⭐ **Concede early and without being pushed.** *A manager may change a process? She was entitled
    to fix a database? She had a department to run?* **Yes.** Conceding against interest before being
    pressed is a demonstrated strength and it costs nothing — the case does not depend on Ms Taylor
@@ -238,7 +256,7 @@ fact"*. That is the map. Three fronts:
 | Front | Exposure | Answer |
 |---|---|---|
 | **The medical / causation** | ⚠⚠ **The live one.** Feb ¶32 — the records show anxiety and ADHD from **26 Oct 2022**, *"which is missing from Exhibit A5"*; SOFC ¶8 refuses a clean baseline. **No admission touches it** | Dr Krishnaiah, and his own evidence of the change over the period. Do not argue the diagnosis from the box |
-| **Reasonableness (s 32(5)(a))** | Real but weak **on the keystone** — one unreasonable stressor suffices (*Hochen*, adopted in *Mahaffey*; not cured by outnumbering, *Adams*). ⛔ Do **not** invite a global weighing of all thirteen items: that is *Delaney*, and it is theirs | Concede authority, contest the manner, keep the weight on the admitted break. §4A.2 rule 1 |
+| **Reasonableness (s 32(5)(a))** | Real but weak **on the keystone** — one unreasonable stressor suffices (*Hochen*, adopted in *Mahaffey*; not cured by outnumbering, *Adams*). ⭐ *Delaney* is **ours** and defeats the ¶22(a) *"not repeated"* clamp. ⛔ The risk is **flattening** into thirteen mini-trials, not *Delaney* itself | Concede authority, contest the manner, keep the weight on the admitted break. §4A.2 rule 1 |
 | **Him** | State of mind, his own emails, a hostility narrative | **Harrison-Jones ¶7** and **Conaghan ¶13** — neither has heard him speak of Ms Taylor or any staff member in hostile terms |
 
 ## 4A.6 WHS IS A YARDSTICK, NEVER A CHARGE
