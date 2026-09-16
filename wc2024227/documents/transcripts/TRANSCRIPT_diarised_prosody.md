@@ -1,5 +1,40 @@
 # WC/2024/227 — MENTION OF 7 AUGUST 2026 — DIARISED TRANSCRIPT WITH PROSODY
 
+## ⚑ AMENDMENT LOG
+
+Amendments are participant corrections to the **machine-inferred speaker labels**. They do not
+alter transcribed words, only who is recorded as having said them. Each is marked inline with ✔
+at the point of amendment. Participant confirmation is a **higher evidentiary class** than the
+Viterbi inference described under Method, because it comes from a person who was in the room.
+
+| ID | Date | Location | Change | Source | Confidence |
+|---|---|---|---|---|---|
+| A1 | 2026-09-16 | ~30:16, inside the turn timestamped 29:45.62 | "Yeah, I actually understand what you're getting at." re-attributed **DWYER IC → MR SHEPHERD** | Mr Shepherd, participant, present at the proceeding | **100%** |
+
+**A1 note — purpose, as stated by the speaker.** The words were spoken as an acknowledgement of
+the Commissioner's point and as a **preface to explaining his disclosure request**. They conveyed
+**neither acceptance nor rejection** of the approach the Commissioner was proposing; the speaker
+was not answering the proposal at that moment, he was opening an explanation. That explanation did
+not follow, because the Commissioner speaks over the interjection and completes his sentence.
+
+The line sits in the segment class the Method section identifies as the weakest for automated
+attribution: a short interjection inside another speaker's turn.
+
+**What A1 does not establish.** The amendment records **what was said and why the speaker said it**,
+both of which are within his own knowledge. It does **not** record how the words were received or
+understood by the Commissioner, which is outside the speaker's knowledge and outside the transcript.
+Any view about that is inference drawn from the surrounding turns, is not participant evidence, and
+forms no part of this amendment.
+
+**Effect on the counts below.** One segment moves from Commissioner Dwyer to Mr Shepherd. The
+SPEAKING SHARE table is the unamended pipeline output and has not been recomputed; read it
+subject to this amendment.
+
+⛔ This remains an **uncertified machine transcript**. The amendment improves it; it does not
+certify it. Order the certified transcript before any passage is quoted externally.
+
+---
+
 **Source.** `PRF0466309_20260807_QIRCOIR_Brisbane` — audio of proceeding, 64 kbps MP3,
 3,875.9 s (64 min 36 s). The recording **begins mid-sentence**, already inside the Commissioner's
 opening remarks; the appearance announcements are not on the tape.
@@ -37,7 +72,20 @@ Long turns and question-answer exchanges are reliable. The residual errors are c
 one- and two-word interjections and in overlapping speech. ⛔ **Order the certified transcript
 before any passage is quoted externally.**
 
+**Confidence classes for speaker labels, highest first:**
+1. **Participant-confirmed (100%)** — corrected by a person who was present. See the Amendment Log.
+   Currently: amendment A1.
+2. **Hand-checked anchor (validated)** — the 30 turns cross-referenced against the independent
+   small.en transcript, 27 of which were correct.
+3. **Inferred (≈90%)** — the Viterbi assignment over acoustic, lexical and adjacency evidence.
+   Long turns sit at the reliable end of this class.
+4. **Weakest** — short interjections inside another speaker's turn, and overlapping speech.
+   A1 was a class-4 label before amendment, and is now class 1.
+
 ## SPEAKING SHARE
+*Unamended pipeline output. Amendment A1 moves one segment from Commissioner Dwyer to Mr Shepherd;
+the figures below have not been recomputed.*
+
 | Speaker | Segments | Talk time | Share |
 |---|---|---|---|
 | Commissioner Dwyer | 846 | 2,949 s (49m 09s) | **86.2%** |
@@ -694,7 +742,19 @@ yourself to a point where you're satisfied with the approach, a different approa
 or a more practical approach,  `flat`
 or a more cohesive and cooperative approach  `↑+2.3st`
 with the parties that are sitting at the other end of the table.  `flat fast 5.8w/s`
+
+> **✔ AMENDMENT A1 — speaker re-attributed. Confidence: 100% (participant).**
+> The following interjection was originally labelled DWYER IC. It is **MR SHEPHERD**,
+> confirmed 16 September 2026 by Mr Shepherd, who was present and who states the words are his.
+> **Purpose stated by the speaker:** an acknowledgement of the Commissioner's point, spoken as a
+> **preface to explaining his disclosure request**. It conveyed **neither acceptance nor rejection**
+> of the approach the Commissioner was proposing. The explanation did not follow: the Commissioner
+> speaks over it and completes his sentence.
+
+**~30:16  MR SHEPHERD**  ✔ *(amended A1 — 100%, participant-confirmed)*  
 Yeah, I actually understand what you're getting at.  `wide`
+
+**DWYER IC** *(continuing, interrupting)*  
 If we can't get to that,  `↑+5.9st fast 6.4w/s louder`
 I'm going to schedule this disclosure dispute for a hearing.
 
@@ -1611,3 +1671,61 @@ All right.
 
 **64:33.80  DWYER IC**  `flat`  
 Thanks, Paddy.
+---
+---
+
+# ⛔ NOT PART OF THE RECORD — READER'S NOTES ON FOUR CONTESTED PASSAGES
+
+> **Everything above this rule is the transcript. Everything below it is commentary and must never be
+> quoted, served or tendered as though it were part of the record.** These notes exist so that four
+> passages whose meaning has been argued over are not re-argued from memory. Each cites the timestamp
+> and is checkable against the text above. Full reasoning: `skill/references/MENTION-7AUG2026-ASSESSMENT.md`
+> §99 and `skill/references/TRANSCRIPT-ACCURACY-comparison.md`.
+
+## N1 — [16:29] *"I guess I did request"* — the passage where ASR choice changes the meaning
+
+| Engine | Rendering |
+|---|---|
+| faster-whisper **small.en** | *"**I didn't request**, but I didn't be specific about that."* |
+| **large-v3** (this transcript) | *"**I guess I did request**, but I didn't be specific about that."* |
+
+**Opposite meaning, on the central question of the morning** — whether the Regulator had been asked
+first. On small.en he never asked; on large-v3 he asked, imprecisely. large-v3 is the measured-more-
+accurate engine (9,616 words vs 9,343; mean segment confidence −0.180, none below −0.59; zero
+hallucinations found against two in small.en). ⛔ **Never cite the small.en rendering of this line.**
+
+## N2 — [23:37]–[26:31] "filters" is not a vocabulary gap
+
+**A phrase is the criterion; a filter is the mechanism that applies it.** At [23:40] the Appellant
+named the system (eHealth/Outlook), the operation (*"you put a word in … and it filters all the
+words"*), the criterion (*"effective immediately"*), the scope (the manager's sent mail, A–E) and the
+output sought (*"I basically just want the count"*). ⭐ **That is a complete specification of a
+bounded search, given live and unprepared.** The Commissioner did not retrieve the operation from the
+word, having said in the same hearing that his brain switches off under load. ⇒ **Read this passage
+as the Appellant explaining a technical concept to the bench, never the reverse.**
+
+## N3 — [43:36]–[46:52] "actively suppressed" — a concession **and** a self-correction
+
+At [46:10], to *"actively means they deliberately — am I right about that?"*, the answer was
+*"**I don't know if I can prove it as much.**"* At [46:44], unprompted, he re-specified:
+*"it wasn't actively **spread**, it was actively **avoided**, but would be more likely."*
+
+⭐ A concession against interest followed by a more accurate substitute word, produced live. **The
+pleaded adverb was wrong; the underlying facts — interest expressed April 2023, thirteen months, never
+formally installed, the union chasing — are untouched.**
+
+## N4 — [51:24]–[52:04] the comparator class slides mid-answer
+
+*"Between me and my colleague"* [51:47] → *"**My colleagues generally** because I would be rostered
+off"* [51:52], after the Commissioner offered both alternatives. ⚠ A 42% figure computed against
+**one** comparator was restated as holding against **the group**. **A precision defect, not a
+vocabulary one.** The fix is a fixed sentence: one named comparator, one stated period, one figure.
+
+---
+
+**Provenance of this file.** Audio `PRF0466309_20260807_QIRCOIR_Brisbane`. Segment data:
+`MENTION_7AUG2026_segments.jsonl`. Diarisation method: `diarise_inferential.py`. All three are kept
+together so the diarisation is reproducible; none may be deleted independently of the others.
+⚠ **No certified transcript exists.** Request ATR0282381 to QTranscripts was for **audio only** and
+the notification of 18 August 2026 is a request record, not a transcript. **This file, and the
+small.en text it supersedes, are machine-generated and uncertified.**

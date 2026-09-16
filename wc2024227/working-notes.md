@@ -7523,3 +7523,47 @@ Register, Tab 31 — provenance, the register itself not disputed). Denied: none
 
 Cover letter reserves relevance, admissibility, weight and any inference drawn — orthodox, and it does
 not touch the primary facts.
+
+## 2026-09-16 — Mention record solidified; transcript made canonical + PDF
+
+**Transcript.** `documents/transcripts/TRANSCRIPT_diarised_prosody.md` replaced with the amended
+version carrying **amendment A1** (the ~30:16 line re-attributed DWYER IC → MR SHEPHERD, participant-
+confirmed, 100%) and the four speaker-label confidence classes. Added a **"NOT PART OF THE RECORD"**
+appendix, behind a hard rule, holding reader's notes on four contested passages (N1 the [16:29]
+small.en/large-v3 meaning split; N2 filters; N3 "actively suppressed"; N4 the comparator class slide).
+**PDF generated** at `documents/transcripts/TRANSCRIPT_diarised_prosody.pdf` — 14pp, text layer
+present, built via `lodgement/_md2html.py` + headless Chromium.
+⚠ **Only one transcript exists in the repo** and it is that file; nothing was deleted. The
+`MENTION_7AUG2026_segments.jsonl` and `diarise_inferential.py` are kept with it so the diarisation
+stays reproducible. **There is no certified transcript** — ATR0282381 was an **audio-only** request
+and the 18 Aug notification PDF is a request record, not a transcript.
+
+**⛔⛔ CORRECTION — the "live-room vocabulary gap" does not exist.** New §99 of
+`skill/references/MENTION-7AUG2026-ASSESSMENT.md`. **Filter and phrase are one operation described
+from two ends** — the phrase is the criterion, the filter is the mechanism that applies it. At
+[23:40] the Appellant named the system, the operation, the criterion ("effective immediately"), the
+scope and the output sought ("I basically just want the count"): a complete specification of a
+bounded search, live and unprepared. The Commissioner did not retrieve the operation from the word,
+having said in the same hearing that his brain switches off under load. **The cost landed on the
+Appellant because cost lands on the person who needs something, not because the description was
+wrong.**
+
+**The corrected evidence base — neither survivor is a vocabulary problem:**
+- **PRECISION** — the pay comparator [51:47]→[51:52]: *"Between me and my colleague"* restated as
+  *"My colleagues generally"* after both alternatives were offered. Fix: one named comparator, one
+  stated period, one figure.
+- **PLEADING** — "actively suppressed" [46:10]: *"I don't know if I can prove it as much"*, then
+  **self-corrected unprompted at [46:44]**: *"it wasn't actively spread, it was actively avoided."*
+  A concession against interest plus a more accurate substitute word, produced live. The adverb was
+  wrong; the underlying facts stand. ⇒ **never plead an adverb of state of mind without a document
+  that proves the state of mind** (same family as: never open the s 32(5)(b) door).
+
+**Register.** How he presents is how he thinks. But Dwyer's register is not his cognition either — it
+is a trained second output on the same mind. Acquiring one is a second format, not a correction.
+⇒ The Form 24 route **is** that second format, produced on paper at his own pace: 303 propositions,
+298 admitted.
+
+**✅ PINPOINT FIXED.** `CLAUDE.md` header changed **s 550(4) → s 549**. The sealed Further Directions
+Order (3) is headed *"APPEAL AGAINST DECISION OF RESPONDENT PURSUANT TO SECTION 549"*. s 549 is the
+appeal right; s 550 is procedure and s 550(4) the filing step. Full provision map in
+`skill/references/REGULATOR-DUTIES-AND-REPORTING.md` §6.
