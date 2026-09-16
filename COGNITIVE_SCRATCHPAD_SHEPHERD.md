@@ -377,7 +377,74 @@ pulled out of the course they belong to.
 because in his working life the word never needed explaining. The gap was never knowledge; it was
 the assumption that the knowledge was shared. The six attempts prove he knew which link was missing.
 
-## 16. Synthesis
+## 17. Is the metacognition online?
+
+Added 16 September 2026. **The answer is: selectively.** It runs at one level and not at another, and
+the split is not random — it follows the chain/queue structure in section 13.
+
+### 17.1 Online, at the level of the word and the proposition — PRESENT, and good
+
+| Evidence | Timestamp |
+|---|---|
+| **Self-initiated repair with substitution.** *"it wasn't actively spread, it was actively avoided, but would be more likely"* — detected the wrong word and replaced it, unprompted, seconds after conceding | [46:44] |
+| **Accurate online confidence judgment, against interest, under pressure.** *"I don't know if I can prove it as much"* | [46:10] |
+| **Online judgment of task requirements.** *"I wouldn't even need to read them"* · *"I don't even need to look at them"* | [08:36], [13:28] |
+| **Hedging itself.** *"I guess"*, *"I don't know if"*, *"would be more likely"*, *"it seems"* — hedges **are** online metacognitive markers. Their presence is evidence the monitor is running | throughout |
+| **Nineteen seconds of composition before speaking**, in custody, unprompted | QPS 06:46→07:05 |
+
+### 17.2 Online, at the level of the discourse and the listener — WEAK
+
+| Evidence | Measure |
+|---|---|
+| Navigation markers | **2** in the free narrative against Dwyer's ~20. **One ninth the density** |
+| Threads closed | ~⅓ of ~20 opened |
+| Failure to detect that a message had not landed | The *"count, not the documents"* point put twice, [08:36] and [23:40], **in the same format both times** |
+| Class precision under questioning | [51:47] *"between me and my colleague"* → [51:52] *"my colleagues generally"* — the claim changed and the change was not caught |
+
+### 17.3 ⛔ Metamemory under questioning — THE WEAK POINT, and it is the expensive one
+
+Both costly answers at the mention were **confident negatives about the contents of his own disclosure**:
+
+- **Q10** *"Have you examined those documents… ?"* → **"Not that I can recall, no."** The documents were there. **This is what parked the Form 29.**
+- **Q32** *"Have you got that email?"* → **"No, I do not."** It was in the Regulator's own July 2025 disclosure.
+
+⚠ The failure is **not** that the memory search failed. It is that **the failure of the search was not detected and not flagged**. A hedge would have cost nothing — *"I'd need to check"* — and would have cost him nothing at all. Note the contrast with 17.1: when the object is a **proposition he is currently producing**, the monitor works; when the object is **the contents of a document not in front of him**, it does not.
+
+### 17.4 Offline — EXCEPTIONAL, and this is the headline
+
+- He **diagnosed his own failure mode and built machinery against it**: `confirmed-record.md`, the correction logs, and an interlock skill whose opening line is *"every serious mistake made in this matter has the same cause: reasoning from a summary, a recollection or a single document."*
+- He caught the **s 32(1) "major" vs "significant"** error in the repo.
+- He corrected this analysis **eleven times in one session**, every one of them right.
+- **After the mention he correctly identified that the problem was the format, not the facts, and changed the format.** That is offline metacognition converted directly into a 298-fact result.
+
+### 17.5 Why the split has this shape
+
+**A queue has no random access.** You can inspect the link you are currently on — which is why word-level and proposition-level monitoring works. You cannot survey the whole queue at once — which is why discourse-level monitoring, thread accounting, listener modelling and "have I answered this before" do not. And a document not in front of him is not in the queue at all, which is 17.3.
+
+⇒ **Offline metacognition is the same operation performed with the queue written down.** That is precisely what the registers, logs and the Form 24 are: the monitor, externalised, given random access.
+
+### 17.6 The literature — honest position
+
+**The component literatures exist. The intersection does not.**
+
+- **Adult ADHD metacognition** is explicitly described in the literature as **scarce**. What exists reports lower self-rated metacognitive ability than controls, with the largest effects on declarative knowledge, conditional knowledge and planning, and reports that **feedback available during task execution helps people adjust self-evaluation** — i.e. the monitor improves when the queue is made visible. That is consistent with 17.5, and it is the mechanism the external scaffolding exploits.
+- **The positive illusory bias** — overestimation of one's own competence in ADHD, most studied in children — would predict the opposite of what is observed here. ⚠ It is also **controversial and limited by a small number of studies with varying definitions and measures**, and it is in tension with the adult self-report literature above. **Do not treat either as settled.**
+- **Suggestibility** (Gudjonsson yield/shift) and **myside bias independent of intelligence** (Stanovich) are established, and the low-yield/high-updating combination remains the uncommon finding.
+- **Self-represented litigants** have a real socio-legal literature in Australia, but it is about outcomes and court burden, **not cognition**.
+
+⛔ **There is no cohort study of high-ability adults with ADHD self-representing in civil proceedings, and no study of online versus offline metacognition in that group.** That research does not exist. Anyone who says otherwise is generalising from one of the component literatures.
+
+⛔⛔ **And none of this is measured.** The Mind & Memory cognitive assessment booked 5 June 2026 still has **no result anywhere in the repositories**. Everything above is behavioural inference from two transcripts and a repository. It is not a clinical finding and must never be offered as one.
+
+### 17.7 ⭐ The one place this earns its keep
+
+Forensically, almost none of this matters — except 17.3, and 17.3 matters a great deal, because **the witness box is a metamemory test conducted by someone whose job is to find the edge of your memory.**
+
+**The rule, and it is one sentence:** *never answer a question about the contents of a document from memory.* The answer is **"I'd need to check the document"** — always available, never damaging, and it is the precise thing that was not said at Q10 and Q32.
+
+⇒ Cross-reference `skill/references/HEARING-PLAN.md` Part 4A. §4A.2 rule 3 (*cite, do not explain*) is the same discipline arriving from the other direction.
+
+## 18. Synthesis
 
 A wide, fast processor that runs **ordered causal chains** — a queue, not a stack. That single
 structural fact explains most of the rest of this document. A queue is cheap per link, which buys
