@@ -206,3 +206,73 @@ of the file before him**.
 ⇒ The record does not certify a state of mind, and does not need to. It shows that both limbs of the
 test he chose had been read into the hearing by him, one of them voluntarily and against his own
 stated scope, before he used them.
+
+---
+
+## 10. ADDENDUM — the reading of Stressor 1 traces the chain (16 September 2026)
+
+> **Status.** Record (the quotations) plus inference (the closure). All quotations are the
+> Commissioner's own voice, reading the Amended Form 9A aloud at the mention of 7 August 2026.
+
+### 10.1 What he read, in pleaded order
+
+| Item | Time | His words (verbatim) | Object |
+|---|---|---|---|
+| **1(a)** | [27:44] *(read by MR SHEPHERD, at the Commissioner's prompting)* | *"She's erratic physical presence and imposes unassessed unilateral directives."* | the directives |
+| — | **[29:17]** | **MR SHEPHERD:** *"…not sent to someone having a cardiac arrest… not sent to someone in respiratory distress…"* → ***(5.7 s)*** | **the contact numbers** |
+| **1(b)** | **[34:43]** | *"Unilateral destruction of work health and safety records. On the 6th of June, the appellant recorded a critical operational instruction in the communication book **regarding the necessity of updating medical on-call contact numbers**. Ms Taylor unilaterally removed and destroyed this entry."* | **the contact numbers** |
+| **1(c)** | [36:57] | *"Ms Tammy Reese **dismissed the complaint the same day without formal investigation** and **directed the appellant to continue reporting directly to Ms Taylor**."* | the WHS/fatigue complaint |
+| **1(d)** | [37:29] | *"Ms Taylor forced the actively ill appellant to self-administer COVID-19 special pandemic leave via MyHR, **a facilitation she routinely exercised directly for other staff**."* | the leave |
+| **1(e)** | [38:38] | *"lodged a corrupt conduct complaint **regarding clinical risks**… Ethical Standards Unit **formally determined** this constituted a public interest disclosure."* | **clinical risks** |
+| **1(f)** | [39:26] | *"**Within 48 hours of the PID being lodged**, Ms Reese directed the appellant to retract a routine workplace email. A highly comparable email sent by Ms Taylor attracted no such discipline."* | the disclosure |
+| **1(g)** | [43:45] | *"this deliberate administrative inaction left the department operating without local delegate representation **precisely during a period when the appellant was actively attempting to dispute unsafe time rostering**."* | **the rostering dispute** |
+| *(unpleaded)* | [~55:50] | *"the last one, **which isn't necessarily identified as a stressor, but I'll go to it anyway**… the employer **terminated the appellant**… the appellant was **subsequently reinstated**."* | the dismissal |
+
+### 10.2 The object does not change
+
+The destroyed communication-book entry was, on the Commissioner's own reading,
+*"regarding the necessity of updating medical on-call contact numbers"* — **the identical subject
+matter** of the [29:17] chain, not an analogous one. He read that five minutes after the silence.
+
+1(g), likewise in his voice, returns the terminus to the origin: representation was absent
+*"precisely during a period when the appellant was actively attempting to dispute unsafe time
+rostering."*
+
+### 10.3 Read in his order, the sequence is
+
+The on-call numbers need correcting → **the record saying so is removed** → raising it is dismissed
+the same day and the appellant is directed back to the same manager → disclosing it is **formally
+determined** a public interest disclosure about **clinical risks** → **within 48 hours** a retraction
+is directed, where a comparable email by the manager drew none → delegate representation is absent
+**while the rostering is being disputed** → termination → reinstatement.
+
+### 10.4 Two destroyed records of one problem
+
+| Record | Fate | Source |
+|---|---|---|
+| Communication-book entry, 6 June 2023, on updating on-call contact numbers | **Removed** — page removal admitted | Form 24 ¶6 / ¶14; Aff ¶31; Form 29 **Item 18** |
+| SPOK emergency-paging records (which clinician paged, acknowledgement, misdirection, timestamps) | *"records predating that upgrade **were not retained**"* | MSH letter K-LM26/729, **Items 1–2**; Aff ¶¶9, 50 |
+
+⇒ The contemporaneous entry and the system log of the same failure are both unavailable. That is why
+joint 5 (§3) cannot be proved from the appellant's own hand, and why the **produce-or-swear**
+verification under Schedule C is the operative relief rather than production itself.
+
+### 10.5 The closure
+
+A list of grievances has no order. This has one: an origin (the contact numbers), a hinge (the entry
+removed), a validation (the ESU determination), a fixed interval (48 hours), and a terminus (the
+dismissal, reversed). Each item is the consequence of its predecessor and the object is constant.
+It is therefore not capable of being read as seven separate workplace complaints.
+
+⚠ **This is not a *Delaney* composite course.** The sequence is evidence of **one mechanism** —
+responsibility imposed, the means to discharge it withheld — with **one admitted instance** (the
+7-hour break of 17–19 March 2024). That is ***Mahaffey***. The reading traces the chain; it does not
+convert thirteen strands into thirteen arguments.
+
+### 10.6 The significance of the reading itself
+
+The Commissioner performed the sequence aloud, item by item, auditing documentary sufficiency after
+each (*"Got all that? Okay, tick"*). He could not read the pleading in its pleaded order without
+tracing the chain — and at [62:30] he named as the single live area *"the unassessed directives…
+**you might be on to something there. They might have an obligation to provide those**"* — the item
+the chain begins from.
