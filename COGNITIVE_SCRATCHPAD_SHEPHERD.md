@@ -311,6 +311,15 @@ room heard as drift was link three of five with links one and two removed.
 
 ## 14. Prosody, measured (835 markers extracted)
 
+> ⚠ **PROVENANCE, corrected 16 September 2026.** These 835 markers were **not measured from audio in
+> this analysis.** They were computed from the audio by the **original transcription pipeline**
+> (Praat via parselmouth, F0 and intensity per segment) and written into the transcript as markers;
+> what was done here was to **parse them back out of the markdown and aggregate them**. The numbers
+> are therefore as good as the original pipeline — real audio measurements — but they are
+> second-hand through the transcript, already rounded into marker form, and no raw F0 contour was
+> re-examined. **No audio has been available at any point in this analysis.**
+
+
 | | Dwyer | Shepherd |
 |---|---|---|
 | Speed markers | 93 (79 fast / 14 slow) | 21 (20 fast / 1 slow) |
