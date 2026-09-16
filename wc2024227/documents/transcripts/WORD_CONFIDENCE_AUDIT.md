@@ -9,34 +9,48 @@ Anything at or near those rates is normal; the interest is in individual words, 
 
 ---
 
-## THE HEADLINE FINDING ⭐⭐
+## ⛔ THE HEADLINE HYPOTHESIS WAS TESTED AND REFUTED — 16 September 2026
 
-### "spread" at 46:48.54 — **p = 0.23**, and everything around it is 0.98–1.00
+This file originally proposed that **"spread" (p=0.23) at 46:48.54 was a mis-recognition of
+"suppressed"**, on the grounds that it was by far the weakest word in the passage and that "an
+appointment is not actively spread". **The audio was obtained and the window re-decoded. The
+hypothesis fails on both grounds.**
 
-> *"The correspondence I also got from the manager, but it wasn't actively **spread**, it was actively avoided"*
+### The re-decode, five conditions
 
-| word | p | | word | p |
-|---|---|---|---|---|
-| The | 0.96 | | but | 1.00 |
-| correspondence | 1.00 | | it | 0.98 |
-| I | 1.00 | | wasn't | 0.99 |
-| also | 1.00 | | actively | 1.00 |
-| got | 1.00 | | **spread,** | **⚠ 0.23** |
-| from | 0.99 | | it | 0.98 |
-| the | 0.98 | | was | 1.00 |
-| manager, | · 0.57 | | actively | 1.00 |
+| Decode | Prompt primed "suppressed"? | Word returned | p |
+|---|---|---|---|
+| Original run (Aug, beam 5) | — | `spread,` | 0.23 |
+| Re-decode, context pass | **yes** (domain prompt **and** Dwyer saying it 3× in-window) | `spread.` | 0.32 |
+| Re-decode, no-context pass | **yes** (domain prompt) | `suppressed,` | 0.46 |
+| Clean, neutral prompt | no | ⛔ **hallucinated** — *"Subtitles by the Amara.org community"* | — |
+| **Clean, NO prompt at all** | **no** | **`spread,`** | **0.20** |
 
-**It is the weakest word in the passage by a wide margin, and it is semantically wrong.** An
-appointment is not "actively spread". In a sentence built as *"it wasn't actively ___, it was
-actively avoided"*, the contrasted word is the pleaded term the Commissioner had just put to him —
-**"suppressed"**.
+⇒ **Three of four valid passes return "spread", including the only genuinely unprimed one.** The
+single "suppressed" reading came from the pass most primed toward it — **by the operator's own domain
+prompt, which contained the phrase "actively suppressed"**. That was a methodological error in the
+first re-decode and it is disclosed here.
 
-⚠⚠ **This is a hypothesis, not a finding. It cannot be confirmed without the audio.** But it matters:
-on the reading *"it wasn't actively **suppressed**, it was actively avoided"*, the self-correction
-becomes exactly what §99.3(b) of the mention assessment describes — the pleaded adverb withdrawn and a
-narrower one substituted, live and unprompted. **This is the priority target for any re-decode.**
+### The semantic argument was also wrong
 
----
+The subject of the clause is **the correspondence**, not the appointment. The fuller passage recovered
+by the unprimed decode reads:
+
+> *"It's more so the correspondence you got from the union. **The correspondence I also got from the
+> manager**, but it wasn't actively **spread**, it was actively avoided, but would be more likely."*
+
+Correspondence can straightforwardly be *spread*. The original objection mis-identified the subject.
+
+### ⚠ Two method notes worth keeping
+
+1. **Never put a disputed word into the decoder's prompt.** It contaminated the pass that produced
+   the only contrary reading.
+2. **An under-specified prompt is worse than none.** The "neutral prompt" condition **hallucinated**
+   a stock YouTube-subtitle string on this audio. Low-information prompts on quiet, distant-mic audio
+   invite fabrication. **Any empty or odd result must be inspected raw before it is read as a finding.**
+
+⇒ **The transcript was right. "spread" stands.** Low probability here reflects a quietly spoken word
+on a distant microphone, not an error.
 
 ## WHAT IS VERBATIM-CERTAIN, AND CAN BE QUOTED
 

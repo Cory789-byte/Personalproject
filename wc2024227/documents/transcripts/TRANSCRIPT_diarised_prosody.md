@@ -1708,11 +1708,20 @@ as the Appellant explaining a technical concept to the bench, never the reverse.
 
 At [46:10], to *"actively means they deliberately — am I right about that?"*, the answer was
 *"**I don't know if I can prove it as much.**"* At [46:44], unprompted, he re-specified:
-*"it wasn't actively **spread**, it was actively **avoided**, but would be more likely."*
+*"it wasn't actively **spread**, it was actively avoided, but would be more likely."*
 
 ⭐ A concession against interest followed by a more accurate substitute word, produced live. **The
 pleaded adverb was wrong; the underlying facts — interest expressed April 2023, thirteen months, never
 formally installed, the union chasing — are untouched.**
+
+> **✅ "spread" CONFIRMED by re-decode, 16 September 2026.** An earlier version of this note proposed
+> that "spread" (p=0.23) might be a mis-recognition of "suppressed". **That hypothesis is refuted.**
+> A targeted re-decode of the audio at beam 10 returned "spread" in **three of four valid passes**,
+> including the only pass run with **no prompt priming at all** (p=0.20). The single "suppressed"
+> reading came from the pass most primed toward that word by the operator's own domain prompt.
+> The semantic objection was also wrong: the subject of the clause is **the correspondence**, not the
+> appointment — *"The correspondence I also got from the manager, but it wasn't actively spread, it
+> was actively avoided"* — and correspondence can of course be spread. **The transcript was right.**
 
 ## N4 — [51:24]–[52:04] the comparator class slides mid-answer
 
