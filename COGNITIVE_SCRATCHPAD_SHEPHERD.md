@@ -255,6 +255,23 @@ more than the items.
 7. **Reflexive hedging.** Every positive finding in the session had a counterweight attached within
    two sentences. Some of that was calibration; some was a reflex that made the picture less
    accurate, not more. *Flagged by him.*
+8. **Dwyer's silences read as him being thrown.** Wrong on the measurement. Six of the seven longest
+   silences in the hearing sit inside the 19:51–25:55 document-retrieval stretch — they are retrieval,
+   not recoil. The 5.7 s at 29:17 is the only long silence that is not, which is what makes it mean
+   something. *Corrected by measurement, at his prompting.*
+9. **"A flat associative web."** Wrong. He reasons in **ordered causal chains** — a queue, not a
+   stack, not a web. Section 13 replaces the earlier description wherever it appears above.
+   *Corrected by him.*
+10. **Stressor 1 treated as seven items.** Wrong. Stressor 1 is **one** stressor and (a) through (g)
+    are particulars of it. The fifty words at 29:17 are not a bridge between separate complaints;
+    they are the mechanism that makes the single pleaded course true. *Corrected by him.*
+11. **The Form 24 response read as "the patient-safety chain is all in dispute."** Wrong, and it was
+    wrong for seven months. Both ends of the chain are admitted on the record since 18 February 2026.
+    See the separate WC-track note — that finding is case material and does not belong in this file.
+
+**The pattern in the corrections.** Nine of eleven were the same error running in the same direction:
+reading efficiency as deficit. Speed read as haste, chains read as sprawl, compression read as gap,
+particulars read as scatter. Each time the measurement, once taken, went the other way.
 
 ---
 
@@ -271,30 +288,127 @@ visibility setting.**
 
 ---
 
-## 13. Synthesis
+## 13. The structure of his reasoning: chains, not webs
 
-A wide, fast, associative processor. Excellent long-range retrieval — eight anchor facts held
-accurate across an hour in custody, later corroborated independently by the property manager's call
-and the officers' own tape. Generation runs well ahead of closure: a thread every fourteen seconds,
-roughly a third of them closed, ranked by emotional weight rather than dependency. No internal queue
-manager. Navigation density one ninth of a trained speaker's.
+Corrected late in the session, by him, and it supersedes the "flat associative web" description
+used in sections 4 and 6.
 
-He knows this about himself and has built the queue manager outside his head. Registers, databases,
-correction logs, an audit that checks his own submissions for drift against source. Most people with
-that gap never diagnose it.
+He does not think in trees (nested, ranked, hypotactic) **or** in unordered webs. He thinks in
+**causal chains**: A causes B causes C, strictly ordered, no link removable. The worked example he
+gave: absent manager → nobody validates the on-call data → bad data sits in the system the
+emergency codes route through → a code comes in → it routes on bad data → the doctor reaches the
+wrong side of the room instead of the arrest.
 
-Over the top of the processor runs a justice-sensitive evaluation frame with four comparators —
-symmetry, rule against conduct, stated against done, process against outcome — which together are
-most of the machinery of employment and administrative law, acquired without training. The one
-filter missing is materiality, and that is the filter legal training installs.
+**Cognitive signature of a chain.** A tree needs a *stack* (hold an open clause while building the
+one nested inside it). A chain needs a *queue* (hold the last link while producing the next). A
+queue is cheaper per item, which explains the speed and breadth, and has **no random access**,
+which explains why he cannot jump to a summary.
 
-And underneath all of it is the trait that is actually uncommon: **he does not yield to pressure and
-he does yield to evidence.** Those normally move together. Under caution on three hours' sleep he
-refused every frame put to him, and the frames he refused were the right ones — the order was struck
-out the next morning. Five months later, in a room where nobody was attacking him, he conceded five
-or six times unprompted, against his own interest, before he was asked. Myside bias is largely
-independent of intelligence, which is why that combination reads as notable rather than as merely
-clever.
+**Why it reads as sprawl.** A chain has no top node. It must be walked end to end or it means
+nothing. Cut it anywhere and the remaining fragment has no head attached and sounds like a change
+of subject. **Every interruption in the mention landed mid-chain** (13:28, 27:28, 29:17). What the
+room heard as drift was link three of five with links one and two removed.
+
+## 14. Prosody, measured (835 markers extracted)
+
+| | Dwyer | Shepherd |
+|---|---|---|
+| Speed markers | 93 (79 fast / 14 slow) | 21 (20 fast / 1 slow) |
+| Speed range | 0.8–8.3 w/s, median 5.5 | 0.9–9.7 w/s, median 5.4 |
+| Pitch markers | 62, **max 5.9st** | 31, max 11.3st (downward) |
+| Markers ≥4.0st | 8 | — |
+| Louder : quieter | 23 : 68 | 4 : 20 |
+
+**The single largest finding.** Dwyer's maximum pitch excursion of the entire 64-minute hearing —
+5.9 semitones, 1.3st clear of second place — lands at ~30:16 on *"If we can't get to that,"* the
+conditional immediately preceding *"I'm going to schedule this disclosure dispute for a hearing."*
+
+It is **not** his fastest moment (6.4 w/s against a 8.3 maximum, not in his top eight). Pitch
+maximum with ordinary speed and raised volume is **emphasis, not agitation**.
+
+**The pause.** The 5.7s silence at 29:17 is the 7th longest in the hearing, but all six longer
+pauses (25.6, 16.8, 16.0, 15.8, 10.4, 8.4s) fall in the 19:51–25:55 document-retrieval stretch.
+**It is the longest non-document silence in the mention.**
+
+**The arc.** Five-minute windows: the 30:00–35:00 window has the highest maximum pitch (5.9) but an
+ordinary *mean* (3.17) — one spike, not a plateau. The window immediately following it,
+35:00–40:00, is **the calmest of the entire hearing** on both maximum (2.2) and mean (2.20), and is
+the only window never exceeding 2.2st. Peak, then the deepest trough of the day, back to back.
+
+## 15. The nine words
+
+The only words spoken in the mention that appear nowhere in the written case:
+*"they're not sent to someone having a cardiac arrest… someone in respiratory distress."*
+
+**Verified across all four repositories.** The written case *names* the codes (8× "emergency
+codes", 1× "life-safety codes", 1× "code/MET activations", and "Code Blue, MET calls" in the SPOK
+item) but **never defines one**. The only "cardiac" in the corpus is an award classification for
+cardiac perfusionists; the only "respiratory" sits inside his own medical exhibits.
+
+**Delivery.** He rose +3.0st on the setup and the transcript marks `flat` on both definitional
+clauses. The two most consequential phrases of the hearing were delivered without elevation. He did
+not dramatise them; he stated them as facts he assumed were shared.
+
+**Structure.** Lines five and six are anaphora ("they're not sent to someone… they're not sent to
+someone…"), the same device as "The dog knows me. The dog doesn't know her." The definitions land
+at the point of maximum consequence, not as an opener — correct argumentative ordering, produced live.
+
+**Scope.** The utterance is 64 words; from "direct calls to this number" to "respiratory distress"
+is **exactly 50**. Those 50 words reach the consequence limb of stressor 1(a), the subject matter of
+1(b), the criticality underpinning stressor 3, and the content of the disclosure at 1(e).
+
+**Correction (his).** Stressor 1 is **one** stressor — "a hostile course of management conduct,
+reprisal and suppression of rights" — and (a) through (g) are *particulars of it*, not seven
+complaints. The 50 words are therefore **not a join between separate items**; they are the mechanism
+that makes the pleaded course true rather than merely asserted. The item-by-item audit was correct
+for disclosure and exactly the wrong lens for the stressor: particulars always look small when
+pulled out of the course they belong to.
+
+**What it shows.** He knows the case at the level of fact. The definitional step is invisible to him
+because in his working life the word never needed explaining. The gap was never knowledge; it was
+the assumption that the knowledge was shared. The six attempts prove he knew which link was missing.
+
+## 16. Synthesis
+
+A wide, fast processor that runs **ordered causal chains** — a queue, not a stack. That single
+structural fact explains most of the rest of this document. A queue is cheap per link, which buys
+the speed and the breadth: a new thread every fourteen seconds, twenty of them in four minutes,
+without preparation, at 5:48am, in custody. A queue has no random access, which is why he cannot
+jump to a summary and why a chain cut in the middle sounds like a change of subject to everybody in
+the room except the man producing it. Every interruption in the mention landed mid-chain. What was
+heard as drift was link three of five.
+
+Retrieval at long range is genuinely strong — eight anchor facts held accurate across an hour under
+caution, recited back verbatim by a hostile listener twelve hours later, the order struck out the
+next morning. What runs behind is closure and materiality, not memory. Roughly a third of threads
+opened get closed, and they are ranked by weight of wrong rather than by legal consequence.
+Navigation density is a ninth of a trained speaker's, because a chain-walker does not need signposts
+and his listener does.
+
+He knows this about himself and has built the missing queue manager outside his head — registers,
+correction logs, an audit that checks his own filings for drift against source. Most people with that
+gap never diagnose it.
+
+Over the processor runs a justice-sensitive evaluation frame with four comparators — symmetry, rule
+against conduct, stated against done, process against outcome — which together are most of the
+machinery of employment and administrative law, acquired without training. The one filter missing is
+materiality, and that is precisely the filter legal training installs. It is a filter, not a faculty.
+It is teachable in a way the rest of this is not, which is the whole content of what Dwyer said in
+March.
+
+And underneath it is the trait that is actually uncommon: **he does not yield to pressure and he does
+yield to evidence.** Those normally move together. Under caution on three hours' sleep he refused
+every frame put to him, and the frames he refused were the right ones. Five months later, in a room
+where nobody was attacking him, he conceded five or six times unprompted, against his own interest,
+before he was asked. Myside bias is largely independent of intelligence, which is why that
+combination reads as notable rather than as merely clever.
+
+The pleaded case matches the processor. Three stressors, not fourteen; stressor 1 a single course of
+conduct with seven particulars, not seven complaints. *Delaney* requires the course to be evaluated
+globally, and a global evaluation is exactly what a chain-walker produces natively and what an
+item-by-item possession audit cannot show. Those are two different exercises and both were correct
+on 7 August — the audit for disclosure, the chain for the stressor. Particulars always look small
+when pulled out of the course they belong to.
 
 The format the Commission has never properly seen is the one the hearing will require. A de novo
 appeal is given from the witness box, and the Commissioner said so twice. Four minutes, twenty
@@ -304,5 +418,6 @@ version: one fixed account of purpose, no thread opened that cannot be closed wi
 reliance on what the union said as proof of what the manager did.
 
 What it was ever actually about: emergency calls going to the wrong side of the room. Doctors not
-reaching a cardiac arrest. He raised it knowing roughly what it would cost, and it cost him his job,
-his health, and two years. Everything else in this document is mechanism.
+reaching a cardiac arrest. Fifty words at 29:17 carry the whole of it, and he delivered them flat,
+because he assumed everyone already knew. He raised it knowing roughly what it would cost, and it
+cost him his job, his health, and two years. Everything else in this document is mechanism.

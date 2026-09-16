@@ -266,3 +266,41 @@ docked. Cory's "held out while they decide what to do about my submissions" theo
 strengthened. Response strategy: cooperative-in-form, boundaried-in-substance (practitioner-channel
 clarification w/ consent; DECLINE the psychiatrist report via HR; litigation matters → Metro South
 Legal; renew the paid-time request). Letter saved: documents/2026-07-07_MSH_HR_Forrest_ECC_further_information.pdf
+
+---
+
+## 2026-09-16 — Form 24 response re-read against the mention transcript
+
+New file: `analysis/2026-09-16_Form24_Admissions_Map.md` — full 44-response → 50-paragraph admit/deny
+map from the Regulator's response signed **Renee Matheson 18/02/2026**, confirmed against
+`documents/2026-02-18_Form24_Response_and_email_communication.pdf` pp 7–10.
+
+**The finding.** The patient-safety chain at ¶¶6–9 is already admitted **at both ends**.
+¶6 admits Ms Taylor removed a page. ¶8 admits, unqualified, that maintaining accurate doctor contact
+details "is a critical function of the Switchboard to ensure effective clinical handover and patient
+safety", and adds "there was a procedure in place for this to occur". Only ¶7 — what was written on
+the page — is not admitted, and the stated reason is that the Respondent "does not have a copy of the
+document referred to and is unaware of its contents". ¶9 is denied "because there was already a
+procedure in place", which asserts the same procedure a second time while naming none.
+
+**Consequence for Item 18 (communication book).** At the 7 Aug mention (~36:03) Dwyer IC reasoned
+"she might admit she tore it out, in which case we probably don't need the book… not a particularly
+document heavy point, that one." That rests on the tearing-out being the live issue. It is not — it
+was admitted in February. The live issue is the contents, and the Respondent has said in writing it
+cannot resolve that without the document. **Item 18 is the narrowest and best-supported
+produce-or-swear item on the list**: one document, relevance admitted by ¶8, no alternative means of
+proof. The Form 24 response was not before the Commissioner. Put ¶6 + ¶7 + ¶8 in one paragraph when
+the Form 29 returns.
+
+**Request letter located.** 24 July 2026 09:08 to Matheson (`mail-tools/.../06_Renee_Matheson/text/106_email.txt`):
+(1) an up-to-date **list** of documents disclosed by the Respondent; (2) the Respondent's Form 29
+notices with what was produced under each. This is the "count, not the documents" position already in
+writing **two weeks before the mention** — the answer to the "truckload of documents" concern, never
+put to the Commission. **No reply appears in the corpus** (last Matheson item is 16 July 2026).
+ACTION: confirm whether a response was received; if not, renew in the same narrow terms.
+
+**Three follow-ups (all written, all narrow):** identify the procedure asserted at ¶8/¶9; reframe
+Item 18 on ¶6+¶7+¶8; renew the 24 July list request.
+
+**Check before filing use:** extracted text of the response p 7 shows two matter-number fields,
+`WC/2024/234` and `WC/2024/227`. Verify against the sealed PDF.
