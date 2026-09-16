@@ -11,7 +11,133 @@
 > a single-table view of the whole response for quick reference; where it and confirmed-record.md
 > differ, **confirmed-record.md governs**.
 
-## Provenance
+> # ⛔ READ THIS FIRST — THIS NOTE COVERS THE **FIRST** NOTICE ONLY
+>
+> There are **two** Form 24 notices in this appeal. Everything below §0 concerns the first one
+> (50 facts, served 2025, answered 18 Feb 2026 with 44 responses).
+>
+> **The second notice — 303 facts, served 28 August 2026 — was answered on 8 September 2026 and
+> 298 of the 303 facts were ADMITTED.** It supersedes the first notice on every point they overlap,
+> and it resolves, by admission, three things this note had recorded as open. See §0.
+
+## 0. THE SECOND NOTICE — 303 FACTS, 298 ADMITTED (8 September 2026)
+
+### Provenance
+
+| Document | Path | Status |
+|---|---|---|
+| Form 24 served 28 Aug 2026, **303 facts**, 22pp, sections A–S | `drafts/out/FORM24_SERVED_28AUG2026_303facts.pdf` (md5 e6abde34) | Confirmed |
+| Annexure A, 39 documents, 133pp | `drafts/out/FORM24_ANNEXURE_A.pdf` | Confirmed |
+| **Respondent's response, 8 Sep 2026** | `documents/regulator-response-2026-09-08/2026-09-08_Regulator_FORM24_RESPONSE_298of303_admitted.pdf`, 22pp | **Confirmed page by page** |
+| Cover letter + service email, 8 Sep 2026 11:24 | same folder | Confirmed |
+
+⚠ Do **not** cite `FORM24_UNSERVED_308facts_with_draft_note_DO_NOT_CITE.pdf`. Facts 299–303 of that
+build (section R, the PID/retraction admissions) were **never served**.
+
+### The count
+
+**Admitted 298. Not admitted 5. Denied 0.**
+
+The five not admitted are:
+
+| Fact | Subject | Why it matters |
+|---|---|---|
+| **154** | "The Respondent's amended List of Documents dated 14 August 2026 does not list the Communication Book, nor any page or entry from it" | The only communication-book fact they would not admit is the one about **their own list of documents** |
+| **228, 229, 230, 231** | The **2024 Emergency Code Register** entries for 17–19 March 2024 (Annexure A, Tab 31) | Provenance objection — Tab 31 is the Appellant's own capture. The register itself is not disputed; its production is |
+
+Every other fact in the notice — 298 of them — is admitted for this proceeding.
+
+### What the cover letter reserves, and what it cannot
+
+Ms Matheson's covering letter of 8 September reserves **relevance, admissibility, weight**, and says
+an admission is not a concession that "any characterisation, conclusion, inference or submission you
+have drawn or may draw from an admitted fact" is accepted.
+
+That is orthodox and correct. It does not touch the facts. **The primary facts are now closed**; what
+remains contestable is what follows from them. That is the right position to be in going into a
+hearing, and it is the position the notice was built to produce.
+
+### ⭐ STRESSOR 1(a) IS MADE OUT ON ADMISSIONS — SECTION D
+
+Section D of the notice is headed *"STRESSOR 1(a) — THE DATABASE, THE DIRECTIVES ISSUED WITHOUT
+CONSULTATION, AND THE MATTERS RAISED IN MAY 2024."* **Every fact in it is admitted.**
+
+The chain, end to end, each link an admitted fact:
+
+| # | Admitted fact | Link |
+|---|---|---|
+| **6** | Role description key responsibility: *"Collate information and maintain Omnivista database and SharePoint to ensure information held within Switchboard Services is accurate and appropriate"* | **His duty** |
+| **7** | Key responsibility: pager allocation and *"maintaining database and registers with accurate and current information"* | His duty |
+| **8** | Key responsibility: *"Participate in the Emergency Response process by receiving emergency response notifications and distributing them to the appropriate response groups… strictly adhering to protocols and timeframes"* | His duty, life-safety |
+| **40** | Stibbard, 18 Jul 2023: *"While I am fixing up the database and all of its entries, **I will be removing everyone's access to the database**."* | **The means removed** |
+| **41** | Her hours were *"every Tuesday and second Monday, 8:00 – 16:00"* | Part-week availability |
+| **42–44** | Changes to go to her directly; if absent and urgent, to Ms Taylor; after hours *"have to wait until either Chloe or myself are back"* | The bottleneck |
+| **45** | *"I have also removed the Contact & Number Changes book out of the room"* | The paper fallback removed too |
+| **46–48** | **Review Decision 69983** records the same facts in the Regulator's own words | Their own decision-maker |
+| **55** | The SOFC *"does not allege that access to the database used by the Switchboard was restored to the Appellant at any time before 18 June 2024"* | **Never restored** |
+| **49–53** | Taylor, 15 Apr 2024, *"Afterhours Oncall Process"*: *"This new process is effective from today"* | **Directive without consultation** |
+| **56–58** | **Vivian Kwok, MASPER Registrar**, 3 May 2024, to Taylor, cc **Dr Pan Jane Wong**: five switchboard failures on 2–3 May, including *"MET call team called x5290 asking where MET call was located 'VHUB' — switchboard could not tell them where VHUB was. Had to be redirected by MASPER"* | **The doctors logging the misdirects** |
+| **59–61** | Kwok again, 8 May 2024: four further occasions; on 8 May each call *"incorrectly put through to MASPER"* | Nine occasions in seven days |
+| **62–64** | The interval from Kwok's first email to Taylor's reply: **five days, eighteen hours, fourteen minutes** | Arithmetic. Undeniable |
+| **68** | Those occasions happened **while the 15 April after-hours on-call arrangement was in force** | Causal tie to the directive |
+| **67** | Taylor, 9 May 2024: *"There have been **many ongoing issues** raised by the MASPER and the medical department about calls being transferred to the wrong medical teams."* | **The manager's own admission of pattern** |
+| **89–93** | **Sue Marriott**, Integrated Respiratory Service, 15 and 20 May 2024: *"Could you please amend your number registry/directory…"*, then *"Just a courtesy reminder, we continue to get calls put through to us…"* — five days apart, no response alleged | A second independent service, same failure |
+| **94–98** | The Appellant's escalation of 20 May, within Taylor's own stated office hours, three hours and two minutes after Marriott's reminder | He acted; the system did not |
+
+**This is the point put at 13:28 of the mention — *"for me it all works together as one big system"* —
+proved end to end, on admissions, without a single document being compelled.**
+
+Note what supplies it: his role description (theirs), Stibbard's email (theirs), the Regulator's own
+Review Decision (theirs), a MASPER Registrar and a consultant (third-party clinicians), an
+administration officer from another service (third party), and the line manager's own email conceding
+"many ongoing issues". None of it depends on his testimony or on Ms Taylor's.
+
+### ⭐ THE "PROCEDURE" QUESTION IS ANSWERED — FACT 146
+
+This note previously recommended asking the Respondent to identify the procedure asserted at ¶8 and
+¶9 of the February response. **That is no longer necessary. Fact 146 is admitted:**
+
+> Ms Taylor to Ms Reese, 6 June 2023 at 4:05 pm, subject *"Fwd: Communication Book Update"*:
+> *"I was not aware of who put this entry in at the time but **I took it out last week as it was
+> clearly an indirect dig at the team and there is already a procedure to follow with this certain
+> entry**."*
+
+The procedure the Regulator relied on in February to deny ¶9 is **Ms Taylor's own sentence** — and in
+the same sentence she gives the operative reason: she removed the entry because she read it as *"an
+indirect dig at the team."* Fact 147 admits the rest: *"I just feel like it's being used as a 'burn
+book' more than a professional tool that switchboard can use to communicate."*
+
+### ⭐ THE COMMUNICATION BOOK — SECTION F, FACTS 150–154
+
+| Fact | Admitted | Effect |
+|---|---|---|
+| 143 | SOFC ¶12(a): *"admits that the Ms Taylor [sic] did remove pages from the Communication Book on or around 6 June 2023"* | Removal admitted a second time, in the pleading |
+| 150 | The SOFC *"does not identify the entry Ms Taylor removed… or its author"* | ✔ |
+| 151 | It *"does not allege that the removed page has been located, or that any copy of it exists"* | ✔ |
+| 152 | It *"does not allege that any entry made by the Appellant remains in the Communication Book"* | ✔ |
+| **153** | It *"does not allege that the Communication Book ceased to be in the possession of Metro South Hospital and Health Service at any time during the Appellant's employment"* | **✔ The book was in their possession throughout** |
+| 154 | The amended List of Documents does not list the Communication Book or any page from it | **NOT ADMITTED** — the only one |
+
+Fact 153 is admitted and fact 154 is not. A book admitted to have been in the health service's
+possession throughout, which does not appear on the list of documents, and where the party will not
+admit that it does not appear. That is the whole Item 18 question, answered without Item 18.
+
+### What this does to §2 of this note (the mention)
+
+The Form 29 application was **withdrawn on 28 August 2026**. The service email says so expressly:
+
+> *"I have withdrawn my Form 29 application. Consistent with what was discussed at the mention on
+> 7 August 2026, I have reviewed the disclosure the Regulator has already provided. **Rather than
+> seek further documents, I am asking the Regulator to admit what that material already shows.**"*
+
+So the Item 18 reframe recorded at §2 below is **spent**. It was overtaken by a better route: not
+compelling the book, but closing the facts around it. §2 is retained as a record of what the
+Commissioner was working from on 7 August and why his reasoning on Item 18 rested on a premise the
+February response had already displaced. It is history, not a task.
+
+---
+
+## Provenance (first notice)
 
 | Document | Source | Status |
 |---|---|---|
@@ -187,7 +313,18 @@ Legend: **A** admitted · **A±** admitted in part / admitted with a qualificati
 
 ---
 
-## 5. The three follow-ups
+## 5. The three follow-ups — SUPERSEDED, see §0
+
+⛔ **All three are spent.** They were written from the first notice alone, before the 8 September
+response was read.
+
+1. ~~Identify the procedure.~~ **Answered** — fact 146 admits Ms Taylor's own sentence.
+2. ~~Item 18, reframed.~~ **Spent** — the Form 29 was withdrawn on 28 August; facts 150–154 close the
+   communication-book question by admission instead.
+3. ~~Renew the 24 July request.~~ **Answered** — the Amended List of Documents and the four NNPDs came
+   on **14 August 2026** ("I sincerely apologise on the delay"), 21 days after the request.
+
+Retained for the record of what was thought on 16 September before the second response was read.
 
 Everything above comes out of the Respondent's own answers. None of it needs to be argued; it needs
 to be laid side by side. All three of these are written, narrow and neutral in tone.

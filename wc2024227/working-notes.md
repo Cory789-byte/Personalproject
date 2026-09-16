@@ -7490,3 +7490,36 @@ Item 18 on ¶6+¶7+¶8; renew the 24 July list request.
 
 **Check before filing use:** extracted text of the response p 7 shows two matter-number fields,
 `WC/2024/234` and `WC/2024/227`. Verify against the sealed PDF.
+
+**⛔ SAME-DAY CORRECTION — the entry above was written from the FIRST notice only.**
+The second Form 24 (303 facts, served 28 Aug 2026) was answered on **8 Sep 2026: 298 admitted, 5 not
+admitted, 0 denied** (`documents/regulator-response-2026-09-08/`). Three things recorded above as open
+are closed by it:
+- **"Identify the procedure"** — answered. Fact **146** admits Ms Taylor's own email of 6 Jun 2023:
+  *"I took it out last week as it was clearly an indirect dig at the team and there is already a
+  procedure to follow with this certain entry."* The February ¶9 defence and that sentence are the
+  same sentence, and it carries the motive with it.
+- **Item 18 / the communication book** — spent. The Form 29 was **withdrawn on 28 Aug**. Facts
+  **150–153** close it by admission instead, incl. 153: the SOFC does not allege the book ceased to be
+  in MSH's possession at any time during the employment. Fact **154** (the Amended LOD does not list
+  the book) is one of the five **not admitted**.
+- **The 24 July disclosure-list request** — answered on **14 Aug 2026** (Amended LOD + four NNPDs).
+
+**⭐ STRESSOR 1(a) IS MADE OUT ON ADMISSIONS.** Section D of the second notice is headed "THE
+DATABASE, THE DIRECTIVES ISSUED WITHOUT CONSULTATION…" and every fact in it is admitted: the role
+description duty to maintain the database (facts 6–8); Stibbard removing everyone's access (40) and
+the Contact & Number Changes book from the room (45); the Review Decision recording the same (46–48);
+**no allegation access was ever restored before 18 Jun 2024 (55)**; Taylor's 15 Apr "effective from
+today" directive (49–53); **the MASPER Registrar's and Dr Wong's own logs of nine misdirects across
+2–8 May 2024 (56–61)**, incl. the MET call team that could not be told where VHUB was; the
+five-day-eighteen-hour reply interval (62–64); those occasions falling while the 15 Apr arrangement
+was in force (68); **Taylor's own "many ongoing issues raised by the MASPER and the medical department
+about calls being transferred to the wrong medical teams" (67)**; and Sue Marriott's two unanswered
+Respiratory Service emails (89–93). The 13:28 "it all works together as one big system" point is
+proved end to end without compelling a single document.
+
+The five not admitted: **154** (their own List of Documents) and **228–231** (the 2024 Emergency Code
+Register, Tab 31 — provenance, the register itself not disputed). Denied: none.
+
+Cover letter reserves relevance, admissibility, weight and any inference drawn — orthodox, and it does
+not touch the primary facts.
