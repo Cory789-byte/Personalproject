@@ -153,3 +153,56 @@ threaded to Stressor 1(a) and Stressor 3, and no further.
 - One mechanism, one admitted instance: `analysis/2026-09-16_THE_SHAPE_one_mechanism.md`
 - *Delaney* is the appellant's, misapplied below: `analysis/2026-09-16_DELANEY_MISAPPLIED_in_RD69983.md`
 - Admissions map, incl. Form 24 ¶8: `analysis/2026-09-16_Form24_Admissions_Map.md`
+
+---
+
+## 9. ADDENDUM — what the listener did with it (16 September 2026)
+
+> **Status.** Inference from behaviour on the record. What the Commissioner understood is outside
+> the transcript (see the A1 note in `TRANSCRIPT_diarised_prosody.md`). What follows is the
+> sequence, verbatim, and what it supports.
+
+### 9.1 The sequence
+
+| Time | Speaker | What is said |
+|---|---|---|
+| **[29:17]** | **MR SHEPHERD** | *"…they're not sent to someone having a cardiac arrest they're not sent to someone in respiratory distress…"* → ***(5.7 s pause)*** |
+| **[38:38]** | **DWYER IC**, reading aloud | *"Public interest disclosure on the 13th of May 2024 lodged a corrupt conduct complaint **regarding clinical risks**. Its Ethical Standards Unit **formally determined this constituted a public interest disclosure**."* |
+| **[~55:50]** | **DWYER IC**, reading aloud, **unprompted and outside the pleaded stressors** | *"And then the last one, **which isn't necessarily identified as a stressor, but I'll go to it anyway**… On 8 October, the employer **terminated the appellant** under abandonment provisions **despite holding continuous medical certificates**, the appellant was **subsequently reinstated**."* |
+| **[~57:50]** | **DWYER IC** | *"It's a question of whether or not there's anything material that arises from any of that… and **it's only a problem if somebody gets sacked or somebody gets killed** or somebody, **you know what I mean?** And it's only then when these things **get a light shone on them** and they become relevant."* |
+
+### 9.2 What the four passages establish
+
+1. **He read the PID's subject matter aloud himself — "clinical risks."** That is the same subject
+   matter as the [29:17] chain, and he articulated it thirteen minutes later.
+2. **He read the ESU determination aloud — "formally determined."** Not alleged. Validated.
+3. **He read the termination and the reinstatement aloud**, having first announced that the material
+   was **not** a pleaded stressor and that he would go to it anyway. A dismissal that was overturned
+   is an established wrong, not a contention.
+4. **He then stated a materiality test** — breach + consequence + "a light shone on" it = relevance —
+   and named **two** consequences out of all available illustrations: **sacking** and **death**. He
+   had read the first aloud ninety seconds earlier and been told the second at [29:17]. A PID is the
+   statutory mechanism by which a light is shone; he had read aloud that this one was determined.
+5. **He did not complete the list.** *"or somebody, you know what I mean?"* — the third item breaks
+   off into an appeal to shared understanding, which is the register of confirming with a listener
+   who already has the picture, not of explaining to one who does not.
+
+### 9.3 The direction of his argument
+
+He was making the **opposite** point — that the broader grievance is immaterial and the appeal must
+stay on the pleaded stressors. The test he reached for to make that point is **satisfied on the face
+of the file before him**.
+
+### 9.4 Consistency with the rest of the hour
+
+- **Comprehension questions in his own voice: eight before [29:17], zero in the thirty-five minutes
+  after.** (The later *"what do you mean by that"* at [33:20] is him voicing the Regulator's
+  hypothetical.)
+- ***"Managers make decisions without consulting staff all the time. It's totally legitimate"*** —
+  said once at [27:22] and never repeated.
+- **[62:30]:** of thirteen strands, the one named as live is *"the unassessed directives… **you might
+  be on to something there. They might have an obligation to provide those**"* — the [29:17] subject.
+
+⇒ The record does not certify a state of mind, and does not need to. It shows that both limbs of the
+test he chose had been read into the hearing by him, one of them voluntarily and against his own
+stated scope, before he used them.
