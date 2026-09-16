@@ -11,7 +11,7 @@ Viterbi inference described under Method, because it comes from a person who was
 
 | ID | Date | Location | Change | Source | Confidence |
 |---|---|---|---|---|---|
-| A1 | 2026-09-16 | ~30:16, inside the turn timestamped 29:45.62 | "Yeah, I actually understand what you're getting at." re-attributed **DWYER IC → MR SHEPHERD** | Mr Shepherd, participant, present at the proceeding | **100%** |
+| A1 | 2026-09-16 | **30:12.98** (segment start; earlier recorded loosely as "~30:16"), inside the turn timestamped 29:45.62 | "Yeah, I actually understand what you're getting at." re-attributed **DWYER IC → MR SHEPHERD** | Mr Shepherd, participant, present at the proceeding | **100%** |
 | **A2** | 2026-09-16 | **46:10.84** | *"I don't know if I can prove it as much."* — **CONFIRMATION, no change.** Label was already MR SHEPHERD; class upgraded Viterbi-inferred → participant-confirmed | Mr Shepherd, participant, present at the proceeding | **100%** |
 
 **A1 note — purpose, as stated by the speaker.** The words were spoken as an acknowledgement of
@@ -47,6 +47,65 @@ the acoustic signature of a second voice overlapping the first** — which is wh
 it is corroboration, not proof: an ASR system has no speaker model, and a speaker briefly
 interrupting himself produces a similar pattern.** **The test of A1's attribution is speaker
 diarisation, not transcription.**
+
+## ⭐⭐ INDEPENDENT DIARISATION — ECAPA-TDNN, 16 September 2026
+
+The full 65-minute audio was re-diarised from scratch with **SpeechBrain ECAPA-TDNN** embeddings
+(1,018 of 1,068 segments embedded; 50 too short at <0.60 s), channel-compensated by global mean
+subtraction, and clustered five ways. **This shares nothing with the original pipeline** — different
+embedder (ECAPA-TDNN, not Resemblyzer GE2E), different clustering, and **no lexical or adjacency
+cues at all**. It is purely acoustic.
+
+| Clustering | Agreement with this transcript | Shepherd recall |
+|---|---|---|
+| raw agglomerative (no channel compensation) | 83.2% | ⛔ 1% — **degenerate, 1016/2 split** |
+| mean-norm agglomerative | 90.5% | 86% |
+| mean-norm Ward | 93.6% | 76% |
+| mean-norm k-means | 93.2% | 80% |
+| **mean-norm spectral** ← adopted | **93.8%** | **83%** |
+
+⚠ **Channel compensation is essential and its absence is catastrophic.** Without mean subtraction the
+clustering collapses (1016/2): on one distant microphone the room dominates the embedding more than
+the speaker does. This is the same wall the original pipeline hit and is why its labels are
+inferential.
+
+### ✅ A2 validates the method on known ground truth
+
+**46:10.84** — *"I don't know if I can prove it as much."* Participant-confirmed as MR SHEPHERD (A2).
+**ECAPA, knowing nothing of that confirmation, independently assigns MR SHEPHERD.** ⇒ The method is
+calibrated at a point where the truth is known.
+
+### ⭐⭐⭐ A1 is independently corroborated
+
+**30:12.98** — *"I actually understand what you're getting at."*
+
+| Source | Label |
+|---|---|
+| Original pipeline (Resemblyzer + Viterbi) | DWYER IC |
+| **Amendment A1** (participant evidence) | **MR SHEPHERD** |
+| **ECAPA-TDNN + spectral clustering** (independent, acoustic only) | **MR SHEPHERD** |
+
+⇒ **An entirely independent acoustic method reaches the same conclusion the participant did, against
+the original label.** Together with the re-decode evidence (strong content words, collapsing
+boundaries, one pass omitting the span entirely across a 1.8 s gap — the signature of overlapping
+speech), A1 now rests on **three mutually independent lines**: participant evidence, transcription
+behaviour, and speaker embedding.
+
+### Passages confirmed segment-by-segment
+
+- **The nine words (29:17–29:39)** — **all 10 segments** MR SHEPHERD on both methods. No disagreement.
+- **The filters answer (23:40–24:12)** — **all 9 segments** MR SHEPHERD on both, and the handover to
+  DWYER IC at 24:12.02 agreed.
+
+### ⛔ Limits — read these before relying on any of it
+
+1. **Agreement is not proof.** Two methods concurring at 93.8% is strong corroboration, not
+   certification. Both could share a systematic error.
+2. **17% of Shepherd segments are missed** by ECAPA (recall 83%). Disagreements concentrate in short
+   turns — the same weak class the Method section identifies.
+3. **50 segments were too short to embed at all** and carry no independent check.
+4. ⛔ **This remains uncertified machine output.** Order the certified transcript before any passage
+   is quoted externally.
 
 **A2 note — a confirmation, not a correction.** The speaker label at 46:10.84 was **already**
 MR SHEPHERD in the pipeline output. The participant confirms it. Nothing about the transcript
@@ -787,7 +846,7 @@ with the parties that are sitting at the other end of the table.  `flat fast 5.8
 > of the approach the Commissioner was proposing. The explanation did not follow: the Commissioner
 > speaks over it and completes his sentence.
 
-**~30:16  MR SHEPHERD**  ✔ *(amended A1 — 100%, participant-confirmed)*  
+**30:12.98  MR SHEPHERD**  ✔ *(amended A1 — 100%, participant-confirmed; ✅ independently corroborated by ECAPA diarisation)*  
 Yeah, I actually understand what you're getting at.  `wide`
 
 **DWYER IC** *(continuing, interrupting)*  
