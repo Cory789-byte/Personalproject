@@ -1,0 +1,90 @@
+PROPOSED METHODOLOGY — PSYCHOSOCIAL RISK ASSESSMENT, SWITCHBOARD SERVICES
+
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital, Metro South Health
+August 2026 — a worker's proposal for how the clause 7.2 assessment be conducted, offered in
+consultation under sections 47 to 49 of the Work Health and Safety Act 2011. Companion to the
+Psychosocial Hazard Mapping and the Proposals for Consultation. Nothing in this document is a
+demand or an allegation; the method proposed is drawn from the Code of Practice 2022,
+ISO 45003, and recognised practice in emergency communications settings.
+
+--------------------------------------------------------------------------------
+PART 1 — THE EIGHT PHASES PROPOSED
+--------------------------------------------------------------------------------
+
+1.  GOVERNANCE. An assessor independent of the functions being assessed; published terms of
+    reference; a small steering group including an operator representative, any Health and
+    Safety Representative, and the union. The Code of Practice 2022 and ISO 45003 stated as
+    the methods frame.
+
+2.  THE RECORDED DATA (work as recorded). Call volumes by hour and day; emergency-code
+    activity; the rosters audited against the fatigue rules; the team's leave usage mapped
+    against the rosters and the demand data; turnover, vacancy and backfill data; the
+    complaints correspondence; EAP usage; incident history; overtime.
+
+3.  THE SURVEY (work as experienced). The "People at Work" instrument — the validated,
+    benchmarked psychosocial risk survey developed with the Queensland regulator, available
+    without cost — offered to all operators with anonymity protected.
+
+4.  OBSERVATION (work as done). The assessor attends the room across shift types, including
+    night and weekend shifts, and observes the work as it is actually performed — the
+    concurrency, the interruptions, the emergency activations.
+
+5.  INTERVIEWS. An interview offered to every operator; structured prompts; and exit
+    interviews sought from operators who have recently left the area.
+
+6.  CONVERGENCE AND RISK RATING. The data, survey, observation and interview findings
+    triangulated; each hazard rated by duration, frequency and severity as the Code
+    provides; the resulting risk register shared with the operators.
+
+7.  CONTROL SELECTION IN CONSULTATION. A controls workshop with the operators; controls
+    considered in the order the Regulation requires; each adopted control given an owner
+    and an implementation date. The Proposals for Consultation are offered as a starting
+    set.
+
+8.  REVIEW. Implemented controls carry review dates; a small set of indicators is tracked
+    (fatigue-rule compliance, complaint response times, leave-against-demand correlation);
+    the survey repeated at twelve months.
+
+--------------------------------------------------------------------------------
+PART 2 — MATTERS PROPOSED FOR INCLUSION IN SCOPE
+--------------------------------------------------------------------------------
+
+(a)  A critical-incident debrief and peer-support step following defined trigger events
+     (emergency codes, deaths, abusive or distressing calls), as is standard in comparable
+     emergency communications settings.
+
+(b)  Post-call recovery arrangements — a short off-queue recovery after distressing calls —
+     and a defined surge protocol for periods when demand exceeds capacity.
+
+(c)  The physical work environment of the room: headset acoustic protection, noise,
+     console ergonomics, screen-based work breaks, and lighting.
+
+(d)  A quality-assurance framework including call-recording review, introduced in
+     consultation and framed as protective — an objective record that resolves complaints
+     and accusations without them resting on the operator.
+
+(e)  An evidence-based occupancy standard, so that sustained utilisation remains within
+     recognised bounds for call-handling work.
+
+(f)  Service standards on departments for the supply of roster and contact-detail updates
+     to the Switchboard, addressing the recurring cause of misdirected calls at its source.
+
+(g)  A documented training and competency framework for the room's functions, including
+     any shift-supervision function.
+
+(h)  A standing, anonymous route for operators to raise hazards, with feedback guaranteed,
+     measured at the twelve-month review.
+
+--------------------------------------------------------------------------------
+PART 3 — CONSULTATION
+--------------------------------------------------------------------------------
+
+I offer this methodology as an input to the scoping of the assessment, and ask that the
+scoping discussion address each phase and each proposed scope item, with the outcome
+recorded. I will attend any discussion at any time, with a support person and my union
+representative present.
+
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227 · coryshepherd1@hotmail.com

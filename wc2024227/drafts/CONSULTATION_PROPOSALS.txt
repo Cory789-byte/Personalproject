@@ -1,0 +1,140 @@
+RETURN TO WORK AND WORKPLACE CONTROLS — PROPOSALS FOR CONSULTATION
+
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital, Metro South Health
+August 2026 — tabled for discussion; nothing in this document is a demand, an allegation,
+or a variation of any request or notice already on foot.
+
+--------------------------------------------------------------------------------
+PART 1 — WHAT I HAVE ASKED FOR, AND HOW I PROPOSE EACH BE DONE
+--------------------------------------------------------------------------------
+
+1.  RETURN TO WORK. Under the Proposal for Return to Work of 3 August 2026: a staged return
+    on the pattern certified in the Employee Capabilities Checklist of 3 July 2026, with the
+    controls set out in that proposal, the Checklist's own review date of 28 August 2026 as
+    the first checkpoint, a support person present at the return discussion, and the plan
+    recorded in writing.
+
+2.  PAY AND LEAVE. Corrected through the ordinary payroll machinery: the rostered shifts
+    processed by AVAC, the leave debited since 3 July 2026 re-credited, and the codings
+    confirmed in writing.
+
+3.  THE PSYCHOSOCIAL RISK ASSESSMENT (clause 7.2; Managing the risk of psychosocial hazards
+    at work Code of Practice 2022). A scoping meeting with me, my union representative and
+    any Health and Safety Representative; the hazard categories to include those identified
+    in the Health Service's letter of 7 July 2026 together with organisational justice and
+    job insecurity; the data sources the Code identifies (complaints, absence, turnover,
+    EAP usage); an assessor independent of Corporate Services; a written scope and timeline;
+    findings shared; controls selected in consultation in the order the WHS Regulation
+    requires.
+
+4.  THE MEDICAL INFORMATION. Per my response of 3 August 2026: the Health Service confirms
+    the questions it presses; the questions are put through the allocation in that response;
+    costs as the Health Service has committed in writing.
+
+5.  THE PROCESS, NAMED. The instrument, steps, decision-maker and end-decision of the
+    process I am being managed under, in writing; or, if none applies, a documented
+    return-to-work plan agreed with me, with review dates, per the Workplace Rehabilitation
+    Standard.
+
+6.  SEPARATION OF FUNCTIONS. Decisions concerning my attendance, duties and pay made by an
+    officer outside Corporate Services, with the delegation recorded in writing. This is the
+    ordinary separation; it requires no restructuring and no finding about anyone.
+
+7.  FEEDBACK (clause 7.1.11). A short written response to each work health and safety matter
+    I have raised: received, assessed, outcome.
+
+8.  RECORDS. Copies of preserved HR policies E12 and E13, and the roster and payroll record
+    for the twelve months preceding 3 July 2026.
+
+--------------------------------------------------------------------------------
+PART 2 — THE SWITCHBOARD OPERATING MODEL (PROPOSED CONTROLS)
+--------------------------------------------------------------------------------
+
+These are offered as controls for discussion in the assessment and under clause 7.1.5. Each
+concerns the design of the work, not any person. Implementation cost is near zero: rostering
+and process changes only.
+
+A.  PATIENT SAFETY AS THE DESIGN PRINCIPLE. The Switchboard activates the hospital's
+    emergency codes and relays urgent clinical results; whether the right clinician is
+    reached, and how quickly, depends on the Switchboard and the accuracy of the on-call
+    information it relies on. I propose: (i) clear ownership, with a backup, for the accuracy
+    of the on-call roster and the paging system; (ii) directory updates restored to a
+    workable pathway with a backup when the responsible officer is unavailable; and (iii) a
+    defined escalation path for when a department's support officer or the manager cannot
+    be reached.
+
+2.  CONSULTATION BEFORE OPERATIONAL CHANGE. No change to Switchboard operating processes
+    takes effect until the operators who work the board have been consulted. The Switchboard
+    is a real-time environment operating multiple concurrent systems; the operators hold the
+    working knowledge of it. This is the consultation the Work Health and Safety Act already
+    requires, applied systematically.
+
+3.  A ROTATIONAL, INTEGRATED MANAGER. The manager of Switchboard Services works a regular
+    rostered rotation on the board — on the phones, in the room. Management of a fast-paced,
+    direct, real-time environment is soundest when management holds direct current knowledge
+    of it; presence also ensures supervision and support are available where the work
+    happens. This is the standard model in emergency communications settings.
+
+4.  A COMPLAINT-RESPONSE STANDARD. Complaints and escalations sent to Switchboard management
+    are acknowledged within one business day and substantively answered within three; where
+    the manager is unavailable, the matter escalates automatically to the established Client
+    Liaison pathway rather than returning to the operators' console.
+
+5.  ONE RULEBOOK FOR THE ROOM. The manager working in rotation is subject to the same
+    frameworks as the operators — rostering rules, minimum notice, fatigue breaks, and leave
+    processes — applied consistently. Consistency of process is itself a psychosocial
+    control.
+
+6.  A 24/7 ON-SHIFT SUPERVISOR FUNCTION, ROTATING WITHIN THE TEAM. The design principle is
+    that in a real-time environment, escalation is delay: a decision the board needs now
+    cannot wait on a chain to an off-site or after-hours contact. Authority therefore
+    follows the clock. On every shift, one rostered operator holds the shift-supervisor
+    function — the real-time decision-maker for operational matters arising on the board —
+    while continuing to work the board with the team. The supervisor is not a second
+    manager: the manager holds the frameworks, administration and business-hours functions;
+    the supervisor holds the shift, so that after hours, on weekends, and at 3am the room
+    is never waiting on an escalation that cannot answer in time. Only matters that can
+    properly wait are escalated to the manager in hours. The function rotates among
+    operators trained and assessed for it, and carries a classification increment or
+    in-charge allowance for the shifts on which it is held — a development pathway and
+    recognition for competence within the room, with shared capability across several
+    trained operators rather than dependence on any one person. When the supervisor makes a
+    real-time decision, the operators present are consulted there and then — consultation at
+    the speed of the room — and the decision is carried forward through the handover below.
+    This is the standard model in emergency communications centres. The cost is a modest
+    per-shift allowance, ordinarily offset by reduced turnover and absence.
+
+8.  STRUCTURED HANDOVER AND DECISION LOG. Each shift hands over to the next through a
+    structured record: operational status, live issues, and the decisions made on shift with
+    their reasons. Context transfers instead of evaporating at shift change — a recognised
+    failure point in continuous operations — and decisions become consistent and auditable
+    across the roster. The log also gives the manager, in hours, a complete account of the
+    room's operation without interrupting it.
+
+7.  EVIDENCE-BASED ROSTERING. Rosters designed from the demand data the Switchboard already
+    generates — call volumes by hour and day, and emergency-code activity — so that coverage
+    matches the actual peaks; with fatigue rules (minimum breaks) built into the roster
+    design rather than checked afterwards; published with proper notice; and with equity
+    across operators visible on the face of the roster. The data required is already
+    collected; this proposal only asks that the roster be built from it.
+
+--------------------------------------------------------------------------------
+PART 3 — HOW I PROPOSE THE CONSULTATION ITSELF RUN
+--------------------------------------------------------------------------------
+
+(a)  I will attend any discussion at any time, with a support person and my union
+     representative present.
+
+(b)  Discussions occur alongside, not instead of, written responses; anything agreed is
+     confirmed in writing before it is treated as resolved.
+
+(c)  My participation in any discussion waives nothing and does not pause any process
+     already on foot, unless recorded otherwise in writing by agreement.
+
+I table this because I would rather build the fix than continue the dispute. Every item in it
+is capable of being implemented from existing resources, this month.
+
+Cory Lea Shepherd
+AO3, Switchboard Services, Logan Hospital
+0417 400 227 · coryshepherd1@hotmail.com

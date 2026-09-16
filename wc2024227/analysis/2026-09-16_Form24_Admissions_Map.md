@@ -4,6 +4,13 @@
 **Prepared:** 16 September 2026
 **Track:** WC only. Nothing in this note crosses to the PID/QPS/QHRC tracks.
 
+> **Relationship to `skill/references/confirmed-record.md`.** That file is the authority for the
+> Form 24 pinpoints and already holds them, including the ¶8 pinpoint block and the standing
+> discipline **"do not let ¶8 carry ¶9."** This note does not restate them as new. What is new here
+> is **§2 (the 7 August mention folded onto Item 18)** and **§3 (the 24 July request letter)**. §4 is
+> a single-table view of the whole response for quick reference; where it and confirmed-record.md
+> differ, **confirmed-record.md governs**.
+
 ## Provenance
 
 | Document | Source | Status |
@@ -35,37 +42,29 @@ the split is favourable.
 And the reason given for link 2 is not a denial of the fact. It is an assertion of **absence of the
 document**: *"does not have a copy," "unaware of its contents."* Twice, in consecutive paragraphs.
 
-### Why that matters
+### What is already banked, and where
 
-- The Regulator has **not** pleaded that the entry said something else, or that it was trivial, or
-  that it was gossip. It has pleaded that it **cannot say**, because it does not hold the page.
-- A party that says "I cannot admit this because I do not have the document" has put the **existence
-  and production of that document** squarely in issue. That is the precise footing on which
-  **Form 29 / 64G Item 18 (communication book; 15 November 2023 business-case minutes)** was sought
-  — produce, or swear its non-existence after a defined search.
-- Item 18 is already framed in the filed application as produce-or-swear and already records that
-  "only the removal of a page is admitted (Form 24, Para 6)". **What the filed application does not
-  yet surface is ¶8 and ¶9.** Add them.
+None of the above is new to the file. **Form 20 ¶6 already pleads ¶8 as an Admitted Fact**, and
+confirmed-record.md already carries the ¶8 pinpoint block, the ¶6/¶7 position and the warning that
+**¶8 does not carry ¶9**. That discipline holds and is not disturbed here: the criticality is
+admitted, the *consequence of the removal* is denied, and the two must not be run as one.
 
-### The denial at ¶9 works against the Respondent
+### The one addition: the ¶9 denial names no procedure
 
 ¶9 is denied *"because there was already a procedure in place."* ¶8 is admitted with the rider
-*"there was a procedure in place for this to occur."*
+*"there was a procedure in place for this to occur."* The Respondent asserts a procedure twice and
+**identifies it nowhere** — no name, no document, no date, no author. It does so while saying, in the
+adjacent paragraphs, that it holds no copy of the record and is unaware of its contents.
 
-Taken together, the Respondent's own pleaded position is that **a procedure existed for verifying and
-updating doctors' contact details**, and that doing so is **critical to clinical handover and patient
-safety**. That is the Appellant's case on 1(b), conceded in the answer that was meant to defeat it.
+That is answerable by one narrow written request: **identify the procedure.** It is not an attack on
+the denial and it does not seek to make ¶8 carry ¶9. It asks the Respondent to particularise the only
+ground it has pleaded. If a procedure is identified, it is a document, and a document is disclosable.
+If none can be identified, the denial stands on an unparticularised assertion and the Commission can
+weigh it accordingly at hearing.
 
-It also cuts across the Respondent's own answers at ¶10 and ¶12 — that the book was not a government
-record and that Ms Taylor identified it as *"a professional tool."* If it was a professional tool
-operating under an existing procedure, an entry in it about doctors' contact details is **operational
-material, not social commentary**. The "burn book" characterisation and the "procedure in place"
-defence cannot both be run at full strength.
-
-**The ¶9 denial is also the only place the Respondent asserts the procedure.** It names no procedure,
-no document, no date, no author. That is an assertion of fact made by a party that has simultaneously
-said it holds no copy of the record and is unaware of its contents. It is answerable by a simple
-request: identify the procedure.
+**Secondary, and for the contradiction matrix only — not for the 64G.** A pleaded "procedure in
+place" for verifying and updating doctors' contact details sits awkwardly beside ¶10 (the book is not
+a government record) and ¶12 (Ms Taylor identified it as "a professional tool"). Noted, not argued.
 
 ---
 
@@ -188,36 +187,24 @@ Legend: **A** admitted · **A±** admitted in part / admitted with a qualificati
 
 ---
 
-## 5. What is banked, and what it is worth
+## 5. The three follow-ups
 
-**Banked on the record since 18 February 2026:**
+Everything above comes out of the Respondent's own answers. None of it needs to be argued; it needs
+to be laid side by side. All three of these are written, narrow and neutral in tone.
 
-1. **The 7-hour break happened** (¶1) and **the Award/policy required 10 hours, or 8 by written
-   agreement** (¶3). The only dispute is the June 2020 agreement (¶4).
-2. **Taylor removed a page from the Communication Book** (¶6).
-3. **Accurate doctor contact details are critical to clinical handover and patient safety, and a
-   procedure existed for maintaining them** (¶8, and again in the ¶9 denial).
-4. **The ESU determined the complaint was a PID** (¶20), and **Reese directed a retraction 48 hours
-   later** (¶21). Correlation is denied; the sequence is not.
-5. **No Form 29 was served on the Appellant before his medical records were obtained** (¶25). The
-   answer is a legal one (r 64D), not a factual one.
-6. **Taylor was instructed by Payroll to submit the AVAC** (¶40) and **did not submit it until 28 May
-   2024** (¶41), and **sent the 21 May email** (¶46). Only the characterisation is denied.
-7. **The psychiatric report says what it says** (¶38, ¶39) — accuracy reserved, contents admitted.
+1. **Identify the procedure.** ¶8 and ¶9 both assert one; neither names it. Ask the Respondent to
+   identify it — name, document, date. Keep it as a request for particulars of their own pleaded
+   ground, nothing more. **¶8 does not carry ¶9** and the request must not read as though it does.
 
-**"The roster was equitable" (¶39) is the Respondent's own pleaded position.** It is the denial that
-Items 8–9 of the disclosure application anchor to, and it is the reason those items are properly
-confined to Stressor 1(a) and that denial. It stays there.
+2. **Item 18, reframed for when the Form 29 comes back on.** One paragraph: removal admitted (¶6);
+   criticality admitted (¶8); contents unresolvable without the document, on the Respondent's own
+   stated reason (¶7). One document, admitted relevance, no alternative means of proof. This is the
+   correction to what was assumed at the mention, and it is the only part of this note that changes
+   how the application should be put.
 
-**Three follow-ups, all narrow, all in writing:**
+3. **Renew the 24 July request** if it is confirmed unanswered — the list of documents disclosed,
+   and the Respondent's Form 29 notices with what was produced under each. Same narrow terms, no
+   complaint about the delay.
 
-- **Identify the procedure.** ¶8 and ¶9 both assert one. Ask the Respondent to identify it — name,
-  document, date. If none can be identified, the ¶9 denial has no stated basis left.
-- **Item 18, reframed.** Put ¶6 + ¶7 + ¶8 together in one paragraph when the Form 29 comes back on:
-  removal admitted, criticality admitted, contents unresolvable without the document, on the
-  Respondent's own words. One document, admitted relevance, no alternative means of proof.
-- **Renew the 24 July request** if unanswered — the list, and the Respondent's Form 29 with what was
-  produced under it. Same narrow terms.
-
-**Tone.** Neutral and procedural. Every point above is made out of the Respondent's own answers. None
-of it needs to be argued; it needs to be laid side by side.
+**Not doing:** re-pleading anything on the strength of §4. The admissions are already worked into
+`confirmed-record.md`, Form 20 and the 64G, and that work is more developed than this table.

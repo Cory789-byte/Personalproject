@@ -119,3 +119,50 @@ Also available: the **differential-answer inference** — MSH answered "not reta
 - Psychiatrist report: commission AFTER production; structured as instructed-assumptions on Cory's statement; treating notes meanwhile to capture work context.
 - Six cyclic rostering proposals + decline responses → matrix anchor rows.
 - February residue supplement (post-production): COVID decline dates 20–29 Feb + the 4–17 March roster authoring fortnight — one targeted notice, justified by two pleaded events.
+
+---
+
+## WT-2026-07-31 — THE MATHESON EMAIL COLLAPSED THE REVIEW STEP
+
+**Cory's theory, stated 31 July 2026 (his position; recorded as a hypothesis, not a finding):**
+> HR and Hughes were already preparing the RFMI because he was catching them out. It was almost
+> ready for review. Because he raised the matter with Matheson, the review did not happen and the
+> document was finalised straight away.
+
+**Confidence: LOW-MODERATE on the causal step. HIGH on the surrounding facts.**
+
+### SUPPORTS IT
+- **24 minutes** between his WP letter to Matheson (10:46) and the first RFMI PDF export (11:10:27);
+  **57 minutes** to transmission (11:43). Measured, not estimated.
+- **The document was demonstrably not legally reviewed** — pronoun drift between adjacent questions,
+  "cab be found out their website", "Mr Shepherds", "fulfill", the wrong test under G03, and a false
+  premise about a PID the Chief Executive had addressed by reference number eight weeks earlier.
+- **MSH went from "unable to guarantee" (30 Jul 14:33) to transmission within 20 hours.** An
+  open-ended timeframe closed overnight.
+- A documented channel exists between the two offices: Review Decision 69983 is **cc'd to MSH**, and
+  MSH participates in the proceeding through its 5 June objection.
+
+### AGAINST IT
+- **MSH said on 30 Jul 14:33 the request was "progressing for delegate approval."** Proceeding the
+  next morning is the stated plan, not a departure from it.
+- **The text was final at PDF creation** (all three recovered revisions identical). Nothing was
+  hurried into the documents at 11:10; the export was only the export.
+- **The drafting evidence shows Legal was never in the loop at all**, not that a review was
+  interrupted. An aborted review and a process never routed to Legal leave different traces; this
+  looks like the latter.
+- The causal chain requires, inside 24 minutes on a Friday morning: Regulator receives → decides to
+  forward → MSH receives → MSH reads → MSH decides to expedite → export.
+- His own 28 and 30 July letters independently and sufficiently explain the preparation, the change
+  of basis on 29 July, the holding reply on 30 July, and the formal process on 31 July.
+
+### ⭐ WHAT WOULD PROVE OR DISPROVE IT
+**Communications between the Workers' Compensation Regulator and Metro South Health, 30–31 July
+2026.** Obtainable through disclosure in the appeal, or by RTI to either agency.
+⚠️ **NOT NOW** — premature, signals investigation, and hard to justify on the current record. But it
+is the same request that would resolve the **1 July → 2 July** question, and if the relationship
+between the two offices ever becomes a live issue, one request answers both.
+
+### OPERATIONAL CONSEQUENCE: NONE
+Whether or not the theory is correct, the response is unchanged, the disciplines are unchanged, and
+the union brief is unchanged. **It is never asserted in correspondence.** It sits in the chronology
+with its timestamps, costing nothing and available if the pathway is ever established.

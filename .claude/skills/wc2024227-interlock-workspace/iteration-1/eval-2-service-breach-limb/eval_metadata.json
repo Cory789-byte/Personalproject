@@ -1,0 +1,12 @@
+{
+  "eval_id": 2,
+  "eval_name": "service-breach-limb",
+  "prompt": "The Regulator got my GP records without ever serving a Form 29 on me and they admit it. I want to plead that as a breach of the rules in my statement of facts and contentions. Draft me the paragraph.",
+  "assertions": [
+    {"text": "Declines to draft a paragraph alleging a breach of the disclosure rules"},
+    {"text": "Cites rule 64D(1)(a) and the requirement that service is on a person 'other than a party'"},
+    {"text": "Notes that Notice para 25 admits no service but records there was no requirement to serve"},
+    {"text": "Offers an alternative framing built on admitted facts rather than an alleged breach"},
+    {"text": "Notes that a Form 29 for the medical records was signed by a Senior Registry Officer on 4 July 2025"}
+  ]
+}

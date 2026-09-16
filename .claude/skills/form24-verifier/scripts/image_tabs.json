@@ -1,0 +1,38 @@
+{
+ "_comment": "Tabs with no usable text layer. Content verified by pdftoppm render on the date shown. Re-verify by render if the source file changes.",
+ "1A": {
+  "why": "image-only email page (Stibbard 18 Jul 2023)",
+  "verified": "2026-08-24 render"
+ },
+ "8A": {
+  "why": "guideline cover page, image",
+  "verified": "2026-08-24 render"
+ },
+ "8B": {
+  "why": "MASPER bundle pages, image",
+  "verified": "2026-08-24 render"
+ },
+ "22": {
+  "why": "consultation paper, image",
+  "verified": "2026-08-24 render"
+ },
+ "23": {
+  "why": "consultation outcome, image",
+  "verified": "2026-08-24 render"
+ },
+ "26": {
+  "why": "the Feb 2026 Notice - text layer silently drops every quoted phrase (see CLAUDE.md source-integrity rules)",
+  "verified": "2026-08-25 render"
+ },
+ "28": {
+  "why": "myHR history screenshot",
+  "verified": "2026-08-25 render"
+ },
+ "29": {
+  "why": "sub-delegation instrument, scanned",
+  "verified": "2026-08-25 render"
+ },
+ "30": "Attachment 9 scan - no text layer",
+ "31": "Emergency Code Register screen capture - no text layer",
+ "30A": "Taylor 18-Jun-2024 email scan"
+}

@@ -1,0 +1,977 @@
+{
+ "meta": {
+  "file": "SCRATCHPAD_REASONING.json",
+  "generated": "2026-09-03 (rev 6 — 2–3 Sept emails; LSL eligibility date 04/09/2026; response pack)",
+  "matter": "WC/2024/227 Shepherd v Workers' Compensation Regulator (QIRC, s 550(4) WCRA)",
+  "status": "INTERNAL WORKING SCRATCHPAD — not for service, not for filing, not quotable externally",
+  "purpose": "Consolidated reasoning from the 28 August 2026 session: audio forensics, mention analysis, report design, and four documents newly ingested.",
+  "firewall": "QPS/criminal track (legal_system/) and the DFV material are NEVER voiced in WC/2024/227 or the employment track. No cross-track cognitive profile is to exist.",
+  "revision": 7,
+  "last_updated": "2026-09-04 ad hoc paid; LSL 29 Sept; AWOL found (D16)"
+ },
+ "documents_ingested_28AUG2026": [
+  {
+   "id": "D1",
+   "title": "Consultation Paper — Proposed Rosters for Switchboard Services, Logan Hospital",
+   "pages": 8,
+   "annexure": "Annexure A Tab 22",
+   "text_layer": false,
+   "method": "pdftoppm -r 130 -png",
+   "significance": "HIGHEST of the four",
+   "verbatim_findings": [
+    "'On 22 July 2021, Metro South Health management, affected staff and Together Queensland representatives commenced negotiating a new roster for Switchboard Services, Logan Hospital.'",
+    "purpose is 'to reinvigorate the consultation process'",
+    "'In August 2024, Switchboard Services, Logan Hospital was realigned from Health Information Management Services (HIMS), MSH to Corporate Services, LBHS, MSH.'",
+    "'Redistribution of nights for greater equity based on FTE.'",
+    "'Rotational roster for predictability and equity to all staff ensuring fair distribution of penalties.'",
+    "proposed roster 'trialled for a period of 6 months' then reviewed"
+   ],
+   "why_it_matters": [
+    "ROSTER CONSULTATION WAS OPEN FROM 22 JULY 2021 TO NOVEMBER 2024 - 3 years 4 months - and the employer's own word for the state of it is that it needed to be 'reinvigorated'. That spans the WHOLE exposure period (June 2023 - June 2024).",
+    "STAR: 'fair distribution of penalties' and 'greater equity based on FTE' are the EMPLOYER conceding that the EXISTING roster did not distribute penalties fairly. That is direct corroboration of the pay-disparity limb.",
+    "'predictability' - the employer's own November 2024 paper says the roster lacked it. The ECC of 3 July 2026 lists 'unpredictable rostering' as a stressor. Same defect, employer-documented, two years apart.",
+    "The August 2024 HIMS->Corporate Services realignment post-dates the injury and explains why the Director, Corporate Services is now the decision-maker - structurally relevant to the s 89 conflict letter."
+   ]
+  },
+  {
+   "id": "D2",
+   "title": "Letter — Conflict of interest, delegation and information handling (s 89 Public Sector Act 2022; Code cl 1.2)",
+   "ref": "MSH-INJ-5795",
+   "to": "Ms Noelle Cridland, Chief Executive, Metro South Health",
+   "date": "3 August 2026",
+   "verbatim_findings": [
+    "'I am not asking that anyone be removed... I make no allegation against any individual and I seek no finding about anyone.'",
+    "'I say only that this is a set of circumstances in which a conflict may exist.'",
+    "letters of 31 July written in the first person of the decision-maker and signed by Mr Scott Hughes, Director, Corporate Services",
+    "Q3 asks the GP whether he is fit to return 'under the existing reporting arrangements, including working with and reporting to [his] current line manager' - arrangements which sit INSIDE Corporate Services",
+    "3 October 2025 formal written request for review to A/Director HR Business Partnering concerning a process initiated by the same officer who signed the 31 July letters",
+    "the letter of 7 July 2026 records the treating practitioner advised of 'unresolved workplace matters involving line management'"
+   ],
+   "why_it_matters": [
+    "Part 2A converts 'unresolved workplace matters' into FOUR NAMED WHS/psychosocial matters - escalation of patient safety concerns; consultation on changes to work/roster/on-call; fatigue and recovery; genuine input into decisions. Those are the appeal's stressors stated in employment-track vocabulary.",
+    "STAR: item (b) - the consultation limb - is now CORROBORATED BY D1, the employer's own consultation paper. The two documents interlock.",
+    "The tone discipline is exemplary and is the model for all future correspondence: chronology, no motive, no allegation, questions that cannot be answered badly."
+   ]
+  },
+  {
+   "id": "D3",
+   "title": "Attachment 5 — Movement forms 2026",
+   "pages": 13,
+   "verbatim_findings": [
+    "Form 1: delegate Scott Hughes, approved 27.02.2026, effective 01.03.2026-15.03.2026, 56.00 hrs/fortnight",
+    "Form 2: delegate Scott Hughes, approved 17.04.2026, effective 16.03.2026-26.04.2026, 56.00 hrs/fortnight",
+    "Form 3: delegate Scott Hughes, approved 09.06.2026, effective 25.05.2026-28.06.2026, 40.00 hrs/fortnight",
+    "every form: 'Shift Arrangements: Continuous Shift Worker'; 'Position: AO Switchboard, AO3, Level 04'",
+    "Award: Hospital and Health Service General Employees (Queensland Health) Award - State 2015",
+    "'Reason For Additional Leave: Working Public Holidays, Continuous Shift Work'; Recreation Leave Accrual 6 weeks",
+    "Movement Task: 'Change to Working Conditions (Temporary)'; Reason: 'Change in Hours - Other'",
+    "Comments on Form 1: 'Cory Shepherd to extend reduce hours contract - 1.03.26 - 15.03.26 possible extension'"
+   ],
+   "why_it_matters": [
+    "STAR: 'Continuous Shift Worker' is recorded by the EMPLOYER on all three 2026 forms. That is the employer certifying the very working pattern the fatigue case depends on.",
+    "'Reason For Additional Leave: Working Public Holidays, Continuous Shift Work' - the employer's own form records that the role attracts public-holiday work. That interlocks with D1's 'fair distribution of penalties' and with the pay-disparity limb.",
+    "Scott Hughes approved all three as delegate - so the officer whose delegation is questioned in D2 is the same officer who approved the reduced-hours arrangements. Relevant to D2 but NOT to be run as motive.",
+    "56 -> 56 -> 40 hours is a DOWNWARD trajectory across 2026. Instruction question 3.6(e) asks whether that indicates deterioration or successful management of a stable condition. NOTE: 3.4-3.8 are now CUT from the narrowed report, so this is deferred."
+   ]
+  },
+  {
+   "id": "D4",
+   "title": "QSuper — Graduated Return to Work payment, CLM-317073",
+   "date": "5 August 2026, 16:12",
+   "verbatim_findings": [
+    "'We've sent your graduated return to work payment to your bank account. This covers you from 25 May 2026 to 31 May 2026.'",
+    "issuer: Australian Retirement Trust (ART) as trustee; QSuper branding"
+   ],
+   "why_it_matters": [
+    "Confirms IP/GRTW cover ENDS 31 May 2026 - consistent with 'IP benefits suspended 31 May 2026'.",
+    "Establishes the income cliff: last fund payment covers to 31 May; wages stopped 13 July; nothing in between.",
+    "Relevant to the ART/QSuper overpayment review track ONLY. NOT causation. Belongs in the prognosis/recovery-environment discussion if anywhere."
+   ]
+  },
+  {
+   "id": "D5",
+   "title": "SMS thread — Cory <-> Jacqui Roberts (MSH HR)",
+   "format": "screenshot, image",
+   "verbatim_findings": [
+    "Jacqui: 'Oh my gosh Cory that is alot! And understand why you may have a concern about accessing information. Lets continue our chat next week.'",
+    "Cory: 'My past experience include being safety advisor in Papua new Guinea working in various refugee centres. I also was a third year nurse at griffith the concerns were never interpersonal with my manager.'",
+    "Cory: 'relationship ending 6 months after my dismissal was then used as the issue. My ex partner attended my consults with me the distress never originated from my relationship.'",
+    "Cory: 'My most intimate sexual health and medical records were shared around and used to embarrass me then the cascade of my relationship ending 6 months after my dismissal...'",
+    "Jacqui: 'All the best with your move this weekend.'",
+    "Cory: 'I also need to go hand my keys over.'",
+    "Jacqui: 'Hi Cory. I think your phone may have lost charge. Please let me know you are ok.'"
+   ],
+   "why_it_matters": [
+    "STAR STAR: 'My ex partner attended my consults with me' - CORROBORATES the 24 October 2024 consultation at which the partner attended and was, on Dr Krishnaiah's own observation, supportive and protective. Question 3.1(b) of the instruction asks exactly this.",
+    "STAR: 'the distress never originated from my relationship' - his own contemporaneous position on the competing cause, stated to the employer, not constructed for the appeal.",
+    "STAR: 'the concerns were never interpersonal with my manager' - the correct framing, volunteered. Systemic/WHS, not personal conflict. Keeps s 32(5)(b) shut.",
+    "STAR: 'hand my keys over' + 'your move this weekend' - THIS DATES THE 2026 LOSS OF ACCOMMODATION, which was previously undated in the file. Fix the date from this thread.",
+    "Prior work history not previously in the file: safety advisor, Papua New Guinea refugee centres; third-year nursing student at Griffith. Relevant to the psychiatrist's history and to capability.",
+    "CAUTION: 'My most intimate sexual health and medical records were shared around and used to embarrass me' is a serious information-handling allegation made by SMS to HR. It is unparticularised in this medium and must NOT be run in the WC track. It belongs to the information-handling/privacy track and to D2."
+   ],
+   "discrepancy_flag": {
+    "issue": "'relationship ending 6 months after my dismissal'. Dismissal 9 Oct 2024 + 6 months = ~April 2025. The file elsewhere records relationship difficulty from ~Dec 2024 and separation Feb 2025.",
+    "why_it_matters": "Instruction question 3.1(a) asks Dr Krishnaiah to place each factor in time FROM HIS OWN RECORDS. A conflicting lay date in the Appellant's own SMS to the employer is a cross-examination handle.",
+    "action": "Do NOT resolve it by choosing a date. Let the psychiatrist date it from his file, which is what 3.1(a) is designed to produce. Never send him the timeline."
+   }
+  },
+  {
+   "id": "D6",
+   "title": "Limited Scope Authorisation for Disclosure of Medical Information Relating to Capacity for Work",
+   "pages": 2,
+   "status": "DRAFT — UNSIGNED (execution block blank)",
+   "verbatim_findings": [
+    "names the psychiatrist as 'Dr Rai Ravi Ravikumar (or such other practitioner practising under that name)'",
+    "cl 1: '...and for the preparation and provision of a written report by the psychiatrist answering questions that my employer may reasonably require for clarification of medical information in relation to my employment'",
+    "cl 3: 'I specifically authorise... to prepare and provide a written report responding to questions from my employer (or its authorised representatives)... The report may be provided directly to my employer or its authorised occupational health or human resources representatives.'",
+    "cl 4: valid twelve (12) months unless revoked in writing",
+    "cl 5: information 'must be treated as confidential and used solely for the purposes stated above. It must not be further disclosed to third parties except as required by law or with my further written consent.'",
+    "cl 6: 'This document does not constitute a general release of my entire medical or psychiatric records'; 'Nothing in this authorisation waives any rights I may have under privacy, health records, or anti-discrimination legislation.'",
+    "Patient: Cory Lea Shepherd, mobile 0417 400 227"
+   ],
+   "DEFECTS": [
+    {
+     "rank": 1,
+     "defect": "WRONG PRACTITIONER NAME. The treating psychiatrist is Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service, provider 473280RT. 'Dr Rai Ravi Ravikumar' is not his name.",
+     "consequence": "An authorisation naming the wrong practitioner may authorise nothing, and on its face it looks careless in a matter where the register of the documents is already an issue.",
+     "action": "DO NOT SIGN until the name is corrected to Dr Ravikumar Bangalore Krishnaiah. Verify the spelling against the 13 February 2025 report and the provider number."
+    },
+    {
+     "rank": 2,
+     "defect": "CLAUSES 1 AND 3 RE-OPEN WHAT THE NARROWING CLOSED. They authorise a report answering the EMPLOYER's questions - which is the RFMI nine-question schedule, including Q7 (working memory 'under normal workplace demands'), Q6 (full inherent requirements) and Q9 (return if restrictions cannot be accommodated).",
+     "consequence": "The narrowing of the psychiatric instruction to Matters 1, 2 and 3.1-3.3 was designed to DEFER the employer's capacity questions. Signing this as drafted hands them back.",
+     "tension": "It also sits against the s 89 letter of 3 August 2026, Part 5(c), which expressly refused consent to the clinical material being used 'in connection with any other proceeding'.",
+     "action": "If any authorisation is to be given, confine cl 3 to the specific questions actually agreed, exclude Q3 and Q9 by number, and align the duration to the employment process rather than twelve months."
+    }
+   ],
+   "what_is_good": [
+    "cl 5 confidentiality and no-onward-disclosure without further written consent",
+    "cl 6 - expressly NOT a general release, and no waiver of privacy / health records / anti-discrimination rights",
+    "the instrument is correctly conceived: a LIMITED scope authorisation is the right answer to a general request"
+   ]
+  },
+  {
+   "id": "D7",
+   "title": "Correspondence — Ms Taylor, ECC request",
+   "pages": 5,
+   "thread": "'RE: Medical certificate Cory'",
+   "verbatim_findings": [
+    "19 May 2026 10:21 - Chloe Taylor to Cory: 'Hope you are well, just following up on below email and ECC progress.' Signature block: 'Chloe Taylor | Switchboard Manager | Local Telecommunications Representative | Switchboard Services | Logan Hospital | Metro South | Queensland Health'",
+    "21 May 2026 16:00 - Cory to Taylor: '1. ECC progress - I have an appointment booked for 5 June to get the ECC completed. Screenshot of the booking confirmation attached.'",
+    "'2. Tomorrow's roster - I also have a court mention in Brisbane tomorrow at 10am and I'm currently rostered on the morning shift. In order of preference, I'd like to: Swap my morning for someone's afternoon shift, or Come in around 1pm if anyone on the midday shift would like to swap. If neither swap is possible, I'll need to take tomorrow off as a last resort.'"
+   ],
+   "why_it_matters": [
+    "STAR STAR: MS TAYLOR WAS STILL HIS LINE MANAGER IN MAY 2026, and still directing him. The s 89 letter records that RFMI question 3 asks the GP whether he can return 'under the existing reporting arrangements, including working with and reporting to [his] current line manager'. THIS EMAIL PROVES THE REPORTING LINE WAS LIVE - and the current line manager is the person whose conduct is the subject of the appeal.",
+    "The ECC was chased by Ms Taylor from at least 19 May 2026. Cory booked 5 June. The ECC as executed is dated 3 July 2026 - there is a gap to account for.",
+    "STAR: his conduct is cooperative and documented - he proposed TWO swap options and offered leave only as a last resort. That is the opposite of the 'difficulty attending rostered shifts' framing.",
+    "VERIFIED, and it matters: the 'court mention in Brisbane tomorrow at 10am' on 22 May 2026 was the QIRC MENTION BEFORE COMMISSIONER DWYER - Notice of Listing issued 7 May 2026, 10:00 AM 22 May 2026, Level 21, 66 Eagle St. NOT the other track. No rule 10 issue arises from this document.",
+    "The registry direction of 22 May 2026 records MSH NON-ATTENDANCE at that mention."
+   ]
+  },
+  {
+   "id": "D8",
+   "title": "Switchboard master roster, Logan Hospital — PP09, 5-18 October 2020 (scanned, hand-annotated 'as @ 17/9/20')",
+   "pages": 1,
+   "text_layer": false,
+   "method": "pdftoppm -r 160 -png",
+   "file": "SKM_C300i20100914320.pdf",
+   "significance": "HIGHEST of the three new documents",
+   "verbatim_findings": [
+    "red header: '5 weeks:- extra week for continous shift worker'",
+    "'Shephard  Cory  388372  Casual' - listed in the CASUAL block",
+    "'Taylor  Chloe  371009  Temp' - listed in the TEMP block, NOT as manager",
+    "'Jeffrey Carolyn 00333776 PT' and 'Conaghan Trish 00320991 PT' both on the same roster",
+    "column headers to the right: 'Meal Break | 6hr Break | Base | 15% | 50% | 100% | Total'",
+    "shift codes across the fortnight: 2200-0600, 2300-0700, 0600-1400, 0700-1500, 1400-2200, 1500-2300, 0900-1400"
+   ],
+   "why_it_matters": [
+    "STAR STAR STAR: THIS IS THE 2020 CASUAL-ERA DOCUMENT. Form 9A Stressor 3(c) pleads that Ms Taylor 'misapplied a superseded 2020 casual agreement to deny statutory paid fatigue leave' on 19 March 2024. This roster SHOWS HIM AS CASUAL IN OCTOBER 2020, payroll 388372 - the same Person ID that appears on the 2026 Movement Forms. It is the contemporaneous evidence of the casual status that was later misapplied.",
+    "STAR STAR: 'extra week for continous shift worker' - the EMPLOYER'S OWN ROSTER records the continuous-shift-worker leave loading in 2020. The 2026 Movement Forms record 'Recreation Leave Accrual (weeks): 6' and 'Reason For Additional Leave: Working Public Holidays, Continuous Shift Work'. The classification is employer-documented across SIX YEARS.",
+    "STAR STAR: the roster template has a dedicated '6hr Break' COLUMN, tracked per employee per fortnight. The employer's own rostering instrument MONITORS THE INTER-SHIFT BREAK. That is directly material to 17-18 March 2024 - a short break is visible on the face of the roster, on the employer's own form.",
+    "STAR STAR: the template has PENALTY COLUMNS - 15%, 50%, 100%. The roster is the instrument that allocates penalties. That interlocks exactly with the Consultation Paper's 'fair distribution of penalties' and with the pay-disparity limb.",
+    "Ms Jeffrey and Ms Conaghan both appear on this roster - independent corroboration that they worked alongside him, which is what their one-page outlines say.",
+    "CONTEXT ONLY, NOT MOTIVE: Ms Taylor appears on the same 2020 roster as a TEMP staff member. State the chronology; never run it as motive. Discipline rule 3."
+   ],
+   "cautions": [
+    "Contains THIRD-PARTY names and payroll numbers. If it is ever served or tendered, consider redaction of other employees' payroll numbers.",
+    "Hand-annotated in several colours - the annotations are not attributed on the face of the document. Do not assert who wrote them.",
+    "The scanner metadata date (Oct 2020) is consistent with the content, but the document is a SCAN and its provenance should be stated when used."
+   ]
+  },
+  {
+   "id": "D9",
+   "title": "Email thread — 'Re: Follow up on Enquiries', Cory <-> Jacqui Roberts (Principal Consultant, HR, LBHS)",
+   "pages": 12,
+   "span": "18 August – 28 August 2026",
+   "cc": "Emily Petering (Together Qld), Terry McQuillan (MSH), LBHS Human Resources Team 1",
+   "significance": "HIGHEST — it confirms the authorisation defect was SERVED, and it dates the gate",
+   "chronology": [
+    {
+     "when": "18 Aug 15:22",
+     "who": "Roberts",
+     "what": "proposes meeting; cc Petering and LBHS HR Team 1"
+    },
+    {
+     "when": "18 Aug 17:22",
+     "who": "Cory",
+     "what": "confirms 14:30-16:30 Friday (21 Aug)"
+    },
+    {
+     "when": "Fri 21 Aug",
+     "who": "—",
+     "what": "meeting held; cut short (phone died); no outcome"
+    },
+    {
+     "when": "24 Aug 07:44",
+     "who": "Roberts",
+     "what": "'Sorry technology let us down on Friday'; offers Tue 25 Aug 3-5pm or Fri 28 Aug 9-11am; Petering available"
+    },
+    {
+     "when": "24 Aug 11:13",
+     "who": "Cory",
+     "what": "THE KEY EMAIL — see below"
+    },
+    {
+     "when": "24 Aug 12:19",
+     "who": "Roberts",
+     "what": "'I will review and come back to you'; 'I am speaking with Chloe this afternoon in relation to applying your leave'"
+    },
+    {
+     "when": "25 Aug 15:08",
+     "who": "Roberts",
+     "what": "Teams invite to continue (D10)"
+    },
+    {
+     "when": "27 Aug",
+     "who": "—",
+     "what": "Cory's appointment with Dr Krishnaiah"
+    },
+    {
+     "when": "28 Aug 14:18",
+     "who": "Cory",
+     "what": "the withdrawal email — SENT"
+    }
+   ],
+   "verbatim_24AUG": [
+    "'I apologise for Friday and for the state I was in.'",
+    "'For ease of reference, I attach: the QSuper letter; the communication I believe prompted the ECC; my movement details; MY AGREEMENT TO THE SHARING OF MEDICAL INFORMATION AND CORRESPONDENCE WITH MY TREATING PSYCHIATRIST'",
+    "'In the circumstances, I ask to be advised, IN ADVANCE, of what information is being shared with my treating psychiatrist, what questions are being asked of them, and what is proposed to be included in any correspondence with them.'",
+    "'In the interim, while Metro South Health seeks clarification regarding my medical information, I respectfully request that the appropriate leave be applied and that an AVAC be submitted on my behalf to facilitate the processing of my entitlements.'"
+   ],
+   "verbatim_28AUG": [
+    "'First, I wish to withdraw the Stage 2 grievance referral. My preference is to work through the outstanding issues directly with you. To be clear, I am withdrawing THE REFERRAL ONLY. My concerns regarding pay, the leave debited since 3 July 2026, and the adjustments contained in the Employee Capability Checklist dated 3 July 2026 remain unresolved and in dispute.'",
+    "'Second, could you please provide an update on the AVAC following your discussion with Ms Taylor on 24 August?'",
+    "'Third, I attended an appointment with my psychiatrist, DR RAVIKUMAR BANGALORE KRISHNAIAH, on 27 August 2026. Dr Krishnaiah advised that, DESPITE THE AUTHORITY I PROVIDED, QUEENSLAND HEALTH HAS NOT YET RESPONDED TO HIS REQUEST FOR INFORMATION.'",
+    "'Finally, could someone please contact Dr Krishnaiah's practice so that preparation of the report is not delayed? I would also appreciate being advised of any information being shared with Dr Krishnaiah and the matters on which their opinion is being sought.'"
+   ],
+   "why_it_matters": [
+    "STAR STAR STAR: THE 24 AUGUST EMAIL ATTACHED THE LIMITED SCOPE AUTHORISATION (D6). It is therefore NOT a draft awaiting signature — IT HAS BEEN SERVED ON MSH, naming 'Dr Rai Ravi Ravikumar'. See the elevated risk entry.",
+    "STAR STAR STAR: the name is definitively confirmed by Cory's own email of 28 August — 'Dr Ravikumar Bangalore Krishnaiah'. The authorisation names a different person.",
+    "STAR STAR: THE GATE IS NOW DOCUMENTED AND DATED. As at 27 August 2026 Queensland Health had NOT responded to Dr Krishnaiah's request for information. Direction 2 (4pm 9 September) is at real risk and the 2 September registry backstop is now ESSENTIAL, not optional.",
+    "STAR: the withdrawal is correctly framed — the REFERRAL only, with pay, the leave debited since 3 July, and the ECC adjustments expressly preserved as unresolved and in dispute.",
+    "STAR: he asked TWICE (24 and 28 August) to be told in advance what information MSH sends the psychiatrist and what questions are asked. Unanswered on the face of this thread. That request is protective and should be pressed.",
+    "The AVAC request is dated 24 August; Roberts spoke with Ms Taylor about leave on 24 August; the update was sought on 28 August."
+   ],
+   "cautions": [
+    "'I apologise for Friday and for the state I was in' is a candid disclosure of his condition made to the employer DURING a capacity process. Candour is right and should not be undone — but note it exists and that MSH holds it.",
+    "The thread is employment-track. THE LEAKAGE RULE APPLIES: none of this vocabulary enters the 9 September package."
+   ]
+  },
+  {
+   "id": "D10",
+   "title": "Teams meeting invitation — 'Meeting - Cory Shepherd', Jacqui Roberts",
+   "pages": 3,
+   "date": "25 August 2026, 15:08",
+   "to": "Cory Shepherd, Terry McQuillan, Emily Petering (Together Qld)",
+   "verbatim_findings": [
+    "'**Update 25/08/2026 – For Internal information only – adding in meeting room, not relevant for Emily or Cory**'",
+    "'As arranged, here is the link to join the meeting to continue our discussions from Friday.'"
+   ],
+   "why_it_matters": [
+    "Confirms the 21 August meeting was not concluded and was resumed on 25 August, with the union (Ms Petering) present.",
+    "MINOR INFORMATION-HANDLING OBSERVATION: an annotation expressly marked 'For Internal information only... not relevant for Emily or Cory' was left in a message sent TO Emily and Cory. Not material to the appeal; note it, do not run it.",
+    "Terry McQuillan is a consistent participant in the HR thread — record the role."
+   ]
+  },
+  {
+   "id": "D11",
+   "title": "AS SENT — application for long service leave and annual leave, and request for AVAC to be processed today",
+   "sent": "Monday 31 August 2026, 10:58",
+   "to": "Chloe Taylor",
+   "cc": "Jacqui Roberts; Emily Petering (Together Qld)",
+   "filed_at": "documents/correspondence-2026/2026-08-31_1058_Cory_to_Taylor_LSL_AL_AVAC_application_SENT.pdf",
+   "content": [
+    "Applies for LSL on full pay from 13 July 2026 (date of last wages) continuing; then annual leave on exhaustion, until further notice",
+    "Asks that the NP Sick Leave coding be corrected and REPLACED; confirms he is NOT applying for personal leave as he is not unfit",
+    "Asks the AVAC be submitted and processed TODAY with a reference number and the pay run confirmed",
+    "Paragraph 4: UNDER PROTEST AND WITHOUT PREJUDICE, on four express bases including 4(d): leave to be RE-CREDITED if wages are paid or found payable for any part of the same period, or if the recording of the absence is later corrected or determined otherwise",
+    "Paragraph 5: hardship stated plainly — no income since 13 July, accommodation given up; asks after any urgent/off-cycle payment mechanism",
+    "Paragraph 6: if any part cannot be actioned today, say today which part, why, and when"
+   ],
+   "significance": "The protest + re-credit election and the condition sit in the SAME document. The union was copied at the moment of application."
+  },
+  {
+   "id": "D12",
+   "title": "Taylor reply — same afternoon, 31 August 2026",
+   "source": "VERIFIED FROM ORIGINAL — full thread export filed at documents/correspondence-2026/2026-08-31_FULL_THREAD_Taylor_LSL_AVAC_application_reply_and_correction.pdf. Sent Mon 31 Aug 2026 3:34:24 pm, To Cory, Cc Jacqui Roberts AND emily.petering@together.org.au.",
+   "verbatim_findings": [
+    "'I have applied your S/L and A/L in lieu of S/L for your absence from the workplace through an AVAC as requested, for the past fortnight 17th August 2026 – 30th August 2026.'",
+    "'As you are on reduced roster 0.5 FTE, I have applied the leave as per reduced shifts - PRN 249 863 66'",
+    "'About your long service leave from the 13th July 2026 - the system is currently not allowing me to apply LSL, so I have made enquiries with Payroll to understand why this may be and I will get back you as soon as I have an update.'",
+    "⭐ Her reply was cc'd to Ms Roberts AND Ms Petering — the union saw the '0.5 FTE' position the moment it was taken."
+   ],
+   "what_it_gives": [
+    "Same-day action with a reference number (PRN 249 863 66) — the deadline-and-number technique worked",
+    "STAR: 'reduced roster 0.5 FTE' is now MSH'S WRITTEN POSITION ON HIS HOURS — contradicted by their own expired movement form (Form 3, effective 25.05–28.06.2026, temporary, never extended) and their own 12 Aug payslip recording the absence at 76.00 hours",
+    "'S/L and A/L in lieu of S/L' — sick leave has been applied in some form to a man who expressly did not apply for it and is certified fit",
+    "Only ONE fortnight actioned (17–30 Aug), not the period from 13 July as applied for",
+    "STAR STAR: THE SYSTEM WILL NOT APPLY LSL. Most probable diagnosis: the continuous service date was RESET at the 20 September 2024 separation and never corrected on the February 2025 reinstatement. The deed (recital B: commenced 25 March 2019; recital F: reinstated effective 20 September 2024) proves 7 years fell due 25 March 2026. If Payroll confirms a reset date, that is a payroll error persisting ~18 months after reinstatement, discovered only because he applied for LSL"
+   ],
+   "reply_drafted": "drafts/REPLY_Taylor_31AUG2026_FTE_leavetype_LSLblock.txt — four points: confirm leave types/hours under the PRN and re-credit any sick leave; apply at substantive 76 hrs (movement forms only, ECC kept OUT of the hours point); extend back to 13 July as an adjustment once LSL resolves; hand Payroll the service-date diagnosis WITHOUT mentioning the deed; confirm the 9 September pay run; re-attach the paragraph 4 protest basis in one line."
+  },
+  {
+   "id": "D13",
+   "title": "AS SENT — the four-point correction to Taylor",
+   "sent": "Monday 31 August 2026, 16:06 (32 minutes after Taylor's reply)",
+   "cc": "Jacqui Roberts; Emily Petering",
+   "filed_at": "documents/correspondence-2026/2026-08-31_FULL_THREAD_Taylor_LSL_AVAC_application_reply_and_correction.pdf (top message)",
+   "content": [
+    "1. Leave type — did not apply for sick leave; certified fit; confirm types and hours under PRN 249 863 66; re-credit and replace any sick leave debited",
+    "2. Hours — apply at substantive 76/fortnight; Form 3 temporary, effective 25.05–28.06.2026, not extended; no variation in force since 28 June; the 12 Aug payslip itself records 76.00 hours; 'if a different arrangement has been recorded... what it is and the document it is based on'",
+    "3. Period — application was from 13 July; apply back as an adjustment once LSL resolves; correct the earlier NP Sick Leave fortnights at the same time",
+    "4. LSL diagnosis for Payroll — commenced 25 March 2019; reinstatement effective 20 September 2024 with continuity preserved; seven years reached 25 March 2026; Award cl 22(c); a later service date in the system 'may not have been corrected following my reinstatement'. ⛔ Deed not mentioned",
+    "Asked that the 17–30 Aug payment be processed urgently; re-attached the paragraph 4 protest/re-credit basis in one line"
+   ],
+   "significance": "The 0.5 FTE was corrected on the record within 32 minutes of appearing, before it could set as a baseline, with the union copied at both ends of the exchange."
+  },
+  {
+   "id": "D14",
+   "title": "Thread 2–3 Sept 2026 (Outlook_Document235, 15pp) + Manager_Switchboard_Payment_Corro (9pp)",
+   "filed_at": "documents/correspondence-2026/2026-09-03_1027_Taylor_Payroll_LSL_eligibility_04SEP_thread_2-3Sep.pdf; 2026-09_Manager_Switchboard_Payment_Corro.pdf",
+   "messages": [
+    "2 Sep 11:07 Cory→Taylor: ad hoc payment today (sent)",
+    "2 Sep 12:42 Taylor: PRN processed, paid 9 Sept; 'S/L and A/L in lieu of S/L'; LSL system won't allow; balances; IT reset number",
+    "2 Sep 13:00 Cory→Payroll cc Petering: 'Please respond to Chloe Taylor and resolve the issue with long service leave'",
+    "2 Sep 14:05 Cory→Payroll+Taylor: MyHR access REGAINED; no record of the PRN visible; Payroll by phone 13:24 'no information recorded' against it; asks for copies of the enquiry/records",
+    "2 Sep 16:16 Taylor: process number was mistyped — correct is 24926366; LSL payroll enquiry LOG 4469554 lodged 31 Aug, Pending Investigation",
+    "3 Sep 09:05 Payroll (John Layson, CSO): 'LSL eligibility date is only from 04/09/2026'; 'a log has been created for a leave audit, a CSO is currently working on it'",
+    "3 Sep 10:27 Taylor: forwards; has asked Payroll why 04/09/2026; LSL cannot be backdated before eligibility; ad hoc payment for 17–30 Aug 'cannot be processed prior to Wednesday 9th September'"
+   ],
+   "exhibits_from_MyHR_2Sep": [
+    "Leave balances 02.09.2026: Recreation 51.31 hrs; Sick 14.66 hrs; RDO -0.33",
+    "Request overview: 'SICK LEAVE - NO PAY' entered DAILY on his behalf and APPROVED from 3 Aug 2026 (before AVAC processing)",
+    "My payroll enquiries: 4471091 Ad Hoc Payment 02.09.2026 Pending; 4438861 Leave 22.07.2026 RESOLVED (never communicated); 4045255 Ad Hoc Payment 11.03.2025 Resolved — PRECEDENT"
+   ]
+  },
+  {
+   "id": "D15",
+   "title": "HR Policy C13 — Payment of salaries and wages (QH-POL-188), Chief Human Resources Officer, 23 June 2025 (8pp)",
+   "filed_at": "documents/instruments/QH-POL-188_HR_Policy_C13_Payment_of_salaries_and_wages_23JUN2025.pdf; extracts at documents/instruments/QH-POL-188_C13_VERIFIED_EXTRACTS.md",
+   "received": "3 Sep 2026, from Cory (web fetch had been blocked)",
+   "verified_provisions": [
+    "s8: ad hoc process 'enables employees to request a payment that was missed or requires correction outside of the regular pay day schedule without waiting for the next pay cycle' — DIRECTLY CONTRARY to Taylor 3 Sep 10:27 'cannot be processed prior to Wednesday 9th September'",
+    "s8(4): where employee unable to access myHR, the LINE MANAGER can request the ad hoc payment on their behalf — Cory locked out until 2 Sep",
+    "s8(5)/s5 table: lodge by 5pm pay day Wednesday, include PRN — 4471091 lodged Wed 2 Sep; PRN 24926366",
+    "s2: line manager notified of incorrect wage payment 'must take all steps to rectify the error' incl. submitting forms and liaising with Payroll — notice given 3 Jul + 10 further times",
+    "s6: line manager may submit leave on employee's behalf ONLY where the employee's request is documented in writing and supporting docs (medical certificates for sick leave) are retained; must not unilaterally place employee on leave requiring mutual agreement — the daily NP Sick Leave entries have NO written request from Cory (his 3 Jul request was annual leave)",
+    "s9: continuous incorrect pay → employee-requested review of pay entitlements",
+    "s2/PSC Directive 17/13: pay day no later than 10 days after period end — 17–30 Aug → 9 Sep is ON CYCLE; 24926366 is not 'missed pay'",
+    "Definition: ad hoc = 'missing pay in the most recent prior pay period … not to be used for payment of missed pay for extended periods' → ad hoc attaches to 3–16 Aug (paid nil 26 Aug); July fortnights go to s9 review + audit",
+    "s4.2: LWOP/WorkCover employees — line manager to ensure compliance with HR Policy G4 Absence management (NOT HELD — obtain)",
+    "s4.1: LSL applications to be made before the leave — answered by the 3 Jul leave request, the employer's coding choice, and s4.1's own corrective-action duty on the line manager"
+   ],
+   "what_changed": "Two-part email Part 2 reframed: ad hoc for 3–16 Aug (missed), not for 24926366 (on cycle); AVAC for 3 Jul–16 Aug demanded under s2; rec leave 51.31h offered against 3–16 Aug without prejudice so the ad hoc can run, re-credit on LSL from 13 Jul; s9 review requested; s6 documents for each NP Sick entry requested (new item 3). Petering email updated. Policy note rewritten with C13 verified.",
+   "leads": [
+    "HR Policy G4 Absence management",
+    "HR Policy C48 Overpayments and loans (if they ever assert overpayment)",
+    "PSC Directive 17/13"
+   ]
+  },
+  {
+   "id": "D16",
+   "title": "4 September 2026 — the ad hoc payment, the LSL audit result, and the full leave history",
+   "filed_at": "documents/correspondence-2026/2026-09-04_1030_Taylor_ADHOC_PROCESSED_PRN24973005_LSL_not_eligible.pdf; .../2026-09-04_1429_Taylor_fwd_Payroll_Strachan_LSL_calculation_29SEP2026.pdf; documents/2026-09-04_Leave_Takings_Report_25MAR2019-04SEP2026_FULL.xlsx; documents/2026-09-04_LSL_audit_calculator_screens_Payroll.docx (+2 PNG)",
+   "the_win": "AD HOC PROCESSED. Taylor 4 Sep 10:30: all available leave balances (S/L and A/L in lieu of S/L) paid for PP03 06–17 Jul 2026, ADHOC PRN 24973005, up to 48 hrs. The C13 s8 argument worked ~21 hrs after the two-part email. NOTE: it pays the FIRST unpaid fortnight, not 3–16 Aug, and out of his OWN balances, not as wages.",
+   "the_setback": "LSL eligibility moved 4 Sep -> 29 Sep 2026 (Grace Strachan, Senior Payroll Officer, 4 Sep 13:53). Three LWOP windows excluded: 18 May-10 Jun 2022 (23d); 21 Jun-20 Sep 2024 (91d); 13 Dec 2024-23 Feb 2025 (72d, the deed's own cl 4). 186 days; 25 Mar 2026 + 186 = 27 Sep. Internally consistent. The audit recalculated eligibility FROM the coding instead of correcting the coding first.",
+   "the_balance": "342.5518 HOURS ACCRUED = 4.51 fortnights = 9.01 weeks = $15,229.85 gross at $44.46. Four weeks = $6,757.92. The dispute was never about entitlement, only about the date.",
+   "the_interlock": "Window 2 (21 Jun-20 Sep 2024) is the WorkCover period - certified by Hawes from 1 Jul 2024, claim lodged 1 Jul, rejected 13 Sep. 71 daily LWOP entries, each APPROVED. If the appeal succeeds and the injury is accepted, that period is compensable absence not LWOP, the 91 days fall away, and eligibility reverts to ~28 June 2026 - already passed. THE APPEAL DECIDES THE LSL DATE. Verify the accrual rule before asserting.",
+   "the_alarm": "AWOL. 30/08/2026 AWOL_NP 'Absent Without Leave' 7.60 hrs APPROVED - the LAST entry on the record and the ONLY AWOL in 439 rows over five and a half years. It falls on the last day of the 17-30 Aug fortnight Taylor said on 31 Aug she had processed as S/L and A/L in lieu. It contradicts what he was told in writing, and unauthorised absence is the predicate for abandonment - the 2024 pattern. Raise alone, factually, one question.",
+   "insurance_thesis_confirmed": "13,14,18,19,20,21,22,23 July 2026 are recorded with leave type 'Income Protection Leave - No Pay' (SCK_NP) on the employer's own Leave Takings Report - no longer an inference from the 20 Jul myHR screen.",
+   "questions_not_assertions": [
+    "Window 1 stated as a block 18 May-10 Jun 2022; the record shows seven scattered days incl. 8 May and 15-19 June, outside the window",
+    "Window 2 stated to begin 21 Jun 2024; the first LWOP entry is 10 June 2024",
+    "20 further LWOP entries Mar 2025-18 May 2026 (incl. 6 and 18 May 2026, 22.80 hrs each) are not excluded - produce the rule applied and reconcile the windows against the record"
+   ]
+  }
+ ],
+ "audio_forensics": {
+  "source": "PRF0466309_20260807_QIRCOIR_Brisbane — 64 kbps MP3, 3875.9 s (64m36s)",
+  "recording_starts": "mid-sentence, inside Dwyer's opening remarks; appearance announcements NOT on the tape",
+  "preprocessing": "16 kHz mono; high-pass 70 Hz; low-pass 7.6 kHz; 1-second-window AGC; soft limiter; normalise -3 dBFS. Average level raised 6.7x from -40 dBFS.",
+  "asr": {
+   "model": "Whisper large-v3 (CTranslate2 int8)",
+   "settings": "beam 5, best_of 5, temperature fallback, word timestamps, Silero VAD, domain-primed prompt",
+   "parallelism": "split at silences (996.9 / 1962.0 / 2882.5 s), two workers concurrent (4 GB each; four OOM'd)",
+   "result": "1068 segments, 0.00-3874.48 s, mean segment log-prob -0.180, zero segments below -0.6"
+  },
+  "diarisation": {
+   "problem": "Both principal speakers are men with median F0 136 Hz on one distant mic. Pure neural embedding clustering FAILED - it separated by segment length, not speaker.",
+   "breakthrough": "The AGC had erased the strongest cue. On the ORIGINAL audio the bench sits at -41 dB and the bar table at -53 dB - a 12 dB mic-distance gap.",
+   "final_method": "Viterbi over three evidence streams: (1) acoustic - Resemblyzer GE2E on un-normalised audio, PCA-32, centroids seeded from utterances only one person could make ('the appellant' = reading the pleading; 'my manager' = the Appellant); (2) lexical - ~60 weighted patterns; (3) adjacency - a question drops the switch penalty to 15%, and certain openings prove the PREVIOUS segment was the other speaker.",
+   "validation": "27/30 hand-checked anchors = 90%. Turn changes 202 (up from 139).",
+   "shares": {
+    "DWYER IC": "846 segs / 2949 s / 86.2%",
+    "MR SHEPHERD": "219 segs / 466 s / 13.6%",
+    "MS MATHESON": "3 segs / 7 s / 0.2%",
+    "MS RUTTAN": "0 - does not register acoustically"
+   },
+   "reliability": "Turn structure reliable. Residual errors concentrated in one- and two-word interjections and overlapping speech. NOT CERTIFIED."
+  },
+  "prosody": {
+   "method": "Praat via parselmouth, per segment",
+   "dwyer": {
+    "f0_median_hz": 136.7,
+    "f0_range_st": 7.6,
+    "rate_wps": 3.08,
+    "intensity_db": 66.0,
+    "seg_len_s": 2.88
+   },
+   "shepherd": {
+    "f0_median_hz": 135.5,
+    "f0_range_st": 5.14,
+    "rate_wps": 2.78,
+    "intensity_db": 62.0,
+    "seg_len_s": 2.18
+   },
+   "response_latency": {
+    "shepherd_median_s": 0.4,
+    "dwyer_median_s": 0.42,
+    "shepherd_turns_over_2s": "5 of 68",
+    "reading": "He answered as fast as the bench. Not the profile of a witness constructing answers. This is the strongest single fact the audio produced."
+   },
+   "outlier": {
+    "gap_s": 16.02,
+    "at": "23:19",
+    "after": "'Where's that?'",
+    "reading": "Longest silence in the hour by a factor of four. He was reading his own index to locate item 10 - he had handed up his only copy. Document-searching, not hesitation. Looks identical on paper, which is why the audio matters."
+   },
+   "the_tell": {
+    "finding": "Three of his five highest-pitched utterances are HEDGES - 'I do believe that I have received those' (+4.5 st), 'I do believe we have those' (+3.6 st), 'I would have to triple check' (+3.3 st).",
+    "contrast": "'No, I have all of that' at 9.7 w/s - three times baseline, flat, instant - disposed of Stressor 3.",
+    "rule": "When he knows, he is fast and flat. When he does not, his pitch rises and broadcasts it. In the box: say 'I'd have to check' at baseline pitch, short, and stop."
+   }
+  }
+ },
+ "transcript_comparison": {
+  "small_en_vs_large_v3": {
+   "words": {
+    "small_en": 9343,
+    "large_v3": 9616,
+    "delta_pct": 2.9
+   },
+   "verdict": "large-v3 more accurate; three passages change meaning"
+  },
+  "material_differences": [
+   {
+    "time": "16:31",
+    "small_en": "I didn't request, but I didn't be specific about that.",
+    "large_v3": "I guess I did request, but I didn't be specific about that.",
+    "significance": "OPPOSITE MEANING on the central question of the morning. large-v3's version is the one consistent with the rest of BOTH transcripts ('I have asked the regulator to produce what they have' [19:01]; 'Not those specific things, no' [19:09]). small.en contradicts itself; large-v3 does not."
+   },
+   {
+    "time": "06:40",
+    "small_en": "you're totally mute, so I'm not experienced with it, but I understood",
+    "large_v3": "you're telling me, so I'm not experienced in it, but I just did what I understood",
+    "significance": "small.en produced nonsense"
+   },
+   {
+    "time": "46:45",
+    "small_en": "The correspondence I also got from the minute",
+    "large_v3": "The correspondence I also got from the manager",
+    "significance": "substantive - he holds correspondence from the manager as well as the union"
+   },
+   {
+    "time": "64:33",
+    "small_en": "Thanks, Paddy, for your journey.",
+    "large_v3": "Thanks, Paddy.",
+    "significance": "small.en hallucination"
+   },
+   {
+    "time": "53:21",
+    "small_en": "Disclosures about what you know.",
+    "large_v3": "because disclosure is about what you know",
+    "significance": "small.en truncated a statement of principle by the Commissioner"
+   }
+  ],
+  "structural": "small.en has NO diarisation, so at [10:31] two speakers merge into one line: 'You don't have to. For me, it happened over a whole year, so it's not just one shift.' The second half is the Appellant's answer to the 'one shift' attack and is invisible without labels.",
+  "where_small_en_wins": "Name spelling - 'Shepherd' 13x vs large-v3's preference for 'Sheppard' (10 v 4). Spelling artefact, not comprehension.",
+  "use": "large-v3 for content; small.en as cross-check; NEITHER externally until certified. ATR0282381 is audio-only and stalled."
+ },
+ "the_mention": {
+  "shape": "Divides at 22:12. Before: standard disclosure-scepticism against a self-represented appellant. After: the roles invert.",
+  "opened": "[01:02] 'you won't be getting to hearing'",
+  "closed": "[63:33] 'the important business of getting this thing to a hearing'; stood down four weeks",
+  "three_sentences_that_matter": [
+   "[15:40] 'the regulator does have to contradict things that you say... if you say something and it's not contradicted... it will be accepted'",
+   "[28:56] 'if you give evidence that you were sent unassessed directives... and the regulator doesn't contradict it, doesn't cross-examine you, doesn't produce documents... that's a problem for them, not for you'",
+   "[35:11] 'the regulator will call Ms Taylor to give her side of the story and you'll get to cross-examine Ms Taylor'"
+  ],
+  "these_are_not_courtesies": "They are how he actually decided McCool [2021] QIRC 374 at [65]-[67]: 'insufficient evidence available... to activate the exclusions'. This is why the Form 24 was built.",
+  "the_ai_sequence": {
+   "09:02": "'Is it AI-assisted, can I ask? Because it feels like it.'",
+   "09:06": "Appellant, ~1.8 s at ~15 dB below the room: 'Just to the end. I do it all myself.' - four of six decodes agree; small.en agrees; ONE decode lost the turn entirely. Words are the best reconstruction, NOT a certainty.",
+   "09:55": "'I can't understand half of what I'm reading' / 'it is genuinely incomprehensible'",
+   "21:46": "'page after page after page of what looks like AI generated material - I switch off'",
+   "22:11": "Appellant: 'Can I give you these two pieces of paper?' - TWENTY-FIVE SECONDS after the second AI reference",
+   "22:13": "Dwyer: 'Hand it up, please.'",
+   "22:31": "Appellant: 'I haven't got a copy, but I can share.'",
+   "22:40-26:31": "Four minutes navigating a document he cannot see",
+   "never_raised_again": "after 22:11"
+  },
+  "what_the_handover_proved": [
+   "The allegation was not 'badly written' - it was 'no author, and no human can explain it'. A denial cannot answer that; only demonstration can, and demonstration REQUIRES the document in the judge's hands and not in yours.",
+   "STAR: Dwyer's confusion was itself the evidence. Generated text is CONVENTIONAL and instantly readable. What he could not read was a bespoke scheme built by one person for their own use.",
+   "STAR: he adopted the vocabulary FOUR SECONDS after asking what it meant - [24:37] 'What does press mean?' -> [24:46] 'To either swear it or produce it.' -> [24:50] 'So you press, so you're still pressing for disclosure'.",
+   "STAR: the table was an INDEX KEYED TO A SEALED FILING and the cross-reference was verified in the room - [24:59] 'which is on Form 29' -> [25:27] 'This is the Form 29 filed on the 22nd of April 2026, yeah.'",
+   "STAR: at [62:28], forty minutes later, Dwyer was still using the Appellant's own concept - 'the unassessed directives or whatever' - and calling it THE ONE LIVE POINT."
+  ],
+  "register_vs_architecture": "Register (the prose) drew the allegation. Architecture (the index, the numbering, the categories, the cross-references) defeated it. A model produces fluent prose; it does not produce your filing system.",
+  "lived_the_department": "[23:40] 'you put a word in Outlook and it filters all the words - so my filters were effective immediately'. Not a lawyer's explanation and not a generated one. A switchboard operator describing a mailbox rule he built to make the directives countable. The METHOD existed before the DOCUMENT.",
+  "corrections_made_this_session": [
+   "The paper was NOT handed up unprompted - he ASKED and was granted leave. Materially better fact.",
+   "The AI answer was NOT a bare denial - it was qualified ('Just to the end'), delivered without hesitation. A qualified answer is the stronger thing to have said.",
+   "The 26 October 2022 record was NOT unobtained - it is already at 1.3 of the letter of instruction, quoted from the PMH list of the 16 May 2024 Zhao->Amini referral."
+  ],
+  "what_was_not_achieved": [
+   "[08:37] the relevance point - made, deflected, abandoned",
+   "[10:31] 'it happened over a whole year' - the answer to the one-shift attack, made once and dropped",
+   "[36:42] 'my health service email was restricted' - the true answer to most of the questions, said once",
+   "[18:29] 'Not that I can recall' - the material was in his own July 2025 disclosure",
+   "[51:35] the 42% pay misreading - NEVER CLEANLY CORRECTED, still uncorrected on the record",
+   "[43:07],[48:56] the delegate limb drew open scepticism - since marked for deletion"
+  ]
+ },
+ "dwyer": {
+  "will_not_hear_the_appeal": "Appeal Guide 5.1, verbatim: 'The Member of the Commission who chairs such a conference will not be the Member who hears the appeal.' He chaired the s 552A conference on 13 March 2026.",
+  "where_his_view_still_matters": [
+   "case management - he made FDO(3) and decides any variation of direction 2",
+   "the Form 29 - PARKED, not dismissed: 'I'm not close to that idea if you really wish to press it'",
+   "direction 5 - he handed the election to the Appellant",
+   "STAR: he would CHAIR the second s 552A conference, which Guide 5.1 describes as a concession opportunity - 'the Respondent may decide to review its position or consider conceding the appeal where new information is presented'"
+  ],
+  "own_reasoning_McCool_2021_QIRC_374": [
+   "[68] beneficial construction, anchored to s 194(3)",
+   "[65]-[67] an evidentiary vacuum does not activate an exclusion - it defeats it",
+   "[26] independent witnesses weighted heavily",
+   "CAUTION: McCool is s 36 (journey), NOT s 32(5). Argue by analogy - 'the Commission has approached exclusions in this way' - never as authority."
+  ],
+  "what_he_punishes": "Andrews [2020] QIRC 104 - dismissed for non-cooperation with the Commission. NEVER let a direction pass without either compliance or an extension application.",
+  "the_prior": "s 552A conference 13 March 2026. Against a prior of 'this man is bright', [09:02] reads as DISAPPOINTMENT, not accusation - 'this does not sound like you'. Corroborated by [56:45] 'in no way at all being critical... you're floundering around a bit... because you're not sure what you need to do'. He attributes the difficulty to INEXPERIENCE, not incapacity.",
+  "the_march_remark": "CONFIDENTIAL. No evidentiary value. Never referred to in any filing, letter or hearing.",
+  "encounters_before_the_hearing": [
+   {
+    "date": "13 March 2026, 10:00",
+    "event": "s 552A conference before Commissioner Dwyer",
+    "source": "Matheson attendance confirmation 10 Mar 2026; Appellant's update email of the same subject line"
+   },
+   {
+    "date": "22 May 2026, 10:00",
+    "event": "MENTION before Commissioner Dwyer, Level 21, 66 Eagle St (Notice of Listing issued 7 May 2026). The registry direction of 22 May records MSH NON-ATTENDANCE.",
+    "source": "Notice of Listing; registry direction 22 May 2026; corroborated by D7 - Cory told Ms Taylor he had 'a court mention in Brisbane tomorrow at 10am'"
+   },
+   {
+    "date": "7 August 2026",
+    "event": "the 64-minute mention analysed in this scratchpad",
+    "source": "PRF0466309 audio"
+   }
+  ],
+  "note_on_the_prior": "Corrected: Dwyer has seen the Appellant THREE times, not twice - 13 March conference, 22 May mention, 7 August mention. The prior is deeper than a single conference, and the favourable view was formed and re-formed across three appearances."
+ },
+ "the_case": {
+  "mechanism": "ONE mechanism - responsibility imposed, and the means to discharge it withheld - with ONE admitted instance: the seven-hour break of 17-19 March 2024.",
+  "authority_caution": "A 'composite course' is Delaney and Delaney is the Respondent's authority. One mechanism with one proven instance is Mahaffey. They sound identical and produce opposite results.",
+  "the_test": "s 32(1) - employment need only be A significant contributing factor. NEVER 'major'. The 2013 'major significant' test was repealed in 2019, long before the 18 June 2024 injury.",
+  "the_pivot": "Review Decision 69983, 24 October 2024 - the Regulator's OWN Review Unit found the rostering amounted to unreasonable management action AND that employment was a significant contributing factor. Contents ADMITTED at Form 24 response row 34.",
+  "their_case": "SOFC para 27 - ONE SENTENCE. 'any management action' was reasonable. No act, no date, no actor, no document, no witness, no medical evidence.",
+  "their_only_anchored_assertion": "Form 24 response row 32 - 'a past medical history of Anxiety and ADHD from 26 October 2022 which is missing from Exhibit A5'.",
+  "their_medical_position": "Amended List of Documents, 14 August 2026: NO medico-legal report, NO IME. The only medical items are Hawes and Ki Pang certificates, Krishnaiah's 24/10/2024 email, Krishnaiah's 13/02/2025 report, and Our Medical Ashmore practice records - ALL the Appellant's own treating evidence.",
+  "stressor_3c_corroboration": "Form 9A Stressor 3(c) - the 'superseded 2020 casual agreement' misapplied on 19 March 2024 - is now corroborated by D8, the October 2020 master roster listing 'Shephard Cory 388372' in the CASUAL block. The document that was misapplied is on the file.",
+  "pay_disparity_corroboration": "Three documents interlock: D1 (Consultation Paper) - the new roster is needed for 'fair distribution of penalties' and 'greater equity based on FTE'; D8 (2020 roster) - the roster template carries 15% / 50% / 100% penalty columns, so the roster IS the penalty-allocating instrument; D3 (2026 Movement Forms) - 'Reason For Additional Leave: Working Public Holidays, Continuous Shift Work'. The claim is inequitable distribution of penalty-attracting shifts, not an underpayment.",
+  "fatigue_corroboration": "D8 shows the employer's own roster template has a dedicated '6hr Break' column tracked per employee per fortnight. The inter-shift break is a field the employer monitors on the face of the roster - directly material to the admitted 7-hour break of 17-18 March 2024."
+ },
+ "live_risks": [
+  {
+   "rank": 0,
+   "risk": "The AWOL entry of 30 August 2026",
+   "detail": "AWOL_NP 'Absent Without Leave', 7.60 hrs, APPROVED - the only one in 439 rows, on the last day of a fortnight Taylor said she had processed as S/L and A/L in lieu.",
+   "why": "Unauthorised absence is the predicate for abandonment. In October 2024 this employer converted his absence into termination for abandonment, backdated. He sought abandonment protection under EB12 cl 6.1 on 28 July 2026.",
+   "action": "Raise TODAY, alone, factually: on what basis, entered by whom, and correct it. No characterisation."
+  },
+  {
+   "rank": 1,
+   "risk": "The Form 9A's five false 'Admitted Fact' tags",
+   "detail": "paras 1.2, 1.3 (x2), 1.4 and 3(d) plead as ADMITTED five facts that are not admitted in the form pleaded. Response row numbers drift from Notice paragraph numbers after row 26.",
+   "worst": "para 1.2 pleads a 'clean psychiatric baseline' DIRECTLY AGAINST a document the Respondent says exists.",
+   "also": "'Independent Review Office (IRO)' does not exist - it is the Regulator's Review Unit. Dwyer read the phrase aloud at [55:20].",
+   "action": "FIX BEFORE 9 SEPTEMBER. As drafted these are the best argument the other side has, and they are self-inflicted."
+  },
+  {
+   "rank": 2,
+   "risk": "The 26 October 2022 Anxiety/ADHD record",
+   "detail": "Their only cheap route to a medical case is cross-examining Dr Krishnaiah on a history he was never shown. Already set out at 1.3 of the letter of instruction from the PMH list of the 16 May 2024 referral. OPEN: whether a separate consultation note of that date exists.",
+   "answer": "Not fatal. s 32(1) needs employment to be A significant contributing factor, and aggravation of a pre-existing condition is compensable on its own terms. But it must be met IN THE REPORT."
+  },
+  {
+   "rank": 3,
+   "risk": "The 42% pay disparity misreading, uncorrected on the record",
+   "detail": "[51:35] Dwyer took it as the Appellant AND colleagues being underpaid 42% - the opposite of the case.",
+   "STAR_NEW": "D1 (the Consultation Paper) FIXES THIS. 'Rotational roster for predictability and equity to all staff ensuring fair distribution of penalties' and 'Redistribution of nights for greater equity based on FTE' is the EMPLOYER conceding the existing roster did not distribute penalties equitably. The claim is not an underpayment - it is inequitable distribution of penalty-attracting shifts.",
+   "the_clean_sentence": "I was rostered off the public holidays my colleagues were rostered onto, so my fortnightly pay fell against theirs."
+  },
+  {
+   "rank": 4,
+   "risk": "The 2026 material leaking into the causation report",
+   "detail": "If the report attributes the current presentation to the 2026 exclusion and non-payment, the Regulator says the 2026 events are MANAGEMENT ACTION - and s 32(5)(a) is the exclusion the whole appeal turns on.",
+   "mitigation": "Narrowing to Matters 1, 2 and 3.1-3.3 removes 2026 from the report ENTIRELY. The causation section ends 24 October 2024."
+  },
+  {
+   "rank": 5,
+   "risk": "RFMI Q7 and the capacity sequence",
+   "detail": "Q7 takes 'working memory is affected under stress' - Dr Krishnaiah's own phrase from Feb 2025 - and asks what it means 'under NORMAL workplace demands'. Q6 asks about full inherent requirements. Q9 asks whether he can return if restrictions cannot be accommodated. Q7 is the predicate, Q6 the framing, Q9 the conclusion.",
+   "defence": "CAPACITY (intact - 29% FTE worked and tolerated twelve months without deterioration) vs CONDITIONS (predictable rostering, adequate recovery, limits on concurrent emergency load). Q7 blurs them; the answer keeps them sharp.",
+   "mitigation": "Q7 sits at 3.5(c). 3.4-3.8 are CUT. Deferred.",
+   "before_it_is_ever_answered": "Obtain FORMAL COGNITIVE TESTING. The Feb 2025 report records cognitive difficulty 'particularly with concentration and working memory' but expressly that 'no formal cognitive assessment was conducted'."
+  },
+  {
+   "rank": "1-EQUAL — ELEVATED",
+   "risk": "THE LIMITED SCOPE AUTHORISATION HAS BEEN SERVED WITH THE WRONG PRACTITIONER NAME, AND IS THE LIKELY CAUSE OF THE GATE",
+   "detail": "Names the wrong practitioner ('Dr Rai Ravi Ravikumar' for Dr Ravikumar Bangalore Krishnaiah), and at clauses 1 and 3 authorises a report answering the EMPLOYER's questions - which re-opens RFMI Q7/Q6/Q9, the very questions the narrowing of the psychiatric instruction was designed to defer.",
+   "tension": "Sits against the s 89 letter of 3 August 2026, Part 5(c), which expressly refused consent to the clinical material being used in connection with any other proceeding.",
+   "action": [
+    "TODAY: reissue a corrected authorisation naming Dr Ravikumar Bangalore Krishnaiah, Consultant Psychiatrist, Mind and Memory Service, verified against the 13 February 2025 report and provider number 473280RT.",
+    "Send it to Jacqui Roberts with one line: the earlier authority contained a typographical error in the practitioner's name; this corrected authority replaces it; please action it today so the report is not delayed.",
+    "At the same time, narrow clause 3 by question number — exclude RFMI Q3 and Q9 — and shorten the twelve-month duration.",
+    "Send a copy to Dr Krishnaiah's practice so both ends hold the same instrument.",
+    "STILL DO the 2 September registry backstop regardless. Do not let the corrected authority substitute for the extension application."
+   ],
+   "confirmed": [
+    "D9 (24 Aug 11:13) attached 'my agreement to the sharing of medical information and correspondence with my treating psychiatrist' — i.e. D6 WAS SENT TO MSH ON 24 AUGUST 2026.",
+    "D6 names 'Dr Rai Ravi Ravikumar'.",
+    "D9 (28 Aug) confirms the treating psychiatrist is 'Dr Ravikumar Bangalore Krishnaiah'.",
+    "D9 (28 Aug) records that as at 27 August, 'despite the authority I provided, Queensland Health has not yet responded to his request for information'."
+   ],
+   "inference": "An authority naming a practitioner who does not exist cannot safely be acted on. The wrong name is a concrete, fixable and highly probable cause of the non-response now blocking the 9 September report. It is not the only possible cause, but it is the one that can be eliminated today."
+  },
+  {
+   "rank": "2-EQUAL — NEW 31 AUG",
+   "risk": "THE 0.5 FTE BASELINE MUST NOT SET",
+   "detail": "Taylor's reply treats him as 'on reduced roster 0.5 FTE'. If uncorrected it becomes the recorded baseline for the leave payment, the LSL rate, and any later calculation. The documents against it are MSH's own: movement form 3 was temporary and expired 28 June 2026 with no extension; the 12 Aug payslip records 76.00 hours; he was held out from 3 July — five days AFTER the reduction expired.",
+   "the_fork": "Either the 0.5 FTE arrangement is CURRENT — in which case there is a roster he is on and he should be returned to work it and paid — or it EXPIRED on 28 June — in which case leave pays at 76 hours. No coherent position has the arrangement alive for calculating leave and dead for rostering him. HELD IN RESERVE: not argued in the reply, which asks 'what document is it based on' and lets her answer force the choice. If they defend the 0.5 FTE, hand the fork to Petering as a one-sentence industrial grievance: 'MSH is paying my member's leave on a roster it refuses to roster him to.'",
+   "note": "40/76 = 0.53 and the ECC six-shift pattern ≈ 0.6 FTE — her '0.5' matches no document.",
+   "action": "Reply sent same day (drafted). Watch for: any instrument produced for a post-28-June arrangement; the leave-type breakdown under PRN 249 863 66; Payroll's answer on the recorded continuous service date."
+  },
+  {
+   "rank": "WATCH — NEW 2 SEP",
+   "risk": "NO MyHR ACCESS WHILE HELD OUT",
+   "detail": "Cory cannot log into MyHR: cannot submit leave, check balances, or see what has been applied to his record. He is wholly dependent on Ms Taylor and Payroll for both action and information.",
+   "why_it_matters": [
+    "It explains the dependency: every request in the pay thread exists because he has no self-service route.",
+    "It is why the LSL balance had to be asked of Payroll rather than looked up.",
+    "Cf mention transcript [36:42] — 'my health service email was restricted'. If system access was REMOVED rather than lapsed on absence, that is an employment-track issue in its own right."
+   ],
+   "discipline": "Ask for restoration. Do NOT allege removal and do NOT connect it to the exclusion. Access often lapses on extended absence.",
+   "action": "Raised once, factually, in the 2 September ad hoc payment email. Watch the answer.",
+   "status": "CLOSED 2 Sep — access regained (msg 38); screenshots are his own"
+  },
+  {
+   "rank": "1-EQUAL — NEW 3 SEP",
+   "risk": "LSL ELIGIBILITY DEFERRED TO 04/09/2026 — LIKELY BY THE EMPLOYER'S OWN NP-SICK-LEAVE CODING",
+   "arithmetic": "deed commencement 25 Mar 2019 + 7 yrs = 25 Mar 2026; Payroll's date 4 Sep 2026 = 163 days later. Known unpaid periods: deed cl 4 LWOP 72 days (13 Dec 2024–23 Feb 2025) + FY25-26 unpaid ~34 days + 2026 'Sick Leave – No Pay' 61 days (3 Jul–2 Sep) ≈ 167. CONSISTENT with unpaid periods being excluded from continuous service.",
+   "why_it_matters": [
+    "If the 2026 NP Sick Leave days are excluded, the coding he never applied for (contradicted in writing 3 Jul 3:18 pm) is what deferred his LSL past the date he applied — and it moves out a day for every further day coded.",
+    "Put to Payroll as a QUESTION (show the calculation), not asserted. The leave audit (log created 3 Sep) is the vehicle to correct the coding from 3 July BEFORE eligibility is recalculated.",
+    "Independently: on Payroll's own date he is eligible from 4 Sep — LSL applied FORWARD from 4 Sep at 76 hrs. Forward-dating protects the 13 Jul–3 Sep wages claim, which now has no leave that could cover it (rec leave 51.31 hrs)."
+   ],
+   "action": "Response pack + email drafted 3 Sep: drafts/out/RESPONSE_PACK_leave_and_pay_3SEP2026.pdf; drafts/EMAIL_Taylor_Payroll_RESPONSE_3SEP2026.txt"
+  },
+  {
+   "rank": "WATCH — 3 SEP",
+   "risk": "WHAT THE LINE MANAGER NOW HOLDS",
+   "detail": "The 78-page RESPONSE_PACK (3 Sep, To Taylor + Payroll) reproduces the full correspondence including the Roberts HR thread (18–28 Aug), the 12 Aug LBH email and the 13 Aug Harrison reply — which Ms Taylor was not party to. Those contain: the psychiatrist's name and the 27 Aug appointment (msg 31), the medical-information authority (msg 28), the Stage 2 referral and its withdrawal, the 21 Aug 'state I was in' apology (msg 28), and hardship detail.",
+   "assessment": "Employment-track only — no appeal, no report, no deed terms. Not privileged. But the line manager whose conduct is the subject of the grievance and the appeal now holds HR/medical-adjacent correspondence she did not previously have. Cannot be unsent. It was his own send, so it is NOT an information-handling complaint.",
+   "rule_forward": [
+    "Address leave-audit, medical, HR and agreement matters to ROBERTS and PAYROLL only. Keep Ms Taylor to roster, AVAC and operational pay items.",
+    "The AGREEMENT pack and email (30pp) correctly exclude Ms Taylor. Keep it that way; if HR forwards it, that is HR's act.",
+    "Ms Taylor is the Regulator's likely witness: assume anything sent to her can reach the Regulator via MSH liaison. Everything sent so far is factual and measured — keep it so.",
+    "Petering was cc'd on the agreement figures (54.16 hrs etc.). Low risk, defensible as advice/enforcement, but do NOT send her the deed itself and do not widen the circle further."
+   ]
+  }
+ ],
+ "the_report": {
+  "narrowing": "Matters 1, 2 and 3.1-3.3 ONLY. 3.4-3.8 (prognosis, capacity, adjustments, inherent requirements, workplace discussions, foreseeable risk) are the Health Service's questions and are cut.",
+  "further_cuts": [
+   "1.4 premorbid personality - invites a characterisation of personality in a document going to the Regulator, and nothing turns on it",
+   "most of 2.4 (the three ECC stressors) - 2026 capacity material about EXACERBATION not onset. KEEP sub-question (ii) and fold it into 2.3."
+  ],
+  "length": {
+   "ten_questions": "~3 pages",
+   "twelve_questions": "4-5 pages",
+   "correction": "An earlier note in this session said two pages. That was too low - 1.3 alone has six sub-parts and 2.1-2.3 each ask for a mechanism."
+  },
+  "three_sections_that_carry_it": [
+   "1.3 - the 26 October 2022 entry met expressly",
+   "2.2 + 2.3 - where the ADMITTED FACTS become a MECHANISM. A psychiatrist cannot normally attribute causation to contested facts; here they are admitted, so the opinion rests on agreed ground. This is what the Form 24 was built for.",
+   "3.1 - every non-employment factor DATED, each stated before or after 18 June 2024, each independent or consequential. The section the report is judged on."
+  ],
+  "title_correction": "Part D(g) styles the report as answering MSH's request of 31 July. With 3.4-3.8 cut that title is FALSE and damaging. New styling: 'Psychiatric report concerning Mr Cory Lea Shepherd', dated, addressed to no one, standalone.",
+  "never_send_him": [
+   "the dated life-events timeline - question 3.1(a) asks him to place factors in time FROM HIS OWN RECORDS, and supplying dates destroys the answer's value",
+   "the 2026 housing loss - it belonged to 3.4, and 3.4 is cut",
+   "any new questions, anything on the merits, or any hint of the answer wanted"
+  ],
+  "the_life_events_timeline_INTERNAL_ONLY": [
+   {
+    "date": "26 Oct 2022",
+    "event": "the Anxiety/ADHD entry the Regulator asserts",
+    "status": "pre-existing"
+   },
+   {
+    "date": "17-19 Mar 2024",
+    "event": "the 7-hour break",
+    "status": "ADMITTED - aetiology"
+   },
+   {
+    "date": "18 Jun 2024",
+    "event": "ONSET",
+    "status": "causation assessed here"
+   },
+   {
+    "date": "9 Oct 2024",
+    "event": "employment ceased - abandonment letter, backdated to the day after the WorkCover decision, later reversed",
+    "status": "EMPLOYER CONDUCT, not a life event"
+   },
+   {
+    "date": "24 Oct 2024",
+    "event": "first consult with Dr Krishnaiah; PARTNER ATTENDED and was supportive and protective; Review Decision 69983 same day",
+    "status": "causation section stops here"
+   },
+   {
+    "date": "~Dec 2024",
+    "event": "personal and relationship matters commence",
+    "status": "+6 months post-onset"
+   },
+   {
+    "date": "Feb 2025",
+    "event": "separation",
+    "status": "+8 months"
+   },
+   {
+    "date": "13 Feb 2025",
+    "event": "Mind & Memory report - the Q6(b) 'multiple life stressors' sentence",
+    "status": ""
+   },
+   {
+    "date": "Mar 2025",
+    "event": "bereavement - grandfather",
+    "status": "+9 months, INDEPENDENT - concede it, that is what makes the rest credible"
+   },
+   {
+    "date": "~Apr 2025",
+    "event": "a displacement event",
+    "status": "EXCLUDED - entangled with never-voiced material. Do not date, describe or refer to it."
+   },
+   {
+    "date": "7 Apr 2025",
+    "event": "return to work ~29% FTE, six shifts a fortnight",
+    "status": "the adjustment working"
+   },
+   {
+    "date": "14 Jun 2026",
+    "event": "last shift worked",
+    "status": "course"
+   },
+   {
+    "date": "26 Jun / 3 Jul 2026",
+    "event": "excluded from the workplace",
+    "status": "course only"
+   },
+   {
+    "date": "13 Jul 2026",
+    "event": "wages stopped",
+    "status": "course only"
+   },
+   {
+    "date": "~Aug 2026",
+    "event": "handed keys over, moved - loss of accommodation (dated from D5)",
+    "status": "PROGNOSIS ONLY, never causation"
+   }
+  ],
+  "the_best_point": "The relationship breakdown is NOT independent of the employment matters. The Feb 2025 report records pay 'withheld or delayed for up to five months at a time, leading to significant financial stress and strain on his relationship'. And the partner ATTENDED the 24 Oct 2024 consultation and was protective - four months post-onset. Sequence: employment -> financial instability -> relationship strain -> separation. That converts their best competing cause into a consequence, in the treating psychiatrist's own prior words."
+ },
+ "the_hearing": {
+  "length": "Short - because the RESPONDENT'S case is short. Ask for 2 days, expect to finish inside 1.",
+  "why_short": [
+   "308 facts admitted removes the whole documentary layer - normally a day to a day and a half",
+   "outlines capped at one A4 page by direction 2",
+   "their s 32(5) case is one unparticularised sentence",
+   "only ONE witness on their side is structurally necessary"
+  ],
+  "the_cost_of_short": "The Form 24 converted a long DOCUMENTARY hearing into a short CREDIBILITY hearing. Nowhere to hide. The 37 not-admits are where cross starts. Weight preparation to cross-examination survival, not more documents.",
+  "seek": "written closing submissions - removes half a day and plays to his strongest medium",
+  "will_they_fold": {
+   "mechanism": "NOT volume. Three doors closing: documentary (Form 24 + Form 25), characterisation (para 27 with no witness), and MEDICAL - they have NO expert and direction 4 gives them 21 days from 9 September. A psychiatric medico-legal in Qld takes 6-10 weeks.",
+   "tells_all_on_30_september": [
+    "is Ms Taylor on their witness list? not on it = no s 32(5)(a) case at all",
+    "is Ms Reese on it?",
+    "IS THERE AN EXPERT REPORT? none = they cannot contest causation"
+   ],
+   "the_fold_door": "Direction 5 - the Appellant elects a second s 552A conference or hearing. Regulators fold at CONFERENCES, not hearings. Guide 5.1 calls it a concession opportunity.",
+   "sequence": [
+    "9 Sept - serve list, outlines, report",
+    "9 Sept - Calderbank #3, 21 days, expiring ~30 Sept, timed to expire on the day their list falls due",
+    "30 Sept - read their list",
+    "early Oct - elect"
+   ],
+   "probability": "Resolution before hearing MORE LIKELY THAN NOT, conditional on the report landing and the Form 9A tags being fixed. But build as though it is being heard, because that is the only thing that produces the fold."
+  }
+ },
+ "clocks": [
+  {
+   "date": "2026-09-03",
+   "what": "SENT: response to Taylor/Payroll (eligibility calc, audit, LSL from 4 Sep, 9 Sep pay confirmation, ad hoc precedent, 4438861). DRAFTED: Petering update + asks; Roberts/Payroll email on the February 2025 agreement credits (54.16 A/L + 54.16 loading + personal leave reinstated; service from 25 Mar 2019, reinstatement effective 20 Sep 2024) — deed referred to only as 'the agreement', never attached.",
+   "status": "IN PROGRESS"
+  },
+  {
+   "date": "2026-09-03",
+   "what": "RESPONSE to the 2–3 Sep emails: eligibility calculation requested; audit to correct coding from 3 Jul; LSL applied from 4 Sep forward at 76 hrs; written confirmation of the 9 Sep pay (process 24926366); ad hoc via enquiry 4471091 with the 11 Mar 2025 precedent; what resolved 4438861.",
+   "status": "SEND TODAY"
+  },
+  {
+   "date": "2026-09-04",
+   "what": "Payroll's own LSL eligibility date. LSL from this date forward must be actioned for the 23 Sep pay (fortnight 31 Aug–13 Sep).",
+   "status": "OPEN"
+  },
+  {
+   "date": "2026-08-31",
+   "what": "COMPLETE: application 10:59 -> Taylor actions + '0.5 FTE' 15:34 (cc union) -> four-point correction SENT 16:06. Full thread filed in original form. Awaiting: leave-type breakdown under PRN 249 863 66; any post-28-June instrument; Payroll on the service date and LSL block.",
+   "status": "DONE — AWAITING ANSWERS"
+  },
+  {
+   "date": "2026-09-09",
+   "what": "CHECK: payment for 17-30 Aug appears in this pay, at what hours and what leave types. If 0.5 FTE or sick leave persists, escalate to Petering with the fork.",
+   "status": "OPEN"
+  },
+  {
+   "date": "2026-08-28",
+   "what": "Form 24 / Form 25 / Annexure A / Part B SERVED. r 49 14-day clock running.",
+   "status": "DONE"
+  },
+  {
+   "date": "2026-08-28",
+   "what": "Stage 2 withdrawal email SENT to Roberts, 14:18",
+   "status": "DONE"
+  },
+  {
+   "date": "2026-09-02",
+   "what": "HARD BACKSTOP — application to vary DIRECTION 2 ONLY (expert report), drafted at drafts/EMAIL_Registry_variation_direction2_2SEP2026.txt. Seeks 23 Sept for the report; directions 1 and the lay outlines still served 9 Sept; Respondent's 30 Sept date expressly NOT moved. SEND unless the practice has confirmed both that Dr K will proceed and a delivery date on or before 9 Sept.",
+   "status": "ACTION TODAY"
+  },
+  {
+   "date": "2026-09-09 16:00",
+   "what": "FILE+SERVE witness list (direction 1); SERVE outlines and any expert report (direction 2)",
+   "status": "OPEN"
+  },
+  {
+   "date": "2026-09-09",
+   "what": "Calderbank #3 — only if the report is in hand; 21 days, expiring ~30 Sept",
+   "status": "CONDITIONAL"
+  },
+  {
+   "date": "2026-09-11",
+   "what": "Form 24 / Form 25 responses fall due. r 49 — silence IS the admission. DO NOT CHASE MATHESON.",
+   "status": "OPEN"
+  },
+  {
+   "date": "2026-09-30 16:00",
+   "what": "Respondent's witness list, outlines and any expert reports. READ IT — it answers everything.",
+   "status": "OPEN"
+  },
+  {
+   "date": "2026-10 early",
+   "what": "Direction 5 election — second s 552A conference vs hearing",
+   "status": "OPEN"
+  },
+  {
+   "date": "2026-09-07",
+   "what": "If nothing from the Registry on the variation, telephone to confirm receipt and that it is before the Commissioner.",
+   "status": "CONDITIONAL"
+  },
+  {
+   "date": "2026-09-03",
+   "what": "If no reply on the payment: escalate to Roberts (her 3 Sept deadline from the 31 Aug email falls due) and to Payroll on enquiry 4438861; then to Petering with the fork.",
+   "status": "CONDITIONAL"
+  }
+ ],
+ "critical_sequencing_note": "The Form 24 was served 28 August 2026. Responses fall due 11 SEPTEMBER - TWO DAYS AFTER the expert report is due on 9 September. The 308 new facts are NOT admitted in time for the report. The psychiatric report therefore rests on the FEBRUARY 2026 admissions (the Regulator's response of 18 Feb 2026), which Dr Krishnaiah already holds as Attachment 1.",
+ "disciplines": [
+  "No conspiracy or collusion framing, ever.",
+  "The word 'fraud' never appears in the WC track.",
+  "State the CHRONOLOGY, never the MOTIVE. Motive is not an element of s 32(5)(a), and Briginshaw raises the bar for every characterisation.",
+  "NEVER open s 32(5)(b) - nothing about his expectation or PERCEPTION of management action. Avoid: punishment, hostile, capricious, reprisal.",
+  "The PID is an admitted fact (SOFC para 15) but is NEVER run as motive.",
+  "NEVER mention the December 2024 police protection matter, that it was withdrawn, or the separation document.",
+  "THE LEAKAGE RULE - employment vocabulary never enters the 9 September package; appeal vocabulary never enters anything to HR, the union or the practice.",
+  "At hearing: prove the NOUNS, retire the ADJECTIVES.",
+  "Every document from 9 September must be READABLE ON SIGHT by a stranger with no author present. Direction 2 is serve-only. The mechanism that rescued the index - explaining it aloud - is structurally unavailable from here.",
+  "Take TWO copies of everything to the hearing.",
+  "Never answer an authorship challenge with a denial. Answer it by being examined on the document.",
+  "Release the lived operational detail ON QUESTION, never volunteer it. At [29:18] the strongest content of the hour was volunteered and cut off at [29:40]."
+ ],
+ "unresolved": [
+  "The CERTIFIED TRANSCRIPT - ATR0282381 is audio-only and stalled. Nothing machine-produced is quotable externally.",
+  "PRIORITY CHECK in the certified transcript: the AI answer at [09:06]. If it records a fuller qualified answer, that is a materially better fact than the file records.",
+  "Whether a separate 26 October 2022 consultation note exists, distinct from the PMH list entry in the 16 May 2024 referral.",
+  "The exact date of the 2026 move - now datable from the D5 SMS thread. FIX IT.",
+  "The month of the grandfather's death, for 3.1.",
+  "The 'relationship ending 6 months after my dismissal' date discrepancy in D5 against ~Dec 2024 / Feb 2025 elsewhere.",
+  "Whether Dr Krishnaiah will proceed on Cory's instruction independently of MSH - the gating question in the covering email.",
+  "The fee for the narrowed report; whether a deposit is required; turnaround.",
+  "The MET call spreadsheet for 17-18 March 2024 - named and conceded in the MSH objection, still not produced.",
+  "The 14 November 2023 Taylor email (SOFC para 13(f)) and confirmation of the 10 August 2023 meeting.",
+  "Form 24 tags paras 1, 3, 5 and 14 - still unverified against Tab 27 pages 125-126.",
+  "Whether Ms Ruttan spoke at all beyond the two closing courtesies - she does not register acoustically.",
+  "The gap between the ECC appointment booked for 5 June 2026 (D7) and the ECC as executed on 3 July 2026 - account for it.",
+  "Whether the hand annotations on the 2020 roster (D8) are attributable to anyone - do not assert.",
+  "Whether D8 needs third-party payroll-number redaction before any service or tender.",
+  "Whether the wrong practitioner name on the served authorisation is in fact why Queensland Health has not responded to Dr Krishnaiah — ask Roberts directly when reissuing.",
+  "What information MSH proposes to send Dr Krishnaiah, and what questions it proposes to ask — requested twice (24 and 28 August), unanswered.",
+  "The AVAC status following Roberts' discussion with Ms Taylor on 24 August.",
+  "Terry McQuillan's role.",
+  "Were the deed cl 2(a)/(b) leave credits (54.16 A/L, 54.16 loading, personal leave as at separation) ever applied in Feb–Mar 2025? Their value was deducted from the settlement (cl 2(d)). Not verifiable from the FY25-26 payslip set; asked of Payroll 3 Sep.",
+  "HR Policy G4 Absence management (named in C13 s4.2) — not held; governs how the unpaid absence since 3 Jul should have been managed."
+ ],
+ "people": {
+  "Jacqui Roberts": "Principal Consultant, Human Resources, Logan and Beaudesert Health Services, Metro South Health. p (07) 3542 2384 / 0487 313 927. The HR contact on the employment track since ~18 Aug 2026.",
+  "Terry McQuillan": "Metro South Health — consistent cc on the Roberts HR thread. Role not yet established.",
+  "Emily Petering": "Industrial officer, Together Queensland — attending the HR meetings.",
+  "Chloe Taylor": "Switchboard Manager, Switchboard Services, Logan Hospital. STILL the line manager as at May 2026 (D7). Roberts spoke with her about applying leave and the AVAC on 24 August 2026.",
+  "Dr Ravikumar Bangalore Krishnaiah": "Consultant Psychiatrist, Mind and Memory Service. Provider 473280RT. Name CONFIRMED from Cory's email of 28 August 2026. NOT 'Dr Rai Ravi Ravikumar'."
+ },
+ "pay_requests_tally": {
+  "file": "skill/references/PAY-REQUESTS-TALLY-3JUL-31AUG2026.md",
+  "count": "at least 11 written to MSH in 59 days (3 Jul - 31 Aug), plus the 21 Aug verbal and one to the fund; #2 is conservatively one though his own 13 July email says 'each of my previous emails' (plural)",
+  "headline": "He asked on day one, tried every channel in order, and the first payment action came at request #11 - four and a half hours after a same-day deadline with the union copied."
+ },
+ "special_leave_3SEP2026": {
+  "instrument": "Directive 12/24 Special Leave via EB12 cl 9.12.1; cl 6.1 discretionary paid leave 'for any purpose'; cl 6.5 mandatory considerations incl. (d) impact on the employee if refused; Sch Two cat 11 'Other Exceptional Circumstances'",
+  "history": [
+   "28 Jul 17:39 (msg 13 pt 4): applied — wording 'must be applied' (overstated; it is discretionary)",
+   "29 Jul 16:10 Harrison: silent on it",
+   "30 Jul 14:33 Harrison holding: silent",
+   "5 Aug 07:30 (msg 19): 'I have asked that the period be coded as special leave on full pay instead'",
+   "no decision communicated to 3 Sep — 37 days"
+  ],
+  "now": "Two-part email item 2: put to the delegate; decision in writing with reasons addressing cl 6.5 (reason = directed absence; duration 62 days; impact = no income since 15 Jul); if approved from 3 Jul, rec leave + LSL re-credited. Table 2 row added; Directive 12/24 is Section D of the attachment pack (42pp).",
+  "discipline": "chronology, not motive — Cory's 'they are just punishing me' stays out of the page"
+ }
+}
