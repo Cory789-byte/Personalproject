@@ -4767,7 +4767,7 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   hallway hearsay, plus the "burn book" contempt line. THE PATTERN ACROSS THE RECORD: three
   self-narrations by the same witness, each following her own exposure — (1) 6 Jun 2023 (after
   the removal was questioned); (2) 17 May 2024 account "as requested" (after the retraction);
-  (3) the "out to get me" HR email (after PID knowledge reached management). Cross-exam
+  (3) ⛔ CORRECTED 16 Sep 2026: (2) and (3) are THE SAME DOCUMENT — Taylor to A McNamee (HR), 17 May 2024 1:20 PM, FRMS p36. "as requested" is its opening line and "out to get me" is in its closing paragraph. The pattern is TWO self-narrations, not three. Verified at source; see references/TAYLOR-17MAY-EMAIL-verified-and-what-it-does.md. Cross-exam
   architecture (dates, never motive): "each time your conduct was questioned, you wrote an
   account to your Director" — the timestamps do the work. EVIDENTIARY WEIGHT: a self-serving
   contemporaneous account is NOT corroboration — it is the same witness, twice; HIS version of
