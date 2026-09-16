@@ -159,3 +159,112 @@ gain, a framing risk. Both real.**
 2. ⛔ **The sequence is run as chronology, never as motive.** It does not need the 13 May adjacency,
    it does not need reprisal, and it must not acquire either. **Every link above is a date and a
    document.**
+
+---
+
+# ADDENDUM — 16 September 2026: the dating gap largely closes, and three points that sharpen the chain
+
+## 6. ⭐⭐ The role-description dating gap is smaller than §5 stated — and the repair is in their own email
+
+**First, what could not be done.** All four copies of the role description in the repository are
+**byte-identical** (`md5 d356faae1db7`) — `instruments/ATT14`, `documents/AO3_…_MSH.pdf`, the
+31 July 2026 RFMI Attachment 2, and the pack_v2 copy. ⇒ **There is one document, filed four times.
+No independent 2023 version exists here**, and the 27 September 2023 full-time appointment email from
+Ms Taylor neither attaches nor mentions a role description. ⛔ **So the in-force version for 2023
+cannot be established from the repository.**
+
+**But the duty in 2023 does not depend on the role description at all.** It is proved by the very
+document that removed the means — **served fact 48**, quoting Review Decision 69983:
+
+> *"She informed that while she fixed it, she would be removing everyone's access to it, and asked
+> for **anyone who needed to amend, add or remove entries**, to directly contact her or Ms Taylor."*
+
+⇒ ⭐⭐⭐ **That sentence only makes sense if operators were the people who amended, added and removed
+entries.** Ms Stibbard's own email concedes the duty in the act of withdrawing the means.
+
+⇒ **So the chain stands on admitted facts even if the role description is excluded entirely.** ⭐ The
+role description then does a **second** job rather than the load-bearing one: it names the duty in
+the employer's formal instrument and adds the emergency-response and OH&S limbs. ⚠ **Still worth
+fixing the in-force version — but the collision no longer falls if it cannot be fixed.**
+
+## 7. ⭐⭐⭐ "While she fixed it" — a temporary measure that was still running ten months later
+
+The restriction was expressed with its own end point, in their words: **"while she fixed it."**
+
+| | |
+|---|---|
+| **18 Jul 2023** | access removed **"while she fixed it"** — her role described as *"a temporary position that predominantly focuses on fixing up the database"* (fact 39) |
+| **2–8 May 2024** | ⚠ **operators still had no means of correcting an entry** — Conaghan ¶ 8, Harrison-Jones ¶ 5, and the Appellant's topic 5 |
+| **3 & 8 May 2024** | the MASPER Registrar reports nine calls to the wrong team — **admitted** |
+
+⇒ ⭐⭐⭐ **Ten months later the temporary measure was still in force and the failures it produced were
+being reported to the manager by clinicians.** ⇒ **Either the fix was never completed, or the
+restriction outlived its stated purpose.** ⛔ **Both are theirs to explain, and the words "while she
+fixed it" are their own.**
+
+⇒ This is the most answerable-looking link in their chain and it is the one with no good answer:
+a data-integrity project is easy to justify **for its duration**. Its duration was stated. **It ran
+out.**
+
+## 8. ⭐⭐ The named system is the same system
+
+The role description requires the occupant to *"Collate information and **maintain Omnivista database
+and SharePoint** to ensure information held within Switchboard Services is accurate and appropriate."*
+Ms Stibbard's email of 18 July 2023 describes her project as *"fixing up **the database that
+switchboard utilises**"* (fact 39).
+
+⇒ **The duty instrument names the system; the removal email removes access to the same system.**
+There is no gap between them to argue about.
+
+## 9. ⭐⭐⭐ The sharpest form of the mechanism: they put him in breach of his own duty
+
+The role description requires *"**Participate in the Emergency Response process**… distributing them
+to the appropriate response groups… **strictly adhering to protocols and timeframes**."*
+
+On the admitted record the MASPER Registrar reported **nine calls reaching the wrong team**, including
+**the MET call team ringing because "switchboard could not tell them where VHUB was."**
+
+⇒ ⭐⭐⭐ **That is a failure of the duty the role description imposes — caused by data he was not
+permitted to correct.** So the position is not merely that he was under pressure. It is that
+**the employer's own act placed him in continuing non-performance of his own role requirement, and
+then treated his recording and escalation of that fact as a conduct problem.**
+
+⇒ **That is "responsibility imposed, the means withheld" in its strongest available form**, and every
+element of it is an employer document or an admitted fact.
+
+## 10. ⚠⚠ The role description is two-edged — state what they take from it
+
+⛔ **It is not a one-way document, and running it as though it were would be a mistake.** The same
+four pages give them:
+
+| Their use | The words |
+|---|---|
+| the retraction / Code of Conduct framing | *"**Demonstrate respect, courtesy and fairness** when interacting with patients, clients and colleagues"* |
+| *"work within boundaries of role"* — i.e. complaints were not his function | *"Be honest, ethical and professional. **Work within boundaries of role.**"* |
+| the team-cohesion point against the Communication Book entries | *"**Contribute to a cohesive team environment** by sharing information, supporting and assisting colleagues in a proactive manner"* |
+| ⚠ and the pressure limb reads as a stated condition of the job, not a breach | *"**The ability to multitask and operate under pressure**, particularly where high volume call traffic is concerned"* |
+
+⇒ ⭐ **The answer to all four is on the same page**: *"exercise judgement where necessary to resolve
+problems within the scope of your role"* and *"follow… occupational health and safety policies and
+procedures… to ensure high quality, **safe services**"*. ⇒ **Raising an accuracy or safety problem is
+inside the boundaries of the role, because the document says so twice.**
+
+⚠ **But the "operate under pressure" line is a genuine gift to them** on the volume material in
+topic 1, and it should be expected rather than discovered.
+
+## 11. What this forces into their 30 September outlines
+
+Direction 4 requires an outline for each of their lay witnesses. The chain now puts these questions
+in front of them, and **only three people can answer any of them**:
+
+| Question | Who |
+|---|---|
+| why the duty stayed with the operators when the access was withdrawn | **Stibbard**, or **Taylor** |
+| when the database fix was completed, and if not, why the restriction continued | ⭐⭐ **Stibbard** — and she is **not** on the Appellant's list |
+| what was done on receiving the MASPER and Respiratory Service emails | **Taylor** — they are her emails |
+| what was done on receiving the 17 May HR report | **Reese**, or HR |
+
+⇒ ⭐⭐ **Ms Stibbard is now the second name to watch on their 30 September list**, alongside Taylor
+and Reese. **She is the only person who can speak to the duration of her own project** — and the
+covering letter of 9 September named only Taylor and Reese, so **nothing has yet been said on the
+record about her.**
