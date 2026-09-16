@@ -2,14 +2,17 @@
 
 ## ⚑ AMENDMENT LOG
 
-Amendments are participant corrections to the **machine-inferred speaker labels**. They do not
-alter transcribed words, only who is recorded as having said them. Each is marked inline with ✔
+Entries are participant evidence about the **machine-inferred speaker labels** — either a
+**correction** (the label changes) or a **confirmation** (the label stands, and its class is
+upgraded). Neither alters transcribed words, only the reliability of who is recorded as having
+said them. Each is marked inline with ✔
 at the point of amendment. Participant confirmation is a **higher evidentiary class** than the
 Viterbi inference described under Method, because it comes from a person who was in the room.
 
 | ID | Date | Location | Change | Source | Confidence |
 |---|---|---|---|---|---|
 | A1 | 2026-09-16 | ~30:16, inside the turn timestamped 29:45.62 | "Yeah, I actually understand what you're getting at." re-attributed **DWYER IC → MR SHEPHERD** | Mr Shepherd, participant, present at the proceeding | **100%** |
+| **A2** | 2026-09-16 | **46:10.84** | *"I don't know if I can prove it as much."* — **CONFIRMATION, no change.** Label was already MR SHEPHERD; class upgraded Viterbi-inferred → participant-confirmed | Mr Shepherd, participant, present at the proceeding | **100%** |
 
 **A1 note — purpose, as stated by the speaker.** The words were spoken as an acknowledgement of
 the Commissioner's point and as a **preface to explaining his disclosure request**. They conveyed
@@ -25,6 +28,20 @@ both of which are within his own knowledge. It does **not** record how the words
 understood by the Commissioner, which is outside the speaker's knowledge and outside the transcript.
 Any view about that is inference drawn from the surrounding turns, is not participant evidence, and
 forms no part of this amendment.
+
+**A2 note — a confirmation, not a correction.** The speaker label at 46:10.84 was **already**
+MR SHEPHERD in the pipeline output. The participant confirms it. Nothing about the transcript
+changes; what changes is the **evidentiary class** of that line, from inference to participant
+evidence.
+
+⭐ **This is now the single most reliable line in the transcript.** Its words carry **p = 1.00 on
+every token** — ten words, none below certainty — measured in the original run and reproduced at
+beam 10 in the re-decode of 16 September 2026. Its attribution is participant-confirmed. **No other
+line in the hearing holds both.**
+
+⚠ **Nothing follows from A2 about the words around it.** The confirmation covers this line only. In
+particular it says nothing about the disputed word at 46:48.54, which the re-decode resolved
+separately and against the operator's hypothesis (see reader's note N3).
 
 **Effect on the counts below.** One segment moves from Commissioner Dwyer to Mr Shepherd. The
 SPEAKING SHARE table is the unamended pipeline output and has not been recomputed; read it
@@ -1204,7 +1221,7 @@ No, no, no, no. It's a simple question. Your case, as you said here, is the empl
 suppressed the appointment for 13 months. So actively means they deliberately. Am I  `wide`
 right about that or have I read that wrong?  `fast 5.1w/s louder`
 
-**46:10.84  MR SHEPHERD**  
+**46:10.84  MR SHEPHERD**  ✔ *(confirmed A2 — 100%, participant-confirmed)*  
 I don't know if I can prove it as much.
 
 **46:13.64  DWYER IC**  `quieter`  

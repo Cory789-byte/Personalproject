@@ -52,6 +52,40 @@ Correspondence can straightforwardly be *spread*. The original objection mis-ide
 ⇒ **The transcript was right. "spread" stands.** Low probability here reflects a quietly spoken word
 on a distant microphone, not an error.
 
+## ✅ N1 AND N2 CONFIRMED BY RE-DECODE — 16 September 2026
+
+**N1 [16:29].** Both passes agree at beam 10: *"**I guess I did request**, but I didn't be specific
+about that, so..."* — guess **1.00**, did **1.00**, request **1.00**. ⇒ The small.en rendering
+*"I didn't request"* is wrong on three independent measurements. **Settled.**
+
+**N2 [23:37]–[24:12].** Both passes agree on every substantive word. The filters specification is
+verbatim-confirmed: *"So my **filters** [0.97] **were** [0.99] **effective** [0.88]
+**immediately**"* [1.00], and *"I **basically just want the count**"* — all 1.00 but *the* [0.98].
+⇒ **§99 of the mention assessment rests on measured ground.**
+
+### ⚠ N2 also found a spurious word in the original transcript
+
+The original run rendered *"…and say effective immediately. **Absolutely.** Does that make sense?"*
+with **"Absolutely." at p = 0.03** — the lowest-probability token in the whole zone.
+
+**Neither re-decode pass produces it.** Both read straight through:
+*"…and say effective immediately. Does that make sense?"*
+
+⇒ **"Absolutely." is an artefact of the original decode and was almost certainly never spoken.**
+Do not quote it. A p=0.03 token that disappears under two independent higher-beam passes is an
+insertion, not a quiet word.
+
+⚠ Minor and unresolved: the original reads *"e-health"*, the re-decode *"e-help"*. **"eHealth" is the
+Queensland Health system and the original is very likely right**; the re-decode has no domain
+knowledge of it. Low stakes either way — nothing turns on it.
+
+### The two passes "disagreed" on N2, and the disagreement is noise
+
+The only difference is a duplicated fragment — the no-context pass renders *"it filters all the
+words. the words."* against the context pass's *"it filters all the words."* ⇒ A segmentation
+artefact, not a meaning difference. **Recorded so that the AGREE=False flag is not misread as a
+substantive conflict.**
+
 ## WHAT IS VERBATIM-CERTAIN, AND CAN BE QUOTED
 
 | Passage | Per-word probabilities | Status |
