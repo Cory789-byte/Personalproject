@@ -66,7 +66,7 @@ Generated directly from the diff. **Segment 437 is the one that matters most** a
 | 6 | 397 | 27:46.28 | MR SHEPHERD | **DWYER IC** | *presence and* | Appellant confirmed |
 | 7 | 398 | 27:48.44 | MR SHEPHERD | **DWYER IC** | *imposes unassessed unilateral* | Appellant confirmed |
 | 8 | 399 | 27:50.16 | MR SHEPHERD | **DWYER IC** | *directives.* | Appellant confirmed |
-| 9 | **437** | 30:12.98 | DWYER IC | **MR SHEPHERD** | *Yeah, I actually understand what you're getting at.* | 12 Sep review |
+| 9 | **437** | 30:12.98 | DWYER IC | **MR SHEPHERD** | *I actually understand what you're getting at.* | 12 Sep review |
 | 10 | 523 | 35:28.86 | MR SHEPHERD | **DWYER IC** | *What have they disclosed to you?* | question-and-answer structure |
 | 11 | 533 | 36:02.34 | MR SHEPHERD | **DWYER IC** | *Or not?* | question-and-answer structure |
 | 12 | 537 | 36:10.36 | DWYER IC | **MR SHEPHERD** | *Yes, she tore it.* | question-and-answer structure |
@@ -139,7 +139,7 @@ Being checked and found correct is a result, and it is recorded so nobody re-ope
 
 **At 30:12.98, after the bench had redirected him, the line is:**
 
-> ⭐⭐ **MR SHEPHERD: *"Yeah, I actually understand what you're getting at."***
+> ⭐⭐ **MR SHEPHERD: *"I actually understand what you're getting at."***
 
 The machine gave it to the bench. **It is the Appellant's**, and he confirmed it first-hand as
 someone who was in the room. The corrections table in
@@ -259,7 +259,7 @@ bench shutting the patient-safety material down.
 | 29:37 | The Appellant's clinical chain — *"we're now not even contacting them by their numbers"* |
 | **29:46** | **the 5.74 s silence** |
 | 29:46 | *"I'm concerned at the direction this is going in, Mr Shepherd"* — ⭐ concern about **direction**, not about subject |
-| **30:13** | ⭐⭐ **MR SHEPHERD: *"Yeah, I actually understand what you're getting at."*** (§2) |
+| **30:13** | ⭐⭐ **MR SHEPHERD: *"I actually understand what you're getting at."*** (§2) |
 | 30:27–30:58 | ⭐ Work put on the other side: *"the party should work very hard at formulating a bundle of documents that **might satisfy you**"* · *"you've got a bit of work to do down there at the bar table"* |
 | 57:45 | ⭐ *"and **you may be right** about all of that"* |
 | 62:28 | ⭐ *"you might be **on to something there**"* |

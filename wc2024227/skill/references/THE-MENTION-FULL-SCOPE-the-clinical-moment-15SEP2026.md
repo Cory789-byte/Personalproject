@@ -153,7 +153,7 @@ So the exchange is:
 > point where you're satisfied with **the approach, a different approach or a more practical
 > approach, or a more cohesive and cooperative approach with the parties that are sitting at the
 > other end of the table.**"*
-> ⭐⭐ **MR SHEPHERD [1813]: "Yeah, I actually understand what you're getting at."**
+> ⭐⭐ **MR SHEPHERD [1813]: "I actually understand what you're getting at."**
 
 ⇒ ⭐⭐⭐ **The registration at 30:13 is the Appellant's, not the bench's — and that is the more
 important fact.** What he had just been told, forty seconds earlier, was the method: *"if you give

@@ -97,7 +97,7 @@ facts he had himself just read out (the abandonment termination at 56:00; the em
 - **28 minutes later**, unprompted, the only reference to death in the hour — *"or somebody gets
   killed"* — following the only reference to cardiac arrest in the hour. Sequence, not proof.
 
-⛔ **Attribution check.** *"Yeah, I actually understand what you're getting at"* at 30:13 is
+⛔ **Attribution check.** *"I actually understand what you're getting at"* at 30:13 is
 **Mr Shepherd's** line, spliced by the diariser into the middle of Dwyer's sentence — confirmed by
 the Appellant, who was present (prosody transcript, correction table row 437). It is not evidence
 that the Commissioner said he understood. The evidence for that is 57:15, in his own words.

@@ -83,7 +83,7 @@ He came in believing the case is proved by compelling the records. Hence 45 pp a
 ⚠ And he told the bench the disclosure did **not** contain examples of the directives — *"Not that I
 can recall, no"* [1109] — **which was wrong**; the 15 April, 9 May and 17 May 2024 emails were in the
 July 2025 disclosure. [D]
-⇒ Then at **30:12** he says *"Yeah, I actually understand what you're getting at."* [D] **From that
+⇒ Then at **30:12** he says *"I actually understand what you're getting at."* [D] **From that
 line his theory changes** from *obtain the documents* to *make them own the ones I hold*.
 
 ---

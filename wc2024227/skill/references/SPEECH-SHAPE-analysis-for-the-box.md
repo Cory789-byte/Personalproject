@@ -594,7 +594,7 @@ about efficiency of conduct of proceedings, **I'm concerned at the direction thi
 — a 471-word turn at **3.74 w/s, his fastest articulation measured anywhere** (mean 2.98).
 
 ### 22.3 ⭐⭐⭐ AND SEVEN SECONDS INTO THAT TURN HE BREAKS OFF TO SAY IT LANDED
-> **Seg 437: *"Yeah, I actually understand what you're getting at."***
+> **Seg 437: *"I actually understand what you're getting at."***
 Mid-intervention, unprompted, between *"a more cohesive and cooperative approach with the parties"* and
 *"If we can't get to that, I'm going to schedule this disclosure dispute for a hearing."*
 **"Actually" is the whole word.** It marks a move from not-following to following.
@@ -646,7 +646,7 @@ Dwyer's sentence runs **432 → 436 → 438 → 439** as one structure:
 > dispute for a hearing."*
 **Seg 437 is spliced into the middle of it**, opens with the appellant backchannel *"Yeah,"*, and is 8 words
 inside a 471-word run. Seg **440** *"Yeah."* three lines later is the same error.
-⇒ ⛔ **§22.3 is wrong and is withdrawn in full.** *"Yeah, I actually understand what you're getting at"* is
+⇒ ⛔ **§22.3 is wrong and is withdrawn in full.** *"I actually understand what you're getting at"* is
 **Cory accepting the Commissioner's criticism on the spot**, not the Commissioner conceding a point.
 
 ### 23.2 ⛔ A SIXTH MISATTRIBUTION CLASS, on top of §21.6's five

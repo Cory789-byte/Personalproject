@@ -61,7 +61,7 @@ question. 227, 247, 249, 537, 588, 614, 616, 706, 707, 708, 730, 779, 819 → **
 
 ## ⛔ Seg 437 — why it matters
 
-At 30:12, after the bench redirected him, **the Appellant said "Yeah, I actually understand what
+At 30:12, after the bench redirected him, **the Appellant said "I actually understand what
 you're getting at."** He was signalling that he had taken the method the bench had just set out —
 that evidence which is not contradicted is likely to be accepted, so the case could be proved
 without the documents. The machine gave the line to the bench, which inverted its meaning. The
@@ -99,3 +99,36 @@ and was withdrawn.
 Every word carries a probability in the `p` field of its `words` entry. The fabricated-quotation
 error of 15 September sat on a word the model scored at **0.02** while every word around it scored
 0.97–1.00. **The file was flagging its own guess and nobody read the flag.**
+
+---
+
+## ⛔⛔ AMENDMENT, 16 September 2026 — the certified-grade re-diarisation
+
+A re-diarised transcript with an amendment log was supplied on 16 September 2026
+(`TRANSCRIPT_diarised_prosody` PDF, 16pp). It **supersedes the attribution method recorded above**
+on three points, and all three are now applied here.
+
+**1. ⛔ "Yeah," at 30:12.98 is NOT supported by the audio.** The re-decode returns the line as
+***"I actually understand what you're getting at."*** **Neither pass produces "Yeah,"** — the
+original run gave it **p = 0.37**. ⇒ **"Yeah," was an artefact of the original decode and has been
+removed from every file in this repository.** ⚠ The amendment is unaffected: it concerns *who spoke
+the line*, not its opening token.
+
+**2. ⭐⭐⭐ The A1 attribution is now independently corroborated.** The full 65 minutes were
+re-diarised from scratch with **SpeechBrain ECAPA-TDNN** embeddings and mean-norm spectral
+clustering — a different embedder, different clustering, and **no lexical or adjacency cues at all**.
+It shares nothing with the original pipeline. **It independently assigns 30:12.98 to MR SHEPHERD.**
+⇒ Segment 437 now rests on **three mutually independent lines**: participant evidence, transcription
+behaviour on re-decode, and speaker embedding.
+
+**3. ⭐⭐ Two passages are confirmed segment-by-segment on both methods, with no disagreement:**
+- **the nine words, 29:17–29:39 — all 10 segments MR SHEPHERD**
+- **the filters answer, 23:40–24:12 — all 9 segments MR SHEPHERD**, handover to DWYER IC at 24:12.02
+
+⚠ **Method agreement is 93.8%, with Shepherd recall 83%.** ⇒ **17% of his segments are still missed
+by ECAPA**, 50 were too short to embed, and **agreement is corroboration, not certification.**
+⛔ **It remains uncertified machine output. Order the certified transcript before any external use.**
+
+⚠ **The SPEAKING SHARE table in that PDF is the unamended pipeline output (846/219/3) and says so on
+its face.** The corrected counts in this repository — **DWYER IC 853 · MR SHEPHERD 210 ·
+MS MATHESON 9 across 1,072 rows** — are the ones to use.

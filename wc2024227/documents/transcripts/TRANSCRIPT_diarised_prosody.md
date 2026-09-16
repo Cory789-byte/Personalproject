@@ -48,7 +48,7 @@ carries `speaker_machine`, `speaker_corrected`, `correction_confidence` and `cor
 
 | Seg | Time | Labelled | **Corrected to** | Basis | Confidence |
 |---|---|---|---|---|---|
-| **437** | 30:13 | DWYER IC | **MR SHEPHERD** | *"Yeah, I actually understand what you're getting at."* Spliced into the middle of one Dwyer sentence that runs 432→436→438→439 (*"…at the other end of the table. … If we can't get to that,"*). **Confirmed first-hand by the Appellant, who was present.** | **Certain** |
+| **437** | 30:13 | DWYER IC | **MR SHEPHERD** | *"I actually understand what you're getting at."* Spliced into the middle of one Dwyer sentence that runs 432→436→438→439 (*"…at the other end of the table. … If we can't get to that,"*). **Confirmed first-hand by the Appellant, who was present.** | **Certain** |
 | 440 | 30:19 | DWYER IC | **MR SHEPHERD** | *"Yeah."* Bare backchannel inside the same 471-word run | High |
 | 620 | 40:28 | DWYER IC | **MR SHEPHERD** | *"Yes."* answers *"Is it in the form of an email? Yes or no?"* — the bench does not ask and answer, then ask again | High |
 | 673 | 42:59 | DWYER IC | **MR SHEPHERD** | *"Yeah."* interrupts Dwyer's own sentence (*"…put to Ms. Taylor … and you don't need any other documents"*) | High |
@@ -734,7 +734,7 @@ with the parties that are sitting at the other end of the table.  `flat fast 5.8
 
 
 **30:12.98  MR SHEPHERD**  `wide`  
-Yeah, I actually understand what you're getting at.
+I actually understand what you're getting at.
 
 **30:13.60  DWYER IC**  
 If we can't get to that,  `↑+5.9st fast 6.4w/s louder`
