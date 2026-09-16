@@ -29,6 +29,25 @@ understood by the Commissioner, which is outside the speaker's knowledge and out
 Any view about that is inference drawn from the surrounding turns, is not participant evidence, and
 forms no part of this amendment.
 
+**⚠ A1 wording correction, 16 September 2026 — "Yeah," is not supported by the audio.** The
+re-decode of this window returns the line as *"**I actually understand what you're getting at**"*.
+**Neither pass produces "Yeah,"** — the original run gave it p = 0.37, and like *"Absolutely."* at
+24:02 (p = 0.03) it does not survive two higher-beam passes. **Treat "Yeah," as an artefact of the
+original decode.** A1 is unaffected: the amendment concerns **who spoke the line**, not its opening
+interjection.
+
+**⭐ What the re-decode adds to A1, and what it cannot.** The five content words are solid —
+*actually* 0.99, *understand* 0.99, *what* 0.93, *you're* 0.99, *getting* 0.99. **The boundary tokens
+are not** — *"I"* **0.23** entering and *"at."* **0.42** leaving. And the two passes behave
+differently: the context pass renders the line; **the no-context pass omits it entirely**, placing
+*"we"* at 1813.4 s and *"can't"* at 1815.2 s across a **1.8-second span it does not transcribe**.
+
+⇒ Strong content with collapsing boundaries, dropped by one pass, leaving an unexplained gap, **is
+the acoustic signature of a second voice overlapping the first** — which is what A1 asserts. ⚠ **But
+it is corroboration, not proof: an ASR system has no speaker model, and a speaker briefly
+interrupting himself produces a similar pattern.** **The test of A1's attribution is speaker
+diarisation, not transcription.**
+
 **A2 note — a confirmation, not a correction.** The speaker label at 46:10.84 was **already**
 MR SHEPHERD in the pipeline output. The participant confirms it. Nothing about the transcript
 changes; what changes is the **evidentiary class** of that line, from inference to participant
