@@ -165,3 +165,82 @@ C1 −0.02 st/10 min (p = 0.94). Both flat.
 pitch modulation**. Quieter, but not flatter. That is a different state from
 monotone withdrawal — subject always to the body-worn-camera geometry
 alternative recorded at §3.
+
+---
+
+## 8. Questioning analysis (17 Sep 2026)
+
+### ⛔ Terminal-contour method — FAILED, reported as a negative result
+
+English yes/no questions carry a rising terminal contour, so terminal pitch
+movement is the standard acoustic proxy for interrogative force when no
+transcript exists. It does not work on this file.
+
+**First pass (loose filters)** appeared to give a result — C0 rising terminals
+38.9% against C1's 27.7%, Fisher p = 0.075. **That was an artefact.** It included
+"rises" of +20.41 st and +15.00 st across a 400 ms window — 1.7 octaves, which is
+not speech. Terminal f0 tracking degrades exactly where it is being measured:
+energy falls at phrase ends and voicing breaks into creak, so the tracker jumps
+octaves.
+
+**Strict re-run** — pitch ceiling 250 Hz, ≥20 voiced frames in the final 400 ms
+and ≥30 in the preceding 1.1 s, excursions over 6 st rejected:
+
+| | n | rising ≥+1.5 st | level | falling ≤−1.5 st |
+|---|---|---|---|---|
+| C0 | 30 | **23.3%** | 46.7% | 30.0% |
+| C1 | 31 | **22.6%** | 51.6% | 25.8% |
+
+Mann-Whitney **p = 0.713**. Fisher on rising counts **p = 1.000**. A rising
+terminal does not predict a floor handover for either speaker (57.1% vs 55.6%).
+
+**Why it failed: 210 of 315 turn-final segments were rejected for insufficient
+voicing.** VAD boundaries are cut on silence and breath, not on utterance
+completion, so most "turn ends" here are not sentence ends.
+
+⇒ **Questioning analysis by terminal contour requires the transcript.** It cannot
+be done on VAD boundaries.
+
+### ✅ Turn-onset pitch reset — works, and is the strongest measure in the file
+
+The mirror measure succeeds because turn onsets carry strong voicing. Pitch over
+the first 500 ms of each turn-initial segment, against that speaker's own median:
+
+| | n | median onset | mean | starts ≥+2 st above own baseline |
+|---|---|---|---|---|
+| C0 | 109 | **−0.06 st** | −0.16 | 20.2% |
+| **C1** | 86 | **+1.67 st** | +1.94 | **45.3%** |
+
+**Mann-Whitney p < 0.0001 · Cohen's d = 0.81 (large).**
+
+**C0 begins each turn at his own baseline. C1 lifts nearly 1.7 semitones to
+begin, and starts high on 45% of turns.**
+
+Pitch reset at turn onset marks the start of a new unit and the act of taking the
+floor. A speaker who starts at baseline treats the floor as already his — he is
+continuing. A speaker who lifts to start is **claiming** it each time.
+
+This is not explained by waiting: onset height after a ≥3 s gap does not differ
+from onset after a <1 s handover, for either speaker (p = 0.69, p = 0.67).
+
+**C1's onsets rise across the hour** (+0.34 st/10 min, total +2.20 st, p = 0.012).
+C0's do not (p = 0.45). So C1's floor-claiming becomes *more* pitched while his
+overall level falls 4.6 dB — more effort to begin, less projection overall.
+
+### The questioner/respondent asymmetry, assembled
+
+Five independent measures point the same way:
+
+| Measure | C0 | C1 |
+|---|---|---|
+| Floor time | **33.3 min (62.8%)** | 20.3 min |
+| Mean turn | **13.67 s** | 7.81 s |
+| Longest turn | **157.8 s** at 08:41.5 | 66.1 s |
+| Latency to respond | **0.63 s**, latching 20% | 0.94 s, latching 12% |
+| Turn-onset reset | **−0.06 st** (owns floor) | **+1.67 st** (claims floor) |
+
+⇒ C0 conducts, C1 responds. The onset measure is the cleanest of the five and
+was obtained without any transcript.
+
+⚠ Still unresolved: **which cluster is which person**, and whether C0 is one
+officer or two.
