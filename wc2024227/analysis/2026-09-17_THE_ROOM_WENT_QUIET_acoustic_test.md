@@ -130,7 +130,53 @@ generated **no sound other than the building**.
 
 ---
 
-## 6. Limits
+## 6. The respondents — what is audible, and what cannot be established
+
+### On the record
+
+**MS MATHESON is the entire respondent presence in 65 minutes: three turns, 17 words.**
+
+| time | level | vs Dwyer | vs Shepherd | |
+|---|---|---|---|---|
+| 17:35.36 | **48.5 dB** | **−17.5** | −13.7 | *"Yes, Commissioner. We've disclosed all we have currently."* |
+| 22:29.58 | 63.2 dB | −2.8 | +1.0 | *"Only just now."* |
+| 40:36.74 | **54.1 dB** | **−11.9** | −8.1 | *"The request for conducting an email,"* |
+
+Word share of the spoken record: **Dwyer 8,313 · Shepherd 1,331 · Matheson 17 — 0.18%.**
+
+Two of her three turns are **11.9 and 17.5 dB below the Commissioner** — far off-mic, consistent
+with the far end of the bar table. She is audible, but only just, and only when addressed directly.
+
+### ⚠ Retraction — voice detection inside the short gaps
+
+Two attempts were made to detect unattributed voices (murmuring, whispering at the respondents'
+end) inside the inter-turn gaps. **Both failed and neither result is relied on.**
+
+1. **Frame-normalised autocorrelation** returned "voice-like" for **25 of 25 gaps, including the
+   5.74 s silence at −62.2 dBFS.** Per-frame normalisation destroyed the level information and made
+   the noise floor read as periodic. Discarded.
+2. **Level-gated autocorrelation with an f0-stability requirement** passed its sanity check on known
+   speech (Shepherd 77 voiced frames, stability 0.92; Dwyer 79 frames, 0.95) but still returned
+   "VOICE" for 16 of 25 gaps. The gaps are 0.50–1.78 s and sit **between** speech segments; a 100 ms
+   trim at each end does not remove the decay of the preceding word or the onset of the next. The
+   instrument cannot separate a third person's murmur from the speech either side of it.
+
+**No claim is made about who, if anyone, can be heard in the short gaps.** Establishing that needs
+either a longer trim than these gaps can afford or a multi-channel recording, and this is a
+single-channel mix.
+
+### What does stand
+
+Whatever is or is not in the other gaps, **the 5.74 s silence contains nothing above its own
+floor for 4.88 consecutive seconds** (§5). Ms Matheson's quietest recorded turn sits 17.5 dB below
+the Commissioner and was still transcribed. A sound at that level, made anywhere in that room during
+the silence, would have registered plainly above a −63.5 dBFS floor.
+
+Nothing did.
+
+---
+
+## 7. Limits
 
 The noise-floor baseline is drawn from 29 gaps inside the two published extracts, not from all
 65 minutes; a full-hearing sample could move the median, though a 10.4 dB separation from the next
