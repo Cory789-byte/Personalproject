@@ -37,3 +37,52 @@ single peak normalisation applied uniformly to the whole span. Reproduce with
 > ⚠ Part 3 is **synthesised narration of machine analysis**, not evidence, and
 > says so in its own words. It is not a legal determination. The original
 > recording remains the primary source.
+
+---
+
+# Audio extract 2 — the close
+
+`MENTION_58m02_to_END_materiality_to_close.mp3` — 6 m 32 s, 128 kbps mono.
+**Straight cut, no narration.** Uniform peak normalisation only.
+
+**58:02.0 → 64:34.5** (the end of the recording).
+
+## What it contains
+
+* **58:02** — *"it happens every single day in every single workplace. It's a
+  question of whether or not there's anything material that arises from any of
+  that… and **it's only a problem if somebody gets sacked or somebody gets
+  killed** or somebody, you know what I mean? And it's only then when these
+  things get a light shone on them and they become relevant."*
+* The broader-grievance passage, and *"your case must focus on the stressors
+  that you've identified."*
+* **~60:00** — the model-litigant remarks about Ms Matheson and the Regulator.
+* **~61:23** — *"Fewer documents means simpler case, means easier for someone
+  like me to understand it and not get it wrong."*
+* **61:26** — the Commissioner puts his own conduct to the Regulator: *"Have I
+  misrepresented your role in the matter or placed a burden on you that you're
+  not prepared to accept?"* — answered **"No."**
+* **~62:30** — ⭐ *"which was **the unassessed directives** or whatever, **you
+  might be on to something there. They might have an obligation to provide
+  those.** … that particular point is **the one one area** I think in all of what
+  we've been through that there might be something to look at."*
+* The four-week stand-down, and the close: *"Nothing further?… Thanks."*
+
+## Why the two named thresholds matter
+
+Both limbs of the materiality test the Commissioner states at 58:02 had been
+read onto the record **by him**, earlier in the same hearing:
+
+| | |
+|---|---|
+| **38:38** | *"lodged a corrupt conduct complaint **regarding clinical risks**. Its Ethical Standards Unit **formally determined** this constituted a public interest disclosure."* |
+| **~55:50** | *"the last one, **which isn't necessarily identified as a stressor, but I'll go to it anyway**… the employer **terminated the appellant** under abandonment provisions… the appellant was **subsequently reinstated**."* |
+| **29:17** | (the appellant) *"…not sent to someone having a **cardiac arrest**…"* |
+
+⇒ He read the sacking aloud ninety seconds before naming it, having elected to
+go to material he had just said was not pleaded as a stressor; and he had been
+told about the second threshold twenty-eight minutes earlier.
+
+> ⚠ Inference, not record. The transcript cannot establish what the Commissioner
+> had in mind. What it establishes is the sequence and that he supplied both
+> examples himself.
