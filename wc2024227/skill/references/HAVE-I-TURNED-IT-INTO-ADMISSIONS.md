@@ -67,7 +67,17 @@ non-contradiction, **it obtained the concession**.
 
 ## 3. ⛔ What it did not close, and what no admission ever could
 
-### 3.1 ⛔⛔ Element (d) — causation. Untouched.
+### 3.1 ⛔⛔ CORRECTED 17 Sep 2026 — element (d) is NOT untouched
+
+⛔ **This section said causation was "untouched" by the admissions. That was wrong — it counted the
+facts instead of reading them.** Facts **261 and 262** are directly on it: the Respondent has
+admitted that Review Decision 69983 concludes *"you sustained a personal injury of a psychological
+nature"* and that *"your injury arose out of employment… where employment was a significant
+contributing factor"*. ⇒ **Their own delegate decided element (d) in his favour and they have
+admitted the decision says so.** See `WHAT-THE-ADMISSIONS-CONFIRM.md`. What follows below remains
+correct only as to what he must still *prove*, not as to what is untouched.
+
+### 3.1a Element (d) — still his to prove
 
 **s 32(1) requires that employment be *a significant contributing factor* to the injury.** Not one
 of the 303 facts goes to it, and none could: they are facts about documents and events, not about
