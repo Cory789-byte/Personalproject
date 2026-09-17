@@ -108,3 +108,60 @@ Distinct from the 120 s grid beep: a **~706–730 Hz** tonal event at **04:10.1,
 * **Any content.** No transcript, so no words, no speech rate, no question
   forms, no caution wording, no compliance analysis.
 * Whether the level decline is behavioural or positional (§3).
+
+---
+
+## 7. Semitone measures (added 17 Sep 2026) — and a correction to the range metric
+
+**Semitone** = logarithmic pitch interval. `st = 12 × log₂(f₂/f₁)`; 12 st = one
+octave. Used because equal Hz steps are not equal perceptual steps: +20 Hz from
+100 Hz is 3.2 st, the same +20 Hz from 300 Hz is 1.1 st. All level figures below
+are measured against **that speaker's own median**, never across speakers.
+
+### ⚠ Correction — `f0_range_st`
+
+The first run defined the range as **min-to-max of the raw pitch track**. That is
+extremely outlier-sensitive: a single octave-tracking error or one creaky frame
+inflates it by an octave or more. It reported medians of **21.59 st (C0)** and
+**20.40 st (C1)** — nearly two octaves within one phrase, which is not real speech.
+
+`prosody.py` now reports a **robust 5th–95th percentile span** as `f0_range_st`
+and retains the raw extremes as `f0_range_raw_st` / `f0_min_raw` / `f0_max_raw`.
+
+| | robust p5–p95 | raw min–max (discarded) |
+|---|---|---|
+| C0 | **10.39 st** (IQR 7.10–13.31) | 21.59 st |
+| C1 | **10.28 st** (IQR 4.73–14.71) | 20.40 st |
+
+⚠ **Cross-recording comparison is NOT currently safe.** The WC/2024/227 mention
+figures (Dwyer 7.61 st, Shepherd 5.24 st) came from a different pipeline whose
+range definition is unverified. The mention audio must be re-run through this
+code before the two are compared.
+
+### Findings
+
+**Voice separation.** C0 131.3 Hz, C1 98.7 Hz — **4.94 semitones apart**.
+
+**Within-phrase movement is the same for both.** C0 10.39 st vs C1 10.28 st,
+difference +0.11 st, Mann-Whitney **p = 0.23 (not significant)**. Expressiveness
+does not distinguish these speakers.
+
+**C1 has almost no downward pitch range.**
+
+| | ≥ +2 st above own baseline | ≤ −2 st below | ratio | p5 |
+|---|---|---|---|---|
+| C0 | 16.0% | 13.9% | **1.1 : 1** | −3.13 st |
+| **C1** | 16.8% | **1.1%** | **15.7 : 1** | **−1.51 st** |
+
+Both lift above baseline equally often; only C0 descends below it. C1 speaks from
+the **floor of his own range** throughout. Two readings fit: a genuinely held-low
+delivery, or modal-register floor with creak below it being filtered out as
+unvoiced. Both describe a low, held voice.
+
+**Pitch range does not narrow over the hour.** C0 −0.15 st/10 min (p = 0.34);
+C1 −0.02 st/10 min (p = 0.94). Both flat.
+
+⇒ C1's **4.6 dB intensity decline** (p = 1.8 × 10⁻¹⁴) occurs **without any loss of
+pitch modulation**. Quieter, but not flatter. That is a different state from
+monotone withdrawal — subject always to the body-worn-camera geometry
+alternative recorded at §3.

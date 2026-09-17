@@ -52,12 +52,17 @@ def analyse(snd, nwords: int, dur: float) -> dict | None:
         iv = np.array([])
 
     if voiced.size:
-        fmin, fmax = float(voiced.min()), float(voiced.max())
+        # min/max of a raw f0 track is extremely outlier-sensitive: one octave
+        # error or one creaky frame inflates the range by an octave or more.
+        # Use a robust 5th-95th percentile span as the reported range, and keep
+        # the raw extremes separately.
+        fmin, fmax = float(np.percentile(voiced, 5)), float(np.percentile(voiced, 95))
+        fmin_raw, fmax_raw = float(voiced.min()), float(voiced.max())
         med = float(np.median(voiced))
         # SD expressed in semitones relative to this segment's median
         sd_st = float(np.std(12.0 * np.log2(voiced / med))) if med > 0 else 0.0
     else:
-        fmin = fmax = med = sd_st = 0.0
+        fmin = fmax = fmin_raw = fmax_raw = med = sd_st = 0.0
 
     return {
         "f0_med": round(med, 1),
@@ -65,7 +70,10 @@ def analyse(snd, nwords: int, dur: float) -> dict | None:
         "f0_sd_st": round(sd_st, 2),
         "f0_min": round(fmin, 1),
         "f0_max": round(fmax, 1),
-        "f0_range_st": round(st(fmin, fmax), 2),
+        "f0_min_raw": round(fmin_raw, 1),
+        "f0_max_raw": round(fmax_raw, 1),
+        "f0_range_st": round(st(fmin, fmax), 2),          # robust p5-p95
+        "f0_range_raw_st": round(st(fmin_raw, fmax_raw), 2),
         "voiced_frac": round(float(voiced.size / max(f.size, 1)), 2),
         "db_mean": round(float(iv.mean()), 1) if iv.size else 0.0,
         "db_sd": round(float(iv.std()), 2) if iv.size else 0.0,
