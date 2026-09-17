@@ -81,7 +81,56 @@ passage belongs to **30:14.96** at 75.0 dB / +9.0 dB, not to 30:12.98.
 
 ---
 
-## 4. Limits
+## 5. What is actually *in* the other gaps — added 17 September 2026
+
+The level comparison in §1 says the silence is quieter. This section says **what the difference is
+made of**. Each gap was measured for discrete events: 20 ms frame levels, counting every frame more
+than 8 dB above that gap's own floor — the signature of paper, a chair, a footfall, a cough.
+
+| | other gaps (n = 28) | the 5.74 s |
+|---|---|---|
+| level | median **−39.8 dBFS** | **−62.2** |
+| discrete events | median **4.71 /s** (range 0 – 20.65) | **0.72 /s** |
+
+### ⚠ Correction to an over-broad reading
+
+**It is not true that every other pause contains a discrete event. 8 of the 28 contain none.**
+But every one of those eight is **short — 0.42 s to 1.36 s** — and they sit at −29.7 to −37.5 dBFS,
+25 to 30 dB **above** the silence. They are not quiet; they are full of continuous room noise
+(ventilation, hum, murmur) and simply too brief to contain a discrete event.
+
+The correct statement is narrower and stronger:
+
+> **No other gap in the sample is both long and quiet.**
+
+| gaps ≥ 1.2 s, excluding the silence | n = 9 |
+|---|---|
+| level range | −51.8 to −31.3 dBFS |
+| **median** | **−43.5 dBFS** |
+| **the 5.74 s silence** | **−62.2 dBFS** |
+
+Every gap that lasts is noisy. Every gap that is quiet is too short to mean anything. One gap is
+six times longer than the typical pause **and** 19 dB below the quietest comparable one.
+
+### The events inside the silence are not the room
+
+The gap registers 4 frame-groups above its floor. They are not people:
+
+| offset | level | what it is |
+|---|---|---|
+| +0.00 → +0.14 s | −45.0 to −53.5 dBFS | **the decay tail of his own last word, *"numbers"***, ringing out |
+| **+0.16 → +5.04 s** | **nothing above the floor** | **4.88 seconds with no event of any kind** |
+| +5.06 s | −55.3 dBFS | **the Commissioner drawing breath** (matches the level rise at +5.00 s in §1) |
+
+Between the end of his voice and the start of the Commissioner's breath there are **4.88 seconds in
+which the room produces nothing measurable at all.** Floor −63.5 dBFS, flat.
+
+That is the finding: not that the room was quieter than usual, but that for almost five seconds it
+generated **no sound other than the building**.
+
+---
+
+## 6. Limits
 
 The noise-floor baseline is drawn from 29 gaps inside the two published extracts, not from all
 65 minutes; a full-hearing sample could move the median, though a 10.4 dB separation from the next
