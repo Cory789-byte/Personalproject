@@ -176,7 +176,52 @@ Nothing did.
 
 ---
 
-## 7. Limits
+## 7. Ranked against every second of the recording — added 17 September 2026
+
+The earlier sections compare the silence against other **gaps**. This compares it against
+**everything**: every 1-second window at a 0.25 s hop across all 556 s of available audio, with
+2 s dropped at each file edge to exclude MP3 encoder padding (which produced two spurious
+−63 dBFS windows at the head of the first extract in an earlier pass).
+
+**n = 2,184 windows.**
+
+### The ten quietest seconds in the entire recording
+
+| rank | level | time |
+|---|---|---|
+| 1 | **−64.4 dBFS** | 29:41.25 |
+| 2 | −64.1 | 29:41.50 |
+| 3 | −64.0 | 29:41.75 |
+| 4 | −63.9 | 29:40.75 |
+| 5 | −63.7 | 29:41.00 |
+| 6 | −63.6 | 29:40.50 |
+| 7 | −63.4 | 29:42.00 |
+| 8 | −63.3 | 29:43.75 |
+| 9 | −63.2 | 29:40.25 |
+| 10 | −63.2 | 29:42.50 |
+
+**All ten are inside the 5.74 seconds.**
+
+### The separation
+
+| | |
+|---|---|
+| quietest second inside the silence | **−64.4 dBFS** |
+| quietest second **anywhere else** in 556 s | **−53.5 dBFS** |
+| **gap** | **10.9 dB** |
+| median second of the hearing | −31.7 dBFS |
+| **the silence vs the median second** | **32.6 dB down** |
+
+- **0 of 2,159** windows elsewhere are quieter than even the *loudest* second of the silence.
+- Against the median second: **43× lower sound pressure, 1,832× less acoustic energy.**
+- Against the next-quietest second in the whole recording: **3.5× lower sound pressure.**
+
+It is not the quietest moment by a margin. It is the quietest moment by a **category**: the ten
+quietest seconds of the hearing are consecutive, and they are all the same five seconds.
+
+---
+
+## 8. Limits
 
 The noise-floor baseline is drawn from 29 gaps inside the two published extracts, not from all
 65 minutes; a full-hearing sample could move the median, though a 10.4 dB separation from the next
