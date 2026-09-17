@@ -244,3 +244,57 @@ was obtained without any transcript.
 
 ⚠ Still unresolved: **which cluster is which person**, and whether C0 is one
 officer or two.
+
+---
+
+## 9. Pitch versus loudness — and an AGC test (17 Sep 2026)
+
+**Pitch (f0)** is how fast the vocal folds vibrate: a property of the larynx.
+**Loudness (dB)** is energy arriving at the microphone. They are partially
+coupled — pushing more air raises both — but they are not the same information.
+
+| | Pitch | Loudness at the mic |
+|---|---|---|
+| Measures | the speaker | the speaker **and** the path to the mic |
+| Changes with distance / angle | **No** | **Yes** |
+| Changes with room, gain, AGC | **No** | **Yes** |
+
+⇒ **In a body-worn-camera recording, pitch is the trustworthy channel.** The
+findings at §7 (C1's 15.7:1 up/down asymmetry) and §8 (C1's +1.67 st turn-onset
+reset) are immune to microphone geometry. The §3 intensity decline is not.
+
+Diagnostic combinations:
+
+| f0 | dB | Reading |
+|---|---|---|
+| ↑ | ↑ | arousal — autonomic, both rise together |
+| **↓** | **↑** | **weight / assertion** — dissociated, hard to produce accidentally |
+| flat | ↓ | neither arousal nor flattening |
+| ↓ | ↓ | disengagement |
+
+### AGC test on this file
+
+Body-worn cameras commonly run automatic gain control, which would corrupt any
+dB trend. Tested by measuring the **non-speech noise floor** per minute (AGC
+raises gain in silence, pumping the floor up and pinning speech flat).
+
+| | |
+|---|---|
+| Non-speech floor | median −36.0 dBFS, range −44.8 to −19.4 (spread 25.4 dB, sd 6.03) |
+| Floor trend | **−7.31 dB/hour, p = 0.001** |
+| Speech 99th-pct level | sd 2.42 dB |
+| **Correlation (floor, speech level)** | **r = +0.349** |
+
+**AGC is not indicated.** AGC produces *anti*-correlation between floor and speech
+level; here they are **positively** correlated and both fall. The whole acoustic
+scene got quieter, floor faster than speech.
+
+**Global gain drift is also excluded** — a gain change would move both speakers.
+**C0's level is flat (p = 0.12) while C1's falls 4.6 dB (p = 1.8 × 10⁻¹⁴).**
+
+⇒ The C1 decline is **not** AGC and **not** a gain or whole-room artefact. Two
+explanations remain, and the audio cannot separate them:
+1. C1 genuinely reduced vocal effort;
+2. C1's position or orientation relative to the microphone changed while C0's
+   did not — which is the expected pattern if **C0 is the camera wearer**, whose
+   geometry to his own chest-mounted microphone is fixed by definition.
