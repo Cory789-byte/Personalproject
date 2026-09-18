@@ -127,3 +127,72 @@ non-overlapping segment boundaries by construction, so the measure cannot detect
 either way. It is not evidence of anything. The one documented overlap in the hearing runs the
 other way and is established by participant amendment, not by timings: at **30:12.98–30:14.96**
 the Commissioner speaks over the appellant's interjection (amendment A1).
+
+---
+
+## 6. The mumbling question
+
+Three measures, the third of which is the decisive one.
+
+### (a) Consonant-band energy, level-normalised
+
+Long-term average spectrum with **every segment normalised to unit RMS**, so any difference in
+level or microphone gain is removed:
+
+| band | SHEPHERD vs DWYER |
+|---|---|
+| 2–4 kHz (consonant core) | **−1.25 dB** |
+| 4–8 kHz (sibilants) | **−1.16 dB** |
+| spectral tilt | −6.44 vs −5.45 dB/oct — **1 dB/oct steeper** |
+
+Taken alone this looks like reduced articulation. **It is not decisive**, because microphone
+distance and off-axis position attenuate high frequencies in exactly the same way, and this is a
+single-channel mix with the bench and the bar table on one microphone.
+
+### (b) The distance-immune test
+
+Distance lowers **all** of a speaker's high frequencies together. Poor articulation lowers the
+**peaks relative to that speaker's own average**, because sibilants stop being fully formed.
+
+Per-frame HF fraction above 2.5 kHz, measured within each speaker:
+
+| | frames | median HF | p95 HF | **peak-to-median** |
+|---|---|---|---|---|
+| **MR SHEPHERD** | 1,703 | 0.0056 | 0.4779 | **85.5×** |
+| DWYER IC | 30,054 | 0.0072 | 0.6581 | **91.3×** |
+
+**Ratio 0.94.** The appellant's sibilant peaks rise 85.5 times above his own median — the
+Commissioner's rise 91.3 times. A 6% difference.
+
+⇒ **The consonants are being produced.** The 1.2 dB deficit in (a) is broad and uniform, which is
+the signature of microphone distance, not of articulation.
+
+### (c) Corroboration
+
+- **Zero requests to repeat** in 65 minutes, from anyone, to anyone.
+- ASR low-confidence rate **5.0%** against the Commissioner's 1.7% — but against **counsel's 5.9%**.
+
+### Conclusion
+
+There is no measurable evidence of mumbling. What is measurable is the cluster already recorded:
+**3.8 dB quieter, f0 range 5.24 st against 7.61 st, and a type–token ratio of 0.286 against 0.156
+in shorter words.** Quiet, flat, and dense.
+
+That cluster raises a listener's processing load, and a listener under load reports it as whatever
+word comes to hand — *too fast*, or *mumbling*. Both complaints point at the same three properties,
+and **articulation is not one of them.**
+
+### Volume against counsel
+
+Appellant median **62.2 dB** (n = 209 segments).
+
+| Ms Matheson | her level | appellant vs her |
+|---|---|---|
+| 17:35.36 | 48.5 dB | **+13.7 dB** |
+| 22:29.58 | 63.2 dB | −1.0 dB |
+| 40:36.74 | 54.1 dB | **+8.1 dB** |
+
+Louder than counsel on two of her three turns and level on the third.
+
+⚠ Single-channel mixed recording; vocal effort and microphone geometry cannot be fully separated.
+The sibilant test in (b) is within-speaker and is therefore the measure to rely on.
