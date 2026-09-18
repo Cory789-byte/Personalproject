@@ -86,3 +86,44 @@ are directly echoed or acted on by the bench.**
 
 The short turns are where the reasoning does not travel. At a median of 10 words there is room for
 a fact but not for the link between two facts.
+
+---
+
+## 5. Audible, intelligible, reasonable — the three direct tests
+
+### Loud enough
+
+**Requests to repeat anywhere in the 65 minutes: 0.** No *"sorry?"*, no *"pardon"*, no *"say that
+again"*, no *"I didn't catch that"* — from anyone, to anyone, at any point. The appellant is
+3.8 dB below the Commissioner and 13.7 dB **above** Ms Matheson's quietest transcribed turn.
+
+### Clear enough
+
+ASR word-confidence as an intelligibility proxy:
+
+| | words | median p | mean p | % below 0.5 | avg_logprob |
+|---|---|---|---|---|---|
+| **MR SHEPHERD** | 1,333 | **0.997** | 0.920 | **5.0%** | −0.215 |
+| DWYER IC | 8,343 | 0.999 | 0.964 | 1.7% | −0.171 |
+| MS MATHESON | 17 | 0.994 | 0.933 | 5.9% | −0.254 |
+
+Median confidence is effectively identical to the Commissioner's. The low-confidence tail is about
+three times his — consistent with the quieter, denser, shorter-segment delivery already measured —
+but it is **better than counsel's**, and counsel was transcribed without difficulty.
+
+### Reasonable
+
+| | words | cooperative markers | resistance markers |
+|---|---|---|---|
+| **MR SHEPHERD** | 1,331 | **59 — 44.3 / 1,000** | **0 — 0.0 / 1,000** |
+| DWYER IC | 8,313 | 76 — 9.1 / 1,000 | 4 — 0.5 / 1,000 |
+
+**Nearly five times the rate of accommodation per word, and not one instance of the resistant
+register** — no *"that's not right"*, no *"I disagree"*, no *"with respect"*, no *"I object"*,
+across the entire hearing.
+
+⚠ **One measure withdrawn.** Turn-overlap counted 0 for both speakers, but Whisper produces
+non-overlapping segment boundaries by construction, so the measure cannot detect interruption
+either way. It is not evidence of anything. The one documented overlap in the hearing runs the
+other way and is established by participant amendment, not by timings: at **30:12.98–30:14.96**
+the Commissioner speaks over the appellant's interjection (amendment A1).
