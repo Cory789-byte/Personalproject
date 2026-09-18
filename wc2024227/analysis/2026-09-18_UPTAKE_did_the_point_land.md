@@ -175,8 +175,10 @@ the signature of microphone distance, not of articulation.
 ### Conclusion
 
 There is no measurable evidence of mumbling. What is measurable is the cluster already recorded:
-**3.8 dB quieter, f0 range 5.24 st against 7.61 st, and a type–token ratio of 0.286 against 0.156
-in shorter words.** Quiet, flat, and dense.
+**3.8 dB quieter and f0 range 5.24 st against 7.61 st.** ⚠ The third limb once stated here — a
+type–token ratio of 0.286 against 0.156 — is **retracted**: at matched sample size the appellant's
+lexical variety is *lower* (z = −6.9). The real third limb is structural — subordination at 0.33×
+and deixis at 1.26×. See `2026-09-18_PARATAXIS_the_construction.md`.
 
 That cluster raises a listener's processing load, and a listener under load reports it as whatever
 word comes to hand — *too fast*, or *mumbling*. Both complaints point at the same three properties,

@@ -38,7 +38,15 @@ is wrong.
 
 Three measured properties, all of which raise a listener's processing load without raising rate.
 
-### (a) Lexical density — the big one
+### (a) ⚠ Lexical density — RETRACTED 18 September 2026
+
+> The claim below is **wrong**. TTR falls with sample size, and this compares a 1,324-word corpus
+> with an 8,275-word one. At **matched size** (300 bootstrap samples of 1,324 Dwyer words) Dwyer
+> scores **0.354 ± 0.010** against Shepherd's **0.283** — the appellant's lexical variety is
+> **LOWER, z = −6.9**. The real driver is structural, not lexical: subordination at **0.33×** and
+> deixis at **1.26×**. See `2026-09-18_PARATAXIS_the_construction.md`.
+
+### (a) ~~Lexical density~~ — superseded
 
 | | SHEPHERD | DWYER |
 |---|---|---|
