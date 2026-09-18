@@ -196,3 +196,56 @@ Louder than counsel on two of her three turns and level on the third.
 
 ⚠ Single-channel mixed recording; vocal effort and microphone geometry cannot be fully separated.
 The sibilant test in (b) is within-speaker and is therefore the measure to rely on.
+
+---
+
+## 7. Baseline or effort? — the question cannot be answered from the available audio
+
+Three routes were attempted. **All three fail, and two produced results that look meaningful and
+are not.** Recorded here so they are not repeated.
+
+### (a) Does articulation drop on throwaway speech? — untestable
+
+Effortful control shows as *clean when it matters, sloppy when it doesn't.* In the two published
+extracts the appellant has **14 substantive turns and only 2 throwaway turns** long enough to
+measure. No test is possible.
+
+### (b) Does articulation decay across the hearing? — ⚠ WITHDRAWN
+
+A first pass gave early 39.9× against late 11.0×, p = 0.052 — a 73% drop that reads as fatigue.
+
+**It is confounded.** The late window is the closing stretch, where the appellant's turns are
+almost all one-word replies. The measure was comparing *turn type*, not *time*. Restricting both
+windows to substantive turns of 8+ words leaves **n = 4 early and n = 1 late.** The apparent decay
+is withdrawn and no claim is made in either direction.
+
+### (c) The QPS record-of-interview as an unguarded baseline — ⚠ INVALID
+
+| | n | median sibilant prominence |
+|---|---|---|
+| MENTION — Dwyer IC | 129 | **66.3×** |
+| MENTION — Mr Shepherd | 10 | **55.3×** |
+| QPS — cluster 0 | 331 | 19.0× |
+| QPS — cluster 1 | 271 | 10.4× |
+
+Both QPS speakers fall 3–6× below **both** mention speakers, p < 0.0001. That is not a finding
+about any person: the Commissioner is in the mention recording and is not in the police interview,
+and he shows the same elevation. **The gap tracks the recording, not the speaker** — different
+microphone, different room, different encoder, and a police interview recorder's limited
+high-frequency response compresses the 2.5–8 kHz band for everyone in it.
+
+Sibilant prominence is immune to microphone **distance within one recording**. It is **not**
+immune to a change of recording chain. The cross-recording comparison is discarded.
+
+### What can be said
+
+Within the mention — the only valid comparison — the appellant's articulation sits **in the same
+band as the Commissioner's, slightly below**: 85.5× against 91.3× frame-level (ratio 0.94), 55.3×
+against 66.3× segment-level (ratio 0.83, n = 10).
+
+**Whether that is his ordinary speech or speech under deliberate control cannot be determined from
+9 minutes of published extract.** Answering it needs the full 65-minute audio, which would supply
+enough throwaway turns for (a) and a clean early/late contrast for (b).
+
+What is not in doubt is the outcome in the room: **no one asked him to repeat anything, once, in
+sixty-five minutes.**
