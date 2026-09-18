@@ -102,3 +102,69 @@ The earlier account — quiet + flat pitch + *high lexical density* — keeps it
 (3.8 dB quieter; f0 range 5.24 st against 7.61 st, both unaffected by this correction) and
 **replaces the third**. The processing load is not lexical. It is **the unstated logical relations
 and the unresolved deictic pointers.**
+
+---
+
+## Rate against norms, and what the construction costs him
+
+### He is not fast. He is slightly slower than the Commissioner.
+
+| | words/min (incl. pauses) | syllables/s | articulation (voiced only) |
+|---|---|---|---|
+| **MR SHEPHERD** | **171.5** | **3.94** | 5.54 syll/s |
+| DWYER IC | 169.1 | 4.16 | 5.99 syll/s |
+
+Approximate reference ranges from the speech-rate literature (indicative, not cited to a single
+source): spontaneous adult conversation **120–180 wpm**; articulation rate **4.0–6.0 syll/s**;
+speech is generally judged *fast* above about **200 wpm / 6.5 syll/s**.
+
+He sits inside the normal band on every measure, and **below the Commissioner on articulation rate**.
+The perception of speed has no basis in his rate.
+
+### Zero filled pauses
+
+| | words | **filled pauses** (*um, uh, er*) | repairs | word-doubling |
+|---|---|---|---|---|
+| **MR SHEPHERD** | 1,331 | **0 — 0.0 /1,000** | 6.8 /1k | 1.5 /1k |
+| DWYER IC | 8,313 | 2 — 0.2 /1,000 | 5.2 /1k | 2.5 /1k |
+
+The norm for spontaneous adult speech is **6–20 filled pauses per 1,000 words.** The Commissioner's
+0.2 is already exceptional for a speaker producing 8,313 words. **The appellant produces none at
+all**, and doubles words *less* often than the Commissioner does.
+
+This matters because *"um"* is the sound of a speaker buying planning time. **If carrying the
+structure unexpressed were costing him, it would leak here. It does not.**
+
+### The hold, as a memory measure
+
+| | |
+|---|---|
+| limb 3 read aloud by the Commissioner | 12:38.26 |
+| first mention of it by the appellant | 29:17.88 |
+| **elapsed** | **16 min 39.6 s** |
+| his own turns taken in that window | **72** |
+| words directed at him on other topics | **1,697** |
+| question-bearing turns from the bench | **35** |
+
+He held an unspoken item through 35 questions on two other limbs and produced it intact.
+
+---
+
+## What is actually distinctive
+
+Three things that are individually unremarkable and jointly rare:
+
+1. **He does not externalise logical structure into syntax.** Subordination at **0.33×** the
+   Commissioner's rate; eight causal links and zero causal connectives in the key passage.
+2. **Therefore he must hold the structure himself while speaking.** Subordination is not only a
+   listener's aid — *"because X, therefore Y"* commits a speaker to Y and keeps their place.
+   Parataxis commits to nothing; the speaker carries the destination unaided.
+3. **He does it without leakage.** Zero filled pauses, fewer word-doublings than the Commissioner,
+   and a demonstrated 16-minute hold across 35 intervening questions.
+
+Most speakers do one of two things: externalise the structure into grammar, as the Commissioner
+does, or hold it and leak — filled pauses, restarts, losing the thread. **He does neither.**
+
+⇒ The "too fast" complaint is a mislabelled load complaint. He runs at a perfectly ordinary
+171 words a minute and **transfers the assembly work to the listener** — work that the
+Commissioner's grammar performs for his listeners free of charge.
