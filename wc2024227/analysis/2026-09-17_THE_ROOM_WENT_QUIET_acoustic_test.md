@@ -1,4 +1,20 @@
 # WC/2024/227 — "THE ROOM WENT QUIET"
+
+> ## ⚠⚠ SUPERSEDED IN PART — 18 September 2026
+> This file was built on **9.3 minutes of published extract**. The full 64.6-minute audio has since
+> been analysed and **two of its headline claims are retracted**:
+> - §7's "the ten quietest seconds of the entire recording are all inside this one" is **FALSE**.
+>   None of them is. The ten quietest seconds are at 16:36, 33:33, 19:15, 18:32, 27:17 and 25:26.
+> - §1's "rank 1 of 29 gaps, 22.2 dB below the median, 10.4 dB below the next quietest" is **WRONG**.
+>   On all 267 gaps it ranks **5**, at −63.5 dBFS against a median of −49.0 (a 14.5 dB difference),
+>   and the next quietest gap is −64.2 dBFS.
+>
+> **What survives** is §5's narrower claim, now properly grounded: among the **40 gaps of 2 s or
+> more the silence ranks 1 of 40 by level**; every longer gap is 6–13 dB noisier and every quieter
+> gap is under 1.4 s. The room reaches that floor elsewhere — but only for half a second at a time.
+>
+> See `2026-09-18_FULL_RUN_corrections.md`. Read the sections below against that file.
+
 ## Tested against the waveform. The room claim is confirmed. The Dwyer claim is partly confirmed.
 
 Method: `faster_whisper.audio.decode_audio` at 16 kHz over the two published extracts

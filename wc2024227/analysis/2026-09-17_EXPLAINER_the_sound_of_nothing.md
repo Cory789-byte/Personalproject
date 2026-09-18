@@ -57,15 +57,15 @@ objected to.
 
 | | |
 |---|---|
-| the gap | **−62.2 dBFS** |
-| median inter-turn gap | −40.0 dBFS |
-| next quietest gap of 29 | −51.8 dBFS |
-| median second of the hearing | −31.7 dBFS |
-| **the ten quietest seconds of the entire recording** | **all inside this one, consecutive** |
+| the gap | **−63.5 dBFS** (full audio; the MP3 extract read −62.2) |
+| median inter-turn gap | **−49.0 dBFS** (267 gaps; the extract sample gave −40.0) |
+| ⚠ next quietest gap | **−64.2 dBFS** — quieter; the silence ranks **5 of 267** by level, but **1 of 40** among gaps ≥2 s |
+| median second of the hearing | **−42.2 dBFS** (15,484 windows) |
+| ⚠ ~~the ten quietest seconds of the recording~~ | ~~all inside this one~~ — **RETRACTED 18 Sep, see `2026-09-18_FULL_RUN_corrections.md`**; on the full audio none of the ten is inside it |
 | median Shepherd→Dwyer handover | 0.54 s → **this was 10.6×** |
 
-Against a normal second of that room: **43× lower sound pressure, about 1,800× less acoustic
-energy.** Perceptually, roughly an order of magnitude quieter — not "hushed", a different regime.
+Against a normal second of that room: **23.4 dB down — about 15× lower sound pressure.**
+(The extract-based figures of 32.6 dB and 43× were inflated by an unrepresentative sample.)
 
 ---
 
