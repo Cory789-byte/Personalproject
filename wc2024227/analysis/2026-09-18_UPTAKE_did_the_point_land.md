@@ -434,3 +434,25 @@ Dwyer's hand-overs of agenda control, in order: 31:39 (*"if you want it to be"*)
 interrupting me"*), 63:15 (*"if you want to have a think"*). All four fall after 29:17. Before
 29:17 the instructions ran the other way: 10:18 *"keep it simple"*, 22:05 *"you can tell me in
 two minutes"*, 26:39 *"forget all these documents"*.
+
+### 8.4 Did the appellant's delivery rise with the bench's concessions?
+
+Whole-hour trends in the appellant's level, pitch and rate: none (slope 0.001 dB/min p=0.96;
+−0.007 st/min p=0.48; +0.008 wps/min p=0.16). Before vs after 29:17: −1.30 vs −0.69 dB, p=0.20.
+
+| phase | segs | dB vs base | st | wps | words/turn | hedges /1k | initiative % | word share % | Dwyer cut-ins /turn |
+|---|---|---|---|---|---|---|---|---|---|
+| A 0–29:17 | 85 | −1.30 | −0.01 | 2.84 | 15.1 | 10.5 | 8 | 14.4 | 5/38 |
+| B 29:17–31:59 | 10 | **+1.73** | **+0.86** | 3.02 | **32.5** | **0.0** | **50** | 12.2 | 0/2 |
+| C 31:59–53:41 | 94 | −0.52 | +0.20 | 3.24 | 11.6 | 10.0 | 6 | 17.9 | 3/52 |
+| D 53:41–end | 20 | −2.70 | −1.06 | 3.35 | 8.5 | 21.5 | 9 | 5.2 | 2/11 |
+
+10-minute bins: trough at 10–20 min (−2.88 dB, hedges 18.3/1k), rise through 20–30 (+0.02 dB,
+hedges 3.0/1k, word share 25.8%, his largest), peak 30–40 (+0.81 dB). 10–20 vs 30–40: p=0.009.
+The rise begins at 21:29 (*"Could I give you a simplified…"*, his own initiative) and is at its
+peak in phase B, before the first grant at 31:39/31:59. After the grants the delivery returns to
+baseline; phase D is short answers inside the bench's item-by-item run-through (5.2% of words),
+with corrections of the bench still present (*"So that's a different subject"* 53:49, *"I have
+everything for this"* 54:47).
+
+Direction: the rise precedes the concessions and does not continue after them.
