@@ -2016,3 +2016,92 @@ window is reading impression, not signal.**
 
 **Next observation: Friday 25 September.** Read it in the E28 watchlist order, then hold it against
 the 30th before classifying. **OUTCOME:** ______
+
+---
+
+### E30 · ⭐⭐⭐ Bayesian run on the assumption that authenticity was never a real concern (21 Sep)
+
+**Run on request.** The assumption is given, not derived — but §1 shows the evidence supports it
+independently, which is why the run is worth making.
+
+## 1 The hypothesis space — if authenticity was never real, what were the fourteen disputes for?
+
+| | Hypothesis | Strategic meaning |
+|---|---|---|
+| **H1** | a **mechanical rule** applied under time pressure | no strategy at all |
+| **H2** | ⚠ **preserved optionality** — keep an objection live as a hearing card | **the only hypothesis that predicts they do NOT concede** |
+| **H3** | **standing provenance practice** — never admit the other side's copies | institutional habit |
+| **H4** | **burden transfer** — make him prove it up and hope it deters | tactical but shallow |
+
+**Evidence, and the likelihood each hypothesis assigns it:**
+
+| Evidence | H1 | H2 | H3 | H4 |
+|---|---|---|---|---|
+| **Ea** the split is perfectly clean — **14/14 from his records disputed, 16/16 from theirs admitted, zero exceptions** | .90 | .25 | .90 | .50 |
+| ⭐⭐ **Ei** **three of the fourteen break the premise**: **Tab 6** sits on their **own** amended List of Documents (attachment to item 25); **Tab 20** is on the **Commission's own file**; **Tab 1** is the role description **Metro South served on him** as RFMI Attachment 2 | .85 | **.12** | .75 | .35 |
+| **Ee** verdicts filled by a **pypdf script**, 7 Sep 16:42 — the cover letter drafted separately in the legal register | .90 | .30 | .70 | .50 |
+| **Eb** 298 admitted, **0 denied**, no assertion anywhere | .60 | .30 | .70 | .50 |
+
+**Posteriors** (prior .35 / .25 / .25 / .15):
+
+| | Prior | **Posterior** |
+|---|---|---|
+| H1 mechanical | 35% | ⭐ **61.7%** |
+| ⚠ **H2 preserved optionality** | 25% | ⛔ **0.3%** |
+| H3 standing practice | 25% | **35.3%** |
+| H4 burden transfer | 15% | **2.8%** |
+
+⇒ ⭐⭐⭐ **H2 collapses to a third of one per cent.** The single most decisive item is **Ei**: a party
+preserving an objection as a card does not dispute a document sitting on **the Commission's own
+file**, nor one it served on him itself. **H1 + H3 = 97%**, and both mean the same thing —
+*no reason to maintain it once asked squarely.*
+
+## 2 The conditional, and the result that matters
+
+P(concede the thirteen | H): H1 **.88** · H2 **.15** · H3 **.70** · H4 **.80**
+(H3 is stickier than H1 — a standing practice concedes *"for the purposes of the proceeding"* or
+offers inspection rather than conceding outright.)
+
+| | |
+|---|---|
+| **P(concede \| a substantive letter arrives)** | ⭐ **81.2%** |
+| P(substantive letter on/by 25 Sep) — E29 prices S5 at 16 | 84% |
+| **P(conceded ON or BY the 25th)** | **68.2%** |
+| **E28 FINAL** | **70** |
+
+⇒ ⭐⭐⭐ **The assumption does not move the headline number. It relocates the uncertainty entirely.**
+**The open question was never whether they concede. It is whether the 25th is the day.**
+⇒ E28's 70 and this 68 agree by coincidence of construction: E28 priced doubt about *the position*;
+this run shows the doubt is almost all about *the timing*.
+
+**And the form of it, which E28 did not price:**
+⇒ **flat concession 62% · qualified 38%** (*"admitted for the purposes of the proceeding"*, or an
+inspection offer). **A qualified concession is still a concession and scores F2.2.**
+
+## 3 ⛔ Two corrections this run forces on my own earlier reads
+
+**(a) The Emergency Code Register refusal is re-read.** I treated facts 228–231 as the one
+*substantive* refusal — a considered decision to keep the March intensity out. ⛔ **On H1/H3 at 97%
+it is the same column rule**: Tab 31 is a screen capture from his records. ⇒ **Not a judgement about
+the March shifts. The same mechanical rule, applied to the same class of document.**
+
+**(b) ⭐⭐ And the larger consequence.** If authenticity was never real and the substance was fully
+admitted, then across **303 facts and 30 documents the Regulator has not taken a single genuinely
+adversarial position on the evidence.** The only adversarial content in the entire 8 September
+response is **the cover letter's reservations block**.
+⇒ A respondent that has contested nothing evidentiary has left itself only the characterisation
+argument — **and fact 303 admits that paragraph 27 identifies no management action.**
+
+## 4 ⚠ The falsifier — state it before the letter arrives
+
+⛔ **If the 25 September letter maintains the thirteen *with stated reasons*, H2 revives sharply and
+this entire run is wrong.** A reason is the one thing a mechanical rule cannot produce.
+
+| What arrives | What it means |
+|---|---|
+| conceded, flat or qualified | H1/H3 confirmed — **score F2.2 correct** |
+| maintained, **no reason given** | still mechanical; the rule is just stickier. H2 rises modestly |
+| ⛔ **maintained WITH reasons** | **H2 revives; E30 falsified; re-run before anything else** |
+| silent on the thirteen entirely | holding reply — classify with the 30th per E28.1 |
+
+**OUTCOME:** ______
