@@ -168,3 +168,27 @@ does, or hold it and leak — filled pauses, restarts, losing the thread. **He d
 ⇒ The "too fast" complaint is a mislabelled load complaint. He runs at a perfectly ordinary
 171 words a minute and **transfers the assembly work to the listener** — work that the
 Commissioner's grammar performs for his listeners free of charge.
+
+## Worked expansion: what the compression removes
+
+As spoken, 29:17.88–29:39.88 (60 words):
+
+> so for me it was direct calls to this number, but this number is an emergency contact, and then
+> those doctors, the ones that get called for an emergency, they're sent to the wrong side of the
+> room, they're not sent to someone having a cardiac arrest, they're not sent to someone in
+> respiratory distress, we're now not even contacting them by their numbers.
+
+The same content with the reasoning stated in the Commissioner's construction (112 words):
+
+> The issue for me was that staff were directed to make calls directly to this number. However,
+> this number is an emergency contact, which means that when it is used for routine matters the
+> doctors who are called for an emergency respond as though there is one. As a result they are sent
+> to the wrong side of the room, because the call did not come from someone having a cardiac
+> arrest or someone in respiratory distress, so the emergency response is diverted from where it
+> is needed. The consequence now is that we are no longer contacting those doctors by their own
+> numbers at all, which means the ordinary channel has been lost as well.
+
+Ratio 1.9×. Every word removed is a linking word (*however, which means, when, as though, as a
+result, because, so, consequence*) or a description that a pointer replaces (*this number, those
+doctors, the wrong side of the room*). No content noun is removed. The compression is of
+structure, not of facts.
