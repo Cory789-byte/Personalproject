@@ -380,3 +380,29 @@ one's own initiative, 34 minutes after the triggering event, is **what survived.
 The first grant at 31:59 — *"if you want it, you can have it"* — changed the **disposition**. It is
 a grant of choice. 62:27–62:57 changed the **view**. It is the only one of the seventeen that
 contradicts something he had said on the same point earlier in the hour.
+
+### 8.2 The appellant's reaction to *"if you want it, you can have it"* (31:59.84)
+
+Measured on the full 16 kHz decode; baselines are the appellant's own medians (62.2 dB, 137.1 Hz).
+
+| Time | Speaker | Text | dB vs own base | pitch vs own base | rate |
+|---|---|---|---|---|---|
+| 31:59.84–32:02.78 | Dwyer | *"…and if you want it, you can have it."* | −2.8 | +1.70 st (contour 147→126 Hz, falling) | 4.08 wps |
+| 32:02.78–32:03.89 | — | gap: 0.75 s at −64.9 dBFS floor; one LF-dominant click at 32:02.95 (−53.5 dBFS, not a breath) | | | |
+| 32:03.89–32:05.12 | Shepherd | *"I think I can"* | −3.4 | +2.54 st; onset 184 Hz (+5.1 st) falling to 139 Hz (base) | 1.71 wps |
+| 32:05.12–32:06.82 | Shepherd | *"understand where you're getting at"* | +0.9 | +0.13 st | 2.94 wps |
+| 32:06.82–32:08.32 | Shepherd | *"I think I can meet"* | +1.1 | +1.00 st | 3.33 wps |
+| 32:08.32–32:10.84 | Shepherd | *"most of the way, I understand how"* | +0.2 | +0.67 st | 2.78 wps |
+| 32:10.84 | Dwyer | *"Have you had discussions with the regulator…"* — takes the turn mid-sentence | | | |
+
+Ranks among the appellant's 100 turn-openers after another speaker:
+- latency 1.10 s — 12th longest of 100 (his median 0.32 s, p75 0.65 s). Whisper had attached the gap to his segment (start 32:02.78); the acoustic onset is 32:03.89.
+- opener level −3.4 dB — 21st quietest of 90 with prosody.
+- opener pitch +2.54 st — 9th highest of 90 (median opener 0.01 st).
+
+Lexical: no *yes*, *thank you*, *I'll take it*, *I want it* anywhere in 31:59–32:41. The reply is
+*"I think I can understand where you're getting at … I think I can meet most of the way"* — a
+meeting formula, not an acceptance formula. *"I think I can"* occurs 3 times in his whole hour,
+*"meet"* and *"most of the way"* once each, both here. The pitch-high, level-low, slow onset
+(1.71 wps against his 4.24 articulation norm) returns to baseline level and pitch within 1.2 s and
+is cut off by Dwyer at 32:10.84 before the sentence is complete.
