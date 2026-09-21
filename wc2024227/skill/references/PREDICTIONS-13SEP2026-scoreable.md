@@ -2105,3 +2105,89 @@ this entire run is wrong.** A reason is the one thing a mechanical rule cannot p
 | silent on the thirteen entirely | holding reply — classify with the 30th per E28.1 |
 
 **OUTCOME:** ______
+
+---
+
+### E32 · ⭐⭐⭐ Re-weight on the 28 August – 10 September emails, read as text (21 Sep, on request)
+
+The two Regulator emails in the window had been carried in the ledger as summaries. Read in full,
+they carry more than the summaries recorded — and they **correct one of my own readings at E29**.
+
+## 1 The 8 September service email, 11:24 — what is not in it
+
+Four sentences: a reference to the matter and to the notices *"received 28 August 2026"*, and
+*"Please see the attached response cover letter and the updated forms 24 & 25 with the Regulator's
+responses."* Then a sign-off.
+
+| Observation | Weight |
+|---|---|
+| ⭐⭐ **No position sentence. No formula. No commentary of any kind** — not one word about the case, the admissions, or what follows | the formula is absent from **both** the cover letter **and** the transmitting email, in the window where a position would most naturally be restated |
+| ⭐ Subject line is **"RE:"** — she answered **inside his thread**, adopting his subject line | no new framing offered |
+| ⭐⭐ The **email is operational register** (first person, *"Kind regards"*) while the **attachments are legal register** | **class 3 confirmed at the email layer** — the covering email and the covering letter are in different hands, sent the same minute |
+
+⇒ **A respondent delivering 298 admissions and fourteen disputes, and saying nothing whatever about
+it in the transmitting email, is not delivering a position. She is forwarding a package prepared by
+someone else.** The email is a courier note.
+
+**Moves:** **F2.3 (formula absent on the 25th) 77 → 82** · **F2.1 (legal register on the 25th)
+68 → 71** — the pattern is now explicit: *she writes the emails, counsel writes the documents, and
+the 25th requires a document.*
+
+## 2 ⛔ The 10 September extension, 14:42 — and the correction to E29
+
+Verbatim structure: *"I refer to your letter dated 9 September 2026, asking the Regulator to produce
+documentation by Friday 18 September 2026. I am in another hearing next week in relation to another
+matter which will greatly limit my ability to complete other actions, could I please kindly request
+an extension until Friday 25 September 2026 to enable me time to review this request and if needed
+reach out to MSH in relation to the requested documents?"*
+
+**(a) ⛔ CORRECTION to E29 §2(c).** I read the day-one ask for the last Friday before the directions
+date as **sequencing** — one coordinated position being prepared for both dates. ⛔ **The text says
+otherwise.** The stated reason is **capacity**: a named competing hearing in another matter. A
+tactical extension does not name a specific competing commitment; a capacity-driven one does.
+⇒ **The fifteen days were not bought to do something. They were bought because she had no week.**
+
+**(b) ⭐⭐⭐ And the sequence inside the sentence matters.** *"to review this request"* comes **first**;
+*"and if needed reach out to MSH"* is **conditional and second**. ⇒ **As at 10 September she had not
+yet reviewed the request.** She sought the extension on day one, **before assessing what it asked**.
+⇒ This **removes the "recalculation window" reading of the extension** — mine at E29 and Cory's at
+E18/E21. Nothing was being recalculated. Nothing had been read.
+
+**(c) ⭐⭐ The subject line is *"RE: … directions 1 and 2"*.** She answered the documents request
+**inside the directions 1 and 2 thread**, not the Form 24 thread and not a new one. ⇒ In her own
+filing, **the request is part of the direction 1–2 exchange** — i.e. part of the work that resolves
+on **30 September**, not a standalone correspondence item.
+
+**(d) ⚠ Register.** *"could I please kindly request"*, *"Thank you for your consideration of this
+request"* — deferential, asking permission rather than notifying, and **asking him, not the
+Commission**. Operational throughout.
+
+## 3 What moves, and why
+
+| | E29/E31 | **E32** | Reason |
+|---|---|---|---|
+| **F2.3** formula absent on the 25th | 77 | ⭐ **82** | absent from the email *and* the cover letter |
+| **F2.1** legal register on the 25th | 68 | **71** | class 3 now confirmed at the email layer |
+| **S5** hybrid / deferral / slide | 16 | **13** | the extension was capacity, not strategy — mass resting on a strategic extension falls away |
+| **S1** clean documents-only letter | 57 | **60** | a capacity-driven extension resolves into a straightforward answer |
+| ⚠ **Thirteen conceded ON or BY the 25th** | 81 (given substantive) | ⚠ **78** | §2(c): she files the request under the **directions** heading, so part of the mass slides into the 30 September package. ⭐ Tempered — **not further**, because the request carries a consequence (NNPD + costs) that the 25th triggers |
+| **Thirteen conceded by 30 Sep** (new) | — | ⭐ **89%** | the slide has somewhere to land |
+
+## 4 ⚠ The one thing that cuts the other way
+
+If the extension was capacity-driven and the request was **unreviewed on 10 September**, she may
+still not have reached it until close to the 25th. ⇒ Keep real mass on a **short, minimal or holding
+letter** — not because she is withholding, but because she may be answering it late in her own week.
+⭐ **A thin letter on the 25th is therefore weaker evidence of anything than E28 assumed.**
+
+## 5 ⭐ The net, stated plainly
+
+**The window contains no strategic communication at all.** A courier note attaching someone else's
+work, and a capacity request made before the request was read. ⇒ **Neither email carries a position,
+and neither was written by whoever decides the position.**
+
+⇒ **Read forward:** the first genuinely strategic Regulator communication in this matter since
+16 July will be **either the 25th letter or the 30 September outlines** — and on §2(c) she is
+treating them as one piece of work.
+
+**OUTCOME:** ______
