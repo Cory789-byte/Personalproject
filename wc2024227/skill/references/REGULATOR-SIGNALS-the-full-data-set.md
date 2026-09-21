@@ -118,3 +118,28 @@ Both position-mode replies anchor to **"our Statement of Facts and Contentions"*
 **Verified:** every date, latency, author field, verdict count, quoted sentence, and appearance date above.
 **Inferred:** every "presumes" line; the reading of the 25th as sign-off; the identity of "Peter"; what MSH is told and when.
 ⛔ The verified layer is usable in a costs argument under WCRA s 558(3). The inferred layer is for prediction only and must never reach paper.
+
+
+---
+
+## ⭐ WATCHLIST UPDATE — 21 September 2026 (E29)
+
+**Fired since 13 Sep:** R14 (8 Sep response, legal register, no formula) · R16 (10 Sep extension,
+operational, day-one ask for the last Friday before the directions date).
+
+**Did NOT fire in the eleven-day window to 21 Sep, and each absence is scored at E29 §2:**
+| Item | Status at day 11 of 22 |
+|---|---|
+| Variation or deferral sought on the 30 Sep directions | ⛔ **nothing** → S5 19 → 16 |
+| Appearance email naming counsel | ⛔ **nothing** → F2.4 40 → 33 by 30 Sep |
+| Any further Regulator contact of any kind | ⛔ **nothing** → on-model; class 1 satisfied |
+
+⛔⛔ **Standing assumption-check added at E29 §3:** the Form 24, Form 25 and the 8 September response
+are **served, not filed**. Nothing about the 298 admissions is before the Commission. Every
+Commission-mediated path in the scenario set assumed otherwise.
+
+⚠ **Mailbox caution:** the Regulator serves `coryshepherd1@hotmail.com`. The Gmail account holds only
+his own ingest forwards. **Absence in Gmail is not evidence of non-receipt.**
+
+**Next two observations:** Fri **25 Sep** (R17 — read in the E28 watchlist order) · Wed **30 Sep
+4 pm** (R18 — directions 3 and 4). ⭐ **Classify only on the pair, per E28.1.**

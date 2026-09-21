@@ -1929,3 +1929,90 @@ fight, and it is the strongest non-numerical support yet for the concession read
 ⚠ Limits: a mention is not a ruling; Guide 7.1 puts a different Member on the hearing; binds nobody.
 Numbers unchanged (E28 stands) — this raises confidence in the read, not the probabilities.
 **OUTCOME:** ______
+
+---
+
+### E29 · ⭐ The eleven-day window (21 Sep) — what silence between 10 and 21 September does, and does not, signal
+
+**Run on request, 21 September 2026.** Ledger current at 30 rows; `comms_signals.py report` clean.
+Nothing inbound from the Regulator since **R16, 10 September 14:42**.
+
+## 1 ⛔ The first and most important finding: the silence is not a signal
+
+**Class 1 (timing-by-consequence) predicted it.** *"anything he sets without a consequence attached
+will be answered at the limit or late… **The 30th will be met. The 25th will be used in full.**"*
+
+⇒ **Eleven days of nothing on a fifteen-day extension is the model running to specification.**
+⛔ **It carries no information and must not be read as reluctance, collapse, or concession.**
+⚠ ⭐ **And it cannot be read from the Gmail account at all** — the Regulator writes to
+`coryshepherd1@hotmail.com`; `bolandsframeworks@gmail.com` has only ever held his own ingest
+forwards. **Absence there is absence of a mailbox, not absence of a letter.**
+
+## 2 What IS new, and it is three small things
+
+**(a) ⭐⭐ No variation sought on the 30 September directions — day 11 of 22.**
+Every deferral path in E28's S5 block (19: a 6 · b 4 · c 4 · d 3 · e 2) runs through someone asking
+to move or defer direction 3 or 4. **Nobody has asked.** A party intending to slide the outlines
+signals it before the last week, not in it.
+⇒ **S5 19 → 16**, the 3 points to **S1 55 → 57**. **B3 (directions met on the 30th) firms.**
+
+**(b) ⭐ No appearance email naming counsel — day 11 of 22.**
+F2.4 priced 40% by 30 September. Willson appeared for the three contested pleading listings and was
+absent for **22 May** and **7 Aug**, both exchange steps. The 30th is an exchange step.
+⇒ **F2.4 40 → 33 by 30 Sep** (unchanged at 80% by listing).
+
+**(c) ⚠ The extension shape, re-read at distance.**
+On 10 September it read as ordinary. Eleven days of silence re-reads it: **a day-one ask for the
+last Friday before the directions date, and then no further contact of any kind**, is one
+coordinated position being prepared for both dates — not two answers. ⇒ Mild support for **S1**
+(the clean, self-sufficient letter) over S2/S3, and direct support for **E28.1**: *read the 25th
+with the 30th before concluding anything.*
+
+## 3 ⛔⛔ The structural finding, and it corrects an assumption under the whole F-series
+
+**The Form 24, the Form 25 and the 8 September response are served, NOT filed.** Rule 49 provides
+for service and is silent on filing; the covering letter of 9 September filed **only the witness
+list**, and says so. The email that would put the complete admitted record before the Commission is
+drafted and held at `drafts/out/SEND_9SEP2026/HOLD_AFTER_11SEP_…`, its condition met on 8 September.
+
+⇒ **Nothing about the 298 admissions is on the Commission's file.**
+⚠ Every scenario that runs through a Commission reaction — a conference proposal, an indication, a
+listing shaped by the admissions — assumed a Commission that can see the record. **It cannot.**
+⇒ This does not move Regulator-behaviour numbers (she knows what she signed). It **caps the
+Commission-mediated paths**: S5(b) and S5(c) require someone to ask for a conference, and a Member
+asked to shape one has nothing in front of him. ⇒ **Reinforces that the next two moves are
+Regulator-side and document-side.** Recorded as a standing assumption-check, not a re-score.
+
+## 4 EMP track — two overdue, and the pattern reading is not what it looks like
+
+| | Overdue | MSH median inbound latency |
+|---|---|---|
+| **E10** (RFMI 2.1–2.3 + two SNP forms, due 12 Sep) | ⚠ **9 days** | **1 day** |
+| **E09** (information-handling, due 18 Sep) | **3 days** | |
+
+⚠ Nine days is far off MSH's **1-day** operational median — **but both requests carried no
+consequence**, and the 2024 substrate has MSH at **23 days on the fatigue enquiry (money)** and
+**never** on the two Integrated Respiratory Service emails. ⇒ **Off-pattern for operational,
+on-pattern for decision-bearing.** The classifier says these were read as decisions, not admin.
+⇒ **E09's "acknowledgement 70%" is now trending against**; score it if the 25th passes with nothing.
+
+## 5 The updated board
+
+| | E28 FINAL | **E29 (21 Sep)** |
+|---|---|---|
+| S1 clean documents-only | 55 | **57** |
+| S2 matter-addressed | 17 | 17 |
+| S3 hold-the-line | 6 | 6 |
+| S4 concession by letter | 3 | 3 |
+| S5 hybrid/deferral/slide | 19 | **16** |
+| Thirteen conceded on/by the 25th | 70 | 70 |
+| Legal register | 68 | 68 |
+| Formula absent | 77 | 77 |
+| F2.4 counsel named by 30 Sep | 40 | **33** |
+
+⇒ **No quantity moved more than 3 points, and that is the correct result.** Eleven days of
+predicted silence is confirmatory, not informative. ⛔ **Anyone reading a large move out of this
+window is reading impression, not signal.**
+
+**Next observation: Friday 25 September.** Read it in the E28 watchlist order, then hold it against
+the 30th before classifying. **OUTCOME:** ______
