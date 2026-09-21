@@ -24,7 +24,10 @@ a page turn, a chair, a cough, a breath — lands above it.
 | 63:36.18 | 1.78 s | −54.1 | movement + voice |
 | 64:30.52 | 1.62 s | −50.8 | voice at −20.6 dBFS |
 
-**The 5.74 s gap has the lowest floor of any gap in the sample by 11.6 dB.**
+~~**The 5.74 s gap has the lowest floor of any gap in the sample by 11.6 dB.**~~
+
+> ⚠ **Superseded, 21 September 2026.** Extract-based (9 gaps). On the full recording it ranks
+> **5 of 267** by level and **1 of 40** among gaps ≥2 s. See `2026-09-18_FULL_RUN_corrections.md`.
 
 ---
 

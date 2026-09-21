@@ -54,6 +54,12 @@ This one does not.
 | +5.00 s | −59.5 (rising — the Commissioner draws breath) |
 
 **The floor drops 11.6 dB within a quarter of a second and holds for five and a half seconds.**
+
+> ⚠ **Correction, 21 September 2026 — the drop is ordinary; the hold is not.** Room-drop with voice
+> tail removed ranks **99 of 198** (median). The deepest instantaneous drop in the hearing is at
+> **34:38.94** (27.3 dB, after *"Anyway."*), which reached the same floor by +1.0 s and was then
+> refilled by a −34 dBFS event at +1.75 s. This gap was not refilled. The distinguishing property is
+> **non-resumption**, not speed of onset.
 That is not a speaker pausing. That is a room stopping.
 
 ---

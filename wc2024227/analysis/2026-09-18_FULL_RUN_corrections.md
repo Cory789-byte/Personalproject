@@ -130,3 +130,46 @@ lapses when the stakes drop or the hour wears on. Neither lapse occurs.
 **What the data cannot distinguish** is "never needed to try" from "tried uniformly for 65 minutes
 without a single lapse." What it does exclude is the ordinary middle case — concentrating on the
 parts that matter and letting the rest go. That pattern is absent.
+
+---
+
+## ⚠ RETRACTION 3 — "the floor fell 11.6 dB in 250 ms" as evidence of synchronised freezing
+
+**The drop was ordinary.** Measured for all **198** inter-turn gaps of ≥0.60 s:
+
+| measure at 29:39.88 | value | rank of 198 | share of gaps that beat it |
+|---|---|---|---|
+| total drop, speech → +300–500 ms | 18.7 dB | 56 | 27.8% |
+| **room drop, voice tail → +300–500 ms** | **10.2 dB** | **99** | **49.5% — the median** |
+| absolute level at +300–500 ms | −63.5 dBFS | 30 | 14.6% |
+
+Every gap drops fast, because voice decay is fast. Once the tail is removed, this gap's onset is
+exactly median. **The inference from drop speed to a synchronised orienting freeze is withdrawn.**
+
+### The control: 34:38.94, the gap that dropped harder and did not hold
+
+After the appellant's *"Anyway."* — the deepest instantaneous room-drop in the hearing, **27.3 dB**:
+
+| offset | 34:38.94 | 29:39.88 |
+|---|---|---|
+| +0.50 s | −63.7 | −64.4 |
+| +1.00 s | **−65.7** | −64.9 |
+| +1.25 s | −52.1 | −64.6 |
+| +1.75 s | **−34.2 — an event at near-speech level** | −65.5 |
+| +2.25 s | −64.2 | −65.7 |
+| +4.00 s | −64.0 | −64.1 |
+
+Same floor, reached at the same rate. Then at +1.75 s something moved — the Commissioner locating
+*"Unilateral destruction of work health and safety"* in the document — and the gap was refilled.
+
+At 29:39.88 nothing moved. **4.88 seconds with no event above the floor.**
+
+### What survives
+
+The distinguishing property of the 5.74 s is **non-resumption**, not speed of onset. In every
+other gap in the hearing that reached this floor, the room restarted within one to two seconds —
+paper, a chair, the next speaker. This is the only one in which it did not.
+
+The orienting-response reading survives on that basis: the freeze is the *hold*, not the *drop*.
+The earlier claim that the 250 ms onset showed everyone stopping in the same instant is not
+supported and is withdrawn.

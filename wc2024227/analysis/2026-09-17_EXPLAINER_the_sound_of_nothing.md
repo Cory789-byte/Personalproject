@@ -98,7 +98,14 @@ chair. A page settling. A pen set down. Breathing. Somebody re-crossing their le
 to produce any of it; bodies simply do not hold still, and the sum of all of it is what a room
 sounds like when it is full of people who are only half-attending.
 
-The measured floor fell **11.6 dB in 250 milliseconds** and held for **4.88 seconds**.
+The measured floor fell 11.6 dB in the first 250 ms and held for **4.88 seconds**.
+
+> ⚠ **Correction, 21 September 2026.** The *speed* of that fall is **ordinary**: with the voice tail
+> removed, the room-drop at this gap ranks **99 of 198** gaps in the hearing — the median. Every
+> gap drops this fast, because voice decay is fast. **The drop is not evidence of synchronised
+> freezing.** What distinguishes this gap is the **hold**: in every other gap that reached this floor,
+> something moved within one to two seconds. Here nothing did for 4.88 s. See
+> `2026-09-18_FULL_RUN_corrections.md` §"The drop".
 
 You can choose not to speak. **You cannot choose to switch off the ambient noise of your own body —
 unless you are holding still.** For the floor to drop that far, that fast, and stay there, several
