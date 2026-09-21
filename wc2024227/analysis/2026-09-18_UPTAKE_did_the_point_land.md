@@ -456,3 +456,18 @@ with corrections of the bench still present (*"So that's a different subject"* 5
 everything for this"* 54:47).
 
 Direction: the rise precedes the concessions and does not continue after them.
+
+### 8.5 The same acknowledgement twice, 110 s apart, and the two responses
+
+Amendment A1 stands: 30:12.98 *"Yeah, I actually understand what you're getting at"* is the
+appellant. The Commissioner's *"If we can't get to that, I'm going to schedule this disclosure
+dispute for a hearing"* at 30:14.96 (+9.0 dB, +5.93 st, his loudest and highest in the passage)
+is spoken over the top of it — the only talk-over in the recording.
+
+| time | appellant | Commissioner's response | gap |
+|---|---|---|---|
+| 30:12.98 | *"Yeah, I actually understand what you're getting at"* | over-talks at +9.0 dB to finish the enforcement; then 30:20 onward the burden becomes two-sided | −2.0 s (overlap) |
+| 32:03.89 | *"I think I can understand where you're getting at, I think I can meet most of the way"* | zero-gap re-entry on the appellant's framing, moves to terms | 0.00 s |
+
+Identical formula from the appellant, opposite treatment 110 s apart. The first acknowledgement
+precedes the adjustment (30:20–31:00) by seven seconds; the second precedes the terms.
