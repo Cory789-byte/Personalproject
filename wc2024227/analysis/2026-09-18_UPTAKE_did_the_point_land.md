@@ -328,3 +328,55 @@ Two things are true and the earlier text collapsed the second into the first:
 
 The vocabulary finding in §3 stands. The "returned to his opening position" summary is
 incomplete without §8.
+
+### §8.1 — The largest of the seventeen: 62:27–62:57, a reversal on the same object
+
+Of the seventeen, sixteen are new grants or general concessions. **One reverses a specific prior
+position on the same referent — the Taylor emails.**
+
+| | 28:04–28:49 (before) | 62:27–62:57 (after) |
+|---|---|---|
+| the premise | *"the argument might not be about whether you received emails… the argument might be about whether or not they're correctly categorised by you as unassessed directives"* | *"those are going to be more about the character of those emails as opposed to whether they were actually sent or not"* — **the same premise, restated** |
+| the conclusion drawn from it | *"**So you don't need the emails** to prove that the emails are unassessed directives"* | *"so the fact that you make the assertion that you were sent these emails **needs to be addressed by the regulator, and to that end they're likely going to produce them**"* |
+| the appellant's term | *"as unassessed directives… **you've placed subjectively a characterisation** on these emails"* | *"**the unassessed directives** or whatever, you might be on to something there. **They might have an obligation to provide those**"* |
+
+**Same analysis. Opposite conclusion. Thirty-four minutes apart.** The premise — character versus
+existence — is carried over intact. What changes is what he is prepared to conclude from it.
+
+### Where the energy is
+
+| | dB vs baseline | st vs baseline |
+|---|---|---|
+| 62:27.54 *"the unassessed directives or whatever, you might be on to"* | +1.6 | +0.64 |
+| **62:35.96 *"they're likely to come out one way or the other"*** | **+4.9** | **+2.85** |
+| 62:55.90 *"needs to be addressed by the regulator"* | −0.6 | −1.30 |
+
+The hedges — *might*, *or whatever* — sit at baseline. The loudest, highest point in the passage is
+the **prediction that the documents will emerge.** The commitment is on the substance; the hedging
+is packaging.
+
+### Why that moment
+
+It is in his **closing directions** — the appellant's last substantive turn before it was *"No"* /
+*"All right"* at 61:37. Nobody asked. He raised the emails himself, in the part of the hearing he
+controls completely, while summing up what the appellant should do next.
+
+A concession under questioning is a response. A reversal volunteered in one's own summary, on
+one's own initiative, 34 minutes after the triggering event, is **what survived.**
+
+### Cognitively
+
+1. **Persistence.** The 5.74 s was the orienting event. The updated conclusion re-emerges unprompted
+   half an hour later, in his own frame, in his own agenda. That is consolidation, not reaction.
+2. **Same premise, different inference.** A politeness concession drops the analysis. He kept the
+   analysis and changed what followed from it. That is the signature of a revised belief rather
+   than a softened tone.
+3. **Adoption of the term he had flagged.** At 28:33 *"unassessed directives"* was *"a
+   characterisation you've placed subjectively."* At 62:27 it is the label he reaches for — with
+   *"or whatever"* acknowledging whose term it is, and using it anyway.
+4. **Energy on the prediction, not the hedge.** +4.9 dB / +2.85 st on *"they're likely to come
+   out."* The dispreferred-response wrapping is audible at baseline; the content is not.
+
+The first grant at 31:59 — *"if you want it, you can have it"* — changed the **disposition**. It is
+a grant of choice. 62:27–62:57 changed the **view**. It is the only one of the seventeen that
+contradicts something he had said on the same point earlier in the hour.
