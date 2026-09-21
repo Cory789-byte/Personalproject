@@ -251,3 +251,80 @@ enough throwaway turns for (a) and a clean early/late contrast for (b).
 
 What is not in doubt is the outcome in the room: **no one asked him to repeat anything, once, in
 sixty-five minutes.**
+
+---
+
+## 8. ⚠ Correction to §3 and to the "returned to his opening position" reading — 21 September 2026
+
+§3 records that the clinical *vocabulary* did not re-enter the Commissioner's own speech after
+29:17. That stands. But the file's framing — and the chat summaries built on it — over-weighted
+"he went back to his opening position" and under-weighted what his **stance** did. The participant
+pointed this out. Counted:
+
+### Concessive / granting language from the bench, same regex both windows
+
+| window | length | instances |
+|---|---|---|
+| before 29:17 | 29 min | **1** — *"totally legitimate"* at 27:26, said of managers directing staff without consultation, i.e. **against** the appellant |
+| after 29:17 | 35 min | **17** |
+
+The seventeen, in order:
+
+| | |
+|---|---|
+| 31:12 | *"I need to decide **whether you're entitled**"* |
+| 31:39 | *"**if you want it** to be"* |
+| **31:59** | *"**if you want it, you can have it**"* |
+| 43:45 | *"there might be some oral testimony"* |
+| 53:34 | *"I'll **leave it up to you** to tell me"* |
+| **57:45** | *"**and you may be right about all of that**"* |
+| 59:21 | *"**I'm not closed to** that idea if you really wish to"* |
+| 59:28 | *"**I'm not closed to** that at all"* |
+| 60:27 | *"**you can come back to me**"* |
+| 61:46 | *"**I'm open to** the parties telling me otherwise"* |
+| 61:50 | *"I'd like to **park** the Form 29"* — not dismiss |
+| 62:00 | *"you can **formulate a view**"* |
+| **62:27** | *"**you might be on to something there**"* |
+| 62:31 | *"They **might have an obligation** to provide those"* |
+| 62:55 | *"**needs to be addressed** by the regulator"* |
+| **63:10** | *"there **might be something to look at**"* |
+| 64:08 | *"if you **still wish to press** any aspect of it"* |
+
+### Fairness check — the thirteen *"you can…"* statements before 29:17
+
+All thirteen are either procedural (*"you can give that evidence," "you can say that," "you can
+raise that"* — the disposal argument that the documents are unnecessary) or not concessive at all
+(*"you can do what you like"* on the AI point; *"you can be directed as an employee"*). **None
+concedes merit or entitlement.** The 17 : 1 holds on category, not only on count.
+
+### *"You may be right about all of that"* — 57:45, in context
+
+> *"…the place in which you worked had a number of failings and problems related to a manager and
+> non-compliance with proper protocol, procedure, legislation, et cetera. I may just be speculating
+> about that but I get the sense that you've got that broader grievance… **and you may be right
+> about all of that** — you don't have to go too far in any organisation to find failures to comply…
+> it happens every single day in every single workplace. It's a question of whether or not there's
+> anything material that arises from any of that."*
+
+A factual concession on the broader grievance, immediately bounded by materiality. Both halves
+are real.
+
+### Returns to the appellant's content after 29:17
+
+**23** — *"you say"* ×9, *"you contend"* ×2, *"you make the assertion"* ×2, *"come back to"* ×4,
+*"what we've talked about"* ×2, and at 62:27 the appellant's own term, *"the unassessed
+directives."*
+
+### Revised reading
+
+Two things are true and the earlier text collapsed the second into the first:
+
+1. He returned to his **procedural** position — efficiency, narrow scope, park rather than hear —
+   and cited his own opening to do it.
+2. His **stance toward the appellant's content** changed, measurably and repeatedly: from zero
+   grants of merit or entitlement in 29 minutes to seventeen in the next 35, with *"you may be
+   right,"* *"I'm not closed to that"* twice, *"you might be on to something,"* and the decision
+   handed back four separate times.
+
+The vocabulary finding in §3 stands. The "returned to his opening position" summary is
+incomplete without §8.
