@@ -406,3 +406,31 @@ meeting formula, not an acceptance formula. *"I think I can"* occurs 3 times in 
 *"meet"* and *"most of the way"* once each, both here. The pitch-high, level-low, slow onset
 (1.71 wps against his 4.24 articulation norm) returns to baseline level and pitch within 1.2 s and
 is cut off by Dwyer at 32:10.84 before the sentence is complete.
+
+### 8.3 The interruption licence (53:34–53:44)
+
+| Time | Speaker | Text | dB vs own base | pitch | rate |
+|---|---|---|---|---|---|
+| 52:31–53:19 | Dwyer | works through the rostering / public-holiday disclosure item (four public holidays, rosters, "is there any other document…") | | | |
+| 53:22.68 | Shepherd | *"I think I actually said that"* | | | |
+| 53:27.76 | Shepherd | *"I'm not asking disclosure about that anymore"* | | | |
+| 53:30.64 | Dwyer | *"Okay, alright, fine, that's okay. We probably should have led with that"* | −2.0 | −0.10 st | 2.79 wps |
+| 53:34.94 | Dwyer | *"I'll leave it up to you to tell me."* | +3.8 | +1.21 st | 5.49 wps |
+| 53:36.70 | Dwyer | *"If we get into anything that you think we don't need to get into,"* | +2.5 | +0.85 st | 5.60 wps |
+| 53:39.26 | Dwyer | *"you tell me and it'll save us some time, all right?"* | +1.8 | −0.98 st | 6.32 wps |
+| 53:41.34 | Dwyer | *"Don't worry about interrupting me on that score, OK?"* | +1.6 | −1.11 st | 3.31 wps |
+
+Trigger: ~50 s spent by the bench on an item the appellant had already dropped and had not
+volunteered until asked directly. Same trait as the 16-minute hold — answers the question put,
+does not pre-empt.
+
+Interruption behaviour across the hour: the only documented overlap is Dwyer over Shepherd at
+30:12.98 (amendment A1). Shepherd's zero-gap turn-starts after a Dwyer segment run 7/37 (19%)
+before 29:17 and 11/61 (18%) after — unchanged — and are sentence completions at Whisper
+boundaries, not talk-overs. The licence at 53:41 authorises the one thing he never did.
+
+Dwyer's hand-overs of agenda control, in order: 31:39 (*"if you want it to be"*), 31:59
+(*"you can have it"*), 53:34–53:41 (*"leave it up to you… you tell me… don't worry about
+interrupting me"*), 63:15 (*"if you want to have a think"*). All four fall after 29:17. Before
+29:17 the instructions ran the other way: 10:18 *"keep it simple"*, 22:05 *"you can tell me in
+two minutes"*, 26:39 *"forget all these documents"*.
