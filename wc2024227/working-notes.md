@@ -7629,3 +7629,20 @@ directly onto the March 2026 "coin flip" and the 7 August investment.
 - Still outstanding: the 16 Aug 2024 employer response attachments (RAW fails at ~15 MB — Cory to
   re-forward in 2-3 attachment chunks, or push from his PC); the 13 Jul 2026 QSuper attachments;
   ~180 further forwards in the second batch not yet pulled; overlap check; FULLTEXT rebuild.
+
+## 2026-09-22 — CIVIL QUANTUM AGAINST MSH, costed on the assumption the appeal succeeds
+New file: `skill/references/CIVIL-QUANTUM-AGAINST-MSH-if-the-appeal-succeeds.md`.
+⛔ TWO PREMISE CORRECTIONS. (1) "Paid for the time off AND the part work" is two losses: the
+certified-incapacity period is compensation (the appeal delivers it); the 2026 exclusion is
+WITHHELD WAGES (the appeal does NOT deliver it) — per `WHAT-ACCEPTANCE-ACTUALLY-DELIVERS.md`.
+(2) ⭐⭐⭐ Statutory compensation is an ADVANCE against damages, not additive — the insurer is
+repaid out of any damages for the same injury. Every "statutory + civil" figure previously in the
+file overstated the total. ⚠ VERIFY the refund mechanism in Ch 5 — section number unknown.
+BALLPARK (total recovery, inclusive of statutory, net of the ART debt): floor $80-150k · central
+$300-500k · strong $500-750k · ceiling >$1M on the Robinson career-loss model · zero if the
+Notice of Assessment is signed without PI advice. Withheld wages from 3 Jul 2026 sit OUTSIDE and
+are genuinely additive (~$19k now, +$3.3k/ftn).
+LEVERAGE ORDER: psychiatric report (sets ~70% of the claim) > the election > the 10 May 2024
+fatigue record > reading Koehler > speed on the appeal > fixing the "clean psychiatric baseline" plea.
+⛔ NEW ACTION, UNDATED CLOCK: the **adverse-action limitation period (IR Act)** has never been
+dated and is the shortest clock in the matter. Date it before anything else in the civil track.
