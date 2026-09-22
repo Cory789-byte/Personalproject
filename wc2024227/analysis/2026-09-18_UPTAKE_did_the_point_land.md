@@ -471,3 +471,22 @@ is spoken over the top of it — the only talk-over in the recording.
 
 Identical formula from the appellant, opposite treatment 110 s apart. The first acknowledgement
 precedes the adjustment (30:20–31:00) by seven seconds; the second precedes the terms.
+
+### 8.6 The bench's model of the appellant, in its own words, in order
+
+| time | his words | what it says about his model of the appellant |
+|---|---|---|
+| 6:49 | *"I'm not being critical of you… but I also need to be very firm"* | the frame: a party to be managed |
+| 9:02–9:53 | *"Is it AI-assisted, can I ask? Because it feels like it… complexities of language that go above and beyond what you'd anticipate from a human being, even a very intelligent human being. I immediately get suspicious… my brain doesn't respond very well to it"* | the documents exceed the person he expects; authorship doubted |
+| 21:46 | *"page after page of what looks like AI generated material, I switch off. I'm a human being too, Mr Shepherd"* | doubt persisting; stated reason for not engaging with the documents |
+| 29:17–29:39 | the fifty words, spoken, unscripted, one *um* at word three | the capability demonstrated live |
+| 29:39 | 5.74 s | |
+| 32:43 | *"…even if you're self-represented"* | practitioner register |
+| 53:30 | *"We probably should have led with that… don't worry about interrupting me"* | the appellant knows the map |
+| 56:36–57:45 | *"I understand you're acting for yourself… in no way at all being critical… you're floundering around a bit… overcooking it… you've got a broader grievance… and you may be right about all of that"* | fault relocated from authorship to volume; substance conceded as possibly right |
+| 62:27–62:57 | *"you might be on to something there… needs to be addressed by the regulator… likely going to produce them"* | the point adopted |
+| 64:05 | *"recalibrate your thoughts"* | |
+
+References to AI: two before 29:17 (9:02, 21:46), none after. The doubt was about capability
+(the writing exceeds "a very intelligent human being"); the resolution was the capability shown
+in speech, from working knowledge, under questioning.
