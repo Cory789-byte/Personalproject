@@ -47,3 +47,20 @@ on a record in that state.
 Its amended statement of facts and contentions identifies, at paragraph 27, no management
 action said to be reasonable (fact 303, admitted). *Davis* requires the action to be identified
 before its reasonableness can be assessed. On the pleadings the exclusion has no subject.
+
+## Addendum (22 Sep 2026) — The Chief Executive's letter against the Line Manager's emails
+
+Both columns are the hospital's own documents. Both columns are admitted for the proceeding (r 49, Respondent's response of 8 Sep 2026).
+
+| The Chief Executive, 5 June 2026 (K-LM26/729, Tab 20) | Ms Taylor, in the hospital's own emails |
+|---|---|
+| "There have been no 'consequential' changes to operating procedures over the period requested." (Item 3(c); **fact 266**) | "This new process is effective from today." 15 April 2024, "Afterhours Oncall Process - Switchboard", cc Ms Reese (Tab 6; **facts 49–51**) |
+| Same | "Can I please ask that all calls that switch transfer to the MASPER phone #5223 are being introduced." 9 May 2024, "MASPER process" (Tab 8B; **fact 66**) |
+| Same | "On 19 April 2024, Ms Taylor emailed the team and expressed that due to errors being made with respect to data entry, a new process was to be followed which included more checks" — recorded in the Regulator's own Review Decision 69983 (Tab 25; **fact 54**) |
+| Complaints "are made directly to the Line Manager of Switch Board and managed solely via email or verbally with the complainant." (Item 3(a); **fact 267**) | "There have been many ongoing issues raised by the MASPER and the medical department about calls being transferred to the wrong medical teams." 9 May 2024 (Tab 8B; **fact 67**) |
+| Fatigue documents "do not exist"; assessment "occurred after 30 June 2024" (Items 4, 5, 7; **facts 263–265**) | Ms Reese to HR, 10 May 2024, forwarding the Appellant's 1 May fatigue email: "Cory's roster will not be considered, however Cory is not yet aware of this" (Tab 8A; **fact 221**); Ms Reese to LBH_HR, 20 May 2024, attaching the Queensland Health Fatigue Risk Management Systems Implementation Guideline qh-gdl-401-3.3 (Tab 8A; **facts 222–223**) |
+| Item 20 material "does not exist" because the PID reference "commenced in November 2024" | Regulator's disclosure of 11 June 2026: correspondence of 15–16 May 2024, inside the 13–31 May window (64G Affidavit ¶52) |
+
+Reading: three procedure changes in five weeks, each announced by the Line Manager in writing, one introduced because of "many ongoing issues" about misrouted calls; the head of the organisation told the Commissioner no consequential change occurred and complaints went nowhere but the Line Manager's inbox. The contradiction is between two hospital documents, both admitted. This is the "character of those emails" the Commissioner flagged at 62:15 as "the one area… that there might be something to look at": an email announcing a change, from an employer whose Chief Executive says no change occurred, is an unassessed unilateral directive on the employer's own account. Ms Taylor's answer in the box is either that it was a change (Item 3(c) is wrong) or that it was not (a hospital emergency function had its call handling altered by something not a change to procedure). No non-party has standing at the hearing to say the Chief Executive did not mean it.
+
+Cross-reference: `2026-09-18_UPTAKE_did_the_point_land.md` §8.7–8.8; Form 4 (64G) Part C2 ¶6 "the letter supplies the answers, under the Chief Executive's hand".
