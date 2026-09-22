@@ -511,3 +511,19 @@ Three kinds of "we" in the hour:
 Reading: the D-phase "we" is the common-ground marker (Clark) from the higher-status speaker (Pennebaker: we-words as shared-task signal). "Are we still dealing with this one?" is a chair asking a co-chair, nine seconds after the interruption licence (§8.3). The closing sentence keeps the "we" and places the decision inside it: "if you decide you want to press any aspect of it, we'll get down to the serious business" — the same grammar as "you can have it" (32:02) with the pressure gone.
 
 Correction to an earlier reply in the working session: at 30:12 the appellant did not talk over the bench; he spoke into a pause and the bench continued over him (§8.5). All appellant interventions in the hour were at boundaries. The 53:41 licence authorised the one thing he had never done.
+
+### 8.8 The 64G spoken from memory during the Form 9A walk (recorded 22 Sep 2026)
+
+During the stressor walk (10:40–58:00) the appellant held two pieces of paper (handed up 22:11, the one-page disposition table) and no file. Against that, his spoken answers reproduce the operative parts of the rule 64G application filed 23 June 2026, in its own terms, before the bench reached them:
+
+| Time | Appellant, verbatim | 64G element |
+|---|---|---|
+| 13:28 | "access to the hospital itself would tend to prove, or log in to the computer if she's there or not… it all works together as one big system" | Items 8–9 and Part C reasoning (manager presence when a directive issued) |
+| 23:19–23:40 | "manager email filters… you put a word in Outlook and it filters all the words. So my filters were effective immediately… I basically just want the count" | Items 3(a)/10: server-side export by custodian, date range and phrase family, no inbox review; aggregate count |
+| 24:46 | "So either swear it or produce it" | Part B(b) produce-or-swear verification affidavit |
+| 25:00, 25:54 | "Which is on form 29." "A, B, C, D, E, which is number 10" | Item numbering, against the bench's "I'm not sure these form part of your non-party disclosure from recollection" (20:20) |
+| 27:07 | "Unassessed would be that she wasn't even in the room… makes a decision without any input of the staff" | Form 9A stressor 1 wording |
+| 47:55 | "I'm asking for evidence or a sworn statement to say that… they didn't do anything with it" | Item 19 narrowed to a sworn statement of what was received from Together and what action was taken |
+| 52:46, 54:48, 56:00, 53:23 | "I have all the evidence"; "I have everything for this"; "I'm not asking disclosure about that anymore" | Items already produced / withdrawn |
+
+Reading: the bench's prior (9:02–9:55) was that the papers were machine-authored. A litigant who can recite the numbering, the mechanism, the narrowing and the withdrawals of a twenty-item notice and a filed application without a file open is the author of their design and structure. The bench tested that for forty minutes; the answer was present from 13:28. "We probably should have led with that" (53:31) is the bench's acknowledgement. AI references by the bench: 2 before 29:17, 0 after (§8.6).
