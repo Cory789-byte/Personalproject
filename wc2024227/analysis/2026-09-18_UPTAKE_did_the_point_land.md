@@ -490,3 +490,24 @@ precedes the adjustment (30:20–31:00) by seven seconds; the second precedes th
 References to AI: two before 29:17 (9:02, 21:46), none after. The doubt was about capability
 (the writing exceeds "a very intelligent human being"); the resolution was the capability shown
 in speech, from working knowledge, under questioning.
+
+### 8.7 The pronoun shift: "you" to "we" (measured 22 Sep 2026)
+
+Commissioner's first-person plural (we / we're / we've / we'll / us / our / let's), per 1,000 of his own words, by phase. Source: `MENTION_7AUG2026_words_with_fillers.json`, speaker = DWYER IC.
+
+| Phase | His words | we-forms | per 1k | "you"-forms per 1k |
+|---|---|---|---|---|
+| A 0:00–29:17 | 3,414 | 20 | 5.9 | 54.8 |
+| B 29:17–32:02 | 466 | 5 | 10.7 | 34.3 |
+| C 32:02–53:31 | 2,791 | 17 | 6.1 | 62.3 |
+| D 53:31–close | 1,649 | 23 | 13.9 | 57.0 |
+
+Three kinds of "we" in the hour:
+- **A, institutional** — "we" the Commission.
+- **B, conditional/adversarial** — "if we can't work this out today" (29:58), "if we can't reach some understanding" (31:02), "then we're going to need to have a hearing" (31:12): joint failure used to load the outcome onto the appellant.
+- **C, mostly quoted** — him voicing the union or Regulator ("they'll say, we asked, but none were provided to us", 34:14).
+- **D, navigating** — every instance has the appellant inside it: "We probably should have led with that" (53:33), "if we get into anything that you think we don't need to get into" (53:37), "Are we still dealing with this one?" (53:48), "We don't need to go over that… we can skip over… We're getting there" (54:06–54:14), "Are we going into that? We don't need to go into that" (55:04), "what we're doing… We talked about this morning" (61:59), "in all of what we've been through" (63:09), "we'll get down to the serious business" (64:11).
+
+Reading: the D-phase "we" is the common-ground marker (Clark) from the higher-status speaker (Pennebaker: we-words as shared-task signal). "Are we still dealing with this one?" is a chair asking a co-chair, nine seconds after the interruption licence (§8.3). The closing sentence keeps the "we" and places the decision inside it: "if you decide you want to press any aspect of it, we'll get down to the serious business" — the same grammar as "you can have it" (32:02) with the pressure gone.
+
+Correction to an earlier reply in the working session: at 30:12 the appellant did not talk over the bench; he spoke into a pause and the bench continued over him (§8.5). All appellant interventions in the hour were at boundaries. The 53:41 licence authorised the one thing he had never done.
