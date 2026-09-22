@@ -1,3 +1,5 @@
+> **Correction 22 Sep 2026.** Filled-pause figures in this file (2 for the Commissioner, 0 for the appellant) were a Whisper suppression artefact. Re-measured: Commissioner 12.0 /1k, appellant 11.2 /1k. See `2026-09-18_FULL_RUN_corrections.md`, Retraction 4.
+
 # WC/2024/227 — TEACHABILITY
 ## "They say you cannot productively teach this." Correct — and what that leaves.
 

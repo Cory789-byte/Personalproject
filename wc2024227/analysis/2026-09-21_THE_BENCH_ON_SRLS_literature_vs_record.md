@@ -34,7 +34,7 @@ Sources read in full or extracted with PyMuPDF on 2026-09-21:
 | "wrong mindset to negotiate" | 31:59–32:10: offer, counter, acceptance, terms in 11 s; three acknowledgements of the bench's concern (30:12, 30:19, 32:03) |
 | "give the goods right there" | third limb held 16 min 39.6 s through 72 turns and 35 questions; four self-initiated entries in the hour, each on a wrong closing of the record |
 | takes more time, more mentions | 22.0 s uninterrupted for the key passage; answer latency median 0.32 s; Form 29 stood down by agreement |
-| angry, fearful, not confident | level flat across the hour (slope 0.001 dB/min, p=0.96); 0 filled pauses vs a norm of 6–20 per 1,000 words; the only surprise marker (32:03) cleared in 1.2 s |
+| angry, fearful, not confident | level flat across the hour (slope 0.001 dB/min, p=0.96); filled pauses 11.2 per 1,000 words, the same rate as the bench (12.0) — see FULL_RUN_corrections, Retraction 4; the only surprise marker (32:03) cleared in 1.2 s |
 | needs the bench's patience | the bench went from "keep it simple" (10:18) to "don't worry about interrupting me" (53:41) and "even if you're self-represented" (32:43, his quietest turn) |
 | loses to represented parties | Form 24: 303 facts, 298 admitted; para 27 identifies no management action (fact 303 admitted) |
 

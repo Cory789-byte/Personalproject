@@ -1,3 +1,5 @@
+> **Correction 22 Sep 2026.** Filled-pause figures in this file (2 for the Commissioner, 0 for the appellant) were a Whisper suppression artefact. Re-measured: Commissioner 12.0 /1k, appellant 11.2 /1k. See `2026-09-18_FULL_RUN_corrections.md`, Retraction 4.
+
 # HOW THE SPEECH MOVED — QIRC mention, 7 August 2026
 
 **Source** `PRF0466309_20260807_QIRC-OIR…AudioofProceeding_Standard_1.mp3`

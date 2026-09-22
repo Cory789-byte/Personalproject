@@ -173,3 +173,23 @@ paper, a chair, the next speaker. This is the only one in which it did not.
 The orienting-response reading survives on that basis: the freeze is the *hold*, not the *drop*.
 The earlier claim that the 250 ms onset showed everyone stopping in the same instant is not
 supported and is withdrawn.
+
+## Retraction 4 (22 Sep 2026): the filled-pause counts
+
+The counts of 2 (Commissioner) and 0 (appellant) filled pauses were artefacts of the default
+Whisper pass, which suppresses *um/uh*. A second pass over the full audio (large-v3, word
+timestamps, disfluency-preserving prompt, minute-by-minute, window-start insertions excluded)
+gives:
+
+| speaker | words | filled pauses | per 1,000 |
+|---|---|---|---|
+| Commissioner | 8,313 | 100 (*um* 69, *uh* 38 raw) | **12.0** |
+| appellant | 1,345 | 15 | **11.2** |
+
+Both inside the 6–20 norm and within one per thousand of each other. The "zero filled pauses"
+claim in the parataxis, teachability and SRL-literature files is withdrawn. What survives: the
+appellant's rate is identical to the bench's, and the bench's rate moves with task.
+
+Commissioner by phase (per 1,000): opening 0–12:38 **18.7**; testing the limbs 12:38–29:17
+**12.5**; 29:17–32:02 **4.2** (2 in 471 words); 32:02–53:41 9.5; 53:41–end 11.2. Five-minute
+window 25–30: **0 in 393 words**; 30–35: 4.8.
