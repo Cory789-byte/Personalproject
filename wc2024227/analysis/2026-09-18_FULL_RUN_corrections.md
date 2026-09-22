@@ -193,3 +193,13 @@ appellant's rate is identical to the bench's, and the bench's rate moves with ta
 Commissioner by phase (per 1,000): opening 0–12:38 **18.7**; testing the limbs 12:38–29:17
 **12.5**; 29:17–32:02 **4.2** (2 in 471 words); 32:02–53:41 9.5; 53:41–end 11.2. Five-minute
 window 25–30: **0 in 393 words**; 30–35: 4.8.
+
+## Attribution note A3 (22 Sep 2026): 40:40.42–40:41.72
+
+Diarised as MR SHEPHERD; the participant identifies the speaker as MS MATHESON. Context supports
+it: the Commissioner had just asked *"Ms Matheson, have you got that email? You don't know?"*, and
+the segment *"I do believe we have those, and I do believe we've disclosed them"* answers that
+question in the first person plural of the Regulator. Ms Matheson's word count rises from 17 to
+~30 for the hour. The email referred to is Ms Reese's reply of 15 May 2024 at 6:23 pm asking the
+appellant to retract his email (Form 24 facts 76–77; Annexure A Tab 9A, produced in the
+Regulator's disclosure).
