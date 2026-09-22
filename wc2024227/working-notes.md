@@ -7646,3 +7646,29 @@ LEVERAGE ORDER: psychiatric report (sets ~70% of the claim) > the election > the
 fatigue record > reading Koehler > speed on the appeal > fixing the "clean psychiatric baseline" plea.
 ⛔ NEW ACTION, UNDATED CLOCK: the **adverse-action limitation period (IR Act)** has never been
 dated and is the shortest clock in the matter. Date it before anything else in the civil track.
+
+## 2026-09-22 — ⛔ CORRECTION + ADVERSE ACTION LIMITATION DATED FROM s 310
+New file: `skill/references/ADVERSE-ACTION-LIMITATION-DATED-and-the-composite.md`.
+⛔ THE CORRECTION: the quantum file written earlier today called the adverse action limitation
+"the shortest clock in the matter" and said it had never been dated. BOTH WRONG, and the answer
+was already in `confirmed-record.md:1345` under "SIX YEARS, NOT 21 DAYS". Reasoned from memory
+instead of opening the file that held it. Quantum file corrected in place with a header.
+⭐ THE DATES (s 310 read to source, ATT22 p 257, current 1 Jan 2026):
+- s 310(3) — SIX YEARS for a non-dismissal contravention. Exclusion 26 Jun 2026 => 26 Jun 2032;
+  continued exclusion after certification 3 Jul 2026 => 3 Jul 2032; non-payment 13 Jul 2026 =>
+  13 Jul 2032. Each further fortnight is arguably a fresh contravention => rolls forward.
+- s 310(1) — 21 days from when a dismissal took effect. The 2024 separation expired ~30 Oct 2024.
+- ⛔⛔ THE ONLY SHARP CLOCK IS PROSPECTIVE: if the exclusion ripens into any separation, 21 days
+  runs from the day it takes effect, extendable only on "exceptional circumstances" (s 310(2)).
+  STANDING INSTRUCTION: the day any separation instrument arrives, enter the 21-day clock first.
+⭐⭐⭐ NEW FINDING — s 283(a) read to source: "Each of the following IS a process or proceedings
+under an industrial law... (a) any conference conducted, or hearing held, by the commission or
+the court." The section DEEMS it. => participating in WC/2024/227 is a workplace right under
+s 284(1)(b) WITHOUT having to argue the WCRA is an "industrial law". The 7 Aug 2026 mention is a
+hearing held by the commission. This strand has been underused.
+⭐ REAL DEFENCE IDENTIFIED — s 282(6): adverse action "does not include action that is authorised
+under... any other law of the State". MSH's 26 Jun email cites WHS s 19. THAT is the fight, not
+the limitation. Answer: the obligation was discharged (fit 3 Jul, psychosocial info 3 Aug) and
+the exclusion continued past both. An authorisation spent is not an authorisation.
+⚠ Gap 3 (last shift actually worked before 26 Jun 2026) STILL UNVERIFIED since August. Obtainable
+from the payslips. Cheapest load-bearing item outstanding.

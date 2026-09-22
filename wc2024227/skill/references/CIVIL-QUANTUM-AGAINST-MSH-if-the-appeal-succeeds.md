@@ -11,6 +11,15 @@
 
 ---
 
+> ⭐⭐ **CORRECTED 22 September 2026, after s 310 was read to source.** This file originally called
+> the adverse action limitation *"the shortest clock in the matter"* and said it had never been
+> dated. **Both were wrong.** s 310(3) gives **six years** for a non-dismissal contravention, and
+> the answer was already verified in `confirmed-record.md`. The sharp clock is **s 310(1) — 21 days
+> from the day any FUTURE dismissal takes effect.** Corrections are marked below.
+> See `ADVERSE-ACTION-LIMITATION-DATED-and-the-composite.md`.
+
+---
+
 ## PART 0 — ⛔⛔ THE PREMISE HAS TO BE SPLIT BEFORE IT CAN BE COSTED
 
 The question assumes one thing: *the appeal is overturned, and I am paid for the time off and the
@@ -162,7 +171,7 @@ generates exceeds its expected award.**
 | **Compensation** | Uncapped in principle, but substantially **overlapping Heads B and C** |
 | **Civil penalty** | Separate from compensation. ⚠ Verify the current penalty-unit value and who receives it |
 | **Standalone value** | **$20–60k** beyond what B and C already capture |
-| **Limitation** | ⚠ **Short, and shorter than the others.** Verify immediately — this is the head most likely to be lost to time |
+| **Limitation** | ⭐⭐ **CORRECTED 22 Sep 2026. s 310(3): SIX YEARS** for a non-dismissal contravention, verified verbatim at ATT22 p 257 ⇒ **26 Jun / 3 Jul 2032**, refreshing each fortnight. ⛔ **But s 310(1): 21 days from the day any future dismissal takes effect.** See `ADVERSE-ACTION-LIMITATION-DATED-and-the-composite.md` |
 
 ### HEAD E — PID REPRISAL
 
@@ -251,8 +260,9 @@ two decisions at gates 4 and 6.**
 1. **Signing the Notice of Assessment.** One signature, claim gone.
 2. **Lodging a notice of claim now.** **s 303** makes a premature notice affirmatively harmful, and
    **s 275(8)(d)** makes a complying one impossible before assessment anyway. ⛔ **Do not.**
-3. **Missing the adverse-action limitation.** It is the shortest clock in the file and it has not
-   been dated.
+3. ⛔ **CORRECTED. Not the existing limitation — it is six years and expires in 2032.** The danger is
+   **s 310(1)**: if the exclusion ripens into any separation, **21 days** runs from the day it takes
+   effect, extendable only on *exceptional circumstances*. It is invisible until it starts.
 4. **Running the tracks as one claim.** The moment the 2026 wages loss is pleaded as compensation,
    or reprisal language enters the workers' compensation track, **s 32(5)(b)** opens from his own
    side. The Regulator has not pleaded it and does not need to if we hand it over.
@@ -269,7 +279,7 @@ two decisions at gates 4 and 6.**
 | **ISV table, psychiatric item range, general damages scale** | ⛔ **NOT VERIFIED.** The $30–60k band is second-hand |
 | **20% DPI election threshold** | ⚠ Second-hand. Verify |
 | **AD Act s 15(2), s 138** | ⚠ ATT20 is current only to 19 May 2025 |
-| **Adverse-action limitation period** | ⛔ **NOT DATED. Do this first** |
+| **Adverse-action limitation period** | ✅ **DATED 22 Sep 2026 from s 310, read to source.** Six years on the live heads; 21 days on any future dismissal |
 | **IR Act civil penalty value and recipient** | ⛔ Not checked |
 | ***Robinson* [2017] QSC 165 — $1,468,991** | ✅ Benchmark verified |
 | ***Golding v Sippel* ~$158k** | ⚠ Second-hand |
@@ -288,6 +298,6 @@ against Metro South does not merely fail, it does not legally exist. Once open, 
 recovery is **$300–500k**, running to **$750k** on a strong psychiatric prognosis and past **$1M**
 only if career loss is established on the *Robinson* model. The withheld wages since 3 July 2026 sit
 outside all of that, are genuinely additive, and are currently around **$19k** and growing by
-**$3.3k a fortnight**. **Everything above depends on two decisions — the election on the Notice of
-Assessment, and the limitation date on the adverse-action head — and neither of them is a place to
-be self-represented.**
+**$3.3k a fortnight**. **Everything above depends on one decision and one event — the election on the Notice of
+Assessment, and the 21-day clock that starts on the day of any future separation — and neither of
+them is a place to be self-represented.**
