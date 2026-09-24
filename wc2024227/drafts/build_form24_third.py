@@ -26,6 +26,7 @@ SRC = {
  'B5': '/tmp/claude-0/Disclosure_witness_conferencing_Tammy_Reese.txt',
  'N1': '/tmp/claude-0/f24.txt',                                       # the first notice, 303 facts, 28 Aug 2026
  'R1': '/tmp/claude-0/r24.txt',                                       # the response of 8 Sep 2026
+ 'L1': '/tmp/claude-0/lod.txt',                                       # amended List of Documents, 14 Aug 2026
 }
 def norm(s):
     s = s.replace('‘', "'").replace('’', "'").replace('“', '"').replace('”', '"')
@@ -36,8 +37,10 @@ TXT = {k: norm(open(v, encoding='utf-8', errors='ignore').read()) for k, v in SR
 B1 = "The Respondent's Outlines of Evidence, served 24 September 2026 - Annexure B Tab B1"
 B2 = "Email, Ms R Matheson to the Industrial Registry, copied to the Appellant, 24 September 2026, 11:50 am, list of witnesses - Annexure B Tab B2"
 B3 = "Email, Ms R Matheson to the Appellant, \"Documents in dispute\", received 24 September 2026 - Annexure B Tab B3"
-B4 = "Respondent's disclosure, \"Disclosure from witness conferencing - Qld Health Payroll\", email of Ms S Christensen, 11 July 2025 - Annexure B Tab B4"
-B5 = "Respondent's disclosure, \"Disclosure from witness conferencing - Tammy Reese\", emails of 30 June to 8 July 2025 - Annexure B Tab B5"
+B4 = "Respondent's disclosure, \"Disclosure from witness conferencing - Qld Health Payroll\" (amended List of Documents item 40), email of Ms S Christensen, 11 July 2025 - Annexure B Tab B4"
+B5 = "Respondent's disclosure, \"Disclosure from witness conferencing - Tammy Reese\" (amended List of Documents items 37, 38), extract - Annexure B Tab B5"
+L1 = "The Respondent's amended List of Documents dated 14 August 2026 - Annexure B Tab B7"
+A9B = "Annexure A Tab 9B to the first notice (authenticity admitted 8 September 2026); also Respondent's amended List of Documents item 38"
 N1 = "The notice to admit facts served 28 August 2026 (the first notice), and the Respondent's response of 8 September 2026 - Annexure B Tab B6"
 
 OUTL = "The Respondent's Outlines of Evidence served on 24 September 2026, as served,"
@@ -150,6 +153,16 @@ FACTS = [
  (0, f"{OUTL} do not identify the \"on-call notification process\" referred to in the outline for Ms Taylor by reference to any document.", B1,
      ('B1', "on-call notification process")),
 
+ ("I2", "THE MEETING OF 15 NOVEMBER 2023"),
+ (0, "The outline for Ms Taylor states: \"Confirms she sent the Appellant an email on 14 November 2023 to discuss compliance with shift and break time procedures, arranging a meeting for 15 November 2023.\"", B1,
+     ('B1', "Confirms she sent the Appellant an email on 14 November 2023 to discuss compliance with shift and break time procedures, arranging a meeting for 15 November 2023.")),
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 describes, at item 37, a document as: \"Email chain C Taylor & APP - Request discussion on rostering - 14 to 15/11/23\".", L1,
+     ('L1', "Email chain C Taylor & APP - Request discussion on rostering - 14 to 15/11/23")),
+ (0, "On 14 November 2023 at 4:39 pm Ms Taylor sent an email to the Appellant, copied to Ms Reese, with the subject \"Catch up 130pm - 15.11.23\", which states: \"As per our conversation last week, I would like to invite you for a quick chat with myself and Tammy tomorrow when you are on shift, would 130pm be suitable? You are more than welcome to bring a support person along if you wish.\"", B5, ('RENDER', 'bundle p25')),
+ (0, "On 15 November 2023 at 8:44 am the Appellant replied: \"Is it about the roster? I'm not quite sure why I'd require a support person; I'm comfortable attending on my own.\"", B5, ('RENDER', 'bundle p25')),
+ (0, "On 15 November 2023 at 12:53 pm Ms Taylor replied: \"I would just like to address a few things, and it is mainly regarding rostering. But also, would like to remind you of our shift and break times expectations & some procedures within switchboard.\"", B5, ('RENDER', 'bundle p25')),
+ adm(302, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not describe any communication with the Appellant before 18 June 2024 as a warning, or as part of a disciplinary or performance management process."),
+
  ("J", "MS TAYLOR'S OFFICE HOURS, 15-21 MAY 2024"),
  (0, "The outline for Ms Reese states: \"Ms Reese's evidence is that, read in substance, this amounted to an accusation that Ms Taylor was not working her rostered hours, sent in a way that gave Ms Taylor no chance to respond before the rest of the department saw it.\"", B1,
      ('B1', "Ms Reese's evidence is that, read in substance, this amounted to an accusation that Ms Taylor was not working her rostered hours, sent in a way that gave Ms Taylor no chance to respond before the rest of the department saw it.")),
@@ -159,6 +172,12 @@ FACTS = [
  adm(74, "On 15 May 2024 at 1:15 pm the Appellant sent an email to Ms Taylor and Logan Switch, copied to Switchboard staff, Ms Reese and LBH_HR, with the subject \"Office Hours and Departmental Directives\", which states: \"could you please share your office hours so the entire department can be aware of your regular schedule? There has been some noted inconsistency in your arrival and departure times\"."),
  adm(82, "That email states: \"My office hours can vary due to having to take my girls to school in the morning, on the days that I do have school drop off I always let switch know that I will be in later between 0800-830am. Otherwise my hours are from 06:30-14:30.\""),
  adm(79, "On 21 May 2024 at 2:53 pm Ms Reese replied to the Appellant stating: \"With regards to your concerns about having more clarity as to what are Chole's business hours I will follow up on the issues raised.\""),
+ (0, "Ms Reese's email to the Appellant of 21 May 2024 at 2:53 pm states: \"Thanks for your response. I have asked you to retract an email and gave reasons for why I recommended this action.\"", A9B, ('RENDER', 'Annexure A p41')),
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 describes, at item 38, a document as: \"Email T Reese to APP - confirm retract & to follow up issues - 21/05/2024\".", L1,
+     ('L1', "Email T Reese to APP - confirm retract & to follow up issues - 21/05/2024")),
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 describes, at item 38, a document as: \"Email chain T Reese to HR - request assistance with APP concerns - 10 & 20/05/24\".", L1,
+     ('L1', "Email chain T Reese to HR - request assistance with APP concerns - 10 & 20/05/24")),
+
  (0, "The outline for Ms Reese does not refer to Ms Reese's email of 21 May 2024 at 2:53 pm.", B1),
  (0, "The outline for Ms Taylor does not refer to Ms Taylor's email of 17 May 2024 at 9:30 am recorded at facts 81 to 84 of the first notice.", B1),
  (0, f"{OUTL} do not identify the officer of Human Resources whose advice was taken before Ms Reese's email of 15 May 2024 at 6:23 pm.", B1),
@@ -172,6 +191,12 @@ FACTS = [
  (0, "The outline for Ms Reese states: \"She never saw the entry itself.\"", B1,
      ('B1', "She never saw the entry itself.")),
  adm(151, "That amended statement of facts and contentions, as presently constituted, does not allege that the removed page has been located, or that any copy of it exists."),
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 describes, at item 37, documents as: \"Email C Taylor to C Jeffrey - Comms book - 21/05/2024\" and \"Photo comms book - 20/05/2024\".", L1,
+     ('L1', "Email C Taylor to C Jeffrey - Comms book"), ('L1', "Photo comms book - 20/05/2024")),
+ (0, "On 21 May 2024 at 10:46 am Ms Taylor sent an email to Ms Carolyn Jeffrey with the subject \"Communication Book 20.05.2024\", which states: \"I was looking in the communication book and came across your entry that was put in yesterday 20.05.24.\"", B5, ('RENDER', 'bundle p11')),
+ (0, "That email states: \"I have taken this out of the communication book as this is not the appropriate way to action your concern. There are other ways to raise concerns, for example please see me and we can discuss together.\"", B5, ('RENDER', 'bundle p11')),
+ (0, "The outline for Ms Taylor does not refer to Ms Taylor's email to Ms Jeffrey of 21 May 2024.", B1),
+
 
  ("L", "THE SPECIAL PANDEMIC LEAVE APPLICATION, FEBRUARY 2024"),
  (0, "The outline for Ms Earl states: \"Ms Taylor declined the application the next day, 21 February, on the stated basis that a minimum five-day period of leave was required.\"", B1,
@@ -237,9 +262,15 @@ FACTS = [
  (0, "That email states, of the fortnight commencing 18 March 2024: \"the public holiday not required was submitted late and will appear on Payslip 05, page 3\".", B4,
      ('B4', "the public holiday not required was submitted late and will appear on Payslip 05, page 3")),
 
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 40: \"Notice of Non-party disclosure from Qld Health payroll\", \"Samantha Christesen\", \"11/07/2025\".", L1,
+     ('L1', "Notice of Non-party disclosure from Qld"), ('L1', "Samantha Christesen"), ('L1', "11/07/2025")),
+
  ("Q", "MS REESE, 30 JUNE TO 8 JULY 2025"),
  (0, "The Respondent's disclosure includes a document headed \"Disclosure from witness conferencing - Tammy Reese\".", B5,
      ('B5', "Disclosure from witness conferencing - Tammy Reese")),
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 lists at items 37 and 38 documents described as \"Disclosure through witness conferencing\", each attributed to \"Tammy Reese\" and dated \"08/07/2025\".", L1,
+     ('L1', "Disclosure through witness conferencing"), ('L1', "08/07/2025")),
+
  (0, "That document contains an email from Ms Matheson to Ms Reese dated Monday 30 June 2025 at 12:06 pm which states: \"In readiness for our conference with you at 1pm on Thursday 3 July 2025, please see below allegations raised by Mr Shepherd that Lisa and I will be speaking with you about.\"", B5,
      ('B5', "In readiness for our conference with you at 1pm on Thursday 3 July 2025, please see below allegations raised by Mr Shepherd that Lisa and I will be speaking with you about.")),
  (0, "That email states: \"The conference is an informal chat, although confidential and not discussed with other witnesses\".", B5,
@@ -285,8 +316,9 @@ DOCS = [
  ("B2", "Email, Ms R Matheson to the Industrial Registry, copied to the Appellant, attaching the Respondent's list of witnesses", "24 September 2026, 11:50 am", "Respondent's own email"),
  ("B3", "Email, Ms R Matheson to the Appellant, \"Documents in dispute\"", "received 24 September 2026", "Respondent's own email"),
  ("B4", "Extract from the Respondent's disclosure: \"Disclosure from witness conferencing - Qld Health Payroll\" - email of Ms S Christensen to Ms Matheson, copied to Ms K Wright, with the covering page", "11 July 2025", "Respondent's own disclosure, July 2025"),
- ("B5", "Extract from the Respondent's disclosure: \"Disclosure from witness conferencing - Tammy Reese\" - emails of Ms Matheson of 30 June and 4 July 2025, of Ms Reese of 7 July 2025 and of Mr Hall of 8 July 2025, with the covering page", "30 June to 8 July 2025", "Respondent's own disclosure, July 2025"),
+ ("B5", "Extract from the Respondent's disclosure: \"Disclosure from witness conferencing - Tammy Reese\" (List of Documents items 37, 38) - the covering page; emails of Ms Matheson of 30 June and 4 July 2025, of Ms Reese of 7 July 2025 and of Mr Hall of 8 July 2025; the email of Ms Taylor to Ms Jeffrey of 21 May 2024; and the email chain of 14 and 15 November 2023", "30 June to 8 July 2025; 21 May 2024; 14-15 November 2023", "Respondent's own disclosure, July 2025"),
  ("B6", "The Respondent's response of 8 September 2026 to the notice to admit facts served 28 August 2026", "8 September 2026", "Respondent's own document, served"),
+ ("B7", "The Respondent's amended List of Documents (Form 23)", "14 August 2026", "Respondent's own document, filed and served"),
 ]
 
 # ------------------------------------------------------------------ numbering
@@ -312,6 +344,8 @@ for f in FACTS:
                 first = seg.split('\n')[:6]
                 if not any('Admitted' in x and 'Not admitted' not in x for x in first):
                     fail.append((f[0], f'fact {val} not shown Admitted in the response'))
+        elif kind == 'RENDER':
+            pass   # image page: verified by render and read on 24 Sep 2026 (see image_tabs rule)
         else:
             if norm(val) not in TXT[kind] and norm(val).replace('-', '- ') not in TXT[kind]:
                 fail.append((f[0], f'quote not found in {kind}: {val[:70]}...'))

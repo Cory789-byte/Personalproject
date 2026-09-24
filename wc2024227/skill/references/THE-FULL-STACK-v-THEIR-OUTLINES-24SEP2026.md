@@ -197,3 +197,26 @@ is actually about — have no witness saying it was reasonable, and several sayi
 Every result above is a document against a document. Chronology, never motive. Nothing here is a
 letter. ⛔ R4e and R4f are not pursued in this track. ⛔ The reprisal words in the unserved 9A stay
 unserved.
+
+---
+
+## 9. ADDENDUM, 24 SEPTEMBER (late) — three documents from the Regulator's OWN July 2025 disclosure, missing from the outlines
+
+Cory's point: Ms Reese sent her answers, and her correction, **after** the 3 July 2025 conference,
+and the Regulator **disclosed** them — items 37 and 38 of its amended List of Documents of 14 Aug
+2026, "Disclosure through witness conferencing", Tammy Reese, 08/07/2025. Payroll's bundle is item
+40 (Christensen, 11/07/2025). ⇒ The Regulator has held every document in Part Three of the third
+notice since July 2025, on its own list, and wrote the outlines with them in the file. Reading the
+image pages of the Reese bundle (rendered pp 11 and 25) and Annexure A Tab 9B produced three more:
+
+| Outline | Their own disclosed document | Result |
+|---|---|---|
+| **T4** — 14 Nov 2023 email *"to discuss compliance with shift and break time procedures"* | Their own list describes it as *"Request discussion on rostering - 14 to 15/11/23"* (item 37). Taylor's email: *"it is mainly regarding rostering. But also, would like to remind you of our shift and break times expectations"*; support person offered; his reply: *"Is it about the roster?"* Facts 300–302: no process, no warning | ◐ → **✖ on the framing** — their own list and her own email make it a rostering discussion |
+| **T2** — the June 2023 removal | **21 May 2024, 10:46 am, Taylor to Ms Jeffrey:** *"came across your entry that was put in yesterday 20.05.24 … I have taken this out of the communication book … There are other ways to raise concerns"* (item 37, with *"Photo comms book - 20/05/2024"*) | a **second removal**, a year later, another staff member's entry, the day of the directory episode (facts 89–110). Chronology only. Ms Jeffrey gave a statement to WorkCover (LoD items 14, 16) |
+| **R4b** — the retraction request | **Reese, 21 May 2024, 2:53 pm** (Tab 9B, authenticity admitted): *"I have asked you to retract an email and gave reasons for why I **recommended** this action."* Their own list describes the email as *"confirm retract & to follow up issues"* (item 38) | ◐ → the request was, in her own word, a recommendation; and matches her 2025 correction that HR supplied the wording |
+
+⚠ The retraction conflict in his outline (§7.1) is **not resolved** by the 21 May email; it says she
+*asked*, not that he did or did not. The list's *"confirm retract"* is the Regulator's description,
+not the email's words. Sent items still decide it.
+⛔ Item 39 (Taylor, 10/07/2025) is not used: it carries the 17 May 2024 character email and a
+14 Jan 2024 leave email. Neither is opened.

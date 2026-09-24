@@ -7730,3 +7730,12 @@ and AVACs · public holidays · no-witness matters) · Part Three the July 2025 
 Matheson's 24 Sep email. ⛔ Nothing on PID knowledge (R4e/R4f), nothing on the 17 May character email,
 no name typos, no metadata. ⛔ DRAFT: transcribe to the official Form 24/25 before service; Cory's
 decision whether and when to serve (optics of a third notice before a conference; 14-day clock).
+
+## 2026-09-24 (late) — THIRD NOTICE v2: their July 2025 disclosure, by List of Documents item
+Cory: Reese's answers and correction were sent after her 3 Jul 2025 conference and DISCLOSED. Confirmed:
+amended LoD 14 Aug 2026 items 37, 38 (Reese, 08/07/2025), 40 (Christensen payroll, 11/07/2025). Rendered
+the image pages: p11 = Taylor→Jeffrey 21 May 2024 removing a SECOND Communication Book entry; p25 = the
+14–15 Nov 2023 chain (their own list: "Request discussion on rostering"; Taylor: "mainly regarding
+rostering"; support person offered); Annexure A Tab 9B = Reese 21 May 2024 "reasons for why I
+recommended this action". Third notice rebuilt: 149 facts, 7 documents; annexure now 52 pp (B5 extract
+9 pp; B7 the LoD). Image-page facts marked RENDER-verified in the builder. ⛔ LoD item 39 not used.
