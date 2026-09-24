@@ -7715,3 +7715,18 @@ marks facts 5, 6, 17–24, 30, 31 "Disputed" — that is the tab schedule bleedi
 Verified on the rendered response today: all twelve ADMITTED. 298/303 stands; only 154, 228–231 not.
 ⚠⚠ FOR CORY: his served outline §6 says he retracted the 15 May email ("which I did"); the Respondent
 pleads he declined and Taylor removed it. Resolve from his sent items before he gives evidence.
+
+## 2026-09-24 (late) — THIRD NOTICE TO ADMIT FACTS AND DOCUMENTS — DRAFT BUILT, NOT SERVED
+Builder: `drafts/build_form24_third.py` → `drafts/out/FORM24_THIRD_NOTICE_DRAFT_24SEP2026.pdf` (16 pp,
+134 facts, Schedule B of 6 documents) + `drafts/out/FORM24_THIRD_ANNEXURE_B_DRAFT_24SEP2026.pdf` (43 pp:
+B1 outlines · B2 list email · B3 documents reply · B4 payroll 11 Jul 2025 extract · B5 Reese 30 Jun–8 Jul
+2025 extract · B6 the 8 Sep response). Every quotation machine-checked against the source text; every
+restated first-notice fact checked Admitted on the rendered response. Metadata stripped on both.
+Shape: Part One the list and outlines (form, references, absences) · Part Two the outlines set beside
+the admitted facts, topic by topic (break · agreement · refusing shifts · fatigue payment · prior
+errors · fatigue raised · on-call process · office hours · Communication Book · pandemic leave · pay
+and AVACs · public holidays · no-witness matters) · Part Three the July 2025 disclosure (payroll's
+30.06.2025 amendment; Reese's corrected account — HR supplied the retraction wording) · Part Four
+Matheson's 24 Sep email. ⛔ Nothing on PID knowledge (R4e/R4f), nothing on the 17 May character email,
+no name typos, no metadata. ⛔ DRAFT: transcribe to the official Form 24/25 before service; Cory's
+decision whether and when to serve (optics of a third notice before a conference; 14-day clock).
