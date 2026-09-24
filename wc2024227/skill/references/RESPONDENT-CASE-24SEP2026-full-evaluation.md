@@ -525,3 +525,79 @@ A r 49 admission is that the **document says** what it says. A witness may still
 evidence; the admission stands unless withdrawn with leave (*Tuesley*). The contradiction goes to
 weight and credit, not to an automatic knockout. And Guide 4.10's *"roughly"* means a witness may
 stray beyond the outline; if so, the ambush point is his to take, on the day.
+
+---
+
+## 12. IS THEIR OUTLINE ALIGNED WITH THE CASE? — tested against the Appeal Guide (Cory's question, 24 Sep, night)
+
+### 12.1 What the Guide says the case is — read at source
+- **4.8:** the stressors are *"the individual events and issues which caused your injury"*; *"The
+  Member who hears your matter will use the list to guide proceedings."*
+- **4.7.2 / 7.3.2:** the issues are the s 32(1) elements — injury, arising out of employment,
+  employment *"a significant contributing factor"* — and whether the injury was *"connected to
+  management action that was reasonable in the circumstances and/or conducted in a reasonable way"*,
+  or to the worker's *"expectation or perception"* of it.
+- **4.5.4, the Guide's own example:** where the worker says the treatment caused the injury and the
+  employer says it was reasonable, *"the issue in dispute is whether the injured worker has been
+  treated reasonably"*.
+⇒ At each stressor the question is: **did it happen, did it contribute, and was the management action
+in it reasonable and reasonably done.** Not whether money is owed, not whether he behaved, not what
+anyone knew.
+
+### 12.2 The map — each stressor against what their outline actually answers
+
+| Stressor | The Guide's question | What their outline answers | Aligned? |
+|---|---|---|---|
+| 1(a) directives, presence, database | were the directives reasonable, and reasonably made — consultation | a one-line denial | ✖ **no evidence on the question** |
+| 1(b) Communication Book | was removing the entry, and the exchange, reasonable | **his** tone and volume; her reminder email | ◐ **re-aimed at his conduct**; silent on the removal itself — and on the second removal, 21 May 2024 |
+| 1(c) Aug–Sep 2023 concerns | was the response reasonable | meeting, eight-month review, grievance pathway, written answers | ✅ **the one fully aligned answer** |
+| 1(d) pandemic leave | were the declines reasonable and reasonably done | the system history; *"paid throughout"*; the error conceded; no manager evidence | ◐ **outcome frame** — "it came right in the end" |
+| 1(e) the disclosure | — | admitted | — |
+| 1(f) retraction request | was asking him to retract, as a Code of Conduct matter, reasonable and reasonably done | **the propriety of his email** (*"an accusation"*); HR advice; **what Reese knew** | ◐/✖ **re-aimed at his conduct and at motive** — knowledge is not the test (*Prizeman*) |
+| 1(g) delegate | was the handling reasonable | the text and the support given | ◐ thin |
+| 2(a) pay, **Feb–Apr 2024** | the 2024 pay failures as a stressor | ⛔ **Easter 2023** (Taylor, Earl on 10 Apr 2023); *"no outstanding underpayments"* | ✖ **wrong year, and a debt question.** ⚠ Stressor 2(a) is the weakest limb and was let go at the mention (`STRESSOR-STRENGTH-AUDIT.md`) — they built evidence against a stressor he is not pressing, for a period he did not plead |
+| 2(b) the 25-day AVAC delay | was the delay reasonable | *"confirms the correspondence"* | ✖ **no explanation** |
+| 3(a) the 7-hour break | was rostering it reasonable management action reasonably taken | *"human error"*; *"could refuse"*; the 2020 agreement | ◐ **consent-and-entitlement frame** — whether it was *permitted*, not whether it was *reasonable* |
+| 3(b) fatigue framework, prior warnings | was proceeding despite them reasonable | *"no knowledge"* | ✖ **no evidence** |
+| 3(c) fatigue payment refused | was the refusal reasonable and reasonably done | the Award: *"not overtime"*, *"not an unpaid entitlement"* | ◐ **entitlement frame** — and a reason different from the one given at the time |
+| 3(d) their own reviewer's finding | — | nothing | ✖ |
+| Elements: injury, arising, significant contributing factor | medical | nothing | ✖ **not engaged** |
+| Perception or expectation — s 32(5)(b) | pleaded in SOFC ¶6 as an element | not developed; Reese's *"read in substance"* is the nearest | ✖ **pleaded, then abandoned** |
+
+### 12.3 ⭐⭐⭐ The finding — they are defending three cases that are not this one
+1. **A wages case** — was he ultimately paid, is anything owed, which pay code applied, did the Award
+   entitle him to fatigue pay. That is the payroll witnesses' whole outline. **A workers'
+   compensation appeal does not decide whether a debt exists.** It asks whether the handling of his
+   pay, as it happened in Feb–May 2024, was a stressor and was reasonable management. Their own
+   evidence that it all came right *later* — the Feb 2024 shift amended on 30 June 2025 — **confirms
+   the period in which it had not.**
+2. **A conduct case against him** — the raised voice, the "accusation", the on-call process, the
+   "compliance" meeting. The Guide's question is the **employer's** conduct and its manner. Their own
+   admissions exclude any disciplinary or performance process or warning before 18 June 2024
+   (facts 300–302), and their own List of Documents calls the November 2023 meeting a *"Request
+   discussion on rostering"*.
+3. **A reprisal case** — what Reese knew and when. Motive is not an element of s 32(5)(a). They are
+   answering the language of his April 2026 pleading, not the question the Commission decides.
+
+**And they left the case that is this one — injury, contribution, and the reasonableness of the March
+2024 break, its refusal, and the directives — with no witness at all.**
+
+### 12.4 Why it happened — inferred, marked
+The scaffold was the May SOFC, which answered his April pleading (reprisal, hostility, "composite
+course"). The payroll material was gathered in July 2025 through the Regulator's own non-party notice,
+which asked payroll about *"pay issues raised"* against paragraph numbers of an earlier pleading
+(Christensen, 11 Jul 2025, "paragraphs 20 to 31 SOFAC"). Neither source was rebuilt around the Guide's
+test, the admissions, or his narrowed case. **The outline follows the paper it was built from, not
+the case as it now stands.**
+
+### 12.5 ⚠ What this means for him, both ways
+- **Helps:** the Member will hear the case from his stressor list (Guide 4.8). Evidence that answers
+  a different question carries little weight on the real one, and irrelevant material can be objected to.
+- ⚠ **Does not remove the onus.** He still proves each element (Guide 7.3). A defence aimed at the
+  wrong question leaves his evidence unanswered; it does not prove it for him.
+- ⚠ **His own pleading invited part of this.** The reprisal and hostility words in the live Form 9A
+  are what Reese's knowledge paragraph and Taylor's hostility denial answer. The Second Amended 9A
+  that removes them is still unserved — his decision.
+- ⛔ None of this goes in a letter. It is the frame for the conference and, if needed, for closing:
+  *the Respondent's evidence addresses whether money was owed, whether the Appellant behaved, and
+  what a manager knew; the questions under s 32 are none of those.*
