@@ -601,3 +601,66 @@ the case as it now stands.**
 - ⛔ None of this goes in a letter. It is the frame for the conference and, if needed, for closing:
   *the Respondent's evidence addresses whether money was owed, whether the Appellant behaved, and
   what a manager knew; the questions under s 32 are none of those.*
+
+---
+
+## 13. WHAT IS NEW IN THE OUTLINE, WHAT IT WAS WRITTEN AGAINST, AND WHAT IT ALREADY HELD (Cory's question, 24 Sep, night)
+
+### 13.1 Source trace — every distinctive point against every source the Regulator held
+Sources searched: the 13 May SOFC · the live Form 9A · the Reese, payroll and FRMS bundles of July
+2025 · Annexure A · the 303 facts · **his three served outlines of 9 Sep** · the amended List of
+Documents. ⚠ Generic words produce false hits (e.g. "majority", "assess", "delegate"); each hit
+was read before being counted.
+
+| Class | Points | Count |
+|---|---|---|
+| **From the SOFC** — the scaffold, answering the 9A | reminder email; 14 Nov "compliance"; human error, not repeated; could refuse; 1:20 pm; 5:03 pm; unaware of PID; no outstanding underpayments; PH allowance | most |
+| **From the July 2025 disclosure** — already held 14 months | $1,500 text; talking over / raised voice; eight months of shifts; grievance; went full time; the 2020 agreement document; 30 Mar PH not required submitted late; the 16 May HR forward (**LoD item 41**) | ~9 |
+| ⭐ **Genuinely new — in no document he has seen** | Taylor: 0.8 FTE / eight v ten shifts; the offered weekend shift; **"all" switchboard staff signed**; HR confirmed the agreement "on file" · Reese: **"never saw the entry"**; the **4:12 pm unsigned email**; "read in substance … an accusation" · Wright: the **Technical Support** escalation; **"rostering practice issue for the line manager"**; payroll "does not assess" entitlement · Earl: the **"majority of the shift"** rule for 10 Apr 2023; **"80 hours"** | ~13 |
+| **Responding to his served outlines of 9 Sep** | — | ⭐ **none** |
+
+⇒ **The new input is narrow and mostly payroll.** The likeliest source of the payroll mechanics is
+**LoD item 42 — "Notice of Non-party disclosure from Qld Health payroll — Nicole Earl — 29/04/2026"**,
+which is on their list and **not in this repository**. The Reese and Taylor additions are fresh
+witness instructions.
+
+### 13.2 What it was written against
+**The 9A, through the May SOFC — and nothing he served afterwards.** No point answers:
+- his outline's topics 2, 3, 5, 8 and 9 (fatigue and the March shifts; lates-then-earlies and the
+  recurring errors; the database, the misdirected calls and the directory; health before June 2024;
+  onset and diagnosis);
+- Mr Harrison-Jones's eyewitness account of 6 Jun 2023, or the removed entry's content;
+- Ms Conaghan's evidence of no consultation or ballot, the misdirected calls, and delayed results;
+- the medical schedule M1–M9.
+
+### 13.3 ⭐⭐ It already held what it left out — on its own documents
+| What it held | Since | How we know |
+|---|---|---|
+| Reese's and Taylor's conferencing documents; payroll's 11 Jul 2025 return | Jul 2025 | its own List of Documents, items 37–41 |
+| Earl's payroll return | 29 Apr 2026 | its own List of Documents, item 42 |
+| The 303 facts; 298 admitted, including Reese's own 2024 emails | 28 Aug / 8 Sep 2026 | its own response |
+| Your particulars bundle for 1(a) | 11 Aug 2026 | fact 282, admitted |
+| Your three outlines and the medical schedule | 9 Sep 2026 | served — **15 days before its outlines** |
+| Review Decision 69983 | Oct 2024 | its own decision |
+
+### 13.4 Should those documents have been in the outline? — stated precisely
+- ⚠ **Not as a rule of form.** Guide 4.10 asks for a *"brief overview of the material they will
+  cover"*. An outline need not list documents or answer the other side.
+- ⭐ **But three things point the other way:**
+  1. **The Guide's purpose — no *"hearing by ambush"*.** If a witness will rely on material not
+     disclosed to him — the Technical Support advice, the 4:12 pm email, the HR confirmation that the
+     agreement was "on file", the "all staff signed" agreements, Earl's April 2026 return — he is
+     entitled to see it before the hearing.
+  2. **The Code for Parties in the Guide:** parties should *"act honestly, and not knowingly give
+     false or misleading information"* and *"take reasonable steps … to minimise the number of issues
+     in dispute"*. An outline built without reference to 298 admitted facts widens the issues it
+     had already narrowed. ⛔ **This is for the conference, never an allegation in a letter.**
+  3. **Credit.** Each witness will be asked, in cross, about the admitted documents their outline
+     leaves out. The omission becomes the question.
+
+### 13.5 The practical step — his decision, nothing sent
+A short request for copies of the documents behind the new points, under the ordinary exchange
+the Guide describes at 4.5: (a) LoD item 42; (b) the Technical Support advice and its date; (c) Ms
+Reese's 4:12 pm email of 15 May 2024; (d) the HR advice that the 2020 agreement was on file and
+continued to apply; (e) the signed agreements of "all switchboard staff". ⛔ Asked, never alleged;
+no comment on the outlines themselves.
