@@ -7701,3 +7701,17 @@ Evaluation: `skill/references/RESPONDENT-CASE-24SEP2026-full-evaluation.md`. Sco
   to a second s 552A conference or to hearing **by 1 Oct** (r 230). The election is his.
 - Still his decisions, none taken: direction 5 election · the held Form 24/25 filing email · the
   unserved Second Amended Form 9A · NNPD if MSH does not produce the nine.
+
+## 2026-09-24 (evening) — THE FULL STACK v THEIR OUTLINES, bullet by bullet
+New file: `skill/references/THE-FULL-STACK-v-THEIR-OUTLINES-24SEP2026.md`. 44 outline points scored
+against the 298 admitted facts, the Feb 2026 admissions, the review decision, the Regulator's 2025
+witness bundles and his served material. Result: 20 stand (9 of them his own facts confirmed back),
+13 qualified, 15 contradicted, 5 hearsay, 5 untestable. 13 of the 15 contradictions come from the
+Respondent's own side (Taylor 6, Reese 4, MSH HR 2, role description 1); none from his evidence.
+On the single-stressor route the outlines leave the admitted record whole and add payroll's concession
+that the break was "a rostering practice issue for the line manager".
+⚠ CORRECTION TO THE REPO: `documents/regulator-response-2026-09-08/FORM24_RESPONSE_parsed_fact_by_fact.tsv`
+marks facts 5, 6, 17–24, 30, 31 "Disputed" — that is the tab schedule bleeding into the fact column.
+Verified on the rendered response today: all twelve ADMITTED. 298/303 stands; only 154, 228–231 not.
+⚠⚠ FOR CORY: his served outline §6 says he retracted the 15 May email ("which I did"); the Respondent
+pleads he declined and Taylor removed it. Resolve from his sent items before he gives evidence.
