@@ -444,3 +444,84 @@ Taylor's *"not repeated"* cannot stand beside Reese's *"a few rostering errors"*
 outlines that their side's admitted documents contradict, and each document can be put to them in
 cross-examination. ⛔ The contradictions are cross-examination material and conference material. They
 are never set out in a letter, and the metadata is never mentioned.
+
+---
+
+## 11. WHAT THE OUTLINES WERE FED, WHAT THEY MISSED, AND WHETHER IT WAS CARELESS OR CHOSEN (Cory's question, 24 Sep, evening)
+
+### 11.1 What an outline is for — Guide 4.10, read at source
+*"a single A4 page summary of the evidence that they will provide … just a brief overview of the
+material they will cover"*, so that each side knows *"roughly"* what the other's witnesses will say
+and there is no *"hearing by ambush"*. Evidence in these appeals is oral; there are no statements.
+⇒ **An outline is not a responsive document.** It owes nothing to his outlines, the Form 24 or the
+Form 9A. Not answering them is not a breach. The test of an outline is whether the witness survives
+the admitted documents in cross-examination, and that is where these fail.
+
+### 11.2 What the outlines were built from — tested against the Regulator's own 2025 disclosure
+The Regulator conferenced Ms Reese on 3 July 2025 and obtained payroll's documents through Ms Wright
+on 11 July 2025 (`documents/disclosure-2025-07/`). Distinctive outline content checked against both:
+
+| Outline content | In the 2025 material? |
+|---|---|
+| payroll's escalation to *"Technical Support"*; the *"majority of the shift"* rule; *"rostering practice issue"*; *"public holiday not required"* v the allowance; *"ten shifts including nights"* | ⛔ **none of it** |
+| the 16 May 2024 McGinley forward *"for information only"* | not in the text layer |
+| Reese's 3 Jul 2025 account, **corrected after the conference** | ⭐ in the bundle — **and not in her outline** (below) |
+| Taylor's 7 Aug 2023 email: *"My sincere apologises about your rostered Monday 7th 0700-1500 shift, I can confirm this was an oversight … to give you the required rest period"* | ⭐⭐ in the bundle — **and Taylor's outline says the March 2024 error was "not repeated"** |
+
+⇒ **Verified:** the outlines were written from the 13 May 2026 SOFC as scaffold and **fresh 2026
+instructions from the four witnesses**, especially payroll. They were **not** written from the
+admitted record, the 11 Aug particulars, his 9 Sep outlines, or the Regulator's own 2025 witness
+bundle. Whoever built them had the pleading and the witnesses, and nothing served since.
+
+### 11.3 ⭐⭐ Reese's corrected account — in their own disclosure, absent from her outline
+Post-conference, Ms Reese wrote to the Regulator *"to correct my statement I made 3.7.25"*: after
+his 15 May email, *"Chloe rang me stating she was upset … and she had contacted HR and spoke to
+Mackenzie Prichard. I then contacted HR … spoke to Brendon Punch from HR. Brendon assist me with
+suggesting wording to put in an email to Cory in reply recommending asking if he could retract the
+email."*
+- The outline compresses this to *"After taking HR's advice"*. The **wording of the retraction request
+  was supplied by HR**, on the account she herself corrected. Neither Mr Punch nor Mr Pritchard is
+  called.
+- Mr Pritchard is the HR officer to whom she had sent his fatigue concern five days earlier (fact 218).
+⛔ Chronology only. Not motive, not knowledge, not the disclosure track. The value is that the
+retraction was an HR-scripted step and the scriptwriters are not witnesses.
+
+### 11.4 The three lists
+
+**Avoided — choices, not accidents:** an expert or any medical witness · any explanation of how the
+7-hour break was rostered · the Regulator's own finding at fact 260 · the 1(a) particulars · every HR
+officer whose advice is relied on (Punch, Pritchard, McGinley, Forrest) · the Aug 2023 and Apr 2024
+rostering errors on his line.
+
+**Missed — errors a check against the record would have caught:** Taylor *"not repeated"* v Reese
+*"a few rostering errors … with regards to Cory's line"* (fact 220) and her own 7 Aug 2023 email
+(fact 287) · *"I did raise my voice"*, admitted 18 Feb 2026 (fact 292) · removal *"on 6 June"* v
+*"last week"* (fact 146) · *"80 hours"* v *"76hrs"* (fact 189) · *"approved that day by the delegate"*
+v the reviewer/manager history (facts 120–121) · Wright's evidence placed inside Earl's outline ·
+the witnesses' own names.
+
+**Misjudged — where the frame was wrong:**
+1. Treating the May SOFC as the live case. Its ¶11 (*"no particulars"*) was answered on 11 Aug.
+2. Treating 298 admissions as nothing to answer. They are the cross-examination.
+3. Volunteering against interest without noticing: the second pandemic decline *"appears to have
+   been made in error"*; the break is *"a rostering practice issue for the line manager"*.
+4. Leading the 16 May forward. It answers reprisal language he is withdrawing, and it imports the
+   disclosure track into the appeal.
+5. Relying on the 2020 agreement after MSH's own HR confined it to staff-initiated swaps (fact 225).
+
+### 11.5 Careless or purposeful — the honest answer is both, at different layers
+| Layer | Reading | Evidence |
+|---|---|---|
+| **Strategy** | ⭐ **chosen** | you do not fail to brief an expert by accident; conduct-only; the careful narrowing of ¶16(a) to *"at the time she sent this email"* with the 16 May forward pre-empted; no character material led |
+| **Execution** | ⭐ **careless** | python-docx defaults, US Letter, 52 minutes before sending; wrong names; wrong witness; contradictions of their own admissions and their own 2025 bundle; no reconciliation against the 303 facts |
+
+⇒ **Inferred, marked:** strategy set by a lawyer (the 8 Sep pattern); execution by a tool or a junior
+from fresh instructions; **no pass against the admitted record before service.** Whether an AI tool
+was used cannot be told from the file and does not matter. ⛔ Intent is never alleged. The witnesses
+are put to their own side's documents, one at a time, and the documents do the work.
+
+### 11.6 One caution on the admissions
+A r 49 admission is that the **document says** what it says. A witness may still give contrary oral
+evidence; the admission stands unless withdrawn with leave (*Tuesley*). The contradiction goes to
+weight and credit, not to an automatic knockout. And Guide 4.10's *"roughly"* means a witness may
+stray beyond the outline; if so, the ambush point is his to take, on the day.
