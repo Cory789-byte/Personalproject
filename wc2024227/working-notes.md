@@ -7739,3 +7739,22 @@ the image pages: p11 = Taylor→Jeffrey 21 May 2024 removing a SECOND Communicat
 rostering"; support person offered); Annexure A Tab 9B = Reese 21 May 2024 "reasons for why I
 recommended this action". Third notice rebuilt: 149 facts, 7 documents; annexure now 52 pp (B5 extract
 9 pp; B7 the LoD). Image-page facts marked RENDER-verified in the builder. ⛔ LoD item 39 not used.
+
+## 2026-09-24 (night) — REQUEST FOR COPIES DRAFTED; THIRD NOTICE v3 (164 facts, 13 documents)
+- Request letter: `drafts/build_request_copies_24sep.py` → `drafts/out/REQUEST_COPIES_DRAFT/` (PDF + TXT).
+  Seven items: LoD item 42; the Technical Support advice; Reese 4:12 pm 15 May 2024; HR's "on file"
+  advice and the "all staff signed" basis (no other employee's form sought); page 1 of the 2020
+  agreement; the pay records behind Earl's 10 Apr 2023 and "80 hours"; any other unlisted document a
+  witness will use. Due Thu 8 Oct 2026; consequence: seek a direction, costs reference. NOT SENT.
+- The Regulator's Form 29 to Qld Health (filed 27 Apr 2026, rendered) sought ONLY the PRN 15480560
+  pandemic-leave material ⇒ item 42 cannot explain Earl's Easter 2023 or 80-hour points, or Wright's
+  Technical Support advice.
+- 2020 agreement as produced (payroll bundle p4, rendered): "Page 2 of 2"; Part C = termination and
+  return to 10 hours; page 1 not disclosed though the July 2025 notice sought the "Complete" agreement.
+- Third notice v3: new Part Five (the two Qld Health notices; the agreement's Parts B–D; LoD item 42);
+  Schedule B now 13 documents: B1–B9 reproduced in Annexure B (85 pp, payroll bundle complete, both
+  sealed notices), B10–B13 the medical documents by LoD item, authenticity only, opinion through author.
+- Employer letter 6 Sep 2024 (LoD 31) clause 23 point HELD BACK — cross only (letter carries attendance
+  and ESU material).
+- SEQUENCE ADVICE: request first; hold the third notice until the copies arrive or 8 Oct, so item 42
+  and any Technical Support document can be folded in before a 14-day clock starts.

@@ -220,3 +220,32 @@ image pages of the Reese bundle (rendered pp 11 and 25) and Annexure A Tab 9B pr
 not the email's words. Sent items still decide it.
 ⛔ Item 39 (Taylor, 10/07/2025) is not used: it carries the 17 May 2024 character email and a
 14 Jan 2024 leave email. Neither is opened.
+
+---
+
+## 10. ADDENDUM, 24 SEPTEMBER (night) — the Queensland Health notices, the agreement as produced, and one point held back
+
+**What Earl's April 2026 return can and cannot be.** The Regulator's notice filed 27 Apr 2026 (Form 29
+to Ms K Wright, Queensland Health; rendered and read) sought one category only: the leave form for
+PRN 15480560, its progression screenshots, leave details and correspondence. ⇒ LoD item 42 (Earl,
+29/04/2026) covers **her pandemic-leave evidence** and nothing else. **The notice asked for nothing
+behind her Easter 2023 "majority of the shift" rule, her "80 hours", or Wright's Technical Support
+advice.** If documents exist for those, they came some other way and are unlisted.
+
+**⭐⭐ The 2020 agreement as the Regulator holds it** (payroll bundle p4, image, rendered and read):
+- it is **"Page 2 of 2"**; page 1 is nowhere in the Regulator's disclosure — though its own July 2025
+  notice (item 3) sought the **"Complete"** agreement;
+- Part B: reduce the 10-hour break to 8 *"for more than one break period"*;
+- ⭐ **Part C — "Termination of Eight-hour shift break agreement"**: *"terminate my existing 8-hour
+  shift break agreement and return to a 10-hour break"* — **the termination mechanism is on the face
+  of the form.** Against Wright's *"no end date … continues to apply indefinitely unless replaced"*,
+  and beside fact 22 (not alleged he was told before 1 May 2024 that he could end it);
+- Part D: line manager Sandra Johnstone, endorsed 15/7/20.
+
+**⭐ Held back from the notice — cross only, his decision.** The employer's letter to WorkCover of
+6 Sep 2024 (LoD item 31) says he *"was also paid an additional days pay due to not being rostered
+Easter Saturday, 30 March 2024, in accordance with clause 23"* of the Award — an **Award
+entitlement**. Earl now calls the same payment a **discretionary allowance** that the line manager must
+approve on an AVAC. ⛔ Not put in the notice: the same letter carries attendance allegations (lateness,
+leaving early) and the ESU outcome paragraph, and a fact quoting it invites the whole letter in.
+Use it in cross from the Regulator's own listed document, if at all.

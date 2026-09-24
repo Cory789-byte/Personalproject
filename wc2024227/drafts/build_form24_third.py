@@ -40,6 +40,9 @@ B3 = "Email, Ms R Matheson to the Appellant, \"Documents in dispute\", received 
 B4 = "Respondent's disclosure, \"Disclosure from witness conferencing - Qld Health Payroll\" (amended List of Documents item 40), email of Ms S Christensen, 11 July 2025 - Annexure B Tab B4"
 B5 = "Respondent's disclosure, \"Disclosure from witness conferencing - Tammy Reese\" (amended List of Documents items 37, 38), extract - Annexure B Tab B5"
 L1 = "The Respondent's amended List of Documents dated 14 August 2026 - Annexure B Tab B7"
+N27 = "Form 29, notice of non-party disclosure requested by the Respondent, filed 27 April 2026, to Ms K Wright, Queensland Health - Annexure B Tab B8"
+N04 = "Form 29, notice of non-party disclosure requested by the Respondent, sealed 4 July 2025, to Queensland Health - Annexure B Tab B9"
+AGR = "Eight-hour shift break agreement form as produced by Queensland Health Payroll, 11 July 2025 (\"8 hr shift agreement July 2020.pdf\") - Annexure B Tab B4, page 4 of that document"
 A9B = "Annexure A Tab 9B to the first notice (authenticity admitted 8 September 2026); also Respondent's amended List of Documents item 38"
 N1 = "The notice to admit facts served 28 August 2026 (the first notice), and the Respondent's response of 8 September 2026 - Annexure B Tab B6"
 
@@ -297,6 +300,26 @@ FACTS = [
      ('B5', "31-1-23 to today")),
  (0, "The Respondent's list of witnesses served on 24 September 2026 does not name Mr Mackenzie Pritchard, Mr Brendon Punch, Ms Elise McGinley or Ms Lyndelle Forrest.", B2),
 
+ ("#", "PART FIVE - THE RESPONDENT'S NOTICES TO QUEENSLAND HEALTH, AND THE 2020 AGREEMENT AS PRODUCED"),
+ ("S", "THE NOTICE OF 27 APRIL 2026"),
+ (0, "On 27 April 2026 a notice of non-party disclosure requested by the Respondent was filed in the Industrial Registry, naming as the nominated party \"Director Client Service & Performance, Kimberley Wright\", Queensland Health.", N27, ('RENDER', 'NNPD 27 Apr 2026 pp1-2')),
+ (0, "The schedule to that notice describes the document to be produced as: \"Leave form of Mr Cory Shepherd for 20 to 27/02/2024 - process reference form 15480560: screenshot(s) of the request progression over time, leave details and correspondence completed in relation to this request and any additional material in relation to the request.\"", N27, ('RENDER', 'NNPD 27 Apr 2026 p3')),
+ (0, "That notice lists among the matters in issue: \"Did the injury arise out of or in the course of: a. Reasonable management action taken in a reasonable way by Qld Health in connection with Mr Shepherd's employment\".", N27, ('RENDER', 'NNPD 27 Apr 2026 p2')),
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 lists at item 42: \"Notice of Non-party disclosure from Qld Health payroll\", \"Nicole Earl\", \"29/04/2026\".", L1,
+     ('L1', "Nicole Earl"), ('L1', "29/04/2026")),
+ (0, "The Respondent's amended List of Documents dated 14 August 2026 does not describe the documents produced in response to the notice listed at item 42.", L1),
+ (0, "The schedule to the notice filed on 27 April 2026 does not describe any document concerning the Appellant's pay for 10 April 2023, the Appellant's contracted hours, or advice given by a technical support team of Queensland Health Payroll.", N27, ('RENDER', 'NNPD 27 Apr 2026 p3')),
+ ("T", "THE NOTICE OF 4 JULY 2025, AND THE AGREEMENT PRODUCED UNDER IT"),
+ (0, "The schedule to the notice of non-party disclosure to Queensland Health sealed on 4 July 2025 describes, at item 3, a document dated 17/06/2020: \"Complete 8 hour shift agreement signed by Mr Cory Shepherd on or around 17/06/2020\".", N04, ('RENDER', 'NNPD 4 Jul 2025 p3')),
+ (0, "The email of Ms S Christensen to Ms Matheson of 11 July 2025 attached a document titled \"8 hr shift agreement July 2020.pdf\".", B4,
+     ('B4', "8 hr shift agreement July 2020.pdf")),
+ (0, "The eight-hour shift break agreement form contained in the document \"Disclosure from witness conferencing - Qld Health Payroll\" bears the footer \"Page 2 of 2\".", AGR, ('RENDER', 'payroll bundle p4')),
+ (0, "The document \"Disclosure from witness conferencing - Qld Health Payroll\" does not contain a page of that form bearing the footer \"Page 1 of 2\".", AGR, ('RENDER', 'payroll bundle pp1-24')),
+ (0, "Part B of that form, headed \"Eight-hour shift break agreement\", states: \"I agree to, in accordance with clause 15.1 of the Hospital and Health Service General Employees (Queensland Health) Award - State 2015, reduce my 10-hour break, between the completion of one shift and the commencement of the next, to an 8-hour break, for more than one break period.\"", AGR, ('RENDER', 'payroll bundle p4')),
+ (0, "That form contains a Part C, headed \"Termination of Eight-hour shift break agreement\", which states: \"I request to, in accordance with clause 15.1 of the Hospital and Health Service General Employees (Queensland Health) Award - State 2015, terminate my existing 8-hour shift break agreement and return to a 10-hour break, between the completion of one shift and the commencement of the next.\"", AGR, ('RENDER', 'payroll bundle p4')),
+ (0, "Part D of that form, headed \"Line Manager Endorsement\", records the line manager's name as Sandra Johnstone.", AGR, ('RENDER', 'payroll bundle p4')),
+ (0, "The outline for Ms Wright does not refer to Part C of that form.", B1),
+ adm(22, "The Respondent's amended statement of facts and contentions dated 13 May 2026, as presently constituted, does not allege that the Appellant was informed, at any time before 1 May 2024, that the 8-hour agreement of 17 June 2020 could be terminated by him."),
  ("#", "PART FOUR - MS MATHESON'S EMAIL OF 24 SEPTEMBER 2026 CONCERNING THE DOCUMENTS IN DISPUTE"),
  ("R", "THE DOCUMENTS IN DISPUTE"),
  (0, "By email with the subject \"WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator - Documents in dispute\", received by the Appellant on 24 September 2026, Ms Matheson stated: \"Upon further review of the appeal file, the Regulator is able to confirm the veracity of the following documents:\" followed by the documents numbered 6, 20, 30 and 30A in the schedule to the Appellant's letter of 9 September 2026.", B3,
@@ -315,10 +338,16 @@ DOCS = [
  ("B1", "The Respondent's Outlines of Evidence, four lay witnesses, five pages", "served 24 September 2026", "Respondent's own document, served under direction 4"),
  ("B2", "Email, Ms R Matheson to the Industrial Registry, copied to the Appellant, attaching the Respondent's list of witnesses", "24 September 2026, 11:50 am", "Respondent's own email"),
  ("B3", "Email, Ms R Matheson to the Appellant, \"Documents in dispute\"", "received 24 September 2026", "Respondent's own email"),
- ("B4", "Extract from the Respondent's disclosure: \"Disclosure from witness conferencing - Qld Health Payroll\" - email of Ms S Christensen to Ms Matheson, copied to Ms K Wright, with the covering page", "11 July 2025", "Respondent's own disclosure, July 2025"),
+ ("B4", "The Respondent's disclosure: \"Disclosure from witness conferencing - Qld Health Payroll\" (List of Documents item 40) - complete, 24 pages: the email of Ms S Christensen, the eight-hour shift break agreement form (Page 2 of 2), the pay-issues emails and the Appellant's pay advices to 2 July 2025", "11 July 2025", "Respondent's own disclosure, July 2025"),
  ("B5", "Extract from the Respondent's disclosure: \"Disclosure from witness conferencing - Tammy Reese\" (List of Documents items 37, 38) - the covering page; emails of Ms Matheson of 30 June and 4 July 2025, of Ms Reese of 7 July 2025 and of Mr Hall of 8 July 2025; the email of Ms Taylor to Ms Jeffrey of 21 May 2024; and the email chain of 14 and 15 November 2023", "30 June to 8 July 2025; 21 May 2024; 14-15 November 2023", "Respondent's own disclosure, July 2025"),
  ("B6", "The Respondent's response of 8 September 2026 to the notice to admit facts served 28 August 2026", "8 September 2026", "Respondent's own document, served"),
  ("B7", "The Respondent's amended List of Documents (Form 23)", "14 August 2026", "Respondent's own document, filed and served"),
+ ("B8", "Form 29, notice of non-party disclosure requested by the Respondent, to Ms K Wright, Queensland Health, sealed", "filed 27 April 2026", "Respondent's own notice"),
+ ("B9", "Form 29, notice of non-party disclosure requested by the Respondent, to Queensland Health, sealed", "4 July 2025", "Respondent's own notice"),
+ ("B10", "General-practice records, Our Medical Ashmore, 1 January 2023 to 1 July 2024 - the complete record as held by the Respondent (not reproduced; extracts served 9 September 2026 at Tab M1)", "various", "Respondent's List of Documents item 11; obtained under the Form 29 signed 4 July 2025"),
+ ("B11", "Work capacity certificates of Dr P Hawes dated 1 July, 11 August and 8 September 2024, and of Dr K Pang dated 7 August 2024 (not reproduced; served 9 September 2026 at Tab M2)", "July to September 2024", "Respondent's List of Documents items 7 and 8"),
+ ("B12", "Email from the practice of Dr R B Krishnaiah to the Appellant, \"Medications\" (not reproduced; served 9 September 2026 at Tab M3)", "24 October 2024, 11:45 am", "Respondent's List of Documents item 9"),
+ ("B13", "Report of Dr R B Krishnaiah, Mind and Memory Service (not reproduced; served 9 September 2026 at Tab M4)", "13 February 2025", "Respondent's List of Documents item 10"),
 ]
 
 # ------------------------------------------------------------------ numbering
@@ -421,7 +450,7 @@ s.append(Spacer(1, 5*mm)); s.append(P("Cory Lea Shepherd<br/>Appellant (self-rep
 s.append(PageBreak())
 s.append(P("SCHEDULE B - DOCUMENTS (ANNEXURE B)", H1))
 s.append(P("Authenticity to be admitted &nbsp;|&nbsp; <i>Industrial Relations (Tribunals) Rules 2011, rule 49</i> &nbsp;|&nbsp; for insertion in Form 25", CEN))
-s.append(P("Each document is the Respondent's own document, or a document in the Respondent's own disclosure. Copies of Tabs B4 and B5 are extracts from the Respondent's disclosure of July 2025 and are enclosed for convenience.", BODY))
+s.append(P("Each document is the Respondent's own document, or a document in the Respondent's own disclosure or List of Documents. Tabs B1 to B9 are reproduced in Annexure B. Tabs B10 to B13 are documents the Respondent holds at the List of Documents items stated; they are not reproduced. Admission of authenticity is sought for this proceeding only; it does not admit any opinion in a document, which the Appellant will lead through its author.", BODY))
 drows = [[P("<b>Tab</b>", SMALL), P("<b>Document</b>", SMALL), P("<b>Date</b>", SMALL), P("<b>Held by the Respondent as</b>", SMALL), P("<b>Admitted / Disputed</b>", SMALL)]]
 for d in DOCS: drows.append([P(f"<b>{d[0]}</b>", SMALL), P(esc(d[1]), SMALL), P(esc(d[2]), SMALL), P(esc(d[3]), SMALL), P("", SMALL)])
 dt = Table(drows, colWidths=[10*mm, 78*mm, 27*mm, 34*mm, 17*mm], repeatRows=1)
