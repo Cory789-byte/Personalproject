@@ -7758,3 +7758,19 @@ recommended this action". Third notice rebuilt: 149 facts, 7 documents; annexure
   and ESU material).
 - SEQUENCE ADVICE: request first; hold the third notice until the copies arrive or 8 Oct, so item 42
   and any Technical Support document can be folded in before a 14-day clock starts.
+
+## 2026-09-24 (night) — ARE THEY STILL DISPUTING ANYTHING DISCLOSED IN 2025? — NO
+Still disputed after 24 Sep: Tabs 1, 5, 17–19, 21, 22, 23, 31 (production from MSH pending) and Tab 24
+(no request made). Not admitted: facts 154, 228–231. Checked each against the July 2025 Reese, payroll
+and FRMS bundles and LoD items 37–42: **none of the disputed tabs is in the 2025 disclosure.** Every
+Annexure A tab drawn from the 2025 disclosure (1B, 2, 3, 4, 7, 8, 8A, 9, 9A, 9B, 12, 13, 14 …) was
+admitted on 8 Sep; the disputes were only ever the "Appellant's own records" column.
+⚠⚠ CORRECTION — fact 154 was WRONG ON OUR SIDE and they were right not to admit it. Fact 154: the
+LoD "does not list the Communication Book, nor any page or entry from it". LoD item 37 lists "Photo
+comms book – 20/05/2024" — rendered today (Reese bundle p12): Ms Jeffrey's entry of 20 May 2024,
+"For your information … I did not change any numbers on the ED cheat sheet". It is a page of the
+book, though not his June 2023 entry. ⛔ Never rely on fact 154. Fact 151 (removed page not alleged
+located or copied) is unaffected.
+⚠ LoD item 37 "Email C Taylor to APP – acknowledge increase in hours": the bundle text shows no
+27 Sep 2023 "Approved – Permanent Full Time FTE" email; most likely Taylor's 7 Aug 2023 1:43 pm reply.
+Not shown to be Tab 5.
