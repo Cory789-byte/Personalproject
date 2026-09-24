@@ -291,3 +291,70 @@ him where its case is weakest.
 | ⭐ Employer's March 2024 roster (Att 4 to the employer's WorkCover response of 6 Sep 2024; image only) | ✅ rendered this date. PP21 shows him 06:00–14:00 on 18 Mar and S/L on 19 Mar, consistent with facts 227 and 235. **No shift is marked as overtime**, so the question in §3.2 stays a question. The 17 Mar entries are not legible enough to rely on |
 | ⛔ Att 7 to the same response, *"Tammy Reese requesting to meet regarding ESU outcome"* (image only) | **not opened.** It bears on §6, which is disclosure-track material. Read it only if that track needs it, and never as a workers' compensation point |
 | Whether the outlines were filed | ⛔ unknown |
+
+---
+
+## 9. ⭐⭐⭐ WHAT THEY AVOIDED, STRESSOR BY STRESSOR — AND WHETHER IT IS A CONCESSION (Cory's question, 24 Sep)
+
+Mapped against the live Form 9A of 8 April 2026, the SOFC of 13 May 2026 and the four outlines.
+
+| Pleaded | SOFC | What the outlines do | Class |
+|---|---|---|---|
+| **Contention 1 — injury, s 32(1)** | ¶8 not admitted, past anxiety | **nothing.** No medical witness, no expert | ⭐⭐⭐ **avoided** |
+| 1(a) directives, presence, communication delays | ¶11 not admitted | a one-line denial by Taylor; the directives and the delays are not addressed | avoided in substance |
+| 1(b) Communication Book | ¶12 | Taylor and Reese, in detail | contested |
+| 1(c) 7 Aug 2023 grievance | ¶13 | Reese, in detail — their strongest material | contested |
+| 1(d) pandemic leave | ¶14 | Taylor silent; payroll concedes the second decline was an error | ⭐ **effectively conceded on reality** |
+| 1(e) the disclosure | ¶15 **admitted** | knowledge only | admitted |
+| 1(f) retraction | ¶16 | Reese and Taylor, in detail; the pleaded comparator email is not addressed | contested, comparator avoided |
+| 1(g) delegate | ¶17 | the 5:03 pm text only; the thirteen months and the policy are not addressed | part avoided |
+| 2(a) pay | ¶¶19–20 | Taylor, Wright, Earl | contested |
+| 2(b) the 25-day AVAC delay | ¶21 | Taylor "confirms the correspondence"; **nobody explains the 25 days** | ⭐ **avoided** |
+| **3(a) the 7-hour break** | ¶22(a) admitted | "human error, not intentional or repeated"; nobody says whose error or how | ⭐⭐ **admitted, unexplained** |
+| **3(b) fatigue framework, prior warnings, 18 Mar workload** | ¶23 "no breach" | Wright "had no knowledge"; nothing else | ⭐⭐⭐ **avoided** |
+| **3(c) fatigue leave refused** | ¶24 | payroll gives a reason Taylor did not give at the time; Taylor does not explain her 1 May 2024 decision or the 23 days | ⭐⭐ **decision-maker avoided** |
+| **3(d) their own reviewer's finding of unreasonable management action** (fact 260) | — | **nothing** | ⭐⭐⭐ **avoided** |
+| **Contention 3 — the SOFC contradicts that finding** | — | **nothing** | ⭐⭐⭐ **avoided** |
+| ¶22(f) the break was not causative | pleaded | **no witness** | ⭐⭐⭐ **avoided** |
+| Post-injury conduct | ¶25 irrelevant | nothing | consistent with pleading |
+
+### 9.1 The pattern
+They contested the 2023 material, where their records are good. They avoided three things:
+**injury and causation, the 7-hour break and everything that follows from it, and their own
+review decision.** That is exactly the ground of the single-stressor route (Contention 2(b)).
+
+### 9.2 ⛔ Is it a concession? No — not in law
+- Choosing not to call evidence is not an admission. The SOFC denials stand. They can still
+  cross-examine and make submissions on the documents.
+- ⛔⛔ **He carries the onus** (SOFC ¶5, and the interlock correction). ⚠ The live Form 9A's
+  Contention 2 says *"The Respondent bears the onus under Prizeman"*. **That is wrong** and must
+  never be the basis of this argument. The vacuum helps him only because **his** evidence then
+  stands unanswered.
+- ⚠ **Causation can still be attacked without an expert**, through cross-examination of his doctors
+  on the records the Regulator holds. No expert is not the same as no challenge. ⛔ Defensive
+  posture on the personal-history material stands unchanged.
+
+### 9.3 ⭐⭐ But in practical effect, on the decisive route, it comes close
+- The break is admitted. Their reviewer's finding that it was unreasonable is an admitted document.
+  Their explanation is two words, *"human error"*, from the manager who rostered it. Nobody says the
+  break was reasonable management action, nobody explains it, and nobody says it was not causative.
+- ⭐ **Uncontradicted evidence is ordinarily accepted** unless cross-examination damages it. On
+  injury, causation and the break, his evidence will be the only evidence.
+- ⚠ **Failure to call witnesses within the Regulator's reach** — the officer who built the roster,
+  the HR officers whose advice is relied on, a psychiatrist — may support an inference that their
+  evidence would not have helped (*Jones v Dunkel*). ⛔ **Unverified in this matter:** whether and how
+  that inference applies to a statutory respondent calling a non-party employer's officers. Read the
+  authority before relying on it. It never fills a gap in his own proof.
+
+### 9.4 What the avoidance is consistent with — inferred layer, two readings
+1. **A real defence on the global evaluation** — make 2023 the story, treat March as a minor slip,
+   and test causation through his doctors in cross.
+2. **A compliance filing ahead of a conference** — the minimum needed to meet direction 4, pitched
+   where the records are good, silent where they cannot win, and no character attack.
+
+⭐ **What separates them:** whether the Regulator now moves to **add** evidence — an expert, an HR
+officer, a rostering officer — before a hearing is set. Filling the vacuum means reading 1. Leaving
+it means the silence was economy, and economy on the decisive issue is the posture of a party
+expecting to resolve, not to win. Priced at E34: a variation or added expert **20%**.
+
+⚠ After the E34 miss, this is stated as a test to watch, not a prediction to rely on.
