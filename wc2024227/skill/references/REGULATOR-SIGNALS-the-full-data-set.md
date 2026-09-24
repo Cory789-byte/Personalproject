@@ -103,6 +103,30 @@ Both position-mode replies anchor to **"our Statement of Facts and Contentions"*
 | **1 Oct+** | the response to direction 5 | conference or hearing; whether counsel is to attend (s 552B) |
 | at the conference | which s 32 elements they agree | (a)–(d) agreed = the appeal is s 32(5)(a) only; (d) contested = causation is their case |
 
+### B.1 · Update, 24 September 2026 — what fired (see E34 and `RESPONDENT-CASE-24SEP2026-full-evaluation.md`)
+
+| Row | Fired | How |
+|---|---|---|
+| any reply before 25 Sep | ✅ | Thu 24 Sep 09:51, operational email in her own name, four tabs conceded early |
+| register | operational | no attachment, no rule quoted, no reservations |
+| author field | n/a | email only |
+| the thirteen conceded | ⚠ 4 of 13 | nine sent to MSH for production — **none maintained, none with a reason**. Not a fight chosen on authenticity |
+| Tab 31 | "MSH has been asked" | lumped with eight other MSH-held tabs |
+| the formula | absent | anchor moving, or simply not restated |
+| footing letter | silence | as expected |
+| names on the list | ⭐ **Taylor and Reese**, plus two payroll officers | full conduct defence, **six days early** |
+| outlines go to *why*? | partly | HR advice, *"human error"*, *"rostering practice issue"* — reasons given second-hand, no HR witness |
+| expert or report | ❌ **none** | no IME commissioned that is to be relied on; causation uncontested by evidence |
+| counsel appearance | ❌ none | outlines carry drafting errors; no counsel hand evident |
+
+**Next, in order:**
+1. ⛔ **Direction 5 — his step, by 1 October.** Directions were finalised 24 Sep. Conference or hearing is his election; r 230 abeyance if nothing is done.
+2. **MSH production of the nine tabs** (R22) — no date given; the 9 Sep letter's NNPD fallback stands.
+3. Any application to vary the directions to add an expert, or a s 556 application — now needs leave, since direction 4 required expert reports by 30 Sep.
+4. Any appearance naming counsel.
+5. The Registry's response to direction 5 — a conference listing, and whether counsel is to attend (s 552B).
+6. EMP: E09 and E10 remain overdue.
+
 ---
 
 ## C · FALSIFIERS — what would break this model

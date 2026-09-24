@@ -101,4 +101,4 @@ silence is only classifiable once the 30 September list is in front of you.**
 
 ⚠ **Do not classify the 25th alone. Hold it against the 30th.**
 
-**OUTCOME:** ______
+**OUTCOME:** ❌ The modal letter did not arrive (24 Sep 2026). What came: an operational email in her own name; 4 of 13 conceded, 9 sent to MSH with Tab 31 among them; no position sentence and no formula (§2 rows 5 and 6 ✅); no reservations block; none of the three decisive sentences (§4). The 'loudest quiet signal' did not fire — MSH is named. Held against the list, per the instruction above: defence-assembly. See E34.

@@ -7672,3 +7672,32 @@ the limitation. Answer: the obligation was discharged (fit 3 Jul, psychosocial i
 the exclusion continued past both. An authorisation spent is not an authorisation.
 ⚠ Gap 3 (last shift actually worked before 26 Jun 2026) STILL UNVERIFIED since August. Obtainable
 from the payslips. Cheapest load-bearing item outstanding.
+
+## 2026-09-24 — ⭐⭐⭐ THE RESPONDENT'S CASE ARRIVES: documents reply, witness list, outlines (six days early)
+Filed: `documents/respondent-served-2026-09-24/` (3 documents, README with hashes).
+Evaluation: `skill/references/RESPONDENT-CASE-24SEP2026-full-evaluation.md`. Scoring: E33, E34.
+- **09:51 documents reply** — Tabs 6, 20, 30, 30A confirmed "upon further review of the appeal file";
+  Tabs 1, 5, 17–19, 21, 22, 23, 31 requested from MSH. No reason given for any dispute. The split
+  tracks custody exactly ⇒ E30 not falsified.
+- **11:50 list** — Taylor, Reese, Wright (payroll), Earl (payroll). **Outlines** — conduct only
+  under s 32(5)(a); ⭐⭐ **no expert, no medical witness, no causation evidence.**
+- ⭐⭐ **Conflicts with the admitted record:** the 2020 agreement (Wright "indefinitely" v Forrest
+  "only … staff initiated shift swaps", facts 224–225, 234); two reasons for the fatigue refusal
+  (8-hour agreement 1 May 2024, fact 247, v not overtime) against payroll's "one of the shifts needs
+  to be overtime" (fact 188); "could refuse shifts" v "ordinary rostered hours"; Easter Monday 2023
+  (Taylor v Earl); AVACs only the manager can lodge (Wright; facts 200–201); pandemic leave — Earl
+  concedes the second decline was an error, says "approved that day by the delegate" against facts
+  120–121; Communication Book removed "last week" (fact 146) and "I did raise my voice" omitted;
+  Earl's "80 hours" v "76hrs" (fact 189).
+- ⭐ **What they do well:** Reese's Aug–Sep 2023 process; the Easter FTE explanation; the 6 Jun 2023
+  raised-voice account is in Taylor's contemporaneous email (his own Tab 1B).
+- ⛔ Reese's outline adds the 16 May 2024 HR forward of his ESU complaint about Taylor — PID track
+  only; nothing turns on it under s 32(5)(a); it answers language in the unamended Form 9A.
+- ⭐⭐ **MODEL FAILURE, recorded at E34:** the conduct defence was the branch priced at 16. The model
+  read admissions of documents as concession of reasonableness. They are not. The case is now one
+  evaluative question on admitted facts.
+- Brier: E24 panel won the shape (0.84); E28 won the three binaries; everyone lost on the thirteen.
+- ⛔⛔ **DIRECTION 5 IS LIVE:** directions finalised 24 Sep. He must contact the Registry to proceed
+  to a second s 552A conference or to hearing **by 1 Oct** (r 230). The election is his.
+- Still his decisions, none taken: direction 5 election · the held Form 24/25 filing email · the
+  unserved Second Amended Form 9A · NNPD if MSH does not produce the nine.

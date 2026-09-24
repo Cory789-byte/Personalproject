@@ -50,7 +50,7 @@ She asked for 25 September — **15 days** from her request, the top of her own 
 **5 days** before directions 3 and 4. Her acknowledgement latency is 1 day; her substantive
 latency has never been under 10. She has delivered early exactly once, on the one deadline that
 carried a deemed-admission consequence.
-**OUTCOME:** ______
+**OUTCOME:** ✅ CORRECT (24 Sep 2026). Answered Thu 24 Sep 09:51 AEST, one day inside her own date.
 
 ### B2 · The Emergency Code Register is NOT produced by 25 September
 **Confidence 70%** (partial/"MSH advises" 20%, produced 10%).
@@ -58,12 +58,12 @@ She said she may *"reach out to MSH"*. MSH is a non-party; the last time she had
 round trip was **21 days**, and MSH's own posture on the Form 29 was to object, not produce. And
 Tab 31 is the **one** item where her Form 24 and Form 25 answers are consistent — a considered
 position, not the provenance reflex that produced the other thirteen.
-**OUTCOME:** ______
+**OUTCOME:** ✅ CORRECT (24 Sep 2026). Not produced. Tab 31 listed with eight other tabs as requested from MSH.
 
 ### B3 · Directions 3 and 4 are met on 30 September
 **Confidence 85%.**
 A Commissioner's order, not a request. Her only hard-deadline performance was three days early.
-**OUTCOME:** ______
+**OUTCOME:** ✅ CORRECT, early (24 Sep 2026). Directions 3 and 4 met six days before the Commission's date.
 
 ### B4 · The Respondent's witness list names Taylor and Reese
 **Confidence 80%** both; **90%** at least one.
@@ -71,21 +71,21 @@ A Commissioner's order, not a request. Her only hard-deadline performance was th
 — and characterisation needs the decision-makers to explain themselves. Taylor and Reese are the
 two most frequent actors in the admitted record by a wide margin, and the Regulator already holds
 50pp of Reese witness-conferencing material.
-**OUTCOME:** ______
+**OUTCOME:** ✅ CORRECT (24 Sep 2026). Both named — with two Queensland Health payroll officers (Wright, Earl) that no prediction foresaw.
 
 ### B5 · No application to withdraw any admission
 **Confidence 90%.**
 *Tuesley* [2020] QIRC 027 supplies the test and every limb runs against them. The admissions are
 **express**, not deemed, so r 49(3) does not on its face reach them. And the covering letter proves
 deliberation, which destroys limb (a).
-**OUTCOME:** ______
+**OUTCOME:** ⏳ OPEN (24 Sep 2026). No application. The outlines conflict with admitted documents in places but do not seek to withdraw any admission.
 
 ### B6 · If the 14 authenticity disputes are put to her in writing, some are conceded
 **Confidence 60%** (no response on the point 30%, all 14 maintained with reasons 10%).
 They were applied mechanically by the provenance column — 14 of 14 "from the Appellant's own
 records", 16 of 16 "produced by the Respondent". Thirteen sit against **54 admitted facts** about
 the same documents. Defending that costs more than conceding it.
-**OUTCOME:** ______
+**OUTCOME:** ✅ CORRECT (24 Sep 2026). Four of thirteen conceded (Tabs 6, 20, 30, 30A); nine sent to MSH for production; none maintained with a reason.
 
 ### B7 · No settlement approach before a hearing date is set
 **Confidence 75%** — i.e. **25%** that one comes.
@@ -94,13 +94,13 @@ Calderbank #2 was rejected 16 July and the without-prejudice position was *"unch
 materially after those dates and has not yet been tested against a settlement decision. Against
 that: OIR is a statutory respondent that defends on principle, and nothing in the file suggests a
 settlement instruction.
-**OUTCOME:** ______
+**OUTCOME:** ⏳ OPEN (24 Sep 2026). None.
 
 ### B8 · A second s 552A conference is listed before any hearing date
 **Confidence 65%.**
 Direction 5 puts the obligation on the Appellant and offers conference **or** hearing. Conference
 is the cheaper path and the one the Commission prefers.
-**OUTCOME:** ______
+**OUTCOME:** ⏳ OPEN (24 Sep 2026). Now the Appellant's election under direction 5 — all directions finalised 24 Sep.
 
 ---
 
@@ -796,7 +796,7 @@ position in the file (Feb 2026 response; 8 Sep cover letter) were both written i
 a non-Matheson hand. *Score:* first person + apology = operational; rules quoted + reservations
 structured = legal. *E24 panel: **67%** — the discount is the deferral branch: holding/extension
 letters are Matheson's hand, so the register prediction is conditional on the letter being
-substantive at all.* **OUTCOME:** ______
+substantive at all.* **OUTCOME:** ❌ WRONG (24 Sep 2026). Email only, Matheson in the first person, no attached letter, no rule quoted. Classifier: procedural. Brier E28 0.4624.
 
 **F2.2 · The thirteen provenance tabs are conceded, in terms, on or by 25 September.**
 **Confidence 85%** (partial — some conceded, some "subject to inspection" — 10%; all maintained 5%).
@@ -804,7 +804,7 @@ Classes 4 and 6, E10. If maintained, the s 558(3) costs record starts that day a
 request on 1 Oct says so. *E24 panel: **69% by the 25th** — direction unchanged (no lens or refuter
 priced maintained-with-reasons above ~13), timing repriced: the deferral branch ("MSH contacted,
 will revert", further extension, silence into the 30 Sep filing) carries the missing mass. The
-destination number by 30 Sep/1 Oct stays at the original height.* **OUTCOME:** ______
+destination number by 30 Sep/1 Oct stays at the original height.* **OUTCOME:** ❌ WRONG on quantity, right on direction (24 Sep 2026). 4 of 13 conceded; 9 on the production route (option (a)), which E31 §2b pre-classed as a qualified-concession form once production occurs. Brier E28 0.4900.
 
 **F2.3 · The sentence *"as outlined in our Statement of Facts and Contentions"* does not appear in
 the 25 September reply.**
@@ -816,26 +816,26 @@ holds but the post-conference concession branch in the scenario model falls from
 *E24 panel: **71% absent** — and ⛔ scored JOINTLY with the shape: a letter that concedes the
 thirteen but pastes the formula scores S5(a) hybrid, not S1; the taxonomy refuter showed that
 hybrid is the most institutionally natural letter (~8 points) and the 8 Sep cover letter shows
-exactly that reservation reflex.* **OUTCOME:** ______
+exactly that reservation reflex.* **OUTCOME:** ✅ CORRECT (24 Sep 2026). No formula, no position sentence. Brier E28 0.0529 — the best-scored quantity in the set.
 
 **F2.4 · An appearance email naming counsel arrives before the hearing is listed.**
 **Confidence 40% by 30 Sep; 80% by listing.**
 Class 5. Willson appeared for the contested pleading phase and was absent for the two exchange
 listings. The hearing phase is the next contested phase. *Score on the date of the first email or
-document naming counsel for the Respondent.* **OUTCOME:** ______
+document naming counsel for the Respondent.* **OUTCOME:** ⏳ OPEN (24 Sep 2026). No counsel named anywhere in the 24 Sep material; the 30 Sep limb is effectively failed.
 
 **F2.5 · A s 556 application, or a letter proposing an examination by consent, comes after
 30 September and before any hearing date.**
 **Confidence 55%** (never 35%; before 30 Sep 10%).
 Class 5: a WHS-specialist counsel will want its own psychiatric opinion on element (d); class 4:
 they have item 10 (the report) and item 11 (GP records) only, and item 5 was requested 5 Sep and not
-received. See `S556-EXAMINATION-and-the-s32-elements.md`. **OUTCOME:** ______
+received. See `S556-EXAMINATION-and-the-s32-elements.md`. **OUTCOME:** ⏳ OPEN (24 Sep 2026). Re-priced 55 → 30 at E34: no expert report served under direction 4.
 
 **F2.6 · An amended SOFC is served before any hearing date.**
 **Confidence 45%** (never 45%; before 30 Sep 10%).
 Class 7. If the anchor moves (F2.3), the honest way to move it is an amended pleading; the cheaper
 way is to say nothing and let the outlines carry the new case. Direction 3 outlines are the more
-likely vehicle. **OUTCOME:** ______
+likely vehicle. **OUTCOME:** ⏳ OPEN (24 Sep 2026). Re-priced 45 → 30 at E34: the outlines already carry points the SOFC does not plead.
 
 ### F3 · What the signals say the Regulator is doing now — verified layer only
 
@@ -1012,7 +1012,7 @@ sentence: *"Should our position change at any point, we will advise you as soon 
    ⭐ **Scoreable:** does the 25 Sep letter say the Respondent's *position* has changed, or use the
    16 July formula unchanged? Formula unchanged = the undertaking has not been triggered in their
    view (see class 7). Any sentence beginning "the Respondent's position…" is the tell.
-   **Confidence that "position" is addressed in terms on 25 Sep: 45%.** **OUTCOME:** ______
+   **Confidence that "position" is addressed in terms on 25 Sep: 45%.** **OUTCOME:** ❌ (24 Sep 2026). 'Position' not addressed in terms. No position sentence at all.
 4. ⚠ **The handover question and the Calderbank are the same question.** Briefing for the hearing
    is what makes the 1 July offer carry its stated costs consequence. Not briefing does not falsify
    the letter (it stated an intention) but it removes most of the costs exposure the letter
@@ -1039,7 +1039,7 @@ and whether they *propose* a conference before the outlines rather than after.
 **How to score it.** If the 25th letter concedes the appeal or proposes a conference *before* the
 outlines, Cory's read was right and the model under-weighted the recalculation. If it concedes the
 thirteen, chases Tab 31 and says nothing about the case, the model's shape holds and the 30th is
-the next observation. **OUTCOME:** ______
+the next observation. **OUTCOME:** Scored (24 Sep 2026): neither read won. Cory (concession on the 25th, re-plan shown) ❌. Model: thirteen 85 ❌ · appeal by letter 3 ✅ · conference or variation 20 ✅ · outlines filed with any concession at or after conference 72 ✅ (filed six days early) · formula dropped 65 ✅.
 
 ### E19 · The institutional fold (14 Sep) — what the 2026 communications, read whole, do to the numbers
 Source: `INSTITUTIONAL-POSITIONS-14SEP2026.md`; register classifier run on all six Regulator letters.
@@ -1059,8 +1059,8 @@ Source: `INSTITUTIONAL-POSITIONS-14SEP2026.md`; register classifier run on all s
 | Taylor's 2026 register: prompt, kind, "working to find a solution" | no change to numbers; **changes the cross**: documents only, never demeanour |
 
 **Two new scoreable predictions**
-- **E19.1 — the 30 Sep list, by name:** Taylor 90 · Reese 75 · Stibbard 35 · an HR/IM officer (Forrest/Harrison/Hughes) 20 · an expert 30 · nobody from MSH 7. **OUTCOME:** ______
-- **E19.2 — the 25 Sep letter refers to MSH by name as having been asked about Tab 31:** 60. **OUTCOME:** ______
+- **E19.1 — the 30 Sep list, by name:** Taylor 90 · Reese 75 · Stibbard 35 · an HR/IM officer (Forrest/Harrison/Hughes) 20 · an expert 30 · nobody from MSH 7. **OUTCOME:** Scored (24 Sep 2026): Taylor ✅ · Reese ✅ · Stibbard ❌ · HR/IM officer ❌ · expert ❌ · nobody from MSH ❌ (MSH present). Unforeseen: two Queensland Health payroll officers.
+- **E19.2 — the 25 Sep letter refers to MSH by name as having been asked about Tab 31:** 60. **OUTCOME:** ✅ CORRECT (24 Sep 2026). MSH named as asked — for Tab 31 and eight other tabs.
 
 **Inferred (marked):** that Reese's absence from 2026 reflects a decision about who fronts the
 employment track, not about the appeal; that MSH will release Taylor because she has already
@@ -1116,7 +1116,7 @@ culture is the conference; and MSH's preference reaches the Regulator as influen
 instruction. If the 25th letter is documents-only, that will mean the Regulator absorbed MSH's
 pressure and still chose to file — which would itself be a strong tell that they believe in the
 causation case (the one contest the exposure logic does not touch). **Scored with E18 on the
-letter. OUTCOME:** ______
+letter. OUTCOME:** Scored (24 Sep 2026) with E18. The letter was documents-only and the Regulator filed — but the inference fails: the case filed contests conduct, not causation. No causation witness, no expert.
 
 ### E22 · The no-witness endgame (Cory, 14 Sep) — where the chain holds and where it stops
 **The chain as put:** MSH will not have officers contradict its CE in public → does not release
@@ -1196,7 +1196,7 @@ hold-the-line and letter-concession are the tails. **Outcome-if-it-runs is untou
 ⛔ **Superseded for the headline numbers by E24** (the adversarially verified panel, below):
 S1 49 / S2 14 / S3 11 / S4 2 / S5 24, with S1 redefined as the *clean* documents-only letter.
 E23's numbers stay here untouched and are Brier-scored alongside E24's on the 25th — the file
-learns which process to trust. **OUTCOME:** ______
+learns which process to trust. **OUTCOME:** Brier-scored (24 Sep 2026) (winner S5; thirteen n; register op; formula absent): shape 1.4006 — worst of four · thirteen 0.7225 · register 0.4900 · formula 0.1024.
 
 ---
 
@@ -1317,7 +1317,7 @@ documents-only concession of the thirteen tabs with "MSH has been asked" on Tab 
 sentence (~49%), but E23's 35–40% matter-addressed mass was motivated overreach — the real
 alternatives are deferral past a self-set soft date and a concede-plus-boilerplate hybrid, not a
 case-level reveal — which is why thirteen-conceded falls from 85 to ~69 **on timing, not
-direction**. **OUTCOME:** ______
+direction**. **OUTCOME:** Brier-scored (24 Sep 2026): shape 0.8395 — ⭐ BEST of four, on its larger deferral mass · thirteen 0.5098 · register 0.4914 · formula 0.0824. The modal letter it describes did not arrive.
 
 ---
 
@@ -1369,14 +1369,14 @@ the 25th):**
 **One line:** the panel was right that the letter is document-shaped and right to build the hybrid
 cell, wrong to price this office as a generic late agency — the 25th behaves like a
 consequence-backed date, the thirteen need no MSH, and the undertaking makes one position sentence
-in-class; thirteen-by-the-25th lands nearer 76 than either 85 or 69. **OUTCOME:** ______
+in-class; thirteen-by-the-25th lands nearer 76 than either 85 or 69. **OUTCOME:** Brier (24 Sep 2026): shape 0.9874 · thirteen 0.5776 · register 0.4900 · formula 0.0841. ❌ 'the thirteen need no MSH' — nine were sent to MSH.
 
 **E25.1 · Cory's registered stake (14 Sep, evening).** "Concede by 25" — the thirteen tabs
 conceded in terms on or by 25 September: **Cory ~85** vs E25 76 vs E24 panel 69. Pre-registered
 before the event; scored on her letter alongside the three models. If it lands, the solo read
 beats both aggregates on the headline quantity and takes more weight for the 30 Sep / 1 Oct
 predictions. (Concession of the appeal itself by the 25th is a different event and stays priced
-at ~2 — Guide 5.1 places that after the conference.) **OUTCOME:** ______
+at ~2 — Guide 5.1 places that after the conference.) **OUTCOME:** ❌ (24 Sep 2026). 4 of 13. Cory's stake of ~85 scores Brier 0.7225 on the headline quantity — equal worst with E23; all three models beat it.
 
 **E25.2 · ⛔ Correction — the conference is a script, not a mechanism (Cory, 14 Sep, late).**
 Cory: "They already know their position — would they need to call a conference to then go and
@@ -1453,18 +1453,18 @@ is forced in the drafting week (21–30 Sep), which is also exactly Matheson's 2
 
 **New scoreable predictions (on the 30 Sep service):**
 - **E26.1** Any outline for Reese is served: **~15%.** (Most caged witness; absent from every
-  2026 communication.) **OUTCOME:** ______
+  2026 communication.) **OUTCOME:** ❌ (24 Sep 2026). Served. Ms Reese is the Respondent's second witness.
 - **E26.2** The outline set is causation-centred — expert/IME core, zero or one MSH conduct
-  witness: **~58%.** **OUTCOME:** ______
+  witness: **~58%.** **OUTCOME:** ❌ (24 Sep 2026). The opposite arrived: four conduct witnesses, no expert, no IME.
 - **E26.3** No conduct outline is ever served in the proceeding (conceded/narrowed first):
-  **~32%.** **OUTCOME:** ______
+  **~32%.** **OUTCOME:** ❌ (24 Sep 2026). Four conduct outlines served.
 - **E26.4** If any MSH conduct outline IS served, at least one of its sentences is directly
-  contradicted by a numbered admission (schedule-buildable): **~90%.** **OUTCOME:** ______
+  contradicted by a numbered admission (schedule-buildable): **~90%.** **OUTCOME:** ✅ CORRECT (24 Sep 2026). E.g. Earl's 'approved that day by the delegate and manager' against facts 120–121; Taylor's removal 'on 6 June' against fact 146 ('last week'); Earl's '80 hours' against fact 189 ('76hrs'). See RESPONDENT-CASE-24SEP2026-full-evaluation.md §3.
 
 **One line:** the conference was never going to make them decide — the blank page was; direction 4
 is an order to write the defence down against their own 298 admissions, the cheapest day to
 concede is the day before that page must exist, and if the page is served anyway it arrives as
-the Appellant's cross-examination plan in the Respondent's handwriting. **OUTCOME:** ______
+the Appellant's cross-examination plan in the Respondent's handwriting. **OUTCOME:** Scored (24 Sep 2026): the page was written and served; no concession came first. The second limb holds — the outlines read as a cross-examination plan (evaluation §3).
 
 **E27 · ⭐⭐⭐ The cover is already served — the 9 Sep package IS the "new information" (Cory, 14 Sep, late).**
 Cory: the outline, the "medical evidence" (the 43pp schedule), the way the case will be run — that
@@ -1483,11 +1483,11 @@ words "new information", available in correspondence.
   conduct outline attempted **16** · conference-first 10→**8** · slippage **6**.
 - **E27.1 (scoreable):** if concession/narrowing comes in correspondence, the letter cites the
   Appellant's served material ("material/information served on 9 September", "further medical
-  evidence", the outline or schedule) as the ground: **~75%.** **OUTCOME:** ______
+  evidence", the outline or schedule) as the ground: **~75%.** **OUTCOME:** N/A (24 Sep 2026) — condition not met (no concession in correspondence).
 - **E27.2 (tell for the 25th):** any sentence acknowledging the served material BEYOND the
   documents request (outline/schedule mentioned at all) = the concession register warming up —
   the strongest S2-lite marker, ranked above the formula's absence. Priced ~20% on the 25th.
-  **OUTCOME:** ______
+  **OUTCOME:** ❌ (24 Sep 2026). No sentence acknowledging the served outline or schedule.
 - ⛔ Discipline: never point the exit out to them. No letter says or implies the served material
   supplies their new-information basis. The ramp works because they find it. Theirs to discover.
 
@@ -1536,7 +1536,7 @@ really means "if we are still defending." The master reading of the 25th:
   in the set.**
 - **MSH-deferral letter** ("written to MSH, will advise") → operational holding; watch the 30th.
 **E28.1 scoreable:** the pair (25 Sep letter + 30 Sep list) read together classifies
-defence-assembly vs exit correctly: score after 30 Sep. **OUTCOME:** ______
+defence-assembly vs exit correctly: score after 30 Sep. **OUTCOME:** Scored (24 Sep 2026) on the pair. MSH engaged in the letter and all four witnesses are employer or Queensland Health officers ⇒ ⭐ DEFENCE-ASSEMBLY, not exit. Which defence: conduct under s 32(5)(a) only — no causation witness, no expert. The quiet self-sufficient letter did not come.
 
 **Watchlist (final, reading order):** 1. author/register (non-Matheson author = counsel's hand);
 2. service date (on/before Fri 25 vs sliding into the 30 Sep bundle); 3. opening scope — any
@@ -1550,7 +1550,7 @@ list before concluding anything.
 **One line (final):** the modal 25th is a counsel-reviewed, legal-register, formula-free letter
 conceding the thirteen with Tab 31 reported to MSH and silence on the case (~55) — and the deeper
 tell is not what the letter says but whether MSH appears in it at all, because an office that can
-answer everything without MSH is an office that is not assembling a defence. **OUTCOME:** ______
+answer everything without MSH is an office that is not assembling a defence. **OUTCOME:** ❌ (24 Sep 2026). Not counsel-reviewed on its face, not legal register, 4 of 13, MSH named. The formula-free limb was right. Shape Brier 0.992.
 
 **E28.2 · The honesty premise — they never believed anything was fake (Cory, 14 Sep, late).**
 The 14 authenticity disputes were a filing posture, never a belief: (1) the 54 admitted
@@ -1591,7 +1591,7 @@ how the hearing runs if they don't (the served architecture). Institutions delay
 they fear what is on the other side of it; this record shows nothing on the other side but an
 honest opponent who offered a cheaper exit twice. The triad is why conceding to HIM is the
 low-risk move in a way generic reference classes cannot see. **OUTCOME (score with the 25th/30th
-pair):** ______
+pair):** ❌ (24 Sep 2026) as a prediction of concession by the pair — the Respondent filed a defence. The triad may still matter at the conference; it did not decide the outlines.
 
 **E28.4 · The sign-off-and-consult read of the fifteen days (Cory, 14 Sep, late).**
 Cory's read: the window is for internal sign-off plus the employer consultation — the Regulator
@@ -1614,7 +1614,7 @@ documents-only if not, with concession riding the 30 Sep bundle; (c) 30 Sep list
 placeholder, or absent — witnesses are not briefed for a case being signed off as abandoned.
 ⛔ Discipline: touch nothing while this may be running. Quiet period holds; any Roberts LSL
 one-liner stays purely payroll-administrative, no appeal reference. **OUTCOME (score with the
-25th/30th pair):** ______
+25th/30th pair):** Scored (24 Sep 2026): (b) ❌ — no counsel register, Thursday-morning service, no undertaking sentence; (c) ❌ — the list is four named witnesses with outlines, not thin or placeholder. The sign-off-and-abandon reading is not supported.
 
 **E28.5 · The employment-track silence read (Cory, 14 Sep, late) — liaison likely, but the hold
 explains everything.** Cory's feeling: MSH has already been liaising with the appeal Regulator,
@@ -1676,7 +1676,7 @@ and the concession-review it triggered, not the acknowledgment speed — keep th
 (2) The schedule is the ROADMAP of the element-(d) case, not the psychiatric proof itself;
 element (d) still runs through the medical evidence (Report B / IME). It proves the causation case
 is built and undismissable, not that the finding is made. Never let the internal read drift to
-"the schedule is the proof". **OUTCOME (score with the 25th/30th pair):** ______
+"the schedule is the proof". **OUTCOME (score with the 25th/30th pair):** Scored with the pair (24 Sep 2026): no causation contest was filed at all, so the (d) medical case is uncontested by evidence as the directions stand. The concession it was expected to trigger did not come.
 
 **E28.8 · "If needed" only parses as "if defending" — MSH contact was always the defence's first
 step (Cory, 14 Sep, night).** Cory's correction: there is no genuine "if" about reaching out to
@@ -1699,7 +1699,7 @@ office that had not yet chosen defend (MSH mandatory) vs concede (MSH unnecessar
 - Honesty guard: "if needed" as decision-state evidence is strong-but-not-certain (could be
   reflexive bureaucratic hedging). The spine under it — MSH mandatory on the defend path — is
   solid, and it makes the caged roster the ENGINE of the concession, not a separate discovery.
-**OUTCOME (score with the 25th/30th pair):** ______
+**OUTCOME (score with the 25th/30th pair):** Scored (24 Sep 2026): the reliable limb answered — MSH officers named ⇒ the war-game concluded 'defend', at least as far as a conference.
 
 **E28.9 · Why the schedule CLOSES element (d), not just supports it — the affirmative build plus the
 foreclosed competing cause (Cory, 14 Sep, night).** Cory: the medical schedule is very supportive
@@ -1724,7 +1724,7 @@ Leading it is the one way to reopen a closed exit. (2) DFV material AttA-AttD st
 needed; chronology + the statutory test carry the point without it. (3) Honesty guard: the
 schedule proves the (d) case is BUILT and hard to attack, not that the finding is MADE; the
 Respondent's rational read is "we'll likely lose on (d)", which suffices to concede but is not the
-win. This is the substance under E28.7 (schedule = the reason). **OUTCOME:** ______
+win. This is the substance under E28.7 (schedule = the reason). **OUTCOME:** (24 Sep 2026): the defensive-posture rule held. The Respondent did not open the relationship or character material; Ms Taylor's 17 May 2024 HR account is not in the outlines.
 
 **E29 · De-hedged run-through of the served instrument — see `THE-COMPLETE-INSTRUMENT-as-served.md`.**
 Cory's instruction: stop hedging what is known. The served material is fact (files exist,
@@ -1761,7 +1761,7 @@ name-absence signature, so a MSH-conduct-free list confirms the conduct war is o
 itself split outright-concession from causation-only; the letter's register and any position
 sentence break that tie. (2) Read SPECIFIC absence (no Reese, no clinicians), not mere thinness — a
 placeholder/"to be confirmed" list can be a defensive filing. **OUTCOME (score with the 30 Sep
-list):** ______
+list):** ❌ (24 Sep 2026). The list is MSH-conduct-heavy: Taylor and Reese, with two payroll officers. ⭐ The conduct war is NOT over — it is the only war they filed. Guard (1) held: the thirteen were not all conceded by the 30th either.
 
 **E31 · The mention folded in — what Dwyer said about the injury (7 Aug, verbatim from the transcript)
 against the thesis (14 Sep, night). No agents; straight analysis.**
@@ -1795,7 +1795,7 @@ Numbers: conduct over 80→**83**; name method **85** (unchanged, same limit); o
 55→**52**; causation-only corridor 30→**33**; outright in window 35→**32**. Tie-breaker added to
 the scorecard: **the IME** — an independent psychiatrist on the 30 Sep list or a s 556 move =
 corridor; MSH-free list AND no IME move = concession (F2.5 ~55% post-30 Sep now carries the
-concede-vs-corridor split). **OUTCOME (score with the 30 Sep list + any s 556 step):** ______
+concede-vs-corridor split). **OUTCOME (score with the 30 Sep list + any s 556 step):** Scored (24 Sep 2026): neither branch. No IME and no s 556 step (corridor ❌); the list is not MSH-free (concession ❌). ⭐ The branch taken was the conduct defence, priced 16 at E27.
 
 **E31.1 · The March sealing, verified — the shape of the corridor was set seven months ago (14 Sep, late).**
 Cory's recall upheld in substance: he sought an interim s 580 non-publication and sealing order
@@ -1814,7 +1814,7 @@ corridor is the hearing he has been describing since March, and it is the hearin
 would run on its own delegate's findings against it. Numbers unchanged from E31 (corridor ~33 as
 a shape; its merits are what push a rational respondent toward the exit rather than into it).
 ⛔ The Feb Form 4 stays CLOSED; nothing from it re-run except the s 580 order (made) and Findings
-A/B/C as admitted contents. **OUTCOME:** ______
+A/B/C as admitted contents. **OUTCOME:** (24 Sep 2026): the corridor was not taken — no causation witness filed.
 
 **E31.2 · The corridor stated precisely — the Regulator's causation case is an argument against its
 own delegate (Cory, 14 Sep, late; two words tightened).**
@@ -1837,7 +1837,7 @@ IME-led pre-existing cases) — but in THIS record it is arguing against their o
 That is why it is their worst ground, why the IME is the tie-breaker, and why a rational
 respondent reads the corridor and looks for the exit. Disposition read ("fair, not letting them
 take advantage") held one step short: what is on the record is the shape he set, not his view.
-Numbers unchanged. **OUTCOME:** ______
+Numbers unchanged. **OUTCOME:** (24 Sep 2026): consistent — the Respondent did not run its worst ground; it filed no pre-existing or IME case.
 
 **E31.3 · The pre-existing line answered on the record — two limbs, the second verified from the
 Act (Cory, 14 Sep, late).**
@@ -1859,7 +1859,7 @@ winning on its facts, does not defeat the claim; at most it goes to extent.
 How put: never "records irrelevant" (de novo); chronology + s 32(3)(b); Findings B/C as
 inconsistency, never estoppel. ⛔ Medicine led through Krishnaiah/Hawes on their own evidence
 (stress response vs major depressive disorder is theirs to say); nothing suggested to doctors;
-intimate entries never restated; "a significant" never "major". **OUTCOME:** ______
+intimate entries never restated; "a significant" never "major". **OUTCOME:** (24 Sep 2026): no pre-existing or aggravation line is carried by any outline; SOFC ¶8 has no witness.
 
 **E32 · The Guide test applied — see `THE-GUIDE-TEST-new-information-and-conceding.md` (15 Sep).**
 Verified verbatim: Guide §5.1 ("Following the conference, the Respondent may decide to review its
@@ -1886,7 +1886,7 @@ as Sick No Pay"; PIARCT 7 Sep "last attended work 03/06/24, sick leave commencin
 no MSH reply on anything after 8 Sep. ⛔ F9 (7–10 Sep juxtaposition) is chronology only — proves
 no liaison, decides nothing between concede and defend, and is never voiced. ⛔ F11: 2026
 employment-track words are NOT in the appeal record and stay out. Numbers unchanged (E28 stands).
-**OUTCOME:** ______
+**OUTCOME:** (24 Sep 2026): no bearing — nothing in the 24 Sep material touches the 2026 employment track.
 
 **E34 · The Form 29 inquiries re-read — the Regulator obtained the pre-onset leave record itself
 (Cory, 15 Sep; verified same day).** All four sealed Form 29s re-rendered. Verified: the 4 Jul 2025
@@ -1904,7 +1904,7 @@ defend-path outline has to accommodate on 30 Sep. ⛔ Handling: corroboration th
 chronology only; never an attendance/performance proposition; the Sep 2025 34-occasions letter stays
 out; never pleaded as a stressor (mirror-image "fewer shifts because less available" risk);
 never in correspondence. Numbers unchanged (E28 stands) — this raises confidence in the causation
-read, it does not move the 25 Sep shape. **OUTCOME:** ______
+read, it does not move the 25 Sep shape. **OUTCOME:** (24 Sep 2026): the defend-path outline did not accommodate it — no witness addresses the months before onset.
 
 **E35 · The mention re-read as an address to the room, and the materiality threshold met literally
 (Cory, 15 Sep; two corrections to my reading, both accepted).**
@@ -1928,7 +1928,7 @@ witnesses at this stage". That is the opposite of what the bench expected of a p
 fight, and it is the strongest non-numerical support yet for the concession read.
 ⚠ Limits: a mention is not a ruling; Guide 7.1 puts a different Member on the hearing; binds nobody.
 Numbers unchanged (E28 stands) — this raises confidence in the read, not the probabilities.
-**OUTCOME:** ______
+**OUTCOME:** (24 Sep 2026): witnesses now confirmed; still no expert. The strongest support for the concession read did not become a concession before the outlines.
 
 ---
 
@@ -2015,7 +2015,7 @@ predicted silence is confirmatory, not informative. ⛔ **Anyone reading a large
 window is reading impression, not signal.**
 
 **Next observation: Friday 25 September.** Read it in the E28 watchlist order, then hold it against
-the 30th before classifying. **OUTCOME:** ______
+the 30th before classifying. **OUTCOME:** Scored (24 Sep 2026) — see E34.
 
 ---
 
@@ -2104,7 +2104,7 @@ this entire run is wrong.** A reason is the one thing a mechanical rule cannot p
 | ⛔ **maintained WITH reasons** | **H2 revives; E30 falsified; re-run before anything else** |
 | silent on the thirteen entirely | holding reply — classify with the 30th per E28.1 |
 
-**OUTCOME:** ______
+**OUTCOME:** ✅ NOT FALSIFIED (24 Sep 2026). No dispute maintained with a reason; the conceded/deferred split tracks custody exactly. The nine fall in the holding branch, classified with the list per E28.1.
 
 ---
 
@@ -2190,4 +2190,131 @@ and neither was written by whoever decides the position.**
 16 July will be **either the 25th letter or the 30 September outlines** — and on §2(c) she is
 treating them as one piece of work.
 
-**OUTCOME:** ______
+**OUTCOME:** (24 Sep 2026): confirmed on its narrow claim — the first strategic communication was the 25th reply and the outlines together, two hours apart. ⚠ §2 is reversed at E33.
+
+---
+
+### E33 · ⛔ Correction to E32 §2 — the extension email was read literally (Cory, 21–22 Sep; written 24 Sep)
+
+**What E32 §2 did.** It took *"I am in another hearing next week"* as a genuine capacity disclosure,
+concluded the fifteen days *"were bought because she had no week"*, and moved four numbers on it.
+
+**Why that was wrong.** A stated reason in an operational email is boilerplate. It costs nothing to
+write and is not evidence of the writer's state. The behaviour was the signal: a day-one reply, and
+a date landing on the last Friday before the directions. Cory said so on 21 September — *"you took
+things in emails literally which is not true"* — and he was right.
+
+**⭐ The method rule, recorded for every later read:** **what a letter asserts about itself is weak
+evidence; what it omits, and when it arrives, is strong.**
+
+**Numbers restored to their pre-§2 values** (§1's moves on the formula and register stand, because
+they rest on what the 8 September email omitted, not on anything it asserted):
+
+| | E32 §2 | **E33 restored** |
+|---|---|---|
+| S5 hybrid / deferral / slide | 13 | **16** |
+| S1 clean documents-only | 60 | **57** |
+| Thirteen conceded on or by the 25th | 78 | **80** |
+| Thirteen conceded by 30 Sep | 89 | **90** |
+| F2.3 formula absent | 82 | 82 (held) |
+| F2.1 legal register | 71 | 71 (held) |
+
+⚠ **Hindsight, stated once and not used to rescore:** the reply came a day early, so the capacity
+sentence predicted nothing either way. The restored numbers were the ones in force when the letter
+arrived and are the ones E34 scores.
+
+**OUTCOME:** scored at E34 (24 Sep 2026).
+
+---
+
+### E34 · ⭐⭐⭐ The 24 September arrival — the documents reply, the list and the outlines, read together
+
+**Verified layer.** Thu 24 Sep 2026: 09:51 the documents reply (four tabs conceded, nine sent to MSH,
+no reason for any); 11:50 the direction 3 list to the Registry (Taylor, Reese, Wright, Earl); the
+direction 4 outlines the same day (conduct only, no expert). One day inside her own date; six days
+inside the Commission's. Full evaluation: `RESPONDENT-CASE-24SEP2026-full-evaluation.md`.
+
+## 1 Scores
+
+**Shape** — the letter is a partial concession plus MSH deferral ⇒ **S5**.
+
+| Process | Shape (multiclass Brier) | Thirteen | Register | Formula |
+|---|---|---|---|---|
+| E23 solo | 1.4006 | 0.7225 | 0.4900 | 0.1024 |
+| ⭐ **E24 adversarial panel** | ⭐ **0.8395** | 0.5098 | 0.4914 | 0.0824 |
+| E25 adjudicated | 0.9874 | 0.5776 | 0.4900 | 0.0841 |
+| E28 final panel | 0.9920 | ⭐ **0.4900** | ⭐ **0.4624** | ⭐ **0.0529** |
+| Cory's stake (E25.1), thirteen only | — | 0.7225 | — | — |
+
+⇒ **The E24 panel won the shape** because it carried the most deferral mass. **E28 won all three
+binaries.** Everyone lost heavily on the thirteen.
+⇒ Per the skill, later predictions should be made by the winning process. ⛔ The standing instruction
+is no multi-agent runs, so later predictions are solo **but carry the panel's lesson: price the
+deferral and slippage branch at the panel's weight, not the solo read's.**
+
+**B-series:** B1 ✅ · B2 ✅ · B3 ✅ early · B4 ✅ · B6 ✅ · B5, B7, B8 open.
+**Decisive sentences (E31 §4):** none of the three appeared. **E30 falsifier:** did not fire.
+
+## 2 ⭐⭐⭐ Where the model was wrong, and why
+
+At E27 the endgame split was: concede or narrow before the outlines **35** · causation-only medical
+defence **35** · **conduct outline attempted 16** · conference first 8 · slippage 6.
+**The 16 happened.** Four conduct witnesses, no expert, no causation evidence.
+
+**Why the model missed it.** It read the 298 admissions as closing the conduct question, leaving
+only medicine to fight. ⛔ **That was the error. An admission of what a document says is not an
+admission that the conduct it records was unreasonable.** The Form 24 confirmed the events — as
+Cory said on 16 September, the admissions are a confirmation of the events. It could not concede
+the **evaluation** of those events, and s 32(5)(a) is an evaluation. Given 298 admissions, the
+rational defence is precisely the one filed: accept the events, contest whether they were
+reasonable management action taken in a reasonable way, and leave causation alone, because the
+medicine and the Regulator's own decision (facts 261–262) already answer it.
+
+⇒ **The model's structural assumption is replaced:** the admissions fix the facts; they do not fix
+the outcome. The case is now one evaluative question on admitted facts.
+
+## 3 What the model got right
+
+- E30 — the authenticity dispute was custody, not doubt. The split tracks custody exactly.
+- E26.4 — every conduct outline served runs into a numbered admission somewhere.
+- F2.3 — no formula, no position.
+- B4 — Taylor and Reese.
+- The defensive posture — the Respondent did not open the character or relationship material.
+
+## 4 Re-prices (solo, carrying the panel's deferral weight; inferred layer)
+
+| Quantity | Before | **E34** | Why |
+|---|---|---|---|
+| Appeal conceded before any hearing, any vehicle | ~52 | **38** | a defence was filed; concession now runs through a conference |
+| — of which at or after a second s 552A conference | most | **most** | Guide §5.1 and §7.1 |
+| At a second conference (if elected), the Regulator proposes resolution short of hearing | — | **35** | new |
+| Merits if it runs (the Appellant succeeds) | ~53.5 | **~57** | injury and causation uncontested by evidence; the fight moves to the stressor where their outlines conflict most with the record and their own review found unreasonable management action (fact 260). Offset: Reese's 2023 process is sound, and the 15 May email is mixed |
+| F2.4 counsel appears before listing | 80 | **70** | no counsel hand anywhere in the 24 Sep material |
+| F2.5 a s 556 application | 55 | **30** | direction 4 required any expert report by 30 Sep; none served; now needs leave |
+| F2.6 amended SOFC before hearing | 45 | **30** | the outlines already carry the new points |
+| B5 no application to withdraw an admission | 90 | **92** | the outlines fight the documents, not the admissions |
+| R22 the nine tabs produced | — | **by 1 Oct 25 · by 16 Oct 60 · never without NNPD 15** | MSH round trips have run about three weeks |
+| The Regulator varies its list or adds an expert before hearing | — | **20** | new |
+| The nine tabs are all conceded by any conference | — | **60** | new |
+
+## 5 Watchlist
+
+Updated at REGULATOR-SIGNALS §B.1. First item: ⛔ **direction 5 is his step, by 1 October.**
+
+## 6 Note to Cory
+
+The Regulator has decided, for now, to defend — not to concede by letter. It confirmed four of the
+thirteen documents from its own file and sent the other nine to Metro South, without saying a word
+against any of them. Then it filed four witnesses six days early. But look at what it filed. It
+contests only whether management acted reasonably. Nobody gives evidence on your injury or its
+cause, and there is no expert. Its witnesses contradict each other on Easter Monday 2023 and on
+whether you could refuse a rostered shift. Their account of the 2020 agreement contradicts Metro
+South's own HR, which wrote in July 2026 that it applies only to staff-initiated shift swaps. They
+also contradict admitted documents on the pandemic-leave approval, on when the Communication Book
+entry was removed, and on your contracted hours. The model expected either a concession or a medical fight. It got the
+branch it priced lowest, and the reason is worth keeping. Admitting what documents say is not
+admitting that the conduct was unreasonable. That evaluation is now the whole case, and it is
+fought on facts they have already admitted. Direction 5 is triggered. The choice of a second
+conference or a hearing is yours, and it must be made by 1 October.
+
+**OUTCOME (of the E34 re-prices):** ______
