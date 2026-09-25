@@ -73,7 +73,7 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P(f"Dated {DATE}", B),
      Spacer(1, 2*mm),
      P("<b>WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator</b><br/>"
-       "<b>Direction 5 of the Further Directions Order (3) dated 19 August 2026</b>", B),
+       "<b>Direction 5 of the Further Directions Order (3) dated 19 August 2026, and the Appellant's conference paper</b>", B),
      Spacer(1, 1*mm),
      P("Dear Registrar,", B),
 
@@ -94,11 +94,21 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "and the only question left is the authenticity of the copy.", B),
      P("No admission has been withdrawn. The Respondent has served no medical or expert evidence, and the time for it to do so has expired.", B),
 
-     P("3. The step I ask for", H),
-     P("I ask that the matter be listed for a second conference under section 552A of the <i>Industrial Relations "
-       "Act 2016</i>. When the remaining documents are confirmed, the primary facts will be settled. What remains is "
-       "the application of the law to those facts, and the medical evidence. I believe the following matters are "
-       "capable of resolution at a conference:", B),
+     P("3. The conference paper", H),
+     P("I enclose a paper that I have today provided to the Respondent. It sets out, stressor by stressor, the facts the "
+       "Respondent has admitted; fifteen questions arising from the Respondent's outlines of evidence, each by reference to "
+       "those facts; and a schedule asking the Respondent to state its settled position under section 32(5) of the "
+       "<i>Workers' Compensation and Rehabilitation Act 2003</i>, on each action and on the course of conduct, as particulars "
+       "of paragraph 27 of its amended statement of facts and contentions. The Respondent admits that paragraph 27 does not "
+       "identify the management action relied on (fact 303). I have asked the Respondent to respond by 15 October 2026.", B),
+     P("The paper is provided so that the Commission has before it the admitted record and the questions put to the "
+       "Respondent. It contains no submission.", B),
+
+     P("4. How the matter should proceed", H),
+     P("I leave to the Commission how the matter should proceed. I ask that the matter be listed for a second conference "
+       "under section 552A of the <i>Industrial Relations Act 2016</i>, and that the Commission consider directing the "
+       "Respondent to respond to the paper by 15 October 2026, or by such other date as the Commission sets. I believe the "
+       "following matters are capable of resolution at a conference:", B),
      P("(a)&nbsp;&nbsp;the ten documents listed in the attached schedule, by agreeing a list of documents to be tendered "
        "without further proof: the nine in Part A once Metro South Health provides its copies, and Tab 24 in Part B by "
        "agreement or through Ms Conaghan, a recipient of it;", L),
@@ -111,22 +121,19 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "not already disclosed, including the Technical Support advice referred to by Ms Wright and the email of 15 May "
        "2024 at 4:12 pm referred to by Ms Reese.", L),
      Spacer(1, 1.5*mm),
-     P("I have today provided the Respondent with a paper setting out questions arising from its outlines of "
-       "evidence, each by reference to the facts it has admitted, and have asked it to indicate its position on "
-       "each by 15 October 2026. The purpose is to confine the issues for any hearing to those genuinely in "
-       "dispute. The conference would also give the Respondent an opportunity to consider its position on the "
-       "admitted record. In my view the matter may then be capable of resolution without a full hearing or, if "
-       "not, the issues for hearing can be substantially narrowed.", B),
+     P("When the remaining documents are confirmed and the Respondent has responded, the primary facts will be settled. "
+       "What will remain is the application of the law to those facts, and the medical evidence. The Commission may then "
+       "consider whether the issues can be narrowed, or any of them determined without a full hearing.", B),
 
-     P("4. Readiness", H),
-     P("If the matter does not resolve, I am ready to proceed to a hearing with the witnesses and material I have "
-       "served. I will abide by whatever course the Commission considers most appropriate, after hearing from "
-       "the Respondent, and I await the Commission's direction.", B),
-     P("A copy of this letter is provided to the Respondent.", B),
-     P("Yours faithfully,", B), Spacer(1, 1*mm), SIG(), Spacer(1, 1*mm),
-     P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B),
-
-     PageBreak(),
+     KeepTogether([
+     P("5. Readiness", H),
+       P("If the matter does not resolve, I am ready to proceed to a hearing with the witnesses and material I have "
+         "served. I will abide by whatever course the Commission considers most appropriate, after hearing from "
+         "the Respondent, and I await the Commission's direction.", B),
+       P("A copy of this letter and its enclosure is provided to the Respondent.", B),
+       P("Yours faithfully,", B), Spacer(1, 1*mm), SIG(), Spacer(1, 1*mm),
+       P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B)]),
+     Spacer(1, 6*mm),
      P(f"<b>WC/2024/227 &ndash; Schedule to the letter of {DATE}: the ten documents that remain to be confirmed</b>", B),
      P("Tab numbers are those of Annexure A to the Appellant's notices of 28 August 2026. Fact numbers are those of the "
        "Form 24 notice as answered on 8 September 2026. \"SOFC\" is the Respondent's amended statement of facts and "
