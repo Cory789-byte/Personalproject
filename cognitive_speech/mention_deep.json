@@ -1,0 +1,266 @@
+{
+ "A_response_timing": {
+  "all": {
+   "n": 100,
+   "median_s": 0.32,
+   "p25": 0.18,
+   "p75": 0.65,
+   "overlap_pct": 0.0,
+   "latched_lt0.3_pct": 46.0,
+   "long_gt2s_pct": 4.0,
+   "median_answer_words": 9.5
+  },
+  "yes_no_Q": {
+   "n": 16,
+   "median_s": 0.32,
+   "p25": 0.2,
+   "p75": 0.51,
+   "overlap_pct": 0.0,
+   "latched_lt0.3_pct": 37.5,
+   "long_gt2s_pct": 0.0,
+   "median_answer_words": 6.5
+  },
+  "open_Q": {
+   "n": 37,
+   "median_s": 0.34,
+   "p25": 0.22,
+   "p75": 0.64,
+   "overlap_pct": 0.0,
+   "latched_lt0.3_pct": 40.5,
+   "long_gt2s_pct": 10.8,
+   "median_answer_words": 9
+  },
+  "after_statement": {
+   "n": 47,
+   "median_s": 0.26,
+   "p25": 0.0,
+   "p75": 0.79,
+   "overlap_pct": 0.0,
+   "latched_lt0.3_pct": 53.2,
+   "long_gt2s_pct": 0.0,
+   "median_answer_words": 13
+  },
+  "recall_Q": {
+   "n": 5,
+   "median_s": 0.2,
+   "p25": 0.18,
+   "p75": 0.9,
+   "overlap_pct": 0.0,
+   "latched_lt0.3_pct": 60.0,
+   "long_gt2s_pct": 0.0,
+   "median_answer_words": 6
+  },
+  "after_challenge": {
+   "n": 3,
+   "median_s": 0.12,
+   "p25": 0.06,
+   "p75": 0.29,
+   "overlap_pct": 0.0,
+   "latched_lt0.3_pct": 66.7,
+   "long_gt2s_pct": 0.0,
+   "median_answer_words": 6
+  },
+  "yes_no_direct_start_pct": 31.2
+ },
+ "A_latency_by_quarter_median_s": [
+  0.4,
+  0.35,
+  0.28,
+  0.32
+ ],
+ "A_corr_latency_vs_prompt_words": -0.04,
+ "B_situational": {
+  "my_turns": 103,
+  "words": 1332,
+  "address_forms_per100": 0.15,
+  "clarification_requests_per100": 0.0,
+  "procedural_refs_per100": 0.45,
+  "acknowledgement_openers_pct": 31.0,
+  "interrupted_mid_turn": 10,
+  "overlapping_starts": 0
+ },
+ "C_arousal": {
+  "baseline_f0_hz": 137.2,
+  "n_segments": 156,
+  "by_quarter": [
+   {
+    "pitch_st": -0.51,
+    "db": -0.85,
+    "wps": 2.83
+   },
+   {
+    "pitch_st": 0.22,
+    "db": -0.25,
+    "wps": 2.78
+   },
+   {
+    "pitch_st": -0.21,
+    "db": -0.25,
+    "wps": 3.37
+   },
+   {
+    "pitch_st": 0.24,
+    "db": 0.85,
+    "wps": 2.58
+   }
+  ],
+  "peak_segments": [
+   {
+    "t": "14:12",
+    "pitch_st": 3.1,
+    "db": 14.2,
+    "wps": 5.43,
+    "text": "No, hang on a sec."
+   },
+   {
+    "t": "51:37",
+    "pitch_st": 5.2,
+    "db": 8.5,
+    "wps": 3.08,
+    "text": "public holidays and things"
+   },
+   {
+    "t": "40:16",
+    "pitch_st": 1.8,
+    "db": 11.0,
+    "wps": 6.56,
+    "text": "Is it in the form of an email?"
+   },
+   {
+    "t": "27:44",
+    "pitch_st": 4.1,
+    "db": 3.6,
+    "wps": 1.7,
+    "text": "She's erratic physical"
+   },
+   {
+    "t": "27:59",
+    "pitch_st": 2.7,
+    "db": 6.2,
+    "wps": 4.43,
+    "text": "effective immediately we're going to do this, effective immediately we're going to do that."
+   },
+   {
+    "t": "42:54",
+    "pitch_st": 2.4,
+    "db": 5.1,
+    "wps": 3.52,
+    "text": "Okay, but you don't know..."
+   },
+   {
+    "t": "46:44",
+    "pitch_st": 2.8,
+    "db": 2.5,
+    "wps": 3.38,
+    "text": "The correspondence I also got from the manager, but it wasn't actively spread, it was actively"
+   },
+   {
+    "t": "51:38",
+    "pitch_st": 1.9,
+    "db": 4.0,
+    "wps": 2.34,
+    "text": "my manager decided to roster me"
+   }
+  ],
+  "arousal_within20s_after_challenge_median": 0.05,
+  "arousal_other_median": -0.05,
+  "disfluency_per100_low_vs_high_arousal": [
+   0.53,
+   0.57
+  ],
+  "rate_wps_low_vs_high_arousal": [
+   2.48,
+   3.19
+  ]
+ },
+ "D_recall": {
+  "dates_per100": 0.0,
+  "times_per100": 0.0,
+  "numbers_per100": 1.05,
+  "document_refs_per100": 1.5,
+  "memory_hedges_per100": 0.75,
+  "self_repairs_per100": 0.6,
+  "memory_hedge_examples": [
+   "I think",
+   "I think",
+   "I think",
+   "I think",
+   "I think",
+   "I don't know",
+   "I don't know",
+   "I can't remember",
+   "I think",
+   "I think"
+  ]
+ },
+ "D_recall_questions": [
+  {
+   "t": "40:29",
+   "lat": 0.2,
+   "q": "Have you got that email?",
+   "a": "No, I do not. All right."
+  },
+  {
+   "t": "41:43",
+   "lat": 1.06,
+   "q": "And you've, have you got the email that she asked you to retract?",
+   "a": "Yes, I got those two."
+  },
+  {
+   "t": "42:25",
+   "lat": 0.14,
+   "q": "Well, firstly, do you have a copy of the email from Ms Taylor that you're comparing to yours?",
+   "a": "Correct, yes."
+  },
+  {
+   "t": "47:26",
+   "lat": 0.9,
+   "q": "So have you got your correspondence between you and the union?",
+   "a": "Yes, I got both, my manager and my union, but yeah."
+  },
+  {
+   "t": "52:46",
+   "lat": 0.18,
+   "q": "So have you got access to the rosters for that period?",
+   "a": "I have all the evidence for that."
+  }
+ ],
+ "A_slowest": [
+  {
+   "t": "23:19",
+   "lat": 16.02,
+   "q": "Where's that?",
+   "a": "Manager, email, filters, that's what it would be, it would be under there."
+  },
+  {
+   "t": "42:42",
+   "lat": 3.88,
+   "q": "Taylor wasn't subject to the same direction or discipline?",
+   "a": "I don't have knowledge of that, but it seemed pretty... I understood it. Okay."
+  },
+  {
+   "t": "16:29",
+   "lat": 2.88,
+   "q": "Couldn't you request that from the regulator?",
+   "a": "I guess I did request, but I didn't be specific about that."
+  },
+  {
+   "t": "25:55",
+   "lat": 2.02,
+   "q": "A, C, E, what's that a reference to?",
+   "a": "A, B, C, D, E, which is number 10."
+  },
+  {
+   "t": "29:17",
+   "lat": 1.74,
+   "q": "examine you, doesn't produce documents for you to comment on and that sort of thing, well, you know, that's a problem for them, not for you.",
+   "a": "so for me it was direct calls to this number but this number is an emergency contact and then those "
+  },
+  {
+   "t": "34:38",
+   "lat": 1.54,
+   "q": "And then they'd get examples of them and they would find their way into evidence.",
+   "a": "Anyway."
+  }
+ ]
+}
