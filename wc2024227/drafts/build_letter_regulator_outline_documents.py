@@ -44,11 +44,11 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("(c)&nbsp;&nbsp;the Human Resources advice on which Ms Reese and Ms Taylor say, in their outlines, they acted in "
        "relation to that email, and any record (including any file note, email, Teams message or call record) of the "
        "contact on 15 May 2024 between Ms Taylor and Ms Pritchard, between Ms Taylor and Ms Reese, and between Ms Reese "
-       "and Mr Punch, including the time of each;", L),
+       "and Mr Punch, including who made each contact and its time;", L),
      P("(d)&nbsp;&nbsp;the call records for 15 May 2024 of the work mobile telephones, and the desk or DECT extensions, "
        "used by Ms Reese, Ms Taylor, Mr Punch and Ms Pritchard, for the calls referred to in the outlines of Ms Reese and "
        "Ms Taylor and in Ms Reese's response to the Respondent of July 2025 (Ms Taylor's call to Human Resources, her "
-       "call to Ms Reese, and Ms Reese's call to Mr Punch), showing the time each call was made and its duration. The "
+       "call to Ms Reese, and Ms Reese's call to Mr Punch), showing for each call which telephone placed it and which received it, the time it was placed and its duration. The "
        "records are sought in the form issued by the carrier or the telephone system (the original PDF or export), "
        "without alteration other than the redaction of unrelated entries, with each redaction marked;", L),
      P("(e)&nbsp;&nbsp;the delivery and read records (message trace) of the email forwarded by LBH_HR on 15 May 2024 at "
