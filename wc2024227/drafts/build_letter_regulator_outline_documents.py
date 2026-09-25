@@ -102,10 +102,12 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "document.", L),
 
      Spacer(1, 1*mm),
-     P("The documents are sought so that the matters to which they relate can be established from the records "
-       "themselves, rather than from recollection or second-hand accounts given more than two years after the events. "
-       "Where a record settles a matter, it need not be contested at the hearing, which should confine the issues and "
-       "the length of the hearing. A statement that a record is not held serves the same purpose.", B),
+     P("The documents are sought so that matters capable of being settled from the records are settled before the "
+       "hearing, without the Commission's time being taken up with them, and in the interests of the efficient conduct "
+       "of the appeal. The records will establish these matters directly, rather than through recollection or "
+       "second-hand accounts given more than two years after the events. Where a record settles a matter, it need not "
+       "be contested at the hearing, which will confine the issues and shorten the hearing. A statement that a record "
+       "is not held serves the same purpose.", B),
      P("I ask for a response by " + REPLY_BY + " because these documents may bear on the course I propose to the "
        "Commission under direction 5 of the Further Directions Order (3). The documents at (o) to (u) have been "
        "outstanding since my letter of 9 September 2026.", B),
