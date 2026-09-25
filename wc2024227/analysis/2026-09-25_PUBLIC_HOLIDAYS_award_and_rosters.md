@@ -189,3 +189,21 @@ line) is not repeated in the 2025–26 rosters held.** That supports the 2024 po
 fixed line, the disparity did not recur. Nothing here supports saying the rostering disparity was "ongoing" into 2025.
 What continued in 2025–26 is a separate matter (pay processing and exclusion, employment track, 2026), not roster
 allocation. Keep the two apart.
+
+### 7A. Majority of shift applied to weekends (Award cl 15.5(e), 15.6)
+Weekend penalties (Saturday time and a half, Sunday double time) are paid on a **majority of shift** basis (cl 15.6):
+a shift starting Friday night counts as **Saturday**; Saturday night counts as **Sunday**; **Sunday night counts as
+Monday** (no weekend penalty). Public holiday hours follow the same rule (cl 23(m)). The 2025–26 counts above already
+apply it (a shift is counted on the day holding most of its hours). Split, with a penalty-weighted index (ordinary 1.0,
+Saturday 1.5, Sunday 2.0, public holiday 1.5 for a continuous shift worker, cl 23(b); night allowances not included):
+
+| FT | Shifts | Sat | Sun | PH | Nights | Index per shift |
+|---|---|---|---|---|---|---|
+| Conaghan | 197 | 25 | 29 | 4 | 34 | 1.221 |
+| **Shepherd** | 188 | 26 | 27 | 3 | 43 | **1.221** |
+| Abbott | 182 | 24 | 26 | 4 | 39 | 1.220 |
+| De Iacovo | 202 | 27 | 28 | 2 | 40 | 1.210 |
+| Jeffrey | 185 | 22 | 23 | 5 | 42 | 1.197 |
+| Court | 159 | 19 | 21 | 1 | 22 | 1.195 |
+
+⇒ In 2025–26 the Appellant's penalty exposure is equal-highest. Confirms section 7: no disparity in 2025–26.
