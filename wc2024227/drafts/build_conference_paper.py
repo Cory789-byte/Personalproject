@@ -104,10 +104,11 @@ def SUB(t): return P("<b>" + t + "</b>", SH)
 
 s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      P("WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator", T),
-     P("<b>Appellant's conference paper</b> &nbsp;|&nbsp; Second conference under section 552A of the <i>Industrial "
-       f"Relations Act 2016</i> &nbsp;|&nbsp; Provided to the Respondent, and a copy to the Commission, on {DATE}", B),
-     P("This paper is provided to the Respondent, and a copy to the Commission, for the purposes of the second conference and "
-       "of the Commission's consideration of how the matter should proceed. It contains no submission. It sets out the "
+     P("<b>The admitted record, and questions for the Respondent</b> &nbsp;|&nbsp; Appellant's paper &nbsp;|&nbsp; "
+       f"Provided to the Respondent, and a copy to the Commission, on {DATE}", B),
+     P("This paper is provided to the Respondent, and a copy to the Commission, for the Commission's consideration of how the "
+       "matter should proceed, including whether a second conference under section 552A of the <i>Industrial Relations "
+       "Act 2016</i> is needed. It contains no submission. It sets out the "
        "admitted record for each "
        "stressor as a whole, with the questions arising from the Respondent's outlines of evidence of 24 September 2026. The "
        "Appellant asks the Respondent to indicate, by 15 October 2026, its position on each question (using the response "
@@ -121,7 +122,7 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
        "the 39 documents annexed to the notices are admitted or confirmed. No admission has been withdrawn. The "
        "Respondent has served outlines of evidence for four lay witnesses and no medical or expert evidence.", B),
 
-     P("2. What can be closed at this conference", H),
+     P("2. What can be closed, by agreement or at a conference", H),
      table(CLOSE, [8*mm, 58*mm, W - 66*mm]),
      Spacer(1, 3*mm),
 
@@ -169,7 +170,7 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
 
      P("7. Response schedule for the Respondent", H),
      P("By 15 October 2026, for each question, the Respondent is asked to indicate whether the position is maintained or not maintained or, "
-       "for questions 3, 5, 6, 14 and 15, to answer it. A matter not maintained can be recorded at the conference as no "
+       "for questions 3, 5, 6, 14 and 15, to answer it. A matter not maintained can be recorded as no "
        "longer in issue.", B),
      table(RESP_G, [10*mm, 88*mm, W - 98*mm]),
      Spacer(1, 3*mm),
@@ -181,7 +182,8 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
          "the Respondent to consider its position on the admitted record. Where a position is maintained, the "
          "Appellant will address it at any hearing by reference to the admitted facts identified in this paper. If the "
          "matter does not resolve, the Appellant is ready to proceed to a hearing on the issues that remain. The Appellant "
-         "leaves to the Commission how the matter should proceed once the Respondent has responded.", B),
+         "leaves to the Commission how the matter should proceed once the Respondent has responded, and can provide the "
+         "notices, the responses and any document referred to in this paper if required.", B),
        Spacer(1, 1*mm), SIG(),
        P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B)]),
 ]
@@ -196,4 +198,4 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
 try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
-out = "out/CONFERENCE_PAPER_s552A_Appellant.pdf"; pdf.save(out, linearize=True); print("built", out, n, "page(s)")
+out = "out/ADMITTED_RECORD_AND_QUESTIONS_for_the_Respondent.pdf"; pdf.save(out, linearize=True); print("built", out, n, "page(s)")
