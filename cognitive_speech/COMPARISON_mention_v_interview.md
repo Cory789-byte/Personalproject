@@ -33,3 +33,8 @@ are unreliable (the model suppresses "um"); not used.
 
 Largest single turn: interview 8:41, 158 s, 505 words, 7 threads, 20 switches, 14 returns.
 Dwyer's largest: 12:18, 70 s, 4 threads, 6 switches, 3 returns. Script: `threads.py`.
+
+**Correction (full narrative span).** The 8:41 turn above is a segmentation artefact. The free
+narrative runs 7:08 → 11:34 (4 min 26 s, ~700 words), interrupted once by the officer's caution
+(7:55–8:02) and resumed on the same thread at 8:06. Across the full span: **9 threads, 47 switches,
+39 returns**. Dwyer's largest turn: 4 threads, 6 switches, 3 returns.
