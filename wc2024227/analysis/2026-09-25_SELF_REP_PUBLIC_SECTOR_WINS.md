@@ -20,3 +20,27 @@ verbatim). Added as found.
 - **Costs:** [74] Regulator to pay the Appellant's costs.
 - **Lesson:** a treating specialist giving oral evidence, with concrete findings, beat the Regulator's IME; a
   truthful, direct appellant carries weight.
+
+## 2. Maher v Workers' Compensation Regulator [2021] QIRC 313
+- **Member / date:** McLennan IC; delivered 10 Sep 2021 (heard 17–18 Feb 2021, written closings). WC/2019/162.
+- **Appearances:** "Mr T D Maher, the appellant in person with Mr T Wright, support person. Mr B I McMillan of
+  counsel, directly instructed by the respondent."
+- **Employer / role:** Isaac Regional Council, Programme Leader – Regulatory Services.
+- **Injury:** adjustment disorder with anxiety and depressed mood [5]. Regulator **conceded** worker, injury,
+  causation, SCF [23]; **only s 32(5) in issue**.
+- **Stressors:** disciplinary process 21 May – 23 Aug 2018 (suspension meeting, external investigation,
+  52 allegations, show cause). His SOFC listed 40 stressors / 77 facts / 66 contentions; **confined by agreement
+  at a mention** to the 3-month window [39].
+- **Why won:** reasonable action **not taken in a reasonable way**. [24]; [83] no prior notice of the meeting or
+  its purpose and no chance to arrange a support person are "more than a 'mere blemish'"; [135], [160] show cause
+  notice not particularised as required by s 283 LGR and Council's own procedure: "fatal flaws"; [149], [186]
+  show cause issued on a **draft** report; [189] alternative ground.
+- **How won:** two witnesses (Mr Maher and the director) and four exhibits. Decisive evidence was
+  **documentary**: the Council's own Discipline Procedure and flowchart, the director's contemporaneous note,
+  and the statutory requirements. He used the employer's **own rules** against it. Member made mixed credibility
+  findings against him ([51] "implausible… had not sniffed the wind"; [159] "over-eggs the pudding") and still
+  found for him. Regulator's "mere blemish" defence [41] failed.
+- **Costs:** Regulator to pay the costs of the hearing (Order 4; [174]).
+- **Lesson:** (1) narrow the case to a window/set of actions; (2) prove the "unreasonable way" from the employer's
+  own procedures and documents; (3) overstatement costs credibility but does not lose the case if the documents
+  carry it.
