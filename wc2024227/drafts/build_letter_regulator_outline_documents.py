@@ -10,7 +10,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, KeepTogether
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv) > 1 else "1 October 2026"
+DATE = sys.argv[1] if len(sys.argv) > 1 else "25 September 2026"
 REPLY_BY = sys.argv[2] if len(sys.argv) > 2 else "Thursday 15 October 2026"
 
 B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.0, leading=11.5, spaceAfter=4)

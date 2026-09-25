@@ -1,7 +1,5 @@
-SEND: morning of Thursday 1 October 2026. This is the ONLY item sent on 1 October.
-The Registry letter and the paper are HELD until the Regulator responds (see ../HELD_UNTIL_REGULATOR_RESPONSE/).
-BEFORE SENDING: check the inbox for anything from the Regulator, OIR, the Registry or Metro South Health
-since 24 September. If anything new has arrived, re-check the letter first.
+SEND: NOW, Friday 25 September 2026, within business hours. The letter is dated 25 September 2026.
+The Registry letter and the paper remain HELD until the Regulator responds (see ../HELD_UNTIL_REGULATOR_RESPONSE/).
 
 TO:      Renee.Matheson@oir.qld.gov.au
 SUBJECT: WC/2024/227 - Shepherd v Workers' Compensation Regulator - request for documents referred to in the Respondent's outlines of evidence
