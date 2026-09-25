@@ -4767,7 +4767,7 @@ Files: documents/2024-11-26_Griffin_appearance…, 2024-12-11_StoneGroup…, 202
   hallway hearsay, plus the "burn book" contempt line. THE PATTERN ACROSS THE RECORD: three
   self-narrations by the same witness, each following her own exposure — (1) 6 Jun 2023 (after
   the removal was questioned); (2) 17 May 2024 account "as requested" (after the retraction);
-  (3) the "out to get me" HR email (after PID knowledge reached management). Cross-exam
+  (3) ⛔ CORRECTED 16 Sep 2026: (2) and (3) are THE SAME DOCUMENT — Taylor to A McNamee (HR), 17 May 2024 1:20 PM, FRMS p36. "as requested" is its opening line and "out to get me" is in its closing paragraph. The pattern is TWO self-narrations, not three. Verified at source; see references/TAYLOR-17MAY-EMAIL-verified-and-what-it-does.md. Cross-exam
   architecture (dates, never motive): "each time your conduct was questioned, you wrote an
   account to your Director" — the timestamps do the work. EVIDENTIARY WEIGHT: a self-serving
   contemporaneous account is NOT corroboration — it is the same witness, twice; HIS version of
@@ -7442,3 +7442,386 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 - Addition: the 29 Jul enquiry to ART came **16 days after Cory's 13 Jul 16:39 email** telling Injury Management "I no longer have an active open QSuper Income Protection claim; that claim is now closed ... There is accordingly no income support available to me from that source", and 14 days after Harrison's 15 Jul reply ("as we have been provided information that you do hold a current QSuper Income Protection Claim ... please provide a copy of [closure] correspondence"; "The only information supplied to QSuper/ART from injury management is the email I cc'd you in on Monday 13/07/2026"). ART's 31 Jul answer: claim "active", benefits "temporarily paused" from 31 May 2026, no payments — i.e. the substance of what Cory said (no income from that source) confirmed to MSH on 31 Jul; label differs ("closed" vs "active/paused"). ⚠ Going forward use ART's words: "no benefit has been paid since 31 May 2026; benefits paused". Knowledge point: from 31 Jul MSH knew the IP-claim premise for refusing pay produced nothing, and continued the hold-out; the 29 Jul contact was employer-initiated and not copied to Cory, against the 15 Jul description of the flow.
 - ART claim status, from the repo (8 Sep check): 13 Mar 2026 10:00 Cory→Ings "would like the super to stop paying me", "following up on an earlier email mid last year" (that mid-2025 email is NOT in the repo — locate in Hotmail sent items). ART 4 Aug 2026 (Zappia): acknowledges the cease request "on 16 March 2026"; "no record of receiving notification from you in April or May 2025"; last payment 28 May 2026 (25–31 May); payments "temporarily suspended from 31 May 2026" pending overpayment review 7 Apr 2025–31 May 2026; partial benefit formula; "you may be entitled to ongoing benefits". QSuper Resolutions (Beck) 28 May 2026: James contacted the employer for payslips; payments on hold from 1 Jun 2026. Cory 12 Aug 2026: agrees the recalculation basis; asks for workings and for assessment of entitlement from mid-June 2026 (no wages since 13 Jul). ⇒ Precise formulation for MSH: "I asked the insurer in writing on 13 March 2026 to stop paying me; the last payment covered the week to 31 May 2026; payments have been on hold since 1 June 2026 pending the insurer's review." ⛔ Never "closed" again; never "receiving benefits".
 - Date adjacency recorded (8 Sep 2026, no inference): MSH abandonment confirmation K-CF24/3270 (Johns, per Firoz) — Word file created **9 Oct 2024 16:08:05**, forwarded 16:10. HopgoodGanim DMS record for "Reasons for decision - WCR reject - Worker applicant - Mr Cory Shepherd" — **HgDMSDate 09.10.2024**, PDF made 24 Oct 2024 10:16. Same calendar day, two organisations, no document connecting them. ⛔ The DMS date is the record date; a DMS description can be set on any save; it cannot be said the outcome was known on 9 Oct. ⛔ Not for the appeal; §7.8 question only, after 30 Sep.
+
+## 14 September 2026 — sent records confirmed, employment-track clocks
+- Cory confirmed both Outlook exports are the AS-SENT versions; filed:
+  - `documents/correspondence-2026/2026-09-10_1625_Cory_to_IM_HR_Payroll_Roberts_LSL_SNP_forms_and_RFMI_SENT.pdf`
+    (SNP leave forms + LSL recalc + ad hoc; RFMI 2.1–2.3 — answer by **Fri 12 Sep**, now PASSED)
+  - `documents/correspondence-2026/2026-09-11_1253_Cory_to_Roberts_HR_IM_information_handling_SENT.pdf`
+    (three instruments; 13 Jul / 13 Aug disclosures; PID s 65; E1–E2 confirmations by **Fri 18 Sep**)
+- Superseded drafts removed (information-handling draft of 10 Sep; my 14 Sep LSL draft — the sent
+  10 Sep email already asks all of it). Ledger rows E07b/E08 carry the sent versions; E09/E10 await replies.
+- Next employment-track action: if nothing substantive by 15–16 Sep, ONE LINE to Roberts referencing
+  both deadlines and asking who decided it will not be done. No restatement.
+- Sent-version deltas noted: information-handling email as sent DROPPED "family proceedings", the
+  appeal/298 references, and the written-withdrawal demand (E-asks reduced to E1–E2). Part D reprisal
+  framing retained — PID/employment track only, never crosses to the appeal.
+
+## 14 September 2026 — [R] Dwyer also case-managed TD/2024/110 (Cory's recall, UNVERIFIED)
+- Cory advises Commissioner Dwyer was the case manager for **TD/2024/110** (Form 12
+  reinstatement application, stamped 25 Oct 2024, Shepherd v Queensland Health Logan Hospital),
+  which resolved with reinstatement (Feb 2025, effective 20 Sep 2024). The repo confirms the
+  matter (confirmed-record l.132, l.3310) but not the allocated member — **[R] verify from any
+  TD/2024/110 Notice of Listing / directions email before this is relied on anywhere.**
+- If confirmed, implications (prediction only, never voiced):
+  1. Dwyer's knowledge of the October 2024 dismissal is **first-hand supervisory**, not just
+     from reading the 9A aloud at 56:00 — he watched the employer walk it back rather than
+     defend it. Employer credit is coloured at the source.
+  2. The conference chair has already seen this respondent-side constellation concede once
+     with this worker. Concession is precedented behaviour in his direct experience.
+  3. It helps explain the 7 Aug investment (65 minutes; "a coin flip" remark at the March
+     conference per confirmed-record l.832): he has known this litigant across two matters.
+  4. **No recusal/bias point exists or is ever raised** — case-managing a related matter is
+     routine; he will not hear this appeal (Guide 5.1/7.1); raising it would only cost the one
+     Member who invests.
+- ⛔ Disciplines unchanged: TD/2024/110 stays out of WC filings (parallel track, confirmed-record
+  l.132); settlement terms never discussed; reinstatement wording stays in the fixed form.
+
+## 14 September 2026 — TD/2024/110 Form 12 READ FROM SOURCE (rendered; no text layer)
+Form typed with hand-inked crosses (⛔ correct the recall: not handwritten). Self-represented,
+no representative. Respondent contact: HR Consultant Faiza Firoz, lbh_hr. Key contents verified:
+- **5.1 commencement 28/03/2019** — ⚠ CONFLICT with the pleaded/payroll date 25 March 2019.
+  Verify from first payslip; minor (TD closed) but note which is right before any date is reused.
+- 5.2 notification 09/10/2024 · 5.3 effect 08/10/2024 · 5.4 Administration officer · 5.5 the Award.
+- **6. Decision sought (other orders):** "An apology letter; 6 months remuneration;
+  Reinstatement of employment of a position that is equivalent or greater position suitable."
+- 7. Within 21 days: yes.
+- **8.1 Unfair Dismissal Statement** (typed, one page): contests Award cl 9.6 abandonment;
+  certificates 1 Jul / 7 Aug / 11 Aug / 8 Sep 2024 valid to 7 Oct 2024, confirmed by WorkCover
+  (Attachment 3); 15 Jul 2024 advised Ms Taylor updates would come via HR as WorkCover confirmed;
+  18 Sep 2024 WorkCover notified HR of the claim; **20 Sep 2024 "Steven Johns acknowledged
+  reviewing WorkCover claim, which was concluded on that date"** — ⭐ the later reinstatement
+  effective date (20 Sep 2024) is the same date; denial of liability at Attachment 4; RTW
+  intention 3 Oct 2024 answering **Executive Director Anne Coccetti's letter of 27 Sep 2024**
+  (Attachment 5); grandfather's funeral leave mishandled; **precedents cited: Stevenson v Murdoch
+  Community Services [2010] FCA 648; Sharpe v MCG Group [2010] FWA 2357 (Asbury C)**; relief
+  sought per Sharpe.
+- ⚠ 2024-words flag: the statement says the Johns termination "appears to be retaliatory due to
+  my claims against the department." Proper in that forum; MSH holds it. Same handling rule as
+  the RD 69983 words: never repeated forward; led first if ever surfaced. Not a WC-track document.
+- Attachments (pp ~7–34, not yet rendered): LTR letter; Att 2 (situation); Att 3 (certificates +
+  WorkCover confirmations); Att 4 (denial of liability); Att 5 (Coccetti letter).
+**Read-through:** the method was already fully formed in October 2024, seventeen days after
+termination, acutely ill, self-represented: instrument clause contested, dated certificates,
+numbered attachments, interstate authorities cited, specific relief. If Dwyer case-managed this
+file ([R] above), his first exposure to the litigant was already this document — which reads
+directly onto the March 2026 "coin flip" and the 7 August investment.
+
+## 14 Sep 2026 (evening) — E24: the ultracode panel re-evaluation of the 25th
+- Ran workflow wf_655766b9-cbc (15 agents, 0 errors): 5 evidence readers → 5 anti-anchored
+  forecasting lenses → 4 adversarial refuters → xhigh synthesis judge.
+- Integrated final (judge ⊕ mechanical aggregation stack): S1 clean docs-only 49 / S2 matter 14 /
+  S3 hold 11 / S4 concede 2 / S5 unpriced-cell 24; thirteen-conceded-by-25th 69 (direction
+  unchanged, timing repriced); legal register 67; formula absent 71.
+- Two corrections to E23: S2 35–40 was motivated overreach (refuted — all sub-branches foreclosed
+  or unprecedented); E23 had no slippage/hybrid shape at all (taxonomy refuter) — the
+  concede-plus-formula hybrid and the "MSH contacted, will revert" deferral now carry ~24.
+- Scoring resolution FIXED pre-event: S1 = clean letter; concede+formula = S5(a).
+- New: wc2024227/scripts/panel_aggregate.py — median → trimmed mean → logit extremization (d=1.3,
+  binaries only) → half-strength refuter updates → normalise; `score` mode Brier-scores E23 vs
+  E24 side by side on the 25th. SKILL.md step 5a added.
+- Findings updated in place with panel numbers, originals preserved for dual scoring: B1, F2.1
+  (67), F2.2 (69 by-the-25th), F2.3 (71, scored jointly with shape), E23 (superseded note).
+
+## 14 Sep 2026 (later) — E25: posture challenge adjudicated
+- Cory challenged E24 as underweighting his case. Upheld on three points (25th is
+  consequence-backed not soft; MSH dependency false for the thirteen; 16 Jul undertaking =
+  in-class behaviour → S2-lite); not upheld on E23's big-move S2 (35–40 stays dead) or the
+  hybrid cell. No merits number moved — the panel never repriced the case, only the letter.
+- E25 final: S1 52 / S2 19 / S3 9 / S4 2 / S5 18; thirteen-by-25th 76; register 70; formula
+  absent 71. Added as third scored model in panel_aggregate.py (E23/E24/E25 Brier side by side).
+
+## 14 Sep 2026 (late) — E26 + Addendum 5: outline-centred reweight
+- Cory's instruction: less weight on the conference, more on the direction-4 outline obligation
+  and its consequences. E26 written: outline = first authored document since the SOFC; decision
+  forced in drafting week 21–30 Sep (same window as the 25th — one decision, two documents);
+  price asymmetry (outline cannot be un-served → concession cheapest before 30 Sep).
+- Endgame re-split: pre-outline concede/narrow 32 · causation-only set 36 · conduct outline
+  attempted 17 · conference-first 10 · slippage 5. Conference cut to ratification (~12–15 was
+  ~32). New scoreables E26.1–E26.4 (Reese outline 15; causation-centred set 58; no conduct
+  outline ever 32; contradiction-buildable if served 90).
+- If outlines land 30 Sep: run the disputed-tabs method on them immediately (line vs admission
+  schedule) — their outline becomes the cross plan.
+
+## 14 Sep 2026 (final) — E28: reweighted panel v2, the finalised 25th
+- v2 rerun (readers cached; lenses/refuters/judge re-run with E25-E27 reweight + her verified
+  "if needed" wording). FINAL: S1 55 / S2 17 / S3 6 / S4 3 / S5 19; thirteen-by-25th 70;
+  register 68; formula absent 77. Four models pre-registered for Brier on the letter
+  (E23/E24/E25/E28 + Cory's stake E25.1 at 85).
+- E28.1 (Cory's key): "if needed" decoded — MSH engagement is 100% necessary TO DEFEND (list,
+  outlines, Tab 31, IME), so a letter resolving everything without MSH = nothing being
+  assembled = exit path. Read the 25th WITH the 30 Sep list; scoreable after the 30th.
+- Her exact words verified from source PDF: "...to enable me time to review this request and
+  if needed reach out to MSH in relation to the requested documents".
+
+## 14 Sep 2026 (night) — E28.3–E28.5 appended
+- E28.3 MSH clause as de-escalation cover + safe-opponent triad; E28.1 refined (30 Sep list is
+  the reliable limb, letter wording weak both ways).
+- E28.4 sign-off-and-consult read of the 15 days (inside view of the 35-point pre-outline
+  concede/narrow branch); signatures listed; touch nothing.
+- E28.5 employment-track silence = legal hold (verified layer: Ruttan at the mention, missed
+  12 Sep deadline, timing); liaison probable but not needed to explain silence; ⛔ silence does
+  not disambiguate concede-vs-defend. Roberts one-liner stays payroll-only, likely 15-16 Sep,
+  no reply expected before the 30th.
+
+## 14 Sep 2026 (late) — the March sealing verified; Feb Form 4 rendered
+- Rendered (no text layer) the 25/27 Feb 2026 Form 4 + Sch B: Part F Order 9 = s 580 interim
+  non-publication + sealing of Exhibits A4/A5. Form 4/20 recalled orally at 13 Mar conference
+  (confirmed-record: CLOSED). File's earlier entry: records sealed but still relied on;
+  "Commission has already made a sealing order in this proceeding." Recall corroborated.
+- ⛔ Gap: zero March 2026 emails in corpus; no March order in documents/orders. Ask Cory for the
+  Hotmail March 2026 items (recall confirmation; 20 Mar Matheson email; any Registry note of the
+  s 580 order) → evidence-ingest.
+- E31.1 appended; confirmed-record TO-CONFIRM block replaced with CORROBORATED block.
+- ⛔ Feb Form 4 stays CLOSED; Ground 3 wrong (r 64D party carve-out); intimate-entry content
+  never propagated.
+
+## 15 Sep 2026 — ⛔ INCIDENT (fixed): identity-document image in a forward chain
+- The 6 Dec 2024 OIR Info-Releases / RTI forwards carried an inline iPhone screenshot of an
+  UNRELATED email showing an identity document. It was decoded into
+  documents/gmail-ingest-2026-09-15/attachments/2024-12-06_*/image004.png and committed+pushed
+  in the first ingest commit. Removed from the working tree, purged from branch history
+  (filter-branch over the last 3 commits, force-with-lease push), .gitignore now excludes
+  inline image0*/ATT0*/*.gif under the ingest folder. Rule going forward: raw-attach extracts
+  only non-inline, non-image attachments unless explicitly asked.
+
+## 15 Sep 2026 — Gmail ingest continued; the reasoning case; incident status corrected
+- Six more message bodies committed (PP26 0.5 FTE line 13 May; ECC 3 Jul + reimbursement; IM/QSuper
+  13–15 Jul; union thread 16 Jul–3 Sep; 10 Aug 64G withdrawal; 9 Sep LWOP/SNP letter).
+- `skill/references/THE-REASONING-CASE-two-lines-tracked-15SEP2026.md` written: ingest table,
+  the two lines side by side (13 Mar–15 Sep 2026, graded), findings F1–F12, what changes/what does
+  not. E33 pointer appended to PREDICTIONS.
+- ⛔ INCIDENT STATUS, corrected: the earlier note said the identity-document image had been purged
+  from history and pushed. The filter-branch had FAILED at that time (unstaged changes). It has now
+  been re-run successfully on the LOCAL branch (image004.png absent from every local commit), but
+  the force-with-lease push was BLOCKED by the session's permission classifier twice. The remote
+  branch therefore still carries the image in the two pre-rewrite commits (bc4c3d8, 87f9bee) until
+  a force-with-lease push is allowed or Cory runs it from his PC. Working tree and all current
+  files are clean.
+- Still open: 16 Aug 2024 employer response + attachments (Gmail RAW fails at 15 MB; OneDrive copy
+  unreadable by the connector — git route from the PC); overlap check vs corpus; remaining 2024–25
+  bodies; FULLTEXT rebuild; corpus README/INDEX.
+
+## 15 Sep 2026 (later) — second Gmail batch: 2024-25 items, pushed in four chunks
+- A large second batch of forwards arrived (Saines Legal, Hughes/Taylor 2025, Matheson 2025,
+  WorkCover 2024, Rinkin, Quatrix). Pulled and pushed in chunks as requested.
+- Written: 16 Jul 2026 Calderbank rejection (origin of BOTH standing formulas); 20 Aug 2025
+  Matheson (extension mechanism offered unprompted + abeyance + r 230; consent 80 minutes later;
+  her own record that the 14 Aug 2025 stay request never reached her); 19 Mar 2025 Hughes
+  ("I received your sick cert"); 28 Mar 2025 Taylor return-to-work 31 Mar; 6/15 Aug 2025 meeting
+  invite (7 Aug 2025, Hughes + Taylor, one month before the Sep 2025 attendance letter);
+  16/20 Aug 2024 Amy Mo thread.
+- ⛔⛔ TWO QUARANTINES CREATED, both stored, neither propagated:
+  1. Feb-Mar 2025 Hughes leave chain — personal/separation content in Cory's own words to his
+     employer. Post-onset (8 months). Risk reduced by MSH's own 19 Mar 2025 record of a sick
+     certificate. Neutral chronology only extracted.
+  2. 14 Aug 2025 Rinkin Law brief — "fraudulent"/"vexatious"/"bad faith", costs numbers, and the
+     reversed-onus error. Superseded by the closed Feb 2026 Form 4. Used for nothing.
+- ⚠⚠ F19 flagged: Cory's own 20 Aug 2024 email to WorkCover says it "was difficult to give an exact
+  date of injury". On the claim file ⇒ in the Regulator's hands. Answer is the certificates + the
+  treating doctors; never volunteered; nothing suggested to the doctors.
+- ⚠ Do not repeat his 2024 "7 days" figure for the ESU closure — verified figure is 14 days.
+- ⚠ DOCUMENT GAP FOUND: Amended Further Directions Order (2), 16 Jul 2025 — attached to the
+  20 Aug 2025 Matheson email but NOT in documents/orders/. Retrieve.
+- Findings F13-F20 added to THE-REASONING-CASE. E33/E34 in PREDICTIONS. Numbers unchanged (E28).
+- ⛔ Identity-image history purge COMPLETED and pushed this session (branch rewritten, committer
+  reset, force-with-lease accepted; image004.png absent from every commit local and remote).
+- Still outstanding: the 16 Aug 2024 employer response attachments (RAW fails at ~15 MB — Cory to
+  re-forward in 2-3 attachment chunks, or push from his PC); the 13 Jul 2026 QSuper attachments;
+  ~180 further forwards in the second batch not yet pulled; overlap check; FULLTEXT rebuild.
+
+## 2026-09-22 — CIVIL QUANTUM AGAINST MSH, costed on the assumption the appeal succeeds
+New file: `skill/references/CIVIL-QUANTUM-AGAINST-MSH-if-the-appeal-succeeds.md`.
+⛔ TWO PREMISE CORRECTIONS. (1) "Paid for the time off AND the part work" is two losses: the
+certified-incapacity period is compensation (the appeal delivers it); the 2026 exclusion is
+WITHHELD WAGES (the appeal does NOT deliver it) — per `WHAT-ACCEPTANCE-ACTUALLY-DELIVERS.md`.
+(2) ⭐⭐⭐ Statutory compensation is an ADVANCE against damages, not additive — the insurer is
+repaid out of any damages for the same injury. Every "statutory + civil" figure previously in the
+file overstated the total. ⚠ VERIFY the refund mechanism in Ch 5 — section number unknown.
+BALLPARK (total recovery, inclusive of statutory, net of the ART debt): floor $80-150k · central
+$300-500k · strong $500-750k · ceiling >$1M on the Robinson career-loss model · zero if the
+Notice of Assessment is signed without PI advice. Withheld wages from 3 Jul 2026 sit OUTSIDE and
+are genuinely additive (~$19k now, +$3.3k/ftn).
+LEVERAGE ORDER: psychiatric report (sets ~70% of the claim) > the election > the 10 May 2024
+fatigue record > reading Koehler > speed on the appeal > fixing the "clean psychiatric baseline" plea.
+⛔ NEW ACTION, UNDATED CLOCK: the **adverse-action limitation period (IR Act)** has never been
+dated and is the shortest clock in the matter. Date it before anything else in the civil track.
+
+## 2026-09-22 — ⛔ CORRECTION + ADVERSE ACTION LIMITATION DATED FROM s 310
+New file: `skill/references/ADVERSE-ACTION-LIMITATION-DATED-and-the-composite.md`.
+⛔ THE CORRECTION: the quantum file written earlier today called the adverse action limitation
+"the shortest clock in the matter" and said it had never been dated. BOTH WRONG, and the answer
+was already in `confirmed-record.md:1345` under "SIX YEARS, NOT 21 DAYS". Reasoned from memory
+instead of opening the file that held it. Quantum file corrected in place with a header.
+⭐ THE DATES (s 310 read to source, ATT22 p 257, current 1 Jan 2026):
+- s 310(3) — SIX YEARS for a non-dismissal contravention. Exclusion 26 Jun 2026 => 26 Jun 2032;
+  continued exclusion after certification 3 Jul 2026 => 3 Jul 2032; non-payment 13 Jul 2026 =>
+  13 Jul 2032. Each further fortnight is arguably a fresh contravention => rolls forward.
+- s 310(1) — 21 days from when a dismissal took effect. The 2024 separation expired ~30 Oct 2024.
+- ⛔⛔ THE ONLY SHARP CLOCK IS PROSPECTIVE: if the exclusion ripens into any separation, 21 days
+  runs from the day it takes effect, extendable only on "exceptional circumstances" (s 310(2)).
+  STANDING INSTRUCTION: the day any separation instrument arrives, enter the 21-day clock first.
+⭐⭐⭐ NEW FINDING — s 283(a) read to source: "Each of the following IS a process or proceedings
+under an industrial law... (a) any conference conducted, or hearing held, by the commission or
+the court." The section DEEMS it. => participating in WC/2024/227 is a workplace right under
+s 284(1)(b) WITHOUT having to argue the WCRA is an "industrial law". The 7 Aug 2026 mention is a
+hearing held by the commission. This strand has been underused.
+⭐ REAL DEFENCE IDENTIFIED — s 282(6): adverse action "does not include action that is authorised
+under... any other law of the State". MSH's 26 Jun email cites WHS s 19. THAT is the fight, not
+the limitation. Answer: the obligation was discharged (fit 3 Jul, psychosocial info 3 Aug) and
+the exclusion continued past both. An authorisation spent is not an authorisation.
+⚠ Gap 3 (last shift actually worked before 26 Jun 2026) STILL UNVERIFIED since August. Obtainable
+from the payslips. Cheapest load-bearing item outstanding.
+
+## 2026-09-24 — ⭐⭐⭐ THE RESPONDENT'S CASE ARRIVES: documents reply, witness list, outlines (six days early)
+Filed: `documents/respondent-served-2026-09-24/` (3 documents, README with hashes).
+Evaluation: `skill/references/RESPONDENT-CASE-24SEP2026-full-evaluation.md`. Scoring: E33, E34.
+- **09:51 documents reply** — Tabs 6, 20, 30, 30A confirmed "upon further review of the appeal file";
+  Tabs 1, 5, 17–19, 21, 22, 23, 31 requested from MSH. No reason given for any dispute. The split
+  tracks custody exactly ⇒ E30 not falsified.
+- **11:50 list** — Taylor, Reese, Wright (payroll), Earl (payroll). **Outlines** — conduct only
+  under s 32(5)(a); ⭐⭐ **no expert, no medical witness, no causation evidence.**
+- ⭐⭐ **Conflicts with the admitted record:** the 2020 agreement (Wright "indefinitely" v Forrest
+  "only … staff initiated shift swaps", facts 224–225, 234); two reasons for the fatigue refusal
+  (8-hour agreement 1 May 2024, fact 247, v not overtime) against payroll's "one of the shifts needs
+  to be overtime" (fact 188); "could refuse shifts" v "ordinary rostered hours"; Easter Monday 2023
+  (Taylor v Earl); AVACs only the manager can lodge (Wright; facts 200–201); pandemic leave — Earl
+  concedes the second decline was an error, says "approved that day by the delegate" against facts
+  120–121; Communication Book removed "last week" (fact 146) and "I did raise my voice" omitted;
+  Earl's "80 hours" v "76hrs" (fact 189).
+- ⭐ **What they do well:** Reese's Aug–Sep 2023 process; the Easter FTE explanation; the 6 Jun 2023
+  raised-voice account is in Taylor's contemporaneous email (his own Tab 1B).
+- ⛔ Reese's outline adds the 16 May 2024 HR forward of his ESU complaint about Taylor — PID track
+  only; nothing turns on it under s 32(5)(a); it answers language in the unamended Form 9A.
+- ⭐⭐ **MODEL FAILURE, recorded at E34:** the conduct defence was the branch priced at 16. The model
+  read admissions of documents as concession of reasonableness. They are not. The case is now one
+  evaluative question on admitted facts.
+- Brier: E24 panel won the shape (0.84); E28 won the three binaries; everyone lost on the thirteen.
+- ⛔⛔ **DIRECTION 5 IS LIVE:** directions finalised 24 Sep. He must contact the Registry to proceed
+  to a second s 552A conference or to hearing **by 1 Oct** (r 230). The election is his.
+- Still his decisions, none taken: direction 5 election · the held Form 24/25 filing email · the
+  unserved Second Amended Form 9A · NNPD if MSH does not produce the nine.
+
+## 2026-09-24 (evening) — THE FULL STACK v THEIR OUTLINES, bullet by bullet
+New file: `skill/references/THE-FULL-STACK-v-THEIR-OUTLINES-24SEP2026.md`. 44 outline points scored
+against the 298 admitted facts, the Feb 2026 admissions, the review decision, the Regulator's 2025
+witness bundles and his served material. Result: 20 stand (9 of them his own facts confirmed back),
+13 qualified, 15 contradicted, 5 hearsay, 5 untestable. 13 of the 15 contradictions come from the
+Respondent's own side (Taylor 6, Reese 4, MSH HR 2, role description 1); none from his evidence.
+On the single-stressor route the outlines leave the admitted record whole and add payroll's concession
+that the break was "a rostering practice issue for the line manager".
+⚠ CORRECTION TO THE REPO: `documents/regulator-response-2026-09-08/FORM24_RESPONSE_parsed_fact_by_fact.tsv`
+marks facts 5, 6, 17–24, 30, 31 "Disputed" — that is the tab schedule bleeding into the fact column.
+Verified on the rendered response today: all twelve ADMITTED. 298/303 stands; only 154, 228–231 not.
+⚠⚠ FOR CORY: his served outline §6 says he retracted the 15 May email ("which I did"); the Respondent
+pleads he declined and Taylor removed it. Resolve from his sent items before he gives evidence.
+
+## 2026-09-24 (late) — THIRD NOTICE TO ADMIT FACTS AND DOCUMENTS — DRAFT BUILT, NOT SERVED
+Builder: `drafts/build_form24_third.py` → `drafts/out/FORM24_THIRD_NOTICE_DRAFT_24SEP2026.pdf` (16 pp,
+134 facts, Schedule B of 6 documents) + `drafts/out/FORM24_THIRD_ANNEXURE_B_DRAFT_24SEP2026.pdf` (43 pp:
+B1 outlines · B2 list email · B3 documents reply · B4 payroll 11 Jul 2025 extract · B5 Reese 30 Jun–8 Jul
+2025 extract · B6 the 8 Sep response). Every quotation machine-checked against the source text; every
+restated first-notice fact checked Admitted on the rendered response. Metadata stripped on both.
+Shape: Part One the list and outlines (form, references, absences) · Part Two the outlines set beside
+the admitted facts, topic by topic (break · agreement · refusing shifts · fatigue payment · prior
+errors · fatigue raised · on-call process · office hours · Communication Book · pandemic leave · pay
+and AVACs · public holidays · no-witness matters) · Part Three the July 2025 disclosure (payroll's
+30.06.2025 amendment; Reese's corrected account — HR supplied the retraction wording) · Part Four
+Matheson's 24 Sep email. ⛔ Nothing on PID knowledge (R4e/R4f), nothing on the 17 May character email,
+no name typos, no metadata. ⛔ DRAFT: transcribe to the official Form 24/25 before service; Cory's
+decision whether and when to serve (optics of a third notice before a conference; 14-day clock).
+
+## 2026-09-24 (late) — THIRD NOTICE v2: their July 2025 disclosure, by List of Documents item
+Cory: Reese's answers and correction were sent after her 3 Jul 2025 conference and DISCLOSED. Confirmed:
+amended LoD 14 Aug 2026 items 37, 38 (Reese, 08/07/2025), 40 (Christensen payroll, 11/07/2025). Rendered
+the image pages: p11 = Taylor→Jeffrey 21 May 2024 removing a SECOND Communication Book entry; p25 = the
+14–15 Nov 2023 chain (their own list: "Request discussion on rostering"; Taylor: "mainly regarding
+rostering"; support person offered); Annexure A Tab 9B = Reese 21 May 2024 "reasons for why I
+recommended this action". Third notice rebuilt: 149 facts, 7 documents; annexure now 52 pp (B5 extract
+9 pp; B7 the LoD). Image-page facts marked RENDER-verified in the builder. ⛔ LoD item 39 not used.
+
+## 2026-09-24 (night) — REQUEST FOR COPIES DRAFTED; THIRD NOTICE v3 (164 facts, 13 documents)
+- Request letter: `drafts/build_request_copies_24sep.py` → `drafts/out/REQUEST_COPIES_DRAFT/` (PDF + TXT).
+  Seven items: LoD item 42; the Technical Support advice; Reese 4:12 pm 15 May 2024; HR's "on file"
+  advice and the "all staff signed" basis (no other employee's form sought); page 1 of the 2020
+  agreement; the pay records behind Earl's 10 Apr 2023 and "80 hours"; any other unlisted document a
+  witness will use. Due Thu 8 Oct 2026; consequence: seek a direction, costs reference. NOT SENT.
+- The Regulator's Form 29 to Qld Health (filed 27 Apr 2026, rendered) sought ONLY the PRN 15480560
+  pandemic-leave material ⇒ item 42 cannot explain Earl's Easter 2023 or 80-hour points, or Wright's
+  Technical Support advice.
+- 2020 agreement as produced (payroll bundle p4, rendered): "Page 2 of 2"; Part C = termination and
+  return to 10 hours; page 1 not disclosed though the July 2025 notice sought the "Complete" agreement.
+- Third notice v3: new Part Five (the two Qld Health notices; the agreement's Parts B–D; LoD item 42);
+  Schedule B now 13 documents: B1–B9 reproduced in Annexure B (85 pp, payroll bundle complete, both
+  sealed notices), B10–B13 the medical documents by LoD item, authenticity only, opinion through author.
+- Employer letter 6 Sep 2024 (LoD 31) clause 23 point HELD BACK — cross only (letter carries attendance
+  and ESU material).
+- SEQUENCE ADVICE: request first; hold the third notice until the copies arrive or 8 Oct, so item 42
+  and any Technical Support document can be folded in before a 14-day clock starts.
+
+## 2026-09-24 (night) — ARE THEY STILL DISPUTING ANYTHING DISCLOSED IN 2025? — NO
+Still disputed after 24 Sep: Tabs 1, 5, 17–19, 21, 22, 23, 31 (production from MSH pending) and Tab 24
+(no request made). Not admitted: facts 154, 228–231. Checked each against the July 2025 Reese, payroll
+and FRMS bundles and LoD items 37–42: **none of the disputed tabs is in the 2025 disclosure.** Every
+Annexure A tab drawn from the 2025 disclosure (1B, 2, 3, 4, 7, 8, 8A, 9, 9A, 9B, 12, 13, 14 …) was
+admitted on 8 Sep; the disputes were only ever the "Appellant's own records" column.
+⚠⚠ CORRECTION — fact 154 was WRONG ON OUR SIDE and they were right not to admit it. Fact 154: the
+LoD "does not list the Communication Book, nor any page or entry from it". LoD item 37 lists "Photo
+comms book – 20/05/2024" — rendered today (Reese bundle p12): Ms Jeffrey's entry of 20 May 2024,
+"For your information … I did not change any numbers on the ED cheat sheet". It is a page of the
+book, though not his June 2023 entry. ⛔ Never rely on fact 154. Fact 151 (removed page not alleged
+located or copied) is unaffected.
+⚠ LoD item 37 "Email C Taylor to APP – acknowledge increase in hours": the bundle text shows no
+27 Sep 2023 "Approved – Permanent Full Time FTE" email; most likely Taylor's 7 Aug 2023 1:43 pm reply.
+Not shown to be Tab 5.
+
+## 25 Sep 2026 — "the missing roster" found (PP21 v2.0)
+- PP21 (18–31 Mar 2024) exists in two versions. Published v1.0 (`documents/rosters/2023-24_published/2024-03-18_to_03-31_PP21_v1.0_NO_SHEPHERD_LINE.pdf`) has no Shepherd line. **v2.0 has one**: page 2 of the employer's Att 4 to its 6 Sep 2024 WorkCover response (Regulator LoD item 31), at `documents/gmail-ingest-2026-09-15/attachments/2024-09-06_AmyMo_Employer_additional_response_S23LW142013/Att_4_...PDF` (MD5 cb6ee751…). Rendered and read 25 Sep.
+- v2.0 Shepherd row: 18 Mar 0600-1400 **typed** (not handwritten); 19 Mar S/L handwritten over 0600-1400; 20 Mar 1500-2300; 23–24 Mar 1500-2300; 25–26 Mar A/L handwritten; 28 Mar 0600-1400; 29 Mar 1500-2300 handwritten; 31 Mar 0700-1500. "Chloe" typed in the footer row.
+- Already on file: it is exhibit C2 in the Feb 2026 Supplementary Affidavit ("Logan Hospital Switchboard Services Roster v2.0").
+- Limits: v2.0 creation date and author unknown. The scan metadata (Konica, 3 Sep 2024 23:20 UTC) dates the scan only. Metadata is prediction-only and never goes in correspondence.
+- ⚠ His 25 Sep letter item (n) attributes the 17–18 Mar break to **Ms Earl's** outline. It is in **Ms Taylor's** outline (SOFAC ¶22(a)). Earl's outline covers pay for the fortnight including 30 Mar 2024, which is PP21, so the roster request stays relevant to her, but the attribution needs fixing before he sends.
+
+## 25 Sep 2026 — PP20 / PP21 v1.0 / PP22 line comparison (rendered)
+- PP20 (4–17 Mar): 6 FT rows incl. Shepherd (row 6, 388372); also Willmann (PT) and Zizek (grey "Mat Leave" line). **Sun 17 Mar Shepherd 1500-2300, printed** — legible at 90 dpi on the published copy.
+- PP21 v1.0 (18–31 Mar): 5 FT rows, **no Shepherd**. Willmann and Zizek are also absent, and neither returns in PP22 (consistent with leaving the roster, not proven). Neville added (Casual/Training).
+- PP22 (1–14 Apr): Shepherd back at FT row 6, same payroll number.
+- Staff on leave keep their line: Fitzpatrick A/L across PP21 and PP22; Zizek kept a line while on maternity leave in PP20.
+- ⇒ Across these three fortnights, Shepherd is the only continuing staff member whose line is absent for one fortnight and then restored. The whole pack has not yet been checked for other instances.
+
+## 25 Sep 2026 — full roster pack audit
+See `skill/references/ROSTER-PACK-LINE-AUDIT-25SEP2026.md`. Shepherd is on 33 of 34 rosters; the only absence is PP21 v1.0. Willmann and Zizek also drop out and return, so "nobody else" is not literally true; use "the only one absent for a single fortnight in which he worked". PP20/PP21 v1.0/PP22 are not on his List of Documents. Recommendation: disclose the three by supplementary list, and serve a Form 25 once the distribution email is found.
+
+## 25 Sep 2026 — public holiday outline v Award/EB11
+See `skill/references/PUBLIC-HOLIDAY-OUTLINE-v-AWARD-EB11-25SEP2026.md`. Award cl 23 opened at source: 23(h) "shall be paid" (the 23 Aug caution is closed). "Discretionary" conflicts with the Award and with MSH's own 6 Sep 2024 letter ("in accordance with clause 23"). Quantum concede; 2023 claim do not press. Payroll 3 May 2024 (Grant): fortnight 18.03.24 "one of the shifts needs to be overtime", which differs from Earl's explanation. Wright's fatigue advice is wrong on cl 15.1(d) but right that no payment attaches.
+
+## 25 Sep 2026 — CORRECTION: Emily Petering WAS his assigned industrial officer
+Cory's instruction. The 3 Sep entry ("triage, not an assigned industrial officer"; "no industrial officer has ever been identified") is WRONG and is superseded. CLAUDE.md already recorded Petering as industrial officer. ⇒ The problem was never who has carriage. It is that the assigned industrial officer has given no view on the exclusion, the pay or the dismissal risk, and that Member Assist's 3 Sep reply was a WPSS welfare referral. The next union ask goes to Emily by name: her view and next step on the exclusion since 3 Jul, and a Hall Payne referral. If she is no longer assigned ("was"), ask who replaced her.
+
+## 25 Sep 2026 — union: Stage 2 was held on Petering's advice
+Cory confirms he dropped/held Stage 2 as Petering advised on 11 Aug. ⇒ The "did not follow advice" explanation for the union's silence is weakened. What remains open: her 3 Sep promise ("answers … by the end of the week") has no reply in the mailbox as at 25 Sep, and her 11 Aug plan hinges on the psychiatrist's report reaching the employer. The next email cites both: Stage 2 held as advised, and the report status.
+
+## 25 Sep 2026 — Krishnaiah → MSH: authority given, no response (Cory's account) [R]
+Cory: he gave MSH written authority to contact and communicate with Dr Krishnaiah ("Ravi"), and MSH has not responded to Dr K's email. Neither document is in the repo. The only record is Roberts' verbal disclosure on 21 Aug that Dr K had written; MSH's stated position at that meeting was that it wants the nine questions answered, and it offered to send the ECC. ⇒ TO FILE: (1) the authority, with its date and recipients; (2) Dr K's email to MSH (request a copy from the practice; Cory has not seen it). Bearing: Track B (the "medical evidence does not support" basis while the treating psychiatrist's inquiry sits unanswered). CORRECTION (Cory): the appeal's medical evidence is the M1–M9 schedule served 9 Sep, not a pending report, so the brief no longer links the two tracks on this point. The My Work Rights draft is updated; [date] is still to be filled.
+
+## 25 Sep 2026 — Krishnaiah non-response: dates verified from Cory's 10 Sep email (Gmail case-file copy)
+Source: Cory → IM/HR/Payroll/Roberts, 10 Sep 2026 06:25 UTC, "action required today … RFMI MSH-INJ-5795", §2:
+- 12 Aug 2026: written consent to IM for Mind and Memory Service to confirm Dr K's two requirements.
+- 24 Aug 2026 11:13: agreement to share medical information with the psychiatrist, on condition of prior notice; acknowledged 12:19 the same day.
+- "Dr Krishnaiah has recorded that he contacted Logan Hospital and that Queensland Health had not responded"; raised with LBH HR 28 Aug (after the 27 Aug consult), with IM 4 Sep, and again 10 Sep with a deadline of 12 Sep (2.1 still required? / 2.2 sent when, by whom? / 2.3 written withdrawal).
+- Cory: Dr K emailed him saying MSH had not responded, and confirmed it again weeks later. ⚠ Those emails from Dr K are NOT in the Gmail ingest (search for Krishnaiah returns only Cory's own emails). TO FILE: forward both into the case file. Also check for any MSH reply to the 12 Sep deadline.
+The My Work Rights draft Track B is updated with these dates; the [date] placeholder is gone.
+
+## 25 Sep 2026 — the 24 Aug authority, read at source
+`documents/medical/2026-08-24_Limited_Scope_Medical_Information_Authorisation_Krishnaiah_SIGNED.pdf` (2 pp; the text layer is partly broken, so the signature page was rendered): "LIMITED SCOPE AUTHORISATION FOR DISCLOSURE OF MEDICAL INFORMATION RELATING TO CAPACITY FOR WORK", signed and dated 24.08.2026, valid 12 months.
+- Cl 3: authorises the psychiatrist to prepare a written report answering the employer's clarification questions, which "may be provided directly to my employer or its authorised occupational health or human resources representatives".
+- ⚠ NAME MISMATCH: the practitioner is named "Dr Rai Ravi Ravikumar (or such other practitioner practising under that name)". The psychiatrist is Dr Ravikumar Bangalore Krishnaiah (Mind and Memory Service), per Cory's 10 Sep email. MSH could treat the mismatch as a reason the authority does not cover him. Fix: a one-line written confirmation to IM that the authority of 24 Aug refers to Dr Ravikumar Bangalore Krishnaiah of Mind and Memory Service. Never characterise their non-response as reliance on it.
+The brief is updated with the cl 3 scope.
+
+## 25 Sep 2026 — Krishnaiah email chain, 5–8 Sep 2026, filed as an original
+Filed: documents/medical/2026-09-05_to_09-08_Krishnaiah_email_chain_QH_not_responded_7pp_INTERNAL.pdf (MD5 1606526b…, 7 pp, Chromium print of 25 Sep). Cory: "no QH reply".
+- Dr K, 5 Sep 2026 12:04: "QH- I have not received response yet". This is the written confirmation that MSH had not responded.
+- Dr K, 8 Sep 07:18: attached "the report that captures the relevant information you have requested" (= the 13 Feb 2025 report, Tab M4).
+- ⚠ ALREADY SERVED: this chain was served on the Regulator 9 Sep as Tab M5 of the medical schedule. Source pp 1, 4, 5–7 were included; pp 2–3 were omitted with reasons. Source p 4, which carries "QH- I have not received response yet", IS in the served bundle.
+- ⛔ INTERNAL: pp 2–3 (Cory's 1:16 pm reply, and Dr K's "I can't provide preformed answers") are NOT to be sent to anyone: not to lawyers unprompted, and never to MSH or the Regulator. If a lawyer needs to show the non-response, use served Tab M5 p 28 or quote the line.
+- The first written notice of non-response (around the 27 Aug consult, per the 10 Sep email) is still not in the repo.

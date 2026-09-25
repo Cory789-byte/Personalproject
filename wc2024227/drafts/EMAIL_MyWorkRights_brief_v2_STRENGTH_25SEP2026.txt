@@ -1,0 +1,79 @@
+TO:      support@myworkrights.com.au
+SUBJECT: Request for representation — QIRC WC/2024/227 (psychological injury, s 32(5)) and exclusion from work, Metro South Health
+
+Hello,
+
+I am asking whether your firm would act for me, and brief Mr C D Watters, in two connected matters against Metro South Hospital and Health Service and the Workers' Compensation Regulator. I noticed your firm instructed Mr Watters in Carr v Workers' Compensation Regulator [2022] QIRC 59.
+
+Both matters rest largely on the respondents' own documents and admissions. I have set out each one below: what is established, where it is exposed, and what it needs.
+
+==================================================================
+MATTER A — WORKERS' COMPENSATION APPEAL, WC/2024/227 (QIRC)
+==================================================================
+The issue: my psychological injury (onset 18 June 2024) was accepted as arising out of employment, but excluded under s 32(5)(a) as reasonable management action. Review Decision 69983 is dated 24 October 2024, and the appeal is de novo. It is the only issue.
+
+What is already established:
+1. The Regulator's own review officer found the rostering of 17–18 March 2024 (a 7-hour break between shifts) to be "unreasonable management action given that it was in direct contradiction to the award and the 8-hour agreement". The same decision found that I sustained a psychological injury, and that it arose out of employment with employment a significant contributing factor.
+2. The claim was rejected only by counting: "two out of the three causative factors amounted to reasonable management action", so the injury "mainly arose out of such management action". The Industrial Court has rejected a dominant-cause approach to s 32(5): Blackwood v Mahaffey [2016] ICQ 10 at [53] and [57], and Q-COMP v Hochen [2010] ICQ 10.
+3. My notice to admit: the Regulator admitted 298 of 303 facts and denied none. It admits the 7-hour break.
+4. The employer's own documents, admitted:
+   - the line manager's Director wrote to HR in May 2024 of "a few rostering errors made by Chloe with regards to Cory's line";
+   - the line manager apologised in August 2023 for an earlier rest-period "oversight";
+   - Metro South HR wrote in July 2026 that the 8-hour agreement "is only applied where staff initiated shift swaps have occurred". The March shifts were rostered, not swapped, so on the employer's own statement the minimum was 10 hours;
+   - Metro South told the Commission that fatigue risk assessment at the Switchboard was implemented only after 30 June 2024.
+5. The Regulator's case, served 24 September 2026, is four lay witnesses (two managers, two payroll). Its own manager-witness confirms the 7-hour break and calls it "human error". As at today it has served no medical evidence, although it pleads a pre-existing condition. Its time for expert material ends 30 September 2026.
+6. My treating psychiatrist's diagnosis is Major Depressive Disorder with anxious distress, which he records as "workplace stress stemming from issues with management and rostering".
+
+Where it is exposed:
+- I carry the onus, and the Regulator will argue a global evaluation of the management action (Delaney).
+- The rostering breach was in March and onset in June. That interval must be explained through the medical evidence and the course of events after March.
+- I have no medico-legal report. My treating psychiatrist has records and a treating report, and has said he does not have capacity for medico-legal work. A report may need to be arranged.
+
+What it needs, and when:
+- On or after 1 October 2026 I will ask the Registry to list a second s 552A conference. The Guide describes this as the point where the Regulator may review its position. Representation at that conference is the most useful single step.
+- An expert report, if the Regulator serves one by 30 September or maintains its pre-existing contention.
+- On disclosure: at the mention on 7 August 2026, Commissioner Dwyer said that if the Regulator accepts a specific document exists but says it is not relevant, I "can come back" to him, and that "looking at a single document" he can say quickly whether it should be disclosed.
+
+==================================================================
+MATTER B — EXCLUSION FROM WORK AND WAGES, METRO SOUTH HEALTH
+==================================================================
+The issue: since 26 June 2026 I have not been provided work, and I have received no wages since 13 July 2026. The stated basis is that "the medical evidence does not support" my return.
+
+What is established:
+1. The employer's own capability checklist, completed by my GP on 3 July 2026, certifies me fit for work with restrictions. I have been ready and available since.
+2. On 4 August 2026 I asked in writing for the instrument relied on to keep me out. None has been identified.
+3. The employer requested medical information on 31 July 2026. On 24 August 2026 I signed a limited-scope authorisation for my treating psychiatrist to report directly to the employer, and HR acknowledged it. The psychiatrist contacted the hospital. On 5 September 2026 he confirmed in writing that Queensland Health had not responded to him ("QH- I have not received response yet"). I followed up on 28 August, 4 September and 10 September. The request has not been progressed or withdrawn.
+4. The dated sequence:
+   - 13 May 2024: a complaint later determined by the employer's Ethical Standards Unit to be a public interest disclosure (ref 24-ESU-1130; admitted in the appeal; content not set out here);
+   - 9 October 2024: employment ended by an abandonment-of-employment letter, after the WorkCover decision. I was reinstated to my employment with an effective date of 20 September 2024, the reinstatement taking effect despite any payroll documentation, and returned on 24 February 2025;
+   - 22 April 2026: a notice of non-party disclosure is served on Metro South in the appeal. 5 June 2026: Metro South objects. 25 June 2026, 8:31 am: my sealed application under r 64G is served on Metro South Legal;
+   - 26 June 2026, 10:42 am: a condition that I not attend the workplace is recorded.
+   I understand that in an application under s 309 of the IR Act, s 306 presumes the reason alleged unless the employer proves otherwise.
+5. Leave has been debited since 13 July. I have taken it under written protest, reserving a wages claim. Payments were made at "0.5 FTE" under an arrangement that had expired, and long service leave was refused "by the system".
+
+Where it is exposed:
+- On 8 September 2025 the employer wrote to me about attendance (34 occasions over about 18 weeks). It may rely on that letter. No conduct process was on foot in June 2026, and the exclusion was expressed on medical grounds, not attendance.
+- The employer will say it is running an ordinary capability process.
+- My union (Together) advised me to hold my enterprise agreement dispute at Stage 2 pending the specialist report, and I did. It has not yet taken a position on the exclusion or the wages.
+
+What it needs:
+(a) a wages claim, ready and willing since 26 June / 3 July 2026;
+(b) advice on adverse action (IR Act ss 282–285, 306, 309; six years for non-dismissal action), impairment discrimination (AD Act; the conduct is continuing), and the Public Sector Act 2022;
+(c) readiness if the employer moves to end my employment on capacity grounds (21 days).
+
+==================================================================
+COMMON LAW
+==================================================================
+The limitation date for a common law claim for the injury is about 18 June 2027. I understand that acceptance of the claim in Matter A is the gateway to it.
+
+==================================================================
+DOCUMENTS
+==================================================================
+Available on request: the review decision; the Regulator's statement of facts and contentions and its outlines of 24 September 2026; my notice to admit and the Regulator's answers; my medical schedule served 9 September 2026; the directions orders; the capability checklist; the authorisation of 24 August 2026; and a dated record of my requests to the employer since 3 July 2026.
+
+I have had no wages since 13 July 2026, so the fee basis matters to me. I am available on 0417 400 227 at any time.
+
+Kind regards,
+Cory Shepherd
+0417 400 227
+coryshepherd1@hotmail.com

@@ -251,3 +251,31 @@ Regulator disclosure.
    "Renee Dawson". Do not assume anything about her.
 3. The Item 11 prints' authorship (Ruttan) shows who *assembled* the
    production, not who *ran* the searches.
+
+---
+
+## Part 6 — The 8 September 2026 response set (added 13 Sep 2026)
+
+| File | Author (Info) | Creator | Created (AEST) |
+|---|---|---|---|
+| `2026-09-08_Regulator_FORM24_RESPONSE_298of303_admitted.pdf` | — | **pypdf** (script) | **Mon 7 Sep 2026 16:42:04** |
+| `2026-09-08_Regulator_FORM25_RESPONSE.pdf` | — | **pypdf** (script) | **Mon 7 Sep 2026 16:43:04** |
+| `2026-09-08_Regulator_COVER_LETTER_response_to_notices.pdf` | ⭐ **"Peter"** | Acrobat PDFMaker 26 for Word | **Tue 8 Sep 2026 11:14:13** — ten minutes before Matheson's 11:24 service email |
+
+**Sequence:** the verdicts were locked by a script on the Monday afternoon; the covering letter —
+the one that quotes r 49 and reserves relevance, admissibility, characterisation and truth of
+contents — was finalised on the Tuesday morning in a Word profile named **"Peter"**, and served ten
+minutes later under Matheson's signature.
+
+**Comparison across the Regulator's responses to the Appellant's notices to admit:**
+
+| Response | PDF Author | Resolved as |
+|---|---|---|
+| Form 24, **18 Feb 2026** | **Stephen Gray** | ✅ barrister on OIR's legal-services books, paid $17,205.02 on 12 Dec 2024 (`HOPGOODGANIM-QUESTION.md` §10.3g) |
+| Form 24/25 cover letter, **8 Sep 2026** | **"Peter"** | ⚠ **unresolved.** First name only. ⛔ **Not** Peter Fitzpatrick (MSH Switchboard, cc lines), Peter Bandarian (Littles, Appellant's PI referral) or Dr Peter Hawes (Appellant's GP). OIR's Sep 2024–Jan 2025 legal-services quarter lists two Peters among fifteen-plus barristers — ⛔ **no inference is drawn as to which, or whether either** |
+
+⇒ **Both responses to the Appellant's notices to admit carry a non-Matheson author on the legally
+careful document.** That is consistent with the pattern already established at §10.3g(ii): *OIR's
+documents in this matter routinely carry the fingerprints of external legal suppliers; that is its
+normal production method — in-house officers plus briefed counsel.* ⛔ Entirely proper. No
+allegation is made or implied.
