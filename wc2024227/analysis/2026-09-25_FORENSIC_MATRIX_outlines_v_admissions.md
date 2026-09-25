@@ -143,9 +143,11 @@ changes", fact 266, against facts 49–54 and 66).
 
 The conference paper presents Stressor 1 (parts (a) to (g)), Stressor 2 (parts (a) and (b)) and Stressor 3,
 each as a whole. **It does not ask whether any stressor, "taken as a whole", was reasonable management
-action.** Weighing a composite course is *Delaney*. That is the Respondent's authority, and it is how Review
-Decision 69983 applied s 32(5). The s 32(5) table (section 6) asks for the settled position **action by
-action** (*Mahaffey*).
+action.** A global weighing of every grievance is the *flattening* that *Mahaffey* refuses. It is also how
+Review Decision 69983 **misapplied** *Delaney*. *Delaney* itself is the Appellant's: it aggregates a course
+against atomisation. **Corrected 25 Sep 2026:** the s 32(5) table (section 6) asks for the settled position
+**action by action** (*Mahaffey*), **and** on the course of conduct at row L, the standing fatigue and
+recovery state (*Delaney*, properly applied).
 
 The two "taken as a whole" questions that remain are each confined to **a single episode**, not a stressor:
 Q7 (one leave application) and Q11 (one pay correction).

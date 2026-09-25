@@ -29,9 +29,10 @@ admissions (Section D of the notice). See `analysis/2026-09-16_Form24_Admissions
 `analysis/2026-09-16_SEQUENCE_mention_to_admissions.md` and
 `analysis/2026-09-16_DWYER_DIFFICULTY_MAP.md`.
 
-⛔ **RUN *MAHAFFEY*, NOT *DELANEY*.** One mechanism — responsibility imposed, the means to discharge
-it withheld — with one proven instance, the seven-hour break. **A composite course is *Delaney*, it is
-the Respondent's authority, and it is how Review Decision 69983 applied s 32(5) against him.**
+⛔ **RUN *DELANEY* AND *MAHAFFEY* TOGETHER** (corrected 25 Sep 2026). One mechanism — responsibility imposed, the means
+to discharge it withheld — with one proven instance, the seven-hour break. ***Delaney* is the Appellant's** (anti-atomisation:
+it defeats SOFC ¶22(a) "not repeated"); Review Decision 69983 **misapplied** it, using it to dilute rather than aggregate.
+***Mahaffey*** refuses the flattening. See `analysis/2026-09-16_DELANEY_MISAPPLIED_in_RD69983.md`.
 
 ## ⛔⛔ THE LIVE CLOCKS
 
