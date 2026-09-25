@@ -93,6 +93,45 @@ Q = [["", "Question for the Respondent", "The admitted record"],
   "not appear in the myHR report (fact 210)"],
 ]
 
+CHRON = [["When", "What the admitted record shows", "Facts", "Interval"],
+ ["18 Jul 2023, 12:56 pm", "Database access removed from all Switchboard staff while the coordinator fixes the database; the "
+  "\"Contact & Number Changes\" book removed from the room", "39, 40, 45", ""],
+ ["From 18 Jul 2023", "Changes only through Ms Stibbard (\"every Tuesday and second Monday, 8:00 - 16:00\"), or Ms Taylor if "
+  "urgent. After hours, requests \"have to wait until either Chloe or myself are back\"", "41 to 44", ""],
+ ["To 18 Jun 2024", "The Respondent does not allege that access was restored to the Appellant", "55", ""],
+ ["15 Apr 2024, 12:39 pm", "New after-hours on-call process, \"effective from today\"", "49 to 52", ""],
+ ["2 and 3 May 2024", "Five misrouted calls, including a MET call: \"switchboard could not tell them where VHUB was. Had to be "
+  "redirected by MASPER\"", "57, 58", ""],
+ ["3 May, 3:06 pm", "MASPER Registrar reports them to Ms Taylor, copied to Dr Wong", "56", "First report"],
+ ["5 to 8 May", "Four further occasions; on 8 May each call \"incorrectly put through to MASPER\"", "60, 61", ""],
+ ["8 May, 5:28 pm", "Second report to Ms Taylor", "59, 62", "Fifth calendar day"],
+ ["9 May, 9:20 am", "Ms Taylor replies to the Registrar", "63 to 65", "5 days 18 h 14 min after the first report"],
+ ["9 May, 10:15 am", "First communication to Switchboard staff (\"MASPER process\"): \"There have been many ongoing issues "
+  "raised by the MASPER and the medical department\"", "66, 67, 69", "None alleged before this"],
+ ["", "Every occasion occurred while the 15 April arrangement was in force", "68", ""],
+ ["15 May, 11:47 am", "Integrated Respiratory Service asks for the directory to be amended", "89, 90", "No response alleged before 20 May"],
+ ["20 May, 11:03 am", "Reminder: \"we continue to get calls put through to us\"", "91 to 93", "Fifth day; no response alleged before 2:05 pm"],
+ ["20 May, 2:05 pm", "The Appellant escalates to Ms Taylor, within her stated office hours", "94 to 98",
+  "3 h 2 min after the reminder; 5 days 2 h 18 min after the first request"],
+ ["20 May, 4:30 pm", "Ms Taylor: \"this task was being actioned\"", "100 to 104", "2 h 25 min later; 2 h after her stated hours"],
+ ["", "No document of that discussion is listed. The directory is not alleged to have been amended by 20 May, nor staff "
+  "notified of its modification on 22 February 2024", "105 to 110", ""],
+]
+
+Q2 = [["", "Question for the Respondent", "The admitted record"],
+ ["9", "Does the Respondent maintain its non-admission of Stressor 1(a) (SOFC [11])?",
+  "The chronology above, every entry admitted. The duties it concerns are in the role description: maintaining the "
+  "database (fact 6) and the emergency response process \"strictly adhering to protocols and timeframes\" (fact 8)"],
+ ["10", "What action does the Respondent say was taken on the reports of 3, 8, 15 and 20 May 2024 before the Appellant's "
+        "email of 20 May 2024 at 2:05 pm, and what document records it?",
+  "No communication to staff is alleged before 9 May at 10:15 am (fact 69). No response to either Integrated Respiratory "
+  "Service email is alleged before the Appellant's escalation (facts 90, 93). No document of the 20 May discussion is listed (fact 105)"],
+ ["11", "Does the Respondent rely on Metro South Health's statement that there were \"no 'consequential' changes to "
+        "operating procedures\" (fact 266)?",
+  "New processes of 15 April (facts 49 to 53), 19 April (fact 54) and 9 May 2024 (fact 66). Complaints were \"managed "
+  "solely via email or verbally\" (fact 267)"],
+]
+
 s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      P("WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator", T),
      P("<b>Appellant's conference paper</b> &nbsp;|&nbsp; Conference under section 552A of the <i>Industrial Relations "
@@ -118,8 +157,16 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      table(Q, [8*mm, 62*mm, W - 70*mm]),
      Spacer(1, 3*mm),
 
+     P("4. Stressor 1(a): the database, the after-hours arrangement and the misrouted calls", H),
+     P("None of the Respondent's outlines of evidence addresses the database, the misrouted calls, or the reports of the "
+       "MASPER Registrar or the Integrated Respiratory Service. The admitted record is as follows.", B),
+     table(CHRON, [26*mm, W - 26*mm - 20*mm - 38*mm, 20*mm, 38*mm]),
+     Spacer(1, 3*mm),
+     table(Q2, [8*mm, 62*mm, W - 70*mm]),
+     Spacer(1, 3*mm),
+
      KeepTogether([
-       P("4. The Appellant's position", H),
+       P("5. The Appellant's position", H),
        P("On the admitted record, the Appellant considers that the primary facts are settled and that the matters "
          "remaining are the application of the law to those facts and the medical evidence. The Appellant invites "
          "the Respondent to consider its position on the admitted record. If the matter does not resolve, the "

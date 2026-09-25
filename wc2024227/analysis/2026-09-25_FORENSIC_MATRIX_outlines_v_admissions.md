@@ -110,3 +110,12 @@ explanation:**
 - 1 defect on the face of the document (E6).
 
 Some passages fall into more than one class. Two of the four witnesses have no personal knowledge (K).
+
+## Addendum: Stressor 1(a), which the outlines are silent on
+
+None of the four outlines mentions the database, the MASPER reports, the Integrated Respiratory Service
+emails or the misrouted calls. The only reference to that period is Taylor's "failure to follow the on-call
+notification process" (T12). The conference paper, section 4, sets out the admitted chronology: facts 39–45,
+49–52, 55–69 and 89–110. It adds Q9 (the SOFC ¶11 non-admission), Q10 (the action taken on the reports of
+3, 8, 15 and 20 May, and any document of it) and Q11 (reliance on the CE's statement of "no consequential
+changes", fact 266, against facts 49–54 and 66).
