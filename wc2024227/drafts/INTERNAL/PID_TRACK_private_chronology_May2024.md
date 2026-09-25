@@ -4,6 +4,15 @@
 > WC/2024/227 or the employment track. In the WC track: headers only from the disclosure emails,
 > never their content (discipline rule 2); Stressor 1(a) is never linked to the disclosure (rule 3).
 > For use with a lawyer on the PID track. Prepared 25 September 2026.
+>
+> ⚠ **USE OF DOCUMENTS IN ANOTHER FORUM.** Documents obtained through disclosure in WC/2024/227
+> (the Regulator's 11 June 2026 and July 2025 disclosures, and anything produced in answer to the
+> letter of 25 September 2026) are generally subject to an implied undertaking: for this proceeding
+> only, unless the Commission gives leave or the document is tendered or read in open hearing.
+> Do not use them in a PID or other proceeding without checking this with a lawyer. Obtain the same
+> records independently where possible (Information Privacy Act application to Metro South Health;
+> disclosure in the PID proceeding). The Appellant's own documents (his emails, the complaint form,
+> the 3:35 pm email as sent) are not affected.
 
 ## 1. The disclosure has two limbs
 
