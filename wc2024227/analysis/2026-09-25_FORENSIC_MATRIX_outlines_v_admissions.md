@@ -119,3 +119,22 @@ notification process" (T12). The conference paper, section 4, sets out the admit
 49–52, 55–69 and 89–110. It adds Q9 (the SOFC ¶11 non-admission), Q10 (the action taken on the reports of
 3, 8, 15 and 20 May, and any document of it) and Q11 (reliance on the CE's statement of "no consequential
 changes", fact 266, against facts 49–54 and 66).
+
+## Addendum 2: Stressor 3 consolidated, and two further finds
+
+- **Two different reasons for declining the fatigue payment.** On 1 May 2024 Taylor declined it
+  "due to the existing 8-hour agreement" (fact 247). SOFC ¶24(b) pleads clause 18.10: not entitled
+  "because he was not performing overtime" (fact 237). Wright's outline (Technical Support) follows the
+  clause 18.10 line. This is Conference Q11.
+- **T4, "loudly".** Taylor's outline says he questioned her "closely and loudly". Fact 292, admitted on
+  18 Feb 2026, is Taylor's own email to Reese of 6 June 2023: "**I did raise my voice** and asked him to
+  please stop talking over the top of me." **Hold for cross-examination.**
+- Fact 287 (Reese, 7 Aug 2023: "a rostering error that was accidentally made by Chloe with regards to
+  night shifts") has been added to Q10, the "not repeated" question.
+- The conference paper's section 5 now runs Stressor 3 as one sequence:
+  - 5.1: the rule and the agreement (facts 17, 20–22, 37–38, 225, 234, 239–240, 257, 285).
+  - 5.2: the pairing, the emergency calls (228–230, not admitted; 268), travel (251) and leave (235).
+  - 5.3: the request, the 1 May response, and what followed (214, 218–223, 242–250, 254, 260, 264,
+    269–271).
+- Section 6 adds row H: the 1 May response and the advice that the agreement could be terminated
+  "going forward".
