@@ -7797,3 +7797,6 @@ See `skill/references/PUBLIC-HOLIDAY-OUTLINE-v-AWARD-EB11-25SEP2026.md`. Award c
 
 ## 25 Sep 2026 — CORRECTION: Emily Petering WAS his assigned industrial officer
 Cory's instruction. The 3 Sep entry ("triage, not an assigned industrial officer"; "no industrial officer has ever been identified") is WRONG and is superseded. CLAUDE.md already recorded Petering as industrial officer. ⇒ The problem was never who has carriage. It is that the assigned industrial officer has given no view on the exclusion, the pay or the dismissal risk, and that Member Assist's 3 Sep reply was a WPSS welfare referral. The next union ask goes to Emily by name: her view and next step on the exclusion since 3 Jul, and a Hall Payne referral. If she is no longer assigned ("was"), ask who replaced her.
+
+## 25 Sep 2026 — union: Stage 2 was held on Petering's advice
+Cory confirms he dropped/held Stage 2 as Petering advised on 11 Aug. ⇒ The "did not follow advice" explanation for the union's silence is weakened. What remains open: her 3 Sep promise ("answers … by the end of the week") has no reply in the mailbox as at 25 Sep, and her 11 Aug plan hinges on the psychiatrist's report reaching the employer. The next email cites both: Stage 2 held as advised, and the report status.
