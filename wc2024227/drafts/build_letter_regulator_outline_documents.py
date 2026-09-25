@@ -34,7 +34,9 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "documents and records that, as far as I am aware, have not been disclosed. At the mention on 7 August 2026 the "
        "Commissioner indicated that, for a document held by Metro South Health, the starting point is to ask the "
        "Regulator. I ask accordingly.", B),
-     P(f"Could the Respondent please produce the following, to the extent not already disclosed, by {REPLY_BY}:", B),
+     P(f"Could the Respondent please produce the following, to the extent not already disclosed, by {REPLY_BY}. "
+       "Emails are sought in their native form (for example .msg), showing the full header, sender, every recipient "
+       "and the time sent:", B),
 
      P("A. The email of 15 May 2024 at 1:15 pm (facts 74 to 79)", H),
      P("(a)&nbsp;&nbsp;the complete email chain with the subject \"Office Hours and Departmental Directives\", from 15 to "
@@ -48,9 +50,11 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("(d)&nbsp;&nbsp;the call records for 15 May 2024 of the work mobile telephones, and the desk or DECT extensions, "
        "used by Ms Reese, Ms Taylor, Mr Punch and Ms Pritchard, for the calls referred to in the outlines of Ms Reese and "
        "Ms Taylor and in Ms Reese's response to the Respondent of July 2025 (Ms Taylor's call to Human Resources, her "
-       "call to Ms Reese, and Ms Reese's call to Mr Punch), showing for each call which telephone placed it and which received it, the time it was placed and its duration. The "
-       "records are sought in the form issued by the carrier or the telephone system (the original PDF or export), "
-       "without alteration other than the redaction of unrelated entries, with each redaction marked;", L),
+       "call to Ms Reese, and Ms Reese's call to Mr Punch), showing for each call which telephone placed it and which received it, the time it was placed and its duration. This "
+       "includes the outgoing records of the telephone that placed each call and, where the system records them, the "
+       "incoming records of the telephone that received it, as held by Metro South Health (including its carrier's "
+       "itemised billing). The records are sought in the form issued by the carrier or the telephone system (the original "
+       "PDF or export), without alteration other than the redaction of unrelated entries, with each redaction marked;", L),
      P("(e)&nbsp;&nbsp;the delivery and read records (message trace) of the email forwarded by LBH_HR on 15 May 2024 at "
        "3:41 pm to Mr Punch, Ms McGinley and Ms McNamee (the Respondent's disclosure of 11 June 2026, page 7), showing "
        "when it was received and opened by each;", L),
@@ -101,8 +105,11 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("I ask for a response by " + REPLY_BY + " because these documents may bear on the course I propose to the "
        "Commission under direction 5 of the Further Directions Order (3). The documents at (o) to (u) have been "
        "outstanding since my letter of 9 September 2026.", B),
-     P("If any of these documents is not held, or has already been disclosed, I would be grateful to be told so, "
-       "identifying the disclosure.", B),
+     P("So that each item can be closed, could the Respondent please answer item by item, stating for each whether "
+       "the document is produced, has already been disclosed (identifying where), or is not held. Where a document is not "
+       "held, could the Respondent please say whether it existed and, if so, when it ceased to be held.", B),
+     P("Some of the records at (d), (e), (g) and (i) may be subject to routine deletion. Pending the Respondent's response, I ask "
+       "that the Respondent request Metro South Health to preserve them.", B),
      KeepTogether([P("Yours faithfully,", B), Spacer(1, 1*mm), SIG(), Spacer(1, 1*mm),
                    P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B)]),
      ]
