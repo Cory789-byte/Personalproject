@@ -10,8 +10,8 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, KeepTogether
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv) > 1 else "16 October 2026"   # HELD: rebuild with the real send date once the Regulator responds
-RESPOND_BY = sys.argv[2] if len(sys.argv) > 2 else "30 October 2026"
+DATE = sys.argv[1] if len(sys.argv) > 1 else "1 October 2026"   # HELD for 1 Oct: update with the Regulator's response first
+RESPOND_BY = sys.argv[2] if len(sys.argv) > 2 else "15 October 2026"
 from datetime import datetime as _dt
 EXPIRED = _dt.strptime(DATE, "%d %B %Y") >= _dt(2026, 9, 30)
 

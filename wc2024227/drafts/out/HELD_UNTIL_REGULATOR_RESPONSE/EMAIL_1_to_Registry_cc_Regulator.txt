@@ -1,14 +1,13 @@
-HELD. Send only after the Regulator has responded to the letter of 25 September 2026 (response due
-Thursday 15 October 2026), or once that date has passed without a response.
+HELD FOR THURSDAY 1 OCTOBER 2026 (the Regulator was asked to respond to the letter of 25 September 2026
+by that date).
 
 BEFORE SENDING:
-1. Tell Claude what the Regulator's response says (or that none came). The letter's section 4, item (e),
-   and the paper's row E must be updated to record the response before sending.
-2. Rebuild both PDFs with the real send date and a response date about 14 days later, for example:
-     python3 build_letter_registry_direction5.py "16 October 2026" "30 October 2026"
-     python3 build_conference_paper.py "16 October 2026" "30 October 2026"
-3. Replace [RESPOND BY] below with that same response date.
-4. Check the inbox for any expert or medical report. If one has arrived, do NOT send: both documents
+1. Tell Claude what the Regulator provided by 1 October (or that nothing came). The letter's item (e),
+   the schedule of documents and the paper's row E are updated to record it before sending.
+2. Rebuild both PDFs (defaults: dated 1 October 2026, Respondent to respond by 15 October 2026):
+     python3 build_letter_registry_direction5.py
+     python3 build_conference_paper.py
+3. Check the inbox for any expert or medical report. If one has arrived, do NOT send: both documents
    say none was served.
 
 TO:      qirc.registry@qirc.qld.gov.au
@@ -25,7 +24,7 @@ paper referred to in it, setting out the admitted record and questions for the R
 
 The Respondent is copied to this email, and by this email I provide the paper to the Respondent. I
 would be grateful if the Respondent could indicate its position on the questions in the paper, and its
-settled position under section 32(5) at section 6, by [RESPOND BY].
+settled position under section 32(5) at section 6, by 15 October 2026.
 
 Yours faithfully,
 

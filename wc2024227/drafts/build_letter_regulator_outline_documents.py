@@ -11,9 +11,9 @@ from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, 
 from reportlab.platypus import Image as RLImage
 
 DATE = sys.argv[1] if len(sys.argv) > 1 else "25 September 2026"
-REPLY_BY = sys.argv[2] if len(sys.argv) > 2 else "Thursday 15 October 2026"
+REPLY_BY = sys.argv[2] if len(sys.argv) > 2 else "Thursday 1 October 2026"
 
-B  = ParagraphStyle('B', fontName='Helvetica', fontSize=8.8, leading=11.1, spaceAfter=3.5)
+B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.8, spaceAfter=4)
 H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=3, keepWithNext=1)
 L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=2)
 def P(t, s=B): return Paragraph(t, s)
@@ -76,7 +76,33 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "outline, and the record of its correction; and", L),
      P("(o)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
 
+     P("C. The documents still to be confirmed (your email of 24 September 2026)", H),
+     P("Your email of 24 September 2026 confirmed Tabs 6, 20, 30 and 30A and said that the Regulator has asked Metro "
+       "South Health for copies of the following. Tab numbers are those of Annexure A to my notices of 28 August 2026. "
+       "Could the Respondent please provide Metro South Health's copy of each, or confirm the authenticity of the copy "
+       "served, by the same date:", B),
+     P("(p)&nbsp;&nbsp;Tab 1: Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital;", L),
+     P("(q)&nbsp;&nbsp;Tab 5: email, Ms Taylor to the Appellant, \"Approved - Permanent Full Time FTE\", 27 September 2023, 1:52 pm;", L),
+     P("(r)&nbsp;&nbsp;Tabs 17 to 19: movement forms of 27 February, 17 April and 9 June 2026, each approved by Mr Hughes;", L),
+     P("(s)&nbsp;&nbsp;Tab 21: the email of Ms L Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health "
+       "Service, to the Appellant, 7 July 2026, \"Cory Shepherd ECC further information\". Your email describes this "
+       "document as an email from me. The document sought is Ms Forrest's email as she sent it, showing its sender, "
+       "every recipient and its time, and not any copy forwarded by me;", L),
+     P("(t)&nbsp;&nbsp;Tab 22: Consultation Paper, Proposed Rosters for Switchboard Services, Logan Hospital, signed by "
+       "Mr Hughes on 12 November 2024;", L),
+     P("(u)&nbsp;&nbsp;Tab 23: Consultation outcome, Proposed Rosters for Switchboard Services, Logan Hospital, signed by "
+       "Mr Hughes on 12 December 2024;", L),
+     P("(v)&nbsp;&nbsp;Tab 31: \"2024 Emergency Code Register.xlsx\", March 2024 sheet, entries for 16 to 20 March 2024 (see "
+       "Metro South Health's letter of 5 June 2026 stating that \"a spreadsheet of recorded MET calls is available for "
+       "the period 17-18 March 2024\"); and", L),
+     P("(w)&nbsp;&nbsp;Tab 24: email, Mr H Moran, Together Queensland, to Ms C Jeffrey, Ms P Conaghan and the Appellant, "
+       "3 November 2025. Could the Respondent please say whether it maintains its dispute of the authenticity of this "
+       "document.", L),
+
      Spacer(1, 1*mm),
+     P("I ask for a response by " + REPLY_BY + " because these documents may bear on the course I propose to the "
+       "Commission under direction 5 of the Further Directions Order (3). The documents in Part C have been outstanding "
+       "since my letter of 9 September 2026.", B),
      P("If any of these documents is not held, or has already been disclosed, I would be grateful to be told so, "
        "identifying the disclosure.", B),
      KeepTogether([P("Yours faithfully,", B), Spacer(1, 1*mm), SIG(), Spacer(1, 1*mm),
