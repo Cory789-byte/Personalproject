@@ -15,12 +15,12 @@ RESPOND_BY = sys.argv[2] if len(sys.argv) > 2 else "15 October 2026"
 from datetime import datetime as _dt
 EXPIRED = _dt.strptime(DATE, "%d %B %Y") >= _dt(2026, 9, 30)  # send only after 4.00 pm if dated 30 September
 
-B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.7, spaceAfter=4)
-H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=2)
+B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.4, spaceAfter=3.5)
+H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=2, keepWithNext=1)
 L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=2)
-C  = ParagraphStyle('C', parent=B, fontSize=8.1, leading=10.0, spaceAfter=0)
+C  = ParagraphStyle('C', parent=B, fontSize=7.9, leading=9.4, spaceAfter=0)
 CB = ParagraphStyle('CB', parent=C, fontName='Helvetica-Bold')
-N  = ParagraphStyle('N', parent=B, fontSize=8.4, leading=10.6)
+N  = ParagraphStyle('N', parent=B, fontSize=8.2, leading=10.2)
 def P(t, s=B): return Paragraph(t, s)
 def SIG():
     i = RLImage('assets/SIGNATURE_CoryShepherd.png', width=30*mm, height=15.5*mm); i.hAlign = 'LEFT'; return i
@@ -112,7 +112,7 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("4. How the matter should proceed", H),
      P("I leave to the Commission how the matter should proceed. If the Respondent is able to state its position in "
        "writing, a conference may not be needed, or may be confined to what then remains. If a conference is needed, I ask "
-       "that the matter be listed for a second conference under section 552A of the <i>Industrial Relations Act 2016</i>. "
+       "that the matter be listed for a second conference under section 552A of the <i>Workers' Compensation and Rehabilitation Act 2003</i>. "
        "I believe the following matters are capable of resolution there, or by agreement:", B),
      P("(a)&nbsp;&nbsp;the ten documents listed in the attached schedule, by agreeing a list of documents to be tendered "
        "without further proof: the nine in Part A once Metro South Health provides its copies, and Tab 24 in Part B by "
@@ -128,8 +128,13 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      Spacer(1, 1.5*mm),
      P("When the remaining documents are confirmed and the Respondent has responded, the primary facts will be settled. "
        "What will remain is the application of the law to those facts, and the medical evidence. The Commission may then "
-       "consider whether the issues can be narrowed, or any of them determined without a full hearing. I would be assisted "
-       "by any direction the Commission considers appropriate, including as to the time for the Respondent's response.", B),
+       "consider whether the issues can be narrowed, or any of them determined without a full hearing. If the Respondent "
+       "also agrees, I would consent to the appeal being heard and decided on the documentary record under rule 44 of the "
+       "<i>Industrial Relations (Tribunals) Rules 2011</i>, being the admitted facts, the documents whose authenticity is "
+       "admitted or confirmed, and the medical material served, with written submissions, and with any matter that either "
+       "party identifies as requiring oral evidence heard separately. Whether that course is appropriate is a matter for "
+       "the Commission. I would be assisted by any direction the Commission considers appropriate, including as to the "
+       "time for the Respondent's response.", B),
 
      P("5. The documents", H),
      P("I have not attached the notices to admit facts and documents of 28 August 2026, Annexure A to them, or the "
@@ -161,8 +166,8 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
 ]
 
 buf = io.BytesIO()
-d = BaseDocTemplate(buf, pagesize=A4, leftMargin=22*mm, rightMargin=22*mm, topMargin=11*mm, bottomMargin=11*mm)
-d.addPageTemplates([PageTemplate(id='n', frames=[Frame(22*mm, 11*mm, A4[0]-44*mm, A4[1]-22*mm,
+d = BaseDocTemplate(buf, pagesize=A4, leftMargin=22*mm, rightMargin=22*mm, topMargin=10*mm, bottomMargin=10*mm)
+d.addPageTemplates([PageTemplate(id='n', frames=[Frame(22*mm, 10*mm, A4[0]-44*mm, A4[1]-20*mm,
                     leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)])])
 d.build(s); buf.seek(0)
 pdf = pikepdf.open(buf); n = len(pdf.pages)

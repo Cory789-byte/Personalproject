@@ -110,8 +110,8 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      P("<b>The admitted record, and questions for the Respondent</b> &nbsp;|&nbsp; Appellant's paper &nbsp;|&nbsp; "
        f"Provided to the Respondent, and a copy to the Commission, on {DATE}", B),
      P("This paper is provided to the Respondent, and a copy to the Commission, for the Commission's consideration of how the "
-       "matter should proceed, including whether a second conference under section 552A of the <i>Industrial Relations "
-       "Act 2016</i> is needed. It contains no submission. It sets out the "
+       "matter should proceed, including whether a second conference under section 552A of the <i>Workers' Compensation "
+       "and Rehabilitation Act 2003</i> is needed. It contains no submission. It sets out the "
        "admitted record for each "
        "stressor as a whole, with the questions arising from the Respondent's outlines of evidence of 24 September 2026. The "
        "Appellant asks the Respondent to indicate, by " + RESPOND_BY + ", its position on each question (using the response "
