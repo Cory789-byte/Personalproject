@@ -26,6 +26,7 @@ Issue: whether the injury (onset 18 June 2024) is excluded as arising out of rea
 
 Where the appeal stands:
   - Pleadings are closed and disclosure has been exchanged.
+  - Disclosure from the employer: a notice of non-party disclosure (Form 29) was sealed and served on Metro South on 22 April 2026. Metro South objected on 5 June 2026 (ref K-LM26/729). My application under r 64G was sealed on 23 June 2026 and served on Metro South Legal on 25 June 2026. After a mention before Commissioner Dwyer on 7 August 2026, I withdrew it on 10 August 2026. No ruling was made against me. At the mention the Commissioner said, in substance, that if the Regulator accepts a specific document exists but says it is not relevant, I "can come back" to him, and that "looking at a single document" he can say quickly whether it should be disclosed. That route remains open.
   - Notice to admit: the Respondent admitted 298 of 303 facts and denied none.
   - The Respondent's evidence is outlines for four lay witnesses (two managers and two payroll officers), served 24 September 2026. As at today it has served no medical evidence. Its time for expert material under the directions ends 30 September 2026.
   - My medical evidence: a schedule of medical documents from my treating psychiatrist and GP (Tabs M1–M9), served on 9 September 2026 under the directions.
@@ -35,10 +36,17 @@ Where the appeal stands:
 ------------------------------------------------------------------
 3. TRACK B — EXCLUSION FROM WORK, METRO SOUTH HEALTH
 ------------------------------------------------------------------
-Background: my employment was ended in October 2024 and I was reinstated to my employment with an effective date of 20 September 2024, the reinstatement taking effect despite any payroll documentation. (Details on request.)
+Background, with dates only:
+  - 13 May 2024: I made a complaint that the employer's Ethical Standards Unit later determined to be a public interest disclosure (ref 24-ESU-1130). The Respondent admits the determination in the appeal. I have not set out its content here.
+  - 18 June 2024: onset of the psychological injury.
+  - 9 October 2024: my employment was ended by an abandonment-of-employment letter, after the WorkCover decision.
+  - I was reinstated to my employment with an effective date of 20 September 2024, the reinstatement taking effect despite any payroll documentation. I returned to work on 24 February 2025. (Details on request.)
+  - 8 September 2025: the employer wrote to me about attendance. I mention it because the employer may rely on it; I can provide it.
+  - 22 April 2026: Form 29 served on Metro South (Track A). 5 June 2026: Metro South objects. 25 June 2026 (8:31 am): the sealed r 64G application is served on Metro South Legal.
+  - 26 June 2026: the employer records a condition that I not attend the workplace. I have not been provided work since, and the exclusion was confirmed as effective from 3 July 2026.
 
 Current position:
-  - Since 3 July 2026 I have been kept out of the workplace. The stated basis is that "the medical evidence does not support" my return. I am certified fit for work with restrictions on Metro South's own form, and I have been ready and available since 3 July.
+  - Since 26 June / 3 July 2026 I have been kept out of the workplace. The stated basis is that "the medical evidence does not support" my return. I am certified fit for work with restrictions on Metro South's own form, and I have been ready and available since 3 July.
   - I have received no wages since 13 July 2026. Payments since then have been partial: one fortnight, at "0.5 FTE", with sick leave coded against my application. Long service leave has been refused "by the system".
   - A Request for Medical Information (nine questions) was issued on 31 July 2026. I attended the specialist on 12 August 2026.
   - On 12 August 2026 I gave Injury Management written consent to communicate with my treating psychiatrist's practice. On 24 August 2026 I signed a limited-scope authorisation, valid for 12 months, for my treating psychiatrist to disclose capacity-for-work information and to provide a written report answering my employer's questions directly to the employer. HR acknowledged it the same day.
