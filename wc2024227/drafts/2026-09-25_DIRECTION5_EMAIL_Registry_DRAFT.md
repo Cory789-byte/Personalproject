@@ -1,5 +1,7 @@
 # DIRECTION 5: EMAIL AND LETTER TO THE REGISTRY, WITH SCHEDULE (DRAFT, NOT SENT)
 
+**⭐ FINAL PDF: `drafts/out/LETTER_TO_REGISTRY_direction5_25SEP2026.pdf`** (built by `build_letter_registry_direction5.py`; pass the send date as the first argument to rebuild). The PDF wording supersedes the letter text below where they differ.
+
 **Prepared 25 September 2026. Supersedes the email-only draft of the same date.**
 
 ## The document count (verified from the Form 25 response of 8 Sep and Matheson's email of 23 Sep)
@@ -40,7 +42,7 @@ Cory Lea Shepherd
 Appellant, self-represented
 0417 400 227
 
-ATTACH: LETTER_DIRECTION5_25SEP2026.pdf
+ATTACH: LETTER_TO_REGISTRY_direction5_25SEP2026.pdf
 
 ---
 
