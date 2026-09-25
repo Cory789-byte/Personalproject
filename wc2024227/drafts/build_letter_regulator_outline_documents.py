@@ -13,7 +13,7 @@ from reportlab.platypus import Image as RLImage
 DATE = sys.argv[1] if len(sys.argv) > 1 else "25 September 2026"
 REPLY_BY = sys.argv[2] if len(sys.argv) > 2 else "Thursday 15 October 2026"
 
-B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.0, leading=11.5, spaceAfter=4)
+B  = ParagraphStyle('B', fontName='Helvetica', fontSize=8.8, leading=11.1, spaceAfter=3.5)
 H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=3, keepWithNext=1)
 L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=2)
 def P(t, s=B): return Paragraph(t, s)
@@ -56,21 +56,25 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "when it was received and opened by each;", L),
      P("(f)&nbsp;&nbsp;the notes of that time to which Ms Reese refers in her response to the Respondent of July 2025 "
        "(\"I have looked back at my notes regarding this time\"), so far as they concern 15 to 21 May 2024;", L),
-     P("(g)&nbsp;&nbsp;any record of when, and by which account, that email was removed from the shared Switchboard inbox;", L),
-     P("(h)&nbsp;&nbsp;any message-recall record for that email, including any recall result report;", L),
+     P("(g)&nbsp;&nbsp;any record of when, and by which account, that email was removed from the shared Switchboard inbox "
+       "or from the server (paragraph 16(b)(vii) of the amended statement of facts and contentions);", L),
+     P("(h)&nbsp;&nbsp;the email or other document relied on for the statements that the Appellant \"declined\" (Ms Reese's "
+       "outline) or \"refused\" (Ms Taylor's outline) to retract that email, including the communication by which Ms Taylor "
+       "was told so, with its time;", L),
+     P("(i)&nbsp;&nbsp;any message-recall record for that email, including any recall result report;", L),
 
      P("B. Other documents referred to in the outlines", H),
-     P("(i)&nbsp;&nbsp;the Human Resources advice that Ms Taylor says, in her outline, confirmed that the agreement of "
+     P("(j)&nbsp;&nbsp;the Human Resources advice that Ms Taylor says, in her outline, confirmed that the agreement of "
        "17 June 2020 continued to apply;", L),
-     P("(j)&nbsp;&nbsp;the attachment \"Rostered shifts Cory S. past 8 months.xlsx\" to Ms Reese's email to Ms Taylor of "
+     P("(k)&nbsp;&nbsp;the attachment \"Rostered shifts Cory S. past 8 months.xlsx\" to Ms Reese's email to Ms Taylor of "
        "7 August 2023 at 5:11 pm (fact 159);", L),
-     P("(k)&nbsp;&nbsp;the records of Ms Taylor's appointments, acting and permanent, as Switchboard Manager, Logan "
+     P("(l)&nbsp;&nbsp;the records of Ms Taylor's appointments, acting and permanent, as Switchboard Manager, Logan "
        "Hospital, with their dates;", L),
-     P("(l)&nbsp;&nbsp;the Technical Support advice on the break of 17 to 18 March 2024 referred to in Ms Wright's outline, "
+     P("(m)&nbsp;&nbsp;the Technical Support advice on the break of 17 to 18 March 2024 referred to in Ms Wright's outline, "
        "with the query escalated to Technical Support;", L),
-     P("(m)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
+     P("(n)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
        "outline, and the record of its correction; and", L),
-     P("(n)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
+     P("(o)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
 
      Spacer(1, 1*mm),
      P("If any of these documents is not held, or has already been disclosed, I would be grateful to be told so, "
