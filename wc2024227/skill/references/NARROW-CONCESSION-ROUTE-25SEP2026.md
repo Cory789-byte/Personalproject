@@ -30,3 +30,12 @@ Never: PID, reprisal, patient safety or harm, motive, the metadata.
 ## Limits
 - Whether they concede cannot be known. Model estimate (E34): concession before hearing ≈ 38%, most of it following the second conference.
 - A consent order has no reasons; nothing is "found" in his favour beyond the result.
+
+## Addendum: read against their 24 Sep outlines specifically
+- **Factor 4 in their outline is admission plus excuse.** Taylor "Confirms the seven-hour break … was the result of human error"; "could refuse shifts at any time"; HR said the 2020 agreement "continued to apply". Wright: "a rostering practice issue for the line manager". Earl: "rostered on ordinary hours". None of them disputes the breach. The only defence is Bowers ("not perfect"), and the reviewer applied Bowers and still found it unreasonable.
+- **No causation witness.** No expert and no treating doctor. The pre-existing contention (SOFC ¶8) has no evidence behind it in their outlines.
+- **The outline builds a face-saving exit.** Most of the weight is on pay (Earl, Wright) and on the email and retraction (Taylor, Reese). A concession on factor 4 lets them maintain that pay and conduct were reasonable. It gives up only what their own witness already confirms.
+- **Against:** four witnesses listed, "reasonable in all respects", a Delaney global architecture throughout. Nothing in the text signals concession; the conference is where that could change (Guide 5.1).
+- **The narrowing statement for the conference** (procedural and accurate on their own outline): "As the Appellant understands the Respondent's outlines, the break of seven hours on 17–18 March 2024 is not disputed; the Respondent's witness attributes it to human error; and the Respondent does not propose to call medical evidence. The Appellant would ask whether the Respondent maintains the contention at paragraph 8 of its amended statement, and whether, on factor 4, the issue is confined to s 32(5)(a)."
+- **After a concession:** the claim is accepted and WorkCover then determines entitlements (periods of incapacity, weekly amounts). Disputes can move there; the appeal outcome does not fix the periods.
+- Estimate unchanged: ≈ 38% before hearing (E34), mostly in the post-conference window.
