@@ -44,3 +44,26 @@ verbatim). Added as found.
 - **Lesson:** (1) narrow the case to a window/set of actions; (2) prove the "unreasonable way" from the employer's
   own procedures and documents; (3) overstatement costs credibility but does not lose the case if the documents
   carry it.
+
+## 3. State of Queensland (Office of the Governor) v WCR (No. 2) [2026] QIRC 55 — related (worker defended an employer appeal)
+- **Member / date:** Merrell DP; delivered 27 Feb 2026 (hearings Feb, Sep, Oct 2025). WC/2023/105. Interlocutory:
+  [2025] QIRC 210 (reopening to call Dr Chalk).
+- **Appearances:** "Ms M. Brooks of Counsel instructed by Ms G. Matthews of Crown Law for the Appellant Mr M. Cutting of
+  the First Respondent The Second Respondent appeared on her own behalf". Regulator did not actively defend.
+- **Worker / role:** Ms Angela Giles, Executive Support Officer, Office of the Governor.
+- **Injury:** adjustment disorder with anxiety and depressed mood [31].
+- **Stressors:** workload rise (~80%), untrained replacements to train, FTE cut, no reasonable response to
+  complaints or part-time request; direction to leave work 22 Sep 2022.
+- **Onus:** on the employer as appellant [9], [197] (differs from Cory's position: onus on appellant).
+- **Why won:** [31] injury on her evidence, the GP record and Dr Chalk; [174] part-time decision driven by
+  operational convenience, not reasonable; [184] **whole course**: rejecting the "last straw only" argument would
+  require ignoring her workload evidence and Dr Chalk; [190] direction to leave procedurally unfair; [191] s 32(5)
+  not made out; (b) rejected.
+- **How won:** she gave evidence and called her GP, a former co-worker (independent witness) and psychiatrist
+  Dr Chalk (who was WorkCover's own IME). Detailed first-hand workload account accepted [171]. Doctor held under
+  cross-examination on history. Member allowed a self-represented party to reopen to call Dr Chalk
+  ([2025] QIRC 210 [62]).
+- **Costs:** not yet decided at delivery.
+- **Lesson:** (1) whole-course argument beats "last straw only"; (2) treating GP + psychiatrist + an independent
+  co-worker; (3) a psychiatrist tested on history and holding firm; (4) the Commission will make room for a
+  self-represented party's procedural misstep where fairness requires.
