@@ -10,7 +10,7 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, KeepTogether
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv) > 1 else "[date of conference]"
+DATE = sys.argv[1] if len(sys.argv) > 1 else "25 September 2026"
 
 B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.8, spaceAfter=4)
 T  = ParagraphStyle('T', parent=B, fontName='Helvetica-Bold', fontSize=10.5, leading=13, spaceAfter=2)
@@ -132,11 +132,27 @@ Q2 = [["", "Question for the Respondent", "The admitted record"],
   "solely via email or verbally\" (fact 267)"],
 ]
 
+RESP = [["Q", "Matter", "Respondent's position"],
+ ["1", "Directives issued without consultation or assessment (SOFC [11])", ""],
+ ["2", "Application of the 2020 eight-hour agreement to 17 and 18 March 2024 (SOFC [22(e)])", ""],
+ ["3", "The management action said to be reasonable for the break of 17 to 18 March 2024 (SOFC [27])", ""],
+ ["4", "The break as \"not intentional or repeated\" (SOFC [22(a)])", ""],
+ ["5", "The on-call notification process, 13 to 15 May 2024 (SOFC [16(b)])", ""],
+ ["6", "The Appellant's email of 15 May 2024 as an accusation (outline of Ms Reese)", ""],
+ ["7", "The delegate who decided the Special Pandemic Leave application (SOFC [14])", ""],
+ ["8", "Pay errors \"remedied in a timely manner\"; no outstanding underpayments (SOFC [20])", ""],
+ ["9", "Non-admission of Stressor 1(a) (SOFC [11])", ""],
+ ["10", "Action taken on the reports of 3, 8, 15 and 20 May 2024 before 2:05 pm on 20 May, and the document recording it", ""],
+ ["11", "Reliance on \"no 'consequential' changes to operating procedures\" (fact 266)", ""],
+]
+
 s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      P("WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator", T),
-     P("<b>Appellant's conference paper</b> &nbsp;|&nbsp; Conference under section 552A of the <i>Industrial Relations "
-       f"Act 2016</i> &nbsp;|&nbsp; {DATE}", B),
-     P("This paper is provided for the purposes of the conference. Fact numbers are those of the Appellant's notice to "
+     P("<b>Appellant's conference paper</b> &nbsp;|&nbsp; Second conference under section 552A of the <i>Industrial "
+       f"Relations Act 2016</i> &nbsp;|&nbsp; Provided to the Respondent on {DATE}", B),
+     P("This paper is provided to the Respondent for the purposes of the conference. The Appellant asks the Respondent to "
+       "indicate its position on each question in section 3 and section 4, using the response schedule at section 5, "
+       "before the conference. Fact numbers are those of the Appellant's notice to "
        "admit facts of 28 August 2026, as answered by the Respondent on 8 September 2026. Tab numbers are those of "
        "Annexure A to that notice. \"SOFC\" is the Respondent's amended statement of facts and contentions dated "
        "13 May 2026.", N),
@@ -165,12 +181,18 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      table(Q2, [8*mm, 62*mm, W - 70*mm]),
      Spacer(1, 3*mm),
 
+     KeepTogether([P("5. Response schedule for the Respondent", H),
+       P("For each question, the Respondent is asked to indicate whether the position is maintained or not maintained or, "
+         "for question 10, to answer it. A matter not maintained can be recorded at the conference as no longer in issue.", B),
+       table(RESP, [10*mm, 88*mm, W - 98*mm])]),
+     Spacer(1, 3*mm),
      KeepTogether([
-       P("5. The Appellant's position", H),
+       P("6. The Appellant's position", H),
        P("On the admitted record, the Appellant considers that the primary facts are settled and that the matters "
          "remaining are the application of the law to those facts and the medical evidence. The Appellant invites "
-         "the Respondent to consider its position on the admitted record. If the matter does not resolve, the "
-         "Appellant is ready to proceed to a hearing on the issues that remain.", B),
+         "the Respondent to consider its position on the admitted record. Where a position is maintained, the "
+         "Appellant will address it at any hearing by reference to the admitted facts identified in this paper. If the "
+         "matter does not resolve, the Appellant is ready to proceed to a hearing on the issues that remain.", B),
        Spacer(1, 1*mm), SIG(),
        P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B)]),
 ]

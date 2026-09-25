@@ -96,15 +96,22 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("3. The step I ask for", H),
      P("I ask that the matter be listed for a second conference under section 552A of the <i>Industrial Relations "
        "Act 2016</i>. When the remaining documents are confirmed, the primary facts will be settled. What remains is "
-       "the application of the law to those facts, and the medical evidence. I believe the matter may then be "
-       "capable of resolution without a full hearing or, if not, that the issues for hearing can be substantially "
-       "narrowed. At a conference the parties could:", B),
-     P("(a)&nbsp;&nbsp;identify the issues that remain in dispute on the admitted facts;", L),
-     P("(b)&nbsp;&nbsp;agree the documents to be tendered without further proof;", L),
-     P("(c)&nbsp;&nbsp;confirm which witnesses each party requires for cross-examination, including whether the "
-       "Respondent requires the medical witnesses to give oral evidence; and", L),
-     P("(d)&nbsp;&nbsp;give the Respondent an opportunity to consider its position on the admitted record.", L),
+       "the application of the law to those facts, and the medical evidence. I believe the following matters are "
+       "capable of resolution at a conference:", B),
+     P("(a)&nbsp;&nbsp;the ten documents listed in the attached schedule, by agreeing a list of documents to be tendered "
+       "without further proof once Metro South Health provides its copies;", L),
+     P("(b)&nbsp;&nbsp;facts 228 to 231, on production of the MET call spreadsheet that Metro South Health, in its letter "
+       "of 5 June 2026, states is available;", L),
+     P("(c)&nbsp;&nbsp;whether the Respondent requires the medical witnesses to attend for cross-examination; and", L),
+     P("(d)&nbsp;&nbsp;the management action relied on at paragraph 27 of the Respondent's amended statement of facts "
+       "and contentions.", L),
      Spacer(1, 1.5*mm),
+     P("I have today provided the Respondent with a paper setting out questions arising from its outlines of "
+       "evidence, each by reference to the facts it has admitted, and have asked it to indicate its position on "
+       "each before the conference. The purpose is to confine the issues for any hearing to those genuinely in "
+       "dispute. The conference would also give the Respondent an opportunity to consider its position on the "
+       "admitted record. In my view the matter may then be capable of resolution without a full hearing or, if "
+       "not, the issues for hearing can be substantially narrowed.", B),
 
      P("4. Readiness", H),
      P("If the matter does not resolve, I am ready to proceed to a hearing with the witnesses and material I have "
