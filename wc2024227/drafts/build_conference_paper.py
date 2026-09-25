@@ -157,12 +157,17 @@ S3_AGREE = [["When", "What the admitted record shows", "Facts"],
 
 S3_PAIR = [["When", "What the record shows", "Facts"],
  ["17 Mar 2024 (Sunday)", "Rostered to finish at 23:00. No clause 6.2 agreement is alleged for this rostering", "284, 180"],
- ["17 Mar, evening", "The Emergency Code Register records eight entries for the day, including \"MET CALL WARD 2H BED 7\" at "
-  "19:16, \"CODE BLUE WARD 2H BED 7\" at 19:20 and \"MET CALL WARD 2Q BED 5\" at 21:16", "228 (not admitted); 268"],
+ ["17 Mar 2024 (the day of the shift ending at 23:00)", "The Emergency Code Register records eight codes: 03:57 CODE GREY ED "
+  "LOUNGE; 05:19 MET CALL WARD 5A BED 27; 07:48 ED CODE GREY CORRIDOR NEAR SHORT STAY; 13:48 MET CALL WARD 3B BED 2; 14:13 "
+  "CODE GREY ED ADULT ACUTE BED 15; <b>19:16 MET CALL WARD 2H BED 7; 19:20 CODE BLUE WARD 2H BED 7; 21:16 MET CALL WARD 2Q "
+  "BED 5</b>", "228 (not admitted); Tab 31; 268"],
  ["18 Mar 2024 (Monday)", "Rostered to start at 06:00. A break of 7 hours. Leaving up to 30 minutes early would still not "
   "give 8 hours", "284, 227, 258, 259"],
- ["18 Mar, 06:00 to 14:00", "Six register entries, including \"CODE GREY QAS TRIAGE AIRLOCK\" at 8:48 and two neonatal MET "
-  "calls at 11:35 and 13:09", "229, 230 (not admitted); 268"],
+ ["18 Mar, 06:00 to 14:00", "Six codes: 08:48 CODE GREY QAS TRIAGE AIRLOCK; 09:20 MET CALL WARD 6A BED 8; 11:31 MET CALL "
+  "WARD 3DR BED 14; 11:32 CANCELLED MET CALL WARD 3DR BED 14; 11:35 NEONATAL MET CALL THEATRE 2; 13:09 NEONATAL MET CALL "
+  "BIRTH SUITES 5", "229, 230 (not admitted); Tab 31; 268"],
+ ["18 Mar, after 14:00", "Five further codes: 14:38 MET CALL WARD 3DR BED 11; 14:45 and 14:55 CODE GREY QAS TRIAGE; 19:15 and "
+  "19:34 CODE GREY ED QAS RAMP", "Tab 31"],
  ["Travel", "The 7 hours did not include travel; with travel, the break \"would have been less than 5 hours\" (the "
   "Appellant's account, as recorded by the Review Unit)", "251"],
  ["19 Mar 2024", "Sick leave, 7.6 hours, approved", "235"],
@@ -288,8 +293,10 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
 
      P("5. Stressor 3: the break of 17 to 18 March 2024, as one sequence", H),
      P("The seven-hour break is admitted by both parties (facts 226, 284). The sequence around it, from the agreement relied "
-       "on to the response to the Appellant's request, is set out below. Facts 228 to 230 (the Emergency Code Register) are "
-       "not admitted; Metro South Health states that the MET call spreadsheet for 17 and 18 March 2024 is available (fact 268).", B),
+       "on to the response to the Appellant's request, is set out below. The emergency codes are shown from Tab 31, the "
+       "Appellant's capture of Metro South Health's \"2024 Emergency Code Register\". Facts 228 to 230 are not admitted; Metro "
+       "South Health states that the MET call spreadsheet for 17 and 18 March 2024 is available (fact 268), and its "
+       "production would settle them.", B),
      P("<b>5.1 The rule and the agreement</b>", SH), table(S3_AGREE, [28*mm, W - 28*mm - 26*mm, 26*mm]),
      Spacer(1, 3*mm),
      P("<b>5.2 The shift pairing, the emergency calls, and travel</b>", SH), table(S3_PAIR, [30*mm, W - 30*mm - 34*mm, 34*mm]),
