@@ -7781,3 +7781,10 @@ Not shown to be Tab 5.
 - Already on file: it is exhibit C2 in the Feb 2026 Supplementary Affidavit ("Logan Hospital Switchboard Services Roster v2.0").
 - Limits: v2.0 creation date and author unknown. The scan metadata (Konica, 3 Sep 2024 23:20 UTC) dates the scan only. Metadata is prediction-only and never goes in correspondence.
 - ⚠ His 25 Sep letter item (n) attributes the 17–18 Mar break to **Ms Earl's** outline. It is in **Ms Taylor's** outline (SOFAC ¶22(a)). Earl's outline covers pay for the fortnight including 30 Mar 2024, which is PP21, so the roster request stays relevant to her, but the attribution needs fixing before he sends.
+
+## 25 Sep 2026 — PP20 / PP21 v1.0 / PP22 line comparison (rendered)
+- PP20 (4–17 Mar): 6 FT rows incl. Shepherd (row 6, 388372); also Willmann (PT) and Zizek (grey "Mat Leave" line). **Sun 17 Mar Shepherd 1500-2300, printed** — legible at 90 dpi on the published copy.
+- PP21 v1.0 (18–31 Mar): 5 FT rows, **no Shepherd**. Willmann and Zizek are also absent, and neither returns in PP22 (consistent with leaving the roster, not proven). Neville added (Casual/Training).
+- PP22 (1–14 Apr): Shepherd back at FT row 6, same payroll number.
+- Staff on leave keep their line: Fitzpatrick A/L across PP21 and PP22; Zizek kept a line while on maternity leave in PP20.
+- ⇒ Across these three fortnights, Shepherd is the only continuing staff member whose line is absent for one fortnight and then restored. The whole pack has not yet been checked for other instances.
