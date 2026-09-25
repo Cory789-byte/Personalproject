@@ -44,3 +44,19 @@ directions stands; what was said about him deciding the appeal at hearing does n
 - A second s 552A conference stays with Dwyer (or the same conference Member); a hearing goes to someone else.
 - Leave the election to the Commission and the Regulator as the held letter already does; do not argue for r 44
   in any served document without deciding that deliberately first.
+
+## 5. Has a case manager ever actually decided a WC appeal? (search, 25 Sep 2026)
+
+| Case | Who | Stage | Outcome |
+|---|---|---|---|
+| **Davis v Workers' Compensation Regulator [2021] QIRC 107** | **Dwyer IC** | Case management; no substantive hearing | Appeal **dismissed under r 45** for repeated non-compliance and non-attendance. [11]: "If there is any further non-compliance or if we get any more radio silence from you I will dismiss this appeal without further notice to you." [21]: "has failed repeatedly to comply with directions" |
+| Andrews v WCR [2020] QIRC 104 | Dwyer IC | Case management | Dismissed under r 45(3) (summary only; not read in full) |
+
+- **Published examples found: dismissals of appellants under r 45**, including by Dwyer himself.
+- **No published example found** of a WC appeal decided **in the appellant's favour** by the case-managing
+  Member under r 44 (by agreement) or by consent. Concessions are typically finalised by consent orders
+  (s 558(1)(c)) without published reasons, so their absence from the reported cases does not mean they do
+  not occur. WorkSafe's appeal guidance (seen only in a search summary, not read directly) describes the
+  endings as a decision after a hearing, discontinuance, or "the Regulator seeking orders to concede the appeal".
+- Searches run: queenslandjudgments / AustLII / web for "rule 44", "on the papers", "by consent… set aside".
+  AustLII and WorkSafe returned 403 to direct fetches; the authorised texts in `documents/instruments/` were used.
