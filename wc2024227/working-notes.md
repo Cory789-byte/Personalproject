@@ -7811,3 +7811,9 @@ Source: Cory → IM/HR/Payroll/Roberts, 10 Sep 2026 06:25 UTC, "action required 
 - "Dr Krishnaiah has recorded that he contacted Logan Hospital and that Queensland Health had not responded"; raised with LBH HR 28 Aug (after the 27 Aug consult), with IM 4 Sep, and again 10 Sep with a deadline of 12 Sep (2.1 still required? / 2.2 sent when, by whom? / 2.3 written withdrawal).
 - Cory: Dr K emailed him saying MSH had not responded, and confirmed it again weeks later. ⚠ Those emails from Dr K are NOT in the Gmail ingest (search for Krishnaiah returns only Cory's own emails). TO FILE: forward both into the case file. Also check for any MSH reply to the 12 Sep deadline.
 The My Work Rights draft Track B is updated with these dates; the [date] placeholder is gone.
+
+## 25 Sep 2026 — the 24 Aug authority, read at source
+`documents/medical/2026-08-24_Limited_Scope_Medical_Information_Authorisation_Krishnaiah_SIGNED.pdf` (2 pp; the text layer is partly broken, so the signature page was rendered): "LIMITED SCOPE AUTHORISATION FOR DISCLOSURE OF MEDICAL INFORMATION RELATING TO CAPACITY FOR WORK", signed and dated 24.08.2026, valid 12 months.
+- Cl 3: authorises the psychiatrist to prepare a written report answering the employer's clarification questions, which "may be provided directly to my employer or its authorised occupational health or human resources representatives".
+- ⚠ NAME MISMATCH: the practitioner is named "Dr Rai Ravi Ravikumar (or such other practitioner practising under that name)". The psychiatrist is Dr Ravikumar Bangalore Krishnaiah (Mind and Memory Service), per Cory's 10 Sep email. MSH could treat the mismatch as a reason the authority does not cover him. Fix: a one-line written confirmation to IM that the authority of 24 Aug refers to Dr Ravikumar Bangalore Krishnaiah of Mind and Memory Service. Never characterise their non-response as reliance on it.
+The brief is updated with the cl 3 scope.
