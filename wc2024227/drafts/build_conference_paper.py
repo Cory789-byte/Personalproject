@@ -168,8 +168,18 @@ S3_PAIR = [["When", "What the record shows", "Facts"],
   "BIRTH SUITES 5", "229, 230 (not admitted); Tab 31; 268"],
  ["18 Mar, after 14:00", "Five further codes: 14:38 MET CALL WARD 3DR BED 11; 14:45 and 14:55 CODE GREY QAS TRIAGE; 19:15 and "
   "19:34 CODE GREY ED QAS RAMP", "Tab 31"],
- ["Travel", "The 7 hours did not include travel; with travel, the break \"would have been less than 5 hours\" (the "
-  "Appellant's account, as recorded by the Review Unit)", "251"],
+ ["Home, March 2024", "Unit 12304, 3113 Surfers Paradise Boulevard, Surfers Paradise QLD 4217, as printed on the Appellant's "
+  "pay advices of 13 March 2024 and 27 March 2024", "Respondent's disclosure, July 2025 (pay advices)"],
+ ["The drive", "To Logan Hospital, 5 University Drive, Meadowbrook: about 54 km and about 45 minutes each way in free-flowing "
+  "traffic, via the Pacific Motorway (M1)", "Appellant's material (OpenStreetMap route)"],
+ ["Roadworks on the route", "The M1 Pimpama (Exit 49) interchange upgrade was under construction from 2022 to late 2024. The "
+  "Department of Transport and Main Roads advised in March 2024 that during construction there may be \"temporary changes "
+  "like altered speed limits, detours\". The Coomera Connector Stage 1 North, beside the M1 at Coomera, was under construction "
+  "from early 2023", "Appellant's material (TMR, March 2024)"],
+ ["Time at home", "Finishing at 23:00 and starting at 06:00, with about 45 minutes' driving each way: home at about 23:45 at the "
+  "earliest, leaving at about 05:15 at the latest, so at most about 5 hours 30 minutes at home before handover, parking and "
+  "preparation. The Appellant's account, recorded by the Review Unit: with travel, the break \"would have been less than 5 "
+  "hours\"", "284; 251; Appellant's material"],
  ["19 Mar 2024", "Sick leave, 7.6 hours, approved", "235"],
 ]
 
@@ -296,10 +306,11 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
        "on to the response to the Appellant's request, is set out below. The emergency codes are shown from Tab 31, the "
        "Appellant's capture of Metro South Health's \"2024 Emergency Code Register\". Facts 228 to 230 are not admitted; Metro "
        "South Health states that the MET call spreadsheet for 17 and 18 March 2024 is available (fact 268), and its "
-       "production would settle them.", B),
+       "production would settle them. The entries on the Appellant's address, the drive and the roadworks are the Appellant's "
+       "material; the address is taken from pay advices in the Respondent's own disclosure.", B),
      P("<b>5.1 The rule and the agreement</b>", SH), table(S3_AGREE, [28*mm, W - 28*mm - 26*mm, 26*mm]),
      Spacer(1, 3*mm),
-     P("<b>5.2 The shift pairing, the emergency calls, and travel</b>", SH), table(S3_PAIR, [30*mm, W - 30*mm - 34*mm, 34*mm]),
+     P("<b>5.2 The shift pairing, the emergency calls, and the travel between shifts</b>", SH), table(S3_PAIR, [30*mm, W - 30*mm - 34*mm, 34*mm]),
      Spacer(1, 3*mm),
      P("<b>5.3 The request, the response, and what followed</b>", SH),
      table(S3_RESP, [24*mm, W - 24*mm - 20*mm - 36*mm, 20*mm, 36*mm]),

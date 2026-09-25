@@ -51,3 +51,15 @@ time.
   the Google Maps PDFs to the Appellant's list of documents.
 - Address them in the Appellant's evidence on Stressor 3, next to fact 251.
 - Confirm in evidence how he travelled (by car) on 17 and 18 March 2024.
+
+## 6. Roadworks on the route in March 2024 (researched 25 September 2026)
+
+| Project | Status in March 2024 | Source |
+|---|---|---|
+| **M1 Pimpama (Exit 49) interchange upgrade**, on the route | "Construction commenced in 2022 and is expected to be completed in late 2024". During construction "there may be temporary changes like altered speed limits, detours" | TMR FAQ dated **March 2024**, saved at `evidence/roadworks/2024-03_TMR_M1_Pimpama_Exit49_upgrade_FAQ.pdf` (from tmr.qld.gov.au) |
+| The same project | 36 working days lost to wet weather in the first four months of 2024. Night works of Sunday to Friday, 6 pm to 6 am, **from 24 May 2024** (that schedule postdates March) | Taxi Council Queensland project page (tcq.org.au), quoting TMR updates |
+| **Coomera Connector Stage 1 North**, beside the M1 at Coomera | Construction commenced early 2023; opened December 2025 | TMR; Infrastructure Pipeline |
+
+⚠ **No published M1 closure or speed limit was found specifically for the night of 17 to 18 March 2024.**
+The paper says the route passed through an active construction project with possible altered speed limits.
+It does not say the Appellant was delayed on those nights. Only his evidence can say that.
