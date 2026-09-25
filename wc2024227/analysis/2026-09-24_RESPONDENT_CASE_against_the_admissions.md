@@ -91,8 +91,10 @@ gives it. The document metadata shows it was generated with python-docx.
 
 1. **The facts are still closed, and the outlines mostly repeat them.** Where the outlines add
    something new, the new material comes **from the Respondent's own witnesses**. It includes a
-   payroll finding that the break was a *rostering practice issue for the line manager* and a
-   payroll concession that the leave decline was *made in error*.
+   payroll finding that the break was a *rostering practice issue for the line manager*. The
+   concession that the leave decline was *made in error* is **not new**: SOFC ¶14 already pleaded
+   "a review indicates the attachments were present" and "human error by Ms Taylor". The outline
+   repeats it, from a witness the Respondent will call.
 2. **Where an outline contradicts an admitted fact**, the admission governs for the proceeding: the
    directives denial against 49–53 and 264, and the agreement's scope against 225 and 234. The
    authenticated letter and emails at Tabs 6, 20 and 30 can be put to the witness as they stand.
