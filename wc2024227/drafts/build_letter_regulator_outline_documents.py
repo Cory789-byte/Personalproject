@@ -75,29 +75,32 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("(l)&nbsp;&nbsp;the Technical Support advice on the break of 17 to 18 March 2024 referred to in Ms Wright's outline, "
        "with the query escalated to Technical Support;", L),
      P("(m)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
-       "outline, and the record of its correction; and", L),
-     P("(n)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
+       "outline, and the record of its correction;", L),
+     P("(n)&nbsp;&nbsp;the roster from which Ms Earl's outline states the break of 17 to 18 March 2024, and every version of "
+       "the Switchboard roster for 18 to 31 March 2024 (PP21), with the date each version was published and by whom it "
+       "was prepared; and", L),
+     P("(o)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
 
      P("C. The documents still to be confirmed (your email of 24 September 2026)", H),
      P("Your email of 24 September 2026 confirmed Tabs 6, 20, 30 and 30A and said that the Regulator has asked Metro "
-       "South Health for copies of the documents at (o) to (u) below. Tab numbers are those of Annexure A to my notices "
+       "South Health for copies of the documents at (p) to (v) below. Tab numbers are those of Annexure A to my notices "
        "of 28 August 2026. Could the Respondent please provide Metro South Health's copy of each, or confirm the "
        "authenticity of the copy served, by the same date:", B),
-     P("(o)&nbsp;&nbsp;Tab 1: Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital;", L),
-     P("(p)&nbsp;&nbsp;Tab 5: email, Ms Taylor to the Appellant, \"Approved - Permanent Full Time FTE\", 27 September 2023, 1:52 pm;", L),
-     P("(q)&nbsp;&nbsp;Tabs 17 to 19: movement forms of 27 February, 17 April and 9 June 2026, each approved by Mr Hughes;", L),
-     P("(r)&nbsp;&nbsp;Tab 21: the email of Ms L Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health "
+     P("(p)&nbsp;&nbsp;Tab 1: Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital;", L),
+     P("(q)&nbsp;&nbsp;Tab 5: email, Ms Taylor to the Appellant, \"Approved - Permanent Full Time FTE\", 27 September 2023, 1:52 pm;", L),
+     P("(r)&nbsp;&nbsp;Tabs 17 to 19: movement forms of 27 February, 17 April and 9 June 2026, each approved by Mr Hughes;", L),
+     P("(s)&nbsp;&nbsp;Tab 21: the email of Ms L Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health "
        "Service, to the Appellant, 7 July 2026, \"Cory Shepherd ECC further information\". Your email describes this "
        "document as an email from me. The document sought is Ms Forrest's email as she sent it, showing its sender, "
        "every recipient and its time, and not any copy forwarded by me;", L),
-     P("(s)&nbsp;&nbsp;Tab 22: Consultation Paper, Proposed Rosters for Switchboard Services, Logan Hospital, signed by "
+     P("(t)&nbsp;&nbsp;Tab 22: Consultation Paper, Proposed Rosters for Switchboard Services, Logan Hospital, signed by "
        "Mr Hughes on 12 November 2024;", L),
-     P("(t)&nbsp;&nbsp;Tab 23: Consultation outcome, Proposed Rosters for Switchboard Services, Logan Hospital, signed by "
+     P("(u)&nbsp;&nbsp;Tab 23: Consultation outcome, Proposed Rosters for Switchboard Services, Logan Hospital, signed by "
        "Mr Hughes on 12 December 2024;", L),
-     P("(u)&nbsp;&nbsp;Tab 31: \"2024 Emergency Code Register.xlsx\", March 2024 sheet, entries for 16 to 20 March 2024 (see "
+     P("(v)&nbsp;&nbsp;Tab 31: \"2024 Emergency Code Register.xlsx\", March 2024 sheet, entries for 16 to 20 March 2024 (see "
        "Metro South Health's letter of 5 June 2026 stating that \"a spreadsheet of recorded MET calls is available for "
        "the period 17-18 March 2024\"); and", L),
-     P("(v)&nbsp;&nbsp;Tab 24: email, Mr H Moran, Together Queensland, to Ms C Jeffrey, Ms P Conaghan and the Appellant, "
+     P("(w)&nbsp;&nbsp;Tab 24: email, Mr H Moran, Together Queensland, to Ms C Jeffrey, Ms P Conaghan and the Appellant, "
        "3 November 2025. Could the Respondent please say whether it maintains its dispute of the authenticity of this "
        "document.", L),
 
@@ -109,7 +112,7 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "be contested at the hearing, which will confine the issues and shorten the hearing. A statement that a record "
        "is not held serves the same purpose.", B),
      P("I ask for a response by " + REPLY_BY + " because these documents may bear on the course I propose to the "
-       "Commission under direction 5 of the Further Directions Order (3). The documents at (o) to (u) have been "
+       "Commission under direction 5 of the Further Directions Order (3). The documents at (p) to (v) have been "
        "outstanding since my letter of 9 September 2026.", B),
      P("So that each item can be closed, could the Respondent please answer item by item, stating for each whether "
        "the document is produced, has already been disclosed (identifying where), or is not held. Where a document is not "
