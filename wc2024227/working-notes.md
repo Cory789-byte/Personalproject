@@ -7774,3 +7774,10 @@ located or copied) is unaffected.
 ⚠ LoD item 37 "Email C Taylor to APP – acknowledge increase in hours": the bundle text shows no
 27 Sep 2023 "Approved – Permanent Full Time FTE" email; most likely Taylor's 7 Aug 2023 1:43 pm reply.
 Not shown to be Tab 5.
+
+## 25 Sep 2026 — "the missing roster" found (PP21 v2.0)
+- PP21 (18–31 Mar 2024) exists in two versions. Published v1.0 (`documents/rosters/2023-24_published/2024-03-18_to_03-31_PP21_v1.0_NO_SHEPHERD_LINE.pdf`) has no Shepherd line. **v2.0 has one**: page 2 of the employer's Att 4 to its 6 Sep 2024 WorkCover response (Regulator LoD item 31), at `documents/gmail-ingest-2026-09-15/attachments/2024-09-06_AmyMo_Employer_additional_response_S23LW142013/Att_4_...PDF` (MD5 cb6ee751…). Rendered and read 25 Sep.
+- v2.0 Shepherd row: 18 Mar 0600-1400 **typed** (not handwritten); 19 Mar S/L handwritten over 0600-1400; 20 Mar 1500-2300; 23–24 Mar 1500-2300; 25–26 Mar A/L handwritten; 28 Mar 0600-1400; 29 Mar 1500-2300 handwritten; 31 Mar 0700-1500. "Chloe" typed in the footer row.
+- Already on file: it is exhibit C2 in the Feb 2026 Supplementary Affidavit ("Logan Hospital Switchboard Services Roster v2.0").
+- Limits: v2.0 creation date and author unknown. The scan metadata (Konica, 3 Sep 2024 23:20 UTC) dates the scan only. Metadata is prediction-only and never goes in correspondence.
+- ⚠ His 25 Sep letter item (n) attributes the 17–18 Mar break to **Ms Earl's** outline. It is in **Ms Taylor's** outline (SOFAC ¶22(a)). Earl's outline covers pay for the fortnight including 30 Mar 2024, which is PP21, so the roster request stays relevant to her, but the attribution needs fixing before he sends.
