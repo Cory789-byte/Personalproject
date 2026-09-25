@@ -7817,3 +7817,11 @@ The My Work Rights draft Track B is updated with these dates; the [date] placeho
 - Cl 3: authorises the psychiatrist to prepare a written report answering the employer's clarification questions, which "may be provided directly to my employer or its authorised occupational health or human resources representatives".
 - ⚠ NAME MISMATCH: the practitioner is named "Dr Rai Ravi Ravikumar (or such other practitioner practising under that name)". The psychiatrist is Dr Ravikumar Bangalore Krishnaiah (Mind and Memory Service), per Cory's 10 Sep email. MSH could treat the mismatch as a reason the authority does not cover him. Fix: a one-line written confirmation to IM that the authority of 24 Aug refers to Dr Ravikumar Bangalore Krishnaiah of Mind and Memory Service. Never characterise their non-response as reliance on it.
 The brief is updated with the cl 3 scope.
+
+## 25 Sep 2026 — Krishnaiah email chain, 5–8 Sep 2026, filed as an original
+Filed: documents/medical/2026-09-05_to_09-08_Krishnaiah_email_chain_QH_not_responded_7pp_INTERNAL.pdf (MD5 1606526b…, 7 pp, Chromium print of 25 Sep). Cory: "no QH reply".
+- Dr K, 5 Sep 2026 12:04: "QH- I have not received response yet". This is the written confirmation that MSH had not responded.
+- Dr K, 8 Sep 07:18: attached "the report that captures the relevant information you have requested" (= the 13 Feb 2025 report, Tab M4).
+- ⚠ ALREADY SERVED: this chain was served on the Regulator 9 Sep as Tab M5 of the medical schedule. Source pp 1, 4, 5–7 were included; pp 2–3 were omitted with reasons. Source p 4, which carries "QH- I have not received response yet", IS in the served bundle.
+- ⛔ INTERNAL: pp 2–3 (Cory's 1:16 pm reply, and Dr K's "I can't provide preformed answers") are NOT to be sent to anyone: not to lawyers unprompted, and never to MSH or the Regulator. If a lawyer needs to show the non-response, use served Tab M5 p 28 or quote the line.
+- The first written notice of non-response (around the 27 Aug consult, per the 10 Sep email) is still not in the repo.
