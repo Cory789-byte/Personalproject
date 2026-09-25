@@ -151,3 +151,31 @@ recovery state (*Delaney*, properly applied).
 
 The two "taken as a whole" questions that remain are each confined to **a single episode**, not a stressor:
 Q7 (one leave application) and Q11 (one pay correction).
+
+## Addendum 4 (25 Sep 2026): the Regulator's own disclosure against the outlines (HOLD FOR CROSS)
+
+Sources: `documents/WC.2024.227_Shepherd_REG_disclosure_to_APP_11.06.2026.pdf` (11Jun) and
+`documents/disclosure-2025-07/` (Reese witness conferencing = RWC; FRMS content = FRMS).
+Reese's July 2025 answers are the blue text in RWC pp 3-6.
+
+- **3:35 pm email PROVED** (11Jun p 8): Appellant to ESU, CO_Complaints and LBH_HR. **3:41 pm** LBH_HR
+  (Harrison) forwards to **Punch**, McGinley, McNamee (11Jun p 7). ⛔ Headers only: the body and the
+  form use words barred from the WC track (rule 2).
+- **HR advice = phone only** (RWC p 6, blue): Taylor rang Reese upset, having contacted HR (Pritchard);
+  Reese then spoke to **Punch**, who suggested wording asking him to retract. Reese "correct[s] my
+  statement I made 3.7.25". No HR advice to Taylor to remove the email appears anywhere.
+- Matheson asked (RWC p 7) for "emails that Tammy received from HR in relation to this (if any) on or
+  about 15/5/24": none produced.
+- **No 4:12 pm email** in any disclosure or in the List of Documents. The 6:23 pm email is "RE:" directly on
+  the 1:15 pm email (FRMS p 37) and asks him to "Recall This Message… delete unread copies".
+- **Taylor's dates** (RWC p 4): acting from 31 Jan 2023 "to today" (July 2025), later permanent. The
+  outline says "around April 2023 to 1 July 2024".
+- **15 Nov 2023** meeting: Taylor's own email (RWC p 25) says "mainly regarding rostering"; RWC blue:
+  roster submission, with break times raised "with other staff also"; Appellant "feels exhausted".
+  The outline calls it a compliance meeting.
+- **Second Communication Book incident, ~20 May 2024** (RWC p 4): Reese doubts Taylor knew the author.
+  Omitted from the outlines.
+- **Taylor to McNamee, 17 May 2024, 1:20 pm** ("background… as requested", FRMS p 36). Taylor's outline
+  puts her report to Reese at "1:20pm on 15 May"; the document dated 15 May is 1:07 pm (Tab 10).
+- **Adverse** (RWC p 6): a planned "behavioural issues" / "Absenteeism" discussion on return from sick
+  leave after mid-June 2024. Answer by chronology (after the complaint and the injury onset).
