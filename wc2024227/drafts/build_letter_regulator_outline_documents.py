@@ -42,25 +42,31 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("(b)&nbsp;&nbsp;the email of Ms Reese to the Appellant of 15 May 2024 at 4:12 pm referred to in her outline, or "
        "confirmation whether such an email exists;", L),
      P("(c)&nbsp;&nbsp;the Human Resources advice on which Ms Reese and Ms Taylor say, in their outlines, they acted in "
-       "relation to that email, and any record (including any file note, email or Teams message) of the contact on "
-       "15 May 2024 between Ms Taylor and Ms Pritchard, and between Ms Reese and Mr Punch, including the time of each;", L),
-     P("(d)&nbsp;&nbsp;the notes of that time to which Ms Reese refers in her response to the Respondent of July 2025 "
+       "relation to that email, and any record (including any file note, email, Teams message or call record) of the "
+       "contact on 15 May 2024 between Ms Taylor and Ms Pritchard, between Ms Taylor and Ms Reese, and between Ms Reese "
+       "and Mr Punch, including the time of each;", L),
+     P("(d)&nbsp;&nbsp;the call records for 15 May 2024 of the work mobile telephones, and the desk or DECT extensions, "
+       "used by Ms Reese and Ms Taylor, showing for each call between them, or between either of them and Human "
+       "Resources, the time it was made and its duration. The records are sought in the form issued by the carrier or "
+       "the telephone system (the original PDF or export), without alteration other than the redaction of unrelated "
+       "entries, with each redaction marked;", L),
+     P("(e)&nbsp;&nbsp;the notes of that time to which Ms Reese refers in her response to the Respondent of July 2025 "
        "(\"I have looked back at my notes regarding this time\"), so far as they concern 15 to 21 May 2024;", L),
-     P("(e)&nbsp;&nbsp;any record of when, and by which account, that email was removed from the shared Switchboard inbox;", L),
-     P("(f)&nbsp;&nbsp;any message-recall record for that email, including any recall result report.", L),
+     P("(f)&nbsp;&nbsp;any record of when, and by which account, that email was removed from the shared Switchboard inbox;", L),
+     P("(g)&nbsp;&nbsp;any message-recall record for that email, including any recall result report;", L),
 
      P("B. Other documents referred to in the outlines", H),
-     P("(g)&nbsp;&nbsp;the Human Resources advice that Ms Taylor says, in her outline, confirmed that the agreement of "
+     P("(h)&nbsp;&nbsp;the Human Resources advice that Ms Taylor says, in her outline, confirmed that the agreement of "
        "17 June 2020 continued to apply;", L),
-     P("(h)&nbsp;&nbsp;the attachment \"Rostered shifts Cory S. past 8 months.xlsx\" to Ms Reese's email to Ms Taylor of "
+     P("(i)&nbsp;&nbsp;the attachment \"Rostered shifts Cory S. past 8 months.xlsx\" to Ms Reese's email to Ms Taylor of "
        "7 August 2023 at 5:11 pm (fact 159);", L),
-     P("(i)&nbsp;&nbsp;the records of Ms Taylor's appointments, acting and permanent, as Switchboard Manager, Logan "
+     P("(j)&nbsp;&nbsp;the records of Ms Taylor's appointments, acting and permanent, as Switchboard Manager, Logan "
        "Hospital, with their dates;", L),
-     P("(j)&nbsp;&nbsp;the Technical Support advice on the break of 17 to 18 March 2024 referred to in Ms Wright's outline, "
+     P("(k)&nbsp;&nbsp;the Technical Support advice on the break of 17 to 18 March 2024 referred to in Ms Wright's outline, "
        "with the query escalated to Technical Support;", L),
-     P("(k)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
+     P("(l)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
        "outline, and the record of its correction; and", L),
-     P("(l)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
+     P("(m)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
 
      Spacer(1, 1*mm),
      P("If any of these documents is not held, or has already been disclosed, I would be grateful to be told so, "
