@@ -93,22 +93,32 @@ Q = [["", "Question for the Respondent", "The admitted record"],
   "not appear in the myHR report (fact 210)"],
 ]
 
-CHRON = [["When", "What the admitted record shows", "Facts", "Interval"],
- ["18 Jul 2023, 12:56 pm", "Database access removed from all Switchboard staff while the coordinator fixes the database; the "
-  "\"Contact & Number Changes\" book removed from the room", "39, 40, 45", ""],
- ["From 18 Jul 2023", "Changes only through Ms Stibbard (\"every Tuesday and second Monday, 8:00 - 16:00\"), or Ms Taylor if "
-  "urgent. After hours, requests \"have to wait until either Chloe or myself are back\"", "41 to 44", ""],
- ["To 18 Jun 2024", "The Respondent does not allege that access was restored to the Appellant", "55", ""],
- ["15 Apr 2024, 12:39 pm", "New after-hours on-call process, \"effective from today\"", "49 to 52", ""],
- ["2 and 3 May 2024", "Five misrouted calls, including a MET call: \"switchboard could not tell them where VHUB was. Had to be "
-  "redirected by MASPER\"", "57, 58", ""],
- ["3 May, 3:06 pm", "MASPER Registrar reports them to Ms Taylor, copied to Dr Wong", "56", "First report"],
- ["5 to 8 May", "Four further occasions; on 8 May each call \"incorrectly put through to MASPER\"", "60, 61", ""],
- ["8 May, 5:28 pm", "Second report to Ms Taylor", "59, 62", "Fifth calendar day"],
- ["9 May, 9:20 am", "Ms Taylor replies to the Registrar", "63 to 65", "5 days 18 h 14 min after the first report"],
+DUTIES = [["Duty (role description, Administration Officer, Switchboard Services, Tab 1)", "Fact"],
+ ["\"Collate information and maintain Omnivista database and SharePoint to ensure information held within Switchboard "
+  "Services is accurate and appropriate\"", "6"],
+ ["\"Participate in the Emergency Response process by receiving emergency response notifications and distributing them to "
+  "the appropriate response groups... strictly adhering to protocols and timeframes\"", "8"],
+ ["Pager allocation and repair, \"maintaining database and registers with accurate and current information\"", "7"],
+ ["\"Maintain call queues to minimum at all times\"", "5"],
+ ["\"Maintain discretion and exercise judgement... in situations where precedence have not been set and procedures not "
+  "defined\"", "9"],
+ ["\"Follow defined service quality standards, occupational health and safety policies and procedures\"", "12"],
+ ["Continuous shift work \"over the full 24-hour period, 7 days a week\"", "2, 13"],
+]
+
+FEEDBACK = [["When", "What the admitted record shows", "Facts", "Interval"],
+ ["2 and 3 May 2024", "Five misrouted calls (2 May 14:47; 3 May 10:00, 10:22, 11:43, 14:46), including a MET call: "
+  "\"switchboard could not tell them where VHUB was. Had to be redirected by MASPER\"", "57, 58", ""],
+ ["3 May, 3:06 pm", "Vivian Kwok, MASPER Registrar, reports them to Ms Taylor, copied to Dr Pan Jane Wong: \"I've been "
+  "requested to email you with the list of switchboard issues\"", "56", "First report"],
+ ["5 to 8 May", "Four further occasions (5 May 14:45; 7 May 07:45; 8 May 8:53, 9:59); on 8 May each call "
+  "\"incorrectly put through to MASPER\"", "60, 61", ""],
+ ["8 May, 5:28 pm", "Second report to Ms Taylor, copied to Dr Wong", "59, 62", "Fifth calendar day"],
+ ["9 May, 9:20 am", "Ms Taylor replies to the Registrar and Dr Wong", "63 to 65", "5 days 18 h 14 min after the first report"],
  ["9 May, 10:15 am", "First communication to Switchboard staff (\"MASPER process\"): \"There have been many ongoing issues "
-  "raised by the MASPER and the medical department\"", "66, 67, 69", "None alleged before this"],
- ["", "Every occasion occurred while the 15 April arrangement was in force", "68", ""],
+  "raised by the MASPER and the medical department about calls being transferred to the wrong medical teams\"",
+  "66, 67, 69", "None alleged before this"],
+ ["", "Every occasion occurred while the after-hours arrangement of 15 April 2024 was in force", "68", ""],
  ["15 May, 11:47 am", "Integrated Respiratory Service asks for the directory to be amended", "89, 90", "No response alleged before 20 May"],
  ["20 May, 11:03 am", "Reminder: \"we continue to get calls put through to us\"", "91 to 93", "Fifth day; no response alleged before 2:05 pm"],
  ["20 May, 2:05 pm", "The Appellant escalates to Ms Taylor, within her stated office hours", "94 to 98",
@@ -118,10 +128,24 @@ CHRON = [["When", "What the admitted record shows", "Facts", "Interval"],
   "notified of its modification on 22 February 2024", "105 to 110", ""],
 ]
 
+RESTRICT = [["When", "What the admitted record shows", "Facts"],
+ ["18 Jul 2023, 12:56 pm", "Database access removed from all Switchboard staff while the coordinator fixes the database: "
+  "\"I will be removing everyone's access to the database\"", "39, 40"],
+ ["18 Jul 2023", "The \"Contact & Number Changes\" book removed from the room", "45"],
+ ["From 18 Jul 2023", "Changes only through Ms Stibbard, whose hours were \"every Tuesday and second Monday, 8:00 - 16:00\", "
+  "or through Ms Taylor if Ms Stibbard was absent and the change urgent", "41 to 43"],
+ ["From 18 Jul 2023", "After hours (\"overnights, on the weekend or public holiday\"), requests \"have to wait until either "
+  "Chloe or myself are back\"", "44"],
+ ["15 Apr 2024, 12:39 pm", "New after-hours on-call process, \"effective from today\"; during office hours, contact Ms Taylor",
+  "49 to 52"],
+ ["To 18 Jun 2024", "The Respondent does not allege that database access was restored to the Appellant", "55"],
+]
+
 Q2 = [["", "Question for the Respondent", "The admitted record"],
  ["9", "Does the Respondent maintain its non-admission of Stressor 1(a) (SOFC [11])?",
-  "The chronology above, every entry admitted. The duties it concerns are in the role description: maintaining the "
-  "database (fact 6) and the emergency response process \"strictly adhering to protocols and timeframes\" (fact 8)"],
+  "Sections 4.1 to 4.3, every entry admitted. The duties to maintain the database (fact 6) and to distribute emergency "
+  "notifications \"strictly adhering to protocols and timeframes\" (fact 8) fell to be performed after database access "
+  "was removed on 18 July 2023 (fact 40), and the Respondent does not allege it was restored (fact 55)"],
  ["10", "What action does the Respondent say was taken on the reports of 3, 8, 15 and 20 May 2024 before the Appellant's "
         "email of 20 May 2024 at 2:05 pm, and what document records it?",
   "No communication to staff is alleged before 9 May at 10:15 am (fact 69). No response to either Integrated Respiratory "
@@ -173,10 +197,18 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      table(Q, [8*mm, 62*mm, W - 70*mm]),
      Spacer(1, 3*mm),
 
-     P("4. Stressor 1(a): the database, the after-hours arrangement and the misrouted calls", H),
-     P("None of the Respondent's outlines of evidence addresses the database, the misrouted calls, or the reports of the "
-       "MASPER Registrar or the Integrated Respiratory Service. The admitted record is as follows.", B),
-     table(CHRON, [26*mm, W - 26*mm - 20*mm - 38*mm, 20*mm, 38*mm]),
+     P("4. Stressor 1(a): the duties, the doctors' reports, and the restrictions", H),
+     P("None of the Respondent's outlines of evidence addresses the Appellant's database and emergency response duties, "
+       "the reports of the MASPER Registrar or the Integrated Respiratory Service, or the restrictions on access to the "
+       "database. The admitted record is as follows.", B),
+     P("<b>4.1 The Appellant's duties</b>", N),
+     table(DUTIES, [W - 16*mm, 16*mm]),
+     Spacer(1, 3*mm),
+     P("<b>4.2 The doctors' reports of misrouted calls, and the response</b>", N),
+     table(FEEDBACK, [26*mm, W - 26*mm - 20*mm - 38*mm, 20*mm, 38*mm]),
+     Spacer(1, 3*mm),
+     KeepTogether([P("<b>4.3 The restrictions on access to the database and on after-hours changes</b>", N),
+                   table(RESTRICT, [30*mm, W - 30*mm - 20*mm, 20*mm])]),
      Spacer(1, 3*mm),
      table(Q2, [8*mm, 62*mm, W - 70*mm]),
      Spacer(1, 3*mm),
