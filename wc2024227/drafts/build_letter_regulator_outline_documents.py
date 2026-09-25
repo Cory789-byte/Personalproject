@@ -13,9 +13,9 @@ from reportlab.platypus import Image as RLImage
 DATE = sys.argv[1] if len(sys.argv) > 1 else "1 October 2026"
 REPLY_BY = sys.argv[2] if len(sys.argv) > 2 else "Thursday 15 October 2026"
 
-B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.4, leading=12.2, spaceAfter=5)
+B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.0, leading=11.5, spaceAfter=4)
 H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=3, keepWithNext=1)
-L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=3)
+L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=2)
 def P(t, s=B): return Paragraph(t, s)
 def SIG():
     i = RLImage('assets/SIGNATURE_CoryShepherd.png', width=30*mm, height=15.5*mm); i.hAlign = 'LEFT'; return i
@@ -46,27 +46,31 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "contact on 15 May 2024 between Ms Taylor and Ms Pritchard, between Ms Taylor and Ms Reese, and between Ms Reese "
        "and Mr Punch, including the time of each;", L),
      P("(d)&nbsp;&nbsp;the call records for 15 May 2024 of the work mobile telephones, and the desk or DECT extensions, "
-       "used by Ms Reese and Ms Taylor, showing for each call between them, or between either of them and Human "
-       "Resources, the time it was made and its duration. The records are sought in the form issued by the carrier or "
-       "the telephone system (the original PDF or export), without alteration other than the redaction of unrelated "
-       "entries, with each redaction marked;", L),
-     P("(e)&nbsp;&nbsp;the notes of that time to which Ms Reese refers in her response to the Respondent of July 2025 "
+       "used by Ms Reese, Ms Taylor, Mr Punch and Ms Pritchard, for the calls referred to in the outlines of Ms Reese and "
+       "Ms Taylor and in Ms Reese's response to the Respondent of July 2025 (Ms Taylor's call to Human Resources, her "
+       "call to Ms Reese, and Ms Reese's call to Mr Punch), showing the time each call was made and its duration. The "
+       "records are sought in the form issued by the carrier or the telephone system (the original PDF or export), "
+       "without alteration other than the redaction of unrelated entries, with each redaction marked;", L),
+     P("(e)&nbsp;&nbsp;the delivery and read records (message trace) of the email forwarded by LBH_HR on 15 May 2024 at "
+       "3:41 pm to Mr Punch, Ms McGinley and Ms McNamee (the Respondent's disclosure of 11 June 2026, page 7), showing "
+       "when it was received and opened by each;", L),
+     P("(f)&nbsp;&nbsp;the notes of that time to which Ms Reese refers in her response to the Respondent of July 2025 "
        "(\"I have looked back at my notes regarding this time\"), so far as they concern 15 to 21 May 2024;", L),
-     P("(f)&nbsp;&nbsp;any record of when, and by which account, that email was removed from the shared Switchboard inbox;", L),
-     P("(g)&nbsp;&nbsp;any message-recall record for that email, including any recall result report;", L),
+     P("(g)&nbsp;&nbsp;any record of when, and by which account, that email was removed from the shared Switchboard inbox;", L),
+     P("(h)&nbsp;&nbsp;any message-recall record for that email, including any recall result report;", L),
 
      P("B. Other documents referred to in the outlines", H),
-     P("(h)&nbsp;&nbsp;the Human Resources advice that Ms Taylor says, in her outline, confirmed that the agreement of "
+     P("(i)&nbsp;&nbsp;the Human Resources advice that Ms Taylor says, in her outline, confirmed that the agreement of "
        "17 June 2020 continued to apply;", L),
-     P("(i)&nbsp;&nbsp;the attachment \"Rostered shifts Cory S. past 8 months.xlsx\" to Ms Reese's email to Ms Taylor of "
+     P("(j)&nbsp;&nbsp;the attachment \"Rostered shifts Cory S. past 8 months.xlsx\" to Ms Reese's email to Ms Taylor of "
        "7 August 2023 at 5:11 pm (fact 159);", L),
-     P("(j)&nbsp;&nbsp;the records of Ms Taylor's appointments, acting and permanent, as Switchboard Manager, Logan "
+     P("(k)&nbsp;&nbsp;the records of Ms Taylor's appointments, acting and permanent, as Switchboard Manager, Logan "
        "Hospital, with their dates;", L),
-     P("(k)&nbsp;&nbsp;the Technical Support advice on the break of 17 to 18 March 2024 referred to in Ms Wright's outline, "
+     P("(l)&nbsp;&nbsp;the Technical Support advice on the break of 17 to 18 March 2024 referred to in Ms Wright's outline, "
        "with the query escalated to Technical Support;", L),
-     P("(l)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
+     P("(m)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
        "outline, and the record of its correction; and", L),
-     P("(m)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
+     P("(n)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
 
      Spacer(1, 1*mm),
      P("If any of these documents is not held, or has already been disclosed, I would be grateful to be told so, "
