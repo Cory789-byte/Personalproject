@@ -47,6 +47,7 @@ Sources: complaint form dated 13/05/2024 and 3:35 pm email, in the Regulator's d
 | 15 May | | ESU acknowledges the complaint (Ms Loader) | Review Decision 69983 |
 | 15 May, 6:23 pm | | Ms Reese asks the Appellant to retract and recall his 1:15 pm email, copied to Ms Taylor | WC facts 76, 77; 11 Jun disclosure p 5 |
 | 15 May, 7:09 pm | | Appellant replies to Ms Reese only. Ends: "If you still want me to redact the email… **I will do so** but the information will be forwarded to **the ethical unit for investigation**." Not a refusal: an offer to comply, and notice of an intended disclosure (s 40, "intends to make"). Opens "misuse of authority" (expect it to be used). This copy is from **Ms Taylor's** witness pack, so she held the reply at some point | WC fact 78 (part); witness disclosure (FRMS) pp 21 to 23 |
+| After 7:09 pm (time TBC) | | **Appellant recalls the 1:15 pm email**, as asked (per the Appellant, 25 Sep 2026; consistent with his served outline, "which I did"). Recall removes unread copies only; read copies, incl. in the shared inbox, would remain | Requested: item (i), recall record and recall result reports; also obtainable by IP Act application (his own mailbox) |
 | 16 May, 11:43 am | | Ms McGinley forwards the complaint to Ms Reese and Ms Smith, cc Mr Punch, Mr Pritchard, Ms McNamee | 11 Jun disclosure p 7 |
 | 17 May, 9:30 am | | Ms Taylor publishes her hours to the team | WC facts 81 to 84 |
 | 17 May, 1:20 pm | | Ms Taylor to Ms McNamee: "background… as requested" | Witness disclosure (FRMS) p 36 |
