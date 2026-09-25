@@ -112,6 +112,10 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("So that each item can be closed, could the Respondent please answer item by item, stating for each whether "
        "the document is produced, has already been disclosed (identifying where), or is not held. Where a document is not "
        "held, could the Respondent please say whether it existed and, if so, when it ceased to be held.", B),
+     P("If it is quicker, the Respondent may instead confirm by email the facts those records would show: for (c) and "
+       "(d), the time of each call or contact and who made it; for (e), when the email was received and opened by each "
+       "recipient; for (g), the date, time and account by which the email was removed; and for (i), the date and time "
+       "of any recall. A confirmation of that kind, identifying its source, would be of equal assistance.", B),
      P("Some of the records at (d), (e), (g) and (i) may be subject to routine deletion. Pending the Respondent's response, I ask "
        "that the Respondent request Metro South Health to preserve them.", B),
      KeepTogether([P("Yours faithfully,", B), Spacer(1, 1*mm), SIG(), Spacer(1, 1*mm),
