@@ -8,7 +8,7 @@
 |---|---|---|
 | Respondent's outlines of evidence, 5pp | 24 Sep 2026 | Taylor, Reese, Wright, Earl |
 | Matheson to Registry, witness list | 24 Sep 2026 11:50 | Four lay witnesses. "Reserves its right to amend… depending on the case presented by the appellant" |
-| Matheson to Appellant, "Documents in dispute" | 23 Sep 2026 23:51 | Answers the 9 Sep request. **Veracity confirmed: Tabs 6, 20, 30, 30A.** Tabs 1, 5, 17–19, 21, 22, 23, 31 requested from MSH |
+| Matheson to Appellant, "Documents in dispute" | 24 Sep 2026 09:51 AEST (23:51 UTC) | Answers the 9 Sep request. **Veracity confirmed: Tabs 6, 20, 30, 30A.** Tabs 1, 5, 17–19, 21, 22, 23, 31 requested from MSH |
 
 Every fact number below is from the **second** Form 24 notice (303 facts, served 28 Aug 2026,
 298 admitted 8 Sep 2026), checked against `drafts/out/FORM24_SERVED_28AUG2026_303facts.pdf`.

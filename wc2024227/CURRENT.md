@@ -17,7 +17,7 @@
 | **28 Aug 13:47** | **Form 24 (303 facts), Form 25 (39 documents), Annexure A (133pp), Part B served.** Form 29 withdrawal confirmed in the covering email |
 | **8 Sep 11:24** | ⭐⭐⭐ **THE RESPONDENT'S RESPONSE: 298 of 303 facts ADMITTED. 5 not admitted. 0 DENIED.** Three days inside the r 49 deadline |
 | **9 Sep 16:00** | **Filed + served under FDO(3):** witness list (5 names), outlines for Shepherd, Harrison-Jones and Conaghan, schedule of medical documents M1–M9, letter on the 8 Sep response, and a request for the documents not admitted (answer due **18 Sep**) |
-| **23 Sep 23:51** | ⭐ Matheson on the disputed tabs: **veracity confirmed for Tabs 6, 20 (CE letter to Dwyer), 30, 30A**. Tabs 1, 5, 17–19, 21, 22, 23, 31 requested from MSH by the Regulator |
+| **24 Sep 09:51 AEST** (23:51 UTC) | ⭐ Matheson on the disputed tabs: **veracity confirmed for Tabs 6, 20 (CE letter to Dwyer), 30, 30A**. Tabs 1, 5, 17–19, 21, 22, 23, 31 requested from MSH by the Regulator |
 | **24 Sep** | ⭐⭐ **Respondent's witnesses and outlines, six days early: Taylor, Reese, Wright, Earl. NO expert, NO medical witness.** Payroll's own outline says the 7-hour break was *"a rostering practice issue for the line manager"*, and the leave decline *"appears to have been made in error"*. See `analysis/2026-09-24_RESPONDENT_CASE_against_the_admissions.md` |
 | **16 Sep** | Mention audio obtained; six disputed windows re-decoded at beam 10 and the whole file independently re-diarised (ECAPA, 93.8% agreement). Amendments **A1 corroborated**, **A2 confirmed** |
 

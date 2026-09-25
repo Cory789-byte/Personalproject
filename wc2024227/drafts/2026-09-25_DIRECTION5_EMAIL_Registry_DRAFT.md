@@ -10,7 +10,7 @@
 |---|---|---|
 | Documents in Annexure A | 1–31 plus 1A, 1B, 8A, 8B, 8C, 9A, 9B, 30A | **39** |
 | Authenticity admitted, 8 Sep | all except those below | **25** |
-| Confirmed by the Regulator, 23 Sep | 6, 20, 30, 30A | **4** |
+| Confirmed by the Regulator, 24 Sep | 6, 20, 30, 30A | **4** |
 | **Now admitted or confirmed** | | **29 of 39** |
 | Requested by the Regulator from MSH | 1, 5, 17, 18, 19, 21, 22, 23, 31 | **9** |
 | Still disputed, no request made | 24 (the union email, from the Appellant's own records) | **1** |
@@ -72,7 +72,7 @@ direction 5, I am contacting the Registry to progress the matter.
 
 On 8 September 2026 the Respondent answered my notices to admit facts and documents. It admitted
 298 of the 303 facts and denied none. It admitted the authenticity of 25 of the 39 documents annexed
-to the notices. On 23 September 2026 the Respondent confirmed the authenticity of four more, and it
+to the notices. On 24 September 2026 the Respondent confirmed the authenticity of four more, and it
 has asked Metro South Health for the remaining nine. Twenty-nine of the 39 documents are therefore now
 admitted or confirmed.
 
@@ -116,7 +116,7 @@ Appellant, self-represented
 *WC/2024/227. Tab numbers are those of Annexure A to the Appellant's notices of 28 August 2026.
 "SOFC" is the Respondent's amended statement of facts and contentions of 13 May 2026.*
 
-**Part A: nine documents the Respondent has requested from Metro South Health (23 September 2026)**
+**Part A: nine documents the Respondent has requested from Metro South Health (24 September 2026)**
 
 | Tab | Document | Held by | Contents admitted at | Issue it goes to |
 |---|---|---|---|---|
