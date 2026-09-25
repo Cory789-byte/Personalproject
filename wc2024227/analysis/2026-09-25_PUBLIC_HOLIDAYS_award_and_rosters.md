@@ -146,3 +146,19 @@ Temp = temporary. "—" = not rostered that day.
 - Stressor 2(a) is already pleaded on Easter 2024 (9A). This analysis supports it with the published rosters.
 - Held for evidence-in-chief and cross-examination of Ms Taylor and Ms Earl. **Not** for the paper or letters as
   argument. Verify each roster cell before use.
+
+## 6. The mention of 7 August 2026 on Stressor 2 ([50:xx] to [53:52])
+
+- Dwyer asked whether the pay point was the subject of an **unpaid wages claim** or had been **rectified**. It is not a
+  wages claim. Frame Stressor 2 as how public holidays were rostered and how corrections were handled (manager-only
+  AVAC; 25 days after payroll's direction; "Part Completed"), not as money owed.
+- He misread the 42% as an underpayment of the Appellant and colleagues ([51:27]). **Drop the 42% unless rebuilt from
+  payslips.** Use one comparator, one period: Easter Saturday 2024, every FT/Temp FT on, the Appellant (FT) off.
+- ⚠ **He named Good Friday, Easter Sunday, Easter Monday and Anzac Day** ([52:07]). On the published rosters the
+  Appellant **worked all four**. The day that matters is **Easter Saturday, 30 March 2024** (cl 23(c), (h)). Correct
+  the frame gently at the next opportunity, or the rosters will appear to disprove the point.
+- He asked for proof of **deliberate** rostering ([53:02]); the Appellant withdrew that disclosure. Keep to the pattern;
+  never assert motive.
+- A "PP21 v2.0" is referred to in another session's analysis (30 March blank; Good Friday and Easter Sunday shown).
+  Not in this repo. If it exists, the published **v1.0** left him off and a later version shows him rostered off
+  Easter Saturday. Obtain it before saying the roster never showed him.
