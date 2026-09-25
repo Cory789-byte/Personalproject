@@ -10,7 +10,9 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, KeepTogether
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv) > 1 else "25 September 2026"
+DATE = sys.argv[1] if len(sys.argv) > 1 else "1 October 2026"
+from datetime import datetime as _dt
+EXPIRED = _dt.strptime(DATE, "%d %B %Y") >= _dt(2026, 9, 30)
 
 B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.8, spaceAfter=4)
 T  = ParagraphStyle('T', parent=B, fontName='Helvetica-Bold', fontSize=10.5, leading=13, spaceAfter=2)
@@ -119,9 +121,10 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
 
      P("1. What is settled", H),
      P("The Respondent admitted 298 of the 303 facts. The other five were not admitted, and none was denied. 29 of "
-       "the 39 documents annexed to the notices are admitted or confirmed. No admission has been withdrawn. The "
-       "Respondent has served outlines of evidence for four lay witnesses. As at the date of this paper, it has served no "
-       "medical or expert evidence.", B),
+       "the 39 documents annexed to the notices are admitted or confirmed. No admission has been withdrawn. The " + (
+       "Respondent has served outlines of evidence for four lay witnesses and no medical or expert evidence; the time for "
+       "that material expired at 4.00 pm on 30 September 2026." if EXPIRED else "Respondent has served outlines of evidence "
+       "for four lay witnesses. As at the date of this paper, it has served no medical or expert evidence."), B),
 
      P("2. What can be closed, by agreement or at a conference", H),
      table(CLOSE, [8*mm, 58*mm, W - 66*mm]),

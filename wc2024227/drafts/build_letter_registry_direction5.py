@@ -10,7 +10,9 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, PageBreak, KeepTogether
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv) > 1 else "25 September 2026"
+DATE = sys.argv[1] if len(sys.argv) > 1 else "1 October 2026"
+from datetime import datetime as _dt
+EXPIRED = _dt.strptime(DATE, "%d %B %Y") >= _dt(2026, 9, 30)  # send only after 4.00 pm if dated 30 September
 
 B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.7, spaceAfter=4)
 H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=2)
@@ -77,11 +79,13 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      Spacer(1, 1*mm),
      P("Dear Registrar,", B),
 
-     P("1. The directions", H),
-     P("I filed my list of witnesses and served my outlines of evidence on 9 September 2026. The Respondent filed "
-       "its list of witnesses and served its outlines of evidence on 24 September 2026, before the time allowed by "
+     P("1. The directions are complete" if EXPIRED else "1. The directions", H),
+     P("I filed my list of witnesses and served my outlines of evidence on 9 September 2026. The Respondent filed " + (
+       ("its list of witnesses and served its outlines of evidence on 24 September 2026, and the time for its material "
+       "under directions 3 and 4 expired at 4.00 pm on 30 September 2026. In accordance with direction 5, I write to "
+       "progress the matter.") if EXPIRED else ("its list of witnesses and served its outlines of evidence on 24 September 2026, before the time allowed by "
        "directions 3 and 4 (4.00 pm on 30 September 2026). The material of both parties under directions 1 to 4 having "
-       "been filed and served, I write in accordance with direction 5 to progress the matter.", B),
+       "been filed and served, I write in accordance with direction 5 to progress the matter.")), B),
 
      P("2. The facts and documents", H),
      P("On 8 September 2026 the Respondent answered my notices to admit facts and documents of 28 August 2026. It "
@@ -92,7 +96,8 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "confirmed. The ten that remain are listed in the attached schedule. Each is a record of Metro South "
        "Health or of the Appellant's union. For every one of them except Tab 31, the contents are already admitted, "
        "and the only question left is the authenticity of the copy.", B),
-     P("No admission has been withdrawn. As at the date of this letter, the Respondent has served no medical or expert evidence.", B),
+     P(("No admission has been withdrawn. The Respondent has served no medical or expert evidence, and the time for it to "
+       "do so has expired." if EXPIRED else "No admission has been withdrawn. As at the date of this letter, the Respondent has served no medical or expert evidence."), B),
 
      P("3. The questions for the Respondent", H),
      P("I enclose a paper that I have today provided to the Respondent. It sets out, stressor by stressor, the facts the "
