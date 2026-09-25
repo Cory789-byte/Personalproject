@@ -38,10 +38,10 @@ Sources: complaint form dated 13/05/2024 and 3:35 pm email, in the Regulator's d
 | 8 May, 5:28 pm | MASPER Registrar: four more | | WC facts 59 to 61 |
 | 9 May, 9:20 and 10:15 am | Ms Taylor asks a doctor for *her* hours; tells the team of "many ongoing issues" | | WC facts 64 to 67 |
 | 10 May, 2:08 pm | | Ms Reese sends roster concerns to HR (Ms Pritchard) | Tab 8; WC facts 219 to 221 |
-| 13 May | | Complaint form completed | 11 Jun disclosure p 9 |
+| 13 May | | **Disclosure prepared:** complaint form dated 13/05/2024. No record yet of it being sent that day | 11 Jun disclosure p 9 |
 | 15 May, 11:47 am | Integrated Respiratory Service (High importance): amend the directory | | WC fact 89 |
 | 15 May, 1:15 pm | Appellant's email: the manager's hours; directives "in consultation" | | WC facts 74, 75 (Tab 9A) |
-| 15 May, 3:35 pm | | Appellant to ESU, CO_Complaints and **LBH_HR**, subject "Urgent: Issues Affecting **Workplace Safety** and Conduct Logan Hospital Switchboard" | 11 Jun disclosure p 8 |
+| 15 May, 3:35 pm | | **Disclosure made (sent):** Appellant to ESU, CO_Complaints and **LBH_HR**, subject "Urgent: Issues Affecting **Workplace Safety** and Conduct Logan Hospital Switchboard" | 11 Jun disclosure p 8 |
 | 15 May, 3:41 pm | | LBH_HR (Ms Harrison) forwards to **Mr Punch**, Ms McGinley, Ms McNamee | 11 Jun disclosure p 7 |
 | 15 May, time unknown | | Ms Taylor rings HR (Ms Pritchard), then Ms Reese; Ms Reese speaks to Mr Punch, who suggests retraction wording | Ms Reese, July 2025 answers (disclosure-2025-07, Reese pack p 6) |
 | 15 May | | ESU acknowledges the complaint (Ms Loader) | Review Decision 69983 |
@@ -57,6 +57,12 @@ Sources: complaint form dated 13/05/2024 and 3:35 pm email, in the Regulator's d
 | Time unknown | | Ms Taylor removes the 1:15 pm email "on HR's advice" (her outline, 24 Sep 2026) | Outline only; no record yet |
 
 ## 3. Open questions for the PID track
+
+0. **Was the form sent to anyone on 13 or 14 May?** The only record of transmission is the 3:35 pm
+   email of 15 May. If an earlier email or submission exists, find it (it would move the date the
+   disclosure was made). Note the filed Form 9A says "On 13 May 2024, the Appellant lodged a
+   complaint": on the present record the form is dated 13 May and was sent at 3:35 pm on 15 May,
+   2 hours 48 minutes before the 6:23 pm retraction request.
 
 1. **Which limb did the ESU assess?** Did the 27 May closure deal with limb 2 (patient safety) at
    all, or only limb 1? Source needed: the ESU closure letter and file.
