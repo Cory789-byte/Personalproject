@@ -3,20 +3,27 @@
 **Revised 25 September 2026 on Cory's instruction:** both documents go to Commissioner Dwyer (through the
 Registry) and to the Regulator, together. This replaces the earlier two-email split.
 
-**When to send:** the morning of Thursday 1 October 2026 (or the evening of 30 September, after 4.00 pm).
-The Respondent's time under directions 3 and 4 must have expired first.
+**When to send: TODAY, Friday 25 September 2026, within Registry business hours (before about 4.30 pm).**
+Both PDFs are dated 25 September 2026. The letter does not say the Respondent's time has expired. It says the
+Respondent served its material on 24 September, before the time allowed (4.00 pm on 30 September), and that
+"as at the date of this letter" no medical or expert evidence has been served. Both statements are true today.
 
-**Before sending,** check the inbox for anything from the Regulator, OIR, the Registry or Metro South
-Health since 25 September. If an expert report or any further outline has arrived, the letter's
-statement "The Respondent has served no medical or expert evidence" must be changed first.
+**Before sending,** check the inbox for anything from the Regulator, OIR, the Registry or Metro South Health
+since 24 September. If anything has arrived, stop and re-check the letter first.
 
-Both PDFs are dated **1 October 2026**. To send on another day, rebuild both with that date first:
+**If the Regulator serves an expert report before 4.00 pm on 30 September**, the letter stays accurate: it was
+true when sent. Tell the Registry and the Respondent in a one-line email that the paper's section 1 is
+superseded on that point.
 
-```
-cd wc2024227/drafts
-python3 build_letter_registry_direction5.py "D Month 2026"
-python3 build_conference_paper.py "D Month 2026"
-```
+**Pre-send check (run 25 September 2026):**
+- all quotations in the paper audited against the served notice;
+- the figures match the Form 25 response (39 / 25 / 14; 4 confirmed; 10 remaining);
+- the dates are consistent across the letter, the schedule and the paper;
+- no discipline words (fraud, reprisal, hostile and the like);
+- no held-for-cross-examination points (1:07 pm, "last week", "raise my voice", the date of the eight-month
+  spreadsheet);
+- nothing from the never-voiced list;
+- metadata stripped: letter 2 pages, paper 10 pages.
 
 ---
 
