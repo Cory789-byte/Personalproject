@@ -1,3 +1,5 @@
+# ⭐ SUPERSEDED FOR SENDING by `out/SEND_DIRECTION5_1OCT2026/` (three PDFs, two emails in .txt). Kept for history.
+
 # DIRECTION 5: ONE EMAIL, BOTH DOCUMENTS (letter + the admitted record and questions), TO THE COMMISSION AND THE RESPONDENT (FINAL, NOT SENT)
 
 **Revised 25 September 2026 on Cory's instruction:** both documents go to Commissioner Dwyer (through the

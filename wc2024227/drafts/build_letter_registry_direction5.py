@@ -123,7 +123,8 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "and contentions; and", L),
      P("(e)&nbsp;&nbsp;the production of documents referred to in the Respondent's outlines of evidence, to the extent "
        "not already disclosed, including the Technical Support advice referred to by Ms Wright and the email of 15 May "
-       "2024 at 4:12 pm referred to by Ms Reese.", L),
+       "2024 at 4:12 pm referred to by Ms Reese. I have requested these from the Respondent by a separate letter of today's "
+       "date.", L),
      Spacer(1, 1.5*mm),
      P("When the remaining documents are confirmed and the Respondent has responded, the primary facts will be settled. "
        "What will remain is the application of the law to those facts, and the medical evidence. The Commission may then "
