@@ -189,3 +189,43 @@ amendment); that the conference is listed before a hearing; that the Commission 
 4. Obtain the timesheet for 17–18 March 2024 and the myHR screenshot of the agreement upload (save it in the repo with
    date and source).
 5. Keep the PID track separate; keep ⛔ points for cross-examination.
+
+---
+
+## Addendum (same day): doctors give evidence consistent with their written record
+
+**Assumption (Cory's instruction):** Dr Krishnaiah and Dr Hawes give evidence, voluntarily or on attendance notices,
+and do not depart from what they have written.
+
+**What that written record says** (medical schedule served 9 Sep 2026):
+- Dr Krishnaiah, 13 Feb 2025: Major Depressive Disorder with anxious distress; origin "workplace stress stemming from
+  issues with management and rostering", beginning "when a new manager was appointed"; pay "withheld or delayed". **No
+  mention of the retraction episode.**
+- Dr Hawes, 2 Sep 2024 (recorded by the Review Unit, Review Decision p 17): work events the "sole cause".
+- Certificates from 1 Jul 2024: "no pre-existing factor or condition".
+- Psychiatrist's diagnosis 24 Oct 2024.
+
+**Effect on the blocks:** B1 injury (0.86–0.97); B2 causation (0.72–0.93), because the treating account attributes the
+disorder to management, rostering and pay, all admitted; B3 s 32(5) (0.66–0.93), because the medical account locates the
+cause in the course of rostering and pay (the rostering found unreasonable by the Respondent's own reviewer), not in the
+retraction, which undercuts "mainly".
+
+| | Central | 80% range |
+|---|---|---|
+| P(appeal succeeds at hearing) | **59%** | 53–65% |
+| Overall favourable, incl. concession before hearing (20–30%) | **≈ 65–70%** | |
+
+**Tornado:** s 32(5) 15.4 points; causation 14.3; injury 11.1. **With the doctors fixed, s 32(5) becomes the main
+battleground.**
+
+**Residual risks even with the doctors:**
+1. **History.** Cross-examination on whether each doctor knew of the 26/10/2022 anxiety and ADHD entries and the
+   16 May 2024 referral renewal. Their opinions stand or fall on the history they had (the basis rule). "Sole cause"
+   (Dr Hawes) is more than s 32(1) needs; if it is weakened to "a significant" cause, the element is still met.
+2. **The Krishnaiah report footer:** "not for medico-legal use". Oral evidence cures the form; the content remains
+   his.
+3. **s 32(5) as a whole:** the Respondent's own reviewer applied it globally. The answer is the whole course (Delaney),
+   the unreasonable rostering, the conditions of work outside s 32(5), and the doctors' account of origin.
+
+**Levers now:** (1) narrow s 32(5) at the conference (action by action; rule 48); (2) prepare the doctors on the history
+point, so it is addressed in chief rather than first raised in cross; (3) documents closing the fatigue and pay points.
