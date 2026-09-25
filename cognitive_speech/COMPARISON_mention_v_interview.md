@@ -20,3 +20,16 @@ are unreliable (the model suppresses "um"); not used.
 | Arousal after challenge v other | +0.33 v −0.03 | — | +0.05 v −0.05 | — |
 | Disfluency low v high arousal | 1.25 v 0.60 | — | 0.53 v 0.57 | — |
 | Talked over the other speaker | 0 | — | 0 | — |
+
+## Threads (keyword-tagged topics; approximate)
+
+| | Cory, interview | Officers | Cory, mention | Dwyer |
+|---|---|---|---|---|
+| Threads per long turn (median / max) | 2 / **7** | 1 / 5 | 1 / 3 | 2 / 4 |
+| Topic switches per long turn (max) | **20** | 5 | 5 | 8 |
+| Returns to an earlier thread within a turn (total) | 38 | 7 | 6 | 44 |
+| Words per thread (median) | 44 | 43 | 32 | 53 |
+| Unprompted carry-over from own earlier talk | **71%** | 72% | 39% | 66% |
+
+Largest single turn: interview 8:41, 158 s, 505 words, 7 threads, 20 switches, 14 returns.
+Dwyer's largest: 12:18, 70 s, 4 threads, 6 switches, 3 returns. Script: `threads.py`.
