@@ -7788,3 +7788,6 @@ Not shown to be Tab 5.
 - PP22 (1–14 Apr): Shepherd back at FT row 6, same payroll number.
 - Staff on leave keep their line: Fitzpatrick A/L across PP21 and PP22; Zizek kept a line while on maternity leave in PP20.
 - ⇒ Across these three fortnights, Shepherd is the only continuing staff member whose line is absent for one fortnight and then restored. The whole pack has not yet been checked for other instances.
+
+## 25 Sep 2026 — full roster pack audit
+See `skill/references/ROSTER-PACK-LINE-AUDIT-25SEP2026.md`. Shepherd is on 33 of 34 rosters; the only absence is PP21 v1.0. Willmann and Zizek also drop out and return, so "nobody else" is not literally true; use "the only one absent for a single fortnight in which he worked". PP20/PP21 v1.0/PP22 are not on his List of Documents. Recommendation: disclose the three by supplementary list, and serve a Form 25 once the distribution email is found.
