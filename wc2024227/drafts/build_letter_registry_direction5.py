@@ -10,9 +10,9 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, PageBreak, KeepTogether
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv) > 1 else "25 September 2026"
+DATE = sys.argv[1] if len(sys.argv) > 1 else "1 October 2026"
 
-B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.4, leading=12.2, spaceAfter=5)
+B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.7, spaceAfter=4)
 H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=2)
 L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=2)
 C  = ParagraphStyle('C', parent=B, fontSize=8.1, leading=10.0, spaceAfter=0)
@@ -79,19 +79,20 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
 
      P("1. The directions are complete", H),
      P("I filed my list of witnesses and served my outlines of evidence on 9 September 2026. The Respondent filed "
-       "its list of witnesses and served its outlines of evidence on 24 September 2026. In accordance with "
-       "direction 5, I write to progress the matter.", B),
+       "its list of witnesses and served its outlines of evidence on 24 September 2026, and the time for its material "
+       "under directions 3 and 4 expired at 4.00 pm on 30 September 2026. In accordance with direction 5, I write to "
+       "progress the matter.", B),
 
      P("2. The facts and documents", H),
      P("On 8 September 2026 the Respondent answered my notices to admit facts and documents of 28 August 2026. It "
        "admitted 298 of the 303 facts. The other five were not admitted, and none was denied. It admitted the "
        "authenticity of 25 of the 39 documents annexed to the notices.", B),
-     P("On 23 September 2026 the Respondent confirmed the authenticity of four more documents, and it has asked "
+     P("On 24 September 2026 the Respondent confirmed the authenticity of four more documents, and it has asked "
        "Metro South Health for nine others. Twenty-nine of the 39 documents are therefore now admitted or "
        "confirmed. The ten that remain are listed in the attached schedule. Each is a record of Metro South "
        "Health or of the Appellant's union. For every one of them except Tab 31, the contents are already admitted, "
        "and the only question left is the authenticity of the copy.", B),
-     P("No admission has been withdrawn. The Respondent has served no medical or expert evidence.", B),
+     P("No admission has been withdrawn. The Respondent has served no medical or expert evidence, and the time for it to do so has expired.", B),
 
      P("3. The step I ask for", H),
      P("I ask that the matter be listed for a second conference under section 552A of the <i>Industrial Relations "
@@ -99,16 +100,20 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "the application of the law to those facts, and the medical evidence. I believe the following matters are "
        "capable of resolution at a conference:", B),
      P("(a)&nbsp;&nbsp;the ten documents listed in the attached schedule, by agreeing a list of documents to be tendered "
-       "without further proof once Metro South Health provides its copies;", L),
+       "without further proof: the nine in Part A once Metro South Health provides its copies, and Tab 24 in Part B by "
+       "agreement or through Ms Conaghan, a recipient of it;", L),
      P("(b)&nbsp;&nbsp;facts 228 to 231, on production of the MET call spreadsheet that Metro South Health, in its letter "
        "of 5 June 2026, states is available;", L),
-     P("(c)&nbsp;&nbsp;whether the Respondent requires the medical witnesses to attend for cross-examination; and", L),
+     P("(c)&nbsp;&nbsp;whether the Respondent requires the medical witnesses to attend for cross-examination;", L),
      P("(d)&nbsp;&nbsp;the management action relied on at paragraph 27 of the Respondent's amended statement of facts "
-       "and contentions.", L),
+       "and contentions; and", L),
+     P("(e)&nbsp;&nbsp;the production of documents referred to in the Respondent's outlines of evidence, to the extent "
+       "not already disclosed, including the Technical Support advice referred to by Ms Wright and the email of 15 May "
+       "2024 at 4:12 pm referred to by Ms Reese.", L),
      Spacer(1, 1.5*mm),
      P("I have today provided the Respondent with a paper setting out questions arising from its outlines of "
        "evidence, each by reference to the facts it has admitted, and have asked it to indicate its position on "
-       "each before the conference. The purpose is to confine the issues for any hearing to those genuinely in "
+       "each by 15 October 2026. The purpose is to confine the issues for any hearing to those genuinely in "
        "dispute. The conference would also give the Respondent an opportunity to consider its position on the "
        "admitted record. In my view the matter may then be capable of resolution without a full hearing or, if "
        "not, the issues for hearing can be substantially narrowed.", B),
@@ -127,14 +132,14 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "Form 24 notice as answered on 8 September 2026. \"SOFC\" is the Respondent's amended statement of facts and "
        "contentions dated 13 May 2026.", N),
      Spacer(1, 1*mm),
-     P("<b>Part A &ndash; the nine documents the Respondent has asked Metro South Health to provide (23 September 2026)</b>", N),
+     P("<b>Part A &ndash; the nine documents the Respondent has asked Metro South Health to provide (24 September 2026)</b>", N),
      table(A, widths),
      Spacer(1, 4*mm),
      KeepTogether([P("<b>Part B &ndash; the one document whose authenticity remains disputed and is not sought from Metro South Health</b>", N),
                    table(Bp, widths)]),
      Spacer(1, 4*mm),
      P("The 29 other documents annexed to the notices have been admitted (8 September 2026) or confirmed "
-       "(23 September 2026: Tabs 6, 20, 30 and 30A).", N),
+       "(24 September 2026: Tabs 6, 20, 30 and 30A).", N),
 ]
 
 buf = io.BytesIO()
@@ -147,4 +152,4 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
 try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
-out = "out/LETTER_TO_REGISTRY_direction5_25SEP2026.pdf"; pdf.save(out, linearize=True); print("built", out, n, "page(s)")
+out = "out/LETTER_TO_REGISTRY_direction5.pdf"; pdf.save(out, linearize=True); print("built", out, n, "page(s)")

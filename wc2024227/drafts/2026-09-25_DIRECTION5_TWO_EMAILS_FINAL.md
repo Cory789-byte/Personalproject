@@ -1,7 +1,9 @@
 # DIRECTION 5: THE TWO EMAILS (FINAL, NOT SENT)
 
-Send **Email 1 first**, then **Email 2** a few minutes later, on the same day. The letter states that the
-paper has been provided "today", so both must go on the date shown in the PDFs. If you send on a later
+**Send on the morning of Thursday 1 October 2026**, after the Respondent's time under directions 3 and 4
+expires at 4.00 pm on 30 September. Both PDFs are dated 1 October. Send **Email 1 first**, then **Email 2** a
+few minutes later, on the same day. The letter says the paper was provided "today". Return date for the
+Respondent's answers: **15 October 2026**. If you send on a later
 day, rebuild both PDFs with that date first:
 
 ```
@@ -17,7 +19,7 @@ python3 build_conference_paper.py "D Month 2026"
 TO:      qirc.registry@qirc.qld.gov.au
 CC:      Renee.Matheson@oir.qld.gov.au
 SUBJECT: WC/2024/227 - Shepherd v Workers' Compensation Regulator - direction 5, progressing the matter
-ATTACH:  LETTER_TO_REGISTRY_direction5_25SEP2026.pdf
+ATTACH:  LETTER_TO_REGISTRY_direction5.pdf
 ```
 
 Dear Registrar,
@@ -53,7 +55,7 @@ the Respondent's outlines of evidence of 24 September 2026, each by reference to
 has admitted. It also asks the Respondent to state its settled position, as particulars of paragraph 27 of
 its amended statement of facts and contentions, on whether each admitted action listed at section 6 was
 management action and, if so, whether it was reasonable and taken in a reasonable way. I would be grateful
-if the Respondent could complete sections 6 and 7 before the conference. Any matter not maintained can then
+if the Respondent could complete sections 6 and 7 by 15 October 2026. Any matter not maintained can then
 be recorded at the conference as no longer in issue.
 
 Yours faithfully,
