@@ -179,3 +179,18 @@ Reese's July 2025 answers are the blue text in RWC pp 3-6.
   puts her report to Reese at "1:20pm on 15 May"; the document dated 15 May is 1:07 pm (Tab 10).
 - **Adverse** (RWC p 6): a planned "behavioural issues" / "Absenteeism" discussion on return from sick
   leave after mid-June 2024. Answer by chronology (after the complaint and the injury onset).
+
+## Addendum 5 (25 Sep 2026): 13 to 15 May 2024, "difficulty attending" (SOFC 16(b)(i)) answered from their documents (HOLD FOR CROSS)
+
+- **Ms Taylor to Ms McNamee, 17 May 2024, 1:20 pm** (FRMS p 36): on 13 May he called "15 mins before his shift… in the car
+  on the way to work but he felt unwell"; she said "if he was unwell, it would be preferred for him not to come into work".
+  Corroborates the Appellant's outline para 9 (drove to work, could not go in, called in sick): onset symptoms recorded
+  by the Respondent's own witness at the time.
+- **The 1:15 pm email of 15 May (Tab 9A, full text)** opens: "I've informed the switchboard of my leave today due to the
+  uncertainty around your current office hours." The attendance criticism of 14 May (notification process = call the
+  manager) and the hours request are **the same operational issue** (fact 73: no fixed hours stated Aug 2023 – May 2024).
+- The conditions preceded it: MASPER reports 3 and 8 May (facts 56–67); IRS 15 May (89, 90); no operator access to correct
+  entries (40, 44, 55). Psychiatrist referral renewed 16 May (outline para 8).
+- ⛔ WC track: explain by the conditions and their effect only. Do not connect the complaint's content to 1(a), and do not
+  link the attendance criticism to the disclosure (rule 3). The disclosure link stays in the private PID chronology.
+- Cross (Taylor): "13 May, he rang from his car, unwell. Your own account?" · "Where were your hours published before 17 May?"
