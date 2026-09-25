@@ -7803,3 +7803,11 @@ Cory confirms he dropped/held Stage 2 as Petering advised on 11 Aug. ⇒ The "di
 
 ## 25 Sep 2026 — Krishnaiah → MSH: authority given, no response (Cory's account) [R]
 Cory: he gave MSH written authority to contact and communicate with Dr Krishnaiah ("Ravi"), and MSH has not responded to Dr K's email. Neither document is in the repo. The only record is Roberts' verbal disclosure on 21 Aug that Dr K had written; MSH's stated position at that meeting was that it wants the nine questions answered, and it offered to send the ECC. ⇒ TO FILE: (1) the authority, with its date and recipients; (2) Dr K's email to MSH (request a copy from the practice; Cory has not seen it). Bearing: Track B (the "medical evidence does not support" basis while the treating psychiatrist's inquiry sits unanswered). CORRECTION (Cory): the appeal's medical evidence is the M1–M9 schedule served 9 Sep, not a pending report, so the brief no longer links the two tracks on this point. The My Work Rights draft is updated; [date] is still to be filled.
+
+## 25 Sep 2026 — Krishnaiah non-response: dates verified from Cory's 10 Sep email (Gmail case-file copy)
+Source: Cory → IM/HR/Payroll/Roberts, 10 Sep 2026 06:25 UTC, "action required today … RFMI MSH-INJ-5795", §2:
+- 12 Aug 2026: written consent to IM for Mind and Memory Service to confirm Dr K's two requirements.
+- 24 Aug 2026 11:13: agreement to share medical information with the psychiatrist, on condition of prior notice; acknowledged 12:19 the same day.
+- "Dr Krishnaiah has recorded that he contacted Logan Hospital and that Queensland Health had not responded"; raised with LBH HR 28 Aug (after the 27 Aug consult), with IM 4 Sep, and again 10 Sep with a deadline of 12 Sep (2.1 still required? / 2.2 sent when, by whom? / 2.3 written withdrawal).
+- Cory: Dr K emailed him saying MSH had not responded, and confirmed it again weeks later. ⚠ Those emails from Dr K are NOT in the Gmail ingest (search for Krishnaiah returns only Cory's own emails). TO FILE: forward both into the case file. Also check for any MSH reply to the 12 Sep deadline.
+The My Work Rights draft Track B is updated with these dates; the [date] placeholder is gone.
