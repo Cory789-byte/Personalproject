@@ -49,30 +49,48 @@ Q = [["", "Question for the Respondent", "The admitted record"],
  ["1", "Does the Respondent maintain that no directives were issued without consultation or assessment "
        "(SOFC [11]; outline of Ms Taylor)?",
   "Ms Taylor's email of 15 April 2024: \"This new process is effective from today\" (facts 49 to 53; Tab 6, confirmed "
-  "23 September 2026). No clause 6.2 agreement or ballot is alleged (facts 180, 181). The Chief Executive's letter of "
-  "5 June 2026: fatigue risk assessment at the switchboard \"occurred after 30 June 2024\" (fact 264; Tab 20, confirmed)"],
+  "23 September 2026). A further new process from 19 April 2024 (fact 54). No clause 6.2 agreement or ballot is "
+  "alleged (facts 180, 181). The Chief Executive's letter of 5 June 2026: fatigue risk assessment at the switchboard "
+  "\"occurred after 30 June 2024\" (fact 264; Tab 20, confirmed)"],
  ["2", "Does the Respondent maintain that the 2020 eight-hour agreement applied to the shifts of 17 and 18 March 2024 "
-       "(SOFC [22(e)]; outlines of Ms Taylor and Ms Wright)?",
+       "(SOFC [22(e)]; outlines of Ms Taylor, Ms Reese and Ms Wright)?",
   "Metro South Health Human Resources, 7 July 2026: the agreement \"is only applied where staff initiated shift swaps "
-  "have occurred\" (fact 225). No swap is alleged (fact 234). The break was seven hours, less than eight on any view "
+  "have occurred\" (fact 225). No swap is alleged (fact 234). The employer confirmed a \"change to your employment "
+  "contract and adjustments in your working hours\" since 17 June 2020 (fact 20); no review or re-confirmation of the agreement is alleged (fact 21); the Review Unit "
+  "found \"uncertainty\" whether it applied (fact 254). The break was seven hours, less than eight on any view "
   "(facts 226, 258, 259)"],
  ["3", "Which management action does the Respondent say was reasonable in respect of the break of 17 to 18 March 2024?",
   "The Respondent's review decision: \"the rostering of these two shifts amounted to unreasonable management action\" "
   "(fact 260). Payroll's advice, in the outline of Ms Wright: \"a rostering practice issue for the line manager\". "
   "SOFC [27] identifies no action (fact 303)"],
- ["4", "Does the Respondent maintain that the Appellant's email of 15 May 2024 was an accusation "
+ ["4", "Does the Respondent maintain that the break of 17 to 18 March 2024 was \"not intentional or repeated\" in the "
+       "sense that no other rostering error affected the Appellant (SOFC [22(a)]; outline of Ms Taylor)?",
+  "Ms Taylor, 7 August 2023: \"your rostered Monday 7th... this was an oversight\" (fact 156); Ms Reese, 8 August 2023: "
+  "\"a rostering error\" (fact 28); Ms Reese, 26 April 2024: Ms Taylor \"was working to fix this error\" (facts 211, "
+  "212); Ms Reese to Human Resources, 10 May 2024: \"I acknowledge there has been a few rostering errors made by Chloe "
+  "with regards to Cory's line in past rosters\" (fact 220)"],
+ ["5", "Does the Respondent maintain that on 13 to 15 May 2024 the Appellant failed to follow the on-call notification "
+       "process (SOFC [16(b)]; outline of Ms Taylor)?",
+  "Ms Taylor's email of 15 April 2024: contact her \"through switch/office or mobile\" (fact 163). Her email of 14 May "
+  "2024: \"either through switch or my office/mobile\" (facts 164, 165). It is not alleged that the Appellant was told, "
+  "before 14 May 2024, that notifying his unavailability by telephoning the Switchboard did not comply (fact 166)"],
+ ["6", "Does the Respondent maintain that the Appellant's email of 15 May 2024 was an accusation "
        "(outline of Ms Reese)?",
   "Ms Taylor's email of 23 August 2023, \"What's Chloe's Hours?!\": start \"between 6-9am\", finish \"2-5pm\" "
-  "(facts 71, 72; Tab 30, confirmed). No fixed hours stated to May 2024 (fact 73). Ms Reese, 21 May 2024: \"I will "
-  "follow up on the issues raised\" (fact 79). Ms Taylor published her hours on 17 May 2024 (facts 81 to 84)"],
- ["5", "Who exercised the delegated power to decide the Special Pandemic Leave application, process 15480560?",
-  "SOFC [14] states the attachments were present. Ms Taylor declined the application twice (facts 116, 118, 123). The "
-  "power was sub-delegated to Band 9 and could not be sub-delegated further (facts 127, 128). It is not alleged that "
-  "Ms Taylor or Ms Reese held it (facts 129 to 131)"],
- ["6", "Does the Respondent maintain that pay errors were \"remedied in a timely manner\" (SOFC [20(c)]; fact 207)?",
+  "(facts 71, 72; Tab 30, confirmed). No fixed hours stated to May 2024 (fact 73). Ms Reese, 21 May 2024: \"I will follow up on the issues raised\" (fact 79). Ms Taylor published "
+  "her hours on 17 May 2024 (facts 81 to 84)"],
+ ["7", "Who exercised the delegated power to decide the Special Pandemic Leave application, process 15480560?",
+  "SOFC [14] states the attachments were present. Ms Taylor had noted the statutory declaration \"was sufficient "
+  "evidence\" (fact 138) and declined the application twice (facts 116, 118, 123). It was approved by Ms Taylor as "
+  "reviewer on 29 February and Ms Reese as manager on 1 March 2024 (facts 120, 121). The power was sub-delegated to "
+  "Band 9 and could not be sub-delegated further (facts 127, 128); it is not alleged that Ms Taylor or Ms Reese held "
+  "it (facts 129 to 131)"],
+ ["8", "Does the Respondent maintain that pay errors were \"remedied in a timely manner\" and that there are no "
+       "outstanding underpayments (SOFC [20(c)], [20(f)]; outline of Ms Wright)?",
   "Payroll asked the line manager for AVACs on 3 May 2024 (facts 183 to 190). On 13 May payroll could not see that any "
-  "had been corrected (facts 192, 193). The AVAC was submitted on 28 May 2024 (fact 297). Two AVAC process numbers "
-  "cited by payroll do not appear in the myHR report (fact 210)"],
+  "had been corrected (facts 192, 193). The AVAC was submitted on 28 May 2024 (fact 297), with claims \"older than 3 "
+  "months\" (fact 197), and is recorded as \"Part Completed\" (fact 203). Two AVAC process numbers cited by payroll do "
+  "not appear in the myHR report (fact 210)"],
 ]
 
 s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
