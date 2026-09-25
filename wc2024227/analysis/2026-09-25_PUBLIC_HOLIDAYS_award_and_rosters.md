@@ -207,3 +207,30 @@ Saturday 1.5, Sunday 2.0, public holiday 1.5 for a continuous shift worker, cl 2
 | Court | 159 | 19 | 21 | 1 | 22 | 1.195 |
 
 ⇒ In 2025–26 the Appellant's penalty exposure is equal-highest. Confirms section 7: no disparity in 2025–26.
+
+## 8. February to June 2024: full-time comparison (read by eye; verify before use)
+
+Colleague rows transcribed by eye from the scanned published rosters PP18–PP27 (PP23, PP24 "updated"), tilt-corrected
+against the Appellant's known line (`roster_data.py`). **PP21 (18–31 Mar, Easter) excluded for everyone**, because the
+Appellant has no line on it. Script and transcriptions: `drafts/roster_2024_FT_comparison_by_eye.py`. Majority of
+shift applied; index weights: ordinary 1.0, Sat 1.5, Sun 2.0, PH 1.5 (Easter Sat/Sun 2.5).
+
+| FT | Shifts | Sat | Sun | PH | Nights | Index per shift |
+|---|---|---|---|---|---|---|
+| Jeffrey | 74 | 13 | 12 | 2 | 12 | 1.264 |
+| **Shepherd** | 86 | 13 | 15 | 2 | 18 | 1.262 |
+| De Iacovo | 84 | 13 | 13 | 3 | 29 | 1.250 |
+| Conaghan | 85 | 13 | 13 | 2 | 24 | 1.241 |
+| Abbott | 80 | 12 | 11 | 1 | 23 | 1.219 |
+| Court | 72 | 11 | 9 | 2 | 15 | 1.215 |
+
+**Reading:** outside the Easter fortnight, the Appellant's weekend exposure in Feb–Jun 2024 was **not** below his
+full-time colleagues'. The 2024 disparity is **specific**, not systemic across the period:
+1. **Easter 2024 (PP21):** the only full-timer off Easter Saturday; no line on the published roster.
+2. **The pay mechanism in that fortnight:** Easter Saturday coded "public holiday not required" (Ms Taylor's AVAC of
+   9 April; Ms Earl's outline), which counted as an eleventh ordinary shift, pushed him over contracted hours and
+   triggered an automatic hours reduction. Payroll, 3 May 2024: fortnight 18.03.24 "has too many ordinary shifts for the
+   fortnight resulting in **wage reduction of 7.55hrs** as one of the shifts needs to be overtime" (fact 188); fortnight
+   01.04.24 "0.95hrs over contracted 76hrs needs to be overtime" (189). Corrected only after the AVAC of 28 May, "Part
+   Completed" (203, 297).
+⇒ Put Stressor 2 as **that fortnight and its handling**, not as a pattern across 2024. Do not use the "42%".
