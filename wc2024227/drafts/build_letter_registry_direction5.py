@@ -17,7 +17,7 @@ EXPIRED = _dt.strptime(DATE, "%d %B %Y") >= _dt(2026, 9, 30)  # send only after 
 
 B  = ParagraphStyle('B', fontName='Helvetica', fontSize=9.2, leading=11.4, spaceAfter=3.5)
 H  = ParagraphStyle('H', parent=B, fontName='Helvetica-Bold', spaceBefore=3, spaceAfter=2, keepWithNext=1)
-L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=2)
+L  = ParagraphStyle('L', parent=B, leftIndent=8*mm, firstLineIndent=-6*mm, spaceAfter=1.2)
 C  = ParagraphStyle('C', parent=B, fontSize=7.9, leading=9.4, spaceAfter=0)
 CB = ParagraphStyle('CB', parent=C, fontName='Helvetica-Bold')
 N  = ParagraphStyle('N', parent=B, fontSize=8.2, leading=10.2)
@@ -110,10 +110,19 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "paper contains no submission.", B),
 
      P("4. How the matter should proceed", H),
-     P("I leave to the Commission how the matter should proceed. If the Respondent is able to state its position in "
-       "writing, a conference may not be needed, or may be confined to what then remains. If a conference is needed, I ask "
-       "that the matter be listed for a second conference under section 552A of the <i>Workers' Compensation and Rehabilitation Act 2003</i>. "
-       "I believe the following matters are capable of resolution there, or by agreement:", B),
+     P("In accordance with direction 5, and in the interests of the efficient administration of justice, I set out two "
+       "courses for the Commission's consideration. I leave to the Commission which, if either, is appropriate.", B),
+     P("<b>First</b>, if the Respondent also agrees and the Commission considers it appropriate, the appeal could be heard "
+       "and decided under rule 44 of the <i>Industrial Relations (Tribunals) Rules 2011</i> on the documentary record: the "
+       "admitted facts, the documents whose authenticity is admitted or confirmed, and my schedule of medical documents "
+       "relied upon served on 9 September 2026, with written submissions, and with any matter that either party "
+       "identifies as requiring oral evidence, including the evidence of the medical witnesses, heard separately. The "
+       "Respondent's response to my letter of 25 September 2026 may bear on whether that course is available.", B),
+     P("<b>Otherwise</b>, I ask that the matter proceed to a second conference under section 552A of the "
+       "<i>Workers' Compensation and Rehabilitation Act 2003</i>, to establish what remains in issue and what the "
+       "Respondent still requires to be proved. If the Respondent is able to state its position in writing, the conference "
+       "may be confined to what then remains. I believe the following matters are capable of resolution there, or by "
+       "agreement:", B),
      P("(a)&nbsp;&nbsp;the ten documents listed in the attached schedule, by agreeing a list of documents to be tendered "
        "without further proof: the nine in Part A once Metro South Health provides its copies, and Tab 24 in Part B by "
        "agreement or through Ms Conaghan, a recipient of it;", L),
@@ -125,16 +134,11 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("(e)&nbsp;&nbsp;the production of documents referred to in the Respondent's outlines of evidence, to the extent "
        "not already disclosed, including the Technical Support advice referred to by Ms Wright and the email of 15 May "
        "2024 at 4:12 pm referred to by Ms Reese. I requested these from the Respondent by letter of 25 September 2026.", L),
-     Spacer(1, 1.5*mm),
+     Spacer(1, 0.8*mm),
      P("When the remaining documents are confirmed and the Respondent has responded, the primary facts will be settled. "
-       "What will remain is the application of the law to those facts, and the medical evidence. The Commission may then "
-       "consider whether the issues can be narrowed, or any of them determined without a full hearing. If the Respondent "
-       "also agrees, I would consent to the appeal being heard and decided on the documentary record under rule 44 of the "
-       "<i>Industrial Relations (Tribunals) Rules 2011</i>, being the admitted facts, the documents whose authenticity is "
-       "admitted or confirmed, and the medical material served, with written submissions, and with any matter that either "
-       "party identifies as requiring oral evidence heard separately. Whether that course is appropriate is a matter for "
-       "the Commission. I would be assisted by any direction the Commission considers appropriate, including as to the "
-       "time for the Respondent's response.", B),
+       "What will remain is the application of the law to those facts, and the medical evidence. Any issue not resolved by "
+       "either course could then be listed for a hearing confined to it. I would be assisted by any direction the "
+       "Commission considers appropriate, including as to the time for the Respondent's response.", B),
 
      P("5. The documents", H),
      P("I have not attached the notices to admit facts and documents of 28 August 2026, Annexure A to them, or the "
@@ -153,16 +157,14 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P(f"<b>WC/2024/227 &ndash; Schedule to the letter of {DATE}: the ten documents that remain to be confirmed</b>", B),
      P("Tab numbers are those of Annexure A to the Appellant's notices of 28 August 2026. Fact numbers are those of the "
        "Form 24 notice as answered on 8 September 2026. \"SOFC\" is the Respondent's amended statement of facts and "
-       "contentions dated 13 May 2026.", N),
+       "contentions dated 13 May 2026. The 29 other documents annexed to the notices have been admitted (8 September 2026) "
+       "or confirmed (24 September 2026: Tabs 6, 20, 30 and 30A).", N),
      Spacer(1, 1*mm),
      P("<b>Part A &ndash; the nine documents the Respondent has asked Metro South Health to provide (24 September 2026)</b>", N),
      table(A, widths),
      Spacer(1, 4*mm),
      KeepTogether([P("<b>Part B &ndash; the one document whose authenticity remains disputed and is not sought from Metro South Health</b>", N),
                    table(Bp, widths)]),
-     Spacer(1, 4*mm),
-     P("The 29 other documents annexed to the notices have been admitted (8 September 2026) or confirmed "
-       "(24 September 2026: Tabs 6, 20, 30 and 30A).", N),
 ]
 
 buf = io.BytesIO()
