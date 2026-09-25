@@ -42,7 +42,7 @@ CLOSE = [["", "Matter", "What would close it"],
  ["C", "The medical evidence",
   "The Respondent to indicate whether it requires Dr Krishnaiah and Dr Hawes to attend for cross-examination"],
  ["D", "SOFC [27]: the management action said to be reasonable",
-  "The Respondent to identify the action or actions relied on. Fact 303 admits that SOFC [27] does not identify them"],
+  "The Respondent to state its settled position on each admitted action listed in section 5. Fact 303 admits that SOFC [27] does not identify them"],
 ]
 
 Q = [["", "Question for the Respondent", "The admitted record"],
@@ -156,6 +156,22 @@ Q2 = [["", "Question for the Respondent", "The admitted record"],
   "solely via email or verbally\" (fact 267)"],
 ]
 
+RMA = [["", "Action (admitted facts)", "Management action? (yes / no)", "Reasonable and taken in a reasonable way? (yes / no)"],
+ ["A", "Removal of database access from all Switchboard staff, and of the \"Contact & Number Changes\" book, "
+       "18 July 2023, without restoration alleged (facts 40, 45, 55)", "", ""],
+ ["B", "Changes routed only through Ms Stibbard or Ms Taylor, with after-hours requests to \"wait until either Chloe or "
+       "myself are back\" (facts 41 to 44)", "", ""],
+ ["C", "The after-hours on-call process \"effective from today\", 15 April 2024 (facts 49 to 52, 180, 181)", "", ""],
+ ["D", "The response to the MASPER Registrar's reports of 3 and 8 May 2024 (facts 56 to 69)", "", ""],
+ ["E", "The response to the Integrated Respiratory Service, 15 to 20 May 2024 (facts 89 to 110)", "", ""],
+ ["F", "Removal of the Communication Book entry, June 2023 (facts 143 to 147)", "", ""],
+ ["G", "The rostering of 17 and 18 March 2024 with a seven-hour break. The Respondent's review decision found it "
+       "\"unreasonable management action\" (facts 226, 258 to 260)", "", ""],
+ ["H", "The two declines of the Special Pandemic Leave application, February 2024 (facts 116 to 123, 127 to 131; SOFC [14])", "", ""],
+ ["I", "The timing of the AVAC corrections, 3 to 28 May 2024 (facts 183 to 197, 297)", "", ""],
+ ["J", "The request of 15 May 2024 that the Appellant retract his email (facts 74 to 79)", "", ""],
+]
+
 RESP = [["Q", "Matter", "Respondent's position"],
  ["1", "Directives issued without consultation or assessment (SOFC [11])", ""],
  ["2", "Application of the 2020 eight-hour agreement to 17 and 18 March 2024 (SOFC [22(e)])", ""],
@@ -175,8 +191,8 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      P("<b>Appellant's conference paper</b> &nbsp;|&nbsp; Second conference under section 552A of the <i>Industrial "
        f"Relations Act 2016</i> &nbsp;|&nbsp; Provided to the Respondent on {DATE}", B),
      P("This paper is provided to the Respondent for the purposes of the conference. The Appellant asks the Respondent to "
-       "indicate its position on each question in section 3 and section 4, using the response schedule at section 5, "
-       "before the conference. Fact numbers are those of the Appellant's notice to "
+       "indicate, before the conference, its position on each question in sections 3 and 4 (using the response schedule "
+       "at section 6) and its settled position on each action listed in section 5. Fact numbers are those of the Appellant's notice to "
        "admit facts of 28 August 2026, as answered by the Respondent on 8 September 2026. Tab numbers are those of "
        "Annexure A to that notice. \"SOFC\" is the Respondent's amended statement of facts and contentions dated "
        "13 May 2026.", N),
@@ -213,13 +229,22 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      table(Q2, [8*mm, 62*mm, W - 70*mm]),
      Spacer(1, 3*mm),
 
-     KeepTogether([P("5. Response schedule for the Respondent", H),
+     KeepTogether([P("5. The Respondent's settled position under section 32(5)", H),
+       P("SOFC [27] contends that any management action involved in the causation of any injury was reasonable management "
+         "action taken in a reasonable way. It does not identify the action relied on (fact 303). As particulars of that "
+         "contention, the Respondent is asked to state its settled position on each action below: whether it says the "
+         "action was management action, and, if so, whether it says the action was reasonable and taken in a reasonable "
+         "way. Where the answer is yes to both, the Respondent is asked to identify the facts relied on.", B),
+       table(RMA, [8*mm, W - 8*mm - 30*mm - 36*mm, 30*mm, 36*mm])]),
+     Spacer(1, 3*mm),
+
+     KeepTogether([P("6. Response schedule for the Respondent", H),
        P("For each question, the Respondent is asked to indicate whether the position is maintained or not maintained or, "
          "for question 10, to answer it. A matter not maintained can be recorded at the conference as no longer in issue.", B),
        table(RESP, [10*mm, 88*mm, W - 98*mm])]),
      Spacer(1, 3*mm),
      KeepTogether([
-       P("6. The Appellant's position", H),
+       P("7. The Appellant's position", H),
        P("On the admitted record, the Appellant considers that the primary facts are settled and that the matters "
          "remaining are the application of the law to those facts and the medical evidence. The Appellant invites "
          "the Respondent to consider its position on the admitted record. Where a position is maintained, the "
