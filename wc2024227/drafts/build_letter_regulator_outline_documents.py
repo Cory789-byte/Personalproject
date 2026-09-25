@@ -77,8 +77,9 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P("(m)&nbsp;&nbsp;the review of the Appellant's pay for the fortnight including 30 March 2024 referred to in Ms Earl's "
        "outline, and the record of its correction;", L),
      P("(n)&nbsp;&nbsp;the roster from which Ms Earl's outline states the break of 17 to 18 March 2024, and every version of "
-       "the Switchboard roster for 18 to 31 March 2024 (PP21), with the date each version was published and by whom it "
-       "was prepared; and", L),
+       "the Switchboard roster for 18 to 31 March 2024 (PP21), including the roster for 4 to 31 March 2024 attached to "
+       "the employer's response to WorkCover of 6 September 2024 (your List of Documents, item 31), with the date each "
+       "version was published and by whom it was prepared; and", L),
      P("(o)&nbsp;&nbsp;the review of the attachment history of leave request 15480560 referred to in Ms Earl's outline.", L),
 
      P("C. The documents still to be confirmed (your email of 24 September 2026)", H),
