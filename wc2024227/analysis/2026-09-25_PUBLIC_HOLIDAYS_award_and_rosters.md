@@ -162,3 +162,30 @@ Temp = temporary. "—" = not rostered that day.
 - A "PP21 v2.0" is referred to in another session's analysis (30 March blank; Good Friday and Easter Sunday shown).
   Not in this repo. If it exists, the published **v1.0** left him off and a later version shows him rostered off
   Easter Saturday. Obtain it before saying the roster never showed him.
+
+## 7. 2025–26: full-time line rotation compared (parsed from the text-layer rosters)
+
+Source: `documents/rosters/2025-26_published/PP01–PP21` (9 Jun 2025 – 29 Mar 2026; PP05 missing) plus PP23 v2(b)
+and PP24 v2 (13 Apr – 10 May 2026). Parsed by cell position (scratch `rparse.py`). Easter 2026 (PP22) is **not** held.
+Counts use the majority-of-shift rule (a 22:00 or 23:00 start counts on the next day). Full-time rows only.
+
+| FT employee | Fortnights | Shifts | Weekend shifts | Nights | PH shifts |
+|---|---|---|---|---|---|
+| **Shepherd** | 22 | 188 | 53 (0.28 per shift) | **43** | 3 |
+| De Iacovo | 22 | 202 | 55 (0.27) | 40 | 2 |
+| Conaghan | 22 | 197 | 54 (0.27) | 34 | 4 |
+| Jeffrey | 21 | 185 | 46 (0.25) | 42 | 5 |
+| Abbott | 20 | 182 | 50 (0.27) | 39 | 4 |
+| Court | 20 | 159 | 40 (0.25) | 22 | 1 |
+
+Public holidays, Shepherd: King's Birthday 6 Oct 2025 off (night starting 6 Oct counts as 7 Oct); **Christmas 2025
+worked** (0600–1400); Boxing Day off (night counts as 27th); New Year off; **Australia Day 2026 worked**; Anzac Day 2026
+(Sat) off; **Labour Day 2026 worked**.
+
+**Reading:** under the 2025–26 line-rotation roster (the outcome of the November–December 2024 consultation, Tabs 22,
+23), weekend, night and public holiday shifts are spread **broadly evenly** across the full-time lines, and the
+Appellant's share is at or above the average (the most nights). **The 2024 pattern (Easter Saturday; the missing PP21
+line) is not repeated in the 2025–26 rosters held.** That supports the 2024 point by contrast: once rosters rotated by
+fixed line, the disparity did not recur. Nothing here supports saying the rostering disparity was "ongoing" into 2025.
+What continued in 2025–26 is a separate matter (pay processing and exclusion, employment track, 2026), not roster
+allocation. Keep the two apart.
