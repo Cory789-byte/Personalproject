@@ -229,3 +229,14 @@ battleground.**
 
 **Levers now:** (1) narrow s 32(5) at the conference (action by action; rule 48); (2) prepare the doctors on the history
 point, so it is addressed in chief rather than first raised in cross; (3) documents closing the fatigue and pay points.
+
+---
+
+## Addendum 2 (same day): Dwyer's own reasoning applied
+
+See `2026-09-25_DWYER_OWN_REASONING_applied_to_the_record_now.md`. The hearing stays at 59%, because a different
+Member hears it. The chance of a concession at a second conference Dwyer chairs rises to 30–40%, given his own
+test ("if you say something and it's not contradicted… it will be accepted" [14:49]; "a problem for them, not for
+you" [28:04]) and the Regulator holding the psychiatrist's report (its LOD items 9–10, obtained under its Form 29
+of 4 Jul 2025) with no contrary evidence. **Overall favourable ≈ 71–75%.** Correction: the onus on s 32(5) stays
+with the appellant (Grace [2021] QIRC 285; Du Preez [2020] QIRC 109 [6]). The McCool point is an analogy only.
