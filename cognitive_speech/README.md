@@ -8,4 +8,3 @@ into the WC track). Descriptive speech measures only, from machine transcripts.
 - `deep_analysis.py`: response timing, situational awareness, arousal (pitch/loudness vs own baseline), recall markers.
 - `build_interview_segs.py`: joins the interview transcript to the existing diarised acoustic segments.
 - `mention_*.json`: outputs for the 7 Aug 2026 mention.
-EOF
