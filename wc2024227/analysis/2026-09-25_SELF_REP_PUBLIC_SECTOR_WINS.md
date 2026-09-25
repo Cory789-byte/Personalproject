@@ -67,3 +67,21 @@ verbatim). Added as found.
 - **Lesson:** (1) whole-course argument beats "last straw only"; (2) treating GP + psychiatrist + an independent
   co-worker; (3) a psychiatrist tested on history and holding firm; (4) the Commission will make room for a
   self-represented party's procedural misstep where fairness requires.
+
+## Search result and synthesis
+- **Method (research agent):** every published QIRC decision 2015–2026 on queenslandjudgments.com.au checked
+  (~3,500 pages); ~390 Regulator matters; ~45 with a self-represented appellant. 2013–2014 (PDF-only) not checked.
+- **Result:** only **2 appellant wins** meet all criteria (Cockburn, Maher) plus **1 related** (Giles, as
+  second respondent). Most self-represented matters were dismissed or were interlocutory/costs/r 45 decisions.
+  Self-represented losses include Corney, Witcherley, Pringle, Du Preez, Neale and others (employers not all checked).
+- **Common features of the wins:**
+  1. Medical evidence from a treating or independent doctor, called or tendered (or injury conceded).
+  2. Winning stressors were **documented process failures or objective workload facts**, not general "bullying".
+  3. The employer's **own documents and rules** used against it.
+  4. Adverse credibility findings on some points did not sink the case.
+  5. Members accommodated procedure (reopening; narrowing by agreement) but applied the same substantive standard.
+  6. "Mere blemish" / "IME says it resolved" defences failed against records.
+  7. Costs followed the event for the self-represented winners.
+- **Lessons for WC/2024/227:** narrow the case; map each stressor to the employer's own standard (10-hour break,
+  the agreement's 8, FRMS, Directive 01/20, role description); call the treating doctors and prepare them on
+  history; use the employer's own notes and records; independent co-worker support; don't overstate.
