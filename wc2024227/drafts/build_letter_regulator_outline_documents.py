@@ -70,7 +70,7 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
 
      Spacer(1, 1*mm),
      P("If any of these documents is not held, or has already been disclosed, I would be grateful to be told so, "
-       "identifying the disclosure. My letter to the Registry of today's date refers to this request.", B),
+       "identifying the disclosure.", B),
      KeepTogether([P("Yours faithfully,", B), Spacer(1, 1*mm), SIG(), Spacer(1, 1*mm),
                    P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B)]),
      ]

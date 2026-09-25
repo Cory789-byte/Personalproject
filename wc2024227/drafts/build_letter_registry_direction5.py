@@ -10,7 +10,8 @@ from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, Table, TableStyle, PageBreak, KeepTogether
 from reportlab.platypus import Image as RLImage
 
-DATE = sys.argv[1] if len(sys.argv) > 1 else "1 October 2026"
+DATE = sys.argv[1] if len(sys.argv) > 1 else "16 October 2026"   # HELD: rebuild with the real send date once the Regulator responds
+RESPOND_BY = sys.argv[2] if len(sys.argv) > 2 else "30 October 2026"
 from datetime import datetime as _dt
 EXPIRED = _dt.strptime(DATE, "%d %B %Y") >= _dt(2026, 9, 30)  # send only after 4.00 pm if dated 30 September
 
@@ -105,7 +106,7 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "those facts; and a schedule asking the Respondent to state its settled position under section 32(5) of the "
        "<i>Workers' Compensation and Rehabilitation Act 2003</i>, on each action and on the course of conduct, as particulars "
        "of paragraph 27 of its amended statement of facts and contentions. The Respondent admits that paragraph 27 does not "
-       "identify the management action relied on (fact 303). I have asked the Respondent to respond by 15 October 2026. The "
+       "identify the management action relied on (fact 303). I have asked the Respondent to respond by " + RESPOND_BY + ". The "
        "paper contains no submission.", B),
 
      P("4. How the matter should proceed", H),
@@ -123,8 +124,7 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "and contentions; and", L),
      P("(e)&nbsp;&nbsp;the production of documents referred to in the Respondent's outlines of evidence, to the extent "
        "not already disclosed, including the Technical Support advice referred to by Ms Wright and the email of 15 May "
-       "2024 at 4:12 pm referred to by Ms Reese. I have requested these from the Respondent by a separate letter of today's "
-       "date.", L),
+       "2024 at 4:12 pm referred to by Ms Reese. I requested these from the Respondent by letter of 1 October 2026.", L),
      Spacer(1, 1.5*mm),
      P("When the remaining documents are confirmed and the Respondent has responded, the primary facts will be settled. "
        "What will remain is the application of the law to those facts, and the medical evidence. The Commission may then "
@@ -170,4 +170,4 @@ with pdf.open_metadata(set_pikepdf_as_editor=False) as m: m.clear()
 try: del pdf.Root.Metadata
 except (AttributeError, KeyError): pass
 for k in list(pdf.docinfo.keys()): del pdf.docinfo[k]
-out = "out/LETTER_TO_REGISTRY_direction5.pdf"; pdf.save(out, linearize=True); print("built", out, n, "page(s)")
+out = "out/HELD_UNTIL_REGULATOR_RESPONSE/LETTER_TO_REGISTRY_direction5.pdf"; pdf.save(out, linearize=True); print("built", out, n, "page(s)")

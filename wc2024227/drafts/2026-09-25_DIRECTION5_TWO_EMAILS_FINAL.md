@@ -1,4 +1,4 @@
-# ⭐ SUPERSEDED FOR SENDING by `out/SEND_DIRECTION5_1OCT2026/` (three PDFs, two emails in .txt). Kept for history.
+# ⭐ SUPERSEDED. Sequence decided 25 Sep 2026: on 1 Oct send ONLY the request letter to the Regulator (`out/SEND_DIRECTION5_1OCT2026/`). The Registry letter and paper are HELD in `out/HELD_UNTIL_REGULATOR_RESPONSE/` until the Regulator responds (due 15 Oct). Kept for history.
 
 # DIRECTION 5: ONE EMAIL, BOTH DOCUMENTS (letter + the admitted record and questions), TO THE COMMISSION AND THE RESPONDENT (FINAL, NOT SENT)
 

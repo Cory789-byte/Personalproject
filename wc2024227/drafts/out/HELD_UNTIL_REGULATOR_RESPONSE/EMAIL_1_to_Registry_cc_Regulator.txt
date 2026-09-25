@@ -1,7 +1,15 @@
-SEND: morning of Thursday 1 October 2026, within Registry business hours. Send EMAIL 1 first, then EMAIL 2.
-BEFORE SENDING: check the inbox for anything from the Regulator, OIR, the Registry or Metro South Health
-since 24 September. If an expert or medical report has arrived, DO NOT SEND: the letter and paper both say
-none was served. If anything else new has arrived, re-check the documents first.
+HELD. Send only after the Regulator has responded to the letter of 1 October 2026 (response due
+Thursday 15 October 2026), or once that date has passed without a response.
+
+BEFORE SENDING:
+1. Tell Claude what the Regulator's response says (or that none came). The letter's section 4, item (e),
+   and the paper's row E must be updated to record the response before sending.
+2. Rebuild both PDFs with the real send date and a response date about 14 days later, for example:
+     python3 build_letter_registry_direction5.py "16 October 2026" "30 October 2026"
+     python3 build_conference_paper.py "16 October 2026" "30 October 2026"
+3. Replace [RESPOND BY] below with that same response date.
+4. Check the inbox for any expert or medical report. If one has arrived, do NOT send: both documents
+   say none was served.
 
 TO:      qirc.registry@qirc.qld.gov.au
 CC:      Renee.Matheson@oir.qld.gov.au
@@ -17,7 +25,7 @@ paper referred to in it, setting out the admitted record and questions for the R
 
 The Respondent is copied to this email, and by this email I provide the paper to the Respondent. I
 would be grateful if the Respondent could indicate its position on the questions in the paper, and its
-settled position under section 32(5) at section 6, by 15 October 2026.
+settled position under section 32(5) at section 6, by [RESPOND BY].
 
 Yours faithfully,
 
