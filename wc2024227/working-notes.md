@@ -7794,3 +7794,6 @@ See `skill/references/ROSTER-PACK-LINE-AUDIT-25SEP2026.md`. Shepherd is on 33 of
 
 ## 25 Sep 2026 — public holiday outline v Award/EB11
 See `skill/references/PUBLIC-HOLIDAY-OUTLINE-v-AWARD-EB11-25SEP2026.md`. Award cl 23 opened at source: 23(h) "shall be paid" (the 23 Aug caution is closed). "Discretionary" conflicts with the Award and with MSH's own 6 Sep 2024 letter ("in accordance with clause 23"). Quantum concede; 2023 claim do not press. Payroll 3 May 2024 (Grant): fortnight 18.03.24 "one of the shifts needs to be overtime", which differs from Earl's explanation. Wright's fatigue advice is wrong on cl 15.1(d) but right that no payment attaches.
+
+## 25 Sep 2026 — CORRECTION: Emily Petering WAS his assigned industrial officer
+Cory's instruction. The 3 Sep entry ("triage, not an assigned industrial officer"; "no industrial officer has ever been identified") is WRONG and is superseded. CLAUDE.md already recorded Petering as industrial officer. ⇒ The problem was never who has carriage. It is that the assigned industrial officer has given no view on the exclusion, the pay or the dismissal risk, and that Member Assist's 3 Sep reply was a WPSS welfare referral. The next union ask goes to Emily by name: her view and next step on the exclusion since 3 Jul, and a Hall Payne referral. If she is no longer assigned ("was"), ask who replaced her.
