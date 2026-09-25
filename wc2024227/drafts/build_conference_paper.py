@@ -43,7 +43,7 @@ CLOSE = [["", "Matter", "What would close it"],
  ["C", "The medical evidence",
   "The Respondent to indicate whether it requires Dr Krishnaiah and Dr Hawes to attend for cross-examination"],
  ["D", "SOFC [27]: the management action said to be reasonable",
-  "The Respondent to state its settled position on each admitted action listed in section 6. Fact 303 admits that SOFC [27] does not identify them"],
+  "The Respondent to state its settled position on each admitted action listed in section 7. Fact 303 admits that SOFC [27] does not identify them"],
 ]
 
 QA = [["", "Question for the Respondent", "The admitted record"],
@@ -63,13 +63,7 @@ QA = [["", "Question for the Respondent", "The admitted record"],
   "Ms Taylor's email of 23 August 2023, \"What's Chloe's Hours?!\": start \"between 6-9am\", finish \"2-5pm\" "
   "(facts 71, 72; Tab 30, confirmed). No fixed hours stated to May 2024 (fact 73). Ms Reese, 21 May 2024: \"I will "
   "follow up on the issues raised\" (fact 79). Ms Taylor published her hours on 17 May 2024 (facts 81 to 84)"],
- ["4", "Who exercised the delegated power to decide the Special Pandemic Leave application, process 15480560?",
-  "SOFC [14] states the attachments were present. Ms Taylor had noted the statutory declaration \"was sufficient "
-  "evidence\" (fact 138) and declined the application twice (facts 116, 118, 123). It was approved by Ms Taylor as "
-  "reviewer on 29 February and Ms Reese as manager on 1 March 2024 (facts 120, 121). The power was sub-delegated to "
-  "Band 9 and could not be sub-delegated further (facts 127, 128); it is not alleged that Ms Taylor or Ms Reese held "
-  "it (facts 129 to 131)"],
- ["5", "Does the Respondent maintain that pay errors were \"remedied in a timely manner\" and that there are no "
+ ["4", "Does the Respondent maintain that pay errors were \"remedied in a timely manner\" and that there are no "
        "outstanding underpayments (SOFC [20(c)], [20(f)]; outline of Ms Wright)?",
   "Payroll asked the line manager for AVACs on 3 May 2024 (facts 183 to 190). On 13 May payroll could not see that any "
   "had been corrected (facts 192, 193). The AVAC was submitted on 28 May 2024 (fact 297), with claims \"older than 3 "
@@ -126,19 +120,59 @@ RESTRICT = [["When", "What the admitted record shows", "Facts"],
 ]
 
 QB = [["", "Question for the Respondent", "The admitted record"],
- ["6", "Does the Respondent maintain its non-admission of Stressor 1(a) (SOFC [11])?",
+ ["5", "Does the Respondent maintain its non-admission of Stressor 1(a) (SOFC [11])?",
   "Sections 4.1 to 4.3, every entry admitted. The duties to maintain the database (fact 6) and to distribute emergency "
   "notifications \"strictly adhering to protocols and timeframes\" (fact 8) fell to be performed after database access "
   "was removed on 18 July 2023 (fact 40), and the Respondent does not allege it was restored (fact 55)"],
- ["7", "What action does the Respondent say was taken on the reports of 3, 8, 15 and 20 May 2024 before the Appellant's "
+ ["6", "What action does the Respondent say was taken on the reports of 3, 8, 15 and 20 May 2024 before the Appellant's "
        "email of 20 May 2024 at 2:05 pm, and what document records it?",
   "No communication to staff is alleged before 9 May at 10:15 am (fact 69). No response to either Integrated Respiratory "
   "Service email is alleged before the Appellant's escalation (facts 90, 93). No document of the 20 May discussion is "
   "listed (fact 105)"],
- ["8", "Does the Respondent rely on Metro South Health's statement that there were \"no 'consequential' changes to "
+ ["7", "Does the Respondent rely on Metro South Health's statement that there were \"no 'consequential' changes to "
        "operating procedures\" (fact 266)?",
   "New processes of 15 April (facts 49 to 53), 19 April (fact 54) and 9 May 2024 (fact 66). Complaints were \"managed "
   "solely via email or verbally\" (fact 267)"],
+]
+
+SPL = [["When", "What the admitted record shows", "Facts", "Interval"],
+ ["20 Feb 2024", "<b>Request 1.</b> The Appellant tells Ms Taylor he has tested positive for Covid; she asks him to send it to her "
+  "\"so she could submit it in MyHR\". The Respondent pleads that Ms Taylor asked him to submit a Special Pandemic Leave request "
+  "through myHR, attaching a statutory declaration or photo of his test", "136; 132", ""],
+ ["20 Feb, 11:24 to 11:41 am", "<b>Request 2 (myHR submission 1).</b> Draft created and submitted, with the supporting attachment",
+  "114, 115; 134", ""],
+ ["21 Feb, 12:23 pm", "Ms Taylor, as \"Reviewer\", declines it. Her message: the minimum period for Covid leave was 5 days; the "
+  "statutory declaration \"was sufficient evidence\"; resubmit", "116, 137, 138", "1 day 42 min after submission"],
+ ["28 Feb, 6:07 am", "<b>Request 3 (myHR submission 2).</b> The Appellant resubmits", "117", "6 days 17 h 44 min after the first decline"],
+ ["29 Feb, 9:06 am", "Ms Taylor declines it again, on her assessment that the statutory declaration was not attached. A review "
+  "shows the attachments were present. The Appellant messages that he is confused and did everything as required",
+  "118, 133, 134, 139", "1 day 2 h 59 min after resubmission"],
+ ["29 Feb, 11:07 am", "<b>Request 4 (myHR submission 3).</b> The Appellant resubmits", "119", "2 h 1 min after the second decline"],
+ ["29 Feb, 11:21 am", "Ms Taylor approves it as \"Reviewer\"", "120, 124", "13 min 35 s after resubmission"],
+ ["1 Mar 2024, 4:05 pm", "Ms Reese approves it as \"Manager\"", "121", "1 day 4 h 44 min later"],
+ ["Overall", "Four requests, three myHR submissions, two declines by Ms Taylor, then approval", "122, 123, 125",
+  "10 days 4 h 40 min 20 s from draft to approval"],
+ ["The power", "Sub-delegated to a Band 9 delegate, with no further sub-delegation. Neither Ms Taylor nor Ms Reese is alleged to have "
+  "held it; the person who exercised it is not identified", "127 to 131", ""],
+ ["Others", "No other Switchboard employee is alleged to have been required to submit a Special Pandemic Leave request personally "
+  "through myHR in February 2024", "142", ""],
+ ["The Respondent's case", "The second decline was \"a matter of human error by Ms Taylor on the background of high work demands\" "
+  "(SOFC [14(f)])", "135", ""],
+]
+
+QD = [["", "Question for the Respondent", "The admitted record"],
+ ["8", "Who exercised the delegated power to decide the Special Pandemic Leave application, process 15480560?",
+  "SOFC [14] states the attachments were present. Ms Taylor had noted the statutory declaration \"was sufficient "
+  "evidence\" (fact 138) and declined the application twice (facts 116, 118, 123). It was approved by Ms Taylor as "
+  "reviewer on 29 February and Ms Reese as manager on 1 March 2024 (facts 120, 121). The power was sub-delegated to "
+  "Band 9 and could not be sub-delegated further (facts 127, 128); it is not alleged that Ms Taylor or Ms Reese held "
+  "it (facts 129 to 131)"],
+ ["9", "Does the Respondent maintain that the handling of the application from 20 February to 1 March 2024, taken as a whole, "
+       "was not unreasonable management action (SOFC [14])?",
+  "Four requests and three myHR submissions of the same application. Two declines, the second on a ground the Respondent accepts "
+  "was wrong: the attachments were present (fact 134), and Ms Taylor had already said the statutory declaration was sufficient "
+  "(fact 138). The third submission was approved in 13 minutes 35 seconds (fact 124). The whole took 10 days 4 hours 40 minutes "
+  "(fact 125). The power was not alleged to be held by either person who acted on it (facts 127 to 131)"],
 ]
 
 S3_AGREE = [["When", "What the admitted record shows", "Facts"],
@@ -205,21 +239,21 @@ S3_RESP = [["When", "What the admitted record shows", "Facts", "Interval"],
 ]
 
 QC = [["", "Question for the Respondent", "The admitted record"],
- ["9", "Does the Respondent maintain that the 2020 eight-hour agreement applied to the shifts of 17 and 18 March 2024 "
+ ["10", "Does the Respondent maintain that the 2020 eight-hour agreement applied to the shifts of 17 and 18 March 2024 "
        "(SOFC [22(e)]; outlines of Ms Taylor, Ms Reese and Ms Wright)?",
-  "Section 5.1. No swap is alleged (fact 234); Human Resources limits the agreement to staff-initiated swaps (fact 225). "
+  "Section 6.1. No swap is alleged (fact 234); Human Resources limits the agreement to staff-initiated swaps (fact 225). "
   "The break was seven hours, less than eight on any view (facts 258, 259, 284)"],
- ["10", "Does the Respondent maintain that the break was \"not intentional or repeated\" in the sense that no other "
+ ["11", "Does the Respondent maintain that the break was \"not intentional or repeated\" in the sense that no other "
         "rostering error affected the Appellant (SOFC [22(a)]; outline of Ms Taylor)?",
   "Ms Reese, 7 August 2023: \"a rostering error that was accidentally made by Chloe with regards to night shifts\" (fact 287). "
   "Ms Taylor, 7 August 2023: \"this was an oversight\" (fact 156). Ms Reese, 26 April 2024: Ms Taylor \"was working to fix "
   "this error\" (facts 211, 212). Ms Reese to Human Resources, 10 May 2024: \"I acknowledge there has been a few rostering "
   "errors made by Chloe with regards to Cory's line in past rosters\" (fact 220)"],
- ["11", "On what basis does the Respondent say the fatigue payment for 18 March 2024 was declined: the 2020 agreement, or "
+ ["12", "On what basis does the Respondent say the fatigue payment for 18 March 2024 was declined: the 2020 agreement, or "
         "clause 18.10 of the Award?",
   "The reason given on 1 May 2024 was \"the existing 8-hour agreement\" (fact 247). SOFC [24(b)] pleads clause 18.10, "
   "\"because he was not performing overtime\" (fact 237)"],
- ["12", "Which management action does the Respondent say was reasonable in respect of the break, the 23-day response, and "
+ ["13", "Which management action does the Respondent say was reasonable in respect of the break, the 23-day response, and "
         "the advice that the agreement could be terminated \"going forward\"?",
   "The Review Unit found the rostering \"unreasonable management action\" (fact 260). Payroll's advice, in the outline of "
   "Ms Wright: \"a rostering practice issue for the line manager\". SOFC [27] identifies no action (fact 303)"],
@@ -238,7 +272,8 @@ RMA = [["", "Action (admitted facts)", "Management action? (yes / no)", "Reasona
        "\"unreasonable management action\" (facts 226, 258 to 260, 284)", "", ""],
  ["H", "The response of 1 May 2024 declining the fatigue payment, 23 days after the request, and the advice that the "
        "agreement could be terminated \"going forward\" (facts 242 to 250)", "", ""],
- ["I", "The two declines of the Special Pandemic Leave application, February 2024 (facts 116 to 123, 127 to 131; SOFC [14])", "", ""],
+ ["I", "The handling of the Special Pandemic Leave application from 20 February to 1 March 2024, taken as a whole: four requests, "
+       "three myHR submissions, two declines, approval after 10 days 4 hours 40 minutes (facts 114 to 142; SOFC [14])", "", ""],
  ["J", "The timing of the AVAC corrections, 3 to 28 May 2024 (facts 183 to 197, 297)", "", ""],
  ["K", "The request of 15 May 2024 that the Appellant retract his email (facts 74 to 79)", "", ""],
 ]
@@ -247,24 +282,26 @@ RESP = [["Q", "Matter", "Respondent's position"],
  ["1", "Directives issued without consultation or assessment (SOFC [11])", ""],
  ["2", "The on-call notification process, 13 to 15 May 2024 (SOFC [16(b)])", ""],
  ["3", "The Appellant's email of 15 May 2024 as an accusation (outline of Ms Reese)", ""],
- ["4", "The delegate who decided the Special Pandemic Leave application (SOFC [14])", ""],
- ["5", "Pay errors \"remedied in a timely manner\"; no outstanding underpayments (SOFC [20])", ""],
- ["6", "Non-admission of Stressor 1(a) (SOFC [11])", ""],
- ["7", "Action taken on the reports of 3, 8, 15 and 20 May 2024 before 2:05 pm on 20 May, and the document recording it", ""],
- ["8", "Reliance on \"no 'consequential' changes to operating procedures\" (fact 266)", ""],
- ["9", "Application of the 2020 eight-hour agreement to 17 and 18 March 2024 (SOFC [22(e)])", ""],
- ["10", "The break as \"not intentional or repeated\" (SOFC [22(a)])", ""],
- ["11", "The basis on which the fatigue payment was declined: the agreement or clause 18.10 (SOFC [24(b)])", ""],
- ["12", "The management action said to be reasonable in Stressor 3 (SOFC [27])", ""],
+ ["4", "Pay errors \"remedied in a timely manner\"; no outstanding underpayments (SOFC [20])", ""],
+ ["5", "Non-admission of Stressor 1(a) (SOFC [11])", ""],
+ ["6", "Action taken on the reports of 3, 8, 15 and 20 May 2024 before 2:05 pm on 20 May, and the document recording it", ""],
+ ["7", "Reliance on \"no 'consequential' changes to operating procedures\" (fact 266)", ""],
+ ["8", "The delegate who decided the Special Pandemic Leave application (SOFC [14])", ""],
+ ["9", "The Special Pandemic Leave sequence, taken as a whole, as not unreasonable management action (SOFC [14])", ""],
+ ["10", "Application of the 2020 eight-hour agreement to 17 and 18 March 2024 (SOFC [22(e)])", ""],
+ ["11", "The break as \"not intentional or repeated\" (SOFC [22(a)])", ""],
+ ["12", "The basis on which the fatigue payment was declined: the agreement or clause 18.10 (SOFC [24(b)])", ""],
+ ["13", "The management action said to be reasonable in Stressor 3 (SOFC [27])", ""],
 ]
+
 
 s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      P("WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator", T),
      P("<b>Appellant's conference paper</b> &nbsp;|&nbsp; Second conference under section 552A of the <i>Industrial "
        f"Relations Act 2016</i> &nbsp;|&nbsp; Provided to the Respondent on {DATE}", B),
      P("This paper is provided to the Respondent for the purposes of the conference. The Appellant asks the Respondent to "
-       "indicate, before the conference, its position on each question in sections 3, 4 and 5 (using the response schedule "
-       "at section 7) and its settled position on each action listed in section 6. Fact numbers are those of the "
+       "indicate, before the conference, its position on each question in sections 3 to 6 (using the response schedule "
+       "at section 8) and its settled position on each action listed in section 7. Fact numbers are those of the "
        "Appellant's notice to admit facts of 28 August 2026, as answered by the Respondent on 8 September 2026. Tab "
        "numbers are those of Annexure A to that notice. \"SOFC\" is the Respondent's amended statement of facts and "
        "contentions dated 13 May 2026.", N),
@@ -301,24 +338,32 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
      table(QB, [8*mm, 62*mm, W - 70*mm]),
      Spacer(1, 3*mm),
 
-     P("5. Stressor 3: the break of 17 to 18 March 2024, as one sequence", H),
+     P("5. Stressor 1(d): the Special Pandemic Leave application, as one sequence", H),
+     P("The myHR history (Tab 28), the Respondent's review decision (Tab 25) and the Respondent's pleading together record the "
+       "whole sequence. Every entry below is admitted.", B),
+     table(SPL, [26*mm, W - 26*mm - 24*mm - 34*mm, 24*mm, 34*mm]),
+     Spacer(1, 3*mm),
+     table(QD, [8*mm, 62*mm, W - 70*mm]),
+     Spacer(1, 3*mm),
+
+     P("6. Stressor 3: the break of 17 to 18 March 2024, as one sequence", H),
      P("The seven-hour break is admitted by both parties (facts 226, 284). The sequence around it, from the agreement relied "
        "on to the response to the Appellant's request, is set out below. The emergency codes are shown from Tab 31, the "
        "Appellant's capture of Metro South Health's \"2024 Emergency Code Register\". Facts 228 to 230 are not admitted; Metro "
        "South Health states that the MET call spreadsheet for 17 and 18 March 2024 is available (fact 268), and its "
        "production would settle them. The entries on the Appellant's address, the drive and the roadworks are the Appellant's "
        "material; the address is taken from pay advices in the Respondent's own disclosure.", B),
-     P("<b>5.1 The rule and the agreement</b>", SH), table(S3_AGREE, [28*mm, W - 28*mm - 26*mm, 26*mm]),
+     P("<b>6.1 The rule and the agreement</b>", SH), table(S3_AGREE, [28*mm, W - 28*mm - 26*mm, 26*mm]),
      Spacer(1, 3*mm),
-     P("<b>5.2 The shift pairing, the emergency calls, and the travel between shifts</b>", SH), table(S3_PAIR, [30*mm, W - 30*mm - 34*mm, 34*mm]),
+     P("<b>6.2 The shift pairing, the emergency calls, and the travel between shifts</b>", SH), table(S3_PAIR, [30*mm, W - 30*mm - 34*mm, 34*mm]),
      Spacer(1, 3*mm),
-     P("<b>5.3 The request, the response, and what followed</b>", SH),
+     P("<b>6.3 The request, the response, and what followed</b>", SH),
      table(S3_RESP, [24*mm, W - 24*mm - 20*mm - 36*mm, 20*mm, 36*mm]),
      Spacer(1, 3*mm),
      table(QC, [8*mm, 62*mm, W - 70*mm]),
      Spacer(1, 3*mm),
 
-     P("6. The Respondent's settled position under section 32(5)", H),
+     P("7. The Respondent's settled position under section 32(5)", H),
        P("SOFC [27] contends that any management action involved in the causation of any injury was reasonable management "
          "action taken in a reasonable way. It does not identify the action relied on (fact 303). As particulars of that "
          "contention, the Respondent is asked to state its settled position on each action below: whether it says the "
@@ -327,15 +372,15 @@ s = [P("QUEENSLAND INDUSTRIAL RELATIONS COMMISSION", N),
        table(RMA, [8*mm, W - 8*mm - 30*mm - 36*mm, 30*mm, 36*mm]),
      Spacer(1, 3*mm),
 
-     P("7. Response schedule for the Respondent", H),
+     P("8. Response schedule for the Respondent", H),
        P("For each question, the Respondent is asked to indicate whether the position is maintained or not maintained or, "
-         "for questions 4, 7, 11 and 12, to answer it. A matter not maintained can be recorded at the conference as no "
+         "for questions 6, 8, 12 and 13, to answer it. A matter not maintained can be recorded at the conference as no "
          "longer in issue.", B),
        table(RESP, [10*mm, 88*mm, W - 98*mm]),
      Spacer(1, 3*mm),
 
      KeepTogether([
-       P("8. The Appellant's position", H),
+       P("9. The Appellant's position", H),
        P("On the admitted record, the Appellant considers that the primary facts are settled and that the matters "
          "remaining are the application of the law to those facts and the medical evidence. The Appellant invites "
          "the Respondent to consider its position on the admitted record. Where a position is maintained, the "
