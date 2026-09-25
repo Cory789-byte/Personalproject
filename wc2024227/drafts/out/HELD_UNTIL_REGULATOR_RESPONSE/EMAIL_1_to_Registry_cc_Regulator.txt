@@ -1,30 +1,29 @@
-HELD FOR THURSDAY 1 OCTOBER 2026 (the Regulator was asked to respond to the letter of 25 September 2026
-by that date).
+HELD FOR THURSDAY 1 OCTOBER 2026 (send after 4.00 pm on 30 September has passed and the Regulator's
+response to the letter of 25 September 2026 has been checked).
 
 BEFORE SENDING:
-1. Tell Claude what the Regulator provided by 1 October (or that nothing came). The letter's item (e),
-   the schedule of documents and the paper's row E are updated to record it before sending.
-2. Rebuild both PDFs (defaults: dated 1 October 2026, Respondent to respond by 15 October 2026):
+1. Tell Claude what the Regulator provided by 1 October (or that nothing came). The letter's
+   section 3, agenda item (e) and the schedule, and the issues paper's rows A and E, are updated first.
+2. Rebuild (defaults: dated 1 October 2026; Respondent invited to respond by 15 October 2026):
      python3 build_letter_registry_direction5.py
-     python3 build_conference_paper.py
-3. Check the inbox for any expert or medical report. If one has arrived, do NOT send: both documents
-   say none was served.
+     python3 build_issues_paper.py
+3. Check the inbox for any expert or medical report, amended witness list or varied directions.
+   If an expert report has arrived, section 1 of the letter must be revised before sending.
+4. Send EMAIL 1 (this one) and EMAIL 2 (to Ms Matheson) together.
 
 TO:      qirc.registry@qirc.qld.gov.au
 CC:      Renee.Matheson@oir.qld.gov.au
-SUBJECT: WC/2024/227 - Shepherd v Workers' Compensation Regulator - direction 5, progressing the matter, and questions for the Respondent
+SUBJECT: WC/2024/227 - Shepherd v Workers' Compensation Regulator - direction 5: request for a second conference
 ATTACH:  LETTER_TO_REGISTRY_direction5.pdf
-         ADMITTED_RECORD_AND_QUESTIONS_for_the_Respondent.pdf
 
 Dear Registrar,
 
 In accordance with direction 5 of the Further Directions Order (3) dated 19 August 2026, I attach my
-letter to progress the matter, with a schedule of the documents that remain to be confirmed, and the
-paper referred to in it, setting out the admitted record and questions for the Respondent.
+letter requesting that the matter be listed for a second conference under section 552A of the
+Workers' Compensation and Rehabilitation Act 2003, with a proposed agenda and a schedule of the
+documents that remain to be confirmed.
 
-The Respondent is copied to this email, and by this email I provide the paper to the Respondent. I
-would be grateful if the Respondent could indicate its position on the questions in the paper, and its
-settled position under section 32(5) at section 6, by 15 October 2026.
+The Respondent is copied to this email.
 
 Yours faithfully,
 

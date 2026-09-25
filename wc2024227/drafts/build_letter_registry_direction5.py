@@ -36,7 +36,7 @@ def table(rows, widths):
                            ('TOPPADDING', (0,0), (-1,-1), 2), ('BOTTOMPADDING', (0,0), (-1,-1), 2)]))
     return t
 
-HDR = ["Tab", "Document", "Held by", "Contents admitted", "Issue in the Respondent's pleading"]
+HDR = ["Tab", "Document", "Held by", "Admitted facts referring to it", "Issue in the Respondent's pleading"]
 A = [HDR,
  ["1", "Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital",
   "Metro South Health. Supplied by it to the Appellant as Attachment 2 to its request for medical information of 31 July 2026 (Mr Hughes)",
@@ -76,85 +76,51 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
      P(f"Dated {DATE}", B),
      Spacer(1, 2*mm),
      P("<b>WC/2024/227 &ndash; Cory Lea Shepherd v Workers' Compensation Regulator</b><br/>"
-       "<b>Direction 5 of the Further Directions Order (3) dated 19 August 2026, and questions for the Respondent</b>", B),
+       "<b>Direction 5 of the Further Directions Order (3) dated 19 August 2026: request for a second conference</b>", B),
      Spacer(1, 1*mm),
      P("Dear Registrar,", B),
 
-     P("1. The directions are complete" if EXPIRED else "1. The directions", H),
-     P("I filed my list of witnesses and served my outlines of evidence on 9 September 2026. The Respondent filed " + (
-       ("its list of witnesses and served its outlines of evidence on 24 September 2026, and the time for its material "
-       "under directions 3 and 4 expired at 4.00 pm on 30 September 2026. In accordance with direction 5, I write to "
-       "progress the matter.") if EXPIRED else ("its list of witnesses and served its outlines of evidence on 24 September 2026, before the time allowed by "
-       "directions 3 and 4 (4.00 pm on 30 September 2026). The material of both parties under directions 1 to 4 having "
-       "been filed and served, I write in accordance with direction 5 to progress the matter.")), B),
+     P("1. The directions", H),
+     P("I filed my list of witnesses and served my outlines of evidence, and my schedule of medical documents relied upon, "
+       "on 9 September 2026. The Respondent filed its list of witnesses and served outlines of evidence for four lay "
+       "witnesses on 24 September 2026." + (" The time for its material under directions 3 and 4 expired at 4.00 pm on "
+       "30 September 2026, and it has not served any expert report." if EXPIRED else ""), B),
 
-     P("2. The facts and documents", H),
+     P("2. Request", H),
+     P("In accordance with direction 5, I ask that the matter be listed for a second conference under section 552A of "
+       "the <i>Workers' Compensation and Rehabilitation Act 2003</i>. I propose the following agenda, for the Commission's "
+       "consideration:", B),
+     P("(a)&nbsp;&nbsp;an agreed list of documents to be tendered without further proof, including the ten documents in "
+       "the attached schedule;", L),
+     P("(b)&nbsp;&nbsp;any facts or documents the parties can agree in writing, so that evidence on them may be dispensed "
+       "with under rule 48 of the <i>Industrial Relations (Tribunals) Rules 2011</i>;", L),
+     P("(c)&nbsp;&nbsp;the management action on which the Respondent relies under section 32(5), identified action by "
+       "action, with the evidence relied on for each;", L),
+     P("(d)&nbsp;&nbsp;the medical evidence: which medical propositions remain in dispute, which reports can be received "
+       "by agreement, and which medical witnesses are required to give oral evidence;", L),
+     P("(e)&nbsp;&nbsp;the documents referred to in the Respondent's outlines of evidence, which I requested from the "
+       "Respondent by letter of 25 September 2026; and", L),
+     P("(f)&nbsp;&nbsp;arrangements for the hearing of the issues that remain, including witnesses and estimated length, "
+       "and whether, if the parties agree, any issue can be decided on agreed documents.", L),
+
+     P("3. The admissions and documents", H),
      P("On 8 September 2026 the Respondent answered my notices to admit facts and documents of 28 August 2026. It "
-       "admitted 298 of the 303 facts. The other five were not admitted, and none was denied. It admitted the "
-       "authenticity of 25 of the 39 documents annexed to the notices.", B),
-     P("On 24 September 2026 the Respondent confirmed the authenticity of four more documents, and it has asked "
-       "Metro South Health for nine others. Twenty-nine of the 39 documents are therefore now admitted or "
-       "confirmed. The ten that remain are listed in the attached schedule. I first raised them with the Respondent by "
-       "letter of 9 September 2026. Each is a record of Metro South "
-       "Health or of the Appellant's union. For every one of them except Tab 31, the contents are already admitted, "
-       "and the only question left is the authenticity of the copy.", B),
-     P(("No admission has been withdrawn. The Respondent has served no medical or expert evidence, and the time for it to "
-       "do so has expired." if EXPIRED else "No admission has been withdrawn. As at the date of this letter, the Respondent has served no medical or expert evidence."), B),
+       "admitted 298 of the 303 facts and the authenticity of 25 of the 39 documents. On 24 September 2026 it confirmed "
+       "four more documents and asked Metro South Health for nine others. The ten that remain are listed in the attached "
+       "schedule. I first raised them with the Respondent by letter of 9 September 2026.", B),
 
-     P("3. The questions for the Respondent", H),
-     P("I enclose a paper that I have today provided to the Respondent. It sets out, stressor by stressor, the facts the "
-       "Respondent has admitted; fifteen questions arising from the Respondent's outlines of evidence, each by reference to "
-       "those facts; and a schedule asking the Respondent to state its settled position under section 32(5) of the "
-       "<i>Workers' Compensation and Rehabilitation Act 2003</i>, on each action and on the course of conduct, as particulars "
-       "of paragraph 27 of its amended statement of facts and contentions. The Respondent admits that paragraph 27 does not "
-       "identify the management action relied on (fact 303). I have asked the Respondent to respond by " + RESPOND_BY + ". The "
-       "paper contains no submission.", B),
-
-     P("4. How the matter should proceed", H),
-     P("In accordance with direction 5, and in the interests of the efficient administration of justice, I set out two "
-       "courses for the Commission's consideration. I leave to the Commission which, if either, is appropriate.", B),
-     P("<b>First</b>, if the Respondent also agrees and the Commission considers it appropriate, the appeal could be heard "
-       "and decided under rule 44 of the <i>Industrial Relations (Tribunals) Rules 2011</i> on the documentary record: the "
-       "admitted facts, the documents whose authenticity is admitted or confirmed, and my schedule of medical documents "
-       "relied upon served on 9 September 2026, with written submissions, and with any matter that either party "
-       "identifies as requiring oral evidence, including the evidence of the medical witnesses, heard separately. The "
-       "Respondent's response to my letter of 25 September 2026 may bear on whether that course is available.", B),
-     P("<b>Otherwise</b>, I ask that the matter proceed to a second conference under section 552A of the "
-       "<i>Workers' Compensation and Rehabilitation Act 2003</i>, to establish what remains in issue and what the "
-       "Respondent still requires to be proved. If the Respondent is able to state its position in writing, the conference "
-       "may be confined to what then remains. I believe the following matters are capable of resolution there, or by "
-       "agreement:", B),
-     P("(a)&nbsp;&nbsp;the ten documents listed in the attached schedule, by agreeing a list of documents to be tendered "
-       "without further proof: the nine in Part A once Metro South Health provides its copies, and Tab 24 in Part B by "
-       "agreement or through Ms Conaghan, a recipient of it;", L),
-     P("(b)&nbsp;&nbsp;facts 228 to 231, on production of the MET call spreadsheet that Metro South Health, in its letter "
-       "of 5 June 2026, states is available;", L),
-     P("(c)&nbsp;&nbsp;whether the Respondent requires the medical witnesses to attend for cross-examination;", L),
-     P("(d)&nbsp;&nbsp;the management action relied on at paragraph 27 of the Respondent's amended statement of facts "
-       "and contentions; and", L),
-     P("(e)&nbsp;&nbsp;the production of documents referred to in the Respondent's outlines of evidence, to the extent "
-       "not already disclosed, including the Technical Support advice referred to by Ms Wright and the email of 15 May "
-       "2024 at 4:12 pm referred to by Ms Reese. I requested these from the Respondent by letter of 25 September 2026.", L),
-     Spacer(1, 0.8*mm),
-     P("When the remaining documents are confirmed and the Respondent has responded, the primary facts will be settled. "
-       "What will remain is the application of the law to those facts, and the medical evidence. Any issue not resolved by "
-       "either course could then be listed for a hearing confined to it. I would be assisted by any direction the "
-       "Commission considers appropriate, including as to the time for the Respondent's response.", B),
-
-     P("5. The documents", H),
-     P("I have not attached the notices to admit facts and documents of 28 August 2026, Annexure A to them, or the "
-       "Respondent's responses of 8 September 2026. I can provide them, and any document referred to in the paper, if the "
-       "Commission requires.", B),
+     P("4. Questions for the Respondent", H),
+     P("I have today provided the Respondent with an issues paper setting out questions arising from its outlines of "
+       "evidence and the admissions, for discussion at the conference. I can provide it to the Commission if it would "
+       "assist.", B),
 
      KeepTogether([
-     P("6. Readiness", H),
-       P("If the matter does not resolve, I am ready to proceed to a hearing with the witnesses and material I have "
-         "served. I will abide by whatever course the Commission considers most appropriate, after hearing from "
-         "the Respondent, and I await the Commission's direction.", B),
-       P("A copy of this letter and its enclosure is provided to the Respondent.", B),
+       P("I would be assisted by any direction the Commission considers appropriate. If the matter does not resolve, I am "
+         "ready to proceed to a hearing on the issues that remain.", B),
+       P("A copy of this letter is provided to the Respondent.", B),
        P("Yours faithfully,", B), Spacer(1, 1*mm), SIG(), Spacer(1, 1*mm),
        P("<b>Cory Lea Shepherd</b><br/>Appellant, self-represented", B)]),
-     Spacer(1, 6*mm),
+     PageBreak(),
      P(f"<b>WC/2024/227 &ndash; Schedule to the letter of {DATE}: the ten documents that remain to be confirmed</b>", B),
      P("Tab numbers are those of Annexure A to the Appellant's notices of 28 August 2026. Fact numbers are those of the "
        "Form 24 notice as answered on 8 September 2026. \"SOFC\" is the Respondent's amended statement of facts and "
