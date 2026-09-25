@@ -7791,3 +7791,6 @@ Not shown to be Tab 5.
 
 ## 25 Sep 2026 — full roster pack audit
 See `skill/references/ROSTER-PACK-LINE-AUDIT-25SEP2026.md`. Shepherd is on 33 of 34 rosters; the only absence is PP21 v1.0. Willmann and Zizek also drop out and return, so "nobody else" is not literally true; use "the only one absent for a single fortnight in which he worked". PP20/PP21 v1.0/PP22 are not on his List of Documents. Recommendation: disclose the three by supplementary list, and serve a Form 25 once the distribution email is found.
+
+## 25 Sep 2026 — public holiday outline v Award/EB11
+See `skill/references/PUBLIC-HOLIDAY-OUTLINE-v-AWARD-EB11-25SEP2026.md`. Award cl 23 opened at source: 23(h) "shall be paid" (the 23 Aug caution is closed). "Discretionary" conflicts with the Award and with MSH's own 6 Sep 2024 letter ("in accordance with clause 23"). Quantum concede; 2023 claim do not press. Payroll 3 May 2024 (Grant): fortnight 18.03.24 "one of the shifts needs to be overtime", which differs from Earl's explanation. Wright's fatigue advice is wrong on cl 15.1(d) but right that no payment attaches.
