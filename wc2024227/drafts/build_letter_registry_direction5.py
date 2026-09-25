@@ -94,7 +94,8 @@ s = [P("<b>CORY LEA SHEPHERD</b><br/>15 Edmond Street, Coomera QLD 4209 &nbsp;|&
        "authenticity of 25 of the 39 documents annexed to the notices.", B),
      P("On 24 September 2026 the Respondent confirmed the authenticity of four more documents, and it has asked "
        "Metro South Health for nine others. Twenty-nine of the 39 documents are therefore now admitted or "
-       "confirmed. The ten that remain are listed in the attached schedule. Each is a record of Metro South "
+       "confirmed. The ten that remain are listed in the attached schedule. I first raised them with the Respondent by "
+       "letter of 9 September 2026. Each is a record of Metro South "
        "Health or of the Appellant's union. For every one of them except Tab 31, the contents are already admitted, "
        "and the only question left is the authenticity of the copy.", B),
      P(("No admission has been withdrawn. The Respondent has served no medical or expert evidence, and the time for it to "
