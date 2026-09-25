@@ -51,9 +51,9 @@ under section 552A of the *Industrial Relations Act 2016*.
 The paper sets out the matters that I believe can be closed at the conference, and questions arising from
 the Respondent's outlines of evidence of 24 September 2026, each by reference to the facts the Respondent
 has admitted. It also asks the Respondent to state its settled position, as particulars of paragraph 27 of
-its amended statement of facts and contentions, on whether each admitted action listed at section 8 was
+its amended statement of facts and contentions, on whether each admitted action listed at section 6 was
 management action and, if so, whether it was reasonable and taken in a reasonable way. I would be grateful
-if the Respondent could complete sections 8 and 9 before the conference. Any matter not maintained can then
+if the Respondent could complete sections 6 and 7 before the conference. Any matter not maintained can then
 be recorded at the conference as no longer in issue.
 
 Yours faithfully,
