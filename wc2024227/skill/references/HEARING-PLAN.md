@@ -161,6 +161,132 @@ partial history.**
 
 ---
 
+# PART 4A — WHEN HE IS CROSS-EXAMINED
+
+> Added 16 September 2026, after the Respondent's response of 8 September (298 of 303 facts
+> admitted, 0 denied). Part 4 is his cross of Ms Taylor. This is the reverse, and after 8 September
+> it is short, because most of it is no longer available to them.
+
+## 4A.1 WHY CROSS ON THE ADMITTED MATERIAL YIELDS ALMOST NOTHING
+
+Of the 303 facts: **213 are verbatim quotations of documents the Respondent disclosed or filed**,
+39 are *"the SOFC does not allege…"*, 22 are about its own February admissions, 9 are arithmetic,
+6 are about its own List of Documents. **He authored almost none of the content.** Stibbard wrote
+the database email. Kwok and Dr Wong logged the misdirects. Marriott wrote the Respiratory emails.
+Taylor wrote *"I did raise my voice"*, *"an indirect dig at the team"*, and *"many ongoing issues …
+about calls being transferred to the wrong medical teams"*. The Regulator wrote Review Decision 69983.
+
+⭐ **An admitted fact is not cross-examinable.** Counsel cannot cross-examine him to unpick an
+admission its own client made under r 49. Put *"you are wrong about the 15 April directive"* and the
+answer is **fact 51** and a tab number.
+
+⭐⭐ **It also protects the known vulnerability.** The failure mode on 7 August was generating live
+under interruption. Cross exists to force generation. **If the answer is a document, he is not
+generating — he is pointing.** And because each fact stands alone, being cut off mid-answer costs
+nothing.
+
+**The register already demonstrated, and the one to hold:** *"Exactly."* [14:53] · *"Correct."*
+[16:55] · *"I have everything for this."* [54:52] — that last closed the whole of Stressor 3 in five
+seconds.
+
+## 4A.2 THE THREE RULES
+
+1. ⭐ **Answer the link, not the chain.** They will ask about one act. Give that act.
+   ⛔⛔ **CORRECTION TO THE CORRECTION (16 Sep 2026, second pass).** An earlier edit today said
+   *Delaney* is the Respondent's authority. **That over-corrected and is wrong.** The settled
+   position — established by Cory on 16 August, at `S32-5-A-JUDGMENT-THREE-DOCUMENTS.md` **Part 31**
+   — is that ***Delaney* is HIS**, cited in his own Form 4 for the proposition that *"the composite
+   course of conduct, not isolated shifts, is the unit of assessment."*
+
+   ⭐ **Delaney is the answer to ATOMISATION.** The Regulator's defence is the isolation clamp at
+   SOFC ¶22(a) — *"human error and **not intentional or repeated**."* *Delaney* breaks it: the unit
+   of assessment is the course, so the seven-hour break cannot be reduced to one absorbable blemish.
+   And the course here is not an event but a **STATE** — no fatigue assessment, no register, nothing
+   implemented until after 30 June 2024, on the Chief Executive's own certificate. **A state cannot
+   be atomised.**
+
+   ⚠ **The real risk is FLATTENING, not *Delaney*.** If the course is drawn wide enough to become a
+   referendum on the managers' general reasonableness — thirteen items — a global assessment can
+   find most of it ordinary.
+
+   ⇒ ⭐⭐⭐ **They are two halves, not alternatives. *Delaney* refuses the atomisation; *Mahaffey*
+   refuses the flattening.** The composite is **the standing fatigue and recovery condition**;
+   everything else is context. **Thirteen mini-trials invite global weighing. One tall keystone
+   defeats it.**
+
+   **Under cross, still answer the link, not the chain** — that part stands, for the reason given
+   above: cross is where a chain gets cut.
+
+2. ⭐ **Concede early and without being pushed.** *A manager may change a process? She was entitled
+   to fix a database? She had a department to run?* **Yes.** Conceding against interest before being
+   pressed is a demonstrated strength and it costs nothing — the case does not depend on Ms Taylor
+   having no authority; it depends on how the authority was exercised.
+3. ⭐ **Cite, do not explain.** Fact number, tab, date. No "why". No motive. If asked what a document
+   means, read what it says.
+
+## 4A.3 ⛔ THE ONE REAL TRAP — AND IT HAS ALREADY BEEN SPRUNG ONCE
+
+The instinct that makes the case coherent — *"it all works together as one big system"* [13:28] — is
+what cross will try to convert into **"you saw a pattern in ordinary management."** Dwyer previewed
+the answer at [27:24], calling absence of consultation *"totally legitimate"*.
+
+**It already happened at the mention.** Q6 — *"How did she impose unassessed, unilateral
+directives?"* [15:59] — answered *"without consulting any of the staff members."* One link, offered
+as the whole point, and the weakest one to pick.
+
+⛔ Same discipline as standing rule 1: the connective framing never reaches paper, and it does not
+reach the witness box either.
+
+## 4A.4 ⛔⛔ THE TWO LINES THAT MUST NOT BE CROSSED
+
+Both sit directly on top of his strongest material, which is exactly why they are dangerous.
+
+1. ⛔ **That patients were harmed.** Opinion outside his expertise. **Facts 56–61 are admitted** and
+   say calls reached the wrong medical team and had to be redirected by MASPER. **That is the fact,
+   and it is enough.** Converting it to harm engages *Briginshaw* and trades an admitted fact for an
+   unprovable one.
+2. ⛔ **That the fatigue was an early symptom.** Clinical. Dr Krishnaiah's to say, if he says it.
+
+## 4A.5 WHERE THEY WILL ACTUALLY GO — THEIR OWN LETTER SAYS SO
+
+The covering letter of 8 September reserves relevance, admissibility, weight, and *"any
+characterisation, conclusion, inference or submission you have drawn or may draw from an admitted
+fact"*. That is the map. Three fronts:
+
+| Front | Exposure | Answer |
+|---|---|---|
+| **The medical / causation** | ⚠⚠ **The live one.** Feb ¶32 — the records show anxiety and ADHD from **26 Oct 2022**, *"which is missing from Exhibit A5"*; SOFC ¶8 refuses a clean baseline. **No admission touches it** | Dr Krishnaiah, and his own evidence of the change over the period. Do not argue the diagnosis from the box |
+| **Reasonableness (s 32(5)(a))** | Real but weak **on the keystone** — one unreasonable stressor suffices (*Hochen*, adopted in *Mahaffey*; not cured by outnumbering, *Adams*). ⭐ *Delaney* is **ours** and defeats the ¶22(a) *"not repeated"* clamp. ⛔ The risk is **flattening** into thirteen mini-trials, not *Delaney* itself | Concede authority, contest the manner, keep the weight on the admitted break. §4A.2 rule 1 |
+| **Him** | State of mind, his own emails, a hostility narrative | **Harrison-Jones ¶7** and **Conaghan ¶13** — neither has heard him speak of Ms Taylor or any staff member in hostile terms |
+
+## 4A.6 WHS IS A YARDSTICK, NEVER A CHARGE
+
+The duty is **Metro South's**, not the Regulator's, and it is real: **WHS Act s 19** (health includes
+psychological health), **WHS Reg s 55C(1)** (*"must"* manage psychosocial risks), **Reg 55D(2)(a),
+(d), (h)**, **Regs 34–36, 38(2)(c)–(d)**, **WHS Act ss 47, 48(1)(a)–(d), 49** (consultation),
+**EB12 cl 7.2.1–7.2.3**. The psychosocial Regulation and the 2022 Code commenced **1 April 2023** —
+**the whole pleaded course post-dates commencement.**
+
+⛔ **A WHS breach is not an element of s 32(5)(a)** and must never be run as a cause of action here.
+It is wrong forum, and it reads as exactly the broad-brush systemic criticism Dwyer warned against
+at [61:44].
+
+✅ Three legitimate uses, all as a **standard**:
+1. **Reasonableness** — conduct contrary to a statutory duty in force throughout, and to the
+   employer's own EB, is harder to call reasonable. Measure; do not allege.
+2. **The omission argument (§5)** — the duty is what turns an *absence* into a *failure*. Without it,
+   nothing was required and nothing was omitted (*Read* [2017] QIRC 72; *Allwood* [2017] QIRC 88).
+3. **The counterfactual** — identify, assess, consult, control, review: what should have happened,
+   against which *"effective from today"* and eleven months without database access are measured.
+
+⚠ **Do not conflate the Workers' Compensation Regulator with Workplace Health and Safety Queensland.**
+Both sit within the Office of Industrial Relations. They are different bodies. The Regulator carries
+**no WHS enforcement role in this appeal** — it reviews insurer decisions and is the respondent. It
+is not the employer, not an investigator, and has no power over Ms Taylor, Ms Reese or Ms Stibbard.
+Its obligations here are disclosure and the **Queensland Model Litigant Principles** (Dwyer, [59:45]).
+
+---
+
 # PART 5 — CLOSING (Guide 7.7)
 
 **Address the elements of s 32, in this order:**

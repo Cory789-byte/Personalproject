@@ -7442,3 +7442,128 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 - Addition: the 29 Jul enquiry to ART came **16 days after Cory's 13 Jul 16:39 email** telling Injury Management "I no longer have an active open QSuper Income Protection claim; that claim is now closed ... There is accordingly no income support available to me from that source", and 14 days after Harrison's 15 Jul reply ("as we have been provided information that you do hold a current QSuper Income Protection Claim ... please provide a copy of [closure] correspondence"; "The only information supplied to QSuper/ART from injury management is the email I cc'd you in on Monday 13/07/2026"). ART's 31 Jul answer: claim "active", benefits "temporarily paused" from 31 May 2026, no payments — i.e. the substance of what Cory said (no income from that source) confirmed to MSH on 31 Jul; label differs ("closed" vs "active/paused"). ⚠ Going forward use ART's words: "no benefit has been paid since 31 May 2026; benefits paused". Knowledge point: from 31 Jul MSH knew the IP-claim premise for refusing pay produced nothing, and continued the hold-out; the 29 Jul contact was employer-initiated and not copied to Cory, against the 15 Jul description of the flow.
 - ART claim status, from the repo (8 Sep check): 13 Mar 2026 10:00 Cory→Ings "would like the super to stop paying me", "following up on an earlier email mid last year" (that mid-2025 email is NOT in the repo — locate in Hotmail sent items). ART 4 Aug 2026 (Zappia): acknowledges the cease request "on 16 March 2026"; "no record of receiving notification from you in April or May 2025"; last payment 28 May 2026 (25–31 May); payments "temporarily suspended from 31 May 2026" pending overpayment review 7 Apr 2025–31 May 2026; partial benefit formula; "you may be entitled to ongoing benefits". QSuper Resolutions (Beck) 28 May 2026: James contacted the employer for payslips; payments on hold from 1 Jun 2026. Cory 12 Aug 2026: agrees the recalculation basis; asks for workings and for assessment of entitlement from mid-June 2026 (no wages since 13 Jul). ⇒ Precise formulation for MSH: "I asked the insurer in writing on 13 March 2026 to stop paying me; the last payment covered the week to 31 May 2026; payments have been on hold since 1 June 2026 pending the insurer's review." ⛔ Never "closed" again; never "receiving benefits".
 - Date adjacency recorded (8 Sep 2026, no inference): MSH abandonment confirmation K-CF24/3270 (Johns, per Firoz) — Word file created **9 Oct 2024 16:08:05**, forwarded 16:10. HopgoodGanim DMS record for "Reasons for decision - WCR reject - Worker applicant - Mr Cory Shepherd" — **HgDMSDate 09.10.2024**, PDF made 24 Oct 2024 10:16. Same calendar day, two organisations, no document connecting them. ⛔ The DMS date is the record date; a DMS description can be set on any save; it cannot be said the outcome was known on 9 Oct. ⛔ Not for the appeal; §7.8 question only, after 30 Sep.
+
+---
+
+## 2026-09-16 — Form 24 response re-read against the mention transcript
+
+New file: `analysis/2026-09-16_Form24_Admissions_Map.md` — full 44-response → 50-paragraph admit/deny
+map from the Regulator's response signed **Renee Matheson 18/02/2026**, confirmed against
+`documents/2026-02-18_Form24_Response_and_email_communication.pdf` pp 7–10.
+
+**The finding.** The patient-safety chain at ¶¶6–9 is already admitted **at both ends**.
+¶6 admits Ms Taylor removed a page. ¶8 admits, unqualified, that maintaining accurate doctor contact
+details "is a critical function of the Switchboard to ensure effective clinical handover and patient
+safety", and adds "there was a procedure in place for this to occur". Only ¶7 — what was written on
+the page — is not admitted, and the stated reason is that the Respondent "does not have a copy of the
+document referred to and is unaware of its contents". ¶9 is denied "because there was already a
+procedure in place", which asserts the same procedure a second time while naming none.
+
+**Already in the file — corrected after merge.** `confirmed-record.md` already holds the ¶8 pinpoint
+block and the standing discipline **"do not let ¶8 carry ¶9"**, and **Form 20 ¶6 already pleads ¶8 as
+an Admitted Fact**. An earlier draft of this entry said the filed application did not yet surface ¶8.
+That was wrong. The only genuinely new points are the mention fold below, the request letter, and one
+narrow ask: **¶8 and ¶9 both assert a procedure and neither names it** — request particulars of it.
+
+**Also fixed:** `confirmed-record.md` line 84 described Response ¶9 as "delegate facilitation denied."
+That is ¶19. ¶9 is the consequence limb of the comms-book particular. Corrected against the response
+PDF and cross-referenced to the ¶8 pinpoint block.
+
+**Consequence for Item 18 (communication book).** At the 7 Aug mention (~36:03) Dwyer IC reasoned
+"she might admit she tore it out, in which case we probably don't need the book… not a particularly
+document heavy point, that one." That rests on the tearing-out being the live issue. It is not — it
+was admitted in February. The live issue is the contents, and the Respondent has said in writing it
+cannot resolve that without the document. **Item 18 is the narrowest and best-supported
+produce-or-swear item on the list**: one document, relevance admitted by ¶8, no alternative means of
+proof. The Form 24 response was not before the Commissioner. Put ¶6 + ¶7 + ¶8 in one paragraph when
+the Form 29 returns.
+
+**Request letter located.** 24 July 2026 09:08 to Matheson (`mail-tools/.../06_Renee_Matheson/text/106_email.txt`):
+(1) an up-to-date **list** of documents disclosed by the Respondent; (2) the Respondent's Form 29
+notices with what was produced under each. This is the "count, not the documents" position already in
+writing **two weeks before the mention** — the answer to the "truckload of documents" concern, never
+put to the Commission. **No reply appears in the corpus** (last Matheson item is 16 July 2026).
+ACTION: confirm whether a response was received; if not, renew in the same narrow terms.
+
+**Three follow-ups (all written, all narrow):** identify the procedure asserted at ¶8/¶9; reframe
+Item 18 on ¶6+¶7+¶8; renew the 24 July list request.
+
+**Check before filing use:** extracted text of the response p 7 shows two matter-number fields,
+`WC/2024/234` and `WC/2024/227`. Verify against the sealed PDF.
+
+**⛔ SAME-DAY CORRECTION — the entry above was written from the FIRST notice only.**
+The second Form 24 (303 facts, served 28 Aug 2026) was answered on **8 Sep 2026: 298 admitted, 5 not
+admitted, 0 denied** (`documents/regulator-response-2026-09-08/`). Three things recorded above as open
+are closed by it:
+- **"Identify the procedure"** — answered. Fact **146** admits Ms Taylor's own email of 6 Jun 2023:
+  *"I took it out last week as it was clearly an indirect dig at the team and there is already a
+  procedure to follow with this certain entry."* The February ¶9 defence and that sentence are the
+  same sentence, and it carries the motive with it.
+- **Item 18 / the communication book** — spent. The Form 29 was **withdrawn on 28 Aug**. Facts
+  **150–153** close it by admission instead, incl. 153: the SOFC does not allege the book ceased to be
+  in MSH's possession at any time during the employment. Fact **154** (the Amended LOD does not list
+  the book) is one of the five **not admitted**.
+- **The 24 July disclosure-list request** — answered on **14 Aug 2026** (Amended LOD + four NNPDs).
+
+**⭐ STRESSOR 1(a) IS MADE OUT ON ADMISSIONS.** Section D of the second notice is headed "THE
+DATABASE, THE DIRECTIVES ISSUED WITHOUT CONSULTATION…" and every fact in it is admitted: the role
+description duty to maintain the database (facts 6–8); Stibbard removing everyone's access (40) and
+the Contact & Number Changes book from the room (45); the Review Decision recording the same (46–48);
+**no allegation access was ever restored before 18 Jun 2024 (55)**; Taylor's 15 Apr "effective from
+today" directive (49–53); **the MASPER Registrar's and Dr Wong's own logs of nine misdirects across
+2–8 May 2024 (56–61)**, incl. the MET call team that could not be told where VHUB was; the
+five-day-eighteen-hour reply interval (62–64); those occasions falling while the 15 Apr arrangement
+was in force (68); **Taylor's own "many ongoing issues raised by the MASPER and the medical department
+about calls being transferred to the wrong medical teams" (67)**; and Sue Marriott's two unanswered
+Respiratory Service emails (89–93). The 13:28 "it all works together as one big system" point is
+proved end to end without compelling a single document.
+
+The five not admitted: **154** (their own List of Documents) and **228–231** (the 2024 Emergency Code
+Register, Tab 31 — provenance, the register itself not disputed). Denied: none.
+
+Cover letter reserves relevance, admissibility, weight and any inference drawn — orthodox, and it does
+not touch the primary facts.
+
+## 2026-09-16 — Mention record solidified; transcript made canonical + PDF
+
+**Transcript.** `documents/transcripts/TRANSCRIPT_diarised_prosody.md` replaced with the amended
+version carrying **amendment A1** (the ~30:16 line re-attributed DWYER IC → MR SHEPHERD, participant-
+confirmed, 100%) and the four speaker-label confidence classes. Added a **"NOT PART OF THE RECORD"**
+appendix, behind a hard rule, holding reader's notes on four contested passages (N1 the [16:29]
+small.en/large-v3 meaning split; N2 filters; N3 "actively suppressed"; N4 the comparator class slide).
+**PDF generated** at `documents/transcripts/TRANSCRIPT_diarised_prosody.pdf` — 14pp, text layer
+present, built via `lodgement/_md2html.py` + headless Chromium.
+⚠ **Only one transcript exists in the repo** and it is that file; nothing was deleted. The
+`MENTION_7AUG2026_segments.jsonl` and `diarise_inferential.py` are kept with it so the diarisation
+stays reproducible. **There is no certified transcript** — ATR0282381 was an **audio-only** request
+and the 18 Aug notification PDF is a request record, not a transcript.
+
+**⛔⛔ CORRECTION — the "live-room vocabulary gap" does not exist.** New §99 of
+`skill/references/MENTION-7AUG2026-ASSESSMENT.md`. **Filter and phrase are one operation described
+from two ends** — the phrase is the criterion, the filter is the mechanism that applies it. At
+[23:40] the Appellant named the system, the operation, the criterion ("effective immediately"), the
+scope and the output sought ("I basically just want the count"): a complete specification of a
+bounded search, live and unprepared. The Commissioner did not retrieve the operation from the word,
+having said in the same hearing that his brain switches off under load. **The cost landed on the
+Appellant because cost lands on the person who needs something, not because the description was
+wrong.**
+
+**The corrected evidence base — neither survivor is a vocabulary problem:**
+- **PRECISION** — the pay comparator [51:47]→[51:52]: *"Between me and my colleague"* restated as
+  *"My colleagues generally"* after both alternatives were offered. Fix: one named comparator, one
+  stated period, one figure.
+- **PLEADING** — "actively suppressed" [46:10]: *"I don't know if I can prove it as much"*, then
+  **self-corrected unprompted at [46:44]**: *"it wasn't actively spread, it was actively avoided."*
+  A concession against interest plus a more accurate substitute word, produced live. The adverb was
+  wrong; the underlying facts stand. ⇒ **never plead an adverb of state of mind without a document
+  that proves the state of mind** (same family as: never open the s 32(5)(b) door).
+
+**Register.** How he presents is how he thinks. But Dwyer's register is not his cognition either — it
+is a trained second output on the same mind. Acquiring one is a second format, not a correction.
+⇒ The Form 24 route **is** that second format, produced on paper at his own pace: 303 propositions,
+298 admitted.
+
+**✅ PINPOINT FIXED.** `CLAUDE.md` header changed **s 550(4) → s 549**. The sealed Further Directions
+Order (3) is headed *"APPEAL AGAINST DECISION OF RESPONDENT PURSUANT TO SECTION 549"*. s 549 is the
+appeal right; s 550 is procedure and s 550(4) the filing step. Full provision map in
+`skill/references/REGULATOR-DUTIES-AND-REPORTING.md` §6.

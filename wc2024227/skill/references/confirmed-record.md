@@ -81,7 +81,12 @@
 - **¶44** (Notice ¶50): Review decision contents admitted, relevance reserved; does not admit Taylor made a misleading statement.
 
 ### DENIED (contested — these are what the records are for)
-- **¶9** — delegate facilitation denied: "procedure already in place."
+- **¶9** — **NOT delegate facilitation** (that is ¶19). Notice ¶9 is *"By removing this entry
+  without consultation, Ms Taylor prevented the communication of safety-critical information to
+  other staff members"* → **denied as untrue**, "because there was already a procedure in place."
+  The consequence limb of the comms-book particular. See the ¶8 pinpoint block below and keep the
+  discipline: **¶8 does not carry ¶9.** *(Mis-description corrected 16 Sep 2026 against the
+  response PDF pp 7–10.)*
 - **¶12** — denied: Taylor called the book "a professional tool."
 - **¶19** — delegate support denied on three grounds (no request; support given; information provided). **Stressor 1(g) live; Item 19's target.**
 - **¶22** — comparator email to another staffer denied: "circumstances were different."
@@ -3362,7 +3367,18 @@ action."*** ⇒ The UMA finding **is** the delegate's own.
 ⚠ **Findings B and C (sole cause / no pre-existing factor) remain unverified** — one audit says
 they are the delegate recording Dr Hawes. **Check pp. 16–17 and 25–27 before using either.**
 
-### ⛔ "NEVILLE" — CONFIRMED UNSUPPORTED
+### ✅ "NEVILLE" — SOURCE FOUND 25 SEP 2026 (supersedes the "unsupported" note below)
+Queensland Health **Fatigue Risk Management Guideline (qh-gdl-401-3.3)**, "1.1 Historical context" — in the
+Regulator's own disclosure (`documents/disclosure-2025-07/Disclosure_witness_conferencing_Tammy_Reese.pdf`, p 32;
+reference list at `Disclosure_from_witnesses_part_FRMS_content.pdf` p 11: "Queensland Ombudsman (2006). The Neville
+Report."). Verbatim: *"In January 2002, 10 year old Elise Neville attended a Queensland Health hospital emergency
+department… examined by a doctor working the twentieth hour of a 24-hour shift… Elise died some days later. An
+investigation by the Queensland Ombudsman (2006) found that one of the contributing factors to Elise's death was
+fatigue caused by long hours of work… The policy now applies to all employees…"* This is the guideline **Ms Reese
+attached to her email to LBH_HR of 20 May 2024 (facts 222, 223)**. ⚠ Quote the guideline's own words; do not call it a
+"non-delegable mandate" (the 9A's phrase goes further than the source).
+
+### ⛔ (SUPERSEDED) "NEVILLE" — CONFIRMED UNSUPPORTED
 **The only "Neville" hits in the entire repo are internal labels for this pleading.** There is no
 source for a 2006 Ombudsman report. ⇒ **It is the second "Independent Review Office." Do not use it.**
 

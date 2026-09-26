@@ -85,8 +85,13 @@ than an 8-hour break"* (SOFC ¶22(a)), so the shortfall is uncontested by anybod
 strand in fourteen months where the employer's own rule produces an answer by subtraction, and the
 only one where his own conduct is not in issue at any point.
 
-⚠ **A "composite course" is *Delaney* territory and *Delaney* is the Respondent's authority.** One
-mechanism with one proven instance is *Mahaffey*. They sound identical and produce opposite results.
+⚠ **CORRECTED 25 Sep 2026 (Cory): *Delaney* is the APPELLANT'S authority.** *Delaney v Q-COMP* [2005] QIC 11 is an
+**anti-atomisation** doctrine: the composite course, not the isolated incident, is the unit of assessment. It answers the
+SOFC ¶22(a) "not intentional or repeated" clamp. Review Decision 69983 **misapplied** it, using it to *dilute* (averaging the
+unreasonable break against unrelated factors, the precondition never tested) instead of to *aggregate*. See
+`wc2024227/analysis/2026-09-16_DELANEY_MISAPPLIED_in_RD69983.md`. **Run both:** *Delaney* against atomisation, *Mahaffey*
+against flattening. The composite relied on is the standing fatigue and recovery **state**, not a global weighing of every
+grievance.
 
 ## Before anything is filed or served
 
