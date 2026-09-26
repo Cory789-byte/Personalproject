@@ -14,7 +14,7 @@
 - Not admitted: **154, 228–231** (flagged where they appear).
 - Held for cross-examination and left out: **159, 292**.
 
-Built by `build_fact_sequences.py`.
+Built by `build_fact_sequences.py`. Outline extracts (▸) come from the Respondent's Outlines of Evidence of 24 Sep 2026 (Taylor, Reese, Wright, Earl), quoted verbatim, with our note in *italics*. An outline is not evidence until the witness gives it; these are the points to have each witness confirm in cross-examination.
 
 ---
 
@@ -139,6 +139,12 @@ Built by `build_fact_sequences.py`.
 - **303** Paragraph 27 of the Respondent's amended statement of facts and contentions dated 13 May 2026 does not identify, by particular, date, document or cross-reference, the management action relied upon for the contention in that paragraph. Signature: Print name: Cory Lea Shepherd Title of office held: Appellant (self-represented) Date: 28 / 08 / 2026 SCHEDULE OF DOCUMENTS – ANNEXURE A Authenticity to be admitted – Industrial Relations (Tribunals) Rules 2011, rule 49 Take notice that the appellant also asks the respondent to admit, for this proceeding only, the authenticity of the documents specified below, and that if the respondent does not within 14 days after receiving this notice serve a notice on the appellant disputing the authenticity of those documents, the respondent is taken to admit their authenticity for this proceeding only. The authenticity of the same documents is also the subject of a separate Form 25 - Notice to admit documents served with this notice, annexing the same Annexure A. This schedule is retained in this notice as a cross-reference.
 
 
+> **▸ *Their own outline (24 Sep 2026)*: supports 1(a)**
+> - Taylor: "the Switchboard Manager, Logan Hospital, and the Appellant's direct line manager, in an acting capacity, from around April 2023 to 1 July 2024 supervising rostering, attendance and shifts". *The line manager, and responsible for rostering and attendance.*
+> - Taylor: "emailed the Appellant at 12:08pm on 14 May 2024 raising… his failure to follow the on-call notification process". *The notification process was first raised on 14 May, a month after the on-call change "effective from today" (51); consistent with 166.*
+> - Reese: the 15 May email was "asking that Ms Taylor's office hours be shared with the whole department". *Their own description of the request.*
+> - Taylor's evidence on 1(a) is a bare denial ("Denies maintaining an erratic physical presence or imposing unassessed unilateral directives"). No outline addresses the database, the contact book, the on-call change, MASPER or the directory. *Those facts stand uncontradicted.*
+
 ## 1(b) The Communication Book
 
 **6 June 2023: the removal**
@@ -169,6 +175,11 @@ Built by `build_fact_sequences.py`.
 - **289** In its response of 18 February 2026 to the notice to admit, the Respondent admitted paragraph 8 of the notice, being: "Maintaining accurate contact details for medical staff is a critical function of the Switchboard to ensure effective clinical handover and patient safety." [Tabs 26-27]
 - **12** The role description (Tab 1) states, as a key responsibility: "Follow defined service quality standards, occupational health and safety policies and procedures relating to the work being undertaken to ensure high quality, safe services and workplaces". [Tab 1]
 
+
+> **▸ *Their own outline (24 Sep 2026)*: supports 1(b)**
+> - Taylor: she "found an entry… and removed it without knowing at the time who had written it". *Removal confirmed again, in her words.*
+> - Reese: "She never saw the entry itself." *No manager other than Taylor saw the entry, and no copy exists (151, 288).*
+> - ⛔ Taylor's account of the exchange ("questioned her closely and loudly") is theirs. It stays with **292**, held for cross-examination.
 
 ## 1(c) August 2023: concerns about rostering and fatigue
 
@@ -219,6 +230,11 @@ Built by `build_fact_sequences.py`.
 - **272** The SOFC (13 May 2026) does not allege that any change was made to the operating procedures of Logan Hospital Switchboard as a consequence of any employee complaint over the period 1 December 2023 to 30 June 2024.
 
 
+> **▸ *Their own outline (24 Sep 2026)*: supports 1(c)**
+> - Reese: on 7 August 2023 the Appellant raised "concerns about rostering fairness… and a claimed breach of the enterprise agreement's roster-display requirements". *Confirms rostering was raised.*
+> - Reese: "She advised him of his option to lodge a formal grievance with HR". *It was not dealt with as a formal grievance. Investigation was left as an option for him.*
+> - ⛔ Held and not used: the "eight months" review; "Instead"; the 10 August meeting framing.
+
 ## 1(d) Pandemic leave
 Relied on under **Stressor 2(a)(ii)**, where every fact is set out in sequence (Review Decision 69983 dealt with it
 under Factor 3, "Withholding of pay").
@@ -267,6 +283,14 @@ The admitted 1(e) wording only. No fact is attached to it, and nothing is carrie
 - **302** The SOFC (13 May 2026) does not describe any communication with the Appellant before 18 June 2024 as a warning, or as part of a disciplinary or performance management process.
 
 
+> **▸ *Their own outline (24 Sep 2026)*: supports 1(f)**
+> - Reese: the email asked "that Ms Taylor's office hours be shared with the whole department". *Their own description: a request for office hours.*
+> - Reese: she "emailed the Appellant later that day at 4:12pm… then again in materially the same terms at 6:23pm… asking him to retract the email". *Two retraction requests, not one.*
+> - Reese: the basis was that it "could have been raised with Ms Taylor or Ms Reese directly rather than sent to the whole team". *The objection was to the audience, not to the question. Taylor's 23 Aug 2023 hours email went to the same list (71).*
+> - Taylor: "Acting on HR's advice, she then removed the email from the shared switchboard inbox herself"; Reese: "The email was ultimately removed from the shared inbox by Ms Taylor". *The email was removed as well as a retraction being asked for.*
+> - No outline says Taylor's own hours email (71–72) was the subject of any retraction request.
+> - ⛔ Not used: the 1:20 pm timing, and anything in either outline about the PID. Held or 1(e).
+
 ## 1(g) Union representation (reserve)
 
 **The facts**
@@ -283,6 +307,9 @@ The admitted 1(e) wording only. No fact is attached to it, and nothing is carrie
 
 
 ---
+
+> **▸ *Their own outline (24 Sep 2026)*: on 1(g) (reserve)**
+> - ⚠ Taylor: after the 5:03 pm text she "provided him with advice and support, and gave him delegate information". *Adverse to "suppression". Another reason 1(g) stays in reserve.*
 
 # STRESSOR 2
 
@@ -318,6 +345,11 @@ The "42%" figure is denied ("roster was equitable", **299**) and is not needed h
 - **255** Review Decision 69983 records that payroll was, as at 1 May 2024, "still reviewing your entitlements regarding public holidays not required arising while you were a part-time employee". [Tab 25]
 - **256** That decision records Ms Taylor as confirming "that since your commencement of full-time employment, all payments for public holidays not required had been processed". [Tab 25]
 
+
+> **▸ *Their own outline (24 Sep 2026)*: supports 2(a)(i)**
+> - Wright: payroll's review "shows they were investigated and, where a discrepancy or error was found, corrected". *Discrepancies and errors were found.*
+> - Earl: in the fortnight including 30 March 2024 he was "originally paid an eleventh, additional shift because that public holiday had been processed as 'public holiday not required'… which pushed him over his contracted 80 hours… and triggered an automatic hours reduction on his payslip"; "The entry was later corrected". *A processing error and a pay reduction in that fortnight, corrected later.* ⚠ Earl says "80 hours"; Payroll said "contracted 76hrs" (189). Hold for cross-examination.
+> - Wright: a public holiday allowance "must be approved and submitted by the line manager on an AVAC". *The correction was the line manager's to make.*
 
 ## 2(a) Persistent payroll failures: (ii) the pandemic leave entitlement
 
@@ -372,6 +404,14 @@ The "42%" figure is denied ("roster was equitable", **299**) and is not needed h
 - **142** The SOFC (13 May 2026) does not allege that any other Switchboard employee was required to submit a Special Pandemic Leave request personally through myHR in February 2024.
 
 
+> **▸ *Their own outline (24 Sep 2026)*: supports 2(a)(ii)**
+> - Earl: "the Appellant uploaded his Special Pandemic Leave application together with a supporting attachment on 20 February 2024 at 11:41am".
+> - Earl: "Ms Taylor declined the application the next day, 21 February, on the stated basis that a minimum five-day period of leave was required." *Compare MSH Item 12: others approved for single days.*
+> - Earl: "declined again on 29 February for want of an attached statutory declaration or evidence of a positive test".
+> - ⭐ Earl: "On payroll's own review of the system's attachment history, however, the supporting document had in fact been attached from the original 20 February submission onward, meaning the second decline also appears to have been made in error."
+> - Earl: "approved that day by the delegate and manager". *The approvers recorded are Taylor (Reviewer) and Reese (Manager) (120–121, 126). Neither is alleged to be a Band 9 delegate (129–130).*
+> - ⚠⚠ Earl: "he was on leave, and continued to be paid, throughout the period this was being sorted out". *Their answer to "paid late". Frame 2(a)(ii) as an entitlement refused twice, which took three submissions and which I could not remedy myself, not as wages unpaid, unless the payslip shows otherwise.*
+
 ## 2(b) The delay, and a correction I could not make myself
 
 **April 2024: asked for a review**
@@ -425,6 +465,11 @@ The "42%" figure is denied ("roster was equitable", **299**) and is not needed h
 
 ---
 
+> **▸ *Their own outline (24 Sep 2026)*: supports 2(b)**
+> - Taylor: "Confirms the AVAC correspondence of 3, 21 and 28 May 2024, in which she was involved in emails about correcting the Appellant's shift payments." *The 3 May → 28 May chain, confirmed by the manager.*
+> - Wright: the allowance "must be approved and submitted by the line manager on an AVAC". *I could not remedy it myself.*
+> - Wright: payroll "does not itself assess an employee's entitlement". *Payroll could not fix it without the manager either.*
+
 # STRESSOR 3: the whole story
 
 In order: the role → the standard → the agreement → the earlier error → the break → the load that day → the
@@ -445,12 +490,18 @@ The particular each part proves is shown in [brackets].
 - **15** Each of those three movement forms records the Appellant's shift arrangements as "Continuous Shift Worker". [Tabs 17-19]
 - **16** The SOFC (13 May 2026) does not allege that the Appellant ceased to be a continuous shift worker at any time before 18 June 2024.
 
+> **▸ *Their own outline (24 Sep 2026)*: A**
+> - Taylor: "supervising rostering, attendance and shifts" from around April 2023. *The roster was hers.*
+
 **B. The standard [3(b)]**
 
 - **285** In its response of 18 February 2026 to the notice to admit, the Respondent admitted paragraph 3 of the notice, being: "The Employer's 'Fatigue Risk Management Policy' and the relevant Award require a minimum break of 10 hours between shifts, or 8 hours by written agreement." [Tabs 26-27]
 - **257** Review Decision 69983 dated 24 October 2024 records that in its response the employer included an extract of the Hospital and Health Services General Employees (Queensland Health) Award which "stated that employees must be provided with a break of not less than 10 hours between the termination of one shift and the commencement of another shift, and 8 hours applied instead of 10 only in specific circumstances". [Tab 25]
 - **239** Review Decision 69983 records that the policy regarding fatigue leave following weekends and rostered days off is dated June 2020. [Tab 25]
 - **240** That decision records: "The policy notes that many problems can be overcome regarding fatigue leave by either not rostering the employee who is on call for the first shift of the following day and not rostering on call an officer who is rostered for the first shift on the following day." [Tab 25]
+
+> **▸ *Their own outline (24 Sep 2026)*: B**
+> - Wright: the agreement "reducing his break between shifts from ten hours to eight". *Their own witness: the default is ten, and the agreement's floor is eight. Seven is below both.*
 
 **C. The 2020 agreement [3(c)]**
 
@@ -463,6 +514,12 @@ The particular each part proves is shown in [brackets].
 - **20** That decision records the employer's confirmation that there had been a "change to your employment contract and adjustments in your working hours" since 17 June 2020. [Tab 25]
 - **21** The SOFC (13 May 2026) does not allege that the 8-hour agreement of 17 June 2020 was reviewed, re-executed or re-confirmed at any time between 17 June 2020 and 18 March 2024.
 - **22** The SOFC (13 May 2026) does not allege that the Appellant was informed, at any time before 1 May 2024, that the 8-hour agreement of 17 June 2020 could be terminated by him.
+
+> **▸ *Their own outline (24 Sep 2026)*: C**
+> - Wright: "made under clause 15.1… with no end date, so that it continues to apply indefinitely unless replaced". *Their position. Met by 225 (swaps only) and 234 (no swap).*
+> - Wright: payroll "does not itself assess an employee's entitlement under them, or under any change in employment status". *No one in payroll assessed it after I went full-time.*
+> - Reese: "her understanding, through Ms Taylor, was that HR had confirmed the… agreement continued to apply after he moved to full-time employment, and that this was raised by the Appellant". *I raised the change to full-time. The HR confirmation is second-hand, and no document is identified.*
+> - Taylor: "Ms Taylor sought advice from HR, who confirmed the agreement was on file and continued to apply". *No document identified. Compare HR in writing, 7 July 2026: "only applied where staff initiated shift swaps have occurred" (225).*
 
 **D. August 2023: the earlier rostering error and "the required rest period" [3(b)]**
 
@@ -481,6 +538,12 @@ The particular each part proves is shown in [brackets].
 - **251** Review Decision 69983 records the Appellant's response of 9 August 2024 as stating that the break between the shifts of 17 and 18 March 2024 "did not include travel time", and: "If you factored in travel time, your break between shifts would have been less than 5 hours." [Tab 25]
 - **234** The SOFC (13 May 2026) does not allege that the consecutive shifts of 17 and 18 March 2024 arose from a staff initiated shift swap.
 
+> **▸ *Their own outline (24 Sep 2026)*: E: the rostering issue**
+> - Taylor: "Confirms the seven-hour break between shifts on 17-18 March 2024 was the result of human error". *The break, and that it was a rostering error by the manager.*
+> - ⭐ Wright: payroll's Technical Support advised "that what had occurred was better characterised as **a rostering practice issue for the line manager** rather than an unpaid entitlement". *Their own payroll witness puts the 7-hour break on the line manager's rostering. That is management action, and it is the 9A's case in 3(a)–(b).*
+> - Earl: "from the roster, the Appellant's break between two shifts 17–18 March 2024 was only seven hours, that he was rostered on ordinary hours". *"Rostered": the break came from the roster, not from any choice of mine.*
+> - Reese: the Appellant also raised "a separate concern about travel time to and from work not being included in that agreement". *Consistent with 251.*
+
 **F. The emergency load on the day [3(b)] (register entries NOT ADMITTED)**
 
 - **268** MSH's letter of 5 June 2026 (K-LM26/729) states in relation to Items 1 and 2: "a spreadsheet of recorded MET calls is available for the period 17-18 March 2024." [Tab 20]
@@ -495,6 +558,10 @@ The particular each part proves is shown in [brackets].
 - **188** Payroll's message of 3 May 2024 states: "Fortnight 18.03.24 is the opposite and has too many ordinary shifts for the fortnight resulting in wage reduction of 7.55hrs as one of the shifts needs to be overtime." [Tab 12]
 
 ⚠ Fact 188 is Payroll describing the fortnight that begins on Monday 18 March. Confirm which shift it treated as overtime before relying on it against the "not performing overtime" position (fact 237).
+
+> **▸ *Their own outline (24 Sep 2026)*: G**
+> - Earl: "he took paid sick leave on 19 March 2024". *Recovery taken from my own sick leave.*
+> - Wright: "the Award's fatigue provision applies to breaks around overtime, not between two ordinary shifts". *On their own case, a 7-hour break on ordinary hours carries no recovery entitlement at all. The only protection was the roster itself, and that was the line manager's "rostering practice".*
 
 **H. 8 April to 1 May 2024: the fatigue request, 23 days [3(c)]**
 
@@ -550,6 +617,9 @@ From I: the break was the instance, and the exposure continued to June. The rost
 - **224** By email dated 7 July 2026 Ms Lyndelle Forrest, Senior Consultant, Human Resources, Logan and Beaudesert Health Service, wrote to the Appellant stating that the rostering "currently provides more than 10-hour breaks between shifts". [Tab 21]
 - **225** That email states: "acknowledge you also signed an 8 hour agreement on 17 June 2020, which allows you to work with only an 8 hour break, however this is only applied where staff initiated shift swaps have occurred." [Tab 21]
 
+> **▸ *Their own outline (24 Sep 2026)*: L**
+> - Taylor: "All switchboard staff… had signed an agreement permitting an eight-hour… break". *Compare HR in writing: "only applied where staff initiated shift swaps" (225).*
+
 **M. The Respondent's positions**
 
 - **226** The SOFC (13 May 2026) states at paragraph 22(a): "says the shift was separated by only a 7-hour break (rather than an 8-hour break) says that this was a result of human error and not intentional or repeated".
@@ -559,6 +629,10 @@ From I: the break was the instance, and the exposure continued to June. The rost
 - **236** The SOFC (13 May 2026) states at paragraph 24(a): "says that the appellant took leave on 19 March 2024 but says this was paid leave".
 - **237** That amended statement of facts and contentions states at paragraph 24(b): "says that pursuant to clause 18.10 of the Award, the appellant is not entitled to fatigue leave, because he was not performing overtime".
 - **238** That amended statement of facts and contentions states at paragraph 27: "The respondent contends that any management action involved in the causation of any injury to the Plaintiff [sic] was reasonable management action taken in a reasonable way pursuant to s 32(5) WCRA."
+
+> **▸ *Their own outline (24 Sep 2026)*: M**
+> - Taylor and Reese: "the Appellant could refuse shifts at any time". *Met by the role's mandatory 24/7 requirement (2, 13), and by Wright: the break was "a rostering practice issue for the line manager".*
+> - No outline identifies the management action relied on for s 32(5) (303), and no outline gives any medical evidence.
 
 **N. What the Respondent does not allege**
 

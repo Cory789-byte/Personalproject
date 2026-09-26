@@ -163,7 +163,7 @@ and April 2024. The Instrument calls it "paid Special Pandemic Leave" (**127**).
 | Refused twice | "Reviewer - Chloe Donovan-Taylor : declined request" 21.02 and 29.02 (**116, 118, 123**); the reason given was that the statutory declaration was "not attached" (**133**) | ✅ |
 | The refusals were wrong on the employer's own case | SOFC ¶14(e): "the attachments were present" (**134**); ¶14(f): "human error" (**135**); RD: "the statutory declaration you provided was sufficient evidence" (**138**) | ✅ Also Ms Earl's outline: the second decline "also appears to have been made in error" |
 | Then approved on the same evidence | Resubmitted 11:07:28, approved 11:21:03 on 29.02, 13 min 35 s (**119–120, 124**); Manager approved 01.03 (**121**); processing date 1 March 2024, "Completed" (**140**) | ✅ |
-| Paid late | 10 days, 4 hours, 40 minutes from draft to final approval (**125**) | ✅ ⚠ Get the payslip for the fortnight the 30.40 hours were paid |
+| Approval took three submissions and 10 days | 10 days, 4 hours, 40 minutes from draft to final approval (**125**) | ⚠ Ms Earl's outline says he "continued to be paid, throughout the period". Put this as an entitlement refused twice that I could not remedy myself, not as wages unpaid, unless the payslip shows otherwise |
 | No one else had to do this | Not alleged of any other Switchboard employee (**142**). MSH Item 12: other staff approved for single days in the same weeks | ✅ / tender Item 12 as a comparison of records only |
 | Authority | No Band 9 delegate alleged for Taylor or Reese (**129–131**) | ✅ |
 | Same fortnight as a Payroll error | The leave falls in pay fortnight 19.02.24, which Payroll separately flagged: "The same has happened for the next fortnight 19.02.24" (**187**) | ⚠ Note the overlap only. Do not assert a link |
@@ -193,7 +193,7 @@ and April 2024. The Instrument calls it "paid Special Pandemic Leave" (**127**).
 - **"remedied in a timely manner" (**207**)** → the fix was specified on 3 May (**190**); not corrected on 13 May (**193**); still "waiting" on 21 May (**195**); lodged 28 May (**209**); "Part Completed" (**203**).
 - **"no outstanding underpayments" (**208**)** → that is the position now, not Feb–May 2024 (**185–189**).
 - **"waiting payroll confirmation" (**195**)** → Payroll had already confirmed and instructed on 3 May (**190**), and again on 13 May (**193**).
-- **Pandemic leave, "human error" (**135**)** → refused twice with the attachments present (**134**); approved 13 min 35 s after the third submission (**124**); 10 days to final approval (**125**).
+- **Pandemic leave, "human error" (**135**)** → their own payroll witness, Ms Earl: "the second decline also appears to have been made in error"; refused twice with the attachments present (**134**); approved 13 min 35 s after the third submission (**124**); 10 days to final approval (**125**).
 - **The Review Decision found factor 3 reasonable because "the resolution of them" was reasonable** (RD p 24) → both resolutions depended on repeated effort by me:
   - pandemic leave: three submissions, two refusals (**122–123**);
   - pay: Payroll twice (**190, 193**), the manager still "waiting" (**195**), 25 days, "Part Completed" (**203**);
