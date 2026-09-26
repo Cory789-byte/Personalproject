@@ -67,19 +67,14 @@ PDF).
 | "endorsing the unsafe rostering practices, ignoring the clinical fatigue risks" | State as chronology: errors on the same line continued (**211–213, 220**); roster concerns referred to HR, "Cory's roster will not be considered" (**218–221**); no fatigue assessment or training before 30 June 2024 (**264, 269–271**); no procedural change from any complaint (**272**); the June 2020 policy said how to avoid it (**239–240**) | ✅ The facts carry it. Drop the verbs |
 | "Admitted Fact: Form 24, Para 5" | Served number **287** | Correct the tag |
 
-## 1(d) "Disparate Treatment & Statutory Leave Obstruction (COVID)"
+## 1(d) "Disparate Treatment & Statutory Leave Obstruction (COVID)": now relied on under Stressor 2(a)
 
-| 9A asserts | Admitted facts | |
-|---|---|---|
-| 20 Feb – 1 Mar 2024 | Draft 20.02 11:24:48; approved by the Manager 01.03 16:05:08 (**114, 121**); 10 days 4 hours (**125**) | ✅ |
-| Made to self-administer while ill | "tested positive for Covid" (**136**); SOFC ¶14(c): "Ms Taylor asked the appellant to submit a Special Pandemic Leave request via MyHR" (**132**); the initiator was the Appellant (**141**) | ✅ ⚠ **136** also records that she first asked him to send it to her "so she could submit it". The Regulator will use this |
-| A facilitation she routinely did for other staff | No other employee is alleged to have been required to submit personally (**142**). She initiated every AVAC for me in the period (**199–201**) | ⚠ "Other staff" needs MSH Item 12 (team pandemic leave). Tender it |
-| Uploaded at 11:41:27 on 20 Feb | "submitted request", 20.02.2024, 11:41:27 (**115**) | ✅ The attachment time of 11:41:29 is in the 11 June disclosure p 3. Tender it |
-| Declined twice, because evidence was "not attached" | Declined 21.02 and 29.02 (**116, 118, 123**); SOFC ¶14(d): "the required statutory declaration was not attached" (**133**) | ✅ |
-| Contradicted by the logs | SOFC ¶14(e): "the attachments were present" (**134**); ¶14(f): "human error" (**135**) | ✅ Their own concession |
-| Then approved on the identical evidence | Resubmitted 11:07:28, approved 11:21:03, 13 min 35 s (**119–120, 124**); "the statutory declaration you provided was sufficient evidence" (**138**) | ✅ |
-| Authority | Sub-delegation instrument, no further sub-delegation (**127–128**); no Band 9 delegate alleged (**129–131**) | ✅ |
-| "capriciously" | — | ⛔ Word not used |
+**Reallocated (26 Sep 2026).** The pandemic leave is a paid entitlement that was refused twice and paid late.
+Stressor 2 is where it belongs:
+- Review Decision 69983 dealt with it under **Factor 3, "Withholding of pay"** (RD pp 14, 20, 23–24).
+- The Respondent's own payroll witness (Ms Earl's outline) deals with it as a pay matter.
+
+The facts are set out in full under **Stressor 2(a)(ii)** and **2(b)**. Stressor 1 stands on 1(a) and 1(f) without it.
 
 ## 1(e) Public Interest Disclosure
 ⛔ Plead **the admitted 1(e) wording only**. No fact from the 303 is attached to it. Nothing is carried in or out,
@@ -119,7 +114,6 @@ and no other particular is linked to it.
   - contact book removed (**45**);
   - after-hours changes had to wait (**44**);
   - the clinic document was not amended and staff were not told (**109–110**).
-- **Pandemic leave "human error" (**135**)** → "the attachments were present" (**134**); approved in 13 min 35 s (**124**).
 - **The concerns** →
   - "would get in touch", with nothing after (**213**);
   - toolkit: no feedback (**216**);
@@ -140,7 +134,7 @@ and no other particular is linked to it.
 - 1(b): the contents are not admitted.
 - 1(g): mostly unproved.
 
-**Its load-bearing particulars:** **1(a), 1(d) and 1(f)**. Every element is admitted except "pathology" and "hostility".
+**Its load-bearing particulars:** **1(a) and 1(f)**. Every element is admitted except "pathology" and "hostility". 1(d) now sits under Stressor 2.
 
 ---
 ---
@@ -157,6 +151,23 @@ and no other particular is linked to it.
 | Raised by me before Payroll wrote | 8 Apr: "requested a review of your payment for… 8 March 2024 and 31 March 2024" (**242**); 24 Apr: "more than 2 weeks without any response or overtime payment" (**246**) | ✅ |
 | "a documented 42% pay disparity" | ⚠ **Denied**: "the comparator used does not represent a true comparator… the roster was equitable" (**299**) | ⚠ Not needed for Stressor 2 to stand alone. ⛔ Rule 3: items 8–9 anchor to 1(a) and this denial only |
 
+### 2(a)(ii) The pandemic leave entitlement, Feb – Mar 2024 (formerly pleaded as 1(d))
+
+The 9A's words in 2(a) cover it: "failed to pay the Appellant his correct statutory entitlements" between February
+and April 2024. The Instrument calls it "paid Special Pandemic Leave" (**127**).
+
+| What it proves | Admitted facts | |
+|---|---|---|
+| A paid entitlement | Taylor: "eligible for up to 5 days paid leave with the Special Pandemic Leave request" (RD p 20, contents admitted **295**); "the power to approve/not approve paid Special Pandemic Leave in accordance with Directives 05/17 and 01/20" was sub-delegated, with no further sub-delegation (**127–128**) | ✅ |
+| I lodged it correctly, with the evidence, on day one | Draft 20.02.2024 11:24:48; submitted 11:41:27 (**114–115**); "tested positive for Covid" (**136**) | ✅ The attachment time of 11:41:29 is in the 11 June disclosure p 3. Tender it |
+| Refused twice | "Reviewer - Chloe Donovan-Taylor : declined request" 21.02 and 29.02 (**116, 118, 123**); the reason given was that the statutory declaration was "not attached" (**133**) | ✅ |
+| The refusals were wrong on the employer's own case | SOFC ¶14(e): "the attachments were present" (**134**); ¶14(f): "human error" (**135**); RD: "the statutory declaration you provided was sufficient evidence" (**138**) | ✅ Also Ms Earl's outline: the second decline "also appears to have been made in error" |
+| Then approved on the same evidence | Resubmitted 11:07:28, approved 11:21:03 on 29.02, 13 min 35 s (**119–120, 124**); Manager approved 01.03 (**121**); processing date 1 March 2024, "Completed" (**140**) | ✅ |
+| Paid late | 10 days, 4 hours, 40 minutes from draft to final approval (**125**) | ✅ ⚠ Get the payslip for the fortnight the 30.40 hours were paid |
+| No one else had to do this | Not alleged of any other Switchboard employee (**142**). MSH Item 12: other staff approved for single days in the same weeks | ✅ / tender Item 12 as a comparison of records only |
+| Authority | No Band 9 delegate alleged for Taylor or Reese (**129–131**) | ✅ |
+| Same fortnight as a Payroll error | The leave falls in pay fortnight 19.02.24, which Payroll separately flagged: "The same has happened for the next fortnight 19.02.24" (**187**) | ⚠ Note the overlap only. Do not assert a link |
+
 ## 2(b) "Unreasonable Delay"
 
 | 9A asserts | Admitted facts | |
@@ -166,6 +177,8 @@ and no other particular is linked to it.
 | A 25-day delay | 3 May → 28 May (**183, 209, 297**) | ✅ Arithmetic on admitted dates |
 | The correction was the manager's to make | Five AVACs in the period, all initiated by "Donovan-Taylor, Chloe", none by me (**199–201**) | ✅ |
 | Still incomplete | 16450619, submitted 28 May, effective 30 March: "Part Completed" (**203**) | ✅ |
+| **I could not remedy it myself** | Pandemic leave: submitted three times (**122**); the decisions sat with the Reviewer (Taylor) and the Manager (Reese) (**126**). Pay: every AVAC could only be lodged by the manager, and none was lodged by me (**199–201**). 10 May: I wrote to Payroll direct (**191**) and was sent back: "Please speak to your Line Manager to have them corrected" (**193**). 8 Apr and 24 Apr: I asked the manager for a pay review and followed up (**242, 246**) | ✅ Each correction depended on the manager |
+| The same manager each time | Pandemic leave refusals: "Chloe Donovan-Taylor" (**116, 118**). Pay corrections: "Donovan-Taylor, Chloe" (**200**); "I am still I am waiting payroll confirmation" (**195**) | ✅ |
 
 ## Stressor 2 standing alone
 
@@ -174,24 +187,31 @@ and no other particular is linked to it.
 - Corrections go through the line manager in myHR (**193**), and the manager lodged every AVAC (**200**).
 - The Respondent's own pleaded standard: "remedied in a timely manner" (**207**).
 - The contract measured: full-time from 16 Oct 2023 (**37–38**), "contracted 76hrs" (**189**).
+- The pandemic leave entitlement: up to 5 days paid, on photo evidence or a statutory declaration (RD p 20; **132, 138**); the delegation instrument (**127–128**).
 
 **E3 Not reasonable management action taken in a reasonable way**
 - **"remedied in a timely manner" (**207**)** → the fix was specified on 3 May (**190**); not corrected on 13 May (**193**); still "waiting" on 21 May (**195**); lodged 28 May (**209**); "Part Completed" (**203**).
 - **"no outstanding underpayments" (**208**)** → that is the position now, not Feb–May 2024 (**185–189**).
 - **"waiting payroll confirmation" (**195**)** → Payroll had already confirmed and instructed on 3 May (**190**), and again on 13 May (**193**).
+- **Pandemic leave, "human error" (**135**)** → refused twice with the attachments present (**134**); approved 13 min 35 s after the third submission (**124**); 10 days to final approval (**125**).
+- **The Review Decision found factor 3 reasonable because "the resolution of them" was reasonable** (RD p 24) → both resolutions depended on repeated effort by me:
+  - pandemic leave: three submissions, two refusals (**122–123**);
+  - pay: Payroll twice (**190, 193**), the manager still "waiting" (**195**), 25 days, "Part Completed" (**203**);
+  - I could not approve the leave or lodge the pay corrections myself (**126, 199–201**).
 - **s 32(5) (**238**)** → no action identified (**303**).
 - No discipline or warning (**300–302**).
 
 **E4 A significant contributing factor**
-- **Timing.** The errors ran from February to 1 April. The correction was lodged on 28 May, three weeks before onset.
-- **The Review Decision.** Factor 3 (pay) is among the factors of significant contribution (**262**, **295**).
-- **Medical.** The report must attribute Stressor 2 **by itself**: RDO balances drawn down (**185, 193**), wages reduced (**188**), and repeated follow-up (**191–193, 242, 246**).
+- **Timing.** The pandemic leave was refused on 21 and 29 February. The pay errors ran from February to 1 April. The correction was lodged on 28 May, three weeks before onset.
+- **The Review Decision.** Factor 3 ("Withholding of pay"), **which included the Covid leave** (RD pp 14, 20, 23–24), is among the factors through which employment was found a significant contributing factor (**262**, **295**). The RD also found it was management action: "The pay issues arose as a result of Ms Taylor refusing your claims for payment in specific situations" (RD p 17).
+- **Medical.** The report must attribute Stressor 2 **by itself**: a paid entitlement refused twice while I was ill (**116, 118, 136**); RDO balances drawn down (**185, 193**); wages reduced (**188**); repeated follow-up I could not resolve myself (**122, 191–193, 242, 246**).
 - **No alternative cause is pleaded.**
 
 **Its weakest point**
 - The Review Unit found factor 3 reasonable.
-- **Answer:** 2(b) is not about the error. It is the 25 days after Payroll had already specified the correction.
-- Stressor 2 stands alone on **2(b)** and the four fortnights in 2(a), without the 42%.
+- **Answer:** the RD's reason was "the resolution". Neither resolution came without repeated effort by me. The pandemic leave was refused twice on evidence the Respondent now admits was present (**134–135**). The pay correction came 25 days after Payroll had specified it (**190, 209**).
+- Stressor 2 now stands alone on **2(a)(ii)**, **2(b)** and the four fortnights in 2(a), without the 42%.
+- **Risk:** RD p 24 records my earlier word "maliciously" about the withheld payments. Never repeat it. Facts only.
 
 ---
 ---
@@ -276,7 +296,7 @@ and no other particular is linked to it.
 | 1(b) | "destroyed"; "hostile and verbally aggressive" | "removed; no copy exists" (**288, 151**); **292** held |
 | 1(c) | "dismissed the same day" | "directed to continue communicating with Ms Taylor" (**158**); not investigated as a grievance (**160–161**) |
 | 1(c) | "Para 5" | **287** |
-| 1(d) | "capriciously"; "routinely… for other staff" | Declined twice with attachments present (**133–134**); no other employee required (**142**) |
+| 1(d) | Pleaded under Stressor 1 | **Relied on under Stressor 2(a)**, consistently with RD Factor 3. Say so in the one-page note (Guide 4.10); all facts admitted; no prejudice. Drop "capriciously" |
 | 1(f) | "discipline" | "a request to retract" (**77**) |
 | 1(g) | April 2023; 13 months | Reserve |
 | 2(a) | "42%" | Not relied on; four fortnights (**185–189**) |
@@ -292,4 +312,5 @@ and no other particular is linked to it.
 - "IMMEDIATELY" in Tab 12.
 - The Carr [58] and [60] pinpoints.
 - **228–231** by Tab 31.
-- MSH Item 12 for 1(d) "other staff".
+- MSH Item 12 for the pandemic leave comparison ("other staff").
+- The payslip showing when the 30.40 hours of pandemic leave were paid.
