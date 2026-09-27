@@ -7567,3 +7567,9 @@ is a trained second output on the same mind. Acquiring one is a second format, n
 Order (3) is headed *"APPEAL AGAINST DECISION OF RESPONDENT PURSUANT TO SECTION 549"*. s 549 is the
 appeal right; s 550 is procedure and s 550(4) the filing step. Full provision map in
 `skill/references/REGULATOR-DUTIES-AND-REPORTING.md` §6.
+
+## 27 Sep 2026 (late) — FINAL letter + Second Amended 9A set
+
+Built `drafts/second-amended-9A/2026-10_FINAL_Letter_Schedule_and_Second_Amended_9A.pdf` (27 pp: letter 1 p, schedule 2 pp, 9A 24 pp) plus separate DOCX/PDF for the letter and the 9A. One font (Arial), one bold hierarchy, plain-language wording throughout; every edited paragraph machine-checked against v2 for lost numbers, quotes and fact citations (none). Change 30 in `CHANGES_v1_to_v2.md`. Rebuild with `python3 build_final.py` (edits live in `edits_9A.txt`; letter text in `letter_content.py`).
+
+Before filing: date the letter; verify Langerak [86], Mahaffey, the doctors' names against Tab M1, the 20 Sep 2024 separation date; send the 9A to Matheson with the consent request; check the Respondent's 30 Sep material; open the DOCX in Word and export the filing PDF from there if the Registry wants a Word-generated PDF.
