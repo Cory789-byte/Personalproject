@@ -4,10 +4,10 @@ from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,PageBreak
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib import colors
 from reportlab.lib.units import mm
-body=ParagraphStyle('b',fontName='Helvetica',fontSize=8.8,leading=11.1,spaceAfter=3.5)
+body=ParagraphStyle('b',fontName='Helvetica',fontSize=8.7,leading=10.8,spaceAfter=3)
 small=ParagraphStyle('s',parent=body,fontSize=8.6,leading=10.6,spaceAfter=1,leftIndent=8)
 h=ParagraphStyle('h',fontName='Helvetica-Bold',fontSize=10.5,leading=13,spaceBefore=6,spaceAfter=3)
-t=ParagraphStyle('t',fontName='Helvetica-Bold',fontSize=11.5,leading=14,spaceAfter=4)
+t=ParagraphStyle('t',fontName='Helvetica-Bold',fontSize=11,leading=13,spaceAfter=3)
 esc=lambda s:s.replace('&','&amp;').replace('<','&lt;').replace('>','&gt;')
 S=[]
 S.append(Paragraph(esc(DATE),body))
