@@ -44,7 +44,7 @@ point where a concession is most likely.
   arose out of… reasonable management action taken in a reasonable way". At [58]: if the s 32(5) conduct "does not,
   on balance, displace the evidence in favour of the worker then a finding in the workers favour must follow". One
   unreasonable stressor out of nine was enough there. ⚠ Confirm the pinpoints from the PDF before citing.
-- **Benjamin (21 Feb 2025):** known from news reports only; citation not found. Not relied on.
+- **Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54 (21 Feb 2025):** verified 27 Sep 2026, full text in `documents/caselaw/`. Not relied on in any served document; see the 27 Sep read.
 
 ## 3. How he is likely to run the second conference
 
@@ -95,4 +95,4 @@ specific, documented s 32(5) action for each stressor; or a conference where you
   and 2).
 - Read Grace, Du Preez and Carr in full from the PDFs before citing any pinpoint.
 - A s 32(5) decision by Dwyer IC himself: still not found (searched Queensland Judgments and the web today).
-- Benjamin: citation still unverified.
+- Benjamin: verified ([2025] QIRC 54).

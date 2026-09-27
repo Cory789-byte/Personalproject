@@ -158,7 +158,7 @@ amendment); that the conference is listed before a hearing; that the Commission 
 | s 32(5) onus authorities | `[unresolved]`: verify from primary sources before submissions |
 | McCool [2021] QIRC 374 | Analogy only (s 36, not s 32(5)) |
 | *Jones v Dunkel* (1959) 101 CLR 298 | `[unresolved]`: how the QIRC applies it; raise only in submissions |
-| Benjamin recusal decision (Dwyer IC, 21 Feb 2025) | `[unresolved]`: citation not located; news reports only |
+| Benjamin recusal decision (Dwyer IC, 21 Feb 2025) | Verified 27 Sep 2026: Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54; full text at `documents/caselaw/`; read at `analysis/2026-09-27_DWYER_RECUSAL_DECISION_Benjamin_read_against_the_FINAL_set.md` |
 | Dwyer does not hear the appeal | Verified (Guide 5.1, 7.1; he chaired the 13 Mar 2026 conference) |
 | Respondent's expert report | Confirm after 4 pm, 30 Sep 2026 |
 | Krishnaiah report / attendance | `[unresolved]`: the decisive open item |
