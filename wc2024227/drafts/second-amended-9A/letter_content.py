@@ -14,15 +14,49 @@ BODY = [
 ("Where the Appellant stands.", "The Appellant relies on the admitted facts, the documents in Part B.7, the treating medical records served on 9 September 2026 and the oral evidence of his treating general practitioner and psychiatrist; no medico-legal report is relied on. He seeks the orders in Part E."),
 ("The documents.", "The schedule on the following page states, for each of the 39 documents at Annexure A to the notices of 28 August 2026, whether its authenticity was admitted on 8 September 2026, disputed then and confirmed by the Respondent on 23 September 2026, or disputed and referred by the Respondent to Metro South Hospital and Health Service for copies. The facts recorded in every disputed document were admitted on 8 September 2026. The copies of the nine referred documents were produced from the Appellant's own records; five bear the signature of the employer's Director, Corporate Services. The Appellant asked the Respondent on 9 September 2026 to confirm them. Production of the same documents by Metro South to the Respondent, and their disclosure back to the Appellant, would return to him documents he already holds. The Appellant asks that the Respondent be directed to state, by a date the Commission fixes, whether it disputes the authenticity of each of the ten outstanding documents and on what ground; failing which, that they be received at hearing subject to proof."),
 ]
-SCHEDULE_TITLE = "Schedule: the documents at Annexure A (notices to admit served 28 August 2026)"
-SCHEDULE = [
-("Admitted, 8 September 2026 (25)", [
- "1A Stibbard, \"Hello & Update\", 18 Jul 2023", "1B Taylor to Reese, \"Fwd: Communication Book Update\", 6 Jun 2023", "2 \"Increase of hours and Workplace issues\" chain, 7-10 Aug 2023", "3 Reese, HR Policy E12 and emails, 29 Aug-8 Sep 2023", "4 \"Request to Increase Working Hours\" and emails, 7 and 31 Aug 2023", "7 \"Roster Concerns\" chain, 26 Apr-8 May 2024", "8 Reese to Pritchard and to LBH_HR, 10 and 20 May 2024", "8A QH-GDL-401-3.3 cover page, 2021", "8B MASPER emails and issue logs, 2-9 May 2024", "8C Stibbard on-call email, 13 May 2024", "9 \"Switchboard Manager - On call and Hours.\", 17 May 2024", "9A \"Office Hours and Departmental Directives\" chain, 15 May 2024", "9B Reese reply, 21 May 2024", "10 \"Sick leave 14.05.24\" and forwarding, 14-15 May 2024", "11 Integrated Respiratory Service emails and replies, 15 and 20 May 2024", "12 \"Corey Shepherd 388372 Pay issues\", 3-13 May 2024", "13 Same thread, 21 May 2024", "14 \"Validation of Claims older than 3 months\", 28 May 2024", "15 myHR submissions report, 1 Feb-31 May 2024", "16 Leave Takings Report, 19 Mar 2024", "25 Review Decision 69983, 24 Oct 2024", "26 Appellant's first notice to admit facts", "27 Respondent's response, 18 Feb 2026", "28 myHR leave request history 15480560, 20 Feb-1 Mar 2024", "29 Instrument of Sub-Delegation, eff. 5 Dec 2022"]),
-("Disputed 8 September 2026; confirmed by the Respondent 23 September 2026 (4)", [
- "6 Taylor, \"Afterhours Oncall Process - Switchboard\", 15 Apr 2024", "20 Metro South to Commissioner Dwyer, K-LM26/729, 5 Jun 2026", "30 Taylor, \"What's Chloe's Hours?!\", 23 Aug 2023", "30A Taylor, \"Good morning Team.\", 18 Jun 2024"]),
-("Disputed 8 September 2026; referred by the Respondent to Metro South 23 September 2026 (9) - contents admitted at the facts shown", [
- "1 Role description, AO3 Switchboard Services, undated (facts 1-13)", "5 Taylor, \"Approved - Permanent Full Time FTE\", 27 Sep 2023 (37-38)", "17, 18, 19 Movement forms signed by Mr Hughes, 27 Feb, 17 Apr, 9 Jun 2026 (14-15)", "21 Forrest (HR) to the Appellant, 7 Jul 2026 (224-225)", "22 Consultation Paper, Proposed Rosters, signed by Mr Hughes 12 Nov 2024 (169-175)", "23 Consultation outcome, signed by Mr Hughes 12 Dec 2024 (167-168, 176-177)", "31 \"2024 Emergency Code Register\", March 2024 sheet, 16-20 Mar 2024 (228-231 not admitted)"]),
-("Disputed 8 September 2026; not addressed by the Respondent on 23 September 2026 (1)", [
- "24 Moran (Together Queensland), \"Switchboard Roster Feedback - For Delegates\", 3 Nov 2025 (178-179)"]),
+SCHEDULE_TITLE = "Schedule: the 39 documents at Annexure A (notices to admit served 28 August 2026) and their status"
+SCHEDULE_COLS = ["Tab", "Document", "Date", "8 Sep 2026", "23 Sep 2026", "Position now"]
+A="Admitted"; D="Disputed"; C="Confirmed by the Respondent"; M="Referred by the Respondent to Metro South for copies"; N="Not mentioned"
+SCHEDULE_ROWS = [
+ ("1A","Stibbard to the Switchboard team, \"Hello & Update\"","18 Jul 2023",A,"-","Admitted; tender"),
+ ("1B","Taylor to Reese, \"Fwd: Communication Book Update\", with her email to Logan Switch of 9:57 am","6 Jun 2023",A,"-","Admitted; tender"),
+ ("2","\"Increase of hours and Workplace issues\" chain and Reese's replies","7-10 Aug 2023",A,"-","Admitted; tender"),
+ ("3","Reese attaching HR Policy E12; emails of 4 and 8 Sep 2023","29 Aug-8 Sep 2023",A,"-","Admitted; tender"),
+ ("4","\"Request to Increase Working Hours to Full Time Rotational Roster\"; emails of 7 Aug 2023 1:43 pm and 5:11 pm","7 and 31 Aug 2023",A,"-","Admitted; tender"),
+ ("7","\"Roster Concerns\" chain","26 Apr-8 May 2024",A,"-","Admitted; tender"),
+ ("8","Reese to Pritchard \"FW: Roster Concerns\"; Reese to LBH_HR attaching qh-gdl-401-3.3","10 and 20 May 2024",A,"-","Admitted; tender"),
+ ("8A","Cover page, Fatigue risk management systems implementation guideline QH-GDL-401-3.3:2021","2021",A,"-","Admitted; tender"),
+ ("8B","MASPER emails (Taylor to Kwok and Wong; \"MASPER process\") and issue logs","9 May 2024 (logs 2-8 May)",A,"-","Admitted; tender"),
+ ("8C","Stibbard, \"Switchboard After Hours On Call Manager PP24\"","13 May 2024",A,"-","Admitted; tender"),
+ ("9","Taylor, \"Switchboard Manager - On call and Hours.\"","17 May 2024",A,"-","Admitted; tender"),
+ ("9A","\"Office Hours and Departmental Directives\" chain (1:15 pm, 6:23 pm, 7:09 pm)","15 May 2024",A,"-","Admitted; tender"),
+ ("9B","Reese, \"RE: Office Hours and Departmental Directives\"","21 May 2024",A,"-","Admitted; tender"),
+ ("10","Taylor, \"Sick leave 14.05.24\", and its forwarding to Reese","14-15 May 2024",A,"-","Admitted; tender"),
+ ("11","Marriott (Integrated Respiratory Service) to Logan Switch; the Appellant to Taylor; Taylor's reply","15 and 20 May 2024",A,"-","Admitted; tender"),
+ ("12","\"Corey Shepherd 388372 Pay issues\" thread","3-13 May 2024",A,"-","Admitted; tender"),
+ ("13","Same thread, Taylor to the Appellant","21 May 2024",A,"-","Admitted; tender"),
+ ("14","Taylor, \"Validation of Claims older than 3 months - Please sign\"","28 May 2024",A,"-","Admitted; tender"),
+ ("15","myHR submissions report (MSH Item 11)","1 Feb-31 May 2024",A,"-","Admitted; tender"),
+ ("16","QH Leave Takings Report (MSH Item 15)","19 Mar 2024",A,"-","Admitted; tender"),
+ ("25","Review Decision 69983","24 Oct 2024",A,"-","Admitted; tender"),
+ ("26","Appellant's first notice to admit facts","before 18 Feb 2026",A,"-","Admitted; tender"),
+ ("27","Respondent's response to that notice","18 Feb 2026",A,"-","Admitted; tender"),
+ ("28","myHR leave request history, Process Reference 15480560 (MSH Item 11)","20 Feb-1 Mar 2024",A,"-","Admitted; tender"),
+ ("29","Instrument of Human Resource Sub-Delegation, Paid Special Pandemic Leave (MSH Item 13)","eff. 5 Dec 2022",A,"-","Admitted; tender"),
+ ("6","Taylor, \"Afterhours Oncall Process - Switchboard\"","15 Apr 2024",D,C,"Now admitted; tender"),
+ ("20","Metro South to Commissioner Dwyer, K-LM26/729, signed by the Chief Executive","5 Jun 2026",D,C,"Now admitted; tender"),
+ ("30","Taylor, \"What's Chloe's Hours?!\"","23 Aug 2023",D,C,"Now admitted; tender"),
+ ("30A","Taylor, \"Good morning Team.\"","18 Jun 2024",D,C,"Now admitted; tender"),
+ ("1","Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital","undated",D,M,"Outstanding; contents admitted (facts 1-13)"),
+ ("5","Taylor, \"Approved - Permanent Full Time FTE\"","27 Sep 2023",D,M,"Outstanding; contents admitted (37-38)"),
+ ("17","Movement form, approved by Mr Hughes as delegate","27 Feb 2026",D,M,"Outstanding; contents admitted (14-15)"),
+ ("18","Movement form, approved by Mr Hughes","17 Apr 2026",D,M,"Outstanding; contents admitted (14-15)"),
+ ("19","Movement form, approved by Mr Hughes","9 Jun 2026",D,M,"Outstanding; contents admitted (14-15)"),
+ ("21","Forrest, Senior Consultant Human Resources, to the Appellant","7 Jul 2026",D,M,"Outstanding; contents admitted (224-225)"),
+ ("22","Consultation Paper, Proposed Rosters for Switchboard Services, signed by Mr Hughes 12 Nov 2024","Nov 2024",D,M,"Outstanding; contents admitted (169-175)"),
+ ("23","Consultation outcome, Proposed Rosters, signed by Mr Hughes 12 Dec 2024","Dec 2024",D,M,"Outstanding; contents admitted (167-168, 176-177)"),
+ ("31","Screen capture, \"2024 Emergency Code Register.xlsx\", March 2024 sheet, entries 16-20 Mar 2024","Mar 2024",D,M,"Outstanding; facts 228-231 not admitted"),
+ ("24","Moran (Together Queensland) to Jeffrey, Conaghan and the Appellant, \"Switchboard Roster Feedback - For Delegates\"","3 Nov 2025",D,N,"Outstanding; contents admitted (178-179)"),
 ]
+SCHEDULE_NOTE = "Requested of the Respondent on 9 September 2026: confirmation of the ten outstanding documents. Copies of Tabs 1, 5, 17 to 19, 21 to 24 and 31 were produced from the Appellant's own records; Tabs 17 to 19, 22 and 23 bear the signature of the employer's Director, Corporate Services. Enclosure: Second Amended Statement of Facts and Contentions (Form 9A), 19 pages."
 CLOSE = ["The Appellant asks that this letter and its enclosure be placed before Commissioner Dwyer and will proceed on the orders made.", "Cory Lea Shepherd, Appellant (self-represented)"]

@@ -15,10 +15,16 @@ for b,t in BODY: body.append(para(t,bold_lead=b))
 for l in CLOSE: body.append(para(l))
 body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>')
 body.append(para(SCHEDULE_TITLE,bold=True))
-for h,items in SCHEDULE:
-    body.append(para(h,bold=True,after=40))
-    for it in items: body.append(para('Tab '+it,after=20,indent=284))
-body.append(para('')); body.append(para('Enclosure: Second Amended Statement of Facts and Contentions (Form 9A), 19 pages.'))
+def cell(t,bold=False,shade=None):
+    sh=f'<w:shd w:val="clear" w:color="auto" w:fill="{shade}"/>' if shade else ''
+    return f'<w:tc><w:tcPr>{sh}</w:tcPr><w:p><w:pPr><w:spacing w:after="0"/></w:pPr>{run(t,bold,size=15)}</w:p></w:tc>'
+rows=['<w:tr>'+''.join(cell(h,True,'E9E9E9') for h in SCHEDULE_COLS)+'</w:tr>']
+for r in SCHEDULE_ROWS:
+    shade='F3F7F3' if r[4]==C else ('FBF5EE' if r[3]==D else None)
+    rows.append('<w:tr>'+''.join(cell(str(v),False,shade) for v in r)+'</w:tr>')
+grid='<w:tblGrid>'+''.join(f'<w:gridCol w:w="{w}"/>' for w in (500,3600,1100,1000,1800,1900))+'</w:tblGrid>'
+body.append('<w:tbl><w:tblPr><w:tblW w:w="9900" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4"/><w:left w:val="single" w:sz="4"/><w:bottom w:val="single" w:sz="4"/><w:right w:val="single" w:sz="4"/><w:insideH w:val="single" w:sz="4"/><w:insideV w:val="single" w:sz="4"/></w:tblBorders></w:tblPr>'+grid+''.join(rows)+'</w:tbl>')
+body.append(para('')); body.append(para(SCHEDULE_NOTE))
 doc=f'''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>{''.join(body)}<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1000" w:right="1000" w:bottom="900" w:left="1000" w:header="708" w:footer="708" w:gutter="0"/></w:sectPr></w:body></w:document>'''
 ct='''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
