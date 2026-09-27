@@ -83,6 +83,8 @@ things that you say… **if you say something and it's not contradicted… it wi
 | **Achieved?** | ✅ Yes |
 | ⭐⭐⭐ **Position after** | **The single most valuable thing said in the hour.** ⭐ And it is not a courtesy: it is what he **actually did** in *McCool* [2021] QIRC 374 at [65]–[67] — *"insufficient evidence available… to activate the exclusions"* |
 
+> ⛔ **Correction 27 Sep 2026 (A3).** The 17:45 answer ("there has been some emails … I have to probably consider that") is **Ms Matheson's**, answering the question put to her. The Appellant's own answers in this stretch are 18:03 and 18:29 only.
+
 ## STEP 6 · [17:24]–[19:45] — THE WEAKEST STRETCH
 **What happened.** *"Only just now"* [17:24] · *"Not that I can recall, no."* [18:29] — asked whether
 the Regulator's disclosure contained examples. ⭐ **It did** — the 15 April material was in his own

@@ -13,6 +13,7 @@ Viterbi inference described under Method, because it comes from a person who was
 |---|---|---|---|---|---|
 | A1 | 2026-09-16 | **30:12.98** (segment start; earlier recorded loosely as "~30:16"), inside the turn timestamped 29:45.62 | "Yeah, I actually understand what you're getting at." re-attributed **DWYER IC → MR SHEPHERD** | Mr Shepherd, participant, present at the proceeding | **100%** |
 | **A2** | 2026-09-16 | **46:10.84** | *"I don't know if I can prove it as much."* — **CONFIRMATION, no change.** Label was already MR SHEPHERD; class upgraded Viterbi-inferred → participant-confirmed | Mr Shepherd, participant, present at the proceeding | **100%** |
+| **A3** | 2026-09-27 | **17:45.20–17:52.92** and **40:40.42–41:07.00** (five segments) | *"There has been some emails … but I have to probably consider that."* and *"I do believe we have those, and I do believe we've disclosed them"* … *"I do believe that I have received those, Commissioner, and disclosed them. I would have to triple check to be…"* re-attributed **MR SHEPHERD → MS MATHESON** | Mr Shepherd, participant, present at the proceeding; corroborated by segment intensity (39–56 dB against his 62 dB median) and pitch (151–174 Hz against his 137 Hz median), and by the words themselves ("**we** have those", "**we've** disclosed") | **High (participant + acoustic); certify before external use** |
 
 **A1 note — purpose, as stated by the speaker.** The words were spoken as an acknowledgement of
 the Commissioner's point and as a **preface to explaining his disclosure request**. They conveyed
@@ -121,7 +122,9 @@ line in the hearing holds both.**
 particular it says nothing about the disputed word at 46:48.54, which the re-decode resolved
 separately and against the operator's hypothesis (see reader's note N3).
 
-**Effect on the counts below.** One segment moves from Commissioner Dwyer to Mr Shepherd. The
+**A3 note — why the original pipeline got this wrong, and why ECAPA could not catch it.** Both principal speakers are men with a median pitch near 136 Hz, so the pipeline separated the room by *bench* against *bar table*. Ms Matheson sits at the bar table. Her voice is 10–20 dB quieter at the bench microphone and higher (152–174 Hz). The Viterbi pass ran on level-normalised audio and leaned on adjacency, so a bar-table answer to a question put to Ms Matheson was assigned to the only bar-table speaker it modelled. The ECAPA re-diarisation is two-cluster (bench / bar table) and therefore cannot distinguish Mr Shepherd from Ms Matheson at all; its 93.8% agreement says nothing about A3 either way. The discriminators that do work are un-normalised intensity and pitch: every A3 segment sits at 39–56 dB and 151–174 Hz, against Mr Shepherd's 62 dB / 137 Hz medians over 208 segments, and matches Ms Matheson's confirmed 17:35.36 and 40:36.74 segments (48–54 dB, 152–174 Hz). Lexically, the Appellant never refers to himself as "we". **Consequence:** the "three of his top five hedges" finding in `MENTION-AUDIO-prosody-findings.md` §3 is withdrawn; those were Ms Matheson's hedges. See `analysis/2026-09-27_MENTION_ACOUSTICS_correction_Matheson_not_Shepherd.md`.
+
+**Effect on the counts below.** One segment moves from Commissioner Dwyer to Mr Shepherd (A1); six segments move from Mr Shepherd to Ms Matheson (A3). The
 SPEAKING SHARE table is the unamended pipeline output and has not been recomputed; read it
 subject to this amendment.
 
@@ -496,7 +499,9 @@ Yes, Commissioner. We've disclosed all we have currently.
 **17:38.96  DWYER IC**  
 Okay. Does that include email communications from Ms Chloe Taylor to staff?
 
-**17:45.20  MR SHEPHERD**  `↑+3.3st quieter`  
+> **✔ AMENDMENT A3 — speaker re-attributed MR SHEPHERD → MS MATHESON** (participant evidence; intensity 44–45 dB, pitch 151–166 Hz; answers a question put to Ms Matheson).
+
+**17:45.20  MS MATHESON**  `↑+1.5st (own baseline) quieter 44dB`  
 There has been some emails to involve the quality of the staff, but I have to probably
 consider that.  `flat quieter`
 
@@ -1126,9 +1131,11 @@ You don't know?  `flat quieter`
 **40:36.74  MS MATHESON**  `↑+2.4st wide`  
 The request for conducting an email,
 
-**40:40.42  MR SHEPHERD**  `↑+3.2st flat quieter`  
+> **✔ AMENDMENT A3 — speaker re-attributed MR SHEPHERD → MS MATHESON** (participant evidence; continuation of her sentence at 40:36.74; intensity 41–48 dB, pitch 151–165 Hz; "we have", "we've disclosed").
+
+**40:40.42  MS MATHESON**  `↑+1.4st (own baseline) fast 4.6w/s 48dB`  
 I do believe we have those,
-and I do believe we've disclosed them.  `flat quieter`
+and I do believe we've disclosed them.  `slow 2.5w/s quieter 41dB`
 
 **40:45.04  DWYER IC**  
 So it'll be an email from Ms Rees to Mr Sheppard
@@ -1136,10 +1143,12 @@ on or about 15 May 2024,  `flat`
 the effect of which is purported to be a direction  `flat quieter`
 to retract an email that he has sent.  `flat`
 
-**41:01.20  MR SHEPHERD**  `↑+4.1st wide`  
+> **✔ AMENDMENT A3 — speaker re-attributed MR SHEPHERD → MS MATHESON** (participant evidence; 1.00 s latency after the Commissioner specified the email; intensity 56→44→39 dB, pitch 174→153→162 Hz; sentence unfinished).
+
+**41:01.20  MS MATHESON**  `↑+2.4st (own baseline; her ceiling for the hour) wide 56dB (1.00s pause)`  
 I do believe that I have received those, Commissioner,
-and disclosed them.  `quieter`
-I would have to triple check to be...  `↑+2.9st quieter`
+and disclosed them.  `quieter 44dB`
+I would have to triple check to be...  `quieter 39dB — unfinished`
 
 **41:07.98  DWYER IC**  `↑+3.1st`  
 That's okay. That's all right.
