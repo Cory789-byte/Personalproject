@@ -25,3 +25,4 @@ Source of the fixes: `analysis/2026-09-27_FULL_ANALYSIS_Second_Amended_9A_before
 **Not changed, still to verify before filing:** Langerak [2020] ICQ 2 at [86] (pinpoint not verified in the repo); Mahaffey [2016] ICQ 10; the doctors' names in Part B.1 against Tab M1; the 20 September 2024 effective separation date in 3.1 against the MSH abandonment document.
 
 **Rendering note:** the PDF was built with reportlab from the DOCX text (soffice cannot load DOCX in this container). Formatting is close but not identical to Word; for filing, open the DOCX in Word and export the PDF from there.
+| 18 | 1(n), 1(o), 1(q) | The "no connection is alleged" / "no allegation is made" disclaimers removed. The facts are stated in sequence and no inference is pleaded either way |
