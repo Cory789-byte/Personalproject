@@ -4,7 +4,7 @@ from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,PageBreak
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib import colors
 from reportlab.lib.units import mm
-body=ParagraphStyle('b',fontName='Helvetica',fontSize=9.1,leading=11.6,spaceAfter=4)
+body=ParagraphStyle('b',fontName='Helvetica',fontSize=8.8,leading=11.1,spaceAfter=3.5)
 small=ParagraphStyle('s',parent=body,fontSize=9,leading=11.5,spaceAfter=2,leftIndent=8)
 h=ParagraphStyle('h',fontName='Helvetica-Bold',fontSize=10.5,leading=13,spaceBefore=6,spaceAfter=3)
 t=ParagraphStyle('t',fontName='Helvetica-Bold',fontSize=11.5,leading=14,spaceAfter=4)
