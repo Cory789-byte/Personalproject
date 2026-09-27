@@ -58,10 +58,7 @@ sub(b13,'renews a referral to a psychiatrist, Dr Amini,','referred the Appellant
 # E2  1.6 — name the treating psychiatrist
 b16=find(lambda b: b['label'].startswith('1.6 '))
 sub(b16,'the treating psychiatrist told the Appellant,','the treating psychiatrist, Dr Ravikumar Bangalore Krishnaiah, told the Appellant,')
-# E3  Part C.3 — aggravation pleaded in the alternative (one sentence)
-c3=find(lambda b: b['label'].startswith('3. Injury under section 32(1)'))
-assert c3['body'].endswith('while rejecting the claim under section 32(5).')
-c3['body']+=' In the alternative, if the entries of 26 October 2022 recorded at paragraph B.1.3 are found to record a pre-existing psychiatric or psychological disorder, the injury is an aggravation of that disorder within section 32(3)(b) of the Act, the Appellant\'s employment being a significant contributing factor to the aggravation.'
+# E3  (withdrawn on instruction 27 Sep 2026: no aggravation plea; the injury is pleaded under s 32(1) only)
 # E4  B.4 table — restore the 15 May 1:15 pm request row (antecedent of the two "That request" rows)
 tb=[b for b in blocks if b['kind']=='table']; assert len(tb)==1; tb=tb[0]
 rows=tb['rows']; assert rows[0]==['Interval','Length','Where pleaded','Facts'], rows[0]
