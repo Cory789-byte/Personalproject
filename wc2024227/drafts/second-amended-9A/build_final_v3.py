@@ -253,7 +253,7 @@ import request_content as R; importlib.reload(R)
 RC=ParagraphStyle('rc',fontName='Arial',fontSize=10,leading=13,alignment=1,spaceAfter=2)
 RCB=ParagraphStyle('rcb',parent=RC,fontName='Arial-Bold')
 RCI=ParagraphStyle('rci',parent=RC,fontName='Arial-Italic')
-RB=ParagraphStyle('rb',fontName='Arial',fontSize=10,leading=13.5,spaceAfter=7)
+RB=ParagraphStyle('rb',fontName='Arial',fontSize=10,leading=12.6,spaceAfter=5)
 RN=ParagraphStyle('rn',parent=RB,leftIndent=22,firstLineIndent=-22)
 Q=[Paragraph(esc(R.COURT),RCB),Paragraph(esc(R.ACT),RCI),Spacer(1,8)]
 for a,b in R.PARTIES:
@@ -263,7 +263,7 @@ for a,b in R.PARTIES:
 Q+=[Spacer(1,4),Paragraph(esc(R.MATTER),RCI),Spacer(1,6),Paragraph(esc(R.HEAD1),RCB),Spacer(1,3),Paragraph(esc(R.HEAD2),RCB),Spacer(1,10),Paragraph(esc(R.PREAMBLE),RB),Spacer(1,2)]
 for n,(b,rest) in enumerate(R.ITEMS,1): Q.append(Paragraph(f'{n}.&nbsp;&nbsp;&nbsp;<b>{esc(b)}</b>{esc(rest)}',RN))
 Q+=[Spacer(1,6),Paragraph(esc(R.NOTE.replace('{PAGES}',str(n9a))),ParagraphStyle('rnote',parent=RB,fontSize=9,leading=11.5)),Spacer(1,10),Paragraph(esc(R.DATED),RB),Spacer(1,14),Paragraph('<b>'+esc(R.SIGN[0])+'</b><br/>'+esc(R.SIGN[1]),RB)]
-docR=SimpleDocTemplate(REQ_PDF,pagesize=A4,leftMargin=22*mm,rightMargin=22*mm,topMargin=20*mm,bottomMargin=18*mm,title='Election under direction 5 and directions requested WC/2024/227',author='Cory Lea Shepherd')
+docR=SimpleDocTemplate(REQ_PDF,pagesize=A4,leftMargin=21*mm,rightMargin=21*mm,topMargin=18*mm,bottomMargin=16*mm,title='Election under direction 5 and directions requested WC/2024/227',author='Cory Lea Shepherd')
 dr=deco_factory("WC/2024/227  |  Shepherd v Workers' Compensation Regulator  |  Election under direction 5 and directions requested")
 docR.build(Q,onFirstPage=dr,onLaterPages=dr)
 nr=fitz.open(REQ_PDF).page_count; print('request pdf pages',nr)
