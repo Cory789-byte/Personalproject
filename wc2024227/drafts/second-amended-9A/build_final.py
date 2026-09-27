@@ -10,7 +10,9 @@ OUT_DOCX='2026-10_SECOND_AMENDED_9A_FINAL.docx'
 OUT_PDF='2026-10_SECOND_AMENDED_9A_FINAL.pdf'
 LET_PDF='2026-10_LETTER_to_Registry_FINAL.pdf'
 LET_DOCX='2026-10_LETTER_to_Registry_FINAL.docx'
-COMBINED='2026-10_FINAL_Letter_Schedule_and_Second_Amended_9A.pdf'
+COMBINED='2026-10_FINAL_Request_Letter_Schedule_and_Second_Amended_9A.pdf'
+REQ_PDF='2026-10_REQUEST_election_and_directions_FINAL.pdf'
+REQ_DOCX='2026-10_REQUEST_election_and_directions_FINAL.docx'
 
 # ---------- 1. structure + edits ----------
 S=json.load(open(SP+'/struct.json'))
@@ -163,8 +165,8 @@ ST={
  'part':ParagraphStyle('part',fontName='Arial-Bold',fontSize=12,leading=15,spaceBefore=12,spaceAfter=5,keepWithNext=1),
  'stressor':ParagraphStyle('stressor',fontName='Arial-Bold',fontSize=11,leading=14,spaceBefore=10,spaceAfter=5,backColor=colors.HexColor('#E9E9E9'),borderPadding=(3,3,3,3),keepWithNext=1),
  'section':ParagraphStyle('section',fontName='Arial-Bold',fontSize=11,leading=14,spaceBefore=9,spaceAfter=4,keepWithNext=1),
- 'body':ParagraphStyle('body',fontName='Arial',fontSize=10,leading=13,spaceAfter=5),
- 'callout':ParagraphStyle('callout',fontName='Arial',fontSize=10,leading=13,backColor=colors.HexColor('#F2F2F2'),borderColor=colors.HexColor('#BFBFBF'),borderWidth=0.5,borderPadding=(5,5,5,5),spaceBefore=6,spaceAfter=11,leftIndent=3,rightIndent=3),
+ 'body':ParagraphStyle('body',fontName='Arial',fontSize=10,leading=12.6,spaceAfter=4.5),
+ 'callout':ParagraphStyle('callout',fontName='Arial',fontSize=10,leading=12.6,backColor=colors.HexColor('#F2F2F2'),borderColor=colors.HexColor('#BFBFBF'),borderWidth=0.5,borderPadding=(5,5,5,5),spaceBefore=6,spaceAfter=11,leftIndent=3,rightIndent=3),
  'particulars':ParagraphStyle('particulars',fontName='Arial-Italic',fontSize=9,leading=11.5,leftIndent=14,spaceAfter=5),
  'signature':ParagraphStyle('signature',fontName='Arial',fontSize=10,leading=13,spaceBefore=6),
 }
@@ -253,7 +255,44 @@ with zipfile.ZipFile(LET_DOCX,'w',zipfile.ZIP_DEFLATED) as z:
     z.writestr('[Content_Types].xml',ct); z.writestr('_rels/.rels',rels); z.writestr('word/document.xml',ldoc)
 print('letter docx written')
 
+# ---------- 4b. Request page (order register) ----------
+import request_content as R; importlib.reload(R)
+RC=ParagraphStyle('rc',fontName='Arial',fontSize=10,leading=13,alignment=1,spaceAfter=2)
+RCB=ParagraphStyle('rcb',parent=RC,fontName='Arial-Bold')
+RCI=ParagraphStyle('rci',parent=RC,fontName='Arial-Italic')
+RB=ParagraphStyle('rb',fontName='Arial',fontSize=10,leading=13.5,spaceAfter=7)
+RN=ParagraphStyle('rn',parent=RB,leftIndent=22,firstLineIndent=-22)
+Q=[Paragraph(esc(R.COURT),RCB),Paragraph(esc(R.ACT),RCI),Spacer(1,8)]
+for a,b in R.PARTIES:
+    Q.append(Paragraph(esc(a),RC))
+    if b: Q.append(Paragraph(esc(b),RCI))
+    Q.append(Spacer(1,3))
+Q+=[Spacer(1,4),Paragraph(esc(R.MATTER),RCI),Spacer(1,6),Paragraph(esc(R.HEAD1),RCB),Spacer(1,3),Paragraph(esc(R.HEAD2),RCB),Spacer(1,10),Paragraph(esc(R.PREAMBLE),RB),Spacer(1,2)]
+for n,(b,rest) in enumerate(R.ITEMS,1): Q.append(Paragraph(f'{n}.&nbsp;&nbsp;&nbsp;<b>{esc(b)}</b>{esc(rest)}',RN))
+Q+=[Spacer(1,6),Paragraph(esc(R.NOTE.replace('{PAGES}',str(n9a))),ParagraphStyle('rnote',parent=RB,fontSize=9,leading=11.5)),Spacer(1,10),Paragraph(esc(R.DATED),RB),Spacer(1,14),Paragraph('<b>'+esc(R.SIGN[0])+'</b><br/>'+esc(R.SIGN[1]),RB)]
+docR=SimpleDocTemplate(REQ_PDF,pagesize=A4,leftMargin=22*mm,rightMargin=22*mm,topMargin=20*mm,bottomMargin=18*mm,title='Election under direction 5 and directions requested WC/2024/227',author='Cory Lea Shepherd')
+dr=deco_factory("WC/2024/227  |  Shepherd v Workers' Compensation Regulator  |  Election under direction 5 and directions requested")
+docR.build(Q,onFirstPage=dr,onLaterPages=dr)
+nr=fitz.open(REQ_PDF).page_count; print('request pdf pages',nr)
+def rp(text,bold=False,italic=False,center=False,after=60,sz=20,ind=None):
+    jc='<w:jc w:val="center"/>' if center else ''
+    indx=f'<w:ind w:left="{ind}" w:hanging="{ind}"/>' if ind else ''
+    return P(LINE.format(b=0,a=after)+indx+jc,run(text,bold,italic,sz))
+RB_=[rp(R.COURT,True,center=True),rp(R.ACT,italic=True,center=True,after=160)]
+for a,b in R.PARTIES:
+    RB_.append(rp(a,center=True,after=0))
+    if b: RB_.append(rp(b,italic=True,center=True,after=60))
+RB_+=[rp(R.MATTER,italic=True,center=True,after=120),rp(R.HEAD1,True,center=True,after=60),rp(R.HEAD2,True,center=True,after=200),rp(R.PREAMBLE,after=120)]
+for n,(b,rest) in enumerate(R.ITEMS,1):
+    RB_.append(P(LINE.format(b=0,a=140)+'<w:ind w:left="440" w:hanging="440"/>',run(f'{n}.\t',sz=20)+run(b,True)+run(rest)))
+RB_+=[rp(R.NOTE.replace('{PAGES}',str(n9a)),after=200,sz=18),rp(R.DATED,after=280),rp(R.SIGN[0],True,after=0),rp(R.SIGN[1])]
+rdoc=f'''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>{''.join(RB_)}<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1134" w:right="1247" w:bottom="1000" w:left="1247" w:header="567" w:footer="567" w:gutter="0"/></w:sectPr></w:body></w:document>'''
+with zipfile.ZipFile(REQ_DOCX,'w',zipfile.ZIP_DEFLATED) as z:
+    z.writestr('[Content_Types].xml',ct); z.writestr('_rels/.rels',rels); z.writestr('word/document.xml',rdoc)
+print('request docx written')
+
 # ---------- 5. combined ----------
-c=fitz.open(); c.insert_pdf(fitz.open(LET_PDF)); c.insert_pdf(fitz.open(OUT_PDF))
-c.set_metadata({'title':'WC/2024/227 Letter to the Industrial Registry, schedule of documents, and Second Amended Form 9A','author':'Cory Lea Shepherd'})
+c=fitz.open(); c.insert_pdf(fitz.open(REQ_PDF)); c.insert_pdf(fitz.open(LET_PDF)); c.insert_pdf(fitz.open(OUT_PDF))
+c.set_metadata({'title':'WC/2024/227 Election and directions requested, letter, schedule of documents, and Second Amended Form 9A','author':'Cory Lea Shepherd'})
 c.save(COMBINED); print('combined pages',c.page_count)
