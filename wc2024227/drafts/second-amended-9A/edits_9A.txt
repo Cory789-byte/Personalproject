@@ -133,8 +133,28 @@ Removal of database access, 18 July 2023, to 18 June 2024; no restoration allege
 Payroll's direction, 3 May 2024, to the pay date of the payslip carrying three of the four corrections, 5 June 2024 | 33 days | Stressor 2(e)(i) | Payroll disclosure, July 2025
 That direction to the pay date of the payslip carrying the fourth, 2 July 2025 (amendment dated 30 June 2025) | 425 days | Stressor 2(e)(i) | Payroll disclosure, July 2025
 The Appellant's last shift, 3 June 2024, to the first of those pay dates | 2 days | Stressor 2(e)(i); Part B.1.4 | -
+The pay enquiry of 8 April 2024 to the reply of 9 April | 1 day | Stressor 2(e)(i), 3(j) | ¶¶ 242, 244
+That reply to the Appellant's follow-up of 24 April 2024 | 15 days | Stressor 2(e)(i), 3(j) | ¶¶ 244, 246
+That follow-up to the refusal of 1 May 2024 | 7 days | Stressor 2(e)(i), 3(j) | ¶¶ 246, 247
+The refusal of 1 May 2024 to Payroll's direction of 3 May 2024 | 2 days | Stressor 2(e)(i) | ¶¶ 247, 185
+Payroll's direction to the Appellant's email to Payroll and the Manager, 10 May 2024 | 7 days | Stressor 2(e)(i) | ¶¶ 185, 191
+Payroll's direction to Payroll's email that nothing had been corrected, 13 May 2024 | 10 days | Stressor 2(e)(i) | ¶¶ 185, 193
+Payroll's direction to the Manager's "still waiting" email, 21 May 2024 | 18 days | Stressor 2(e)(i) | ¶¶ 185, 195
+Payroll's direction to the Manager's AVAC of 28 May 2024 | 25 days | Stressor 2(e)(i) | ¶¶ 185, 197, 209
+That AVAC to its processing as "Part Completed", 30 May 2024 | 2 days | Stressor 2(e)(i) | ¶ 203
+The shifts of 28 February, 30 March and 1 April 2024 to the payslip that adjusted them, pay date 5 June 2024 | 98 days; 67 days; 65 days | Stressor 2(e)(i) | ¶¶ 187 to 189; Payroll disclosure, July 2025
+The shift of 9 February 2024 to the payslip carrying its correction, pay date 2 July 2025 | 509 days | Stressor 2(e)(i) | ¶¶ 185 to 186; Payroll disclosure, July 2025
+The request for office hours, 15 May 2024 at 1:15 pm, to the request to retract it, 6:23 pm | 5 hours, 8 minutes | Stressor 1(i) | ¶¶ 74, 76
+That request to the hours being stated to the department, 17 May 2024 at 9:30 am | 1 day, 20 hours, 15 minutes | Stressor 1(i) | ¶¶ 74, 81
+That request to the Director's question about which changes had concerned him, 21 May 2024 at 2:53 pm | 6 days, 1 hour, 38 minutes | Stressor 1(i) | ¶¶ 74, 79
 @@ 198 | - | delete
 @@ 199 | - | delete
 @@ 200 | - | delete
 @@ 201 | - | delete
 @@ 202 | - | delete
+@@ 73+ | - | body
+So the request for the Manager's office hours was made at 1:15 pm on 15 May 2024. The request to retract it came five hours and eight minutes later, at 6:23 pm. The hours were stated to the whole department one day, twenty hours and fifteen minutes after the request, at 9:30 am on 17 May. The Director's question about which changes had concerned him came six days, one hour and thirty-eight minutes after the request, at 2:53 pm on 21 May. Before the request, no fixed hours had been stated for nine months. [¶¶ 73 to 84]
+@@ 126+ | - | body
+So the pay sequence was this. The Appellant raised the pay for 8 to 31 March on 8 April 2024; the reply came the next day; his follow-up came fifteen days after that, on 24 April; and the refusal came seven days later, on 1 May. Two days after the refusal, on 3 May, Payroll identified all four fortnights and directed the Manager to submit an AVAC for each. From that direction: the Appellant wrote to Payroll and the Manager after seven days (10 May); Payroll wrote that nothing had been corrected after ten days (13 May); the Manager wrote that she was still waiting after eighteen days (21 May); she submitted the AVAC after 25 days (28 May); it was processed "Part Completed" two days after that (30 May); and three of the four corrections reached a payslip after 33 days (pay date 5 June 2024), two days after his last shift. From the shifts themselves to the payslip that adjusted them: 98 days for 28 February, 67 days for 30 March, 65 days for 1 April. The 9 February shift was corrected 423 days after Payroll's direction (30 June 2025) and reached a payslip after 425 days (2 July 2025): 509 days after the shift was worked. In all that time the Respondent alleges no step other than those listed. [¶¶ 185 to 197, 203, 209, 242 to 247]
+@@ 203 | - | particulars
+Particulars: paragraphs 55, 62 to 64, 73 to 74, 76, 79, 81, 92, 97 to 98, 102 to 103, 124 to 125, 185 to 197, 203, 209, 242 to 247, 249 to 250 of the notice to admit facts served 28 August 2026, admitted 8 September 2026; the Respondent's payroll disclosure of July 2025 (Part B.7.5).
