@@ -64,8 +64,6 @@ The medical material does not give a separate diagnosis for each pleaded event. 
 The work capacity certificates certify no functional capacity from 1 July to 6 October 2024. During certified leave, Ms Reese contacted the Appellant and meetings were scheduled. His employment was later ended under abandonment provisions with an effective separation date of 20 September 2024, and he was later reinstated. These matters are notified in his outline of evidence. The effective separation date therefore falls within the certified no-capacity period. The later October communication or processing of the abandonment outcome is not pleaded as having occurred while the final certificate was still current. These matters are not part of the admitted facts and are not relied on as causes of the injury, which had arisen by June 2024. They are kept only as context after the injury, as history of continuing effect and capacity, and as matters notified for oral evidence. Any later WorkCover, income-protection, return-to-work or employment dispute is treated in the same way unless it is separately admitted and relied on for another stated purpose.
 @@ 196 | 4. The intervals | section
 =
-@@ 196+ | - | body
-The following intervals are worked out from dates and times admitted by the Respondent. They are arithmetic only. They do not depend on whether any statement in a document is true.
 @@ 204 | 5. Matters the Respondent does not allege, and documents it does not list | section
 =
 @@ 204+ | - | body
@@ -104,3 +102,39 @@ If the fees and expenses payable to a medical practitioner, or to any witness wh
 On the Respondent's own outlines (Part B.6): the seven-hour break was "the result of human error" and, on the advice returned within payroll, "a rostering practice issue for the line manager"; the agreement of 17 June 2020 reduced the break "from ten hours to eight", so that a seven-hour break fell below both; no recovery entitlement attached to a short break between two ordinary shifts; the second decline of the paid Special Pandemic Leave request "appears to have been made in error"; and pay corrections were the line manager's to submit. The Appellant contends that the rostering of 17 to 18 March 2024 was, on the Respondent's own description, an act of the line manager in rostering; that it is management action; and that it was not reasonable management action taken in a reasonable way, for the reasons in Stressor 3. The matters the outlines do not address (Part B.6.5) stand on the admitted facts.
 @@ 238 | 10. The Respondent's pleaded case.
 Paragraph 27 of the amended statement of facts and contentions does not identify, by particular, date, document or cross-reference, the management action relied upon. No disciplinary process, formal performance management or communication described as a warning before 18 June 2024 is alleged.
+@@ 33 | -
+The Respondent does not allege that access to the database was restored to the Appellant at any time before 18 June 2024. [¶ 55] From 18 July 2023 to 18 June 2024 is eleven months. Nothing is alleged to have happened in that time to restore access. The duty at (a) remained on the position throughout that period.
+@@ 56+ | - | body
+So the sequence at the console was: the first report on 3 May 2024, a second on 8 May (the fifth calendar day after the first), nine occasions in all, no communication to the Switchboard staff about them for five days, eighteen hours and fourteen minutes, and then a new process on 9 May (the sixth day). [¶¶ 56 to 69]
+@@ 64+ | - | body
+So the sequence was: the Service's first email on 15 May 2024; its second on 20 May, the fifth calendar day; the Appellant's escalation five days, two hours and eighteen minutes after the first email and three hours and two minutes after the second; and the reply two hours and twenty-five minutes after that, two hours after the stated office hours had ended. In that time the Respondent alleges no response to the Service, no amendment of the document, and no notice to the staff of the change made to it on 22 February 2024. [¶¶ 90, 93, 97 to 98, 102 to 103, 105 to 110]
+@@ 67 | -
+The Respondent does not allege that fixed office hours were stated to the Switchboard staff at any time between 23 August 2023 and 17 May 2024. [¶ 73] That is nine months.
+@@ 94+ | - | body
+So the request was made on 20 February 2024 and finally approved on 1 March 2024: ten days, four hours, forty minutes and twenty seconds from draft to final approval, with two declines and three submissions in between. The third submission was approved in thirteen minutes and thirty-five seconds. [¶¶ 114 to 125]
+@@ 126 | -
+The shift of 9 February 2024 was not corrected on that payslip. On Payroll's account it "was amended with an exemption for the Validation of Claims form on the 30.06.2025 and is on Payslip 07", for the pay period 9 to 22 June 2025, pay date 2 July 2025. That was 425 days after Payroll's direction of 3 May 2024 (the amendment itself being dated 30 June 2025); after the date of injury; after the Respondent's review decision of 24 October 2024; and after this appeal was commenced. It was made with an exemption from the form the Manager had asked the Appellant to sign on 28 May 2024. [¶¶ 196 to 197] The Respondent's pleading and its outlines of evidence (Part B.6) describe the pay issues as "corrected" and "remedied in a timely manner" [¶ 207] without stating these dates.
+@@ 172+ | - | body
+So the enquiry of 8 April 2024 was answered on 1 May 2024, 23 days later, with a refusal. In between were the acknowledgment of 9 April, the escalation to Human Resources, and the Appellant's email of 24 April; no other response is alleged. [¶¶ 242 to 250]
+@@ 196+ | - | body
+The intervals below are worked out from dates and times admitted by the Respondent. They are arithmetic only. They do not depend on whether any statement in a document is true. Each is pleaded in its place in Part B.2; this table collects them.
+@@ 197 | - | table
+Interval | Length | Where pleaded | Facts
+MASPER Registrar's first report, 3 May 2024 at 3:06 pm, to the first reply, 9 May 2024 at 9:20 am (her second report was sent on the fifth calendar day; the reply on the sixth) | 5 days, 18 hours, 14 minutes | Stressor 1(g) | ¶¶ 62 to 64
+Integrated Respiratory Service's first email, 15 May 2024 at 11:47 am, to its second, 20 May 2024 at 11:03 am | the fifth calendar day | Stressor 1(h) | ¶ 92
+That first email to the Appellant's escalation, 20 May 2024 at 2:05 pm | 5 days, 2 hours, 18 minutes | Stressor 1(h) | ¶¶ 97 to 98
+The Service's second email to that escalation | 3 hours, 2 minutes | Stressor 1(h) | ¶ 97
+The escalation to the reply at 4:30 pm, two hours after the office hours stated to all Switchboard staff on 17 May 2024 had ended | 2 hours, 25 minutes | Stressor 1(h) | ¶¶ 102 to 103
+The Appellant's fatigue enquiry, 8 April 2024, to the response, 1 May 2024; no response alleged in between | 23 days | Stressor 3(j) | ¶¶ 249 to 250
+Third submission of the special pandemic leave request, 29 February 2024 at 11:07:28, to its approval at 11:21:03 | 13 minutes, 35 seconds | Stressor 1(l), 2(f) | ¶ 124
+Creation of the draft, 20 February 2024, to final approval, 1 March 2024 | 10 days, 4 hours, 40 minutes, 20 seconds | Stressor 1(l), 2(f) | ¶ 125
+Removal of database access, 18 July 2023, to 18 June 2024; no restoration alleged | 11 months | Stressor 1(b) | ¶ 55
+23 August 2023 to 17 May 2024; no fixed office hours alleged to have been stated | 9 months | Stressor 1(i) | ¶ 73
+Payroll's direction, 3 May 2024, to the pay date of the payslip carrying three of the four corrections, 5 June 2024 | 33 days | Stressor 2(e)(i) | Payroll disclosure, July 2025
+That direction to the pay date of the payslip carrying the fourth, 2 July 2025 (amendment dated 30 June 2025) | 425 days | Stressor 2(e)(i) | Payroll disclosure, July 2025
+The Appellant's last shift, 3 June 2024, to the first of those pay dates | 2 days | Stressor 2(e)(i); Part B.1.4 | -
+@@ 198 | - | delete
+@@ 199 | - | delete
+@@ 200 | - | delete
+@@ 201 | - | delete
+@@ 202 | - | delete

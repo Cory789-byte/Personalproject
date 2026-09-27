@@ -53,6 +53,9 @@ for e in edits:
         inserts.setdefault(e['idx'],[]).append({'i':None,'kind':e['kind'] or 'body','label':e['label'] or '','body':body,'pb':False}); continue
     b=by_i[e['idx']]
     old=(b['label']+' '+b['body']).strip()
+    if e['kind']=='delete': b['kind']='delete'; continue
+    if e['kind']=='table':
+        b['kind']='table'; b['rows']=[[c.strip() for c in ln.split('|')] for ln in e['body'] if ln.strip()]; b['label']=''; b['body']=' '.join(' '.join(r) for r in b['rows']); continue
     if e['label'] is not None: b['label']=e['label']
     if body!='=': b['body']=body
     if e['kind']: b['kind']=e['kind']
@@ -67,6 +70,7 @@ for e in edits:
         report.append((e['idx'],miss,add))
 final=[]
 for b in blocks:
+    if b['kind']=='delete': continue
     if b['kind']=='body' and b['body'].startswith('Dated:'): b['body']='Dated: ______________________ 2026'
     final.append(b)
     for ins in inserts.get(b['i'],[]): final.append(ins)
@@ -80,6 +84,10 @@ new_c=cites(final)
 print('EDIT TOKEN DIFFERENCES (idx, missing, added):')
 for r in report: print(' ',r)
 print('citation strings lost:',sorted(old_c-new_c)); print('citation strings new:',sorted(new_c-old_c))
+from collections import Counter
+newtxt=' '.join((b['label']+' '+b['body']) for b in final if b['kind']!='signature')
+lostnums=Counter(re.findall(r'\d+(?:[:./]\d+)*',old_text))-Counter(re.findall(r'\d+(?:[:./]\d+)*',newtxt))
+print('numeric tokens with fewer occurrences than v2:',dict(lostnums))
 banned=['reprisal','retaliat','suppress','fraud','conspir','hostile','punish','capricious','will give evidence','pending','$']
 alltext=' '.join((b['label']+' '+b['body']) for b in final)
 print('banned words present:',[w for w in banned if w.lower() in alltext.lower()])
@@ -105,6 +113,14 @@ def docx_par(b):
         rr=(run(b['label']+' ',True) if b['label'] else '')+run(b['body'])
         return P(BOX+'<w:shd w:val="clear" w:color="auto" w:fill="F2F2F2"/>'+LINE.format(b=80,a=140),rr)
     if k=='particulars': return P(LINE.format(b=0,a=100)+'<w:ind w:left="284"/>',run(b['body'],i=True,sz=18))
+    if k=='table':
+        def tc(txt,bold=False,shade=None):
+            sh=f'<w:shd w:val="clear" w:color="auto" w:fill="{shade}"/>' if shade else ''
+            return f'<w:tc><w:tcPr>{sh}</w:tcPr><w:p><w:pPr><w:spacing w:after="0"/></w:pPr>{run(txt,bold,sz=17)}</w:p></w:tc>'
+        rows=['<w:tr><w:trPr><w:tblHeader/></w:trPr>'+''.join(tc(c,True,'E9E9E9') for c in b['rows'][0])+'</w:tr>']
+        for r in b['rows'][1:]: rows.append('<w:tr>'+''.join(tc(c) for c in r)+'</w:tr>')
+        grid='<w:tblGrid>'+''.join(f'<w:gridCol w:w="{w}"/>' for w in (4700,1900,1700,1338))+'</w:tblGrid>'
+        return '<w:tbl><w:tblPr><w:tblW w:w="9638" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4"/><w:left w:val="single" w:sz="4"/><w:bottom w:val="single" w:sz="4"/><w:right w:val="single" w:sz="4"/><w:insideH w:val="single" w:sz="4"/><w:insideV w:val="single" w:sz="4"/></w:tblBorders></w:tblPr>'+grid+''.join(rows)+'</w:tbl><w:p><w:pPr><w:spacing w:after="60"/></w:pPr></w:p>'
     if k=='signature':
         rr=run(b['lines'][0],True)+'<w:r><w:br/></w:r>'+run(b['lines'][1])
         return P(LINE.format(b=120,a=80),rr)
@@ -153,8 +169,14 @@ ST={
  'signature':ParagraphStyle('signature',fontName='Arial',fontSize=10,leading=13,spaceBefore=6),
 }
 esc=lambda s:s.replace('&','&amp;').replace('<','&lt;').replace('>','&gt;')
+TC=ParagraphStyle('tc',fontName='Arial',fontSize=8.5,leading=10.5); TCB=ParagraphStyle('tcb',parent=TC,fontName='Arial-Bold')
 def pdf_par(b):
     k=b['kind']
+    if k=='table':
+        data=[[Paragraph(esc(c),TCB) for c in b['rows'][0]]]+[[Paragraph(esc(c),TC) for c in r] for r in b['rows'][1:]]
+        W=A4[0]-40*mm; tb=Table(data,colWidths=[W*0.49,W*0.20,W*0.17,W*0.14],repeatRows=1)
+        tb.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),('BACKGROUND',(0,0),(-1,0),colors.HexColor('#E9E9E9')),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),3),('RIGHTPADDING',(0,0),(-1,-1),3),('TOPPADDING',(0,0),(-1,-1),2),('BOTTOMPADDING',(0,0),(-1,-1),2)]))
+        return [tb,Spacer(1,6)]
     if k=='signature': return Paragraph('<b>'+esc(b['lines'][0])+'</b><br/>'+esc(b['lines'][1]),ST['signature'])
     if k=='part' and b['pb']: return [PageBreak(),Paragraph(esc(b['body']),ST['part'])]
     txt=('<b>'+esc(b['label'])+'</b> ' if b['label'] else '')+esc(b['body'])
