@@ -195,3 +195,23 @@ Not at a conference, and not as a surprise. The route is:
 - Fact 188 (which shift Payroll treated as overtime) before it is used against SOFC ¶24(b); it is not in the draft, correctly.
 - Krishnaiah clinical records (Tab M6) still outstanding; Report B still the load-bearing document.
 - Direction 5 election must be made from 30 Sep regardless (rule 230 lapse risk).
+
+---
+
+## Addendum, 27 Sep 2026: no Report B
+
+Cory's instruction: no medico-legal report will be prepared. If the matter proceeds, Dr Hawes and Dr Krishnaiah give
+oral evidence by telephone. Both are already on the 9 Sep witness list, and the 9 Sep medical schedule says no report
+was prepared. The Second Amended 9A now carries para 1.11 giving notice of the four topics each will address.
+
+Effect on the forecast (full working in `2026-09-27_ORAL_MEDICAL_EVIDENCE_PLAN_no_Report_B.md`):
+
+| | Prepared oral treating evidence | Unprepared |
+|---|---|---|
+| s 32(1) block | .65 | .50 |
+| Hearing | ≈ 57–60% | ≈ 44–47% |
+| Overall | **≈ 72–76%** | ≈ 64–69% |
+
+The s 32(5) side of the case is unchanged by this. The whole difference between the two columns is a disclosed
+document pack to each doctor, two agreed fees, and the attendance-notice / telephone-leave application when dates are
+set.

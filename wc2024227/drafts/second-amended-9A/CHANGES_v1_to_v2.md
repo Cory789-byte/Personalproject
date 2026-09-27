@@ -20,6 +20,7 @@ Source of the fixes: `analysis/2026-09-27_FULL_ANALYSIS_Second_Amended_9A_before
 | 14 | Part C, new 5A | The Respondent's notified evidence is consistent with the admitted record; the roster of 17–18 March 2024 was on its own description an act of the line manager in rostering |
 | 15 | Part C.4 | "emergency notifications reached the wrong medical team" → "calls, including a MET-call enquiry, were misdirected to the wrong medical team" |
 | 16 | Date | Left blank for signing |
+| 17 | Part B, new 1.11 | "The medical evidence at hearing": no medico-legal report; treating records M1–M4, M7–M9; oral evidence of Dr Hawes and Dr Krishnaiah (listed 9 Sep 2026) on diagnosis, history, significant contributing factor by reference to Stressors 1–3, and the non-employment matters in the 13 Feb 2025 report; notice of that evidence given by the paragraph; attendance notices and telephone/video leave to be sought once dates are set |
 
 **Not changed, still to verify before filing:** Langerak [2020] ICQ 2 at [86] (pinpoint not verified in the repo); Mahaffey [2016] ICQ 10; the doctors' names in Part B.1 against Tab M1; the 20 September 2024 effective separation date in 3.1 against the MSH abandonment document.
 
