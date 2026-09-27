@@ -25,4 +25,4 @@ SCHEDULE = [
 ("Disputed 8 September 2026; not addressed by the Respondent on 23 September 2026 (1)", [
  "24 Moran (Together Queensland), \"Switchboard Roster Feedback - For Delegates\", 3 Nov 2025 (178-179)"]),
 ]
-CLOSE = ["The Appellant asks that this letter and its enclosure be placed before Commissioner Dwyer and will proceed on the orders made.", "Cory Lea Shepherd", "Appellant, self-represented"]
+CLOSE = ["The Appellant asks that this letter and its enclosure be placed before Commissioner Dwyer and will proceed on the orders made.", "Cory Lea Shepherd, Appellant (self-represented)"]
