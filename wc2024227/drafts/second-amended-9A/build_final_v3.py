@@ -121,6 +121,72 @@ app(lambda b: b['label'].startswith('(d) The shifts of 17 and 18 March 2024.'),
 b65=find(lambda b: b['label'].startswith('6.5 '))
 assert b65['body'].count('No medical or expert evidence is notified.')==1
 b65['body']=b65['body'].replace('No medical or expert evidence is notified.','No medical or expert evidence has been notified as at 30 September 2026.')
+
+# ===== change 44 =====
+def ins_before(pred,block):
+    idx=[i for i,b in enumerate(blocks) if b['kind']!='table' and pred(b)]; assert len(idx)==1,('anchor',len(idx))
+    blocks.insert(idx[0],block)
+def find_body(prefix):
+    return find(lambda b: (b.get('body','') or '').startswith(prefix))
+# 1. s 32(5)(b): contention 5B and question 6
+c5a=find(lambda b: b['label'].startswith('5A. '))
+i5a=blocks.index(c5a)
+blocks.insert(i5a+1,{'k':None,'kind':'body','label':'5B. Section 32(5)(b) - the injury did not arise from the Appellant\'s expectation or perception of management action.','body':'The circumstances relied on in Part B.2 are events and documents admitted by the Respondent, and the intervals between them are arithmetic on admitted dates and times. They are not the Appellant\'s expectation or perception of reasonable management action being taken against him. The Appellant contends that section 32(5)(b) has no application to the injury proved on that record.','pb':False})
+q5=find(lambda b: b['label']=='5.' and (b.get('body','') or '').startswith('Does section 32(5)(a) of the Act exclude'))
+blocks.insert(blocks.index(q5)+1,{'k':None,'kind':'body','label':'6.','body':'Does section 32(5)(b) of the Act exclude the injury, that is, did it arise out of, or in the course of, the Appellant\'s expectation or perception of reasonable management action being taken against him, rather than out of the admitted circumstances themselves?','pb':False})
+# 2. date ranges in the stressor headings; list of stressors table before the summary
+for b in blocks:
+    if b['kind']=='stressor':
+        if b['body'].startswith('STRESSOR 1'): b['body']='STRESSOR 1 - THE CONDITIONS IN WHICH THE WORK WAS CARRIED ON (18 JULY 2023 TO 18 JUNE 2024)'
+        elif b['body'].startswith('STRESSOR 2'): b['body']='STRESSOR 2 - REMUNERATION (5 FEBRUARY 2024 TO 5 JUNE 2024; CORRECTIONS TO 2 JULY 2025)'
+        elif b['body'].startswith('STRESSOR 3'): b['body']='STRESSOR 3 - THE ROSTER AND FATIGUE (7 AUGUST 2023 TO 1 MAY 2024; THE SHIFTS OF 17 AND 18 MARCH 2024)'
+summ=find(lambda b: b['kind']=='callout' and b['label'].startswith('In summary'))
+isum=blocks.index(summ)
+blocks.insert(isum,{'k':None,'kind':'body','label':'List of stressors.','body':'Set out in the form required by Part 4.8 of the Workers\' Compensation Appeal Guide. Each stressor is pleaded in full below; the summary that follows the list gives the admissions on which each rests.','pb':False})
+blocks.insert(isum+1,{'k':None,'kind':'table','label':'','pb':False,'cols':[0.06,0.20,0.20,0.54],'rows':[
+ ['No.','Date or date range','Title','Description'],
+ ['1','18 July 2023 to 18 June 2024','The conditions in which the work was carried on','Database access removed and not restored; changes to process effective the day they were notified, with no listed record of consultation; emergency calls misdirected and the directory not corrected; the manager\'s office hours not stated for nine months.'],
+ ['2','5 February 2024 to 5 June 2024; corrections to 2 July 2025','Remuneration','Pay wrong in four fortnights; Payroll\'s direction of 3 May 2024 not actioned at 13 May, still awaited on 21 May, lodged 28 May and recorded "Part Completed"; a paid leave entitlement declined twice on attachments the Respondent admits were present.'],
+ ['3','7 August 2023 to 1 May 2024; the shifts of 17 and 18 March 2024','The roster and fatigue','A seven-hour break rostered in that role against a minimum of ten hours, or eight by an agreement applying only to staff-initiated swaps; the fatigue enquiry answered after 23 days with a refusal; no fatigue risk management at the Switchboard before 30 June 2024; the Respondent\'s own review finding of unreasonable management action.']]})
+blocks[isum+1]['body']=' '.join(' '.join(r) for r in blocks[isum+1]['rows'])
+# 3. worker within s 11, Part A
+pa=find(lambda b: (b.get('body','') or '').startswith('Appellant: Cory Lea Shepherd'))
+sub(pa,'classification AO3, a continuous shift working role. [¶¶ 1 to 4, 13]','classification AO3, a continuous shift working role. [¶¶ 1 to 4, 13] The Appellant was a worker within the meaning of section 11 of the Act.')
+# 4. B.1: section title; 1.6 wording; 1.7+1.8 merged; 1.9 moved to 3.1; renumber; cross-references
+sec1=find(lambda b: b['kind']=='section' and (b.get('body','') or '').startswith('1. The starting point'))
+sec1['body']='1. The starting point - the role, and the medical record'
+b16=find(lambda b: b['label'].startswith('1.6 '))
+sub(b16,'it records how the injury certified as anxiety and stress on 1 July 2024 had become a depressive disorder by 24 October 2024.','it records the diagnosis made on 24 October 2024 of the condition first certified on 1 July 2024.')
+b17=find(lambda b: b['label'].startswith('1.7 ')); b18=find(lambda b: b['label'].startswith('1.8 ')); b19=find(lambda b: b['label'].startswith('1.9 '))
+b17['label']='1.7 The report of 13 February 2025, its footer, and the author\'s position.'
+b17['body']=('Diagnosis: Major Depressive Disorder with anxious distress (DSM-5 296.23). The report states the severity, the effect on functioning and the treatment (fluoxetine increased to three capsules daily; quetiapine 25 mg at night). '
+ 'The treating clinician records the origin as "workplace stress stemming from issues with management and rostering", records that pay was "withheld or delayed for up to five months at a time" as a source of financial stress, and states that "premature exposure to the workplace is more likely result in significant deterioration". [Tab M4; Respondent\'s item 10.] '
+ 'The stressors recorded in that report match matters admitted on 8 September 2026: management and rostering, and the night-shift line; the shorter break; and pay withheld or delayed from the 5 February 2024 fortnight, uncorrected at 13 May, "claims older than 3 months" on 28 May, a claim effective 30 March recorded "Part Completed" on 30 May, and the two February claims absent from the myHR report. '
+ 'The report bears a footer reading "for the only reason of clinical information and not for medico-legal use". The author\'s emails of 5 and 8 September 2026 state of his records "You can use them according to the need to support your legal issues", and identify the report of 13 February 2025 as "the report that captures the relevant information you have requested" on the matters in issue. [Tab M5.] '
+ 'The report is not relied on to say which of the individual events pleaded at Part B.2 caused the injury, or how much each contributed. Nothing after 24 October 2024 is relied on as a cause of the injury.')
+# particulars block sits after 1.7 already; remove 1.8 and 1.9 blocks
+blocks.remove(b18); blocks.remove(b19)
+b31=find(lambda b: b['label'].startswith('3.1 '))
+b31['body']=b31['body'].rstrip()+' The Employee Capability Checklist completed by Dr Day Hong Ma on 3 July 2026 records current capacity and restrictions and the continuing effect of the injury, including "symptom exacerbation on exposure to the identified workplace stressors" [Tab M7]; it is relied on for the effect of the injury and for capacity only, not for cause.'
+b110=find(lambda b: b['label'].startswith('1.10 ')); b110['label']='1.8 '+b110['label'][5:]
+b111=find(lambda b: b['label'].startswith('1.11 ')); b111['label']='1.9 '+b111['label'][5:]
+b12=find(lambda b: b['label'].startswith('1.2 ')); sub(b12,'(paragraph 1.10)','(paragraph 1.8)')
+f2=find(lambda b: b['label']=='2.' and 'section 191(2): (a)' in (b.get('body','') or '')); sub(f2,'paragraph B.1.11','paragraph B.1.9')
+# the s 32(1) "not the only one" sentence: leave in 1.2 (it is one sentence) and make sure Part C.3 carries it
+c3=find(lambda b: b['label'].startswith('3. Injury under section 32(1)'))
+if 'not the only one' not in c3['body']: c3['body']=c3['body'].rstrip()+' Section 32(1) requires that employment be a significant contributing factor, not the only one.'
+# 5. 1(g) call-load sentence qualified
+g=find_body('The console took about 270 to 440 calls on an eight-hour shift')
+g['body']='In April 2025 the console took between 269 and 444 calls on an eight-hour shift (Stressor 3(h)(v) below); the Appellant\'s evidence is that the load in May 2024 was of the same order. Emergency codes were received and paged through it throughout the day (Stressor 3(h)).'
+# 6. 3(h)(iv) condensed; guideline definitions paragraph condensed
+hiv=find(lambda b: b['label'].startswith('(h)(iv)'))
+hiv['body']='Sick leave of 7.60 hours was taken that day. [¶ 235] The register records sixteen codes on 19 March 2024, six of them between 06:00 and 14:00: a Paediatric MET call, a simulation, and four adult MET calls, one of which, at 11:34 to Ward 2I bed 20, is annotated "CALLED VIA SWITRCHBOARD" [sic].'
+d178=find_body('The guideline defines fatigue as')
+d178['body']='The guideline defines fatigue as "A state of impaired physical and/or mental performance and lowered alertness arising as a result or combination of physical and mental work, health and psychosocial factors or inadequate restorative sleep", a fatigue risk management system as "An integrated set of management practices and procedures for monitoring and managing the risks posed to health, safety and wellbeing by fatigue", and "Defences in depth" as a "Hazard identification and risk control model that applies a series of layered mechanisms to minimise the occurrence of fatigue related incidents". [Guideline, glossary, p 29]'
+# 7. Stressor 2 medical link: the eight words
+ml2=find(lambda b: b['kind']=='callout' and b['label'].startswith('The medical link - Stressor 2'))
+sub(ml2,"Tab M4 records the treating psychiatrist's later history of delayed pay as a source of financial stress.","Tab M4 records the treating psychiatrist's later history that pay was \"withheld or delayed for up to five months at a time\", as a source of financial stress.")
+print('change 44 edits applied; blocks now',len(blocks))
 for b in blocks:
     if b['kind']=='body' and b['body'].startswith('Dated:'): b['body']='Dated: 30 September 2026'
 final=blocks
@@ -155,7 +221,7 @@ def docx_par(b):
             return f'<w:tc><w:tcPr>{sh}</w:tcPr><w:p><w:pPr><w:spacing w:after="0"/></w:pPr>{run(txt,bold,sz=17)}</w:p></w:tc>'
         rows=['<w:tr><w:trPr><w:tblHeader/></w:trPr>'+''.join(tc(c,True,'E9E9E9') for c in b['rows'][0])+'</w:tr>']
         for r in b['rows'][1:]: rows.append('<w:tr>'+''.join(tc(c) for c in r)+'</w:tr>')
-        grid='<w:tblGrid>'+''.join(f'<w:gridCol w:w="{w}"/>' for w in (4700,1900,1700,1338))+'</w:tblGrid>'
+        grid='<w:tblGrid>'+''.join(f'<w:gridCol w:w="{int(9638*f)}"/>' for f in (b.get('cols') or [0.49,0.20,0.17,0.14]))+'</w:tblGrid>'
         return '<w:tbl><w:tblPr><w:tblW w:w="9638" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4"/><w:left w:val="single" w:sz="4"/><w:bottom w:val="single" w:sz="4"/><w:right w:val="single" w:sz="4"/><w:insideH w:val="single" w:sz="4"/><w:insideV w:val="single" w:sz="4"/></w:tblBorders></w:tblPr>'+grid+''.join(rows)+'</w:tbl><w:p><w:pPr><w:spacing w:after="60"/></w:pPr></w:p>'
     if k=='signature':
         rr=run(b['lines'][0],True)+'<w:r><w:br/></w:r>'+run(b['lines'][1])
@@ -210,7 +276,7 @@ def pdf_par(b):
     k=b['kind']
     if k=='table':
         data=[[Paragraph(esc(c),TCB) for c in b['rows'][0]]]+[[Paragraph(esc(c),TC) for c in r] for r in b['rows'][1:]]
-        W=A4[0]-40*mm; tb=Table(data,colWidths=[W*0.49,W*0.20,W*0.17,W*0.14],repeatRows=1)
+        W=A4[0]-40*mm; fr=b.get('cols') or [0.49,0.20,0.17,0.14]; tb=Table(data,colWidths=[W*f for f in fr],repeatRows=1)
         tb.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),('BACKGROUND',(0,0),(-1,0),colors.HexColor('#E9E9E9')),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),3),('RIGHTPADDING',(0,0),(-1,-1),3),('TOPPADDING',(0,0),(-1,-1),2),('BOTTOMPADDING',(0,0),(-1,-1),2)]))
         return [tb,Spacer(1,6)]
     if k=='signature': return Paragraph('<b>'+esc(b['lines'][0])+'</b><br/>'+esc(b['lines'][1]),ST['signature'])
