@@ -15,5 +15,5 @@ ITEMS = [
  ("Such further directions as the Commission considers appropriate.", ""),
 ]
 NOTE = "Enclosed with this page: the Appellant's letter of explanation (one page) with the schedule of the 39 documents and their status (two pages); and the Second Amended Statement of Facts and Contentions (Form 9A) ({PAGES} pages). The notices to admit, the Respondent's responses and the documents themselves are available to the Commission on request."
-DATED = "Dated [      ] October 2026"
+DATED = "Dated 30 September 2026"
 SIGN = ["Cory Lea Shepherd", "Appellant (self-represented)"]

@@ -80,8 +80,49 @@ f3['body']=("The Appellant will contend that the amounts under section 191(2)(a)
  "non-party disclosure under rule 64G; two notices to admit facts and a notice to admit documents; and the four outlines served by the Respondent) and to the importance, difficulty and complexity "
  "of an appeal about a psychological injury under section 32(5)(a), which requires each pleaded circumstance to be classified, each management action assessed for reasonableness, and the whole weighed.")
 print('F.3 words: before',len(old_f3.split()),'after',len((f3['label']+' '+f3['body']).split()))
+
+def ins_after(pred,text):
+    idx=[i for i,b in enumerate(blocks) if b['kind']!='table' and pred(b)]
+    assert len(idx)==1, ('anchor not unique', len(idx))
+    blocks.insert(idx[0]+1,{'k':None,'kind':'body','label':'','body':text,'pb':False})
+def app(pred,text,must_end=None):
+    b=find(pred)
+    if must_end: assert b['body'].endswith(must_end), b['body'][-80:]
+    b['body']=b['body'].rstrip()+' '+text
+# E6 Part A — the statutory basis stated
+app(lambda b: b['label'].startswith('Appellant: Cory Lea Shepherd') or b['body'].startswith('Appellant: Cory Lea Shepherd'),
+    'The injury arose out of, or in the course of, that employment, and the employment was a significant contributing factor to it: section 32(1) of the Act.',
+    must_end='not from a single event on that day.')
+# E7 each stressor starts on a new page
 for b in blocks:
-    if b['kind']=='body' and b['body'].startswith('Dated:'): b['body']='Dated: ______________________ 2026'
+    if b['kind']=='stressor': b['pb']=True
+# E8 Stressor 1(k): the rostering concern recurred (facts from 3(a),(b))
+ins_after(lambda b: b['body'].startswith('On 8 August 2023 he had confirmed that he would work the replacement shift'),
+ 'The rostering concern raised in August 2023 recurred, and the employer\'s own documents record it. On 26 April 2024 the Director wrote that the Manager "was working to fix this error" [¶¶ 211 to 212]; on 10 May 2024 she wrote to Human Resources that the Appellant\'s concern was about how the Manager was rostering the team and its effect on staff fatigue [¶ 218], acknowledged "a few rostering errors made by Chloe with regards to Cory\'s line in past rosters" [¶ 220], and stated that his roster would not be considered [¶ 221]; and on 18 February 2026 the Respondent admitted that the Director stated on 7 August 2023 that there had been a rostering error that was accidentally made [¶ 287]. These facts are pleaded at Stressor 3(a) and (b) and are repeated here because they bear on this stressor.')
+# E9 Stressor 1(l): who submitted claims; the two pleaded errors
+ins_after(lambda b: b['body'].startswith('So the request was made on 20 February 2024 and finally approved on 1 March 2024'),
+ 'Two matters are repeated here from Stressors 2 and 3. The myHR submissions report records the Manager as the initiator of each of the five Attendance Variation and Allowance Claims made for the Appellant between 1 February and 31 May 2024, and the Appellant as the initiator of none [¶¶ 198 to 201]; the special pandemic leave request was the submission he was required to make himself [¶¶ 132, 140 to 142]. The Respondent pleads human error in the handling of that request [¶¶ 133 to 135] and human error in the rostering of 17 and 18 March 2024 [¶ 226], events less than a month apart.')
+# E10 Stressor 1(m): Payroll's direction unactioned (facts from 2(c),(e))
+ins_after(lambda b: b['body'].startswith('The Respondent does not allege that any fatigue risk assessment was conducted, that any fatigue risk management training was provided'),
+ 'Payroll\'s direction of 3 May 2024 to correct four fortnights had not been actioned on 13 May [¶¶ 192 to 193] and was still awaited on 21 May [¶¶ 194 to 195]; that sequence is pleaded at Stressor 2(c) and (e) and is repeated here as part of the conditions in which the work was carried on.')
+# E11 Stressor 2(a): the function, the full-time contract, the August 2023 shift
+app(lambda b: b['label'].startswith('(a) The basis of the entitlement.'),
+ 'The function is admitted to be critical to patient safety [¶ 289]. The Appellant moved to full-time hours from 16 October 2023 on the Manager\'s written approval [¶¶ 37 to 38], and the review decision records the employer confirming the change to his employment contract and working hours [¶¶ 18 to 20]; the contracted 76 hours a fortnight against which Payroll measured the corrections is that arrangement [¶ 189]. In August 2023 a shift not worked because of a rostering error had been replaced by an additional shift [¶¶ 28 to 29]. These facts are pleaded at Stressors 1(k) and 3(a) and are repeated here.')
+# E12 Stressor 2 "So the pay sequence": the 23 days
+app(lambda b: b['body'].startswith('So the pay sequence was this.'),
+ 'The enquiry of 8 April 2024 was also the fatigue enquiry pleaded at Stressor 3(j); no response to it is alleged between 9 April and 1 May, and it was answered after 23 days [¶¶ 249 to 250].')
+# E13 Stressor 2(h): the employer's statements on complaints and procedures
+app(lambda b: b['label'].startswith('(h) The Respondent\'s pleaded answer to this stressor.') and '300 to 302' in b['body'],
+ 'The employer\'s letter of 5 June 2026 states that there were no consequential changes to operating procedures over the period requested [¶ 266] and how employee complaints were managed [¶ 267], and the Respondent does not allege any change to the operating procedures of the Switchboard as a consequence of any employee complaint before 30 June 2024 [¶ 272]; those facts are pleaded at Stressors 1(m) and 3(l) and are repeated here.')
+# E14 Stressor 3(d): the fortnight of 18 March; the function
+app(lambda b: b['label'].startswith('(d) The shifts of 17 and 18 March 2024.'),
+ 'Payroll later recorded that the fortnight commencing 18 March 2024 had too many ordinary shifts and that one of the shifts needed to be overtime [¶ 188], as pleaded at Stressor 2(e)(i). The break was rostered in a function the Respondent admits is critical to patient safety [¶ 289].')
+# E15 B.6.5 dated
+b65=find(lambda b: b['label'].startswith('6.5 '))
+assert b65['body'].count('No medical or expert evidence is notified.')==1
+b65['body']=b65['body'].replace('No medical or expert evidence is notified.','No medical or expert evidence has been notified as at 30 September 2026.')
+for b in blocks:
+    if b['kind']=='body' and b['body'].startswith('Dated:'): b['body']='Dated: 30 September 2026'
 final=blocks
 banned=['reprisal','retaliat','suppress','fraud','conspir','hostile','punish','capricious','will give evidence','$']
 alltext=' '.join((b['label']+' '+b['body']) for b in final)
@@ -102,7 +143,7 @@ def docx_par(b):
     if k=='part':
         pb='<w:pageBreakBefore/>' if b['pb'] else ''
         return P('<w:keepNext/>'+pb+'<w:pBdr><w:bottom w:val="single" w:sz="6" w:space="1" w:color="808080"/></w:pBdr>'+LINE.format(b=240,a=100),run(b['body'],True,sz=24))
-    if k=='stressor': return P('<w:keepNext/><w:shd w:val="clear" w:color="auto" w:fill="E9E9E9"/>'+LINE.format(b=200,a=100),run(b['body'],True,sz=22))
+    if k=='stressor': return P('<w:keepNext/>'+('<w:pageBreakBefore/>' if b.get('pb') else '')+'<w:shd w:val="clear" w:color="auto" w:fill="E9E9E9"/>'+LINE.format(b=0 if b.get('pb') else 200,a=100),run(b['body'],True,sz=22))
     if k=='section': return P('<w:keepNext/>'+LINE.format(b=180,a=80),run(b['body'],True,sz=22))
     if k=='callout':
         rr=(run(b['label']+' ',True) if b['label'] else '')+run(b['body'])
@@ -174,6 +215,7 @@ def pdf_par(b):
         return [tb,Spacer(1,6)]
     if k=='signature': return Paragraph('<b>'+esc(b['lines'][0])+'</b><br/>'+esc(b['lines'][1]),ST['signature'])
     if k=='part' and b['pb']: return [PageBreak(),Paragraph(esc(b['body']),ST['part'])]
+    if k=='stressor' and b.get('pb'): return [PageBreak(),Paragraph(esc(b['body']),ST['stressor'])]
     txt=('<b>'+esc(b['label'])+'</b> ' if b['label'] else '')+esc(b['body'])
     return Paragraph(txt,ST[k])
 def deco_factory(headtext):
