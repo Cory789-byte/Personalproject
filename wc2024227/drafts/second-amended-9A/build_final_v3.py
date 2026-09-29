@@ -179,6 +179,9 @@ f2=find(lambda b: b['label']=='2.' and 'section 191(2): (a)' in (b.get('body',''
 # the s 32(1) "not the only one" sentence: leave in 1.2 (it is one sentence) and make sure Part C.3 carries it
 c3=find(lambda b: b['label'].startswith('3. Injury under section 32(1)'))
 if 'not the only one' not in c3['body']: c3['body']=c3['body'].rstrip()+' Section 32(1) requires that employment be a significant contributing factor, not the only one.'
+# ===== change 46: the checklist as re-exposure evidence (C.3) =====
+assert 'symptom exacerbation' not in c3['body']
+c3['body']=c3['body'].rstrip()+' The Employee Capability Checklist of 3 July 2026 (Part B.3.1) records symptom exacerbation on exposure to the identified workplace stressors: exposure to the same stressors, two years on, producing the same symptoms. That record is consistent with the stressors pleaded at Part B.2 being a significant contributing factor to the injury, and it is relied on for that purpose and for continuing effect. No aggravation is claimed.'
 # 5. 1(g) call-load sentence qualified
 g=find_body('The console took about 270 to 440 calls on an eight-hour shift')
 g['body']='In April 2025 the console took between 269 and 444 calls on an eight-hour shift (Stressor 3(h)(v) below); the Appellant\'s evidence is that the load in May 2024 was of the same order. Emergency codes were received and paged through it throughout the day (Stressor 3(h)).'
