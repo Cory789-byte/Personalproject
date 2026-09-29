@@ -168,6 +168,10 @@ b17['body']=('Diagnosis: Major Depressive Disorder with anxious distress (DSM-5 
 blocks.remove(b18); blocks.remove(b19)
 b31=find(lambda b: b['label'].startswith('3.1 '))
 b31['body']=b31['body'].rstrip()+' The Employee Capability Checklist completed by Dr Day Hong Ma on 3 July 2026 records current capacity and restrictions and the continuing effect of the injury, including "symptom exacerbation on exposure to the identified workplace stressors" [Tab M7]; it is relied on for the effect of the injury and for capacity only, not for cause.'
+# ===== change 45: the Appellant's present position, chronology only =====
+assert b31['body'].count('Matters after the date of injury are not relied on as causes of it and are not pleaded.')==1
+b31['body']=b31['body'].replace('Matters after the date of injury are not relied on as causes of it and are not pleaded.','Matters after the date of injury are not relied on as causes of it; those stated in this paragraph are stated for context and continuing effect only.')
+b31['body']=b31['body'].rstrip()+' The Appellant\'s present position is this. On 2 July 2026 the employer advised that he could not return to work until a completed Employee Capability Checklist was provided; Dr Ma completed it on 3 July 2026, certifying him fit with restrictions, and the employer has directed him not to attend work since that date, pending its request of 31 July 2026 for further medical information. He has received no wages since 13 July 2026. On 24 August 2026 he authorised the treating psychiatrist to communicate with the employer on his capacity for work. The psychiatrist wrote to the employer on 13 August 2026 and, on 19 August 2026, asked the basis of the request; as at 5 September 2026 that enquiry had not been answered. These are the Appellant\'s own evidence and are not relied on as causes of the injury.'
 b110=find(lambda b: b['label'].startswith('1.10 ')); b110['label']='1.8 '+b110['label'][5:]
 b111=find(lambda b: b['label'].startswith('1.11 ')); b111['label']='1.9 '+b111['label'][5:]
 b12=find(lambda b: b['label'].startswith('1.2 ')); sub(b12,'(paragraph 1.10)','(paragraph 1.8)')
