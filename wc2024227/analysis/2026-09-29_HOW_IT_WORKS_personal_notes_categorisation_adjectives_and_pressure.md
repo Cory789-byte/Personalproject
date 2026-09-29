@@ -86,3 +86,13 @@ manager's "one area", the conditions-of-work contention. Stressor 2 (~.33) — t
 (pay is management action; "corrected" is the s 32(5)(a) answer, beaten on the way it was done). Together (~.72–.74 at
 hearing): one injury, one course, same manager, same period, same single channel; the Respondent must cover the whole
 with one word. Lead with 3, then 1, then 2, and say once that they are one injury from one course of conduct.
+
+## Correction (29 Sep 2026): "floundering" was not impatience
+
+Earlier reading in this session: 56:34 as judicial impatience (Trinder et al. 2014 register). Withdrawn on re-reading the canonical transcript.
+
+What the record shows at 56:34–58:20: double redressive preface ("I understand you're acting for yourself… in no way at all being critical", ↑+4.2 st); then, unprompted, the bench formulates the systemic case itself ("You, I think, have as a broader grievance a view that… systemically, the place in which you worked had a number of failings… non-compliance with proper protocol, procedure, legislation" — wide, slow 0.8 w/s, quieter); hedges it ("I may just be speculating"); concedes it ("you may be right about all of that"); self-repairs before the Regulator's officers ("I shouldn't beat up the public sector"); closes with self-deprecation ("easier for someone like me to understand it and not get it wrong").
+
+Literature fit: face-work / redressive action (Brown & Levinson); formulation by the institutional speaker (Heritage & Watson 1979) — the bench's restatement becomes the working version of the case; epistemic downgrade (Heritage & Raymond 2005). Facilitative, not restrictive (Zorza).
+
+The materiality rule he stated, in his own words: non-compliance "happens every single day in every single workplace… it's only a problem if somebody gets sacked or somebody gets killed… it's only then when these things get a light shone on them and they become relevant." On the file as at 30 Sep 2026: B.3.1(b) records the 8 Oct 2024 termination while certified unfit; Stressor 3 is the seven-hour break in the function that receives and pages MET/Code Blue calls; Stressor 1 has an emergency call misdirected. Both limbs of his own test are pleaded as chronology, never named. Not engineered; a consequence of the stressors-only design he asked for. Internal note only; never quoted externally (no certified transcript).
