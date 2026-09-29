@@ -218,7 +218,15 @@ indicative proposal **$10–30k** · **6 Aug** attendance confirmations to the R
 **11 Aug** Petering call 4:30pm; her framework email 5:57pm ·
 **12 Aug** ⭐⭐⭐ **psychiatrist attended · the 1(a) bundle served · payslip $0.00 · 18:20 the LBH
 email** · **13 Aug** 15:48 Harrison; 16:42 Roberts; **16:45 RECALL** ·
-**14 Aug 10:28** ⭐ Matheson serves the **amended LOD + the four NNPDs**
+**14 Aug 10:28** ⭐ Matheson serves the **amended LOD + the four NNPDs** ·
+**13 Aug 09:19** Dr Krishnaiah writes to LBH Injury Management asking the reasoning for the ECC;
+**16:03** Harrison replies (asks what Cory gave him; reason = hours-reduction request "due to medical
+reasons"; clarification of Dr Ma's information) · **19 Aug 23:16** ⭐⭐ **the psychiatrist's four
+questions to MSH** (basis of the earlier hours reductions · what changed · disclosure policy · risks
+observed or reported) · **24 Aug** Limited Scope Authorisation signed · **27 Aug 07:42** "I am
+waiting for response before I provide requested evidence" · **5 Sep 12:05** declines medico-legal
+report, offers records, *"QH- I have not received response yet"* · **8 Sep 07:18** report attached ·
+**29 Sep** decision: this thread stays in the employment track, not the 9A
 
 ---
 
