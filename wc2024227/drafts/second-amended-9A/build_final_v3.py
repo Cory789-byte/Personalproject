@@ -179,6 +179,16 @@ f2=find(lambda b: b['label']=='2.' and 'section 191(2): (a)' in (b.get('body',''
 # the s 32(1) "not the only one" sentence: leave in 1.2 (it is one sentence) and make sure Part C.3 carries it
 c3=find(lambda b: b['label'].startswith('3. Injury under section 32(1)'))
 if 'not the only one' not in c3['body']: c3['body']=c3['body'].rstrip()+' Section 32(1) requires that employment be a significant contributing factor, not the only one.'
+# ===== change 47: B.3.1 restored to the operative pleading's post-injury items (a)-(c) =====
+b31=find(lambda b: b['label'].startswith('3.1 '))
+b31['label']='3.1 After the injury - subsequent conduct, relied on for context and continuing effect, not as cause.'
+old31='those stated in this paragraph are stated for context and continuing effect only.'
+assert b31['body'].count(old31)==1
+b31['body']=b31['body'].replace(old31,'those stated in this paragraph are stated for context and continuing effect only, as they were at Part B.3 of the Amended Statement filed 7 April 2026. (a) On 12 and 16 July 2024, while on certified leave, the Appellant was required to attend meetings convened by management. (b) On 8 October 2024 the employer terminated his employment on the basis of abandonment of employment, while he held continuous medical certificates; he applied for reinstatement (TD/2024/110) and was reinstated. (c) The Respondent obtained the Appellant\'s medical records under the Form 29 signed 4 July 2025 without serving that notice on him; on 18 February 2026 it admitted that it did not serve it (Form 24, paragraph 25). Those are the records relied on at Part B.1. The Respondent\'s amended statement of 13 May 2026 says of (a) to (c) that they post-date the injury and are not relevant; the Appellant relies on them as stated above, and on (c) for the provenance of the medical record.')
+assert b31['body'].count('The Employee Capability Checklist completed by Dr Day Hong Ma')==1
+b31['body']=b31['body'].replace('The Employee Capability Checklist completed by Dr Day Hong Ma','(d) The Employee Capability Checklist completed by Dr Day Hong Ma')
+assert b31['body'].count("The Appellant's present position is this.")==1
+b31['body']=b31['body'].replace("The Appellant's present position is this.","(e) The Appellant's present position is this.")
 # ===== change 46: the checklist as re-exposure evidence (C.3) =====
 assert 'symptom exacerbation' not in c3['body']
 c3['body']=c3['body'].rstrip()+' The Employee Capability Checklist of 3 July 2026 (Part B.3.1) records symptom exacerbation on exposure to the identified workplace stressors: exposure to the same stressors, two years on, producing the same symptoms. That record is consistent with the stressors pleaded at Part B.2 being a significant contributing factor to the injury, and it is relied on for that purpose and for continuing effect. No aggravation is claimed.'
