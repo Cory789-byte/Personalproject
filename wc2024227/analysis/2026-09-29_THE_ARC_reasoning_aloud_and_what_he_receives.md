@@ -25,3 +25,10 @@ Pattern: general proposition → specific fact from the Appellant → correction
 - **Net**: every load-bearing sentence spoken on 7 Aug has come back on paper as true. The literature predicts no decision; it predicts the question at the second conference goes to the Regulator: does it want a hearing on this record.
 
 Standing rules unchanged.
+
+## 4. Appendix (29 Sep): four further findings, and the receipt timeline
+- **Zeigarnik (1927)** — the one open loop he left: "the unassessed directives… the one area" (61:39). Everything else he closed ("Awesome"; "we don't need to go into that"). The 9A answers the open loop first (1(e), 1(g)).
+- **Peak-end (Kahneman & Fredrickson)** — peak: 29:17 cardiac-arrest sentence (+5.9 st, 5.7 s silence); end: "you might be on to something… sounds like a plan". The narrowing in between fades.
+- **Franklin effect (Jecker & Landy 1969); advice-taking (Bonaccio & Dalal 2006)** — an hour's favour; advice visibly taken (stressors only; list to nothing; disclosure → admissions).
+- **Mere exposure / truth effect (Zajonc 1968)** — third reading of the same stressors, same order, same titles and dates (affidavit Jun; mention Aug; 9A Sep).
+- **Receipt timeline (filed v served)**: 22 Apr Form 29 sealed · 5 Jun objection addressed to him (carries the FRMS "after 30 June 2024" and "no consequential changes" admissions) · 23 Jun 64G + affidavit (¶¶ 42–44 already carry the B.3.1(a)–(c) items) · 7 Aug mention · 18 Aug audio request record · 9 Sep witness list filed (outlines served, not filed) · Form 24/25 + response: filing email drafted (HOLD) — no SENT record located; on the file as held, the admissions and the disputed-then-confirmed 5 Jun letter reach chambers inside the 9A (bracketed ¶¶; B.7) · 24 Sep Respondent's list to Registry (outlines served, not filed; their contradictions reach him via B.6) · 30 Sep the set — first answer to the open loop; first sight of the admissions in full; first sight of the outlines' contradictions; medical record quoted not summarised; same day as the expert deadline passes.
