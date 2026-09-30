@@ -142,3 +142,46 @@ MA means management action. Every stated reason is taken from its 9C or outlines
   2. **"He later became a part-time employee"** is undated and rests on your own evidence. Add the date if you have a document.
   3. **Length.** At about 27 pages it is under the 30-page limit, but only just. Any further additions should replace text, not add to it.
   4. **Part D, the questions.** Consider adding one: "For each particular the Respondent says was management action, was it reasonable and taken in a reasonable way?" That mirrors item 4 and fixes the hearing's agenda.
+
+---
+
+## Part 6 — Correction: Stressor 1 was undervalued (Cory's point, accepted)
+
+**Where Parts 2 and 3 got it wrong.** They treated the Respondent's likely "not management action" answers on 1(h) and 1(k), and a "project" answer on 1(b), as neutral. They are the best answers the Appellant can receive. Section 32(5)(a) excludes only an injury arising out of reasonable *management action*. Working conditions cannot be excluded at all. The Respondent's only remaining route against them is s 32(1): that they were not a significant contributing factor.
+
+### Why the core of Stressor 1 cannot be defeated on the exclusion
+
+| Element | Record | What the Respondent can say |
+|---|---|---|
+| The duty | Keep contact and paging information accurate (paras 6 to 7). A function admitted to be "critical ... to ensure effective clinical handover and patient safety" (para 289). | Nothing. Admitted. |
+| The means withdrawn | Access removed on 18 July 2023 (para 40). Not restored before 18 June 2024 (para 55). The correction path was one person, on Tuesdays and second Mondays; after-hours requests had to wait (paras 41 to 44). | If it calls this management action, it must defend eleven months without restoration of a critical function. It has no witness on the database. If it calls it a project, it is a working condition and cannot be excluded. |
+| The consequence at the console | Nine misdirected-call occasions, with no communication to staff for five days, 18 hours and 14 minutes (1(h)). A clinical service unable to help patients because of a wrong entry (1(k)). | "Operational errors", which means not management action, which means not excludable. No MASPER or Integrated Respiratory Service witness. |
+| The medical record made at the time | Tab M1, 28 June 2024, ten days after onset: "stress at work", "upset by people not following rules". | This is the Stressor that description fits best: rules and processes at the console. It is the closest contemporaneous medical link in the case. |
+
+**The mechanism.** The matter's one mechanism is responsibility imposed with the means to discharge it withheld. Stressor 1 is that mechanism in its plainest form: the duty is admitted, the removal of the means is admitted, and the consequences are admitted.
+
+### Where Stressor 1 can still be contested
+
+Keep this honest:
+- **The contestable parts are 1(d) and 1(l),** the office hours and the retraction. They are management action, and the Respondent has a developed answer, from Reese and HR's advice. They are not the core. The scope paragraph already lets the core stand without them.
+- **Causation is its only route against the core.** It would argue that database and directory conditions are too ordinary to be significant. The answers:
+  - the function is admitted as critical to patient safety;
+  - the conditions lasted eleven months;
+  - M1 records "people not following rules" ten days after onset;
+  - the Respondent has no expert.
+
+### Revised weighting
+
+| Stressor | On the s 32(5) exclusion | On causation | Overall |
+|---|---|---|---|
+| **1, the core: 1(b), 1(h), 1(k)** | **Cannot be excluded if not management action. Very hard to defend if it is.** | **Strongest contemporaneous medical link (M1)** | **Co-equal with Stressor 3 as a foundation, not a supporting theme** |
+| 1(d), 1(l) | Contested management action | Moderate | The part to defend, not to lead with |
+| 3(b) and the fatigue particulars | Human error only; review finding against the Respondent | Strong | Strong |
+| 2, the pay particulars | Largely not management action | Moderate (M1 and M4 record pay) | Solid |
+
+**Consequence for the conference.** Lead with two foundations, not one. Stressor 3 is conduct the Respondent's own review found unreasonable. Stressor 1's core is conditions the exclusion cannot reach. Either can carry the injury on its own. Together they leave the Respondent only causation, with no expert.
+
+**Pleading change made (change 56).** Part C paragraph 4 now:
+- names the working-condition particulars as 1(b), 1(h) and 1(k);
+- adds the admitted "critical to patient safety" status;
+- ends with the legal consequence: to the extent they are not management action and were a significant contributing factor, s 32(5)(a) does not exclude the injury (read with paragraphs 6 and 7, Delaney and Langerak).
