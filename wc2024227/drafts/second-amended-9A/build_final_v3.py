@@ -238,6 +238,11 @@ assert b31['body'].count('The Employee Capability Checklist completed by Dr Day 
 b31['body']=b31['body'].replace('The Employee Capability Checklist completed by Dr Day Hong Ma','(d) The Employee Capability Checklist completed by Dr Day Hong Ma')
 assert b31['body'].count("The Appellant's present position is this.")==1
 b31['body']=b31['body'].replace("The Appellant's present position is this.","(e) The Appellant's present position is this.")
+# ===== change 51: present-position sentences put in date order (no fact changed) =====
+_old51="On 24 August 2026 he authorised the treating psychiatrist to communicate with the employer on his capacity for work. The psychiatrist wrote to the employer on 13 August 2026 and, on 19 August 2026, asked the basis of the request; as at 5 September 2026 that enquiry had not been answered."
+_new51="The treating psychiatrist wrote to the employer on 13 August 2026 and, on 19 August 2026, asked the basis of the request. On 24 August 2026 the Appellant authorised the psychiatrist to communicate with the employer on his capacity for work. As at 5 September 2026 the enquiry of 19 August 2026 had not been answered."
+assert b31['body'].count(_old51)==1
+b31['body']=b31['body'].replace(_old51,_new51)
 # ===== change 46: the checklist as re-exposure evidence (C.3) =====
 assert 'symptom exacerbation' not in c3['body']
 c3['body']=c3['body'].rstrip()+' The Employee Capability Checklist of 3 July 2026 (Part B.3.1) records symptom exacerbation on exposure to the identified workplace stressors: exposure to the same stressors, two years on, producing the same symptoms. That record is consistent with the stressors pleaded at Part B.2 being a significant contributing factor to the injury, and it is relied on for that purpose and for continuing effect. No aggravation is claimed.'
