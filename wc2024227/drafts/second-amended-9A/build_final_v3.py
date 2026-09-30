@@ -179,6 +179,13 @@ f2=find(lambda b: b['label']=='2.' and 'section 191(2): (a)' in (b.get('body',''
 # the s 32(1) "not the only one" sentence: leave in 1.2 (it is one sentence) and make sure Part C.3 carries it
 c3=find(lambda b: b['label'].startswith('3. Injury under section 32(1)'))
 if 'not the only one' not in c3['body']: c3['body']=c3['body'].rstrip()+' Section 32(1) requires that employment be a significant contributing factor, not the only one.'
+# ===== change 48: Part A employer name aligned to the admitted facts; duplicate sentence removed =====
+pa=find(lambda b: b['kind']=='body' and b['body'].startswith('Appellant: Cory Lea Shepherd. Employer:'))
+assert pa['body'].count('Employer: State of Queensland (Queensland Health) - Logan Hospital Switchboard.')==1
+pa['body']=pa['body'].replace('Employer: State of Queensland (Queensland Health) - Logan Hospital Switchboard.','Employer: Metro South Hospital and Health Service, Logan Hospital Switchboard.')
+dup=' The injury is pleaded as arising from that course of conduct, not from a single event on that day.'
+assert pa['body'].count(dup)==1
+pa['body']=pa['body'].replace(dup,'')
 # ===== change 47: B.3.1 restored to the operative pleading's post-injury items (a)-(c) =====
 b31=find(lambda b: b['label'].startswith('3.1 '))
 b31['label']='3.1 After the injury - subsequent conduct, relied on for context and continuing effect, not as cause.'
