@@ -179,6 +179,43 @@ f2=find(lambda b: b['label']=='2.' and 'section 191(2): (a)' in (b.get('body',''
 # the s 32(1) "not the only one" sentence: leave in 1.2 (it is one sentence) and make sure Part C.3 carries it
 c3=find(lambda b: b['label'].startswith('3. Injury under section 32(1)'))
 if 'not the only one' not in c3['body']: c3['body']=c3['body'].rstrip()+' Section 32(1) requires that employment be a significant contributing factor, not the only one.'
+# ===== change 49: B.6 (outline digest) and B.7 (document register) removed from the 9A; register moves to the letter =====
+# (a) cross-references repointed BEFORE the sections are removed
+b_pre=find(lambda b: b['kind']=='body' and b['body'].startswith('Each fact set out below that carries a paragraph number in square brackets'))
+sub(b_pre,'is drawn from a document identified in Part B.7 or is the Appellant\'s own evidence','is drawn from a document identified in the Schedule of Documents enclosed with the Appellant\'s letter of 30 September 2026 (the Schedule) or is the Appellant\'s own evidence')
+b_n=find(lambda b: b['label'].startswith('(n) The complaint of 13 May 2024'))
+sub(b_n,'The Respondent\'s disclosure of 11 June 2025 (Part B.7.5) contains','The Respondent\'s disclosure of 11 June 2026 (Schedule, Part 2) contains')
+sub(b_n,'The Respondent\'s outline of Ms Taylor\'s evidence states that, acting on HR\'s advice, she removed the email of 15 May 2024 from the shared Switchboard inbox (Part B.6.1).','The Respondent\'s outline of Ms Taylor\'s evidence, served 24 September 2026, states that, acting on HR\'s advice, she removed the email of 15 May 2024 from the shared Switchboard inbox.')
+b_pay=find(lambda b: b['kind']=='body' and 'describe them as "corrected" (Part B.6.3)' in b['body'])
+sub(b_pay,'describe them as "corrected" (Part B.6.3), without stating these dates.','describe them as "corrected" (Ms Wright\'s outline, served 24 September 2026), without stating these dates.')
+b_3g=find(lambda b: b['kind']=='body' and 'outlines of evidence served 24 September 2026 (Part B.6) give notice' in b['body'])
+sub(b_3g,'outlines of evidence served 24 September 2026 (Part B.6) give notice','outlines of evidence served 24 September 2026 give notice')
+b_h1=find(lambda b: b['label'].startswith('(h)(i) The codes.'))
+sub(b_h1,'are the equivalent document for Logan Hospital (Part B.7.5).','are the equivalent document for Logan Hospital (Schedule, Part 2).')
+b_h4=find(lambda b: b['kind']=='body' and 'the authenticity of the copy is in issue (Part B.7.3)' in b['body'])
+sub(b_h4,'the authenticity of the copy is in issue (Part B.7.3).','the authenticity of the copy is in issue (Schedule, Part 1, Tab 31).')
+b_3i=find(lambda b: b['kind']=='body' and 'The Respondent\'s outlines (Part B.6) give notice that its payroll witness' in b['body'])
+sub(b_3i,'The Respondent\'s outlines (Part B.6) give notice that its payroll witness','The Respondent\'s outlines served 24 September 2026 give notice that its payroll witness')
+b_part=[b for b in blocks if b['kind']=='particulars' and 'payroll disclosure of July 2025 (Part B.7.5)' in b['body']]
+assert len(b_part)==1
+sub(b_part[0],'payroll disclosure of July 2025 (Part B.7.5)','payroll disclosure of July 2025 (Schedule, Part 2)')
+# 5A absorbs what must survive from B.6: the caution, the outlines' silences, the expert / witness-list position
+b5a=find(lambda b: b['label'].startswith('5A. '))
+sub(b5a,'On the Respondent\'s own outlines (Part B.6): the seven-hour break','On 24 September 2026 the Respondent served outlines of the evidence of Ms Taylor, Ms Reese, Ms Wright and Ms Earl. An outline is not evidence; the outlines are relied on only as the Respondent\'s own description of the matters they concern, and the Appellant will ask each witness to confirm them. On the Respondent\'s own outlines: the seven-hour break')
+sub(b5a,'The matters the outlines do not address (Part B.6.5) stand on the admitted facts.','No outline addresses the removal of database access or its restoration; the Contact & Number Changes book; any consultation preceding the change notified on 15 April 2024; the reports of the MASPER Registrar of 3 and 8 May 2024; the emails of the Integrated Respiratory Service of 15 and 20 May 2024; the amendment of the clinic contact-details document; the fatigue enquiry of 8 April 2024 or the interval to 1 May 2024; the email to Human Resources of 10 May 2024; or the absence of fatigue risk management at the Switchboard before 30 June 2024. Those matters stand on the admitted facts. No medical or expert evidence has been notified as at 30 September 2026. The Respondent\'s list of witnesses, sent to the Registry for filing and to the Appellant on 24 September 2026, names those four witnesses, described as "lay" witnesses, and no other, and states that the Respondent "reserves its right to amend this list depending on the case presented by the appellant at the hearing".')
+b_f4=find(lambda b: b['kind']=='body' and 'has notified no medical or expert evidence (Part B.6.5)' in b['body'])
+sub(b_f4,'has notified no medical or expert evidence (Part B.6.5)','has notified no medical or expert evidence (Part C, paragraph 5A)')
+# (b) remove B.6 and B.7 (section 6 heading through 7.5)
+i6=[i for i,b in enumerate(blocks) if b['kind']=='section' and b['body'].startswith('6. The Respondent\'s notified evidence, served 24 September 2026')]
+iC=[i for i,b in enumerate(blocks) if b['kind']=='part' and b['body'].startswith('PART C - CONTENTIONS')]
+assert len(i6)==1 and len(iC)==1 and i6[0]<iC[0], (i6,iC)
+removed=blocks[i6[0]:iC[0]]
+assert removed[0]['body'].startswith('6. The Respondent'), removed[0]['body'][:40]
+assert any(b['kind']=='section' and b['body'].startswith('7. The documents at Annexure A') for b in removed)
+assert removed[-1]['label'].startswith('7.5 '), removed[-1]['label']
+print('change 49: removing',len(removed),'blocks (B.6 and B.7)')
+json.dump(removed,open(SP+'/removed_B6_B7.json','w'),indent=0)
+del blocks[i6[0]:iC[0]]
 # ===== change 48: Part A employer name aligned to the admitted facts; duplicate sentence removed =====
 pa=find(lambda b: b['kind']=='body' and b['body'].startswith('Appellant: Cory Lea Shepherd. Employer:'))
 assert pa['body'].count('Employer: State of Queensland (Queensland Health) - Logan Hospital Switchboard.')==1
@@ -336,20 +373,30 @@ for l in L.TO: S.append(Paragraph(esc(l),ParagraphStyle('to',parent=LB,spaceAfte
 S+= [Spacer(1,2),Paragraph(esc(L.CC),LB),Spacer(1,1),Paragraph(esc(L.TITLE),LT),Paragraph(esc(L.SUBJECT),LS)]
 for b,txt in L.BODY: S.append(Paragraph('<b>'+esc(b)+'</b> '+esc(txt),LB))
 S.append(Paragraph(esc(L.CLOSE[0]),LB)); S.append(Spacer(1,6)); S.append(Paragraph('<b>'+esc(L.CLOSE[1])+'</b>',LB))
-S.append(PageBreak()); S.append(Paragraph(esc(L.SCHEDULE_TITLE),LT))
+LT2=ParagraphStyle('lt2',parent=LT,keepWithNext=1,spaceBefore=4)
+S.append(PageBreak()); S.append(Paragraph(esc(L.SCHEDULE_TITLE),LT2)); S.append(Paragraph(esc(L.PART1_INTRO),LB)); S.append(Spacer(1,3))
 data=[[Paragraph(esc(h),cellb) for h in L.SCHEDULE_COLS]]
 for r in L.SCHEDULE_ROWS: data.append([Paragraph(esc(str(v)),cell) for v in r])
 W=A4[0]-34*mm
-tbl=Table(data,colWidths=[W*0.05,W*0.36,W*0.11,W*0.10,W*0.18,W*0.20],repeatRows=1)
+tbl=Table(data,colWidths=[W*0.05,W*0.35,W*0.14,W*0.09,W*0.16,W*0.21],repeatRows=1)
 ts=[('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),('BACKGROUND',(0,0),(-1,0),colors.HexColor('#E9E9E9')),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),3),('RIGHTPADDING',(0,0),(-1,-1),3),('TOPPADDING',(0,0),(-1,-1),2),('BOTTOMPADDING',(0,0),(-1,-1),2)]
 for i,r in enumerate(L.SCHEDULE_ROWS,start=1):
     if r[4]==L.C: ts.append(('BACKGROUND',(0,i),(-1,i),colors.HexColor('#F3F7F3')))
     elif r[3]==L.D: ts.append(('BACKGROUND',(0,i),(-1,i),colors.HexColor('#FBF5EE')))
-tbl.setStyle(TableStyle(ts)); S.append(tbl); S.append(Spacer(1,8)); S.append(Paragraph(esc(note),LB))
+tbl.setStyle(TableStyle(ts)); S.append(tbl); S.append(Spacer(1,8))
+S.append(Paragraph(esc(L.PART2_TITLE),LT2))
+data2=[[Paragraph(esc(h),cellb) for h in L.PART2_COLS]]+[[Paragraph(esc(v),cell) for v in r] for r in L.PART2_ROWS]
+tbl2=Table(data2,colWidths=[W*0.46,W*0.22,W*0.32],repeatRows=1)
+tbl2.setStyle(TableStyle([('GRID',(0,0),(-1,-1),0.4,colors.HexColor('#999999')),('BACKGROUND',(0,0),(-1,0),colors.HexColor('#E9E9E9')),('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),3),('RIGHTPADDING',(0,0),(-1,-1),3),('TOPPADDING',(0,0),(-1,-1),2),('BOTTOMPADDING',(0,0),(-1,-1),2)]))
+S.append(tbl2); S.append(Spacer(1,8)); S.append(Paragraph(esc(note),LB))
 docL=SimpleDocTemplate(LET_PDF,pagesize=A4,leftMargin=17*mm,rightMargin=17*mm,topMargin=16*mm,bottomMargin=14*mm,title='Letter to the Industrial Registry WC/2024/227',author='Cory Lea Shepherd')
 dl=deco_factory("WC/2024/227  |  Shepherd v Workers' Compensation Regulator  |  Letter to the Industrial Registry, with schedule of documents")
 docL.build(S,onFirstPage=dl,onLaterPages=dl)
 nl=fitz.open(LET_PDF).page_count; print('letter pdf pages',nl)
+_lt=fitz.open(LET_PDF)
+assert 'Schedule, Part 1' in _lt[1].get_text() and 'Schedule, Part 1' not in _lt[0].get_text(), 'letter narrative no longer fits on page 1'
+WORD={1:'one',2:'two',3:'three',4:'four',5:'five'}
+SCHEDPAGES=WORD[nl-1]
 
 # letter DOCX
 def lrun(t,b=False,sz=19): return run(t,b,sz=sz)
@@ -359,16 +406,21 @@ def lp(text,lead='',bold=False,after=80,keep=False):
 body=[lp(L.DATE)]+[lp(l,after=0) for l in L.TO]+[lp(''),lp(L.CC),lp(L.TITLE,bold=True),lp(L.SUBJECT,bold=True,after=120)]
 for b,t in L.BODY: body.append(lp(t,lead=b))
 body.append(lp(L.CLOSE[0],after=200)); body.append(lp(L.CLOSE[1],bold=True))
-body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>'); body.append(lp(L.SCHEDULE_TITLE,bold=True,after=120))
+body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>'); body.append(lp(L.SCHEDULE_TITLE,bold=True,after=120,keep=True)); body.append(lp(L.PART1_INTRO,after=100))
 def tc(t,b=False,shade=None):
     sh=f'<w:shd w:val="clear" w:color="auto" w:fill="{shade}"/>' if shade else ''
     return f'<w:tc><w:tcPr>{sh}</w:tcPr><w:p><w:pPr><w:spacing w:after="0"/></w:pPr>{lrun(t,b,sz=16)}</w:p></w:tc>'
-rows=['<w:tr><w:trPr><w:tblHeader/></w:trPr>'+''.join(tc(h,True,'E9E9E9') for h in L.SCHEDULE_COLS)+'</w:tr>']
-for r in L.SCHEDULE_ROWS:
-    shade='F3F7F3' if r[4]==L.C else ('FBF5EE' if r[3]==L.D else None)
-    rows.append('<w:tr>'+''.join(tc(str(v),False,shade) for v in r)+'</w:tr>')
-grid='<w:tblGrid>'+''.join(f'<w:gridCol w:w="{w}"/>' for w in (480,3450,1050,960,1730,1960))+'</w:tblGrid>'
-body.append('<w:tbl><w:tblPr><w:tblW w:w="9630" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4"/><w:left w:val="single" w:sz="4"/><w:bottom w:val="single" w:sz="4"/><w:right w:val="single" w:sz="4"/><w:insideH w:val="single" w:sz="4"/><w:insideV w:val="single" w:sz="4"/></w:tblBorders></w:tblPr>'+grid+''.join(rows)+'</w:tbl>')
+def dtable(cols,widths,rows,shadefn=None):
+    hdr='<w:tr><w:trPr><w:tblHeader/></w:trPr>'+''.join(tc(h,True,'E9E9E9') for h in cols)+'</w:tr>'
+    out=[hdr]
+    for r in rows:
+        sh=shadefn(r) if shadefn else None
+        out.append('<w:tr><w:trPr><w:cantSplit/></w:trPr>'+''.join(tc(str(v),False,sh) for v in r)+'</w:tr>')
+    grid='<w:tblGrid>'+''.join(f'<w:gridCol w:w="{w}"/>' for w in widths)+'</w:tblGrid>'
+    return '<w:tbl><w:tblPr><w:tblW w:w="9630" w:type="dxa"/><w:tblBorders><w:top w:val="single" w:sz="4"/><w:left w:val="single" w:sz="4"/><w:bottom w:val="single" w:sz="4"/><w:right w:val="single" w:sz="4"/><w:insideH w:val="single" w:sz="4"/><w:insideV w:val="single" w:sz="4"/></w:tblBorders></w:tblPr>'+grid+''.join(out)+'</w:tbl>'
+body.append(dtable(L.SCHEDULE_COLS,(480,3370,1350,860,1540,2030),L.SCHEDULE_ROWS,lambda r:'F3F7F3' if r[4]==L.C else ('FBF5EE' if r[3]==L.D else None)))
+body.append(lp('')); body.append(lp(L.PART2_TITLE,bold=True,after=120,keep=True))
+body.append(dtable(L.PART2_COLS,(4430,2120,3080),L.PART2_ROWS))
 body.append(lp('')); body.append(lp(note))
 ldoc=f'''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>{''.join(body)}<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1000" w:right="1134" w:bottom="900" w:left="1134" w:header="567" w:footer="567" w:gutter="0"/></w:sectPr></w:body></w:document>'''
@@ -394,7 +446,7 @@ for a,b in R.PARTIES:
     Q.append(Spacer(1,3))
 Q+=[Spacer(1,4),Paragraph(esc(R.MATTER),RCI),Spacer(1,6),Paragraph(esc(R.HEAD1),RCB),Spacer(1,3),Paragraph(esc(R.HEAD2),RCB),Spacer(1,10),Paragraph(esc(R.PREAMBLE),RB),Spacer(1,2)]
 for n,(b,rest) in enumerate(R.ITEMS,1): Q.append(Paragraph(f'{n}.&nbsp;&nbsp;&nbsp;<b>{esc(b)}</b>{esc(rest)}',RN))
-Q+=[Spacer(1,6),Paragraph(esc(R.NOTE.replace('{PAGES}',str(n9a))),ParagraphStyle('rnote',parent=RB,fontSize=9,leading=11.5)),Spacer(1,10),Paragraph(esc(R.DATED),RB),Spacer(1,14),Paragraph('<b>'+esc(R.SIGN[0])+'</b><br/>'+esc(R.SIGN[1]),RB)]
+Q+=[Spacer(1,6),Paragraph(esc(R.NOTE.replace('{PAGES}',str(n9a)).replace('{SCHED}',SCHEDPAGES)),ParagraphStyle('rnote',parent=RB,fontSize=9,leading=11.5)),Spacer(1,10),Paragraph(esc(R.DATED),RB),Spacer(1,14),Paragraph('<b>'+esc(R.SIGN[0])+'</b><br/>'+esc(R.SIGN[1]),RB)]
 docR=SimpleDocTemplate(REQ_PDF,pagesize=A4,leftMargin=21*mm,rightMargin=21*mm,topMargin=18*mm,bottomMargin=16*mm,title='Election under direction 5 and directions requested WC/2024/227',author='Cory Lea Shepherd')
 dr=deco_factory("WC/2024/227  |  Shepherd v Workers' Compensation Regulator  |  Election under direction 5 and directions requested")
 docR.build(Q,onFirstPage=dr,onLaterPages=dr)
@@ -410,7 +462,7 @@ for a,b in R.PARTIES:
 RB_+=[rp(R.MATTER,italic=True,center=True,after=120),rp(R.HEAD1,True,center=True,after=60),rp(R.HEAD2,True,center=True,after=200),rp(R.PREAMBLE,after=120)]
 for n,(b,rest) in enumerate(R.ITEMS,1):
     RB_.append(P(LINE.format(b=0,a=140)+'<w:ind w:left="440" w:hanging="440"/>',run(f'{n}.\t',sz=20)+run(b,True)+run(rest)))
-RB_+=[rp(R.NOTE.replace('{PAGES}',str(n9a)),after=200,sz=18),rp(R.DATED,after=280),rp(R.SIGN[0],True,after=0),rp(R.SIGN[1])]
+RB_+=[rp(R.NOTE.replace('{PAGES}',str(n9a)).replace('{SCHED}',SCHEDPAGES),after=200,sz=18),rp(R.DATED,after=280),rp(R.SIGN[0],True,after=0),rp(R.SIGN[1])]
 rdoc=f'''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>{''.join(RB_)}<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1134" w:right="1247" w:bottom="1000" w:left="1247" w:header="567" w:footer="567" w:gutter="0"/></w:sectPr></w:body></w:document>'''
 with zipfile.ZipFile(REQ_DOCX,'w',zipfile.ZIP_DEFLATED) as z:
