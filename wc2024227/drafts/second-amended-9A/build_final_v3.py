@@ -243,6 +243,9 @@ _old51="On 24 August 2026 he authorised the treating psychiatrist to communicate
 _new51="The treating psychiatrist wrote to the employer on 13 August 2026 and, on 19 August 2026, asked the basis of the request. On 24 August 2026 the Appellant authorised the psychiatrist to communicate with the employer on his capacity for work. As at 5 September 2026 the enquiry of 19 August 2026 had not been answered."
 assert b31['body'].count(_old51)==1
 b31['body']=b31['body'].replace(_old51,_new51)
+# ===== change 52: Delaney cited as the Industrial Court cites it (Prizeman [2005] QIC 53, page 4; Review Decision 69983) =====
+_d52=find(lambda b: b['label'].startswith('6. Assessment as a whole'))
+sub(_d52,'Delaney v Q-COMP Review Unit [2005] QIC 11','Delaney v Q-COMP [2005] QIC 11')
 # ===== change 46: the checklist as re-exposure evidence (C.3) =====
 assert 'symptom exacerbation' not in c3['body']
 c3['body']=c3['body'].rstrip()+' The Employee Capability Checklist of 3 July 2026 (Part B.3.1) records symptom exacerbation on exposure to the identified workplace stressors: exposure to the same stressors, two years on, producing the same symptoms. That record is consistent with the stressors pleaded at Part B.2 being a significant contributing factor to the injury, and it is relied on for that purpose and for continuing effect. No aggravation is claimed.'
