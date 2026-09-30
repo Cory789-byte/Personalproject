@@ -216,6 +216,11 @@ assert removed[-1]['label'].startswith('7.5 '), removed[-1]['label']
 print('change 49: removing',len(removed),'blocks (B.6 and B.7)')
 json.dump(removed,open(SP+'/removed_B6_B7.json','w'),indent=0)
 del blocks[i6[0]:iC[0]]
+# ===== change 50: "no expert" statements made precise (names no medical or expert witness; no expert report served) =====
+b5a=find(lambda b: b['label'].startswith('5A. '))
+sub(b5a,' No medical or expert evidence has been notified as at 30 September 2026. The Respondent\'s list of witnesses, sent to the Registry for filing and to the Appellant on 24 September 2026, names those four witnesses, described as "lay" witnesses, and no other, and states that the Respondent "reserves its right to amend this list depending on the case presented by the appellant at the hearing".',' The Respondent\'s list of witnesses, sent to the Registry for filing and to the Appellant on 24 September 2026, names those four witnesses, described as "lay" witnesses, and no other, and states that the Respondent "reserves its right to amend this list depending on the case presented by the appellant at the hearing". Neither the list nor the outlines names a medical or expert witness, and no expert report has been served as at 30 September 2026.')
+bf4=find(lambda b: b['kind']=='body' and 'has notified no medical or expert evidence (Part C, paragraph 5A)' in b['body'])
+sub(bf4,'that the Respondent has notified no medical or expert evidence (Part C, paragraph 5A)','that the Respondent names no medical or expert witness and has served no expert report (Part C, paragraph 5A)')
 # ===== change 48: Part A employer name aligned to the admitted facts; duplicate sentence removed =====
 pa=find(lambda b: b['kind']=='body' and b['body'].startswith('Appellant: Cory Lea Shepherd. Employer:'))
 assert pa['body'].count('Employer: State of Queensland (Queensland Health) - Logan Hospital Switchboard.')==1
@@ -306,7 +311,7 @@ print('docx written',OUT_DOCX)
 
 # ---------- 3. PDF (shared stylesheet) ----------
 from reportlab.lib.pagesizes import A4
-from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,PageBreak,Table,TableStyle,KeepTogether
+from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,PageBreak,Table,TableStyle,KeepTogether,CondPageBreak
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib import colors
 from reportlab.lib.units import mm
@@ -374,7 +379,7 @@ S+= [Spacer(1,2),Paragraph(esc(L.CC),LB),Spacer(1,1),Paragraph(esc(L.TITLE),LT),
 for b,txt in L.BODY: S.append(Paragraph('<b>'+esc(b)+'</b> '+esc(txt),LB))
 S.append(Paragraph(esc(L.CLOSE[0]),LB)); S.append(Spacer(1,6)); S.append(Paragraph('<b>'+esc(L.CLOSE[1])+'</b>',LB))
 LT2=ParagraphStyle('lt2',parent=LT,keepWithNext=1,spaceBefore=4)
-S.append(PageBreak()); S.append(Paragraph(esc(L.SCHEDULE_TITLE),LT2)); S.append(Paragraph(esc(L.PART1_INTRO),LB)); S.append(Spacer(1,3))
+S.append(CondPageBreak(260)); S.append(Spacer(1,10)); S.append(Paragraph(esc(L.SCHEDULE_TITLE),LT2)); S.append(Paragraph(esc(L.PART1_INTRO),LB)); S.append(Spacer(1,3))
 data=[[Paragraph(esc(h),cellb) for h in L.SCHEDULE_COLS]]
 for r in L.SCHEDULE_ROWS: data.append([Paragraph(esc(str(v)),cell) for v in r])
 W=A4[0]-34*mm
@@ -394,9 +399,9 @@ dl=deco_factory("WC/2024/227  |  Shepherd v Workers' Compensation Regulator  |  
 docL.build(S,onFirstPage=dl,onLaterPages=dl)
 nl=fitz.open(LET_PDF).page_count; print('letter pdf pages',nl)
 _lt=fitz.open(LET_PDF)
-assert 'Schedule, Part 1' in _lt[1].get_text() and 'Schedule, Part 1' not in _lt[0].get_text(), 'letter narrative no longer fits on page 1'
-WORD={1:'one',2:'two',3:'three',4:'four',5:'five'}
-SCHEDPAGES=WORD[nl-1]
+assert 'Schedule, Part 1' not in _lt[0].get_text(), 'schedule must not begin on page 1 of the letter'
+WORD={1:'one',2:'two',3:'three',4:'four',5:'five',6:'six'}
+LETPAGES=WORD[nl]
 
 # letter DOCX
 def lrun(t,b=False,sz=19): return run(t,b,sz=sz)
@@ -406,7 +411,7 @@ def lp(text,lead='',bold=False,after=80,keep=False):
 body=[lp(L.DATE)]+[lp(l,after=0) for l in L.TO]+[lp(''),lp(L.CC),lp(L.TITLE,bold=True),lp(L.SUBJECT,bold=True,after=120)]
 for b,t in L.BODY: body.append(lp(t,lead=b))
 body.append(lp(L.CLOSE[0],after=200)); body.append(lp(L.CLOSE[1],bold=True))
-body.append('<w:p><w:r><w:br w:type="page"/></w:r></w:p>'); body.append(lp(L.SCHEDULE_TITLE,bold=True,after=120,keep=True)); body.append(lp(L.PART1_INTRO,after=100))
+body.append(lp('',after=120)); body.append(lp(L.SCHEDULE_TITLE,bold=True,after=120,keep=True)); body.append(lp(L.PART1_INTRO,after=100))
 def tc(t,b=False,shade=None):
     sh=f'<w:shd w:val="clear" w:color="auto" w:fill="{shade}"/>' if shade else ''
     return f'<w:tc><w:tcPr>{sh}</w:tcPr><w:p><w:pPr><w:spacing w:after="0"/></w:pPr>{lrun(t,b,sz=16)}</w:p></w:tc>'
@@ -446,7 +451,7 @@ for a,b in R.PARTIES:
     Q.append(Spacer(1,3))
 Q+=[Spacer(1,4),Paragraph(esc(R.MATTER),RCI),Spacer(1,6),Paragraph(esc(R.HEAD1),RCB),Spacer(1,3),Paragraph(esc(R.HEAD2),RCB),Spacer(1,10),Paragraph(esc(R.PREAMBLE),RB),Spacer(1,2)]
 for n,(b,rest) in enumerate(R.ITEMS,1): Q.append(Paragraph(f'{n}.&nbsp;&nbsp;&nbsp;<b>{esc(b)}</b>{esc(rest)}',RN))
-Q+=[Spacer(1,6),Paragraph(esc(R.NOTE.replace('{PAGES}',str(n9a)).replace('{SCHED}',SCHEDPAGES)),ParagraphStyle('rnote',parent=RB,fontSize=9,leading=11.5)),Spacer(1,10),Paragraph(esc(R.DATED),RB),Spacer(1,14),Paragraph('<b>'+esc(R.SIGN[0])+'</b><br/>'+esc(R.SIGN[1]),RB)]
+Q+=[Spacer(1,6),Paragraph(esc(R.NOTE.replace('{PAGES}',str(n9a)).replace('{LETTER}',LETPAGES)),ParagraphStyle('rnote',parent=RB,fontSize=9,leading=11.5)),Spacer(1,10),Paragraph(esc(R.DATED),RB),Spacer(1,14),Paragraph('<b>'+esc(R.SIGN[0])+'</b><br/>'+esc(R.SIGN[1]),RB)]
 docR=SimpleDocTemplate(REQ_PDF,pagesize=A4,leftMargin=21*mm,rightMargin=21*mm,topMargin=18*mm,bottomMargin=16*mm,title='Election under direction 5 and directions requested WC/2024/227',author='Cory Lea Shepherd')
 dr=deco_factory("WC/2024/227  |  Shepherd v Workers' Compensation Regulator  |  Election under direction 5 and directions requested")
 docR.build(Q,onFirstPage=dr,onLaterPages=dr)
@@ -462,7 +467,7 @@ for a,b in R.PARTIES:
 RB_+=[rp(R.MATTER,italic=True,center=True,after=120),rp(R.HEAD1,True,center=True,after=60),rp(R.HEAD2,True,center=True,after=200),rp(R.PREAMBLE,after=120)]
 for n,(b,rest) in enumerate(R.ITEMS,1):
     RB_.append(P(LINE.format(b=0,a=140)+'<w:ind w:left="440" w:hanging="440"/>',run(f'{n}.\t',sz=20)+run(b,True)+run(rest)))
-RB_+=[rp(R.NOTE.replace('{PAGES}',str(n9a)).replace('{SCHED}',SCHEDPAGES),after=200,sz=18),rp(R.DATED,after=280),rp(R.SIGN[0],True,after=0),rp(R.SIGN[1])]
+RB_+=[rp(R.NOTE.replace('{PAGES}',str(n9a)).replace('{LETTER}',LETPAGES),after=200,sz=18),rp(R.DATED,after=280),rp(R.SIGN[0],True,after=0),rp(R.SIGN[1])]
 rdoc=f'''<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body>{''.join(RB_)}<w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1134" w:right="1247" w:bottom="1000" w:left="1247" w:header="567" w:footer="567" w:gutter="0"/></w:sectPr></w:body></w:document>'''
 with zipfile.ZipFile(REQ_DOCX,'w',zipfile.ZIP_DEFLATED) as z:

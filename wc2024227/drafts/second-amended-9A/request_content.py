@@ -14,6 +14,6 @@ ITEMS = [
  ("That the Respondent have leave to file and serve an amended statement of facts and contentions, and any amended list of witnesses and outlines of evidence,", " if it wishes, within 14 days after the filing of the Second Amended Form 9A."),
  ("Such further directions as the Commission considers appropriate.", ""),
 ]
-NOTE = "Enclosed with this page: the Appellant's letter of explanation (one page) with the schedule of the documents relied on and their status ({SCHED} pages); and the Second Amended Statement of Facts and Contentions (Form 9A) ({PAGES} pages). The notices to admit, the Respondent's responses and the documents themselves are available to the Commission on request."
+NOTE = "Enclosed with this page: the Appellant's letter of explanation, with the schedule of the documents relied on and their status ({LETTER} pages in all); and the Second Amended Statement of Facts and Contentions (Form 9A) ({PAGES} pages). The notices to admit, the Respondent's responses and the documents themselves are available to the Commission on request."
 DATED = "Dated 30 September 2026"
 SIGN = ["Cory Lea Shepherd", "Appellant (self-represented)"]
