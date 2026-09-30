@@ -44,10 +44,10 @@ SCHEDULE_ROWS = [
  ("27","Respondent's response to that notice","18 Feb 2026",A,"-","Admitted; tender"),
  ("28","myHR leave request history, Process Reference 15480560 (MSH Item 11)","20 Feb-1 Mar 2024",A,"-","Admitted; tender"),
  ("29","Instrument of Human Resource Sub-Delegation, Paid Special Pandemic Leave (MSH Item 13)","eff. 5 Dec 2022",A,"-","Admitted; tender"),
- ("6","Taylor, \"Afterhours Oncall Process - Switchboard\" (Stressor 1(e))","15 Apr 2024, 12:39 pm",D,C,"Now admitted; tender"),
- ("20","Metro South to Commissioner Dwyer, K-LM26/729, signed by the Chief Executive (Stressors 1(m) and 3(l))","5 Jun 2026",D,C,"Now admitted; tender"),
- ("30","Taylor, \"What's Chloe's Hours?!\" (Stressor 1(i))","23 Aug 2023, 2:18 pm",D,C,"Now admitted; tender"),
- ("30A","Taylor, \"Good morning Team.\" (Stressor 1(i))","18 Jun 2024, 8:58 am",D,C,"Now admitted; tender"),
+ ("6","Taylor, \"Afterhours Oncall Process - Switchboard\" (Stressor 1(c))","15 Apr 2024, 12:39 pm",D,C,"Now admitted; tender"),
+ ("20","Metro South to Commissioner Dwyer, K-LM26/729, signed by the Chief Executive (Stressors 1(f) and 3(i))","5 Jun 2026",D,C,"Now admitted; tender"),
+ ("30","Taylor, \"What's Chloe's Hours?!\" (Stressor 1(b))","23 Aug 2023, 2:18 pm",D,C,"Now admitted; tender"),
+ ("30A","Taylor, \"Good morning Team.\" (Stressor 1(b))","18 Jun 2024, 8:58 am",D,C,"Now admitted; tender"),
  ("1","Role description, Administration Officer, Switchboard Services (AO3), Logan Hospital","undated",D,M,"Outstanding; contents admitted (facts 1-13)"),
  ("5","Taylor, \"Approved - Permanent Full Time FTE\"","27 Sep 2023, 1:52 pm",D,M,"Outstanding; contents admitted (37-38)"),
  ("17","Movement form, approved by Mr Hughes as delegate, recording \"Continuous Shift Worker\"","27 Feb 2026",D,M,"Outstanding; contents admitted (14-15)"),
@@ -56,22 +56,22 @@ SCHEDULE_ROWS = [
  ("21","Forrest, Senior Consultant Human Resources, to the Appellant, stating that the 8-hour agreement \"is only applied where staff initiated shift swaps have occurred\"","7 Jul 2026",D,M,"Outstanding; contents admitted (224-225)"),
  ("22","Consultation Paper, Proposed Rosters for Switchboard Services, signed by Mr Hughes 12 Nov 2024","Nov 2024",D,M,"Outstanding; contents admitted (169-175)"),
  ("23","Consultation outcome, Proposed Rosters, signed by Mr Hughes 12 Dec 2024","Dec 2024",D,M,"Outstanding; contents admitted (167-168, 176-177)"),
- ("31","Screen capture, \"2024 Emergency Code Register.xlsx\", March 2024 sheet, entries 16-20 Mar 2024 (Stressor 3(h))","Mar 2024",D,M,"Outstanding; facts 228-231 not admitted"),
+ ("31","Screen capture, \"2024 Emergency Code Register.xlsx\", March 2024 sheet, entries 16-20 Mar 2024 (Stressor 3(e))","Mar 2024",D,M,"Outstanding; facts 228-231 not admitted"),
  ("24","Moran, Organiser, Together Queensland, to Jeffrey, Conaghan and the Appellant, \"Switchboard Roster Feedback - For Delegates\"","3 Nov 2025",D,N,"Outstanding; contents admitted (178-179)"),
 ]
 PART2_TITLE = "Schedule, Part 2: other documents relied on in the Second Amended Form 9A that are not at Annexure A"
 PART2_COLS = ["Document", "Relied on at", "Status or source"]
 PART2_ROWS = [
- ("The Respondent's outlines of the evidence of Ms Taylor, Ms Reese, Ms Wright and Ms Earl","Stressors 1(n), 2(e)(i), 3(g) and 3(i); Part C, paragraph 5A","Served by the Respondent on 24 September 2026; available to the Commission on request. An outline is not evidence."),
- ("The spreadsheet of recorded MET calls for 17 and 18 March 2024","Stressor 3(h)","Metro South Health states that it is available [\u00b6 268]."),
- ("The Logan Hospital emergency code procedures referred to in the role description","Stressor 3(h)(i)","Referred to in the role description [\u00b6 8] (Tab 1)."),
+ ("The Respondent's outlines of the evidence of Ms Taylor, Ms Reese, Ms Wright and Ms Earl","Stressors 1(j), 2(a), 3(a) and 3(f); Part C, paragraph 5A","Served by the Respondent on 24 September 2026; available to the Commission on request. An outline is not evidence."),
+ ("The spreadsheet of recorded MET calls for 17 and 18 March 2024","Stressor 3(e)","Metro South Health states that it is available [\u00b6 268]."),
+ ("The Logan Hospital emergency code procedures referred to in the role description","Stressor 3(e)(i)","Referred to in the role description [\u00b6 8] (Tab 1)."),
  ("The documents recording the advice of Human Resources on the 8-hour agreement","Referred to in the outlines (first row)","The outlines of Ms Taylor and Ms Reese refer to them; neither identifies them."),
- ("The Communication Book","Stressor 1(j); Part B.5.4","Not listed in the Respondent's amended List of Documents of 14 August 2026; paragraph 154 of the notice was not admitted."),
- ("The Respondent's disclosure of July 2025 headed \"Disclosure from witness conferencing - Qld Health Payroll\" (24 pages): the email of Ms Christensen, Manager Service Delivery, Payroll, to the Respondent of 11 July 2025, and Payslips 01 to 07, including Payslip 06 (pay date 5 June 2024) and Payslip 07 (pay date 2 July 2025)","Stressor 2(e)(i); Part B.4","Disclosed by the Respondent in July 2025."),
- ("The Respondent's disclosure of 11 June 2026 (10 pages): the leave-form walkthrough for Process Reference 15480560, the emails of 15 May 2024 at 1:15 pm and 6:23 pm, the emails of 15 and 16 May 2024 concerning the complaint of 13 May 2024, and the complaint form","Stressor 1(n), for dates, senders and recipients only","Disclosed by the Respondent on 11 June 2026."),
- ("Queensland Health's Code Blue procedure 001443 (Royal Brisbane and Women's Hospital, version 5, April 2020)","Stressor 3(h)(i): the types of Code Blue and the role of Switchboard Services","Public document."),
- ("The Queensland Ombudsman's Neville Report (June 2006) and its 2011 update, and the Coroner's findings of 12 September 2008","Stressor 3(l)(ii): the origin of the fatigue framework","Public documents."),
- ("The monthly call statistics for April 2025","Stressor 3(h)(v)","The Appellant's own record and evidence (Part B preamble)."),
+ ("The Communication Book","Stressor 1(g); Part B.5.4","Not listed in the Respondent's amended List of Documents of 14 August 2026; paragraph 154 of the notice was not admitted."),
+ ("The Respondent's disclosure of July 2025 headed \"Disclosure from witness conferencing - Qld Health Payroll\" (24 pages): the email of Ms Christensen, Manager Service Delivery, Payroll, to the Respondent of 11 July 2025, and Payslips 01 to 07, including Payslip 06 (pay date 5 June 2024) and Payslip 07 (pay date 2 July 2025)","Stressor 2(a); Part B.4","Disclosed by the Respondent in July 2025."),
+ ("The Respondent's disclosure of 11 June 2026 (10 pages): the leave-form walkthrough for Process Reference 15480560, the emails of 15 May 2024 at 1:15 pm and 6:23 pm, the emails of 15 and 16 May 2024 concerning the complaint of 13 May 2024, and the complaint form","Stressor 1(j), for dates, senders and recipients only","Disclosed by the Respondent on 11 June 2026."),
+ ("Queensland Health's Code Blue procedure 001443 (Royal Brisbane and Women's Hospital, version 5, April 2020)","Stressor 3(e)(i): the types of Code Blue and the role of Switchboard Services","Public document."),
+ ("The Queensland Ombudsman's Neville Report (June 2006) and its 2011 update, and the Coroner's findings of 12 September 2008","Stressor 3(i): the origin of the fatigue framework","Public documents."),
+ ("The monthly call statistics for April 2025","Stressor 3(e)(v)","The Appellant's own record and evidence (Part B preamble)."),
 ]
 SCHEDULE_NOTE = "The Appellant asked the Respondent on 9 September 2026 to confirm the ten outstanding documents. The Respondent's email of 23 September 2026 gives no date by which the copies are expected, and does not refer to Tab 24, which is a Together Queensland document, not a Metro South Health document. The nine documents the Respondent referred to Metro South Health are Metro South Health documents. The copies of Tabs 1, 5, 17 to 19, 21 to 24 and 31 came from the Appellant's own records; Tabs 17 to 19, 22 and 23 bear the signature of the employer's Director, Corporate Services. If Metro South produces the same documents to the Respondent, and the Respondent discloses them back to the Appellant, he will receive documents he already holds. This letter accompanies the Appellant's election and requested directions (one page). Enclosure: Second Amended Statement of Facts and Contentions (Form 9A), {PAGES} pages."
 CLOSE = ["The Appellant asks that this letter and its enclosure be placed before Commissioner Dwyer and will proceed on the orders made.", "Cory Lea Shepherd, Appellant (self-represented)"]

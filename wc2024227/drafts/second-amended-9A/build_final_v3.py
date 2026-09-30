@@ -261,6 +261,10 @@ d178['body']='The guideline defines fatigue as "A state of impaired physical and
 ml2=find(lambda b: b['kind']=='callout' and b['label'].startswith('The medical link - Stressor 2'))
 sub(ml2,"Tab M4 records the treating psychiatrist's later history of delayed pay as a source of financial stress.","Tab M4 records the treating psychiatrist's later history that pay was \"withheld or delayed for up to five months at a time\", as a source of financial stress.")
 print('change 44 edits applied; blocks now',len(blocks))
+# ===== change 53: event-by-event architecture (restructure_53.py) =====
+import restructure_53
+restructure_53.apply(blocks)
+print('change 53 applied; blocks now',len(blocks))
 for b in blocks:
     if b['kind']=='body' and b['body'].startswith('Dated:'): b['body']='Dated: 30 September 2026'
 final=blocks
