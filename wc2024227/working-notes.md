@@ -7584,3 +7584,8 @@ Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54 (Dwyer IC, 21 Feb 2025; 59 pp) f
 - Nothing goes to Matheson separately. If she raises an error first: "Noted; a corrected copy has been prepared and will be provided to the Commission and the Respondent together."
 - Form 24 / Form 25 and responses: supply only on the Commission's request (as offered in the email, election p 2 and letter).
 - Matheson out of office to Mon 5 Oct 2026; urgent matters to Ruth Jamieson, Appeals Team Leader.
+
+## 2026-10-01 — ASSUMED FACT (Cory's instruction; not verified): the Commission approved the audio release
+- Cory's position: release of the 7 Aug 2026 mention audio (QTranscripts ATR0282381, "APPROVED" 18 Aug 2026) required the Commission's approval, so Dwyer IC / his chambers knows the Appellant obtained the audio.
+- Record: the 18 Aug notification shows State "Evaluation" / Substate "APPROVED", provider Department of Justice (RTS); it does not name the approver. Treat as ASSUMED, not confirmed.
+- Use: internal reasoning only. Never raise the audio in correspondence or at the conference; nothing from the mention is quoted (no certified transcript).
