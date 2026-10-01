@@ -7577,3 +7577,10 @@ Before filing: date the letter; verify Langerak [86], Mahaffey, the doctors' nam
 ## 27 Sep 2026 (night) — Benjamin recusal decision obtained and read
 
 Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54 (Dwyer IC, 21 Feb 2025; 59 pp) fetched from the SCLQ archive and saved at `documents/caselaw/`. Read against the FINAL set at `analysis/2026-09-27_DWYER_RECUSAL_DECISION_Benjamin_read_against_the_FINAL_set.md`. Method: chronology from the transcript first, each ground decided by perception v "objectively demonstrable reality" [166], no motive inferred without evidence [249], self-represented "loss of objectivity" [222], belief "does not equate with proof" [247], efficiency and restraint [41], [75], [82], case manager only [22]–[26], disputes listed not emailed [147]. Residual risks for the set: length (his SOFC instinct is 10–15 pp, [43]) and the three non-admitted items. Unresolved flags in the 25 Sep files closed.
+
+## 2026-10-01 (evening): corrected proposed 9A, held
+- Cory's decision: hold the corrected proposed 9A (FOR_SUBMISSION/WC2024227_3_Proposed_Second_Amended_Form_9A_CORRECTED.pdf, change 97). Raise it at the conference before leave is decided: "A corrected copy of the proposed Form 9A is ready; it corrects several paragraph references and quotations; the substance is unchanged; I ask that leave be considered on that copy." Hand it to Dwyer and the Respondent together.
+- Cory will deliver two copies by Monday 5 October 2026. These must be the CORRECTED copy, never the 1 Oct as-sent copy (superseded/WC2024227_3_Proposed_9A_AS_SENT_1OCT2026_1645.pdf).
+- Nothing goes to Matheson separately. If she raises an error first: "Noted; a corrected copy has been prepared and will be provided to the Commission and the Respondent together."
+- Form 24 / Form 25 and responses: supply only on the Commission's request (as offered in the email, election p 2 and letter).
+- Matheson out of office to Mon 5 Oct 2026; urgent matters to Ruth Jamieson, Appeals Team Leader.
