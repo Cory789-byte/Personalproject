@@ -81,3 +81,15 @@ Source: `Delaney_v_QCOMP_Review_Unit_2005_QIC_11_178_QGIG_197.pdf` (AustLII prin
 - **Outcome (print p 8):** appeal allowed; "the Appellant did suffer an injury".
 
 Fit with the 9A (C.6): the 9A's statement — assessment as a whole "where its parts are closely enough connected by subject matter, time and the people involved", relied on "only where the Commission considers the connection close enough" — matches the global passage. Note the distinguishing feature in Delaney: management's knowledge that the worker "had decompensated once before"; no equivalent is pleaded in the 9A, and C.6 does not rely on one.
+
+## State of Queensland (Department of Agriculture and Fisheries) v Workers' Compensation Regulator [2024] QIRC 53 (Merrell DP, 28 February 2024) — NOT cited in the 9A; research for the conditions-v-management-action point (C.4)
+
+Source: `State_of_Qld_DAF_v_WCR_2024_QIRC_53_Merrell_DP.pdf` (SCL archive QIRC24-053, fetched 2 Oct 2026). Employer's appeal dismissed; workload-stress injury compensable.
+
+- [42]: "the exclusory action in s 32(5) of the Act was intended by Parliament to relate to specific management action directed to the worker's employment itself, as opposed to action forming part of the everyday duties or tasks that the worker performed in employment, such that the management action said to enliven s 32(5) of the Act must be something different to the everyday duties and incidental tasks of the worker's employment." (fn 64: Read v WCR [2017] QIRC 072 [8]-[10]; Allwood v WCR [2017] QIRC 088 [58]-[68]; Haack v WCR [2017] QIRC 115 [44]-[46]; Gilmour v WCR [2019] QIRC 022 [78]-[79])
+- [41]: the Industrial Court "has taken a wide view of what is '… management action'" (behaviour plans, investigation/removal/demotion, restructuring) — the Respondent's side of the line.
+- [43], quoting its earlier DAF [2020] QIRC 097 at [39]: "'management action' means action taken by a manager, in relation to a worker, in managing, handling, directing or controlling the worker."
+- [51]: a broadly expressed expectation about how the worker would exercise her own discretion "was not management action; that is, it was not any specific action taken by Mr West managing, handling, directing or controlling Ms Brunker's workload."
+- [54]: "management action, for the purposes of s 32(5)(a) of the Act, must not be too remote to the injury. Section 32(5)(a) of the Act has application only in respect of management action that has a causal connection with a worker's injury." (fn 88: WorkCover Queensland v Curragh Mining Pty Ltd [2002] ICQ 59; (2003) 172 QGIG 6, 7; Mahaffey [2016] ICQ 10 [54]; DAF [2020] QIRC 097 [42])
+- [57]-[58]: RACQ Operations Pty Ltd v Q-Comp [2003] ICQ 49; (2003) 174 QGIG 824 (Hall P): a system of work (dispatch directions and a detailed WHS manual) was "too remote from the injury" to characterise it as arising out of reasonable management action; "Without that minimal causal nexus, s. 34(5)(a) cannot apply".
+Use: research only. Before any reliance in a filing, read the cited primary authorities (Read, Allwood, Haack, Gilmour, DAF 2020, Curragh, RACQ) in full.
