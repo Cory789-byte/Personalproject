@@ -7589,3 +7589,9 @@ Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54 (Dwyer IC, 21 Feb 2025; 59 pp) f
 - Cory's position: release of the 7 Aug 2026 mention audio (QTranscripts ATR0282381, "APPROVED" 18 Aug 2026) required the Commission's approval, so Dwyer IC / his chambers knows the Appellant obtained the audio.
 - Record: the 18 Aug notification shows State "Evaluation" / Substate "APPROVED", provider Department of Justice (RTS); it does not name the approver. Treat as ASSUMED, not confirmed.
 - Use: internal reasoning only. Never raise the audio in correspondence or at the conference; nothing from the mention is quoted (no certified transcript).
+
+## 2026-10-02 — Second s 552A conference: what it is (guide Part 5.1, verified 2 Oct 2026)
+- "No commercial settlement is possible at the conference. Conferences for workers' compensation matters are not intended to facilitate conciliations."
+- "Following the conference, the Respondent may decide to review its position or consider conceding the appeal where new information is presented that they may not have yet considered."
+- Second conference purpose: "review, refine or narrow down the issues"; "whether any elements of s 32 of the Act can be agreed"; Member "will not be the Member who hears the appeal"; no advice on how to run the case.
+- ⛔ Correction (chat 2 Oct): do not describe the conference as a settlement/resolution forum. Aim = narrow the s 32 elements on the record and surface "new information" (Stressor 1 sequence unanswered by outlines; para 27 identifies no management action; RD69983 roster finding; DAF [2024] QIRC 53 [42] everyday duties) so the Regulator reviews its position after the conference.
