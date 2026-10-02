@@ -21,8 +21,10 @@ Sources: mention transcript of 7 Aug 2026 (internal only; no certified transcrip
 - The documents now referred to MSH are its own: the role description (Tab 1); the movement forms (Tabs 17–19)
   and the consultation paper and outcome (Tabs 22–23), all signed by its Director, Corporate Services; HR's
   7 Jul 2026 letter (Tab 21); the register (Tab 31); and Taylor's email (Tab 5).
-- The dispute has gone from "thousands of documents" to nine documents MSH wrote, to be checked against its
-  own records.
+- The dispute has gone from what Dwyer himself described as extracting "thousands of documents from the
+  health service" [29:45] to nine documents MSH wrote, to be checked against its own records.
+- Tab 20 is now confirmed, so the Chief Executive's statements to the Commission (no FRMS assessment until
+  after 30 June 2024; no consequential changes) are in an admitted document.
 
 ## 3. The Regulator
 - Review Decision 69983 (24 Oct 2024): injury found, arising out of employment (fact 262); the rostering of the
@@ -34,9 +36,10 @@ Sources: mention transcript of 7 Aug 2026 (internal only; no certified transcrip
 - Documents: 14 disputed on 8 Sep; four confirmed on 24 Sep "upon further review of the appeal file". One of
   those four is Tab 20, MSH's letter **to Dwyer**. Nine referred to MSH with no date; Tab 24 not addressed;
   no ground given for any dispute.
-- Most likely explanation: a default "not admitted pending instructions" response, not concealment. Dwyer
-  will read it that way too. The facts side meets his model litigant expectation. The documents side is a
-  residue that was never worked through.
+- Correction (2 Oct): the earlier line here guessed at the reason. The reason doesn't matter and isn't ours
+  to state. The objective point is that Dwyer said the Regulator "will have access to the health service" and
+  could provide documents it can "readily access through their liaison"; the disputes were made before that
+  liaison was used, and four fell away on a look at its own file.
 
 ## 4. The Appellant
 - After the mention, followed his method step by step:
@@ -48,8 +51,25 @@ Sources: mention transcript of 7 Aug 2026 (internal only; no certified transcrip
 - Election item 4 asks only that the Respondent maintain and particularise each dispute by a date. That is
   his "come back to me with a single document" route.
 
+## 4A. Further points in the Appellant's favour (internal; transcript not quotable)
+- [17:45] the bar table acknowledged "some emails to [Taylor to] staff"; [40:40–41:04] "I do believe we have
+  those … and disclosed them" (Matheson, per the acoustic correction of 27 Sep).
+- [61:39] Dwyer: the unassessed directives were "the one area … there might be something to look at"; "you
+  might be on to something there". Now admitted word for word (facts 49–53, 66–67).
+- [32:43] Dwyer's own hypothetical: the Regulator says "we asked, but none were provided" and then "they don't
+  contradict it". That is the position if MSH does not supply the nine.
+- [60:00–61:37] "Have I … placed a burden on you that you're not prepared to accept?" Answer "No." ⚠ speaker
+  unverified (acoustics say near-mic; the question was Matheson's).
+- The Respondent's own witnesses: payroll calls the break "a rostering practice issue for the line manager"
+  and says the leave decline "appears to have been made in error".
+- Facts 260–262: the Regulator's own reviewer found injury, employment connection and unreasonable management
+  action on the rostering.
+- Withdrawing the 64G avoided the hearing Dwyer said could run over a day, with lawyers and costs [29:45].
+- Correction (2 Oct): "floundering" and "overcooking" at [56:34] were said "in no way at all being critical",
+  with "you may be right about all of that". It was guidance, not criticism; the "reversal" framing overstated it.
+
 ## 5. What he is likely to do
-- Ask Matheson whether she maintains each dispute, starting with Tab 20.
+- Ask whether each dispute is maintained (the order and wording are a guess).
 - Expected result: most or all disputes withdrawn, or a short date fixed.
 - He won't characterise anyone's conduct, and nor should we.
 
