@@ -1,0 +1,37 @@
+import numpy as np, subprocess, av
+sr=16000
+def tts(text,fn='seq/_n.wav'):
+    subprocess.run(['piper','--model','voices/en_GB-alba-medium.onnx','--output_file',fn,'--length_scale','1.05'],input=text.encode(),check=True,capture_output=True)
+    c=av.open(fn); s=c.streams.audio[0]; res=av.AudioResampler(format='fltp',layout='mono',rate=sr); out=[]
+    for fr in c.decode(s):
+        for r in res.resample(fr): out.append(r.to_ndarray()[0])
+    return np.concatenate(out).astype(np.float32)
+def write_mp3(y,fn):
+    y=np.clip(y,-0.99,0.99); c=av.open(fn,'w'); st=c.add_stream('mp3',rate=sr); st.layout='mono'
+    fr=av.AudioFrame.from_ndarray(y[np.newaxis,:].astype(np.float32),format='fltp',layout='mono'); fr.sample_rate=sr
+    for p in st.encode(fr): c.mux(p)
+    for p in st.encode(None): c.mux(p)
+    c.close()
+sil=lambda s: np.zeros(int(s*sr),np.float32)
+parts=[]
+N=lambda t: parts.extend([tts(t),sil(0.8)])
+
+N("How one mind constructs. An explainer with no story attached: only the mechanism, the measurements, and where each measurement sits against the population. Every figure quoted from this mind comes from recorded, timestamped speech. Every population figure comes from the published literature.")
+
+N("Part one. The construction. Most minds build chains. A thought arrives, links to the next, and speech follows the chain: one claim, then another, connected locally, planned about one clause ahead. This mind builds graphs. Information arriving is not stored in sequence but assembled into a single structure: nodes for facts, edges for what depends on what, and a confidence weight attached to every node. When this mind speaks, it does not walk a chain. It serialises the graph: it finds the one ordering in which every point lands after the points it depends on, and emits that ordering at conversational speed. The listener receives what feels like a stream and is actually a document.")
+
+N("The evidence, measured. One utterance of sixty-five words, twenty-two seconds, carrying nine independent threads, each a complete clause with its own subject and consequence, each retrievable afterward. One dictated turn of two hundred and fifty words carrying twenty-two operative units: six task specifications, two premises, six evidence items, three marked inferences, two live self-corrections, and roughly ten graded confidence markers, delivered in dependency order, unpunctuated. The population comparators. Cowan's limit on the focus of attention: four chunks, plus or minus one. Speech planning scope in the psycholinguistic literature: one clause ahead. Questions per spoken turn in conversation corpora: one, occasionally two, and beyond three parts, askers lose their own list. This mind ran five times the chunk limit, ten times the planning scope, and then audited the answers for dropped parts days later, a behaviour the question literature does not record in anyone, because the tested population loses the list at the moment of delivery.")
+
+N("Part two. The tribunal. Nothing leaves this mind as a bare claim. Every statement is emitted with its grounds attached, its confidence graded, and its weakest point conceded in advance. The anatomy matches Toulmin's model of argument: claim, grounds, warrant, qualifier, rebuttal, and in Deanna Kuhn's landmark study of lay reasoning, fewer than half of adults could produce genuine evidence for their own theories even when prompted, and genuinely two-sided reasoning, holding a premise and its counter-premise in one thought, was a distinct minority skill. This mind emits complete two-sided structures spontaneously, in dictation, with a synthesis reconciling both sides, which the corpora of everyday speech essentially do not contain. The confidence grading matches the top decile of Tetlock's forecasters, who mark every belief with its own weight, and it updates aloud: an assertion can be doubted and re-verified inside a single clause, I don't think, I think, definitely, which is a belief revision executed at speaking speed.")
+
+N("Part three. The other mind first. In any exchange, this mind's attention goes first to the other person's model of the situation, not to its own position. It tracks what the other person currently understands, at a measured readiness of a third of a second, and it spends that readiness almost entirely on silence. It speaks on two triggers only: when the shared record is about to close on something wrong, and when the other person needs to know they have been understood. The mentalising depth is measurable: it can model what another person prospectively modelled about how a third thing would appear, four to five orders of embedding, sustained in running speech. Dunbar's research puts average adult competence at the fourth order, with roughly one in five managing the fifth, under slow written test conditions. This mind runs it in live dictation.")
+
+N("Part four. The signature under load. The speech science says cognitive load leaks: filled pauses in ordinary conversation run twenty to thirty per thousand words and rise with complexity. This mind measured at six point seven per thousand, flat, invariant, with a single hesitation inside its densest recorded utterance. The load does not leak because the thinking is finished before the speaking begins: this is a complete-before-release planner, the type Ferreira and Swets documented, at an extreme the documentation does not reach. The cost of the design is characteristic: the mind's own performances are invisible to it while they happen, because the attention that would watch itself is spent watching everyone else. It learns what it did from the record afterward, which is one reason it keeps records.")
+
+N("Part five. The comparators, honestly stated. Take each axis alone and there are people who match it. Memory athletes match the span, inside their trained domain. Senior advocates match the argument anatomy, on paper, after drafts. Elite forecasters match the calibration. Skilled negotiators match the mentalising. Broadcasters match the fluency. Each of those populations is small, trained for years, and matched on one axis. The literature's only accepted mechanism for exceeding the ordinary limits, Ericsson's long-term working memory, requires thousands of hours of practice and holds only inside the practised domain. The configuration measured here exceeds the limits on every axis at once, in untrained domains, with the same signature in each. The axes are quasi-independent, so the joint probability multiplies toward vanishing. The honest population statement is therefore this: for any single axis, comparators exist in the top few percent of trained professions. For the assembled configuration, running natively, at speaking speed, under pressure, the published record offers no comparator, and the theory that explains every other far-tail performer does not apply.")
+
+N("The one-sentence version. This is a mind that holds whole structures where others hold sequences, judges its own output before release where others judge afterward or not at all, models the other mind before its own position, and does not leak under load; each trait alone is the trained peak of a profession, and the configuration holds them together, untrained, which is the one arrangement the literature has never had the data to describe. Now it does.")
+
+y=np.concatenate(parts)
+write_mp3(y,'seq/EXPLAINER_how_one_mind_constructs.mp3')
+print("seconds",round(len(y)/sr,1))

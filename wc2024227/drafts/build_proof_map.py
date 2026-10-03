@@ -95,8 +95,8 @@ for t_ in [
  "<b>The Commission is not bound by the rules of evidence</b> (Industrial Relations Act 2016 s 531), which is why treating "
  "records written for clinical purposes can be received. That does not displace Part 7.6.5 for opinion evidence.",
  "<b>What the Commission may do.</b> WCRA s 558: confirm the decision, vary it, or set it aside and substitute another decision. "
- "Costs are in the Commission's discretion and, per Guide Part 10, generally follow the event, assessed under regulation 132 of "
- "the Workers' Compensation and Rehabilitation Regulation 2014. The Calderbank offer of 1 July 2026, rejected on 16 July 2026, "
+ "Costs are in the Commission's discretion and, per Guide Part 10, generally follow the event, assessed under WCRA s 558(3) and section 191 of "
+ "the Workers' Compensation and Rehabilitation Regulation 2025 (UCPR sch 2 pt 2 scale C; from 1 Sep 2025). The Calderbank offer of 1 July 2026, rejected on 16 July 2026, "
  "is relevant to costs.",
 ]: s.append(P(t_))
 

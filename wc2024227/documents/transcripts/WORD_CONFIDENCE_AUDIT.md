@@ -1,0 +1,200 @@
+# WORD-LEVEL CONFIDENCE AUDIT — THE SEGMENTS IN ISSUE
+
+**16 September 2026.** Measured from `MENTION_7AUG2026_segments.jsonl` (the word-level output of the
+original large-v3 run). ⛔ **No re-decode has been performed** — the audio is not in this repository.
+See `redecode_disputed.py` for the ready-to-run targeted re-decode.
+
+**Baseline for the whole hearing:** 9,693 words. **2.2%** below p=0.50; **3.6%** between 0.50 and 0.75.
+Anything at or near those rates is normal; the interest is in individual words, not zone averages.
+
+---
+
+## ⛔ THE HEADLINE HYPOTHESIS WAS TESTED AND REFUTED — 16 September 2026
+
+This file originally proposed that **"spread" (p=0.23) at 46:48.54 was a mis-recognition of
+"suppressed"**, on the grounds that it was by far the weakest word in the passage and that "an
+appointment is not actively spread". **The audio was obtained and the window re-decoded. The
+hypothesis fails on both grounds.**
+
+### The re-decode, five conditions
+
+| Decode | Prompt primed "suppressed"? | Word returned | p |
+|---|---|---|---|
+| Original run (Aug, beam 5) | — | `spread,` | 0.23 |
+| Re-decode, context pass | **yes** (domain prompt **and** Dwyer saying it 3× in-window) | `spread.` | 0.32 |
+| Re-decode, no-context pass | **yes** (domain prompt) | `suppressed,` | 0.46 |
+| Clean, neutral prompt | no | ⛔ **hallucinated** — *"Subtitles by the Amara.org community"* | — |
+| **Clean, NO prompt at all** | **no** | **`spread,`** | **0.20** |
+
+⇒ **Three of four valid passes return "spread", including the only genuinely unprimed one.** The
+single "suppressed" reading came from the pass most primed toward it — **by the operator's own domain
+prompt, which contained the phrase "actively suppressed"**. That was a methodological error in the
+first re-decode and it is disclosed here.
+
+### The semantic argument was also wrong
+
+The subject of the clause is **the correspondence**, not the appointment. The fuller passage recovered
+by the unprimed decode reads:
+
+> *"It's more so the correspondence you got from the union. **The correspondence I also got from the
+> manager**, but it wasn't actively **spread**, it was actively avoided, but would be more likely."*
+
+Correspondence can straightforwardly be *spread*. The original objection mis-identified the subject.
+
+### ⚠ Two method notes worth keeping
+
+1. **Never put a disputed word into the decoder's prompt.** It contaminated the pass that produced
+   the only contrary reading.
+2. **An under-specified prompt is worse than none.** The "neutral prompt" condition **hallucinated**
+   a stock YouTube-subtitle string on this audio. Low-information prompts on quiet, distant-mic audio
+   invite fabrication. **Any empty or odd result must be inspected raw before it is read as a finding.**
+
+⇒ **The transcript was right. "spread" stands.** Low probability here reflects a quietly spoken word
+on a distant microphone, not an error.
+
+## ✅ N1 AND N2 CONFIRMED BY RE-DECODE — 16 September 2026
+
+**N1 [16:29].** Both passes agree at beam 10: *"**I guess I did request**, but I didn't be specific
+about that, so..."* — guess **1.00**, did **1.00**, request **1.00**. ⇒ The small.en rendering
+*"I didn't request"* is wrong on three independent measurements. **Settled.**
+
+**N2 [23:37]–[24:12].** Both passes agree on every substantive word. The filters specification is
+verbatim-confirmed: *"So my **filters** [0.97] **were** [0.99] **effective** [0.88]
+**immediately**"* [1.00], and *"I **basically just want the count**"* — all 1.00 but *the* [0.98].
+⇒ **§99 of the mention assessment rests on measured ground.**
+
+### ⚠ N2 also found a spurious word in the original transcript
+
+The original run rendered *"…and say effective immediately. **Absolutely.** Does that make sense?"*
+with **"Absolutely." at p = 0.03** — the lowest-probability token in the whole zone.
+
+**Neither re-decode pass produces it.** Both read straight through:
+*"…and say effective immediately. Does that make sense?"*
+
+⇒ **"Absolutely." is an artefact of the original decode and was almost certainly never spoken.**
+Do not quote it. A p=0.03 token that disappears under two independent higher-beam passes is an
+insertion, not a quiet word.
+
+⚠ Minor and unresolved: the original reads *"e-health"*, the re-decode *"e-help"*. **"eHealth" is the
+Queensland Health system and the original is very likely right**; the re-decode has no domain
+knowledge of it. Low stakes either way — nothing turns on it.
+
+### The two passes "disagreed" on N2, and the disagreement is noise
+
+The only difference is a duplicated fragment — the no-context pass renders *"it filters all the
+words. the words."* against the context pass's *"it filters all the words."* ⇒ A segmentation
+artefact, not a meaning difference. **Recorded so that the AGREE=False flag is not misread as a
+substantive conflict.**
+
+## ✅ ALL SIX WINDOWS RE-DECODED — 16 September 2026, 1215.7s total
+
+| Window | Outcome |
+|---|---|
+| **N1** *"I guess I did request"* | ✅ Confirmed. Settles the small.en split |
+| **N2** filters | ✅ Confirmed verbatim. ⚠ *"Absolutely."* is spurious |
+| **Nine words** | ✅ Confirmed. ⭐ Recovered a closing clause that extends the chain |
+| **A1** | ⚠ *"Yeah,"* unsupported. ⭐ Overlap signature corroborates the amendment |
+| **N3** *"spread"* | ✅ Confirmed. **The operator's "suppressed" hypothesis is refuted** |
+| **N4** comparator | ✅ Confirmed. ⭐ *"six week period"* resolved |
+
+### ⭐ The nine words — and the clause we did not have
+
+*cardiac* **0.99** · *arrest* **1.00** · *respiratory* **0.99** · *distress* **1.00**, and
+*"they're **sent to the wrong side of the room**"* at **1.00 on every word**.
+
+The utterance runs further than the transcript showed:
+*"…they're sent, **we're now not even contacting them by their numbers.**"*
+
+⇒ **That closing clause is the database.** One utterance carries both the mechanism and the
+consequence. ✅ The **50-word** span from *"direct calls to this number"* to *"respiratory distress"*
+is **verified against the audio**; the full span to *"by their numbers"* is **61 words**.
+
+### ⭐ N4 — "six week period" resolved by the Commissioner's echo
+
+The Appellant's own *"week"* is **p = 0.33** (0.44 in the original). But Dwyer repeats the phrase back
+immediately — *"**Over a six week period** you and your colleagues were underpaid…"* — with
+**six 1.00 · week 1.00 · period 1.00**.
+
+⇒ **The period is confirmed, from the echo rather than the token.** This closes the flag raised
+earlier that the 42% had an uncertain denominator. **The figure (42 = 1.00) and the period are both
+sound; only the comparator class is defective**, and that is confirmed verbatim at 1.00:
+*"Between me and my colleague"* → *"My colleagues generally"*.
+
+### ⛔ THE RULE THIS RUN ESTABLISHES — low probability is not error
+
+Three low-probability tokens were tested against the audio. **They did not behave the same way:**
+
+| Token | Original p | Survives independent re-decode? | Verdict |
+|---|---|---|---|
+| *"spread"* 46:48 | 0.23 | ✅ **yes** — 3 of 4 passes, incl. the unprimed one | **Real. Quietly spoken** |
+| *"Absolutely."* 24:02 | 0.03 | ❌ no — absent from both passes | **Insertion. Never said** |
+| *"Yeah,"* 30:12 | 0.37 | ❌ no — absent from both passes | **Insertion. Never said** |
+
+⇒ **A low probability alone proves nothing.** The test is **persistence under independent decoding**.
+That test was unavailable before the audio was obtained, which is why the original audit could flag
+words but not adjudicate them.
+
+## WHAT IS VERBATIM-CERTAIN, AND CAN BE QUOTED
+
+| Passage | Per-word probabilities | Status |
+|---|---|---|
+| **[16:29] "I guess I did request"** | I 0.76 · **guess 0.96** · I 0.91 · **did 0.97** · **request 1.00** | ✅ **Settles N1 by measurement.** small.en's *"I didn't request"* is wrong at word level, not merely on aggregate. **Never cite small.en for this line.** |
+| **[23:52] "So my filters were effective immediately"** | So 0.87 · my 0.92 · **filters 1.00** · were 1.00 · effective 0.99 · immediately 1.00 | ✅ The criterion specification is certain. **§99 rests on measured ground.** |
+| **[46:10] "I don't know if I can prove it as much"** | **every word 1.00** | ✅ The concession is certain. Ten words, none below 1.00 — the cleanest passage audited. |
+| **[29:31] "they're not sent to someone having a cardiac arrest"** | they're 0.97 · everything else **1.00** | ✅ The nine words are certain. |
+| **[50:54] "a documented 42% pay disparity"** | documented 1.00 · **42 1.00** · % 0.97 · pay 1.00 · disparity 1.00 | ✅ **The figure itself is certain.** |
+| **[51:50] "or your colleagues generally?"** | colleague 1.00 · your 1.00 · **colleagues 1.00** · **generally 1.00** | ✅ The class slide at N4 is certain. |
+
+---
+
+## TWO SECONDARY FLAGS
+
+### "week" at 51:26.70 — p = 0.44
+
+> *"That's what me and my colleagues over a six **week** [period]"* — That's 0.98 · ·what 0.50 ·
+> ·me 0.75 · and 1.00 · my 1.00 · colleagues 1.00 · over 0.99 · a 0.98 · six 0.94 · **⚠week 0.44**
+
+⚠ **The 42% is computed over a stated period, and the period's unit is the low-confidence word.**
+The figure is certain; the denominator is not. **Verify the period against the payslips before the
+42% is stated anywhere with a period attached.**
+
+### "Yeah," at 30:12.98 — p = 0.37 — and this *supports* amendment A1
+
+> *"**Yeah,** I actually understand what you're getting at."*
+> ⚠Yeah, **0.37** · I 1.00 · actually 1.00 · understand 0.99 · what 0.97 · you're 0.96 · getting 0.97 · ·at. 0.67
+
+⭐ The substance of the amended line is near-certain; **the only weak element is the lead-in
+interjection** — precisely the class the transcript's own Method section identifies as the weakest
+for automated attribution, and precisely why the speaker label was wrong. **The measurement is
+consistent with A1 rather than against it.** The words are safe to quote; the attribution rests on
+participant confirmation, as A1 records.
+
+---
+
+## ZONE SUMMARY
+
+| Zone | Segments | Words | Mean avg_logprob | <0.50 | 0.50–0.75 |
+|---|---|---|---|---|---|
+| N1 16:29 | 5 | 68 | −0.207 | 4.4% | 0.0% |
+| N2 filters | 12 | 100 | −0.222 | 3.0% | 7.0% |
+| 29:17 nine words | 13 | 100 | **−0.151** | **1.0%** | 3.0% |
+| A1 zone | 14 | 138 | −0.177 | 2.9% | 4.3% |
+| N3 suppressed | 22 | 207 | **−0.128** | 1.9% | 2.4% |
+| N4 comparator | 24 | 153 | −0.153 | 2.6% | 3.9% |
+| **whole hearing** | 1,068 | 9,693 | −0.180 | **2.2%** | **3.6%** |
+
+⇒ **No disputed zone is anomalously bad.** N3 and the nine words are *better* than the hearing
+average. The problems are individual words, not degraded passages — which is why a targeted
+re-decode of six short windows is the right tool and a whole-file re-run is not.
+
+---
+
+## WHAT A RE-DECODE WOULD ADD, AND WHAT IT WOULD NOT
+
+`redecode_disputed.py` targets the six windows with beam 10 / best_of 10, **temperature 0 with no
+fallback**, VAD off, ±6 s padding, a domain-primed prompt, and **two passes compared** (with and
+without prior-text conditioning). Disagreement between passes is treated as the signal.
+
+⛔ **It still produces machine output.** For any word carrying legal weight — "spread"/"suppressed"
+above all — **listen to the audio at the timestamp**, then record the outcome in the AMENDMENT LOG
+with a confidence class. That is what makes it a participant correction rather than a second guess.

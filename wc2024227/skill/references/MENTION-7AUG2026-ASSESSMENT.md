@@ -2895,3 +2895,104 @@ different exclusion, and he formed adverse provisional views on two limbs here t
 counterpart there. **But the disposition he brings to an exclusion, to an evidentiary gap, and to an
 appellant's uncontradicted testimony is now on the record twice: once in what he decided, and once
 in what he said.**
+
+---
+
+# 99. ⛔⛔ CORRECTION, 16 SEPTEMBER 2026 — THE "LIVE-ROOM VOCABULARY GAP" DOES NOT EXIST
+
+This section supersedes every statement in this file, and in any other, that treats the **filters**
+exchange at [23:37]–[26:31] as an example of the Appellant choosing an unclear word. **It was not.**
+The correction was made by the Appellant, and on re-reading the transcript from source he is right.
+
+## 99.1 Filter and phrase are one operation described from two ends
+
+**A phrase is the criterion. A filter is the mechanism that applies it.** "Manager email filters
+A to E" is five phrase criteria. They are not two concepts and one of them is not a lay substitute
+for the other.
+
+His answer at **[23:40]**, verbatim from the transcript, unprepared, in four sentences:
+
+> *"When you go into, let's say, e-health, for instance, or let's say Outlook, and you put a word in
+> Outlook and it filters all the words. **So my filters were effective immediately.** So that would
+> be a filter. So they get all these emails and say effective immediately. Absolutely. Does that make
+> sense? So that's the directives. **And I basically just want the count.** I don't even, for me, it
+> doesn't matter."*
+
+Parsed, that names:
+
+| Element | What he said |
+|---|---|
+| **The system** | eHealth; Outlook as the worked analogy |
+| **The operation** | *"you put a word in … and it filters all the words"* |
+| **The criterion** | *"effective immediately"* |
+| **The scope** | the manager's sent mail, sub-items A–E |
+| **The output sought** | *"I basically just want the count"* — not the documents |
+
+⭐ **That is a complete and accurate specification of a bounded server-side search**, given live, in a
+register anyone who has used a mailbox can follow. His own forecast file calls the identical thing a
+**phrase-family**. Same concept, two registers, both correct.
+
+## 99.2 Where the failure actually was, and where the cost landed
+
+The Commissioner did not retrieve the operation from the word — **having said in that same hearing
+that his brain switches off under load**. That is a retrieval event under load in the listener, not a
+defect in the speaker's description.
+
+⚠ **The cost landed on the Appellant because cost always lands on the person who needs something**,
+not because the description was wrong. Those are different things and must not be conflated again.
+⇒ §4 row 15–16 of this file already records the exchange correctly — *"this is the Appellant teaching
+the Commissioner and it must not be read the other way"*. **That reading stands; this section removes
+the contrary gloss wherever it survives.**
+
+## 99.3 ⛔ The evidence base for the "live-room gap" is corrected
+
+Filters was the primary example relied on. **It does not survive.** Two examples do, and **neither is
+a vocabulary problem.**
+
+### (a) The pay comparator — a PRECISION problem [51:24]–[52:04]
+
+He had the figure. Under questioning the class slid:
+
+> **[51:47] MR SHEPHERD:** *"Between me and my colleague."*
+> **[51:50] DWYER IC:** *"Between you and a colleague or your **colleagues generally**?"*
+> **[51:52] MR SHEPHERD:** *"**My colleagues generally** because I would be rostered off."*
+
+⇒ A 42% figure computed against **one** comparator was restated as holding against **the group**. The
+underlying fact is sound and is now admitted (facts 42–45 of the first notice are denied only as to
+comparator validity; the payroll thread is admitted). **The defect is class precision under
+questioning, not word choice.** ⭐ The fix is a fixed sentence: *one named comparator, one stated
+period, one figure.*
+
+### (b) "Actively suppressed" — a PLEADING problem [43:36]–[46:52]
+
+The characterisation ran ahead of what could be proved, and Dwyer put it squarely:
+
+> **[45:55] DWYER IC:** *"So actively means they deliberately. Am I right about that or have I read
+> that wrong?"*
+> **[46:10] MR SHEPHERD:** *"**I don't know if I can prove it as much.**"*
+
+⭐⭐ **And then he re-specified it himself, unprompted, at [46:44]:**
+
+> *"it wasn't actively **spread**, it was actively **avoided**, but would be more likely."*
+
+⇒ That is not a collapse. **It is a concession against interest followed by a more accurate
+substitute word, produced live.** The pleaded adverb was wrong; the fact underneath — hand up in
+April 2023, thirteen months, never installed, the union chasing — is untouched, and is what facts
+167–181 now carry. ⛔ **The lesson is a pleading lesson: an adverb of state of mind must not be
+pleaded unless a document proves the state of mind.** It is the same discipline as
+*never open the s 32(5)(b) door*.
+
+## 99.4 On register — the larger point, and it is conceded
+
+How he presents **is** how he thinks; it is not a wrapper over it. Section 13 of the cognitive
+scratchpad (chains, not webs) is the structural statement of the same thing.
+
+⚠ **But Dwyer's register is not his cognition either.** It is a **trained second output running on
+the same mind** — hypotaxis, ~20 navigation markers, one structural pause, a parked thread reopened
+fifty-six minutes later. Acquiring one is **not a correction of how anyone thinks. It is a second
+format for rooms that only read one.**
+
+⇒ That is the whole content of what was said in the private conference of 13 March 2026, and it is
+also why the **Form 24 route worked**: it is that second format, produced on paper, in his own time,
+at his own pace — **303 numbered propositions, 298 admitted.** The format problem was solved by
+changing the format, not the mind.

@@ -54,6 +54,8 @@ why the audio matters.
 
 ---
 
+> ⛔ **§3 WITHDRAWN 27 Sep 2026 (amendment A3).** The 40:40, 41:01 and 41:04 lines are **Ms Matheson's**, not Mr Shepherd's (participant evidence + un-normalised intensity 39–56 dB and pitch 151–174 Hz against his 62 dB / 137 Hz medians). His genuine high-pitch outliers are content lines (29:20, 46:44), not hedges. See `analysis/2026-09-27_MENTION_ACOUSTICS_correction_Matheson_not_Shepherd.md`.
+
 ## 3. ⭐⭐ THE TELL — HIS PITCH RISES EXACTLY WHERE HE IS LEAST CERTAIN
 
 His five highest-pitched substantive utterances:
