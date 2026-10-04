@@ -157,7 +157,7 @@ and re-coding.
 |---|---|---|
 | **D. General protections / adverse action (IR Act 2016)** | **$15–45k** standalone, accruing. Uncapped, plus reinstatement, if it becomes a dismissal | ✅ **Verified 4 Oct 2026 (IR Act s 310(3), ATT22, current at 1 Jan 2026): 6 years after each contravention.** The lockout (26 Jun/3 Jul 2026 onward) runs to mid-2032; the earliest relied-on 2025 conduct to about Mar 2031. ⛔ **If a dismissal ever occurs: 21 days (s 310(1)), extended only for exceptional circumstances.** |
 | **E. AD Act (impairment, failure to accommodate the 3 Jul restrictions)** | **$30–100k**, including hurt and some wage overlap (*Golding v Sippel* ICQ ~$158k is the high-water mark) | QHRC complaint; ⚠ time limit to verify |
-| **F. PID reprisal (tort)** | Compensatory damages overlap Track B. **Exemplary damages** are the separate head (~$20–100k if run). Leverage value $50–250k | ⛔ Never linked to the WC track. ⚠ Verify the section and limits. |
+| **F. PID reprisal (tort)** | Compensatory damages overlap Track B. **Exemplary damages** are the separate head (~$20–100k if run). Leverage value $50–250k | ⛔ Never linked to the WC track. ✅ s 42 verified; WCRA disapplied (s 42(6)). **Limitation: ~15 May 2027** for injury damages from the 2024 conduct (LAA s 11, conservative); 6 years for non-injury loss. See pid-reprisal-track.md §7. |
 
 **No double recovery.**
 - Tracks B and F overlap on the same injury.
@@ -186,7 +186,7 @@ and re-coding.
 3. **A PI solicitor before any Notice of Assessment.** The election decides whether Track B
    survives.
 4. **The FY2023–24 and FY2024–25 payslips.** These give exact earnings and the full-time baseline.
-5. **Time limits.** Track D is 6 years (verified). Track E runs to 2027 (CLAUDE.md, s 15(2)). Still unverified: the Track F PID reprisal limit. ⛔ Any dismissal triggers 21 days.
+5. **Time limits.** Track D is 6 years (verified). Track E runs to 2027 (CLAUDE.md, s 15(2)). Track F: **~15 May 2027** (conservative) for injury damages; engage a specialist by early 2027. ⛔ Any dismissal triggers 21 days.
 
 ## Sources (rates)
 - [Roche Legal: WorkCover lump sum amounts 2026–27](https://rochelegal.com.au/blog/workcover-lump-sum-payment-amounts/)
