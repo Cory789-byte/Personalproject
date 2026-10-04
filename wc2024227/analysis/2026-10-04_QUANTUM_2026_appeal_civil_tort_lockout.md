@@ -1,6 +1,6 @@
 # QUANTUM AT OCTOBER 2026: the appeal, the civil claim, the torts and the lockout
 
-> 4 Oct 2026. Internal only. These are estimates, not advice. Every range depends on the updated
+> 4 Oct 2026 (revised the same day: full-time baseline set to $105k from 2024 payslips). Internal only. These are estimates, not advice. Every range depends on the updated
 > psychiatric report (capacity, prognosis, causation), the DPI and ISV assessments, offsets, and
 > specialist personal-injury advice.
 > This file updates the 31 Jul 2026 valuation memo in `working-notes.md` to 2026–27 rates and to the
@@ -20,7 +20,7 @@
 |---|---|---|
 | Base rate | **$44.46/hr** (AO3) | working-notes, Payroll correspondence, Aug–Sep 2026 |
 | Full-time | 76 hrs/fortnight = **$3,378.96 base/fortnight** = $87,853 base a year | same |
-| Full-time including shift penalties | about **$110,000 a year** (range $100–115k) | near-FT slip $4,412.55 gross a fortnight (2 Jul 2025); penalties about 40% on base |
+| Full-time including shift penalties | **about $105,000 a year (2024 payslips, per Cory, 4 Oct 2026)**. Pre-injury NWE ≈ **$2,019/wk**; 85% = $1,716/wk; 75% = $1,514/wk | ⚠ confirm against FY2023–24 payslips. A 2026-equivalent would be about $108k (base up ~3%). $105k is used as the conservative documented figure |
 | FY2025–26 actual gross | $82,664.20 | payslip workbook |
 | Part-time patterns | 56 hrs/fortnight (0.74 FTE); 40 hrs/fortnight (0.53 FTE); ECC "about six shifts a fortnight" | movement forms (facts 14–15); ECC 3 Jul 2026 |
 | Age / working life | about 35, to 67 = 32 years | 31 Jul memo |
@@ -30,8 +30,7 @@
 | QOTE 2026–27 | **$1,994.50** | QLS Proctor, June 2026 |
 | Economic loss cap | 3 × QOTE a week = about $311,000 a year | not binding on these figures |
 
-⚠ **Still missing:** FY2023–24 and FY2024–25 payslips, for exact normal weekly earnings and the
-pre-injury full-time average.
+⚠ **Still missing:** the FY2023–24 and FY2024–25 payslips themselves, to put the $105k figure on the record.
 
 ---
 
@@ -81,8 +80,8 @@ capacity. It does not prove the cause.
 
 | Residual capacity | Gross loss/yr | Net loss/yr | PV over 32 yrs | Less 15–20% vicissitudes | Super (PV, after vicissitudes) |
 |---|---|---|---|---|---|
-| **56 hrs/fortnight** (0.74 FTE) | $28,947 | $19,684 | $311,063 | **$249k–$264k** | ~$45k |
-| **40 hrs/fortnight** (0.53 FTE) | $52,105 | $35,432 | $559,914 | **$448k–$476k** | ~$81k |
+| **56 hrs/fortnight** (0.74 FTE) | $27,632 | $18,789 | $296,874 | **$237k–$252k** | ~$43k |
+| **40 hrs/fortnight** (0.53 FTE) | $49,737 | $33,821 | $534,373 | **$427k–$454k** | ~$77k |
 | **Buffer** (capacity uncertain) | — | — | — | **$100–150k global sum** | ~$15k |
 
 ### 3.2 The full claim: three scenarios
@@ -90,15 +89,15 @@ capacity. It does not prove the cause.
 | Head | A: Conservative (moderate injury, buffer) | B: Reasonable (permanent 0.74 FTE) | C: High (permanent 0.53 FTE) |
 |---|---|---|---|
 | General damages (ISV, 2023–24 table) | $15k (moderate, ISV ~8) | $30k (serious, low) | $45k (serious, mid) |
-| Past economic loss (net, Jun 2024 → now) | $50k | $70k | $90k |
-| Past super | $6k | $8k | $11k |
-| Future economic loss | $150k | $257k | $462k |
-| Future super | $18k | $45k | $81k |
+| Past economic loss (net, Jun 2024 → now) | $48k | $67k | $86k |
+| Past super | $6k | $8k | $10k |
+| Future economic loss | $145k | $245k | $441k |
+| Future super | $17k | $43k | $77k |
 | Future medical | $15k | $25k | $40k |
 | Interest on past loss | $5k | $7k | $9k |
-| **Gross** | **~$259k** | **~$442k** | **~$738k** |
+| **Gross** | **~$251k** | **~$425k** | **~$708k** |
 | Less WorkCover refund (statutory payments) | −$60k | −$65k | −$75k |
-| **Net of refund** | **~$199k** | **~$377k** | **~$663k** |
+| **Net of refund** | **~$191k** | **~$360k** | **~$633k** |
 
 **Robinson v State of Queensland [2017] QSC 165:** $1,468,991 plus costs. Queensland Health,
 psychiatric injury from managerial mistreatment, with career loss proved. That is the ceiling, and
@@ -107,7 +106,7 @@ only applies if total career loss is made out.
 ### 3.3 What reaches you
 
 - **Settlement.** After risk on liability (*Koehler*), causation and apportionment, a realistic
-  negotiated band is **about $250–500k gross**, centred near Scenario B at a litigation discount.
+  negotiated band is **about $250–480k gross**, centred near Scenario B at a litigation discount.
   The 31 Jul memo's $300–650k used a higher full-time figure. This band replaces it.
 - **Legal costs.** On no-win-no-fee, Queensland's 50/50 rule (*Legal Profession Act 2007* s 347)
   caps solicitor–client legal fees at 50% of what you receive after refunds. In practice the deduction
@@ -172,7 +171,7 @@ and re-coding.
 | Track | Realistic | If run to strength |
 |---|---|---|
 | A. Statutory WC (appeal allowed) | $55–150k (offsets the ART debt) | — |
-| B. Common law (instead of a lump sum) | $250–500k settlement | $660k net (Scenario C); Robinson ceiling >$1M |
+| B. Common law (instead of a lump sum) | $250–480k settlement | $633k net (Scenario C); Robinson ceiling >$1M |
 | C. Lockout wages and leave | ~$18.6k to date, plus ~$1.7k a week, plus LSL ~$15.2k and re-credit | growing |
 | D–F. Torts and statutory | $50–150k combined after overlaps | higher with exemplary damages or a dismissal |
 | **Global (after overlaps and offsets)** | **~$350–750k** | **~$1M+** only if career loss is proved |
@@ -182,7 +181,7 @@ and re-coding.
 ## 7. What moves the numbers, in order
 
 1. **The psychiatric report.** Can you return to full time? Is the injury the cause? What is the
-   prognosis? This swings Track B between $200k and $660k+.
+   prognosis? This swings Track B between $190k and $630k+.
 2. **Acceptance** (the conference or the hearing). This opens Tracks A and B and starts Schedule 5.
 3. **A PI solicitor before any Notice of Assessment.** The election decides whether Track B
    survives.
