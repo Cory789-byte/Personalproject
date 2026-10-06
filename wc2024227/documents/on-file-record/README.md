@@ -29,7 +29,7 @@ Where a draft elsewhere in the repo differs, the copy listed here governs.
 | As sent | Corrected wording | Why it matters |
 |---|---|---|
 | Database access "removed and not restored" | "no restoration alleged" | The admission is about what the SOFC alleges, not a finding that access was never restored |
-| 1(i): "corrupt conduct complaint regarding clinical risks … (Admitted Fact: Form 24, para 20 …)" | "complaint. On 24 December 2024 the ESU determined that it … (paragraph 20 of the Appellant's first notice to admit facts …)" | As sent, it states the complaint's subject matter. Keep it at chronology only; never expand it orally |
+| 1(i): "corrupt conduct complaint regarding clinical risks … (Admitted Fact: Form 24, para 20 …)" | "complaint. On 24 December 2024 the ESU determined that it …" | **Not an error:** the as-sent words are the earlier pleading's Stressor 1(e), admitted in full (index/FULLTEXT.txt l. 6645). The correction only tightened the citation. Keep it at chronology only |
 | Emergency codes "paged … within the time the procedure allows" | "The position distributes emergency notifications … by type of emergency" | The timing standard is not admitted |
 | 18 March: "three" MET calls; "first shift of the working week" | "two"; "Monday" | Factual and count correction (facts 228–231 not admitted in any event) |
 | 8-hour agreement "never reviewed" | "not alleged to have been reviewed before 18 March 2024" | Same: what is pleaded, not a finding |
