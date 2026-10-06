@@ -47,3 +47,8 @@ Diff: 185 word-level changes, nearly all of them pinpoints, quotations and wordi
 - **Veracity confirmed:** Tabs 6, 20 (CE letter, 5 June 2026), 30, 30A.
 - **Still disputed; requested from MSH:** Tabs 1, 5, 17–19, 21, 22, 23, 31.
 - **Not addressed:** Tab 24 (no request was made for it; see the 9 Sep request).
+
+## Decision (Cory, 6 Oct 2026): leave the as-sent 9A as is
+- The corrected copy is **not** to be sent before the leave decision.
+- Once leave is granted, file the corrected version with this line: "paragraph references and quotations corrected; substance unchanged".
+- Before any hearing, "addressed to … Dr Wong" must read "copied to Dr Wong".
