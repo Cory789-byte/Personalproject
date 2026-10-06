@@ -16,7 +16,7 @@ from reportlab.platypus import (BaseDocTemplate, PageTemplate, Frame, Paragraph,
 
 SRC = "../documents/disclosure-2026-06_MSH_production"
 OUT_DIR = "out/TAB32"
-OUT = f"{OUT_DIR}/WC2024227_Tab32_MSH_enclosures_Items6_and_13.pdf"
+OUT = f"{OUT_DIR}/WC2024227_Tab32_MSH_enclosures_ManagerRole_and_Delegation.pdf"
 
 PARTS = [
     ("32A", "Role Description, Manager Switchboard Services, Logan Hospital (AO4), "
@@ -27,11 +27,6 @@ PARTS = [
             "Enclosed under Item 13. (The same instrument is at Tab 29, admitted 8 September 2026.)",
      "signed 23 Nov 2022; effective 5 Dec 2022",
      "item 13 delegation-hr-covid-directive-special-and-pandemic-leave-51222.pdf"),
-    ("32C", "Directive 01/20, Employment Arrangements in the Event of a Health Pandemic. "
-            "Enclosed under Item 13",
-     "effective 16 Mar 2020", "item 13 Pandemic Directive 01 20.pdf"),
-    ("32D", "Implementation Guideline - Directive 01/20, Version 2. Enclosed under Item 13",
-     "14 Apr 2020", "item 13 directive-01-20-implementation-guide-v2.pdf"),
 ]
 
 H1 = ParagraphStyle('H1', fontName='Helvetica-Bold', fontSize=12.5, leading=16, spaceAfter=3)
@@ -63,8 +58,8 @@ def index_pdf():
             "Tab 20, confirmed by the Respondent on 24 September 2026), Metro South Hospital and "
             "Health Service enclosed the documents below in response to the notice of non-party "
             "disclosure: under Item 6, \"the attached Role Description for Manager of Switchboard "
-            "Services\"; and under Item 13, the HR delegation signed 23 November 2022, Directive 01/20 "
-            "and the Implementation Guideline dated 14 April 2020.", B),
+            "Services\"; and under Item 13, the HR delegation for Paid Special Pandemic Leave signed "
+            "23 November 2022.", B),
           Spacer(1, 2*mm), t, Spacer(1, 4*mm),
           P("Each document is reproduced as produced by Metro South Health. No document has been "
             "annotated, highlighted or altered, other than identification headers and page numbers.", B)]
