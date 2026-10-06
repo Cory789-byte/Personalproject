@@ -79,3 +79,46 @@
 - Database access was removed by Ms Stibbard's email (40), not Ms Taylor's. Put to Ms Taylor only the routing to her (43–44) and what followed.
 - Tab 1's authenticity is outstanding, but its contents are admitted (facts 1–13). The AO3 line "Ability to communicate at all levels… to maintain accurate and current records" is in Tab 1 but is **not** one of the admitted facts, so don't cite it as admitted.
 - Tab 32A is pending the Tab 32 request. Establish the version (V1.0 2020/21) with her first.
+
+---
+
+# PART 3: Every admission that runs against her role, grouped by duty (⟂ = held for cross-examination only)
+
+**Communication: "two-way dialogue", "provides people with context" (CAP); lead the team (KR)**
+- She removed pages from the Communication Book on or around 6 Jun 2023 (143, 288).
+- Her 9:57 am email to the whole team: "This is not used to simply put your point across or make any indirect comments towards the team" (148–149).
+- ⟂ Her 4:05 pm email to Reese: "I was not aware of who put this entry in… I took it out last week as it was clearly an indirect dig at the team…" (146); "used as a 'burn book' more than a professional tool" (147).
+- The Respondent cannot say what was removed: it doesn't identify the entry or its author (150); no copy is alleged to exist (151; 288, "does not have a copy of the page"); the book isn't listed (154).
+- ⟂ Her own words: "I did raise my voice…" (292).
+- Changes "effective from today" (51); no ballot alleged (181).
+- Hours not stated from Aug 2023 (73) until 17 May 2024 (81–84), two days after he asked (74).
+
+**Lead the team / presence (KR purpose; CAP "reliability"), mostly ⟂**
+- Hours "would range from starting between 6-9am and finishing 2-5pm" (72); "I will not be in the office until around 11am" (83).
+- 18 Jun 2024: "I am sorry I haven't been there for you all over the past week" (85–86).
+
+**Rostering and leave management (KR)**
+- 7-hour break (284), against a minimum of 10, or 8 by agreement (285); no swap alleged (234); "human error" (226).
+- "a few rostering errors made by Chloe with regards to Cory's line" (220); the Aug 2023 error (287), with her apology for "an oversight" (156); the April 2024 line error (211–212).
+- Fatigue payment refused relying on the 2020 agreement (247), against HR's "only applied where staff initiated shift swaps" (225, ⟂ compared with the outlines).
+- Review Unit: the rostering was unreasonable management action (260).
+- Leave: not alleged to be a Band 9 delegate (129); her request that he submit via myHR (132); attachments present (134); who exercised the power is not identified (131).
+
+**Training / OHS (KR)**
+- No fatigue assessment, training or implementation before 30 Jun 2024 (269–271, 264).
+- Risk matrix applied only on 10 May 2024: "moderate" (219).
+
+**Emergency code groups (KR)**
+- Nine MASPER occasions (57–61), including "switchboard could not tell them where VHUB was" (58), all under her 15 April arrangement (68).
+- 5 d 18 h 14 m to her first reply (64). ⟂ The content of the 9:20 and 10:15 emails (65–67).
+- A critical function for patient safety (289).
+
+**Technical assistance to operators (KR)**
+- Corrections routed to her and Stibbard; after hours, "wait until either Chloe or myself are back" (43–44).
+- IRS requests (89); no response alleged (93); not amended (109); not notified (110).
+
+**Follows up and keeps people informed; works within timeframes (CAP)**
+- Fatigue enquiry: 23 days (249), with no response alleged from 9 Apr to 1 May (250).
+- Pay: direction of 3 May (183, 190); "nothing corrected" on 13 May (193); "still… waiting" on 21 May (195); AVAC on 28 May (196–197); "Part Completed" (203).
+
+**What helps her (be ready):** she escalated to HR (244) and sought delegate approval (197); she apologised for an "oversight" (156); "a procedure in place" (290–291).
