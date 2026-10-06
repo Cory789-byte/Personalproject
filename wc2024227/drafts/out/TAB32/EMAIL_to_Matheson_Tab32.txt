@@ -1,0 +1,25 @@
+To:      Renee.Matheson@oir.qld.gov.au
+Subject: WC/2024/227 - Shepherd v Workers' Compensation Regulator - Request: Role Description for Manager of Switchboard Services (Tab 32)
+
+Attach (from drafts/out/TAB32/):
+  1. WC2024227_Letter_to_Regulator_Tab32_Manager_Role_Description.pdf   (1 page)
+  2. WC2024227_Tab32_MSH_enclosures_ManagerRole_and_Delegation.pdf       (8 pages)
+
+Before sending: the letter's date reads "[  ] October 2026". Rebuild with the date:
+  cd wc2024227/drafts && python3 build_letter_regulator_tab32.py "7 October 2026" "Friday 16 October 2026"
+
+----- body -----
+
+Dear Ms Matheson,
+
+WC/2024/227 - Cory Lea Shepherd v Workers' Compensation Regulator
+
+Please find attached a letter of today's date with Tab 32.
+
+Tab 32 reproduces two documents Metro South Health enclosed with its letter of 5 June 2026 to Commissioner Dwyer (K-LM26/729, Tab 20): the Role Description for Manager of Switchboard Services (Item 6) at Tab 32A, and the pandemic leave delegation (Item 13) at Tab 32B. Tab 32B is the instrument already admitted at Tab 29.
+
+The letter asks whether the Respondent will admit that Tab 32A is a true copy of the document Metro South Health enclosed, so that it may be tendered without further proof, by Friday 16 October 2026 or before the conference if it is listed earlier.
+
+Kind regards,
+Cory Lea Shepherd
+Appellant (self-represented)
