@@ -50,3 +50,32 @@
 ## Before relying on any of this
 - Establish the version first: Tab 32A is V1.0 (2020/21). She acted in the role from about April 2023 to 1 July 2024.
 - Put the duty, then the fact, then "what did you do?". Never ask why, and never suggest a motive.
+
+---
+
+# PART 2: The operator's role (Tab 1, AO3) against the manager's role (Tab 32A), and what was isolated
+
+**The link:** the AO3 role "reports to the Switchboard Manager" (fact 3), and names the contact as "Chloe Taylor" (fact 4). She signed the 15 April directive as "A/Switchboard Manager" (53). So the Tab 32A duties are the duties she held towards the operators, including the Appellant.
+
+**The pattern, stated as chronology only:** the operator role carries a responsibility (Tab 1, admitted at facts 1–13). The means to carry it out were moved to the managers (admitted). The manager role carries the matching duty (Tab 32A). The admitted facts then record what followed.
+
+| # | Operator's duty (Tab 1, admitted) | What was moved or isolated (admitted) | Manager's matching duty (Tab 32A) | What followed (admitted) | 9A |
+|---|---|---|---|---|---|
+| 1 | "Collate information and maintain Omnivista database and SharePoint to ensure information held within Switchboard Services is accurate and appropriate" (6) | From 18 Jul 2023, operator access removed (40, 48); changes to Ms Stibbard (42), who worked "every Tuesday and second Monday" (41), or to Ms Taylor if urgent (43); after hours "have to wait until either Chloe or myself are back" (44); the Contact & Number Changes book removed from the room (45); no restoration alleged (55) | "Manage the Switchboard… provide technical assistance to switchboard operators to maintain services…" (KR) | IRS asked for the directory to be amended (89); no response alleged before 2:05 pm on 20 May (93); not alleged amended by 20 May (109), nor staff notified of changes (110). The function is admitted as critical to clinical handover and patient safety (289) | 1(b), 1(k) |
+| 2 | "Participate in the Emergency Response process… distributing them to the appropriate response groups… as per emergency code procedures, strictly adhering to protocols and timeframes" (8) | After-hours escalation moved to the two managers: "Ellen and myself have added Afterhours on call" (52), "effective from today" (51); in office hours, "contact myself through switch/office or mobile" (50, 163) | "Monitor and audit all emergency code groups and responses and provide regular reports to relevant committees on outcomes." (KR) | MASPER logged nine occasions on 2–8 May (57, 59–61): "switchboard could not tell them where VHUB was" (58); calls "incorrectly put through to MASPER" (61); all under the 15 April arrangement (68); first reply after 5 d 18 h 14 m (64); ⟂ the contents of the 9:20 and 10:15 emails (65–67) are held. MSH holds the MET record for 17–18 Mar (268); register entries 228–231 not admitted | 1(h), 3(b) |
+| 3 | "Continuous shift work over the full 24-hour period, 7 days a week" (2, 13); "Follow… occupational health and safety policies… to ensure… safe services and workplaces" (12) | Rostering, fatigue governance and the fatigue enquiry all sat with management: the enquiry escalated by her to HR (244), then refused after 23 days relying on the 2020 agreement (247, 249) | "Develop and monitor systems for rostering and leave management"; "Coordinate staff training…"; the same OHS duty (KR) | 7-hour break (284) below 10, or 8 by agreement (285); no swap (234); "human error" (226); repeated errors on his line (220, 287, 211–212); no fatigue assessment, training or implementation before 30 Jun 2024 (269–271, 264); HR: the agreement "only applied where staff initiated shift swaps" (225); Review Unit: unreasonable management action (260) | 3(b)–(f) |
+| 4 | "Maintain discretion and exercise judgement… where precedence have not been set and procedures not defined" (9); "work effectively… with limited supervision" (11) | The contact point for the operator was the manager, whose fixed hours were not stated from Aug 2023 (71–73) until 17 May 2024 (81–82); on 14 May: "follow the correct process and speak to me directly" (162) | Purpose: "co-ordinate, manage and lead a team…" (KR); "encouraging two-way dialogue" (CAP) | Not alleged that he was told before 14 May that phoning the Switchboard did not comply (166), when both of her emails named the Switchboard as a way to reach her (163–165); 19 April new data-entry process (54); no ballot alleged before 15 April (181) | 1(d), 1(f), 1(g), 1(j) |
+| 5 | (Pay) the operator is paid on what the manager records and submits | Correction route ran through the manager: Payroll on 3 May, "Please submit an AVAC" to her (183, 190); on 13 May Payroll told him "speak to your Line Manager" (193) | "rostering and leave management" (KR); "Follows up… keeps people informed" (CAP) | "still… waiting" on 21 May (195); AVAC sent 28 May (196–197); "Part Completed" (203) | 2(h)–(m) |
+| 6 | "Maintain call queues to minimum at all times" (5); "multitask and operate under pressure, particularly where high volume call traffic is concerned" (10) | — | "Time manage and prioritize work loads…" (KR) | Call volumes are the Appellant's evidence, not admitted. Use only as context | 3(b) context |
+
+**What the table shows (chronology, not motive):**
+- The operator was responsible for an accurate directory, correct emergency distribution and safe continuous shift work.
+- The means for each sat with the managers: corrections, after-hours escalation, rosters and fatigue, contact, and pay correction.
+- The manager's role description makes each of those means her duty.
+- The admitted facts record what followed: misdirected calls, an uncorrected directory, a 7-hour break, 23 days, and "Part Completed".
+
+**Wording rules:**
+- Say "held by" or "routed to"; never "withheld" or "taken away to".
+- Database access was removed by Ms Stibbard's email (40), not Ms Taylor's. Put to Ms Taylor only the routing to her (43–44) and what followed.
+- Tab 1's authenticity is outstanding, but its contents are admitted (facts 1–13). The AO3 line "Ability to communicate at all levels… to maintain accurate and current records" is in Tab 1 but is **not** one of the admitted facts, so don't cite it as admitted.
+- Tab 32A is pending the Tab 32 request. Establish the version (V1.0 2020/21) with her first.
