@@ -1,4 +1,13 @@
 # Ms Taylor's role description against her outline and the admitted record
+> ## ⚠ CORRECTED 6 Oct 2026 — read `2026-10-06_TAYLOR_ROLE_v_ADMITTED_FACTS_matrix.md` instead
+> Checked against the rendered role description. Three duties below were used **out of context**: they sit
+> under the **LTR (Local Telecommunications Representative) / telephony equipment** duties, not staff management:
+> - row 7 "Act as the central point of communication for staff and respond to queries" (LTR duties — telecom queries);
+> - row 8 "Develop and review procedures identifying business rules and policies…" (ends "…over the use telephone equipment");
+> - row 6 "Maintain an indepth knowledge of current systems, programs and databases…" (equipment tracking).
+> Rows 2, 9, 10 and 11 are **capability criteria** ("Are you the right person for the job?"), not key responsibilities.
+> Do not put rows 6–8 to Ms Taylor as staff-management duties.
+
 
 **INTERNAL. 25 Sep 2026.** Source: `documents/disclosure-2026-06_MSH_production/Item 6 Role description Switchboard manager as at 2021.pdf`
 (6 pp). "Manager Switchboard Services", RD 30478699, Permanent Full Time, **AO4**, Health Information Management
