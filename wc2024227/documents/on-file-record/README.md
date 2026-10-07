@@ -16,6 +16,7 @@ Where a draft elsewhere in the repo differs, the copy listed here governs.
 | 1 Oct 2026 | Letter to Registry with Schedule (9 pp) | Sent to Registry | `drafts/out/FILING_1OCT2026/FOR_SUBMISSION/WC2024227_2_Letter_to_Registry_with_Schedule_FOR_FILING.pdf` (1a448757a4793a9d) |
 | 1 Oct 2026, 4:45 pm | **Proposed Second Amended Form 9A — the AS-SENT version (30 pp)** | Sent to Registry | `drafts/out/FILING_1OCT2026/superseded/WC2024227_3_Proposed_9A_AS_SENT_1OCT2026_1645.pdf` (f846154db86c51d8) |
 
+| 1 Oct 2026, 4:46 pm | Matheson automatic reply: out of office up to and including Mon 5 Oct; urgent matters to the Appeals Team Leader (Ruth Jamieson). **So the 1–6 Oct gap was leave, not silence** | Received | `documents/sent-2026-10-01/2026-10-01_1645_SENT_Direction5_election_to_Registry_RECORD.md` |
 | 7 Oct 2026, 8:20 am | Tab 32 request (email): admit Tab 32A by 16 Oct, or before the conference | Sent | `drafts/out/TAB32/EMAIL_to_Matheson_Tab32.txt` + Tab 32 PDF |
 | 7 Oct 2026, 9:14 am | Matheson: receipt of the 7 Oct and 1 Oct emails; "looking over both emails and their contents"; response "as soon as possible, noting your requested timeframe of Friday 16 October"; following up MSH on the documents in issue | Received | `2026-10-07_0914_Matheson_ack_Tab32_and_1Oct_package.pdf` |
 
