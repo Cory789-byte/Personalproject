@@ -125,3 +125,25 @@ for s in ms:
         text = ' '.join(x for x in re.split(r'(?<=[.?!])\s+', text) if not x.strip().endswith('?'))
     segs.append({'spk': spk, 'start': s['start'], 'end': s['end'], 'text': text})
 analyse('MENTION: you and the Commissioner', turns(segs), 'MR SHEPHERD', 'DWYER IC')
+
+
+# ---- new-information uptake: of the terms a speaker uses for the first time in the recording,
+# how many does the other speaker take up in the very next turn?
+def new_term_uptake(name, T, A, B):
+    seen = set()
+    stats = {A: [], B: []}
+    for i in range(len(T) - 1):
+        cur, nxt = T[i], T[i + 1]
+        cw = words(cur['text'])
+        new = {w for w in cw if w not in seen}
+        seen |= set(cw)
+        if nxt['spk'] != cur['spk'] and nxt['spk'] in stats and cur['spk'] in (A, B) and new:
+            stats[nxt['spk']].append(len(new & set(words(nxt['text']))) / len(new))
+    for who, v in stats.items():
+        if len(v) >= 5:
+            print(f"  {name}: {who} took up {100*st.mean(v):.0f}% of the other's brand-new terms in the very next turn "
+                  f"(n={len(v)} turns; at least one taken up in {100*sum(x>0 for x in v)/len(v):.0f}%)")
+
+print('\n===== NEW-INFORMATION UPTAKE')
+new_term_uptake('COURT', T if False else [{'spk': t['who'], 'start': t['start'], 'end': t['start'] + t['dur'], 'text': t['text']} for t in ct], 'SHEPHERD', 'MAGISTRATE')
+new_term_uptake('MENTION', turns(segs), 'MR SHEPHERD', 'DWYER IC')

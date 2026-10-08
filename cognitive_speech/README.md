@@ -17,4 +17,5 @@ into the WC track). Descriptive speech measures only, from machine transcripts.
 - `listening.py` / `listening_output.txt`: follow v own-point measure (question-word uptake against a shuffled baseline), and lexical entrainment (whose terms the other adopted), court and mention.
 - `STRENGTHS_above_population_and_how_to_use.md`: graded list (A outside benchmark, B above the professionals in the room, C shown by outcome) with how to use each, best-fit roles, and the flip side of each strength.
 - `THE_MIND_full_examination_strengths.md`: full literature-based examination, strengths only (memory, reasoning, metacognition, language, conversation, stress physiology, social cognition, learning, systems building, character), with transcript evidence.
+- `LISTENING_AND_UNDERSTANDING.md`: listening and comprehension examined (following, purpose inference, premise detection, real-time updating, transfer, processing speed, prosody, grounding, vocabulary absorption, perspective-taking).
 - Court outputs live with the court audio analysis: `qps_court_audio/2026-02-02_BMC_trial_stood_down/data/court_metrics.json`, `court_deep.json` (script `scripts/court_metrics.py`).

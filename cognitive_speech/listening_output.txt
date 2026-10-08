@@ -16,3 +16,9 @@ MR SHEPHERD answering DWYER IC: n=53 | FOLLOW 17% (shuffled baseline 4%, x4.3) |
 DWYER IC answering MR SHEPHERD: n=88 | FOLLOW 7% (shuffled baseline 1%, x6.5) | OWN thread 22% | NEW 71% | answers using at least one of the question's words: 25%
   key terms MR SHEPHERD introduced: 23; adopted by DWYER IC: 15 (65%) e.g. point, understand, correspondence, filter, constructive, problem, access, specific, yep, colleague, days, make
   key terms DWYER IC introduced: 430; adopted by MR SHEPHERD: 86 (20%) e.g. email, manager, union, immediately, number, document, directive, discussion, need, complaint, sent, unassessed
+
+===== NEW-INFORMATION UPTAKE
+  COURT: SHEPHERD took up 3% of the other's brand-new terms in the very next turn (n=12 turns; at least one taken up in 17%)
+  COURT: MAGISTRATE took up 6% of the other's brand-new terms in the very next turn (n=14 turns; at least one taken up in 21%)
+  MENTION: MR SHEPHERD took up 6% of the other's brand-new terms in the very next turn (n=72 turns; at least one taken up in 11%)
+  MENTION: DWYER IC took up 9% of the other's brand-new terms in the very next turn (n=41 turns; at least one taken up in 15%)
