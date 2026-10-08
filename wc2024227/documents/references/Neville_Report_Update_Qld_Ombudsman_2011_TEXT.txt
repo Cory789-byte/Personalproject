@@ -1,0 +1,798 @@
+Title: The Neville report – update
+
+URL Source: https://www.ombudsman.qld.gov.au/ArticleDocuments/233/Neville_Update_Report_2011.pdf.aspx?Embed=Y
+
+Number of Pages: 30
+
+Markdown Content:
+# The Neville Report Update 
+
+# An update on the implementation of recommendations from an investigation into the adequacy of the health complaint mechanisms in Queensland, and other systemic issues identified as a result of the death of Elise Neville, aged 10 years. 
+
+# June 2011 
+
+# Report of the 
+
+# Queensland Ombudsman THE NEVILLE REPORT UPDATE 
+
+# JUNE 2011 © Queensland Ombudsman, 2011 
+
+Apart from any fair dealing for purposes related to the functions of the Ombudsman or the purpose of private study, research, criticism or review, as permitted under the Copyright Act, no part of this document may be reproduced by any process without permission. Inquiries should be made to the publishers, Queensland Ombudsman. 
+
+ISBN 978-0-9871476-0-8 
+
+Queensland Ombudsman 
+
+Level 17, 53 Albert Street 
+
+Brisbane Qld 4000 
+
+GPO Box 3314 
+
+Brisbane Qld 4001 
+
+Tel: (07) 3005 7000 
+
+Fax: (07) 3005 7067 
+
+Email:  ombudsman@ombudsman.qld.gov.au 
+
+Web:  www.ombudsman.qld.gov.au The Neville Report Update – June 2011 
+
+# Table of contents 
+
+Foreword ............................................................................................................................ ii 
+
+Chapter 1: Ombudsman recommendations – update ...................................................... 1
+
+1.1 Background ............................................................................................................................................. 1 
+
+1.2 Ombudsman recommendations ........................................................................................................... 1 
+
+Chapter 2: Coronial recommendations – update ........................................................... 11 
+
+2.1 Background ........................................................................................................................................... 11 
+
+2.2 Coroner‟s findings ................................................................................................................................. 11 The Neville Report Update – June 2011 
+
+iThe Neville Report Update – June 2011 
+
+ii 
+
+# Foreword 
+
+Mr David Bevan was Queensland Ombudsman from September 2001 to September 2010. He completed The Neville Report in June 2006. 
+
+I commenced duty as Queensland Ombudsman on 10 January 2011. 
+
+The Neville Report concerns the passing of Elise Neville, aged 10 years, in January 2002. Elise and her family were staying in rental accommodation at Caloundra on holiday. She fell from the top bunk of a bunk bed while sleeping early one morning. Her parents, Gerard and Lorraine Neville, took her to the Caloundra Hospital. She was discharged back into the care of her parents but her condition worsened. Later in the morning, an ambulance was called to their unit and Elise was transported by ambulance back to the hospital and then air lifted to the Royal Children‟s Hospital in Brisbane. Elise‟s neurological condition continued to worsen following surgery and on 9 January 2002 a decision was made to cease Elise‟s life support. 
+
+A coronial inquest was subsequently held over three days in April and June 2008. On 12 September 2008, Coroner Lock delivered his findings in respect of the inquest and made a number of recommendations to various state government agencies. Those findings and recommendations have been reproduced in this update. 
+
+Coroner Lock also recommended that The Neville Report be released and made public. The report had not previously been made public but it had been provided to the Office of the Queensland Coroner in accordance with s.57A(2) of the Ombudsman Act 2001 in order to assist the inquest. In his findings, Coroner Lock described the report as both a „significant and important‟ document. 
+
+This update records administrative changes that have occurred since 2008. 
+
+At my request, the Speaker of Parliament, the Honourable John Mickel MP, has authorised me to publish both The Neville Report and this update under s.54 of the Ombudsman Act. 
+
+Many of the issues that were raised by the former Ombudsman remain issues today, particularly the issue of working hours for doctors in the public health system. There have also been recent developments in relation to the ability of agencies to provide apologies and the development of a new Australian Standard relating to bunk beds in Queensland. 
+
+My hope is that the publication of both The Neville Report and this update will be a catalyst for the further discussion of how the systemic issues identified by the former Ombudsman are being addressed. I believe that it is in the public interest for these documents to now be made public and I agree with Coroner Lock‟s assessment that The Neville Report is a significant and important document for all agencies charged with delivering and regulating health services in Queensland. 
+
+Phil Clarke 
+
+Queensland Ombudsman The Neville Report Update – June 2011 
+
+1
+
+# Chapter 1: Ombudsman recommendations – update 
+
+1.1 Background 
+
+The former Ombudsman, Mr David Bevan, completed The Neville Report in June 2006. That report contained 25 recommendations. I will refer to these as Ombudsman recommendations. 
+
+Prior to the completion of The Neville Report , a draft was provided to the relevant agencies to allow them an opportunity to comment on the subject matter of the investigation. Relevant parts of the report were also provided to a number of individuals to allow them to provide comments. Responses were received from each of those agencies and persons and were incorporated in the final report that was completed in June 2006. This update does not re-publish those responses which can be found throughout the body of The Neville Report .
+
+The Neville Report was then provided to the Office of the State Coroner in June 2006 in accordance with s.57A of the Ombudsman Act 2001 for the coroner‟s use in relation to his functions and powers under the Coroners Act 2003 .
+
+A coronial inquest into Elise Neville‟s death was subsequently held over three days in April and June 2008. The findings of that inquest were delivered on 12 September 2008 and are reproduced in this update. Coroner Lock made a further 13 recommendations for assessment by the relevant agencies. I will refer to these as coronial recommendations. 
+
+Coroner Lock described The Neville Report in his findings as „a significant and important document‟. He recommended that it „be released and made public‟ in the public interest. The publication of The Neville Report and this update satisfy that recommendation. 
+
+This update sets out how the Ombudsman and coronial recommendations have been implemented since they were originally made. In cases where it is not necessary to update the original response from the agency concerned, the relevant recommendation has not been reproduced. 
+
+1.2 Ombudsman recommendations 
+
+The former Ombudsman made the following recommendations under s.50(1) of the Ombudsman Act: The Neville Report Update – June 2011 
+
+2
+
+Queensland Health (QH) 
+
+Recommendation 1 
+
+1.1 QH expedite the implementation of the national pilot program on open disclosure in Queensland‟s public hospitals. 
+
+1.2 In the meantime, QH develop policy options for redress for persons identified as having suffered a detriment owing to failings in the provision of health care, for example, the making of an apology or an ex gratia payment. 
+
+Update 
+
+2009 
+
+QH provided this update: 
+
+Open disclosure and incident management 
+
+Statewide implementation of the Open Disclosure Policy is continuing. Every Queensland Health District now has senior clinicians who have been trained to facilitate Open Disclosure with patients and their families after a severe adverse event. Additionally, the revised Ex-gratia policy has been implemented. 
+
+The first Learning to Action Report was published in 2007 based on 2005/2006 clinical incident data. The second Report was published in 2008 and the 2009 Report is currently in preparation. 
+
+The revised Clinical Incident Management Implementation Standard (CIMIS) has now been implemented, achieving alignment with recent amendments of the Health Services Act 1991 relating to Root Cause Analysis (RCA). 
+
+PRIME-CI (Clinical Incident information system) continues to grow in use, with an increase of 30% in the number of incidents reported using this system over the past financial year. 
+
+The "Reporting Concerns" portal for QH staff, which facilitates staff access to the most relevant, effective and responsive channel for their particular concern, has been deployed. Work has also commenced on providing a method for staff to report concerns where they have little privacy to do so in the workplace. 
+
+Approximately 9000 staff have received training in Human Error and Patient Safety (HEAPS), and an evaluation has shown that patient safety training is effective. 
+
+Recommendation 2 
+
+QH should follow its NSW counterpart and undertake to produce an annual public report on incident management in the Queensland public health system. The report should include an analysis of the causes (clinical and systemic) of health care incidents as revealed by Root Cause Analysis of sentinel and other adverse events. 
+
+Update 
+
+The QH response to Recommendation 1 is also relevant to this recommendation. The Neville Report Update – June 2011 
+
+3
+
+Recommendation 3 
+
+QH ensure that formal admission policies/guidelines exist in all public hospital emergency departments and that all ED staff are adequately trained in the application of these policies/guidelines prior to commencing duties in those departments. 
+
+Update 
+
+2009 
+
+QH provided this update: 
+
+Emergency Departments 
+
+Roll-out of the Interim Clinical Guidelines has been completed successfully. An evaluation shows that the guidelines have been embraced with ease by the majority of sites chosen for the roll-out. A copy of the final report and evaluation details from the project team is attached for your information (attachment 1). 
+
+Queensland Health is currently engaged in contract negotiations to procure a licence for Map of Medicine, an electronic knowledge resource developed in the United Kingdom with content based on current best practice evidence. It is anticipated that procurement will be finalised within the next four to eight weeks. Implementation and localisation of content will be ongoing and will commence following contract execution. 
+
+Queensland Health has also purchased a corporate licence for PEMsoft, a decision support software program, and its rollout is being conducted by the Library Services unit of the Department. The first stage has been rolled out, and the second stage will be completed by the end of April 2009. 
+
+In-service is being given to rural and remote facilities in Queensland by personal visits from facilitators. It has been noted that a large number of hospitals are running the program on large screens in their resuscitation rooms, although take up of the product into the rural sector is not yet total. Plans are being formulated to achieve this as soon as possible. 
+
+The availability of PEMsoft on Queensland Health PCs will be universal later this year when it is introduced as a web-based application on the Queensland Health Intranet, Queensland Health Electronic Publishing System. 
+
+The Primary Clinical Care Manual (PCCM) is included electronically on the PEMsoft CD, which is a major enhancement and will greatly assist paediatric (and other) acute care delivery in the rural sector. Written protocols for the management of an extensive range of emergency and nonemergency presentations are contained in the PCCM, including when care must be escalated to medical staff. The manual is currently being reviewed and an updated edition will be completed by June 2009. 
+
+The two day orientation program for junior doctors going on rural rotation, CruSE (clinical rural skills enhancement) is continually being evaluated and refined, and is now available at venues outside Brisbane. Importantly, the course is mandatory for international medical graduates before they undertake rural deployment. 
+
+Considerable work has also been done at the request of junior medical officers on developing a package known as the Junior Medical Officer's Orientation Manual. This is a site-specific CD containing all information about towns and facilities which rely on rural relievers. While not a direct response to the Ombudsman's recommendations, this initiative reinforces Queensland Health's efforts to make junior rural relievers comfortable and confident, and thereby improve safety. The Neville Report Update – June 2011 
+
+4
+
+The risk reduction strategy employed by the Rural Emergency Department Project team in the then Southern Area Health Service (standardisation of emergency departments and treatment areas with modern documentation and equipment) has been largely successful. The strategy was assessed through a series of clinical audits performed in March 2008 by the quality coordinators of each District using specially-developed audit tools and reporting formats. All 39 affected sites have now submitted audit reports, which are aimed at identifying the extent to which the standardisation of the patient journey has occurred as well as any outstanding issues to be addressed. 
+
+Ninety percent of affected sites now have standardised basic equipment, including an Oxylog 1000 or 2000 ventilator, Life Pak 12 monitor, resuscitation trolley, IStat machine and (in many but not all sites) a slit lamp. The remaining sites have equipment on order or are receiving equipment at a District level. 
+
+Triage procedures have been enhanced by inserting a "front-end" component to the documentation to capture those patients whose first contact with a rural health facility may be with a non-clinician. 
+
+Recommendation 4 
+
+QH determine, as quickly as possible, an interim standard on safe working hours for doctors in public hospitals for implementation by QH pending finalisation and implementation of any standard being developed by the MBQ. 
+
+Update 
+
+2009 
+
+QH provided this update: 
+
+Safe working hours for doctors 
+
+The Queensland Health Policy on Medical Fatigue Risk Management (attachment 2) took effect from 1 July 2008. This policy requires each health service district to develop, implement and maintain a fatigue risk management system to manage the risks of medical officer fatigue to as low as reasonably practicable. 
+
+The policy has been informed by work undertaken in 14 case study sites across Queensland Health as part of the Alert Doctors Strategy, and was developed following extensive consultation with medical staff, unions and the Australian Medical Association - Queensland. Funding of $1.6 million has been allocated to 30 June 2010 to ensure effective implementation of the policy. 
+
+In addition, the Medical Board of Queensland has released a draft standard on safe working hours for broad consultation and feedback. 
+
+A road show of information sessions was conducted throughout Queensland to introduce the Queensland Health Policy on Medical Fatigue Risk Management. This followed the third medical fatigue forum held on 17 and 18 April 2008 to support the development and implementation of strategies and practices that minimise the risks of fatigue to doctors and their patients. In addition, Local Fatigue Working Groups are being established in health service districts to assist in the implementation and ongoing monitoring of their fatigue risk management systems under this Policy. The Neville Report Update – June 2011 
+
+5                      
+
+> A corporate licence for a software modelling tool has been purchased and is now available to assist managers and clinicians to better understand the likely fatigue risks of various patterns of work. A Resource Pack to support implementation of a fatigue risk management system in Queensland Health facilities is currently being printed and will be distributed by May 2009. It has been developed by the University of South Australia's Centre for Sleep Research. Awareness and training packages for medical officers and line managers are also currently being developed and rolled out.
+> Workshops for senior Health Service Managers, Fatigue Risk Management Officers and Occupational Health and Safety Managers are being conducted between March 2009 and June 2009. Further, an online learning package for managers and doctors is in final draft form and is expected to be available from May 2009.
+> Additionally, $700,000 has been allocated from Queensland Health's Alert Doctor Strategy to improve the standard of on-call rooms for clinicians.
+
+Recommendation 5 
+
+QH progressively implement as quickly as possible, the management practices aimed at alleviating the ill-effects of excessive working hours, recommended in the AMA Safe Hours Campaign and Risk Management Strategies. 
+
+Update 
+
+The QH response to Recommendation 4 is also relevant to this recommendation. 
+
+Recommendation 6 
+
+QH adopt and implement (at least) the following aspects of the December 2001 policy document published by the ACEM: 
+
+ Written protocols regarding the treatment of the specific conditions listed in the ACEM policy be available in all QH EDs at all times. 
+
+ The protocols stipulate the kinds of medical condition when consultation must occur with a senior doctor. 
+
+ An audit be undertaken of the CKN accessibility and ease of use for clinicians in EDs. 
+
+ All junior medical staff employed in QH EDs be involved in an ongoing learning program in paediatric emergency medicine. 
+
+Update 
+
+The QH response to Recommendation 3 is also relevant to this recommendation. 
+
+Recommendation 7 
+
+QH expedite implementation of its revised Clinical Incident Management Policy and supporting Implementation Standard and ensure that appropriate training and support are available to all Health Service Districts. 
+
+Update 
+
+The QH response to Recommendation 1 is also relevant to this recommendation. The Neville Report Update – June 2011 
+
+6
+
+Recommendation 8 
+
+QH provide an apology to the Nevilles for its failure to provide an appropriate standard of care to Elise. 
+
+Update 
+
+QH provided an apology as recommended. 
+
+The issue of apologies generally was discussed by the former Ombudsman at 3.4.3 of The Neville Report under the heading „Denial of liability by QH‟. He said: 
+
+The Nevilles alleged that rather than conduct a proper investigation, QH adopted as its administrative response the legal position of the SCHSD which was to deny liability for the incident. The then Director-General 1 of QH has submitted that this allegation is incorrect. 
+
+QH is correct in saying that the Nevilles have never made a claim, such as a civil claim, that would require QH to formulate and state a definite position with respect to „liability‟, and that it has never issued a statement or indication that would amount to a denial of liability as its legal response. 
+
+The Nevilles‟ fundamental concern is QH‟s lack of an appropriate response to a critical incident. The Nevilles wanted open disclosure principles to be applied by QH in responding to Elise‟s incident and have interpreted QH‟s response as a denial of liability. The External Investigator formed the opinion that open disclosure was difficult because of the legal framework set up to protect QH from liability, and because no proper investigation was ever conducted by QH. 
+
+As noted above, the open disclosure process includes the making of an „apology‟ or „expression of regret‟ by the health service provider (as soon as possible following an adverse event) to the patient or their family, in addition to the disclosure of known facts surrounding the incident. 
+
+Health care professionals hold understandable concerns that an „apology‟ may not serve their best interests (or those of the hospital employing them), because: 
+
+it could be used against them by the patient as an „admission‟ against the interests of the health care professional, either as an admission of liability or admission of some other factual matter 
+
+it may imperil or compromise their entitlement to coverage from their insurers by constituting the kind of „admission‟ that is forbidden by the terms of their insurance cover. 
+
+Some medical insurers/Medical Defence Organisations (MDO) are supportive of open communication and apology in an appropriate case. 2 It seems that the real challenge lies in „finding the right words‟ that will not be legally construed as amounting to an „admission of liability‟. The proponents of open disclosure contend that, properly employed, it can often be instrumental in a decision by the aggrieved patient/carer not to pursue a civil action against the HSP. 
+
+In Queensland, there is currently some legislative protection from civil liability for an „expression of regret‟. Section 71 of the Civil Liability Act 2003 provides:   
+
+> 1Dr Buckland.
+> 2The December 2005 Newsletter published by the Medical Defence Organisation of South Australia Ltd openly encourages its insured members to provide an apology following an adverse incident. The Neville Report Update – June 2011
+
+7
+
+An „expression of regret‟ made by an individual in relation to an incident alleged to give rise to an action for damages is any oral or written statement expressing regret for the incident to the extent that it does not contain an admission on the part of the individual or someone else. [emphasis added] 
+
+Section 72 goes on to provide: 
+
+An „expression of regret‟ made by an individual in relation to an incident alleged to give rise to an action for damages at any time before a civil proceeding is started in a court in relation to the incident is not admissible in the proceeding. 
+
+In NSW, the Civil Liability Act 2002 provides that an apology made by, or on behalf of, a person in connection with any matter alleged to have been caused by the person does not constitute an express or implied admission of liability and is not admissible in any civil proceedings. 
+
+In my submission to the Bundaberg Hospital Commission of Inquiry (BHCI), I commented that the existing provisions of Queensland‟s Civil Liability Act were too limited in their application in that, unlike the NSW provisions, the Queensland provisions protect from admissibility in a civil proceeding an expression of regret only „to the extent that it does not contain an admission of liability on the part of the individual or someone else.‟ 
+
+Having regard to the findings of the External Investigator and the Health Practitioners Tribunal in disciplinary proceedings against the medical officer, I am of the opinion that ss.71 and 72 of the Civil Liability Act should be amended to correspond with the aforementioned NSW provisions. Such an amendment would, in the case of HSPs, encourage open disclosure in circumstances where a person has been affected by an adverse event. 
+
+I intend to raise this issue with the Director-General of the Department of Justice and Attorney-General. 
+
+The former Ombudsman raised the issue with the Director-General of the Department of Justice and Attorney-General as foreshadowed. 
+
+The Queensland Parliament recently passed the Integrity Reform (Miscellaneous Amendments) Act 2010 . Part 4 of this Act amended the Civil Liability Act 2003 by inserting new sections 72A to 72D, which permit agencies to apologise for their decisions without the apology being used as evidence in court proceedings. 
+
+Under the amendments, an apology includes an expression of sympathy, regret or compassion and may include an admission of fault. The previous position was that only expressions of regret without admissions of fault were protected under the Act. 
+
+Section 72D of the amended Civil Liability Act now states that an apology (regardless of whether it admits or implies fault) does not constitute an admission of fault or liability. Evidence of an apology will not be considered in relation to the determination of fault or liability in any matter and will not be admissible in civil proceedings. The Neville Report Update – June 2011 
+
+8
+
+Recommendations 9 and 10 
+
+9. A record should be created and attached to all copies of the Executive Director‟s report held by QH detailing the inaccuracies contained in the report. 
+
+10. QH should also forward a copy of the attachment to every agency known to have obtained a copy of the Executive Director‟s report, and request that the attachment be added to the report. 
+
+Update 
+
+The former Ombudsman made a number of comments about the Executive Director‟s report. Opinion 8 was that: 
+
+QH should have reviewed the Executive Director‟s report following the very serious allegations raised by the Nevilles about its accuracy and its failure to do so was unreasonable administrative action within the meaning of s.49(2)(b) of the Ombudsman Act. 
+
+QH undertook a review of the Executive Director‟s report in 2007, prior to the commencement of the coronial inquest. The Executive Director made submissions to the reviewer appointed to undertake that task. 
+
+In relation to the first matter which was identified by the former Ombudsman in The Neville Report as an inaccuracy (namely, the availability of the Head Injury Advice form), the Executive Director asserted that the issue was a matter of semantics. He stated that he did not find out why the head injury form was not given to Dr Neville. He says he remembered the medical officer saying he did not know where the forms were kept. The Executive Director said he gained the impression from interview that after looking for the forms but not readily finding them, the medical officer gave up believing that Dr Neville would know what to do. 
+
+Relevantly, in his findings, Coroner Lock said that: 
+
+12 It is also important to understand that many significant failings in the medical care provided to Elise that morning were directly responsible for her death. 
+
+13 Dr Neville was medically qualified but he had not practiced clinically for some time and worked for Queensland Health in the public health area. Whatever may have been his medical knowledge, the Neville family were entitled to receive and to rely upon medical advice and care as would any other member of the public. 
+
+203 Elise Neville fell out of a bunk bed which did not comply with an 8 year old Australian standard. The simple precaution of having a guard rail was absent. She then died because a doctor failed in his duty of care to her as his patient. There was a failure to properly assess her. She was not given the opportunity of being admitted for observation because of what was tantamount to a policy of non-admission of children for observation. Elise was not referred to other hospitals. She was sent home. There was a failure to diagnose the cause of her deteriorating neurological condition. This was the principal cause of her death. The Neville Report Update – June 2011 
+
+9
+
+Recommendation 12 
+
+QH finalise the implementation of its complaints management database as a matter of priority. 
+
+Update 
+
+2009 
+
+QH provided this update: 
+
+Complaints 
+
+The Statewide implementation of the consumer complaints management system PRIME-CF has continued, and is now being used in 14 of the 15 Health Service Districts. This enables districts to manage and analyse their complaints management. Statewide reporting and analysis of complaints data is currently being progressed, with the first report due in June 2009. 
+
+In addition, the Clinical Practice Improvement Centre has developed a Statewide complaints management training program for staff modelled on the Open Disclosure training methodology. The materials for the consumer complaints management training program have been completed, and delivery of training will commence following finalisation of the Queensland Health Clinical Governance Policy and associated Implementation Standards. 
+
+The review of the Consumer Complaints Management Policy and Implementation Standard has been finalised. The incorporation of consumer complaints management in the Clinical Governance policy is currently being considered, and therefore the publication of this documentation is awaiting the finalisation of this policy. 
+
+Finally, recruitment of complaints managers in all of the previous three Area Health Services was complete prior to the restructure of Queensland Health. The management of complaints is now processed at a district-level either through the Patient Liaison Officer or a similar position. 
+
+Recommendation 13 
+
+Steps be taken to improve coordination of data collection practices within QH to minimise duplication of effort. 
+
+Update 
+
+The QH response to Recommendation 12 is also relevant to this recommendation. 
+
+Recommendation 14 
+
+Feedback be given to all health districts at regular intervals (quarterly or six monthly) on the analysis of complaints and other health data for quality improvement purposes. 
+
+Update 
+
+The QH response to Recommendation 12 is also relevant to this recommendation. The Neville Report Update – June 2011 
+
+10 
+
+Recommendation 15 
+
+QH, in implementing any changes to its internal complaints management system in response to the recommendations made by the QHSR and the QPHCI, also have regard to: 
+
+ recommendations 12, 13 and 14 of this report; and 
+
+ my recommendations in Appendix 3 of this report. 
+
+Update 
+
+The QH response to Recommendation 12 is also relevant to this recommendation. The Neville Report Update – June 2011 
+
+11 
+
+# Chapter 2: Coronial recommendations – update 
+
+2.1 Background 
+
+An inquest into Elise Neville‟s death was held over three days in April and June 2008. On 12 September 2008, Coroner Lock delivered his findings in respect of the inquest. He made 13 recommendations to a number of agencies. The Queensland Government‟s response to those recommendations was initially published in August 2009 3 and updated again in 2010 4.Those responses appear after the recommendations where appropriate. Any comments that I have made appear under the heading „Update‟. 
+
+2.2 Coroner’s findings 
+
+The findings and recommendations were: 
+
+202. I am required to find, as far as is possible, who the deceased was, when and where she died, what caused the death and how she came by her death. I have already dealt with the last of these issues, being the circumstances of Elise‟s death. As a result of considering all of the material contained in the exhibits and the evidence given by the witnesses I am able to make the following findings in relation to the other aspects of the death. 
+
+(i) The identity of the deceased was Elise Susannah Neville 
+
+(ii) The place of death was Royal Children‟s Hospital, Brisbane, Queensland. 
+
+(iii) The date of death was 9 January 2002. 
+
+(iv) The formal cause of death was: 
+
+1(a) Head Injuries, due to, or as a consequence of 
+
+1(b) Fall from a bunk bed 
+
+203. Elise Neville fell out of a bunk bed which did not comply with an 8 year old Australian standard. The simple precaution of having a guard rail was absent. She then died because a doctor failed in his duty of care to her as his patient. There was a failure to properly assess her. She was not given the opportunity of being admitted for observation because of what was tantamount to a policy of non-admission of children for observation. Elise was not referred to other hospitals. She was sent home. There was a failure to diagnose the cause of her deteriorating neurological condition. This was the principal cause of her death. 
+
+204. When she presented the second time that morning at the Emergency Department of Caloundra Hospital there were then delays that occurred in providing necessary treatment for head injuries. This was compounded even further by delays in the retrieval process. It is clear that Elise was given very little chance of survival because of all of these factors and there were failures at many levels in the immediate medical care. 
+
+205. It did not end there. There was a deficient and flawed reporting of the adverse incident from the beginning, starting with the Executive Director‟s report. The nightmare for Elise‟s parents was compounded. There were delays in the investigation by a number of bodies. Their initial responses were found lacking in many respects. Eventually those investigations were completed and disciplinary proceedings took place against [the Medical Officer] and [RN1]. 
+
+206. [The Medical Officer] had been working a 24 hour shift and was into the 19 th hour of that shift when Elise first presented. The issue of whether this may have contributed to the flawed clinical decision was fairly raised and generally the issue of excessive hours   
+
+> 3State of Queensland (Department of Justice and Attorney-General) 2009 – The Queensland Government‟s response to coronial recommendations 2008
+> 4State of Queensland (Department of Justice and Attorney-General) 2011 – The Queensland Government‟s response to coronial recommendations 2009 The Neville Report Update – June 2011
+
+12 
+
+worked by doctors was investigated as it was considered an important public health and safety issue. 
+
+207. I have referred to the efforts of the Ombudsman at some length in my decision. The report is a significant and important document. It has provided me with enormous assistance. It has not been publicly released until the completion of the coronial proceedings and it should now be released. The Ombudsman should be commended for the efforts that were made in the production of that report. The Ombudsman formed a number of opinions and made 25 recommendations to the various authorities who were the subject of scrutiny. 
+
+208. As a result some significant progress and improvements have been made addressing many of the failures which occurred. Naturally there is always more that can be done. 
+
+209. Queensland now has a much more efficient and coordinated emergency retrieval system in place. There is a much better system of open disclosure, reporting and investigation of adverse hospital events. 
+
+210. Queensland Health has taken some significant steps towards addressing and managing the problems associated with doctor‟s working hours. More needs to be done. The Medical Board of Queensland accepted responsibility to develop a standard or other policy alternative on doctors‟ working hours. This would also regulate the private health and hospital system where similar problems are reported. It has not completed its work and should do so with priority. 
+
+211. The Office of Fair Trading has been involved in the issues regarding the regulation of the Australian Standard. Bunk beds without guard rails are inherently dangerous. They should be removed from use in domestic and commercial settings. 
+
+212. Although all beds manufactured and sold since November 2002 must comply with the standard, it is expected that there will be a considerable number of years before those non-compliant beds find their way to the scrap heap. The Office of Fair Trading needs to make a decision as to how it is going to manage this problem. Is it going to regulate and enforce the standard in the domestic and/or commercial sector, or is it going to manage the risks through public awareness and education campaigns? 
+
+213. I would have preferred the former, as I am sure would the Nevilles, but it is complex and needs to be worked through. The OFT responded to the Ombudsman‟s recommendations by setting up a working party, and commencing a Regulatory Impact Statement process. The problem is that after two years of deliberations there has not been any resolution, nor does it seem that one is imminent. 
+
+2.3 Coroner’s recommendations 
+
+Recommendation 1 
+
+214. I recommend to the Ombudsman that “The Neville Report, An investigation into the adequacy of the health complaint mechanisms in Queensland, and other systemic issues identified as a result of the death of Elise Neville, aged 10 years” be released and made public. 
+
+Update 
+
+At my request, the Speaker of Parliament, the Honourable John Mickel MP, has authorised me to publish The Neville Report and this update under s.54 of the Ombudsman Act 2001 .The Neville Report Update – June 2011 
+
+13 
+
+Queensland Health/retrieval issues 
+
+Recommendation 2 
+
+215. I recommend that Queensland Health conduct a review of the capacity of rural or remote hospital facilities or regions to perform emergency neurosurgical and vascular surgical procedures, and to identify what staff, training and technology would be required to allow such medical procedures to take place. 
+
+Response 
+
+Agreed and partially completed 
+
+Responsible agency: Queensland Health 
+
+The Queensland Emergency Medical System Coordination Centres in Brisbane and Townsville, tasking Queensland‟s retrieval teams, endeavour to retrieve sick and injured patients as rapidly and safely as possible, with the optimal clinical escort, to the most clinically appropriate health care facility. However this system does have finite resources and is impacted by influences beyond its control (weather, aircraft availability, concurrent conflicting tasks). Through the Queensland Trauma Plan, roll out of the Early Notification of Trauma Guidelines for both pre-hospital cases and inter-facility transfers continues. 
+
+Funding was provided to establish four major trauma services (treat and manage severe and multiple injuries), these are located at Royal Brisbane and Women‟s Hospital, Princess Alexandra Hospital, Townsville and the Royal Children‟s Hospital (as an interim paediatrics strategy whilst the new Queensland Children‟s Hospital is considered/finalised and is planned to be the final major paediatrics trauma service). 
+
+The establishment of these services commenced from approximately October 2008. Royal Brisbane and Women‟s Hospital, Princess Alexandra Hospital and Royal Children‟s Hospital are well progressed and for all intents and purposes are up and running as major trauma services. Townsville has commenced developing as a Major Trauma Service and does provide treatment and management of severely injured trauma patients but has some way to go before the full major trauma service is functioning. 
+
+A statewide trauma clinical network was endorsed by Queensland Health and commenced in mid to late 2007 and has responsibility for leading implementation of the trauma plan with the exception of the injury prevention components (a separate Injury Prevention Council has been established to lead this. There is cross membership of the network and prevention council to ensure synergy and collaboration). The network reports to the Chief Health Officer as its sponsor. 
+
+The network has a small secretariat, including an education officer. The network has endorsed a statewide trauma Education Strategy and has formed an education sub-committee. The Secretariat Education Officer and Network Education Sub-Committee will drive and lead implementation of the education strategy in consultation and collaboration with the four major trauma services who also have education officers (or someone equivalent) as well as education officers in the Queensland Coordination Centre. Officers and services work in collaboration to provide local and statewide education about the major trauma services and clinical coordination (e.g. educate about the trauma plan, service and resource available to clinicians, including clinical protocols). The Neville Report Update – June 2011 
+
+14 
+
+Processes are continually reviewed and improved as possible. It is anticipated that a Director for the Major Trauma Services will be appointed by end 2008. The Early Notification of Trauma Guidelines for both pre-hospital cases and inter-facility transfers have been submitted to the Patient Safety and Quality Executive Committee and endorsement will be finalised by July 2009. Following endorsement they will be submitted to the Minister for Health through the Chief Health Officer advising that they have been endorsed and accepted as best practice by the key clinical groups involved in trauma and will be adopted as policy and implemented. 
+
+The Trauma Clinical Network education strategy is the mechanism to implement the guidelines and education will be ongoing throughout 2009. In North Queensland the use of the Acute Neurotrauma Guidelines continues, with a view to expand the concept statewide with the support of the Statewide Trauma Clinical network. 
+
+Update 
+
+A State Medical Director, Retrieval Services Queensland, was subsequently appointed. Standard Operating Procedure (SOP) number 3.7 was released in February 2010. That policy sets out the criteria for early notification of trauma for inter-facility transfers. The policy is intended to ensure that Retrieval Services Queensland is able to respond in the most timely manner and with the appropriate resources to patients suffering trauma, requiring aeromedical transport to a higher level of care in Queensland. The policy is due for review in February 2012. 
+
+Recommendation 3 
+
+216. I recommend that the proposal presently with Queensland Health for funding for medical crewing of retrieval teams for aircraft be approved and implemented as soon as possible. 
+
+Response 
+
+Agreed and partially completed 
+
+Responsible agency: Queensland Health 
+
+The proposal is currently incorporated into a Short Form bid being facilitated and submitted via the Integrated Patient Transport Unit, under the Chief Health Officer. 
+
+If unsuccessful, another avenue for funding this service must be found. The Neville Report Update – June 2011 
+
+15 
+
+Recommendation 4 
+
+217. I recommend, if it has not already occurred, that the proposed delivery of the single pilot Instrument Flight Rules helicopter to the Sunshine Coast retrieval service proceed at the earliest opportunity. 
+
+Response 
+
+Agreed and completed with ongoing implications 
+
+Responsible agency: Queensland Health 
+
+There is currently no Queensland Health retrieval service on the Sunshine Coast. The current Community Helicopter Rescue Service, via its contract with Department of Community Safety, now has an Instrument Flight Rules aircraft, however they are lacking the medical infrastructure to provide medical escorts on this machine. 
+
+Recommendation 5 
+
+218. I recommend that the telemedicine project be brought on line across the state, and be adequately resourced in money and staff terms. I would expect that as part of any implementation program there would be a review of which Hospitals have perceived gaps in their treatment options so that they can be included. 
+
+Response 
+
+Agreed and completed with ongoing implications 
+
+Responsible agency: Queensland Health 
+
+There are currently 34 emergency departments in rural areas with videoconferencing (increasing to 42 by end of 2009) that have access to, and training in, the use of this link to the Queensland Emergency Medical System Coordination Centres in Townsville and Brisbane. Statewide there are currently more than 550 videoconferencing systems that are used for more than 4000 sessions a month including clinical and medical education activities. 
+
+Additional bandwidth resources for video traffic are required to increase videoconference usage and improve quality. Extension of business hours to support videoconferencing (i.e. bridges, gateways, etc) for clinical activities beyond 9:00am-5:00pm is also required. 
+
+Update 
+
+The Telehealth News Newsletter dated January – May 2011 advises that the Queensland Health Telehealth Strategy 2010-2013 was endorsed by IPPEC [a QH internal committee] and has been progressed for Ministerial approval. The vision of the strategy is to embed Telehealth into everyday services as an accepted and supported enabler of health care. The goal is to improve health service delivery for rural and regional communities. The Neville Report Update – June 2011 
+
+16 
+
+Recommendation 6 
+
+219 I recommend that the request for a half to one FTE senior medical officer for the Emergency Department at Caloundra Hospital be approved. 
+
+Response 
+
+Agreed and completed 
+
+Responsible agency: Queensland Health 
+
+Approval for this was given prior to this Recommendation and funding was allocated on 28 August 2008. A 0.5 full time equivalent Senior Medical Officer commenced on 1 October 2008. 
+
+Update 
+
+I am advised that resourcing of this position has been maintained since that date. 
+
+Recommendation 7 
+
+220. Although approval for the installation of a CT scanner has been given and is expected to be in place by August 2009 to be abundantly clear I recommend that a CT scanner be installed at Caloundra Hospital by August 2009. 
+
+Response 
+
+Agreed and partially completed 
+
+Responsible agency: Queensland Health 
+
+A Computed Tomography scanner has been obtained and currently in storage; it will be installed as soon as building works completed. 
+
+Construction of Computed Tomography Room scheduled to be completed July 2009. 
+
+Update 
+
+The following article appeared in the QH magazine, Southern Cluster Profile, in Issue 1-November 2009: 
+
+CT Scanner improves patient services at Caloundra Hospital 
+
+Caloundra Hospital patients requiring CT scanning can now have their tests carried out on-site, between 9am and 10pm seven days a week. Previously patients requiring a CT scan would be transferred to a private facility in Caloundra, or to Nambour Hospital during these hours. This will not only be safer for the patients and provide potentially better health outcomes, it will also save valuable medical and ambulance resources. 
+
+Caloundra Health Service has a data link with Nambour General Hospital, enabling images to be remotely viewed and reported on by radiologists at the larger hospital. 
+
+Trauma patients and those with undifferentiated abdominal pain would make up the majority of the cases. The CT scanner will also assist in managing medical and surgical patients. The equipment was transferred from the Royal Brisbane and Women‟s Hospital. Its relocation, installation and upgrading cost almost $200 000. 
+
+The project was part of the $29.6 million Caloundra Hospital redevelopment project. The Neville Report Update – June 2011 
+
+17 
+
+Queensland Medical Board issues 
+
+Recommendation 8 
+
+221. I recommend that the Medical Board of Queensland progress with some priority to the development of a Standard or other suitable policy alternative regarding the regulation of excessive working hours for doctors in the public and private hospitals sectors. 
+
+Response 
+
+Agreed and partially completed 
+
+Responsible agency: Medical Board of Queensland 
+
+Following receipt of feedback from stakeholders a further draft Guideline on Safe and Healthy Work Practices – Fatigue was considered by the Board at its meeting on 26 May 2009 where some minor amendments were made. The document is currently being prepared for publication. 
+
+Update 
+
+In May 2010, Queensland Health released a Medical Fatigue Risk Management Human Resources Policy. That Policy was first developed in August 2008 and revised again in January 2009. A new version of this policy, QH-POL-171:2011, Version No: 3, was approved on 13 May 2011, with an implementation date of 24 May 2011. Accordingly, there are now a number of related QH policies and other documents relevant to this issue: 
+
+ Clause 7.1 – 7.5 Medical Officers‟ (Queensland Health) Certified Agreement (no.2) 2009 (MOCA2) 
+
+ Clinical Incident Management Implementation Standard, Version 3.0 
+
+ Occupational Health and Safety Management System Work Practice Directive 
+
+ Integrated Risk Management Policy, 13355, Effective September 2008 
+
+The functions of the Medical Board of Queensland were fully subsumed by the Australian Health Practitioner Registration Authority (AHPRA) on 1 July 2010. As at the date of publication of this update, the guideline referred to in the response was not publicly available. 
+
+The issue of safe working hours for doctors continues to remain one that will require continued vigilance. The Neville Report Update – June 2011 
+
+18 
+
+Office of Fair Trading issues 
+
+Recommendation 9 
+
+222. I recommend that the warning label on bunk beds as provided by the Australian Standard be reviewed by the Office of Fair Trading and other relevant authorities as soon as possible with a consideration that if there is to be a label for bunk beds it should not be age specific or at the very least increasing the age categories for the warning to up to age 14. 
+
+Response 
+
+2009 
+
+This response was published in August 2009 in “The Queensland Government‟s response to coronial recommendations 2008”. 
+
+Under consideration by the Australian Standards Technical Committee for bunk beds. 
+
+Responsible agency: Department of Employment, Economic Development and Innovation (the Office of Fair Trading represents the Queensland Government on the Australian Standards Technical Committee). 
+
+The Standards Technical Committee responsible for bunk beds met in March 2009. There was considerable discussion about the age suitability of bunk beds. The outcome from the Committee‟s deliberations was that there was agreement for the age warning on bunk beds to state that bunk beds are not suitable for children younger than 12. 
+
+This change will appear in the next published version of the Australian Standard. It is expected that this will occur in late 2009 or early 2010. 
+
+The foreshadowed change did not eventuate. 
+
+2011 
+
+This response was published in May 2011 in the “Queensland Government‟s response to coronial recommendations 2010”. 
+
+Response and action 
+
+Agreed and partially completed 
+
+Responsible agency: Department of Employment, Economic Development and Innovation 
+
+This matter is under consideration by the Australian Standards Technical Committee for bunk beds. The committee last met on 7 and 8 December 2009. 
+
+The Standards Technical Committee responsible for bunk beds met in March 2009. The outcome was that there was agreement for the age warning on bunk beds to state that bunk beds are „not suitable for children under 12‟. 
+
+It was first thought this change would go through unopposed, however there has since been significant industry opposition to changing the age warning. This objection has mainly come from the camping and holiday camp industry who allege that such a requirement (even if it only remains a recommendation) would decimate their industry. Eighty of the 103 comments received in relation to the draft standard objected to the increase in the age warning. 
+
+The outcome from the committee meeting on 7-8 December 2009 was that the warning would be changed to: 
+
+„WARNING: TOP BUNKS AND ELEVATED BEDS ARE DANGEROUS AND ARE NOT RECOMMENDED FOR CHILDREN UNDER THE AGE OF 9’. The Neville Report Update – June 2011 
+
+19 
+
+There would also be a new requirement – the information leaflet to be provided with the bunk beds would be required to state: 
+
+‘WARNING: TOP BUNKS AND ELEVATED BEDS ARE DANGEROUS AND ARE NOT 
+
+RECOMMENDED FOR CHILDREN UNDER THE AGE OF 9 
+
+Children at the age of 11 and 12 years who sleep in elevated beds are estimated to have a three-times greater risk of hospital-treated injury than those who sleep in standard-height beds. This estimate increases to a seven-times greater risk for children aged 9 and 10 years, and a ten-times greater risk for children aged seven and eight years. Children younger than seven years are at even higher relative risk from elevated beds. A fall from an elevated bed onto a covered concrete floor can be fatal’. 
+
+It was also agreed that a Standards Australia handbook be published to provide guidance to the accommodation industry on providing safe bunk beds. The revised Australian Standard for bunk beds is expected to be published by the end of April 2010. 
+
+The Australian Standards handbook is currently being progressed by a Standards Australia working group. This work should be completed by August 2010. 
+
+Update 
+
+The Australian Standard was published in 2010. The age warning was for children under the age of nine. 
+
+Elise Neville was ten years old when she fell from the bunk bed. 
+
+The Nevilles remain dissatisfied that the Coroner‟s recommendation was not adopted and that the initial view of the Standards Technical Committee as at March 2009, and which was published in the whole-of-government response in August 2009, did not prevail in relation to the Australian Standard. The Nevilles contend that the published accident statistics demonstrate the heightened risk for children between the ages of 10 and 12 using bunk beds and that the March 2009 view of the committee should have been maintained. The Neville Report Update – June 2011 
+
+20 
+
+Recommendation 10 
+
+223. I recommend that the working party set up to consider the feasibility of establishing and promoting government funded programmes focussing on removing unsafe bunk beds from private residences proceed to completing its deliberations as soon as possible and the outcome be made public. 
+
+Response 
+
+Agreed and partially completed 
+
+Responsible agency: Department of Employment, Economic Development and Innovation 
+
+The working party has met once and identified a number of issues that would impact on the practicalities of a government program to remove unsafe bunk beds. 
+
+• There is no single agency charged with such a responsibility. 
+
+• The determination of an unacceptable safety level of individual bunk beds may be difficult. 
+
+• Personnel would have to be trained to assess what constitutes an unsafe bunk bed. The number of people to undertake the safety assessment could be significant. 
+
+• Many bunk beds have a limited use period and may be stored away sometimes for many years. Some consumers may see such a program as a „windfall‟ opportunity for bunk beds that are not currently in use. 
+
+• The logistics and funding required to collect and presumably destroy bunk beds could be significant and the costs to establish such a program could well exceed benefits. 
+
+• Bunk beds have a utility in homes where there are many children and small bedrooms. Therefore families may be disadvantaged by removing bunk beds unless the funding extends to a full replacement of a safer product. 
+
+• It is open to conjecture how successful such a program would be unless the funding extends to a full replacement of a safer product. 
+
+Further meetings of the working party will be held to settle on a way forward. This may involve an education campaign to raise the awareness of consumers and industry about the dangers associated with bunk beds. The working party will hold a meeting before 30 June 2009 to coincide approximately with the date of publication of the Regulatory Impact Statement. 
+
+Update 
+
+In June 2011, OFT provided the following advice:                       
+
+> This recommendation has been partially completed. The working party met to consider this recommendation and formed a view that a government funded program to remove bunk beds from consumer‟s homes was not afeasible option. The working party recommended acomprehensive awareness raising strategy would be a more productive approach.
+> Educating the marketplace about bunk bed safety is a „standing item‟ for the Office of Fair Trading and there have been anumber of initiatives over the last 18 months including publishing and distributing posters and brochures about bunk bed safety as well as updating web based information.
+> The issue of making the working party‟s decision public remains outstanding and will be addressed shortly. The Neville Report Update – June 2011
+
+21 
+
+Recommendation 11 
+
+224. I recommend that the OFT conduct awareness campaigns directed towards the domestic market concerning the standard for bunk beds and the risks and dangers associated with non-compliant beds particularly for children. 
+
+Response 
+
+Agreed and partially implemented 
+
+Responsible agency: Department of Employment, Economic Development and Innovation 
+
+A draft communications plan has been prepared. The key elements of the plan are to: 
+
+• educate users and prospective users of bunk beds as to the dangers bunk beds pose if they do not comply with the mandatory safety standards 
+
+• encourage current users of bunk beds to ensure that their bunk beds are hazard free and as safe as possible 
+
+• educate users and prospective users in how to quickly check a bunk bed to ensure it is safe for children to use 
+
+• ensure manufactures and retailers are aware of their responsibilities in regard to providing a safe product 
+
+• raise awareness of short term accommodation providers of bunk bed safety (both the government and private sector). 
+
+This component of the project is ongoing but regular activities are planned over a 12 month period commencing from November 2009 and will be reviewed after 12 months. 
+
+A Safe Holiday brochure has been published. This publication highlights the dangers of unsafe bunk beds in holiday accommodation (as well as some other hazards in holiday accommodation such as unsafe blind cords and the safe use of spa pools). This brochure will be made available to holiday rental centres, real estate agents, tourist information centres, regional Department of Employment, Economic Development and Innovation offices and from the Office of Fair Trading website. 
+
+Update 
+
+In June 2011, OFT provided the following advice:   
+
+> This recommendation has been completed. As per recommendation 10 bunk bed safety is an ongoing issue for the Office of Fair Trading and efforts to raise industry and consumer awareness of bunk bed safety are ongoing. The Neville Report Update – June 2011
+
+22 
+
+Recommendation 12 
+
+225. To the extent that it is necessary I recommend that all bunk beds used in Queensland Government agency owned, managed or funded establishments comply with the Australian Standard. 
+
+Response 
+
+Agreed and partially implemented 
+
+Responsible agency: Department of Employment, Economic Development and Innovation 
+
+The Minister for Tourism and Fair Trading will write to all potential government agencies that may have establishments with bunk beds recommending they meet key safety requirements of the Australian Standard. 
+
+A letter to respective government agencies has been prepared and is currently with the Minister for Tourism and Fair Trading for signature. 
+
+Update 
+
+In June 2011, OFT provided the following advice: 
+
+> This recommendation has been completed. The Office of Fair Trading has been informed that a number of government agencies have audited their accommodation facilities and have either replaced or modified their bunk beds to meet compliance with the Australian and New Zealand Standard.
+
+Recommendation 13 
+
+226. I recommend that the Regulatory Impact Statement process commenced in June 2006 be finalised with priority. 
+
+Response 
+
+Agreed and partially implemented 
+
+Responsible agency: Department of Employment, Economic Development and Innovation 
+
+The research required to develop a Regulatory Impact Statement and meet the requirements of a public benefit test has been commenced. 
+
+Dedicated resources have been allocated to progress the Regulatory Impact Statement in a timely manner. 
+
+There are a range of options to consider in the Regulatory Impact Statement. These include a regulatory approach such as introducing a mandatory standard on suppliers of short term rental accommodation to only provide bunk beds that comply with key safety requirements. Other non-regulatory options, which may be equally effective, could include concentrated education campaigns directed towards industry and consumers. 
+
+The first draft of the Regulatory Impact Statement was completed by 31 December 2008. The release of the Regulatory Impact Statement will be subject to Cabinet approval. The issue is due to be considered by Cabinet on 20 July 2009. The Neville Report Update – June 2011 
+
+23 
+
+Update 
+
+In June 2011, OFT provided the following advice: 
+
+This recommendation has been completed. The RIS was released for public consultation in late November 2009 [after Cabinet consideration]. 
+
+The previous Minister responsible for fair trading approved drafting instructions for the regulation and some work has been undertaken by the Office of the Parliamentary Counsel on drafting the regulation. You would be aware the recent Administrative Arrangements saw the responsibility for fair trading moved to the portfolio of the Attorney-General and Minister for Justice. Approvals are currently being sought from the new Minister to proceed with the drafting of the regulation for public consultation. 
+
+You should also note that it was agreed at the December 2009 meeting of the Australian Standards Technical Committee that a Standards Australia handbook be published to provide guidance to the short term rental accommodation industry on providing safe bunk beds. 
+
+The Office of Fair Trading contributed $7,000 for the development of the handbook which was published in February 2011. The Office of Fair Trading is currently preparing a mail out to the short term rental accommodation on the availability of the handbook. 
+
+As you can see bunk bed safety is priority issue for the Office of Fair Trading which will continue to undertake marketplace surveillance and awareness raising activities as part of the broader product safety program. I am of the view that in all material ways the Coroner‟s recommendations into the tragic death of Elise Neville have now been addressed. 
+
+As Ombudsman, I have no jurisdiction to question the merits of a decision, including a policy decision, made by a Minister or Cabinet and I have not done so in this update. 
+
+The RIS process commenced in June 2006. However, the actual RIS document was not released for public comment until November 2009. At the inquest, the Coroner was very critical of the delay that had been involved in relation to progressing the document and recommended that the RIS process that commenced in June 2006 „be finalised with priority‟. 
+
+The Nevilles remain of the view that this recommendation referred to the RIS process as a whole and point to the fact that OFT should not consider the development of the RIS document as the end of the matter. Their interpretation of the Coroner‟s recommendation was that the process, not just the RIS public consultation document, would be championed by an agency. They therefore disagree with OFT‟s comment that „in all material ways the Coroner‟s recommendations into the tragic death of Elise Neville have now been addressed‟. They point to the fact that, given the Coroner‟s critical comments throughout the inquest about a lack of progress, the significant work that remains to be done, namely the finalisation of the regulation for public consultation, is outstanding, some nine years after they initially raised their concerns. The Nevilles state that while an RIS has been released for public consultation, no further action has been taken to address the regulation of bunk beds in commercial settings.

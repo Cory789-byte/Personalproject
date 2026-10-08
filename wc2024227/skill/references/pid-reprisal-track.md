@@ -113,3 +113,66 @@ reasonable-excuse explanation), and stop treating "verify soon" as deferrable.**
   rule; s 9A late-notice/reasonable-excuse.
 - ESU PID Outcome Letter, 24-ESU-1130, 24 Dec 2024 (OneDrive `E5 PID Outcome Letter`).
 - Reprisal chronology: Amended 9A 1(f)/3; Form 24 Resp ¶21; Regulator SOFC ¶16 (Reese unaware).
+
+---
+
+## 7. UPDATE 4 OCT 2026: limitation re-checked against source, and a position read
+
+### 7.1 The statute, verified (ATT23, PID Act current at 30 Aug 2024; s 42 text unchanged in the 21 Feb 2025 reprint)
+- **s 42(1)–(2):** reprisal is a tort; any tort remedy, **including exemplary damages**.
+- **s 42(6), verbatim:** *"The Workers' Compensation and Rehabilitation Act 2003 does not apply to
+  proceedings for damages brought under this section."* So the **s 237 WCRA gateway does not
+  apply**. This claim does not need the appeal to be won first.
+- **s 40(5):** the PID need only be **"a substantial ground"**, even if there is another ground.
+- **s 43:** the employer and the employee are **jointly and severally liable**. The entity's
+  defence (proving it took reasonable steps to prevent the reprisal) is on **the entity**.
+- **s 45:** reasonable management action is not a reprisal, but **only if the manager's reasons do
+  not include the PID** (s 45(2)).
+- **s 48:** an **injunction from the QIRC** is available where the reprisal involves a breach of the
+  IR Act or an industrial instrument (it is an industrial cause).
+- ⛔ **s 50:** **no injunction** under ss 48–49 if an **AD Act complaint** is made about the
+  reprisal (the s 44 route). **Choosing the AD Act forum gives up the injunction.**
+- **The PID Act sets no limitation period of its own.**
+
+### 7.2 Limitation (Limitation of Actions Act 1974 (Qld))
+| Claim | Section | Runs from | Expires |
+|---|---|---|---|
+| Damages **including personal injury** (psychiatric), 2024 conduct | s 11: 3 years ("breach of duty", including a duty by statute) | 15 May 2024 (retraction), with injury onset 18 Jun 2024 | ⛔ **~15 May 2027 (conservative)**, to ~18 Jun 2027 |
+| Damages **without** personal injury (economic, exemplary), 2024 conduct | s 10(1)(a): 6 years (tort) | May 2024 | ~May 2030 |
+| 2026 lockout, as reprisal (if run) | s 11 / s 10 | 26 Jun–13 Jul 2026 | 2029 (injury) / 2032 |
+| PIPA Part 1 notice (if PIPA applies) | PIPA s 9: 9 months, or 1 month after first consulting a lawyer | — | probably passed; late notice needs a **reasonable excuse** |
+
+⇒ **Working hard date: 15 May 2027.** PIPA steps and the advice itself take months, so treat
+**early 2027** as the latest point to have a specialist engaged. ⚠ Whether s 11 or s 10 governs a
+s 42 claim that includes injury, and whether PIPA applies once the WCRA is disapplied, are for a
+specialist. Assume the shorter period.
+
+### 7.3 The Feb 2025 deed
+Per the deed deep dive §2: the release and the carve-out share the same subject matter, namely
+claims arising from **the Dismissal** (separation effective 20 Sep 2024).
+- **Pre-dismissal conduct (May–Sep 2024): not released.**
+- **Post-deed conduct (2026): not released.**
+- **The dismissal as reprisal:** non-injury loss is **released**; personal-injury loss arising from
+  it is **carved out**.
+- ⚠ Verify the cl 8 wording before reliance. Cl 12 confidentiality applies, so internal use only.
+
+### 7.4 Position, element by element (judgement, not advice)
+| Element | Strength | Why |
+|---|---|---|
+| (a) A PID was made | **Strong** | ESU determination 24 Dec 2024 (24-ESU-1130). Admitted fact (Form 24 ¶20) |
+| (b) Detriment | **Strong** | Retraction direction admitted (¶21). The email was removed from the inbox. Injury from 18 Jun 2024. The 2026 lockout and nil pay |
+| (c) "Because of" (substantial ground) for **15 May 2024** | **Weak to moderate** | ~48 hrs after the PID. But Reese says she was unaware, and her outline puts receipt of the complaint copy at **16 May 11:43**, *after* the 15 May 4:12/6:23 pm emails. Taylor's knowledge on 15 May is unknown |
+| (c) for **21 May 2024** (Reese's further retraction email) | **Moderate** | Comes **after** the 16 May receipt. ¶21: "all emails to be read as a whole". s 40(5) needs only *a* substantial ground. ⛔ **HELD for cross: PID/HR timing, Reese's corrected account** |
+| (c) for the **2026 lockout** | **Weak to moderate** | Institutional knowledge (CCC referral 22 Nov 2024; ESU outcome to HR). But a 2-year gap, and a medical/capacity explanation the defence will run under s 45. The G3 asymmetry helps |
+| s 45 reasonable management | Contested | An email to ~18 staff plus HR advice is a plausible ground. s 45(2) fails it only if the PID was among the reasons |
+| s 43 entity defence | Favourable | MSH must prove it took reasonable steps |
+| Remedy | Real | Compensatory overlaps Track B (no double recovery). **Exemplary damages are the distinct head** (~$20–100k). A QIRC injunction (s 48) is available while the reprisal is continuing |
+| Cost risk | ⚠ Significant | Ordinary District Court litigation: costs follow the event, and there is **no s 316-style cap**. Less appetite for no-win-no-fee |
+
+**Rough odds (judgement):** liability on the May 2024 conduct ~35–50%. On the 2026 lockout as a
+reprisal ~20–30%. The value is chiefly **settlement leverage plus exemplary damages**, best
+realised in a global deed after the WC settlement. It must stay **reserved in any WC deed**
+(rule 9).
+
+**Discipline unchanged:** never in WC/2024/227. No "fraud" or "corrupt" language outside this
+track. Held cross points stay held.

@@ -1,0 +1,774 @@
+INDUSTRIAL COURT OF QUEENSLAND
+CITATION: Workers’ Compensation Regulator v Langerak [2020]
+ICQ 002
+PARTIES: WORKERS’ COMPENSATION REGULATOR
+(appellant)
+v
+JADE LANGERAK
+(respondent)
+FILE NO: C/2019/8
+PROCEEDING: Appeal
+DELIVERED ON: 5 March 2020
+HEARING DATE: 17 June 2019
+MEMBER: Martin J, President
+ORDER/S: 1. Leave granted to amend grounds of appeal.
+2. The appeal is allowed.
+CATCHWORDS: WORKERS’ COMPENSATION – ENTITLEMENT TO
+COMPENSATION – EMPLOYMENT RELATED INJURY,
+DISABILITY OR DISEASE – ARISING IN THE COURSE
+OF EMPLOYMENT – “A MAJOR OR SIGNIFICANT
+CONTRIBUTING FACTOR” – PSYCHIATRIC
+CONDITION – INADEQUATE REASONS – where the
+respondent was transferred to a new location and role in the
+Queensland Police Service following a marriage breakdown –
+where the respondent incurred a psychiatric injury that had
+arisen in the course of her employment – whether the
+respondent’s employment was the major significant factor to
+the personal injury – whether the Commission erred in law by
+failing to provide adequate reasons – whether the Commission
+erred in law in its application of s 32(5) of the Workers’
+Compensation and Rehabilitation Act 2003
+Workers’ Compensation and Rehabilitation Act 2003, s 32
+CASES: Australian Broadcasting Tribunal v Bond (1990) 170 CLR
+321, cited
+Carlton v Blackwood [2017] ICQ 1, cited
+CS Energy Limited v Q-COMP [2008] ICQ 2, cited
+Davidson v Blackwood [2014] ICQ 8, cited
+Davis v Blackwood [2014] ICQ 9, cited
+
+2
+Gold Coast City Council v K Page Main Beach Pty Ltd
+[2011] QCA 332, cited
+Q-COMP v Hochen [2010] ICQ 10, cited
+Q-COMP v Rowe (2009) 191 QGIG 67, cited
+Queensland Independent Education Union of Employees v
+Local Government Association of Queensland Ltd [2015]
+ICQ 3, cited
+Saville v Q-COMP & the State of Queensland (acting
+through the Department of Corrective Services) [2007] ICQ
+28, cited
+Simon Blackwood (Workers’ Compensation Regulator) v
+Chapman [2016] ICQ 11, cited
+Simon Blackwood (Workers’ Compensation Regulator) v
+Mahaffey [2016] ICQ 10, cited
+Yousif v Workers’ Compensation Regulator [2017] ICQ 4,
+cited
+APPEARANCES: CJ Clark instructed by the Workers’ Compensation Regulator
+for the appellant
+DLK Atkinson QC instructed by Murphy Schmidt Solicitors
+for the respondent
+[1] In mid-2013, Ms Jade Langerak was employed as a general duties officer at Mt Isa Police
+Station. Her then-husband, also a police officer, was stationed at Camooweal. The
+respondent’s marriage broke down and, in August 2013, she left her marital home. She
+was subsequently transferred to a different location and a new role in the Queensland
+Police Service.
+[2] The principal question before the Commission was whether the respondent’s employment
+was the major significant contributing factor to a psychiatric injury she incurred in her
+new role. That question was posed against a backdrop of ongoing marital and financial
+difficulties that the respondent was experiencing in her personal life at the time of the
+injury.
+[3] The Commissioner found that the respondent’s employment was the major significant
+contributing factor to her injury and that the management action of the QPS was neither
+reasonable nor taken in a reasonable way in connection with her employment.
+Factual background
+[4] Following the breakdown of her marriage, the respondent requested a transfer from Mt
+Isa to Rockhampton. She was instead transferred to the Townsville Police
+Communication Centre (TPCC). The respondent commenced her role at the TPCC on 3
+January 2014.
+[5] On 17 March 2014, the respondent was diagnosed with severe major depression.
+
+3
+[6] On 15 April 2014, the respondent was admitted to the Toowong Private Hospital
+identifying non-employment related issues as causative of her condition. She remained
+there until her discharge on 27 May 2014.
+[7] On 10 June 2014, the respondent’s treating psychiatrist reported that her treatment had
+gone well and that her mental state was settled, such that she was able to return to the
+workplace. He confirmed that in his opinion she was medically fit to return to general
+duties policing but to return her to the TPCC “would be deleterious to her health and
+welfare”.
+[8] The respondent initially opposed a return to the TPCC, but an agreement was eventually
+made between her and the QPS that she would return there. The Commissioner found that
+the agreement was made in circumstances where the respondent held genuine concerns
+that to not return to the TPCC was likely to jeopardise her continued employment with
+the QPS.
+[9] On 6 August 2014, the respondent returned to work at the TPCC.
+[10] On 9 October 2014, the respondent was advised that she was to be sent for an independent
+medical examination on 4 November 2014 because of her lack of progress and because
+she had become suicidal.
+[11] Dr Gundabawady was engaged by the QPS to examine the respondent and he gave reports
+to the QPS on 11 November 2014 (the First Report), 1 December 2014 (the Second
+Report) and 18 March 2015 (the Third Report).
+[12] The respondent continued to have personal issues with her husband while attending work
+up until 19 November 2014, when her general practitioner issued a medical certificate
+stating that she was unfit for work. The respondent did not return to the TPCC following
+her departure on 20 November 2014.
+The case before the Commission
+[13] It was not in dispute that the respondent was a worker and had sustained an injury, namely
+an aggravation of her pre-existing major depressive disorder, for the purposes of the
+Workers’ Compensation and Rehabilitation Act 2003 (Act).
+[14] The respondent contended that she had sustained an injury caused by her return to work
+at the TPCC on 6 August 2014. She further contended that the Regulator had not
+established that that injury was caused by reasonable management action carried out in a
+reasonable way.
+[15] The primary submission of the Regulator was that it could not be shown that any
+employment factors reached the threshold of being the major significant contributing
+factor to the respondent’s psychiatric condition in November 2014. The Regulator
+submitted that the causes for that condition instead arose out of the long-standing, deeply
+distressing breakup of the respondent’s marriage.
+[16] The Regulator contended that if that any employment factors reached the threshold of a
+major significant contributing factor then the employer’s conduct could be fairly
+characterised as reasonable management action.
+
+4
+Grounds of appeal
+[17] This is an appeal of a decision concerning s 32 of the Act. At the relevant time, s 32
+provided:
+“(1) An injury is personal injury arising out of, or in the course of,
+employment if—
+(i) for an injury other than a psychiatric or psychological
+disorder—the employment is a significant contributing factor to
+the injury; or
+(ii) for a psychiatric or psychological disorder—the employment is
+the major significant contributing factor to the injury.
+…
+(5) Despite subsections (1) and (3), injury does not include a psychiatric
+or psychological disorder arising out of, or in the course of, any of the
+following circumstances—
+(a) reasonable management action taken in a reasonable way by the
+employer in connection with the worker’s employment;
+(b) the worker’s expectation or perception of reasonable
+management action being taken against the worker;
+(c) action by the Regulator or an insurer in connection with the
+worker’s application for compensation.
+Examples of actions that may be reasonable management actions taken in a
+reasonable way—
+ action taken to transfer, demote, discipline, redeploy, or dismiss the worker
+ a decision not to award or provide promotion, reclassification or transfer
+of, or leave of absence or benefit in connection with, the worker’s
+employment.”
+[18] The grounds of appeal are as follows:
+a. the Commission erred in law in finding that the respondent’s employment
+was the major significant contributing factor to the personal injury that had
+arisen in the course of her employment; and
+b. the Commission erred in law in failing to provide adequate reasons in respect
+of the Regulator’s submission that in light of the applicant’s prevailing
+ongoing personal issues, that any workplace factors had failed to reach the
+threshold of being “a major significant contributing factor” to the onset of
+any psychiatric condition.
+[19] In addition to those grounds, the appellant seeks leave to add a third ground which appears
+in its amended application to appeal:
+“That the Commission erred in law in its application of s 32(5) of the
+Workers’ Compensation and Rehabilitation Act 2003.”
+
+5
+[20] The respondent objects to leave being granted to amend the application to appeal. I will
+deal with that issue after first considering the other grounds of appeal.
+Ground 1
+[21] In paragraph [262] of his reasons,1 the Commissioner found that the personal injury
+sustained by the respondent arose out of or in the course of her employment with the QPS
+with employment being the major significant contributing factor to the injury.
+[22] The appellant draws attention to the following paragraphs of the decision which set out
+the Commissioner’s reasons for making that finding:
+“Was the employment the major significant contributing factor
+[251] In the IME undertaken by Dr Gundabawady on 4 November 2014,
+having reviewed documents provided by the QPS and a history obtained
+from Langerak he acknowledged there had been a past history of
+depressive symptoms on the background of work stressors and a
+previous work incident. At the time of the IME (4 November 2014) he
+diagnosed according to DSM-IV-TR Multi-axial classification system
+that:
+ Langerak had a Major Depressive Disorder, recurrent, current
+episode severe in partial remission. Anxiety disorder not otherwise
+specified; and
+ Psychosocial and Environment Problems:
+- difficulties in the workplace;
+- poor social support;
+- marriage breakdown; and
+- financial difficulties.
+[252] Dr Gundabawady further identified in the report that:
+ he agreed with Langerak that her current workplace had not been
+supportive and was not helping with her condition;
+ the difficulties at the TPCC had impacted on her depressive
+disorder;
+ the difficulties she had sustained in the workplace were due to her
+psychiatric and psychosocial stressors; and
+ remaining in her position at the TPCC would affect her recovery.
+[253] On the information contained in the IME Report (dated 11 November
+2014) which was contemporaneous in respect of her employment in
+November 2014, I am satisfied that Langerak’s employment was the
+major significant contributing factor to the personal injury that had
+arisen out of or in the course of her employment at the TPCC.
+1 Langerak v Workers’ Compensation Regulator [2019] QIRC 35.
+
+6
+[254] For reasons disclosed previously in this decision, I prefer the findings
+of Dr Gundabawady’s First Report rather than the Supplementary
+Report that was provided in circumstances that were not conducive to
+producing an equitable outcome.”
+[23] The appellant says that the Commissioner’s finding that the respondent’s employment
+was the major significant contributing factor to her personal injury is so marked by a
+number of errors that the collective effect of those errors amounts to an error of law. The
+errors identified by the appellant are as follows:
+(b) A fair reading of the report does not of itself record the primacy to the
+workplace factors which the Commission adopted.
+(c) In this regard “difficulties in the workplace” are noted along with three other
+separate non-work factors as impacting upon the claimant’s psychiatric
+health.
+(d) The Commission had earlier noted in its findings at paragraph [46], that Dr
+Gundabawady would attract “less weight”.2
+(e) Whilst the Regulator cannot take issue with the Commission’s finding in that
+regard, the reality is that that Second Report, rather than being accorded less
+weight, has been accorded no weight whatsoever.
+(f) That Second Report having noted that the First Report was predicated solely
+upon the claimant’s self-report accords much more weight to non-work
+personal factors in the claimant’s psychiatric history.
+(g) That First Report of Dr Gundabawady noted that at the time of his
+examination, the claimant’s depressive disorder was “in partial remission”.
+[24] The appellant contends that in “solely focussing” upon Dr Gundabawady’s First Report,
+the Commission arrived at a conclusion which the contents of that report do not fairly
+support. It is said that the Commission’s failure to consider Dr Gundabawady’s oral
+evidence on that same issue further compounds the error. The appellant contends that in
+the absence of these two errors, especially the latter, the Commission would likely have
+arrived at a different conclusion as to whether employment was the major significant
+contributing factor.
+[25] The appellant’s submissions appear to be that the Commissioner:
+(a) failed to consider certain evidence, and
+(b) gave certain evidence more or less weight than was appropriate.
+Did the Commissioner fail to consider certain evidence?
+[26] The Commissioner considered Dr Gundabawady’s evidence other than the First Report
+throughout his reasons.3 Specifically, the Commissioner outlined Dr Gundabawady’s oral
+2 This appears to be a reference to paragraph [246], wherein the Commissioner stated that the Second Report
+contained findings that would attract less weight in his considerations than the First Report. Paragraph [46]
+concerns a Facebook post made by the respondent.
+3 See, eg, Langerak v Workers’ Compensation Regulator [2019] QIRC 35 [106]-[114], [132], [180]-[182] and
+[241]-[247].
+
+7
+evidence at paragraphs [112] to [114] and [182]. The Commissioner notes, among other
+things, that:
+“[112] Under cross-examination the doctor evidenced that the primary object
+of 4 November 2014 was to decide whether Langerak was suitable to
+continue at the TPCC and the QPS generally.
+…
+[113] In the period between 19 June 2014, November 2014 and March 2015
+it was accepted by the witness that she had stressors outside of work
+some of which were documented in his first and third reports
+[Transcript p. 8-14]. In November 2014 and March 2015 those personal
+stressors were operative [Transcript p. 8-15]. Dr Gundabawady did not
+accept that clinically her workplace was the significant factor because
+all the stressors were not consistent or persistent [Transcript p. 8-16].
+His role had not been to access what was the major significant
+contributing factor but to focus on her condition and whether she was
+fit to return to work [Transcript p. 8-16].
+…
+[114] In re-examination he did not at the time of the first report consider
+Langerak needed time off. At the interview with Langerak on 17 March
+2015 she had not disclosed any history about an incident in late
+November 2014 regarding self-harm relating to her relationship
+difficulties.
+…
+[182] In the course of cross-examination Dr Gundabawady did not accept the
+position that Langerak’s “workplace was a significant factor” because
+‘all the stressors were not consistent. They all keep changing. In re-
+examination when taken to the Bundaberg Hospital record of
+Langerak’s attempted suicide he agreed the history was completely
+different to what he had been told by her in a subsequent consultation
+on 17 March 2015 in that it was a “serious incident that could have
+changed his opinion”.”
+[27] The Commissioner also described the findings of the Second Report as follows:
+“[110] The second report of 12 December 2014 was provided following a
+request for clarification by the QPS on the independent assessment and
+report provided on 11 November 2014. In response to a series of
+questions, Dr Gundabawady advised that:
+ his first report was based upon her self-report and reports by
+treating psychiatrists (Dr Matthews and Dr Kahn);
+ after reviewing additional documentation provided by the QPS
+outlining support mechanisms he opined that she had been given
+all available support at work;
+
+8
+ despite the adequate support demonstrated by the QPS Langerak
+continued to have significant stressors, no family/social support
+and financial difficulties; and
+ non work-related psychosocial factors were significantly
+contributing to her medical condition and decompensation.”
+[28] The Commissioner did not fail to consider Dr Gundabawady’s evidence.
+Did the Commissioner err in how much weight he attributed to certain evidence?
+[29] Provided that there is some factual basis for a finding, there can be no error of law on the
+“no evidence” ground.4 Here, the appellant appears to accept that there was evidence to
+support the Commissioner’s findings, but contends that the Commissioner erred in the
+weight he gave to the evidence supporting those findings.
+[30] The respondent says that in order to demonstrate an error of law, it is ordinarily
+insufficient for an appellant to argue that there was not “sufficient probative evidence”
+for a particular conclusion.
+[31] The respondent refers to Carlton v Blackwood,5 where the following is said:
+“… in this appeal, the appellant only argues that there was not ‘sufficient
+probative evidence’. If that is the case, then that will not be an error of law
+because the task for the appellant is to show an absence of evidence.
+Provided that there is some factual basis for the Commissioner’s finding,
+there can be no error of law on the ‘no evidence’ ground. If the
+Commissioner made a finding for which there was no evidence, that will be
+an appellable error if it is relevant to the case conducted before the
+Commissioner.”
+[32] Further, the misattribution of weight to certain evidence is an error of fact, not an error of
+law.6
+[33] Despite briefly adverting to seeking a grant of leave to appeal on ground of error of fact
+in its submissions, the appellant did not formally seek leave to do so nor submit any reason
+why such leave ought to be granted. Accordingly, a challenge to the weight attributed to
+Dr Gundabawady’s evidence is unavailable as a ground of appeal.
+[34] In any event, there is nothing objectionable about the approach adopted by the
+Commissioner. The Commissioner had before him three reports of Dr Gundabawady, and
+Dr Gundabawady’s oral evidence. The Commissioner refers to each of these sources of
+evidence in the decision.
+[35] The role of the Commission when receiving expert evidence was outlined in Davidson v
+Blackwood:7
+4 Australian Broadcasting Tribunal v Bond (1990) 170 CLR 321 at 356.
+5 [2017] ICQ 1 at [28].
+6 Gold Coast City Council v K Page Main Beach Pty Ltd [2011] QCA 332 at [25], [35].
+7 [2014] ICQ 8 at [17].
+
+9
+“In the present case, it was not for the expert witnesses called on behalf of
+either party to say whether or not the 2010 fall suffered during the
+appellant’s employment, was a “substantial contributing factor” to the
+injuries disclosed in the wake of the 2011 incident. As the Deputy President
+pointed out on a number of occasions, this was a matter for the tribunal of
+fact. It was for the tribunal of fact to determine, on the basis of the evidence
+put before the Commission, whether or not the appellant’s fall was a
+substantial contributing factor to his subsequent personal injury. It was for
+the expert witnesses to illuminate, to the extent of their knowledge and
+expertise, the cause (or causes) of the appellant’s back condition.”
+[36] That decision makes clear that it is for the Commission to consider an expert’s evidence
+and to determine how that evidence influences findings in respect of s 32 of the Act – it
+is not for an expert to decide.
+[37] The Commissioner provided clear reasons for his preference for the findings in Dr
+Gundabawady’s First Report as follows:
+“[245] Dr Gundabawady provided a Supplementary Report (dated 1 December
+2014) based upon a review of the additional information provided by
+the QPS without any further involvement of Langerak including not
+affording her the opportunity to respond to the additional material.
+…
+[246] It is evident that the Supplementary Report drastically altered the
+findings of the initial report by Dr Gundabawady and in my view the
+methodology relied upon by him in preparing the second of the reports
+was substantially unfair in the failure to apprise Langerak of the
+additional information and the opportunity to respond to such
+information. The Supplementary Report, in the circumstances, in my
+view contains findings that would attract less weight in my
+considerations than the First Report which had the appearance of being
+balanced in that Langerak and the QPS had equal opportunity to present
+material from their perspectives.”
+[38] Further, in paragraph [113] the Commissioner noted that three propositions were put to
+Dr Gundabawady which, he agreed, had he known them, would have been relevant to the
+preparation of the Second Report.
+[39] The Commissioner explained his preference for certain evidence. He then reached a
+conclusion that was open on the evidence. No error is demonstrated by proposing
+alternative conclusions that could have been reached on the evidence had the
+Commissioner attributed weight in a different way.
+[40] This ground fails.
+Ground 2
+[41] This ground is closely related to the first. The appellant says that inadequate reasons were
+given for rejecting its primary submission.
+
+10
+[42] Decisions of this court have clearly set out what is required of the Commission in order
+to satisfy the requirement that it provide adequate reasons in its decisions. In Queensland
+Independent Education Union of Employees v Local Government Association of
+Queensland Ltd,8 the following is said:
+“[15] The extent of the reasons which are required to be given will depend
+upon the circumstances and the context of the case. Generally, reasons
+should deal with the substantial points which have been raised,
+including findings on material questions of fact. The reasons should
+refer to any evidence or other material upon which those findings are
+based and provide an intelligible explanation of the process of
+reasoning that is led from the evidence to the findings and from the
+findings to the ultimate conclusion. Some explanations should be given
+if the evidence tendered or the submissions made by a party have been
+rejected. The reasons must set out the steps that were taken by the
+Tribunal to arrive at the decision. This allows the parties who have been
+unsuccessful to determine whether they have a basis for appeal.
+[16] It must be understood, though, that the principles set out above do not
+mean that reasons for decision have to be lengthy or elaborate. A
+distinction has always been drawn between courts and tribunals. Just as
+it is not necessary for a judge to make an express finding in respect of
+every fact leading to, or relevant to, his or her final conclusion of fact,
+it is not necessary that the judge reason, and be seen to reason, from one
+fact to the next along the chain of reasoning to that conclusion. The fact
+that reasons of the Commission might be brief is not necessarily a flaw.
+Courts conducting reviews or appeals from tribunals have been
+repeatedly enjoined by the High Court to avoid overly pernickety
+examination of the reasons. The focus of attention is on the substance
+of the decision and whether it has addressed the ‘real issue’ presented
+by the contest between the parties.”
+[43] The appellant says that if the Commission was minded to reject its primary submission,
+then reasons for that rejection should have appeared in the decision.
+[44] In paragraphs [248] and [249] of the decision, the Commissioner noted that:
+“[248] The evidence indicates that Langerak was still having personal issues
+with her husband although still turning up for work up until 19
+November 2014 when her general practitioner issued a medical
+certificate stating she was unfit for work.
+[249] In the period following the issuing of the medical certificate,
+specifically 25 November 2014, Langerak was admitted to the
+Bundaberg Hospital due to issues relating to suspected self-harm. It
+would appear that the genesis for this incident was related to personal
+issues and in any event it was beyond the date of her decompensation
+in the workplace and the issuing of the medical certificate on 19
+November 2014 that had rendered her unfit for duty.”
+8 [2015] ICQ 3.
+
+11
+[45] The appellant says that “it is simply not tenable to submit that these paragraphs in any
+way represent reasons for rejecting the Regulator’s primary submission.”
+[46] It must be borne in mind that the injury claimed for by the respondent was an aggravation
+of her pre-existing major depressive disorder caused by her return to work at the TPCC
+on 6 August 2014. The existence of that injury was accepted by the appellant. The precise
+date of the respondent’s decompensation is not clear from the Commissioner’s reasons or
+from the respondent’s statement of facts and contentions. The appellant referred in oral
+submissions to the respondent’s “ultimate” decompensation “on or about” 20 November
+2014, although the Commissioner’s focus appeared to be on 4 November 2014, the date
+at which Dr Gundabawady first assessed and diagnosed the respondent with “major
+depressive disorder, recurrent, current episode severe, in partial remission” and “anxiety
+disorder not otherwise specified”.
+[47] In either event, it was appropriate for the Commissioner to focus his inquiry on the
+evidence contemporaneous with the period of aggravation. As observed by Hall P in CS
+Energy Limited v Q-COMP:9
+“… A s. 32(3)(b) “injury” by way of “aggravation” is “an injury only to the
+extent of the effects of the aggravation”, s. 32(4). In a comparable legislative
+setting, it has been held by the Court of Appeal of New South Wales in
+Murray v Shillingsworth (2006) 68 NSWLR 451, that it follows that in
+working out whether the employment was “a substantial contributing
+factor” one has to focus upon the aggravation and not upon the underlying
+condition which should not be permitted to dilute the impact of the
+employment upon the aggravation. …”
+[48] The Commissioner referred to the Regulator’s contentions in respect of the cause of the
+respondent’s injury throughout the decision. Of note, the Commissioner observed that:
+“[183] The Regulator contended that the close connection in time between the
+aggregation of personal issues for Langerak in October/November 2014
+and her suicide attempt soon after cannot be ignored. It was also of
+question whether the failure to find alternate positions or the alleged
+failure to secure an IME had any bearing on the deterioration of her
+mental health.
+[184] The allegation made by Langerak in regards to the lack of training on
+her return to work on 6 August 2014 had not been made out and it was
+implausible to suggest that this factor had any bearing upon her mental
+health problems in late November 2014 in view of the presence of the
+grievous personal factors at that time.”
+[49] Further, the Commissioner did not fail to set out or consider the medical evidence relating
+to the respondent’s injury, including the respondent’s history of non-employment
+stressors.
+[50] Based on the evidence that was before the Commission, most notably Dr Gundabawady’s
+First Report, the Commissioner made a finding in respect of the Regulator’s primary
+submission. He explained why he preferred the evidence of the First Report and he
+9 [2008] ICQ 2; (2008) 188 QGIG 6.
+
+12
+referred to, among other things, the fact that in that report Dr Gundabawady had identified
+“the difficulties at the TPCC [which] had impacted on her depressive disorder” and
+“remaining in her position at the TPCC would affect her recovery”. The Commissioner’s
+finding followed a clear chain of reasoning and was open for him to make.
+[51] Adequate reasons for rejecting the Regulator’s primary submission were given by the
+Commissioner.
+[52] This ground fails.
+Ground 3
+[53] In its original application to appeal the respondent did not include any ground concerning
+the Commissioner’s application of s 32(5) of the Workers’ Compensation and
+Rehabilitation Act 2003.
+[54] The explanation given by the appellant came from the bar table. Counsel stated that in a
+busy professional period of his life he “didn’t advert to that ground as fully as what [he]
+should’ve.”
+[55] It is common ground that the respondent does not suffer any prejudice by the late
+amendment to the application to appeal. Nevertheless, the respondent contends that leave
+ought not to be granted to amend the application to appeal because:
+(a) the amendment is in a very bold, simple form and doesn’t set out the grounds
+of appeal;
+(b) one would expect that the Regulator would file an affidavit explaining why
+the notice didn’t include the ground at first instance;
+(c) the explanation provided by counsel in the appeal hearing is clearly
+unsatisfactory; and
+(d) a contention concerning s 32(5) of the Act was not raised by the Regulator at
+first instance, was not the subject of any focused cross-examination, and was
+not the subject of any submissions.
+[56] The last submission is without force as the appellant did, in its statement of facts and
+contentions and submissions before the Commission, contend that the respondent’s injury
+arose out of, or in the course of, management action which invoked s 32(5) of the Act.
+[57] In Saville v Q-COMP & the State of Queensland (acting through the Department of
+Corrective Services),10 Hall P set out the considerations that affect the decision to grant
+leave to a party to amend its application to appeal:
+“In exercising the discretion to grant leave to amend grounds of appeal, an
+important matter is the prospect of the Appeal succeeding; see Burns v.
+Grigg [1967] VR 871 at 872 per Barry J with whom Little and Gowans JJ
+agreed, and Mitchelson v Mitchelson (1979) 37 FLR 289 at 289 per Smithers
+J. Here, there is no likelihood of an appeal upon the grounds at proposed
+paragraphs 1(i), (ii) and (iv), 2 and 3 succeeding. The firm general rule is
+that a party will not be permitted to raise a point for the first time upon
+10 [2007] ICQ 28.
+
+13
+appeal where, had the point been raised in the court below, evidence could
+have been given which by any possibility could have prevented it from
+succeeding, compare Coulton v Holcombe (1986) 162 CLR 1 at 7 per Gibbs
+CJ, Wilson, Brennan and Dawson JJ. The truth is that if the proposed new
+grounds had been raised by the original application to appeal, the Appellant
+would not have been permitted to rely upon them.”
+[58] Accordingly, in determining whether to grant leave to amend the application to appeal I
+will consider the prospect of the appeal succeeding on the proposed new ground.
+[59] At [260] of his reasons the Commissioner held as follows:
+“A return to work, is in any event, a return and in this instance it is difficult
+to make a case that the management action taken after that meeting to return
+Langerak to the TPCC was not in the circumstances reasonable management
+action taken in a reasonable way given Dr Kahn’s approval …”
+[60] At [261] the Commissioner then held that there were two “areas” of the employer’s
+management of the respondent’s return to the TPCC that were not reasonable
+management action taken in a reasonable way. They were:
+(a) the failure to provide an adequate level of training to the respondent on her
+return to the TPCC in August 2014 to ensure that she was fully prepared to
+undertake her designated role; and
+(b) the failure of the QPS through Hussey to act upon allegations of bullying by
+Child and Hoare.
+[61] The appellant says that the first finding was not open to the Commissioner because s 32(5)
+mandates that there must be some causal link between the injury and any management
+action. The appellant says that there was no evidence in that regard and for that reason
+the Commissioner erred.
+[62] The appellant says that the second finding involves error because the Commissioner ought
+to have undertaken the task of assigning weight to the various factors which go to the
+creation and maintenance of a psychiatric disorder and, having done so, would inevitably
+have attributed the lack of training “substantially less weight”.
+[63] The respondent says that the appellant needed to show that it both took reasonable
+management action and that it took it in a reasonable way. They contend that the
+Commissioner found that the decision to direct the appellant to the TPCC was reasonable
+management action, but the action was not carried out in a reasonable way.
+[64] The difficulty with that submission is that it is contrary to what is said by the
+Commissioner at paragraph [262] that:
+“… the management action of the QPS was neither reasonable or taken in a
+reasonable way in connection with her employment.” (emphasis added)
+[65] The submission also fails to sit well with the Commissioner’s description of the areas as
+“unreasonable management action taken in an unreasonable way” rather than simply
+cases where the reasonable management action was conducted in an unreasonable way.
+
+14
+[66] The Commissioner appeared to treat the areas of unreasonable management action he
+identified as rendering unreasonable the otherwise reasonable management action of
+returning the respondent to the TPCC. It is a more holistic approach than that contended
+for by the respondent.
+Failure to act on allegations of bullying
+[67] The principal difficulty faced by the respondent is that its statement of facts and
+contentions did not identify the failure of the QPS to act on allegations of bullying as a
+stressor or employment factor contributing to her injury. Nor was it identified as such in
+her submissions.
+[68] In Q-COMP v Hochen11 it was held by Hall P that:
+“[15] … Section 32(5)(a) of the Act requires the insurer, Q-COMP and any
+appellate tribunal to enquire whether the psychological injury arose out
+of or in the course of reasonable management action taken in a
+reasonable way. The presence of unreasonable management action
+with a sufficient causal connection to the injury may require that a
+negative answer be given to the question posed by s. 32(5)(a).”
+(emphasis added)
+[69] The meaning of the phrase “unreasonable management action with a sufficient causal
+connection to the injury” must be determined with reference to s 32(1) of the Act. In
+Simon Blackwood (Workers’ Compensation Regulator) v Chapman12 it was held that:
+“[22] As was said in Mana, s 32(5) need only be considered if s 32(1)(b) has
+been satisfied. In other words, the Commission must be satisfied that
+the psychiatric or psychological disorder has arisen out of, or in the
+course of, employment, and that the employment is the major
+significant contributing factor to the injury. In reaching a conclusion on
+that point, the Commission will take into account the stressors
+nominated by the applicant. If, during that process, the Commission
+decides that one or more of the stressors either cannot be established as
+a matter of fact or, if established, that there is no causal link, then such
+a stressor cannot be taken into account when considering s 32(5). It is
+only those stressors which are held to have had the necessary causal
+link which can, as a matter of logic, be the subject of consideration as
+to whether or not they fall within s 32(5). It is, of course, open to the
+Regulator to nominate some other action or event which is said to have
+caused the disorder and comes within s 32(5).”
+[70] The respondent says that the issue of bullying was not a standalone ground but, instead,
+there was a link between a lack of training and the respondent’s problems in the workplace
+with the two particular sergeants who bullied and ostracised her. Before the Commission,
+the respondent contended that her posting to the TPCC for return to work duties was not
+carried out in a reasonable way in circumstances where, among other things, her training
+was inadequate and the TPCC “was a challenging environment where the sergeants spoke
+very directly to staff”.
+11 [2010] ICQ 10.
+12 [2016] ICQ 11.
+
+15
+[71] In reply, the appellant submits that while there may have been evidence of bullying in the
+workplace, the particular stressor that the Commissioner found was that there was a
+failure by management to act upon the respondent’s allegations of bullying, and that was
+never a feature of her case.
+[72] The appellant’s submission is compelling. It was not appropriate for the Commissioner
+to go beyond the statement of facts and contentions by identifying further stressors or
+causes of the appellant’s injury that did not form part of the respondent’s case.
+[73] In Yousif v Workers’ Compensation Regulator13 it was held that:
+“[15] It is consistent with the requirements of s 531 for a party in an appeal
+under the Act to set out its case by way of a Statement of Facts and
+Contentions. It alerts the other party to the case it will have to deal with
+and it identifies the issues which exist which, in turn, allow for a
+confinement of the matters in dispute. An appeal under the Act is not
+the time for a broad ranging inquiry into an unlimited number of
+complaints or grievances. The time and resources of the Commission
+are constrained and it is necessary for those constraints to be
+acknowledged in this way. Subject always to the Commission’s power
+to allow appropriate amendments (so that s 531 may be observed) a
+party will be bound by its Statement of Facts and Contentions and may
+not lead evidence which is not relevant to the identified issues.”
+[74] While that passage concerns the conduct of parties it is nevertheless pertinent to the
+consideration by the Commission of evidence and issues which lie outside the scope of a
+claimant’s case. Here, the Commissioner’s approach failed to alert the appellant to a
+matter which was critical to the outcome of the respondent’s claim and deprived the
+appellant of the opportunity to address that matter at all stages of the proceedings.
+[75] The Commissioner considered a stressor which was not characterised by the respondent
+as a cause of her injury and treated it as a reason for finding that the management action
+taken by the employer was neither reasonable nor taken in a reasonable way. The
+Commissioner erred in doing so.
+Inadequate training
+[76] The respondent submits that the issue of bullying is a red herring because of the finding
+that it was unreasonable to return the respondent to the TPCC without proper training.
+[77] That submission concerns a question which has been the subject of significant
+consideration in this court – how does s 32(5) operate when one or more, but not all, of
+the stressors are found to be reasonable management action taken in a reasonable way?
+[78] The question was considered in Q-COMP v Rowe,14 where Hall P observed that:
+“It is the effect of the decision in Q-COMP v Hohn, ibid, that a claimant may
+succeed though some of the operative events or stressors arise out of or
+occur in the course of reasonable management action taken in a reasonable
+way. However, “may” cannot be read as “must”: nor may the passage be
+13 [2017] ICQ 4.
+14 (2009) 191 QGIG 67.
+
+16
+read as asserting that an Appeal Body is at liberty to allow a claimant
+to succeed where at least one stressor does not “… arise or occur in the
+course of reasonable management action taken in a reasonable way”. In
+all such cases, the Appeal Tribunal will be required to embark upon the
+enquiry whether the psychological/psychiatric injury arose out of or in the
+course of reasonable management action taken in a reasonable way.”
+(emphasis added)
+[79] It is not axiomatic that, because the Commissioner found that the respondent’s training
+was inadequate, her injury did not arise out of or in the course of reasonable management
+action taken in a reasonable way.
+[80] Davis v Blackwood15 stands for the proposition that the question of whether s 32(5) is
+enlivened turns on the weight attributed to each factor under consideration:
+“[49] The other complaints made by the appellant about the Commissioner’s
+reasoning concerned his findings with respect to the requirement for the
+appellant to sit with indigenous patients and to mourn with families
+after the passing of patients at the hospital. The Commissioner accepted
+that over the course of his employment Mr Davis found aspects of his
+work stressful. He also found that Mr Davis discussed those aspects
+with Ms Forster from time to time and that she did, on some occasions,
+offer means by which he might cope with the stress.
+[50] This case raises the difficulty which exists when a psychiatric disorder
+is brought about by matters:
+(a) covered by s 32(5), and
+(b) other matters which are employment related, and
+(c) other matters which are non-employment related.
+[51] I agree with the reasoning of Hall P in Q-Comp v Hohn where he said
+that the mere occurrence of reasonable management action will not
+insulate a disorder from characterisation as an “injury”. In cases such
+as this the Commission will be aided by expert evidence which can
+assist in the assignment of weight to the various factors which go to the
+creation of maintenance of a psychiatric disorder. If the evidence
+supports a finding that the psychiatric disorder results from the
+employment being a significant contributing factor then, when one
+turns to consider s 32(5), it is important to determine to what extent, if
+any, there is an overlap of reasonable management action and other
+employment factors.”
+[81] Rowe and Davis were both considered in Simon Blackwood (Workers’ Compensation
+Regulator) v Mahaffey.16 The following observations were made in that decision in
+respect of the interaction between ss 32(1) and 32(5):
+“[37] Section 32 (1) is concerned with consideration of an injury which arises
+out of, or in the course of, employment. In other words, it covers the
+15 [2014] ICQ 9.
+16 [2016] ICQ 10.
+
+17
+whole gamut of the employment relationship. It does not confine its
+operation to particular aspects of the employment, rather, it emphasises
+that all of the employment is to be considered because an “injury” will
+only come within the definition “if the employment is a significant
+contributing factor to the injury”.
+[38] A distinction can then be drawn with the provisions of s 32(5). Putting
+to one side s 32(5)(c), that section is concerned with “reasonable
+management action” which is actually taken or a worker’s expectation
+or perception of such action. In other words, it is concerned only with a
+“slice” of the employment.
+…
+[40] The question which arises in this case, and which has been set out
+above, could, if answered in the way proposed by the appellant, lead to
+circumstances where a worker who nominated two stressors would be
+denied compensation if one of those stressors was reasonable
+management action etc., even if the unchallenged expert evidence was
+that its contribution to the disorder was minimal. Similarly, the
+appellant’s answer would also deny a worker compensation if a disorder
+was the result of ten stressors, each of equal importance, but where one
+fell within s 32(5).”
+[82] After setting out the history of cases concerning s 32(5) the following conclusion was
+then reached:
+“[55] Where the only cause of a personal injury is reasonable management
+action etc. then s 32(5) will work to exclude it from the definition of
+“injury” in s 32(1). The difficulty, as has become painfully obvious over
+the years, is where a psychiatric or psychological disorder can be seen
+to have arisen from a mixture of actions including reasonable
+management action. Experience in this jurisdiction shows that it is not
+uncommon for psychiatric disorders to be the result of a number of
+factors.
+…
+[57] The difficulties in construing s 32(5) support the conclusion that more
+than one interpretation of s 32 is available and that, therefore, the
+beneficial interpretation approach should be applied. In the cases
+decided in this Court any attempt to provide some type of formula or
+application of dominant cause has been rejected. Section 32 must be
+applied in the light of the evidence accepted by the Commission. If,
+after considering all the relevant evidence and weighing up the factors
+which were accepted as having given rise to the personal injury, the
+Commission forms the conclusion that any of the conduct referred to in
+s 32(5) does not, on balance, displace the evidence in favour of the
+worker then a finding in the worker’s favour must follow.”
+[83] Implicit in the Commissioner’s reasons is an assessment that the failure to provide
+adequate training was a significant consideration in respect of s 32(5) that weighed against
+the reasonable management action taken. The Commissioner observed as follows:
+
+18
+“… the failure to provide an adequate level of training to Langerak on her
+return to the TPCC in August 2014 to ensure that she was fully prepared to
+undertake her designated role was a blight on the management action of the
+QPS particularly as there was agreement reached at the Case Management
+meeting of 4 August 2014, according to Dr Kahn’s notes of the meeting,
+that stated an ‘endorsed return to training as a good part of her treatment
+plan’. Langerak complained of inadequate training being provided and
+relied on the lack of such training as the reason she had failed to reach the
+acceptable standard in respect of 12 of 16 sample calls requiring her to meet
+with Hussey and Doyle in a performance review type meeting”17
+[84] But the Commissioner’s reasons do not, on their face, indicate that inadequate training
+was alone sufficient to outweigh the reasonable management action that was taken. The
+Commissioner held:
+“[261] There are in my view however two areas of the QPS management of
+Langerak’s return to the TPCC on 6 August 2014 and onwards that was
+not reasonable management action taken in a reasonable way by the
+QPS in connection with Langerak’s employment, that would enliven
+the operation of s 32(5) of the Act to not exclude her
+psychiatric/psychological disorder from being compensable.”
+[85] It is unclear whether the Commissioner found that the two areas together meant that the
+respondent’s injury was compensable or whether each, in isolation, was sufficient.
+[86] The ultimate question under s 32(5)(a) is whether the injury, not any one stressor, arose
+out of, or in the course of, reasonable management action taken in a reasonable way by
+the employer in connection with the worker’s employment. The determination made in
+respect of s 32(5)(a) is one made by weighing reasonable management action against
+other employment factors in light of the whole of the evidence.
+[87] Without a clearer articulation of the relative weight given to each factor I am unprepared
+to accept the submission that, if the failure to act in respect of allegations of bullying was
+entirely excluded from consideration, then the Commissioner would nevertheless have
+still found in favour of the respondent.
+Should leave be granted?
+[88] Considering the foregoing, if leave is granted to pursue this ground of appeal it would
+establish that the Commissioner’s reasons involve an error of law. When balanced with
+the other factors weighing for and against the granting of leave that are canvassed above,
+including the absence of prejudice and the explanation provided by the appellant, I
+consider that it is appropriate to grant leave to the appellant to amend its grounds of
+appeal.
+[89] It follows that the appellant succeeds on this ground of appeal.
+17 Langerak v Workers’ Compensation Regulator [2019] QIRC 35 at [261].
+
+19
+Conclusion
+[90] The appeal is allowed. I will hear from the parties about what further orders should be
+made.

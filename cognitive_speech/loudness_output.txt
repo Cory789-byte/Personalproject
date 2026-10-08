@@ -1,0 +1,62 @@
+
+===== INTERVIEW
+CORY: n=362 | spread SD 3.5 dB, p10..p90 -4.2..+4.5 | loud(>+3) 17% quiet(<-3) 17% | by quarter -0.9, -0.2, +2.1, +0.0 | drift +0.16 dB/10 min | turn end minus start -0.2 dB (n=87) | r(level, rate) +nan
+OFFICERS: n=315 | spread SD 3.5 dB, p10..p90 -3.7..+5.0 | loud(>+3) 21% quiet(<-3) 17% | by quarter +1.9, -0.3, +0.5, -1.8 | drift -0.65 dB/10 min | turn end minus start -1.1 dB (n=76) | r(level, rate) +nan
+  CORY follows the previous speaker's level: r = +0.31 (n=120)
+  OFFICERS follows the previous speaker's level: r = +0.31 (n=120)
+
+===== COURT
+CORY: n=38 | spread SD 2.8 dB, p10..p90 -3.2..+3.7 | loud(>+3) 13% quiet(<-3) 13% | by quarter -0.5, +0.8, -1.7, +1.0 | drift +1.42 dB/10 min | turn end minus start -1.8 dB (n=10) | r(level, rate) +0.39
+MAGISTRATE: n=54 | spread SD 2.5 dB, p10..p90 -3.2..+3.2 | loud(>+3) 15% quiet(<-3) 11% | by quarter -0.8, -1.3, +1.8, +0.8 | drift +2.54 dB/10 min | turn end minus start -0.5 dB (n=12) | r(level, rate) +0.42
+PROSECUTOR: n=48 | spread SD 2.7 dB, p10..p90 -2.3..+3.3 | loud(>+3) 12% quiet(<-3) 8% | by quarter -0.7, -0.6, +0.0, +1.3 | drift +1.92 dB/10 min | turn end minus start -1.7 dB (n=11) | r(level, rate) +0.31
+  CORY follows the previous speaker's level: r = -0.06 (n=17)
+  MAGISTRATE follows the previous speaker's level: r = -0.10 (n=25)
+  PROSECUTOR follows the previous speaker's level: r = +0.21 (n=12)
+
+===== MENTION
+CORY: n=172 | spread SD 4.1 dB, p10..p90 -4.3..+4.0 | loud(>+3) 17% quiet(<-3) 17% | by quarter -0.8, -0.1, +0.4, +0.6 | drift +0.32 dB/10 min | turn end minus start -1.1 dB (n=39) | r(level, rate) +0.30
+DWYER: n=842 | spread SD 3.1 dB, p10..p90 -4.0..+2.9 | loud(>+3) 9% quiet(<-3) 17% | by quarter -1.0, +0.1, +0.0, +0.5 | drift +0.20 dB/10 min | turn end minus start +0.5 dB (n=112) | r(level, rate) +0.47
+  CORY follows the previous speaker's level: r = +0.18 (n=77)
+  DWYER follows the previous speaker's level: r = +0.11 (n=77)
+
+  Court, within each turn of 2 s or more: last third minus first third (dB)
+  CORY: median -1.2 dB, turns ending quieter by >3 dB: 4 of 16
+  MAGISTRATE: median -0.9 dB, turns ending quieter by >3 dB: 3 of 18
+  PROSECUTOR: median -2.6 dB, turns ending quieter by >3 dB: 5 of 14
+
+===== COURT: your turns, level against your own median
+00:30.0  -6.0 dB | That's correct. I did a Scottsdale 
+00:36.1  +1.0 dB | I did a Scottsdale  thing which lists all the issues with the charges. It's only two pages, it'
+00:47.0  -1.2 dB | It summarises everything in three pages. It's very small. but if you would like to
+01:33.5  -0.3 dB | it's pretty much the same as my entire application, but I understood the Vicks, so there's no r
+01:53.1  +0.1 dB | I was just updating that one factor. All the other factors are the same, except that I found ou
+02:17.6  +0.8 dB | I requested an adjournment on the 20th, the 22nd.
+02:22.6  -3.2 dB | But the prosecutor said no. I have requested a stay, so a stay or adjournment and a stay.
+02:39.8  +2.7 dB | Yeah, obviously. And that, I wasn't driving. The other, the sergeant, his statement's not even 
+03:12.1  -0.8 dB | Well, that and the prosecutors are not giving over material. I've been asking it since last yea
+03:20.1  +0.4 dB | The statement of the Prince Sergeant . Well obviously they haven't, they've only verbally told 
+05:04.6  -1.6 dB | that's why we want to figure out because I have four medications in my list vitamins
+05:24.6  -1.7 dB | So, is there a sample still existing?
+05:29.1  -5.7 dB | I just wanted clarification.
+06:15.1  +3.6 dB | I've got it here for you if you want to...
+07:47.0  +2.1 dB | Exactly. And I also got a NATO  complaint that I did send off.
+07:53.5  +0.1 dB | It's who oversees the forensic analysis about the destruction. They also have to provide a...
+09:01.6  +1.2 dB | I raise a concern. I believe this is about them stealing my dog in a court across on Southport 
+09:15.7  +1.3 dB | Exactly. So they've targeted me and now they can't even give me my evidence.
+
+===== MENTION: your opening segment level by first word
+  Correct / Exactly / Yes / Yeah: n=22, median -4.0 dB
+  Well: n=5, median -2.3 dB
+  No: n=2, median +0.2 dB
+  other openings: n=65, median +0.3 dB
+  loudest sustained turns (3+ segments):
+   27:44 +3.0 dB | She's erratic physical presence and imposes unassessed unilateral directives.
+   35:26 +2.5 dB | Yes. She took them out. What have they disclosed to you? I guess a dispute about the event, but it was taken o
+   42:42 +2.4 dB | I don't have knowledge of that, but it seemed pretty... I understood it. Okay.
+   36:53 +1.4 dB | Do you still have a copy of that? I have a copy of that. So that's in your documentary case.
+   32:24 +1.3 dB | constructive discussions with them? We have not not like a constructive discussion
+  quietest turns (2+ segments):
+   53:00 -11.0 dB | Yes. Okay.
+   55:59 -9.5 dB | Yeah. Okay. All right.
+   18:29 -8.0 dB | Not that I can recall, no. Okay.
+   16:29 -7.5 dB | I guess I did request, but I didn't be specific about that.

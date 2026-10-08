@@ -1,0 +1,780 @@
+INDUSTRIAL COURT OF QUEENSLAND
+CITATION: Simon Blackwood (Workers’ Compensation Regulator) v
+Mahaffey [2016] ICQ 010
+PARTIES: SIMON BLACKWOOD (WORKERS’ COMENSATION
+REGULATOR)
+(appellant)
+v
+SAMANTHA MAHAFFEY
+(respondent)
+FILE NO/S: C/2015/30
+PROCEEDING: Appeal
+DELIVERED ON: 7 April 2016
+HEARING DATE: 24 September 2015
+MEMBER: Martin J, President
+ORDER/S: Appeal dismissed.
+CATCHWORDS: WORKERS’ COMPENSATION – PROCEEDINGS TO
+OBTAIN COMPENSATION – DETERMINATION OF
+CLAIMS – APPEALS, JUDICIAL REVIEW AND STATED
+CASES – GENERALLY – where the respondent claimed
+compensation for psychological injuries said to have occurred
+as a result of certain stressors including, among other things,
+ongoing bullying, intimidation and harassment by her
+employer, and not being provided with reasonable
+management action to ensure she could appropriately deal with
+hostile telephone calls and attendances from customers and
+creditors – where the Commission found that the employer had
+engaged in ongoing bullying, intimidation and harassment of
+the appellant as she described, that this was not reasonable
+management action taken in a reasonable way for the purposes
+of s 32(5) of the Workers’ Compensation Act 2003 (the Act),
+and that this was “the major significant factor” in her injury for
+the purposes of s 32(1) of the Act – where the Commission also
+found that the injury, to the extent it was caused by the hostile
+phone calls, arose in the course of reasonable management
+action for the purposes of s 32(5) of the Act – whether the
+Commission erred in proceeding on the basis that although a
+particular stressor is a cause of a psychiatric or psychological
+disorder and arises out of, or in the course of, reasonable
+management action reasonably taken, the psychiatric or
+psychological disorder is nevertheless not excluded from the
+definition of “injury” in s 32(1) if it is also the result of other
+stressors
+
+2
+Workers’ Compensation and Rehabilitation Act 2003, s 32(1),
+s 32(5)
+CASES: Bird v the Commonwealth (1988) 165 CLR 1, applied
+Comcare v PVYW (2013) 250 CLR 246, cited
+Davis v Simon Blackwood (Workers’ Compensation
+Regulator) [2014] ICQ 009, cited
+Hewitt v Benale Pty Ltd [2002] WASCA 163, (2002) 27
+WAR 91, cited
+IW v City of Perth (1997) 197 CLR 1, cited
+Khoury v Government Insurance Office (NSW) (1984) 165
+CLR 622, cited
+Parker v Q-COMP (2007) 185 QGIG 269, cited
+Q-COMP AND Malcolm Hochen (C/2009/47) – Decision
+<http://www.qirc.qld.gov.au>, cited
+Q-COMP v Education Queensland (McArthur’s Case) (2005)
+179 QGIG 491, cited
+Q-COMP v Hohn (2008) 187 QGIG 139, cited
+Q-COMP v Rowe (2009) 191 QGIG 67, cited
+Rodgers v Revenue SA [2014] SASCFC 2, (2014) 240 IR 202,
+cited
+Simon Blackwood (Workers’ Compensation Regulator) v
+Adams [2015] ICQ 001, cited
+Simon Blackwood (Workers’ Compensation Regulator) v
+Mahaffey [2015] QIRC 116, cited
+Vesna Misevski v Q-COMP (C/2009/29) – Decision
+<http://www.qirc.qld.gov.au>, cited
+Victims Compensation Fund v Brown (2003) 201 ALR 260,
+cited
+APPEARANCES: S Gray directly instructed for the appellant
+M Horvath instructed by Quinn & Scattini for the respondent
+[1] This appeal raises, again, the proper application of s 32(1) and s 32(5) of the Workers’
+Compensation and Rehabilitation Act (the Act). At the relevant time, s 32 took the
+following form:1
+“32 Meaning of injury
+(1) An injury is personal injury arising out of, or in the course of, employment if
+the employment is a significant contributing factor to the injury.
+(2) However, employment need not be a significant contributing factor to the
+injury if section 34(2) or 35(2) applies.
+(3) Injury includes the following—
+1 See the Act current at 14 August 2012.
+
+3
+(a) a disease contracted in the course of employment, whether at or away
+from the place of employment, if the employment is a significant
+contributing factor to the disease;
+(b) an aggravation of the following, if the aggravation arises out of, or in
+the course of, employment and the employment is a significant
+contributing factor to the aggravation—
+(i) a personal injury;
+(ii) a disease;
+(iii) a medical condition if the condition becomes a personal injury or
+disease because of the aggravation;
+(c) loss of hearing resulting in industrial deafness if the employment is a
+significant contributing factor to causing the loss of hearing;
+(d) death from injury arising out of, or in the course of, employment if the
+employment is a significant contributing factor to causing the injury;
+(e) death from a disease mentioned in paragraph (a), if the employment is
+a significant contributing factor to the disease;
+(f) death from an aggravation mentioned in paragraph (b), if the
+employment is a significant contributing factor to the aggravation.
+(4) For subsection (3)(b), to remove any doubt, it is declared that an aggravation
+mentioned in the provision is an injury only to the extent of the effects of the
+aggravation.
+(5) Despite subsections (1) and (3), injury does not include a psychiatric or
+psychological disorder arising out of, or in the course of, any of the following
+circumstances—
+(a) reasonable management action taken in a reasonable way by the
+employer in connection with the worker’s employment;
+(b) the worker’s expectation or perception of reasonable management
+action being taken against the worker;
+(c) action by the Authority or an insurer in connection with the worker’s
+application for compensation.
+Examples of actions that may be reasonable management actions taken in a
+reasonable way—
+
+4
+• action taken to transfer, demote, discipline, redeploy, retrench or dismiss the worker
+• a decision not to award or provide promotion, reclassification or transfer of, or leave
+of absence or benefit in connection with, the worker’s employment.”
+The decision appealed from
+[2] The respondent (Ms Mahaffey) was employed by Mt Cotton Constructions for about six
+months in 2012. Her claim that she had developed severe psychological injuries as a result
+of that employment was accepted by WorkCover but rejected by the Regulator.
+[3] Pursuant to the usual direction, the following Statement of Stressors was provided by Ms
+Mahaffey:
+No Event / Short Description
+1 Ongoing intimidation, bullying and/or harassment directed at or towards the
+appellant by Chris Scroope (Managing Director) thereby creating a hostile work
+environment that was threatening, intimidating and/or anxiety provoking.
+2 The appellant was subjected to and/or exposed to ongoing complaints by
+distressed co-workers in relation to the behaviour of Mr Scroope without
+adequate instruction and/or training in relation to the task of counselling
+distressed co-workers. Consequently, the appellant has been exposed to further
+actions of Mr Scroope which are described as hostile, threatening, intimidating,
+bullying and harassing by nature and generally create a hostile working
+environment.
+3 Failing to ensure that the appellant was able to be relieved of her work duties to
+take regular breaks, including but not limited to morning tea, lunch break and/or
+afternoon and regular restroom breaks.
+4 Failing to ensure that the appellant was provided appropriate reasonable
+management action in order to appropriately and adequately deal with and
+manage hostile and abusive telephone calls and attendances by unsatisfied
+customers or creditors.
+[4] On the hearing of the appeal in the Commission2 it was not disputed that:
+(a) Ms Mahaffey was a worker,
+(b) She had suffered a personal injury, namely, a psychiatric or psychological
+disorder,
+2 [2015] QIRC 116.
+
+5
+(c) There was sufficient evidence to support a finding that the injury was one
+which arose out of, or in the course of, Ms Mahaffey’s employment and that
+her employment was a significant contributing factor.
+[5] The expert psychiatric evidence was to the effect that the cause of the disorder was a
+combination of:
+(a) The bullying, intimidatory and aggressive behaviour of the managing director
+(Mr Scroope),
+(b) The stress caused by dealing with hostile telephone calls from her employer’s
+creditors, and
+(c) The perceived lack of support to help her deal with those calls.
+[6] The Deputy President correctly identified the issue for him to decide as being “whether
+the injury arose out of, or in the course of, management action which was both reasonable
+and taken in a reasonable way in connection with the appellant's employment, thereby
+removing it from the definition of ‘injury’ for the purposes of the [Act].”3
+[7] The Deputy President found that Mr Scroope’s behaviour had been as Ms Mahaffey
+described it and held that it was “the major significant factor” in her injury.
+Grounds of appeal
+[8] The grounds of appeal are as follows:
+(a) having determined that Ms Mahaffey’s injury was not an “injury” as defined
+by the Act; because it arose in the course of reasonable management action
+in connection with Ms Mahaffey’s employment so far as it related to “the
+hostile phone calls”, the learned Deputy President erred by finding that Ms
+Mahaffey’s workers’ compensation claim should be accepted;
+(b) the learned Deputy President erred in his interpretation and determination of
+those matters relating to Ms Mahaffey’s nominated “stressor number 2”;
+(c) having found that Ms Mahaffey most likely had not proved the facts and
+matters particularised as “stressor number 3”, his Honour erred by failing to
+determine that those matters relating to stressor number 3 were reasonable
+management action, taken in a reasonable way, in connection with Ms
+Mahaffey’s employment; and
+(d) in finding that the management action was not reasonable management
+action, taken in a reasonable way, in connection with Ms Mahaffey’s
+employment; the learned Deputy President erred by enquiring whether
+3 Simon Blackwood (Workers’ Compensation Regulator) v Mahaffey [2015] QIRC 116 at [5].
+
+6
+“unreasonable management action” was the major significant factor to the
+development of Ms Mahaffey’s psychiatric disorder.
+[9] In his written submissions, Mr Gray identified what he described as the “critical errors”
+in the decision which require intervention in this appeal. They are:
+(a) having found that Ms Mahaffey’s injury was excluded by the reasonable
+management action provisions of the Act, in so far as it related to one stressor,
+the Deputy President erred by finding that Ms Mahaffey’s injury could be
+accepted because of a “dominant” stressor;
+(b) the Deputy President misinterpreted the basis of Ms Mahaffey’s nominated
+stressor number 2; and
+(c) having observed that Ms Mahaffey most likely had not proved the matters
+described within stressor 3, the Deputy President failed to determine that
+stressor 3 was reasonable management action, taken in a reasonable way, in
+connection with Ms Mahaffey’s employment.
+The psychiatric evidence
+[10] Before turning to a consideration of the grounds of appeal, it will assist if the expert
+evidence is set out. Dr Chau provided a psychiatric report which was not as clear as it
+might have been. Such a report should, at a minimum, discuss, and offer an opinion on:
+(a) the subject’s psychiatric condition,
+(b) what the subject told the psychiatrist about the employment, and
+(c) the causal relationship (if any) between the employment and the condition.
+[11] In the process of doing that, the psychiatrist should specifically consider the stressors
+nominated by the subject and express a view, on the assumption that they will be
+established, as to any causal relationship.
+[12] In this case, the psychiatric report is not expressed in a helpful way. It did not give any
+clear opinion on the part the stressors played. But that was remedied, to an extent, by the
+oral evidence given. It was more relevant to the issues to be decided by the Commission.
+[13] In examination in chief the following evidence was given:
+“Doctor, what was the conclusion you reached with Ms Mahaffey whether she has
+a psychiatric condition or not? ---I believe that she has a psychiatric condition being
+the [indistinct] disorder with mixed anxiety, depressed mood, and an aggravation
+of social phobia.
+
+7
+And did you consider the cause of that condition? --- Yes. I have.
+And what was your conclusion about the cause of her condition? --- I think it
+would be consistent with having been caused by what she is reporting to be
+harassment at work by her employer.”4
+[14] In cross-examination the doctor gave the following evidence:
+“... Now, as I understand the opinion that you’ve expressed, or the summary and
+conclusions, appears at page 18 of your report? --- Yes.
+And what you say there is that she’s developed – or you have diagnosed [indistinct]
+disorder with mixed anxiety and depressed mood? --- That’s right.
+And you say that that’s as a result of feeling harassed by her employer at work in
+Mount Cotton Constructions? --- That’s right.
+But in addition to that, a contributing factor to the development of her injury
+is what you there say:
+In addition to this she believed she did not believe she received adequate
+support or training during her course of employment.
+? --- That’s right.
+So that was another thing that contributed to the development of her injury?
+--- That’s right.
+And as you understand on the top of that page the statement of stressors, which are
+one, two, three, four, all of those matters combined to cause Ms Mahaffey’s injury?
+--- That’s right.
+…
+And if we look on the top of page 3 what she told you what she found stressful was
+receiving abusive telephone calls from the clients, but importantly, the fact that she
+believed she had no support from other staff? --- Uh-huh.
+And so when you expressed your opinion you understood that she’s dealing with
+all these by herself? --- Yes. That’s right.
+And that her employer had actually put in no steps at all to help her deal with those
+phone calls? --- That’s right.
+4 T 1-79.
+
+8
+…
+Because there’s a number of factors that all add towards causing the injury? --- Uh-
+huh.
+…
+And it’s the statement of stressor is, one, two, three, four, all of these have a role to
+play in the development of Ms Mahaffey’s injury? --- Yes.
+…
+Well, would you agree what obviously in respect to the development of Ms
+Mahaffey’s injury having to deal with these phone calls was something that
+was very significant in the development of her injury? --- I wouldn’t be able to
+comment on that. Look I have – I didn’t actually question her about, you know,
+which one developed first in terms of the stress. When she was talking to me
+that certainly was part of the stress, I couldn’t say whether or not that was the
+start of the stress. Where she – she particularly did mention the harassment.
+Yes? --- Harassment being that she was quite scared of Scroope.
+…
+So given that she has that feeling about the phone calls, that’s got a very
+significant contribution towards her injury? --- Yes. Sure.”5
+[15] The following evidence came from re-examination:
+“Doctor, just about that issue of the various contributing factor, you didn’t turn your
+mind to teasing those out or separating how relevant each one of those was? --- No.
+I mean, I did ask her was there anything in particular, and she said that it was the
+whole situation of the harassment, which I had the impression was a very significant
+factor, which is also wise she was more sensitive to situations of scrutiny, which is
+very common in people with social phobia type of symptoms, when they are put
+under scrutiny and feel harassed. They’re going to be even more sensitive, so on
+page 6 [indistinct] paragraph, she avoided being in situations whereby she could
+feel socially scrutinised, and she did mention that it was taking these abusive calls
+and not getting enough support and not getting the breaks as well. It was a
+combination of all factors that – especially the harassment. She was – she seemed
+to be emphasising throughout the interview.
+…
+5 T 1-80–82.
+
+9
+In terms of the psychiatric condition she has and the extent of it, how does that
+compare to her level stressors that she described to you? --- Well, the only stressor
+that she told me about was the work stress, and I think that given her
+personality type and as well as, you know, by looking at the previous comments
+[indistinct] looking at the statements from other work colleagues, I think that
+given the degree of verbal aggression or slamming doors, things like that, and
+the uncertainty about the work stability, I think that that would be consistent
+with the severity of symptoms that she developed.”6
+The first ground
+[16] This concerns Stressor 4.
+[17] The finding which the appellant says supports this ground is as follows:
+“[29] Management action need not be perfect or carried out "without blemish", so
+long as it is "reasonable in all the circumstances of the case." It was not feasible to
+entirely relieve the appellant from answering phone calls as this was integral to her
+role in the business. The management action taken by Mr Cooper to address the
+appellant's complaints was reasonable in the circumstances. In my view, it cannot
+be said that the injury, to the extent caused by the hostile phone calls, arose out of
+management action. The injury arose out of dealing with the phone calls
+independently of management action. However, I am satisfied that the injury, to
+the extent it was caused by the hostile phone calls, arose in the course of
+reasonable management action, being the steps taken by Mr Cooper in a
+reasonable way to address the issue. Therefore it is not an "injury" as defined by
+the Act, as it is removed from that definition by s 32(5).” (emphasis added,
+citations omitted)
+[18] The appellant argues that, having found that the injury was “excluded” because the
+management action was reasonable etc., it was an error to find that Ms Mahaffey’s claim
+could be accepted because there was other action which was not covered by s 32(5).
+[19] This argument raises issues with respect to the proper construction of s 32 and the use of
+a Statement of Stressors in a proceeding which I will deal with below. This paragraph of
+his reasons, though, needs to be read in the context of the whole decision. It should be
+read as a conclusion that, if the “phone call issue” was all that Ms Mahaffey relied upon,
+then her claim would be excluded by the operation of s 32(5).
+The second ground
+[20] In his reasons, the Deputy President considered Stressors 1 and 2 together. In dealing with
+them the Deputy President said:
+“[32] It seems to me that a manager's interaction with staff, at least to the extent of
+giving them directions, making requests of them, and so on, comfortably falls
+6 T 1-83.
+
+10
+within the concept of management action. A manager's language, tone of voice and
+demeanour are relevant to determining whether management action was taken in a
+reasonable way.
+[33] However, yelling at, name calling and belittling staff in this context could
+never be said to be reasonable management action. As I have said, Mr Scroopes
+acted in an unreasonable manner towards, and in front of, the appellant on a regular
+basis. Other staff employed by him experienced similar emotions to that of the
+appellant, some were teary, while others were stressed or anxious when they were
+dealing, or had dealt, with Mr Scroopes or when he was in the vicinity of them in
+the office. I accept the appellant regularly observed such behaviour and the effect
+it had on those subjected to it. It was also directed at her on a handful of occasions.
+This had a detrimental effect on her. Mr Scroopes' unacceptable behaviour and
+demeanour created an environment in the office that was extremely unpleasant to
+work within. Although the appellant was sensitive in nature, the result of working
+within an environment where she was experiencing and observing that kind of
+behaviour in my view, significantly contributed to the injury she suffered. From my
+observation of the appellant it seems to me that Mr Scroopes' behaviour was
+probably the major significant factor.
+[34] It follows that the appellant's injury arose out of, or in connection with
+management action which was neither reasonable nor taken in a reasonable way.”
+(citations omitted)
+[21] The Deputy President did not make a finding with respect to the matters referred to in the
+first sentence of Stressor 2, that is, that Ms Mahaffey had been subjected to “ongoing
+complaints by distressed co-workers” and so on. He did, though, clearly find that Stressor
+1 had been made out. Both Stressor 1 and the second part of Stressor 2 refer to the creation
+of a hostile work environment as a result of Mr Scroope’s behaviour. Thus, Ms Mahaffey
+had made out the factual basis for the expert opinion so far as Mr Scroope’s behaviour
+was concerned.
+[22] The first part of Stressor 2 was not made out. The second part, when referring to the
+hostile work environment, is premised – by the use of the word “consequently” – on the
+occurrence of matters which were not proved. But, it does not refer to a different type of
+work environment. Rather, Stressors 1 and 2 should be read as alleging two types of
+conduct which lead to the same result. And the Deputy President’s reasons should be read
+as an acceptance that Ms Mahaffey had established Stressor 1, but not 2, as the cause.
+The third ground
+[23] This ground refers to the following paragraph in the Deputy President’s reasons:
+“[37] In the circumstances it is unnecessary to consider the remaining stressor - the
+alleged failure to allow her adequate rest breaks, which I doubt, in any event, is
+made out on the evidence.”
+
+11
+[24] The Deputy President did not make any finding about Stressor 3. As he said: “it is
+unnecessary to consider the remaining stressor”. That is a consequence of his earlier
+finding about Stressor 1.
+[25] It does not follow that, because he expressed some doubt about whether Stressor 3 could
+have been made out, he had formed a considered opinion that, on the balance of
+probabilities, it could not have been made out. It was no more than a passing comment.
+[26] In Misevski v Q-COMP7 Hall P was faced with a case in which there had been allegations
+made about conduct which allegations “were found to be without substance”. He said:
+“[30] … One consequence of course is that those transactions cannot have
+contributed to the development of her psychological condition. A transaction which
+did not occur cannot have contributed to the development of anything. Whilst s.
+32(5)(b) of the Act refers to ‘perception’ it refers to perception of action actually
+taken.”
+[27] A similar situation arises here. The Deputy President did not accept that Ms Mahaffey’s
+version should be accepted. It follows that the actions which she asserted constituted a
+stressor were found not to have existed. She did not assert that the actions which were
+found to have been taken contributed to her condition. Therefore, as it was not said by
+her that her “injury” arose out of those actions, s 32(5) does not apply. Similarly, as the
+psychiatrist’s opinion was based on an unaccepted set of assertions, there has been no
+causal link established.
+The fourth ground
+[28] This ground argues that the Deputy President erred when considering whether
+management action was reasonable management action etc. by asking whether
+“unreasonable management action” was the major significant factor in the development
+of Ms Mahaffey’s disorder. It is further argued that the Deputy President erred by
+searching for a “dominant factor” and that he should not have assigned weight to
+respective management action stressors.
+[29] The Deputy President did not reason in that way. At [33] he said:
+“However, yelling at, name calling and belittling staff in this context could
+never be said to be reasonable management action. As I have said, Mr Scroopes
+acted in an unreasonable manner towards, and in front of, the appellant on a
+regular basis. Other staff employed by him experienced similar emotions to that of
+the appellant, some were teary, while others were stressed or anxious when they
+were dealing, or had dealt, with Mr Scroopes or when he was in the vicinity of them
+in the office. I accept the appellant regularly observed such behaviour and the effect
+it had on those subjected to it. It was also directed at her on a handful of occasions.
+This had a detrimental effect on her. Mr Scroopes' unacceptable behaviour and
+demeanour created an environment in the office that was extremely unpleasant to
+work within. Although the appellant was sensitive in nature, the result of working
+7 Vesna Misevski v Q-COMP (C/2009/29) – Decision <http://www.qirc.qld.gov.au>.
+
+12
+within an environment where she was experiencing and observing that kind of
+behaviour in my view, significantly contributed to the injury she suffered. From
+my observation of the appellant it seems to me that Mr Scroopes' behaviour
+was probably the major significant factor.” (emphasis added)
+[30] That analysis does not demonstrate any basis for the ground of appeal. The reference to
+“unreasonable” (which follows the statement about yelling etc. never being able to be
+described as reasonable management action) describes Mr Scroope’s manner not
+management action. And the reference to “major significant factor” does not equate with
+a search for a “dominant” factor.
+[31] When the Deputy President said (in [36]) that it was necessary “in cases such as this, to
+assign weight to the various factors which go to the creation of a psychiatric disorder” he was
+not assigning weight to “respective management action stressors”, he was going through
+the process of weighing up all the relevant factors.
+What does s 32 require?
+[32] This section has been the subject of consideration on many occasions. In this case, there
+was conduct (the harassment) which was a cause of the disorder and which did not come
+within s 32(5) and there was conduct (the telephone answering issue) which was a cause
+of the disorder and which did come within s 32(5). Thus, the following question arises:
+If a particular stressor is held:
+(a) to have been a cause of a psychiatric or psychological disorder, and
+(b) to have arisen out of, or in the course of, reasonable management action
+reasonably taken, then
+is the psychiatric or psychological disorder excluded from the definition of “injury”
+in s 32(1) no matter what else may have caused the disorder?
+[33] The appellant argues that the answer to that question must be “yes”.
+[34] Before dealing with that question, two matters must first be dealt with:
+(a) The use of a Statement of Stressors, and
+(b) The proper construction of beneficial legislation.
+Statement of Stressors
+[35] The requirement for a worker to produce a Statement of Stressors does not arise from the
+Act or any Regulation. The requirement comes from the standard direction given in these
+matters. The purpose of this statement is, at least, twofold. First, it identifies for the
+
+13
+respondent those matters which the appellant will be contending were the cause of the
+appellant’s disorder. Secondly, it serves to confine the issues which must be considered
+on the appeal. Where such a direction has been given, then an appellant may not depart
+from the Statement of Stressors without leave.
+[36] The difficulty which arises is caused by attempting to apply the use of the Statement in
+conjunction with the requirements of s 32 of the Act. The Act only requires the
+demonstration of an “injury” as defined. It does not speak of “stressors”.
+[37] Section 32 (1) is concerned with consideration of an injury which arises out of, or in the
+course of, employment. In other words, it covers the whole gamut of the employment
+relationship. It does not confine its operation to particular aspects of the employment,
+rather, it emphasises that all of the employment is to be considered because an “injury”
+will only come within the definition “if the employment is a significant contributing
+factor to the injury”.
+[38] A distinction can then be drawn with the provisions of s 32(5). Putting to one side s
+32(5)(c), that section is concerned with “reasonable management action” which is
+actually taken or a worker’s expectation or perception of such action. In other words, it is
+concerned only with a “slice” of the employment.
+[39] The use of a Statement of Stressors is to assist in the determination of a worker’s
+entitlements. It must be used as an aid and not as a means of overriding the intention of
+the Act.
+[40] The question which arises in this case, and which has been set out above, could, if
+answered in the way proposed by the appellant, lead to circumstances where a worker
+who nominated two stressors would be denied compensation if one of those stressors was
+reasonable management action etc., even if the unchallenged expert evidence was that its
+contribution to the disorder was minimal. Similarly, the appellant’s answer would also
+deny a worker compensation if a disorder was the result of ten stressors, each of equal
+importance, but where one fell within s 32(5).
+Beneficial legislation
+[41] In order to determine if the Act should have that result, I turn to examine the nature of the
+Act. It is properly described as “beneficial legislation”. In Bird v the Commonwealth8
+Deane and Gaudron JJ (although in the minority) summarised the principle to be applied
+in a way which has been followed9 many times:
+“… It is well to remember that employee’s compensation legislation such as the
+Act and regulations, is remedial in its character “and, like all such Acts, should be
+constructed beneficially”: Bist v London & South Western Railway Co. The
+“established principle” was correctly identified by Fullagar J in the course of his
+8 (1988) 165 CLR 1.
+9 For example, Rodgers v Revenue SA [2014] SASCFC 2, (2014) 240 IR 202; Hewitt v Benale Pty Ltd [2002]
+WASCA 163, (2002) 27 WAR 91.
+
+14
+dissenting judgement in Wilson v Wilson’s Tile Works Pty Ltd : “where two
+constructions of a Workers’ Compensation Act are possible that which is
+favourable to the worker should be preferred.” If a person or a case falls within
+the general spirit of such remedial legislation, and there are two possible
+interpretations, the courts ought not to construe the Act so as to exclude that person
+or case … . Indeed, in McDermott v Owners of SS Tintoretto, a case in which the
+House of Lords read words into a provision of a Workmen’s Compensation Act in
+favour of the employee, Lord Shaw commented that he regarded it “to be quite
+unsound, and to be productive of wrong and mischief” to interpret such a remedial
+statute “in the spirit of meticulous literalism”. That comment of Lord Shaw was
+quoted with approval (“a valuable contribution”) by Isaacs J in George Hudson Ltd
+v Australian Timber Workers’ Union.”10 (emphasis added, citations omitted)
+[42] The approach described above is not without constraint. The interpretation adopted “must
+be restrained within the confines of the actual language employed and what is fairly open
+on the words used” – Khoury v Government Insurance Office (NSW)11. It was put this
+way by Brennan CJ and McHugh J in IW v City of Perth12:
+“… beneficial and remedial legislation, like the [Equal Opportunity] Act, is to be
+given a liberal construction. It is to be given “a fair, large and liberal” interpretation
+rather than one which is “literal or technical”. Nevertheless, the task remains one
+of statutory construction. Although a provision of the Act must be given a liberal
+and beneficial construction, a court or tribunal is not at liberty to give it a
+construction that is unreasonable or unnatural.” (citations omitted)
+[43] It is only if more than one interpretation is available or there is uncertainty as to the
+meaning of the words that the beneficial interpretation approach arises – Victims
+Compensation Fund Corporation v Brown13.
+This Court’s decisions
+[44] With that in mind, I turn to the decisions of this Court in which s 32 (or a predecessor
+section) has been considered.
+[45] In Q-COMP v Education Queensland (McArthur’s Case)14 Hall P considered the
+predecessor section (s 34 WorkCover Queensland Act 1996) and said:
+“There is an issue as to whether WorkCover Queensland Act 1996 (or the Workers’
+Compensation and Rehabilitation Act 2003) is in the nature of beneficial legislation.
+To the extent that the statutory measures serve as gatekeepers on the route to common
+law damages, the statutory measures are plainly not beneficial. And in Kelly v
+WorkCover Queensland [2002] 1 Qd R 496 at 498 Atkinson J decided as much.
+However, I adhere to the view expressed in State of Queensland v Q-COMP and
+Beverley Coyne (2003) 172 QGIG 1447 at 1448, that in providing benefits (not
+10 (1988) 165 CLR 1 at 9.
+11 (1984) 165 CLR 622.
+12 (1997) 191 CLR 1 at 12.
+13 (2003) 201 ALR 260 at [33] 269.
+14 (2005) 179 QGIG 491.
+
+15
+otherwise available) to workers who suffer work related injuries, the statutory
+measures are still properly characterised as beneficial. Indeed, the statutes themselves
+say as much. The main objects of the WorkCover Queensland Act 1996 are stated at
+Part 2, see s. 4(1). One of the objects is to provide benefits to workers who sustain
+injury in their employment (and for their dependents), see s. 5(1)(a). By s. 4(2) the
+objects are expressly made an aid to the interpretation of the Act. (The Workers’
+Compensation and Rehabilitation Act 2003 does not renumber the relevant sections).
+I do not however consider that characterisation of the statutes as beneficial assistance
+in the interpretation of s. 34(5). Section 34(5) is plainly an exclusionary provision.
+There is no rule that provisions by way of exception or exemption in a remedial act
+are to be given a liberal interpretation compare Rose v Secretary Department of Social
+Security (1990) 92 ALR 521 at 524. On the contrary, as Burchett J observed in
+Commonwealth v Human Rights and Equal Opportunity Commission and Another
+(1998) 152 ALR 182 at 189:
+“Where remedial legislation contains exemptions designed to strike a careful and
+practical balance between competing community interests, a court which distorts
+that balance in the name of furthering the remedy risks serving a political role, and
+in doing so, frustrating the will of parliament.”.
+If there were any doubt that s. 34(5) was about balancing of competing public
+interests, it is removed by the only relevant extrinsic material, viz. the Explanatory
+Note to the Bill which (first) introduced the subsection:
+“The exclusion criteria from the definition of injury … for psychiatric or
+psychological conditions have been strengthened in response to an increasing
+number of claims where remedial action regarding the worker’s poor performance
+(one example of reasonable management action) was the stimulus for the claim.
+…
+This clause also excludes psychiatric or psychological injuries that result from
+action being taken by WorkCover, or a self-insurer, in relation to the management
+of a worker’s compensation claim including rejection of the claim or cessation of
+an entitlement.”.
+In my view s. 34(5) should not be read so as to maximise the remedial impact of s.
+34(1) and (2).”15
+[46] His Honour was, with respect, correct in his remarks concerning the effects of
+exclusionary provisions. But the basic principle to be applied is that which is set out
+above. The task remains one of ordinary statutory construction – one where a beneficial
+interpretation of the whole of the section or chapter will be applied should more than one
+interpretation be available. It is not the case that a reader advances through the Act,
+identifying one section (or sub-section) as beneficial while another is not. The section and
+its various parts must be read in context. The correct approach is to construe s 32 in the
+ordinary way and then to call in aid the principles concerning beneficial legislation if that
+becomes necessary.
+[47] Later in his reasons in McArthur’s Case, Hall P said:
+15 Q-COMP v Education Queensland (2005) 179 QGIG 491 at 492.
+
+16
+“The concern of s. 34(5) is to remove certain psychiatric and psychological
+disorders from the statutory definition of “injury”. Where a situation arises in
+which s. 34(1) “ropes-in” a particular psychiatric or psychological disorder and s.
+34(5) excludes the same psychiatric or psychological disorder, there is an
+inconsistency which because of the use of “notwithstanding” must be resolved by
+allowing s. 34(5) to prevail.”16
+[48] That is consistent with what his Honour said in Parker v Q-COMP17 when referring to
+the scheme established by the Act:
+“On its face s. 32(5), which is an exclusionary provision, is part of that scheme.
+Because of the use of the word "despite" at s. 32(5), where s. 32(1) "ropes in" a
+psychiatric or psychological condition and s. 32(5) excludes the same psychiatric
+or psychological condition, the inconsistency is resolved by allowing s. 32(5) to
+prevail, compare Q-COMP v Education Queensland (2005) 179 QGIG 491 at 492.
+It is not legitimate to distort the balancing of competing community interests which
+the modification of s. 32(1) by s. 32(5) is intended to achieve - and the Explanatory
+Note to the Bill which introduced the forerunner of s. 32(5) showing an explicit
+intention to balance is reproduced in Q-COMP v Education Queensland, ibid, at
+592 - by limiting the scope of the expression "in the course of" or for that matter
+the expression "arising out of" in order to maximise the reach of s. 32(1).”18
+[49] In Q-COMP v Hohn19 Hall P appears to retreat slightly from the absolute position
+advanced in the decisions referred to above. He said:
+“… I should emphasise that the mere occurrence of reasonable management
+action will not insulate a disorder from characterisation as an "injury". To
+begin with, there will be cases in which the worker will decompensate before the
+occurrence of the reasonable management action reasonably taken. To say of such
+a disorder that it arose out of or in the course of reasonable management action
+would be to make a finding in the teeth of the facts. Similarly, reasonable
+management action reasonably taken, which precedes and is discrete from the
+worker's decompensation may well be found not to be reasonable management
+action which triggers the operation of s. 32(5). Whilst everything that happens in
+an employment relation may, on one use of language, be said to arise out of creation
+of the relationship, it would be risible to contend that all work-related disorders are
+denied classification as an "injury" because the worker's original appointment
+involved reasonable management action reasonably taken. Indeed, even
+contemporaneity may not suffice to justify a conclusion that the disorder arose in
+the course of reasonable management action reasonably taken. Where for example,
+a worker suffers a schizophrenic reaction to the sight of a gruesome death of a
+fellow employee, the circumstance that all occurred in an authorised rest break
+would not attract the operation of s. 32(5).
+16 Q-COMP v Education Queensland (2005) 179 QGIG 491 at 492.
+17 (2007) 185 QGIG 269.
+18 Parker v Q-COMP (2007) 185 QGIG 269 at 272-3.
+19 (2008) 187 QGIG 139.
+
+17
+If indeed it was the submission of Q-COMP at first instance that once an injury
+was in any way touched by reasonable management action reasonably taken it
+is not compensable, I agree with the Commissioner (paragraph 3 at p. 666) that
+such a submission "...overstates the effect of s. 32(5).". Indeed, in my view, the
+submission is inconsistent with Delaney v Q-COMP (2005) 178 QGIG 197. That
+case involved an appeal against a decision by an Acting Industrial Magistrate which
+teased out the transactions and events and concluded that Mr Delaney's adjustment
+disorder with mixed anxiety and depressed mood was attributable to a number of
+interactions with his superiors each of which constituted reasonable management
+action reasonably taken. There was a successful appeal to this Court. However, as
+is pointed out at [71, 015] by the learned author of Watson, Industrial Laws of
+Queensland (who appeared for Mr Delaney), Mr Delaney did not in that appeal
+challenge every finding that an interaction contributing (in some way) to Mr
+Delaney's decompensation was reasonable management action reasonably taken.
+One finding was allowed to remain in place on the appeal. In consequence, Mr
+Delaney was bound by the finding on the appeal. If the submission attributed to Q-
+COMP at first instance was correct, Mr Delaney's appeal should have failed. The
+appeal succeeded. The remaining finding of reasonable management action
+reasonably taken was treated by both parties as inconsequential so long as it stood
+alone.
+Repudiation of the proposition that s. 32(5) only operates where the reasonable
+management action is a significant contributing factor to a worker's
+decompensation, does not require embrace of the proposition that other words,
+viz., "or partly arising out of or in the course of reasonable management
+action", are to be read into s. 32(5). I respectfully adopt the view of Watson, op.
+cit., viz.:
+"To read the subsection in that way would be to read into the subsection the
+words 'or partly arising out of or in the course of'. Implying words into
+legislation is not something that courts undertake lightly. See, for example,
+what Callinan J said in Electrolux Home Products Pty Ltd v AWU (2004) 221
+CLR 309; 209 ALR 116; [2004] HCA 40; BC200405590 at [239].
+Further, the argument runs counter to the interpretation given to similar
+legislation in other jurisdictions. See, for example, Rivard v Northern
+Territory (1999) 129 NTR 1; 150 FLR 33; [1999] NTSC 28; BC9901148 at
+[30].
+It also runs contrary to logic. If there are eight stressors which gave rise to
+the injury and they all arise out of or in the course of employment only seven
+are significant contributors whereas the eighth is exceedingly minor but arises
+from reasonable management action taken in a reasonable way, where is the
+justification for denying a claimant compensation in those circumstances?".
+Each of the propositions contended for by the Commissioner and the proposition
+attributed to Q-COMP suffer from the same vice. Additional words are read into
+the statute. In my view s. 32(5) should be permitted to speak for itself. Figurative
+language and undue conceptualism are to be deprecated. In many cases, as on the
+
+18
+facts in Q-COMP v Education Queensland (2005) 179 QGIG 491 at 491 (first 3
+paragraphs), the correct application of the statutory language will be pellucidly
+clear. Doubtless, there will be difficult cases. Doubtless, it is for that reason that
+Industrial Commissioners and Industrial Magistrates are entrusted with the
+appeals.”20
+[50] In Q-COMP v Rowe21 Hall P noted that he could not recall Q-COMP advancing an
+argument of the type advanced by the Regulator in this case. He said:
+“In fairness to Q-COMP I should say that I cannot recollect an occasion on which
+(in this Court), Q-COMP has submitted that "… even if one stressor is caught by
+reasonable management action that will be sufficient to remove the
+psychiatric/psychological disorder from the definition of injury in s. 32(1) of the
+Act.". Neither have I any recollection of accepting such a proposition. Indeed, such
+a proposition is not consistent with the decision in Delaney v Q-COMP (2005) 178
+QGIG 197. In Delaney v Q-COMP, ibid, the claimant succeeded though the sixth
+stressor (not as was contended for Q-COMP in this Appeal the first stressor) was
+found to be but blemished management action. With respect to the Commissioner
+the decision in Prizeman v Q-COMP (2005) 180 QGIG 481, dealt with the converse
+proposition, viz., that if after eliminating all stressors which arose out of or in the
+course of reasonable management action reasonably taken, a stressor or stressors
+remained, the claimant was entitled to succeed. The earlier decision in Q-COMP
+v Education Queensland (2005) 179 QGIG 491 established the critical
+proposition that s. 32(5) of the Act is concerned with withdrawing injuries
+from s. 34(1) of the Act and is not concerned with nominating the "stressors"
+which may be taken into account. The passage from the Industrial Laws of
+Queensland, is by way of commentary upon the decision of this Court in Q-
+COMP v Hohn (2008) 187 QGIG 139. It is made by way of comment upon the
+rejection of the view that so long as a psychological/psychiatric injury is
+"touched" by reasonable management action reasonably taken, it will be
+withdrawn from the statutory definition of "injury" by the operation of s.
+32(5)(a) of the Act. The passage is plainly correct. It is the effect of the decision
+in Q-COMP v Hohn, ibid, that a claimant may succeed though some of the
+operative events or stressors arise out of or occur in the course of reasonable
+management action taken in a reasonable way. However, "may" cannot be read
+as "must": nor may the passage be read as asserting that an Appeal Body is at liberty
+to allow a claimant to succeed where at least one stressor does not "… arise or occur
+in the course of reasonable management action taken in a reasonable way". In all
+such cases, the Appeal Tribunal will be required to embark upon the enquiry
+whether the psychological/psychiatric injury arose out of or in the course of
+reasonable management action taken in a reasonable way.”22
+[51] Consistent with his remarks in Rowe, Hall P said the following in Q-COMP v Hochen23:
+20 Q-COMP v Hohn (2008) 187 QGIG 139 at 144-5.
+21 (2009) 191 QGIG 67.
+22 Q-COMP v Rowe (2009) 191 QGIG 67 at 71-2.
+23 Q-COMP AND Malcolm Hochen (C/2009/47) – Decision <http://www.qirc.qld.gov.au>.
+
+19
+“[15] … Section 32(5)(a) of the Act requires the insurer, Q-COMP and any
+appellate tribunal to enquire whether the psychological injury arose out of or in the
+course of reasonable management action taken in a reasonable way. The presence
+of unreasonable management action with a sufficient causal connection to the
+injury may require that a negative answer be given to the question posed by s.
+32(5)(a).”
+[52] In Davis v Blackwood24 I said:
+“[51] I agree with the reasoning of Hall P in Q-Comp v Hohn where he said that the
+mere occurrence of reasonable management action will not insulate a disorder from
+characterisation as an “injury”. In cases such as this the Commission will be aided
+by expert evidence which can assist in the assignment of weight to the various
+factors which go to the creation of maintenance of a psychiatric disorder. If the
+evidence supports a finding that the psychiatric disorder results from the
+employment being a significant contributing factor then, when one turns to consider
+s 32(5), it is important to determine to what extent, if any, there is an overlap of
+reasonable management action and other employment factors.”
+[53] In Blackwood v Adams25 I agreed26 with what Hall P had said in Hochen, namely, that an
+enquiry as to whether or not unreasonable management action was the dominant cause of
+an injury was an erroneous approach.
+[54] The history of the consideration given to s 32 (and its predecessor) is consistent with
+application of the principle cited in Bird v The Commonwealth, namely, “where two
+constructions of a Workers’ Compensation Act are possible that which is favourable to
+the worker should be preferred”. The construction favoured by this Court has been that a
+worker can suffer a compensable injury even if reasonable management action has had
+some causative effect.
+[55] Where the only cause of a personal injury is reasonable management action etc. then s
+32(5) will work to exclude it from the definition of “injury” in s 32(1). The difficulty, as
+has become painfully obvious over the years, is where a psychiatric or psychological
+disorder can be seen to have arisen from a mixture of actions including reasonable
+management action. Experience in this jurisdiction shows that it is not uncommon for
+psychiatric disorders to be the result of a number of factors.
+[56] There is another difficulty in the construction of s 32(5). The clause “arising out of” can
+be readily understood when combined with “reasonable management action” as requiring
+the demonstration of a causal relationship. But the phrase “in the course of” is not as easy
+to understand in this context. “In the course of” would, in ordinary language, be nothing
+more than a wordy way of saying “during”. The term has been interpreted as only
+requiring a temporal connection. It has caused difficulty when connected with
+“employment”, particularly in the so-called “interval” cases and to connect it to
+“reasonable management action etc.” increases the difficulty of comprehension. The High
+24 [2014] ICQ 009.
+25 [2015] ICQ 001.
+26 Simon Blackwood (Workers’ Compensation Regulator) v Adams [2015] ICQ 001 at [23].
+
+20
+Court devoted many paragraphs to an examination of the meaning of the term in Comcare
+v PVYW27 but it was concerned with an injury which occurred during an interval and,
+naturally, concentrated on the relationship the term had with employment. To then
+attempt to construe “a psychological … disorder arising …in the course of … the
+worker’s expectation … of reasonable management action …” only compounds the
+difficulty. It might be thought that the transplantation of “arising out of, or in the course
+of” into s 32(5) was not the best way of expressing Parliament’s intention.
+[57] The difficulties in construing s 32(5) support the conclusion that more than one
+interpretation of s 32 is available and that, therefore, the beneficial interpretation approach
+should be applied. In the cases decided in this Court any attempt to provide some type of
+formula or application of dominant cause has been rejected. Section 32 must be applied
+in the light of the evidence accepted by the Commission. If, after considering all the
+relevant evidence and weighing up the factors which were accepted as having given rise
+to the personal injury, the Commission forms the conclusion that any of the conduct
+referred to in s 32(5) does not, on balance, displace the evidence in favour of the worker
+then a finding in the worker’s favour must follow.
+Conclusion
+[58] For the reasons given above, the Deputy President did not err in his assessment of the
+evidence and his findings were justified by that evidence.
+[59] The appeal is dismissed.
+27 (2013) 250 CLR 246.

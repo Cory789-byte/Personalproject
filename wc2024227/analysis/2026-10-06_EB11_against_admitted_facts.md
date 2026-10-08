@@ -1,0 +1,26 @@
+# EB11 (Queensland Public Health Sector Certified Agreement No. 11, 2022) against the admitted facts
+
+**INTERNAL, 6 Oct 2026.** Source: `documents/instruments/ATT01_EB11_Public_Health_Sector_CA_2022.pdf` (text layer read). Facts are from `facts_served_303.json`. EB11 applied to the 2023–24 events; EB12 came in 2025.
+
+**Caution.** Most EB11 clauses are commitments between the parties (employer and unions), not individual rules a manager "breaches". Use them as **standards for reasonableness under s 32(5)**, not as pleaded breaches. The 9A doesn't plead EB11 breaches, and adding them would mean amending it. The Review Unit found "non-adherence to rules by management" (Factor 1) not substantiated.
+
+| EB11 clause (verbatim) | Admitted facts | Assessment |
+|---|---|---|
+| **7.1.10** "fatigue risk management is a health and safety issue and will [be managed] in accordance [with] legislative health and safety obligations"; **7.1.5(b)** the parties agree to address "fatigue risk management" | 7-hour break (284) below 10, or 8 by agreement (285); no fatigue assessment, training or implementation before 30 Jun 2024 (269–271); FRMS only "after 30 June 2024" (264); risk matrix on 10 May (219); FRMS guideline sent to HR on 20 May (222–223) | **Strongest standard.** The agreement itself treats fatigue as a WHS issue. Fits Stressor 3 |
+| **7.1.11** "The parties commit to ensure that appropriate feedback is provided to employees who raise workplace health and safety matters." | Fatigue enquiry of 8 Apr; escalated 9 Apr (244); "more than 2 weeks without any response" on 24 Apr (246); refusal 1 May, 23 days (247, 249); no response alleged 9 Apr–1 May (250). Toolkit (Ops Manual cl 10.4.1) forwarded to her, "yet to receive feedback" (214–215); no review or feedback alleged (216) | **Strong and on point.** Fatigue is a WHS matter (7.1.10), and the agreement commits to feedback |
+| **3.2.2** "involving employees and their union representatives in the decision-making processes that may affect the workplace… adequate time to understand, analyse… and respond"; **3.2.5** consultation must give "an actual and genuine opportunity to influence the outcome, before a final decision", while management keeps "the final decision" | "This new process is effective from today" (51); 19 April process (54); no ballot alleged (181); "Cory's roster will not be considered, however Cory is not yet aware of this" (221) | **Moderate.** A commitment, not an individual right, and management keeps the final say. Still a clear benchmark against same-day changes |
+| **5.1.1** "determining role allocations, hours of work… in a fair and reasonable manner"; **5.1.2** "duty of care to both staff and patients to provide a safe environment" | Repeated roster errors on his line (220, 287, 211–212); no alternative shifts alleged after 16 April (213); function critical to patient safety (289) | **Moderate**, as a general standard |
+| **9.13.1** "The roster shall be published at least 14 days in advance of each roster cycle." | **No admitted fact gives publication dates.** (Fact 111: the managers' on-call roster for PP24 was circulated on 13 May, the day it began. That's the managers' on-call roster, not the operators' work pattern) | **Unproven.** Check publication of PP20/PP21 (Mar 2024). Repo copies exist; PP21 is labelled "NO_SHEPHERD_LINE". Needs evidence before use |
+| **9.14.3–9.14.4** "committed to working with its employees… to address any rostering practices or concerns"; "genuinely engage… through consultation" | 16 Apr roster concerns (211); "working to fix this error" (212); no alternative shifts alleged (213); "Cory's roster will not be considered" (221) | **Weak to moderate.** 9.14 is framed around collective requests |
+| **10.3.5** written decision "within 21 days" on a request to change ordinary hours | Application 31 Aug 2023 (30); approved 27 Sep 2023 (37): 27 days | **Technical only.** It was approved, so don't run it |
+| **11.7.1** requests to increase part-time hours "should not be unreasonably refused" | 7 Aug 2023 email citing cl 11.7 (26–27); full time approved (37–38) | **Not breached** |
+| **3.8.2(c)** pays "corrected in a timely manner" (payroll working group task) | Payroll's direction of 3 May (183, 190); AVAC 28 May (196–197); "Part Completed" (203) | **Weak.** A working-group objective, not a manager's rule |
+| **3.9 / Sch 2 E12** grievances follow "HR Policy E12 Individual Employee grievances" | — | **E12 is not in the repo.** The 14-day timeframe can't be verified until it's obtained |
+| **Sch 2 C34** "Paid Meal Breaks for Switch Attendants Who are Continuous Shift Workers or Sole Operators" | No admitted facts | Note only; not on the record |
+| **7.2** psychosocial audits "as requested through a HCF" | No request alleged | Not engaged |
+
+## Bottom line
+- **Use:** 7.1.10 + 7.1.11 (fatigue is a WHS issue, and feedback is committed) against the 23 days, the toolkit and the absence of an FRMS; 3.2 against "effective from today" and "will not be considered… not yet aware".
+- **Verify before use:** 9.13.1 publication dates; E12 timeframes.
+- **Don't run:** 10.3.5 and 11.7 (outcome favourable), 3.8, C34, 7.2.
+- **How:** as standards in cross-examination and submissions ("the employer's own agreement commits to…"). No amendment to the 9A.

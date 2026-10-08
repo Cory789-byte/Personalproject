@@ -1,0 +1,1733 @@
+Title: Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54
+
+URL Source: https://archive.sclqld.org.au/qjudgment/2025/QIRC25-054.pdf
+
+Published Time: Wed, 26 Feb 2025 00:05:23 GMT
+
+Number of Pages: 59
+
+Markdown Content:
+QUEENSLAND INDUSTRIAL RELATIONS COMMISSION 
+
+CITATION:  Benjamin v Sharp & Ors (Recusal) [2025] QIRC 054 
+
+PARTIES:  Benjamin, Louise 
+
+(Complainant) 
+
+v
+
+Sharp, Julie 
+
+(First Respondent) 
+
+&
+
+Hendy, Lisa 
+
+(Second Respondent) 
+
+&
+
+Parole Board Queensland 
+
+(Third Respondent) 
+
+&
+
+State of Queensland (Queensland Corrective Services) 
+
+(Fourth Respondent) 
+
+&
+
+Jackson, Tracey 
+
+(Fifth Respondent) 
+
+CASE NO:  AD/2024/36 
+
+PROCEEDING:  Application for recusal 
+
+DELIVERED ON:  21 February 2025 
+
+MEMBER: 
+
+HEARD AT: 
+
+Dwyer IC 
+
+On the papers 2
+
+ORDER:  Ms Benjamin’s application for my recusal is refused 
+
+CATCHWORDS:  COURTS AND JUDICIAL OFFICERS –INDUSTRIAL COMMISSIONERS –DISQUALIFICATION FOR INTEREST OR BIAS – GENERALLY – application for recusal –allegations of apprehended bias – allegation of actual bias – where the complainant is a legal practitioner – where the complainant filed pleadings containing scandalous material impugning the integrity of a judicial officer, another legal practitioner and the Supreme Court of Queensland – where scandalous material, if proven, could arguably be characterised as a perversion of the course of justice – where arguably no relevant basis for inclusion of scandalous material – alternatively, if relevant, where pleading remains unnecessarily indiscreet – where Commission acted on its own motion to suppress file – where oral reasons for suppression order pronounced in open court – where the parties have liberty to apply to lift suppression order – where the complainant has not done so – where allegations of bias emanate from various case management rulings in the conduct of the proceeding – whether any apprehended or actual bias arises – grounds for recusal not made out – application refused 
+
+LEGISLATION:  Industrial Relations Act 2016 (Qld) s 451 
+
+Public Interest Disclosure Act 2010 (Qld) s 40, s 44 
+
+CASES:  Attorney-General v Di Carlo [2017] QSC 171 
+
+Attorney-General v Lovitt QC [2003] QSC 279 
+
+Attorney-General (Qld) v Matthews [2020] QSC 258 
+
+AZC20 v Secretary, Department of Home Affairs 
+
+[2023] FCA 1252 
+
+Concrete Pty Ltd v Parramatta Design &Developments Pty Ltd (2006) 299 CLR 577 3
+
+Ebner v Official Trustee in Bankruptcy (2000) 205 CLR 337 
+
+Gambaro v Maycomb Mobile Pty Ltd [2019] FCAFC 144 
+
+Johnson v Johnson (2000) 201 CLR 488 
+
+Legal Services Commissioner v Sewell (No 2) [2023] QCAT 374 
+
+Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 
+
+QYFM v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs & Anor 
+
+(2023) 97 ALJR 419 
+
+R v Kay; Ex parte Attorney-General [2017] 2Qd R 522 
+
+Reid v Commercial Club (Albury) Ltd [2014] NSWCA 98 
+
+Re JRL; Ex parte CJL (1986) 161 CLR 342 
+
+Stewart v State of Queensland (Queensland Health) 
+
+[2024] QIRC 103 
+
+Vakuata v Kelly (1989) 167 CLR 568 
+
+Wainohu v New South Wales (2011) 243 CLR 181 
+
+Reasons for Decision  
+
+> [1]
+
+By email dated 20 November 2024, and further supporting material filed 28 November 2024, Ms Louise Benjamin, the complainant, seeks an order that I recuse myself from further involvement in these proceedings by reason of apprehended and actual bias. 4 
+
+> [2]
+
+Judicial recusal is predominantly a discrete area of the common law. It is not always necessary to embark on a detailed explanation of the nature of the case pleaded by an applicant for recusal. However, in this matter there are several interactions regarding the pleadings that have given rise to the assertions of bias. In those circumstances it will be necessary to establish a broad understanding of Ms Benjamin’s substantive matter to place Ms Benjamin’s complaints into the appropriate context. Notwithstanding this, the pleading that is central to the recusal application is attended by significant controversy. As these reasons will reveal, it would be inappropriate for the precise detail of that pleading to be particularised. 
+
+Background  
+
+> [3]
+
+Ms Benjamin is permanently employed as a Legal Officer (PO4) in the Legal Services Unit of Queensland Corrective Services (Parole Board Queensland) (‘the Parole Board’). At various times between November 2021 and May 2022, Ms Benjamin performed higher duties as the Acting Director of the Legal Services Unit during a period of absence of the incumbent Director, Ms Lisa Hendy (the second respondent). Ms Benjamin was more recently on a secondment as a Principle Legal Officer with the Department of Justice and Attorney-General.  
+
+> [4]
+
+In early April 2022 (shortly before Ms Hendy’s return to work) Ms Benjamin lodged what she contends is a Public Interest Disclosure (‘PID’). 1 The precise details of the PID are not before me though the relevant parts are referred to in Ms Benjamin’s Statement of Facts and Contentions (‘SOFC’) and are discussed in more detail later in these reasons. Suffice to say the PID includes an allegation that Ms Hendy and a Justice of the Supreme Court engaged in certain official misconduct.  
+
+> [5]
+
+It is not yet clear whether the details of Ms Benjamin’s allegation about Ms Hendy were known to Ms Hendy when she returned from leave in late April 2022. Upon Ms Hendy’s return to work there appears to have been a rapid breakdown in her working relationship with Ms Benjamin. Between May and November 2022 there was a continuing (and expanding) deterioration that inter alia (according to Ms Benjamin) allegedly extended to her being denied a handover for a new role and denied access to certain systems required for her to perform her work.  
+
+> [6]
+
+Also, during this period there is (undisputed) evidence of dozens of texts messages sent by Ms Benjamin to Ms Hendy, predominately between April and July 2022 (‘the messages’). Many of the messages appear to be unsolicited and many were not replied to by Ms Hendy. The messages can generally be described as a mixture of messages that are highly emotional and (at times) passive/aggressive. They appear to be underpinned by a unilateral familiarity on the part of Ms Benjamin. The full history of the relationship  
+
+> 1The respondents will contend that the matters raised in this complaint do not have the status of a PID. That is a controversy to be resolved at another time. For the purposes of these reasons, I will refer to that complaint as a PID. 5
+
+between Ms Hendy and Ms Benjamin is unclear but, subject to this history being known, the messages are inappropriately familiar. Very little about the messages would objectively be regarded as a professional or appropriate exchange for a subordinate employee to have with a supervisor.  
+
+> [7]
+
+The breakdown in the working relationship culminated in Ms Benjamin’s eventual removal from her role in the Legal Services Unit at the Parole Board. This occurred on or about 8 November 2022. During this period Ms Benjamin also filed a complaint (in some of the same terms as her PID) with the Ethical Standard Group (‘ESG’). 2 
+
+> [8]
+
+In accordance with s 40 of the Public Interest Disclosure Act 2010 (Qld) (‘PID Act’) Ms Benjamin contends that reprisal action was taken against her by the respondents after she made the PID. Pursuant to s 44 of the PID Act, Ms Benjamin has elected to pursue her reprisal complaint under the Anti-Discrimination Act 1991 (Qld) (‘AD Act’). The complaint was initially accepted in the Queensland Human Rights Commission (‘QHRC’) but was unable to be resolved.  
+
+> [9]
+
+On 7 May 2024 the complaint was then subsequently referred to the Queensland Industrial Relations Commission (‘the Commission’) and became matter AD/2024/36. The proceedings are currently allocated to me for the purposes of case management.  
+
+> [10]
+
+What is plainly evident from the material currently on the file is that the dispute in this matter will centre on the reasons for Ms Benjamin’s exit from the Parole Board in or about November 2022. In very simple terms, Ms Benjamin will contend that her removal was because she made the PID. The respondents, no doubt (in part) relying on the conduct of Ms Benjamin evident from the messages, will argue that Ms Benjamin brought about her own demise through her inappropriate workplace conduct. They will also argue that the complaint of reprisal within the meaning of s 40 of the PID Act cannot be made out in the absence of a PID.  
+
+> [11]
+
+It is in this broad setting that my role as case manager of this matter has prompted certain actions (and reactions) from me in respect of the pleadings and Ms Benjamin’s conduct of the proceedings. Ms Benjamin now seeks to characterise my rulings and comments as objectively demonstrating bias. 
+
+Grounds for recusal  
+
+> [12]
+
+The recusal application relies on eight distinct grounds. Ground two alleges actual bias, asserting that I have a ‘vested interest in the outcome of the proceedings’ or that I am desperate to ‘protect all judicial officers of the Supreme Court at all costs’. The remaining seven grounds allege apprehended bias. The particulars of all grounds are as follows:  
+
+> 2This complaint has been designated as a PID. This occurred in August 2023. 6
+
+• Ground One : On 17 July 2024, I ordered the removal of Ms Benjamin’s interlocutory application for directions and supporting affidavit filed 27 June 2024 from the file. Ms Benjamin alleges the affidavit contained ‘critical evidentiary material’ not forwarded with the original QHRC complaint. Ms Benjamin contends that the removal of the affidavit suggests that I do not want any evidence on the file which may impact negatively upon the respondents or Justices of the Supreme Court. 
+
+• Ground Two : During the mention on 23 August 2024, Ms Benjamin contends that I engaged in conduct intended to intimidate, bully, or embarrass her. Ms Benjamin complains that my reaction to a controversial pleading in her material was excessive and characteristic of someone ‘overly invested’ in the subject matter of the proceedings. Ms Benjamin further seeks to illustrate how my conduct, in her contention, does not comply with the Commission’s Code of Conduct for members. 
+
+• Ground Three : By correspondence sent via the Registry on 24 September 2024 and 25 September 2024, I excessively pressured Ms Benjamin to engage legal representation in the proceeding. As a result, I am alleged to be aligned with the respondents’ likely tactic of “burying” Ms Benjamin in prohibitive legal costs. 
+
+• Ground Four : On 6 September 2024, acting on the Commission’s own motion, I issued an unjustified suppression order to seal the file that allegedly was not in accordance with the law. The decision to issue the suppression order without hearing from the parties constitutes a breach of natural justice and procedural fairness. 
+
+• Ground Five : On 11 October 2024, given the suppression order in place, I allegedly stated that Ms Benjamin cannot have access to the transcripts or recordings from the proceedings without first making an application to have the suppression order lifted, thus denying her the transcripts. 
+
+• Ground Six : I allegedly refused to provide written reasons for decision for the suppression order issued 6 September 2024. 
+
+• Ground Seven : On 2 October 2024, I allegedly threatened Ms Benjamin when I stated that if Ms Benjamin made an application to lift the suppression order, it may draw the attention of regulatory bodies to her conduct. 
+
+• Ground Eight : At a mention on 23 August 2024, and further mentions up to and including 25 October 2024, I made comments to persuade Ms Benjamin to accede to the respondents’ requests for extensions of time to comply with directions. According to Ms Benjamin, the comments amount to excessive intervention, such that I have “descended into the arena” and “appear to be taking sides”. 
+
+Directions for submissions and hearing 7
+
+[13] Subsequent to the making of the recusal application I issued directions to the parties for the filing of submissions. The parties agreed that the matter would be dealt with on the papers. 
+
+[14] I do not intend to summarise the parties’ submissions at length in these reasons. The salient portions are discussed in my consideration of the matter. The respondents oppose my recusal. 
+
+Relevant law 
+
+[15] The test for an apprehension of bias requiring disqualification of a judicial officer is not opaque. A judge is disqualified if a fair-minded lay observer might reasonably apprehend that the decision-maker might not bring a fair, impartial and independent mind to the resolution of the question the judge is required to decide. 3
+
+[16] Recently in QYFM v Minister for Immigration, Citizenship, Migrant Services and Multicultural Affairs & Anor (‘ QYFM ’), 4 Kiefel CJ and Gageler J (as their Honours then were) identified the inquiry as involving the following steps:  
+
+> Application of the criterion was identified in Ebner , and has been reiterated, logically to entail: (1) identification of the factor which it is said might lead a judge to resolve the question other than on its legal and factual merits; (2) articulation of the logical connection between that factor and the apprehended deviation from deciding that question on its merits; and (3) assessment of the reasonableness of that apprehension from the perspective of a fair-minded lay observer.
+
+[17] Judicial officers are not expected to wait until the end of a case before they begin to contemplate the issues arising in proceedings, or to sit in silence while evidence is advanced and arguments are presented. 5 In fact, such an approach can be regarded as poor judicial conduct. 6 On the contrary, it is entirely proper for judicial officers to form tentative or preliminary opinions on matters in issue and evidence. Moreover, litigants (particularly those who are self-represented) are usually assisted by hearing those opinions, and being given an opportunity to deal with them. 7
+
+[18] Such conduct does not, without more, give rise to an apprehension of prejudice, partiality, or prejudgment. 8 The question is not whether a decision-makers mind is blank; it is whether it is open to persuasion. 9              
+
+> 3Ebner v Official Trustee in Bankruptcy (2000) 205 CLR 337, [6] (‘ Ebner ’).
+> 4(2023) 97 ALJR 419, [38].
+> 5Johnson v Johnson (2000) 201 CLR 488, [13] (‘ Johnson ’).
+> 6Vakuata v Kelly (1989) 167 CLR 568, 571.
+> 7Johnson (n 5) [13].
+> 8Concrete Pty Ltd v Parramatta Design & Developments Pty Ltd (2006) 299 CLR 577.
+> 9Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507, [71].
+
+8
+
+[19] The law concerning actual bias has been neatly summarised by Gleeson JA (Emmett JA and Tobias AJA agreeing) in Reid v Commercial Club (Albury) Ltd :10 
+
+[68] A finding of actual bias is a grave matter: Sun v Minister for Immigration and Ethnic Affairs (1997) ( Sun v Minister ) 81 FCR 71 at 127 per Burchett J. Authority requires that an allegation of actual bias must be distinctly made and clearly proved; that such a finding should not be made lightly; and that cogent evidence is required: South Western Sydney Area Health Services v Edmonds [2007] NSWCA 16 at [97] and the authorities there cited. 
+
+[69] Where the issue is actual bias in the form of prejudgment, the appellant had to establish that the primary judge was “so committed to a conclusion already formed as to be incapable of alteration, whatever evidence or arguments may be presented”: Minister for Immigration and Multicultural Affairs v Jia Legeng [2001] HCA 17; 205 CLR 507 at [72] per Gleeson CJ and Gummow J (Hayne J agreeing at [176]). See also Kirby J at [127]. 
+
+…
+
+[71] In the same case, Hayne J noted at [185] the several distinct elements underlying the assertion that a decision-maker has prejudged or will prejudge an issue, or the assertion that there is a real likelihood that a reasonable observer might reach that conclusion. The first is the contention that the decision-maker has an opinion on a relevant aspect of the matter in issue in the particular case. The second is the contention that the decision-maker will apply that opinion to the matter in issue. The third is the contention that a decision-maker will do so without giving the matter fresh consideration in light of whatever may be the facts and arguments relevant to the particular case. 
+
+[72] His Honour observed at [186] that allegations of actual bias through prejudgment often fail at the third step he had identified. This was because notwithstanding whatever expression of preconceived opinions by the decision-maker, it does not follow that the evidence will be disregarded. 
+
+[73] The test of actual bias in the form of prejudgment requires an assessment of the state of mind of the judge in question: Michael Wilson & Partners Limited v Nicholls & Others [2011] HCA 48; 244 CLR 427 at 437 [33]. However, actual bias need not be confined to an intentional state of mind. Bias may be subconscious, provided it is real: Bilgin v Minister for Immigration and Multicultural Affairs (Bilgin v Minister ) (1997) 149 ALR 281 at 289-290 per Finkelstein J; Sun v Minister at 127 per Burchett J and 135 per North J. As Finkelstein J said in Bilgin v Minister at 290: 
+
+“The wrong involved is the failure to decide a case impartially. Whether that failure was deliberate or not should be beside the point insofar as the validity of the decision is concerned.” 
+
+[20] Judges do not choose their cases; and litigants do not choose their judges. 11  It is important that judicial officers do not too willingly yield to applications of this nature in a manner that would directly or indirectly encourage applications for judicial recusal as a strategy by parties to litigation seeking a hearing from a judge who may be more sympathetic to  
+
+> 10
+
+[2014] NSWCA 98.  
+
+> 11
+
+Ebner (n 3) [19]. 9
+
+their cause. To do so would be an abdication of judicial function. 12  Mason J illustrates this point in Re JRL; Ex parte CJL :13  
+
+> Although it is important that justice must be seen to be done, it is equally important that judicial officers discharge their duty to sit and do not, by acceding too readily to suggestions of appearance of bias, encourage parties to believe that by seeking the disqualification of a judge, they will have their case tried by someone thought to be more likely to decide the case in their favour .
+
+(Emphasis added) 
+
+Relevant chronology  
+
+> [21]
+
+Ms Benjamin’s submissions tend to focus on selected aspects of our interactions. Further, they occasionally extend to assertions that bear no resemblance to objective facts at all. In those circumstances it is necessary to outline the full factual context surrounding each incident she complains of. This chronology of relevant events (with observations and explanations) will assist to establish a fairer and more objective context within which Ms Benjamin’s assertions of apprehended or actual bias can be evaluated. 
+
+Overview  
+
+> [22]
+
+It ought to be noted at the outset that, following the referral of this matter to the Commission from the QHRC, the matter has been allocated to me for the purposes of case management only. With the exception of interlocutory matters, I will not play any role in deciding the substantive complaint of reprisal.  
+
+> [23]
+
+In the usual course of events, the role of a member case managing a matter will include, but is not limited to, convening a conciliation conference at first instance, then issuing directions to the parties (in a standard form) requiring the filing of SOFCs.  
+
+> [24]
+
+Following the parties’ compliance with the directions it is not uncommon to convene a further conciliation conference. If the second conciliation conference is declined or does not produce a resolution of the matter, the case managing member will refer the file back to the Registry for allocation to another member who will proceed to hear the matter.  
+
+> [25]
+
+Additionally, a member case managing a matter may also be required to hear and determine interlocutory applications or to otherwise assist the parties to resolve disputes about the progress of the matter. In their most simple form, this will typically include e.g. considering requests for extensions of time to comply with existing directions, or applications dealing with disputed disclosure or pleadings. Such applications can also include applications to partially or wholly dismiss pleadings. An application of this    
+
+> 12 AZC20 v Secretary, Department of Home Affairs [2023] FCA 1252, [12].
+> 13 (1986) 161 CLR 342. 10
+
+nature was made in these proceedings on 8 November 2024 and is in abeyance pending the resolution of this recusal application.  
+
+> [26]
+
+While concerns about apprehended or actual bias are no less relevant because they pertain to a member case managing a matter, it is important to reiterate that my role in the conduct of these proceedings would not typically extend to making final determinations on matters of substance. Further, even where I can be asked (on application) to dismiss a pleading or e.g. refuse to order disclosure etc, such decisions can be appealed to the Industrial Court of Queensland (‘the Court’).  
+
+> [27]
+
+I have not made any decision in respect of Ms Benjamin’s proceedings that might be characterised as a final determination on a matter of fact or law relevant to the substance of Ms Benjamin’s claims against the respondents. To the extent I have made orders which Ms Benjamin now seeks to impugn, they have been made with her full knowledge and, at least in one instance, have been accompanied by oral reasons made available on her request. 14  
+
+> [28]
+
+Despite Ms Benjamin’s characterisation of these orders (and my other rulings) as giving rise to apprehended or actual bias, Ms Benjamin (who is a lawyer) has failed on each occasion to exercise her right to appeal any order or ruling which aggrieved her. This is so, notwithstanding that Ms Benjamin has had numerous appearances before me between May and October 2024 and ample opportunity to be heard on these matters and to (repeatedly) hear my explanations and reasons when requested.  
+
+> [29]
+
+Ms Benjamin must be assumed to have a level of legal competency commensurate with her qualifications, her asserted skill, and her experience. In those circumstances it is more than a little perplexing that, rather than articulate her desire to be heard on matters that concern her, or to press for written reasons explaining orders or rulings, she has (in many instances) made no complaint when the opportunity was available to her. In some instances (discussed below) she has expressed apparent consent to my rulings, only to complain about them four months later.  
+
+> [30]
+
+Additionally, having expressed a consistent objection to my order to seal the file in these proceedings, Ms Benjamin has taken no steps to appeal my decision (even if only for the alleged lack of reasons that she says undermine it). Given her legal qualifications and assumed competence, Ms Benjamin must be presumed to have known her appeal rights but to have eschewed them in favour of this application.  
+
+> [31]
+
+Notwithstanding these other avenues that she must have known were available to her, Ms Benjamin’s election to challenge my partiality is additionally a matter within her rights as a litigant. Ms Benjamin’s right to bring this application is not doubted. Further, the allegation she now makes about me in respect of actual bias is very serious. In the  
+
+> 14 See Transcript of Proceedings dated 2 October 2024. 11
+
+circumstances, the matters she has outlined giving rise to this recusal application must be given careful consideration. 
+
+Conciliation conference  
+
+> [32]
+
+In terms of the relevant chronology this matter was first before me for a (first) conciliation conference on 27 May 2024. The matter was unable to be resolved. The conference was transcribed however the transcript ends when the parties broke for private conference. In the ordinary course of events, where a first conciliation conference fails to achieve a resolution, the Commission will issue standard direction to the parties requiring inter alia 
+
+the filing of SOFC.  
+
+> [33]
+
+For reasons set out more fully below, it is uncontroversial that the agreed position of the parties at the close of this conciliation conference was that, instead of issuing directions, the matter would be held in abeyance for a period of 2 months (until late July 2024). This was because Ms Benjamin was anticipating the completion of an investigation report which (presumably) would provide some assistance in identifying or narrowing the issues between the parties. Consequently, the matter was placed into a short abeyance, to be further actioned in late July.  
+
+> [34]
+
+On 27 June 2024, without direction or notice, Ms Benjamin filed an application in proceedings (‘the application’), an affidavit (‘the affidavit’), and submissions (‘the submissions’). Ms Benjamin’s application was for directions to be made for the filing of SOFCs and was ‘accompanied by an affidavit that included material that was not forwarded from the QHRC’ and 12 pages of written submissions. 15  
+
+> [35]
+
+The filing of the application, affidavit, and submissions in this manner was perplexing given the agreed position of the parties for the matter to remain in abeyance until late July 2024. Additionally, having regard to the application, it was unnecessary given the procedures ordinarily adopted by the Commission to direct and manage the conduct of such proceedings which commence with a direction to parties to file SOFCs. Ms Benjamin only had to email the Registry and ask for those directions to issue.  
+
+> [36]
+
+Accordingly, a mention of the matter was scheduled for 9 July 2024 to ascertain what Ms Benjamin was seeking to achieve. 
+
+Mention on 9 July 2024  
+
+> [37]
+
+To assist Ms Benjamin to understand why I was querying the recent filing of her application, affidavit, and submissions, I set out for her the basis of my understanding that the matter was to be adjourned until a date in late July 2024. 16    
+
+> 15 Ms Benjamin’s submissions filed on 28 November 2024, [7].
+> 16 T 1-2, ll 15-45. 12
+> [38]
+
+I also sought input from the respondents as to their understanding of this issue. The representative for the respondents confirmed that my understanding of the adjournment was in accord with theirs. Additionally, the respondent’s representative took the opportunity to outline several concerns they held with respect to the state of Ms Benjamin’s proposed SOFC which had been filed with the application, and several other procedural concerns. 17  
+
+> [39]
+
+Ms Benjamin did not dispute the expressed mutual understanding of the agreed adjournment of the matter at the conclusion of the conference. Instead, when asked to explain her deviation from the agreed course, she simply responded that she now felt the investigation would take longer than anticipated and wanted to advance the matter. 18  
+
+> [40]
+
+Had Ms Benjamin advised the Registry that she wished to advance the matter when she formed that view, it would have been a simple matter for me to issue the standard directions issued to parties after the initial conciliation conference. Those directions include inter alia a direction for the filing of SOFCs. There would have been no requirement for Ms Benjamin to file an application or to prepare an affidavit and submissions.  
+
+> [41]
+
+In circumstances where Ms Benjamin had filed voluminous unsolicited and unnecessary material (including 12 pages of submissions), and where the respondents were foreshadowing a series of objections that would need to be dealt with, I considered the most efficient way to deal with Ms Benjamin’s application, affidavit, and submissions was to not deal with it and to simply revert to the standard post-conciliation directions. 19  
+
+> [42]
+
+I plainly informed the parties present at the mention on 9 July 2024 of my intention to do this. While I accept that I did not expressly state that I was doing this instead of dealing with Ms Benjamin’s application, that ought to have been implicit from the manner in which I addressed the parties as to my intention to issue directions. Ms Benjamin made no attempt to object and indeed confirmed her consent to the directions being issued and the time frame proposed. 20  
+
+> [43]
+
+The transcript also reflects that I went to some lengths to explain to Ms Benjamin what those directions would look like. Additionally, I invited Ms Benjamin to let my chambers know if she felt constrained in any way by the prescriptive nature of the standard directions. I set a time frame for compliance by Ms Benjamin and sought her response. Ms Benjamin agreed she could comply with the time frame and raised no objection. Further, I informed both parties of my intention to amend the page limits that were      
+
+> 17 T 1-3, ll 35-45 to T 1-4, ll 1-13.
+> 18 T 1-2, ll 30-40 and T 1-3, ll 10-35.
+> 19 Industrial Relations Act 2016 (Qld) s 447(2).
+> 20 T 1-4, ll 15-35. 13
+
+typically stipulated with respect to SOFCs from 10 pages to 15. I did so as a precaution against either party feeling constrained in their pleadings. 21  
+
+> [44]
+
+The transcript of proceedings reflects that both parties agreed to the issuing of standard directions. It further reflects that neither party raised any objection and in particular, that Ms Benjamin did not further enquire about or press me to deal with the unsolicited application, affidavit, and submissions she had filed.  
+
+> [45]
+
+Having regard to the exchange between us reflected in the transcript of the proceedings on 9 July 2024, Ms Benjamin appeared to have understood that the directions I proposed to issue were essentially the remedy she sought in her application.  
+
+> [46]
+
+On 10 July 2024, I issued the standard directions to the parties. Those directions provided a timetable for the filing of SOFCs by each party, and for the disclosure of documents relied on by each party. They also foreshadowed a further conciliation conference at the conclusion of the timetable set out in the directions. 
+
+Order to remove application and affidavit from the file  
+
+> [47]
+
+On 17 July 2024 I issued orders that the unsolicited application, affidavit, and submissions filed by Ms Benjamin on 27 June 2024 be removed from the file. The order was made of the Commission’s own motion and without advance notice to the parties. 22  
+
+> [48]
+
+By way of background, I note that it is not uncommon for the Queensland Industrial Commission Registry (‘the Registry’) to accept documents for filing without consulting the member of the Commission responsible for the conduct and management of the file in question. It is trite to note that the acceptance by the Registry of a document filed by a party does not preclude the subsequent refusal by a member of the Commission to accept the filed document, either on objection by another party, or by its own motion in the appropriate circumstances.  
+
+> [49]
+
+The decision-making burdens carried by judicial office are of broad ambit. Despite the sinister pall now cast over this order by Ms Benjamin, the order was simply a product of an intra-chambers administrative consideration about whether the hard copies of these documents ought to be added to the file. 23  
+
+> [50]
+
+While I appreciate that it was not expressly stated on 9 July 2024, the transcript reflects that I dealt with Ms Benjamin’s application by not dealing with it. I did so primarily because her application and supporting material were unnecessary but more importantly, I also felt that not dealing with her (unnecessary) application was the most efficient way     
+
+> 21 T 1-4 to T 1-5.
+> 22 Industrial Relations Act 2016 (Qld) s 451(2).
+> 23 The practice of the Registry is to maintain both electronic and hard copy files in all matters. When a file is allocated to a member it is in hard copy form. 14
+
+to avoid the need, delay and cost of dealing with the objections being foreshadowed by the respondents.  
+
+> [51]
+
+In circumstances where Ms Benjamin had every opportunity to object but did not, and where she instead gave every impression that she consented to the manner with which I was dealing with the matter, I considered that Ms Benjamin was satisfied with the approach I adopted on 9 July 2024. In those circumstances I did not consider it controversial to remove those unnecessary documents from the file as, plainly, they served no purpose relevant to the proceedings at this stage.  
+
+> [52]
+
+A copy of the order removing the documents from the file was issued to the parties on or about 17 July 2024. It was therefore not an order made by stealth. Upon receipt of the order, it was entirely open for Ms Benjamin to contact my chambers via the Registry and seek to be heard about any concerns she held, or to seek reasons, or even to appeal my decision to the Court for the lack of reasons.  
+
+> [53]
+
+Despite numerous mentions of this matter since 17 July 2024, Ms Benjamin has never taken the opportunity to raise any objection about the order with me or to seek my reasons for it. It is not until her recusal application, some 4 months later, that Ms Benjamin has now seen fit to raise a complaint.  
+
+> [54]
+
+I add for completeness that the effect of my order removing these materials from the file has not dispatched them to oblivion. If, as she says, the affidavit contains ‘vital evidence’ for her case, Ms Benjamin has always been at liberty to apply to have those documents reinstated to the file. She is equally at liberty to simply file it again, either now or at the juncture in her proceedings when other affidavits addressing material facts are being filed.  
+
+> [55]
+
+It is difficult to see how the order removing the application, affidavit, and submissions from the file could be more inconsequential to Ms Benjamin substantive proceedings. 
+
+The mention on 23 August 2024 
+
+i. Adjourning the Notice of Non-party Disclosure applications  
+
+> [56]
+
+Following the issuing of directions on 10 July 2024 Ms Benjamin filed a number of documents. Firstly, Ms Benjamin filed her SOFC in accordance with the directions on or about 30 July 2024. 24   
+
+> 24 There was some uncertainty at the mention about whether the SOFC had been accepted for filing, but it was ultimately filed (correctly) on 15 August 2024. T 3-13 to T 3-14. 15
+> [57]
+
+Additionally, Ms Benjamin filed two Notices of Non-Party Disclosure (‘NNPDs’) directed at ‘Ashdale’, the company responsible for inter alia the independent investigation of Ms Benjamin’s workplace complaints. 25  
+
+> [58]
+
+It is unclear why Ms Benjamin filed two NNPDs. The first NNPD sought disclosure of:  
+
+> Investigation report or findings for Reprisal investigation QCS Ref c/23/00209
+> [59]
+
+The second NNPD sought disclosure of:             
+
+> All documents, records and electronic recordings on the file to date for the reprisal investigation QCS Ref C/23/00209, including interim reports produced for the Crime and Corruption Commission.
+> [60]
+
+On 9 August 2024, the Registry received correspondence from Ashdale (the investigators) notifying their objection to the NNPDs pursuant to Rule 64E of the 
+
+Industrial Relations (Tribunals) Rules 2011 (‘the Rules’). Amongst the reasons stated for the objection by Ashdale was that the investigation was incomplete. Additionally, Ashdale contended that disclosure of various documents at this stage of the investigation might undermine the integrity of the process. Consequently, the matter was scheduled for mention on 23 August 2024.  
+
+> [61]
+
+At the mention on 23 August 2024, Ms Benjamin appeared on her own behalf. A representative from Ashdale appeared, and the respondents were represented by Counsel.  
+
+> [62]
+
+Having reviewed the NNPDs and the objections raised by Ashdale, I formed a preliminary view that while the report in question (when available) would undoubtedly be relevant to these proceedings, Ms Benjamin’s NNPD applications were premature in circumstances where the report did not exist.  
+
+> [63]
+
+Further, having read the grounds for objection cited by Ashdale, I was inclined to agree that the pre-emptive release of documents or records in the possession of the investigator, in a fragmented way, could undermine the integrity of the investigation and, to a lesser extent, potentially mislead the parties where the effect of such material on the ultimate investigation findings was not yet apparent. Additionally, I also (on a preliminary basis) considered that the description of other documents in the NNPDs was arguably either too brief or too vague.  
+
+> [64]
+
+At the outset of the mention, it was quickly established that the investigation report was incomplete and that some interviews had not yet even taken place. 26  It was therefore not going to be possible to make an order for the release of a report that did not exist.    
+
+> 25 One was filed on 26 July 2024, the other on 2 August 2024.
+> 26 T 3-2, ll 30-40. 16
+> [65]
+
+Having regard to the remaining issues it seemed to me that the NNPDs, while directed at the disclosure of relevant material, were premature. I communicated this view to Ms Benjamin and clearly explained to her that I could see no reason why she would not receive the report when it was ready, but that there was little utility in pressing her applications at a time when they were liable to be dismissed. 27  
+
+> [66]
+
+Not unlike the mention on 9 July 2024, I determined that the best and most efficient approach to the NNPDs was to not deal with them, although on this occasion I determined to defer dealing with them (by adjournment) rather than not deal with them at all.  
+
+> [67]
+
+The alternative to this would be to hear the parties on the NNPD applications which would likely require us to descend into a complex dispute. The proper hearing of such a dispute would inevitably require written submissions from the parties and Ashdale, and possibly oral evidence at a hearing. It would also require the preparation of written reasons. All of this would take at least 2-4 months to schedule and complete (if not longer), and at cost to the respondents, Ashdale, and the taxpayers of Queensland. Such an exercise might also expose Ms Benjamin to an order for costs.  
+
+> [68]
+
+The transcript of the mention records that I extensively explained to Ms Benjamin that the best course of action in my view was an adjournment of her NNPDs. I clearly explained this would be for a fixed period and recognised her desire to ensure there was not inordinate delay. Having said that, I observed that such investigations invariably took significant time to complete. 28  
+
+> [69]
+
+In order to assuage Ms Benjamin’s concerns about delay of disclosure, the transcript reflects that I went beyond what might otherwise be expected of me in the circumstances. The transcript reflects that I suggested to Ms Benjamin other ways in which she might gain access to some of the documents she was pursuing in the interim. For example, I queried whether she might pursue her disclosure requests directly to various respondents who may have some of the documents she was seeking in their possession. 29  
+
+> [70]
+
+Ironically, in offering this guidance to Ms Benjamin it might be regarded by a fair-minded observer that I was providing Ms Benjamin with assistance to the detriment of the respondents. But in fact, I was attempting to aid the progress of this matter for the benefit of all parties by suggesting ways to reduce conflict around the issue of disclosure so that the matter might more efficiently and expeditiously progress to final determination.  
+
+> [71]
+
+Ms Benjamin had every opportunity to respond to my suggestion that the NNPDs be adjourned. She was heard fully in respect to her concerns about delay, but when    
+
+> 27 T 3-4, ll 5-15.
+> 28 T 3-6, ll 15-45.
+> 29 T 3-5, ll 20-40. 17
+
+confronted with the likelihood of her premature application being dismissed for the reasons discussed above, Ms Benjamin quite clearly accepted the need to adjourn. 30  
+
+> [72]
+
+The NNPDs were adjourned (by consent) to a date fixed in November 2024. 31  They were not dismissed. Ms Benjamin was not denied anything or disadvantaged in any way that compromises her claim or her rights other than she was denied an immediate scheduling of her NNPD application for hearing which, in all likelihood, would not have occurred until (at least) the adjournment date, if not later. 
+
+ii. Concerns about efficient conduct of proceedings  
+
+> [73]
+
+Following resolution of the NNPD issue I took the opportunity to raise a developing concern I had with respect to Ms Benjamin’s conduct of her proceedings. My concern was developing for two reasons.  
+
+> [74]
+
+Firstly, the mention on 23 August 2024 was the second occasion in as many months where I was required to deal with unsolicited interlocutory applications filed by Ms Benjamin, without notice to the respondents, and which transpired to be premature or unnecessary in each case.  
+
+> [75]
+
+It had been my impression from the time of the conciliation conference that Ms Benjamin’s demeanour revealed a degree of enmity towards the respondents. That is not a criticism, nor is it surprising or unusual. When the evidence in these proceedings is fully ventilated, any such feeling might even prove to be justified. But the presence of such a powerful emotion can often impair personal judgment and, in litigation, can lead to a combative approach that will invariably add delay and cost to proceedings. As the member responsible for the efficient case management of these proceedings I consider it entirely proper for me to be on guard against such conduct and to warn against it where necessary.  
+
+> [76]
+
+Secondly, my concern in this regard was compounded by a submission contained in the first NNPD in which Ms Benjamin contended: 32     
+
+> …This report will assist in determining or narrowing what (if any) issues are in dispute, potentially avoid the need for any hearing and avoid relying on the Commission using its resources to itself determine questions of fact and each of the elements reprisal
+
+(sic) through the use of witnesses and voluminous documentary evidence. 
+
+(Emphasis added)  
+
+> [77]
+
+This passage compounded my concerns because I felt that it might be an inadvertent reference to an abuse of process. I thought this because, of all the foreseeable outcomes    
+
+> 30 T 3-8, ll 15-25.
+> 31 T 3-11, ll 18-45.
+> 32 NNPD filed 26 July 2024.
+
+18 
+
+that might arise from the completion and release of the investigation report, it is difficult to imagine one that would avoid the need for a hearing. 
+
+[78] In circumstances where Ms Benjamin’s SOFC seeks $3.8 million dollars in compensation and damages, it is impossible to imagine what report findings could lead to either a total capitulation by the respondents to Ms Benjamin’s claim or alternatively, lead Ms Benjamin to forego her claim for $3.8 million. 
+
+[79] The submission left me vaguely concerned that Ms Benjamin might be engaged in an abuse of process. 33  To be clear: I do not say, nor did I consider or reach any conclusion that Ms Benjamin was engaged in such an abuse of process, only that her submission caused me to be concerned that (amongst other possibilities) she might be, possibly without even realising it. While I acknowledged that she was anxious to gain access to the report and supporting materials, I also felt her application demonstrated a lack of concern for the integrity of the investigation process in pursuit of quick access to information. 
+
+[80] Accordingly, I counselled Ms Benjamin by simply stating that her comments in the NNPD concerned me and that I expected she would conduct herself generally in these proceedings as a legal practitioner 34  notwithstanding she was self-represented. 35  But beyond that, it was not necessary to descend further into Ms Benjamin’s intentions because the numerous existing barriers already impeding the NNPD applications meant that they were unlikely to proceed at that time. 
+
+[81] Having raised my concerns and noting her legal qualifications, I then said to Ms Benjamin: 36 
+
+> …so I’m just raising this with you. You don’t need to respond to any of this Ms Benjamin, but I’m raising it with you to give you a heads up that I’ll be expecting professional standard of conduct in these proceedings from you, and in circumstances where I entirely understand why you’re enthusiastic about advancing this matter and getting disclosure of evidence that you might – or you hope will be relevant to your allegations,… I’d urge you to exercise proper restraint in respect of that, all right?
+
+[82] Despite my ineloquent language, the plain tenor of my statement to Ms Benjamin contains a balance of empathy for her enthusiasm to advance her matter, tempered with a caution to use restraint in bringing applications only when necessary. In the context of what was now her second premature interlocutory application in as many months, I         
+
+> 33 Cf. Stewart v State of Queensland (Queensland Health) [2024] QIRC 103, [140]. The applicant (also a public sector lawyer, also alleging reprisal) had made PIDs that were the subject of an ongoing investigation from which a report was pending. The applicant in that matter was anxious to get access to the report and stated in proceedings before me that he commenced judicial review proceedings before the Supreme Court of Queensland to ‘hurry up’ the production of the report.
+> 34 The terms ‘legal practitioner’ and ‘lawyer’ are used interchangeably in these reasons. Where the term ‘legal practitioner’ is used, it indicates an individual who is admitted to practice law in Queensland, not in the strict sense as defined under the Legal Profession Act 2007 (Qld).
+> 35 T 3-9 to T 3-11.
+> 36 T 3-10, ll 35-45. 19
+
+consider this cautionary observation was necessary and to the benefit of all parties in that, it was intended to encourage the efficient and expeditious conduct of proceedings.  
+
+> [83]
+
+Importantly for this recusal application, the transcript clearly reflects that I expressly prefaced these comments to Ms Benjamin as ‘cautionary’. 37  I made no adverse determination about her conduct of the proceedings, and I did not admonish Ms Benjamin. I merely cautioned against conduct that might impede the progress of these proceedings.  
+
+> [84]
+
+Unfortunately, Ms Benjamin appeared to miss this point. In her response to me she appeared to consider my caution restricted her from making applications. I immediately dispelled this by saying to Ms Benjamin that she was not restrained from making applications for e.g. disclosure, particularly where she had followed the conventional approach to disclosure i.e. by first seeking disclosure by direct approach to the respondents. The discussion between us ended with Ms Benjamin confirming she accepted the point I was making. 38  
+
+> [85]
+
+At this point in the proceedings, I considered we had addressed the NNPDs and agreed to list them for further mention in late November when I anticipated there would be some update on the availability of the investigation report. In anticipation that we could conclude the mention I invited the parties to raise anything else before we adjourned. It was at this juncture that Counsel for the respondents raised concerns about matters contained in the SOFC recently filed by Ms Benjamin. 
+
+iii. The scandalous pleading  
+
+> [86]
+
+Given the nature and purpose of the mention on 23 August 2024, I had not taken the opportunity to read or consider Ms Benjamin’s recently filed SOFC beyond what was necessary to consider the issues relevant to the NNPD applications. Consequently, when Counsel for the respondents raised concerns about some of the matters pleaded in the SOFC it was without notice to the Commission. This context is relevant as it most likely explains my (initial) reaction to the pleadings when brought to my attention.  
+
+> [87]
+
+I do not intend to say any more than is necessary about the pleading in question. However, it is necessary to provide some detail to give context to what transpired at the mention on 23 August 2024 and what steps I subsequently took in relation to this matter.  
+
+> [88]
+
+Firstly, as a starting point for the relevant context, it must be understood that Ms Benjamin’s proceedings are primarily concerned with alleged reprisal taken in respect of the (alleged) PID she made in April 2022. In very simple terms, the statutory elements that Ms Benjamin must prove are that: 39     
+
+> 37 T 3-10, ll 5-10.
+> 38 T 3-10, ll 45-48 to T 3-11, ll 1-16.
+> 39 Public Interest Disclosure Act 2010 (Qld) s 40. 20
+
+• a person or persons caused detriment to her; 
+
+• because she made a PID . 
+
+> [89]
+
+Despite a myriad of facts spread across a lengthy timeline, Ms Benjamin’s complaint is no more complex than those two elements.  
+
+> [90]
+
+There appears to be no dispute that Ms Benjamin was unilaterally moved from her role which all but certainly satisfies the first element. There is no dispute that Ms Benjamin made a complaint in April 2022 which Ms Benjamin contends was a PID. Assuming for a moment that subsequent argument establishes that the complaint was a PID, the second element of the relevant statute is mostly satisfied.  
+
+> [91]
+
+The central issue in dispute then is whether Ms Benjamin’s exit from the Parole Board at the behest of the respondents was because she made the PID. In those circumstances, a question arises as to whether there is any reason to plead details of that PID in her SOFC. There is one possible explanation that I will address later in these reasons. I will first deal with what has been pleaded.  
+
+> [92]
+
+The SOFC does not directly or precisely plead the details of the alleged PID. But there are at least parts of the PID allegations that can be plainly inferred from the SOFC. Relevantly, Ms Benjamin’s alleged PID included an allegation of certain conduct concerning the second respondent (who is a legal practitioner) and a Justice of the Supreme Court of Queensland (‘the allegation’).  
+
+> [93]
+
+In a somewhat obscure manner, the allegation made by Ms Benjamin in her PID finds its way into her pleadings as an alleged statement by an individual respondent. It is pleaded in a context dealing with the meeting on 8 November 2022 where Ms Benjamin was informed her role at the Parole Board was ending.  
+
+> [94]
+
+In her submissions filed on 28 November 2024 Ms Benjamin apparently seeks to emphasize this obscurity by stating: 40  
+
+> …The name of that particular judicial officer was written in a direct quote from the First Respondent is in the direct evidence of reprisal in the meeting recording of 08 November 2024…
+> [95]
+
+While the statement containing the allegation is attributed to an individual respondent, it is done so as a description of a question being put to Ms Benjamin by that respondent, effectively challenging that Ms Benjamin cannot truly believe the allegation she has made and telling her it is a serious matter to allege.  
+
+> [96]
+
+The indirect way the allegation is pleaded makes the allegation no less attributable to Ms Benjamin.   
+
+> 40 Ms Benjamin’s submissions filed on 28 November 2024, [41]. 21
+> [97]
+
+Ms Benjamin’s allegation, if proven, could arguably be characterised as a conspiracy to pervert the course of justice. It is difficult to imagine a more serious allegation to level against a Justice of the Supreme Court of Queensland and a legal practitioner. It was therefore a matter that was properly raised by the respondents for my attention.  
+
+> [98]
+
+On reading the allegation I considered it imperative that I communicate to Ms Benjamin the seriousness of the allegation, and the potential consequences for her professionally if the allegation was later found to be made or published recklessly or maliciously. This was entirely for her benefit.  
+
+> [99]
+
+On review of the relevant portion of the transcript my inherent appreciation of the objective seriousness of the allegation appears to have very much informed my initial reaction. Any properly trained legal practitioner should know that, while judicial officers are not immune from public criticism or scrutiny, an allegation of impropriety against a Supreme Court Justice is objectively a very serious matter. It is more so when the allegation relates to impropriety in the exercise of judicial functions.  
+
+> [100]
+
+The making of such allegations without proper cause can amount to contempt by scandalising the court. 41  The consequences for a legal practitioner who makes allegations of impropriety by a judicial officer can lead to a finding of professional misconduct and have serious consequences for the practitioner. 42  Similarly, with respect to the inclusion of the second respondent in the allegation, a legal practitioner must not make allegations of professional misconduct against another legal practitioner that are not bona fide or without proper basis. 43  
+
+> [101]
+
+Despite my immediate concern about the pleadings, the transcript reflects that my first reaction was to invite Ms Benjamin to respond to the concerns raised by the respondents. 44  It is here that I must concede that the transcript also reflects that I then failed to give Ms Benjamin a proper opportunity to explain the inclusion of the allegation during the initial interaction between us. Instead, the transcript reflects that I proceed to lecture Ms Benjamin (in the abstract) that such pleadings are ‘reprehensible’. While my comments were abstract in nature, I accept that Ms Benjamin undoubtedly would have felt they applied to her pleading.  
+
+> [102]
+
+In that brief exchange I accept that my reaction was unfair to Ms Benjamin. But the matter does not end there.  
+
+> [103]
+
+Notwithstanding my impetuous initial response, the transcript further reflects that Ms Benjamin plainly and quickly appears to concede she has erred by including the allegation. 45  Reflecting on her responses now, and especially in the context of her current               
+
+> 41 Attorney-General (Qld) v Matthews [2020] QSC 258; Attorney-General v Di Carlo [2017] QSC 171; Attorney-General v Lovitt QC [2003] QSC 279.
+> 42 Legal Services Commissioner v Sewell (No 2) [2023] QCAT 374.
+> 43 Queensland Law Society, Australian Solicitors Conduct Rules 2012 (at 1 June 2012) r 32.
+> 44 T 3-12, l 21.
+> 45 T 3-13, ll 1-20. 22
+
+complaint about me, it is possible that her acquiescence on this occasion may have been prompted by the vehement assertions I was making about the generally improper nature of such pleadings.  
+
+> [104]
+
+On reflection I can appreciate that my initial reaction to the allegation may have deprived Ms Benjamin an opportunity to explain the controversial pleading. But it is important to note that, despite the unfairness of my initial reaction, I was expressing views about such pleadings generally (as opposed to Ms Benjamin’s pleadings). Further, the transcript reflects a swift segue to more measured and appropriate interactions thereafter.  
+
+> [105]
+
+Whether my intemperate initial reaction to this controversy is enough to meet the standard for recusal is discussed later in these reasons. For now, it is important to appreciate the thought process giving rise to my reaction. Importantly, there is objective evidence of the true nature of my reaction throughout the latter portions of the transcript. 46  
+
+> [106]
+
+Having regard to the whole of the transcript covering this exchange, it is clear that my initial reaction to the controversial pleading was underpinned by a collection of concerns. Not least amongst these was my concern that such a pleading might tend to undermine public confidence in the judiciary. Further, the transcript plainly demonstrates that despite my earnest and emphatic language, my reaction was borne out of significant concern for Ms Benjamin.  
+
+> [107]
+
+My concern for Ms Benjamin was heightened because of the observations I had already made about her in respect of the unannounced, premature, or unnecessary interlocutory applications over the preceding weeks. I have already discussed in these reasons my observation of conduct consistent with Ms Benjamin having a latent animosity towards the respondents. To be fair to Ms Benjamin, I hasten to add that it is not unusual for litigants to harbour hostility for their opponents in such matters. This observation is not made as a criticism of Ms Benjamin but simply to explain the basis for my concern.  
+
+> [108]
+
+Having now been made aware of the allegation contained in Ms Benjamin’s SOFC, I was concerned that a pattern of unnecessary combative conduct was emerging. I was concerned that this might suggest Ms Benjamin’s judgment and objectivity was somehow impaired. I was concerned that, with her judgment possibly impaired in this way, Ms Benjamin had included the allegation without appreciating the full scope of consequences for her if it later transpired the allegation was made without proper foundation.  
+
+> [109]
+
+Further, I could not immediately see that the inclusion of the allegation was relevant in these proceedings. I have reflected further on this. There is one (very limited) basis upon which it might be relevant to raise the allegation in the SOFC.  
+
+> [110]
+
+The only circumstances I can envisage that such detail would be relevantly included 
+
+might be if Ms Benjamin sought to rely on the reference to the allegation as evidence of  
+
+> 46 T-3-15 to T 3-16. 23
+
+a causal connection to the loss of her employment and the respondent denied raising it. The respondent’s SOFC pleads that the allegation was raised at that meeting. 47  
+
+> [111]
+
+But even with this fact admitted there are numerous ways the allegation could be dealt with discreetly. That begs the question, why be discreet? A responsible legal practitioner, conscious of their duty not to needlessly make statements that tend to undermine public confidence in the judiciary or to scandalise the court, would be expected to only include precise detail of the PID allegation where it was materially relevant to the case being made.  
+
+> [112]
+
+In respect of the allegation, it is important to note that I did not make any determination about the legitimacy of its inclusion in the pleadings on 23 August 2024 (or at all). Rather, with Ms Benjamin’s apparent consent, and out of concern for her, I ordered the SOFC containing the controversial pleading be removed from the file and sealed. 48  I also invited Ms Benjamin to reflect on my counsel about the serious nature of such an allegation and gave her leave to file an amended SOFC.  
+
+> [113]
+
+Importantly, I expressly stated to Ms Benjamin that my comments were not intended to restrain her, merely that she may wish to reflect on the seriousness of including such material. 49  
+
+> [114]
+
+Ms Benjamin was at all times made aware that she was free to re-plead the allegation, and she did. She filed an amended SOFC on 30 August 2024 that redacted the name of the Justice previously identified. The allegation in the pleading now expands the imputation of impropriety from a single named Justice of the Supreme Court of Queensland to every Justice appointed to that Court.  
+
+> [115]
+
+Nothing about our interaction or my comments on 23 August 2024 had the effect of prejudging her case or permanently restricting or preventing Ms Benjamin from presenting her intended pleadings. Indeed, following the filing of the amended SOFC the amended pleading broadens the controversy initially pleaded by Ms Benjamin. Those pleadings and that allegation remain on foot, ready to be heard when this matter reaches that stage of the proceedings. 
+
+Order to seal the file  
+
+> [116]
+
+As noted above, the amended SOFC has had minor changes made to it. While the changes are minor, their effect is significant.  
+
+> [117]
+
+The allegation contained in the original SOFC had identified a Justice of the Supreme Court by name. The amended SOFC redacted the name of that Justice, but not the title.    
+
+> 47 Respondents’ Statement of Facts and Contentions filed on 4 October 2024, [37].
+> 48 In stating my intention to make this order I expressly made it conditional on any further comment from Ms Benjamin. T 3-14, ll 35-45.
+> 49 T 3-15, ll 30-49 to T 3-16, ll 1-10. 24
+
+The effect of the amendment is that the allegation now implicates every Justice of the Supreme Court.  
+
+> [118]
+
+The amended allegation came to my attention shortly after filing. The practice in my chambers is that I review all hard copy documents received on a matter before they are placed on the physical file. Upon perusing the amended SOFC I noted the expanded allegation. Needless to say, the concerns I previously held for both Ms Benjamin and for public confidence in the judiciary were now magnified.  
+
+> [119]
+
+Given the busy nature of chambers, I did not reach any immediate view as to how to deal with the amended allegation or indeed, whether I even should. I was content to reflect on the matter at a later moment, when time permitted. However, on or about 6 September 2024 I was informed via the Registry that a media organisation was seeking to inspect the file.  
+
+> [120]
+
+In those new circumstances I considered the appropriate way to deal with the controversy arising from the amended allegation (in the interim) was to seal the file. I acted immediately to issue a suppression order, without notice to the parties, to alleviate the risk of any inadvertent access or release of material from the file to third parties.  
+
+> [121]
+
+In evaluating my decision to act independently to seal the file, I was satisfied that such an order gave rise to no conceivable prejudice or disadvantage to any party. Further, Ms Benjamin had already demonstrated that she was well versed in the procedures for filing applications and communicating with the Commission. I had no doubt I would be hearing from her if she had any objection to this order.  
+
+> [122]
+
+Section 451(2) of the Industrial Relations Act 2016 (Qld) confers broad powers on the Commission to make orders it considers appropriate, including orders not sought by any of the parties. The prospect of publication of an allegation that was both scandalous and scant in detail was a matter of concern for all of the reasons already outlined earlier in these reasons.  
+
+> [123]
+
+It ought to be made clear that my order does not permanently seal the file. The order remains open to alteration or recission on the application of either party. I confirmed this with Ms Benjamin during subsequent proceedings that are discussed later in these reasons. The need for swift and independent interim action to seal the file was prompted by the fact that the amended allegation was: 
+
+• very serious; 
+
+• not accompanied by any particulars at all; and 
+
+• arguably not relevant to the matters in issue.  
+
+> [124]
+
+Scrutiny of judicial conduct is entirely proper where bona fide allegations arise. It is of vital public interest that there be faith in the judiciary and the justice system. But it is of 25 
+
+equal importance that such faith should not be casually undermined by allegations that are misconceived, reckless, or even malicious.  
+
+> [125]
+
+I do not say that Ms Benjamin’s amended allegation falls into any of these categories, but in the absence of particulars and apparent relevance, I consider it would be both premature and irresponsible to allow the amended allegation to be on the public record.  
+
+> [126]
+
+While I have no doubt those responsible for reporting the allegations in the media would do so in a fair and balanced way, the simple act of publishing the amended allegation in its current adumbral state could only produce speculative (rather than informative) reporting. Public faith in the judiciary is a commodity far too valuable to risk even a small portion of our society missing this subtle distinction.  
+
+> [127]
+
+Further, the unregulated nature of social media that is now all-pervasive means that the risk of misrepresentation and misinformation is a common sequel to legitimate media reporting, and it is often far more prolific than the original media report, and almost invariably harmful.  
+
+> [128]
+
+In all of those circumstances I considered that public access to such an allegation ought to be managed carefully and with proper evaluation (on an ongoing basis) of whether such access is in the public interest now, or at some later stage.  
+
+> [129]
+
+I made the order sealing the file on 6 September 2024. A copy was sent to all parties. It was not done furtively. Entirely consistent with my expectations, Ms Benjamin emailed the Registry on or about 23 September 2024 and inter alia raised an objection to the order.  
+
+> [130]
+
+To ventilate further the concerns raised by Ms Benjamin, I listed the matter for mention on 2 October 2024. 
+
+Mention on 2 October 2024 
+
+i. Reasons for the order sealing the file  
+
+> [131]
+
+The mention held on 2 October 2024 traverses a number of matters relevant to Ms Benjamin’s complaints in support of the recusal application. The first is the assertion that she was not given reasons for the decision to seal the file.  
+
+> [132]
+
+There is no compulsion for the Commission to provide written reasons. All that is essential (for natural justice) is that a party receive adequate reasons. This can include oral reasons. The contention by Ms Benjamin that the reasons given were somehow inadequate or improper is contradicted by the transcript. Rather than descend into further discussion about the matter in these reasons, I will let the transcript of the proceedings speak for itself: 50  
+
+> 50 T 1-2 to 1-4.
+
+26 
+
+COMMISSIONER: Take a seat, thanks. I’ll just start with appearances, thanks. 
+
+MS BENJAMIN: For the record, Commissioner Dwyer, my name is Benjamin, B- e-n-j-a-m-i-n, initial L, appearing self-represented on behalf of the complainant. 
+
+COMMISSIONER: Thanks, Ms Benjamin. 
+
+MS MARR: Commissioner, my name is Marr, M-a-r-r, initial J, appearing on behalf of the respondent. 
+
+COMMISSIONER: Thanks, Ms Marr. All right. I listed the matter for mention as a consequence of the number of emails received over the course of the last week or so. The two issues I want to address this morning are, firstly, the request from you, Ms Benjamin, in relation to reasons for the decision that – or the order that I made in respect of sealing the file . And the second issue is the request – the contested or – request by the respondents for the extension to file their statement of facts and contentions. I’ll deal with them in that order .
+
+By way of relevant antecedents to the order that I made, Ms Benjamin, you will recall that, when we were last here, I took some time to counsel you with respect to the wisdom of including certain scandalous content in your statement of facts and contentions regarding the alleged conduct of, amongst others, a named member of the Supreme Court. And I had anticipated, from your agreement to file an amended statement of facts and contentions off the back of that conversation, that you appreciated or understood the nature of the concerns that I was sharing with you. 
+
+And they’re concerns primarily for you. But it became apparent, upon receipt of the amended statement of facts and contentions, that the content, in fact, made the issue much worse. I’m not sure that you appreciate that. 
+
+And, hence, your request for reasons as to why I have now sealed the file. I would have thought it would be self-evident, on reflection, when you consider that redacting the name of the Justice and just putting in “a Justice of the Supreme Court”, you now impugn every Justice of the Supreme Court by leaving that person unnamed. If that were to remain on public record, then every Justice of the Supreme Court is impugned by your pleading . And that is a matter that I was and am not – 
+
+unless you can convince me otherwise – prepared to leave on the public record at this time .
+
+You may not appreciate this, but this is a court of record. And our Act gives the Commission the power to act of its own motion and make orders it considers appropriate. So, when I received your statement of facts and contentions, and I appreciated the enhanced gravity of the situation, I resolved to address that. Before there was any opportunity to formulate a plan to list the matter for mention and explain all of this to you – not that I necessarily needed to in the circumstances – but, before that could occur, I am informed that the media are on the phone wanting to search this file. So, to address the concerns, and to take the steps that I almost certainly would have taken in any event, the matter was sealed. 
+
+Now, I would have thought, as I said, that the reasons for that were self-evident. But those are the reasons – because the scandalous allegation that is on the file, and it was in the previous pleadings, is now made worse in that it impugns every Justice of the Supreme Court. By not naming the person, it means that every single member of that court is now potentially open to the innuendo that they have engaged in the alleged behaviour contained in your pleadings. 
+
+What is particularly perplexing for me, though, Ms Benjamin, is that there isn’t any real reason for that particular to be contained in your statement of facts and contentions in any event. It forms part of, as I understand it, the matters that were the subject of your PID. This is an application in respect 27 
+
+of alleged reprisal in relation to the PID. So, it’s often the case that PIDs contain sensitive matters, and parties craft their pleadings in a way that doesn’t involve contravening relevant confidentiality surrounding PIDs. That conversation in those pleadings doesn’t necessarily appear to be a material fact in the allegation of reprisal. But, in any event, I’ll put that to one side. 
+
+In the circumstances where I’ve made that order, you are, of course, at liberty to – as you have done – ask to be heard on the matter. You haven’t done that in so many words, but that was, of course, an option always open to you. And, indeed, I anticipated that I would be hearing from you given the circumstances under which I had to make the order. And, so, here we are. 
+
+So, having heard why I have done it – and, Ms Benjamin, you are at liberty to plead your case in a way that you like and, unless I hear further argument from the respondent objecting to it and asking for it to be struck out, I will leave your pleadings exactly as they are . It’s not my role to mess with your pleadings. But I will certainly step in to protect scandalising of the Supreme Court. But, if you intend to leave your pleadings in that way, subject to any objection and application from the respondent, that’s the way they’ll stay. But they won’t be open to the public to scrutinise. But I haven’t heard fully from you on that. And, if you wish to be heard as to why I should lift that order, then you can have that opportunity. And I will give you an opportunity to provide me with written submissions, and I will provide you with written reasons on any application by you to lift the order sealing the file. 
+
+And I wish to be very clear in what I’m saying to you. In giving you that opportunity, I appreciate that you will want to understand, more so if I refuse your application, why that’s so. And I will explain why. And that will be in a decision that will be published. And that decision will require me to explain the nature of the scandal without necessarily detailing things. That then goes on the public record. And that then, Ms Benjamin, may draw attention from regulatory bodies in relation to your pleading and your conduct. So, fair notice. You are absolutely at liberty to seek to have that order set aside. I will hear you on that. I will hear your submissions in writing, or orally, or both if you wanted. And I will provide you with considered reasons in detail why, or why not, I’m prepared to lift that. But, given what I’ve explained to you now, I would anticipate you might understand why the order was made. But it’s a matter for you what you do with that going forward. 
+
+Have you got any questions in relation to any of that, or did you want to make any submission at this point? 
+
+MS BENJAMIN: No, Commissioner Dwyer. 
+
+COMMISSIONER: All right. I’ll let you consider your position in that regard, in respect of that order. As I said, you’re at liberty to apply to have it set aside and I’ll leave that in your hands. And I’ll deal with any application if it’s presented. 
+
+(Emphasis added) 
+
+[133] Whist this part of the transcript reflects a discussion on a broad range of issues (that are addressed later in these reasons) there is a clear statement of reasons provided to Ms Benjamin as to why I sealed the file. I have placed the portion of the transcript specifically addressing the reasons for decision in italics. 
+
+[134] I am (and always was) content that Ms Benjamin received adequate reasons for my decision to seal the file. She may not agree with them. She may not understand them. 28 
+
+They may even have been considered wrong by an appellate court (had there been an appeal). But there can be no doubt that the reasons given were adequate. 
+
+[135] Moreover, I made it abundantly clear to Ms Benjamin she was (and still is) at liberty to make a formal application to set my order aside. Varying the order was also discussed later at the mention and is discussed later in these reasons. To date, Ms Benjamin has taken no steps to disturb my order sealing the file. 
+
+ii. Access to transcripts 
+
+[136] In the days preceding my order to seal the file Ms Benjamin made a request (via the Registry) for access to the transcript of the mention on 23 August 2024. In keeping with usual procedure, the Registry communicated this request to me (via my associate) and I replied (also via my associate) that Ms Benjamin, as a party to proceedings, was entitled to such access. The communications with my associate were verbal. 
+
+[137] The relevant timing would appear to be that, after granting that permission to Ms Benjamin but before she could apply to the transcript service, I made the order sealing the file. This had the (unintended) effect of causing Ms Benjamin’s request for both the printed and audio copies of the transcript being refused when she approached the transcription service. 
+
+[138] In her email of 23 September 2024 Ms Benjamin advised that she had been informed by the transcript providers that they could not release the transcript due to my order sealing the file. Also in that email, Ms Benjamin indicated that she had begun making arrangements to engage legal representation and inferred that she needed the transcript 
+
+inter alia for a purpose connected with this. Consequently, I also addressed this issue with Ms Benjamin at the mention on 2 October 2024. 
+
+[139] It must be stated clearly here that despite her assertions, Ms Benjamin was not then, and is not currently, being refused access to any transcript of any proceedings in this matter. Again, I will let the transcript speak for itself: 51  
+
+> COMMISSIONER:….In respect of – what preceded, I think – or may have come at the same time as your statement of facts and contentions, I think you were seeking release of the audio transcript from the last mention. And, as curious as that application was, I think my initial reaction was I don’t have any particular difficulty with that. My position before that could be put into effect – because I think I informed the registry at the time that I was prepared to release it – but, subsequent to that, the events occurred in respect of the – this is the way I recall it at least anyway – the statement of facts and contentions, but in particular the media interest in the file concerned me because – and I’ve gone back and reviewed the transcript now, and realised that the transcript contains – the written transcript contains references to those allegations. Hence, the sealing of the file which has ultimately stymied your request for the transcript.
+> 51 T 1-4 to T 1-5.
+
+29 
+
+So, I appreciate you may or may not have had indication from the registry about the release of the transcript but, if it’s required for purposes associated with instructing your legal representatives whoever – or whenever they might be on the record, I’ll give some consideration to release of the transcript to you . But it would be subject to certain limitations in terms of - to what use it might be put. And I would feel perhaps a little more comfortable releasing it to your lawyers when they come on the record. I’m not entirely certain what the point of the audio is as opposed to the written transcript. The written transcript is an easier thing to release. I’m not sure for what purpose you require the audio. Can you shed any light on that for me? 
+
+MS BENJAMIN: No, I can’t, Commissioner Dwyer. 
+
+COMMISSIONER: All right. Well, look, just in respect of that, I understand why you might want it to instruct your legal representatives whenever they come on board. And, as I said, I will – if you want to refresh that application at the appropriate time, I will seek to accommodate it. But, as I said, given my concerns about what is contained in it, and the – particularly the reference to those allegations, I would only release it under certain strict conditions that it be used by you or your legal representatives in relation to these proceedings. But, anyway, I’ll deal with that if and when you refresh that application, Ms Benjamin. 
+
+And I should just say, also, on the question of legal representatives, while we’re in that territory, I understand you’re in the process of engaging somebody or somebody is about to be engaged? 
+
+MS BENJAMIN: Yes, that’s correct. So, at this stage, I’ve made inquiries but it’s a slow process. There’s a lot of material. There’s a lot of – I mean, it’s this – you know – I’m asking for something that is representation on a pro bono or reduced fee basis, so - - -
+
+COMMISSIONER: Okay. Well, I understand why it might be challenging in those circumstances. And I’ve been misunderstood on this before. So, to the extent that I might have been – and not that 
+
+I would in any way discourage you obtaining legal representation or even legal advice, but – and nor can I, for that matter – I certainly can’t make any orders to that effect. But the conversation we had on the last occasion was again counselling you about the – and I use the term counselling not in the sense that it might be used in relation to, you know, workplace performance counselling. I’m using it in the friendlier sense in that I’m seeking to provide you with a level of insight into the dangers of self-representation, particularly when it’s an emotive matter. 
+
+And you may be better placed having somebody a little more objective guide you through the process. But I want to stress for the record that it’s entirely a matter for you whether you’re represented. And I have no preference either way. It’s merely an observation I made on the last occasion out of the interests of perhaps making things a bit easier for you in terms of the conduct of these proceedings. But you’re at liberty to go either way you want, just in case I wasn’t clear about that. 
+
+All right. So, just to round off on that first issue before we move to the second issue, the order to seal the file was made in the circumstances that I’ve already outlined. You are, of course, Ms Benjamin, at liberty to seek to have that order set aside. And you may indicate your desire to that effect by making an application or, indeed, you can tell me now, if you’ve formed that view now, that that’s what you want, and I’ll make directions for the filing of submissions on the issue. But, at some point in time, if you want to press that issue, then I will hear you on that and I’ll hear the respondents on that issue as well. 
+
+All right. Is there anything further on that issue that you wanted to raise before we move on to the issue of the extension? 30 
+
+MS BENJAMIN: No, Commissioner. 
+
+COMMISSIONER: And I should just say, also, on the question of legal representatives, while we’re in that territory, I understand you’re in the process of engaging somebody or somebody is about to be engaged? 
+
+MS BENJAMIN: Yes, that’s correct. So, at this stage, I’ve made inquiries but it’s a slow process. There’s a lot of material. There’s a lot of – I mean, it’s this – you know – I’m asking for something that is representation on a pro bono or reduced fee basis, so - - -
+
+COMMISSIONER: Okay. Well, I understand why it might be challenging in those circumstances. And I’ve been misunderstood on this before. So, to the extent that I might have been – and not that 
+
+I would in any way discourage you obtaining legal representation or even legal advice, but – and nor can I, for that matter – I certainly can’t make any orders to that effect. But the conversation we had on the last occasion was again counselling you about the – and I use the term counselling not in the sense that it might be used in relation to, you know, workplace performance counselling. I’m using it in the friendlier sense in that I’m seeking to provide you with a level of insight into the dangers of self-representation, particularly when it’s an emotive matter. 
+
+And you may be better placed having somebody a little more objective guide you through the process. But I want to stress for the record that it’s entirely a matter for you whether you’re represented. And I have no preference either way. It’s merely an observation I made on the last occasion out of the interests of perhaps making things a bit easier for you in terms of the conduct of these proceedings. But you’re at liberty to go either way you want, just in case I wasn’t clear about that. 
+
+All right. So, just to round off on that first issue before we move to the second issue, the order to seal the file was made in the circumstances that I’ve already outlined. You are, of course, Ms Benjamin, at liberty to seek to have that order set aside. And you may indicate your desire to that effect by making an application or, indeed, you can tell me now, if you’ve formed that view now, that that’s what you want, and I’ll make directions for the filing of submissions on the issue. But, at some point in time, if you want to press that issue, then I will hear you on that and I’ll hear the respondents on that issue as well. 
+
+All right. Is there anything further on that issue that you wanted to raise before we move on to the issue of the extension? 
+
+MS BENJAMIN: No, Commissioner. 
+
+COMMISSIONER: All right. So, just to round off on that first issue before we move to the second issue, the order to seal the file was made in the circumstances that I’ve already outlined. You are, of course, Ms Benjamin, at liberty to seek to have that order set aside. And you may indicate your desire to that effect by making an application or, indeed, you can tell me now, if you’ve formed that view now, that that’s what you want, and I’ll make directions for the filing of submissions on the issue. But, at some point in time, if you want to press that issue, then I will hear you on that and I’ll hear the respondents on that issue as well. 
+
+All right. Is there anything further on that issue that you wanted to raise before we move on to the issue of the extension? 
+
+MS BENJAMIN: No, Commissioner. 31 
+
+(Emphasis added)  
+
+> [140]
+
+While the question of legal representation is intermingled with discussion about the terms of the release of transcripts to Ms Benjamin, I was at pains to assure her that she need only apply. It was not contingent on her obtaining lawyers.  
+
+> [141]
+
+Further, I continued to be concerned for Ms Benjamin in that I continued to hold concerns about her judgment and insight into the possible consequences for her if her allegations ultimately proved unfounded. For that reason, I invited Ms Benjamin to make an application for the transcripts. Upon receipt of an application, I was anticipating that orders would be made releasing the transcript to Ms Benjamin albeit structured in a way to ensure they did not e.g. undermine the important purpose of the order sealing the file.  
+
+> [142]
+
+The transcript excerpt above plainly shows this was all explained to Ms Benjamin. She was also invited to make an application for release of the transcript and assured I would consider it.  
+
+> [143]
+
+To date, Ms Benjamin has not made any application for any transcript from any proceedings in this matter. This is most unfortunate given that the vast majority of the matters she complains of in her recusal application are plainly dispelled by the contents of the transcripts. 
+
+iii. Extension granted to respondents  
+
+> [144]
+
+The next controversy addressed at the mention on 2 October 2024 was the question of whether the respondent’s ought to have leave for an extension for the direction for the filing of their SOFC. Ms Benjamin’s recusal application does not expressly complain about the manner in which I addressed this extension, though she does complain that I intervened or otherwise unfairly persuaded her to consent to other adjournments. While strictly not relevant to this recusal application, it is instructive to observe how the matter was dealt with from the relevant transcript.  
+
+> [145]
+
+In correspondence received during the preceding week the respondents had sought a relatively short extension on the previous order for filing. The extension was (at the time of the correspondence) for a period of approximately 1 week.  
+
+> [146]
+
+Ms Benjamin was opposed to the extension. In an email sent to the Registry on 27 September 2024, Ms Benjamin explained her opposition to the proposed extension as follows: 
+
+> Crown Law has represented the Respondents since the Queensland Human Rights Commission (QHRC) proceedings, filed on 31 March 2023. The QHRC conciliation was on 24 April 2024 and the facts and contentions have contained substantially similar allegations since that time, now over five (5) months.
+
+32 
+
+> Crown Law have also had notice to prepare the response since the first QIRC Directions Order, issued 10 July 2024, for the response that was originally due on 04 September 2024.
+> One month after the response was first due to be filed, on 24 September 2024, you stated that "Noting the Complainant’s advice regarding her unavailability for a mention at this time, and to assist the Commission, the Respondents’ representatives would also be available to attend a telephone mention on any day next week with the exception of Friday 4 October 2024 from 12pm onwards."
+> Counsel has therefore been available to settle the response.
+> As for final instructions from the INRs, the INRs have also known the allegations against them since the QHRC proceedings were served on them. It is almost 1 year and 6 months since those proceedings were initiated.
+> The deadline for the response has been in place since early July – and the orders revised again on 26 August 2024.
+
+[147] It is important to note that it is not my practice, nor is it proper, to resolve such disputes via email. There will often be occasions where parties agree to amend directions orders, or where a request for extension is less controversial. But in circumstances such as this, the proper manner to address the controversy is to list the matter for mention and hear from the parties before making a decision. This was what I resolved to do. 
+
+[148] Unfortunately, a feature of this necessary practice is that where a party is seeking a short extension, the time it takes to list a mention to resolve the dispute will often work against the opponent to the extension. On this occasion, by the time the matter was able to be listed for mention, the extension (now being sought retrospectively) was for a period of 2-3 days. 
+
+[149] At the mention on 2 October 2024 the respondents presented a draft directions order which included a direction for them to file their SOFC by the following Friday i.e. in two more days. Counsel for the respondents confirmed on the record that they would be able to comply with that obligation. Ms Benjamin continued to press her objection. While noting the extension was only a matter of days, she expressed a concern that there was still ‘no certainty’ that she would get the material. 
+
+[150] The transcript speaks to how the matter was resolved: 52  
+
+> COMMISSIONER: All right. Now, Ms Marr, you’ve sought an extension and provided draft orders to extend the filing time for the respondents’ statements of facts and contentions to Friday.
+> MS MARR: Correct.
+> COMMISSIONER: Are you still on track to achieve that - - -
+> MS MARR: Yes.
+> 52 T 1-6 to T 1-8.
+
+33 
+
+COMMISSIONER: - - - by Friday? Do you still press the objection in relation to that, Ms Benjamin? It’s two days away. 
+
+MS BENJAMIN: Yes, I’m well aware of that, Commissioner. And – there’s almost no point in me pressing the objection because, in any event, even if you were to make the orders today, it’s – you know, I’d really highly doubt that I’m going to get that material until Friday, but the issue that I have is there’s no certainty that, come Friday – that I’ll get that material then either. So, if I don’t press the objection, then I’m in the same position where I haven’t – I’ve consented, essentially. 
+
+COMMISSIONER: Well, the Crown has given an indication – in particular, they’ve provided draft directions orders that they will file by Friday. Ms Marr has just put on the record now that they’ll have it ready by Friday. I would be surprised if it wasn’t ready by Friday. There’s no guarantees, of course, but I would be surprised. Having said that, if we’re standing here next week and we’re hearing from Ms Marr that it has been delayed for one reason or another, I would be starting to ask some very pointed questions of the respondent as to when it can be filed. And there will be consequences, ultimately, if it’s – you know, if there’s a delay, there will be a – there will certainly be a deadline placed. And, if it’s not met, there’ll be even more catastrophic circumstances. I don’t think we’re going to get to that point. I don’t have a crystal ball, but I think we’re going to get there by Friday. 
+
+If it gives you any sense of comfort in terms of where we might arrive at on this issue, I think that perhaps, with all due respect to you, Ms Benjamin, you’ve taken some language from the respondent’s email about the availability of their counsel to settle – I think, settle the pleadings, versus her availability to be here for a mention that I was proposing. And you’re not really comparing apples with apples there. This mention is going to be finished in another 10 minutes at the most. And the extent to which counsel is required to, you know, prepare in detail for that – the settling of pleadings time is – how many is it? How many respondents are there? Four, three? 
+
+MS MARR: Five. 
+
+COMMISSIONER: Five. The settling of pleadings, one set of pleadings, in a matter like this – well, I was thinking back to my days on the job – could take a couple of days, could take a week. I don’t want to underquote you, Ms Marr, in case you’ve billed for two weeks, but it can take quite a long time. It’s not a simple task when there’s a great deal of care and attention required to go into the settling of pleadings of this nature particularly. And we have five sets of pleadings. That’s a fairly significant task to undertake. So, it’s not a particularly fair comparison in terms of availability to do that versus availability to attend a mention here which is probably going to take a maximum of two hours out of counsel’s day. 
+
+So, given the extension is very brief, given I’ve been given an indication from counsel today that the pleadings – the statements of facts and contentions will be ready and available to be filed by 4 pm on Friday, I’m inclined to grant the extension in those circumstances. And I will grant it in accordance with the – unless there’s any objection from you, Ms Benjamin, as to the language used in the draft directions order – in the directions order that was provided under cover of the email of the 27th of September – I will make it in accordance with the terms of that draft. Did you want a moment to reflect on that draft? 
+
+MS BENJAMIN: Yes, please, Commissioner. 
+
+COMMISSIONER: All right. Do you want me to stand it down for five minutes so you can read it? 34 
+
+MS BENJAMIN: Yes, thank you, Commissioner. 
+
+COMMISSIONER: All right. I’ll stand down for five minutes and let you have a read of that. 
+
+ADJOURNED [10.24 am] 
+
+RESUMED [10.31 am] 
+
+COMMISSIONER: Take a seat, thanks. Any objections to that – orders being made in accordance with that draft, Ms Benjamin? 
+
+MS BENJAMIN: In the interests of not using any more of the Commission’s time, I don’t want to object, Commissioner. 
+
+COMMISSIONER: Well, I don’t want you to feel – I’ve got all day. So, if you have an objection, you may feel free to make that objection, Ms Benjamin. I’m not – don’t feel constrained at all by time. 
+
+MS BENJAMIN: No, I’m not objecting, Commissioner. 
+
+COMMISSIONER: All right. Well, I’ll make the orders in accordance with that draft that the Crown provided on the 27th of September. Before we adjourn, are there any other matters, Ms Benjamin? 
+
+MS BENJAMIN: I have nothing, Commissioner Dwyer. 
+
+COMMISSIONER: All right. Ms Marr? 
+
+MS MARR: No, thank you, Commissioner. 
+
+COMMISSIONER: All right. Thank you. We’re adjourned. 
+
+[151] Despite her (eventual) concession, Ms Benjamin’s attitude to the requested extension in all of these circumstances was unreasonable. My interactions with her, evident on the transcript, demonstrate that I was trying to encourage her to appreciate that there is no particular prejudice to her in consenting to it. In the face of her continued resistance to the extension I took the trouble to clearly explain to her why I considered the request was reasonable. Ms Benjamin’s mere doubts about the material being filed, undoubtedly a feature of her ongoing enmity and distrust of the respondents, could never be enough to reasonably refuse the request. 
+
+[152] The final part of the transcript demonstrates I was expressly inviting Ms Benjamin to pursue any objections she had, but she declined. I am content that there is nothing about my handling of the extension request that is objectively demonstrative of unfairness to Ms Benjamin. 
+
+Mention on 11 October 2024 35 
+
+[153] Following the mention on 2 October 2024 Ms Benjamin emailed the Registry making certain complaints about continued difficulties accessing transcripts. The full text of Ms Benjamin’s email is relevant: 
+
+Good morning 
+
+This correspondence is again directed to: 
+
+• The Hon. Justice Peter Davis 
+
+• Vice President Daniel L. O'Connor OAM 
+
+• Deputy President John W. Merrell and 
+
+• Deputy President Catherine M. Hartigan 
+
+On 02 October 2024, Commissioner Dwyer mentioned the matter of AD/2024/36 - Benjamin, Louise v Sharp, Julie & Ors. On the record, Commissioner Dwyer stated that: 
+
+1.  That it was not him that decided to deny access to the first transcript request 
+
+(request dated 25 August 2024 - ref ATR0128686); and 
+
+2.  That the Applicant should make a new application to RTS so that he can allow it to be released to the Applicant. 
+
+I have now made a new application (yesterday on 07 October 2024) to access the audio recording of the mention from 23 August 2024. The request reason was: 
+
+"Entire audio of the proceedings on 23 August 2024 is required. The Applicant undertakes to only use the recording for: 
+
+1. The purposes of preparing for the proceedings AD/2024/36; and 
+
+2. The purposes of identifying and/or responding to judicial bias/judicial misconduct/communication with parties outside court if necessary. 
+
+The entire audio is available and it is not necessary to transcribe the audio into a written transcript. This will only add further delay and denial of the Applicant's right to access the proceedings for which they are a party, where the application is still on foot and has been adjourned until 29 November 2024. Denial of the access of a party to a transcript is equivalent to denial of natural justice. The Applicant is self-represented. On 02 (October) 2024, at further mention, Commissioner Dwyer put on the court record that it was not him that decided to deny access to the first transcript request (dated 25 August 2024 - ref ATR0128686 - see attached) and that the Applicant should make a new application so that he can allow it to be released to the Applicant." 
+
+This morning, RTS have replied as follows: 
+
+"Good morning, 
+
+With regards to your request, please be advised this has been refused by QIRC and the below reason was provided "The commissioner has made suppression orders on this matter and the transcript has not been approved for release. "Recording and Transcript Services would like to confirm that at this stage the transcript or audio will not be released to you. For further information in regard to this refusal we suggest that you contact the QIRC registry via email qirc.registry@qirc.qld.gov.au or phone on 1300 592 987. 
+
+Kindest Regards, 
+
+Recording and Transcription Services*Please be advised that we are unable to discuss the specifics of your request via telephone, if you require any updates or amendments, please use "customer communication" via "My Activities"". 
+
+See attached .36 
+
+I still do not have access to the material I need to prepare my case for these proceedings. I ask the Commission again, to please give me a copy of the audio recording of the mention from 23 August 2024. 
+
+The Respondents' legal representative is copied into this email correspondence. 
+
+Kind regards 
+
+Louise Benjamin (Applicant/Complainant) 
+
+(Emphasis added) 
+
+[154] Ms Benjamin’s email was directed to me. It was immediately obvious that Ms Benjamin was labouring under a significant misunderstanding about how she first came to be refused access to the transcript and (more importantly) what direction I had given her with respect to gaining access. Consequently, I was again required to list the matter for mention for the purpose of explaining these matters to Ms Benjamin. 
+
+[155] The matter was listed for mention on 8 October 2024. The transcript reflects the interaction I had with Ms Benjamin: 53 
+
+COMMISSIONER: Take a seat. Thanks. I’ll start with appearances. Thank you. 
+
+APPELLANT: For the record, Commissioner Dwyer, my name is Benjamin, B-e-n-j-a-m-i-n, initial L, self-represented for the complainant. 
+
+COMMISSIONER: Thanks, Ms Benjamin. 
+
+MS MARR: Commissioner, my name is Marr, M-a-r-r, initial J, counsel acting on behalf of the respondents, instructed by Crown Law. 
+
+COMMISSIONER: Thank you. All right. Well, I listed the matter for mention this 
+
+afternoon because there was an email received in chambers on the 8th of October from you, Ms Benjamin, setting out a couple of things. And, in particular, the reason I’ve listed it for mention, and it’s an important matter, is because the – there is a – there’s a – you purport there to represent something that I’ve said on the last occasion, and it’s not accurate. And I’ll give you the benefit of the doubt on the basis that we discuss a lot at these mentions, and you may not have recollected or remembered it accurately. 
+
+But, in particular, the comment that you make in your email, and it’s number – item number 1. So you say here – where it says, “On 2 October Commissioner Dwyer mentioned the matter, and Commissioner Dwyer stated that it was not him that decided to deny access to the first transcript request.” That’s not correct, and that’s not what I said. I appreciate you may not have understood my explanation of what happened, so I’m going to make that explanation to you again to correct your understanding on that fairly important matter. As I said, I make the observation – I don’t mind who you want to write to about me, I just want you to accurately reflect what I’ve said. 
+
+When we were last here I explained to you that I received your request or I received a request from you, and I was informed of it through the registry, through my Associate, that you’d requested access to the audio of the transcript for the 23rd of August. And my instruction back to the registry, through my Associate, was, “I’ve got no problem with that, she can have the audio transcript.”  
+
+> 53
+
+T 1-2 to T 1-5. 37 
+
+Now, it seems that before you then got around to having that communicated to you or applying for it, the next thing that happened was – this is in chronological order, the next thing that happened was I received a copy of your amended statement of facts and contentions, and noted that the scandalous allegations contained in there that we’d talked about on the 23rd, had, in fact, been made worse by the redaction of the name, but now appeared to extend to scandalise the entire Supreme Court. 
+
+And I had contemplated – I was contemplating or still in the process of contemplating what I was going to do about that, and before I had settled on any course of action, probably within 24 hours I was informed through the registry, through my Associate, that the media wanted to search the file. And I was immediately concerned about that, and I made an order immediately at the Commission’s own motion, sealing the file. What appears has resulted in you not being – having your application for the audio refused, is that between me saying, “She can have it,” and you being refused, is those two other events. 
+
+And so when you say here that I said that it was not me that decided to deny access, that’s not accurate. My grant of access was overridden by the subsequent order to seal the file. So in that respect, it was me, as a result of those subsequent events. So we just need to be clear about that. The second thing I wanted to address in respect of your email, is that you appear to have then, from our last mention, taken what I said to mean that you just simply go back to RTS and apply for it again. That’s futile because I still have an order in place sealing the file. 
+
+I said to you at the last mention, you are at liberty to apply to invite me to overturn that order, or retract that order, or open it up. That’s what I said to you. It’s on the transcript. You are at liberty to do that. I haven’t received any application to that effect, nor have you sought to appeal the decision, which you are also at liberty to do. So until that order is set aside or varied by me, it remains in place. But you are at liberty to apply to have me set that order aside or at least vary it to some extent, including the release of the transcript. 
+
+So if you wish to obtain a copy of the transcript for the 23rd of August, you need to first apply to me – sorry, you’re shaking your head. Why are you shaking your head, Ms Benjamin? 
+
+APPELLANT: Commissioner ‑ ‑ ‑ 
+
+COMMISSIONER: I want to be sure you understand what I’m saying. 
+
+APPELLANT: Commissioner, I’m party to the litigation. In order to prepare this litigation, I need to understand what’s said in the courtroom, and in order to do that, I’m entitled to a copy of either the transcript or the audio recording. But you’re saying that I have to make an application to lift the suppression order that – for – in order to do that. 
+
+COMMISSIONER: Correct. Because ‑ ‑ ‑ 
+
+APPELLANT: I’ve never seen that. 
+
+COMMISSIONER: Well, because on that transcript is a discussion about the scandalous allegation. So – including the name of the Judge involved. 
+
+APPELLANT: It was in an open courtroom. 38 
+
+COMMISSIONER: Correct. And it’s on a transcript, but it remains a matter that – sorry, Ms Benjamin, it is very disrespectful for a legal practitioner to shake their head in the negative while I’m talking to them. The transcript contains a discussion about the nature of the scandalous allegation, and for that reason it remains part of the order sealing the file, because I do not want that in its current form being released to the public, and particularly to the media, before any evidence is presented, if necessary, in relation to that. So in order to avoid that scandalisation of the Supreme Court, I made the order to seal the file. 
+
+You are at liberty – and, as I said to you on the last occasion, Ms Benjamin, you – I said to you I have no difficulty in releasing the transcript to you for the purposes of preparing your – preparing in these legal proceedings. I said to you I’d feel more comfortable releasing it to lawyers, but I certainly didn’t exclude the prospect of releasing it to you . But I said, “You need to make an application.” Given that there is an order in place sealing the file, you need to first apply to me. And if you are able to provide me with cogent submissions and, more importantly, clear undertakings as to how and what purposes you will use the transcript, it’s very likely I’ll release it to you, because as you correctly reflect, it may be a matter of procedural fairness and natural justice for you to obtain those things. 
+
+It’s not just any old transcript . It’s transcript that contains references to a scandalous allegation, and for that reason it’s caught by the overall concern that I have about that information falling into the public domain improperly. But you are a litigant to the proceedings and you do, in the general sense, have a better argument than anybody for a copy of it, but in light of what it contains you’re going to need to, first of all, make an application . That’s how you deal with it. I made the order. You’re now seeking something that is a variation on that order, so you can make that application and you make the application to me . And I will require your application to be supported by some written submission. That’s all clear? 
+
+APPELLANT: That’s all clear. 
+
+COMMISSIONER: All right. So we can address it that way, and as soon as I receive your application, I’ll process it. The other thing I thought might be of some benefit, while we’re here today, Ms Benjamin, is just to simply reorient where we’re at with this matter. To the extent that you might be labouring under some misunderstanding, I have been – I have carriage of this file for case management, which means that I supervise the matter during the filing of material and disclosure, and deal with any interlocutory issues, for example, like your disclosure application. 
+
+But when all of that’s done and the matter’s ready to proceed to hearing, I send it back to the registry and it gets assigned to somebody else. 
+
+My role, with the exception of some aspects of interlocutory applications that may or may not be filed, is essentially administrative, and I’m simply trying to manage this matter through so that it’s ready to proceed to hearing. And I don’t want you to lose sight of that, because where you talk at where – how this matter’s been adjourned to the 26th of November, and you’re wanting to – need this material to prepare for your case, you’ve already filed statement of facts and contentions. 
+
+Matters of disclosure, I presume are at hand and – or will be on their way. You filed an application for disclosure, which I didn’t dismiss. I’ve adjourned it to the 26th because you applied for a report that didn’t exist. And on the 26th of November we may have more information, things may have progressed, and you may get your order. Or we can address it in some other way, but I think you’ll find I said on the record at that time that if it’s not ready by then I’ll be asking some more questions of the reporter as to when it’s going to be made available, because I can appreciate it’s a matter that you might need in the – for the preparation of your matter. 39     
+
+> So that’s where we’re at. This is generally a preparation phase of the matter, and you’ve done the large part of your task. You’ve filed your statement of facts and contentions, and it’s just the outstanding issue of disclosure that’s the subject of your non-party disclosure application, which is currently adjourned until the 26th of November. And the respondents have filed their statement of facts and contentions, so we’re progressing.
+> It’s not for me really at this point in time to delve into why you think the transcript is important for the preparation of proceedings, but you can tell me all of that when you make your application to vary the suppression order. Is that all clear?
+> APPELLANT: Yes, Commissioner Dwyer .
+> COMMISSIONER: All right. Ms Marr, anything arising out of all of that?
+> MS MARR: Nothing arising out of that, Commissioner.
+> COMMISSIONER: We’re adjourned. Thank you.
+> ADJOURNED [1.51 pm]
+
+(Emphasis added) 
+
+[156] The transcript plainly reflects my repeated overt encouragement to Ms Benjamin to make an application to me (not the transcript providers). Additionally, I remind Ms Benjamin she also has the option to appeal my decision to seal the file. 
+
+[157] There is a clear point in our interaction where an impasse emerges. Ms Benjamin cannot quite seem to understand (or perhaps accept) the reasons why I require her to make an application for the transcript. The transcript reflects that I then (again) explain to Ms Benjamin what I require her to do and why that is necessary in this case. Ultimately Ms Benjamin appears to acknowledge what is required. 
+
+[158] It is fair to say that by this stage in my experience with Ms Benjamin, I am developing an impression that she feels frustrated by my rulings. For this reason, in closing remarks to her at that mention the transcript reflects that I took time to explain my limited role to Ms Benjamin in the hope that would give her some assurance that, to whatever extent she might be unhappy with my rulings, I would not be dealing with her substantive matter. 
+
+Mention on 25 October 2024 and 19 November 2024 
+
+[159] The matter was mentioned again on 25 October 2024 to deal with an issue raised by the respondents with respect to disclosure. No controversy arises from this mention, but a review of the transcript is relevant to Ms Benjamin’s recusal application because, in my 40 
+
+view, it plainly demonstrates the balanced and fair manner with which Ms Benjamin’s interests are considered. 54  
+
+> [160]
+
+On 8 November 2024 an interlocutory application was filed by the respondents which essentially sought further and better particulars from Ms Benjamin. The application also sought a suspension of disclosure obligations pending provision of the requested further and better particulars.  
+
+> [161]
+
+The matter was listed for mention on 19 November 2024 to hear from the parties as to how this application would be addressed. Ms Benjamin was heard fully on her concerns. Ms Benjamin was opposed to the application and consequently the matter needed formal determination. The transcript relevantly records that I first explored whether the matter might be able to be resolved by consent (which would expedite resolution), but I was informed it could not. 55  I then proceeded to issue directions for the filing of submissions.  
+
+> [162]
+
+On the question of on-going disclosure, after having heard from Ms Benjamin on the issue, I ruled it imprudent for parties to be compelled to disclose documents at a time where the full and precise details of Ms Benjamin’s complaint may not yet be clear.  
+
+> [163]
+
+In the circumstances I ordered that all existing directions be vacated 56  and released the parties from the obligation of disclosure 57  pending resolution of this interlocutory application. The interactions with Ms Benjamin that are reflected on the transcript do not demonstrate any objective unfairness to her. 
+
+Recusal application and mention on 29 November 2024  
+
+> [164]
+
+Following the mention on 19 November 2024 I issued directions for the filing of submissions with respect to the respondent’s interlocutory application. On or about 28 November 2024, Ms Benjamin filed the recusal application. The matter was listed for mention on 29 November 2024 and was programmed accordingly. The parties filed written submissions in accordance with directions. Additionally, the parties agreed that all other directions in respect of the proceedings be vacated.  
+
+> [165]
+
+The recusal application nominates eight separate grounds upon which Ms Benjamin says I ought to recuse myself. 
+
+Consideration of recusal application      
+
+> 54 T 1-2 to T 1-8.
+> 55 T 1-2.
+> 56 T 1-6, ll 35-45.
+> 57 T 1-3, ll 30-45. 41
+> [166]
+
+Ms Benjamin’s recusal application has revealed a vast chasm between her perception of the events in proceedings between July and November 2024, and the objectively demonstrable reality evident from the various transcripts of proceedings.  
+
+> [167]
+
+The grounds relied on by Ms Benjamin rely largely on factual matters that I have already summarised and discussed in these reasons. Consequently, I do not intend to repeat those factual summaries as I now address the stated grounds for recusal directly.  
+
+> [168]
+
+Consideration of recusal applications are no longer limited to the maxim contained in 
+
+Ebner . The effect of QYFM is to add precision to the consideration. The parties have addressed these considerations in a consecutive manner. For the purpose of brevity, I will consider these principles concurrently in my consideration of each ground. 
+
+Ground One – Removal of the evidence filed for the timetable directions application  
+
+> [169]
+
+The reasons for the removal of the application, affidavit, and submissions (filed 27 June 2024) from the file are outlined earlier in these reasons. It was a file maintenance decision that I made primarily to minimise unnecessary hard copy material being added to a hard copy file. The application and supporting material were unsolicited and ultimately not dealt with. The documents in question served no purpose on the file.  
+
+> [170]
+
+In these circumstances it is impossible to appreciate how a fair-minded lay observer might reasonably apprehend that I might not bring a fair, impartial and independent mind to the resolution of the question I am required to decide.  
+
+> [171]
+
+Firstly, the matter was listed on 9 July 2024 in response to the material being filed. The order removing the materials was made after the mention on 9 July 2024 i.e. after Ms Benjamin’s application had been discussed. The order was not made by stealth. A copy was sent to Ms Benjamin, and she was entirely at liberty to notify an objection or even appeal. She did neither.  
+
+> [172]
+
+Indeed, despite numerous mentions of this matter, Ms Benjamin raised no complaint about this decision until November 2024, some four months later.  
+
+> [173]
+
+Secondly, there is no prejudice to Ms Benjamin arising from my order. The material removed was an interlocutory application, an affidavit, and submissions. The application essentially sought directions for the filing of SOFCs. A direction to that effect was made following the mention on 9 July 2024. The affidavit was, at this stage in proceedings, superfluous.  
+
+> [174]
+
+Additionally, even if the affidavit did contain matters of ‘vital’ importance, the order removing it does not prevent Ms Benjamin from simply refiling it. 42  
+
+> [175]
+
+In fairness to Ms Benjamin, it might be that she has delayed her complaint about my actions in this instance because she might consider my order has subsequently taken on an appearance of bias in the context of my later dealings with her matter. I will address my overall conduct of the matter later in these reasons.  
+
+> [176]
+
+Considering the three stages for consideration of recusal set out in QYFM it seems from her submissions that Ms Benjamin contends that I ordered the removal of the documents in question intentionally ‘to prevent negative impact on the respondents and member of the Supreme Court’. 58  Ms Benjamin’s contention is, by her use of the term ‘lends to the conclusion’, speculative.  
+
+> [177]
+
+Nevertheless, it is a serious allegation to suggest I have intentionally removed filed documents for such a purpose. The asserted ‘logical connections’ contained at [86] of Ms Benjamin’s submissions of 28 November 2024 are utterly without factual foundation and anything but logical.  
+
+> [178]
+
+But given the facts I have outlined above explaining the relevant sequence of events, it goes without saying that I consider it entirely unreasonable that that a fair-minded lay observer would apprehend bias. 
+
+Ground Two – Conduct in the courtroom intended to intimidate, bully or embarrass Ms Benjamin  
+
+> [179]
+
+Ms Benjamin does not just contend that I spoke to her inappropriately on 23 August 2024. She contends that I did so with intent to bully or harass her. It is a serious allegation to make.  
+
+> [180]
+
+I have already comprehensively outlined the relevant aspects of my interactions with Ms Benjamin. Ms Benjamin’s complaint appears to be confined to my handling of the controversial allegation contained in her SOFC.  
+
+> [181]
+
+The submissions on this ground filed by Ms Benjamin on 28 November 2024 appear to conflate the issues of judicial conduct and the reasonable apprehension of bias. While specific types of judicial conduct could form a basis for a fair-minded observer to conclude that a judge might not deal with a matter fairly, it would be a question of what 
+
+was said and how it was said.  
+
+> [182]
+
+A judge who misconducts themselves by way of e.g. an inappropriate hostile demeanour will not immediately by liable to recusal. As Ms Benjamin notes in her own submissions, just as it is permissible for a judge to ‘react with impatience or irritation’ at times, so too can the effects of my initial shock reaction be tolerated, especially when they are quickly  
+
+> 58 Ms Benjamin’s submissions filed on 28 November 2024, [39].
+
+43 
+
+ameliorated. 59  The broader context of the transcript, both on 23 August 2024 and later dates very much demonstrate that the effect of that brief moment of unfairness of that initial reaction is entirely overcome. 
+
+[183] I accept that, as a general rule, judicial officers ought to maintain respectful and courteous tones when engaging with litigants, witnesses, and lawyers. Indeed, there is ample evidence of me doing just that in all of the numerous transcripts available in these proceedings. But courtrooms are routinely a setting that provoke a range of human emotions or drama, and judicial officers cannot be expected to be immune from the occasional lapse in an otherwise inscrutable judicial façade. 
+
+[184] Having regard to her submissions, this ground requires consideration of what I said to Ms Benjamin, but also how I said it. I will deal firstly with the ‘how’. Ms Benjamin’s complaint about my reaction to the allegation is set out in her submissions: 60  
+
+> 52. The reaction of Commissioner Dwyer upon realising that the Complainant had written the name of a judicial officer in the pleadings was disproportionate to the inconvenience that the Commission would suffer in making orders to remove the pleadings from the record and reset filing and service directions (which it did). Commissioner Dwyer has expressed no frustration in vacating and re-issuing directions orders for the Respondent on repeated occasions. The reaction is illustrative of some kind of interest in the outcome of the proceedings; or some desperation to protect all judicial officers of the Supreme Court at all costs, irrespective of the truth of the allegations. This does not serve to protect the impartiality and independence of the Commission or the Court but rather it serves to further demonstrate that the Commission will do whatever is necessary to hide any allegation that impugns another judicial officer. It demonstrates that the judiciary is above the law.
+
+[185] Ms Benjamin has contended that I ‘raised’ my voice at her. I can only assume she means that I raised my voice in a hostile manner. I reject this characterisation. I have already acknowledged in these reasons that my initial reaction to the controversial allegation was underpinned by a significant amount of incredulity. I further accept that my incredulity caused my language (both words and tone) to be more emphatic. Speaking with an emphatic tone may cause a voice to rise and it may sharpen enunciation (as it did here), but that is not a ‘raised voice’ of the character that Ms Benjamin illustrates. 
+
+[186] Ms Benjamin also points to a particular statement as evidence of my unfairness and bias. In her submissions (at [42]) she contends that I yelled “ You’re a lawyer !” at her which she said ‘implied she should know she was contravening the Australian Solicitors Conduct Rules’.      
+
+> 59 Ms Benjamin’s submissions filed on 28 November 2024, [50], citing Piccolotto v The Queen [2015] VSCA 143.
+> 60 Ms Benjamin’s submissions filed on 28 November 2024. 44
+> [187]
+
+That particular comment was made during my initial discussion with Ms Benjamin about the properness of including a scandalous allegation about a judicial officer in pleadings. The transcript of this exchange provides clarity: 61   
+
+> COMMISSIONER: To put it into a – to put it into pleadings and file it in a public registry is particularly grievous.
+> APPLICANT: I apologise, Commissioner. I didn’t even – when I was drafting that, it was in my own – I don’t have the benefit of having someone review this material.
+> COMMISSIONER: You’re a lawyer, Ms Benjamin, and that carries a lot of responsibility with it.
+> APPLICANT: It does.
+> COMMISSIONER: You don’t – you shouldn’t need people to review your material. I mean – well, what are you – – –
+> [188]
+
+I can well recall this moment in our exchange on 23 August 2024. While not having the benefit of reviewing the audio of the transcript I am entirely certain my tone was one of shock and incredulity. I did not yell. Ms Benjamin’s excuse of being unsupervised when drafting the contentious pleading was thoroughly unsatisfactory. Moreover, in light of my growing concerns, it left me pondering as to exactly how out of her depth Ms Benjamin really was.  
+
+> [189]
+
+Ms Benjamin is correct about one thing though: I absolutely was implying that, as a lawyer, she should plainly understand her professional obligations and duties. And it is troubling that her submissions appear to suggest this was an unreasonable expectation for me to have.  
+
+> [190]
+
+Cautionary cries to a person dancing awkwardly next to a bonfire who display no insight into the danger will invariably be delivered in a raised voice. But the concern prompting that cry brings an entirely different character to the volume or tone. It is clear from the transcript that I was trying to impress upon Ms Benjamin the serious nature of the allegation, and the possible consequences for her. In those circumstances, while I may have handled the issue in a more measured way with more notice, I am entirely content that my emphatic tone was otherwise appropriate.  
+
+> [191]
+
+Further, it seems that my tone and my words confused the message I was attempting to deliver to Ms Benjamin. But beyond confusion, it seems it has caused Ms Benjamin to arrive at an entirely erroneous understanding of the effect of my comments. Ms Benjamin provides what she purports to be a description of the effect of that exchange in her submissions. It is helpful to address the description because it gives a keen insight into the extent to which Ms Benjamin’s personal perceptions are distorted: 62   
+
+> 61 T 3-13, ll 1-20.
+> 62 Ms Benjamin’s submissions filed on 28 November 2024.
+
+45                    
+
+> 53. In circumstances where the Complainant is a current practicing lawyer (in litigation), the reaction of Commissioner Dwyer does diminish the confidence of litigants. It also poses the risk that the Complainant’s own reputation as a litigant in the course of their current employment in unrelated proceedings will be adversely affected, on the basis that
+> Commissioner Dwyer has already determined that the Complainant is dishonest and has breached the ASCR.
+> 54. Commissioner Dwyer has made adetermination as to the credibility of the Complainant, without having seen all of the evidence of the public interest disclosure. A fair-minded lay observer might reasonably apprehend that Commissioner Dwyer might not bring an impartial and unprejudiced mind after he has already determined that the Complainant has breached the ASCR.
+
+(Emphasis added) 
+
+[192] Ms Benjamin contends, as a basis for a conclusion of bias, that I determined she was dishonest, breached the Australian Solicitors Conduct Rules , and made a determination about her credibility. Nothing contained on the transcript from 23 August 2024 (or any other transcript in these proceedings) supports that. Those assertions are patently wrong. 
+
+[193] Further, even if my initial reaction to the allegation was objectively considered excessive or my concerns for Ms Benjamin misconceived, it is important to note that my response to learning of the inclusion of the allegation in the SOFC did not lead to any substantive decision in respect of Ms Benjamin’s proceedings. 
+
+[194] To the extent that it led to the removal of the filed SOFC (with Ms Benjamin’s apparent consent) Ms Benjamin had leave to file a further SOFC, which she did. The amended SOFC contains essentially the same allegation (albeit now expanded). That SOFC remains on the file and remains ready for Ms Benjamin to rely on at hearing. Her case has not been impeded in any way. 
+
+[195] Ms Benjamin contends that my actions on 23 August 2024 were bullying or intimidating in nature, and this is (as she speculates) ‘illustrative of some kind of interest in the outcome of the proceedings’ or ‘some desperation to protect all judicial officers of the Supreme Court at all costs’. 63  Again, these are serious allegations which, if true, would undoubtedly lead to a conclusion of bias (or worse). These allegations are entirely unsupported by any evidence and are as illogical as they are speculative. 
+
+[196] There is no reasonable basis upon which a fair-minded lay observer would arrive at the conclusions contended for by Ms Benjamin. In all of the circumstances relevant to this ground, there is no reasonable basis to conclude bias at all. 
+
+Ground Three – Excessive pressure on Ms Benjamin to engage legal representation 
+
+[197] The question of legal representation only features on three occasions during my interactions with Ms Benjamin.  
+
+> 63 Ms Benjamin’s submissions filed on 28 November 2024, [52].
+
+46 
+
+[198] The first instance occurs at the mention on 23 July 2024 where the transcript records me saying: 64 
+
+…this is one of the great dangers of acting for yourself in a matter, but particularly when you’re a lawyer, because you’ve got a bit more knowledge that the average self-represented person, but a lawyer who’s lost objectivity in the conduct of proceedings is very quickly going to get into perilous situations, because you have a greater ability to use the processes of this Commission…but none of the restraint that a lawyer typically appearing in proceedings would have….and that’s how you get into situations like this. 
+
+[199] This comment arises in the context of my interaction with Ms Benjamin following the revelation of the allegation in the SOFC and after I have resolved to remove that SOFC from inspection and direct an amended SOFC be filed. 
+
+[200] The next mention of legal representation is contained in an email from Ms Benjamin when she indicates she is in the process of engaging lawyers and is unavailable to attend a proposed mention. My chambers respond to that email by noting her intention to engage lawyers and, in essence, asking her to have her lawyers file the appropriate forms to go on the record. This is an entirely perfunctory request in circumstances where Ms Benjamin initiated the discussion and referred to engaging lawyers. 
+
+[201] The third mention of legal representation is at the mention on 2 October 2024 where I relevantly said: 65 
+
+COMMISSIONER: … And I should just say, also, on the question of legal representatives, while we’re in that territory, I understand you’re in the process of engaging somebody or somebody is about to be engaged? 
+
+MS BENJAMIN: Yes, that’s correct. So, at this stage, I’ve made inquiries but it’s a slow process. There’s a lot of material. There’s a lot of – I mean, it’s this – you know – I’m asking for something that is representation on a pro bono or reduced fee basis, so - - -
+
+COMMISSIONER: Okay. Well, I understand why it might be challenging in those circumstances. And I’ve been misunderstood on this before. So, to the extent that I might have been – and not that I would in any way discourage you obtaining legal representation or even legal advice, but – and nor can I, for that matter – I certainly can’t make any orders to that effect. But the conversation we had on the last occasion was again counselling you about the – and I use the term counselling not in the sense that it might be used in relation to, you know, workplace performance counselling. I’m using it in the friendlier sense in that I’m seeking to provide you with a level of insight into the dangers of self-representation, particularly when it’s an emotive matter. 
+
+And you may be better placed having somebody a little more objective guide you through the process. But I want to stress for the record that it’s entirely a matter for you whether you’re represented. And I have no preference either way. It’s merely an observation I made on the  
+
+> 64
+
+T 3-15, ll 1-11.  
+
+> 65
+
+T 1-5, ll 1-25 47 
+
+> last occasion out of the interests of perhaps making things a bit easier for you in terms of the conduct of these proceedings. But you’re at liberty to go either way you want, just in case I wasn’t clear about that.
+
+(Emphasis added)  
+
+> [202]
+
+Ms Benjamin’s assertion that I used ‘excessive pressure’ on her to engage legal representation is roundly contradicted by the transcript. Even putting to one side consideration of what (if any) relevance my intentions can have to a recusal application, the plain language used on 2 October 2024 makes a deliberate statement to Ms Benjamin that she is at liberty to engage or not engage legal representation.  
+
+> [203]
+
+Ms Benjamin goes on to contend that ‘a fair-minded lay observer might reasonably apprehend that Commissioner Dwyer might not bring an impartial and unprejudiced mind after he has repeatedly insisted that one party be legally represented’. 66  There is no evidence on any transcript (or at all) that I ‘insisted’ Ms Benjamin obtain legal representation either repeatedly or at all. That submission is unsustainable on the facts.  
+
+> [204]
+
+In the circumstances Ms Benjamin’s perception of my words as ‘excessive pressure’ to obtain legal representation is impossible to reconcile with the objective facts. It would simply not be open on these facts for a fair-minded lay observer to consider I would not deal with her matter fairly. 
+
+Ground Four – Unjustified suppression order not in accordance with the law  
+
+> [205]
+
+I have already extensively addressed the circumstances under which I made an order sealing the file and will not repeat them at length. Suffice to say that a tension can arise between the need to adhere to principles of open justice, and the need to ensure that public confidence in the judiciary is not undermined. In this instance, at least in the interim, it is my view that the public confidence in the judiciary warrants paramount consideration.  
+
+> [206]
+
+To be clear, I acted independently because the allegation contained in the SOFC is in many respects: 
+
+• very serious; 
+
+• capable of undermining public faith in the judiciary; 
+
+• devoid of any clear particulars; 
+
+• arguably irrelevant; and 
+
+• likely to give rise to serious consequences for Ms Benjamin if made without proper basis.   
+
+> 66 Ms Benjamin’s submissions filed on 28 November 2024, [59]. 48
+> [207]
+
+Ms Benjamin’s submissions on this ground appear to misunderstand the powers of the Commission to act on its own motion. Those powers are plainly available. 67  Further, Ms Benjamin contends she was not given any opportunity to be heard or make submissions on the matter. The transcripts excerpts set out earlier in these reasons demonstrate that Ms Benjamin was (firstly) provided with full reasons for the making of the order and (secondly) advised multiple times that she was at liberty to make an application to vary it.  
+
+> [208]
+
+The making of the order to seal the file without first hearing from the parties was, without question, and unorthodox approach. The circumstances giving rise to that approach are explained earlier in these reasons. Lest there be any confusion, the seriousness of the (unparticularised) allegation and the need to avoid even the slightest risk of inadvertent disclosure to the media at that time required swift action, but with the full expectation that parties would be heard and reasons delivered after the making of the order. This is precisely what occurred.  
+
+> [209]
+
+Reasonable minds may differ as to the necessity or even legitimacy of my approach, but that is a consideration more properly suited for an appeal. No appeal was made.  
+
+> [210]
+
+In giving my reasons to Ms Benjamin, she was advised that I was not prepared to have the SOFC on the public record ‘at this time’. The plain and only implication from this language is that the order is in response to the current state of the matter. Additionally, the repeated invitations for Ms Benjamin to apply to vary the order ought to have left her in no doubt that it was capable of being disturbed.  
+
+> [211]
+
+Whatever prejudice or unfairness to Ms Benjamin that might be objectively evident from the manner in which I made the order or its effect, it was entirely overcome by the fact that the matter was listed for mention shortly afterwards, Ms Benjamin was informed of the reasons, and she was given an opportunity to be heard. 68  Ms Benjamin declined the offer to make submissions when I explained the reasons to her, but that was very clearly her opportunity to inter alia attempt to persuade me to set the order aside. Additionally, Ms Benjamin was (repeatedly) invited to make an application to vary the order or appeal. She has not done either.  
+
+> [212]
+
+Having had all of these opportunities, and having taken none of them, Ms Benjamin’s contentions that my order gives rise to an apprehension of bias is simply unsustainable. The mere fact that I independently (but lawfully) made an order in somewhat urgent circumstances and on a very important matter should not be considered in a vacuum. The subsequent reasons given, and the squandered opportunities to be heard, apply to vary, or appeal must all be included in consideration of this ground.    
+
+> 67 Industrial Relations Act 2016 (Qld) s 451(2).
+> 68 T 1-4, ll 1-10.
+
+49 
+
+[213] When considering the full context, the logical connection required to give rise to the reasonable apprehension of bias evaporates. There is no reasonable basis where a fair-minded lay observer would conclude I would not deal with the matter fairly in these circumstances. 
+
+Ground Five – Refusal to allow access to proceeding recordings and transcripts 
+
+[214] The premise of this ground is factually incorrect. The transcript excerpts set out above confirm that Ms Benjamin has not been refused access to transcripts. She was repeatedly invited to apply for them, and she has failed to do so. The excuse that Ms Benjamin (now) offers is that I would not deal with those applications fairly. This presumes bias that has not been proven. It is an illogical and circular argument that cannot be sustained. 
+
+[215] This ground warrants no further consideration. 
+
+Ground Six – Refusal to give written reasons for the suppression order 
+
+[216] The premise of this ground is misconceived. The reasons given are contained in the excerpt of the transcript of 2 October 2024 that is set out earlier in these reasons. I expressly provided Ms Benjamin with a full explanation for the order sealing the file. Following the mention on 2 October 2024 Ms Benjamin was at liberty to appeal my decision. She did not. 
+
+[217] I have scoured the correspondence and the transcripts on this file. I can find no express demand for reasons for to be provided in writing . To the extent that I may have overlooked such a request I note that Ms Benjamin offered no complaint about the format of the reasons at the mention on 2 October 2024. On the contrary, after delivery of the reasons Ms Benjamin was given both an opportunity to be heard on the matter or to ask any questions. She unambiguously declined both. 69 
+
+[218] For completeness it ought to be made clear that there is no requirement to provide written reasons. Indeed, interlocutory matters may require no reasons at all. In R v Kay; Ex parte Attorney-General , 70  the Queensland Court of Appeal noted the observations of the High Court in Wainohu :      
+
+> As French CJ and Kiefel J there noted, Heydon J had adopted that summary in AK v Western Australia , describing “the duty of judges to give reasons for their decisions after trials and in important interlocutory proceedings as ‘well established’”. Notably, Heydon J expressed the duty to give reasons for decisions after trials and in important interlocutory proceedings, thereby indicating that not every judicial decision requires an expression of reasons . The same qualification appears in the judgment of French CJ and Kiefel J in Wainohu , where their Honours noted the qualification by Gibbs CJ, in Public Service Board (NSW) v Osmond , that there was no
+> 69 T 1-4, ll 5-10.
+> 70 [2017] 2 Qd R 522, [27].
+
+50 
+
+“inflexible rule of universal application” that reasons be given for judicial decisions. Thus in 
+
+Wainohu , French CJ and Kiefel J said: 
+
+“The duty [to give reasons] does not apply to every interlocutory decision, however minor. Its content – that is, the content and detail of the reasons to be provided – will vary according to the nature of the jurisdiction which the court is exercising and the particular matter the subject of the decision .” 
+
+(Emphasis added) 
+
+[219] Ms Benjamin received oral reasons on 2 October 2024. She did not, at that time or thereafter, press for written reasons. Even if she had, I had a discretion not to provide them when I had already given reasons on the record. This ground warrants no further consideration. 
+
+Ground Seven – Veiled threat that the Ms Benjamin will be investigated by Regulatory Body 
+
+[220] It is helpful in dealing with this ground to reconsider the relevant portion of the transcript that is already set out earlier in these reasons. With respect to the alleged ‘veiled threat’ it is contained in the transcript of the mention on 2 October 2024: 71 
+
+COMMISSIONER: …In the circumstances where I’ve made that order, you are, of course, at liberty to – as you have done – ask to be heard on the matter. You haven’t done that in so many words, but that was, of course, an option always open to you. And, indeed, I anticipated that I would be hearing from you given the circumstances under which I had to make the order. And, so, here we are. 
+
+So, having heard why I have done it – and, Ms Benjamin, you are at liberty to plead your case in a way that you like and, unless I hear further argument from the respondent objecting to it and asking for it to be struck out, I will leave your pleadings exactly as they are. It’s not my role to mess with your pleadings. But I will certainly step in to protect scandalising of the Supreme Court. But, if you intend to leave your pleadings in that way, subject to any objection and application from the respondent, that’s the way they’ll stay. But they won’t be open to the public to scrutinise. But I haven’t heard fully from you on that. And, if you wish to be heard as to why I should lift that order, then you can have that opportunity. And I will give you an opportunity to provide me with written submissions, and I will provide you with written reasons on any application by you to lift the order sealing the file. 
+
+And I wish to be very clear in what I’m saying to you. In giving you that opportunity, I appreciate that you will want to understand, more so if I refuse your application, why that’s so. And I will explain why. And that will be in a decision that will be published. And that decision will require me to explain the nature of the scandal without necessarily detailing things. That then goes on the public record . And that then, Ms Benjamin, may draw attention from regulatory bodies in relation to your pleading and your conduct. So, fair notice. You are absolutely at liberty to seek to have that order set aside. I will hear you on that. I will hear your submissions in writing, or orally, or both if you wanted. And I will provide you with considered reasons in detail why, or why not, I’m prepared to lift that. But, given what I’ve explained to you now, I would anticipate you might understand why the order was made. But it’s a matter for you what you do with that going forward.  
+
+> 71
+
+T 1-3, ll 20-45. 51  
+
+> Have you got any questions in relation to any of that, or did you want to make any submission at this point?
+> MS BENJAMIN: No, Commissioner Dwyer.
+> [221]
+
+Since becoming aware of the allegation on 23 August 2024, I was at pains to impress upon Ms Benjamin the serious nature of such a pleading. Throughout the subsequent mentions of this matter, in my interactions with Ms Benjamin I continued to hold concerns that she fundamentally lacked insight into this, and to the possible consequences for her if it ultimately transpired that the allegation was made without good cause. I should say here that, in my view, to make an allegation of this type ‘without good cause’ is not limited to it being made with deliberate dishonesty or malice. It would, in my view, extend to an allegation made recklessly or in circumstances where the person making the allegation has failed to properly evaluate its veracity in circumstances where they reasonably ought to have. As a lawyer, Ms Benjamin would be expected to have advanced skills in forensic analysis and so, what might reasonably be expected of her before making such a serious allegation in a public forum would be to a much higher standard.  
+
+> [222]
+
+In my experience, self-represented litigants are invariably affected by a loss of objectivity. This impairment will often undermine a self-represented litigant’s judgment about the veracity of facts upon which they rely. I was (and remain) concerned for Ms Benjamin that she is affected in this way. I stress here that such a concern is more inclined to cause me to exercise greater fairness to her in my decisions, but also it does not impair my willingness to allow Ms Benjamin to persuade me on matters she contends for.  
+
+> [223]
+
+The relevant context for what Ms Benjamin describes as a ‘veiled threat’ reflects this concern. Having delivered full reasons for the decision to seal the file, I was then explaining to Ms Benjamin how she might access the transcript she wanted. I was, as I have already explained, not prepared to simply order its release.  
+
+> [224]
+
+In circumstances where there was an order sealing the file, I put it to Ms Benjamin that she would need to apply and explain why she wanted the transcript. Her mere assertions of needing it to assist with her preparation of her case were somewhat opaque. The transcript she sought was the transcript from 23 August 2024. That mention dealt with the NNPDs (which had been adjourned to November 2024) and the controversy about the allegation I the SOFC. Ms Benjamin had already filed an amended SOFC. How this transcript could assist Ms Benjamin with the preparation of her case was not made clear by Ms Benjamin and nor was it obvious to me. I was concerned she would make an application unnecessarily and expose herself to the potentially adverse personal consequences.  
+
+> [225]
+
+The ‘veiled threat’ alleged by Ms Benjamin is plainly not a threat, nor is it a warning or even a caution against her doing anything or taking any steps. Importantly, I did not say (nor would I) that I would refer her to any regulatory body e.g. the Legal Services 52 
+
+Commission. In keeping with my concerns about her lack of awareness of possible consequences for her allegation, I simply put her on notice that any decision I issue will be published and all that might entail.  
+
+> [226]
+
+Ms Benjamin may have subjectively considered my language as threatening, but that is not the test to be applied here. To the extent my intention is relevant, I was acting out of concern for Ms Benjamin who, in my view, was generally demonstrating a lack of insight into possible adverse consequences she may face.  
+
+> [227]
+
+But even disregarding my subjective intention, in my view the transcript shows that there is no basis upon which a fair-minded objective observer would consider my language to be a threat, veiled or otherwise. It follows that the alleged ‘logical connection’ that I was attempting to intimidate or threaten Ms Benjamin is also not supported by the transcript.  
+
+> [228]
+
+In those circumstances that I consider that there is no reasonable basis upon which a fair-minded lay observer would consider I would not decide the matter fairly. 
+
+Ground Eight – Excessive intervention and courtroom comments to persuade Ms Benjamin to consent  
+
+> [229]
+
+Ms Benjamin cites two instances that she contends represent ‘excessive’ interventions or comments to persuade Ms Benjamin to consent. The first is the interactions about the NNPDs at the mention on 23 August 2024. The second involves interactions around an extension on directions dealt with at a mention on 25 October 2024.  
+
+> [230]
+
+The interactions dealing with the NNPDs on 23 August 2024 are already discussed at length in these reasons. Suffice to say that Ms Benjamin sought inter alia disclosure of an investigation report that did not exist. Rather than dismiss this application I adjourned it for 3 months. I could just as easily have dismissed the application but, in fairness to Ms Benjamin I acknowledged on the record that the report would be relevant and determined to adjourn her application.  
+
+> [231]
+
+With respect to the remaining aspects of her NNPDs there was an objection by Ashdale to disclosure on grounds that it would inter alia compromise the integrity of the investigation. The objection meant that all parties would need to be heard on the NNPD applications. Given the subject matter I anticipated that this would not be a simple dispute.  
+
+> [232]
+
+It is here in the transcript where I indeed pointedly engage with Ms Benjamin about other possible defects in her application. The relevant exchange is recorded as follows: 
+
+> COMMISSIONER: Thank you. All right. Ms Benjamin, do you accept that the report doesn’t exist yet?
+> APPLICANT: Yes, Commissioner.
+
+53 
+
+COMMISSIONER: So what do you say you should be given from Mr Cook? 
+
+APPLICANT: The documents in the file, Commissioner, so the raw evidence for – – – 
+
+COMMISSIONER: What – – – 
+
+APPLICANT: – – – which – – – 
+
+COMMISSIONER: Well, what documents are they? 
+
+APPLICANT: So those would be interview records – – – 
+
+COMMISSIONER: No, no, what would be – not – don’t tell me what they would be. What are 
+
+they? 
+
+APPLICANT: Transcripts of interviews between – – – 
+
+COMMISSIONER: Well, do you know that he has transcripts of interviews? 
+
+APPLICANT: Yes. I – I have a very good idea that there would be that in existence. 
+
+COMMISSIONER: All right. So you have a good idea. You see, if you can’t describe with precision what documents it is that you want, that creates a real difficulty in terms of what documents can be ordered, and that’s part of the problem we’ve got with this application, and I’ll come to that in a moment. I hadn’t intended to deal with this matter substantively today. I’d intended to ascertain whether or not there was going to be a significant dispute around it. It does appear that there might be, based on the submissions you filed unsolicited yesterday afternoon, hence the delay this morning. Generally, when submissions come in, they come in at my request, not without my request, but nevertheless I’m grateful for having them now because I understand the extent to which you wish to press this matter, which means we may go to a substantive hearing on the issue, subject to how our discussions this morning go. You following me? 
+
+APPLICANT: Yes, Commissioner. 
+
+(Emphasis added) 
+
+[233] The exchange that Ms Benjamin particularises in her submission is very brief. For that reason alone, it cannot be regarded as ‘excessive’. Further, to the extent those comments were made as an attempt to persuade Ms Benjamin to consent to an adjournment I unapologetically agree. 
+
+[234] Ms Benjamin’s NNPDs were going to be the subject of significant dispute. Having already determined that the investigation report did not exist the transcript reflects that I then turned to the disposition of the remainder of the material sought in the NNPDs. It was entirely proper to ‘reality test’ Ms Benjamin on the competence of her applications in circumstance where she was likely to be confronted with opposition from the non-party and the respondents. 54  
+
+> [235]
+
+In doing this, and in subsequently adjourning the NNPDs, I was assisting Ms Benjamin to better understand the precision required for such applications and thus improve her prospects of succeeding when the applications were dealt with later. Consistent with this benevolent approach is my subsequent guidance to her to, as an interim alternative, seek the same material directly from the respondents who, unlike Ashdale, may not have had valid objections to production of relevant material.  
+
+> [236]
+
+Unfortunately, the only thing Ms Benjamin seems to have taken away from the exchange is that I said ‘no’ to her, and she now characterises that as evidence of apprehended bias. Nothing about the exchange is objectively unfair to Ms Benjamin. On the contrary, while delivered in the form of contrived ‘challenge’, the purpose of the exchange was wholly to Ms Benjamin’s benefit. It goes without saying that it is not fairly compared to the exchange in Gambaro v Maycomb Mobile Pty Ltd 72  that is extracted in Ms Benjamin’s submissions.  
+
+> [237]
+
+The intervention was neither excessive nor inappropriate in the circumstances. On any relevant test there is no reasonable basis that this exchange would cause a fair-minded lay observer to consider I would deal with the matter unfairly.  
+
+> [238]
+
+The second impugned intervention or (alleged) impermissible act of persuasion occurred at a mention on 25 October 2024. Ms Benjamin’s submissions appear to contend that I impermissibly persuaded her to consent to an adjournment by using phrases like “ it’s only another week ” or “ there’s really no point ”.  
+
+> [239]
+
+By way of context, the mention on 25 October 2024 was prompted by a request from the respondents to have their disclosure obligations suspended pending inter alia the making of an application with respect to further particulars. It transpired at the mention that the respondent also held heightened concerns about the disclosure of relevant material in light of recent media coverage in The Australian newspaper. 73  
+
+> [240]
+
+Counsel for the respondents was at pains not to direct any allegation at Ms Benjamin when expressing their concerns about the possible misuse of disclosed material. I was equally careful to ensure Ms Benjamin understood that I held no such view either.  
+
+> [241]
+
+The respondent’s had not prepared a formal application. The transcript reflects that I was not prepared to excuse them from their disclosure obligations on the basis of generalised concern about improper use of documents disclosed. The discussion then turned to an adjournment to allow the respondents to make their application more comprehensively.   
+
+> 72 [2019] FCAFC 144.
+> 73 The article in question dealt with the material facts superficially and was essentially a short synopsis of the allegations contained in Ms Benjamin’s SOFC.
+
+55 
+
+[242] I have reviewed the transcript of that mention. Not only am I unable to find the phrases Ms Benjamin complains that I used, but I can see no evidence of excessive interventions or impermissible persuasion at all. The transcript speaks for itself: 74 
+
+COMMISSIONER: And is there any reason why the obligations in respect of the directions couldn’t be met in the meantime on the same basis that the ones on the 18th were met, which is, “Here’s our documents; we reserve our right to provide more following” – is there any reason why that couldn’t happen? 
+
+MS MARR: In respect of the discernible issues in dispute; no, I don’t think so. However, I’m instructed to nonetheless press for the suspension of those directions because there is some concerns around the media coverage that has occurred this week, which reports on allegations, including the very controversial perversion of justice allegations. In a way, that is reasonably detailed, and it’s quite clear that the – that information hasn’t been obtained, of course, from the registry file, because that has been sealed throughout the period. So there’s some concerns around disclosure proceeding in this interim period in those circumstances. And that’s part of what the instructions that are required to be sort at the present point in time concern. 
+
+COMMISSIONER: I understand. I understand. I think that in the ordinary course of events, it might be a matter where I would be inclined to put those concerns to one side. I, however, do understand the concern, but I think that in order for me to contemplate an order to vacate the existing directions, I might need the request spelled out in a more comprehensive way in an application with submissions so that I can do proper – give it proper consideration. All right. 
+
+MS MARR: I understand that, Commissioner. I’m just refreshing myself as to when those obligations are - - -
+
+COMMISSIONER: First of November. 
+
+MS MARR: Thank you. So that’s next Friday. Would the Commission be prepared to contemplate – in the alternative for today’s purposes – just allowing a short one week extension on those orders to the 8th of November? That – and when I say those orders, I’m referring to the reciprocal obligations, so paragraphs 4 and 5 of the orders of - - -
+
+COMMISSIONER: To allow you to - - -
+
+MS MARR: - - - 2nd October. 
+
+COMMISSIONER: - - - consider your position in respect of that matter. 
+
+MS MARR: Sorry. I beg your pardon. 
+
+COMMISSIONER: To allow you to consider - - -
+
+MS MARR: Yes. Correct. 
+
+COMMISSIONER: - - - your position in respect of that - - -
+
+MS MARR: And obtain - - - 
+
+> 74
+
+T 1-5 to T 1-7. 56 
+
+COMMISSIONER: - - - application. 
+
+MS MARR: - - - informed instructions. 
+
+COMMISSIONER: Ms Benjamin, the proposal from counsel for the Crown is that there’s a reticence to comply with the disclosure in accordance with the directions because of, amongst other things, concerns about recent media coverage, and the use to which documents disclosed would be put in those circumstances. That’s not to suggest that the Commission is – holds the same concerns, but I understand the concerns that the Crown might have in the circumstances. The – I – I’m not prepared to vacate the directions purely on the basis of the expression of the concern that I’ve received this afternoon, but I may be prepared to contemplate doing so if I’m persuaded to do by a more fulsome and comprehensively argued application to that effect. 
+
+MS BENJAMIN: Sorry, your Honour. 
+
+…
+
+COMMISSIONER: … So back to where I was. The alternative is that they want to consider their position in that regard and in terms of whether they bring such an application, and seek an extension on the existing directions for one week from the 1st of November to the 8 th of November. I am – Ishould say to you, I am more inclined to contemplate that by way of addressing their concerns, but do you have any view in relation to that? 
+
+MS BENJAMIN: I don’t have, necessarily. It – the submission that the media articles or the disclosure is at risk when this has a suppression order, and for me to give documents that are under a suppression order would be – you know. 
+
+COMMISSIONER: Well - - -
+
+MS BENJAMIN: Fatal. 
+
+COMMISSIONER: The documents themselves aren’t necessarily under a suppression order. They’re documents that will be disclosed to you as part of the discovery process, and the concern is that – and again, it’s not – I’m not expressing this concern; I’m not making any comment about it at all – the concern that’s been expressed to me is that those documents may be put to some other purpose, and I – I’d need to be convinced that there was some risk of that, and that’s why I was talking about an application to that effect, and I think Ms Marr has quite properly taken the view that, well, we might need to think about that, then, if we’ve got to do that. And so that’s the purpose of the extension for one week. And it’s really a question of you indicating whether you have any objection to that or not. 
+
+MS BENJAMIN: I don’t have an objection to the extension . I - - -
+
+COMMISSIONER: All right. 
+
+MS BENJAMIN: - - - think that’s reasonable .
+
+COMMISSIONER: All right. Well, what I’ll do, I think, is I’ll vacate the existing orders and amend them, pushing the dates out by a week, and then we’ll see where we’re at after that. 
+
+[243] The transcript plainly confirms that I explained the reason why the respondents sought a one week extension in a measured and unbiased way. The transcript plainly confirms that 57 
+
+I did not use the phrases that Ms Benjamin now attributes to me. The transcript plainly confirms that, having carefully explained the situation to Ms Benjamin, I then gave her an opportunity to place any objection on the record. Not only did Ms Benjamin not object, but she stated that she thought the extension was reasonable.  
+
+> [244]
+
+Ground eight is entirely misconceived. There is nothing contained in the transcript that supports Ms Benjamin’s contentions of unfairness with respect to the manner in which I dealt with her at this mention. There is no legitimate test or sound logic that could be applied to produce a conclusion that a fair-minded lay observer would reasonable conclude I would deal with the matter unfairly. 
+
+Conclusion  
+
+> [245]
+
+Ms Benjamin has contended, on multiple grounds, that my words and actions in respect of various aspects of this matter support conclusions of apprehended or actual bias. Ms Benjamin has gone so far as to assert (without any evidence) that I have a vested interest in protecting reputations of the respondents or the Justices of the Supreme Court of Queensland.  
+
+> [246]
+
+With respect to that latter, Ms Benjamin’s continued assertion reveals her ongoing and concerning lack of understanding of her professional duties as a lawyer. My concerns about the allegation contained in the SOFC and my decision to seal the file have nothing to do with individual reputations of those Justices. At its core, the singular motive for my decisions and actions in this matter has been to protect public confidence in the judiciary against a serious allegation that is yet to be particularised and tested.  
+
+> [247]
+
+Additionally, despite Ms Benjamin’s confidence in the veracity of the allegation she makes, I remain concerned that she lacks a proper appreciation of the potentially serious consequences for her if it transpires that the allegation is made without good cause. Ms Benjamin would not be the first self-represented litigant to stand confidently at the bar table advocating a case they firmly believe in, only to discover that the strength of their personal belief as to certain matters does not equate with proof.  
+
+> [248]
+
+The steps I have taken in this matter, especially since 23 August 2024, have not disadvantaged Ms Benjamin in the proposed conduct of her case. Her SOFC remains on the file and ready to prosecute. Were it not for the delay caused by numerous mentions and now this application, Ms Benjamin’s matter would be well progressed towards a hearing by now.  
+
+> [249]
+
+It is difficult to understand why Ms Benjamin regards the sealing of the file to be such a prejudicial infringement upon her. A cynical person might speculate that Ms Benjamin’s strategy is to engage in ‘litigation by media’. If that were the case, the sealing of the file undermines the leverage that Ms Benjamin might have thought she would gain from embarrassing the respondents and the Justices of the Supreme Court publicly. But my 58 
+
+oath does not accommodate such speculation, and I have no evidence to support any such conclusion.  
+
+> [250]
+
+Additionally, it is important to note that all of the controversy leading to this application stems from Ms Benjamin’s rather dogged adherence to the allegation. I accept that it might be relevant to include the reference to the allegation in the SOFC in limited circumstances but on the current state of the pleadings, the allegation remains in the SOFC and Ms Benjamin’s case remains fully intact. Notwithstanding my very brief intemperate initial reaction to the pleading my decisions and conduct have not made any material difference to her case at all.  
+
+> [251]
+
+If it is the exposure of the allegation to public scrutiny that Ms Benjamin insists on, it is important for her to remember that the Commission would not embark on an examination of its truth or otherwise. The only relevance of the allegations to these proceedings is that it was part of the PID and that it was raised by one of the respondents at the meeting ending her role with the Parole Board. It would be all but inconceivable that any decision of this Commission on this matter would include a finding as to whether the conduct alleged in the PID occurred or not.  
+
+> [252]
+
+Further, to whatever extent Ms Benjamin might feel prejudiced by the suppression of her allegation in these proceedings, she is fully at liberty (and arguably has a professional duty) to press her allegation with the relevant authorities. Indeed, save for restrictions on sharing the contents of this file, Ms Benjamin is equally free to take her very serious allegation to the media. Nothing about the suppression of the file could deprive Ms Benjamin of her personal knowledge of the facts that she alleges support the allegation. To my knowledge there is no obligation for Ms Benjamin to maintain confidentiality about the allegation, but if there is, then Ms Benjamin’s objection to the sealing of the file is even more perplexing.  
+
+> [253]
+
+It is very unfortunate that Ms Benjamin, for reasons unknown, failed to understand or act on my invitations for her to apply for relevant transcripts. Had she done so she would almost certainly have received them, albeit subject to certain conditions about their use. Had she read them, she could not have reached the conclusions about my decisions and conduct that she has. Instead, when compared to the objective facts laid out in the transcripts, Ms Benjamin’s submissions reveal a sizable gap between her perceptions of what has occurred and the reality.  
+
+> [254]
+
+Ms Benjamin is understandably distressed by the events leading to her removal from the Parole Board. Her distress is undoubtedly compounded by the rigours that accompany the litigation that she is now undertaking. Even her legal qualifications cannot shield her from the inevitable strain. Ms Benjamin’s personal distress and the vulnerabilities that they uniquely trigger in her are an unfortunate feature of being involved in a dispute of this type. As sympathetic (and concerned) as I am about the effect of this on her 59 
+
+judgement, having reviewed all of my conduct of this matter I am entirely satisfied that Ms Benjamin has been treated fairly and without any hint of bias at every stage.  
+
+> [255]
+
+In those circumstances, I must discharge my duty to sit. I will not recuse myself. 
+
+Order 
+
+Ms Benjamin’s application for my recusal is refused.

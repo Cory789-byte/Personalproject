@@ -1,0 +1,29 @@
+check: do-you-agree turns 27, coded 27, mismatched [] | repeats 24, coded 24, mismatched [] | answers present 41/41 | built items at a line of Cory's 25/25 | officer moves at an officer turn 14/14
+
+do-you-agree questions: 27 | accepted the fact as put 2 | 'yes, but' (fact in his terms, meaning contested) 16 | rejected 7 | turned round / pointed to evidence 2
+characterisations of wrongdoing put to him: 15 turns; accepted: 0
+repeated questions: 24 | held his answer 23 | shifted 1 (at 20:05)
+
+what he built: groundwork 5, conciliation 1, live arguments 19:
+  legal rule               3  (09:14, 19:59, 35:36)
+  inconsistent commitment  2  (41:05, 50:43)
+  alternative explanation  2  (43:19, 56:59)
+  reductio                 2  (37:06, 65:14)
+  perspective appeal       2  (46:41, 58:37)
+  dilemma                  1  (21:38)
+  method of difference     1  (59:54)
+  options offered          1  (38:51)
+  reversal                 1  (40:40)
+  third-party knowledge    1  (32:11)
+  consistent rule          1  (33:00)
+  stated intention         1  (28:14)
+  stated purpose           1  (58:04)
+
+officers when a line did not land: dropped a line 3 | said he was confused 1 | acknowledged his point 2 | conceded a point 1 | accepted his version 1 | accepted his concern 1 | acknowledged the complexity 1 | declined to engage his point 1 | wound up 2 | answered his last question with what was being investigated, not an assertion 1
+
+his next turn, after accusatory v neutral officer turns (aligned to the audio; two-sided permutation test)
+  reply gap (s)                        after accusatory +0.73 (n=37) | after neutral +0.81 (n=30) | p = 0.77
+  turn length (s)                      after accusatory +8.58 (n=37) | after neutral +11.35 (n=30) | p = 0.40
+  level v his own median (dB)          after accusatory +1.40 (n=37) | after neutral -0.35 (n=30) | p = 0.03
+  pitch v his own median (semitones)   after accusatory -0.12 (n=37) | after neutral +0.34 (n=30) | p = 0.22
+  pitch movement in a phrase (st)      after accusatory +3.85 (n=37) | after neutral +3.60 (n=30) | p = 0.31

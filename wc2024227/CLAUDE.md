@@ -1,6 +1,6 @@
 # CLAUDE.md — WC/2024/227 Working Project
 
-This is the Claude Code project context for Cory Shepherd's QIRC workers' compensation appeal **WC/2024/227** (Shepherd v Workers' Compensation Regulator, s 550(4) WCRA, Commissioner Dwyer). Claude Code reads this file automatically at session start. Save this project to OneDrive and open the folder in Claude Code to work on the matter.
+This is the Claude Code project context for Cory Shepherd's QIRC workers' compensation appeal **WC/2024/227** (Shepherd v Workers' Compensation Regulator, **s 549 WCRA**, Commissioner Dwyer). Claude Code reads this file automatically at session start. Save this project to OneDrive and open the folder in Claude Code to work on the matter.
 
 ## Read these first, every session
 
