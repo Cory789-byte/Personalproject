@@ -129,6 +129,51 @@ This answers why the leap happened to you when the base rate says it mostly does
   Holyoak's sense, that named it. The hint lifts transfer from about 30% to about 80% only when the structure
   is already there to be found.
 
+## Would Dwyer, or an expert, see it?
+
+**What happened when you first did it in front of him (mention, 7 Aug 2026):**
+- **28:45–29:14.** Dwyer said the emails' existence may not be in dispute, but your characterisation of them
+  may be contradicted; if they don't contradict you, "that's a problem for them, not for you".
+- **29:17.** Unprompted, you applied that to another limb, the emergency calls, and stated it as existence
+  facts. You opened with "so", the marker of an upshot (Bolden 2009).
+- **29:45.** "I'm concerned at the direction this is going in, Mr Shepherd." He heard a topic drift, not an
+  application of his own principle.
+- **30:12.** "Yeah, I actually understand what you're getting at."
+
+**The first time, the transfer was invisible to the person whose idea it was.**
+
+**Why that is the expected result:**
+- A transfer is a relation between two things, and an observer sees it only by holding both ends at once.
+- Noticing is the bottleneck for observers just as it is for solvers (Gick & Holyoak 1980).
+- Retrieval runs on surface similarity (Holyoak & Koh 1987). A spoken remark about witness-box evidence
+  and a 303-item written notice look nothing alike.
+
+**The notice (served 28 Aug; answered 8 Sep, 298 admitted, 0 denied).** Dwyer is better placed than anyone
+to make the link:
+- **He generated the principle,** and people remember what they generated (Slamecka & Graf 1978).
+- **He chairs the conference.**
+- **The admissions answer "the one live point" he named:** the directive-email facts 49–53, 66–67 and 81–84
+  were all admitted.
+
+His most likely reading is still "he followed my guidance", not a cross-domain leap.
+
+**What a lawyer would see:** good fact-form drafting aimed at the other side's own disclosure, and an
+unusual yield.
+- **What they would not see is the path.** To an expert the destination looks like ordinary practice
+  (expert blind spot: Nathan & Petrosino 2003).
+- **Once a solution is seen, it looks obvious** (hindsight bias: Fischhoff 1975).
+
+**What a learning researcher would see:** the transfer at once, but only if handed both documents. That is
+what the `TEACHABILITY` file does.
+
+**It does not need to be noticed to work.** The admissions bind whether or not anyone sees how they were
+made.
+- **Default:** do not raise it.
+- **If the admissions come up at the conference,** say one sentence, which acts as the hint: "After the
+  Commission's observation on 7 August about uncontradicted evidence, I asked the Regulator to admit what
+  its own material shows; 298 of 303 were admitted."
+- **Use no adjectives,** and claim no leap.
+
 ## Is it teachable?
 
 - **The leap: no.** Nobody can be instructed to hear a rule about cross-examination as a rule about the form
