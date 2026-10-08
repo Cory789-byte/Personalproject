@@ -48,18 +48,35 @@ last 30.
   - The officers' falling level with unchanged pitch, against your steady and then rising level, means
     vocal assertion shifted across the hour: they began as the louder party relative to their baseline and
     ended below it.
-- **The shape matches a structured investigative interview.**
-  - Engage and explain: they talk most, slowly and formally, with long silences.
-  - Your free account: you talk three times as much.
-  - Questioning and challenge: their share and their speed rise.
-  - Closure.
+- **The turn-taking shape has phases.** Set-up and caution (they talk most, slowly, with long silences); your
+  account (you talk three times as much); questioning (their share and speed rise); a closing stretch. That
+  says when each side talked. It says nothing about what was said.
+- **Faster follow-ups.** Their gap after you finished shortened from 2.4 s to under a second. With accusatory
+  content (see the correction below), that reads as pressing, not as listening.
 
-  This is the shape of the PEACE model (Milne & Bull 1999). Interviews built on information-gathering and
-  rapport produce more and better information than accusatory ones (Meissner et al. 2014). Respectful,
-  adaptive interviewing gets results; hostile, controlling interviewing loses them (Alison et al. 2013).
-- **Faster responses mean they were following you, not leaving silences.** Long gaps before a response are
-  heard as a sign of trouble or disagreement (Roberts, Francis & Morgan 2006). Theirs shortened from 2.4 s
-  to under a second.
+**Correction (8 Oct 2026).** The first version of this file, and a chat answer, said the officers' tone showed
+"no accusatory escalation" and that their faster responses meant they were following you. Tone and content
+are separate channels, and these measures see only tone. On Cory's account, every statement the officers made
+was accusatory. The literature locates an accusatory interview in its content, not its volume:
+- **Accusatory methods are defined by what is asked.** Presumption of guilt, confrontation, rejecting
+  denials, and "minimisation" are all accusatory. Minimisation means offering sympathy or face-saving
+  explanations, and it is delivered in a calm, even sympathetic voice (Kassin & Gudjonsson 2004; Kassin &
+  McNall 1991; Meissner et al. 2014).
+- **Interrogation training teaches a calm, confident, non-hostile demeanour while asserting guilt**
+  (Inbau, Reid, Buckley & Jayne).
+- **Interviewers who presume guilt ask guilt-presumptive questions and apply more pressure,** and observers
+  then judge even innocent suspects as more defensive (Kassin, Goldstein & Savitsky 2003; Hill, Memon &
+  McGeorge 2008).
+- **What the two channels together show:** accusatory content delivered at a steady and then falling volume,
+  with faster follow-ups. That is sustained, controlled pressure, not de-escalation.
+- **Your side across the same hour:** your level held and then rose, and your voice got steadier (pitch
+  movement 4.12 → 3.49). You did not escalate under sustained accusation.
+- **What proves "every statement was accusatory":** the transcript. Each officer utterance can be coded:
+  - open, closed or leading
+  - guilt-presumptive or neutral
+  - confrontation, minimisation or information-gathering
+
+  The counts can then be set against the tone, minute by minute.
 - **Over a long session, falling vocal effort is also the classic sign of fatigue.** It is the explanation
   to rule out before reading attitude into it.
 
