@@ -1,0 +1,652 @@
+{
+ "summary": {
+  "MAGISTRATE": {
+   "turns": 27,
+   "talk_s": 195.0,
+   "words": 565,
+   "wpm": 173.8,
+   "f0_median": 181.3,
+   "f0_p25": 173.1,
+   "f0_p75": 190.7,
+   "db_median": 53.8,
+   "db_p25": 52.5,
+   "db_p75": 55.8,
+   "range_p25": 6.12,
+   "range_p75": 15.62,
+   "wps_p25": 2.78,
+   "wps_p75": 4.17,
+   "longest_turn_s": 23.74,
+   "median_turn_s": 4.36,
+   "share_pct": 36.6
+  },
+  "PROSECUTOR": {
+   "turns": 15,
+   "talk_s": 194.6,
+   "words": 514,
+   "wpm": 158.5,
+   "f0_median": 126.6,
+   "f0_p25": 118.6,
+   "f0_p75": 133.6,
+   "db_median": 55.3,
+   "db_p25": 54.3,
+   "db_p75": 56.7,
+   "range_p25": 6.39,
+   "range_p75": 18.14,
+   "wps_p25": 2.18,
+   "wps_p75": 3.7,
+   "longest_turn_s": 41.98,
+   "median_turn_s": 7.14,
+   "share_pct": 36.6
+  },
+  "SHEPHERD": {
+   "turns": 18,
+   "talk_s": 142.8,
+   "words": 418,
+   "wpm": 175.7,
+   "f0_median": 133.7,
+   "f0_p25": 128.2,
+   "f0_p75": 141.4,
+   "db_median": 54.0,
+   "db_p25": 52.8,
+   "db_p75": 55.0,
+   "range_p25": 4.36,
+   "range_p75": 10.11,
+   "wps_p25": 2.44,
+   "wps_p75": 3.27,
+   "longest_turn_s": 29.9,
+   "median_turn_s": 7.46,
+   "share_pct": 26.8
+  }
+ },
+ "transitions": {
+  "MAGISTRATE->PROSECUTOR": {
+   "n": 11,
+   "median_s": 0.32,
+   "min_s": 0.0,
+   "overlaps": 0,
+   "over_2s": 0
+  },
+  "MAGISTRATE->SHEPHERD": {
+   "n": 16,
+   "median_s": 0.31,
+   "min_s": 0.0,
+   "overlaps": 0,
+   "over_2s": 1
+  },
+  "PROSECUTOR->MAGISTRATE": {
+   "n": 9,
+   "median_s": 0.22,
+   "min_s": 0.0,
+   "overlaps": 0,
+   "over_2s": 0
+  },
+  "PROSECUTOR->SHEPHERD": {
+   "n": 2,
+   "median_s": 0.0,
+   "min_s": 0.0,
+   "overlaps": 0,
+   "over_2s": 0
+  },
+  "SHEPHERD->MAGISTRATE": {
+   "n": 17,
+   "median_s": 0.16,
+   "min_s": 0.0,
+   "overlaps": 0,
+   "over_2s": 1
+  },
+  "SHEPHERD->PROSECUTOR": {
+   "n": 1,
+   "median_s": 0.8,
+   "min_s": 0.8,
+   "overlaps": 0,
+   "over_2s": 0
+  }
+ },
+ "who_follows": {
+  "MAGISTRATE": {
+   "PROSECUTOR": 11,
+   "SHEPHERD": 16
+  },
+  "PROSECUTOR": {
+   "MAGISTRATE": 9,
+   "SHEPHERD": 2,
+   "UNATTRIBUTED": 1
+  },
+  "SHEPHERD": {
+   "MAGISTRATE": 17,
+   "PROSECUTOR": 1
+  }
+ },
+ "extremes": {
+  "MAGISTRATE": {
+   "loudest": [
+    {
+     "at": "09:12.04",
+     "dur": 3.6,
+     "db": 56.9,
+     "d_db": 3.1,
+     "f0": 176.5,
+     "d_st": -0.5,
+     "text": "These are the complaints to police you said that was part of the profiling."
+    },
+    {
+     "at": "06:16.12",
+     "dur": 5.02,
+     "db": 56.5,
+     "d_db": 2.7,
+     "f0": 186.0,
+     "d_st": 0.4,
+     "text": "Basically that he's happy to take, you know, it'll all come out when the analysis..."
+    },
+    {
+     "at": "05:12.40",
+     "dur": 11.76,
+     "db": 56.2,
+     "d_db": 2.4,
+     "f0": 191.3,
+     "d_st": 0.9,
+     "text": "which this is why we're not going into the nitty-gritty here because we're just working out what we're doing today what What I'm interested... So, did you know there was still a sample still existing?"
+    },
+    {
+     "at": "06:53.29",
+     "dur": 9.64,
+     "db": 55.9,
+     "d_db": 2.1,
+     "f0": 180.8,
+     "d_st": -0.0,
+     "text": "yes it will be relevant but at this stage it's what we do today. Is it possible to get that remaining sample retested?"
+    }
+   ],
+   "quietest": [
+    {
+     "at": "02:07.69",
+     "dur": 9.23,
+     "db": 47.4,
+     "d_db": -6.4,
+     "f0": 190.7,
+     "d_st": 0.9,
+     "text": "Okay, so are we going to go ahead with the trial today?"
+    },
+    {
+     "at": "03:49.96",
+     "dur": 17.76,
+     "db": 47.9,
+     "d_db": -5.9,
+     "f0": 167.1,
+     "d_st": -1.4,
+     "text": "yeah so basically so you've only just had the verbal confirmation that sample correct the sample was destroyed"
+    },
+    {
+     "at": "01:29.16",
+     "dur": 1.74,
+     "db": 51.2,
+     "d_db": -2.6,
+     "f0": 160.2,
+     "d_st": -2.1,
+     "text": "I'm not surprised. Sorry,"
+    }
+   ],
+   "highest": [
+    {
+     "at": "08:37.12",
+     "dur": 2.68,
+     "db": 55.8,
+     "d_db": 2.0,
+     "f0": 211.8,
+     "d_st": 2.7,
+     "text": "And he was first raised this back in September in emails."
+    },
+    {
+     "at": "07:42.47",
+     "dur": 4.36,
+     "db": 53.5,
+     "d_db": -0.3,
+     "f0": 196.0,
+     "d_st": 1.3,
+     "text": "Yeah, I think that's relevant. Is that what you want to do, is get that tested?"
+    },
+    {
+     "at": "04:20.81",
+     "dur": 1.84,
+     "db": 53.4,
+     "d_db": -0.4,
+     "f0": 194.7,
+     "d_st": 1.2,
+     "text": "why was he told there was"
+    },
+    {
+     "at": "05:12.40",
+     "dur": 11.76,
+     "db": 56.2,
+     "d_db": 2.4,
+     "f0": 191.3,
+     "d_st": 0.9,
+     "text": "which this is why we're not going into the nitty-gritty here because we're just working out what we're doing today what What I'm interested... So, did you know there was still a sample still existing?"
+    }
+   ],
+   "lowest": [
+    {
+     "at": "01:29.16",
+     "dur": 1.74,
+     "db": 51.2,
+     "d_db": -2.6,
+     "f0": 160.2,
+     "d_st": -2.1,
+     "text": "I'm not surprised. Sorry,"
+    },
+    {
+     "at": "00:33.86",
+     "dur": 1.56,
+     "db": 52.7,
+     "d_db": -1.1,
+     "f0": 166.5,
+     "d_st": -1.5,
+     "text": "Sorry, I can't hear you."
+    },
+    {
+     "at": "03:49.96",
+     "dur": 17.76,
+     "db": 47.9,
+     "d_db": -5.9,
+     "f0": 167.1,
+     "d_st": -1.4,
+     "text": "yeah so basically so you've only just had the verbal confirmation that sample correct the sample was destroyed"
+    }
+   ],
+   "longest": [
+    {
+     "at": "07:10.68",
+     "dur": 23.74,
+     "db": 54.6,
+     "d_db": 0.8,
+     "f0": 181.5,
+     "d_st": 0.0,
+     "text": "Well he was told there was no viable sample. There was no sample left and the only sample that even though there was enough quantity of material was all consumed in the testing and it was destroyed. A"
+    },
+    {
+     "at": "09:23.00",
+     "dur": 21.62,
+     "db": 54.2,
+     "d_db": 0.4,
+     "f0": 182.0,
+     "d_st": 0.1,
+     "text": "I'm going to stand it down while Mr Hodgetts finds out whether you can get with the women they can get a check [?… can get a check] process or whatever. That's right. This existed. So we didn't know u"
+    },
+    {
+     "at": "00:09.86",
+     "dur": 19.81,
+     "db": 51.7,
+     "d_db": -2.1,
+     "f0": 174.2,
+     "d_st": -0.7,
+     "text": "Okay, so as far as there are two separate things that I can work out from this, there seems to be an issue, oops, there's the actual trial in relation to this charge and there's also your application "
+    }
+   ]
+  },
+  "PROSECUTOR": {
+   "loudest": [
+    {
+     "at": "01:07.30",
+     "dur": 4.0,
+     "db": 58.4,
+     "d_db": 3.1,
+     "f0": 130.6,
+     "d_st": 0.5,
+     "text": "Apologies Your Honour I haven't received I received an email at"
+    },
+    {
+     "at": "08:40.03",
+     "dur": 15.4,
+     "db": 56.9,
+     "d_db": 1.6,
+     "f0": 133.5,
+     "d_st": 0.9,
+     "text": "The position that prosecution holds is that the defendant had the opportunity, he was given his statutory right on the evening or the early hours of the morning of the test and chose not to take up th"
+    },
+    {
+     "at": "00:01.06",
+     "dur": 7.14,
+     "db": 56.8,
+     "d_db": 1.5,
+     "f0": 121.1,
+     "d_st": -0.8,
+     "text": "Yes, if it pleases the court, Your Honour, Hodgetts, spelled H -O -D -G -E -T -T -S, initials D-A, prosecutor on behalf of Queensland Police."
+    },
+    {
+     "at": "05:31.30",
+     "dur": 28.8,
+     "db": 56.5,
+     "d_db": 1.2,
+     "f0": 122.8,
+     "d_st": -0.5,
+     "text": "As I've just disclosed to the court, the sample still exists. The prosecution witness will attest to that. In any case, I think what... And this will be for the court to decide. I think it may be a ca"
+    }
+   ],
+   "quietest": [
+    {
+     "at": "01:13.89",
+     "dur": 2.04,
+     "db": 47.5,
+     "d_db": -7.8,
+     "f0": 126.1,
+     "d_st": -0.1,
+     "text": "11 20"
+    },
+    {
+     "at": "07:03.25",
+     "dur": 7.21,
+     "db": 50.9,
+     "d_db": -4.4,
+     "f0": 125.4,
+     "d_st": -0.2,
+     "text": "I can't speak to that Your Honour. It's not something that I'm able to inform the court. It's not."
+    },
+    {
+     "at": "04:07.72",
+     "dur": 13.09,
+     "db": 53.5,
+     "d_db": -1.8,
+     "f0": 123.1,
+     "d_st": -0.5,
+     "text": "so maybe mr here [?…] i can probably assist in in this and noting that all of this will be addressed in the trial there hasn't been any destruction of any sample"
+    }
+   ],
+   "highest": [
+    {
+     "at": "08:07.13",
+     "dur": 29.87,
+     "db": 56.5,
+     "d_db": 1.2,
+     "f0": 136.7,
+     "d_st": 1.3,
+     "text": "I can do that. I guess the primary issue that we face here, and we'll come out if we go to trial is, prosecution's evidence indicates, it's my position, prosecution evidence indicates that the defenda"
+    },
+    {
+     "at": "08:40.03",
+     "dur": 15.4,
+     "db": 56.9,
+     "d_db": 1.6,
+     "f0": 133.5,
+     "d_st": 0.9,
+     "text": "The position that prosecution holds is that the defendant had the opportunity, he was given his statutory right on the evening or the early hours of the morning of the test and chose not to take up th"
+    },
+    {
+     "at": "07:35.00",
+     "dur": 5.64,
+     "db": 56.5,
+     "d_db": 1.2,
+     "f0": 132.5,
+     "d_st": 0.8,
+     "text": "If you could indulge me, I can ask the lab technician who's sitting outside. side."
+    },
+    {
+     "at": "01:07.30",
+     "dur": 4.0,
+     "db": 58.4,
+     "d_db": 3.1,
+     "f0": 130.6,
+     "d_st": 0.5,
+     "text": "Apologies Your Honour I haven't received I received an email at"
+    }
+   ],
+   "lowest": [
+    {
+     "at": "08:57.40",
+     "dur": 4.18,
+     "db": 56.4,
+     "d_db": 1.1,
+     "f0": 118.9,
+     "d_st": -1.1,
+     "text": "Which is contested and it would be for the court to determine."
+    },
+    {
+     "at": "01:22.83",
+     "dur": 6.33,
+     "db": 54.9,
+     "d_db": -0.4,
+     "f0": 119.8,
+     "d_st": -1.0,
+     "text": "11 25 and I haven't had enough time to go through all of it"
+    },
+    {
+     "at": "00:01.06",
+     "dur": 7.14,
+     "db": 56.8,
+     "d_db": 1.5,
+     "f0": 121.1,
+     "d_st": -0.8,
+     "text": "Yes, if it pleases the court, Your Honour, Hodgetts, spelled H -O -D -G -E -T -T -S, initials D-A, prosecutor on behalf of Queensland Police."
+    }
+   ],
+   "longest": [
+    {
+     "at": "04:22.65",
+     "dur": 41.98,
+     "db": 54.6,
+     "d_db": -0.7,
+     "f0": 124.3,
+     "d_st": -0.3,
+     "text": "i can't speak on behalf of and i don't have any evidence or information to suggest otherwise. The roadside random drug test, which is the lollipop, that in of itself, when it gets used for the testing"
+    },
+    {
+     "at": "06:22.21",
+     "dur": 31.08,
+     "db": 55.1,
+     "d_db": -0.2,
+     "f0": 124.4,
+     "d_st": -0.3,
+     "text": "Yes, Your Honour, I've reviewed that correspondence from the defendant. I've also reviewed the body-worn camera footage on a number of occasions. And it will be my position that that, which will be fo"
+    },
+    {
+     "at": "08:07.13",
+     "dur": 29.87,
+     "db": 56.5,
+     "d_db": 1.2,
+     "f0": 136.7,
+     "d_st": 1.3,
+     "text": "I can do that. I guess the primary issue that we face here, and we'll come out if we go to trial is, prosecution's evidence indicates, it's my position, prosecution evidence indicates that the defenda"
+    }
+   ]
+  },
+  "SHEPHERD": {
+   "loudest": [
+    {
+     "at": "06:15.10",
+     "dur": 1.02,
+     "db": 57.6,
+     "d_db": 3.6,
+     "f0": 140.1,
+     "d_st": 0.8,
+     "text": "I've got it here for you if you want to..."
+    },
+    {
+     "at": "02:39.82",
+     "dur": 12.26,
+     "db": 55.8,
+     "d_db": 1.8,
+     "f0": 144.1,
+     "d_st": 1.3,
+     "text": "Yeah, obviously. And that, I wasn't driving. The other, the sergeant, his statement's not even there. He's the only one that drove my car, and his statement's not even in there. His body-worn camera's"
+    },
+    {
+     "at": "07:47.03",
+     "dur": 4.62,
+     "db": 55.8,
+     "d_db": 1.8,
+     "f0": 137.0,
+     "d_st": 0.4,
+     "text": "Exactly. And I also got a NATO [NATA?] complaint that I did send off."
+    },
+    {
+     "at": "09:15.72",
+     "dur": 5.36,
+     "db": 55.3,
+     "d_db": 1.3,
+     "f0": 145.1,
+     "d_st": 1.4,
+     "text": "Exactly. So they've targeted me and now they can't even give me my evidence."
+    }
+   ],
+   "quietest": [
+    {
+     "at": "00:29.99",
+     "dur": 3.87,
+     "db": 48.0,
+     "d_db": -6.0,
+     "f0": 133.6,
+     "d_st": -0.0,
+     "text": "That's correct. I did a Scottsdale [Scott schedule?]"
+    },
+    {
+     "at": "05:29.06",
+     "dur": 1.44,
+     "db": 48.3,
+     "d_db": -5.7,
+     "f0": 122.5,
+     "d_st": -1.5,
+     "text": "I just wanted clarification."
+    },
+    {
+     "at": "02:22.58",
+     "dur": 8.16,
+     "db": 50.9,
+     "d_db": -3.1,
+     "f0": 126.1,
+     "d_st": -1.0,
+     "text": "But the prosecutor said no. I have requested a stay, so a stay or adjournment and a stay."
+    }
+   ],
+   "highest": [
+    {
+     "at": "05:24.60",
+     "dur": 2.62,
+     "db": 52.3,
+     "d_db": -1.7,
+     "f0": 157.8,
+     "d_st": 2.9,
+     "text": "So, is there a sample still existing?"
+    },
+    {
+     "at": "09:15.72",
+     "dur": 5.36,
+     "db": 55.3,
+     "d_db": 1.3,
+     "f0": 145.1,
+     "d_st": 1.4,
+     "text": "Exactly. So they've targeted me and now they can't even give me my evidence."
+    },
+    {
+     "at": "02:39.82",
+     "dur": 12.26,
+     "db": 55.8,
+     "d_db": 1.8,
+     "f0": 144.1,
+     "d_st": 1.3,
+     "text": "Yeah, obviously. And that, I wasn't driving. The other, the sergeant, his statement's not even there. He's the only one that drove my car, and his statement's not even in there. His body-worn camera's"
+    },
+    {
+     "at": "06:15.10",
+     "dur": 1.02,
+     "db": 57.6,
+     "d_db": 3.6,
+     "f0": 140.1,
+     "d_st": 0.8,
+     "text": "I've got it here for you if you want to..."
+    }
+   ],
+   "lowest": [
+    {
+     "at": "00:36.14",
+     "dur": 8.5,
+     "db": 53.8,
+     "d_db": -0.2,
+     "f0": 117.0,
+     "d_st": -2.3,
+     "text": "I did a Scottsdale [Scott schedule?] thing which lists all the issues with the charges. It's only two pages, it's a better summary."
+    },
+    {
+     "at": "05:29.06",
+     "dur": 1.44,
+     "db": 48.3,
+     "d_db": -5.7,
+     "f0": 122.5,
+     "d_st": -1.5,
+     "text": "I just wanted clarification."
+    },
+    {
+     "at": "02:22.58",
+     "dur": 8.16,
+     "db": 50.9,
+     "d_db": -3.1,
+     "f0": 126.1,
+     "d_st": -1.0,
+     "text": "But the prosecutor said no. I have requested a stay, so a stay or adjournment and a stay."
+    }
+   ],
+   "longest": [
+    {
+     "at": "03:20.06",
+     "dur": 29.9,
+     "db": 54.7,
+     "d_db": 0.7,
+     "f0": 135.7,
+     "d_st": 0.3,
+     "text": "The statement of the Prince Sergeant [?… Sergeant]. Well obviously they haven't, they've only verbally told me it was destroyed, so they've only verbally, this man told me verbally it was destroyed, h"
+    },
+    {
+     "at": "01:33.46",
+     "dur": 15.36,
+     "db": 53.6,
+     "d_db": -0.4,
+     "f0": 132.3,
+     "d_st": -0.2,
+     "text": "it's pretty much the same as my entire application, but I understood the Vicks, so there's no reason why there should be methamphetamine on my laboratory result, because Vicks Australian brand does no"
+    },
+    {
+     "at": "02:39.82",
+     "dur": 12.26,
+     "db": 55.8,
+     "d_db": 1.8,
+     "f0": 144.1,
+     "d_st": 1.3,
+     "text": "Yeah, obviously. And that, I wasn't driving. The other, the sergeant, his statement's not even there. He's the only one that drove my car, and his statement's not even in there. His body-worn camera's"
+    }
+   ]
+  }
+ },
+ "amendments": [
+  "seg 0 words 0-1 -> MAGISTRATE (pitch 214 Hz; calls the prosecutor)",
+  "seg 0 words 2-19 -> PROSECUTOR",
+  "seg 6 words 0-4 -> MAGISTRATE (pitch 166 Hz)",
+  "seg 6 words 5-8 -> SHEPHERD (repeats his answer)",
+  "seg 8 words 0-8 -> SHEPHERD",
+  "seg 8 words 9-11 -> MAGISTRATE (pitch 202 Hz; question)",
+  "seg 9 words 0-4 -> MAGISTRATE (pitch 177 Hz)",
+  "seg 9 words 5-10 -> SHEPHERD (answer)",
+  "seg 20 -> PROSECUTOR (time of the email; pitch 126 Hz)",
+  "seg 21 -> PROSECUTOR (time of the email (context))",
+  "seg 27 words 0-0 -> MAGISTRATE (pitch 200 Hz)",
+  "seg 27 words 1-15 -> SHEPHERD",
+  "seg 49 -> MAGISTRATE (pitch 209 Hz)",
+  "seg 50 -> SHEPHERD (ECAPA said Magistrate; pitch 129 Hz and content (answers 'Which bit?'))",
+  "seg 53 words 0-2 -> MAGISTRATE (pitch 176 Hz; ends her sentence)",
+  "seg 53 words 3-16 -> PROSECUTOR (pitch 130 Hz)",
+  "seg 55 words 0-5 -> MAGISTRATE (pitch 195 Hz; interjection)",
+  "seg 55 words 6-16 -> PROSECUTOR (pitch 124 Hz)",
+  "seg 61 words 0-3 -> PROSECUTOR (pitch 126 Hz)",
+  "seg 61 words 4-14 -> SHEPHERD (continues into 'medications in my list' (136 Hz); pitch here 128 Hz, ambiguous)",
+  "seg 62 words 0-4 -> SHEPHERD (pitch 136 Hz)",
+  "seg 62 words 5-13 -> MAGISTRATE (pitch 175 Hz)",
+  "seg 89 words 0-4 -> MAGISTRATE (pitch 189 Hz; question)",
+  "seg 89 words 5-14 -> PROSECUTOR (pitch 133 Hz; answer)",
+  "seg 90 words 0-8 -> PROSECUTOR (pitch 119 Hz)",
+  "seg 90 words 9-17 -> MAGISTRATE (pitch 212 Hz)",
+  "seg 95 words 0-0 -> PROSECUTOR (end of 'outside')",
+  "seg 95 words 1-3 -> MAGISTRATE (pitch 178 Hz)",
+  "seg 97 words 0-5 -> MAGISTRATE (pitch 201 Hz)",
+  "seg 97 words 6-6 -> SHEPHERD (pitch 152 Hz; 'Exactly.')",
+  "seg 122 -> MAGISTRATE (too short to embed; pitch 183 Hz matches the Magistrate (flagged))",
+  "seg 132 -> UNATTRIBUTED (too short to embed; pitch 105 Hz)"
+ ],
+ "n_turns": 61
+}
