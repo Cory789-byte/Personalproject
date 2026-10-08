@@ -158,16 +158,16 @@ words but not adjudicate them.
 The figure is certain; the denominator is not. **Verify the period against the payslips before the
 42% is stated anywhere with a period attached.**
 
-### "Yeah," at 30:12.98 — p = 0.37 — and this *supports* amendment A1
+### "Yeah," at 30:12.98 — p = 0.37 — consistent with A1
 
 > *"**Yeah,** I actually understand what you're getting at."*
 > ⚠Yeah, **0.37** · I 1.00 · actually 1.00 · understand 0.99 · what 0.97 · you're 0.96 · getting 0.97 · ·at. 0.67
 
-⭐ The substance of the amended line is near-certain; **the only weak element is the lead-in
+⭐ The substance of the line is near-certain; **the only weak element is the lead-in
 interjection** — precisely the class the transcript's own Method section identifies as the weakest
-for automated attribution, and precisely why the speaker label was wrong. **The measurement is
-consistent with A1 rather than against it.** The words are safe to quote; the attribution rests on
-participant confirmation, as A1 records.
+for automated attribution, which is why its speaker, Mr Shepherd, rests on participant confirmation
+and independent diarisation. **The measurement is consistent with A1.** The words are safe to quote,
+as A1 records.
 
 ---
 

@@ -125,8 +125,8 @@ across the entire hearing.
 ⚠ **One measure withdrawn.** Turn-overlap counted 0 for both speakers, but Whisper produces
 non-overlapping segment boundaries by construction, so the measure cannot detect interruption
 either way. It is not evidence of anything. The one documented overlap in the hearing runs the
-other way and is established by participant amendment, not by timings: at **30:12.98–30:14.96**
-the Commissioner speaks over the appellant's interjection (amendment A1).
+other way and is established by participant confirmation, not by timings: at **30:12.98–30:14.96**
+the Commissioner speaks over the appellant's interjection (A1).
 
 ---
 
@@ -425,7 +425,7 @@ volunteered until asked directly. Same trait as the 16-minute hold — answers t
 does not pre-empt.
 
 Interruption behaviour across the hour: the only documented overlap is Dwyer over Shepherd at
-30:12.98 (amendment A1). Shepherd's zero-gap turn-starts after a Dwyer segment run 7/37 (19%)
+30:12.98 (A1). Shepherd's zero-gap turn-starts after a Dwyer segment run 7/37 (19%)
 before 29:17 and 11/61 (18%) after — unchanged — and are sentence completions at Whisper
 boundaries, not talk-overs. The licence at 53:41 authorises the one thing he never did.
 
@@ -459,8 +459,8 @@ Direction: the rise precedes the concessions and does not continue after them.
 
 ### 8.5 The same acknowledgement twice, 110 s apart, and the two responses
 
-Amendment A1 stands: 30:12.98 *"Yeah, I actually understand what you're getting at"* is the
-appellant. The Commissioner's *"If we can't get to that, I'm going to schedule this disclosure
+30:12.98 *"Yeah, I actually understand what you're getting at"* is the appellant's (A1,
+participant-confirmed). The Commissioner's *"If we can't get to that, I'm going to schedule this disclosure
 dispute for a hearing"* at 30:14.96 (+9.0 dB, +5.93 st, his loudest and highest in the passage)
 is spoken over the top of it — the only talk-over in the recording.
 

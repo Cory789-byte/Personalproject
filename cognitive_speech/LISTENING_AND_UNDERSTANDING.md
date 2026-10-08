@@ -11,7 +11,7 @@ into action.
 ## 1. You follow the speaker
 - **At the mention:**
   - 17% of your answer words came straight from the question, about 4 times chance.
-  - Only 2% were your own earlier point carried over (the Commissioner's: 22%).
+  - Only 3% were your own earlier point carried over (the Commissioner's: 22%).
   - Half your answers reused a word of the question.
 - **In court:** you took up the Magistrate's words at about 4 times chance.
 - **Literature:** in dialogue, people who align with each other's words understand each other better and
@@ -79,7 +79,7 @@ into action.
   - Short acknowledgements mark that the listener is following (Schegloff 1982).
 
 ## 9. You absorb vocabulary rather than echo it
-- Both sides rarely echo a brand-new term in the very next turn (you 3–6%, the bench 6–9%).
+- Both sides rarely echo a brand-new term in the very next turn (you 3–5%, the bench 6–9%).
 - Over the hour at the mention you took on 86 of the Commissioner's key terms ("directive", "unassessed",
   "document", "union").
 - He took on 15 of your 23 (65%).

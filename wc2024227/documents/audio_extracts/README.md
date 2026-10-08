@@ -16,8 +16,10 @@
 * **29:39.9 – 29:45.6** — **5.74 seconds of silence.**
 * **29:45.6 – 30:12.7** — the Commissioner re-enters (at his 9th percentile for
   volume) and states his concern at "the direction this is going in".
-* **30:12.98 – 30:19.2** — *"If we can't get to that, I'm going to schedule this
-  disclosure dispute for a hearing"* — his **loudest utterance of the hearing**.
+* **30:12.98 – 30:14.96** — Mr Shepherd: *"I actually understand what you're getting at."*
+* **30:14.96 – 30:19.2** — *"If we can't get to that, I'm going to schedule this
+  disclosure dispute for a hearing"* — the Commissioner's **loudest utterance of the hearing**,
+  spoken over Mr Shepherd.
 * **30:20.1 – 31:00** — the health service must call evidence to its objections;
   *"I see a very comprehensive objection"*; *"a bit of work to do down there at
   the bar table."*

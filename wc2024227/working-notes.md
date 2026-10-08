@@ -7527,7 +7527,7 @@ not touch the primary facts.
 ## 2026-09-16 — Mention record solidified; transcript made canonical + PDF
 
 **Transcript.** `documents/transcripts/TRANSCRIPT_diarised_prosody.md` replaced with the amended
-version carrying **amendment A1** (the ~30:16 line re-attributed DWYER IC → MR SHEPHERD, participant-
+version carrying **A1** (the 30:12.98 line: MR SHEPHERD, participant-
 confirmed, 100%) and the four speaker-label confidence classes. Added a **"NOT PART OF THE RECORD"**
 appendix, behind a hard rule, holding reader's notes on four contested passages (N1 the [16:29]
 small.en/large-v3 meaning split; N2 filters; N3 "actively suppressed"; N4 the comparator class slide).
@@ -7595,3 +7595,15 @@ Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54 (Dwyer IC, 21 Feb 2025; 59 pp) f
 - "Following the conference, the Respondent may decide to review its position or consider conceding the appeal where new information is presented that they may not have yet considered."
 - Second conference purpose: "review, refine or narrow down the issues"; "whether any elements of s 32 of the Act can be agreed"; Member "will not be the Member who hears the appeal"; no advice on how to run the case.
 - ⛔ Correction (chat 2 Oct): do not describe the conference as a settlement/resolution forum. Aim = narrow the s 32 elements on the record and surface "new information" (Stressor 1 sequence unanswered by outlines; para 27 identifies no management action; RD69983 roster finding; DAF [2024] QIRC 53 [42] everyday duties) so the Regulator reviews its position after the conference.
+
+## 2026-10-08 — 30:12.98 speaker confirmed as Mr Shepherd in every file
+
+At Cory's instruction, *"I actually understand what you're getting at"* (30:12.98) is recorded as
+**MR SHEPHERD** throughout: the canonical transcript and its PDF (regenerated via
+`lodgement/_md2html.py` + headless Chromium, 26pp), `MENTION_7AUG2026_segments.jsonl`,
+`MENTION_7AUG2026_TRANSCRIPT_with_fillers.txt`, `cognitive_speech/mention_segs.json`, the analyses
+and skill references that quote it, and `index/FULLTEXT.txt` (rebuilt). Basis: participant evidence
+(A1), independently corroborated by ECAPA diarisation. Figures recomputed with the line as his and
+labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 s), Mr Shepherd 13.1%
+(214 segs, 450 s), Ms Matheson 0.7% (9 segs, 25 s); FOUR_STAGES stage 2 = 9 segments, +1.72 dB
+(peak +9.0 unchanged). Self-analysis outputs in `cognitive_speech/` re-run; small shifts only.

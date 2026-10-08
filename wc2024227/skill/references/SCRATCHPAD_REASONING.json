@@ -420,9 +420,9 @@
    "final_method": "Viterbi over three evidence streams: (1) acoustic - Resemblyzer GE2E on un-normalised audio, PCA-32, centroids seeded from utterances only one person could make ('the appellant' = reading the pleading; 'my manager' = the Appellant); (2) lexical - ~60 weighted patterns; (3) adjacency - a question drops the switch penalty to 15%, and certain openings prove the PREVIOUS segment was the other speaker.",
    "validation": "27/30 hand-checked anchors = 90%. Turn changes 202 (up from 139).",
    "shares": {
-    "DWYER IC": "846 segs / 2949 s / 86.2%",
-    "MR SHEPHERD": "219 segs / 466 s / 13.6%",
-    "MS MATHESON": "3 segs / 7 s / 0.2%",
+    "DWYER IC": "845 segs / 2947 s / 86.1%",
+    "MR SHEPHERD": "214 segs / 450 s / 13.1%",
+    "MS MATHESON": "9 segs / 25 s / 0.7%",
     "MS RUTTAN": "0 - does not register acoustically"
    },
    "reliability": "Turn structure reliable. Residual errors concentrated in one- and two-word interjections and overlapping speech. NOT CERTIFIED."

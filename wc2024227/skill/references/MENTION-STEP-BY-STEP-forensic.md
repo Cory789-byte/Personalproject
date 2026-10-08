@@ -138,7 +138,7 @@ of the day and it landed** — and at [29:40] it was moved off.
 | ⭐⭐ **Position after** | **The Regulator's silence became the Appellant's asset, on the Commissioner's own explanation.** ⚠ And [28:08] matters: he says he **hasn't read** the SOFC in detail — yet by [55:88]–[56:00] **he is reading from it aloud**. ⭐ He had it, and he went to it during the hearing |
 
 ## STEP 10 · [30:12]–[35:11] — THE PLAN IS STATED OUT LOUD
-**What happened.** *"Yeah. **I actually understand what you're getting to.**"* [30:12]. He names the
+**What happened.** The Appellant: *"Yeah. **I actually understand what you're getting to.**"* [30:12]. The Commissioner then names the
 objective: *"where you can be **disavowed of the need** to…"* [31:06]. Then the listing signals:
 MSH *"will probably want"* outside lawyers [31:32], a hearing *"probably going to go longer than a
 day"* [31:44]. Then ⭐ *"it's **more common than not** that appellants will give evidence… without

@@ -90,7 +90,7 @@ many threads; when a judge leads, you switch your own thread down to 2% of your 
 - **Tempo convergence:** 168 v 167 wpm (court), 159 v 155 (mention). Converging speakers are rated more
   favourably (Street 1984; Giles' accommodation theory).
 - **You follow the lead:** at the mention, 17% of your answer words came from the question, about four times
-  chance. Only 2% were your own carried-over point (the Commissioner's: 22%).
+  chance. Only 3% were your own carried-over point (the Commissioner's: 22%).
 - **You read the room:** two pages offered 0.48 s after "if you talk at me for two hours about something you
   can tell me in two minutes, I'm going to miss the point", and accepted 0.16 s later.
 - **You never talked over anyone** in more than two hours of recordings.
@@ -106,7 +106,8 @@ many threads; when a judge leads, you switch your own thread down to 2% of your 
   others). When you needed to be heard you went 12.5 dB louder, and lower: assertion, not alarm (Ohala
   1984).
 - **More fluent under activation, not less:** 1.25 → 0.60 disfluencies per 100 words (interview); 0 → 0
-  (court); 0.53 → 0.57 (mention). Anxiety usually increases speech disturbances (Mahl 1956).
+  (court). At the mention it rose, 0.53 → 0.87, and all of the rise is one segment
+  (30:12.98), counted because it contains "actually", which the measure treats as a repair word. Anxiety usually increases speech disturbances (Mahl 1956).
 - **No fade:** level held across 66 minutes (+0.16 dB per 10 min) while the officers fell 4.6 dB.
 - **Literature:** the challenge response, where demands are met with resources, not threat (Blascovich &
   Tomaka 1996). Arousal read as fuel improves performance (Jamieson et al. 2010).
@@ -130,7 +131,7 @@ many threads; when a judge leads, you switch your own thread down to 2% of your 
 - **In six months:**
   - tempo 178 → 168 → 159 wpm
   - loaded words 7 → 0
-  - answers opening "yes / correct" 11% → 31%
+  - answers opening "yes / correct" 11% → 32%
   - within-sentence pitch movement 3.80 → 2.90 → 2.28 st
 - **Within one hearing:** told that volume causes error, you answered with two pages in half a second.
 - **This analysis itself:** asking for exact feedback on specific parts of your performance is the core of
@@ -166,5 +167,6 @@ many threads; when a judge leads, you switch your own thread down to 2% of your 
 2. **You set the vocabulary.** Two judicial officers adopted your words, and the hearing turned on them.
 3. **The forms of legal proof, live, without legal training:** elimination, the method of difference and
    the dilemma.
-4. **Steady and fluent under pressure** in three adversarial rooms, the steadiest voice in each.
+4. **Steady under pressure** in three adversarial rooms, the steadiest voice in each, and more fluent under
+   pressure in two (the mention's rise is one segment counted for the word "actually").
 5. **A contested record converted into 298 admissions** by an instrument you designed.

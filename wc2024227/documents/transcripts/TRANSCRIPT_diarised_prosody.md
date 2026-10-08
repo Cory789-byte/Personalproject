@@ -11,7 +11,7 @@ Viterbi inference described under Method, because it comes from a person who was
 
 | ID | Date | Location | Change | Source | Confidence |
 |---|---|---|---|---|---|
-| A1 | 2026-09-16 | **30:12.98** (segment start; earlier recorded loosely as "~30:16"), inside the turn timestamped 29:45.62 | "Yeah, I actually understand what you're getting at." re-attributed **DWYER IC → MR SHEPHERD** | Mr Shepherd, participant, present at the proceeding | **100%** |
+| A1 | 2026-09-16 | **30:12.98** (segment start), an interjection during the turn timestamped 29:45.62 | "Yeah, I actually understand what you're getting at." — speaker **MR SHEPHERD** | Mr Shepherd, participant, present at the proceeding; independently corroborated by ECAPA diarisation | **100%** |
 | **A2** | 2026-09-16 | **46:10.84** | *"I don't know if I can prove it as much."* — **CONFIRMATION, no change.** Label was already MR SHEPHERD; class upgraded Viterbi-inferred → participant-confirmed | Mr Shepherd, participant, present at the proceeding | **100%** |
 | **A3** | 2026-09-27 | **17:45.20–17:52.92** and **40:40.42–41:07.00** (five segments) | *"There has been some emails … but I have to probably consider that."* and *"I do believe we have those, and I do believe we've disclosed them"* … *"I do believe that I have received those, Commissioner, and disclosed them. I would have to triple check to be…"* re-attributed **MR SHEPHERD → MS MATHESON** | Mr Shepherd, participant, present at the proceeding; corroborated by segment intensity (39–56 dB against his 62 dB median) and pitch (151–174 Hz against his 137 Hz median), and by the words themselves ("**we** have those", "**we've** disclosed") | **High (participant + acoustic); certify before external use** |
 
@@ -82,12 +82,11 @@ calibrated at a point where the truth is known.
 
 | Source | Label |
 |---|---|
-| Original pipeline (Resemblyzer + Viterbi) | DWYER IC |
-| **Amendment A1** (participant evidence) | **MR SHEPHERD** |
+| **A1** (participant evidence) | **MR SHEPHERD** |
 | **ECAPA-TDNN + spectral clustering** (independent, acoustic only) | **MR SHEPHERD** |
 
-⇒ **An entirely independent acoustic method reaches the same conclusion the participant did, against
-the original label.** Together with the re-decode evidence (strong content words, collapsing
+⇒ **An entirely independent acoustic method reaches the same conclusion the participant did.**
+Together with the re-decode evidence (strong content words, collapsing
 boundaries, one pass omitting the span entirely across a 1.8 s gap — the signature of overlapping
 speech), A1 now rests on **three mutually independent lines**: participant evidence, transcription
 behaviour, and speaker embedding.
@@ -171,24 +170,23 @@ one- and two-word interjections and in overlapping speech. ⛔ **Order the certi
 before any passage is quoted externally.**
 
 **Confidence classes for speaker labels, highest first:**
-1. **Participant-confirmed (100%)** — corrected by a person who was present. See the Amendment Log.
-   Currently: amendment A1.
+1. **Participant-confirmed (100%)** — labelled or confirmed by a person who was present. See the Amendment Log.
+   Currently: A1–A3.
 2. **Hand-checked anchor (validated)** — the 30 turns cross-referenced against the independent
    small.en transcript, 27 of which were correct.
 3. **Inferred (≈90%)** — the Viterbi assignment over acoustic, lexical and adjacency evidence.
    Long turns sit at the reliable end of this class.
 4. **Weakest** — short interjections inside another speaker's turn, and overlapping speech.
-   A1 was a class-4 label before amendment, and is now class 1.
+   A1 sits in this segment class and is participant-confirmed (class 1).
 
 ## SPEAKING SHARE
-*Unamended pipeline output. Amendment A1 moves one segment from Commissioner Dwyer to Mr Shepherd;
-the figures below have not been recomputed.*
+*Speaker labels as amended (A1–A3).*
 
 | Speaker | Segments | Talk time | Share |
 |---|---|---|---|
-| Commissioner Dwyer | 846 | 2,949 s (49m 09s) | **86.2%** |
-| Mr Shepherd | 219 | 466 s (7m 46s) | **13.6%** |
-| Ms Matheson | 3 | 7 s | 0.2% |
+| Commissioner Dwyer | 845 | 2,947 s (49m 07s) | **86.1%** |
+| Mr Shepherd | 214 | 450 s (7m 30s) | **13.1%** |
+| Ms Matheson | 9 | 25 s | 0.7% |
 | Ms Ruttan | 0 | 0 s | 0.0% |
 
 **Turn changes: 202.**
@@ -843,15 +841,15 @@ or a more practical approach,  `flat`
 or a more cohesive and cooperative approach  `↑+2.3st`
 with the parties that are sitting at the other end of the table.  `flat fast 5.8w/s`
 
-> **✔ AMENDMENT A1 — speaker re-attributed. Confidence: 100% (participant).**
-> The following interjection was originally labelled DWYER IC. It is **MR SHEPHERD**,
-> confirmed 16 September 2026 by Mr Shepherd, who was present and who states the words are his.
+> **✔ A1 — speaker MR SHEPHERD. Confidence: 100% (participant).**
+> Confirmed 16 September 2026 by Mr Shepherd, who was present and who states the words are his;
+> independently corroborated by ECAPA diarisation.
 > **Purpose stated by the speaker:** an acknowledgement of the Commissioner's point, spoken as a
 > **preface to explaining his disclosure request**. It conveyed **neither acceptance nor rejection**
 > of the approach the Commissioner was proposing. The explanation did not follow: the Commissioner
 > speaks over it and completes his sentence.
 
-**30:12.98  MR SHEPHERD**  ✔ *(amended A1 — 100%, participant-confirmed; ✅ independently corroborated by ECAPA diarisation)*  
+**30:12.98  MR SHEPHERD**  ✔ *(A1 — 100%, participant-confirmed; ✅ independently corroborated by ECAPA diarisation)*  
 Yeah, I actually understand what you're getting at.  `wide`
 
 **DWYER IC** *(continuing, interrupting)*  

@@ -98,7 +98,7 @@ already recorded in `2026-09-16_THE_ARC_prosodic_control_7Aug2026.md`.
 
 ## 3. Note on the arc file
 
-With amendment A1 applied (30:12.98 re-attributed to MR SHEPHERD), the intensity maximum in this
+With 30:12.98 attributed to MR SHEPHERD (A1, participant-confirmed), the intensity maximum in this
 passage belongs to **30:14.96** at 75.0 dB / +9.0 dB, not to 30:12.98.
 
 ---

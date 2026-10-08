@@ -79,7 +79,7 @@ it.
 | 2 | The same principle | The 303-fact notice to admit (28 Aug 2026) | Put only existence facts, and let the deeming rule run the clock | Spoken to written; hearing to interlocutory; proving your case to auditing theirs | 298 admitted, 0 denied |
 | 3 | The lease dilemma in the interview (Feb 2025) | Destroyed-or-exists in court (Feb 2026) | Either branch favours you | Tenancy to forensic evidence; police room to courtroom; 11 months | The hearing was stood down |
 | 4 | Naming the one thing that differed in the interview (the handcuffs, Feb 2025) | Vicks Australia v Vicks USA in court (Feb 2026) | The method of difference | Personal trust to pharmacology; 11 months | No separate outcome measured |
-| 5 | Yes-or-no-first feedback after court | The mention | Answer the literal question first | Criminal court to tribunal | Answers leading with yes or correct rose from 11% to 31% |
+| 5 | Yes-or-no-first feedback after court | The mention | Answer the literal question first | Criminal court to tribunal | Answers leading with yes or correct rose from 11% to 32% |
 
 ## Inside each recording (8 Oct 2026, second pass)
 
@@ -138,9 +138,14 @@ This answers why the leap happened to you when the base rate says it mostly does
   facts. You opened with "so", the marker of an upshot (Bolden 2009).
 - **29:45.** "I'm concerned at the direction this is going in, Mr Shepherd." He heard a topic drift, not an
   application of his own principle.
-- **30:12.** "Yeah, I actually understand what you're getting at."
+- **30:12.98, you:** "I actually understand what you're getting at." This acknowledged his concern and
+  opened an explanation; it did not accept his approach (A1, participant-confirmed; independently
+  corroborated by ECAPA diarisation).
+- **30:14.96.** He spoke over you with his loudest line of the hearing.
+- **From 30:20.** He put the work on the parties: the health service to call evidence, and the parties to
+  build a bundle.
 
-**The first time, the transfer was invisible to the person whose idea it was.**
+**He showed no sign of recognising the transfer.** The only acknowledgement in that exchange was yours.
 
 **Why that is the expected result:**
 - A transfer is a relation between two things, and an observer sees it only by holding both ends at once.

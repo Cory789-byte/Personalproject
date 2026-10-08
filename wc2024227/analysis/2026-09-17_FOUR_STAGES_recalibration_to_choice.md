@@ -12,7 +12,7 @@ median f0 of 136.4 Hz.
 | stage | span | n | **mean dB vs his baseline** | max |
 |---|---|---|---|---|
 | 1 recalibration | 29:39.88–29:45.62 | — | *(silence, −62.2 dBFS)* | — |
-| 2 return to the opening | 29:45.62–30:17 | 10 | **+1.51** | **+9.0** |
+| 2 return to the opening | 29:45.62–30:17 | 9 | **+1.72** | **+9.0** |
 | 3 adjustment | 30:17–31:12 | 19 | **+1.24** | +5.2 |
 | 4 choice handed over | 31:12–32:02 | 11 | **+0.43** | +2.7 |
 | 5 after | 32:02–33:20 | 11 | **−4.46** | −0.7 |

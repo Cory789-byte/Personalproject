@@ -2224,7 +2224,7 @@ extract thousands of documents."*
 
 ## When he realised it was not coming
 
-Three receptiveness signals, all volunteered:
+Three receptiveness signals from the Appellant, all volunteered:
 
 > [30:12] *"Yeah. **I actually understand what you're getting to.**"*
 > [32:01] *"I think I can understand where you're getting it. I think I can make most of the way."*

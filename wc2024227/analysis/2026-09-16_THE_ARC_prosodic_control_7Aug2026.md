@@ -1,7 +1,7 @@
 # THE ARC — CONTROL, ESCALATION AND RELEASE IN THE MENTION OF 7 AUGUST 2026
 
 **Matter:** WC/2024/227 — *Shepherd v Workers' Compensation Regulator*
-**Source:** `documents/transcripts/TRANSCRIPT_diarised_prosody.md` (canonical, amended A1/A2)
+**Source:** `documents/transcripts/TRANSCRIPT_diarised_prosody.md` (canonical, with participant entries A1/A2)
 **Prepared:** 16 September 2026
 
 > **Status.** This is **analysis**, not record. Every timestamp, semitone figure, speech-rate
@@ -21,9 +21,9 @@ then turned, inside the same utterance, onto the bar table, and never brought ba
 
 | Speaker | Segments | Talk time | Share |
 |---|---|---|---|
-| Commissioner Dwyer | 846 | 49m 09s | **86.2%** |
-| Mr Shepherd | 219 | 7m 46s | **13.6%** |
-| Ms Matheson | 3 | 7 s | 0.2% |
+| Commissioner Dwyer | 845 | 49m 07s | **86.1%** |
+| Mr Shepherd | 214 | 7m 30s | **13.1%** |
+| Ms Matheson | 9 | 25 s | 0.7% |
 | Ms Ruttan | 0 | 0 s | 0.0% |
 
 **Turn changes: 202.** (Unamended pipeline figures; A1 moves one segment Dwyer → Shepherd.)
@@ -237,7 +237,7 @@ live one. The arc resolves on the single ground that was not traded away.
 
 **Inference.** Two loads, two opposite responses, both effective: held where the ground was
 documentary and provable; gave where it was not. That discrimination was made in real time, under
-load, from 13.6% of the speaking floor.
+load, from 13.1% of the speaking floor.
 
 ---
 

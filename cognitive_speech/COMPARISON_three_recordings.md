@@ -21,7 +21,7 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
 | Median pitch | 131 Hz | 134 Hz | 137 Hz |
 | Speaking rate (wpm) | 178 (officers 152) | **168** (Magistrate 167; prosecutor 144) | 159 (Dwyer 155) |
 | Words between pauses (mean) | 26.5 (officers 16.1) | 16.5 (Magistrate 15.5; prosecutor 21.4) | 11.5 (Dwyer 26.9) |
-| Median answer (words) | 30.5 | 15.5 | 9.5 |
+| Median answer (words) | 30.5 | 15.5 | 9 |
 | Median response gap (s) | 0.63¹ | 0.26 (Magistrate 0.17; prosecutor 0.32) | 0.32 (Dwyer 0.36) |
 | Answers after a gap of more than 2 s | 16% | 6% (1 of 18) | 4% |
 | Subordinate-to-coordinate ratio | 0.87 (officers 1.81) | 0.84 (Magistrate 1.42; prosecutor 2.06) | 0.63 (Dwyer 0.91) |
@@ -30,15 +30,17 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
 | Certainty words /100 words | 0.45 | 0.97² | 0.15 |
 | Characterising words | not counted | 7 in 418 | 0 in ~1,378 |
 | Dates and times /100 words | 0.19 | 0.96 | 0.00 |
-| Answers opening "yes / correct / okay" | not measured | 11% | 31% |
+| Answers opening "yes / correct / okay" | not measured | 11% | 32% |
 | Forms of address ("Your Honour", "Commissioner") | not measured | 0 (prosecutor 4) | 2 |
 | Rate, calm v activated third (words/s) | not recomputed³ | 2.62 v 3.53 (+35%) | 2.48 v 3.19 (+29%) |
-| Disfluency, calm v activated third (/100) | 1.25 v 0.60 | 0 v 0 | 0.53 v 0.57 |
+| Disfluency, calm v activated third (/100) | 1.25 v 0.60 | 0 v 0 | 0.53 v 0.87⁴ |
 | Talked over the other speaker | 0 | 0 | 0 |
 
 1. 0.74 on the word-level method; the 0.63 is the turn-level method used for the other two columns.
 2. Of the four, two are "Exactly" used as "yes"; the other two are "obviously".
 3. The interview inputs for this measure are no longer on disk.
+4. All of the mention's rise is one segment (30:12.98, yours), counted because it contains "actually", which
+   the measure treats as a repair word.
 
 ## What stayed the same: traits
 
@@ -48,7 +50,8 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
 3. **Fast, ready answers.** 0.63 → 0.26 → 0.32 s. At court the gap shrank as the hearing went on (0.40,
    0.30, 0.33, 0.05 s by quarter), and longer prompts drew faster answers (r = −0.31).
 4. **Activation speeds you up without breaking you.** You speak faster when activated (+35% at court,
-   +29% at the mention) and your fluency holds or improves.
+   +29% at the mention) and your fluency holds or improves in the interview and in court. At the mention the
+   measure rises only on one segment, counted for the word "actually".
 5. **You narrate in sequence.** "And… then… so" chaining (0.84–0.87 in live free talk) against the
    professionals' 1.4–2.1.
 6. **You hold threads and come back to them.** Interview: 15 returns in a 700-word narrative. Court: 2
@@ -64,10 +67,10 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
 |---|---|---|
 | Tempo | 178 → 168 → 159 wpm | Matched the bench by Feb 2026 (168 v 167) |
 | Run length | 26.5 → 16.5 → 11.5 words | Halfway by Feb 2026 |
-| Answer length | 30.5 → 15.5 → 9.5 words | Halfway by Feb 2026 |
+| Answer length | 30.5 → 15.5 → 9 words | Halfway by Feb 2026 |
 | Characterising words | not counted → 7 → 0 | Gone by Aug 2026 |
 | Certainty words | 0.45 → 0.97 → 0.15 | Peaked at court, then dropped |
-| Leading with yes / correct | – → 11% → 31% | By Aug 2026 |
+| Leading with yes / correct | – → 11% → 32% | By Aug 2026 |
 
 **Tempo and length changed first; wording changed last.** The court hearing is the midpoint.
 
@@ -85,7 +88,7 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
 4. **You answer the question behind the question.** "Are we going to go ahead with the trial today?" →
    "I requested an adjournment on the 20th, the 22nd." It worked here. Under cross-examination an answer
    that doesn't start with yes or no reads as evasive (Raymond 2003). You fixed most of this by the
-   mention (31% of answers led with yes / correct, up from 11%).
+   mention (32% of answers led with yes / correct, up from 11%).
 5. **You don't use forms of address.** No "Your Honour" in the hearing (the prosecutor used it four times);
    two forms of address at the mention. You speak to the person, not the office.
 6. **Your restraint is in turn-taking; your persistence is in topic.** You never cut anyone off, but you
@@ -101,7 +104,7 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
 | | Interview | Court | Mention |
 |---|---|---|---|
 | Pitch–loudness link (r), you v them | 0.28 v 0.45 (officers) | **0.15** v 0.52 (Magistrate), 0.57 (prosecutor) | 0.15 v 0.03 (Dwyer) |
-| Pitch rise in your loudest fifth of speech | +1.7 st v +3.9 | **+0.3 st** v +1.1, +1.1 | +1.0 st v +0.4 |
+| Pitch rise in your loudest fifth of speech | +1.7 st v +3.9 | **+0.3 st** v +1.1, +1.1 | +0.9 st v +0.4 |
 | Pitch movement inside a phrase (SD) | 3.80 st v 4.02 | **2.90 st** v 3.90, 4.18 | 2.28 st v 2.83 |
 
 Court, turns of similar length (2–12 s): your pitch range was 7.2 st (median turn 7.5 s) against the
@@ -131,12 +134,12 @@ farther from them.
 
 | Per 100 words | Court: you | Magistrate | Prosecutor | Mention: you | Dwyer |
 |---|---|---|---|---|---|
-| Contrast and exception (but, except, unless, only, without…) | **2.43** | 1.26 | 0.00 | **1.51** | 0.86 |
+| Contrast and exception (but, except, unless, only, without…) | **2.43** | 1.26 | 0.00 | **1.50** | 0.86 |
 | Reasons (because, reason, why, therefore, since) | **1.94** | 0.54 | 0.00 | 0.38 | 0.28 |
 | Negation (same lexicon as `speech_metrics.py`) | **2.67** | 2.33 | 1.57 | **3.13** | 1.94 |
-| they / them / their | **1.94** | 0.54 | 0.00 | **1.81** | 1.17 |
-| I / me / my | **8.50** | 2.51 | 4.91 | **8.31** | 2.63 |
-| Turns that open with "I" | 5 of 18 | 2 of 27 | 3 of 15 | 17 of 103 | 4 of 151 |
+| they / them / their | **1.94** | 0.54 | 0.00 | **1.80** | 1.17 |
+| I / me / my | **8.50** | 2.51 | 4.91 | **8.33** | 2.62 |
+| Turns that open with "I" | 5 of 18 | 2 of 27 | 3 of 15 | 17 of 104 | 4 of 152 |
 
 Interview, same negation lexicon: you 2.60, officers 1.91. You use the most negation in the room in all three.
 
@@ -185,7 +188,7 @@ across the three microphone chains, or between speakers on different microphones
 |---|---|---|---|
 | Drift across the recording | +0.16 dB per 10 min (officers −0.65; they fell 3.7 dB from the first quarter to the last) | +1.4 (the whole room rose: Magistrate +2.5, prosecutor +1.9) | +0.3 (Dwyer +0.2) |
 | End of turn against start | −0.2 dB (officers −1.1) | −1.2 dB; 4 of 16 turns ended more than 3 dB down (Magistrate −0.9; prosecutor −2.6) | −1.1 dB (Dwyer +0.5) |
-| Louder goes with faster (r) | not measurable | +0.39 | +0.29 |
+| Louder goes with faster (r) | not measurable | +0.39 | +0.30 |
 
 1. **You don't fade.** Over an hour you hold your level. The officers faded.
 2. **Your volume is a confidence meter.** You are quietest when conceding, unsure or retreating.

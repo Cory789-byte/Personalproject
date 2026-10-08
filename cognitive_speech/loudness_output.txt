@@ -14,10 +14,10 @@ PROSECUTOR: n=48 | spread SD 2.7 dB, p10..p90 -2.3..+3.3 | loud(>+3) 12% quiet(<
   PROSECUTOR follows the previous speaker's level: r = +0.21 (n=12)
 
 ===== MENTION
-CORY: n=171 | spread SD 4.1 dB, p10..p90 -4.3..+4.1 | loud(>+3) 18% quiet(<-3) 16% | by quarter -0.8, -0.2, +0.5, +0.6 | drift +0.32 dB/10 min | turn end minus start -1.1 dB (n=39) | r(level, rate) +0.29
-DWYER: n=843 | spread SD 3.1 dB, p10..p90 -4.0..+2.9 | loud(>+3) 9% quiet(<-3) 16% | by quarter -1.0, +0.1, +0.0, +0.5 | drift +0.20 dB/10 min | turn end minus start +0.5 dB (n=111) | r(level, rate) +0.47
-  CORY follows the previous speaker's level: r = +0.17 (n=76)
-  DWYER follows the previous speaker's level: r = +0.09 (n=76)
+CORY: n=172 | spread SD 4.1 dB, p10..p90 -4.3..+4.0 | loud(>+3) 17% quiet(<-3) 17% | by quarter -0.8, -0.1, +0.4, +0.6 | drift +0.32 dB/10 min | turn end minus start -1.1 dB (n=39) | r(level, rate) +0.30
+DWYER: n=842 | spread SD 3.1 dB, p10..p90 -4.0..+2.9 | loud(>+3) 9% quiet(<-3) 17% | by quarter -1.0, +0.1, +0.0, +0.5 | drift +0.20 dB/10 min | turn end minus start +0.5 dB (n=112) | r(level, rate) +0.47
+  CORY follows the previous speaker's level: r = +0.18 (n=77)
+  DWYER follows the previous speaker's level: r = +0.11 (n=77)
 
   Court, within each turn of 2 s or more: last third minus first third (dB)
   CORY: median -1.2 dB, turns ending quieter by >3 dB: 4 of 16
@@ -45,7 +45,7 @@ DWYER: n=843 | spread SD 3.1 dB, p10..p90 -4.0..+2.9 | loud(>+3) 9% quiet(<-3) 1
 09:15.7  +1.3 dB | Exactly. So they've targeted me and now they can't even give me my evidence.
 
 ===== MENTION: your opening segment level by first word
-  Correct / Exactly / Yes / Yeah: n=21, median -4.0 dB
+  Correct / Exactly / Yes / Yeah: n=22, median -4.0 dB
   Well: n=5, median -2.3 dB
   No: n=2, median +0.2 dB
   other openings: n=65, median +0.3 dB
@@ -53,10 +53,10 @@ DWYER: n=843 | spread SD 3.1 dB, p10..p90 -4.0..+2.9 | loud(>+3) 9% quiet(<-3) 1
    27:44 +3.0 dB | She's erratic physical presence and imposes unassessed unilateral directives.
    35:26 +2.5 dB | Yes. She took them out. What have they disclosed to you? I guess a dispute about the event, but it was taken o
    42:42 +2.4 dB | I don't have knowledge of that, but it seemed pretty... I understood it. Okay.
-   36:53 +1.5 dB | Do you still have a copy of that? I have a copy of that. So that's in your documentary case.
+   36:53 +1.4 dB | Do you still have a copy of that? I have a copy of that. So that's in your documentary case.
    32:24 +1.3 dB | constructive discussions with them? We have not not like a constructive discussion
   quietest turns (2+ segments):
-   53:00 -10.9 dB | Yes. Okay.
+   53:00 -11.0 dB | Yes. Okay.
    55:59 -9.5 dB | Yeah. Okay. All right.
-   18:29 -7.9 dB | Not that I can recall, no. Okay.
+   18:29 -8.0 dB | Not that I can recall, no. Okay.
    16:29 -7.5 dB | I guess I did request, but I didn't be specific about that.

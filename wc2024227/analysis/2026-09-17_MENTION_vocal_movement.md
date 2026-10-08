@@ -65,7 +65,7 @@ Pitch over the first 500 ms of each turn, against that speaker's own median.
 | **QIRC mention** | Dwyer +1.05 st \| Shepherd +0.45 st | **p = 0.41, ns** |
 
 ⇒ In the mention the two parties **claim the floor the same way**, despite Dwyer
-holding 86.2% of it. In the QPS interview the asymmetry is large. Floor *share*
+holding 86.1% of it. In the QPS interview the asymmetry is large. Floor *share*
 and floor-*claiming* are independent measures, and they diverge between the two
 recordings.
 
@@ -97,7 +97,7 @@ speaker.
 ## 5. What this says about the mention
 
 Across a hearing in which the Commissioner **got louder and faster** while
-controlling pitch and volume independently, and in which he held 86.2% of the
+controlling pitch and volume independently, and in which he held 86.1% of the
 floor, **the appellant's own vocal output did not change on any measured
 channel.** Rate, pitch and loudness were all flat from the first minute to the
 last, and he claimed the floor no differently than the bench did.

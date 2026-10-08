@@ -94,7 +94,7 @@ August to October was the same move repeated on paper:
 ### Act IV. 7 August: the mention
 
 #### IV.1 The floor
-- **Talk share:** Dwyer 86.2%; you 13.6%; Matheson 7 seconds; Ruttan nothing. 202 turn changes.
+- **Talk share:** Dwyer 86.1%; you 13.1%; Matheson 25 seconds; Ruttan nothing. 202 turn changes.
 - **His typical gap before speaking after you:** 0.40–0.42 s.
 
 #### IV.2 Minutes 0–29: his frame (Laws 28, 5 and 31, his)
@@ -166,7 +166,7 @@ August to October was the same move repeated on paper:
 | Stage | Span | Mean dB against his baseline | Line | Law |
 |---|---|---|---|---|
 | 1 Recalibration | 29:39–29:45 | silence | | 16 |
-| 2 Return to opening | 29:45–30:17 | **+1.51 (peak +9.0)** | "after my speech about efficiency…"; **"I'm going to schedule this disclosure dispute for a hearing"** (+9.0 dB, +5.93 semitones: the loudest moment of the hour) | 34 |
+| 2 Return to opening | 29:45–30:17 | **+1.72 (peak +9.0)** | "after my speech about efficiency…"; **"I'm going to schedule this disclosure dispute for a hearing"** (+9.0 dB, +5.93 semitones: the loudest moment of the hour) | 34 |
 | 3 Adjustment | 30:17–31:12 | +1.24 | "**I see a very comprehensive objection**" (+5.2); "you've got a bit of work to do **down there at the bar table**" | 2: the weight moved to the silent side |
 | 4 Choice handed over | 31:12–32:02 | +0.43 | "whether you're **entitled**"; lawyers, costs, "a big sideshow"; then "**and if you want it, you can have it**" (−2.8 dB, pitch up: a concession, not a threat) | 31 |
 | 5 After | 32:02–33:20 | **−4.46** | "a couple of constructive phone calls" | |
@@ -262,7 +262,7 @@ August to October was the same move repeated on paper:
 | Law | Where |
 |---|---|
 | 1 Never outshine the master | "I think I can meet most of the way"; Election built from his advice |
-| 4 Say less | 13.6% of the talk; one sentence carried the hour; two-page Election |
+| 4 Say less | 13.1% of the talk; one sentence carried the hour; two-page Election |
 | 8 Make others come to you | r 49 notice |
 | 9 Win through actions | 298 admissions, no argument |
 | 16 Absence | You didn't fill his silence. And never raised the employment track |

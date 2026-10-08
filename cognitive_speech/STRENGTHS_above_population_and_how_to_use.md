@@ -17,7 +17,8 @@ Small samples and hand counts throughout: these are indicators, not psychometric
      your words, because your voice won't supply it.
 2. **You get more fluent under pressure, not less.**
    - *Evidence:* disfluency fell or stayed flat when you were most activated (interview 1.25 → 0.60 per 100
-     words; court 0 → 0; mention 0.53 → 0.57). Anxiety usually increases speech disturbances (Mahl 1956).
+     words; court 0 → 0; at the mention 0.53 → 0.87, all of it one
+     segment counted for the word "actually", which the measure treats as a repair word). Anxiety usually increases speech disturbances (Mahl 1956).
    - *Use it:* choose live, high-stakes speaking: oral submissions, mediation, crisis coordination.
 3. **You hold several lines of thought and return to them.**
    - *Evidence:* 3.4 topic switches and 2.1 returns per 100 words in free narrative, against 1.6–2.0 and

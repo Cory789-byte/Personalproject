@@ -10,7 +10,7 @@ are unreliable (the model suppresses "um"); not used.
 | Speaking rate (wpm, incl. pauses) | 178 | 152 | 159 | 155 |
 | Words between pauses (mean) | 26.5 | 16.1 | 11.5 | 26.9 |
 | Subordinate/coordinate ratio | 0.87 | 1.81 | 0.63 | 0.91 |
-| Median answer length (words) | 30.5 | — | 9.5 | — |
+| Median answer length (words) | 30.5 | — | 9 | — |
 | Median response latency (s) | 0.63 | 1.22 | 0.32 | 0.36 |
 | Answers >2 s | 16% | — | 4% | — |
 | Hedges /100w | 0.77 | 0.33 | 1.04 | 0.47 |
@@ -18,7 +18,7 @@ are unreliable (the model suppresses "um"); not used.
 | Dates+times /100w | 0.19 | — | 0.00 | — |
 | Self-repairs /100w | 0.93 | — | 0.60 | — |
 | Arousal after challenge v other | +0.33 v −0.03 | — | +0.05 v −0.05 | — |
-| Disfluency low v high arousal | 1.25 v 0.60 | — | 0.53 v 0.57 | — |
+| Disfluency low v high arousal | 1.25 v 0.60 | — | 0.53 v 0.87 | — |
 | Talked over the other speaker | 0 | — | 0 | — |
 
 ## Threads (keyword-tagged topics; approximate)

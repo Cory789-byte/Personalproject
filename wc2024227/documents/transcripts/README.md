@@ -28,7 +28,7 @@ behind it. Nothing in this directory duplicates anything else.
 
 ## Status of the record, as at 16 September 2026
 
-- **Three amendments.** A3 (27 Sep 2026): six segments at 17:45 and 40:40–41:07 re-attributed Mr Shepherd → Ms Matheson on participant evidence, corroborated by un-normalised intensity and pitch (the one cue the bench/bar-table diarisation cannot use). A1 (correction, participant-confirmed, **independently corroborated** by ECAPA)
+- **Three amendments.** A3 (27 Sep 2026): six segments at 17:45 and 40:40–41:07 re-attributed Mr Shepherd → Ms Matheson on participant evidence, corroborated by un-normalised intensity and pitch (the one cue the bench/bar-table diarisation cannot use). A1 (speaker of 30:12.98, Mr Shepherd: participant-confirmed, **independently corroborated** by ECAPA)
   and A2 (confirmation, participant-confirmed, used as the ground-truth calibration point).
 - **Six windows re-decoded from the audio** at beam 10, two passes each. Four confirmations;
   two words removed as never spoken (*"Absolutely."*, *"Yeah,"*); one operator hypothesis refuted.

@@ -89,7 +89,7 @@ prosecutor **144** (`data/court_metrics.json`). Use those for any comparison acr
 | Median pitch | 131 Hz | **134 Hz** | 137 Hz |
 | Speaking rate (same method) | 178 wpm (officers 152) | **168 wpm** (Magistrate 167) | 159 wpm (Dwyer 155) |
 | Words between pauses (mean) | 26.5 | **16.5** | 11.5 |
-| Median answer (words) | 30.5 | **15.5** | 9.5 |
+| Median answer (words) | 30.5 | **15.5** | 9 |
 | Certainty words /100 | 0.45 | **0.97** | 0.15 |
 | Hedges /100 | 0.77 | **0.24** | 1.04 |
 | Characterising words | (not counted) | **7 in 418 words**: "obviously" ×2, "abuse", "ignore me", "restricted me", "targeted me", "stealing my dog" | **none** in ~1,378 words |

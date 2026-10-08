@@ -47,34 +47,34 @@
   topic-first (left-dislocation) candidates: 1 ['the defendant had the opportunity, he']
   'X and X' repetitions: []
 
-== MENTION: MR SHEPHERD (1324 words, 103 turns)
-  exclusive (but/except/unless/without/however/only/rather): 1.51
+== MENTION: MR SHEPHERD (1332 words, 104 turns)
+  exclusive (but/except/unless/without/however/only/rather): 1.5
   causal (because/reason/why/therefore/since): 0.38
-  negation: 3.55
-  they/them/their: 1.81
-  he/she/his/her: 0.76
-  you/your: 1.28
-  I/me/my: 8.31
+  negation: 3.53
+  they/them/their: 1.8
+  he/she/his/her: 0.75
+  you/your: 1.35
+  I/me/my: 8.33
   we/us/our: 0.6
-  document/record words: 2.27
+  document/record words: 2.25
   time anchors (dates/days/months/clock): 0.0
-  questions asked: 16 (1.21/100w)
-  turn openers (top 8): [('i', 17), ('yeah', 12), ('yes', 7), ('well', 5), ('correct', 5), ('so', 4), ('the', 4), ('no', 3)]
+  questions asked: 16 (1.2/100w)
+  turn openers (top 8): [('i', 17), ('yeah', 13), ('yes', 7), ('well', 5), ('correct', 5), ('so', 4), ('the', 4), ('no', 3)]
   topic-first (left-dislocation) candidates: 0 []
   'X and X' repetitions: ['time', 'time']
 
-== MENTION: DWYER IC (8275 words, 151 turns)
+== MENTION: DWYER IC (8267 words, 152 turns)
   exclusive (but/except/unless/without/however/only/rather): 0.86
   causal (because/reason/why/therefore/since): 0.28
   negation: 2.32
   they/them/their: 1.17
   he/she/his/her: 0.45
-  you/your: 5.68
-  I/me/my: 2.63
+  you/your: 5.67
+  I/me/my: 2.62
   we/us/our: 0.68
   document/record words: 2.09
   time anchors (dates/days/months/clock): 0.93
   questions asked: 131 (1.58/100w)
-  turn openers (top 8): [('so', 19), ('okay', 18), ('and', 15), ('you', 7), ('what', 4), ('i', 4), ("it's", 3), ('if', 3)]
+  turn openers (top 8): [('so', 19), ('okay', 18), ('and', 15), ('you', 7), ('what', 4), ('if', 4), ('i', 4), ("it's", 3)]
   topic-first (left-dislocation) candidates: 3 ['the documents, it', "the material that you've filed, it", 'that stressor, it']
   'X and X' repetitions: ['unnecessary', 'can', 'can', 'you']

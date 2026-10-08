@@ -101,8 +101,8 @@ of correct item tracking.
 | Measure | Value |
 |---|---|
 | Segments | 219 |
-| Speech time | 466 s |
-| Share of floor | **13.6%** (Dwyer 86.2%) |
+| Speech time | 450 s |
+| Share of floor | **13.1%** (Dwyer 86.1%) |
 | Turn changes | 202 |
 | Mean segment | **2.1 s** |
 | Longest runs | 45 s (13:28), 32 s (23:40), 28 s (29:17) |
