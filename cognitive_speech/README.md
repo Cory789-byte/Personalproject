@@ -11,4 +11,6 @@ into the WC track). Descriptive speech measures only, from machine transcripts.
 - `COMPARISON_three_recordings.md`: interview (Feb 2025), court (Feb 2026, spoken, not read) and mention (Aug 2026), like for like; traits, changes, literature, rules.
 - `steady_voice.py` / `steady_voice_output.txt`: pitch–loudness coupling, within-phrase pitch movement and range per speaker, all three recordings.
 - `formulation.py` / `formulation_output.txt`: contrast, reasons, negation, pronouns, openers and repetition per speaker (court and mention).
+- `loudness.py` / `loudness_output.txt`: level drift, end-of-turn fall, loud/quiet content, all three recordings (relative to each speaker's own median).
+- `PERFORMANCE_REVIEW_court_and_mention.md`: both hearings judged by outcome (outcome bias flagged), what each judicial officer's words show, grades, feedback with model lines.
 - Court outputs live with the court audio analysis: `qps_court_audio/2026-02-02_BMC_trial_stood_down/data/court_metrics.json`, `court_deep.json` (script `scripts/court_metrics.py`).

@@ -176,6 +176,48 @@ Interview, same negation lexicon: you 2.60, officers 1.91. You use the most nega
 The mention "questions asked" figure in `formulation_output.txt` is not used: several segments merge the
 Commissioner's question with your answer.
 
+## Loudness (measured 8 Oct 2026; `loudness.py`, output in `loudness_output.txt`)
+
+All levels are measured against your own median in each recording. Absolute dB cannot be compared
+across the three microphone chains, or between speakers on different microphones.
+
+| | Interview (66 min) | Court (9¾ min) | Mention (65 min) |
+|---|---|---|---|
+| Drift across the recording | +0.16 dB per 10 min (officers −0.65; they fell 3.7 dB from the first quarter to the last) | +1.4 (the whole room rose: Magistrate +2.5, prosecutor +1.9) | +0.3 (Dwyer +0.2) |
+| End of turn against start | −0.2 dB (officers −1.1) | −1.2 dB; 4 of 16 turns ended more than 3 dB down (Magistrate −0.9; prosecutor −2.6) | −1.1 dB (Dwyer +0.5) |
+| Louder goes with faster (r) | not measurable | +0.39 | +0.29 |
+
+1. **You don't fade.** Over an hour you hold your level. The officers faded.
+2. **Your volume is a confidence meter.** You are quietest when conceding, unsure or retreating.
+   - *Court:*
+     - the opening, "That's correct. I did a [Scott schedule]" (−6.0 dB; the bench could not hear it)
+     - "I just wanted clarification." (−5.7)
+     - "But the prosecutor said no. I have requested a stay, so a stay or adjournment and a stay." (−3.2)
+   - *Mention:*
+     - "I guess I did request, but I didn't be specific about that." (−5.8 to −8.4)
+     - "I can't remember the…" (−5.5)
+     - "I haven't been specific because I thought I had to go to MSH" (−3.8)
+
+   Confident answers are louder and faster (Kimble & Seidel 1991), and listeners hear the drop.
+3. **At court your volume went to the wrong places.**
+   - *Loudest:* the paper offer (+3.6), "Yeah, obviously…" (+2.7), the NATA complaint (+2.1), "targeted"
+     (+1.3) and Southport (+1.2).
+   - *Quieter:* your request for a stay was at −3.2. The facts that won ("not giving over material";
+     "only verbally told me it was destroyed") were at −0.8 and +0.4.
+   - *During the disclosure:* in the third quarter the bench and the prosecutor got louder and you dropped
+     1.7 dB. You listened and checked, which was right.
+4. **At the mention you were loud where it counted:** the emergency calls ("they're not sent to someone
+   having a cardiac arrest", +4.6 dB at your normal pitch). It came at the end of a long answer and the
+   Commissioner moved on.
+5. **You disagree softly.** Answers that open with "Well" (correcting the premise) start 2.3 dB under your
+   median. That is disagreement softened, not raised (Pomerantz 1984).
+6. **Your loud is also your fast.** "I've got it here for you if you want to…" was +3.6 dB at 9.8 words a
+   second.
+
+Not used: your loud-segment share at the mention, because several segments labelled as you carry the
+Commissioner's louder voice where a question and answer were merged. The six lines re-attributed to
+Ms Matheson are excluded throughout.
+
 ## How you come across
 
 - **Sincere.** You answer in about a quarter of a second, and fast answers are judged more sincere than slow
