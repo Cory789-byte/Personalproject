@@ -42,7 +42,7 @@ weak.
 | Mediator skill | Evidence | Now |
 |---|---|---|
 | Listening without interrupting | 0 overlaps in all three recordings (2 h+) | **Strong** |
-| Tolerating silence | Interview: after long silences the officers broke them 26 times, you 10 | **Strong** |
+| Tolerating silence | Interview: after you finished and 5 s+ of silence followed, you left the next move to the officers 10 times out of 15 (corrected 8 Oct 2026) | **Good** |
 | Calm presence | Same pitch in every room; pressure goes into speed, not pitch; least within-phrase pitch movement in every room | **Strong** |
 | Matching the other person's pace | 168 v 167 wpm (court); 159 v 155 (mention) | **Strong** |
 | Precision about what was said | "Correct/Exactly" ×10 when restated accurately; "Well" to correct a wrong premise (5 of 6) | **Strong** |
@@ -108,8 +108,7 @@ answering ("Yes or no?"). Mediators need both:
 - **You do not take a wrong premise on board.** You corrected 5 of 6 with "Well…". Many people accept part
   of what a leading question assumes when questioned by someone in authority (Gudjonsson's suggestibility
   research).
-- **You tolerate silence.** After long pauses in the interview the officers broke the silence 26 times; you
-  broke it 10.
+- **You tolerate silence:** after you finished speaking and a silence of 5 s or more followed, you left the next move to the officers 10 times out of 15 (you carried on yourself 5); when they finished and a long silence followed, they carried on themselves 16 times out of 21. (Corrected 8 Oct 2026: the earlier "officers 26, you 10" counted officers resuming after their own pauses.)
 - **You answer at conversational speed in formal rooms:** 0.26–0.32 s, against the officers' 1.22 s.
 - **You hold and return to more threads** than reference speakers: 3.4 switches and 2.1 returns per 100
   words, against 1.6–2.0 and 0.4–1.0 in recorded conversations between strangers.

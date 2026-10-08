@@ -25,7 +25,7 @@ Small samples and hand counts throughout: these are indicators, not psychometric
    - *Use it:* issue-mapping, complex case management, investigations, agendas. Keep a written "parking list"
      so the extra threads go on paper, not into your answers.
 4. **You tolerate silence.**
-   - *Evidence:* after long pauses in the interview the officers broke the silence 26 times; you broke it 10.
+   - *Evidence:* in the interview, after you finished speaking and a silence of 5 s or more followed, you left the next move to the officers 10 times out of 15 (you carried on yourself 5); when they finished and a long silence followed, they carried on themselves 16 times out of 21. (Corrected 8 Oct 2026: the earlier "officers 26, you 10" counted officers resuming after their own pauses.)
    - *Use it:*
      - In cross-examination, answer, stop, and let the silence sit; witnesses lose ground by filling it.
      - In negotiation, make the offer, then say nothing.
