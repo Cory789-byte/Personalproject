@@ -81,6 +81,34 @@ it.
 | 4 | Naming the one thing that differed in the interview (the handcuffs, Feb 2025) | Vicks Australia v Vicks USA in court (Feb 2026) | The method of difference | Personal trust to pharmacology; 11 months | No separate outcome measured |
 | 5 | Yes-or-no-first feedback after court | The mention | Answer the literal question first | Criminal court to tribunal | Answers leading with yes or correct rose from 11% to 31% |
 
+## Inside each recording (8 Oct 2026, second pass)
+
+**Mention (Aug 2026): the far one.** The Commissioner's rule about oral evidence became a written notice
+(298 of 303 admitted). It travelled across the most dimensions: spoken to written, hearing to interlocutory,
+and proving your case to auditing theirs.
+
+**Court (Feb 2026): two transfers across fields.**
+- **Laboratory accreditation into a criminal defence.** You raised a complaint to the body that accredits
+  forensic laboratories (07:47–07:53) as a lever on the missing sample. The Magistrate: "I don't know what a
+  NATO [NATA] complaint is." That a judicial officer did not recognise the source field measures how far the
+  structure had travelled. Far analogies produce more original solutions than near ones (Dahl & Moreau
+  2002).
+- **A known false-positive cause, inverted.** You took the US finding that a Vicks inhaler can cause a
+  methamphetamine-positive result and inverted it: the Australian product lacks the compound, so "there's no
+  reason why I should have had a positive result unless that is not mine" (01:33–01:53). The method of
+  difference becomes elimination, and elimination points to the sample.
+- **The one that misfired.** Linking the hearing to the separate Southport matter (09:01–09:15) moved a
+  pattern from one matter into a room where it did not belong. The bench redirected it. That is negative
+  transfer: the structure looked the same, but the forum's rules did not admit it.
+
+**Interview (Feb 2025): nearer transfers, made under pressure** (times only):
+- **Self to other (56:59–57:16).** You took the officers' account of your own reluctance (distrust after the
+  handcuffs) and applied it to the friend's statement that the video was deleted. Then, at 59:54, you
+  defended the condition that switches it on (no handcuffs at the time of the 000 call).
+- **Marriage to civil partnership (09:14, 11:19, 13:53).** Joint-property norms carried across to the
+  partnership.
+- **Tenancy rules to the guest (35:36, 64:00).** Co-tenants decide together, applied to who could stay.
+
 ## The new link: you held the structure before you were given the rule
 
 The Commissioner's rule in August 2026 was that **characterisations invite contradiction and existence facts
