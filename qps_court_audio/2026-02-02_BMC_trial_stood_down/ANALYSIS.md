@@ -25,8 +25,9 @@
 
 **The hinge.** The matter was stood down on one documentary contradiction: you had been told verbally the
 sample was destroyed; the prosecutor disclosed in court that the secondary sample still existed. The bench
-adopted that contrast three times in your favour (07:10, 08:37, 09:33) and recorded the competing positions
-as "contested" (08:55).
+took up your side three times: at 07:10 and 09:33 on what you had been told, and at 08:37 on when you raised
+it. It recorded the competing positions on the B sample as "contested" (08:55). (Corrected 8 Oct 2026:
+08:37 is the timing point, not the destroyed/exists contrast.)
 
 ## 2. Who held the floor
 
@@ -232,7 +233,9 @@ Across his 509 words:
 - **He argued by position, not reasons** ("it's my position", "for the court to decide"). That is the
   bar-table register of an advocate who does not give evidence himself.
 - **"Why were you told there was none?" got an answer to a different question.** Listeners often miss that
-  (Rogers & Norton 2011). The Magistrate did not miss it, and came back to it three times.
+  (Rogers & Norton 2011). The Magistrate did not miss it. She asked it at 04:20, tested it with you at 05:12,
+  and came back to its substance twice: at 07:10, 0.22 s after his "I can't speak to that", and at 09:33.
+  (Corrected 8 Oct 2026 from "three times".)
 
 **The positions that cannot all hold (added 8 Oct 2026).** The Magistrate did not need to read anyone's
 voice. She set the prosecution's positions against each other and against the record:
@@ -274,6 +277,74 @@ September emails. The questions are:
 - The laboratory's retention record for the secondary sample.
 - The September emails, against "on the day of the trial".
 - The body-worn camera, against "offered… on a number of occasions".
+
+## 6A. The prosecutor and you, side by side (8 Oct 2026)
+
+| | You | Mr Hodgetts |
+|---|---|---|
+| Role | Self-represented defendant | Police prosecutor |
+| Share of talk | 26.8% | 36.6% |
+| Speaking rate (same method) | 168 wpm | 144 wpm (slowest in the room) |
+| Median gap before answering | 0.26 s | 0.32 s |
+| Hedges per 100 words ("I think", "I guess", "probably", "maybe") | 0.24 | 0.98 (most in the room) |
+| Certainty words per 100 words | 0.97 | 0.00 |
+| Reasons and contrasts per 100 words ("because", "why"; "but", "unless") | 1.94 and 2.43 | 0.00 and 0.00 |
+| Restarts and abandoned sentences (hand count) | about 9 in 412 words | about 12 in 509 words |
+| Pitch range in turns of 2–12 s | 7.2 st | 15.2 st (widest) |
+| Pitch rising with loudness (r) | 0.15 | 0.57 |
+| End of turn against start | −1.2 dB (4 of 16 turns ended >3 dB down) | −2.6 dB (5 of 14) |
+| "Your Honour" | 0 | 4 |
+| Characterising words | 7 | 0 |
+| Loudest on | The paper offer; "obviously"; NATA; "targeted" | His "primary issue"; "the day of the trial" |
+| Quietest on | The opening line; "I just wanted clarification"; your request | "I can't speak to that" (the retest) |
+| Corrected by the bench | "Targeted" reframed as "complaints to police… profiling" | "The day of the trial" → "September in emails"; "chose not to take up" → "Which is contested"; "no destruction" → "he's been told to the contrary" |
+| Key contribution | "they've only verbally told me it was destroyed" | "the sample still exists" |
+
+**How he came across.**
+- **Courteous and correctly formal:** "if it pleases the court", "apologies", "if you could indulge me",
+  four "Your Honour"s.
+- **Underprepared.** He had not read the morning's material. He had no answer on a retest, although the
+  lab technician was outside. He had no answer to why you were told the sample was destroyed.
+- **Tentative.** He was the most hedged and slowest speaker in the room, and his sentences faded most at
+  the end. Hedges and hesitations lower perceived credibility and competence in court (Erickson, Lind,
+  Johnson & O'Barr 1978).
+- **Noncommittal:** positions without reasons ("it's my position"; "for the court to decide" four times).
+- **Animated in voice:** his pitch rose when he pushed (r = 0.57).
+
+**His performance, by outcome.** For the prosecution the morning was lost: no trial, an inquiry to make
+outside, and three of its framings corrected on the record.
+- *What came with the file, not from him:* the lab's inconsistent accounts (per your file summary), and
+  the missing statement and footage you raised.
+- *What was his:* the "day of the trial" framing the bench corrected; having no retest answer with the
+  technician outside; no answer to "why".
+- *To his credit:* he disclosed, admitted what he did not know, offered the technician, and accepted
+  "contested".
+
+| | Grade |
+|---|---|
+| Outcome for his side | D |
+| Preparation | D+ |
+| Candour | B |
+| Form and courtesy | A− |
+| Advocacy | C− |
+| **Overall** | **C−** |
+
+**The mirror image.**
+- **Polish against substance.** He came across smoother and performed worse; you came across rougher and
+  performed better. The bench followed the substance.
+- **Both live.** You were both formulating live, at about two restarts per 100 words each. Neither of you
+  was reading.
+- **Loudest voice on the wrong point, both of you.** Both your voices track confidence, and neither of you
+  put your loudest voice on your best point. His loudest was the point the bench corrected; yours were the
+  side issues.
+- **Each of you answered a different question at least once.**
+  - *Yours:* "are we going ahead today?" → "I requested an adjournment on the 20th, the 22nd". It gave her
+    what she needed, and she accepted it ("Yes, I read those emails").
+  - *His:* "why was he told there was none?" → the testing process. It did not, and she came back to it.
+
+**Take from him:** the courtesy. "Your Honour", "if it pleases the court" and "if you could indulge me" cost
+nothing. **Leave:** the hedges; "for the court to decide" in place of a reason; and the loud voice on a
+contested point.
 
 ## 7. Limits
 
