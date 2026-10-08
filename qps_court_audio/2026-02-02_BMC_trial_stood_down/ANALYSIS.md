@@ -40,6 +40,10 @@ as "contested" (08:55).
 | f0 median (p25–p75) | 181 Hz (173–191) | 127 Hz (119–134) | 134 Hz (128–141) |
 | f0 range per turn (p25–p75) | 6.1–15.6 st | 6.4–18.1 st | **4.4–10.1 st** (narrowest) |
 
+Rates in this table are words ÷ turn span. On the method used for the interview and the mention
+(`cognitive_speech/speech_metrics.py`, words ÷ word-run span) they are: you **168**, Magistrate **167**,
+prosecutor **144** (`data/court_metrics.json`). Use those for any comparison across recordings.
+
 - **The bench ran the room**: after each Magistrate turn the floor went to you 16 times and to the
   prosecutor 11 times. You spoke almost only to the bench (17 of 18 hand-overs went to the Magistrate). You
   and the prosecutor exchanged the floor directly only three times.
@@ -82,25 +86,120 @@ as "contested" (08:55).
 | | QPS interview, 24 Feb 2025 | **Court, 2 Feb 2026** | QIRC mention, 7 Aug 2026 |
 |---|---|---|---|
 | Median pitch | 131 Hz | **134 Hz** | 137 Hz |
-| Speaking rate | 178 wpm | **176 wpm** | 159 wpm |
+| Speaking rate (same method) | 178 wpm (officers 152) | **168 wpm** (Magistrate 167) | 159 wpm (Dwyer 155) |
+| Words between pauses (mean) | 26.5 | **16.5** | 11.5 |
+| Median answer (words) | 30.5 | **15.5** | 9.5 |
+| Certainty words /100 | 0.45 | **0.97** | 0.15 |
+| Hedges /100 | 0.77 | **0.24** | 1.04 |
 | Characterising words | (not counted) | **7 in 418 words**: "obviously" ×2, "abuse", "ignore me", "restricted me", "targeted me", "stealing my dog" | **none** in ~1,378 words |
 | Who led topics | you (71% carry-over) | the bench, mostly | the bench (39% carry-over) |
 
-Pitch is the one measure comparable across the three recording systems; level (dB) is not.
+Pitch is the one acoustic measure comparable across the three recording systems; level (dB) is not.
+**Correction (8 Oct 2026):** this table first gave your court rate as 176 wpm. That figure used turn
+spans (the §2 method); the interview and mention figures use word-run spans. On the same method the court
+rate is 168. Full like-for-like table: `cognitive_speech/COMPARISON_three_recordings.md`.
 
 **What it shows.** In February 2026 your voice was already steady: the narrowest pitch range in the room,
-and loud only to be heard. But your speed and your words were still those of the interview: fast, with
-characterisation ("abuse", "targeted", "stealing"). The bench answered the characterisation by
-redirecting it ("These are the complaints to police you said that was part of the profiling") and stood
-the matter down on the **documentary contradiction**, not on the targeting claim. Six months later, at the
-mention, the speed had dropped to the bench's tempo and the characterisation was gone. This recording is
-the "before" in that change.
+and loud only to be heard. On tempo, run length and answer length you were already halfway from the
+interview to the mention, and matched to the bench (168 wpm against the Magistrate's 167). What had not
+yet changed was the wording: certainty words at their peak, almost no hedging, and characterisation
+("abuse", "targeted", "stealing"). The bench answered the characterisation by redirecting it ("These are
+the complaints to police you said that was part of the profiling") and stood the matter down on the
+**documentary contradiction**, not on the targeting claim. By the mention the characterisation was gone.
+This recording is the **midpoint** of that change: tempo first, wording last.
 
-## 5. Limits
+## 5. You were speaking, not reading
+
+You did not read from paper at this hearing (your instruction, 8 Oct 2026). You offered paper twice and
+neither offer was taken. So every measure in this file is live: retrieving, planning and answering in real
+time.
+
+**The recording bears it out.** None of this comes off a page:
+- Restarts mid-phrase: "The other, the sergeant, his statement's not even there"; "so they've only
+  verbally, this man told me verbally it was destroyed"; "I mean you're saying, so the law is that…".
+- An abandoned clause: "except that I found out that that has… So there's no reason why…".
+- Emphasis by repetition, which is oral: "again and again and again"; "asked for it and asked for it".
+- Answers fitted at speed to prompts nobody could script: "Which bit?" → "The statement of the [?]
+  Sergeant" (0.30 s); "Is that what you want to do, is get that tested?" → "Exactly." (0.20 s).
+- Spoken syntax: you chained with "and… so…" (subordinate-to-coordinate ratio 0.84, the same as the
+  interview's 0.87), against the Magistrate's 1.42 and the prosecutor's 2.06. Written argument runs the
+  other way (Chafe 1982).
+
+**Your recall checked out against the record.**
+
+| You said, from memory | What the bench said |
+|---|---|
+| "I requested an adjournment on the 20th, the 22nd." | "Yes, I read those emails." (plural) |
+| "I've been asking it since last year, July or September." | "And he was first raised this back in September in emails." |
+
+Where you were not sure, you gave a range ("July or September"), not a guess dressed as a fact, and the
+documents settled it.
+
+**How the hinge was built: jointly, in speech.**
+1. 02:52 The Magistrate set your missing-material point aside ("things to bring up on the trial") and
+   framed the stay ground as "the destruction of a sample".
+2. 03:12 You brought the thread back: "Well, that and the prosecutors are not giving over material."
+3. 03:19 She asked: "Which bit?"
+4. 03:20 Your answer joined her frame to your thread: "they've only verbally told me it was destroyed…
+   I've requested that material again and again".
+5. 03:50 She distilled it: "you've only just had the verbal confirmation that… the sample was destroyed".
+6. 04:07 The prosecutor answered that frame: "there hasn't been any destruction of any sample… that sample
+   still exists."
+7. 07:10, 08:37, 09:33 She turned his answer into the question of why you had been told the opposite and
+   how the sample could be tested, and stood the matter down.
+
+The decisive fact went on the record as one spoken sentence from memory, drawn out by a two-word question,
+on a thread the bench had set aside 20 seconds earlier.
+
+**The paper.**
+
+| Time | Offer | What happened |
+|---|---|---|
+| 00:30–00:54 | The [Scott schedule], across three turns: "only two pages… a better summary… It summarises everything in three pages… but if you would like to" | Your voice trailed off on the offer (−5.9 dB). "If you have three pages of tiny print and it doesn't actually add anything new I'm not that interested." |
+| 06:15 | "I've got it here for you if you want to..." | Offered 0.22 s after the Magistrate, summarising your material, said "I can't remember the word". She carried on without it. |
+
+The prosecutor's offer of the footage ("I've got it here if you'd like to hear it") went the same way. The
+bench was deciding what to do that day, not reading. Every point that moved the hearing was spoken.
+
+**Threads (hand count; same rubric as `cognitive_speech/COMPARATORS_threads_hand_annotated.md`).**
+
+| Turn | Words | Threads | Switches | Returns | Sequence |
+|---|---|---|---|---|---|
+| 01:33 | 43 | 2 | 1 | 0 | same as application → Vicks |
+| 01:53 | 39 | 3 | 2 | 0 | updating one factor → Vicks finding (abandoned) → "not mine" |
+| 02:39 | 37 | 3 | 4 | 2 | Vicks → not driving → missing material → who drove → missing material |
+| 03:20 | 96 | 4 | 7 | 4 | missing material → told verbally it was destroyed → missing material → "abuse" → right to test the saliva → "restricted me" → asked again → "ignore me" |
+
+These runs are short (37–96 words), so their rates per 100 words cannot be compared with the 300–700-word
+runs in the comparator table. Across the hearing the missing-material thread came back four times (02:43,
+03:12, 03:20, 09:15), three of them unprompted, once straight after the bench had set it aside. The fourth
+return joined it to the targeting claim ("now they can't even give me my evidence").
+
+**Timing.** Your median gap after the other speaker finished was 0.26 s (Magistrate 0.17, prosecutor
+0.32). By quarter of the hearing: 0.40, 0.30, 0.33 and **0.05** s, fastest in the last quarter, when the
+sample was live. Longer prompts drew faster answers (r = −0.31): you were planning during the question.
+
+**Under activation.** Your rate rose from 2.62 to 3.53 words a second between your calmest and your most
+activated third of speech (+35%). Neither third had any measured disfluency.
+
+**What the bench took and what it left.**
+- *Took:* the verbal-destruction fact, the September emails, the adjournment emails, the Vicks point (as
+  "your basic argument for the stay") and the retest.
+- *Left:* "abuse", "ignore me", "targeted", "stealing my dog", and the NATA explanation (cut off at
+  08:00). It redirected the targeting point to "complaints to police… part of the profiling" and did not
+  stand the matter down on it.
+
+## 6. Limits
 
 - Machine transcript; several words unresolved (see the transcript's notes). Attribution corrected by hand
   in 19 places on pitch and content, each logged; one short "That's right." (09:31) is attributed to the
   Magistrate on pitch alone and is flagged.
-- A 9-minute sample: per-speaker baselines are thinner than at the mention.
+- A 9-minute sample: per-speaker baselines are thinner than at the mention, and rates per 100 words from
+  your 412 words are noisy.
+- Script artefacts not used: "Exactly" is not in the script's list of direct yes/no answers, so its 0%
+  "direct start" figure is wrong; only one prompt matched its "challenge" pattern, so the challenge measure
+  is unusable here. The script counts only marked self-repairs ("sorry", "I mean", "actually"), not
+  restarts, so the restarts above were found by hand.
+- Thread counts: one annotator (Claude), hand-coded.
 - Content is paraphrased from the machine transcript; order the court's certified transcript before
   relying on any quotation anywhere.
