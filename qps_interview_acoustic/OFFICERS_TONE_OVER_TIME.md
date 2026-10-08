@@ -80,6 +80,38 @@ was accusatory. The literature locates an accusatory interview in its content, n
 - **Over a long session, falling vocal effort is also the classic sign of fatigue.** It is the explanation
   to rule out before reading attitude into it.
 
+## Cory's account of the content, and what it means (8 Oct 2026)
+
+**Cory's account:** the officers sped up to press and accuse; they never listened to what he said; guilt was
+presumed throughout; they did not follow a PEACE model.
+
+**What PEACE requires.** Its founding principles (England and Wales, 1992) are:
+- the aim is accurate and reliable information, not a confession;
+- the interviewer keeps an open mind;
+- the account is tested against the evidence, fairly.
+
+Persistence alone is not the breach. A closed mind is. An interview that presumes guilt and does not take up
+the interviewee's account is the opposite of the model, whatever its phases look like.
+
+**The literature on the pattern Cory describes:**
+- **Guilt presumption changes the interviewer.** Interviewers who expect guilt ask guilt-presumptive
+  questions, use more pressure, and read the answers as confirming guilt (Kassin, Goldstein & Savitsky 2003;
+  Hill, Memon & McGeorge 2008).
+- **Investigator bias drives pressure tactics** (Narchet, Meissner & Russano 2011).
+- **Tunnel vision:** once a suspect is settled on, information pointing elsewhere is discounted or not
+  pursued (Findley & Scott 2006; Rassin, Eerland & Kuijpers 2010).
+
+**The one documented instance on file.** Cory offered police every message on a USB. It was refused (QPS
+track notes, `legal_system/`). Declining evidence the interviewee volunteers is not information-gathering.
+
+**What would prove "never listening".** Speed alone cannot show it. A fast response can be a prepared next
+accusation, or it can be a fast, attentive reply; Cory's own fast answers were the latter. The test is
+uptake: whether each next question used what Cory had just said. Measured at the mention, the Commissioner
+took up Cory's terms. For the interview it needs the transcript, plus a code for each officer utterance:
+- guilt-presumptive or neutral;
+- open, closed or leading;
+- whether it followed up Cory's account, or ignored it and repeated the allegation.
+
 ## Limits
 - **Body-worn camera:** the camera was on one officer, so posture or distance changes could lower both
   officers' recorded level. It cannot explain your level rising on the same microphone.
