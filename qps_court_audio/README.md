@@ -6,7 +6,7 @@
 
 | Folder | Hearing | Contents |
 |---|---|---|
-| `2026-02-02_BMC_trial_stood_down/` | Brisbane Magistrates Court, 2 Feb 2026, QPS prosecution; trial stood down | `TRANSCRIPT_diarised_prosody.md` (diarised, prosody-marked, amendment log), `ANALYSIS.md` (what was said, structure, voices, comparison with the 2025 interview and the 2026 mention, §5 spoken not read), `data/` (incl. `court_metrics.json`, `court_deep.json`), `scripts/` (incl. `court_metrics.py`) |
+| `2026-02-02_BMC_trial_stood_down/` | Brisbane Magistrates Court, 2 Feb 2026, QPS prosecution; trial stood down | `TRANSCRIPT_diarised_prosody.md` (diarised, prosody-marked, amendment log), `ANALYSIS.md` (what was said, structure, voices, comparison with the 2025 interview and the 2026 mention, §5 spoken not read, §6 reading the prosecutor), `data/` (incl. `court_metrics.json`, `court_deep.json`, `court_segs.json`, `prosecutor_profile.txt`), `scripts/` (incl. `court_metrics.py`, `prosecutor_profile.py`) |
 
 Method matches the 7 Aug 2026 mention and the QPS interview: faster-whisper large-v3 with per-word
 probabilities; ECAPA-TDNN speaker clustering; Praat (parselmouth) pitch and intensity per segment;

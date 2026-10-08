@@ -1,0 +1,80 @@
+
+== COURT: SHEPHERD (412 words, 18 turns)
+  exclusive (but/except/unless/without/however/only/rather): 2.43
+  causal (because/reason/why/therefore/since): 1.94
+  negation: 2.91
+  they/them/their: 1.94
+  he/she/his/her: 0.97
+  you/your: 1.46
+  I/me/my: 8.5
+  we/us/our: 0.24
+  document/record words: 1.94
+  time anchors (dates/days/months/clock): 0.97
+  questions asked: 1 (0.24/100w)
+  turn openers (top 8): [('i', 5), ("that's", 2), ("it's", 2), ('exactly', 2), ('it', 1), ('but', 1), ('yeah', 1), ('well', 1)]
+  topic-first (left-dislocation) candidates: 1 ['the sergeant, his']
+  'X and X' repetitions: ['again', 'asked for it']
+
+== COURT: MAGISTRATE (557 words, 27 turns)
+  exclusive (but/except/unless/without/however/only/rather): 1.26
+  causal (because/reason/why/therefore/since): 0.54
+  negation: 2.69
+  they/them/their: 0.54
+  he/she/his/her: 2.51
+  you/your: 3.05
+  I/me/my: 2.51
+  we/us/our: 1.44
+  document/record words: 1.62
+  time anchors (dates/days/months/clock): 0.18
+  questions asked: 13 (2.33/100w)
+  turn openers (top 8): [('which', 3), ('okay', 2), ("i'm", 2), ('yes', 2), ('yeah', 2), ('i', 2), ('mr', 1), ('sorry', 1)]
+  topic-first (left-dislocation) candidates: 1 ['his material, he']
+  'X and X' repetitions: []
+
+== COURT: PROSECUTOR (509 words, 15 turns)
+  exclusive (but/except/unless/without/however/only/rather): 0.0
+  causal (because/reason/why/therefore/since): 0.0
+  negation: 2.75
+  they/them/their: 0.0
+  he/she/his/her: 0.98
+  you/your: 1.38
+  I/me/my: 4.91
+  we/us/our: 0.98
+  document/record words: 2.16
+  time anchors (dates/days/months/clock): 0.39
+  questions asked: 0 (0.0/100w)
+  turn openers (top 8): [('i', 3), ('yes', 2), ('oh', 1), ('apologies', 1), ('and', 1), ('so', 1), ('as', 1), ('if', 1)]
+  topic-first (left-dislocation) candidates: 1 ['the defendant had the opportunity, he']
+  'X and X' repetitions: []
+
+== MENTION: MR SHEPHERD (1324 words, 103 turns)
+  exclusive (but/except/unless/without/however/only/rather): 1.51
+  causal (because/reason/why/therefore/since): 0.38
+  negation: 3.55
+  they/them/their: 1.81
+  he/she/his/her: 0.76
+  you/your: 1.28
+  I/me/my: 8.31
+  we/us/our: 0.6
+  document/record words: 2.27
+  time anchors (dates/days/months/clock): 0.0
+  questions asked: 16 (1.21/100w)
+  turn openers (top 8): [('i', 17), ('yeah', 12), ('yes', 7), ('well', 5), ('correct', 5), ('so', 4), ('the', 4), ('no', 3)]
+  topic-first (left-dislocation) candidates: 0 []
+  'X and X' repetitions: ['time', 'time']
+
+== MENTION: DWYER IC (8275 words, 151 turns)
+  exclusive (but/except/unless/without/however/only/rather): 0.86
+  causal (because/reason/why/therefore/since): 0.28
+  negation: 2.32
+  they/them/their: 1.17
+  he/she/his/her: 0.45
+  you/your: 5.68
+  I/me/my: 2.63
+  we/us/our: 0.68
+  document/record words: 2.09
+  time anchors (dates/days/months/clock): 0.93
+  questions asked: 131 (1.58/100w)
+  turn openers (top 8): [('so', 19), ('okay', 18), ('and', 15), ('you', 7), ('what', 4), ('i', 4), ("it's", 3), ('if', 3)]
+  topic-first (left-dislocation) candidates: 3 ['the documents, it', "the material that you've filed, it", 'that stressor, it']
+  'X and X' repetitions: ['unnecessary', 'can', 'can', 'you']

@@ -96,6 +96,107 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
    deeply than content you read (the generation effect: Slamecka & Graf 1978; levels of processing: Craik &
    Lockhart 1972). Making the schedule was the rehearsal.
 
+## Why the voice is steady (measured 8 Oct 2026; `steady_voice.py`, output in `steady_voice_output.txt`)
+
+| | Interview | Court | Mention |
+|---|---|---|---|
+| Pitch–loudness link (r), you v them | 0.28 v 0.45 (officers) | **0.15** v 0.52 (Magistrate), 0.57 (prosecutor) | 0.15 v 0.03 (Dwyer) |
+| Pitch rise in your loudest fifth of speech | +1.7 st v +3.9 | **+0.3 st** v +1.1, +1.1 | +1.0 st v +0.4 |
+| Pitch movement inside a phrase (SD) | 3.80 st v 4.02 | **2.90 st** v 3.90, 4.18 | 2.28 st v 2.83 |
+
+Court, turns of similar length (2–12 s): your pitch range was 7.2 st (median turn 7.5 s) against the
+Magistrate's 13.1 st (5.4 s) and the prosecutor's 15.2 st (4.9 s). Your turns were longer and still
+narrower, so it is not a length effect. Questions asked: you 1, the Magistrate 13, the prosecutor 0.
+
+**Four reasons, all measured.**
+1. **You emphasise with loudness, not pitch.** When the Magistrate and the prosecutor got louder their pitch
+   went up with it; yours barely moved. Dwyer is the only speaker in any of the recordings built the same way.
+2. **You hold a level inside each sentence.** Your within-phrase pitch movement is the lowest in the room in
+   all three recordings, and it has fallen every time: 3.80 → 2.90 → 2.28 st (three
+   different microphones, so the trend is indicative; the comparison inside each room is the solid one). You set a level for a sentence
+   and move it only for the ones that matter (the denial "And that, I wasn't driving" was set +3.0 st up).
+3. **You were stating, not asking or advocating.** Questions and persuasion carry the most pitch movement.
+   The prosecutor asked nothing, but his pitch rose with every push (r = 0.57).
+4. **Activation does not reach your pitch.** Median 134 Hz at court, inside your 131–137 Hz across all three
+   rooms. In most people stress raises it.
+
+**What it is not.** Not reading (the restarts in §5 of the court analysis prove the speech was live). Not
+the flatness of fatigue or low mood, which comes with slow speech, long pauses and a quiet voice: you were at
+168 wpm, answered in 0.26 s, and swung 12.5 dB on one cue.
+
+The interview figures are the weakest: "officers" is both officers merged, and the body-worn camera was
+farther from them.
+
+## Formulation patterns (`formulation.py`, output in `formulation_output.txt`)
+
+| Per 100 words | Court: you | Magistrate | Prosecutor | Mention: you | Dwyer |
+|---|---|---|---|---|---|
+| Contrast and exception (but, except, unless, only, without…) | **2.43** | 1.26 | 0.00 | **1.51** | 0.86 |
+| Reasons (because, reason, why, therefore, since) | **1.94** | 0.54 | 0.00 | 0.38 | 0.28 |
+| Negation (same lexicon as `speech_metrics.py`) | **2.67** | 2.33 | 1.57 | **3.13** | 1.94 |
+| they / them / their | **1.94** | 0.54 | 0.00 | **1.81** | 1.17 |
+| I / me / my | **8.50** | 2.51 | 4.91 | **8.31** | 2.63 |
+| Turns that open with "I" | 5 of 18 | 2 of 27 | 3 of 15 | 17 of 103 | 4 of 151 |
+
+Interview, same negation lexicon: you 2.60, officers 1.91. You use the most negation in the room in all three.
+
+1. **Your first word is a verdict on the question.**
+   - When the bench restates you accurately, you open with "Correct" or "Exactly": 10 times across the two
+     hearings (e.g. "she sent emails in the form of a directive to staff?" → "Correct.").
+   - When its premise is wrong, you open with "Well" and correct it, 5 of your 6 "Well" openers. At court
+     (03:12): "Well, that and the prosecutors are not giving over material." At the mention, three examples:
+     - 35:21: "you don't need any documents for that, do you?" → "Well, they've got documents for it."
+     - 38:31: "Did she decline it via email?" → "Well, she actually declined it on the phone and then declined
+       it on the MyHR twice."
+     - 47:15: "13 months went by…" → "Well, it was just time and time again…"
+   - "Well" marks an answer that resists the question's terms (Heritage 2015).
+2. **You give reasons and draw lines.** Close to twice the bench's rate of contrast and exception words, and at court
+   nearly four times the Magistrate's rate of causal words. The prosecutor used neither: he stated positions
+   ("it's my position", "for the court to decide").
+3. **You reason by elimination.** "There's no reason why I should have had a positive result unless that is
+   not mine." The structure is: no X, unless Y.
+4. **You speak in absences.** "Not even there", "wasn't driving", "no reason". Listeners take longer to
+   process negatives than positives (Clark & Chase 1972).
+5. **Your institutions are "they".** "They've only verbally told me", "they just ignore me", "they can't
+   even give me my evidence". The professionals name roles ("the defendant", "the prosecution witness").
+6. **You start from yourself.** "I" is your most common first word. Dwyer opens with "So", "Okay", "And".
+7. **You make frequency audible.** "Again and again and again", "asked for it and asked for it", "time and
+   time again" (twice).
+8. **You check you've been understood.** "If that makes sense" (08:36) and "Does that make sense?" (23:40)
+   at the mention.
+9. **You offer two pages, in both hearings.**
+   - At the mention you offered them 0.48 s after Dwyer said "if you talk at me for two hours about something
+     you can tell me in two minutes, I'm going to miss the point". He answered "Hand it up, please" 0.16 s
+     later.
+   - At court you offered them before the bench had asked for anything, and they repeated what she already
+     had. They were declined.
+   - In your two hearings, paper was taken when it answered the bench's problem and declined when it repeated
+     what the bench already had.
+
+The mention "questions asked" figure in `formulation_output.txt` is not used: several segments merge the
+Commissioner's question with your answer.
+
+## How you come across
+
+- **Sincere.** You answer in about a quarter of a second, and fast answers are judged more sincere than slow
+  ones (Ziano & Wang 2021).
+- **Calm, controlled and serious, not theatrical.** Listeners hear liveliness and charisma in pitch movement
+  (Rosenberg & Hirschberg 2009; Niebuhr et al. 2016). You have little, so you read as composed. Some will
+  read it as intense rather than warm.
+- **Firm, not agitated, when you push.** You push with volume at a steady or lower pitch. Low pitch signals
+  size and assertion; high pitch signals smallness, deference or uncertainty (Ohala 1984).
+- **Cooperative.** You match the bench's tempo, never talk over anyone, and check quietly when something
+  lands. Interviewees who converge are rated more favourably (Street 1984).
+- **Personal and owning.** You say "I" about three times as often as the bench. That is the language of
+  someone answering for himself.
+- **Precise.** "Correct" and "Exactly" tell the bench you are checking its paraphrase.
+- **Two registers, two risks.** Court 2026 was certain and aggrieved ("obviously", "they", "targeted"). The
+  mention was careful and slightly tentative ("I think", "if that makes sense"). Witnesses who speak plainly,
+  without hedges or intensifiers, are rated more credible and competent (Erickson, Lind, Johnson & O'Barr
+  1978; O'Barr 1982). Your best register is neither: plain facts.
+- **In person versus on paper.** On paper both benches found you heavy: "pretty heavy-going stuff";
+  "three pages of tiny print". In the room both engaged with you directly.
+
 ## Literature (what each finding corresponds to)
 
 - **Live formulation versus reading.** Restarts and repairs are signatures of online planning (Levelt 1983;
@@ -125,8 +226,9 @@ Sources: `interview_metrics.json` and `COMPARISON_mention_v_interview.md` (inter
 
 ## Rules for any hearing, from your own data
 
-1. **Speak from memory; keep paper as backup.** Offer it once, in one sentence ("I have a two-page summary
-   if it would help, Your Honour"), and let it go if declined.
+1. **Speak from memory; keep paper as backup.** Offer it only when it answers a question the bench has just
+   asked or a problem it has just named (the mention: taken; the court: declined). One sentence ("I have a
+   two-page summary if it would help, Your Honour"); let it go if declined.
 2. **Lead with the one fact that does the work, stated flat.** "I was told verbally the sample was
    destroyed. I have asked for it in writing since September." Then stop.
 3. **Yes or no first, then the reason.**

@@ -189,7 +189,60 @@ activated third of speech (+35%). Neither third had any measured disfluency.
   08:00). It redirected the targeting point to "complaints to police… part of the profiling" and did not
   stand the matter down on it.
 
-## 6. Limits
+## 6. Reading the prosecutor: what voice and structure can and cannot show
+
+**No conclusion about honesty can be drawn from voice or structure, here or anywhere.**
+- People detect lies at about 54% accuracy (Bond & DePaulo 2006).
+- The behavioural cues are weak (DePaulo et al. 2003), and the weakness is in the cues, not the observers
+  (Hartwig & Bond 2011).
+- Voice-stress analysis performs at chance (Harnsberger, Hollien, Martin & Hollien 2009).
+- He was making submissions and a disclosure as an advocate, not testifying, which takes him further outside
+  that research.
+
+**What his voice and structure do show** (`data/prosecutor_profile.txt`; pitch and level are measured
+against his own median):
+
+| Time | What he said | Voice | Structure |
+|---|---|---|---|
+| 01:01–01:30 | "I haven't had any material given to me", then "I received an email at 11:20… 11:25 and I haven't had enough time to go through all of it" | Loud on "I haven't received" (+5.4 dB) | Corrected himself from "no material" to a specific time |
+| 04:07 | "there hasn't been any destruction of any sample" | Level | Volunteered ("I can probably assist") |
+| 04:20–05:04 | Asked "why was he told there was [none]?": "I can't speak on behalf of and I don't have any evidence or information to suggest otherwise", then the testing process, then "that sample still exists" | Disclaimer fast (229 wpm); the explanation is his slowest speech of the hearing (81–99 wpm) | The "why" was not answered; the answer addressed what exists |
+| 05:31 | "As I've just disclosed to the court, the sample still exists." | His lowest pitch (−4.0 st), level unchanged | Formal, on-the-record frame; within 25 s, a turn to "the defendant was offered, on a number of occasions, his statutory right" |
+| 06:22 | "Yes, Your Honour, I've reviewed that correspondence from the defendant." | +4.0 dB | Says he has reviewed the correspondence |
+| 07:03 | "I can't speak to that Your Honour. It's not something that I'm able to inform the court. It's not." | His quietest (−4.2 to −4.5 dB) | Admitted not knowing, then offered the lab technician "sitting outside" |
+| 08:07–08:37 | "the primary issue… now months down the track… on the day of the trial" | His loudest turn (+5.7 dB, +2.3 st at the start); "day of the trial" +3.9 dB at 232 wpm | The one claim the bench corrected on the spot: "And he was first raised this back in September in emails." |
+
+Across his 509 words:
+- "for the court to decide / determine": 4
+- "my position" or "prosecution's position": 3
+- references to evidence still to come: 6
+- statements of what he could not say or did not have: 8
+- hedges: 5
+- contrast or causal words ("but", "because"): none
+
+**How to read it.**
+- **His loudness tracked his footing.** He was loud on his own case and quiet where he did not know, which is
+  how confidence and uncertainty ordinarily sound (Kimble & Seidel 1991). That does not separate truth from
+  belief.
+- **The features that sound evasive point the other way.** His self-correction to a specific time and his
+  "I can't speak to that" are features that content-analysis research associates with truthful accounts:
+  spontaneous corrections, and admitting lack of knowledge (Vrij 2005).
+- **The contradicted claim was in his loudest turn.** The claim the record contradicted came in that turn,
+  at speed.
+- **He argued by position, not reasons** ("it's my position", "for the court to decide"). That is the
+  bar-table register of an advocate who does not give evidence himself.
+- **"Why were you told there was none?" got an answer to a different question.** Listeners often miss that
+  (Rogers & Norton 2011). The Magistrate did not miss it, and came back to it three times.
+
+**What would decide it is the record, not the voice.** Testing an account against evidence is the method
+that works (Hartwig, Granhag, Strömwall & Kronkvist 2006). The Magistrate did exactly that with the
+September emails. The questions are:
+- Who "this man" at 03:20 was, and when he said the sample was destroyed.
+- The laboratory's retention record for the secondary sample.
+- The September emails, against "on the day of the trial".
+- The body-worn camera, against "offered… on a number of occasions".
+
+## 7. Limits
 
 - Machine transcript; several words unresolved (see the transcript's notes). Attribution corrected by hand
   in 19 places on pitch and content, each logged; one short "That's right." (09:31) is attributed to the
