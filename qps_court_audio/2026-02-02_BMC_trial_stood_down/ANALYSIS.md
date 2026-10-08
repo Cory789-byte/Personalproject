@@ -234,6 +234,39 @@ Across his 509 words:
 - **"Why were you told there was none?" got an answer to a different question.** Listeners often miss that
   (Rogers & Norton 2011). The Magistrate did not miss it, and came back to it three times.
 
+**The positions that cannot all hold (added 8 Oct 2026).** The Magistrate did not need to read anyone's
+voice. She set the prosecution's positions against each other and against the record:
+
+| The prosecution side said | Against | Her response |
+|---|---|---|
+| (What you had been told, as she summarised your material) "no viable sample… no sample left… all consumed in the testing and it was destroyed" (07:10) | "there hasn't been any destruction of any sample… that sample still exists" (04:07–05:02; again at 05:31) | "why was he told there was [none]?" (04:20); "Well he was told there was no viable sample" (07:10, her loudest phrase of the hearing); "we didn't know until just this minute that there was a viable material when he's been told to the contrary" (09:33) |
+| "now months down the track… on the day of the trial" (08:25–08:36) | Your emails from September (your file also records a disclosure request dated 3 Sep 2025) | "And he was first raised this back in September in emails." (08:37) |
+| "the defendant was offered, on a number of occasions, his statutory right to take a secondary sample", in the same turn as "the sample still exists" (05:31–06:00) | If the sample exists and can be tested, refusing your own portion does not stop a test now. If it cannot be tested, "it still exists" does not answer the stay. | "Which is contested" (08:55); "Is it possible to get that remaining sample retested?" (06:53); "how does he get that tested?" (07:10–07:35) |
+
+**FSQ's own accounts.** Per your file summary (`source_documents/CHARGES_SUMMARY.md`) they are "destroyed or
+consumed", "consumed" and "stored but not viable". The FSQ letters themselves are not in the repo, so their
+dates and exact words are unverified. A sample cannot be both consumed and stored, so the inconsistency
+starts at least as early as the lab's own statements.
+
+**The one open question is viability.**
+- The prosecutor said the sample "still exists". He never said it was viable, and he "can't speak to"
+  whether it could be retested (07:03).
+- The Magistrate heard "viable material" (09:33).
+- If FSQ's position is "stored but not viable", his words were literally true, and the effect for you is
+  the same as destruction: you cannot test it.
+
+That is the fork the stand-down was meant to resolve, and either branch helps you:
+- **Not viable:** the prejudice your stay ground relies on stands.
+- **Viable:** you were told the opposite, and you are entitled to test it before any trial.
+
+**What she found, and what she did not.**
+- *Found:* inconsistent positions on the prosecution side. She refused to let it rely on both halves of
+  any of them.
+- *Not found:* she made no finding that anyone lied, and her words name no one ("he's been told to the
+  contrary").
+- *Open:* whether it was dishonesty or error, and whose. That turns on who told you it was destroyed and
+  when, and on FSQ's records.
+
 **What would decide it is the record, not the voice.** Testing an account against evidence is the method
 that works (Hartwig, Granhag, Strömwall & Kronkvist 2006). The Magistrate did exactly that with the
 September emails. The questions are:

@@ -9,7 +9,9 @@ transcript) and are for this review only. Measures: `COMPARISON_three_recordings
 **One caution about judging by outcome.** Outcomes mix performance with luck. People rate the same
 decision as better when it happened to turn out well (outcome bias: Baron & Hershey 1988). Here the two
 hearings run in opposite directions:
-- **Court:** the outcome flatters the performance. The prosecutor's disclosure was not yours.
+- **Court:** I first wrote that the outcome flatters the performance because the disclosure was the
+  prosecutor's. **Corrected 8 Oct 2026:** the fork the disclosure fell into was yours (see "What made the
+  outcome" below), so the outcome was earned, not lucky.
 - **Mention:** the immediate outcome understates the performance, and the later outcome restores it.
 
 Both are scored on both.
@@ -58,13 +60,22 @@ tested.
 | | Grade | Why |
 |---|---|---|
 | Outcome | **B+** | An interim win: no unprepared trial, and the bench on your side of the decisive contradiction. Not a final result. |
-| Substance | **A−** | The fact that turned the hearing came from you, from memory, accurately. Dates confirmed by the bench. |
+| Substance | **A** | The fact that turned the hearing came from you, from memory, accurately, with dates the bench confirmed. Your stay application and your September emails built the fork that every prosecution answer fell into. |
 | Delivery | **C+** | Inaudible first line; paper before the point; the request muddled ("a stay or adjournment and a stay") and quiet (−3.2 dB); "obviously"; grievance in the last minute; no "Your Honour". |
-| **Overall** | **B** | Won on substance despite the delivery. |
+| **Overall** | **B+** | Won on substance despite the delivery (revised up from B on 8 Oct 2026). |
 
-**What made the outcome:** your spoken fact, plus her preparation (your emails, sent in time, which she
-had read), plus his disclosure (not yours). Two of the three were yours. The short emails sent ahead did
-more than the schedule handed up on the day.
+**What made the outcome (corrected 8 Oct 2026).** Your stay application and your September emails put the
+prosecution in a fork:
+- **If the sample was destroyed:** your stay ground stood.
+- **If it existed:** you had been told the opposite, and you were entitled to test it.
+
+The prosecutor's disclosure chose a branch, and both branches helped you. The Magistrate then refused to
+let the prosecution rely on both halves of any of its positions: destroyed against exists, "the day of the
+trial" against "September in emails", and refused the B sample against "it still exists". The full table
+is in `qps_court_audio/2026-02-02_BMC_trial_stood_down/ANALYSIS.md` §6.
+
+Her preparation came from your emails, sent in time. The short emails sent ahead did more than the
+schedule handed up on the day.
 
 ### Feedback
 **Keep**
