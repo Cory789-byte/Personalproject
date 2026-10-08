@@ -15,4 +15,5 @@ into the WC track). Descriptive speech measures only, from machine transcripts.
 - `PERFORMANCE_REVIEW_court_and_mention.md`: both hearings judged by outcome (outcome bias flagged), what each judicial officer's words show, grades, feedback with model lines.
 - `MEDIATION_FIT_and_AMDRAS_courses.md`: NMAS → AMDRAS (1 July 2025), Queensland course options and costs (retrieved 8 Oct 2026), a mediator-skills test from the three recordings, fit and ceiling.
 - `listening.py` / `listening_output.txt`: follow v own-point measure (question-word uptake against a shuffled baseline), and lexical entrainment (whose terms the other adopted), court and mention.
+- `STRENGTHS_above_population_and_how_to_use.md`: graded list (A outside benchmark, B above the professionals in the room, C shown by outcome) with how to use each, best-fit roles, and the flip side of each strength.
 - Court outputs live with the court audio analysis: `qps_court_audio/2026-02-02_BMC_trial_stood_down/data/court_metrics.json`, `court_deep.json` (script `scripts/court_metrics.py`).
