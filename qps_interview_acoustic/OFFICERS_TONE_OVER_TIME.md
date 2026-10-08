@@ -1,8 +1,9 @@
 # How the officers' tone changed across the interview (24 Feb 2025)
 
-> ⛔ QPS track / personal file only (discipline rule 10). Machine measurements, unverified. No transcript
-> is on disk, so this is tone (loudness, pitch, pace, timing), not content. Script: `officer_tone.py`;
-> output: `officer_tone_output.txt`. Levels are relative to each speaker's own median.
+> ⛔ QPS track / personal file only (discipline rule 10). Machine measurements, unverified. This file is
+> tone (loudness, pitch, pace, timing), not content. Content is coded turn by turn in
+> `OFFICER_QUESTION_CODING.md`; the transcript stays outside the repo. Script: `officer_tone.py`; output:
+> `officer_tone_output.txt`. Levels are relative to each speaker's own median.
 
 **Who is who.** Cluster C1 is both officers. A two-component pitch model separates them reasonably well
 (BIC 1087 v 1201; separation 2.38 SD):
@@ -77,6 +78,10 @@ was accusatory. The literature locates an accusatory interview in its content, n
   - confrontation, minimisation or information-gathering
 
   The counts can then be set against the tone, minute by minute.
+
+  **Done (8 Oct 2026), in `OFFICER_QUESTION_CODING.md`.** 53% of substantive officer turns were
+  accusatory: 32% in minutes 6–30, then 69% in minutes 30–60. The most accusatory windows were also the
+  fastest.
 - **Over a long session, falling vocal effort is also the classic sign of fatigue.** It is the explanation
   to rule out before reading attitude into it.
 
@@ -112,9 +117,14 @@ took up Cory's terms. For the interview it needs the transcript, plus a code for
 - open, closed or leading;
 - whether it followed up Cory's account, or ignored it and repeated the allegation.
 
+**Result (`OFFICER_QUESTION_CODING.md`):**
+- 30% of officer turns explored his point, 23% used his words to contest him, and 47% did not engage it.
+- None of the 10 evidence offers he made was taken up when he made it.
+- They heard him: word uptake was 4.8 times chance. What they followed up was selective.
+
 ## Limits
 - **Body-worn camera:** the camera was on one officer, so posture or distance changes could lower both
   officers' recorded level. It cannot explain your level rising on the same microphone.
 - **Officer separation:** the two officers are separated by pitch only (no separate microphones).
-- **No content:** with no transcript on disk, tone cannot be tied to what was said. With the transcript or
-  the audio again, the tone can be aligned with the questions minute by minute.
+- **Content:** coded separately in `OFFICER_QUESTION_CODING.md`. The transcript stays outside the repo, and
+  transcript and audio align to about ±2 s.
