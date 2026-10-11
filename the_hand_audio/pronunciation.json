@@ -1,0 +1,31 @@
+{
+  "_comment": [
+    "Spoken-form overrides applied ONLY to the text sent to the speech engine.",
+    "The written scripts in scripts/ are never changed.",
+    "IMPORTANT: the engine silently strips macrons, so 'Pakaraka' and 'Pākaraka'",
+    "produce identical audio. Long vowels must be spelled out here to be heard.",
+    "Add or remove entries after listening to audio/00_name-check.mp3, then re-run build.py.",
+    "Entries are applied longest-first, whole-word, case-sensitively."
+  ],
+  "map": {
+    "Dybbøl": "Dewb-bull",
+    "Danevirke": "Dah-neh-veer-keh",
+    "Rigsarkivet": "Reeks-ar-kee-vet",
+    "Balslev": "Balls-lev",
+    "Levendale": "Leven-dale",
+    "Portmairremener": "Port-mair-re-mener",
+    "Waitōtara": "Wai-toh-tara",
+    "Parininihi": "Para-nini-hi",
+    "Ātihau": "Aa-ti-hau",
+    "Pukehika": "Pooke-hika",
+    "Rangiwaea": "Rangi-waea",
+    "Araukuku": "Ara-oo-kuku",
+    "Paratupu": "Para-toopoo",
+    "Turakina": "Toora-keena",
+    "Tītokowaru": "Tee-toko-waroo",
+    "Whiritaunoka": "Firi-tow-noka",
+    "Whakatupua": "Faka-toopooa",
+    "tūpuna": "too-poona",
+    "Hikurangi": "Hikoo-rangi"
+  }
+}
