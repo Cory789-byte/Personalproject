@@ -7825,3 +7825,28 @@ Filed: documents/medical/2026-09-05_to_09-08_Krishnaiah_email_chain_QH_not_respo
 - ⚠ ALREADY SERVED: this chain was served on the Regulator 9 Sep as Tab M5 of the medical schedule. Source pp 1, 4, 5–7 were included; pp 2–3 were omitted with reasons. Source p 4, which carries "QH- I have not received response yet", IS in the served bundle.
 - ⛔ INTERNAL: pp 2–3 (Cory's 1:16 pm reply, and Dr K's "I can't provide preformed answers") are NOT to be sent to anyone: not to lawyers unprompted, and never to MSH or the Regulator. If a lawyer needs to show the non-response, use served Tab M5 p 28 or quote the line.
 - The first written notice of non-response (around the 27 Aug consult, per the 10 Sep email) is still not in the repo.
+
+## 11 Oct 2026 — mail sweep and this-week forecast (E36)
+- **Gmail case-file copy** (hotmail auto-forward) swept to 11 Oct. Since 1 Oct the Regulator has sent only:
+  - the 1 Oct out-of-office reply;
+  - the 7 Oct 09:14 holding reply: "as soon as possible, noting your requested timeframe of Friday 16 October 2026"; "following up with MSH".
+- **No Registry or Commission email since 1 Oct.** Earlier filings were acknowledged within a day.
+- **Connected Outlook** (Trustandcollectiveco) has no matter mail; its last message is 14 Jul.
+- **Tab 32A custody verified.** MSH's 5 Jun 2026 email (letter + Shepherd.zip) was cc'd to Matheson, so Item 6 is in the Regulator's own file.
+- **Ledger.** Added R23–R27; W12 marked fulfilled by R23; R22 re-priced.
+- **Forecast E36:**
+
+  | Outcome | % |
+  |---|---|
+  | any reply | 80 |
+  | substantive | 60 |
+  | Tab 32A admitted | 55 |
+  | leave position | 40 |
+  | any of the ten documents | 30 |
+  | change of position | 3 |
+  | Commission acts | 40 |
+
+  Modal: Thu or Fri, operational.
+- **Union items in the inbox (employment track).**
+  - Petering "Checking in", 29 Sep 2:00 pm: offers to review employer correspondence.
+  - Together membership, 2 Oct 5:15 pm: fee deduction declined and payments suspended. Fees keep accruing; a hardship plan is offered on 1800 177 244.

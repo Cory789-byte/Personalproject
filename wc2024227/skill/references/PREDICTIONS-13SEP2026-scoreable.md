@@ -2318,3 +2318,64 @@ fought on facts they have already admitted. Direction 5 is triggered. The choice
 conference or a hearing is yours, and it must be made by 1 October.
 
 **OUTCOME (of the E34 re-prices):** ______
+
+---
+
+### E36 · The week of 12–16 October 2026 — will the Regulator reply, and with what (11 Oct, solo)
+
+**Verified layer.**
+- **Mail swept 11 Oct.** Gmail case-file copy (hotmail auto-forward) searched to 11 Oct. The
+  connected Outlook (Trustandcollectiveco) holds no matter mail and nothing after 14 Jul 2026.
+- **R23** Thu 1 Oct 16:45: election, Letter to Registry with Schedule, and the proposed Second
+  Amended 9A went to the Registry, cc Matheson and OIR-Appeals. Consent to leave was asked.
+- **R24** 16:46: Matheson's out-of-office reply. She was away to Mon 5 Oct inclusive, which was
+  the King's Birthday holiday.
+- **R25** Wed 7 Oct 08:20: r 49 request for Tab 32A, "by Friday 16 October 2026, or before the
+  conference if it is listed earlier".
+- **R26** 09:14, 54 minutes later: *"The Regulator is looking over both emails and their
+  contents and will have a response to you as soon as possible, noting your requested timeframe
+  of Friday 16 October 2026."* Also: *"I am following up with MSH on the requested documents…"*
+- **No Registry or Commission email** in the case-file copy since 1 Oct. Earlier filings were
+  acknowledged within a day: 26 Feb, 22 Apr and 24 Jun 2026.
+- **Tab 32A is in the Regulator's own custody.** MSH's 5 Jun 2026 email to the Registry carried
+  the K-LM26/729 letter and *Shepherd.zip*, and was copied to Matheson (Gmail msg 1a0a27aec40044bf).
+  Item 6 is in `documents/disclosure-2026-06_MSH_production/`.
+
+**Base rates (ledger).**
+- Substantive replies took 11, 14, 15, 15 and 21 days; the median is 15.
+- Counted from 1 Oct, the median lands on **Fri 16 Oct** exactly. Counted from her return on
+  6 Oct, every substantive reply on record would land next week.
+- Dates she set or accepted: met 4 of 4 (R14, R19, R20, R21), each on time or early.
+- "As soon as possible" with no date: slipped once, by 11 days (R07 → R11).
+- R26 is a hybrid of the two: the soft phrase, tied to a date she wrote down.
+- Her substantive replies fall mostly on a Thursday or Friday (4 of 5).
+
+| Quantity, Mon 12 – Fri 16 Oct 2026 | P |
+|---|---|
+| Any written reply from the Regulator, holding replies included | **80** |
+| A substantive reply on at least one item | **60** |
+| Tab 32A admitted (custody is her own file; E30 says custody decides) | **55** |
+| A stated position on leave for the Second Amended 9A | **40** — "does not oppose, subject to leave to amend the SOFC" ≈ 30 of the 40 |
+| Any of the ten disputed documents resolved (nine MSH-held + Tab 24) | **30** — all ten: 10–15 |
+| A position on SOFC ¶27 or on the causal particulars | **10** |
+| Counsel named, or a s 552B request | **10** |
+| A change of position on the merits (concession, offer, ¶27 withdrawn) | **3** — the window opens at the conference (HOW-THE-REGULATOR-CONCEDES §5) |
+| The Commission acts on the election (listing, directions, or a request for the Respondent's view) | **40** — least anchored number here |
+
+**Modal shape.** An operational email on Thursday or Friday:
+- Tab 32A admitted;
+- leave not opposed, with a reservation to amend the SOFC;
+- the ten documents still with MSH;
+- the rest left for the Commission or the conference.
+
+That would be significant procedurally, but not a change of position.
+
+**Falsifiers.** Any of these means the model is wrong:
+- a reply before Wednesday that maintains everything;
+- opposition to leave on the ground of new allegations;
+- Tab 32A refused, or sent to MSH.
+
+**If nothing arrives by Fri 16 Oct.** That is not a signal on its own (E29). The response is one
+line on Mon 19 Oct referring to her 7 Oct email. Nothing is to be sent before Friday.
+
+**OUTCOME:** ______
