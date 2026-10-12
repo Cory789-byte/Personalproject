@@ -2379,3 +2379,62 @@ That would be significant procedurally, but not a change of position.
 line on Mon 19 Oct referring to her 7 Oct email. Nothing is to be sent before Friday.
 
 **OUTCOME:** ______
+
+---
+
+### E37 · Monday 12 October 2026 — the documents confirmed, the conference agreed, counsel revealed
+
+**Verified layer.**
+
+**R28, 08:30:43, to Cory only.** Subject "RE: … Documents in dispute – Disclosure", a reply on the 24 September thread.
+- Encloses MSH copies of Tabs 1, 5, 17–19, 21, 22, 23 and 31.
+- Tab 31 comes as a native spreadsheet named *2024 Emergency Code Register_16 to 20 March 2024.xlsx*. The name matches exactly the range in the Annexure A description.
+- "The regulator confirms the veracity of the attached documents."
+- Tab 24 is not mentioned (the second time), and nor is Tab 32A.
+- Result: 38 of the 39 Annexure A documents are now admitted or confirmed.
+
+**R29, 09:21:08, to the Registry, cc Cory.**
+- Agrees to a second s 552A conference.
+- Says points 2–7 "would be better placed to be discussed at the conference in lieu of ordered in directions, in the first instance".
+- "the Regulator's Counsel is currently on leave overseas and not contactable until 22 October 2026".
+- Asks the Commission's consent to its "undertaking to speak with the Appellant once it is in receipt of Counsel's availability and jointly agree on a range of dates … before communicating with the registry".
+- Silent on: the morning's disclosure; consent to leave; ¶27; the causal particulars; Tab 24; Tab 32A.
+- The formula is absent.
+
+**Metadata.** Prediction-only; ⛔ never in correspondence.
+- **Image Content-ID.** The CID suffix decodes to local time. It was calibrated on two controls: the 7 October reply (CID 09:14:11, sent 09:14:12) and R29 (09:21:07 against 09:21:08).
+  - R28's CID decodes to **Friday 9 October 16:28:55**.
+  - The email was finalised on Friday afternoon and delivered at 08:30 on Monday, which fits a scheduled or held send.
+- **Thread-Index.** Cory's own 7 October header decodes to 08:07:21, against a send at 08:20, so the header records when the message was created.
+  - R29's header decodes to **09:20:58**, ten seconds before it was sent.
+  - The text was prepared elsewhere and pasted in.
+- **Attachment file metadata.** Not yet read: the connector cannot carry the 10.6 MB message.
+
+**Law confirmed today.**
+- WCRA s 552B: a lawyer at a s 552A conference requires "the agreement of the parties" or "the appeal body's leave". R29 assumes counsel will attend.
+- Carr [2022] QIRC 59 was set aside in *WCR v Carr* [2023] ICQ 1 (Merrell DP, 10 January 2023). The Regulator won that appeal.
+
+## 1 Scores — E36, items resolved so far
+
+| Item | P | Outcome | Brier |
+|---|---|---|---|
+| Any written reply, 12–16 Oct | 80 | ✅ Mon | 0.0400 |
+| Substantive reply on at least one item | 60 | ✅ | 0.1600 |
+| Any of the ten documents resolved | 30 | ✅ nine of ten | **0.4900** |
+| Change of position on the merits | 3 | ❌ | 0.0009 |
+| Counsel named, or a s 552B request (strict) | 10 | ❌ — but counsel's involvement was disclosed | 0.0100 |
+
+Mean of the five: **0.1402.**
+
+Still open to Friday 16 October:
+- Tab 32A admitted (55);
+- a stated position on leave (40; deferred, so likely ❌);
+- all ten documents (10–15; Tab 24 open);
+- ¶27 or the particulars (10);
+- the Commission acts (40).
+
+**Where the model was wrong.** "Following up with MSH" on 7 October was read as delay, but MSH produced within about 16 days. The modal day was Thursday or Friday, and the work was in fact finished on Friday at 16:28; only delivery slipped to Monday.
+
+The model also under-priced counsel. E34's F2.4 ("counsel appears before listing", 70) pointed the right way, but E36 priced the visible step at 10.
+
+**Panel read (thesis, hypotheses, predictions):** appended below once the workflow returns.
