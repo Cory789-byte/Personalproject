@@ -2437,4 +2437,22 @@ Still open to Friday 16 October:
 
 The model also under-priced counsel. E34's F2.4 ("counsel appears before listing", 70) pointed the right way, but E36 priced the visible step at 10.
 
-**Panel read (thesis, hypotheses, predictions):** appended below once the workflow returns.
+**Read.** Solo; the panel was stopped at Cory's request.
+
+**Thesis.** The Regulator has stopped contesting documents and started managing the case through counsel.
+- It cleared what cost it nothing: authenticity, now confirmed from MSH's own records.
+- It kept everything that would commit it out of written orders: ¶27, the causal particulars, leave, and its own amendment.
+- It moved those into a counsel-attended conference, on counsel's timetable.
+- This is neither a concession nor a refusal.
+
+**Hypotheses.**
+- **H1, most likely: counsel-managed positioning.** Clear the decks, make no written commitments, keep the April 9A as the operative pleading, and decide strategy after 22 October.
+- **H2, a real possibility: preparing to concede.** Under Guide 5.1, a counsel-heard private view from the Member at the conference is the route to a change of position.
+- **H3, overlapping with H1: delay and control.** Avoid item 2 being ordered; the conference likely falls in mid-to-late November.
+- **H4, least likely as the whole story: purely administrative.**
+
+**Falsifiers.**
+- Unconditional consent to leave before the conference points to H2.
+- A s 552B request plus a without-prejudice approach points to H2.
+- An application to amend the SOFC, add witnesses or add an expert points to H3 and a defence to hearing.
+- Dates offered in December or later point to H3.
