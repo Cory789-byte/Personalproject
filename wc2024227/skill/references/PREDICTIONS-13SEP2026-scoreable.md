@@ -2456,3 +2456,29 @@ The model also under-priced counsel. E34's F2.4 ("counsel appears before listing
 - A s 552B request plus a without-prejudice approach points to H2.
 - An application to amend the SOFC, add witnesses or add an expert points to H3 and a defence to hearing.
 - Dates offered in December or later point to H3.
+
+### E37.1 · Correction, and the February 2026 precedent (12 Oct, on Cory's prompt)
+
+**What was wrong.** The E37 read, the R29 ledger note and my replies treated counsel as new, as the "first mention of counsel" in the matter.
+- **The record shows otherwise.** Ms Willson (WHS-specialist panel counsel) appeared at the 27 Feb mention, the 13 Mar 2026 first s 552A conference and the 7 Apr mention. She stood down from the 22 May and 7 Aug mentions.
+- **Prediction already on file.** working-theories.md expected her to reappear "only if the matter moves toward hearing or settlement-conference territory", and to log her reappearance as a signal.
+- **How s 552B was dealt with in March** is not in the record.
+
+**The precedent (R32, Feb 2026).**
+- **Mention listed for 26 Feb.** On 17 Feb at 11:51, the same morning the Notice of Listing arrived, Matheson wrote to the Registry, cc Cory. Counsel was in a hearing before DP Hartigan that day. She offered two half-day slots (Tue 24 Feb AM, Fri 27 Feb PM).
+- **Cory was not asked.** He volunteered consent. The mention moved by one day.
+
+| | 17 Feb 2026 | 12 Oct 2026 |
+|---|---|---|
+| Trigger | A Notice of Listing, answered the same morning | No listing to answer; pre-emptive |
+| Counsel's diary | Specific slots produced within hours | "Not contactable until 22 October"; no slots |
+| Who sets the date | The Registry, from the Regulator's slots | The Regulator and the Appellant first, "before communicating with the registry" |
+| Delay | 1 day | 10 or more days before anything starts |
+
+**Reading.** Two departures from its own practice:
+- it withheld counsel's availability;
+- it inserted a party-to-party step.
+
+The best explanation is purpose, not logistics: a standstill with a private channel before any order or listing, ending when counsel returns.
+
+**Correction to earlier scoring.** The 22 October date and the step are choices.
