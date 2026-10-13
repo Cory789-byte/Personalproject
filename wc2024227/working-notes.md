@@ -7607,3 +7607,20 @@ and skill references that quote it, and `index/FULLTEXT.txt` (rebuilt). Basis: p
 labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 s), Mr Shepherd 13.1%
 (214 segs, 450 s), Ms Matheson 0.7% (9 segs, 25 s); FOUR_STAGES stage 2 = 9 segments, +1.72 dB
 (peak +9.0 unchanged). Self-analysis outputs in `cognitive_speech/` re-run; small shifts only.
+
+## 2026-10-13 — Regulator agrees to a second s 552A conference; nine documents confirmed; Commission instructs on dates
+- **Mon 12 Oct, 8:30 am, Matheson to Cory.** Disclosed Tabs 1, 5, 17, 18, 19, 21, 22, 23 and 31 from MSH: "The regulator confirms the veracity of the attached documents." The Annexure A count is now **38 of 39**. Tab 24 is not addressed (its facts, 178–179, were admitted). **Tab 31** (Emergency Code Register, 16–20 March 2024) is the document behind the only Tab-based facts not admitted (228–231).
+- **Mon 12 Oct, 9:21 am, Matheson to the Registry, cc Cory.**
+  - She agrees to a second s 552A conference.
+  - Points 2–7 are "better placed to be discussed at the conference in lieu of ordered in directions, in the first instance".
+  - Counsel is overseas and not contactable until 22 Oct.
+  - She undertakes to agree a joint range of dates with Cory before writing to the Registry.
+- **Tue 13 Oct, 12:26 pm, Registry for Dwyer IC.** "The Regulator is instructed to obtain their Counsel's availability as soon as possible following 22 October 2026 and advise the Appellant. A section 552A conference will then be scheduled…" No orders were made on points 2–7, and leave (direction 3) is not mentioned.
+- **Records** (verbatim bodies, times in AEST): `documents/regulator-2026-10-12/`.
+- **Analysis:** `analysis/2026-10-13_REGULATOR_REQUEST_12OCT_reasons_and_signals.md`. It gives 18 reasons and 7 signals, what "negotiated" means here (no commercial settlement at the conference; issues narrowed, then the Regulator reviews its position), and what the request does not show.
+- **The deferral fits the 1 Oct (evening) decision.** Leave will be dealt with at the conference, where the corrected proposed 9A (change 97) is handed up before leave is decided.
+- **Next.**
+  - Nothing to send now.
+  - Have availability ready for late Oct and Nov.
+  - Watch for an application for leave to serve an expert report (a sign of a contest) and for para 27 at the opening.
+- Attachments to the 8:30 email could not be downloaded through the Gmail connector. Save them from the Hotmail copy into `documents/regulator-2026-10-12/` when convenient.
