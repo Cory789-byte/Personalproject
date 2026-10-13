@@ -7624,3 +7624,20 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - Have availability ready for late Oct and Nov.
   - Watch for an application for leave to serve an expert report (a sign of a contest) and for para 27 at the opening.
 - Attachments to the 8:30 email could not be downloaded through the Gmail connector. Save them from the Hotmail copy into `documents/regulator-2026-10-12/` when convenient.
+
+## 2026-10-13 (later): the nine disclosed documents checked; who followed whom at the mention
+- **Attachments to the 12 Oct 8:30 email** (provided by Cory) are filed in `documents/regulator-2026-10-12/disclosure_12OCT2026/`; Outlook prints of the three emails are in `email_prints/`.
+- **All nine match the Annexure A copies.**
+  - Tabs 22–23 are byte-identical.
+  - Tabs 1 and 5 have identical text and are the same source PDFs.
+  - Tab 21's body is identical (it is the Injury Management mailbox copy).
+  - Tabs 17–19 match field by field (image-only prints).
+  - Tab 31 is an .xlsx extract of the MARCH 2024 sheet. It matches all 53 entries in the Annexure capture and facts 228–231 exactly.
+  - Detail: `documents/regulator-2026-10-12/DISCLOSURE_12OCT2026_VERIFICATION.md`.
+- **Metadata, chronology only.** The files were prepared at MSH on 24–28 Sep 2026 (author "Estelle Bain") and disclosed on 12 Oct. When MSH sent them to the Regulator is not shown.
+- **Correction to the 13 Oct reasons file.** Facts 261–262 admit only the wording of RD 69983. The 8 Sep cover letter reserves the truth of its findings ("limited to existence and wording"; de novo).
+- **The 8 Sep cover letter shows the Regulator read the notice on the existence/characterisation line.** Their outlines then argued characterisation only ("better characterised as a rostering practice issue").
+- **Self-analysis** (not case material): `cognitive_speech/FOLLOWING_AND_NOTICING_mention_notice_regulator.md`.
+  - Matheson answered only when the Commissioner put a question to her: 5 turns, 3 of them hedged.
+  - The Commissioner restated Cory's case 11 times, and 8 of the 10 Cory answered were confirmed.
+  - His stated non-understanding was confined to written labels ("filters", "unassessed", "disposition of items"). None of these appear in the corrected 9A.

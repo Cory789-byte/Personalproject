@@ -147,6 +147,17 @@ This answers why the leap happened to you when the base rate says it mostly does
 
 **He showed no sign of recognising the transfer.** The only acknowledgement in that exchange was yours.
 
+**Added 13 Oct 2026** (detail in `FOLLOWING_AND_NOTICING_mention_notice_regulator.md`):
+- **He taught the principle twice, not once.**
+  - At 13:03–15:53 he showed how to cash a label out into facts ("erratic presence — what do you mean
+    by that — she was sometimes there, sometimes not"). He said uncontradicted evidence is likely to
+    be accepted.
+  - At 28:45–29:14 he gave the existence/characterisation version.
+  - The 9A applies the first; the notice to admit applies the second.
+- **The Regulator noticed the structure.** Its cover letter of 8 Sep says admissions of documents are
+  "limited to existence and wording", and reserves "any characterisation, conclusion, inference or
+  submission". It gives no sign of recognising the source.
+
 **Why that is the expected result:**
 - A transfer is a relation between two things, and an observer sees it only by holding both ends at once.
 - Noticing is the bottleneck for observers just as it is for solvers (Gick & Holyoak 1980).

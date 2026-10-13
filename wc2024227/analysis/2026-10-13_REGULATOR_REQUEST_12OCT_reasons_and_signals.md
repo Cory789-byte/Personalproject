@@ -47,6 +47,11 @@
 3. **Its own review decision.** Facts 261–262 are admitted. RD 69983 states "you sustained a
    personal injury of a psychological nature" and "your injury arose out of employment, to the extent
    that it arose out of factors 2, 3 and 4, where employment was a significant contributing factor".
+   - ⚠ **Corrected 13 Oct.** The admission covers only the decision's existence and wording. The
+     Regulator's cover letter of 8 Sep 2026 says admissions of documents are "limited to existence and
+     wording". They are not an admission of the truth of "any finding recorded in Review Decision
+     69983", and the appeal is de novo.
+   - The point still carries weight only together with reason 4: no medical evidence was served.
 4. **No medical or expert evidence** was served by 30 Sep.
 5. **Its own witnesses' words.**
    - The seven-hour break was "the result of human error" (outlines, line 46).
@@ -100,6 +105,9 @@
       now confirmed it.
     - The one other fact not admitted is 154, that the Respondent's list of documents does not list
       the Communication Book.
+    - **Checked 13 Oct.** The disclosed extract matches all four facts exactly, and all 53 entries in
+      the Annexure capture. All nine documents match the Annexure A copies
+      (`documents/regulator-2026-10-12/DISCLOSURE_12OCT2026_VERIFICATION.md`).
 15. **Counsel.**
     - No dates will be fixed without Counsel.
     - Whether to maintain para 27 and the reasonableness case turns on prospects, which is Counsel's

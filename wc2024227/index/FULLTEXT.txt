@@ -9607,6 +9607,52 @@ Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54 (Dwyer IC, 21 Feb 2025; 59 pp) f
 - Second conference purpose: "review, refine or narrow down the issues"; "whether any elements of s 32 of the Act can be agreed"; Member "will not be the Member who hears the appeal"; no advice on how to run the case.
 - ⛔ Correction (chat 2 Oct): do not describe the conference as a settlement/resolution forum. Aim = narrow the s 32 elements on the record and surface "new information" (Stressor 1 sequence unanswered by outlines; para 27 identifies no management action; RD69983 roster finding; DAF [2024] QIRC 53 [42] everyday duties) so the Regulator reviews its position after the conference.
 
+## 2026-10-08 — 30:12.98 speaker confirmed as Mr Shepherd in every file
+
+At Cory's instruction, *"I actually understand what you're getting at"* (30:12.98) is recorded as
+**MR SHEPHERD** throughout: the canonical transcript and its PDF (regenerated via
+`lodgement/_md2html.py` + headless Chromium, 26pp), `MENTION_7AUG2026_segments.jsonl`,
+`MENTION_7AUG2026_TRANSCRIPT_with_fillers.txt`, `cognitive_speech/mention_segs.json`, the analyses
+and skill references that quote it, and `index/FULLTEXT.txt` (rebuilt). Basis: participant evidence
+(A1), independently corroborated by ECAPA diarisation. Figures recomputed with the line as his and
+labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 s), Mr Shepherd 13.1%
+(214 segs, 450 s), Ms Matheson 0.7% (9 segs, 25 s); FOUR_STAGES stage 2 = 9 segments, +1.72 dB
+(peak +9.0 unchanged). Self-analysis outputs in `cognitive_speech/` re-run; small shifts only.
+
+## 2026-10-13 — Regulator agrees to a second s 552A conference; nine documents confirmed; Commission instructs on dates
+- **Mon 12 Oct, 8:30 am, Matheson to Cory.** Disclosed Tabs 1, 5, 17, 18, 19, 21, 22, 23 and 31 from MSH: "The regulator confirms the veracity of the attached documents." The Annexure A count is now **38 of 39**. Tab 24 is not addressed (its facts, 178–179, were admitted). **Tab 31** (Emergency Code Register, 16–20 March 2024) is the document behind the only Tab-based facts not admitted (228–231).
+- **Mon 12 Oct, 9:21 am, Matheson to the Registry, cc Cory.**
+  - She agrees to a second s 552A conference.
+  - Points 2–7 are "better placed to be discussed at the conference in lieu of ordered in directions, in the first instance".
+  - Counsel is overseas and not contactable until 22 Oct.
+  - She undertakes to agree a joint range of dates with Cory before writing to the Registry.
+- **Tue 13 Oct, 12:26 pm, Registry for Dwyer IC.** "The Regulator is instructed to obtain their Counsel's availability as soon as possible following 22 October 2026 and advise the Appellant. A section 552A conference will then be scheduled…" No orders were made on points 2–7, and leave (direction 3) is not mentioned.
+- **Records** (verbatim bodies, times in AEST): `documents/regulator-2026-10-12/`.
+- **Analysis:** `analysis/2026-10-13_REGULATOR_REQUEST_12OCT_reasons_and_signals.md`. It gives 18 reasons and 7 signals, what "negotiated" means here (no commercial settlement at the conference; issues narrowed, then the Regulator reviews its position), and what the request does not show.
+- **The deferral fits the 1 Oct (evening) decision.** Leave will be dealt with at the conference, where the corrected proposed 9A (change 97) is handed up before leave is decided.
+- **Next.**
+  - Nothing to send now.
+  - Have availability ready for late Oct and Nov.
+  - Watch for an application for leave to serve an expert report (a sign of a contest) and for para 27 at the opening.
+- Attachments to the 8:30 email could not be downloaded through the Gmail connector. Save them from the Hotmail copy into `documents/regulator-2026-10-12/` when convenient.
+
+## 2026-10-13 (later): the nine disclosed documents checked; who followed whom at the mention
+- **Attachments to the 12 Oct 8:30 email** (provided by Cory) are filed in `documents/regulator-2026-10-12/disclosure_12OCT2026/`; Outlook prints of the three emails are in `email_prints/`.
+- **All nine match the Annexure A copies.**
+  - Tabs 22–23 are byte-identical.
+  - Tabs 1 and 5 have identical text and are the same source PDFs.
+  - Tab 21's body is identical (it is the Injury Management mailbox copy).
+  - Tabs 17–19 match field by field (image-only prints).
+  - Tab 31 is an .xlsx extract of the MARCH 2024 sheet. It matches all 53 entries in the Annexure capture and facts 228–231 exactly.
+  - Detail: `documents/regulator-2026-10-12/DISCLOSURE_12OCT2026_VERIFICATION.md`.
+- **Metadata, chronology only.** The files were prepared at MSH on 24–28 Sep 2026 (author "Estelle Bain") and disclosed on 12 Oct. When MSH sent them to the Regulator is not shown.
+- **Correction to the 13 Oct reasons file.** Facts 261–262 admit only the wording of RD 69983. The 8 Sep cover letter reserves the truth of its findings ("limited to existence and wording"; de novo).
+- **The 8 Sep cover letter shows the Regulator read the notice on the existence/characterisation line.** Their outlines then argued characterisation only ("better characterised as a rostering practice issue").
+- **Self-analysis** (not case material): `cognitive_speech/FOLLOWING_AND_NOTICING_mention_notice_regulator.md`.
+  - Matheson answered only when the Commissioner put a question to her: 5 turns, 3 of them hedged.
+  - The Commissioner restated Cory's case 11 times, and 8 of the 10 Cory answered were confirmed.
+  - His stated non-understanding was confined to written labels ("filters", "unassessed", "disposition of items"). None of these appear in the corrected 9A.
+
 >>> lodgement/PRE-LODGEMENT-CHECKLIST.md :: text
 # Pre-lodgement checklist — WC/2024/227 (Form 4 + Form 20)
 
@@ -291776,6 +291822,202 @@ The file was out of his hands for now, which, for the first time in two years, w
 
 *Reminder: everything in this novel beyond the dated documents and admitted facts is invented. It is a way of thinking about the week, not a record of it. Don't rely on any scene, thought or line of dialogue as evidence, and don't repeat any of it to the Regulator, the Registry or the Commission.*
 
+>>> analysis/2026-10-13_REGULATOR_REQUEST_12OCT_reasons_and_signals.md :: text
+# The Regulator's request of 12 October 2026: 18 reasons and 7 signals (13 Oct 2026)
+
+> Internal analysis. Not for filing or correspondence. References to the 7 August mention are
+> internal only (there is no certified transcript). The Regulator has not stated its reasons;
+> each reason below is read from a document, and the source is given.
+
+**Sources read at source on 13 Oct 2026** (records in `documents/regulator-2026-10-12/`):
+- **Matheson to the Appellant, Mon 12 Oct, 8:30 am:** disclosure of nine documents. "The regulator
+  confirms the veracity of the attached documents."
+- **Matheson to the Registry, cc the Appellant, Mon 12 Oct, 9:21 am:**
+  - She agrees to a second s 552A conference.
+  - Points 2 to 7 "would be better placed to be discussed at the conference in lieu of ordered in
+    directions, in the first instance".
+  - Counsel is overseas and not contactable until 22 October.
+  - She undertakes to agree a joint range of dates with the Appellant.
+- **Registry for Dwyer IC, Tue 13 Oct, 12:26 pm:**
+  - "The Regulator is instructed to obtain their Counsel's availability as soon as possible
+    following 22 October 2026 and advise the Appellant."
+  - "A section 552A conference will then be scheduled, following confirmation of the parties'
+    joint range of availability."
+- **Cross-checked against:**
+  - the 1 Oct 2026 election and letter (`drafts/out/FILING_1OCT2026/FOR_SUBMISSION/`);
+  - the Form 24 response, fact by fact (`documents/regulator-response-2026-09-08/`);
+  - the Respondent's outlines (`documents/regulator-2026-09-24/`, lines 46, 170 and 215);
+  - guide Part 5.1 (working-notes, 2 Oct);
+  - the guide on costs, p 37 (`analysis/2026-09-25_RULES_AND_GUIDE_VERIFICATION_REGISTER.md`).
+
+## What the request does
+
+**It accepts the Appellant's structure and removes one thing: compulsion.**
+- **What it adopts.** Direction 1 of 1 Oct already proposed a second conference "at which items 2–6
+  may be dealt with". The Regulator agreed to that conference and that agenda (points 2–7).
+- **What it declines.** Only the ordering of points 2–7, and only "in the first instance".
+- **What it leaves alone.** Nothing in the 1 Oct letter is contested.
+
+## The 18 reasons
+
+### From the 1 October letter (8)
+
+1. **Timing.**
+   - The election was made on 1 Oct, the day after the Respondent's time for witnesses, outlines and
+     experts expired (30 Sep).
+   - Its case is closed as filed. Gaps cannot be repaired without leave.
+2. **The admitted record.**
+   - 298 of 303 facts are admitted, and none denied.
+   - The issues left are management action, reasonableness and causation.
+3. **Its own review decision.** Facts 261–262 are admitted. RD 69983 states "you sustained a
+   personal injury of a psychological nature" and "your injury arose out of employment, to the extent
+   that it arose out of factors 2, 3 and 4, where employment was a significant contributing factor".
+   - ⚠ **Corrected 13 Oct.** The admission covers only the decision's existence and wording. The
+     Regulator's cover letter of 8 Sep 2026 says admissions of documents are "limited to existence and
+     wording". They are not an admission of the truth of "any finding recorded in Review Decision
+     69983", and the appeal is de novo.
+   - The point still carries weight only together with reason 4: no medical evidence was served.
+4. **No medical or expert evidence** was served by 30 Sep.
+5. **Its own witnesses' words.**
+   - The seven-hour break was "the result of human error" (outlines, line 46).
+   - Payroll's technical advice was that it was "better characterised as a rostering practice issue
+     for the line manager" (line 170).
+   - The second SPL decline "appears to have been made in error" (line 215).
+   - The outlines give no account of 1(b), 1(f), 1(h) or 1(k).
+6. **Para 27.**
+   - Fact 303 is admitted: para 27 does not identify the management action.
+   - Direction 2 would have required the Respondent to say at the opening whether it maintains para
+     27, and to particularise it.
+7. **Direction 5: the main reason for "in lieu of ordered".**
+   - It requires a written position on 23 causal particulars: 1(b), 1(d), 1(f)–(h), 1(k), 1(l);
+     2(a)–(i), 2(l), 2(m); 3(b)–(f).
+   - For each one, the Respondent would state whether it was management action and the facts relied
+     on for reasonableness.
+   - Given reasons 5 and 6, any written answer either gives particulars up or contradicts the
+     Respondent's own witnesses.
+   - A discussion at a conference commits it to nothing in writing.
+8. **Direction 6's clock.**
+   - An order would start 14 days to amend the SOFC, witnesses and outlines while Counsel is
+     overseas.
+   - "In the first instance" avoids a deadline that could not be met.
+
+### From the proposed Second Amended Form 9A (4)
+
+9. **It accepts the onus,** so there is nothing to attack on burden.
+10. **It creates no prejudice.**
+    - There is no new stressor, the descriptions of conduct are withdrawn, and the witness list and
+      outlines of 9 Sep stand.
+    - Prejudice is the usual ground for opposing an amendment. There is none, and leave was not
+      opposed.
+11. **Every particular rests on an admitted fact.**
+    - Each particular is a dated event tied to a fact admitted on 8 Sep, cited in square brackets.
+    - Contesting a particular means contesting the Respondent's own admission. What remains is
+      whether the conduct was management action, and whether it was reasonable.
+12. **Each stressor stands on its own facts.** The case cannot be disposed of by attacking one
+    stressor; each must be answered.
+
+### From the emails of 12–13 October (3)
+
+13. **Authenticity was cleared before the reply.**
+    - At 8:30 am, 50 minutes before the Registry email, the Regulator disclosed nine of the ten
+      outstanding documents and confirmed their veracity: Tabs 1, 5, 17, 18, 19, 21, 22, 23 and 31.
+    - That makes 38 of 39. Direction 4 was done in substance before the Regulator replied.
+    - Only Tab 24, the union delegate email, is open. Its facts (178–179) were admitted on 8 Sep.
+14. **Tab 31.**
+    - It is the 2024 Emergency Code Register for 16–20 March 2024, the period of the seven-hour
+      break.
+    - It is the only document behind facts that were not admitted (228–231), and the Regulator has
+      now confirmed it.
+    - The one other fact not admitted is 154, that the Respondent's list of documents does not list
+      the Communication Book.
+    - **Checked 13 Oct.** The disclosed extract matches all four facts exactly, and all 53 entries in
+      the Annexure capture. All nine documents match the Annexure A copies
+      (`documents/regulator-2026-10-12/DISCLOSURE_12OCT2026_VERIFICATION.md`).
+15. **Counsel.**
+    - No dates will be fixed without Counsel.
+    - Whether to maintain para 27 and the reasonableness case turns on prospects, which is Counsel's
+      advice to give. Counsel is not contactable until 22 Oct.
+
+### From the forum and the Commission (3)
+
+16. **The conference is the vehicle for a change of position** (guide Part 5.1).
+    - Its stated purpose is to "review, refine or narrow down the issues" and "whether any elements of
+      s 32 of the Act can be agreed".
+    - The guide continues: "Following the conference, the Respondent may decide to review its position
+      or consider conceding the appeal where new information is presented."
+    - The proposed 9A and the admitted record are that new information.
+17. **The case manager's posture.**
+    - Dwyer IC did not order points 2–7. He instructed the Regulator to obtain Counsel's dates "as
+      soon as possible following 22 October 2026", and said a conference "will then be scheduled".
+    - At the mention he urged resolution without his intervention and referred to the Regulator's
+      responsibilities as a model litigant (internal only).
+18. **Costs (the weakest reason).**
+    - Costs "generally 'follow the event'" and are "limited to the 'costs of the hearing'" (guide
+      p 37; s 558(3)). Calderbank #2 (served 1 Jul, rejected 16 Jul) is on the file.
+    - A self-represented party recovers out-of-pocket costs, not time.
+    - The larger cost to the Respondent is its own: Counsel and four MSH witnesses through a
+      contested hearing.
+
+## Seven signals of concession or negotiated narrowing
+
+1. **The Appellant's structure was adopted.** Only compulsion was removed.
+2. **No answer on the merits.**
+   - Nothing says para 27 is maintained, and leave is not opposed.
+   - There is no challenge to 298/303, the outline quotations or the absence of an expert.
+3. **The work came first.** Authenticity was cleared before the reply, including the document behind
+   the last contested facts.
+4. **No requests of its own.** There is no application for leave to serve a late expert report, no
+   request for further particulars, no strike-out and no extension.
+5. **Counsel is to attend.** The conference is being treated as a decision point.
+6. **Direct dealing.** There is an undertaking to agree dates jointly with the Appellant.
+7. **The path the guide links to conceding.** The guide ties a second conference to the Respondent
+   reviewing its position or conceding on new information.
+
+## What "negotiated" means here
+
+- **No commercial settlement at the conference.** The guide says "No commercial settlement is possible
+  at the conference" (Part 5.1).
+- **What is negotiated is the issues:**
+  - which s 32 elements are agreed;
+  - whether para 27 survives;
+  - which particulars are accepted as not management action, or not reasonable.
+- **When a concession would come.** After the conference, as the Respondent reviewing its position.
+- **What it would look like.**
+  - Consent orders setting aside the review decision and substituting a decision (s 558(1)(c)).
+  - Under s 558(2) the substituted decision is taken to be the insurer's decision. That is acceptance
+    of the claim.
+
+## What it does not show
+
+- **It is not a concession.** Nothing on management action or reasonableness has moved in writing.
+- **"In lieu of ordered" keeps every option open.** It suits a party that will defend as well as one
+  that will concede.
+- **It costs time.** The conference will not be before late October; November is more likely.
+- **Two things are open.**
+  - Tab 24 is unaddressed.
+  - Leave for the 9A (direction 3) is undecided; the 13 Oct email does not mention it.
+
+**The deferral fits the 1 Oct (evening) decision.** Leave will be dealt with at the conference, which
+is where the corrected proposed 9A (change 97) is to be handed to the Commission and the Respondent
+together, before leave is decided.
+
+## Tells to watch
+
+- **Toward concession:**
+  - a prompt approach after 22 Oct with dates;
+  - para 27 not maintained at the opening;
+  - s 32 elements agreed.
+- **Toward a contest:**
+  - an application for leave to serve an expert report;
+  - para 27 particularised;
+  - leave opposed.
+
+## Next
+
+- **Nothing to send now.** The Commission has instructed the Regulator to come to the Appellant with
+  dates.
+- **Have availability ready** for late October and November.
+
 >>> analysis/MONTECARLO_RESULTS.txt :: text
 ==============================================================================================
 STRATEGY        Credibility   Back@work  Pay restored   Settle+   ADVERSE
@@ -380579,6 +380821,1022 @@ this administratively.
  0417 400 227 | coryshepherd1@hotmail.com
 
 [Message has attachments ? export with --attachments to save files]
+
+>>> documents/regulator-2026-10-12/2026-10-12_0830_Matheson_disclosure_9_documents_veracity_confirmed.txt :: text
+RECORD OF EMAIL (verbatim body). Retrieved 13 Oct 2026 from the Gmail case-file copy
+(auto-forwarded from coryshepherd1@hotmail.com). The forward header shows UTC
+("Sunday, 11 October 2026 22:30:43"); local time is Monday 12 October 2026, 8:30 am AEST.
+The attachments (provided by Cory on 13 Oct 2026) are filed in disclosure_12OCT2026/ and checked
+in DISCLOSURE_12OCT2026_VERIFICATION.md. All nine match the Annexure A copies.
+The source is the email itself. Quote only from the email.
+
+From: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+Sent: Monday, 12 October 2026 8:30 AM (AEST)
+To: Cory Shepherd <coryshepherd1@hotmail.com>
+Subject: RE: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator - Documents in dispute - Disclosure
+
+Dear Mr Shepherd,
+
+I refer to the above matter and the Regulator's below email of 24 September 2026, noting a request for documents had been sent to MSH.
+
+Please see attached with disclosure copies of the following documents:
+
+  * 1 – Role description, AO3 Switchboard Services, logan hospital
+  * 5 – Email of Chloe Taylor to Cory Shepherd – subject: Approved – Permanent Full Time FTE – 27/09/2023 1:52pm
+  * 17 to 19 – Movements forms (x3)
+  * 21 – Email from yourself to Cory Shepherd – subject: Cory Shepherd ECC further information – 07/07/2026
+  * 22 – Consultation Paper – Proposed rosters for switchboard services, Logan Hospital – signed by Scott Hughes 12/11/2024
+  * 23 – Consultation outcome – Proposed rosters for switchboard services, Logan Hospital – signed by Scott Hughes 12/12/2024
+  * 31 – Spreadsheet '2024 Emergency Code Register' – March 2024 sheet – entries 16 to 20 March 2024
+
+The regulator confirms the veracity of the attached documents.
+
+Kind regards,
+Renee Matheson
+Senior Appeals Officer
+Workers' Compensation Regulatory Services
+Office of Industrial Relations
+
+[Quoted below it: Matheson's email of Thursday 24 September 2026, 9:51 AM, confirming
+Tabs 6, 20, 30 and 30A "upon further review of the appeal file" and stating that the
+documents above had been requested from MSH.]
+
+ATTACHMENTS (filenames as received):
+  2024 Emergency Code Register_16 to 20 March 2024.xlsx
+  Consultation outcome - Proposed Rosters for LH Switchboard Services - December 2024.pdf
+  Consultation Paper - Proposed Roster for Switchboard Services, Logan Hospital.pdf
+  20260707_Email from LF to CS_ECC further information.pdf
+  Employee movement 25.05.2026 to 28.06.2026 PRN 23922112.pdf
+  Employee movement 16.03.2026 to 26.04.2026 PRN 23420475.pdf
+  Employee movement 01.03.2026 to 15.03.2026 PRN 22902210.pdf
+  20230927_Email from CT to CS_Full-time employment.pdf
+  AO3 Switchboard Role Description.pdf
+
+Received in Hotmail at 08:33 (Outlook print, email_prints/Outlook_Document297.pdf).
+
+EFFECT ON THE ANNEXURE A SCHEDULE: 29 of 39 admitted or confirmed at 1 Oct 2026, plus these
+nine (Tabs 1, 5, 17, 18, 19, 21, 22, 23, 31), makes 38 of 39. Tab 24 is not addressed (its
+facts, 178-179, were admitted on 8 Sep).
+
+>>> documents/regulator-2026-10-12/2026-10-12_0921_Matheson_to_Registry_agrees_second_552A.txt :: text
+RECORD OF EMAIL (verbatim body). Retrieved 13 Oct 2026 from the Gmail case-file copy
+(auto-forwarded from coryshepherd1@hotmail.com). The forward header shows UTC
+("Sunday, 11 October 2026 23:21:08"); the Registry's quoted copy gives the local time:
+"Monday, 12 October 2026 9:21 AM". The source is the email itself.
+
+From: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+Sent: Monday, 12 October 2026 9:21 AM
+To: QIRC.Registry <QIRC.Registry@QIRC.qld.gov.au>
+Cc: Cory Shepherd <coryshepherd1@hotmail.com>
+Subject: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Sir/Madam,
+
+I refer to the above matter and the correspondent of the Appellant to the registry dated 1 October 2026.
+
+The Regulator agrees with the Appellant's request for a second s552A conference to be set down in relation to this matter.
+
+The Regulator believes that the additional points 2 to 7 outlined in the Appellant's requested directions dated 1 October 2026, would be better placed to be discussed at the conference in lieu of ordered in directions, in the first instance.
+
+Unfortunately the Regulator's Counsel is currently on leave overseas and not contactable until 22 October 2026, when the Regulator could then confirm its availability for this conference.
+
+The Regulator respectfully requests the Commission's consent for its undertaking to speak with the Appellant once it is in receipt of Counsel's availability and jointly agree on a range of dates available for this conference, before communicating with the registry.
+
+The Regulator appreciates the Commissions consideration of this request.
+
+Kind regards,
+Renee Matheson
+Senior Appeals Officer
+Workers' Compensation Regulatory Services
+Office of Industrial Relations
+
+>>> documents/regulator-2026-10-12/2026-10-13_1226_Registry_for_Dwyer_IC_552A_to_be_scheduled.txt :: text
+RECORD OF EMAIL (verbatim body). Retrieved 13 Oct 2026 from the Gmail case-file copy
+(auto-forwarded from coryshepherd1@hotmail.com). The forward header shows UTC
+("Tuesday, 13 October 2026 02:26:24"); local time is Tuesday 13 October 2026, 12:26 pm AEST.
+The source is the email itself.
+
+From: QIRC.Registry <QIRC.Registry@QIRC.qld.gov.au>
+Sent: Tuesday, 13 October 2026 12:26 PM (AEST)
+To: Renee Matheson <Renee.Matheson@oir.qld.gov.au>; coryshepherd1@hotmail.com
+Subject: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Parties,
+Industrial Commissioner Dwyer notes the Respondent's recent email, dated 12 October 2026.
+The Regulator is instructed to obtain their Counsel's availability as soon as possible following 22 October 2026 and advise the Appellant.
+A section 552A conference will then be scheduled, following confirmation of the parties' joint range of availability.
+This email is sent on behalf of the Chambers of Industrial Commissioner Dwyer.
+
+Kind Regards
+
+Registry Officer (Client Services)
+Industrial Registry
+
+[Quoted below it: Matheson's email to the Registry of Monday 12 October 2026, 9:21 AM.]
+
+>>> documents/regulator-2026-10-12/DISCLOSURE_12OCT2026_VERIFICATION.md :: text
+# Disclosure of 12 October 2026: the nine documents checked against Annexure A (13 Oct 2026)
+
+**Source:** Matheson's email of Mon 12 Oct 2026, 8:30 am, with the attachments as provided by Cory
+on 13 Oct. "The regulator confirms the veracity of the attached documents."
+- **Files:** `disclosure_12OCT2026/` (hashes in `SHA256SUMS.txt`).
+- **Email prints:** `email_prints/` (Outlook prints of the three emails). They match the Gmail
+  records word for word.
+
+**Method**
+- Each disclosed file was compared with the Annexure A source file listed in
+  `drafts/build_form24_annexureA.py`, by:
+  - byte hash;
+  - text diff (normalised for ligatures and line wrapping);
+  - word counts;
+  - for image-only files, rendered pages read field by field.
+- Tab 31 (`.xlsx`) was parsed cell by cell and checked against facts 228–231 and against the Annexure
+  screen capture.
+
+## Result: every document matches
+
+| Tab | Document | Disclosed file | Against Annexure A |
+|---|---|---|---|
+| 1 | AO3 Switchboard role description | PDF, 4 pp | **Text identical.** Same source PDF (same creation time, 5 May 2026 04:29:55 UTC); re-saved 24 Sep 2026, 11:15 am AEST |
+| 5 | Taylor to Shepherd, "Approved – Permanent Full Time FTE", 27 Sep 2023 1:52 pm | PDF, 2 pp | **Text identical.** Same source PDF (created 5 Sep 2024 23:34:33 UTC); re-saved 28 Sep 2026, 10:59 am AEST |
+| 17 | Movement form, 1–15 Mar 2026, 56 hrs | Image-only print, 4 pp | **Every field matches:** period, hours, comment, Donovan-Taylor 19.02.2026, Shepherd 26.02.2026, Ianna 27.02.2026, Hughes 27.02.2026 |
+| 18 | Movement form, 16 Mar–26 Apr 2026, 56 hrs | Image-only print, 4 pp | **Every field matches:** comment "1FTE to 0.7fte … with possible extension after review"; Donovan-Taylor 09.04.2026, Shepherd 13.04.2026, Ianna 15.04.2026, Hughes 17.04.2026 |
+| 19 | Movement form, 25 May–28 Jun 2026, 40 hrs | Image-only print, 4 pp | **Every field matches:** comment "1.0FTE - 0.5TE 40hrs … until further review and documentation"; Donovan-Taylor 27.05.2026, Shepherd 05.06.2026, Spink 08.06.2026, Hughes 09.06.2026 |
+| 21 | Forrest to Shepherd, "ECC further information", 7 Jul 2026 10:54 am | PDF, 3 pp | **Body identical, word for word.** It is the Injury Management mailbox's copy, so the header differs and carries that mailbox's tags ("Categories: 1. Michelle (Team1)"; "Notes & Actions: FYI - saved"). The disclaimer is absent |
+| 22 | Consultation Paper, proposed rosters (signed Hughes 12/11/2024) | Scanned PDF, 8 pp | **Byte-identical** (same file: Konica Minolta scan, 12 Nov 2024) |
+| 23 | Consultation outcome (signed Hughes 12/12/2024) | Scanned PDF, 7 pp | **Byte-identical** (same file: Ricoh scan, 12 Dec 2024) |
+| 31 | 2024 Emergency Code Register, MARCH 2024 sheet, 16–20 Mar 2024 | `.xlsx` extract, one sheet, 60 entries | **All 53 entries visible in the Annexure capture (rows 184–236) match exactly,** in the same order: time, code, location, pager and the note "CALLED VIA SWITRCHBOARD". The extract adds 3 earlier entries on 16 Mar and 4 later entries on 20 Mar |
+
+## Tab 31 against facts 228–231 (the facts not admitted on 8 Sep)
+
+| Fact | Asserts | Disclosed extract |
+|---|---|---|
+| 228 | 17 Mar 2024: eight entries, incl. MET CALL WARD 2H BED 7 at 19:16, CODE BLUE WARD 2H BED 7 at 19:20, MET CALL WARD 2Q BED 5 at 21:16 | **Eight entries** (03:57, 05:19, 07:48, 13:48, 14:13, 19:16, 19:20, 21:16). All three quoted entries are present |
+| 229 | 18 Mar 2024: entries at 8:48, 9:20, 11:31, 11:32, 11:35 and 13:09 as quoted | **All six present, wording exact** |
+| 230 | Six 18 Mar entries bear times between 6:00 and 14:00 | **Six** (08:48, 09:20, 11:31, 11:32, 11:35, 13:09). The next is 14:38 |
+| 231 | 19 Mar 2024 at 11:34, MET CALL WARD 2I BED 20, "CALLED VIA SWITRCHBOARD" [sic] | **Present, exact,** including the misspelling |
+
+**Effect**
+- The only facts tied to a document that were not admitted (228–231) are now established by a
+  document the Regulator has disclosed and vouched for.
+- Of the five facts not admitted, only fact 154 is left. It says the Respondent's list of documents
+  does not list the Communication Book.
+- The count of Annexure A documents admitted or confirmed is **38 of 39**. Tab 24 is not addressed;
+  its facts, 178–179, were admitted.
+
+## File metadata (chronology only)
+
+| When (AEST) | What the files record |
+|---|---|
+| 31 Dec 2021 | Code Register workbook created; creator "Logan Switch" |
+| 24 Sep 2026, 9:28–9:39 am | Tabs 17, 18, 19 and 21 printed to PDF; author "Estelle Bain". The same name appears as the myHR session user on MSH's June 2026 production |
+| 24 Sep 2026, 9:51 am | Matheson to Cory: the documents "requested … to be disclosed from MSH" |
+| 24 Sep 2026, 11:15 am | Tab 1 PDF re-saved |
+| 28 Sep 2026, 10:59 am | Tab 5 PDF re-saved |
+| 28 Sep 2026, 11:04 am | Code Register extract saved; last modified by "Estelle Bain" |
+| 30 Sep 2026 | Respondent's time for witnesses, outlines and experts expires |
+| 1 Oct 2026 | Election and directions; direction 4 covers these ten documents |
+| 12 Oct 2026, 8:30 am | Nine documents disclosed; veracity confirmed |
+
+- **What the metadata shows:** the disclosed files were prepared at MSH between 24 and 28 Sep 2026.
+- **What it does not show:** when MSH sent them to the Regulator.
+- **Further notes:**
+  - The Code Register file is an extract, not the native workbook. Its sheet records a used range to
+    row 540 (`A1:Y540`), and the Annexure capture shows the native workbook with month tabs from
+    MARCH 2024 onward.
+  - Tabs 17–19 are image-only, so `pdftotext` returns nothing on them. Render with `pdftoppm` to
+    read them.
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/SHA256SUMS.txt :: text
+f13549951fb1433922b2d55e67372f666c783c60efc9206d7cb231d253a9b7d3  Tab01_AO3_Switchboard_Role_Description.pdf
+2b466776a2bbdcd36504c69f007654e65a2a536b451a5399ef01a68305b7c4e4  Tab05_2023-09-27_Email_Taylor_to_Shepherd_Full-time_employment.pdf
+2ffea062e2488719ef01d827c62e91d95c0d2b788409013d23608c377719ac46  Tab17_Employee_movement_01.03.2026-15.03.2026_PRN_22902210.pdf
+9caa47652d36fcf1b0a37912d15bf0f4cd8039301042f7ea7e99cfaef0840ffd  Tab18_Employee_movement_16.03.2026-26.04.2026_PRN_23420475.pdf
+ae176ffe463b936abb34aeae533568e91ad8d9f521e0e5c79e39b1bf51a992c7  Tab19_Employee_movement_25.05.2026-28.06.2026_PRN_23922112.pdf
+f6ab859bfb86af66bba64f0f00662fd3f3c50cdb26a32571f8b39bf17423cd28  Tab21_2026-07-07_Email_Forrest_to_Shepherd_ECC_further_information.pdf
+2639112350c97a5e929af7c074bd09e07a1e5eed1bc50328b4cec8752725c3dc  Tab22_Consultation_Paper_Proposed_Roster_Switchboard_Logan.pdf
+391d1a472c5da5fc8fa80a01b46da0e2a1b641b7900080e4a5d6ac88ac540850  Tab23_Consultation_outcome_Proposed_Rosters_LH_Switchboard_Dec2024.pdf
+73050613602d4dd6ca64732559369d589c580818bf186caf1a82f677c51038f7  Tab31_2024_Emergency_Code_Register_16-20_March_2024.xlsx
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab01_AO3_Switchboard_Role_Description.pdf :: page 1
+Administration Officer, Switchboard Services (RD)
+     Job Ad Reference:
+     Status:                       Administration Officer, Switchboard Services
+     Unit/Department:              Switchboard, Corporate Services
+     Location:                     Logan Hospital, Metro South Hospital and Health Service
+     Contact:                      Chloe Taylor                            Salary range:
+                                   (07) 2891 9190
+     Classification:               A03                                     Closing date:
+     Online applications:
+    Email applications:                  Chloe.taylor3@health.qld.gov.au
+**Applications from third parties will not be accepted**
+
+Purpose of the role
+To provide a highly effective and efficient communication service to the public and staff of the Logan Hospital within
+Metro South Hospital and Health Service.
+The occupant of this position is required to work continuous shift work over the full 24-hour period, 7 days a week
+
+
+Your key responsibilities
+ ▪    This position reports to the Switchboard Manager, Corporate Services, Logan Hospital.
+ ▪    Attend courteously to all telephone enquiries and clients’ requests, displaying tact, diplomacy and
+      interpersonal skills of a high standard when dealing with the public and members of staff. Maintain call
+      queues to minimum at all times.
+ ▪    Collate information and maintain Omnivista database and SharePoint to ensure information held within
+      Switchboard Services is accurate and appropriate.
+ ▪    Provide a service to support hospital staff in the allocation, coordination, and fault repair of all pager
+      units for the hospital. This includes allocating pagers to hospital staff and submitting paging units for
+      repair, maintaining database and registers with accurate and current information.
+ ▪    Participate in the Emergency Response process by receiving emergency response notifications and
+      distributing them to the appropriate response groups, dependent on the category of emergency, as per
+      emergency code procedures, strictly adhering to protocols and timeframes.
+ ▪    Ability to communicate at all levels and effectively establish and foster networks throughout the hospital
+      to maintain accurate and current records for effective switchboard operations.
+ ▪    Maintain discretion and exercise judgement where necessary to resolve problems within the scope of
+      your role; in situations where precedence have not been set and procedures not defined.
+ ▪    Interact in a sensitive, timely, effective, and appropriate manner with members of the general public and
+      service providers, maintaining strict confidentiality at all times.
+ ▪    The ability to multitask and operate under pressure, particularly where high volume call traffic is
+      concerned.
+ ▪    Contribute to a cohesive team environment by sharing information, supporting and assisting colleagues
+      in a proactive manner.
+ ▪    Ability to work effectively as an individual with limited supervision to meet deadlines and establish work
+      priorities, and work as a member of a multi-disciplinary team in a changing environment.
+ ▪    Ensure patients and other staff are treated fairly and with mutual respect and understanding, regardless
+      of cultural, religious, ethnic and linguistic backgrounds, gender, identity, ages or abilities.
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab01_AO3_Switchboard_Role_Description.pdf :: page 2
+ ▪   Follow defined service quality standards, occupational health and safety policies and procedures
+     relating to the work being undertaken to ensure high quality, safe services and workplaces.
+
+
+Mandatory qualifications, professional registration and other requirements
+ ▪   The position is a continuous shift working role. You must be able to work a roster which covers multiple shifts
+     over a 24/7 period.
+ ▪   Intermediate / advanced computer skills.
+ ▪   Recent experience in the operation of a switchboard is desirable but not essential.
+ ▪   Vaccine Preventable Disease (VPD): It is a condition of employment for this role for the employee to be, and
+     remain, vaccinated against the following vaccine preventable diseases during their employment (Health
+     Employment Directive No. 01/16):
+         o measles, mumps, rubella (MMR)
+         o varicella (chicken pox)
+         o pertussis (whooping cough)
+         o hepatitis B
+ ▪   It is a condition of employment for this role for the employee to be, and remain, vaccinated against COVID-19
+     Health Employment Directive No. 12/21. and Queensland Health Human Resources Policy B70.
+
+Are you the right person for the job?
+ How we do things is as important as what we do, therefore within the context of the responsibilities described
+ under ‘Your key responsibilities,’ the ideal applicant will be someone who can demonstrate the following:
+
+
+ Communicate Effectively                         ▪   Strong communication and negotiation skills to understand
+                                                     customers’ needs. Demonstrate respect, courtesy and fairness
+                                                     when interacting with patients, clients and colleagues.
+ Team Focus                                      ▪   Value diversity of thought and include everyone within the
+                                                     team. Actively support a culture of diversity, trust, support and
+                                                     inclusion.
+ Technical Skills                                ▪   Intermediate / advanced computer skills.
+
+ Change & Quality Focus                          ▪   Be open to new ideas and approaches and be adaptable in
+                                                     the face of change. Support and participate in change
+                                                     initiatives. Follow procedures and processes understanding
+                                                     implications within a health care setting.
+ Work Ethics                                     ▪   Be honest, ethical and professional. Work within boundaries of
+                                                     role.
+
+
+How to apply
+Please provide the following information to the panel to assess your suitability:
+ ▪   A short written response (maximum 1-2 pages, dot points acceptable) on how your experience, abilities,
+     knowledge and personal qualities would enable you to achieve the key responsibilities and meet the skill
+     requirements of the role.
+ ▪   Your current CV or resume, including two referees. You must seek approval prior to nominating a person as a
+     referee.
+ ▪   Late applications cannot be submitted online. For a late application to be considered, please arrange approval
+     and submission via the contact person.
+ ▪   Applications will remain current for 12 months or for the duration of the vacancy. Future vacancies of a
+     temporary, full time and part time nature may also be filled through this recruitment process.
+ ▪   Only those persons eligible to work in Australia may be employed by Queensland Health. Prospective
+     employees are required to provide proof of identity and documentary evidence of their right to work in
+     Australia.
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab01_AO3_Switchboard_Role_Description.pdf :: page 3
+We are Metro South Health
+We are the major public healthcare provider for Brisbane’s south side, Logan, Redlands and the Scenic Rim. We
+operate five major hospitals and a range of community, specialty and state-wide healthcare services. We are
+renowned for teaching and research excellence.
+We are truly dedicated people who care about our community. We come to work to make a difference. We save
+lives, changes lives and make the world a better place. We overcome the many challenges that come our way by
+going above and beyond and achieve the best possible outcomes by working together. We are bold, innovative,
+collaborative, inspiring.
+We are part of and proud of the community we serve. We are better together.
+
+Our values
+Our values of Integrity, Compassion, Accountability, Respect, Engagement and Excellence, shape our
+culture. Our values guide our day-to-day decision making and are fundamental to what we care about as a health
+service, how we behave, how we interact with each other and provide care to the many patients who come through
+our doors every day.
+
+
+
+
+Diversity and inclusion
+We are the most culturally diverse area of Queensland with 28.5% of the community born overseas and 16% from
+non-English speaking countries. Our employees proudly reflect the community in which they work. At Metro South
+Health 20.5% of staff identify as coming from non-English speaking backgrounds.
+Having a workforce that reflects and understands the needs and expectations of our community is important to
+delivering safe, kinder, and more inclusive care.
+We recognise our strength comes from the diversity of our people and so we encourage people of all genders,
+ethnicities, ages, abilities, languages, sexual orientation and family responsibilities to apply.
+We are committed to creating a diverse and inclusive workplace for our people and our community.
+
+
+Flexible working arrangements
+Metro South Health supports and encourages work-life balance for the mutual benefit of Metro South Health and its
+employees. Work-life balance is about a person’s ability to manage their paid work commitments with their career
+goals, personal, community and cultural responsibilities. Through flexible working arrangements such as leave, flex
+time accrual or a reduction in working hours, there is an opportunity to match the individual’s requirements with
+those of the workplace – delivering quality health services.
+
+
+Additional information
+For further information about this opportunity and the benefits and conditions of working at Metro South Health
+please refer to the Information for Applicants document attached with this Smart Jobs advertised vacancy.
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab01_AO3_Switchboard_Role_Description.pdf :: page 4
+Team structure
+
+
+So you have finished your Role Description, what’s
+next? Check out the Recruitment Process Flow for next
+steps, here
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab05_2023-09-27_Email_Taylor_to_Shepherd_Full-time_employment.pdf :: page 1
+From:            Chloe Taylor
+To:              Cory Shepherd
+Subject:         Approved - Permanent Full Time FTE
+Date:            Wednesday, 27 September 2023 1:52:00 PM
+Attachments:     image006.png
+
+
+Hi Cory,
+Just giving you an update on your application for Permanent Fulltime hours, I am very pleased to
+advise you that this has been approved.
+I am currently in the process of completing Roster PP10 and would like to start you on this roster
+as fulltime. You will find in the next coming days an EMR movement form for your approval in
+MyHr.
+Please let me know if have any questions or concerns, and happy to commence Full-time hours
+from the 16th October 2023.
+Kind regards,
+Chloe
+Chloe Taylor
+A/Switchboard Manager | Switchboard Services
+Logan Hospital | Metro South Health
+Level 2, Building 1, Cnr Loganlea and Armstrong Roads QLD 4131
+t. (07) 2891 9190
+e. chloe.taylor3@health.qld.gov.au | metrosouth.health.qld.gov.au
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab05_2023-09-27_Email_Taylor_to_Shepherd_Full-time_employment.pdf :: page 2
+Healthcare Heroes
+
+
+
+
+Metro South Health acknowledges the traditional custodians of whose land and waters we provide health services and
+pays respect to Elders past, present and emerging.
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab21_2026-07-07_Email_Forrest_to_Shepherd_ECC_further_information.pdf :: page 1
+LBH Injury Management
+
+From:                            Lyndelle Forrest
+Sent:                            Tuesday, 7 July 2026 10:54 AM
+To:                              coryshepherd1@hotmail.com
+Cc:                              LBH Injury Management
+Subject:                         Cory Shepherd_ECC further information
+
+Importance:                      High
+
+Categories:                      1. Michelle (Team1)
+Notes & Actions:                 FYI - saved
+
+
+Good morning Cory
+
+I refer to the Employee Capability Checklist (ECC), completed by Dr Day Hong Ma of My Doctor Clinic on 3 July
+2026 and returned to the Injury Management Team at 2:30pm that day. It is further noted that due to a section
+of this document being missing, you were asked to resubmit your ECC for consideration, you sent this on
+Friday at 3:06pm.
+
+While you have been certiﬁed ﬁt to return to work e ective from 3 July 2026, this certiﬁcation is subject to
+reasonable adjustments being made to your duties and hours of work. As the completed ECC was received
+late on Friday, 3 July 2026, the Health Service was unable to review Dr Hong Ma's medical recommendations at
+that time to determine whether the recommended restrictions and adjustments could be reasonably
+accommodated and whether it was safe for you to return to duty.
+
+I can advise that your ECC has now been reviewed and carefully considered. However, before a final decision
+can be made regarding your return to the workplace, further information is required. Specifically, it is noted
+that your treating medical practitioner has advised that there are unresolved workplace matters involving line
+management. At this stage, the Health Service does not have sufficient information to understand the nature
+of these matters or assess whether they present any psychosocial hazards or risks that may affect your
+proposed return to work.
+
+The Health Service remains committed to supporting your safe and sustainable return to work, with your
+health, safety and wellbeing remaining central to that process. Accordingly, further information is required to
+enable the Health Service to assess any identified risks, determine whether reasonable adjustments can be
+supported, and ensure that any return to work is planned and managed in accordance with its obligations
+under work health and safety legislation.
+
+To assist us in expediting consideration of your reasonable adjustments, please provide further clariﬁcation
+and/or reports referenced below, within seven (7) calendar days.
+
+
+ ECC Recommendation                                         Further information required
+ Diagnosis of Major Depressive Disorder with                The Health Service is seeking to better understand
+ anxious distress, a work-related psychological             the work-related psychological injury for which you
+ injury with onset 18 June 2024, with symptoms              are currently receiving treatment from a
+ exacerbated on exposure to identiﬁed workplace             psychologist. It is also noted that Dr Day Hong Ma
+ stressors (complaint handling; being held                  has referenced a report from your treating
+ accountable and blamed for failures of others;             psychiatrist dated 13 February 2025. To date, the
+ unpredictable rostering.                                   Health Service has not been provided with, nor had
+                                                            the opportunity to review, this report.
+
+
+                                                        1
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab21_2026-07-07_Email_Forrest_to_Shepherd_ECC_further_information.pdf :: page 2
+                                                            To enable the Health Service to appropriately
+                                                            consider and address these matters, further
+                                                            information and/or a copy of this report is requested
+                                                            regarding the workplace issues referred to in the
+                                                            ECC and their impact on your capacity for work.
+
+ Complaint handling                                         The Health Service understand that the established
+                                                            process for management of complaints is for all
+ No complaint-handling duties, complaints                   patient concerns to be redirection to the Consumer
+ received at the Switchboard to be logged and               Liaison Services (CLS). There is no expectation for
+ redirected, not actioned or resolved by Mr                 Switchboard operators to manage or deal with these
+ Shepherd.                                                  matters. Where a consumer raises concerns in
+                                                            relation to a Switchboard employee, these concerns
+                                                            are referred to the Manager, Switchboard or in her
+                                                            absence, CLS.
+
+                                                            To understand this concern better and adjustments
+                                                            required, please clarify what features of complaint
+                                                            handling are being referenced and you are expected
+                                                            to resolve within this recommendation.
+ Predictable Rostering practices, minimum 10-               Rosters are generally published with four (4) weeks’
+ hour break between shifts                                  notice, on four-week rotation. Occasionally, in
+                                                            extenuating circumstances these might be delayed.
+                                                            However, all rosters are released with a minimum of
+                                                            two weeks’ notice.
+
+                                                            The Health Service is not aware of breaching this
+                                                            provision and has not received any Workload
+                                                            Concerns to review, can you please clarify the
+                                                            concerns relating to not providing the minimum
+                                                            break between rostered shifts? Noting that
+                                                            rostering currently provides more than 10-hour
+                                                            breaks between shifts, however, acknowledge you
+                                                            also signed an 8 hour agreement on 17 June 2020,
+                                                            which allows you to work with only an 8 hour break,
+                                                            however this is only applied where sta initiated
+                                                            shift swaps have occurred.
+
+                                                            Please clarify the speciﬁc stressors which may
+                                                            exacerbate symptoms.
+ Being held accountable and blamed for failures of          It is unclear what matters you are being held
+ others                                                     accountable and blamed for based on the failures of
+                                                            others or what these concerns relate to. To-date the
+                                                            Health Service is not aware of any concerns being
+                                                            raised for appropriate management. Further clarity
+                                                            on this would assist in understanding this matter.
+
+
+Until this information is available and has been appropriately assessed, the Health Service is not in a position
+to safely facilitate your return to normal duties.
+
+Should you have any further questions or concerns, please do not hesitate to contact me via the details below.
+
+Kind regards
+
+
+                                                        2
+
+>>> documents/regulator-2026-10-12/disclosure_12OCT2026/Tab21_2026-07-07_Email_Forrest_to_Shepherd_ECC_further_information.pdf :: page 3
+Lyndelle Forrest
+Senior Consultant
+Human Resources
+Logan and Beaudesert Health Service
+Metro South Health l
+
+e. Lyndelle.Forrest@health.qld.gov.au l Chat on Teams
+p. 07 3542 2028
+a. Mon - Fri 7:30am - 4:00pm
+
+
+
+
+Metro South Health recognises and pays respect to the traditional custodians of the land and waters – the Yugambeh,
+Quandamooka, Jaggera, Ugarapul, Turrbal, and Mununjali peoples – and to Elders, past, present and emerging.
+
+
+
+
+                                                                    3
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document296.pdf :: page 1
+WC/2024/227 - Cory Shepherd v Workers'
+Compensation Regulator
+
+From: QIRC.Registry
+QIRC.Registry@QIRC.qld.gov.au
+To: Renee Matheson
+Renee.Matheson@oir.qld.gov.au,
+coryshepherd1@hotmail.com
+coryshepherd1@hotmail.com
+Sent: Tuesday 13 October at 12:26
+
+
+Dear Parties,
+Industrial Commissioner Dwyer notes the
+Respondent’s recent email, dated 12 October 2026.
+The Regulator is instructed to obtain their Counsel’s
+availability as soon as possible following 22 October
+2026 and advise the Appellant.
+A section 552A conference will then be scheduled,
+following confirmation of the parties’ joint range of
+availability.
+This email is sent on behalf of the Chambers of
+Industrial Commissioner Dwyer.
+
+
+ Kind Regards
+
+ Registry Officer (Client Services)
+ Industrial Registry
+
+
+                Industrial Court of Queensland and
+                Queensland Industrial Relations
+                Commission
+                P 1300 592 987
+                E qirc.registry@qirc.qld.gov.au
+                Level 21, Central Plaza 2, 66 Eagle Street,
+                Brisbane QLD 4000
+                GPO Box 373, Brisbane QLD 4001
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document296.pdf :: page 2
+From: Renee Matheson
+<Renee.Matheson@oir.qld.gov.au>
+Sent: Monday, 12 October 2026 9:21 AM
+To: QIRC.Registry <QIRC.Registry@QIRC.qld.gov.au>
+Cc: Cory Shepherd <coryshepherd1@hotmail.com>
+Subject: WC/2024/227 - Cory Shepherd v Workers'
+Compensation Regulator
+
+
+Dear Sir/Madam,
+
+
+
+I refer to the above matter and the correspondent of the
+
+Appellant to the registry dated 1 October 2026.
+
+
+
+The Regulator agrees with the Appellant’s request for a
+
+second s552A conference to be set down in relation to this
+
+matter.
+
+
+
+The Regulator believes that the additional points 2 to 7
+
+outlined in the Appellant’s requested directions dated 1
+
+October 2026, would be better placed to be discussed at
+
+the conference in lieu of ordered in directions, in the first
+
+instance.
+
+
+
+Unfortunately the Regulator’s Counsel is currently on leave
+
+overseas and not contactable until 22 October 2026, when
+
+the Regulator could then confirm its availability for this
+
+conference.
+
+
+
+The Regulator respectfully requests the Commission’s
+
+consent for its undertaking to speak with the Appellant
+
+once it is in receipt of Counsel’s availability and jointly
+
+agree on a range of dates available for this conference,
+
+before communicating with the registry.
+
+
+
+The Regulator appreciates the Commissions consideration
+
+of this request.
+
+
+
+Kind regards,
+
+Renee Matheson
+
+Senior Appeals Officer
+
+Workers’ Compensation Regulatory Services
+
+Office of Industrial Relations
+
+P 07 3842 2792 M 0460 021 030
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document296.pdf :: page 3
+E Renee.matheson@oir.qld.gov.au
+
+150 Mary Street, Brisbane QLD 4000
+
+PO Box 10119, Brisbane Adelaide St QLD 4000
+
+
+
+
+This email (including any attached files) is intended
+only for the addressee and may contain
+confidential information. If you are not the
+addressee, you are notified that any transmission,
+distribution, printing or photocopying of this email
+is strictly prohibited. If you have received this email
+in error, please immediately notify the Industrial
+Registry and delete any copies. Unless explicitly
+attributed, the opinions expressed do not
+necessarily represent the official position of the
+Industrial Court of Queensland (ICQ), Queensland
+Industrial Relations Commission (QIRC) and
+Industrial Registry. The ICQ, QIRC and Industrial
+Registry do not accept any responsibility for any
+loss or damage that may result from reliance on, or
+the use of, any information contained in this email
+and/or attachments. It is your responsibility to
+ensure that this email and any attachments do not
+contain and are not affected by computer viruses
+or defects as this message is transmitted over
+Internet. We collect personal information as
+required to discharge our functions under the
+various legislation relevant to the ICQ, QIRC and
+Industrial Registry. The way we manage personal
+information is explained in our Privacy Policy
+available on the website.
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document297.pdf :: page 1
+RE: WC/2024/227 - Cory Shepherd v
+Workers' Compensation Regulator -
+Documents in dispute - Disclosure
+
+From: Renee Matheson
+Renee.Matheson@oir.qld.gov.au
+To: Cory Shepherd coryshepherd1@hotmail.com
+Sent: Monday 12 October at 08:33
+
+Dear Mr Shepherd,
+
+
+
+I refer to the above matter and the Regulator’s below email
+
+of 24 September 2026, noting a request for documents had
+
+been sent to MSH.
+
+
+
+Please see attached with disclosure copies of the following
+
+documents:
+
+      1 – Role description, AO3 Switchboard Services,
+
+      logan hospital
+
+      5 – Email of Chloe Taylor to Cory Shepherd –
+
+      subject: Approved – Permanent Full Time FTE –
+
+      27/09/2023 1:52pm
+
+      17 to 19 – Movements forms (x3)
+
+      21 – Email from yourself to Cory Shepherd –
+
+      subject: Cory Shepherd ECC further information –
+
+      07/07/2026
+
+      22 – Consultation Paper – Proposed rosters for
+
+      switchboard services, Logan Hospital – signed by
+
+      Scott Hughes 12/11/2024
+
+      23 – Consultation outcome – Proposed rosters for
+
+      switchboard services, Logan Hospital – signed by
+
+      Scott Hughes 12/12/2024
+
+      31 – Spreadsheet ‘2024 Emergency Code Register’ –
+
+      March 2024 sheet – entries 16 to 20 March 2024
+
+
+
+The regulator confirms the veracity of the attached
+
+documents.
+
+
+
+Kind regards,
+
+Renee Matheson
+
+Senior Appeals Officer
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document297.pdf :: page 2
+Workers’ Compensation Regulatory Services
+
+Office of Industrial Relations
+
+P 07 3842 2792 M 0460 021 030
+
+E Renee.matheson@oir.qld.gov.au
+
+150 Mary Street, Brisbane QLD 4000
+
+PO Box 10119, Brisbane Adelaide St QLD 4000
+
+
+
+
+From: Renee Matheson
+Sent: Thursday, 24 September 2026 9:51 AM
+To: Cory Shepherd <coryshepherd1@hotmail.com>
+Subject: WC/2024/227 - Cory Shepherd v Workers'
+Compensation Regulator - Documents in dispute
+
+
+Dear Mr Shepherd,
+
+
+
+I refer to your letter dated 9 September 2026, in relation to
+
+the documents which authenticity was disputed.
+
+
+
+Upon further review of the appeal file, the Regulator is able
+
+to confirm the veracity of the following documents:
+
+       6 – Email of Chloe Taylor to Logan Switchboard –
+
+       subject: Afterhours oncall process – switchboard –
+
+       15/04/2024
+
+       20 – Letter MSH to Commissioner Dwyer –
+
+       05/06/2026
+
+       30 – email of Chloe Taylor to Logan Switchboard –
+
+       subject: What’s Chloe’s Hours?! – 23/08/2023
+
+       30A – email of Chloe Taylor to Logan Switchboard –
+
+       subject: Good morning Team’ – 18/06/2024
+
+
+
+In relation to the remaining documents in dispute:
+
+       1 – Role description, AO3 Switchboard Services,
+
+       logan hospital
+
+       5 – Email of Chloe Taylor to Cory Shepherd –
+
+       subject: Approved – Permanent Full Time FTE –
+
+       27/09/2023 1:52pm
+
+       17 to 19 – Movements forms (x3)
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document297.pdf :: page 3
+       21 – Email from yourself to Cory Shepherd –
+
+       subject: Cory Shepherd ECC further information –
+
+       07/07/2026
+
+       22 – Consultation Paper – Proposed rosters for
+
+       switchboard services, Logan Hospital – signed by
+
+       Scott Hughes 12/11/2024
+
+       23 – Consultation outcome – Proposed rosters for
+
+       switchboard services, Logan Hospital – signed by
+
+       Scott Hughes 12/12/2024
+
+       31 – Spreadsheet ‘2024 Emergency Code Register’ –
+
+       March 2024 sheet – entries 16 to 20 March 2024
+
+
+
+The Regulator has requested copies of these documents to
+
+be disclosed from MSH.
+
+
+
+Upon receipt of these documents from MSH, I will disclose
+
+copies to you as soon as possible.
+
+
+
+Kind regards,
+
+Renee Matheson
+
+Senior Appeals Officer
+
+Workers’ Compensation Regulatory Services
+
+Office of Industrial Relations
+
+P 07 3842 2792 M 0460 021 030
+
+E Renee.matheson@oir.qld.gov.au
+
+150 Mary Street, Brisbane QLD 4000
+
+PO Box 10119, Brisbane Adelaide St QLD 4000
+
+
+
+
+This email (including any attached files) is intended
+only for the addressee and may contain
+confidential information. If you are not the
+addressee, you are notified that any transmission,
+distribution, printing or photocopying of this email
+is strictly prohibited. If you have received this email
+in error, please immediately notify the Office of
+Industrial Relations and delete any copies. Unless
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document297.pdf :: page 4
+explicitly attributed, the opinions expressed do not
+necessarily represent the official position of the
+Office of Industrial Relations. The Office of
+Industrial Relations does not accept any
+responsibility for any loss or damage that may
+result from reliance on, or the use of, any
+information contained in this email and/or
+attachments. It is your responsibility to ensure that
+this email and any attachments do not contain and
+are not affected by computer viruses or defects as
+this message is transmitted over Internet.
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document298.pdf :: page 1
+WC/2024/227 - Cory Shepherd v Workers'
+Compensation Regulator
+
+From: Renee Matheson
+Renee.Matheson@oir.qld.gov.au
+To: QIRC.Registry QIRC.Registry@QIRC.qld.gov.au
+Cc: Cory Shepherd coryshepherd1@hotmail.com
+Sent: Monday 12 October at 09:21
+
+Dear Sir/Madam,
+
+
+
+I refer to the above matter and the correspondent of the
+
+Appellant to the registry dated 1 October 2026.
+
+
+
+The Regulator agrees with the Appellant’s request for a
+
+second s552A conference to be set down in relation to this
+
+matter.
+
+
+
+The Regulator believes that the additional points 2 to 7
+
+outlined in the Appellant’s requested directions dated 1
+
+October 2026, would be better placed to be discussed at
+
+the conference in lieu of ordered in directions, in the first
+
+instance.
+
+
+
+Unfortunately the Regulator’s Counsel is currently on leave
+
+overseas and not contactable until 22 October 2026, when
+
+the Regulator could then confirm its availability for this
+
+conference.
+
+
+
+The Regulator respectfully requests the Commission’s
+
+consent for its undertaking to speak with the Appellant
+
+once it is in receipt of Counsel’s availability and jointly
+
+agree on a range of dates available for this conference,
+
+before communicating with the registry.
+
+
+
+The Regulator appreciates the Commissions consideration
+
+of this request.
+
+
+
+Kind regards,
+
+Renee Matheson
+
+Senior Appeals Officer
+
+Workers’ Compensation Regulatory Services
+
+>>> documents/regulator-2026-10-12/email_prints/Outlook_Document298.pdf :: page 2
+Office of Industrial Relations
+
+P 07 3842 2792 M 0460 021 030
+
+E Renee.matheson@oir.qld.gov.au
+
+150 Mary Street, Brisbane QLD 4000
+
+PO Box 10119, Brisbane Adelaide St QLD 4000
+
+
+
+
+This email (including any attached files) is intended
+only for the addressee and may contain
+confidential information. If you are not the
+addressee, you are notified that any transmission,
+distribution, printing or photocopying of this email
+is strictly prohibited. If you have received this email
+in error, please immediately notify the Office of
+Industrial Relations and delete any copies. Unless
+explicitly attributed, the opinions expressed do not
+necessarily represent the official position of the
+Office of Industrial Relations. The Office of
+Industrial Relations does not accept any
+responsibility for any loss or damage that may
+result from reliance on, or the use of, any
+information contained in this email and/or
+attachments. It is your responsibility to ensure that
+this email and any attachments do not contain and
+are not affected by computer viruses or defects as
+this message is transmitted over Internet.
 
 >>> documents/rosters/2023-03-06_to_03-19_LH_Switchboard_Roster_PP20_v1.0.pdf :: page 1
 Logan Hospital Switchboard Services Roster, 06th March 2023 to 19th March 2023, v1.0                                                                                                 Organisation Unit: 72010875

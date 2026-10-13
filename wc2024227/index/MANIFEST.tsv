@@ -75,6 +75,7 @@ analysis/2026-10-04_QUANTUM_2026_appeal_civil_tort_lockout.md	0	11992	OK
 analysis/2026-10-06_EB11_against_admitted_facts.md	0	5306	OK
 analysis/2026-10-06_TAYLOR_ROLE_v_ADMITTED_FACTS_matrix.md	0	16349	OK
 analysis/2026-10-07_NOVELLA_The_Week_She_Was_Away.md	0	22655	OK
+analysis/2026-10-13_REGULATOR_REQUEST_12OCT_reasons_and_signals.md	0	11100	OK
 analysis/MONTECARLO_RESULTS.txt	0	2026	OK
 analysis/README.md	0	5334	OK
 analysis/build_by_stressor.py	0	1362	OK
@@ -360,6 +361,22 @@ documents/regulator-2026-09-24/2026-09-23_2351_Matheson_DOCUMENTS_IN_DISPUTE_4_c
 documents/regulator-2026-09-24/2026-09-24_1150_Matheson_to_Registry_WITNESS_LIST.pdf	2	2010	OK
 documents/regulator-2026-09-24/2026-09-24_Respondent_OUTLINES_OF_EVIDENCE.txt	0	13833	OK
 documents/regulator-2026-09-24/2026-09-24_Respondent_OUTLINES_OF_EVIDENCE_Taylor_Reese_Wright_Earl.pdf	5	14419	OK
+documents/regulator-2026-10-12/2026-10-12_0830_Matheson_disclosure_9_documents_veracity_confirmed.txt	0	2973	OK
+documents/regulator-2026-10-12/2026-10-12_0921_Matheson_to_Registry_agrees_second_552A.txt	0	1722	OK
+documents/regulator-2026-10-12/2026-10-13_1226_Registry_for_Dwyer_IC_552A_to_be_scheduled.txt	0	1137	OK
+documents/regulator-2026-10-12/DISCLOSURE_12OCT2026_VERIFICATION.md	0	5621	OK
+documents/regulator-2026-10-12/disclosure_12OCT2026/SHA256SUMS.txt	0	1155	OK
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab01_AO3_Switchboard_Role_Description.pdf	4	9995	OK
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab05_2023-09-27_Email_Taylor_to_Shepherd_Full-time_employment.pdf	2	1115	OK
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab17_Employee_movement_01.03.2026-15.03.2026_PRN_22902210.pdf	4	0	NO_TEXT_LAYER
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab18_Employee_movement_16.03.2026-26.04.2026_PRN_23420475.pdf	4	0	NO_TEXT_LAYER
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab19_Employee_movement_25.05.2026-28.06.2026_PRN_23922112.pdf	4	0	NO_TEXT_LAYER
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab21_2026-07-07_Email_Forrest_to_Shepherd_ECC_further_information.pdf	3	8853	OK
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab22_Consultation_Paper_Proposed_Roster_Switchboard_Logan.pdf	8	0	NO_TEXT_LAYER
+documents/regulator-2026-10-12/disclosure_12OCT2026/Tab23_Consultation_outcome_Proposed_Rosters_LH_Switchboard_Dec2024.pdf	7	0	NO_TEXT_LAYER
+documents/regulator-2026-10-12/email_prints/Outlook_Document296.pdf	3	3944	OK
+documents/regulator-2026-10-12/email_prints/Outlook_Document297.pdf	4	4673	OK
+documents/regulator-2026-10-12/email_prints/Outlook_Document298.pdf	2	2488	OK
 documents/regulator-response-2026-09-08/2026-09-08_1124_Matheson_service_email_responses.pdf	3	3313	OK
 documents/regulator-response-2026-09-08/2026-09-08_Regulator_COVER_LETTER_response_to_notices.pdf	2	4853	OK
 documents/regulator-response-2026-09-08/2026-09-08_Regulator_FORM24_RESPONSE_298of303_admitted.pdf	22	119666	OK
@@ -1273,4 +1290,4 @@ skill/sub-skills/drafting.md	0	3778	OK
 skill/sub-skills/evidence.md	0	3567	OK
 skill/sub-skills/parallel-tracks.md	0	5844	OK
 skill/sub-skills/settlement.md	0	2291	OK
-working-notes.md	0	628165	OK
+working-notes.md	0	633088	OK
