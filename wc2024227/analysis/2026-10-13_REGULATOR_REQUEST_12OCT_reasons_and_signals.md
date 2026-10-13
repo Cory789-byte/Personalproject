@@ -323,3 +323,94 @@ Tab 24 remains." Do not write to the Registry about it now.
   claim only (rule 9).
 - **When they write after 22 Oct:** reply in writing with available dates.
 - **⛔ Never voiced externally:** Counsel's absence; any metadata; any view on who drafted what.
+
+## Signal reading: Dwyer's 13 Oct reply and the Regulator's 12 Oct email (added 13 Oct)
+
+**Reread at source:**
+- the 1 Oct election (`drafts/out/FILING_1OCT2026/FOR_SUBMISSION/`);
+- the 12 Oct 9:21 email;
+- the 13 Oct chambers email.
+
+The as-sent 9A (`superseded/WC2024227_3_Proposed_9A_AS_SENT_1OCT2026_1645.pdf`, the copy the
+Commission holds) contains none of "unassessed", "unilateral", "erratic", "filters" or "disposition
+of items".
+
+### How Dwyer read it
+
+**What he had:**
+- **The election came on the first day FDO(3) direction 5 allowed** ("once all directions
+  finalised"; Respondent's deadline 30 Sep, election 1 Oct). It chose the conference, not a hearing.
+- **A 9A that answers his 7 Aug criticisms:** labels gone, dated events tied to admitted facts, onus
+  accepted, nothing new.
+- **Requested directions aimed only at the Respondent.** The notices and documents were offered "on
+  request" rather than sent.
+
+**What his reply signals:**
+1. **"Notes":** acknowledged, not adopted.
+2. **Request turned into an instruction:** "consent for its undertaking" became "The Regulator is
+   instructed".
+3. **A deadline added:** "as soon as possible following 22 October 2026".
+4. **The only required step is "advise the Appellant".** The proposal to keep the Registry out until
+   after speaking with him was not taken up.
+5. **The date stays with the Commission:** "will then be scheduled" (the Appellant's direction 1
+   asked for "a date fixed by the Commission").
+6. **Every obligation is on the Regulator; none is on the Appellant.**
+7. **Nothing refused.** No criticism, no ruling on points 2–7, no comment on the 9A. Further
+   directions (item 7) remain open.
+8. **Replied the next business day.**
+
+**Likely view:**
+- The matter is moving as he wanted on 7 Aug: narrowed pleading, parties talking, conference next.
+  No orders needed.
+- The only risk is drift, and it has been placed on the Regulator.
+- He will have registered that Counsel is back after no Counsel on 22 May and 7 Aug, so the
+  conference will be substantive.
+- He does not know point 4 is largely done; the 8:30 email went to the Appellant only.
+
+### What the Regulator's email signals
+
+**Lines that were not needed:**
+1. **"Agrees" to the conference.** The election belonged to the Appellant under direction 5. They
+   want to be seen joining in, and they did not push for a hearing.
+2. **"In the first instance."** Orders may follow; no objection in principle to points 2–7.
+3. **"On leave overseas and not contactable."** Counsel will attend; nothing is decided before
+   Counsel; the delay is pre-justified.
+4. **"Consent for its undertaking to speak with the Appellant."** Not needed for dates. It mirrors
+   Dwyer's own words of 7 Aug, said with Matheson present:
+   - 32:43 "pick up the phone … a constructive civil conversation … even if you're self-represented";
+   - 33:07 "sorted out in a couple of constructive phone calls";
+   - 59:36 Ms Matheson "sufficiently objective and cooperative to have a constructive discussion".
+
+   It also gets the Commission's approval for the delay, and opens a direct line to the Appellant
+   before the conference.
+5. **"Appreciates."** Deference.
+
+**Framing:** the election and leave application are called "correspondence", and the directions
+"additional points" to "discuss", so none of it has to be answered as an application.
+
+**Left out:**
+- the 8:30 disclosure;
+- any answer to the 1 Oct letter's account of their case (298/303, the outline quotations, no
+  expert, fact 303);
+- any position on leave;
+- any reservation of rights (contrast 8 Sep);
+- any request of their own: no expert, no extension, no particulars, no hearing, no costs.
+
+**Overall:** they have stopped fighting on paper.
+- They agree to what costs nothing and defer what would commit them in writing.
+- They bring Counsel back to the meeting where the decision is made, and ask for a word with the
+  Appellant first, in the Commissioner's language.
+- **This is the profile of a party preparing to narrow or concede on its own terms and timetable.**
+- The alternative reading, buying time for a defence, has no support: no request for evidence, time
+  or particulars.
+
+### Handling (supersedes the "if they phone" line above)
+
+- **If they phone, take the call and be constructive.** The Commissioner has repeatedly urged direct
+  conversation; refusing cuts against him.
+- **Agree dates, then confirm by email the same day.**
+- **If resolution is raised:** listen, commit to nothing on the call, and ask that it be put in
+  writing.
+- **Open the conference with:** "On 12 October the Respondent confirmed nine of the ten documents;
+  Tab 24 remains."
+- **⛔ Internal only:** mention-transcript quotations, Counsel's absence, and any view on drafting.
