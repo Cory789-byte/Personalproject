@@ -522,3 +522,37 @@ the conference.**
 - **If nothing has arrived by about 29–30 Oct:** send a short, polite email to the Regulator, cc the
   Registry. Refer to the Commission's instruction of 13 Oct and give available dates. That stays
   within the instruction and puts the next step on the record.
+
+### Is the window to 22 Oct being used to negotiate? (added 13 Oct)
+
+**Not with the Appellant.** There has been no contact since 12 Oct, and the stated plan is contact
+after 22 Oct. The likely use of the window is internal position-setting:
+- **Counsel's review.** By email if Counsel is reachable; otherwise the brief is being prepared for
+  22 Oct.
+- **MSH.** Its staff are all four witnesses, and the documents were prepared at MSH on 24–28 Sep.
+  Any change of position affects the employer whose conduct is in issue. This is ordinary
+  consultation; record it neutrally (discipline rule 1).
+- **Internal sign-off** for any change of position.
+
+**The latency pattern fits.** The Calderbank #2 rejection took 15 days, read at the time as
+authorisation time (working-notes, 16 Jul). The 12 Oct reply took 11 days.
+
+**What is negotiable in a s 549 appeal:**
+1. consent to set aside the review decision (acceptance; s 558(1)(c), (2));
+2. costs (s 558(3); the Calderbank #2 offer of 1 Jul is on file);
+3. the form of orders.
+
+Benefits follow acceptance through the insurer, so the amount of compensation is not negotiated here.
+
+**The wording to watch for.** The Calderbank #2 rejection (16 Jul) said: "Should our position change
+at any point, we will advise you as soon as possible." The Commission's 13 Oct instruction uses the
+same two ideas: "as soon as possible" and "advise the Appellant". The match is coincidental (the
+Commission has not seen the Calderbank correspondence). It frames the next letter as possibly the one
+promised in July.
+
+**Handling:**
+- Wait for them to come to the Appellant.
+- Take any proposal in writing; do not negotiate by phone.
+- Scope: compensation claim only (rule 9).
+- Do not reopen the Calderbank terms unprompted.
+- Follow up on 29–30 Oct if nothing has arrived.
