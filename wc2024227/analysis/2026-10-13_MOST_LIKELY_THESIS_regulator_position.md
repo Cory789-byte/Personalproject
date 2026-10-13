@@ -132,3 +132,60 @@ chambers email is not a signal. Withdraw the "echo" point in
 - working-notes 16 Jul (Calderbank #2 rejection);
 - confirmed-record (Counsel's appearances);
 - `analysis/2026-09-25_FULL_PICTURE_READ_after_outlines.md` (prior odds).
+
+## Overlay: the 7 Aug mention × the 9A × the 12 Oct request, and the real intention (added 13 Oct)
+
+> Mention quotations are internal only (no certified transcript). Times are from the diarised
+> transcript (labels A1–A3).
+
+### The real intention
+
+On 7 Aug the Commissioner left the Regulator a choice: "They may wish to contradict that. They may
+not want to contradict that" [28:12]. The Regulator is keeping that choice open until Counsel decides
+it, while doing everything else he asked, so that the delay reads as model-litigant cooperation and
+not avoidance.
+
+They cannot contradict:
+- the case rests on their admissions;
+- their witnesses call the key events errors;
+- they have no medical evidence.
+
+They will not concede on paper before Counsel advises. **So the choice has been moved off paper and
+into a room.** The intention is a controlled exit (concession or a narrow remainder) on their terms,
+without an order recording that they were made to.
+
+### Overlay
+
+| # | Dwyer, 7 Aug | Appellant, 9A / 1 Oct | Regulator, 12 Oct | Shows |
+|---|---|---|---|---|
+| 1 | Onus and contradiction [15:28–15:41]: "the regulator does have to contradict things that you say… if… not contradicted… likelihood… accepted" | Every particular rests on an admitted fact; directions 2 and 5 ask what they contradict | No contradiction; directions 2 and 5 to be "discussed" | Avoids the step his test makes decisive |
+| 2 | Existence v characterisation [28:43–29:03]: characterisation "may be contradicted but the existence… may not be in dispute… that's a problem for them" | Existence facts only; descriptions withdrawn | 8 Sep reserved characterisation; on 12 Oct, asked to use it, they did not | Kept in reserve, not used |
+| 3 | Medical [03:54]: "the presence or existence of an injury for the purposes of a medical diagnosis is usually not so much in dispute" | (Record) Treating psychiatrist's report held by the Regulator (items 9 and 10 of its own list, Form 29 of 4 Jul 2025); no expert served | No request for time, an expert or medical particulars | Not planning to fight the diagnosis |
+| 4 | Focus and brevity [10:12] "keep it short and sweet"; [58:53] "not a broad-brush criticism… focus on the stressors" | Three stressors, dated events, no systemic material | No objection to the 9A; no position on leave | Every obvious ground to object removed |
+| 5 | Model litigant [59:42]: "can't hide stuff… can't be sneaky or tricky… they will operate in the way that I've always experienced them operating" | Direction 4: authenticity by a fixed date | Nine documents disclosed and vouched for at 8:30, before the request | The model-litigant step done first and visibly |
+| 6 | Talk [32:43–33:07]: "pick up the phone… constructive civil conversation… even if you're self-represented… a couple of constructive phone calls" | Conference elected, not hearing | Agrees conference; undertakes to "speak with the Appellant" | Shows him they heard him |
+
+**Pattern.** Every expectation of conduct from 7 Aug was met (cooperate, disclose, talk, be
+efficient). The one expectation of substance was avoided: say what you contradict, and with what.
+
+**The Commissioner's intention.** He will ask the question in the room. He chairs the conference and
+does not hear the appeal, so he can put his own test directly. The 25 Sep read predicted the question:
+"what do you contradict, and with what?". His reply gets them there promptly, with Counsel, the only
+person who can answer it.
+
+**What follows.**
+- "Para 27 not maintained", or "the break was not reasonable management action": the exit, and a
+  concession follows.
+- Para 27 particularised and reasonableness argued particular by particular: a contest.
+
+**Odds update (judgement).**
+- Concession before hearing: **50–60%** (from 45–55%). Overall favourable: **about 75–80%**.
+- Why it moved:
+  - his own experience is that diagnosis is rarely disputed;
+  - the psychiatrist's report is held by the Regulator, with nothing contrary;
+  - no medical step was requested.
+
+**Action.**
+- Prepare one page (not handed up unless asked): for each direction 5 particular, the admitted fact
+  numbers and what the Regulator's outlines say.
+- No account of how it was built, and no mention quotations.
