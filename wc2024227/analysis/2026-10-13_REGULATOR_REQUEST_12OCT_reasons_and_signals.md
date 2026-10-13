@@ -192,3 +192,68 @@ together, before leave is decided.
 - **Nothing to send now.** The Commission has instructed the Regulator to come to the Appellant with
   dates.
 - **Have availability ready** for late October and November.
+
+## The sequence: point 4 done at 8:30, "points 2 to 7" deferred at 9:21 (added 13 Oct)
+
+**The question (Cory).** The Regulator confirmed the documents (point 4) before its request, yet still
+asked that points 2 to 7 be discussed at the conference. What does that show?
+
+### Eight reasons it points to concession
+
+1. **Point 4 was done before the request not to order it.**
+   - 8:30 am: nine of ten documents confirmed. 9:21 am: points 2 to 7 to be discussed, not ordered.
+   - A party resisting the directions does not carry one out first. What it resists is being ordered,
+     not the substance.
+2. **That is the pattern every time.** Nothing it has conceded was ordered by the Commission:
+   - 8 Sep: 298 of 303 facts admitted;
+   - 24 Sep: 4 documents, "upon further review of the appeal file";
+   - 12 Oct: 9 more documents.
+
+   The conference is the next round.
+3. **Tab 31 closed the last factual dispute.**
+   - The Code Register for the break period was the only document behind facts not admitted (228–231).
+   - MSH's copy matches entry for entry, so keeping the dispute was not really open.
+   - The result: only fact 154, a fact about their own list of documents, is left on the factual side.
+4. **"Points 2 to 7" now means points 2 and 5 in substance.**
+   - Para 27, and management action and reasonableness for each particular; the rest (3, 6, 7) is
+     procedure.
+   - These are exactly the questions on which the guide says the Respondent "may decide to review its
+     position or consider conceding the appeal".
+5. **Written answers to points 2 and 5 cost them either way.** Their outlines say:
+   - the break was "the result of human error";
+   - it was "better characterised as a rostering practice issue for the line manager";
+   - the second decline "appears to have been made in error".
+
+   Any written answer gives up particulars or contradicts their own witnesses.
+6. **No merits content in either email.** The only reason given for the delay is Counsel's leave.
+7. **Counsel is the decision point.** There is no medical evidence, and their own witnesses call the
+   key events errors.
+8. **They asked for nothing for themselves:** no late expert, no particulars, no strike-out, no
+   extension.
+
+### Why point 4 still appears in "2 to 7"
+
+- **Tab 24 is still open.**
+- **The 8:30 email went to Cory only, not the Registry.**
+  - Point 4 asked for a formal statement by a fixed date, with any document not maintained ceasing to
+    be in issue.
+  - On the Commission's record point 4 is still open. The 13 Oct chambers email does not mention the
+    documents.
+- **"2 to 7" lumps the points together** (inference). Listing point 4 separately would tell the
+  Commission it had been done, which invites the same for points 2 and 5.
+
+### What cuts the other way
+
+- **A discussion binds them to nothing in writing.** That suits a defending party as much as a
+  conceding one.
+- **Confirming documents that match is not a concession on the merits.** It shows where they stand,
+  not generosity.
+- **The 8 Sep cover letter keeps characterisation, the truth of RD 69983's findings and the de novo
+  hearing open.**
+
+**Bottom line.** They are conceding in rounds, each time at the point where the record leaves them
+nothing to contest. Facts and documents are done. Characterisation is left, and they have chosen the
+setting where it can be given up without an order. Counsel's review after 22 Oct decides it.
+
+**At the conference, plainly:** "On 12 October the Respondent confirmed nine of the ten documents;
+Tab 24 remains." Do not write to the Registry about it now.
