@@ -504,3 +504,21 @@ the conference.**
 - **The alternative:** Counsel's absence made written orders impractical before 22 Oct, and both
   sides nominated the conference. It explains the delay, but not the absence of any programme after
   22 Oct.
+
+### The excuse is the mechanism, not an alternative (added 13 Oct, Cory)
+
+- **"Counsel overseas until 22 October" is a neutral, procedural reason no one can question.**
+  - A Commissioner cannot be seen holding back orders to give a party room to concede; that looks
+    like prejudging.
+  - The excuse lets him not grant leave, not order repleading, not make the directions and not set a
+    path to hearing, all without stating why.
+  - **The excuse is the cover; the pause is the substance.**
+- **It serves both.**
+  - The Regulator gets decision time without seeking an extension or stating its position.
+  - The Commissioner gets a neutral reason to wait.
+  - Nobody has to say that the Regulator is reconsidering whether to concede.
+- **It is not open-ended.** "As soon as possible following 22 October 2026" limits the window. After
+  22 Oct, any delay is the Regulator's.
+- **If nothing has arrived by about 29–30 Oct:** send a short, polite email to the Regulator, cc the
+  Registry. Refer to the Commission's instruction of 13 Oct and give available dates. That stays
+  within the instruction and puts the next step on the record.
