@@ -257,3 +257,69 @@ setting where it can be given up without an order. Counsel's review after 22 Oct
 
 **At the conference, plainly:** "On 12 October the Respondent confirmed nine of the ten documents;
 Tab 24 remains." Do not write to the Registry about it now.
+
+## Who wrote the 9:21 email, and what the "speak with the Appellant" undertaking is for (added 13 Oct)
+
+**Cory's points:**
+1. Point 4 is mostly done.
+2. Counsel, not Matheson, likely drafted it.
+3. Dates do not need Counsel or a conversation with him, so the contact is for something else.
+4. Counsel may not even be away.
+
+### Drafting: her keyboard, someone else's position
+
+- **The slips match her own emails:**
+  - this email: "correspondent" (for correspondence), "Commissions" (no apostrophe), "in lieu of
+    ordered in directions";
+  - 24 Sep: "the documents which authenticity was disputed";
+  - 12 Oct 8:30: "Email from yourself to Cory Shepherd".
+- **The position is not hers.**
+  - Her own Registry emails are short and functional (18 Feb 2026: "Please find attached for
+    filing…").
+  - This one makes three deliberate choices: agree the conference; keep points 2–7 out of orders "in
+    the first instance"; route dates through a conversation with the Appellant.
+- **The pattern exists.** The 8 Sep cover letter is a lawyer's drafting; its Word file lists the
+  author as "Peter", not Matheson. Internal only; never raise metadata (see the ANOMALIES file, item
+  17).
+- **Conclusion.** The position was set above her: by Counsel, the Appeals Team Leader (Ruth Jamieson
+  per the 1 Oct out-of-office), or the 8 Sep author. If it was Counsel, Counsel was reachable.
+
+### Dates do not need Counsel present or a conversation with the Appellant
+
+- **A clerk can give the dates.** Counsel on the record is Willson, a barrister on Hemmant's List
+  (confirmed-record). Barristers' clerks keep the diary and take bookings.
+- **Earlier dates came from the Registry.**
+  - Listings came as automatic Registry "Notice of Listing" emails (6 Apr 2025; 25 Mar 2026).
+  - Willson appeared on 27 Feb, 13 Mar and 7 Apr 2026. Nothing in the email record shows dates agreed
+    with the Appellant first.
+- **When time was needed before, it was sought directly:** five weeks to answer the amended pleading.
+- **Agreeing dates needs no consent from the Commission.** The request for "the Commission's consent
+  for its undertaking to speak with the Appellant … before communicating with the registry" is the
+  unusual element.
+
+### What the contact is for
+
+- **Best fit:** a sanctioned direct line to the Appellant before the conference, off the formal
+  record. Its likely use is sounding out what he would accept and what the conference could resolve.
+  That is consistent with:
+  - no merits answer;
+  - facts and documents conceded;
+  - Counsel reviewing.
+- **Weaker readings:**
+  - it secures roughly two weeks with the Commission's approval;
+  - "speak" simply means "correspond".
+- **The Commission narrowed it** (13 Oct): "obtain their Counsel's availability as soon as possible
+  following 22 October 2026 and advise the Appellant". Advise, not speak; and "as soon as possible".
+- **Whether Counsel is away cannot be checked, and nothing turns on it.** The position on points 2–7
+  was taken on 12 Oct regardless. "Not contactable until 22 October" only sets the earliest date
+  anything moves.
+
+### Handling
+
+- **Nothing now.**
+- **If they phone:** take dates only and confirm by email; ask for anything else in writing
+  (discipline rule 4: written only, never phone).
+- **If they raise resolution:** ask that it be put in writing. Settlement releases the compensation
+  claim only (rule 9).
+- **When they write after 22 Oct:** reply in writing with available dates.
+- **⛔ Never voiced externally:** Counsel's absence; any metadata; any view on who drafted what.
