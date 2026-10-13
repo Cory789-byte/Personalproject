@@ -2482,3 +2482,27 @@ The model also under-priced counsel. E34's F2.4 ("counsel appears before listing
 The best explanation is purpose, not logistics: a standstill with a private channel before any order or listing, ending when counsel returns.
 
 **Correction to earlier scoring.** The 22 October date and the step are choices.
+
+### E38 · 13 October 2026 — the Commission takes the middle course (R33)
+
+**Verified.** The Registry wrote on behalf of Dwyer IC on 13 Oct at 12:26. The Commission:
+- "notes" the Respondent's email; it gives no consent;
+- "The Regulator is instructed to obtain their Counsel's availability as soon as possible following 22 October 2026 and advise the Appellant";
+- "A section 552A conference will then be scheduled, following confirmation of the parties' joint range of availability";
+- does not mention items 2–7 or leave.
+
+**Read.** As predicted in the "middle" read:
+- no orders now;
+- the Regulator's voluntary undertaking converted into an instruction;
+- the listing kept with the Commission;
+- the contact narrowed to a one-way dates step;
+- promptness required ("as soon as possible following 22 October").
+
+The conference is planned around counsel's availability, so counsel's attendance is expected; s 552B can be dealt with at listing.
+
+**Watch.**
+- Regulator contact, about 22–27 Oct.
+- Any without-prejudice approach running separately from that contact.
+- The listing, likely November.
+
+**Cory's move.** Send his availability early, in writing, cc the Registry. Hold the substance for the conference papers. The corrected 9A should be ready before the listing.
