@@ -7641,3 +7641,10 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - Matheson answered only when the Commissioner put a question to her: 5 turns, 3 of them hedged.
   - The Commissioner restated Cory's case 11 times, and 8 of the 10 Cory answered were confirmed.
   - His stated non-understanding was confined to written labels ("filters", "unassessed", "disposition of items"). None of these appear in the corrected 9A.
+
+## 2026-10-13 (late): most likely thesis on the Regulator's position
+- `analysis/2026-10-13_MOST_LIKELY_THESIS_regulator_position.md`.
+- **Thesis:** the Regulator is deciding whether to keep defending, and the decision waits on Counsel. The "we will defend" line (18 Feb, 16 Jul) is absent for the first time.
+- **Odds:** concession before hearing 45–55%; favourable overall 72–78% (judgement).
+- **Found:** 7 Oct exchange (Cory's Tab 32A rule 49 request, due Fri 16 Oct; Matheson's acknowledgement, "looking over both emails", "following up with MSH"). Recorded in `documents/regulator-2026-10-12/2026-10-07_...txt`. The Tab 32A admission is still unanswered.
+- **Correction:** "as soon as possible" is Matheson's stock phrase; the earlier "echo" point is withdrawn.
