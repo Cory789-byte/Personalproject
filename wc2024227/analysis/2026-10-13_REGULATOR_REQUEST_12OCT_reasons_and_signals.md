@@ -462,3 +462,45 @@ not ordered.
 Counsel, does not oppose the amendment, and wants room to reconsider without being cornered. The
 conference with Counsel is where its position will change, and it wants to speak to the Appellant
 first. He gave the room, put them on a clock, and kept the scheduling.
+
+## Correction and the Commissioner's likely thinking: a pause, not a programme (added 13 Oct)
+
+**⚠ Correction (Cory).** A concession is not made at the conference. The conference only lets the
+parties see where they stand, and guide 5.1 places any review or concession after it. The Regulator
+can also concede at any time without a conference. Read the earlier lines saying "the conference …
+is where its position will change" as: **the decision follows Counsel's review, and can come before
+the conference.**
+
+### What he is thinking
+
+1. **They should already know where they stand.** Everything that decides their position is in
+   their own hands:
+   - their admissions (298/303);
+   - their witnesses' outlines calling the key events errors;
+   - no expert;
+   - fact 303 (para 27 does not identify the management action);
+   - the 9A built on those admissions.
+
+   The conference tells them nothing new. Their email says they need Counsel, not the conference.
+2. **A pause, not a programme.**
+   - With leave unopposed, he could have granted leave on the papers and ordered repleading within
+     14 days, or set steps to hearing. He did neither.
+   - He made no criticism of the 9A, despite "overcooking" on 7 Aug; it has passed his eye.
+3. **One decision step:** Counsel's view as soon as possible after 22 Oct, then advise the Appellant.
+   Repleading or particulars would be wasted cost if the answer is to concede.
+4. **The next contact may not be about dates.** If Counsel's advice is to concede, the conference
+   becomes unnecessary; the wording leaves room for that.
+5. **The other road stays open.** If they do not move, the conference narrows the issues and
+   directions and a hearing follow, without lost time.
+
+**Reading.**
+- The reply fits "likely to end without a hearing" better than "heading for a fight":
+  - no steps toward a hearing;
+  - no repleading;
+  - one prompt decision step;
+  - every obligation on the Regulator.
+- He cannot say so and cannot compel a concession. What he can do is set up the conditions for one:
+  time for Counsel, a deadline, and no orders that corner them on the record.
+- **The alternative:** Counsel's absence made written orders impractical before 22 Oct, and both
+  sides nominated the conference. It explains the delay, but not the absence of any programme after
+  22 Oct.
