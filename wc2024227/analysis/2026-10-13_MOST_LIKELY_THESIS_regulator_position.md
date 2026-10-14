@@ -189,3 +189,82 @@ person who can answer it.
 - Prepare one page (not handed up unless asked): for each direction 5 particular, the admitted fact
   numbers and what the Regulator's outlines say.
 - No account of how it was built, and no mention quotations.
+
+## Picturing their Form 9C against the 9A (added 13 Oct, Cory's framing)
+
+**Basis.** `2026-10-01_MOCK_v4_RESPONSE_by_chain_weights_prediction.md` and the v1 mock. Both are
+built only from the Respondent's 9C (13 May 2026), its outlines (24 Sep) and its admissions. The
+grouping below is a reading of those documents (judgement). The particulars are the 23 causal
+particulars in direction 5 of the 1 Oct election, lettered as in the as-sent 9A.
+
+**The rules they would write under.**
+- Every paragraph opens with "admits" (298/303; withdrawal needs leave, r 49(3)).
+- The 13 May 9C answered each old stressor in one line, "reasonable in all respects". A 9C to this 9A
+  must answer 23 dated particulars.
+- For each one it must answer the three direction 5 questions: management action? reasonable? on what
+  facts?
+
+| # | Particular (as-sent 9A) | Their best answer (own documents) | Group |
+|---|---|---|---|
+| 1 | 1(b) Database access and restricted correction process | "A project; correction path in place" (no witness) | Management action, no witness |
+| 2 | 1(d) Notification of variable office hours | Taylor denies erratic presence; flexible hours | Witness (contested) |
+| 3 | 1(f) After-hours on-call process changed (effective same day) | "Management prerogative" (no witness); the Manager's 20 May email concedes consultation | Management action, no witness |
+| 4 | 1(g) Data entry process changed | As 1(f) | Management action, no witness |
+| 5 | 1(h) Misdirected calls (nine occasions) | "Operational events, not management action, corrected" | Not management action, so outside the exclusion |
+| 6 | 1(k) Respiratory directory error | As 1(h) | Not management action, so outside the exclusion |
+| 7 | 1(l) Office hours request and retraction | Reese/Taylor: HR advice, values, unaware of complaint | Witness (their strongest) |
+| 8 | 2(a) Seven hours recorded instead of eight | Corrected; pay processing | Not management action, so outside the exclusion |
+| 9 | 2(b) Processing of paid pandemic leave | "Human error"; second decline "appears to have been made in error" | Own witnesses: error |
+| 10 | 2(c) Second shift recorded as seven hours | Corrected; pay processing | Not management action, so outside the exclusion |
+| 11 | 2(d) Overtime recorded as ordinary shifts | Corrected; pay processing | Not management action, so outside the exclusion |
+| 12 | 2(e) Public holiday claim | Wright/Earl: paid once the categories are understood | Not management action, so outside the exclusion |
+| 13 | 2(f) Hours above the contracted fortnight | Corrected; pay processing | Not management action, so outside the exclusion |
+| 14 | 2(g) Pay enquiry and public holiday review | Taylor: the AVAC route; delegate approval | Witness ("corrected" answers money, not delay) |
+| 15 | 2(h) Payroll directed four corrections | Payroll process | Not management action, so outside the exclusion |
+| 16 | 2(i) Follow-up found no correction | Payroll process | Not management action, so outside the exclusion |
+| 17 | 2(l) Manager awaited Payroll confirmation | Payroll process | Not management action, so outside the exclusion |
+| 18 | 2(m) Validation request and partly completed AVAC | Taylor: process | Witness (delay unanswered) |
+| 19 | 3(b) Consecutive shifts and the seven-hour break | "Human error, not intentional or repeated"; "rostering practice issue for the line manager"; "could refuse" | Own witnesses: error |
+| 20 | 3(c) Sick leave after the consecutive shifts | Award cl 18.10: fatigue leave only after overtime | Witness (contested) |
+| 21 | 3(d) Fatigue enquiry and refusal (23 days) | The 2020 agreement continues; HR confirmed | Witness; collides with HR's 7 Jul 2026 email (swaps only) |
+| 22 | 3(e) Roster line error | Acknowledged | Own witnesses: error |
+| 23 | 3(f) Fatigue toolkit raised; HR advice awaited | "Took advice" (needs Reese; "Cory is not yet aware", 10 May) | Management action, no witness |
+
+**Tally.**
+- 10 not management action (outside the exclusion).
+- 3 conceded as error by their own witnesses.
+- 4 management action with no witness or pleaded basis.
+- 6 with a witness-backed answer, of which 1(l) is the strongest and 3(d) collides with HR's own
+  email.
+- **On 17 of 23, an honest 9C takes the particular outside the exclusion, admits error, or pleads
+  what no witness can support.**
+
+**The dilemma (Cory's point).** For the pay and call-routing items, either label loses:
+- "management action" requires reasonableness, against admitted errors and delays;
+- "not management action" means s 32(5)(a) cannot reach it.
+
+The fatigue and the pay shortfall are by-products of management decisions (roster, AVAC lodgement).
+Linking them to management action only brings in reasonableness, where their own witnesses call the
+source events errors. Carr [60], per this repo (pinpoint to be confirmed): the question is whether
+*the injury* arose out of reasonable management action taken in a reasonable way.
+
+**Cost of the 9C.**
+- 23 causal particulars, plus context, each admitted and then argued.
+- The last amended 9C took five weeks (sought in April, filed 13 May). With Counsel back on 22 Oct,
+  this one runs into December, then amended outlines, then a conference: the hearing goes to 2027 on
+  a matter on foot since late 2024.
+- The result would be a signed document that, read honestly, mostly concedes.
+
+**Why the Commissioner let them skip it.** "The efficient administration of justice, which is an
+overriding consideration that I've got my eye on" [00:00, 7 Aug]. Ordering the 9C now buys months of
+pleading that may be pointless. The conference decides whether a 9C is ever written. The alternative
+to writing one is to concede.
+
+**Real intention, sharpened.**
+- The request is a request not to write their 9C, because an honest one mostly concedes.
+- Direction 5 is a mini-9C (the same three questions per particular). They asked not to answer even
+  that in writing.
+- At the conference, "what do you contradict, and with what?" is direction 5 asked aloud.
+
+**Action.** Organise the one-page conference table by these four groups. Hold it; produce it only if
+asked.
