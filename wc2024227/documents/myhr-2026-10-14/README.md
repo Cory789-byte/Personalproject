@@ -8,8 +8,20 @@ Internal. Employment track only. Nothing here goes into WC/2024/227 or to the Re
 | `2026-10-14_1149_..._Leave_balances...pdf` | Balances as at 14.10.2026: Recreation 61.53 h; **Long Service Leave 283.88 h "Current Available Balance"**; Sick 13.03 h; RDO 0.57 h. (On 2 Sep 2026 myHR showed no LSL line at all.) |
 | `2026-10-14_1217_...pdf`, `2026-10-14_1221_...pdf` | Request overview: **SICK LEAVE – NO PAY, APPROVED**, single days 27.09, 28.09, 29.09, 30.09, 01.10 and 03.10.2026 (the prints show only the visible part of the list). |
 | `2026-10-14_1219_..._Movement_Details...pdf` | Reprint of the temporary 56-hour movement 1–15 Mar 2026 (Taylor 19.02, Cory 26.02, Ianna 27.02). |
+| `2026-10-14_1121_myHR_APPROVAL_RecLeave...pdf` | **myHR Workflow approval, 14 Oct 11:21**, to Cory.Shepherd@health.qld.gov.au: Recreational Leave 28.09–29.09.2026, Full Pay, requested 07.10.2026, ref 000025289689. |
+| `2026-10-14_1121_myHR_APPROVAL_LSL...pdf` | **myHR Workflow approval, 14 Oct 11:21**: Long Service Leave 29.09–27.10.2026, Full Pay, **80:00 hours**, requested 07.10.2026, ref 000025289707. |
 | `2026-10-14_1154_..._FWA...jpg` | Flexible Working Arrangements: "No Arrangement". The 14.10.2026 start date is the viewing date (the system's key date), not a change. |
 
-**What the set establishes:** paid leave was applied for on 28 Sep (recreation) and from 29 Sep (LSL). As at 14 Oct, those same dates are held as approved Sick Leave – No Pay, and Cory says the two requests no longer appear and no notification was received. Two full-day absences cannot occupy the same date, so the SNP approvals for 28 and 29 Sep necessarily displaced the two requests.
+**⛔ CORRECTED 14 Oct (same day).** The first reading of this set said the two requests had been removed and displaced by Sick Leave – No Pay without notification. **That was wrong.** Both requests were **approved at 11:21 on 14 Oct**, and notifications went to the Queensland Health mailbox. The request-overview prints are partial lists.
 
-**Limits:** the PDFs are partial list prints. Who entered the SNP records, and when, is not shown. The date of the 16:11 screenshot is not in the file.
+**What the set establishes:**
+- Recreation leave 28–29 Sep and LSL 29 Sep–27 Oct, both on full pay, were requested on 7 Oct and approved on 14 Oct.
+- At 11:49–12:21 the same day, myHR still showed the earlier Sick Leave – No Pay records on those dates, and the balances had not been reduced (LSL 283.88 h available). The approved leave has not yet been posted in place of the SNP.
+- 29 Sep falls inside both approvals.
+- 80 hours over four weeks is 40 hours a fortnight, the reduced-hours rate. Cory's email of 31 Aug asked for leave at his substantive 76 hours a fortnight.
+
+**Limits:**
+- The PDFs are partial list prints.
+- They don't show who entered the SNP records or when.
+- The date of the 16:11 screenshot isn't in the file; it is between 7 Oct (requested) and 14 Oct (approved).
+- They don't show whether Cory entered the 80 hours or the system calculated them.
