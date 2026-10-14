@@ -441,3 +441,47 @@ prejudice", or a dates call that turns. Three forms:
 | 29–30 Oct | Follow-up if nothing has come |
 | Nov | Conference, if needed |
 | Nov–Dec | Consent orders, or a narrowed issue toward 2027 |
+
+## What they are really doing: five tracks (added 14 Oct)
+
+These are inferences, each tied to the record.
+
+1. **Inside OIR: preparing an unannounced decision.**
+   - A brief to Counsel: the 1 Oct package, the 8 Sep admissions, the 24 Sep outlines, the confirmed
+     MSH documents, RD 69983, and the psychiatrist's report (held since the 4 Jul 2025 Form 29).
+   - Counsel advises, a recommendation goes up, a delegate decides.
+   - Anchors: 7 Oct "looking over both emails and their contents" → 12 Oct "Counsel"; the 15-day
+     authorisation latency in July.
+2. **With the Commission: building a record of reasonableness.**
+   - Guide 5.1: "review its position or consider conceding the appeal where new information is
+     presented that they may not have yet considered".
+   - The record: agreed the conference; disclosed and vouched for the documents; offered to talk;
+     delay explained by Counsel's leave.
+   - Effect: any concession reads as a model litigant's response to new information (9A, admissions,
+     confirmed documents), not a two-year defence of a weak case. That protects them on costs and
+     reputation, and covers the 16 Jul Calderbank #2 rejection ("Should our position change at any
+     point, we will advise you as soon as possible"): the concession is framed as that promise kept.
+3. **With the Appellant: arm's length in writing, a sanctioned private line.**
+   - Nothing committing in writing (no 9C, no direction 5 answers, no "defend").
+   - A Commission-approved conversation before the conference to test what he would accept.
+   - Delay costs the Appellant more than the Regulator (structural, not alleged motive), which makes
+     a later quiet call more persuasive.
+4. **With MSH: closing the loop.**
+   - Documents prepared at MSH 24–28 Sep; "following up with MSH" 7 Oct; four MSH witnesses.
+   - MSH is told before the Appellant and asked its view.
+   - MSH's interest cuts both ways (no findings v. a compensable injury reframing the exclusion). The
+     Regulator decides.
+5. **With the clock: when, not whether.**
+   - 22 Oct is an unquestionable floor; conference mid–late Nov; a decision either side.
+   - If not settled by early December, the year-end break pushes it to 2027, so their timing is set
+     to decide before then.
+
+**One line.** They are preparing a decision they have not announced, and arranging the record so that
+either outcome reads as a reasonable response to new information. On the evidence, the decision being
+prepared is an exit.
+
+**For the Appellant.**
+- Let them have the face-saving frame; the goal is acceptance.
+- Do not let the clock set the terms (protocol: no answer on the spot, 48 hours, in writing).
+- Friday 16 Oct (Tab 32A) is the first live test: admitted on time means clearing the decks; silence
+  means everything waits on Counsel.
