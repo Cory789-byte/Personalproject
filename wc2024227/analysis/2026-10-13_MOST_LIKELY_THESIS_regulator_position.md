@@ -371,3 +371,73 @@ would have produced a request for time to plead, as in April.
 - A request for time to file an amended 9C.
 - A late expert report.
 - "Will be defending" restated.
+
+## The managed exit in detail (added 14 Oct)
+
+### How it would run on their side
+
+1. Counsel's written advice on prospects (under way, if Counsel drafted the 12 Oct email).
+2. MSH informed (its managers are the witnesses; its conduct is in issue).
+3. Internal sign-off by the delegate.
+4. The approach to the Appellant, through the "undertaking to speak with the Appellant": framed as
+   dates, with the position alongside or straight after.
+5. Consent orders under s 558(1)(c) (RD 69983 set aside; a decision accepting the claim
+   substituted). Under s 558(2) the substituted decision is the insurer's. Concessions are usually
+   finalised this way without published reasons (`2026-09-25_CAN_A_CASE_MANAGER_DECIDE_the_matter.md`).
+6. The conference is vacated or used to settle the form of orders.
+
+### Why an exit beats a hearing for them
+
+- **No published reasons** with a consent order. A lost hearing produces a published decision with
+  findings on the break, the roster and the managers' evidence under cross-examination.
+- **Counsel's cost** through a multi-day hearing with four MSH witnesses.
+- **Costs risk:** s 558(3); the guide says costs "generally 'follow the event'"; Calderbank #2 is on
+  file.
+- **The model litigant duty** the Commissioner relies on [59:42].
+
+### Recognising the approach (`skill/references/SETTLEMENT-APPROACH-protocol.md`, 5 Aug)
+
+It will not say "settlement": expect "a discussion about the conference", "arrangements", "without
+prejudice", or a dates call that turns. Three forms:
+1. **Full concession** ("will consent to orders…"): the best form; statutory entitlements flow.
+2. **Narrowing:** s 32 elements accepted, reasonableness kept on one or two particulars (most likely
+   1(l)). On Carr [60] (pinpoint to be confirmed) the question is the injury, not one stressor, and
+   most particulars sit outside the exclusion.
+3. **Conditional** ("concede if…"): apply the deed red lines (§4 of the protocol).
+
+### MSH cuts both ways
+
+- A concession avoids findings about its managers.
+- But an accepted claim reframes the exclusion since July as the management of a compensable injury,
+  bringing rehabilitation and return-to-work duties into the employment matter.
+- **Watch for scope creep:** any release, confidentiality or employment term is a different
+  negotiation. Rule 9: compensation claim only.
+
+### What acceptance gives
+
+- Benefits processed by the insurer from the date of injury.
+- The injury on record as compensable, which the employment track is sequenced behind (rule 8).
+- **Costs are a small lever in an early concession.** Costs are limited to the "costs of the
+  hearing" (guide p 37), and a self-represented party recovers out-of-pocket costs only. Do not let
+  costs hold up a clean concession.
+
+### Terms settled now
+
+1. **Form:** consent orders setting aside RD 69983 and substituting acceptance. Nothing informal or
+   verbal.
+2. **Scope:** the compensation claim only. No other release, no gag, nothing touching the PID or
+   protected acts.
+3. **Costs:** decide in advance between out-of-pocket disbursements and no order.
+4. **Process:** no answer on the spot; written response; 48 hours; same-day note of any call; tell
+   Petering first.
+
+### Calendar
+
+| When | What |
+|---|---|
+| Fri 16 Oct | Tab 32A admission due |
+| Thu 22 Oct | Counsel back |
+| Late Oct | The approach (dates, with or without a position) |
+| 29–30 Oct | Follow-up if nothing has come |
+| Nov | Conference, if needed |
+| Nov–Dec | Consent orders, or a narrowed issue toward 2027 |
