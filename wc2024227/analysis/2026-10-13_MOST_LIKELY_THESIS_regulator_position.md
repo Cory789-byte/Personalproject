@@ -268,3 +268,38 @@ to writing one is to concede.
 
 **Action.** Organise the one-page conference table by these four groups. Hold it; produce it only if
 asked.
+
+### An honest 9C would mirror the 9A's facts (added 14 Oct, Cory's point)
+
+**The facts layer would be the 9A.** Every causal particular is a dated event tied to an admitted
+fact. It cannot be denied without leave (r 49(3)), and restating it changes nothing. The 9C's facts
+section would be the 9A with "admits" in front.
+
+**What the 9C could add:**
+1. **Labels:** management action; reasonable; human error; not intentional or repeated; operational.
+   This is almost all of its original content, and each label needs evidence. The outlines concede
+   error on the central events.
+2. **A thin layer of its own facts,** only where the four witnesses go beyond the 9A:
+   - Taylor on 6 Jun 2023;
+   - Reese's eight-month review;
+   - the HR advice behind the retraction;
+   - "could refuse shifts"; the 2020 agreement "continues to apply";
+   - pay "corrected"; cl 18.10.
+
+   Mostly around 1(l) and Stressor 3.
+3. **A causation contention:** the Oct 2022 anxiety entry; employment not a significant factor. No
+   expert.
+
+**Side by side, the documents show the dispute is labels only.** That is what guide 5.1 has the
+conference do ("review, refine or narrow down the issues"; "whether any elements of s 32 … can be
+agreed"). The facts are already agreed. What remains is whether their labels survive their own
+evidence. On 7 Aug [28:43] the Commissioner said a characterisation "may be contradicted"; here it is
+the Regulator's characterisation that must stand up.
+
+**Nuance.** The 9A pleads contentions (injury; arising out of employment; s 32(5) does not exclude),
+as any 9A must. The particulars are facts; the contest lives in the contentions, which is where their
+9C would push back.
+
+**Why they will not write it.** It would show, in their own hand, that the facts are the Appellant's
+and that their defence is labels they cannot evidence on most particulars. Direction 5 asks for
+exactly that in miniature.
