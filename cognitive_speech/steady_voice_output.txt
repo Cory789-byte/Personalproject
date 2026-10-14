@@ -1,0 +1,13 @@
+== COURT
+SHEPHERD n=37 f0 134 Hz | r(pitch,level)=+0.15 | loudest fifth: pitch +0.31 st at +3.6 dB | within-segment f0 SD 2.90 st | segment-to-segment pitch SD 1.65 st
+MAGISTRATE n=47 f0 179 Hz | r(pitch,level)=+0.52 | loudest fifth: pitch +1.09 st at +3.5 dB | within-segment f0 SD 3.90 st | segment-to-segment pitch SD 1.28 st
+PROSECUTOR n=42 f0 127 Hz | r(pitch,level)=+0.57 | loudest fifth: pitch +1.05 st at +3.4 dB | within-segment f0 SD 4.18 st | segment-to-segment pitch SD 1.31 st
+  SHEPHERD: turns of 2-12 s: n=13, median pitch range 7.2 st (median length 7.5 s); questions asked: 1
+  MAGISTRATE: turns of 2-12 s: n=12, median pitch range 13.1 st (median length 5.4 s); questions asked: 13
+  PROSECUTOR: turns of 2-12 s: n=8, median pitch range 15.2 st (median length 4.9 s); questions asked: 0
+== MENTION
+MR SHEPHERD n=158 f0 137 Hz | r(pitch,level)=+0.15 | loudest fifth: pitch +0.89 st at +4.8 dB | within-segment f0 SD 2.28 st | segment-to-segment pitch SD 1.31 st
+DWYER IC n=828 f0 136 Hz | r(pitch,level)=+0.03 | loudest fifth: pitch +0.41 st at +3.2 dB | within-segment f0 SD 2.83 st | segment-to-segment pitch SD 1.20 st
+== INTERVIEW (acoustic clusters: C0 = Cory, C1 = officers)
+C0 Cory n=350 f0 132 Hz | r(pitch,level)=+0.28 | loudest fifth: pitch +1.69 st at +5.0 dB | within-segment f0 SD 3.80 st | segment-to-segment pitch SD 2.62 st
+C1 officers n=290 f0 99 Hz | r(pitch,level)=+0.45 | loudest fifth: pitch +3.93 st at +5.3 dB | within-segment f0 SD 4.02 st | segment-to-segment pitch SD 3.98 st

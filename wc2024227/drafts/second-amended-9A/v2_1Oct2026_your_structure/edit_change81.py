@@ -1,0 +1,5 @@
+# Election item 2: "direction 5 below" -> "item 5 below" (avoids confusion with FDO(3) direction 5)
+exec(open('edit_change68.py').read().split("CAUSAL=")[0])
+E=Doc('2026-10_REQUEST_election_and_directions_FINAL.docx')
+E.rep('2.','in accordance with direction 5 below.','in accordance with item 5 below.',contains='opening of the conference')
+E.save()

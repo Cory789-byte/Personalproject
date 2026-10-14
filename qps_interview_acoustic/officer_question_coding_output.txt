@@ -1,0 +1,61 @@
+check: 179 officer turns after 6:00 in the transcript; 179 coded; uncoded []; codes without a turn []
+word uptake, officers taking up Cory: n=163 | 8% of content words from the previous turn (shuffled 2%, x4.8) | turns reusing any word 26%
+word uptake, Cory taking up the officers: n=155 | 7% of content words from the previous turn (shuffled 1%, x4.6) | turns reusing any word 32%
+
+officer turns coded: 179 | procedure 14, acknowledgement 10, excluded 1 | substantive 154
+  ACCUSATORY           81 (53%): LEAD 27, CHAL 26, NARR 11, OPIN 10, PUT 7
+  CONTROL / REDIRECT   11 (7%): REDIR 7, CTRL 4
+  NEUTRAL              62 (40%): CLOSED 41, OPEN 17, ENG 4
+
+by window (substantive turns):  n | accusatory | control/redirect | neutral | of which open
+  06-10 min   1 |   0 (  0%) |   0 (  0%) |   1 (100%) | 1
+  10-20 min  30 |  11 ( 37%) |   3 ( 10%) |  16 ( 53%) | 4
+  20-30 min  25 |   7 ( 28%) |   3 ( 12%) |  15 ( 60%) | 6
+  30-40 min  21 |  16 ( 76%) |   1 (  5%) |   4 ( 19%) | 2
+  40-50 min  32 |  23 ( 72%) |   0 (  0%) |   9 ( 28%) | 3
+  50-60 min  34 |  21 ( 62%) |   2 (  6%) |  11 ( 32%) | 1
+  60-66 min  11 |   3 ( 27%) |   2 ( 18%) |   6 ( 55%) | 0
+  first half (6-30 min): accusatory 18/56 (32%)
+  second half (30-60 min): accusatory 60/87 (69%)
+
+uptake of what Cory had just said (substantive turns after one of his turns)
+  n=153 | explored his point P 46 (30%) | used his words to contest C 35 (23%) | did not engage N 72 (47%)
+  6-30 min: n=55 | P 38% | C 11% | N 51%
+  30-60 min: n=87 | P 22% | C 30% | N 48%
+  60-66 min: n=11 | P 55% | C 27% | N 18%
+
+flags: repeats of an answered question 24 | turns with control/interruption words 11 (CTRL turns 4 + inside other turns 7) | multiple questions 4 | redirect words inside a question 2 | aggrieved called the victim 1 | doubtful transcription 9
+direct accusations (PUT): 7 at 38:11, 38:27, 38:36, 40:54, 44:12, 46:53, 59:56
+opinion-of-conduct questions (OPIN): 10, all from 27:51 on
+
+evidence Cory offered -> the officers' next turn
+  15:31 phone messages                   -> 15:45 not taken up
+  17:56 USB footage; phone damage        -> 18:14 not taken up (redirected to the order)
+  22:45 unlock phone to show texts       -> 22:56 not taken up (next question on property)
+  24:22 document collection              -> 24:34 declined for this interview
+  40:41 video of the exchange            -> 40:45 what was said was asked about; the video was not
+  41:22 recording of leaving             -> 41:25 not taken up
+  42:01 camera footage                   -> 42:26 not taken up
+  59:08 the permission text              -> 59:10 not taken up; challenged on not giving it earlier
+  61:42 full download of the phone       -> 61:50 engaged; phone already seized, review deferred
+  62:03 summary of the message history   -> 62:09 interview wound up
+  offers 10 | taken up on the spot 0 | engaged but deferred 1 | content asked, evidence not 1 | not taken up 8 (1 declined, 1 at wind-up)
+
+alignment: 373 transcript turns, 326 acoustic turns, 236 matched; median |offset| 2.0 s
+response gap after Cory stopped (s): accusatory median 0.70 (n=43) | neutral 1.05 (n=35)
+  within 0.5 s: accusatory 28% | neutral 20%
+  permutation test, neutral minus accusatory median +0.35 s: p = 0.095 (one-sided)
+  6-30 min: accusatory 1.18 (n=11) | neutral 1.05 (n=17)
+  30-60 min: accusatory 0.65 (n=32) | neutral 0.95 (n=13)
+  all officer turns after one of Cory's, by window (median gap, s):  10-20 1.64 | 20-30 1.11 | 30-40 0.65 | 40-50 1.00 | 50-60 0.63
+officer level relative to their own median (dB): accusatory -0.1 (n=45) | neutral -0.9 (n=36)
+
+Cory's next reply (words), by the kind of officer turn before it
+  after open/probing            : median    23 words (n=17)
+  after neutral closed/engaged  : median    15 words (n=45)
+  after do-you-agree            : median    16 words (n=27)
+  after challenge               : median    16 words (n=26)
+  after opinion of conduct      : median    22 words (n=10)
+  after accusation              : median     7 words (n=7)
+  after narration/evidence      : median    11 words (n=11)
+  after control/redirect        : median     9 words (n=11)

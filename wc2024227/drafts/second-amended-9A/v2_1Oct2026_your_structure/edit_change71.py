@@ -1,0 +1,5 @@
+exec(open('edit_change68.py').read().split("CAUSAL=")[0])
+d=Doc('2026-10_SECOND_AMENDED_9A_FINAL.docx')
+d.rep("Payroll's direction to the Manager's",'"still waiting" email, 21 May 2024','email of 21 May 2024 that she was still waiting for payroll confirmation',contains='still waiting')
+d.rep('Context and the Respondent','and at paragraph 3 below,','and at Part B.3 below,')
+d.save(); print('ok')

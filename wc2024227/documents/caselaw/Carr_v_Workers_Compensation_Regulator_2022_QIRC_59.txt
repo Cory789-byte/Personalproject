@@ -1,0 +1,1731 @@
+QUEENSLAND INDUSTRIAL RELATIONS COMMISSION
+CITATION: Carr v Workers' Compensation Regulator
+[2022] QIRC 059
+PARTIES: Carr, Donna Noreen
+Appellant
+v
+Workers' Compensation Regulator
+Respondent
+CASE NO: WC/2021/4
+PROCEEDING: Appeal against a decision of the Workers'
+Compensation Regulator
+DELIVERED ON: 1 March 2022
+HEARING DATES: 6 October 2021 and 7 October 2021
+DATES OF WRITTEN CLOSING Appellant's submissions, 10 November 2021
+SUBMISSIONS: Respondent's submissions, 14 December 2021
+The Appellant did not file any reply
+submissions
+MEMBER: McLennan IC
+HEARD AT: Brisbane
+ORDERS: 1. The appeal is allowed.
+2. The decision of the Respondent of 4
+December 2020, as set out in the
+correspondence dated 18 December
+2020, is set aside.
+3. The Appellant's application for
+compensation under the Workers'
+Compensation and Rehabilitation Act
+2003 (Qld) is accepted.
+
+2
+4. The Respondent is to pay the
+Appellant's costs of the hearing, to be
+agreed or, failing agreement, to be
+subject to a further application to the
+Commission.
+CATCHWORDS: WORKERS' COMPENSATION – APPEAL
+AGAINST DECISION OF WORKERS'
+COMPENSATION REGULATOR –
+consideration of the date a psychological /
+psychiatric injury was sustained – whether the
+psychological /psychiatric injury arose out of or
+in the course of employment – whether
+employment was the major significant
+contributing factor to psychological /
+psychiatric injury – whether psychological /
+psychiatric injury arose out of, or in the course
+of reasonable management action taken in a
+reasonable way
+LEGISLATION: Industrial Relations Act 2016 (Qld) s 545
+Workers' Compensation and Rehabilitation
+Act 2003 (Qld) s 11, s 32, s 558
+Workers' Compensation and Rehabilitation
+Regulation 2014 (Qld) s 132
+CASES: Allwood v Workers' Compensation Regulator
+[2017] QIRC 88
+Blackwood v Mahaffey [2016] ICQ 10
+Church v Simon Blackwood (Workers'
+Compensation Regulator) [2015] ICQ 031
+Davidson v Blackwood [2014] ICQ 008
+Davis v Blackwood [2014] ICQ 009
+Delaney v Q–COMP Review Unit (2005) 178
+QGIG 197
+Hardy v Simon Blackwood (Workers'
+Compensation Regulator) [2015] QIRC 027
+Kavanagh v Commonwealth (1960) 103 CLR
+547
+
+3
+Keen v Workers' Rehabilitation and
+Compensation Corporation (1998) 71 SASR 42
+Lawton v Simon Blackwood (Workers'
+Compensation Regulator) [2015] QIRC 99
+Prizeman v Q–COMP (2005) 180 QGIG 481
+Q-COMP v Hohn (2008) 187 QGIG 139
+Read v Workers' Compensation Regulator
+[2017] QIRC 072
+Ribeiro v Workers' Compensation Regulator
+[2019] QIRC 203
+Sabo v Q–COMP [2010] ICQ 47
+Seltsam Pty Ltd v McGuiness (2000) 49
+NSWLR 262
+State of Queensland (Department of
+Agriculture and Fisheries) v Workers'
+Compensation Regulator [2020] QIRC 097
+State of Queensland (Queensland Health) v Q–
+Comp and Beverley Coyne (2003) 172 QGIG
+1447
+Tuesley v Workers' Compensation Regulator
+[2021] QIRC 071
+Waugh v Simon Blackwood (Workers'
+Compensation Regulator) [2015] ICQ 028
+WorkCover Queensland v Kehl (2002) 170
+QGIG 93
+Workers' Compensation Regulator v Langerak
+[2020] ICQ 2
+Workers' Compensation Regulator v
+Queensland Nurses and Midwives' Union of
+Employees (No 2) [2021] ICQ 13
+APPEARANCES: Mr C D Watters of counsel instructed by My
+Work Rights Industrial Advocates for the
+Appellant.
+
+4
+Ms L Willson of counsel, directly instructed by
+the Respondent.
+Reasons for Decision
+[1] Ms Donna Carr got her start in an entry-level administration position with Road Freight
+Services1 at age 23.
+[2] Over the next 18 years, Ms Carr progressed to a highly significant position with extensive
+responsibilities within the company. The scope of her duties as "office manager"2 "in
+charge of finances, admin teams, so forth"3 included: supervising the administration staff,
+liaising with the accountant, liaising with the bank, ordering office supplies,
+reconciliation, setting up the Bundy Clock system with regards to payroll,4 accounts
+receivable, accounts payable, superannuation, taxation, operations accounts and funds
+controller, trusts and properties.5
+[3] Against the backdrop of several challenges and changes at work, Ms Carr sustained a
+psychological injury in 2019.
+[4] Ms Carr lives locally on the Gold Coast with her husband and two children.
+Claim details
+[5] Ms Carr lodged an application for compensation (the application) with WorkCover
+Queensland (WorkCover) on 12 December 2019.6
+[6] Her claim was in respect of having sustained a psychological injury described as "stress
+psychological"7 to which she succumbed on 30 July 2019 due to "cumulative stress".8
+[7] WorkCover rejected Ms Carr's application, concluding that her injury resulted from
+reasonable management action taken in a reasonable way. This had the effect of
+excluding Ms Carr's application pursuant to s 32(5) of the Workers' Compensation and
+Rehabilitation Act 2003 (Qld) ('the Act').9
+[8] Ms Carr applied to the Workers' Compensation Regulator ('the Regulator') to review that
+decision on 9 July 2020.
+[9] The Regulator confirmed WorkCover's decision in correspondence dated 18 December
+2020.
+1 SRV Management Pty Ltd, trading as Road Freight Services.
+2 T 2 – 57, line 39.
+3 T 2 – 45, line 33.
+4 T 1 – 22, lines 12 – 13.
+5 T 2 – 57 – T 2 – 59.
+6 Regulator's Review Decision correspondence, 18 December 2020, 1.
+7 Ibid.
+8 Ibid.
+9 Ibid 2.
+
+5
+[10] Ms Carr subsequently filed this appeal against the Regulator's decision on 15 January
+2021.
+What legal tests must be satisfied for Ms Carr's appeal to succeed?
+[11] The definition of injury, per the iteration of the Act at the relevant time, was (emphasis
+added):
+32 Meaning of injury
+(1) An injury is personal injury arising out of, or in the course of, employment if -
+(a) for an injury other than a psychiatric or psychological disorder - the employment is a
+significant contributing factor to the injury; or
+(b) for a psychiatric or psychological disorder - the employment is the major significant
+contributing factor to the injury.
+…
+(3) Injury includes the following –
+(ba) an aggravation of a psychiatric or psychological disorder, if the aggravation arises
+out of, or in the course of, employment and the employment is the major significant
+contributing factor to the aggravation;
+…
+(4) For subsection (3)(b) and (ba), to remove any doubt, it is declared that an aggravation
+mentioned in the provision is an injury only to the extent of the effects of the aggravation.
+(5) Despite subsections (1) and (3), injury does not include a psychiatric or psychological
+disorder arising out of, or in the course of, any of the following circumstances -
+(a) reasonable management action taken in a reasonable way by the employer in
+connection with the worker's employment;
+(b) the worker's expectation or perception of reasonable management action being taken
+against the worker;
+(c) action by the Regulator or an insurer in connection with the worker's application for
+compensation.
+Examples of actions that may be reasonable management actions taken in a reasonable way-
+• action taken to transfer, demote, discipline, redeploy, retrench or dismiss the worker
+• a decision not to award or provide promotion, reclassification or transfer of, or leave
+of absence or benefit in connection with, the worker's employment.
+[12] An injury arises out of employment where there is a causal connection between the
+employment and the injury.10
+[13] Additionally, the employment must be the major significant contributing factor in the
+case of a psychiatric or psychological disorder.
+[14] An appeal such as this is a hearing de novo.11 The Appellant bears the onus to prove, on
+the balance of probabilities, that she sustained an injury within the meaning of the Act.
+10 Kavanagh v Commonwealth (1960) 103 CLR 547, 558–559.
+11 Church v Simon Blackwood (Workers' Compensation Regulator) [2015] ICQ 031, [27]; State of Queensland
+(Queensland Health) v Q–Comp and Beverley Coyne (2003) 172 QGIG 1447.
+
+6
+As explained by Deputy President Merrell in Ribeiro v Workers' Compensation
+Regulator:
+The balance of probabilities test requires a court to reach a level of actual persuasion and that
+process does not involve a mechanical application of probabilities.12
+What are the questions to be determined?
+[15] There is no dispute between the parties that:
+• Ms Carr was a worker within the meaning of s 11 of the Act, during the relevant
+period;13 and
+• Ms Carr sustained a personal injury in the form of a psychological condition,14
+namely anxiety and depression.15
+[16] The questions to be determined are:
+• the date of injury;
+• whether the personal injury arose out of, or in the course of, Ms Carr's employment;
+• if so, whether Ms Carr's employment was the major significant contributing factor
+to her psychiatric injury; and
+• if so, whether Ms Carr's psychological injury arose out of, or in the course of,
+reasonable management action taken in a reasonable way by the employer in
+connection with her employment.
+Summary of Findings
+[17] For the reasons that follow, I find that:
+• the date of Ms Carr's psychological injury was 30 July 2019;
+• Ms Carr's psychological injury did arise out of, or in the course of, her employment;
+• Ms Carr's employment was the major significant contributing factor to her
+psychological injury; and
+• Ms Carr's psychological disorder did not arise out of, or in the course of, reasonable
+management action taken in a reasonable way by the employer in connection with
+her employment.
+12 [2019] QIRC 203, [101], citing Seltsam Pty Ltd v McGuiness (2000) 49 NSWLR 262, [136].
+13 Respondent's Closing Submissions, 14 December 2021, 1 [3].
+14 Ibid.
+15 Mention Transcript: T 1 – 3, lines 3 – 5.
+
+7
+Evidence and submissions
+[18] Written closing submissions were directed in the order Appellant – Respondent –
+Appellant (in reply, on issues of law only).
+[19] The Appellant's written closing submissions were filed on 10 November 2021.
+[20] The Respondent's written closing submissions were filed on 14 December 2021.
+[21] The Appellant did not file any written closing submissions in reply.
+[22] The evidence of the six witnesses and 17 Exhibits tendered at the Hearing, together with
+the written closing submissions, the Statements of Facts and Contentions, the Workers'
+Compensation Regulator notice of appeal and other materials filed in this matter were
+considered in this Decision. I have determined not to approach the writing of this
+Decision by summarising the entirety of the evidence provided and submissions made,
+but will instead refer to the parties' positions in my consideration of each question to be
+decided.
+Witnesses
+[23] The witnesses for the Appellant's case were:
+• Ms Donna Carr, the Appellant herself;
+• Ms Tracey Taylor, the Appellant's former work colleague;
+• Ms Margaret Powell, the Appellant's former work colleague; and
+• Dr John Chalk, a Consultant Psychiatrist.
+[24] The witnesses for the Respondent's case were:
+• Mrs Melanie Cosgrove, Business Manager, SRV Management Pty Ltd16 (formerly
+Fleet and Compliance Manager);17 and
+• Mr Errol Cosgrove, Company Director,18 SRV Management Pty Ltd.19
+What date was Ms Carr's psychological injury sustained?
+[25] It is not disputed that Ms Carr has a psychological injury, namely anxiety and
+depression.20
+16 Trading as Road Freight Services.
+17 T 1 – 27, lines 19 – 23.
+18 T 1 – 45, line 27.
+19 Trading as Road Freight Services.
+20 Mention Transcript: T 1 – 3, lines 3 – 5.
+
+8
+[26] Specifically, Dr John Chalk's report dated 29 February 2020 assessed Ms Carr's
+psychological condition to be "an adjustment disorder with depressed and anxious
+mood."21
+[27] The Appellant's position was that "the date of injury may have been as early as 30 July
+2019 and / or 5 August 2019",22 though the "injury may have occurred as late as 10
+October 2019".23 Ms Carr's injury was said to have occurred over time in the period
+between 30 July to 10 October 2019.24
+[28] The Respondent's position is that the date of injury is 30 July 2019.25
+[29] In determining the question of the date of injury, the following evidence is relevant:
+GP consultation – 30 July 2019
+[30] On 30 July 2019, Ms Carr consulted her GP, Dr Peter Gold.26
+[31] The GP records of that date described the reason for Ms Carr's visit as "Mental health
+consult". The notes indicated Ms Carr was "struggling with MH" and had described
+"unbearable" work pressures and dynamics. She was provided with a medical certificate.
+[32] The Appellant's Statement of Facts and Contentions referred to the GP consultation in
+these terms:
+…she was not coping with her current employment situation and the effect it is having on my and
+all parts of my life she had a breakdown.27
+GP consultation – 5 August 2019
+[33] On 5 August 2019, Ms Carr again consulted her GP, Dr Peter Gold.28
+[34] The GP records of that date described the reason for Ms Carr's visit as "Mental health
+care plan". The notes stated the diagnosis of Ms Carr's psychological condition as
+"Anxiety / Depression." Ms Carr's self-reported symptoms were assessed as "moderately
+severe depression" and "severe anxiety."
+[35] At that time, Ms Carr was referred to Dr Jan Murgatroyd, Psychologist.
+Workers' compensation medical certificate
+[36] On 12 December 2019, a Queensland workers' compensation medical certificate was
+issued.29 That document certified that Ms Carr was first seen for the injury diagnosed as
+21 Exhibit 2, 55.
+22 Appellant's Closing Submissions, 10 November 2021, 2 [11].
+23 Ibid [12]; That is, the date of Ms Carr's last day at work.
+24 Appellant's Closing Submissions, 10 November 2021, 3 [17].
+25 Respondent's Closing Submissions, 14 December 2021, 1 [8].
+26 Exhibit 2, 36.
+27 Appellant's Statement of Facts and Contentions, 26 March 2021, 3 [q].
+28 Exhibit 2, 37.
+29 Ibid 57.
+
+9
+"work related stress disorder leading to anxiety / depression" on 30 July 2019. It further
+indicated that the "worker stated date of injury" to be 18 July 2019.
+WorkCover claim
+[37] On 12 December 2019, Ms Carr lodged a WorkCover claim.30 That claim nominated the
+date of injury to be 18 July 2019. Further, the document stated that the employer was
+advised about the injury on 31 July 2019.
+Dr Chalk's evidence
+[38] At the Hearing, Dr Chalk's evidence was that Ms Carr had advised him that she had a
+range of symptoms including difficulties with her motivation in July 2019. Dr Chalk
+opined that would be "consistent with the diagnosis of adjustment disorder."31
+Ms Carr's evidence
+[39] At the Hearing, Ms Carr accepted that she went to the GP to seek help on 30 July 2019
+because she was not coping.32
+[40] Ms Carr described the "breakdown" she experienced at the GP consultation on 30 July
+2019 in these terms:
+The work situation that I was in was affecting all parts of my life, and I wasn't coping with that, and
+I wasn't functioning as the - as a – as a person.33
+Consideration
+[41] I consider the following points to be persuasive in finding 30 July 2019 to be the date of
+Ms Carr's psychological injury:
+• the Queensland workers' compensation medical certificate stated the date that Ms
+Carr was first seen for her psychological injury was 30 July 2019;
+• Dr Chalk's evidence was that Ms Carr's reported symptoms in July 2019 were
+"consistent with the diagnosis of adjustment disorder";
+• Ms Carr's evidence was that she had a breakdown at the GP visit on 30 July 2019,
+where she went to seek help because she was not coping;
+• the GP notes of 30 July 2019 confirm the reason for Ms Carr's visit as "Mental
+health consult" and she was issued a medical certificate at that time;
+• when Ms Carr returned to her GP about a week later, she was issued with a Mental
+Health Care Plan, referred to a Psychologist and a diagnosis of "Anxiety /
+Depression" was recorded; and
+30 Ibid 2.
+31 T 1 – 16, lines 5 – 10.
+32 T 1 – 87, line 30; T 1- 84, line 31.
+33 T 1 – 84, lines 22 – 24.
+
+10
+• the WorkCover claim submitted by Ms Carr nominated the date of injury to be
+about a fortnight earlier that 30 July 2019 – certainly not later than that date –
+though indicated that the employer was advised about the injury on 31 July 2019.
+Both those dates are proximate to 30 July 2019.
+[42] I recognise that both parties have cited the decision of Industrial Commissioner Hartigan
+in Tuesley v Workers' Compensation Regulator in that:
+It is accepted that an injury may occur over time. As such, the matters leading up to when the injury
+is sustained, albeit over a period of time may be considered relevant to the causation of that injury.34
+[43] Notwithstanding Ms Carr's psychological injury did indeed appear to have "arisen over
+a period of time", it is clear on the evidence before me that by 30 July 2019 she was very
+unwell.
+[44] As observed above,35 the matters leading up to 30 July 2019 may be considered relevant
+to the causation of that injury. Put another way, the events said to have occurred after
+that date are not.
+[45] As Counsel for the Appellant explained "…the establishment of the injury date signifies
+a cut-off point, after which evidence of stressors contributing to the injury are no longer
+relevant."36
+Did Ms Carr's personal injury arise out of, or in the course of, her employment?
+If so, was Ms Carr's employment the major significant contributing factor to her
+psychiatric injury?
+[46] In cross-examination, several potential stressors (other than work) were put to Dr Chalk
+in relation to the causation of Ms Carr's injury.37 Those included the passing of Ms Carr's
+father, a "cancer scare" and the fallout from becoming embarrassingly intoxicated at a
+work-related event in Melbourne. However, Dr Chalk maintained his view that it was
+"work" that was the significant factor to the development of Ms Carr's condition.38
+[47] Psychological injuries sustained before 30 October 2019 are required to meet the test of
+"major significant contributing factor". That is the case here.
+[48] Dr Chalk opined in his report that the causation of Ms Carr's psychological injury was
+rooted in her work:
+…it would appear that the interaction with (Ms X),39 who was not following directions and not
+completely tasks, and the lack of support that she received from Errol in all this, was the crux of the
+34 [2021] QIRC 071, [16].
+35 [42] of this Decision.
+36 Appellant's Closing Submissions, 10 November 2021, 2 [9].
+37 T 1 – 17, lines 6 – 47; T 1 – 18, lines 1 – 30.
+38 T 1 – 18, lines 23 – 30.
+39 The name of the worker is not materially relevant to this Decision.
+
+11
+matter. She felt that she was "shot down if I tried to have a discussion" and "I didn't understand the
+relationship between (Ms X) and Errol.40
+…
+This 43 year old lady developed an adjustment disorder with depressed and anxious mood. This
+had been in the setting of difficulties in the workplace that had arisen over a period of time, although
+it would appear that there is some discrepancy between her account and the lengthy statement by
+her employer with regards to matters. It would certainly appear that Ms Carr felt increasingly
+harassed and marginalised in the workplace and at least, from her own account, there does not seem
+to have been any clear discussion of any change or delineation of duties.
+Whilst it would appear that work has been the only factor of significance leading to the development
+of her condition, in these circumstances, the issue of management action and the reasonableness or
+otherwise of that emerges.41
+[49] That evidence led the Respondent to concede in closing that "…it is open to the
+Commission to find that the Appellant's injury arose out of employment in circumstances
+where employment was the major significant contributing factor."42
+[50] That settled these two questions by agreement between the parties.
+Nominated Stressors in the relevant period
+[51] The Appellant's Statement of Facts and Contentions contains 9 nominated stressors said
+to have occurred prior to, or on, 30 July 2019.43
+[52] The events contained in the table below are based closely on the relevant sections of the
+List of Stressors, supplemented in part by the contents of the Appellant's Statement of
+Facts and Contentions.44 Those matters will be considered further in this Decision.
+No. Date Title Description
+1 November Meeting request Ms Carr requested an offsite meeting with Mr Errol
+2018 Cosgrove and Mr Shane Basile regarding the affects
+the stress of her job was having on her health.
+In the subsequent meeting held on 2 November 2018,
+Ms Carr raised concerns about sub-standard cash flow,
+invoicing financial controls payroll, taxation and
+significant staff shortages and related under resourcing
+in the financial and administrative work units of the
+business. Ms Carr also discussed her relationship with
+SRV in relation to 'Expectation v Performance', 'Effort
+v Reward' and the affect the stress of her job was
+having on her health.
+2 January Advising not keeping During this period, Ms Carr verbally and by way of
+2019 – June up nor coping with physical demeanour communicated on many
+2019 workload occasions to Mr Errol Cosgrove, Mr Shane Basile and
+Mr Brad Lane she was not keeping up nor coping with
+her workload.
+The plans put in place during the offsite meeting on 2
+November 2018 were not being followed.
+40 Exhibit 2, 50, lines 35 – 39.
+41 Ibid 55, lines 153 – 164.
+42 Respondent's Closing Submissions, 14 December 2021, 2 [21].
+43 Appellant's Statement of Facts and Contentions, 26 March 2021.
+44 Ibid 1 – 3, 7 – 8.
+
+12
+No. Date Title Description
+On 1 April 2019, a one-week onsite business review
+was conducted by an external accountant, Mr Richard
+Grumont, who advised Mr Cosgrove that Ms Carr's
+"responsibility level was unreasonable along with her
+workload."
+In late May 2019, Ms Carr expressed her concerns to
+Mr Cosgrove and Mr Basile over re-hiring of some
+staff she considered to have been poor performers.
+In June 2019, Ms X was engaged through Hays
+Recruitment to undertake Accounts Payable data
+entry.
+On 11 June 2019, Ms Y45 (former employee) was re-
+hired on a 9 week contract to undertake Accounts
+Receivable data entry.
+3 8 July 2019 Uncommunicated Mr Errol Cosgrove made uncommunicated changes to
+changes made by Mr the system of work and engages Ms X in bookkeeping
+Errol Cosgrove / accounting tasks. Ms X appears to be promoted by
+Mr Cosgrove and commences issuing directive to
+administration staff which undermines Ms Carr's
+senior position to the staff within her team.
+Ms Carr starts to feel targeted, intimidated, harassed
+and bullied which caused her significant angst and
+stress.
+4 17 July Email regarding Ms Carr sent an email to Mr Errol Cosgrove (cc Mr
+2019 concerns about Ms X Shane Basile and Mr Brad Lane) regarding her
+concerns about the entire shift in the workplace which
+included direct contact between Mr Cosgrove and Ms
+X.
+5 18 July Meeting with Mr Errol Mr Errol Cosgrove yelled at Ms Carr "Are you
+2019 Cosgrove, Mr Shane coming?" which shocked Ms Carr as he had never
+Basile and Mrs yelled at her before. Mrs Melanie Cosgrove was also
+Melanie Cosgrove in attendance at the meeting.
+Ms Carr had understood the purpose of the meeting
+would be to discuss the contents of her email sent the
+previous day; however general business matters were
+discussed including the need for an in-house financial
+person to provide more assistance. Ms Carr tried to
+voice her views but was ignored and felt she was
+being talked at rather than talked with.
+6 19 July Meeting with Mr Errol Mr Errol Cosgrove and Mrs Melanie Cosgrove
+2019 Cosgrove and Mrs insisted on Ms Carr attending a meeting with them to
+Melanie Cosgrove discuss the email Ms Carr sent on 17 July 2019.
+During the meeting Mr Cosgrove verbally agrees that
+perhaps he did not deal with Ms X change in position
+correctly. Mrs Cosgrove advised Ms Carr "will need
+to find a way to work with (Ms X)."
+7 23 July Melbourne Trip Ms Carr felt compelled to take the trip to Melbourne
+2019 – 26 and attend a work-related dinner with Ms X. Due to
+July 2019 feeling stressed and anxious from the situation she felt
+forced into, it led to Ms Carr overindulging while
+drinking alcohol at the work-related dinner.
+45 The name of the worker is not materially relevant to this Decision.
+
+13
+No. Date Title Description
+Ms Carr spent 4 days at the Melbourne office with Ms
+X, who travelled on the same flight and car from the
+airport to the office.
+8 26 July Ms X's disclosure Ms X disclosed to Ms Carr her knowledge of specific
+2019 content of Ms Carr's email dated 17 July 2019. This
+made Ms Carr uncomfortable and anxious, as that
+information should have remained confidential.
+9 30 July Breakdown at GP's Ms Carr attended Our Home Medical at 8 pm and
+2019 office upon advising that she was not coping with her current
+employment situation she had a breakdown. Dr Peter
+Gold issued a medical certificate from 31 July 2019 to
+2 August 2019.
+[53] The remaining 14 nominated events in the List of Stressors said to have occurred after
+30 July 2019 cannot have caused the injury on that date.46 As those will not be considered
+further in this Decision, I have not repeated them here.
+[54] The Respondent has submitted that the Appellant is bound by their case specified.
+Did Ms Carr's psychological injury arise out of, or in the course of, reasonable
+management action taken in a reasonable way by the employer in connection with
+her employment?
+[55] A psychiatric or psychological disorder is not taken to be an 'injury' under the Act where
+it arises out of "reasonable management action taken in a reasonable way by the employer
+in connection with the worker's employment".
+[56] The definition of injury, per the iteration of the Act at the relevant time, provides for that
+exclusion as follows (emphasis added):
+32 Meaning of injury
+…
+(5) Despite subsections (1) and (3), injury does not include a psychiatric or psychological
+disorder arising out of, or in the course of, any of the following circumstances -
+(a) reasonable management action taken in a reasonable way by the employer in
+connection with the worker's employment;
+(b) the worker's expectation or perception of reasonable management action being taken
+against the worker;
+(c) action by the Regulator or an insurer in connection with the worker's application for
+compensation.
+Examples of actions that may be reasonable management actions taken in a reasonable way-
+• action taken to transfer, demote, discipline, redeploy, retrench or dismiss the worker
+• a decision not to award or provide promotion, reclassification or transfer of, or leave
+of absence or benefit in connection with, the worker's employment.
+46 Appellant's Statement of Facts and Contentions, 26 March 2021, 9 – 10.
+
+14
+"Reasonable management action taken in a reasonable way"
+[57] Justice Martin has observed in Davis v Blackwood that:
+The task of the Commission when applying s 32(5) does not involve setting out what it regards as
+the type of actions that would have been reasonable in the circumstances. There may be any number
+of actions or combinations of actions which would satisfy s 32(5). The proper task is to assess the
+management action which was taken and determine whether it was reasonable and whether it was
+taken in a reasonable way. Sometimes, that may involve consideration of what else might have
+been done but that will only be relevant to whether what was done was, in fact, reasonable.47
+[58] In Blackwood v Mahaffey, Justice Martin further said that:
+The difficulties in construing s 32(5) support the conclusion that more than one interpretation of s
+32 is available and that, therefore, the beneficial interpretation approach should be applied. In the
+cases decided in this Court, any attempt to provide some type of formula or application of dominant
+cause has been rejected. Section 32 must be applied in light of the evidence accepted by the
+Commission. If, after considering all the relevant evidence and weighing up the factors which were
+accepted as having given rise to the personal injury, the Commission forms a conclusion that any
+of the conduct referred to in s 32(5) does not, on balance, displace the evidence in favour of the
+worker then a finding in the workers favour must follow.48
+[59] Deputy President Merrell explained in State of Queensland (Department of Agriculture
+and Fisheries) v Workers' Compensation Regulator that:49
+The determination of whether the management action is reasonable and whether such action was
+taken in a reasonable way is evaluative as well as judgemental.50 Whether the management action
+is reasonable and whether such action was taken in a reasonable way will be an inquiry of fact to
+be determined objectively.51
+Reasonableness does not necessarily equate with 'industrial fairness' although considerations of
+'fairness' will always be relevant.52 An imperfection in management action may not justify the
+characterisation of the management action as unreasonable.53 Management action need only be
+reasonable; it does not need to be perfect. Instances of imperfect but reasonable management action
+may, in the appropriate circumstances, be considered a blemish and management action does not
+need to be without blemish to be reasonable.
+Reasonable, in the context of s 32(5) of the Act, means reasonable in all the circumstances of the
+case.54 It is the reality of the employer's conduct that must be considered and not the employee's
+perception of the employer's conduct.55
+However, the reasonableness of action by management has to be considered '… in connection with
+the worker's employment' which requires consideration of all disparate elements which contribute
+to the injury.56 In an appropriate case, that consideration may require a global view of the
+47 [2014] ICQ 009, [47].
+48 [2016] ICQ 10, [57].
+49 [2020] QIRC 097, [25] – [28].
+50 Sabo v Q–COMP [2010] ICQ 47, [21].
+51 Lawton v Simon Blackwood (Workers' Compensation Regulator) [2015] QIRC 99, [65] citing Keen v Workers'
+Rehabilitation and Compensation Corporation (1998) 71 SASR 42, 47 – 48.
+52 Delaney v Q–COMP Review Unit (2005) 178 QGIG 197, 197.
+53 Q–COMP v Hohn (2008) 187 QGIG 139, 146.
+54 WorkCover Queensland v Kehl (2002) 170 QGIG 93, 94.
+55 Prizeman v Q–COMP (2005) 180 QGIG 481, 481.
+56 Waugh v Simon Blackwood (Workers' Compensation Regulator) [2015] ICQ 028, [41].
+
+15
+management action to determine if the action was reasonable.57 However, simply because a large
+number of stressors are nominated does not mean a consideration of the impact of the stressors on
+a global basis is justified.58
+[60] His Honour Martin J observed in Workers' Compensation Regulator v Langerak
+(emphasis added):
+The ultimate question under s 32(5)(a) is whether the injury, not any one stressor, arose out of, or
+in the course of, reasonable management action taken in a reasonable way by the employer in
+connection with the worker's employment. The determination made in respect of s 32(5)(a) is one
+made by weighing reasonable management action against other employment factors in light of the
+whole of the evidence.59
+"Management action"
+[61] With respect to defining "management action", his Honour DP O'Connor (as he then was)
+referred to his earlier decision in Read v Workers' Compensation Regulator where he
+explained that:
+Management action is not defined in the Workers' Compensation Act 2003. Indeed, very little has
+been written in this jurisdiction to assist in the interpretation of the expression "management
+action".60
+[62] In Allwood v Workers' Compensation Regulator, his Honour further stated that (emphasis
+added):
+The concept of management action in the context of a worker's employment, and for the purposes
+of the Act, is not so broad that it encompasses anything and everything that a manager does or says
+in the particular workplace, rather the expression "management action" relates to those actions
+61
+undertaken when managing the worker's employment.
+[63] With respect to the consideration of the expression at [57] above, I find that Stressors 1
+– 8 in paragraph [52] above each involved allegations of events that would constitute the
+exercise of 'management action'. That is, it is clear that each of those particular events
+comprised "actions undertaken when managing the worker's employment".
+"Arising in the course of"
+[64] It has been said that "It has generally been accepted that these words do not require a
+causative element but a temporal one…"62
+[65] Ms Carr worked at Road Freight Services63 for 18 years. The nine stressors nominated
+by Ms Carr were each said to have occurred within the period of her employment.
+[66] The parties have accepted the evidence of Dr Chalk as to the causation of Ms Carr's
+psychological injury, being "work".
+57 Ibid [42].
+58 Hardy v Simon Blackwood (Workers' Compensation Regulator) [2015] QIRC 027, [15].
+59 [2020] ICQ 2, 18 [86].
+60 [2017] QIRC 072, 5 [8].
+61 [2017] QIRC 88, [60].
+62 LexisNexis, Industrial Law Queensland, Service 119, 110, 116 [71,005].
+63 SRV Management Pty Ltd, trading as Road Freight Services.
+
+16
+[67] The events alleged in Ms Carr's nominated stressors 1 - 8 would each involve the exercise
+of management action.
+[68] Therefore, I am satisfied that Ms Carr's psychological injury "arose in the course of"
+"management action" "in connection with her employment".
+[69] To satisfy this test, it is sufficient for Ms Carr to prove that the psychological injury either
+arose "out of" or "in the course of" reasonable management action taken in a reasonable
+way. It need not be both.
+[70] Though for the sake of completeness, I will proceed to consider the second limb of the
+test below.
+"Arising out of"
+[71] The phrase "arising out of" involves a causal or consequential relationship between the
+management action and the injury, but does not require a direct or proximate
+relationship.64
+[72] The events alleged in Ms Carr's nominated stressors 1 - 8 would each involve the exercise
+of management action.
+[73] Therefore, I am also satisfied that Ms Carr's psychological injury "arose out of"
+"management action" "in connection with her employment".
+Was the management action "reasonable" and "taken in a reasonable way"?
+[74] Having established the 9 nominated events said to have occurred in the relevant period,
+my task is now to consider whether those particular circumstances can be substantiated
+on the evidence before me. In other words, did those events occur as Ms Carr says they
+did?
+[75] For each of the 9 nominated events that I find to be substantiated on the balance of
+probabilities, my task is then to consider for each whether or not they constituted
+"reasonable management action taken in a reasonable way".
+Consideration – Nominated Stressor 1
+No. Date Title Description
+1 November Meeting Ms Carr requested an offsite meeting with Mr Errol Cosgrove and Mr
+2018 request Shane Basile regarding the affects the stress of her job was having on
+her health.
+In the subsequent meeting held on 2 November 2018, Ms Carr raised
+concerns about sub-standard cash flow, invoicing financial controls
+payroll, taxation and significant staff shortages and related under
+resourcing in the financial and administrative work units of the
+business. Ms Carr also discussed her relationship with SRV in
+64 Avis v WorkCover Queensland [2000] QIC 67; as cited in the Regulator's Review Decision, 18 December
+2020, 15.
+
+17
+No. Date Title Description
+relation to 'Expectation v Performance', 'Effort v Reward' and the
+affect the stress of her job was having on her health.
+[76] The above description of the nominated stressor is drawn from the Appellant's Statement
+of Facts and Contentions and List of Stressors.65
+[77] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[78] With respect to this particular nominated stressor, I have earlier found that it would have
+been characterised as 'management action'. That is accepted by the Respondent.66
+[79] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+Ms Carr
+[80] At the Hearing, Ms Carr said that a meeting occurred on 2 November 2018 in which she
+raised a number of concerns about "frivolous spending", "juggling cashflow", wages
+payments and bills.67
+[81] Ms Carr complained there was no formal outcome of that meeting as there was no "action
+plan or anything advised to myself."68
+[82] Although Ms Carr recognised she was thanked for her loyalty and dedication in raising
+the matters at the meeting and told that it was appreciated.69
+[83] Ms Carr spoke about the new approach taken in early 2019:
+So upon the return to work in 2019, it appeared to be that Errol Cosgrove and Melanie Cosgrove
+returned to the office with a – a view of this is how they would like things to be done. And they
+were going to make some changes."70
+She added that:
+In the ensuing discussions that I had, I listened to the changes that they wanted to make, and I said,
+you know, that's – if that's what it is – that's the changes that you want to make, that's what it is.71
+[84] In further conversation in January 2019,72 Mr and Mrs Cosgrove outlined their plans to
+Ms Carr. Ms Carr's response was that she didn't feel they understood the processes
+involved, considered their ideas would not work and that they were trying to push things
+65 Appellant's Statement of Facts and Contentions, 26 March 2021, 1, 7.
+66 Respondent's Closing Submissions, 14 December 2021, 3 [32].
+67 T 1 – 23 – T 1 – 26.
+68 T 1 – 27, lines 4 – 5; Respondent's Closing Submissions, 14 December 2021, 3 [30].
+69 T 1 – 27, lines 2 – 11.
+70 Ibid 20 – 23.
+71 Ibid 23 – 25.
+72 Ibid 33.
+
+18
+through too quickly.73 Ms Carr accepted that the plans were ultimately initiated and she
+"had to find a way to try to deal with that."74
+[85] Ms Carr's oral evidence was that she let Mr Cosgrove and Mr Basile75 know of "some
+concerns that I was having, and I guess let them know how I was feeling. How I saw
+things, and the effect it was having on me."76 That aligns with her account of the meeting
+in the List of Stressors, which included reference to discussion at the meeting about "the
+effect the stress of her job was having on her health".
+Medical evidence
+[86] The medical evidence does not address the effect those concerns were having on Ms Carr,
+in the lead up to the 2 November 2018 meeting.
+[87] The GP records available commence on 30 July 2019.77
+[88] Dr Chalk's report stated:
+Essentially, Ms Carr described having had difficulties in the workplace over a period of time and
+the difficulties appear to have begun when a temporary worker, (Ms X), came to work for them.78
+I note that Ms X did not commence until June 2019.79
+Mr Cosgrove
+[89] Mr Cosgrove did not recall the 2 November 2018 meeting precisely but accepted that it
+could have occurred on that date.80
+[90] Counsel for the Appellant put to Mr Cosgrove that at the 2 November 2018 meeting, Ms
+Carr told him she was not coping and that the situation was affecting her health. Mr
+Cosgrove's response was that he did not deny that, but could not recall it.81
+Finding
+[91] I believe that a meeting occurred on 2 November 2018 in which Ms Carr raised a number
+of concerns.
+[92] I accept that meeting included Ms Carr sharing "the effect it was having on me" with Mr
+Cosgrove and Mr Basile. Ms Carr clearly recalls that was the case, whilst Mr Cosgrove
+did not deny it were so. In my view, that would also account for the expressions of
+appreciation made to her at that time (although I have already observed that the GP notes
+73 Ibid 25 – 47.
+74 T 1 – 28, lines 1 – 5.
+75 The company accountant.
+76 T 1 – 23, lines 38 – 40.
+77 Exhibit 2, 36.
+78 Ibid 49.
+79 Appellant's Statement of Facts and Contentions, 26 March 2021, 2.
+80 T 1 – 45, line 46.
+81 T 2 – 68, lines 26 – 33.
+
+19
+available do not address claims of the effect those concerns were having on Ms Carr, in
+the lead up to the 2 November 2018 meeting).
+[93] While Ms Carr has stated that there was no "formal" action plan arising from the meeting,
+she did nonetheless also complain that "The plans put in place during the offsite meeting
+on 2 November 2018 were not being followed" in the Appellant's Statement of Facts and
+Contentions.82 Ms Carr also gave evidence of a new approach signalled by Mr and Mrs
+Cosgrove upon their return to work in January 2019.
+[94] It appears most likely that the couple reflected on what they had heard from Ms Carr over
+the Christmas break and decided to make some changes in the new year.
+[95] The evidence shows that a series of initiatives were authorised in the coming months
+aimed at addressing the issues raised by Ms Carr at the 2 November 2018 meeting,
+including implementing an alternative payroll solution to remove that workload and
+responsibility from her, recruiting additional staff, commissioning an independent review
+of the business and engaging with Ms Carr about relinquishing her exclusive access to
+the company's authorities.
+[96] Ms Carr said that those plans "with regards to the administration"83 were shared with her
+in ensuing discussions. And whilst Ms Carr raised some concerns about whether all of
+the changes outlined would work in practice, she accepted that if "that's the changes that
+you want to make, that's what it is."
+[97] Essentially, Ms Carr raised a range of matters on 2 November 2018, said it was having
+an effect on her and received expressions of appreciation from her employer. Mr and Mrs
+Cosgrove appeared to have considered what Ms Carr had said, returning to work in the
+new year planning to make some changes. The timing of such initiatives makes it most
+likely to be in response to her concerns. Ms Carr noted that those plans relevant to her
+work area were shared with her in "ensuing discussions". While Ms Carr's advice was
+that some of those plans would not work in practice, she ultimately accepted that if that
+is "the changes that you want to make, that's what it is."
+[98] For those reasons, I consider the employer's response outlined in nominated stressor 1
+constitute "reasonable management action taken in a reasonable way." However, my
+consideration of the external review contained in the section below explains that such
+workload and work intensity over a lengthy period, leading to Ms Carr raising the matter
+with her employer, does not constitute reasonable management action taken in a
+reasonable way.
+Consideration – Nominated Stressor 2
+No. Date Title Description
+2 January Advising not During this period, Ms Carr verbally and by way of physical
+2019 – keeping up nor demeanour communicated on many occasions to Mr Errol
+June 2019 coping with Cosgrove, Mr Shane Basile and Mr Brad Lane she was not
+workload keeping up nor coping with her workload.
+82 Filed 26 March 2021, 1.
+83 T 1 – 28, line 4.
+
+20
+No. Date Title Description
+The plans put in place during the offsite meeting on 2
+November 2018 were not being followed.
+On 1 April 2019, a one-week onsite business review was
+conducted by an external accountant, Mr Richard Grumont,
+who advised Mr Cosgrove that Ms Carr's "responsibility
+level was unreasonable along with her workload."
+In late May 2019, Ms Carr expressed her concerns to Mr
+Cosgrove and Mr Basile over re-hiring of some staff she
+considered to have been poor performers.
+In June 2019, Ms X was engaged through Hays Recruitment
+to undertake Accounts Payable data entry.
+On 11 June 2019, Ms Y84 (former employee) was re-hired
+on a 9 week contract to undertake Accounts Receivable data
+entry.
+[99] The above description of the nominated stressor is drawn from the Appellant's Statement
+of Facts and Contentions and List of Stressors.85
+[100] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[101] With respect to this particular nominated stressor, I have earlier found that it would have
+involved the exercise of 'management action', if it occurred as Ms Carr alleges. The
+Respondent accepts that the implementation of changes is management action.86
+[102] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+Ms Carr verbally and by way of physical demeanour communicated to Mr Errol
+Cosgrove, Mr Shane Basile and Mr Brad Lane that she was not coping with her
+workload
+[103] I have earlier considered that Mr and Mrs Cosgrove returned to work in early 2019 set to
+implement a range of initiatives, in response to Ms Carr's expressed concerns in the
+meeting on 2 November 2018. I have found the changes pertinent to Ms Carr's area were
+raised with her in ensuing discussions. While Ms Carr did not consider that Mr and Mrs
+Cosgrove understood all the processes involved and she believed their proposed changes
+would not work, Ms Carr's evidence was that she accepted that "if that's what it is – that's
+the changes you want to make, that's what it is."87
+84 The name of the worker is not materially relevant to this Decision/
+85 Appellant's Statement of Facts and Contentions, 26 March 2021, 1 – 2, 7.
+86 Respondent's Closing Submissions, 14 December 2021, 5 [45].
+87 T 1 – 27, lines 20 – 30.
+
+21
+[104] At the Hearing, Ms Carr's evidence was also that she said "I feel like you're steamrolling
+me, that you're trying to push these things through too quickly."88 The person(s) to whom
+Ms Carr directed those comments was not directly stated, but I presume made to Mr and
+Mrs Cosgrove as part of the "ensuing discussions" about the changes they had outlined.
+[105] While Ms Carr expressed the view at the Hearing that "They looked to roll them out, and
+I had to find a way to try and deal with that,"89 I can accept that was certainly an
+expression of how she felt about it. However, it was not something she asserted was
+communicated at the time either "verbally and by way of physical demeanour."
+[106] Mr Cosgrove expressly denied that Ms Carr told him she was not coping.90
+[107] At the Hearing, Ms Carr also stated that by June 2019 "It was becoming apparently
+obvious that I was not keeping up with the cashflow and expenses".91 Ms Carr clarified
+that it was:
+Obvious to my work colleagues, because they would come and say, "are you alright? What can we
+– is there anything we can do to help?" To the point where the national sales and development
+manager was in Mister – so Errol Cosgrove's office and I had been called in to look at something
+on his computer…
+…
+And so Bradley Lane, he said to me, like "what's up?" You know, su – what's going on? I said, "I
+don't even have the words to tell you what's going on. It's not – you know – it's just – I don't have
+the words to tell you." And I couldn't even tell him what I needed to say, that it was too much and
+those kinds of things. And from there, he took the initiative to make inquiries about engaging a
+temp.92
+[108] Ms Carr went on to explain that the conversation about engaging a temp occurred
+between she, Mr Lane and Mr Cosgrove right there in the latter's office. Immediately,
+"It was determined that temp would be supplied. Mr Lane organised that…And I was
+advised of the date – whatever the date may be – let's say Monday, that a temp from Hays
+Recruitment would be starting…And they were to work where, I guess, I saw fit, which
+happened to be accounts payable."93 On the basis of Ms Carr's evidence, it appears to me
+that even on the very little she did say to Mr Lane, action was taken not only reasonably,
+but with commendable alacrity.
+[109] It may indeed be true that Ms Carr's work colleagues noticed she was increasingly under
+the pump and offered assistance. However, what those administration team members
+working in close quarters with Ms Carr, all day every day, may have noticed is
+conceivably different to what she may have chosen to display to Mr Errol Cosgrove, Mr
+Shane Basile and Mr Brad Lane. I cannot accept that because Ms Carr's stated distress
+at that time was said to be clear to her subordinates, then it must follow that it was also
+clear to her employer, the company accountant and national sales and development
+manager.
+[110] I would observe that Mr and Mrs Cosgrove were in an unenviable position at this point.
+88 Ibid 35.
+89 T 1 – 28, line 5.
+90 T 2 – 61, line 39.
+91 T 1 – 30 ,lines 2 – 3.
+92 Ibid 7 – 20.
+93 Ibid 28 – 35.
+
+22
+Ms Carr had expressed a range of concerns to Mr Cosgrove and Mr Basile in November
+2018. After some reflection over the Christmas break, Mr and Mrs Cosgrove had clearly
+decided to take action on those stated concerns - and had returned in the new year
+prepared to do so. Having brought Ms Carr in on their new initiatives, they were then
+apparently told that they were acting too quickly. In my view, Mr and Mrs Cosgrove
+were being responsive to the matters raised by Ms Carr in the 2 November 2018 meeting.
+Those actions were reasonable.
+I note that elsewhere Ms Carr's contradictory complaint was that her employer was not
+taking any action at all. Both positions cannot be correct.
+Plans put in place during the offsite meeting on 2 November 2018 were not being
+followed
+[111] At the Hearing, Ms Carr's evidence was that there was no formal outcome of that meeting
+as there was no "action plan or anything advised to myself."94
+[112] That assertion would appear to contradict this particular complaint, contained in her
+earlier Statement of Facts and Contentions. If there was no plan on the one hand, it does
+not make sense to complain it was not being followed on the other.
+[113] If instead what Ms Carr means by this inclusion is that the entirety of initiatives discussed
+with her in early 2019 were not all successfully implemented or determined to be
+progressed, they are matters open to Mr Cosgrove to decide. That is not unreasonable in
+any sense.
+[114] However, I also note that Ms Carr's evidence was that the plan was ultimately initiated.95
+[115] Further consideration of this matter is contained above at paragraphs [91] - [98].
+[116] Ms Carr's complaint on this point is not borne out.
+Conduct of onsite business review
+[117] From 1 - 5 April 2019, a SRV Finance Structure Review was conducted by an external
+accountant, Mr Richard Grumont. That included the preparation of a report with findings
+and recommendations.96
+[118] The report stated that Ms Carr was "stretched" and suggested further personnel resources
+were required to fulfil the current scope of her responsibilities.97
+[119] It is not a requirement that the report be provided to Ms Carr or shared with her in its
+entirety. That is not in itself an unreasonable management action.
+94 T 1 – 27, lines 4 – 5; Respondent's Closing Submissions, 14 December 2021, 3 [30].
+95 T 1 – 28, line 1.
+96 Exhibit 16.
+97 Ibid 2.
+
+23
+[120] Mr Cosgrove's evidence was that the review was commissioned because "…I spoke to
+my financial broker, and we suggested – and he suggested it was probably about time to
+look at an in-house accountant."98
+[121] Mr Cosgrove expressly denied the review was conducted in response to Ms Carr's claim
+that she told he and Mr Basile that she was not coping in their meeting on 2 November
+2018.99
+[122] The Appellant argued in closing submissions that "…the contents of this report further
+support her claim that what was occurring in the workplace was the major significant
+contributing factor to her injury."100 As previously noted, the Respondent had since
+conceded that work was the major significant contributing factor to Ms Carr's injury. The
+contest in this matter though is whether that injury was excluded under s 32(5) of the Act.
+[123] I am mindful that Dr Chalk's report contains a recount of the history taken from Ms Carr,
+in which she "…described having had difficulties in the workplace over a period of time
+and the difficulties appear to have begun when a temporary worker, (Ms X), came to
+work for them."101 However, the history Ms Carr provided to Dr Chalk could not have
+been entirely accurate, given her upbeat email to Mr Cosgrove commending Ms X's work
+dated 17 June 2019.102 If that were to be accepted, it would appear to place the onset of
+Ms Carr's psychological condition from 18 June 2019 (at the earliest) meaning the injury
+Dr Chalk said occurred "over a period of time" was merely about 6 weeks (at most) ahead
+of 30 July 2019.103
+[124] Dr Chalk's report also noted that "These difficulties occurred against a background where
+apparently a number of people left the workplace and that two people in her area were
+not replaced and this seems to have placed everyone under the pump." References to
+reduced staffing were also made in the SRV Finance Structure Review report, which
+noted a couple of roles vacant due to staff departures,104 with a couple of further roles
+being occupied by those "being trained to take over the process".105
+[125] For the sake of completeness, Dr Chalk further noted "However, whilst those difficulties
+were as noted, it would appear that the interaction with (Ms X), who was not following
+directions and not completely tasks, and the lack of support she received from Errol in
+all this, was the crux of the matter."106
+[126] Foundationally, I consider the imposition of an unattainable level of workload and work
+intensity on a worker, in the absence of adequate support and resources to the job, to be
+unreasonable management action.
+98 T 2 – 61, lines 42 – 44.
+99 Ibid 36 – 39.
+100 Appellant's Closing Submissions, 10 November 2021, 5 [30].
+101 Exhibit 2, 49.
+102 Exhibit 12.
+103 30 July 2019 is the date of injury.
+104 Exhibit 16, 2, 2(a), 3(a).
+105 Ibid 2, 2(b), 3(b).
+106 Exhibit 2, 50.
+
+24
+[127] At paragraph [92] above, I have earlier found that the 2 November 2018 meeting included
+Ms Carr sharing "the effect it was having on me" with Mr Cosgrove and Mr Basile. In
+response, a series of initiatives were devised in early 2019.
+[128] For at least over the last four years, Mr Cosgrove accepted that Ms Carr's responsibilities
+in his $25 million business was that of "office manager"107 "in charge of finances, admin
+teams, so forth".108 That included banking, accounts receivable, accounts payable,
+superannuation, taxation, operations accounts and funds controller, trusts, properties.109
+[129] Mrs Cosgrove's evidence with respect to Ms Carr's role was that it was highly significant
+to the company, with extensive responsibilities. Mrs Cosgrove said:
+…her involvement was integral with the operating system that we had which was Freight2020. This
+is where we were able to create invoices for the work done. We were also able to have our whole
+accounts – AR/AP – run through that and operations run through that. So there was only a set
+amount of logins and we were sharing logins etcetera…110
+…
+Even Errol wasn't able to…access Westpac…The daily operating of the business, payroll, asset,
+trusts, the houses, properties. Yeah. That did everything.111
+[130] Mr Cosgrove's evidence was that he "went in everyday and just oversaw the - the goings
+on in the business".112
+[131] As that was the case, it should have been evident to someone of Mr Cosgrove's business
+acumen and experience that the level of resourcing allocated to the 'finance and
+administration' department of his company was too lean to adequately administer his
+company's growing success. Too much was being asked of Ms Carr over an extended
+period of time.
+[132] It came to pass that Mr Cosgrove's expectation that Ms Carr continue to do more with
+less was not sustainable indefinitely.
+[133] In my view, the scene was set for the onset of Ms Carr's psychological injury that
+occurred "over a period of time".
+[134] I do not consider foisting that amount of workload, work pressure and responsibility on
+Ms Carr over a significant period to be "reasonable" management action.
+Recruitment of additional staff
+[135] In light of those findings, I find it that it was reasonable management action to recruit
+additional staff in May and June 2019.
+[136] I note Ms Carr's complaint that she had expressed concerns to Mr Cosgrove and Mr
+Basile over re-hiring of some staff she considered to have been poor performers in late
+107 T 2 – 57, line 39.
+108 T 2 – 45, line 33.
+109 T 2 – 57 – T 2 – 59.
+110 T 2 – 28, lines 17 – 21.
+111 Ibid 38 – 43.
+112 T 2 – 45, line 30.
+
+25
+May 2019. It may well have been the case that the urgency of the staffing need was so
+clearly apparent by that stage that it overshadowed Ms Carr's concerns. In any event, it
+was not unreasonable for the employer to make such hiring decisions.
+Finding
+[137] For the reasons explained above, I do not consider the workload, work pressure and
+responsibility on Ms Carr's shoulders over a significant period to be "reasonable"
+management action.
+[138] For the sake of completeness, I do not consider the context of Mrs Cosgrove's comments
+that "it was probably a bit negligent having one person in control of so much" to be an
+admission as such. Rather I believe Mrs Cosgrove recognised the inherent risks of that
+course to the company, rather than to Ms Carr. Her observations proved apposite in this
+case.
+Consideration – Nominated Stressor 3
+No. Date Title Description
+3 8 Uncommunicated Mr Errol Cosgrove made uncommunicated changes to the
+July changes made by Mr system of work and engages Ms X in bookkeeping /
+2019 Errol Cosgrove accounting tasks. Ms X appears to be promoted by Mr
+Cosgrove and commences issuing directive to administration
+staff which undermines Ms Carr's senior position to the staff
+within her team.
+Ms Carr starts to feel targeted, intimidated, harassed and
+bullied which caused her significant angst and stress.
+[139] The above description of the nominated stressor is drawn from the Appellant's Statement
+of Facts and Contentions and List of Stressors.113
+[140] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[141] With respect to this particular nominated stressor, I have earlier found that it would have
+involved the exercise of 'management action', if it occurred as Ms Carr alleges. The
+Respondent accepts that the changes made by Mr Cosgrove and communicated to Ms
+Carr via email constituted management action.114
+[142] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+[143] For the reasons considered above, Mr Cosgrove hired additional staff and I have found
+that to be reasonable.
+113 Appellant's Statement of Facts and Contentions, 26 March 2021, 2, 7.
+114 Respondent's Closing Submissions, 14 December 2021, 5 [52].
+
+26
+[144] It follows that the new staff were allocated work tasks and responsibilities. At first, Ms
+X was tasked with performing data entry duties in Accounts Payable.
+[145] When the administration team members moved to a temporary donga office on or about
+1 July 2019 whilst renovations were underway, Ms Carr observed Ms X was often absent
+from her desk and upon her return conveyed Mr Cosgrove's directions to various staff
+members. As office manager and supervisor of the administration team, such directions
+would previously have been issued by Ms Carr in that capacity. Ms Carr also noted that
+Ms X was permitted to use her personal mobile phone at work. A consideration not
+extended to other workers. That too was a source of irritation. As Dr Chalk had put it,
+"the crux of the matter."115
+[146] At the Hearing, Ms Carr explained that:
+There seems to be preference given to (Ms X), ie, she has her personal phone. No one else is
+afforded that luxury. We – you know, spend time at our desk. I feel like someone that's been – for
+want of a better time description, with – doing a data entry job that's been there five minutes, is
+given all the freedom in the world, a – where people that have supported and been loyal to the
+company are brushed aside.116
+[147] On the evidence before me, it appeared Ms X had been granted preferential treatment
+with respect to access to her personal mobile phone during work time. That constituted
+inconsistent treatment between employees. That was certainly impolitic in an office
+environment. The resultant ill will is self-evident. However, I would stop short of calling
+that unreasonable management action. Ms X may indeed have sought and been granted
+permission from her employer for sound reasons that are not in evidence.
+[148] While those matters did cause Ms Carr "significant angst and stress" as she contends in
+her Statement of Facts and Contentions and as she relayed to Dr Chalk, she was not
+"targeted, intimidated, harassed and bullied" in my view. I agree with the Respondent's
+submissions that Exhibit 3 does not evidence any such targeting of Ms Carr – rather it
+evidences Ms Carr's irritation at that time.
+[149] Ms Carr's evidence was that "Mid-July, I receive an email from Errol Cosgrove telling
+me that the data entry job is finished, and that (Ms X) would start to look at some other
+things, and I was to facilitate her doing these things."117
+[150] Mr Cosgrove's evidence at the Hearing was also that he had met with Ms Carr and Ms X
+off-site at a local coffee shop where he had "said to (Ms Carr) that, you know, like, I'm
+wanting to bring (Ms X) into this – this sort of role to make things better, and yes. So it
+was agreed upon that – that was it. She would start doing – or taking that accounting –
+or bookkeeping stuff off (Ms Carr)."118
+[151] At the very least, that email of mid-July outlined a change in work arrangements,
+appropriately communicated by Mr Cosgrove to Ms Carr (albeit a little belatedly
+perhaps). As such, I consider this was a reasonable management action, notwithstanding
+that by that time it was clearly most unwelcome news received by the recipient, Ms Carr.
+115 Exhibit 2, 50.
+116 T 1 – 33, lines 40 – 45.
+117 Ibid 32 – 34.
+118 T 1 – 49, lines 33 – 38.
+
+27
+Finding
+[152] For those reasons, I consider the matters outlined in nominated stressor 3 constitute
+"reasonable management action taken in a reasonable way."
+Consideration – Nominated Stressor 4
+No. Date Title Description
+4 17 Email regarding Ms Carr sent an email to Mr Errol Cosgrove (cc Mr Shane Basile
+July concerns about and Mr Brad Lane) regarding her concerns about the entire shift in
+2019 Ms X the workplace which included direct contact between Mr
+Cosgrove and Ms X.
+[153] The above description of the nominated stressor is drawn from the Appellant's List of
+Stressors.119
+[154] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[155] With respect to this particular nominated stressor, I have earlier found that it would have
+involved the exercise of 'management action', if it occurred as Ms Carr alleges. The
+Respondent accepts that the contents of that 17 July 2019 email contains Ms Carr's
+complaints of management action (and lack thereof, in some cases). Further the
+Respondent accepts that the subsequent meetings held on 19 and 19 July 2019 (following
+her email), in order for Mr and Mrs Cosgrove to obtain information to access the various
+accounts and authorities from Ms Carr also constituted management action.120
+[156] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+[157] The email from Ms Carr to Mr Cosgrove, copying in Mr Basile, dated 17 July 2019 is
+Exhibit 3 in this case. That document contained Ms Carr's assessment of Ms X's
+performance and suitability, her objection to the special treatment of Ms X regarding her
+personal mobile phone usage, absences from her desk on "secret squirrel business"121 and
+non-compliance with established reporting lines. Ms Carr also articulated feelings of
+being sidelined, both in her direct relationship with Mr Cosgrove and in the company's
+established reporting structure.
+[158] While the email has been nominated as a stressor, it is presumed rather what is meant is
+the subject matter contained therein and the response received to it.
+[159] It has been submitted that Ms Carr's email was sent in the spirit of feeling "so anxious
+and disturbed" and it should be characterised as a "complaint about workplace injustice",
+the point being made that Ms Carr was so deeply affected by those circumstances that
+119 Appellant's Statement of Facts and Contentions, 26 March 2021, 7.
+120 Respondent's Closing Submissions, 14 December 2021, 7, [67], [71], [76].
+121 T 1 – 32, line 18.
+
+28
+she was prepared to end her employment with the company after 18 years' service if that
+was what her employer wanted.122
+[160] I do not agree with that characterisation. The tone of that email instead appears to me to
+be an expression of Ms Carr's indignation and frustration, even anger. She perceived that
+her position was being usurped by the newly minted Ms X and was resisting that turn of
+fortunes. Ms Carr's email contains an unmistakable choice close – either Mr Cosgrove
+agrees to direct Ms X to "fall back into line under me and take direction the same as the
+other girls or be replaced and no longer part of the administration team I am responsible
+for" or in the event that he will not do so, "we can work out a transition and exit strategy
+for me".123
+[161] Mr Cosgrove took it as a threat.124 A little more circumspect, Mrs Cosgrove saw it as
+"emotionally fuelled" and "a vent".125 In my view, the ultimatum issued could not be
+misunderstood. Ms Carr was reminding Mr and Mrs Cosgrove that they needed her and
+that she was prepared to walk.
+[162] Further evidence of Ms Carr's mindset is her text exchange with a colleague 6 minutes
+after sending the email. Ms Carr asks "Shall I go home now b4 wages are processed?",
+to which the colleague replies "That would get a point across."126 That is also persuasive
+in determining Ms Carr's intent in concluding the email as she did.
+[163] Two meetings followed this epistle. One the following day on 18 July 2019 and another
+the day after that on 19 July 2019. Mr and Mrs Cosgrove's stated agenda at those
+meetings was two-fold – to assure Ms Carr that they wanted her to both remain with the
+company and to "handover as much stuff, or information that she could."127
+[164] Further consideration of the "reasonableness" of the content and conduct of those
+meetings are addressed in the sections that follow.
+Finding
+[165] Given the content and tone of the email fired off by Ms Carr, Mr and Mrs Cosgrove's
+responses as outlined in nominated stressor 4 – and the scheduling of two subsequent
+meetings - constitute "reasonable management action taken in a reasonable way."
+Consideration – Nominated Stressor 5
+No. Date Title Description
+5 18 Meeting with Mr Mr Errol Cosgrove yelled at Ms Carr "Are you coming?" which
+July Errol Cosgrove, Mr shocked Ms Carr as he had never yelled at her before. Mrs
+2019 Shane Basile and Melanie Cosgrove was also in attendance at the meeting.
+Mrs Melanie
+Cosgrove Ms Carr had understood the purpose of the meeting would be to
+discuss the contents of her email sent the previous day; however
+122 Appellant's Closing Submissions, 10 November 2021, 5, [31].
+123 Exhibit 3.
+124 T 2 – 66, lines 5 – 9.
+125 T 1 – 30, lines 38 – 40.
+126 Exhibit 10.
+127 T 2 – 68, lines 17 – 20.
+
+29
+No. Date Title Description
+general business matters were discussed including the need for
+an in-house financial person to provide more assistance. Ms
+Carr tried to voice her views but was ignored and felt she was
+being talked at rather than talked with.
+[166] The above description of the nominated stressor is drawn from the Appellant's Statement
+of Facts and Contentions and List of Stressors.128
+[167] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[168] With respect to this particular nominated stressor, I have earlier found that it would have
+involved the exercise of 'management action', if it occurred as Ms Carr alleges. The
+Respondent accepts that this is management action.129
+[169] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+Mr Cosgrove yelled at Ms Carr "Are you coming?"
+[170] Ms Carr's complaint was that Mr Cosgrove yelled "Are you coming?" at her, as he
+departed for the off-site meeting on 18 July 2019.
+[171] In cross-examination, Ms Carr did not accept the proposition that Mr Cosgrove just asked
+her if she was coming in a loud voice.130 Ms Carr denied that was the case even though
+she was "speaking with the staff, finishing that conversation, and then I believe I left
+shortly thereafter, and I advised that I was not going to be there on time."131 Ms Carr did
+accept that perhaps Mr Cosgrove was saying that they were going to be late if she didn't
+leave now, agreeing "Yes. I wrapped up what I was doing, and I left shortly
+thereafter."132 Notwithstanding that, Ms Carr's evidence was that she had "…formed the
+view that he was looking for confirmation that I was going to go."133
+[172] It is quite probable that both were true. Mr Cosgrove may have been signalling it was
+time to go and also checking that Ms Carr was in fact planning to do so. Given Ms Carr's
+reference to "…the off-site meeting that I was directed to attend" and her nomination of
+the 18 July 2019 as the date of injury to her GP, it appeared that she was not an
+enthusiastic participant.134
+128 Appellant's Statement of Facts and Contentions, 26 March 2021, 2, 7.
+129 Respondent's Closing Submissions, 14 December 2021, 7 [71], [76], 8 [81].
+130 T 1 – 76, line 1.
+131 Ibid 5 – 7.
+132 Ibid 13 – 14.
+133 Ibid 16 – 17.
+134 Respondent's Closing Submissions, 14 December 2021, 8 [82].
+
+30
+[173] In my view, the relevant circumstances were that: Ms Carr was running late for the
+meeting;135 she and Mr Cosgrove were about 15 to 20 metres away from each other at
+the time;136 and Mr Cosgrove's apparent personal communication style.
+[174] Ms Carr stated that Mr Cosgrove was a loud person.137 That was also my observation of
+Mr Cosgrove's voice and demeanour as a witness.
+[175] On the balance of probabilities, and on the evidence before me, I do not find that Mr
+Cosgrove "yelled at" Ms Carr, but rather used his "loud voice" to communicate the
+urgency of leaving the office now. That does not seem unreasonable given Ms Carr was
+both some distance away from him and herself engaged in speaking with other staff at
+the time and Mr Cosgrove wished to be heard over that. As it happened, Ms Carr was in
+fact late for the meeting, so the urgency of leaving now was itself not misplaced either.
+Meeting on 18 July 2019
+[176] An off-site meeting at the company accountant's office was held on 18 July 2019, being
+the day after Ms Carr's email.
+[177] At that meeting, Ms Carr's recollection was that "…the following issues were discussed:
+the business had real trouble; there needs to be an in-house financial person; the failure
+of the business to pay superannuation; bills not being paid on time; that Ms Carr would
+need to share the scope of her functions with others; failure to manage reconciliations;
+and that Ms Carr's role would be significantly changed."138
+[178] Counsel for the Appellant put to Mr Cosgrove that the meeting was about "transition
+arrangements, because of the exposure of the business by only having one person in the
+financial control repository, for want of a better word; you disagree with that?"139 To
+which Mr Cosgrove replied that the purpose of the meeting on 18 July 2019 was to
+"…explain to Donna that it wasn't a her or me situation, right. We wanted Donna to stay.
+We just wanted Donna to handover as much stuff, or information that she could."140
+[179] In closing submissions, the Appellant submitted that "…what follows is two meetings:
+one at Basile's office on 18 July 2019…and another the following day…The evidence
+reveals that there was some "meeting of the minds" at these meetings, and it was
+confirmed that the Appellant did not want to leave, and the employer did not want her to
+leave, although perhaps for different reasons."141 Those words suggest that elements of
+Ms Carr's email was discussed at the meetings on both days - and does not support the
+claim contained in this particular stressor above about Ms Carr's understanding of the
+purpose of the meeting compared with what actually transpired.
+135 T 1 – 76, line 3
+136 T 1 – 75, line 35.
+137 Ibid.
+138 T 1 – 76 – T 1 – 77; Respondent's Closing Submissions, 14 December 2021, 6 – 7 [69].
+139 T 2 – 68, lines 13 – 16.
+140 Ibid 17 – 20.
+141 Appellant's Closing Submissions, 10 November 2021, 5 [32].
+
+31
+[180] Mrs Cosgrove's evidence as to the content of that meeting was that "…given the content
+of that email, it was clear that Donna wasn't happy. So we just wanted common ground
+away from work, so that the other staff weren't privy to it and seeing as Shane Basile was
+CC-ed on this email and worked quite closely with Donna, we approached Shane to have
+it there, so that it – she wouldn't feel as though it was Errol and I ganging up or anything
+like that. But basically, it became apparent that we were very exposed as a business
+having one person – and it was probably a bit negligent having one person in control of
+so much. So we just wanted to look at having a backup plan…"142
+[181] Mrs Cosgrove added that "…I was adamant that she understood this wasn't coming from
+a bad place. This wasn't being negative or forceful or disrespectful. It was purely from
+a point of, she is integral to our business, a necessary person in our business, however,
+its really negligent of us not to have a backup in the instance that she's not an active
+member of the running of that business."143
+Finding
+[182] I have found that Mr Cosgrove used a loud voice to ask Ms Carr if she was coming to the
+off-site meeting that day. The evidence does not support a finding that Mr Cosgrove
+yelled at her.
+[183] Mr and Mrs Cosgrove's decision to hold the meeting with Ms Carr off-site, after her email
+outburst the previous day, was considerate in my view. I accept their evidence that they
+did not want to appear to be "ganging up" on Ms Carr, so had arranged for Mr Basile to
+also be in attendance, given he and Ms Carr had a longstanding and positive professional
+relationship. In circumstances where Ms Carr had chosen to copy Mr Basile into her
+email, it was open to include him in the conversations arising. As Mrs Cosgrove had
+thought Ms Carr's email was "emotionally fuelled", their decision about a suitable
+meeting location could also be viewed as reasonable in terms of some "neutral territory."
+[184] There is some muddle in the evidence provided and submission drawn as to precisely
+what parts of that overarching transition-themed discussion happened at the meeting on
+18 July 2019 and thence what bit occurred on 19 July 2019. It is clear to me that it was
+a big conversation and likely therefore that it continued over the two meetings held on
+subsequent days, as inferred in the Appellant's closing submission. However, that precise
+detail is not foundational to my consideration of "reasonableness" here.
+[185] Mr Cosgrove apparently got straight to the key take out he had drawn from Ms Carr's
+email, assuring her he did not want her to leave.
+[186] The risk to their business though was by now writ large in the minds of Mr and Mrs
+Cosgrove, who became active in efforts to persuade Ms Carr to "handover as much stuff,
+or information that she could" by way of a backup plan.
+[187] That is not unreasonable.
+142 T 2 – 31, lines 16 – 24.
+143 Ibid 6 – 11.
+
+32
+[188] With respect to Ms Carr's complaint that she had expected the meeting agenda would
+include some discussion of her email of the previous day, I have found above that
+certainly the upshot of it appeared to have been. Given Mrs Cosgrove's assessment of
+Ms Carr's email as an "emotionally fuelled" "vent", it could be considered a kindness to
+her not to be required to sit down with her employer, go through that email line by line,
+and discuss on the very next day. Mr and Mrs Cosgrove may have decided that the best
+course was one of "least said, soonest mended". It appears that was particularly apposite
+given Ms Carr had worked with Mr Cosgrove in their business for almost 20 years by
+that time, the last four years in the highly significant "office manager" position with
+oversight of "finance and admin" following the retirement of Mr Cosgrove's mother, and
+the couple clearly needed her to continue.
+[189] If I am wrong on that point, and Ms Carr's email was not discussed at all at the meeting
+on the 18 July 2019 but aspects of it were instead canvassed at the next meeting the
+following day, I do not consider that to be unreasonable either. Certainly, a discussion
+about matters arising from the email was had proximate to it being sent. Providing a little
+space before engaging in the matter would not have been entirely unreasonable either,
+given a second meeting was so scheduled.
+[190] For those reasons, I consider the matters outlined in nominated stressor 5 constitute
+"reasonable management action taken in a reasonable way."
+Consideration – Nominated Stressor 6
+No. Date Title Description
+6 19 Meeting with Mr Mr Errol Cosgrove and Mrs Melanie Cosgrove insisted on Ms
+July Errol Cosgrove Carr attending a meeting with them to discuss the email Ms Carr
+2019 and Mrs Melanie sent on 17 July 2019. During the meeting Mr Cosgrove verbally
+Cosgrove agrees that perhaps he did not deal with Ms X change in position
+correctly. Mrs Cosgrove advised Ms Carr "will need to find a way
+to work with (Ms X)."
+[191] The above description of the nominated stressor is drawn from the Appellant's List of
+Stressors.144
+[192] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[193] With respect to this particular nominated stressor, I have earlier found that it would
+have involved the exercise of 'management action', if it occurred as Ms Carr alleges.
+The Respondent accepts that this constituted management action.145
+[194] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+144 Appellant's Statement of Facts and Contentions, 26 March 2021, 8.
+145 Respondent's Closing Submissions, 14 December 2021, [87].
+
+33
+Meeting on 19 July 2019
+[195] I have earlier indicated there is some confusion as to whether or not Ms Carr's email of
+17 July 2019 was discussed in the meeting on 18 July 2019 or 19 July 2019 or both,
+though ultimately that is not material for the reasons I have explained above.
+[196] I will therefore confine my consideration of this nominated stressor to Mrs Cosgrove's
+alleged statement that Ms Carr "will need to find a way to work with (Ms X)."146
+[197] That claim was contained in the Appellant's Statement of Facts and Contentions but was
+not in oral evidence at the Hearing. Instead, what was accepted by Ms Carr was that Mrs
+Cosgrove "…acknowledged there had been some tension between (Ms Carr) and (Ms X)
+at the workplace…" That proposition is self-evident. It would not have been
+unreasonable for Mrs Cosgrove to have made that understated observation to Ms Carr in
+a meeting setting, two days after her email.
+Finding
+[198] For those reasons, I consider the matters outlined in nominated stressor 5 constitute
+"reasonable management action taken in a reasonable way."
+Consideration – Nominated Stressor 7
+No. Date Title Description
+7 23 July Melbourne Ms Carr felt compelled to take the trip to Melbourne and attend a
+2019 – Trip work-related dinner with Ms X. Due to feeling stressed and anxious
+26 July from the situation she felt forced into, it led to Ms Carr overindulging
+2019 while drinking alcohol at the work-related dinner.
+Ms Carr spent 4 days at the Melbourne office with Ms X, who
+travelled on the same flight and car from the airport to the office.
+[199] The above description of the nominated stressor is drawn from the Appellant's Statement
+of Facts and Contentions and List of Stressors.147
+[200] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[201] With respect to this particular nominated stressor, I have earlier found that it would have
+involved the exercise of 'management action', if it occurred as Ms Carr alleges. The
+Respondent accepted that this was management action.148
+[202] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+146 Appellant's Statement of Facts and Contentions, 26 March 2021, 2.
+147 Ibid 3, 8.
+148 Respondent's Closing Submissions, 14 December 2021, 8 [96].
+
+34
+Melbourne trip
+[203] At the Hearing, Ms Carr stated:
+• Whilst she had gone to Melbourne previously because there was an administration
+staff member who worked there, Ms Carr had not previously been invited to go on
+the Kenworth factory tour; although "other people within the business had been
+invited to go, and – that posted on social media and the like."149
+• "…at the 19 July 2019 meeting, I said I didn't feel that I was in the right space –
+frame of mind to go to Melbourne, but it would be my only opportunity to go on
+the factory tour. So I was determined that I would still go."150
+• In cross-examination, Ms Carr confirmed both that "I was not told I had to go" and
+also that she had mentioned to Mr Cosgrove that she really did not want to go.151
+• After her Business Class flights and accommodation were booked,152 Ms Carr was
+advised that Ms X would also be travelling on that trip.
+• Ms Carr said that while she "had huge concerns about that, but just soldiered on, I
+guess." 153 Ms Carr elaborated the concerns with Ms X were of a personal nature.154
+• Ms Carr expressed that she felt forced to be in the same space as Ms X because she
+"had made the trip to Melbourne on numerous other occasions, so it would be
+expected that I would effectively guide her and show her."155 It transpired that Ms
+Carr and Ms X were booked on the same flight, with Ms Carr recalling that Ms X
+was seated two rows ahead of her.156
+• Mr Cosgrove texted Ms Carr to advise that a limousine had been arranged to
+transport she and Ms X from the airport to the Melbourne office. Ms Carr said that
+"any other time I go to Melbourne I would catch an uber to the office",157 though
+she confirmed that she had not asked to be excused from taking the limo transport
+with Ms X.158
+• There was an impromptu dinner on the first evening at a pub in Melbourne.
+"Everybody else" had gone to dinner together when Ms Carr received a call from
+a colleague present there to let her know where they were and inviting her to come.
+She did so and had a pleasant evening on the first night.159
+149 T 1 – 38, lines 23 – 33.
+150 Ibid 34 – 36.
+151 T 1 – 81.
+152 T 1 – 82.
+153 T 1 – 38, lines 38 – 47.
+154 T 1 – 39, lines 1 – 26.
+155 Ibid 5 – 26.
+156 T 1 – 82.
+157 Ibid.
+158 Ibid.
+159 T 1 – 40, lines 1 – 33.
+
+35
+• The following day, Ms Carr was told to be ready in the lobby at 7 pm to go to
+dinner. She presented as asked but found nobody there. She telephoned a
+colleague, who came to escort her to the floor where Mr Cosgrove, Ms X and some
+others were having drinks whilst waiting for another to arrive.160
+• Dinner that night was at a private dining room in a fancy restaurant. Ms Carr and
+other colleagues have more drinks. After that, there was "general agreement"
+amongst the group to kick on at the casino. More drinks were consumed and Ms
+Carr told colleagues that "I really wasn't coping with Ms X's ingression into the
+business." The effects of the alcohol consumption hit Ms Carr, and she was assisted
+by a colleague to return to her accommodation.161
+• She was woken the following day at about 11 am, as she had not checked out of
+her room. Upon doing so, Ms X came to reception to collect her (Ms X was in
+Melbourne to do some data base training, not to attend the factory tour).162 As they
+proceeded together to the apartment occupied by Mr Cosgrove, Ms X asked what
+Ms Carr's problem with her was.163 This event is further discussed at paragraphs
+[226] - [231] below.
+• There were company bills that needed to be paid that day. While Ms Carr didn't
+feel she had capacity to undertake that work, she "forced myself to." In cross-
+examination, Ms Carr accepted that the day was a work day.164
+• A colleague who had attended the factory tour gave Ms Carr the gift bag she would
+have received there if she had attended. Mr Cosgrove walked past her and said
+"I'm not going to say a word."165
+• Ms Carr returned home that evening.
+[204] At the Hearing, Mr Cosgrove:
+• stated it was not compulsory for Ms Carr to attend the Melbourne trip. It was open
+for her to elect not to go;166
+• stated he did not see Ms Carr the following day, and so did not say to her "I'm not
+saying a word" about her failure to attend the factory trip as arranged; and167
+• confirmed that attendance at the dinners on the Melbourne trip were not
+compulsory and it was not compulsory to drink alcohol.168
+160 T 1 – 40 – T 1 – 41.
+161 T 1 – 42.
+162 T 1 – 82.
+163 T 1 – 43, line 23.
+164 T 1 – 84.
+165 T 1 – 44.
+166 T 1 – 53, lines 11 – 15.
+167 T 1 – 53.
+168 T 1 – 53.
+
+36
+Finding
+[205] With respect to whether or not Ms Carr had to take the Melbourne trip, the evidence of
+both she and Mr Cosgrove was that the trip was not compulsory.
+[206] With respect to whether or not Ms Carr had to attend the work-related dinners on two
+consecutive evenings, Mr Cosgrove's evidence was that the dinners and drinks were not
+compulsory.
+[207] Ms Carr's evidence concurred that on the first night at least dinner plans were rather
+impromptu and that she was contacted by a colleague and invited to come along, once
+others were settling in at a pub. She chose to join in and had a pleasant evening.
+[208] Ms Carr's evidence was that she was told to be ready in the lobby at 7 pm, the day of the
+formal work-related dinner. Finding no-one there as arranged, she followed up with a
+colleague, and thence joined them for drinks in Mr Cosgrove's accommodations before
+heading out. That series of actions do not appear to me to indicate reluctance on Ms
+Carr's part to attend the work-related dinner that evening.
+[209] It is certainly the case too that the further excursion to the casino, settled by "general
+agreement" amongst dinner guests, was not compulsory.
+[210] Dr Chalk's evidence was that Ms Carr's advanced state of intoxication at the Melbourne
+work dinner was a reflection of the level of stress she felt under at work.169 While I
+accept that Ms Carr felt stressed and anxious, I do not find that she "felt forced into" the
+Melbourne trip or dinner attendance at the time.
+[211] With respect to the arrangements for Ms Carr and Ms X to travel on the same flight and
+in the same car from the airport to the office, it is neither unusual or unreasonable in
+circumstances where colleagues go on a work trip together.
+[212] I agree with the Respondent's submission that the opportunity of the Melbourne trip was
+"a very generous gesture of the employer".170
+[213] With respect to Ms Carr's complaint about what occurred on the day she was to have
+attended the factory tour but did not, the point is well made that it was a work day
+nonetheless. Although proceeding on the tour as planned was out of the question given
+Ms Carr was unwell, it may have been assumed that she was able to pay some urgent
+bills on a computer, from the comfort of Mr Cosgrove's apartment in lieu of the
+alternative commitment. Ms Carr does not contend that she communicated the extent of
+her physical discomfort to Mr Cosgrove, when asked to do so.
+[214] With respect to Mr Cosgrove's alleged comment "I'm not going to say a word" when a
+colleague handed Ms Carr the gift bag that she was to receive at the factory tour, the
+recollections of Ms Carr and Mr Cosgrove differ. Quite simply, nothing turns on this
+point. If Mr Cosgrove's evidence is to be accepted, he didn't make that comment. If Ms
+Carr's evidence is to be accepted, he did. Taken at its highest however, even if I were to
+169 T 1 – 18, lines 25 – 30.
+170 Respondent's Closing Submissions, 14 December 2021, 9 [97].
+
+37
+accept that Mr Cosgrove made that remark, I would consider that he took a generous
+view of the situation.
+[215] I do not consider any of Ms Carr's complaints about the Melbourne trip constitute
+"unreasonableness" on the part of her employer.
+Consideration – Nominated Stressor 8
+No. Date Title Description
+8 26 July Ms X's Ms X disclosed to Ms Carr her knowledge of specific content of Ms
+2019 disclosure Carr's email dated 17 July 2019. This made Ms Carr uncomfortable
+and anxious, as that information should have remained confidential.
+[216] The above description of the nominated stressor is drawn from the Appellant's Statement
+of Facts and Contentions and List of Stressors.171
+[217] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+[218] With respect to this particular nominated stressor, I have earlier found that it would have
+involved the exercise of 'management action', if it occurred as Ms Carr alleges. The
+Respondent accepted that this was management action.172
+[219] My task here is to determine whether this event(s) happened as Ms Carr says it did – and
+if so, whether the management action taken was "reasonable" and "taken in a reasonable
+way".
+[220] In this nominated stressor 8, Ms Carr complained that Ms X had knowledge of specific
+content of her email dated 17 July 2019 and contended this should have remained
+confidential.
+[221] The morning after the big night in Melbourne, Ms Carr stated that she was woken the
+following day at about 11 am, as she had not checked out of her room.
+[222] Upon checking out thereafter, Ms X came down to reception to collect her (it is noted
+that Ms X was in Melbourne to do some data base training, not to attend the factory
+tour).173
+[223] As they proceeded together to the apartment occupied by Mr Cosgrove, "The
+conversation that (Ms X) and I had led me to believe she had some of the information
+contained in my email of 17 July."174 The conversation pretty much was "what was my
+problem with her."175
+171 Appellant's Statement of Facts and Contentions, 26 March 2021, 3, 8.
+172 Respondent's Closing Submissions, 14 December 2021, 9 [103].
+173 T 1 – 82.
+174 T 1 – 43, lines 16 – 18.
+175 Ibid 23.
+
+38
+[224] Ms Carr's account was that "she said to her that I feel like the only reason that I am still
+here is that there's things I can do that no one else can do. And she said that is correct."176
+[225] At the Hearing, Counsel for the Respondent put to Ms Carr that her admitted "possible
+conduct" the evening before, talking to other colleagues about her dislike for Ms X, was
+what led Ms X to ask what her problem with her was. Ms Carr did not accept that this
+was the case.177
+Finding
+[226] Quite simply, given Ms X broached the topic with Ms Carr the very morning after the
+big night out gives weight to the proposition that she was in receipt of new information
+at that time.
+[227] Counsel for the Respondent put to Ms Carr that she had shared her dislike of Ms X with
+several colleagues the previous evening, to which Ms Carr conceded that she "possibly
+did."
+[228] There is no evidence that Mr Cosgrove shared the contents of the 17 July 2019 email
+with Ms X.
+[229] What remains is Ms Carr's own admission that she "possibly did" tell various people the
+night before that she did not like Ms X. The timing of Ms X confronting Ms Carr and
+asking her what her problem is cannot be a mere coincidence in my view.
+[230] On the balance of probabilities, I find it most likely that Ms X was told by other
+colleagues what Ms Carr had been saying about her the night before.
+[231] For those reasons, I do not consider the matters outlined in nominated stressor 8
+constitute any "unreasonableness" on the part of the employer.
+Consideration – Nominated Stressor 9
+No. Date Title Description
+9 30 Breakdown at Ms Carr attended Our Home Medical at 8 pm and upon advising that
+July GP's office she was not coping with her current employment situation she had a
+2019 breakdown. Dr Peter Gold issued a medical certificate from 31 July
+2019 to 2 August 2019.
+[232] The above description of the nominated stressor is drawn from the Appellant's Statement
+of Facts and Contentions and List of Stressors.178
+[233] I have earlier determined that Ms Carr's psychological injury "arose out of, or in the
+course of," "management action" "taken…by the employer in connection with her
+employment".
+176 Ibid 33 – 34.
+177 T 1 – 83.
+178 Appellant's Statement of Facts and Contentions, 26 March 2021, 3, 8.
+
+39
+[234] With respect to this particular nominated stressor, this is a report of Ms Carr's visit to her
+GP. It does not involve the exercise of 'management action'.
+[235] At the Hearing, Ms Carr stated that 30 July 2019 was the first day that she returned to the
+office after the Melbourne trip. Whilst Mrs Cosgrove had told her that Ms X would no
+longer be located in the same office as Ms Carr, that did not eventuate. Ms X "was still
+seated in the office, the same area as myself. I did the best I could to carry on with the
+work that needed to be done for the day. I returned home…I was not coping…with the
+situation."179
+[236] Ms Carr clarified that the situation she was not coping with was getting exceedingly
+intoxicated in Melbourne.180 She said that was "Very out of character. I was not happy
+with the situation of my employ…I was feeling more and more ostracised every time I
+presented myself to the office, and I was finding it more difficult to complete the tasks
+that were expected of me by Errol Cosgrove. And I took myself to see my GP."181
+[237] Ms Carr's GP issued her with a medical certificate for three days. Subsequently, an
+assessment under a MHCP was undertaken and a referral to a psychologist made.182
+[238] In cross-examination, Ms Carr was asked what she meant by "breakdown" at the GP
+consultation, in the description of this nominated stressor 9. She said "The work situation
+that I was in was affecting all parts of my life, and I wasn't coping with that, and I wasn't
+functioning as the – as a – as a person."183 "Did I feel like my mental health was affected,
+yes."184
+Finding
+[239] I have earlier found this to be the date of injury.
+[240] This is not an event said to have caused or contributed to the injury, but rather instead it
+is the date that Ms Carr sought the assistance of her GP.
+Costs
+[241] In light of my conclusions above, an order will be made in favour of Ms Carr to allow
+the appeal and set aside the Respondent's decision set out in the correspondence dated
+18 December 2020.
+[242] I will now consider the issue of costs.
+179 T 1 – 44.
+180 Ibid 31 – 46.
+181 T 1 – 44.
+182 T 1 – 45.
+183 T 1 – 84.
+184 Ibid.
+
+40
+[243] In Workers' Compensation Regulator v Queensland Nurses and Midwives' Union of
+Employees (No 2),185 Justice Davis considered the issue of costs in a Workers'
+Compensation Appeal and relevantly stated the following (citations removed):
+[16] The power to award costs under s 558 of the WCR Act is not limited like the power to award
+costs given by s 545 of the IR Act. It therefore follows that costs ought ordinarily follow
+the event. While costs would normally follow the event of the appeals to the QIRC, there
+is a discretion to make some other costs order. In Davidson v Blackwood, the point is made
+that in the absence of any reasons to make any other costs order, costs follow the event. That
+does not remove the discretion to make some other order and does not extinguish the
+necessity to give reasons why any costs order was made…
+…
+[1] Section 558 provides as follows:
+"558 Powers of appeal body
+(1) In deciding an appeal, the appeal body may—
+(a) confirm the decision; or
+(b) vary the decision; or
+(c) set aside the decision and substitute another decision; or
+(d) set aside the decision and return the matter to the respondent
+with the directions the appeal body considers appropriate.
+(2) If the appeal body acts under subsection (1)(b) or (c), the decision is
+taken for this Act, other than this part, to be the decision of the
+insurer.
+(3) Costs of the hearing are in the appeal body's discretion, except to the
+extent provided under a regulation." (emphasis added)
+[2] By s 558(3), what is "in the appeal body's discretion" (here the QIRC ) are the "costs of the
+hearing". The "costs of the hearing" may be quite a different thing to the "costs of the
+appeal".
+[3] The power to award costs is not a common law power. It is one granted by statute.
+Consequently, if the QIRC does not have a power vested by statute to award costs of the
+appeal beyond the costs of the hearing, then it cannot do so.
+…
+[4] However, the QIRC's only power to award costs in this case probably comes from the WCR
+Act, not restricted by s 545 of the IR Act. In determining the proper construction of s 558(3),
+and in particular the meaning of the term "costs of the hearing", regard must be had to the
+context and purpose of the section having regard to the statute as a whole.
+[5] In my view, the legislature has clearly deliberately limited the costs which can be recovered
+on an appeal to the QIRC. It has drawn a clear distinction between different parts of the
+appeal process. While the legislation envisages that the appeal process may involve a
+conference, no power to award costs associated with a conference is given. The costs are
+limited to the "costs of the hearing".
+185 [2021] ICQ 13.
+
+41
+[6] The law of costs recognises "costs of action" and "costs of trial". In my view, they equate
+to "costs of appeal" and "costs of hearing" respectively. The distinction is explained by
+Professor Dal Pont in his work Law of Costs in these terms:
+"1.19 An order for 'costs of the action' includes not only costs of the trial but also
+those of interlocutory proceedings and their preparation (such as costs
+relating to interrogatories, notices to produce and admit and preparation of
+counsel's brief). These represent the costs to which the successful party in
+the action is entitled on taxation or assessment, in the absence of an order to
+the contrary. The 'costs of the trial' cover only the costs incurred in the
+conduct of the trial itself, not any interlocutory matters preceding the trial.
+In any case, as an action ends with judgment, each of these orders excludes
+costs incurred after final judgment. Costs of executing the judgment are
+therefore not costs of the action (or of the trial) but are payable of the
+execution."
+[7] I accept that distinction. I consider that the term "costs of the hearing" in s 558(3) is
+equivalent to "costs of trial" recognised by the law of costs and explained by Professor Dal
+Pont.
+[8] Consequently, when the QIRC is exercising a discretion under s 558(3) of the WCR Act, the
+order which should be made is not "costs of the appeal" but "costs of the hearing" and costs
+assessors should assess the "costs of the hearing" as they would "costs of trial" as explained
+by Professor Dal Pont.
+[244] Section 132(1) of the Workers' Compensation and Rehabilitation Regulation 2014 (Qld)
+provides that "A decision to award costs of a proceeding heard by an industrial magistrate
+or the industrial commission is at the discretion of the magistrate or commission."
+[245] Counsel for the Appellant has submitted in closing that:
+The Appellant makes no application for costs, in the event that she is successful on appeal.
+In the event that the Appellant fails on appeal, it is submitted that hers was a justiciable case with
+real prospects of success and including live issues to be heard and determined.
+…
+There is no vexatious, litigious or other bad conduct on the part of the Appellant and on this basis,
+it is respectfully submitted that the Tribunal might exercise its discretion to make no order as to
+costs.
+[246] That is unusual.
+[247] Costs in Workers' Compensation Appeals ordinarily follow the event. Had the
+Respondent not defended this proceeding, Ms Carr would not have incurred the expense
+which she did during the hearing of this matter. In my view, an award of costs in favour
+of Ms Carr is reasonable and appropriate, not to punish the Respondent for defending the
+proceeding but rather out of fairness to Ms Carr in ensuring appropriate indemnification.
+For those reasons, a costs order will be made in favour of Ms Carr.
+[248] For the reasoning outlined in Workers' Compensation Regulator v Queensland Nurses
+and Midwives' Union of Employees (No 2),186 the Respondent will only be required to
+pay the "costs of the hearing" rather than the "costs of the appeal".
+186 [2021] ICQ 13.
+
+42
+Conclusion
+[249] It is accepted that Ms Carr's work was the major significant contributing factor to her
+psychological injury.
+[250] This Decision turns on whether or not the management action taken was 'reasonable' and
+taken in a 'reasonable way'.
+[251] This was not a case where Ms Carr was subjected to management action applied to correct
+any real or perceived performance or conduct deficiency - and an injury thence resulted.
+No "management action" was taken against Ms Carr of the type provided in the examples
+of s 32(5) above. Mr Cosgrove did not exercise, or indicate any intention to exercise,
+any of the suite of typical management actions such as transfer, demotion, initiation of a
+discipline process, redeployment, retrenchment or dismissal. Nor did Mr Cosgrove
+exercise, or indicate any intention to exercise, any decision against Ms Carr not to award
+or provide promotion, reclassification or transfer of, or leave of absence or benefit in
+connection with, the worker's employment. This appeal was simply not that type of
+matter.
+[252] Following the expression of Ms Carr's work concerns including the impact it was having
+on her, in November 2018, Mr Cosgrove responded by initiating a series of strategies in
+2019. Some of those alleviated matters, others appeared to compound them.
+[253] By April 2019, an internal review commissioned by Mr Cosgrove had concluded. That
+review contained a series of recommendations, including a broad observation that Ms
+Carr had too many responsibilities and not enough staff. Some of that needed to be
+shifted from her shoulders.
+[254] Other staff were employed as a result. Ms X was one of the new hires and she quickly
+gained Mr Cosgrove's trust and confidence. Ms X's rapid elevation and the special
+considerations afforded to her were a source of irritation for Ms Carr.
+[255] Such chronicle of harboured hurts was recounted to Dr Chalk, who opined that the
+difficulties with Ms X and lack of support from Mr Cosgrove appeared to be the "crux of
+the matter". Dr Chalk stated that Ms Carr's psychological condition had developed "in
+the setting of difficulties in the workplace that had arisen over a period of time", whereby
+such difficulties "…occurred against a background where apparently a number of people
+left the workplace and that two people in her area were not replaced and this seems to
+have placed everyone under the pump."
+[256] I have not found that Ms Carr's various complaints about her interactions with, or about,
+Ms X constituted management action that was either unreasonable or taken in an
+unreasonable way.
+[257] However, I do consider the imposition of an unattainable level of workload and work
+intensity on Ms Carr, in the absence of adequate personnel support and resources to the
+job, to be unreasonable management action. That is what occurred in this case. It is on
+that basis that Ms Carr's appeal must succeed.
+
+43
+[258] For the reasons above, I have found that "reasonable management action taken in a
+reasonable way" was not a factor causative of Ms Carr's injury – and thus the injury
+remains one that is compensable under s 32 of the Act.
+[259] I order accordingly.
+Orders
+1. The appeal is allowed.
+2. The decision of the Respondent of 4 December 2020, as set out in the
+correspondence dated 18 December 2020, is set aside.
+3. The Appellant's application for compensation under the Workers'
+Compensation and Rehabilitation Act 2003 (Qld) is accepted.
+4. The Respondent is to pay the Appellant's costs of the hearing, to be agreed or,
+failing agreement, to be subject to a further application to the Commission.

@@ -33,6 +33,17 @@
 | **7 Aug** | **MENTION before Dwyer** | — |
 | **10 Aug** | — | Stage 2 referral · RTI + **IP Act** applications |
 | **24 Aug** | — | cl 10.3.6 **deemed refusal** |
+| **12 Aug** | — | Psychiatrist attended; ECC handed to him. Cory's email to MSH of 12 Aug gives permission for MSH to speak with the psychiatrist (per Harrison, 13 Aug) |
+| **13 Aug 09:19** | — | ⭐ **Dr Krishnaiah → LBH Injury Management** (High importance): *"I wanted to understand the reasoning for this information sought in the first instance... any performance issues or concerns observed or reported that triggered this process."* |
+| **13 Aug 16:03** | — | **Harrison reply**: asks the psychiatrist to *"share what information Cory has provided to you"*; states the reason for the request as the hours-reduction request *"due to medical reasons"* and *"further clarification"* of Dr Ma's information; declines to send the GP material without Cory's authority |
+| **19 Aug 23:16** | — | ⭐⭐ **Dr Krishnaiah's four questions to MSH** (cc clinic, Solv): (1) basis on which the hours reductions were accepted at first and subsequently; (2) what has changed in QH's administrative position to warrant in-depth psychiatric assessment; (3) QH policy on disclosure of sensitive mental-health information and grounds; (4) concerns or risks observed or reported at the workplace. *"This will help before I undertake detailed assessment."* |
+| **24 Aug** | — | **Limited Scope Authorisation** signed (capacity-for-work information to and from the psychiatrist; report answering employer questions; 12 months; revocable) |
+| **27 Aug 07:42** | — | Dr Krishnaiah → Cory: *"I am waiting for response before I provide requested evidence."* **No MSH reply to the 19 Aug questions** |
+| **5 Sep 12:05** | Dr Krishnaiah declines a medico-legal report; offers all records | Same email: *"QH- I have not received response yet."* **Still no MSH reply, 17 days after the four questions** |
+| **8 Sep 07:18** | Report *"that captures the relevant information you have requested"* attached; records delayed by staff sickness | — |
+| **30 Sep** | Set dated 30 Sep 2026 (election · letter · Second Amended 9A) built. **Decision 29 Sep: the exclusion / RFMI / psychiatrist-authority / MSH non-reply chronology stays OUT of the 9A** (B.3.1 keeps only the 3 Jul 2026 ECC for effect and capacity). It lives here, in the employment track | Last dated MSH non-reply to the treating clinician on file: **5 Sep 2026** (no later reply located as at 29 Sep) |
+
+**Note on the 13 Aug–5 Sep rows:** the employer wrote to the treating psychiatrist once (13 Aug) and has not answered his four questions of 19 Aug as at the last dated email on file (5 Sep). State the dates; never the motive. These rows are employment-track material only: not pleaded in WC/2024/227, not quoted to the Regulator, not put to the Commission except orally at the second conference in one sentence if asked where the Appellant stands (not at work since 3 Jul 2026; no wages; further-medical request unresolved).
 
 **Note on the 25/26 June adjacency:** recorded in date order. **Never asserted as a cause.**
 s 306 IR Act reverses the onus; s 284 makes initiating and participating in a Commission
