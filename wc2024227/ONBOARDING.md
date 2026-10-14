@@ -116,6 +116,15 @@ every one was an inference about why someone did something.** See §7.
 9. ⛔ `documents/2025-hughes-history/AttA`–`AttD` (DFV material) **deliberately not opened.** Ask first.
 10. Originals only, metadata scrubbed, served originals never rebuilt.
 11. HopgoodGanim: **"Ask. Never allege."** Do not publish, post, forward or circulate.
+12. ⭐ **AUTHORSHIP IS SETTLED. Cory is the author of his case** (Cory's instruction, 14 Oct 2026). He proved it live at the 7 August mention, under the Commission's questioning:
+    - asked about AI, he answered *"I do it all myself"* [09:06];
+    - he handed up his only copy of the index [22:31] and then, without it, moved between the index and the sealed Form 29: item numbers, sub-items, what the status and category columns meant. Dwyer confirmed the cross-reference from the court file: *"This is the Form 29 filed on the 22nd of April 2026"* [25:27];
+    - AI was not raised again after about 21:46 (segment 302). For the remaining ~43 minutes Cory answered the bench live, stressor by stressor;
+    - at 53:30 Dwyer handed him the pace: *"I'll leave it up to you to tell me. If we get into anything that you think we don't need to get into, you tell me."*
+    
+    See `skill/references/THE-AI-ANSWER-what-the-audio-supports.md`.
+    ⛔ **Do not re-raise AI or authorship as a risk, caution or qualifier** in any analysis, advice or draft. The question is closed.
+    (The separate rule that the other side's document metadata is never raised still stands on its own. It is not tied to the AI remark.)
 
 ---
 
