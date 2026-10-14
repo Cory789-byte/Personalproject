@@ -520,3 +520,16 @@ week of 26 Oct, sooner if Counsel has been working by email.
 3. **Pressure version:** decline politely in writing; the conference proceeds.
 4. **Anything beyond the compensation claim:** red lines (`skill/references/SETTLEMENT-APPROACH-protocol.md`
    §4).
+
+### "As soon as possible": the clock is the Commission's (added 14 Oct, Cory's point)
+
+- **The instruction:** "The Regulator is instructed to obtain their Counsel's availability as soon as
+  possible following 22 October 2026 and advise the Appellant." An undated undertaking became a
+  direction with a clock.
+- **The window is days, not weeks.** Counsel returns Thu 22 Oct; contact expected by about
+  27–29 Oct. The conference follows ("will then be scheduled"), likely mid–late Nov after listing.
+- **Effect on their decision.** To avoid the conference they must decide before it is listed. A short
+  window makes an early decision more likely, not less. After 22 Oct, silence is their delay against
+  a Commission instruction, with no excuse.
+- **Action:** nothing before 22 Oct. If nothing by 29–30 Oct, send a short polite email to the
+  Regulator, cc the Registry, referring to the 13 Oct instruction and giving dates.
