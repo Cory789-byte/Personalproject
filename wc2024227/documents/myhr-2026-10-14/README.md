@@ -20,8 +20,13 @@ Internal. Employment track only. Nothing here goes into WC/2024/227 or to the Re
 - 29 Sep falls inside both approvals.
 - 80 hours over four weeks is 40 hours a fortnight, the reduced-hours rate. Cory's email of 31 Aug asked for leave at his substantive 76 hours a fortnight.
 
+**LSL request form (printed 12:36):**
+- Cory submitted it on 07.10.2026 with the box "no roster yet / hours higher than my part-time contract" ticked **YES**, and entered **80:00 hours** himself. The 80 hours is his own entry, not a system calculation.
+- **Chloe Donovan-Taylor signed both the Manager endorsement and the Delegate approval on 14.10.2026.** The delegate wording reads "I am the delegate, **or I have approval from the delegate** to approve this request."
+- The form names **HR Policy Long Service Leave C38**, which is not held in the repo.
+
 **Limits:**
 - The PDFs are partial list prints.
 - They don't show who entered the SNP records or when.
 - The date of the 16:11 screenshot isn't in the file; it is between 7 Oct (requested) and 14 Oct (approved).
-- They don't show whether Cory entered the 80 hours or the system calculated them.
+- Resolved: Cory entered the 80 hours himself (see the LSL request form).
