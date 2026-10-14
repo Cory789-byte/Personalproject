@@ -485,3 +485,38 @@ prepared is an exit.
 - Do not let the clock set the terms (protocol: no answer on the spot, 48 hours, in writing).
 - Friday 16 Oct (Tab 32A) is the first live test: admitted on time means clearing the decks; silence
   means everything waits on Counsel.
+
+### Is 22 October the point of an offer, with the conference if refused? (added 14 Oct)
+
+**Answer.** That is the most likely shape. 22 Oct opens the window; it is not the day an offer
+lands.
+
+**Why any offer comes before the conference:**
+1. Guide 5.1: "No commercial settlement is possible at the conference". Terms must be put outside
+   it.
+2. The undertaking puts a conversation with the Appellant before the Registry is told dates. That is
+   the slot.
+3. An early concession saves Counsel's conference day and keeps the Commissioner's question ("what do
+   you contradict, and with what?") off the record.
+
+**Ranked (judgement):**
+1. **Exit:** consent orders setting aside RD 69983 and accepting the claim, probably with "no order
+   as to costs". Most likely.
+2. **Dates only now, position after the conference,** fitting the guide's "new information" frame.
+   Second.
+3. **Pressure version:** "discontinue, and we won't seek costs". Least likely; it would mean Counsel
+   expects to win (a thesis refuter).
+
+**If refused:** the conference proceeds (the Commission: it "will then be scheduled"). The
+Commissioner chairs; the guide's post-conference review window follows.
+
+**Timing:** Counsel returns Thu 22 Oct; then advice, sign-off and MSH told. Contact most likely in the
+week of 26 Oct, sooner if Counsel has been working by email.
+
+**Responses:**
+1. **Exit:** ask for it in writing; check the form (consent orders accepting the claim as lodged; no
+   other terms). "No order as to costs" is acceptable in this view. Reply within 48 hours.
+2. **Dates only:** dates in writing, nothing else.
+3. **Pressure version:** decline politely in writing; the conference proceeds.
+4. **Anything beyond the compensation claim:** red lines (`skill/references/SETTLEMENT-APPROACH-protocol.md`
+   §4).
