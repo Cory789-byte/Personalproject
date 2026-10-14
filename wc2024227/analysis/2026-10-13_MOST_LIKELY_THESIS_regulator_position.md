@@ -303,3 +303,71 @@ as any 9A must. The particulars are facts; the contest lives in the contentions,
 **Why they will not write it.** It would show, in their own hand, that the facts are the Appellant's
 and that their defence is labels they cannot evidence on most particulars. Direction 5 asks for
 exactly that in miniature.
+
+## Four premises and the April comparison: the thesis consolidated (added 14 Oct)
+
+**Cory's premises:**
+1. The route was the Appellant's.
+2. The documents are essentially all admitted.
+3. Counsel drafted the 9:21 email.
+4. The 9A is hard to plead against because it is facts.
+
+### 1. The route was the Appellant's
+
+- FDO(3) direction 5 gave the election (conference or hearing) to the Appellant. "The Regulator
+  agrees" changed nothing procedurally.
+- Joining the election makes the conference a joint step, so anything conceded there reads as a
+  cooperative outcome.
+- No hearing date was sought alongside it.
+
+### 2. The documents are done
+
+- 38/39 admitted or confirmed.
+- What remains for the conference is para 27, management action and reasonableness per particular,
+  and leave. That is the question of whether they keep their defence.
+
+### 3. Counsel drafted it
+
+- **Register.** Matheson's own Registry emails are plain ("I email in relation to … Please find
+  attached for filing", 18 Feb). This one is not: "set down", "in the first instance", "respectfully
+  requests the Commission's consent for its undertaking".
+- **If Counsel drafted it, Counsel has read the package and chose the response.** The review is under
+  way now.
+- **"Not contactable until 22 October" is about timing, not reach.** The delay is chosen.
+- Internal only; never voiced.
+
+### 4. The 9A is facts
+
+An honest 9C mirrors the facts and adds labels it cannot evidence on most particulars.
+
+### The April comparison (new evidence)
+
+- When the Appellant amended his 9A (8 Apr 2026), Counsel sought five weeks to answer it, and the
+  amended 9C was filed on 13 May (confirmed-record).
+- Against the Second Amended 9A, built on the Regulator's own admissions, no time to answer was
+  sought: only time to give dates, and "discussed" rather than ordered.
+- **In April they wanted to plead; in October they want not to.**
+
+### Consolidated thesis
+
+Counsel has read the package and concluded the Regulator cannot usefully plead against it. The email:
+1. joins the conference the Appellant chose, so the next step looks consensual;
+2. keeps the position off paper (no 9C, no direction 5 answers);
+3. fixes a window to 22 Oct, presented as Counsel's leave, in which the position is decided (MSH
+   consulted; internal sign-off).
+
+**Real intention: a managed exit,** narrowing or concession after a conference they have "agreed"
+to, without written particulars recording how little stands behind the defence. A defensible case
+would have produced a request for time to plead, as in April.
+
+### Odds (judgement)
+
+- **Concession before hearing: 55–65%. Overall favourable: about 80%.**
+- The April contrast is new evidence, not a re-read of the same facts, so it alone moves the
+  estimate.
+
+### Refuters
+
+- A request for time to file an amended 9C.
+- A late expert report.
+- "Will be defending" restated.
