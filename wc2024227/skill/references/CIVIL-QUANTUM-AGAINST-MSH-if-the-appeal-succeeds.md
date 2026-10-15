@@ -365,3 +365,30 @@ Weekly compensation follows **certified incapacity from the accepted injury**, p
 **Pattern.** Plaintiffs win where the employer knew both the hazard and signs of distress, and failed to act. They lose where there was only stress or unhappiness, or the conduct was reasonable management.
 
 **Where Cory sits.** Strong on the known hazard and the breach: the fatigue guideline, the 7-hour break, the fatigue requests escalated to HR, Reese's acknowledgement. The battleground is which signs of psychological distress MSH had before June 2024.
+
+## MONTE CARLO, 16 Oct 2026 (`mc_civil_16oct2026.py`, 100,000 runs; planning only)
+
+**Inputs (all assumptions):**
+- appeal success 85%;
+- civil success, if the appeal is won, 70–80%;
+- lasting loss of earning capacity: triangular 15–60%, mode 40% (Cory reports his doctors support ongoing partial incapacity);
+- net weekly earnings $1,320;
+- 30–32 working years at 5%;
+- vicissitudes 15–25%;
+- past economic loss about $115k;
+- super 12%;
+- general damages $15–55k;
+- treatment $15–40k;
+- settlement at 55–85% of the assessed amount.
+
+**Results:**
+
+| | Scenario A (mode 40%) | Scenario B (mode 50%) | Scenario C (cautious, mode 25%) |
+|---|---|---|---|
+| Median total, all outcomes | $323k | $357k | $259k |
+| Chance of $350k or more | 43% | 52% | 27% |
+| Chance of $500k or more | 6% | 11% | 3% |
+| If the civil claim pays: median total | $386k (middle half $331–444k) | $410k | $347k |
+| If the civil claim pays: in hand | about $253k (middle half $211–298k) | — | — |
+
+$1M is effectively nil unless lasting loss approaches total incapacity.
