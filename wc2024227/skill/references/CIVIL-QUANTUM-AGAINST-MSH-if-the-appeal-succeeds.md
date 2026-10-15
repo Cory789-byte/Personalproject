@@ -351,3 +351,17 @@ Weekly compensation follows **certified incapacity from the accepted injury**, p
 - 2025–26 reduced hours: the difference, if partial incapacity was certified; this goes mostly to the IP overpayment.
 
 **2026 exclusion — softened from the "No" in Part 0.** A worker with **partial** capacity whose employer does not provide suitable duties is ordinarily paid weekly compensation at the partial rate, which steps down after 26 weeks and again after two years. So WorkCover could cover the period from 13 Jul 2026, but only if a WorkCover capacity certificate ties the 2026 restrictions to the accepted injury. ⚠ That route runs against the wages position ("fit, ready, willing and able, held out"), and the same weeks cannot be paid twice. The choice is for a lawyer. ⛔ Never suggest anything to the doctors about certificates. Verify the WCRA partial-incapacity provisions at source before relying on this.
+
+## COMPARABLE OUTCOMES, checked by web search on 16 Oct 2026 (secondary sources; read the judgments before relying on them)
+
+| Case | Result | Why |
+|---|---|---|
+| *Robinson v State of Queensland* [2017] QSC 165 (Henry J, Cairns, 8 Aug 2017) | **Won, $1,468,991.11.** Appeal discontinued | District Director of Nursing, Cape York Health Service; managerial mistreatment by the CEO; chronic adjustment disorder; career loss. queenslandjudgments.com.au/caselaw/qsc/2017/165 |
+| *Ackers v Cairns Regional Council* [2021] QSC 342 | **Won, about $1.1M** (press reports). Appeal status not checked | Payroll supervisor; the council knew of the workload, and signs of distress made the injury foreseeable |
+| *Robertson v State of Queensland* [2021] QCA 92 | **Lost**, appeal dismissed | Enrolled nurse, Gold Coast Hospital; unhappiness and stress were not signs that made psychiatric injury foreseeable; performance processes were reasonable |
+| *Kozarov v Victoria* [2022] HCA 12 | **Won** in the High Court (amount not verified) | Inherent risk; employer did not respond to evident signs |
+| *Koehler v Cerebos* [2005] HCA 15 | **Lost** | No foreseeability: no signs, and the employee had agreed to the role |
+
+**Pattern.** Plaintiffs win where the employer knew both the hazard and signs of distress, and failed to act. They lose where there was only stress or unhappiness, or the conduct was reasonable management.
+
+**Where Cory sits.** Strong on the known hazard and the breach: the fatigue guideline, the 7-hour break, the fatigue requests escalated to HR, Reese's acknowledgement. The battleground is which signs of psychological distress MSH had before June 2024.
