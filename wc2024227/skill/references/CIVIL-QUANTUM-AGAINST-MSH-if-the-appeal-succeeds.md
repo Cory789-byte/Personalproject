@@ -323,3 +323,20 @@ them is a place to be self-represented.**
 - **Deed cl 10:** binds Cory: no adverse comment, publicly or otherwise, about the Beneficiaries regarding the Deed or the recited matters. ⇒ The "coordination" theory stays off paper for this reason too.
 - **Johns letter, 9 Oct 2024, p 2 (verified):** "While MSH has received correspondence from the Office of Industrial Relations regarding your application to review the decision made by WorkCover Queensland to deny your Workers Compensation claim, this does not remove your obligation..." Separation was nominated "Noting that between June 2024 and 19 September 2024 you were awaiting the outcome of a WorkCover claim". ⇒ This proves MSH's knowledge of the review and that the separation date was set by reference to the claim. It does not prove coordination.
 - **Review decision, p 1 (verified):** "Review decision of 22 October 2024". That is day 25 of the 25 business days. The reasons are dated 24 Oct 2024.
+
+## CLAIMS MAP AFTER THE DEED CHECK, 16 Oct 2026 (confidential, lawyer only)
+
+| Possible action against MSH | Status | Clock | Who runs it |
+|---|---|---|---|
+| Common law negligence (psychiatric injury), including any aggravation from the 2024 dismissal | **Open.** Excluded from the release (cl 8). Gate: appeal, then notice of assessment (s 237) | Working 18 Mar 2027; statutory 18 Jun 2027 / s 302 | PI firm, no-win-no-fee |
+| Anything about the 2024 dismissal itself: unfair dismissal, adverse action, discrimination, reinstatement, reprisal | **Released** (cl 8 and cl 9 bar), except any claim that "cannot be excluded at law" | — | Lawyer to confirm any non-excludable statutory right |
+| 2026 wages (13 Jul – 27 Sep) and leave re-credit | **Open.** Does not arise from the Dismissal | Long | Union or IR lawyer |
+| Award/EB dispute (Stage 2) | **Open** | Process clock | Union |
+| AD Act impairment discrimination (exclusion, failure to provide work) | **Open** | 1 year from conduct (continuing; verify s 138 in a current reprint) | IR lawyer |
+| IR Act adverse action (2026 conduct) | **Open.** Reverse onus, s 306 | 6 years (s 310(3)); **21 days from any dismissal (s 310(1))** | IR lawyer |
+| Reprisal for the disclosure (2026 conduct only) | **Open.** Separate track; never in the appeal | Lawyer to confirm | Lawyer |
+| Privacy (information to ART and third parties) | **Open.** Low value | Lawyer to confirm | Lawyer / OIC |
+| Deed enforcement: cl 2(a)–(b) credits applied? cl 11 adverse comment by MSH staff? | **Check** | — | Lawyer |
+| LSL date: 2024 recoding (Payroll 8 Sep 14:22), Directive 15/24 after acceptance | **Administrative** first; dispute if refused | — | Union / Terry |
+
+**Discipline that follows from cl 10:** frame every 2026 claim on 2026 conduct. Refer to 2024 only as dated documents. Make no adverse comment on the deed or the recited matters.
