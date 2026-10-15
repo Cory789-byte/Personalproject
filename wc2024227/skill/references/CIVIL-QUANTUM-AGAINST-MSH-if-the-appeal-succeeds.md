@@ -301,3 +301,17 @@ outside all of that, are genuinely additive, and are currently around **$19k** a
 **$3.3k a fortnight**. **Everything above depends on one decision and one event — the election on the Notice of
 Assessment, and the 21-day clock that starts on the day of any future separation — and neither of
 them is a place to be self-represented.**
+
+---
+
+## UPDATE 15 OCTOBER 2026: three flags cleared at source (ATT26, current 1 Jan 2025)
+
+- **The refund: VERIFIED, s 270(1).** "The amount of damages that an employer is legally liable to pay to a claimant for an injury must be reduced by the total amount paid or payable by an insurer by way of compensation for the injury." s 271 sets out how the reduction is fixed. ⇒ Statutory benefits are an advance against damages, as Part 3 assumed.
+- **The election: VERIFIED, s 239(1)–(2) and s 237(3).** Where the notice of assessment states a DPI below 20% and offers lump sum compensation, the worker cannot have both the lump sum and damages. Accepting the lump sum ends the right to seek damages (s 237(3)), except under s 266.
+- **The gate: VERIFIED, s 237(1)(a)(i).** Damages are open only to a worker who has received a notice of assessment for the injury. s 237(5) abolishes any other entitlement.
+
+**Limitation.** The user's timeline workbook (15 Oct) uses a working date of **18 Mar 2027**. That is three years from the 17–18 March 2024 shifts. The repo's date is three years from injury, **18 Jun 2027**, with the s 302 / Schedule 5 alternatives. ⇒ Treat 18 Mar 2027 as the safe working deadline for having a PI lawyer engaged and the steps under way. A lawyer must confirm the operative date.
+
+**Still unverified:**
+- the ISV range for psychiatric injury, and the 2024 general damages table;
+- *Koehler*, *Kozarov* and *Hayes*, which have not been read to pinpoint in this matter.
