@@ -340,3 +340,14 @@ them is a place to be self-represented.**
 | LSL date: 2024 recoding (Payroll 8 Sep 14:22), Directive 15/24 after acceptance | **Administrative** first; dispute if refused | — | Union / Terry |
 
 **Discipline that follows from cl 10:** frame every 2026 claim on 2026 conduct. Refer to 2024 only as dated documents. Make no adverse comment on the deed or the recited matters.
+
+## NUANCE ON PART 0, 16 Oct 2026: does WorkCover pay every gap?
+
+Weekly compensation follows **certified incapacity from the accepted injury**, period by period. The gaps:
+- 18 Jun to the first certificate (about 28 Jun / 1 Jul 2024): probably not paid.
+- 1 Jul – 19 Sep 2024: paid.
+- 20 Sep – 13 Dec 2024: nil net (deed cl 2(c)(i) wages).
+- 13 Dec 2024 – 23 Feb 2025: paid if certificates cover it.
+- 2025–26 reduced hours: the difference, if partial incapacity was certified; this goes mostly to the IP overpayment.
+
+**2026 exclusion — softened from the "No" in Part 0.** A worker with **partial** capacity whose employer does not provide suitable duties is ordinarily paid weekly compensation at the partial rate, which steps down after 26 weeks and again after two years. So WorkCover could cover the period from 13 Jul 2026, but only if a WorkCover capacity certificate ties the 2026 restrictions to the accepted injury. ⚠ That route runs against the wages position ("fit, ready, willing and able, held out"), and the same weeks cannot be paid twice. The choice is for a lawyer. ⛔ Never suggest anything to the doctors about certificates. Verify the WCRA partial-incapacity provisions at source before relying on this.
