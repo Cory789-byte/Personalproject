@@ -278,3 +278,5 @@ absent on health grounds rather than held out.
 - If certificates also cover 13 Dec 2024 – 23 Feb 2025 (73 days), the date moves to about mid-April 2026.
 
 ⇒ After acceptance, ask Payroll to recalculate under Directive 15/24 and to pay LSL from 13 July 2026. The 14 Oct approval runs from 29 Sep. ⛔ Raise this only after the decision. Never raise the appeal with MSH.
+
+**CORRECTION to Addendum 3, 16 Oct 2026.** Deed clause 4, checked against the signed deed, reads: "The period from 13 December 2024 to 23 February 2025 will be treated as leave without pay." Those 73 days were agreed as leave without pay, so do not count them in the LSL scenario. The realistic effect of winning the appeal is the 92-day 2024 period only, which puts the eligibility date at about 29 Jun 2026. Deed confidential (cl 12); lawyer only.

@@ -315,3 +315,11 @@ them is a place to be self-represented.**
 **Still unverified:**
 - the ISV range for psychiatric injury, and the 2024 general damages table;
 - *Koehler*, *Kozarov* and *Hayes*, which have not been read to pinpoint in this matter.
+
+## UPDATE 16 OCTOBER 2026: deed and 2024 letters, checked against source documents (confidential, lawyer only)
+
+- **Deed cl 8, verified:** "The Applicant releases the Beneficiaries from all claims arising from the Dismissal, excluding any common law personal injury claim, statutory Workers' Compensation claim, or any claim that cannot be excluded at law." ⇒ Head A and the appeal are not released. The 2026 heads do not arise from the Dismissal.
+- **Deed cl 2(c)(i):** wages were paid for **20 Sep – 13 Dec 2024**. Weekly compensation for that same period is likely to be offset. **Correction:** the statutory arrears are mainly for **18 Jun – 19 Sep 2024** and **13 Dec 2024 – 23 Feb 2025**, not the whole span to February. Lawyer to confirm.
+- **Deed cl 10:** binds Cory: no adverse comment, publicly or otherwise, about the Beneficiaries regarding the Deed or the recited matters. ⇒ The "coordination" theory stays off paper for this reason too.
+- **Johns letter, 9 Oct 2024, p 2 (verified):** "While MSH has received correspondence from the Office of Industrial Relations regarding your application to review the decision made by WorkCover Queensland to deny your Workers Compensation claim, this does not remove your obligation..." Separation was nominated "Noting that between June 2024 and 19 September 2024 you were awaiting the outcome of a WorkCover claim". ⇒ This proves MSH's knowledge of the review and that the separation date was set by reference to the claim. It does not prove coordination.
+- **Review decision, p 1 (verified):** "Review decision of 22 October 2024". That is day 25 of the 25 business days. The reasons are dated 24 Oct 2024.

@@ -281,3 +281,11 @@ How the chain fits together: Harrison 15 Jul ('not responsible for your payments
 - myhr-2026-10-14/README.md corrects an earlier same-day misreading: the requests were approved, not removed.
 
 GRADES: [D] = quoted from the document at the file and page shown. [A] = an MSH admission, or Cory's own concession where marked. [W] = working inference. Nothing here was taken from documents/2025-hughes-history/AttA-AttD.
+
+---
+
+## CORRECTION 16 Oct 2026: "recalled"
+
+Roberts on 13 Aug and Payroll on 8 Sep (14:22 and 15:38) both sent **"Recall:" notices**. The original emails were **delivered and are held** in Cory's mailbox. The accurate statement is "recall attempted; originals delivered". Do not say the emails were recalled or withdrawn.
+
+The inference that written replies are second-guessed after sending survives in that weaker form.
