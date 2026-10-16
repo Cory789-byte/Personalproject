@@ -176,3 +176,14 @@ So the set was **complete by 28 Sep**.
 - costs are dealt with expressly.
 
 **5. Ask whether their representative has authority to settle** (Model Litigant Principles 3.2).
+
+## F. Addendum 16 Oct 2026: Tab 32 (ledger R35)
+
+**What arrived.** At 15:58 on Fri 16 Oct, the deadline Cory had set, Matheson replied to the 7 Oct request: "The Regulator confirms the veracity of these documents." That covers Tab 32A (the Manager Switchboard Services role description, AO4) and Tab 32B. She repeated the 8 Sep reservation: admitting existence is not admitting truth, and relevance and admissibility are reserved.
+
+**What it means.**
+- It fits the pattern in B2 and B3. Document items are cleared at officer level, on time, while counsel is away.
+- The decision items stay open for counsel: para 27, leave, and the particulars.
+- Every requested document is now confirmed except **Tab 24**.
+- The reservation is boilerplate that preserves a relevance objection to the manager's role description. It is not a change of position.
+- **Net effect:** the conference agenda shrinks to the decision items, plus Tab 24 and facts 228–231. Their stated reason for not admitting those facts (that the Regulator did not hold the register) went on 12 Oct.
