@@ -58,3 +58,25 @@ Do not fight the reservation. Ask once, at the conference, for particulars. The 
 - **Aligned interests, not proof of coordination.** WorkCover insures MSH's common law liability, and MSH wants no findings. The Regulator has its own institutional reason (the review method). The decision sits with counsel and the delegate.
 
 **For Cory:** findings cut both ways. A contested hearing could also produce adverse findings (credit, causation, the stressors Dwyer was sceptical about on 7 Aug) that would hurt the civil claim. Consent orders with no findings are neutral for the civil claim, which is proved on MSH's own documents through a PI firm. Do not push for a hearing to get findings. Use their wish for "no findings" to secure the E4 terms, and never accept a release of the common law claim.
+
+## Evidence grading (18 Oct): does their conduct compel the thesis?
+**Strong** (hard to explain any other way):
+- No expert by 30 Sep, the outlines conceding errors, para 27 unparticularised, and 298 of 303 admitted. Together these make "they intend to fight and expect to win" implausible. It is a finding about capability, not intent.
+
+**Moderate:**
+- 12 Oct: "in lieu of ordered… in the first instance", the "speak with the Appellant" step, and a pasted email. This departs from their own 17 Feb practice, when counsel's dates were given within hours and the Registry fixed the date. The process is being managed.
+- Silence on leave after "noting" 16 Oct for both emails. Decisions are being held for counsel.
+
+**Weak or ambiguous:**
+- The 16 Oct reservation by itself. The r 49 template explains it. ⚠ The earlier line "it shows where they feel exposed" overstated it.
+- Bain pulling records before Matheson's email: consistent with MSH involvement, but also with routine.
+
+**Counter-evidence (keeps a "fight" scenario alive):**
+- The 24 Sep witness list (four witnesses).
+- The Calderbank #2 rejection (16 Jul) and "position unchanged" (14 Aug). Both predate the admissions and the lapsed expert deadline.
+- No offer yet.
+
+**Overall:**
+- "Not preparing to fight": strongly supported.
+- "Controlled exit on their terms": well supported.
+- "To avoid findings that help the civil claim": plausible, not proven. The test is the offer's wording (P3: "without admission", no reasons).
