@@ -105,6 +105,90 @@ against the sent copies"):
 - it has no Stressor 2 aphorism;
 - the 18 June apology sits in the supporting records.
 
+
+### Where the reader draws their own conclusions (sent version, by page)
+
+The reader formally decides in one place: Part D, p 29, six questions. The answers form earlier, at the points below.
+At each one, the 9A lines up the record and stops. It states for itself only what is arithmetic, admitted, or the
+Respondent's own words. **Every judgement about people (credibility, pattern, proportion, motive) is left to the
+reader, and must stay the reader's. It is never voiced in correspondence, at the conference, or in the box. Answer
+with the dates.**
+
+**Q1–Q2: injury and contribution**
+- **p 2, 1.3.** The psychiatric referral is "the day after the request to retract". → *The decline tracks that week.*
+- **p 2, 1.2 and 1.5.** No depression before; no mental-health medication in May 2024; "no pre-existing factor".
+  → *This condition began in the period.*
+- **p 3, 1.8–1.9, with p 28 (5A).** Their review found injury and contribution. His treating doctors will give
+  evidence. Their list names no doctor. → *The medical evidence runs one way.*
+- **p 12, medical link for Stressor 1.** Their review records Dr Hawes's "Non-adherence to rules by management" as
+  medically causative. → *Their own decision holds his GP's causal view.*
+- **p 15, 2(n).** Three pay corrections reached a payslip "two days after the Appellant's last shift". → *Fixed only
+  once he could no longer attend.*
+
+**Q3: management action, or a condition of the work** (formal decision: p 27, C 4, "asked first to decide")
+- **p 6.** The console (hundreds of calls, callers in crisis, concurrent codes) comes before any particular. → *This is
+  the job itself.*
+- **p 7, 1(b).** A "temporary" project role; access removed "while I am fixing up the database"; "Nothing is alleged
+  to have happened in that time to restore access". → *A temporary measure became the working condition for 11
+  months.*
+- **p 8.** Corrections on "Tuesday and second Monday"; after-hours requests "have to wait". → *A 24/7 console with an
+  office-hours repair path.*
+- **p 13.** The Manager initiated all five pay corrections, and he initiated none. → *He could not fix his own pay.*
+- **p 23, read with p 28.** Their witness calls it "a rostering practice issue for the line manager". → *Management
+  action, on their own account.* 5A then says so expressly.
+
+**Q4: reasonable, and reasonably done** (formal: p 18, the agreement's application, "a contention for determination")
+- **p 6 → pp 10–11.** "There was a procedure in place" is answered with "Its operation in May 2024 is pleaded at 1(h)
+  and 1(k)". → *The reader tests the procedure and finds it failed.*
+- **p 9.** "Human error" is pleaded twice, for "events less than a month apart". → *A pattern.* The 9A never uses the
+  word.
+- **p 10.** Nine misdirected calls. The first reply came 5 days 18 hours later and asked the clinician for her hours
+  ("not provided on the rosters"). → *The response was aimed at the wrong thing.*
+- **p 11, 1(k).** "This task was being actioned… discussed with Richard this morning". There is no record of that
+  discussion, no contact with the Service, and no amendment. She had said she would not be in "until around 11am" that
+  Monday. → *The reader weighs the claim against the record.* Limit: the discussion could have been by phone or after
+  11 am.
+- **p 11.** "We can also put the updated procedures out to the team for consultation before implementing". →
+  *Consultation had not been happening.*
+- **p 11, 1(l).** He asked for her hours. The retract request came 5 hours 8 minutes later. The email was removed from
+  the shared inbox on HR's advice. The hours were given 1 day 20 hours later. → *The request was reasonable, so the
+  response was out of proportion.*
+- **p 12.** "Sorry I haven't been there for you all over the past week", sent on 18 June 2024, the certified injury
+  date.
+- **p 15.** "Remedied in a timely manner" sits against 509 days, "without stating these dates". → *"Timely" fails.*
+- **p 17.** "Even if the eight-hour agreement applied": 7 is less than 8. → *No defence in the agreement.*
+- **pp 19–20.** About 4 hours' sleep, then the Monday early shift (the peak) and the codes. → *Felt, not argued.*
+- **pp 20–21.** The next day was taken as his own sick leave, and no fatigue leave was due. → *He paid for the short
+  break.*
+- **p 21.** "Cory's roster will not be considered… not yet aware", then eleven days later she asks what concerned
+  him. → *The sharpest gap in the document.*
+- **pp 21–22.** The risk was rated "moderate". The guideline covers every employee and requires training for rostering
+  staff and managers. Yet assessment came only after 30 June 2024, and training was given only to clinicians. → *The
+  framework existed and was not applied.*
+- **p 23, read with pp 12, 18 and 21.** "Not intentional or repeated" sits against "a few rostering errors made by
+  Chloe with regards to Cory's line" and the 2023 error. → *"Not repeated" is contradicted by their Director.*
+- **p 23.** "The roster was equitable" sits against the November 2024 paper's "more equitable roster".
+
+**Q5: the injury as a whole**
+- **p 28.** "No outline addresses" 1(b), 1(f), 1(h), 1(k), 3(e) or 3(f). → *The core goes unanswered.*
+- **p 29.** C 7 (Langerak [86]) asks for the weighing. C 10: para 27 names no management action, and its
+  "explanations" ("human error"; "could refuse shifts at anytime") have already been tested at pp 9 and 23.
+
+**Q6: perception**
+- **pp 8 and 11.** The employer admitted "an oversight" (2023) and published its hours within two days (2024). →
+  *These were real events, not perceptions.* C 1 (Prizeman) is on p 27.
+
+**Where the reader's own conclusion could run the other way, and what already answers it**
+- **p 2 (Nov 2023 shift-work sleep, temazepam) with p 8 (he asked for full-time rotational work and nights).** →
+  "Shift work itself". Answered at p 17: the case is the seven-hour break below the Award floor, not shift work. HR's
+  own email says the agreement applies only to staff-initiated swaps, and none is alleged (pp 17–19).
+- **p 19 (the night is his account).** → It is tied to his 9 Aug 2024 submission, "less than five hours", made before
+  any proceeding. "Awake and working for about sixteen hours" is the one phrase cross-examination can pull at.
+- **p 29, Q6 with the Tab M3 fragment.** → Answered in the medical schedule: "the email records its state four months
+  later".
+- **p 20 (the codes on 19 March, a sick-leave day).** This is the one place the reader is given no direction (H5,
+  deliberate).
+
 ---
 
 ## REPO BUILD (14 pp): not what was sent; kept for the record
