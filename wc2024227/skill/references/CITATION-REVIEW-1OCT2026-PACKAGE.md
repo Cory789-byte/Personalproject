@@ -196,3 +196,8 @@ The 9A went "for leave only; not for filing", and the Regulator has asked that l
 Do not send piecemeal corrections now.
 
 **Added 18 Oct 2026 (low, check before filing):** the repo build `drafts/out/FORM9A_SECOND_AMENDED_FOR_FILING.pdf` contains a blank fact reference, "[¶ ___]", after the EB consultation passage ("…respond to such information"). Check the copy actually sent on 1 Oct, and make sure the corrected version has no blank references.
+
+**Added 18 Oct 2026, repo build of Stressor 1 (check before filing):**
+- **Stressor 1(n) still sets out part of the complaint's content:** "concerns raised within the department were not being addressed, and that decisions were being made which directly affected service delivery and patient outcomes". That breaches the standing rule that the disclosure's content is never set out (ONBOARDING discipline 8, and H2's fix). Cut (n) to the fact and date only. "Patient outcomes" also falls under the patient-harm discipline.
+- **Blank fact references "[¶ ___]" appear 3 times** (the EB consultation passage and twice in (n)). Fill or remove them.
+- **Structure is sound.** Causative circumstances are (a)–(i) and (p). (j), (k), (n) and (o) are context only. It says "no retaliatory or reprisal connection… is alleged" and "The Appellant pleads no characterisation of any person". Suggest a three-line mechanism summary at the head of Stressor 1, because Dwyer reads the opening.
