@@ -2543,3 +2543,38 @@ the likelihood ratio is about 1 and it does not move the forecast.
 - December-or-later dates with no approach.
 
 **Score on:** counsel's first communication after 22 Oct, and the conference outcome.
+
+### E38.1 · Sunday 18 October 2026, evening: E38 re-affirmed after the day's analysis
+
+**Added since E38:**
+- the Bain handover chain;
+- Taylor kept off the 2026 paper, with her outline omitting her own fact-292 admission;
+- MSH's 2026 employment documents;
+- the evaluation of Dwyer's reply (F.1, F.2).
+
+**What pulls up:**
+- Taylor's credibility exposure if the matter is contested;
+- MSH's exposure on its own paper, which aligns MSH with a no-findings exit;
+- Dwyer converting the Regulator's undertaking into his own instruction, with a clock from 22 Oct.
+
+**What pulls down:**
+- **No expert:** weakly diagnostic, because a s 32(5)(a) defence needs none.
+- **The outlines' concessions:** compatible with an "isolated error, otherwise reasonable" defence.
+- **Dwyer's reply:** in his routine style, so it is not evidence of his view.
+
+**Net: no material change.**
+
+| Outcome | Probability |
+|---|---|
+| No contested hearing | **67%** |
+| Win if heard | ≈75% |
+| Appeal allowed either way | ≈92% |
+| Civil claim pays something if the appeal is won | 6–8 in 10 |
+| $350k or more | about even, with the doctors' support |
+| Employment: redeployment, funded study and a development plan | 55–65% after a concession; 35–45% before |
+| Employment: back pay from 13 Jul and leave recredit | about 70% |
+
+**Score on:**
+- counsel's first move (R31/R34, from 23 Oct);
+- MSH on 27–28 Oct;
+- the conference.
