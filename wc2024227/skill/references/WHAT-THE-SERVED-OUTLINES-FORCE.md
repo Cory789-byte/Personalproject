@@ -108,3 +108,16 @@ Topic 9 supplies the causation bridge in one sentence:
 (Guide 7.6.5). Topic 8 sets the baseline — never diagnosed or treated for depression before
 18 June 2024 — and topic 2 carries the sleep, travel and fatigue evidence that remains the softest
 target in cross-examination.
+
+## Wright's line: "a rostering practice issue for the line manager" (checked 18 Oct 2026)
+**Source.** Respondent outlines, 24 Sep, Ms Wright: Technical Support advised "that the Award's fatigue provision applies to breaks around overtime, not between two ordinary shifts, and that what had occurred was better characterised as a rostering practice issue for the line manager rather than an unpaid entitlement. (SOFAC para 24(b))". **The phrase is not in the SOFC.** Para 24(b) says only that under cl 18.10 there is no fatigue entitlement "because he was not performing overtime". It is new content added in the outline.
+
+**Why they wrote it.** It is the pay defence (Stressor 3(c)): no entitlement was withheld, so this was not a pay matter. It is Payroll's own reasoning, and Wright is a records witness ("no personal dealings"). The outlines were built paragraph by paragraph from the SOFC, so the pay answer was written without regard to the roster answer.
+
+**What it concedes, read with the admitted record:**
+- **Domain and owner.** The 17–18 Mar break was a rostering matter, and the rostering was the line manager's. Read with fact 260 (the review found the roster unreasonable management action).
+- **The loop.** Taylor escalated the fatigue request to HR (fact 244). It was refused "after a consultation with payroll and Human Resources" on the 2020 agreement (fact 247). Payroll says it was a rostering issue for the manager. The cost (19 March from Cory's own leave) landed on the worker. That is Stressor 3(c) in their own words.
+- **"Practice" against "not repeated".** SOFC para 22(a) and Taylor's outline say "human error and not intentional or repeated". Reese wrote on 10 May 2024 "a few rostering errors made by Chloe with regards to Cory's line in past rosters" (fact 220), and on 20 May 2024 "our rostering practices" (fact 222).
+- **The agreement does not save it.** Para 22(a) itself says "a 7-hour break (rather than an 8-hour break)". Seven hours is under the agreement's own eight.
+
+**Use and limits.** Put it to Wright and Taylor at any hearing (fair put, with the document). ⚠ "Practice" may mean the domain (how rostering is done) rather than a habit, so rely on the domain and owner reading. An outline is not evidence until it is given. Keep it off correspondence.
