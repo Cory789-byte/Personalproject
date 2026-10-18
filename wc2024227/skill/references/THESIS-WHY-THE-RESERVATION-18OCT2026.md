@@ -49,3 +49,12 @@ It is the employer's own designation of the owner of fatigue governance, with du
 
 ## What it means for Cory
 Do not fight the reservation. Ask once, at the conference, for particulars. The wording they value ("without admission", no findings) is cheap for Cory, so trade it for the substantive terms in STANDSTILL-READ s E4. Get advice before answering any offer. Keep correspondence short and written.
+
+## Addendum (Cory's question, 18 Oct): is the reservation really about the civil claim?
+**Mostly yes. It is aimed at findings, not admissions.**
+- **Admissions cannot travel anyway.** r 49(1) makes them "for the proceeding only", and MSH is not a party to the appeal.
+- **What can travel, as persuasion, is a reasoned decision after a contested hearing.** It could find that MSH knew of the fatigue risk, that the manager held the governance duties (Tab 32A) and they were not carried out, that complaints went unanswered, and that Cory's account is preferred to Taylor's and Reese's. Those are the civil claim's duty, breach and credit findings. They would not bind MSH (it is not a party, so there is no issue estoppel), but they would be public, persuasive, and drive settlement value.
+- **The reservations on relevance and weight** (MSH officers' statements, the review's findings, Tab 32A) are the tools to keep the Commission from making those findings. Consent orders without reasons avoid them entirely.
+- **Aligned interests, not proof of coordination.** WorkCover insures MSH's common law liability, and MSH wants no findings. The Regulator has its own institutional reason (the review method). The decision sits with counsel and the delegate.
+
+**For Cory:** findings cut both ways. A contested hearing could also produce adverse findings (credit, causation, the stressors Dwyer was sceptical about on 7 Aug) that would hurt the civil claim. Consent orders with no findings are neutral for the civil claim, which is proved on MSH's own documents through a PI firm. Do not push for a hearing to get findings. Use their wish for "no findings" to secure the E4 terms, and never accept a release of the common law claim.
