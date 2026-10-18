@@ -192,3 +192,52 @@ So the set was **complete by 28 Sep**.
 - **Real changes to watch:** leave to add an expert; an amended para 27 naming a management action; leave to withdraw an admission; opposition to leave for the 9A; a specific relevance objection to Tab 32A at the conference.
 - **Use:** "without admission" is cheap for Cory to give (a consent order makes no findings, and the civil claim runs on MSH's own documents). Trade it for the substantive terms in E4. Lawyer to confirm before any offer is answered.
 - **Net effect:** the conference agenda shrinks to the decision items, plus Tab 24 and facts 228–231. Their stated reason for not admitting those facts (that the Regulator did not hold the register) went on 12 Oct.
+
+## F. What on the record let Dwyer read R29 beneath its words (18 Oct, Cory's question)
+
+⛔ This is inference about a judicial officer's thinking. It is never voiced, and never attributed to him on paper.
+The points are what the record before him makes legible. His reply is consistent with that reading.
+
+**What was in front of him.**
+- **The filed 1 Oct letter and election.** It gave him the Regulator's notified case:
+  - 298 of 303 facts and 29 of 39 documents admitted or confirmed;
+  - ¶27 identifying no management action (fact 303);
+  - four lay witnesses and no medical or expert witness;
+  - the outlines' three concessions, quoted;
+  - "no account" of 1(b), 1(f), 1(h) and 1(k);
+  - the onus conceded;
+  - "descriptions of conduct" withdrawn.
+- **The proposed 9A** (for leave):
+  - 5A quotes the outlines;
+  - B.5 lists the absences;
+  - C 10 shows ¶27 identifies nothing;
+  - Part F sets out costs (s 558(3), Regulation s 191, the without-prejudice reservation), and F 4 rests on the course
+    of the proceeding.
+- **The decision under appeal:** injury and significant contribution found, unreasonable management action on
+  17–18 March, rejected on "two out of three".
+- **The 24 Sep witness list,** as filed: four lay witnesses, "reserves its right to amend". (The outlines were served,
+  not filed. He knows their content only through the letter and the 9A.)
+- **His own words on 7 Aug:**
+  - the Regulator must contradict, and if it does not, "likely … accepted";
+  - "a problem for them, not for you";
+  - he is against interlocutory disputes and against delay ("2028").
+- **The Appeal Guide §5.1:** the conference is where the Respondent "may decide to review its position or consider
+  conceding".
+
+**What R29 did against that.**
+- Items 2–7 are the orders that would have forced a written case (¶27, management action particular by particular,
+  amendment). They were deferred, not answered.
+- No position formula, no opposition to leave, no time sought, no expert application.
+- "In the first instance".
+- Counsel named as the decision point.
+- An unusual request for the Commission's consent to a party-to-party "undertaking". In February the Regulator
+  offered counsel's slots to the Registry the same morning, without asking Cory first (A4).
+
+**His reply (13 Oct).**
+- "Notes".
+- No orders on items 2–7, and none refused, so they stay live.
+- The party-to-party step is accepted in substance ("advise the Appellant").
+- The clock is on them: "as soon as possible following 22 October".
+- The conference is to follow "joint" availability.
+
+That is the shape of giving a party room to resolve, under time pressure, with the orders held in reserve.
