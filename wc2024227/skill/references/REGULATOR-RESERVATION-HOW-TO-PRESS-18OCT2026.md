@@ -44,3 +44,43 @@ The 8 Sep cover letter admits existence and wording, and reserves truth of conte
 - Run an estoppel. There is none. This is forensic and credibility pressure.
 - Spend credibility on the post-June 2024 documents (Tabs 17–19, 21–24). Relevance to s 32 is thin and the Regulator can fairly object. Concentrate on the pre-June 2024 core.
 - Use "column reflex", "sneaky" or any motive language outside this file.
+
+## Addendum, 18 Oct: the reservation read against the sent 9A (30 pp)
+
+**What the 16 Oct reply reserves.**
+- An admission of a document's existence "is not an admission of the truth of any statement, opinion, finding or
+  assertion in the document".
+- "The right to object to the relevance or admissibility of any fact or document at the hearing".
+
+**What the sent 9A already says.** It never draws truth from an admission:
+- p 1: each written step is pleaded "as the step taken, on the date and in the terms recorded, rather than
+  characterised";
+- B.4, p 24: "They do not depend on whether any statement in a document is true";
+- B.5, p 26: "admissions about what those documents do and do not contain… the qualification in the Respondent's
+  letter of 8 September 2026 does not apply to them";
+- C 8, p 29: "does not contend that any admission decides whether any conduct was reasonable; that is for the
+  Commission";
+- C 9: de novo applies to the whole decision, so the conclusion falls with the findings.
+
+The 1 Oct election (item 4) and letter both say: "No direction as to relevance, weight or admissibility is presently
+sought." **The two sides now agree on the rule, so the reservation reserves against a claim the 9A does not make.**
+
+**Where the weight sits.** It sits on what neither side can reserve: who wrote what, to whom, when, and what was not
+done (existence, terms, timing, absence). Every point that bears weight has a fallback that needs no document's truth:
+- **The 2020 agreement.** The first line is HR's 7 Jul 2026 email saying it applies to swaps only (Tab 21). The
+  fallback is "even if the agreement applied… a seven-hour interval was below eight hours" (pp 17–18).
+- **The 15 April consultation.** The load sits on ¶ 51 (effective the day it was notified) and ¶ 273 (no document
+  listed). The Nov 2024 ballot (Tabs 22–23) is support only.
+
+**Which way it cuts.** The reservation removes truth from the employer's own exculpatory statements as well. "This task
+was being actioned" (20 May, 4:30 pm) is admitted as written, not as true, on the Regulator's own words. To be believed
+it needs Taylor's evidence, and C 5A records that no outline addresses the Integrated Respiratory Service emails or
+the contact-details document.
+
+**Relevance and admissibility.**
+- **Relevance:** every particular states its purpose (causal, context, or record of handling).
+- **Admissibility:** the Commission is not bound by the rules of evidence (IR Act s 531(2)).
+
+**Tab 32A.** The 16 Oct reservation is attached to Tab 32A, the Manager's role description. Tab 32A is not in the sent
+9A, which predates the 7 Oct request. So the reservation guards the meaning of the next document, which is consistent
+with the controlled-exit thesis.
