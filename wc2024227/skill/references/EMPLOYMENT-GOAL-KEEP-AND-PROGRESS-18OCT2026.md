@@ -219,3 +219,62 @@ In applications, use work samples and achievements that are not the litigation.
 
 ⛔ No classification comparison with the Manager in writing. No cognitive or medical assessment information in
 applications.
+
+## Skills shown in the appeal, and specific fits (18 Oct)
+
+**Shown on the record** (what Cory filed, served, argued and raised).
+1. **Evidence architecture.**
+   - The 303-fact notice to admit, with a 39-document annexure: 298 admitted, 0 denied. Each fact is narrow,
+     anchored and undeniable.
+   - A medical schedule (M1–M9) and a document-status schedule.
+2. **Statutory and instrument interpretation.**
+   - WCRA (ss 32, 549, 552A, 558), IR Act (ss 451, 531) and IR(T) Rules (rr 49, 64G, 230).
+   - The Appeal Guide, the authorities, and Award and EB clauses (15.1(d), 3.2, 6.2, 9.13–9.14, 18.10).
+   - HR policies and directives, applied to facts. He also caught "major" against "significant" in s 32(1).
+3. **Procedural strategy.**
+   - A non-party disclosure notice (r 64G), filed, sealed and taken through objection.
+   - FDO(3), made on his own correspondence.
+   - The direction 5 election, with directions designed to turn positions into obligations.
+   - The leave application.
+   - The judgement to concede the onus.
+4. **Written advocacy for a decision-maker.**
+   - The 9A: a summary page, reading rules, a Guide 4.8 list of stressors, "So …" interval sentences and
+     medical-link paragraphs.
+   - One-page outlines.
+   - Measured letters to the Registry: ask, never allege.
+5. **Analysis and root cause.**
+   - The 2024 directory-error diagnosis (¶¶ 94–96).
+   - Data-integrity reasoning on myHR process numbers (¶¶ 205–206, 210).
+   - Interval arithmetic to the minute.
+6. **Hypothesis generation that tests well.** Several of the 18 Oct insights were his and held up on checking:
+   - no time sought to meet the 9A;
+   - Taylor kept off the paper;
+   - the handover chain;
+   - the employment documents read together.
+
+   Some needed qualifying: Bain had authored the 2024 response.
+7. **Negotiation and stakeholders.** Two Calderbank offers; consent requests; withdrawing the objection to MSH's
+   extension (pragmatic); union work; delegate.
+8. **Sustained project management.** Two years over several tracks, with every directions deadline met.
+9. **Clinical literacy.** Three years of nursing: emergency codes and clinical records.
+
+**Specific fits, ranked.**
+1. **Health complaints or investigations officer.** For example, the Office of the Health Ombudsman (Qld) or the
+   Queensland Human Rights Commission's investigation and conciliation roles. This combines clinical knowledge,
+   evidence handling, chronology, procedural fairness and neutral drafting. It is outside MSH, so there is no
+   conflict. About AO5–AO6.
+2. **Workplace or industrial relations advisor.** At the Department of Health or another HHS, or as an industrial
+   officer at the union. It is the strongest skills match, and it sits outside MSH. AO5–AO6.
+3. **Clinical governance, or patient safety and quality.** At another facility or HHS. AO5–AO6.
+4. **Inside MSH now (the settlement ask):** clinical governance support, or health information and coding with
+   acting at AO5.
+5. **Long term:** law (JD/LLB) leading to employment or IR legal work.
+
+**Presenting it.**
+- Describe the skills without the litigation, for example: "researched and applied legislation and industrial
+  instruments to complex workplace issues; prepared structured submissions and evidence schedules; managed a large
+  document set and chronology; negotiated with government agencies; workplace delegate".
+- Map them to the Queensland public sector capability statements used at selection.
+- Use non-litigation work samples.
+- **Growth note:** tribunal-length writing translates to one-to-two-page briefs at work. The one-page outlines show
+  he can do it.
