@@ -2506,3 +2506,40 @@ The conference is planned around counsel's availability, so counsel's attendance
 - The listing, likely November.
 
 **Cory's move.** Send his availability early, in writing, cc the Registry. Hold the substance for the conference papers. The corrected 9A should be ready before the listing.
+
+### E38 · Sunday 18 October 2026: chances of no contested hearing (scoreable)
+
+**Basis.**
+- 298 of 303 facts admitted. No expert by 30 Sep. Their outlines concede.
+- ¶27 is unparticularised.
+- R29 (12 Oct) put items 2–7 to the conference "in lieu of ordered". It sought no time to meet the 9A, did not
+  challenge it, and left consent to leave unanswered past the 16 Oct date noted in R26.
+- R35 (16 Oct) confirmed Tab 32A on the deadline.
+
+**"At the hearing of this appeal"** (the last words of R35) is the 8 Sep "Reservation of rights" sentence, verbatim
+and shortened. The 24 Sep list uses the same frame. An objection to relevance or admissibility can only be taken at
+a hearing, so the reservation has to name it. The wording would be identical under a concession path or a fight, so
+the likelihood ratio is about 1 and it does not move the forecast.
+
+**Forecast.**
+
+| Outcome | Probability |
+|---|---|
+| Resolved without a contested hearing (concession or consent orders at any point before the hearing) | **67%**, up from 60% |
+| …of which at or within about 3 weeks of the conference | ≈45% |
+| …of which later, before the hearing date | ≈22% |
+| Contested hearing | 33% |
+| Appellant succeeds if heard | ≈75% |
+| Appeal allowed either way | ≈92% |
+
+**Moves up (to about 80%):**
+- counsel's dates soon after 22 Oct, with the "speak with the Appellant" step used for more than dates;
+- a s 552B request together with a without-prejudice approach;
+- unconditional consent to leave.
+
+**Moves down (to about 35%):**
+- an application to add an expert or witnesses;
+- ¶27 particularised together with opposition to leave;
+- December-or-later dates with no approach.
+
+**Score on:** counsel's first communication after 22 Oct, and the conference outcome.
