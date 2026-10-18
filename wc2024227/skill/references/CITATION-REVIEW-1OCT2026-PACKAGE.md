@@ -12,6 +12,7 @@ Reviewed 11–12 October 2026. This is internal. Nothing here goes into correspo
 The PDFs were created at about 08:56 AEST that morning. The versions emailed at 16:45 are described in the covering email as 2, 9 and 30 pp, so they are later files, and their differences are unknown.
 - The Gmail connector cannot download attachments, and copies are not in Drive or OneDrive.
 - **Every finding below must be checked against the sent copies before anything is corrected.**
+  ✅ **Done 18 Oct 2026:** the sent copies are now filed at `documents/sent-2026-10-01/`. See "Checked against the sent copies" at the end of this file.
 - The uploads are no longer in the container.
 
 **Sources checked.** Everything below was checked against the repo's primary sources:
@@ -184,7 +185,7 @@ External checks:
 
 - **Practice Direction 3 of 2021:** the QIRC site returned 503. The repo's own record says it caps email filings at 30 pp.
 - **Delaney [2005] QIC 11; (2005) 178 QGIG 197:** this matches the review decision's own footnote 5, but there is no copy in the repo.
-- **The sent versions** (9 and 30 pp).
+- ~~**The sent versions** (9 and 30 pp).~~ ✅ Obtained 18 Oct 2026 from the raw Gmail MIME (see the end of this file).
 - **File-level metadata of the 12 October attachments:** not yet opened.
 
 ## Practical course
@@ -201,3 +202,57 @@ Do not send piecemeal corrections now.
 - **Stressor 1(n) still sets out part of the complaint's content:** "concerns raised within the department were not being addressed, and that decisions were being made which directly affected service delivery and patient outcomes". That breaches the standing rule that the disclosure's content is never set out (ONBOARDING discipline 8, and H2's fix). Cut (n) to the fact and date only. "Patient outcomes" also falls under the patient-harm discipline.
 - **CORRECTED: blank fact references "[¶ ___]" appear 45 times in this build**, not 3. They sit in the EB consultation clauses, the (n) complaint chain, the fatigue arithmetic and the register entries. The first count used a regex bracket by mistake; a fixed-string match gives 45. This build is a work in progress, not the copy sent on 1 Oct (this review found that copy's 285 citations all resolved). Fill or remove every one before filing.
 - **Structure is sound.** Causative circumstances are (a)–(i) and (p). (j), (k), (n) and (o) are context only. It says "no retaliatory or reprisal connection… is alleged" and "The Appellant pleads no characterisation of any person". Suggest a three-line mechanism summary at the head of Stressor 1, because Dwyer reads the opening.
+
+## Checked against the sent copies — 18 October 2026
+
+**Source.** The sent copies were extracted from the Gmail raw MIME (thread `1a0f637121dfa44d`, message
+`1a0f6c6ff26021a5`). They are filed at `documents/sent-2026-10-01/`: the election (2 pp), the letter with its Schedule
+(9 pp) and the 9A (30 pp, created 15:09 AEST).
+
+**Result.** The text of the sent 9A carries the findings above, except where marked below.
+
+**Deliberate choices.** Cory has said the discipline departures are deliberate (18 Oct). That covers H2–H5. The
+accuracy items are not of that kind.
+
+| Item | In the sent copy? |
+|---|---|
+| H1: Carr [2022] QIRC 59 "as applied" (C 7) | Present |
+| H2: 1(i) "corrupt conduct complaint regarding clinical risks" | Present (deliberate) |
+| H3: B.3.1(b) "(TD/2024/110)" | Present (deliberate). The date of 8 Oct 2024 is correct |
+| H4: Part D Q6 (s 32(5)(b)) and C 5B | Present (deliberate) |
+| H5: the four "patient safety" paraphrases, the code definitions, the 19 March codes, Ward 3DR bed 11 | Present (deliberate) |
+| M1: "three adult MET calls (one cancelled within a minute)" and "eleven codes" | Present |
+| M2: bed 3DR-11 "MET call at 14:38 on the shift of 18 March" (the shift ended at 14:00) | Present |
+| M3: cl 6.2 agreement or ballot "before it" [15 April], cited [¶¶ 180 to 181]; B.5.1 | Present |
+| M4: the letter paraphrases fact 303 without "by particular, date, document or cross-reference" | Present. The letter adds that the admission "concerns paragraph 27" |
+| M5: stressor-list row 3 and C 5A, "no fatigue risk management … before 30 June 2024" | Present. The page-1 summary uses the employer's words |
+| M6: fact 272 widened to "at any time before 30 June 2024" (twice in Stressor 1; Stressor 3 supporting records) | Present. B.5.6 has the correct period |
+| M7: "non-clinical [¶ 265]" | Present |
+| M8: 1.8 "[Tabs M6, M8 and M9.]" | Present |
+| M9: "has been, or will be, prepared" | **Fixed.** 1.9 reads "No medico-legal report has been prepared for this proceeding" |
+| M10: "Amended … filed 7 April 2026" (B.3.1, C 1) | Present |
+| M11: "23 September" | **Fixed.** It is not in the sent election or letter |
+| M12: tab statuses | Superseded by later events (12 and 16 Oct), not a drafting error |
+| M13: full FRMS guideline missing from Schedule Part 2 | **Fixed.** The Schedule lists "GDL-401-3.3:2021 (the full disclosed guideline)", and 3(h) says so |
+| M14: RBWH 001443, Neville Report and 2011 update, Coroner's findings of 12 Sep 2008, AS 4083 | Listed in Schedule Part 2 as public documents. Copies are still not in the repo |
+| Low: fact 288 "admitted" | Present |
+| Low: 3(d) "never reviewed" | Present |
+| Low: 3(b) "awake and working for about sixteen hours" | Present. This is his own evidence and will be tested in cross |
+| Low: 1(e) "eligible for up to five days' paid leave …" with no source marked | Present. Partly covered by the Part B rule that an unbracketed statement comes from the Schedule or his evidence |
+| Low: 1(h) "first reply" | Present |
+| Low: B.3.1(e), the employment-track narrative | Present |
+| 18 Oct note on "[¶ ___]" blanks | **Not in the sent copy, which has none.** The note applies to the repo build only |
+
+**Further reader points on the sent copy (18 Oct).**
+- **1.6 "on the referral".** It reads back to 16 May, but 1.3 says no appointment came from that referral. The
+  referral meant is the one recorded on 8 Sep (1.5).
+- **Fluoxetine.** 1.6 says fluoxetine "was increased", while 1.5 says the medication box is unticked. The start date
+  is not in the repo.
+- **The diagnosis fragment and Q6.** 1.6 quotes only part of the diagnosis sentence. The rest of it ("obsessive
+  preoccupation about work cover claim and perceived injustice") is at Tab M3, which is the Respondent's own item 9.
+  With Part D Q6 in the document, their counsel will put the two together. The answer is already in the served
+  medical schedule: "the email records its state four months later".
+
+**Practical course (unchanged).** Prepare a corrected v2 with a one-page list of changes before the conference. The
+accuracy items do not touch the structure.
+

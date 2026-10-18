@@ -1,5 +1,114 @@
 # The 9A, walked as a reader — 18 October 2026
 
+## ⭐ THE SENT VERSION: what Dwyer has (30 pp, 1 Oct 2026)
+
+Source: `documents/sent-2026-10-01/2026-10-01_1645_Cory_3_Proposed_Second_Amended_Form_9A_AS_SENT_30pp.pdf`. Read in
+full on 18 Oct. The repo-build walk further down is of a different and earlier document. What did not carry over from
+it is listed at the end of this section.
+
+### The walk
+
+1. **Page 1 is the case.** It gives the injury, accepts the onus, and lists the three stressors with their brackets.
+   The reader holds the conclusion before the detail (an advance organiser), so the next 29 pages read as
+   confirmation.
+2. **Part B opens with the rules for reading it.**
+   - A bracket means the fact is admitted.
+   - No bracket means the statement comes from the Schedule or is his evidence.
+   - What is not admitted is named: Tab 31, the call statistics, the operating conditions, the travel and sleep
+     account, and facts 228–231.
+   - Repetition is declared deliberate.
+   - The medical material is not used to prove events.
+3. **B.1 is candid.** It discloses the temazepam and the 2022 history. 1.3 places the referral the day after the
+   request to retract, with no comment, so the reader joins the two. 1.9 says how causation will be proved: by the
+   treating GP and psychiatrist, who will also address the non-employment matters.
+4. **The list of stressors (pp 3–5).** It follows Appeal Guide Part 4.8: every causal particular is numbered, dated
+   and titled. A reader notices the compliance.
+5. **Stressor 1 puts the reader at the console on page 6,** before any particular. It opens with the duty and ¶ 289,
+   then his account: hundreds of calls, distressed callers, locating callers in emergencies, and concurrent codes.
+6. **The rhythm.** Each particular ends with "So the sequence was…" in times and intervals. Each conclusion arrives
+   as arithmetic, not argument.
+7. **The peaks.**
+   - 1(e): the Respondent pleads "human error" twice, in events less than a month apart.
+   - 1(h): nine occasions, and a first reply 5 days 18 hours 14 minutes later.
+   - 1(k): "this task was being actioned", with no record of it.
+   - 1(l): his request for office hours was called a Code of Conduct breach, removed from the shared inbox on HR's
+     advice (Taylor's outline), and then answered 1 day 20 hours 15 minutes later.
+8. **Each stressor closes on a "medical link" paragraph.** In Stressor 1, their own review records Dr Hawes's view
+   that "Non-adherence to rules by management" was medically causative.
+9. **Stressor 2** sets "remedied in a timely manner" against their own Payroll's dates: 33, 98, 67, 65 and 509 days.
+   The 9 February correction was made after the appeal began, with an exemption from the form he was asked to sign.
+   This is the strongest juxtaposition in the document.
+10. **Stressor 3.**
+    - The scope paragraph closes the agreement defence before the reader reaches it: the seven-hour roster is
+      relied on even if the agreement applied.
+    - Cl 15.1(d) is quoted and cl 18.10 is placed.
+    - "So, on the admitted record…" is the cleanest chain in the document.
+    - Then come the night, the codes, and "the day after the consecutive shifts was recorded against the
+      Appellant's own sick leave".
+    - The pairing of "Cory's roster will not be considered … not yet aware" with the 21 May question is kept.
+11. **The detour (pp 18, 21–22).** The code definitions, RBWH 001443, AS 4083, the FRMS guideline and the Neville
+    Report history. This is where the walk is furthest from the console.
+12. **B.4 and B.5.** A 2½-page table of intervals and the list of absences. These are the reference cards.
+13. **Part C.**
+    - The onus is accepted, citing Prizeman (reality, not perception).
+    - "does not ask the Commission to find conduct unreasonable from labels alone".
+    - C 4 asks the Commission to classify the circumstances first.
+    - C 5A turns their outlines into their own description: "human error", "a rostering practice issue for the line
+      manager", "from ten hours to eight". It lists what no outline addresses and notes four lay witnesses and no
+      medical evidence.
+    - C 10 concedes the limit of fact 303.
+14. **The ending.** Part E seeks a substituted decision under s 558(1)(c). Part F ends on costs, but F 4 restates the
+    three strongest points, so the last fact the reader meets is ¶ 260.
+
+### How the reader judges it
+
+- The reader carries the thesis from page 1, and every bracket confirms it.
+- The reader trusts the labels, because the document volunteers what is not admitted.
+- The "So…" sentences are conclusions made only of timestamps.
+- The heat is mostly theirs. His frustration in 1(c) sits right beside her "an oversight". The one charged line in his
+  own voice is 1(i) (citation review H2; deliberate).
+- The case can be decided from pp 1–5 and 24–30; the middle is proof on demand. That is the answer to "page after
+  page".
+- There is causation per stressor. The medical-link paragraphs answer the failure that sank Carr: no evidence linking
+  the stressor to the injury.
+
+### Objective view
+
+**Verdict.** As a reader's document it is stronger than the repo build. A neutral reader finishes it believing four
+things:
+1. the facts are not in dispute;
+2. the core is conditions and admitted sequences;
+3. the Regulator has not said which management action it relies on;
+4. its own witnesses do not address most of the case, and it has no medical evidence.
+
+**Where a careful reader slows down.** All of these are confirmed present in the sent copy (citation review, "Checked
+against the sent copies"):
+- Carr, which was set aside;
+- "awake and working for about sixteen hours";
+- bed 3DR-11 "at 14:38 on the shift of 18 March", when the shift ended at 14:00;
+- "three adult MET calls";
+- facts 180/181 and fact 272's period;
+- ¶ 265 for "non-clinical";
+- Tab M6 in 1.8;
+- "filed 7 April";
+- the medical-sequence trio in 1.5–1.6;
+- the 19 March codes, from a day he was on sick leave (H5, deliberate). The reader cannot place them;
+- Part D Q6 read alongside the Tab M3 fragment (prepared answer: "its state four months later").
+
+**What did not carry over from the repo-build walk below:**
+- the sent copy has no blanks;
+- it cites cl 15.1(d), not 15.2(c);
+- it states the causal and context status up front;
+- it has no C 5(vii) seam;
+- it has no "condition it left in place for eleven months" line;
+- it has no patient-harm disclaimer;
+- it has no Stressor 2 aphorism;
+- the 18 June apology sits in the supporting records.
+
+---
+
+## REPO BUILD (14 pp): not what was sent; kept for the record
+
 Source walked: the repo build `drafts/out/FORM9A_SECOND_AMENDED_FOR_FILING.pdf` (14 pp). The 30-page
 copy sent on 1 October is not in the container, so its pages 1–2 may differ from this build.
 The structure and the rule departures are deliberate (Cory, 18 Oct). This file records how the
