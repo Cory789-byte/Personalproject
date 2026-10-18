@@ -53,3 +53,48 @@ She is not new to the file. She is at the start of MSH's case and now at its doc
 - The date of injury is "as recorded on the work capacity certificates".
 - The injury is pleaded over a course of conduct, "not … an event on a single day".
 - Section 32(1) is anchored to the review's own finding (Part A; 1.8; C 3).
+
+## What the four employment-stream documents in the production say together (Cory's point, 18 Oct)
+
+**What Bain printed first** (24 Sep, 09:28–09:39) were the 2026 documents from the live case folder.
+
+| Tab | Document | What it records |
+|---|---|---|
+| 17 | Movement form, 1–15 Mar 2026 | Temporary change to working conditions, AO Switchboard (position 32002276), **Continuous Shift Worker**: "to extend reduce hours contract … possible extension". Manager Donovan-Taylor 19.02; delegate **Hughes** 27.02 |
+| 18 | Movement form, 16 Mar–26 Apr 2026 | "reduced hours from 1FTE to 0.7fte … with possible extension after review". Donovan-Taylor 09.04; **Hughes** 17.04 (approved after the period began) |
+| 19 | Movement form, 25 May–28 Jun 2026 | "request to reduce contracted hours from 1.0FTE - 0.5TE 40hrs per fortnight. Temp request until 28.06.26 until further review and documentation to be provided to support request". Donovan-Taylor 27.05; **Hughes** 09.06 |
+| 21 | Forrest (Senior Consultant HR), 7 Jul 2026, "Cory Shepherd ECC further information" | The rostering "currently provides more than" the break. The 8-hour agreement "is only applied where staff initiated shift swaps have occurred" |
+
+**Set against the employment stream** (verified: sent 9A B.3.1(e); `FROM-5JUNE-the-two-tracks.md`; myHR).
+- **26 Jun, 10:42:** Taylor's "Cory Shepherd — ECC" makes the checklist a bar to attendance. That is two days before Tab 19
+  expired.
+- **2 Jul:** no return without an ECC.
+- **3 Jul:** Dr Ma, **fit with restrictions**. He is directed not to attend.
+- **13 Jul:** no wages from this date.
+- **20 Jul:** Income Protection – No Pay, "Requested by: Chloe Donovan-Taylor".
+- **31 Jul:** Hughes's RFMI (nine questions).
+- **14 Oct:** leave approved to **27 Oct**.
+
+⛔ Keep the 25/26 June adjacency in date order only. It is never a cause.
+
+**Read together** (the facts are verified; the reading is inference).
+- **February to June 2026.** MSH managed his capacity by approved adjustment, three times, with Taylor certifying
+  and **the same delegate who later issued the RFMI** approving. There was no RFMI in that period.
+- **The arrangement lapsed on 28 Jun.** The 3 Jul ECC (fit with restrictions) is consistent with what MSH had been
+  approving. The exclusion follows the **non-renewal**, not a documented change in capacity. This extends the G3
+  asymmetry.
+- **Tab 21 is an HR email written inside the exclusion process.** It concedes the point that defeats the
+  Regulator's 2020-agreement defence on 17–18 March 2024.
+- **MSH's own record of 2026, authenticated by its top HR officer:** a continuous shift worker in his position,
+  working reduced hours that MSH approved, until MSH stopped renewing them. Not one of these documents helps the
+  Regulator.
+
+**Use.**
+- **WC.** Tabs 17–19 support his status (¶¶ 14–16) and the continuing effect (1.0 → 0.7 → 0.5), as context only.
+  Tab 21 supports 3(b).
+- **Employment track.** The forms are his own records, usable on their own terms. ⛔ Do not use the Regulator's r 49
+  confirmations, which are "for the proceeding only". Ask, never allege, for example: "What changed between the
+  arrangement approved on 9 June and the direction of 3 July, given the checklist of that day?"
+- **Thesis.** A hearing would put the 2026 sequence before the Commission (9A B.3.1(e)). A no-findings exit also suits
+  MSH. Expect any WC concession to be paired with employment-side movement.
+- **Watch 27–28 Oct**, when the approved leave ends: renewal of reduced hours, continued exclusion, or SNP.

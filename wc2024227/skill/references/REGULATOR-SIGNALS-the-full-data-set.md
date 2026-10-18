@@ -237,3 +237,10 @@ MSH, separately:
 ⚠ **Mailbox:** the Regulator serves Hotmail. Absence in Gmail is not non-receipt.
 
 **Forecast stands at E38.** No contested hearing, 67%.
+
+**MSH watch item added 18 Oct.** On **27–28 Oct** the approved leave ends. What MSH directs for 28 Oct is the
+employment-side read:
+- renewal of the reduced-hours arrangement or a return = **aligned with an exit**;
+- exclusion or SNP resumed = **divergence**.
+
+See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
