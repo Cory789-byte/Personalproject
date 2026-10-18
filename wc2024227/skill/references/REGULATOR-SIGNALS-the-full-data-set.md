@@ -167,3 +167,73 @@ his own ingest forwards. **Absence in Gmail is not evidence of non-receipt.**
 
 **Next two observations:** Fri **25 Sep** (R17 — read in the E28 watchlist order) · Wed **30 Sep
 4 pm** (R18 — directions 3 and 4). ⭐ **Classify only on the pair, per E28.1.**
+
+---
+
+## ⭐ WATCHLIST UPDATE — 18 October 2026: the through-line, and the signals that resolve it after 22 Oct
+
+**The through-line, 8 Sep to 16 Oct (verified; ledger R14–R35).**
+
+| Rule | Class | Evidence |
+|---|---|---|
+| A. Concede what cannot be denied; deny nothing | 4 | 298/303 admitted, 0 denied; 38/39 documents confirmed (MSH's own copies matched); the outlines concede three errors |
+| B. Put no position in writing since the admissions | 2, 7 | The formula "position remains to defend the appeal as outlined in our Statement of Facts and Contentions" last appeared on **14 Aug (R12)**. It is absent from **all ten** Regulator communications since 8 Sep, including R29 to the Commission, where it would naturally sit |
+| C. Meet dates that carry a consequence; let the rest slip; clear the cheap item first | 1, 6 | r 49 and direction dates met. R28 at 08:30, then R29 at 09:21. Leave consent was noted for 16 Oct (R26) and not answered (R35) |
+| D. Preserve meaning with a reservation | 2, 4 | 8 Sep letter; 24 Sep witness list ("reserves its right to amend"); 16 Oct R35 |
+| E. Route the decision to someone not yet in the room | 5 | Counsel "until 22 October"; the undertaking to speak with the Appellant |
+
+**MSH, same week.** Leave approvals came through myHR on 14 Oct (E11), and the union reported the leave "credited" on
+15 Oct (E12). MSH stays silent on the substantive asks (silence map). The shape is the same: cheap items cleared,
+positions deferred.
+
+- **Coordination:** not shown.
+- **The pattern:** shown.
+
+**Already in Cory's favour.** These make conceding rational; they do not yet prove it.
+- 0 denials.
+- No expert by 30 Sep.
+- The outlines concede the errors and are silent on the core.
+- Fact 303 (¶27 identifies no management action).
+- The formula is gone.
+- Every document is confirmed.
+- The 9A is unchallenged, with no time sought and consent unanswered.
+- R29's shape: conference, no orders, counsel, and a private channel.
+- 13 Oct: Dwyer's single instruction, "as soon as possible".
+
+**Resolving signals after 22 Oct: concession path** (R34 window).
+1. Contact comes to Cory first, per the undertaking, and is about more than dates.
+2. A s 552B request for counsel at the conference, together with a without-prejudice approach.
+3. The first position-mode letter has **no formula**, or uses Guide 5.1 language ("review its position").
+4. Unconditional consent to leave, or a request not to press leave "pending discussion".
+5. The words "consent orders", "s 558(1)(c)", "without admission" or "own costs".
+6. At the conference: no objection named to any admitted fact or document, and ¶27 not particularised.
+7. November dates.
+
+**Falsifiers: fight path.**
+1. The formula returns, especially anchored to a **new** amended SOFC.
+2. An application to add an expert or witnesses, an IME request, or a demand for further medical records.
+3. ¶27 particularised, with opposition to leave.
+4. Time sought beyond the 14 days offered.
+5. December-or-later dates with no approach.
+6. Specific objections to pre-June 2024 core facts, or an r 49(3) application to withdraw admissions.
+7. Willson's appearance email tied to a hearing listing (class 5).
+8. s 32(5)(b) or "perceived injustice" raised in correspondence.
+9. ⚠ **An "offer" that is a request that the Appellant withdraw or discontinue.** That is not a concession (R34 note).
+
+**Read each new communication on eight lines.**
+1. Timing against consequence.
+2. Register (operational = holding).
+3. Anchor (formula present or absent).
+4. Selection.
+5. Who writes it (Matheson, team leader or counsel).
+6. Sequencing.
+7. Channel (Cory directly, or the Registry).
+8. Reservation present or absent.
+
+MSH, separately:
+- answering substantive asks = aligned with an exit;
+- a new RFMI or disciplinary step = divergence.
+
+⚠ **Mailbox:** the Regulator serves Hotmail. Absence in Gmail is not non-receipt.
+
+**Forecast stands at E38.** No contested hearing, 67%.
