@@ -84,3 +84,66 @@ the contact-details document.
 **Tab 32A.** The 16 Oct reservation is attached to Tab 32A, the Manager's role description. Tab 32A is not in the sent
 9A, which predates the 7 Oct request. So the reservation guards the meaning of the next document, which is consistent
 with the controlled-exit thesis.
+
+## Addendum 2, 18 Oct: what was asked, what was answered, the orders, and what the reservation is inserted into
+
+**Asked, 7 Oct (verified, under the 16 Oct reply).**
+- One thing: admit under r 49 that Tab 32A "is a true copy of the Role Description that Metro South Health enclosed
+  with its letter of 5 June 2026, so that it may be tendered without further proof".
+- If not admitted, "state the ground". For 32B: "No further admission is sought".
+- This matches election item 4 of 1 Oct: authenticity only, and "No direction as to relevance, weight or
+  admissibility is presently sought". That echoes the 8 Sep triad, "relevance, admissibility or weight".
+
+**Answered, 16 Oct.**
+- "The Regulator confirms the veracity of these documents". That is what was asked.
+- Then two things nobody asked for:
+  - a truth disclaimer;
+  - "the Regulator reserves the right to object to the relevance or admissibility of any fact or document at the
+    hearing of this appeal". This is lifted from the 8 Sep "Reservation of rights" paragraph.
+- It reaches the whole record, not just Tab 32A. No objection is identified and no ground is given. It is the first
+  appearance since 8 Sep; the 24 Sep and 12 Oct confirmations were bare.
+
+**The orders.**
+- **FDO(3), 19 Aug** (rendered; made "FURTHER TO the correspondence of the Appellant dated 10 August 2026"):
+  - directions 1–4: witness lists, one-page lay outlines, and "any expert reports that will be relied upon", both
+    sides, by 4 pm on 30 Sep;
+  - direction 5: once those are finalised, the Appellant contacts the Registry to proceed to a second s 552A
+    conference or to hearing. Done 1 Oct.
+- **Regulator, 12 Oct 09:21:** items 2–7 "better placed to be discussed at the conference in lieu of ordered in
+  directions".
+- **Dwyer, 13 Oct 12:26:** one instruction. Obtain "Counsel's availability as soon as possible following 22 October
+  2026 and advise the Appellant"; the conference is then scheduled.
+- No order calls for any statement on relevance or admissibility. WCRA s 552A states no purposes; it only empowers
+  the conference and requires attendance.
+
+**What the reservation is inserted into.**
+1. **The request.** A one-document confirmation becomes a reservation over the whole record.
+2. **Rule 49 (ATT27 p 34).**
+   - The rule allows two answers: admit, or within 14 days dispute "the facts or the authenticity of the documents".
+     The only way back is withdrawal "with the leave of the court, commission or registrar" (r 49(3)).
+   - There is no "admit but reserve".
+   - Relevance can always be argued. But an admitted fact needs no proof, so an "admissibility" objection to it works
+     only as a withdrawal, and that needs leave.
+3. **The gap between the closed directions (30 Sep) and the conference.** It is the same move three times:
+   - 8 Sep: inserted into the r 49 responses;
+   - 24 Sep: the witness list "reserves its right to amend this list depending on the case presented by the
+     appellant at the hearing", although direction 3 asked for "all witnesses";
+   - 16 Oct: inserted into the Tab 32A confirmation.
+
+   Each time the Regulator complies in form, adds a reservation, and defers the real position to "the hearing". The
+   12 Oct request to take items 2–7 to the conference "in lieu of ordered in directions" is the same deferral.
+4. **MSH's answer to the Commission's own notice.** Tab 32A reached the Commission with MSH's 5 June letter as its
+   Item 6 response. A relevance objection would be an objection to MSH's own account of what was responsive.
+
+**Effect.**
+- Nothing that was asked for changes. Tab 32A is authentic for the proceeding; 38 of 39 documents are confirmed and
+  only Tab 24 is outstanding.
+- It does not reach the 9A (C 8).
+- It is a placeholder carried into the conference.
+
+**Use.**
+- Nothing by email before counsel returns.
+- At the conference, ask: does the Respondent identify any objection to the relevance or admissibility of any
+  admitted fact or document, which one, and on what ground, so it can be dealt with before the hearing? Then
+  lever 2 (r 41(2)(j)).
+- Taking an admission back requires r 49(3) leave, with a reason.
