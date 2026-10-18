@@ -139,3 +139,51 @@ preserve, and that is consistent with the exit (see the reservation thesis).
 - Respond in writing only.
 - No motive language on paper.
 - At the conference, the four closed questions in `REGULATOR-RESERVATION-HOW-TO-PRESS-18OCT2026.md` §5.
+
+## Addendum (Cory's point, 18 Oct): no time sought, and no challenge to the 9A
+
+**What meeting the 9A would take, if the Regulator meant to defend.**
+- **An amended SOFC.** The May SOFC answers the April pleading's paragraphs (¶11 Stressor 1(a), ¶12, ¶16, ¶20, ¶22,
+  ¶24(b), ¶27). The proposed 9A re-letters every particular and marks which are causal.
+- **New outlines.** All four are tagged "SOFAC para …". None addresses 1(b), 1(f), 1(h), 1(k) or 3(e)–(h).
+- **New witnesses.** The events no outline covers would need witnesses, and leave, since directions 3 and 4 have
+  expired. Their 24 Sep list "reserves its right to amend … depending on the case presented by the appellant", and
+  the 9A is that case in writing. They have not used the reservation.
+- **An expert.** None by 30 Sep, so that needs leave.
+- **Answers to item 5** for 21 causal particulars.
+
+**What they did** (ledger R23, R26, R29, R35).
+- **1 Oct:** consent to leave was asked. The letter: "does not oppose the Respondent having time to amend". Election
+  item 6 offered 14 days after filing.
+- **7 Oct, 09:14 (R26):** "looking over both emails … will have a response … noting your requested timeframe of
+  Friday 16 October".
+- **12 Oct (R29):** items 2–7 went "to the conference in lieu of ordered". That includes item 3 (leave) and item 6
+  (their own time to amend). There was:
+  - no consent, no opposition and no reserved position;
+  - no claim of prejudice;
+  - no request for time, beyond counsel's availability for a date.
+- **16 Oct (R35):** Tab 32 answered; leave left unanswered past the date they noted themselves.
+- **Overall:** 17 days with the 9A in hand, and no objection to any paragraph of it.
+
+**Reading** (strong).
+- A party preparing to defend asks for time to rebuild, or at least reserves its position on leave. That costs one
+  line.
+- A party preparing to concede needs neither, because consent orders make the 9A moot.
+- "Discuss at the conference" keeps leave unresolved: no order granting it, and the 9A is never filed if they settle.
+  That is B5 of the 12 Oct read.
+- They cannot challenge a pleading built on their own admissions without challenging the admissions, and that needs
+  r 49(3) leave.
+- **Alternatives:**
+  - *Officer limits* explain the form, but not the missing one-line reservation, or the date that was noted and then
+    passed.
+  - *Saving opposition for counsel* is possible, but weak: no prejudice has been claimed, the 14 days are already on
+    offer, and Dwyer is averse to interlocutory fights.
+- **Falsifier:** after 22 Oct, counsel opposes leave and asks for time, witnesses and an expert.
+
+**Use.**
+- Nothing by email.
+- At the conference, ask one closed question on items 3 and 6: "Does the Respondent consent to leave? If not, on what
+  ground? If it does, will it amend its statement, outlines or witness list, and in what time?"
+- **Consent:** their served case answers a superseded pleading.
+- **Opposition:** it needs a ground, and none has been put.
+- **Time:** they are choosing to fight after the directions expired.
