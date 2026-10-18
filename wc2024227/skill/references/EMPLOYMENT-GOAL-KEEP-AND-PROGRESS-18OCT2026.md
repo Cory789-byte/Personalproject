@@ -144,3 +144,43 @@ qualifications, so expect entry at AO3/AO4 and faster movement if the pathway is
 
 In applications, cite transferable skills (research, analysis, interpreting awards and policy, data accuracy, written
 communication), **not** the litigation.
+
+## Above AO5? (Cory, 18 Oct)
+
+**The Manager's level, checked.**
+- The role description MSH produced (Item 6, RD 30478699, effective June 2020, "as at 2021") is **AO4**.
+- "Raised from an AO4 to an AO5 with no formal process" is **Ms Jeffrey's 18 Jul 2024 statement**, as recorded in
+  RD 69983 p 9. It is not a finding.
+- Her current level is unverified.
+- ⛔ Never voice the comparison, or the appointment claim. It characterises a person and reads as grievance.
+
+**Capability against paper.**
+- **Capability:** his analysis, statutory interpretation, evidence management and drafting are at about AO5–AO6 in
+  substance.
+- **Paper:** an AO3 operator.
+- **The gap** is a record in the new domain and a qualification, not ability.
+- Merit selection can jump levels when the candidate is the most meritorious, but AO6 competition usually brings years
+  of domain experience and a degree.
+
+**Realistic route to AO6, about 2–3 years.**
+1. **The settlement ask:**
+   - redeployment with **acting at AO4/AO5** (QH-POL-210: "opportunities to act in other positions");
+   - **funded degree-level study**;
+   - a development plan.
+   - Do not ask for an AO6 appointment, because merit rules it out.
+2. **Qualification aligned to the strength:**
+   - law (LLB/JD, part time); or
+   - workplace or employment relations (graduate certificate or diploma); or
+   - health information management, for the coding pathway.
+3. **Merit applications for AO5, then AO6:**
+   - senior workplace or employee relations advisor;
+   - senior or principal policy officer;
+   - governance, compliance or risk senior advisor;
+   - senior project officer;
+   - research governance (senior);
+   - clinical documentation improvement (CC4/AO6), on the coding route.
+4. **Where the strongest-fit roles sit.** Workplace relations is outside MSH for now: the Department of Health,
+   another HHS, other agencies, or the union. Within MSH, the route is governance or policy. Not HR and not ESU while
+   the matters are live.
+
+In applications, use work samples and achievements that are not the litigation.
