@@ -194,3 +194,5 @@ The 9A went "for leave only; not for filing", and the Regulator has asked that l
 - serve both on the Regulator with the conference material.
 
 Do not send piecemeal corrections now.
+
+**Added 18 Oct 2026 (low, check before filing):** the repo build `drafts/out/FORM9A_SECOND_AMENDED_FOR_FILING.pdf` contains a blank fact reference, "[¶ ___]", after the EB consultation passage ("…respond to such information"). Check the copy actually sent on 1 Oct, and make sure the corrected version has no blank references.
