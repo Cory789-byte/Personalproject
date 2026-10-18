@@ -29,3 +29,29 @@ These came with Matheson's email of 12 October 2026 at 08:30 AEST (ledger R28). 
 4. **7 Oct.** Matheson was "following up with MSH".
 5. **9 Oct, 16:28.** Matheson finalised the disclosure email.
 6. **12 Oct, 08:30.** It was delivered.
+
+## Addendum, 18 Oct 2026: a second pass on the register file (⛔ prediction-only, never in correspondence)
+
+**Save path.** It is in `xl/workbook.xml`, `x15ac:absPath`, and was missed in the first pass:
+
+`G:\LBHS HR\1. LBHS HR General\1. HR Employee Cases\SHEPHERD, Cory\2026 (1)_WC Appeal\Response to Regulator Sept 2026\`
+
+- **Who prepared it.** MSH's response was prepared and saved by Logan-Beaudesert HR, inside an HR **employee-case**
+  folder under Cory's name. It was not prepared by MSH Legal or Injury Management.
+- **Where the appeal sits.** The appeal is filed as an HR employee case, in the same HR case structure as the
+  employment matters.
+- **The "(1)".** It may be a case number, or a Windows duplicate-folder suffix. Do not read the numbering.
+
+**What was produced, against what was asked.**
+- **The request (9 Sep):** "the March 2024 sheet of the workbook … in native format and as printed".
+- **The production:**
+  - one sheet only ("MARCH 2024", sheetId 17), all other sheets removed;
+  - **62 populated rows** (rows 1–62: header plus 16–20 March);
+  - **478 formatted-but-empty rows** down to row 540, the original extent of the March sheet;
+  - no "as printed" copy.
+- **The print area** is 'MARCH 2024'!$A$1:$E$2. There are 5 working columns (A–E), with no hidden columns or
+  rows.
+- **Shared strings:** 67 references, 54 unique. There is no residue from deleted content.
+- **The printer settings** carry `\\PAH\QH32227275-P6`. It cannot be interpreted.
+
+**The PDFs.** No embedded paths. Author fields and timings are as in the table above.
