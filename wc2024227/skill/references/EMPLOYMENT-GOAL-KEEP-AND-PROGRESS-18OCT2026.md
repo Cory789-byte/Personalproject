@@ -83,3 +83,64 @@ example only. Placement is better outside the HIMS line at Logan.
   - it is cheap for MSH next to back pay, litigation and civil exposure;
   - it is MSH's own policy;
   - it fits the thesis of a quiet resolution.
+
+## Placement fit (Cory asked, 18 Oct)
+
+**What the record shows** (verified).
+- **Education:** Diploma of Fitness (SIS50210, AQF Diploma). He was a second-year nursing student in 2018 (2024
+  WorkCover statement).
+- **MSH history:**
+  - casual in Medical Records in 2018;
+  - the finance department, and scanning and records (his 13 Jul 2026 email offering interim duties);
+  - Switchboard from 2019;
+  - endorsed workplace delegate, Nov 2025.
+- **On 16 Apr 2026 Hughes declined** recognition of the Diploma for the targeted training allowance, "on the grounds
+  that it is not relevant to your current role" (pack 03 p 361).
+- **Demonstrated on the admitted record:**
+  - root-cause analysis: on 20 May 2024 he traced the respiratory directory error to the 22 Feb 2024 document change
+    and recommended a fix (¶¶ 94–96);
+  - applying policy: the fatigue toolkit, Operations Manual cl 10.4.1 (¶¶ 214–215);
+  - a roster proposal and spreadsheet (¶¶ 33–35);
+  - building a 303-fact evidentiary notice, of which 298 were admitted.
+
+**Ranked fit.**
+1. **Health information and clinical coding.** Rules-based analysis of clinical documentation, at standard hours.
+   - His nursing study gives the terminology and anatomy, and Medical Records is prior MSH experience.
+   - EB12 has a Clinical Coder stream: AO3/CC1 (student) → AO4/CC2 → AO5/CC3 (advanced) → AO6/CC4.
+   - Paid coding education is the normal entry route.
+   - Placement outside the Logan HIMS line, which is Reese's directorate.
+2. **Governance: quality and safety, or research governance.**
+   - Document scrutiny, rules (incident and RiskMan analysis; the NHMRC National Statement), standard hours.
+   - AO4–AO5.
+3. **Workplace relations and HR policy.**
+   - The strongest skills match: awards, EBs, directives, WCRA and the IR Act, plus delegate experience.
+   - **Wrong place now:** it would mean MSH HR while in dispute with it. Later, or outside MSH: the Department of
+     Health, another HHS, OIR or the union.
+4. **Finance, revenue or reporting.**
+   - Prior finance experience. AO4–AO5.
+   - Not payroll.
+
+**Not now:**
+- rostering or workforce (the stressor);
+- complaints-facing roles;
+- anything shift-based.
+
+A return to nursing is possible later, but shift work and clinical load cut against the medical picture. That is a
+matter for his doctors.
+
+**Level.**
+- **Now:** AO3 lateral, for example a student or trainee clinical coder.
+- **12–24 months:** AO4, through study plus acting.
+- **2–4 years:** AO5.
+- **Later:** AO6 (coding audit or education, clinical documentation improvement, senior advisor).
+
+In substance, his analysis and drafting already sit at about AO5. Merit selection weighs domain experience and
+qualifications, so expect entry at AO3/AO4 and faster movement if the pathway is structured.
+
+**In the ask:**
+- name the pathway, for example a trainee clinical coder with funded coding education;
+- seek recognition of prior learning for the nursing units;
+- standard hours, confirmed with his doctors as fitting the restrictions.
+
+In applications, cite transferable skills (research, analysis, interpreting awards and policy, data accuracy, written
+communication), **not** the litigation.
