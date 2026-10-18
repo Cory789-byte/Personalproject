@@ -187,3 +187,36 @@ preserve, and that is consistent with the exit (see the reservation thesis).
 - **Consent:** their served case answers a superseded pleading.
 - **Opposition:** it needs a ground, and none has been put.
 - **Time:** they are choosing to fight after the directions expired.
+
+## The MSH side of the thesis (consolidated 18 Oct)
+
+The controlled exit is not only the Regulator's preference. **MSH's exposure is the engine.** MSH is judged on its own
+paper, and most of it has been authenticated by its own officers:
+- the CE's letter;
+- the Manager's role description;
+- the 2024 emails;
+- the outlines' concessions;
+- the 2026 movement forms and Forrest's email.
+
+A no-findings consent order is MSH's cheapest outcome in every forum:
+- no published reasons on its systems;
+- no reverse-onus witness box on the 2026 conduct;
+- a civil claim settled at a discount.
+
+**How it shows on the record.**
+- The production went through MSH's top HR officer (Bain) into the HR employee-case folder.
+- Taylor is kept off the 2026 paper.
+- Only what verifies his copies was produced.
+- In the week of 12–16 Oct, everything that cost nothing was cleared on both tracks.
+
+**Limits.**
+- It predicts behaviour, not motive.
+- OIR–MSH coordination is not shown.
+- MSH can diverge on the employment track: regularising under PS Act ss 103–109 instead of settling.
+- **Watch 27–28 Oct.** Renewal or a return fits the thesis. Exclusion or SNP resumed is divergence. That is not a
+  falsification of the WC read: the Regulator can concede while MSH fights employment.
+
+See:
+- `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`;
+- `PROSPECTIVE-VIEW-MSH-18OCT2026.md`;
+- `WHAT-THE-SERVED-OUTLINES-FORCE.md` (Taylor).
