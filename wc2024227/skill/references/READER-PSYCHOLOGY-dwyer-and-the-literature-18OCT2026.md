@@ -20,5 +20,13 @@ Internal. Quotes are from the verified 7 Aug transcript. Discipline 12 applies: 
 | Readers absorbed in a narrative counter-argue less (transportation) | Green & Brock (2000) | "What arrived at the console" |
 | Lead with the strongest point; concede what must be conceded; be clear | Scalia & Garner, *Making Your Case* (2008) | Opening admission (fact 289); the 53:30 "led with that" |
 
-## Gap to his actual test
-The two-minute version. Add five lines at the very top (what is asked and why) and three at the head of Stressor 1 (the duty stayed, the means went, the consequences arrived).
+## His actual test was already met (corrected 18 Oct, after checking the 1 Oct email)
+The 1 Oct 16:45 email to the Registry ("For the attention of the Chambers of Commissioner Dwyer") gives the two-minute version and the map. Verified in Gmail.
+- It summarises what changes: the onus is accepted; the pleading closes on the admitted facts and documents (298 of 303; 29 of 39 documents at that date); it "does not enlarge the matter: it adds no new stressor or allegation".
+- It then points: "**The Appellant's case is stated on pages 1 and 2 of the proposed Form 9A. The remaining pages set out the particulars against the admitted facts and documents.**"
+
+⇒ The reader's path is layered: the email (summary and pointer), then 9A pages 1–2 (the case), then the particulars (the detail). That is the inverted pyramid and the "led with that" he asked for. It also answers the leave questions in advance: the onus is accepted, nothing is enlarged, so there is no prejudice.
+
+⇒ Revised: the likelihood that chambers read 9A pages 1–2 when the request was referred rises to about 60–70%, because the email sent them there.
+
+⇒ The three-line head for Stressor 1 is optional polish, not a gap.
