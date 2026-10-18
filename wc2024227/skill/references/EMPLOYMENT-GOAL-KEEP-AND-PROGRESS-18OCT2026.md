@@ -184,3 +184,38 @@ communication), **not** the litigation.
    the matters are live.
 
 In applications, use work samples and achievements that are not the litigation.
+
+## ⚠ CORRECTION and revised level view (Cory, 18 Oct)
+
+**Education.**
+- Diploma (AQF 5).
+- **Reached third year of a Bachelor of Nursing.** That is Cory's statement. His 2024 WorkCover statement said
+  "second-year nursing student" in 2018.
+- Whether the degree was conferred is not on file. If it was not, the completed units can be credited (RPL) towards
+  completion or towards a health information or health management degree.
+
+**What changes.**
+- The education barrier is lower than this note said. The remaining gap for AO6 is a **track record in the new
+  domain** and how it is evidenced at merit selection. It is not education or reasoning.
+- AO5/AO6 selections commonly use work samples and written tasks, which are his strength.
+- Nursing study makes the **clinical governance, patient safety and quality, and clinical documentation
+  improvement** routes strong fits at AO5–AO6. Clinical background is valued there.
+- Coding progression is also faster with clinical knowledge.
+- ⚠ **Placement:** outside Logan or outside MSH's PSQ unit while the complaint and PID matters are live. Use another
+  facility, another HHS, or the Department of Health.
+
+**Revised level.**
+- **Now:** competitive on merit for AO5 analysis, governance or policy roles. In the settlement, ask for acting at
+  **AO5**, not AO4.
+- **12–24 months:** AO6 is achievable with an acting record, plus degree completion or credit, or a short
+  postgraduate certificate in the target domain.
+- **AO7 and above:** depends on leadership and supervision experience.
+
+**Add to the ask.**
+- Funded degree completion or credit transfer.
+- Reconsideration of the targeted training allowance in the new role. The 16 Apr 2026 refusal rested on "not
+  relevant to your current role".
+- Support to apply for AO6.
+
+⛔ No classification comparison with the Manager in writing. No cognitive or medical assessment information in
+applications.
