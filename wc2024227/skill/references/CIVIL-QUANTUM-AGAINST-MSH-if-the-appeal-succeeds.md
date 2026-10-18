@@ -392,3 +392,49 @@ Weekly compensation follows **certified incapacity from the accepted injury**, p
 | If the civil claim pays: in hand | about $253k (middle half $211–298k) | — | — |
 
 $1M is effectively nil unless lasting loss approaches total incapacity.
+
+## SETTLEMENT SCENARIOS, 18 Oct 2026: what "cheap" means, and whether a global deal is possible (planning only)
+
+**What full value looks like** (from the bands and the Monte Carlo above).
+- Head A, assessed gross (mid case): $600–800k.
+- Realistic settlement band: $300–650k.
+- If the claim pays: median total about $386k (middle half $331–444k), about **$253k in hand** after the s 270(1)
+  reduction and costs.
+- Future economic loss is about 70% of it.
+
+**What "cheap" looks like.**
+- **About $80–150k total.** An offer priced as if he recovers fully within a year: past loss, general damages, and
+  little or no future loss. That is the "floor" scenario.
+- **Typical early or opening offer: about $150–250k.** This prices out most of the future economic loss.
+- **Why an offer now is cheap by construction:**
+  - no notice of assessment, so a complying notice of claim is impossible (s 275(8)(d)) and the pre-court procedures
+    cannot start;
+  - no medico-legal report;
+  - future earning capacity unpriced;
+  - every dollar of statutory compensation comes off the damages (s 270(1)).
+- **The accidental cheap outcome:** signing a below-20% DPI lump sum ends the damages claim (ss 237(3), 239).
+
+**A global deal.**
+- **Three separate decision-makers:**
+  - the Regulator, which can only concede the appeal;
+  - WorkCover Queensland, the insurer for statutory benefits and for MSH's common-law liability;
+  - MSH, for the 2026 employment heads.
+- The Regulator cannot bind WorkCover on damages, and damages cannot formally start before assessment.
+- **Most likely shape, if anything is put** (estimates):
+  - consent orders on the appeal (≈67%, E38);
+  - then an MSH deed on the 2026 items (back pay from 13 Jul, leave recredit, return on adjusted hours or an agreed
+    separation), with releases limited to employment claims (≈50–60% within months of a concession);
+  - common law later, through WorkCover's process.
+- **A genuine global that includes damages now:** about 10%.
+- **The danger version:** an MSH deed with a broad "all claims" release, or a separation that includes resignation.
+  About 25–35% that one is put. It would trade future economic loss and the adverse-action leverage ($50–250k, line
+  188) for a small sum.
+
+**Rules if anything is offered.**
+- No release of the common-law personal injury claim. Insist on the same carve-out as the 2024 deed's cl 8.
+- No resignation without PI and IR advice.
+- No lump sum without advice.
+- Acceptance of the appeal by consent orders under s 558(1)(c), never by withdrawal.
+- Employment terms spelt out: back pay from 13 Jul, super, leave recredit, return arrangements, and a narrow
+  confidentiality clause.
+- Nothing answered on the spot.
