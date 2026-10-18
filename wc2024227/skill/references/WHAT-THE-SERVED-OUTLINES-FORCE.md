@@ -121,3 +121,30 @@ target in cross-examination.
 - **The agreement does not save it.** Para 22(a) itself says "a 7-hour break (rather than an 8-hour break)". Seven hours is under the agreement's own eight.
 
 **Use and limits.** Put it to Wright and Taylor at any hearing (fair put, with the document). ⚠ "Practice" may mean the domain (how rostering is done) rather than a habit, so rely on the domain and owner reading. An outline is not evidence until it is given. Keep it off correspondence.
+
+## Machine frame against human hand in the 24 Sep outlines (PDF internals, 18 Oct 2026)
+⛔ **Internal and prediction-only.** Never raise authorship or metadata anywhere. Method: PyMuPDF span fonts, the tagged-PDF structure tree, and in-line text markers (script at `forensics/outlines_24sep_bullet_markers.py`).
+
+**Machine frame** (python-docx base, then PDFMaker; every element tagged EN-US):
+- **47 of 51 bullets share one pattern:** regular text, then a double-space seam, then an italic "(SOFAC para …)" tag, with openers "Denies… / Confirms… / That…".
+- US spelling "characterization" (Reese section) and a US Letter page.
+- "That All", "That From" and "That Ms Taylor's confirms" look like a mechanical "That" prefix.
+
+**Human hand:**
+- **The four witness introductions.** Roles and dates that are not in the SOFC, with keyboard slips: "Tanny", "Kimberly Wight".
+- **Four untagged bullets:**
+  - Reese, "He did not take that further…";
+  - Wright, "The public holiday allowance versus…";
+  - Earl, "Ms Wright had no knowledge of a 'safety mandate'… 2006 ombudsman report" (no full stop);
+  - Earl, "the timing of Ms Reese's May 2024 email relative to the Appellant's PID…" (lower-case start).
+
+  These rebut points in Cory's material that the SOFC never addressed, and they put Wright's name in Earl's section.
+- **The Wright "rostering practice issue" bullet.** A human sentence set inside the machine frame:
+  - an in-line double space ("That  when");
+  - a ".," splice ("17–18 March 2024., Ms Wright's team");
+  - Australian "characterised" against the frame's US "characterization";
+  - content (Payroll's internal Technical Support advice) that is not in the SOFC and could only come from Payroll.
+
+**Two institutions in one witness list.** Wright and Earl are **Queensland Health** Payroll Transactional Services (Corporate Enterprise Solutions). Strachan's signature confirms the unit. Taylor and Reese are **MSH**. Payroll's account protects payroll ("not an unpaid entitlement… a rostering practice issue for the line manager"). The Regulator kept it because it defeats the pay stressor, and did not reconcile it with MSH's "human error… not repeated". At any hearing the Regulator must choose: keep Wright (pay defence) and accept the roster point, or drop her.
+
+**Limits.** These are artefacts, not an edit history. Who typed each word cannot be proved. "Machine" means script-generated (possibly by an AI tool) and then edited in Word.
