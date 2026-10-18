@@ -241,3 +241,50 @@ The points are what the record before him makes legible. His reply is consistent
 - The conference is to follow "joint" availability.
 
 That is the shape of giving a party room to resolve, under time pressure, with the orders held in reserve.
+
+### F.1 Evaluation (18 Oct): two claims, tested separately
+
+**Claim (a): R29 carried an underlying ask.** The ask was room to review the Regulator's position and resolve it on
+its own terms.
+- **Diagnostic** (would look different if it meant to defend):
+  - it deferred the orders that force a written case (items 2 and 5) while ¶27 stays unparticularised five months
+    after the 13 May SOFC;
+  - no position formula since 14 Aug;
+  - leave unanswered past its own noted date, and no time sought;
+  - the party-to-party undertaking departs from the February practice (A4).
+- **Weakly diagnostic** (fits a defence too):
+  - **No expert.** A s 32(5)(a) defence runs on lay evidence and needs none. Its absence only rules out a positive
+    alternative-causation case.
+  - **The outlines' concessions.** They are compatible with an "isolated error, otherwise reasonable" whole-of-course
+    defence (Delaney). Langerak and Mahaffey require weighing, but do not forbid that defence.
+  - **Counsel's absence** may be genuine.
+- **Grade: moderate to strong, about 65–70%.**
+
+**Claim (b): Dwyer read it that way.**
+- **Comparators.** Both are Dwyer chambers emails in the repo:
+  - **7 May 2026** (MSH extension request): "The Commissioner notes the intention of MSH to object … no requirement
+    for MSH to comply until after the matter is discussed at the mention". That is note, then defer to the next
+    event.
+  - **22 May 2026** (MSH did not attend): "The Health Service is **directed** to provide any objections … **by 4.00
+    pm on Friday, 5 June 2026**". That is a hard date when a party does not engage.
+- **13 Oct:** "notes", plus "**instructed** … **as soon as possible** following 22 October", with no hard date and
+  items 2–7 left live.
+- **Read.** Noting and deferring is his routine, so the reply cannot show that he read an underlying ask. What it does
+  show is that he chose **latitude over a hard date** for the Regulator. With the filed 1 Oct letter in front of him,
+  the reading was available to him.
+- **Grade: low to moderate, about 50–60%.** The reply is consistent with both readings.
+
+**Tests ahead.**
+1. **If the Regulator lags after 22 Oct:**
+   - a hard-date direction from Dwyer (the 22 May pattern) means he is pressing a party he expects to move;
+   - tolerance means routine.
+2. **At the conference:**
+   - the Member probing ¶27, leave and the admissions, or giving a view (Guide §5.1), confirms the reading;
+   - a bare timetable to hearing means a literal reading.
+3. **If the conference does not resolve it:** orders on items 2–6 with hard dates means they were held in reserve.
+
+**Use.**
+- Do not rely on Dwyer's perception. The record forces the Regulator's hand either way.
+- Treat him as neutral.
+- If the Regulator stalls, ask at the right time for items 2–6 to be ordered with dates. That matches his own style
+  with a party that does not engage.
