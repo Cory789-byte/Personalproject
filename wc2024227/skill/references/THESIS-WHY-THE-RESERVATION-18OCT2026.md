@@ -80,3 +80,7 @@ Do not fight the reservation. Ask once, at the conference, for particulars. The 
 - "Not preparing to fight": strongly supported.
 - "Controlled exit on their terms": well supported.
 - "To avoid findings that help the civil claim": plausible, not proven. The test is the offer's wording (P3: "without admission", no reasons).
+
+## Added strong item (18 Oct): the medical records and no expert
+The Regulator served non-party disclosure notices on **4 Jul 2025** on Mind & Memory (the psychiatrist), Our Medical Ashmore (the GP) and Queensland Health. Its amended List of Documents of 14 Aug 2026 lists Dr Krishnaiah's report of 13 Feb 2025 (item 10) and the GP records (item 11).
+⇒ It has held the treating medical evidence for about 15 months. The expert deadline passed on **30 Sep 2026** with no report served and no extension sought. Causation is "the real crux" (Dwyer, 7 Aug). **This is the strongest single giveaway:** they read the medical evidence and chose not to contest it with an expert.
