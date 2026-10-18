@@ -288,3 +288,58 @@ its own terms.
 - Treat him as neutral.
 - If the Regulator stalls, ask at the right time for items 2–6 to be ordered with dates. That matches his own style
   with a party that does not engage.
+
+### F.2 Timing and construction: 1 Oct → R29 → Dwyer (18 Oct)
+
+**Timing (verified).**
+- **1 Oct 16:45 (Thu), filing → R29 at 12 Oct 09:21 (Mon): 10 days 16 h 36 m.** Matheson was away to 5 Oct, which
+  was the King's Birthday holiday. There was no chambers acknowledgement or holding email.
+- **R29 → Dwyer at 13 Oct 12:26 (Tue): 27 h 05 m.**
+- **Read.** He did not act on Cory's requests alone, because they sought directions against the Respondent and its
+  consent to leave. He waited for the Respondent, then decided within a working day. That points to the 1 Oct
+  material having been read while he waited. The comparators show he answers once, when there is something to decide.
+
+**How R29 was built.**
+1. Agreement first: "agrees with the Appellant's request for a second s552A conference".
+2. Deferral without reasons: items 2–7 "better placed … in lieu of ordered in directions, in the first instance".
+3. Counsel's absence.
+4. A request for the Commission's "consent for its undertaking to speak with the Appellant … before communicating
+   with the registry".
+5. Deference: "respectfully requests", "appreciates".
+
+**What R29 left out.**
+- The nine documents it had confirmed to Cory 51 minutes earlier. R28 went to Cory only, so **the Commission's
+  picture is still the 1 Oct one: 29/39, with ten in issue.**
+- Leave.
+- ¶27.
+- Any position.
+
+**How Dwyer's reply was built (R33).**
+- "Notes the Respondent's recent email". It responds to their email, not to Cory's requests, and is addressed "Dear
+  Parties".
+- Their **voluntary undertaking seeking consent** became **his instruction**: "is instructed to obtain their
+  Counsel's availability **as soon as possible following 22 October** and **advise the Appellant**". No consent is
+  given. A duty is imposed, with urgency and a named recipient.
+- "A section 552A conference **will then be scheduled**, following confirmation of the **parties' joint** range of
+  availability". The Commission keeps the scheduling, and it is joint, not the Regulator's private arrangement.
+- **Silent on items 2–7.** Not ordered, not refused, and "in lieu" not adopted. Their own "in the first instance"
+  leaves directions open.
+- **Silent on leave.** It is pending.
+- **Instrument:** "instructed … as soon as possible". That is softer than 22 May ("directed … by 4.00 pm on Friday,
+  5 June 2026"): latitude, with an obligation attached.
+
+**Together.**
+- Dwyer is even-handed and in control. He gave the room asked for, but on his own terms, and kept Cory's directions
+  alive.
+- R29 kept the Commission's picture static and moved substance into a conference and a private channel.
+
+**Actions.**
+1. **R31 clock from 22 Oct.** If there is no availability by about 29 Oct (5 business days), send a short procedural
+   note to the Registry, cc the Regulator:
+   - the 13 Oct instruction;
+   - that nothing has been received;
+   - a request that the conference be listed and items 2–6 directed with dates (the 22 May pattern).
+2. **Put the confirmations on the Commission's record through the conference material,** not a standalone email now:
+   - nine documents on 12 Oct and Tab 32A on 16 Oct; only Tab 24 remains;
+   - facts 228–231 are now admissible on MSH's own native file.
+3. No characterisation of either side's wording, on paper.
