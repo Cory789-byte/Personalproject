@@ -148,3 +148,53 @@ target in cross-examination.
 **Two institutions in one witness list.** Wright and Earl are **Queensland Health** Payroll Transactional Services (Corporate Enterprise Solutions). Strachan's signature confirms the unit. Taylor and Reese are **MSH**. Payroll's account protects payroll ("not an unpaid entitlement… a rostering practice issue for the line manager"). The Regulator kept it because it defeats the pay stressor, and did not reconcile it with MSH's "human error… not repeated". At any hearing the Regulator must choose: keep Wright (pay defence) and accept the roster point, or drop her.
 
 **Limits.** These are artefacts, not an edit history. Who typed each word cannot be proved. "Machine" means script-generated (possibly by an AI tool) and then edited in Word.
+
+## Taylor: kept off the 2026 paper trail, and an outline built from the file (18 Oct 2026; ⛔ internal, never voiced)
+
+**Established.**
+- **No 2026 confirmation came from her.**
+  - 24 Sep: her own emails (Tabs 6, 30, 30A) were confirmed "upon further review of the appeal file".
+  - 12 Oct: the production was made by HR (Bain). Her 27 Sep 2023 email came from MSH's 6 Sep 2024 WorkCover-response
+    PDF, not her mailbox. The save path is the HR employee-case folder.
+  - 16 Oct: her own role description (Tab 32A) was confirmed from MSH Legal's June production.
+- **She is active in the employment track in 2026.**
+  - She certified the movement forms (19 Feb, 9 Apr, 27 May 2026).
+  - myHR "Requested by: Chloe Donovan-Taylor" for Income Protection – No Pay (20 Jul 2026).
+  - She produced the 26 Jun origin document.
+  - She signed **both** the Manager endorsement and the Delegate approval of his leave on **14 Oct 2026** ("I am the
+    delegate, or I have approval from the delegate").
+- **She dealt with the Regulator directly in July 2025.** Conference 3 Jul, request 4 Jul, her reply 10 Jul 14:48
+  (MASTER §3.15; disclosure pp 24, 33–35). ⛔ That material is DFV-adjacent and its content is not restated.
+
+**Her outline against her own contemporaneous account.** Her 6 Jun 2023 email to Reese, in the July 2025 disclosure,
+says:
+- he "questioned it in an aggressive tone and raised voice";
+- "He wouldn't let me speak, talking over the top off me";
+- "**I did raise my voice** and asked him to please stop talking over the top of me" (admitted, fact 292);
+- she told him they "would be more than happy to discuss" in a meeting with Reese.
+
+The 24 Sep outline:
+- keeps his raised voice ("closely and loudly");
+- **drops her own "I did raise my voice"**;
+- **adds "in front of other switchboard staff"**, which is in neither her email nor the SOFC;
+- tags all of it "(SOFAC para 12(c)(d))", although SOFC ¶12(c)–(d) says only that a reminder email preceded the
+  event and the actions were reasonable.
+
+**Reading** (strong as to how it was made; it cannot show whether she has seen or adopted it).
+- The outline was written from the file by the Regulator's side: SOFC frame, content from her 2023 email and the
+  2025 conferencing. It is not a fresh 2026 account from her.
+- That fits the drafting slips ("Ms Taylor's confirms", "Ms Tanny Reese", "Ms Kimberly Wight") and the script-built
+  frame noted above.
+
+**Why keep her off the paper** (inferred, ranked).
+1. Protective: she is the subject of the stressors and the current manager in a live dispute, and new written
+   statements from her could be used in this case and elsewhere.
+2. Efficiency: HR holds the records.
+3. Consistent with not intending to call her, which is the concession path.
+
+**What follows.**
+- **If they fight,** she has to be called. She is the only witness who can answer Harrison-Jones and Conaghan, and she
+  then faces her own emails: fact 292, ¶220, the 18 June apology, "this task was being actioned". At a hearing,
+  each outline line goes to her (adopt or disavow). The 6 June account goes against fact 292 and Harrison-Jones's
+  "manner and volume".
+- **At the conference:** do not raise it.
