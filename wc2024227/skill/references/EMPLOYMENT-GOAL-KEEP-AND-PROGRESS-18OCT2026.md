@@ -278,3 +278,31 @@ applications.
 - Use non-litigation work samples.
 - **Growth note:** tribunal-length writing translates to one-to-two-page briefs at work. The one-page outlines show
   he can do it.
+
+## Qualities and oral skills, from the 7 Aug audio and the record (19 Oct)
+
+Sources: `MENTION-tempo-and-latency-metrics.md`, `MENTION-AUDIO-prosody-findings.md`, `MENTION-7AUG2026-ASSESSMENT.md`
+§§5, 11–13. ⛔ The authorship question is settled (ONBOARDING discipline 12) and is not re-raised.
+
+| Skill | Level | Evidence | One fix |
+|---|---|---|---|
+| **Listening: attention and speed** | High | Median response latency 0.32–0.40 s, as fast as the bench; 4 of 98 answers over 2 s | — |
+| **Listening: answering the literal question** | Developing | Twice "answer my question first … Yes or no?" (40:24). He answers the question behind the question | Answer first ("Yes" / "No" / "It's at Tab X"), then context if asked |
+| **Speaking: pace and certainty** | Good | 2.68 words per second, the same as the bench. A certainty signature: fast and low ("I have a copy of that"). Best answers short ("Exactly." "Correct." "I have everything for this.") | Use the certainty signature deliberately |
+| **Speaking under load** | Ordinary | Five abandoned starts in multi-thread turns; hedges at 4× the bench's rate; pitch rises on uncertainty; a flat, quiet range (5.1 against 7.6 semitones) | One prepared sentence per structure; say "I'd have to check" flat; hedge only real unknowns |
+| **Oral advocacy** | Good, improving | Candour high (clean concessions); composure high under blunt criticism; stamina (dipped at 10–20 min, the last two blocks strongest); four live concepts that became structural (08:36, 27:06, 39:18, 47:55); at 53:30 the bench licensed him to interrupt after a correct correction | Particulars before systems ("You don't need to prove all of that", 57:15) |
+| **Written advocacy and analysis** | High, professional | The Form 24 (298/303), the 9A, the letters. The August gap (narrative not yet evidentiary) was closed on paper | One-to-two-page briefs at work |
+| **Negotiation** | Strong in structure; live negotiation largely untested | Choice plus consequence (9 Sep); two Calderbank offers; a pragmatic concession on MSH's extension; "I can meet most of the way" (32:02, at 0.00 s after the costs warning); firm non-negotiables; results: 298 admitted, 38/39 confirmed, the conference agreed | Practise live: options first, then the walk-away |
+
+**Who he is, on the evidence.**
+- An analytical systems thinker who processes fast and forms concepts quickly.
+- Precise, candid against his own interest, persistent, and composed under pressure.
+- He learns from feedback: the August diagnosis became the September Form 24.
+- On paper he is forceful. In person he is careful and deferential. The development edge is turning the paper
+  strength into short, plain, answer-first speech.
+
+**Development.**
+- Mock interviews in STAR format.
+- Two-minute verbal briefings.
+- Accredited mediation training (NMAS), which fits the profile and opens conciliator and mediator roles (for example
+  QHRC conciliation).
