@@ -2746,3 +2746,43 @@ the likelihood ratio is about 1 and it does not move the forecast.
   promptly.
 - Prepare for a counsel-run conference: a one-line resolution for the private session, the corrected 9A and the
   confirmations, and the closed questions.
+
+**E39 addendum 4: why counsel at all?** (Cory: "legal representation wasn't required"; 19 Oct)
+
+**The history** (verified, `confirmed-record.md` spine and l.2677).
+- **Counsel retained early:** Gray paid 12 Dec 2024, Willson 15 Jan 2025. Both were advising.
+- **While Cory had lawyers** (Saines, from 26 Nov 2024):
+  - the only scheduled conference (**30 Apr 2025**) was **vacated by consent** (AFDO, 3 Jun 2025);
+  - directions went **by consent** (3 Jun and 16 Jul 2025);
+  - officer-to-solicitor, with **no counsel appearances.**
+- **Once self-represented:** Willson **appeared at 27 Feb, 13 Mar (the first s 552A conference) and 7 Apr 2026**,
+  the contested pleading phase. She stood down for 22 May and 7 Aug. How s 552B was handled in March is not in the
+  record.
+- **s 552B:** a lawyer at a conference only by "the agreement of the parties" or the appeal body's leave. Conferences
+  are built to run without lawyers.
+
+**Read.**
+- Counsel appears when something is to be **decided or contested** (class 5), not for exchanges. **Her return for the
+  second conference marks it as a decision event**, either resolution or the set-up of a hearing.
+- On the present record, with no expert, ¶27 unparticularised and early dates, resolution is the more likely of the
+  two (moderate).
+
+**Why bring counsel to an informal conference.**
+1. **Authority.** Matheson cannot concede (MLP 3.2). The adviser to the delegate must hear the Member's private view
+   (Guide 5.1/5.2) and Cory's position first-hand.
+2. **The agenda is legal:**
+   - leave (IR Act s 451(2));
+   - ¶27 and the characterisation of management action (s 32(5)(a));
+   - the effect of the admissions (r 49);
+   - Q6 (s 32(5)(b));
+   - drafting consent orders under s 558(1)(c).
+3. **The record.** The conference is recorded. Counsel manages what is said, so nothing is admitted and nothing is
+   found ("without admission").
+4. **The stakes changed.** A 30-page pleading on 298 admissions is not a file to send an officer alone to negotiate.
+5. **Continuity:** the same counsel as on 13 Mar.
+
+**s 552B choice.**
+- **Agree,** as advised: it puts the decision adviser in the room.
+- **Refusing** forces a leave application that is usually granted, reads as obstruction, and gains nothing.
+- **Optional, in the reply:** note that he is self-represented and expects the conference to proceed informally under
+  Guide 5.2.
