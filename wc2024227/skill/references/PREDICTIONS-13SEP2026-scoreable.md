@@ -2821,3 +2821,24 @@ which leaves him free to be candid in a private conference.
 - facts 228–231;
 - Tab 24;
 - hearing length and witnesses.
+
+**E39 addendum 6: a mention can dispose of the procedural items** (Cory, 19 Oct)
+- **The precedent in this matter** (`confirmed-record.md` spine):
+  1. the first s 552A conference, **13 Mar 2026**, did not resolve;
+  2. **a mention on 7 Apr 2026** (Willson appeared);
+  3. a **Further Directions Order** the same day: amended Appellant SOFC by 8 Apr, Respondent's by 13 May.
+
+  So the pattern is conference, then mention, then directions.
+- **What the conference can do:** agreement. That covers s 32 elements agreed, consent to leave, documents confirmed,
+  and **directions by consent on the day**.
+- **What a mention (or a decision on the papers) does:** anything contested. That covers leave if opposed, ¶27
+  particulars (item 2), management action by particular (item 5), the Respondent's amendment (item 6), and a hearing
+  timetable, all as **orders with dates**.
+- **The documents (item 4) are nearly moot:** 38/39 confirmed. Only Tab 24 and facts 228–231 remain, which is easy to
+  dispose of either way.
+- **Ask in the one-page conference agenda** (to the Registry, cc the Regulator, before the conference): "The
+  Appellant asks that his application of 1 October 2026 for leave and the directions requested be dealt with at the
+  conference and, to the extent they are not agreed, that directions be made or the matter be listed for mention."
+  Frame it as efficiency, not as a challenge to Dwyer's conference-first approach.
+- **Note:** formal directions cut both ways. A party that wants to fight can use a mention to seek time, witnesses or
+  an expert. On the present record that is the less likely use.
