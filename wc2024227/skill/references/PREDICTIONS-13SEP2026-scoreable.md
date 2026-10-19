@@ -2683,3 +2683,22 @@ the likelihood ratio is about 1 and it does not move the forecast.
   - the conference is recorded;
   - the Member may go into **private conference with each side**, which is where a respondent hears his view (Guide
     5.1/5.2).
+
+**E39 addendum 2: why so fast?** (Cory asked, 19 Oct; inference, weighed)
+
+| Explanation | Evidence | Weight |
+|---|---|---|
+| **1. Early compliance with a Commission instruction** (class 1) | She calls it the Commission's "direction for the parties to discuss dates". The directions of 30 Sep were met six days early (R18). Having asked Dwyer for latitude (no orders on items 2–7, counsel's absence), she must be seen to use it well | **Strong** |
+| **2. Protecting the deferral of items 2–7** | "In the first instance" holds only while the conference is prompt. Drift invites Cory's request for orders, and Dwyer sets hard dates for parties that do not engage (22 May) | **Strong** |
+| 3. Her ordinary efficiency on listings | Feb precedent: counsel's slots sent to the Registry the same morning (R32) | Moderate (base rate) |
+| 4. Locking counsel's diary before her return-day backlog | AM-only Mon and Thu; Fri all day; "while she finishes the last days of her leave" | Moderate |
+| 5. Momentum toward an exit (H2) | Guide 5.1 runs through the conference, so speed shortens the road. The documents were cleared on 12 and 16 Oct, and costs and MSH exposure grow with time | Moderate (consistent, not unique) |
+| 6. MSH pressure (leave ends 27 Oct) | MSH and OIR are linked through HR | Weak |
+
+**Net.**
+- Speed is what a cooperative, instruction-compliant party does. It is also necessary for an exit.
+- It lowers H3 (delay) sharply and raises H2 slightly. It is not evidence that a concession decision has been made.
+  Roughly 30% that the speed reflects a decision already taken; about 70% compliance, efficiency and protection of
+  the deferral. These are not exclusive.
+- **What would show a decision:** a WP contact or a s 552B request with an approach before the conference.
+- **What would show a fight:** an amended SOFC or ¶27 particulars arriving before or at the conference.
