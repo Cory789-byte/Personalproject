@@ -2786,3 +2786,38 @@ the likelihood ratio is about 1 and it does not move the forecast.
 - **Refusing** forces a leave application that is usually granted, reads as obstruction, and gains nothing.
 - **Optional, in the reply:** note that he is self-represented and expects the conference to proceed informally under
   Guide 5.2.
+
+**E39 addendum 5: ⚠ CORRECTION. The conference is not a negotiation** (QIRC Workers' Compensation Appeal Guide,
+verified 19 Oct, `documents/guides/QIRC_Workers_Compensation_Appeal_Guide.pdf`)
+- **"No commercial settlement is possible at the conference.** Conferences for workers' compensation matters are not
+  intended to facilitate conciliations. Following the conference, the Respondent may decide to review its position or
+  consider conceding the appeal where new information is presented … The more likely outcome of a conference is that
+  parties will have a better understanding of the issues to be addressed at a hearing".
+- **The conference is chaired by the Member:** "Usually the same Member … will also chair the second conference … to
+  explore and refine any issues in dispute … the parties have the opportunity to address the Member … on the issues
+  they feel should be clarified … general guidance may be given, it is not the Commission's role to provide advice …
+  The Member … who chairs such a conference will not be the Member who hears the appeal". If it goes to hearing, the
+  file is allocated to a different Member.
+- **Private conference:** the Member "may also decide to 'go off the record' and go into 'private conference' if the
+  Member believes that it may assist the parties … not recorded or transcribed". It is not adversarial.
+- **Purpose:** to "assist in understanding whether any elements of s 32 of the Act can be agreed".
+
+**What this corrects.** Earlier entries spoke of an "approach at the conference". The path the Guide describes is:
+1. the conference narrows the issues;
+2. the Respondent **reviews its position after it**;
+3. a concession follows (consent orders), the Appellant discontinues, or hearing directions are made.
+
+There is no bargaining in the WC appeal itself. Acceptance is the only currency. Employment and civil terms sit
+outside it, with MSH and WorkCover.
+
+**Dwyer's control.** He chairs, runs the process and decides whether it goes to hearing. He will not hear the appeal,
+which leaves him free to be candid in a private conference.
+
+**Cory's levers:** the issues he asks to clarify, set out in a one-page agenda:
+- s 32 elements agreed (facts 261–262);
+- ¶27 (item 2);
+- management action by particular (item 5);
+- leave for the 9A;
+- facts 228–231;
+- Tab 24;
+- hearing length and witnesses.
