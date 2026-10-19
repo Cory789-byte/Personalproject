@@ -2657,3 +2657,29 @@ the likelihood ratio is about 1 and it does not move the forecast.
 4. s 552B (agree: it puts the person who advises on concession in the room).
 5. MSH on 27–28 Oct.
 6. Any WP contact before the conference.
+
+**E39 addendum: the Commission's diary, and which date is likely** (verified dates; inference marked).
+- **Lead times in this matter,** from notice of listing to the event:
+  - 17 Feb → 26/27 Feb (9–10 days);
+  - 2 Mar → 13 Mar conference (11 days);
+  - 7 May → 22 May (15 days).
+
+  A reply on 19–20 Oct, a Registry email on about 20–21 Oct and a notice in late October put 2–6 Nov **inside the
+  normal 9–15 day window**. That is feasible, not assured ("in the hopes that one of the dates will suit the
+  Commission").
+- **The Friday pattern.** Dwyer's events in this matter:
+  - 27 Feb (Fri, after a one-day move from Thu 26 Feb);
+  - **13 Mar conference (Fri, 10:00)**;
+  - 7 Apr (Tue);
+  - **22 May (Fri)**;
+  - **7 Aug (Fri)**.
+
+  The Commission-chosen listings are mostly Fridays. **Inference (moderate):** Fri 6 Nov, "all day", is the slot most
+  likely to fit his diary, and keeping the Friday fully open looks deliberate.
+- **The next fallback** if none of the three suits: later November Fridays (13, 20 Nov), subject to counsel.
+- **Mechanics** (`HOW-THE-REGULATOR-CONCEDES.md` §6):
+  - the same Member usually chairs, so expect Dwyer;
+  - the conference Member does not hear the appeal;
+  - the conference is recorded;
+  - the Member may go into **private conference with each side**, which is where a respondent hears his view (Guide
+    5.1/5.2).
