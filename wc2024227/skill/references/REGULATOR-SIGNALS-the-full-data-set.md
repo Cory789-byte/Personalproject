@@ -254,3 +254,15 @@ See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
   - a WP approach before or at the conference;
   - MSH on 27–28 Oct.
 - See E39.
+
+**Watchlist, 19 Oct evening (R37).** Cory replied at 16:04 with the dates and the letter. The as-sent copy is in
+`documents/sent-2026-10-19/`.
+- **Fired:** Cory's reply.
+- **Next:**
+  - R38, Matheson's email to the Registry (by about 21 Oct);
+  - R40, the listing (2, 5 or 6 Nov);
+  - R39, the positions on the six matters (4.00 pm Fri 30 Oct, "where practicable");
+  - s 552B at listing (agree if asked);
+  - R34, a WP approach before or at the conference;
+  - MSH on 27–28 Oct.
+- See E40.

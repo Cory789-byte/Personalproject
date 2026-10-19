@@ -1,5 +1,10 @@
 # Pre-conference package (drafts, 19 Oct 2026)
 
+⚠ **SENT 19 Oct 2026, 16:04, as one email** (the dates and the letter together, to Matheson only). The as-sent copy
+is in `documents/sent-2026-10-19/`. It is the **13:14 build** (commit `2033216`), with "Now admitted; tender" and no
+de novo sentence in item 4. The files in this folder are the later 13:18 revision, which was **not sent**. Do not
+circulate them as the 19 Oct schedule. Use them only as the base for any further update. Ledger R37; Predictions E40.
+
 **Order of sending**
 1. `EMAIL_1_REPLY_DATES_send_19-20OCT.txt`: dates only, s 552B agreed, copied on the Registry email. Send now.
 2. **Then the letter**, now dated **19 October 2026** (Cory, 19 Oct): send `EMAIL_2_COVER_…` with

@@ -2864,3 +2864,56 @@ which leaves him free to be candid in a private conference.
   anyway in v2. That turns a concession they ask for into one already made, and keeps the core (Stressors 1–3, the
   admissions, C 4–5A) off the table.
 - **Absent:** no request for a hearing date or a mention. A party confident on the merits would press for listing.
+
+### E40 · Monday 19 October 2026, 16:04: Cory's reply, with the dates confirmed and the letter attached (R37)
+
+**Verified** (`documents/sent-2026-10-19/`).
+- To Matheson only, as a reply on her 10:52 email, 5 h 12 min later. No cc.
+- All three dates confirmed, with "no preference". She is asked to advise the Registry and to confirm the listing.
+- The six matters are summarised. Positions are sought "by 4.00 pm on Friday 30 October 2026, where practicable";
+  the request "does not seek to delay the listing of the conference".
+- **Attachment:** the 13:14 build (commit `2033216`), 11 pp in Word. It is not the 13:18 revision:
+  - "Position now" reads "Now admitted; tender" for the twelve confirmed documents and "Admitted; tender" for the rest;
+  - item 4 has no de novo sentence.
+- **Not addressed:** s 552B.
+
+**Read** (inference).
+1. **One email, two purposes.** The dates answer her only question, so the Registry email (R38) can go at once. The
+   letter travels with it but will be answered separately, by counsel.
+2. **A softer clock.** "Where practicable" and "does not seek to delay" take the class 1 pressure off the email
+   itself. The letter keeps its consequence: the Commission at the conference, then directions or a mention. Expect
+   the substantive answer at the limit, or at the conference.
+3. **"Now admitted" carries little risk.**
+   - The Regulator's own 16 Oct email calls its confirmation "the admission of the Regulator to a document's
+     existence".
+   - The 1 Oct schedule used the same words for the 24 Sep confirmations and drew no objection.
+   - Item 2 asks whether tender is agreed, so the schedule does not present tender as agreed.
+
+   **No correction should be sent:** a second version would put two schedules in circulation. Use "veracity
+   confirmed" orally at the conference.
+4. **The missing de novo sentence costs little.** 9A Part C ¶9 already accepts that the hearing is de novo, and
+   item 4 is put as a question. If the reply answers "de novo", the conference answer is ready: accepted, and the
+   question is only whether the elements can be agreed.
+5. **s 552B stays in Cory's hands.** Counsel can appear at the conference only by agreement or leave. If asked, the
+   planned answer (agree) stands. It costs nothing and keeps the conference on counsel's dates.
+6. **Item 5 risk.** The conditional "completed version" may be used to defer consent to leave. The answer at the
+   conference: leave on the 1 Oct version now, with liberty to file a completed version (changes noted) within
+   7 days of any admission.
+
+**Forecasts** (planning estimates; scoreable).
+
+| # | Event | Score by | P |
+|---|---|---|---|
+| E40.1 | Matheson emails the Registry with the joint dates (R38) | Wed 21 Oct / Fri 23 Oct | ≈80% / ≈90% |
+| E40.2 | Conference listed on 2, 5 or 6 Nov (R40) | Fri 30 Oct | ≈75%; Fri 6 Nov the single most likely (≈45%) |
+| E40.3 | Any written acknowledgement of the letter | Fri 23 Oct | ≈50% |
+| E40.4 | A written reply on the six matters by 4.00 pm Fri 30 Oct (R39) | 30 Oct | ≈40% |
+| E40.5 | Facts 228–231 admitted, all or some: in writing before the conference / by its end | conference | ≈50% / ≈70% |
+| E40.6 | Tender without further proof agreed, reservation repeated: before / by the end | conference | ≈40% / ≈60% |
+| E40.7 | Specific relevance or admissibility objections identified in writing before the conference | conference | ≈15% |
+| E40.8 | s 32(1) agreed in writing before / by the end of the conference; refused | conference | ≈25% / ≈50%; ≈25% |
+| E40.9 | Leave before the conference: consent ≈20%; deferred to the conference ≈55%; deferred pending the completed version ≈15%; opposed ≈10% | conference | (shares) |
+| E40.10 | The 13 May SOFC formula returns in any written reply | conference | ≈20% (falsifier for H2) |
+| E40.11 | Counsel's attendance (s 552B) raised by the Regulator or the Registry | listing | ≈50% |
+
+**Score on** 21 Oct, 23 Oct, 30 Oct and the conference day.

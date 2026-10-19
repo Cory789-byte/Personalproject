@@ -208385,12 +208385,12 @@ Kind regards,
 Cory Lea Shepherd
 Appellant (self-represented)
 
->>> drafts/out/PRECONF_22OCT2026/EMAIL_2_COVER_for_letter_send_22-23OCT.txt :: text
+>>> drafts/out/PRECONF_22OCT2026/EMAIL_2_COVER_for_letter_send_19OCT.txt :: text
 To: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
 Cc: OIR-Appeals <appeals@oir.qld.gov.au>
 Subject: WC/2024/227 - Shepherd v Workers' Compensation Regulator - matters that may be agreed before the s552A conference
 Attach: LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf, renamed before sending to
-        2026-10-22_WC2024227_Letter_to_Regulator_with_updated_Schedule.pdf (change the date if the letter is re-dated)
+        2026-10-19_WC2024227_Letter_to_Regulator_with_updated_Schedule.pdf (change the date if the letter is re-dated)
 
 Dear Ms Matheson,
 
@@ -208401,7 +208401,7 @@ Cory Lea Shepherd
 Appellant (self-represented)
 
 >>> drafts/out/PRECONF_22OCT2026/LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf :: page 1
-22 October 2026
+19 October 2026
 Ms Renee Matheson
 Senior Appeals Officer
 Workers' Compensation Regulatory Services
@@ -208416,17 +208416,17 @@ to 19, 21 to 23 and 31 of Annexure A and of the documents at Tab 32, and for you
 with counsel's availability for the conference.
 The documents. With those confirmations, 38 of the 39 documents at Annexure A to the notices to admit
 served on 28 August 2026 are admitted or confirmed; Tab 24 is the only one outstanding. The Schedule to my
-letter of 1 October 2026 is enclosed, updated to 22 October 2026. Part 1 shows the position of each document,
+letter of 1 October 2026 is enclosed, updated to 19 October 2026. Part 1 shows the position of each document,
 and two short tables follow it: the documents at Tab 32, and the entries in the spreadsheet you provided on 12
 October 2026 that facts 228 to 231 record. Parts 2 and 3 are unchanged.
 Matters that may be agreed. So that the conference can be used efficiently, and without delaying it, could the
 Respondent please indicate its position on the following matters by 4.00 pm on Friday 30 October 2026? Any
 matter that is agreed can then simply be noted at the conference.
-1. Facts 228 to 231. These facts record entries in the Emergency Code Register for 17, 18 and 19 March 2024
-and were not admitted on 8 September 2026. Each of them records entries in the spreadsheet "2024 Emergency
-Code Register_16 to 20 March 2024.xlsx" that you provided on 12 October 2026 and whose veracity the
-Respondent has confirmed; the table after Part 1 of the Schedule identifies those entries by row. Now that the
-spreadsheet is confirmed, does the Respondent admit facts 228 to 231?
+1. Facts 228 to 231. These facts, which were not admitted on 8 September 2026, record entries in the
+Emergency Code Register for 17, 18 and 19 March 2024. The same entries appear in the spreadsheet "2024
+Emergency Code Register_16 to 20 March 2024.xlsx" that you provided on 12 October 2026 and whose
+veracity the Respondent has confirmed; the table after Part 1 of the Schedule identifies them by row. Now that
+the spreadsheet is confirmed, does the Respondent admit facts 228 to 231?
 2. Tender. Does the Respondent agree that the 38 documents at Annexure A that are admitted or confirmed,
 and the document at Tab 32A, may be tendered at any hearing without further proof, either in the form at
 Annexure A or, for the nine documents you provided on 12 October 2026, in that form? Could the Respondent
@@ -208447,17 +208447,20 @@ action taken in a reasonable way, remain matters for the Commission.
 4. Section 32(1). Review Decision 69983 states, under the heading "Conclusion", that the Appellant "sustained
 a personal injury of a psychological nature" and that the "injury arose out of employment, to the extent that it
 arose out of factors 2, 3 and 4, where employment was a significant contributing factor" (facts 261 and 262,
-admitted); the claim was rejected under section 32(5) of the Act. Does the Respondent agree that, to that extent,
-the elements of section 32(1) are not in issue, so that the issue for any hearing is confined to section 32(5)?
-5. Leave. Does the Respondent consent to leave to file the proposed Second Amended Statement of Facts and
-Contentions provided on 1 October 2026? If it intends to amend its own statement of facts and contentions in
+admitted); the claim was rejected under section 32(5) of the Act. The Appellant accepts that the hearing is de
+novo and that no finding in the decision binds the Commission; the question is whether these matters can be
+agreed. Does the Respondent agree that, to that extent, the elements of section 32(1) are not in issue, so that the
+issue for any hearing is confined to section 32(5)?
 
 
                                                      Page 1
 
 >>> drafts/out/PRECONF_22OCT2026/LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf :: page 2
-response, how much time does it seek? I intend to provide, before the conference, a corrected version of the
-proposed statement with a one-page list of the changes; the corrections add no new stressor or allegation.
+5. Leave. Does the Respondent consent to leave to file the proposed Second Amended Statement of Facts and
+Contentions provided on 1 October 2026? If it intends to amend its own statement of facts and contentions in
+response, how much time does it seek? Once facts 228 to 231 are admitted, I may then provide a completed
+version of the proposed statement, with any changes from the version provided on 1 October 2026 noted. Any
+change will add no new stressor or allegation.
 6. Paragraph 27. At the conference I will ask which management action the Respondent relies on for the
 contention in paragraph 27 of its amended statement of facts and contentions (fact 303), so that the issues for
 any hearing can be identified.
@@ -208470,7 +208473,7 @@ Yours sincerely,
 
 Cory Lea Shepherd, Appellant (self-represented)
 
-Enclosure: Schedule to the Appellant's letter of 1 October 2026, updated to 22 October 2026 (Parts 1 to 3).
+Enclosure: Schedule to the Appellant's letter of 1 October 2026, updated to 19 October 2026 (Parts 1 to 3).
 
 
 
@@ -208478,7 +208481,7 @@ Enclosure: Schedule to the Appellant's letter of 1 October 2026, updated to 22 O
                                                      Page 2
 
 >>> drafts/out/PRECONF_22OCT2026/LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf :: page 3
-WC/2024/227 - Schedule to the Appellant's letter of 1 October 2026, updated to 22 October 2026
+WC/2024/227 - Schedule to the Appellant's letter of 1 October 2026, updated to 19 October 2026
 The schedule is reproduced as provided on 1 October 2026. Only Part 1 is updated: its introduction, the new
 column "12 Oct 2026", the column "Position now" and the note after the table; two tables are added after it, for
 the documents at Tab 32 and for facts 228 to 231. Parts 2 and 3 are unchanged.
@@ -208496,147 +208499,149 @@ not been addressed. The facts recorded in 13 of the 14 were admitted on 8 Septem
 in Part B; the exception is the register at Tab 31, from which facts 228 to 231 were not admitted. The table after
 Part 1 identifies, by row of that spreadsheet, the entries that facts 228 to 231 record.
 
- Tab Document                      Date           8 Sep       24 Sep 2026       12 Oct 2026      Position now
-                                                  2026
- 1A    Stibbard to the             18 Jul         Admitted -                    -                Admitted;
-       Switchboard team,           2023,                                                         tender
+ Tab Document                      Date          8 Sep        24 Sep 2026      12 Oct 2026 Position now
+                                                 2026
+ 1A    Stibbard to the             18 Jul        Admitted -                    -              Admitted; tender
+       Switchboard team,           2023,                                                      proposed
        "Hello & Update"            12:56 pm
- 1B    Taylor to Reese, "Fwd:      6 Jun 2023, Admitted -                       -                Admitted;
-       Communication Book          4:05 pm                                                       tender
+ 1B    Taylor to Reese, "Fwd: 6 Jun 2023, Admitted -                           -              Admitted; tender
+       Communication Book      4:05 pm                                                        proposed
        Update", with her email
        to Logan Switch of 9:57
        am that day
- 2     "Increase of hours and      7-10 Aug       Admitted -                    -                Admitted;
-       Workplace issues" chain     2023                                                          tender
+ 2     "Increase of hours and  7-10 Aug          Admitted -                    -              Admitted; tender
+       Workplace issues" chain 2023                                                           proposed
        and Reese's replies
- 3     Reese attaching HR          29 Aug-8       Admitted -                    -                Admitted;
-       Policy E12; emails of 4     Sep 2023                                                      tender
+ 3     Reese attaching HR          29 Aug-8      Admitted -                    -              Admitted; tender
+       Policy E12; emails of 4     Sep 2023                                                   proposed
        and 8 Sep 2023
- 4     "Request to Increase     7 and 31          Admitted -                    -                Admitted;
-       Working Hours to Full    Aug 2023                                                         tender
-       Time Rotational Roster";
-       emails of 7 Aug 2023
-       1:43 pm and 5:11 pm
- 7     "Roster Concerns" chain     26 Apr-8       Admitted -                    -                Admitted;
-                                   May 2024                                                      tender
- 8     Reese to Pritchard "FW: 10 and 20          Admitted -                    -                Admitted;
-       Roster Concerns"; Reese May 2024                                                          tender
-       to LBH_HR attaching
-       qh-gdl-401-3.3
- 8A    Cover page, Fatigue risk 2021              Admitted -                    -                Admitted;
-       management systems                                                                        tender
+ 4     "Request to Increase        7 and 31      Admitted -                    -              Admitted; tender
+       Working Hours to Full       Aug 2023                                                   proposed
+       Time Rotational
+       Roster"; emails of 7
+       Aug 2023 1:43 pm and
+       5:11 pm
+ 7     "Roster Concerns" chain 26 Apr-8          Admitted -                    -              Admitted; tender
+                               May 2024                                                       proposed
+ 8     Reese to Pritchard "FW: 10 and 20         Admitted -                    -              Admitted; tender
+       Roster Concerns";       May 2024                                                       proposed
+       Reese to LBH_HR
+       attaching qh-gdl-401-
+       3.3
+ 8A    Cover page, Fatigue risk 2021             Admitted -                    -              Admitted; tender
+       management systems                                                                     proposed
        implementation
-       guideline QH-GDL-401-
-       3.3:2021
-
-
-
+       guideline QH-GDL-
+       401-3.3:2021
 
                                                      Page 3
 
 >>> drafts/out/PRECONF_22OCT2026/LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf :: page 4
-Tab Document                    Date         8 Sep      24 Sep 2026   12 Oct 2026   Position now
+Tab Document                    Date         8 Sep       24 Sep 2026   12 Oct 2026 Position now
                                              2026
-8B   MASPER emails (Taylor 9 May             Admitted -               -             Admitted;
-     to Kwok and Wong;     2024 (logs                                               tender
-     "MASPER process") and 2-8 May)
-     issue logs
-8C   Stibbard, "Switchboard     13 May       Admitted -               -             Admitted;
-     After Hours On Call        2024, 4:29                                          tender
+8B   MASPER emails              9 May        Admitted -                -           Admitted; tender
+     (Taylor to Kwok and        2024 (logs                                         proposed
+     Wong; "MASPER              2-8 May)
+     process") and issue logs
+8C   Stibbard, "Switchboard     13 May       Admitted -                -           Admitted; tender
+     After Hours On Call        2024, 4:29                                         proposed
      Manager PP24"              pm
-9    Taylor, "Switchboard       17 May       Admitted -               -             Admitted;
-     Manager - On call and      2024, 9:30                                          tender
+9    Taylor, "Switchboard       17 May       Admitted -                -           Admitted; tender
+     Manager - On call and      2024, 9:30                                         proposed
      Hours."                    am
-9A   "Office Hours and          15 May       Admitted -               -             Admitted;
-     Departmental               2024                                                tender
+9A   "Office Hours and          15 May       Admitted -                -           Admitted; tender
+     Departmental               2024                                               proposed
      Directives" chain (1:15
      pm, 6:23 pm, 7:09 pm)
-9B   Reese, "RE: Office         21 May       Admitted -               -             Admitted;
-     Hours and Departmental     2024, 2:53                                          tender
-     Directives"                pm
-10   Taylor, "Sick leave        14-15 May Admitted -                  -             Admitted;
-     14.05.24", and its         2024 (first                                         tender
+9B   Reese, "RE: Office     21 May           Admitted -                -           Admitted; tender
+     Hours and Departmental 2024, 2:53                                             proposed
+     Directives"            pm
+10   Taylor, "Sick leave        14-15 May Admitted -                   -           Admitted; tender
+     14.05.24", and its         2024 (first                                        proposed
      forwarding to Reese        email 14
                                 May, 12:08
                                 pm)
-11   Marriott (Integrated       15 and 20    Admitted -               -             Admitted;
-     Respiratory Service) to    May 2024                                            tender
+11   Marriott (Integrated       15 and 20    Admitted -                -           Admitted; tender
+     Respiratory Service) to    May 2024                                           proposed
      Logan Switch; the
      Appellant to Taylor;
      Taylor's reply
-12   "Corey Shepherd 388372 3-13 May         Admitted -               -             Admitted;
-     Pay issues" thread     2024                                                    tender
-13   Same thread, Taylor to     21 May       Admitted -               -             Admitted;
-     the Appellant              2024,                                               tender
+12   "Corey Shepherd            3-13 May     Admitted -                -           Admitted; tender
+     388372 Pay issues"         2024                                               proposed
+     thread
+13   Same thread, Taylor to     21 May       Admitted -                -           Admitted; tender
+     the Appellant              2024,                                              proposed
                                 12:33 pm
-14   Taylor, "Validation of     28 May       Admitted -               -             Admitted;
-     Claims older than 3        2024, 8:36                                          tender
+14   Taylor, "Validation of     28 May       Admitted -                -           Admitted; tender
+     Claims older than 3        2024, 8:36                                         proposed
      months - Please sign"      am
-15   myHR submissions           1 Feb-31     Admitted -               -             Admitted;
-     report (MSH Item 11)       May 2024                                            tender
-16   QH Leave Takings           19 Mar       Admitted -               -             Admitted;
-     Report (MSH Item 15)       2024                                                tender
-25   Review Decision 69983      24 Oct       Admitted -               -             Admitted;
-                                2024                                                tender
-26   Appellant's first notice to before 18   Admitted -               -             Admitted;
-     admit facts                 Feb 2026                                           tender
-27   Respondent's response to 18 Feb         Admitted -               -             Admitted;
-     that notice              2026                                                  tender
+15   myHR submissions           1 Feb-31     Admitted -                -           Admitted; tender
+     report (MSH Item 11)       May 2024                                           proposed
+16   QH Leave Takings           19 Mar       Admitted -                -           Admitted; tender
+     Report (MSH Item 15)       2024                                               proposed
+25   Review Decision 69983      24 Oct       Admitted -                -           Admitted; tender
+                                2024                                               proposed
+26   Appellant's first notice   before 18    Admitted -                -           Admitted; tender
+     to admit facts             Feb 2026                                           proposed
+27   Respondent's response      18 Feb       Admitted -                -           Admitted; tender
+     to that notice             2026                                               proposed
 
 
 
 
-                                               Page 4
+                                                Page 4
 
 >>> drafts/out/PRECONF_22OCT2026/LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf :: page 5
-Tab Document                    Date         8 Sep      24 Sep 2026   12 Oct 2026   Position now
-                                             2026
-28   myHR leave request         20 Feb-1     Admitted -               -             Admitted;
-     history, Process           Mar 2024                                            tender
+Tab Document                   Date         8 Sep       24 Sep 2026   12 Oct 2026 Position now
+                                            2026
+28   myHR leave request        20 Feb-1     Admitted -                -           Admitted; tender
+     history, Process          Mar 2024                                           proposed
      Reference 15480560
      (MSH Item 11)
-29   Instrument of Human        eff. 5 Dec   Admitted -               -             Admitted;
-     Resource Sub-              2022                                                tender
+29   Instrument of Human      eff. 5 Dec    Admitted -                -           Admitted; tender
+     Resource Sub-            2022                                                proposed
      Delegation, Paid Special
      Pandemic Leave (MSH
      Item 13)
-6    Taylor, "Afterhours        15 Apr       Disputed Confirmed by   -              Now admitted;
-     Oncall Process -           2024,                 the Respondent                tender
-     Switchboard" (Stressor     12:39 pm
+6    Taylor, "Afterhours       15 Apr       Disputed Confirmed by -               Veracity
+     Oncall Process -          2024,                 the Respondent               confirmed;
+     Switchboard" (Stressor    12:39 pm                                           tender proposed
      1(f))
-20   Metro South to             5 Jun 2026   Disputed Confirmed by   -              Now admitted;
-     Commissioner Dwyer,                              the Respondent                tender
-     K-LM26/729, signed by
+20   Metro South to           5 Jun 2026    Disputed Confirmed by -               Veracity
+     Commissioner Dwyer,                             the Respondent               confirmed;
+     K-LM26/729, signed by                                                        tender proposed
      the Chief Executive
      (supporting records
      under Stressors 1 and 3)
-30   Taylor, "What's Chloe's    23 Aug       Disputed Confirmed by   -              Now admitted;
-     Hours?!" (Stressor 1(d))   2023, 2:18            the Respondent                tender
-                                pm
-30A Taylor, "Good morning       18 Jun       Disputed Confirmed by   -              Now admitted;
-    Team." (Stressor 1,         2024, 8:58            the Respondent                tender
-    supporting records)         am
-1    Role description,          undated      Disputed Referred by the Copy          Now admitted;
-     Administration Officer,                          Respondent to provided;       tender
-     Switchboard Services                             Metro South     confirmed
-     (AO3), Logan Hospital                            for copies
-5    Taylor, "Approved -        27 Sep       Disputed Referred by the Copy          Now admitted;
-     Permanent Full Time        2023, 1:52            Respondent to provided;       tender
-     FTE"                       pm                    Metro South     confirmed
-                                                      for copies
-17   Movement form,             27 Feb       Disputed Referred by the Copy          Now admitted;
-     approved by Mr Hughes      2026                  Respondent to provided;       tender
-     as delegate, recording                           Metro South     confirmed
-     "Continuous Shift                                for copies
+30   Taylor, "What's Chloe's 23 Aug         Disputed Confirmed by -               Veracity
+     Hours?!" (Stressor 1(d)) 2023, 2:18             the Respondent               confirmed;
+                              pm                                                  tender proposed
+30A Taylor, "Good morning      18 Jun       Disputed Confirmed by -               Veracity
+    Team." (Stressor 1,        2024, 8:58            the Respondent               confirmed;
+    supporting records)        am                                                 tender proposed
+1    Role description,         undated      Disputed Referred by the Copy         Veracity
+     Administration Officer,                         Respondent to provided;      confirmed;
+     Switchboard Services                            Metro South     confirmed    tender proposed
+     (AO3), Logan Hospital                           for copies
+5    Taylor, "Approved -       27 Sep       Disputed Referred by the Copy         Veracity
+     Permanent Full Time       2023, 1:52            Respondent to provided;      confirmed;
+     FTE"                      pm                    Metro South     confirmed    tender proposed
+                                                     for copies
+17   Movement form,         27 Feb          Disputed Referred by the Copy         Veracity
+     approved by Mr Hughes 2026                      Respondent to provided;      confirmed;
+     as delegate, recording                          Metro South     confirmed    tender proposed
+     "Continuous Shift                               for copies
      Worker"
-18   Movement form,         17 Apr           Disputed Referred by the Copy          Now admitted;
-     approved by Mr Hughes, 2026                      Respondent to provided;       tender
-     recording "Continuous                            Metro South     confirmed
-     Shift Worker"                                    for copies
-19   Movement form,         9 Jun 2026       Disputed Referred by the Copy          Now admitted;
-     approved by Mr Hughes,                           Respondent to provided;       tender
-     recording "Continuous                            Metro South     confirmed
-     Shift Worker"                                    for copies
+18   Movement form,            17 Apr       Disputed Referred by the Copy         Veracity
+     approved by Mr            2026                  Respondent to provided;      confirmed;
+     Hughes, recording                               Metro South     confirmed    tender proposed
+     "Continuous Shift                               for copies
+     Worker"
+19   Movement form,            9 Jun 2026   Disputed Referred by the Copy         Veracity
+     approved by Mr                                  Respondent to provided;      confirmed;
+     Hughes, recording                               Metro South     confirmed    tender proposed
+     "Continuous Shift                               for copies
+     Worker"
 
 
 
@@ -208644,36 +208649,37 @@ Tab Document                    Date         8 Sep      24 Sep 2026   12 Oct 202
                                                Page 5
 
 >>> drafts/out/PRECONF_22OCT2026/LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf :: page 6
-Tab Document                      Date          8 Sep       24 Sep 2026       12 Oct 2026    Position now
-                                                2026
-21     Forrest, Senior            7 Jul 2026    Disputed Referred by the Copy                Now admitted;
-       Consultant Human                                  Respondent to provided;             tender
-       Resources, to the                                 Metro South     confirmed
-       Appellant, stating that                           for copies
+Tab Document                      Date         8 Sep        24 Sep 2026      12 Oct 2026 Position now
+                                               2026
+21     Forrest, Senior          7 Jul 2026     Disputed Referred by the Copy               Veracity
+       Consultant Human                                 Respondent to provided;            confirmed;
+       Resources, to the                                Metro South     confirmed          tender proposed
+       Appellant, stating that                          for copies
        the 8-hour agreement "is
        only applied where staff
-       initiated shift swaps have
-       occurred"
-22     Consultation Paper,        Nov 2024      Disputed Referred by the Copy                Now admitted;
-       Proposed Rosters for                              Respondent to provided;             tender
-       Switchboard Services,                             Metro South     confirmed
-       signed by Mr Hughes 12                            for copies
+       initiated shift swaps
+       have occurred"
+22     Consultation Paper,    Nov 2024         Disputed Referred by the Copy               Veracity
+       Proposed Rosters for                             Respondent to provided;            confirmed;
+       Switchboard Services,                            Metro South     confirmed          tender proposed
+       signed by Mr Hughes 12                           for copies
        Nov 2024
-23     Consultation outcome,    Dec 2024        Disputed Referred by the Copy                Now admitted;
-       Proposed Rosters, signed                          Respondent to provided;             tender
-       by Mr Hughes 12 Dec                               Metro South     confirmed
-       2024                                              for copies
-31     Screen capture, "2024     Mar 2024       Disputed Referred by the Spreadsheet         Spreadsheet
-       Emergency Code                                    Respondent to provided;             confirmed;
-       Register.xlsx", March                             Metro South     confirmed           tender. Facts
-       2024 sheet, entries 16-20                         for copies                          228-231 not
-       Mar 2024 (Stressors 3(b)                                                              admitted (see
-       and 3(c))                                                                             the table after
-                                                                                             Part 1)
-24     Moran, Organiser,          3 Nov 2025 Disputed Not mentioned           Not            Outstanding;
-       Together Queensland, to                                                mentioned      contents
-       Jeffrey, Conaghan and                                                                 admitted (178-
-       the Appellant,                                                                        179)
+23     Consultation outcome,  Dec 2024         Disputed Referred by the Copy               Veracity
+       Proposed Rosters,                                Respondent to provided;            confirmed;
+       signed by Mr Hughes 12                           Metro South     confirmed          tender proposed
+       Dec 2024                                         for copies
+31     Screen capture, "2024      Mar 2024     Disputed Referred by the Spreadsheet        Veracity of the
+       Emergency Code                                   Respondent to provided;            spreadsheet
+       Register.xlsx", March                            Metro South     confirmed          confirmed;
+       2024 sheet, entries 16-                          for copies                         tender proposed.
+       20 Mar 2024 (Stressors                                                              Facts 228-231
+       3(b) and 3(c))                                                                      not admitted (see
+                                                                                           the table after
+                                                                                           Part 1)
+24     Moran, Organiser,       3 Nov 2025 Disputed Not mentioned             Not           Outstanding;
+       Together Queensland, to                                               mentioned     contents
+       Jeffrey, Conaghan and                                                               admitted (178-
+       the Appellant,                                                                      179)
        "Switchboard Roster
        Feedback - For
        Delegates"
@@ -208689,15 +208695,14 @@ documents with its letter of 5 June 2026 (Tab 20). In answer to the Appellant's 
 Industrial Relations (Tribunals) Rules 2011, the Respondent stated by email of 16 October 2026: "The
 Regulator confirms the veracity of these documents."
 
-Tab    Document                                          Date             16 Oct 2026     Position now
-32A    Role Description, Manager Switchboard       eff. June              Confirmed by    Admitted; tender
-       Services, Logan Hospital (AO4), RD 30478699 2020                   the
-       (Item 6)                                                           Respondent
-32B    Instrument of Human Resource Sub-                 signed 23        Confirmed by    Admitted (as Tab
-       Delegation, COVID-19 Pandemic Event - Paid        Nov 2022         the             29); tender
-       Special Pandemic Leave (Item 13); the same                         Respondent
+Tab    Document                                          Date             16 Oct 2026    Position now
+32A    Role Description, Manager Switchboard       eff. June              Confirmed by   Veracity
+       Services, Logan Hospital (AO4), RD 30478699 2020                   the            confirmed; tender
+       (Item 6)                                                           Respondent     proposed
+32B    Instrument of Human Resource Sub-                 signed 23        Confirmed by   Admitted (as Tab
+       Delegation, COVID-19 Pandemic Event - Paid        Nov 2022         the            29); tender
+       Special Pandemic Leave (Item 13); the same                         Respondent     proposed
        instrument as Tab 29
-
 
 
                                                    Page 6
@@ -208915,10 +208920,16 @@ No.    Date or date range Particular                Brief description
 >>> drafts/out/PRECONF_22OCT2026/README.md :: text
 # Pre-conference package (drafts, 19 Oct 2026)
 
+⚠ **SENT 19 Oct 2026, 16:04, as one email** (the dates and the letter together, to Matheson only). The as-sent copy
+is in `documents/sent-2026-10-19/`. It is the **13:14 build** (commit `2033216`), with "Now admitted; tender" and no
+de novo sentence in item 4. The files in this folder are the later 13:18 revision, which was **not sent**. Do not
+circulate them as the 19 Oct schedule. Use them only as the base for any further update. Ledger R37; Predictions E40.
+
 **Order of sending**
 1. `EMAIL_1_REPLY_DATES_send_19-20OCT.txt`: dates only, s 552B agreed, copied on the Registry email. Send now.
-2. **On 22–23 Oct**, after counsel is back, send `EMAIL_2_COVER_…` with
-   `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf`. Rename it as the email says first.
+2. **Then the letter**, now dated **19 October 2026** (Cory, 19 Oct): send `EMAIL_2_COVER_…` with
+   `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf`, renamed as the email says. Send it as a separate email after
+   the dates reply, so the dates can go to the Registry on their own. The reply date stays 4.00 pm, Fri 30 Oct.
 
 **The files**
 - `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.docx` / `.pdf` (10 pp): the letter (pp 1–2), then the
@@ -208926,7 +208937,7 @@ No.    Date or date range Particular                Brief description
 - `SCHEDULE_of_1Oct2026_updated_DRAFT.docx` / `.pdf` (8 pp): the updated Schedule alone, for the Registry agenda or
   the conference bundle.
 - Built by `drafts/build_letter_and_updated_schedule.js` (Times New Roman 11, A4, the 1 Oct layout). To rebuild with
-  other dates, run from `drafts/`: `node build_letter_and_updated_schedule.js "23 October 2026" "Friday 30 October 2026"`.
+  other dates, run from `drafts/`: `node build_letter_and_updated_schedule.js "20 October 2026" "Friday 30 October 2026"`.
   That writes the .docx files and the stripped .pdf copies. The container has no Times New Roman, so its PDFs use
   Liberation Serif, which has the same metrics. A PDF exported from Word gives true Times New Roman with the same
   layout.
@@ -208941,8 +208952,15 @@ No.    Date or date range Particular                Brief description
     content."
   - **New column "12 Oct 2026":** "Copy provided; confirmed" for Tabs 1, 5, 17–19 and 21–23; "Spreadsheet provided;
     confirmed" for Tab 31; "Not mentioned" for Tab 24.
-  - **Position now:** "Now admitted; tender" for those eight. Tab 31 reads "Spreadsheet confirmed; tender. Facts
-    228-231 not admitted". Tab 24 is unchanged.
+  - **Position now (whole column revised, Cory 19 Oct):**
+    - "Admitted; tender proposed" for the 25 documents admitted on 8 Sep.
+    - "Veracity confirmed; tender proposed" for the twelve the Respondent later confirmed (Tabs 6, 20, 30 and 30A on
+      24 Sep; Tabs 1, 5, 17–19 and 21–23 on 12 Oct). This replaces "Now admitted; tender", including the 1 Oct wording
+      for the four 24 Sep rows.
+    - Tab 31: "Veracity of the spreadsheet confirmed; tender proposed. Facts 228-231 not admitted".
+    - Tab 24 is unchanged.
+    - Why: "veracity" is Matheson's own word. "Tender proposed" implies no agreement to tender and no concession on
+      admissibility; tender is letter item 2. The Tab 32 table uses the same wording.
   - **The note after the table:** the "no date by which the copies are expected" clause is removed. Added: on 12 Oct
     the Respondent provided its own copy of each of the ten except Tab 24.
 - **Added after Part 1:**
@@ -208961,9 +208979,14 @@ No.    Date or date range Particular                Brief description
      reasonableness stay with the Commission.
    - It deliberately does **not** say the documents are relied on "only" for existence, which would have narrowed C 8.
 4. **Section 32(1):** quotes facts 261–262 and asks whether s 32(1) is not in issue to that extent (factors 2, 3 and
-   4), so the hearing is confined to s 32(5).
-5. **Leave:** consent, and the time sought for their amendment. It contains a commitment to a corrected v2 with a
-   one-page list of changes before the conference. Delete that sentence if v2 is not to be built.
+   4), so the hearing is confined to s 32(5). It is a question, not a settled concession.
+   - It states that the Appellant accepts the hearing is de novo and that no finding binds the Commission. 9A Part C
+     ¶9 already says so, and the Respondent took that point in its 18 Feb response (fact 295).
+   - That leaves only whether the elements can be agreed. A "no" then has to say which element is contested.
+5. **Leave:** consent, and the time sought for their amendment. It then says (Cory's wording, 19 Oct) that once
+   facts 228–231 are admitted, he may provide a completed 9A with any changes from the 1 Oct version noted, adding no
+   new stressor or allegation. "May" makes it conditional, with no date: it is not a promise to deliver before the
+   conference.
 6. **¶27:** notice only (fact 303), to be asked at the conference.
 
 Consequence: whatever is not agreed goes to the Commission at the conference, then directions or a mention.
@@ -208972,7 +208995,7 @@ Consequence: whatever is not agreed goes to the Commission at the conference, th
 spreadsheet's name as sent, its sheet name, its column headings and its rows: content, not metadata.
 
 >>> drafts/out/PRECONF_22OCT2026/SCHEDULE_of_1Oct2026_updated_DRAFT.pdf :: page 1
-WC/2024/227 - Schedule to the Appellant's letter of 1 October 2026, updated to 22 October 2026
+WC/2024/227 - Schedule to the Appellant's letter of 1 October 2026, updated to 19 October 2026
 The schedule is reproduced as provided on 1 October 2026. Only Part 1 is updated: its introduction, the new
 column "12 Oct 2026", the column "Position now" and the note after the table; two tables are added after it, for
 the documents at Tab 32 and for facts 228 to 231. Parts 2 and 3 are unchanged.
@@ -208990,147 +209013,149 @@ not been addressed. The facts recorded in 13 of the 14 were admitted on 8 Septem
 in Part B; the exception is the register at Tab 31, from which facts 228 to 231 were not admitted. The table after
 Part 1 identifies, by row of that spreadsheet, the entries that facts 228 to 231 record.
 
- Tab Document                      Date           8 Sep       24 Sep 2026       12 Oct 2026      Position now
-                                                  2026
- 1A    Stibbard to the             18 Jul         Admitted -                    -                Admitted;
-       Switchboard team,           2023,                                                         tender
+ Tab Document                      Date          8 Sep        24 Sep 2026      12 Oct 2026 Position now
+                                                 2026
+ 1A    Stibbard to the             18 Jul        Admitted -                    -              Admitted; tender
+       Switchboard team,           2023,                                                      proposed
        "Hello & Update"            12:56 pm
- 1B    Taylor to Reese, "Fwd:      6 Jun 2023, Admitted -                       -                Admitted;
-       Communication Book          4:05 pm                                                       tender
+ 1B    Taylor to Reese, "Fwd: 6 Jun 2023, Admitted -                           -              Admitted; tender
+       Communication Book      4:05 pm                                                        proposed
        Update", with her email
        to Logan Switch of 9:57
        am that day
- 2     "Increase of hours and      7-10 Aug       Admitted -                    -                Admitted;
-       Workplace issues" chain     2023                                                          tender
+ 2     "Increase of hours and  7-10 Aug          Admitted -                    -              Admitted; tender
+       Workplace issues" chain 2023                                                           proposed
        and Reese's replies
- 3     Reese attaching HR          29 Aug-8       Admitted -                    -                Admitted;
-       Policy E12; emails of 4     Sep 2023                                                      tender
+ 3     Reese attaching HR          29 Aug-8      Admitted -                    -              Admitted; tender
+       Policy E12; emails of 4     Sep 2023                                                   proposed
        and 8 Sep 2023
- 4     "Request to Increase     7 and 31          Admitted -                    -                Admitted;
-       Working Hours to Full    Aug 2023                                                         tender
-       Time Rotational Roster";
-       emails of 7 Aug 2023
-       1:43 pm and 5:11 pm
- 7     "Roster Concerns" chain     26 Apr-8       Admitted -                    -                Admitted;
-                                   May 2024                                                      tender
- 8     Reese to Pritchard "FW: 10 and 20          Admitted -                    -                Admitted;
-       Roster Concerns"; Reese May 2024                                                          tender
-       to LBH_HR attaching
-       qh-gdl-401-3.3
- 8A    Cover page, Fatigue risk 2021              Admitted -                    -                Admitted;
-       management systems                                                                        tender
+ 4     "Request to Increase        7 and 31      Admitted -                    -              Admitted; tender
+       Working Hours to Full       Aug 2023                                                   proposed
+       Time Rotational
+       Roster"; emails of 7
+       Aug 2023 1:43 pm and
+       5:11 pm
+ 7     "Roster Concerns" chain 26 Apr-8          Admitted -                    -              Admitted; tender
+                               May 2024                                                       proposed
+ 8     Reese to Pritchard "FW: 10 and 20         Admitted -                    -              Admitted; tender
+       Roster Concerns";       May 2024                                                       proposed
+       Reese to LBH_HR
+       attaching qh-gdl-401-
+       3.3
+ 8A    Cover page, Fatigue risk 2021             Admitted -                    -              Admitted; tender
+       management systems                                                                     proposed
        implementation
-       guideline QH-GDL-401-
-       3.3:2021
-
-
-
+       guideline QH-GDL-
+       401-3.3:2021
 
                                                      Page 1
 
 >>> drafts/out/PRECONF_22OCT2026/SCHEDULE_of_1Oct2026_updated_DRAFT.pdf :: page 2
-Tab Document                    Date         8 Sep      24 Sep 2026   12 Oct 2026   Position now
+Tab Document                    Date         8 Sep       24 Sep 2026   12 Oct 2026 Position now
                                              2026
-8B   MASPER emails (Taylor 9 May             Admitted -               -             Admitted;
-     to Kwok and Wong;     2024 (logs                                               tender
-     "MASPER process") and 2-8 May)
-     issue logs
-8C   Stibbard, "Switchboard     13 May       Admitted -               -             Admitted;
-     After Hours On Call        2024, 4:29                                          tender
+8B   MASPER emails              9 May        Admitted -                -           Admitted; tender
+     (Taylor to Kwok and        2024 (logs                                         proposed
+     Wong; "MASPER              2-8 May)
+     process") and issue logs
+8C   Stibbard, "Switchboard     13 May       Admitted -                -           Admitted; tender
+     After Hours On Call        2024, 4:29                                         proposed
      Manager PP24"              pm
-9    Taylor, "Switchboard       17 May       Admitted -               -             Admitted;
-     Manager - On call and      2024, 9:30                                          tender
+9    Taylor, "Switchboard       17 May       Admitted -                -           Admitted; tender
+     Manager - On call and      2024, 9:30                                         proposed
      Hours."                    am
-9A   "Office Hours and          15 May       Admitted -               -             Admitted;
-     Departmental               2024                                                tender
+9A   "Office Hours and          15 May       Admitted -                -           Admitted; tender
+     Departmental               2024                                               proposed
      Directives" chain (1:15
      pm, 6:23 pm, 7:09 pm)
-9B   Reese, "RE: Office         21 May       Admitted -               -             Admitted;
-     Hours and Departmental     2024, 2:53                                          tender
-     Directives"                pm
-10   Taylor, "Sick leave        14-15 May Admitted -                  -             Admitted;
-     14.05.24", and its         2024 (first                                         tender
+9B   Reese, "RE: Office     21 May           Admitted -                -           Admitted; tender
+     Hours and Departmental 2024, 2:53                                             proposed
+     Directives"            pm
+10   Taylor, "Sick leave        14-15 May Admitted -                   -           Admitted; tender
+     14.05.24", and its         2024 (first                                        proposed
      forwarding to Reese        email 14
                                 May, 12:08
                                 pm)
-11   Marriott (Integrated       15 and 20    Admitted -               -             Admitted;
-     Respiratory Service) to    May 2024                                            tender
+11   Marriott (Integrated       15 and 20    Admitted -                -           Admitted; tender
+     Respiratory Service) to    May 2024                                           proposed
      Logan Switch; the
      Appellant to Taylor;
      Taylor's reply
-12   "Corey Shepherd 388372 3-13 May         Admitted -               -             Admitted;
-     Pay issues" thread     2024                                                    tender
-13   Same thread, Taylor to     21 May       Admitted -               -             Admitted;
-     the Appellant              2024,                                               tender
+12   "Corey Shepherd            3-13 May     Admitted -                -           Admitted; tender
+     388372 Pay issues"         2024                                               proposed
+     thread
+13   Same thread, Taylor to     21 May       Admitted -                -           Admitted; tender
+     the Appellant              2024,                                              proposed
                                 12:33 pm
-14   Taylor, "Validation of     28 May       Admitted -               -             Admitted;
-     Claims older than 3        2024, 8:36                                          tender
+14   Taylor, "Validation of     28 May       Admitted -                -           Admitted; tender
+     Claims older than 3        2024, 8:36                                         proposed
      months - Please sign"      am
-15   myHR submissions           1 Feb-31     Admitted -               -             Admitted;
-     report (MSH Item 11)       May 2024                                            tender
-16   QH Leave Takings           19 Mar       Admitted -               -             Admitted;
-     Report (MSH Item 15)       2024                                                tender
-25   Review Decision 69983      24 Oct       Admitted -               -             Admitted;
-                                2024                                                tender
-26   Appellant's first notice to before 18   Admitted -               -             Admitted;
-     admit facts                 Feb 2026                                           tender
-27   Respondent's response to 18 Feb         Admitted -               -             Admitted;
-     that notice              2026                                                  tender
+15   myHR submissions           1 Feb-31     Admitted -                -           Admitted; tender
+     report (MSH Item 11)       May 2024                                           proposed
+16   QH Leave Takings           19 Mar       Admitted -                -           Admitted; tender
+     Report (MSH Item 15)       2024                                               proposed
+25   Review Decision 69983      24 Oct       Admitted -                -           Admitted; tender
+                                2024                                               proposed
+26   Appellant's first notice   before 18    Admitted -                -           Admitted; tender
+     to admit facts             Feb 2026                                           proposed
+27   Respondent's response      18 Feb       Admitted -                -           Admitted; tender
+     to that notice             2026                                               proposed
 
 
 
 
-                                               Page 2
+                                                Page 2
 
 >>> drafts/out/PRECONF_22OCT2026/SCHEDULE_of_1Oct2026_updated_DRAFT.pdf :: page 3
-Tab Document                    Date         8 Sep      24 Sep 2026   12 Oct 2026   Position now
-                                             2026
-28   myHR leave request         20 Feb-1     Admitted -               -             Admitted;
-     history, Process           Mar 2024                                            tender
+Tab Document                   Date         8 Sep       24 Sep 2026   12 Oct 2026 Position now
+                                            2026
+28   myHR leave request        20 Feb-1     Admitted -                -           Admitted; tender
+     history, Process          Mar 2024                                           proposed
      Reference 15480560
      (MSH Item 11)
-29   Instrument of Human        eff. 5 Dec   Admitted -               -             Admitted;
-     Resource Sub-              2022                                                tender
+29   Instrument of Human      eff. 5 Dec    Admitted -                -           Admitted; tender
+     Resource Sub-            2022                                                proposed
      Delegation, Paid Special
      Pandemic Leave (MSH
      Item 13)
-6    Taylor, "Afterhours        15 Apr       Disputed Confirmed by   -              Now admitted;
-     Oncall Process -           2024,                 the Respondent                tender
-     Switchboard" (Stressor     12:39 pm
+6    Taylor, "Afterhours       15 Apr       Disputed Confirmed by -               Veracity
+     Oncall Process -          2024,                 the Respondent               confirmed;
+     Switchboard" (Stressor    12:39 pm                                           tender proposed
      1(f))
-20   Metro South to             5 Jun 2026   Disputed Confirmed by   -              Now admitted;
-     Commissioner Dwyer,                              the Respondent                tender
-     K-LM26/729, signed by
+20   Metro South to           5 Jun 2026    Disputed Confirmed by -               Veracity
+     Commissioner Dwyer,                             the Respondent               confirmed;
+     K-LM26/729, signed by                                                        tender proposed
      the Chief Executive
      (supporting records
      under Stressors 1 and 3)
-30   Taylor, "What's Chloe's    23 Aug       Disputed Confirmed by   -              Now admitted;
-     Hours?!" (Stressor 1(d))   2023, 2:18            the Respondent                tender
-                                pm
-30A Taylor, "Good morning       18 Jun       Disputed Confirmed by   -              Now admitted;
-    Team." (Stressor 1,         2024, 8:58            the Respondent                tender
-    supporting records)         am
-1    Role description,          undated      Disputed Referred by the Copy          Now admitted;
-     Administration Officer,                          Respondent to provided;       tender
-     Switchboard Services                             Metro South     confirmed
-     (AO3), Logan Hospital                            for copies
-5    Taylor, "Approved -        27 Sep       Disputed Referred by the Copy          Now admitted;
-     Permanent Full Time        2023, 1:52            Respondent to provided;       tender
-     FTE"                       pm                    Metro South     confirmed
-                                                      for copies
-17   Movement form,             27 Feb       Disputed Referred by the Copy          Now admitted;
-     approved by Mr Hughes      2026                  Respondent to provided;       tender
-     as delegate, recording                           Metro South     confirmed
-     "Continuous Shift                                for copies
+30   Taylor, "What's Chloe's 23 Aug         Disputed Confirmed by -               Veracity
+     Hours?!" (Stressor 1(d)) 2023, 2:18             the Respondent               confirmed;
+                              pm                                                  tender proposed
+30A Taylor, "Good morning      18 Jun       Disputed Confirmed by -               Veracity
+    Team." (Stressor 1,        2024, 8:58            the Respondent               confirmed;
+    supporting records)        am                                                 tender proposed
+1    Role description,         undated      Disputed Referred by the Copy         Veracity
+     Administration Officer,                         Respondent to provided;      confirmed;
+     Switchboard Services                            Metro South     confirmed    tender proposed
+     (AO3), Logan Hospital                           for copies
+5    Taylor, "Approved -       27 Sep       Disputed Referred by the Copy         Veracity
+     Permanent Full Time       2023, 1:52            Respondent to provided;      confirmed;
+     FTE"                      pm                    Metro South     confirmed    tender proposed
+                                                     for copies
+17   Movement form,         27 Feb          Disputed Referred by the Copy         Veracity
+     approved by Mr Hughes 2026                      Respondent to provided;      confirmed;
+     as delegate, recording                          Metro South     confirmed    tender proposed
+     "Continuous Shift                               for copies
      Worker"
-18   Movement form,         17 Apr           Disputed Referred by the Copy          Now admitted;
-     approved by Mr Hughes, 2026                      Respondent to provided;       tender
-     recording "Continuous                            Metro South     confirmed
-     Shift Worker"                                    for copies
-19   Movement form,         9 Jun 2026       Disputed Referred by the Copy          Now admitted;
-     approved by Mr Hughes,                           Respondent to provided;       tender
-     recording "Continuous                            Metro South     confirmed
-     Shift Worker"                                    for copies
+18   Movement form,            17 Apr       Disputed Referred by the Copy         Veracity
+     approved by Mr            2026                  Respondent to provided;      confirmed;
+     Hughes, recording                               Metro South     confirmed    tender proposed
+     "Continuous Shift                               for copies
+     Worker"
+19   Movement form,            9 Jun 2026   Disputed Referred by the Copy         Veracity
+     approved by Mr                                  Respondent to provided;      confirmed;
+     Hughes, recording                               Metro South     confirmed    tender proposed
+     "Continuous Shift                               for copies
+     Worker"
 
 
 
@@ -209138,36 +209163,37 @@ Tab Document                    Date         8 Sep      24 Sep 2026   12 Oct 202
                                                Page 3
 
 >>> drafts/out/PRECONF_22OCT2026/SCHEDULE_of_1Oct2026_updated_DRAFT.pdf :: page 4
-Tab Document                      Date          8 Sep       24 Sep 2026       12 Oct 2026    Position now
-                                                2026
-21     Forrest, Senior            7 Jul 2026    Disputed Referred by the Copy                Now admitted;
-       Consultant Human                                  Respondent to provided;             tender
-       Resources, to the                                 Metro South     confirmed
-       Appellant, stating that                           for copies
+Tab Document                      Date         8 Sep        24 Sep 2026      12 Oct 2026 Position now
+                                               2026
+21     Forrest, Senior          7 Jul 2026     Disputed Referred by the Copy               Veracity
+       Consultant Human                                 Respondent to provided;            confirmed;
+       Resources, to the                                Metro South     confirmed          tender proposed
+       Appellant, stating that                          for copies
        the 8-hour agreement "is
        only applied where staff
-       initiated shift swaps have
-       occurred"
-22     Consultation Paper,        Nov 2024      Disputed Referred by the Copy                Now admitted;
-       Proposed Rosters for                              Respondent to provided;             tender
-       Switchboard Services,                             Metro South     confirmed
-       signed by Mr Hughes 12                            for copies
+       initiated shift swaps
+       have occurred"
+22     Consultation Paper,    Nov 2024         Disputed Referred by the Copy               Veracity
+       Proposed Rosters for                             Respondent to provided;            confirmed;
+       Switchboard Services,                            Metro South     confirmed          tender proposed
+       signed by Mr Hughes 12                           for copies
        Nov 2024
-23     Consultation outcome,    Dec 2024        Disputed Referred by the Copy                Now admitted;
-       Proposed Rosters, signed                          Respondent to provided;             tender
-       by Mr Hughes 12 Dec                               Metro South     confirmed
-       2024                                              for copies
-31     Screen capture, "2024     Mar 2024       Disputed Referred by the Spreadsheet         Spreadsheet
-       Emergency Code                                    Respondent to provided;             confirmed;
-       Register.xlsx", March                             Metro South     confirmed           tender. Facts
-       2024 sheet, entries 16-20                         for copies                          228-231 not
-       Mar 2024 (Stressors 3(b)                                                              admitted (see
-       and 3(c))                                                                             the table after
-                                                                                             Part 1)
-24     Moran, Organiser,          3 Nov 2025 Disputed Not mentioned           Not            Outstanding;
-       Together Queensland, to                                                mentioned      contents
-       Jeffrey, Conaghan and                                                                 admitted (178-
-       the Appellant,                                                                        179)
+23     Consultation outcome,  Dec 2024         Disputed Referred by the Copy               Veracity
+       Proposed Rosters,                                Respondent to provided;            confirmed;
+       signed by Mr Hughes 12                           Metro South     confirmed          tender proposed
+       Dec 2024                                         for copies
+31     Screen capture, "2024      Mar 2024     Disputed Referred by the Spreadsheet        Veracity of the
+       Emergency Code                                   Respondent to provided;            spreadsheet
+       Register.xlsx", March                            Metro South     confirmed          confirmed;
+       2024 sheet, entries 16-                          for copies                         tender proposed.
+       20 Mar 2024 (Stressors                                                              Facts 228-231
+       3(b) and 3(c))                                                                      not admitted (see
+                                                                                           the table after
+                                                                                           Part 1)
+24     Moran, Organiser,       3 Nov 2025 Disputed Not mentioned             Not           Outstanding;
+       Together Queensland, to                                               mentioned     contents
+       Jeffrey, Conaghan and                                                               admitted (178-
+       the Appellant,                                                                      179)
        "Switchboard Roster
        Feedback - For
        Delegates"
@@ -209183,15 +209209,14 @@ documents with its letter of 5 June 2026 (Tab 20). In answer to the Appellant's 
 Industrial Relations (Tribunals) Rules 2011, the Respondent stated by email of 16 October 2026: "The
 Regulator confirms the veracity of these documents."
 
-Tab    Document                                          Date             16 Oct 2026     Position now
-32A    Role Description, Manager Switchboard       eff. June              Confirmed by    Admitted; tender
-       Services, Logan Hospital (AO4), RD 30478699 2020                   the
-       (Item 6)                                                           Respondent
-32B    Instrument of Human Resource Sub-                 signed 23        Confirmed by    Admitted (as Tab
-       Delegation, COVID-19 Pandemic Event - Paid        Nov 2022         the             29); tender
-       Special Pandemic Leave (Item 13); the same                         Respondent
+Tab    Document                                          Date             16 Oct 2026    Position now
+32A    Role Description, Manager Switchboard       eff. June              Confirmed by   Veracity
+       Services, Logan Hospital (AO4), RD 30478699 2020                   the            confirmed; tender
+       (Item 6)                                                           Respondent     proposed
+32B    Instrument of Human Resource Sub-                 signed 23        Confirmed by   Admitted (as Tab
+       Delegation, COVID-19 Pandemic Event - Paid        Nov 2022         the            29); tender
+       Special Pandemic Leave (Item 13); the same                         Respondent     proposed
        instrument as Tab 29
-
 
 
                                                    Page 4
@@ -311960,6 +311985,59 @@ which leaves him free to be candid in a private conference.
   admissions, C 4–5A) off the table.
 - **Absent:** no request for a hearing date or a mention. A party confident on the merits would press for listing.
 
+### E40 · Monday 19 October 2026, 16:04: Cory's reply, with the dates confirmed and the letter attached (R37)
+
+**Verified** (`documents/sent-2026-10-19/`).
+- To Matheson only, as a reply on her 10:52 email, 5 h 12 min later. No cc.
+- All three dates confirmed, with "no preference". She is asked to advise the Registry and to confirm the listing.
+- The six matters are summarised. Positions are sought "by 4.00 pm on Friday 30 October 2026, where practicable";
+  the request "does not seek to delay the listing of the conference".
+- **Attachment:** the 13:14 build (commit `2033216`), 11 pp in Word. It is not the 13:18 revision:
+  - "Position now" reads "Now admitted; tender" for the twelve confirmed documents and "Admitted; tender" for the rest;
+  - item 4 has no de novo sentence.
+- **Not addressed:** s 552B.
+
+**Read** (inference).
+1. **One email, two purposes.** The dates answer her only question, so the Registry email (R38) can go at once. The
+   letter travels with it but will be answered separately, by counsel.
+2. **A softer clock.** "Where practicable" and "does not seek to delay" take the class 1 pressure off the email
+   itself. The letter keeps its consequence: the Commission at the conference, then directions or a mention. Expect
+   the substantive answer at the limit, or at the conference.
+3. **"Now admitted" carries little risk.**
+   - The Regulator's own 16 Oct email calls its confirmation "the admission of the Regulator to a document's
+     existence".
+   - The 1 Oct schedule used the same words for the 24 Sep confirmations and drew no objection.
+   - Item 2 asks whether tender is agreed, so the schedule does not present tender as agreed.
+
+   **No correction should be sent:** a second version would put two schedules in circulation. Use "veracity
+   confirmed" orally at the conference.
+4. **The missing de novo sentence costs little.** 9A Part C ¶9 already accepts that the hearing is de novo, and
+   item 4 is put as a question. If the reply answers "de novo", the conference answer is ready: accepted, and the
+   question is only whether the elements can be agreed.
+5. **s 552B stays in Cory's hands.** Counsel can appear at the conference only by agreement or leave. If asked, the
+   planned answer (agree) stands. It costs nothing and keeps the conference on counsel's dates.
+6. **Item 5 risk.** The conditional "completed version" may be used to defer consent to leave. The answer at the
+   conference: leave on the 1 Oct version now, with liberty to file a completed version (changes noted) within
+   7 days of any admission.
+
+**Forecasts** (planning estimates; scoreable).
+
+| # | Event | Score by | P |
+|---|---|---|---|
+| E40.1 | Matheson emails the Registry with the joint dates (R38) | Wed 21 Oct / Fri 23 Oct | ≈80% / ≈90% |
+| E40.2 | Conference listed on 2, 5 or 6 Nov (R40) | Fri 30 Oct | ≈75%; Fri 6 Nov the single most likely (≈45%) |
+| E40.3 | Any written acknowledgement of the letter | Fri 23 Oct | ≈50% |
+| E40.4 | A written reply on the six matters by 4.00 pm Fri 30 Oct (R39) | 30 Oct | ≈40% |
+| E40.5 | Facts 228–231 admitted, all or some: in writing before the conference / by its end | conference | ≈50% / ≈70% |
+| E40.6 | Tender without further proof agreed, reservation repeated: before / by the end | conference | ≈40% / ≈60% |
+| E40.7 | Specific relevance or admissibility objections identified in writing before the conference | conference | ≈15% |
+| E40.8 | s 32(1) agreed in writing before / by the end of the conference; refused | conference | ≈25% / ≈50%; ≈25% |
+| E40.9 | Leave before the conference: consent ≈20%; deferred to the conference ≈55%; deferred pending the completed version ≈15%; opposed ≈10% | conference | (shares) |
+| E40.10 | The 13 May SOFC formula returns in any written reply | conference | ≈20% (falsifier for H2) |
+| E40.11 | Counsel's attendance (s 552B) raised by the Regulator or the Registry | listing | ≈50% |
+
+**Score on** 21 Oct, 23 Oct, 30 Oct and the conference day.
+
 >>> skill/references/PREDICTIVE-CYCLE.md :: text
 # THE PREDICTIVE CYCLE — a standing model of actors, events, signals and probabilities
 > Built 14 August 2026. **This document is designed to be RE-RUN, not read once.**
@@ -315558,6 +315636,18 @@ See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
   - a WP approach before or at the conference;
   - MSH on 27–28 Oct.
 - See E39.
+
+**Watchlist, 19 Oct evening (R37).** Cory replied at 16:04 with the dates and the letter. The as-sent copy is in
+`documents/sent-2026-10-19/`.
+- **Fired:** Cory's reply.
+- **Next:**
+  - R38, Matheson's email to the Registry (by about 21 Oct);
+  - R40, the listing (2, 5 or 6 Nov);
+  - R39, the positions on the six matters (4.00 pm Fri 30 Oct, "where practicable");
+  - s 552B at listing (agree if asked);
+  - R34, a WP approach before or at the conference;
+  - MSH on 27–28 Oct.
+- See E40.
 
 >>> skill/references/REPORT-B-ARCHITECTURE.md :: text
 # WHAT A COMPREHENSIVE REPORT B LOOKS LIKE — architecture, not conclusions
@@ -392019,6 +392109,602 @@ Internal. Employment track only. Nothing here goes into WC/2024/227 or to the Re
 - They don't show who entered the SNP records or when.
 - The date of the 16:11 screenshot isn't in the file; it is between 7 Oct (requested) and 14 Oct (approved).
 - Resolved: Cory entered the 80 hours himself (see the LSL request form).
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 1
+19 October 2026
+Ms Renee Matheson
+Senior Appeals Officer
+Workers' Compensation Regulatory Services
+Office of Industrial Relations
+Renee.Matheson@oir.qld.gov.au
+
+WC/2024/227 - Cory Lea Shepherd v Workers' Compensation Regulator
+Matters that may be agreed before the section 552A conference; the Schedule of 1 October 2026, updated
+Dear Ms Matheson,
+Thank you for your emails of 12 and 16 October 2026 confirming the veracity of the documents at Tabs 1, 5,
+17 to 19, 21 to 23 and 31 of Annexure A and of the documents at Tab 32, and for your email of 19 October
+2026 with counsel's availability for the conference.
+The documents. With those confirmations, 38 of the 39 documents at Annexure A to the notices to admit
+served on 28 August 2026 are admitted or confirmed; Tab 24 is the only one outstanding. The Schedule to my
+letter of 1 October 2026 is enclosed, updated to 19 October 2026. Part 1 shows the position of each document,
+and two short tables follow it: the documents at Tab 32, and the entries in the spreadsheet you provided on 12
+October 2026 that facts 228 to 231 record. Parts 2 and 3 are unchanged.
+Matters that may be agreed. So that the conference can be used efficiently, and without delaying it, could
+the Respondent please indicate its position on the following matters by 4.00 pm on Friday 30 October 2026?
+Any matter that is agreed can then simply be noted at the conference.
+1. Facts 228 to 231. These facts, which were not admitted on 8 September 2026, record entries in the
+Emergency Code Register for 17, 18 and 19 March 2024. The same entries appear in the spreadsheet "2024
+Emergency Code Register_16 to 20 March 2024.xlsx" that you provided on 12 October 2026 and whose
+veracity the Respondent has confirmed; the table after Part 1 of the Schedule identifies them by row. Now that
+the spreadsheet is confirmed, does the Respondent admit facts 228 to 231?
+2. Tender. Does the Respondent agree that the 38 documents at Annexure A that are admitted or confirmed,
+and the document at Tab 32A, may be tendered at any hearing without further proof, either in the form at
+Annexure A or, for the nine documents you provided on 12 October 2026, in that form? Could the Respondent
+also say whether it maintains its dispute as to the authenticity of the copy at Tab 24 and, if it does, on what
+ground?
+3. Relevance and admissibility. Your letter of 8 September 2026 and your email of 16 October 2026 reserve
+the right to object to the relevance or admissibility of any fact or document at the hearing. So that any such
+objection can be identified at the conference rather than at the hearing, could the Respondent please identify
+any admitted fact, and any document at Annexure A or Tab 32A, whose relevance or admissibility it intends
+to dispute, and the ground?
+As the proposed Second Amended Form 9A states (Part C, paragraph 8), the admissions are relied on as
+evidence that the documents admitted exist and of what they say, and as evidence of what the Respondent's
+statement of facts and contentions and List of Documents do not contain; the Appellant does not contend that
+any admission decides whether any conduct was reasonable. Agreeing to tender, or confirming that no
+objection is taken to relevance or admissibility, would not require the Respondent to accept the truth of any
+statement in a document. The weight of each document, and whether any conduct was reasonable management
+action taken in a reasonable way, remain matters for the Commission.
+4. Section 32(1). Review Decision 69983 states, under the heading "Conclusion", that the Appellant "sustained
+a personal injury of a psychological nature" and that the "injury arose out of employment, to the extent that it
+arose out of factors 2, 3 and 4, where employment was a significant contributing factor" (facts 261 and 262,
+admitted); the claim was rejected under section 32(5) of the Act. Does the Respondent agree that, to that extent,
+the elements of section 32(1) are not in issue, so that the issue for any hearing is confined to section 32(5)?
+
+                                                    Page 1
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 2
+5. Leave. Does the Respondent consent to leave to file the proposed Second Amended Statement of Facts and
+Contentions provided on 1 October 2026? If it intends to amend its own statement of facts and contentions in
+response, how much time does it seek? Once facts 228 to 231 are admitted, I may then provide a completed
+version of the proposed statement, with any changes from the version provided on 1 October 2026 noted. Any
+change will add no new stressor or allegation.
+6. Paragraph 27. At the conference I will ask which management action the Respondent relies on for the
+contention in paragraph 27 of its amended statement of facts and contentions (fact 303), so that the issues for
+any hearing can be identified.
+To the extent these matters are not agreed, I will ask the Commission at the conference to deal with them and,
+if necessary, to make directions or to list the matter for mention.
+Yours sincerely,
+
+
+
+
+Cory Lea Shepherd, Appellant (self-represented)
+
+Enclosure: Schedule to the Appellant's letter of 1 October 2026, updated to 19 October 2026 (Parts 1 to 3).
+
+
+
+
+                                                    Page 2
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 3
+WC/2024/227 - Schedule to the Appellant's letter of 1 October 2026, updated to 19 October 2026
+The schedule is reproduced as provided on 1 October 2026. Only Part 1 is updated: its introduction, the new
+column "12 Oct 2026", the column "Position now" and the note after the table; two tables are added after it,
+for the documents at Tab 32 and for facts 228 to 231. Parts 2 and 3 are unchanged.
+Schedule, Part 1: the 39 documents at Annexure A (notices to admit served 28 August 2026) and their
+status
+The 39 documents at Annexure A to the notices to admit served 28 August 2026 are the documents from which
+the facts in Part B of the proposed Second Amended Form 9A are drawn. On 8 September 2026 the Respondent
+admitted the authenticity of 25 of them and disputed 14. By email of 24 September 2026 it confirmed four of
+the 14 "upon further review of the appeal file", stated that it had "requested copies of these documents to be
+disclosed from MSH" for nine others, and did not mention the fourteenth. By email of 12 October 2026 it
+provided disclosure copies of those nine documents, Tab 31 as the spreadsheet "2024 Emergency Code
+Register_16 to 20 March 2024.xlsx", and stated: "The regulator confirms the veracity of the attached
+documents." Thirty-eight of the 39 documents are therefore admitted or confirmed; the fourteenth, Tab 24, has
+not been addressed. The facts recorded in 13 of the 14 were admitted on 8 September 2026 to the extent set
+out in Part B; the exception is the register at Tab 31, from which facts 228 to 231 were not admitted. The table
+after Part 1 identifies, by row of that spreadsheet, the entries that facts 228 to 231 record.
+
+Tab Document                       Date          8 Sep       24 Sep 2026       12 Oct 2026     Position now
+                                                 2026
+1A     Stibbard to the             18 Jul        Admitted -                    -               Admitted;
+       Switchboard team,           2023,                                                       tender
+       "Hello & Update"            12:56 pm
+1B     Taylor to Reese, "Fwd:      6 Jun 2023, Admitted -                      -               Admitted;
+       Communication Book          4:05 pm                                                     tender
+       Update", with her email
+       to Logan Switch of 9:57
+       am that day
+2      "Increase of hours and      7-10 Aug      Admitted -                    -               Admitted;
+       Workplace issues" chain     2023                                                        tender
+       and Reese's replies
+3      Reese attaching HR          29 Aug-8      Admitted -                    -               Admitted;
+       Policy E12; emails of 4     Sep 2023                                                    tender
+       and 8 Sep 2023
+4      "Request to Increase     7 and 31         Admitted -                    -               Admitted;
+       Working Hours to Full    Aug 2023                                                       tender
+       Time Rotational Roster";
+       emails of 7 Aug 2023
+       1:43 pm and 5:11 pm
+7      "Roster Concerns" chain     26 Apr-8      Admitted -                    -               Admitted;
+                                   May 2024                                                    tender
+8      Reese to Pritchard "FW: 10 and 20         Admitted -                    -               Admitted;
+       Roster Concerns"; Reese May 2024                                                        tender
+       to LBH_HR attaching
+       qh-gdl-401-3.3
+
+
+
+
+                                                    Page 3
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 4
+Tab Document                   Date         8 Sep      24 Sep 2026   12 Oct 2026   Position now
+                                            2026
+8A   Cover page, Fatigue risk 2021          Admitted -               -             Admitted;
+     management systems                                                            tender
+     implementation
+     guideline QH-GDL-401-
+     3.3:2021
+8B   MASPER emails (Taylor 9 May            Admitted -               -             Admitted;
+     to Kwok and Wong;     2024 (logs                                              tender
+     "MASPER process") and 2-8 May)
+     issue logs
+8C   Stibbard, "Switchboard    13 May       Admitted -               -             Admitted;
+     After Hours On Call       2024, 4:29                                          tender
+     Manager PP24"             pm
+9    Taylor, "Switchboard      17 May       Admitted -               -             Admitted;
+     Manager - On call and     2024, 9:30                                          tender
+     Hours."                   am
+9A   "Office Hours and         15 May       Admitted -               -             Admitted;
+     Departmental              2024                                                tender
+     Directives" chain (1:15
+     pm, 6:23 pm, 7:09 pm)
+9B   Reese, "RE: Office        21 May       Admitted -               -             Admitted;
+     Hours and Departmental    2024, 2:53                                          tender
+     Directives"               pm
+10   Taylor, "Sick leave       14-15 May Admitted -                  -             Admitted;
+     14.05.24", and its        2024 (first                                         tender
+     forwarding to Reese       email 14
+                               May, 12:08
+                               pm)
+11   Marriott (Integrated      15 and 20    Admitted -               -             Admitted;
+     Respiratory Service) to   May 2024                                            tender
+     Logan Switch; the
+     Appellant to Taylor;
+     Taylor's reply
+12   "Corey Shepherd 388372 3-13 May        Admitted -               -             Admitted;
+     Pay issues" thread     2024                                                   tender
+13   Same thread, Taylor to    21 May       Admitted -               -             Admitted;
+     the Appellant             2024,                                               tender
+                               12:33 pm
+14   Taylor, "Validation of    28 May       Admitted -               -             Admitted;
+     Claims older than 3       2024, 8:36                                          tender
+     months - Please sign"     am
+15   myHR submissions          1 Feb-31     Admitted -               -             Admitted;
+     report (MSH Item 11)      May 2024                                            tender
+16   QH Leave Takings          19 Mar       Admitted -               -             Admitted;
+     Report (MSH Item 15)      2024                                                tender
+25   Review Decision 69983     24 Oct       Admitted -               -             Admitted;
+                               2024                                                tender
+
+
+                                              Page 4
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 5
+Tab Document                    Date         8 Sep      24 Sep 2026   12 Oct 2026   Position now
+                                             2026
+26   Appellant's first notice to before 18   Admitted -               -             Admitted;
+     admit facts                 Feb 2026                                           tender
+27   Respondent's response to 18 Feb         Admitted -               -             Admitted;
+     that notice              2026                                                  tender
+28   myHR leave request         20 Feb-1     Admitted -               -             Admitted;
+     history, Process           Mar 2024                                            tender
+     Reference 15480560
+     (MSH Item 11)
+29   Instrument of Human        eff. 5 Dec   Admitted -               -             Admitted;
+     Resource Sub-              2022                                                tender
+     Delegation, Paid Special
+     Pandemic Leave (MSH
+     Item 13)
+6    Taylor, "Afterhours        15 Apr       Disputed Confirmed by   -              Now admitted;
+     Oncall Process -           2024,                 the Respondent                tender
+     Switchboard" (Stressor     12:39 pm
+     1(f))
+20   Metro South to             5 Jun 2026   Disputed Confirmed by   -              Now admitted;
+     Commissioner Dwyer,                              the Respondent                tender
+     K-LM26/729, signed by
+     the Chief Executive
+     (supporting records
+     under Stressors 1 and 3)
+30   Taylor, "What's Chloe's    23 Aug       Disputed Confirmed by   -              Now admitted;
+     Hours?!" (Stressor 1(d))   2023, 2:18            the Respondent                tender
+                                pm
+30A Taylor, "Good morning       18 Jun       Disputed Confirmed by   -              Now admitted;
+    Team." (Stressor 1,         2024, 8:58            the Respondent                tender
+    supporting records)         am
+1    Role description,          undated      Disputed Referred by the Copy          Now admitted;
+     Administration Officer,                          Respondent to provided;       tender
+     Switchboard Services                             Metro South     confirmed
+     (AO3), Logan Hospital                            for copies
+5    Taylor, "Approved -        27 Sep       Disputed Referred by the Copy          Now admitted;
+     Permanent Full Time        2023, 1:52            Respondent to provided;       tender
+     FTE"                       pm                    Metro South     confirmed
+                                                      for copies
+17   Movement form,             27 Feb       Disputed Referred by the Copy          Now admitted;
+     approved by Mr Hughes      2026                  Respondent to provided;       tender
+     as delegate, recording                           Metro South     confirmed
+     "Continuous Shift                                for copies
+     Worker"
+18   Movement form,         17 Apr           Disputed Referred by the Copy          Now admitted;
+     approved by Mr Hughes, 2026                      Respondent to provided;       tender
+     recording "Continuous                            Metro South     confirmed
+     Shift Worker"                                    for copies
+
+
+
+                                               Page 5
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 6
+Tab Document                      Date         8 Sep       24 Sep 2026      12 Oct 2026     Position now
+                                               2026
+19     Movement form,         9 Jun 2026       Disputed Referred by the Copy                Now admitted;
+       approved by Mr Hughes,                           Respondent to provided;             tender
+       recording "Continuous                            Metro South     confirmed
+       Shift Worker"                                    for copies
+21     Forrest, Senior            7 Jul 2026   Disputed Referred by the Copy                Now admitted;
+       Consultant Human                                 Respondent to provided;             tender
+       Resources, to the                                Metro South     confirmed
+       Appellant, stating that                          for copies
+       the 8-hour agreement "is
+       only applied where staff
+       initiated shift swaps have
+       occurred"
+22     Consultation Paper,        Nov 2024     Disputed Referred by the Copy                Now admitted;
+       Proposed Rosters for                             Respondent to provided;             tender
+       Switchboard Services,                            Metro South     confirmed
+       signed by Mr Hughes 12                           for copies
+       Nov 2024
+23     Consultation outcome,    Dec 2024       Disputed Referred by the Copy                Now admitted;
+       Proposed Rosters, signed                         Respondent to provided;             tender
+       by Mr Hughes 12 Dec                              Metro South     confirmed
+       2024                                             for copies
+31     Screen capture, "2024     Mar 2024      Disputed Referred by the Spreadsheet         Spreadsheet
+       Emergency Code                                   Respondent to provided;             confirmed;
+       Register.xlsx", March                            Metro South     confirmed           tender. Facts
+       2024 sheet, entries 16-20                        for copies                          228-231 not
+       Mar 2024 (Stressors 3(b)                                                             admitted (see
+       and 3(c))                                                                            the table after
+                                                                                            Part 1)
+24     Moran, Organiser,          3 Nov 2025 Disputed Not mentioned         Not             Outstanding;
+       Together Queensland, to                                              mentioned       contents
+       Jeffrey, Conaghan and                                                                admitted (178-
+       the Appellant,                                                                       179)
+       "Switchboard Roster
+       Feedback - For
+       Delegates"
+
+
+The Appellant asked the Respondent on 9 September 2026 to confirm the ten outstanding documents. The
+copies of Tabs 1, 5, 17 to 19, 21 to 24 and 31 came from the Appellant's own records; Tabs 17 to 19, 22 and
+23 bear the signature of the employer's Director, Corporate Services. On 12 October 2026 the Respondent
+provided its own copy of each of the ten except Tab 24. Tab 24 is a Together Queensland document, which
+the emails of 24 September and 12 October 2026 do not address.
+Documents at Tab 32 (provided to the Respondent on 7 October 2026). Metro South Health enclosed both
+documents with its letter of 5 June 2026 (Tab 20). In answer to the Appellant's request under rule 49 of the
+
+
+
+
+                                                  Page 6
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 7
+Industrial Relations (Tribunals) Rules 2011, the Respondent stated by email of 16 October 2026: "The
+Regulator confirms the veracity of these documents."
+
+Tab    Document                                           Date           16 Oct 2026      Position now
+32A    Role Description, Manager Switchboard       eff. June             Confirmed by     Admitted; tender
+       Services, Logan Hospital (AO4), RD 30478699 2020                  the
+       (Item 6)                                                          Respondent
+32B    Instrument of Human Resource Sub-                  signed 23      Confirmed by     Admitted (as Tab
+       Delegation, COVID-19 Pandemic Event - Paid         Nov 2022       the              29); tender
+       Special Pandemic Leave (Item 13); the same                        Respondent
+       instrument as Tab 29
+
+
+Facts 228 to 231 and the spreadsheet provided on 12 October 2026. The rows are those of the sheet
+"MARCH 2024" in the spreadsheet, which has the columns DATE, TIME, CODE AND LOCATION, PAGER
+and EXTRA INFORMATION.
+
+Fact    The fact as served on 28 August 2026 (not admitted on Rows of the sheet "MARCH 2024"
+        8 September 2026)                                     in the spreadsheet provided on 12
+                                                              October 2026
+228     A register titled "2024 Emergency Code Register"              Rows 9 to 16 are the eight entries for
+        records, for 17 March 2024, eight entries, including          17 March 2024. The three entries
+        "MET CALL WARD 2H BED 7" at 19:16, "CODE                      quoted are rows 14, 15 and 16.
+        BLUE WARD 2H BED 7" at 19:20 and "MET CALL
+        WARD 2Q BED 5" at 21:16. (Annexure A, Tab 31)
+229     That register records, for 18 March 2024: "CODE GREY Rows 17 to 22, in the order quoted.
+        QAS TRIAGE AIRLOCK" at 8:48; "MET CALL WARD
+        6A BED 8" at 9:20; "MET CALL WARD 3DR BED 14"
+        at 11:31; "CANCELLED MET CALL WARD 3DR BED
+        14" at 11:32; "NEONATAL MET CALL THEATRE 2"
+        at 11:35; and "NEONATAL MET CALL BIRTH
+        SUITES 5" at 13:09. (Annexure A, Tab 31)
+230     Six of the entries recorded in that register for 18 March     Rows 17 to 22. Row 17 is the first
+        2024 bear times between 6:00 and 14:00.                       entry for 18 March 2024; the next
+                                                                      entry, row 23, is at 14:38.
+231     That register records, for 19 March 2024 at 11:34, "MET       Row 33. The notation is in column E,
+        CALL WARD 2I BED 20" with the notation "CALLED                "EXTRA INFORMATION".
+        VIA SWITRCHBOARD" [sic]. (Annexure A, Tab 31)
+
+
+Schedule, Part 2: other documents relied on in the proposed Second Amended Form 9A that are not at
+Annexure A
+
+Document                                           Relied on at             Status or source
+The Respondent's outlines of the evidence of       1(l), 2(n) to 2(o),      Served by the Respondent on 24
+Ms Taylor, Ms Reese, Ms Wright and Ms Earl         3(c); Stressor 3         September 2026; available to the
+                                                   agreement and            Commission on request. An
+                                                   pleaded-answer           outline is not evidence.
+                                                   paragraphs; Part C,
+                                                   paragraph 5A
+The spreadsheet of recorded MET calls for 17       Stressor 3(b)            Metro South Health states that it
+and 18 March 2024                                                           is available [¶ 268].
+
+
+                                                   Page 7
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 8
+ Document                                              Relied on at              Status or source
+ The Logan Hospital emergency code procedures Stressor 3, the                    Referred to in the role
+ referred to in the role description          emergency-code                     description [¶ 8] (Tab 1).
+                                              context
+ The documents recording the advice of Human           Referred to in the        The outlines of Ms Taylor and
+ Resources on the 8-hour agreement                     outlines (first row)      Ms Reese refer to them; neither
+                                                                                 identifies them.
+ The Communication Book                                Stressor 1(a); Part       Not listed in the Respondent's
+                                                       B.5.4                     amended List of Documents of
+                                                                                 14 August 2026; paragraph 154
+                                                                                 of the notice was not admitted.
+ The Respondent's disclosure of July 2025        2(n) to 2(o); Part B.4          Disclosed by the Respondent in
+ headed "Disclosure from witness conferencing -                                  July 2025.
+ Qld Health Payroll" (24 pages): the email of Ms
+ Christensen, Manager Service Delivery, Payroll,
+ to the Respondent of 11 July 2025, and Payslips
+ 01 to 07, including Payslip 06 (pay date 5 June
+ 2024) and Payslip 07 (pay date 2 July 2025)
+ The Respondent's disclosure of 11 June 2026  Stressors 1(e) and                 Disclosed by the Respondent on
+ (10 pages): the leave-form walkthrough for   1(l); for 1(i), the date           11 June 2026.
+ Process Reference 15480560, the emails of 15 of the complaint only
+ May 2024 at 1:15 pm and 6:23 pm, and
+ documents concerning the complaint of 13 May
+ 2024
+ Queensland Health's Code Blue procedure      Stressor 3, the                    Public document.
+ 001443 (Royal Brisbane and Women's Hospital, emergency-code
+ version 5, April 2020)                       context: the types of
+                                              Code Blue and the
+                                              role of Switchboard
+                                              Services
+ The Queensland Ombudsman's Neville Report             Stressor 3, the           Public documents.
+ (June 2006) and its 2011 update, and the              framework history:
+ Coroner's findings of 12 September 2008               the origin of the
+                                                       fatigue framework
+ The monthly call statistics for April 2025            Stressor 1, the           The Appellant's own record and
+                                                       operating conditions;     evidence (Part B preamble).
+                                                       Stressor 3(b), the
+                                                       ordinary-call-load
+                                                       paragraph
+ Queensland Health Fatigue Risk Management             Stressor 3(h) and the     Disclosed in full with the 20
+ Systems Implementation Guideline QH-GDL-              supporting fatigue        May 2024 email chain on 14
+ 401-3.3:2021 (the full disclosed guideline)           records; the              July 2025. Tab 8A at Annexure
+                                                       quotations from the       A is the cover page only.
+                                                       guideline
+
+
+Schedule, Part 3: index of the dated particulars in the proposed Second Amended Form 9A (index only;
+not additional stressors). The three stressors are pleaded, with their particulars, in the proposed Second
+Amended Form 9A; this index adds no stressor or particular. The causal particulars are 1(b), 1(d), 1(f) to 1(h),
+1(k) and 1(l); 2(a) to 2(i), 2(l) and 2(m); and 3(b) to 3(f); they are also listed, with their dates and descriptions,
+under each stressor in the list of stressors in the proposed Second Amended Form 9A. Particulars 1(a), 1(c),
+
+                                                       Page 8
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 9
+1(e), 1(i), 1(j), 2(j) and 3(a) are context. Particulars 2(k), 2(n), 2(o), 3(g) and 3(h) are the record of how the
+matters were handled and when the corrections were made; they are relied on as proof, not as separate causes.
+
+ No.    Date or date range Particular                 Brief description
+ 1(a)   on or around 6 June Removal of the            Entry removed and management response recorded;
+        2023                Communication             context only.
+                            Book entry
+ 1(b)   18 July 2023 to 18     Database access        Operators lost access; amendments were channelled
+        June 2024              and the restricted     through specified staff.
+                               correction process
+ 1(c)   7 August to 16         Roster concerns        Roster error, responses and application for increased
+        October 2023           and the move to        hours; context only.
+                               full time
+ 1(d)   23 August 2023 to      Notification of        Variable hours were stated; no intervening statement of
+        17 May 2024            variable office        fixed hours is alleged.
+                               hours
+ 1(e)   20 February to 1       Pandemic leave         Two declines and three submissions; context here and
+        March 2024             submissions            entitlement issue in 2(b).
+ 1(f)   15 April 2024          After hours on call    New process was stated to take effect that day.
+                               process changed
+ 1(g)   19 April 2024          Data entry process     The review decision records a new checking process
+                               changed                following data entry errors.
+ 1(h)   2 to 9 May 2024        Misdirected calls      Two reports recorded nine occasions before a revised
+                               and the MASPER         process was communicated.
+                               response
+ 1(i)   13 May 2024            The complaint of       Date of the complaint; chronology only, with no causal
+                               13 May 2024            allegation.
+ 1(j)   13 to 15 May 2024      On-call roster and   Roster circulated on the first day of the fortnight it
+                               absence notification covered; notification of unavailability channelled
+                               instructions         through the manager from 14 May; context only.
+ 1(k)   15 to 20 May 2024      Respiratory            Repeated requests, the Appellant’s escalation and
+                               directory error and    management reply.
+                               requests for
+                               correction
+ 1(l)   15 to 21 May 2024      Office hours           Request for clarity, retraction request, hours
+                               request and the        clarification and follow-up.
+                               retraction response
+ 2(a)   9 February 2024        Seven hours            The fortnight beginning 5 February was topped up from
+                               recorded instead of    the RDO balance.
+                               eight
+ 2(b)   20 February to 1       Processing of paid     Three submissions and two declines before final
+        March 2024             pandemic leave         approval.
+ 2(c)   28 February 2024       Second shift           The fortnight beginning 19 February was also topped up
+                               recorded as seven      from the RDO balance.
+                               hours
+ 2(d)   fortnight beginning    Overtime recorded      Payroll identified too many ordinary shifts and a need
+        18 March 2024          as ordinary shifts     for overtime coding.
+
+
+                                                     Page 9
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 10
+No.    Date or date range Particular                 Brief description
+2(e)   30 March 2024         Public holiday          Payroll later described the 30 March public holiday
+                             claim submitted         claim as submitted late; relied on as Payroll's later
+                             late                    account, not as an admission.
+2(f)   fortnight beginning   Hours above the      Payroll identified a further requirement for overtime
+       1 April 2024          contracted fortnight coding.
+2(g)   8 April to 1 May      Pay enquiry and         Enquiry, acknowledgment, follow-up and response;
+       2024                  public holiday          public holiday review remained open.
+                             review
+2(h)   3 May 2024            Payroll directed        Payroll directed the manager to submit an AVAC for
+                             four fortnight          each affected fortnight.
+                             corrections
+2(i)   10 to 13 May 2024     Follow-up found no The Appellant followed up; Payroll referred him back to
+                             correction         the line manager.
+2(j)   15 to 16 May 2024     A completed             Process 16328886 was submitted on 15 May and
+                             AVAC recorded           completed on 16 May; context only.
+2(k)   20 May 2024           HR follow-up            The Director followed up with HR and attached the
+                             about rostering         fatigue guideline; record only.
+2(l)   21 May 2024           Manager awaited         The manager said she was still waiting for confirmation.
+                             Payroll
+                             confirmation
+2(m) 28 to 30 May 2024       Validation request      Validation sought; process 16450619 was recorded as
+                             and partly              "Part Completed".
+                             completed AVAC
+2(n)   5 June 2024           Three corrections       Payroll identified adjustments for 28 February, 30
+                             reached a payslip       March and 1 April; record of when corrected.
+2(o)   30 June to 2 July     Later correction of Payroll identified a later amendment and pay date;
+       2025                  the 9 February shift record of when corrected.
+3(a)   7 August to 4         Earlier roster error Rest was offered after an acknowledged error; the
+       September 2023        and proposed roster Appellant proposed increased hours; context only.
+3(b)   17 to 18 March        Consecutive shifts      Rostered interval, travel, rest and workload relied on in
+       2024                  and the seven-hour      their operational context.
+                             break
+3(c)   19 March 2024         Sick leave after the    The record shows 7.60 hours of approved sick leave; the
+                             consecutive shifts      fatigue entitlement is disputed.
+3(d)   8 April to 1 May      Fatigue enquiry and Acknowledged on 9 April; substantive response and
+       2024                  refusal             refusal after 23 days.
+3(e)   16 to 26 April 2024 Roster line error         Error acknowledged after the meeting; no subsequent
+                           and proposed              contact about alternatives is alleged.
+                           alternatives
+3(f)   1 to 8 May 2024       Fatigue toolkit         The Appellant sought action on the toolkit; the Director
+                             raised and HR           said she was awaiting advice.
+                             advice awaited
+3(g)   10 May 2024           Risk rating and         The Director recorded his fatigue concerns, a moderate
+                             roster decision         rating and an undisclosed roster decision; internal
+                             recorded                record.
+
+                                                    Page 10
+
+>>> documents/sent-2026-10-19/2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf :: page 11
+No.    Date or date range Particular           Brief description
+3(h)   20 May 2024        HR follow-up with    The Director followed up her earlier query and attached
+                          the fatigue          the guideline; internal record.
+                          guideline
+
+
+
+
+                                              Page 11
+
+>>> documents/sent-2026-10-19/README.md :: text
+# Sent 19 October 2026, 16:04 AEST: conference dates confirmed, and the letter with the updated Schedule
+
+**What this folder is.** The copy Ms Matheson received. It is the authority for "what was sent". The files in
+`drafts/out/PRECONF_22OCT2026/` are a later revision that was **not** sent (see "Which version" below).
+
+**Source.**
+- Gmail (bolandsframeworks@gmail.com), thread `1a12d45a084d4cc0`, message `1a1541e5da27df65`.
+- Cory forwarded it by hand from Outlook for Android at 22:23 AEST. The Hotmail auto-forward rule had not passed it on.
+- The attachment was extracted from the raw MIME, so its bytes are as sent. The forward also carried two signature
+  images from Matheson's quoted email; they are not filed.
+
+**Addressing.**
+- From Cory Shepherd <coryshepherd1@hotmail.com>, **to Renee Matheson only**. No cc. The planned cc to OIR-Appeals
+  was not used.
+- Sent Monday 19 October 2026, 4:04:15 pm, as a reply on her 10:52 am email (ledger R36).
+- Subject: "Re: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator".
+- Latency: 5 h 12 min.
+
+| File | Pages | MD5 |
+|---|---|---|
+| `2026-10-19_1604_Cory_to_Matheson_Letter_with_updated_Schedule_AS_SENT_11pp.pdf` (sent as "LETTER TO THE REGULATOR 19 OCTOBER.PDF") | 11 | 801c1fa0a7579d55e011b1d55d212bd1 |
+
+**The PDF.**
+- Exported from Microsoft Word, created 19 Oct 2026 03:17:36 UTC (13:17 AEST). Times New Roman embedded.
+- Title "WC/2024/227 - Letter to the Regulator with the updated Schedule". Author "Cory Lea Shepherd".
+
+## Which version was sent
+
+The text is **identical** to the build of 13:14 AEST, commit `2033216`. Paragraphs and all 91 table rows were
+compared: 0 differences. That build contains:
+- the letter dated 19 October 2026, with item 1 tightened;
+- item 5 in Cory's wording: a completed version may follow once facts 228–231 are admitted, changes noted.
+
+It is **not** the revision of 13:18 AEST (commit `284e8a4`), which was built about a minute after this PDF was
+saved. What the sent copy therefore has:
+- **"Position now":**
+  - "Admitted; tender" for the 25 documents admitted on 8 Sep and for Tab 32A;
+  - "Now admitted; tender" for the twelve the Respondent later confirmed;
+  - Tab 31: "Spreadsheet confirmed; tender. Facts 228-231 not admitted (see the table after Part 1)";
+  - Tab 32B: "Admitted (as Tab 29); tender".
+- **Item 4 (s 32(1))** has no sentence accepting that the hearing is de novo.
+
+Word paginates the package at 11 pages; the LibreOffice build ran to 10. Two heading paragraphs split across pages
+(pp 6–7 and 8–9), and the last page holds one row (3(h)). These are cosmetic.
+
+## The covering email (body as sent)
+
+> Dear Ms Matheson,
+>
+> Thank you for your email of 19 October 2026 and for obtaining Counsel's availability for the proposed second section 552A conference.
+>
+> I confirm that I am available on all three dates proposed:
+>
+> - Monday 2 November 2026 — morning;
+> - Thursday 5 November 2026 — morning; and
+> - Friday 6 November 2026 — any time.
+>
+> I have no preference between these dates and am content for the conference to be listed at whichever time best accommodates the Commission and the parties.
+>
+> To assist the parties in making effective use of the conference, I attach my letter and updated Schedule to the correspondence of 1 October 2026.
+>
+> The letter identifies six matters on which the Respondent's position is sought, including the outstanding factual and documentary admissions, arrangements for tender, any particular relevance or admissibility objections, the matters remaining in issue under sections 32(1) and 32(5), and the proposed Second Amended Form 9A.
+>
+> In light of the Regulator's further confirmations of 12 and 16 October 2026, I hope that some or all of these matters can be agreed before the conference, allowing the Commission and parties to concentrate on any genuinely outstanding issues.
+>
+> I would be grateful if the Respondent could indicate its position on the matters identified in the attached letter by 4.00 pm on Friday 30 October 2026, where practicable. This request is intended to assist preparation and does not seek to delay the listing of the conference.
+>
+> Please proceed to advise the Registry of my availability. I would also appreciate confirmation once a date has been fixed.
+>
+> Thank you for your assistance.
+>
+> Kind regards,
+>
+> Cory Lea Shepherd
+> Appellant (self-represented)
+>
+> Attachment: LETTER TO THE REGULATOR 19 OCTOBER.PDF (11 pages)
+
+**Not addressed:** s 552B. A lawyer may represent a party at the conference only with the parties' agreement or the
+Commission's leave. See ledger R37 and Predictions E40.
 
 >>> documents/timeline/CHRONOLOGY_email_metadata_15Oct2026_AS_RECEIVED.md :: text
 # Chronology — Cory Shepherd matters (APPEAL WC/2024/227 · EMPLOYMENT MSH/Logan)
