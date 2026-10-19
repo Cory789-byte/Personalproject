@@ -51,10 +51,13 @@ function table(widths, header, rows, boldFirst = false, keep = false) {
 }
 
 // ---------------------------------------------------------------- Schedule, Part 1 (1 Oct 2026 text; UPDATED columns)
-const A = ['Admitted', '-', '-', 'Admitted; tender'];
-const C24 = ['Disputed', 'Confirmed by the Respondent', '-', 'Now admitted; tender'];
+// Position now: "Admitted" only for the 8 Sep admissions; documents the Respondent later confirmed carry its own word,
+// "veracity". "Tender proposed" because no agreement to tender, or on admissibility, has been given (letter item 2).
+const A = ['Admitted', '-', '-', 'Admitted; tender proposed'];
+const VC = 'Veracity confirmed; tender proposed';
+const C24 = ['Disputed', 'Confirmed by the Respondent', '-', VC];
 const MSH = 'Referred by the Respondent to Metro South for copies';
-const C12 = ['Disputed', MSH, 'Copy provided; confirmed', 'Now admitted; tender'];
+const C12 = ['Disputed', MSH, 'Copy provided; confirmed', VC];
 const part1 = [
   ['1A', 'Stibbard to the Switchboard team, "Hello & Update"', '18 Jul 2023, 12:56 pm', ...A],
   ['1B', 'Taylor to Reese, "Fwd: Communication Book Update", with her email to Logan Switch of 9:57 am that day', '6 Jun 2023, 4:05 pm', ...A],
@@ -94,7 +97,7 @@ const part1 = [
   ['22', 'Consultation Paper, Proposed Rosters for Switchboard Services, signed by Mr Hughes 12 Nov 2024', 'Nov 2024', ...C12],
   ['23', 'Consultation outcome, Proposed Rosters, signed by Mr Hughes 12 Dec 2024', 'Dec 2024', ...C12],
   ['31', 'Screen capture, "2024 Emergency Code Register.xlsx", March 2024 sheet, entries 16-20 Mar 2024 (Stressors 3(b) and 3(c))', 'Mar 2024',
-   'Disputed', MSH, 'Spreadsheet provided; confirmed', 'Spreadsheet confirmed; tender. Facts 228-231 not admitted (see the table after Part 1)'],
+   'Disputed', MSH, 'Spreadsheet provided; confirmed', 'Veracity of the spreadsheet confirmed; tender proposed. Facts 228-231 not admitted (see the table after Part 1)'],
   ['24', 'Moran, Organiser, Together Queensland, to Jeffrey, Conaghan and the Appellant, "Switchboard Roster Feedback - For Delegates"', '3 Nov 2025',
    'Disputed', 'Not mentioned', 'Not mentioned', 'Outstanding; contents admitted (178-179)'],
 ];
@@ -129,8 +132,8 @@ const tab32Intro =
   'Relations (Tribunals) Rules 2011~~, the Respondent stated by email of 16 October 2026: "The Regulator confirms the ' +
   'veracity of these documents."';
 const tab32 = [
-  ['32A', 'Role Description, Manager Switchboard Services, Logan Hospital (AO4), RD 30478699 (Item 6)', 'eff. June 2020', 'Confirmed by the Respondent', 'Admitted; tender'],
-  ['32B', 'Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special Pandemic Leave (Item 13); the same instrument as Tab 29', 'signed 23 Nov 2022', 'Confirmed by the Respondent', 'Admitted (as Tab 29); tender'],
+  ['32A', 'Role Description, Manager Switchboard Services, Logan Hospital (AO4), RD 30478699 (Item 6)', 'eff. June 2020', 'Confirmed by the Respondent', VC],
+  ['32B', 'Instrument of Human Resource Sub-Delegation, COVID-19 Pandemic Event - Paid Special Pandemic Leave (Item 13); the same instrument as Tab 29', 'signed 23 Nov 2022', 'Confirmed by the Respondent', 'Admitted (as Tab 29); tender proposed'],
 ];
 
 const factsIntro =
@@ -218,7 +221,7 @@ function schedule(pageBreakBefore = false) {
       'the documents at Tab 32 and for facts 228 to 231. Parts 2 and 3 are unchanged.', { after: 120 }),
     H('Schedule, Part 1: the 39 documents at Annexure A (notices to admit served 28 August 2026) and their status'),
     P(part1Intro, { after: 120 }),
-    table([560, 2400, 1200, 1000, 1560, 1440, 1478],
+    table([560, 2340, 1200, 1000, 1540, 1300, 1698],
           ['Tab', 'Document', 'Date', '8 Sep 2026', '24 Sep 2026', '12 Oct 2026', 'Position now'], part1),
     P(part1Note, { before: AFTER_TABLE }),
     P(tab32Intro, { before: 120, after: 120, keepNext: true }),
@@ -282,9 +285,10 @@ function letter() {
     P('**4. Section 32(1).** Review Decision 69983 states, under the heading "Conclusion", that the Appellant ' +
       '"sustained a personal injury of a psychological nature" and that the "injury arose out of employment, to the ' +
       'extent that it arose out of factors 2, 3 and 4, where employment was a significant contributing factor" (facts ' +
-      '261 and 262, admitted); the claim was rejected under section 32(5) of the Act. Does the Respondent agree that, ' +
-      'to that extent, the elements of section 32(1) are not in issue, so that the issue for any hearing is confined ' +
-      'to section 32(5)?'),
+      '261 and 262, admitted); the claim was rejected under section 32(5) of the Act. The Appellant accepts that the ' +
+      'hearing is de novo and that no finding in the decision binds the Commission; the question is whether these ' +
+      'matters can be agreed. Does the Respondent agree that, to that extent, the elements of section 32(1) are not in ' +
+      'issue, so that the issue for any hearing is confined to section 32(5)?'),
     P('**5. Leave.** Does the Respondent consent to leave to file the proposed Second Amended Statement of Facts and ' +
       'Contentions provided on 1 October 2026? If it intends to amend its own statement of facts and contentions in ' +
       'response, how much time does it seek? Once facts 228 to 231 are admitted, I may then provide a completed version ' +

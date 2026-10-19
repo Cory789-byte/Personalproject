@@ -27,8 +27,15 @@
     content."
   - **New column "12 Oct 2026":** "Copy provided; confirmed" for Tabs 1, 5, 17–19 and 21–23; "Spreadsheet provided;
     confirmed" for Tab 31; "Not mentioned" for Tab 24.
-  - **Position now:** "Now admitted; tender" for those eight. Tab 31 reads "Spreadsheet confirmed; tender. Facts
-    228-231 not admitted". Tab 24 is unchanged.
+  - **Position now (whole column revised, Cory 19 Oct):**
+    - "Admitted; tender proposed" for the 25 documents admitted on 8 Sep.
+    - "Veracity confirmed; tender proposed" for the twelve the Respondent later confirmed (Tabs 6, 20, 30 and 30A on
+      24 Sep; Tabs 1, 5, 17–19 and 21–23 on 12 Oct). This replaces "Now admitted; tender", including the 1 Oct wording
+      for the four 24 Sep rows.
+    - Tab 31: "Veracity of the spreadsheet confirmed; tender proposed. Facts 228-231 not admitted".
+    - Tab 24 is unchanged.
+    - Why: "veracity" is Matheson's own word. "Tender proposed" implies no agreement to tender and no concession on
+      admissibility; tender is letter item 2. The Tab 32 table uses the same wording.
   - **The note after the table:** the "no date by which the copies are expected" clause is removed. Added: on 12 Oct
     the Respondent provided its own copy of each of the ten except Tab 24.
 - **Added after Part 1:**
@@ -47,7 +54,10 @@
      reasonableness stay with the Commission.
    - It deliberately does **not** say the documents are relied on "only" for existence, which would have narrowed C 8.
 4. **Section 32(1):** quotes facts 261–262 and asks whether s 32(1) is not in issue to that extent (factors 2, 3 and
-   4), so the hearing is confined to s 32(5).
+   4), so the hearing is confined to s 32(5). It is a question, not a settled concession.
+   - It states that the Appellant accepts the hearing is de novo and that no finding binds the Commission. 9A Part C
+     ¶9 already says so, and the Respondent took that point in its 18 Feb response (fact 295).
+   - That leaves only whether the elements can be agreed. A "no" then has to say which element is contested.
 5. **Leave:** consent, and the time sought for their amendment. It then says (Cory's wording, 19 Oct) that once
    facts 228–231 are admitted, he may provide a completed 9A with any changes from the 1 Oct version noted, adding no
    new stressor or allegation. "May" makes it conditional, with no date: it is not a promise to deliver before the
