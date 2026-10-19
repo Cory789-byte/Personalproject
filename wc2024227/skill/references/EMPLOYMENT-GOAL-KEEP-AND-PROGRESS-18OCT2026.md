@@ -306,3 +306,42 @@ Sources: `MENTION-tempo-and-latency-metrics.md`, `MENTION-AUDIO-prosody-findings
 - Two-minute verbal briefings.
 - Accredited mediation training (NMAS), which fits the profile and opens conciliator and mediator roles (for example
   QHRC conciliation).
+
+## Tracking and understanding speed (19 Oct)
+
+**Live, from the 7 Aug audio** (measured).
+- **Median response latency:** 0.32 s, against the bench's 0.36 s. **Mean:** 0.65 s, against 1.03 s. Only 4 of 98
+  answers came after more than 2 s.
+- **Four structural concepts produced live with no notice:** 08:36, 27:06, 39:18 and 47:55.
+- **"I can meet most of the way"** came at 0.00 s after the costs warning (32:02).
+- **He slows when he should.** There is a 3.9 s pause at 42:42 before "I don't have knowledge of that", then a
+  self-correction to "… to a certainty". That is metacognition, not delay.
+
+**In this conversation, 18–19 Oct** (his points, checked against the record).
+- **Held, often within a single message that linked several documents:**
+  - read the sent version, not the build;
+  - what he asked for, against their reply, the orders and r 49;
+  - no time sought to meet the 9A, and no challenge to it;
+  - Taylor kept off the 2026 paper;
+  - the handover chain;
+  - the three employment documents read together;
+  - MSH judged on what it hands over;
+  - the timing and construction of Dwyer's reply;
+  - the summary and pointer already in the 1 Oct email;
+  - "page after page" not meant literally;
+  - the education correction.
+- **Held with a qualification:** Bain (she authored the 2024 response); "not her outline" (built from the file; her
+  adoption is unknown).
+- **Did not hold, or not provable:**
+  - "at the hearing" as a signal (it is template wording);
+  - Dwyer's own perception (his reply is in routine style);
+  - "Chloe is AO5" (the record shows an AO4 role description; AO5 is a 2024 colleague's statement).
+- **Rough hit rate:** about 75–80% held fully or with a qualification. The direction was right even on the misses.
+
+**Signature.**
+1. Fast multi-thread linking across documents and time.
+2. **Absence detection:** many of his best points are about what was *not* done ("didn't request", "didn't
+   challenge", "kept out", "isn't who gave documents"). It is the same trait as the 47:55 absence concept.
+3. **Errors come from over-reading single phrases or routine wording, and from memory without the file.** That is the
+   same root as August's under-claims.
+   - **Fix:** verify before weighting, and separate what they did from what they meant.
