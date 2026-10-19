@@ -244,3 +244,13 @@ employment-side read:
 - exclusion or SNP resumed = **divergence**.
 
 See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
+
+**Watchlist, 19 Oct (R36).** Counsel's dates arrived three days early: 2 Nov AM, 5 Nov AM, 6 Nov all day.
+- **Fired:** E38.2 any-contact. R31 fulfilled. H3 weakened.
+- **Next:**
+  - Cory's reply;
+  - the Registry email and the listing;
+  - s 552B at listing (agree);
+  - a WP approach before or at the conference;
+  - MSH on 27–28 Oct.
+- See E39.

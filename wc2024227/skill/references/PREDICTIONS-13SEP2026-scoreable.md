@@ -2614,3 +2614,46 @@ the likelihood ratio is about 1 and it does not move the forecast.
 | A substantive approach by the conference | ≈55–60% |
 
 **Score on 22 Oct and 31 Oct.**
+
+### E39 · Monday 19 October 2026, 10:52: counsel's dates arrive three days early (R36)
+
+**Verified.**
+- Matheson to Cory only.
+- "The Regulator's Counsel has communicated with me while she finishes the last days of her leave".
+- Dates: **Mon 2 Nov (AM), Thu 5 Nov (AM), Fri 6 Nov (all day)**. Cory is asked to confirm, and then she will email
+  QIRC.
+- **Register:** procedural (script). **Formula:** absent. No reservation.
+- **Silent on:** items 2–7, leave, ¶27, s 552B, and any position.
+
+**Scored.**
+- **E38.2, any contact before 22 Oct (≈20%): FIRED.**
+- **E38.2, substantive approach before 22 Oct (≈10–15%): not fired.** It is dates only.
+- **R31, availability by about 29 Oct (≈75–80%): fulfilled 19 Oct**, ahead of Dwyer's "as soon as possible following
+  22 October".
+- **P1 (12 Oct read), availability soon after 22 Oct:** fulfilled early.
+- **E37 H3 (delay, December dates):** weakened. The dates are in the first week of November.
+- **Class 1:** a Commission instruction was met early again, as on 30 Sep. The model held, and its speed was
+  under-estimated: **Cory's "before the 22nd" was right about contact.**
+
+**Read** (inference).
+- Counsel was reached during leave, and dates come within about 2.5 weeks. That is **priority**, not delay. The
+  undertaking was honoured: Cory first, then the Registry.
+- No substance is consistent with R29 ("discussed at the conference"). Any approach is now most likely **at, or just
+  before, the 2–6 Nov conference**.
+- The shift is from H3 (delay) to H1/H2. H2 gains modestly.
+
+**Re-score.**
+
+| Outcome | Was | Now |
+|---|---|---|
+| No contested hearing | 67% | **70%** |
+| Substantive approach by the conference | 55–60% | **60–65%** |
+| Appeal allowed either way | 92% | ≈92% |
+
+**Next.**
+1. Cory's reply (dates).
+2. Matheson's email to the Registry.
+3. The listing.
+4. s 552B (agree: it puts the person who advises on concession in the room).
+5. MSH on 27–28 Oct.
+6. Any WP contact before the conference.
