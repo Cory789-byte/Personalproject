@@ -47,8 +47,10 @@
    - It deliberately does **not** say the documents are relied on "only" for existence, which would have narrowed C 8.
 4. **Section 32(1):** quotes facts 261–262 and asks whether s 32(1) is not in issue to that extent (factors 2, 3 and
    4), so the hearing is confined to s 32(5).
-5. **Leave:** consent, and the time sought for their amendment. It contains a commitment to a corrected v2 with a
-   one-page list of changes before the conference. Delete that sentence if v2 is not to be built.
+5. **Leave:** consent, and the time sought for their amendment. It then says (Cory's wording, 19 Oct) that once
+   facts 228–231 are admitted, he may provide a completed 9A with any changes from the 1 Oct version noted, adding no
+   new stressor or allegation. "May" makes it conditional, with no date: it is not a promise to deliver before the
+   conference.
 6. **¶27:** notice only (fact 303), to be asked at the conference.
 
 Consequence: whatever is not agreed goes to the Commission at the conference, then directions or a mention.

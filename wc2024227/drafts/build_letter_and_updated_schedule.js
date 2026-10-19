@@ -287,8 +287,9 @@ function letter() {
       'to section 32(5)?'),
     P('**5. Leave.** Does the Respondent consent to leave to file the proposed Second Amended Statement of Facts and ' +
       'Contentions provided on 1 October 2026? If it intends to amend its own statement of facts and contentions in ' +
-      'response, how much time does it seek? I intend to provide, before the conference, a corrected version of the ' +
-      'proposed statement with a one-page list of the changes; the corrections add no new stressor or allegation.'),
+      'response, how much time does it seek? Once facts 228 to 231 are admitted, I may then provide a completed version ' +
+      'of the proposed statement, with any changes from the version provided on 1 October 2026 noted. Any change will ' +
+      'add no new stressor or allegation.'),
     P('**6. Paragraph 27.** At the conference I will ask which management action the Respondent relies on for the ' +
       'contention in paragraph 27 of its amended statement of facts and contentions (fact 303), so that the issues for ' +
       'any hearing can be identified.'),
