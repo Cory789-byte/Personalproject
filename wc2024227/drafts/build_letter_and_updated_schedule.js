@@ -4,14 +4,14 @@
 // The schedule text is the 1 October 2026 text (from the as-sent PDF) except where marked UPDATED below.
 // Ask, never allege. No metadata findings, no motive, no costs.
 //
-// Usage (from wc2024227/drafts): node build_letter_and_updated_schedule.js ["22 October 2026"] ["Friday 30 October 2026"]
+// Usage (from wc2024227/drafts): node build_letter_and_updated_schedule.js ["19 October 2026"] ["Friday 30 October 2026"]
 // Writes the .docx files and stripped .pdf copies (needs soffice and python3.13 with pikepdf).
 const fs = require('fs');
 const { execFileSync } = require('child_process');
 const { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, WidthType, BorderStyle, AlignmentType,
         Footer, PageNumber, ImageRun } = require('docx');
 
-const DATE = process.argv[2] || '22 October 2026';
+const DATE = process.argv[2] || '19 October 2026';
 const REPLY_BY = process.argv[3] || 'Friday 30 October 2026';
 const OUT = 'out/PRECONF_22OCT2026';
 const FONT = 'Times New Roman', SZ = 22;
@@ -258,10 +258,10 @@ function letter() {
     P('**Matters that may be agreed.** So that the conference can be used efficiently, and without delaying it, could ' +
       `the Respondent please indicate its position on the following matters by 4.00 pm on ${REPLY_BY}? Any matter ` +
       'that is agreed can then simply be noted at the conference.'),
-    P('**1. Facts 228 to 231.** These facts record entries in the Emergency Code Register for 17, 18 and 19 March 2024 ' +
-      'and were not admitted on 8 September 2026. Each of them records entries in the spreadsheet "2024 Emergency Code ' +
-      'Register_16 to 20 March 2024.xlsx" that you provided on 12 October 2026 and whose veracity the Respondent has ' +
-      'confirmed; the table after Part 1 of the Schedule identifies those entries by row. Now that the spreadsheet is ' +
+    P('**1. Facts 228 to 231.** These facts, which were not admitted on 8 September 2026, record entries in the ' +
+      'Emergency Code Register for 17, 18 and 19 March 2024. The same entries appear in the spreadsheet "2024 Emergency ' +
+      'Code Register_16 to 20 March 2024.xlsx" that you provided on 12 October 2026 and whose veracity the Respondent ' +
+      'has confirmed; the table after Part 1 of the Schedule identifies them by row. Now that the spreadsheet is ' +
       'confirmed, does the Respondent admit facts 228 to 231?'),
     P('**2. Tender.** Does the Respondent agree that the 38 documents at Annexure A that are admitted or confirmed, and ' +
       'the document at Tab 32A, may be tendered at any hearing without further proof, either in the form at Annexure A ' +

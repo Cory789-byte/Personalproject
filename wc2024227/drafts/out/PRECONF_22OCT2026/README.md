@@ -2,8 +2,9 @@
 
 **Order of sending**
 1. `EMAIL_1_REPLY_DATES_send_19-20OCT.txt`: dates only, s 552B agreed, copied on the Registry email. Send now.
-2. **On 22–23 Oct**, after counsel is back, send `EMAIL_2_COVER_…` with
-   `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf`. Rename it as the email says first.
+2. **Then the letter**, now dated **19 October 2026** (Cory, 19 Oct): send `EMAIL_2_COVER_…` with
+   `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf`, renamed as the email says. Send it as a separate email after
+   the dates reply, so the dates can go to the Registry on their own. The reply date stays 4.00 pm, Fri 30 Oct.
 
 **The files**
 - `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.docx` / `.pdf` (10 pp): the letter (pp 1–2), then the
@@ -11,7 +12,7 @@
 - `SCHEDULE_of_1Oct2026_updated_DRAFT.docx` / `.pdf` (8 pp): the updated Schedule alone, for the Registry agenda or
   the conference bundle.
 - Built by `drafts/build_letter_and_updated_schedule.js` (Times New Roman 11, A4, the 1 Oct layout). To rebuild with
-  other dates, run from `drafts/`: `node build_letter_and_updated_schedule.js "23 October 2026" "Friday 30 October 2026"`.
+  other dates, run from `drafts/`: `node build_letter_and_updated_schedule.js "20 October 2026" "Friday 30 October 2026"`.
   That writes the .docx files and the stripped .pdf copies. The container has no Times New Roman, so its PDFs use
   Liberation Serif, which has the same metrics. A PDF exported from Word gives true Times New Roman with the same
   layout.
