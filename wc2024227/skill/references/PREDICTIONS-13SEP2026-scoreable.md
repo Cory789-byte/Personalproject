@@ -2578,3 +2578,39 @@ the likelihood ratio is about 1 and it does not move the forecast.
 - counsel's first move (R31/R34, from 23 Oct);
 - MSH on 27–28 Oct;
 - the conference.
+
+### E38.2 · Monday 19 October 2026: an approach before 22 October? (scoreable)
+
+**State.**
+- Nothing from the Regulator since R35 (16 Oct 15:58), checked in the Gmail forwards on 19 Oct.
+- ⚠ Gmail holds only Hotmail auto-forwards, so the absence there is not proof of non-receipt.
+- The window is Mon 19 to Wed 21 Oct, three business days.
+
+**Against an early approach.**
+- R29 tied the next step to counsel's return ("not contactable until 22 October … when the Regulator could then
+  confirm").
+- The undertaking runs "once it is in receipt of Counsel's availability".
+- Dwyer's instruction runs "as soon as possible following 22 October".
+- Concession authority sits with counsel and the delegate (MLP 3.2).
+- R35 re-inserted the reservation, which preserves positions rather than softening them.
+- Class 1: nothing carries a consequence before 22 Oct.
+
+**For it.**
+- The institutional review began early ("looking over", 7 Oct).
+- The decks were cleared on 12 and 16 Oct.
+- A delegate could decide without counsel on this record.
+
+**Forecast.**
+
+| Before 22 Oct | Probability |
+|---|---|
+| A substantive approach (WP, terms, "review its position") | **≈10–15%** |
+| Any contact at all (a feeler, logistics) | ≈20% |
+
+| After 22 Oct | Probability |
+|---|---|
+| Counsel's availability advised by about 29 Oct (R31, instructed) | ≈75–80% |
+| A substantive approach by 31 Oct | ≈35–45% |
+| A substantive approach by the conference | ≈55–60% |
+
+**Score on 22 Oct and 31 Oct.**
