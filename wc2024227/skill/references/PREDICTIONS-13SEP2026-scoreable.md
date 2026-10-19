@@ -2702,3 +2702,47 @@ the likelihood ratio is about 1 and it does not move the forecast.
   the deferral. These are not exclusive.
 - **What would show a decision:** a WP contact or a s 552B request with an approach before the conference.
 - **What would show a fight:** an amended SOFC or ¶27 particulars arriving before or at the conference.
+
+**E39 addendum 3: counsel's hand, and why R36 is built the way it is** (Cory: "counsel wrote the letter"; 19 Oct;
+⛔ metadata is prediction-only)
+
+**R29 (12 Oct): was it counsel's text?**
+- **For:**
+  - it was prepared elsewhere and pasted (Thread-Index: created 09:20:58, sent 09:21:08, A2);
+  - it has lawyer's phrasing ("in lieu of ordered in directions, in the first instance"; "undertaking";
+    "respectfully requests the Commission's consent");
+  - it was sequenced with R28, finalised the Friday before (B3).
+- **Against:** clerical slips ("the correspondent of the Appellant"; "Commissions consideration"). They point to
+  Matheson's final assembly.
+- **Read: plausible, moderate.** Counsel's content, or at least her settled strategy, assembled by Matheson.
+- **R36 confirms counsel was reachable during leave.** If counsel shaped R29, then "not contactable until 22 October"
+  was a framing that justified deferring items 2–7, not a hard constraint. That strengthens B1 (choices, not
+  constraints).
+
+**Why promptly** (adding to addendum 2).
+1. Counsel controls the event she will run. Dates given from leave lock the conference around her, and early.
+2. Pre-emption. Cory attaches consequences and follows up (9 Sep, 1 Oct). Moving first removes any basis to seek
+   orders.
+3. Reaching the Guide 5.1/5.2 forum (the private session with the Member) before positions harden, costs grow, or the
+   employment track escalates (27 Oct).
+
+**Why like this** (the construction of R36).
+- **Procedural, short, no substance.** Everything is kept for the conference.
+- **A reframe.** Dwyer's one-way instruction ("obtain … availability … and advise the Appellant") becomes "its
+  **direction for the parties to discuss dates**". That restores the party-to-party channel R29 sought and Dwyer had
+  narrowed.
+- **The conduit.** "Once you confirm … **I** can email the QIRC". She keeps the Registry contact, which is R29's
+  original proposal ("before communicating with the registry").
+- **A pre-emption.** "While she finishes the last days of her leave" explains the early dates against "not
+  contactable".
+- **Friday 6 Nov all day.** It fits the Commission's Friday pattern.
+- **No s 552B request.** Counsel's attendance is assumed, as in March.
+- **Courteous** ("Thank you for your assistance").
+
+**Advice.**
+- Reply today: dates only, agree s 552B, and ask to be copied on the Registry email.
+- **If her email to the Registry has not gone by about 22 Oct, send the joint dates to the Registry yourself, cc
+  her.** Dwyer's instruction does not say who sends them, and the Commission should see the joint availability
+  promptly.
+- Prepare for a counsel-run conference: a one-line resolution for the private session, the corrected 9A and the
+  confirmations, and the closed questions.
