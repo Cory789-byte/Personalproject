@@ -2842,3 +2842,25 @@ which leaves him free to be candid in a private conference.
   Frame it as efficiency, not as a challenge to Dwyer's conference-first approach.
 - **Note:** formal directions cut both ways. A party that wants to fight can use a mention to seek time, witnesses or
   an expert. On the present record that is the less likely use.
+
+**E39 addendum 7: why the Regulator steered everything into the conference** (19 Oct)
+- **The conference was Cory's election** (FDO(3) direction 5, 1 Oct). The Regulator "agrees with the Appellant's
+  request". What it pushed was folding **items 2–7 into the conference "in lieu of ordered in directions"** (R29).
+- **Why (graded):**
+  1. **No orders and no written positions.** Items 2, 5 and 6 would commit it by dates. Strong: these are R29's own
+     words.
+  2. **The Guide 5.1 exit.** A review of position "following the conference … where new information is presented".
+     Concede on the 298 admissions and the 9A, without saying the review was wrong, with no reasons and by consent
+     orders. Moderate to strong.
+  3. **Counsel runs it, and the private session is unrecorded.** The real position is exchanged off the record.
+     Strong to moderate.
+  4. **Test the self-represented appellant.** The Member explains the hearing, the onus, costs and cross-examination.
+     The Guide notes discontinuance as an outcome. Moderate.
+  5. **Timing on counsel's dates,** with any directions afterwards. Moderate.
+  6. ⭐ **A procedural trade is possible:** consent to leave in exchange for narrowing the 9A. For example: the post-June
+     2024 material (B.3.1(e)), the "patient safety" paraphrases and code definitions, Q6, the 19 March codes, the Carr
+     citation.
+- **Prepare.** Several of those items are the citation review's own fixes (H1–H5). Decide in advance what is narrowed
+  anyway in v2. That turns a concession they ask for into one already made, and keeps the core (Stressors 1–3, the
+  admissions, C 4–5A) off the table.
+- **Absent:** no request for a hearing date or a mention. A party confident on the merits would press for listing.
