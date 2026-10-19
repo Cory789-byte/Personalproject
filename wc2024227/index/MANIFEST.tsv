@@ -179,6 +179,7 @@ documents/correspondence-2026/2026-09_My_payroll_enquiries.pdf	1	3320	OK
 documents/correspondence-2026/2026-10-13_1226_Registry_on_behalf_of_Dwyer_Regulator_instructed_counsel_availability_after_22Oct.pdf	3	3944	OK
 documents/correspondence-2026/2026-10-15_1457_Petering_reply_Terry_leave_investigated_and_credited.txt	0	1695	OK
 documents/correspondence-2026/2026-10-16_1558_Matheson_Tab32A_B_veracity_confirmed_r49_reply.pdf	4	4411	OK
+documents/correspondence-2026/2026-10-19_1052_Matheson_counsel_dates_2-5-6Nov_s552A_conference.txt	0	1319	OK
 documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf	103	112382	OK
 documents/correspondence-packs/02_Chloe_Taylor_PACK_462pp.pdf	462	432540	OK
 documents/correspondence-packs/03_Scott_Hughes_PACK_376pp_196sections.pdf	376	380927	OK
@@ -362,7 +363,7 @@ documents/respondent-served-2026-10-12/Consultation_outcome_-_Proposed_Rosters_f
 documents/respondent-served-2026-10-12/Employee_movement_01.03.2026_to_15.03.2026_PRN_22902210.pdf	4	0	NO_TEXT_LAYER
 documents/respondent-served-2026-10-12/Employee_movement_16.03.2026_to_26.04.2026_PRN_23420475.pdf	4	0	NO_TEXT_LAYER
 documents/respondent-served-2026-10-12/Employee_movement_25.05.2026_to_28.06.2026_PRN_23922112.pdf	4	0	NO_TEXT_LAYER
-documents/respondent-served-2026-10-12/README.md	0	2924	OK
+documents/respondent-served-2026-10-12/README.md	0	4490	OK
 documents/rosters/2023-01-23_to_02-05_LH_Switchboard_Roster_PP17_v3.0.pdf	1	0	NO_TEXT_LAYER
 documents/rosters/2023-03-06_to_03-19_LH_Switchboard_Roster_PP20_v1.0.pdf	1	4045	OK
 documents/rosters/2023-03-20_to_04-02_LH_Switchboard_Roster_PP21_v1.0.pdf	1	0	NO_TEXT_LAYER
@@ -895,6 +896,11 @@ drafts/out/OUTLINE_03_CONAGHAN.pdf	1	3590	OK
 drafts/out/PAYMENT_THE_DOCUMENTS_RELIED_ON.pdf	61	183080	OK
 drafts/out/PAY_CONTACT_LOG_2024.pdf	3	12411	OK
 drafts/out/PAY_CYCLE_2024_and_the_AVAC.pdf	2	5752	OK
+drafts/out/PRECONF_22OCT2026/EMAIL_1_REPLY_DATES_send_19-20OCT.txt	0	887	OK
+drafts/out/PRECONF_22OCT2026/EMAIL_2_COVER_for_letter_send_22-23OCT.txt	0	819	OK
+drafts/out/PRECONF_22OCT2026/LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf	10	35043	OK
+drafts/out/PRECONF_22OCT2026/README.md	0	4234	OK
+drafts/out/PRECONF_22OCT2026/SCHEDULE_of_1Oct2026_updated_DRAFT.pdf	8	29809	OK
 drafts/out/PREDICTION_appeal_and_workplace.pdf	3	10768	OK
 drafts/out/PRE_SEND_CHECKLIST_internal.pdf	2	7383	OK
 drafts/out/PROPOSAL_Return_to_Work_MSH-INJ-5795.pdf	3	11993	OK
@@ -1049,7 +1055,7 @@ scripts/panel_aggregate.py	0	8042	OK
 skill/SKILL.md	0	12188	OK
 skill/references/13AUG2026-THE-RECALLED-EMAIL-AND-CONSENT-CREEP.md	0	12642	OK
 skill/references/31JUL-error-and-rush-assessment.md	0	11342	OK
-skill/references/9A-READER-WALK-18OCT2026.md	0	16750	OK
+skill/references/9A-READER-WALK-18OCT2026.md	0	23299	OK
 skill/references/9C-contradiction-matrix.md	0	7655	OK
 skill/references/A4-RED-TEAM.md	0	14845	OK
 skill/references/ADVERSE-ACTION-LIMITATION-DATED-and-the-composite.md	0	18329	OK
@@ -1057,13 +1063,15 @@ skill/references/ALTIUS-RED-TEAM-5AUG.md	0	5485	OK
 skill/references/AMENDED-LOD-14AUG2026-ANALYSIS.md	0	8625	OK
 skill/references/ASHMORE-PRODUCTION-GAP.md	0	7148	OK
 skill/references/ASSESSMENT-DESIGN-gold-standard.md	0	4259	OK
+skill/references/BAIN-THE-HANDOVER-CHAIN-18OCT2026.md	0	7626	OK
 skill/references/BIDIRECTIONAL-TIMING-ANALYSIS.md	0	11005	OK
 skill/references/CAN-THIS-RESOLVE-WITHOUT-A-HEARING.md	0	5391	OK
 skill/references/CASE-SPECTRUM-BENCHMARK-10AUG2026.md	0	3445	OK
 skill/references/CHRONOLOGY-SHIELD-post-injury-events.md	0	7117	OK
 skill/references/CITATION-REVIEW-1OCT2026-PACKAGE.md	0	21400	OK
-skill/references/CIVIL-QUANTUM-AGAINST-MSH-if-the-appeal-succeeds.md	0	30518	OK
+skill/references/CIVIL-QUANTUM-AGAINST-MSH-if-the-appeal-succeeds.md	0	33228	OK
 skill/references/COMPLETE-MASTER-TIMELINE.md	0	18696	OK
+skill/references/COMPREHENSIVE-REGULATOR-ACTIONS-AND-DWYER-19OCT2026.md	0	11969	OK
 skill/references/CONNECTION-MAP-5AUG.md	0	13002	OK
 skill/references/CRIDLAND-END-full-picture.md	0	6528	OK
 skill/references/CROSS-DOCUMENT-METADATA-CORRELATION.md	0	13196	OK
@@ -1080,6 +1088,7 @@ skill/references/DISPUTED-TABS-line-by-line-v-admissions.md	0	20487	OK
 skill/references/DONE-PROPERLY-consultation-blueprint.md	0	12299	OK
 skill/references/DWYER-IC-own-reasoning.md	0	9996	OK
 skill/references/EAP-BOILERPLATE-NOTE.md	0	5534	OK
+skill/references/EMPLOYMENT-GOAL-KEEP-AND-PROGRESS-18OCT2026.md	0	21149	OK
 skill/references/FATIGUE-AS-CONTINUING-EXPOSURE.md	0	10469	OK
 skill/references/FORENSIC-13AUG-ROBERTS-EMAIL.md	0	21276	OK
 skill/references/FORENSIC-METADATA-12-DOCS.md	0	16734	OK
@@ -1153,10 +1162,11 @@ skill/references/POST-REINSTATEMENT-LITERATURE-MAP.md	0	6984	OK
 skill/references/POWERS-MAP-forcing-the-response.md	0	35944	OK
 skill/references/PRECONFERENCE-LETTER-17OCT2026-REVIEW.md	0	6108	OK
 skill/references/PREDICTED-25SEP-LETTER-E31.md	0	6758	OK
-skill/references/PREDICTIONS-13SEP2026-scoreable.md	0	180178	OK
+skill/references/PREDICTIONS-13SEP2026-scoreable.md	0	200942	OK
 skill/references/PREDICTIVE-CYCLE.md	0	15505	OK
 skill/references/PROCEDURAL-ROADMAP-APPEAL-GUIDE.md	0	18092	OK
 skill/references/PROGNOSIS-4AUG.md	0	4427	OK
+skill/references/PROSPECTIVE-VIEW-MSH-18OCT2026.md	0	5458	OK
 skill/references/PROTECTED-ACTS-AND-THE-CRIMINAL-LINE.md	0	5802	OK
 skill/references/PSYCHOSOCIAL-ASSESSMENT-how-often.md	0	9466	OK
 skill/references/PUBLIC-HOLIDAY-OUTLINE-v-AWARD-EB11-25SEP2026.md	0	7457	OK
@@ -1168,9 +1178,9 @@ skill/references/RED-TEAM-MSH-best-responses.md	0	32407	OK
 skill/references/REDTEAM-Ruttan-file-note-7AUG2026.md	0	10823	OK
 skill/references/REDTEAM-Ruttan-running-observation.md	0	14568	OK
 skill/references/REGISTER-vs-ARCHITECTURE.md	0	7462	OK
-skill/references/REGULATOR-12OCT2026-THE-STANDSTILL-READ.md	0	13183	OK
-skill/references/REGULATOR-RESERVATION-HOW-TO-PRESS-18OCT2026.md	0	5150	OK
-skill/references/REGULATOR-SIGNALS-the-full-data-set.md	0	14572	OK
+skill/references/REGULATOR-12OCT2026-THE-STANDSTILL-READ.md	0	22037	OK
+skill/references/REGULATOR-RESERVATION-HOW-TO-PRESS-18OCT2026.md	0	12059	OK
+skill/references/REGULATOR-SIGNALS-the-full-data-set.md	0	19162	OK
 skill/references/REPORT-B-ARCHITECTURE.md	0	15867	OK
 skill/references/REPORT-B-LOI-VERIFICATION-9AUG2026.md	0	38642	OK
 skill/references/REPORT-B-PACK-MASTER-SPEC-11AUG2026.md	0	8832	OK
@@ -1251,6 +1261,7 @@ skill/references/THE-TWO-COLUMN-PUT-role-description-v-admissions.md	0	7204	OK
 skill/references/THE-TWO-JUDGMENTS-10AUG2026.md	0	2539	OK
 skill/references/THE-WALK-the-tender-sequence-imagined.md	0	23028	OK
 skill/references/THE-WHOLE-STORY-28AUG2026.md	0	13719	OK
+skill/references/THESIS-HOW-THE-RECORD-PRODUCED-THE-12OCT-REQUEST.md	0	13146	OK
 skill/references/THESIS-WHY-THE-RESERVATION-18OCT2026.md	0	9387	OK
 skill/references/THREE-CLOCKS-dismissal-workcover-review.md	0	42705	OK
 skill/references/TRANSCRIPT-ACCURACY-comparison.md	0	3961	OK
@@ -1262,7 +1273,7 @@ skill/references/WHAT-EACH-PARTY-IS-PLAYING.md	0	6781	OK
 skill/references/WHAT-THE-ADMISSIONS-CONFIRM.md	0	9008	OK
 skill/references/WHAT-THE-CASE-WAS-REFINED-INTO-15SEP2026.md	0	12220	OK
 skill/references/WHAT-THE-REGULATOR-HOLDS-ON-THE-MEDICAL.md	0	5598	OK
-skill/references/WHAT-THE-SERVED-OUTLINES-FORCE.md	0	11437	OK
+skill/references/WHAT-THE-SERVED-OUTLINES-FORCE.md	0	14624	OK
 skill/references/WHO-INVESTIGATES-WHAT.md	0	3667	OK
 skill/references/WHO-READS-IT-AND-WHAT-REGISTERS.md	0	7515	OK
 skill/references/WHO-THEY-NEED-TO-CALL-to-rebut-the-outlines.md	0	11112	OK

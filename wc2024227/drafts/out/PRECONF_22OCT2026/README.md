@@ -2,23 +2,56 @@
 
 **Order of sending**
 1. `EMAIL_1_REPLY_DATES_send_19-20OCT.txt`: dates only, s 552B agreed, copied on the Registry email. Send now.
-2. **On 22–23 Oct**, after counsel is back, send `EMAIL_2_COVER_…` with the letter PDF. Remove "_DRAFT" from the
-   file name first. Rebuild with other dates if needed:
-   `python3.13 ../../build_preconference_positions_letter.py "23 October 2026" "Friday 30 October 2026"`.
+2. **On 22–23 Oct**, after counsel is back, send `EMAIL_2_COVER_…` with
+   `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.pdf`. Rename it as the email says first.
+
+**The files**
+- `LETTER_TO_REGULATOR_with_updated_Schedule_DRAFT.docx` / `.pdf` (10 pp): the letter (pp 1–2), then the
+  Schedule of 1 October 2026, updated (pp 3–10). This is the one to send.
+- `SCHEDULE_of_1Oct2026_updated_DRAFT.docx` / `.pdf` (8 pp): the updated Schedule alone, for the Registry agenda or
+  the conference bundle.
+- Built by `drafts/build_letter_and_updated_schedule.js` (Times New Roman 11, A4, the 1 Oct layout). To rebuild with
+  other dates, run from `drafts/`: `node build_letter_and_updated_schedule.js "23 October 2026" "Friday 30 October 2026"`.
+  That writes the .docx files and the stripped .pdf copies. The container has no Times New Roman, so its PDFs use
+  Liberation Serif, which has the same metrics. A PDF exported from Word gives true Times New Roman with the same
+  layout.
+
+**The Schedule: what changed from 1 Oct, and what did not**
+- **Checked against the as-sent PDF, cell by cell.** Parts 2 and 3 are identical, and so are the Part 1 columns Tab,
+  Document, Date, 8 Sep 2026 and 24 Sep 2026.
+- **Part 1, changed:**
+  - **Introduction.** The first four sentences and the "facts recorded in 13 of the 14" sentence are kept. Added: the
+    12 Oct confirmation, quoted ("The regulator confirms the veracity of the attached documents."), and 38 of 39
+    confirmed. Dropped: "For the other 13, what remains in dispute is the authenticity of the copies, not their
+    content."
+  - **New column "12 Oct 2026":** "Copy provided; confirmed" for Tabs 1, 5, 17–19 and 21–23; "Spreadsheet provided;
+    confirmed" for Tab 31; "Not mentioned" for Tab 24.
+  - **Position now:** "Now admitted; tender" for those eight. Tab 31 reads "Spreadsheet confirmed; tender. Facts
+    228-231 not admitted". Tab 24 is unchanged.
+  - **The note after the table:** the "no date by which the copies are expected" clause is removed. Added: on 12 Oct
+    the Respondent provided its own copy of each of the ten except Tab 24.
+- **Added after Part 1:**
+  - Tab 32A/32B, with the 16 Oct "veracity" quote and the rule 49 request.
+  - Facts 228–231, verbatim as served, mapped to rows of the sheet "MARCH 2024": rows 9–16, 17–22 (with row 23 at
+    14:38), and 33 (column E). Verified against the native file.
 
 **What the letter asks** (ask, never allege; reply by 4.00 pm, Fri 30 Oct):
-1. **Facts 228–231:** admit them now. Each was verified row by row against MSH's native register file provided
-   12 Oct: rows 9–16, 17–22 and 33.
-2. **Tender** of the 38 Annexure A documents and Tab 32A without further proof.
-3. **Relevance and admissibility:** identify any objection and its ground now, not at the hearing. It restates the
-   Appellant's position on "truth": the documents are relied on for existence, terms, dates and what the pleading and
-   LOD contain, not for the truth of their contents (the same as 9A C 8).
-4. **Section 32(1):** not in issue, so the hearing is confined to s 32(5).
-5. **Leave:** consent, and time for their amendment. It also contains a soft commitment to a corrected v2 with a list
-   of changes before the conference. Delete that sentence if v2 is not to be built.
-6. **¶27:** **notice only**, saying it will be asked at the conference. It is not demanded in writing, which keeps
-   R29's "discussed at the conference" and avoids prompting a written particularisation before the private session.
+1. **Facts 228–231:** now that the spreadsheet is confirmed, admit them.
+2. **Tender** of the 38 Annexure A documents and Tab 32A without further proof, in the Annexure A form or the
+   12 Oct form. Also: whether Tab 24's authenticity dispute is maintained, and on what ground.
+3. **Relevance and admissibility:** identify any objection and its ground now, not at the hearing.
+   - On "truth", it quotes 9A Part C ¶8: the admissions are evidence that the documents exist and of what they say,
+     and of what the SOFC and LOD do not contain.
+   - Agreeing to tender or relevance does not require the Regulator to accept the truth of any statement. Weight and
+     reasonableness stay with the Commission.
+   - It deliberately does **not** say the documents are relied on "only" for existence, which would have narrowed C 8.
+4. **Section 32(1):** quotes facts 261–262 and asks whether s 32(1) is not in issue to that extent (factors 2, 3 and
+   4), so the hearing is confined to s 32(5).
+5. **Leave:** consent, and the time sought for their amendment. It contains a commitment to a corrected v2 with a
+   one-page list of changes before the conference. Delete that sentence if v2 is not to be built.
+6. **¶27:** notice only (fact 303), to be asked at the conference.
 
 Consequence: whatever is not agreed goes to the Commission at the conference, then directions or a mention.
 
-⛔ Nothing on metadata, the folder, Bain, employment, money, the deed or motive.
+⛔ Nothing on metadata, the folder, Bain, employment, money, the deed or motive. The only file facts used are the
+spreadsheet's name as sent, its sheet name, its column headings and its rows: content, not metadata.
