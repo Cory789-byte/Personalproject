@@ -7681,3 +7681,22 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - read the 30 Oct answer on seven lines;
   - send the one-page conference agenda after it;
   - MSH cross-check on 27–28 Oct.
+
+## 2026-10-20 (evening, about 9 pm AEST): is anything listed? No listing seen yet
+- **Email (Gmail case-file copy):** nothing from the Registry or Matheson after the 20 Oct 9:44 and 9:48 emails.
+  No notice of listing.
+  - ⚠ Gmail holds only the Hotmail auto-forwards, and the forward missed one email on 19 Oct. Check Hotmail
+    directly.
+- **QIRC public lists: not readable from this environment.**
+  - The fetch tool got HTTP 403.
+  - Direct requests and headless Chromium went through the session proxy, but the QIRC server gave no
+    response ("upstream request failed").
+  - The site refuses automated access, so no further attempts were made.
+- **The lists could not show the conference yet anyway.** Per the QIRC Hearing Lists page, as indexed:
+  - the daily list covers the next business day and is updated by 5 pm;
+  - the weekly list is updated by 5 pm each Friday and covers the following week (the 3 Jul 2026 list was
+    for the week commencing 6 Jul);
+  - weekly lists include conferences, mentions and hearings by matter number. Conferences are private (FAQ).
+  - So a 2, 5 or 6 Nov conference first appears on the weekly list of **Fri 30 Oct**.
+- **The notice of listing from the Registry comes first.** Lead times in this matter run 9–15 days. Expect it by
+  about 23 Oct for 2 Nov, or 28 Oct for 6 Nov (ledger R40).
