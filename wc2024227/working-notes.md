@@ -7846,3 +7846,9 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   3. C7 cites *Carr* [2022] QIRC 59 "as applied", although it was set aside in *WCR v Carr* [2023] ICQ 1
      (10 Jan 2023).
 - **Q6** (s 32(5)(b) as a question) is a judgement call to drop. 5B answers it.
+- **9A depth, measured:**
+  - 288 admitted facts cited inline (about all 303 with the particulars);
+  - 109 dates, 136 clock times, 218 quotations, 27 intervals.
+  - Dwyer at 33:34: most appellants rely on their own evidence rather than documents.
+  - The depth is greatest on "what", thin on "why" (theirs to supply), and documents cannot carry the medical
+    link alone.

@@ -77,3 +77,24 @@ allegation.
 4. Decide on Q6.
 
 **At the conference, lead with the one-page story:** the Part A summary plus the intervals.
+
+## Addendum: how deep is the documentation? (measured on the as-sent text)
+
+| Measure | Count |
+|---|---|
+| Admitted facts cited inline in square brackets | **288** of the 303 (strict count: single numbers and ranges up to 15 wide). The particulars lines take it to about all 303 |
+| Distinct calendar dates named | **109** (core June 2023 to June 2024; context from the June 2020 agreement to 2026) |
+| Clock times named | **136** |
+| Direct quotations from documents | **218** |
+| Intervals computed (B.4) | **27** rows |
+
+**Context.** Dwyer, 7 Aug (33:34–33:45): "it's more common than not that appellants will give evidence in these
+proceedings without relying heavily on documentary case". This case rests on the employer's own documents.
+That is why it could be admitted.
+
+**The shape of the depth:**
+- **What happened** (acts, dates, words): deepest. It is closed by admission.
+- **Why** (management's reasons): thin by design. It is theirs to supply, and they have not.
+- **The medical link by stressor:** not something documents alone can prove. It rests on the treating records
+  (which name roster and pay) and the doctors' oral evidence.
+- **Cost:** accessibility (30 pp). Lead with the one-page version.
