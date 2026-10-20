@@ -1,0 +1,17 @@
+text                     words w/sent   intensity  accusation rules cited     anchors    courtesy  dated asks   disclaims    I Appellant
+Feb 11 urgent filing       497   17.8         1.2         2.0         1.8         0.2         0.0         0.2         0.0   11         0
+Feb 17 Calderbank 1         88   22.0         0.0         0.0         0.0         0.0         0.0         0.0         0.0    2         0
+Mar 20 update              449   20.4         0.0         0.2         1.1         0.0         0.0         0.0         0.0   11         1
+Jul 01 Calderbank 2         96   13.7         0.0         0.0         0.0         0.0         2.1         0.0         0.0    2         0
+Jul 31 WP letter           486   22.1         0.0         0.4         0.0         0.0         1.0         0.0         0.0   20         0
+Aug 28 notices email       172   12.3         0.0         0.0         0.0         1.7         0.6         0.6         0.0    6         0
+Sep 09 footing letter      623   22.2         0.0         0.0         0.2         2.2         0.2         0.2         0.8    2         7
+Oct 19 six matters         684   18.0         0.0         0.0         0.6         2.8         0.7         0.1         0.3    3         2
+
+(feature columns are counts per 100 words)
+  Feb 11 urgent filing / intensity: ['immediate', 'urgently', 'SEAL', 'immediately', 'must', 'deemed']
+  Feb 11 urgent filing / accusation: ['unlawful', 'breach', 'breach', 'violat', 'breach', 'denied me', 'embarrass', 'violat', 'unlawful', 'breach']
+  Feb 11 urgent filing / disclaims: []
+  Oct 19 six matters / intensity: []
+  Oct 19 six matters / accusation: []
+  Oct 19 six matters / disclaims: ['does not contend', 'would not require']

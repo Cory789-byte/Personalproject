@@ -7852,3 +7852,23 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - Dwyer at 33:34: most appellants rely on their own evidence rather than documents.
   - The depth is greatest on "what", thin on "why" (theirs to supply), and documents cannot carry the medical
     link alone.
+
+## 2026-10-20 (late): litigation structure and language patterns
+- `analysis/2026-10-20_LITIGATION_STRUCTURE_and_LANGUAGE_PATTERNS.md`, with `analysis/stylometry/cory_language.py`,
+  `cory_texts/` and the output.
+- **The record:**
+  - Notice of Appeal 26 Nov 2024;
+  - 5 listings held (13 Mar conference; mentions 27 Feb, 7 Apr, 22 May, 7 Aug 2026);
+  - 7 orders or directions (3 by consent in 2025);
+  - no hearing and no contested ruling. Every dispute ended by consent, withdrawal, admission or a direction.
+- **Dropped:**
+  - the AFDO(2) timetable (Aug 2025);
+  - the reprisal, strike-out and removal parts of the Form 4 (20 Mar);
+  - Form 29 / 64G (28 Aug);
+  - the Regulator's defend line (after 14 Aug) and its document disputes.
+- **Pattern:** narrowing moved the case and widening hardened it (correlation).
+- **Cory's language:**
+  - 11 Feb: accusation 2.0 and intensity 1.2 per 100 words;
+  - 19 Oct: both 0, with admission anchors up from 0.2 to 2.8 and disclaimers appearing from 9 Sep.
+- **The Regulator mirrored it:** "we will be defending" (Feb), the formula (Jul–Aug), reservations (Sep), "the
+  parties" (Oct).
