@@ -3029,3 +3029,29 @@ evidence is the information most able to move the delegate: the doctors' attenda
 short causation view in their own words. ⛔ Nothing is suggested to the doctors about content.
 
 **Score at:** the 30 Oct response (E41), the conference, and any review-of-position letter.
+
+### E41.1 · 20 October 2026: R36, R41 and R42 against the whole ledger (Cory's prompt)
+
+| Dimension | Jul–Aug (R04, R07, R11, R12) | Sep (R14, R16, R19–R21) | Oct to 16th (R26, R28, R29, R35) | 19–20 Oct (R36, R41, R42) |
+|---|---|---|---|---|
+| Latency | 10–21 days | 11–15 days, to deadlines | 6–11 days (R28: 33, the MSH round trip) | 6 days, then **17 h 40 min** |
+| Register | position with formula (R04, R12); apologetic holding | legal (R14) and operational | operational | procedural |
+| Formula | **present** (16 Jul, 14 Aug) | absent | absent | absent: **12 substantive communications** since 14 Aug |
+| Tone | "I apologise for the delay"; "sincerely apologise" | neutral | neutral; reservation re-inserted 16 Oct | "Thank you for your assistance"; "Thankfully"; "appreciate" |
+| Dated commitments | "as soon as possible this week", then 11 days late | extension to 25 Sep, delivered 24 Sep | "noting … 16 October", delivered 16 Oct 15:58 | **"respond by Friday 30 October 2026 as requested"** |
+| Counsel | Feb (R32): diary within hours | not mentioned | "not contactable until 22 October" | engaged during leave; named to the Commission |
+| Channel | WP positions to Cory | legal to Cory; list to the Registry | Registry for process (R29); Cory for documents | Registry first (compliance account), then Cory |
+
+**Read.**
+- **What is new.** This is the fastest, warmest and most firmly committed run in the record. Since September the
+  Regulator has met or beaten every date it accepted. Expect the 30 Oct response on or just before the day. On the
+  16 Oct precedent, that means the afternoon.
+- **What is unchanged.** There has been no merits statement in either the position or legal register since 14 Aug.
+  The 30 Oct response will be the first in about 11 weeks.
+- **Against the thesis.**
+  - **Confirmed:** the conference without orders and on counsel's timetable. "Not contactable" has dissolved into
+    counsel engaging during leave, as the February precedent predicted.
+  - **Refined:** "positions kept oral" has become "something in writing by a date". Whether the writing covers only
+    the cheap items (documents, 228–231) or the decisive ones (s 32(1), leave, ¶27) is now the test.
+  - **Unproven:** concession. R34 (an approach) has not fired.
+- **Estimate:** unchanged at ≈60% (E42).
