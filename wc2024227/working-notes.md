@@ -7700,3 +7700,24 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - So a 2, 5 or 6 Nov conference first appears on the weekly list of **Fri 30 Oct**.
 - **The notice of listing from the Registry comes first.** Lead times in this matter run 9–15 days. Expect it by
   about 23 Oct for 2 Nov, or 28 Oct for 6 Nov (ledger R40).
+
+## 2026-10-20 (late): the Regulator's position by signals, with Dwyer's stance
+- `analysis/2026-10-20_REGULATOR_POSITION_MODEL_signals_with_Dwyer.md`.
+- **Dwyer's 7 Aug words re-verified against the transcript:** 00:00, 04:07, 14:52–15:49, 28:12–29:14,
+  32:43, 34:21–34:38, 59:36–59:58, 63:29.
+  - ⚠ The 59:11 "rather than… a full blown hearing" refers to the Form 29 application, not the appeal. Not a
+    merits signal.
+- **Orders re-checked:**
+  - 7 Apr FDO: leave the same day, in the draft's form; Respondent given 35 days;
+  - 19 Aug FDO(3): made further to Cory's 10 Aug correspondence;
+  - 13 Oct: an instruction with a clock, no orders.
+- **The 16 Jul rejection wording was re-verified** against the saved PDF.
+- **Model:**
+  - facts conceded by choice (Dwyer's contradict test);
+  - no case built (no expert; outlines plead "human error");
+  - defend line absent since 14 Aug;
+  - no time sought, no ¶27 particulars, no opposition to leave.
+  - Aims: no published loss; a face-saving Guide 5.1 review; nothing in writing; Dwyer's private view and
+    the medical evidence first; model-litigant optics; the narrow-fight option kept as insurance.
+- **Weights:** exit-seeking about 60%, narrow defence about 30%, full defence about 10%. Concession 55–65%
+  (unchanged).
