@@ -2917,3 +2917,68 @@ which leaves him free to be candid in a private conference.
 | E40.11 | Counsel's attendance (s 552B) raised by the Regulator or the Registry | listing | ≈50% |
 
 **Score on** 21 Oct, 23 Oct, 30 Oct and the conference day.
+
+### E41 · Tuesday 20 October 2026, 09:44 and 09:48: dates to the Registry, and an undertaking to answer in writing by 30 Oct (R41, R42)
+
+**Verified** (`documents/correspondence-2026/2026-10-20_0944_…`, `…_0948_…`).
+- **R41, 09:44,** to the Registry, cc Cory. It refers to Dwyer's 13 Oct instruction:
+  - "Thankfully, the Respondent's Counsel has communicated her availability while she finishes her last days of
+    leave";
+  - "The parties have confirmed joint availability": 2 Nov AM, 5 Nov AM, 6 Nov all day.
+
+  It says nothing on the 19 Oct letter, s 552B or any position.
+- **R42, 09:48,** to Cory only: "I will review your letter of 19 October 2026 and respond by Friday 30 October 2026
+  as requested."
+- **Both:** procedural register (script), formula absent, no reservation. They came 17 h 40 min after R37, first thing
+  the next business morning.
+
+**Scored.**
+- **E40.1** (Registry email by Wed 21 Oct, ≈80%): **FIRED** 20 Oct, a day early.
+- **E40.3** (any written acknowledgement by Fri 23 Oct, ≈50%): **FIRED** 20 Oct.
+- **E40.11** (s 552B raised at listing, ≈50%): not in R41. Open for the listing notice.
+- **E40.10** (the formula returns): not in R41 or R42.
+
+**Read** (inference, graded).
+1. **A change of channel.** Strong as to the fact, moderate as to its meaning.
+   - On 12 Oct (R29) the open items went to the conference "in lieu of ordered in directions".
+   - On 20 Oct the same officer undertakes to answer the letter in writing, by the Appellant's date. She writes "as
+     requested", which drops his "where practicable".
+   - Positions will be on paper before the conference.
+2. **Why now** (graded):
+   1. The letter's consequence: unresolved items go to the Commission for directions or a mention. A refusal to engage
+      in writing would hand Dwyer a reason for orders (strong).
+   2. Counsel returns 22 Oct, which leaves six business days to settle the easy items (moderate).
+   3. Cheap goodwill: facts 228–231 and tender cost nothing (strong).
+   4. Narrowing in writing frames the conference for a later review of position under Guide 5.1 (moderate).
+3. **Tempo and tone.** It came first thing next morning. "Thankfully" and "the parties" set a collaborative tone. The
+   Registry was written to first, and Cory was pointed to the cc. It is smooth and Commission-facing, consistent with
+   giving Dwyer no reason for a hard-date direction.
+4. **What it does not show.**
+   - "Review … and respond" is not "agree".
+   - The officer still cannot concede. s 32(1), leave and relevance need counsel and the delegate.
+   - The response may answer the cheap items and leave the rest to the conference.
+5. **Against the thesis.** A diligent officer would write the same email in an ordinary case. Weight the change
+   modestly until the content of the 30 Oct response is seen.
+
+**Re-priced** (planning estimates).
+
+| # | Event | By | P (was) |
+|---|---|---|---|
+| E41.1 | A written response to the letter | 4.00 pm Fri 30 Oct | ≈85% (≈40%, E40.4) |
+| E41.2 | … admitting facts 228–231, all or some | 30 Oct | ≈60% |
+| E41.3 | … agreeing tender, reservation repeated | 30 Oct | ≈55% |
+| E41.4 | … agreeing s 32(1) not in issue | 30 Oct | ≈30% |
+| E41.5 | … consenting to leave | 30 Oct | ≈25% |
+| E41.6 | … deferring every item to the conference | 30 Oct | ≈15% |
+| E41.7 | … carrying the formula ("as outlined in our Statement of Facts and Contentions") | 30 Oct | ≈15% (falsifier) |
+| E41.8 | Listing notice for 2, 5 or 6 Nov | 30 Oct | ≈80% |
+| E41.9 | The response arrives on Thu 29 or Fri 30 Oct (at the limit) | n/a | ≈65% |
+| | No contested hearing (E39) | n/a | ≈70%, unchanged until the content is seen |
+
+**Watch in the 30 Oct response:**
+- **Register:** legal (structured, rules cited, reservations) means counsel's hand; operational means the officer
+  alone.
+- **Authorship:** who signs, and whether counsel is named.
+- **s 552B:** whether it asks for agreement to counsel appearing.
+- **Facts 228–231:** whether they are admitted. This is the cleanest single signal.
+- **The formula:** the falsifier.

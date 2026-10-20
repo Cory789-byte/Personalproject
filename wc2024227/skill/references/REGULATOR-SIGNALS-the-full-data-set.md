@@ -266,3 +266,18 @@ See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
   - R34, a WP approach before or at the conference;
   - MSH on 27–28 Oct.
 - See E40.
+
+**Watchlist, 20 Oct (R41, R42).**
+- **Fired:**
+  - R38: dates to the Registry at 09:44, a day early;
+  - an acknowledgement and an undertaking at 09:48: "I will review your letter of 19 October 2026 and respond by
+    Friday 30 October 2026 as requested".
+- **Changed:** the open items are now to be answered in writing before the conference. R29 had sent them to the
+  conference "in lieu of ordered in directions".
+- **Next:**
+  - R40, the listing (2, 5 or 6 Nov);
+  - R39, the written response by 4.00 pm Fri 30 Oct (register, signer, 228–231, s 32(1), leave, formula);
+  - s 552B at listing (agree if asked);
+  - R34, a WP approach;
+  - MSH on 27–28 Oct.
+- See E41.
