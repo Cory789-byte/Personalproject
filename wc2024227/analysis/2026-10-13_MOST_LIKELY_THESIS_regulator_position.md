@@ -533,3 +533,28 @@ week of 26 Oct, sooner if Counsel has been working by email.
   a Commission instruction, with no excuse.
 - **Action:** nothing before 22 Oct. If nothing by 29–30 Oct, send a short polite email to the
   Regulator, cc the Registry, referring to the 13 Oct instruction and giving dates.
+
+## Update, 20 October 2026: what came, and what it changes
+
+Full analysis: `analysis/2026-10-20_EVERY_DATA_POINT_7-20OCT_Matheson_QIRC_and_the_19Oct_letter.md`.
+
+**What came:**
+- **16 Oct:** Tab 32A/B confirmed on the date. Leave, also noted for 16 Oct, was not answered.
+- **19 Oct:** Counsel's dates, three days before 22 Oct (2 Nov AM, 5 Nov AM, 6 Nov all day). Counsel was
+  reachable on leave.
+- **19 Oct:** Cory's letter, with six matters and positions sought by Fri 30 Oct.
+- **20 Oct:** joint dates to the Registry, and Matheson's undertaking to "respond by Friday 30 October 2026 as
+  requested".
+
+**Corrections to this file:**
+- The first contact came on 19 Oct, not "the week of 26 Oct". The qualifier ("sooner if Counsel has been
+  working by email") was the right branch.
+- The conference will be in early November, not mid–late November.
+- **The offer window ranking is reversed.** "Dates now, position after the conference" is now first. The
+  visible structure is written answers by 30 Oct, the conference, then the Guide 5.1 review.
+
+**Odds (judgement):**
+- Concession before a contested hearing: **55–65%**, unchanged. It is now most likely after the conference,
+  late Nov to mid Dec.
+- Appeal allowed either way: **about 85%** (was about 80%). This is an arithmetic correction (0.6 + 0.4 × 0.7),
+  not new evidence.

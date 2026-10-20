@@ -7648,3 +7648,36 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Odds:** concession before hearing 45–55%; favourable overall 72–78% (judgement).
 - **Found:** 7 Oct exchange (Cory's Tab 32A rule 49 request, due Fri 16 Oct; Matheson's acknowledgement, "looking over both emails", "following up with MSH"). Recorded in `documents/regulator-2026-10-12/2026-10-07_...txt`. The Tab 32A admission is still unanswered.
 - **Correction:** "as soon as possible" is Matheson's stock phrase; the earlier "echo" point is withdrawn.
+
+## 2026-10-20 — Every Matheson and QIRC email, 7–20 Oct, read together; the 19 Oct letter and why she answered as she did
+- `analysis/2026-10-20_EVERY_DATA_POINT_7-20OCT_Matheson_QIRC_and_the_19Oct_letter.md`.
+- **What came:**
+  - 16 Oct: Tab 32A/B confirmed on the date, with the 8 Sep reservation. Leave, also noted for 16 Oct, was
+    not answered.
+  - 19 Oct, 10:52: Counsel's dates (2 Nov AM, 5 Nov AM, 6 Nov all day), with Counsel "communicat[ing]… while
+    she finishes the last days of her leave".
+  - 19 Oct, 16:04: Cory's reply with the letter (six matters; by 4.00 pm Fri 30 Oct).
+  - 20 Oct, 9:44: joint dates to the Registry ("Thankfully…").
+  - 20 Oct, 9:48: "I will review your letter… and respond by Friday 30 October 2026 as requested."
+- **Read:**
+  - the cheap items are being answered on paper;
+  - the Commission's file is kept free of orders;
+  - the legal questions are being taken into a conference run by Counsel;
+  - a decision follows under Guide 5.1.
+- **The Guide itself supplies the "de novo" answer to s 32(1)** (§5.1, p 25, verified). The reply: the
+  conference "can assist in understanding whether any elements of s 32 of the Act can be agreed".
+- **Scored:**
+  - contact before 22 Oct (Cory right; my "week of 26 Oct" late);
+  - dates only (right);
+  - conference mid–late Nov (wrong: early Nov);
+  - 16 Oct test fired;
+  - offer-before-conference ranking reversed.
+- **30 Oct prediction:** shape A about 45% (documents answered, law deferred); B, the concession track,
+  about 20%; D, a fight letter, 10–15%; the formula returns about 15%.
+- **Odds:** concession 55–65% (unchanged; now after the conference); allowed either way about 85%.
+- **Next:**
+  - send nothing before 30 Oct;
+  - agree s 552B if asked;
+  - read the 30 Oct answer on seven lines;
+  - send the one-page conference agenda after it;
+  - MSH cross-check on 27–28 Oct.
