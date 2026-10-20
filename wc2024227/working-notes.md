@@ -7816,3 +7816,20 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - Reese, 21 May: "I will follow up on the issues raised", six days after the 15 May Code of conduct email.
 - **The surviving "difficult" episodes:** 6 Jun 2023 and 15 May 2024. They are limited, and the treating records
   name roster and pay.
+
+## 2026-10-20 (late): positioning run, consolidated
+- `analysis/2026-10-20_POSITIONING_RUN_justified.md`.
+- **Positions:**
+  - **Regulator:** undecided, leaning exit (exit 60 / narrow defence 30 / full defence 10). Concession 55–65%.
+  - **Dwyer:** neutral in substance, firm on process, with the conference as the fork.
+  - **Matheson:** cooperative carrier.
+  - **Appellant:** strong on facts, exposed on medical causation by stressor. Win if heard about 70%; allowed
+    either way about 85%.
+- **Moves:**
+  - nothing before 30 Oct;
+  - code the 30 Oct reply as data point 24;
+  - a one-page agenda after it;
+  - facts only at the conference;
+  - the doctors' availability;
+  - fix the flagged overstatements after re-verifying them;
+  - the exit protocol if offered.
