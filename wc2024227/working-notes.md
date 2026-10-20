@@ -7738,3 +7738,19 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Added (late):** §9 of the position model, eleven construction giveaways, all quotes verified against the
   emails and the 8 Sep cover letter PDF. The pattern since 8 Sep: give, reserve, defer. Never assert, deny,
   explain, or restate the defence.
+
+## 2026-10-20 (late): the 12 Oct Registry email tested against Matheson's own writing; why the profile predicts
+- `analysis/2026-10-20_AUTHORSHIP_12OCT_and_WHY_THE_PROFILE_PREDICTS.md`.
+- Script and output: `analysis/stylometry/`.
+- **Baseline:** 24 of her emails (Jul 2025 to 12 Oct), 4 since, and the 8 Sep letter as a control.
+- **Verdict: a hybrid.**
+  - Her frame and her slips.
+  - The strategy sentences are in legal idiom found in 0/24 of her emails ("in lieu of", "in the first
+    instance", "undertaking", "in receipt of", "better placed", "believes", "jointly", "not contactable").
+    Sentence overlap with her phrasing: 0–11%, against 29–40% for the frame.
+  - Pasted in 10 s; her new Registry emails take 77–549 s.
+- **Calibration:** the 24 Sep email was also pasted (20 s) but is all hers. Pasting means prepared or
+  approved, not authored by another.
+- **Withdrawn tells:** "respectfully requests" and "set down" are hers.
+- **The profile's misses lean one way:** slower and more legalistic than the Regulator has actually been.
+  That is the phase change since the admissions.
