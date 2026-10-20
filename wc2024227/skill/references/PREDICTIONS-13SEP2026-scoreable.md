@@ -2982,3 +2982,50 @@ which leaves him free to be candid in a private conference.
 - **s 552B:** whether it asks for agreement to counsel appearing.
 - **Facts 228–231:** whether they are admitted. This is the cleanest single signal.
 - **The formula:** the falsifier.
+
+### E42 · Tuesday 20 October 2026: recalibration against the Appeal Guide's own base rate (Cory asked for the most rigorous pass)
+
+**What was missed.** E39's "≈70% no contested hearing" was built from case-specific signals without an explicit base
+rate. The Appeal Guide supplies one (§5.1, verified in `guide.txt`):
+
+> "No commercial settlement is possible at the conference. … Following the conference, the Respondent may decide to
+> review its position or consider conceding the appeal where new information is presented that they may not have yet
+> considered. Alternatively, you may wish to discontinue your appeal. The more likely outcome of a conference is that
+> parties will have a better understanding of the issues to be addressed at a hearing and the processes involved in a
+> hearing."
+
+**What the base rate means.**
+- **Generically,** a hearing is the more likely sequel to a second conference.
+- **The no-hearing outcomes include appellant discontinuances.** Those are excluded here (Cory never discontinues), so
+  the only no-hearing route is a Regulator concession.
+- **The Member "will also explain the hearing process",** and "it is not the Commission's role to provide advice about
+  how a party may conduct their case". Dwyer's talk of a hearing is therefore expected, and it is not diagnostic.
+
+**The case-specific evidence still moves the odds a long way up.**
+- 298 of 303 facts admitted, none denied.
+- The outlines concede the errors.
+- The review found the roster unreasonable and then counted rather than weighed.
+- ¶27 is empty, and there is no expert.
+- The process signals are cooperative (R36, R41, R42).
+
+**Against that:**
+- The SOFC's positive explanations are unwithdrawn (¶¶14(f), 16, 20, 22).
+- The appellant has no medico-legal causation evidence (WCR v Carr [2023] ICQ 1, ground 2), which gives the delegate a
+  rational defence path.
+
+**Recalibrated** (planning estimates; these replace E39's headline figures from today).
+
+| Outcome | Now | E39 |
+|---|---|---|
+| Regulator concedes (consent orders) before a contested hearing | ≈60% (55–65) | ≈70% |
+| … if the treating doctors' causation evidence is shown to be firm (attendance secured, attribution clear) | ≈75–80% | n/a |
+| … if it stays uncertain | ≈40–45% | n/a |
+| Contested hearing | ≈35–40% | ≈30% |
+| Appellant wins if heard | ≈70% (doctors attribute ≈85%; equivocal ≈50%) | ≈75% |
+| Appeal allowed either way | ≈85–88% | ≈92% |
+
+**The lever this exposes.** Guide 5.1's trigger is "new information … not yet considered". The appellant's medical
+evidence is the information most able to move the delegate: the doctors' attendance and, if they will give one, a
+short causation view in their own words. ⛔ Nothing is suggested to the doctors about content.
+
+**Score at:** the 30 Oct response (E41), the conference, and any review-of-position letter.
