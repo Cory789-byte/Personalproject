@@ -7767,3 +7767,19 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Correction:** median latency is unchanged (10 days, then 9). The speed-up is only in the last week.
 - **The 30 Oct reply becomes data point 24.** The first appearance of merits words, or of exit words, is the
   key feature.
+
+## 2026-10-20 (late): what isn't said
+- `analysis/2026-10-20_WHAT_ISNT_SAID.md`.
+- **Method:** a silence counts only if saying it would be normal, cheap and wanted by a fighting party.
+  Separate silence by role (Matheson; Guide 5.1 order) from silence by choice (Counsel and the delegate, in the
+  pleading, evidence and legal correspondence).
+- **Verified today:**
+  - **The 13 May SOFC** pleads "reasonable" or "not unreasonable" 9 times across stressors 1–2 and never for
+    stressor 3 (¶¶22–24: "human error", "not causative").
+  - **The 24 Sep outlines' only denial** targets the April labels ("erratic physical presence", "unassessed
+    unilateral directives"). Nothing on database access, the 15 Apr change, misdirected calls, the
+    directory, the 23-day fatigue response or fatigue risk management. "HR's advice" is relied on with no HR
+    witness.
+- **Also unsaid:** medical evidence, ¶27 particulars, opposition or time on the 9A, costs, a push for a
+  hearing, pushback on characterisations, and exit words.
+- Dwyer on 13 Oct did not mention items 2–7. They are open, not waived.
