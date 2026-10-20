@@ -1,0 +1,28 @@
+email                     contest  formula  apology   warmth soft_pro dated_pr  reserve legal_pe   merits     exit     give      ask    defer      lat     comp
+B01 2025-07-14 Cory             0        0        0        0        0        0        0      0.0        0        0        1        1        0                  
+B02 2026-02-12 Cory             0        0        0        1        0        0        0      0.0        0        0        1        0        0        0         
+B03 2026-02-17 Registry         0        0        1        1        0        0        0      0.0        0        0        0        1        0        0      549
+B04 2026-02-18 Cory             2        1        0        0        0        0        0      0.0        0        0        0        0        0        1         
+B05 2026-03-20 Cory             0        0        0        1        0        0        0      0.0        0        0        1        0        0                  
+B06 2026-06-11 Cory             0        0        0        0        0        0        0      0.0        0        0        1        0        0               455
+B07 2026-07-16 Cory             1        1        0        0        1        0        0      0.0        0        0        0        0        0       15         
+B08 2026-08-03 Cory             0        0        1        0        2        0        0      0.0        0        0        0        0        1       10         
+B09 2026-08-06 Registry         0        0        1        0        0        0        0      0.0        0        0        1        0        0               101
+B10 2026-08-14 Cory             0        0        1        0        0        0        0      0.0        0        0        1        0        0       21         
+B11 2026-08-14 Cory             1        1        0        0        1        0        0      0.0        0        0        0        0        0       14         
+B12 2026-09-08 Cory             0        0        0        0        0        0        0      0.0        0        0        1        0        0       11         
+L1 2026-09-08 letter            0        0        0        0        0        0        5      6.1        0        0        0        0        0       11         
+B13 2026-09-10 Cory             0        0        0        1        0        0        0      0.0        0        0        0        1        1        1         
+B14 2026-09-24 Cory             0        0        0        0        1        0        0      0.0        0        0        1        0        1       15       20
+B15 2026-09-24 Registry         0        0        0        0        0        0        1      0.0        0        0        1        0        0              5847
+B16 2026-10-07 Cory             0        0        0        0        2        0        0      0.0        0        0        0        0        1        0         
+B17 2026-10-12a Cory            0        0        0        0        0        0        0      0.0        0        0        1        0        0       18         
+S1 2026-10-12b Registry         0        0        0        1        0        0        0      2.7        0        0        1        1        1       11       10
+T1 2026-10-16 Cory              0        0        0        0        0        0        2      3.9        0        0        1        0        0        9         
+T2 2026-10-19 Cory              0        0        0        2        0        0        0      0.0        0        0        1        1        0        6         
+T3 2026-10-20a Registry         0        0        0        2        0        0        0      0.0        0        0        1        0        0      0.7         
+T4 2026-10-20b Cory             0        0        0        1        0        2        0      0.0        0        0        1        0        0      0.7         
+
+By phase (share of communications with the feature; latency median in days)
+  before admissions  n=11: contest 3/11, formula 3/11, apology 4/11, warmth 3/11, soft promise 3/11, dated promise 0/11, reservation 0/11, legal idiom 0/11, merits words 0/11, exit words 0/11, gives 6/11, defers 1/11; latency median 10 d (range 0-21)
+  after admissions   n=12: contest 0/12, formula 0/12, apology 0/12, warmth 5/12, soft promise 2/12, dated promise 1/12, reservation 3/12, legal idiom 3/12, merits words 0/12, exit words 0/12, gives 9/12, defers 4/12; latency median 9 d (range 0-18)

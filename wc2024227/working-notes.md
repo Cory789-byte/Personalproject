@@ -7754,3 +7754,16 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Withdrawn tells:** "respectfully requests" and "set down" are hers.
 - **The profile's misses lean one way:** slower and more legalistic than the Regulator has actually been.
   That is the phase change since the admissions.
+
+## 2026-10-20 (late): the Regulator's communications coded as data points
+- `analysis/2026-10-20_REGULATOR_COMMS_AS_DATA_POINTS.md`, with script, CSV and output in `analysis/stylometry/`.
+- **Data:** 23 communications (11 before 28 Aug, 12 after).
+- **Findings:**
+  - "defend" statements 3 then 0, and apologies 4 then 0 (together 7 then 0; p ≈ 0.001, grouping chosen
+    after looking);
+  - legal reservation 0 then 3;
+  - merits words 0 of 23 throughout;
+  - the position slot is now filled by reservation, deferral or a dated promise.
+- **Correction:** median latency is unchanged (10 days, then 9). The speed-up is only in the last week.
+- **The 30 Oct reply becomes data point 24.** The first appearance of merits words, or of exit words, is the
+  key feature.
