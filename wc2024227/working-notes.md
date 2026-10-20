@@ -7735,3 +7735,6 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
     the 7-hour break. RD 69983 called that roster "unreasonable management action".
   - ¶27 candidates are not management action, or are errors in their own outlines, or are the May sequence,
     which the treating records do not name.
+- **Added (late):** §9 of the position model, eleven construction giveaways, all quotes verified against the
+  emails and the 8 Sep cover letter PDF. The pattern since 8 Sep: give, reserve, defer. Never assert, deny,
+  explain, or restate the defence.

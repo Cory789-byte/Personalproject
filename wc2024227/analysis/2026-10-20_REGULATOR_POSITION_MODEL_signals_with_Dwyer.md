@@ -265,3 +265,32 @@ written down, by them:
 
 **Most likely reply:** honest on the cheap items, with the legal items deferred to the conference (shape A,
 about 45%). Deferral moves the bind into the conference; it does not remove it.
+
+## 9. The giveaways in how their emails are built (added 20 Oct, late; quotes verified against source)
+
+**Underlying message:** "We are not contesting what happened. We are managing how we leave, and keeping the
+record clean while we do."
+
+| # | Construction | The message under it |
+|---|---|---|
+| 1 | **The defend sentence vanished.** 16 Jul: "The Respondent's position remains to defend the appeal as outlined in our Statement of Facts and Contentions." 14 Aug: "The Regulator wishes to confirm that its position remains to defend…" and "As mentioned previously". The notices to admit followed on 28 Aug. The sentence has not appeared since 8 Sep, including to the Registry | The position no longer survives being written next to their admissions |
+| 2 | **Reasons stopped.** Feb 2026: a paragraph-by-paragraph response with reasons ("denies untrue the fact because the records show…"). 8 Sep: a two-word column and a lawyer's letter | They stopped arguing and started protecting |
+| 3 | **Verbs and vocabulary.** Since 8 Sep: "confirms", "agrees", "believes", "appreciate", "hope", "review and respond". Never "deny", "dispute", "maintain", "contend" or "defend". The only fighting verb is conditional and future: "reserves the right to object… at the hearing of this appeal". No October email mentions reasonableness, management action or s 32. The only rules cited are r 49 and s 552A | The merits have left their correspondence |
+| 4 | **The reservation travels with concessions and names what they fear** (8 Sep letter). It covers "any statement by a treating medical practitioner, any finding recorded in Review Decision 69983, or any statement made by an officer or employee of Metro South Hospital and Health Service", and adds: "Nothing in the enclosed responses is an admission that any finding in Review Decision 69983… is correct". It recurs only when something is given (8 Sep, 24 Sep, 16 Oct) | A party that is fighting denies; a party that is conceding reserves. They fenced off the doctors, their own review and their own witnesses' emails |
+| 5 | **"Veracity", then the fence goes back up** (moderate). 12 Oct: "The regulator confirms the veracity of the attached documents", with no reservation. 16 Oct: the 8 Sep reservation is re-attached | Matheson's own wording conceded more than the legal line, and the legal line was restored |
+| 6 | **Give first, then ask.** 12 Oct: documents at 8:30, then the Registry request at 9:21. 19 Oct: dates first. 20 Oct: the Registry at 9:44, then Cory at 9:48 | They bank credit with Dwyer before every request. Their conduct, not their case, is what they are protecting |
+| 7 | **Grammar that commits to nothing.** "The Regulator believes that the additional points 2 to 7… would be better placed to be discussed at the conference in lieu of ordered in directions, in the first instance." That is four hedges, and it names the thing feared: orders | Every door is kept open, and nothing goes on paper |
+| 8 | **The story repaired for Dwyer.** "Not contactable until 22 October 2026" (12 Oct), then "communicated with me while she finishes the last days of her leave" (19 Oct), then "Thankfully…" (20 Oct, to the Registry) | The constraint was a choice of timing, and they watch how the Commission reads them |
+| 9 | **A reframe that reopens the private channel.** Dwyer's "advise the Appellant" becomes "its direction for the parties to discuss dates" and "The parties have confirmed joint availability". The 19 Oct letter is not mentioned to the Registry | A direct line to the Appellant, out of the Commission's view, is where an exit is discussed |
+| 10 | **Commitments firm up as the record strengthens.** 3 Aug: "this week", 11 days late. 7 Oct: "as soon as possible, noting your requested timeframe". 20 Oct: "respond by Friday 30 October 2026 as requested" | "Noting" has become "as requested": they have accepted his timetable |
+| 11 | **Two hands.** 12 Oct, 9:21: a lawyer's phrasing ("in lieu of ordered in directions", "undertaking", "respectfully requests the Commission's consent") with clerical slips ("the correspondent of the Appellant", "Commissions consideration"). 8 Sep letter: another author in the metadata (read only) | Counsel and a delegate decide. Matheson's emails carry their decisions |
+
+**The pattern.** Give something cheap, reserve generically, and defer anything substantive. Never assert,
+deny, explain, or restate the defence.
+
+**What would break the pattern (watch on 30 Oct):**
+- the defend sentence returns;
+- a reason is given;
+- a fighting verb appears;
+- time or an expert is sought;
+- ¶27 is particularised.
