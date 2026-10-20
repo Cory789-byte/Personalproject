@@ -7783,3 +7783,20 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Also unsaid:** medical evidence, ¶27 particulars, opposition or time on the 9A, costs, a push for a
   hearing, pushback on characterisations, and exit words.
 - Dwyer on 13 Oct did not mention items 2–7. They are open, not waived.
+
+## 2026-10-20 (late): what Dwyer isn't saying
+- `analysis/2026-10-20_WHAT_DWYER_ISNT_SAYING.md`.
+- **Transcript searched today:**
+  - costs mentioned only for the Form 29 dispute ("a big sideshow");
+  - prospects, withdrawal, perception, expectation and the review decision: 0 (apart from reading Cory's list
+    aloud);
+  - "hearing" used as the default on 7 Aug;
+  - the crux named at 04:16: "how certain events or things… caused that, were significant contributors".
+  - **Correction:** the onus at 02:54 was stated plainly. The "contradict" qualification came at 15:28.
+- **13 Oct:**
+  - "notes", with no consent for their undertaking;
+  - items 2–7 not mentioned, so open and not waived;
+  - no leave, re-pleading or hearing timetable, compared with 7 Apr (leave the same day, 35 days to re-plead).
+- **Information limits:** Dwyer has not seen the outlines or the notices and responses (served, not filed).
+  He has only the 298/303 count from the 1 Oct letter. The 19 Oct letter went to Matheson only. The agenda
+  must inform him.
