@@ -222,3 +222,46 @@ repeated on 14 Aug.
 - It cannot force a concession: Counsel and the delegate decide.
 - The Guide gives them "de novo" on s 32(1).
 - s 552B was not addressed.
+
+## 8. Why an honest reply to the 19 Oct letter hurts them (added 20 Oct, late)
+
+**Principle.** Every question asks them to confirm their own record. The honest answers are already
+written down, by them:
+- the admissions;
+- the vouched documents;
+- Review Decision 69983;
+- their pleading;
+- their outlines.
+
+| Matter | Honest answer | What it does to them |
+|---|---|---|
+| 1. Facts 228–231 | Admitted. They vouched for the spreadsheet on 12 Oct, and the facts quote it | Emergency calls go on the record for the late shift of 17 Mar (19:16, 19:20, 21:16) and six for the 06:00–14:00 shift of 18 Mar. That is the shift after the 7-hour break, which RD 69983 called "unreasonable management action given that it was in direct contradiction to the award and the 8-hour agreement". SOFC ¶22(a) calls it "human error and not intentional or repeated". The admission turns a paperwork slip into safety-critical work on short rest. Withdrawing an r 49 admission needs leave (r 49(3)) |
+| 2. Tender | Agreed, with the reservation | Their managers' emails go in without a fight, and Taylor and Reese face them in the witness box |
+| 3. Objections | None to the core facts, which they admitted | No ambush left |
+| 4. s 32(1) | The review found it; there is no expert and no contrary medical evidence; Dwyer 04:07 says injury is "usually not so much in dispute". "De novo" is available, but there is nothing to put against it | The case is confined to s 32(5)(a) |
+| 5. Leave / time to amend | No prejudice: no new stressor, built on their admissions | An honest amended SOFC must drop what the admitted facts contradict. For example, pay "remedied in a timely manner" (SOFC [20(c)]) against facts 183–210 and 297: instruction 3 May; nothing corrected by 13 May; AVAC 28 May, "Part Completed" |
+| 6. ¶27 | Name the management action | See below |
+
+**Each ¶27 candidate is one of three kinds:**
+- not management action at all (database access, misdirected calls), so outside the exclusion;
+- management action their own outlines call a mistake ("human error"; "a rostering practice issue for the
+  line manager"; the leave decline "appears to have been made in error");
+- the May 2024 sequence, which is their best. But the treating records name roster and pay:
+  - GP, 1 Jul 2024: "they withhold pay at times… manipulate his roster";
+  - Dr Hawes to WorkCover, 2 Sep 2024: work events "the sole cause".
+
+**Why they cannot shade it.**
+- Dwyer (59:42): "They have responsibilities as a model litigant… they can't be sneaky or tricky."
+- He will put the same questions in person, and on his test (14:52–15:49) an answer that does not contradict
+  is likely to be accepted.
+
+**The three routes, and what each costs:**
+
+| Route | Where it leads |
+|---|---|
+| Honest yes | The case narrows to their weakest ground, and a hearing would be about their managers' mistakes. Concession becomes rational |
+| Evasion | Costs credibility with the conference Member; the questions return in the room |
+| Fight | Needs evidence they lack: an expert now needs leave, and ¶27 particulars their own witnesses contradict |
+
+**Most likely reply:** honest on the cheap items, with the legal items deferred to the conference (shape A,
+about 45%). Deferral moves the bind into the conference; it does not remove it.

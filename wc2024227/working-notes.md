@@ -7728,3 +7728,10 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
     the conference chosen.
   - **What the letter did:** "no" now costs more than "yes"; the decision is pulled forward to 30 Oct; the
     letter sets the agenda; it leaves a private runway.
+- **Added (late):** §8, why an honest reply hurts them.
+  - The six questions ask them to confirm their own record, so an honest answer confirms it and leaves only
+    s 32(5)(a).
+  - Facts 228–231 are verified as emergency calls in the 17 Mar late shift and the 18 Mar 06:00 shift after
+    the 7-hour break. RD 69983 called that roster "unreasonable management action".
+  - ¶27 candidates are not management action, or are errors in their own outlines, or are the May sequence,
+    which the treating records do not name.
