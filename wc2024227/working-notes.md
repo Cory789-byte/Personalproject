@@ -7800,3 +7800,19 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Information limits:** Dwyer has not seen the outlines or the notices and responses (served, not filed).
   He has only the 298/303 count from the 1 Oct letter. The 19 Oct letter went to Matheson only. The agenda
   must inform him.
+
+## 2026-10-20 (late): what Matheson isn't saying; understanding; the "difficult employee" question
+- `analysis/2026-10-20_WHAT_MATHESON_ISNT_SAYING_and_the_difficult_employee_question.md`.
+- **Data on her 23 emails:**
+  - 0 characterisations of Cory (the only "difficult" is the 12 Feb courtesy, "to save any difficulty to you");
+  - "the parties" in her own framing first on 19–20 Oct;
+  - "Respondent" as a self-label only in the oppositional emails (Feb and Jul rejections, 24 Sep list);
+  - no refusals since 8 Sep;
+  - asks limited to time and dates.
+- **Admitted facts re-verified:**
+  - Taylor: "I did raise my voice…" and "My sincere apologises… oversight";
+  - "a few rostering errors made by Chloe";
+  - Reese, 10 May: "Cory's roster will not be considered, however Cory is not yet aware";
+  - Reese, 21 May: "I will follow up on the issues raised", six days after the 15 May Code of conduct email.
+- **The surviving "difficult" episodes:** 6 Jun 2023 and 15 May 2024. They are limited, and the treating records
+  name roster and pay.
