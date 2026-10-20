@@ -7872,3 +7872,20 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - 19 Oct: both 0, with admission anchors up from 0.2 to 2.8 and disclaimers appearing from 9 Sep.
 - **The Regulator mirrored it:** "we will be defending" (Feb), the formula (Jul–Aug), reservations (Sep), "the
   parties" (Oct).
+
+## 2026-10-20 (late): the Regulator's posture, read deeply
+- `analysis/2026-10-20_REGULATOR_POSTURE_deep.md`.
+- **Verified from the rendered Form 29s:**
+  - 4 Jul 2025 to Qld Health payroll (K Wright): original and **amended payslips "including date of amendment"**,
+    the **complete 8-hour agreement of ~17/06/2020**, and payroll emails from 8 Apr to 1 Jul 2024;
+  - 27 Apr 2026: the leave form with **"screenshot(s) of the request progression over time"**;
+  - both list s 32(5)(b) perception as a matter in issue.
+- **13 May SOFC:**
+  - ¶14(e) "a review indicates that in fact, the attachments were present";
+  - ¶14(f) "human error by Ms Taylor";
+  - ¶22(a) "human error", and "not causative".
+- **Posture:** a repeat-player verifier (it tests the employer's paper and concedes where it fails), now in
+  managed retreat.
+- **Its built defence:** "mistakes aren't unreasonable management, and didn't cause the injury", plus causation by
+  stressor through cross-examination.
+- **Flip risks:** widening, thin medical evidence, a neutral private view from Dwyer.
