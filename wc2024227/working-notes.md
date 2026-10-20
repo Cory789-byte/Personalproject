@@ -7833,3 +7833,16 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - the doctors' availability;
   - fix the flagged overstatements after re-verifying them;
   - the exit protocol if offered.
+
+## 2026-10-20 (late): the 9A as storytelling
+- `analysis/2026-10-20_9A_AS_STORYTELLING_assessment.md`.
+- **Read:** the as-sent copy, from the other branch. Its MD5 differs from FOR_SUBMISSION/…CORRECTED on this
+  branch.
+- **Verdict:** good storytelling of the right kind (dates, intervals, their words; chronology, not motive).
+- **Costs:** length, three verified slips, and Q6.
+- **The slips:**
+  1. "awake and working for about sixteen hours";
+  2. "14:38 on the shift of 18 March";
+  3. C7 cites *Carr* [2022] QIRC 59 "as applied", although it was set aside in *WCR v Carr* [2023] ICQ 1
+     (10 Jan 2023).
+- **Q6** (s 32(5)(b) as a question) is a judgement call to drop. 5B answers it.
