@@ -150,3 +150,75 @@ repeated on 14 Aug.
    ⛔ Nothing is suggested to them about content.
 3. **Let them have the face-saving frame.** The goal is acceptance by consent orders. Release the
    compensation claim only.
+
+## 7. How the Appellant got here, and what the 19 Oct letter did (added 20 Oct, late)
+
+### The mechanism, in order
+
+1. **From argument to agreement.**
+   - **The February notice** mixed facts with conclusions. The Regulator admitted the plain facts and denied
+     or refused the rest. A denial brought the 2020 eight-hour agreement into the case (ledger, class 4).
+   - **The 28 Aug notices** applied Dwyer's 7 Aug rule (contradict, or it is likely accepted; existence is
+     not the fight). They put 303 existence facts and no characterisation.
+   - **Result, 8 Sep:** 298 admitted, 0 denied, answered on his own line ("existence and wording"). The
+     defend line (16 Jul, 14 Aug) has not appeared since.
+2. **The escape hatch closed.** The 9 Sep letter answered the 8 Sep reservation:
+   - documents that are themselves the act (a roster as published, a directive as issued) are relied on as
+     the act;
+   - their authors will be called for anything more;
+   - no inference beyond the fact admitted.
+
+   The only open question became the **reasons for the acts** (s 32(5)(a)), which only Taylor and Reese can
+   supply.
+3. **They could not fill it.** The 24 Sep outlines named Taylor and Reese but called the core events "human
+   error" and a "rostering practice issue". There was no expert.
+4. **The documents were pressed without a fight:**
+   - a costless r 49 option;
+   - Dwyer's process quoted.
+
+   Result: 4 conceded on 24 Sep, 9 vouched for on 12 Oct, Tab 32 on 16 Oct. That makes 38 of 39.
+5. **The pleading was rebuilt on their admissions.** Every fact carries an admitted paragraph, and the
+   labels Dwyer could not follow are gone. Nothing is left to plead against, so no time has been sought.
+6. **The conference was chosen, not a hearing (direction 5).** It gives the Guide 5.1 off-ramp, a way out
+   that does not say "we got it wrong", with the hearing kept as the consequence.
+7. **Throughout:**
+   - written, early and courteous;
+   - a date and a consequence on every ask;
+   - no motive, no "fraud", no perception words.
+
+### Costs and open flanks
+
+- **The February notice and the 7 Aug labels.** Dwyer could not follow "filters", "unassessed" or
+  "disposition of items", and at 29:52 said "I'm concerned at the direction this is going in". Both are
+  fixed.
+- **The 9A's length** (30 pp, against "keep it short") and the small overstatements the mock brief lists:
+  - the *Carr* citation "as applied";
+  - the 14:38 entry;
+  - "sixteen hours".
+
+  Fix these in any completed version.
+- **Medical causation by stressor** remains the open flank.
+
+### What the 19 Oct letter did to them
+
+1. **It ended "nothing in writing".** On 12 Oct the open items were parked "in lieu of ordered in
+   directions". The letter made silence lead to the orders they had asked Dwyer not to make. They undertook
+   to answer the next morning, by his date, and dropped his "where practicable".
+2. **It made "no" cost more than "yes" on every item:**
+   - 228–231: their own vouched spreadsheet;
+   - tender: the letter says yes concedes neither truth nor reasonableness;
+   - objections: name them now or appear to save them;
+   - s 32(1): their own review's finding;
+   - leave and amendment time: they must show whether they will re-plead;
+   - ¶27: fact 303 says it names no management action.
+3. **It pulled their decision forward.** Counsel returns on 22 Oct and must settle a merits answer by
+   30 Oct, before the conference.
+4. **It set the conference agenda.** What is not agreed becomes Dwyer's list.
+5. **It kept the climb-down private.** It went to Matheson only. Dwyer does not see the six matters until
+   the conference.
+6. **It made the Appellant the cooperative party on the record:** dates first, no delay, reasons given.
+
+**Limits.**
+- It cannot force a concession: Counsel and the delegate decide.
+- The Guide gives them "de novo" on s 32(1).
+- s 552B was not addressed.

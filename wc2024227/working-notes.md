@@ -7721,3 +7721,10 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
     the medical evidence first; model-litigant optics; the narrow-fight option kept as insurance.
 - **Weights:** exit-seeking about 60%, narrow defence about 30%, full defence about 10%. Concession 55–65%
   (unchanged).
+- **Added (late):** §7 of the position model covers how the Appellant got here and what the 19 Oct letter
+  did to them.
+  - **How:** February notice to August notices (0 denials); the 9 Sep letter left the reservation nothing
+    to bite on; their outlines could not fill the reasons gap; the pleading rebuilt on their admissions;
+    the conference chosen.
+  - **What the letter did:** "no" now costs more than "yes"; the decision is pulled forward to 30 Oct; the
+    letter sets the agenda; it leaves a private runway.
