@@ -7889,3 +7889,18 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Its built defence:** "mistakes aren't unreasonable management, and didn't cause the injury", plus causation by
   stressor through cross-examination.
 - **Flip risks:** widening, thin medical evidence, a neutral private view from Dwyer.
+
+## 2026-10-20 (late): how they are defending; do they accept the claim's strength
+- `analysis/2026-10-20_HOW_THEY_ARE_DEFENDING_and_do_they_accept_its_strength.md`.
+- **The defence is RD 69983's structure:**
+  - factor 2 (response to the complaint, May 2024) reasonable: their main ground (Reese, Taylor);
+  - factor 3 (pay) reasonable: largely collapsed on admitted facts;
+  - factor 4 (roster) unreasonable: now "one incident" and "not causative".
+- **Added on appeal without evidence:** prior history (¶8) and the perception frame. The medical card is
+  cross-examining the doctors.
+- **Answer:**
+  - they accept the facts are formidable (conceded);
+  - not the claim (two legal lines held);
+  - spending shows Counsel for process and no expert to win, an inferred internal view of about 25–35% at hearing.
+- **The plan depends on:** the "difficult employee" frame for May 2024, and a weak medical link.
+- Their outlines are keyed to the April pleading.
