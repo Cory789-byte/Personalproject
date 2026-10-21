@@ -7904,3 +7904,31 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - spending shows Counsel for process and no expert to win, an inferred internal view of about 25–35% at hearing.
 - **The plan depends on:** the "difficult employee" frame for May 2024, and a weak medical link.
 - Their outlines are keyed to the April pleading.
+
+## 2026-10-21: how the Regulator reacts to each step and counter (whole Gmail record)
+- `analysis/2026-10-20_ACTION_REACTION_from_Gmail.md`; dataset `analysis/action_reaction/pairs.py` (37 pairs;
+  `pairs.csv`, `pairs_output.txt`).
+- **Sources:** four readings of 60 appeal threads (about 123 originals, Nov 2024 to 20 Oct 2026). Attachment
+  contents come from repo copies, because the Gmail connector cannot open attachments.
+- **Verified from source today:**
+  - the 11 Feb 2025 refusal (Gmail): "continue to the defend", the post-injury cut-off, "alleged injury";
+  - the 17 Dec 2024 "not at all costs… may decide to concede" (quoted verbatim in Cory's 14 Jul 2025 email,
+    exhibit to the 26 Feb 2026 affidavit p 15);
+  - the 3 Aug and 14 Aug (10:28, 13:29) emails;
+  - the 8 Sep cover letter, which is silent on filing and signed "Appeals Officer, Appeals Unit";
+  - the 13 May 2026 pleading **still seeks the costs of the hearing**;
+  - the five facts not admitted: 154 (Communication Book) and 228–231 (Tab 31).
+- **The reaction rules:**
+  - offers: 4 of 4 refused, with no counter or conferral;
+  - pressure: 0 concessions from 5;
+  - rule-based notices: answered in time;
+  - document requests: 3 of 3 delivered (median about 18 days);
+  - legal questions: 0 of 7 answered on the substance (5 silent, 1 deferred, 1 now undertaken for 30 Oct);
+  - dates and process: fast and reciprocal.
+- **Pleadings trigger records checks before pleading:** the 4 Jul 2025 and 27 Apr 2026 notices to payroll.
+- **Phases:** Feb–Mar 2026, 8 steps, 0 concessions, 3 refusals; Aug–Oct 2026, 14 steps, 7 concessions or
+  commitments, 0 refusals.
+- **The 10 Aug withdrawal** turned the Regulator into the channel to MSH: documents requested 24 Sep, vouched
+  12 Oct.
+- **Their stated channel for change:** "Should our position change at any point, we will advise you" (16 Jul).
+  Do not send an offer; keep feeding "new information".

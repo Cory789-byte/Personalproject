@@ -1,0 +1,45 @@
+37 pairs
+
+REACTION TYPE BY STEP TYPE
+  OFFER   n= 4  REFUSE 4
+  PRESS   n= 5  REFUSE 2, SILENCE 2, ACCOMMODATE 1
+  NOTICE  n= 2  RESERVE 1, CONCEDE 1
+  DOCREQ  n= 4  CONCEDE 3, COMPLY 1
+  LAWQ    n= 7  SILENCE 5, DEFER 1, COMMIT 1
+  PROC    n= 7  COMPLY 2, RESERVE 1, ACCOMMODATE 1, CONCEDE 1, SILENCE 1, DEFER 1
+  NARROW  n= 2  ACCOMMODATE 1, SILENCE 1
+  FILE    n= 6  INVESTIGATE 2, SILENCE 2, CONCEDE 1, RESERVE 1
+
+LATENCY OF ANSWERED STEPS (median, range), by step type
+  OFFER   answered 4 (exact times)  median 9.4 d  range 22.9 h to 15.2 d  unanswered 0
+  PRESS   answered 3 (exact times)  median 18.7 h  range 18.2 h to 27.6 h  unanswered 2
+  NOTICE  answered 2 (exact times)  median 8.9 d  range 6.9 d to 10.9 d  unanswered 0
+  DOCREQ  answered 4 (exact times)  median 17.8 d  range 9.3 d to 32.8 d  unanswered 0
+  LAWQ    answered 3 (exact times)  median 17.7 h  range 11.0 h to 10.7 d  unanswered 4
+  PROC    answered 5 (exact times)  median 5.9 d  range 0.3 h to 13.7 d  unanswered 1
+  NARROW  answered 1 (exact times)  median 3.0 h  range 3.0 h to 3.0 h  unanswered 1
+  FILE    answered 2 (exact times)  median 20.1 d  range 5.1 d to 35.0 d  unanswered 2
+
+SETTLEMENT LATENCY SERIES
+  2025-02-06     4.7 d  'continue to defend'; post-injury events 'cannot be considered causati
+  2026-02-18    22.9 h  'does not accept your offer, and we will be defending the appeal'
+  2026-07-01    15.2 d  'position remains to defend… Should our position change at any point, 
+  2026-07-31    14.1 d  'position remains to defend… As mentioned previously…'
+
+SILENCES (no reply at all)
+  P06 2025-07-14 [LAWQ] Conditional consent to their extension; four questions incl. whether 'not at all
+  P12 2026-02-12 [PRESS] 'Service & Carriage' to Matheson: asks her to suspend action on the file
+  P15 2026-02-25 [PRESS] Supplementary Form 4: findings, referrals, strike-out, removal of representative
+  P19 2026-04-22 [FILE] Form 29 to MSH served (Regulator served as Affected Party 1)
+  P20 2026-06-12 [FILE] Rule 64G application (rejected for format, refiled 23 Jun)
+  P24 2026-08-10 [NARROW] Withdraws the 64G application and does not press the Form 29
+  P25 2026-08-12 [PROC] Stressor 1(a) bundle (30 pp) under the duty of disclosure
+  P26 2026-08-14 [LAWQ] Part 2 privilege schedule; post-injury categories; questions on Review Decision 
+  P29 2026-09-07 [LAWQ] Challenges their 'should also be filed' point with rule 49's words
+  P30b 2026-09-09 [LAWQ] Same letters: the five facts not admitted (154, 228-231); any objection to deliv
+
+BY PHASE: share of steps that drew a concession or commitment
+  0 2024-25        steps  8  concede/comply/commit  2  refuse  1  silence  2
+  1 Feb-Mar 2026   steps  8  concede/comply/commit  0  refuse  3  silence  2
+  2 Apr-Jul 2026   steps  7  concede/comply/commit  1  refuse  2  silence  2
+  3 Aug-Oct 2026   steps 14  concede/comply/commit  7  refuse  0  silence  5
