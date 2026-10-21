@@ -27,13 +27,20 @@ four places: how she treats him, what she asks, what she refuses, and how she fr
 4. **She asks for nothing that builds a case against him.**
    - Nothing sought: medical records, an IME, particulars, witness details.
    - Her only asks since September: time (10 Sep) and dates (19 Oct).
-5. **7 Aug mention.** She spoke 67 words in 64 minutes. She did not contradict him and did not state the
-   Regulator's case. After Dwyer described the model-litigant duty ("they can't be sneaky or tricky"), he asked
-   "Have I misrepresented your role in the matter or placed a burden on you that you're not prepared to
-   accept?" She answered "No."
+5. **7 Aug mention.** She spoke about 70 words in 64 minutes (69 as transcribed after amendment A3). She did not
+   contradict him and did not state the Regulator's case. After Dwyer described the model-litigant duty ("they
+   can't be sneaky or tricky"), he asked "Have I misrepresented your role in the matter or placed a burden on
+   you that you're not prepared to accept?"
+   - ⛔ **Corrected 21 Oct:** the audible "No." that follows has the Appellant's voice profile (126 Hz, 62 dB,
+     near the microphone), not hers (151–174 Hz, 39–56 dB).
+   - She gave no audible answer. The description was neither accepted nor disputed by her on the record.
+   - See `2026-10-21_FORENSIC_READING_what_their_words_do_and_mean.md` §4.
 6. **Her labels.**
-   - **"The parties"** appears in her own framing for the first time on 19–20 Oct: "its direction for the
+   - **"The parties" as a joint actor** appears for the first time on 19–20 Oct: "its direction for the
      parties", "The parties have confirmed joint availability", "The parties hope".
+   - ⛔ **Corrected 21 Oct:** the word itself is not new. She used it in Jan 2025 ("These lists enable the
+     parties to confirm…") and on 28 Aug 2026 ("The parties should call witnesses…"), but always as the subject
+     of a rule, never as a joint actor.
    - **"The Respondent"** as a self-label sits where they oppose him: the Feb and Jul rejections and the
      24 Sep witness list. Since then it appears once ("the Respondent's Counsel").
 

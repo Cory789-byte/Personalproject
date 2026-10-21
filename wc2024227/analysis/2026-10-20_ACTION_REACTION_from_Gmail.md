@@ -277,7 +277,7 @@ and by silence on 14 Aug 2026.
 
 | Date | Your step | Reaction | Time | Type |
 |---|---|---|---|---|
-| 7 Aug | Mention on the 64G | Matheson alone; 67 words; "No" to Dwyer's question whether he had placed a burden on her she would not accept | — | Neutral |
+| 7 Aug | Mention on the 64G | Matheson alone; about 70 words; no audible answer when Dwyer asked whether he had placed a burden on her she would not accept (corrected 21 Oct: the "No" on the audio has your voice profile) | — | Neutral |
 | 10 Aug | Withdraws the 64G; does not press the Form 29 | No acknowledgement; the Commission's FDO(3) is made "FURTHER TO" it | — | Silence (role) |
 | 12 Aug | Stressor 1(a) bundle | No reply | — | Silence (role) |
 | 14 Aug | Part 2; post-injury categories; Review Decision 69983's properties | No reply on any point | 67 days | Silence (see section 6) |

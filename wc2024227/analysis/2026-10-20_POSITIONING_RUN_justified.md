@@ -74,7 +74,8 @@ the room and room for the Regulator to climb down.
 - no refusals since 8 Sep;
 - asks limited to time and dates;
 - "the parties" appears from 19 Oct;
-- "No" to Dwyer's question about the burden (61:37);
+- no audible answer to Dwyer's question about the burden (61:37). ⛔ Corrected 21 Oct: the "No" on the audio
+  has the Appellant's voice profile, not hers;
 - decision emails prepared in advance (10 s and 20 s compose), with legal idiom she never uses in the 12 Oct
   strategy sentences;
 - "respond by Friday 30 October 2026 as requested".

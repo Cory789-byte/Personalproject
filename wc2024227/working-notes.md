@@ -7932,3 +7932,44 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   12 Oct.
 - **Their stated channel for change:** "Should our position change at any point, we will advise you" (16 Jul).
   Do not send an offer; keep feeding "new information".
+
+## 2026-10-21: forensic reading of the Regulator's words (what each statement does and means)
+- `analysis/2026-10-21_FORENSIC_READING_what_their_words_do_and_mean.md`; counts in
+  `analysis/forensic/regulator_forensic.py` (37 texts verbatim, Dec 2024 to 20 Oct 2026; output alongside).
+- **Read from the originals today:**
+  - Gmail: 2 Dec 2024, 4 Dec 2024, 17 Dec 2024, 16 Jan 2025, 20 Aug 2025 (both), 12 Feb 2026, 20 Mar 2026,
+    28 Aug 2026 and 7 Sep 2026;
+  - the other branch: 16, 19 and 20 Oct;
+  - the 7 Aug transcript turns;
+  - both pleadings.
+- **Findings:**
+  - the 17 Dec 2024 decision rule (concede only on "new information", by their own decision);
+  - the grammar shift from action ("we will be defending", Feb 2026) to position to contingency ("Should our
+    position change", Jul 2026);
+  - 0 "we/our/us" and 0 defend words in 13 texts since Sep;
+  - concessions never have a named actor ("a review indicates that in fact"; "upon further review…
+    is able to confirm");
+  - 6 apologies, all for process, none since 14 Aug;
+  - the one pre-Oct dated promise ("this week", 3 Aug) was missed by a week;
+  - "noting your requested timeframe" (7 Oct) changed to "respond by… as requested" (20 Oct);
+  - Dwyer's instruction to the Regulator was retold as a direction to "the parties" (19 and 20 Oct);
+  - "Mr Shepherd" throughout 2026; first name last used 20 Aug 2025.
+- **Pleadings:**
+  - 2026 ¶27 says "the Plaintiff" (the only use in 65 "appellant"s; the 2025 version said "the appellant"),
+    so it was re-cut from another template;
+  - 2025 ¶31 "does admit… human error" became 2026 ¶22 "does not admit… human error" around the same words (the
+    2026 stressor is broader);
+  - reasonableness gradient: "reasonable in all respects", then "not unreasonable" (¶14(g) leave), then
+    nothing (¶22 roster);
+  - injury both put to proof (¶6) and presupposed (¶22(f) "the appellant's injury");
+  - costs sought in both.
+- **28 Aug:** they thanked Cory for the "forthcoming expert report" only. No expert report has been served
+  since (9 Sep lay outlines and the M1–M9 schedule; 1 Oct "unchanged").
+- **7 Sep:** "only sent to myself… should also be filed". The 8 Sep response was then served only, while in Feb
+  they had filed theirs. So the 298 admissions are not on the Commission's file. Put them in the agenda.
+- **24 Sep:** Tab 20 (MSH's 5 Jun letter to Dwyer, on which Matheson was cc'd) was disputed on 8 Sep and
+  confirmed "upon further review of the appeal file". So the 14 disputes were a default.
+- **⛔ Corrections:**
+  - the 61:37 "No" has Cory's voice profile (126 Hz, 62 dB), not Matheson's; fixed in three 20 Oct files;
+  - "the parties" is not new on 19 Oct (Jan 2025, Aug 2026), but as a joint actor it is new;
+  - her mention word count is about 70, not 67.
