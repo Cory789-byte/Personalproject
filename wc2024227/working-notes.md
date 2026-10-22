@@ -8088,3 +8088,20 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - window Feb–Apr 2027;
   - 148 days from 21 Jan to the June 2027 limitation, so legal advice is more urgent.
 - **Scored:** 3 Dec about 70% was wrong.
+
+## 2026-10-23: Cory's 9:19 am email to the Registry (cc Matheson): availability, 19 Oct letter, proposed directions
+- **Record:** `documents/sent-2026-10-23/…_AS_SENT.txt`.
+- **Assessment:** `analysis/2026-10-23_ASSESSMENT_Cory_23Oct_email_to_Registry.md`.
+- **Good:**
+  - availability for 3 Dec on record, so the 2027 delay sits with their Counsel;
+  - the 19 Oct letter and the 30 Oct undertaking are now before Dwyer (the admissions were not on his file);
+  - raises the stakes of the 30 Oct answer;
+  - legally open (s 552A conference discretionary).
+- **Risk:**
+  - sent 40 minutes after Matheson's private "most, if not all" line, it bypasses her joint process;
+  - proposes no conference and directions, against their 12 Oct preference;
+  - the conference is their natural concession trigger.
+  - Net about neutral.
+- **Next:** one short reply to Matheson only (draft in the file): both dates suit, prefer 21 Jan, agree to resolve
+  points before the conference, content with whichever course the Commission prefers. Then nothing more to the
+  Registry.
