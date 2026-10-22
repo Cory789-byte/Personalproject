@@ -8038,3 +8038,17 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Use:** let questions 1 and 4 (19 Oct) do it. If s 32(1) is not agreed, add a neutral agenda line, the same
   question at the conference, and seek a direction to serve any contrary medical evidence by a date.
   - ⛔ Never allege a breach in writing.
+
+## 2026-10-22: could the 30 Oct reply settle the appeal?
+- `analysis/2026-10-22_CAN_THE_30OCT_REPLY_SETTLE_THE_APPEAL.md`.
+- The six matters ask for positions, not a concession. The letter itself conceding: about 5%.
+- **Question 4 is the hinge.** RD 69983's Conclusion (p 26, read today) says the injury "arose out of employment,
+  to the extent that it arose out of factors 2, 3 and 4", and "factor 4 amounted to unreasonable management
+  action".
+  - A clean "yes" (about 10%) accepts the roster as part of the cause, against their ¶22(f), and leaves only the
+    counting method. Concession about 85%.
+  - Partial yes (injury only) about 20%, giving about 65–70%.
+  - Deferred about 50%, giving about 58%.
+  - Refused about 20%, giving 35–40%.
+- **The letter as turning point:** about 20–25%.
+- **Before 30 Oct, send nothing.** Responses by shape are in the file.
