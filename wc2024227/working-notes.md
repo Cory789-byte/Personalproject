@@ -8019,3 +8019,22 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - agenda about two weeks before;
   - at the conference, seek hearing directions with early-2027 dates if there is no movement;
   - doctors' availability.
+
+## 2026-10-22: "known to be true": the model-litigant duty, verified
+- **Text verified from the DoJ page** (Cabinet directions, revised as at 4 Oct 2010; the PDF download returned
+  HTTP 202 empty):
+  - "not contesting matters which it accepts as correct, in particular by: not requiring a party to prove a
+    matter which the State knows to be true";
+  - also "dealing with claims promptly and not causing unnecessary delay", "keeping the costs of litigation to a
+    minimum", and "not seeking to take advantage of an impecunious opponent";
+  - firmness: "appropriately testing all claims";
+  - "not intended to be applied rigidly" (and Guide Part 11 p 38).
+  - Saved: `documents/instruments/QLD_MODEL_LITIGANT_PRINCIPLES_rev2010_VERIFIED_TEXT.md`.
+- **RD 69983 read** ("in the absence of evidence to the contrary"): it found injury, arising out of employment,
+  and employment a significant contributing factor. The 13 May pleading ¶6 puts all three to proof. The
+  Regulator has no contrary medical evidence.
+  - This is the clearest application of the principle, alongside facts 228–231 (Tab 31, vouched 12 Oct).
+- `analysis/2026-10-22_KNOWN_TO_BE_TRUE_what_they_should_not_make_you_prove.md`.
+- **Use:** let questions 1 and 4 (19 Oct) do it. If s 32(1) is not agreed, add a neutral agenda line, the same
+  question at the conference, and seek a direction to serve any contrary medical evidence by a date.
+  - ⛔ Never allege a breach in writing.

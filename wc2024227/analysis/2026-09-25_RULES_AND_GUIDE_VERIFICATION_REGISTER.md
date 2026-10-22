@@ -56,4 +56,4 @@ legislation.qld.gov.au on 25 Sep 2026.
 ## Not verified
 
 - No published QIRC WC appeal decided under r 44 was found.
-- The Model Litigant Principles themselves (DoJ document) were not re-read in this check.
+- The Model Litigant Principles themselves (DoJ document) were not re-read in this check. ✅ Read 22 Oct 2026 from the DoJ page: `documents/instruments/QLD_MODEL_LITIGANT_PRINCIPLES_rev2010_VERIFIED_TEXT.md`.
