@@ -138,3 +138,66 @@ Her refusals always name the Regulator or the Respondent. Her concessions never 
 
 **Scored:** "3 Dec about 70% (depends on Counsel)" was **wrong**. "A slip into 2027 would sit on their side" was
 **right**.
+
+## 6. Closer reading: "most, if not all, can be resolved before the conference"
+
+> "Although the conference will need to be set in 2027, I hope we can continue communicating any points of issue in
+> the hopes that most, if not all, can be resolved before the conference."
+
+**Counted across 38 verbatim Regulator texts, Dec 2024 to 23 Oct 2026:**
+
+| Word | Uses |
+|---|---|
+| "resolved" | **once: this email** |
+| "resolution", "settle" | never |
+| "agree" | 12 Oct (the conference; "jointly agree" on dates) and the 8 Sep letter ("not… a concession, waiver or agreement") |
+| "hope" | her habitual softener: Aug 2025; 19 Oct ("in the hopes that one of the dates will suit the Commission"); 20 Oct; twice here |
+
+So the hedging is style and carries low weight. **The word "resolved" is new.**
+
+**Part by part:**
+
+| Phrase | What it does |
+|---|---|
+| "Although the conference will need to be set in 2027" | Presents the delay as a necessity, not a choice ("will need to be"). It sits right after "Counsel… is not available" |
+| "continue communicating" | Treats the written exchange (your 19 Oct letter, their 30 Oct answer) as already under way, and as the vehicle |
+| "any points of issue" | Most naturally your six matters and the 1 Oct items: what is on the table, not the appeal as a whole |
+| "most, if not all" | Expects a majority to be settled, and leaves room for every one |
+| "can be resolved" | Passive, with no named actor: the same pattern as all their concessions ("upon further review…", "confirms the veracity") |
+| "before the conference" | **Moves the forum.** On 12 Oct these points were "better placed to be discussed at the conference". Now they are to be settled in writing first |
+
+**What she most likely means** (judgement; the readings overlap):
+
+1. **Narrowing (about 55%).** "We expect to agree most of what you asked in writing: facts 228–231, tender,
+   objections, probably leave, possibly s 32(1). The conference then deals only with what is left (s 32(5))."
+2. **Face-saving (about 25%).** A cooperative line to cover a delay caused by their Counsel, in keeping with the
+   model-litigant duties ("dealing with claims promptly", "limit the scope of legal proceedings"), with little
+   substance behind it.
+3. **A signal that full resolution is contemplated (about 20%).** "If not all" is how an officer without authority
+   leaves the outer possibility open.
+   - If every point were agreed, including s 32(1) "to that extent", only the s 32(5) weighing would remain, on
+     ground their own review found unreasonable.
+   - Settling that too would be a concession.
+   - She would be unlikely to write "if not all" if Counsel, back from leave and holding your letter, had signalled
+     a fight on everything (inference).
+
+**What it is not:**
+- an offer;
+- a concession;
+- authorised ("I hope" is her voice, not "the Regulator");
+- a statement that the appeal should be allowed.
+
+**What it says about their position:**
+- **The direction of travel has turned.** Aug: "position remains to defend". Oct: "most, if not all, can be
+  resolved".
+- **They are in a narrowing process,** with the decision on the appeal itself still with Counsel and the delegate.
+- **Both sides now speak of "resolving".** Your 9:19 email: "If the Respondent's response substantially resolves
+  those matters…". Your 9:31 reply: "would welcome resolving as many points as we can".
+
+**How the 30 Oct letter will test it:**
+
+| What the letter does | Which reading it supports |
+|---|---|
+| Agrees most points | Reading 1 |
+| Says question 4 is "not in issue" (a clean yes) | Reading 3 |
+| Defers everything to the conference | Reading 2 |

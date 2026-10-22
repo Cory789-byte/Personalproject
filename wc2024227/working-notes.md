@@ -8130,3 +8130,15 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Their most defensible 30 Oct line on question 4 is a partial yes** (injury, not the roster's contribution).
 - **The swing variable is the treating doctors attending and linking the roster, the fatigue response and pay.**
   Win if heard: about 80% with them, about 50–55% on records alone, about 70% now.
+
+## 2026-10-23: what she meant by "most, if not all, can be resolved before the conference"
+- **"Resolved" appears once in 38 Regulator texts (Dec 2024 to now): this email.** "Resolution" and "settle" never
+  appear. "Hope" is her habitual softener.
+- **The forum moves:** 12 Oct "better placed to be discussed at the conference"; 23 Oct "resolved before the
+  conference".
+- **Readings:**
+  - narrowing, most of the six matters agreed in writing (about 55%);
+  - face-saving after their Counsel's delay (about 25%);
+  - signal that full resolution is contemplated (about 20%).
+- **Not** an offer, a concession, or authorised.
+- **The test is the 30 Oct letter.** Added as §6 of `analysis/2026-10-23_MATHESON_DECODED_literal_vs_actual_meaning.md`.
