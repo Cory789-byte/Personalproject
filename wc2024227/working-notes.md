@@ -7973,3 +7973,21 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - the 61:37 "No" has Cory's voice profile (126 Hz, 62 dB), not Matheson's; fixed in three 20 Oct files;
   - "the parties" is not new on 19 Oct (Jan 2025, Aug 2026), but as a joint actor it is new;
   - her mention word count is about 70, not 67.
+
+## 2026-10-22: Gmail check. Dwyer's only 2026 date is Thu 3 Dec 2026 (afternoon)
+- **Registry for Dwyer IC, 22 Oct 12:15 AEST, to Matheson and Cory:** notes the joint dates. Thu 3 Dec 2026 PM is
+  "currently the only remaining availability for the Commissioner in 2026"; the parties are to advise whether it
+  suits.
+- **Record:** `documents/correspondence-2026/2026-10-22_1214_Registry_for_Dwyer_IC_only_2026_date_Thu_3Dec_PM.txt`.
+- **No reply yet** from Matheson or Cory in the forwarded copies (about 17:30 AEST). Nothing else matter-related in
+  Gmail since 20 Oct.
+- **Scored:** "2/5/6 Nov about 80%" was wrong. The constraint was Dwyer's diary, which I had not modelled.
+- **Re-timed:**
+  - 3 Dec listing about 70% (depends on Counsel);
+  - 30 Oct answer about 80%;
+  - concession before a contested hearing 55–65% unchanged, but by Christmas falls to about 15–20%; window mid-Dec
+    to Feb 2027.
+- **Next:**
+  - Cory to confirm 3 Dec PM by a one-line email to the Registry, cc Matheson (draft given in chat);
+  - agenda after 30 Oct, about two weeks before 3 Dec;
+  - doctors' availability.

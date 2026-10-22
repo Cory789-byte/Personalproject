@@ -243,3 +243,45 @@ understanding whether any elements of s 32 of the Act can be agreed".
   - `skill/references/REGULATOR-SIGNALS-the-full-data-set.md`;
   - `skill/references/MOCK-COUNSEL-BRIEF-FOR-THE-REGULATOR-19OCT2026.md`.
 - **Prior thesis (this branch):** `analysis/2026-10-13_MOST_LIKELY_THESIS_regulator_position.md`.
+
+## Addendum, 22 Oct 2026: Dwyer's only 2026 date is Thursday 3 December (afternoon)
+
+**Data point 10.** Thu 22 Oct, 12:15 AEST, from the Registry on behalf of Dwyer's chambers, to Matheson and Cory:
+> "Industrial Commissioner Dwyer notes the proposed dates of joint availability for a section 552A conference.
+> Please be advised that Thursday, 3 December 2026 (in the afternoon) is currently the only remaining
+> availability for the Commissioner in 2026. Parties are requested to advise whether this date and time would be
+> suitable."
+
+**What it says and does:**
+- None of 2, 5 or 6 Nov works. The constraint is the Commissioner's diary, not the parties.
+- "Currently" means the slot can be lost if it is not taken up promptly.
+- "Dear Parties" and "joint availability" adopt the Regulator's own joint framing of 20 Oct.
+- Nothing is said about items 2–7 or leave. They stay open, and stay inside the 30 Oct undertaking.
+
+**Predictions scored (§5A):**
+
+| Prediction | Result |
+|---|---|
+| Listed on 2, 5 or 6 Nov (about 80%) | **Wrong** |
+| Fri 6 Nov the likeliest (about 45%) | **Wrong** |
+| A Commission response by Fri 23 Oct (about 55%) | Came on 22 Oct, but as a date request, not a listing |
+
+**The lesson:** I modelled the parties' availability and their wish to move fast, but not the Commissioner's own
+capacity. Dwyer has a full diary until December.
+
+**Re-timed (judgement):**
+
+| Event | Probability |
+|---|---|
+| Conference on 3 Dec PM | About 70%. It depends on Counsel; a slip into 2027 would sit on their side |
+| The 30 Oct written answer arrives as undertaken | About 80% (was 85–90%). The undertaking stands, but the conference no longer presses on it. A request to defer it "given the conference date" is about 15% |
+| Concession before a contested hearing | **55–65%, unchanged** |
+| … by Christmas 2026 | Down from about 40% to **about 15–20%**. The Guide 5.1 review follows the conference, and OIR closes over Christmas |
+| … most likely window | Mid-Dec 2026 to Feb 2027 |
+| A concession before the conference vacates it | Up from about 7% to **about 10%**. Five weeks between the 30 Oct answers and the conference gives Counsel time to advise |
+
+**For the Appellant:**
+- Confirm 3 Dec PM promptly to the Registry, copying Matheson, in one line. No other asks, and no dispute on the
+  Commission's file.
+- The one-page agenda now goes after the 30 Oct answers and about two weeks before 3 Dec.
+- More time to line up the treating doctors' availability. ⛔ Nothing about content.
