@@ -8105,3 +8105,28 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Next:** one short reply to Matheson only (draft in the file): both dates suit, prefer 21 Jan, agree to resolve
   points before the conference, content with whichever course the Commission prefers. Then nothing more to the
   Registry.
+
+## 2026-10-23: Cory's 9:31 reply to Matheson; what the Regulator can reasonably stand on
+- **Sent 9:31 to Matheson only:** both dates suit, prefer 21 Jan, agree to resolve points first, content with
+  whichever course the Commission prefers. The joint process is repaired.
+  - Record: `documents/sent-2026-10-23/2026-10-23_0931_…AS_SENT.txt`.
+- **Steelman:** `analysis/2026-10-23_WHAT_THE_REGULATOR_CAN_REASONABLY_STAND_ON.md`.
+- **Gone:**
+  - disputing facts;
+  - the roster as reasonable;
+  - the leave decline;
+  - the counting method;
+  - a real contest on injury and significant contributing factor;
+  - ¶27 as a catch-all.
+- **Left:**
+  - A. medical causation by stressor (*WCR v Carr* [2023] ICQ 1; *Rowe v Q-COMP* cited in RD; Guide p 34; March
+    roster vs June onset; first certificate in Cory's own terms; no expert served): their best ground;
+  - B. factor 2 reasonable and closest in time;
+  - C. pay reasonable if imperfect (weak on the admitted facts);
+  - D. the weighing (depends on A–C; *Mahaffey* [57]);
+  - E. prior history (weak);
+  - F. perception (weak unless the door is opened);
+  - G. procedural rights.
+- **Their most defensible 30 Oct line on question 4 is a partial yes** (injury, not the roster's contribution).
+- **The swing variable is the treating doctors attending and linking the roster, the fatigue response and pay.**
+  Win if heard: about 80% with them, about 50–55% on records alone, about 70% now.
