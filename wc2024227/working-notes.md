@@ -8052,3 +8052,17 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - Refused about 20%, giving 35–40%.
 - **The letter as turning point:** about 20–25%.
 - **Before 30 Oct, send nothing.** Responses by shape are in the file.
+
+## 2026-10-22: if answered properly, does allowing the appeal follow?
+- `analysis/2026-10-22_IF_ANSWERED_PROPERLY_does_allowing_the_appeal_follow.md`.
+- Langerak [86] and Mahaffey [57] verified from the judgment texts.
+- **Mostly yes.** A proper answer to question 4 accepts injury and "arose out of employment, to the extent… factors
+  2, 3 and 4", and factor 4 is unreasonable per their own review.
+  - Mahaffey [57] ("no formula or dominant cause… does not, on balance, displace… a finding in the worker's favour
+    must follow") then leaves the exclusion only if factors 2 and 3 outweigh the roster. On pay (Part Completed;
+    425 days) that is hard.
+- **Gaps:**
+  - reasonableness of factors 2 and 3 is left to the Commission;
+  - a partial answer needs a basis (March to June gap; *WCR v Carr* [2023] ICQ 1);
+  - the onus is on the Appellant;
+  - only consent orders or a decision end it.
