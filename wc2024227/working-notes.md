@@ -7991,3 +7991,31 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - Cory to confirm 3 Dec PM by a one-line email to the Registry, cc Matheson (draft given in chat);
   - agenda after 30 Oct, about two weeks before 3 Dec;
   - doctors' availability.
+
+## 2026-10-22: what the move to 3 Dec does to a concession
+- `analysis/2026-10-22_DELAY_TO_3DEC_effect_on_concession.md`.
+- **The delay moves timing, not odds.** The decision point is the conference (the 17 Dec 2024 rule; Guide 5.1
+  "Following the conference"; officer → Counsel → delegate). Concession before a contested hearing stays
+  55–65%.
+- **Timing split:**
+
+  | Window | Probability |
+  |---|---|
+  | Before 3 Dec | about 10% |
+  | 3 Dec to Christmas | about 8% |
+  | Jan–Mar 2027 | about 30% (the most likely) |
+  | Later in 2027 | about 10% |
+
+- **Conditional on the 30 Oct answer:** shape B gives about 75% overall; shape D gives 35–40%.
+- **WCRA read today:**
+  - s 237(1)(a)(i): damages only after a notice of assessment, so acceptance is the gateway;
+  - s 302: proceedings within the limitation period (about 18 Jun 2027), or later only if a complying notice of
+    claim (or waiver, s 297 declaration or s 298 leave) comes before it ends.
+  - So the delay squeezes the common-law runway. Get legal advice now; never use it as pressure.
+- **Actions:**
+  - confirm 3 Dec;
+  - if leave is unanswered on 30 Oct, ask the Registry whether leave can be dealt with on the papers before
+    3 Dec;
+  - agenda about two weeks before;
+  - at the conference, seek hearing directions with early-2027 dates if there is no movement;
+  - doctors' availability.
