@@ -285,3 +285,34 @@ capacity. Dwyer has a full diary until December.
   Commission's file.
 - The one-page agenda now goes after the 30 Oct answers and about two weeks before 3 Dec.
 - More time to line up the treating doctors' availability. ⛔ Nothing about content.
+
+## Addendum, 23 Oct 2026: Counsel cannot do 3 Dec; early-2027 dates; "most, if not all, can be resolved before the conference"
+
+**Data point 11.** Fri 23 Oct, 08:39 AEST, Matheson to Cory only:
+- Counsel "is not available in the afternoon of Thursday 3 December 2026";
+- Counsel's dates are 21 Jan 2027 (all day) and 10 Feb 2027 (PM only);
+- "Although the conference will need to be set in 2027, I hope we can continue communicating any points of issue in
+  the hopes that most, if not all, can be resolved before the conference";
+- she will email the Commission once Cory confirms.
+
+**What it means:**
+- They chose Counsel over Dwyer's only 2026 slot, so the conference is where Counsel will deal with the
+  substance.
+- The delay is theirs, on the record.
+- The "most, if not all" line is the first talk of resolving points before a hearing step. It previews a
+  cooperative 30 Oct letter, and it was said privately, not to the Commission.
+- Decoded in full: `2026-10-23_MATHESON_DECODED_literal_vs_actual_meaning.md`.
+
+**Scored:**
+- "3 Dec about 70%": wrong;
+- "a 2027 slip would sit on their side": right.
+
+**Re-forecast:**
+
+| Item | Estimate |
+|---|---|
+| Conference date | 21 Jan about 55%, 10 Feb about 25%, later about 20% |
+| Concession before a contested hearing | about 60–65% |
+| … before the conference | about 20% |
+| Most likely window | Feb–Apr 2027 |
+| Runway from 21 Jan to the about 18 Jun 2027 limitation | about 148 days. Legal advice is more urgent |

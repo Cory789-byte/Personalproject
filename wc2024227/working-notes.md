@@ -8066,3 +8066,25 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - a partial answer needs a basis (March to June gap; *WCR v Carr* [2023] ICQ 1);
   - the onus is on the Appellant;
   - only consent orders or a decision end it.
+
+## 2026-10-23: Matheson, 23 Oct 08:39: Counsel unavailable 3 Dec; 21 Jan or 10 Feb 2027; "most, if not all… resolved before the conference"
+- **Record:** `documents/correspondence-2026/2026-10-23_0839_Matheson_Counsel_unavailable_3Dec_offers_21Jan_10Feb_2027.txt`
+  (to Cory only; the thread now has 14 messages, all listed).
+- **Decoder of all her emails** (literal, actual meaning, why):
+  `analysis/2026-10-23_MATHESON_DECODED_literal_vs_actual_meaning.md`.
+- **Meaning:**
+  - they won't run the conference without Counsel;
+  - the delay is theirs;
+  - "I hope we can continue communicating any points of issue in the hopes that most, if not all, can be resolved
+    before the conference" is the first talk of resolution, said privately; it previews a cooperative 30 Oct
+    letter.
+- **Reply** (if both dates suit): both suit; prefer 21 Jan; agree to resolve as many points as possible
+  beforehand; look forward to her reply by 30 Oct. Nothing else.
+  - Don't push 3 Dec without Counsel.
+  - Don't point out the delay is theirs.
+- **Forecast:**
+  - concession before a contested hearing 60–65%;
+  - before the conference about 20%;
+  - window Feb–Apr 2027;
+  - 148 days from 21 Jan to the June 2027 limitation, so legal advice is more urgent.
+- **Scored:** 3 Dec about 70% was wrong.
