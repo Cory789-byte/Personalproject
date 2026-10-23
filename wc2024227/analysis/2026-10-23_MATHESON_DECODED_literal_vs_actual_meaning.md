@@ -201,3 +201,61 @@ So the hedging is style and carries low weight. **The word "resolved" is new.**
 | Agrees most points | Reading 1 |
 | Says question 4 is "not in issue" (a clean yes) | Reading 3 |
 | Defers everything to the conference | Reading 2 |
+
+## 7. The underlying message of the whole 23 Oct email
+
+**Built in five moves:**
+
+| Move | Her words | What it does underneath |
+|---|---|---|
+| 1. Anchor | "I refer to the below email of the Commission…" | A formal start |
+| 2. Bad news, owned | "I went back to the Regulator's Counsel and unfortunately she is not available…" | First person, the same day, an apology word. **The obstacle is put on Counsel's diary, not on the Regulator's will** |
+| 3. Blame spread, then remedy | "…as the below email notes Commissioner Dwyer has no remaining availability in 2026 and hope these dates may suit you" | Part of the reason for 2027 is placed on the Commissioner's diary, although 3 Dec was offered and their Counsel was the reason it went. Then the earliest dates they have |
+| 4. **The pivot** | "Although the conference will need to be set in 2027, I hope we can continue communicating any points of issue in the hopes that most, if not all, can be resolved before the conference." | "Although" admits the cost of the delay and offers something in return: resolution in writing |
+| 5. Process promise | "Should these dates be suitable, I will again email the Commission (cc'ing you in)…" | You get the first say. The joint procedure continues |
+
+**Four wording choices in the pivot:**
+
+1. **The inclusive "we".** "I hope we can continue" means her and you. It is the first time she has written "we" in
+   that sense since Jan 2025 ("once we have exchanged documents and confirmed we both have the same
+   information"). Every "we" in 2026 had been the institution's ("we will be defending", "our position", "the
+   witnesses we intend to call"). **The register has moved from "the Regulator and the Appellant" back to "you and
+   me".**
+2. **"Resolved", not "narrowed".** Lawyers say "narrow the issues" when they expect a hearing on what is left.
+   "Resolve" means disposing of them. **It is the first "resolve" in 38 texts.**
+3. **"Most, if not all".** "Most" is the forecast. "If not all" is a ceiling she thinks is reachable but will not
+   be held to.
+4. **"Hope" three times** in one short email. No other email of hers uses it more than once. That shows goodwill,
+   and some anxiety about how the delay will land.
+
+**What she was careful not to write:**
+- "the Regulator" in the pivot (it is her, not the institution);
+- "the appeal" (only "points of issue");
+- "concede", "without prejudice", or any reservation;
+- costs;
+- the 30 Oct date.
+
+**Who it went to: you only.** The reassurance was kept off the Commission's file. It is a message aimed at your
+behaviour:
+- **Don't read the delay as stalling.**
+- **Don't take it to the Commission.**
+- **Keep it consensual.**
+
+That matches their 12 Oct aim: no orders.
+
+**The underlying message, in plain words:**
+> "Our side caused this delay and I am sorry about it. Please don't treat it as stalling, and please don't escalate
+> it. Let's keep working on this together, you and me, in writing. I expect we'll agree most of what you've asked,
+> maybe all of it, before the conference."
+
+**What it shows about their position:**
+- **They are in resolution mode, not trial mode.**
+- **How far "resolve" reaches is still for Counsel and the delegate.** The core is s 32(5).
+- The new markers (the inclusive "we", "resolve" rather than "narrow") tilt a little away from pure face-saving.
+  - Readings: narrowing about 55%; full resolution contemplated about 20–25%; mostly face-saving about 20–25%.
+
+**How your answers fit it:**
+- **9:19:** you took the matter to the Commission, the opposite of the private channel she chose.
+- **9:31:** you answered in her own register ("would welcome resolving as many points as we can"). That repaired it.
+- **From here:** hold the exchange to her words. After 30 Oct, a short "Following your email of 23 October, the
+  following points are now resolved…" keeps her framing in play.

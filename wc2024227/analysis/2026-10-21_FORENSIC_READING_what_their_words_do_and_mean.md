@@ -404,7 +404,12 @@ smooth exit or a clean conference), and a firm promise to you.
 | "Alleged" | 2 (Feb 2025) | 0 | 0 | 0 |
 
 **What the table says:**
-1. **The institutional "we" has vanished.** In 13 texts since September there is not one "we", "our" or "us".
+1. **The institutional "we" has nearly vanished.** In the 13 corpus texts since September there is not one "we",
+   "our" or "us".
+   - ⛔ **Corrected 23 Oct:** the 24 Sep 11:55 email serving the outlines is not in the corpus. It has one: "the
+     witnesses we intend to call".
+   - The next "we" is the inclusive one of 23 Oct ("I hope we can continue communicating", meaning her and you).
+     That is the first inclusive "we" to you since Jan 2025.
    - It was there when they were defending ("we will be defending", "our Statement of Facts and Contentions",
      "we will advise you").
    - It was there when they were open ("we may decide to concede").

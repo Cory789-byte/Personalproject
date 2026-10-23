@@ -8142,3 +8142,17 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - signal that full resolution is contemplated (about 20%).
 - **Not** an offer, a concession, or authorised.
 - **The test is the 30 Oct letter.** Added as §6 of `analysis/2026-10-23_MATHESON_DECODED_literal_vs_actual_meaning.md`.
+
+## 2026-10-23: the underlying message of Matheson's 23 Oct email
+- Added as §7 of the decoder.
+- **Built in five moves:** anchor; bad news put on Counsel's diary; blame partly spread to the Commissioner's
+  diary; the pivot ("Although… I hope we can… most, if not all, can be resolved"); a joint process promise.
+- **Wording:**
+  - the first inclusive "we" to Cory since Jan 2025;
+  - "resolved", not "narrowed" (the first "resolve" in 38 texts);
+  - "hope" three times (her maximum elsewhere is one);
+  - sent privately, so off the Commission's file.
+- **Underlying message:** "the delay is ours, sorry; don't read it as stalling or escalate it; let's work it out
+  together in writing; most, maybe all, agreed before the conference."
+- **⛔ Correction** to the 21 Oct forensic file: one institutional "we" since Sep was missed (24 Sep 11:55
+  outlines email, "the witnesses we intend to call"). Fixed in the file.
