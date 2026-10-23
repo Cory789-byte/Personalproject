@@ -27,7 +27,7 @@ dispute has ended by consent, withdrawal, admission or a procedural direction.
 |---|---|---|
 | 22/24 Oct 2024 | RD 69983: injury and employment as a significant contributing factor; factor 4 (roster) unreasonable; excluded under s 32(5) | Under appeal |
 | 26 Nov 2024 | Notice of Appeal; Saines Legal retained | — |
-| Dec 2024 to Jan 2025 | Regulator pays counsel (Gray, then Willson) | — |
+| Dec 2024 to Jan 2025 | ⛔ Corrected 23 Oct: no document ties OIR's counsel payments to this matter (the Oct–Dec 2024 disclosure lists many barristers; Gray's link is metadata only). Willson appears from Feb 2026 | — |
 | 2025 (date not in the repo) | Directions setting a conference for 30 Apr 2025 | **Conference vacated by consent** (AFDO, 3 Jun 2025) |
 | 3 Jun / 16 Jul 2025 | AFDO and AFDO(2): SOFC timetable | **By consent** |
 | 4 Jul 2025 | Regulator's NNPDs ×3 (medical and employer records) | Records produced |

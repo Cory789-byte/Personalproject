@@ -72,7 +72,8 @@ and the about 18 Jun 2027 common-law limitation.
 > I respectfully ask that:
 > (a) the application for leave to file the Second Amended Statement of Facts and Contentions be determined on the
 >     papers; and
-> (b) the matter be listed for hearing on the first available date.
+> (b) the matter be listed for hearing on the first available date, and not deferred only because of a particular
+>     counsel's availability.
 >
 > I estimate the hearing at [two] days. I agree to the Respondent being represented by Counsel at the hearing
 > (s 552B). I am available on any date, and will confirm my witnesses' availability on request. I remain willing
@@ -95,3 +96,42 @@ and the about 18 Jun 2027 common-law limitation.
 - **Overall concession:** about 60–65%, upper half.
 - **If a hearing date is fixed before Christmas,** the chance of a concession before the hearing date is broadly
   unchanged, but it comes sooner.
+
+## 5. Is their Counsel needed? Could another counsel sit in?
+
+**In law, no lawyer is needed.**
+- s 552A(2) says only that "The parties must attend the conference".
+- s 552B: a party may be represented by a lawyer at a conference or hearing "only with (a) the agreement of the
+  parties; or (b) the appeal body's leave". Legal representation is the exception, not the rule.
+- The Regulator attended the 7 Aug mention with Matheson alone (the 6 Aug confirmation names only her). On the
+  Appellant's recollection, Counsel did not appear on 22 May either.
+- **Waiting for Counsel instead of taking 3 Dec was their choice, not a legal necessity.**
+
+**Another counsel could sit in.**
+- Willson is a member of the Regulator's counsel panel (`skill/references/confirmed-record.md`, from the Hemmant's
+  List profile, 12 Jun 2026).
+- OIR's own Oct–Dec 2024 contract disclosure (as summarised in the repo; the disclosure itself not re-read today)
+  shows **more than a dozen barristers briefed directly in one quarter**, one of them eight times.
+- They have a deep bench. Matheson could also attend alone, as she did on 7 Aug.
+
+**Why they want this Counsel anyway (plausible, and legitimate):**
+1. **Continuity.** She appeared on 27 Feb, 13 Mar and 7 Apr, and probably settled the 13 May pleading and the
+   8 Sep letter. A stand-in would need to read in (cost and time).
+2. **The decision runs through her.** The conference is where Counsel sees the Appellant, hears Dwyer, and then
+   advises the delegate. They want the advising barrister in the room.
+3. **The same counsel usually runs the hearing.**
+4. **Possibly, time.** Her 23 Oct line ("most, if not all… resolved before the conference") suggests they mean to
+   use the gap for written resolution. Plain preference for delay cannot be excluded, and cannot be proved.
+
+**Should you push them to use another counsel for 3 Dec?** **No.**
+- You accepted 21 Jan and 10 Feb at 9:31. Reopening it now would look inconsistent.
+- A stand-in who cannot advise the delegate would make the conference unproductive: they would defer every
+  decision.
+- Dwyer would likely accommodate a party's reasonable preference for its counsel at a conference.
+
+**Where the point has real force: hearing listing.**
+- A party's preference for a particular barrister should not delay a hearing indefinitely.
+- In the direction 5 election (after 30 Oct), add one neutral line: "The Appellant asks that the hearing be listed
+  on the first available date, and not deferred only because of a particular counsel's availability."
+- Keep giving s 552B agreement freely. Never use it as a bargaining chip: leave would be granted anyway, and it
+  would look like gamesmanship.

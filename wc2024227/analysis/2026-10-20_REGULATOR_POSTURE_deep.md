@@ -47,7 +47,11 @@ as a commissioner and as a practitioner, appearing against them on many occasion
 
 ### Phase 1: investigative, on both fronts (Nov 2024 to Aug 2025)
 
-- **Counsel briefed early:** Gray paid Dec 2024; Willson Jan 2025.
+- **Counsel:** Willson appeared at all three listings of the contested phase (27 Feb, 13 Mar, 7 Apr 2026).
+  - ⛔ **Corrected 23 Oct.** An earlier line, "Gray paid Dec 2024; Willson Jan 2025", overstated the source.
+    OIR's Oct–Dec 2024 contract disclosure, as summarised in `drafts/out/RESPONDENT_SPEND_ESTIMATE.pdf`, lists
+    payments to many barristers. That summary itself says "No document ties any expenditure to this matter".
+  - Gray's only link is PDF metadata (read-only, never cited).
 - **Form 29 notices, 4 Jul 2025:**
   - to the treating practices (medical history);
   - **to Queensland Health payroll, the payroll director Kimberley Wright** (later one of their four witnesses).

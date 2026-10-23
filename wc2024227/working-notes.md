@@ -8236,3 +8236,15 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Decision rule after 30 Oct:** elect hearing if s 32(1) is agreed or partial, or if a fight letter comes; keep
   21 Jan if they defer.
 - **Draft election email** in `analysis/2026-10-23_HEARING_BEFORE_2027_feasibility.md`.
+
+## 2026-10-23: is their Counsel needed? Could another counsel sit in?
+- **No lawyer is needed in law.** s 552A(2): "The parties must attend". s 552B: a lawyer appears only by agreement
+  or leave. Matheson attended 7 Aug alone.
+- **Waiting for Willson instead of 3 Dec was a choice.** They have a panel and a deep bench (more than a dozen
+  barristers in one quarter, per the repo summary of OIR's Oct–Dec 2024 disclosure). Matheson could attend alone.
+- **Why they want her:** continuity; she advises the delegate; she runs the hearing; possibly time.
+- **Don't reopen 3 Dec** (accepted 21 Jan at 9:31).
+- **Use the point at hearing listing:** "not deferred only because of a particular counsel's availability" (added
+  to the draft election). Give s 552B agreement freely.
+- **⛔ Correction:** "Gray paid Dec 2024; Willson Jan 2025" (20 Oct files) overstated. The disclosure ties no
+  payment to this matter; Gray's link is metadata only. Fixed in the posture and litigation-structure files.
