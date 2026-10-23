@@ -187,3 +187,56 @@ Commission's preferred course."
 - **Lead with her frame,** "resolution of the matters" and "agreed outcome".
 - **Leave the hearing in the background,** as the known alternative.
 - The shadow of a hearing pressures them more when it is implicit than when it is the headline.
+
+## 7. Revision: the hearing-ready signal is deliberate pressure, and the record says it works (added 23 Oct, after the Appellant's comment)
+
+**The Appellant's intent:** to signal "I'm ready for a hearing; only partial points remain; I want this finished,
+not another conference for its own sake".
+
+**That is sound, and §6's lesson ("keep the hearing implicit") was too cautious.**
+
+**Two kinds of pressure, two opposite results:**
+
+| Kind | Examples | Result on the record |
+|---|---|---|
+| **Accusatory** | Complaints, carriage, findings against their people, characterisations (Feb 2026) | 0 concessions from 5. They closed ranks |
+| **Procedural**: clocks set by the rules or the Commission | The rule 49 notice with a 14-day clock | 298 of 303 admitted, 3 days early |
+| | Dwyer's 13 Oct instruction with a clock | Dates 3 days early |
+| | Your dated 19 Oct letter | A dated written undertaking |
+
+The action–reaction rules (rules 3 and 7) are explicit: notices with a clock are answered in time, and Commission
+instructions are met early. **A hearing listing is the biggest clock there is.** The 9:19 email is procedural
+pressure, the kind that works.
+
+**Why it bites on this Regulator:**
+1. **Exposure.** A hearing means a published decision by another member. That puts the review's "two out of three"
+   method (against *Langerak* [86] and *Mahaffey* [57]) and the roster findings on the record. That is
+   repeat-player risk.
+2. **Cost.** A hearing means briefing Counsel for trial and proofing four witnesses. They have no expert, and their
+   outlines are keyed to the April pleading.
+3. **Inertia removed.** A defence that relies on time and on the status quo loses its comfort when the appellant is
+   visibly ready and the Commissioner values getting "this thing to a hearing".
+4. **The conference cannot be a holding pattern.** Even if it goes ahead in Jan, they now know you want a decision,
+   not more process. They must arrive with a position or with hearing dates.
+
+**Conditions for it to work, and what they mean for you:**
+
+| Condition | What it means |
+|---|---|
+| **Credibility rests on the medical evidence** | If they think your medical case is thin (no expert; doctors not confirmed), a hearing looks less frightening and they may welcome cross-examination. **Lining up the treating doctors' availability now is what makes the signal real.** ⛔ Nothing about content |
+| **Keep it procedural** | Clocks, listings, reports. Never characterisation. The 9:19 email met this test. Its "without unnecessary delay" and "rather than postponing" are as far as it should go |
+| **Leave them a dignified exit** | They change position by their own decision on "new information", ideally around a conference (Guide 5.1). Your 9:31 email ("content to proceed in whichever way the Commission prefers"; "resolving as many points as we can") kept that door open. **Pressure plus an open door is the strongest combination** |
+
+**What it changes:**
+
+| Item | Estimate |
+|---|---|
+| Their decision point | At or before the conference, not after it, or "before hearing preparation" if a hearing is listed |
+| Concession before the conference | about 25%, up from 20% |
+| Concession before a contested hearing overall | **about 60–65%, upper half** |
+| Timing risk | A hearing listed for mid-2027 would put the latest decision point near the June 2027 limitation. That is another reason for the legal advice now |
+
+**Revised lesson:**
+- **Procedural pressure (clocks, listings, a report) plus an open door to resolution,** backed by medical
+  credibility.
+- **No accusatory pressure, ever.**

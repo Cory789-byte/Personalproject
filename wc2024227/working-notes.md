@@ -8198,3 +8198,17 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Good:** her "most, if not all" line was not disclosed to the Commission (dates only).
 - **Net:** cooperation under the Commission's eye. Odds unchanged.
 - **Lesson:** lead with resolution, keep the hearing implicit.
+
+## 2026-10-23: revision: the hearing-ready signal works (Appellant's point accepted)
+- Two kinds of pressure. **Accusatory** pressure (Feb 2026) got 0 concessions from 5. **Procedural** clocks got
+  results: the r 49 clock gave 298 of 303; Dwyer's clock gave dates early; the dated letter gave a dated
+  undertaking.
+- A hearing listing is the biggest clock. It bites through exposure (published reasons on the counting method),
+  cost (trial brief, no expert), and the loss of inertia. The January conference can't be a holding pattern.
+- **Conditions:**
+  - medical credibility (line up the doctors' availability);
+  - stay procedural;
+  - keep a dignified exit open (9:31 did this).
+- Concession before the conference about 25%. Overall 60–65%, upper half.
+- §6 lesson ("keep the hearing implicit") replaced by §7: **procedural pressure plus an open door, backed by
+  medical credibility.**
