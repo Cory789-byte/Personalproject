@@ -259,3 +259,84 @@ That matches their 12 Oct aim: no orders.
 - **9:31:** you answered in her own register ("would welcome resolving as many points as we can"). That repaired it.
 - **From here:** hold the exchange to her words. After 30 Oct, a short "Following your email of 23 October, the
   following points are now resolved…" keeps her framing in play.
+
+## 8. Deeper layers: what sits beneath the 23 Oct pivot
+
+**1. It answers your letter's method.**
+
+| Your 19 Oct letter | Her 23 Oct email |
+|---|---|
+| "Matters that may be agreed. So that the conference can be used efficiently… Any matter that is agreed can then simply be noted at the conference." | "continue communicating any points of issue in the hopes that most, if not all, can be resolved before the conference" |
+
+**Meaning:** "We accept your agree-before-the-conference process." She has adopted your structure, in her own words.
+
+**2. It answers your letter's consequence.** Your letter closed: "To the extent these matters are not agreed, I will
+ask the Commission at the conference to deal with them and, if necessary, to make directions or to list the matter
+for mention."
+- Her line is built to make that unnecessary: if they are resolved, you never need to ask Dwyer for directions.
+- **Meaning:** "We will agree them, so this stays between us. No orders."
+- That is the same aim as their 12 Oct "in lieu of ordered in directions".
+- Your 9:19 email asked Dwyer for directions the same morning. Your 9:31 reply ("content to proceed in whichever way
+  the Commission prefers") softened that.
+
+**3. It probably carries Counsel's first view.**
+- Counsel was "not contactable until 22 October". On 22 Oct, her first day back, Matheson "went back to" her. The
+  email followed at 8:39 the next morning.
+- Counsel has had access to your letter since 19 Oct.
+- An officer would be unlikely to write "most, if not all" the morning after speaking to Counsel if Counsel had
+  signalled a fight on everything.
+- Inference, moderate confidence.
+
+**4. It moves the horizon.**
+- 20 Oct: "respond by Friday 30 October". 23 Oct: "resolved before the conference".
+- "Respond" has a date. "Resolve" now has the conference as its deadline.
+- **Meaning:** expect a staged process. The 30 Oct letter will be a first instalment: some points agreed, others
+  "under consideration" or for further discussion. Resolution would then unfold through Nov to Jan. That lowers the
+  odds of everything being settled on 30 Oct, and raises them for agreement by the conference.
+
+**5. It is part of a deliberate warming, not a one-off.**
+
+| Date | Her words |
+|---|---|
+| 7 Oct | Receipt; "as soon as possible" |
+| 12 Oct | "The Regulator agrees…"; "jointly agree" |
+| 12 and 16 Oct | Documents vouched |
+| 19 Oct | "Thank you for your assistance in this" |
+| 20 Oct | "respond by… as requested"; "The parties hope…" |
+| 23 Oct | "I hope we can… most, if not all, can be resolved" |
+
+The trajectory is consistent, and each step is warmer and more joint than the one before.
+
+**6. The conference becomes a backstop.** If points are resolved first, the conference records the agreement and
+deals with what is left. If everything is resolved, it becomes the place where the result is noted, or it becomes
+unnecessary.
+
+**7. "If not all" includes the core.** "Points of issue" most naturally means your six matters. But "all" of them
+would include question 4 (s 32(1), confining the hearing to s 32(5)).
+- An officer who processes appeals knows when a file is moving toward concession.
+- "If not all" is consistent with an officer who expects her side may not need a hearing, but cannot say so.
+- Low to moderate confidence.
+
+**8. It reads your position as well as hers.**
+- She knows from your 31 Jul letter that you have no income.
+- "Although the conference will need to be set in 2027" acknowledges a delay that costs you.
+- Offering written resolution in the meantime softens it, in keeping with "not seeking to take advantage of an
+  impecunious opponent".
+- Inference, moderate confidence.
+
+**Revised readings** (judgement; layers 1–5 make pure face-saving less likely):
+
+| Reading | Chance |
+|---|---|
+| Narrowing: most points agreed in writing over the coming weeks | about 50% |
+| Full resolution contemplated | **about 25–30%** |
+| Mostly face-saving | about 20% |
+
+**Overall concession odds:** about 60–65%. These layers support the upper half of that range rather than moving it.
+
+**What to do with it:**
+1. **Treat 30 Oct as instalment one.** Record what is agreed, in her word ("resolved"). For anything left, propose
+   the next written step with a short date in November. That keeps her "continue communicating" going.
+2. **Do not press Dwyer further.** Let his answer to your 9:19 email come. A report direction, if made, fits the
+   same process.
+3. **Keep her register.** "We", "resolve", "points", "before the conference".

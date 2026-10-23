@@ -8171,3 +8171,17 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - Dwyer's response.
 - **Send nothing more.**
 - Added as §5 of `analysis/2026-10-23_ASSESSMENT_Cory_23Oct_email_to_Registry.md`.
+
+## 2026-10-23: deeper decode of Matheson's 23 Oct email (§8 of the decoder)
+- Her pivot mirrors the 19 Oct letter's method ("Matters that may be agreed… so that the conference can be used
+  efficiently… Any matter that is agreed can then simply be noted at the conference"). It answers its consequence
+  ("…I will ask the Commission… to make directions"): **agree, so no orders.**
+- It probably carries Counsel's first view (Counsel back 22 Oct; "went back to" her; email 8:39 next morning).
+- **The horizon moves** from "respond by 30 Oct" to "resolved before the conference", so expect staged answers;
+  30 Oct is instalment one.
+- Deliberate warming since 7 Oct.
+- The conference becomes a backstop.
+- "If not all" includes question 4.
+- She knows about the no-income hardship (31 Jul).
+- **Readings:** narrowing about 50%; full resolution contemplated about 25–30%; face-saving about 20%. Concession
+  60–65%, upper half supported.
