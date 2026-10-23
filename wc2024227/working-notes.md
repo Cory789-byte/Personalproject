@@ -7442,3 +7442,887 @@ xmpmeta. exiftool on the final file returns no PDF identity tags.
 - Addition: the 29 Jul enquiry to ART came **16 days after Cory's 13 Jul 16:39 email** telling Injury Management "I no longer have an active open QSuper Income Protection claim; that claim is now closed ... There is accordingly no income support available to me from that source", and 14 days after Harrison's 15 Jul reply ("as we have been provided information that you do hold a current QSuper Income Protection Claim ... please provide a copy of [closure] correspondence"; "The only information supplied to QSuper/ART from injury management is the email I cc'd you in on Monday 13/07/2026"). ART's 31 Jul answer: claim "active", benefits "temporarily paused" from 31 May 2026, no payments — i.e. the substance of what Cory said (no income from that source) confirmed to MSH on 31 Jul; label differs ("closed" vs "active/paused"). ⚠ Going forward use ART's words: "no benefit has been paid since 31 May 2026; benefits paused". Knowledge point: from 31 Jul MSH knew the IP-claim premise for refusing pay produced nothing, and continued the hold-out; the 29 Jul contact was employer-initiated and not copied to Cory, against the 15 Jul description of the flow.
 - ART claim status, from the repo (8 Sep check): 13 Mar 2026 10:00 Cory→Ings "would like the super to stop paying me", "following up on an earlier email mid last year" (that mid-2025 email is NOT in the repo — locate in Hotmail sent items). ART 4 Aug 2026 (Zappia): acknowledges the cease request "on 16 March 2026"; "no record of receiving notification from you in April or May 2025"; last payment 28 May 2026 (25–31 May); payments "temporarily suspended from 31 May 2026" pending overpayment review 7 Apr 2025–31 May 2026; partial benefit formula; "you may be entitled to ongoing benefits". QSuper Resolutions (Beck) 28 May 2026: James contacted the employer for payslips; payments on hold from 1 Jun 2026. Cory 12 Aug 2026: agrees the recalculation basis; asks for workings and for assessment of entitlement from mid-June 2026 (no wages since 13 Jul). ⇒ Precise formulation for MSH: "I asked the insurer in writing on 13 March 2026 to stop paying me; the last payment covered the week to 31 May 2026; payments have been on hold since 1 June 2026 pending the insurer's review." ⛔ Never "closed" again; never "receiving benefits".
 - Date adjacency recorded (8 Sep 2026, no inference): MSH abandonment confirmation K-CF24/3270 (Johns, per Firoz) — Word file created **9 Oct 2024 16:08:05**, forwarded 16:10. HopgoodGanim DMS record for "Reasons for decision - WCR reject - Worker applicant - Mr Cory Shepherd" — **HgDMSDate 09.10.2024**, PDF made 24 Oct 2024 10:16. Same calendar day, two organisations, no document connecting them. ⛔ The DMS date is the record date; a DMS description can be set on any save; it cannot be said the outcome was known on 9 Oct. ⛔ Not for the appeal; §7.8 question only, after 30 Sep.
+
+---
+
+## 2026-09-16 — Form 24 response re-read against the mention transcript
+
+New file: `analysis/2026-09-16_Form24_Admissions_Map.md` — full 44-response → 50-paragraph admit/deny
+map from the Regulator's response signed **Renee Matheson 18/02/2026**, confirmed against
+`documents/2026-02-18_Form24_Response_and_email_communication.pdf` pp 7–10.
+
+**The finding.** The patient-safety chain at ¶¶6–9 is already admitted **at both ends**.
+¶6 admits Ms Taylor removed a page. ¶8 admits, unqualified, that maintaining accurate doctor contact
+details "is a critical function of the Switchboard to ensure effective clinical handover and patient
+safety", and adds "there was a procedure in place for this to occur". Only ¶7 — what was written on
+the page — is not admitted, and the stated reason is that the Respondent "does not have a copy of the
+document referred to and is unaware of its contents". ¶9 is denied "because there was already a
+procedure in place", which asserts the same procedure a second time while naming none.
+
+**Already in the file — corrected after merge.** `confirmed-record.md` already holds the ¶8 pinpoint
+block and the standing discipline **"do not let ¶8 carry ¶9"**, and **Form 20 ¶6 already pleads ¶8 as
+an Admitted Fact**. An earlier draft of this entry said the filed application did not yet surface ¶8.
+That was wrong. The only genuinely new points are the mention fold below, the request letter, and one
+narrow ask: **¶8 and ¶9 both assert a procedure and neither names it** — request particulars of it.
+
+**Also fixed:** `confirmed-record.md` line 84 described Response ¶9 as "delegate facilitation denied."
+That is ¶19. ¶9 is the consequence limb of the comms-book particular. Corrected against the response
+PDF and cross-referenced to the ¶8 pinpoint block.
+
+**Consequence for Item 18 (communication book).** At the 7 Aug mention (~36:03) Dwyer IC reasoned
+"she might admit she tore it out, in which case we probably don't need the book… not a particularly
+document heavy point, that one." That rests on the tearing-out being the live issue. It is not — it
+was admitted in February. The live issue is the contents, and the Respondent has said in writing it
+cannot resolve that without the document. **Item 18 is the narrowest and best-supported
+produce-or-swear item on the list**: one document, relevance admitted by ¶8, no alternative means of
+proof. The Form 24 response was not before the Commissioner. Put ¶6 + ¶7 + ¶8 in one paragraph when
+the Form 29 returns.
+
+**Request letter located.** 24 July 2026 09:08 to Matheson (`mail-tools/.../06_Renee_Matheson/text/106_email.txt`):
+(1) an up-to-date **list** of documents disclosed by the Respondent; (2) the Respondent's Form 29
+notices with what was produced under each. This is the "count, not the documents" position already in
+writing **two weeks before the mention** — the answer to the "truckload of documents" concern, never
+put to the Commission. **No reply appears in the corpus** (last Matheson item is 16 July 2026).
+ACTION: confirm whether a response was received; if not, renew in the same narrow terms.
+
+**Three follow-ups (all written, all narrow):** identify the procedure asserted at ¶8/¶9; reframe
+Item 18 on ¶6+¶7+¶8; renew the 24 July list request.
+
+**Check before filing use:** extracted text of the response p 7 shows two matter-number fields,
+`WC/2024/234` and `WC/2024/227`. Verify against the sealed PDF.
+
+**⛔ SAME-DAY CORRECTION — the entry above was written from the FIRST notice only.**
+The second Form 24 (303 facts, served 28 Aug 2026) was answered on **8 Sep 2026: 298 admitted, 5 not
+admitted, 0 denied** (`documents/regulator-response-2026-09-08/`). Three things recorded above as open
+are closed by it:
+- **"Identify the procedure"** — answered. Fact **146** admits Ms Taylor's own email of 6 Jun 2023:
+  *"I took it out last week as it was clearly an indirect dig at the team and there is already a
+  procedure to follow with this certain entry."* The February ¶9 defence and that sentence are the
+  same sentence, and it carries the motive with it.
+- **Item 18 / the communication book** — spent. The Form 29 was **withdrawn on 28 Aug**. Facts
+  **150–153** close it by admission instead, incl. 153: the SOFC does not allege the book ceased to be
+  in MSH's possession at any time during the employment. Fact **154** (the Amended LOD does not list
+  the book) is one of the five **not admitted**.
+- **The 24 July disclosure-list request** — answered on **14 Aug 2026** (Amended LOD + four NNPDs).
+
+**⭐ STRESSOR 1(a) IS MADE OUT ON ADMISSIONS.** Section D of the second notice is headed "THE
+DATABASE, THE DIRECTIVES ISSUED WITHOUT CONSULTATION…" and every fact in it is admitted: the role
+description duty to maintain the database (facts 6–8); Stibbard removing everyone's access (40) and
+the Contact & Number Changes book from the room (45); the Review Decision recording the same (46–48);
+**no allegation access was ever restored before 18 Jun 2024 (55)**; Taylor's 15 Apr "effective from
+today" directive (49–53); **the MASPER Registrar's and Dr Wong's own logs of nine misdirects across
+2–8 May 2024 (56–61)**, incl. the MET call team that could not be told where VHUB was; the
+five-day-eighteen-hour reply interval (62–64); those occasions falling while the 15 Apr arrangement
+was in force (68); **Taylor's own "many ongoing issues raised by the MASPER and the medical department
+about calls being transferred to the wrong medical teams" (67)**; and Sue Marriott's two unanswered
+Respiratory Service emails (89–93). The 13:28 "it all works together as one big system" point is
+proved end to end without compelling a single document.
+
+The five not admitted: **154** (their own List of Documents) and **228–231** (the 2024 Emergency Code
+Register, Tab 31 — provenance, the register itself not disputed). Denied: none.
+
+Cover letter reserves relevance, admissibility, weight and any inference drawn — orthodox, and it does
+not touch the primary facts.
+
+## 2026-09-16 — Mention record solidified; transcript made canonical + PDF
+
+**Transcript.** `documents/transcripts/TRANSCRIPT_diarised_prosody.md` replaced with the amended
+version carrying **A1** (the 30:12.98 line: MR SHEPHERD, participant-
+confirmed, 100%) and the four speaker-label confidence classes. Added a **"NOT PART OF THE RECORD"**
+appendix, behind a hard rule, holding reader's notes on four contested passages (N1 the [16:29]
+small.en/large-v3 meaning split; N2 filters; N3 "actively suppressed"; N4 the comparator class slide).
+**PDF generated** at `documents/transcripts/TRANSCRIPT_diarised_prosody.pdf` — 14pp, text layer
+present, built via `lodgement/_md2html.py` + headless Chromium.
+⚠ **Only one transcript exists in the repo** and it is that file; nothing was deleted. The
+`MENTION_7AUG2026_segments.jsonl` and `diarise_inferential.py` are kept with it so the diarisation
+stays reproducible. **There is no certified transcript** — ATR0282381 was an **audio-only** request
+and the 18 Aug notification PDF is a request record, not a transcript.
+
+**⛔⛔ CORRECTION — the "live-room vocabulary gap" does not exist.** New §99 of
+`skill/references/MENTION-7AUG2026-ASSESSMENT.md`. **Filter and phrase are one operation described
+from two ends** — the phrase is the criterion, the filter is the mechanism that applies it. At
+[23:40] the Appellant named the system, the operation, the criterion ("effective immediately"), the
+scope and the output sought ("I basically just want the count"): a complete specification of a
+bounded search, live and unprepared. The Commissioner did not retrieve the operation from the word,
+having said in the same hearing that his brain switches off under load. **The cost landed on the
+Appellant because cost lands on the person who needs something, not because the description was
+wrong.**
+
+**The corrected evidence base — neither survivor is a vocabulary problem:**
+- **PRECISION** — the pay comparator [51:47]→[51:52]: *"Between me and my colleague"* restated as
+  *"My colleagues generally"* after both alternatives were offered. Fix: one named comparator, one
+  stated period, one figure.
+- **PLEADING** — "actively suppressed" [46:10]: *"I don't know if I can prove it as much"*, then
+  **self-corrected unprompted at [46:44]**: *"it wasn't actively spread, it was actively avoided."*
+  A concession against interest plus a more accurate substitute word, produced live. The adverb was
+  wrong; the underlying facts stand. ⇒ **never plead an adverb of state of mind without a document
+  that proves the state of mind** (same family as: never open the s 32(5)(b) door).
+
+**Register.** How he presents is how he thinks. But Dwyer's register is not his cognition either — it
+is a trained second output on the same mind. Acquiring one is a second format, not a correction.
+⇒ The Form 24 route **is** that second format, produced on paper at his own pace: 303 propositions,
+298 admitted.
+
+**✅ PINPOINT FIXED.** `CLAUDE.md` header changed **s 550(4) → s 549**. The sealed Further Directions
+Order (3) is headed *"APPEAL AGAINST DECISION OF RESPONDENT PURSUANT TO SECTION 549"*. s 549 is the
+appeal right; s 550 is procedure and s 550(4) the filing step. Full provision map in
+`skill/references/REGULATOR-DUTIES-AND-REPORTING.md` §6.
+
+## 27 Sep 2026 (late) — FINAL letter + Second Amended 9A set
+
+Built `drafts/second-amended-9A/2026-10_FINAL_Letter_Schedule_and_Second_Amended_9A.pdf` (27 pp: letter 1 p, schedule 2 pp, 9A 24 pp) plus separate DOCX/PDF for the letter and the 9A. One font (Arial), one bold hierarchy, plain-language wording throughout; every edited paragraph machine-checked against v2 for lost numbers, quotes and fact citations (none). Change 30 in `CHANGES_v1_to_v2.md`. Rebuild with `python3 build_final.py` (edits live in `edits_9A.txt`; letter text in `letter_content.py`).
+
+Before filing: date the letter; verify Langerak [86], Mahaffey, the doctors' names against Tab M1, the 20 Sep 2024 separation date; send the 9A to Matheson with the consent request; check the Respondent's 30 Sep material; open the DOCX in Word and export the filing PDF from there if the Registry wants a Word-generated PDF.
+
+## 27 Sep 2026 (night) — Benjamin recusal decision obtained and read
+
+Benjamin v Sharp & Ors (Recusal) [2025] QIRC 54 (Dwyer IC, 21 Feb 2025; 59 pp) fetched from the SCLQ archive and saved at `documents/caselaw/`. Read against the FINAL set at `analysis/2026-09-27_DWYER_RECUSAL_DECISION_Benjamin_read_against_the_FINAL_set.md`. Method: chronology from the transcript first, each ground decided by perception v "objectively demonstrable reality" [166], no motive inferred without evidence [249], self-represented "loss of objectivity" [222], belief "does not equate with proof" [247], efficiency and restraint [41], [75], [82], case manager only [22]–[26], disputes listed not emailed [147]. Residual risks for the set: length (his SOFC instinct is 10–15 pp, [43]) and the three non-admitted items. Unresolved flags in the 25 Sep files closed.
+
+## 2026-10-01 (evening): corrected proposed 9A, held
+- Cory's decision: hold the corrected proposed 9A (FOR_SUBMISSION/WC2024227_3_Proposed_Second_Amended_Form_9A_CORRECTED.pdf, change 97). Raise it at the conference before leave is decided: "A corrected copy of the proposed Form 9A is ready; it corrects several paragraph references and quotations; the substance is unchanged; I ask that leave be considered on that copy." Hand it to Dwyer and the Respondent together.
+- Cory will deliver two copies by Monday 5 October 2026. These must be the CORRECTED copy, never the 1 Oct as-sent copy (superseded/WC2024227_3_Proposed_9A_AS_SENT_1OCT2026_1645.pdf).
+- Nothing goes to Matheson separately. If she raises an error first: "Noted; a corrected copy has been prepared and will be provided to the Commission and the Respondent together."
+- Form 24 / Form 25 and responses: supply only on the Commission's request (as offered in the email, election p 2 and letter).
+- Matheson out of office to Mon 5 Oct 2026; urgent matters to Ruth Jamieson, Appeals Team Leader.
+
+## 2026-10-01 — ASSUMED FACT (Cory's instruction; not verified): the Commission approved the audio release
+- Cory's position: release of the 7 Aug 2026 mention audio (QTranscripts ATR0282381, "APPROVED" 18 Aug 2026) required the Commission's approval, so Dwyer IC / his chambers knows the Appellant obtained the audio.
+- Record: the 18 Aug notification shows State "Evaluation" / Substate "APPROVED", provider Department of Justice (RTS); it does not name the approver. Treat as ASSUMED, not confirmed.
+- Use: internal reasoning only. Never raise the audio in correspondence or at the conference; nothing from the mention is quoted (no certified transcript).
+
+## 2026-10-02 — Second s 552A conference: what it is (guide Part 5.1, verified 2 Oct 2026)
+- "No commercial settlement is possible at the conference. Conferences for workers' compensation matters are not intended to facilitate conciliations."
+- "Following the conference, the Respondent may decide to review its position or consider conceding the appeal where new information is presented that they may not have yet considered."
+- Second conference purpose: "review, refine or narrow down the issues"; "whether any elements of s 32 of the Act can be agreed"; Member "will not be the Member who hears the appeal"; no advice on how to run the case.
+- ⛔ Correction (chat 2 Oct): do not describe the conference as a settlement/resolution forum. Aim = narrow the s 32 elements on the record and surface "new information" (Stressor 1 sequence unanswered by outlines; para 27 identifies no management action; RD69983 roster finding; DAF [2024] QIRC 53 [42] everyday duties) so the Regulator reviews its position after the conference.
+
+## 2026-10-08 — 30:12.98 speaker confirmed as Mr Shepherd in every file
+
+At Cory's instruction, *"I actually understand what you're getting at"* (30:12.98) is recorded as
+**MR SHEPHERD** throughout: the canonical transcript and its PDF (regenerated via
+`lodgement/_md2html.py` + headless Chromium, 26pp), `MENTION_7AUG2026_segments.jsonl`,
+`MENTION_7AUG2026_TRANSCRIPT_with_fillers.txt`, `cognitive_speech/mention_segs.json`, the analyses
+and skill references that quote it, and `index/FULLTEXT.txt` (rebuilt). Basis: participant evidence
+(A1), independently corroborated by ECAPA diarisation. Figures recomputed with the line as his and
+labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 s), Mr Shepherd 13.1%
+(214 segs, 450 s), Ms Matheson 0.7% (9 segs, 25 s); FOUR_STAGES stage 2 = 9 segments, +1.72 dB
+(peak +9.0 unchanged). Self-analysis outputs in `cognitive_speech/` re-run; small shifts only.
+
+## 2026-10-13 — Regulator agrees to a second s 552A conference; nine documents confirmed; Commission instructs on dates
+- **Mon 12 Oct, 8:30 am, Matheson to Cory.** Disclosed Tabs 1, 5, 17, 18, 19, 21, 22, 23 and 31 from MSH: "The regulator confirms the veracity of the attached documents." The Annexure A count is now **38 of 39**. Tab 24 is not addressed (its facts, 178–179, were admitted). **Tab 31** (Emergency Code Register, 16–20 March 2024) is the document behind the only Tab-based facts not admitted (228–231).
+- **Mon 12 Oct, 9:21 am, Matheson to the Registry, cc Cory.**
+  - She agrees to a second s 552A conference.
+  - Points 2–7 are "better placed to be discussed at the conference in lieu of ordered in directions, in the first instance".
+  - Counsel is overseas and not contactable until 22 Oct.
+  - She undertakes to agree a joint range of dates with Cory before writing to the Registry.
+- **Tue 13 Oct, 12:26 pm, Registry for Dwyer IC.** "The Regulator is instructed to obtain their Counsel's availability as soon as possible following 22 October 2026 and advise the Appellant. A section 552A conference will then be scheduled…" No orders were made on points 2–7, and leave (direction 3) is not mentioned.
+- **Records** (verbatim bodies, times in AEST): `documents/regulator-2026-10-12/`.
+- **Analysis:** `analysis/2026-10-13_REGULATOR_REQUEST_12OCT_reasons_and_signals.md`. It gives 18 reasons and 7 signals, what "negotiated" means here (no commercial settlement at the conference; issues narrowed, then the Regulator reviews its position), and what the request does not show.
+- **The deferral fits the 1 Oct (evening) decision.** Leave will be dealt with at the conference, where the corrected proposed 9A (change 97) is handed up before leave is decided.
+- **Next.**
+  - Nothing to send now.
+  - Have availability ready for late Oct and Nov.
+  - Watch for an application for leave to serve an expert report (a sign of a contest) and for para 27 at the opening.
+- Attachments to the 8:30 email could not be downloaded through the Gmail connector. Save them from the Hotmail copy into `documents/regulator-2026-10-12/` when convenient.
+
+## 2026-10-13 (later): the nine disclosed documents checked; who followed whom at the mention
+- **Attachments to the 12 Oct 8:30 email** (provided by Cory) are filed in `documents/regulator-2026-10-12/disclosure_12OCT2026/`; Outlook prints of the three emails are in `email_prints/`.
+- **All nine match the Annexure A copies.**
+  - Tabs 22–23 are byte-identical.
+  - Tabs 1 and 5 have identical text and are the same source PDFs.
+  - Tab 21's body is identical (it is the Injury Management mailbox copy).
+  - Tabs 17–19 match field by field (image-only prints).
+  - Tab 31 is an .xlsx extract of the MARCH 2024 sheet. It matches all 53 entries in the Annexure capture and facts 228–231 exactly.
+  - Detail: `documents/regulator-2026-10-12/DISCLOSURE_12OCT2026_VERIFICATION.md`.
+- **Metadata, chronology only.** The files were prepared at MSH on 24–28 Sep 2026 (author "Estelle Bain") and disclosed on 12 Oct. When MSH sent them to the Regulator is not shown.
+- **Correction to the 13 Oct reasons file.** Facts 261–262 admit only the wording of RD 69983. The 8 Sep cover letter reserves the truth of its findings ("limited to existence and wording"; de novo).
+- **The 8 Sep cover letter shows the Regulator read the notice on the existence/characterisation line.** Their outlines then argued characterisation only ("better characterised as a rostering practice issue").
+- **Self-analysis** (not case material): `cognitive_speech/FOLLOWING_AND_NOTICING_mention_notice_regulator.md`.
+  - Matheson answered only when the Commissioner put a question to her: 5 turns, 3 of them hedged.
+  - The Commissioner restated Cory's case 11 times, and 8 of the 10 Cory answered were confirmed.
+  - His stated non-understanding was confined to written labels ("filters", "unassessed", "disposition of items"). None of these appear in the corrected 9A.
+
+## 2026-10-13 (late): most likely thesis on the Regulator's position
+- `analysis/2026-10-13_MOST_LIKELY_THESIS_regulator_position.md`.
+- **Thesis:** the Regulator is deciding whether to keep defending, and the decision waits on Counsel. The "we will defend" line (18 Feb, 16 Jul) is absent for the first time.
+- **Odds:** concession before hearing 45–55%; favourable overall 72–78% (judgement).
+- **Found:** 7 Oct exchange (Cory's Tab 32A rule 49 request, due Fri 16 Oct; Matheson's acknowledgement, "looking over both emails", "following up with MSH"). Recorded in `documents/regulator-2026-10-12/2026-10-07_...txt`. The Tab 32A admission is still unanswered.
+- **Correction:** "as soon as possible" is Matheson's stock phrase; the earlier "echo" point is withdrawn.
+
+## 2026-10-20 — Every Matheson and QIRC email, 7–20 Oct, read together; the 19 Oct letter and why she answered as she did
+- `analysis/2026-10-20_EVERY_DATA_POINT_7-20OCT_Matheson_QIRC_and_the_19Oct_letter.md`.
+- **What came:**
+  - 16 Oct: Tab 32A/B confirmed on the date, with the 8 Sep reservation. Leave, also noted for 16 Oct, was
+    not answered.
+  - 19 Oct, 10:52: Counsel's dates (2 Nov AM, 5 Nov AM, 6 Nov all day), with Counsel "communicat[ing]… while
+    she finishes the last days of her leave".
+  - 19 Oct, 16:04: Cory's reply with the letter (six matters; by 4.00 pm Fri 30 Oct).
+  - 20 Oct, 9:44: joint dates to the Registry ("Thankfully…").
+  - 20 Oct, 9:48: "I will review your letter… and respond by Friday 30 October 2026 as requested."
+- **Read:**
+  - the cheap items are being answered on paper;
+  - the Commission's file is kept free of orders;
+  - the legal questions are being taken into a conference run by Counsel;
+  - a decision follows under Guide 5.1.
+- **The Guide itself supplies the "de novo" answer to s 32(1)** (§5.1, p 25, verified). The reply: the
+  conference "can assist in understanding whether any elements of s 32 of the Act can be agreed".
+- **Scored:**
+  - contact before 22 Oct (Cory right; my "week of 26 Oct" late);
+  - dates only (right);
+  - conference mid–late Nov (wrong: early Nov);
+  - 16 Oct test fired;
+  - offer-before-conference ranking reversed.
+- **30 Oct prediction:** shape A about 45% (documents answered, law deferred); B, the concession track,
+  about 20%; D, a fight letter, 10–15%; the formula returns about 15%.
+- **Odds:** concession 55–65% (unchanged; now after the conference); allowed either way about 85%.
+- **Next:**
+  - send nothing before 30 Oct;
+  - agree s 552B if asked;
+  - read the 30 Oct answer on seven lines;
+  - send the one-page conference agenda after it;
+  - MSH cross-check on 27–28 Oct.
+
+## 2026-10-20 (evening, about 9 pm AEST): is anything listed? No listing seen yet
+- **Email (Gmail case-file copy):** nothing from the Registry or Matheson after the 20 Oct 9:44 and 9:48 emails.
+  No notice of listing.
+  - ⚠ Gmail holds only the Hotmail auto-forwards, and the forward missed one email on 19 Oct. Check Hotmail
+    directly.
+- **QIRC public lists: not readable from this environment.**
+  - The fetch tool got HTTP 403.
+  - Direct requests and headless Chromium went through the session proxy, but the QIRC server gave no
+    response ("upstream request failed").
+  - The site refuses automated access, so no further attempts were made.
+- **The lists could not show the conference yet anyway.** Per the QIRC Hearing Lists page, as indexed:
+  - the daily list covers the next business day and is updated by 5 pm;
+  - the weekly list is updated by 5 pm each Friday and covers the following week (the 3 Jul 2026 list was
+    for the week commencing 6 Jul);
+  - weekly lists include conferences, mentions and hearings by matter number. Conferences are private (FAQ).
+  - So a 2, 5 or 6 Nov conference first appears on the weekly list of **Fri 30 Oct**.
+- **The notice of listing from the Registry comes first.** Lead times in this matter run 9–15 days. Expect it by
+  about 23 Oct for 2 Nov, or 28 Oct for 6 Nov (ledger R40).
+
+## 2026-10-20 (late): the Regulator's position by signals, with Dwyer's stance
+- `analysis/2026-10-20_REGULATOR_POSITION_MODEL_signals_with_Dwyer.md`.
+- **Dwyer's 7 Aug words re-verified against the transcript:** 00:00, 04:07, 14:52–15:49, 28:12–29:14,
+  32:43, 34:21–34:38, 59:36–59:58, 63:29.
+  - ⚠ The 59:11 "rather than… a full blown hearing" refers to the Form 29 application, not the appeal. Not a
+    merits signal.
+- **Orders re-checked:**
+  - 7 Apr FDO: leave the same day, in the draft's form; Respondent given 35 days;
+  - 19 Aug FDO(3): made further to Cory's 10 Aug correspondence;
+  - 13 Oct: an instruction with a clock, no orders.
+- **The 16 Jul rejection wording was re-verified** against the saved PDF.
+- **Model:**
+  - facts conceded by choice (Dwyer's contradict test);
+  - no case built (no expert; outlines plead "human error");
+  - defend line absent since 14 Aug;
+  - no time sought, no ¶27 particulars, no opposition to leave.
+  - Aims: no published loss; a face-saving Guide 5.1 review; nothing in writing; Dwyer's private view and
+    the medical evidence first; model-litigant optics; the narrow-fight option kept as insurance.
+- **Weights:** exit-seeking about 60%, narrow defence about 30%, full defence about 10%. Concession 55–65%
+  (unchanged).
+- **Added (late):** §7 of the position model covers how the Appellant got here and what the 19 Oct letter
+  did to them.
+  - **How:** February notice to August notices (0 denials); the 9 Sep letter left the reservation nothing
+    to bite on; their outlines could not fill the reasons gap; the pleading rebuilt on their admissions;
+    the conference chosen.
+  - **What the letter did:** "no" now costs more than "yes"; the decision is pulled forward to 30 Oct; the
+    letter sets the agenda; it leaves a private runway.
+- **Added (late):** §8, why an honest reply hurts them.
+  - The six questions ask them to confirm their own record, so an honest answer confirms it and leaves only
+    s 32(5)(a).
+  - Facts 228–231 are verified as emergency calls in the 17 Mar late shift and the 18 Mar 06:00 shift after
+    the 7-hour break. RD 69983 called that roster "unreasonable management action".
+  - ¶27 candidates are not management action, or are errors in their own outlines, or are the May sequence,
+    which the treating records do not name.
+- **Added (late):** §9 of the position model, eleven construction giveaways, all quotes verified against the
+  emails and the 8 Sep cover letter PDF. The pattern since 8 Sep: give, reserve, defer. Never assert, deny,
+  explain, or restate the defence.
+
+## 2026-10-20 (late): the 12 Oct Registry email tested against Matheson's own writing; why the profile predicts
+- `analysis/2026-10-20_AUTHORSHIP_12OCT_and_WHY_THE_PROFILE_PREDICTS.md`.
+- Script and output: `analysis/stylometry/`.
+- **Baseline:** 24 of her emails (Jul 2025 to 12 Oct), 4 since, and the 8 Sep letter as a control.
+- **Verdict: a hybrid.**
+  - Her frame and her slips.
+  - The strategy sentences are in legal idiom found in 0/24 of her emails ("in lieu of", "in the first
+    instance", "undertaking", "in receipt of", "better placed", "believes", "jointly", "not contactable").
+    Sentence overlap with her phrasing: 0–11%, against 29–40% for the frame.
+  - Pasted in 10 s; her new Registry emails take 77–549 s.
+- **Calibration:** the 24 Sep email was also pasted (20 s) but is all hers. Pasting means prepared or
+  approved, not authored by another.
+- **Withdrawn tells:** "respectfully requests" and "set down" are hers.
+- **The profile's misses lean one way:** slower and more legalistic than the Regulator has actually been.
+  That is the phase change since the admissions.
+
+## 2026-10-20 (late): the Regulator's communications coded as data points
+- `analysis/2026-10-20_REGULATOR_COMMS_AS_DATA_POINTS.md`, with script, CSV and output in `analysis/stylometry/`.
+- **Data:** 23 communications (11 before 28 Aug, 12 after).
+- **Findings:**
+  - "defend" statements 3 then 0, and apologies 4 then 0 (together 7 then 0; p ≈ 0.001, grouping chosen
+    after looking);
+  - legal reservation 0 then 3;
+  - merits words 0 of 23 throughout;
+  - the position slot is now filled by reservation, deferral or a dated promise.
+- **Correction:** median latency is unchanged (10 days, then 9). The speed-up is only in the last week.
+- **The 30 Oct reply becomes data point 24.** The first appearance of merits words, or of exit words, is the
+  key feature.
+
+## 2026-10-20 (late): what isn't said
+- `analysis/2026-10-20_WHAT_ISNT_SAID.md`.
+- **Method:** a silence counts only if saying it would be normal, cheap and wanted by a fighting party.
+  Separate silence by role (Matheson; Guide 5.1 order) from silence by choice (Counsel and the delegate, in the
+  pleading, evidence and legal correspondence).
+- **Verified today:**
+  - **The 13 May SOFC** pleads "reasonable" or "not unreasonable" 9 times across stressors 1–2 and never for
+    stressor 3 (¶¶22–24: "human error", "not causative").
+  - **The 24 Sep outlines' only denial** targets the April labels ("erratic physical presence", "unassessed
+    unilateral directives"). Nothing on database access, the 15 Apr change, misdirected calls, the
+    directory, the 23-day fatigue response or fatigue risk management. "HR's advice" is relied on with no HR
+    witness.
+- **Also unsaid:** medical evidence, ¶27 particulars, opposition or time on the 9A, costs, a push for a
+  hearing, pushback on characterisations, and exit words.
+- Dwyer on 13 Oct did not mention items 2–7. They are open, not waived.
+
+## 2026-10-20 (late): what Dwyer isn't saying
+- `analysis/2026-10-20_WHAT_DWYER_ISNT_SAYING.md`.
+- **Transcript searched today:**
+  - costs mentioned only for the Form 29 dispute ("a big sideshow");
+  - prospects, withdrawal, perception, expectation and the review decision: 0 (apart from reading Cory's list
+    aloud);
+  - "hearing" used as the default on 7 Aug;
+  - the crux named at 04:16: "how certain events or things… caused that, were significant contributors".
+  - **Correction:** the onus at 02:54 was stated plainly. The "contradict" qualification came at 15:28.
+- **13 Oct:**
+  - "notes", with no consent for their undertaking;
+  - items 2–7 not mentioned, so open and not waived;
+  - no leave, re-pleading or hearing timetable, compared with 7 Apr (leave the same day, 35 days to re-plead).
+- **Information limits:** Dwyer has not seen the outlines or the notices and responses (served, not filed).
+  He has only the 298/303 count from the 1 Oct letter. The 19 Oct letter went to Matheson only. The agenda
+  must inform him.
+
+## 2026-10-20 (late): what Matheson isn't saying; understanding; the "difficult employee" question
+- `analysis/2026-10-20_WHAT_MATHESON_ISNT_SAYING_and_the_difficult_employee_question.md`.
+- **Data on her 23 emails:**
+  - 0 characterisations of Cory (the only "difficult" is the 12 Feb courtesy, "to save any difficulty to you");
+  - "the parties" in her own framing first on 19–20 Oct;
+  - "Respondent" as a self-label only in the oppositional emails (Feb and Jul rejections, 24 Sep list);
+  - no refusals since 8 Sep;
+  - asks limited to time and dates.
+- **Admitted facts re-verified:**
+  - Taylor: "I did raise my voice…" and "My sincere apologises… oversight";
+  - "a few rostering errors made by Chloe";
+  - Reese, 10 May: "Cory's roster will not be considered, however Cory is not yet aware";
+  - Reese, 21 May: "I will follow up on the issues raised", six days after the 15 May Code of conduct email.
+- **The surviving "difficult" episodes:** 6 Jun 2023 and 15 May 2024. They are limited, and the treating records
+  name roster and pay.
+
+## 2026-10-20 (late): positioning run, consolidated
+- `analysis/2026-10-20_POSITIONING_RUN_justified.md`.
+- **Positions:**
+  - **Regulator:** undecided, leaning exit (exit 60 / narrow defence 30 / full defence 10). Concession 55–65%.
+  - **Dwyer:** neutral in substance, firm on process, with the conference as the fork.
+  - **Matheson:** cooperative carrier.
+  - **Appellant:** strong on facts, exposed on medical causation by stressor. Win if heard about 70%; allowed
+    either way about 85%.
+- **Moves:**
+  - nothing before 30 Oct;
+  - code the 30 Oct reply as data point 24;
+  - a one-page agenda after it;
+  - facts only at the conference;
+  - the doctors' availability;
+  - fix the flagged overstatements after re-verifying them;
+  - the exit protocol if offered.
+
+## 2026-10-20 (late): the 9A as storytelling
+- `analysis/2026-10-20_9A_AS_STORYTELLING_assessment.md`.
+- **Read:** the as-sent copy, from the other branch. Its MD5 differs from FOR_SUBMISSION/…CORRECTED on this
+  branch.
+- **Verdict:** good storytelling of the right kind (dates, intervals, their words; chronology, not motive).
+- **Costs:** length, three verified slips, and Q6.
+- **The slips:**
+  1. "awake and working for about sixteen hours";
+  2. "14:38 on the shift of 18 March";
+  3. C7 cites *Carr* [2022] QIRC 59 "as applied", although it was set aside in *WCR v Carr* [2023] ICQ 1
+     (10 Jan 2023).
+- **Q6** (s 32(5)(b) as a question) is a judgement call to drop. 5B answers it.
+- **9A depth, measured:**
+  - 288 admitted facts cited inline (about all 303 with the particulars);
+  - 109 dates, 136 clock times, 218 quotations, 27 intervals.
+  - Dwyer at 33:34: most appellants rely on their own evidence rather than documents.
+  - The depth is greatest on "what", thin on "why" (theirs to supply), and documents cannot carry the medical
+    link alone.
+
+## 2026-10-20 (late): litigation structure and language patterns
+- `analysis/2026-10-20_LITIGATION_STRUCTURE_and_LANGUAGE_PATTERNS.md`, with `analysis/stylometry/cory_language.py`,
+  `cory_texts/` and the output.
+- **The record:**
+  - Notice of Appeal 26 Nov 2024;
+  - 5 listings held (13 Mar conference; mentions 27 Feb, 7 Apr, 22 May, 7 Aug 2026);
+  - 7 orders or directions (3 by consent in 2025);
+  - no hearing and no contested ruling. Every dispute ended by consent, withdrawal, admission or a direction.
+- **Dropped:**
+  - the AFDO(2) timetable (Aug 2025);
+  - the reprisal, strike-out and removal parts of the Form 4 (20 Mar);
+  - Form 29 / 64G (28 Aug);
+  - the Regulator's defend line (after 14 Aug) and its document disputes.
+- **Pattern:** narrowing moved the case and widening hardened it (correlation).
+- **Cory's language:**
+  - 11 Feb: accusation 2.0 and intensity 1.2 per 100 words;
+  - 19 Oct: both 0, with admission anchors up from 0.2 to 2.8 and disclaimers appearing from 9 Sep.
+- **The Regulator mirrored it:** "we will be defending" (Feb), the formula (Jul–Aug), reservations (Sep), "the
+  parties" (Oct).
+
+## 2026-10-20 (late): the Regulator's posture, read deeply
+- `analysis/2026-10-20_REGULATOR_POSTURE_deep.md`.
+- **Verified from the rendered Form 29s:**
+  - 4 Jul 2025 to Qld Health payroll (K Wright): original and **amended payslips "including date of amendment"**,
+    the **complete 8-hour agreement of ~17/06/2020**, and payroll emails from 8 Apr to 1 Jul 2024;
+  - 27 Apr 2026: the leave form with **"screenshot(s) of the request progression over time"**;
+  - both list s 32(5)(b) perception as a matter in issue.
+- **13 May SOFC:**
+  - ¶14(e) "a review indicates that in fact, the attachments were present";
+  - ¶14(f) "human error by Ms Taylor";
+  - ¶22(a) "human error", and "not causative".
+- **Posture:** a repeat-player verifier (it tests the employer's paper and concedes where it fails), now in
+  managed retreat.
+- **Its built defence:** "mistakes aren't unreasonable management, and didn't cause the injury", plus causation by
+  stressor through cross-examination.
+- **Flip risks:** widening, thin medical evidence, a neutral private view from Dwyer.
+
+## 2026-10-20 (late): how they are defending; do they accept the claim's strength
+- `analysis/2026-10-20_HOW_THEY_ARE_DEFENDING_and_do_they_accept_its_strength.md`.
+- **The defence is RD 69983's structure:**
+  - factor 2 (response to the complaint, May 2024) reasonable: their main ground (Reese, Taylor);
+  - factor 3 (pay) reasonable: largely collapsed on admitted facts;
+  - factor 4 (roster) unreasonable: now "one incident" and "not causative".
+- **Added on appeal without evidence:** prior history (¶8) and the perception frame. The medical card is
+  cross-examining the doctors.
+- **Answer:**
+  - they accept the facts are formidable (conceded);
+  - not the claim (two legal lines held);
+  - spending shows Counsel for process and no expert to win, an inferred internal view of about 25–35% at hearing.
+- **The plan depends on:** the "difficult employee" frame for May 2024, and a weak medical link.
+- Their outlines are keyed to the April pleading.
+
+## 2026-10-21: how the Regulator reacts to each step and counter (whole Gmail record)
+- `analysis/2026-10-20_ACTION_REACTION_from_Gmail.md`; dataset `analysis/action_reaction/pairs.py` (37 pairs;
+  `pairs.csv`, `pairs_output.txt`).
+- **Sources:** four readings of 60 appeal threads (about 123 originals, Nov 2024 to 20 Oct 2026). Attachment
+  contents come from repo copies, because the Gmail connector cannot open attachments.
+- **Verified from source today:**
+  - the 11 Feb 2025 refusal (Gmail): "continue to the defend", the post-injury cut-off, "alleged injury";
+  - the 17 Dec 2024 "not at all costs… may decide to concede" (quoted verbatim in Cory's 14 Jul 2025 email,
+    exhibit to the 26 Feb 2026 affidavit p 15);
+  - the 3 Aug and 14 Aug (10:28, 13:29) emails;
+  - the 8 Sep cover letter, which is silent on filing and signed "Appeals Officer, Appeals Unit";
+  - the 13 May 2026 pleading **still seeks the costs of the hearing**;
+  - the five facts not admitted: 154 (Communication Book) and 228–231 (Tab 31).
+- **The reaction rules:**
+  - offers: 4 of 4 refused, with no counter or conferral;
+  - pressure: 0 concessions from 5;
+  - rule-based notices: answered in time;
+  - document requests: 3 of 3 delivered (median about 18 days);
+  - legal questions: 0 of 7 answered on the substance (5 silent, 1 deferred, 1 now undertaken for 30 Oct);
+  - dates and process: fast and reciprocal.
+- **Pleadings trigger records checks before pleading:** the 4 Jul 2025 and 27 Apr 2026 notices to payroll.
+- **Phases:** Feb–Mar 2026, 8 steps, 0 concessions, 3 refusals; Aug–Oct 2026, 14 steps, 7 concessions or
+  commitments, 0 refusals.
+- **The 10 Aug withdrawal** turned the Regulator into the channel to MSH: documents requested 24 Sep, vouched
+  12 Oct.
+- **Their stated channel for change:** "Should our position change at any point, we will advise you" (16 Jul).
+  Do not send an offer; keep feeding "new information".
+
+## 2026-10-21: forensic reading of the Regulator's words (what each statement does and means)
+- `analysis/2026-10-21_FORENSIC_READING_what_their_words_do_and_mean.md`; counts in
+  `analysis/forensic/regulator_forensic.py` (37 texts verbatim, Dec 2024 to 20 Oct 2026; output alongside).
+- **Read from the originals today:**
+  - Gmail: 2 Dec 2024, 4 Dec 2024, 17 Dec 2024, 16 Jan 2025, 20 Aug 2025 (both), 12 Feb 2026, 20 Mar 2026,
+    28 Aug 2026 and 7 Sep 2026;
+  - the other branch: 16, 19 and 20 Oct;
+  - the 7 Aug transcript turns;
+  - both pleadings.
+- **Findings:**
+  - the 17 Dec 2024 decision rule (concede only on "new information", by their own decision);
+  - the grammar shift from action ("we will be defending", Feb 2026) to position to contingency ("Should our
+    position change", Jul 2026);
+  - 0 "we/our/us" and 0 defend words in 13 texts since Sep;
+  - concessions never have a named actor ("a review indicates that in fact"; "upon further review…
+    is able to confirm");
+  - 6 apologies, all for process, none since 14 Aug;
+  - the one pre-Oct dated promise ("this week", 3 Aug) was missed by a week;
+  - "noting your requested timeframe" (7 Oct) changed to "respond by… as requested" (20 Oct);
+  - Dwyer's instruction to the Regulator was retold as a direction to "the parties" (19 and 20 Oct);
+  - "Mr Shepherd" throughout 2026; first name last used 20 Aug 2025.
+- **Pleadings:**
+  - 2026 ¶27 says "the Plaintiff" (the only use in 65 "appellant"s; the 2025 version said "the appellant"),
+    so it was re-cut from another template;
+  - 2025 ¶31 "does admit… human error" became 2026 ¶22 "does not admit… human error" around the same words (the
+    2026 stressor is broader);
+  - reasonableness gradient: "reasonable in all respects", then "not unreasonable" (¶14(g) leave), then
+    nothing (¶22 roster);
+  - injury both put to proof (¶6) and presupposed (¶22(f) "the appellant's injury");
+  - costs sought in both.
+- **28 Aug:** they thanked Cory for the "forthcoming expert report" only. No expert report has been served
+  since (9 Sep lay outlines and the M1–M9 schedule; 1 Oct "unchanged").
+- **7 Sep:** "only sent to myself… should also be filed". The 8 Sep response was then served only, while in Feb
+  they had filed theirs. So the 298 admissions are not on the Commission's file. Put them in the agenda.
+- **24 Sep:** Tab 20 (MSH's 5 Jun letter to Dwyer, on which Matheson was cc'd) was disputed on 8 Sep and
+  confirmed "upon further review of the appeal file". So the 14 disputes were a default.
+- **⛔ Corrections:**
+  - the 61:37 "No" has Cory's voice profile (126 Hz, 62 dB), not Matheson's; fixed in three 20 Oct files;
+  - "the parties" is not new on 19 Oct (Jan 2025, Aug 2026), but as a joint actor it is new;
+  - her mention word count is about 70, not 67.
+
+## 2026-10-22: Gmail check. Dwyer's only 2026 date is Thu 3 Dec 2026 (afternoon)
+- **Registry for Dwyer IC, 22 Oct 12:15 AEST, to Matheson and Cory:** notes the joint dates. Thu 3 Dec 2026 PM is
+  "currently the only remaining availability for the Commissioner in 2026"; the parties are to advise whether it
+  suits.
+- **Record:** `documents/correspondence-2026/2026-10-22_1214_Registry_for_Dwyer_IC_only_2026_date_Thu_3Dec_PM.txt`.
+- **No reply yet** from Matheson or Cory in the forwarded copies (about 17:30 AEST). Nothing else matter-related in
+  Gmail since 20 Oct.
+- **Scored:** "2/5/6 Nov about 80%" was wrong. The constraint was Dwyer's diary, which I had not modelled.
+- **Re-timed:**
+  - 3 Dec listing about 70% (depends on Counsel);
+  - 30 Oct answer about 80%;
+  - concession before a contested hearing 55–65% unchanged, but by Christmas falls to about 15–20%; window mid-Dec
+    to Feb 2027.
+- **Next:**
+  - Cory to confirm 3 Dec PM by a one-line email to the Registry, cc Matheson (draft given in chat);
+  - agenda after 30 Oct, about two weeks before 3 Dec;
+  - doctors' availability.
+
+## 2026-10-22: what the move to 3 Dec does to a concession
+- `analysis/2026-10-22_DELAY_TO_3DEC_effect_on_concession.md`.
+- **The delay moves timing, not odds.** The decision point is the conference (the 17 Dec 2024 rule; Guide 5.1
+  "Following the conference"; officer → Counsel → delegate). Concession before a contested hearing stays
+  55–65%.
+- **Timing split:**
+
+  | Window | Probability |
+  |---|---|
+  | Before 3 Dec | about 10% |
+  | 3 Dec to Christmas | about 8% |
+  | Jan–Mar 2027 | about 30% (the most likely) |
+  | Later in 2027 | about 10% |
+
+- **Conditional on the 30 Oct answer:** shape B gives about 75% overall; shape D gives 35–40%.
+- **WCRA read today:**
+  - s 237(1)(a)(i): damages only after a notice of assessment, so acceptance is the gateway;
+  - s 302: proceedings within the limitation period (about 18 Jun 2027), or later only if a complying notice of
+    claim (or waiver, s 297 declaration or s 298 leave) comes before it ends.
+  - So the delay squeezes the common-law runway. Get legal advice now; never use it as pressure.
+- **Actions:**
+  - confirm 3 Dec;
+  - if leave is unanswered on 30 Oct, ask the Registry whether leave can be dealt with on the papers before
+    3 Dec;
+  - agenda about two weeks before;
+  - at the conference, seek hearing directions with early-2027 dates if there is no movement;
+  - doctors' availability.
+
+## 2026-10-22: "known to be true": the model-litigant duty, verified
+- **Text verified from the DoJ page** (Cabinet directions, revised as at 4 Oct 2010; the PDF download returned
+  HTTP 202 empty):
+  - "not contesting matters which it accepts as correct, in particular by: not requiring a party to prove a
+    matter which the State knows to be true";
+  - also "dealing with claims promptly and not causing unnecessary delay", "keeping the costs of litigation to a
+    minimum", and "not seeking to take advantage of an impecunious opponent";
+  - firmness: "appropriately testing all claims";
+  - "not intended to be applied rigidly" (and Guide Part 11 p 38).
+  - Saved: `documents/instruments/QLD_MODEL_LITIGANT_PRINCIPLES_rev2010_VERIFIED_TEXT.md`.
+- **RD 69983 read** ("in the absence of evidence to the contrary"): it found injury, arising out of employment,
+  and employment a significant contributing factor. The 13 May pleading ¶6 puts all three to proof. The
+  Regulator has no contrary medical evidence.
+  - This is the clearest application of the principle, alongside facts 228–231 (Tab 31, vouched 12 Oct).
+- `analysis/2026-10-22_KNOWN_TO_BE_TRUE_what_they_should_not_make_you_prove.md`.
+- **Use:** let questions 1 and 4 (19 Oct) do it. If s 32(1) is not agreed, add a neutral agenda line, the same
+  question at the conference, and seek a direction to serve any contrary medical evidence by a date.
+  - ⛔ Never allege a breach in writing.
+
+## 2026-10-22: could the 30 Oct reply settle the appeal?
+- `analysis/2026-10-22_CAN_THE_30OCT_REPLY_SETTLE_THE_APPEAL.md`.
+- The six matters ask for positions, not a concession. The letter itself conceding: about 5%.
+- **Question 4 is the hinge.** RD 69983's Conclusion (p 26, read today) says the injury "arose out of employment,
+  to the extent that it arose out of factors 2, 3 and 4", and "factor 4 amounted to unreasonable management
+  action".
+  - A clean "yes" (about 10%) accepts the roster as part of the cause, against their ¶22(f), and leaves only the
+    counting method. Concession about 85%.
+  - Partial yes (injury only) about 20%, giving about 65–70%.
+  - Deferred about 50%, giving about 58%.
+  - Refused about 20%, giving 35–40%.
+- **The letter as turning point:** about 20–25%.
+- **Before 30 Oct, send nothing.** Responses by shape are in the file.
+
+## 2026-10-22: if answered properly, does allowing the appeal follow?
+- `analysis/2026-10-22_IF_ANSWERED_PROPERLY_does_allowing_the_appeal_follow.md`.
+- Langerak [86] and Mahaffey [57] verified from the judgment texts.
+- **Mostly yes.** A proper answer to question 4 accepts injury and "arose out of employment, to the extent… factors
+  2, 3 and 4", and factor 4 is unreasonable per their own review.
+  - Mahaffey [57] ("no formula or dominant cause… does not, on balance, displace… a finding in the worker's favour
+    must follow") then leaves the exclusion only if factors 2 and 3 outweigh the roster. On pay (Part Completed;
+    425 days) that is hard.
+- **Gaps:**
+  - reasonableness of factors 2 and 3 is left to the Commission;
+  - a partial answer needs a basis (March to June gap; *WCR v Carr* [2023] ICQ 1);
+  - the onus is on the Appellant;
+  - only consent orders or a decision end it.
+
+## 2026-10-23: Matheson, 23 Oct 08:39: Counsel unavailable 3 Dec; 21 Jan or 10 Feb 2027; "most, if not all… resolved before the conference"
+- **Record:** `documents/correspondence-2026/2026-10-23_0839_Matheson_Counsel_unavailable_3Dec_offers_21Jan_10Feb_2027.txt`
+  (to Cory only; the thread now has 14 messages, all listed).
+- **Decoder of all her emails** (literal, actual meaning, why):
+  `analysis/2026-10-23_MATHESON_DECODED_literal_vs_actual_meaning.md`.
+- **Meaning:**
+  - they won't run the conference without Counsel;
+  - the delay is theirs;
+  - "I hope we can continue communicating any points of issue in the hopes that most, if not all, can be resolved
+    before the conference" is the first talk of resolution, said privately; it previews a cooperative 30 Oct
+    letter.
+- **Reply** (if both dates suit): both suit; prefer 21 Jan; agree to resolve as many points as possible
+  beforehand; look forward to her reply by 30 Oct. Nothing else.
+  - Don't push 3 Dec without Counsel.
+  - Don't point out the delay is theirs.
+- **Forecast:**
+  - concession before a contested hearing 60–65%;
+  - before the conference about 20%;
+  - window Feb–Apr 2027;
+  - 148 days from 21 Jan to the June 2027 limitation, so legal advice is more urgent.
+- **Scored:** 3 Dec about 70% was wrong.
+
+## 2026-10-23: Cory's 9:19 am email to the Registry (cc Matheson): availability, 19 Oct letter, proposed directions
+- **Record:** `documents/sent-2026-10-23/…_AS_SENT.txt`.
+- **Assessment:** `analysis/2026-10-23_ASSESSMENT_Cory_23Oct_email_to_Registry.md`.
+- **Good:**
+  - availability for 3 Dec on record, so the 2027 delay sits with their Counsel;
+  - the 19 Oct letter and the 30 Oct undertaking are now before Dwyer (the admissions were not on his file);
+  - raises the stakes of the 30 Oct answer;
+  - legally open (s 552A conference discretionary).
+- **Risk:**
+  - sent 40 minutes after Matheson's private "most, if not all" line, it bypasses her joint process;
+  - proposes no conference and directions, against their 12 Oct preference;
+  - the conference is their natural concession trigger.
+  - Net about neutral.
+- **Next:** one short reply to Matheson only (draft in the file): both dates suit, prefer 21 Jan, agree to resolve
+  points before the conference, content with whichever course the Commission prefers. Then nothing more to the
+  Registry.
+
+## 2026-10-23: Cory's 9:31 reply to Matheson; what the Regulator can reasonably stand on
+- **Sent 9:31 to Matheson only:** both dates suit, prefer 21 Jan, agree to resolve points first, content with
+  whichever course the Commission prefers. The joint process is repaired.
+  - Record: `documents/sent-2026-10-23/2026-10-23_0931_…AS_SENT.txt`.
+- **Steelman:** `analysis/2026-10-23_WHAT_THE_REGULATOR_CAN_REASONABLY_STAND_ON.md`.
+- **Gone:**
+  - disputing facts;
+  - the roster as reasonable;
+  - the leave decline;
+  - the counting method;
+  - a real contest on injury and significant contributing factor;
+  - ¶27 as a catch-all.
+- **Left:**
+  - A. medical causation by stressor (*WCR v Carr* [2023] ICQ 1; *Rowe v Q-COMP* cited in RD; Guide p 34; March
+    roster vs June onset; first certificate in Cory's own terms; no expert served): their best ground;
+  - B. factor 2 reasonable and closest in time;
+  - C. pay reasonable if imperfect (weak on the admitted facts);
+  - D. the weighing (depends on A–C; *Mahaffey* [57]);
+  - E. prior history (weak);
+  - F. perception (weak unless the door is opened);
+  - G. procedural rights.
+- **Their most defensible 30 Oct line on question 4 is a partial yes** (injury, not the roster's contribution).
+- **The swing variable is the treating doctors attending and linking the roster, the fatigue response and pay.**
+  Win if heard: about 80% with them, about 50–55% on records alone, about 70% now.
+
+## 2026-10-23: what she meant by "most, if not all, can be resolved before the conference"
+- **"Resolved" appears once in 38 Regulator texts (Dec 2024 to now): this email.** "Resolution" and "settle" never
+  appear. "Hope" is her habitual softener.
+- **The forum moves:** 12 Oct "better placed to be discussed at the conference"; 23 Oct "resolved before the
+  conference".
+- **Readings:**
+  - narrowing, most of the six matters agreed in writing (about 55%);
+  - face-saving after their Counsel's delay (about 25%);
+  - signal that full resolution is contemplated (about 20%).
+- **Not** an offer, a concession, or authorised.
+- **The test is the 30 Oct letter.** Added as §6 of `analysis/2026-10-23_MATHESON_DECODED_literal_vs_actual_meaning.md`.
+
+## 2026-10-23: the underlying message of Matheson's 23 Oct email
+- Added as §7 of the decoder.
+- **Built in five moves:** anchor; bad news put on Counsel's diary; blame partly spread to the Commissioner's
+  diary; the pivot ("Although… I hope we can… most, if not all, can be resolved"); a joint process promise.
+- **Wording:**
+  - the first inclusive "we" to Cory since Jan 2025;
+  - "resolved", not "narrowed" (the first "resolve" in 38 texts);
+  - "hope" three times (her maximum elsewhere is one);
+  - sent privately, so off the Commission's file.
+- **Underlying message:** "the delay is ours, sorry; don't read it as stalling or escalate it; let's work it out
+  together in writing; most, maybe all, agreed before the conference."
+- **⛔ Correction** to the 21 Oct forensic file: one institutional "we" since Sep was missed (24 Sep 11:55
+  outlines email, "the witnesses we intend to call"). Fixed in the file.
+
+## 2026-10-23: how today's two emails affect Matheson's "resolve" message
+- No replies yet (Gmail checked).
+- **9:19 (Registry):** her private "most, if not all… resolved" becomes in effect public: Dwyer knows the six
+  matters and her 30 Oct date. That raises the cost of a thin answer; the letter is more likely Counsel-settled and
+  copied to the Registry.
+- **9:31 (her only):** accepted her offer in her own words, so the relationship is likely intact.
+- **The upside:** a possible report direction gives a November checkpoint before the January conference.
+- **Odds:** concession 60–65% unchanged; before the conference about 20% (about 25% if a report is directed).
+- **Watch:**
+  - her register (inclusive "we" or "resolve", against "the Regulator");
+  - whether the 30 Oct letter is copied to the Registry;
+  - Dwyer's response.
+- **Send nothing more.**
+- Added as §5 of `analysis/2026-10-23_ASSESSMENT_Cory_23Oct_email_to_Registry.md`.
+
+## 2026-10-23: deeper decode of Matheson's 23 Oct email (§8 of the decoder)
+- Her pivot mirrors the 19 Oct letter's method ("Matters that may be agreed… so that the conference can be used
+  efficiently… Any matter that is agreed can then simply be noted at the conference"). It answers its consequence
+  ("…I will ask the Commission… to make directions"): **agree, so no orders.**
+- It probably carries Counsel's first view (Counsel back 22 Oct; "went back to" her; email 8:39 next morning).
+- **The horizon moves** from "respond by 30 Oct" to "resolved before the conference", so expect staged answers;
+  30 Oct is instalment one.
+- Deliberate warming since 7 Oct.
+- The conference becomes a backstop.
+- "If not all" includes question 4.
+- She knows about the no-income hardship (31 Jul).
+- **Readings:** narrowing about 50%; full resolution contemplated about 25–30%; face-saving about 20%. Concession
+  60–65%, upper half supported.
+
+## 2026-10-23: the 9:19 Registry email read through Matheson's 8:39 message
+- §6 of the assessment.
+- **As Matheson and Counsel will hear it:**
+  - he told Dwyer our Counsel caused the delay, and passed on the dates before she could;
+  - "if a conference remains necessary" (their forum for changing position);
+  - our 30 Oct answer will now be read by Dwyer;
+  - he accepts "resolve", but his destination is a hearing, not an agreed outcome;
+  - he asks for the orders we asked Dwyer not to make;
+  - "without unnecessary delay" echoes the Model Litigant Principles (may read as pointed).
+- **Good:** her "most, if not all" line was not disclosed to the Commission (dates only).
+- **Net:** cooperation under the Commission's eye. Odds unchanged.
+- **Lesson:** lead with resolution, keep the hearing implicit.
+
+## 2026-10-23: revision: the hearing-ready signal works (Appellant's point accepted)
+- Two kinds of pressure. **Accusatory** pressure (Feb 2026) got 0 concessions from 5. **Procedural** clocks got
+  results: the r 49 clock gave 298 of 303; Dwyer's clock gave dates early; the dated letter gave a dated
+  undertaking.
+- A hearing listing is the biggest clock. It bites through exposure (published reasons on the counting method),
+  cost (trial brief, no expert), and the loss of inertia. The January conference can't be a holding pattern.
+- **Conditions:**
+  - medical credibility (line up the doctors' availability);
+  - stay procedural;
+  - keep a dignified exit open (9:31 did this).
+- Concession before the conference about 25%. Overall 60–65%, upper half.
+- §6 lesson ("keep the hearing implicit") replaced by §7: **procedural pressure plus an open door, backed by
+  medical credibility.**
+
+## 2026-10-23: a different member can hear it, possibly with a date fixed in 2026
+- **Verified:**
+  - FDO(3) direction 5 (rendered): "the Appellant is to contact the Industrial Registry in order to proceed to a
+    second s552A conference, or to hearing". The choice is the Appellant's; the 2nd conference exists only because
+    he elected it on 1 Oct.
+  - Guide §5.1: the conference member "will not be the Member who hears the appeal".
+  - Guide §7.1: "allocated to a different Member for hearing"; the Appellant "may request that the matter be
+    heard… in writing to the Industrial Registry".
+  - WCRA s 552A (discretionary), s 552B (Counsel needs agreement or leave), s 554 (documents 10 business days
+    before the hearing).
+- **Odds:**
+  - hearing held before 31 Dec about 5%;
+  - hearing date fixed before Christmas (for Feb–Mar 2027) without a conference about 20%;
+  - the conference path gives a hearing around Apr–Jun 2027.
+- **Bottlenecks:**
+  - leave (or proceed on the 8 Apr 9A);
+  - Counsel's diary (agree s 552B);
+  - member diary and Christmas (short 1–2 day estimate);
+  - witnesses (line up the doctors);
+  - the Regulator will cite his conference election.
+- **Decision rule after 30 Oct:** elect hearing if s 32(1) is agreed or partial, or if a fight letter comes; keep
+  21 Jan if they defer.
+- **Draft election email** in `analysis/2026-10-23_HEARING_BEFORE_2027_feasibility.md`.
+
+## 2026-10-23: is their Counsel needed? Could another counsel sit in?
+- **No lawyer is needed in law.** s 552A(2): "The parties must attend". s 552B: a lawyer appears only by agreement
+  or leave. Matheson attended 7 Aug alone.
+- **Waiting for Willson instead of 3 Dec was a choice.** They have a panel and a deep bench (more than a dozen
+  barristers in one quarter, per the repo summary of OIR's Oct–Dec 2024 disclosure). Matheson could attend alone.
+- **Why they want her:** continuity; she advises the delegate; she runs the hearing; possibly time.
+- **Don't reopen 3 Dec** (accepted 21 Jan at 9:31).
+- **Use the point at hearing listing:** "not deferred only because of a particular counsel's availability" (added
+  to the draft election). Give s 552B agreement freely.
+- **⛔ Correction:** "Gray paid Dec 2024; Willson Jan 2025" (20 Oct files) overstated. The disclosure ties no
+  payment to this matter; Gray's link is metadata only. Fixed in the posture and litigation-structure files.
+
+## 2026-10-23: what has the Regulator spent on the matter? (estimate)
+- **File:** `analysis/2026-10-23_RESPONDENT_SPEND_estimate_to_23Oct.md`; model `analysis/spend/spend_estimate.py`
+  → `spend_output.txt` (40 sourced steps, 100,000 draws, fixed seed).
+- **Rate anchor read today:** DoJ *Whole-of-government policy for engaging barristers* (page updated 25 May 2026):
+  junior counsel capped at **$300 an hour / $3,000 a day ex GST**; above that needs the Attorney-General.
+- **Result:**
+  - appeal to 23 Oct about **$50,000** (P10 $40k, P90 $61k): counsel about $19k over about 70 h; officers about
+    $30k over about 275 h;
+  - plus the 2024 review about $5k, so about **$55,000** overall (P10 $44k, P90 $67k).
+- **Breakdown:** reading his material 28%, their own work 25%, answering his notices 21%, attendances 16%.
+- **Biggest single step:** the 303-fact check, about $6k (it bought 298 admissions).
+- **Still to come:** 30 Oct answers about $2.3k; the conference about $4.2k; a two-day hearing about $24k
+  (total about $85k if heard).
+- **⛔ Corrections:**
+  - `drafts/out/RESPONDENT_SPEND_ESTIMATE.pdf` (23 Aug, mid $86k) is superseded; banner added. It had no cap,
+    assumed counsel on 7 Aug (Matheson alone), and leaned on metadata. Same steps on capped rates: about $37k.
+  - The 4 Aug LABOUR-LEDGER priced Willson at $450/h, above the cap. Noted in the ledger.
+- **Discipline:** never put the figure to them; it is not his costs exposure; RTI for the real number only after
+  the appeal.
+
+## 2026-10-23: plus his own lawyers ("plus my counsel")
+- **Verified:** Saines Legal, WC matter 252158, **$9,734.00** paid in total (GST inclusive). Source: the trust
+  statement as at 28 Aug 2025 (`01-appeal` repo, Exhibit H1) and Saines' emails of 25 Jun to 12 Aug 2025.
+  - Funded by $2,029.40 journalled from reinstatement matter 252139, a $5,000 deposit (22 May 2025) and $2,704.60
+    (4–6 Aug 2025).
+  - Invoice 4240 was $3,823.60.
+  - **No barrister was briefed in the appeal.** A $3,300 deposit was requested 21 Jul; the retainer ended 23 Jul
+    2025 (cl 29).
+- **Combined appeal spend:** the Regulator about $55k (with the review) plus his $9,734 = **about $64k**
+  ($54k–$76k). Added to the 23 Oct spend file.
+- **⛔ Correction:** `documents/2024-11-26_Saines_Cost_Agreement.pdf` is a **Stone Group Lawyers** costs agreement
+  (BH:FG:147637), not Saines.
+  - Corrected in confirmed-record (two places), README and METADATA_REGISTER.
+  - The file name is left as is; the mislabel is flagged.
+  - No Stone Group invoice or payment is on file. Its work looks to have been on the reinstatement matter.
+- **Open:** if he tells us what he paid Stone Group, and whether any of it was for the appeal, add it.
+
+## 2026-10-23: plus his counsel at the hearing (his instruction: he will be represented if it goes there)
+- **Model** (`analysis/spend/spend_estimate.py`, appellant section): day rate $3,300–$4,600 incl GST (Saines quote
+  of 21 Jul 2025); about 6.4 counsel days.
+  - **Direct brief about $25,000** ($20k–$30k).
+  - **With an instructing solicitor about $35,000** ($28k–$43k).
+  - This supersedes the quick $13k–$26k given earlier the same day.
+- **Costs if he wins, read from source today:**
+  - WCRA s 558(3) and s 560;
+  - current UCPR sch 2 pt 2 column C (incl GST): counsel $1,845 the first hearing day, $1,232 each later day,
+    $290.50 an hour in conference, $303.40 to advise on evidence;
+  - with a solicitor, $1,975 + $2,098 preparing and $742.40 a day attending.
+- **Two-day hearing recovery:** direct about $4,250 (×1.5 about $6,400); with a solicitor about $9,800 (×1.5 about
+  $14,700). A win with costs returns about a sixth to a quarter of a direct brief.
+- **Both sides through a hearing:** about $120k ($104k–$138k) on a direct brief; about $131k with a solicitor.
+  - Regulator about $86k.
+  - Him about $34.5k: $9,734 paid plus about $25k for counsel.
+- **Not counted:** the doctors' court fees (ask each).
+- **Draft election updated:** he intends to be represented; mutual s 552B agreement sought; counsel's dates. Line up
+  counsel before electing, because item (b) cuts both ways.
+
+## 2026-10-23: STANDING INSTRUCTION, decode every email (never literal); Saines decoded
+- **Cory's instruction:** for every email, decode what it says, what it means, the timing, what the sender is
+  trying to do and what is missing; then assess. Recorded in `CLAUDE.md` ("Reading emails"). Motive is decoded
+  internally only; filings still state chronology, never motive.
+- **Applied to Saines Legal's full sequence** (14 emails, 4 Jun to 15 Aug 2025, plus the Regulator's 14 Jul 2025
+  email). File: `analysis/2026-10-23_SAINES_DECODED_what_their_emails_meant.md` (⛔ privileged, never exhibit).
+  - **Money, not prospects, was the trigger.** "Significant concerns" were recorded on 12 May 2025, yet they acted
+    and billed for ten more weeks. Then: plan refused; a 26h20m ultimatum (22 Jul, 9:39am, for noon 23 Jul);
+    termination 3h52m after it lapsed, under cl 29 of the costs agreement; prospects cited as the justification.
+  - "Not sufficient time" was a choice: the funds were promised for 28/29 Jul, two weeks before the 13 Aug due date.
+  - **Self-protection wording:** fiduciary duty, discontinuance in the options, the reinstatement "outcome", and the
+    refusal of ad hoc help (30 Jul).
+  - **Missing:** no referral, no extension sought for 13 Aug, and no written cost estimate (promised 25 Jun; only
+    the barrister day rate was given on 22 Jul).
+  - **The Regulator's 14 Jul 2025 email** asked him, not his lawyers, for an extension after its witness
+    conferences of 8–11 Jul. His reply about stress and "at all costs" was never answered; they answered by
+    pleading on 22 Jul.
+  - **For hiring hearing counsel:** funds and a written estimate first, a defined scope, engage before electing,
+    brief on today's record, expect written risk warnings.
+- **Discipline kept:** the Form 35 date (metadata only) is not relied on.

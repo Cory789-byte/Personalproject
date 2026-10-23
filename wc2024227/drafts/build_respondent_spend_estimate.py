@@ -2,6 +2,9 @@
 """WC/2024/227 - estimated Respondent expenditure on defending the appeal, to 23 August 2026.
 
 INTERNAL WORKING DOCUMENT. Not for service.
+SUPERSEDED 23 Oct 2026 by analysis/2026-10-23_RESPONDENT_SPEND_estimate_to_23Oct.md (banner added; body kept
+as it stood on 23 Aug). Errors: no government cap on counsel's rate; counsel assumed at the 7 Aug mention
+(Matheson attended alone); the "PDF author" row rests on metadata, which is never cited.
 No document ties any expenditure to this matter. The estimate is built from (a) the procedural
 steps actually taken, verified from the file, and (b) rates observable in the Office of Industrial
 Relations' own published contract disclosure for October-December 2024.
@@ -32,6 +35,14 @@ def P(t, s=B): return Paragraph(t, s)
 st = [P("Estimated Respondent expenditure on defending WC/2024/227, to 23 August 2026", H1),
       P("Internal working document &middot; 23 August 2026 &middot; an ESTIMATE, not a finding "
         "&middot; not for service", SUB)]
+
+st.append(P("<b>SUPERSEDED 23 October 2026</b> by "
+            "analysis/2026-10-23_RESPONDENT_SPEND_estimate_to_23Oct.md. Three errors: (1) counsel is priced "
+            "without the Queensland Government cap for junior counsel, <b>$300 an hour and $3,000 a day, ex "
+            "GST</b>; (2) counsel did not attend the 7 August mention &mdash; Ms Matheson attended alone; "
+            "(3) the &ldquo;PDF author&rdquo; row rests on metadata, which is never cited, and no payment is "
+            "tied to this matter. <b>On capped rates the same steps to 23 August come to about $37,000</b> "
+            "(likely $29,000 to $45,000), not $86,000. The body below is kept as it stood on 23 August.", W))
 
 st.append(P("&#9888; <b>No document ties any expenditure to this matter.</b> This is built from the "
             "procedural steps actually taken, priced against rates observable in the Office of "

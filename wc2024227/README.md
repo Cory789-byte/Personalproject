@@ -58,7 +58,7 @@ Full detail per file in `documents/METADATA_REGISTER.md` Part 3A.
 | `documents/filings/` | Form 35 (withdrawal of Saines Legal / Paul Conrad); supplementary Form 4 + Form 20 affidavits (stamped 26 Feb 2026); Form 4 Disclosure application + affidavit (stamped 27 Feb 2026) |
 | `documents/2026-02-18_Form24_Response_and_email_communication.pdf` | **The Form 24 response** (dated 18/02/2026; the source for the confirmed-record schedule — pinpoint verification can run against it) |
 | `documents/Review_Decision_69983_24.10.2024.pdf` | The keystone Review Decision (factor-4 unreasonableness finding; *Delaney* global evaluation; s 32(5)) |
-| `documents/2024-11-26_Saines_Cost_Agreement.pdf` | Saines Legal costs agreement (ref BH:FG:147637) |
+| `documents/2024-11-26_Saines_Cost_Agreement.pdf` | ⛔ Mislabelled: a **Stone Group Lawyers** costs agreement (ref BH:FG:147637), not Saines |
 | `documents/correspondence/` | Feb→Mar 2026 listing .msg chain (Form 24 service dates; the 26→27 Feb mention reschedule); Quatrix portal screenshots (Review 69983 re-send 16 Apr 2025) |
 | `documents/evidence/` | `Individual_monthly_stats_April2025.xlsx` — switchboard call stats (load-profile anchor; author Sonya Willmann) |
 | `documents/provenance/` | Cory's QIRC mailbox export manifest (159 items, SHA-256 per file) + export log — provenance for the `YYYYMMDD_HHMM__` filenames |

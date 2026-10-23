@@ -1,0 +1,137 @@
+{
+ "k2_cmn_agglom_avg": {
+  "silhouette": 0.309,
+  "sizes": [
+   80,
+   48
+  ]
+ },
+ "k2_cmn_ward": {
+  "silhouette": 0.309,
+  "sizes": [
+   85,
+   43
+  ]
+ },
+ "k2_cmn_kmeans": {
+  "silhouette": 0.316,
+  "sizes": [
+   82,
+   46
+  ]
+ },
+ "k3_cmn_agglom_avg": {
+  "silhouette": 0.415,
+  "sizes": [
+   48,
+   43,
+   37
+  ]
+ },
+ "k3_cmn_ward": {
+  "silhouette": 0.405,
+  "sizes": [
+   51,
+   43,
+   34
+  ]
+ },
+ "k3_cmn_kmeans": {
+  "silhouette": 0.421,
+  "sizes": [
+   46,
+   46,
+   36
+  ]
+ },
+ "k4_cmn_agglom_avg": {
+  "silhouette": 0.345,
+  "sizes": [
+   46,
+   43,
+   37,
+   2
+  ]
+ },
+ "k4_cmn_ward": {
+  "silhouette": 0.343,
+  "sizes": [
+   43,
+   34,
+   34,
+   17
+  ]
+ },
+ "k4_cmn_kmeans": {
+  "silhouette": 0.358,
+  "sizes": [
+   43,
+   42,
+   34,
+   9
+  ]
+ },
+ "k5_cmn_agglom_avg": {
+  "silhouette": 0.334,
+  "sizes": [
+   46,
+   43,
+   34,
+   3,
+   2
+  ]
+ },
+ "k5_cmn_ward": {
+  "silhouette": 0.257,
+  "sizes": [
+   34,
+   34,
+   29,
+   17,
+   14
+  ]
+ },
+ "k5_cmn_kmeans": {
+  "silhouette": 0.304,
+  "sizes": [
+   45,
+   34,
+   33,
+   13,
+   3
+  ]
+ },
+ "k6_cmn_agglom_avg": {
+  "silhouette": 0.314,
+  "sizes": [
+   43,
+   43,
+   34,
+   3,
+   3,
+   2
+  ]
+ },
+ "k6_cmn_ward": {
+  "silhouette": 0.237,
+  "sizes": [
+   34,
+   34,
+   29,
+   14,
+   14,
+   3
+  ]
+ },
+ "k6_cmn_kmeans": {
+  "silhouette": 0.212,
+  "sizes": [
+   41,
+   31,
+   27,
+   14,
+   8,
+   7
+  ]
+ }
+}
