@@ -8305,3 +8305,24 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Not counted:** the doctors' court fees (ask each).
 - **Draft election updated:** he intends to be represented; mutual s 552B agreement sought; counsel's dates. Line up
   counsel before electing, because item (b) cuts both ways.
+
+## 2026-10-23: STANDING INSTRUCTION, decode every email (never literal); Saines decoded
+- **Cory's instruction:** for every email, decode what it says, what it means, the timing, what the sender is
+  trying to do and what is missing; then assess. Recorded in `CLAUDE.md` ("Reading emails"). Motive is decoded
+  internally only; filings still state chronology, never motive.
+- **Applied to Saines Legal's full sequence** (14 emails, 4 Jun to 15 Aug 2025, plus the Regulator's 14 Jul 2025
+  email). File: `analysis/2026-10-23_SAINES_DECODED_what_their_emails_meant.md` (⛔ privileged, never exhibit).
+  - **Money, not prospects, was the trigger.** "Significant concerns" were recorded on 12 May 2025, yet they acted
+    and billed for ten more weeks. Then: plan refused; a 26h20m ultimatum (22 Jul, 9:39am, for noon 23 Jul);
+    termination 3h52m after it lapsed, under cl 29 of the costs agreement; prospects cited as the justification.
+  - "Not sufficient time" was a choice: the funds were promised for 28/29 Jul, two weeks before the 13 Aug due date.
+  - **Self-protection wording:** fiduciary duty, discontinuance in the options, the reinstatement "outcome", and the
+    refusal of ad hoc help (30 Jul).
+  - **Missing:** no referral, no extension sought for 13 Aug, and no written cost estimate (promised 25 Jun; only
+    the barrister day rate was given on 22 Jul).
+  - **The Regulator's 14 Jul 2025 email** asked him, not his lawyers, for an extension after its witness
+    conferences of 8–11 Jul. His reply about stress and "at all costs" was never answered; they answered by
+    pleading on 22 Jul.
+  - **For hiring hearing counsel:** funds and a written estimate first, a defined scope, engage before electing,
+    brief on today's record, expect written risk warnings.
+- **Discipline kept:** the Form 35 date (metadata only) is not relied on.

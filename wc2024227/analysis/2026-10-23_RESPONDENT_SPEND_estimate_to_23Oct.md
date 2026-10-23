@@ -104,6 +104,8 @@ not published).
   - On 21 Jul 2025 Saines asked for a $3,300 deposit to brief one, quoting $3,300–$4,400 a day including GST.
   - The retainer ended on 23 Jul 2025.
   - The trust account was cleared on 12 Aug 2025.
+  - **Decoded** (`analysis/2026-10-23_SAINES_DECODED_what_their_emails_meant.md`): they terminated for money,
+    3h52m after a 26-hour ultimatum lapsed. "Prospects" was the justification, not the trigger.
 - **Stone Group Lawyers (Nov 2024 to Jan 2025):**
   - Its costs agreement (the file mislabelled `2024-11-26_Saines_Cost_Agreement.pdf`) covered the reinstatement
     application and the appeal.

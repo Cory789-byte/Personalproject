@@ -44,6 +44,21 @@ Running the WorkCover appeal at counsel standard, self-represented. The immediat
 
 Keep **confirmed-against-source** strictly separate from **working-theory**. A memory reconstruction is a lead to verify, not authority. Before any pinpoint/date/quote enters a filing, open the source document.
 
+## Reading emails (Cory's standing instruction, 23 Oct 2026)
+
+**Never read an email literally.** This applies to every party: the Regulator, the Registry, Dwyer's chambers, MSH,
+former lawyers and the union. For each email, decode:
+1. what it says;
+2. what it actually means;
+3. the timing: when it was sent, the gap since the last step, the deadlines, and where it sits against events;
+4. what the sender is trying to do;
+5. what is missing.
+
+**Then assess.** Grade readings of intent (strong / moderate / weak). Decoding motive is for internal analysis
+only: anything filed or sent still states chronology, never motive. Worked examples:
+- `analysis/2026-10-23_MATHESON_DECODED_literal_vs_actual_meaning.md`
+- `analysis/2026-10-23_SAINES_DECODED_what_their_emails_meant.md`
+
 ## How to work in this project (Claude Code)
 
 - **Source documents** live in `documents/` (you populate this from OneDrive — the actual PDFs: Form 9A, Form 24, the MSH objection, the Regulator's 11 June disclosure, the medical records, the rosters, the payroll). Claude reads them from there.
