@@ -8185,3 +8185,16 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - She knows about the no-income hardship (31 Jul).
 - **Readings:** narrowing about 50%; full resolution contemplated about 25–30%; face-saving about 20%. Concession
   60–65%, upper half supported.
+
+## 2026-10-23: the 9:19 Registry email read through Matheson's 8:39 message
+- §6 of the assessment.
+- **As Matheson and Counsel will hear it:**
+  - he told Dwyer our Counsel caused the delay, and passed on the dates before she could;
+  - "if a conference remains necessary" (their forum for changing position);
+  - our 30 Oct answer will now be read by Dwyer;
+  - he accepts "resolve", but his destination is a hearing, not an agreed outcome;
+  - he asks for the orders we asked Dwyer not to make;
+  - "without unnecessary delay" echoes the Model Litigant Principles (may read as pointed).
+- **Good:** her "most, if not all" line was not disclosed to the Commission (dates only).
+- **Net:** cooperation under the Commission's eye. Odds unchanged.
+- **Lesson:** lead with resolution, keep the hearing implicit.
