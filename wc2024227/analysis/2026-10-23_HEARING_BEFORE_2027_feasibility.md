@@ -75,9 +75,10 @@ and the about 18 Jun 2027 common-law limitation.
 > (b) the matter be listed for hearing on the first available date, and not deferred only because of a particular
 >     counsel's availability.
 >
-> I estimate the hearing at [two] days. I agree to the Respondent being represented by Counsel at the hearing
-> (s 552B). I am available on any date, and will confirm my witnesses' availability on request. I remain willing
-> to resolve any further points with the Respondent in the meantime.
+> I estimate the hearing at [two] days. I intend to be represented by counsel at the hearing. I agree to the
+> Respondent being represented by Counsel (s 552B), and ask the Respondent to confirm its agreement to my being
+> represented. My counsel is available on [dates], and I will confirm my witnesses' availability on request. I
+> remain willing to resolve any further points with the Respondent in the meantime.
 >
 > Yours faithfully,
 > Cory Lea Shepherd, Appellant (self-represented)
@@ -135,3 +136,10 @@ and the about 18 Jun 2027 common-law limitation.
   on the first available date, and not deferred only because of a particular counsel's availability."
 - Keep giving s 552B agreement freely. Never use it as a bargaining chip: leave would be granted anyway, and it
   would look like gamesmanship.
+
+**Added 23 Oct: you will have counsel at the hearing.**
+- **s 552B applies to you too.** Ask for mutual agreement in the election (the draft above is updated).
+- **Engage counsel and get their available dates before you elect.** Item (b) ("not deferred only because of a
+  particular counsel's availability") cuts both ways.
+- **Cost:** about $25,000 on a direct brief, or about $35,000 with a solicitor. A costs order would return only
+  about $4,250–$6,400 on a direct brief (see `analysis/2026-10-23_RESPONDENT_SPEND_estimate_to_23Oct.md`).

@@ -119,9 +119,72 @@ not published).
 | Your lawyers (verified) | $9,734 | |
 | **Total** | **about $64,000** | **$54,000 – $76,000** |
 
-**If you brief a barrister yourself for a two-day hearing,** allow roughly $13,000–$26,000. That is two hearing
-days plus two to four days of preparation, at the $3,300–$4,400 a day Saines quoted in 2025. A solicitor to
-instruct them would cost more.
+## Plus your counsel at the hearing (added 23 Oct: "which I will have represent me if it goes there")
+
+**Modelled** in `analysis/spend/spend_estimate.py`, appellant section.
+- **Day rate:** $3,300–$4,600 incl GST. Saines quoted $3,300–$4,400 a day on 21 Jul 2025; the top allows a 2026
+  rise.
+- **Counsel's work:**
+  - reading in: 1–2.5 days;
+  - conferences with you: 0.25–0.75 day;
+  - your witnesses and the doctors: 0.25–1 day;
+  - cross-examination preparation for their four witnesses: 0.5–1.25 days;
+  - the hearing: 1, 2 or 3 days (20/55/25%);
+  - written submissions: 0.5–1.5 days, if directed (70%).
+
+| Your counsel at a hearing | Most likely | Likely range |
+|---|---|---|
+| **Direct brief** (barrister only; you do the solicitor's work) | **about $25,000** (about 6.4 counsel days) | $20,000 – $30,000 |
+| With an instructing solicitor | about $35,000 | $28,000 – $43,000 |
+
+*This supersedes the quick "$13,000–$26,000" given earlier today. That figure left out the conferences, the witness
+work and written submissions.*
+
+**What a costs order would give back if you win.**
+- **Read from source today:**
+  - WCRA s 558(3): "Costs of the hearing are in the appeal body's discretion, except to the extent provided
+    under a regulation";
+  - s 560: an order is a recoverable debt;
+  - the current UCPR, Schedule 2 ("Scale of costs—Magistrates Courts"), Part 2, column C, including GST. It
+    applies through WC Regulation 2025 s 191, as verified in the 25 Sep register.
+- **Scale C items:**
+  - counsel on the hearing: $1,845.00 the first day and $1,232.00 each later day;
+  - counsel in conference: $290.50 an hour;
+  - counsel to advise on evidence: $303.40;
+  - with a solicitor: preparing for trial $1,975.00 plus $2,098.00, and attendance with counsel $742.40 a day.
+- **The Commission can allow up to 1.5 times** (s 191(3)).
+
+| Two-day hearing | Scale C | At the 1.5× maximum |
+|---|---|---|
+| Direct brief | about $4,250 | about $6,400 |
+| With a solicitor | about $9,800 | about $14,700 |
+
+**So even a win with costs returns only about a sixth to a quarter of a direct brief.**
+- Costs are discretionary, not automatic.
+- The 2025 Saines fees may not be covered at all: the order is for "costs of the hearing".
+- If you lose, a similar small scale applies the other way, for their counsel's hearing fees. Roughly $4,000–$6,500
+  on these items.
+
+**Not counted:** the treating doctors' court-attendance fees (your witnesses). Ask each doctor for their fee when
+you line up their availability. Witness costs are recoverable only at the regulation's witness allowances.
+
+**The other things a hearing counsel changes:**
+1. **s 552B applies to you too.** Your counsel can appear only with the parties' agreement or the Commission's
+   leave. Ask for mutual agreement when you elect hearing (the draft election is updated).
+2. **Line up your counsel's dates before you elect.** The draft asks that the hearing "not be deferred only because
+   of a particular counsel's availability", and that cuts both ways.
+3. **A direct brief saves about $10,000.** You have already organised the material a solicitor would.
+4. **It makes the hearing path more credible to them.** A represented appellant who will cross-examine their four
+   witnesses is a different risk from a self-represented one.
+
+## Total through a hearing, both sides
+
+| | Most likely | Likely range |
+|---|---|---|
+| The Regulator: to date (with the review) plus the 30 Oct answers, the conference and a two-day hearing | about $86,000 | $70,000 – $103,000 |
+| You: Saines (paid) plus counsel at the hearing (direct brief) | about $34,500 | $29,400 – $39,800 |
+| **Both sides, direct brief** | **about $120,000** | **$104,000 – $138,000** |
+| Both sides, with a solicitor for you | about $131,000 | $114,000 – $150,000 |
 
 ## How this compares with the earlier estimates, and what was wrong with them
 

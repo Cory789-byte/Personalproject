@@ -8285,3 +8285,23 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - The file name is left as is; the mislabel is flagged.
   - No Stone Group invoice or payment is on file. Its work looks to have been on the reinstatement matter.
 - **Open:** if he tells us what he paid Stone Group, and whether any of it was for the appeal, add it.
+
+## 2026-10-23: plus his counsel at the hearing (his instruction: he will be represented if it goes there)
+- **Model** (`analysis/spend/spend_estimate.py`, appellant section): day rate $3,300–$4,600 incl GST (Saines quote
+  of 21 Jul 2025); about 6.4 counsel days.
+  - **Direct brief about $25,000** ($20k–$30k).
+  - **With an instructing solicitor about $35,000** ($28k–$43k).
+  - This supersedes the quick $13k–$26k given earlier the same day.
+- **Costs if he wins, read from source today:**
+  - WCRA s 558(3) and s 560;
+  - current UCPR sch 2 pt 2 column C (incl GST): counsel $1,845 the first hearing day, $1,232 each later day,
+    $290.50 an hour in conference, $303.40 to advise on evidence;
+  - with a solicitor, $1,975 + $2,098 preparing and $742.40 a day attending.
+- **Two-day hearing recovery:** direct about $4,250 (×1.5 about $6,400); with a solicitor about $9,800 (×1.5 about
+  $14,700). A win with costs returns about a sixth to a quarter of a direct brief.
+- **Both sides through a hearing:** about $120k ($104k–$138k) on a direct brief; about $131k with a solicitor.
+  - Regulator about $86k.
+  - Him about $34.5k: $9,734 paid plus about $25k for counsel.
+- **Not counted:** the doctors' court fees (ask each).
+- **Draft election updated:** he intends to be represented; mutual s 552B agreement sought; counsel's dates. Line up
+  counsel before electing, because item (b) cuts both ways.

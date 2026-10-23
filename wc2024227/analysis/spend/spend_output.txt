@@ -47,3 +47,17 @@ Still to come (not in the figures above):
   F1 by 30 Oct 2026   Answers to your six questions                                median $2,317 (P10 $1,233, P90 $3,230)
   F2 21 Jan 2027      Second s 552A conference, counsel attending                  median $4,210 (P10 $3,162, P90 $5,470)
   F3 2027, if it runs Two-day hearing: preparation, witnesses, submissions, two he median $24,148 (P10 $19,432, P90 $29,891)
+
+=== The Appellant's side ===
+Paid to Saines Legal for the appeal (verified): $9,734
+His counsel at a hearing (incl GST), counsel days median 6.4 (P10 5.1, P90 7.5):
+  Direct brief (no solicitor)      median $24,735  (P10 $19,674, P90 $30,026)
+  With an instructing solicitor    median $35,360  (P10 $28,276, P90 $42,706)
+Recoverable on a costs order if he wins (scale C; x1.5 is the s 191(3) maximum):
+  1-day hearing: direct $3,020 (x1.5 $4,530);  with solicitor $7,835 (x1.5 $11,753)
+  2-day hearing: direct $4,252 (x1.5 $6,378);  with solicitor $9,810 (x1.5 $14,715)
+  3-day hearing: direct $5,484 (x1.5 $8,226);  with solicitor $11,784 (x1.5 $17,676)
+Regulator through a hearing (incl review): median $85,561 (P10 $69,865, P90 $102,942)
+BOTH SIDES through a hearing, direct brief: median $120,131 (P10 $103,604, P90 $138,299)
+BOTH SIDES through a hearing, with solicitor: median $130,776 (P10 $113,555, P90 $149,528)
+Not modelled: the treating doctors' court-attendance fees (his witnesses; ask each doctor).

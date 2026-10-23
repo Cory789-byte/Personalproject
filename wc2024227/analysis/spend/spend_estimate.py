@@ -187,6 +187,47 @@ def run(n=N, pin=None, counsel=None):
 
 def fmt(x): return f"${x:,.0f}"
 
+# ---- The Appellant's side ------------------------------------------------------------------
+# Paid to date (verified): Saines Legal trust statement, WC matter 252158, as at 28 Aug 2025
+# (01-appeal repo, Exhibit H1): $2,029.40 + $3,445.40 + $435.60 + $1,119.00 + $2,704.60.
+APPELLANT_PAID = 9734.00
+
+# His own counsel at a hearing, if it runs. Day rate from Saines' 21 Jul 2025 email: barristers
+# "$3,300.00 a day to $4,400.00 a day (including GST)", charged by half or full days.
+def run_appellant(n=N):
+    rnd = random.Random(SEED + 1)
+    T = lambda lo, mo, hi: rnd.triangular(lo, hi, mo)
+    direct, with_sol, days_l = [], [], []
+    for _ in range(n):
+        rate = T(3300, 3850, 4600)                 # incl GST; allows a 2026 rise
+        u = rnd.random()
+        hearing = 1 if u < 0.20 else (2 if u < 0.75 else 3)
+        days = (T(1.0, 1.5, 2.5)                   # reading in, brief, chronology
+                + T(0.25, 0.5, 0.75)               # conference(s) with you
+                + T(0.25, 0.5, 1.0)                # your witnesses and the doctors
+                + T(0.5, 0.75, 1.25)               # cross-examination of their four witnesses
+                + hearing
+                + (T(0.5, 1.0, 1.5) if rnd.random() < 0.7 else 0))   # written submissions
+        c = days * rate
+        # Instructing solicitor, if not a direct brief: Stone Group's schedule put briefing counsel
+        # at $1,500-$4,000 ex GST; attendance at the hearing; liaison and witness logistics.
+        s = T(1650, 2750, 4400) + hearing * T(1500, 2500, 3850) + T(1000, 2000, 4000)
+        direct.append(c); with_sol.append(c + s); days_l.append(days)
+    return direct, with_sol, days_l
+
+# What a costs order would return if he won (UCPR sch 2 pt 2, column C, incl GST; current UCPR
+# fetched 23 Oct 2026): WC Regulation 2025 s 191(2)(a), up to 1.5x under s 191(3).
+SCALE_C = {"counsel_day1": 1845.00, "counsel_later_day": 1232.00, "counsel_conf_hour": 290.50,
+           "counsel_advise_evidence": 303.40, "prep_with_conference": 1975.00 + 2098.00,
+           "solicitor_with_counsel_day": 742.40}
+
+def scale_c(hearing_days=2, conf_hours=3, solicitor=False):
+    s = (SCALE_C["counsel_day1"] + (hearing_days - 1) * SCALE_C["counsel_later_day"]
+         + conf_hours * SCALE_C["counsel_conf_hour"] + SCALE_C["counsel_advise_evidence"])
+    if solicitor:
+        s += SCALE_C["prep_with_conference"] + hearing_days * SCALE_C["solicitor_with_counsel_day"]
+    return s
+
 if __name__ == "__main__":
     out, by_phase, by_cat, item_cost = run()
     print(f"WC/2024/227 - Regulator spend estimate to 23 Oct 2026 ({N:,} draws, seed {SEED})\n")
@@ -227,3 +268,27 @@ if __name__ == "__main__":
     for fid, w, d, *_ in FORWARD:
         xs = out[fid]
         print(f"  {fid} {w:16} {d[:60]:60} median {fmt(pct(xs,.5))} (P10 {fmt(pct(xs,.1))}, P90 {fmt(pct(xs,.9))})")
+
+    print("\n=== The Appellant's side ===")
+    print(f"Paid to Saines Legal for the appeal (verified): {fmt(APPELLANT_PAID)}")
+    direct, with_sol, days_l = run_appellant()
+    print(f"His counsel at a hearing (incl GST), counsel days median {pct(days_l,.5):.1f} "
+          f"(P10 {pct(days_l,.1):.1f}, P90 {pct(days_l,.9):.1f}):")
+    for lab, xs in [("Direct brief (no solicitor)", direct), ("With an instructing solicitor", with_sol)]:
+        print(f"  {lab:32} median {fmt(pct(xs,.5))}  (P10 {fmt(pct(xs,.1))}, P90 {fmt(pct(xs,.9))})")
+    print("Recoverable on a costs order if he wins (scale C; x1.5 is the s 191(3) maximum):")
+    for hd in (1, 2, 3):
+        a, b = scale_c(hd), scale_c(hd, solicitor=True)
+        print(f"  {hd}-day hearing: direct {fmt(a)} (x1.5 {fmt(1.5*a)});  with solicitor {fmt(b)} (x1.5 {fmt(1.5*b)})")
+    # Both sides, through a hearing (Regulator incl review + its forward costs; his paid + counsel)
+    reg_thru = [t + f1 + f2 + f3 for t, f1, f2, f3 in zip(out["total"], out["F1"], out["F2"], out["F3"])]
+    m = min(len(reg_thru), len(direct))
+    both_d = [reg_thru[i] + APPELLANT_PAID + direct[i] for i in range(m)]
+    both_s = [reg_thru[i] + APPELLANT_PAID + with_sol[i] for i in range(m)]
+    print(f"Regulator through a hearing (incl review): median {fmt(pct(reg_thru,.5))} "
+          f"(P10 {fmt(pct(reg_thru,.1))}, P90 {fmt(pct(reg_thru,.9))})")
+    print(f"BOTH SIDES through a hearing, direct brief: median {fmt(pct(both_d,.5))} "
+          f"(P10 {fmt(pct(both_d,.1))}, P90 {fmt(pct(both_d,.9))})")
+    print(f"BOTH SIDES through a hearing, with solicitor: median {fmt(pct(both_s,.5))} "
+          f"(P10 {fmt(pct(both_s,.1))}, P90 {fmt(pct(both_s,.9))})")
+    print("Not modelled: the treating doctors' court-attendance fees (his witnesses; ask each doctor).")
