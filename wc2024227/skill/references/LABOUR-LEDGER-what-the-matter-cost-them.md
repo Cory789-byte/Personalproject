@@ -1,4 +1,11 @@
 # THE LABOUR LEDGER — EVERY ACTOR, EVERY HAND, EVERY HOUR, PRICED
+> ⛔ **Corrected 23 Oct 2026.** Willson is priced below at $450 an hour. Queensland Government departments may pay
+> junior counsel at most **$300 an hour and $3,000 a day, ex GST**, unless the Attorney-General approves more
+> (DoJ, *Whole-of-government policy for engaging barristers*, page updated 25 May 2026). On the same 95 hours,
+> counsel's line is at most $28,500, not $42,750. For the Regulator's side, use
+> `analysis/2026-10-23_RESPONDENT_SPEND_estimate_to_23Oct.md`: about $50,000 for the appeal to 23 Oct 2026
+> (counsel about $19,000 over about 70 hours), about $55,000 with the 2024 review. The non-Regulator rows below
+> are not re-checked.
 > ⛔ Strategy layer. Never sent, never cited to anyone. Built 4 Aug 2026 for perspective and
 > settlement framing only. Rates: Award-anchored where held/published (AO6 $119.8-127.9k,
 > AO8 $147.8-156.1k, 2025 reprint); [E] = estimated band. Loaded hourly = annual/1720 × 1.35

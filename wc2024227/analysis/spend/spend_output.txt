@@ -1,0 +1,49 @@
+WC/2024/227 - Regulator spend estimate to 23 Oct 2026 (100,000 draws, seed 20261023)
+
+                                         P10    median       P90      mean
+Counsel fees (ex GST)                $13,148   $19,336   $27,043   $19,776
+Officer time (loaded)                $22,334   $29,645   $38,165   $30,011
+Disbursements                           $172      $409      $735      $433
+APPEAL TO DATE                       $40,040   $49,859   $60,877   $50,220
+Review decision (2024)                $3,135    $4,663    $6,777    $4,835
+APPEAL + REVIEW                      $43,915   $54,652   $66,726   $55,054
+
+Hours (appeal): officer median 275 h (P10 210, P90 348); counsel median 70 h (P10 48, P90 98)
+
+By phase (median):
+  1 Appeal 2024-25            $8,908  (P10 $6,522, P90 $11,637)
+  2 Feb-Aug 2026             $27,871  (P10 $22,090, P90 $34,525)
+  3 Aug-Oct 2026             $12,493  (P10 $9,399, P90 $16,071)
+
+By kind of work, appeal only (mean, and share of the appeal mean):
+  Reading what you filed and sent                       $13,889    28%
+  Their own pleadings, notices, disclosure, witnesses   $12,500    25%
+  Answering your notices and document requests          $10,785    21%
+  Attendances (mentions, the conference)                 $8,076    16%
+  File handling and procedure                            $2,683     5%
+  Your settlement offers and WP letter                   $1,855     4%
+
+Largest steps (mean cost):
+  C01    $6,035    28 Aug-8 Sep  Notice to admit #2: 303 facts with 133-pp annexure, and 39 documents, checked;
+  R1     $4,835    Sep-Oct 2024  Review of WorkCover's decision; Review Decision 69983 (28 pp)
+  B01    $4,288   9-12 Feb 2026  Urgent Form 4 and affidavit with 381 pp of exhibits read; counsel reads in
+  B08    $4,025          13 Mar  First s 552A conference: counsel appeared; preparation; report to the delegate
+  B14    $3,449          13 May  Amended Statement of Facts and Contentions (7 pp) drafted
+  C04    $2,309       10-24 Sep  Witness list and four outlines (Taylor, Reese, Wright, Earl; 5 pp)
+  A07    $2,083        Jul 2025  Statement of Facts and Contentions (Form 9C, 6 pp) drafted and served
+  B07    $1,997          27 Feb  Mention: counsel appeared; officer instructing
+  B11    $1,817           8 Apr  Amended 9A read and analysed
+  B03    $1,806       11-18 Feb  Response to notice to admit #1 (50 facts; 13 pp with email)
+
+What moves the appeal figure (median with one driver pinned at each end):
+  Officer thoroughness (x0.6 / x1.5)         $37,273 to   $63,534  (swing $26,261)
+  Counsel use (x0.5 / x1.7)                  $39,402 to   $61,826  (swing $22,424)
+  Officer rate ($90 / $130 an hour)          $44,962 to   $56,066  (swing $11,104)
+  Counsel rate ($240 / $300 an hour)         $47,549 to   $51,839  (swing $4,290)
+  Counsel on the minimum / on everything     $41,885 to   $55,618  (swing $13,733)
+  (base median $49,859)
+
+Still to come (not in the figures above):
+  F1 by 30 Oct 2026   Answers to your six questions                                median $2,317 (P10 $1,233, P90 $3,230)
+  F2 21 Jan 2027      Second s 552A conference, counsel attending                  median $4,210 (P10 $3,162, P90 $5,470)
+  F3 2027, if it runs Two-day hearing: preparation, witnesses, submissions, two he median $24,148 (P10 $19,432, P90 $29,891)

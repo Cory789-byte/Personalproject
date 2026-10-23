@@ -8248,3 +8248,23 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   to the draft election). Give s 552B agreement freely.
 - **⛔ Correction:** "Gray paid Dec 2024; Willson Jan 2025" (20 Oct files) overstated. The disclosure ties no
   payment to this matter; Gray's link is metadata only. Fixed in the posture and litigation-structure files.
+
+## 2026-10-23: what has the Regulator spent on the matter? (estimate)
+- **File:** `analysis/2026-10-23_RESPONDENT_SPEND_estimate_to_23Oct.md`; model `analysis/spend/spend_estimate.py`
+  → `spend_output.txt` (40 sourced steps, 100,000 draws, fixed seed).
+- **Rate anchor read today:** DoJ *Whole-of-government policy for engaging barristers* (page updated 25 May 2026):
+  junior counsel capped at **$300 an hour / $3,000 a day ex GST**; above that needs the Attorney-General.
+- **Result:**
+  - appeal to 23 Oct about **$50,000** (P10 $40k, P90 $61k): counsel about $19k over about 70 h; officers about
+    $30k over about 275 h;
+  - plus the 2024 review about $5k, so about **$55,000** overall (P10 $44k, P90 $67k).
+- **Breakdown:** reading his material 28%, their own work 25%, answering his notices 21%, attendances 16%.
+- **Biggest single step:** the 303-fact check, about $6k (it bought 298 admissions).
+- **Still to come:** 30 Oct answers about $2.3k; the conference about $4.2k; a two-day hearing about $24k
+  (total about $85k if heard).
+- **⛔ Corrections:**
+  - `drafts/out/RESPONDENT_SPEND_ESTIMATE.pdf` (23 Aug, mid $86k) is superseded; banner added. It had no cap,
+    assumed counsel on 7 Aug (Matheson alone), and leaned on metadata. Same steps on capped rates: about $37k.
+  - The 4 Aug LABOUR-LEDGER priced Willson at $450/h, above the cap. Noted in the ledger.
+- **Discipline:** never put the figure to them; it is not his costs exposure; RTI for the real number only after
+  the appeal.
