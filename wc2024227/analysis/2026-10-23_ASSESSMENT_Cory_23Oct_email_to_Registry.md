@@ -102,3 +102,47 @@ A sharper reply ("the Appellant's proposal is premature") is about 15%.
 2. **Nothing more to the Registry.** Wait for Dwyer, and for 30 Oct.
 3. **If a report is directed,** the one-page agenda becomes the report: resolved, remaining, and directions sought.
 4. **Legal advice on June 2027** still matters. The conference may now be 21 Jan or later.
+
+## 5. Combined effect of the 9:19 and 9:31 emails on Matheson's message (added 23 Oct)
+
+> No reply yet from Matheson, the Registry or Dwyer (Gmail checked; the thread ends with the 9:31 reply). This is a
+> forecast.
+
+**Her message (8:39, private):** "the delay is ours; don't treat it as stalling or escalate it; let's resolve most,
+if not all, points together in writing before the conference".
+
+**Your answer, in two parts:**
+- **9:19 (Registry, cc her):** your availability for 3 Dec on record; the six matters and her 30 Oct undertaking
+  before Dwyer; a proposal that if the 30 Oct response "substantially resolves those matters", a further
+  conference may not be needed (a report, then a path to hearing).
+- **9:31 (her only):** both dates suit, 21 Jan preferred; "I agree… would welcome resolving as many points as we
+  can"; "content to proceed in whichever way the Commission prefers".
+
+**Effects:**
+
+| On | Effect |
+|---|---|
+| **The relationship** | 9:19 went against her private, consensual channel. 9:31, read minutes later, accepted her offer in her own words and gave the Commission the choice. **Likely intact; possibly a little wary** |
+| **Her "resolve" message** | It is now in effect public. Her private hope ("most, if not all") has become a visible expectation: Dwyer knows what is on the table and when she will answer. **That raises the cost to them of a thin or deferring 30 Oct letter.** It also makes the letter more likely to be settled by Counsel, cautious in wording, and copied to the Registry (about 40%) |
+| **The conference as their decision point** | Your proposal questions whether a conference is needed. They want one, with Counsel (Guide 5.1 "Following the conference…"). Expect them to say so to the Registry, politely (about 60%), or sharply ("premature", about 15%). The chance the conference is actually skipped is low (about 5–10%) |
+| **Dwyer** | He sees an appellant available for his only 2026 date, cooperative, and proposing a report and a path to hearing: his own values. He also sees that their Counsel is the reason for 2027 |
+| **The timeline** | **The real upside.** If Dwyer directs a report after 30 Oct (about 40–60% combined), there is a written checkpoint in November, before January. That forces the narrowing, and possibly a decision, earlier |
+
+**The odds:**
+- Concession before a contested hearing: **about 60–65%, unchanged.** The added accountability roughly balances
+  the small goodwill cost.
+- Before the conference: **about 20%**, or **about 25% if a report is directed.**
+
+**What will show the effect:**
+1. **Her next email's register:**
+   - the inclusive "we" or "resolve" again means the relationship is intact;
+   - a return to "the Regulator… the Respondent…" means mild cooling.
+2. **Whether the 30 Oct letter is copied to the Registry,** and whether it answers your directions proposal.
+3. **Dwyer's response:** a report direction, or just a listing.
+
+**What to do:**
+- Send nothing more.
+- If the Regulator writes to the Registry against the no-conference idea, do not argue unless Dwyer asks. A 21 Jan
+  conference is fine.
+- If a report is directed, the agenda becomes the report.
+- Keep the June 2027 legal advice moving.

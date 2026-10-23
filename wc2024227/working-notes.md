@@ -8156,3 +8156,18 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   together in writing; most, maybe all, agreed before the conference."
 - **⛔ Correction** to the 21 Oct forensic file: one institutional "we" since Sep was missed (24 Sep 11:55
   outlines email, "the witnesses we intend to call"). Fixed in the file.
+
+## 2026-10-23: how today's two emails affect Matheson's "resolve" message
+- No replies yet (Gmail checked).
+- **9:19 (Registry):** her private "most, if not all… resolved" becomes in effect public: Dwyer knows the six
+  matters and her 30 Oct date. That raises the cost of a thin answer; the letter is more likely Counsel-settled and
+  copied to the Registry.
+- **9:31 (her only):** accepted her offer in her own words, so the relationship is likely intact.
+- **The upside:** a possible report direction gives a November checkpoint before the January conference.
+- **Odds:** concession 60–65% unchanged; before the conference about 20% (about 25% if a report is directed).
+- **Watch:**
+  - her register (inclusive "we" or "resolve", against "the Regulator");
+  - whether the 30 Oct letter is copied to the Registry;
+  - Dwyer's response.
+- **Send nothing more.**
+- Added as §5 of `analysis/2026-10-23_ASSESSMENT_Cory_23Oct_email_to_Registry.md`.
