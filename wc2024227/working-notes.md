@@ -8212,3 +8212,27 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - Concession before the conference about 25%. Overall 60–65%, upper half.
 - §6 lesson ("keep the hearing implicit") replaced by §7: **procedural pressure plus an open door, backed by
   medical credibility.**
+
+## 2026-10-23: a different member can hear it, possibly with a date fixed in 2026
+- **Verified:**
+  - FDO(3) direction 5 (rendered): "the Appellant is to contact the Industrial Registry in order to proceed to a
+    second s552A conference, or to hearing". The choice is the Appellant's; the 2nd conference exists only because
+    he elected it on 1 Oct.
+  - Guide §5.1: the conference member "will not be the Member who hears the appeal".
+  - Guide §7.1: "allocated to a different Member for hearing"; the Appellant "may request that the matter be
+    heard… in writing to the Industrial Registry".
+  - WCRA s 552A (discretionary), s 552B (Counsel needs agreement or leave), s 554 (documents 10 business days
+    before the hearing).
+- **Odds:**
+  - hearing held before 31 Dec about 5%;
+  - hearing date fixed before Christmas (for Feb–Mar 2027) without a conference about 20%;
+  - the conference path gives a hearing around Apr–Jun 2027.
+- **Bottlenecks:**
+  - leave (or proceed on the 8 Apr 9A);
+  - Counsel's diary (agree s 552B);
+  - member diary and Christmas (short 1–2 day estimate);
+  - witnesses (line up the doctors);
+  - the Regulator will cite his conference election.
+- **Decision rule after 30 Oct:** elect hearing if s 32(1) is agreed or partial, or if a fight letter comes; keep
+  21 Jan if they defer.
+- **Draft election email** in `analysis/2026-10-23_HEARING_BEFORE_2027_feasibility.md`.
