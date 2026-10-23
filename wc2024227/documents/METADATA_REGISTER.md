@@ -160,7 +160,7 @@ WCRS/OIR signature block.
 | File | Facts |
 |---|---|
 | `Review_Decision_69983_24.10.2024.pdf` | 28 pp, ref 69983, insurer ref S23LW142013. Review application received **16 Sep 2024**; review decision **22 Oct 2024**; reasons dated **24 Oct 2024** — confirms WorkCover rejection under s 32. Conclusion (pp 26–27): psychiatric injury sustained; employment significant contributing factor via factors 2–4; factors 2–3 reasonable management action; **factor 4 (the 17–18 Mar 2024 rostering) UNREASONABLE management action "in direct contradiction to the award and the 8-hour agreement"**; global evaluation per *Delaney v Q-COMP* → injury "mainly arose out of" reasonable management action → s 32(5) enlivened. Records the **8-hour agreement signed 17 June 2020**; employer response 6 Sep 2024 (pay period 20 from 4 Mar 2024; 15-min late arrival 17 Mar; no mention of the 18 Mar shift); Cory's response 9 Aug 2024. **PDF Author field: "HopgoodGanim Lawyers"**; created 2024-10-24 15:38Z (iOS Quartz re-save) |
-| `2024-11-26_Saines_Cost_Agreement.pdf` | Saines Legal costs agreement, letter dated **26 Nov 2024**, ref BH:FG:147637, re "Corey's Appeal against the Review of his Workcover claim and his application for reinstatement". PDF Author **Zach Joubert**, created 2024-11-28 (iOS Quartz, append-mode saves) |
+| `2024-11-26_Saines_Cost_Agreement.pdf` | ⛔ Mislabelled (corrected 23 Oct 2026): a **Stone Group Lawyers** costs agreement, not Saines; letter dated **26 Nov 2024**, ref BH:FG:147637, re "Corey's Appeal against the Review of his Workcover claim and his application for reinstatement". PDF Author **Zach Joubert**, created 2024-11-28 (iOS Quartz, append-mode saves) |
 
 ### Correspondence (`correspondence/`) + provenance (`provenance/`)
 

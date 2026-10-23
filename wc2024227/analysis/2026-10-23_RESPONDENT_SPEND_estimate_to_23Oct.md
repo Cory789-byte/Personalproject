@@ -82,6 +82,47 @@ not published).
 
 **If it runs to a hearing, the total comes to about $85,000.**
 
+## Plus your own lawyers (added 23 Oct, on "plus my counsel")
+
+**Verified, not estimated.** Source: Saines Legal's trust statement for WC matter 252158, as at 28 Aug 2025
+(`01-appeal` repo, `WC_2024 227_Exhibit_H1_ Legal cost Trust Statement.pdf`), and Saines' emails of 25 Jun to
+12 Aug 2025.
+
+| | Amount |
+|---|---|
+| **Saines Legal, the appeal (Apr to Aug 2025), total paid** | **$9,734.00** (GST inclusive) |
+| Funded by: $2,029.40 left in trust from the reinstatement matter (journalled 3 Apr 2025) | |
+| Funded by: your deposit of 22 May 2025 | $5,000.00 |
+| Funded by: your payment of 4–6 Aug 2025 (balance of invoice 4240) | $2,704.60 |
+
+- **What that bought:**
+  - the 12 May 2025 advice;
+  - the Form 9A (filed 11 Jun 2025);
+  - correspondence with the Regulator;
+  - the timetable steps.
+- **No barrister was briefed for you in the appeal.**
+  - On 21 Jul 2025 Saines asked for a $3,300 deposit to brief one, quoting $3,300–$4,400 a day including GST.
+  - The retainer ended on 23 Jul 2025.
+  - The trust account was cleared on 12 Aug 2025.
+- **Stone Group Lawyers (Nov 2024 to Jan 2025):**
+  - Its costs agreement (the file mislabelled `2024-11-26_Saines_Cost_Agreement.pdf`) covered the reinstatement
+    application and the appeal.
+  - No Stone Group invoice or payment is on file.
+  - The appeal was filed in your own name, and the Regulator dealt with you directly until about April 2025. Its
+    work looks to have been on the reinstatement matter, which is a separate track and not counted here.
+
+**Combined spend on the appeal so far:**
+
+| | Most likely | Likely range |
+|---|---|---|
+| The Regulator (appeal, plus the 2024 review) | about $55,000 | $44,000 – $67,000 |
+| Your lawyers (verified) | $9,734 | |
+| **Total** | **about $64,000** | **$54,000 – $76,000** |
+
+**If you brief a barrister yourself for a two-day hearing,** allow roughly $13,000–$26,000. That is two hearing
+days plus two to four days of preparation, at the $3,300–$4,400 a day Saines quoted in 2025. A solicitor to
+instruct them would cost more.
+
 ## How this compares with the earlier estimates, and what was wrong with them
 
 | Earlier figure | Problem | Corrected |

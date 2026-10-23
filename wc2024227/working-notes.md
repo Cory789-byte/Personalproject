@@ -8268,3 +8268,20 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - The 4 Aug LABOUR-LEDGER priced Willson at $450/h, above the cap. Noted in the ledger.
 - **Discipline:** never put the figure to them; it is not his costs exposure; RTI for the real number only after
   the appeal.
+
+## 2026-10-23: plus his own lawyers ("plus my counsel")
+- **Verified:** Saines Legal, WC matter 252158, **$9,734.00** paid in total (GST inclusive). Source: the trust
+  statement as at 28 Aug 2025 (`01-appeal` repo, Exhibit H1) and Saines' emails of 25 Jun to 12 Aug 2025.
+  - Funded by $2,029.40 journalled from reinstatement matter 252139, a $5,000 deposit (22 May 2025) and $2,704.60
+    (4–6 Aug 2025).
+  - Invoice 4240 was $3,823.60.
+  - **No barrister was briefed in the appeal.** A $3,300 deposit was requested 21 Jul; the retainer ended 23 Jul
+    2025 (cl 29).
+- **Combined appeal spend:** the Regulator about $55k (with the review) plus his $9,734 = **about $64k**
+  ($54k–$76k). Added to the 23 Oct spend file.
+- **⛔ Correction:** `documents/2024-11-26_Saines_Cost_Agreement.pdf` is a **Stone Group Lawyers** costs agreement
+  (BH:FG:147637), not Saines.
+  - Corrected in confirmed-record (two places), README and METADATA_REGISTER.
+  - The file name is left as is; the mislabel is flagged.
+  - No Stone Group invoice or payment is on file. Its work looks to have been on the reinstatement matter.
+- **Open:** if he tells us what he paid Stone Group, and whether any of it was for the appeal, add it.

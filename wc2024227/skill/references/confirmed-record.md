@@ -15,7 +15,16 @@
 
 - WorkCover rejection; review application received **16 Sep 2024**; **Review Decision 69983**: decision 22 Oct 2024, reasons dated 24 Oct 2024 (28 pp; insurer ref S23LW142013) — factor 4 (17–18 Mar 2024 rostering) found UNREASONABLE but s 32(5) applied on the *Delaney* global evaluation; 8-hour agreement recorded as signed **17 June 2020** (source: the decision, now in `documents/`).
 - Appeal filed 2024; s 550(4) WCRA; Member Commissioner Dwyer.
-- **26 Nov 2024** — Saines Legal costs agreement (ref BH:FG:147637) covering the appeal + reinstatement application (source: the agreement).
+- **26 Nov 2024** — ⛔ *Corrected 23 Oct 2026:* this is a **Stone Group Lawyers Pty Ltd** costs agreement, not Saines (ref BH:FG:147637; Nick Stone, Berren Hamilton, Zach Joubert, Felicity Grice; trust account "Stone Group Lawyers Law Practice Trust Account"). It covers the appeal and the reinstatement application. Estimates: Stage 1 (reinstatement) $8k–$12k, Stage 2 (appeal) $6k–$10k, a barrister $6k for each; $10,000 deposit requested (source: the agreement, pp 1–3). The file name `2024-11-26_Saines_Cost_Agreement.pdf` is a mislabel. **No Stone Group invoice or payment is on file.**
+- **Saines Legal** (Nigel Saines, Paul Conrad) acted from about Feb 2025: reinstatement matter 252139 (the deed), then **WC matter 252158**. Saines' own costs agreement is an attachment to its 23 Jul 2025 email, not on file.
+  - **Trust statement, WC matter 252158, as at 28 Aug 2025:** `01-appeal` repo, `WC_2024 227_Exhibit_H1_ Legal cost Trust Statement.pdf` (read 23 Oct 2026).
+  - **$9,734.00 in total transferred to office:**
+    - $2,029.40 journalled 3 Apr 2025 from matter 252139;
+    - $5,000.00 deposited by the Appellant 22 May 2025;
+    - $2,704.60 deposited 4/6 Aug 2025.
+  - Invoice 4240 (25 Jun 2025) was $3,823.60 = $1,119 from trust plus the $2,704.60 balance.
+  - **No barrister was briefed:** a $3,300 deposit was requested on 21 Jul 2025.
+  - The retainer was terminated 23 Jul 2025 (cl 29) (source: Gmail, Saines emails 25 Jun – 12 Aug 2025).
 - **3 Jun 2025** — Amended Further Directions Order (by consent): 30 Apr 2025 conference vacated; Appellant SOFC 11 Jun; Respondent SOFC 16 Jul; witness lists/outlines 6 + 27 Aug 2025 (source: the order).
 - **16 Jul 2025** — AFDO (2) (by consent): Respondent SOFC 23 Jul; Appellant list/outline 13 Aug; Respondent's 3 Sep 2025 (source: the order).
 - **22 Aug 2025** — Directions Order, further to **the Appellant's own correspondence of 21 Aug 2025**: AFDO (2) **vacated** (source: the order). A Form 35 withdrawing **Saines Legal / Paul Conrad** exists with export timestamp 22 Aug 2025 (source: the form; undated on its face). **⚠ TENSION: this file previously recorded self-representation "since Saines withdrew ~9 Feb 2026." The documents indicate Cory was corresponding with the Commission directly from 21 Aug 2025. Resolve before any filing relies on the representation timeline.**
@@ -134,7 +143,7 @@
 - **The 14 July 2025 Quatrix production is (partly) in repo** (`documents/disclosure-2025-07/`): QH Payroll bundle (24 pp; assembled from Outlook 4 Jul 2025, finalised 14 Jul); witness-conferencing bundle — **Tammy Reese** (50 pp); FRMS-content part (47 pp). The contradiction-matrix source material is now available locally.
 - **Original Regulator Form 9C SOFC** (6 pp) in repo (`2025-07_Regulator_SOFC_Form9C_original.pdf`).
 - **ESU PID complaint form** (E5 Att 1, 2 pp — the "Chloe Taylor scc-complaint-form" from the McGinley chain) in repo; PDF conversion dated 15 Aug 2024.
-- **TD/2024/110 — separate QIRC matter:** Form 12 Application for reinstatement, stamped **25 Oct 2024**, Shepherd v **Queensland Health Logan Hospital** (34 pp corrected copy in `documents/related-matters/`). Covered by the Saines costs agreement. Parallel track — keep out of WC filings.
+- **TD/2024/110 — separate QIRC matter:** Form 12 Application for reinstatement, stamped **25 Oct 2024**, Shepherd v **Queensland Health Logan Hospital** (34 pp corrected copy in `documents/related-matters/`). Covered by the Stone Group costs agreement of 26 Nov 2024 (⛔ corrected 23 Oct 2026; earlier called "Saines"). Saines Legal later acted (matter 252139). Parallel track — keep out of WC filings.
 - **Text-message evidence** ("Chloe Work", incl. 4 Apr 2023 roster-board photo) in `documents/evidence/`.
 
 ## The MSH 5 June objection (source: the letter itself — `documents/2026-06-05_MSH_Objection_KLM26-729_Cridland.pdf`)
