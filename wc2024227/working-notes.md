@@ -8354,3 +8354,25 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
 - **Decision rule revised:** keep the conference for a partial answer or a fight letter, and ask for hearing
   directions at it. Elect hearing only if s 32(1) is conceded with s 32(5) defended regardless, or if the
   limitation advice requires speed.
+
+## 2026-10-25: long-arc meta-analysis and firm predictions for 26–30 Oct
+- **File:** `analysis/2026-10-25_LONG_ARC_META_and_PREDICTION_week_26-30_Oct.md`, with a scorecard to fill in on
+  30 Oct.
+- **Arc data, recomputed from pairs.csv (34 Regulator reactions):**
+  - document requests 4 of 4 met; offers 4 of 4 refused;
+  - legal questions 0 of 7 answered in writing (5 silence, 1 deferred, 1 commitment to answer by 30 Oct, the
+    first in 23 months);
+  - Counsel at listings 3, then 0 since April; the "defend" line last used 14 Aug;
+  - dated undertakings kept on the day or early; Friday is the usual delivery day.
+- **Calls:**
+  - the letter arrives Fri 30 Oct, afternoon (55%; by Fri 5pm 80%); Matheson, numbered, 2–3 pp, no "defend"
+    (85%); not copied to the Registry (55%);
+  - Q1 facts 228–231 admitted (65%); Q2 tender agreed (70%), Tab 24 disputed on relevance (55%); Q3 objections
+    reserved (80%);
+  - **Q4 s 32(1): no clean yes (85%)**, deferred to the conference (45%); Q5 leave not opposed with 4–5 weeks
+    (60%); Q6 ¶27 dealt with in their amended defence (45%);
+  - overall a cooperative, narrowing letter (70%); fight letter under 10%; concession 3%;
+  - no listing this week (55%); conference on 21 Jan (55%); concession before the conference 20%; before a
+    contested hearing 60–65%; win if heard about 70%; allowed either way about 85%.
+- **Calibration:** both earlier date calls were wrong (Counsel's diary underweighted); these calls are built
+  around it.
