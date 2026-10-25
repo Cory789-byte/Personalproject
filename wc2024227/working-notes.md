@@ -8401,3 +8401,20 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   last 2026 slot. He can see who moved it to 2027.
 - **Calls revised:** Matheson emails the Commission Mon 26 Oct morning proposing 21 Jan (75%); listing this week
   now 50% (was "no", 55%).
+
+## 2026-10-25: hypothesis tested ("they want the conference less, and would rather resolve than face Dwyer")
+- **File:** `analysis/2026-10-25_DO_THEY_WANT_TO_AVOID_THE_CONFERENCE.md`.
+- **Verdict: half right.**
+  - They want the open points gone before it: strong, about 80% (their own words on 23 Oct, the morning after
+    Counsel's return).
+  - They would rather not defend ¶27, s 32(1) without medicine, or the counting in front of Dwyer: about 65%.
+  - Conceding the whole appeal rather than attending is not shown yet: about 20–25% before the conference. They
+    agreed to the conference at once and proposed dates twice, and it is their own decision point.
+- **The conference is a clock they would like to beat.** Keep 21 Jan locked; don't trade it for partial answers.
+- **The 30-page 9A adds pressure once the four flaws are fixed,** because those are Counsel's deflection targets.
+- **Friday indicators:**
+  - "reviewing its position", or a request for medical or claim details: about 45–50%;
+  - consent orders or "own costs" raised: 60%+;
+  - s 32(1) deferred to the conference: the base case.
+- **If consent orders are offered:** substitution under s 558(1)(c), not a return under (d); each party bearing its
+  own costs is cheap to give; nothing else released (rule 9); written replies only (rule 4).
