@@ -55,6 +55,15 @@ and the about 18 Jun 2027 common-law limitation.
 | **s 32(1) deferred, or most points deferred** | The conference has real value. Dwyer can ask them in the room what evidence contradicts their own review. **Keep 21 Jan**, and ask for hearing directions to be made at the conference |
 | **A fight letter** | Elect hearing. Nothing is gained by waiting |
 
+> ⛔ **Revised 25 Oct** (`2026-10-25_BEFORE_DWYER_verified_and_WOULD_HE_PRESS_THEM.md` §4).
+> - The conference is the only forum where the Commission reviews everything and presses the Regulator. A hearing
+>   member rules but does not warn.
+> - The conference costs nothing; a hearing costs about $25,000 in counsel.
+> - So for a **partial** answer or a **fight letter**, keep the conference, and ask now that hearing directions be
+>   made at it.
+> - Elect hearing straight away only if they concede s 32(1) and say they will defend s 32(5) at hearing
+>   regardless, or if the limitation advice says speed is essential.
+
 ## 3. A draft election (send only after reading the 30 Oct answer; adapt to it)
 
 > To: QIRC.Registry; Cc: Renee Matheson

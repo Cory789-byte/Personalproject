@@ -8326,3 +8326,31 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - **For hiring hearing counsel:** funds and a written estimate first, a defined scope, engage before electing,
     brief on today's record, expect written risk warnings.
 - **Discipline kept:** the Form 35 date (metadata only) is not relied on.
+
+## 2026-10-25: what is before Dwyer (pasted meta-analysis verified) and would he press or warn the Regulator?
+- **Gmail:** nothing new from the Regulator or the Registry since 23 Oct.
+- **Pasted meta-analysis** (from Cory's other, Outlook-connected session), **verified against source:**
+  - April vs October 9A, the 1 Oct letter, the schedule Parts 1–3 and the tab descriptions: ✓.
+  - The 23 Oct email's request to bring it to Dwyer's attention: ✓.
+  - Dwyer's "single document" (60:00, about disclosure): ✓.
+  - Guide §5.1: ✓.
+  - **Corrections:**
+    - the 7 Apr document is the *Amended* 9A;
+    - statuses are now 38 of 39 (not 29).
+  - **Missed:** four flaws in the 30-page 9A before Dwyer:
+    - C7 cites *Carr* [2022] QIRC 59, set aside by [2023] ICQ 1;
+    - "awake and working for about sixteen hours";
+    - "14:38 on the shift of 18 March";
+    - Part D Q6, which asks for s 32(5)(b): drop it.
+
+    Fix them in the completed version and send it with the post-30 Oct report.
+- **Answer (file `analysis/2026-10-25_BEFORE_DWYER_verified_and_WOULD_HE_PRESS_THEM.md`):**
+  - The Commission cannot decide the appeal itself without a hearing.
+  - Dwyer asking the Regulator what remains in dispute and why: about 85–90%.
+  - A frank view in substance a warning, possibly in a private session as on 13 Mar: about 40–55%.
+  - A formal warning: under 5%.
+  - Objectively: injury effectively not in dispute; s 32(1) should not be; s 32(5)(a) hard for them, not empty.
+    The doctors are the swing.
+- **Decision rule revised:** keep the conference for a partial answer or a fight letter, and ask for hearing
+  directions at it. Elect hearing only if s 32(1) is conceded with s 32(5) defended regardless, or if the
+  limitation advice requires speed.
