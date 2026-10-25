@@ -1,0 +1,56 @@
+prosecutor baseline f0 127 Hz, level 55.3 dB
+00:01.1   4.6s   235wpm pitch  +0.0st level  +3.1dB | Yes, if it pleases the court, Your Honour, Hodgetts, spelled H -O -D -G -E -T -T -S,
+00:05.8   2.4s   202wpm pitch  -2.5st level  -1.7dB | initials D-A, prosecutor on behalf of Queensland Police.
+01:01.7   1.0s   231wpm pitch  +1.1st level  -0.7dB | Oh I haven't been
+01:02.7   2.2s   222wpm pitch  -1.3st level  +0.1dB | I haven't had any material given to me
+01:07.3   0.9s   191wpm pitch  -2.6st level  -1.2dB | Apologies Your Honour
+01:08.2   0.7s   257wpm pitch  +1.8st level  +5.4dB | I haven't received
+01:08.9   2.4s   127wpm pitch  +1.3st level  +4.1dB | I received an email at
+01:13.9   0.5s   115wpm pitch  -0.1st level  -6.7dB | 11
+01:15.4   0.5s   115wpm pitch  +nanst level  -8.9dB | 20
+01:22.8   1.0s   115wpm pitch  +1.4st level  +2.2dB | 11 25
+01:25.1   1.3s   134wpm pitch  -2.0st level  -1.0dB | and I haven't
+01:26.4   1.9s   194wpm pitch  -2.5st level  -1.8dB | had enough time to go through
+01:28.3   0.9s   209wpm pitch  +0.8st level  +0.5dB | all of it
+04:07.7   5.1s   163wpm pitch  +0.4st level  -0.0dB | so maybe mr here [?…] i can probably assist in in this and noting that
+04:12.9   7.9s   128wpm pitch  -1.1st level  -2.9dB | all of this will be addressed in the trial there hasn't been any destruction of any sample
+04:22.6   2.9s   229wpm pitch  -0.4st level  +1.5dB | i can't speak on behalf of and i don't have any
+04:25.5  10.4s    81wpm pitch  -0.4st level  -2.1dB | evidence or information to suggest otherwise. The roadside random drug test, which is the
+04:36.0   9.1s    99wpm pitch  -0.1st level  -0.3dB | lollipop, that in of itself, when it gets used for the testing, once it's finalised
+04:45.1   5.5s   175wpm pitch  -1.3st level  -0.6dB | and the witness from Queensland Health that I intend on calling will be able to speak
+04:50.6   6.7s   134wpm pitch  -0.0st level  -0.9dB | to that the secondary test which is done the saliva analysis test which is done
+04:57.3   4.5s   160wpm pitch  +0.1st level  -0.0dB | at the police station after roadside that hasn't been destroyed there's still
+05:01.8   2.9s    84wpm pitch  -0.1st level  -0.1dB | that sample still exists
+05:31.3   4.3s   152wpm pitch  -4.0st level  -0.1dB | As I've just disclosed to the court, the sample still exists.
+05:37.0   2.7s   158wpm pitch  +0.1st level  +0.6dB | The prosecution witness will attest to that.
+05:39.9   1.9s   188wpm pitch  +1.7st level  +0.9dB | In any case, I think what...
+05:42.6   1.9s   287wpm pitch  +1.0st level  +2.3dB | And this will be for the court to decide.
+05:44.5   4.1s   234wpm pitch  -0.5st level  +2.4dB | I think it may be a case between a horse and a car [?horse and cart] in that the...
+05:48.6   3.4s   160wpm pitch  -0.6st level  +1.1dB | and this will be made apparent with my evidence,
+05:52.1   4.3s   126wpm pitch  +0.0st level  +1.4dB | the defendant was offered, on a number of occasions,
+05:56.8   3.3s   144wpm pitch  +0.2st level  +1.3dB | his statutory right to take a secondary sample.
+06:22.2   4.9s   123wpm pitch  +1.5st level  +4.0dB | Yes, Your Honour, I've reviewed that correspondence from the defendant.
+06:27.2   4.2s   171wpm pitch  -1.2st level  -0.0dB | I've also reviewed the body-worn camera footage on a number of occasions.
+06:31.8   5.6s   181wpm pitch  -0.5st level  -0.2dB | And it will be my position that that, which will be for the court to decide that.
+06:37.6   5.5s   132wpm pitch  -1.9st level  -1.6dB | The information the defendant has raised in his written correspondence to prosecution
+06:43.1   5.4s   177wpm pitch  -1.6st level  -1.6dB | execution is not prima facie what happens in the body-worn camera. It will be for the
+06:48.5   4.8s   249wpm pitch  +1.8st level  -1.4dB | court to decide. I've got it here if you'd like to hear it. If we go ahead with the trial
+07:03.2   3.1s   194wpm pitch  +0.9st level  -4.2dB | I can't speak to that Your Honour. It's not something
+07:06.3   4.1s   131wpm pitch  -1.0st level  -4.5dB | that I'm able to inform the court. It's not.
+07:35.0   5.4s   154wpm pitch  +0.8st level  +1.2dB | If you could indulge me, I can ask the lab technician who's sitting outside.
+07:40.4   0.2s   300wpm pitch  +0.2st level  +1.1dB | side.
+08:07.1   2.6s   186wpm pitch  +2.3st level  +5.7dB | I can do that. I guess the primary
+08:09.7   1.9s   255wpm pitch  -1.5st level  +1.0dB | issue that we face here, and we'll come
+08:11.6   7.1s   127wpm pitch  +1.8st level  -0.8dB | out if we go to trial is, prosecution's evidence indicates, it's my position, prosecution evidence
+08:18.7   6.8s   133wpm pitch  +0.4st level  -0.0dB | indicates that the defendant was provided with the opportunity to take a B sample. He
+08:25.4   8.5s   128wpm pitch  +1.9st level  +1.5dB | has not taken police up on that offer and now months down the track when we're two and
+08:33.9   3.1s   232wpm pitch  +1.4st level  +3.9dB | a half hours past nine o'clock on the day of the trial.
+08:40.0  15.4s   152wpm pitch  +0.9st level  +1.6dB | The position that prosecution holds is that the defendant had the opportunity, he was given his statutory righ
+08:57.4   4.2s   172wpm pitch  -1.1st level  +1.1dB | Which is contested and it would be for the court to determine.
+09:44.8   0.6s   387wpm pitch  -2.2st level  +1.3dB | Ten minutes, thank you.
+for the court to decide/determine: 4
+my position / prosecution position: 3
+evidence indicates / witness will: 6
+can't / don't / haven't (own knowledge): 8
+hedges (I think / I guess / probably / maybe): 5
+Your Honour: 4

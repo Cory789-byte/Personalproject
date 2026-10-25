@@ -1,0 +1,65 @@
+email                      words w/sent   pairs seen in her other emails % triples %
+B01 2025-07-14 Cory           75   25.0                                 41        21
+B02 2026-02-12 Cory           48   24.0                                 38        20
+B03 2026-02-17 Registry       88   17.6                                 42        24
+B04 2026-02-18 Cory           28   14.0                                 52        27
+B05 2026-03-20 Cory          112   22.4                                 37        12
+B06 2026-06-11 Cory           25   25.0                                 58        22
+B07 2026-07-16 Cory           46   15.3                                 93        86
+B08 2026-08-03 Cory           41   20.5                                 61        33
+B09 2026-08-06 Registry       61   15.2                                 79        60
+B10 2026-08-14 Cory          120   20.0                                 35        17
+B11 2026-08-14 Cory           54   18.0                                 77        67
+B12 2026-09-08 Cory           34   17.0                                 53        28
+B13 2026-09-10 Cory           77   25.7                                 36        18
+B14 2026-09-24 Cory           73   14.6                                 54        31
+B15 2026-09-24 Registry       76   15.2                                 41        15
+B16 2026-10-07 Cory           77   25.7                                 39        12
+B17 2026-10-12a Cory          42   14.0                                 70        40
+B18 2026-02-18 Registry (opening only)    19   19.0                                 83        71
+B19 2026-02-24 Registry (opening only)    37   18.5                                 86        77
+B20 2026-03-10 Registry (opening only)    23   23.0                                 73        62
+B21 2026-03-31 Registry (opening only)    22   22.0                                 76        65
+B22 2026-05-13 Registry (opening only)    18   18.0                                 41        25
+B23 2026-08-28 Cory (opening only)    23   11.5                                 41        24
+B24 2026-09-07 Cory (opening only)    25   25.0                                 30         4
+S1 2026-10-12b Registry      149   24.8                                 32        14
+T1 2026-10-16 Cory           103   34.3                                 36        17
+T2 2026-10-19 Cory           103   20.6                                 25         6
+T3 2026-10-20a Registry       86   21.5                                 35        15
+T4 2026-10-20b Cory           44   14.7                                 37        10
+L1 2026-09-08 letter         261   37.3                                 10         2
+
+Baseline range (leave-one-out): pairs 30–93% (median 52.5), triples 4–86% (median 26.0)
+
+S1 2026-10-12b Registry, sentence by sentence (share of word triples found anywhere in her 24 baseline emails):
+   40%  I refer to the above matter and the correspondent of the Appellant to the registry dated 1 October 2026.
+   20%  The Regulator agrees with the Appellant's request for a second s552A conference to be set down in relation to this matter.
+    0%  The Regulator believes that the additional points 2 to 7 outlined in the Appellant's requested directions dated 1 October 2026, would be better placed to be discussed at the conference in lieu of ordered in directions, in the first instance.
+    4%  Unfortunately the Regulator's Counsel is currently on leave overseas and not contactable until 22 October 2026, when the Regulator could then confirm its availability for this conference.
+   11%  The Regulator respectfully requests the Commission's consent for its undertaking to speak with the Appellant once it is in receipt of Counsel's availability and jointly agree on a range of dates available for this conference, before communicating with the registry.
+   29%  The Regulator appreciates the Commissions consideration of this request.
+
+T2 2026-10-19 Cory, sentence by sentence (share of word triples found anywhere in her 24 baseline emails):
+   18%  I refer to the below email of the Commission and its direction for the parties to discuss dates for the requested s552A conference.
+    0%  The Regulator's Counsel has communicated with me while she finishes the last days of her leave and provided the following dates available for this conference.
+    0%  Could you please confirm if any of the above dates do not work for you and your availability?
+    0%  Once you confirm your availability, I can email the QIRC with the dates available to the parties in the hopes that one of the dates will suit the Commission.
+   40%  Thank you for your assistance in this.
+
+Phrase -> how many of her 24 baseline emails use it; and which later or other texts use it
+  in lieu of                     baseline  0/24 | used in: S1
+  in the first instance          baseline  0/24 | used in: S1
+  undertaking                    baseline  0/24 | used in: S1
+  in receipt of                  baseline  0/24 | used in: S1
+  better placed                  baseline  0/24 | used in: S1
+  believes                       baseline  0/24 | used in: S1
+  jointly                        baseline  0/24 | used in: S1
+  not contactable                baseline  0/24 | used in: S1
+  set down                       baseline  3/24 | used in: S1
+  respectfully requests          baseline  1/24 | used in: S1
+  consideration of this request  baseline  2/24 | used in: S1, T3
+  in relation to                 baseline 13/24 | used in: S1
+  i refer to the above matter    baseline  3/24 | used in: S1, T3
+  as soon as possible            baseline  5/24 | used in: -
+  in the hopes                   baseline  0/24 | used in: T2
