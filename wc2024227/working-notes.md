@@ -8418,3 +8418,14 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
   - s 32(1) deferred to the conference: the base case.
 - **If consent orders are offered:** substitution under s 558(1)(c), not a return under (d); each party bearing its
   own costs is cheap to give; nothing else released (rule 9); written replies only (rule 4).
+
+## 2026-10-25: "most, if not all" (Cory: "she said resolve issues if not all")
+- **Accepted:** "all" points of issue resolved before the conference can only mean a concession (he won't withdraw,
+  and narrowing leaves s 32(5)). So "if not all" puts a concession in writing as a possibility, a first in 23
+  months.
+- **Why it is more than politeness:** she volunteered "all"; "any points of issue" is broad; it was written the
+  morning after Counsel's return.
+- **How far it goes:** "most" is her forecast; "if not all" is the ceiling she can see; "hope" twice marks the
+  limit of her authority. Already counted on 23 Oct (early concession about 10% → 20–25%). Friday is the test.
+- **Draft line for after Friday:** take her at her word, use the "new information" framing, and offer consent
+  orders under s 558(1)(c), each party optionally bearing its own costs. Added to the DO_THEY_WANT file.

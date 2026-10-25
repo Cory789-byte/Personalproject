@@ -81,6 +81,50 @@ It raises the pressure on them, but **only once the four flaws are fixed.**
 5. **If they propose a phone call to "discuss", reply in writing** (rule 4). Anything they want to resolve can be
    resolved on paper.
 
+## On "most, if not all" (Cory's point, 25 Oct)
+
+**The exact sentence (23 Oct, 08:39, to Cory only):**
+> "Although the conference will need to be set in 2027, I hope we can continue communicating **any points of
+> issue** in the hopes that **most, if not all,** can be **resolved before the conference**."
+
+**The logic Cory is pointing to is correct:**
+- **"All" points of issue resolved before the conference can only mean the appeal ends by concession.** You are not
+  withdrawing, and narrowing alone always leaves s 32(5), which is the whole case.
+- **So "if not all" puts a concession in writing as a real possibility.** That is a first in 23 months:
+  "resolved" appears once in 38 texts.
+- **Three features make it more than politeness:**
+  1. **She volunteered "all".** An officer of a repeat-player regulator writes conservatively, and "most" alone
+     would have done.
+  2. **"Any points of issue"** is broad. She did not write "the matters in your letter".
+  3. **It was written the morning after Counsel's return,** after "I went back to the Regulator's Counsel".
+
+**How far it goes:**
+- **"Most" is her forecast:** narrowing, ending in s 32(5) at the conference.
+- **"If not all" is the ceiling she can see:** a concession before the conference.
+- **"Hope" twice** is how an officer marks a possibility she cannot promise. The delegate decides, after Counsel's
+  written advice.
+
+This is why the early-concession estimate already doubled on 23 Oct, from about 10% to about 20–25%. Raising it
+again now would count the same sentence twice. **Friday's letter is the test** (indicators above).
+
+**Turning "most" into "all": a line for after Friday** (in the report or the reply; nothing before 30 Oct)
+
+> "Thank you for your letter of 30 October 2026. I share the hope you expressed on 23 October that most, if not
+> all, points of issue can be resolved before the conference. The points that remain are [list]. If, on the
+> material now available, which was not before the review officer, the Regulator is able to resolve them, I would
+> consent to orders under section 558(1)(c) setting aside Review Decision 69983 and substituting a decision that
+> my application for compensation is accepted[, with each party to bear its own costs]."
+
+**What the line does:**
+- It takes her at her own word.
+- It gives them the "new information" story.
+- It makes conceding a matter of signing.
+
+**The bracketed costs words are your choice.**
+- You give up little: you are self-represented, and the s 558(3) power is for "costs of the hearing", so with no
+  hearing there may be little or nothing to claim.
+- They are also the words a delegate looks for.
+
 ## What does not change
 
 - **Friday's call stands:** a cooperative, narrowing letter, with s 32(1) not conceded (70% and 85%).
