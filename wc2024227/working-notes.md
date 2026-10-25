@@ -8376,3 +8376,28 @@ labels as amended (A1–A3): speaking share Commissioner 86.1% (845 segs, 2,947 
     contested hearing 60–65%; win if heard about 70%; allowed either way about 85%.
 - **Calibration:** both earlier date calls were wrong (Counsel's diary underweighted); these calls are built
   around it.
+
+## 2026-10-25: deep decode of the Regulator, beneath the words
+- **File:** `analysis/2026-10-25_DEEP_DECODE_the_Regulator_beneath_the_words.md`.
+- **Two channels:** formality is fixed ("Dear Mr Shepherd" in every coded email since 12 Feb 2026, after
+  "Hello / Good morning / Hi Cory" in 2025); content has warmed since September (thanks, "hope" ×3, the inclusive
+  "we", "resolved"). Read together: they cooperate on substance while staying guarded.
+- **Authorship:** template sentences (the "door line" on 16 Jul and again on 14 Aug) carry no decision.
+  Counsel-shaped text is deliberate. 12–16 Oct was Matheson alone (Counsel "not contactable until 22 October"),
+  which shows the room she has.
+  - Counsel's dates on 19 Oct came via the clerk; advice waited for 22 Oct.
+  - The 23 Oct "most, if not all" email went out the morning after Counsel's return: the first trace of her
+    reaction.
+- **Commitments:** process promises are reliable; outcome words ("hope", "resolved") are direction, not promise.
+- **Rhythm:** Monday mornings for decided matters; Fridays for deadlines. The Commission's instructions get the
+  fastest compliance.
+- **Blame displacement on 23 Oct:** 2027 is put down to the Commission's diary, not Counsel's 3 Dec unavailability.
+- **Silence map:** never denied the injury, defended the counting, pleaded (b) facts, defended MSH's records,
+  answered law in writing, threatened costs since Jul 2025, or characterised Cory since Feb 2026.
+- **The machine:** officer, then Counsel after the conference, then the delegate. They concede only with a "new
+  information" story (Guide §5.1). **Lever:** "these documents were not before the review", never "the review
+  was wrong".
+- **The Commission:** on 13 Oct Dwyer turned their "undertaking" into an instruction; on 22 Oct he offered his
+  last 2026 slot. He can see who moved it to 2027.
+- **Calls revised:** Matheson emails the Commission Mon 26 Oct morning proposing 21 Jan (75%); listing this week
+  now 50% (was "no", 55%).

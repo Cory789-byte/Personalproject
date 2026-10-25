@@ -108,6 +108,13 @@ The commitment and the "most, if not all" line move it from silence to an answer
 | You win if it is heard (the doctors attending is the swing) | about 70% |
 | **The appeal is allowed, one way or the other** | **about 85%** |
 
+> **⛔ Revised 25 Oct (deep decode, `2026-10-25_DEEP_DECODE…`):**
+> - Matheson promised on 23 Oct to "again email the Commission (cc'ing you in)" once the dates suited. You
+>   confirmed at 9:31 that day, and nothing had gone by Sunday.
+> - **New call:** she emails the Commission on **Monday 26 Oct, in the morning**, proposing 21 Jan (75%).
+> - **The listing call moves from "no listing this week (55%)" to 50%.** The Registry has been turning these around
+>   in 2–3 days, but Dwyer may still wait for the 30 Oct letter.
+
 ## 4. What you do this week
 
 1. **Send nothing to the Regulator before Friday.** They have a date they set themselves.
@@ -137,4 +144,5 @@ The commitment and the "most, if not all" line move it from silence to an answer
 | Q6: ¶27 | in the amended defence | | |
 | E: overall | cooperative, narrowing | | |
 | G: concession | no | | |
-| Listing this week | no | | |
+| Listing this week | no; revised to 50/50 | | |
+| Matheson emails the Commission proposing 21 Jan | Mon 26 Oct, morning | | |
