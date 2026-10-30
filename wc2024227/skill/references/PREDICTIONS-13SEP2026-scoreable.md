@@ -3135,3 +3135,17 @@ short causation view in their own words. ⛔ Nothing is suggested to the doctors
 - R49, the advice on 228–231 and Tab 24 after 9 Nov.
 - Whether counsel's review produces an approach (R34).
 - Any application for an expert, or opposition to leave.
+
+**E43 addendum 1: the November dates (Cory, 30 Oct).**
+- **What the dates show.** The Regulator itself sought an early conference. Counsel gave 2, 5 and 6 Nov from leave
+  (R36, R41), and R29 and R47 both name "the conference" as the place for the open items. The plan was to settle or
+  narrow them orally, with counsel, in the first week of November. The 30 Oct letter confirms that no written
+  positions were being prepared beforehand.
+- **What broke it.** The Commission's diary (R43). The Regulator then chose to keep the same counsel, which pushed the
+  conference to 2027 (R45, R46).
+- **The refinement to E43.** Delay is **tolerated, not sought.** H3 (delay sought) weakens. Counsel-dependence plus a
+  conference-first method strengthens.
+- **"Agreement" in their terms** means narrowing the issues, and any review of position after the conference. It is
+  not a settlement (Guide 5.1: "No commercial settlement is possible at the conference").
+- **The lever.** The Guide says "**Usually** the same Member" chairs the second conference, so an earlier Member is
+  possible. Failing that, written positions after counsel's review would restore the November purpose.
