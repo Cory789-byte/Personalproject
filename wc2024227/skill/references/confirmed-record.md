@@ -833,6 +833,56 @@ range, never a point.
 **Source: Cory, 5 Aug 2026.** The member who will hear the matter assessed it at **~50/50 in
 March 2026** — the **13 March 2026 s 552A conference**. ⛔ Add to the chronology.
 
+### ✅ CORROBORATED — "THE MEDICAL WOULD BE ON RECORD BUT SEALED" (Cory, 14 Sep 2026; verified 14 Sep)
+**Recall:** Dwyer said the medical records would come on the record but be **sealed**, in
+connection with how the other side had handled his medical file, and that the hearing would be
+on causation; the sealing "was done back in March in the submissions."
+**Verified against the record (14 Sep):**
+1. **He sought it himself, in writing.** Form 4 stamped **27 Feb 2026** (signed 25 Feb; first
+   sought in the 9 Feb urgent filing under s 580 + r 94), Schedule B Part F, **Order 9 — Interim
+   Sealing Order**: *"pursuant to s 580 of the Industrial Relations Act 2016 (Qld), the Commission
+   make an immediate interim non-publication and sealing order in respect of Exhibit A5 and
+   Exhibit A4, pending determination of Order 1"* (Order 1 = permanent exclusion of the medical
+   records obtained under the Form 29 of 4 Jul 2025). Ground: the manner of obtaining, and the
+   Regulator's refusal (Sch B C.3) to concede that intimate entries unrelated to the injury were
+   irrelevant. Source: render of `documents/filings/2026-02-27_Form4_Application_Disclosure_stamped.pdf`
+   (no text layer), pp 8-9 of Schedule B.
+2. **The Form 4/20 was recalled orally at the 13 Mar 2026 s 552A conference** (this file, "THE
+   FEBRUARY 2026 FORM 4 / FORM 20 — RECALLED. CLOSED."). ⇒ There may be **no withdrawal email**;
+   the recall was at the conference.
+3. **The file's own earlier entry records the outcome:** "MEDICAL RECORDS — SEALED, BUT STILL
+   RELIED ON — Cory accepted the sealing of his medical records. A s 580 order restricts
+   PUBLICATION. It does not prevent a party RELYING on the material"; and "the Commission has
+   already made a sealing order in this proceeding" (precedent for draft order 6). ⇒ Consistent
+   with the recall: Form 4 recalled; records stay on the record for causation; sealed from
+   publication.
+**✅ DOCUMENTED (15 Sep 2026, Gmail ingest):** the recall/withdrawal email EXISTS and is in the repo —
+`documents/gmail-ingest-2026-09-15/messages/2026-03-20_0414UTC_Cory_to_Registry+Matheson_UPDATE_post_s552A_conference_13Mar_RECALL_of_Form4.txt`
+(Cory → Registry + Matheson, 20 Mar 2026 14:14 AEST): *"Noting the Commissioner's indication on
+the record that the Medical Exhibit will be sealed if it comes on the record ... I accept the
+Commissioner's indication that Exhibit A5 will be sealed on the Commission's file to protect my
+privacy pursuant to s 580 of the Industrial Relations Act 2016. On this basis, I do not require a
+formal hearing on the exclusion of this evidence ... I withdraw the portions of my Form 4
+Application (filed 11 February 2026) and Supplementary Form 4 Application (filed 23 February
+2026) seeking orders for findings of statutory reprisal, referrals to external agencies, or
+personal/indemnity costs ... I no longer press for orders regarding representative removal or the
+strike-out of the Respondent's defence."* ⇒ Dwyer's sealing INDICATION was given ON THE RECORD at
+the 13 Mar 2026 conference (his own words as reported the same week, in writing, to the Registry
+and the Regulator, uncontradicted); the formal s 580 order document is still not in the repo.
+Matheson's reply the same day (17:11 AEST) is ingested alongside ("I will disclose them to you
+without the need for a Notice to Produce").
+**Effect on the analysis:** the March order fixed the SHAPE of any causation hearing seven
+months ago — medical on the record, sealed from publication, relied on by both sides. That
+removes the one cost to him of the causation-only corridor (publication of clinical detail)
+while leaving MSH's public-forum cost intact; and the corridor's merits are the file's own:
+Squires' Findings B and C admitted (¶37), the 16 Nov 2023 "No psychological illness" entry in
+the records THEY produced, s 32 covering aggravation, and a pre-existing contention first
+appearing 18 Feb 2026 — run as an inconsistency they must explain, sequence only, never motive.
+⛔ Standing: the Feb Form 4 remains CLOSED — nothing in it re-run (Ground 3 "unlawful seizure"
+was wrong: r 64D(1)(a) party carve-out; never "unlawfully obtained"). Only two things from it
+live on lawfully: the s 580 sealing (made; precedent for Tabs M1-M9 at 1 Oct) and Findings
+A/B/C as admitted contents.
+
 ### ⚠ WHY THIS OUTRANKS THE MODEL — and a methodological admission
 The Monte Carlo **AND-combines five blocks**. That is conservative *by construction*: five
 independent-ish conditions each at .85 yields **.44**, not .85. **A member forming a view does not

@@ -1,0 +1,76 @@
+THREAD: 1a0a288a94c47202 | ORIG_FOLDER: Inbox
+ATTACHMENTS ON THE 20 AUG REPLY: "Letter 1. Amy Mo.pdf"; "Attachment 7.PNG"
+==============================================================================
+[1] ⭐ THE COVERING EMAIL FOR THE 16 AUGUST 2024 EMPLOYER RESPONSE
+From: Amy Mo <Amy.Mo@workcoverqld.com.au>, Claims Representative, WorkCover Queensland
+Sent: Friday, 16 August 2024 3:07 PM AEST | To: coryshepherd1@hotmail.com
+Subject: Our ref: S23LW142013
+
+  "Good afternoon Cory,
+   Please see attached response from your employer.
+   Should you have any further factual evidence to support your claim, please provide by
+   20/08/2024.
+   Kind regards, Amy Mo"
+
+⭐ This closes part of the long-standing corpus gap. The covering text of the 16 Aug 2024 employer
+response is now documented, together with the four-day deadline it imposed. The RESPONSE ITSELF and
+its eight attachments are still outstanding (the source message is ~15 MB and the Gmail RAW pull
+fails; a 151 KB copy exists in OneDrive `Correspondence_Emails` as
+`16_Aug_24_Email_Amy_Mo_Employer_response.pdf`). Attachment list, from the earlier PLAIN_TEXT pull:
+"Cory Shepherd - WC Employer Response.PDF"; Att 1 Chloe Taylor Complaint Form; Att 2 Switchboard
+Implementation Plan.DOCX; Att 3 B1 Recruitment and Selection; Att 4 Email from Ms Taylor advising
+absence; Att 5 Roster; Att 6 Page from communication book.JPEG; Att 7 F4 Union Encouragement;
+Att 8 Directive 03 23.
+------------------------------------------------------------------------------
+[2] From: Cory Shepherd (work account) | Sent: Tuesday, 20 August 2024 03:38:08 UTC (13:38 AEST)
+To: Amy Mo | Cc: coryshepherd1@hotmail.com | Subject: Re: Our ref: S23LW142013
+
+Hi Amy,
+
+I apologize for the delay in my response. I want to share that I have been struggling with the toll
+this situation has taken on me. The accusations of being combative while trying to report wrongdoing
+have adversely affected my mental well-being. This is a psychological effect; sustained and that has
+developed over time, ultimately leading me to seek medical attention from my doctor. Due to this it
+was difficult to give an exact date of injury which I have mentioned to begin with.
+
+I'm disappointed by the response I've received, and I believe that Human Resources should also be
+held accountable for this situation. My final effort to raise awareness involved notifying the
+Ethical Standards Department, which closed the case without conducting a thorough investigation
+within just 7 days. There was no data collection, such as cross-referencing computer logs or swipe
+access records related to the attendance of Chloe Taylor and Tammy Reece. It is concerning that no
+departmental changes have occurred since various reports over a year ago.
+
+Moreover, as Chloe and Tammy have contributed to my injury, I have decided to distance myself from
+communication with them for the time being. I truly believe that our department makes a significant
+difference in patient care, and I generally enjoy my job and appreciate my colleagues.
+
+I have attached letter 1. with further details and additional documentation that may assist you in
+your review. I will further attach letter 2 but would actually prefer if there was an option to come
+into your office directly to go over the case itself.
+
+Kind regards, Cory
+==============================================================================
+⚠⚠ TWO THINGS TO KNOW ABOUT THIS EMAIL BEFORE RELYING ON IT
+
+1. ⚠⚠ **"Due to this it was difficult to give an exact date of injury which I have mentioned to
+   begin with."** This is his own contemporaneous statement, to the insurer, that the date of injury
+   was hard to fix — written two months after the pleaded onset of 18 June 2024. It is the single
+   most usable sentence in the 2024 file for a respondent attacking the onset date, and it is on
+   WorkCover's file, so the Regulator has it. ⛔ It is never volunteered. **The answer is the
+   documents, not the sentence:** the Work Capacity Certificate of 1 July 2024 records the date of
+   injury as 18 June 2024; the certificate of 28 June 2024 and the treating records fix the period;
+   a lay claimant's difficulty in nominating a date for a gradual-onset psychological injury is
+   ordinary, and the medical evidence is what fixes it. Krishnaiah and Hawes carry this, not Cory.
+   ⛔ Nothing is suggested to either doctor about it.
+
+2. ⚠ **"within just 7 days" is HIS figure and it is not the verified one.** The corrections ledger
+   records the ESU complaint as lodged 13 May 2024 and closed 27 May 2024 — **14 days**, 7 days
+   after particulars were first sought (Review Decision 69983). ⛔ Never repeat "7 days" as a fact.
+
+⭐ What IS usable, and is already in the pleaded case: the 2024 formulation of Stressor 1(a) in his
+own contemporaneous words — the absence of "computer logs or swipe access records related to the
+attendance" — and the statement that the injury "developed over time" leading him to seek medical
+attention, which is consistent with the treating chronology and with a gradual-onset MDD.
+⛔ "Chloe and Tammy have contributed to my injury" and "Human Resources should also be held
+accountable" are 2024 lay characterisations. They are not adopted, not repeated, and not put into
+any filing: the served case states the chronology and never the motive.
