@@ -88,3 +88,32 @@ about content.
 **Note.** The Regulator knew this before it wrote on 27 and 30 Oct. Its deferral therefore reflects counsel's
 availability and its process, not a judgement that the medical evidence is weak. Counsel's review from 9 Nov is where
 this weighs.
+
+## 5. "Either way" — isolated or holistic (Cory, 30 Oct), and the May 2024 convergence
+
+- **Isolated.** Largely right. Showing that some items were reasonable does not win the exclusion. The question is
+  the injury as a whole (Langerak [86]), and reasonable management action among the causes "does not by itself
+  answer the statutory question" (Mahaffey [57], as pleaded in C 7). The caveat is causal weight: the Regulator
+  wins only if the unreasonable and non-management items are minor causes. The psychiatrist's attribution (rostering,
+  management, pay) is what makes them central.
+- **Holistic** (Delaney). This cuts both ways. It is the Respondent's authority too: the review used it for its
+  "global evaluation" and still excluded. On this record the whole picture is unfavourable to the Regulator, but its
+  own holistic frame will be "a busy unit, errors acknowledged and fixed". The 9A's design (each stressor pleaded
+  alone; Delaney only where the connection is close, C 6) keeps the safer route primary.
+- **Overlap.** It adds connection and concentration, not weight. The 9A itself says repetition "does not count
+  causation twice". Its real value is the **May 2024 convergence**, which answers the Regulator's "it crystallised
+  from the 15 May exchange" theory. Index of particulars:
+  - 16–26 Apr roster-line error (3(e));
+  - 1 May fatigue refusal after 23 days (3(d); ¶¶ 247, 249);
+  - 2–9 May misdirected calls, with the manager's first reply after 5 d 18 h (1(h); ¶¶ 56–69);
+  - 3 May Payroll directs four corrections (2(h)), which on 13 May were "not corrected" (2(i); ¶ 193);
+  - 10 May risk "11 … moderate", and "Cory's roster will not be considered … not yet aware" (3(g); ¶¶ 219, 221);
+  - 13–15 May notification instructions (1(j));
+  - 15 May the code-of-conduct reply (1(l));
+  - 15–20 May the respiratory directory error (1(k));
+  - 16 May the GP referral;
+  - 21 May the manager still awaiting Payroll (2(l));
+  - 28–30 May AVAC "Part Completed" (2(m));
+  - 3 Jun the last shift.
+
+  The deterioration coincides with a cluster of non-management and erroneous items, not with one exchange.
