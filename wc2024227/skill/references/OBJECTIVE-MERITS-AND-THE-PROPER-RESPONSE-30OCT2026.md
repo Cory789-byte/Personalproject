@@ -54,3 +54,37 @@ The real gaps are items 1, 5 and 6, and partly 4.
 - s 32(1): a position.
 - Objections: notified before the hearing.
 - The medical evidence remains the lever on both a concession and a win.
+
+## 4. Update, 30 Oct (Cory): the treating psychiatrist has told the Regulator himself that he will give evidence
+
+**Status.** This is Cory's account. It is not yet in the case file: no email, file note or date is held, and the 9A
+(1.9) gives notice of his oral evidence. Record when it happened and how Cory knows. ⛔ Ask the doctor for nothing
+about content.
+
+**Effect on the merits.**
+- **Attendance.** The "does not attend" branch largely falls away. The Regulator knows, from the doctor himself.
+- **Content.** What remains is what he will say. His records attribute the disorder to "workplace stress stemming
+  from issues with management and rostering" and to pay "withheld or delayed". Those are the categories where the
+  employer's errors are admitted.
+- **Re-price.**
+
+  | Outcome | Now | Before |
+  |---|---|---|
+  | Firm medical evidence | ≈80% | ≈65% |
+  | Appellant wins if heard | ≈75–80% | ≈70% |
+  | Concession before a contested hearing | ≈50–55% | ≈45–50% |
+  | Appeal allowed either way | ≈85–90% | n/a |
+
+**Effect on what the Regulator should be doing.**
+- With the treating psychiatrist willing and no contrary medical evidence, there is no basis to contest s 32(1).
+  Agreement is the proper answer.
+- If it wants to contest causation by stressor, the only proper route is its own psychiatric opinion promptly, which
+  needs leave because the directions expired on 30 Sep.
+- Otherwise it should review its position.
+- Deferring everything to 2027 is the least defensible course.
+- **Watch:** an application for an independent psychiatric examination or an expert is now the clearest signal of a
+  fight.
+
+**Note.** The Regulator knew this before it wrote on 27 and 30 Oct. Its deferral therefore reflects counsel's
+availability and its process, not a judgement that the medical evidence is weak. Counsel's review from 9 Nov is where
+this weighs.

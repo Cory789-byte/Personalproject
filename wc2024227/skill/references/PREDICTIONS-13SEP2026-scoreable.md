@@ -3149,3 +3149,14 @@ short causation view in their own words. ⛔ Nothing is suggested to the doctors
   not a settlement (Guide 5.1: "No commercial settlement is possible at the conference").
 - **The lever.** The Guide says "**Usually** the same Member" chairs the second conference, so an earlier Member is
   possible. Failing that, written positions after counsel's review would restore the November purpose.
+
+**E43 addendum 2: the treating psychiatrist has told the Regulator himself that he will give evidence (Cory, 30 Oct;
+undated; not yet documented).**
+- **Re-priced:**
+  - firm medical evidence ≈80% (was ≈65%);
+  - win if heard ≈75–80% (≈70%);
+  - concession before a contested hearing ≈50–55% (≈45–50%);
+  - appeal allowed either way ≈85–90%.
+- **New falsifier:** an application for an independent psychiatric examination or an expert.
+- The Regulator knew this before R46 and R47, so the deferral reflects counsel's diary, not a weak-medical judgement.
+  See `OBJECTIVE-MERITS-AND-THE-PROPER-RESPONSE-30OCT2026.md` §4.
