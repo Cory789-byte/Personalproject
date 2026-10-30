@@ -182,6 +182,11 @@ documents/correspondence-2026/2026-10-16_1558_Matheson_Tab32A_B_veracity_confirm
 documents/correspondence-2026/2026-10-19_1052_Matheson_counsel_dates_2-5-6Nov_s552A_conference.txt	0	1319	OK
 documents/correspondence-2026/2026-10-20_0944_Matheson_to_Registry_cc_Cory_joint_dates_2-5-6Nov.txt	0	1375	OK
 documents/correspondence-2026/2026-10-20_0948_Matheson_to_Cory_ack_will_respond_to_19Oct_letter_by_30Oct.txt	0	918	OK
+documents/correspondence-2026/2026-10-22_1215_Registry_Dwyer_only_3Dec_PM_available_2026.txt	0	725	OK
+documents/correspondence-2026/2026-10-23_0919_Cory_to_Registry_cc_Matheson_availability_19Oct_letter_proposed_directions_SENT.txt	0	2809	OK
+documents/correspondence-2026/2026-10-27_0813_Matheson_to_Registry_cc_Cory_declines_3Dec_proposes_21Jan_10Feb_2027.txt	0	986	OK
+documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter.txt	0	2351	OK
+documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter_AS_RECEIVED_printout.pdf	4	5482	OK
 documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf	103	112382	OK
 documents/correspondence-packs/02_Chloe_Taylor_PACK_462pp.pdf	462	432540	OK
 documents/correspondence-packs/03_Scott_Hughes_PACK_376pp_196sections.pdf	376	380927	OK
@@ -1053,7 +1058,7 @@ lodgement/_md2html.py	0	6241	OK
 lodgement/_stamp.py	0	1913	OK
 scripts/README_ledger.txt	0	77	OK
 scripts/build_reference_index.py	0	3980	OK
-scripts/comms_signals.py	0	6884	OK
+scripts/comms_signals.py	0	7130	OK
 scripts/gmail_ingest.py	0	7234	OK
 scripts/panel_aggregate.py	0	8042	OK
 skill/SKILL.md	0	12188	OK
@@ -1167,7 +1172,7 @@ skill/references/POST-REINSTATEMENT-LITERATURE-MAP.md	0	6984	OK
 skill/references/POWERS-MAP-forcing-the-response.md	0	35944	OK
 skill/references/PRECONFERENCE-LETTER-17OCT2026-REVIEW.md	0	6108	OK
 skill/references/PREDICTED-25SEP-LETTER-E31.md	0	6758	OK
-skill/references/PREDICTIONS-13SEP2026-scoreable.md	0	208959	OK
+skill/references/PREDICTIONS-13SEP2026-scoreable.md	0	219000	OK
 skill/references/PREDICTIVE-CYCLE.md	0	15505	OK
 skill/references/PROCEDURAL-ROADMAP-APPEAL-GUIDE.md	0	18092	OK
 skill/references/PROGNOSIS-4AUG.md	0	4427	OK
@@ -1185,7 +1190,7 @@ skill/references/REDTEAM-Ruttan-running-observation.md	0	14568	OK
 skill/references/REGISTER-vs-ARCHITECTURE.md	0	7462	OK
 skill/references/REGULATOR-12OCT2026-THE-STANDSTILL-READ.md	0	22037	OK
 skill/references/REGULATOR-RESERVATION-HOW-TO-PRESS-18OCT2026.md	0	12059	OK
-skill/references/REGULATOR-SIGNALS-the-full-data-set.md	0	20325	OK
+skill/references/REGULATOR-SIGNALS-the-full-data-set.md	0	20912	OK
 skill/references/REPORT-B-ARCHITECTURE.md	0	15867	OK
 skill/references/REPORT-B-LOI-VERIFICATION-9AUG2026.md	0	38642	OK
 skill/references/REPORT-B-PACK-MASTER-SPEC-11AUG2026.md	0	8832	OK

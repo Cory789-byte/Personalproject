@@ -281,3 +281,16 @@ See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
   - R34, a WP approach;
   - MSH on 27–28 Oct.
 - See E41.
+
+**Watchlist, 30 Oct (R43–R47).**
+- **Fired:**
+  - the Commission's diary (3 Dec PM, the only 2026 date);
+  - the Regulator declined it and proposed 21 Jan or 10 Feb 2027;
+  - R47 came at 15:59, conceded nothing, deferred everything, and the **formula returned** (item 6);
+  - counsel cannot be consulted in detail until at least 9 Nov.
+- **Next:**
+  - R48, the Commission on R44 and R46 (a 2027 conference, directions or a mention);
+  - R49, 228–231 and Tab 24 "in due course";
+  - R34, any approach after counsel's review;
+  - any expert application or opposition to leave.
+- See E43.

@@ -22,7 +22,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 LEDGER = os.path.join(ROOT, "index", "COMMS_SIGNAL_LEDGER.tsv")
 PRED = os.path.join(ROOT, "skill", "references", "PREDICTIONS-13SEP2026-scoreable.md")
-FORMULA = re.compile(r"position\s+remains\s+to\s+defend\s+the\s+appeal\s+as\s+outlined\s+in\s+(our|the)\s+statement\s+of\s+facts\s+and\s+contentions", re.I)
+# The 13 May SOFC anchor, in its full form or abbreviated ("As outlined in the Respondents SOFAC", 30 Oct 2026)
+FORMULA = re.compile(r"position\s+remains\s+to\s+defend\s+the\s+appeal\s+as\s+outlined\s+in\s+(our|the)\s+statement\s+of\s+facts\s+and\s+contentions"
+                     r"|as\s+outlined\s+in\s+(our|the)\s+(respondent'?s?\s+)?(SOFAC|SOFC|statement\s+of\s+facts\s+and\s+contentions)", re.I)
 
 def load():
     with open(LEDGER, newline="") as f:

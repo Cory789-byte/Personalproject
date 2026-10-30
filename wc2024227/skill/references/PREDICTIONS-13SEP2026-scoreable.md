@@ -3055,3 +3055,83 @@ short causation view in their own words. ⛔ Nothing is suggested to the doctors
     the cheap items (documents, 228–231) or the decisive ones (s 32(1), leave, ¶27) is now the test.
   - **Unproven:** concession. R34 (an approach) has not fired.
 - **Estimate:** unchanged at ≈60% (E42).
+
+### E43 · Friday 30 October 2026, 15:59: the response to the 19 Oct letter, read with 22, 23 and 27 Oct (R43–R47)
+
+**Verified.**
+- **R43, 22 Oct.** Dwyer cannot do 2, 5 or 6 Nov. The afternoon of 3 Dec is "currently the only remaining
+  availability for the Commissioner in 2026".
+- **R45, before 23 Oct 09:19.** The Regulator told Cory that counsel cannot do 3 Dec, and proposed 21 Jan 2027 or
+  10 Feb 2027 PM. That email is not in the case file.
+- **R44, 23 Oct.** Cory to the Registry, attaching the 19 Oct letter: directions (a report after 30 Oct, then hearing)
+  in place of a 2027 conference.
+- **R46, 27 Oct.** The Regulator to the Registry: "with apologies", not available on 3 Dec. "The parties … have
+  confirmed joint availability" for 21 Jan and 10 Feb 2027. It says nothing on R44's proposal.
+- **R47, 30 Oct 15:59.** One minute before the limit. Officer-drafted (typos). Script register: position. **Formula
+  present.**
+  1. **Facts 228–231:** veracity re-confirmed; the facts "the Respondent will consult with Counsel and advise in due
+     course".
+  2. **Tender:** "will not agree to the tendering of any documents prior to hearing dates being set". Tab 24 to
+     Counsel.
+  3. **Objections:** Counsel "will decide during the hearing".
+  4. **s 32 elements:** "an appropriate topic to discuss at the additional conference".
+  5. **Leave:** unable to consult Counsel; to the conference.
+  6. **¶27:** "As outlined in the Respondents SOFAC, the Respondent contends that any management action involved in
+     the causation of any injury to the Appellant was reasonable management action taken in a reasonable way". The
+     management action is still unidentified.
+
+  Counsel's chambers had given "an incorrect date of Counsels return from leave". There will be no detailed
+  consultation "until at least the 9 November 2026".
+
+**Scored.**
+- **E40.2 and E41.8** (listing for 2, 5 or 6 Nov, ≈75–80%): **FAILED.** The Commission's diary decided this.
+- **E41.1** (a written response by 4.00 pm, ≈85%): **FIRED** at 15:59.
+- **E41.9** (at the limit, ≈65%): **FIRED.**
+- **E41.2** (228–231 admitted, ≈60%): **not fired.**
+- **E41.3** (tender agreed, ≈55%): **not fired.** Refused until hearing dates are set.
+- **E41.4** (s 32(1), ≈30%): **not fired.** Sent to the conference.
+- **E41.5** (leave, ≈25%): **not fired.** Sent to the conference.
+- **E41.6** (every item deferred, ≈15%): **FIRED in substance.**
+- **E41.7** (the formula returns, ≈15%; the falsifier): **FIRED.** It is the first time since 14 Aug.
+
+**What the model got wrong, and why.**
+1. **It read the 19–20 Oct tempo as a signal about substance.** It was counsel answering availability quickly, as
+   R47 now says: "she has been able to make quick responses in relation to her availability".
+2. **It under-weighted officer limits,** which were already known (MLP 3.2). Without counsel the officer concedes
+   nothing, not even facts that copy a confirmed document, and falls back on the pleading.
+3. **It did not model the Commission's diary,** and it took the 22 Oct return at face value.
+
+**Read** (graded).
+- **The delay is real, but it is driven by counsel.** Strong as to fact, moderate as to motive. The Regulator chose
+  continuity of counsel over the Commissioner's only 2026 date and offered no alternative counsel. The cost of delay
+  falls on the Appellant.
+- **The formula's return is the default, not new resolve.** Moderate. Item 6 answered a question about ¶27, and the
+  safe answer an officer can give without counsel is to restate the pleading. It is still the defend voice of
+  July–August, and it still identifies no management action (fact 303 stands).
+- **"Hearing" framing.** Weak to moderate. "Prior to hearing dates being set" and "during the hearing" assume the
+  matter is heading to a hearing.
+- **Hypotheses:**
+
+  | Hypothesis | Weight |
+  |---|---|
+  | H1′: a counsel-dependent holding pattern, defending by default | strong |
+  | H3: delay, tolerated rather than shown to be sought | moderate |
+  | H2: preparing to concede | weakened to weak–moderate |
+  | Preparing a contest | weak–moderate: still no expert, no amendment, no opposition to leave |
+
+**Re-priced** (planning estimates; these replace E42).
+
+| Outcome | Now | E42 |
+|---|---|---|
+| Regulator concedes before a contested hearing | ≈45–50% | ≈60% |
+| … before the 2027 conference | ≈15% | n/a |
+| Contested hearing | ≈45–50% | ≈35–40% |
+| Appellant wins if heard | ≈70% (unchanged: the record is unchanged) | ≈70% |
+| Appeal allowed either way | ≈80–85% | ≈85–88% |
+| The Commission answers R44/R46: lists the 2027 conference / makes directions / lists a mention | ≈55% / ≈30% / ≈15% | n/a |
+
+**Watch.**
+- R48, the Commission's answer.
+- R49, the advice on 228–231 and Tab 24 after 9 Nov.
+- Whether counsel's review produces an approach (R34).
+- Any application for an expert, or opposition to leave.

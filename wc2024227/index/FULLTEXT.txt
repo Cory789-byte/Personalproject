@@ -20131,7 +20131,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 LEDGER = os.path.join(ROOT, "index", "COMMS_SIGNAL_LEDGER.tsv")
 PRED = os.path.join(ROOT, "skill", "references", "PREDICTIONS-13SEP2026-scoreable.md")
-FORMULA = re.compile(r"position\s+remains\s+to\s+defend\s+the\s+appeal\s+as\s+outlined\s+in\s+(our|the)\s+statement\s+of\s+facts\s+and\s+contentions", re.I)
+# The 13 May SOFC anchor, in its full form or abbreviated ("As outlined in the Respondents SOFAC", 30 Oct 2026)
+FORMULA = re.compile(r"position\s+remains\s+to\s+defend\s+the\s+appeal\s+as\s+outlined\s+in\s+(our|the)\s+statement\s+of\s+facts\s+and\s+contentions"
+                     r"|as\s+outlined\s+in\s+(our|the)\s+(respondent'?s?\s+)?(SOFAC|SOFC|statement\s+of\s+facts\s+and\s+contentions)", re.I)
 
 def load():
     with open(LEDGER, newline="") as f:
@@ -312286,6 +312288,159 @@ which leaves him free to be candid in a private conference.
 - **Facts 228–231:** whether they are admitted. This is the cleanest single signal.
 - **The formula:** the falsifier.
 
+### E42 · Tuesday 20 October 2026: recalibration against the Appeal Guide's own base rate (Cory asked for the most rigorous pass)
+
+**What was missed.** E39's "≈70% no contested hearing" was built from case-specific signals without an explicit base
+rate. The Appeal Guide supplies one (§5.1, verified in `guide.txt`):
+
+> "No commercial settlement is possible at the conference. … Following the conference, the Respondent may decide to
+> review its position or consider conceding the appeal where new information is presented that they may not have yet
+> considered. Alternatively, you may wish to discontinue your appeal. The more likely outcome of a conference is that
+> parties will have a better understanding of the issues to be addressed at a hearing and the processes involved in a
+> hearing."
+
+**What the base rate means.**
+- **Generically,** a hearing is the more likely sequel to a second conference.
+- **The no-hearing outcomes include appellant discontinuances.** Those are excluded here (Cory never discontinues), so
+  the only no-hearing route is a Regulator concession.
+- **The Member "will also explain the hearing process",** and "it is not the Commission's role to provide advice about
+  how a party may conduct their case". Dwyer's talk of a hearing is therefore expected, and it is not diagnostic.
+
+**The case-specific evidence still moves the odds a long way up.**
+- 298 of 303 facts admitted, none denied.
+- The outlines concede the errors.
+- The review found the roster unreasonable and then counted rather than weighed.
+- ¶27 is empty, and there is no expert.
+- The process signals are cooperative (R36, R41, R42).
+
+**Against that:**
+- The SOFC's positive explanations are unwithdrawn (¶¶14(f), 16, 20, 22).
+- The appellant has no medico-legal causation evidence (WCR v Carr [2023] ICQ 1, ground 2), which gives the delegate a
+  rational defence path.
+
+**Recalibrated** (planning estimates; these replace E39's headline figures from today).
+
+| Outcome | Now | E39 |
+|---|---|---|
+| Regulator concedes (consent orders) before a contested hearing | ≈60% (55–65) | ≈70% |
+| … if the treating doctors' causation evidence is shown to be firm (attendance secured, attribution clear) | ≈75–80% | n/a |
+| … if it stays uncertain | ≈40–45% | n/a |
+| Contested hearing | ≈35–40% | ≈30% |
+| Appellant wins if heard | ≈70% (doctors attribute ≈85%; equivocal ≈50%) | ≈75% |
+| Appeal allowed either way | ≈85–88% | ≈92% |
+
+**The lever this exposes.** Guide 5.1's trigger is "new information … not yet considered". The appellant's medical
+evidence is the information most able to move the delegate: the doctors' attendance and, if they will give one, a
+short causation view in their own words. ⛔ Nothing is suggested to the doctors about content.
+
+**Score at:** the 30 Oct response (E41), the conference, and any review-of-position letter.
+
+### E41.1 · 20 October 2026: R36, R41 and R42 against the whole ledger (Cory's prompt)
+
+| Dimension | Jul–Aug (R04, R07, R11, R12) | Sep (R14, R16, R19–R21) | Oct to 16th (R26, R28, R29, R35) | 19–20 Oct (R36, R41, R42) |
+|---|---|---|---|---|
+| Latency | 10–21 days | 11–15 days, to deadlines | 6–11 days (R28: 33, the MSH round trip) | 6 days, then **17 h 40 min** |
+| Register | position with formula (R04, R12); apologetic holding | legal (R14) and operational | operational | procedural |
+| Formula | **present** (16 Jul, 14 Aug) | absent | absent | absent: **12 substantive communications** since 14 Aug |
+| Tone | "I apologise for the delay"; "sincerely apologise" | neutral | neutral; reservation re-inserted 16 Oct | "Thank you for your assistance"; "Thankfully"; "appreciate" |
+| Dated commitments | "as soon as possible this week", then 11 days late | extension to 25 Sep, delivered 24 Sep | "noting … 16 October", delivered 16 Oct 15:58 | **"respond by Friday 30 October 2026 as requested"** |
+| Counsel | Feb (R32): diary within hours | not mentioned | "not contactable until 22 October" | engaged during leave; named to the Commission |
+| Channel | WP positions to Cory | legal to Cory; list to the Registry | Registry for process (R29); Cory for documents | Registry first (compliance account), then Cory |
+
+**Read.**
+- **What is new.** This is the fastest, warmest and most firmly committed run in the record. Since September the
+  Regulator has met or beaten every date it accepted. Expect the 30 Oct response on or just before the day. On the
+  16 Oct precedent, that means the afternoon.
+- **What is unchanged.** There has been no merits statement in either the position or legal register since 14 Aug.
+  The 30 Oct response will be the first in about 11 weeks.
+- **Against the thesis.**
+  - **Confirmed:** the conference without orders and on counsel's timetable. "Not contactable" has dissolved into
+    counsel engaging during leave, as the February precedent predicted.
+  - **Refined:** "positions kept oral" has become "something in writing by a date". Whether the writing covers only
+    the cheap items (documents, 228–231) or the decisive ones (s 32(1), leave, ¶27) is now the test.
+  - **Unproven:** concession. R34 (an approach) has not fired.
+- **Estimate:** unchanged at ≈60% (E42).
+
+### E43 · Friday 30 October 2026, 15:59: the response to the 19 Oct letter, read with 22, 23 and 27 Oct (R43–R47)
+
+**Verified.**
+- **R43, 22 Oct.** Dwyer cannot do 2, 5 or 6 Nov. The afternoon of 3 Dec is "currently the only remaining
+  availability for the Commissioner in 2026".
+- **R45, before 23 Oct 09:19.** The Regulator told Cory that counsel cannot do 3 Dec, and proposed 21 Jan 2027 or
+  10 Feb 2027 PM. That email is not in the case file.
+- **R44, 23 Oct.** Cory to the Registry, attaching the 19 Oct letter: directions (a report after 30 Oct, then hearing)
+  in place of a 2027 conference.
+- **R46, 27 Oct.** The Regulator to the Registry: "with apologies", not available on 3 Dec. "The parties … have
+  confirmed joint availability" for 21 Jan and 10 Feb 2027. It says nothing on R44's proposal.
+- **R47, 30 Oct 15:59.** One minute before the limit. Officer-drafted (typos). Script register: position. **Formula
+  present.**
+  1. **Facts 228–231:** veracity re-confirmed; the facts "the Respondent will consult with Counsel and advise in due
+     course".
+  2. **Tender:** "will not agree to the tendering of any documents prior to hearing dates being set". Tab 24 to
+     Counsel.
+  3. **Objections:** Counsel "will decide during the hearing".
+  4. **s 32 elements:** "an appropriate topic to discuss at the additional conference".
+  5. **Leave:** unable to consult Counsel; to the conference.
+  6. **¶27:** "As outlined in the Respondents SOFAC, the Respondent contends that any management action involved in
+     the causation of any injury to the Appellant was reasonable management action taken in a reasonable way". The
+     management action is still unidentified.
+
+  Counsel's chambers had given "an incorrect date of Counsels return from leave". There will be no detailed
+  consultation "until at least the 9 November 2026".
+
+**Scored.**
+- **E40.2 and E41.8** (listing for 2, 5 or 6 Nov, ≈75–80%): **FAILED.** The Commission's diary decided this.
+- **E41.1** (a written response by 4.00 pm, ≈85%): **FIRED** at 15:59.
+- **E41.9** (at the limit, ≈65%): **FIRED.**
+- **E41.2** (228–231 admitted, ≈60%): **not fired.**
+- **E41.3** (tender agreed, ≈55%): **not fired.** Refused until hearing dates are set.
+- **E41.4** (s 32(1), ≈30%): **not fired.** Sent to the conference.
+- **E41.5** (leave, ≈25%): **not fired.** Sent to the conference.
+- **E41.6** (every item deferred, ≈15%): **FIRED in substance.**
+- **E41.7** (the formula returns, ≈15%; the falsifier): **FIRED.** It is the first time since 14 Aug.
+
+**What the model got wrong, and why.**
+1. **It read the 19–20 Oct tempo as a signal about substance.** It was counsel answering availability quickly, as
+   R47 now says: "she has been able to make quick responses in relation to her availability".
+2. **It under-weighted officer limits,** which were already known (MLP 3.2). Without counsel the officer concedes
+   nothing, not even facts that copy a confirmed document, and falls back on the pleading.
+3. **It did not model the Commission's diary,** and it took the 22 Oct return at face value.
+
+**Read** (graded).
+- **The delay is real, but it is driven by counsel.** Strong as to fact, moderate as to motive. The Regulator chose
+  continuity of counsel over the Commissioner's only 2026 date and offered no alternative counsel. The cost of delay
+  falls on the Appellant.
+- **The formula's return is the default, not new resolve.** Moderate. Item 6 answered a question about ¶27, and the
+  safe answer an officer can give without counsel is to restate the pleading. It is still the defend voice of
+  July–August, and it still identifies no management action (fact 303 stands).
+- **"Hearing" framing.** Weak to moderate. "Prior to hearing dates being set" and "during the hearing" assume the
+  matter is heading to a hearing.
+- **Hypotheses:**
+
+  | Hypothesis | Weight |
+  |---|---|
+  | H1′: a counsel-dependent holding pattern, defending by default | strong |
+  | H3: delay, tolerated rather than shown to be sought | moderate |
+  | H2: preparing to concede | weakened to weak–moderate |
+  | Preparing a contest | weak–moderate: still no expert, no amendment, no opposition to leave |
+
+**Re-priced** (planning estimates; these replace E42).
+
+| Outcome | Now | E42 |
+|---|---|---|
+| Regulator concedes before a contested hearing | ≈45–50% | ≈60% |
+| … before the 2027 conference | ≈15% | n/a |
+| Contested hearing | ≈45–50% | ≈35–40% |
+| Appellant wins if heard | ≈70% (unchanged: the record is unchanged) | ≈70% |
+| Appeal allowed either way | ≈80–85% | ≈85–88% |
+| The Commission answers R44/R46: lists the 2027 conference / makes directions / lists a mention | ≈55% / ≈30% / ≈15% | n/a |
+
+**Watch.**
+- R48, the Commission's answer.
+- R49, the advice on 228–231 and Tab 24 after 9 Nov.
+- Whether counsel's review produces an approach (R34).
+- Any application for an expert, or opposition to leave.
+
 >>> skill/references/PREDICTIVE-CYCLE.md :: text
 # THE PREDICTIVE CYCLE — a standing model of actors, events, signals and probabilities
 > Built 14 August 2026. **This document is designed to be RE-RUN, not read once.**
@@ -315911,6 +316066,19 @@ See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
   - R34, a WP approach;
   - MSH on 27–28 Oct.
 - See E41.
+
+**Watchlist, 30 Oct (R43–R47).**
+- **Fired:**
+  - the Commission's diary (3 Dec PM, the only 2026 date);
+  - the Regulator declined it and proposed 21 Jan or 10 Feb 2027;
+  - R47 came at 15:59, conceded nothing, deferred everything, and the **formula returned** (item 6);
+  - counsel cannot be consulted in detail until at least 9 Nov.
+- **Next:**
+  - R48, the Commission on R44 and R46 (a 2027 conference, directions or a mention);
+  - R49, 228–231 and Tab 24 "in due course";
+  - R34, any approach after counsel's review;
+  - any expert application or opposition to leave.
+- See E43.
 
 >>> skill/references/REPORT-B-ARCHITECTURE.md :: text
 # WHAT A COMPREHENSIVE REPORT B LOOKS LIKE — architecture, not conclusions
@@ -626337,6 +626505,365 @@ Workers' Compensation Regulatory Services
 Office of Industrial Relations
 
 [Quoted below: Cory's email of 19 Oct 2026 16:04 (R37), her own of 19 Oct 10:52 (R36), R33 and R29.]
+
+>>> documents/correspondence-2026/2026-10-22_1215_Registry_Dwyer_only_3Dec_PM_available_2026.txt :: text
+Source: quoted in Gmail msg 1a17a4b492bfdc51 (thread 1a12d45a084d4cc0). Ledger R43.
+From: QIRC.Registry <QIRC.Registry@QIRC.qld.gov.au>
+Sent: Thursday, 22 October 2026 12:15 PM
+To: Renee Matheson; coryshepherd1@hotmail.com
+Subject: CM: RE: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Parties,
+Industrial Commissioner Dwyer notes the proposed dates of joint availability for a section 552A conference.
+Please be advised that Thursday, 3 December 2026 (in the afternoon) is currently the only remaining availability for the Commissioner in 2026.
+Parties are requested to advise whether this date and time would be suitable.
+This email is sent on behalf of the Chambers of Industrial Commissioner Dwyer.
+
+>>> documents/correspondence-2026/2026-10-23_0919_Cory_to_Registry_cc_Matheson_availability_19Oct_letter_proposed_directions_SENT.txt :: text
+Source: Gmail msg 1a165f022c669129 (Cory's manual Fw, 23 Oct 09:26 AEST). Attachment: LETTER TO THE REGULATOR 19 OCTOBER.PDF. Ledger R44.
+From: Cory Shepherd <coryshepherd1@hotmail.com>
+Sent: Friday, October 23, 2026 9:19:50 am
+To: QIRC.Registry@qirc.qld.gov.au
+Cc: Renee.Matheson@oir.qld.gov.au
+Subject: WC/2024/227 – Cory Shepherd v Workers' Compensation Regulator – Availability, 19 October letter and proposed further directions
+
+Dear Sir/Madam,
+
+I refer to the Registry's email of 22 October 2026 (sent on behalf of the Chambers of Industrial Commissioner Dwyer) advising that Thursday 3 December 2026 (afternoon) is currently the only remaining availability for a section 552A conference in 2026.
+
+I confirm that I am available on the afternoon of Thursday 3 December 2026. I note that the Regulator has since advised that its Counsel is unavailable that afternoon and has proposed 21 January 2027 (all day) or 10 February 2027 (PM only). I am generally available on those dates if a conference remains necessary.
+
+I also refer to my letter of 19 October 2026 (with updated Schedule) sent to the Regulator, a copy of which is attached. That letter seeks the Respondent's position on six discrete matters: outstanding factual and documentary admissions, arrangements for tender, any particular relevance or admissibility objections, the issues remaining under sections 32(1) and 32(5), and the proposed Second Amended Form 9A. The Regulator has indicated it will respond by 4.00 pm on Friday 30 October 2026.
+
+If the Respondent's response substantially resolves those matters (or sufficiently clarifies the remaining disputes so that they are ready for evidence), a further section 552A conference may not be required. In that event the more appropriate course would be for the matter to proceed toward hearing, with any short residual directions made without a conference.
+
+Orders or directions from the Commission could assist this process. For example, the Commission may consider:
+- noting the attached 19 October letter and the Respondent's indicated response date of 30 October 2026;
+- directing the parties to file a joint or separate report (by a short date after 30 October) identifying what has been resolved and what remains in issue; and
+- if the outstanding matters are resolved or sufficiently narrowed, listing the appeal for hearing (or making any necessary short directions for hearing) rather than postponing the conference into 2027.
+
+I am ready to comply with any directions the Commission considers appropriate and remain available to progress the matter without unnecessary delay.
+
+I would be grateful if the Registry would bring this correspondence (and the attached letter) to the attention of Commissioner Dwyer.
+
+Yours faithfully,
+Cory Lea Shepherd
+Appellant (self-represented)
+
+>>> documents/correspondence-2026/2026-10-27_0813_Matheson_to_Registry_cc_Cory_declines_3Dec_proposes_21Jan_10Feb_2027.txt :: text
+Source: Gmail msg 1a17a4b492bfdc51 (thread 1a12d45a084d4cc0, Hotmail auto-forward). Sent 26 Oct 2026 22:13:09 UTC = Tuesday 27 October 2026, 08:13 AEST. Ledger R46.
+From: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+To: QIRC.Registry <QIRC.Registry@QIRC.qld.gov.au>
+Cc: coryshepherd1@hotmail.com
+Subject: RE: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Sir/Madam,
+
+I refer to the above matter and the email of the registry dated 22 October 2026 (below).
+
+It is with apologies that the Regulator confirms it is not available for a conference to be set on the afternoon of Thursday 3 December 2026.
+
+The parties have been in communication again and have confirmed joint availability for two dates in the new year:
+
+  * 21 January 2027 – All day
+  * 10 February 2027 – PM only
+
+The parties hope that the above date options may suit the Commission and appreciate the Commission's consideration of this request.
+
+Kind regards,
+Renee Matheson
+Senior Appeals Officer
+
+>>> documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter.txt :: text
+Source: Cory's printout of the Outlook reading pane (PDF, Chromium, 30 Oct 2026 06:02 UTC), uploaded 30 Oct. Ledger R47.
+Sent Friday 30 October 2026, 15:59 AEST, Renee Matheson to Cory Shepherd. Body only (the quoted chain below it is R37).
+
+RE: Re: WC/2024/227 - Cory Shepherd v
+Workers' Compensation Regulator
+
+From: Renee Matheson
+Renee.Matheson@oir.qld.gov.au
+To: Cory Shepherd coryshepherd1@hotmail.com
+Sent: Friday 30 October at 15:59
+
+Dear Mr Shepherd,
+
+
+
+I refer to the above matter and your letter of 19 October
+
+2026.
+
+
+
+In relation to your queries;
+
+    1. As outlined in the Respondents email of 12/10/2026
+        with disclosure of documents from MSHH we
+
+        confirm the veracity of the document. As to the facts
+
+        228 to 231 the Respondent will consult with Counsel
+
+        and advise in due course
+
+    2. The Respondent will not agree to the tendering of
+        any documents prior to hearing dates being set. In
+
+        relation to Tab 24 the Respondent will consult with
+
+        Counsel and advise in due course
+
+    3. The Respondents Counsel will decide during the
+        hearing, whether or not to object to a document
+
+        being tendered upon introduction of the document.
+
+    4. The elements of section 32 to be determined by the
+        Commission at hearing is an appropriate topic to
+
+        discuss at the additional conference.
+
+    5. The Respondents has been unable to consult with
+        Counsel regarding the Respondents position on the
+
+        filing of the proposed second amended statement of
+
+        facts and contentions provided on 1 October 2026.
+
+        This is an appropriate topic to discuss at the
+
+        additional conference.
+
+    6. As outlined in the Respondents SOFAC, the
+        Respondent contends that any management action
+
+        involved in the causation of any injury to the
+
+        Appellant was reasonable management action taken
+
+        in a reasonable way pursuant to s32(5) WCRA.
+Unfortunately, Counsels Chambers advised me of an
+
+incorrect date of Counsels return from leave and although
+
+she has been able to make quick responses in relation to
+
+her availability, I won’t be able to consult her in detail
+
+regarding this matter and various correspondence until at
+
+least the 9 November 2026.
+
+
+
+If you have any questions in relation to the above, please
+
+>>> documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter_AS_RECEIVED_printout.pdf :: page 1
+RE: Re: WC/2024/227 - Cory Shepherd v
+Workers' Compensation Regulator
+
+From: Renee Matheson
+Renee.Matheson@oir.qld.gov.au
+To: Cory Shepherd coryshepherd1@hotmail.com
+Sent: Friday 30 October at 15:59
+
+Dear Mr Shepherd,
+
+
+
+I refer to the above matter and your letter of 19 October
+
+2026.
+
+
+
+In relation to your queries;
+
+    1. As outlined in the Respondents email of 12/10/2026
+        with disclosure of documents from MSHH we
+
+        confirm the veracity of the document. As to the facts
+
+        228 to 231 the Respondent will consult with Counsel
+
+        and advise in due course
+
+    2. The Respondent will not agree to the tendering of
+        any documents prior to hearing dates being set. In
+
+        relation to Tab 24 the Respondent will consult with
+
+        Counsel and advise in due course
+
+    3. The Respondents Counsel will decide during the
+        hearing, whether or not to object to a document
+
+        being tendered upon introduction of the document.
+
+    4. The elements of section 32 to be determined by the
+        Commission at hearing is an appropriate topic to
+
+        discuss at the additional conference.
+
+    5. The Respondents has been unable to consult with
+        Counsel regarding the Respondents position on the
+
+        filing of the proposed second amended statement of
+
+        facts and contentions provided on 1 October 2026.
+
+        This is an appropriate topic to discuss at the
+
+        additional conference.
+
+    6. As outlined in the Respondents SOFAC, the
+        Respondent contends that any management action
+
+        involved in the causation of any injury to the
+
+        Appellant was reasonable management action taken
+
+        in a reasonable way pursuant to s32(5) WCRA.
+
+>>> documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter_AS_RECEIVED_printout.pdf :: page 2
+Unfortunately, Counsels Chambers advised me of an
+
+incorrect date of Counsels return from leave and although
+
+she has been able to make quick responses in relation to
+
+her availability, I won’t be able to consult her in detail
+
+regarding this matter and various correspondence until at
+
+least the 9 November 2026.
+
+
+
+If you have any questions in relation to the above, please
+
+do not hesitate to contact me.
+
+
+
+Kind regards,
+
+Renee Matheson
+
+Senior Appeals Officer
+
+Workers’ Compensation Regulatory Services
+
+Office of Industrial Relations
+
+P 07 3842 2792 M 0460 021 030
+
+E Renee.matheson@oir.qld.gov.au
+
+150 Mary Street, Brisbane QLD 4000
+
+PO Box 10119, Brisbane Adelaide St QLD 4000
+
+
+
+
+From: Cory Shepherd <coryshepherd1@hotmail.com>
+Sent: Monday, 19 October 2026 4:04 PM
+To: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+Subject: CM: Re: WC/2024/227 - Cory Shepherd v Workers'
+Compensation Regulator
+
+
+CAUTION: This email originated from outside of OIR.
+Do not click links or open attachments unless you
+recognise the sender and know the content is safe.
+
+
+Dear Ms Matheson,
+
+Thank you for your email of 19 October 2026 and
+for obtaining Counsel's availability for the
+proposed second section 552A conference.
+
+I confirm that I am available on all three dates
+proposed:
+
+>>> documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter_AS_RECEIVED_printout.pdf :: page 3
+- Monday 2 November 2026 — morning;
+- Thursday 5 November 2026 — morning; and
+- Friday 6 November 2026 — any time.
+
+I have no preference between these dates and am
+content for the conference to be listed at
+whichever time best accommodates the
+Commission and the parties.
+
+To assist the parties in making effective use of the
+conference, I attach my letter and updated
+Schedule to the correspondence of 1 October
+2026.
+
+
+The letter identifies six matters on which the
+Respondent's position is sought, including the
+outstanding factual and documentary admissions,
+arrangements for tender, any particular relevance
+or admissibility objections, the matters remaining
+in issue under sections 32(1) and 32(5), and the
+proposed Second Amended Form 9A.
+
+In light of the Regulator's further confirmations of
+12 and 16 October 2026, I hope that some or all of
+these matters can be agreed before the
+conference, allowing the Commission and parties
+to concentrate on any genuinely outstanding
+issues.
+
+I would be grateful if the Respondent could
+indicate its position on the matters identified in the
+attached letter by 4.00 pm on Friday 30 October
+2026, where practicable. This request is intended
+to assist preparation and does not seek to delay
+the listing of the conference.
+
+Please proceed to advise the Registry of my
+availability. I would also appreciate confirmation
+once a date has been fixed.
+
+Thank you for your assistance.
+
+Kind regards,
+
+>>> documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter_AS_RECEIVED_printout.pdf :: page 4
+Cory Lea Shepherd
+Appellant (self-represented)
+
+
+Attachment: LETTER TO THE REGULATOR 19
+OCTOBER.PDF (11 pages)
+
+
+
+This email (including any attached files) is intended
+only for the addressee and may contain
+confidential information. If you are not the
+addressee, you are notified that any transmission,
+distribution, printing or photocopying of this email
+is strictly prohibited. If you have received this email
+in error, please immediately notify the Office of
+Industrial Relations and delete any copies. Unless
+explicitly attributed, the opinions expressed do not
+necessarily represent the official position of the
+Office of Industrial Relations. The Office of
+Industrial Relations does not accept any
+responsibility for any loss or damage that may
+result from reliance on, or the use of, any
+information contained in this email and/or
+attachments. It is your responsibility to ensure that
+this email and any attachments do not contain and
+are not affected by computer viruses or defects as
+this message is transmitted over Internet.
 
 >>> documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf :: page 1
 CS Logan ? Logan Switch mailbox
