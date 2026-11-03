@@ -117,3 +117,12 @@ this weighs.
   - 3 Jun the last shift.
 
   The deterioration coincides with a cluster of non-management and erroneous items, not with one exchange.
+
+## 6. Decision (Cory, 3 Nov 2026): no medico-legal report
+
+- The treating psychiatrist gives **oral evidence**, and the Regulator knows it. **Do not re-raise a written report.**
+- The only steps left, as 9A 1.9 already gives notice, come once hearing dates are set:
+  - apply for attendance notices;
+  - apply for leave for each practitioner to give evidence by telephone or video at a fixed time.
+- The medical-link risk (Carr, ground 2) is answered by his evidence on the day. The Regulator's only counter would
+  be its own expert, which needs leave. Watch for that application.
