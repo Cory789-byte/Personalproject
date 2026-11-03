@@ -3209,3 +3209,17 @@ undated; not yet documented).**
 - The Regulator's advice after 9 Nov (R49).
 - Whether its 20 Jan confirmation names counsel (s 552B).
 - Any expert application.
+
+**E44 addendum: metadata of the two Notices of Listing** (⛔ prediction-only, never in correspondence; Registry staff
+names are not to be used).
+
+| Notice | Created | Template and authoring | Left-over review-cycle properties |
+|---|---|---|---|
+| 3 Nov 2026 (PDF) | 10:02 AEST, 3 Nov | Word, through Acrobat PDFMaker 26. Title "Notice 2"; Author "QIRC REG JW"; Company "Mcgirr Information Technology" | Email subject "**Notice of Listings - Updates for Ready Case**", from a QIRC officer |
+| 7 May 2026 (DOCX) | 15:54 AEST, 7 May | Older DJAG template (creator "martingc", last printed 2018); last modified by a Registry officer | Subject "WC/2024/227 - Shepherd, Cory Lea", from the "Listings QIRC" mailbox |
+
+- **Neither file** has comments, tracked changes, hidden text or chambers data. The 3 Nov file carries only two links:
+  the Registry email and the website.
+- **Read.** The 3 Nov wording (r 41 "directed to attend", attendee names, costs warning) comes from a notice
+  template updated for "Ready Case", which looks like a Registry system rollout. It is **not** drafted for this
+  matter. That confirms E44: the form carries no signal.
