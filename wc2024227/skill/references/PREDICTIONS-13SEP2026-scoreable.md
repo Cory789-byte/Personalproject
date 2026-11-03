@@ -3233,3 +3233,16 @@ names are not to be used).
 
   Read: the Registry's notice templates being updated for a case-management system. Public sources found no Queensland
   rollout, so this is inference, but strong.
+- **The covering email** (Gmail msg 1a19ebc6cf2d28e8; ⛔ prediction-only).
+  - From "Listings QIRC", signed "Registry Officer (Client Services - Listings)". To Matheson and Cory, cc OIR-Appeals.
+  - Parties are "requested to confirm their full name and title for the purpose of appearances … as soon as
+    practicable".
+  - **Timing on 3 Nov (AEST):**
+    - PDF made 10:02:16;
+    - email opened 10:02:47 (Thread-Index header);
+    - inline image stamped 10:04:02 and sent 10:04:03;
+    - Cory's forward 10:08:25 (the Thread-Index child block).
+
+    One listings workflow: notice, then email, in under two minutes.
+  - The attachment is byte-identical to the uploaded copy (MD5 6302f897…).
+  - The original routing headers were lost in the inline forward. Nothing ties the email to chambers.
