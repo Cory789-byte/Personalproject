@@ -307543,6 +307543,127 @@ been.** It is CE-signed, it is on the Commission file, and it cannot be withdraw
 DISCIPLINE: none of this is argued at a mention. It is submissions material, deployed as
 quotes and item numbers, without adjectives.
 
+>>> skill/references/OBJECTIVE-MERITS-AND-THE-PROPER-RESPONSE-30OCT2026.md :: text
+# Objective merits on the admitted record, and what a properly advised Regulator should have answered (30 Oct 2026)
+
+⛔ Internal. Motive is not an element (Prizeman) and never goes on paper. The model litigant points are for
+understanding only; never allege a breach. Anchors are admitted facts [¶ n] (`facts303.txt`), the SOFC of 13 May 2026,
+Review Decision 69983 (`rd.txt`) and the R47 response of 30 Oct. Probabilities are planning estimates (E43).
+
+## 1. The merits, issue by issue
+
+| Issue | The Appellant's case (anchors) | The Regulator's best answer | Assessment |
+|---|---|---|---|
+| **s 32(1):** injury, arising out of employment, "a significant contributing factor" | Review accepted injury and SCF [¶¶ 261–262]. Dr Hawes to WorkCover 2 Sep 2024: work events "the sole cause" (review p 16). Certificates: "no pre-existing factor or condition". MDD diagnosed 24 Oct 2024 | SOFC ¶8: a "past medical history of anxiety" (2022 referral history). De novo, so the review binds nothing (Guide 5.1; ¶295) | **Strong (≈85–90%).** It needs only *a* significant contributing factor. The Regulator has no contrary medical evidence |
+| **Characterisation:** management action or conditions | Conditions: calls misdirected and the directory not corrected [¶¶ 58, 67]; database access "removing everyone's access" [¶ 40], not alleged restored before 18 Jun 2024 [¶ 55]. Payroll recording errors [¶¶ 185–189] | Most events were the manager's or HR's management action | **Favourable.** It is a pincer: each event is either not management action (so it is not excluded) or management action the employer's own documents show was erroneous |
+| **Stressor 3:** roster and fatigue | 7-hour break [¶ 284] against 10 h, or 8 h by agreement [¶ 285]; review found it unreasonable [¶ 260]; outlines: "human error" and "a rostering practice issue for the line manager"; no swap alleged [¶ 234]; fatigue claim refused after 23 days on the very 8-hour agreement the roster breached [¶¶ 247, 249]; risk "11 … moderate" and "Cory's roster will not be considered … not yet aware" [¶¶ 219, 221]; fatigue assessment only "after 30 June 2024" [¶ 264] | One-off human error (¶22(a)); he could refuse shifts (¶22(b)); the June 2020 agreement (¶22(e)); 19 Mar paid; no cl 18.10 entitlement (¶24(b)); "not causative" (¶22(f)) | **Very strong on reasonableness (≈85–90%).** Human error is not *reasonable* management action. The live question is causal weight |
+| **Stressor 2:** pay and leave | Pay wrong across four fortnights [¶¶ 185–189]; Payroll on 13 May: "I cannot see that any of the issues below have been corrected" [¶ 193]; AVAC 28 May "Part Completed" [¶ 203]; a later correction in 2025 (2(o)); leave declined twice [¶¶ 116, 118] although "the attachments were present" [¶ 134] | Errors happen and were corrected "in a timely manner" (¶20); the leave decline was "human error … on the background of high work demands" (¶14(f)) | **Strong (≈75–80%).** "Timely" is contradicted by the admitted chronology |
+| **Stressor 1:** conditions and the May exchange | No ballot alleged before the 15 Apr change [¶ 181]; manager's hours unstated for about 9 months [¶¶ 71–73]; code-of-conduct reply and retraction request to a reasonable question [¶¶ 74–77], then hours stated within two days [¶¶ 81–84] and "I will follow up on the issues raised" [¶ 79]; no discipline, performance management or warning alleged [¶¶ 300–302] | ¶16: absences 13–15 May not notified by process; his 15 May email went to many staff about the manager's attendance; Reese took HR advice; Reese was unaware of the PID; reasonable in all respects | **Mixed.** The May exchange is the Regulator's best ground (≈50–60% for the Appellant on "reasonable way"). The other items favour the Appellant |
+| **The injury as a whole** (Langerak [86]; Mahaffey [57]) | Significant non-excluded factors: roster and fatigue, pay and leave, operating conditions. Treating records name rostering, pay and management, not the May exchange | Crystallisation in May 2024 from reasonable responses. The 9A itself places the referral "the day after the request to retract" (1.3) | **Favourable (≈70–75%).** The exclusion needs the injury to arise out of RMA taken reasonably. Here the conceded errors are causes |
+| **Medical link by stressor** (*WCR v Carr* [2023] ICQ 1, ground 2) | Treating GP and psychiatrist to give oral evidence; records attribute to rostering, management and pay | No medico-legal report; the psychiatrist's report is "not for medico-legal use"; the 9A disclaims attribution by event (1.7) | **The swing factor.** ≈65% that the medical evidence suffices. Firm: ≈85% overall; equivocal: ≈50% |
+| **s 32(5)(b):** perception | Prizeman: the reality, and the reality here is admitted error | Hawes: "victimizing him"; SOFC ¶6(d)(ii) lists it as an element | **Low risk (≈10%).** No facts are pleaded for it |
+
+**Overall, if heard:** ≈70% for the Appellant. That is unchanged, because the record has not changed since E42.
+
+**What the record does not prove:** motive (and motive is irrelevant); the exact causal weight of each stressor; how
+the treating doctors will testify; and whether the May exchange will be found reasonable in its way.
+
+## 2. What a properly advised respondent should have answered on 30 Oct
+
+The standard applied is model-litigant practice as summarised in the repo: 1.2 no unnecessary delay; 1.5 narrow and
+settle where possible; 1.7(a) do not require proof of what the State knows to be true; 3.2 authority.
+
+| Item | A proper answer | What R47 said | Gap |
+|---|---|---|---|
+| 1. Facts 228–231 | Admit. If needed, qualify fact 230's count. The facts copy entries in a spreadsheet whose veracity the Regulator confirmed | "consult with Counsel and advise in due course" | **Large.** This is proof required of what it knows (1.7(a)) |
+| 2. Tender and Tab 24 | Agree tender without further proof of authenticity, subject to relevance. On Tab 24: "not admitted, not within the Respondent's knowledge" is legitimate | Refuses "prior to hearing dates being set"; Tab 24 to Counsel | Small to moderate. The timing refusal is common |
+| 3. Objections | Flag the categories presently known (for example, post-injury documents, SOFC ¶25), or say none is presently identified, reserving the right | "decide during the hearing" | Small. This is common practice |
+| 4. s 32(1) | Agree it is not in issue, or say why it is contested (and on what evidence) | to the conference | Moderate. Its own review accepted it, and it has no contrary evidence |
+| 5. Leave for the 9A | Consent, or oppose with grounds, or say what time is needed to amend. The application has been pending since 1 Oct | to the conference (2027) | **Large** (1.2) |
+| 6. ¶27 | Identify the management action relied on, by particular | restated the general contention | **Large.** Fact 303 still stands. Dwyer on 7 Aug: "they've got to address it" |
+| Overall | Review the merits on the admitted record now. Brief available counsel if the usual counsel is away for months. Put positions in writing by a date. Consider a review of position (Guide 5.1) | Everything deferred to counsel (≥9 Nov) or to a 2027 conference | **Large** |
+
+**Fairness check.** Some of the caution is legitimate:
+- an officer cannot take positions without counsel (3.2);
+- de novo, s 32 can be contested (Guide 5.1);
+- tender is often settled closer to a hearing;
+- objections are commonly taken at the hearing.
+
+The real gaps are items 1, 5 and 6, and partly 4.
+
+## 3. Use
+
+- The gaps support directions with dates. They are not grievances.
+- Facts 228–231: admit, or give the ground.
+- Leave: a position.
+- ¶27: particulars.
+- s 32(1): a position.
+- Objections: notified before the hearing.
+- The medical evidence remains the lever on both a concession and a win.
+
+## 4. Update, 30 Oct (Cory): the treating psychiatrist has told the Regulator himself that he will give evidence
+
+**Status.** This is Cory's account. It is not yet in the case file: no email, file note or date is held, and the 9A
+(1.9) gives notice of his oral evidence. Record when it happened and how Cory knows. ⛔ Ask the doctor for nothing
+about content.
+
+**Effect on the merits.**
+- **Attendance.** The "does not attend" branch largely falls away. The Regulator knows, from the doctor himself.
+- **Content.** What remains is what he will say. His records attribute the disorder to "workplace stress stemming
+  from issues with management and rostering" and to pay "withheld or delayed". Those are the categories where the
+  employer's errors are admitted.
+- **Re-price.**
+
+  | Outcome | Now | Before |
+  |---|---|---|
+  | Firm medical evidence | ≈80% | ≈65% |
+  | Appellant wins if heard | ≈75–80% | ≈70% |
+  | Concession before a contested hearing | ≈50–55% | ≈45–50% |
+  | Appeal allowed either way | ≈85–90% | n/a |
+
+**Effect on what the Regulator should be doing.**
+- With the treating psychiatrist willing and no contrary medical evidence, there is no basis to contest s 32(1).
+  Agreement is the proper answer.
+- If it wants to contest causation by stressor, the only proper route is its own psychiatric opinion promptly, which
+  needs leave because the directions expired on 30 Sep.
+- Otherwise it should review its position.
+- Deferring everything to 2027 is the least defensible course.
+- **Watch:** an application for an independent psychiatric examination or an expert is now the clearest signal of a
+  fight.
+
+**Note.** The Regulator knew this before it wrote on 27 and 30 Oct. Its deferral therefore reflects counsel's
+availability and its process, not a judgement that the medical evidence is weak. Counsel's review from 9 Nov is where
+this weighs.
+
+## 5. "Either way" — isolated or holistic (Cory, 30 Oct), and the May 2024 convergence
+
+- **Isolated.** Largely right. Showing that some items were reasonable does not win the exclusion. The question is
+  the injury as a whole (Langerak [86]), and reasonable management action among the causes "does not by itself
+  answer the statutory question" (Mahaffey [57], as pleaded in C 7). The caveat is causal weight: the Regulator
+  wins only if the unreasonable and non-management items are minor causes. The psychiatrist's attribution (rostering,
+  management, pay) is what makes them central.
+- **Holistic** (Delaney). This cuts both ways. It is the Respondent's authority too: the review used it for its
+  "global evaluation" and still excluded. On this record the whole picture is unfavourable to the Regulator, but its
+  own holistic frame will be "a busy unit, errors acknowledged and fixed". The 9A's design (each stressor pleaded
+  alone; Delaney only where the connection is close, C 6) keeps the safer route primary.
+- **Overlap.** It adds connection and concentration, not weight. The 9A itself says repetition "does not count
+  causation twice". Its real value is the **May 2024 convergence**, which answers the Regulator's "it crystallised
+  from the 15 May exchange" theory. Index of particulars:
+  - 16–26 Apr roster-line error (3(e));
+  - 1 May fatigue refusal after 23 days (3(d); ¶¶ 247, 249);
+  - 2–9 May misdirected calls, with the manager's first reply after 5 d 18 h (1(h); ¶¶ 56–69);
+  - 3 May Payroll directs four corrections (2(h)), which on 13 May were "not corrected" (2(i); ¶ 193);
+  - 10 May risk "11 … moderate", and "Cory's roster will not be considered … not yet aware" (3(g); ¶¶ 219, 221);
+  - 13–15 May notification instructions (1(j));
+  - 15 May the code-of-conduct reply (1(l));
+  - 15–20 May the respiratory directory error (1(k));
+  - 16 May the GP referral;
+  - 21 May the manager still awaiting Payroll (2(l));
+  - 28–30 May AVAC "Part Completed" (2(m));
+  - 3 Jun the last shift.
+
+  The deterioration coincides with a cluster of non-management and erroneous items, not with one exchange.
+
 >>> skill/references/ORIGINAL-9A-RECONSTRUCTED-AND-FORM9-COMPARISON.md :: text
 # THE SAINES-ERA ORIGINAL FORM 9A — reconstructed — and how his own first Form 9 compares
 > 14 August 2026. The original 9A document is **not in the repository**. Its complete skeleton is
@@ -312441,6 +312562,80 @@ short causation view in their own words. ⛔ Nothing is suggested to the doctors
 - Whether counsel's review produces an approach (R34).
 - Any application for an expert, or opposition to leave.
 
+**E43 addendum 1: the November dates (Cory, 30 Oct).**
+- **What the dates show.** The Regulator itself sought an early conference. Counsel gave 2, 5 and 6 Nov from leave
+  (R36, R41), and R29 and R47 both name "the conference" as the place for the open items. The plan was to settle or
+  narrow them orally, with counsel, in the first week of November. The 30 Oct letter confirms that no written
+  positions were being prepared beforehand.
+- **What broke it.** The Commission's diary (R43). The Regulator then chose to keep the same counsel, which pushed the
+  conference to 2027 (R45, R46).
+- **The refinement to E43.** Delay is **tolerated, not sought.** H3 (delay sought) weakens. Counsel-dependence plus a
+  conference-first method strengthens.
+- **"Agreement" in their terms** means narrowing the issues, and any review of position after the conference. It is
+  not a settlement (Guide 5.1: "No commercial settlement is possible at the conference").
+- **The lever.** The Guide says "**Usually** the same Member" chairs the second conference, so an earlier Member is
+  possible. Failing that, written positions after counsel's review would restore the November purpose.
+
+**E43 addendum 2: the treating psychiatrist has told the Regulator himself that he will give evidence (Cory, 30 Oct;
+undated; not yet documented).**
+- **Re-priced:**
+  - firm medical evidence ≈80% (was ≈65%);
+  - win if heard ≈75–80% (≈70%);
+  - concession before a contested hearing ≈50–55% (≈45–50%);
+  - appeal allowed either way ≈85–90%.
+- **New falsifier:** an application for an independent psychiatric examination or an expert.
+- The Regulator knew this before R46 and R47, so the deferral reflects counsel's diary, not a weak-medical judgement.
+  See `OBJECTIVE-MERITS-AND-THE-PROPER-RESPONSE-30OCT2026.md` §4.
+
+### E44 · Tuesday 3 November 2026: the Notice of Listing, conference on 21 January 2027, full day (R50)
+
+**Verified.**
+- A sealed Registry notice, "By direction of the Industrial Registrar": Conference, Thursday 21 January 2027,
+  10:00 AM, Commissioner Dwyer.
+- r 41: "parties are directed to attend".
+- By 4.00 pm on 20 Jan 2027, the parties must confirm "the names of all persons attending" and their mode of
+  appearance.
+- There is a costs warning for non-attendance.
+
+**Form.**
+- Notices of Listing are Registry documents. The 7 May 2026 notice was signed "Delegated Officer for the Industrial
+  Registrar". Orders (the FDOs) are the Commissioner's.
+- The absence of Dwyer's signature is therefore normal, not a signal.
+- The template differs from 7 May (r 41 wording, attendee names, costs warning, seal). It is not shown to be specific
+  to this matter.
+
+**Scored.**
+- **E43's "the Commission answers R44/R46"** (lists the 2027 conference ≈55% / makes directions ≈30% / lists a mention
+  ≈15%): **the conference was listed.**
+- R44's proposal (a report after 30 Oct, then a hearing listing) was not adopted.
+
+**Read** (graded).
+- **The Commission made three choices:** a conference over directions, the earlier date, and the longer slot. Together
+  they say "do this at a conference with me, with time for it". Strong as to method and time. There is **no signal on
+  the merits** in a listing.
+- **The full day fits two things:** working through six items, leave and the 9A, with room for a private session; and
+  the Guide's design, a review of position following the conference. It does not show that the Commission has
+  communicated a view to counsel. Nothing in the record shows any such communication.
+- **Cory's "sequence" reading.** The Regulator now has about ten weeks after counsel's review (from 9 Nov) before a
+  full day with the Commissioner on a record it has not answered. That gives it a rational incentive to resolve or
+  review its position before 21 Jan. This is a strategic expectation, not a revealed signal.
+- **Weekdays.** Past events in this matter were mostly Fridays (the first conference on 13 Mar 2026 was a Friday).
+  The Commission's own offers were Thursdays (3 Dec, 21 Jan). The Commission's past lists could not be checked: the
+  site returned 503 on 3 Nov, and only next-day lists are published.
+
+**Re-priced** (planning estimates).
+
+| Outcome | Now | Before |
+|---|---|---|
+| Review of position or concession before 21 Jan | ≈20% | ≈15% |
+| Concession before a contested hearing | ≈50–55% | unchanged |
+| Win if heard | ≈75–80% | unchanged |
+
+**Watch.**
+- The Regulator's advice after 9 Nov (R49).
+- Whether its 20 Jan confirmation names counsel (s 552B).
+- Any expert application.
+
 >>> skill/references/PREDICTIVE-CYCLE.md :: text
 # THE PREDICTIVE CYCLE — a standing model of actors, events, signals and probabilities
 > Built 14 August 2026. **This document is designed to be RE-RUN, not read once.**
@@ -316079,6 +316274,15 @@ See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
   - R34, any approach after counsel's review;
   - any expert application or opposition to leave.
 - See E43.
+
+**Watchlist, 3 Nov (R50).**
+- **Fired:** the conference was listed for **21 Jan 2027, the full day**. No directions were made on R44.
+- **Next:**
+  - R49, the advice after counsel's review from 9 Nov;
+  - attendance confirmations by 4.00 pm on 20 Jan, including whether counsel is named (s 552B);
+  - any review of position before 21 Jan;
+  - any expert application.
+- See E44.
 
 >>> skill/references/REPORT-B-ARCHITECTURE.md :: text
 # WHAT A COMPREHENSIVE REPORT B LOOKS LIKE — architecture, not conclusions
@@ -384273,6 +384477,61 @@ fo fii
 [ J
 TEGDWYER~
 INDUSTRIAL COMMISSIONER
+
+>>> documents/orders/2026-11-03_Notice_of_Listing_conference_21.01.2027.pdf :: page 1
+                                 INDUSTRIAL REGISTRY
+       Industrial Court of Queensland and Queensland Industrial Relations Commission
+
+                                 NOTICE OF LISTING
+
+
+TAKE NOTICE that, pursuant to r 41 of the Industrial Relations (Tribunals) Rules 2011, parties are
+directed to attend before the Court/Commission/Industrial Registrar on the date, at the time and at the
+place set out below.
+
+
+LISTING DETAILS
+
+ Matter Number:       WC/2024/227
+
+ Matter Details:      S550(4) - Appeal against decision of Workers Compensation Regulator
+                      Shepherd, Cory Lea v Workers' Compensation Regulator
+ Listing Type:        Conference
+
+ Listing Date:        21 January 2027
+
+ Listing Time:        10:00 AM
+
+ Listing Location:    Queensland Industrial Relations Commission, Level 22 66 Eagle Street Brisbane
+                      Qld, 4000
+ Member:              Commissioner Dwyer
+
+
+
+ATTENDANCE
+
+Parties are to confirm their appearance arrangements, in writing (qirc.registry@qirc.qld.gov.au) by
+4.00 pm on 20 January 2027 including:
+
+   •   the names of all persons attending;
+   •   the proposed mode of appearance and supporting reasons if requesting to appear via telephone
+       or video conference; and
+   •   any relevant contact details.
+
+If you do not attend as directed, the matter may be heard and determined in your absence which may
+include, where appropriate, an order for costs.
+
+For further information, please refer to the website www.qirc.qld.gov.au.
+
+
+By direction of the Industrial Registrar
+3 November 2026
+
+                                        Industrial Registry, Level 21, Central Plaza 2
+                         66 Eagle Street, (Corner Elizabeth and Creek Streets), Brisbane QLD 4000
+                                             GPO Box 373, Brisbane QLD 4001
+                                              General Enquiries: 1300 592 987
+                                    qirc.registry@qirc.qld.gov.au | www.qirc.qld.gov.au
 
 >>> documents/transcripts/MENTION-7AUG2026-FIX-LEDGER.md :: text
 # THE MENTION OF 7 AUGUST 2026 — EVERY FIX, IN ONE PLACE

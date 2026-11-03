@@ -3160,3 +3160,52 @@ undated; not yet documented).**
 - **New falsifier:** an application for an independent psychiatric examination or an expert.
 - The Regulator knew this before R46 and R47, so the deferral reflects counsel's diary, not a weak-medical judgement.
   See `OBJECTIVE-MERITS-AND-THE-PROPER-RESPONSE-30OCT2026.md` §4.
+
+### E44 · Tuesday 3 November 2026: the Notice of Listing, conference on 21 January 2027, full day (R50)
+
+**Verified.**
+- A sealed Registry notice, "By direction of the Industrial Registrar": Conference, Thursday 21 January 2027,
+  10:00 AM, Commissioner Dwyer.
+- r 41: "parties are directed to attend".
+- By 4.00 pm on 20 Jan 2027, the parties must confirm "the names of all persons attending" and their mode of
+  appearance.
+- There is a costs warning for non-attendance.
+
+**Form.**
+- Notices of Listing are Registry documents. The 7 May 2026 notice was signed "Delegated Officer for the Industrial
+  Registrar". Orders (the FDOs) are the Commissioner's.
+- The absence of Dwyer's signature is therefore normal, not a signal.
+- The template differs from 7 May (r 41 wording, attendee names, costs warning, seal). It is not shown to be specific
+  to this matter.
+
+**Scored.**
+- **E43's "the Commission answers R44/R46"** (lists the 2027 conference ≈55% / makes directions ≈30% / lists a mention
+  ≈15%): **the conference was listed.**
+- R44's proposal (a report after 30 Oct, then a hearing listing) was not adopted.
+
+**Read** (graded).
+- **The Commission made three choices:** a conference over directions, the earlier date, and the longer slot. Together
+  they say "do this at a conference with me, with time for it". Strong as to method and time. There is **no signal on
+  the merits** in a listing.
+- **The full day fits two things:** working through six items, leave and the 9A, with room for a private session; and
+  the Guide's design, a review of position following the conference. It does not show that the Commission has
+  communicated a view to counsel. Nothing in the record shows any such communication.
+- **Cory's "sequence" reading.** The Regulator now has about ten weeks after counsel's review (from 9 Nov) before a
+  full day with the Commissioner on a record it has not answered. That gives it a rational incentive to resolve or
+  review its position before 21 Jan. This is a strategic expectation, not a revealed signal.
+- **Weekdays.** Past events in this matter were mostly Fridays (the first conference on 13 Mar 2026 was a Friday).
+  The Commission's own offers were Thursdays (3 Dec, 21 Jan). The Commission's past lists could not be checked: the
+  site returned 503 on 3 Nov, and only next-day lists are published.
+
+**Re-priced** (planning estimates).
+
+| Outcome | Now | Before |
+|---|---|---|
+| Review of position or concession before 21 Jan | ≈20% | ≈15% |
+| Concession before a contested hearing | ≈50–55% | unchanged |
+| Win if heard | ≈75–80% | unchanged |
+
+**Watch.**
+- The Regulator's advice after 9 Nov (R49).
+- Whether its 20 Jan confirmation names counsel (s 552B).
+- Any expert application.

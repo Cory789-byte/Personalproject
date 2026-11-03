@@ -294,3 +294,12 @@ See `BAIN-THE-HANDOVER-CHAIN-18OCT2026.md`.
   - R34, any approach after counsel's review;
   - any expert application or opposition to leave.
 - See E43.
+
+**Watchlist, 3 Nov (R50).**
+- **Fired:** the conference was listed for **21 Jan 2027, the full day**. No directions were made on R44.
+- **Next:**
+  - R49, the advice after counsel's review from 9 Nov;
+  - attendance confirmations by 4.00 pm on 20 Jan, including whether counsel is named (s 552B);
+  - any review of position before 21 Jan;
+  - any expert application.
+- See E44.
