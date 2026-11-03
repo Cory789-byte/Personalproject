@@ -113,3 +113,18 @@ reasonable-excuse explanation), and stop treating "verify soon" as deferrable.**
   rule; s 9A late-notice/reasonable-excuse.
 - ESU PID Outcome Letter, 24-ESU-1130, 24 Dec 2024 (OneDrive `E5 PID Outcome Letter`).
 - Reprisal chronology: Amended 9A 1(f)/3; Form 24 Resp ¶21; Regulator SOFC ¶16 (Reese unaware).
+
+## ⛔ The comm-book → pay reprisal chain — NEVER on WC paper (Cory, 14 Sep)
+Live drafting temptation to quarantine. The human sequence: reminder about updating doctors'
+numbers (his evidence; Harrison-Jones corroborates) → Ms Taylor removes an entry 6 Jun 2023,
+calling it "an indirect dig at the team" / "burn book" (¶¶146-147, her own admitted words; ¶150
+does NOT identify the entry or author) → soured relationship → pay mishandled.
+- **Documented:** the removal and the offence (her email). **His evidence:** that the entry was
+  his numbers reminder. **Pure inference (forbidden):** offence → deliberate pay mishandling.
+- ⛔ Never plead the causal/motive link. It (i) is unprovable (state of mind); (ii) opens
+  s 32(5)(b) (punishment/reprisal) — off our theory; (iii) echoes his 2024 "malicious"/"plot"
+  words (RD 69983) — the top credit risk.
+- ✅ The WC track states the chronology dated (¶143 removal; ¶¶146-147 her words; ¶¶39-45
+  database; ¶49 on-call; ¶¶182-210, 242-249 pay loop) and stops. Objective unreasonableness of
+  the pay conditions carries s 32(5)(a) with no need for intent. The Member infers the
+  relationship; the Appellant never asserts it.

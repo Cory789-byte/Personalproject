@@ -4,6 +4,13 @@ This is the Claude Code project context for Cory Shepherd's QIRC workers' compen
 
 ## Read these first, every session
 
+0⭐⭐. **`ONBOARDING.md`** — ⛔⛔ **READ THIS FIRST. IT IS THE ENTRY POINT AND IT SUPERSEDES THE READ
+   ORDER BELOW.** Written 12 September 2026. It carries the live position, the canonical source for
+   each kind of question, the **corrections ledger** (14 things that were believed and were wrong),
+   the standing disciplines in short form, and what is not yet built. The items below remain
+   accurate as descriptions of what each file is, but start at ONBOARDING.md.
+
+
 0⭐. **`CURRENT.md`** — ⛔⛔ **READ THIS FIRST AND IN FULL. IT IS THE HANDOVER.** Rewritten
    22 August 2026. It states the live position across all three tracks (the appeal, the employment
    matter, the fund), every dated clock, what is built and where, the open decisions, the standing

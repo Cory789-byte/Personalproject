@@ -264,3 +264,19 @@ available.**
 
 ⇒ ⭐ The last line looks unnecessary. **It is not.** It forecloses any later suggestion that he was
 absent on health grounds rather than held out.
+
+---
+
+# ADDENDUM 3 — 15 OCTOBER 2026: WHAT WINNING THE APPEAL DOES TO THE LSL DATE
+
+**Verified at source.** Both drafts/out/SEND_EMPLOYMENT_7SEP2026/DIRECTIVE_15-24_Leave_Without_Salary_Credited_As_Service.pdf (p 2) and the superseded Directive 01/19 credit **"Special leave to claim Workers' Compensation"** as service for **"Any period"**, for recreation leave, sick leave, long service leave and salary increments. Unpaid sick leave counts for the first 3 months only. Leave without pay over 9 days does not count at all.
+
+**The arithmetic:**
+- Payroll excluded 189 days: 24 + 92 + 73.
+- That gives the "Original LSL Eligibility Date" of 29/09/2026 (commencement 25 Mar 2019, plus 7 years, plus 189 days).
+- If WC/2024/227 succeeds, 21 Jun – 20 Sep 2024 (92 days) becomes a compensable absence and is credited in full. The date moves to **about 29 Jun 2026**, before the 13 July start Cory first applied for.
+- If certificates also cover 13 Dec 2024 – 23 Feb 2025 (73 days), the date moves to about mid-April 2026.
+
+⇒ After acceptance, ask Payroll to recalculate under Directive 15/24 and to pay LSL from 13 July 2026. The 14 Oct approval runs from 29 Sep. ⛔ Raise this only after the decision. Never raise the appeal with MSH.
+
+**CORRECTION to Addendum 3, 16 Oct 2026.** Deed clause 4, checked against the signed deed, reads: "The period from 13 December 2024 to 23 February 2025 will be treated as leave without pay." Those 73 days were agreed as leave without pay, so do not count them in the LSL scenario. The realistic effect of winning the appeal is the 92-day 2024 period only, which puts the eligibility date at about 29 Jun 2026. Deed confidential (cl 12); lawyer only.

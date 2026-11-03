@@ -170,3 +170,45 @@ substantively within 48 hours of 12 August. Log in the PREDICTIVE-CYCLE signal r
    him (the Regulator says yes on three dates — confirm against his own records).
 5. Log the responsiveness signal (§0) in the PREDICTIVE-CYCLE signal register.
 6. ⚠ Add these PDFs to the **no-text-layer** source-integrity list.
+
+---
+
+## ADDENDUM — 15 September 2026: the payslips were a leave record, and it is in their hands
+
+Re-read of all four sealed Form 29s (rendered at 110 dpi; the PDFs have no text layer) against the
+production actually received. **Item C1/C2 of the 4 July 2025 notice is not only a pay inquiry.**
+A Queensland Health payslip carries the **leave balances and the leave-taken lines**. By asking for
+the original and amended payslips for the fortnights commencing 5 Feb, 19 Feb, 18 Mar and 1 Apr 2024,
+the Regulator obtained the leave record for the months before the injury. The 27 April 2026 notice
+(process reference form 15480560, "screenshot(s) of the request progression over time") is the same
+kind of inquiry into a leave decision.
+
+**What the production shows, verified on the page** (`documents/disclosure-2025-07/Disclosure_witness_conferencing_QldHealth_Payroll.pdf`;
+⛔ broken optional-content list — `pdftotext` emits a syntax error and the index must not be relied
+on; read page by page):
+
+| Pay date | Recreation leave (hrs) | Sick leave (hrs) |
+|---|---|---|
+| 28.02.2024 | 46.16 | 11.78 |
+| 13.03.2024 | 53.44 | 6.69 |
+| 27.03.2024 | 60.72 | 8.61 |
+| 10.04.2024 | 52.00 | 3.02 |
+| 24.04.2024 | 59.29 | **1.25** |
+| 05.06.2024 | 47.88 | 2.92 |
+
+Plus `NP_Carer's_Leave` 08–09.04.2024 and an `NP_Sick_Leave – Adjustment` (unpaid), and the January
+2024 `Special_Leave` adjustments with an overpayment recovery. Admitted fact **235** records the
+19 March 2024 Leave Takings entry as Sick Leave, code SCK, 7.60 hours.
+
+**The reading.** Sick leave is drawn down to 1.25 hours — under one shift — ten weeks before the
+18 June 2024 onset, while recreation leave accrues untouched in the fifties. That is a
+contemporaneous, employer-generated record consistent with deterioration, obtained by the Regulator
+itself and listed on its own Form 23 (item 40, 11/07/2025). It does not have to be proved by the
+Appellant; it is already in their material.
+
+**⛔ Handling.** Corroboration only, put through the treating chronology if at all — never as an
+attendance or performance proposition. MSH's 8/10 September 2025 letter (34 occasions) sets that
+frame, is post-onset and employment-track, and stays out of WC/2024/227 entirely. The mirror-image
+risk logged elsewhere in the file stands: a record of absence also supports "fewer shifts because
+less available" against the roster-disparity limb, so the leave record is never pleaded as a
+stressor. Nothing here goes into correspondence.
