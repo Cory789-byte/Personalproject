@@ -3223,3 +3223,13 @@ names are not to be used).
 - **Read.** The 3 Nov wording (r 41 "directed to attend", attendee names, costs warning) comes from a notice
   template updated for "Ready Case", which looks like a Registry system rollout. It is **not** drafted for this
   matter. That confirms E44: the form carries no signal.
+- **"Ready Case" (Cory asked, 3 Nov: does it mean "this case is ready"?).** Almost certainly not.
+  - Ready Case is a ReadyTech case-management platform for the justice sector, with a scheduling and listing module
+    (readytech.com.au, "Ready Case").
+  - McGirr Technologies, the template's Company field, makes caseHQ, case-management software for courts, tribunals
+    and commissions.
+  - The subject is generic: "Notice of Listings", plural, "Updates for". It is stored in the template's left-over
+    properties. The 7 May notice's equivalent carried the matter's own subject.
+
+  Read: the Registry's notice templates being updated for a case-management system. Public sources found no Queensland
+  rollout, so this is inference, but strong.
