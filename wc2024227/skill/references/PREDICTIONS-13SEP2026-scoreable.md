@@ -3246,3 +3246,36 @@ names are not to be used).
     One listings workflow: notice, then email, in under two minutes.
   - The attachment is byte-identical to the uploaded copy (MD5 6302f897…).
   - The original routing headers were lost in the inline forward. Nothing ties the email to chambers.
+
+### E45 · Tuesday 10 November 2026: counsel's conference with the officer is this week (R52–R54); modelled advice
+
+**Verified.**
+- 23 Oct (R45): "I hope we can continue communicating any points of issue in the hopes that most, if not all, can be
+  resolved before the conference."
+- 6 Nov (R53): Cory asks for written positions after counsel is consulted on facts 228–231, Tab 24 and consent to the 9A;
+  he offers a phone call (⚠ written-only rule).
+- 6 Nov (R54): "I plan on speaking with our Counsel next week … response … as soon as possible following that
+  discussion. Thank you for your patience on this delay." Formula absent.
+- **WCRA s 556 (read 10 Nov):** the appeal body "may, at any time before or after the start of the hearing, order the
+  claimant or worker to submit to a personal examination by 1 or more specified registered persons"; non-attendance
+  without reasonable excuse suspends any entitlement (s 556(5)–(6)). ⛔ **Correction:** earlier entries said a Regulator
+  expert "needs leave because the directions expired". The examination itself can be ordered at any time.
+
+**Modelled advice (solo; the multi-agent run was stopped at Cory's request to save usage).**
+- Facts and documents cannot be contested. Reservations of 8 Sep preserve relevance, weight and truth only.
+- Calls: concede 3(b) not reasonable; best ground 1(l) with 1(j) (May 2024); pay defended weakly; conditions
+  (1(h), 1(k)) cannot be excluded, only argued non-causal.
+- Only real fight: causation, through a s 556 psychiatric examination, an amended SOFC particularising ¶27 around May
+  2024, and supplementary outlines obtained as the price of not opposing leave.
+
+**Forecast of what the Regulator does next** (planning estimates).
+
+| Path | P |
+|---|---|
+| Concede by consent orders, s 558(1)(c), before a contested hearing | ≈55–60% |
+| Fight on causation: s 556 examination, amend, further outlines | ≈30% |
+| Propose set-aside and remittal (s 558(1)(d)); Cory's lapsed 1 Jul offer mentioned it — do not accept | ≈5–10% |
+| Next email admits facts 228–231 | ≈75% |
+| Next email does not oppose leave, with time sought to amend | ≈60% |
+
+**Falsifier for the concession read:** an application under s 556, or a request for time to serve further outlines.
