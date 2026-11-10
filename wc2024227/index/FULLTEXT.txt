@@ -22307,6 +22307,114 @@ WHY THIS IS THE HARDEST-HITTING REMAINING MOVE
 - Whatever answer comes (or doesn't) feeds: Stage 2 (independent decision-maker ask),
   the s 32(5) manner case, and any later adverse-action defence (knowledge + persistence).
 
+>>> drafts/CONFERENCE_ADDRESS_21JAN2027_if_the_defence_is_maintained_DRAFT.md :: text
+# Conference address, 21 January 2027: if the Regulator maintains its paragraph 27 defence
+
+Spoken form. About eight minutes if uninterrupted. Short answers first; the detail only if asked. Ask, never allege.
+No motive, no money, no employment matters, no discontinuance. Agree to counsel appearing (s 552B) when it is raised.
+
+---
+
+## Opening (one minute)
+
+Commissioner, the position since the last conference is this.
+
+On 8 September the Respondent admitted 298 of the 303 facts in my notice and denied none. Thirty-eight of the thirty-nine
+documents behind them are confirmed, and the Manager's role description at Tab 32A is confirmed. The Respondent's
+witnesses are four lay witnesses. It has no medical or expert witness. My witnesses are myself, my treating general
+practitioner and treating psychiatrist, and two colleagues.
+
+So the facts are settled. What is left is whether each circumstance was management action, whether any management
+action was reasonable and taken in a reasonable way, and causation. I would like to use today to find out which of
+those the Respondent actually contests, and on what evidence.
+
+## Item 1: section 32(1)
+
+The Respondent's own review found a psychological injury and that employment was a significant contributing factor
+(facts 261 and 262). It has no medical witness. I accept the hearing is de novo. May I ask whether the Respondent
+contests injury or contribution, and if so on what evidence? If it does not, I ask that it be noted that section 32(1)
+is not in issue.
+
+## Item 2: leave for the proposed Second Amended Form 9A
+
+It was provided on 1 October. It is built on the admissions, accepts the onus, withdraws the earlier descriptions of
+conduct, and adds no stressor. The Respondent has not opposed it in writing. I ask for leave now, with liberty to file a
+completed version within seven days, with the changes listed, and I do not oppose the Respondent having whatever time
+it needs to amend its own statement in response.
+
+## Item 3: facts 228 to 231, and Tab 24
+
+Facts 228 to 231 record entries in the Emergency Code Register. The Respondent provided its own copy of that register
+on 12 October and confirmed its veracity. The entries are at rows 9 to 16, 17 to 22 and 33 of the sheet. May I ask
+whether the Respondent now admits those four facts? If not, I will tender the spreadsheet it provided. Tab 24 is a
+union email; I will prove it through its author if the Respondent maintains its dispute.
+
+## Item 4: paragraph 27
+
+Paragraph 27 contends that any management action involved in the injury was reasonable management action taken in a
+reasonable way. It is admitted that the paragraph does not identify the management action (fact 303). The Respondent's
+letter of 30 October restated the contention. May I ask the Respondent, through counsel, three things:
+
+1. Which management action does it rely on, by particular?
+2. For each of the causal particulars in the proposed statement, does it contend that the circumstance was management
+   action, and that it was reasonable and taken in a reasonable way?
+3. What evidence will it call on that? Its own review found the rostering of 17 and 18 March 2024 unreasonable (fact
+   260); its outlines describe the break as human error and a rostering practice issue for the line manager, and the
+   leave decline as made in error.
+
+If the Respondent cannot answer today, I ask for a direction that it particularise paragraph 27 within 14 days.
+
+## Item 5: tender and objections
+
+The Respondent has said it will decide objections at the hearing. I ask for a direction that any objection to the
+relevance or admissibility of an admitted fact or confirmed document be notified ten business days before the hearing,
+alongside the exchange of documents under section 554, so that the hearing is not spent on them.
+
+## Item 6: the hearing
+
+If the matter is to be heard: two days; my two treating practitioners by video at fixed times, with attendance notices;
+the Respondent to confirm which of its four witnesses it will call. I ask that a hearing be listed now, with these
+directions, if the issues are not resolved today.
+
+## The one sentence of law, if invited
+
+The question under section 32(5)(a) is whether the injury as a whole arose out of reasonable management action taken in
+a reasonable way: *Langerak* [2020] ICQ 2 at [86]. Reasonable action among the causes does not answer that question:
+*Mahaffey* [2016] ICQ 10 at [57]. The review decision counted factors; the Act requires them to be weighed.
+
+---
+
+## If counsel says the Regulator will "review its position"
+
+"I welcome that. I ask that a date be fixed by which the Respondent advises its position, and that the hearing
+directions take effect if it has not advised by then."
+
+## If counsel asks for time to amend, or for an expert
+
+"The directions for witnesses and experts expired on 30 September. I do not oppose a short time to amend the statement
+in response to the Second Amended Form 9A. Any application for an expert should be made now, with the proposed
+timetable, so that the hearing date is not lost."
+
+## In private session (if the Commissioner holds one)
+
+"I am seeking one thing in this appeal: the decision set aside and the claim accepted, by consent orders if the
+Respondent agrees. I am not seeking anything else here, and I will not discontinue. If the Respondent needs time to
+take instructions, I ask only that a date be fixed."
+
+## Answers held ready, not volunteered
+
+- **13 to 15 May 2024 absences:** the notification route changed on 14 May; the Respondent does not allege I was told of
+  any other means before then.
+- **The 15 May email:** no hours had been stated for nine months (fact 73); the question was acted on within two days
+  (facts 81 to 84); Ms Reese undertook to "follow up on the issues raised" (fact 79).
+- **The 2022 anxiety entry and the November 2023 sleep record:** neither is a diagnosis or treatment of a depressive
+  disorder; the GP record of 16 November 2023 says "No psychological illness"; Dr Hawes certified no pre-existing
+  factor; the treating doctors will address it.
+- **Full-time and nights:** I asked for the roster the role required; the break on 17 to 18 March was rostered by the
+  manager, and no swap is alleged (fact 234).
+- **The length of the pleading:** it sets out each document because the case is documentary; the completed version is
+  shorter and corrects the citation of *Carr*.
+
 >>> drafts/CONSULTATION_PROPOSALS.txt :: text
 RETURN TO WORK AND WORKPLACE CONTROLS — PROPOSALS FOR CONSULTATION
 
@@ -289938,6 +290046,87 @@ it.
 - [Supreme Court Library Queensland — QIRC caselaw](https://www.sclqld.org.au/caselaw/QIRC)
 - [QIRC Workers' Compensation Appeal Guide](https://www.qirc.qld.gov.au/sites/default/files/2022-09/Workers_Compensation_Guide.pdf)
 
+>>> skill/references/DWYER-WHAT-HE-NOW-KNOWS-3NOV2026.md :: text
+# What Commissioner Dwyer has in front of him, what he now understands, and what he may understand (3 Nov 2026)
+
+⛔ Internal. His own views are not knowable; this is built from what has reached him and from the framework he stated on
+7 Aug 2026. Graded where inferred.
+
+## A. What has reached him since 7 Aug (verified)
+
+| Date | Document | Reached him how |
+|---|---|---|
+| 10 Aug | Cory's correspondence | FDO(3) was made "further to" it |
+| 19 Aug | FDO(3): lists, outlines, experts by 30 Sep; direction 5 | his order |
+| 9 Sep | Cory's witness list: himself, Dr Hawes, Dr Krishnaiah, Harrison-Jones, Conaghan | filed |
+| 24 Sep | Regulator's witness list: Taylor, Reese, Wright, Earl, "lay"; reserves the right to amend | sent to the Registry |
+| 1 Oct | Election; letter with Schedule (9 pp); proposed Second Amended 9A (30 pp) | filed / for consideration |
+| 12 Oct | Regulator: agrees to the conference; items 2–7 to the conference "in lieu of" directions; counsel away to 22 Oct | to the Registry |
+| 13 Oct | his instruction: availability ASAP after 22 Oct | his |
+| 20 Oct | Regulator: joint dates 2, 5, 6 Nov | to the Registry |
+| 22 Oct | his diary: 3 Dec PM only | his |
+| 23 Oct | Cory: available 3 Dec; the 19 Oct letter attached (11 pp, updated Schedule); directions and a hearing listing proposed instead of a 2027 conference; "the Regulator has indicated it will respond by 4.00 pm on Friday 30 October" | to the Registry, cc Matheson |
+| 27 Oct | Regulator: declines 3 Dec "with apologies"; 21 Jan or 10 Feb 2027 | to the Registry |
+| 3 Nov | Notice of Listing: conference, 21 Jan 2027, full day | his listing |
+
+**Not before him:** the 8 Sep admissions and the outlines themselves (served between the parties; "available on request");
+the 12 and 16 Oct confirmations (reported in the 19 Oct letter); the 30 Oct response (to Cory only); the Calderbank and WP
+letters; the employment track; any metadata.
+
+## B. What he now understands (firm, from the documents before him)
+
+1. **The documentary case he told Cory to build was built, and the Regulator admitted it.** 298 of 303 facts, none denied;
+   38 of 39 documents confirmed (1 Oct letter; 19 Oct Schedule). The contradiction he said the Regulator "does have to"
+   make did not come.
+2. **The Regulator's evidence is four lay witnesses and no expert.** Its outlines concede "human error", "a rostering
+   practice issue for the line manager" and a decline "made in error", and give no account of 1(b), 1(f), 1(h), 1(k)
+   (1 Oct letter, item (4)). Taylor is on the list, as he expected.
+3. **The Regulator's pleaded case is a bare contention.** ¶27 identifies no management action; that is admitted (fact
+   303; 1 Oct letter, item (2)).
+4. **The review found the roster unreasonable and accepted injury and employment as a significant contributing factor**
+   (facts 260–262; 9A 1.8 and C 7).
+5. **The Appellant did what he was told on 7 Aug:** narrowed, accepted the onus, withdrew the characterisations, listed
+   causal particulars, and offered a corrected version.
+6. **The disclosure dispute he feared evaporated.** The Regulator obtained the MSH copies; no 64G hearing, no satellite
+   dispute. "Ask the regulator first" worked.
+7. **The Regulator has opposed nothing in writing:** no opposition to leave, no request for time, no expert application,
+   no amendment, no request for hearing dates. It asked for everything to go to the conference.
+8. **The Appellant wants a hearing listing; the Regulator wants 2027.** Cory asked for directions and listing (23 Oct).
+   The Regulator declined his only 2026 date for its counsel.
+9. **The 30 Oct response did not resolve the matters.** He was told a response was due; no one reported resolution; he
+   listed the conference anyway, for a full day.
+
+## C. What he may now understand (inference)
+
+- **The scenario he modelled at 34:08 has arrived, in a stronger form** (strong). He said the Regulator would be "all
+  over" the documents. It admitted them instead, and now has nothing to cross-examine on.
+- **The review's method is the problem** (strong). He has the 9A's Langerak/Mahaffey point and fact 260. An ICQ
+  authority binds him. A "two out of three" count is not a weighing.
+- **The Regulator is moving to a review of position, not a defence** (moderate to strong). No expert, conceding outlines,
+  no opposition to leave, everything to the conference, counsel's attendance protected over speed. His own Guide
+  describes that path.
+- **The delay is the Regulator's** (strong). He offered 3 Dec; the Regulator declined it.
+- **The Appellant will not discontinue** (strong). An appellant asking to be listed for hearing is the opposite of one
+  who withdraws.
+- **A full day is for the work a mention and a hearing would otherwise do** (moderate): s 32 agreed, leave, the 9A, and a
+  private session in which each side hears its risk. For Cory the risk he will name is the medical link and the length
+  of the pleading; for the Regulator, the absence of any contradiction.
+- **He chose the conference over a hearing listing because a conference is where a concession is made without a
+  published decision** (moderate). A hearing listing forces a contest; a conference lets the Regulator "review its
+  position" afterwards.
+- **He has noted the discipline:** PID content kept to chronology, no motive pleaded, the Appellant's own concessions.
+
+## D. What he cannot know
+
+The 30 Oct response and its formula; that the psychiatrist has told the Regulator he will give evidence; the employment
+track; the WP correspondence; metadata.
+
+## E. Consequence for 21 Jan
+
+He arrives knowing the Regulator has not contradicted anything and has not said why. The first question he is likely
+to ask the Regulator is the one he modelled on 7 Aug: what do you say in answer. The Regulator's answer, with counsel
+present, is the event.
+
 >>> skill/references/EAP-BOILERPLATE-NOTE.md :: text
 # THE TELUS HEALTH / EAP BOILERPLATE — what it proves, and where it belongs
 > 8 August 2026. Verified from the full-text index. **Short note: the observation is correct, the
@@ -298391,6 +298580,24 @@ pattern is **exactly the material for the two arguments that require no dishones
 2. ⭐⭐⭐ **The s 543 / s 544 participation asymmetry** — Part 6.4.
 
 ⭐⭐⭐ **The observation is worth keeping. The frame is what has to go.**
+
+>>> skill/references/LITERATURE-AGAINST-THE-SELF-REPRESENTED-COMPLAINANT-3NOV2026.md :: text
+# What the literature says against a person in Cory's position, and how the record answers it (3 Nov 2026)
+
+Internal. Sources are the public research found on 3 Nov 2026 (links in the chat reply of that date).
+
+| What the literature says | Source | Where Cory is exposed | How the record answers it |
+|---|---|---|---|
+| Legal officials discount the merit of self-represented cases compared with identical represented ones, and expect them to fare worse | Kroeper et al. 2020 (Psychology, Public Policy, and Law); Frisby et al. | He is self-represented against counsel | The merit is in the other side's documents, admitted under r 49. On 7 Aug the Commissioner validated limb by limb ("Done… tick… awesome") |
+| Judges believe SRLs have unrealistic expectations and represent themselves poorly | Alberta judicial survey; ABA survey of ~1,200 judges (2010) | Expectation of a full win | He accepted the onus, withdrew characterisations, narrowed on instruction, offered a corrected version |
+| Represented parties win 43–93% against pro se opponents; pro se litigants fare worse "in essentially all categories" | Levy 2018 (cited) | Base rate | Those are contested-fact cases. Here there are no contested facts |
+| "Unusually persistent complainants" and querulant litigants: multiple forums, expanding grievances, demands for vindication, volume, personalisation, persistence out of proportion | Lester, Wilson, Griffin & Mullen 2004 (BJPsych); Mullen & Lester 2006; NSW Judicial Commission bench book chapter | Several tracks (appeal, employment, PID, earlier complaints); a 30-page pleading; a Feb 2026 notice headed "statutory reprisal & breach of model litigant"; many notices | The WC track is confined: three stressors, no motive, PID kept to chronology, no new forum opened since June, every step a procedural one the Guide provides. The querulant pattern escalates; his contracted |
+| Psychological injury claims fail where the worker's account is uncorroborated or the expert relies on unreliable facts; tribunals make credibility findings against claimants | HBA Legal; Turks Legal; AAT commentary | The May 2024 exchange; prior history entries | The case rests on the employer's documents, not his account; the doctors are treating, not retained; the facts put to them are admitted |
+| In NSW the worker's perception counts; in Qld it does not | PIC decisions (NSW); Prizeman (Qld) | s 32(5)(b) risk if he pleads perception | The 9A pleads reality (admitted events), not perception |
+
+**What would feed the literature against him from here:** a new complaint or forum before the conference; long or frequent
+emails to the Regulator; personalising any officer; chasing the Commission; re-raising authorship. The standing
+disciplines already bar each of these.
 
 >>> skill/references/LIVED-THE-DEPARTMENT-the-evidentiary-asset.md :: text
 # "I LIVED THE DEPARTMENT" — WHY THAT IS THE ANSWER, AND WHY IT IS ALSO THE CASE
@@ -307664,6 +307871,56 @@ this weighs.
 
   The deterioration coincides with a cluster of non-management and erroneous items, not with one exchange.
 
+## 6. Decision (Cory, 3 Nov 2026): no medico-legal report
+
+- The treating psychiatrist gives **oral evidence**, and the Regulator knows it. **Do not re-raise a written report.**
+- The only steps left, as 9A 1.9 already gives notice, come once hearing dates are set:
+  - apply for attendance notices;
+  - apply for leave for each practitioner to give evidence by telephone or video at a fixed time.
+- The medical-link risk (Carr, ground 2) is answered by his evidence on the day. The Regulator's only counter would
+  be its own expert, which needs leave. Watch for that application.
+
+>>> skill/references/ORDERS-AND-LISTINGS-BY-WEEKDAY-3NOV2026.md :: text
+# Every order, listing and decision in WC/2024/227, with the weekday (3 Nov 2026)
+
+Internal. Sources: `confirmed-record.md` procedural spine, `documents/orders/`, the SOFC (¶¶3–4), the ledger. No
+published judgment exists in this matter (checked 3 Nov 2026 on Queensland Judgments via search). ⚠ *Dwyer v WCR*
+[2025] QIRC 119 is an unrelated appellant who shares the Commissioner's surname.
+
+| Date | Weekday | Event | Whose act |
+|---|---|---|---|
+| 13 Sep 2024 | Friday | WorkCover decision rejecting the application | WorkCover |
+| 22 Oct 2024 | Tuesday | Review Decision 69983 made | Regulator |
+| 24 Oct 2024 | Thursday | Review reasons dated | Regulator |
+| 26 Nov 2024 | Tuesday | Notice of Appeal filed | Appellant |
+| 30 Apr 2025 | Wednesday | Conference as first listed (vacated) | Commission |
+| 3 Jun 2025 | Tuesday | Amended Further Directions Order (by consent) | Commission |
+| 16 Jul 2025 | Wednesday | Amended Further Directions Order (2) (by consent) | Commission |
+| 22 Aug 2025 | Friday | Directions Order vacating AFDO (2) | Commission |
+| 26 Feb 2026 | Thursday | Mention as first listed | Commission |
+| 27 Feb 2026 | Friday | Mention (moved for counsel) | Commission |
+| 2 Mar 2026 | Monday | Notice of Listing for the conference | Registry |
+| 13 Mar 2026 | Friday | First s 552A conference | Commission |
+| 7 Apr 2026 | Tuesday | Mention; Further Directions Order | Commission |
+| 22 Apr 2026 | Wednesday | Form 29 sealed | Registry |
+| 7 May 2026 | Thursday | Notice of Listing for the 22 May mention | Registry |
+| 22 May 2026 | Friday | Mention; chambers direction | Commission |
+| 15 Jun 2026 | Monday | Notice of Listing for the 7 Aug mention | Registry |
+| 23 Jun 2026 | Tuesday | r 64G application sealed | Registry |
+| 7 Aug 2026 | Friday | Mention (64G) | Commission |
+| 19 Aug 2026 | Wednesday | Further Directions Order (3) | Commission |
+| 13 Oct 2026 | Tuesday | Registry email for Dwyer: instructs availability | Commission |
+| 22 Oct 2026 | Thursday | Registry email: 3 Dec PM the only 2026 date | Commission |
+| 3 Nov 2026 | Tuesday | Notice of Listing issued | Registry |
+| 3 Dec 2026 | Thursday | Offered by the Commission (PM) | Commission |
+| 21 Jan 2027 | Thursday | Conference listed (full day) | Commission |
+
+**Pattern.**
+- Paperwork (orders, notices, emails) goes out on any weekday: Tue 8, Wed 8, Thu 8, Fri 8, Mon 4 across all events.
+- **The Commissioner's in-person events have been Fridays** (27 Feb, 13 Mar, 22 May, 7 Aug) with one Tuesday (7 Apr).
+- **Both dates the Commission itself offered for the second conference are Thursdays** (3 Dec, 21 Jan). The November
+  dates were the Regulator's. That is a diary pattern, not a signal.
+
 >>> skill/references/ORIGINAL-9A-RECONSTRUCTED-AND-FORM9-COMPARISON.md :: text
 # THE SAINES-ERA ORIGINAL FORM 9A — reconstructed — and how his own first Form 9 compares
 > 14 August 2026. The original 9A document is **not in the repository**. Its complete skeleton is
@@ -312635,6 +312892,43 @@ undated; not yet documented).**
 - The Regulator's advice after 9 Nov (R49).
 - Whether its 20 Jan confirmation names counsel (s 552B).
 - Any expert application.
+
+**E44 addendum: metadata of the two Notices of Listing** (⛔ prediction-only, never in correspondence; Registry staff
+names are not to be used).
+
+| Notice | Created | Template and authoring | Left-over review-cycle properties |
+|---|---|---|---|
+| 3 Nov 2026 (PDF) | 10:02 AEST, 3 Nov | Word, through Acrobat PDFMaker 26. Title "Notice 2"; Author "QIRC REG JW"; Company "Mcgirr Information Technology" | Email subject "**Notice of Listings - Updates for Ready Case**", from a QIRC officer |
+| 7 May 2026 (DOCX) | 15:54 AEST, 7 May | Older DJAG template (creator "martingc", last printed 2018); last modified by a Registry officer | Subject "WC/2024/227 - Shepherd, Cory Lea", from the "Listings QIRC" mailbox |
+
+- **Neither file** has comments, tracked changes, hidden text or chambers data. The 3 Nov file carries only two links:
+  the Registry email and the website.
+- **Read.** The 3 Nov wording (r 41 "directed to attend", attendee names, costs warning) comes from a notice
+  template updated for "Ready Case", which looks like a Registry system rollout. It is **not** drafted for this
+  matter. That confirms E44: the form carries no signal.
+- **"Ready Case" (Cory asked, 3 Nov: does it mean "this case is ready"?).** Almost certainly not.
+  - Ready Case is a ReadyTech case-management platform for the justice sector, with a scheduling and listing module
+    (readytech.com.au, "Ready Case").
+  - McGirr Technologies, the template's Company field, makes caseHQ, case-management software for courts, tribunals
+    and commissions.
+  - The subject is generic: "Notice of Listings", plural, "Updates for". It is stored in the template's left-over
+    properties. The 7 May notice's equivalent carried the matter's own subject.
+
+  Read: the Registry's notice templates being updated for a case-management system. Public sources found no Queensland
+  rollout, so this is inference, but strong.
+- **The covering email** (Gmail msg 1a19ebc6cf2d28e8; ⛔ prediction-only).
+  - From "Listings QIRC", signed "Registry Officer (Client Services - Listings)". To Matheson and Cory, cc OIR-Appeals.
+  - Parties are "requested to confirm their full name and title for the purpose of appearances … as soon as
+    practicable".
+  - **Timing on 3 Nov (AEST):**
+    - PDF made 10:02:16;
+    - email opened 10:02:47 (Thread-Index header);
+    - inline image stamped 10:04:02 and sent 10:04:03;
+    - Cory's forward 10:08:25 (the Thread-Index child block).
+
+    One listings workflow: notice, then email, in under two minutes.
+  - The attachment is byte-identical to the uploaded copy (MD5 6302f897…).
+  - The original routing headers were lost in the inline forward. Nothing ties the email to chambers.
 
 >>> skill/references/PREDICTIVE-CYCLE.md :: text
 # THE PREDICTIVE CYCLE — a standing model of actors, events, signals and probabilities
@@ -328088,6 +328382,65 @@ day-counts bind him.
 State the dates; state the available alternatives; stop. Never say "the real reason was".
 The gap does the work, and a decision-maker who notices it themselves is worth more than
 one who is told.
+
+>>> skill/references/THE-9A-ARCHITECTURE-long-arc-3NOV2026.md :: text
+# The sent Second Amended 9A: architecture, page map, and how the admissions are integrated across stressors (3 Nov 2026)
+
+Internal. Built from the as-sent 30 pp (`documents/sent-2026-10-01/`), 21,961 words, 288 of the 303 facts cited.
+
+## Page map
+
+| Pages | Part | Function |
+|---|---|---|
+| 1 | A | Parties, role, injury, date, s 32(1), onus accepted; the summary of the three stressors with fact numbers |
+| 1–2 | B preamble | What a bracket means; how the Part is arranged; repetition "does not count causation twice" |
+| 2–3 | B.1 | The medical starting point: prior health, referral, deterioration, certificates, diagnosis, report, the review's finding, oral evidence |
+| 3–6 | B.2 list | The Guide 4.8 list: 3 stressors, 35 particulars; causal / context / record marked |
+| 6–13 | Stressor 1 | The conditions of the work: 12 particulars, 184 facts cited |
+| 13–17 | Stressor 2 | Remuneration: 15 particulars, 85 facts |
+| 17–23 | Stressor 3 | Roster and fatigue: 8 particulars, 96 facts |
+| 23–24 | B.3 | After the injury: context and continuing effect only |
+| 24–26 | B.4 | The intervals: arithmetic from admitted times |
+| 26–27 | B.5 | What the Respondent does not allege and does not list |
+| 27–29 | C | Contentions 1–10, including 5A (their outlines) and 8 (effect of admissions) |
+| 29–30 | D, E, F | Questions, orders, costs |
+
+## The six layers
+
+1. **Admitted fact as the unit.** Every material sentence carries its paragraph number. 288 facts are used.
+2. **Particulars classed by role.** Causal: 1(b), 1(d), 1(f)–(h), 1(k), 1(l); 2(a)–(i), 2(l), 2(m); 3(b)–(f). Context: 1(a),
+   1(c), 1(e), 1(i), 1(j), 2(j), 3(a). Record: 2(k), 2(n), 2(o), 3(g), 3(h). The tag is in each heading.
+3. **Each stressor self-contained.** The same fact is re-pleaded where it plays a different part, so any stressor can be
+   decided without reading another.
+4. **The cross-ties.** 81 facts are cited in two or more stressors; 11 in all three (28, 37, 38, 266, 267, 272, 289,
+   300–303).
+5. **The arithmetic and the negatives.** B.4 turns admitted times into intervals (7 h; 5 d 18 h 14 min; 23 days); B.5
+   lists what the SOFC and LOD do not contain, by admitted fact.
+6. **The Respondent's own case folded in.** C 5A quotes the outlines; C 10 and facts 300–303 fix ¶27; C 8 states the
+   limit of the admissions; C 9 accepts de novo.
+
+## How one admission serves several stressors (examples)
+
+| Facts | Stressor 1 | Stressor 2 | Stressor 3 |
+|---|---|---|---|
+| 37–38 (full-time approved 16 Oct 2023) | the role he was doing, in the conditions | the contracted 76-hour fortnight the pay was measured against | the continuous-shift roster the 8-hour agreement was applied to |
+| 116–118, 134 (leave declined twice; attachments present) | 1(e): context, how the manager dealt with a submission | 2(b): the entitlement, processed through three submissions | — |
+| 192–203 (Payroll thread; "not corrected"; "Part Completed") | 1: the manager's handling as a condition | 2(h)–(m): the causal sequence of non-correction | — |
+| 218–221 (Reese to HR, 10 May: "his fatigue", "rostering errors", "not yet aware") | 1(d) and supporting records: the manager's knowledge | — | 3(g): the risk rated and the decision withheld |
+| 263–272 (CE letter: records "do not exist"; assessment "after 30 June 2024"; no consequential change) | supporting records: no change to procedures after complaints | — | 3(h) and the fatigue framework: no assessment before the injury |
+| 289 (critical function) | the nature of the work | the function the pay errors sat in | the function the break was rostered in |
+| 300–303 (no discipline; ¶27 names nothing) | pleaded answer | pleaded answer | pleaded answer |
+
+The preamble states the rule: repetition "does not allege separate injuries and does not count causation twice. It
+shows the different part the same event plays in each stressor within the whole course of conduct."
+
+## The long arc
+
+Feb 2026 notice (50 facts) → April pleading → 28 Aug notice (303 facts, 39 documents) → 8 Sep: 298 admitted, 0 denied
+→ 9 Sep outlines and witness list → 24 Sep: their outlines concede → 30 Sep: no expert → 1 Oct: this 9A → 12–16 Oct:
+38/39 documents confirmed → 21 Jan 2027: conference. Each step removed something the Regulator could have contested.
+What the 9A does is make the admitted record the pleading, so that the only questions left are the ones the Regulator
+has no evidence on.
 
 >>> skill/references/THE-ACCEPTANCE-EXIT.md :: text
 # THE ACCEPTANCE EXIT — their way out of the whole mess (Cory's thesis, 4-5 Aug 2026)
@@ -626778,6 +627131,31 @@ Please be advised that Thursday, 3 December 2026 (in the afternoon) is currently
 Parties are requested to advise whether this date and time would be suitable.
 This email is sent on behalf of the Chambers of Industrial Commissioner Dwyer.
 
+>>> documents/correspondence-2026/2026-10-23_0839_Matheson_to_Cory_counsel_unavailable_3Dec_offers_21Jan_10Feb_2027.txt :: text
+Source: Gmail msg 1a165c602cd9f758 (thread 1a12d45a084d4cc0, Hotmail auto-forward). Sent 22 Oct 2026 22:39:12 UTC = Friday 23 October 2026, 08:39 AEST. Ledger R45.
+From: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+To: Cory Shepherd <coryshepherd1@hotmail.com>
+Subject: RE: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Mr Shepherd,
+
+I refer to the below email of the Commission outlining Commissioner Dwyer's availability for a s552A conference for this matter.
+
+I went back to the Regulator's Counsel and unfortunately she is not available in the afternoon of Thursday 3 December 2026.
+
+I received dates that Counsel is available early 2027 as the below email notes Commissioner Dwyer has no remaining availability in 2026 and hope these dates may suit you:
+
+  * 21 January 2027 – All day
+  * 10 February 2027 – PM only
+
+Although the conference will need to be set in 2027, I hope we can continue communicating any points of issue in the hopes that most, if not all, can be resolved before the conference.
+
+Should these dates be suitable, I will again email the Commission (cc'ing you in) proposing these new dates for the Commission's consideration.
+
+Kind regards,
+Renee Matheson
+Senior Appeals Officer
+
 >>> documents/correspondence-2026/2026-10-23_0919_Cory_to_Registry_cc_Matheson_availability_19Oct_letter_proposed_directions_SENT.txt :: text
 Source: Gmail msg 1a165f022c669129 (Cory's manual Fw, 23 Oct 09:26 AEST). Attachment: LETTER TO THE REGULATOR 19 OCTOBER.PDF. Ledger R44.
 From: Cory Shepherd <coryshepherd1@hotmail.com>
@@ -626808,6 +627186,24 @@ I would be grateful if the Registry would bring this correspondence (and the att
 Yours faithfully,
 Cory Lea Shepherd
 Appellant (self-represented)
+
+>>> documents/correspondence-2026/2026-10-23_0931_Cory_to_Matheson_prefers_21Jan_agrees_to_resolve_points_before_conference_SENT.txt :: text
+Source: Gmail msg 1a165f872339077a (Cory's manual Fw, thread 1a12d45a084d4cc0). Ledger R52.
+From: Cory Shepherd <coryshepherd1@hotmail.com>
+Sent: Friday, October 23, 2026 9:31:38 am
+To: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+Subject: Re: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Ms Matheson,
+
+Thank you for your email this morning, and for checking with Counsel so quickly. Both 21 January and 10 February 2027 suit me; I would prefer 21 January as the earlier date.
+
+I agree with your suggestion, and would welcome resolving as many points as we can before the conference. I look forward to your response by 30 October.
+
+For completeness, my email to the Registry this morning was to record my availability for 3 December and to put my 19 October letter before the Commission. I am content to proceed in whichever way the Commission prefers.
+
+Yours sincerely,
+Cory Lea Shepherd
 
 >>> documents/correspondence-2026/2026-10-27_0813_Matheson_to_Registry_cc_Cory_declines_3Dec_proposes_21Jan_10Feb_2027.txt :: text
 Source: Gmail msg 1a17a4b492bfdc51 (thread 1a12d45a084d4cc0, Hotmail auto-forward). Sent 26 Oct 2026 22:13:09 UTC = Tuesday 27 October 2026, 08:13 AEST. Ledger R46.
@@ -627123,6 +627519,98 @@ attachments. It is your responsibility to ensure that
 this email and any attachments do not contain and
 are not affected by computer viruses or defects as
 this message is transmitted over Internet.
+
+>>> documents/correspondence-2026/2026-11-03_1004_Registry_Listings_Notice_of_Listing_21Jan2027_email.txt :: text
+Source: Gmail msg 1a19ebc6cf2d28e8 (Hotmail auto-forward 3 Nov 2026 10:08:25 AEST). Ledger R50.
+Original sent Tuesday 3 November 2026 00:04:03 UTC = 10:04 AEST. Attachment: '261103 WC227[2024] Notice of Listing for 21.01.27.pdf' (225,295 bytes, MD5 6302f89767030788debaa6d68d613a80, identical to documents/orders/2026-11-03_Notice_of_Listing_conference_21.01.2027.pdf).
+
+From: Listings QIRC <listings@qirc.qld.gov.au>
+Sent: Tuesday, 03 November 2026 00:04:03
+To: Renee Matheson <Renee.Matheson@oir.qld.gov.au>; coryshepherd1@hotmail.com <coryshepherd1@hotmail.com>
+Cc: OIR-Appeals <Appeals@oir.qld.gov.au>
+Subject: WC/2024/227 - Shepherd, Cory Lea
+
+Dear Parties,
+
+Please find attached Notice of Listing.
+
+The parties are requested to confirm their full name and title for the purpose of appearances for this listing to the Industrial Registry (QIRC.Registry@qirc.qld.gov.au<mailto:QIRC.Registry@qirc.qld.gov.au>) as soon as practicable.
+
+Registry Officer (Client Services - Listings)
+Industrial Registry
+
+[cid:image001.png@01DD6B7A.A6FB92B0]
+Industrial Court of Queensland and
+Queensland Industrial Relations Commission
+P 1300 592 987
+E listings@qirc.qld.gov.au<mailto:listings@qirc.qld.gov.au>
+
+>>> documents/correspondence-2026/2026-11-04_1255_Taylor_to_Cory_leave_submission_myHR_before_payroll_cutoff_9Nov.txt :: text
+Source: Gmail msg 1a1a47c1ab7046a7 (Hotmail auto-forward). Sent 4 Nov 2026 02:55:27 UTC = Wednesday 4 November 2026, 12:55 AEST. EMPLOYMENT TRACK. Ledger E13.
+From: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>
+To: Cory Shepherd <Cory.Shepherd@health.qld.gov.au>
+Cc: Cory Shepherd <coryshepherd1@hotmail.com>
+Subject: Leave Submission - MyHR
+
+Good afternoon Cory,
+
+I hope you are well.
+
+I am just following up regarding your leave. I can see in MyHR that the leave dates previously submitted were from 29th September 2026 to 27th October 2026.
+
+Payroll period PP11 ends Sunday 8th November. Could you please ensure your leave is submitted in MyHR before the payroll cut-off on Monday 9th November at 1:00 pm.
+
+Thank you for your assistance.
+
+Kind regards,
+Chloe
+Chloe Taylor
+Switchboard Manager | Local Telecommunications Representative | Switchboard Services
+
+>>> documents/correspondence-2026/2026-11-06_0826_Cory_to_Matheson_positions_sought_after_counsel_228-231_Tab24_consent_to_9A_SENT.txt :: text
+Source: quoted in Gmail msg 1a1af9cb2c33fcf1 (thread 1a12d45a084d4cc0). Ledger R53.
+From: Cory Shepherd <coryshepherd1@hotmail.com>
+Sent: Friday, 6 November 2026 8:26 AM
+To: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+Subject: RE: Re: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Ms Matheson,
+
+WC/2024/227 – Shepherd v Workers' Compensation Regulator
+
+Thank you for your email of 30 October 2026 responding to the six matters in my letter of 19 October 2026, and for explaining the position with Counsel. I understand that Counsel cannot be consulted in detail until at least 9 November 2026. I also note your confirmation of the veracity of the documents disclosed on 12 October 2026, and the Regulator's position on sections 32(1) and 32(5).
+
+I note the Notice of Listing of 3 November 2026 for a conference before Commissioner Dwyer on 21 January 2027 at 10:00 AM. So that the conference is used effectively, and because several matters are to be advised after Counsel has been consulted, I would be grateful for the Regulator's written position on the following once that consultation has occurred:
+
+1. Facts 228 to 231: whether they are admitted.
+2. Tab 24: whether the document is admitted and whether the Regulator objects to its tender.
+3. The proposed second amended statement of facts and contentions provided on 1 October 2026: whether the Regulator consents to its filing, so that the pleadings are settled before the conference rather than raised for the first time on the day.
+
+If it would be easier to discuss any of these by telephone, I am happy to do so. If the Regulator does not consent to the filing in item 3, please let me know as soon as possible so that I can consider whether to apply for leave.
+
+Thank you for your assistance.
+
+Kind regards,
+Cory Lea Shepherd
+Appellant (self-represented)
+
+>>> documents/correspondence-2026/2026-11-06_1646_Matheson_to_Cory_speaking_with_Counsel_next_week_response_to_follow.txt :: text
+Source: Gmail msgs 1a1af9cb2c33fcf1 and 1a1af9cc8ec18a5c (two forwards of one email), thread 1a12d45a084d4cc0. Sent 6 Nov 2026 06:46:59 UTC = Friday 6 November 2026, 16:46 AEST. Ledger R54.
+From: Renee Matheson <Renee.Matheson@oir.qld.gov.au>
+To: Cory Shepherd <coryshepherd1@hotmail.com>
+Subject: RE: Re: WC/2024/227 - Cory Shepherd v Workers' Compensation Regulator
+
+Dear Mr Shepherd,
+
+Thank you for your below email.
+
+I plan on speaking with our Counsel next week in relation to this matter and I will have a response to you as soon as possible following that discussion.
+
+Thank you for your patience on this delay.
+
+Kind regards,
+Renee Matheson
+Senior Appeals Officer
 
 >>> documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf :: page 1
 CS Logan ? Logan Switch mailbox

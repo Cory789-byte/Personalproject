@@ -183,10 +183,16 @@ documents/correspondence-2026/2026-10-19_1052_Matheson_counsel_dates_2-5-6Nov_s5
 documents/correspondence-2026/2026-10-20_0944_Matheson_to_Registry_cc_Cory_joint_dates_2-5-6Nov.txt	0	1375	OK
 documents/correspondence-2026/2026-10-20_0948_Matheson_to_Cory_ack_will_respond_to_19Oct_letter_by_30Oct.txt	0	918	OK
 documents/correspondence-2026/2026-10-22_1215_Registry_Dwyer_only_3Dec_PM_available_2026.txt	0	725	OK
+documents/correspondence-2026/2026-10-23_0839_Matheson_to_Cory_counsel_unavailable_3Dec_offers_21Jan_10Feb_2027.txt	0	1230	OK
 documents/correspondence-2026/2026-10-23_0919_Cory_to_Registry_cc_Matheson_availability_19Oct_letter_proposed_directions_SENT.txt	0	2809	OK
+documents/correspondence-2026/2026-10-23_0931_Cory_to_Matheson_prefers_21Jan_agrees_to_resolve_points_before_conference_SENT.txt	0	914	OK
 documents/correspondence-2026/2026-10-27_0813_Matheson_to_Registry_cc_Cory_declines_3Dec_proposes_21Jan_10Feb_2027.txt	0	986	OK
 documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter.txt	0	2351	OK
 documents/correspondence-2026/2026-10-30_1559_Matheson_to_Cory_response_to_19Oct_letter_AS_RECEIVED_printout.pdf	4	5482	OK
+documents/correspondence-2026/2026-11-03_1004_Registry_Listings_Notice_of_Listing_21Jan2027_email.txt	0	1195	OK
+documents/correspondence-2026/2026-11-04_1255_Taylor_to_Cory_leave_submission_myHR_before_payroll_cutoff_9Nov.txt	0	861	OK
+documents/correspondence-2026/2026-11-06_0826_Cory_to_Matheson_positions_sought_after_counsel_228-231_Tab24_consent_to_9A_SENT.txt	0	1842	OK
+documents/correspondence-2026/2026-11-06_1646_Matheson_to_Cory_speaking_with_Counsel_next_week_response_to_follow.txt	0	672	OK
 documents/correspondence-packs/01_CS_Logan_Switch_PACK_103pp_2020-2026.pdf	103	112382	OK
 documents/correspondence-packs/02_Chloe_Taylor_PACK_462pp.pdf	462	432540	OK
 documents/correspondence-packs/03_Scott_Hughes_PACK_376pp_196sections.pdf	376	380927	OK
@@ -529,6 +535,7 @@ drafts/CEILING_SET/06_CALDERBANK3_SKELETON.txt	0	1877	OK
 drafts/CEILING_SET/07_WITNESS_ACCOUNT_PROMPTS.txt	0	1278	OK
 drafts/CEILING_SET/08_RUNWAY_ACTION_SHEET.txt	0	1138	OK
 drafts/CE_FOLLOWUP_s89_authorisation.txt	0	4095	OK
+drafts/CONFERENCE_ADDRESS_21JAN2027_if_the_defence_is_maintained_DRAFT.md	0	6426	OK
 drafts/CONSULTATION_PROPOSALS.txt	0	8897	OK
 drafts/CONSULT_PREP_KRISHNAIAH.txt	0	8231	OK
 drafts/CRIDLAND_MEMOIR_INTERNAL.txt	0	6171	OK
@@ -1097,6 +1104,7 @@ skill/references/DISPLACEMENT-PATTERN-adverse-action-read.md	0	7690	OK
 skill/references/DISPUTED-TABS-line-by-line-v-admissions.md	0	20487	OK
 skill/references/DONE-PROPERLY-consultation-blueprint.md	0	12299	OK
 skill/references/DWYER-IC-own-reasoning.md	0	9996	OK
+skill/references/DWYER-WHAT-HE-NOW-KNOWS-3NOV2026.md	0	5856	OK
 skill/references/EAP-BOILERPLATE-NOTE.md	0	5534	OK
 skill/references/EMPLOYMENT-GOAL-KEEP-AND-PROGRESS-18OCT2026.md	0	21149	OK
 skill/references/FATIGUE-AS-CONTINUING-EXPOSURE.md	0	10469	OK
@@ -1137,6 +1145,7 @@ skill/references/LABOUR-LEDGER-what-the-matter-cost-them.md	0	2949	OK
 skill/references/LEAVE-DIRECTION-framework-analysis.md	0	5696	OK
 skill/references/LEAVE-PATHWAYS-RESEARCH-5SEP2026.md	0	5814	OK
 skill/references/LEGAL-CONSEQUENCES-external-drafting.md	0	31173	OK
+skill/references/LITERATURE-AGAINST-THE-SELF-REPRESENTED-COMPLAINANT-3NOV2026.md	0	2771	OK
 skill/references/LIVED-THE-DEPARTMENT-the-evidentiary-asset.md	0	4367	OK
 skill/references/LONG-SERVICE-LEAVE-access.md	0	16930	OK
 skill/references/LONGITUDINAL-ANALYSIS.md	0	12897	OK
@@ -1162,7 +1171,8 @@ skill/references/NINE-A-the-sole-channel-chain.md	0	4077	OK
 skill/references/NNPD-ANALYSIS-14AUG2026.md	0	14558	OK
 skill/references/NOTICE-TO-ADMIT-ARCHITECTURE.md	0	10011	OK
 skill/references/OBJECTION-FORENSIC-ANALYSIS.md	0	6781	OK
-skill/references/OBJECTIVE-MERITS-AND-THE-PROPER-RESPONSE-30OCT2026.md	0	11767	OK
+skill/references/OBJECTIVE-MERITS-AND-THE-PROPER-RESPONSE-30OCT2026.md	0	12350	OK
+skill/references/ORDERS-AND-LISTINGS-BY-WEEKDAY-3NOV2026.md	0	2692	OK
 skill/references/ORIGINAL-9A-RECONSTRUCTED-AND-FORM9-COMPARISON.md	0	13549	OK
 skill/references/OUTLINE-vs-9A-what-each-does.md	0	6713	OK
 skill/references/OUTLINES-STRENGTH-AND-THE-RESPONDENT-READ.md	0	11759	OK
@@ -1174,7 +1184,7 @@ skill/references/POST-REINSTATEMENT-LITERATURE-MAP.md	0	6984	OK
 skill/references/POWERS-MAP-forcing-the-response.md	0	35944	OK
 skill/references/PRECONFERENCE-LETTER-17OCT2026-REVIEW.md	0	6108	OK
 skill/references/PREDICTED-25SEP-LETTER-E31.md	0	6758	OK
-skill/references/PREDICTIONS-13SEP2026-scoreable.md	0	223523	OK
+skill/references/PREDICTIONS-13SEP2026-scoreable.md	0	226210	OK
 skill/references/PREDICTIVE-CYCLE.md	0	15505	OK
 skill/references/PROCEDURAL-ROADMAP-APPEAL-GUIDE.md	0	18092	OK
 skill/references/PROGNOSIS-4AUG.md	0	4427	OK
@@ -1232,6 +1242,7 @@ skill/references/TAYLOR-17MAY-EMAIL-verified-and-what-it-does.md	0	9862	OK
 skill/references/TAYLOR-AND-REESE-on-the-admitted-record.md	0	19529	OK
 skill/references/THE-24-AUGUST-DEEMED-REFUSAL.md	0	9754	OK
 skill/references/THE-28-DAY-GAP.md	0	3526	OK
+skill/references/THE-9A-ARCHITECTURE-long-arc-3NOV2026.md	0	4410	OK
 skill/references/THE-ACCEPTANCE-EXIT.md	0	1997	OK
 skill/references/THE-ACCUMULATION-what-is-on-the-file.md	0	7140	OK
 skill/references/THE-AI-ALLEGATION-and-the-only-copy.md	0	6882	OK
