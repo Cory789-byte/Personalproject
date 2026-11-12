@@ -102,5 +102,10 @@ take instructions, I ask only that a date be fixed."
   factor; the treating doctors will address it.
 - **Full-time and nights:** I asked for the roster the role required; the break on 17 to 18 March was rostered by the
   manager, and no swap is alleged (fact 234).
+- **The misdirected calls, 2 to 8 May 2024:** a registrar reported nine occasions; eight were referral or consult
+  calls put through to the wrong extension, and on one a MET call team asked where a call was located and was
+  redirected. I rely on it as a condition of the work at the console, not as a complaint about the Manager's reply.
+  3 May was a Friday and 6 May was a public holiday. I say nothing about any outcome for any patient.
+  (Source read from the page: `skill/references/TAB8B-MASPER-VERIFIED-EXTRACT-12NOV2026.md`.)
 - **The length of the pleading:** it sets out each document because the case is documentary; the completed version is
   shorter and corrects the citation of *Carr*.
