@@ -619,3 +619,20 @@ is obviously the bench.
 ⇒ ⭐ **The next review, if one is done, is 5–15 minutes and 30–35 minutes.** The 5–15 block has
 already yielded two applied fixes and two open questions from a single pass, which is the highest
 error density found anywhere.
+
+## 22. ⛔ Correction (12 Nov 2026): Ms Ruttan was addressed twice and answered once
+
+§16 says Ms Ruttan "does not register acoustically at all", was "addressed once at seg 1010", and that "no answer is
+on the tape". The second half is wrong. The machine text records:
+
+| Seg (id) | Time | Text | Label as machine output |
+|---|---|---|---|
+| 1010 | 61:39 | "And Ms. Rutland, any?" then, at 61:42, "Okay, all right." | DWYER IC. No answer recorded |
+| 1051–1052 | 63:52–64:00 | "… any part of it? No, thank you, Commissioner. Ms Rutten, is that alright with you? Yes, Your Honour, that's fine, thank you. Alright. And you're okay?" | DWYER IC (spk 1, conf 0.5 and 0.4) |
+
+- "Yes, Your Honour, that's fine, thank you" answers the question put to Ms Ruttan by name, and is the only line on the
+  tape attributable to MSH. It consents to the four-week stand-down.
+- "No, thank you, Commissioner" answers "Any objections to this just being stood down". The speaker is not
+  established (probably Ms Matheson).
+- The 0% speaking share for Ms Ruttan in `TRANSCRIPT_diarised_prosody.md` is therefore wrong by one line. Both lines
+  are merged into Dwyer-labelled segments. Check against the certified transcript before quoting either externally.
