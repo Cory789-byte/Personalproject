@@ -7,17 +7,46 @@ Form 9A. It is not a decision and does not predict any Member's reasons. Never s
 - **9A p n** = the page of the 9A as sent on 1 Oct 2026 (30 pp, `documents/sent-2026-10-01/`).
 - Not used: facts 154 and 228–231 (not admitted), and anything outside the 9A except where marked **[not on the page]**.
 - Authorities: Langerak [2020] ICQ 2 at [86]; Mahaffey [2016] ICQ 10 at [57]; Prizeman [2005] QIC 53; Delaney
-  [2005] QIC 11. Carr [2022] QIRC 59 is not cited because it was set aside (WCR v Carr [2023] ICQ 1).
+  [2005] QIC 11; Van Blanken v Workers' Compensation Regulator [2026] QIRC 283 (§0). Carr [2022] QIRC 59 is not cited
+  because it was set aside (WCR v Carr [2023] ICQ 1).
 
-## 0. Van Blanken: the method (citation awaited)
+## 0. Van Blanken v Workers' Compensation Regulator [2026] QIRC 283 (Dwyer IC, 7 September 2026)
 
-Cory's reading, 13 Nov: where the documentary record is not in dispute, a witness who cannot displace it adds little
-or nothing, and the findings come from the documents.
+Found 13 Nov 2026 at https://www.queenslandjudgments.com.au/caselaw/qirc/2026/283. Two separate fetches read it in
+full, and every quotation below matched on both. ⚠ Both read the HTML page, not the PDF. Check any quotation against
+the PDF before it goes into a filing.
 
-⚠ **The decision has not been located.** Searched: the web, Queensland Judgments and AustLII (both refuse automated
-access), the QIRC site (connection failed), Gmail, Drive and the repo. OneDrive search was returning errors. Quote it
-here, verbatim from the source page, before relying on it. Until then the method rests on the admissions themselves:
-r 49, and 9A Part C ¶8.
+- **The case.** WC/2025/202. Heard 10, 11 and 13 August 2026, with witnesses and counsel on both sides. The appeal
+  was allowed and the Regulator's decision of 4 August 2025 set aside. The s 132A application was accepted, with
+  costs to the appellant.
+- **The record.** "the facts materially relevant to this appeal are largely uncontroversial" [1]; "the only matters
+  in dispute in this appeal are restricted to a consideration of s 32(5)" [1].
+- **The witnesses.**
+  - They were "either irrelevant to my considerations or added little weight to the matters in issue" [2].
+  - Two lay witnesses' evidence was "particularly forgettable. It was superficial and largely opinion based." It
+    "added little to nothing to the material facts", which "were almost entirely undisputed" [3].
+  - A doctor's evidence was "entirely redundant in the context of irrefutable evidence before the Commission (by
+    consent)" [4].
+  - On evidence that she ought to have coped: "I considered this evidence to be particularly irrelevant" [15]; "it is
+    of no consequence to the matters in issue" [16].
+- **The documents.**
+  - The GP's note "indisputably represents a record of the date of injury" [26].
+  - "the date of injury can be clearly identified as 20 April 2022, and the singular stressor of 'workload' is equally
+    clear" [28].
+  - Her email the next day was "a contemporaneous statement" of "the matter that was of significant concern to her"
+    [27].
+- **Management action.**
+  - Adopting Allwood v WCR [2017] QIRC 88, management action "relates to those actions undertaken when managing the
+    worker's employment" [39].
+  - Action that is not administrative "could be operational, in the sense that it relates to the activities or business
+    of the institution" (Reeve, as quoted) [39].
+  - Adding a third theatre "was not a decision 'managing Ms Van Blanken's employment'". It was "an operational decision",
+    so "not within the meaning of management action as contemplated by s 32(5)" [40].
+  - Alternatively, it was "far too remote to have any causal link" to the injury [42], citing State of Queensland (DAF)
+    v WCR [2024] QIRC 53. The Regulator's causal chain was "overly simplistic" [45].
+- **Timing.** Dwyer IC heard it on Monday 10, Tuesday 11 and Thursday 13 August 2026, the week after the mention of
+  7 August in this matter. He delivered it on Monday 7 September 2026, the day before the Regulator's admissions here.
+- ⚠ Allwood, Reeve and the 2024 DAF decision are known here only as quoted in Van Blanken. Read them before citing them.
 
 ## 1. How a finding comes off the page
 
@@ -54,7 +83,9 @@ and contentions and List of Documents do and do not contain. They do not decide 
 [5] Most of the events in this appeal were recorded in writing at the time by the people concerned: emails, rosters,
 myHR records and payroll records. Where an admitted contemporaneous document records what was done and when, I
 prefer it to any later account. On their outlines, the Respondent's witnesses do not dispute what the documents
-record. **[Van Blanken's words go here once the decision is found.]**
+record. That is the approach taken in Van Blanken v Workers' Compensation Regulator [2026] QIRC 283, where the
+material facts "were almost entirely undisputed" and the lay evidence "added little to nothing to the material facts"
+([3]).
 
 [6] The Respondent's evidence is the four lay outlines served on 24 September 2026. It calls no medical or expert
 evidence. (9A p 28, C 5A) What each witness adds to the admitted record:
@@ -211,20 +242,27 @@ depressive disorder with anxious distress was diagnosed on 24 October 2024 (9A p
 medical evidence. **[Needs the oral evidence of Dr Hawes and Dr Krishnaiah.]** On that evidence: injury, with
 employment a significant contributing factor.
 
-[30] **Q3: management action, or conditions of the work.** The misdirected calls, the wrong directory entry and the
-clinicians' complaints (1(h), 1(k)) are conditions of the work, not management action. The Manager's replies to them
-are management action. For 1(b), the decision of 18 July 2023 was management action. The eleven months that followed,
-in which the duty remained and the means to discharge it did not, are a condition of the work. The process changes
-(1(f), 1(g)), the retraction request (1(l)), the pay and leave handling (Stressor 2) and the rostering, the refusal
-and the handling of the fatigue concern (Stressor 3) are management action.
+[30] **Q3: management action, or conditions of the work.** Management action "relates to those actions undertaken
+when managing the worker's employment". A decision about the activities or business of the institution is
+operational, not management action within s 32(5) (Van Blanken at [39]–[40], adopting Allwood).
+- **Conditions of the work, not management action:** the misdirected calls, the wrong directory entry and the
+  clinicians' complaints (1(h), 1(k)).
+- **Operational decisions about how the Switchboard ran, not decisions managing the Appellant's employment:** the
+  decision of 18 July 2023 to remove access while the database was fixed (1(b)), the after-hours on-call process of
+  15 April 2024 (1(f)), the data-entry checks of 19 April 2024 (1(g)) and the MASPER process of 9 May 2024 (1(h)).
+  They cannot found the exclusion. The eleven months in 1(b), in which the duty remained and the means to discharge
+  it did not, are a condition of the work on any view.
+- **Management action:** the rostering of the Appellant's own shifts (3(b)), the handling of his pay and leave
+  (Stressor 2), the refusal of his fatigue enquiry and the handling of his fatigue concern (3(d) to 3(g)), and the
+  request to retract (1(l)).
+- **The pincer.** If the Respondent says any operational decision was management action, it must then show that it
+  was reasonable and taken in a reasonable way. On 1(b) and 1(f) no outline addresses either.
 
 [31] **Q4: reasonable, and taken in a reasonable way.**
 
 | Particular | Finding available from the page |
 |---|---|
-| 1(g) | **Reasonable** management action, taken in a reasonable way: new checks after errors. Conceding this costs nothing. |
-| 1(b), as management action | Not reasonable in its duration or manner: eleven months, two part-time correctors, after-hours requests left to wait. No outline addresses it. |
-| 1(f) | Not taken in a reasonable way: effective the day it was notified, with no listed record of consultation, when the employer balloted staff on another change. No outline addresses it. |
+| 1(b), 1(f), 1(g) | Operational decisions ([30]), so no question of reasonableness arises. If any of them is held to be management action: 1(b) was not reasonable in its duration or manner (eleven months, two part-time correctors, after-hours requests left to wait); 1(f) was not taken in a reasonable way (effective the day it was notified, no listed record of consultation, when the employer balloted staff on another change); 1(g) was reasonable (new checks after errors), and conceding it costs nothing. No outline addresses 1(b) or 1(f). |
 | 1(l) | **The one finding that turns on a witness.** If Ms Reese's evidence of HR's advice is accepted, the request to retract may be found reasonable in itself. Its manner remains for decision: it was marked High importance and invoked the code of conduct, in answer to a request for hours that were supplied within two days. Q5 does not turn on it. |
 | Stressor 2 | Not reasonable: a correction directed on 3 May had not been made by 13 May, was still awaited on 21 May, was "Part Completed" on 30 May, and reached a payslip after 33 days (one after 425); the leave was declined twice in error. "Remedied in a timely manner" [¶ 207] is not borne out by those dates. |
 | 3(b) | Not reasonable: below the minimum on either view. The Respondent's own witnesses call it human error and a line-manager rostering issue, and an error is not reasonable management action. |
@@ -238,6 +276,11 @@ not management action (1(b), 1(h), 1(k)) and management action that was not reas
 3(g)). **[On the doctors' evidence that those were significant causes:]** even if 1(g) and 1(l) were reasonable
 management action taken in a reasonable way, the injury did not arise out of reasonable management action taken in a
 reasonable way. Section 32(5)(a) does not exclude it.
+
+The records made at the time point the same way. As in Van Blanken at [25]–[28], the clinical notes identify the
+stressors. On 1 July 2024 Dr Hawes recorded "work stress"; "they withhold pay at times, no overtime- not processed";
+and the roster, "so he works lates then earlies" (9A p 2, 1.4). Those are Stressors 2 and 3, the admitted errors.
+Neither note quoted in the 9A names the exchange of 15 May 2024, which is the Respondent's best ground.
 
 [33] **Q6: s 32(5)(b).** The Respondent pleads no facts for it. The circumstances relied on are admitted realities,
 not perceptions (Prizeman). The exclusion does not apply.
