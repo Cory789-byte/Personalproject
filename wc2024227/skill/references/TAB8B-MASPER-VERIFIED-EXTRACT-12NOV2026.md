@@ -66,7 +66,7 @@ The copy in Tab 8B is the one Ms Conaghan forwarded to the Appellant on Wed 15 M
 |---|---|
 | Fri 3 May 2024, 3:06 pm | First report |
 | Sat 4 – Sun 5 May | Weekend |
-| Mon 6 May | Labour Day (Queensland: first Monday in May). ⚠ Not recorded anywhere else in the matter. Confirm against the published holiday list before it is written on anything. |
+| Mon 6 May | Labour Day (Queensland: first Monday in May). Confirmed 13 Nov 2026 against the Queensland Government's 2024 public holiday list (qld.gov.au) and the Queensland Revenue Office closure notice for 6 May 2024. |
 | Wed 8 May, 5:28 pm | Second report |
 | Thu 9 May, 9:20 am | Reply: 5 d 18 h 14 min after the first report (fact 64), **15 h 52 min after the second** |
 | Thu 9 May, 10:15 am | To all staff |
