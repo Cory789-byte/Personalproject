@@ -1,0 +1,739 @@
+GMAIL_ID: 1a0a2769814a1816
+THREAD: 1a0a2769814a1816
+FORWARDED: 2026-09-15T00:27:38Z
+ORIG_FOLDER: Sent
+ORIG_FROM: Cory Shepherd <coryshepherd1@hotmail.com>
+ORIG_SENT: Sunday, 06 September 2026 22:55:33
+ORIG_TO: Chloe Taylor <Chloe.Taylor3@health.
+SUBJECT: URGENT: Cory Shepherd (388372) - ADHOC Request- LSL Date
+ATTACHMENTS: image008.png (image/png,?); image009.png (image/png,?); image001.png (image/png,?); image002.png (image/png,?); image003.png (image/png,?); image004.png (image/png,?); image005.png (image/png,?); image006.png (image/png,?); LSL_THE_INSTRUMENTS-8.pdf (application/pdf,?); leave-without-salary-credited-as-service-directive-15-24.pdf (application/pdf,?)
+==============================================================================
+Historic case-file copy from coryshepherd1@hotmail.com (Sent).
+________________________________
+From: Cory Shepherd <coryshepherd1@hotmail.com>
+Sent: Sunday, 06 September 2026 22:55:33
+To: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>; Grace.Strcahan@health.qld.gov.au <Grace.Strcahan@health.qld.gov.au>; PayrollMetroSouth <payrollmetrosouth@health.qld.gov.au>
+Cc: Jacqui Roberts <Jacqui.Roberts@health.qld.gov.au>; Emily Petering <emily.petering@together.org.au>
+Subject: Re: URGENT: Cory Shepherd (388372) - ADHOC Request- LSL Date
+
+Good morning Chloe, and Payroll,
+
+Thank you both for Friday - the ad hoc under PRN 24973005, and the long service leave
+calculation sent through that afternoon.
+
+THE ONE THING THAT IS TIME CRITICAL
+
+Could my long service leave please be entered from 13 July 2026, followed on its exhaustion
+by annual leave, as applied for on 31 August 2026 - and entered before Payroll processes the
+run for the pay day of Wednesday 9 September 2026.
+
+That is the only part of this email that is urgent. Everything below it can be answered in your own time, and I would rather the leave was entered than that it waited on the answers.
+
+If it is not practicable to enter the leave in time for that pay, could an ad hoc payment
+please be arranged for the amount due, or could you let me know what is needed from me to
+enable one. Section 5 of HR Policy C13 lists the submission deadline for ad hoc requests as
+"5:00 PM on pay day Wednesday", and section 8 describes the process as a way of obtaining a
+payment that was missed "outside of the regular pay day schedule". I note that section 8
+also says the process "is not to be used for payment of missed pay for extended periods",
+and directs longer periods to section 9. I am therefore asking for the ad hoc only as a
+fallback for the current pay period, not for the whole period since 13 July.
+
+I make the application on the same basis as my earlier ones: under protest, and subject to
+re-credit. If it is later determined that I was not eligible from 13 July 2026, I ask that I
+be notified before any recovery action is commenced, and that any adjustment be dealt with in accordance with HR Policy C48 where applicable, so that it can be worked out rather than simply reversed against me.
+
+Where this leaves me, briefly. I have been held out of the workplace since 3 July 2026,
+certified fit with restrictions on the Health Service's own form that same day. I have
+received no wages since 13 July. Friday's payment drew on my own accrued sick leave
+and recreation leave balances rather than being a payment of wages. I am now funding the
+same absence from my own long service leave.
+
+-------------------------------------------------------------
+
+THE QUESTIONS - NOT URGENT
+
+The calculation confirms that I commenced on 25 March 2019 and that my eligibility would
+ordinarily arise on 25 March 2026, and moves that date to 29 September 2026 by excluding
+three periods of leave without pay. I have four questions about it.
+
+1. What classification of leave without pay was recorded for each of the three periods, and
+which row of the "Leave credited as service" table was applied to each?
+
+My leave report shows those days under the category "Special", type "Leave Without Pay".
+That is a payroll category. The table turns on the type of leave, so the category alone does not tell me which row was used.
+
+2. Could the calculation please be reconciled against the three date ranges? They come to
+186 days counted from the day after each start date, and 189 counted inclusively; the corrected date is 188 days after 25 March 2026. I am not suggesting the figure is wrong. I would like to see the working, so I can check the effect of a change to any one period.
+
+3. On what basis was 21 June to 20 September 2024 classified as it was?
+
+That period is 91 of the 188 days.
+
+The leave type recorded against those days is "Leave Without Pay" (LWOP). That is not one of the types in the "Leave credited as service" table. The table lists sick leave, parental leave, special leave, purchased leave, study leave, special leave to undertake service overseas, special leave to claim workers' compensation, and defence reserve forces leave. A characterisation has therefore been made somewhere, and I would like to know which type was chosen and on what basis.
+
+The absence was medical from the outset. My leave record shows sick leave on 7, 8 and 9 June 2024, including sick leave without pay on 9 June, and leave without pay from 10 June. The work capacity certificate of 1 July 2024 records the date of injury a 18 June 2024; a medical certificate was issued on 28 June 2024; and I was certified as having no functional capacity from 1 July 2024. My application for workers' compensation was lodged on 1 July 2024 and rejected on 13 September 2024.
+
+Two rows of the table would fit that absence, and both credit the period:
+
+- sick leave, for which the period recognised is "The first 3 months of any continuous period" - and 21 June to 20 September 2024 is three months less a day; and
+- special leave to claim workers' compensation, for which it is "Any period."
+
+The row that would produce the exclusion is general special leave, which recognises only "Any continuous period not exceeding 9 working days", with note (3) providing that where the total exceeds that, none of the period is credited.
+
+I note as well that clause 5.2 of Directive 15/24 provides that where multiple types of leave without salary are accessed consecutively within a continuous period, entitlements are "based on and restricted to those available under the initial leave type taken". On my record the initial type was sick leave. Directive 01/19 contains no equivalent provision.
+
+4. Which instrument was applied to that 2024 period, and on what temporal basis?
+I accept that Directive 15/24 applies to me now. Clause 4.1(b)(ii) applies it to industrial instrument employees employed under the establishing legislation of a Hospital and Health Service, which describes my position. My question is about timing, not coverage: its effective date is 30 September 2024, ten days after the period closed, and I cannot find a transitional or retrospective provision in it. If Directive 15/24 was applied to that period, could you please identify the provision on which that is based.
+
+If Directive 01/19 was applied instead, could you please identify the basis on which it
+applied to my employment, and the provision used to classify the period. Clause 4 of 01/19 applies it to public service officers and to employees engaged under sections 147(2)(a) and 148(2)(a) of the Public Service Act 2008. I am appointed under section 67 of the Hospital and Health Boards Act 2011 and employed by the Health Service, and 01/19 does not name Hospital and Health Services in the way that clause 4.1(b)(ii) of 15/24 later did.
+
+I have looked at 01/19 itself, at HR Policy C38 - which lists the directives it relies on and does not list one on leave credited as service - and at the Agreement, and I have not found the link. If there is one, I would be grateful to be pointed to it.
+
+ONE DISTINCTION THAT MAY HELP
+
+Payroll's advice was that the excluded periods "affect the employee's continuous service".
+I think two separate things are in play.
+
+Whether my service is continuous is governed by the Act: section 94 of the Industrial
+Relations Act 2016 applies Part 4 to long service leave, and section 134(3) provides that
+continuity "is not broken by an absence, including through illness or injury - (a) on paid
+leave approved by the employer; or (b) on unpaid leave approved by the employer". Every one
+of the 103 leave without pay entries on my record is marked approved.
+
+Whether a period counts towards the qualifying period is the separate question, and that is
+what the directive table governs. My four questions go to that, not to continuity.
+
+Attached, two files:
+
+1. "Long service leave - the instruments", 39 pages, in six tabs. The first page is an index saying what each tab carries and at which page of the source document, and the file is bookmarked by tab:
+1 Industrial Relations Act 2016 - sections 90(2), 94 and 134(3)
+2 Hospital and Health Service General Employees (Queensland Health) Award - State 2015
+3 Queensland Public Health Sector Certified Agreement (No. 12) 2025
+4 HR Policy C38, Long Service Leave - in full
+5 Directive 10/24, Long Service Leave - in full
+6 HR Policy C13, Payment of salaries and wages - in full
+
+2. Directive 15/24, Leave without Salary Credited as Service, effective 30 September 2024.
+
+Kind regards,
+
+Cory Shepherd
+Administration Officer, Switchboard Services, Logan Hospital
+Employee number 388372
+
+________________________________
+From: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>
+Sent: Friday, September 4, 2026 2:29:54 pm
+To: Cory Shepherd <coryshepherd1@hotmail.com>
+Cc: Jacqui Roberts <Jacqui.Roberts@health.qld.gov.au>; Emily Petering <emily.petering@together.org.au>
+Subject: FW: URGENT: Cory Shepherd (388372) - ADHOC Request- LSL Date
+
+Good afternoon Cory,
+
+Please see below response and attachments regarding your Long Service Leave enquiry.
+
+Kind regards,
+Chloe
+
+Chloe Taylor
+Switchboard Manager | Local Telecommunications Representative | Switchboard Services
+Logan Hospital | Metro South | Queensland Health
+P
+(07) 2891 9190<tel:(07)%202891%209190>
+E
+chloe.taylor3@health.qld.gov.au
+W
+www.health.qld.gov.au
+A
+Level 2, Building 1, Cnr Loganlea and Armstrong Roads QLD 4131
+T
+Call me on Teams
+[Delivering for Queensland]
+[Facebook]
+[LinkedIn]
+[YouTube]
+[Instagram]
+
+From: PTS-Payroll.SPO.Meadowbrook <PTS-Payroll.SPO.Meadowbrook@health.qld.gov.au>
+Sent: Friday, 4 September 2026 1:53 PM
+To: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>
+Cc: Payroll Service Leader Metro South <Payroll.Service.Leader.MetroSouth@health.qld.gov.au>; Heidi Guzek <Heidi.Guzek@health.qld.gov.au>; Jordan Birch <Jordan.Birch@health.qld.gov.au>; Daniel French <Daniel.French@health.qld.gov.au>
+Subject: RE: URGENT: Cory Shepherd (388372) - ADHOC Request- LSL Date
+
+Hello Chloe,
+
+The employee commenced with Queensland Health on 25 March 2019. Based on their commencement date, their Long Service Leave eligibility date would ordinarily be 25 March 2026.
+
+However, the following periods of Leave Without Pay (LWOP) need to be excluded from the calculation, as they affect the employee’s continuous service:
+
+  * 18 May 2022 to 10 June 2022
+  * 21 June 2024 to 20 September 2024
+  * 13 December 2024 to 23 February 2025
+
+After excluding these LWOP periods, the corrected Long Service Leave eligibility date is 29 September 2026.
+
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+21/06/2024 - 21/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+22/06/2024 - 22/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+23/06/2024 - 23/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+26/06/2024 - 26/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+27/06/2024 - 27/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+28/06/2024 - 28/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+29/06/2024 - 29/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+30/06/2024 - 30/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+03/07/2024 - 03/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+04/07/2024 - 04/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+05/07/2024 - 05/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+06/07/2024 - 06/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+07/07/2024 - 07/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+10/07/2024 - 10/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+11/07/2024 - 11/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+12/07/2024 - 12/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/07/2024 - 13/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+14/07/2024 - 14/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+16/07/2024 - 16/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+17/07/2024 - 17/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+18/07/2024 - 18/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+19/07/2024 - 19/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+20/07/2024 - 20/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+24/07/2024 - 24/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+25/07/2024 - 25/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+26/07/2024 - 26/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+27/07/2024 - 27/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+28/07/2024 - 28/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+31/07/2024 - 31/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+01/08/2024 - 01/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+02/08/2024 - 02/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+03/08/2024 - 03/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+04/08/2024 - 04/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+07/08/2024 - 07/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+08/08/2024 - 08/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+09/08/2024 - 09/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+10/08/2024 - 10/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+11/08/2024 - 11/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/08/2024 - 13/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+14/08/2024 - 14/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+15/08/2024 - 15/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+16/08/2024 - 16/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+17/08/2024 - 17/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+21/08/2024 - 21/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+22/08/2024 - 22/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+23/08/2024 - 23/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+24/08/2024 - 24/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+25/08/2024 - 25/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+28/08/2024 - 28/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+29/08/2024 - 29/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+30/08/2024 - 30/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+31/08/2024 - 31/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+01/09/2024 - 01/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+03/09/2024 - 03/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+04/09/2024 - 04/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+05/09/2024 - 05/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+06/09/2024 - 06/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+09/09/2024 - 09/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+10/09/2024 - 10/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+11/09/2024 - 11/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+12/09/2024 - 12/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/09/2024 - 13/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+14/09/2024 - 14/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+17/09/2024 - 17/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+18/09/2024 - 18/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+19/09/2024 - 19/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+20/09/2024 - 20/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/12/2024 - 23/02/2025
+395.20
+APPROVED
+
+Thank you.
+
+Thanks,
+
+Grace Strachan (she)
+Senior Payroll Officer (Metro South Payroll Team Payroll Transactional Services, Coporate Enterprise Solutions, Corporate Services | Queensland Health)
+Metro South Payroll Team | Queensland Health
+P
+07 3608 5985<tel:07%203608%205985>
+E
+Grace.Strcahan@health.qld.gov.au
+W
+www.health.qld.gov.au
+[Delivering for Queensland]
+[Facebook]
+[LinkedIn]
+[YouTube]
+[Instagram]
+[Respect our staff]

@@ -427,3 +427,581 @@ point [08:37], the access-log method [13:38], patient safety [27:29], the emerge
 4. **Expect to build comprehension six times, and relapse in between.** The filters took six
    attempts across three minutes. **The Appellant's persistence is what earned the endorsement at
    [62:28] — not the clarity of any single attempt.**
+
+---
+
+## 20. ⭐⭐⭐ THE SILENCE MAP — WHAT THE PAUSES SHOW THAT THE RATE COULD NOT
+> 12 September 2026. Computed from `documents/transcripts/MENTION_7AUG2026_segments.jsonl`.
+> ⚠ **Method correction to §17.** §17 said the segments carry no word-level timings and that delivery
+> rate and articulation rate therefore could not be separated. **That is wrong.** All 1,068 segments
+> carry per-word start/end times (9,693 words). Delivery rate, articulation rate and pause structure
+> are all separable, and are separated below. §17's boundary finding survives; its caveat does not.
+
+### 20.1 The baseline
+65 minutes. **615 s of silence — 15.9% of the hearing.** Median inter-word gap 0.22 s; p90 1.18 s;
+p99 4.02 s. Whole-hearing delivery 2.50 w/s, **articulation 2.94 w/s**.
+
+### 20.2 ⭐⭐⭐ The four longest silences in the hearing are one event
+| Silence | At | Before it | After it |
+|---|---|---|---|
+| **25.58 s** | 25:01 | "A. Yeah, A to A, which is on form 29." | "This is the Form 29 file" |
+| **16.82 s** | 25:34 | "…the 22nd of April, 2025, 26, yeah." | "A, C, E, what's that a reference to?" |
+| **16.02 s** | 23:03 | "Where's that?" | "Manager, email, filters, that's what it would be" |
+| **15.80 s** | 25:58 | "A, B, C, D, E, which is number 10." | "manager email filters" |
+| 10.38 s | 22:14 | "Hand it up, please." | "What am I looking at?" |
+| 8.38 s | 21:16 | "…in respective directives." | "Where do I find that in your application?" |
+**Every one is the bench reading the two-page table handed up.** The stretch ends at seg 362:
+*"I still don't understand what filters"*.
+
+### 20.3 The silence is concentrated, and it is concentrated there
+Silence >0.5 s per 5-minute block: 20:00–25:00 **61.5 s**, 25:00–30:00 **88.4 s**. Every other block
+16–39 s. **One ten-minute window carries a quarter of all the silence in the hearing.**
+
+### 20.4 ⭐⭐ Articulation is near-flat; the variation is pausing
+| Passage | Words | Delivery | **Articulation** | Pause share |
+|---|---|---|---|---|
+| Handing up the table (316–331) | 117 | 1.92 | **3.20** | **40.1%** |
+| His own explanation of filters (337–346) | 77 | 2.22 | **2.56** | 13.5% |
+| "Let's just look at line 10" (347–356) | 124 | 2.49 | 2.94 | 15.2% |
+| "When I'm overloaded… miss the point" (299–313) | 104 | 3.01 | 3.18 | **5.3%** |
+| Run-up to the §17 boundary (420–429) | 64 | 2.91 | 3.09 | 5.9% |
+| After it (430–443) | 138 | 3.34 | **3.72** | 10.2% |
+| **Whole hearing** | 9,693 | 2.50 | 2.94 | 15.0% |
+⇒ Across the reading block, articulation is **normal or above** (3.20 v 2.94 mean). Nobody slowed
+down. **They stopped talking.** The "slow" passages of §17 are pause artefacts, not slow speech —
+**except** at the §17 boundary itself, where articulation also rises 3.09 → 3.72 (+20%). That part
+of §17 is a genuine change of speaking speed and survives the correction.
+
+### 20.5 ⭐⭐⭐ THE OPERATIVE FINDING — the most important thing he said was the most fluent
+*"when I'm overloaded with page after page after page after page of what looks like AI generated
+material I switch off … I'm a human being too Mr Shepherd and my brain doesn't process it … if you
+talk at me for two hours about something you can tell me in two minutes I'm going to miss the point."*
+**5.3% pause — the lowest of any passage measured, against a 15.0% baseline.** People pause while
+composing. He did not compose it. It came out whole.
+⇒ **It was not a reaction to Cory. It is a position he holds and has stated before.** Treat it as a
+standing instruction from the bench, not a rebuke on the day.
+⇒ ⛔ **And 18 minutes later the silence data shows it happening.** He said overload makes him miss
+the point; then he read a two-page table in 84 seconds of silence and said *"I still don't understand"*.
+
+### 20.6 The one that is about Cory, not Dwyer
+His own explanation of filters (337–346) is the **slowest articulation of any passage measured —
+2.56 w/s**, 13% below the hearing mean, with the analogy ("let's say Outlook… you put a word in") in
+the middle of it. He was speaking as carefully as he spoke all day **and it still did not land**.
+⇒ The failure was not delivery. It was that the explanation started from the mechanism instead of the
+purpose. Rule 1 (§5) — operative clause first — is the fix, and this is the proof of it.
+
+### 20.7 The limit
+Pause structure shows *whether someone is reading, composing, or disposing*. It does not show mood,
+and it never becomes evidence. Its whole use is calibrating Cory's own delivery and knowing when the
+bench has stopped listening. ⛔ Never on paper, never to the Regulator.
+
+---
+
+## 21. ⭐⭐⭐ THE TWO MEN COMPARED — MEASURED, AND THREE EARLIER CLAIMS CORRECTED
+> 12 September 2026. Speaker labels from `TRANSCRIPT_diarised_prosody.md` mapped onto the word-level
+> timings in `MENTION_7AUG2026_segments.jsonl` (9,693 words, 189 contiguous turns). My mapping
+> reproduces the file's own share figures (862/203/3 segments v its 846/219/3), so the mapping is sound.
+> ⚠ Labels are inferential at a stated 90% on hand-checked anchors. Everything below is a tendency, not a certainty.
+
+### 21.1 The floor
+| | Dwyer | Shepherd |
+|---|---|---|
+| Share of talk time | **86.2%** | **13.6%** |
+| Words | 8,362 | 1,314 |
+| Words per turn | **89.0** | **14.3** |
+| Turns containing a question | **70%** (66/94) | 15% (14/92) |
+⇒ In his own disclosure application the Appellant spoke for **7 minutes 46 seconds of 65**. He was not
+running the application; he was being examined about it.
+
+### 21.2 ⛔ CORRECTION 1 — "slow to react" is not in the data
+Median gap before the reply begins: **Shepherd answering Dwyer 0.38 s; Dwyer answering Shepherd 0.33 s.**
+Indistinguishable. His p90 is longer (1.72 s v 1.20 s) — he takes an extra beat perhaps one time in ten —
+but there is **no response-latency deficit**. Any account of him as slow to answer is wrong.
+
+### 21.3 ⛔ CORRECTION 2 — the two men articulate at the same speed
+**Shepherd 2.94 w/s; Dwyer 2.98 w/s.** Identical. Every apparent difference of "pace" anywhere in this
+file is **pausing**, not speaking speed (see §20.4).
+
+### 21.4 ⚠ CORRECTION 3 — §3's subordination claim needs qualifying
+Per 100 words: subordinators **Shepherd 1.67, Dwyer 1.71** — the same. Coordinators **6.24 v 5.55**.
+⇒ He does **not** subordinate less than the bench. He coordinates *more*.
+⚠ **But the comparison is weak**: his turns are one-sixth as long (14.3 v 89.0 words), and a 14-word turn
+has little room to complete a subordinate structure. The defensible finding is narrower than §3 stated:
+**not that he cannot subordinate, but that his turns end before the subordination lands.**
+What does survive, and strongly: **self-repair markers — Shepherd 0.91 per 100 words, Dwyer 0.39. 2.3×.**
+That is the measurable trace of the abandonment §3 described.
+
+### 21.5 ⭐⭐⭐ THE OPERATIVE FINDING — WHO SPEAKS IN SYSTEMS AND WHO SPEAKS IN ITEMS
+Per 100 words:
+| | system nouns¹ | instance nouns² | **ratio** |
+|---|---|---|---|
+| **Dwyer** | 0.20 | 0.86 | **0.24** |
+| **Shepherd** | 0.08 | **1.60** | **0.05** |
+¹ process, system, procedure, framework, structure, policy, practice, mechanism, principle, rule, onus,
+standard, proportionate, equitable, consultation. ² email, call, shift, roster, page, entry, document,
+letter, number, attachment, form.
+⇒ **Dwyer speaks in processes at nearly five times the Appellant's rate. The Appellant speaks in items at
+nearly twice the bench's.** They are working the same problem at two different altitudes.
+⛔ **This is not a comprehension deficit.** His written work is the most systemic material in the file
+(the Form 24 architecture, the instruments chain, the M-tab schedule). **He sees the system on paper and
+answers in instances aloud.** The gap is the buffer, exactly as §12 said — but §21 locates it: it is not
+that he reasons less abstractly under load, it is that **the retrieved unit is the instance**.
+⭐ **The filters exchange is the whole finding in miniature.** Dwyer: *"What does filters mean?"* — a
+request for the **category**. Shepherd answers with the **instance**: *"you go into… let's say Outlook…
+and you put a word in."* He is then at 2.56 w/s, his most careful articulation of the day (§20.6), and it
+does not land. **The care was never the problem. The altitude was.**
+⇒ **THE RULE THIS YIELDS:** when the bench asks what something *means*, answer with the **class and its
+purpose in one sentence**, then offer the instance only if invited. *"Filters are a search of the mailbox
+for a phrase. I want the count of emails containing 'effective immediately'."* Category, purpose, then example.
+
+### 21.6 ⛔ MISATTRIBUTIONS IDENTIFIED — FIVE, ALL IN SHORT TURNS, AS THE FILE PREDICTED
+| Seg | Labelled | Should be | Why |
+|---|---|---|---|
+| **1008** "No." | MR SHEPHERD | **MS MATHESON** | Answers *"anything arising out of all of that, Ms Matheson? Have I misrepresented your role… that you're not prepared to accept?"* |
+| **627–628** "I do believe we have those, and I do believe we've disclosed them." | MR SHEPHERD | **MS MATHESON** | Answers *"Ms. Matheson, have you got that email?"*; seg 626 is already hers; **"we've disclosed them" is the Regulator's voice**, not the Appellant's |
+| **231/232** "There has been some emails… but I have to probably / consider that." | SHEPHERD / DWYER | **one speaker** | A single clause split across two labels. Whoever said it, it cannot be two people |
+| **623** "All right." | MR SHEPHERD | probably **DWYER** | Acknowledgement closing his own question at 624 |
+| **1009** "All right." | MR SHEPHERD | probably **DWYER** | Same pattern, immediately before he turns to Ms Ruttan |
+⇒ **Ms Matheson spoke at least five times, not three.** The share table understates her and overstates the
+Appellant by roughly 30 words.
+⭐ **Updated 15 Sep 2026: the final verified figure is nine** — segs 627, 628, 633, 634, 635, 1008 were
+reattributed to her, giving **Dwyer 852 / Shepherd 209 / Matheson 9** across 1,070 rows. Full ledger at
+`documents/transcripts/MENTION-7AUG2026-FIX-LEDGER.md`. ⛔ No conflict was found anywhere between content markers and labels on the
+**long** turns (0 of 1,068 segments), so the substantive analysis above is unaffected.
+⚠ Ms Ruttan: addressed once (*"And Ms. Rutland, any?"*, seg 1010, the name mis-transcribed) and **no answer
+is on the tape**. The 0.0% share appears correct.
+
+---
+
+## 22. ⭐⭐⭐ WHAT DISRUPTED THE COMMISSIONER — ONE TOPIC, TWICE, AND IT IS THE ANSWER TO THE OUTLINE QUESTION
+> 12 September 2026. Reply-latency and repair analysis over the 92 turns where Dwyer answered Shepherd.
+> Baseline: **median pause before his reply 0.39 s; p90 1.98 s.**
+
+### 22.1 Only one pause is unexplained
+The two longer gaps before a Dwyer reply (25.58 s, 15.80 s) are both him **reading the handed-up table**
+(§20.2), and the 4.14 s at 34:38 is him **reading the pleading aloud**. Strip the reading and **one pause
+is left, and it is the largest: 5.74 s at 29:39** — fifteen times his median.
+
+### 22.2 What produced it
+Immediately before (segs 420–429), the Appellant:
+> *"direct calls to this number / but this number is an emergency contact / and then those doctors / the
+> ones that get called for an emergency / **they're sent to the wrong side of the room** / **they're not
+> sent to someone having a cardiac arrest** / **they're not sent to someone in respiratory distress** /
+> we're now not even contacting them by their numbers."*
+
+**5.74 s of silence.** Then (seg 430): *"It's going to move on for a moment, okay? Because after my speech
+about efficiency of conduct of proceedings, **I'm concerned at the direction this is going in, Mr Shepherd.**"*
+— a 471-word turn at **3.74 w/s, his fastest articulation measured anywhere** (mean 2.98).
+
+### 22.3 ⭐⭐⭐ AND SEVEN SECONDS INTO THAT TURN HE BREAKS OFF TO SAY IT LANDED
+> **Seg 437: *"I actually understand what you're getting at."***
+Mid-intervention, unprompted, between *"a more cohesive and cooperative approach with the parties"* and
+*"If we can't get to that, I'm going to schedule this disclosure dispute for a hearing."*
+**"Actually" is the whole word.** It marks a move from not-following to following.
+
+### 22.4 ⭐⭐ WHAT HE HAD JUST BEEN SAYING — AND WHY THE ANSWER WORKED
+The run-up (segs 404–412) is Dwyer putting the central criticism, and §17 measured these as **his three
+slowest segments of the entire hearing** (1.33, 1.72, 1.90 w/s — 1.7th, 6.4th and 9.9th percentile):
+> *"the argument might be about whether or not they're **correctly categorised by you** as unassessed
+> directives made without consultation… **you've placed subjectively a characterisation on these emails**"*
+⇒ He was slowly, deliberately telling the Appellant that **his case was characterisation**.
+⇒ The Appellant answered not with more characterisation but with **consequence**: the wrong room, the
+cardiac arrest, the respiratory distress.
+⇒ **That is what produced the 5.74 s and "I actually understand what you're getting at."**
+⭐⭐⭐ **THE FINDING: the one thing said all day that visibly moved the bench was an operational
+consequence stated without an adjective.** Not a characterisation, not a document, not a submission.
+
+### 22.5 The same topic had been deflected eight minutes earlier
+At 27:32, on patient safety: *"If you think it's in a patient safety environment you can raise that.
+**Anyway, let's not get into the case.**"* — one of his four most repair-heavy replies.
+⇒ **Twice the same topic broke his procedural line; twice he moved away from it.** ⚠ Read that as a
+statement about **forum, not merit** — it was a disclosure mention and he was steering back to procedure.
+The point was strong enough to derail a procedural hearing, which is precisely why it belongs **in evidence**.
+
+### 22.6 The honest alternative, and why I do not prefer it
+*"I actually understand what you're getting at"* could be courtesy before a redirect. ⚠ Against that:
+**courtesy does not take 5.74 seconds to formulate**, it is his longest non-reading pause of the hearing,
+and the register change §17 measured at exactly this boundary is real (articulation 3.09 → 3.72). Something
+was processed in that silence.
+
+### 22.7 ⇒ WHAT THIS DECIDES FOR THE OUTLINE
+Cory's own instruction — *"what the documents say and what was said and how each event affected the
+workplace"* — **is the structure that worked in that room, tested live.** It is also the answer to the
+Regulator's letter of 8 September: an operational consequence is neither a statement in a document whose
+truth can be reserved, nor management action s 32(5) can reach. ⭐ **Document → what was said → what it did
+in the department. Three moves, no adjective.** The transcript is the proof that the third move is the one
+that lands.
+
+---
+
+## 23. ⛔⛔ CORRECTION TO §22 — SEGMENT 437 IS THE APPELLANT, NOT THE BENCH. §22.3 IS WITHDRAWN.
+> 12 September 2026, on Cory's first-hand correction: **"segment 437 is me."** He was in the room. I was
+> reading an inferential diarisation whose own stated failure mode is short interjections inside long runs.
+
+### 23.1 The grammar settles it independently
+Dwyer's sentence runs **432 → 436 → 438 → 439** as one structure:
+> *"if you can't get yourself to a point where you're satisfied with the approach, a different approach or
+> a more practical approach, or a more cohesive and cooperative approach **with the parties that are sitting
+> at the other end of the table.** … **If we can't get to that,** I'm going to schedule this disclosure
+> dispute for a hearing."*
+**Seg 437 is spliced into the middle of it**, opens with the appellant backchannel *"Yeah,"*, and is 8 words
+inside a 471-word run. Seg **440** *"Yeah."* three lines later is the same error.
+⇒ ⛔ **§22.3 is wrong and is withdrawn in full.** *"I actually understand what you're getting at"* is
+**Cory accepting the Commissioner's criticism on the spot**, not the Commissioner conceding a point.
+
+### 23.2 ⛔ A SIXTH MISATTRIBUTION CLASS, on top of §21.6's five
+The diariser assigns **backchannels to whoever holds the floor**. Bare acknowledgements sitting inside long
+Dwyer runs: segs **440, 620, 673, 792, 908** — plus **437**, which is not bare and therefore was not caught
+by the same test. **Eleven misattributions now identified.** All inflate Dwyer's share and all are of the
+same kind: **the listener's voice absorbed into the speaker's turn.**
+⚠ **Standing caution for every future pass on this tape: a short acknowledgement inside a long run is the
+other person, until proved otherwise.**
+
+### 23.3 What survives of §22, and what it now means
+Unaffected: the **5.74 s** pause is real and is still the longest gap before any Dwyer reply not explained
+by him reading a document; the patient-safety passage immediately precedes it; *"I'm concerned at the
+direction this is going in"* is real; the register change at that boundary (§17, §20.4) is real; the
+27:32 deflection (*"Anyway, let's not get into the case"*) is real.
+⛔ **Gone: any basis for saying the bench acknowledged the point.** The 5.74 s is now better read as
+**Dwyer deciding how to stop a line**, not absorbing one.
+
+### 23.4 ⭐⭐ AND CORY'S OWN ACCOUNT CHANGES THE LESSON — FOR THE BETTER
+His account: *the first time he was able to explain the doctors was that passage, it was answering what
+Dwyer had said earlier, and by then the moment had passed.*
+⇒ The patient-safety answer was **the right answer to a question that had already closed.** Dwyer had put
+the characterisation criticism at 404–412 (his three slowest segments of the hearing). The answer arrived at
+420–429 — **after he had moved on.**
+⭐ **The lesson is therefore not "consequence lands" but: consequence lands only while the question is still
+open.** The content was right. The timing was eight to fifteen seconds late, and at that distance a correct
+answer reads as a new topic and gets stopped.
+⇒ **THE RULE FOR THE BOX:** when a proposition is put — *"you've placed subjectively a characterisation on
+these emails"* — the consequence must come **in the very next breath**, not after the exchange has turned.
+*"No. The consequence was that a MET call went to the wrong ward."* One sentence, immediately.
+⭐ And note what he did when stopped: **seg 437 — he took the correction instantly and said so.** That is a
+credit point and it is in the transcript.
+
+---
+
+## 24. ⭐⭐⭐ HOW MANY THREADS EACH MAN HOLDS IN ONE SPEAKING MOMENT — AND THE INVERSION
+> 12 September 2026. Clause counts over 171 turns of 3+ words, **with the §23 corrections applied.**
+> A "thread" = one clause, i.e. one proposition the listener must hold open. Counted on clause markers
+> and terminal punctuation. ⚠ Whisper punctuation is automatic, so treat the absolute numbers as
+> comparative, not exact. The *ratios* are robust.
+
+### 24.1 Per turn — Dwyer holds twice as many
+| | Dwyer | Shepherd |
+|---|---|---|
+| Words per turn | 86.1 | 17.3 |
+| **Clauses per turn, median** | **8** | **4** |
+| p75 / p90 / max | 20 / 37 / **132** | 6 / 9 / **27** |
+| Turns carrying 8+ clauses | **54%** | 15% |
+| Turns ending unresolved (no terminal stop) | 14% | **22%** |
+| Distinct referents per turn (max) | 1.8 (7) | 0.5 (3) |
+
+### 24.2 ⭐⭐⭐ PER WORD AND PER SECOND, IT REVERSES — AND THIS IS THE FINDING
+| | Dwyer | Shepherd |
+|---|---|---|
+| **Words per clause** | **5.44** | **3.35** |
+| **Clauses per 100 words** | 18.4 | **29.8** |
+| **Seconds per proposition** | **2.09 s** | **1.25 s** |
+| **Propositions per 10 seconds** | **4.8** | **8.0** |
+⇒ **The Appellant is not holding fewer ideas. He is holding them 62% more densely and delivering them
+67% faster.** Both men articulate at the same speed (§21.3, 2.94 v 2.98 w/s) — so this is not talking
+faster. **The same number of words is carrying nearly twice as many separate ideas.**
+
+### 24.3 What that does to context and comprehension
+A listener builds context by holding one proposition open long enough to attach the next to it.
+**At 2.09 s per proposition there is room to do that. At 1.25 s there is not.**
+And at **3.35 words per clause** there is barely room to name a thing and predicate something of it —
+**no room left for the connective that says how it relates to the one before.** Hence the coordinator
+surplus (§21.4): *"and… and… but…"* signals *another one* without saying *how it fits*.
+⇒ **The bench receives a fast list and has to build the structure itself.** That is exactly why Dwyer's
+method is to restate and invite correction (§16) — *"Is that what you're saying?"* He is reconstructing
+the frame the speech did not supply.
+⇒ It also explains §21.5. **At 3.35 words you get the abstraction or the instance, not both.** He gives
+the instance, because it is the half that carries the content.
+⇒ And it is precisely what Dwyer complained of: *"my brain doesn't process it… I miss the point."*
+**His objection was density, not volume.**
+
+### 24.4 ⚠ THIS REFINES RULE 2 OF §5 — AND PARTLY CORRECTS IT
+§5 Rule 2 says *"Short flat sentences joined by full stops."* ⚠ **His clauses are already short — 3.35
+words, 38% shorter than the bench's.** Read as "say more, shorter things", Rule 2 makes the problem worse.
+⭐ **The correct rule is the opposite of what it appears to be: FEWER propositions, each LONGER and
+complete, with a pause between.** Target the bench's own shape — **about 5.5 words per clause, one new
+idea every 2 seconds.** Not faster, not shorter. **Slower arrival, fuller units.**
+⇒ **Practical test in the box: if you have said three separate things and not yet stopped, you have
+already passed the point at which he is building the structure for you.** Stop. Let him ask.
+
+---
+
+## 25. ⭐⭐⭐ READING THE COMMISSIONER FROM HIS OWN SPEECH — THE METHOD, AND WHERE IT COMES FROM
+> 12 September 2026. 8,324 Dwyer words, §23 corrections applied. Rates per 100 words.
+
+### 25.1 The opening is the whole method in 2½ minutes — and he asked NOTHING in it
+**First tenth of the hearing: 61 segments, 0 questions.** Eight moves, in order:
+1. **The principle** — *"the efficient administration of justice, which is an overriding consideration that I've got my eye on."*
+2. **What it means in practice** — *"that involves me directing certain things to happen or declining to allow certain things to happen."*
+3. **The general problem, stated generally** — *"a tendency to proliferate interlocutory disputes… Disclosure disputes can oftentimes be exactly that."*
+4. ⭐ **The criticism, disclaimed before it lands** — *"**Without specifically being critical of the matters that you are pursuing**, in broad terms, there are a number of aspects to the application that you brought that I think are potentially going to impact on the efficiency."*
+5. **His objective for the day** — *"a different approach that will leave you satisfied that you are not in any way at all compromised."*
+6. ⭐⭐ **Alignment with the self-represented party's own goal** — *"which I would assume is your objective… **and I want that for you too**."*
+7. **Widening to the public interest** — *"and I want that for the people of Queensland who are resourcing these proceedings."*
+8. **The reset** — *"I just want to take it back to first principles okay."*
+⇒ **This is a practised set-piece**, not improvisation. It is what an experienced member says to a
+self-represented litigant whose application is the problem, and it is built so that every later
+correction is already licensed by it.
+
+### 25.2 ⭐⭐ HE LAYS A FRAME AND RETURNS TO IT TO CLOSE THINGS DOWN
+At 29:39, the intervention opens: *"**Because after my speech about efficiency of conduct of
+proceedings**, I'm concerned at the direction this is going in."*
+⇒ **He invoked his own opening to stop a line.** The frame laid in the first two minutes is the
+standard everything is measured against for the remaining sixty-three.
+⭐ **Operative for Cory: the opening is the test he will apply all day. Listen to it, write down the
+standard, and answer to that standard.**
+
+### 25.3 What he does per 100 words
+| Habit | Rate | Reading |
+|---|---|---|
+| **Floor management** (*okay, all right, anyway, look, now, so, first of all*) | **0.96** | **8× anything else — the single most characteristic feature of his speech.** He punctuates constantly and uses it to open, close and redirect |
+| Procedural direction (*I'm going to, what I want to do, I'll schedule*) | 0.25 | |
+| **Teaching the law** (*the onus, witness box, cross-examine, you don't need*) | **0.23** | ⭐ **He explains the law almost as much as he directs procedure.** At a mention. That is a choice |
+| Concession / softening (*I'm not being critical, I'm not picking on you, with respect*) | 0.13 | ⚠ **A tell. When it appears, the criticism is arriving** — 11 times |
+| Invoking his own experience (*in my experience, back in my day, if I was presiding*) | 0.12 | He grounds rulings in practice, not authority |
+| Hypothetical staging (*let's just pretend, say you, for instance*) | 0.08 | Teaches by simulation — *"you're here in the witness box and you say…"* |
+| **Restate-and-check** (*is that what you're saying, do you say*) | **0.11 — only 9 times** | ⚠ **Corrects §16.** It is a signature move, not a constant one. It appears when he has stopped following |
+
+### 25.4 The question arc — he frames first, then inquires
+Questions as a share of his segments, by tenth: **0% → 5% → 21% → 19% → 7% → 19% → 17% → 22% → 17% → 13%.**
+⇒ Nothing for the first 6½ minutes; then a sustained ~20% for the rest. **The dip to 7% is the long
+teaching stretch immediately after the 29:39 intervention** — he stopped asking and started explaining.
+
+### 25.5 ⛔ THE ONE PHRASE HE COULD NOT LEAVE ALONE
+His only content trigram used ≥9 times, besides *"the health service"* (14) and *"I'm going to"* (9):
+> **"unassessed unilateral directives" — 9 times.**
+He repeated the Appellant's **own pleaded phrase** nine times in 65 minutes, and the three slowest
+segments of the entire hearing are him taking it apart (§17, §22.4): *"you've placed subjectively a
+characterisation on these emails."*
+⇒ ⭐⭐⭐ **When a member repeats your own words back nine times, the words are the problem.** That is a
+direct instruction to change the pleading, and it is the strongest support in the tape for the
+Second Amended 9A stripping the characterisation vocabulary.
+
+---
+
+## 26. ⭐⭐⭐ THE COMMISSIONER'S RHYTHM AT THE POINTS OF INTERRUPTION
+
+**26.0 Method, and three limits stated first.** The audio (`PRF0466309_20260807_QIRCOIR_Brisbane`)
+is **no longer in the session** — the container was recycled on 12 September. This section is
+therefore built from `documents/transcripts/MENTION_7AUG2026_segments.jsonl`, which preserves the
+Whisper word-level timestamps, with per-segment speaker labels reconstructed from the turn headers
+in `TRANSCRIPT_diarised_prosody.md` (so the §23 corrections are carried in). Three limits:
+
+1. **No new pitch or intensity.** F0 and dB cannot be recomputed without the audio. The `↑st`,
+   `wide`, `quieter` markers in the transcript are from the earlier Praat pass and are not re-derived
+   here. This is a **rhythm** analysis only.
+2. **Overlap cannot be proved.** Whisper transcribes a single stream; genuine simultaneous speech is
+   largely lost. A handover gap of +0.00 s means the segmenter placed the turns **adjacent with no
+   measurable pause** (latching). It is not evidence of acoustic talk-over.
+3. **Labels remain inferential** (90% on hand-checked anchors). Interjections under four words are
+   the weakest category and are reported separately and marked low confidence.
+
+Articulation rate throughout = words ÷ speaking time, counting inter-word gaps only up to 0.15 s.
+
+**26.1 Baselines.** DWYER **2.95 w/s** over 8,343 words. SHEPHERD **2.90 w/s** over 1,333 words.
+98 D→S handovers, 100 S→D. Median handover gap +0.32 s (D→S) and +0.36 s (S→D).
+
+**26.2 ⭐ The interruptions land on his fast stretches, not his slow ones.**
+
+| Dwyer's rate in the segment he hands over in | w/s |
+|---|---|
+| baseline (all his speech) | 2.95 |
+| when the Appellant waits > 0.5 s (n=27) | 3.58 |
+| when the Appellant comes straight in (n=70) | **3.89** |
+| the seven mid-clause cuts with ≥ 4 words in (n=7) | 3.71 (median 3.80) |
+
+He is not interrupted while deliberating. He is interrupted while accelerating. Fastest immediately
+before a handover: **6.85 w/s** (51:24), **6.35** (40:13, *"Is it in the form of an email?"*),
+**5.10** (21:29), **4.90** (27:59).
+
+**26.3 ⭐ He absorbs an interruption by slowing, not by stopping.** After a mid-clause cut he resumes
+at **3.15 w/s**, down from the 3.71 he was cut from, and the **median silence before resuming is
+0.12 s**. On latched handovers the drop is steeper: 4.16 → 3.38. No regrouping pause. This is a
+practised floor-management habit and is consistent with §25.3 (floor management 0.96 per 100 words,
+eight times any other habit).
+
+**26.4 He abandons the interrupted sentence in five of seven cases.** At 37:16 he is mid-question —
+*"Did Miss Tammy Rees do that in an email or a letter?"* — is answered, and proceeds directly to
+*"Disparate treatment and statutory leave obstruction, COVID."* The stressor walk resumes; the
+question is dropped.
+
+**26.5 ⭐⭐ The exception, and it is the tell.** At **27:59** he is building the hypothetical —
+*"she just kept sending these emails through saying"* — and the Appellant supplies *"effective
+immediately we're going to do this, effective immediately we're going to do that."* He then takes
+**1.18 s**, ten times his median recovery and the longest in the set, before returning at 3.03 w/s
+with *"You can say that."* The one place the Appellant completed his sentence for him, and got the
+wording right, is the one place his rhythm breaks. Fact 51, admitted, reads: *"This new process is
+effective from today."*
+
+**26.6 ⭐⭐ Where the bench came in over the Appellant.** Ten mid-clause entries with no measurable
+pause, mean **3.27 w/s (+0.32 over baseline)**. The two fastest:
+
+- **5.41 w/s at 26:29** — *"A through to E."* Keeping the stressor walk moving.
+- **4.69 w/s at 27:32** — APPELLANT: *"…patient safety environment that they —"* / DWYER: *"If you
+  think it's in a patient safety environment you can raise that. Anyway, let's not get into the
+  case."*
+
+That is his fastest substantive entry over the Appellant in 64 minutes, and it lands on the
+patient-safety sentence. Two minutes later the same point is given in full at 29:17 and is followed
+by the **5.74 s** silence recorded at §22 — the only long pause on the tape that reading a handed-up
+document does not explain. ⇒ **Two opposite rhythm signatures on one topic: fastest in, then longest
+quiet.** This is the third independent measure pointing at the same place (§22, §25.5, §26.6), and it
+is why the safety consequence must reach the Commission as a document rather than as a submission.
+
+**26.7 The only completed clause.** At 51:26 — APPELLANT: *"That's what me and my colleagues over a
+six week —"* / DWYER: *"period. Over a six week period."* The only point in the hearing at which
+either man finishes the other's sentence, and it is the bench finishing the Appellant's.
+
+**26.8 What cannot be answered without the audio.** Whether the fast entries at 26:29 and 27:32 were
+also louder or higher in pitch. If the recording is restored to a session, re-run Praat over those
+two entries and over 27:59 and 29:17; that is the single highest-value remaining measurement.
+
+---
+
+## 27. ⭐⭐⭐ WHAT THE BENCH WAS ACTUALLY DOING — AND WHY THE APPELLANT WAS NOT SLOW
+
+> 12 September 2026. Recorded at the Appellant's correction of an assessment made in conversation.
+
+**27.1 ⛔ Correction.** It was said in conversation that the frame was laid "before he knew what the
+application contained." **That is wrong**, and it contradicts a quotation already in §25.1. The tape
+shows the bench had read the material before he opened:
+
+- His own fourth move: *"there are a number of aspects to **the application that you brought** that I
+  think are potentially going to impact on the efficiency."*
+- He reads the Form 9A stressors aloud verbatim, one by one, from A to G.
+- *"I see a very comprehensive objection"* — Metro South Health's letter of 5 June 2026, which
+  admitted fact 263 records was **addressed to Commissioner Dwyer**.
+- *"I'm not sure that these documents form part of your non-party disclosure from recollection."*
+
+The frame was laid **after** reading and **before engaging on the record**. That is a different
+thing, and the difference matters.
+
+**27.2 ⭐⭐ The better reading: a three-cornered problem, solved without an order.** He was holding
+three things at once — a non-party facing what he called *"quite an imposition"*; a self-represented
+appellant whose application would consume the matter; and an appeal he wanted left intact. The route
+he chose delivered all three: MSH out without a ruling, no adverse order against the Appellant,
+nothing about that hour on the record, and the appeal running.
+
+**27.3 ⭐⭐⭐ And it produced more than the order would have.** The redirect — *ask the Regulator
+first* — ran:
+
+| | |
+|---|---|
+| 11 Aug 2026 | Stressor 1(a) particulars bundle, 30 pages, six tabs (admitted, fact 282) |
+| 28 Aug 2026 | Form 24, 303 paragraphs |
+| 8 Sep 2026 | **298 admitted, 5 not admitted, 0 denied** |
+
+Most of Metro South Health's material arrived from the Regulator, without compelling a non-party.
+
+**27.4 The one cost, and it is exactly one.** Paragraphs **228 to 231** — the 2024 Emergency Code
+Register for 17 to 19 March 2024 — are four of the five not admitted. That is the item the non-party
+route would have compelled. It is the single outstanding item on 25 September 2026. ⇒ **The redirect
+cost one document, and it is the one still being chased.**
+
+**27.5 ⭐⭐ The Appellant was not slow to catch it.** The mention of 7 August 2026 was **listed as the
+hearing of the rule 64G application**. He came to argue disclosure because disclosure was the listed
+question. The bench changed the question inside the first 6½ minutes **without announcing it**, and
+the measurement of that is §25.1: 61 segments, **zero questions**. A reframe that has not been put
+cannot be answered. Substantive engagement with the new question begins about 16:00 and lands by
+18:31 — *"Have you asked them to produce the unassessed unilateral directives?" / "Not those specific
+things, no."* **Twelve minutes to identify an unannounced change of question, first mention,
+unrepresented.**
+
+**27.6 ⭐⭐⭐ THE TRANSFERABLE TELL.** A member who speaks for six minutes without asking anything has
+already decided. From that point the hearing is about **their** frame, not the listed question. The
+move on spotting it is one sentence:
+
+> *"Commissioner, am I right that you'd prefer I take this up with the Regulator before pressing the
+> application today?"*
+
+That converts twelve minutes of catching up into a single question, and puts the party in front of
+the redirect instead of behind it. ⭐ **Watch the question rate in the first tenth. Zero means the
+frame is already set.**
+
+---
+
+## 28. ⭐⭐⭐ THE DENSITY INVERSION, MEASURED PROPERLY — AND A CORRECTION TO §24
+
+> 12 September 2026. Recomputed from `/tmp` segment data with speaker labels reconstructed from the
+> corrected transcript. Unit = split on terminal punctuation and on comma + coordinator; units of
+> fewer than two words discarded. Absolute values are method-dependent; the ratios are not.
+
+**28.1 Subordination per word is identical.** DWYER **6.01** subordinators per 100 words; SHEPHERD
+**6.09**. ⇒ Neither man's speech is more grammatically complex per word. Any explanation resting on
+"the bench speaks in more complex sentences" is wrong.
+
+**28.2 ⭐ But per unit the bench subordinates 1.65× as much.**
+
+| | words/unit | subordinators per unit |
+|---|---|---|
+| DWYER | 15.07 | **0.91** |
+| SHEPHERD | 9.11 | **0.55** |
+
+His typical unit is built around a subordinate clause — *"the way in which you prove this, if you
+were going to prove this, is you would give evidence…"* The Appellant's are mostly simple
+declaratives in sequence. ⇒ The difference is **packaging, not complexity**.
+
+**28.3 ⛔ About a third of the raw gap is a turn-length artefact.** Mean segment length: DWYER 9.8
+words, SHEPHERD 6.1. Short turns force short units. Controlling for it — segments of ≤10 words only,
+where most of both men's words sit:
+
+| | words/unit | subordinators/100w |
+|---|---|---|
+| DWYER short segments | 11.71 | 5.83 |
+| SHEPHERD short segments | 8.05 | 5.87 |
+
+Gap falls from 1.65× to **1.45×**. Real, but smaller than the raw figure. The Appellant has **no
+segment of 25 words or more in the entire hearing**.
+
+**28.4 ⛔ CORRECTION TO §24.** The propositional rate advantage is **~1.6×, not 2×**. At equal
+articulation (2.90 v 2.95 w/s) the Appellant delivers a unit every **3.26 s** against the bench's
+**5.14 s**. §24's 1.25 s v 2.09 s is the same ratio; any statement of "twice as much" overstates it.
+
+**28.5 What it is.** Short declarative units, one fact each, minimal embedding, normal speed — the
+register of **operational communication**: switchboard, dispatch, clinical handover, radio. Long
+subordinated units fail under noise and interruption, so that register drops them. It is also the
+register of answering rather than building; the Appellant answered 98 times.
+
+**28.6 ⭐⭐ Strength in the box, liability in submissions.** Eight-word declaratives are checkable,
+hard to mischaracterise and hard to trap — the opposite of the vocabulary the bench spent nine
+repetitions dismantling (§25.5). But the load is not parsing, it is **integration**. **29:17** is the proof: nine
+propositions in under thirty seconds, every one now an admitted fact or supported by one, and no
+connective tissue — no *which is why the emergency response was delayed*, no *and that is a condition
+of the work, not a decision taken against me*. The bench had to do the joining, did not, and after
+5.74 s moved on (§22, §26.6).
+
+⇒ ⭐⭐⭐ **Do not slow the delivery — it is what makes him a good witness.** Put the joining where it
+cannot be lost: one connective sentence after a dense run, or a document whose layout does the
+linking. That is the design principle behind the role and stressor overlays — duty above, failure
+below, the join made by the page rather than by the listener.
+
+**28.7 ⛔ CORRECTION TO 28.6 — it is not a register mismatch with the bench.** It was first written
+that the difficulty arises because "a tribunal reasons in long units." That is wrong, and the
+Appellant identified why. **Speech rate is normal — 2.90 w/s against 2.95.** Nobody in the room was
+speaking fast. What is fast is the **information rate**, and the two men are hard to follow in
+different places:
+
+| | parsing load | linking load |
+|---|---|---|
+| DWYER | **high** — 15-word units, 0.91 subordinators each | **low** — the subordinators state the relations; floor markers flag every turn |
+| SHEPHERD | **low** — 9-word declaratives, little embedding | **high** — a proposition every 3.26 s, 0.55 subordinators per unit, relations unstated |
+
+⇒ Short sentences are easy to parse and easy to mistake for easy. The listener must **store and
+infer** at 1.6× the rate, with the relations left implicit — and **inferring an unstated relation
+requires holding the domain**. Another Switchboard operator links *"sent to the wrong side of the
+room" → "not sent to someone having a cardiac arrest"* instantly, because they know what a misrouted
+code page does. A member of the public cannot. A Commissioner cannot. The relation is obvious from
+inside the console and invisible from outside it.
+
+⇒ ⭐⭐⭐ **The deficit is stated relations, not pace and not sentence length.** Both of those are
+already correct and changing either would cost the witness his strengths. One connective per dense
+run — *because*, *so*, *which means* — converts the same nine propositions into a chain, and costs
+about a second.

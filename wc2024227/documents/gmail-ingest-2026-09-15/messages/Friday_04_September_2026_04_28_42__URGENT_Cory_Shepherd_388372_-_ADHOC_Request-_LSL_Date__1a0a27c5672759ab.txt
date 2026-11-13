@@ -1,0 +1,626 @@
+GMAIL_ID: 1a0a27c5672759ab
+THREAD: 1a0a2769814a1816
+FORWARDED: 2026-09-15T00:33:55Z
+ORIG_FOLDER: Inbox
+ORIG_FROM: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>
+ORIG_SENT: Friday, 04 September 2026 04:28:42
+ORIG_TO: Cory Shepherd <coryshepherd1@
+SUBJECT: URGENT: Cory Shepherd (388372) - ADHOC Request- LSL Date
+ATTACHMENTS: image008.png (image/png,?); image009.png (image/png,?); image001.png (image/png,?); image002.png (image/png,?); image003.png (image/png,?); image004.png (image/png,?); image005.png (image/png,?); image006.png (image/png,?); Leave Takings.1.xlsx (application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,?); LSL audit.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document,?)
+==============================================================================
+Historic case-file copy from coryshepherd1@hotmail.com (Inbox).
+________________________________
+From: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>
+Sent: Friday, 04 September 2026 04:28:42
+To: Cory Shepherd <coryshepherd1@hotmail.com>
+Cc: Jacqui Roberts <Jacqui.Roberts@health.qld.gov.au>; Emily Petering <emily.petering@together.org.au>
+Subject: FW: URGENT: Cory Shepherd (388372) - ADHOC Request- LSL Date
+
+Good afternoon Cory,
+
+Please see below response and attachments regarding your Long Service Leave enquiry.
+
+Kind regards,
+Chloe
+
+Chloe Taylor
+Switchboard Manager | Local Telecommunications Representative | Switchboard Services
+Logan Hospital | Metro South | Queensland Health
+P
+(07) 2891 9190<tel:(07)%202891%209190>
+E
+chloe.taylor3@health.qld.gov.au
+W
+www.health.qld.gov.au
+A
+Level 2, Building 1, Cnr Loganlea and Armstrong Roads QLD 4131
+T
+Call me on Teams
+[Delivering for Queensland]
+[Facebook]
+[LinkedIn]
+[YouTube]
+[Instagram]
+
+From: PTS-Payroll.SPO.Meadowbrook <PTS-Payroll.SPO.Meadowbrook@health.qld.gov.au>
+Sent: Friday, 4 September 2026 1:53 PM
+To: Chloe Taylor <Chloe.Taylor3@health.qld.gov.au>
+Cc: Payroll Service Leader Metro South <Payroll.Service.Leader.MetroSouth@health.qld.gov.au>; Heidi Guzek <Heidi.Guzek@health.qld.gov.au>; Jordan Birch <Jordan.Birch@health.qld.gov.au>; Daniel French <Daniel.French@health.qld.gov.au>
+Subject: RE: URGENT: Cory Shepherd (388372) - ADHOC Request- LSL Date
+
+Hello Chloe,
+
+The employee commenced with Queensland Health on 25 March 2019. Based on their commencement date, their Long Service Leave eligibility date would ordinarily be 25 March 2026.
+
+However, the following periods of Leave Without Pay (LWOP) need to be excluded from the calculation, as they affect the employee’s continuous service:
+
+  * 18 May 2022 to 10 June 2022
+  * 21 June 2024 to 20 September 2024
+  * 13 December 2024 to 23 February 2025
+
+After excluding these LWOP periods, the corrected Long Service Leave eligibility date is 29 September 2026.
+
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+21/06/2024 - 21/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+22/06/2024 - 22/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+23/06/2024 - 23/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+26/06/2024 - 26/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+27/06/2024 - 27/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+28/06/2024 - 28/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+29/06/2024 - 29/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+30/06/2024 - 30/06/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+03/07/2024 - 03/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+04/07/2024 - 04/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+05/07/2024 - 05/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+06/07/2024 - 06/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+07/07/2024 - 07/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+10/07/2024 - 10/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+11/07/2024 - 11/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+12/07/2024 - 12/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/07/2024 - 13/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+14/07/2024 - 14/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+16/07/2024 - 16/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+17/07/2024 - 17/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+18/07/2024 - 18/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+19/07/2024 - 19/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+20/07/2024 - 20/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+24/07/2024 - 24/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+25/07/2024 - 25/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+26/07/2024 - 26/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+27/07/2024 - 27/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+28/07/2024 - 28/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+31/07/2024 - 31/07/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+01/08/2024 - 01/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+02/08/2024 - 02/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+03/08/2024 - 03/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+04/08/2024 - 04/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+07/08/2024 - 07/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+08/08/2024 - 08/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+09/08/2024 - 09/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+10/08/2024 - 10/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+11/08/2024 - 11/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/08/2024 - 13/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+14/08/2024 - 14/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+15/08/2024 - 15/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+16/08/2024 - 16/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+17/08/2024 - 17/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+21/08/2024 - 21/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+22/08/2024 - 22/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+23/08/2024 - 23/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+24/08/2024 - 24/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+25/08/2024 - 25/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+28/08/2024 - 28/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+29/08/2024 - 29/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+30/08/2024 - 30/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+31/08/2024 - 31/08/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+01/09/2024 - 01/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+03/09/2024 - 03/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+04/09/2024 - 04/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+05/09/2024 - 05/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+06/09/2024 - 06/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+09/09/2024 - 09/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+10/09/2024 - 10/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+11/09/2024 - 11/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+12/09/2024 - 12/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/09/2024 - 13/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+14/09/2024 - 14/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+17/09/2024 - 17/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+18/09/2024 - 18/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+19/09/2024 - 19/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+20/09/2024 - 20/09/2024
+7.60
+APPROVED
+00388372
+Shepherd, Cory
+Special
+Leave Without Pay
+LWOP
+13/12/2024 - 23/02/2025
+395.20
+APPROVED
+
+Thank you.
+
+Thanks,
+
+Grace Strachan (she)
+Senior Payroll Officer (Metro South Payroll Team Payroll Transactional Services, Coporate Enterprise Solutions, Corporate Services | Queensland Health)
+Metro South Payroll Team | Queensland Health
+P
+07 3608 5985<tel:07%203608%205985>
+E
+Grace.Strcahan@health.qld.gov.au
+W
+www.health.qld.gov.au
+[Delivering for Queensland]
+[Facebook]
+[LinkedIn]
+[YouTube]
+[Instagram]
+[Respect our staff]

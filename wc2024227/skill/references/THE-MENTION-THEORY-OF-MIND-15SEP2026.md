@@ -1,0 +1,433 @@
+# The mention, from inside each head — what each actor was solving for, and with what knowledge
+**15 September 2026. ⛔ INTERNAL ONLY. This file reasons about motive and state of mind. That is
+legitimate for planning and it is forbidden on paper: in every filing and letter the chronology is
+stated and the motive never is. Nothing here is sent, quoted, or hinted at to anyone.**
+
+**Grading.** **[D]** what an actor demonstrably knew or said, from a document or the transcript ·
+**[A]** inference from those facts, stated as inference · **[W]** working theory only.
+
+---
+
+## 1. What each actor carried into the room — the knowledge base [D]
+
+| | **DWYER IC** | **MATHESON (Regulator)** | **RUTTAN (MSH, non-party)** | **THE APPELLANT** |
+|---|---|---|---|---|
+| Time on the file | case-managing since the directions order of **3 Dec 2024**; chaired the **13 Mar 2026** conference; made the **7 Apr 2026** FDO | Senior Appeals Officer since at least **Aug 2025** | instructed by **30 Apr 2026** (r 64E extension request) | since **Nov 2024** |
+| Read closely | the **amended Form 9A** (walked stressor by stressor); the **64G application**, Schedule A, Annexures B and C; the Form 20 | her own **SOFC of 13 May 2026**; the four notices and what came in; **her own Feb 2026 response** | the Form 29; the appeal file enough to object | his own 45 pp; the Feb 2026 exhibits |
+| Also on his file | the Feb 2026 Form 4s, affidavits and **21 exhibits** (incl. B1 Review Decision 69983, E1 a subpoenaed email chain, AR the Regulator's own earlier admissions response); his own **sealing indication** of 13 Mar | the outstanding **24 July request**, promised "this week" on 3 Aug and **still not sent** | the CE's objection letter she settled | — |
+| ⛔ Had **not** | read the **Regulator's SOFC** *"in any great detail"*; did **not** hold the MSH production (r 64H → parties) | — | — | ⛔ appreciated that the **July 2025 disclosure already contained the directive emails** |
+| Own decided law | **McCool** — an exclusion needs material to activate it; **Andrews** — dismissal for non-cooperation | — | — | — |
+
+---
+
+## 2. The problem each was actually solving [A, from their own words]
+
+### 2.1 DWYER — a proportionality problem, not a merits problem
+He says so in his first ninety seconds [0–108]:
+> *"the efficient administration of justice, which is an **overriding consideration that I've got my
+> eye on** … there is from time to time a tendency to **proliferate interlocutory disputes**, which
+> delay and complicate the overall resolution of a matter. **Disclosure disputes can oftentimes be
+> exactly that.**"*
+
+⇒ **His problem:** a self-represented appellant with a twenty-item notice against a **non-party**
+health service, a *"very comprehensive"* objection, and a case he assesses as turning on causation.
+If he grants the application he creates a satellite hearing *"probably bigger than the hearing at the
+end of the day"* [1904]. If he refuses it, an unrepresented man leaves believing he was shut out.
+
+⇒ ⭐⭐ **So he does neither. He teaches, then parks, then hands over the election.** *"I'm going to
+park the non-party disclosure application for the moment"* [149]; four weeks' stand-down; *"if you
+still wish to press any aspect of it, we'll get down to the serious business"* [64:14]. **That is the
+standard technique for converting a contested interlocutory application into a voluntary
+withdrawal** — you show the applicant he does not need it.
+⇒ And every piece of the teaching is calibrated to that end: *you do not need the documents for
+that* · *the regulator has to contradict things you say* · *uncontradicted evidence is likely to be
+accepted* · *that's a problem for them, not for you*. **Each sentence reduces the need for the 64G.**
+⇒ ⚠ **The disclaimers are part of the same job.** *"I'm not being critical of you"* [407], *"in no
+way at all being critical in this respect"* [3403]. He is a judge assisting a litigant in person
+without descending into the arena, and building a record that shows it.
+
+### 2.2 MATHESON — managing exposure, not advancing a case
+⭐ **She walks in with an overdue request in her drawer.** The 24 July request was fourteen days old;
+on 3 August she had written *"I will have this and the NNPD copies to you **as soon as possible this
+week**."* It had not gone. [D]
+⇒ Then Dwyer asks the room whether disclosure has happened, and she answers *"Yes, Commissioner.
+**We've disclosed all we have currently**."* [D] — accurate as to what had been disclosed, and it
+**does not mention the outstanding request**. [A] Minutes later the bench says *"the starting point
+is to ask the regulator to produce those documents. **Have you done that?**"* — and the bench never
+learns that it had been done, a fortnight earlier, and was unanswered on the day.
+⇒ ⭐ **She does not oppose the 64G.** Not a word. **MSH carries the objection alone.** Her three
+disclosure turns are all the same shape — *I believe we have, I believe we've disclosed* — and the
+third, on the 15 May 2024 retract email, is the only one she qualifies (*"I would have to triple
+check"*).
+⇒ **[A] Her interest is institutional and narrow:** the Regulator is a statutory respondent
+defending a decision made by its own delegate. It has **no stake in the employer's convenience** and
+every stake in not carrying satellite litigation. ⇒ On the file's established read her play is
+*concede the nouns, fight the adjectives* — and nothing at the mention departs from it.
+⚠ **And she alone in that room knew the causation counter.** Her own February 2026 response had
+already denied on the 26 October 2022 anxiety and ADHD history. **It is never mentioned.** [D that
+it exists; [A] that she held it in mind]
+
+### 2.3 RUTTAN — silence as the whole strategy
+MSH is a **non-party**. Its interest is not the outcome of the appeal; it is **burden**: do not
+produce thousands of documents, do not put managers in a box, do not be drawn in.
+⇒ She speaks about one line all morning — *"Yes, Your Honour, that's fine, thank you"* [D].
+⇒ ⭐⭐ **[A] Because the bench was already doing MSH's work.** From minute two the Commissioner was
+steering the appellant off the notice. Any intervention risked converting a sympathetic drift into a
+contested argument. **The correct play was to sit still, and she did.**
+⇒ **Result from her chair: complete success.** Application withdrawn three days later by the
+applicant himself, no production, no evidence, no hearing, **no ruling to appeal and no compulsion
+to complain of**.
+
+### 2.4 THE APPELLANT — a document theory, abandoned mid-hearing
+He came in believing the case is proved by compelling the records. Hence 45 pp and twenty items.
+⚠ And he told the bench the disclosure did **not** contain examples of the directives — *"Not that I
+can recall, no"* [1109] — **which was wrong**; the 15 April, 9 May and 17 May 2024 emails were in the
+July 2025 disclosure. [D]
+⇒ Then at **30:12** he says *"I actually understand what you're getting at."* [D] **From that
+line his theory changes** from *obtain the documents* to *make them own the ones I hold*.
+
+---
+
+## 3. What nobody in the room knew [D]
+
+1. **That the disclosure already contained the directive emails.** Not the bench, not the appellant.
+   Matheson had no reason to volunteer it and was not asked.
+2. **That the 24 July request was outstanding.** The bench directed a step that had already been
+   taken and was unanswered.
+3. **That a 303-fact notice to admit was coming.** Nothing in the hour anticipates it. The bench's
+   own frame was oral evidence, not r 49.
+4. **That the causation counter already existed in writing** — the February row 32 denial.
+5. **That MSH's objection letter would become the appellant's exhibit.**
+
+---
+
+## 4. ⭐⭐⭐ The asymmetry — the teaching produced a better weapon than the one it removed
+
+**What the bench offered:** you do not need the documents; give evidence; if the Regulator does not
+contradict you, *"there's a likelihood that it'll be accepted."*
+**What the appellant built:** he did not need to give evidence either. He put 303 facts about
+documents and made the Regulator answer them **formally, under r 49**.
+
+| | The bench's method | The method actually used |
+|---|---|---|
+| Vehicle | oral evidence, uncontradicted | **express admissions under r 49** |
+| Strength | *"a likelihood that it'll be accepted"* | **fixed for the proceeding**; r 49(3)'s withdrawal path reaches only *deemed* admissions |
+| Needs a witness | yes | **no — an act admitted is an act proved** |
+| Exposure | credit, cross-examination | none |
+
+⇒ ⭐⭐ **He converted a probabilistic advantage into a fixed one, using the bench's own premise.**
+That is why the outcome outran everyone's model of it: the room was solving for *fewer documents*,
+and the appellant solved for *documents that need no proof*.
+
+⇒ ⭐⭐⭐ **And the second-order effect nobody in the room could have priced:** the very instrument
+that won MSH the disclosure fight — the Chief Executive's objection letter of 5 June — became
+**Tab 20**, its contents admitted at ¶¶263–268. **To object you must explain why you cannot comply,
+and the explanation is the admission.** The document that defeated production supplied the facts.
+
+---
+
+## 5. What the reading predicts from here [A]
+
+1. **Matheson will concede documents before she concedes characterisation.** Every observed move
+   fits *concede the nouns, fight the adjectives*. ⇒ On 25 September the likelier shape is the tabs
+   given and relevance/characterisation reserved, not a change of position.
+2. **MSH has no forum left.** The Form 29 was withdrawn, so there is nothing to object to and no
+   ruling to appeal. Its only remaining lever is **witness availability** — which is pressure on the
+   Regulator, not control of it.
+3. **The Regulator cannot be starved and defend at once.** It must call Metro South's people to run
+   s 32(5)(a), and Metro South's interest is that no one attends. [A] That tension is the mechanism
+   behind *"cannot confirm its witnesses at this stage"*.
+4. **The bench's disposition matters at the conference and nowhere else.** He does not hear the
+   appeal; he would chair the second conference, which is where the Guide puts concession.
+
+---
+
+## 6. ⚠ Limits, stated plainly
+
+- **Section 2 is inference.** Nobody's reasoning is recorded. Each read is built from what the actor
+  demonstrably knew and demonstrably did, and is marked [A] where it goes beyond that.
+- **A mention is not a ruling** and nothing said in it binds anyone.
+- **Silence is not agreement.** Ruttan's near-silence supports several readings; institutional
+  caution and simple instructions are as available as strategy.
+- ⛔ **The corrections ledger's own lesson applies here more than anywhere:** every correction it
+  records was an inference about **why someone did something**. This file is made entirely of that
+  kind of reasoning. It is planning material and nothing else.
+
+---
+
+# 7. ⭐⭐⭐ THE STRUCTURAL READ — the listing itself is the signal (Cory, 15 Sep; data-driven)
+
+## 7.1 The rule, verbatim, and what powers existed [D]
+
+> **r 64F — Objection stays notice.** *"Service of an objection under rule 64E operates as a **stay
+> of the notice**."*
+> **r 64G(1).** *"Within **7 days** after service of an objection under rule 64E, the party may apply
+> to the industrial tribunal for a decision about the objection."*
+> **r 64G(2).** *"The industrial tribunal **may make any order it considers appropriate** including,
+> but not limited to, an order — (a) **lifting the stay**; or (b) **varying the notice**; or
+> (c) **setting aside the notice**."*
+> **r 64G(3).** *"**Unless the industrial tribunal otherwise orders, each party to an application to
+> decide an objection must bear the party's own costs** of the application."*
+
+⚠ **Note r 64G(3) against what was said in the room.** The rule's **default on a 64G application is
+that each side bears its own costs**. The warning given was that a contested hearing would carry
+*"cost consequences"* because *"the health service will probably want to engage [firm name — the
+audio is rendered in the transcript as "aged ground law" and the name is NOT established] and they'll
+bring their lawyers along and I'll allow that"*. That is the **discretionary exception**, not the default. ⛔ Nothing improper
+is suggested — the tribunal may order otherwise and said so — but the risk as conveyed sat at the
+top of the range, to a litigant in person, at the moment he was being steered off the application.
+
+## 7.2 The clock, in days [D]
+
+| Date | Event | Gap |
+|---|---|---|
+| 22 Apr 2026 17:08 | Form 29 sealed and served on MSH | — |
+| 30 Apr | Ruttan seeks an extension of time to object | +8 |
+| 7 May | Registry, for chambers: no compliance until after the 22 May mention; Notice of Listing issued | +7 |
+| **22 May** | **Mention. ⭐ MSH did not attend. Counsel for the Regulator did not attend.** Chambers direction 1:45 pm: objections by 4:00 pm **5 June** | +15 |
+| **5 Jun 15:02** | Objection served. ⭐⭐ **r 64F — THE NOTICE IS STAYED FROM THIS MOMENT** | +14 |
+| 12 Jun | 64G application filed — **within the 7 days r 64G(1) allows** | +7 |
+| 23 Jun | Re-filed in approved form and sealed | +11 |
+| **7 Aug** | **The mention** | **+45** |
+| 10 Aug | Appellant withdraws the application and the outstanding items | +3 |
+
+⇒ **objection → mention: 63 days · application → mention: 56 days · sealed application → mention:
+45 days.**
+⇒ ⭐⭐ **The notice was stayed for 66 days and was never determined.** From service to withdrawal:
+**110 days**.
+
+## 7.3 What the numbers in the room say [D]
+
+| Speaker | Turns | Share |
+|---|---|---|
+| **DWYER IC** | 852 | **79.6%** |
+| **MR SHEPHERD** | 213 | 19.9% |
+| **MS MATHESON** | 9 | **0.8%** |
+| **MS RUTTAN (MSH — the objector)** | ~1 line | **~0.1%** |
+
+⇒ ⭐⭐⭐ **The objector and the respondent together spoke under one per cent of a hearing listed on
+the objector's own objection.** That is the single most telling measurement in the transcript.
+⇒ Under the rules Ms Matheson was **neither the objector (MSH) nor the applicant (the Appellant)**.
+She had **no formal role in the 64G at all**, and was required to attend and sat through 65 minutes.
+
+## 7.4 ⭐⭐ The inference, and it is the strongest available [A]
+
+**The 7 August listing was never going to determine the objection, and he said so** [1881]:
+> *"I can't do that in a mention this morning and **I can't do that based on the papers** — I'm going
+> to need to **hear evidence** about what's involved."*
+
+⇒ So the question is not *why didn't he close it* — on his own view, deciding a breadth-and-expense
+objection under r 64E(4)(a) needs evidence. **The question is why, holding that view since mid-June,
+he listed a mention in August rather than a hearing.** And what he then did with the time answers it:
+- **At 2 minutes 29 seconds** he set the application aside — *"I'm going to **park** the non-party
+  disclosure application for the moment. I'm going to take you back to your statement of facts and
+  contentions."*
+- **He never returned to it** except to stand it down four weeks and hand the election to the
+  Appellant.
+- **He spent the hour on the appeal** — the stressors one by one, the onus, what proves what, who
+  will be called, what is and is not relevant.
+
+⇒ ⭐⭐⭐ **The 64G was the occasion, not the subject. It was the jurisdictional hook that put both
+sides in one room and let the case-managing Member reframe the appeal.** A Commissioner cannot
+convene a hearing to tell a party how to run its case. He can list a disclosure application — and,
+having listed it, say what he said, **with the respondent present and required to listen**.
+
+⇒ **That is why Ms Matheson's presence matters more than her nine turns.** Every substantive thing
+said that morning was said **in front of the party that decides whether to defend**: the diagnosis is
+not much in dispute *"as you do in this particular case"*; causation is the only crux; uncontradicted
+evidence is likely to be accepted, said twice; *"I would have thought the regulator will call Ms
+Taylor"*; *"I would have thought the regulator would be all over that"*; and resolve it sooner
+*"for the people of Queensland who are resourcing these proceedings"*.
+⇒ **She was not left out. She was the audience.**
+
+## 7.5 ⚠ The honest alternatives, weighed
+
+| Alternative | Weight |
+|---|---|
+| **Listing congestion** — 45 days from a sealed interlocutory application to a mention is unremarkable | ⚠ **Real, and it explains the delay** — but it does not explain **the use of the time**. Parking the application at 2:29 and never returning to it is a decision made in the room, not a product of the list |
+| **He intended to decide and changed his mind** | ⚠ Weak. He states he cannot decide it on the papers or at a mention. That view is not formed in the moment; it follows from r 64E(4)(a) |
+| **Ordinary assistance to a litigant in person** | ⭐ **Strong, and not inconsistent.** It can be both: assistance to the unrepresented party **and** a reframing addressed to the represented one. The content supports both at once |
+| **Deliberate use of the hook** | ⭐⭐ **Best fit for the content**, weakest on direct proof. Nothing on the record states a purpose |
+
+⛔ **And the discipline that governs all of it.** This is planning material. The corrections ledger
+records that every past error in this file was an inference about **why someone did something**, and
+§7.4 is exactly that kind of inference. It is never said to the Commission, never to the Regulator,
+never in a filing or a letter, and it changes no number in the model. What it changes is where the
+attention goes on 25 and 30 September: **the audience for everything said on 7 August is the party
+that must decide, by 30 September, whether it can field a case at all.**
+
+---
+
+# 8. ⛔⛔ CORRECTION — A QUOTATION I FABRICATED, AND THE ANSWER TO WHO THE COSTS WARNING WAS FOR
+
+## 8.1 The fabricated quotation [corrected 15 Sep 2026]
+Earlier today I twice quoted the bench as saying the health service would *"engage HopgoodGanim"*.
+**The transcript does not contain that name.** The audio at **31:34** is rendered:
+> *"because I'd imagine the health service will probably want to engage **aged ground law** and
+> they'll bring their lawyers along and I'll allow that"*
+
+⇒ ⛔ **I pattern-matched an unclear phrase to a firm name already in this repository and wrote it as
+a direct quotation.** That is exactly the failure the interlock protocol exists to prevent, and it is
+now corrected in both files. **The firm, if one was named, is not established.**
+
+⛔⛔ **CORRECTION to this paragraph, 15 Sep: it said the segment carried "no word-level
+probabilities". It does — every word in the file carries one, in the `p` field.** Reading them makes
+the point far harder than the overall score did:
+
+| Word | Confidence |
+|---|---|
+| …want to **engage** | 1.00 |
+| ⛔⛔ **aged** | ⭐⭐ **0.02** |
+| **ground** | 0.78 |
+| **law** | 0.84 |
+| and they'll bring their **lawyers** along | 0.97 – 1.00 |
+
+⇒ ⭐⭐⭐ **The model was 98% unsure of that one word while every word around it was near-certain.
+The transcript flagged its own guess, at exactly the point where a firm name would sit, and the flag
+was never read before a name was written into the bench's mouth.** This does not reopen the name —
+it closes it harder. A 0.02 rendering is not evidence of what was said; it is evidence that **the
+audio there cannot be read**. ⚠ **The transcript is not certified** — only the certified transcript
+can settle what was said.
+⚠ **And the collateral risk was real:** `HOPGOODGANIM-QUESTION.md` concerns that firm's position on
+**WorkCover Queensland's** legal services panel — the insurer side, not Metro South. Importing the
+name into the bench's mouth would have connected two unrelated threads on a mis-hearing.
+
+## 8.2 ⭐ Who the costs warning was addressed to — the pronouns settle it [D]
+
+**Two different sentences, two different addressees.**
+
+**(a) To the room** [30:57]:
+> *"If that's where we're at, well, **you've got a bit of work to do down there at the bar table**."*
+Collective, about negotiating a bundle, following *"the parties need to be doing [it] as well"*.
+
+**(b) The costs passage — to the Appellant, singular, seven times** [31:01–32:00]:
+> *"if we can't reach some understanding today where **you** can be disavowed of the need to extract
+> thousands of documents … I need to decide whether **you're** entitled to do that or whether it's
+> unreasonable for **you** to require the health service … this is a complicated matter potentially
+> **if you want it to be** and then there'll be cost consequences. That's a hearing that's probably
+> going to go longer than a day because there's a lot of items in **your** list and lots of sub-items
+> in **your** list … this is going to be a big sideshow … and **if you want it, you can have it**."*
+
+⇒ **Not one second-person reference in the costs passage is to the Regulator or to Metro South.**
+The bar-table remark was to the room; **the costs warning was to him alone.**
+
+## 8.3 ⚠ What the costs rules actually provide [D, verbatim]
+
+| Provision | Text | Effect |
+|---|---|---|
+| **r 64G(3)** | *"**Unless the industrial tribunal otherwise orders, each party to an application to decide an objection must bear the party's own costs** of the application."* | ⭐ **The default on a 64G is own costs.** A non-party's legal fees in resisting are, by default, **its own** |
+| **r 64I(1)** | *"**Subject to rule 64G(3)**, the party must pay the non-party's reasonable expenses of **producing a document**."* | The Appellant's real exposure — but it is **expenses of production**, not fees of resistance, and it arises only **if production is ordered and occurs**, i.e. **only if he wins** |
+| **WCRA s 558(3)** | *"Costs of the hearing are in the appeal body's discretion, except to the extent provided under a regulation."* | the substantive appeal, not the interlocutory |
+
+⇒ ⭐⭐ **The chain as delivered was: they will engage lawyers, therefore cost consequences. Under
+r 64G(3) that does not follow by default** — their fees would be their own unless the tribunal ordered
+otherwise. The Appellant's own exposure ran the other way, under r 64I, and only on success.
+⚠ **This is not a criticism.** The tribunal *may* order otherwise, and an unsuccessful applicant who
+has put a non-party to thousands of documents' work is precisely the discretionary case. The warning
+was of a **real discretionary risk, stated at the top of its range, without the default beside it**,
+to a litigant in person, at the moment he was being steered off the application.
+
+## 8.4 ⭐ And no external firm ever acted [D]
+Metro South ran the objection **in-house throughout**: Ms Ruttan, Principal Lawyer (Health Law),
+Metro South Legal Services; Ms Griffin, Director Employment Relations; Mr Thorburn serving; the
+letter signed by the Chief Executive. **No external firm appears as an actor anywhere in this
+matter.** The lawyers-and-costs scenario was hypothetical and never materialised — because the
+application was withdrawn three days later.
+
+⛔ **Handling.** None of this is raised with anyone. No costs figures go in correspondence. The
+standing rule on that firm is unchanged: **ask, never allege** — and it now has a second limb,
+**never put a name in anyone's mouth from an unclear recording.**
+
+---
+
+# 9. ⭐⭐ HOW HE DID IT — the two registers, measured (Praat F0 and intensity per segment)
+
+**Source:** per-segment prosody in `MENTION_7AUG2026_segments.jsonl` — median F0 (Hz), pitch
+variation (semitones), mean intensity (dB), intensity variation, and rate (words per second).
+⚠ **Prosody is suggestive, not probative.** Loudness varies with microphone distance and posture,
+and the transcript is not certified. What follows is a pattern, not a proof.
+
+## 9.1 The bar-table stretch — low, loud, flat, fast [D]
+
+| Time | What he says | F0 med | dB | dB variation | words/sec |
+|---|---|---|---|---|---|
+| 30:26 | *"but in the meantime, **the party should work very hard**"* | **156.8** | 69.2 | 5.63 | 4.17 |
+| 30:29 | *"at formulating a bundle of documents **that might satisfy you**"* | 151.3 | 64.1 | 9.48 | **2.44** (slow, deliberate) |
+| **30:36** | ⭐⭐ *"**I see a very comprehensive objection**"* | 138.9 | **71.2 — the loudest in the passage** | **4.23** (controlled) | 3.33 |
+| 30:44 | *"is to get working on whether they can resolve it"* | 130.2 | 69.7 | **3.67** | 4.31 |
+| 30:47 | *"**without my intervention**."* | 130.2 | 68.4 | **3.59** | 3.06 |
+| 30:49 | *"That's what the parties need to be doing **as well**."* | 132.9 | 68.4 | 5.33 | 5.05 |
+| 30:56 | *"no, you can't have it."* | 129.5 | 69.0 | 3.67 | 5.81 |
+| 30:57 | *"If that's where we're at, well, **you've got a bit of work**"* | 129.1 | **69.3** | 4.21 | **6.32 — fastest** |
+| **30:59** | ⭐ *"**to do down there at the bar table**."* | **119.3 — lowest** | 66.5 | **3.65** | 5.97 |
+
+⇒ **Low pitch + high volume + flat intensity + fast delivery = clipped declarative.** That is the
+register of instruction, not discussion. It does not invite a reply, and it did not get one.
+⇒ ⭐⭐ **"I see a very comprehensive objection" is the loudest utterance in the passage and among the
+most controlled.** Sitting between *"I don't know to what extent that's happened so far"* and
+*"what the responsibility of the parties is"*, it is not admiration. It is the observation that
+resources went into **resisting** and he wants some going into **resolving**.
+
+## 9.2 ⭐⭐⭐ The register flips at one sentence boundary [D]
+
+| | 30:59 — the bar table | 31:01 — turning back to the Appellant |
+|---|---|---|
+| **F0 median** | 119.3 Hz | **143.0 Hz** (+24 Hz, ≈ +3 semitones) |
+| **Intensity** | 66.5 dB | **62.3 dB** (quietest in the stretch) |
+| **Intensity variation** | 3.65 (flat) | **11.57** (three times more varied) |
+| **Rate** | 5.97 w/s | **1.77 w/s** (three times slower) |
+
+⇒ **Every parameter inverts at once.** Louder→softer, lower→higher, flat→varied, fast→slow.
+⇒ ⭐⭐⭐ **That is the acoustic signature of turning to a different listener.** He stops instructing
+the bar table and starts explaining to the man in front of him. **The addressee change is audible in
+the measurements, not only in the pronouns.**
+
+## 9.3 ⭐⭐⭐ And the direct put to the Regulator — 61:31, nineteen words
+
+He had spent the hour describing what the Regulator would have to do: produce documents asked of
+it; use its access to the health service; *"necessarily … need to call … people who work for the
+health service as witnesses"*; contradict what the Appellant says or see it likely accepted;
+*"I would have thought the regulator would be **all over that**"*; *"I would have thought the
+regulator **will call Ms Taylor**."*
+
+Then he gathered all of it into one question:
+
+| Time | | F0 med | pitch variation | dB | dB variation | voiced |
+|---|---|---|---|---|---|---|
+| 61:29 | *"anything arising out of all of that, **Ms Matheson**?"* | 127.9 | 2.82 | 67.2 | 5.70 | 0.85 |
+| **61:31** | ⭐⭐ *"**Have I misrepresented your role in the matter**"* | 131.1 | 3.45 | **70.1** | **2.51 — flattest** | **0.96 — no hesitation** |
+| 61:33 | *"or placed a burden on you"* | **146.7** (rises) | 1.89 | 67.4 | 8.86 | 0.69 |
+| **61:35** | *"**that you're not prepared to accept?**"* | 143.7 | **0.74 — near monotone** | 68.7 | 4.75 | 0.86 |
+| 61:37 | **MS MATHESON: "No."** | 125.5 | 0.48 | **62.1 — 8 dB quieter than the question** | 8.21 | 0.77 |
+| 61:38 | *"All right."* | **71.4 — drops an octave from 143.7** | 5.23 | 56.7 | 10.84 | 0.30 |
+
+⇒ **Loud, flat, fully voiced, ending on a near-monotone** is the register of a **formal put**, not a
+conversational check. It is framed to require an answer for the record, and it got a one-word one.
+⇒ ⭐ **The octave collapse on *"All right"* is a closure marker.** Put, taken, closed.
+⇒ Then *"And Ms. Rutland, any?"* [Ms Ruttan] at **1.49 words per second — the slowest utterance in
+the stretch**. He gave the non-party its own slow, separate invitation. Nothing is recorded in
+answer.
+
+## 9.4 ⭐⭐ What the "No" actually did
+
+The question was not courtesy. It asked the Regulator to confirm, on the record, that **(a)** he had
+described its role correctly and **(b)** the burden he had just placed on it was one it was
+**prepared to accept**.
+⇒ **She said "No" — no misrepresentation, and no unacceptable burden.**
+⇒ ⭐⭐⭐ **In one syllable the Respondent accepted, before the case-managing Member, the whole
+morning's description of what defending this appeal would require of it** — production on request,
+access to the health service, calling its people, contradicting what is said or watching it be
+accepted. **That is the sternest thing that happened to the Regulator all day, and it took nineteen
+words to set up and one to conclude.**
+⚠ **[A] as to significance.** A Commissioner routinely asks parties whether they take issue before
+moving on, and "No" is the ordinary answer. The reading above rests on **what had just been said**,
+not on the form of the question. ⛔ It is never characterised to anyone as an undertaking or a
+concession; it is an answer given at a mention and it binds nothing.
+
+## 9.5 The contrast, in one line
+**To the Appellant:** higher, softer, slower, far more varied — up to 164.5 Hz at the emphatic
+moments, 1.77–2.6 words per second, wide intensity swings. **Teaching.**
+**To the bar table and to the Regulator:** lower or flatter, louder, more controlled, faster or
+monotone. **Instructing, and putting.**
+⇒ **He ran two registers in the same hour and switched between them mid-passage. The transcript
+shows the words; the measurements show who each sentence was for.**
