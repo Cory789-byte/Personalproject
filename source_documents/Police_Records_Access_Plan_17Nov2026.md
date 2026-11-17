@@ -29,6 +29,7 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 | 21 Mar 2025 | The court sends a notice of adjournment to you at your mother's unit | Court notice |
 | 22 Mar 2025 | You tell police "I don't have a home at the moment" | Police camera, machine transcript |
 | 23 Mar 2025 | First breach notice to your mother | Referred to in the manager's later email. Not in your papers |
+| 4 Apr 2025 | By consent, the court varies the temporary order made on 21 March. Its conditions become: good behaviour, not within 100 metres of her, no contact except through a lawyer, not to locate her. It has no condition about any address or premises. The court's notice to her the same day gives her address as Unit 104. The next date on that file is 30 May 2025; nothing in your papers shows what happened then | Varied order 0023212335 and the court's notice |
 | 12 Apr 2025 | Notice to leave | Referred to in the same email. Not in your papers |
 | 19 Apr 2025 | Second breach notice: "unauthorised co-tenants … exceeding number of person permited to reside on Property". The manager's email: "you older sons remains residing in the apartment contrary to the Lease". Vacate by 28 April 2025 | Notice and email from the complex manager |
 | 18 May 2025 | You write to the police information unit that a member "has changed my residential address ... without any verification, request, or evidence" | Your notes |
@@ -51,7 +52,7 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 - The Ashmore address police now hold is the one you swore to in July 2025 and gave the council. Police have it from you. A correction request cannot change it. You can (section 7A).
 - Your Executive Summary of 14 July 2026 says the address point "arises from the watchhouse interview (D29, 00:05:01)". There is no address question at that point. Cite the camera at 00:17:49 to 00:18:15 and the interview at 00:21:06 to 00:21:15 and 00:29:43 instead.
 
-**Missing, and decisive.** The bail undertaking and the watch-house custody record. The police record of when the Benowa address was added, by whom, and from what. The source the officer used on 18 March. The first breach notice and the notice to leave. Whatever the manager relied on.
+**Missing, and decisive.** The bail undertaking and the watch-house custody record. Whether the court later varied your bail, and the address on any later undertaking. What happened on the protection-order file on and after 30 May 2025. The police record of when the Benowa address was added, by whom, and from what. The source the officer used on 18 March. The first breach notice and the notice to leave. Whatever the manager relied on.
 
 This also settles item 7 on the fix list in the discrimination plan: police say bail kept you from Unit 104.
 
@@ -179,7 +180,7 @@ At the tribunal, Eaves is the authority for asking that the access records be in
 There are two addresses and two different problems. The Benowa entry of March 2025 is a police entry whose source is unknown. Request 1 deals with it. The Ashmore entry is your own sworn address.
 
 1. Ask your lawyers to give their office as your address for service in the criminal case and in the civil file, and to tell the prosecutor that contact with you goes through them.
-2. Have them check the address on your bail undertaking. If it is your mother's home, changing it is done through the court.
+2. Get copies of your bail undertaking and any later bail order from your lawyers or the court registry, and check the address on them. If it is your mother's home, changing it is done through the court. The officer who takes an undertaking must send it to the court (Bail Act 1980 s 20(7)), so the registry should hold it.
 3. Take your mother's address off your own records: your driver licence, the council registration, and anything you file or send from now on. Police and courts take addresses from those.
 4. If you do not live at your mother's home, have your lawyers say so in writing to the prosecutor, with where you can be reached.
 5. Your mother can write to police in her own name asking that her home not be used to contact you. She should say only what is true about whether you live there.
