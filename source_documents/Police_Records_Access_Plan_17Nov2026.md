@@ -27,7 +27,8 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 | 12 Apr 2025 | Notice to leave | Referred to in the same email. Not in your papers |
 | 19 Apr 2025 | Second breach notice: "unauthorised co-tenants … exceeding number of person permited to reside on Property". The manager's email: "you older sons remains residing in the apartment contrary to the Lease". Vacate by 28 April 2025 | Notice and email from the complex manager |
 | 18 May 2025 | You write to the police information unit that a member "has changed my residential address ... without any verification, request, or evidence" | Your notes |
-| 29 Apr 2026 | A police court brief prints an Ashmore address for you | Court brief |
+| 31 Jul 2025 | Your affidavit, filed in court against the Commissioner of Police on 4 August 2025, gives your own address as "43 clear river Blvd. Ashmore". The council registration for the dog gives the same address | Your affidavit; council notice |
+| 29 Apr 2026 | A police court brief prints that Ashmore address for you | Court brief |
 
 **For you.**
 
@@ -41,6 +42,7 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 - The woman police call your mother told them on camera that a short stay had stretched to ten weeks. Police will say that is where the address came from.
 - Neither notice from the complex manager mentions police, mail or a complaint by anyone. No overcrowding complaint by a neighbour is in your papers. The notices came from the manager.
 - Only one police visit to the unit is documented, on the evening of 24 February 2025. No police letter to that address is in your papers. The only official letter found is the court's.
+- The Ashmore address police now hold is the one you swore to in July 2025 and gave the council. Police have it from you. A correction request cannot change it. You can (section 7A).
 - Your Executive Summary of 14 July 2026 says the address point "arises from the watchhouse interview (D29, 00:05:01)". The transcript of that interview has no address question or answer there. Check the footage before repeating it.
 
 **Missing, and decisive.** The bail undertaking and the watch-house custody record. The police record of when the Benowa address was added and from what. The first breach notice and the notice to leave. Whatever the manager relied on.
@@ -119,9 +121,9 @@ For the period 1 December 2024 to the date of this request:
 
 1. Each residential or contact address recorded for me in police records, with the date each entry was added, changed or ended, the job number or document it was taken from, and the station or unit that made the entry. I ask for the record of each change. I do not ask for the activity report or any record of who viewed my file.
 2. The watch-house custody record and the bail undertaking for my arrest on 24 February 2025 (QP2500332406).
-3. Any document relied on as the source for recording Unit 207W, 1 Marina Drive, Benowa as my address, including notes of police attendance there on 24 and 25 February 2025.
-4. Every letter, notice or message police sent to me at that address, or to anyone else about me at that address, and any record of police contact with the manager, body corporate, agent or owner of that complex.
-5. The job log for each police attendance at that address.
+3. Any document relied on as the source for recording Unit 207W, 1 Marina Drive, Benowa as my address, including notes of police attendance there on 24 and 25 February 2025, and any document relied on as the source for recording 43 Clear River Boulevard, Ashmore as my address.
+4. Every letter, notice or message police sent to me at either address, or to anyone else about me at either address, and any record of police contact with the manager, body corporate, agent or owner of the Benowa complex.
+5. The job log for each police attendance at or near either address.
 6. Any record of my address being given to another party to a court or tribunal proceeding.
 
 If any part is refused under schedule 3, section 10(1) of the Right to Information Act 2009, I ask that the documents themselves be examined for section 10(2)(a): Commissioner of the Police Service v Shelton [2020] QCA 96 at [47] to [49].
@@ -155,6 +157,16 @@ Any intelligence entry, street check or referral about me that refers to my comp
 - The tribunal can order police to stop, to apologise, to correct documents, and to pay up to $100,000 for your own loss.
 
 At the tribunal, Eaves is the authority for asking that the access records be inspected in confidence. It was done through a barrister.
+
+## 7A. Changing the address now, to protect your mother's household
+
+There are two addresses and two different problems. The Benowa entry of March 2025 is a police entry whose source is unknown. Request 1 deals with it. The Ashmore entry is your own sworn address.
+
+1. Ask your lawyers to give their office as your address for service in the criminal case and in the civil file, and to tell the prosecutor that contact with you goes through them.
+2. Have them check the address on your bail undertaking. If it is your mother's home, changing it is done through the court.
+3. Take your mother's address off your own records: your driver licence, the council registration, and anything you file or send from now on. Police and courts take addresses from those.
+4. If you do not live at your mother's home, have your lawyers say so in writing to the prosecutor, with where you can be reached.
+5. Your mother can write to police in her own name asking that her home not be used to contact you. She should say only what is true about whether you live there.
 
 ## 8. Getting records through a case
 
