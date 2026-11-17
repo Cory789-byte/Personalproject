@@ -19,7 +19,9 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 | 27 Dec 2024 | A parcel is addressed to you at your mother's unit in Benowa | Your order record |
 | 20 Feb 2025 | You write that you are "paying rent/utilities while temporarily visiting family" | Your email |
 | 24 Feb 2025, early morning | You are arrested at Unit 104 and released "on bail with conditions not to attend the aggrieved's address" | Police application of 18 March 2025 |
-| 24 Feb 2025, about 10:18 to 10:53 pm | Police are at your mother's unit. You say "I'm not staying with my mum. I have nowhere." A woman the officer calls your mother says "can corey come and stay here two to three weeks" and "it has extended out to 10 weeks". The officer says of Unit 104 "there's no evidence that he's actually living there" | Police camera, machine transcript |
+| 24 Feb 2025, about 2 am | At Unit 104 you tell the attending officers "I'm not staying with my mum. I have nowhere." | Police camera (D50), machine transcript |
+| 24 Feb 2025, from 5:48 am | In the recorded interview an officer puts that you have "been staying at hotels". You answer "I haven't moved into anywhere because that is my home" and "I'm homeless and I'm sleeping in a car" | Interview, 00:21:06 to 00:21:15 and 00:29:43 |
+| 24 Feb 2025, about 10:38 pm | At your mother's unit she tells an officer there was an "agreement between alexia and corey that it'd be two to three weeks while mum was here it has extended out to 10 weeks". The officer says of Unit 104 "there's no evidence that he's actually living there" and "There's no men's clothes." | Police camera, machine transcript |
 | 18 Mar 2025 | A handwritten police notice gives Unit 104 as your address. A typed police application of the same date gives your mother's unit, and says you had not "resided at the address for some time". This is the earliest record of the Benowa address | Police notice and application |
 | 21 Mar 2025 | The court sends a notice of adjournment to you at your mother's unit | Court notice |
 | 22 Mar 2025 | You tell police "I don't have a home at the moment" | Police camera, machine transcript |
@@ -32,14 +34,14 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 
 **For you.**
 
-- Police were told by you, on camera, that you were not staying with your mother and had nowhere to live.
+- You told police twice that morning, on camera and in the interview, that you had no other home. Your mother told them that evening that your stay with her was a two-to-three-week arrangement made with your former partner.
 - The same day's police paperwork on 18 March 2025 gives two different addresses.
 - The first breach notice is dated two days after the court wrote to you at the unit, and five days after the police application.
 - Police's own document says bail kept you away from the unit you leased.
 
 **Against you.**
 
-- The woman police call your mother told them on camera that a short stay had stretched to ten weeks. Police will say that is where the address came from.
+- Your mother told police on camera that you had been staying with her for ten weeks. That is almost certainly where the address came from, so "changed without evidence" will not stand. What stands is that police knew the stay was temporary and why.
 - Neither notice from the complex manager mentions police, mail or a complaint by anyone. No overcrowding complaint by a neighbour is in your papers. The notices came from the manager.
 - Only one police visit to the unit is documented, on the evening of 24 February 2025. No police letter to that address is in your papers. The only official letter found is the court's.
 - The Ashmore address police now hold is the one you swore to in July 2025 and gave the council. Police have it from you. A correction request cannot change it. You can (section 7A).

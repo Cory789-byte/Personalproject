@@ -95,7 +95,7 @@ Two smaller ones, to fix when you next use the document:
 
 **Privacy complaint: recording and use of my address**
 
-1. On the evening of 24 February 2025 officers attended Unit 207W, 1 Marina Drive, Benowa. I told them I was not staying there and had nowhere to live. Their cameras recorded this.
+1. On 24 February 2025 I told police, on camera at Unit 104 and in my recorded interview, that I had no other home and was sleeping in my car. That evening officers attended my mother's unit at Benowa and were told that my stay there was a two-to-three-week arrangement that had run on.
 2. On 18 March 2025 a police application recorded that unit as my address. A handwritten police notice of the same date gave my address as Unit 104, 158 Scarborough Street, Southport.
 3. [From the release: the date the entry was made, the unit that made it, and the document it was taken from.]
 4. I ask police to state what steps were taken to check the address before it was recorded and before it was used, and to whom it was given.
