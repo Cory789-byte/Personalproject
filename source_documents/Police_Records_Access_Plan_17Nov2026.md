@@ -16,13 +16,16 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 
 | Date | What the document shows | Source |
 |---|---|---|
+| 1 Dec 2024 | The police statement for the December notice, job QP2402065947, gives your address as Unit 104, with your mobile number | Police statement QP 0899A, page 1 |
 | 27 Dec 2024 | A parcel is addressed to you at your mother's unit in Benowa | Your order record |
 | 20 Feb 2025 | You write that you are "paying rent/utilities while temporarily visiting family" | Your email |
-| 24 Feb 2025, early morning | You are arrested at Unit 104 and released "on bail with conditions not to attend the aggrieved's address" | Police application of 18 March 2025 |
-| 24 Feb 2025, about 2 am | At Unit 104 you tell the attending officers "I'm not staying with my mum. I have nowhere." | Police camera (D50), machine transcript |
-| 24 Feb 2025, from 5:48 am | In the recorded interview an officer puts that you have "been staying at hotels". You answer "I haven't moved into anywhere because that is my home" and "I'm homeless and I'm sleeping in a car" | Interview, 00:21:06 to 00:21:15 and 00:29:43 |
+| 24 Feb 2025, before the arrest | At Unit 104 an officer asks "Where are you living?" You: "This is my home. I've been in a car or on the street or in my mother's sofa." The officer: "So you're staying with your mum at the moment?" You: "I'm not staying with my mum. I have nowhere. I have to sleep in my car" | Harmer camera (D50), 00:17:49 to 00:18:15, machine transcript |
+| 24 Feb 2025 | You are arrested at Unit 104 and released "on bail with conditions not to attend the aggrieved's address". The same document calls Unit 104 "the aggrieved's address" | Police statement of 18 March 2025, page 5 |
+| 24 Feb 2025, interview | In the recorded interview an officer puts that you have "been staying at hotels". You answer "I haven't moved into anywhere because that is my home" and "I'm homeless and I'm sleeping in a car" | Interview, 00:21:06 to 00:21:15 and 00:29:43 |
 | 24 Feb 2025, about 10:38 pm | At your mother's unit she tells an officer there was an "agreement between alexia and corey that it'd be two to three weeks while mum was here it has extended out to 10 weeks". The officer says of Unit 104 "there's no evidence that he's actually living there" and "There's no men's clothes." | Police camera, machine transcript |
-| 18 Mar 2025 | A handwritten police notice gives Unit 104 as your address. A typed police application of the same date gives your mother's unit, and says you had not "resided at the address for some time". This is the earliest record of the Benowa address | Police notice and application |
+| After the arrest | The police court brief, which carries your watch-house photo number, gives "Address: 158 SCARBOROUGH ST Ste 104", says you are "currently residing at Unit 104", and lists your mobile number | Court brief (D11) |
+| 18 Mar 2025, 2:15 pm | The handwritten notice 493283, issued by the same officer who rang the building manager on 24 February: "Address for service (if any): 104, 158 Scarborough St, Southport" | Police notice |
+| 18 Mar 2025 | The typed statement for that notice, under the same job number as the December statement, gives your address as "MARINA RESIDENCES, Unit 207W, 1 MARINA DR, BENOWA". Your mobile number and her address are left blank. It says you had not "resided at the address for some time prior to police attending". This is the earliest record of the Benowa address | Police statement QP 0899A, pages 1 and 7 |
 | 21 Mar 2025 | The court sends a notice of adjournment to you at your mother's unit | Court notice |
 | 22 Mar 2025 | You tell police "I don't have a home at the moment" | Police camera, machine transcript |
 | 23 Mar 2025 | First breach notice to your mother | Referred to in the manager's later email. Not in your papers |
@@ -34,20 +37,21 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 
 **For you.**
 
-- You told police twice that morning, on camera and in the interview, that you had no other home. Your mother told them that evening that your stay with her was a two-to-three-week arrangement made with your former partner.
-- The same day's police paperwork on 18 March 2025 gives two different addresses.
-- The first breach notice is dated two days after the court wrote to you at the unit, and five days after the police application.
-- Police's own document says bail kept you away from the unit you leased.
+- Police had your address. Their December statement and their court brief after the arrest both give Unit 104.
+- Before the arrest an officer asked where you were living and whether you were staying with your mum. You said Unit 104 was your home and that you were not staying with your mum. You said the same in the interview.
+- Police's own statement says bail kept you away from Unit 104, and calls it "the aggrieved's address". The absence the statement then relies on ("not ... resided at the address for some time") was the arrangement your mother described, and from 24 February the police's own bail condition.
+- On 18 March the same officer wrote Unit 104 by hand as your address for service, and your mother's unit as your address in the typed statement. On the same form and job number, the December version had Unit 104 and your mobile number; the March version has her unit and no mobile.
+- The court wrote to you at her unit on 21 March. The first breach notice is dated 23 March, two days later.
 
 **Against you.**
 
-- Your mother told police on camera that you had been staying with her for ten weeks. That is almost certainly where the address came from, so "changed without evidence" will not stand. What stands is that police knew the stay was temporary and why.
+- Your mother told police that evening that you had been staying with her, under an arrangement that had run to ten weeks. Police will say the address came from that. It does not explain why they recorded it as your address after you told them you were not staying there, or why the same officer gave Unit 104 for service the same day.
 - Neither notice from the complex manager mentions police, mail or a complaint by anyone. No overcrowding complaint by a neighbour is in your papers. The notices came from the manager.
 - Only one police visit to the unit is documented, on the evening of 24 February 2025. No police letter to that address is in your papers. The only official letter found is the court's.
 - The Ashmore address police now hold is the one you swore to in July 2025 and gave the council. Police have it from you. A correction request cannot change it. You can (section 7A).
-- Your Executive Summary of 14 July 2026 says the address point "arises from the watchhouse interview (D29, 00:05:01)". The transcript of that interview has no address question or answer there. Check the footage before repeating it.
+- Your Executive Summary of 14 July 2026 says the address point "arises from the watchhouse interview (D29, 00:05:01)". There is no address question at that point. Cite the camera at 00:17:49 to 00:18:15 and the interview at 00:21:06 to 00:21:15 and 00:29:43 instead.
 
-**Missing, and decisive.** The bail undertaking and the watch-house custody record. The police record of when the Benowa address was added and from what. The first breach notice and the notice to leave. Whatever the manager relied on.
+**Missing, and decisive.** The bail undertaking and the watch-house custody record. The police record of when the Benowa address was added, by whom, and from what. The source the officer used on 18 March. The first breach notice and the notice to leave. Whatever the manager relied on.
 
 This also settles item 7 on the fix list in the discrimination plan: police say bail kept you from Unit 104.
 
@@ -122,11 +126,12 @@ Lodge with the police Right to Information and Privacy Unit. Attach certified id
 For the period 1 December 2024 to the date of this request:
 
 1. Each residential or contact address recorded for me in police records, with the date each entry was added, changed or ended, the job number or document it was taken from, and the station or unit that made the entry. I ask for the record of each change. I do not ask for the activity report or any record of who viewed my file.
-2. The watch-house custody record and the bail undertaking for my arrest on 24 February 2025 (QP2500332406).
+2. The watch-house custody record and the bail undertaking for my arrest on 24 February 2025 (QP2500332406), including any residential address or address for service recorded on them and who recorded it.
 3. Any document relied on as the source for recording Unit 207W, 1 Marina Drive, Benowa as my address, including notes of police attendance there on 24 and 25 February 2025, and any document relied on as the source for recording 43 Clear River Boulevard, Ashmore as my address.
 4. Every letter, notice or message police sent to me at either address, or to anyone else about me at either address, and any record of police contact with the manager, body corporate, agent or owner of the Benowa complex.
 5. The job log for each police attendance at or near either address.
 6. Any record of my address being given to another party to a court or tribunal proceeding.
+7. For the typed statement (QP 0899A) dated 18 March 2025 under occurrence QP2402065947, which gives my address as Unit 207W, 1 Marina Drive, Benowa: the source of that address. The handwritten notice 493283 of the same date gives Unit 104 for service, and the court brief for CO2500030466 gives Unit 104.
 
 If any part is refused under schedule 3, section 10(1) of the Right to Information Act 2009, I ask that the documents themselves be examined for section 10(2)(a): Commissioner of the Police Service v Shelton [2020] QCA 96 at [47] to [49].
 
@@ -150,7 +155,16 @@ Any intelligence entry, street check or referral about me that refers to my comp
 
 ## 7. After the first release: correction and privacy complaint
 
-**Correction.** Once you hold the document that shows the Benowa entry, you can apply to have it corrected as inaccurate, out of date or misleading. Expect a refusal: no police correction case was found that succeeded. If refused, you can require police to attach your statement to the entry. That is the practical gain.
+**Correction. Apply now.** You do not need to wait for the release. You have had a copy of the typed statement of 18 March 2025, so you can apply to amend it now. The access Act allows this for any police document you have seen, however you got it. Since 1 July 2025 you can also ask police to correct any record that gives your mother's unit as your address. If police refuse, you can require them to attach your statement to the entry. No police correction case was found where the applicant won outright, so the attached statement is the floor.
+
+**Application to amend personal information, and request to correct**
+
+1. Applicant: Cory Lea Shepherd, born 11 January 1991. Address for notices: [your lawyers' office, or an address that is not your mother's]. Evidence of identity attached.
+2. Document: Statement - Police Protection Notice (QP 0899A), occurrence QP2402065947, dated 18 March 2025, relating to Police Protection Notice 493283. Page 1, Respondent's Details, Address.
+3. Information I say is inaccurate and misleading: my address recorded as "MARINA RESIDENCES, Unit 207W, 1 MARINA DR, BENOWA, QLD Australia 4217".
+4. Why: that unit is my mother's home and I did not reside there. On 24 February 2025 an officer at Unit 104 asked where I was living and whether I was staying with my mother. I said Unit 104 was my home and that I was not staying with my mother and had nowhere (body-worn camera). I said the same in my recorded interview that day. The police court brief for CO2500030466 gives my address as Unit 104, and the handwritten notice 493283 of the same date gives Unit 104 for service. From 24 February 2025 I was on bail not to attend Unit 104 and had no fixed address.
+5. Amendment sought: remove Unit 207W, 1 Marina Drive, Benowa as my address in this document. If it is not removed, add this notation: "Unit 207W, 1 Marina Drive, Benowa is the home of the respondent's mother. The respondent did not reside there. From 24 February 2025 he had no fixed address."
+6. Under privacy principle 13, I also ask police to correct any police record that gives Unit 207W, 1 Marina Drive, Benowa as my residential or contact address, and to tell me what was changed.
 
 **Privacy complaint.** Lodge one only if Request 1 shows the address was entered with no source, or was passed on. It goes to police first, who have 45 business days, then to the Information Commissioner, then to the tribunal if you ask the Commissioner to refer it.
 
@@ -169,6 +183,7 @@ There are two addresses and two different problems. The Benowa entry of March 20
 3. Take your mother's address off your own records: your driver licence, the council registration, and anything you file or send from now on. Police and courts take addresses from those.
 4. If you do not live at your mother's home, have your lawyers say so in writing to the prosecutor, with where you can be reached.
 5. Your mother can write to police in her own name asking that her home not be used to contact you. She should say only what is true about whether you live there.
+6. Apply now to correct the Benowa entry (section 7).
 
 ## 8. Getting records through a case
 
@@ -182,6 +197,7 @@ There are two addresses and two different problems. The Benowa entry of March 20
 - Ask the complex manager or agent for the breach notice of 23 March 2025, the notice to leave of 12 April 2025, and what prompted them.
 - Lodge her own free request to police for records of the visit to her unit, any police contact with her manager, and any record giving her unit as your address.
 - If those show police passed anything to the manager, she has her own privacy complaint for her own loss.
+- Police must give proper consideration to the human rights of her household when they act, including the protection of families and a child's right to the protection that is in the child's best interests (Human Rights Act 2019 ss 26 and 58). A complaint about that is hers, and her grandchild's through a parent. It goes to police first, then to the Human Rights Commission. Events of March and April 2025 are more than one year old, which the Commission may refuse on but can accept. Any use of her address by police in the last year is inside the limit.
 
 ## 10. What stays out
 

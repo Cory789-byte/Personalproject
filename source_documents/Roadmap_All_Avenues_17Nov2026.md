@@ -15,7 +15,7 @@
 
 **Why I would not lodge its letter.**
 
-1. *It states a fact your records do not show.* The letter says your address was recorded as your mother's during the watch-house interview on 24 February 2025, over your objection. The transcript of that interview has no address question. The earliest record of the Benowa address in your papers is a police application of 18 March 2025.
+1. *It states a fact your records do not show.* The letter says your address was recorded as your mother's during the watch-house interview, over your objection. Nothing shows when it was recorded. What the records show is better: before the arrest an officer asked where you were living and you said you were not staying with your mother; police's court brief after the arrest still gave Unit 104; and the first police document giving her address is the statement of 18 March 2025.
 2. *It makes an admission against you.* "I acknowledge that I was aware of the alleged address discrepancy during the original watchhouse interview" starts the time limit at the earliest possible date, on a fact that is not established.
 3. *It attaches the Case Study again.* That document still says a call was made from your phone while you were in custody. That is wrong by an hour (section 4).
 4. *Three of its four items are not privacy matters.* A reference number that "does not match our records" and a report marked "declined" are evidence for the discrimination claim about the dog. Missing camera segments are a disclosure matter for the criminal court. The reused job number is an administrative error at most.
@@ -27,29 +27,26 @@
 
 **What it underuses.** Since 1 July 2025 police must take reasonable steps to correct personal information when the person asks, unless they could refuse the correction under the access Act, for example because they are not satisfied the entry is wrong. A correction request made after Request 1 is a new act with its own time limit. It does not cure a weakness in the facts, but it removes the lateness problem for the 2025 entry.
 
-## 2. Every avenue, ranked
+## 2. Every avenue, and what decides it
 
-Chances are my judgement on what I have read.
-
-| Avenue | What it can give | Chance | First step |
+| Avenue | What it can give | What decides it | First step |
 |---|---|---|---|
-| Criminal court: direction to produce the missing camera footage | The footage, or a sworn explanation | About three in four | Your lawyers apply |
-| Criminal court: the burglary charge | The charge falls | About two in three | Give your lawyers the case document |
-| Right to information: your address history and its source | The date, source and unit for each address entry | About three in four | Lodge Request 1 |
-| Right to information: the night of 1 to 2 December 2024 | The record of your report | About even that useful records still exist | Lodge the request |
-| Information Commissioner: your open review of the footage request | A binding decision on whether police searched properly | About even | Answer the question of 19 November 2025 |
-| Correction of the address record | Your statement attached to the entry as of right; a corrected entry less likely | Statement: certain if you ask. Correction: about one in five | After Request 1 |
-| Criminal court: costs after dismissal | A ruling on whether the investigation was adequate | About one in three | Only if the charges are dismissed |
-| Discrimination complaint: the 2026 complaint handling | Compensation; the tribunal can direct production of the Ethical Standards file | About one in three | After 6 January 2027 |
-| Commission: review of how police dealt with the referral | A written answer on who decided | About one in four | Your letter of 20 November |
-| Direct question to the Deputy Commissioner's office | The same answer, sooner | About one in four | Three lines |
-| Discrimination complaint: the dog | Compensation, acknowledgment | About one in five now; one in three if the police record confirms your report and the charge falls | After 6 January 2027 |
-| Discrimination complaint: the home | Same | About one in six now; one in three if the charges fall | After 6 January 2027 |
-| Privacy complaint to the tribunal | Apology, correction, compensation for your own loss; confidential inspection of access records | About one in eight today. Much higher if Request 1 shows the entry had no source or was passed on | Only after Request 1 |
-| Property claim for the dog | A decision on who owns the dog | Not assessed | Time limit: raise with your lawyers now |
-| Civil claim over the arrest or the prosecution | Damages | Low, and only after the charges end | Not now |
-| Judicial review of the Ethical Standards outcome | The outcome set aside | Low. Time limits not checked and probably passed | Not recommended |
-| Parliamentary committee | Scrutiny of the Commission | Low | Only after a refusal by the Commission |
+| Criminal court: the charges | The charges fall | The camera sequence from 1:55 to 2:35 am, the lease, the order's conditions and your interview | Give your lawyers the case document |
+| Criminal court: direction to produce the missing camera footage | The footage, or a sworn explanation | The arresting officer's statement that his camera was on | Your lawyers apply |
+| Right to information: your address history and its source | The date, source and unit for each address entry | Asking for the record of each change, not the access log | Lodge Request 1 |
+| Correction of the address record | Removal of your mother's address, or your statement attached to the entry as of right | The camera at 00:17:49, the court brief and the handwritten notice, all giving Unit 104 or your own words | Apply now |
+| Right to information: the night of 1 to 2 December 2024 | The record of your report | Whether the records were kept | Lodge the request |
+| Information Commissioner: your open review of the footage request | A binding decision on whether police searched properly | Answering the Commissioner's question | Answer the question of 19 November 2025 |
+| Criminal court: costs after dismissal | A ruling on whether the investigation was adequate | A dismissal in the Magistrates Court, and what police knew before the arrest | Only if the charges are dismissed |
+| Discrimination complaint: the 2026 complaint handling | Compensation; the tribunal can direct production of the Ethical Standards file | Whether your condition is why the one-day deadline could not be met | After 6 January 2027 |
+| Discrimination complaint: the home and the dog | Compensation, acknowledgment | The outcome of the charges, and the police record of the December night | After 6 January 2027 |
+| Commission: review of how police dealt with the referral | A written answer on who decided | The Commission's discretion | Your letter of 20 November |
+| Direct question to the Deputy Commissioner's office | The same answer, sooner | Whether the office replies | Three lines |
+| Privacy complaint to the tribunal | Apology, correction, compensation for your own loss; confidential inspection of access records | What the release shows about the source and use of the address; time | Only after Request 1 |
+| Property claim for the dog | A decision on who owns the dog | Ownership evidence, and the family-law time limit | Raise with your lawyers now |
+| Civil claim over the arrest or the prosecution | Damages | The outcome of the charges | Not now |
+| Judicial review of the Ethical Standards outcome | The outcome set aside | Time limits, probably passed | Not recommended |
+| Parliamentary committee | Scrutiny of the Commission | A refusal by the Commission first | Only after a refusal |
 
 ## 3. The steps, in order
 
@@ -60,23 +57,24 @@ Chances are my judgement on what I have read.
 3. Answer the Information Commissioner's question of 19 November 2025 about the footage request.
 4. Put the correction in section 4 into your letter to the Commission on 20 November, and send the same paragraph to the Deputy Commissioner's office, which holds the Case Study. Show your lawyers first.
 5. Raise the family-law time limit for the dog with your lawyers.
+6. Apply to correct the Benowa address. You have the 18 March statement, so you can apply now. The wording is in the records plan, section 7.
 
 **When Request 1 is decided (about six weeks).**
 
-6. Ask police to correct the address record, using what the release shows.
-7. Decide on the privacy complaint. Lodge it only if the release shows the entry had no source, or that the address was passed to someone else. Use the draft in section 5, not the proposal's letter.
-8. Lodge Request 3 (job reports and flags). Then Request 4 (complaints). Then Request 5 (intelligence), on its own.
-9. Your mother asks the complex manager for the March and April 2025 notices and what prompted them, and lodges her own request to police.
+7. If police refuse the correction, require them to attach your statement to the entry. Use the release to support a second request.
+8. Decide on the privacy complaint. Lodge it only if the release shows the entry had no source, or that the address was passed to someone else. Use the draft in section 5, not the proposal's letter.
+9. Lodge Request 3 (job reports and flags). Then Request 4 (complaints). Then Request 5 (intelligence), on its own.
+10. Your mother asks the complex manager for the March and April 2025 notices and what prompted them, and lodges her own request to police.
 
 **After 6 January 2027.**
 
-10. Lodge the discrimination complaint with the Human Rights Act complaint, after your lawyers have read it.
+11. Lodge the discrimination complaint with the Human Rights Act complaint, after your lawyers have read it.
 
 **When the charges end.**
 
-11. Costs application, if dismissed in the Magistrates Court.
-12. Send the result to the Commission as new information.
-13. The phone is returned. The discrimination claims about the home and the dog move to about one in three.
+12. Costs application, if dismissed in the Magistrates Court.
+13. Send the result to the Commission as new information.
+14. The phone is returned. The discrimination claims about the home and the dog are ready to lodge.
 
 ## 4. The correction to make now
 

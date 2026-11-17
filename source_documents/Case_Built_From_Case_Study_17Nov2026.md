@@ -26,8 +26,8 @@ On 23 February 2025 you went to your own leased home for your belongings, with r
 | 5:27:24 am | The manager: "he's still on the lease so it's nothing has been changed with that" |
 | 5:28:12 am | The officer: "you're inconveniencing a domestic violence victim survivor who's been put through a lot by her partner" |
 | 5:28:37 am | The manager: "you need to sort of listen to his side as well because he's got video footage". The officer: "we have video evidence from both sides so yeah we'll just be fair" |
-| 5:48 am | The formal interview begins at the watch-house |
-| About 6:17 am | In the interview, an officer twice calls your former partner "the other leaseholder" (interview 00:34:31 and 00:35:57) |
+| Later on 24 Feb | The recorded interview begins. The officer gives the time as "548"; the transcript places it at 5:48 pm. Check the custody record |
+| About 6:17 pm | In the interview, an officer twice calls your former partner "the other leaseholder" (interview 00:34:31 and 00:35:57) |
 
 ## 3. The merits, point by point
 
@@ -67,20 +67,23 @@ On 23 February 2025 you went to your own leased home for your belongings, with r
 
 - 5:23 am: "cory's not the leaseholder". 5:26 am: "we've been given evidence tonight to say that corey is no longer on the lease". The officer had not spoken to the property manager.
 - The manager corrected this each time. Police still required access to be restored for your former partner "and her friend", and said you would not be going back.
-- Less than an hour later the interviewing officers called her "the other leaseholder".
+- Later that day the interviewing officers twice called her "the other leaseholder".
 
 **7. Within a day the foundation was gone.**
 
 - 25 February 2025: "APPLICATION IS WITHDRAWN, TPO VACATED." (D6). The issuing officer later wrote it was struck out "upon my submission of no evidence from the aggrieved" (D7).
 - The stalking charge has been dropped. The prosecution has itself said the entry charge should be trespass.
 
-**8. You told police you had no other home.**
+**8. Police had your address, asked where you lived, then recorded your mother's home.**
 
-- An officer put to you that you had "been staying at hotels and just, like, not at that unit". You answered: "I haven't had a home, because that's my home ... I haven't moved into anywhere because that is my home" (00:21:06 to 00:21:15).
-- "I'm homeless and I'm sleeping in a car" (00:29:43).
-- At Unit 104 before the arrest: "I'm not staying with my mum. I have nowhere." (D50).
-- That evening your mother told an officer at her unit that there was an "agreement between alexia and corey that it'd be two to three weeks while mum was here it has extended out to 10 weeks".
-- Three weeks later a police application recorded your mother's unit as your address, and said you had not "resided at the address for some time". The absence it relies on is the one your former partner asked for.
+- Police's December 2024 statement gave Unit 104 and your mobile number.
+- Before the arrest an officer asked "Where are you living?" You: "This is my home. I've been in a car or on the street or in my mother's sofa." The officer: "So you're staying with your mum at the moment?" You: "I'm not staying with my mum. I have nowhere. I have to sleep in my car" (Harmer camera, D50, 00:17:49 to 00:18:15).
+- In the interview: "I haven't moved into anywhere because that is my home" (00:21:15); "I'm homeless and I'm sleeping in a car" (00:29:43).
+- Bail kept you from Unit 104. The police statement calls it "the aggrieved's address".
+- The police court brief, made after the arrest, still gave "158 SCARBOROUGH ST Ste 104" and "currently residing at Unit 104", with your mobile number (D11).
+- That evening your mother told an officer there was an "agreement between alexia and corey that it'd be two to three weeks while mum was here it has extended out to 10 weeks".
+- 18 March 2025: the same officer's handwritten notice gave Unit 104 as your address for service. His typed statement for the same notice, under the same job number as the December statement, gave your mother's unit as your address, left your mobile number blank, and said you had not "resided at the address for some time prior to police attending".
+- 21 March 2025: the court wrote to you at your mother's unit. 23 March: the first breach notice to your mother.
 
 ## 4. Points to meet
 
@@ -104,6 +107,7 @@ These are the four things the other side will press. Each needs your exact accou
 1. **The custody call.** Your carrier's log is in Sydney time. The "3:26 am" call is the 2:26 to 2:30 am speaker call, before your arrest. Withdraw that allegation. The manager's declaration carries the same one-hour shift.
 2. **The lease confirmation.** It is on camera at 2:28 am. Use that, not the 1:54 am time.
 3. **The interview and your address.** I said earlier the interview had nothing on your address. That was too narrow. It has no address question at 00:05:01, but at 00:21:15 and 00:29:43 you tell police you have no other home and are sleeping in a car. Cite those times.
+4. **The interview time.** I first gave it as 5:48 am. The transcript places it at 5:48 pm. The custody record will settle it.
 
 ## 7. What to give your lawyers
 
