@@ -52,7 +52,7 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 - The Ashmore address police now hold is the one you swore to in July 2025 and gave the council. Police have it from you. A correction request cannot change it. You can (section 7A).
 - Your Executive Summary of 14 July 2026 says the address point "arises from the watchhouse interview (D29, 00:05:01)". There is no address question at that point. Cite the camera at 00:17:49 to 00:18:15 and the interview at 00:21:06 to 00:21:15 and 00:29:43 instead.
 
-**Missing, and decisive.** The bail undertaking and the watch-house custody record. Whether the court later varied your bail, and the address on any later undertaking. What happened on the protection-order file on and after 30 May 2025. The police record of when the Benowa address was added, by whom, and from what. The source the officer used on 18 March. The first breach notice and the notice to leave. Whatever the manager relied on.
+**Missing, and decisive.** The bail undertaking and the watch-house custody record. The court order removing the address condition from your bail, its date, and the address on any later undertaking. The tribunal strike-out application, its attachments and the decision. What happened on the protection-order file on and after 30 May 2025. The police record of when the Benowa address was added, by whom, and from what. The source the officer used on 18 March. The first breach notice and the notice to leave. Whatever the manager relied on.
 
 This also settles item 7 on the fix list in the discrimination plan: police say bail kept you from Unit 104.
 
@@ -117,6 +117,8 @@ This also settles item 7 on the fix list in the discrimination plan: police say 
 - Nothing in your papers links the manager's notices to police. The dates are close. That is all so far.
 - "Dictated where I lived" is the bail condition. That is a matter for the criminal court and your lawyers, and it is the bail papers that prove it.
 - No tribunal file for the tenancy matter is in your papers beyond the stamped pages. As a party you can ask the registry for the file.
+- Your account: you applied to the criminal court and it removed the address condition from your bail; you then applied to the tenancy tribunal; the old condition was then used to have your tribunal application struck out. The police statement of 18 March 2025 recites that old condition word for word, calls Unit 104 "the aggrieved's address", says you had not lived there, and gives your mother's unit as your address. Three documents prove the rest: the court order removing the condition, with its date; the strike-out application with every attachment, and the tribunal's decision and reasons, with dates; and Request 1 item 8, which asks who police gave your bail conditions to and when their records showed the change.
+- In the tribunal, a party can apply for leave to appeal within 28 days of the decision, or apply to reopen on significant new evidence that was not reasonably available at the first hearing. The tribunal can extend time even after it has passed, but not where that would cause another party prejudice that costs or damages cannot remedy (QCAT Act ss 61, 138, 142, 143 and the definition of "reopening ground"). For a 2025 decision both routes are long out of time; whether a fresh application is open depends on why it was struck out. Your lawyers need the decision to answer that.
 
 ## 6. The requests, in order
 
@@ -133,6 +135,7 @@ For the period 1 December 2024 to the date of this request:
 5. The job log for each police attendance at or near either address.
 6. Any record of my address being given to another party to a court or tribunal proceeding.
 7. For the typed statement (QP 0899A) dated 18 March 2025 under occurrence QP2402065947, which gives my address as Unit 207W, 1 Marina Drive, Benowa: the source of that address. The handwritten notice 493283 of the same date gives Unit 104 for service, and the court brief for CO2500030466 gives Unit 104.
+8. Any record of my bail conditions being given to any person, including the aggrieved, a named person or a tribunal, with the date and the conditions given; and the date police records were updated to show the court's variation of my bail.
 
 If any part is refused under schedule 3, section 10(1) of the Right to Information Act 2009, I ask that the documents themselves be examined for section 10(2)(a): Commissioner of the Police Service v Shelton [2020] QCA 96 at [47] to [49].
 
