@@ -1799,6 +1799,8 @@ This document rebuts every fact-claim QPS / its witnesses make to support the ch
 
 ### ¶Officer-Calls-Sign-Coming-Up-Under-Duress-Anomaly — • ⚠ OFFICER OBSERVES DURESS-FLAG ANOMALY — POSSIBLE QPS SYSTEM-LEVEL TARGETING ARTEFACT
 
+> **Correction, 18 November 2026.** Do not rely on this entry. "Our call sign" and "your call sign" are the officers' own radio call signs; one officer is speaking to another. Cory has no call sign. The passage is not evidence of a flag on Cory's record, and the "legal effect" below is withdrawn. See QHRC_Complaint_Package/01_Counsel_Advice.md, section 5.6.
+
 > _The, um, our call sign's coming up under duress again, look. … yeah this is what happened the other day this is what your call sign was showing the other day maybe it's never been deleted the court like the duress has never been removed from you_
 
 **Source:** RTI_56733_-_Release_under_the_RTI_Act_-_Axon_Body_3_Video_2025-03-22_0806_X60J0351B.m4a · [04:00-04:32] · speaker: Officer (one to other)

@@ -44,8 +44,9 @@ I seek access to the following documents for the period 7:00 pm on 1 December 20
 1. Policelink service delivery complaint 8933558 (December 2023): the complaint as recorded, the officer it was allocated to, the outcome, and the correspondence.
 2. My complaint about police's response to a welfare concern for a family member who was a minor [insert date and any reference]: the complaint as recorded, who dealt with it, and the outcome.
 3. Complaint COM-24-00832: the complaint as recorded, its classification, the officer it was allocated to, and the outcome.
-4. Any flag, alert, warning or note on my police record that refers to me making complaints about police, with the date it was created and by whom.
+4. Every flag, alert, warning, caution or note recorded against my name, my address or my telephone number, in QPRIME or in the computer-aided dispatch system, whether current or removed, from 1 December 2023 to the date of this request: its text, the date it was created, the station or unit and the registered number of the officer who created it, the occurrence it was created from, the reason recorded, and any review or removal. This includes the Tasks/Flags tab of each occurrence that names me. I do not ask for the activity report or any record of who viewed my file.
 5. For each of the officers involved on 1–2 December 2024, 24 February 2025 and 22 March 2025: whether that officer was the subject of, dealt with, or was told of any of the complaints in items 1 to 3. I do not ask for any officer's personal information beyond that.
+6. Every entry added to, or changed in, occurrence QP2402065947 or my person record between 1 March and 30 April 2026: the date and time of each entry, the station or unit and the registered number of the officer who made it, and what was added or changed. I ask for the record of the changes themselves, not a record of who viewed the file.
 
 ## Request D — Ethical Standards file (lodge now)
 
