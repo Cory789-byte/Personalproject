@@ -1,11 +1,14 @@
 # The full case
 
-Cory Lea Shepherd and the Queensland Police Service. 18 November 2026, second version, after a review of the Sibley files in your Drive. For your lawyers.
+Cory Lea Shepherd and the Queensland Police Service. 18 November 2026, third version, after two passes through the Sibley files in your Drive. For your lawyers.
 
 Every fact here comes from a police recording, a police or court document, an independent person or your own records, and the source is given. Where something rests on your account alone, it says so. Camera and interview lines are from machine transcripts whose speaker labels are unreliable: check each one against the footage at the time given before it is relied on. The copies of text messages read for this version do not show which side of the screen each message sits on: check the originals before saying who wrote a line.
 
-**New in this version.**
+**New since the first version.**
 
+- Your lease ran to 10 April 2025, and your notice of intention to leave was "Without grounds" with "Immediately" as the leaving date, so it could not operate before 10 April 2025 (section 4).
+- Your notice gave Unit 104 as your forwarding address (section 5).
+- Two companion documents: the police records matter and the discrimination case (section 13).
 - The leasing manager's police statement of 27 May 2026, and her own emails and texts from the time, which answer it (section 4).
 - How a tenancy ends under the tenancy law (section 4).
 - The police index to brief of 22 August 2025, and what it leaves out (section 4).
@@ -73,7 +76,7 @@ All times are Queensland time.
 | Date | What happened | Source |
 |---|---|---|
 | 10 to 11 Dec 2023 | You pay $3,150 and $350 for the dog. The second payment is marked "Cory Alexia Pom" | Bank records |
-| 11 Apr 2024 | The joint lease starts. You are Tenant 1 | Lease (D1) |
+| 11 Apr 2024 | The joint lease starts, for 12 months to 10 April 2025. You are Tenant 1 | Lease (D1). Leasing manager's emails of 27 Jan and 9 Feb 2024 |
 | 16 Jul 2024 | A vet invoices you for the dog | Vet invoice |
 | 1 Dec 2024, 8:30 pm | Police notice. Its only condition is good behaviour. Your version is taken by phone. Your address is Unit 104 | Police notice and statement |
 | 1 Dec 2024, about 11:05 pm | People enter. You are pushed and the dog is taken. You call triple zero. Police arrive about 11:15 pm | Your filed account. CCTV stills |
@@ -81,7 +84,7 @@ All times are Queensland time.
 | 2 Dec 2024 | Police take her signed statement that money was missing from her wallet and that only you and she had access | Her statement |
 | 3 Dec 2024 | Order by consent without admissions: good behaviour, and you must let her into Unit 104 with a police officer by 1 January 2025 "to recover undisputed personal property" | Court order (D5) |
 | 5 to 6 Dec 2024 | She asks the leasing manager to take her off the lease. The leasing manager will "check with Cory to see what he wanted to do with his lease". Later on 6 December you agree by email that you will come off and she will pay a new bond | Leasing manager's statement, paras 4 to 8 |
-| 7 Dec 2024, 5:13 pm | Your notice of intention to leave, which the officer later describes as "effective immediately to vacate" | Notice (D4). Interview (D29) |
+| 7 Dec 2024, 5:13 pm | Your notice of intention to leave: "Without grounds"; leaving "Immediately (minimum notice periods apply-see overleaf)"; forwarding address Unit 104 | Notice (D4). Leasing manager's statement, para 9 |
 | 8 Dec 2024, 7:23 am | The leasing manager to you: "As long as either of you are staying, it is okay. I will contact Alexia for details." | Her email |
 | 16 to 19 Dec 2024 | At her request, while she has the dog, you sign transfer papers. She posts them | Messages |
 | 19 Feb 2025 | An entry notice for 20 February is put under the door and emailed to her | Manager's declaration, para 24 |
@@ -153,7 +156,8 @@ All times are Queensland time.
    - In your interview the officer called her "the other leaseholder" twice and asked "Who is the co-leasehold[er]?". There cannot be another leaseholder unless you are one.
 2. **The tenancy had not ended.**
    - A tenancy ends only in the ways the tenancy law lists. A tenant's notice of intention to leave ends it only when vacant possession is also handed over, on or after the handover day (Residential Tenancies and Rooming Accommodation Act 2008 s 277(c), as in force on 23 February 2025 and now).
-   - One tenant's share can end while the other stays only in set cases: death (s 244), a notice given by a tenant experiencing domestic violence (ss 308A and 308E), or a tribunal order (s 245). Your notice was none of these. Nothing in your papers shows she applied for one, and the tribunal would have had to consider that the order of 3 December had no condition keeping you out (s 245(4)(c)).
+   - Your lease was for 12 months from 11 April 2024, so it ran to 10 April 2025 (D1; leasing manager's emails of 27 January and 9 February 2024). Your notice is marked "Without grounds" and gives the leaving date as "Immediately (minimum notice periods apply-see overleaf)". A notice without grounds cannot set a handover day before a fixed term ends (s 327(2) and schedule 1, part 2). So it could not operate before 10 April 2025, the day her new lease began.
+   - One tenant's share passes or ends while the other stays only in particular ways: a transfer the lessor agrees to in writing (ss 237 and 238), a notice from a tenant experiencing domestic violence (ss 308A and 308E), a tribunal order (s 245), or death (s 244). Your notice was not a domestic violence notice. Nothing in your papers shows a tribunal application; the tribunal would have had to consider that the order of 3 December had no condition keeping you out (s 245(4)(c)). What the leasing manager set up was a new lease in her name, not a transfer of yours.
    - On 23 February she was still living there under the same agreement, and your belongings were still inside. The leasing manager's own statement records your complaint that your property was "still being in the apartment" (para 14).
    - Her new lease and new bond, the step all three of you had described in December, did not exist until after your arrest: her bond was notified on 27 February, her lease was signed between 27 February and 6 March, and it began on 10 April.
    - The prosecution must choose. If your notice ended the agreement, it ended for both of you, and she had no tenancy either until April. If it did not, you were still a tenant on 23 February.
@@ -198,8 +202,8 @@ What it means:
 
 **Points to meet.** These are the other side's best points. Each needs your exact account, given to your lawyers.
 
-- **The emails of 6 December 2024.** Their best point: you agreed in writing to come off the lease and she would pay a new bond. The answer: the new lease and new bond had not happened by 23 February, and the leasing manager wrote on 21 and 22 February of a new lease still to come. On your account the arrangement was for two to three weeks ("I signed saying two to three weeks if she was scared"; your email of 20 February).
-- **The notice of 7 December 2024,** "effective immediately to vacate". A notice given without a ground must give at least 14 days and cannot end a fixed term early (schedule 1, part 2). The building manager says it needed both signatures.
+- **The emails of 6 December 2024.** Their best point: you agreed in writing to come off the lease and she would pay a new bond, and the leasing manager agreed. They may call that a transfer the lessor agreed to (s 238). The answer: the new lease and new bond had not happened by 23 February, and the leasing manager wrote on 21 and 22 February of a new lease still to come. On your account the arrangement was for two to three weeks ("I signed saying two to three weeks if she was scared"; your email of 20 February).
+- **The notice of 7 December 2024.** The officer called it "effective immediately to vacate". It is marked "Without grounds", and a notice without grounds cannot take effect before a fixed term ends (s 327(2) and schedule 1, part 2). Your term ran to 10 April 2025. The building manager says it needed both signatures.
 - **The fobs and keys.** The building manager told police he had been told the fobs were lost or stolen. In the interview the officer put that you gave "unilateral permission to cancel the fobs", and used the joint tenancy to say that trying to have her friend removed was "an exercise in control over your partner". Police seized a key and a black fob from you. That evening an officer told your mother it was "a master key for that scion unit" (D59, 10:19 pm). Your lawyers need your account of each key and fob you held and who gave it to you.
 - **The building manager's paragraph 25:** "neither Cory Shepherd nor Alexia Negro were residing in the apartment at that time". The question is your right to enter, not where you slept. The same paragraph says her friend was "not an authorised occupant under the lease agreement, nor an approved guest or visitor".
 - **Your own words about where you were staying.** Your email of 20 February says you were "temporarily visiting family". A message the building manager passed on says "a temporary stay with my mother". The answer: a short arrangement while her family visited, which your mother described to police as "two to three weeks while mum was here", and your sister's partner's draft affidavit as staying "periodically". Your lease, bond and belongings stayed at Unit 104, and on 22 February you declared it your home.
@@ -220,13 +224,14 @@ What it means:
 **The chain in police's own documents.**
 
 1. December 2024: their statement gives Unit 104 and your mobile number.
-2. 22 February 2025: your declaration to the Registry gives 158 Scarborough Street, Southport as your home.
-3. Before the arrest an officer asks where you are living and whether you are staying with your mum. You say Unit 104 is your home and that you are not staying with your mum and have nowhere (D50, 00:17:49 to 00:18:15). You say the same in the interview (00:21:15 and 00:29:43).
-4. Bail keeps you from Unit 104. Their statement calls it "the aggrieved's address".
-5. After the arrest their court brief still gives Unit 104, "currently residing at Unit 104", with your mobile number (D11).
-6. That night two officers go to your mother's unit about the dog (D59, from about 10:17 pm).
-7. 18 March 2025: the same officer who rang the building manager writes Unit 104 by hand as your address for service. His typed statement for the same notice, under the same job number as December, gives your mother's unit as your address and leaves your mobile number blank. It says you had not "resided at the address for some time prior to police attending".
-8. 21 March 2025: the court writes to you at your mother's unit. 23 March: the first breach notice to your mother.
+2. 7 December 2024: your own notice of intention to leave gives Unit 104 as your forwarding address.
+3. 22 February 2025: your declaration to the Registry gives 158 Scarborough Street, Southport as your home.
+4. Before the arrest an officer asks where you are living and whether you are staying with your mum. You say Unit 104 is your home and that you are not staying with your mum and have nowhere (D50, 00:17:49 to 00:18:15). You say the same in the interview (00:21:15 and 00:29:43).
+5. Bail keeps you from Unit 104. Their statement calls it "the aggrieved's address".
+6. After the arrest their court brief still gives Unit 104, "currently residing at Unit 104", with your mobile number (D11).
+7. That night two officers go to your mother's unit about the dog (D59, from about 10:17 pm).
+8. 18 March 2025: the same officer who rang the building manager writes Unit 104 by hand as your address for service. His typed statement for the same notice, under the same job number as December, gives your mother's unit as your address and leaves your mobile number blank. It says you had not "resided at the address for some time prior to police attending".
+9. 21 March 2025: the court writes to you at your mother's unit. 23 March: the first breach notice to your mother.
 
 **What it shows.** Police held your address, asked you where you lived and were told. Their own condition kept you out of your home. They then recorded your mother's home as yours, and described as "not having resided" an absence your mother had described to them as a temporary arrangement, and which from 24 February their own bail condition enforced.
 
@@ -240,7 +245,7 @@ What it means:
 - Ask your lawyers to give their office as your address for service on every file.
 - Take your mother's address off your own records: licence, council registration, anything you file.
 - Lodge Request 1 (Annex C). It asks when the entry was made, by whom and from what.
-- Lodge a privacy complaint only if the release shows the entry had no source, or that the address was given to someone else.
+- Lodge a privacy complaint only if the release shows the entry had no source, or that the address was given to someone else. The staged route, with the drafts, is in "The police records matter".
 
 **Your mother's household.** Your mother, your sister and your sister's baby, born in September 2024 (your account), lived at the Benowa unit.
 
@@ -285,11 +290,11 @@ You must prove each claim: a transitional rule keeps the old burden of proof for
 
 **Claim A: the home.** On 24 February 2025 police put the man named on the lease out of his home, and restored access for a woman who was named on neither the lease nor the order. They gave the building manager a reason, "cory's not the leaseholder", that the building manager had told them was wrong, and that their own interviewing officer contradicted within the hour. A stated reason shown to be untrue lets the tribunal look for the real one. The weak joint is the arrest: police will say a woman arrested on the same allegations would have been removed too. That stands or falls with the criminal case.
 
-**Claim C: the dog.** In December 2024 she had the dog and you complained, with papers in hand. Police said it was civil, left the dog with her and took no statement from you, and took a statement from her the next day. On the evening of 24 February 2025, because she was worried about the dog, two officers went to your mother's home: "we're trying to sort of assist her all we can" (D59, 10:22 pm). Police then rang your sister's household four times and questioned your sister, then 16 (draft affidavit). In March 2025 police took the dog from you: "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back". In April 2025, when you asked about your report, Policelink replied that the information "does not match our records". On your account of the August 2025 hearing, police then gave the dog to her without a court order. Same dispute, same dog, same police service: the man was the one sent to court both times. The weak joints are your December messages and signature, and the charge.
+**Claim C: the dog.** In December 2024 she had the dog and you complained, with papers in hand. Police said it was civil, left the dog with her and took no statement from you, and took a statement from her the next day. On the evening of 24 February 2025, because she was worried about the dog, two officers went to your mother's home: "we're trying to sort of assist her all we can" (D59, 10:22 pm). Police then rang your sister's partner four times and questioned your sister, then 16, on one of the calls (his draft affidavit). In March 2025 police took the dog from you: "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back". In April 2025, when you asked about your report, Policelink replied that the information "does not match our records". On your account of the August 2025 hearing, police then gave the dog to her without a court order. Same dispute, same dog, same police service: the man was the one sent to court both times. The weak joints are your December messages and signature, and the charge.
 
 **Claim B: the 2026 complaint handling.** The police notice of 1 December 2024 records that you have "a mental illness and requires medication". On 18 June 2026 Ethical Standards required particulars by the next day. On 10 September 2026 it finalised your complaint without contacting you. The outcome names no right and does not mention your condition. This works only if your condition is why the deadline could not be met. If you answered in time, run this part under the Human Rights Act alone.
 
-**Route.** One complaint to the Queensland Human Rights Commission under the Anti-Discrimination Act and the Human Rights Act. The draft is in the discrimination plan, section 11.
+**Route.** One complaint to the Queensland Human Rights Commission under the Anti-Discrimination Act and the Human Rights Act. The full layout and the draft complaint are in "The discrimination case" (18 November 2026).
 
 **Time.** Claim B is in time until 18 June 2027. Claims A and C are out of time and need good cause: a criminal case on the same events is still running; your health; you took the same events to the Commission earlier (EDR19098); and nothing is lost to police because the footage exists and you asked for it to be kept.
 
@@ -382,13 +387,14 @@ You must prove each claim: a transitional rule keeps the old burden of proof for
 
 - The merits, point by point: "Your case on its merits" (third version, 18 November 2026).
 - The records, the decisions checked and the request wording: the records plan (17 November 2026).
-- The discrimination claims and draft complaint: the discrimination plan (11 November 2026).
+- The police records matter, staged to be accepted at each step: "The police records matter" (18 November 2026).
+- The discrimination claims in full, with the draft complaint: "The discrimination case" (third version, 18 November 2026). It replaces the plan of 11 November 2026.
 - Every avenue in order: the roadmap (17 November 2026).
 - The Ethical Standards and Commission correspondence: the assessments of 10 November 2026.
 
 ## 14. Law checked
 
-All from the current authorised text unless stated: Justices Act 1886 ss 83A (including (5)(aa)), 158 and 158A; Criminal Code ss 22, 24, 36, 590AB and 590AD; Summary Offences Act 2005 s 11; Residential Tenancies and Rooming Accommodation Act 2008 ss 244, 245, 277, 308A, 308E and 327 and schedule 1, part 2, current and as in force on 23 February 2025; Bail Act 1980 ss 7, 16, 19, 19B and 20; Information Privacy Act 2009 ss 27, 29 and 164 to 178, privacy principles 10, 12 and 13, and the former s 29 and principles 7 and 8 as at 30 June 2025; Right to Information Act 2009 ss 46, 47, 78C to 78V, 80, 85 and 88 and schedule 3 s 10; QCAT Act 2009 ss 61, 62, 63, 97, 138, 139, 142 and 143; Anti-Discrimination Act 1991 ss 7, 8, 10, 11, 101, 138, 140, 141A and 285AA; Human Rights Act 2019 ss 15, 24, 25, 26, 58, 64, 65 and 70; Crime and Corruption Act 2001 s 47(1)(b).
+All from the current authorised text unless stated: Justices Act 1886 ss 83A (including (5)(aa)), 158 and 158A; Criminal Code ss 22, 24, 36, 590AB and 590AD; Summary Offences Act 2005 s 11; Residential Tenancies and Rooming Accommodation Act 2008 ss 237, 238, 244, 245, 277, 308A, 308E and 327 and schedule 1, part 2, current and as in force on 23 February 2025; Bail Act 1980 ss 7, 16, 19, 19B and 20; Information Privacy Act 2009 ss 27, 29 and 164 to 178, privacy principles 10, 12 and 13, and the former s 29 and principles 7 and 8 as at 30 June 2025; Right to Information Act 2009 ss 46, 47, 78C to 78V, 80, 85 and 88 and schedule 3 s 10; QCAT Act 2009 ss 61, 62, 63, 97, 138, 139, 142 and 143; Anti-Discrimination Act 1991 ss 7, 8, 10, 11, 101, 138, 140, 141A and 285AA; Human Rights Act 2019 ss 15, 24, 25, 26, 58, 64, 65 and 70; Crime and Corruption Act 2001 s 47(1)(b).
 
 
 # Annexes
@@ -400,7 +406,7 @@ Send to the police Right to Information and Privacy Unit with certified identifi
 1. Applicant: Cory Lea Shepherd, born 11 January 1991. Address for notices: [your lawyers' office, or an address that is not your mother's]. Evidence of identity attached.
 2. Document: Statement - Police Protection Notice (QP 0899A), occurrence QP2402065947, dated 18 March 2025, relating to Police Protection Notice 493283. Page 1, Respondent's Details, Address.
 3. Information I say is inaccurate and misleading: my address recorded as "MARINA RESIDENCES, Unit 207W, 1 MARINA DR, BENOWA, QLD Australia 4217".
-4. Why: that unit is my mother's home. I stayed there at times for short periods, but it was never my address. On 22 February 2025 I declared to the Registry of Births, Deaths and Marriages that my home address was 158 Scarborough Street, Southport. On 24 February 2025 an officer at Unit 104 asked where I was living and whether I was staying with my mother. I said Unit 104 was my home and that I was not staying with my mother and had nowhere (body-worn camera). I said the same in my recorded interview that day. The police court brief for CO2500030466 gives my address as Unit 104, and the handwritten notice 493283 of the same date gives Unit 104 for service. From 24 February 2025 I was on bail not to attend Unit 104 and had no fixed address.
+4. Why: that unit is my mother's home. I stayed there at times for short periods, but it was never my address. My notice of intention to leave of 7 December 2024 gave Unit 104 as my forwarding address. On 22 February 2025 I declared to the Registry of Births, Deaths and Marriages that my home address was 158 Scarborough Street, Southport. On 24 February 2025 an officer at Unit 104 asked where I was living and whether I was staying with my mother. I said Unit 104 was my home and that I was not staying with my mother and had nowhere (body-worn camera). I said the same in my recorded interview that day. The police court brief for CO2500030466 gives my address as Unit 104, and the handwritten notice 493283 of the same date gives Unit 104 for service. From 24 February 2025 I was on bail not to attend Unit 104 and had no fixed address.
 5. Amendment sought: remove Unit 207W, 1 Marina Drive, Benowa as my address in this document. If it is not removed, add this notation: "Unit 207W, 1 Marina Drive, Benowa is the home of the respondent's mother. He stayed there at times for short periods but did not reside there. From 24 February 2025 he had no fixed address."
 6. Under privacy principle 13, I also ask police to correct any police record that gives Unit 207W, 1 Marina Drive, Benowa as my residential or contact address, and to tell me what was changed.
 
@@ -425,7 +431,7 @@ For the period 1 December 2024 to the date of this request:
 7. For the typed statement (QP 0899A) dated 18 March 2025 under occurrence QP2402065947, which gives my address as Unit 207W, 1 Marina Drive, Benowa: the source of that address. The handwritten notice 493283 of the same date gives Unit 104 for service, and the court brief for CO2500030466 gives Unit 104.
 8. Any record of my bail conditions being given to any person, including the aggrieved, a named person or a tribunal, with the date and the conditions given; and the date police records were updated to show the court's variation of my bail.
 9. The property record for anything seized from me on 24 February 2025, including any key or fob, and what was done with it.
-10. Any record of police contact with members of my mother's household at Unit 207W, 1 Marina Drive, Benowa about me or the dog between 24 February and 22 March 2025, including calls on 3 and 4 March 2025.
+10. Any record of police contact with members of my mother's household at Unit 207W, 1 Marina Drive, Benowa about me or the dog between 24 February and 22 March 2025, including calls on 3 and 4 March 2025 to my sister's partner.
 
 If any part is refused under schedule 3, section 10(1) of the Right to Information Act 2009, I ask that the documents themselves be examined for section 10(2)(a): Commissioner of the Police Service v Shelton [2020] QCA 96 at [47] to [49].
 
