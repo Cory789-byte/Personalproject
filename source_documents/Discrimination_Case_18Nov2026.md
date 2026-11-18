@@ -8,7 +8,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 
 **The theory.** The same police service gave opposite answers to the same dispute depending on who complained.
 
-- When she had the dog and you complained, police called it civil and told you to let it go. When you had the dog and she complained, police called it a crime, seized the dog and told you to go to court.
+- When she had the dog and you complained, police called it civil and told you to let it go, and later declined your report. When you had the dog and she complained, police called it a crime, seized the dog, told you to go to court, and gave the dog to her.
 - When she needed to get into the unit, police took her in. When you went in, holding the lease, police removed you and told the building manager you were not the leaseholder.
 - Each time, the man was the one sent away.
 
@@ -79,22 +79,35 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 
 ## 4. Claim C: the dog
 
-**The comparison, side by side.**
+**The central comparison.** You and she each reported the taking of the same dog to the same police service. Your report ended "declined". Hers ended with you charged and the dog given to her. Ownership was disputed both times. In December police left the dog with the person who had taken him; in March they took him from the person who had him.
 
-| | December 2024 | February to March 2025 |
+**Two reports, two outcomes.**
+
+| | Your report | Her report |
 |---|---|---|
-| Who had the dog | She did | You did |
-| Who complained | You, with papers in hand | She did |
-| What police called it | "a civil issue"; "let it go" (your filed account) | A crime. You said "It's not stolen. I own the dog" and "It's a civil, it's a civil thing". The officer: "It would have been civil if you didn't get charged for stealing it" (D48, seizure clip, 00:00:58 to 00:01:09) |
-| Statement taken | None from you. Hers, about money, the next day | Hers |
+| When | 1 to 2 December 2024; renewed online on 4 April 2025 | 23 to 25 February 2025 |
+| What was reported | People came into your home, you were pushed and your ankle was injured, and the dog was taken (your filed account) | That you had taken the dog while she was away (her statement, paras 26 to 28) |
+| Who had the dog when police acted | She did | You did |
+| Papers offered | Yours, at the station (your filed account) | Yours again, at the seizure: receipts and civil partnership papers (D48) |
+| What police called it | "a civil issue"; "let it go" (your filed account) | "stolen property". You said "It's a civil, it's a civil thing". The officer: "It would have been civil if you didn't get charged for stealing it" (D48, seizure clip, 00:00:58 to 00:01:09) |
+| Statements taken | None from you. Hers, about money, the next day | Hers, six pages, 25 February 2025. Her friend's, 24 February |
 | Police effort | The dog left with her | Two officers at your mother's home that night: "we're trying to sort of assist her all we can" (D59, 10:22 pm). Four calls to your sister's partner on 3 and 4 March, with your sister, then 16, questioned on one of them (his draft affidavit). The dog seized on 22 March |
-| Follow-up on your December report | Policelink, 4 April 2025: the information "does not match our records"; your break-and-enter report declined | |
+| Your paperwork | Not looked at | "regardless of what paperwork he has" (D48) |
 | Who was sent to court | You | You: "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back" (D48, second clip, 00:04:20) |
-| The paperwork | Your papers not looked at | You showed your receipts and civil partnership papers on the spot. The officer: "regardless of what paperwork he has" (D48) |
+| Outcome | 4 April 2025: your online report (case 11450236) declined: "this matter has already been reported to Police with advice provided". Your status request the same day: the information "does not match our records". Your 2025 report QP2500652108: no outcome on file | You charged. The dog seized from you and released to her, without the court application police's own receipt said would be made |
+
+**How to put it in the complaint.** "When the dog was taken from my home and I reported it, police called it civil, took no statement from me, and later declined my report. When the dog was with me and she reported it, police seized him from me and gave him to her, without the court application their own receipt said would be made. Ownership was disputed both times. The difference was whose report police acted on, and whose possession they protected."
+
+**What stays out of that comparison while the criminal case runs.**
+
+- How the dog came to be with you on 23 February, including that he came to you. That is the event being tried, and it sits against your 12 February message and her friend's statement.
+- Any claim that there was no confrontation on 23 February. Her friend's statement alleges there was. The criminal court decides that first.
+- How many people came in on 1 December and how many pushed you, until the CCTV settles it. Use your filed account's words.
+- Police's conduct at the August 2025 hearing (section 12).
 
 **What must be shown, and the evidence.**
 
-1. **You were treated worse.** Your complaint was called civil and no statement was taken. Her complaint led to a home visit, repeated calls, a seizure, and the dog being given to her without a court order (your account of the August 2025 hearing).
+1. **You were treated worse.** Your complaint was called civil, no statement was taken, and your report was later declined. Her complaint led to a home visit, repeated calls, a seizure, and the dog being given to her without a court order (your account of the August 2025 hearing).
 2. **The comparison.** A woman, in the same dispute, over the same dog, with the same police service. "Civil" means police leave the dog where it is and the person without it goes to court. Police applied that rule when she had the dog and reversed it when you had it.
 3. **Sex as a substantial reason.** The officer said the paperwork did not matter. The reason given was her allegation and the charge. Your allegation in December, made with documents in your hand, did not get a statement taken.
 
@@ -230,13 +243,13 @@ Item 1 decides how strong Claim C is.
 17. On 3 and 4 March 2025 police telephoned my sister's partner four times about the dog and questioned my sister, who was 16. [Settle against his affidavit once signed.]
 18. On 22 March 2025 police took the dog from me. I showed the officers my receipts and our civil partnership papers. Police footage records me saying "It's my dog", "It's not stolen. I own the dog" and "It's a civil, it's a civil thing". An officer answered "It doesn't matter", and said "It would have been civil if you didn't get charged for stealing it". An officer said "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back".
 19. Police gave the dog to my former partner without asking a magistrate to decide who owned it, although the law allows police to do that where ownership is disputed (Police Powers and Responsibilities Act 2000 s 694). The property receipt police gave me says that where more than one person claims ownership, an application will be made under that Act for an order about disposal, and that I would be told if this was to occur. I was not told of any application. [Confirm.] When I applied to the Magistrates Court in August 2025, as police had told me to, the dog had already been given to her.
-20. On 4 April 2025 Policelink wrote that the information I gave about my report did "not match our records". The same afternoon it declined my report because "this matter has already been reported to Police with advice provided".
+20. On 4 April 2025 Policelink wrote that the information I gave about my report (online case 11450236) did "not match our records". The same afternoon it declined my report because "this matter has already been reported to Police with advice provided".
 
 21. On 17 April 2025 I complained to police in writing (Policelink case 11518211). I said officers had seized my dog although I had shown them my civil partnership documents and receipts proving ownership, and I attached the property seizure form. I said that, after my former partner contacted police, officers had made repeated visits to a friend, come to my mother's home late at night and contacted my sister, who was 16. Policelink replied that my documents had been "forwarded to the appropriate department". I have not been told of any outcome.
 
 *What I say*
 
-22. In December 2024, when a woman had my dog and I complained, police said it was civil and left the dog with her. In February and March 2025, when I had the dog and she complained, police visited my mother's home, telephoned my family, took the dog from me and gave it to her. In December 2024 police escorted her into the unit. In February 2025 police removed me from it and restored access for a woman who was not on the lease or in the order.
+22. In December 2024, when the dog was taken from my home and I reported it, police said it was civil, took no statement from me and left the dog with her; in April 2025 my report was declined. In February and March 2025, when the dog was with me and she reported it, police visited my mother's home, telephoned my family, seized the dog from me and gave it to her, without the court application their own receipt said would be made. Ownership was disputed both times. The difference was whose report police acted on and whose possession they protected. In December 2024 police escorted her into the unit. In February 2025 police removed me from it and restored access for a woman who was not on the lease or in the order.
 23. I say I was treated less favourably than a woman in the same circumstances was or would have been treated, and that my sex, or assumptions made about men in domestic disputes, was a substantial reason.
 
 *The complaint handling, 2026*
