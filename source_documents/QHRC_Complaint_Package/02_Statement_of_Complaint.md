@@ -9,8 +9,9 @@
 | Respondent | State of Queensland (Queensland Police Service), 200 Roma Street, Brisbane QLD 4000 |
 | Attributes | Sex (s 7(a)); impairment (s 7(h)); including characteristics generally had by or often imputed to people with those attributes (s 8) |
 | Area | Performance of functions and exercise of powers under State law (s 101); alternatively, for receiving and investigating his reports of violence, the supply of services (s 46) |
-| Types | Direct discrimination (s 10); indirect discrimination (s 11) |
-| Human rights | Human Rights Act 2019 s 58(1)(a) and (b), engaging ss 15, 24, 25, 26, 29 and 31 |
+| Types | Direct discrimination (s 10); indirect discrimination (s 11); in the alternative for the 2026 conduct, victimisation (ss 129 and 130) |
+| Human rights | Human Rights Act 2019 s 58(1)(a) and (b), for the decision of 10 September 2026: ss 15, 24, 25 and 29 |
+| Earlier complaint | EDR19098, under the Human Rights Act only; conciliated 14 May 2026; reported unresolved 18 June 2026 (Part I) |
 | Period | 1 December 2024 to 10 September 2026 |
 
 Numbers in square brackets refer to the chronology in Annexure A.
@@ -23,7 +24,7 @@ Numbers in square brackets refer to the chronology in Annexure A.
 
 3. In 2026 police required a man whose records note "a mental illness and requires medication" to supply particulars of his complaint within one business day, and then closed the complaint without contacting him.
 
-4. The complainant says that his sex, and characteristics often imputed to men in domestic disputes, were a substantial reason for the treatment in paragraphs 1 and 2; that police imposed practices with which men, as the large majority of respondents, are less able to comply; and that the 2026 deadline discriminated against him because of his impairment.
+4. The complainant says that his sex, and characteristics often imputed to men in domestic disputes, were a substantial reason for the treatment in paragraphs 1 and 2; that police imposed practices with which men, as the large majority of respondents, are less able to comply; and that the 2026 deadline discriminated against him because of his impairment or, in the alternative, was imposed because he had alleged discrimination.
 
 ## B. The events inside the unit on 23 February 2025
 
@@ -71,6 +72,7 @@ Numbers in square brackets refer to the chronology in Annexure A.
 
 ### The complaint handling, 2026
 
+28A. On 15 April 2026 the Commission accepted the complainant's human rights complaint against the respondent about the 2025 events (EDR19098). In his written submission of 3 May 2026 in that complaint he said police had discriminated against him because of his psychiatric disability. A conciliation conference was held on 14 May 2026. On 18 June 2026 the Commission reported that the complaint was not resolved [48A]–[48C], [50A].
 29. On 18 June 2026 Ethical Standards Command required particulars of his complaint (the court matter, the date, the charge and the officers' names) by close of business the next day [50].
 30. On 10 September 2026 Ethical Standards finalised the complaint without contacting him. The outcome refers to no human right and does not refer to his condition [52].
 31. He wrote on 29 October and 5 November 2026 asking who made the decision and for records to be preserved. There has been no reply [53].
@@ -88,16 +90,16 @@ Numbers in square brackets refer to the chronology in Annexure A.
     - (d) he, a named tenant whom officers had said was allowed to be there, was removed, and police told the building manager he was not the leaseholder, while a woman who was on neither the lease nor the order was offered support and had her access reinstated (paragraphs 15–20);
     - (e) his report was declined because it had "already been reported to Police with advice provided", when the only advice he had been given was that the dog was a civil matter, the opposite of how police then treated her report (paragraph 27).
 35. The complainant's sex was a substantial reason for that treatment (s 10(4)). Discrimination on the basis of sex includes discrimination on the basis of a characteristic often imputed to men (s 8(b)): here, that in a domestic dispute the man is the aggressor and the woman the person to protect. The words officers used show that assumption at work: "a domestic violence victim survivor who's been put through a lot by her partner"; "essentially terrorized a female person"; "an exercise in control over your partner" (paragraphs 19, 21; [32]). The reason given to the building manager, "cory's not the leaseholder", was contrary to what he had just told police, and within the hour the interviewing officer called her "the other leaseholder" (paragraphs 19–20). A stated reason shown to be untrue leaves the real reason to be found. The pattern runs in one direction across five episodes and four months.
-36. Each time police had to decide whose account to act on, they acted on hers. On 1 December they tested his account and not hers: they recorded and set aside his explanation of the bruise, did not check her account of having stayed elsewhere for several nights against the building's CCTV, and made no record of his report of being assaulted later that night. The complainant asks the Commission to obtain police's records of how his report that night was dealt with.
+36. Each time police had to decide whose account to act on, they acted on hers. On 1 December they tested his account and not hers: they recorded and set aside his explanation of the bruise, did not check her account of having stayed elsewhere for several nights against the building's CCTV, and took no statement about his report of being assaulted later that night. The complainant asks the Commission to obtain police's records of how his report that night was dealt with.
 37. Motive is irrelevant, and police need not have considered the treatment less favourable (s 10(2) and (3)).
 
 ### Direct discrimination because of impairment (s 10)
 
-38. In the grounds for the notice of 1 December 2024, police recorded and relied on his former partner's statement that his mental illness "can cause the resp to act crazy and go into rages without warning" [5]. Volatility, and the unreliability of what a person says, are characteristics often imputed to people with a mental illness. Those characteristics were a substantial reason for police crediting her account, setting aside his explanation, and declining to record his report of being assaulted that night, and they shaped how police treated him afterwards (s 8(b), s 10(4)). This applies in addition to, and in the alternative to, his sex.
+38. In the grounds for the notice of 1 December 2024, police recorded and relied on his former partner's statement that his mental illness "can cause the resp to act crazy and go into rages without warning" [5]. Volatility, and the unreliability of what a person says, are characteristics often imputed to people with a mental illness. Those characteristics were a substantial reason for police crediting her account, setting aside his explanation, and declining to take his report of being assaulted that night, and they shaped how police treated him afterwards (s 8(b), s 10(4)). This applies in addition to, and in the alternative to, his sex.
 
 ### Indirect discrimination because of sex (s 11), in the alternative
 
-39. Police imposed a term (which includes a practice, whether or not written: schedule 1) that, in a property dispute between people in a domestic relationship, property held by the person police treat as the aggrieved is a civil matter, while property held by the person police treat as the respondent may be seized as stolen, so that the respondent must go to court to recover it whatever documents of ownership he holds.
+39. Police imposed a term (which includes a practice, whether or not written: s 11(4)) that, in a property dispute between people in a domestic relationship, property held by the person police treat as the aggrieved is a civil matter, while property held by the person police treat as the respondent may be seized as stolen, so that the respondent must go to court to recover it whatever documents of ownership he holds.
 40. The complainant could not comply: he was treated as the respondent, and the dog was released before he could obtain a court order. A higher proportion of women than men comply or are able to comply, because men are the large majority of respondents to domestic violence orders in Queensland. The complainant believes the official court statistics will show this, and asks the Commission to obtain them.
 41. The term was not reasonable (s 11(2)). Ownership was disputed and police were told so with documents; the law gave police a way to have a magistrate decide (Police Powers and Responsibilities Act 2000 s 694); police's own receipt said that route would be used. The respondent must prove the term was reasonable (former s 205, applied by s 285AA).
 
@@ -105,22 +107,23 @@ Numbers in square brackets refer to the chronology in Annexure A.
 
 42. On 18 June 2026 police imposed a term that the complainant provide written particulars of his complaint (the court matter, the date, the charge and the officers' names) by close of business on 19 June 2026, for the complaint to be assessed on them. Because of his impairment he could not comply. A higher proportion of people without his impairment are able to comply with a one-day deadline. The term was not reasonable: police knew of his condition from their own records and, from 14 July 2026, from his Case Study; the complaint was then not decided for nearly three months; and it was closed without contact. A report from his treating doctor will be provided. The respondent must prove the term was reasonable (former s 205).
 
+### Victimisation (ss 129 and 130), in the alternative
+
+42A. [Keep paragraphs 42A to 42C only if the submission of 3 May 2026 was sent to the Commission or to police before 18 June 2026.] In his written submission of 3 May 2026 in complaint EDR19098, to which the respondent was the respondent, the complainant alleged in good faith that police had discriminated against him because of his psychiatric disability. That was an allegation that a person had committed an act that would amount to a contravention of the Act (s 130(1)(a)(ii)).
+42B. On 18 June 2026, the day the Commission reported that complaint unresolved, the respondent required particulars of his police complaint within one business day. On 10 September 2026 it finalised that complaint without contacting him. Those acts were to his detriment.
+42C. The complainant asks the respondent to say whether a deadline of one business day is its practice for all complainants. If it is, paragraph 42 applies. If it is not, the complainant says the deadline was set for him, and his complaint finalised without contact, because he had made that allegation or because the respondent believed he had (s 130(1)(a)(ii) and (b)). He relies on the written submission and the dates. He does not rely on anything said at the conciliation conference.
+
 ## E. No exemption applies
 
 43. Section 106 exempts only acts necessary to comply with, or specifically authorised by, a court order or "an existing provision of another Act", meaning a provision in existence when s 106 commenced on 30 June 1992 (s 106(1) and (2)). The Police Powers and Responsibilities Act 2000 and the Domestic and Family Violence Protection Act 2012 are later Acts. The respondent has conceded before the tribunal that the Police Powers and Responsibilities Act 2000 is not an existing provision (Philipp v State of Queensland (QPS) [2025] QCAT 505 at [185]). No court order required any of the treatment complained of: the orders of 3 December 2024 and 21 March 2025 did not exclude the complainant from his home and said nothing about the dog.
-44. Section 104 (welfare measures) protects acts designed to benefit a group. It does not protect declining to record an assault complaint, seizing one person's property for another, or misinforming a building manager about a tenancy.
+44. Section 104 (welfare measures) protects acts designed to benefit a group. It does not protect declining to take an assault complaint, seizing one person's property for another, or misinforming a building manager about a tenancy.
 45. The respondent bears the burden of proving any exemption (former s 206).
 
 ## F. Human Rights Act 2019
 
-46. The Queensland Police Service is a public entity. In the conduct set out above it acted in ways not compatible with, and failed to give proper consideration to, the complainant's human rights (s 58(1)(a) and (b)):
-    - equality before the law and equal protection against discrimination (s 15(2)–(4)): paragraphs 7–31;
-    - property: not to be arbitrarily deprived of property (s 24(2)): releasing a dog whose ownership was disputed to one claimant without the court process police had said would be used (paragraphs 25–26);
-    - privacy, family and home (s 25(a)): removal from his leased home and misinformation to the building manager (paragraphs 15–20); attendance at his mother's home and calls to his family (paragraphs 21, 23);
-    - protection of families and children (s 26): the questioning of his 16-year-old sister (paragraph 23);
-    - liberty (s 29(2)): an arrest five minutes after the tenancy was confirmed, for breach of an order which officers had said his presence did not breach (paragraphs 15–18);
-    - fair hearing (s 31) and proper consideration: the 2026 deadline and closure without contact (paragraphs 29–31).
-47. The complainant complained to the Service before coming to the Commission (s 65(1)): on 17 April 2025 (Policelink case 11518211), and through complaint COM-26-01249 and the Case Study of 14 July 2026. More than 45 business days have passed since each, and the responses have not been adequate. About the decision of 10 September 2026, he complained on 29 October 2026; 45 business days from that complaint end on 5 January 2027. If this complaint is lodged before then, he asks the Commissioner to accept that part because of exceptional circumstances (s 65(2)), or to add it after that date.
+46. The Queensland Police Service is a public entity. In deciding complaint COM-26-01249 it had to give proper consideration to the human rights relevant to the decision, which includes identifying them, and to act compatibly with them (s 58(1)(a) and (b), s 58(5)). The relevant rights were the complainant's rights in the process and the rights his complaint was about: equality before the law and equal protection against discrimination (s 15(2)–(4)); property (s 24(2)); privacy, family and home (s 25(a)); and liberty (s 29(2)). The outcome of 10 September 2026 identifies none of them and does not refer to his condition (paragraph 30).
+47. The complainant complained to the Service about that decision on 29 October 2026 (s 65(1)). Forty-five business days from that complaint end on 5 January 2027. If this complaint is lodged before then, he asks the Commissioner to accept this part because of exceptional circumstances (s 65(2)), or to add it after that date.
+47A. He does not ask the Commissioner to deal again with the rights to property and to privacy and reputation for the 2025 events. Those were the subject of EDR19098 (Part I). If this complaint is referred to the tribunal, he will rely on s 58 in support of the same relief for those events (s 59).
 
 ## G. Time
 
@@ -130,7 +133,13 @@ Numbers in square brackets refer to the chronology in Annexure A.
 
 49. The complainant does not ask the Commission to decide anything that is before the Magistrates Court. He asks that the complaint not be stayed (s 140(1)(a)), because it concerns what police did, not what he did. If the Commissioner considers a stay is needed, he asks that it be limited to the events of 24 February 2025, and notes that time does not run while a complaint is stayed (s 140(3)).
 
-## I. Outcome sought
+## I. The earlier complaint to the Commission (EDR19098)
+
+49A. On 15 April 2026 the Commission accepted a complaint by the complainant against the same respondent as alleging "a possible unreasonable limitation of the right to property and privacy and reputation" under the Human Rights Act 2019 (EDR19098). A conciliation conference was held on 14 May 2026. On 18 June 2026 the Commission reported that the complaint was not resolved (Human Rights Act s 88).
+49B. That complaint was dealt with only under the Human Rights Act. It was not made, accepted or rejected under the Anti-Discrimination Act, so s 142 of that Act does not apply to it. No discrimination claim about these events has been considered. The Commissioner may deal with a human rights complaint under the Anti-Discrimination Act with the complainant's consent (Human Rights Act s 75). [Keep only if true: That course was not raised with the complainant.] He was not represented.
+49C. The respondent took part in that conciliation. It has known of the complainant's complaint about these events since at least April 2026.
+
+## J. Outcome sought
 
 50. The complainant seeks, by conciliation or, failing that, by order of the tribunal (s 209):
     - (a) a written acknowledgment that on 24 February 2025 he was a named tenant of Unit 104, that the order of 3 December 2024 did not exclude him, and that he reported the taking of the dog on 1 December 2024;
@@ -139,11 +148,12 @@ Numbers in square brackets refer to the chronology in Annexure A.
     - (d) reassessment of complaint COM-26-01249 by an officer outside Ethical Standards Command and the Southport chain of command, with a reasonable time to respond;
     - (e) for the dog, either an application by police to a magistrate under s 694 or a written undertaking not to oppose his application to a court for the dog's return;
     - (f) compensation for hurt, humiliation and distress, and for economic loss;
-    - (g) a review of police procedure for property disputes between parties to a domestic relationship, including the use of s 694 where ownership is disputed, and for allowing complainants with a recorded disability reasonable time to respond.
+    - (g) a review of police procedure for property disputes between parties to a domestic relationship, including the use of s 694 where ownership is disputed, and for allowing complainants with a recorded disability reasonable time to respond;
+    - (h) a written statement of who set the deadline of 18 June 2026, who decided complaint COM-26-01249, and what each of them considered.
 
-## J. Documents
+## K. Documents
 
-51. Annexure A (chronology), Annexure B (treatment and comparison matrix), Annexure C (schedule of documents) and Annexure D (time) form part of this complaint. Copies of documents marked "Held" in Annexure C will be provided on request, other than material received through the criminal proceedings, which will be provided once the complainant's lawyers confirm it may be used.
+51. Annexure A (chronology), Annexure B (treatment and comparison matrix), Annexure C (schedule of documents), Annexure D (time) and Annexure E (particulars of each contravention) form part of this complaint. Copies of documents marked "Held" in Annexure C will be provided on request, other than material received through the criminal proceedings, which will be provided once the complainant's lawyers confirm it may be used.
 
 Signed: ____________________ Date: ____________
 

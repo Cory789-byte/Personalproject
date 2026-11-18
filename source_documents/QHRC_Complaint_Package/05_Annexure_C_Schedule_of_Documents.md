@@ -38,6 +38,9 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | — | Messages, Dec 2024–Feb 2025 | — | Transfer at her request; "every legal right to still contest ownership"; "I won't restrict you from the animals" (to be located) | Held |
 | — | Statutory declaration ending the registered relationship, and post receipt | 22 Feb 2025 | Home address declared as 158 Scarborough Street | Held |
 | — | Carrier call log | 23–24 Feb 2025 | 37-minute call to 131 444 from 7:51 pm (log in Sydney time) | Held |
+| — | Commission's letter accepting complaint EDR19098, with the direction to attend conciliation | 15 Apr 2026 | The earlier complaint was under the Human Rights Act only (property; privacy and reputation); the respondent has been on notice since then | Held |
+| — | Complainant's written submission in EDR19098 | 3 May 2026 | He alleged discrimination because of psychiatric disability | Held (confirm that it was sent, and to whom) |
+| — | Commission's letter reporting EDR19098 unresolved | 18 Jun 2026 | Conference held 14 May 2026; unresolved; same day as the one-day deadline | Held (the report attached to it is not admissible in a human rights proceeding unless both sides agree: Human Rights Act s 88(6)) |
 | — | Ethical Standards emails and outcome advice | 18 Jun and 10 Sep 2026 | One-day deadline; closure without contact | Held |
 | — | Letters to Ethical Standards | 29 Oct and 5 Nov 2026 | Request for decision-maker and record preservation | Held |
 

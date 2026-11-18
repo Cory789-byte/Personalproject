@@ -82,8 +82,12 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | 46 | 13 Aug 2025 | The complainant's application for the dog and phone (M14056/25) is dismissed; police say the dog has already been given to her | Complainant's account; court file to be obtained | Complainant |
 | 47 | 22 Aug 2025 | Police index to brief: the section for witnesses who would help the defence is blank | Index QP 0541 | Record |
 | 48 | 11 Sep 2025 | The Information Commissioner closes review 318762 on police agreeing to process a request for the footage | Commissioner's letter (D46) | Record |
+| 48A | 15 Apr 2026 | The Commission accepts the complainant's human rights complaint against the respondent (EDR19098) as alleging "a possible unreasonable limitation of the right to property and privacy and reputation" | Commission's letter | Record |
+| 48B | 3 May 2026 | The complainant's written submission in EDR19098 says police discriminated against him because of his psychiatric disability | Submission (confirm that it was sent, and to whom) | Complainant |
+| 48C | 14 May 2026 | Conciliation conference in EDR19098, by teleconference. Not resolved | Commission's letters of 15 April and 18 June 2026 | Record |
 | 49 | 27 May 2026 | The officer with registered number 39627 takes a statement from the leasing manager: "from my perspective" he was off the lease once she had his notice | Statement | Record |
 | 50 | 18 Jun 2026 | Ethical Standards Command requires particulars of his complaint by close of business the next day | Email | Record |
+| 50A | 18 Jun 2026 | The Commission reports EDR19098 unresolved under s 88 of the Human Rights Act, with no recommended action | Commission's letter | Record |
 | 51 | 14 Jul 2026 | Case Study complaint to the Deputy Commissioner, copied to the Crime and Corruption Commission | Case Study | Record |
 | 52 | 10 Sep 2026 | Ethical Standards finalises the complaint without contacting him. The outcome refers to no human right and not to his condition | Outcome advice | Record |
 | 53 | 29 Oct and 5 Nov 2026 | The complainant writes to Ethical Standards asking who decided and for the records to be preserved. No reply | Emails | Record |
