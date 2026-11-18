@@ -103,7 +103,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 **The weak joints.**
 
 - Your messages of 16 to 19 December 2024 and your signature on the transfer. Police will say that by February the dog was hers on paper.
-- Your message of about 12 February 2025: "When you leave I will take my animals ... I will take Romeo then". Police will say it shows a plan. The reply: you said it openly, in writing, as a claim of ownership, as you had in December when police called it civil.
+- Your message of about 12 February 2025: "When you leave I will take my animals ... I will take Romeo then". Police will say it shows a plan. The reply: you said it openly, in writing, as a claim of ownership, after she had offered that you could keep him while she was away (your account; a served message with no sender shown reads "Maybe you could even keep it while I was away"), and you told her ownership could be settled in court, as you had in December when police called it civil.
 - The charge. Police will say the February entry made it criminal. That stands or falls with the criminal case. The prosecution has already proposed trespass for the entry charge.
 - Proof of the station conversation. It rests on your account until the police records of 1 and 2 December 2024 are obtained.
 
