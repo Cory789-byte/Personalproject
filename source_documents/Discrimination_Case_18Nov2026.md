@@ -104,6 +104,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 - Police have used it for a dog seized from a man and claimed by his former partner through New South Wales papers. The magistrate decided ownership on affidavits from both: Kaus v Coaker & Anor [2014] QMC 24.
 - Here police told you that you had "to go through the courts to get the dog back", did not take the dispute to a magistrate themselves, and released the dog to her. When you went to court in August 2025, as you had been told to, the dog had already been given to her.
 - The section says police "may" apply. It is a route, not a duty, unless the police manual makes it one. The manual's section 4.7.1, "Disputed ownership (disposal)", could not be read for this version. If it directs officers to apply to a magistrate, it is the strongest single point in Claim C. Get its text as in force when the dog was released.
+- On 17 April 2025 you told police in writing that you owned the dog, with your receipts and the seizure form (Policelink case 11518211). If police still held the dog that day, they had your written claim before they released him. The release record will show the date.
 
 **Your proof of ownership.** $3,150 on 10 December 2023 and $350 on 11 December 2023, the second marked "Cory Alexia Pom"; the vet invoice of 16 July 2024 naming you; the council registration in your name.
 
@@ -145,6 +146,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
   - a criminal case on the same events is still running, and a tribunal finding before it ends could cut across it;
   - your health in that period;
   - you took the same events to the same Commission earlier (EDR19098);
+  - you complained to police in writing within four weeks of the seizure (17 April 2025, Policelink case 11518211) and were told it had been "forwarded to the appropriate department";
   - nothing is lost to police: the footage exists and you asked for it to be kept.
 - Put all three claims in one complaint. The Commission can accept Claim B and decide on Claims A and C after trying conciliation (s 141A).
 - For the human rights part, the Commission may refuse anything more than a year old (Human Rights Act s 70(1)(d)). The outcome letter of 10 September 2026 is inside that year.
@@ -163,6 +165,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 10. Two dates: "12/9/24" in your filed affidavit is 9 December 2024; the seizure receipt is dated 22 March 2025.
 11. Your stays at your mother's. Short periods, never your address.
 12. Your sister's partner's affidavit. Police camera dates the visit to the evening of 24 February, not 25 February. He should check before he signs.
+13. Your complaint of 17 April 2025. It says four officers came to your mother's home; the camera and your sister's partner's draft say two. It also repeats the claim that calls were made from your phone in custody, which is wrong (full case, Annex B): withdraw it there too. Leave out its last sentence about her past. And it raises the wait for police on 23 February, which stays out (section 12).
 
 ## 9. Evidence to obtain first
 
@@ -174,6 +177,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 6. From the court: the order and recording of the hearing in M14056/25 (13 August 2025, your account), and the statement police handed up.
 7. From your treating doctor: a letter on why a one-day deadline in June 2026 could not be met.
 8. From police: the release record for the dog (to whom, when, who authorised it, and on what basis), whether an application to a magistrate under s 694 was considered, and the police manual's section 4.7.1 as in force at the time of the release.
+9. From police: what was done with your complaint of 17 April 2025 (Policelink case 11518211): any complaint number, who assessed it, and the outcome.
 
 Item 1 decides how strong Claim C is.
 
@@ -223,20 +227,22 @@ Item 1 decides how strong Claim C is.
 19. Police gave the dog to my former partner without asking a magistrate to decide who owned it, although the law allows police to do that where ownership is disputed (Police Powers and Responsibilities Act 2000 s 694). When I applied to the Magistrates Court in August 2025, as police had told me to, the dog had already been given to her.
 20. On 4 April 2025 Policelink wrote that the information I gave about my report did "not match our records". The same afternoon it declined my report because "this matter has already been reported to Police with advice provided".
 
+21. On 17 April 2025 I complained to police in writing (Policelink case 11518211). I said officers had seized my dog although I had shown them my civil partnership documents and receipts proving ownership, and I attached the property seizure form. I said that, after my former partner contacted police, officers had made repeated visits to a friend, come to my mother's home late at night and contacted my sister, who was 16. Policelink replied that my documents had been "forwarded to the appropriate department". I have not been told of any outcome.
+
 *What I say*
 
-21. In December 2024, when a woman had my dog and I complained, police said it was civil and left the dog with her. In February and March 2025, when I had the dog and she complained, police visited my mother's home, telephoned my family, took the dog from me and gave it to her. In December 2024 police escorted her into the unit. In February 2025 police removed me from it and restored access for a woman who was not on the lease or in the order.
-22. I say I was treated less favourably than a woman in the same circumstances was or would have been treated, and that my sex, or assumptions made about men in domestic disputes, was a substantial reason.
+22. In December 2024, when a woman had my dog and I complained, police said it was civil and left the dog with her. In February and March 2025, when I had the dog and she complained, police visited my mother's home, telephoned my family, took the dog from me and gave it to her. In December 2024 police escorted her into the unit. In February 2025 police removed me from it and restored access for a woman who was not on the lease or in the order.
+23. I say I was treated less favourably than a woman in the same circumstances was or would have been treated, and that my sex, or assumptions made about men in domestic disputes, was a substantial reason.
 
 *The complaint handling, 2026*
 
-23. On 18 June 2026 Ethical Standards Command required particulars of my complaint by close of business the next day. On 10 September 2026 it finalised the complaint without contacting me. Its outcome does not refer to my condition.
-24. [Keep only if true.] I say the one-day requirement was one I could not meet because of my impairment, that more people without my impairment could meet it, and that it was not reasonable.
-25. Some of these events are more than one year old. I ask the Commissioner to accept them because a criminal proceeding about the same events is still before the court, because of my health, and because I raised the same events with the Commission in complaint EDR19098. I ask that the in-time part be accepted now and the rest decided after conciliation is tried.
+24. On 18 June 2026 Ethical Standards Command required particulars of my complaint by close of business the next day. On 10 September 2026 it finalised the complaint without contacting me. Its outcome does not refer to my condition.
+25. [Keep only if true.] I say the one-day requirement was one I could not meet because of my impairment, that more people without my impairment could meet it, and that it was not reasonable.
+26. Some of these events are more than one year old. I ask the Commissioner to accept them because a criminal proceeding about the same events is still before the court, because of my health, because I complained to police in writing about the dog and these visits on 17 April 2025, and because I raised the same events with the Commission in complaint EDR19098. I ask that the in-time part be accepted now and the rest decided after conciliation is tried.
 
 *What I ask for*
 
-26. A written acknowledgment that I was named on the lease, that the order did not exclude me, and that I reported the taking of the dog on 1 December 2024; correction of the police record; reassessment of my complaint by an officer outside Ethical Standards and Southport, with reasonable time to respond; an apology; and compensation.
+27. A written acknowledgment that I was named on the lease, that the order did not exclude me, and that I reported the taking of the dog on 1 December 2024; correction of the police record; reassessment of my complaint by an officer outside Ethical Standards and Southport, with reasonable time to respond; an apology; and compensation.
 
 ## 12. What stays out
 

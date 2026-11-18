@@ -112,7 +112,7 @@ These are the seven things the other side will press. Each needs your exact acco
 
 ## 6. Corrections to the Case Study
 
-1. **The custody call.** Your carrier's log is in Sydney time. The "3:26 am" call is the 2:26 to 2:30 am speaker call, before your arrest. Withdraw that allegation. The manager's declaration carries the same one-hour shift.
+1. **The custody call.** Your carrier's log is in Sydney time. The "3:26 am" call is the 2:26 to 2:30 am speaker call, before your arrest. Withdraw that allegation, here and in your email to Policelink of 17 April 2025 (case 11518211). The manager's declaration carries the same one-hour shift.
 2. **The lease confirmation.** It is on camera at 2:28 am. Use that, not the 1:54 am time.
 3. **The interview and your address.** I said earlier the interview had nothing on your address. That was too narrow. It has no address question at 00:05:01, but at 00:21:15 and 00:29:43 you tell police you have no other home and are sleeping in a car. Cite those times.
 4. **The interview time.** About 5:48 am. The second version said pm; that came from how the transcript was built. The officer calls the events "tonight", and that evening an officer speaks of "when we went to interview him this morning". The custody record will confirm.
