@@ -11,7 +11,8 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | He could not comply because of it | His own evidence; he sent his report on 14 July 2026 | Medical opinion on the time limits themselves, not only the diagnosis | Document 09. This is the most important missing document |
 | He did not in fact comply | His saved correspondence shows no reply to Ethical Standards before the Case Study of 14 July 2026, and his letter of 29 October 2026 mentions none | His confirmation | If he sent anything on 18 or 19 June 2026, tell his lawyers before lodging: this claim changes and Claim 2 remains |
 | A higher proportion of others can comply | Common experience (Hunter at [61]) | Nothing essential | — |
-| Not reasonable (police's onus) | Police's own standard was three business days, and he was given less; the particulars were in police's records; nearly three months to decide; the outcome does not mention his report | Why he was given less than the standard time; whether the decision-maker had his report | Covering letter, paragraph 8; complaint, outcome (h) |
+| Not reasonable (police's onus) | Police's own standard was three business days, and he was given less; the particulars were in police's records; nearly three months to decide; the outcome does not mention his report; police's manual treats mental illness as a vulnerability to be established before taking a complaint (OPM ss 6.3.1, 6.3.2) | Why he was given less than the standard time; whether the decision-maker had his report | Covering letter, paragraph 8; complaint, outcome (h) |
+| The area (s 101) | Crime and Corruption Act 2001 s 42(1), (5): dealing with a referred complaint is a statutory function; Woodforth at [24] | Nothing | — |
 
 ## Victimisation (not lodged: document 20)
 
@@ -25,7 +26,7 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
 | A decision by a public entity | Outcome advice | Who decided | Complaint, outcome (h) |
-| Relevant rights not identified | The outcome advice itself: a bare statement that police actions "did not unduly limit your Human Rights" | Nothing | — |
+| Relevant rights not identified | The outcome advice itself: a bare statement that police actions "did not unduly limit your Human Rights"; Johnston [2024] QSC 2 at [76], [137], [139]; police's own manual (OPM s 1.2.3) | Nothing | — |
 | Complaint to police first, and 45 business days | Letter of 29 October 2026 | The period ends on 5 January 2027 | Lodge this part from 6 January 2027, or rely on s 65(2) |
 
 ## Claim 3 — 1 to 2 December 2024 (impairment, direct)
@@ -61,8 +62,8 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 |---|---|---|---|
 | The practice exists | An officer's description of police's approach on camera on 24 February 2025 [34A]; two opposite answers to one dispute; "It would have been civil if you didn't get charged" | The speaker confirmed against the footage; police procedure | Section 20 letter; conciliation |
 | He could not comply | Receipt; release before his court application | Release date | Request B, item 2 |
-| A higher proportion of women can comply | — | Statistics on the sex of respondents to domestic violence orders | Queensland Courts published statistics. Ask the Commissioner to obtain them |
-| Not reasonable (police's onus) | s 694 route existed; receipt promised it | Nothing | — |
+| A higher proportion of women can comply | Queensland Courts DFV statistics, Table 10 (84.7% male respondents, 1 Jul to 31 Oct 2026); QGSO 2021, Figure 6 (76.8% between intimate partners); QSAC May 2025 (84.0% of those sentenced for contravention) | Nothing essential | — |
+| Not reasonable (police's onus) | s 694 route existed; receipt promised it ; police's own "ORDER" required it (OPM s 4.7.1) | Nothing | — |
 
 ## Time
 

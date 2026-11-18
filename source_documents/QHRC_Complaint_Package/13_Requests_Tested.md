@@ -133,7 +133,7 @@ Check what RTI/54169 asked for. If any item repeats it, say so in the request an
 
 ### Policy documents
 
-Do not put these in an access application. Police must make their policy documents available for inspection and purchase (s 20(1)). Ask the Operational Procedures Manual unit, in a separate letter, for the three sections as in force from 1 December 2024 to 31 March 2025.
+Do not put these in an access application. Police must make their policy documents available for inspection and purchase (s 20(1)). The Operational Procedures Manual is already public on the Queensland Open Data Portal, issue by issue, so the letter now asks only for the two internal documents the Manual refers to: the Ethical Standards "Complaint Resolution Guidelines" and the "Guide to responding to domestic & family violence (DFV) incidents".
 
 ## 5. Three findings that change the plan
 

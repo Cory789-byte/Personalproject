@@ -31,7 +31,7 @@ About two minutes. Read it if that is easier.
 >
 > I am not asking police to decide the criminal case here. I am asking for an acknowledgment of those facts, a fresh look at my complaint by someone independent, with fair time to respond, and my record corrected.
 
-## 4. Five questions to put to police
+## 4. Six questions to put to police
 
 Ask each one plainly and wait for the answer. Each answer helps you whichever way it goes.
 
@@ -40,6 +40,7 @@ Ask each one plainly and wait for the answer. Each answer helps you whichever wa
 3. **"When the dog was released, was an application to a magistrate considered, and why was none made?"** The receipt said one would be.
 4. **"On 24 February 2025 an officer said police do not 'typically get involved' in contested property, and that there was a 'civil aspect' here. On 2 December 2024 the council registration was in my name and no transfer had been signed. Why was the dog contested when I reported it taken, and stolen when she did?"** Police will point to the change-of-owner form you signed between 16 and 19 December 2024. Your answer: you signed it at her request while she held the dog, you told her and police that you still claimed it, and it did not exist on 2 December.
 5. **"On 22 March 2025 I told police they could call my lawyer, and I asked to call my solicitor before the dog was taken. Who decided the dog would be seized at that stop, and when?"** The recording has officers discussing it while you were being held for service of the papers. Check each line you quote against the footage first.
+6. **"Your own manual says an officer who becomes aware of a dispute about the ownership of property 'is to' apply to a magistrate under section 694, and calls that an order. I told the officers it was my dog and showed them my receipts. Why was no application made?"** (Operational Procedures Manual, Issue 104.1, s 4.7.1.) There is no good answer to this one. Let the silence work.
 
 ## 5. The Commission's ten preparation questions
 
@@ -71,16 +72,33 @@ The Commission sent you a preparation form with these questions in your earlier 
 
 ## 7. Money
 
-- The only awards found against Queensland police for discrimination are $8,000 (Hunter v State of Queensland [2015] QCAT 179 at [61]) and $10,000 (Harding v State of Queensland (QPS) [2025] QCAT 415). Both were for one episode of indirect impairment discrimination. They are the realistic reference points for the 2026 claim.
-- Open above them, because your complaint covers more than one episode, and decide your floor with your lawyers before the day.
-- Money you spent or lost is claimed separately and needs receipts. Fill this in first:
+**What the tribunal has awarded against police.** These are the realistic reference points for the in-time claim.
+
+| Case | What happened | Award | Where |
+|---|---|---|---|
+| Hunter v State of Queensland [2015] QCAT 179 | A wheelchair user put through a fingerprint process he could not physically complete; "temporary feelings of physical discomfort and emotional distress" | $8,000 | [93] |
+| Harding v State of Queensland (QPS) [2025] QCAT 415 | A detainee kept from his medication for five and a half hours; no medical evidence | $10,000 | [108], [110] |
+| The tribunal's general observation | Awards of $20,000 or more "usually" rest on "an injury with some degree of ongoing effect on a person's psychological or emotional functioning" | $20,000 or more | Hunter [91] |
+
+**What that means for you.**
+
+- Without a doctor's report, expect the in-time claim to be valued in the $8,000 to $10,000 range.
+- With a report that the time limits and the closure of your complaint made your depression worse for a period, the range moves up. That is why document 09 matters for the amount, not only for liability.
+- The older claims, if accepted, add the dog, the home and the visits to your family. They are worth more, but they are out of time and harder to prove. Do not count on them in your floor.
+- Settle your opening figure and your floor with your lawyers before the day. Open above the range, because the complaint covers more than one episode, and say why.
+- The human rights part gives no money (Human Rights Act s 59(3)). Use it for the non-money terms.
+
+**Money you spent or lost.** Claimed separately, as "loss or damage caused by the contravention" (Anti-Discrimination Act s 209(1)(b)). Interest can be ordered on it (s 209(1)(g)). Fill this in first:
 
 | Loss | Dates | Amount | Proof |
 |---|---|---|---|
+| The dog | Paid 10–11 Dec 2023 | $3,500 | Bank records |
 | Accommodation after 24 February 2025 | | | |
 | Belongings not recovered | | | |
 | Cost of the court application about the dog (M14056/25) | | | |
+| Treatment costs linked to these events | | | Doctor's report; receipts |
 | Travel and other costs | | | |
+
 
 ## 8. Terms to insist on, and terms to refuse
 

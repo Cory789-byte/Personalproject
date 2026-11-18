@@ -44,14 +44,16 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | — | Ethical Standards acknowledgment and request, and outcome advice | 18 Jun and 10 Sep 2026 | Three business days for further material; particulars by the next day; closure without further contact | Held |
 | — | Case Study report and executive summary to the office of the Deputy Commissioner, and that office's acknowledgments | 14, 15 and 24 Jul 2026 | The particulars; his diagnosis stated to police before the decision | Held |
 | — | Letters to Ethical Standards | 29 Oct and 5 Nov 2026 | Complaint to the public entity about the decision (Human Rights Act s 65); asks who decided and whether the Anti-Discrimination Act was considered | Held |
+| — | Operational Procedures Manual, public editions: Issue 102 (in force 1 Oct to 24 Dec 2024), Issue 104.1 (20 Mar to 14 Apr 2025), Issue 106.1 (18 Jul to 1 Sep 2025), Issue 111 (29 Apr to 1 Jul 2026), Issue 112.2 (2 Sep to 30 Oct 2026) | Queensland Open Data Portal | Police's own procedures at each date: ss 1.2.3, 1.11, 1.11.2, 1.11.11, 4.7.1, 6.3.1, 6.3.2, 9.4.2, 9.7 and Appendix 9.1 | Held (public) |
+| — | Queensland Courts, domestic and family violence statistics (Table 10); Queensland Government Statistician's Office, Applications for domestic violence orders in Queensland, 2008–09 to 2017–18 (2021); Queensland Sentencing Advisory Council, Sentencing Spotlight on contravention of a domestic violence order (May 2025) | Published | Men are 84.7% of respondents to orders made from 1 Jul to 31 Oct 2026; 76.8% of respondents to applications between intimate partners, 2008–09 to 2017–18; 84.0% of people sentenced for contravention, 2012–13 to 2023–24 | Held (public) |
 
 ## Part 2 — Documents to obtain
 
 | # | Document | From | Why it matters |
 |---|---|---|---|
-| 1 | Triple-zero recordings, job log, officers' notebooks, body-worn camera, risk assessment and any record of who was assessed as the person most in need of protection, 1–2 Dec 2024 | Police (information access) | Decides Episode 1, the root of the whole complaint |
+| 1 | Triple-zero recordings, job log, officers' notebooks, body-worn camera, the protective assessment completed under the Domestic Violence Protective Assessment Framework (OPM Appendix 9.1), any report recording that his report was a civil matter and its approval (OPM s 1.11.11), and any record of who was assessed as the person most in need of protection, 1–2 Dec 2024 | Police (information access) | Decides Episode 1, the root of the whole complaint |
 | 2 | Record of the release of the dog: date, to whom, authorising officer, basis, and whether a s 694 application was considered | Police | Episodes 2 and 4 |
-| 3 | Operational Procedures Manual s 4.7.1 ("Disputed ownership (disposal)") and the domestic violence chapter on identifying the person most in need of protection, as in force Dec 2024–Mar 2025 | Police | Whether police departed from their own procedure |
+| 3 | The Ethical Standards "Complaint Resolution Guidelines" in force 18 Jun to 10 Sep 2026 (referred to in OPM s 1.11.2 but not published), and the "Guide to responding to domestic & family violence (DFV) incidents" referred to in OPM s 9.4.2, as in force Dec 2024 to Mar 2025 | Police (s 20 letter, or s 156 direction) | Whether police followed their own internal procedures |
 | 4 | Outcome of report QP2500652108; the 4 Apr 2025 online submission (case 11450236) and the "advice" it refers to; the record of status request 9499251 | Police | Episode 5 |
 | 5 | What was done with complaint 11518211 (17 Apr 2025) | Police | Episode 5; good cause |
 | 6 | Ethical Standards file for COM-26-01249: who decided, what was considered | Police | Episode 6 |
@@ -61,7 +63,7 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | 10 | Council registration history | Council | Episode 2 |
 | 11 | Court file M14056/25, including the statement police handed up | Magistrates Court | Episode 2 |
 | 12 | Treating doctor's report on the time limits of 18 June 2026 (document 09) | Treating doctor | Episode 6 |
-| 13 | Official statistics on the sex of respondents to domestic violence orders in Queensland | Queensland Courts or the Government Statistician | The alternative indirect discrimination claim |
+| 13 | Statistics on the sex of the people police treat as respondents at incidents involving disputed property, if police keep them | Police (s 156 direction) | The pool for the alternative indirect discrimination claim. The published statistics are already held (Part 1) |
 | 14 | Body-worn camera of each officer at the friend's home on 24 Feb 2025 from 11:00 pm, including anything after 11:19:54 pm | Police (document 08, Request B, item 6); the prosecution, through the criminal lawyers | The complainant's own words to the officers; who said "harassing him" |
 | 15 | Records of the roadside stop of 22 Mar 2025: the job log, the direction to remain, the time the papers were served, the time the vehicle was detained, and who asked for the dog to be seized | Police (document 08, Request B, item 7) | Episode 4 |
 | 16 | File notes of the complainant's solicitor in March 2025: calls to police about collecting the papers, and the call during the stop | His former solicitor (document 10, section 6) | That police were told to deal with his lawyer, and when |

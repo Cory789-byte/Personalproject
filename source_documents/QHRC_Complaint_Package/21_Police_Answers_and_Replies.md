@@ -1,0 +1,64 @@
+# Police's likely answers, and the replies
+
+Cory Lea Shepherd against the State of Queensland (Queensland Police Service). For you and your lawyers. Not lodged.
+
+When the Commission accepts the complaint it will notify police, who usually answer in writing before conciliation. This document sets out the answers police are most likely to give, the reply to each, where the reply comes from, and what is still needed. Section numbers are to the Anti-Discrimination Act 1991 unless another Act is named. "OPM" is police's Operational Procedures Manual, quoted from the public issue in force on the date concerned. Paragraph numbers are to the statement of complaint (document 02).
+
+## 1. Whether the Commission should deal with the complaint
+
+| Police are likely to say | The reply | Source | Still needed |
+|---|---|---|---|
+| The events before 18 June 2026 are out of time and there is no good cause (s 138) | The 2026 claims are in time. For the rest: he pursued these events without a break, with police through Policelink and Ethical Standards, with the Crime and Corruption Commission, and with this Commission; the charges arising from them are still before the court; the footage and records exist; and police have been on notice since April 2025. At the least, accept the in-time part and defer the rest until conciliation has been tried (s 141A) | Annexure D; Buderim Ginger Ltd v Booth [2002] QCA 177 at [22]; Smythe v State of Queensland [2024] QCAT 33 at [16] | Doctor's report on health in 2025 |
+| The 2025 conduct has been "adequately dealt with by another entity", namely Ethical Standards, which found the officers acted consistently with policy (s 140(2)) | Ethical Standards is part of the respondent, not another entity. It dealt with a complaint of misconduct, not discrimination, and it did not answer his question whether the Anti-Discrimination Act was considered. Its handling of that complaint is itself the subject of Claims 1 and 2. A file closed without contacting the complainant, and without identifying a right, is not "adequately dealt with" | Para 30, 31; outcome advice of 10 September 2026; letter of 29 October 2026 | — |
+| The same events were dealt with in EDR19098 | EDR19098 was accepted and dealt with only under the Human Rights Act. No complaint under this Act was made, accepted or rejected, so s 142 does not apply. The Commission's own letters say so | Para 49A–49C; Commission's letters of 15 April and 18 June 2026 | — |
+| The complaint should be stayed while the criminal charges are decided (s 140(1)(a)) | The proceedings concern what he is alleged to have done, not what police did. If a stay is thought necessary, limit it to 24 February 2025. Time does not run while a complaint is stayed (s 140(3)) | Para 49; covering letter, paragraph 7 | Criminal lawyers' view |
+
+## 2. Claim 1: the time limits of 18 June 2026
+
+| Police are likely to say | The reply | Source | Still needed |
+|---|---|---|---|
+| Ethical Standards was not performing a function covered by s 101 | The Commissioner of Police "must expeditiously assess complaints" and must deal with a complaint the Crime and Corruption Commission refers. Dealing with this complaint was a function under State law | Crime and Corruption Act 2001 s 42(1), (5); Woodforth v State of Queensland [2017] QCA 100 at [24] | — |
+| There was no "term": it was a request, and he could have asked for more time | A term includes a "condition, requirement or practice, whether or not written" (s 11(4)). Both limits were in writing, with a date, and the acknowledgment stated the consequence: late material "may not be considered". Nothing told him he could ask for more time. Police's own manual puts the onus on the officer, who "is to first establish whether the person is vulnerable" when "taking a complaint" | Ethical Standards emails of 18 June 2026; OPM Issue 111, ss 6.3.1, 6.3.2 | — |
+| He was able to comply; he later sent a long report | He could not do it in the time allowed. Serious disadvantage in complying is enough. His report came on 14 July 2026, nearly four weeks later | Harding v State of Queensland (QPS) [2025] QCAT 415 at [90]; para 29A | **Doctor's report** (document 09). This is the most important missing document |
+| The limits were reasonable: complaints must be assessed "expeditiously" and the Crime and Corruption Commission monitors them | Police's own acknowledgment allowed three business days; he was given less. The particulars asked for were already in police's systems. Police then took nearly three months to decide. More time cost nothing. The respondent must prove reasonableness | Para 42A; s 11(2); former s 205; Tafao v State of Queensland [2020] QCATA 76 at [170]; Ali v State of Queensland [2023] QCAT 109 at [35] | Who set the deadline, and on what instruction (covering letter, paragraph 8) |
+| Ethical Standards did not know of his condition | The person imposing a term need not be aware of its discriminatory effect (s 11(3)). In any case police's own records noted his mental illness from 1 December 2024, and his report of 14 July 2026, before the decision, stated his diagnosis | Para 42, 42A; [5], [51] | Whether the report of 14 July was on the file (covering letter, paragraph 8) |
+
+## 3. Claim 2: the decision of 10 September 2026
+
+| Police are likely to say | The reply | Source | Still needed |
+|---|---|---|---|
+| The committee considered human rights and "determined that police actions did not unduly limit your Human Rights" | A conclusion is not consideration. Proper consideration "includes identification of the human rights that may be affected". In Johnston the Commissioner of Police had not "identified the human rights that might be affected by the decision", and the decisions were unlawful. Police's own manual defines proper consideration the same way and requires reasons to be documented | Human Rights Act s 58(1)(b), (5); Johnston & Ors v Carroll (Commissioner of the Queensland Police Service) & Anor [2024] QSC 2 at [76], [137], [139]; OPM Issue 112.2, s 1.2.3 | The committee's record (covering letter, paragraph 8) |
+| This part is premature (Human Rights Act s 65) | He complained to police on 29 October 2026. Forty-five business days end on 5 January 2027. Accept it for exceptional circumstances, or add it from 6 January 2027 | Para 47; Human Rights Act s 65(2) | — |
+
+## 4. Claims 3 to 5: December 2024 to March 2025
+
+| Police are likely to say | The reply | Source | Still needed |
+|---|---|---|---|
+| On 1 December he was the respondent to a protection notice; her account, the bruise and his partial admissions justified it; nothing turned on his illness | The complaint does not re-try 27 November. It says police wrote her statement about his illness into their grounds, and that their own risk framework treats a respondent's "mental health issues" as a risk factor. A characteristic of the attribute cannot be a circumstance of the comparison | Para 38; OPM Issue 102, App 9.1; Woodforth at [53] | **The protective assessment** (Request A, item 6). If it does not record the factor, this claim weakens |
+| His report later that night was a civil matter between former partners | Police's procedures required his report to be taken "at that time", an occurrence to be created for a suspected indictable offence, and a civil conclusion to be recorded with the evidence relied on and approved by the officer in charge. Where ownership is disputed, officers "should advise persons not to remove the property" | Para 36; OPM Issue 102, ss 1.11, 1.11.2, 1.11.11, 9.7 | Request A, item 4: whether any of that was recorded |
+| He did not press charges (his message of 9 December 2024) | On his account police would not take his complaint. Police's manual required them to take it | Para 8; OPM s 1.11 | His evidence on the message |
+| In March the dog was stolen property: he had transferred it, he was charged, and it was returned to its registered owner | Ownership was disputed and police were told so on the spot, with receipts. Police's own "ORDER" required an officer aware of an ownership dispute to apply to a magistrate under s 694, and their receipt said that would happen. It did not | Para 25, 26, 41; OPM Issue 104.1, s 4.7.1; Kaus v Coaker & Anor [2014] QMC 24; Blyton v Bates [2021] QDC 180 at [19] | The release record (Request B, items 2 and 3) |
+| Nothing shows sex was a reason | This is the weak point and should be conceded as a matter for inference. The reply is the pattern across five episodes, the words officers used, a stated reason shown to be untrue, and, in the alternative, the practice claim, which does not need a reason | Para 35, 39–41; Watego v State of Queensland [2022] QCAT 341 at [32]; Tafao QCATA at [64] | — |
+| There is no "practice", only individual decisions | An officer described the approach on camera: police "don't typically get involved" in contested property but do "when we think it's stolen property". Men are 84.7% of respondents to orders made in July to October 2026, and 76.8% of respondents to applications between intimate partners from 2008–09 to 2017–18 | Para 21B, 39, 40; Queensland Courts DFV statistics, Table 10; QGSO 2021, Figure 6 | Police's own figures, if kept (Annexure C, Part 2, item 13) |
+
+## 5. Exemptions
+
+| Police are likely to say | The reply | Source |
+|---|---|---|
+| The acts were authorised by the Police Powers and Responsibilities Act 2000 or the Domestic and Family Violence Protection Act 2012 (s 106) | Section 106 covers only provisions in existence on 30 June 1992. Police have conceded the Police Powers and Responsibilities Act 2000 is not one | Para 43; Philipp v State of Queensland (QPS) [2025] QCAT 505 at [185]; Malaxetxebarria v State of Queensland [2007] QCA 132 |
+| Giving more time would have been a hardship | There is no unjustifiable hardship exemption in the s 101 area. In the alternative services area (s 51), more time cost nothing | Para 44A; ss 5, 51 |
+| Protective action for domestic violence is a welfare measure (s 104) | Section 104 protects acts designed to benefit a group. It does not protect declining a man's assault report or seizing his property for another person | Para 44 |
+
+## 6. Remedy
+
+| Police are likely to say | The reply | Source |
+|---|---|---|
+| There is no evidence of harm | Distress can be inferred without medical evidence, as it was in Harding. A doctor's report showing an effect on his depression supports a higher figure | Harding at [108], [110]; Hunter v State of Queensland [2015] QCAT 179 at [91]–[93] |
+| The Human Rights Act gives no damages | Agreed (s 59(3)). The human rights findings support the non-money terms: the reassessment, the record correction and the procedural review | Document 19 |
+
+## 7. Things not to concede
+
+- That the dog was ever a "civil matter" in December but "stolen" in March. The point is that police treated one dispute two ways.
+- That he could have asked for more time. Nothing told him so, and police's own manual put the duty on them.
+- Anything about what happened inside the unit on 23 February 2025. That stays in Schedule X until the criminal case ends.
+- That Ethical Standards' finding answers this complaint. It did not consider discrimination.

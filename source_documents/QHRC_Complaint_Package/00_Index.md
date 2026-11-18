@@ -49,14 +49,21 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 
 Your letters to police also give a parcel locker at Bundall. I used your email as the address for service, as the Commission did. Add the parcel locker only if it accepts letters.
 
-## What changed in this final version
+## What changed in this version (developed further, 18 November 2026)
 
-1. **The claim that is within time is stronger.** Your own emails show that on 18 June 2026 police's acknowledgment gave three business days for further material, and that two hours later you were given until the close of business the next day for the particulars. The acknowledgment also said late material "may not be considered". The outcome of 10 September 2026 does not mention the report you sent on 14 July 2026. All of this is now in the complaint (paragraphs 29 to 30, 42 and 42A).
-2. **Victimisation is now an optional page (document 20).** It depends on a fact I could not confirm, and nothing yet shows the officers knew of your allegation. The complaint is complete without it. Nothing is lost: that claim can be made until 18 June 2027.
-3. **Drafting notes are out of the lodging documents.** The checks they asked for are the five points above.
-4. **A correction to the description of the outcome.** Earlier versions said the outcome "refers to no human right". It has one sentence saying police actions "did not unduly limit your Human Rights". The documents now say it identifies no right.
-5. **The Case Study correction now has thirteen points.** Point 13 corrects the statement that police first contacted your friend in May 2026. Points 9 and 12 no longer depend on anything.
-6. **What you told police about harassment and your lawyer** is in the complaint from police's own recordings (paragraphs 21A, 21B, 24A and 25A; advice, section 5.2A).
+1. **Police's own manual is now in the complaint.** The Operational Procedures Manual is public, issue by issue. The issue in force on each date was read, and every passage quoted was checked against it.
+   - **The dog.** On 22 March 2025 an "ORDER" required an officer "who becomes aware of a dispute about the ownership of property" to apply to a magistrate under s 694 (s 4.7.1). Police did not. This is the strongest single document in the complaint about the dog.
+   - **December 2024.** A report made at a police station is to be "taken at that time". A civil conclusion must be recorded with the evidence and approved. Where ownership is disputed, officers "should advise persons not to remove the property" (ss 1.11, 1.11.2, 1.11.11, 9.7).
+   - **Your illness in the risk assessment.** Police's domestic violence risk framework lists "history of mental health issues for respondent" as a risk factor (Appendix 9.1). Request A now asks for that assessment by name.
+   - **2026.** The manual treats mental illness as a vulnerability to be established before "taking a complaint" (ss 6.3.1, 6.3.2). It defines proper consideration of human rights as starting with "identifying any human rights that may be affected" (s 1.2.3).
+2. **The statistics are in hand.** Men were 84.7% of respondents to domestic violence orders made in Queensland from July to October 2026, and 76.8% of respondents to applications between intimate partners over 2008–2018. That proves the "higher proportion" element of the alternative sex claim.
+3. **A Supreme Court decision against the Police Commissioner on proper consideration.** In Johnston [2024] QSC 2 the Court held the Commissioner had not identified the rights affected, and declared her decisions unlawful under s 58. It is now the lead authority for the human rights claim.
+4. **Whether the Act covers complaint handling is settled.** The Commissioner of Police "must expeditiously assess complaints" and must deal with referred complaints (Crime and Corruption Act s 42). That is a function under State law (s 101).
+5. **A remedy schedule** with the tribunal's actual awards against police (conciliation brief, section 7), and **a new document 21** setting out police's likely answers and the replies.
+6. **Prospects revised** (advice, section 11). The 2026 claim moves to about 55–65%. The alternative sex claim moves to about 20–30%. The direct sex claim is unchanged.
+
+Earlier changes in this version: the in-time claim is pleaded on both time limits of 18 June 2026; victimisation is an optional page (document 20); drafting notes are out of the lodging documents; the Case Study correction has thirteen points; and what you told police about harassment and your lawyer is in the complaint from the recordings.
+
 
 ## What is in the zip
 
@@ -64,7 +71,7 @@ Your letters to police also give a parcel locker at Bundall. I used your email a
 |---|---|---|
 | 1 Lodge with the Commission | **Complete Complaint for Lodging**: one file with the covering letter, the form answers, the statement of complaint and Annexures A to E. The same documents are also there one by one | Check the five points. Sign. Lodge in early December 2026 |
 | 2 Send now | Information requests to police; letter to your doctor; human rights complaint to police; Case Study correction for the letter of 20 November | Send this week, in the order in each document |
-| 3 Your legal team | Advice; outline of submissions; evidence matrix; conciliation brief; the information requests tested against the cases; witness outlines; the optional victimisation page | Read. Give to your lawyers. Do not lodge or send, except document 20 if its condition is met |
+| 3 Your legal team | Advice; outline of submissions; evidence matrix; conciliation brief; police's likely answers and the replies; the information requests tested against the cases; witness outlines; the optional victimisation page | Read. Give to your lawyers. Do not lodge or send, except document 20 if its condition is met |
 | 4 Hold | Schedule X: your account of 23 and 24 February 2025 | Confidential. Hold until the criminal case ends |
 | 5 Background | The earlier analyses | Reference only |
 
@@ -91,6 +98,7 @@ Your letters to police also give a parcel locker at Bundall. I used your email a
 | 13 | Information requests tested against the Act and the cases | 3 |
 | 10 | Witness outlines | 3 |
 | 20 | Addendum: victimisation (optional) | 3 |
+| 21 | Police's likely answers, and the replies | 3 |
 | 11 | Schedule X | 4 |
 
 ## Dates

@@ -40,9 +40,9 @@ I seek the following documents about the events of 7:00 pm on 1 December 2024 to
 1. The recording of my triple-zero call at about 11:05 pm on 1 December 2024, and the record made of it.
 2. For any other call to police about me or Unit 104 in that period: the time of the call, the job number, the priority given and what police recorded as reported, with the caller's identifying details deleted.
 3. The job log and the occurrence report for QP2402065947 as it stands at the date of this application, including the Events tab, the Tasks/Flags tab, each supplementary report, and each entry dated between 1 March and 30 April 2026.
-4. Any occurrence, street check or other entry recording my report that people entered Unit 104, pushed me and took my dog.
+4. Any occurrence, street check or other entry recording my report that people entered Unit 104, pushed me and took my dog; any general or supplementary report recording a conclusion that my report was a civil matter, with the evidence relied on; and the task for review and approval of that conclusion by the officer in charge (Operational Procedures Manual s 1.11.11).
 5. For the police protection notice issued at about 8:30 pm on 1 December 2024 (I hold the notice and its statement): any record of what I told the officers by telephone that evening; any record of the building's CCTV being requested or viewed; and any record of my messages being requested.
-6. From any domestic violence risk or protective assessment completed that evening: the entries about me, including any entry about my mental health, and the result or rating recorded.
+6. The protective assessment completed that evening under the Domestic Violence Protective Assessment Framework (Operational Procedures Manual s 9.4.2 and Appendix 9.1): the entries about me, including anything recorded under the risk factor "mental health issues", the fear level and the level of risk recorded.
 7. Entries about me in the notebooks of the officers who dealt with the matter.
 8. Body-worn camera footage in which I appear or speak: the officers' telephone call with me that evening, and my attendance at the police station the attending officers took me to after midnight on 2 December 2024.
 9. Any record of my attendance at the police station the attending officers took me to after midnight on 2 December 2024: of the documents I showed, of what I reported, and of any decision about taking a statement from me.
@@ -63,7 +63,7 @@ I do not ask here for the body-worn camera footage sought in RTI/56733.
 
 1. The property record for the dog seized from me on 22 March 2025 (field property receipt 137237), including every entry after seizure.
 2. The record of the release of the dog: the date, the person it was released to, the officer who authorised it, and the basis recorded. I already know the dog was released to my former partner: police said so in the Magistrates Court on 13 August 2025 (M14056/25).
-3. Any record of an application to a magistrate under section 694 of the Police Powers and Responsibilities Act 2000 being considered for the dog, and of the reason one was not made.
+3. Any record of the dispute about the ownership of the dog being notified to the reporting officer or a property officer; any advice sought from a prosecutor or Operational Legal Advice about who had the lawful claim; any record of an application to a magistrate under section 694 of the Police Powers and Responsibilities Act 2000 being considered; and the reason one was not made (Operational Procedures Manual s 4.7.1).
 4. Any notice given or intended to be given to me about an application, as stated on the receipt.
 5. Records of police contact with me about the dog between 24 February and 22 March 2025; of police attendance at Unit 207W, 1 Marina Drive, Benowa and at the home of my friend Thomas Balsley on the evening of 24 February 2025; any record of my telling police they were harassing me or asking them to deal with my lawyer; and any record of contact from my lawyer about serving papers on me between 18 and 22 March 2025. My mother's and my friend's signed consents and identification are attached.
 6. Body-worn camera footage in which I appear or speak, from each officer who attended Mr Balsley's home between 11:00 pm and 11:45 pm on 24 February 2025. I hold one officer's footage of that visit to 11:19:54 pm. RTI/56733 sought the interviewing officer's footage of 24 February 2025 and the action officer's footage of 22 March 2025. This item is different footage.
@@ -108,11 +108,12 @@ Expect most of this to be refused (document 13, section 4). The routes that reac
 
 ## Policy documents (a separate letter, not an access application)
 
-Write to the Queensland Police Service asking to inspect or buy, under section 20 of the Right to Information Act 2009, the Operational Procedures Manual as in force from 1 December 2024 to 31 March 2025:
+The Operational Procedures Manual is now public: every issue since 2020 is on the Queensland Open Data Portal, and the complaint quotes the issue in force at each date. Two internal documents it refers to are not published. Write to the Queensland Police Service asking to inspect or buy, under section 20 of the Right to Information Act 2009:
 
-- section 4.7.1, "Disputed ownership (disposal)";
-- the parts of the domestic violence chapter that deal with conflicting allegations and identifying the person most in need of protection;
-- any instruction on property disputes between parties to a domestic violence order.
+- the Ethical Standards Command "Complaint Resolution Guidelines" as in force from 18 June to 10 September 2026 (referred to in Operational Procedures Manual s 1.11.2); and
+- the "Guide to responding to domestic & family violence (DFV) incidents" as in force from 1 December 2024 to 31 March 2025 (referred to in s 9.4.2).
+
+If police say either is not a policy document, ask for it by access application instead, and ask the Commissioner to direct its production (covering letter, paragraph 8).
 
 ## If anything is refused or delayed
 

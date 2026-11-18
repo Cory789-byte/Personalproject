@@ -18,9 +18,9 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 
 **What police will say.** The complainant had been named respondent at 8:30 pm that evening [5]; the entry was the aggrieved collecting her belongings; the dog was a civil dispute.
 
-**Reply.** The people who entered were not parties to the relationship; an assault by third parties is a criminal complaint whatever the domestic violence designation. Police must investigate where domestic violence is reasonably suspected (Domestic and Family Violence Protection Act 2012 s 100), and a civil response operates "in conjunction with, not instead of, the criminal law" (s 4(2)(f)). The order made two days later let her collect only "undisputed" property [12].
+**Reply.** The people who entered were not parties to the relationship; an assault by third parties is a criminal complaint whatever the domestic violence designation. Police must investigate where domestic violence is reasonably suspected (Domestic and Family Violence Protection Act 2012 s 100), and a civil response operates "in conjunction with, not instead of, the criminal law" (s 4(2)(f)). The order made two days later let her collect only "undisputed" property [12]. Police's own procedures in force that night: a report made at a police station is to be "taken at that time"; an occurrence "is to be created" for any suspected indictable offence; a conclusion that a matter is civil is to be recorded with the evidence relied on and approved by the officer in charge; and where the ownership of property is disputed, officers "should advise persons not to remove the property" (Operational Procedures Manual, Issue 102, ss 1.11, 1.11.2, 1.11.11, 9.7).
 
-**Attributes.** Impairment: police recorded and relied on her statement that his mental illness "can cause the resp to act crazy and go into rages without warning" [5]. Sex, in addition and in the alternative.
+**Attributes.** Impairment: police recorded and relied on her statement that his mental illness "can cause the resp to act crazy and go into rages without warning" [5]. Police's protective assessment framework lists "history of mental health issues for respondent" as a risk factor (Operational Procedures Manual, Issue 102, Appendix 9.1); the assessment completed that night is sought. Sex, in addition and in the alternative.
 
 ## Episode 2 — The dog in December and in March
 
@@ -39,7 +39,7 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 
 **What police will say.** By March she was the person protected by an order; the microchip had been transferred to her in December [16]; he had been charged; the dog was returned to its registered owner (Police Powers and Responsibilities Act 2000 s 691).
 
-**Reply.** Ownership was disputed and police knew it on the spot [40]; police's own December record has the animals split between the two names [11]; the transfer was signed while she held the dog [16]; the law gave police a route to have a magistrate decide (s 694), their receipt told him it would be used, and they did not use it. The officer said the paperwork did not matter [40].
+**Reply.** Ownership was disputed and police knew it on the spot [40]; police's own December record has the animals split between the two names [11]; the transfer was signed while she held the dog [16]; the law gave police a route to have a magistrate decide (s 694), their receipt told him it would be used, and they did not use it. The officer said the paperwork did not matter [40]. Police's own procedure was an "ORDER": "A reporting officer who becomes aware of a dispute about the ownership of property is to" apply to a magistrate under s 694 (Operational Procedures Manual, Issue 104.1, s 4.7.1). In December, police's procedure for disputed property was to advise the person "not to remove the property" (Issue 102, s 9.7). The dog was disputed, and when police escorted her to collect her belongings it stayed with her.
 
 **Attribute.** Sex.
 
@@ -92,6 +92,7 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 |---|---|---|
 | Particulars required by close of business the next day [50] | He could not meet it. Complaint finalised without further contact [52] | Police must prove the term was reasonable (former s 205) |
 | Any further material within three business days, or it "may not be considered" [50] | His report of 14 July 2026 is not mentioned in the outcome, nor is his condition [51], [52] | As above |
+| Police's own standard | Mental illness "should be considered as creating a vulnerability"; an officer communicating with a person, "including ... taking a complaint", is to "first establish whether the person is vulnerable" (Operational Procedures Manual, Issue 111, ss 6.3.1, 6.3.2) | Not applied |
 
 **Attribute.** Impairment.
 
