@@ -98,6 +98,13 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 2. **The comparison.** A woman, in the same dispute, over the same dog, with the same police service. "Civil" means police leave the dog where it is and the person without it goes to court. Police applied that rule when she had the dog and reversed it when you had it.
 3. **Sex as a substantial reason.** The officer said the paperwork did not matter. The reason given was her allegation and the charge. Your allegation in December, made with documents in your hand, did not get a statement taken.
 
+**The court route police did not use.**
+
+- When two people claim a seized thing, a police officer may ask a magistrate to declare who owns it, and must give every claimant notice of the hearing (Police Powers and Responsibilities Act 2000 s 694).
+- Police have used it for a dog seized from a man and claimed by his former partner through New South Wales papers. The magistrate decided ownership on affidavits from both: Kaus v Coaker & Anor [2014] QMC 24.
+- Here police told you that you had "to go through the courts to get the dog back", did not take the dispute to a magistrate themselves, and released the dog to her. When you went to court in August 2025, as you had been told to, the dog had already been given to her.
+- The section says police "may" apply. It is a route, not a duty, unless the police manual makes it one. The manual's section 4.7.1, "Disputed ownership (disposal)", could not be read for this version. If it directs officers to apply to a magistrate, it is the strongest single point in Claim C. Get its text as in force when the dog was released.
+
 **Your proof of ownership.** $3,150 on 10 December 2023 and $350 on 11 December 2023, the second marked "Cory Alexia Pom"; the vet invoice of 16 July 2024 naming you; the council registration in your name.
 
 **The weak joints.**
@@ -129,6 +136,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 7. **"It is out of time."** See section 7.
 8. **"He has complained about this already."** The earlier complaint (EDR19098) ran under the Human Rights Act and ended unresolved with no recommendation.
 9. **"He could have asked for more time."** Settle what you did on 18 and 19 June 2026 before lodging.
+10. **"We returned the dog to its owner, as the law allows."** Police may return a seized thing to its owner (s 691). They will say the New South Wales papers made her the owner. The reply: you disputed ownership on the spot, with your own papers; the officer said the paperwork did not matter; and the law gave police a way to have a magistrate decide (s 694), which they did not use, while telling you to go to court.
 
 ## 7. Time and good cause
 
@@ -163,8 +171,9 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 3. From the building manager: the original CCTV files.
 4. From the New South Wales register: the change history for the microchip, including 10 April 2025.
 5. From the council: the date the dog was first registered in your name.
-6. From the court: the order and recording of the August 2025 hearing.
+6. From the court: the order and recording of the hearing in M14056/25 (13 August 2025, your account), and the statement police handed up.
 7. From your treating doctor: a letter on why a one-day deadline in June 2026 could not be met.
+8. From police: the release record for the dog (to whom, when, who authorised it, and on what basis), whether an application to a magistrate under s 694 was considered, and the police manual's section 4.7.1 as in force at the time of the release.
 
 Item 1 decides how strong Claim C is.
 
@@ -211,7 +220,7 @@ Item 1 decides how strong Claim C is.
 
 17. On 3 and 4 March 2025 police telephoned my sister's partner four times about the dog and questioned my sister, who was 16. [Settle against his affidavit once signed.]
 18. On 22 March 2025 police took the dog from me in Southport. Police footage records an officer saying "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back". I said "It's my dog". An officer answered "It doesn't matter". An officer said "It would have been civil if you didn't get charged for stealing it".
-19. Police gave the dog to my former partner. No court had decided who owned it.
+19. Police gave the dog to my former partner without asking a magistrate to decide who owned it, although the law allows police to do that where ownership is disputed (Police Powers and Responsibilities Act 2000 s 694). When I applied to the Magistrates Court in August 2025, as police had told me to, the dog had already been given to her.
 20. On 4 April 2025 Policelink wrote that the information I gave about my report did "not match our records". The same afternoon it declined my report because "this matter has already been reported to Police with advice provided".
 
 *What I say*
@@ -238,8 +247,9 @@ Item 1 decides how strong Claim C is.
 - The words "forced" and "not valid" about the transfer.
 - Any description of the officers' motives, and officers' names.
 - Material from the criminal case that your lawyers say cannot be used outside it.
+- How the August 2025 hearing was run: police's lawyer, the statement handed up, the costs request, and her absence. Those were for the magistrate, who ran the hearing and decided it. Police were the other party to your application and entitled to appear (Police Service Administration Act 1990 s 10.24(1)(b) and (c)). Raise the release of the dog with the Crime and Corruption Commission instead (full case, section 8).
 - Your mother's loss as your claim. It is hers.
 
 ## 13. Law checked
 
-Anti-Discrimination Act 1991 ss 7, 8, 10, 11, 101, 106, 133, 138, 141A, 209 and 285AA, current text, and former ss 204, 205 and 206 as in force before 1 December 2024; Human Rights Act 2019 ss 58, 65 and 70(1)(d).
+Anti-Discrimination Act 1991 ss 7, 8, 10, 11, 101, 106, 133, 138, 141A, 209 and 285AA, current text, and former ss 204, 205 and 206 as in force before 1 December 2024; Human Rights Act 2019 ss 58, 65 and 70(1)(d); Police Powers and Responsibilities Act 2000 ss 691 to 694, as in force on 13 August 2025; Police Service Administration Act 1990 s 10.24; Kaus v Coaker & Anor [2014] QMC 24 and Anderson v Dunlop & Ors [2009] QMC 14, read on the official Queensland judgments site.

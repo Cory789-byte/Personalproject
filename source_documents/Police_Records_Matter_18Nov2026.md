@@ -206,7 +206,7 @@ For the period 1 December 2024 to the date of this request:
 6. Any record of my address being given to another party to a court or tribunal proceeding.
 7. For the typed statement (QP 0899A) dated 18 March 2025 under occurrence QP2402065947, which gives my address as Unit 207W, 1 Marina Drive, Benowa: the source of that address, and whether it was filled from police records. The handwritten notice 493283 of the same date gives Unit 104 for service, and the court brief for CO2500030466 gives Unit 104.
 8. Any record of my bail conditions being given to any person, including the aggrieved, a named person or a tribunal, with the date and the conditions given; and the date police records were updated to show the court's variation of my bail.
-9. The property record for anything seized from me on 24 February 2025, including any key or fob, and what was done with it.
+9. The property record for anything seized from me on 24 February 2025, including any key or fob, and what was done with it; and for the dog seized from me on 22 March 2025, the release record: to whom it was released, when, who authorised it, on what basis, and whether an application to a magistrate under section 694 of the Police Powers and Responsibilities Act 2000 was considered.
 10. Any record of police contact with members of my mother's household at Unit 207W, 1 Marina Drive, Benowa about me or the dog between 24 February and 22 March 2025, including calls on 3 and 4 March 2025 to my sister's partner.
 
 If any part is refused under schedule 3, section 10(1) of the Right to Information Act 2009, I ask that the documents themselves be examined for section 10(2)(a): Commissioner of the Police Service v Shelton [2020] QCA 96 at [47] to [49].
