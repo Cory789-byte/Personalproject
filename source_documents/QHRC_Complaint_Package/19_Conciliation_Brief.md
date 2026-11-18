@@ -31,13 +31,15 @@ About two minutes. Read it if that is easier.
 >
 > I am not asking police to decide the criminal case here. I am asking for an acknowledgment of those facts, a fresh look at my complaint by someone independent, with fair time to respond, and my record corrected.
 
-## 4. Three questions to put to police
+## 4. Five questions to put to police
 
 Ask each one plainly and wait for the answer. Each answer helps you whichever way it goes.
 
 1. **"Is one business day the time Ethical Standards gives every complainant to provide particulars?"** If yes, it is a practice, and police must prove it reasonable. If no, ask why it was set for you.
 2. **"Who decided my complaint on 10 September 2026, and which of my human rights did that person consider?"** The outcome names none.
 3. **"When the dog was released, was an application to a magistrate considered, and why was none made?"** The receipt said one would be.
+4. **"On 24 February 2025 an officer said police do not 'typically get involved' in contested property, and that there was a 'civil aspect' here. On 2 December 2024 the council registration was in my name and no transfer had been signed. Why was the dog contested when I reported it taken, and stolen when she did?"** Police will point to the change-of-owner form you signed between 16 and 19 December 2024. Your answer: you signed it at her request while she held the dog, you told her and police that you still claimed it, and it did not exist on 2 December.
+5. **"On 22 March 2025 I told police they could call my lawyer, and I asked to call my solicitor before the dog was taken. Who decided the dog would be seized at that stop, and when?"** The recording has officers discussing it while you were being held for service of the papers. Check each line you quote against the footage first.
 
 ## 5. The Commission's ten preparation questions
 

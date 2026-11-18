@@ -17,7 +17,7 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | D9 | Former partner's police statement (QP 0125A) | 25 Feb 2025 | Her account of 23 Feb is second-hand; she was interstate | Criminal case |
 | D10 | Her friend's police statement | 24 Feb 2025 | The account police acted on | Criminal case |
 | D11 / D62 | Police court brief (QP9), three versions | 2025–2026 | Prosecution relies on the change-of-owner form; omits the 2:28 am lease confirmation | Criminal case |
-| D14 | Declaration of the complainant's friend | 2026 | Independent account of 23 Feb; not approached by police for 15 months | Held |
+| D14 | Declaration of the complainant's friend | 2026 | Independent account of 23 Feb. Police questioned him about the dog on 24 Feb 2025 [34A]; on his account no statement was sought from him for 15 months | Held |
 | D15 | Building manager's declaration | 2025 | Lease status; entry notice of 19 Feb; right to enter for belongings | Held (times carry a one-hour shift: use camera times) |
 | D25 | Complaint to Policelink with letter to the Officer in Charge, Southport (case 11518211) and reply | 17 Apr 2025 | Written complaint about the seizure and visits within four weeks; "forwarded" | Held (letter: confirm copy) |
 | D26–D27 | Notices to the complainant's mother | 23 Mar, 12 Apr, 19 Apr 2025 | Consequences of the address recorded by police | Held |
@@ -61,3 +61,6 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | 11 | Court file M14056/25, including the statement police handed up | Magistrates Court | Episode 2 |
 | 12 | Treating doctor's report on the one-day deadline (document 09) | Treating doctor | Episode 6 |
 | 13 | Official statistics on the sex of respondents to domestic violence orders in Queensland | Queensland Courts or the Government Statistician | The alternative indirect discrimination claim |
+| 14 | Body-worn camera of each officer at the friend's home on 24 Feb 2025 from 11:00 pm, including anything after 11:19:54 pm | Police (document 08, Request B, item 6); the prosecution, through the criminal lawyers | The complainant's own words to the officers; who said "harassing him" |
+| 15 | Records of the roadside stop of 22 Mar 2025: the job log, the direction to remain, the time the papers were served, the time the vehicle was detained, and who asked for the dog to be seized | Police (document 08, Request B, item 7) | Episode 4 |
+| 16 | File notes of the complainant's solicitor in March 2025: calls to police about collecting the papers, and the call during the stop | His former solicitor (document 10, section 6) | That police were told to deal with his lawyer, and when |

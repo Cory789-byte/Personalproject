@@ -22,7 +22,7 @@ For the complainant's use in preparing statements. Each witness gives only what 
 
 ## 2. The complainant's friend (present on 23 February 2025)
 
-**Why.** The only adult witness from outside the two households. Not approached by police for fifteen months.
+**Why.** The only adult witness from outside the two households. Police questioned him about the dog on the morning of 24 February 2025 and again at about 11:10 pm that night (camera D59). On his account, no statement was sought from him for fifteen months. Confirm both points with him.
 
 **Topics.** Limit his statement to what police did, and to what he handed police, until the criminal case ends:
 
@@ -30,6 +30,7 @@ For the complainant's use in preparing statements. Each witness gives only what 
 2. Whether he gave police any documents (the lease, the order, medical records), when, and to whom.
 3. Whether police asked him for a statement that night or later, and when police first contacted him.
 4. His video: the date, time and length, and where the original is kept. Do not describe its contents in this statement.
+5. The police visit to his home late on 24 February 2025: who came, what they asked, what the complainant said to the officers, and what the officers said to him about the dog and about their contact with the complainant. Take his recollection before he sees the footage.
 
 ## 3. The complainant's sister's partner
 
@@ -58,3 +59,15 @@ Her own losses are her claim, not the complainant's. If she wishes to complain a
 ## 5. The leasing manager (not a friendly witness)
 
 Do not approach her for a statement. Her police statement of 27 May 2026 is answered by her own emails and texts (full case, Annex F). If the matter goes to the tribunal, her documents can be obtained by a notice to produce.
+
+## 6. The complainant's solicitor in March 2025 (the file, not a statement)
+
+**Why.** On the police recording of 22 March 2025 the complainant says his lawyer wanted to arrange a time to collect the papers with him, and that police could call his lawyer. The solicitor's file is the independent record of what police were told, and when.
+
+**Ask for:**
+
+1. File notes and emails of every contact with police between 24 February and 22 March 2025: the date, who was spoken to, and what was said about serving papers and about the dog.
+2. Any note of the telephone call during the roadside stop on 22 March 2025.
+3. Any letter or email to police asking that contact be made through the firm.
+
+The file is his, and he can ask for it. Privilege in it is his to keep or to waive. Take advice before giving any of it to the Commission or to police.

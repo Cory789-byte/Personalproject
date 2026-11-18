@@ -102,7 +102,7 @@ The court must consider whether there was "a failure to take appropriate steps t
 - Winning is not enough on its own: costs were refused after an acquittal on honest claim of right (Burns v Redland City Council [2025] QDC 39 at [30]).
 - **So:** your lawyers should now send the prosecutor written representations with the documents (the lease, the bond record, the leasing manager's messages, the 2:28 am confirmation, your ownership papers). That puts police on notice in the way Oates and Wells required.
 
-**Your points.** The court brief leaves out the building manager's confirmation of the lease on speaker at 2:28 am. Your friend, the only adult witness from outside the two households, was not approached for fifteen months. The leasing manager's statement was taken fifteen months later and is contradicted by her own emails. The index to brief leaves blank the section for witnesses who would help you.
+**Your points.** The court brief leaves out the building manager's confirmation of the lease on speaker at 2:28 am. Your friend, the only adult witness from outside the two households, was questioned about the dog on 24 February 2025 but, on his account, was not asked for a statement for fifteen months. The leasing manager's statement was taken fifteen months later and is contradicted by her own emails. The index to brief leaves blank the section for witnesses who would help you.
 
 **Verdict.** Yes, if the charges are dismissed. These are exactly the points the section asks about.
 

@@ -59,11 +59,11 @@ Keep this claim only if paragraphs 42A to 42C of the statement of complaint are 
 | Contravention | Direct discrimination because of sex, including the characteristic often imputed to men in domestic disputes of being the aggressor (ss 7(a), 8(b), 10, 101; in the alternative s 46) |
 | Act (a) | 1 to 2 December 2024: told to "let it go"; the dog "a civil issue"; no statement taken; a statement taken from her the next day [7]–[10] |
 | Act (b) | 24 February 2025: a welfare inquiry made of her friend and none of him [28]; at 5:23 am the building manager told he was "not the leaseholder" and would "not be going back", after the manager had confirmed the lease [29], [31] |
-| Act (c) | 24 February to 4 March 2025: a night visit to his mother's home and repeated calls to his family to recover the dog for her [34], [37] |
-| Act (d) | 22 March 2025: the dog seized from him "regardless of what paperwork he has" [40]; later released to her without the application to a magistrate the receipt said would be made [45] |
+| Act (c) | 24 February to 4 March 2025: night visits to his mother's home and his friend's home, where an officer said "that's all we want then we can stop just harassing him", and repeated calls to his family, to recover the dog for her [34], [34A], [37] |
+| Act (d) | 22 March 2025: stopped to be served with court papers and told to remain; he told police they were harassing him and could call his lawyer; the dog seized from him "regardless of what paperwork he has", after he asked to call his solicitor first [39A], [40], [40A]; later released to her without the application to a magistrate the receipt said would be made [45] |
 | Act (e) | 4 April 2025: his report declined as "already been reported to Police with advice provided" [42] |
 | Comparison | A woman in the same circumstances, including the same report or the same complaint against her: Annexure B |
-| Substantial reason | Officers' own words (para 35); a stated reason contradicted by police's own record (para 35); the same dispute treated as civil when she held the dog and criminal when he did |
+| Substantial reason | Officers' own words (para 35); a stated reason contradicted by police's own record (para 35); the same dispute treated as civil when she held the dog and criminal when he did; the officer who seized the dog had been told one side only: "All I've been told is that you've stolen the dog" [40A] |
 | Proof | Body-worn camera releases; property receipt 137237; Policelink emails; police statement of 18 March 2025; Annexure B |
 | Time | Out of time. Good cause: Annexure D |
 
@@ -72,7 +72,7 @@ Keep this claim only if paragraphs 42A to 42C of the statement of complaint are 
 | | |
 |---|---|
 | Contravention | Indirect discrimination because of sex (ss 7(a), 11, 101) |
-| The term | In a property dispute between people in a domestic relationship, property held by the person police treat as the aggrieved is a civil matter, while property held by the person police treat as the respondent may be seized as stolen, so that the respondent must go to court to recover it whatever documents he holds |
+| The term | In a property dispute between people in a domestic relationship, property held by the person police treat as the aggrieved is a civil matter, while property held by the person police treat as the respondent may be seized as stolen, so that the respondent must go to court to recover it whatever documents he holds. An officer described police's approach on 24 February 2025: "when there is contested property we don't typically get involved but when we think it's stolen property we do" [34A] |
 | Could not comply | He was treated as the respondent, and the dog was released before he could obtain a court order |
 | Proportion | Men are the large majority of respondents to domestic violence orders. The complainant asks the Commissioner to obtain the official statistics |
 | Not reasonable | Ownership was disputed with documents; the law gave police a way to have a magistrate decide (Police Powers and Responsibilities Act 2000 s 694); police's receipt said it would be used. The respondent must prove reasonableness (former s 205) |

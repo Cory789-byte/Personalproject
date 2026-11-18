@@ -13,7 +13,7 @@ Reworded on 18 November 2026 after testing each item against the Act and the dec
   3. Then Request 1 (the address).
   4. Then Request E.
   5. Last, Request D.
-- **Consents.** Attach signed consent and identification from your friend (Request A2) and your mother (Request B).
+- **Consents.** Attach signed consent and identification from your friend (Requests A2 and B) and your mother (Request B).
 - **Blanks.** Fill in every blank. A request police cannot pin down can be refused (s 24(2)(b)).
 - **Your criminal lawyers.** Show them Request A2 before it is lodged.
 - **Copies.** Keep a copy of each request and the date you lodged it. They are part of the good cause for the out-of-time parts of the complaint.
@@ -65,7 +65,9 @@ I do not ask here for the body-worn camera footage sought in RTI/56733.
 2. The record of the release of the dog: the date, the person it was released to, the officer who authorised it, and the basis recorded. [If you hold a document showing who received the dog, say so and attach it.]
 3. Any record of an application to a magistrate under section 694 of the Police Powers and Responsibilities Act 2000 being considered for the dog, and of the reason one was not made.
 4. Any notice given or intended to be given to me about an application, as stated on the receipt.
-5. Records of police contact with me about the dog between 24 February and 22 March 2025, and of police attendance at Unit 207W, 1 Marina Drive, Benowa on the evening of 24 February 2025. My mother's signed consent and identification are attached.
+5. Records of police contact with me about the dog between 24 February and 22 March 2025; of police attendance at Unit 207W, 1 Marina Drive, Benowa and at [friend's address] on the evening of 24 February 2025; any record of my telling police they were harassing me or asking them to deal with my lawyer; and any record of contact from my lawyer about serving papers on me between 18 and 22 March 2025. My mother's and my friend's signed consents and identification are attached.
+6. Body-worn camera footage in which I appear or speak, from each officer who attended [friend's address] between 11:00 pm and 11:45 pm on 24 February 2025. [You hold one officer's footage to 11:19:54 pm from the criminal case. Check whether RTI/56733 asked for the rest, and complete standard paragraph 7. Ask your criminal lawyers to seek it by disclosure as well.]
+7. For the roadside stop of 22 March 2025 at [place]: the job log; any record of the direction given to me to remain (Domestic and Family Violence Protection Act 2012 s 134A), the time it was given and the time the papers were served; any record of who asked for the dog to be seized, and when; and the record of the search of my car.
 
 ## Request C — My reports and complaints (lodge with Request B)
 
@@ -93,6 +95,7 @@ Before lodging, check what RTI/54169 asked for and complete standard paragraph 7
 
 1. Policelink service delivery complaint 8933558 (December 2023): my complaint as recorded, the record of who it was allocated to, the outcome, and the correspondence with me.
 2. Complaint COM-24-00832: my complaint as recorded, its classification, the record of who it was allocated to, and the outcome.
+3. [Keep only if you made a written complaint. Give the date and how you made it.] My complaint, made between 24 February and 22 March 2025, that Southport officers were harassing me: the complaint as recorded, the record of who it was allocated to, and the outcome.
 
 The complaint about a welfare concern for a family member is left out. Records of that kind are largely exempt (schedule 3, section 12), and asking would bring her information into a release. Add it only if the reprisal claim is to be run, and then only by date and reference number.
 

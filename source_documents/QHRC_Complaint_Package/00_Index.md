@@ -43,6 +43,8 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 1. **Your earlier Commission complaint (EDR19098) is now dealt with.** The Commission's own letters show it was accepted under the Human Rights Act only, for property and for privacy and reputation, conciliated on 14 May 2026 and reported unresolved on 18 June 2026. It does not bar this complaint. The human rights part of this complaint is now limited to the decision of 10 September 2026.
 2. **A new claim: victimisation, in the alternative.** Your submission of 3 May 2026 in that complaint said police discriminated against you because of psychiatric disability. Police set the one-day deadline on 18 June 2026, the day that complaint was reported unresolved. I could read only extracts of the submission. Keep the claim only if you sent the submission before 18 June 2026.
 3. **Each contravention is now particularised** (Annexure E), and the letter asks the Commissioner to direct police to produce the records that decide the complaint.
+4. **What you told police about harassment and your lawyer is now in the complaint, from police's own recordings.** On 24 February 2025 an officer told your friend "that's all we want then we can stop just harassing him". On 22 March 2025 you told police "I've put them on for harassment and you can call my lawyer if you want", and you asked to call your solicitor before the dog was taken. See paragraphs 21A, 21B, 24A and 25A of the complaint, rows 34A, 39A and 40A of the chronology, and section 5.2A of the advice.
+5. **A correction.** Earlier versions said police did not contact your friend for fifteen months. The camera shows officers questioned him about the dog on 24 February 2025. What stands, on his account, is that no statement was sought from him for fifteen months. Documents 01, 04, 05 and 10 and the background paper "Does it succeed?" are corrected.
 
 ## Blanks only you can fill
 
@@ -56,7 +58,9 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 | 6 | How these events affected you, in your own words, and your losses with receipts | Documents 15 (question 9), 19 (section 7) |
 | 7 | The adjustments you need from the Commission | Documents 14, 15 |
 | 8 | Your doctor's report | Document 09 |
-| 9 | Your criminal lawyers' confirmation of which criminal-case material may be used | Document 05 |
+| 9 | Your criminal lawyers' confirmation of which criminal-case material may be used, and their view of paragraphs 21A, 21B, 24A and 25A of the complaint | Documents 05, 02 |
+| 10 | When you first told the investigating officer that police were harassing you and to deal with your lawyer; whether you made a written complaint before 22 March 2025; and your former solicitor's file notes | Documents 02 (paragraphs 21A, 24A), 10 (section 6), 18 |
+| 11 | Each line quoted from the cameras of 24 February and 22 March 2025, checked against the footage for the words and the speaker | Documents 02, 03 |
 
 ## Dates
 

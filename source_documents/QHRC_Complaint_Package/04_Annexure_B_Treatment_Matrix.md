@@ -33,6 +33,8 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 | What police did | Left the dog with her [9] | Seized the dog from him; released it to her without the court application their own receipt said would be made [40], [45] |
 | Who was sent to court | Him | Him: "he's got to go through the courts" [40] |
 
+**Police's approach in their own words.** On 24 February 2025 an officer told the complainant's friend: "when there is contested property we don't typically get involved but when we think it's stolen property we do". He accepted there was a "civil aspect" and said police had "a document that shows that he's transferred ownership" [34A]. On 2 December 2024, when the complainant reported the dog taken, the council registration was in his name and no transfer had been signed [4], [16]. Police did not treat it as stolen then.
+
 **Comparator.** A woman who holds a dog she paid for, that is registered with the council in her name, whose former partner claims it, and who shows police her receipts.
 
 **What police will say.** By March she was the person protected by an order; the microchip had been transferred to her in December [16]; he had been charged; the dog was returned to its registered owner (Police Powers and Responsibilities Act 2000 s 691).
@@ -48,7 +50,7 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 | Status | Tenant 1 on a lease running to 10 April 2025 [2], [14], [43]; bond in his name alone [33] | On neither the lease nor the order |
 | What officers said | "technically he's allowed to be here"; "no one's done anything there" [26] | — |
 | Welfare | No inquiry [28] | Offered support and referral services [28] |
-| The friend each brought | His friend, present at 7:50 pm and filming: asked where he was; his account not taken; his video not viewed; first contacted by police in May 2026 | Her friend: account taken that night; her photographs and documents received (court brief) |
+| The friend each brought | His friend, present at 7:50 pm and filming: asked where the complainant was; questioned about the dog that morning and again at 11:10 pm [34A]; no statement taken about what he saw; his video not viewed; on his account, no statement sought for fifteen months | Her friend: account taken that night; her photographs and documents received (court brief) |
 | Outcome | Arrested 5 minutes after the lease was confirmed [29]–[30]; police told the building manager he was "not the leaseholder" and would "not be going back" [31] | Access reinstated "and her friend" [31] |
 
 **Comparator.** A woman named as Tenant 1, whose co-tenancy the building manager has just confirmed, whom officers have said is allowed to be there.
@@ -63,8 +65,11 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 
 | | For the complainant (December 2024) | For his former partner (February–March 2025) |
 |---|---|---|
-| Home visits | None | Two officers at his mother's home at night: "we're trying to sort of assist her all we can" [34] |
+| Home visits | None | Two officers at his mother's home at night: "we're trying to sort of assist her all we can" [34]. Then his friend's home at about 11:10 pm: "that's all we want then we can stop just harassing him" [34A] |
+| Building CCTV | He offered CCTV of the entry; no statement was taken [6]–[8] | "if there are cameras then we can get access to them" [34] |
+| Other people | Told to "let it go" about the people who entered his home [8] | His friend told: "we're starting to look at parties to offences and possessing tainted property" [34A] |
 | Calls | None | Four calls to his sister's partner; his sister, 16, questioned [37] |
+| His lawyer | — | 22 March: he tells police they can call his lawyer, and asks to call his solicitor before the dog is taken. The officer: "the vehicle is detained" [39A], [40A] |
 | Outcome for the dog | Left where it was [9] | Seized and given to her [40], [45] |
 
 **Comparator.** As for Episode 2.

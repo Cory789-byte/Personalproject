@@ -49,8 +49,10 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | Her statement taken next day | Her statement (Annexure A [10]) | The record of the outcome so far as it concerns him | Request A, item 11 |
 | "Technically he's allowed to be here"; lease confirmed; arrest five minutes later | Body-worn camera (D37, D48–D50, D59) | Lines checked against the source video | Check before any hearing |
 | "Not the leaseholder" at 5:23 am; "the other leaseholder" | Camera; interview (D29) | Clearance to use criminal-case material | Criminal lawyers |
-| Night visit and calls for the dog | Camera; sister's partner's draft affidavit (D51) | Affidavit checked and sworn | Document 10 |
+| Night visits and calls for the dog | Camera D59: "that's all we want then we can stop just harassing him"; "we're starting to look at parties to offences and possessing tainted property"; sister's partner's draft affidavit (D51) | The speaker of each line confirmed on the footage; affidavit checked and sworn | Document 10 |
+| He told police they were harassing him and to call his lawyer | Police cameras of 22 March 2025: "I've put them on for harassment and you can call my lawyer if you want"; "I said the police are harassing me"; "Let me call my solicitor" | When he first said it to the investigating officer; his solicitor's file notes of calls to police; his own words on the footage of 24 February 2025 | His former solicitor's file (document 10, section 6); Request B, items 5 to 7; the second officer's camera, through the criminal lawyers |
 | Seizure "regardless of what paperwork he has" | Camera of 22 March 2025; receipt (D30) | Nothing | — |
+| The officer who seized the dog had been told one side | "All I've been told is that you've stolen the dog" (police camera, 22 March 2025) | Who asked for the dog to be seized, and what the seizing officers were told | Request B, item 7 |
 | Released to her without a court application | His account of the August 2025 hearing | The release record; whether s 694 was considered; the court file | Request B, items 2 and 3; Magistrates Court file M14056/25 |
 | A woman would have been treated better | Annexure B; police's own words | Police procedure on disputed property | Section 20 letter (document 08) |
 | His sex was a substantial reason | Contradicted reason; opposite answers to one dispute | This is the weak point: the December records give police a reason that is not about sex | Run narrowly. Lead with Claims 1, 3 and 4 |
@@ -59,7 +61,7 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
-| The practice exists | Two opposite answers to one dispute; "It would have been civil if you didn't get charged" | Police procedure; whether it is applied generally | Section 20 letter; conciliation |
+| The practice exists | An officer's description of police's approach on camera on 24 February 2025 [34A]; two opposite answers to one dispute; "It would have been civil if you didn't get charged" | The speaker confirmed against the footage; police procedure | Section 20 letter; conciliation |
 | He could not comply | Receipt; release before his court application | Release date | Request B, item 2 |
 | A higher proportion of women can comply | — | Statistics on the sex of respondents to domestic violence orders | Queensland Courts published statistics. Ask the Commissioner to obtain them |
 | Not reasonable (police's onus) | s 694 route existed; receipt promised it | Nothing | — |
@@ -82,3 +84,6 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 6. Why you wrote on 9 December 2024 that you had not "pressed charges".
 7. Whether you accept what police recorded you as saying by telephone on 1 December 2024.
 8. The date you and your former partner stopped living together as a couple (for the family law deadline).
+9. When you first told the investigating officer that police were harassing you and to deal with your lawyer (the date, and whether in person or by telephone), and whether you said it to the officers at your friend's home on 24 February 2025.
+10. What you meant on 22 March 2025 by "I've put them on for harassment": a written complaint (give the date, how you made it and any reference number), or something you had said to police.
+11. Who your solicitor was in March 2025, and whether you can get the firm's file notes of its calls to police.
