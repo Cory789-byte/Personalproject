@@ -85,12 +85,12 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 |---|---|---|
 | Who had the dog | She did | You did |
 | Who complained | You, with papers in hand | She did |
-| What police called it | "a civil issue"; "let it go" (your filed account) | A crime: "regardless of what paperwork he has, we've got to seize the dog" (D48) |
+| What police called it | "a civil issue"; "let it go" (your filed account) | A crime. You said "It's not stolen. I own the dog" and "It's a civil, it's a civil thing". The officer: "It would have been civil if you didn't get charged for stealing it" (D48, seizure clip, 00:00:58 to 00:01:09) |
 | Statement taken | None from you. Hers, about money, the next day | Hers |
 | Police effort | The dog left with her | Two officers at your mother's home that night: "we're trying to sort of assist her all we can" (D59, 10:22 pm). Four calls to your sister's partner on 3 and 4 March, with your sister, then 16, questioned on one of them (his draft affidavit). The dog seized on 22 March |
 | Follow-up on your December report | Policelink, 4 April 2025: the information "does not match our records"; your break-and-enter report declined | |
-| Who was sent to court | You | You: "he's got to go through the courts to get the dog back" |
-| The paperwork | Your papers not looked at | "regardless of what paperwork he has" |
+| Who was sent to court | You | You: "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back" (D48, second clip, 00:04:20) |
+| The paperwork | Your papers not looked at | You showed your receipts and civil partnership papers on the spot. The officer: "regardless of what paperwork he has" (D48) |
 
 **What must be shown, and the evidence.**
 
@@ -102,9 +102,12 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 
 - When two people claim a seized thing, a police officer may ask a magistrate to declare who owns it, and must give every claimant notice of the hearing (Police Powers and Responsibilities Act 2000 s 694).
 - Police have used it for a dog seized from a man and claimed by his former partner through New South Wales papers. The magistrate decided ownership on affidavits from both: Kaus v Coaker & Anor [2014] QMC 24.
+- At the seizure you showed your receipts and civil partnership papers, said the registration was "just a registration name", and said that between civil partners ownership "goes to court" (D48, second clip, 00:00:42 to 00:01:04). You said "It's a civil, it's a civil thing" (D48, seizure clip, 00:01:00). Police were told of the dispute on the spot.
 - Here police told you that you had "to go through the courts to get the dog back", did not take the dispute to a magistrate themselves, and released the dog to her. When you went to court in August 2025, as you had been told to, the dog had already been given to her.
 - The section says police "may" apply. It is a route, not a duty, unless the police manual makes it one. The manual's section 4.7.1, "Disputed ownership (disposal)", could not be read for this version. If it directs officers to apply to a magistrate, it is the strongest single point in Claim C. Get its text as in force when the dog was released.
 - On 17 April 2025 you told police in writing that you owned the dog, with your receipts and the seizure form (Policelink case 11518211). If police still held the dog that day, they had your written claim before they released him. The release record will show the date.
+
+**Her promise, and yours.** At the seizure you told police that when you put the registration in her name she wrote "I won't restrict you from the animals" and "you can trust me" (D48, second clip, 00:03:39 to 00:03:50). Find that message. The same week's messages include one that reads as yours: "I promise I won't take the animals from you". Your lawyers need both, in order.
 
 **Your proof of ownership.** $3,150 on 10 December 2023 and $350 on 11 December 2023, the second marked "Cory Alexia Pom"; the vet invoice of 16 July 2024 naming you; the council registration in your name.
 
@@ -223,7 +226,7 @@ Item 1 decides how strong Claim C is.
 *The dog, March 2025*
 
 17. On 3 and 4 March 2025 police telephoned my sister's partner four times about the dog and questioned my sister, who was 16. [Settle against his affidavit once signed.]
-18. On 22 March 2025 police took the dog from me in Southport. Police footage records an officer saying "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back". I said "It's my dog". An officer answered "It doesn't matter". An officer said "It would have been civil if you didn't get charged for stealing it".
+18. On 22 March 2025 police took the dog from me. I showed the officers my receipts and our civil partnership papers. Police footage records me saying "It's my dog", "It's not stolen. I own the dog" and "It's a civil, it's a civil thing". An officer answered "It doesn't matter", and said "It would have been civil if you didn't get charged for stealing it". An officer said "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back".
 19. Police gave the dog to my former partner without asking a magistrate to decide who owned it, although the law allows police to do that where ownership is disputed (Police Powers and Responsibilities Act 2000 s 694). When I applied to the Magistrates Court in August 2025, as police had told me to, the dog had already been given to her.
 20. On 4 April 2025 Policelink wrote that the information I gave about my report did "not match our records". The same afternoon it declined my report because "this matter has already been reported to Police with advice provided".
 
