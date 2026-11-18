@@ -122,6 +122,8 @@ This also settles item 7 on the fix list in the discrimination plan: police say 
 
 ## 6. The requests, in order
 
+> **Superseded on 18 November 2026.** Lodge the reworded requests in QHRC_Complaint_Package/08_Information_Requests.md, in the order given there. The reasons are in QHRC_Complaint_Package/13_Requests_Tested.md: police may add applications together (s 41(1)); dates and authors of entries must be asked for expressly (s 28); a repeat request must justify itself on its face (s 43); and a record Ethical Standards obtains for a complaint can become exempt (schedule 3, section 10(4)).
+
 Lodge with the police Right to Information and Privacy Unit. Attach certified identification. There is no fee for your own information. Keep each request separate and narrow, because police may add your requests together when deciding whether the work is too much.
 
 **Request 1. The address. Lodge now.**

@@ -432,6 +432,8 @@ The full correction, with eleven numbered points, is in "Your Case Study, checke
 
 ## Annex C. Information requests to police
 
+> **Superseded on 18 November 2026.** Lodge the reworded requests in QHRC_Complaint_Package/08_Information_Requests.md, in the order given there. The reasons are in QHRC_Complaint_Package/13_Requests_Tested.md: police may add applications together (s 41(1)); dates and authors of entries must be asked for expressly (s 28); a repeat request must justify itself on its face (s 43); and a record Ethical Standards obtains for a complaint can become exempt (schedule 3, section 10(4)).
+
 Lodge with the police Right to Information and Privacy Unit with certified identification. There is no fee for your own information. Lodge each request separately.
 
 **Request 1. The address. Lodge now.**

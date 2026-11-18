@@ -13,11 +13,12 @@ Each document is in two forms: PDF to read, and Word (.docx) to edit.
 | 05 | Annexure C: Schedule of documents | Lodge with 02 |
 | 06 | Annexure D: Time (good cause and deferral) | Lodge with 02 |
 | 07 | Human rights complaint to police (s 65) | Send to police now, if your letter of 29 October 2026 did not already cover it |
-| 08 | Information requests | Lodge Requests A and A2 this week, then B to E |
+| 08 | Information requests | Lodge Requests A and A2 this week. Then the rest in the order given, no more than two at a time |
 | 09 | Letter to your treating doctor | Send this week |
 | 10 | Witness outlines | Use to prepare statements |
 | 11 | Schedule X: your account of 23 and 24 February 2025 | Confidential. Hold until the criminal case ends and your criminal lawyers approve |
-| 12 | Case Study correction | Send with the Commission letter on 20 November, and to the Deputy Commissioner's office |
+| 12 | Case Study correction | Send with the Commission letter on 20 November, and to the Deputy Commissioner's office. Hold the longer reprisal paragraph |
+| 13 | Information requests tested against the Act and the cases | Read with 08. Give to your lawyers. Do not lodge |
 
 **Before you lodge 02 to 06.**
 

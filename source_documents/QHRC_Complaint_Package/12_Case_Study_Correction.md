@@ -1,6 +1,6 @@
 # Correction to the Case Study (to send with the Commission letter)
 
-Send to the Crime and Corruption Commission with the letter about CO-26-1318, and the same text to the Office of the Deputy Commissioner. Point 9 is to be kept only if you had not been served with the order of 21 March 2025 before 22 March 2025. Point 12 is to be kept only if the Case Study, or anything else you sent to police or the Commission, says police put a "duress" flag on your record. The paragraph on reprisal at the end goes into the covering letter, not the correction.
+Send to the Crime and Corruption Commission with the letter about CO-26-1318, and the same text to the Office of the Deputy Commissioner. Point 9 is to be kept only if you had not been served with the order of 21 March 2025 before 22 March 2025. Point 12 is to be kept only if the Case Study, or anything else you sent to police or the Commission, says police put a "duress" flag on your record. The sentence on reprisal at the end goes into the covering letter now. Hold the longer paragraph until police have decided your flag request (document 08, Request A, item 12): see document 13, section 5.1.
 
 **Correction to my Case Study of 14 July 2026** (CO-25-2722 / CO-26-1318; occurrence QP2500332406)
 
@@ -19,6 +19,10 @@ I correct the following statements. The rest of the Case Study stands.
 11. My mother received a breach notice on 23 March 2025, a notice to leave on 12 April 2025 and a second breach notice on 19 April 2025.
 12. [Keep only if you said it.] I withdraw any statement that police placed a "duress" flag on my record. The remark on the officer's camera of 22 March 2025, at 04:00 to 04:32, is about the officers' own call sign.
 
-**Paragraph on reprisal, for the covering letter to the Commission (not for the Deputy Commissioner)**
+**Sentence on reprisal, for the covering letter to the Commission now (not for the Deputy Commissioner)**
 
-The Commission recorded on 31 March 2026 my allegation of reprisal in March 2026, which I particularised on 8 April 2026. The outcome advice of 10 September 2026 describes it only as "potential reprisal action in response to your complaint activity" and does not say what was examined. In reviewing how police dealt with the Commission's referral (Crime and Corruption Act 2001 s 47(1)(b)), I ask the Commission to ask whether police examined (a) any flag, alert or warning recorded against my name that refers to my complaints, with the date it was created and by whom, and (b) any entry made on occurrence QP2402065947 or on my police record in March and April 2026. I also note that the March 2026 conduct followed my complaint to the Commission of 8 July 2025 (CO-25-2722) (s 212).
+The Commission recorded on 31 March 2026 my allegation of reprisal in March 2026, which I particularised on 8 April 2026. The outcome advice of 10 September 2026 describes it only as "potential reprisal action in response to your complaint activity" and does not say what was examined. I note that the March 2026 conduct followed my complaint to the Commission of 8 July 2025 (CO-25-2722) (Crime and Corruption Act 2001 s 212).
+
+**Paragraph to add only after the flag request is decided**
+
+In reviewing how police dealt with the Commission's referral (Crime and Corruption Act 2001 s 47(1)(b)), I ask the Commission to ask whether police examined (a) any flag, alert or warning recorded against my name that refers to my complaints, with the date it was created and by whom, and (b) any entry made on occurrence QP2402065947 or on my police record in March and April 2026.
