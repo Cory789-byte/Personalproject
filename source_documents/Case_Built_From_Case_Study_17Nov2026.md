@@ -52,11 +52,13 @@ On 23 February 2025 you went to your own leased home for your belongings, with r
 - An entry notice had been put under the door and emailed to her on 19 February (manager's declaration, para 24). Management told you after 22 February that you kept "the right to access the premises and retrieve his personal belongings" (para 27).
 - Her friend's own statement has you on the phone to police, and has her telling you to take the bed and the couch (D10, para 11).
 
-**4. You did not go for the dog, and who owns it was contested.**
+**4. You claimed the dog openly, and who owns it was contested.**
 
 - Your interview: "I didn't intentionally go there to grab my dog. And it can be contested because we're in a civil partnership" (00:09:12 to 00:09:14).
 - You paid for the dog in December 2023. The vet invoice of July 2024 and the council registration are in your name.
 - On 4 February 2025 you wrote: "I also have every legal right to still contest ownership even if in your name."
+- About 12 February 2025, before she left, you wrote to her: "When you leave I will take my animals" and "we can discuss ownership terms and possibly co parenting when you are back" (texts served in July 2026). The prosecution will set this against your interview answer. It is an open claim of ownership, made in writing to her.
+- At the unit you said "its my dog" (her friend's statement, para 13).
 - Police called the same question civil in December 2024, and on 22 March 2025 said "It would have been civil if you didn't get charged for stealing it" (D48).
 
 **5. You were arrested five minutes after the lease was confirmed.**
@@ -88,13 +90,15 @@ On 23 February 2025 you went to your own leased home for your belongings, with r
 
 ## 4. Points to meet
 
-These are the five things the other side will press. Each needs your exact account, given to your lawyers.
+These are the seven things the other side will press. Each needs your exact account, given to your lawyers.
 
 1. **The fobs.** The manager told police he had been told the fobs were lost or stolen, and that you told him. In the interview an officer put that you gave "unilateral permission to cancel the fobs". Your answer there was that decisions about who stays in a jointly leased home are made together, and that you did not know the person. The officer used the same joint tenancy against you on this point: that she could permit her friend to stay, and that trying to have the friend removed was "an exercise in control over your partner" (00:38:18 to 00:38:36). Your lawyers need your account of who decides who stays in a jointly leased home.
 2. **The notice dated 7 December 2024.** An officer showed you a notice "effective immediately to vacate" with your signature. Your answer: "I signed saying two to three weeks if she was scared." Management says it was never accepted.
 3. **The dog papers.** Your messages of 16 to 19 December 2024 and your signature on the transfer.
 4. **What happened inside the unit with her friend.** Her friend's videos and your own footage decide this.
 5. **The leasing manager's statement of 27 May 2026.** She now says that, from her perspective, you were off the lease once she had your notice. Her own messages of 22 and 27 February and 6 March 2025 say the new lease was still to come. See the full case, section 4 and Annex F.
+6. **Your messages before she left.** About 12 February: "When you leave I will take my animals ... I will take Romeo then". 14 February: "if you're in Perth how could you even contest anything?" The prosecution will say you waited until she was away. The answer: you said it in writing to her, management sent her an entry notice, and you rang police as you went in.
+7. **The two attendances.** Her friend's statement has you leaving with the dog after about 7:50 pm and back at about 1:50 am, before police arrived at about 1:55 am. Your lawyers need your account of both.
 
 ## 5. What each body is asked to decide
 
@@ -120,7 +124,7 @@ These are the five things the other side will press. Each needs your exact accou
 5. A request for the recording of your 131 444 call and for the three camera serials.
 6. The dog papers, including the December 2024 messages.
 7. The bail undertaking and custody record.
-8. Your account of the five points in section 4.
+8. Your account of the seven points in section 4.
 9. The leasing manager's emails and texts of December 2024 to March 2025 (full case, section 4).
 
 ## 8. Law checked
