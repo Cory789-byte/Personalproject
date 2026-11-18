@@ -2,35 +2,33 @@
 
 Cory Lea Shepherd against the State of Queensland (Queensland Police Service). For you and your lawyers. Not lodged. It shows, for each thing that must be proved, what proves it now, what is missing, and how the gap is closed. Document references are to Annexure C. Request references are to document 08.
 
-## Claim 1 — The one-day deadline (impairment, indirect)
+## Claim 1 — The time limits of 18 June 2026 (impairment, indirect)
 
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
-| The term | Ethical Standards emails of 18 June 2026 | Nothing | — |
-| He has the impairment, and police knew | Police statement of 1 December 2024: "a mental illness and requires medication" | A diagnosis from his doctor | Document 09 |
-| He could not comply because of it | His own evidence | Medical opinion on the deadline itself, not only the diagnosis | Document 09. This is the most important missing document |
-| He did not in fact comply | — | Whether he answered by 19 June 2026 | Check your sent email for 18 and 19 June 2026. If you answered in time, this claim falls away and Claim 3 remains |
+| The terms | Ethical Standards acknowledgment (three business days, or material "may not be considered") and request (particulars by close of business the next day), both 18 June 2026 | Nothing | — |
+| He has the impairment, and police knew | Diagnosis of 24 October 2024 (D20) and specialist's report of 13 February 2025 (D21); police statement of 1 December 2024: "a mental illness and requires medication"; the Case Study of 14 July 2026 states the diagnosis | Nothing essential | Provide D20 and D21 to the Commission in confidence |
+| He could not comply because of it | His own evidence; he sent his report on 14 July 2026 | Medical opinion on the time limits themselves, not only the diagnosis | Document 09. This is the most important missing document |
+| He did not in fact comply | His saved correspondence shows no reply to Ethical Standards before the Case Study of 14 July 2026, and his letter of 29 October 2026 mentions none | His confirmation | If he sent anything on 18 or 19 June 2026, tell his lawyers before lodging: this claim changes and Claim 2 remains |
 | A higher proportion of others can comply | Common experience (Hunter at [61]) | Nothing essential | — |
-| Not reasonable (police's onus) | Three months to decide; no contact | Whether one day is police's standard practice | Covering letter, paragraph 8; complaint, paragraph 42C |
+| Not reasonable (police's onus) | Police's own standard was three business days, and he was given less; the particulars were in police's records; nearly three months to decide; the outcome does not mention his report | Why he was given less than the standard time; whether the decision-maker had his report | Covering letter, paragraph 8; complaint, outcome (h) |
 
-## Claim 2 — Victimisation (alternative)
+## Victimisation (not lodged: document 20)
 
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
-| He alleged discrimination in good faith | Extracts of the submission of 3 May 2026 | The full submission; proof it was sent, when, and to whom | Find the sent email. If it was not sent before 18 June 2026, delete this claim |
-| Detriment | Ethical Standards emails; outcome advice | Nothing | — |
-| The officers knew | Timing only: deadline set the day the earlier complaint was reported unresolved | Any record that Ethical Standards knew of EDR19098 | Covering letter, paragraph 8 (s 156). Without this the claim fails |
-| Because of the allegation | The answer to the practice question | Police's answer | Complaint, paragraph 42C |
+| He alleged discrimination in good faith | Extracts of the submission of 3 May 2026 | The full submission; proof it was given to the Commission or police, when, and to whom | Find the sent email. Lodge document 20 only if it was given before 18 June 2026 |
+| The officers knew, and acted because of it | Nothing. The acknowledgment and the request followed Ethical Standards registering the Crime and Corruption Commission's referral that morning | Any record that Ethical Standards knew of EDR19098 | Covering letter, paragraph 8 (s 156) |
 
-## Claim 3 — Human rights: the decision of 10 September 2026
+## Claim 2 — Human rights: the decision of 10 September 2026
 
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
 | A decision by a public entity | Outcome advice | Who decided | Complaint, outcome (h) |
-| Relevant rights not identified | The outcome advice itself | Nothing | — |
+| Relevant rights not identified | The outcome advice itself: a bare statement that police actions "did not unduly limit your Human Rights" | Nothing | — |
 | Complaint to police first, and 45 business days | Letter of 29 October 2026 | The period ends on 5 January 2027 | Lodge this part from 6 January 2027, or rely on s 65(2) |
 
-## Claim 4 — 1 to 2 December 2024 (impairment, direct)
+## Claim 3 — 1 to 2 December 2024 (impairment, direct)
 
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
@@ -41,7 +39,7 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | Substantial reason | The words in police's own grounds | Officers' notes | Request A, item 7 |
 | Her account was not checked | His messages of 27 to 30 November; CCTV; clinic record | Nothing essential. Do not re-try 27 November | — |
 
-## Claim 5 — December 2024 to April 2025 (sex, direct)
+## Claim 4 — December 2024 to April 2025 (sex, direct)
 
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
@@ -55,9 +53,9 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | The officer who seized the dog had been told one side | "All I've been told is that you've stolen the dog" (police camera, 22 March 2025) | Who asked for the dog to be seized, and what the seizing officers were told | Request B, item 7 |
 | Released to her without a court application | His account of the August 2025 hearing | The release record; whether s 694 was considered; the court file | Request B, items 2 and 3; Magistrates Court file M14056/25 |
 | A woman would have been treated better | Annexure B; police's own words | Police procedure on disputed property | Section 20 letter (document 08) |
-| His sex was a substantial reason | Contradicted reason; opposite answers to one dispute | This is the weak point: the December records give police a reason that is not about sex | Run narrowly. Lead with Claims 1, 3 and 4 |
+| His sex was a substantial reason | Contradicted reason; opposite answers to one dispute | This is the weak point: the December records give police a reason that is not about sex | Run narrowly. Lead with Claims 1, 2 and 3 |
 
-## Claim 6 — The practice (sex, indirect)
+## Claim 5 — The practice (sex, indirect)
 
 | Must prove | Proved now by | Missing | How to close it |
 |---|---|---|---|
@@ -74,16 +72,23 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | Health | Police statement of 1 December 2024 | Doctor's report | Document 09 |
 | No prejudice | Footage and records exist; preservation requested | Nothing | — |
 
+## Settled from your own records (18 November 2026)
+
+- **Address for service.** The Commission's letter of 15 April 2026 used your email, and says an email address is enough.
+- **The time limits of 18 June 2026.** The acknowledgment (three business days) and the request (the next day) are both in your saved emails. No reply from you appears before your report of 14 July 2026.
+- **EDR19098.** The Commission's letters describe it only as a Human Rights Act complaint. The date you lodged it is not needed.
+- **The diagnosis.** D20 and D21 in your own schedule, and stated in your Case Study.
+- **What you told police about harassment and your lawyer.** On the cameras of 22 March 2025.
+- **The order served on 22 March 2025.** It was the one made on 21 March 2025 (D54).
+- **A harassment complaint before 22 March 2025.** None is in your schedule D1 to D64.
+
 ## Points only you can settle
 
-1. The police station you went to after midnight on 2 December 2024.
-2. Whether you answered Ethical Standards by 19 June 2026.
-3. Whether the submission of 3 May 2026 was sent to the Commission or to police, and when.
-4. The date you lodged EDR19098, and whether anyone at the Commission raised dealing with it as a discrimination complaint.
-5. How many people entered the unit on 1 December 2024.
-6. Why you wrote on 9 December 2024 that you had not "pressed charges".
-7. Whether you accept what police recorded you as saying by telephone on 1 December 2024.
-8. The date you and your former partner stopped living together as a couple (for the family law deadline).
-9. When you first told the investigating officer that police were harassing you and to deal with your lawyer (the date, and whether in person or by telephone), and whether you said it to the officers at your friend's home on 24 February 2025.
-10. What you meant on 22 March 2025 by "I've put them on for harassment": a written complaint (give the date, how you made it and any reference number), or something you had said to police.
-11. Who your solicitor was in March 2025, and whether you can get the firm's file notes of its calls to police.
+1. Whether you sent Ethical Standards anything on 18 or 19 June 2026. The complaint says you did not.
+2. Whether you gave the Commission or police your submission of 3 May 2026 before 18 June 2026 (document 20).
+3. How many people entered the unit on 1 December 2024. On the camera of 22 March 2025 you say five.
+4. Why you wrote on 9 December 2024 that you had not "pressed charges".
+5. Whether you accept what police recorded you as saying by telephone on 1 December 2024.
+6. The date you and your former partner stopped living together as a couple (for the family law deadline).
+7. When you first told the investigating officer himself that police were harassing you, and whether you said it at your friend's home on 24 February 2025.
+8. Who your solicitor was in March 2025, and whether you can get the firm's file notes of its calls to police.

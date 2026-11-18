@@ -25,7 +25,7 @@ Dear Commissioner
 
 ## The complaint in short
 
-3. **2026.** Police records describe me as having "a mental illness". On 18 June 2026 police gave me one business day to particularise a complaint. On 10 September 2026 they closed it without contacting me. I say that was indirect discrimination because of impairment and a failure to consider my human rights. In the alternative, I say it was victimisation. This part is within time.
+3. **2026.** Police records describe me as having "a mental illness". On 18 June 2026 police gave me until the close of business the next day to particularise a complaint, and three business days to send anything else. I could not meet either limit. On 10 September 2026 they closed the complaint without contacting me again, and without mentioning the report I sent on 14 July 2026. I say that was indirect discrimination because of impairment and a failure to consider my human rights. This part is within time.
 4. **December 2024 to April 2025.** Police dealt with the same dispute about the same dog twice and reached opposite answers, depending on which of us held the dog. They acted on a statement that my illness makes me "act crazy and go into rages", and took no statement about my own report of being assaulted that night. I say sex and impairment were substantial reasons. This part is out of time, and Annexure D sets out good cause.
 
 ## What I ask the Commissioner to do
@@ -37,7 +37,7 @@ Dear Commissioner
    - for 1 and 2 December 2024 (occurrence QP2402065947): the job log; any record of my triple-zero call at about 11:05 pm and of my attendance at the police station; the entries about me in any risk or protective assessment; and the officers' notebook entries;
    - for the dog seized on 22 March 2025 (property receipt 137237): the record of its release, showing the date, the person it was released to, the officer who authorised it and the basis; and any record of an application under section 694 of the Police Powers and Responsibilities Act 2000 being considered;
    - for 24 February and 22 March 2025: the body-worn camera footage of each officer who attended my friend's home on the night of 24 February 2025; and the records of the roadside stop of 22 March 2025, showing when I was directed to remain, when the papers were served, and who asked for the dog to be seized;
-   - for complaint COM-26-01249: the record of who set the deadline of 18 June 2026 and on what instruction; any procedure that fixes the time complainants are given to respond; the record of who decided the complaint and what was considered; and any record held by Ethical Standards Command of my complaint EDR19098;
+   - for complaint COM-26-01249: the record of who set the deadline of 18 June 2026 and on what instruction; any procedure that fixes the time complainants are given to respond; the record of who decided the complaint and what was considered, including whether my report of 14 July 2026 was before the decision-maker; and any record held by Ethical Standards Command of my complaint EDR19098;
    - the Operational Procedures Manual, section 4.7.1 and the parts of the domestic violence chapter on identifying the person most in need of protection, as in force from 1 December 2024 to 31 March 2025.
 9. **Human rights part.** I complained to the Service about its decision of 10 September 2026 on 29 October 2026. Forty-five business days end on 5 January 2027. If this complaint is received before then, I ask the Commissioner to accept the human rights part because of exceptional circumstances (Human Rights Act 2019 s 65(2)), or to add it after that date.
 
@@ -56,13 +56,11 @@ Dear Commissioner
     - write to me by email;
     - allow me at least 10 business days to answer any request;
     - hold any conciliation by teleconference, with breaks;
-    - allow me a support person [and my lawyer].
-
-    [Add or remove adjustments so the list is true for you.]
+    - allow me a support person or a lawyer.
 
 ## Address for service
 
-14. [Email address. Postal address that is not your mother's home.]
+14. By email: coryshepherd1@hotmail.com. Telephone: 0417 400 227.
 
 Yours faithfully
 

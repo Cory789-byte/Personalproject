@@ -34,12 +34,12 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | 17 Apr 2025 | Written complaint to police about the seizure and the visits, within four weeks of the seizure [44] |
 | 18 May 2025 | Wrote to police that his address had been changed |
 | 2025 | Requests for the body-worn camera footage (RTI/56733) and his records (RTI/54169), and external review by the Information Commissioner (318762) |
-| [date lodged] to 18 Jun 2026 | Human rights complaint to this Commission about the same events (EDR19098): accepted 15 Apr 2026; submission 3 May 2026; conciliation 14 May 2026; reported unresolved 18 Jun 2026 [48A]–[48C], [50A] |
+| Before 15 Apr 2026 to 18 Jun 2026 | Human rights complaint to this Commission about the same events (EDR19098): accepted 15 Apr 2026; conciliation 14 May 2026; reported unresolved 18 Jun 2026 [48A], [48C], [50A] |
 | Aug 2025 | Application to the Magistrates Court for the dog and his phone (M14056/25) [46] |
 | 11 Sep 2025 | The Information Commissioner closed review 318762 on police agreeing to process a new request for the footage [48] |
 | 2025–2026 | Complaints to the Crime and Corruption Commission (CO-25-2722, CO-26-1318) |
 | 2026 | Complaint to police (COM-26-01249) and the Case Study of 14 July 2026 [51] |
-| 10 Sep 2026 | Police finalised that complaint without contacting him [52] |
+| 10 Sep 2026 | Police finalised that complaint without contacting him again [52] |
 | 29 Oct, 5 Nov 2026 | Letters asking who decided and for records to be preserved [53] |
 
 He lodges this complaint promptly after the internal police process closed.
@@ -54,9 +54,9 @@ He lodges this complaint promptly after the internal police process closed.
 
 **(g) The complaint has substance.** It rests largely on police's own records: their camera, their property receipt, their statements and their correspondence (Annexures A and B).
 
-**(h) These events have been before this Commission and the respondent since April 2026.** The Commission accepted the complainant's human rights complaint about the 2025 events on 15 April 2026 (EDR19098) and the respondent took part in a conciliation conference on 14 May 2026. That complaint was assessed and dealt with under the Human Rights Act only. In his written submission of 3 May 2026 the complainant said police had discriminated against him because of his psychiatric disability. The Commissioner may deal with a human rights complaint under the Anti-Discrimination Act with the complainant's consent, and it is then taken to have been made on the day the human rights complaint was made (Human Rights Act s 75(2), (3)(b)). The complainant was not represented. The discrimination claims have never been considered, and s 142 does not apply because no complaint under the Anti-Discrimination Act was rejected.
+**(h) These events have been before this Commission and the respondent since April 2026.** The Commission accepted the complainant's human rights complaint about the 2025 events on 15 April 2026 (EDR19098) and the respondent took part in a conciliation conference on 14 May 2026. That complaint was assessed and dealt with under the Human Rights Act only. The Commissioner may deal with a human rights complaint under the Anti-Discrimination Act with the complainant's consent, and it is then taken to have been made on the day the human rights complaint was made (Human Rights Act s 75(2), (3)(b)). The complainant was not represented. The discrimination claims have never been considered, and s 142 does not apply because no complaint under the Anti-Discrimination Act was rejected.
 
-**(i) One course of conduct.** The out-of-time episodes are the subject of the in-time one: the 2026 complaint police closed without contact was the complainant's complaint about these same events. Dealing with the in-time part without the rest would leave the substance unexamined.
+**(i) One course of conduct.** The out-of-time episodes are the subject of the in-time one: the 2026 complaint police closed without further contact was the complainant's complaint about these same events. Dealing with the in-time part without the rest would leave the substance unexamined.
 
 ## 4. What the complainant asks
 

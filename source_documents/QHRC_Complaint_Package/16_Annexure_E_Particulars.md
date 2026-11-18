@@ -4,44 +4,31 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 
 The State is liable for the acts of its officers done in the course of their work (s 133). Each act was done in the performance of a function or the exercise of a power under State law (s 101).
 
-## Claim 1 — The one-day deadline (within time)
+## Claim 1 — The time limits of 18 June 2026 (within time)
 
 | | |
 |---|---|
 | Contravention | Indirect discrimination because of impairment (ss 7(h), 11, 101) |
-| Act | On 18 June 2026 Ethical Standards Command required written particulars of complaint COM-26-01249 (the court matter, the date, the charge and the officers' names) by close of business on 19 June 2026 [50]. On 10 September 2026 it finalised the complaint without contacting the complainant [52] |
-| The term | That he provide those particulars within one business day, for the complaint to be assessed on them |
-| Could not comply | Because of his impairment. His treating doctor's report will address the deadline |
-| Proportion | A higher proportion of people without his impairment can comply with a one-day deadline |
-| Not reasonable | Police records had noted his mental illness since 1 December 2024 [5]. The Case Study of 14 July 2026 told them again [51]. Police then took nearly three months to decide. The respondent must prove the term was reasonable (former s 205) |
-| Proof | Ethical Standards emails of 18 June 2026; outcome advice of 10 September 2026; police statement of 1 December 2024; doctor's report (to come) |
+| Acts | On 18 June 2026 Ethical Standards Command (a) by its acknowledgment required any further material within three business days, failing which it "may not be considered"; and (b) required particulars of complaint COM-26-01249 (the court matter, the date of the offence, the charge and the officers' names) by close of business on 19 June 2026 [50]. On 10 September 2026 it finalised the complaint without contacting the complainant again and without referring to his report of 14 July 2026 [51], [52] |
+| The terms | That he provide the particulars by close of business the next day, and any other material within three business days |
+| Could not comply | Because of his impairment (major depressive disorder, diagnosed on 24 October 2024: D20, D21). He sent a detailed report on 14 July 2026 [51]. His treating doctor's report will address the time limits |
+| Proportion | A higher proportion of people without his impairment can comply with time limits of that length |
+| Not reasonable | Police records had noted his mental illness since 1 December 2024 [5]. The particulars asked for were in police's own records. The deadline for particulars was shorter than the three business days police's own acknowledgment allowed. His report of 14 July 2026 told police of his diagnosis [51]; police took nearly two more months to decide, and the outcome does not mention the report. The respondent must prove the terms were reasonable (former s 205) |
+| Proof | Ethical Standards emails of 18 June 2026; Case Study of 14 July 2026 and its acknowledgments; outcome advice of 10 September 2026; police statement of 1 December 2024; D20 and D21; doctor's report (to come) |
 | Time | Within one year |
 
-## Claim 2 — Victimisation, in the alternative to Claim 1 (within time)
-
-Keep this claim only if paragraphs 42A to 42C of the statement of complaint are kept.
-
-| | |
-|---|---|
-| Contravention | Victimisation (ss 129, 130(1)(a)(ii) and (b)) |
-| Protected act | His written submission of 3 May 2026 in complaint EDR19098, alleging in good faith that police discriminated against him because of psychiatric disability [48B] |
-| Acts to his detriment | The one-day deadline of 18 June 2026 [50]; finalising the complaint without contact on 10 September 2026 [52] |
-| Because of the protected act | The deadline was set on the day the Commission reported EDR19098 unresolved [50A]. If a one-day deadline is not the respondent's practice for all complainants, the complainant says it was set for him because of his allegation (para 42C) |
-| Proof | The submission; the Commission's letters of 15 April and 18 June 2026; the Ethical Standards emails; the records the Commissioner is asked to obtain of who set the deadline and what they knew |
-| Time | Within one year |
-
-## Claim 3 — The decision of 10 September 2026 (human rights)
+## Claim 2 — The decision of 10 September 2026 (human rights)
 
 | | |
 |---|---|
 | Contravention | Human Rights Act 2019 s 58(1)(a) and (b) |
 | Act | The decision finalising complaint COM-26-01249 [52] |
 | Rights not considered | Equality before the law (s 15(2)–(4)); property (s 24(2)); privacy, family and home (s 25(a)); liberty (s 29(2)) |
-| Why | The outcome identifies no human right and does not refer to his condition. Proper consideration includes identifying the rights affected (s 58(5)) |
+| Why | The outcome says only that a committee "determined that police actions did not unduly limit your Human Rights". It identifies no right, and does not refer to his condition or to his report of 14 July 2026. Proper consideration includes identifying the rights affected (s 58(5)) |
 | Complaint to the entity | 29 October 2026. Forty-five business days end on 5 January 2027 (s 65) |
 | Proof | Outcome advice; letters of 29 October and 5 November 2026 [53] |
 
-## Claim 4 — The night of 1 to 2 December 2024: impairment (out of time)
+## Claim 3 — The night of 1 to 2 December 2024: impairment (out of time)
 
 | | |
 |---|---|
@@ -52,7 +39,7 @@ Keep this claim only if paragraphs 42A to 42C of the statement of complaint are 
 | Proof | Police statement for the notice; the complainant's evidence; the records the Commissioner is asked to obtain for that night |
 | Time | Out of time. Good cause: Annexure D |
 
-## Claim 5 — December 2024 to April 2025: sex (out of time)
+## Claim 4 — December 2024 to April 2025: sex (out of time)
 
 | | |
 |---|---|
@@ -67,7 +54,7 @@ Keep this claim only if paragraphs 42A to 42C of the statement of complaint are 
 | Proof | Body-worn camera releases; property receipt 137237; Policelink emails; police statement of 18 March 2025; Annexure B |
 | Time | Out of time. Good cause: Annexure D |
 
-## Claim 6 — The practice about disputed property: sex, in the alternative (out of time)
+## Claim 5 — The practice about disputed property: sex, in the alternative (out of time)
 
 | | |
 |---|---|

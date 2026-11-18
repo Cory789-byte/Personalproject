@@ -19,6 +19,7 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | D11 / D62 | Police court brief (QP9), three versions | 2025–2026 | Prosecution relies on the change-of-owner form; omits the 2:28 am lease confirmation | Criminal case |
 | D14 | Declaration of the complainant's friend | 2026 | Independent account of 23 Feb. Police questioned him about the dog on 24 Feb 2025 [34A]; on his account no statement was sought from him for 15 months | Held |
 | D15 | Building manager's declaration | 2025 | Lease status; entry notice of 19 Feb; right to enter for belongings | Held (times carry a one-hour shift: use camera times) |
+| D20, D21 | Diagnosis, and specialist's report (medical) | 24 Oct 2024; 13 Feb 2025 | The impairment | Held. Provided to the Commission in confidence on request |
 | D25 | Complaint to Policelink with letter to the Officer in Charge, Southport (case 11518211) and reply | 17 Apr 2025 | Written complaint about the seizure and visits within four weeks; "forwarded" | Held (letter: confirm copy) |
 | D26–D27 | Notices to the complainant's mother | 23 Mar, 12 Apr, 19 Apr 2025 | Consequences of the address recorded by police | Held |
 | D29 | Recorded interview | 24 Feb 2025 | "the other leaseholder"; "exercise in control over your partner"; "I'm homeless and I'm sleeping in a car" | Criminal case |
@@ -39,10 +40,10 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | — | Statutory declaration ending the registered relationship, and post receipt | 22 Feb 2025 | Home address declared as 158 Scarborough Street | Held |
 | — | Carrier call log | 23–24 Feb 2025 | 37-minute call to 131 444 from 7:51 pm (log in Sydney time) | Held |
 | — | Commission's letter accepting complaint EDR19098, with the direction to attend conciliation | 15 Apr 2026 | The earlier complaint was under the Human Rights Act only (property; privacy and reputation); the respondent has been on notice since then | Held |
-| — | Complainant's written submission in EDR19098 | 3 May 2026 | He alleged discrimination because of psychiatric disability | Held (confirm that it was sent, and to whom) |
-| — | Commission's letter reporting EDR19098 unresolved | 18 Jun 2026 | Conference held 14 May 2026; unresolved; same day as the one-day deadline | Held (the report attached to it is not admissible in a human rights proceeding unless both sides agree: Human Rights Act s 88(6)) |
-| — | Ethical Standards emails and outcome advice | 18 Jun and 10 Sep 2026 | One-day deadline; closure without contact | Held |
-| — | Letters to Ethical Standards | 29 Oct and 5 Nov 2026 | Request for decision-maker and record preservation | Held |
+| — | Commission's letter reporting EDR19098 unresolved | 18 Jun 2026 | Conference held 14 May 2026; unresolved | Held (the report attached to it is not admissible in a human rights proceeding unless both sides agree: Human Rights Act s 88(6)) |
+| — | Ethical Standards acknowledgment and request, and outcome advice | 18 Jun and 10 Sep 2026 | Three business days for further material; particulars by the next day; closure without further contact | Held |
+| — | Case Study report and executive summary to the office of the Deputy Commissioner, and that office's acknowledgments | 14, 15 and 24 Jul 2026 | The particulars; his diagnosis stated to police before the decision | Held |
+| — | Letters to Ethical Standards | 29 Oct and 5 Nov 2026 | Complaint to the public entity about the decision (Human Rights Act s 65); asks who decided and whether the Anti-Discrimination Act was considered | Held |
 
 ## Part 2 — Documents to obtain
 
@@ -59,7 +60,7 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | 9 | Microchip registry change history, including 10 Apr 2025 | Registry | Episode 2 |
 | 10 | Council registration history | Council | Episode 2 |
 | 11 | Court file M14056/25, including the statement police handed up | Magistrates Court | Episode 2 |
-| 12 | Treating doctor's report on the one-day deadline (document 09) | Treating doctor | Episode 6 |
+| 12 | Treating doctor's report on the time limits of 18 June 2026 (document 09) | Treating doctor | Episode 6 |
 | 13 | Official statistics on the sex of respondents to domestic violence orders in Queensland | Queensland Courts or the Government Statistician | The alternative indirect discrimination claim |
 | 14 | Body-worn camera of each officer at the friend's home on 24 Feb 2025 from 11:00 pm, including anything after 11:19:54 pm | Police (document 08, Request B, item 6); the prosecution, through the criminal lawyers | The complainant's own words to the officers; who said "harassing him" |
 | 15 | Records of the roadside stop of 22 Mar 2025: the job log, the direction to remain, the time the papers were served, the time the vehicle was detained, and who asked for the dog to be seized | Police (document 08, Request B, item 7) | Episode 4 |

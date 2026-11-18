@@ -23,7 +23,7 @@ About two minutes. Read it if that is easier.
 
 > I am here about three things police's own records show.
 >
-> First, in June 2026 police gave me one business day to particularise a complaint. Police had recorded in December 2024 that I have a mental illness. I could not meet that deadline. Three months later the complaint was closed without anyone contacting me.
+> First, on 18 June 2026 police gave me until the close of business the next day to particularise a complaint, and three business days to send anything else. Police had recorded in December 2024 that I have a mental illness. I could not meet those limits. I sent a full report on 14 July. In September the complaint was closed without anyone contacting me again, and the outcome does not mention my report.
 >
 > Second, that complaint was about one dispute over one dog that police decided twice, with opposite answers. When I reported it taken from my home, it was a civil matter and no statement was taken. When my former partner reported it, it was stolen property, and it was seized from me "regardless of what paperwork he has" and given to her without the court application police's receipt said would be made.
 >
@@ -35,7 +35,7 @@ About two minutes. Read it if that is easier.
 
 Ask each one plainly and wait for the answer. Each answer helps you whichever way it goes.
 
-1. **"Is one business day the time Ethical Standards gives every complainant to provide particulars?"** If yes, it is a practice, and police must prove it reasonable. If no, ask why it was set for you.
+1. **"Your acknowledgment of 18 June 2026 gives a complainant three business days. Why was I given until the close of business the next day, and was my report of 14 July 2026 before the person who decided?"** Either answer helps. If the short deadline was a mistake, the complaint was assessed without your material. If it was deliberate, police must explain why.
 2. **"Who decided my complaint on 10 September 2026, and which of my human rights did that person consider?"** The outcome names none.
 3. **"When the dog was released, was an application to a magistrate considered, and why was none made?"** The receipt said one would be.
 4. **"On 24 February 2025 an officer said police do not 'typically get involved' in contested property, and that there was a 'civil aspect' here. On 2 December 2024 the council registration was in my name and no transfer had been signed. Why was the dog contested when I reported it taken, and stolen when she did?"** Police will point to the change-of-owner form you signed between 16 and 19 December 2024. Your answer: you signed it at her request while she held the dog, you told her and police that you still claimed it, and it did not exist on 2 December.
@@ -47,12 +47,12 @@ The Commission sent you a preparation form with these questions in your earlier 
 
 | The Commission asks | Suggested answer |
 |---|---|
-| 1. The three main things you want the other side to understand | (a) A one-day deadline shut me out of my own complaint. (b) Police gave opposite answers to the same dispute depending on who held the dog. (c) Police's own camera and receipt show it; I am not asking anyone to take my word |
+| 1. The three main things you want the other side to understand | (a) Time limits of one and three business days shut me out of my own complaint. (b) Police gave opposite answers to the same dispute depending on who held the dog. (c) Police's own camera and receipt show it; I am not asking anyone to take my word |
 | 2. What you disagree on | Why police acted as they did. Police will say every step was ordinary victim-centred policing |
-| 3. What you are likely to agree on | The dates. What the camera, the receipt and the emails say. That the 2026 complaint was closed without contact |
+| 3. What you are likely to agree on | The dates. What the camera, the receipt and the emails say. That the 2026 complaint was closed without further contact |
 | 4. How it could be resolved, and how police will respond | Acknowledgment, reassessment, record correction, a procedure review, compensation. Police will resist an apology and any admission, and may offer a reassessment |
 | 5. What each side could say or do | I can accept wording that states facts without admitting liability. Police can commit to a reassessment by someone outside Ethical Standards and Southport |
-| 6. What happens if it is not resolved | I can require referral to the tribunal. Police then have to prove the deadline was reasonable and produce their records |
+| 6. What happens if it is not resolved | I can require referral to the tribunal. Police then have to prove the time limits were reasonable and produce their records |
 | 7. Time and cost of a tribunal hearing | A year or more. Each side usually pays its own costs. I may need a lawyer and a doctor's report |
 | 8. How much you want to resolve it | [Your number] |
 | 9. How much police want to resolve it | Probably low on the 2024 and 2025 events; higher on 2026, where the onus is theirs |
@@ -62,7 +62,7 @@ The Commission sent you a preparation form with these questions in your earlier 
 
 1. **Acknowledgment** that on 24 February 2025 you were a named tenant of Unit 104, that the order of 3 December 2024 did not exclude you, and that you reported the taking of the dog on 1 December 2024.
 2. **Reassessment** of complaint COM-26-01249 by an officer outside Ethical Standards Command and the Southport chain of command, with at least 10 business days for any response, and written reasons.
-3. **A written statement** of who set the deadline of 18 June 2026, who decided the complaint, and what each considered.
+3. **A written statement** of who set the deadline of 18 June 2026, who decided the complaint, what each considered, and whether your report of 14 July 2026 was before the decision-maker.
 4. **Record correction:** the address recorded on 18 March 2025, and a note on your record that the order of 3 December 2024 was vacated on 25 February 2025.
 5. **Procedure:** a review of how police handle disputed property between former partners, and of the time given to complainants with a recorded disability.
 6. **The dog:** an application by police to a magistrate, or an undertaking not to oppose yours.

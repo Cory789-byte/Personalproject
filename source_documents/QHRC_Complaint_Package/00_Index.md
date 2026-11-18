@@ -1,16 +1,70 @@
 # Read this first
 
-Cory Lea Shepherd against the State of Queensland (Queensland Police Service). Complete discrimination complaint, 18 November 2026.
+Cory Lea Shepherd against the State of Queensland (Queensland Police Service). Complete discrimination complaint, final version, 18 November 2026.
 
 Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here has been lodged or sent.
+
+## What is left for you to do
+
+**To lodge the complaint**
+
+1. Read the Complete Complaint for Lodging once, start to finish.
+2. Check the five points in the table below.
+3. Date and sign the covering letter, the form answers (answer 12) and the statement of complaint.
+4. Lodge it with the Commission. Attach nothing from the criminal brief.
+
+**Five points to check before you sign**
+
+| # | Check | Where |
+|---|---|---|
+| 1 | The complaint says you did not send Ethical Standards the particulars by 19 June 2026, or anything else within three business days. Your saved emails show no reply before your report of 14 July 2026. If you did send something, stop and tell your lawyers | Complaint, paragraphs 29A and 42 |
+| 2 | Answer 9 (how this affected you) is drafted from what you said on the recordings and in your Case Study. Change anything that is not right, and add your receipts | Form answers, answer 9 |
+| 3 | The complaint says police have not answered the questions in your letters of 29 October and 5 November 2026. Change it if they have | Complaint, paragraph 31; form answers, answer 6 |
+| 4 | Each line quoted from the cameras of 24 February and 22 March 2025 comes from machine transcripts. Listen to those lines and check who is speaking. One transcript gives the "harassing" line to the same voice as your friend | Complaint, paragraphs 21A, 21B, 24A and 25A |
+| 5 | Your criminal lawyers should read those four paragraphs before you lodge, and confirm which criminal-case material may be described | Complaint, paragraph 51 |
+
+**What other people must provide**
+
+- **Your treating doctor:** the report asked for in document 09. Put the doctor's name and address on the letter.
+- **Your friend and your mother:** signed consents and identification for the information requests (document 08).
+- **Your former solicitor:** the file notes of the firm's calls to police in March 2025 (document 10, section 6).
+
+**One optional page.** Document 20 adds a victimisation claim. Lodge it only if you gave the Commission or police your written submission of 3 May 2026 before 18 June 2026. I could not confirm that from your records.
+
+## What I filled in from your own records
+
+| Was a blank | Now | Source |
+|---|---|---|
+| Address for service | Your email, with your telephone number | The Commission's letter of 15 April 2026 used that email as your address for service, and says an email address is enough |
+| The police station of 2 December 2024 | "The police station the attending officers took me to" | Your filed account does not name it |
+| Whether you answered Ethical Standards in time | Pleaded: you did not | Your saved Ethical Standards emails; your letter of 29 October 2026 |
+| The date EDR19098 was lodged | Not needed | The Commission's letters of 15 April and 18 June 2026 |
+| Whether treating EDR19098 as a discrimination complaint was raised | "The Commission's letters ... do not refer to that course" | The same letters |
+| Your condition | Major depressive disorder, diagnosed on 24 October 2024 (D20, D21) | Your schedule of documents and your Case Study of 14 July 2026, which told police |
+| Your friend's name, for the information requests | Filled in | Your schedule (D14) |
+| The place of the stop on 22 March 2025 | Described by date, time and purpose | The recordings |
+| Whether RTI/56733 overlaps the new footage request | It does not | Your letter of 29 October 2026 describes what RTI/56733 covered |
+| Whether you had been served before 22 March 2025 | You had not: the order was made on 21 March 2025 (D54) | The recordings; your schedule |
+| A harassment complaint before 22 March 2025 | Not requested: none is in your schedule D1 to D64 | Your schedule |
+
+Your letters to police also give a parcel locker at Bundall. I used your email as the address for service, as the Commission did. Add the parcel locker only if it accepts letters.
+
+## What changed in this final version
+
+1. **The claim that is within time is stronger.** Your own emails show that on 18 June 2026 police's acknowledgment gave three business days for further material, and that two hours later you were given until the close of business the next day for the particulars. The acknowledgment also said late material "may not be considered". The outcome of 10 September 2026 does not mention the report you sent on 14 July 2026. All of this is now in the complaint (paragraphs 29 to 30, 42 and 42A).
+2. **Victimisation is now an optional page (document 20).** It depends on a fact I could not confirm, and nothing yet shows the officers knew of your allegation. The complaint is complete without it. Nothing is lost: that claim can be made until 18 June 2027.
+3. **Drafting notes are out of the lodging documents.** The checks they asked for are the five points above.
+4. **A correction to the description of the outcome.** Earlier versions said the outcome "refers to no human right". It has one sentence saying police actions "did not unduly limit your Human Rights". The documents now say it identifies no right.
+5. **The Case Study correction now has thirteen points.** Point 13 corrects the statement that police first contacted your friend in May 2026. Points 9 and 12 no longer depend on anything.
+6. **What you told police about harassment and your lawyer** is in the complaint from police's own recordings (paragraphs 21A, 21B, 24A and 25A; advice, section 5.2A).
 
 ## What is in the zip
 
 | Folder | What it holds | What to do |
 |---|---|---|
-| 1 Lodge with the Commission | **Complete Complaint for Lodging**: one file with the covering letter, the form answers, the statement of complaint and Annexures A to E. The same documents are also there one by one | Fill the blanks below. Have your lawyers read it. Lodge in early December 2026 |
+| 1 Lodge with the Commission | **Complete Complaint for Lodging**: one file with the covering letter, the form answers, the statement of complaint and Annexures A to E. The same documents are also there one by one | Check the five points. Sign. Lodge in early December 2026 |
 | 2 Send now | Information requests to police; letter to your doctor; human rights complaint to police; Case Study correction for the letter of 20 November | Send this week, in the order in each document |
-| 3 Your legal team | Advice; outline of submissions; evidence matrix; conciliation brief; the information requests tested against the cases | Read. Give to your lawyers. Do not lodge or send |
+| 3 Your legal team | Advice; outline of submissions; evidence matrix; conciliation brief; the information requests tested against the cases; witness outlines; the optional victimisation page | Read. Give to your lawyers. Do not lodge or send, except document 20 if its condition is met |
 | 4 Hold | Schedule X: your account of 23 and 24 February 2025 | Confidential. Hold until the criminal case ends |
 | 5 Background | The earlier analyses | Reference only |
 
@@ -36,31 +90,8 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 | 19 | Conciliation brief | 3 |
 | 13 | Information requests tested against the Act and the cases | 3 |
 | 10 | Witness outlines | 3 |
+| 20 | Addendum: victimisation (optional) | 3 |
 | 11 | Schedule X | 4 |
-
-## What changed in this version
-
-1. **Your earlier Commission complaint (EDR19098) is now dealt with.** The Commission's own letters show it was accepted under the Human Rights Act only, for property and for privacy and reputation, conciliated on 14 May 2026 and reported unresolved on 18 June 2026. It does not bar this complaint. The human rights part of this complaint is now limited to the decision of 10 September 2026.
-2. **A new claim: victimisation, in the alternative.** Your submission of 3 May 2026 in that complaint said police discriminated against you because of psychiatric disability. Police set the one-day deadline on 18 June 2026, the day that complaint was reported unresolved. I could read only extracts of the submission. Keep the claim only if you sent the submission before 18 June 2026.
-3. **Each contravention is now particularised** (Annexure E), and the letter asks the Commissioner to direct police to produce the records that decide the complaint.
-4. **What you told police about harassment and your lawyer is now in the complaint, from police's own recordings.** On 24 February 2025 an officer told your friend "that's all we want then we can stop just harassing him". On 22 March 2025 you told police "I've put them on for harassment and you can call my lawyer if you want", and you asked to call your solicitor before the dog was taken. See paragraphs 21A, 21B, 24A and 25A of the complaint, rows 34A, 39A and 40A of the chronology, and section 5.2A of the advice.
-5. **A correction.** Earlier versions said police did not contact your friend for fifteen months. The camera shows officers questioned him about the dog on 24 February 2025. What stands, on his account, is that no statement was sought from him for fifteen months. Documents 01, 04, 05 and 10 and the background paper "Does it succeed?" are corrected.
-
-## Blanks only you can fill
-
-| # | What | Where it goes |
-|---|---|---|
-| 1 | Your address for service (not your mother's home) | Documents 14, 15, 02 |
-| 2 | The police station you went to after midnight on 2 December 2024 | Documents 15, 08 |
-| 3 | Whether you answered Ethical Standards by 19 June 2026. If you did, tell your lawyers: Claim 1 changes | Documents 02 (paragraph 42), 16 |
-| 4 | Whether the submission of 3 May 2026 was sent to the Commission or police before 18 June 2026. If not, delete the victimisation claim | Documents 02 (paragraphs 42A to 42C), 16 (Claim 2) |
-| 5 | The date you lodged EDR19098, and whether the Commission raised treating it as a discrimination complaint | Documents 06, 02 (paragraph 49B) |
-| 6 | How these events affected you, in your own words, and your losses with receipts | Documents 15 (question 9), 19 (section 7) |
-| 7 | The adjustments you need from the Commission | Documents 14, 15 |
-| 8 | Your doctor's report | Document 09 |
-| 9 | Your criminal lawyers' confirmation of which criminal-case material may be used, and their view of paragraphs 21A, 21B, 24A and 25A of the complaint | Documents 05, 02 |
-| 10 | When you first told the investigating officer that police were harassing you and to deal with your lawyer; whether you made a written complaint before 22 March 2025; and your former solicitor's file notes | Documents 02 (paragraphs 21A, 24A), 10 (section 6), 18 |
-| 11 | Each line quoted from the cameras of 24 February and 22 March 2025, checked against the footage for the words and the speaker | Documents 02, 03 |
 
 ## Dates
 
@@ -71,4 +102,4 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 | Early December 2026 | Lodge the complaint |
 | 6 January 2027 | The human rights part can be added from this date |
 | March 2027 | Last date for any complaint about the March 2026 conduct |
-| 18 June 2027 | Last date for the 2026 deadline claim without needing good cause |
+| 18 June 2027 | Last date for the 2026 time-limits claim, and for document 20, without needing good cause |

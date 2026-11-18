@@ -95,8 +95,8 @@ Show your criminal lawyers this request before it is lodged. It concerns the nig
 | Notice to you | Likely, or no document | Your own document | Keep |
 | Police contact, 24 February to 22 March 2025 | In part | Your mother's and sister's information | Attach your mother's consent. Leave the calls of 3 and 4 March to your mother to request: they concern your sister |
 | Your words to police, and your lawyer's calls, 24 February to 22 March 2025 (added to item 5) | In part, or no document | Your own information | Keep. "No document" also helps: it shows nothing was written down |
-| Footage from your friend's home, 24 February 2025 (item 6) | In part | Footage of you has been released to you before. Other people's faces and voices will be obscured. Because it is in a prosecution brief, police may say release could "prejudice a person's fair trial" (sch 3 s 10(1)(e)) | Ask your criminal lawyers to seek it by disclosure as well (Criminal Code s 590AB). Check it against RTI/56733 first (s 43) |
-| The roadside stop, 22 March 2025 (item 7) | Likely in part | Your own stop; the footage of it has already been released to you | Keep. Fill in the place |
+| Footage from your friend's home, 24 February 2025 (item 6) | In part | You already hold some footage of yourself. Other people's faces and voices will be obscured. Because it is in a prosecution brief, police may say release could "prejudice a person's fair trial" (sch 3 s 10(1)(e)) | Ask your criminal lawyers to seek it by disclosure as well (Criminal Code s 590AB). RTI/56733 sought different footage, and the request says so (s 43) |
+| The traffic stop, 22 March 2025 (item 7) | Likely in part | Your own stop; you already hold footage of it | Keep |
 
 ### Your reports and complaints (Request C)
 
@@ -112,7 +112,6 @@ Show your criminal lawyers this request before it is lodged. It concerns the nig
 | Complaint 8933558 | In part | If it was handled as a service complaint and not as misconduct, the exemption does not apply and the ordinary balance does. Complaint information has been decided that way (D23 [2026] QICmr 38 and V72 [2026] QICmr 46, summaries only) | Keep |
 | The welfare complaint | Unlikely | Records of a report of harm to a child are exempt except your own information (sch 3 s 12; XX5WZ9). It also brings her information into a release | Take it out unless the reprisal claim is run |
 | COM-24-00832 | Unlikely | As for the Ethical Standards file below | Keep with item 1 |
-| A harassment complaint, February to March 2025 (item 3) | Depends on how it was handled | If it went to Ethical Standards, as for COM-24-00832. If it was handled as a service complaint, as for 8933558 | Ask only if you made one in writing, and give its date |
 | Flags | In part | In Isles [2018] QICmr 27 at [6] and footnote 5 the Tasks/Flags tab was "released to the applicant without redaction". That was by agreement during the review, not a ruling. Risks: intelligence entries (N64) and threat-assessment records (A87; M39) | Move it into the December request, so it is not a stand-alone class (s 40). Add the metadata sentence |
 | Officers and your complaints | Unlikely as written | It asks a question, and it asks about complaints involving identified officers (Winchester) | Replace with: the record of who each of my complaints was allocated to |
 | Entries of March and April 2026 | Unlikely as written | It reads as a slice of the activity report, which shows "the badge number of the inquiring officer" (W64 at [24]) | Replace with: the job report as it stands, including each supplementary report and each entry dated 1 March to 30 April 2026 |

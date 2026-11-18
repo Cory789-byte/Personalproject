@@ -13,14 +13,14 @@
 **Advice in brief.**
 
 1. **Lodge one complaint** with the Queensland Human Rights Commission under both Acts, against the State only. Plead sex and impairment; direct discrimination as the narrative; indirect discrimination in the alternative; the human rights duties alongside.
-2. **Lead with the strongest claim**: the 2026 complaint handling, as indirect impairment discrimination and a failure of proper consideration under the Human Rights Act. It is in time, the term is in writing, and police must prove it was reasonable. The only claims found to have succeeded against police in this jurisdiction are of this kind (Hunter v State of Queensland [2015] QCAT 179; Harding v State of Queensland (QPS) [2025] QCAT 415).
+2. **Lead with the strongest claim**: the 2026 complaint handling, as indirect impairment discrimination and a failure of proper consideration under the Human Rights Act. It is in time, the term is in writing, and police must prove it was reasonable. The only claims found to have succeeded against police in this jurisdiction are of this kind (Hunter v State of Queensland [2015] QCAT 179; Harding v State of Queensland (QPS) [2025] QCAT 415). His own emails now add two facts: police's acknowledgment of 18 June 2026 gave complainants three business days and he was given until the next day; and the outcome does not mention the report he sent on 14 July 2026.
 3. **The December records are in hand, and they do not carry the sex claim.** Police issued the notice of 1 December 2024 on her detailed account, a visible bruise and what they recorded as his partial admissions by phone. His own messages, the building's CCTV and a clinic record go a long way to show her account of fleeing on 27 November was untrue, but police did not have them. A tribunal will treat police's reasons as reasons that are not about sex (Watego v State of Queensland [2022] QCAT 341 at [33], [245]). What remains is the contrast in how police tested the two accounts that night, and the stronger point that police adopted her claim that his mental illness makes him "act crazy and go into rages" (impairment, s 8(b)).
 4. **Police cannot shelter behind s 106.** It covers only acts under a court order or under a provision of an Act that existed when s 106 commenced on 30 June 1992. Police have conceded that the Police Powers and Responsibilities Act 2000 is not such a provision (Philipp v State of Queensland (QPS) [2025] QCAT 505 at [185]).
 5. **The dog is best pursued outside this complaint.** The tribunal cannot decide ownership. A property claim between former partners in the federal family court can, but must be made within two years of separation, which may be days or weeks away.
 6. **Time is the main procedural risk, and it is decided twice**: by the Commissioner (s 138) and again by the tribunal (s 175(2); Smythe v State of Queensland [2024] QCAT 33 at [14]). The good cause material must be complete at lodgement.
 7. **Keep the events inside the unit out of the complaint** while the charges are pending. The respondent is the prosecutor. Schedule X holds that account.
 8. **Lodge in early December 2026**, after the information requests are in and the doctor's report is in hand, and add the human rights complaint about the 2026 decision from 6 January 2027.
-9. **Plead victimisation in the alternative for the 2026 conduct, if one fact is confirmed.** The Commission's own letters show his earlier complaint (EDR19098) was dealt with under the Human Rights Act only, conciliated on 14 May 2026 and reported unresolved on 18 June 2026, the day police set the one-day deadline. His written submission of 3 May 2026 in that complaint said police had discriminated against him because of psychiatric disability. If that submission reached the Commission or police before 18 June 2026, the 2026 conduct can be put, in the alternative, as victimisation (ss 129–130; section 5.5A).
+9. **Victimisation is not in the complaint as lodged.** It rests on one fact that could not be confirmed from his records: that his written submission of 3 May 2026 reached the Commission or police before 18 June 2026. Nothing yet shows that Ethical Standards knew of it. The claim is drafted as a separate page (document 20) and can be made until 18 June 2027 (section 5.5A).
 10. **What he told police about harassment and his lawyer is on police's own recordings (section 5.2A).** On 24 February 2025 an officer told his friend "that's all we want then we can stop just harassing him", and described police's approach to disputed property in his own words. On 22 March 2025 the complainant told police they could call his lawyer, and asked to call his solicitor before the dog was taken at a roadside stop made to serve court papers. This strengthens the evidence of police effort for one side and of the practice. It is not a new claim, and it puts police's explanation, the transfer form, on the record. It also raises a point for his criminal lawyers: police may not question a person about an offence while he is held for service of papers (Domestic and Family Violence Protection Act 2012 s 134D).
 
 **Prospects** (section 11). On the facts as instructed, if proved:
@@ -31,7 +31,7 @@
 | December 2024 and the dog (sex, direct) | Weak. The December records give police a reason that is not about sex |
 | December 2024: her "rages" characterisation of his illness adopted by police (impairment, direct) | Arguable |
 | The "civil for her, criminal for him" practice (sex, indirect) | Arguable; untested |
-| The 2026 conduct as victimisation, in the alternative | Weak until it is shown the officers knew of his discrimination allegation |
+| The 2026 conduct as victimisation (not lodged; document 20) | Weak until it is shown the officers knew of his discrimination allegation |
 | The home, as a separate claim | Weak; run it as part of the pattern |
 | A conciliated outcome of real value | Reasonable |
 
@@ -47,7 +47,7 @@
 - He signed the microchip change-of-owner form in December 2024 at her request while she had the dog. She wrote that she would not restrict him from the animals. She had offered that he could keep the dog while she was away. He told her ownership could be decided in court.
 - On 23 February 2025 he went to his leased home to collect his belongings, rang the police line as he went in, the dog came to him, there was no confrontation, and he left with the dog he had told her in writing he would take.
 - He was never told of an application under s 694, and the dog was released to her before his court application was heard.
-- In June 2026 his condition prevented him meeting the one-day deadline.
+- In June 2026 his condition prevented him meeting time limits of one and three business days.
 
 **The opposing case, as already on the record.**
 
@@ -167,7 +167,7 @@ The two successes were indirect impairment claims: a wheelchair user made to use
 - *24 February 2025, 11:10 pm to 11:20 pm, his friend's home (camera D59, from the criminal brief).* After his mother's home, the same officers went to his friend's home, where he was. An officer told the friend that all police wanted was the dog, and: "that's all we want then we can stop just harassing him". The friend answered "i don't know what he just said to you", which suggests the complainant had just said something to the officers. His own words are not in either transcript. Both have gaps at the door (11:10:55 pm to 11:11:50 pm), where an officer answers things the transcript did not catch and tells him "I'll have a chat to you in a minute". The clip he holds ends at 11:19:54 pm. One transcript gives the "harassing" line to the same voice as the friend, so the speaker must be confirmed before the line is used. This is the passage the Case Study quoted without a source.
 - *The same clip: police's approach in an officer's words.* The friend said the complainant "was told it was a civil matter" in December. An officer answered that there was a "civil aspect", that police had "a document that shows that he's transferred ownership", that his claim to have had permission to take the dog "is also denied", and: "when there is contested property we don't typically get involved but when we think it's stolen property we do". An officer also told the friend "we're starting to look at parties to offences and possessing tainted property".
 - *22 March 2025, the roadside stop (police recordings he already holds).* An officer from another unit stopped him to serve domestic violence papers and said Southport officers "were wanting to speak to you". He answered: "I've put them on for harassment and you can call my lawyer if you want", and said Southport officers "actually said they'll get someone else to serve it to me". At about 8:09 am he was told "you're not under arrest however you do have to remain with us for a reasonable time for this paperwork to be served". He said his lawyer wanted to arrange a time to collect the papers with him, that "they called twice, three times, to say we'll come down and get it", and: "I said the police are harassing me." The officer answered "Well, I'm not harassing you" and "You're free to talk to your lawyer". Southport officers arrived at about 8:37 am. At about 8:40 am officers discussed that Southport would "seize the dog", and one said he had "just been told he has to remain until we serve the paperwork on him". At about 8:45 am the officer from Southport began "Have you got the dog in here?" and "we will have to take that dog today". At 8:53 am: "All I've been told is that you've stolen the dog"; "Let me call my solicitor"; "I'm just letting you know that the vehicle is detained"; "You're detained".
-- *Not found.* A recording of him saying it to the investigating officer himself; a written complaint of harassment made before 22 March 2025; any letter from his lawyer to police. "I've put them on for harassment" may mean a complaint was lodged, or only that he had said so. He must say which.
+- *Not found.* A recording of him saying it to the investigating officer himself; a written complaint of harassment made before 22 March 2025; any letter from his lawyer to police. "I've put them on for harassment" may mean a complaint was lodged, or only that he had said so. His schedule of documents holds no written complaint from before 22 March 2025.
 
 **What it adds to this complaint.**
 
@@ -181,7 +181,7 @@ The two successes were indirect impairment claims: a wheelchair user made to use
 - *It puts police's answer on the record.* The officer's stated reason on 24 February was the transfer form and her denial that he had permission. That is a reason that is not about sex, and a tribunal is likely to accept it for February. The sex claim on the dog still turns on December: on 2 December 2024 the council registration was in his name and no transfer had been signed, and police did not treat the taking of the dog from him as theft.
 - *No law required police to stop, or to go through his lawyer.* Acts done in the execution of a law are excluded from the offence of unlawful stalking, intimidation, harassment or abuse (Criminal Code s 359D(a)). The Anti-Discrimination Act has no general prohibition of harassment, and the provisions on harassment on the basis of sex inserted in 2024 (ss 124B to 124D) have not commenced. Police may search a vehicle without a warrant where they reasonably suspect it holds stolen property (Police Powers and Responsibilities Act 2000 ss 31(1), 32(1)(d)). He said on the recording that police needed a warrant. They did not, and nothing obliged them to wait for his solicitor before searching.
 - *It is not a protected act.* Telling police they were harassing him did not allege a contravention of the Anti-Discrimination Act (s 130). Nor was it a public interest disclosure. Where an entity has a procedure for disclosures it must be used, or the disclosure made to a person such as its chief executive or "an officer of the entity who has the function of receiving or taking action on the type of information being disclosed" (Public Interest Disclosure Act 2010 s 17(2)–(3)). Telling the officers complained about is neither.
-- *Reprisal.* If he lodged a written complaint about the visits before 22 March 2025, while a public officer, it is a candidate disclosure that came before the seizure, and the recording shows the officers at the stop were told of it. Causation remains the difficulty: the recording shows Southport asked for the dog to be seized because it was said to be stolen. The advice in section 5.6 stands. Request E now asks for any such complaint.
+- *Reprisal.* If he lodged a written complaint about the visits before 22 March 2025, while a public officer, it is a candidate disclosure that came before the seizure, and the recording shows the officers at the stop were told of it. Causation remains the difficulty: the recording shows Southport asked for the dog to be seized because it was said to be stolen. The advice in section 5.6 stands. His schedule of documents holds no written complaint from before 22 March 2025. Request B, item 5, asks police for any record of one.
 
 **For his criminal lawyers (not for the complaint).**
 
@@ -219,20 +219,20 @@ The decline gave as its reason that the matter had "already been reported to Pol
 
 ### 5.5 The complaint handling (June to September 2026)
 
-**The term**, framed precisely: that he provide written particulars of his complaint (the court matter, the date, the charge and the officers' names) by close of business on 19 June 2026, for the complaint to be assessed on them.
+**The terms**, framed precisely. First, that he provide written particulars of his complaint (the court matter, the date of the offence, the charge and the officers' names) by close of business on 19 June 2026. Second, from police's standard acknowledgment sent two hours earlier, that any further material be provided within three business days, failing which it "may not be considered as part of the initial assessment".
 
 **Elements.**
 
 - *He could not comply because of his impairment.* "Serious disadvantage" in complying is enough (Harding at [90]). His treating doctor's report must say so. A mental health condition and incapacity are different things (Ryle v State of Queensland [2021] QIRC 307 at [91]); the report must address the deadline, not just the diagnosis.
 - *A higher proportion of people without his impairment could comply.* Hunter accepted that the complainant "was required to adapt to a process which was straightforward and quick for persons without a disability" ([61]). The same reasoning fits a one-day deadline.
-- *Not reasonable.* Police must prove reasonableness (former s 205; Ali at [53]). They then took nearly three months to decide. Maintaining a term after officers know it causes a problem is unreasonable (Ali at [41]); police knew of his condition from their own records (December 2024) and from the Case Study of 14 July 2026, before the closure on 10 September 2026. Hunter also weighed that the requirement "was not in accord with the published policies" of the Service ([61]). Judge the reasonableness of the requirement itself (Philipp at [123]).
+- *Not reasonable.* Police must prove reasonableness (former s 205; Ali at [53]). They then took nearly three months to decide. Maintaining a term after officers know it causes a problem is unreasonable (Ali at [41]); police knew of his condition from their own records (December 2024) and from the Case Study of 14 July 2026, before the closure on 10 September 2026. Hunter also weighed that the requirement "was not in accord with the published policies" of the Service ([61]). Judge the reasonableness of the requirement itself (Philipp at [123]). Here the deadline for particulars was shorter than the three business days in police's own acknowledgment, the particulars were in police's own records, and the outcome does not mention the report he sent on 14 July 2026.
 - *Area.* Whether s 101 covers police complaint handling has not been decided. Police exercising their Police Service Administration Act functions "must not have discriminated" (Cook at [36]); complaint handling is such a function.
 
-**Human rights.** An outcome that identifies no right engaged does not show the decision-maker "seriously turned his or her mind" to the impact (Owen-D'Arcy at [137]); failing to identify a relevant right made the decision unlawful there ([265]–[266]).
+**Human rights.** An outcome that identifies no right engaged does not show the decision-maker "seriously turned his or her mind" to the impact (Owen-D'Arcy at [137]); failing to identify a relevant right made the decision unlawful there ([265]–[266]). The outcome contains one sentence on the subject: "the committee also determined that police actions did not unduly limit your Human Rights". Earlier versions of these documents said the outcome "refers to no human right". They now say, accurately, that it identifies none.
 
-**The condition.** If he answered within the deadline, the discrimination claim fails and only the human rights claim remains.
+**The condition.** His saved correspondence shows no reply to Ethical Standards before his report of 14 July 2026, and the complaint is pleaded on that footing. If he did answer within either limit, the discrimination claim changes, and he must say so before lodging.
 
-### 5.5A Victimisation for the 2026 conduct, in the alternative
+### 5.5A Victimisation for the 2026 conduct (not lodged; document 20)
 
 **The law.** A person must not victimise another (s 129). Victimisation happens if the respondent does an act to the complainant's detriment because the complainant "in good faith, alleged ... that a person committed an act that would amount to a contravention of the Act", or because the respondent believes he did (s 130(1)(a)(ii), (b)). Three things must be shown: an act, detriment, and "a causal nexus" between the detriment and the matters in s 130. The complainant carries the burden (Bero v Wilmar Sugar Pty Ltd & Ors [2016] QCAT 371 at [150]–[151]).
 
@@ -240,9 +240,9 @@ The decline gave as its reason that the matter had "already been reported to Pol
 
 - On 15 April 2026 the Commission accepted complaint EDR19098 against the State (police) as alleging "a possible unreasonable limitation of the right to property and privacy and reputation" under the Human Rights Act. A conciliation conference was held on 14 May 2026. On 18 June 2026 the Commission reported it unresolved (Commission's letters of 15 April and 18 June 2026).
 - His written submission of 3 May 2026 in that complaint has a part headed "protected attributes and the discriminatory pattern", with "Disability — psychiatric" and "The pattern of cumulative discrimination". Only extracts were available for this advice. The full document must be read, and it must be confirmed that it was sent, when, and to whom.
-- On 18 June 2026 Ethical Standards registered COM-26-01249 and set the one-day deadline. On 10 September 2026 it finalised the complaint without contact.
+- On 18 June 2026 Ethical Standards registered COM-26-01249. Its acknowledgment gave three business days for further material; its request two hours later gave him until the next day. On 10 September 2026 it finalised the complaint without further contact.
 
-**The bind.** Either a one-business-day deadline is police's practice for all complainants, or it was set for him. If it is the practice, it is a "term" and the indirect discrimination claim in 5.5 is stronger. If it was set for him, police must say why it was set on the day the Commission reported his earlier complaint unresolved, six weeks after his written allegation of discrimination. The complaint asks the question (paragraph 42C).
+**The bind.** Police's own acknowledgment answers part of the question: the standard is three business days, and he was given less. Either that was an error, in which case the complaint was assessed without his material; or it was set for him, and police must say why. The covering letter asks for the record of who set the deadline (s 156).
 
 **The gaps.**
 
@@ -250,7 +250,7 @@ The decline gave as its reason that the matter had "already been reported to Pol
 - *Confidentiality.* Nothing said or done in the course of a conciliation conference for a human rights complaint is admissible unless both sides agree (Human Rights Act s 86). The claim must rest on the written submission and the dates, not on the conference. Police may argue the submission is caught too. The answer is that it was a document lodged before the conference. That is untested.
 - *Coincidence.* The Commission referral that produced COM-26-01249 dates from 28 April 2026. Police will say 18 June was simply when the file was registered.
 
-**Advice.** Plead it in the alternative, in three short paragraphs (complaint, paragraphs 42A–42C), if he confirms the submission was sent before 18 June 2026. It is in time, it costs nothing to add, and it is the only claim that lets the Commissioner ask who knew what. Do not put it first.
+**Advice.** Do not lodge it now. Three things are missing: confirmation that the submission of 3 May 2026 reached the Commission or police before 18 June 2026; any sign that Ethical Standards knew of it; and an answer to the innocent explanation, which is that the referral was registered that morning. The claim is drafted as a separate page (document 20). It can be lodged with the complaint if the first point is confirmed, or later: the time limit runs to 18 June 2027 (s 138(1)). The questions it would have let the Commissioner ask are already in the covering letter (paragraph 8).
 
 ### 5.6 Reprisal for the earlier complaints about Southport police
 
@@ -344,7 +344,7 @@ Police will say the Act directs attention to the vulnerability of women (s 4(2)(
 
 1. **The December record.** Police's statement for the notice records her detailed allegations, a bruise, and what police called his partial admissions by phone. It also refers to texts about the pets and other matters that should not be put in issue. Any claim about that night invites police to tender the whole statement.
 2. **His own documents.** The change-of-owner form; his message of about 12 February 2025 ("When you leave I will take my animals"); his message of 9 December 2024 ("I havnt even pressed charges").
-3. **The Case Study.** Twelve statements need correcting. Two would be used against his credibility: calls from his phone in custody, and "registered solely in my name". Correct them first.
+3. **The Case Study.** Thirteen statements need correcting. Two would be used against his credibility: calls from his phone in custody, and "registered solely in my name". Correct them first.
 4. **Machine transcripts.** Every camera line must be checked against the source video.
 5. **The draft affidavit.** His sister's partner has the visit a day late; it must be checked and sworn.
 6. **Time.** Two discretions; Smythe.
@@ -360,9 +360,9 @@ These are judgments, not calculations. They assume the instructed facts are prov
 | Claim | On the instructed facts | On the present record | What moves it |
 |---|---|---|---|
 | Acceptance by the Commissioner (whole complaint) | Reasonable to good | Reasonable | Annexure D complete; how the Commissioner views the overlap with EDR19098 |
-| 2026 complaint handling (impairment, indirect) | Good (in the order of 50–60% at hearing) | Reasonable | Doctor's report; whether he answered in time; s 101 coverage |
+| 2026 complaint handling (impairment, indirect) | Good (in the order of 50–60% at hearing) | Reasonable to good | Doctor's report; s 101 coverage. Police's own three-business-day standard, and an outcome that does not mention his report of 14 July 2026, strengthen it |
 | Human rights finding on the 2026 decision | Good | Good | The outcome letter itself |
-| The 2026 conduct as victimisation, in the alternative | Arguable (in the order of 15–25%) if the submission reached police | Weak: nothing yet shows the officers knew | Whether the 3 May 2026 submission was sent, and to whom; police's records of who set the deadline (s 156) |
+| The 2026 conduct as victimisation (not lodged; document 20) | Arguable (in the order of 15–25%) if the submission reached police | Weak: nothing yet shows the officers knew | Whether the 3 May 2026 submission was sent, and to whom; police's records of who set the deadline (s 156) |
 | December 2024 and the dog (sex, direct) | Weak (in the order of 10–20%) | Weak (in the order of 10–15%) | Records of how his own report that night was handled (Request A); release record; OPM 4.7.1. The officer's stated reason on 24 February 2025, the transfer form, is against it for February (section 5.2A) |
 | December 2024: police adopting her "rages" characterisation of his illness (impairment, direct) | Arguable (in the order of 20–30%) | Arguable | Request A: whether the risk assessment relied on his mental health; officers' notes |
 | The practice (sex, indirect) | Arguable (in the order of 15–25%) | Arguable | Statistics; police procedure on disputed property. An officer's description of the approach on camera proves a practice of classifying disputes, not that the classification follows sex (section 5.2A) |
@@ -385,8 +385,8 @@ These are judgments, not calculations. They assume the instructed facts are prov
 
 **Before lodging (by early December 2026)**
 
-6. EDR19098: the Commission's letters are in hand. Find the complaint form he lodged and its date, and confirm whether the submission of 3 May 2026 was sent to the Commission or to police, and when. If it was not, delete paragraphs 42A to 42C of the complaint.
-7. Settle five points in his account: the 9 December message; the station visited on 2 December; how many people entered; whether he answered the 18 June deadline; and when he first told the investigating officer that police were harassing him, and whether he complained in writing before 22 March 2025.
+6. EDR19098: the Commission's letters are in hand, and the complaint no longer depends on anything else from that file. Lodge document 20 only if the submission of 3 May 2026 is confirmed as given to the Commission or police before 18 June 2026.
+7. Settle four points in his account: the 9 December message; how many people entered; whether he sent Ethical Standards anything on 18 or 19 June 2026 (his records show nothing); and when he first told the investigating officer himself that police were harassing him.
 8. Witness statements, and his former solicitor's file notes of calls to police in March 2025 (document 10).
 9. Lawyer review of the lodging set (documents 14, 15, 02 to 06 and 16), which is also bound as one file (Complete Complaint for Lodging).
 
@@ -424,6 +424,7 @@ These are judgments, not calculations. They assume the instructed facts are prov
 | 17 | Outline of submissions |
 | 18 | Evidence matrix |
 | 19 | Conciliation brief |
+| 20 | Addendum: victimisation (optional; lodge only if one fact is confirmed) |
 | — | Complete Complaint for Lodging: documents 14, 15, 02 to 06 and 16 bound as one file |
 
 ## 14. Authorities and legislation

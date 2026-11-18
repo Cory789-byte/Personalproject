@@ -90,7 +90,8 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 
 | Term | Effect | Who carries the burden |
 |---|---|---|
-| Particulars required by close of business the next day [50] | Complaint finalised without contact, no reference to his condition [52] | Police must prove the term was reasonable (former s 205) |
+| Particulars required by close of business the next day [50] | He could not meet it. Complaint finalised without further contact [52] | Police must prove the term was reasonable (former s 205) |
+| Any further material within three business days, or it "may not be considered" [50] | His report of 14 July 2026 is not mentioned in the outcome, nor is his condition [51], [52] | As above |
 
 **Attribute.** Impairment.
 

@@ -6,24 +6,25 @@ Section numbers are to the Anti-Discrimination Act 1991 unless another Act is na
 
 ## 1. The issues
 
-1. Was a one-business-day deadline, set for a man police had recorded as mentally ill, a term he could not meet because of his impairment, and was it reasonable?
+1. Were time limits of one and three business days, set for a man police had recorded as mentally ill, terms he could not meet because of his impairment, and were they reasonable?
 2. Did the decision of 10 September 2026 give proper consideration to his human rights?
-3. In the alternative, was the 2026 conduct victimisation?
-4. On 1 December 2024, was a characteristic imputed to people with a mental illness a substantial reason for how police treated his account and his report?
-5. From December 2024 to April 2025, was his sex a substantial reason for the difference in how police treated the two sides of one dispute?
-6. Is there good cause to accept the events before 18 June 2026?
+3. On 1 December 2024, was a characteristic imputed to people with a mental illness a substantial reason for how police treated his account and his report?
+4. From December 2024 to April 2025, was his sex a substantial reason for the difference in how police treated the two sides of one dispute?
+5. Is there good cause to accept the events before 18 June 2026?
 
-## 2. The 2026 deadline
+## 2. The 2026 time limits
 
 2.1 **Area.** Police dealing with a complaint are "within at least s 101" (Woodforth v State of Queensland [2017] QCA 100 at [24]). Police exercising their statutory functions "must not have discriminated" (Cook v State of Queensland (QPS) [2018] QCAT 216 at [36]).
 
-2.2 **Term.** A term includes a "condition, requirement or practice, whether or not written" (s 11(4)). It must be "formulated with some precision" (Leah v A.N. Burnett Investments [2025] QCAT 123 at [126]). This one is in writing: particulars by close of business the next day (para 42).
+2.2 **Term.** A term includes a "condition, requirement or practice, whether or not written" (s 11(4)). It must be "formulated with some precision" (Leah v A.N. Burnett Investments [2025] QCAT 123 at [126]). Both terms are in writing: further material "within three (3) business days", and particulars "by cease of business" the next day (paras 29, 42).
 
 2.3 **Could not comply.** "Serious disadvantage" in complying is enough (Harding v State of Queensland (QPS) [2025] QCAT 415 at [90]). In Hunter v State of Queensland [2015] QCAT 179 at [61] the complainant "was required to adapt to a process which was straightforward and quick for persons without a disability". So was this complainant.
 
-2.4 **Reasonableness is for the respondent to prove** (former s 205, applied by s 285AA). The circumstances include "the consequences of failure to comply with the term" and "the cost of alternative terms" (s 11(2)). The test is "less demanding than one of necessity, but more demanding than a test of convenience" (Ali v State of Queensland [2023] QCAT 109 at [35]). A term is unreasonable where the alternative has "little or no resource implications" (Tafao v State of Queensland [2020] QCATA 76 at [170]). The consequence here was that his complaint was decided without him. The alternative was more time, which cost nothing: police then took nearly three months to decide.
+2.4 **Reasonableness is for the respondent to prove** (former s 205, applied by s 285AA). The circumstances include "the consequences of failure to comply with the term" and "the cost of alternative terms" (s 11(2)). The test is "less demanding than one of necessity, but more demanding than a test of convenience" (Ali v State of Queensland [2023] QCAT 109 at [35]). A term is unreasonable where the alternative has "little or no resource implications" (Tafao v State of Queensland [2020] QCATA 76 at [170]). The consequence here was stated in police's own acknowledgment: material received late "may not be considered". His report of 14 July 2026 is not mentioned in the outcome. The alternative was more time, which cost nothing: police took nearly three months to decide.
 
 2.5 **Knowledge.** The person imposing a term need not be aware of the indirect discrimination (s 11(3)). In any case, police wrote on 1 December 2024 that he has "a mental illness and requires medication". This is not a case where police did not know (compare DM v State of Queensland [2025] QCAT 517 at [23]).
+
+2.6 **Police's own standard.** In Hunter the tribunal weighed that the requirement "was not in accord with the published policies" of the Service (at [61]). Here the deadline for particulars was shorter than the three business days stated in police's own acknowledgment sent two hours earlier.
 
 ## 3. Human rights: the decision of 10 September 2026
 
@@ -31,15 +32,11 @@ Section numbers are to the Anti-Discrimination Act 1991 unless another Act is na
 
 3.2 The question is whether the decision-maker "seriously turned his or her mind to the possible impact of the decision" (Owen-D'Arcy v Chief Executive, Queensland Corrective Services [2021] QSC 273 at [137]). It is "a standard of consideration higher than that generally applicable at common law" (Mizner v State of Queensland [2025] QCA 169 at [268]). There is "no place for deference" (Owen-D'Arcy at [140]).
 
-3.3 The outcome identifies no right. Failing to identify a relevant right made the decision unlawful in Owen-D'Arcy (at [265]–[266]).
+3.3 The outcome says only that a committee "determined that police actions did not unduly limit your Human Rights". It identifies no right. Failing to identify a relevant right made the decision unlawful in Owen-D'Arcy (at [265]–[266]).
 
-## 4. Victimisation, in the alternative
+## 4. Victimisation (not pleaded)
 
-4.1 The elements are an act, detriment, and "a causal nexus" with the matters in s 130 (Bero v Wilmar Sugar Pty Ltd & Ors [2016] QCAT 371 at [150]).
-
-4.2 The complainant alleged discrimination in writing on 3 May 2026 in a complaint to which the respondent was a party. The deadline was set on 18 June 2026, the day that complaint was reported unresolved.
-
-4.3 The respondent can answer one question: is one business day its practice for every complainant? If yes, it is a term and section 2 applies. If no, the respondent must explain why it was set for him.
+4.1 Victimisation is not in the complaint as lodged. It is set out in document 20, to be added only if the complainant gave the Commission or the respondent his written submission of 3 May 2026 before 18 June 2026. The elements are an act, detriment, and "a causal nexus" with the matters in s 130 (Bero v Wilmar Sugar Pty Ltd & Ors [2016] QCAT 371 at [150]).
 
 ## 5. The night of 1 December 2024: impairment
 
