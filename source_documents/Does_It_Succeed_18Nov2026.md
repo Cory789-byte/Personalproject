@@ -14,7 +14,7 @@ Each answer below says what has to be proved, what the decided cases require, wh
 | Costs, if the charges are dismissed | Yes, on the investigation points | The court's findings about how the matter was investigated |
 | Correcting your address in the police record | Yes, at least to a notation | Whether police accept that a short stay is not an address. If they refuse, they must add your notation |
 | Privacy complaint about the address | Not yet known | What the records show police did with the address after 1 July 2025 |
-| Discrimination: the dog (Claim C) | Not as it stands | The police records of 1 and 2 December 2024 |
+| Discrimination: the dog (Claim C) | Weak | Police's December 2024 records give them a reason that is not about sex. The impairment point is the better way to put that night |
 | Discrimination: the home (Claim A) | No, not as a separate claim | Fold its facts into Claim C |
 | Discrimination: the complaint handling (Claim B) | Yes, if three facts hold | Whether you missed the one-day deadline, your doctor's letter, and why the complaint was closed |
 | Human rights: the 2026 outcome | Yes, if the outcome shows no consideration of your rights | The outcome letter itself, and police's answer to your complaint first |
@@ -141,7 +141,7 @@ The Court of Appeal's leading decision on police and the Anti-Discrimination Act
 
 **Where it can be won.** The night of 1 to 2 December 2024. That night you were the one who reported people entering your home, being pushed and the dog being taken. Police named you the respondent, took a signed statement from her the next day about money, and took none from you. Your case is that a woman who reported an assault and a home entry would have had her statement taken. If the December records show police decided who was the victim without a factual basis for it, the tribunal can infer that assumptions about men in domestic disputes were a substantial reason (ss 8 and 10(4)). If the records show she gave police specific allegations that they assessed, the explanation stands and Claim C fails.
 
-**Verdict.** Not as it stands. Get the December records first (full case, Annex C). They decide this claim.
+**Verdict.** Weak. The December records are in hand. Police issued the notice on her detailed account, a bruise she showed them and what they recorded as your partial admissions by phone. Your messages, the building's CCTV and the clinic record show her account of fleeing on 27 November was untrue, but police did not have them, so they show her account was wrong, not that police's reasons were. What remains is the contrast in how police tested the two accounts, and the stronger impairment point: police recorded and relied on her statement that your illness makes you "act crazy and go into rages without warning" (counsel's advice, section 5.1).
 
 ### Claim A: the home
 

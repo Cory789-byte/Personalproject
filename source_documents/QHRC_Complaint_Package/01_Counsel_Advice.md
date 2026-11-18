@@ -14,7 +14,7 @@
 
 1. **Lodge one complaint** with the Queensland Human Rights Commission under both Acts, against the State only. Plead sex and impairment; direct discrimination as the narrative; indirect discrimination in the alternative; the human rights duties alongside.
 2. **Lead with the strongest claim**: the 2026 complaint handling, as indirect impairment discrimination and a failure of proper consideration under the Human Rights Act. It is in time, the term is in writing, and police must prove it was reasonable. The only claims found to have succeeded against police in this jurisdiction are of this kind (Hunter v State of Queensland [2015] QCAT 179; Harding v State of Queensland (QPS) [2025] QCAT 415).
-3. **The sex discrimination case turns on one decision**: the designation of 1 December 2024, which made her the person to protect and him the person to manage. Every later act followed from it. On the present record the tribunal will treat that designation and her report as part of the comparison, and the claim will fail as others have (Watego v State of Queensland [2022] QCAT 341 at [245]). It succeeds only if police's December records show the designation, and the refusal to take his assault complaint, had no factual basis that holds up. Obtain those records first.
+3. **The December records are in hand, and they do not carry the sex claim.** Police issued the notice of 1 December 2024 on her detailed account, a visible bruise and what they recorded as his partial admissions by phone. His own messages, the building's CCTV and a clinic record go a long way to show her account of fleeing on 27 November was untrue, but police did not have them. A tribunal will treat police's reasons as reasons that are not about sex (Watego v State of Queensland [2022] QCAT 341 at [33], [245]). What remains is the contrast in how police tested the two accounts that night, and the stronger point that police adopted her claim that his mental illness makes him "act crazy and go into rages" (impairment, s 8(b)).
 4. **Police cannot shelter behind s 106.** It covers only acts under a court order or under a provision of an Act that existed when s 106 commenced on 30 June 1992. Police have conceded that the Police Powers and Responsibilities Act 2000 is not such a provision (Philipp v State of Queensland (QPS) [2025] QCAT 505 at [185]).
 5. **The dog is best pursued outside this complaint.** The tribunal cannot decide ownership. A property claim between former partners in the federal family court can, but must be made within two years of separation, which may be days or weeks away.
 6. **Time is the main procedural risk, and it is decided twice**: by the Commissioner (s 138) and again by the tribunal (s 175(2); Smythe v State of Queensland [2024] QCAT 33 at [14]). The good cause material must be complete at lodgement.
@@ -26,12 +26,13 @@
 | Claim | Assessment |
 |---|---|
 | 2026 complaint handling (impairment, indirect) and the human rights failure | Good |
-| December designation and the dog (sex, direct) | Weak on the present record; reasonable if the December records support it |
+| December 2024 and the dog (sex, direct) | Weak. The December records give police a reason that is not about sex |
+| December 2024: her "rages" characterisation of his illness adopted by police (impairment, direct) | Arguable |
 | The "civil for her, criminal for him" practice (sex, indirect) | Arguable; untested |
 | The home, as a separate claim | Weak; run it as part of the pattern |
 | A conciliated outcome of real value | Reasonable |
 
-**Overall.** A moderate complaint. It has a sound, in-time core on impairment and human rights with a realistic prospect of a conciliated outcome, and carries a well-documented but legally difficult sex discrimination narrative whose strength depends on police's December 2024 records.
+**Overall.** A moderate complaint. It has a sound, in-time core on impairment and human rights with a realistic prospect of a conciliated outcome. The sex discrimination narrative is well documented but weak in law, because police's December 2024 records give them a reason that is not about sex. Run it narrowly, and lead with impairment.
 
 ## 2. Instructions and the facts assumed
 
@@ -118,15 +119,25 @@ The two successes were indirect impairment claims: a wheelchair user made to use
 
 **Police's case.** He had been named respondent at 8:30 pm on her report; the entry was her friends helping her collect her belongings; the dog was civil; he did not press charges (his message of 9 December 2024: "I havnt even pressed charges").
 
-**Analysis.**
+**What police recorded as their basis** (Statement — Police Protection Notice, QP 0899A, 1 December 2024, occurrence QP2402065947). At about 7:30 pm Robina police attended "an address where the aggrieved had sought refuge". She told them that on the evening of 27 November he had flown into a rage, shoved her over a bedside table, held her by the neck and smashed her phone, and that she had fled and "sought refuge at another address for a few nights". She showed a bruise on her chest and said a friend had photographed it. She described a history of violence, and said she was "aware that the resp has a mental illness and requires medication that he does not take regularly, and this can cause the resp to act crazy and go into rages without warning". Police spoke to him by telephone. They recorded that he denied her main allegations; said he had "ushered/pushed" her out of the unit during arguments but did not consider that an assault; said her phone screen broke when his own phone, thrown at the bed, hit the bedside table; and "suggested [the bruise] may be from a beaty treatment procedure". Police also reviewed texts, including one about surrendering some of the pets to a shelter. Their conclusion: "Due to the nature of the reported domestic violence incidents, the supporting evidence supplied by the agg and the partial admissions made by the resp, Police formed the opinion that domestic violence had occurred".
 
-- *What the evidence proves:* the 8:30 pm designation and the recorded mental illness (police notice); the statement taken from her (police record); the CCTV of the entry; police's record that the animals were split between the two names.
-- *What it does not yet prove:* what police were told before 8:30 pm; whether his assault complaint was recorded; why no statement was taken.
-- *The inference available:* the people who entered were not parties to the relationship. An assault by third parties is a criminal matter whatever the designation; police must investigate where domestic violence is reasonably suspected (DFVPA s 100); a civil response does not replace the criminal law (s 4(2)(f)). Tedesco shows a refusal to take assault statements is an arguable claim. Unlike DM, police here recorded his impairment themselves.
+**What his own records show** (his exhibit "Police Protection Notice with Refuge-Claim Contradiction and 1 December 2024 Report").
 
-**Weak joint.** The 9 December message. On his account, he had not pressed charges because police would not take his complaint. That must be his evidence.
+- On the evening of 27 November the messages are ordinary: he offers to make her dinner; at 8:06 pm she is "home", showering, and needs to be somewhere at 9:00 pm; he drives her at 8:45 pm.
+- At 3:01 am on 28 November she asks him to collect her, and he does.
+- At about 4:00 am on 30 November he collects her from the Hilton.
+- On 30 November she tells him "I made ravioli for later for you", they agree to dinner out, she says she has walked Romeo, and a restaurant booking for two is confirmed for 7:30 pm.
+- The building's CCTV shows her at the building on 27, 28 and 30 November and 1 to 2 December.
+- A cosmetic clinic's aftercare and her message "They put threads all over my neck and shoulders" place a cosmetic treatment of her neck and shoulders shortly before 1 December. That matches the explanation he gave police that night.
 
-**Impairment, in the alternative.** If the records show his mental health was weighed against his credibility or treated as a risk, impairment is a second substantial reason, on the model of Tedesco.
+**What that means in law.**
+
+- His records go a long way to show her account of fleeing on 27 November was untrue. They do not show that police's reasons were untrue. Police acted on a detailed account, a visible bruise and what they recorded as his partial admissions, and they did not have his messages, the CCTV or the clinic record. A tribunal will ask whether police would have done the same for a man who reported that his female partner shoved him over a table and held his neck, and showed a bruise. It will very likely answer yes. That is a more probable explanation than sex, and it leaves no room for the inference (Watego at [33]). **The December designation cannot carry the sex claim.**
+- What the records do give him is a contrast in how police tested the two accounts that night. Her account of a refuge was accepted without checking the building's CCTV, minutes away. His explanation of the bruise was recorded and set aside. His own report later that night — an entry into his home, a push, an injured ankle, the dog taken — was not recorded at all. That contrast is the inference the sex claim must now rest on. Tedesco is the model, and it is an arguable claim, not a strong one.
+- **Impairment is the stronger angle on this night.** Police recorded, and adopted into the grounds for the notice, her statement that his mental illness makes him "act crazy and go into rages without warning". Volatility is a characteristic often imputed to people with mental illness (s 8(b)). Unlike DM, police knew of his condition: they wrote it down. If that characterisation was a substantial reason for crediting her account and discounting his — including his report of being assaulted later that night — it is direct discrimination on the basis of impairment (s 10(4)).
+- **Caution.** Putting the designation in issue invites police to put their whole statement before the tribunal, including texts that should not be in issue. Keep the complaint's focus on how police treated his own report and on the impairment characterisation, not on re-trying the events of 27 November.
+
+**Weak joint.** The 9 December message ("I havnt even pressed charges"). On his account, he had not pressed charges because police would not take his complaint. That must be his evidence.
 
 ### 5.2 The dog
 
@@ -255,7 +266,7 @@ Police will say the Act directs attention to the vulnerability of women (s 4(2)(
 
 ## 10. Vulnerabilities
 
-1. **The December record.** Until police's records of 1 to 2 December 2024 are obtained, the root decision rests on his account.
+1. **The December record.** Police's statement for the notice records her detailed allegations, a bruise, and what police called his partial admissions by phone. It also refers to texts about the pets and other matters that should not be put in issue. Any claim about that night invites police to tender the whole statement.
 2. **His own documents.** The change-of-owner form; his message of about 12 February 2025 ("When you leave I will take my animals"); his message of 9 December 2024 ("I havnt even pressed charges").
 3. **The Case Study.** Twelve statements need correcting. Two would be used against his credibility: calls from his phone in custody, and "registered solely in my name". Correct them first.
 4. **Machine transcripts.** Every camera line must be checked against the source video.
@@ -273,13 +284,14 @@ These are judgments, not calculations. They assume the instructed facts are prov
 | Acceptance by the Commissioner (whole complaint) | Reasonable to good | Reasonable | Annexure D complete; EDR19098 checked |
 | 2026 complaint handling (impairment, indirect) | Good (in the order of 50–60% at hearing) | Reasonable | Doctor's report; whether he answered in time; s 101 coverage |
 | Human rights finding on the 2026 decision | Good | Good | The outcome letter itself |
-| December designation and the dog (sex, direct) | Weak to reasonable (in the order of 20–30%); reasonable (30–40%) if the December records show no factual basis | Weak (in the order of 10–20%) | December records; release record; OPM 4.7.1 |
+| December 2024 and the dog (sex, direct) | Weak (in the order of 10–20%) | Weak (in the order of 10–15%) | Records of how his own report that night was handled (Request A); release record; OPM 4.7.1 |
+| December 2024: police adopting her "rages" characterisation of his illness (impairment, direct) | Arguable (in the order of 20–30%) | Arguable | Request A: whether the risk assessment relied on his mental health; officers' notes |
 | The practice (sex, indirect) | Arguable (in the order of 15–25%) | Arguable | Statistics; police procedure on disputed property |
 | The home, as a separate claim | Weak (about 10%) | Weak | The 5:23 am call explained or not |
 | Human rights on the release of the dog | Reasonable | Reasonable | Release record |
 | A conciliated outcome of real value | Reasonable (in the order of 35–50%) | Reasonable | A disciplined, documented complaint |
 
-**Overall.** A moderate complaint with a sound in-time core. Its realistic best result is a conciliated outcome: acknowledgment, record correction, an independent reassessment, a procedural review and modest compensation. The sex discrimination case is worth bringing because the record of opposite treatment is unusually well documented, but on the present evidence it is the part most likely to fail.
+**Overall.** A moderate complaint with a sound in-time core. Its realistic best result is a conciliated outcome: acknowledgment, record correction, an independent reassessment, a procedural review and modest compensation. The December 2024 records show police acted on her detailed account, a bruise and what they recorded as his partial admissions. That makes the sex claim weak, and makes the impairment point (police adopting her claim that his illness makes him "act crazy and go into rages") the better way to put that night.
 
 ## 12. Strategy and sequence
 

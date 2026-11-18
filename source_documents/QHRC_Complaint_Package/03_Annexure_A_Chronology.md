@@ -12,12 +12,13 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | 2 | 11 Apr 2024 | Joint lease of Unit 104, 158 Scarborough Street, Southport, for 12 months to 10 April 2025. The complainant is Tenant 1 | Lease (D1); leasing manager's emails of 27 Jan, 9 Feb and 28 Feb 2024 | Record |
 | 3 | 16 Jul 2024 | A veterinary clinic invoices the complainant for the dog | Vet invoice | Record |
 | 4 | Before Dec 2024 | The dog is registered with the local council in the complainant's name | Council registration | Record |
+| 4A | 27–30 Nov 2024 | Messages show the complainant and his former partner living together: on 27 Nov he offers to make her dinner and drives her out at 8:45 pm; he collects her at about 3:30 am on 28 Nov and about 4:00 am on 30 Nov; on 30 Nov she leaves food for him, they book dinner for two, and she says she has walked the dog. The building's CCTV shows her at the building on 27, 28 and 30 Nov | Messages; building CCTV stills | Record |
 
 ## Part 2 — The night of 1 to 2 December 2024
 
 | # | Date and time | Event | Source | Basis |
 |---|---|---|---|---|
-| 5 | 1 Dec 2024, 8:30 pm | Police issue a police protection notice naming the complainant as respondent. Its only condition is good behaviour. His version is taken by telephone. The notice records his address as Unit 104 and that he has "a mental illness and requires medication" | Police protection notice and statement, job QP2402065947 | Record |
+| 5 | 1 Dec 2024, 8:30 pm | Police issue a police protection notice naming the complainant as respondent, on her account of an incident on 27 Nov 2024 (which he denies) and of having stayed elsewhere for several nights. Its only condition is good behaviour. His version is taken by telephone, including his explanation that a bruise may be from a beauty treatment. The grounds record his address as Unit 104, that he has "a mental illness and requires medication", and her statement that his illness "can cause the resp to act crazy and go into rages without warning" | Police protection notice and statement (QP 0899A), job QP2402065947 | Record |
 | 6 | 1 Dec 2024, about 11:05 pm | People the complainant does not know enter Unit 104. He is pushed and his ankle is injured. The dog is taken. He calls triple zero | Complainant's filed account; CCTV stills | Complainant; Record (CCTV) |
 | 7 | 1 Dec 2024, about 11:15 pm | Police arrive. He reports the assault, the entry and the taking of the dog, and offers documents showing the dog is his | Complainant's filed account | Complainant |
 | 8 | 2 Dec 2024, about 12:05 am | At the police station he shows officers his documents and asks that those who entered be charged. Officers tell him to "let it go" and that ownership of the dog is "a civil issue" in which police will not intervene. No statement is taken from him | Complainant's filed account | Complainant |

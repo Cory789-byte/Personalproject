@@ -16,7 +16,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 
 | Claim | Attribute | What happened | In time? | Verdict |
 |---|---|---|---|---|
-| C. The dog | Sex | Civil for her in December 2024; seized from you in March 2025 | No. Needs good cause | Not as it stands. The December 2024 records decide it |
+| C. The dog | Sex | Civil for her in December 2024; seized from you in March 2025 | No. Needs good cause | Weak. The December 2024 records give police a reason that is not about sex |
 | A. The home | Sex | Removed from the home you leased, 24 February 2025 | No. Needs good cause | Not on its own. Use it as background to Claim C |
 | B. The complaint handling | Impairment | A one-day deadline, then your complaint closed without contact, June to September 2026 | Yes, until 18 June 2027 | Yes, if three facts hold (section 5) |
 
@@ -118,7 +118,7 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 
 **Where it is won.** The night of 1 to 2 December 2024. You were the one who reported that people had come into your home, that you had been pushed and that the dog had been taken. Police named you the respondent, took a statement from her the next day about money, and took none from you. For that night the woman in your position is a woman who reports an assault and a home entry by her former partner's friends. Your case is that police would have taken her statement. If the December records (section 9, item 1) show police decided who was the victim without a factual basis, the tribunal can infer that assumptions about men in domestic disputes were a substantial reason (ss 8 and 10(4)), and that decision shaped everything police did about the dog afterwards. If the records show she gave police specific allegations that they assessed, police's explanation stands.
 
-**Verdict.** Not as it stands. Lodge it only once the December records are in, and only if they show what the paragraph above describes.
+**Verdict.** Weak. The December records are now in hand: police issued the notice on her detailed account, a bruise and what they recorded as your partial admissions by phone. Your messages, the building's CCTV and the clinic record contradict her account, but police did not have them. Put that night as impairment discrimination instead: police recorded and relied on her statement that your illness makes you "act crazy and go into rages without warning" (complaint package, counsel's advice, section 5.1).
 
 **The court route police did not use.**
 

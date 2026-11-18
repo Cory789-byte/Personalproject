@@ -10,7 +10,7 @@ I seek access to the following documents for the period 7:00 pm on 1 December 20
 
 1. The recordings of every triple-zero or police-line call about me or Unit 104, including my own call at about 11:05 pm on 1 December 2024.
 2. The job log and occurrence records, including any occurrence recorded for my report that people entered Unit 104, assaulted me and took my dog.
-3. The police protection notice issued at about 8:30 pm on 1 December 2024 naming me as respondent, the statement or application supporting it, and any record of the information relied on in deciding who was the aggrieved and who was the respondent.
+3. For the police protection notice issued at about 8:30 pm on 1 December 2024 (I hold the notice and its statement): any other record of the information relied on in deciding who was the aggrieved and who was the respondent, including any note of my telephone conversation with the officers that evening, and whether any officer checked the building's CCTV or asked for my messages.
 4. Any domestic violence risk or protective assessment completed for either party, and any record of the assessment of which person was the person most in need of protection.
 5. The attending officers' notebooks and body-worn camera footage.
 6. The record of my attendance at the police station after midnight on 2 December 2024, of the documents I showed, and of any decision not to take a statement from me.

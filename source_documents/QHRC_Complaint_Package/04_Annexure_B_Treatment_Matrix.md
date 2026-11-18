@@ -12,6 +12,7 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 | Evidence offered | Ownership documents; CCTV of the entry; triple-zero call [6]–[8] | Her account |
 | Police response | "Let it go"; dog ownership "a civil issue"; no statement [8] | Signed statement taken the next day [10] |
 | Outcome | Nothing further | Statement on file; the complainant already named respondent [5] |
+| How police tested the account | His explanation of the bruise recorded and set aside [5]; his report of the entry and assault not recorded [8] | Her account of having stayed elsewhere for several nights accepted without checking the building's CCTV, which shows her there [4A], [5] |
 
 **Comparator.** A woman who reports to police that people have entered her home, pushed and injured her and taken the dog she paid for, and who offers documents and CCTV.
 
@@ -19,7 +20,7 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 
 **Reply.** The people who entered were not parties to the relationship; an assault by third parties is a criminal complaint whatever the domestic violence designation. Police must investigate where domestic violence is reasonably suspected (Domestic and Family Violence Protection Act 2012 s 100), and a civil response operates "in conjunction with, not instead of, the criminal law" (s 4(2)(f)). The order made two days later let her collect only "undisputed" property [12].
 
-**Attributes.** Sex; impairment (the notice recorded "a mental illness and requires medication" [5]).
+**Attributes.** Impairment: police recorded and relied on her statement that his mental illness "can cause the resp to act crazy and go into rages without warning" [5]. Sex, in addition and in the alternative.
 
 ## Episode 2 — The dog in December and in March
 
