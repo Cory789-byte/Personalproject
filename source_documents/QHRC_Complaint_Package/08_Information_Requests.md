@@ -32,6 +32,21 @@ I seek access to the following documents for the period 7:00 pm on 1 December 20
 3. The record of my status request of 4 April 2025 (reference 9499251).
 4. My complaint of 17 April 2025 (Policelink case 11518211, reference 9535273), the letter and documents attached, the department it was forwarded to, and what was done with it.
 
+## Request A2 — The night of 23 to 24 February 2025 (lodge now)
+
+1. The job log and computer-aided dispatch record for every call about Unit 104 between 7:00 pm on 23 February and 6:00 am on 24 February 2025, showing the time of each call, the priority or code given to each job, each change of priority, the units allocated, and the times they were dispatched and arrived.
+2. The recording of my call to the police line (131 444) beginning at 7:51 pm on 23 February 2025, and any record of what was done with it.
+3. Any record of officers speaking with my friend at the complex on 24 February 2025, of documents he handed to officers, and of any decision not to take his account.
+4. Any record of police receiving or viewing my friend's video of the evening of 23 February 2025, and the date.
+
+## Request E — My earlier complaints about Southport police (lodge now)
+
+1. Policelink service delivery complaint 8933558 (December 2023): the complaint as recorded, the officer it was allocated to, the outcome, and the correspondence.
+2. My complaint about police's response to a welfare concern for a family member who was a minor [insert date and any reference]: the complaint as recorded, who dealt with it, and the outcome.
+3. Complaint COM-24-00832: the complaint as recorded, its classification, the officer it was allocated to, and the outcome.
+4. Any flag, alert, warning or note on my police record that refers to me making complaints about police, with the date it was created and by whom.
+5. For each of the officers involved on 1–2 December 2024, 24 February 2025 and 22 March 2025: whether that officer was the subject of, dealt with, or was told of any of the complaints in items 1 to 3. I do not ask for any officer's personal information beyond that.
+
 ## Request D — Ethical Standards file (lodge now)
 
 For complaint COM-26-01249: the complaint as recorded; the request of 18 June 2026 and any record of the time allowed; the assessment; the identity and position of the decision-maker; any record of my medical condition being considered; and the outcome advice of 10 September 2026 with the documents it relied on.

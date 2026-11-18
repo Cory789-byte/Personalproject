@@ -47,6 +47,7 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 | Status | Tenant 1 on a lease running to 10 April 2025 [2], [14], [43]; bond in his name alone [33] | On neither the lease nor the order |
 | What officers said | "technically he's allowed to be here"; "no one's done anything there" [26] | — |
 | Welfare | No inquiry [28] | Offered support and referral services [28] |
+| The friend each brought | His friend, present at 7:50 pm and filming: asked where he was; his account not taken; his video not viewed; first contacted by police in May 2026 | Her friend: account taken that night; her photographs and documents received (court brief) |
 | Outcome | Arrested 5 minutes after the lease was confirmed [29]–[30]; police told the building manager he was "not the leaseholder" and would "not be going back" [31] | Access reinstated "and her friend" [31] |
 
 **Comparator.** A woman named as Tenant 1, whose co-tenancy the building manager has just confirmed, whom officers have said is allowed to be there.
