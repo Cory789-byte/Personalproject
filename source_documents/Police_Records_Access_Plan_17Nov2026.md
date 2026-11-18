@@ -16,16 +16,16 @@ Start with route 1 for the address, and with your lawyers for the bail papers. D
 
 | Date | What the document shows | Source |
 |---|---|---|
-| 1 Dec 2024 | The police statement for the December notice, job QP2402065947, gives your address as Unit 104, with your mobile number | Police statement QP 0899A, page 1 |
+| 1 Dec 2024 | The police statement for the December notice, job QP2402065947, gives your address as Unit 104, with your mobile number | Police statement QP 0899A, page 1 of 7 (merged police papers, file page 14) |
 | 27 Dec 2024 | A parcel is addressed to you at your mother's unit in Benowa | Your order record |
 | 20 Feb 2025 | You write that you are "paying rent/utilities while temporarily visiting family" | Your email |
 | 24 Feb 2025, before the arrest | At Unit 104 an officer asks "Where are you living?" You: "This is my home. I've been in a car or on the street or in my mother's sofa." The officer: "So you're staying with your mum at the moment?" You: "I'm not staying with my mum. I have nowhere. I have to sleep in my car" | Harmer camera (D50), 00:17:49 to 00:18:15, machine transcript |
-| 24 Feb 2025 | You are arrested at Unit 104 and released "on bail with conditions not to attend the aggrieved's address". The same document calls Unit 104 "the aggrieved's address" | Police statement of 18 March 2025, page 5 |
+| 24 Feb 2025 | You are arrested at Unit 104 and released "on bail with conditions not to attend the aggrieved's address". The same document calls Unit 104 "the aggrieved's address" | Police statement of 18 March 2025 (merged police papers, file page 37) |
 | 24 Feb 2025, interview | In the recorded interview an officer puts that you have "been staying at hotels". You answer "I haven't moved into anywhere because that is my home" and "I'm homeless and I'm sleeping in a car" | Interview, 00:21:06 to 00:21:15 and 00:29:43 |
 | 24 Feb 2025, about 10:38 pm | At your mother's unit she tells an officer there was an "agreement between alexia and corey that it'd be two to three weeks while mum was here it has extended out to 10 weeks". The officer says of Unit 104 "there's no evidence that he's actually living there" and "There's no men's clothes." | Police camera, machine transcript |
 | After the arrest | The police court brief, which carries your watch-house photo number, gives "Address: 158 SCARBOROUGH ST Ste 104", says you are "currently residing at Unit 104", and lists your mobile number | Court brief (D11) |
 | 18 Mar 2025, 2:15 pm | The handwritten notice 493283, issued by the same officer who rang the building manager on 24 February: "Address for service (if any): 104, 158 Scarborough St, Southport" | Police notice |
-| 18 Mar 2025 | The typed statement for that notice, under the same job number as the December statement, gives your address as "MARINA RESIDENCES, Unit 207W, 1 MARINA DR, BENOWA". Your mobile number and her address are left blank. It says you had not "resided at the address for some time prior to police attending". This is the earliest record of the Benowa address | Police statement QP 0899A, pages 1 and 7 |
+| 18 Mar 2025 | The typed statement for that notice, under the same job number as the December statement, gives your address as "MARINA RESIDENCES, Unit 207W, 1 MARINA DR, BENOWA". Your mobile number and her address are left blank. It says you had not "resided at the address for some time prior to police attending". This is the earliest record of the Benowa address | Police statement QP 0899A (merged police papers, file pages 29 and 39) |
 | 21 Mar 2025 | The court sends a notice of adjournment to you at your mother's unit | Court notice |
 | 22 Mar 2025 | You tell police "I don't have a home at the moment" | Police camera, machine transcript |
 | 23 Mar 2025 | First breach notice to your mother | Referred to in the manager's later email. Not in your papers |
