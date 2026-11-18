@@ -99,8 +99,8 @@ These are the seven things the other side will press. Each needs your exact acco
 3. **The dog papers.** Your messages of 16 to 19 December 2024 and your signature on the transfer.
 4. **What happened inside the unit with her friend.** Her friend's videos and your own footage decide this.
 5. **The leasing manager's statement of 27 May 2026.** She now says that, from her perspective, you were off the lease once she had your notice. Her own messages of 22 and 27 February and 6 March 2025 say the new lease was still to come. See the full case, section 4 and Annex F.
-6. **Your messages before she left.** About 12 February: "When you leave I will take my animals ... I will take Romeo then". 14 February: "if you're in Perth how could you even contest anything?" The prosecution will say you waited until she was away. The answer: you said it in writing to her, management sent her an entry notice, and you rang police as you went in.
-7. **The two attendances.** Her friend's statement has you leaving with the dog after about 7:50 pm and back at about 1:50 am, before police arrived at about 1:55 am. Your lawyers need your account of both.
+6. **Your messages before she left.** About 12 February: "When you leave I will take my animals ... I will take Romeo then". 14 February: "if you're in Perth how could you even contest anything?" The prosecution will say you waited until she was away. The answer: you went while she was away so as not to see her. On your friend's video, when her friend told you to wait until she got back, you said she was saying she would keep all your things, and that you did not want to see the person you had just paid to separate from (your account). You also said it in writing to her, management sent her an entry notice, and you rang police as you went in.
+7. **The two attendances.** Her friend's statement has you leaving with the dog after about 7:50 pm. Police met you back at the unit at about 1:56 am, and an officer said "She's off the barricade at the moment" (D59). Your lawyers need your account of both.
 
 ## 5. What each body is asked to decide
 
@@ -128,6 +128,7 @@ These are the seven things the other side will press. Each needs your exact acco
 7. The bail undertaking and custody record.
 8. Your account of the seven points in section 4.
 9. The leasing manager's emails and texts of December 2024 to March 2025 (full case, section 4).
+10. Your friend's video, with the time of the exchange about waiting until she got back.
 
 ## 8. Law checked
 
