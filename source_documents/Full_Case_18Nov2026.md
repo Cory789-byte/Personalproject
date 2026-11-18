@@ -1,11 +1,14 @@
 # The full case
 
-Cory Lea Shepherd and the Queensland Police Service. 18 November 2026, third version, after two passes through the Sibley files in your Drive. For your lawyers.
+Cory Lea Shepherd and the Queensland Police Service. 18 November 2026, fourth version, after two passes through the Sibley files in your Drive and a check against the decided cases. For your lawyers.
 
 Every fact here comes from a police recording, a police or court document, an independent person or your own records, and the source is given. Where something rests on your account alone, it says so. Camera and interview lines are from machine transcripts whose speaker labels are unreliable: check each one against the footage at the time given before it is relied on. The copies of text messages read for this version do not show which side of the screen each message sits on: check the originals before saying who wrote a line.
 
 **New since the first version.**
 
+- The verdict on each strand, tested against the decided cases, is in "Does it succeed?" (18 November 2026).
+- The entry charge needs proof that you stole the dog. The court brief relies on the change-of-owner form you signed in December 2024, and alleges you forced your way through a barricade at about 1:55 am (section 4).
+- The full correction to the Case Study (Annex B, and "Your Case Study, checked against the record").
 - Your lease ran to 10 April 2025, and your notice of intention to leave was "Without grounds" with "Immediately" as the leaving date, so it could not operate before 10 April 2025 (section 4).
 - Your notice gave Unit 104 as your forwarding address (section 5).
 - Two companion documents: the police records matter and the discrimination case (section 13).
@@ -149,6 +152,7 @@ All times are Queensland time.
 
 **What the prosecution must prove.**
 
+- For the entry charge as it stands: that you entered or were in the unit and committed an indictable offence there (Criminal Code s 421(2)). The court brief makes that offence the taking of the dog at about 8 pm, and relies on the change-of-owner form you signed in December 2024. Entry alone is not this offence. If the taking of the dog is not stealing, this charge fails.
 - For trespass: that your entry was unlawful. The charge turns on whether you had the right to be in the home you leased.
 - For the breach: that what you did was domestic violence towards her. She was not there. She was in Perth and flew home overnight; police rang her on the plane (D59, 1:58 am and 2:11 am), and she got home at about 8:15 am (her statement, para 28). At 2:10 and 2:17 am the officers said nothing in the order had been breached by your being there.
 
@@ -214,7 +218,7 @@ What it means:
 - **The fobs and keys.** The building manager told police he had been told the fobs were lost or stolen. In the interview the officer put that you gave "unilateral permission to cancel the fobs", and used the joint tenancy to say that trying to have her friend removed was "an exercise in control over your partner". Police seized a key and a black fob from you. That evening an officer told your mother it was "a master key for that scion unit" (D59, 10:19 pm). Your lawyers need your account of each key and fob you held and who gave it to you.
 - **The building manager's paragraph 25:** "neither Cory Shepherd nor Alexia Negro were residing in the apartment at that time". The question is your right to enter, not where you slept. The same paragraph says her friend was "not an authorised occupant under the lease agreement, nor an approved guest or visitor".
 - **Your own words about where you were staying.** Your email of 20 February says you were "temporarily visiting family". A message the building manager passed on says "a temporary stay with my mother". The answer: a short arrangement while her family visited, which your mother described to police as "two to three weeks while mum was here", and your sister's partner's draft affidavit as staying "periodically". Your lease, bond and belongings stayed at Unit 104, and on 22 February you declared it your home.
-- **The two attendances.** Her friend's statement has the door opening at about 7:50 pm, you saying "get out of my place", a friend of yours filming, and you leaving with the dog (D10, paras 9 to 14). Her paragraph 15, about 1:50 am, is partly unreadable: it mentions the front door and the barricade, but the copy does not show who opened the door. Page 3 of her four pages is missing from your copy. Police met you at the unit at about 1:56 am, and an officer said "She's off the barricade at the moment" (D59). The footage will show who opened the door. Your lawyers need your account of both attendances, and the missing page.
+- **The two attendances.** Her friend's statement has the door opening at about 7:50 pm, you saying "get out of my place", a friend of yours filming, and you leaving with the dog (D10, paras 9 to 14). Her paragraph 15, about 1:50 am, is partly unreadable: it mentions the front door and the barricade, but the copy does not show who opened the door. Page 3 of her four pages is missing from your copy. Police met you at the unit at about 1:56 am, and an officer said "She's off the barricade at the moment" (D59). The court brief goes further: her friend had put a bookshelf against the door and tied a dog lead to the handle, and you "forced your way through this barricade" to collect your mattress and other things (court brief, charge 3 facts). The footage will show who opened the door. Your lawyers need your account of both attendances, and the missing page. The brief also leaves out the building manager's confirmation of the lease on speaker at 2:28 am.
 - **Your messages before she left.** About 12 February: "When you leave I will take my animals ... I will take Romeo then". 14 February: "if you're in Perth how could you even contest anything?" (her statement, para 14). The prosecution will say you waited until she was away. The answer: you went while she was away so as not to see her. On your friend's video, when her friend told you to wait until she got back, you said she was saying she would keep all your things, and that you did not want to see the person you had just paid to separate from (your account; you paid the Registry fee to end the civil partnership on 22 February). That is the "escape" in your interview. You also said what you intended, in writing, to her, after she had offered that you could keep him while she was away (your account); management sent her an entry notice on 19 February; on 20 February you wrote "I am legally able to enter our residence being that I didn't consent for 3 months" (her statement, para 20); and you rang police as you went in.
 - **Her friend's paragraph 5.** It says your former partner told her that once the real estate agent was involved the building manager "changed his tune" and would not let you in. That is second-hand. The building manager's declaration (paras 26 and 27), his words on camera at 2:28 am, and the leasing manager's text of 22 February ("entry, I am not sure") say otherwise.
 - **A served message with no sender shown:** "Maybe you could even keep it while I was away". You say she wrote it, and that she said you could keep him until you ended the relationship. Give your lawyers the whole chat in order, so they can show her offer, your reply, and when it changed.
@@ -309,7 +313,7 @@ You must prove each claim: a transitional rule keeps the old burden of proof for
 
 **Time.** Claim B is in time until 18 June 2027. Claims A and C are out of time and need good cause: a criminal case on the same events is still running; your health; you took the same events to the Commission earlier (EDR19098); and nothing is lost to police because the footage exists and you asked for it to be kept.
 
-**When.** After 6 January 2027, when the Human Rights Act complaint about the outcome letter becomes available, and after your lawyers have read it.
+**When.** Lodge the anti-discrimination complaint in early December 2026, after your lawyers have read it, and add the Human Rights Act complaint about the outcome letter from 6 January 2027. The ready-to-lodge package, with counsel's advice on prospects, is in the folder "QHRC_Complaint_Package".
 
 **What to ask for.** A written acknowledgment that you were named on the lease, that the order did not exclude you, and that you reported the taking of the dog on 1 December 2024; correction of the police record; reassessment of your complaint by an officer outside Ethical Standards and Southport, with reasonable time to respond; an apology; compensation.
 
@@ -368,7 +372,7 @@ You must prove each claim: a transitional rule keeps the old burden of proof for
 4. Send the court-papers request (Annex D), the tribunal-file request (Annex E) and the bond request (Annex G).
 5. On 20 November, send the Commission letter with the correction (Annex B). Send the same correction to the Deputy Commissioner's office.
 6. Answer the Information Commissioner's question of 19 November 2025.
-7. Ask your lawyers about the time limit for a property claim for the dog between former partners. It runs from separation, which your papers put between November 2024 and February 2025.
+7. **Urgent.** See a family lawyer about a property claim for the dog and your belongings left in the unit. The limit is two years after the relationship ended, meaning when you stopped living together as a couple (Family Law Act 1975 (Cth) s 44(5)(a)(i)). Your papers put that between November 2024 and February 2025. If it was November 2024, the two years are ending now; if early December 2024, they end in early December 2026. After that you need the court's leave, which requires hardship (s 44(6)).
 8. Ask your sister's partner to check the date in his affidavit against section 9, item 11, before he signs anything.
 
 **When the records come back (about six weeks).**
@@ -377,9 +381,9 @@ You must prove each claim: a transitional rule keeps the old burden of proof for
 10. Decide on the privacy complaint.
 11. Lodge the next information requests, one at a time.
 
-**After 6 January 2027.**
+**Early December 2026, then from 6 January 2027.**
 
-12. Lodge the human rights and discrimination complaint, after your lawyers have read it.
+12. Lodge the discrimination complaint (complaint package, documents 02 to 06) in early December, after your lawyers have read it. From 6 January 2027, add the human rights complaint about the 2026 outcome.
 
 **When the charges end.**
 
@@ -424,7 +428,7 @@ Send to the police Right to Information and Privacy Unit with certified identifi
 
 ## Annex B. Correction to the Case Study
 
-Correction to my Case Study of 14 July 2026. I stated that a call was made from my telephone at 3:26 am on 24 February 2025 while I was in custody. That is wrong, and I withdraw it. My carrier's record is in Sydney time. In Queensland time the call was at 2:26 am, before my arrest, and it is the speaker call recorded on the attending officer's camera. On that call, at about 2:28 am, the building manager told police that both names were on the lease. I had given that time as 1:54 am. I made the same statement about calls from my telephone in my email to Policelink of 17 April 2025 (case 11518211), and I withdraw it there too.
+The full correction, with eleven numbered points, is in "Your Case Study, checked against the record" (18 November 2026), section 6. It replaces the shorter text that was here. It covers: the calls from your phone; the lease confirmation at 2:28 am and the arrest at 2:35 am; the bond record; the dog's registration; the date of the visit to your mother's home; the calls to your sister's partner; the place of the seizure; the address times in the interview; the stop on 22 March 2025; your dog and phone application; and the notices to your mother.
 
 ## Annex C. Information requests to police
 

@@ -1,0 +1,88 @@
+# Annexure A — Chronology
+
+Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Police Service). Times are Queensland time (AEST). Camera times are from the body-worn camera releases; contested lines are to be checked against the burnt-in clock on the source video before any hearing.
+
+**Basis column.** *Record* means a police, court, tribunal, bond-authority or agency document, or police camera. *Third party* means a document from a person outside the dispute. *Complainant* means the complainant's own account, which he will give in evidence.
+
+## Part 1 — Before 1 December 2024
+
+| # | Date and time | Event | Source | Basis |
+|---|---|---|---|---|
+| 1 | 10–11 Dec 2023 | The complainant pays $3,150 and $350 for the dog, Romeo. The second payment is marked "Cory Alexia Pom" | Bank records | Record |
+| 2 | 11 Apr 2024 | Joint lease of Unit 104, 158 Scarborough Street, Southport, for 12 months to 10 April 2025. The complainant is Tenant 1 | Lease (D1); leasing manager's emails of 27 Jan, 9 Feb and 28 Feb 2024 | Record |
+| 3 | 16 Jul 2024 | A veterinary clinic invoices the complainant for the dog | Vet invoice | Record |
+| 4 | Before Dec 2024 | The dog is registered with the local council in the complainant's name | Council registration | Record |
+
+## Part 2 — The night of 1 to 2 December 2024
+
+| # | Date and time | Event | Source | Basis |
+|---|---|---|---|---|
+| 5 | 1 Dec 2024, 8:30 pm | Police issue a police protection notice naming the complainant as respondent. Its only condition is good behaviour. His version is taken by telephone. The notice records his address as Unit 104 and that he has "a mental illness and requires medication" | Police protection notice and statement, job QP2402065947 | Record |
+| 6 | 1 Dec 2024, about 11:05 pm | People the complainant does not know enter Unit 104. He is pushed and his ankle is injured. The dog is taken. He calls triple zero | Complainant's filed account; CCTV stills | Complainant; Record (CCTV) |
+| 7 | 1 Dec 2024, about 11:15 pm | Police arrive. He reports the assault, the entry and the taking of the dog, and offers documents showing the dog is his | Complainant's filed account | Complainant |
+| 8 | 2 Dec 2024, about 12:05 am | At the police station he shows officers his documents and asks that those who entered be charged. Officers tell him to "let it go" and that ownership of the dog is "a civil issue" in which police will not intervene. No statement is taken from him | Complainant's filed account | Complainant |
+| 9 | 2 Dec 2024, to about 1:20 am | Police escort his former partner to Unit 104 to collect belongings. An officer tells him she will collect only uncontested personal items. She leaves with officers carrying her bags. The dog stays with her | Complainant's filed account | Complainant |
+| 10 | 2 Dec 2024 | Police take a signed statement from his former partner alleging money was taken from her wallet | Her statement | Record |
+| 11 | Dec 2024 | Police record the complainant saying "some of the animals are under his name and the other animals are under the Agg name" | Police statement (repeated 18 Mar 2025) | Record |
+
+## Part 3 — December 2024 to February 2025
+
+| # | Date and time | Event | Source | Basis |
+|---|---|---|---|---|
+| 12 | 3 Dec 2024 | Temporary protection order by consent, without admissions: good behaviour; the complainant must allow her to enter Unit 104 with police by 1 January 2025 "to recover undisputed personal property". No exclusion condition. Nothing about the dog | Order MAG-00196566/24(4) (D5) | Record |
+| 13 | 6 Dec 2024 | The leasing manager will "check with Cory to see what he wanted to do with his lease". The complainant agrees by email that he will come off and she will pay a new bond | Leasing manager's statement, paras 4 to 8 | Record |
+| 14 | 7 Dec 2024, 5:13 pm | Notice of intention to leave: "Without grounds"; leaving "Immediately (minimum notice periods apply-see overleaf)"; forwarding address Unit 104 | Notice (D4) | Record |
+| 15 | 8 Dec 2024, 7:23 am | Leasing manager to the complainant: "As long as either of you are staying, it is okay." | Email | Record |
+| 16 | 16–19 Dec 2024 | While she has the dog, at her request, the complainant signs a microchip-registry change-of-owner form. She posts it | Messages | Record |
+| 17 | 4 Feb 2025 | The complainant writes: "I also have every legal right to still contest ownership even if in your name." | Message | Record |
+| 18 | About 12 Feb 2025 | The complainant writes: "When you leave I will take my animals"; "we can discuss ownership terms and possibly co parenting when you are back". Her reply: "The animals are in my care and my ownership and I take the decision." On the complainant's account she had earlier written "I won't restrict you from the animals" and "you can trust me", and offered that he could keep the dog while she was away | Texts served July 2026; camera D48 (second clip, 00:03:39–00:03:50) | Record; Complainant |
+| 19 | 17 Feb 2025 | She leaves for Perth | Her friend's statement, para 3 | Record |
+| 20 | 19 Feb 2025 | An entry notice is put under the door and emailed to her | Building manager's declaration, para 24 | Third party |
+| 21 | 20–22 Feb 2025 | The complainant asks the managers to confirm his lease. The leasing manager writes on 22 Feb: "I think the best way is to refund the bond to Corey and you start the new lease ... I will prepare the lease only your name". The building manager tells him he keeps the right to enter for his belongings | Emails; building manager's declaration, paras 26–27 | Record; Third party |
+| 22 | 22 Feb 2025 | The complainant posts papers to end the registered relationship, declaring his home address as 158 Scarborough Street | Statutory declaration; post receipt | Record |
+
+## Part 4 — 23 to 25 February 2025
+
+| # | Date and time | Event | Source | Basis |
+|---|---|---|---|---|
+| 23 | 23 Feb 2025, about 7:50 pm | The complainant attends Unit 104. The events inside the unit are the subject of charges that he denies. His account is in Schedule X (held until the criminal proceedings end) | Court brief (D11/D62); Schedule X | — |
+| 24 | 23 Feb 2025, 7:51 pm | The complainant's 37-minute call to the police line 131 444 begins | Carrier log (shows 8:51 pm Sydney time) | Record |
+| 25 | 24 Feb 2025, about 1:54–1:56 am | Police arrive and meet the complainant at the unit | Camera D59 | Record |
+| 26 | 24 Feb 2025, 2:02–2:17 am | On camera: "So he was allowed to be here." — "How is he allowed to be here?" — "According to the order that it says that he's allowed to be here." Then: "technically he's allowed to be here"; "there's no contact conditions in there, so no one's done anything there" | Camera D59 (2:02:02–2:02:10, 2:10:38, 2:17:02) | Record |
+| 27 | 24 Feb 2025, about 2:11 am | "Where are you living?" The complainant: "This is my home ... I'm not staying with my mum. I have nowhere. I have to sleep in my car" | Camera D50, 00:17:49–00:18:15 | Record |
+| 28 | 24 Feb 2025, about 2:23 am | An officer asks her friend whether she wants support or referral services. No welfare inquiry is made of the complainant | Camera D59 | Record |
+| 29 | 24 Feb 2025, 2:27:51–2:29:49 am | On speaker, an officer asks the building manager "whose name is on the lease?". The building manager: both must sign the notice, "Corey and Alexia"; "as far as I'm concerned, they're both allowed to be there" | Camera D59 | Record |
+| 30 | 24 Feb 2025, 2:35:07 am | "At this time you are under arrest for breach of the domestic violence order." | Camera D59 | Record |
+| 31 | 24 Feb 2025, 5:23:53–5:28:37 am | An officer rings the building manager: "you need to reinstate those immediately because cory's not the leaseholder"; a signed document is "enough to take him off it"; police have not spoken to the property manager but "have seen email"; "Corey will not be going back ... for foreseeable future"; "you're inconveniencing a domestic violence victim survivor who's been put through a lot by her partner". The building manager answers that the change "was not accepted" and "he's still on the lease" | Camera D59 | Record |
+| 32 | 24 Feb 2025, from about 5:48 am | Recorded interview. The interviewing officer calls her "the other leaseholder" twice and asks "Who is the co-leasehold[er]?"; says trying to have her friend removed was "an exercise in control over your partner". The complainant: "I haven't moved into anywhere because that is my home"; "I'm homeless and I'm sleeping in a car" | Interview D29 (00:21:15, 00:29:43, 00:34:31, 00:35:57, 00:38:18–00:38:36) | Record |
+| 33 | 24 Feb 2025 | Bail: not to attend the aggrieved's address or contact the aggrieved or a named person. The bond authority's record "as of 24 February 2025" shows the complainant as the only bond contributor | Police statement of 18 Mar 2025; bond acknowledgement (D3) | Record |
+| 34 | 24 Feb 2025, from about 10:17 pm | Two officers at the complainant's mother's home about the dog: "we're trying to sort of assist her all we can"; an officer tells his mother he had "essentially terrorized a female person" | Camera D59 (10:17 pm onward, 10:22 pm) | Record |
+| 35 | 25 Feb 2025 | "APPLICATION IS WITHDRAWN, TPO VACATED." Her six-page statement is taken at Southport. The bond refund reaches the complainant | Court record (D6); her statement; building manager's text | Record |
+| 36 | 27 Feb–6 Mar 2025 | Her bond is notified on 27 Feb; asked if she has re-signed, the leasing manager answers "No not yet"; on 6 Mar, "I must forgotten all about it till she returned her signed lease" | Leasing manager's statement, para 16; texts | Record |
+
+## Part 5 — March and April 2025
+
+| # | Date and time | Event | Source | Basis |
+|---|---|---|---|---|
+| 37 | 3–4 Mar 2025 | Police telephone the complainant's sister's partner four times about the dog and question his sister, then 16, on one call | Sister's partner's draft affidavit | Third party (draft) |
+| 38 | 18 Mar 2025 | The officer with registered number 39627 issues handwritten notice 493283 giving Unit 104 as the complainant's address for service. The typed statement for the same notice, under the December job number, gives his mother's unit as his address, leaves his mobile blank, says he had not "resided at the address for some time", and calls Romeo "the aggrieved's dog" | Notice 493283; statement QP 0899A | Record |
+| 39 | 21 Mar 2025 | Second temporary protection order. The court writes to the complainant at his mother's unit | Court notice | Record |
+| 40 | 22 Mar 2025, 8:45 am | Police seize the dog. The complainant shows receipts and civil partnership papers: "It's my dog" — "It doesn't matter"; "It's not stolen. I own the dog"; "It's a civil, it's a civil thing" — "It would have been civil if you didn't get charged for stealing it"; "regardless of what paperwork he has, we've got to seize the dog and then he's got to go through the courts to get the dog back". Receipt 137237 leaves blank the box for any other owner; its printed notes say that where more than one person claims ownership "an application will be made under the PPRA for an order concerning disposal ... you will be advised if this is to occur" | Camera D48 (00:00:44–00:01:09; second clip 00:00:36–00:01:04, 00:04:14–00:04:26); receipt 137237 (D30) | Record |
+| 41 | 23 Mar, 12 Apr, 19 Apr 2025 | The complainant's mother receives a breach notice, a notice to leave, and a second breach notice citing "unauthorised co-tenants" | Notices; manager's email of 19 Apr 2025 | Third party |
+| 42 | 4 Apr 2025 | Policelink: the complainant's status request "does not match our records". His online report (case 11450236) is declined: "this matter has already been reported to Police with advice provided". The second order is varied by consent | Policelink emails 9499251, 9499402; varied order | Record |
+| 43 | 10 Apr 2025 | Her own lease of Unit 104 begins. The complainant's fixed term ends | Lease (D52) | Record |
+| 44 | 17 Apr 2025 | The complainant complains in writing to police (Policelink case 11518211): the dog was seized despite his civil partnership papers and receipts; visits to a friend, his mother's home late at night, and contact with his sister. Reply: documents "forwarded to the appropriate department". No outcome is known | Email and reply | Record |
+| 45 | Before Aug 2025 | Police release the dog to her. No application to a magistrate under s 694 is made. The complainant is not notified of any application | Complainant's account of the August 2025 hearing | Complainant |
+
+## Part 6 — August 2025 to November 2026
+
+| # | Date and time | Event | Source | Basis |
+|---|---|---|---|---|
+| 46 | 13 Aug 2025 | The complainant's application for the dog and phone (M14056/25) is dismissed; police say the dog has already been given to her | Complainant's account; court file to be obtained | Complainant |
+| 47 | 22 Aug 2025 | Police index to brief: the section for witnesses who would help the defence is blank | Index QP 0541 | Record |
+| 48 | 11 Sep 2025 | The Information Commissioner closes review 318762 on police agreeing to process a request for the footage | Commissioner's letter (D46) | Record |
+| 49 | 27 May 2026 | The officer with registered number 39627 takes a statement from the leasing manager: "from my perspective" he was off the lease once she had his notice | Statement | Record |
+| 50 | 18 Jun 2026 | Ethical Standards Command requires particulars of his complaint by close of business the next day | Email | Record |
+| 51 | 14 Jul 2026 | Case Study complaint to the Deputy Commissioner, copied to the Crime and Corruption Commission | Case Study | Record |
+| 52 | 10 Sep 2026 | Ethical Standards finalises the complaint without contacting him. The outcome refers to no human right and not to his condition | Outcome advice | Record |
+| 53 | 29 Oct and 5 Nov 2026 | The complainant writes to Ethical Standards asking who decided and for the records to be preserved. No reply | Emails | Record |

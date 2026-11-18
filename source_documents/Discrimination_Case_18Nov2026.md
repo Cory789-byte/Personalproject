@@ -1,6 +1,6 @@
 # The discrimination case
 
-Cory Lea Shepherd and the State of Queensland (Queensland Police Service). Third version, 18 November 2026. For your lawyers to settle before anything is lodged. It replaces the case plan of 11 November 2026.
+Cory Lea Shepherd and the State of Queensland (Queensland Police Service). Fourth version, 18 November 2026, tested against the decided cases. For your lawyers to settle before anything is lodged. It replaces the case plan of 11 November 2026. The verdict on each claim is in "Does it succeed?" (18 November 2026), section 7.
 
 Every fact has a source. Camera and interview lines are from machine transcripts whose speaker labels are unreliable: check each one against the footage. Some of this evidence came to you through the criminal case. Ask your lawyers which of it can be used outside that case before anything is lodged.
 
@@ -14,15 +14,17 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 
 **The three claims.**
 
-| Claim | Attribute | What happened | In time? |
-|---|---|---|---|
-| A. The home | Sex | Removed from the home you leased, 24 February 2025 | No. Needs good cause |
-| C. The dog | Sex | Civil for her in December 2024; seized from you in March 2025 | No. Needs good cause |
-| B. The complaint handling | Impairment | A one-day deadline, then your complaint closed without contact, June to September 2026 | Yes, until 18 June 2027 |
+| Claim | Attribute | What happened | In time? | Verdict |
+|---|---|---|---|---|
+| C. The dog | Sex | Civil for her in December 2024; seized from you in March 2025 | No. Needs good cause | Not as it stands. The December 2024 records decide it |
+| A. The home | Sex | Removed from the home you leased, 24 February 2025 | No. Needs good cause | Not on its own. Use it as background to Claim C |
+| B. The complaint handling | Impairment | A one-day deadline, then your complaint closed without contact, June to September 2026 | Yes, until 18 June 2027 | Yes, if three facts hold (section 5) |
 
 **Where.** One complaint to the Queensland Human Rights Commission, under the Anti-Discrimination Act 1991 and the Human Rights Act 2019.
 
-**When.** After 6 January 2027, when the human rights part becomes available, and after your lawyers have read it. Earlier if the criminal case ends first.
+**When.** Lodge the anti-discrimination complaint in early December 2026, after the information requests are in, the doctor's report is in hand and your lawyers have read it. Add the human rights complaint about the 2026 decision from 6 January 2027. The ready-to-lodge version is in the complaint package (folder "QHRC_Complaint_Package", documents 02 to 06), with counsel's advice on prospects (document 01).
+
+**What the decided cases show.** In every Queensland decision found where a direct discrimination claim against police was decided on its merits, the claim failed, usually because the tribunal treated the other person's report to police as part of the comparison and found no more than a possibility that the attribute mattered (Watego v State of Queensland [2022] QCAT 341 at [243], [245]; DM v State of Queensland [2025] QCAT 517 at [23]). The two claims that succeeded against police were indirect impairment claims about rigid processes (Hunter v State of Queensland [2015] QCAT 179; Harding v State of Queensland (QPS) [2025] QCAT 415). That is why Claim B leads, and why Claim C waits on the December records.
 
 **What you ask for.**
 
@@ -39,13 +41,14 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 | Attribute | Your sex (male), and your impairment | Anti-Discrimination Act s 7(a) and (h) |
 | Assumptions count | Treatment based on what is often assumed about men in domestic disputes is treatment based on sex | s 8 |
 | Direct discrimination | You were treated worse than a woman was, or would have been, in circumstances that are the same or not materially different | s 10(1) |
+| How the comparison is made | The tribunal imagines a woman in your position and asks how police would have treated her "in response to occurrences of the same kind". The circumstances include what police were responding to. A complaint fails where there is "no evidence" she would have been treated better | Woodforth v State of Queensland [2017] QCA 100 at [29], [32] to [35], [54] |
 | Motive does not matter | Police need not have meant to treat you worse | s 10(2) and (3) |
 | More than one reason | Your sex need only be a substantial reason | s 10(4) |
 | Indirect discrimination | A requirement you could not meet because of your impairment, which more people without it could meet, and which was not reasonable | s 11 |
-| Where the law applies | Police performing functions or using powers under State law | s 101 |
+| Where the law applies | Police performing functions or using powers under State law. Police dealing with a complaint are "within at least s 101" | s 101; Woodforth at [24] |
 | Who answers | The State answers for its officers | s 133 |
 | Who proves what | You prove each claim on the balance of probabilities. Police must prove that the one-day requirement was reasonable, and must prove any exemption. The newer rule that would shift more of the burden to police does not apply to these events | s 285AA, applying former ss 204, 205 and 206 |
-| Police's exemption | Acts "necessary to comply with, or ... specifically authorised by" an Act or a court order | s 106 |
+| Police's exemption | Only acts "necessary to comply with, or ... specifically authorised by" a court order, or "an existing provision of another Act", meaning a provision in existence when s 106 began in 1992. The police powers Act (2000) and the protection order Act (2012) came later, so the powers police used under them are not exempt. Police must prove any exemption | s 106(1)(a), (b) and (2); former s 206 |
 | Time | One year. Later complaints need good cause | s 138 |
 | Mixed timing | With an in-time claim, the Commission can accept it and decide on the out-of-time claims after trying conciliation | s 141A |
 | Human rights | Police must act compatibly with human rights and give them proper consideration. Complain to police first and wait 45 business days. The Commission may refuse a complaint made more than a year after the act | Human Rights Act ss 58, 65 and 70(1)(d) |
@@ -74,8 +77,8 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 **The reply.**
 
 - Before the arrest, the officers said you were allowed to be there and that nothing in the order had been breached.
-- The arrest power is a power, not a duty. Section 106 covers acts "necessary to comply with, or ... specifically authorised by" an Act. Telling the building manager you were not the leaseholder, after he had confirmed the lease, was neither.
-- If the charges end in your favour, the arrest stops explaining the exclusion. If they do not, this claim fails. Hold it until the criminal case ends.
+- The arrest power is a power, not a duty. Section 106 covers only acts under a court order or under a provision of an Act that existed in 1992. The arrest power is in the Police Powers and Responsibilities Act 2000, so s 106 does not reach it. Telling the building manager you were not the leaseholder, after he had confirmed the lease, was not authorised by any Act.
+**Verdict.** Not as a separate claim. Under the test in section 2 the comparison is a woman arrested on the same allegations, and nothing in the evidence shows police would have left her in the unit. An arrest is not shown to be discriminatory because the charges later fail. Keep these facts in the complaint as background to Claim C: they show police treating her as the person to protect and you as the person to remove. Use them in full in the criminal case and in the costs application.
 
 ## 4. Claim C: the dog
 
@@ -111,6 +114,12 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 2. **The comparison.** A woman, in the same dispute, over the same dog, with the same police service. "Civil" means police leave the dog where it is and the person without it goes to court. Police applied that rule when she had the dog and reversed it when you had it.
 3. **Sex as a substantial reason.** The officer said the paperwork did not matter. The reason given was her allegation and the charge. Your allegation in December, made with documents in your hand, did not get a statement taken.
 
+**How the tribunal will test it.** The tribunal will not compare you with her. It will picture a woman in your position in each episode and ask how police would have treated her (section 2). For February and March, that woman is named as respondent in a protection order, took the dog from the shared home while the man was away after signing the change-of-owner form, and is reported by him. Police will say they would have charged her and seized the dog too, because of the order and the registration, not because of sex. On the present evidence the tribunal will accept that.
+
+**Where it is won.** The night of 1 to 2 December 2024. You were the one who reported that people had come into your home, that you had been pushed and that the dog had been taken. Police named you the respondent, took a statement from her the next day about money, and took none from you. For that night the woman in your position is a woman who reports an assault and a home entry by her former partner's friends. Your case is that police would have taken her statement. If the December records (section 9, item 1) show police decided who was the victim without a factual basis, the tribunal can infer that assumptions about men in domestic disputes were a substantial reason (ss 8 and 10(4)), and that decision shaped everything police did about the dog afterwards. If the records show she gave police specific allegations that they assessed, police's explanation stands.
+
+**Verdict.** Not as it stands. Lodge it only once the December records are in, and only if they show what the paragraph above describes.
+
 **The court route police did not use.**
 
 - When two people claim a seized thing, a police officer may ask a magistrate to declare who owns it, and must give every claimant notice of the hearing (Police Powers and Responsibilities Act 2000 s 694).
@@ -144,10 +153,12 @@ Every fact has a source. Camera and interview lines are from machine transcripts
 
 **If you answered in time,** drop the deadline and run this part under the Human Rights Act only: the outcome did not give proper consideration to your rights (s 58).
 
+**Verdict.** Yes, if three facts hold: you did not meet the one-day deadline; your treating doctor says your condition is why; and the complaint was closed because of it. Handling a complaint about police is a function under State law, so s 101 covers it, as it covered police dealing with a complaint in Woodforth ([24]). The term is in writing. Police then carry the burden of showing it was reasonable.
+
 ## 6. Police's answers, and the replies
 
 1. **"Everything followed from the notice and the arrest, not from his sex."** The notice had one condition, good behaviour. It did not give her the dog, did not keep you out of the home, and did not stop police taking your statement.
-2. **"It was authorised by law."** Section 106 protects acts necessary to comply with, or specifically authorised by, a law or a court order. Calling one complaint civil and the other a crime, taking one statement and not the other, and telling the building manager you were not the leaseholder were choices. Police must prove the exemption (former s 206).
+2. **"It was authorised by law."** Section 106 protects only acts necessary to comply with, or specifically authorised by, a court order or a provision of an Act that existed when s 106 began in 1992 (s 106(2)). The police powers Act dates from 2000 and the protection order Act from 2012, so s 106 does not cover the powers police used under them. And calling one complaint civil and the other a crime, taking one statement and not the other, and telling the building manager you were not the leaseholder were choices, not things any Act required. Police must prove any exemption (former s 206).
 3. **"By February the dog was hers on paper."** The officer said the paperwork did not matter. The New South Wales register wrote that it has no authority over a dog living in Queensland. No court has decided who owns the dog. The order of 3 December 2024 let her collect only "undisputed" property.
 4. **"She took the animals because he said he would take cats to a shelter."** Your message was about two foster cats, not the dog, and police said civil on the night.
 5. **"Her friend made a cross-complaint in December too, and nobody was charged."** Her complaint about money got a signed statement the next day. Yours got none.
@@ -202,7 +213,7 @@ Item 1 decides how strong Claim C is.
 ## 10. Remedies, and what the tribunal will not decide
 
 - If conciliation fails you can require referral to the tribunal. Each side usually pays its own costs. The tribunal can make orders including compensation (s 209).
-- The tribunal will not decide who owns the dog. Only a property claim does that. Ask your lawyers about the time limit for a property claim between former partners now.
+- The tribunal will not decide who owns the dog. Only a property claim between former partners does that, in the federal family court. The limit is two years after you stopped living together as a couple (Family Law Act 1975 (Cth) s 44(5)(a)(i)). If that was early December 2024, it ends in early December 2026. See a family lawyer this week.
 - The federal route is not used. It covers "services" only, which does not fit a seizure, an exclusion or an arrest, and using both routes lets police argue that one bars the other.
 
 ## 11. Draft complaint (for your lawyers to settle)
@@ -276,4 +287,4 @@ Item 1 decides how strong Claim C is.
 
 ## 13. Law checked
 
-Anti-Discrimination Act 1991 ss 7, 8, 10, 11, 101, 106, 133, 138, 141A, 209 and 285AA, current text, and former ss 204, 205 and 206 as in force before 1 December 2024; Human Rights Act 2019 ss 58, 65 and 70(1)(d); Police Powers and Responsibilities Act 2000 ss 691 to 694, as in force on 13 August 2025; Police Service Administration Act 1990 s 10.24; Kaus v Coaker & Anor [2014] QMC 24 and Anderson v Dunlop & Ors [2009] QMC 14, read on the official Queensland judgments site.
+Anti-Discrimination Act 1991 ss 7, 8, 10, 11, 101, 106, 133, 138, 141A, 209 and 285AA, current text, and former ss 204, 205 and 206 as in force before 1 December 2024; Human Rights Act 2019 ss 58, 65 and 70(1)(d); Police Powers and Responsibilities Act 2000 ss 691 to 694, as in force on 13 August 2025; Police Service Administration Act 1990 s 10.24; Woodforth v State of Queensland [2017] QCA 100, Kaus v Coaker & Anor [2014] QMC 24 and Anderson v Dunlop & Ors [2009] QMC 14, read on the official Queensland judgments site.
