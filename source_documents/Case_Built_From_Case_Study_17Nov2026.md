@@ -1,6 +1,6 @@
 # Your case on its merits
 
-17 November 2026, second version. For your lawyers. Every fact below comes from a police recording, a police document, the court file, your carrier's record or an independent person. Camera and interview lines are from machine transcripts. Speaker labels in them are unreliable, so each line is attributed here by what is said. Check every line against the footage.
+18 November 2026, third version. For your lawyers. Every fact below comes from a police recording, a police document, the court file, your carrier's record or an independent person. Camera and interview lines are from machine transcripts. Speaker labels in them are unreliable, so each line is attributed here by what is said. Check every line against the footage.
 
 ## 1. The case
 
@@ -26,15 +26,16 @@ On 23 February 2025 you went to your own leased home for your belongings, with r
 | 5:27:24 am | The manager: "he's still on the lease so it's nothing has been changed with that" |
 | 5:28:12 am | The officer: "you're inconveniencing a domestic violence victim survivor who's been put through a lot by her partner" |
 | 5:28:37 am | The manager: "you need to sort of listen to his side as well because he's got video footage". The officer: "we have video evidence from both sides so yeah we'll just be fair" |
-| Later on 24 Feb | The recorded interview begins. The officer gives the time as "548"; the transcript places it at 5:48 pm. Check the custody record |
-| About 6:17 to 6:20 pm | In the interview, the officer three times treats your former partner as a joint tenant with you: "the other leaseholder" (00:34:31), "permission to be in there by the other leaseholder, by the contract" (00:35:57), and "Who is the co-leasehold[er]?" (00:38:33) |
+| About 5:48 am | The recorded interview begins: "The time is 548". The officer calls the events "tonight". Check the custody record |
+| About 6:17 to 6:20 am | In the interview, the officer three times treats your former partner as a joint tenant with you: "the other leaseholder" (00:34:31), "permission to be in there by the other leaseholder, by the contract" (00:35:57), and "Who is the co-leasehold[er]?" (00:38:33) |
 
 ## 3. The merits, point by point
 
 **1. It was your home.**
 
-- The tenancy agreement names you as Tenant 1. The bond was in your name and was refunded to you alone (D1, D2, D3).
+- The tenancy agreement names you as Tenant 1 (D1). The bond authority's record "as of 24 February 2025" shows you as the only bond contributor (D3). The money came back to you on 25 February (the building manager's text).
 - On 22 February 2025 the leasing manager confirmed the tenancy "had not been terminated" and that "Only an intent to vacate had been issued" (manager's declaration, para 26).
+- The same day she wrote to your former partner: "I think the best way is to refund the bond to Corey and you start the new lease ... I will prepare the lease only your name and you pay for the bond." On 27 February she said the new lease was "not yet" signed.
 - The manager said so to police on speaker at 2:28 am, and again three times after 5:23 am.
 - In the interview the officer called her "the other leaseholder" twice and "the co-leasehold[er]" once, and spoke of permission given "by the contract". There cannot be another leaseholder unless you are one. At the scene the officers had said they did not know and needed to confirm with the third party. The manager confirmed on speaker at 2:28 am. By the interview, police were working on the basis that the lease existed and you were on it.
 
@@ -67,7 +68,7 @@ On 23 February 2025 you went to your own leased home for your belongings, with r
 
 - 5:23 am: "cory's not the leaseholder". 5:26 am: "we've been given evidence tonight to say that corey is no longer on the lease". The officer had not spoken to the property manager.
 - The manager corrected this each time. Police still required access to be restored for your former partner "and her friend", and said you would not be going back.
-- Later that day, in the interview, the officer three times called her the other leaseholder or co-leaseholder. The officer who had told the manager "cory's not the leaseholder" was in the interview room.
+- Within the hour, in the interview, the officer three times called her the other leaseholder or co-leaseholder. The officer who had told the manager "cory's not the leaseholder" was in the interview room.
 
 **7. Within a day the foundation was gone.**
 
@@ -87,12 +88,13 @@ On 23 February 2025 you went to your own leased home for your belongings, with r
 
 ## 4. Points to meet
 
-These are the four things the other side will press. Each needs your exact account, given to your lawyers.
+These are the five things the other side will press. Each needs your exact account, given to your lawyers.
 
 1. **The fobs.** The manager told police he had been told the fobs were lost or stolen, and that you told him. In the interview an officer put that you gave "unilateral permission to cancel the fobs". Your answer there was that decisions about who stays in a jointly leased home are made together, and that you did not know the person. The officer used the same joint tenancy against you on this point: that she could permit her friend to stay, and that trying to have the friend removed was "an exercise in control over your partner" (00:38:18 to 00:38:36). Your lawyers need your account of who decides who stays in a jointly leased home.
 2. **The notice dated 7 December 2024.** An officer showed you a notice "effective immediately to vacate" with your signature. Your answer: "I signed saying two to three weeks if she was scared." Management says it was never accepted.
 3. **The dog papers.** Your messages of 16 to 19 December 2024 and your signature on the transfer.
 4. **What happened inside the unit with her friend.** Her friend's videos and your own footage decide this.
+5. **The leasing manager's statement of 27 May 2026.** She now says that, from her perspective, you were off the lease once she had your notice. Her own messages of 22 and 27 February and 6 March 2025 say the new lease was still to come. See the full case, section 4 and Annex F.
 
 ## 5. What each body is asked to decide
 
@@ -107,7 +109,7 @@ These are the four things the other side will press. Each needs your exact accou
 1. **The custody call.** Your carrier's log is in Sydney time. The "3:26 am" call is the 2:26 to 2:30 am speaker call, before your arrest. Withdraw that allegation. The manager's declaration carries the same one-hour shift.
 2. **The lease confirmation.** It is on camera at 2:28 am. Use that, not the 1:54 am time.
 3. **The interview and your address.** I said earlier the interview had nothing on your address. That was too narrow. It has no address question at 00:05:01, but at 00:21:15 and 00:29:43 you tell police you have no other home and are sleeping in a car. Cite those times.
-4. **The interview time.** I first gave it as 5:48 am. The transcript places it at 5:48 pm. The custody record will settle it.
+4. **The interview time.** About 5:48 am. The second version said pm; that came from how the transcript was built. The officer calls the events "tonight", and that evening an officer speaks of "when we went to interview him this morning". The custody record will confirm.
 
 ## 7. What to give your lawyers
 
@@ -118,7 +120,8 @@ These are the four things the other side will press. Each needs your exact accou
 5. A request for the recording of your 131 444 call and for the three camera serials.
 6. The dog papers, including the December 2024 messages.
 7. The bail undertaking and custody record.
-8. Your account of the four points in section 4.
+8. Your account of the five points in section 4.
+9. The leasing manager's emails and texts of December 2024 to March 2025 (full case, section 4).
 
 ## 8. Law checked
 
