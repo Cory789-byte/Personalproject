@@ -21,6 +21,7 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 4. For the human rights part, the Commissioner may refuse to deal with a complaint not made within one year after the alleged contravention (Human Rights Act 2019 s 70(1)(d)). That is a discretion.
 5. The Commissioner "is not fettered by rigid rules but must take into account all of the relevant circumstances of the particular case" (Buderim Ginger Ltd v Booth [2002] QCA 177 at [22]). A medical condition, and having pursued other avenues of redress, were evidence of good cause in that case ([7]). Good cause is not judged solely by the medical evidence (GCE v Anti-Discrimination Commissioner [2006] QSC 58 at [22]).
 6. The factors the tribunal weighs are the length of the delay, the explanation, the prejudice to each party, and the merits (Smythe v State of Queensland [2024] QCAT 33 at [16]). Where delay was caused by waiting on an internal complaint and the respondent was able to meet the case, the tribunal proceeded (Leah v A.N. Burnett Investments [2025] QCAT 123 at [28]–[30]).
+7. The Commission's own summary of State of Queensland v Ball [2011] QSC 50 says that a "satisfactory explanation for delay is not a condition precedent to the exercise of the discretion", and that "pursuit of other relief is a relevant consideration but does not necessarily disentitle the complainant from pursuing the complaint and showing good cause".
 
 ## 3. Why there is good cause
 

@@ -11,7 +11,7 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | He could not comply because of it | His own evidence; he sent his report on 14 July 2026 | Medical opinion on the time limits themselves, not only the diagnosis | Document 09. This is the most important missing document |
 | He did not in fact comply | His saved correspondence shows no reply to Ethical Standards before the Case Study of 14 July 2026, and his letter of 29 October 2026 mentions none | His confirmation | If he sent anything on 18 or 19 June 2026, tell his lawyers before lodging: this claim changes and Claim 2 remains |
 | A higher proportion of others can comply | Common experience (Hunter at [61]) | Nothing essential | — |
-| Not reasonable (police's onus) | Police's own standard was three business days, and he was given less; the particulars were in police's records; nearly three months to decide; the outcome does not mention his report; police's manual treats mental illness as a vulnerability to be established before taking a complaint (OPM ss 6.3.1, 6.3.2) | Why he was given less than the standard time; whether the decision-maker had his report | Covering letter, paragraph 8; complaint, outcome (h) |
+| Not reasonable (police's onus) | JVM v Brisbane City Council & Ors [2024] QCAT 578 at [118]; police's own guidelines (s 1.12, and 21 days for officers facing discipline); police's own standard was three business days, and he was given less; the particulars were in police's records; nearly three months to decide; the outcome does not mention his report; police's manual treats mental illness as a vulnerability to be established before taking a complaint (OPM ss 6.3.1, 6.3.2) | Why he was given less than the standard time; whether the decision-maker had his report | Covering letter, paragraph 8; complaint, outcome (h) |
 | The area (s 101) | Crime and Corruption Act 2001 s 42(1), (5): dealing with a referred complaint is a statutory function; Woodforth at [24] | Nothing | — |
 
 ## Victimisation (not lodged: document 20)
@@ -27,6 +27,7 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 |---|---|---|---|
 | A decision by a public entity | Outcome advice | Who decided | Complaint, outcome (h) |
 | Relevant rights not identified | The outcome advice itself: a bare statement that police actions "did not unduly limit your Human Rights"; Johnston [2024] QSC 2 at [76], [137], [139]; police's own manual (OPM s 1.2.3) | Nothing | — |
+| The committee's record | Police's guidelines say the committee's "decision, rationale for decision" and any human rights limitation are recorded (Version 3.00, ss 2.4(vi), 2.6.3) | The record itself | Covering letter, paragraph 4; document 08, Request D |
 | Complaint to police first, and 45 business days | Letter of 29 October 2026 | The period ends on 5 January 2027 | Lodge this part from 6 January 2027, or rely on s 65(2) |
 
 ## Claim 3 — 1 to 2 December 2024 (impairment, direct)

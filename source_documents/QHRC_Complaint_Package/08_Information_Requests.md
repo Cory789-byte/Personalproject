@@ -102,7 +102,7 @@ The complaint about a welfare concern for a family member is left out. Records o
 
 ## Request D — Ethical Standards file (lodge last)
 
-For complaint COM-26-01249: my complaint as recorded; the request of 18 June 2026 and any record of the time allowed; the assessment; the record of who decided it; any record of my medical condition being considered; and the documents the outcome advice of 10 September 2026 relied on.
+For complaint COM-26-01249: my complaint as recorded; the request of 18 June 2026 and any record of the time allowed; the assessment; the record of who decided it; any record of my medical condition being considered; and the documents the outcome advice of 10 September 2026 relied on. Include the Complaint Assessment Committee's record of the attendees, the decision and its "rationale for decision", and any human rights limitation recorded for the committee (police's Complaint Resolution Guidelines, Version 3.00, ss 2.4(vi), 2.6.3).
 
 Expect most of this to be refused (document 13, section 4). The routes that reach this file are in document 13, section 6.
 
@@ -112,6 +112,8 @@ The Operational Procedures Manual is now public: every issue since 2020 is on th
 
 - the Ethical Standards Command "Complaint Resolution Guidelines" as in force from 18 June to 10 September 2026 (referred to in Operational Procedures Manual s 1.11.2); and
 - the "Guide to responding to domestic & family violence (DFV) incidents" as in force from 1 December 2024 to 31 March 2025 (referred to in s 9.4.2).
+
+Police have already released Version 3.00 of the Complaint Resolution Guidelines (effective 7 January 2021) under RTI/33360, and it is on police's disclosure log. Ask for the version in force in 2026. Police's manual now refers to a newer complaint system ("PIPS"), so the 2026 version may differ.
 
 If police say either is not a policy document, ask for it by access application instead, and ask the Commissioner to direct its production (covering letter, paragraph 8).
 

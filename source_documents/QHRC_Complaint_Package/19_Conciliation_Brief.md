@@ -35,7 +35,7 @@ About two minutes. Read it if that is easier.
 
 Ask each one plainly and wait for the answer. Each answer helps you whichever way it goes.
 
-1. **"Your acknowledgment of 18 June 2026 gives a complainant three business days. Why was I given until the close of business the next day, and was my report of 14 July 2026 before the person who decided?"** Either answer helps. If the short deadline was a mistake, the complaint was assessed without your material. If it was deliberate, police must explain why.
+1. **"Your acknowledgment of 18 June 2026 gives a complainant three business days. Why was I given until the close of business the next day, and was my report of 14 July 2026 before the person who decided?"** Either answer helps. If the short deadline was a mistake, the complaint was assessed without your material. If it was deliberate, police must explain why. Then: "Your own complaint guidelines give an officer facing discipline 21 days to reply and an extension, and allow for medical reports. Why did a complainant your records describe as mentally ill get one day?"
 2. **"Who decided my complaint on 10 September 2026, and which of my human rights did that person consider?"** The outcome names none.
 3. **"When the dog was released, was an application to a magistrate considered, and why was none made?"** The receipt said one would be.
 4. **"On 24 February 2025 an officer said police do not 'typically get involved' in contested property, and that there was a 'civil aspect' here. On 2 December 2024 the council registration was in my name and no transfer had been signed. Why was the dog contested when I reported it taken, and stolen when she did?"** Police will point to the change-of-owner form you signed between 16 and 19 December 2024. Your answer: you signed it at her request while she held the dog, you told her and police that you still claimed it, and it did not exist on 2 December.
@@ -79,7 +79,10 @@ The Commission sent you a preparation form with these questions in your earlier 
 | Hunter v State of Queensland [2015] QCAT 179 | A wheelchair user put through a fingerprint process he could not physically complete; "temporary feelings of physical discomfort and emotional distress" | $8,000 | [93] |
 | Harding v State of Queensland (QPS) [2025] QCAT 415 | A detainee kept from his medication for five and a half hours; no medical evidence | $10,000 | [108], [110] |
 | Tafao v State of Queensland [2020] QCATA 76 | Indirect discrimination by State officers (s 101); no injury proved. No award could be made for a prisoner without bad faith, but the appeal tribunal said what it would have attributed | $7,500 | [176]–[178] |
+| JVM v Brisbane City Council & Ors [2024] QCAT 578 | A council refused more time to a person whose conditions included major depressive disorder, and did not consider her human rights | $13,847.60 ($5,000 for pain and suffering; $8,847.60 treatment) and a private apology | [145], [147] |
 | The tribunal's general observation | Awards of $20,000 or more "usually" rest on "an injury with some degree of ongoing effect on a person's psychological or emotional functioning" | $20,000 or more | Hunter [91] |
+
+**What the Commission's conciliations show.** Police agreed in one published case "to provide a statement of regret", with no money. In impairment complaints against other respondents the Commission reports "a goodwill payment of $5,000" and "a written apology and $7,500 compensation" (Annual Report 2025–26). Combined discrimination and human rights complaints against public bodies settle less often than others. Expect police to offer words before money.
 
 **What that means for you.**
 

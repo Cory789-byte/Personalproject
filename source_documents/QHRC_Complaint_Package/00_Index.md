@@ -10,16 +10,17 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 
 1. Read the Complete Complaint for Lodging once, start to finish.
 2. Check the five points in the table below.
-3. Date and sign the covering letter, the form answers (answer 12) and the statement of complaint.
-4. Lodge it with the Commission. Attach nothing from the criminal brief.
+3. Date and sign the covering letter and the form answers (the declaration at the end).
+4. Lodge it by email to enquiries@qhrc.qld.gov.au, as one PDF: the Complete Complaint for Lodging (under 20 pages). Do not attach the annexures, the zip or any link. The Commission's limit is "No more than 20 pages including attachments", it does not open zip files or follow links, and it says "If we need more information, we will ask you". Attach nothing from the criminal brief.
+5. Everything you lodge goes to police. The Commission says: "We will share your name, address and contact details with the person or organisation you are complaining about."
 
 **Five points to check before you sign**
 
 | # | Check | Where |
 |---|---|---|
 | 1 | The complaint says you did not send Ethical Standards the particulars by 19 June 2026, or anything else within three business days. Your saved emails show no reply before your report of 14 July 2026. If you did send something, stop and tell your lawyers | Complaint, paragraphs 29A and 42 |
-| 2 | Answer 9 (how this affected you) is drafted from what you said on the recordings and in your Case Study. Change anything that is not right, and add your receipts | Form answers, answer 9 |
-| 3 | The complaint says police have not answered the questions in your letters of 29 October and 5 November 2026. Change it if they have | Complaint, paragraph 31; form answers, answer 6 |
+| 2 | Part E, "What loss, harm or hurt" (how this affected you), is drafted from what you said on the recordings and in your Case Study. Change anything that is not right, and add your receipts | Form answers, Part E |
+| 3 | The complaint says police have not answered the questions in your letters of 29 October and 5 November 2026. Change it if they have | Complaint, paragraph 31; form answers, Part G |
 | 4 | Each line quoted from the cameras of 24 February and 22 March 2025 comes from machine transcripts. Listen to those lines and check who is speaking. One transcript gives the "harassing" line to the same voice as your friend | Complaint, paragraphs 21, 21A, 21B, 24A, 25A and 41A |
 | 5 | Your criminal lawyers should read those six paragraphs before you lodge, and confirm which criminal-case material may be described | Complaint, paragraph 51 |
 
@@ -51,13 +52,16 @@ Your letters to police also give a parcel locker at Bundall. I used your email a
 
 ## What changed in this version (developed further, 19 November 2026)
 
-1. **Your April 2025 complaint is quoted.** You wrote to police on 17 April 2025 that your December report had been "previously rejected", and that when you called their conduct harassment the officer said you had been "belligerent". That is the best answer on delay for December (complaint, paragraph 28; Annexure D).
-2. **Police could not find your December report.** Their reply of 4 April 2025 was headed "Unable to locate report" (paragraph 27).
-3. **An officer at your mother's home explained police's approach.** The officer said police "defer to the judgment of our other police" and "don't reinvestigate" the earlier finding of who needed protection. The complaint now pleads that as a second practice in the alternative (paragraph 41A): the Act requires the person most in need of protection to be identified where allegations conflict, and police's own manual requires a protective assessment at every report. Be aware it also gives police a reason that is not about sex, which weakens the direct claim.
-4. **The whole of the outcome's last sentence is quoted.** It also says police did not breach the Charter of Victims' Rights, again without naming any right (paragraph 30).
-5. **Compensation.** Two more decisions show the tribunal will not award for a worsening of depression on your own account, and that medical records need the doctor's own evidence on cause (advice, section 9). Document 09 matters more than ever.
-6. **Prospects.** The alternative sex claim moves to about 25–35% because of point 3. Everything else is unchanged.
-
+1. **The lodging set now fits the Commission's limit.** The Commission's form says "No more than 20 pages including attachments", no zip files, and "We don't follow links". The lodging file is now 18 pages: the covering letter, the form answers, the statement and Annexure D. Annexures A, B, C and E are in folder 1b, to send when the Commission asks. The form answers now follow the form's Parts A to G.
+2. **The human rights part goes in now.** The Commission says that if both Acts apply it deals with a complaint under one Act, and: "Even if we deal with your complaint under the Anti-Discrimination Act, we still consider your human rights." The complaint now seeks relief for the 2026 decision under s 59 with the discrimination complaint, instead of waiting until 6 January 2027.
+3. **A decided case very like your 2026 claim.** In JVM v Brisbane City Council (2024), refusing more time to a woman with major depressive disorder was held not reasonable, the council was found not to have considered her human rights, and she was awarded $13,847.60 and an apology. One difference: she asked for more time. You did not, but police's own email warned that late material "may not be considered".
+4. **Police's own complaint guidelines.** The version police released under right to information (2021) says officers should give "additional assistance" to complainants with a psychiatric impairment, and gives an officer facing discipline 21 days to reply, with an extension. You were given one day.
+5. **Your April 2025 complaint is quoted.** You wrote that your December report had been "previously rejected", and that when you called police's conduct harassment the officer said you had been "belligerent". That is the best answer on delay for December.
+6. **Police could not find your December report.** Their reply of 4 April 2025 was headed "Unable to locate report".
+7. **An officer at your mother's home explained police's approach:** police "defer to the judgment of our other police" and "don't reinvestigate" the earlier finding of who needed protection. It is pleaded as a second practice (paragraph 41A). Be aware it also gives police a reason that is not about sex.
+8. **The Victims' Charter.** Police's outcome said they had not breached the Charter of Victims' Rights. That opens a further, free complaint to the Victims' Commissioner about December 2024. Do not use it before this complaint is decided, and not without your criminal lawyers (advice, section 5.10).
+9. **The 2022 Commission of Inquiry** found the police complaints system "not sufficiently independent, effective, fair, accessible, responsive, transparent or timely". It also found that domestic violence is gendered and that it is mostly women who are misidentified. It is for conciliation and your lawyers, not for the lodged complaint (advice, section 5.11).
+10. **Prospects.** The 2026 claim moves to about 60–70% at hearing (it still depends on your doctor's report). The alternative sex claim moves to about 25–35%. The direct sex claim is unchanged.
 
 ## Earlier changes (18 November 2026)
 
@@ -79,7 +83,8 @@ Earlier changes in this version: the in-time claim is pleaded on both time limit
 
 | Folder | What it holds | What to do |
 |---|---|---|
-| 1 Lodge with the Commission | **Complete Complaint for Lodging**: one file with the covering letter, the form answers, the statement of complaint and Annexures A to E. The same documents are also there one by one | Check the five points. Sign. Lodge in early December 2026 |
+| 1 Lodge with the Commission | **Complete Complaint for Lodging**: one file of under 20 pages with the covering letter, the form answers (Parts A to G), the statement of complaint and Annexure D. The same documents are also there one by one | Check the five points. Sign. Lodge by email in early December 2026 |
+| 1b Send if the Commission asks | Annexures A (chronology), B (treatment matrix), C (schedule of documents) and E (particulars) | Do not lodge them with the complaint. Send any of them when the Commission asks |
 | 2 Send now | Information requests to police; letter to your doctor; human rights complaint to police; Case Study correction for the letter of 20 November | Send this week, in the order in each document |
 | 3 Your legal team | Advice; outline of submissions; evidence matrix; conciliation brief; police's likely answers and the replies; the information requests tested against the cases; witness outlines; the optional victimisation page | Read. Give to your lawyers. Do not lodge or send, except document 20 if its condition is met |
 | 4 Hold | Schedule X: your account of 23 and 24 February 2025 | Confidential. Hold until the criminal case ends |
@@ -92,11 +97,11 @@ Earlier changes in this version: the in-time claim is pleaded on both time limit
 | 14 | Covering letter to the Commissioner | 1 |
 | 15 | Answers for the Commission's complaint form | 1 |
 | 02 | Statement of complaint | 1 |
-| 03 | Annexure A: Chronology | 1 |
-| 04 | Annexure B: Treatment and comparison matrix | 1 |
-| 05 | Annexure C: Schedule of documents | 1 |
+| 03 | Annexure A: Chronology | 1b |
+| 04 | Annexure B: Treatment and comparison matrix | 1b |
+| 05 | Annexure C: Schedule of documents | 1b |
 | 06 | Annexure D: Time | 1 |
-| 16 | Annexure E: Particulars of each contravention | 1 |
+| 16 | Annexure E: Particulars of each contravention | 1b |
 | 08 | Information requests to police | 2 |
 | 09 | Letter to your treating doctor | 2 |
 | 07 | Human rights complaint to police (s 65) | 2 |
@@ -118,6 +123,6 @@ Earlier changes in this version: the in-time claim is pleaded on both time limit
 | This week | See a family lawyer about the dog: a property claim between former partners has a two-year limit from separation |
 | 20 November 2026 | Letter to the Crime and Corruption Commission, with the Case Study correction. Lodge information Requests A and A2 before or with it |
 | Early December 2026 | Lodge the complaint |
-| 6 January 2027 | The human rights part can be added from this date |
+| 6 January 2027 | The human rights part is made with the discrimination complaint (s 59). If the Commission says it must be a separate complaint, it can be added from this date |
 | March 2027 | Last date for any complaint about the March 2026 conduct |
 | 18 June 2027 | Last date for the 2026 time-limits claim, and for document 20, without needing good cause |
