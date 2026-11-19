@@ -49,7 +49,7 @@ For the complainant's use in preparing statements. Each witness gives only what 
 
 **Topics.**
 
-1. The visit on the evening of 24 February 2025: who came, what they said about the complainant and the dog, including the words "essentially terrorized a female person" if she recalls them.
+1. The visit on the evening of 24 February 2025: who came, what they said about the complainant and the dog, including the words "essentially terrorized a female person" if she recalls them. Also what an officer said when what had happened in December was raised, including whether an officer said police "defer to the judgment of our other police" and "don't reinvestigate that".
 2. The arrangement she described to police ("two to three weeks ... extended out to 10 weeks"): what it was.
 3. Whether the complainant lived with her, or stayed for short periods.
 4. The notices of 23 March, 12 April and 19 April 2025, and what she was told prompted them.

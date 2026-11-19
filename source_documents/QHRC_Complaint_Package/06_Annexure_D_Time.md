@@ -31,7 +31,7 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | Date | Step |
 |---|---|
 | 4 Apr 2025 | Online report of the taking of the dog; status request [42] |
-| 17 Apr 2025 | Written complaint to police about the seizure and the visits, within four weeks of the seizure [44] |
+| 17 Apr 2025 | Written complaint to police about the seizure and the visits, within four weeks of the seizure. It also said that his "Initial police report ... regarding my dog on the 01/12/24" had been "previously rejected" [44] |
 | 18 May 2025 | Wrote to police that his address had been changed |
 | 2025 | Requests for the body-worn camera footage (RTI/56733) and his records (RTI/54169), and external review by the Information Commissioner (318762) |
 | Before 15 Apr 2026 to 18 Jun 2026 | Human rights complaint to this Commission about the same events (EDR19098): accepted 15 Apr 2026; conciliation 14 May 2026; reported unresolved 18 Jun 2026 [48A], [48C], [50A] |
@@ -48,7 +48,7 @@ He lodges this complaint promptly after the internal police process closed.
 
 **(d) His health.** Police recorded on 1 December 2024 that he has "a mental illness and requires medication" [5]. A report from his treating doctor will be provided.
 
-**(e) No prejudice to the respondent.** The body-worn camera footage, the police database records, the property records and the documents relied on all exist. Police have been on notice of the complaint about the seizure since 17 April 2025, and of the whole of it since the Case Study of 14 July 2026, which asked for records to be preserved. This is not a case of lost footage and faded memories (compare Smythe at [33]–[34]). A fair hearing remains possible.
+**(e) No prejudice to the respondent.** The body-worn camera footage, the police database records, the property records and the documents relied on all exist. Police have been on notice of the complaint about the seizure, and that his December report had been rejected, since 17 April 2025, and of the whole of it since the Case Study of 14 July 2026, which asked for records to be preserved. This is not a case of lost footage and faded memories (compare Smythe at [33]–[34]). A fair hearing remains possible.
 
 **(f) The other matters were these matters.** The complainant did not set this complaint aside to pursue unrelated business (compare Smythe at [26]). Every step in (b) was taken against the same respondent about the same events.
 

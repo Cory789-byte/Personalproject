@@ -1,6 +1,6 @@
 # Read this first
 
-Cory Lea Shepherd against the State of Queensland (Queensland Police Service). Complete discrimination complaint, final version, 18 November 2026.
+Cory Lea Shepherd against the State of Queensland (Queensland Police Service). Complete discrimination complaint, final version, 19 November 2026.
 
 Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here has been lodged or sent.
 
@@ -20,8 +20,8 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 | 1 | The complaint says you did not send Ethical Standards the particulars by 19 June 2026, or anything else within three business days. Your saved emails show no reply before your report of 14 July 2026. If you did send something, stop and tell your lawyers | Complaint, paragraphs 29A and 42 |
 | 2 | Answer 9 (how this affected you) is drafted from what you said on the recordings and in your Case Study. Change anything that is not right, and add your receipts | Form answers, answer 9 |
 | 3 | The complaint says police have not answered the questions in your letters of 29 October and 5 November 2026. Change it if they have | Complaint, paragraph 31; form answers, answer 6 |
-| 4 | Each line quoted from the cameras of 24 February and 22 March 2025 comes from machine transcripts. Listen to those lines and check who is speaking. One transcript gives the "harassing" line to the same voice as your friend | Complaint, paragraphs 21A, 21B, 24A and 25A |
-| 5 | Your criminal lawyers should read those four paragraphs before you lodge, and confirm which criminal-case material may be described | Complaint, paragraph 51 |
+| 4 | Each line quoted from the cameras of 24 February and 22 March 2025 comes from machine transcripts. Listen to those lines and check who is speaking. One transcript gives the "harassing" line to the same voice as your friend | Complaint, paragraphs 21, 21A, 21B, 24A, 25A and 41A |
+| 5 | Your criminal lawyers should read those six paragraphs before you lodge, and confirm which criminal-case material may be described | Complaint, paragraph 51 |
 
 **What other people must provide**
 
@@ -49,7 +49,17 @@ Everything is in two forms: PDF to read, and Word (.docx) to edit. Nothing here 
 
 Your letters to police also give a parcel locker at Bundall. I used your email as the address for service, as the Commission did. Add the parcel locker only if it accepts letters.
 
-## What changed in this version (developed further, 18 November 2026)
+## What changed in this version (developed further, 19 November 2026)
+
+1. **Your April 2025 complaint is quoted.** You wrote to police on 17 April 2025 that your December report had been "previously rejected", and that when you called their conduct harassment the officer said you had been "belligerent". That is the best answer on delay for December (complaint, paragraph 28; Annexure D).
+2. **Police could not find your December report.** Their reply of 4 April 2025 was headed "Unable to locate report" (paragraph 27).
+3. **An officer at your mother's home explained police's approach.** The officer said police "defer to the judgment of our other police" and "don't reinvestigate" the earlier finding of who needed protection. The complaint now pleads that as a second practice in the alternative (paragraph 41A): the Act requires the person most in need of protection to be identified where allegations conflict, and police's own manual requires a protective assessment at every report. Be aware it also gives police a reason that is not about sex, which weakens the direct claim.
+4. **The whole of the outcome's last sentence is quoted.** It also says police did not breach the Charter of Victims' Rights, again without naming any right (paragraph 30).
+5. **Compensation.** Two more decisions show the tribunal will not award for a worsening of depression on your own account, and that medical records need the doctor's own evidence on cause (advice, section 9). Document 09 matters more than ever.
+6. **Prospects.** The alternative sex claim moves to about 25–35% because of point 3. Everything else is unchanged.
+
+
+## Earlier changes (18 November 2026)
 
 1. **Police's own manual is now in the complaint.** The Operational Procedures Manual is public, issue by issue. The issue in force on each date was read, and every passage quoted was checked against it.
    - **The dog.** On 22 March 2025 an "ORDER" required an officer "who becomes aware of a dispute about the ownership of property" to apply to a magistrate under s 694 (s 4.7.1). Police did not. This is the strongest single document in the complaint about the dog.

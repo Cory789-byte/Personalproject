@@ -78,12 +78,13 @@ The Commission sent you a preparation form with these questions in your earlier 
 |---|---|---|---|
 | Hunter v State of Queensland [2015] QCAT 179 | A wheelchair user put through a fingerprint process he could not physically complete; "temporary feelings of physical discomfort and emotional distress" | $8,000 | [93] |
 | Harding v State of Queensland (QPS) [2025] QCAT 415 | A detainee kept from his medication for five and a half hours; no medical evidence | $10,000 | [108], [110] |
+| Tafao v State of Queensland [2020] QCATA 76 | Indirect discrimination by State officers (s 101); no injury proved. No award could be made for a prisoner without bad faith, but the appeal tribunal said what it would have attributed | $7,500 | [176]–[178] |
 | The tribunal's general observation | Awards of $20,000 or more "usually" rest on "an injury with some degree of ongoing effect on a person's psychological or emotional functioning" | $20,000 or more | Hunter [91] |
 
 **What that means for you.**
 
 - Without a doctor's report, expect the in-time claim to be valued in the $8,000 to $10,000 range.
-- With a report that the time limits and the closure of your complaint made your depression worse for a period, the range moves up. That is why document 09 matters for the amount, not only for liability.
+- With a report that the time limits and the closure of your complaint made your depression worse for a period, the range moves up. That is why document 09 matters for the amount, not only for liability. The report must come from your doctor and must say what caused the change. The tribunal would not award damages for depression on the applicant's own account (Tafao v State of Queensland & Ors [2018] QCAT 409 at [217]), and medical records without the author's evidence did not prove cause (Nguyen v State of Queensland (QPS) & Anor [2026] QCAT 72 at [112]).
 - The older claims, if accepted, add the dog, the home and the visits to your family. They are worth more, but they are out of time and harder to prove. Do not count on them in your floor.
 - Settle your opening figure and your floor with your lawyers before the day. Open above the range, because the complaint covers more than one episode, and say why.
 - The human rights part gives no money (Human Rights Act s 59(3)). Use it for the non-money terms.

@@ -64,6 +64,8 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 | He could not comply | Receipt; release before his court application | Release date | Request B, item 2 |
 | A higher proportion of women can comply | Queensland Courts DFV statistics, Table 10 (84.7% male respondents, 1 Jul to 31 Oct 2026); QGSO 2021, Figure 6 (76.8% between intimate partners); QSAC May 2025 (84.0% of those sentenced for contravention) | Nothing essential | — |
 | Not reasonable (police's onus) | s 694 route existed; receipt promised it ; police's own "ORDER" required it (OPM s 4.7.1) | Nothing | — |
+| A second practice: deferring to the earlier finding (in the alternative) | An officer at his mother's home, 24 February 2025: "we have to defer to the judgment of our other police"; "we don't reinvestigate that" [34] | The speaker confirmed against the footage; criminal lawyers' clearance | Listen to the clip (about 10:29 pm); check 5 |
+| Not reasonable (second term) | DFVPA s 4(2)(e); OPM Issues 102 and 104, s 9.4.2; the application withdrawn the next day [35] | Nothing | — |
 
 ## Time
 
@@ -83,6 +85,14 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 - **The order served on 22 March 2025.** It was the one made on 21 March 2025 (D54).
 - **A harassment complaint before 22 March 2025.** None is in your schedule D1 to D64.
 
+## Settled from your own records (19 November 2026)
+
+- **A written complaint about harassment.** Your email to Policelink of 17 April 2025 (D25) says that when you described police's conduct as harassment, the officer "dismissed my concerns, stating I had been 'belligerent' during a phone call". The same email says your December report had been "previously rejected".
+- **Your December report.** Police answered your status request of 4 April 2025 under the heading "Unable to locate report" (D22).
+- **Who decided the 2026 complaint.** The outcome says it "was assessed by the ESC, including review by the State Coordinator", although the Crime and Corruption Commission referred it to the Deputy Commissioner.
+- **The outcome's last sentence** also says police did not "contravene the Charter of Victims’ Rights".
+
+
 ## Points only you can settle
 
 1. Whether you sent Ethical Standards anything on 18 or 19 June 2026. The complaint says you did not.
@@ -91,5 +101,6 @@ Cory Lea Shepherd against the State of Queensland (Queensland Police Service). F
 4. Why you wrote on 9 December 2024 that you had not "pressed charges".
 5. Whether you accept what police recorded you as saying by telephone on 1 December 2024.
 6. The date you and your former partner stopped living together as a couple (for the family law deadline).
-7. When you first told the investigating officer himself that police were harassing you, and whether you said it at your friend's home on 24 February 2025.
+7. When you first told the investigating officer himself that police were harassing you, and whether you said it at your friend's home on 24 February 2025. Your email of 17 April 2025 says the officer called you "belligerent" during a phone call: when was that call?
 8. Who your solicitor was in March 2025, and whether you can get the firm's file notes of its calls to police.
+9. Your email of 17 April 2025 says police "could not attend a location 200 metres from the station for four hours" when you asked for help. Was that on 1 December 2024, or in February 2025? If it was December, it goes into the complaint. If February, it stays with your criminal lawyers.

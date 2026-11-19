@@ -81,8 +81,8 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 | | His report | Her report |
 |---|---|---|
 | When | 1 Dec 2024; renewed online 4 Apr 2025 [7], [42] | 23–25 Feb 2025 [35] |
-| Outcome | Declined: "already been reported to Police with advice provided"; status request "does not match our records" [42] | Charges, seizure, release of the dog to her [40], [45] |
-| His written complaint | 17 Apr 2025: "forwarded to the appropriate department"; no outcome [44] | — |
+| Outcome | Declined: "already been reported to Police with advice provided"; status request answered under the heading "Unable to locate report": the information "does not match our records" [42] | Charges, seizure, release of the dog to her [40], [45] |
+| His written complaint | 17 Apr 2025: his December report "previously rejected"; he had described police's conduct as harassment. Reply: "forwarded to the appropriate department"; no outcome [44] | — |
 
 **Attribute.** Sex.
 
@@ -98,4 +98,4 @@ The Anti-Discrimination Act 1991 asks how police treated the complainant compare
 
 ## The thread that runs through every episode
 
-Each time police had to decide whose account to act on, they acted on hers and sent him to the courts. The decision that set this pattern was the designation of 1 December 2024 [5], made before the people entered his home. The December records (Annexure C, item 1) will show what police knew when they made it.
+Each time police had to decide whose account to act on, they acted on hers and sent him to the courts. The decision that set this pattern was the designation of 1 December 2024 [5], made before the people entered his home. The December records (Annexure C, item 1) will show what police knew when they made it. Later officers then deferred to it. On 24 February 2025 an officer told his mother that "we have to defer to the judgment of our other police" and "we don't reinvestigate that" [34]. The application for that order was withdrawn the next day [35].
