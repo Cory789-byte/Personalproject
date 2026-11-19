@@ -540,6 +540,8 @@ _Cory followed into a Supercheap carpark. Romeo seized. The seizure proceeds on 
 
 **Officers observe a 'duress flag' on Cory's call sign on the dispatch system — one officer comments 'the duress has never been removed from you'. System-level annotation issue documented.**
 
+> **Correction, 18 November 2026.** Do not rely on this entry. The words are "our call sign's coming up under duress again ... this is what your call sign was showing the other day ... the duress has never been removed from you". One officer is speaking to another about their own radio call sign. Cory has no call sign. This is not evidence of a flag on Cory's record. See QHRC_Complaint_Package/01_Counsel_Advice.md, section 5.6.
+
 **Evidence anchors:**
 - RTI Axon Body 3 [04:00-04:32] — officer-to-officer comment on duress flag persisting on Cory's call sign
 - Cross-reference: unilateral residential-address change to mother's address (RTI/54169 records the change in writing)
