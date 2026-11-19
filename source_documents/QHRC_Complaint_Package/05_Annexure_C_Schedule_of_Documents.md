@@ -13,7 +13,7 @@ Complaint of Cory Lea Shepherd against the State of Queensland (Queensland Polic
 | D4 | Notice of intention to leave (RTA Form 13) | 7 Dec 2024 | "Without grounds"; leaving "Immediately (minimum notice periods apply)"; forwarding address Unit 104 | Held |
 | D5 | Temporary protection order MAG-00196566/24(4) | 3 Dec 2024 | Good behaviour; entry with police to collect "undisputed personal property"; no exclusion | Held |
 | D6 | Court record: "APPLICATION IS WITHDRAWN, TPO VACATED" | 25 Feb 2025 | Application withdrawn two days after the arrest | Held |
-| D7 | Issuing officer's written statement that the application was struck out "upon my submission of no evidence from the aggrieved" | 21 Aug 2025 | The application was not pursued | Held |
+| D7 | Issuing officer's written statement that the application was struck out "upon my submission of no evidence from the aggrieved", and that another application "may have been made by another officer from Southport who incorrectly used my original Police occurrence" | 21 Aug 2025 | The application was not pursued | Held |
 | D9 | Former partner's police statement (QP 0125A) | 25 Feb 2025 | Her account of 23 Feb is second-hand; she was interstate | Criminal case |
 | D10 | Her friend's police statement | 24 Feb 2025 | The account police acted on | Criminal case |
 | D11 / D62 | Police court brief (QP9), three versions | 2025–2026 | Prosecution relies on the change-of-owner form; omits the 2:28 am lease confirmation | Criminal case |
